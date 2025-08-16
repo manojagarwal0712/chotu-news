@@ -1,6 +1,7 @@
 import feedparser
 from bs4 import BeautifulSoup
 import re
+from newspaper import Article
 from datetime import datetime
 
 def clean_html(raw_html):
@@ -20,8 +21,28 @@ def extract_details_link(entry):
                 return a.get("href")
     return None
 
+def fetch_article_summary(url, min_len=100, max_len=500):
+    """
+    Fetch article content and generate a summary.
+    newspaper3k auto-summarizes; if it fails, fall back to description/title.
+    """
+    try:
+        article = Article(url)
+        article.download()
+        article.parse()
+        article.nlp()  # enables .summary
+
+        if article.summary:
+            return article.summary
+        else:
+            # fallback: truncate article text
+            text = article.text.strip()
+            return text[:max_len] + "..." if len(text) > max_len else text
+    except Exception:
+        return None
+
 def summarize_entry(entry):
-    """Format a single RSS entry into one-liner news."""
+    """Format a single RSS entry into a contextual summary."""
     title = entry.get("title", "").strip()
     link = entry.get("link", "").strip()
 
@@ -32,15 +53,22 @@ def summarize_entry(entry):
         except Exception:
             pass
 
+    # Prefer full article summary
+    article_summary = fetch_article_summary(link)
     details_link = extract_details_link(entry)
 
-    if details_link:
-        return f"{title} ([Details here]({details_link}), via [{source}]({link}))"
+    if article_summary:
+        summary_text = f"**{title}**\n\n{article_summary}\n\n*(via [{source}]({link}))*"
     else:
-        return f"{title} (via [{source}]({link}))"
+        summary_text = f"**{title}** (via [{source}]({link}))"
 
-def fetch_and_summarize(feeds, limit=7):
-    """Fetch news from multiple feeds and return one-liners."""
+    if details_link:
+        summary_text += f" [Details here]({details_link})"
+
+    return summary_text
+
+def fetch_and_summarize(feeds, limit=5):
+    """Fetch news from multiple feeds and return summaries."""
     summaries = []
     for feed_url in feeds:
         try:
@@ -67,11 +95,11 @@ def load_feeds(file_path="feeds.txt"):
 
 if __name__ == "__main__":
     feeds = load_feeds("feeds.txt")
-    lines = fetch_and_summarize(feeds, limit=7)
+    lines = fetch_and_summarize(feeds, limit=5)
 
-    summary_md = "## India One-Liner News\n\n"
+    summary_md = "## India News Summaries\n\n"
     for line in lines:
-        summary_md += f"- {line}\n"
+        summary_md += f"- {line}\n\n"
 
     output_path = "docs/index.md"
     with open(output_path, "w", encoding="utf-8") as f:
