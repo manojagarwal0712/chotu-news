@@ -1,7 +1,7 @@
 import feedparser
-from requests_html import HTMLSession
+import requests
+from bs4 import BeautifulSoup
 from transformers import pipeline
-import time
 
 # -------------------------------
 # Setup summarizer
@@ -9,32 +9,28 @@ import time
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
 # -------------------------------
-# Setup HTML session
-# -------------------------------
-session = HTMLSession()
-
-# -------------------------------
 # Fetch article content
 # -------------------------------
 def fetch_article_content(url):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/139.0.0.0 Safari/537.36"
+    }
     try:
-        r = session.get(url, headers={
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                          "AppleWebKit/537.36 (KHTML, like Gecko) "
-                          "Chrome/139.0.0.0 Safari/537.36"
-        })
-        # Render JS for dynamic content
-        r.html.render(timeout=15, sleep=2)
+        resp = requests.get(url, headers=headers, timeout=10)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
 
-        # Extract paragraphs
-        paragraphs = r.html.find("p")
-        content = " ".join([p.text for p in paragraphs]).strip()
+        # Extract text from <p> tags
+        paragraphs = [p.get_text() for p in soup.find_all("p")]
+        content = " ".join(paragraphs).strip()
 
         # Fallback: meta description
         if not content:
-            meta = r.html.find('meta[name="description"]', first=True)
-            if meta and 'content' in meta.attrs:
-                content = meta.attrs['content']
+            meta_desc = soup.find("meta", attrs={"name": "description"})
+            if meta_desc and meta_desc.get("content"):
+                content = meta_desc["content"]
 
         if not content:
             print(f"⚠ No content found for {url}")
