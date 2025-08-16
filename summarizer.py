@@ -1,77 +1,106 @@
 import feedparser
-import requests
-from bs4 import BeautifulSoup
-from markdownify import markdownify as md
-from transformers import pipeline
 from newspaper import Article
+from transformers import pipeline
 import os
-from datetime import datetime
+import re
 
-# Summarizer pipeline
-summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
+# -------------------------------
+# Init summarizer (Hugging Face)
+# -------------------------------
+summarizer = pipeline(
+    "summarization",
+    model="sshleifer/distilbart-cnn-12-6",
+    tokenizer="sshleifer/distilbart-cnn-12-6",
+    framework="pt"  # torch
+)
 
-# Keyword-based categorization rules
+# -------------------------------
+# Categorization rules (fast, lightweight)
+# -------------------------------
 CATEGORIES = {
-    "India – Crime & Security": ["terror", "gang", "murder", "attack", "crime", "police", "killed", "death", "crash", "accident", "search"],
-    "Science & Space": ["isro", "nasa", "satellite", "space", "launch", "rocket"],
-    "Politics & Governance": ["modi", "bjp", "congress", "minister", "election", "cm", "government", "parliament", "statehood"],
-    "Economy & Public Interest": ["bank", "economy", "holiday", "inflation", "stock", "market"],
-    "Technology & Innovation": ["ai", "google", "meta", "microsoft", "apple", "technology", "tech", "pixel", "iphone", "cyber", "scam", "tv"],
-    "Business & Thought Leadership": ["startup", "capital", "investor", "founder", "business", "market", "funding"],
+    "Politics": ["election", "government", "minister", "policy", "parliament", "bjp", "congress"],
+    "Markets": ["stock", "market", "nifty", "sensex", "shares", "ipo", "trading", "sebi"],
+    "Startups": ["startup", "funding", "venture", "founder", "unicorn", "seed round", "accelerator"],
+    "Tech": ["AI", "software", "app", "gadget", "tech", "smartphone", "internet", "cyber", "semiconductor"],
+    "Sports": ["cricket", "football", "hockey", "tournament", "match", "score", "ipl", "olympics"],
+    "Default": []
 }
 
-def categorize(text):
-    text_lower = text.lower()
-    for category, keywords in CATEGORIES.items():
-        if any(kw in text_lower for kw in keywords):
-            return category
-    return "Miscellaneous"
+# -------------------------------
+# Clean and categorize helpers
+# -------------------------------
+def clean_text(text: str) -> str:
+    return re.sub(r"\s+", " ", text).strip()
 
-def fetch_article_summary(url):
+def categorize(title: str, summary: str) -> str:
+    text = (title + " " + summary).lower()
+    for cat, keywords in CATEGORIES.items():
+        if any(kw.lower() in text for kw in keywords):
+            return cat
+    return "Default"
+
+# -------------------------------
+# Summarization helper
+# -------------------------------
+def summarize_text(text: str, max_len: int = 80) -> str:
     try:
-        article = Article(url)
-        article.download()
-        article.parse()
-        article.nlp()
-        full_text = article.text
-
-        # Hugging Face summarizer
-        summary = summarizer(full_text, max_length=180, min_length=60, do_sample=False)[0]['summary_text']
-        return summary
+        result = summarizer(text, max_length=max_len, min_length=20, do_sample=False)
+        return clean_text(result[0]['summary_text'])
     except Exception as e:
-        return f"Error fetching article: {e}"
+        return clean_text(text[:200])  # fallback: truncate
 
-def fetch_and_summarize(feeds):
-    categorized_articles = {}
+# -------------------------------
+# Fetch + Summarize
+# -------------------------------
+def fetch_and_summarize(feed_urls):
+    articles = []
+    for feed_url in feed_urls:
+        try:
+            feed = feedparser.parse(feed_url)
+            for entry in feed.entries[:5]:  # limit per feed
+                url = entry.link
+                try:
+                    article = Article(url)
+                    article.download()
+                    article.parse()
+                    article.nlp()
+                except Exception:
+                    continue
 
-    for feed_url in feeds:
-        feed = feedparser.parse(feed_url)
-        for entry in feed.entries[:10]:  # limit to 10 per feed
-            title = entry.title
-            link = entry.link
-            summary = fetch_article_summary(link)
-            combined_text = f"{title} — {summary}"
-            category = categorize(combined_text)
+                summary = summarize_text(article.text)
+                category = categorize(article.title, summary)
 
-            if category not in categorized_articles:
-                categorized_articles[category] = []
-            categorized_articles[category].append(f"- **{title}** ({link})\n  {summary}")
+                articles.append({
+                    "title": clean_text(article.title),
+                    "url": url,
+                    "summary": summary,
+                    "category": category
+                })
+        except Exception as e:
+            print(f"❌ Failed to parse {feed_url}: {e}")
+    return articles
 
-    return categorized_articles
-
-def save_markdown(categorized_articles, output_file="docs/index.md"):
-    with open(output_file, "w", encoding="utf-8") as f:
-        f.write(f"# 📰 Chotu News — {datetime.now().strftime('%B %d, %Y')}\n\n")
-        for category, articles in categorized_articles.items():
-            f.write(f"## {category}\n")
-            f.write("\n".join(articles))
-            f.write("\n\n")
-
+# -------------------------------
+# Main
+# -------------------------------
 if __name__ == "__main__":
-    # Load feeds.txt
-    with open("feeds.txt", "r") as f:
-        feeds = [line.strip() for line in f if line.strip()]
+    # Load and sanitize feeds.txt
+    with open("feeds.txt") as f:
+        feeds = [line.strip() for line in f if line.strip() and not line.startswith("#")]
 
     categorized_articles = fetch_and_summarize(feeds)
-    save_markdown(categorized_articles)
-    print("✅ News summaries updated in docs/index.md")
+
+    # Group by category
+    grouped = {}
+    for art in categorized_articles:
+        grouped.setdefault(art["category"], []).append(art)
+
+    # Write Markdown to doc/index.md
+    os.makedirs("doc", exist_ok=True)
+    with open("doc/index.md", "w", encoding="utf-8") as f:
+        f.write("# 📰 Daily News Digest\n\n")
+        for cat, arts in grouped.items():
+            f.write(f"## {cat}\n\n")
+            for a in arts:
+                f.write(f"### [{a['title']}]({a['url']})\n\n")
+                f.write(f"{a['summary']}\n\n")
