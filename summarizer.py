@@ -1,87 +1,61 @@
 import feedparser
-import re
 import requests
 from bs4 import BeautifulSoup
-from transformers import pipeline
-from markdownify import markdownify as md
+import re
 
-# Load summarizer once (distilbart is light & works well)
-summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6")
-
-# --- Utility functions ---
-
-def clean_text(text: str) -> str:
-    """Remove HTML and extra spaces."""
-    text = md(text or "")
-    return re.sub(r"\s+", " ", text).strip()
-
-def bold_numbers(text: str) -> str:
-    """Highlight numbers/lakh/crore with bold for readability."""
-    return re.sub(r"(\b\d[\d,\.]*\s?(?:lakh|crore|cr|₹|usd|%|million|billion)?)",
-                  r"**\1**", text, flags=re.I)
-
-def summarize_text(text: str) -> str:
-    """Generate a short summary using HF model."""
-    if not text:
+def clean_html(raw_html):
+    """Remove HTML tags and extra spaces from feed description."""
+    if not raw_html:
         return ""
-    try:
-        summary = summarizer(text, max_length=30, min_length=10, do_sample=False)
-        return summary[0]["summary_text"].strip()
-    except Exception:
-        return text[:200]  # fallback
+    soup = BeautifulSoup(raw_html, "html.parser")
+    return soup.get_text(" ", strip=True)
 
-def extract_official_link(summary_html: str) -> str:
-    """Look for gov.in / nic.in / .pdf links inside description."""
-    soup = BeautifulSoup(summary_html or "", "html.parser")
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if any(x in href for x in [".pdf", "gov.in", "nic.in"]):
-            return href
+def extract_details_link(entry):
+    """Try to find a 'Details here' link from entry description if present."""
+    if hasattr(entry, "description"):
+        soup = BeautifulSoup(entry.description, "html.parser")
+        a_tags = soup.find_all("a")
+        for a in a_tags:
+            if "detail" in a.get_text(strip=True).lower():
+                return a.get("href")
     return None
 
-# --- Main function ---
+def summarize_entry(entry):
+    """Format a single RSS entry into one-liner news."""
+    title = entry.get("title", "").strip()
+    link = entry.get("link", "").strip()
+    source = re.sub(r"^https?://(www\.)?", "", link.split("/")[2]) if link else "source"
 
-def fetch_and_summarize(feeds, limit=5):
-    all_lines = []
+    # Try to find 'Details here' link inside description
+    details_link = extract_details_link(entry)
+
+    # Construct formatted output
+    if details_link:
+        return f"{title} ([Details here]({details_link}), via [{source}]({link}))"
+    else:
+        return f"{title} (via [{source}]({link}))"
+
+def fetch_and_summarize(feeds, limit=10):
+    """Fetch news from multiple feeds and return one-liners."""
+    summaries = []
     for feed_url in feeds:
-        feed = feedparser.parse(feed_url)
-        for entry in feed.entries[:limit]:
-            title = clean_text(entry.get("title", ""))
-            desc = clean_text(entry.get("summary", ""))
-            link = entry.get("link", "")
+        try:
+            feed = feedparser.parse(feed_url)
+            for entry in feed.entries[:limit]:
+                summaries.append(summarize_entry(entry))
+        except Exception as e:
+            summaries.append(f"⚠️ Error fetching {feed_url}: {e}")
+    return summaries
 
-            # Try to summarize description
-            summary = summarize_text(desc) if desc else ""
-            if not summary or summary.lower().startswith("in one sentence"):
-                final_text = title
-            else:
-                final_text = summary
-
-            final_text = bold_numbers(final_text)
-
-            # Add source
-            domain = re.sub(r"^https?://(www\.)?", "", link).split("/")[0]
-            source_link = f"[{domain}](https://{domain})"
-
-            # Check for official notification
-            official = extract_official_link(entry.get("summary", ""))
-            if official:
-                line = f"- {final_text} [📄 Details here]({official}) · via {source_link}"
-            else:
-                line = f"- {final_text} (via {source_link})"
-
-            all_lines.append(line)
-    return all_lines
+def load_feeds(file_path="feeds.txt"):
+    """Load RSS feeds from a file, stripping whitespace and ignoring comments."""
+    with open(file_path, "r") as f:
+        return [line.strip() for line in f if line.strip() and not line.startswith("#")]
 
 if __name__ == "__main__":
-    feeds = []
-    with open("feeds.txt") as f:
-        feeds = [line.strip() for line in f if line.strip() and not line.startswith("#")]
-
+    feeds = load_feeds("feeds.txt")
     lines = fetch_and_summarize(feeds, limit=7)
 
-    output_md = "# India One-Liner News\n\n" + "\n".join(lines)
-    with open("docs/news.md", "w", encoding="utf-8") as f:
-        f.write(output_md)
-
-    print("✅ News summary updated.")
+    print("## India One-Liner News\n")
+    for line in lines:
+        print(f"- {line}")
