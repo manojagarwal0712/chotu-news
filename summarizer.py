@@ -1,7 +1,5 @@
 import feedparser
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
+from requests_html import HTMLSession
 from transformers import pipeline
 import time
 
@@ -11,34 +9,32 @@ import time
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
 # -------------------------------
-# Setup Selenium headless browser
+# Setup HTML session
 # -------------------------------
-def get_headless_driver():
-    options = Options()
-    options.headless = True
-    options.add_argument("--disable-gpu")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--window-size=1920,1080")
-    options.add_argument("--disable-dev-shm-usage")
-    options.add_argument(
-        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/139.0.0.0 Safari/537.36"
-    )
-    driver = webdriver.Chrome(options=options)
-    return driver
+session = HTMLSession()
 
 # -------------------------------
-# Fetch article content using Selenium
+# Fetch article content
 # -------------------------------
-def fetch_article_content(driver, url):
+def fetch_article_content(url):
     try:
-        driver.get(url)
-        time.sleep(2)  # wait for page to load JS content
+        r = session.get(url, headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                          "AppleWebKit/537.36 (KHTML, like Gecko) "
+                          "Chrome/139.0.0.0 Safari/537.36"
+        })
+        # Render JS for dynamic content
+        r.html.render(timeout=15, sleep=2)
 
-        # Grab all <p> tags
-        paragraphs = driver.find_elements(By.TAG_NAME, "p")
+        # Extract paragraphs
+        paragraphs = r.html.find("p")
         content = " ".join([p.text for p in paragraphs]).strip()
+
+        # Fallback: meta description
+        if not content:
+            meta = r.html.find('meta[name="description"]', first=True)
+            if meta and 'content' in meta.attrs:
+                content = meta.attrs['content']
 
         if not content:
             print(f"⚠ No content found for {url}")
@@ -82,7 +78,6 @@ def categorize_article(title, summary):
 # -------------------------------
 def fetch_and_summarize(feeds):
     categorized = {"Startups": [], "Markets": [], "Tech": [], "Politics": [], "General": []}
-    driver = get_headless_driver()
 
     for feed_url in feeds:
         try:
@@ -91,7 +86,7 @@ def fetch_and_summarize(feeds):
                 title = entry.title
                 link = entry.link
 
-                content = fetch_article_content(driver, link)
+                content = fetch_article_content(link)
                 if not content:
                     continue
 
@@ -108,7 +103,6 @@ def fetch_and_summarize(feeds):
         except Exception as e:
             print(f"❌ Failed to parse {feed_url}: {e}")
 
-    driver.quit()
     return categorized
 
 # -------------------------------
