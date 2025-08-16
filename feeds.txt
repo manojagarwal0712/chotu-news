@@ -1,0 +1,14 @@
+# India-first RSS feeds (tech, startups, politics, markets)
+
+https://indianexpress.com/section/india/feed/            # Indian Express: India
+https://indianexpress.com/section/technology/feed/       # Indian Express: Technology
+https://feeds.feedburner.com/ndtvnews-india-news         # NDTV India
+https://www.livemint.com/rss/companies                   # LiveMint: Companies
+https://www.livemint.com/rss/markets                     # LiveMint: Markets
+https://www.livemint.com/rss/technology                  # LiveMint: Tech
+https://www.business-standard.com/rss/markets-106.rss    # Business Standard: Markets
+https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms   # ET Markets
+https://www.gadgets360.com/rss/news                      # Gadgets360 News
+https://inc42.com/feed/                                  # Inc42 Startups
+https://yourstory.com/feed/                              # YourStory
+https://entrackr.com/feed/                               # Entrackr
