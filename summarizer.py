@@ -1,88 +1,70 @@
 import feedparser
+import requests
 from transformers import pipeline
-import re
 
-# ----------------------------
-# Setup summarizer
-# ----------------------------
+# Initialize summarizer
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
-def auto_summarize(text: str) -> str:
-    """
-    Summarize text with auto-adjusted max_length.
-    Ensures shorter output than input and avoids warnings.
-    """
-    if not text or len(text.split()) < 5:
-        return text.strip()
-
-    input_len = len(text.split())
-
-    # Output should be ~40-50% of input, but at least 20 words
-    max_len = max(20, int(input_len * 0.5))
-    min_len = max(10, int(max_len * 0.3))
-
-    summary = summarizer(
-        text,
-        max_length=max_len,
-        min_length=min_len,
-        do_sample=False
-    )[0]['summary_text']
-
-    return summary.strip()
-
-
-# ----------------------------
-# Helpers
-# ----------------------------
-def is_valid_url(url: str) -> bool:
-    """Validate if a string is a proper http/https URL."""
-    return re.match(r'^https?://', url) is not None
-
-
-def clean_feed_list(feed_file="feeds.txt"):
-    """Read and clean feed URLs from file."""
-    feeds = []
-    with open(feed_file, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if not line or line.startswith("#"):
-                continue
-            if is_valid_url(line):
-                feeds.append(line)
-            else:
-                print(f"⚠ Skipping invalid URL: {line}")
-    return feeds
-
-
-def process_feed(feed_url: str):
-    """Parse a single RSS feed and summarize entries."""
+# Custom feed fetcher with User-Agent (fixes blocked feeds)
+def fetch_feed(url):
     try:
-        feed = feedparser.parse(feed_url)
-        print(f"\n🔗 Processing feed: {feed_url}")
-        if not feed.entries:
-            print("⚠ No entries found.")
-            return
-
-        for entry in feed.entries[:5]:  # limit per feed
-            title = entry.get("title", "").strip()
-            summary = entry.get("summary", "").strip()
-            content = entry.get("content", [{}])[0].get("value", "").strip()
-
-            text = content or summary or title
-            if not text:
-                continue
-
-            short_summary = auto_summarize(text)
-            print(f"📰 {title}\n👉 {short_summary}\n")
-
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+        resp = requests.get(url.strip(), headers=headers, timeout=10)
+        resp.raise_for_status()
+        return feedparser.parse(resp.text)
     except Exception as e:
-        print(f"❌ Error processing {feed_url}: {e}")
+        print(f"❌ Error fetching {url}: {e}")
+        return None
 
+# Summarize text with adaptive length
+def summarize_text(text):
+    input_length = len(text.split())
+    if input_length < 5:
+        return text  # Skip summarization for very short text
 
-# ----------------------------
-# Main
-# ----------------------------
+    # Dynamic max_length (half input size, but between 10–130)
+    max_length = max(10, min(130, input_length // 2))
+
+    try:
+        summary = summarizer(
+            text,
+            max_length=max_length,
+            min_length=5,
+            do_sample=False
+        )
+        return summary[0]['summary_text']
+    except Exception as e:
+        return f"⚠ Error summarizing: {e}"
+
+def process_feeds():
+    with open("feeds.txt", "r") as f:
+        feed_urls = f.readlines()
+
+    for line in feed_urls:
+        if not line.strip() or line.strip().startswith("#"):
+            continue
+
+        parts = line.strip().split("#")
+        url = parts[0].strip()
+        source = parts[1].strip() if len(parts) > 1 else "Unknown"
+
+        print(f"\n🔗 Processing feed: {url} ({source})")
+        feed = fetch_feed(url)
+
+        if not feed or not feed.entries:
+            print("⚠ No entries found.")
+            continue
+
+        for entry in feed.entries[:3]:  # Limit to 3 per feed
+            title = entry.get("title", "No title")
+            summary_input = entry.get("summary", entry.get("description", ""))
+
+            print(f"\n📰 {title}")
+            if summary_input:
+                summary_output = summarize_text(summary_input)
+                print(f"✍ Summary: {summary_output}")
+            else:
+                print("⚠ No content to summarize.")
+
 if __name__ == "__main__":
-    feeds = clean_feed_list("feeds.txt")
-    for feed_url in feeds:
-        process_feed(feed_url)
+    process_feeds()
