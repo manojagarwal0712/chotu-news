@@ -1,81 +1,87 @@
-import os, re, time, feedparser, requests
+import feedparser
+import re
+import requests
 from bs4 import BeautifulSoup
-from pathlib import Path
 from transformers import pipeline
+from markdownify import markdownify as md
 
-STYLE_PREFIX = "In one sentence: "
-STYLE_SUFFIX = ""
+# Load summarizer once (distilbart is light & works well)
+summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6")
 
-MAX_ITEMS = 40
-PER_FEED_LIMIT = 5
+# --- Utility functions ---
 
-# Load feeds
-feeds = [line.strip().split()[0] for line in open("feeds.txt") if line.strip() and not line.strip().startswith("#")]
+def clean_text(text: str) -> str:
+    """Remove HTML and extra spaces."""
+    text = md(text or "")
+    return re.sub(r"\s+", " ", text).strip()
 
-# Use lightweight summarization model (optimized for GitHub Actions)
-summarizer = pipeline("summarization", model="google/pegasus-xsum")
+def bold_numbers(text: str) -> str:
+    """Highlight numbers/lakh/crore with bold for readability."""
+    return re.sub(r"(\b\d[\d,\.]*\s?(?:lakh|crore|cr|₹|usd|%|million|billion)?)",
+                  r"**\1**", text, flags=re.I)
 
-def clean_html(html):
-    soup = BeautifulSoup(html, "html.parser")
-    for tag in soup(["script", "style"]):
-        tag.decompose()
-    return soup.get_text(" ", strip=True)
-
-def fetch_article(url):
-    try:
-        r = requests.get(url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
-        if r.status_code == 200:
-            return clean_html(r.text)
-    except Exception:
-        return ""
-    return ""
-
-def summarize_text(text):
-    text = text.strip()
+def summarize_text(text: str) -> str:
+    """Generate a short summary using HF model."""
     if not text:
         return ""
     try:
-        s = summarizer(text[:500], max_length=40, min_length=10, do_sample=False)
-        return s[0]["summary_text"]
+        summary = summarizer(text, max_length=30, min_length=10, do_sample=False)
+        return summary[0]["summary_text"].strip()
     except Exception:
-        return text[:120]
+        return text[:200]  # fallback
 
-def main():
-    entries = []
-    for feed in feeds:
-        d = feedparser.parse(feed)
-        count = 0
-        for e in d.entries[:PER_FEED_LIMIT]:
-            title = e.get("title", "").strip()
-            link = e.get("link", "").strip()
-            if not link or not title:
-                continue
-            text = fetch_article(link)
-            summ = summarize_text(text) if text else title
+def extract_official_link(summary_html: str) -> str:
+    """Look for gov.in / nic.in / .pdf links inside description."""
+    soup = BeautifulSoup(summary_html or "", "html.parser")
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if any(x in href for x in [".pdf", "gov.in", "nic.in"]):
+            return href
+    return None
+
+# --- Main function ---
+
+def fetch_and_summarize(feeds, limit=5):
+    all_lines = []
+    for feed_url in feeds:
+        feed = feedparser.parse(feed_url)
+        for entry in feed.entries[:limit]:
+            title = clean_text(entry.get("title", ""))
+            desc = clean_text(entry.get("summary", ""))
+            link = entry.get("link", "")
+
+            # Try to summarize description
+            summary = summarize_text(desc) if desc else ""
+            if not summary or summary.lower().startswith("in one sentence"):
+                final_text = title
+            else:
+                final_text = summary
+
+            final_text = bold_numbers(final_text)
+
+            # Add source
             domain = re.sub(r"^https?://(www\.)?", "", link).split("/")[0]
-            line = f"- {title} — {STYLE_PREFIX}{summ}{STYLE_SUFFIX} (via {domain})"
-            entries.append((time.mktime(e.published_parsed) if hasattr(e, "published_parsed") else time.time(), line, link))
-            count += 1
-            if count >= PER_FEED_LIMIT:
-                break
+            source_link = f"[{domain}](https://{domain})"
 
-    entries.sort(key=lambda x: x[0], reverse=True)
-    entries = entries[:MAX_ITEMS]
+            # Check for official notification
+            official = extract_official_link(entry.get("summary", ""))
+            if official:
+                line = f"- {final_text} [📄 Details here]({official}) · via {source_link}"
+            else:
+                line = f"- {final_text} (via {source_link})"
 
-    docs = Path("docs")
-    docs.mkdir(exist_ok=True)
-
-    # index.md
-    out = ["# India One-Liner News\n"]
-    out += [e[1] for e in entries]
-    (docs / "index.md").write_text("\n".join(out), encoding="utf-8")
-
-    # rss.xml (minimal)
-    rss_items = []
-    for _, line, link in entries:
-        rss_items.append(f"<item><title>{line}</title><link>{link}</link></item>")
-    rss = f"<?xml version='1.0'?><rss version='2.0'><channel><title>India One-Liners</title>{''.join(rss_items)}</channel></rss>"
-    (docs / "rss.xml").write_text(rss, encoding="utf-8")
+            all_lines.append(line)
+    return all_lines
 
 if __name__ == "__main__":
-    main()
+    feeds = []
+    with open("feeds.txt") as f:
+        feeds = [line.strip() for line in f if line.strip() and not line.startswith("#")]
+
+    lines = fetch_and_summarize(feeds, limit=7)
+
+    output_md = "# India One-Liner News\n\n" + "\n".join(lines)
+    with open("docs/news.md", "w", encoding="utf-8") as f:
+        f.write(output_md)
+
+    print("✅ News summary updated.")
