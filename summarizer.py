@@ -26,11 +26,25 @@ def fetch_article_content(url):
         return None
 
 # -------------------------------
-# Summarize text
+# Summarize text with automatic max_length adjustment
 # -------------------------------
 def summarize_text(text, max_len=130, min_len=30):
+    if not text:
+        return None
     try:
-        summary = summarizer(text, max_length=max_len, min_length=min_len, do_sample=False)
+        word_count = len(text.split())
+        if word_count < 50:
+            print(f"⚠ Skipping article: too short ({word_count} words)")
+            return None
+
+        # Adjust max_length based on input length
+        adjusted_max_len = min(max_len, max(10, word_count // 2))
+        summary = summarizer(
+            text,
+            max_length=adjusted_max_len,
+            min_length=min_len,
+            do_sample=False
+        )
         return summary[0]["summary_text"]
     except Exception as e:
         print(f"❌ Summarization failed: {e}")
