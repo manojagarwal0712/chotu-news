@@ -19,10 +19,12 @@ def fetch_article_content(url):
     }
     try:
         resp = requests.get(url, headers=headers, timeout=10)
+        if resp.status_code == 403:
+            print(f"⚠ Skipping {url}: 403 Forbidden")
+            return None
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
 
-        # Extract text from <p> tags
         paragraphs = [p.get_text() for p in soup.find_all("p")]
         content = " ".join(paragraphs).strip()
 
@@ -45,7 +47,11 @@ def fetch_article_content(url):
 # Summarize text
 # -------------------------------
 def summarize_text(text, max_len=130, min_len=30):
-    if not text or len(text.split()) < 50:
+    if not text:
+        return None
+    word_count = len(text.split())
+    if word_count < 50:
+        print(f"⚠ Skipping article: too short ({word_count} words)")
         return None
     try:
         summary = summarizer(text, max_length=max_len, min_length=min_len, do_sample=False)
@@ -78,7 +84,7 @@ def fetch_and_summarize(feeds):
     for feed_url in feeds:
         try:
             feed = feedparser.parse(feed_url)
-            for entry in feed.entries[:3]:  # Limit per feed
+            for entry in feed.entries[:5]:  # Fetch up to 5 articles per feed
                 title = entry.title
                 link = entry.link
 
