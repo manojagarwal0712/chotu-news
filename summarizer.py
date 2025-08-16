@@ -8,41 +8,50 @@ from transformers import pipeline
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
 # -------------------------------
-# Fetch full article text
+# Fetch full article text with fallback
 # -------------------------------
-def fetch_article_content(url):
+def fetch_article_content(entry):
+    url = entry.link
     try:
         article = Article(url)
         article.download()
         article.parse()
         text = article.text.strip()
 
+        # Fallback to RSS summary if text is too short
         if len(text.split()) < 50:
-            print(f"⚠ Skipping article: too short ({len(text.split())} words) - {url}")
-            return None
+            rss_summary = getattr(entry, "summary", "").strip()
+            if len(rss_summary.split()) >= 30:
+                print(f"⚠ Using RSS summary for {url}")
+                return rss_summary
+            else:
+                print(f"⚠ Skipping article: too short ({len(text.split())} words) - {url}")
+                return None
         return text
     except Exception as e:
         print(f"❌ Failed to fetch {url}: {e}")
         return None
 
 # -------------------------------
-# Summarize text with automatic max_length adjustment
+# Summarize text with dynamic lengths
 # -------------------------------
 def summarize_text(text, max_len=130, min_len=30):
     if not text:
         return None
     try:
         word_count = len(text.split())
-        if word_count < 50:
-            print(f"⚠ Skipping article: too short ({word_count} words)")
+        # Skip extremely short text
+        if word_count < 30:
             return None
 
-        # Adjust max_length based on input length
+        # Dynamic lengths
         adjusted_max_len = min(max_len, max(10, word_count // 2))
+        adjusted_min_len = min(min_len, max(5, adjusted_max_len // 2))
+
         summary = summarizer(
             text,
             max_length=adjusted_max_len,
-            min_length=min_len,
+            min_length=adjusted_min_len,
             do_sample=False
         )
         return summary[0]["summary_text"]
@@ -74,11 +83,9 @@ def fetch_and_summarize(feeds):
     for feed_url in feeds:
         try:
             feed = feedparser.parse(feed_url)
-            for entry in feed.entries[:5]:  # Fetch up to 5 articles per feed
+            for entry in feed.entries[:5]:  # limit 5 articles per feed
                 title = entry.title
-                link = entry.link
-
-                content = fetch_article_content(link)
+                content = fetch_article_content(entry)
                 if not content:
                     continue
 
@@ -90,7 +97,7 @@ def fetch_and_summarize(feeds):
                 categorized[category].append({
                     "title": title,
                     "summary": summary,
-                    "link": link
+                    "link": entry.link
                 })
         except Exception as e:
             print(f"❌ Failed to parse {feed_url}: {e}")
