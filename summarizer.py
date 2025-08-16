@@ -18,7 +18,7 @@ def fetch_article_content(entry):
         article.parse()
         text = article.text.strip()
 
-        # Fallback to RSS summary if text is too short
+        # Fallback to RSS summary if article too short
         if len(text.split()) < 50:
             rss_summary = getattr(entry, "summary", "").strip()
             if len(rss_summary.split()) >= 30:
@@ -62,7 +62,7 @@ def summarize_text(text, max_len=130, min_len=30):
             )
             summaries.append(summary[0]["summary_text"])
 
-        # Merge chunk summaries into a final summary
+        # Merge multi-chunk summaries into final summary
         if len(summaries) > 1:
             final_summary = summarizer(
                 " ".join(summaries),
