@@ -2,6 +2,7 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 from transformers import pipeline
+from newspaper import Article
 
 # -------------------------------
 # Setup summarizer
@@ -9,22 +10,50 @@ from transformers import pipeline
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
 # -------------------------------
-# Fetch and summarize single article
+# Fetch article content
 # -------------------------------
 def fetch_article_content(url):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/139.0.0.0 Safari/537.36"
+    }
     try:
-        resp = requests.get(url, timeout=10)
+        # Try requests + BeautifulSoup first
+        resp = requests.get(url, headers=headers, timeout=10)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
 
-        # Prefer <p> tags for article text
+        # Extract text from <p> tags
         paragraphs = [p.get_text() for p in soup.find_all("p")]
-        content = " ".join(paragraphs)
-        return content.strip()
+        content = " ".join(paragraphs).strip()
+
+        # Fallback to meta description if empty
+        if not content:
+            meta_desc = soup.find("meta", attrs={"name": "description"})
+            if meta_desc and meta_desc.get("content"):
+                content = meta_desc["content"]
+
+        # Final fallback: newspaper3k
+        if not content:
+            article = Article(url)
+            article.download()
+            article.parse()
+            content = article.text.strip()
+
+        if not content:
+            print(f"⚠ No content found for {url}")
+            return None
+
+        return content
+
     except Exception as e:
         print(f"❌ Failed to fetch {url}: {e}")
-        return ""
+        return None
 
+# -------------------------------
+# Summarize text
+# -------------------------------
 def summarize_text(text, max_len=130, min_len=30):
     if not text or len(text.split()) < 50:
         return None
@@ -39,7 +68,7 @@ def summarize_text(text, max_len=130, min_len=30):
 # Categorization helper
 # -------------------------------
 def categorize_article(title, summary):
-    text = (title + " " + summary).lower()
+    text = (title + " " + (summary or "")).lower()
     if any(x in text for x in ["startup", "founder", "funding", "vc", "entrepreneur"]):
         return "Startups"
     if any(x in text for x in ["stock", "nifty", "sensex", "market", "share", "ipo"]):
@@ -64,31 +93,36 @@ def fetch_and_summarize(feeds):
                 link = entry.link
 
                 content = fetch_article_content(link)
-                summary = summarize_text(content)
+                if not content:
+                    continue
 
-                if summary:
-                    category = categorize_article(title, summary)
-                    categorized[category].append({
-                        "title": title,
-                        "summary": summary,
-                        "link": link
-                    })
+                summary = summarize_text(content)
+                if not summary:
+                    continue
+
+                category = categorize_article(title, summary)
+                categorized[category].append({
+                    "title": title,
+                    "summary": summary,
+                    "link": link
+                })
+
         except Exception as e:
             print(f"❌ Failed to parse {feed_url}: {e}")
+
     return categorized
 
 # -------------------------------
 # Main
 # -------------------------------
 if __name__ == "__main__":
-    # Load and sanitize feeds.txt
+    # Load feeds.txt
     feeds = []
     with open("feeds.txt") as f:
         for line in f:
             line = line.strip()
             if not line or line.startswith("#"):
                 continue
-            # remove inline comments like: url   # comment
             if "#" in line:
                 line = line.split("#", 1)[0].strip()
             if line:
@@ -96,7 +130,7 @@ if __name__ == "__main__":
 
     categorized_articles = fetch_and_summarize(feeds)
 
-    # Print results (for now)
+    # Print results
     for cat, articles in categorized_articles.items():
         print(f"\n### {cat} ###")
         for art in articles:
