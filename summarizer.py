@@ -1,108 +1,77 @@
 import feedparser
+import requests
 from bs4 import BeautifulSoup
-import re
+from markdownify import markdownify as md
+from transformers import pipeline
 from newspaper import Article
+import os
 from datetime import datetime
 
-def clean_html(raw_html):
-    """Remove HTML tags and extra spaces from feed description."""
-    if not raw_html:
-        return ""
-    soup = BeautifulSoup(raw_html, "html.parser")
-    return soup.get_text(" ", strip=True)
+# Summarizer pipeline
+summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
-def extract_details_link(entry):
-    """Try to find a 'Details here' link from entry description if present."""
-    if hasattr(entry, "description") and entry.description:
-        soup = BeautifulSoup(entry.description, "html.parser")
-        a_tags = soup.find_all("a")
-        for a in a_tags:
-            if "detail" in a.get_text(strip=True).lower():
-                return a.get("href")
-    return None
+# Keyword-based categorization rules
+CATEGORIES = {
+    "India – Crime & Security": ["terror", "gang", "murder", "attack", "crime", "police", "killed", "death", "crash", "accident", "search"],
+    "Science & Space": ["isro", "nasa", "satellite", "space", "launch", "rocket"],
+    "Politics & Governance": ["modi", "bjp", "congress", "minister", "election", "cm", "government", "parliament", "statehood"],
+    "Economy & Public Interest": ["bank", "economy", "holiday", "inflation", "stock", "market"],
+    "Technology & Innovation": ["ai", "google", "meta", "microsoft", "apple", "technology", "tech", "pixel", "iphone", "cyber", "scam", "tv"],
+    "Business & Thought Leadership": ["startup", "capital", "investor", "founder", "business", "market", "funding"],
+}
 
-def fetch_article_summary(url, min_len=100, max_len=500):
-    """
-    Fetch article content and generate a summary.
-    newspaper3k auto-summarizes; if it fails, fall back to description/title.
-    """
+def categorize(text):
+    text_lower = text.lower()
+    for category, keywords in CATEGORIES.items():
+        if any(kw in text_lower for kw in keywords):
+            return category
+    return "Miscellaneous"
+
+def fetch_article_summary(url):
     try:
         article = Article(url)
         article.download()
         article.parse()
-        article.nlp()  # enables .summary
+        article.nlp()
+        full_text = article.text
 
-        if article.summary:
-            return article.summary
-        else:
-            # fallback: truncate article text
-            text = article.text.strip()
-            return text[:max_len] + "..." if len(text) > max_len else text
-    except Exception:
-        return None
+        # Hugging Face summarizer
+        summary = summarizer(full_text, max_length=180, min_length=60, do_sample=False)[0]['summary_text']
+        return summary
+    except Exception as e:
+        return f"Error fetching article: {e}"
 
-def summarize_entry(entry):
-    """Format a single RSS entry into a contextual summary."""
-    title = entry.get("title", "").strip()
-    link = entry.get("link", "").strip()
+def fetch_and_summarize(feeds):
+    categorized_articles = {}
 
-    source = "source"
-    if link:
-        try:
-            source = re.sub(r"^https?://(www\.)?", "", link.split("/")[2])
-        except Exception:
-            pass
-
-    # Prefer full article summary
-    article_summary = fetch_article_summary(link)
-    details_link = extract_details_link(entry)
-
-    if article_summary:
-        summary_text = f"**{title}**\n\n{article_summary}\n\n*(via [{source}]({link}))*"
-    else:
-        summary_text = f"**{title}** (via [{source}]({link}))"
-
-    if details_link:
-        summary_text += f" [Details here]({details_link})"
-
-    return summary_text
-
-def fetch_and_summarize(feeds, limit=5):
-    """Fetch news from multiple feeds and return summaries."""
-    summaries = []
     for feed_url in feeds:
-        try:
-            feed = feedparser.parse(feed_url)
-            for entry in feed.entries[:limit]:
-                summaries.append(summarize_entry(entry))
-        except Exception as e:
-            summaries.append(f"⚠️ Error fetching {feed_url}: {e}")
-    return summaries
+        feed = feedparser.parse(feed_url)
+        for entry in feed.entries[:10]:  # limit to 10 per feed
+            title = entry.title
+            link = entry.link
+            summary = fetch_article_summary(link)
+            combined_text = f"{title} — {summary}"
+            category = categorize(combined_text)
 
-def load_feeds(file_path="feeds.txt"):
-    """Load RSS feeds from a file, stripping whitespace, tabs, and inline comments."""
-    feeds = []
-    with open(file_path, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if not line or line.startswith("#"):
-                continue
-            if "#" in line:
-                line = line.split("#", 1)[0].strip()
-            if line:
-                feeds.append(line)
-    return feeds
+            if category not in categorized_articles:
+                categorized_articles[category] = []
+            categorized_articles[category].append(f"- **{title}** ({link})\n  {summary}")
+
+    return categorized_articles
+
+def save_markdown(categorized_articles, output_file="docs/index.md"):
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write(f"# 📰 Chotu News — {datetime.now().strftime('%B %d, %Y')}\n\n")
+        for category, articles in categorized_articles.items():
+            f.write(f"## {category}\n")
+            f.write("\n".join(articles))
+            f.write("\n\n")
 
 if __name__ == "__main__":
-    feeds = load_feeds("feeds.txt")
-    lines = fetch_and_summarize(feeds, limit=5)
+    # Load feeds.txt
+    with open("feeds.txt", "r") as f:
+        feeds = [line.strip() for line in f if line.strip()]
 
-    summary_md = "## India News Summaries\n\n"
-    for line in lines:
-        summary_md += f"- {line}\n\n"
-
-    output_path = "docs/index.md"
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(summary_md)
-
-    print(f"✅ Saved {len(lines)} summaries to {output_path} at {datetime.now().isoformat()}")
+    categorized_articles = fetch_and_summarize(feeds)
+    save_markdown(categorized_articles)
+    print("✅ News summaries updated in docs/index.md")
