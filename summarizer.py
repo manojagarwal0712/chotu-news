@@ -29,7 +29,6 @@ def summarize_entry(entry):
     # Try to find 'Details here' link inside description
     details_link = extract_details_link(entry)
 
-    # Construct formatted output
     if details_link:
         return f"{title} ([Details here]({details_link}), via [{source}]({link}))"
     else:
@@ -48,9 +47,18 @@ def fetch_and_summarize(feeds, limit=10):
     return summaries
 
 def load_feeds(file_path="feeds.txt"):
-    """Load RSS feeds from a file, stripping whitespace and ignoring comments."""
+    """Load RSS feeds from a file, stripping whitespace, tabs, and inline comments."""
+    feeds = []
     with open(file_path, "r") as f:
-        return [line.strip() for line in f if line.strip() and not line.startswith("#")]
+        for line in f:
+            line = line.strip()  # remove leading/trailing whitespace
+            if not line or line.startswith("#"):
+                continue
+            # drop any inline comments after a #
+            if "#" in line:
+                line = line.split("#", 1)[0].strip()
+            feeds.append(line)
+    return feeds
 
 if __name__ == "__main__":
     feeds = load_feeds("feeds.txt")
