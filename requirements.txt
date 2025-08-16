@@ -7,3 +7,5 @@ torch
 google-api-python-client
 google-auth
 google-auth-oauthlib
+newspaper3k
+lxml
