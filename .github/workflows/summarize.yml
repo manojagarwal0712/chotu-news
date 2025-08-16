@@ -1,1 +1,36 @@
+name: Summarize India News (one-liners)
+
+on:
+  workflow_dispatch:   # allows manual run
+  schedule:
+    - cron: "0 */6 * * *"   # runs every 6 hours
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests openai
+
+      - name: Run summarizer
+        run: |
+          python scripts/summarizer.py
+
+      - name: Commit and push news
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git commit -m "chotu-news: refreshed one-liners"
+          git push
 
