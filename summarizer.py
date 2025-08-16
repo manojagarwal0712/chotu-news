@@ -95,4 +95,51 @@ def categorize_article(title, summary):
 # Main fetch + summarize loop
 # -------------------------------
 def fetch_and_summarize(feeds):
-    categorized = {"Startups": [], "Markets": [], "Tech":
+    categorized = {"Startups": [], "Markets": [], "Tech": [], "Politics": [], "General": []}
+
+    for feed_url in feeds:
+        try:
+            feed = feedparser.parse(feed_url)
+            for entry in feed.entries[:5]:
+                title = entry.title
+                content = fetch_article_content(entry)
+                if not content:
+                    continue
+
+                summary = summarize_text(content)
+                if not summary:
+                    continue
+
+                category = categorize_article(title, summary)
+                categorized[category].append({
+                    "title": title,
+                    "summary": summary,
+                    "link": entry.link
+                })
+        except Exception as e:
+            print(f"❌ Failed to parse {feed_url}: {e}")
+
+    return categorized
+
+# -------------------------------
+# Main
+# -------------------------------
+if __name__ == "__main__":
+    feeds = []
+    with open("feeds.txt") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            if "#" in line:
+                line = line.split("#", 1)[0].strip()
+            if line:
+                feeds.append(line)
+
+    categorized_articles = fetch_and_summarize(feeds)
+
+    # Print results
+    for cat, articles in categorized_articles.items():
+        print(f"\n### {cat} ###")
+        for art in articles:
+            print(f"- {art['title']}\n  📝 {art['summary']}\n  🔗 {art['link']}")
