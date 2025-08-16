@@ -2,69 +2,80 @@ import feedparser
 import requests
 from transformers import pipeline
 
-# Initialize summarizer
+# Initialize HuggingFace summarizer
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
-# Custom feed fetcher with User-Agent (fixes blocked feeds)
+# Strong browser-like headers to bypass 403 blocks
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/127.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://www.google.com/"
+}
+
+
 def fetch_feed(url):
+    """Fetch RSS/Atom feed content safely with browser headers."""
     try:
-        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-        resp = requests.get(url.strip(), headers=headers, timeout=10)
+        # Try fetching with requests first
+        resp = requests.get(url.strip(), headers=HEADERS, timeout=10)
         resp.raise_for_status()
-        return feedparser.parse(resp.text)
+        feed = feedparser.parse(resp.content)
+        return feed
     except Exception as e:
         print(f"❌ Error fetching {url}: {e}")
-        return None
+        # Fallback to direct feedparser
+        try:
+            feed = feedparser.parse(url.strip())
+            return feed
+        except Exception as e2:
+            print(f"❌ Fallback failed for {url}: {e2}")
+            return None
 
-# Summarize text with adaptive length
-def summarize_text(text):
-    input_length = len(text.split())
-    if input_length < 5:
-        return text  # Skip summarization for very short text
 
-    # Dynamic max_length (half input size, but between 10–130)
-    max_length = max(10, min(130, input_length // 2))
-
+def summarize_text(text, max_length=40, min_length=10):
+    """Summarize a given text safely."""
     try:
-        summary = summarizer(
+        return summarizer(
             text,
             max_length=max_length,
-            min_length=5,
+            min_length=min_length,
             do_sample=False
-        )
-        return summary[0]['summary_text']
+        )[0]["summary_text"]
     except Exception as e:
-        return f"⚠ Error summarizing: {e}"
+        print(f"⚠ Summarization failed: {e}")
+        return text
 
-def process_feeds():
-    with open("feeds.txt", "r") as f:
-        feed_urls = f.readlines()
 
-    for line in feed_urls:
-        if not line.strip() or line.strip().startswith("#"):
-            continue
+def process_feed(url):
+    """Process a single feed URL."""
+    print(f"🔗 Processing feed: {url}")
+    feed = fetch_feed(url)
 
-        parts = line.strip().split("#")
-        url = parts[0].strip()
-        source = parts[1].strip() if len(parts) > 1 else "Unknown"
+    if not feed or not feed.entries:
+        print("⚠ No entries found.")
+        return
 
-        print(f"\n🔗 Processing feed: {url} ({source})")
-        feed = fetch_feed(url)
+    for entry in feed.entries[:3]:  # limit per feed
+        title = entry.get("title", "No title")
+        summary_input = entry.get("summary", entry.get("description", title))
 
-        if not feed or not feed.entries:
-            print("⚠ No entries found.")
-            continue
+        print(f"📰 {title}")
+        short_summary = summarize_text(summary_input, max_length=30, min_length=5)
+        print(f"✍ {short_summary}\n")
 
-        for entry in feed.entries[:3]:  # Limit to 3 per feed
-            title = entry.get("title", "No title")
-            summary_input = entry.get("summary", entry.get("description", ""))
 
-            print(f"\n📰 {title}")
-            if summary_input:
-                summary_output = summarize_text(summary_input)
-                print(f"✍ Summary: {summary_output}")
-            else:
-                print("⚠ No content to summarize.")
+def main():
+    with open("feeds.txt") as f:
+        urls = [line.strip().split("#")[0].strip() for line in f if line.strip()]
+
+    for url in urls:
+        process_feed(url)
+
 
 if __name__ == "__main__":
-    process_feeds()
+    main()
