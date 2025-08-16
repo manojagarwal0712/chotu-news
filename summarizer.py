@@ -1,8 +1,9 @@
 import feedparser
-import requests
-from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
 from transformers import pipeline
-from newspaper import Article
+import time
 
 # -------------------------------
 # Setup summarizer
@@ -10,43 +11,40 @@ from newspaper import Article
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
 # -------------------------------
-# Fetch article content
+# Setup Selenium headless browser
 # -------------------------------
-def fetch_article_content(url):
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                      "AppleWebKit/537.36 (KHTML, like Gecko) "
-                      "Chrome/139.0.0.0 Safari/537.36"
-    }
+def get_headless_driver():
+    options = Options()
+    options.headless = True
+    options.add_argument("--disable-gpu")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--window-size=1920,1080")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument(
+        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/139.0.0.0 Safari/537.36"
+    )
+    driver = webdriver.Chrome(options=options)
+    return driver
+
+# -------------------------------
+# Fetch article content using Selenium
+# -------------------------------
+def fetch_article_content(driver, url):
     try:
-        # Try requests + BeautifulSoup first
-        resp = requests.get(url, headers=headers, timeout=10)
-        resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, "html.parser")
+        driver.get(url)
+        time.sleep(2)  # wait for page to load JS content
 
-        # Extract text from <p> tags
-        paragraphs = [p.get_text() for p in soup.find_all("p")]
-        content = " ".join(paragraphs).strip()
-
-        # Fallback to meta description if empty
-        if not content:
-            meta_desc = soup.find("meta", attrs={"name": "description"})
-            if meta_desc and meta_desc.get("content"):
-                content = meta_desc["content"]
-
-        # Final fallback: newspaper3k
-        if not content:
-            article = Article(url)
-            article.download()
-            article.parse()
-            content = article.text.strip()
+        # Grab all <p> tags
+        paragraphs = driver.find_elements(By.TAG_NAME, "p")
+        content = " ".join([p.text for p in paragraphs]).strip()
 
         if not content:
             print(f"⚠ No content found for {url}")
             return None
 
         return content
-
     except Exception as e:
         print(f"❌ Failed to fetch {url}: {e}")
         return None
@@ -84,6 +82,7 @@ def categorize_article(title, summary):
 # -------------------------------
 def fetch_and_summarize(feeds):
     categorized = {"Startups": [], "Markets": [], "Tech": [], "Politics": [], "General": []}
+    driver = get_headless_driver()
 
     for feed_url in feeds:
         try:
@@ -92,7 +91,7 @@ def fetch_and_summarize(feeds):
                 title = entry.title
                 link = entry.link
 
-                content = fetch_article_content(link)
+                content = fetch_article_content(driver, link)
                 if not content:
                     continue
 
@@ -106,10 +105,10 @@ def fetch_and_summarize(feeds):
                     "summary": summary,
                     "link": link
                 })
-
         except Exception as e:
             print(f"❌ Failed to parse {feed_url}: {e}")
 
+    driver.quit()
     return categorized
 
 # -------------------------------
