@@ -1,6 +1,5 @@
 import feedparser
-import requests
-from bs4 import BeautifulSoup
+from newspaper import Article
 from transformers import pipeline
 
 # -------------------------------
@@ -9,36 +8,19 @@ from transformers import pipeline
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
 # -------------------------------
-# Fetch article content
+# Fetch full article text
 # -------------------------------
 def fetch_article_content(url):
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                      "AppleWebKit/537.36 (KHTML, like Gecko) "
-                      "Chrome/139.0.0.0 Safari/537.36"
-    }
     try:
-        resp = requests.get(url, headers=headers, timeout=10)
-        if resp.status_code == 403:
-            print(f"⚠ Skipping {url}: 403 Forbidden")
+        article = Article(url)
+        article.download()
+        article.parse()
+        text = article.text.strip()
+
+        if len(text.split()) < 50:
+            print(f"⚠ Skipping article: too short ({len(text.split())} words) - {url}")
             return None
-        resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, "html.parser")
-
-        paragraphs = [p.get_text() for p in soup.find_all("p")]
-        content = " ".join(paragraphs).strip()
-
-        # Fallback: meta description
-        if not content:
-            meta_desc = soup.find("meta", attrs={"name": "description"})
-            if meta_desc and meta_desc.get("content"):
-                content = meta_desc["content"]
-
-        if not content:
-            print(f"⚠ No content found for {url}")
-            return None
-
-        return content
+        return text
     except Exception as e:
         print(f"❌ Failed to fetch {url}: {e}")
         return None
@@ -47,12 +29,6 @@ def fetch_article_content(url):
 # Summarize text
 # -------------------------------
 def summarize_text(text, max_len=130, min_len=30):
-    if not text:
-        return None
-    word_count = len(text.split())
-    if word_count < 50:
-        print(f"⚠ Skipping article: too short ({word_count} words)")
-        return None
     try:
         summary = summarizer(text, max_length=max_len, min_length=min_len, do_sample=False)
         return summary[0]["summary_text"]
@@ -111,7 +87,6 @@ def fetch_and_summarize(feeds):
 # Main
 # -------------------------------
 if __name__ == "__main__":
-    # Load feeds.txt
     feeds = []
     with open("feeds.txt") as f:
         for line in f:
