@@ -1,135 +1,134 @@
 import os
-import sys
-import time
+import asyncio
+import aiohttp
 import feedparser
-import requests
-from transformers import pipeline
 from datetime import datetime
+from transformers import pipeline
+from urllib.parse import quote
 import subprocess
 
-# ---------- CONFIG ----------
-FEEDS_FILE = "feeds.txt"
-OUTPUT_FILE = "README.md"
-MAX_SUMMARY_LEN = 30   # max words for summary
-MIN_SUMMARY_LEN = 5    # at least this many words
-RETRIES = 3
-BACKOFF = 2
-
-# Init summarizer
+# -------------------------------
+# Load HuggingFace Summarizer
+# -------------------------------
+print("🔧 Loading summarizer model…")
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
-# ---------- HELPERS ----------
-def fetch_feed(url):
-    """Fetch RSS feed with retries and handle errors."""
-    for i in range(RETRIES):
+# -------------------------------
+# Feed list (RSS sources)
+# -------------------------------
+FEEDS = [
+    "https://indianexpress.com/section/india/feed/",
+    "https://indianexpress.com/section/technology/feed/",
+    "https://www.livemint.com/rss/companies",
+    "https://www.livemint.com/rss/markets",
+    "https://www.livemint.com/rss/technology",
+    "https://www.business-standard.com/rss/markets-106.rss",
+    "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
+    "https://www.gadgets360.com/rss/news",
+    "https://inc42.com/feed/",
+    "https://entrackr.com/feed/",
+    "https://www.hindustantimes.com/rss/topnews/rssfeed.xml",
+    "https://www.moneycontrol.com/rss/latestnews.xml",
+    "https://www.moneycontrol.com/rss/technology.xml",
+]
+
+# -------------------------------
+# Smart summarizer wrapper
+# -------------------------------
+def smart_summarize(text: str) -> str:
+    """Summarize text with dynamic max_length."""
+    if not text:
+        return ""
+    input_len = len(text.split())
+    max_len = max(5, min(50, input_len - 2))  # ensure shorter than input
+    try:
+        summary = summarizer(text, max_length=max_len, min_length=5, do_sample=False)
+        return summary[0]['summary_text']
+    except Exception as e:
+        print(f"❌ Summarization failed: {e}")
+        return text[:200]  # fallback: truncate
+
+# -------------------------------
+# Google News fallback fetch
+# -------------------------------
+async def fetch_google_news_fallback(session, topic="India news"):
+    url = f"https://news.google.com/rss/search?q={quote(topic)}&hl=en-IN&gl=IN&ceid=IN:en"
+    print(f"🔗 Fetching Google News fallback: {url}")
+    try:
+        async with session.get(url, timeout=15) as resp:
+            resp.raise_for_status()
+            text = await resp.text()
+            parsed = feedparser.parse(text)
+            return parsed.entries
+    except Exception as e:
+        print(f"❌ Google News fallback failed: {e}")
+        return []
+
+# -------------------------------
+# Fetch and parse feed
+# -------------------------------
+async def fetch_feed(session, feed_url, retries=3):
+    for attempt in range(retries):
         try:
-            print(f"🔗 Processing feed: {url}")
-            feed = feedparser.parse(url)
-            if feed.bozo:
-                raise Exception(feed.bozo_exception)
-
-            if feed.entries:
-                return feed.entries
-            else:
-                raise Exception("No entries found")
+            async with session.get(feed_url, timeout=20) as resp:
+                resp.raise_for_status()
+                text = await resp.text()
+                parsed = feedparser.parse(text)
+                if parsed.entries:
+                    return parsed.entries
+                else:
+                    raise ValueError("No entries in feed")
         except Exception as e:
-            wait = BACKOFF * (i + 1)
-            print(f"⚠ Error fetching {url}: {e}, retrying in {wait}s")
-            time.sleep(wait)
-
-    print(f"❌ Failed after {RETRIES} retries: {url}")
+            wait_time = 2 * (attempt + 1)
+            print(f"⚠ Error fetching {feed_url}: {e}, retrying in {wait_time}s")
+            await asyncio.sleep(wait_time)
+    print(f"❌ Failed after {retries} retries: {feed_url}")
     return []
 
-def google_news_fallback(url):
-    """Fallback: search site in Google News RSS."""
-    try:
-        print(f"⚠ No entries found in {url}, trying Google News fallback…")
-        domain = url.split("/")[2]
-        gnews_url = f"https://news.google.com/rss/search?q=site:{domain}"
-        feed = feedparser.parse(gnews_url)
-        if feed.entries:
-            return feed.entries
-        print(f"⚠ Google News fallback also returned nothing for {url}")
-        return []
-    except Exception as e:
-        print(f"⚠ Google News fallback failed: {e}")
-        return []
+# -------------------------------
+# Process feed with fallback
+# -------------------------------
+async def process_feed(session, feed_url):
+    print(f"🔗 Processing feed: {feed_url}")
+    entries = await fetch_feed(session, feed_url)
 
-def safe_summarize(text):
-    """Summarize safely with dynamic max_length."""
-    if not text or len(text.split()) < MIN_SUMMARY_LEN:
-        return text
+    if not entries:
+        print(f"⚠ No entries found in {feed_url}, trying Google News fallback…")
+        topic = "technology" if "tech" in feed_url else "markets" if "market" in feed_url else "India news"
+        entries = await fetch_google_news_fallback(session, topic)
 
-    input_len = len(text.split())
-    max_len = min(MAX_SUMMARY_LEN, max(MIN_SUMMARY_LEN, input_len - 2))
+    results = []
+    for entry in entries[:5]:  # only top 5 from each feed
+        title = entry.get("title", "No title")
+        summary_text = smart_summarize(entry.get("summary", title))
+        link = entry.get("link", "#")
+        results.append(f"- {title}\n  {summary_text}\n  🔗 {link}\n")
+    return results
 
-    try:
-        summary = summarizer(
-            text,
-            max_length=max_len,
-            min_length=MIN_SUMMARY_LEN,
-            do_sample=False
-        )[0]['summary_text']
-        return summary
-    except Exception as e:
-        print(f"⚠ Summarization failed: {e}")
-        return text
+# -------------------------------
+# Main async runner
+# -------------------------------
+async def main():
+    async with aiohttp.ClientSession() as session:
+        tasks = [process_feed(session, url) for url in FEEDS]
+        results = await asyncio.gather(*tasks)
+        all_summaries = [item for sublist in results for item in sublist]
 
-def write_readme(all_entries):
-    """Write summaries into README.md."""
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(f"# 📰 News Summaries\n\n")
-        f.write(f"Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}\n\n")
+        output = "# 📰 Daily News Summaries\n\n"
+        output += "\n".join(all_summaries)
+        output += f"\n\n_Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}_\n"
 
-        for source, entries in all_entries.items():
-            f.write(f"## {source}\n\n")
-            if not entries:
-                f.write("_No news available_\n\n")
-                continue
-            for e in entries[:5]:
-                title = e.get("title", "No title")
-                link = e.get("link", "#")
-                desc = e.get("description", title)
-                summary = safe_summarize(desc)
-                f.write(f"- [{title}]({link}) — {summary}\n")
-            f.write("\n")
+        with open("README.md", "w", encoding="utf-8") as f:
+            f.write(output)
 
-def git_commit():
-    """Commit only if there are changes."""
-    try:
-        subprocess.run(["git", "config", "--global", "user.email", "you@example.com"], check=True)
-        subprocess.run(["git", "config", "--global", "user.name", "GitHub Actions Bot"], check=True)
-
-        status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
-        if not status.stdout.strip():
-            print("✅ No changes to commit")
-            return
-
-        subprocess.run(["git", "add", OUTPUT_FILE], check=True)
-        subprocess.run(["git", "commit", "-m", "Update news summaries"], check=True)
-        subprocess.run(["git", "push"], check=True)
+        # Git commit & push
+        subprocess.run(["git", "add", "README.md"])
+        subprocess.run(["git", "commit", "-m", "Update news summaries"])
+        subprocess.run(["git", "push", "origin", "main"])
         print("✅ Changes committed and pushed")
-    except subprocess.CalledProcessError as e:
-        print(f"⚠ Git commit failed: {e}")
 
-# ---------- MAIN ----------
-def main():
-    all_entries = {}
-    if not os.path.exists(FEEDS_FILE):
-        print(f"❌ {FEEDS_FILE} not found")
-        sys.exit(1)
-
-    with open(FEEDS_FILE, "r") as f:
-        feeds = [line.strip() for line in f if line.strip()]
-
-    for feed in feeds:
-        entries = fetch_feed(feed)
-        if not entries:
-            entries = google_news_fallback(feed)
-        all_entries[feed] = entries
-
-    write_readme(all_entries)
-    git_commit()
-
+# -------------------------------
+# Run
+# -------------------------------
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
