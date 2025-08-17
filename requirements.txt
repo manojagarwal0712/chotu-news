@@ -9,3 +9,4 @@ google-auth
 google-auth-oauthlib
 newspaper3k
 lxml[html_clean]
+aiohttp
