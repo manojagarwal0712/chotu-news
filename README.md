@@ -1,105 +1,252 @@
-# 📰 News Summaries
+# 📰 Daily News Summaries
 
-Last updated: 2025-08-17 08:31:00 UTC
+- Supreme Court takes suo motu cognisance of Express report on struggles of officer cadets disabled in military training
+  
+  🔗 https://indianexpress.com/article/india/supreme-court-suo-motu-struggles-cadets-disabled-military-training-express-impact-10194403/
 
-## https://indianexpress.com/section/india/feed/
+- Another cloudburst in J&K: Death toll in Kathua rises to 7
+  
+  🔗 https://indianexpress.com/article/india/cloudburst-jammu-kashmir-kathua-deaths-10193959/
 
-- [Express Impact: Supreme Court takes suo motu cognisance of report on struggles of officer cadets disabled in military training](https://indianexpress.com/article/india/supreme-court-suo-motu-struggles-cadets-disabled-military-training-express-impact-10194403/) — 
-- [Another cloudburst in J&K: Death toll in Kathua rises to 7](https://indianexpress.com/article/india/cloudburst-jammu-kashmir-kathua-deaths-10193959/) — 
-- [A phone call, a flurry of activity: When a local hospital had to respond to Kishtwar flash flood](https://indianexpress.com/article/india/a-phone-call-a-flurry-of-activity-when-a-local-hospital-had-to-respond-to-kishtwar-flash-flood-10193656/) — 
-- [3 Assamese men assaulted for entering Nagaland ‘without permit’](https://indianexpress.com/article/india/3-assamese-men-assaulted-for-entering-nagaland-without-permit-10193677/) — 
-- [Govt to build Soochna Bhavans in 12 state Capitals in biggest regional media push in years](https://indianexpress.com/article/india/govt-to-build-soochna-bhavans-in-12-state-capitals-in-biggest-regional-media-push-in-years-10193646/) — 
+- A phone call, a flurry of activity: When a local hospital had to respond to Kishtwar flash flood
+  
+  🔗 https://indianexpress.com/article/india/a-phone-call-a-flurry-of-activity-when-a-local-hospital-had-to-respond-to-kishtwar-flash-flood-10193656/
 
-## https://indianexpress.com/section/technology/feed/
+- 3 Assamese men assaulted for entering Nagaland ‘without permit’
+  
+  🔗 https://indianexpress.com/article/india/3-assamese-men-assaulted-for-entering-nagaland-without-permit-10193677/
 
-- [I reclaimed my health with Samsung’s Galaxy Watch 8 Classic, and it made me more disciplined](https://indianexpress.com/article/technology/tech-reviews/samsung-galaxy-watch8-classic-review-10194120/) — 
-- [‘AI is a good debating partner’: Zoho’s Sridhar Vembu on how to use ChatGPT and other tools](https://indianexpress.com/article/technology/artificial-intelligence/ai-good-debating-partner-zoho-sridhar-vembu-10194237/) — 
-- [CEOs want their companies to adopt AI. But do they get it themselves?](https://indianexpress.com/article/technology/artificial-intelligence/ceos-want-their-companies-to-adopt-ai-but-do-they-get-it-themselves-10194040/) — 
-- [They’re stuffed animals. They’re also AI chatbots.](https://indianexpress.com/article/technology/artificial-intelligence/theyre-stuffed-animals-theyre-also-ai-chatbots-10194032/) — 
-- [Robots race, play football, crash and collapse at China’s ‘robot Olympics’](https://indianexpress.com/article/technology/tech-news-technology/robots-race-play-football-crash-and-collapse-at-chinas-robot-olympics-10194020/) — 
+- Govt to build Soochna Bhavans in 12 state Capitals in biggest regional media push in years
+  
+  🔗 https://indianexpress.com/article/india/govt-to-build-soochna-bhavans-in-12-state-capitals-in-biggest-regional-media-push-in-years-10193646/
 
-## https://www.livemint.com/rss/companies
+- I reclaimed my health with Samsung’s Galaxy Watch 8 Classic, and it made me more disciplined
+  
+  🔗 https://indianexpress.com/article/technology/tech-reviews/samsung-galaxy-watch8-classic-review-10194120/
 
-- [Profit without punch, India Inc's Q1 report card in charts](https://www.livemint.com/companies/company-results/india-inc-q1-results-2025-june-quarter-earnings-india-india-corporate-earnings-analysis-india-inc-profit-growth-slowdown-11755411788720.html) — Muted revenue growth was a constant theme in the latest earnings quarter. The Q1 results reveal a fragile recovery fuelled by cost tailwind
-- [German Breweries Are Forced to Adapt as Gen Z Goes Alkoholfrei](https://www.livemint.com/companies/news/german-breweries-are-forced-to-adapt-as-gen-z-goes-alkoholfrei-11755415683131.html) — The Lang-Bräu brewery in the north of Bavaria has weathered two world wars and the fall of the Iron Curtain
-- [GCCs drive surge in Indias reskilling market, attracting international interest](https://www.livemint.com/companies/news/gccs-drive-surge-in-indias-reskilling-market-attracting-international-interest-11755412724406.html) — India's reskilling market is witnessing accelerated growth, driven by the rapid expansion
-- [Elon Musk's stern warning to short sellers after Tesla Senior VP dumps 82% of shares: Here's what he said](https://www.livemint.com/companies/news/elon-musks-stern-warning-to-short-sellers-after-tesla-senior-vp-dumps-82-of-shares-heres-what-he-said-11755404015914.html) — Elon Musk responded to current short sellers of Tesla. He warned them of potential loss if they don't exit their positions. His comments
-- [He earned a small towns trust. He owed $95 million in what authorities say was a Ponzi scheme](https://www.livemint.com/companies/news/he-earned-a-small-towns-trust-he-owed-95-million-in-what-authorities-say-was-a-ponzi-scheme-11755403000878.html) — He owed $95 million in what authorities say was a Ponz
+- ‘AI is a good debating partner’: Zoho’s Sridhar Vembu on how to use ChatGPT and other tools
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-good-debating-partner-zoho-sridhar-vembu-10194237/
 
-## https://www.livemint.com/rss/markets
+- CEOs want their companies to adopt AI. But do they get it themselves?
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ceos-want-their-companies-to-adopt-ai-but-do-they-get-it-themselves-10194040/
 
-- [Mcap of 5 of top 10 most valued firms surge by  ₹60,676 crore; SBI, HDFC Bank biggest gainers](https://www.livemint.com/market/stock-market-news/mcap-of-5-of-top-10-most-valued-firms-surge-by-60-676-crore-sbi-hdfc-bank-biggest-gainers-11755412982950.html) — Mcap of five of 10 most valued firms climbs 
-- [GST reforms: BEL, Tata Motors to TVS Motor - Experts recommend THESE 10 stocks to buy](https://www.livemint.com/market/stock-market-news/gst-reforms-bel-tata-motors-to-tvs-motor-experts-recommend-these-10-stocks-to-buy-11755410183700.html) — The market is likely to cheer PM Modi's announcement of GST reforms in his Independence
-- [Upcoming IPOs: Gem Aromatics IPO, Vikram Solar IPO among 7 new public issues to open next week; check full list here](https://www.livemint.com/market/ipo/upcoming-ipos-gem-aromatics-ipo-vikram-solar-ipo-among-8-new-public-issues-to-open-next-week-check-full-list-here-11755403252526.html) — Gem Aromatics IPO, Vikram Solar IPO among
-- [Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Indian Hotel, PFC shares tomorrow - 18 August 2025](https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-indian-hotel-pfc-shares-tomorrow-18-august-2025-11755362051516.html) — Indian stock markets ended a six-week decline, closing nearly 1% higher with Nifty 50 at 24,631.30.
-- [Stocks to buy under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday - 18 August 2025](https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-18-august-2025-11755397648501.html) — Sumeet Bagadia has recommended three stocks to buy on Monday, August 4. GMR Airports, Niva Bup
+- They’re stuffed animals. They’re also AI chatbots.
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/theyre-stuffed-animals-theyre-also-ai-chatbots-10194032/
 
-## https://www.livemint.com/rss/technology
+- Robots race, play football, crash and collapse at China’s ‘robot Olympics’
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/robots-race-play-football-crash-and-collapse-at-chinas-robot-olympics-10194020/
 
-- [Sam Altman says OpenAI has better AI models than GPT-5, but it can’t release them yet. Here’s why](https://www.livemint.com/technology/tech-news/sam-altman-says-openai-has-better-ai-models-than-gpt-5-but-it-can-t-release-them-yet-here-s-why-11755407918005.html) — OpenAI CEO Sam Altman stated that better models exist but cannot be released due to capacity issues. OpenAI plans significant investments
-- [AI plush toys promise screen-free play for kids— but at what cost?](https://www.livemint.com/technology/tech-news/ai-plush-toys-promise-screen-free-play-for-kids-but-at-what-cost-11755412679064.html) — Curio's new stuffed animals uses AI to interact with children. While marketed as alternatives to screens, concerns about privacy, surveillance, and
-- [ChatGPT boss warns against relying on AI as primary source of information: Here’s why](https://www.livemint.com/technology/tech-news/chatgpt-boss-warns-against-relying-on-ai-as-primary-source-of-information-here-s-why-nick-turley-gpt-5-11755405687732.html) — OpenAI's latest model shows improvements but still has a 10% hallucination rate. Nick Turley advises users to treat it as a
-- [Anthropic gives Claude AI power to end conversations as part of 'model welfare' push](https://www.livemint.com/technology/tech-news/anthropic-gives-claude-ai-power-to-end-conversations-as-part-of-model-welfare-push-11755393117146.html) — Anthropic's Claude AI can now end conversations as a last resort in extreme cases of abusive dialogue. This feature aims to address potential
-- [AI threatens entry-level lobs? Tech openings for new grads have already been halved, says report](https://www.livemint.com/technology/tech-news/ai-threatens-entry-level-lobs-tech-openings-for-new-grads-have-already-been-halved-11755346500101.html) —  AI is disrupting the job market for new graduates, particularly in tech. Job openings
+- Profit without punch, India Inc's Q1 report card in charts
+  Muted revenue growth was a constant theme in the latest earnings quarter, despite a slight rebound in profits. The Q1 results reveal a fragile recovery, fuelled by cost tailwinds
+  🔗 https://www.livemint.com/companies/company-results/india-inc-q1-results-2025-june-quarter-earnings-india-india-corporate-earnings-analysis-india-inc-profit-growth-slowdown-11755411788720.html
 
-## https://www.business-standard.com/rss/markets-106.rss
+- German Breweries Are Forced to Adapt as Gen Z Goes Alkoholfrei
+  The Lang-Bräu brewery in the north of Bavaria has weathered two world wars and the fall of the Iron Curtain. Facing €12 million in costs for much-needed upgrades, the owners decided last summer to
+  🔗 https://www.livemint.com/companies/news/german-breweries-are-forced-to-adapt-as-gen-z-goes-alkoholfrei-11755415683131.html
 
-- [Trump hints US could hold back secondary tariffs on India over Russian oil - Business Standard](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWXlxUkZ2b3c5VEE0TlJLZmdKUnI2TEFnSVp0OWpLMWlhTGVRWGM4ZTdlcXdXMTRGbXNjeXVtQ3VCODFDUnMxOGtlX285d3B6V0syYVVGT3pvdzRwV1FHdXZBMngtTl9rUXhoNzZJTDVQNHptTFltQnM0RnRTMTFwNE9uV0pGRWRtemFjTlcxTGFkblA5R1NnblZicGhFRHdRYVp6cWFsT052VzFkNGM5YnNNZFVQN1c4ZlVrb21yN29weUMxdzBnS1E5blJkbDBGUXc3Y3hR0gHbAUFVX3lxTFBiMWs3aGZSZzhZVjQ4eWhyWnJKdWZfUkRaSVJWRTBGOFJ1V1EtT05iemlxTnJtVnY1REV0amFCM0R6N1dhdU8ySV9zQ3hnSFFjTlFOQzMwUEhsQnV1cS1qcnFmSDgwcmZMbDlsaFZGanRKVzRIQjBRZno1d3U1bnVZN3F5MlN6SXpfdlkwekdsN1YwSGMxQURrU2xibHNDQmQxQ0NYVS1oUF90RGZWaGRfWmpJUlNRblNhNzFZeTlUR3dyMHRiQWZIbUIzQ200dnRGYUc2ZnhnOVhSWQ?oc=5) — Business Standard reports that India is considering imposing secondary tariffs on Russian
-- [China to launch new visa for STEM talent as Trump cracks down on immigrants - Business Standard](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbkFYTThvZHAxUF9YTWRjVld4QmFzUVQxNGk3YjljM1pMajNfcDhlQ0xmUHA5VHNHcE83OGdpanRuT1VhUzI2QVpaZUJnamtEdk44c2tJWVJJX2FXb09HdUMydkk5OElFYVRTa21BTlRjaUp1VW93VnRtcGl4WDg2NTNqV3V1dDBzVGZBcXBDZ2lSdmNYbHF1V1d2eFpwUTJzM2ZkdWIzSS1nOWxxMDVscXhVdWFLanc0cjV0cFdXc1RMZHRRLXhJb3c3ZzJ6NkxFNkFRQXpLR0rSAd4BQVVfeXFMTzZJVFRNSkRHOUFXSXdMV0lMWkNNZXE0Rkp5MkEwbWZOcDE5Vktfd2tFb19naGtkRFVybXFXSGdhRkprTXR6cXVpWnRpM3N2NXpvWnA4VW1OSDV0RGpGREozYXV6TVJRLW1hUERxSUo1VUxYNzMya25hajVXcXJybzlNLWJRX0xGd25nTXhQTWYxQWdXazRGRWJhYVZLakxRX01CNnFQLW5DS0VsS0s0R1dYR3lQZnFnWlVHR3lmX0xvY2R0eTJWejRaVl91T1dwOWRVb3QzUTZRamtXenVR?oc=5) — China to launch new visa for STEM talent as Trump cracks down on
-- [Should Intel's treatment worry Silicon Valley's powerful Indian diaspora - Business Standard](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUmkzMUVEQTRvSjJnWVUtME42aEVSTlhSdkI4anFKT0JwU050dTRwR2l4T2t3bmhWSmxqRXdlZVhlU0RRNXJXTUwxWEM2bXl0OF9jb0ZGUzBZM09NOUZRTGo1TVpCaG81UzRnVnFiazF3Qm10OS1uVG1EeWNsakU3amJtUzN3NGlLZmFiRDhMNmZ5UGtfajI0LUNRZ1Y3VGFKOWFhdDQ5alQ0dW5GSXVMRDFtUWVTb0hpMUlGNDlkbzB3c3I4V0lzdEFTV1RvUExtdkxR0gHYAUFVX3lxTE5fWWhQTTBfQ1dGSmNJQmR4cUVTVGpjS0xjYU80aFFzOG5QZWIyRTR4ekdoR2ZTZ0p3bS1tMmprUTRDQ1ZLcDJpM1lkcEJncUQ3Y2ROYkFGaWpOTTd4V19JSGxwSlM4ZkRuRG9ld1U2RXpUdHptM1N0NE41OFNCRHVvVXZ5ZUF3QllEZ2lRVHZfMWluRTNoY3dRclg3VnlFNElfM1dKWTJqUTJnRGJqb1dNQTVaTVhKb2luLWJjWnJLVXkzMlhsVHNFZWxZUTR4MXpXUGt6WXRHTA?oc=5) — " target="_blank"
-- [Netanyahu lists 5 principles to end Gaza war, including security control - Business Standard](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORWZqd0lWaThrcW10RnZRQ3lOQWtNVzNBQWV6VVZHRUVoaVBkWVREQzBYY3N2U0E0Q0dEU01wUUg1dDZLb29WMFAyelVVQ2htS1FRRFBKT2NTbm8xa1BJRGxVRGxkUnB1b19qUkRPcFZKS1ZEdEZhZWhFdjFFNjJ3cDVMQlhxWlB0UzMzal9CNmNwaVFlY0ZFQ2xsZVVSWE1WWjRPaXp1Y3hDemZoOUpmdUV0WW01Tm5LZFp2NWt5bVN4UTQ1a0tzNUl5LUoxS0RLWHfSAdcBQVVfeXFMTmhmUXVXN1JvcTBSNktQbXVBT3ZGYW1DakU5MmlyVXVnNUR6NTBCaFFfSHBjelNjVTEzbjg4aks0QVFVREZodktLTi1FRE91bjgxc0ZWNnZnZGdfMEVMSUtjNlVHaU9KRXJXWnIxc2dBVElvRENwOUxxY2xCUVFBV1ZVWGpaS2RmamdlMGtuckZHTDJKQmNoRHZvRTdMM2ZDTUR2UUxMS0hkWG15T3ZVSE9mMVJDY3pZT1h1a3lhbkd3UEx4Zi05THNaVUh3SDZqQkgwZGp0TWM?oc=5) — Netanyahu lists 5 principles to end Gaza war,
-- [Kuwait offers visa on arrival for Indians with valid GCC residence permit - Business Standard](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS3JmMERYOVpCOVljNW43RTUtZFdqeW11UEtrbHdMUTAtWHhKTjRCeTZtVms1OE02WE5yY2JOOG1HZHVhVVBRWGVsXzRMWXR2TlU5SU0xbXprSE1xcDlOb2xjUURtUXpaTDFIRTRQRmE1d3dxUkYwejNVQVFKU2c3LUZGejNhSWppT25oUjYzSUVqdklUb2FmRWZDbjFERjZ6RDcwQmdxUi1QUHpFNHhxdC0xVWFVdkdrLW5idWx2MVhNU3JyMGFoeGtoLVZwcXl5NmJGV3NB0gHbAUFVX3lxTE9NYWI0V01pRjZfUjZhNEE0ZExwX3R6YnZyMi1KUE5acHJFNEFoYlVJeHhpWHd2MmExN0ZNRkItYzVrYVhnREVlZnJXLTZ0djdEYUs1clRYYXBjV3c5eVA4SkZqSUtNUG5NQjAwUVE1cmJjdDJOMkZ0OWs5NXJHOUZUZEwyeDcyTmViZUU2MGl3TXlPeG5JMWlmZEpoLUFWOGs1bThSR2FodzBaM2tTVWFrRTFkYm1zXzdIMTd4Tmg0QkN2ZWpaT0FBY19lYkFJajhnWlVYZGVhMEdhMA?oc=5) — Kuwait offers visa on arrival for Indians with valid GCC
+- GCCs drive surge in Indias reskilling market, attracting international interest
+  India's reskilling market is witnessing accelerated growth, driven by the rapid expansion
+  🔗 https://www.livemint.com/companies/news/gccs-drive-surge-in-indias-reskilling-market-attracting-international-interest-11755412724406.html
 
-## https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms
+- Elon Musk's stern warning to short sellers after Tesla Senior VP dumps 82% of shares: Here's what he said
+  Elon Musk responded to current short sellers of Tesla. He warned them of potential loss if they don't exit their positions. His comments
+  🔗 https://www.livemint.com/companies/news/elon-musks-stern-warning-to-short-sellers-after-tesla-senior-vp-dumps-82-of-shares-heres-what-he-said-11755404015914.html
 
-- [Sebi plans review of MTF margin rules to streamline risk management](https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-review-of-mtf-margin-rules-to-streamline-risk-management/articleshow/123343951.cms) —  Markets regulator Sebi is looking to review the margin framework under margin trading funding (MTF) Se
-- [Watch August 21–22 for possible market trend shift: Harshubh Mahesh Shah](https://economictimes.indiatimes.com/markets/stocks/news/watch-august-2122-for-possible-market-trend-shift-harshubh-mahesh-shah/articleshow/123343736.cms) — The Indian market ended its six-week losing streak, with Nifty50 gaining over 1% for the week ended August 14. Key
-- [8 IPOs to open next week; eyeing around Rs 3,800 crore fundraise](https://economictimes.indiatimes.com/markets/web-stories/8-ipos-to-open-next-week-eyeing-around-rs-3800-crore-fundraise/slideshow/123343613.cms) — CNN.com will feature i
-- [Rs 5.6 lakh crore shock! Tata crown jewel hits worst patch since 2008 crisis. Time to panic or buy the fear?](https://economictimes.indiatimes.com/markets/stocks/news/rs-5-6-lakh-crore-shock-tata-crown-jewel-hits-worst-patch-since-2008-crisis-time-to-panic-or-buy-the-fear/articleshow/123343296.cms) — TCS faces its steepest decline since 2008. FIIs exit IT stocks amid weak demand and AI disruption. While Nifty IT plung
-- [CCI, Deepak Fertilisers among 10 high-conviction stock ideas that can rally up to 67%](https://economictimes.indiatimes.com/markets/stocks/news/cci-deepak-fertilisers-among-10-high-conviction-stock-ideas-that-can-rally-up-to-67/slideshow/123343064.cms) — 
+- He earned a small towns trust. He owed $95 million in what authorities say was a Ponzi scheme
+  He owed $95 million in what authorities say was a Ponz
+  🔗 https://www.livemint.com/companies/news/he-earned-a-small-towns-trust-he-owed-95-million-in-what-authorities-say-was-a-ponzi-scheme-11755403000878.html
 
-## https://www.gadgets360.com/rss/news
+- Mcap of 5 of top 10 most valued firms surge by  ₹60,676 crore; SBI, HDFC Bank biggest gainers
+  Mcap of five of 10 most valued firms climbs 
+  🔗 https://www.livemint.com/market/stock-market-news/mcap-of-5-of-top-10-most-valued-firms-surge-by-60-676-crore-sbi-hdfc-bank-biggest-gainers-11755412982950.html
 
-- [ChatGPT Users Find GPT-5 to Be Worse Than Older GPT-4o, Sam Altman Promises Fix - Gadgets 360](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMEt2RF9NNDdBUUdac0VmaVRGNml3djVJNXkwc2xsWjBiQkJkczBDQWo1T21fa2ZUT0ZzY2J6YXNuWEJEdEpTcWNTRTljTW1XdWwzdUFiMlZQc0kwTnZ0Ymw4X2pNMkNJOWpWbnpYeUNFMHpaWWxiUU04YXBGamxtNHlnbXl6amIxOHBJX3BfdjFzemwxSk56RVAxNDdBdkdydnpmZnpXWWk3TXd6eXdxZ0k1SmVjQUpwV2pLWWl30gHDAUFVX3lxTE1DYzg3NDBTS1ZiR3M4a2hLSUV3bFU4eHNYTmZ1a1FsdjZNTlp6RXpGWHhENHJnT1lmZHhHRTFrZTlWSGM1X29wb21BSi05VWlwdFlYdThkc0FrWi1ua2ktdTVrY0N5bjEwZ0pJUmJtazFocDgxcTdVLXNRSWlWelhIRmhBdk0tTTc1dl9mRVJYdkVRVldlWGFhTnl4V0thd3dmV3Z2a21qeEZmMnNWZFJuQ0l5N0cwNlAxdHJaSTVtNmVrOA?oc=5) — " target="_blank">ChatGPT Users Find GPT
-- [Scientists Apply Stephen Hawking's Theory to Propose Detectable ‘Black Hole Morsels’ in Space - Gadgets 360](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNm5RcmVEbndRUnVkaV9FN0hVb0xqY3E5a2hUQ0xuc1FVSUR1bWhsY21ZNWM2OGRzM19uZ2tsNzFzRUlQcTFnaml2b1gzckpOd08xMlpxaDNyN2xDbERMa3BjR2xRYTRiNjlaTl9JOFdiNFBCalFZSEdxZVBmTV8tVkVjNGxBbjQxNG5EcVNkcFFmZWlPWlZLcHRFZGd4X1pyUFRYdHhmaWlEdVY0WHN3QnpLc3JVc2t5ZVI4QndvRGRfZ3ZqczZsWURUeTV5NnFDRDJfWdIB2gFBVV95cUxQVWtITGtvdmhWb0JyeFAxXzdvaUVfOTdXQ3pQeVdZSWRJZE43cF8zcVZuZWs5WmtZOEwxYU1CRVBFX1Z3OW9WQnNQaGJVcDVSemlCMXVQYmw1LTdjNU5HZWtidE9MM1RPVkZNcDR1TXNHbmtuVjZNcFFqU3RoVjkxTzJxNkVlQVdGSFRLS3JMWTJ6VWZqVnVxUWh2U2R2SktDRDduM1MtbXdRRFltSU55ZjhBcmdFZmFLVzFKOWZmNjB0ZVZpcWl2VmVqSS1lNzhqT3Mwd2hVaFZkQQ?oc=5) — Scientists Apply Stephen Hawking's Theory to Propose Detectable �
-- [Gemini App for Android Gets a ChatGPT-Like Privacy Feature and Personalised Responses - Gadgets 360](https://news.google.com/rss/articles/CBMiywFBVV95cUxOS1NQajhETXp3Q2RqbkJ3aWlNMkdZbDJSQ0o0ZzYyeC1rUW9xMmdqbl9VSzVmRzlKcG5rNDBOZjBwWjBCd0M4Y0ZIYml3VnJzWnJhSV9SMEVNLXE2WGZYSzMyc1NIUjcwcGdsUXFabGNwOVhDS1FxRFZqTU5tSDRtVExrMVhGcUM0UWE4Wk5PMWRsWDlsaS1YcVJmbUpRYnJLcVJEYzh1bmNhSFNPTU9nNDZjSHNaU0NMRHZ1R1VTcUZ3Y3NXQkhXZWJoQdIB0AFBVV95cUxQLUdIeVBraDAtanlwTGxacVJqYlA4TWk0UXpraW9EcnVZdFRualBnS0JlZ2FINzFDQXZjWVJMSW9qMUM2UDd4RlZ5N0J5MGpLVWpjSXZHOWVkdms2WXdrZWluVjEwZENLMmluSGI1QkJMVkYtaUZKUExyYVJVYndORm1EelhhMENSMUU1XzU3UUFrSnUxVTdfaWxzRmE3NmtqSEN5S0xsRzJxdEFhdnJjWTFna0ZxRGJRdW5Zc3poeGM0eHZrUXlhTzc2dHVWSV91?oc=5) — Gemini App for Android Gets a ChatGPT
-- [Perseid Meteor Shower 2025 to Dazzle Night Sky in August - Gadgets 360](https://news.google.com/rss/articles/CBMitgFBVV95cUxORW1pSTRZSlpSNzd3clp3NjZPNE1xRzkxTUtIWV90SVNqaWxjQWVPdmZOSmZDa2FNMGpmZDNwdFU0c2NKNnhUeVlrRk15el9QS2JBWlVoYnZIRkM0a28wQUFGQ3pqcFdtMlItei1jTENLTGp2UEVIS0ZRVFdKTHZKQ1JCaEVtSllnTmJDdTZSTXFadU5MZzRCLWRqWDV1YS1SM1RJV29HYVdDRkZCVUZIOW9IaDI5QdIBuwFBVV95cUxQdFZzMy1SMlI3UTBUODZ3ZHdZMFlUUC1CU25TTHBkN3U1cU1iT0wzVWpaMGZ3aXMwWVhZTExQMWp2TlMxOVdLaHo3TjlEbjBkUkM2Q2gtR1BrRnJRbkctLTVKek1zV3VmZ201ckd3M1M5eXg0SVNrSTlhdUJGS093cmkxM3Z2Ulp1Nm11MW1hc1B6Z1oyVm9OWktqakVySlJJWDhma2w4NFhaUjIyQlVKTV9mc0RxOEFyb2ZR?oc=5) — Perseid Meteor Shower 2025 to D
-- [Qubo Dashcam Pro 3K Review: A Solid Choice for Your Car - Gadgets 360](https://news.google.com/rss/articles/CBMif0FVX3lxTFBDS3JudS1sbGI2X0JoR1VqYkZYb1ZWTmQ2R1Nrc0RDbEdaMmx6ZmhWRm9VMkRMVmFjdU1jODBWazFqWENsb2lfM1dKVV9FR2JQc3BkdHBWX3M0WF9DdXp4MUFqY0N3T3lFYVdfZzVaaElURzZvSFJ5MFdYTjJrMWfSAYQBQVVfeXFMUEZRZ3FLNXJrT1llR0Z4dktPam13SDZoRzZfYURGc3c4Q0d1Y1dCLW5VUHphUXhkYTJzTkVDcmZlNmdZc05HZG1PNVVYRG5lZWprSTJ1SjB5dnBKM2hUX1lvcTBNbmxhUUpJWmp3TzV4VTQ4OHU2TnQ3dlB0ZXBDLTY3NFhD?oc=5) — Qubo Dashcam Pro 3K Review:
+- GST reforms: BEL, Tata Motors to TVS Motor - Experts recommend THESE 10 stocks to buy
+  The market is likely to cheer PM Modi's announcement of GST reforms in his Independence
+  🔗 https://www.livemint.com/market/stock-market-news/gst-reforms-bel-tata-motors-to-tvs-motor-experts-recommend-these-10-stocks-to-buy-11755410183700.html
 
-## https://inc42.com/feed/
+- Upcoming IPOs: Gem Aromatics IPO, Vikram Solar IPO among 7 new public issues to open next week; check full list here
+  Gem Aromatics IPO, Vikram Solar IPO among
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-gem-aromatics-ipo-vikram-solar-ipo-among-8-new-public-issues-to-open-next-week-check-full-list-here-11755403252526.html
 
-- [Meet The 13 Deeptech Startups From BIGShift’s First Cohort](https://inc42.com/buzz/meet-the-13-deeptech-startups-from-bigshifts-first-cohort/) — Building a deeptech startup in India isn’t easy. Investors demand quick results, R&#38;D cycles burn
-- [Market Cap Of New-Age Tech Stocks Crosses $100 Bn Mark, Yatra & Paytm Gain Big](https://inc42.com/buzz/market-cap-of-new-age-tech-stocks-crosses-100-bn-mark-yatra-paytm-gain-big/) — Market Cap Of New-Age Tech Stocks Crosses $100 Bn Mark. Yatra &amp; Paytm Gain Big.
-- [Zepto’s IPO Crawl](https://inc42.com/features/zeptos-ipo-crawl/) — Last week, Zepto grabbed headlines again, but this time for reasons that could shape its future. First, it raised INR
-- [How Rapido’s Ownly Stacks Up Against Zomato & Swiggy](https://inc42.com/buzz/how-rapidos-ownly-stacks-up-against-zomato-swiggy/) — Rapido’s food delivery service, Ownly, has gone live in pockets of Bengaluru. Taking on giants like Zom
-- [toothsi Parent makeO Acquires Apple Dental For INR 11 Cr](https://inc42.com/buzz/toothsi-parent-makeo-acquires-apple-dental-for-inr-11-cr/) — makeO, the parent of dental tech startup toothsi and skincare brand skinnsi, has acquired Andhra Pradesh-based
+- Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Indian Hotel, PFC shares tomorrow - 18 August 2025
+  Indian stock markets ended a six-week decline, closing nearly 1% higher with Nifty 50 at 24,631.30. Experts advise monitoring upcoming domestic and US economic indicators. Dh
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-indian-hotel-pfc-shares-tomorrow-18-august-2025-11755362051516.html
 
-## https://entrackr.com/feed/
+- Stocks to buy under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday - 18 August 2025
+  Sumeet Bagadia has recommended three stocks to buy on Monday, August 4. GMR Airports, Niva Bup
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-18-august-2025-11755397648501.html
 
-- [Rapido food delivery app Ownly goes live in parts of Bengaluru - Entrackr](https://news.google.com/rss/articles/CBMinAFBVV95cUxNb3g1dUFuVS1fc2p0UE1aaVRXMklmY1ZEVXF1M3J1Wk9STV8xVHpnQ3ZFMlB5anVacWFRdUtsZ1lvRWNJd2ZBQlRBQ3FPOXZDVUdGdkNwcTcyWjNINFVkaEV4U0hBc1hXYXdrMWJTWU42T3I0cE1fblFldEpLTU5zUzNpb05tb3RlaC1Mekp0eXhuU2I2a0d0ekxxMk_SAZwBQVVfeXFMTW94NXVBblUtX3NqdFBNWmlUVzJJZmNWRFVxdTNydVpPUk1fMVR6Z0N2RTJQeWp1WnFhUXVLbGdZb0VjSXdmQUJUQUNxTzl2Q1VHRnZDcHE3MlozSDRVZGhFeFNIQXNYV2F3azFiU1lONk9yNHBNX25RZXRKS01Oc1MzaW9ObW90ZWgtTHpKdHl4blNiNmtHdHpMcTJP?oc=5) — Rapido food delivery app Ownly goes live
-- [Indian startup funding plummets below $600 Mn in July: Entrackr Report - Entrackr](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMEx1aWVEUnhxLUZWRk96M0Fid2RBejlUUkRLcFp5N3VUd3hQUlRCOHJlTFR0N0EyNEREVkFYem5tZWcxMXlCOFVDLUEzQldvSlZaX1lDMzA2M0FXbXhuYzlBMHFsbnR4NDNraE5WQlNuQ3pOb3hEdDhBVFJyeGtlUFlCVjdVSG9qRllkNnlKdmdNM3lpVUFISUZOSl9wVXBSYUZjQWVJZldNQWtkdlV3LWpVcHdOdzcycU9nMVp6N0xBVFZhclHSAcYBQVVfeXFMTjBMdWllRFJ4cS1GVkZPejNBYndkQXo5VFJES3BaeTd1VHd4UFJUQjhyZUxUdDdBMjRERFZBWHpubWVnMTF5QjhVQy1BM0JXb0pWWl9ZQzMwNjNBV214bmM5QTBxbG50eDQza2hOVkJTbkN6Tm94RHQ4QVRScnhrZVBZQlY3VUhvakZZZDZ5SnZnTTN5aVVBSElGTkpfcFVwUmFGY0FlSWZXTUFrZHZVdy1qVXB3Tnc3MnFPZzFaejdMQVRWYXJR?oc=5) — Indian startup funding plummets below $600
-- [Cureous Labs raises Rs 1.66 Cr in seed round - Entrackr](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjVyZ09Fbml6N3FsSnFvOW5oQVB1S1dHNHJZNGJBbEhsZG1OVkZ0NnVMUUZfX1JfXzh3TnoxQjNWY2xtYS1lUGUwTmttNEY4U0pvUTZlUlMwb3QzeFd0endQeTNlZXNlX2lCeVUzNGh6a0dfSlFrYUVJR1J4OGNseFMtbTZ3U2g20gGIAUFVX3lxTFBuNXJnT0VuaXo3cWxKcW85bmhBUHVLV0c0clk0YkFsSGxkbU5WRnQ2dUxRRl9fUl9fOHdOejFCM1ZjbG1hLWVQZTBOa200RjhTSm9RNmVSUzBvdDN4V3R6d1B5M2Vlc2VfaUJ5VTM0aHprR19KUWthRUlHUng4Y2x4Uy1tNndTaDY?oc=5) — Cureous Labs raises Rs 1
-- [Darwinbox raises $40 Mn funding from Canada's OTPP - Entrackr](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU2F0SGRQRURyalI4MDc5cUFSU043MU50OE9zQUs3SUtxWElLTUU2QXhxMTlKdW8wM0N4b2d6WmNMZkF4OVpzLUltNldyYllNTUZGcFJIelNmX2RHVFYtNkUzSW1JS2JfM3lEa2drdGRodGpuMjVXYjQxYmJKYUlUb3pyMy0yaFE1R0HSAYoBQVVfeXFMTlNhdEhkUEVEcmpSODA3OXFBUlNONzFOdDhPc0FLN0lLcVhJS01FNkF4cTE5SnVvMDNDeG9nelpjTGZBeDlacy1JbTZXcmJZTU1GRnBSSHpTZl9kR1RWLTZFM0ltSUtiXzN5RGtna3RkaHRqbjI1V2I0MWJiSmFJVG96cjMtMmhRNUdB?oc=5) — Darwinbox raises $40
-- [EaseMyTrip profit falls 98% in Q1 FY26; spends Rs 370 Cr on 3 acquisitions - Entrackr](https://news.google.com/rss/articles/CBMisAFBVV95cUxObi0xMEpLVTNOU2dYUE9udnBpbGtnYWZGVXAwSTY4T3FVVVNWVmFLSDRDazRMOWtuajRmZkVCRktuUzlHbkxDcU9NSExKQXQ1aWFYcTVMY0pfMkh1UTVoVGdZQzBYb2lXRjlRa1NKLWRjZjZSaGhRYVpyT3BITF90TUhhc2tFV0ZVODlMZmJMa2MwN09DV1VCaE1wcjVtOHdTektDQTJxeno2dEx0QnZ6LdIBsAFBVV95cUxObi0xMEpLVTNOU2dYUE9udnBpbGtnYWZGVXAwSTY4T3FVVVNWVmFLSDRDazRMOWtuajRmZkVCRktuUzlHbkxDcU9NSExKQXQ1aWFYcTVMY0pfMkh1UTVoVGdZQzBYb2lXRjlRa1NKLWRjZjZSaGhRYVpyT3BITF90TUhhc2tFV0ZVODlMZmJMa2MwN09DV1VCaE1wcjVtOHdTektDQTJxeno2dEx0QnZ6LQ?oc=5) — EaseMyTrip profit falls 98% in Q1
+- Sam Altman says OpenAI has better AI models than GPT-5, but it can’t release them yet. Here’s why
+  OpenAI CEO Sam Altman stated that better models exist but cannot be released due to capacity issues. OpenAI plans significant investments
+  🔗 https://www.livemint.com/technology/tech-news/sam-altman-says-openai-has-better-ai-models-than-gpt-5-but-it-can-t-release-them-yet-here-s-why-11755407918005.html
 
-## https://www.hindustantimes.com/rss/topnews/rssfeed.xml
+- AI plush toys promise screen-free play for kids— but at what cost?
+  Curio's new stuffed animals uses AI to interact with children. While marketed as alternatives to screens, concerns about privacy, surveillance, and the nature
+  🔗 https://www.livemint.com/technology/tech-news/ai-plush-toys-promise-screen-free-play-for-kids-but-at-what-cost-11755412679064.html
 
-- [‘Hated Gandhi more than…’: How Owaisi, Congress, Left reacted to PM Modi's RSS praise in Independence Day speech | Latest News India - Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMigwJBVV95cUxOc0hTU0t4bHQyMVdsc2VWMG5CQUk4anUxSGJaZXA5bFlHSWhUQlpWSXFqMkR1RlN5b0RoeUx4UndFUnhpS2ltakQzTTg5NmpzNE9VTEtQQUpKWkQxTFllYTZNMXpZRXRTcWk2UzdVVnQ0Qko2ZXp5Y3pRM2xhMUFISmw5Mk9OLS1JS25mNE5nWkpFeVA1ejZXX2IwOWxuaDJoV3dJZ2I4TFZ3YW92enRUVlM4anRsZ0JHdDlGYWZPREZpVGRSSzlXdUNEbnRfbWlBWU5sYU0xbjk2M3BFOGg0UzMwSU01b3hwZFgycFpPOG1EZmxDOHVHWmd2NkkxWlNMTTY00gGIAkFVX3lxTE5ERXU3NEFfbERaSUo3OXBvbFM3Si1UTGFadzFMdmd0eU5jVFpPY0JjekZTUF9MVTFHVzhrQUpNYmszaXNxMDdIVGtldWVYM1ZyclFXcHVRZFlTUFN5Q3FGTHhrcU9PV0dkUHgxRDBwNW12b0FaZk50VFdmWFNtS2ZtcUFRMnBTUzNKOXFiYjI4Y1oybmdReTdoX3pnWFhUeU9BaVBScElOTVViYkNBT1BYb0JpR2l6aGVsZ0QxLW5mUE9CdTQzbng1YndvRmY1eXQwRTlnTkZTTzBUMFJ3YndUR0tJd3RXbTVyejlXeUpuaXhVNkRQNG5lY1FpM0hicEFyYzR4UFlnWA?oc=5) — ‘Hated Gandhi more than…’: How Owaisi, Congress, Left reacted to PM Modi's
-- [Jessica Radcliffe orca attack video: Killer whale clip fake, no trainer by that name exists - Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZGx1ZS1nenlDOFUyRFZFSlFmamUyU3Z3VUszR0x4dnNFZnlEbHg3SDJNcl9vcllEaVFmLVN2bU5iVXloTlZScGhka3NjLWdGWE9VVF91M0VOQy1nWVZVdjNMUEtGbnh1SGJFT0JrMDBYN0htam1XQmw2cmpQclBHQXgwcE5RTXRRbHFSYndadnY3Z2ZyWXNqQllXbzE0NXRhdHFtcjE5WXh6V3p4QzdYNEJaSkVHRUVaOXp2YTFBOWVXM0NIU3owVWM3QzgyRnpkRXhDZXhabTJZXy1haW1xdUlUSVowUnFT0gHuAUFVX3lxTE5YY2pYX0RhSkt2NDJSWUc4SXo4RFZEcU1TRUZ5Slg1WXNuSGVLQ2FHMGc0clZpYWN6LXBpUXNGZ2xQY3NhejN1emI5c2pSTnJ5SXM4dGRWZXg3cXRHR2NsRjNCdDdJLUdHelV0aU9BSnNHd2VkbUpOSDJRb0NXSUVKVEhmOWMwZGFSNERrLUMwYXFfS1NpZTJ1ZWE3MTlIWVFuampyV2lzQm1FbjE0cEJlUEY1cnBKcW9KVHBCNDlqUm84Y1lTUE0zRVd4TjBUaFh2N0lLZEJhX1BScnVmNjFZRmZ5emk5bXlBbkgwX0E?oc=5) — Jessica Radcliffe orca attack video: Killer whale clip fake, no trainer by that
-- [6.3 magnitude earthquake jolts Papua New Guinea, tremors felt in Indonesia | World News - Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ3FvSnY5UEZmZXRhcExqOEthWWo1NF91aUJqZmpzT2MwRWUwUnBfVmpNQ09XdHZnWDR2M0ljU2Y0aGwtRk1hZ09yYTVnTlAzLVhEUF9YUUNVMFFoXzB6bDM5OGRBSEpzRm4weWg5S2xUbl8xbVJqRW12c1AxRHRJeFgyMFZXOUZ5dmpOWWN6OTJoaTBxRUNfcVU4d2Rsb2puTUpWM3RUeDZ3bER0d1p0R3I1R3FXMXNNY2RYSm4yQURzVTJQN3R6QXlnYy1PSWF30gHWAUFVX3lxTE9VQjlHbjMtYmZYZXJwb2JyYjBZMjlNUFRZTG1rbDFITU5XazAwYnAxdGtRdGJuSjZnLW82SmNibFBzUmdOWlRZbHM1eDJ5azFiY0tTNE1pN0FCb0lZR3JENXM3Zk43NVBWcE1DaVlJZHJGMFhmTEJ2dkk2NnBzb2YwS2Ewc29zVUNPTW9heTI4UVlpTjJ5OTk4OUZNRkJNaEljSnM4RjdvaHZYd3E3STZxeXVLd1JyQlUxSl9TeVRQM0JZaU9CUGxtTkdEVzdZUkwxZGVGdHc?oc=5) — 6.3 magnitude earthquake jolts Papua New Guinea, tremors felt in
-- [‘Miss Wayne County’ Ameera Hashwi is first woman wearing hijab to win award; Laura Loomer calls it ‘gross’ - Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNc3ZCbHRfQWs2OHh2a3QzLXRYbmo2dW5WaDY4QTZoTkp0Vmg2UkMxN25sc2hhb0xYcFkwUE5pWWtoYjlnQ1VUeUsxT2lYY1Rhc0R0dUlHMEpLZDUwTUNEcHkyNk0yZFZycklxY2g0U19leVRkZk1XcHNGSS1JcXlyb0hDT2NkdjFIcWQzZWVXWGoycEM0NGtoQVdvV2NtVm5KZ0RaTFEtUlYwdVJJSFNTRnJJVWppUkMyaHlaYVRXTkN1c3VGeHFwb1RoRV96S2EybmtpT01jNUx0WXM0YUcxbXJGMy1SQ2x6eE8yU1ZqZ0dmdEdPUWV1U9IB_gFBVV95cUxOQldmSmZlWmVmZ1JOSEJVWFUwSFNhVEJFWVFaUnlhM3JYSVRheVBlN3Bld1BkRE5rNTF3YzUwWnN3REF4aG82anQzT0d6VzJCNVFLTVBrVXJqaXlJdUZwdWlPbG9RenJaejQyZ0xGUG8yODZ0LXZCbDNiTnlkTGpCLVlEVXFIeEduNzNnN19ua0ljMzNLVnV2cWdWSXJiNDlmdXk1ekxqYXR5aHJweS1IMlpPQjdmSVlKUFA3VTNDT0EtTkNsRlJ2cUJRamVaMldMQ0VUYjRBMUZ2Um82NjZYczVzeDRIQ0toNmMwel9NX2RmeTNMS0xnakd4X01ZUQ?oc=5) — ‘Miss Wayne County’ Ameera Hashwi is first woman wearing hijab to win award.
-- [Independence Day 2025: PM Modi’s 5 big announcements in record 103-minute speech | Latest News India - Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOWjlDbmx5T0V6bld4dFVnRjZpWDJwalNpdFB1NnJISWxBRWEwM2RaeXJfcEtfd0Npcm1RY3Z4YXFCN01NS21yT3pZZk51U2pESUVYQlB1VXZLZnJJLXBxR1dBam1YSXlweldPbEdybm5sZzZkLW1SV3VtYmFUQk9rZG8tMkUyRWNNV1JTOTlQTWdMdGZoMVpsWEJieTJfQV85UXhxR1Y4XzBoUWN0Z0VhQTdZb2RNWnlKajJIV3dFU0ZJc19Lblc4VFpFQlNDSTVsMHZfSlJqdjctQ19fRkt3bWxndmV3bFozMGpybEI0R0dSemtfMTFRQjRLYVRXYVHSAYQCQVVfeXFMT2pkRVlzeFBpTmtybU40UTdZRXdBM0VUTjZGQWxWTEtYQjNnMk1ZdE1VamEyRnZScU1GVjBkTkJvV2JYNEstU3RXdDhDVkNYckc4RHhSVU1uTF96dFUtRlplcUdoZWxxTGNmMU9oWDdxOGZuQl9pOHhPaVoyU01IR2p6dDYzQU02WV9nODRleWtGSm1talY2X2JtX3lXVjhyVV83djluSnpfMGtMT3hwcm5YamZMSW5Ja0dfblk0eUJtck91TUhiZmszbWMwSW9KSW5MWF9qWXVvZ1JaSUlLOU9tVkdiRG9vODlqSEo5aVdIY1NENlVyREtwUVZaMS1CVW1oZFo?oc=5) — PM Modi made a record 103-minute speech on Independence Day.
+- ChatGPT boss warns against relying on AI as primary source of information: Here’s why
+  OpenAI's latest model shows improvements but still has a 10% hallucination rate. Nick Turley advises users to treat it as a second opinion
+  🔗 https://www.livemint.com/technology/tech-news/chatgpt-boss-warns-against-relying-on-ai-as-primary-source-of-information-here-s-why-nick-turley-gpt-5-11755405687732.html
 
-## https://www.moneycontrol.com/rss/latestnews.xml
+- Anthropic gives Claude AI power to end conversations as part of 'model welfare' push
+  Anthropic's Claude AI can now end conversations as a last resort in extreme cases of abusive dialogue. This feature aims to address potential harm to AI systems, ensuring that the majority
+  🔗 https://www.livemint.com/technology/tech-news/anthropic-gives-claude-ai-power-to-end-conversations-as-part-of-model-welfare-push-11755393117146.html
 
-- [Buy HDFC Bank; target of Rs 1,850: ICICI Securities](https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html) — ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-- [Buy Tejas Networks; target of Rs 1100: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html) — Emkay Global Financial has recommended buy rating on the stock with a target price of Rs 1100 in its research report dated April 23, 2024
-- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html) — Emkay Global Financial has recommended buy rating on the stock with a target price of Rs 9000 in its research report dated April 23, 2024
-- [Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html) — Emkay Global Financial has recommended buy rating on the stock with a target price of Rs 9000 in its research report dated April 23, 2024
-- [Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial](https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html) — Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+- AI threatens entry-level lobs? Tech openings for new grads have already been halved, says report
+   AI is disrupting the job market for new graduates, particularly in tech. Job openings
+  🔗 https://www.livemint.com/technology/tech-news/ai-threatens-entry-level-lobs-tech-openings-for-new-grads-have-already-been-halved-11755346500101.html
 
-## https://www.moneycontrol.com/rss/technology.xml
+- China’s $11 Trillion Stock Market Is a Headache for Both Xi and Trump - Bloomberg
+  China’s $11 Trillion Stock Market Is
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRDg3djVzVEtKYk5VX1N6SFd3cFNraFFjZ05adjBwZWg0aFBFbHpNU0Z3YUJ4eHlPTGNUdl9vazVuUC14N216a0xBOTlHZzlCNHZLVTlSTTBTN182VjVjWG15My1sZHdJNDYxbmwwS0lTRzVSYUtkUEZtM253M0pmV1lrOXNrZm9uSG1zeDBQbE5DYllHUmozbGlMYzVrWWl2dTFER1JXbC1femp4THJNVHVXeVlibVpWNm1r?oc=5
 
-- [Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content](https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html) — PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big
-- [India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries](https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html) — People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+- Russian Markets Slide After Putin-Trump Talks End Without Breakthrough - The Moscow Times
+  Russian Markets Slide After Putin-Trump Talks End
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUjljQ1I2aG4tV041T1BuX3pEbVpWNTdzTDZ5QVg1YWJTbC00NG5LU3NXRHk1XzlwWnI4el9HcUtQU05rU0RSODFza0Y3d2hNMVpIcWR5R09lU0lXQWktdzVwQlBVbHdTaU1tYm5XX19vUk9qV254U2lnSS1WYjkwQmVDRFFlUE5PbEFOeDNtNzhuNFp6Zm54Z1B0dkd2X3N5Y3NsUmVUakE3TFBhQUFGdzdwQ19ENmp5Rm40?oc=5
 
+- Nifty Prediction For Tomorrow, August 18: Market Set For Optimistic Start; Check Support & Resistance - news18.com
+  Nifty Prediction For Tomorrow, August 18: Market Set For Optim
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVU9oSjd3TmVYTG5uNk5QTjFMQXpMcEdxZHVSaVlDNkJialIwTFlwNW9Uek16S2hZY2VKbkx5RXBEb3VfbW5pTGU2RVBUSF9XNVVRQmp4Z3N2WFVkeG5GcFZfUkphTTFvOU1rRnpnTC0tSmZwc1NUZVFhcXRYVHh3SDNWaWc4cGp0NnVmZWtaV0EyaEZMSmNUTGJVV3gyWGpDNHNNOTlHQnc0dS02QndjOWIya1ZiamtGaVBfRDN6OWVfWDFKci1tUDZxOXI1dV9ZVm5Wenc3c181cVZvY29Mc1hIb3FGSUZPRVHSAe8BQVVfeXFMTS1NcEp1eXJKMXNuaVM3S282ekU5OWQzYW5yakhONHZOWXNtV1E4eEVRdEZJVHRicG51dUZ1RUhvVXY0RC1LRm5CNlFPanNmNC0tQ2M5YlpYZlF5TUNCSkJjNUtBX0xzYVJlN28yeDVsY1RVODQxZU1UWmxHQU1YdnluVV92Z1ktWkdGUGdCS0JsNHJ6ejZaWGZ3Z1AtNkR4WUU0ODBPdFhhcU14VG1oRnFEZHE1N1htaUcxN3Zjc20xV01Lc04waGF5b1NMd2lJUnhuQk9VYlo5Ymw1SlVNdTI3Tmpsbkk1Y2p1VHlFNVE?oc=5
+
+- Watch August 21–22 for possible market trend shift: Harshubh Mahesh Shah - The Economic Times
+  Watch August 21–22 for possible market trend shift:
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLU1GZXJkRjN6LTUwUEtscXAzMjc5RkJiN3Zac0t0SXdLTmJvdWRuRGpocFFzV1V6NnJtZUUycEc3QlhmeVo2WXZoM0lPd21QaFA2SkVSNUt4UEVsSjlRQU1JQnJaUDZZRkxnY3ljTFl0b1k2dWthdmlqMGRpdUpxRm9fbUx5N3FMWngzMlg5bjZ2cFFCQkpSRktUS3ZqX2IyZnVFbVh4MlUtd0Vwd24wLUUwc1RBWjNRRlhrTFByQXVLVl9kREhmeW1id004d3JKQlZHMlJWNUE2R3RP0gHiAUFVX3lxTE5SYjdLaFYyQXVNbjkyUDMyMlBrV3pSYWYwdUFtX3JoemRBUkhvY0N2cHpRNWszdXlJOUZUWDJaZDNQaDI2MjBjQmdNaHM4aFJ2N2QzTGZUR1dpaG9YelNuVkRCc1FId0t6emZWNmdvQ2xYUTZJOFIwQ3BBZnBicF94ajQ4QkNBREtBYlZCeTJ1UmZhSERUdXBSa0hkMGtteHJmUjIzOTRHb0pXVHpPQ1FNaVJyRWhhUGhxdHdCMUhMQ0ZYTERoT0JmRjB6TGdzSUpyUnZVYTZvS3JOblZNLUlrNUE?oc=5
+
+- Trade Setup for August 18: Will potential GST cuts spark a relief rally for the Nifty? - CNBC TV18
+  CNBC TV18: Will potential GST cuts spark a relief rally for the
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNTVuSTRRLXg1OG1ReUxkNnRkOUpGelJUM2YwUFd5Rk1sUmI5end0WG9CS0RtWUsyLWllOC1EdUNfczJPUDFSMjE2UHd0OXZRNTZ6OW5hZnlOdklOTG5pRUJWUjZBeUpNRTFKZkRVa0k1R1dMZDlTaEpHWGJMMVE3UUVURWswR3BISThGeGhlLTB3Q1E3T3FyMU5ZQXRZWmlCenB1QlBKQ2VzTFFFSGxmcThBVmNweVozbWF4T3pkZEt0NnZlbVI4SdIBzgFBVV95cUxNSUEtSXlQRFFlSmRCNHItS2F0YnQ4ZTUzeFVqbzd0clZrOWlCeXpvbHBrZzZ1MUtXMEJ0YWYwSmg4MmZ0MVVPUDdINlNtUnktLXVNTXBwRk5pZV9nR09YUmNDNGNxcWItQ213MmE1bXZ1aU1tMEtZWFljRlVtR3VhVHZ6UkZlNG0telVLMGIwLVlXdWFKV3duTFlPODZNVnB1akNXcVh5bEw5cEZVZmo2NHdGbHJzOHFoQ1NRYmpQd2hHRERhcFJ6aHllVFNMZw?oc=5
+
+- Sebi plans review of MTF margin rules to streamline risk management
+   Markets regulator Sebi is looking to review the margin framework under margin trading funding (MTF) Se
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-review-of-mtf-margin-rules-to-streamline-risk-management/articleshow/123343951.cms
+
+- Watch August 21–22 for possible market trend shift: Harshubh Mahesh Shah
+  The Indian market ended its six-week losing streak, with Nifty50 gaining over 1% for the week ended August 14. Key support and resistance levels, along with intraday time clusters, highlighted precise trading opportunities. Trad
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/watch-august-2122-for-possible-market-trend-shift-harshubh-mahesh-shah/articleshow/123343736.cms
+
+- 8 IPOs to open next week; eyeing around Rs 3,800 crore fundraise
+  CNN.com will feature i
+  🔗 https://economictimes.indiatimes.com/markets/web-stories/8-ipos-to-open-next-week-eyeing-around-rs-3800-crore-fundraise/slideshow/123343613.cms
+
+- Rs 5.6 lakh crore shock! Tata crown jewel hits worst patch since 2008 crisis. Time to panic or buy the fear?
+  TCS faces its steepest decline since 2008. FIIs exit IT stocks amid weak demand and AI disruption. While Nifty IT plunges 25% in 2025, mutual funds raise stakes.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rs-5-6-lakh-crore-shock-tata-crown-jewel-hits-worst-patch-since-2008-crisis-time-to-panic-or-buy-the-fear/articleshow/123343296.cms
+
+- CCI, Deepak Fertilisers among 10 high-conviction stock ideas that can rally up to 67%
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cci-deepak-fertilisers-among-10-high-conviction-stock-ideas-that-can-rally-up-to-67/slideshow/123343064.cms
+
+- Trump Brings Up India-Pak Again After No Ukraine Deal During Putin Summit - NDTV
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYl9uUEZ0MXJpTk1RUGx2eTRJRXJLdWhUSVdjRWVSZU96N2dPZW9BRW40em5QaHpGd2x4TzdlY1JIMkVGNWhrbVF4dloxQlh0em8xczJaaEo0OUhkLURGcV9iQ1RlMGZNY202MmRJRnAtb2NsMTlGSHpTT0l1WFV5RzNaLVJkdGs1QkJ3eDZYVE1obXNmT0tEZ1NFSTg0LTZ0dHpBTnB1WV9IZmZTTlVYakJjV0JVUlVWa1U3R3RDWUzSAcgBQVVfeXFMTkQyN1pJc2Vtd1hYTU5jRF8wWDJfaXpKNjBxcDkyTmswTDVVa3p6T1NEZDBZT1o3dFNITU5FdUozcmFWYVRzcnVyc21fVU5OTnphaTdtYktiWHJDV1k5Wnc2Y0pDVlFpU1hNcktNTVhFOHRXUmFtSWxma1cwTlVQOER4MWlSdTdhRXZ6MmxiMl9PaTRfdWlRMkdaLU5sdGZsbUlfcDBrRXVtSjhNTnNPSUtyRWNjZWVoN2x3ZzNfcTdZQ05fQnFGb2I?oc=5
+
+- Trump holds off secondary sanctions for China, claims India no longer buying Russian oil - The Hindu
+  The Hindu reports that India is no longer buying Russian oil.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUZvWnUtUTQtNnlLVU9vZ1pEeFd4OXJsUzRhZlJFeHNhcFJWMHo0QW81dGVGbHFjWFo4bmV0YlJBS2JsRkF3c0ctQnFSVEVIUElKRW52Wk5hV0FmV0FnaWJTLWFoYkdpOGVfUXBiUTZ6QnZZSDVwamtRTHJsdEprNDJyTEdaY2xiNUxYSzctYlNoOEVMYzQ0VHM5eFQ4WUVKNWZhLXZ0Y0hKejUxMGRYaDhOei1uN3JvR0tVem5yYmcwWklHaWtwYjc5dy1QSVVoY3N0NmdMRDVpckFEbHNr0gHmAUFVX3lxTE42SmFEZTMwVDBGaldkWmNVQ0hZbk9vTVFkVkgyMkxYdktyd2hDZWdQRllmNWRWZnJndktRcmI3aXIxU0JTOXl4N3htVkRzM19LVmZGb2k0WWxfeUYxV0p6XzUzUHdMWWl5OXRkay12VFpBTFA4WmtsRHJlcGN3NU5SNkFFdmtfc05LSDAwM24xb3BsTGVwOXlVSXhwX0I1cGFURWFJYUdVREVPWlkzbm14WUpUVm8yYmV1ZDZ0OS1wRVJnU0FPWEN6MjdxTXhXdVFzUmVYVmpncTVDY1hnN2VNZm4yUVB3?oc=5
+
+- 'Trump's tariffs on India stupid': US economist Jeffrey Sachs gets blunt - his key message for New Delhi - The Times of India
+  'Trump's tariffs on India stupid': US economist Jeffrey Sachs gets blunt - his key message for
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNaEttNDJUalNzdTVraVZUNjQ1X3M4SGl0alZQV0ozVmFlNzVMRHNGbk82eUFuWDhEM0pEdF81UUNyd1FpOGZKaE5EQlh3LVhGWW1IY2RmYnkwUDBZOWpuY3dXdEhYS3MwQ1luc1lRYkIxNTh5R1d4M2xFU290VTh2R3hRczQtWWhsejI5WUg3MWxzWjVHMFFSRlg5WWk0eWo3ckNycFBBNVFXZjQ2N1dMYlJWSlZqcUU4TVVDQTIyZTBwMC1nd3kzNEQ0Ynh3cEh4eHZyUDlQaXRKaUhyZkRaWkNNY0Iyd1JKNUhKY1RNd1ZMbnlKOGpkdHJoOWJ4Z1pKUVk5bVI4cXRLMUxiLUNuONIBlgJBVV95cUxOZHBuMmQ0N1ZkUU52V0c4WWtHbHY5TWZ6VVQtei0zbWVRXzlKSDJyN0FaQ3RWaUdMTFkxWUF3T0tpUThQRFQ2dGRDekF4RWQtTkx1YWZ0N2ZPVGlzSnRsOWxiSllJR25SOUdFQkQ2Zld4bDhGcFlNMGdTMGh0dEZiUjRNNnN4am5IaDNYZjV3YnpmelUtdm9seVFIZDFyN3gxVVphZlBxcFcwcUE5Mk54dFlVcGdyNW1RemxMbVJiWmI1dmM4Y3h6WUp0VFdtdEpjZEpfMXVvUEdpSFU0SWU1aVNrTWJtWW5PVUFCTmRrNFBLeUE2S19XRm0tU20tY08ybThUbVBKSUdUVV8xcHF4Qmp2M2REZw?oc=5
+
+- Google engineer on H1B weighs return to India amid visa worries and family ties; Netizens chip in - Hindustan Times - Hindustan Times
+  Google engineer on H1B weighs return to India amid visa worries and family ties. Netizens
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ2d2Vkd0cHlnc2J1eTdnOVlZZUo1ZnNTbzBvalRaSnJaWWkwOUZTWEs3S1ppSy1WQnN3VjJSWVhjZ2pwaUlVVnlBeGx5aktDVUdhaUZabzJzTS1VQ05fdnBFSko4ZktZS1dBVERjMHlaN1ZIWnpZcTlEdHEyclYteGdINVg0cmM5RjhtV1VuZUlsRHhoSmduWnFGbVE0cjN3c21mUXlDc3JnTnNRUFFxc1RiS2JrUWIxLWltLTNYMXh3c3Jqb1BzVmdlc2EwR1BiSVdDdVF4bHVKaE5ReERSMWQxS3AyY2JBMDB0NzRlOEQzTFVSV3BGblV5d9IBgAJBVV95cUxNbUE3VUs1WTJaSy1LaVROZ2EtMWFGQmxHTklpTGh3RlJkVktBZHhGelNvYlJGeThrdklqWHJZdTRCMGFfQkxrMW1FUWlKTmtCakRTbkg0NERWdGlmNGMwZ3hFSUx4NXB1SlJfRzl1YXk5dm96V21TUF9hNVE2VGdDSE05d201QXNuZ3BqU0xVUTEwYXdGakhIY01KU2FDV1F6SFpCSUliZk9RaXZhaURsYkhVYkRDS3BEQVFSSmtXUnNKYnhZMThKZTl1dlZJVnVqMXV4LVB4VWlyemdwTmdXWHFadm81NTNPLTNDWFRrZ1pST0JfS3JOc2RDYUpEM25k?oc=5
+
+- Foreign Secretary’s two-day Nepal visit begins today - The Indian Express
+  Foreign Secretary’s two-
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWMzTzRpeGlhRUJjcGJFdlVoUzlTWU1FLVNReVkwSnBua3g0eXJvOFBibmdnSmxpVU04LUF3ZERibDlGWHFDNGVuQlB3dzNwb3FSSUhfQlgxRUMtMWJvVTdkeUx0cHZuQkpzaExYVnYyVk9TYjRPMXNFMHAzZ1IxTUlTZHo4QS1XeEFyVmVLbXh1NXNDZ1RJcDBTRGxMUXBGRC0w0gGqAUFVX3lxTE9VQ1VtYzRMQ3lfYTgtTUNKcktXZ0o3VUFoX0MwOVBCeTdEM0lQaVNacmppcWFaa2EwUVdVLVVZNTRRblVVejhudGpPSDk1YzZLQUlCLXpBVmxQVWFnUk1vRXVzNjMtTzB3R0s0dXhiNWtxSmFUaFpzZmJQSmp3dkZsZGdRUEwxWjgwTXU5amsySFh2cHBUVnRTQXB0RFh2TFN0eFpwcVY4aFlB?oc=5
+
+- Trump Brings Up India-Pak Again After No Ukraine Deal During Putin Summit - NDTV
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYl9uUEZ0MXJpTk1RUGx2eTRJRXJLdWhUSVdjRWVSZU96N2dPZW9BRW40em5QaHpGd2x4TzdlY1JIMkVGNWhrbVF4dloxQlh0em8xczJaaEo0OUhkLURGcV9iQ1RlMGZNY202MmRJRnAtb2NsMTlGSHpTT0l1WFV5RzNaLVJkdGs1QkJ3eDZYVE1obXNmT0tEZ1NFSTg0LTZ0dHpBTnB1WV9IZmZTTlVYakJjV0JVUlVWa1U3R3RDWUzSAcgBQVVfeXFMTkQyN1pJc2Vtd1hYTU5jRF8wWDJfaXpKNjBxcDkyTmswTDVVa3p6T1NEZDBZT1o3dFNITU5FdUozcmFWYVRzcnVyc21fVU5OTnphaTdtYktiWHJDV1k5Wnc2Y0pDVlFpU1hNcktNTVhFOHRXUmFtSWxma1cwTlVQOER4MWlSdTdhRXZ6MmxiMl9PaTRfdWlRMkdaLU5sdGZsbUlfcDBrRXVtSjhNTnNPSUtyRWNjZWVoN2x3ZzNfcTdZQ05fQnFGb2I?oc=5
+
+- Trump holds off secondary sanctions for China, claims India no longer buying Russian oil - The Hindu
+  The Hindu reports that India is no longer buying Russian oil.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUZvWnUtUTQtNnlLVU9vZ1pEeFd4OXJsUzRhZlJFeHNhcFJWMHo0QW81dGVGbHFjWFo4bmV0YlJBS2JsRkF3c0ctQnFSVEVIUElKRW52Wk5hV0FmV0FnaWJTLWFoYkdpOGVfUXBiUTZ6QnZZSDVwamtRTHJsdEprNDJyTEdaY2xiNUxYSzctYlNoOEVMYzQ0VHM5eFQ4WUVKNWZhLXZ0Y0hKejUxMGRYaDhOei1uN3JvR0tVem5yYmcwWklHaWtwYjc5dy1QSVVoY3N0NmdMRDVpckFEbHNr0gHmAUFVX3lxTE42SmFEZTMwVDBGaldkWmNVQ0hZbk9vTVFkVkgyMkxYdktyd2hDZWdQRllmNWRWZnJndktRcmI3aXIxU0JTOXl4N3htVkRzM19LVmZGb2k0WWxfeUYxV0p6XzUzUHdMWWl5OXRkay12VFpBTFA4WmtsRHJlcGN3NU5SNkFFdmtfc05LSDAwM24xb3BsTGVwOXlVSXhwX0I1cGFURWFJYUdVREVPWlkzbm14WUpUVm8yYmV1ZDZ0OS1wRVJnU0FPWEN6MjdxTXhXdVFzUmVYVmpncTVDY1hnN2VNZm4yUVB3?oc=5
+
+- 'Trump's tariffs on India stupid': US economist Jeffrey Sachs gets blunt - his key message for New Delhi - The Times of India
+  'Trump's tariffs on India stupid': US economist Jeffrey Sachs gets blunt - his key message for
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNaEttNDJUalNzdTVraVZUNjQ1X3M4SGl0alZQV0ozVmFlNzVMRHNGbk82eUFuWDhEM0pEdF81UUNyd1FpOGZKaE5EQlh3LVhGWW1IY2RmYnkwUDBZOWpuY3dXdEhYS3MwQ1luc1lRYkIxNTh5R1d4M2xFU290VTh2R3hRczQtWWhsejI5WUg3MWxzWjVHMFFSRlg5WWk0eWo3ckNycFBBNVFXZjQ2N1dMYlJWSlZqcUU4TVVDQTIyZTBwMC1nd3kzNEQ0Ynh3cEh4eHZyUDlQaXRKaUhyZkRaWkNNY0Iyd1JKNUhKY1RNd1ZMbnlKOGpkdHJoOWJ4Z1pKUVk5bVI4cXRLMUxiLUNuONIBlgJBVV95cUxOZHBuMmQ0N1ZkUU52V0c4WWtHbHY5TWZ6VVQtei0zbWVRXzlKSDJyN0FaQ3RWaUdMTFkxWUF3T0tpUThQRFQ2dGRDekF4RWQtTkx1YWZ0N2ZPVGlzSnRsOWxiSllJR25SOUdFQkQ2Zld4bDhGcFlNMGdTMGh0dEZiUjRNNnN4am5IaDNYZjV3YnpmelUtdm9seVFIZDFyN3gxVVphZlBxcFcwcUE5Mk54dFlVcGdyNW1RemxMbVJiWmI1dmM4Y3h6WUp0VFdtdEpjZEpfMXVvUEdpSFU0SWU1aVNrTWJtWW5PVUFCTmRrNFBLeUE2S19XRm0tU20tY08ybThUbVBKSUdUVV8xcHF4Qmp2M2REZw?oc=5
+
+- Google engineer on H1B weighs return to India amid visa worries and family ties; Netizens chip in - Hindustan Times - Hindustan Times
+  Google engineer on H1B weighs return to India amid visa worries and family ties. Netizens
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ2d2Vkd0cHlnc2J1eTdnOVlZZUo1ZnNTbzBvalRaSnJaWWkwOUZTWEs3S1ppSy1WQnN3VjJSWVhjZ2pwaUlVVnlBeGx5aktDVUdhaUZabzJzTS1VQ05fdnBFSko4ZktZS1dBVERjMHlaN1ZIWnpZcTlEdHEyclYteGdINVg0cmM5RjhtV1VuZUlsRHhoSmduWnFGbVE0cjN3c21mUXlDc3JnTnNRUFFxc1RiS2JrUWIxLWltLTNYMXh3c3Jqb1BzVmdlc2EwR1BiSVdDdVF4bHVKaE5ReERSMWQxS3AyY2JBMDB0NzRlOEQzTFVSV3BGblV5d9IBgAJBVV95cUxNbUE3VUs1WTJaSy1LaVROZ2EtMWFGQmxHTklpTGh3RlJkVktBZHhGelNvYlJGeThrdklqWHJZdTRCMGFfQkxrMW1FUWlKTmtCakRTbkg0NERWdGlmNGMwZ3hFSUx4NXB1SlJfRzl1YXk5dm96V21TUF9hNVE2VGdDSE05d201QXNuZ3BqU0xVUTEwYXdGakhIY01KU2FDV1F6SFpCSUliZk9RaXZhaURsYkhVYkRDS3BEQVFSSmtXUnNKYnhZMThKZTl1dlZJVnVqMXV4LVB4VWlyemdwTmdXWHFadm81NTNPLTNDWFRrZ1pST0JfS3JOc2RDYUpEM25k?oc=5
+
+- Foreign Secretary’s two-day Nepal visit begins today - The Indian Express
+  Foreign Secretary’s two-
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWMzTzRpeGlhRUJjcGJFdlVoUzlTWU1FLVNReVkwSnBua3g0eXJvOFBibmdnSmxpVU04LUF3ZERibDlGWHFDNGVuQlB3dzNwb3FSSUhfQlgxRUMtMWJvVTdkeUx0cHZuQkpzaExYVnYyVk9TYjRPMXNFMHAzZ1IxTUlTZHo4QS1XeEFyVmVLbXh1NXNDZ1RJcDBTRGxMUXBGRC0w0gGqAUFVX3lxTE9VQ1VtYzRMQ3lfYTgtTUNKcktXZ0o3VUFoX0MwOVBCeTdEM0lQaVNacmppcWFaa2EwUVdVLVVZNTRRblVVejhudGpPSDk1YzZLQUlCLXpBVmxQVWFnUk1vRXVzNjMtTzB3R0s0dXhiNWtxSmFUaFpzZmJQSmp3dkZsZGdRUEwxWjgwTXU5amsySFh2cHBUVnRTQXB0RFh2TFN0eFpwcVY4aFlB?oc=5
+
+- Trump Brings Up India-Pak Again After No Ukraine Deal During Putin Summit - NDTV
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYl9uUEZ0MXJpTk1RUGx2eTRJRXJLdWhUSVdjRWVSZU96N2dPZW9BRW40em5QaHpGd2x4TzdlY1JIMkVGNWhrbVF4dloxQlh0em8xczJaaEo0OUhkLURGcV9iQ1RlMGZNY202MmRJRnAtb2NsMTlGSHpTT0l1WFV5RzNaLVJkdGs1QkJ3eDZYVE1obXNmT0tEZ1NFSTg0LTZ0dHpBTnB1WV9IZmZTTlVYakJjV0JVUlVWa1U3R3RDWUzSAcgBQVVfeXFMTkQyN1pJc2Vtd1hYTU5jRF8wWDJfaXpKNjBxcDkyTmswTDVVa3p6T1NEZDBZT1o3dFNITU5FdUozcmFWYVRzcnVyc21fVU5OTnphaTdtYktiWHJDV1k5Wnc2Y0pDVlFpU1hNcktNTVhFOHRXUmFtSWxma1cwTlVQOER4MWlSdTdhRXZ6MmxiMl9PaTRfdWlRMkdaLU5sdGZsbUlfcDBrRXVtSjhNTnNPSUtyRWNjZWVoN2x3ZzNfcTdZQ05fQnFGb2I?oc=5
+
+- Trump holds off secondary sanctions for China, claims India no longer buying Russian oil - The Hindu
+  The Hindu reports that India is no longer buying Russian oil.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUZvWnUtUTQtNnlLVU9vZ1pEeFd4OXJsUzRhZlJFeHNhcFJWMHo0QW81dGVGbHFjWFo4bmV0YlJBS2JsRkF3c0ctQnFSVEVIUElKRW52Wk5hV0FmV0FnaWJTLWFoYkdpOGVfUXBiUTZ6QnZZSDVwamtRTHJsdEprNDJyTEdaY2xiNUxYSzctYlNoOEVMYzQ0VHM5eFQ4WUVKNWZhLXZ0Y0hKejUxMGRYaDhOei1uN3JvR0tVem5yYmcwWklHaWtwYjc5dy1QSVVoY3N0NmdMRDVpckFEbHNr0gHmAUFVX3lxTE42SmFEZTMwVDBGaldkWmNVQ0hZbk9vTVFkVkgyMkxYdktyd2hDZWdQRllmNWRWZnJndktRcmI3aXIxU0JTOXl4N3htVkRzM19LVmZGb2k0WWxfeUYxV0p6XzUzUHdMWWl5OXRkay12VFpBTFA4WmtsRHJlcGN3NU5SNkFFdmtfc05LSDAwM24xb3BsTGVwOXlVSXhwX0I1cGFURWFJYUdVREVPWlkzbm14WUpUVm8yYmV1ZDZ0OS1wRVJnU0FPWEN6MjdxTXhXdVFzUmVYVmpncTVDY1hnN2VNZm4yUVB3?oc=5
+
+- 'Trump's tariffs on India stupid': US economist Jeffrey Sachs gets blunt - his key message for New Delhi - The Times of India
+  'Trump's tariffs on India stupid': US economist Jeffrey Sachs gets blunt - his key message for
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNaEttNDJUalNzdTVraVZUNjQ1X3M4SGl0alZQV0ozVmFlNzVMRHNGbk82eUFuWDhEM0pEdF81UUNyd1FpOGZKaE5EQlh3LVhGWW1IY2RmYnkwUDBZOWpuY3dXdEhYS3MwQ1luc1lRYkIxNTh5R1d4M2xFU290VTh2R3hRczQtWWhsejI5WUg3MWxzWjVHMFFSRlg5WWk0eWo3ckNycFBBNVFXZjQ2N1dMYlJWSlZqcUU4TVVDQTIyZTBwMC1nd3kzNEQ0Ynh3cEh4eHZyUDlQaXRKaUhyZkRaWkNNY0Iyd1JKNUhKY1RNd1ZMbnlKOGpkdHJoOWJ4Z1pKUVk5bVI4cXRLMUxiLUNuONIBlgJBVV95cUxOZHBuMmQ0N1ZkUU52V0c4WWtHbHY5TWZ6VVQtei0zbWVRXzlKSDJyN0FaQ3RWaUdMTFkxWUF3T0tpUThQRFQ2dGRDekF4RWQtTkx1YWZ0N2ZPVGlzSnRsOWxiSllJR25SOUdFQkQ2Zld4bDhGcFlNMGdTMGh0dEZiUjRNNnN4am5IaDNYZjV3YnpmelUtdm9seVFIZDFyN3gxVVphZlBxcFcwcUE5Mk54dFlVcGdyNW1RemxMbVJiWmI1dmM4Y3h6WUp0VFdtdEpjZEpfMXVvUEdpSFU0SWU1aVNrTWJtWW5PVUFCTmRrNFBLeUE2S19XRm0tU20tY08ybThUbVBKSUdUVV8xcHF4Qmp2M2REZw?oc=5
+
+- Google engineer on H1B weighs return to India amid visa worries and family ties; Netizens chip in - Hindustan Times - Hindustan Times
+  Google engineer on H1B weighs return to India amid visa worries and family ties. Netizens
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ2d2Vkd0cHlnc2J1eTdnOVlZZUo1ZnNTbzBvalRaSnJaWWkwOUZTWEs3S1ppSy1WQnN3VjJSWVhjZ2pwaUlVVnlBeGx5aktDVUdhaUZabzJzTS1VQ05fdnBFSko4ZktZS1dBVERjMHlaN1ZIWnpZcTlEdHEyclYteGdINVg0cmM5RjhtV1VuZUlsRHhoSmduWnFGbVE0cjN3c21mUXlDc3JnTnNRUFFxc1RiS2JrUWIxLWltLTNYMXh3c3Jqb1BzVmdlc2EwR1BiSVdDdVF4bHVKaE5ReERSMWQxS3AyY2JBMDB0NzRlOEQzTFVSV3BGblV5d9IBgAJBVV95cUxNbUE3VUs1WTJaSy1LaVROZ2EtMWFGQmxHTklpTGh3RlJkVktBZHhGelNvYlJGeThrdklqWHJZdTRCMGFfQkxrMW1FUWlKTmtCakRTbkg0NERWdGlmNGMwZ3hFSUx4NXB1SlJfRzl1YXk5dm96V21TUF9hNVE2VGdDSE05d201QXNuZ3BqU0xVUTEwYXdGakhIY01KU2FDV1F6SFpCSUliZk9RaXZhaURsYkhVYkRDS3BEQVFSSmtXUnNKYnhZMThKZTl1dlZJVnVqMXV4LVB4VWlyemdwTmdXWHFadm81NTNPLTNDWFRrZ1pST0JfS3JOc2RDYUpEM25k?oc=5
+
+- Foreign Secretary’s two-day Nepal visit begins today - The Indian Express
+  Foreign Secretary’s two-
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWMzTzRpeGlhRUJjcGJFdlVoUzlTWU1FLVNReVkwSnBua3g0eXJvOFBibmdnSmxpVU04LUF3ZERibDlGWHFDNGVuQlB3dzNwb3FSSUhfQlgxRUMtMWJvVTdkeUx0cHZuQkpzaExYVnYyVk9TYjRPMXNFMHAzZ1IxTUlTZHo4QS1XeEFyVmVLbXh1NXNDZ1RJcDBTRGxMUXBGRC0w0gGqAUFVX3lxTE9VQ1VtYzRMQ3lfYTgtTUNKcktXZ0o3VUFoX0MwOVBCeTdEM0lQaVNacmppcWFaa2EwUVdVLVVZNTRRblVVejhudGpPSDk1YzZLQUlCLXpBVmxQVWFnUk1vRXVzNjMtTzB3R0s0dXhiNWtxSmFUaFpzZmJQSmp3dkZsZGdRUEwxWjgwTXU5amsySFh2cHBUVnRTQXB0RFh2TFN0eFpwcVY4aFlB?oc=5
+
+- Trump Brings Up India-Pak Again After No Ukraine Deal During Putin Summit - NDTV
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYl9uUEZ0MXJpTk1RUGx2eTRJRXJLdWhUSVdjRWVSZU96N2dPZW9BRW40em5QaHpGd2x4TzdlY1JIMkVGNWhrbVF4dloxQlh0em8xczJaaEo0OUhkLURGcV9iQ1RlMGZNY202MmRJRnAtb2NsMTlGSHpTT0l1WFV5RzNaLVJkdGs1QkJ3eDZYVE1obXNmT0tEZ1NFSTg0LTZ0dHpBTnB1WV9IZmZTTlVYakJjV0JVUlVWa1U3R3RDWUzSAcgBQVVfeXFMTkQyN1pJc2Vtd1hYTU5jRF8wWDJfaXpKNjBxcDkyTmswTDVVa3p6T1NEZDBZT1o3dFNITU5FdUozcmFWYVRzcnVyc21fVU5OTnphaTdtYktiWHJDV1k5Wnc2Y0pDVlFpU1hNcktNTVhFOHRXUmFtSWxma1cwTlVQOER4MWlSdTdhRXZ6MmxiMl9PaTRfdWlRMkdaLU5sdGZsbUlfcDBrRXVtSjhNTnNPSUtyRWNjZWVoN2x3ZzNfcTdZQ05fQnFGb2I?oc=5
+
+- Trump holds off secondary sanctions for China, claims India no longer buying Russian oil - The Hindu
+  The Hindu reports that India is no longer buying Russian oil.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUZvWnUtUTQtNnlLVU9vZ1pEeFd4OXJsUzRhZlJFeHNhcFJWMHo0QW81dGVGbHFjWFo4bmV0YlJBS2JsRkF3c0ctQnFSVEVIUElKRW52Wk5hV0FmV0FnaWJTLWFoYkdpOGVfUXBiUTZ6QnZZSDVwamtRTHJsdEprNDJyTEdaY2xiNUxYSzctYlNoOEVMYzQ0VHM5eFQ4WUVKNWZhLXZ0Y0hKejUxMGRYaDhOei1uN3JvR0tVem5yYmcwWklHaWtwYjc5dy1QSVVoY3N0NmdMRDVpckFEbHNr0gHmAUFVX3lxTE42SmFEZTMwVDBGaldkWmNVQ0hZbk9vTVFkVkgyMkxYdktyd2hDZWdQRllmNWRWZnJndktRcmI3aXIxU0JTOXl4N3htVkRzM19LVmZGb2k0WWxfeUYxV0p6XzUzUHdMWWl5OXRkay12VFpBTFA4WmtsRHJlcGN3NU5SNkFFdmtfc05LSDAwM24xb3BsTGVwOXlVSXhwX0I1cGFURWFJYUdVREVPWlkzbm14WUpUVm8yYmV1ZDZ0OS1wRVJnU0FPWEN6MjdxTXhXdVFzUmVYVmpncTVDY1hnN2VNZm4yUVB3?oc=5
+
+- 'Trump's tariffs on India stupid': US economist Jeffrey Sachs gets blunt - his key message for New Delhi - The Times of India
+  'Trump's tariffs on India stupid': US economist Jeffrey Sachs gets blunt - his key message for
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNaEttNDJUalNzdTVraVZUNjQ1X3M4SGl0alZQV0ozVmFlNzVMRHNGbk82eUFuWDhEM0pEdF81UUNyd1FpOGZKaE5EQlh3LVhGWW1IY2RmYnkwUDBZOWpuY3dXdEhYS3MwQ1luc1lRYkIxNTh5R1d4M2xFU290VTh2R3hRczQtWWhsejI5WUg3MWxzWjVHMFFSRlg5WWk0eWo3ckNycFBBNVFXZjQ2N1dMYlJWSlZqcUU4TVVDQTIyZTBwMC1nd3kzNEQ0Ynh3cEh4eHZyUDlQaXRKaUhyZkRaWkNNY0Iyd1JKNUhKY1RNd1ZMbnlKOGpkdHJoOWJ4Z1pKUVk5bVI4cXRLMUxiLUNuONIBlgJBVV95cUxOZHBuMmQ0N1ZkUU52V0c4WWtHbHY5TWZ6VVQtei0zbWVRXzlKSDJyN0FaQ3RWaUdMTFkxWUF3T0tpUThQRFQ2dGRDekF4RWQtTkx1YWZ0N2ZPVGlzSnRsOWxiSllJR25SOUdFQkQ2Zld4bDhGcFlNMGdTMGh0dEZiUjRNNnN4am5IaDNYZjV3YnpmelUtdm9seVFIZDFyN3gxVVphZlBxcFcwcUE5Mk54dFlVcGdyNW1RemxMbVJiWmI1dmM4Y3h6WUp0VFdtdEpjZEpfMXVvUEdpSFU0SWU1aVNrTWJtWW5PVUFCTmRrNFBLeUE2S19XRm0tU20tY08ybThUbVBKSUdUVV8xcHF4Qmp2M2REZw?oc=5
+
+- Google engineer on H1B weighs return to India amid visa worries and family ties; Netizens chip in - Hindustan Times - Hindustan Times
+  Google engineer on H1B weighs return to India amid visa worries and family ties. Netizens
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ2d2Vkd0cHlnc2J1eTdnOVlZZUo1ZnNTbzBvalRaSnJaWWkwOUZTWEs3S1ppSy1WQnN3VjJSWVhjZ2pwaUlVVnlBeGx5aktDVUdhaUZabzJzTS1VQ05fdnBFSko4ZktZS1dBVERjMHlaN1ZIWnpZcTlEdHEyclYteGdINVg0cmM5RjhtV1VuZUlsRHhoSmduWnFGbVE0cjN3c21mUXlDc3JnTnNRUFFxc1RiS2JrUWIxLWltLTNYMXh3c3Jqb1BzVmdlc2EwR1BiSVdDdVF4bHVKaE5ReERSMWQxS3AyY2JBMDB0NzRlOEQzTFVSV3BGblV5d9IBgAJBVV95cUxNbUE3VUs1WTJaSy1LaVROZ2EtMWFGQmxHTklpTGh3RlJkVktBZHhGelNvYlJGeThrdklqWHJZdTRCMGFfQkxrMW1FUWlKTmtCakRTbkg0NERWdGlmNGMwZ3hFSUx4NXB1SlJfRzl1YXk5dm96V21TUF9hNVE2VGdDSE05d201QXNuZ3BqU0xVUTEwYXdGakhIY01KU2FDV1F6SFpCSUliZk9RaXZhaURsYkhVYkRDS3BEQVFSSmtXUnNKYnhZMThKZTl1dlZJVnVqMXV4LVB4VWlyemdwTmdXWHFadm81NTNPLTNDWFRrZ1pST0JfS3JOc2RDYUpEM25k?oc=5
+
+- Foreign Secretary’s two-day Nepal visit begins today - The Indian Express
+  Foreign Secretary’s two-
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWMzTzRpeGlhRUJjcGJFdlVoUzlTWU1FLVNReVkwSnBua3g0eXJvOFBibmdnSmxpVU04LUF3ZERibDlGWHFDNGVuQlB3dzNwb3FSSUhfQlgxRUMtMWJvVTdkeUx0cHZuQkpzaExYVnYyVk9TYjRPMXNFMHAzZ1IxTUlTZHo4QS1XeEFyVmVLbXh1NXNDZ1RJcDBTRGxMUXBGRC0w0gGqAUFVX3lxTE9VQ1VtYzRMQ3lfYTgtTUNKcktXZ0o3VUFoX0MwOVBCeTdEM0lQaVNacmppcWFaa2EwUVdVLVVZNTRRblVVejhudGpPSDk1YzZLQUlCLXpBVmxQVWFnUk1vRXVzNjMtTzB3R0s0dXhiNWtxSmFUaFpzZmJQSmp3dkZsZGdRUEwxWjgwTXU5amsySFh2cHBUVnRTQXB0RFh2TFN0eFpwcVY4aFlB?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+
+
+_Last updated: 2025-08-17 08:46:13 UTC_
