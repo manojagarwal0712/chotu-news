@@ -7,13 +7,14 @@ from transformers import pipeline
 # HuggingFace summarizer
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
-# Headers to avoid 403 (simulate real browser)
+# Stronger headers (NDTV/Gadgets360 block weak UA)
 HEADERS = {
     "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/129.0.0.0 Safari/537.36"
-    )
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) "
+        "Gecko/20100101 Firefox/129.0"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Referer": "https://www.google.com/",
 }
 
 # Retry logic with exponential backoff
@@ -30,27 +31,29 @@ def robust_request(url, retries=3, backoff_factor=2):
     print(f"❌ Failed after {retries} retries: {url}")
     return None
 
-# Safe summarization with dynamic length
+# Safe summarization
 def dynamic_summarize(text: str) -> str:
     if not text:
         return "No content"
     input_len = len(text.split())
     if input_len < 8:
-        return text  # too short, don’t summarize
-    
-    max_len = max(15, min(100, input_len // 2))  # keep summaries readable
-    min_len = max(8, input_len // 4)
+        return text.strip()  # too short, return as-is
+
+    max_len = max(15, min(100, input_len // 2))
+    min_len = max(8, min(max_len - 2, input_len // 4))
 
     try:
         summary = summarizer(
             text, max_length=max_len, min_length=min_len, do_sample=False
         )
+        if not summary or "summary_text" not in summary[0]:
+            return text[:200]  # fallback
         return summary[0]["summary_text"].strip()
     except Exception as e:
         print(f"⚠ Summarization failed: {e}")
-        return text[:200]  # fallback to first 200 chars
+        return text[:200]
 
-# Process RSS or fallback
+# Process feed or fallback
 def process_feed(feed_url: str, limit: int = 5):
     print(f"\n🔗 Processing feed: {feed_url}")
     raw_xml = robust_request(feed_url)
@@ -70,9 +73,9 @@ def process_feed(feed_url: str, limit: int = 5):
         return
 
     print(f"⚠ No entries found in {feed_url}, trying Google News fallback…")
-    # Use last part of URL or keyword as query
-    keyword = feed_url.split("/")[-1].replace(".rss", "")
-    gnews_url = f"https://news.google.com/rss/search?q={keyword}"
+    # Use site-specific fallback (more reliable than last path part)
+    domain = feed_url.split("/")[2]  # e.g. gadgets360.com
+    gnews_url = f"https://news.google.com/rss/search?q=site:{domain}"
 
     raw_xml = robust_request(gnews_url)
     if raw_xml and parse_and_print(raw_xml, "Google News"):
