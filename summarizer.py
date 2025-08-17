@@ -83,4 +83,32 @@ def process_feed(feed_url: str, limit: int = 5):
     raw_xml = robust_request(feed_url)
 
     def parse_and_print(raw_data, source_name="Feed"):
-        feed = feedparser.parse(raw_d_
+        feed = feedparser.parse(raw_data)
+        if feed.entries:
+            for entry in feed.entries[:limit]:
+                title = entry.get("title", "No title")
+                summary_input = entry.get("summary", entry.get("description", title))
+                summary = dynamic_summarize(summary_input)
+                print(f"📰 {title}\n   ➡ {summary}\n")
+            return True
+        return False
+
+    if raw_xml and parse_and_print(raw_xml):
+        return
+
+    # Fallback → Google News
+    print(f"⚠ No entries found in {feed_url}, trying Google News fallback…")
+    domain = feed_url.split("/")[2] if "://" in feed_url else feed_url
+    gnews_url = f"https://news.google.com/rss/search?q=site:{domain}"
+
+    raw_xml = robust_request(gnews_url)
+    if raw_xml and parse_and_print(raw_xml, "Google News"):
+        return
+    print(f"❌ Still no entries for {feed_url}")
+
+# Runner
+if __name__ == "__main__":
+    with open("feeds.txt") as f:
+        feeds = [line.strip() for line in f if line.strip()]
+    for url in feeds:
+        process_feed(url)
