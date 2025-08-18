@@ -1,204 +1,164 @@
 # 📰 Daily News Summaries
 
-- News Today Live Updates, 18 August | India’s 79th Independence Day 2025 Highlights: PM Modi announces new GST reforms by Diwali; to reduce tax on daily-use items
+- PM Modi thanks Putin for sharing insights on Alaska talks with Trump, reiterates call for peace in Ukraine
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-08-18-2025-news-headlines-10195482/
+  🔗 https://indianexpress.com/article/india/pm-modi-vladimir-putin-alaska-talks-insights-trump-call-peace-ukraine-10196684/
 
-- Parliament Monsoon Session LIVE: Lok Sabha adjourned till noon amid Opposition uproar over Bihar SIR; Rajya Sabha adjourned till 2 pm
+- Indian Railways Round Trip Scheme: Here’s how to book train ticket via IRCTC Rail Connect App and avail 20% discount
   
-  🔗 https://indianexpress.com/article/india/parliament-monsoon-session-live-updates-lok-sabha-shubhashu-shukla-bihar-sir-10195700/
+  🔗 https://indianexpress.com/article/india/railways-round-trip-scheme-book-train-ticket-irctc-rail-connect-app-discount-10196532/
 
-- Heavy security deployed in Tripura’s Unakoti after meat, anonymous letter found inside mosque
+- ‘Is this a joke?’: Gauhati High Court on cement company being allotted 3,000 bighas in Assam’s tribal district
   
-  🔗 https://indianexpress.com/article/india/heavy-security-deployed-in-tripuras-unakoti-after-meat-anonymous-letter-found-inside-mosque-10195653/
+  🔗 https://indianexpress.com/article/india/guahati-high-court-cement-company-3000-bighas-assam-tribal-district-10196478/
 
-- DRG jawan killed, 3 injured in IED blast during anti-Naxal op in Chhattisgarh’s Bijapur
+- Kolkata Metro Yellow Line, set to be inaugurated this week, likely to improve airport connectivity
   
-  🔗 https://indianexpress.com/article/india/drg-jawan-killed-ied-blast-anti-naxal-op-chhattisgarh-bijapur-10195647/
+  🔗 https://indianexpress.com/article/india/how-kolkata-metro-yellow-line-will-boost-connectivity-to-airport-10195175/
 
-- Hyderabad’s nightlife set to get a lot more lucrative, projected to be Rs 26,000-crore economy by 2031
+- Floods, sea-level rise among top effects of global warming forcing Indians out of their homes, finds survey
   
-  🔗 https://indianexpress.com/article/india/hyderabads-nightlife-set-to-get-a-lot-more-lucrative-projected-to-be-rs-26000-crore-economy-by-2031-10195282/
+  🔗 https://indianexpress.com/article/india/floods-sea-level-rise-global-warming-forcing-indians-out-of-their-homes-10196262/
+
+- Airtel down: Thousands face outage as mobile internet, call services disrupted in Delhi-NCR
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/airtel-down-outage-mobile-internet-network-call-services-disrupted-10196651/
+
+- Ex-Twitter CEO Parag Agrawal launches AI startup Parallel to build ‘web for machines’
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/parag-agrawal-ex-twitter-ceo-launches-ai-startup-parallel-10196413/
+
+- Ally Solos: These smart glasses use AI to help low-vision users see the world around them
+  
+  🔗 https://indianexpress.com/article/technology/ally-solos-these-smart-glasses-use-ai-to-help-low-vision-users-see-the-world-around-them-10196149/
+
+- WhatsApp unveils new ‘Schedule Calls’ feature for group and personal calls
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-new-schedule-calls-feature-group-individual-users-10195936/
 
 - Anthropic’s Claude AI will now cut off abusive chats with users for its own ‘welfare’
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropics-claude-ai-abusive-chats-users-welfare-10195842/
 
-- A low-cost MacBook powered by an iPhone chip is coming, starting at $599
-  
-  🔗 https://indianexpress.com/article/technology/a-low-cost-macbook-powered-by-an-iphone-chip-is-coming-starting-at-599-usd-10195708/
+- South Africa Mining Lobby Gives Draft-Law Feedback With Concerns
+  South Africa?s mining lobby group said it submitted proposed changes to draft legislation for the sector. It is concerned about the impact
+  🔗 https://www.livemint.com/companies/news/south-africa-mining-lobby-gives-draft-law-feedback-with-concerns-11755520205857.html
 
-- EU push to protect digital rules holds up trade statement with US: Report
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/eu-push-to-protect-digital-rules-holds-up-trade-statement-with-us-report-10195628/
+- Reliance Industries' FMCG arm expands into herbal-natural beverages biz, acquires majority stake in THIS firm
+  Reliance Industries' FMCG arm, Reliance Consumer Products, has acquired a majority stake in THIS firm. The firm will now offer a range of herbal-natural
+  🔗 https://www.livemint.com/companies/news/reliance-industries-fmcg-arm-expands-into-herbal-natural-beverages-biz-acquires-majority-stake-in-this-firm-11755516528666.html
 
-- Google agrees $36 million fine for anti-competitive deals with Australia telcos
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-agrees-36-million-fine-for-anti-competitive-deals-with-australia-telcos-10195619/
+- Gautam Adani says single geopolitical incident can restrict growth: ?One disruption or sanction can...?
+  Gautam Adani says even one geopolitical incident in sensitive sectors can hinder growth. Adani advocated for self-reliance or ?Aat
+  🔗 https://www.livemint.com/companies/people/gautam-adani-self-reliance-aatmanirbhar-single-geopolitical-incident-disruption-sanction-can-restrict-growth-news-india-11755516627309.html
 
-- Sam Altman says OpenAI ‘screwed up’ GPT-5 rollout: Here are the changes made so far
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-screwed-up-gpt-5-rollout-here-are-changes-10194555/
+- German Bank PBB Eyes SRT to Help Exit US Commercial Property
+  Deutsche Pfandbriefbank AG is working on a debut significant risk transfer tied to billions of dollars of US commercial real estate loans, according to people familiar with the
+  🔗 https://www.livemint.com/companies/news/german-bank-pbb-eyes-srt-to-help-exit-us-commercial-property-11755517891492.html
 
-- ‘It’s never too early’: L&amp;T Chairman SN Subrahmanyan on why grooming successors early is key for future leadership
-  L&amp;amp;T chairman S N Subrahman
-  🔗 https://www.livemint.com/companies/people/its-never-too-early-l-t-chairman-sn-subrahmanyan-on-why-grooming-successors-early-is-key-for-future-leadership-11755492000634.html
+- Ericsson misusing insolvency code for coercion and debt recovery, RCom tells NCLT
+  RCom says Ericsson is improperly using the IBC to include insolvency as a substitute for debt enforcement. RCom claims Ericsson
+  🔗 https://www.livemint.com/companies/news/rcom-ericsson-dispute-insolvency-and-bankruptcy-code-ibc-nclt-mumbai-rcom-insolvency-debt-recovery-india-nclat-11755511729363.html
 
-- Microsoft to update flexible work policy, may ask employees to work from office 3 days a week: Report
-  Microsoft plans to enforce a stricter office attendance policy, possibly starting in January. This change aligns with similar policies from other tech companies.
-  🔗 https://www.livemint.com/companies/microsoft-to-update-flexible-work-policy-may-ask-employees-to-work-from-office-3-days-a-week-report-11755483546782.html
+- Traders Boost Bets BOE Will Hold Rate at 4% for Rest of 2025
+  Money markets are adding to bets the Bank of England will keep interest rates on hold at 4% for the rest of this year.
+  🔗 https://www.livemint.com/market/stock-market-news/traders-boost-bets-boe-will-hold-rate-at-4-for-rest-of-2025-11755517710639.html
 
-- Auto sector demand in India weak across segments except tractors: Report
-  The automobile sector witnessed a muted performance in the first quarter of FY26. Demand lagging expectations in most segments except tractors,
-  🔗 https://www.livemint.com/companies/news/auto-sector-demand-in-india-weak-across-segments-except-tractors-report-11755486788533.html
+- Mangal Electrical IPO: From key dates to financials — Here are 10 key things to know from RHP
+  Mangal Electrical Industries IPO opens on August 20, 2025. The company, established in 2008, reported a 22% sales increase and a 126% profit growth for the fiscal year ended
+  🔗 https://www.livemint.com/market/ipo/mangal-electrical-ipo-from-key-dates-to-financials-here-are-10-key-things-to-know-from-rhp-11755512713476.html
 
-- Air Canada Strikers Dig In Against Order: ‘Can’t Fire Us All’
-  Flight attendants defied an order to return to work on Sunday. Air Canada union wants to "dismantle" a process the government
-  🔗 https://www.livemint.com/companies/news/air-canada-strikers-dig-in-against-order-can-t-fire-us-all-11755482567275.html
+- Looking to invest in bonds? Here are top 5 risks and effective strategies to mitigate them
+  Bond investments involve risks such as interest rate, credit, inflation, liquidity, and reinvestment. Understanding these risks helps
+  🔗 https://www.livemint.com/market/bonds/looking-to-invest-in-bonds-here-are-top-5-risks-and-effective-strategies-to-mitigate-them-11755509345915.html
 
-- Your wait for a Tesla robo-taxi ride is almost over, Musk says
-  Tesla's robo-
-  🔗 https://www.livemint.com/companies/your-wait-for-a-tesla-robo-taxi-ride-is-almost-over-musk-says-11755478958682.html
+- Markets recover on GST and rating boost, but risks remain: Should investors shift to cash and gold now?
+  Indian markets rose nearly 1% on August 18, driven by S&amp;amp;P’s credit rating upgrade and easing tariff concerns. Analysts warn of
+  🔗 https://www.livemint.com/market/stock-market-news/markets-recover-on-gst-rating-boost-but-risks-remain-should-investors-shift-to-cash-and-gold-now-11755511394968.html
 
-- Indian stock market: Nifty tops 25,000 level. Is this rally sustainable in near term?
-  The Nifty 50 managed a marginal rise of 11.95 points to close at 24,631.30. The Sensex added 57.75 points to finish at 80,597.66.
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-nifty-tops-25-000-level-is-this-rally-sustainable-in-near-term-11755496079038.html
+- Mahendra Realtors IPO allotment in focus: Check latest GMP and steps to check status
+  Mahendra Realtors' initial public offering closed for subscription last week. Investors keenly await the allotment of shares.
+  🔗 https://www.livemint.com/market/ipo/mahendra-realtors-ipo-allotment-in-focus-check-latest-gmp-and-steps-to-check-status-11755512367801.html
 
-- Hong Kong interbank rates surge after repeated intervention, local dollar bounces
-  Hong Kong interbank rates surge
-  🔗 https://www.livemint.com/market/stock-market-news/hong-kong-interbank-rates-surge-after-repeated-intervention-local-dollar-bounces-11755498178185.html
+- Latest touch screen computer monitors in 2025 are setting new standards for interactive displays and performance
+  In 2025, the latest touch screen computer monitors are setting new benchmarks in display technology. With exceptional clarity, intuitive touch controls, and versatile
+  🔗 https://www.livemint.com/technology/gadgets/latest-touch-screen-computer-monitors-in-2025-are-setting-new-standards-for-interactive-displays-and-performance-11755513200832.html
 
-- Penny stock below  ₹15 hits 10% upper circuit on turning profitable in Q1. Do you own?
-  Sadbhav Engineering's stock rose 10% to  ₹13.13 on August 18 after reporting a profit of  �
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-below-15-hits-10-upper-circuit-on-turning-profitable-in-q1-do-you-own-11755497550033.html
+- Setback for Apple? More executive exits are coming for tech giant, says report
+  Apple faces leadership transitions after recent retirements of CFO Luca Maestri and COO Jeff Williams
+  🔗 https://www.livemint.com/technology/tech-news/setback-for-apple-more-executive-exits-are-coming-for-tech-giant-says-report-mark-gurman-bloombergs-gurman-11755511764826.html
 
-- GST Reforms: From Maruti Suzuki, Eternal to Voltas and HUL - Experts bullish on these 26 stocks. Should you buy?
-  Indian stock market surged by 1.5% after government proposed GST reforms to ease tax burdens. Analysts predict benefits for sectors such as autos, banking, and consumer staples.
-  🔗 https://www.livemint.com/market/stock-market-news/gst-news-maruti-share-price-ashok-leyland-share-bajaj-finance-share-among-top-stocks-to-benefit-11755495001464.html
+- Is the AI Winter Finally Upon Us?
+  The tepid reception of GPT-5 and the selloff of CoreWe
+  🔗 https://www.livemint.com/technology/tech-news/is-the-ai-winter-finally-upon-us-11755510818780.html
 
-- Why did Data Patterns, Bharat Dynamics and other defence stocks soar up to 4%? Key reasons explained
-  The defence sector has been receiving a significant boost in recent years. Increased budget allocations have expanded orders for domestic defence companies.
-  🔗 https://www.livemint.com/market/stock-market-news/why-did-data-patterns-bharat-dynamics-and-other-defence-stocks-soar-up-to-4-key-reasons-explained-11755495001501.html
+- Honor X7C 5G with 6.8 inch FHD+ display, 5,200mAh battery launched in India at  ₹14,999
+  The Honor X7C smartphone features Snapdragon 4 Gen 2, a 5,200mAh battery, and 120Hz display. It will be available from
+  🔗 https://www.livemint.com/technology/gadgets/honor-x7c-with-6-8-inch-fhd-display-5-200mah-battery-launched-in-india-at-rs-14999-11755506198671.html
 
-- Meta’s new Hypernova AR glasses could launch next month, may cost as much as iPhone 17
-   Meta plans to launch its first smart glasses, Hypernova, next month. The glasses will feature a display for mini apps and alerts, controlled by a wrist accessory.
-  🔗 https://www.livemint.com/technology/tech-news/metas-new-hypernova-ar-glasses-could-launch-next-month-may-cost-as-much-as-iphone-17-11755493789280.html
+- Will Call of Duty: Black Ops 7 skip Nintendo Switch 2 launch? Release date leaked ahead of Gamescom
+  A full reveal is expected at Gamescom Opening Night Live on 19 August. Call of Duty: Black Ops 7 is tipped to release
+  🔗 https://www.livemint.com/technology/tech-news/will-call-of-duty-black-ops-7-skip-nintendo-switch-2-launch-release-date-leaked-ahead-of-gamescom-11755507122279.html
 
-- The AI Clones Are Coming! But It’s Not All Bad
-  Influencers
-  🔗 https://www.livemint.com/technology/tech-news/the-ai-clones-are-coming-but-it-s-not-all-bad-11755491035561.html
+- IPO-bound Tata Capital's Q1 profit more than doubles to Rs 1,041 crore
+  Non-banking financial company Tata Capital reported more than doubling of its consolidated net profit to Rs 1,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/ipo-bound-tata-capitals-q1-profit-more-than-doubles-to-rs-1041-crore/articleshow/123365133.cms
 
-- From ‘Step Mom’ to ‘Russian Girl’: Meta’s sexualised AI chatbots flood Instagram, Facebook; netizens call it ‘dystopian’
-   Meta, led by Mark Zuckerberg, faces backlash over sexualized AI chatbots on Facebook and Instagram. Reports reveal alarming chatbot behaviors, prompting calls for a congressional investigation
-  🔗 https://www.livemint.com/technology/tech-news/meta-faces-backlash-as-ai-chatbots-with-sexualized-personas-flood-facebook-instagram-netizens-call-it-dystopian-11755478456308.html
+- Classic Electrodes sets IPO price at Rs 82-87 a share; to open on Aug 22
+  Classic Electrodes (India) Ltd on Monday announced the price band at Rs 82-87 per share for its initial public offering (IPO) through which it aims to
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/classic-electrodes-sets-ipo-price-at-rs-82-87-a-share-to-open-on-aug-22/articleshow/123365066.cms
 
-- Fired by Elon Musk, ex-Twitter CEO Parag Agrawal's AI venture launches ‘Deep Research API’
-  Ex-Twitter CEO Parag Agrawal launched a new artificial intelligence (AI) venture named 'Deep Research
-  🔗 https://www.livemint.com/technology/tech-news/fired-by-elon-musk-ex-twitter-ceo-parag-agrawal-launches-ai-startup-deep-research-api-11755424340202.html
+- India’s strategic sectors poised for growth despite export challenges: Hiren Ved, Alchemy Capital
+  Defence, semiconductors, healthcare, and consumption-driven markets offer strong long-term growth. While exports face near-term challenges, domestic demand, GST cuts, and fiscal incentives cushion the impact. Nifty
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/indias-strategic-sectors-poised-for-growth-despite-export-challenges-hiren-ved-alchemy-capital/articleshow/123364940.cms
 
-- Google's Gemini AI is training on your personal conversations by default. Here's how you can turn if off
-  Gemini is a new chatbot developed by
-  🔗 https://www.livemint.com/technology/tech-news/googles-gemini-ai-is-training-on-your-personal-conversations-by-default-heres-how-you-can-turn-if-off-11755420328572.html
+- Motilal Oswal identifies HDFC Bank, Eternal among 40+ stocks as GST cut beneficiaries
+  GST reforms 2.0 aim to simplify India’s tax structure by reducing slabs to 5% and 18%. Expected to lower retail prices, ease household budgets, and boost consumption
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-identifies-hdfc-bank-eternal-among-40-stocks-as-gst-cut-beneficiaries/slideshow/123364490.cms
 
-- Bajaj Finance, Bajaj Housing Finance shares rally up to 7% on GST reform hopes
-  Bajaj Finance and Bajaj Housing Finance surged up to 7% on GST cut hopes and India’s sovereign credit rating upgrade. Lower consumer durables taxes and reduced borrowing costs
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-bajaj-housing-finance-shares-rally-up-to-7-on-gst-reform-hopes/articleshow/123357143.cms
-
-- GST Reforms 2.0: Full list of over 40 stocks that can benefit from PM Modi's Diwali promise
-  Dalal Street sees potential winners across sectors like auto, financial, real estate, consumer, and cement stocks. Two-wheelers and small cars may benefit. Cement sector could see revenue boost.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gst-reforms-2-0-full-list-of-over-40-stocks-that-can-benefit-from-pm-modis-diwali-promise/articleshow/123356845.cms
-
-- Not so much Putin-Trump summit, it's Modi’s GST rationalisation promise that is pushing market up: Sunil Subramaniam
-  The Trump-Putin summit signals easing US-Russia relations, potentially benefiting India by reducing sanctions risk. Despite US-Pakistan ties, India prioritizes its interests, hoping for eased tariffs amid evolving global dynamics.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/not-so-much-putin-trump-summit-its-modis-gst-rationalisation-promise-that-is-pushing-market-up-sunil-subramaniam/articleshow/123356731.cms
-
-- HDFC MMC, Neuland Laboratories among 8 stocks that rose above VWAP on August 14
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-mmc-neuland-laboratories-among-8-stocks-that-rose-above-vwap-on-august-14/slideshow/123356635.cms
-
-- Easy Trip Planners shares slide 4% as Q1 PAT drops 99% YoY to Rs 0.44 cr
-  Revenue from operations came in at ₹113.79 crore in Q1FY26. Adjusted total income, including other income, slipped to ⁹166.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/easy-trip-planners-shares-slide-4-as-q1-pat-drops-99-yoy-to-rs-0-44-cr/articleshow/123356168.cms
+- Why FIIs selling Indian stocks is not wrong:  Helios Capital's Samir Arora explains
+  FIIs sold Indian equities worth ₹1.16 lakh crore in 2025, but experts call it marginal rebalancing. Samir Arora stressed
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/why-fiis-selling-indian-stocks-is-not-wrong-helios-capitals-samir-arora-explains/articleshow/123363667.cms
 
 - Marco Rubio Explains Why China Spared, India Faces Tariffs On Russian Oil - NDTV
   &nbsp;<font color="#6f
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUU5iS2hEYlk4cTA5NGxWTVJ0bG92WTlnbUlDdWlRWUI3WENXcDc5MzI3b19hUDJrQTBWYzVLTWJrQVhzdjZkUENGNUVBczNEY1VrQU1XUFByYXZMWnhqa25jQlA5UHVQVEF4Ry03Q0E1Vm9QdGFYT2hfQVNmSFhlU1JOSEJwZWMzYlozUW9UWHZuRTR3V014dzNrR056RjNXcGdTSTEwS2xJQ2PSAbMBQVVfeXFMTW5TaVpUNGhyZXRqTHozVy1WM1dnWW51NGNJRWxuQmZUaHd6V1p6Vm9yenBjZFlraThkOU9iVjF4dHZqeXQyVGwtZW5UX3E2RmZqeFRPdm11eTkxQjkwbGJEY0dTcy0wWVo5Vk44R2lLVkdQZ2V6U1NrVWRZcDRwRDVqcnI4R01IeGljdXcxdGU4RG95VlF0OHZybE9VRGIzODBSRUZsTlRVZFFlVXhMU3dNMEU?oc=5
 
-- Days after India tariffs, US cautions against sanctioning China over Russian oil | World News - Hindustan Times - Hindustan Times
-  The Indian government has imposed tariffs on imports of Russian oil. The move is seen as
+- As India faces 50% tariffs, US explains implications behind sanctioning China | World News - Hindustan Times - Hindustan Times
+  As India faces 50% tariffs, US explains implications behind sanctioning China.
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRV9VaWc0OGJ3UXctVVJaM1RCdHRWR2ZoSGdjUU0ybWRrNkJYd01UY3dMdjhhSFFzRXlOMUpvakVyWTJXSldRWktPN2RaRjNnTzAzUktlNkZwc1d3OElYRWcteGhGREY0TlI5eWdwN3NhQ091eUlWQ3lxaWRGd0RlbkEzV2FSTTVuNFFqLU82YzlVZG9jS0VBY0EwMFZiN1F1WHlCN0EwNTIzTHRTanR5N2ZJTG9lZGJzTnlPZG1pMDlZLXZXZmhzU09wSkJRSDhxUndfbE14RnRYN2N6amfSAeMBQVVfeXFMTTNOREdBTzZIdUJTY2tzdDU1TkJnMHZSaWotblllSGtXOW1WclJ3TVZ0SXAxb3REZ0dnT0ZUcXEyamZaOTNfSGtwMW0wOHJfTlBGeUhaeGdQOC1BMW5KNnliNGplNFVpLUg1Wi1NMTBDd2V1LW5OcURmTU1UY0tBOU9Nc2JrLWdrVEo3X09jOUF0YXVxcFhENHBlNWxvUERYWnA4VVgwaWNhRDdNWElJSldpRzBxYzJ4QUQ2SWdEQkptWkpHTVFKbXdxV3RLVWNLUk9TUG1FcWlCM3VyNXRLbmRRS28?oc=5
 
-- CEC Gyanesh Kumar may face impeachment motion by INDIA bloc - The Hindu
-  CEC Gyanesh Kumar may face impeachment
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNLTQyMmVCZV9UTDFVZWEyZjE0SU5KbGtKSW1TUjRqQVBrN1hXTzhfU3RqWDVrSE1SSWFfdVlkRHdEOE1XRVlNUnp2VWFjZTJZU2tEOW00U0ZxQlFTV3gybTJDdC1lMWhJdFQ0eGxQV2xoeGs3ZF83d19XLW5JczlBTXU4ZlEtR2UxX3R3NkJ0MlRBT1M4cHplazVSdm5WZnh3UWs2LThaTDVMVkpIOHpuTExSVDhPdkJXMkMxa21IS1NoWmNIWVdfYmgxZ09YUllWT1I3emhPS0ljVVN4VGdNTTRjem5KWTBxSzRXUy1uVUFkWXdSXzdoTVRkenVfbjhVV3RBVVBkNEtiUDluVnRmTVVR0gGYAkFVX3lxTE9ueEYwdW5QM25tQzZPWTlzTmszSFJ6WVNVZ2ZqWG1DVEMwWnAyNm9vQ240djQwRjlsa1c0WVRMX3ZGcTJHZlVDYmk5emFpZV9FNEloaHJURFFRaDZqMXlfcy01RnAxcllBVWlpaFo4R2JxQ09acFVZZ3RkRFNxR2x2OXBCV3psS1NiRjk5ajR2OG1DSUMzYTA5RnhUQlltMHl6YXRCTGJoR1IzVlRKMkNTMjluNmZUREhCZDNETmJ6Rll3TnNBSUxhYkppcUlvMm9sbFl4cVZuem9tN1ZsckszUXpMM215VjhvN3NlSHRReUEzYzZJS1ZUNFBxVlpMdDRFckFHMmZrY0dFWlpnd3hHSnVsMng4T3g?oc=5
+- INDIA bloc likely to discuss its VP candidate on Monday - The Times of India
+  The Times of India is a leading newspaper in India.
+  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxNX3pUT1Z4QjBBdFh6WVRKZGdaMzhjSWNsZ2xyNW45dDFSM2pVTWtPSFpwN1JSOVp0eTUyNmJlb0lqU0xSNDYydFU5MFVPeGdzMTJmcnVDUnRWdXRURmczbXhxOS1lVnRLZVBFNjJlNWE4S29ObTNyWGI0WklSNW1nZk4tX1B0SmV0cW1vLXM4bWFZVVpoNGNfUU5LTFFPRE5CcHR2aWVBU01DMzRVLTFIQkZNTW9XY0ZUeldiSnJVU0h4OUxYRmVaVjZVS3ZNclJlc2FBLWoyOEhGY3I4UWEwT1JDcklsVjBsRXVFek14MkdfNVR2UjhrN1czYmJ3ZVNseE1ZakZUTURkallzcEVGc3NtWjdUSTdvbUVrN1E3YUE0MjlZZzJFLdIBrgJBVV95cUxOb2RObUwtZUVJOVV1MHBvWnRpR1JhZU1aakhlTFQ3X2d1Z0E3TFVGdXNqYzRyOXk5V0J3TDlsVHRGUWdxWTdZbVVRMGlJcUdTbWVITXlvdnFtRWZhelJzaXZ5YW9HQWJuYVk5eEZHTVBaYWppMVhqTHdMYURKYkdicDgtN280TnVXYjlkdDNKZU01VnMwMjRqMTQya2plM1MweGo0NW1sbDJUUEdCcjM0Y2V3bzZlRFU1Mjl1aWZ5a2lxVlVwcW10WFpXcmFLS1ZhOE54VURuQzVZV2ZKYWJuQ3A5X1ExQjN2TmwzM3otNWpRZVRzdlBXMW9TZm5mRVFOelpLcjdiX1VzajNaTU1CWmFKeHViZlUzbWRyUVlMd0F5QnQxVFNnZkZIWWtsZw?oc=5
 
-- Opposition Likely To Bring Impeachment Motion Against Poll Body Chief: Sources - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUVRTEotS3hDRFNrdHdWSTZHcVU3VDllcWFKU0dnVnRxZFV4cXRlTUlhUGxRMGtGSHl5dExNdjZVZDRkblk5XzQyZzRqbktVc3pMMkVPUmdkbHJDaHhzN3FFU3FsSGJob3ZhVmVoMzlfTWJxZHg5VDdGaW5zWHB5VERZV0t6UGhsOTZ6UWNkcWlQN1pDbWw1UnRBZFNna0JIYWlGdzczd1RTX0NENF80bUVsQjdNU0Fw0gHAAUFVX3lxTE9BNWhVOE5RRk5LT1dqbFJtNVZ0SmxoT3ZoS1NrODJyQkZQYzByUWQxYUZMckxZQUh3V2FoSFJIN0I0N3NQYUxxUk5Kbk11alFHUzY0WVpJWklhU2E0ZHJOQlBablhnLW4zQ1RFYzhWNThHb0JXd1VXNS1ZS29BTWsyS0phVjFoNW56Ny14YVZ5Ql96OWdLaHM5emZnVVlpQ2FPNkNmMExOSUVVaWxMb2k3VWRZeUJZOUhJaHFmSEZ3Qw?oc=5
+- Trump holds off secondary sanctions for China, claims India no longer buying Russian oil - The Hindu
+  The Hindu reports that India is no longer buying Russian oil.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUZvWnUtUTQtNnlLVU9vZ1pEeFd4OXJsUzRhZlJFeHNhcFJWMHo0QW81dGVGbHFjWFo4bmV0YlJBS2JsRkF3c0ctQnFSVEVIUElKRW52Wk5hV0FmV0FnaWJTLWFoYkdpOGVfUXBiUTZ6QnZZSDVwamtRTHJsdEprNDJyTEdaY2xiNUxYSzctYlNoOEVMYzQ0VHM5eFQ4WUVKNWZhLXZ0Y0hKejUxMGRYaDhOei1uN3JvR0tVem5yYmcwWklHaWtwYjc5dy1QSVVoY3N0NmdMRDVpckFEbHNr0gHmAUFVX3lxTE42SmFEZTMwVDBGaldkWmNVQ0hZbk9vTVFkVkgyMkxYdktyd2hDZWdQRllmNWRWZnJndktRcmI3aXIxU0JTOXl4N3htVkRzM19LVmZGb2k0WWxfeUYxV0p6XzUzUHdMWWl5OXRkay12VFpBTFA4WmtsRHJlcGN3NU5SNkFFdmtfc05LSDAwM24xb3BsTGVwOXlVSXhwX0I1cGFURWFJYUdVREVPWlkzbm14WUpUVm8yYmV1ZDZ0OS1wRVJnU0FPWEN6MjdxTXhXdVFzUmVYVmpncTVDY1hnN2VNZm4yUVB3?oc=5
 
-- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
-  "India Like Mercedes": Pak Minister Doubles Down
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
+- News Today Live Updates, 18 August | Ex-TMC MP seeks urgent Calcutta HC hearing on EC’s move to collect BLA details for SIR a year before Bengal Assembly polls - The Indian Express
+  The Indian Express reported that the EC is planning to collect BLA details for SIR a year before Bengal Assembly polls.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN1ZTalBvbm43dzhXRWs4QU5JRDlzTW5rZzQ3QktVQUlnUEF4SThiU2lfZ2J0RV9KNlJoQTBEN2ttNlJYdmY1WFAtTkJVQjFKX1pxbUpxRG1QZVlURjljZUs2TElYS3pWVm5nSlUwOEdkekJybWFLelc3VWVTcXBoM0czeHBUSWZsaERnVnRJVzJ0bVp5eHUtM3lucmFkbkRCMFF1aG9iME1oaEV0M20tV0RvZ2VxTjgxMy11TmZGWWVrcGRDS1VqV1poQ2FYdGw3U1Bjcml1QUtMQXg3THVZUzNkRk5UeHBW0gHvAUFVX3lxTFAxX196V0VmLS1CZUtyTWUxbFAtUm4xTmlPMWFQR1VQUDNvS0hRZEtxNEpiOFRmYk9ydVVIa3dQbmlBejFROHQzR1M2UTljZE56WkN3ZkkyN1UxamRSdDd0WURxcnBCNzJYZFVwY3h6TjFWRDNJYjZ4UGdaV0NLZVRsRkdpR3BsM1VzcXp3WmZLSFFQNVdyWnNET0NIbmtkS0FNOTN6eWEzNG1fTVJxOHEzLWs3TFRobTl5S3NzRXBydDJjTzczUzhTZC1lYUo0YTZFaHV3bzVGTWpYcmNGNVNTZ3dzVmRKdEQ0bVNZcmFr?oc=5
 
 - Marco Rubio Explains Why China Spared, India Faces Tariffs On Russian Oil - NDTV
   &nbsp;<font color="#6f
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUU5iS2hEYlk4cTA5NGxWTVJ0bG92WTlnbUlDdWlRWUI3WENXcDc5MzI3b19hUDJrQTBWYzVLTWJrQVhzdjZkUENGNUVBczNEY1VrQU1XUFByYXZMWnhqa25jQlA5UHVQVEF4Ry03Q0E1Vm9QdGFYT2hfQVNmSFhlU1JOSEJwZWMzYlozUW9UWHZuRTR3V014dzNrR056RjNXcGdTSTEwS2xJQ2PSAbMBQVVfeXFMTW5TaVpUNGhyZXRqTHozVy1WM1dnWW51NGNJRWxuQmZUaHd6V1p6Vm9yenBjZFlraThkOU9iVjF4dHZqeXQyVGwtZW5UX3E2RmZqeFRPdm11eTkxQjkwbGJEY0dTcy0wWVo5Vk44R2lLVkdQZ2V6U1NrVWRZcDRwRDVqcnI4R01IeGljdXcxdGU4RG95VlF0OHZybE9VRGIzODBSRUZsTlRVZFFlVXhMU3dNMEU?oc=5
 
-- Days after India tariffs, US cautions against sanctioning China over Russian oil | World News - Hindustan Times - Hindustan Times
-  The Indian government has imposed tariffs on imports of Russian oil. The move is seen as
+- As India faces 50% tariffs, US explains implications behind sanctioning China | World News - Hindustan Times - Hindustan Times
+  As India faces 50% tariffs, US explains implications behind sanctioning China.
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRV9VaWc0OGJ3UXctVVJaM1RCdHRWR2ZoSGdjUU0ybWRrNkJYd01UY3dMdjhhSFFzRXlOMUpvakVyWTJXSldRWktPN2RaRjNnTzAzUktlNkZwc1d3OElYRWcteGhGREY0TlI5eWdwN3NhQ091eUlWQ3lxaWRGd0RlbkEzV2FSTTVuNFFqLU82YzlVZG9jS0VBY0EwMFZiN1F1WHlCN0EwNTIzTHRTanR5N2ZJTG9lZGJzTnlPZG1pMDlZLXZXZmhzU09wSkJRSDhxUndfbE14RnRYN2N6amfSAeMBQVVfeXFMTTNOREdBTzZIdUJTY2tzdDU1TkJnMHZSaWotblllSGtXOW1WclJ3TVZ0SXAxb3REZ0dnT0ZUcXEyamZaOTNfSGtwMW0wOHJfTlBGeUhaeGdQOC1BMW5KNnliNGplNFVpLUg1Wi1NMTBDd2V1LW5OcURmTU1UY0tBOU9Nc2JrLWdrVEo3X09jOUF0YXVxcFhENHBlNWxvUERYWnA4VVgwaWNhRDdNWElJSldpRzBxYzJ4QUQ2SWdEQkptWkpHTVFKbXdxV3RLVWNLUk9TUG1FcWlCM3VyNXRLbmRRS28?oc=5
 
-- CEC Gyanesh Kumar may face impeachment motion by INDIA bloc - The Hindu
-  CEC Gyanesh Kumar may face impeachment
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNLTQyMmVCZV9UTDFVZWEyZjE0SU5KbGtKSW1TUjRqQVBrN1hXTzhfU3RqWDVrSE1SSWFfdVlkRHdEOE1XRVlNUnp2VWFjZTJZU2tEOW00U0ZxQlFTV3gybTJDdC1lMWhJdFQ0eGxQV2xoeGs3ZF83d19XLW5JczlBTXU4ZlEtR2UxX3R3NkJ0MlRBT1M4cHplazVSdm5WZnh3UWs2LThaTDVMVkpIOHpuTExSVDhPdkJXMkMxa21IS1NoWmNIWVdfYmgxZ09YUllWT1I3emhPS0ljVVN4VGdNTTRjem5KWTBxSzRXUy1uVUFkWXdSXzdoTVRkenVfbjhVV3RBVVBkNEtiUDluVnRmTVVR0gGYAkFVX3lxTE9ueEYwdW5QM25tQzZPWTlzTmszSFJ6WVNVZ2ZqWG1DVEMwWnAyNm9vQ240djQwRjlsa1c0WVRMX3ZGcTJHZlVDYmk5emFpZV9FNEloaHJURFFRaDZqMXlfcy01RnAxcllBVWlpaFo4R2JxQ09acFVZZ3RkRFNxR2x2OXBCV3psS1NiRjk5ajR2OG1DSUMzYTA5RnhUQlltMHl6YXRCTGJoR1IzVlRKMkNTMjluNmZUREhCZDNETmJ6Rll3TnNBSUxhYkppcUlvMm9sbFl4cVZuem9tN1ZsckszUXpMM215VjhvN3NlSHRReUEzYzZJS1ZUNFBxVlpMdDRFckFHMmZrY0dFWlpnd3hHSnVsMng4T3g?oc=5
+- INDIA bloc likely to discuss its VP candidate on Monday - The Times of India
+  The Times of India is a leading newspaper in India.
+  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxNX3pUT1Z4QjBBdFh6WVRKZGdaMzhjSWNsZ2xyNW45dDFSM2pVTWtPSFpwN1JSOVp0eTUyNmJlb0lqU0xSNDYydFU5MFVPeGdzMTJmcnVDUnRWdXRURmczbXhxOS1lVnRLZVBFNjJlNWE4S29ObTNyWGI0WklSNW1nZk4tX1B0SmV0cW1vLXM4bWFZVVpoNGNfUU5LTFFPRE5CcHR2aWVBU01DMzRVLTFIQkZNTW9XY0ZUeldiSnJVU0h4OUxYRmVaVjZVS3ZNclJlc2FBLWoyOEhGY3I4UWEwT1JDcklsVjBsRXVFek14MkdfNVR2UjhrN1czYmJ3ZVNseE1ZakZUTURkallzcEVGc3NtWjdUSTdvbUVrN1E3YUE0MjlZZzJFLdIBrgJBVV95cUxOb2RObUwtZUVJOVV1MHBvWnRpR1JhZU1aakhlTFQ3X2d1Z0E3TFVGdXNqYzRyOXk5V0J3TDlsVHRGUWdxWTdZbVVRMGlJcUdTbWVITXlvdnFtRWZhelJzaXZ5YW9HQWJuYVk5eEZHTVBaYWppMVhqTHdMYURKYkdicDgtN280TnVXYjlkdDNKZU01VnMwMjRqMTQya2plM1MweGo0NW1sbDJUUEdCcjM0Y2V3bzZlRFU1Mjl1aWZ5a2lxVlVwcW10WFpXcmFLS1ZhOE54VURuQzVZV2ZKYWJuQ3A5X1ExQjN2TmwzM3otNWpRZVRzdlBXMW9TZm5mRVFOelpLcjdiX1VzajNaTU1CWmFKeHViZlUzbWRyUVlMd0F5QnQxVFNnZkZIWWtsZw?oc=5
 
-- Opposition Likely To Bring Impeachment Motion Against Poll Body Chief: Sources - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUVRTEotS3hDRFNrdHdWSTZHcVU3VDllcWFKU0dnVnRxZFV4cXRlTUlhUGxRMGtGSHl5dExNdjZVZDRkblk5XzQyZzRqbktVc3pMMkVPUmdkbHJDaHhzN3FFU3FsSGJob3ZhVmVoMzlfTWJxZHg5VDdGaW5zWHB5VERZV0t6UGhsOTZ6UWNkcWlQN1pDbWw1UnRBZFNna0JIYWlGdzczd1RTX0NENF80bUVsQjdNU0Fw0gHAAUFVX3lxTE9BNWhVOE5RRk5LT1dqbFJtNVZ0SmxoT3ZoS1NrODJyQkZQYzByUWQxYUZMckxZQUh3V2FoSFJIN0I0N3NQYUxxUk5Kbk11alFHUzY0WVpJWklhU2E0ZHJOQlBablhnLW4zQ1RFYzhWNThHb0JXd1VXNS1ZS29BTWsyS0phVjFoNW56Ny14YVZ5Ql96OWdLaHM5emZnVVlpQ2FPNkNmMExOSUVVaWxMb2k3VWRZeUJZOUhJaHFmSEZ3Qw?oc=5
+- Trump holds off secondary sanctions for China, claims India no longer buying Russian oil - The Hindu
+  The Hindu reports that India is no longer buying Russian oil.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUZvWnUtUTQtNnlLVU9vZ1pEeFd4OXJsUzRhZlJFeHNhcFJWMHo0QW81dGVGbHFjWFo4bmV0YlJBS2JsRkF3c0ctQnFSVEVIUElKRW52Wk5hV0FmV0FnaWJTLWFoYkdpOGVfUXBiUTZ6QnZZSDVwamtRTHJsdEprNDJyTEdaY2xiNUxYSzctYlNoOEVMYzQ0VHM5eFQ4WUVKNWZhLXZ0Y0hKejUxMGRYaDhOei1uN3JvR0tVem5yYmcwWklHaWtwYjc5dy1QSVVoY3N0NmdMRDVpckFEbHNr0gHmAUFVX3lxTE42SmFEZTMwVDBGaldkWmNVQ0hZbk9vTVFkVkgyMkxYdktyd2hDZWdQRllmNWRWZnJndktRcmI3aXIxU0JTOXl4N3htVkRzM19LVmZGb2k0WWxfeUYxV0p6XzUzUHdMWWl5OXRkay12VFpBTFA4WmtsRHJlcGN3NU5SNkFFdmtfc05LSDAwM24xb3BsTGVwOXlVSXhwX0I1cGFURWFJYUdVREVPWlkzbm14WUpUVm8yYmV1ZDZ0OS1wRVJnU0FPWEN6MjdxTXhXdVFzUmVYVmpncTVDY1hnN2VNZm4yUVB3?oc=5
 
-- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
-  "India Like Mercedes": Pak Minister Doubles Down
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
-
-- Marco Rubio Explains Why China Spared, India Faces Tariffs On Russian Oil - NDTV
-  &nbsp;<font color="#6f
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUU5iS2hEYlk4cTA5NGxWTVJ0bG92WTlnbUlDdWlRWUI3WENXcDc5MzI3b19hUDJrQTBWYzVLTWJrQVhzdjZkUENGNUVBczNEY1VrQU1XUFByYXZMWnhqa25jQlA5UHVQVEF4Ry03Q0E1Vm9QdGFYT2hfQVNmSFhlU1JOSEJwZWMzYlozUW9UWHZuRTR3V014dzNrR056RjNXcGdTSTEwS2xJQ2PSAbMBQVVfeXFMTW5TaVpUNGhyZXRqTHozVy1WM1dnWW51NGNJRWxuQmZUaHd6V1p6Vm9yenBjZFlraThkOU9iVjF4dHZqeXQyVGwtZW5UX3E2RmZqeFRPdm11eTkxQjkwbGJEY0dTcy0wWVo5Vk44R2lLVkdQZ2V6U1NrVWRZcDRwRDVqcnI4R01IeGljdXcxdGU4RG95VlF0OHZybE9VRGIzODBSRUZsTlRVZFFlVXhMU3dNMEU?oc=5
-
-- Days after India tariffs, US cautions against sanctioning China over Russian oil | World News - Hindustan Times - Hindustan Times
-  The Indian government has imposed tariffs on imports of Russian oil. The move is seen as
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRV9VaWc0OGJ3UXctVVJaM1RCdHRWR2ZoSGdjUU0ybWRrNkJYd01UY3dMdjhhSFFzRXlOMUpvakVyWTJXSldRWktPN2RaRjNnTzAzUktlNkZwc1d3OElYRWcteGhGREY0TlI5eWdwN3NhQ091eUlWQ3lxaWRGd0RlbkEzV2FSTTVuNFFqLU82YzlVZG9jS0VBY0EwMFZiN1F1WHlCN0EwNTIzTHRTanR5N2ZJTG9lZGJzTnlPZG1pMDlZLXZXZmhzU09wSkJRSDhxUndfbE14RnRYN2N6amfSAeMBQVVfeXFMTTNOREdBTzZIdUJTY2tzdDU1TkJnMHZSaWotblllSGtXOW1WclJ3TVZ0SXAxb3REZ0dnT0ZUcXEyamZaOTNfSGtwMW0wOHJfTlBGeUhaeGdQOC1BMW5KNnliNGplNFVpLUg1Wi1NMTBDd2V1LW5OcURmTU1UY0tBOU9Nc2JrLWdrVEo3X09jOUF0YXVxcFhENHBlNWxvUERYWnA4VVgwaWNhRDdNWElJSldpRzBxYzJ4QUQ2SWdEQkptWkpHTVFKbXdxV3RLVWNLUk9TUG1FcWlCM3VyNXRLbmRRS28?oc=5
-
-- CEC Gyanesh Kumar may face impeachment motion by INDIA bloc - The Hindu
-  CEC Gyanesh Kumar may face impeachment
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNLTQyMmVCZV9UTDFVZWEyZjE0SU5KbGtKSW1TUjRqQVBrN1hXTzhfU3RqWDVrSE1SSWFfdVlkRHdEOE1XRVlNUnp2VWFjZTJZU2tEOW00U0ZxQlFTV3gybTJDdC1lMWhJdFQ0eGxQV2xoeGs3ZF83d19XLW5JczlBTXU4ZlEtR2UxX3R3NkJ0MlRBT1M4cHplazVSdm5WZnh3UWs2LThaTDVMVkpIOHpuTExSVDhPdkJXMkMxa21IS1NoWmNIWVdfYmgxZ09YUllWT1I3emhPS0ljVVN4VGdNTTRjem5KWTBxSzRXUy1uVUFkWXdSXzdoTVRkenVfbjhVV3RBVVBkNEtiUDluVnRmTVVR0gGYAkFVX3lxTE9ueEYwdW5QM25tQzZPWTlzTmszSFJ6WVNVZ2ZqWG1DVEMwWnAyNm9vQ240djQwRjlsa1c0WVRMX3ZGcTJHZlVDYmk5emFpZV9FNEloaHJURFFRaDZqMXlfcy01RnAxcllBVWlpaFo4R2JxQ09acFVZZ3RkRFNxR2x2OXBCV3psS1NiRjk5ajR2OG1DSUMzYTA5RnhUQlltMHl6YXRCTGJoR1IzVlRKMkNTMjluNmZUREhCZDNETmJ6Rll3TnNBSUxhYkppcUlvMm9sbFl4cVZuem9tN1ZsckszUXpMM215VjhvN3NlSHRReUEzYzZJS1ZUNFBxVlpMdDRFckFHMmZrY0dFWlpnd3hHSnVsMng4T3g?oc=5
-
-- Opposition Likely To Bring Impeachment Motion Against Poll Body Chief: Sources - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUVRTEotS3hDRFNrdHdWSTZHcVU3VDllcWFKU0dnVnRxZFV4cXRlTUlhUGxRMGtGSHl5dExNdjZVZDRkblk5XzQyZzRqbktVc3pMMkVPUmdkbHJDaHhzN3FFU3FsSGJob3ZhVmVoMzlfTWJxZHg5VDdGaW5zWHB5VERZV0t6UGhsOTZ6UWNkcWlQN1pDbWw1UnRBZFNna0JIYWlGdzczd1RTX0NENF80bUVsQjdNU0Fw0gHAAUFVX3lxTE9BNWhVOE5RRk5LT1dqbFJtNVZ0SmxoT3ZoS1NrODJyQkZQYzByUWQxYUZMckxZQUh3V2FoSFJIN0I0N3NQYUxxUk5Kbk11alFHUzY0WVpJWklhU2E0ZHJOQlBablhnLW4zQ1RFYzhWNThHb0JXd1VXNS1ZS29BTWsyS0phVjFoNW56Ny14YVZ5Ql96OWdLaHM5emZnVVlpQ2FPNkNmMExOSUVVaWxMb2k3VWRZeUJZOUhJaHFmSEZ3Qw?oc=5
-
-- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
-  "India Like Mercedes": Pak Minister Doubles Down
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
-
-- Marco Rubio Explains Why China Spared, India Faces Tariffs On Russian Oil - NDTV
-  &nbsp;<font color="#6f
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUU5iS2hEYlk4cTA5NGxWTVJ0bG92WTlnbUlDdWlRWUI3WENXcDc5MzI3b19hUDJrQTBWYzVLTWJrQVhzdjZkUENGNUVBczNEY1VrQU1XUFByYXZMWnhqa25jQlA5UHVQVEF4Ry03Q0E1Vm9QdGFYT2hfQVNmSFhlU1JOSEJwZWMzYlozUW9UWHZuRTR3V014dzNrR056RjNXcGdTSTEwS2xJQ2PSAbMBQVVfeXFMTW5TaVpUNGhyZXRqTHozVy1WM1dnWW51NGNJRWxuQmZUaHd6V1p6Vm9yenBjZFlraThkOU9iVjF4dHZqeXQyVGwtZW5UX3E2RmZqeFRPdm11eTkxQjkwbGJEY0dTcy0wWVo5Vk44R2lLVkdQZ2V6U1NrVWRZcDRwRDVqcnI4R01IeGljdXcxdGU4RG95VlF0OHZybE9VRGIzODBSRUZsTlRVZFFlVXhMU3dNMEU?oc=5
-
-- Days after India tariffs, US cautions against sanctioning China over Russian oil | World News - Hindustan Times - Hindustan Times
-  The Indian government has imposed tariffs on imports of Russian oil. The move is seen as
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRV9VaWc0OGJ3UXctVVJaM1RCdHRWR2ZoSGdjUU0ybWRrNkJYd01UY3dMdjhhSFFzRXlOMUpvakVyWTJXSldRWktPN2RaRjNnTzAzUktlNkZwc1d3OElYRWcteGhGREY0TlI5eWdwN3NhQ091eUlWQ3lxaWRGd0RlbkEzV2FSTTVuNFFqLU82YzlVZG9jS0VBY0EwMFZiN1F1WHlCN0EwNTIzTHRTanR5N2ZJTG9lZGJzTnlPZG1pMDlZLXZXZmhzU09wSkJRSDhxUndfbE14RnRYN2N6amfSAeMBQVVfeXFMTTNOREdBTzZIdUJTY2tzdDU1TkJnMHZSaWotblllSGtXOW1WclJ3TVZ0SXAxb3REZ0dnT0ZUcXEyamZaOTNfSGtwMW0wOHJfTlBGeUhaeGdQOC1BMW5KNnliNGplNFVpLUg1Wi1NMTBDd2V1LW5OcURmTU1UY0tBOU9Nc2JrLWdrVEo3X09jOUF0YXVxcFhENHBlNWxvUERYWnA4VVgwaWNhRDdNWElJSldpRzBxYzJ4QUQ2SWdEQkptWkpHTVFKbXdxV3RLVWNLUk9TUG1FcWlCM3VyNXRLbmRRS28?oc=5
-
-- CEC Gyanesh Kumar may face impeachment motion by INDIA bloc - The Hindu
-  CEC Gyanesh Kumar may face impeachment
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNLTQyMmVCZV9UTDFVZWEyZjE0SU5KbGtKSW1TUjRqQVBrN1hXTzhfU3RqWDVrSE1SSWFfdVlkRHdEOE1XRVlNUnp2VWFjZTJZU2tEOW00U0ZxQlFTV3gybTJDdC1lMWhJdFQ0eGxQV2xoeGs3ZF83d19XLW5JczlBTXU4ZlEtR2UxX3R3NkJ0MlRBT1M4cHplazVSdm5WZnh3UWs2LThaTDVMVkpIOHpuTExSVDhPdkJXMkMxa21IS1NoWmNIWVdfYmgxZ09YUllWT1I3emhPS0ljVVN4VGdNTTRjem5KWTBxSzRXUy1uVUFkWXdSXzdoTVRkenVfbjhVV3RBVVBkNEtiUDluVnRmTVVR0gGYAkFVX3lxTE9ueEYwdW5QM25tQzZPWTlzTmszSFJ6WVNVZ2ZqWG1DVEMwWnAyNm9vQ240djQwRjlsa1c0WVRMX3ZGcTJHZlVDYmk5emFpZV9FNEloaHJURFFRaDZqMXlfcy01RnAxcllBVWlpaFo4R2JxQ09acFVZZ3RkRFNxR2x2OXBCV3psS1NiRjk5ajR2OG1DSUMzYTA5RnhUQlltMHl6YXRCTGJoR1IzVlRKMkNTMjluNmZUREhCZDNETmJ6Rll3TnNBSUxhYkppcUlvMm9sbFl4cVZuem9tN1ZsckszUXpMM215VjhvN3NlSHRReUEzYzZJS1ZUNFBxVlpMdDRFckFHMmZrY0dFWlpnd3hHSnVsMng4T3g?oc=5
-
-- Opposition Likely To Bring Impeachment Motion Against Poll Body Chief: Sources - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUVRTEotS3hDRFNrdHdWSTZHcVU3VDllcWFKU0dnVnRxZFV4cXRlTUlhUGxRMGtGSHl5dExNdjZVZDRkblk5XzQyZzRqbktVc3pMMkVPUmdkbHJDaHhzN3FFU3FsSGJob3ZhVmVoMzlfTWJxZHg5VDdGaW5zWHB5VERZV0t6UGhsOTZ6UWNkcWlQN1pDbWw1UnRBZFNna0JIYWlGdzczd1RTX0NENF80bUVsQjdNU0Fw0gHAAUFVX3lxTE9BNWhVOE5RRk5LT1dqbFJtNVZ0SmxoT3ZoS1NrODJyQkZQYzByUWQxYUZMckxZQUh3V2FoSFJIN0I0N3NQYUxxUk5Kbk11alFHUzY0WVpJWklhU2E0ZHJOQlBablhnLW4zQ1RFYzhWNThHb0JXd1VXNS1ZS29BTWsyS0phVjFoNW56Ny14YVZ5Ql96OWdLaHM5emZnVVlpQ2FPNkNmMExOSUVVaWxMb2k3VWRZeUJZOUhJaHFmSEZ3Qw?oc=5
-
-- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
-  "India Like Mercedes": Pak Minister Doubles Down
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
+- News Today Live Updates, 18 August | Ex-TMC MP seeks urgent Calcutta HC hearing on EC’s move to collect BLA details for SIR a year before Bengal Assembly polls - The Indian Express
+  The Indian Express reported that the EC is planning to collect BLA details for SIR a year before Bengal Assembly polls.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN1ZTalBvbm43dzhXRWs4QU5JRDlzTW5rZzQ3QktVQUlnUEF4SThiU2lfZ2J0RV9KNlJoQTBEN2ttNlJYdmY1WFAtTkJVQjFKX1pxbUpxRG1QZVlURjljZUs2TElYS3pWVm5nSlUwOEdkekJybWFLelc3VWVTcXBoM0czeHBUSWZsaERnVnRJVzJ0bVp5eHUtM3lucmFkbkRCMFF1aG9iME1oaEV0M20tV0RvZ2VxTjgxMy11TmZGWWVrcGRDS1VqV1poQ2FYdGw3U1Bjcml1QUtMQXg3THVZUzNkRk5UeHBW0gHvAUFVX3lxTFAxX196V0VmLS1CZUtyTWUxbFAtUm4xTmlPMWFQR1VQUDNvS0hRZEtxNEpiOFRmYk9ydVVIa3dQbmlBejFROHQzR1M2UTljZE56WkN3ZkkyN1UxamRSdDd0WURxcnBCNzJYZFVwY3h6TjFWRDNJYjZ4UGdaV0NLZVRsRkdpR3BsM1VzcXp3WmZLSFFQNVdyWnNET0NIbmtkS0FNOTN6eWEzNG1fTVJxOHEzLWs3TFRobTl5S3NzRXBydDJjTzczUzhTZC1lYUo0YTZFaHV3bzVGTWpYcmNGNVNTZ3dzVmRKdEQ0bVNZcmFr?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-08-18 06:30:17 UTC_
+_Last updated: 2025-08-18 12:37:21 UTC_
