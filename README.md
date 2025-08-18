@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- Kal Penn at Express ADDA: ‘When it comes to race and identity, Hollywood can be fairly regressive’
+- News Today Live Updates, 18 August | India’s 79th Independence Day 2025 Highlights: PM Modi announces new GST reforms by Diwali; to reduce tax on daily-use items
   
-  🔗 https://indianexpress.com/article/india/kal-penn-at-express-adda-when-it-comes-to-race-and-identity-hollywood-can-be-fairly-regressive-10195371/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-08-18-2025-news-headlines-10195482/
 
-- Rajasthan: UP man’s body found in drum; wife, landlord’s son missing
+- Parliament Monsoon Session LIVE: Lok Sabha adjourned till noon amid Opposition uproar over Bihar SIR; Rajya Sabha adjourned till 2 pm
   
-  🔗 https://indianexpress.com/article/india/rajasthan-up-mans-body-found-in-drum-wife-landlords-son-missing-10195353/
+  🔗 https://indianexpress.com/article/india/parliament-monsoon-session-live-updates-lok-sabha-shubhashu-shukla-bihar-sir-10195700/
 
-- Naveen Patnaik admitted to hospital due to dehydration, condition stable
+- Heavy security deployed in Tripura’s Unakoti after meat, anonymous letter found inside mosque
   
-  🔗 https://indianexpress.com/article/india/naveen-patnaik-admitted-to-hospital-due-to-dehydration-condition-stable-10195347/
+  🔗 https://indianexpress.com/article/india/heavy-security-deployed-in-tripuras-unakoti-after-meat-anonymous-letter-found-inside-mosque-10195653/
 
-- Mumbai, Delhi, Bengaluru among top 10 hotspots for mule accounts in India: Centre
+- DRG jawan killed, 3 injured in IED blast during anti-Naxal op in Chhattisgarh’s Bijapur
   
-  🔗 https://indianexpress.com/article/india/mumbai-delhi-bengaluru-among-top-10-hotspots-for-mule-accounts-in-india-centre-10195337/
+  🔗 https://indianexpress.com/article/india/drg-jawan-killed-ied-blast-anti-naxal-op-chhattisgarh-bijapur-10195647/
 
-- GDMO candidates securing 14 out of 100 recommended for recruitment, state govt should rectify the situation: Ex-Tripura CM Manik Sarkar
+- Hyderabad’s nightlife set to get a lot more lucrative, projected to be Rs 26,000-crore economy by 2031
   
-  🔗 https://indianexpress.com/article/india/gdmo-candidates-securing-14-out-of-100-recommended-for-recruitment-state-govt-should-rectify-the-situation-ex-tripura-cm-manik-sarkar-10195244/
+  🔗 https://indianexpress.com/article/india/hyderabads-nightlife-set-to-get-a-lot-more-lucrative-projected-to-be-rs-26000-crore-economy-by-2031-10195282/
+
+- Anthropic’s Claude AI will now cut off abusive chats with users for its own ‘welfare’
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropics-claude-ai-abusive-chats-users-welfare-10195842/
+
+- A low-cost MacBook powered by an iPhone chip is coming, starting at $599
+  
+  🔗 https://indianexpress.com/article/technology/a-low-cost-macbook-powered-by-an-iphone-chip-is-coming-starting-at-599-usd-10195708/
+
+- EU push to protect digital rules holds up trade statement with US: Report
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/eu-push-to-protect-digital-rules-holds-up-trade-statement-with-us-report-10195628/
+
+- Google agrees $36 million fine for anti-competitive deals with Australia telcos
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-agrees-36-million-fine-for-anti-competitive-deals-with-australia-telcos-10195619/
 
 - Sam Altman says OpenAI ‘screwed up’ GPT-5 rollout: Here are the changes made so far
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-screwed-up-gpt-5-rollout-here-are-changes-10194555/
 
-- I reclaimed my health with Samsung’s Galaxy Watch 8 Classic, and it made me more disciplined
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/samsung-galaxy-watch8-classic-review-10194120/
+- ‘It’s never too early’: L&amp;T Chairman SN Subrahmanyan on why grooming successors early is key for future leadership
+  L&amp;amp;T chairman S N Subrahman
+  🔗 https://www.livemint.com/companies/people/its-never-too-early-l-t-chairman-sn-subrahmanyan-on-why-grooming-successors-early-is-key-for-future-leadership-11755492000634.html
 
-- ‘AI is a good debating partner’: Zoho’s Sridhar Vembu on how to use ChatGPT and other tools
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-good-debating-partner-zoho-sridhar-vembu-10194237/
+- Microsoft to update flexible work policy, may ask employees to work from office 3 days a week: Report
+  Microsoft plans to enforce a stricter office attendance policy, possibly starting in January. This change aligns with similar policies from other tech companies.
+  🔗 https://www.livemint.com/companies/microsoft-to-update-flexible-work-policy-may-ask-employees-to-work-from-office-3-days-a-week-report-11755483546782.html
 
-- CEOs want their companies to adopt AI. But do they get it themselves?
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ceos-want-their-companies-to-adopt-ai-but-do-they-get-it-themselves-10194040/
+- Auto sector demand in India weak across segments except tractors: Report
+  The automobile sector witnessed a muted performance in the first quarter of FY26. Demand lagging expectations in most segments except tractors,
+  🔗 https://www.livemint.com/companies/news/auto-sector-demand-in-india-weak-across-segments-except-tractors-report-11755486788533.html
 
-- They’re stuffed animals. They’re also AI chatbots.
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/theyre-stuffed-animals-theyre-also-ai-chatbots-10194032/
+- Air Canada Strikers Dig In Against Order: ‘Can’t Fire Us All’
+  Flight attendants defied an order to return to work on Sunday. Air Canada union wants to "dismantle" a process the government
+  🔗 https://www.livemint.com/companies/news/air-canada-strikers-dig-in-against-order-can-t-fire-us-all-11755482567275.html
 
 - Your wait for a Tesla robo-taxi ride is almost over, Musk says
   Tesla's robo-
   🔗 https://www.livemint.com/companies/your-wait-for-a-tesla-robo-taxi-ride-is-almost-over-musk-says-11755478958682.html
 
-- S.N. Subrahmanyan interview: How L&amp;T started some businesses, sold others, and navigates a stormy world
-  How does L&amp;amp;T enter and exit businesses? How does it see the future in a turbulent world? Where does it stand in
-  🔗 https://www.livemint.com/companies/lt-internation-business-middle-east-sn-subrahmanyan-artificial-intelligence-technology-lti-mindtree-gpu-cloud-11755428748691.html
+- Indian stock market: Nifty tops 25,000 level. Is this rally sustainable in near term?
+  The Nifty 50 managed a marginal rise of 11.95 points to close at 24,631.30. The Sensex added 57.75 points to finish at 80,597.66.
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-nifty-tops-25-000-level-is-this-rally-sustainable-in-near-term-11755496079038.html
 
-- NAB to Review Staff Pay as Bank Hit With $85 Million Costs
-  National Australia Bank Ltd. will incur A$130 ($85 million) of costs and initiate a broader review into its payroll system. National Australia Bank
-  🔗 https://www.livemint.com/companies/news/nab-to-review-staff-pay-as-bank-hit-with-85-million-costs-11755476039106.html
+- Hong Kong interbank rates surge after repeated intervention, local dollar bounces
+  Hong Kong interbank rates surge
+  🔗 https://www.livemint.com/market/stock-market-news/hong-kong-interbank-rates-surge-after-repeated-intervention-local-dollar-bounces-11755498178185.html
 
-- Growth hunters and margin hawks: The two blocs in India's IT industry
-  HCL Technologies, Wipro, Hexaware Technologies, and Mphasis are concentrating on growth at the cost of profitability. Tata Consultancy Services
-  🔗 https://www.livemint.com/companies/hcltech-it-services-wipro-hexaware-mphasis-tata-consultancy-services-tcs-ai-artificial-intelligence-11755408374226.html
+- Penny stock below  ₹15 hits 10% upper circuit on turning profitable in Q1. Do you own?
+  Sadbhav Engineering's stock rose 10% to  ₹13.13 on August 18 after reporting a profit of  �
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-below-15-hits-10-upper-circuit-on-turning-profitable-in-q1-do-you-own-11755497550033.html
 
-- Air India cancels Milan-Delhi flight due to maintenance issue
-  Air India cancels
-  🔗 https://www.livemint.com/companies/news/air-india-cancels-milan-delhi-flight-due-to-maintenance-issue-11755452741536.html
+- GST Reforms: From Maruti Suzuki, Eternal to Voltas and HUL - Experts bullish on these 26 stocks. Should you buy?
+  Indian stock market surged by 1.5% after government proposed GST reforms to ease tax burdens. Analysts predict benefits for sectors such as autos, banking, and consumer staples.
+  🔗 https://www.livemint.com/market/stock-market-news/gst-news-maruti-share-price-ashok-leyland-share-bajaj-finance-share-among-top-stocks-to-benefit-11755495001464.html
 
-- Global markets today: Nikkei 225, Kospi trade mixed amid ongoing US-Russia talks
-  Japan’s Nikkei 225 advanced 0.62 per cent
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-trade-mixed-amid-ongoing-us-russia-talks-11755477697368.html
+- Why did Data Patterns, Bharat Dynamics and other defence stocks soar up to 4%? Key reasons explained
+  The defence sector has been receiving a significant boost in recent years. Increased budget allocations have expanded orders for domestic defence companies.
+  🔗 https://www.livemint.com/market/stock-market-news/why-did-data-patterns-bharat-dynamics-and-other-defence-stocks-soar-up-to-4-key-reasons-explained-11755495001501.html
 
-- Stock market today: Trade setup for Nifty 50, GST reforms to Trump tariffs; eight stocks to buy or sell on Monday
-  Nifty-50 must decisively clear the 24,750–24,800 resistance zone, which can pave the way toward 25,100. Immediate support lies in the 24
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-gst-reforms-to-trump-tariffs-eight-stocks-to-buy-or-sell-on-monday-11755358140657.html
+- Meta’s new Hypernova AR glasses could launch next month, may cost as much as iPhone 17
+   Meta plans to launch its first smart glasses, Hypernova, next month. The glasses will feature a display for mini apps and alerts, controlled by a wrist accessory.
+  🔗 https://www.livemint.com/technology/tech-news/metas-new-hypernova-ar-glasses-could-launch-next-month-may-cost-as-much-as-iphone-17-11755493789280.html
 
-- Suzlon Energy eyes order tailwinds after robust Q1
-  Suzlon Energy's shares fell nearly 5% after the unexpected exit of CFO Himanshu Mody. The company's leadership dynamics and future strategies are now under scrutiny
-  🔗 https://www.livemint.com/market/mark-to-market/suzlon-energy-q1-results-order-tailwinds-himanshu-mody-resignation-wind-energy-solar-power-renewable-energy-sector-11755425693499.html
+- The AI Clones Are Coming! But It’s Not All Bad
+  Influencers
+  🔗 https://www.livemint.com/technology/tech-news/the-ai-clones-are-coming-but-it-s-not-all-bad-11755491035561.html
 
-- Best stocks to buy today—recommended by NeoTrader's Raja Venkatraman
-   NeoTrader's Raja
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-today-18-august-raja-venkatraman-nifty-sensex-emcure-globus-spirits-mfsl-11755248536831.html
-
-- Best stock recommendations today: MarketSmith India's top picks for 18 August
-  MarketSmith India reveals its top stock recommendations for today, 18 August. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/best-stock-recommendations-marketsmith-india-18-august-nifty-sensex-nifty-bank-eicher-motors-hdfc-life-insurance-11755175666612.html
+- From ‘Step Mom’ to ‘Russian Girl’: Meta’s sexualised AI chatbots flood Instagram, Facebook; netizens call it ‘dystopian’
+   Meta, led by Mark Zuckerberg, faces backlash over sexualized AI chatbots on Facebook and Instagram. Reports reveal alarming chatbot behaviors, prompting calls for a congressional investigation
+  🔗 https://www.livemint.com/technology/tech-news/meta-faces-backlash-as-ai-chatbots-with-sexualized-personas-flood-facebook-instagram-netizens-call-it-dystopian-11755478456308.html
 
 - Fired by Elon Musk, ex-Twitter CEO Parag Agrawal's AI venture launches ‘Deep Research API’
   Ex-Twitter CEO Parag Agrawal launched a new artificial intelligence (AI) venture named 'Deep Research
@@ -88,137 +100,105 @@
   Gemini is a new chatbot developed by
   🔗 https://www.livemint.com/technology/tech-news/googles-gemini-ai-is-training-on-your-personal-conversations-by-default-heres-how-you-can-turn-if-off-11755420328572.html
 
-- Sam Altman says OpenAI has better AI models than GPT-5, but it can’t release them yet. Here’s why
-  OpenAI CEO Sam Altman stated that better models exist but cannot be released due to capacity issues. OpenAI plans significant investments
-  🔗 https://www.livemint.com/technology/tech-news/sam-altman-says-openai-has-better-ai-models-than-gpt-5-but-it-can-t-release-them-yet-here-s-why-11755407918005.html
+- Bajaj Finance, Bajaj Housing Finance shares rally up to 7% on GST reform hopes
+  Bajaj Finance and Bajaj Housing Finance surged up to 7% on GST cut hopes and India’s sovereign credit rating upgrade. Lower consumer durables taxes and reduced borrowing costs
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-bajaj-housing-finance-shares-rally-up-to-7-on-gst-reform-hopes/articleshow/123357143.cms
 
-- AI plush toys promise screen-free play for kids— but at what cost?
-  Curio's new stuffed animals uses AI to interact with children. While marketed as alternatives to screens, concerns about privacy, surveillance, and the nature
-  🔗 https://www.livemint.com/technology/tech-news/ai-plush-toys-promise-screen-free-play-for-kids-but-at-what-cost-11755412679064.html
+- GST Reforms 2.0: Full list of over 40 stocks that can benefit from PM Modi's Diwali promise
+  Dalal Street sees potential winners across sectors like auto, financial, real estate, consumer, and cement stocks. Two-wheelers and small cars may benefit. Cement sector could see revenue boost.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gst-reforms-2-0-full-list-of-over-40-stocks-that-can-benefit-from-pm-modis-diwali-promise/articleshow/123356845.cms
 
-- ChatGPT boss warns against relying on AI as primary source of information: Here’s why
-  OpenAI's latest model shows improvements but still has a 10% hallucination rate. Nick Turley advises users to treat it as a second opinion
-  🔗 https://www.livemint.com/technology/tech-news/chatgpt-boss-warns-against-relying-on-ai-as-primary-source-of-information-here-s-why-nick-turley-gpt-5-11755405687732.html
+- Not so much Putin-Trump summit, it's Modi’s GST rationalisation promise that is pushing market up: Sunil Subramaniam
+  The Trump-Putin summit signals easing US-Russia relations, potentially benefiting India by reducing sanctions risk. Despite US-Pakistan ties, India prioritizes its interests, hoping for eased tariffs amid evolving global dynamics.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/not-so-much-putin-trump-summit-its-modis-gst-rationalisation-promise-that-is-pushing-market-up-sunil-subramaniam/articleshow/123356731.cms
 
-- Nifty Prediction For Tomorrow, August 18: Market Set For Optimistic Start; Check Support & Resistance - News18
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVU9oSjd3TmVYTG5uNk5QTjFMQXpMcEdxZHVSaVlDNkJialIwTFlwNW9Uek16S2hZY2VKbkx5RXBEb3VfbW5pTGU2RVBUSF9XNVVRQmp4Z3N2WFVkeG5GcFZfUkphTTFvOU
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVU9oSjd3TmVYTG5uNk5QTjFMQXpMcEdxZHVSaVlDNkJialIwTFlwNW9Uek16S2hZY2VKbkx5RXBEb3VfbW5pTGU2RVBUSF9XNVVRQmp4Z3N2WFVkeG5GcFZfUkphTTFvOU1rRnpnTC0tSmZwc1NUZVFhcXRYVHh3SDNWaWc4cGp0NnVmZWtaV0EyaEZMSmNUTGJVV3gyWGpDNHNNOTlHQnc0dS02QndjOWIya1ZiamtGaVBfRDN6OWVfWDFKci1tUDZxOXI1dV9ZVm5Wenc3c181cVZvY29Mc1hIb3FGSUZPRVHSAe8BQVVfeXFMTS1NcEp1eXJKMXNuaVM3S282ekU5OWQzYW5yakhONHZOWXNtV1E4eEVRdEZJVHRicG51dUZ1RUhvVXY0RC1LRm5CNlFPanNmNC0tQ2M5YlpYZlF5TUNCSkJjNUtBX0xzYVJlN28yeDVsY1RVODQxZU1UWmxHQU1YdnluVV92Z1ktWkdGUGdCS0JsNHJ6ejZaWGZ3Z1AtNkR4WUU0ODBPdFhhcU14VG1oRnFEZHE1N1htaUcxN3Zjc20xV01Lc04waGF5b1NMd2lJUnhuQk9VYlo5Ymw1SlVNdTI3Tmpsbkk1Y2p1VHlFNVE?oc=5
+- HDFC MMC, Neuland Laboratories among 8 stocks that rose above VWAP on August 14
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-mmc-neuland-laboratories-among-8-stocks-that-rose-above-vwap-on-august-14/slideshow/123356635.cms
 
-- Global markets face shaky week ahead as US pressure mounts on Ukraine - Mint
-  Global markets face shaky week ahead as US pressure mounts
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR1lQYVBPLXBEYXE0UHVyUjliYkM5a1FSMnZtQ3ZsaHRYUHdKYmM5ZEdhMUpZMzl4QzdCY3FVV183d2dRSjVsRVBUaF9lemRwS2ktRWJibjMwaVV6Y25mTjZlTHhFbU5QZzhtbE9TLWZ2d1Y3ejZPLU04dkljemNFcWJKWHBfOFlLeE5SYlJwWDlsUTZUdjg1SkdtclNtUzFFSkRRQWx2Y20yWXlwWVU3MnJjb29MTDhvMkVERDZSRTdKSGFuLTBta1FfOEpDd0dfQXgweTh30gHbAUFVX3lxTFBwcm9JWU1ILTN4TkNZd0t5OUxFWjV3Y1NZMDdQOUdfWi1iV3V5eHNJQ1pGWXhQUFVhNW5Ta2JzYy1wVWpuTUtIa1JGSWVFUGpSVTRRdzhoWHRYS2sxZ1dvaU9la3Y3U3B2UEtpdERGbUNwSHJ5NnZ6VFQweVd4bDRRbl9VcVBNQ1Rza0dydkpIVXNiODdrLWFXS3FhOER2SktjVkdYZmVDbTU3YUxsX1ZBNGFrTTFBNDdyelVFUXdEaC1wRDdiZGtWcGJFblUtQUxWWEhQMnRWalZVMA?oc=5
+- Easy Trip Planners shares slide 4% as Q1 PAT drops 99% YoY to Rs 0.44 cr
+  Revenue from operations came in at ₹113.79 crore in Q1FY26. Adjusted total income, including other income, slipped to ⁹166.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/easy-trip-planners-shares-slide-4-as-q1-pat-drops-99-yoy-to-rs-0-44-cr/articleshow/123356168.cms
 
-- Oil markets steady as Trump, Putin target full Ukraine peace deal - Business Standard
-  " target="_blank">Oil markets steady
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzZrVnA3dmxSNnJLbXBiMlBodUgzQzlWWlRoZVhtZGpKd3NTUkVlME9YVVgyWXRya0YxUFN6S0x1QTd2LVZGbC0tZWo1ZXhWQ2pwSUdfWWFxMG9nR25xeXFyd0ZQVWxXRFpWNzhkb3FiNHA3emVNbUVkOVZhMjNfWnhVUlZudEtCSWNjNzVWSHBVZm5TUUJZUGR6Rk5wSGNXR3pqaW1TOHhtYkQ1S29zMk1QNWJTUzlVZ2UzZnpZNE9DM2lReElKQ9IBzgFBVV95cUxOcl9iSDJtTkxkTDE1SE50VGRsNlpRRmZ0ekdiRW5Dd2x6eEtDOWNHQ0oxS2Y3amk3azVsdzQ5Tmk5SXM1X0JieGFBdFRPa1pJV0xRcVEtWmtSX3U3eF9hZE95TUdXNHBDbFA4X01kVm1iQVYwbWNmZ2RYYjU5dzY2WVlydEV4ZURVQTBvQm5GZ3Y2RHFvejk3U1hsZThwbDVpNkYwclZPalNLUjhWX0JrRzNiWWRsLWN6UVo1aU5fekdVRnRkbXhYNjJkb1c0UQ?oc=5
+- Marco Rubio Explains Why China Spared, India Faces Tariffs On Russian Oil - NDTV
+  &nbsp;<font color="#6f
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUU5iS2hEYlk4cTA5NGxWTVJ0bG92WTlnbUlDdWlRWUI3WENXcDc5MzI3b19hUDJrQTBWYzVLTWJrQVhzdjZkUENGNUVBczNEY1VrQU1XUFByYXZMWnhqa25jQlA5UHVQVEF4Ry03Q0E1Vm9QdGFYT2hfQVNmSFhlU1JOSEJwZWMzYlozUW9UWHZuRTR3V014dzNrR056RjNXcGdTSTEwS2xJQ2PSAbMBQVVfeXFMTW5TaVpUNGhyZXRqTHozVy1WM1dnWW51NGNJRWxuQmZUaHd6V1p6Vm9yenBjZFlraThkOU9iVjF4dHZqeXQyVGwtZW5UX3E2RmZqeFRPdm11eTkxQjkwbGJEY0dTcy0wWVo5Vk44R2lLVkdQZ2V6U1NrVWRZcDRwRDVqcnI4R01IeGljdXcxdGU4RG95VlF0OHZybE9VRGIzODBSRUZsTlRVZFFlVXhMU3dNMEU?oc=5
 
-- European stock markets close flat ahead of Trump-Putin meeting - CNBC
-  European stock markets close flat ahead of
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNNE41OUFabURSUGM2bWpTdlpiR082dVhHV29wZWEyLVV3S3plclVQVm1vVVV3d2dWYzVPS0FSc2hwY2NDZzNLQ1ZaMEYwaTFUd0RiMWVfQUhMb2tsS3M5bVRKNEx0N3BMZjI1cjZVMDdhQk5EUTFodVdZQmc5T1BiRDBvMGFCZ2o4TW1RVm5kNzlpdmZiSjV0VUpyZHZsS1NNaGpjNdIBqgFBVV95cUxNZl9BbHBkOV9POUZ0ekpUUGhsU1pDZkNiemUyemtUSDNjbWZ2OUVvbW53T2hGNVlYS1l1N0MzeTVlckk1ckpQNXRUWnl2YkFpZ3VDMWVCZ1hiUFd4Yzc0U0RfcWNURG5Kbng0WWlkRk5SVVFKYnRsal85US13SE52dFRaOEFjM0ROd0VmODRxUVRBQzBBcjBDMW9DS2h3bnJmTmN3S0sySFcwZw?oc=5
+- Days after India tariffs, US cautions against sanctioning China over Russian oil | World News - Hindustan Times - Hindustan Times
+  The Indian government has imposed tariffs on imports of Russian oil. The move is seen as
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRV9VaWc0OGJ3UXctVVJaM1RCdHRWR2ZoSGdjUU0ybWRrNkJYd01UY3dMdjhhSFFzRXlOMUpvakVyWTJXSldRWktPN2RaRjNnTzAzUktlNkZwc1d3OElYRWcteGhGREY0TlI5eWdwN3NhQ091eUlWQ3lxaWRGd0RlbkEzV2FSTTVuNFFqLU82YzlVZG9jS0VBY0EwMFZiN1F1WHlCN0EwNTIzTHRTanR5N2ZJTG9lZGJzTnlPZG1pMDlZLXZXZmhzU09wSkJRSDhxUndfbE14RnRYN2N6amfSAeMBQVVfeXFMTTNOREdBTzZIdUJTY2tzdDU1TkJnMHZSaWotblllSGtXOW1WclJ3TVZ0SXAxb3REZ0dnT0ZUcXEyamZaOTNfSGtwMW0wOHJfTlBGeUhaeGdQOC1BMW5KNnliNGplNFVpLUg1Wi1NMTBDd2V1LW5OcURmTU1UY0tBOU9Nc2JrLWdrVEo3X09jOUF0YXVxcFhENHBlNWxvUERYWnA4VVgwaWNhRDdNWElJSldpRzBxYzJ4QUQ2SWdEQkptWkpHTVFKbXdxV3RLVWNLUk9TUG1FcWlCM3VyNXRLbmRRS28?oc=5
 
-- Asia Set for Cautious Open Ahead of Ukraine Talks: Markets Wrap - Bloomberg.com
-  Asia Set for Cautious Open Ahead of
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXQ1NUd4cVhHZG90Y09wa251a1ZjTzhncHRWaDY0LWtKUGxmSC1mdE15UWZrYml2dnhlaG4tVHN5QnRSRFY5TUozNzlKQ0tGSlZvNGVGSFVrUzdYQ3hsRU1md3hmZ1pRZEF2bk9MR19qY29EMXZmN1FYWHVLbnhxdWhVRmJzTHVWMWtNWjVzUHd3R1plbnN0bWliaFhmcEt2UVk0RS1Ka0txTC1EemQxSEwzZw?oc=5
+- CEC Gyanesh Kumar may face impeachment motion by INDIA bloc - The Hindu
+  CEC Gyanesh Kumar may face impeachment
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNLTQyMmVCZV9UTDFVZWEyZjE0SU5KbGtKSW1TUjRqQVBrN1hXTzhfU3RqWDVrSE1SSWFfdVlkRHdEOE1XRVlNUnp2VWFjZTJZU2tEOW00U0ZxQlFTV3gybTJDdC1lMWhJdFQ0eGxQV2xoeGs3ZF83d19XLW5JczlBTXU4ZlEtR2UxX3R3NkJ0MlRBT1M4cHplazVSdm5WZnh3UWs2LThaTDVMVkpIOHpuTExSVDhPdkJXMkMxa21IS1NoWmNIWVdfYmgxZ09YUllWT1I3emhPS0ljVVN4VGdNTTRjem5KWTBxSzRXUy1uVUFkWXdSXzdoTVRkenVfbjhVV3RBVVBkNEtiUDluVnRmTVVR0gGYAkFVX3lxTE9ueEYwdW5QM25tQzZPWTlzTmszSFJ6WVNVZ2ZqWG1DVEMwWnAyNm9vQ240djQwRjlsa1c0WVRMX3ZGcTJHZlVDYmk5emFpZV9FNEloaHJURFFRaDZqMXlfcy01RnAxcllBVWlpaFo4R2JxQ09acFVZZ3RkRFNxR2x2OXBCV3psS1NiRjk5ajR2OG1DSUMzYTA5RnhUQlltMHl6YXRCTGJoR1IzVlRKMkNTMjluNmZUREhCZDNETmJ6Rll3TnNBSUxhYkppcUlvMm9sbFl4cVZuem9tN1ZsckszUXpMM215VjhvN3NlSHRReUEzYzZJS1ZUNFBxVlpMdDRFckFHMmZrY0dFWlpnd3hHSnVsMng4T3g?oc=5
 
-- Global markets face shaky week ahead as US pressure mounts on Ukraine
-  Investors anticipate increased European defense spending due to potential shifts in U.S. policy towards Russia. This could lead to a deep energy bear market, impacting Brent crude prices and Ukrainian government bonds.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/global-markets-face-shaky-week-ahead-as-us-pressure-mounts-on-ukraine/articleshow/123352898.cms
+- Opposition Likely To Bring Impeachment Motion Against Poll Body Chief: Sources - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUVRTEotS3hDRFNrdHdWSTZHcVU3VDllcWFKU0dnVnRxZFV4cXRlTUlhUGxRMGtGSHl5dExNdjZVZDRkblk5XzQyZzRqbktVc3pMMkVPUmdkbHJDaHhzN3FFU3FsSGJob3ZhVmVoMzlfTWJxZHg5VDdGaW5zWHB5VERZV0t6UGhsOTZ6UWNkcWlQN1pDbWw1UnRBZFNna0JIYWlGdzczd1RTX0NENF80bUVsQjdNU0Fw0gHAAUFVX3lxTE9BNWhVOE5RRk5LT1dqbFJtNVZ0SmxoT3ZoS1NrODJyQkZQYzByUWQxYUZMckxZQUh3V2FoSFJIN0I0N3NQYUxxUk5Kbk11alFHUzY0WVpJWklhU2E0ZHJOQlBablhnLW4zQ1RFYzhWNThHb0JXd1VXNS1ZS29BTWsyS0phVjFoNW56Ny14YVZ5Ql96OWdLaHM5emZnVVlpQ2FPNkNmMExOSUVVaWxMb2k3VWRZeUJZOUhJaHFmSEZ3Qw?oc=5
 
-- Shares nudge higher in Asia, oil slips on truce talks
-  Asian stock markets edged higher, with the Nikkei reaching a new high. Investors anticipate the Jackson Hole symposium and potential shifts in U.S. interest rate policy.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/shares-nudge-higher-in-asia-oil-slips-on-truce-talks/articleshow/123352869.cms
+- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
+  "India Like Mercedes": Pak Minister Doubles Down
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
 
-- Sellers for now, FPIs may rethink Indian equities
-  FPIs intensified selling in Indian equities in early August due to US import duties. Despite this outflow, a recent credit rating upgrade by S&amp;P and potential GST reforms offer hope for improved investor sentiment.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sellers-for-now-fpis-may-rethink-indian-equities/articleshow/123352823.cms
+- Marco Rubio Explains Why China Spared, India Faces Tariffs On Russian Oil - NDTV
+  &nbsp;<font color="#6f
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUU5iS2hEYlk4cTA5NGxWTVJ0bG92WTlnbUlDdWlRWUI3WENXcDc5MzI3b19hUDJrQTBWYzVLTWJrQVhzdjZkUENGNUVBczNEY1VrQU1XUFByYXZMWnhqa25jQlA5UHVQVEF4Ry03Q0E1Vm9QdGFYT2hfQVNmSFhlU1JOSEJwZWMzYlozUW9UWHZuRTR3V014dzNrR056RjNXcGdTSTEwS2xJQ2PSAbMBQVVfeXFMTW5TaVpUNGhyZXRqTHozVy1WM1dnWW51NGNJRWxuQmZUaHd6V1p6Vm9yenBjZFlraThkOU9iVjF4dHZqeXQyVGwtZW5UX3E2RmZqeFRPdm11eTkxQjkwbGJEY0dTcy0wWVo5Vk44R2lLVkdQZ2V6U1NrVWRZcDRwRDVqcnI4R01IeGljdXcxdGU4RG95VlF0OHZybE9VRGIzODBSRUZsTlRVZFFlVXhMU3dNMEU?oc=5
 
-- Stocks in news: Vodafone Idea, Coal India, Glenmark Pharma, Inox Wind, IIFL Finance
-  Vodafone Idea's net losses widened, while Coal India advances its infrastructure plans. Glenmark Pharma reported a net profit, and KEC International secured fresh orders.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vodafone-idea-coal-india-glenmark-pharma-inox-wind-iifl-finance/articleshow/123348639.cms
+- Days after India tariffs, US cautions against sanctioning China over Russian oil | World News - Hindustan Times - Hindustan Times
+  The Indian government has imposed tariffs on imports of Russian oil. The move is seen as
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRV9VaWc0OGJ3UXctVVJaM1RCdHRWR2ZoSGdjUU0ybWRrNkJYd01UY3dMdjhhSFFzRXlOMUpvakVyWTJXSldRWktPN2RaRjNnTzAzUktlNkZwc1d3OElYRWcteGhGREY0TlI5eWdwN3NhQ091eUlWQ3lxaWRGd0RlbkEzV2FSTTVuNFFqLU82YzlVZG9jS0VBY0EwMFZiN1F1WHlCN0EwNTIzTHRTanR5N2ZJTG9lZGJzTnlPZG1pMDlZLXZXZmhzU09wSkJRSDhxUndfbE14RnRYN2N6amfSAeMBQVVfeXFMTTNOREdBTzZIdUJTY2tzdDU1TkJnMHZSaWotblllSGtXOW1WclJ3TVZ0SXAxb3REZ0dnT0ZUcXEyamZaOTNfSGtwMW0wOHJfTlBGeUhaeGdQOC1BMW5KNnliNGplNFVpLUg1Wi1NMTBDd2V1LW5OcURmTU1UY0tBOU9Nc2JrLWdrVEo3X09jOUF0YXVxcFhENHBlNWxvUERYWnA4VVgwaWNhRDdNWElJSldpRzBxYzJ4QUQ2SWdEQkptWkpHTVFKbXdxV3RLVWNLUk9TUG1FcWlCM3VyNXRLbmRRS28?oc=5
 
-- Pre-market Action: Here's the trading setup for today's session
-  Indian stock markets recovered after six weeks, closing almost one percent up. Nifty faces resistance at 24,770. India VIX increased slightly. Some stocks are under F&amp;O ban.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trading-setup-for-todays-session/articleshow/123348406.cms
+- CEC Gyanesh Kumar may face impeachment motion by INDIA bloc - The Hindu
+  CEC Gyanesh Kumar may face impeachment
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNLTQyMmVCZV9UTDFVZWEyZjE0SU5KbGtKSW1TUjRqQVBrN1hXTzhfU3RqWDVrSE1SSWFfdVlkRHdEOE1XRVlNUnp2VWFjZTJZU2tEOW00U0ZxQlFTV3gybTJDdC1lMWhJdFQ0eGxQV2xoeGs3ZF83d19XLW5JczlBTXU4ZlEtR2UxX3R3NkJ0MlRBT1M4cHplazVSdm5WZnh3UWs2LThaTDVMVkpIOHpuTExSVDhPdkJXMkMxa21IS1NoWmNIWVdfYmgxZ09YUllWT1I3emhPS0ljVVN4VGdNTTRjem5KWTBxSzRXUy1uVUFkWXdSXzdoTVRkenVfbjhVV3RBVVBkNEtiUDluVnRmTVVR0gGYAkFVX3lxTE9ueEYwdW5QM25tQzZPWTlzTmszSFJ6WVNVZ2ZqWG1DVEMwWnAyNm9vQ240djQwRjlsa1c0WVRMX3ZGcTJHZlVDYmk5emFpZV9FNEloaHJURFFRaDZqMXlfcy01RnAxcllBVWlpaFo4R2JxQ09acFVZZ3RkRFNxR2x2OXBCV3psS1NiRjk5ajR2OG1DSUMzYTA5RnhUQlltMHl6YXRCTGJoR1IzVlRKMkNTMjluNmZUREhCZDNETmJ6Rll3TnNBSUxhYkppcUlvMm9sbFl4cVZuem9tN1ZsckszUXpMM215VjhvN3NlSHRReUEzYzZJS1ZUNFBxVlpMdDRFckFHMmZrY0dFWlpnd3hHSnVsMng4T3g?oc=5
 
-- India welcomes meeting, Trump sends positive signals on secondary tariff - The Indian Express
-  India welcomes meeting, Trump sends positive signals on secondary
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxONzFnUXJtN3lId3ZVN0dZcnhJeUhkVUxQd2MzU3Rud2N4SzNIRmFRNl9vTnltcEZhV2ZWTnprMEhKSFlXQlVydHJJMVhpbnI2dVV3LU9KdXdrZVg0a2QtcXVvclB3SE9HbDVVNzlPOUdkUGw1TzBJY1lHYkt1MkVmT0U5cm16anlHZEw4czl0TlRzNDBrMUl5YzlWZFF0ZzFUaGFfZW1oQVpYUXBwSk5XN0kzbE1pYUXSAb4BQVVfeXFMT0d3OHNWN21LQTNUaW51LUJBcm9fNTRVVkhWNzlpbVJ0ZFN0T2JEUUF4N082TlY3TnU2M19GekwxTnMwRFR0Q3NpMk95clgxZ0dsR0p5ZTItWXZQZGFvWGVGUUpjNzh2ek1zRVFXMzVMYjd1STZsVXFSUjN4NUg1czhsZDJ3Ry0xWGt1QkpzR1VIZk1WSTVrNHZPMC03cWVXZTBZak44YzUyMzFMbVhuc2YtVVdabTdMVEtYWHJSZw?oc=5
+- Opposition Likely To Bring Impeachment Motion Against Poll Body Chief: Sources - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUVRTEotS3hDRFNrdHdWSTZHcVU3VDllcWFKU0dnVnRxZFV4cXRlTUlhUGxRMGtGSHl5dExNdjZVZDRkblk5XzQyZzRqbktVc3pMMkVPUmdkbHJDaHhzN3FFU3FsSGJob3ZhVmVoMzlfTWJxZHg5VDdGaW5zWHB5VERZV0t6UGhsOTZ6UWNkcWlQN1pDbWw1UnRBZFNna0JIYWlGdzczd1RTX0NENF80bUVsQjdNU0Fw0gHAAUFVX3lxTE9BNWhVOE5RRk5LT1dqbFJtNVZ0SmxoT3ZoS1NrODJyQkZQYzByUWQxYUZMckxZQUh3V2FoSFJIN0I0N3NQYUxxUk5Kbk11alFHUzY0WVpJWklhU2E0ZHJOQlBablhnLW4zQ1RFYzhWNThHb0JXd1VXNS1ZS29BTWsyS0phVjFoNW56Ny14YVZ5Ql96OWdLaHM5emZnVVlpQ2FPNkNmMExOSUVVaWxMb2k3VWRZeUJZOUhJaHFmSEZ3Qw?oc=5
 
-- Trump holds off secondary sanctions for China, claims India no longer buying Russian oil - The Hindu
-  The Hindu reports that India is no longer buying Russian oil.
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUZvWnUtUTQtNnlLVU9vZ1pEeFd4OXJsUzRhZlJFeHNhcFJWMHo0QW81dGVGbHFjWFo4bmV0YlJBS2JsRkF3c0ctQnFSVEVIUElKRW52Wk5hV0FmV0FnaWJTLWFoYkdpOGVfUXBiUTZ6QnZZSDVwamtRTHJsdEprNDJyTEdaY2xiNUxYSzctYlNoOEVMYzQ0VHM5eFQ4WUVKNWZhLXZ0Y0hKejUxMGRYaDhOei1uN3JvR0tVem5yYmcwWklHaWtwYjc5dy1QSVVoY3N0NmdMRDVpckFEbHNr0gHmAUFVX3lxTE42SmFEZTMwVDBGaldkWmNVQ0hZbk9vTVFkVkgyMkxYdktyd2hDZWdQRllmNWRWZnJndktRcmI3aXIxU0JTOXl4N3htVkRzM19LVmZGb2k0WWxfeUYxV0p6XzUzUHdMWWl5OXRkay12VFpBTFA4WmtsRHJlcGN3NU5SNkFFdmtfc05LSDAwM24xb3BsTGVwOXlVSXhwX0I1cGFURWFJYUdVREVPWlkzbm14WUpUVm8yYmV1ZDZ0OS1wRVJnU0FPWEN6MjdxTXhXdVFzUmVYVmpncTVDY1hnN2VNZm4yUVB3?oc=5
+- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
+  "India Like Mercedes": Pak Minister Doubles Down
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
 
-- India welcomes Trump-Putin summit, backs peace in Ukraine; PM Modi responds to Zelensky’s post | Latest News India - Hindustan Times - Hindustan Times
-  India welcomes Trump-Putin summit, backs peace in Ukraine. PM Modi responds to Zelensky�
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVkRtQ0V3UzV2cmdfczVyNzBsZlIzcXBfdDBzcFR6bXFFd1Y4djZTRFAxbnpZZEt6NDVZOUFhTU42YWQ4cWFFbFFTQnVZRjJ2R1QyM0VqUXdCV2FGekh1dkM3VFkyNDBPX25jMF9sY2p6b3YyWGlxTWdsYkJxaU9OTGgtOW1EcXU1bElmR0FBSlNROXVKZ0ItdWNjTEYyVEhiODVjQ1VfTk1tYmJCYWlZVHpsUnpqRjNsbmkxdEFIdjVIX3ZYcUlzZkJ6SlgzdlRQUkJvZHc5QdIB3AFBVV95cUxOcFBUb01xRHNOZHpyYlN5ZmJzV2lYenplcGlfQjZETFRSdXR2cEpPRGFES3M4clY2dW1ia0NMcHc1WjVJREdhY0tOS2l0dVE2bGxDckVMMlhzLTJyRXJnUDk0ekFfS3FBZGlaRnJybklIaFZiYjFKVGRmVEMwUnp2T2YwZlNlLTlwb0JrY1hMUDNSdmZrdUpHaUJnYjdiS21lUTRzS0pxcDBBWWo1bnlrOHVKb2JuY0xLbVp4XzFsdFhNSGZnSHZ0dUZCLWZLOUNsUlBpcG4yaHVsNWhn?oc=5
+- Marco Rubio Explains Why China Spared, India Faces Tariffs On Russian Oil - NDTV
+  &nbsp;<font color="#6f
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUU5iS2hEYlk4cTA5NGxWTVJ0bG92WTlnbUlDdWlRWUI3WENXcDc5MzI3b19hUDJrQTBWYzVLTWJrQVhzdjZkUENGNUVBczNEY1VrQU1XUFByYXZMWnhqa25jQlA5UHVQVEF4Ry03Q0E1Vm9QdGFYT2hfQVNmSFhlU1JOSEJwZWMzYlozUW9UWHZuRTR3V014dzNrR056RjNXcGdTSTEwS2xJQ2PSAbMBQVVfeXFMTW5TaVpUNGhyZXRqTHozVy1WM1dnWW51NGNJRWxuQmZUaHd6V1p6Vm9yenBjZFlraThkOU9iVjF4dHZqeXQyVGwtZW5UX3E2RmZqeFRPdm11eTkxQjkwbGJEY0dTcy0wWVo5Vk44R2lLVkdQZ2V6U1NrVWRZcDRwRDVqcnI4R01IeGljdXcxdGU4RG95VlF0OHZybE9VRGIzODBSRUZsTlRVZFFlVXhMU3dNMEU?oc=5
 
-- 50% US Tariff Casts Shadow Over India-US Bilateral Trade Agreement Talks - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVppR1Z4bGNFa3pRVDJrUjA4dFdkYUpGZlp0MzVjVGFXSFpXTTRiaE1iQmVSdTF4RXdQb0dxSGFzT2ZwOTBfRlc1cTl4NWpqV1pPelJPWE5qTk9IN1dLUzlZVGNkV25ZcE
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVppR1Z4bGNFa3pRVDJrUjA4dFdkYUpGZlp0MzVjVGFXSFpXTTRiaE1iQmVSdTF4RXdQb0dxSGFzT2ZwOTBfRlc1cTl4NWpqV1pPelJPWE5qTk9IN1dLUzlZVGNkV25ZcEVlX3NQdF92ZWc2bngzeVUzMU9ac0xiYlhLWl9US3RORnpTX3cwY1UtbXowYTgybk83RTByT011OENLSXpfa2hnMUdIU2xqetIBuAFBVV95cUxPUjhNeXktTW04RWpHX1g2YjlXMkRaRXZMb2dva1NWTmpxMm9CeHpqMTliSVc0MWRhcEJkRHMzMXJvclppX3oxNjBHdTZNYXREWS1wQmJ2dEhVdEZhRGF2V0tBSFgxVVNXTlBGUUszeEFFVlAwOEduQ25JZGVjRmw4dHhSaVFjYjNLNFpnek44X21xQ3JycjVFdzVRUDZnSElvU1ctVkdiUG45dXpYbkFsNUg5WTlWamRK?oc=5
+- Days after India tariffs, US cautions against sanctioning China over Russian oil | World News - Hindustan Times - Hindustan Times
+  The Indian government has imposed tariffs on imports of Russian oil. The move is seen as
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRV9VaWc0OGJ3UXctVVJaM1RCdHRWR2ZoSGdjUU0ybWRrNkJYd01UY3dMdjhhSFFzRXlOMUpvakVyWTJXSldRWktPN2RaRjNnTzAzUktlNkZwc1d3OElYRWcteGhGREY0TlI5eWdwN3NhQ091eUlWQ3lxaWRGd0RlbkEzV2FSTTVuNFFqLU82YzlVZG9jS0VBY0EwMFZiN1F1WHlCN0EwNTIzTHRTanR5N2ZJTG9lZGJzTnlPZG1pMDlZLXZXZmhzU09wSkJRSDhxUndfbE14RnRYN2N6amfSAeMBQVVfeXFMTTNOREdBTzZIdUJTY2tzdDU1TkJnMHZSaWotblllSGtXOW1WclJ3TVZ0SXAxb3REZ0dnT0ZUcXEyamZaOTNfSGtwMW0wOHJfTlBGeUhaeGdQOC1BMW5KNnliNGplNFVpLUg1Wi1NMTBDd2V1LW5OcURmTU1UY0tBOU9Nc2JrLWdrVEo3X09jOUF0YXVxcFhENHBlNWxvUERYWnA4VVgwaWNhRDdNWElJSldpRzBxYzJ4QUQ2SWdEQkptWkpHTVFKbXdxV3RLVWNLUk9TUG1FcWlCM3VyNXRLbmRRS28?oc=5
 
-- Mumbai: Pigeon feeding ban sparks debate in India - BBC
-  Mumbai: Pigeon
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qTWlLc0RYdnduN21CODZoeFk5dmFEeGJUcW0tRXJBd0pvWWs4RWJCeVVab3U0cXVNb240blo2TlAzOFQzRXR2d240aUxtU29JdEg2Vlh5SFQ0d9IBX0FVX3lxTE5scm01ZmhGb0k3Yy1Hd01FY0VoN3Y2OUZpdTVVNjdDY1l5bEp0QVpSMWotb0l0SFc4bGFWRFhRUEJnMm8tNHlNYndtNi1QSmJ0RkFfQ2tWeTV0cGt0X280?oc=5
+- CEC Gyanesh Kumar may face impeachment motion by INDIA bloc - The Hindu
+  CEC Gyanesh Kumar may face impeachment
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNLTQyMmVCZV9UTDFVZWEyZjE0SU5KbGtKSW1TUjRqQVBrN1hXTzhfU3RqWDVrSE1SSWFfdVlkRHdEOE1XRVlNUnp2VWFjZTJZU2tEOW00U0ZxQlFTV3gybTJDdC1lMWhJdFQ0eGxQV2xoeGs3ZF83d19XLW5JczlBTXU4ZlEtR2UxX3R3NkJ0MlRBT1M4cHplazVSdm5WZnh3UWs2LThaTDVMVkpIOHpuTExSVDhPdkJXMkMxa21IS1NoWmNIWVdfYmgxZ09YUllWT1I3emhPS0ljVVN4VGdNTTRjem5KWTBxSzRXUy1uVUFkWXdSXzdoTVRkenVfbjhVV3RBVVBkNEtiUDluVnRmTVVR0gGYAkFVX3lxTE9ueEYwdW5QM25tQzZPWTlzTmszSFJ6WVNVZ2ZqWG1DVEMwWnAyNm9vQ240djQwRjlsa1c0WVRMX3ZGcTJHZlVDYmk5emFpZV9FNEloaHJURFFRaDZqMXlfcy01RnAxcllBVWlpaFo4R2JxQ09acFVZZ3RkRFNxR2x2OXBCV3psS1NiRjk5ajR2OG1DSUMzYTA5RnhUQlltMHl6YXRCTGJoR1IzVlRKMkNTMjluNmZUREhCZDNETmJ6Rll3TnNBSUxhYkppcUlvMm9sbFl4cVZuem9tN1ZsckszUXpMM215VjhvN3NlSHRReUEzYzZJS1ZUNFBxVlpMdDRFckFHMmZrY0dFWlpnd3hHSnVsMng4T3g?oc=5
 
-- India welcomes meeting, Trump sends positive signals on secondary tariff - The Indian Express
-  India welcomes meeting, Trump sends positive signals on secondary
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxONzFnUXJtN3lId3ZVN0dZcnhJeUhkVUxQd2MzU3Rud2N4SzNIRmFRNl9vTnltcEZhV2ZWTnprMEhKSFlXQlVydHJJMVhpbnI2dVV3LU9KdXdrZVg0a2QtcXVvclB3SE9HbDVVNzlPOUdkUGw1TzBJY1lHYkt1MkVmT0U5cm16anlHZEw4czl0TlRzNDBrMUl5YzlWZFF0ZzFUaGFfZW1oQVpYUXBwSk5XN0kzbE1pYUXSAb4BQVVfeXFMT0d3OHNWN21LQTNUaW51LUJBcm9fNTRVVkhWNzlpbVJ0ZFN0T2JEUUF4N082TlY3TnU2M19GekwxTnMwRFR0Q3NpMk95clgxZ0dsR0p5ZTItWXZQZGFvWGVGUUpjNzh2ek1zRVFXMzVMYjd1STZsVXFSUjN4NUg1czhsZDJ3Ry0xWGt1QkpzR1VIZk1WSTVrNHZPMC03cWVXZTBZak44YzUyMzFMbVhuc2YtVVdabTdMVEtYWHJSZw?oc=5
+- Opposition Likely To Bring Impeachment Motion Against Poll Body Chief: Sources - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUVRTEotS3hDRFNrdHdWSTZHcVU3VDllcWFKU0dnVnRxZFV4cXRlTUlhUGxRMGtGSHl5dExNdjZVZDRkblk5XzQyZzRqbktVc3pMMkVPUmdkbHJDaHhzN3FFU3FsSGJob3ZhVmVoMzlfTWJxZHg5VDdGaW5zWHB5VERZV0t6UGhsOTZ6UWNkcWlQN1pDbWw1UnRBZFNna0JIYWlGdzczd1RTX0NENF80bUVsQjdNU0Fw0gHAAUFVX3lxTE9BNWhVOE5RRk5LT1dqbFJtNVZ0SmxoT3ZoS1NrODJyQkZQYzByUWQxYUZMckxZQUh3V2FoSFJIN0I0N3NQYUxxUk5Kbk11alFHUzY0WVpJWklhU2E0ZHJOQlBablhnLW4zQ1RFYzhWNThHb0JXd1VXNS1ZS29BTWsyS0phVjFoNW56Ny14YVZ5Ql96OWdLaHM5emZnVVlpQ2FPNkNmMExOSUVVaWxMb2k3VWRZeUJZOUhJaHFmSEZ3Qw?oc=5
 
-- Trump holds off secondary sanctions for China, claims India no longer buying Russian oil - The Hindu
-  The Hindu reports that India is no longer buying Russian oil.
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUZvWnUtUTQtNnlLVU9vZ1pEeFd4OXJsUzRhZlJFeHNhcFJWMHo0QW81dGVGbHFjWFo4bmV0YlJBS2JsRkF3c0ctQnFSVEVIUElKRW52Wk5hV0FmV0FnaWJTLWFoYkdpOGVfUXBiUTZ6QnZZSDVwamtRTHJsdEprNDJyTEdaY2xiNUxYSzctYlNoOEVMYzQ0VHM5eFQ4WUVKNWZhLXZ0Y0hKejUxMGRYaDhOei1uN3JvR0tVem5yYmcwWklHaWtwYjc5dy1QSVVoY3N0NmdMRDVpckFEbHNr0gHmAUFVX3lxTE42SmFEZTMwVDBGaldkWmNVQ0hZbk9vTVFkVkgyMkxYdktyd2hDZWdQRllmNWRWZnJndktRcmI3aXIxU0JTOXl4N3htVkRzM19LVmZGb2k0WWxfeUYxV0p6XzUzUHdMWWl5OXRkay12VFpBTFA4WmtsRHJlcGN3NU5SNkFFdmtfc05LSDAwM24xb3BsTGVwOXlVSXhwX0I1cGFURWFJYUdVREVPWlkzbm14WUpUVm8yYmV1ZDZ0OS1wRVJnU0FPWEN6MjdxTXhXdVFzUmVYVmpncTVDY1hnN2VNZm4yUVB3?oc=5
+- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
+  "India Like Mercedes": Pak Minister Doubles Down
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
 
-- India welcomes Trump-Putin summit, backs peace in Ukraine; PM Modi responds to Zelensky’s post | Latest News India - Hindustan Times - Hindustan Times
-  India welcomes Trump-Putin summit, backs peace in Ukraine. PM Modi responds to Zelensky�
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVkRtQ0V3UzV2cmdfczVyNzBsZlIzcXBfdDBzcFR6bXFFd1Y4djZTRFAxbnpZZEt6NDVZOUFhTU42YWQ4cWFFbFFTQnVZRjJ2R1QyM0VqUXdCV2FGekh1dkM3VFkyNDBPX25jMF9sY2p6b3YyWGlxTWdsYkJxaU9OTGgtOW1EcXU1bElmR0FBSlNROXVKZ0ItdWNjTEYyVEhiODVjQ1VfTk1tYmJCYWlZVHpsUnpqRjNsbmkxdEFIdjVIX3ZYcUlzZkJ6SlgzdlRQUkJvZHc5QdIB3AFBVV95cUxOcFBUb01xRHNOZHpyYlN5ZmJzV2lYenplcGlfQjZETFRSdXR2cEpPRGFES3M4clY2dW1ia0NMcHc1WjVJREdhY0tOS2l0dVE2bGxDckVMMlhzLTJyRXJnUDk0ekFfS3FBZGlaRnJybklIaFZiYjFKVGRmVEMwUnp2T2YwZlNlLTlwb0JrY1hMUDNSdmZrdUpHaUJnYjdiS21lUTRzS0pxcDBBWWo1bnlrOHVKb2JuY0xLbVp4XzFsdFhNSGZnSHZ0dUZCLWZLOUNsUlBpcG4yaHVsNWhn?oc=5
+- Marco Rubio Explains Why China Spared, India Faces Tariffs On Russian Oil - NDTV
+  &nbsp;<font color="#6f
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUU5iS2hEYlk4cTA5NGxWTVJ0bG92WTlnbUlDdWlRWUI3WENXcDc5MzI3b19hUDJrQTBWYzVLTWJrQVhzdjZkUENGNUVBczNEY1VrQU1XUFByYXZMWnhqa25jQlA5UHVQVEF4Ry03Q0E1Vm9QdGFYT2hfQVNmSFhlU1JOSEJwZWMzYlozUW9UWHZuRTR3V014dzNrR056RjNXcGdTSTEwS2xJQ2PSAbMBQVVfeXFMTW5TaVpUNGhyZXRqTHozVy1WM1dnWW51NGNJRWxuQmZUaHd6V1p6Vm9yenBjZFlraThkOU9iVjF4dHZqeXQyVGwtZW5UX3E2RmZqeFRPdm11eTkxQjkwbGJEY0dTcy0wWVo5Vk44R2lLVkdQZ2V6U1NrVWRZcDRwRDVqcnI4R01IeGljdXcxdGU4RG95VlF0OHZybE9VRGIzODBSRUZsTlRVZFFlVXhMU3dNMEU?oc=5
 
-- 50% US Tariff Casts Shadow Over India-US Bilateral Trade Agreement Talks - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVppR1Z4bGNFa3pRVDJrUjA4dFdkYUpGZlp0MzVjVGFXSFpXTTRiaE1iQmVSdTF4RXdQb0dxSGFzT2ZwOTBfRlc1cTl4NWpqV1pPelJPWE5qTk9IN1dLUzlZVGNkV25ZcE
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVppR1Z4bGNFa3pRVDJrUjA4dFdkYUpGZlp0MzVjVGFXSFpXTTRiaE1iQmVSdTF4RXdQb0dxSGFzT2ZwOTBfRlc1cTl4NWpqV1pPelJPWE5qTk9IN1dLUzlZVGNkV25ZcEVlX3NQdF92ZWc2bngzeVUzMU9ac0xiYlhLWl9US3RORnpTX3cwY1UtbXowYTgybk83RTByT011OENLSXpfa2hnMUdIU2xqetIBuAFBVV95cUxPUjhNeXktTW04RWpHX1g2YjlXMkRaRXZMb2dva1NWTmpxMm9CeHpqMTliSVc0MWRhcEJkRHMzMXJvclppX3oxNjBHdTZNYXREWS1wQmJ2dEhVdEZhRGF2V0tBSFgxVVNXTlBGUUszeEFFVlAwOEduQ25JZGVjRmw4dHhSaVFjYjNLNFpnek44X21xQ3JycjVFdzVRUDZnSElvU1ctVkdiUG45dXpYbkFsNUg5WTlWamRK?oc=5
+- Days after India tariffs, US cautions against sanctioning China over Russian oil | World News - Hindustan Times - Hindustan Times
+  The Indian government has imposed tariffs on imports of Russian oil. The move is seen as
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRV9VaWc0OGJ3UXctVVJaM1RCdHRWR2ZoSGdjUU0ybWRrNkJYd01UY3dMdjhhSFFzRXlOMUpvakVyWTJXSldRWktPN2RaRjNnTzAzUktlNkZwc1d3OElYRWcteGhGREY0TlI5eWdwN3NhQ091eUlWQ3lxaWRGd0RlbkEzV2FSTTVuNFFqLU82YzlVZG9jS0VBY0EwMFZiN1F1WHlCN0EwNTIzTHRTanR5N2ZJTG9lZGJzTnlPZG1pMDlZLXZXZmhzU09wSkJRSDhxUndfbE14RnRYN2N6amfSAeMBQVVfeXFMTTNOREdBTzZIdUJTY2tzdDU1TkJnMHZSaWotblllSGtXOW1WclJ3TVZ0SXAxb3REZ0dnT0ZUcXEyamZaOTNfSGtwMW0wOHJfTlBGeUhaeGdQOC1BMW5KNnliNGplNFVpLUg1Wi1NMTBDd2V1LW5OcURmTU1UY0tBOU9Nc2JrLWdrVEo3X09jOUF0YXVxcFhENHBlNWxvUERYWnA4VVgwaWNhRDdNWElJSldpRzBxYzJ4QUQ2SWdEQkptWkpHTVFKbXdxV3RLVWNLUk9TUG1FcWlCM3VyNXRLbmRRS28?oc=5
 
-- Mumbai: Pigeon feeding ban sparks debate in India - BBC
-  Mumbai: Pigeon
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qTWlLc0RYdnduN21CODZoeFk5dmFEeGJUcW0tRXJBd0pvWWs4RWJCeVVab3U0cXVNb240blo2TlAzOFQzRXR2d240aUxtU29JdEg2Vlh5SFQ0d9IBX0FVX3lxTE5scm01ZmhGb0k3Yy1Hd01FY0VoN3Y2OUZpdTVVNjdDY1l5bEp0QVpSMWotb0l0SFc4bGFWRFhRUEJnMm8tNHlNYndtNi1QSmJ0RkFfQ2tWeTV0cGt0X280?oc=5
+- CEC Gyanesh Kumar may face impeachment motion by INDIA bloc - The Hindu
+  CEC Gyanesh Kumar may face impeachment
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNLTQyMmVCZV9UTDFVZWEyZjE0SU5KbGtKSW1TUjRqQVBrN1hXTzhfU3RqWDVrSE1SSWFfdVlkRHdEOE1XRVlNUnp2VWFjZTJZU2tEOW00U0ZxQlFTV3gybTJDdC1lMWhJdFQ0eGxQV2xoeGs3ZF83d19XLW5JczlBTXU4ZlEtR2UxX3R3NkJ0MlRBT1M4cHplazVSdm5WZnh3UWs2LThaTDVMVkpIOHpuTExSVDhPdkJXMkMxa21IS1NoWmNIWVdfYmgxZ09YUllWT1I3emhPS0ljVVN4VGdNTTRjem5KWTBxSzRXUy1uVUFkWXdSXzdoTVRkenVfbjhVV3RBVVBkNEtiUDluVnRmTVVR0gGYAkFVX3lxTE9ueEYwdW5QM25tQzZPWTlzTmszSFJ6WVNVZ2ZqWG1DVEMwWnAyNm9vQ240djQwRjlsa1c0WVRMX3ZGcTJHZlVDYmk5emFpZV9FNEloaHJURFFRaDZqMXlfcy01RnAxcllBVWlpaFo4R2JxQ09acFVZZ3RkRFNxR2x2OXBCV3psS1NiRjk5ajR2OG1DSUMzYTA5RnhUQlltMHl6YXRCTGJoR1IzVlRKMkNTMjluNmZUREhCZDNETmJ6Rll3TnNBSUxhYkppcUlvMm9sbFl4cVZuem9tN1ZsckszUXpMM215VjhvN3NlSHRReUEzYzZJS1ZUNFBxVlpMdDRFckFHMmZrY0dFWlpnd3hHSnVsMng4T3g?oc=5
 
-- India welcomes meeting, Trump sends positive signals on secondary tariff - The Indian Express
-  India welcomes meeting, Trump sends positive signals on secondary
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxONzFnUXJtN3lId3ZVN0dZcnhJeUhkVUxQd2MzU3Rud2N4SzNIRmFRNl9vTnltcEZhV2ZWTnprMEhKSFlXQlVydHJJMVhpbnI2dVV3LU9KdXdrZVg0a2QtcXVvclB3SE9HbDVVNzlPOUdkUGw1TzBJY1lHYkt1MkVmT0U5cm16anlHZEw4czl0TlRzNDBrMUl5YzlWZFF0ZzFUaGFfZW1oQVpYUXBwSk5XN0kzbE1pYUXSAb4BQVVfeXFMT0d3OHNWN21LQTNUaW51LUJBcm9fNTRVVkhWNzlpbVJ0ZFN0T2JEUUF4N082TlY3TnU2M19GekwxTnMwRFR0Q3NpMk95clgxZ0dsR0p5ZTItWXZQZGFvWGVGUUpjNzh2ek1zRVFXMzVMYjd1STZsVXFSUjN4NUg1czhsZDJ3Ry0xWGt1QkpzR1VIZk1WSTVrNHZPMC03cWVXZTBZak44YzUyMzFMbVhuc2YtVVdabTdMVEtYWHJSZw?oc=5
+- Opposition Likely To Bring Impeachment Motion Against Poll Body Chief: Sources - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUVRTEotS3hDRFNrdHdWSTZHcVU3VDllcWFKU0dnVnRxZFV4cXRlTUlhUGxRMGtGSHl5dExNdjZVZDRkblk5XzQyZzRqbktVc3pMMkVPUmdkbHJDaHhzN3FFU3FsSGJob3ZhVmVoMzlfTWJxZHg5VDdGaW5zWHB5VERZV0t6UGhsOTZ6UWNkcWlQN1pDbWw1UnRBZFNna0JIYWlGdzczd1RTX0NENF80bUVsQjdNU0Fw0gHAAUFVX3lxTE9BNWhVOE5RRk5LT1dqbFJtNVZ0SmxoT3ZoS1NrODJyQkZQYzByUWQxYUZMckxZQUh3V2FoSFJIN0I0N3NQYUxxUk5Kbk11alFHUzY0WVpJWklhU2E0ZHJOQlBablhnLW4zQ1RFYzhWNThHb0JXd1VXNS1ZS29BTWsyS0phVjFoNW56Ny14YVZ5Ql96OWdLaHM5emZnVVlpQ2FPNkNmMExOSUVVaWxMb2k3VWRZeUJZOUhJaHFmSEZ3Qw?oc=5
 
-- Trump holds off secondary sanctions for China, claims India no longer buying Russian oil - The Hindu
-  The Hindu reports that India is no longer buying Russian oil.
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUZvWnUtUTQtNnlLVU9vZ1pEeFd4OXJsUzRhZlJFeHNhcFJWMHo0QW81dGVGbHFjWFo4bmV0YlJBS2JsRkF3c0ctQnFSVEVIUElKRW52Wk5hV0FmV0FnaWJTLWFoYkdpOGVfUXBiUTZ6QnZZSDVwamtRTHJsdEprNDJyTEdaY2xiNUxYSzctYlNoOEVMYzQ0VHM5eFQ4WUVKNWZhLXZ0Y0hKejUxMGRYaDhOei1uN3JvR0tVem5yYmcwWklHaWtwYjc5dy1QSVVoY3N0NmdMRDVpckFEbHNr0gHmAUFVX3lxTE42SmFEZTMwVDBGaldkWmNVQ0hZbk9vTVFkVkgyMkxYdktyd2hDZWdQRllmNWRWZnJndktRcmI3aXIxU0JTOXl4N3htVkRzM19LVmZGb2k0WWxfeUYxV0p6XzUzUHdMWWl5OXRkay12VFpBTFA4WmtsRHJlcGN3NU5SNkFFdmtfc05LSDAwM24xb3BsTGVwOXlVSXhwX0I1cGFURWFJYUdVREVPWlkzbm14WUpUVm8yYmV1ZDZ0OS1wRVJnU0FPWEN6MjdxTXhXdVFzUmVYVmpncTVDY1hnN2VNZm4yUVB3?oc=5
-
-- India welcomes Trump-Putin summit, backs peace in Ukraine; PM Modi responds to Zelensky’s post | Latest News India - Hindustan Times - Hindustan Times
-  India welcomes Trump-Putin summit, backs peace in Ukraine. PM Modi responds to Zelensky�
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVkRtQ0V3UzV2cmdfczVyNzBsZlIzcXBfdDBzcFR6bXFFd1Y4djZTRFAxbnpZZEt6NDVZOUFhTU42YWQ4cWFFbFFTQnVZRjJ2R1QyM0VqUXdCV2FGekh1dkM3VFkyNDBPX25jMF9sY2p6b3YyWGlxTWdsYkJxaU9OTGgtOW1EcXU1bElmR0FBSlNROXVKZ0ItdWNjTEYyVEhiODVjQ1VfTk1tYmJCYWlZVHpsUnpqRjNsbmkxdEFIdjVIX3ZYcUlzZkJ6SlgzdlRQUkJvZHc5QdIB3AFBVV95cUxOcFBUb01xRHNOZHpyYlN5ZmJzV2lYenplcGlfQjZETFRSdXR2cEpPRGFES3M4clY2dW1ia0NMcHc1WjVJREdhY0tOS2l0dVE2bGxDckVMMlhzLTJyRXJnUDk0ekFfS3FBZGlaRnJybklIaFZiYjFKVGRmVEMwUnp2T2YwZlNlLTlwb0JrY1hMUDNSdmZrdUpHaUJnYjdiS21lUTRzS0pxcDBBWWo1bnlrOHVKb2JuY0xLbVp4XzFsdFhNSGZnSHZ0dUZCLWZLOUNsUlBpcG4yaHVsNWhn?oc=5
-
-- 50% US Tariff Casts Shadow Over India-US Bilateral Trade Agreement Talks - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVppR1Z4bGNFa3pRVDJrUjA4dFdkYUpGZlp0MzVjVGFXSFpXTTRiaE1iQmVSdTF4RXdQb0dxSGFzT2ZwOTBfRlc1cTl4NWpqV1pPelJPWE5qTk9IN1dLUzlZVGNkV25ZcE
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVppR1Z4bGNFa3pRVDJrUjA4dFdkYUpGZlp0MzVjVGFXSFpXTTRiaE1iQmVSdTF4RXdQb0dxSGFzT2ZwOTBfRlc1cTl4NWpqV1pPelJPWE5qTk9IN1dLUzlZVGNkV25ZcEVlX3NQdF92ZWc2bngzeVUzMU9ac0xiYlhLWl9US3RORnpTX3cwY1UtbXowYTgybk83RTByT011OENLSXpfa2hnMUdIU2xqetIBuAFBVV95cUxPUjhNeXktTW04RWpHX1g2YjlXMkRaRXZMb2dva1NWTmpxMm9CeHpqMTliSVc0MWRhcEJkRHMzMXJvclppX3oxNjBHdTZNYXREWS1wQmJ2dEhVdEZhRGF2V0tBSFgxVVNXTlBGUUszeEFFVlAwOEduQ25JZGVjRmw4dHhSaVFjYjNLNFpnek44X21xQ3JycjVFdzVRUDZnSElvU1ctVkdiUG45dXpYbkFsNUg5WTlWamRK?oc=5
-
-- Mumbai: Pigeon feeding ban sparks debate in India - BBC
-  Mumbai: Pigeon
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qTWlLc0RYdnduN21CODZoeFk5dmFEeGJUcW0tRXJBd0pvWWs4RWJCeVVab3U0cXVNb240blo2TlAzOFQzRXR2d240aUxtU29JdEg2Vlh5SFQ0d9IBX0FVX3lxTE5scm01ZmhGb0k3Yy1Hd01FY0VoN3Y2OUZpdTVVNjdDY1l5bEp0QVpSMWotb0l0SFc4bGFWRFhRUEJnMm8tNHlNYndtNi1QSmJ0RkFfQ2tWeTV0cGt0X280?oc=5
-
-- India welcomes meeting, Trump sends positive signals on secondary tariff - The Indian Express
-  India welcomes meeting, Trump sends positive signals on secondary
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxONzFnUXJtN3lId3ZVN0dZcnhJeUhkVUxQd2MzU3Rud2N4SzNIRmFRNl9vTnltcEZhV2ZWTnprMEhKSFlXQlVydHJJMVhpbnI2dVV3LU9KdXdrZVg0a2QtcXVvclB3SE9HbDVVNzlPOUdkUGw1TzBJY1lHYkt1MkVmT0U5cm16anlHZEw4czl0TlRzNDBrMUl5YzlWZFF0ZzFUaGFfZW1oQVpYUXBwSk5XN0kzbE1pYUXSAb4BQVVfeXFMT0d3OHNWN21LQTNUaW51LUJBcm9fNTRVVkhWNzlpbVJ0ZFN0T2JEUUF4N082TlY3TnU2M19GekwxTnMwRFR0Q3NpMk95clgxZ0dsR0p5ZTItWXZQZGFvWGVGUUpjNzh2ek1zRVFXMzVMYjd1STZsVXFSUjN4NUg1czhsZDJ3Ry0xWGt1QkpzR1VIZk1WSTVrNHZPMC03cWVXZTBZak44YzUyMzFMbVhuc2YtVVdabTdMVEtYWHJSZw?oc=5
-
-- Trump holds off secondary sanctions for China, claims India no longer buying Russian oil - The Hindu
-  The Hindu reports that India is no longer buying Russian oil.
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUZvWnUtUTQtNnlLVU9vZ1pEeFd4OXJsUzRhZlJFeHNhcFJWMHo0QW81dGVGbHFjWFo4bmV0YlJBS2JsRkF3c0ctQnFSVEVIUElKRW52Wk5hV0FmV0FnaWJTLWFoYkdpOGVfUXBiUTZ6QnZZSDVwamtRTHJsdEprNDJyTEdaY2xiNUxYSzctYlNoOEVMYzQ0VHM5eFQ4WUVKNWZhLXZ0Y0hKejUxMGRYaDhOei1uN3JvR0tVem5yYmcwWklHaWtwYjc5dy1QSVVoY3N0NmdMRDVpckFEbHNr0gHmAUFVX3lxTE42SmFEZTMwVDBGaldkWmNVQ0hZbk9vTVFkVkgyMkxYdktyd2hDZWdQRllmNWRWZnJndktRcmI3aXIxU0JTOXl4N3htVkRzM19LVmZGb2k0WWxfeUYxV0p6XzUzUHdMWWl5OXRkay12VFpBTFA4WmtsRHJlcGN3NU5SNkFFdmtfc05LSDAwM24xb3BsTGVwOXlVSXhwX0I1cGFURWFJYUdVREVPWlkzbm14WUpUVm8yYmV1ZDZ0OS1wRVJnU0FPWEN6MjdxTXhXdVFzUmVYVmpncTVDY1hnN2VNZm4yUVB3?oc=5
-
-- India welcomes Trump-Putin summit, backs peace in Ukraine; PM Modi responds to Zelensky’s post | Latest News India - Hindustan Times - Hindustan Times
-  India welcomes Trump-Putin summit, backs peace in Ukraine. PM Modi responds to Zelensky�
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVkRtQ0V3UzV2cmdfczVyNzBsZlIzcXBfdDBzcFR6bXFFd1Y4djZTRFAxbnpZZEt6NDVZOUFhTU42YWQ4cWFFbFFTQnVZRjJ2R1QyM0VqUXdCV2FGekh1dkM3VFkyNDBPX25jMF9sY2p6b3YyWGlxTWdsYkJxaU9OTGgtOW1EcXU1bElmR0FBSlNROXVKZ0ItdWNjTEYyVEhiODVjQ1VfTk1tYmJCYWlZVHpsUnpqRjNsbmkxdEFIdjVIX3ZYcUlzZkJ6SlgzdlRQUkJvZHc5QdIB3AFBVV95cUxOcFBUb01xRHNOZHpyYlN5ZmJzV2lYenplcGlfQjZETFRSdXR2cEpPRGFES3M4clY2dW1ia0NMcHc1WjVJREdhY0tOS2l0dVE2bGxDckVMMlhzLTJyRXJnUDk0ekFfS3FBZGlaRnJybklIaFZiYjFKVGRmVEMwUnp2T2YwZlNlLTlwb0JrY1hMUDNSdmZrdUpHaUJnYjdiS21lUTRzS0pxcDBBWWo1bnlrOHVKb2JuY0xLbVp4XzFsdFhNSGZnSHZ0dUZCLWZLOUNsUlBpcG4yaHVsNWhn?oc=5
-
-- 50% US Tariff Casts Shadow Over India-US Bilateral Trade Agreement Talks - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVppR1Z4bGNFa3pRVDJrUjA4dFdkYUpGZlp0MzVjVGFXSFpXTTRiaE1iQmVSdTF4RXdQb0dxSGFzT2ZwOTBfRlc1cTl4NWpqV1pPelJPWE5qTk9IN1dLUzlZVGNkV25ZcE
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVppR1Z4bGNFa3pRVDJrUjA4dFdkYUpGZlp0MzVjVGFXSFpXTTRiaE1iQmVSdTF4RXdQb0dxSGFzT2ZwOTBfRlc1cTl4NWpqV1pPelJPWE5qTk9IN1dLUzlZVGNkV25ZcEVlX3NQdF92ZWc2bngzeVUzMU9ac0xiYlhLWl9US3RORnpTX3cwY1UtbXowYTgybk83RTByT011OENLSXpfa2hnMUdIU2xqetIBuAFBVV95cUxPUjhNeXktTW04RWpHX1g2YjlXMkRaRXZMb2dva1NWTmpxMm9CeHpqMTliSVc0MWRhcEJkRHMzMXJvclppX3oxNjBHdTZNYXREWS1wQmJ2dEhVdEZhRGF2V0tBSFgxVVNXTlBGUUszeEFFVlAwOEduQ25JZGVjRmw4dHhSaVFjYjNLNFpnek44X21xQ3JycjVFdzVRUDZnSElvU1ctVkdiUG45dXpYbkFsNUg5WTlWamRK?oc=5
-
-- Mumbai: Pigeon feeding ban sparks debate in India - BBC
-  Mumbai: Pigeon
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qTWlLc0RYdnduN21CODZoeFk5dmFEeGJUcW0tRXJBd0pvWWs4RWJCeVVab3U0cXVNb240blo2TlAzOFQzRXR2d240aUxtU29JdEg2Vlh5SFQ0d9IBX0FVX3lxTE5scm01ZmhGb0k3Yy1Hd01FY0VoN3Y2OUZpdTVVNjdDY1l5bEp0QVpSMWotb0l0SFc4bGFWRFhRUEJnMm8tNHlNYndtNi1QSmJ0RkFfQ2tWeTV0cGt0X280?oc=5
+- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
+  "India Like Mercedes": Pak Minister Doubles Down
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-08-18 01:23:40 UTC_
+_Last updated: 2025-08-18 06:30:17 UTC_
