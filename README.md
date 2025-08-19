@@ -1,252 +1,204 @@
 # 📰 Daily News Summaries
 
-- PM Modi appeals for unanimous election of Radhakrishnan as vice president
+- ‘Borders have been quiet’: NSA Ajit Doval on India-China ties during talks with Chinese FM
   
-  🔗 https://indianexpress.com/article/india/pm-modi-appeals-unanimous-election-radhakrishnan-vice-president-10197869/
+  🔗 https://indianexpress.com/article/india/borders-quiet-ajit-doval-india-china-ties-chinese-fm-wang-yi-10198521/
 
-- Need to have pool of 40-50 astronauts for India’s space missions: PM Modi interacts with Shubhanshu Shukla
+- ‘Entire exercise seems to be misdirected’: Supreme Court raps CFSL on probe into ex-Manipur CM Biren Singh ‘audio clip’
   
-  🔗 https://indianexpress.com/article/india/shubhanshu-shukla-narendra-modi-gaganyaan-india-space-mission-10197795/
+  🔗 https://indianexpress.com/article/india/exercise-misdirected-supreme-court-raps-cfsl-on-probe-ex-manipur-cm-biren-singh-audio-clip-10198806/
 
-- Bank Holiday Today: Are banks open or closed today on Tuesday, August 19? Check here
+- Assam Crime Branch issues summons to journalists Siddharth Varadarajan, Karan Thapar
   
-  🔗 https://indianexpress.com/article/india/bank-holiday-india-banks-open-or-closed-today-tuesday-august-19-10197563/
+  🔗 https://indianexpress.com/article/india/assam-crime-branch-summons-journalists-siddharth-varadarajan-karan-thapar-10198763/
 
-- Advocate Babar Qadri murder: Charges framed against Kashmir High Court Bar Association ex-president Mian Qayoom
+- SC hearing on presidential reference over Bill timelines: AG says ruling in TN Governor case dilutes powers of President, Governor
   
-  🔗 https://indianexpress.com/article/india/advocate-babar-qadri-murder-charges-framed-against-kashmir-high-court-bar-association-ex-president-mian-qayoom-10197336/
+  🔗 https://indianexpress.com/article/india/sc-hearing-presidential-reference-bill-timelines-ag-ruling-tn-governor-case-president-governor-powers-10198667/
 
-- Jammu division set for more heavy rain as Kishtwar, Kathua reel from cloudbursts
+- Bihar SIR: Those aggrieved at being left out of voter list can file claims using Aadhaar, CEO says
   
-  🔗 https://indianexpress.com/article/india/jammu-division-set-for-more-heavy-rain-as-kishtwar-kathua-reel-from-cloudbursts-10197325/
+  🔗 https://indianexpress.com/article/india/bihar-sir-voter-list-file-claims-aadhaar-election-commission-ceo-10198535/
 
-- Intel gets $2 billion lifeline in the form of SoftBank equity investment
+- Will our universe rip apart or expand forever? Dark energy holds the answer
   
-  🔗 https://indianexpress.com/article/technology/intel-gets-2-billion-lifeline-in-the-form-of-softbank-equity-investment-10197828/
+  🔗 https://indianexpress.com/article/technology/science/will-our-universe-rip-apart-or-expand-forever-dark-energy-holds-the-answer-10198693/
 
-- Nearly 90% of videogame developers use AI agents, Google study shows
+- ChatGPT Go vs ChatGPT Plus vs ChatGPT Free: Which plan should you pick?
   
-  🔗 https://indianexpress.com/article/technology/nearly-90-of-videogame-developers-use-ai-agents-google-study-shows-10197800/
+  🔗 https://indianexpress.com/article/technology/chatgpt-go-vs-chatgpt-plus-vs-chatgpt-free-which-plan-should-you-pick-10198499/
 
-- Trump administration in talks to take 10% stake in Intel: Reports
+- US spy chief Gabbard says UK agreed to drop ‘backdoor’ mandate for Apple
   
-  🔗 https://indianexpress.com/article/technology/trump-administration-in-talks-to-take-10-stake-in-intel-reports-10197779/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/us-spy-chief-gabbard-says-uk-agreed-to-drop-backdoor-mandate-for-apple-10198460/
 
-- OpenAI rolls out affordable ChatGPT Go plan in India at Rs 399 with UPI integration
+- Mid-career professionals driving AI adoption in Indian workplaces: Indeed’s Work Ahead report
   
-  🔗 https://indianexpress.com/article/technology/openai-introduces-chatgpt-go-in-india-at-rs-399-upi-10197639/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/mid-career-professionals-driving-ai-adoption-in-indian-workplaces-indeeds-work-ahead-report-10198446/
 
-- Airtel services restored after thousands face mobile internet, call services outage
+- Arm hires Amazon AI exec to boost plans to build its own chips
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/airtel-down-outage-mobile-internet-network-call-services-disrupted-10196651/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/arm-hires-amazon-ai-exec-to-boost-plans-to-build-its-own-chips-10198448/
 
-- Pharma sector faces tariff threats amid rising US trade actions: Report
-  The US is a key market for Indian drugmakers, and any tariff imposition could ripple across the sector. Indian corporates generally have low direct exposure to current US tariffs.
-  🔗 https://www.livemint.com/companies/news/pharma-sector-faces-tariff-threats-amid-rising-us-trade-actions-report-11755582542031.html
+- Intel’s CEO Draws Support for Revival From SoftBank, Trump
+  President Donald Trump called for the ouster of Intel Corp.’s Lip-Bu Tan. Tan has a shot at securing billions of dollars in fresh capital that could help him turn around
+  🔗 https://www.livemint.com/companies/news/intels-ceo-draws-support-for-revival-from-softbank-trump-11755602823861.html
 
-- LEAD School eyes government schools to revive growth momentum
-  Mumbai-based company has so far focused on private schools only. Revenue growth has plateaued, prompting the firm to widen its customer base.
-  🔗 https://www.livemint.com/companies/news/lead-school-eyes-government-schools-to-revive-growth-momentum-11755497318097.html
+- E-commerce, tech startups to lead fresher hiring in India for Jul-Dec: Report
+  E-commerce, tech startups to
+  🔗 https://www.livemint.com/companies/news/ecommerce-tech-startups-to-lead-fresher-hiring-in-india-for-jul-dec-report-11755601787107.html
 
-- Trump admin in talks to acquire 10% stake in Intel, may convert grants into equity to become largest shareholder
-  The Trump administration is negotiating to acquire a 10% stake in Intel Corp. The plan involves converting some Chips Act grants into equity
-  🔗 https://www.livemint.com/companies/trump-admin-in-talks-to-acquire-10-stake-in-intel-may-convert-grants-into-equity-to-become-largest-shareholder-11755570129722.html
+- Weaver Services raises $170 million from Lightspeed, Premji Invest
+  Many housing finance companies have raised funds within the past year. Vastu Housing Finance, Nivara Home Finance, and
+  🔗 https://www.livemint.com/companies/start-ups/weaver-services-raises-170-million-from-lightspeed-premji-invest-11755598088586.html
 
-- HK Builder Parkview Gets Loan Extension, Easing Default Risk
-  Hong Kong developer Parkview Group Ltd. has secured a three-month extension on a $940 million loan. The loan was due Aug. 15, giving it more time to
-  🔗 https://www.livemint.com/companies/news/hk-builder-parkview-gets-loan-extension-easing-default-risk-11755572048050.html
+- Vodafone Idea strikes deal with IBM to modernise IT systems, improve service reliability with AI: Check details
+  Vodafone Idea is looking to create new revenue opportunities, as well as deliver smarter digital experiences and
+  🔗 https://www.livemint.com/companies/news/vodafone-idea-strikes-deal-with-ibm-to-modernise-it-systems-improve-service-reliability-with-ai-check-details-11755596426476.html
 
-- SoftBank bets $2 billion in Intel to power US tech ambition
-  SoftBank Group Corp. agrees to buy $2 billion in Intel Corp. stock. Move extends its US investment effort and offers
-  🔗 https://www.livemint.com/companies/news/softbank-bets-2-billion-in-intel-to-power-us-tech-ambition-11755563992234.html
+- Union Cabinet approves six-lane Bhubaneswar Bypass project for  ₹8,307.74 cr
+  Union Cabinet approves six-
+  🔗 https://www.livemint.com/companies/news/union-cabinet-approves-six-lane-bhubaneswar-bypass-project-for-rs-8-307-74-cr-11755598790261.html
 
-- Inox Wind share price jumps 5% after stake sale in subsidiary at  ₹7,400 cr valuation. Should you buy, sell or hold?
-  Inox Wind shares have remained in red in short-term. Stock has descended over 13.59 per cent
-  🔗 https://www.livemint.com/market/stock-market-news/inox-wind-share-price-jumps-5-after-stake-sale-in-subsidiary-at-rs-7-400-cr-valuation-should-you-buy-sell-or-hold-11755582128176.html
+- Gilt Yields Hit Highest in Nearly Three Months Ahead of CPI
+  Gilt yields rose to their highest in almost three months ahead of UK inflation data. Could cement the case against the Bank of England
+  🔗 https://www.livemint.com/market/stock-market-news/gilt-yields-hit-highest-in-nearly-three-months-ahead-of-cpi-11755605697755.html
 
-- Belrise Industries share price pops 12% after strong Q1 results, trades 70% above IPO price
-  Belrise Industries share price surged 12% to  ₹156 after strong Q2 earnings. The company reported a 56.1% rise in profit after tax, benefiting from new facilities
-  🔗 https://www.livemint.com/market/stock-market-news/belrise-industries-share-price-pops-12-after-strong-q1-results-trades-70-above-ipo-price-11755582889348.html
+- Sebi likely to introduce intraday limits for index options trading
+  Sebi plans to introduce an intraday limit in index options trade to prevent excessive positions by clients. Move follows a crackdown on high-frequency trading firms.
+  🔗 https://www.livemint.com/market/sebi-intraday-limits-for-index-options-trading-derivatives-nifty-stock-market-trading-sessions-bank-nifty-11755602719183.html
 
-- Gold prices today in your city: Check prices in Mumbai, Bengaluru, Chennai, New Delhi on August 19
-  Gold and silver prices in Mumbai, Bengaluru, Chennai, Hyderabad, Delhi and Kolkata
-  🔗 https://www.livemint.com/market/commodities/gold-prices-today-in-your-city-check-prices-in-mumbai-bengaluru-chennai-new-delhi-on-august-19-11755576297128.html
+- Largecap vs midcap vs smallcap: Which segment should you bet on post Q1 results?
+  June quarter earnings met expectations, with Nifty50 companies showing 8% YoY PAT growth. Midcaps excelled with 24% growth, while small caps underperformed with an 11
+  🔗 https://www.livemint.com/market/stock-market-news/largecap-vs-midcap-vs-smallcap-which-segment-should-you-bet-on-post-q1-results-11755603590216.html
 
-- Ola Electric share price rallies 8.5% in trade today; here's why
-  Ola Electric Mobility shares rose 8.5% as founder Bhavish Aggarwal announced plans to reclaim 25-30% market share in India's electric
-  🔗 https://www.livemint.com/market/stock-market-news/ola-electric-share-price-rallies-8-5-in-trade-today-heres-why-11755581249702.html
+- AI shock, tariff jitters leave Indian IT stocks at crossroads: Is it time to buy the dip?
+  Indian IT stocks have delivered strong returns when bought during periods of extreme pessimism. Is 2025 that period? This year, thus far, no company in the Nifty IT index has managed to post gains.
+  🔗 https://www.livemint.com/market/indian-it-stocks-ai-shock-trump-tariff-jitters-buy-the-dip-india-generative-ai-indian-it-sector-11755603439521.html
 
-- Small-cap stock below  ₹200 jumps 5% as board to consider stock split on THIS date
-  Small-cap stock below  ₹200 gained around 5% in the morning trades on Tuesday. Board is set to consider a stock split on THIS
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-below-rs-200-jumps-5-as-board-to-consider-stock-split-on-this-date-11755577538539.html
+- LGT Business Connextions IPO: Issue booked 21% on Day 1. Check GMP and other key details
+  LGT Business Connextions IPO is open for subscription until August 21. The IPO has seen a 21% subscription as of the first day. Investors can apply in lots of 1200
+  🔗 https://www.livemint.com/market/ipo/lgt-business-connextions-ipo-gmp-price-band-subscription-status-and-other-key-details-11755603372586.html
 
-- ChatGPT Go debuts in India at  ₹399: Here’s how it stacks up against OpenAI's Plus, Pro &amp; Team plans
-  ChatGPT Go, priced at  ₹399/month, offers Indian users an economical subscription with increased message limits and enhanced
-  🔗 https://www.livemint.com/technology/tech-news/chatgpt-go-debuts-in-india-at-rs-399-here-s-how-it-stacks-up-against-openais-plus-pro-team-plans-11755579195208.html
+- Google Pixel 10 series, Watch 4, Buds 2a launch: When and where to watch the livestream
+  Google will hold its largest hardware event on 20 August. The event will showcase the Pixel 10 range and expected new wearables. The lineup could include four smartphones and
+  🔗 https://www.livemint.com/technology/gadgets/google-pixel-10-series-watch-4-buds-2a-launch-when-and-where-to-watch-the-livestream-11755604297499.html
 
-- Wireless printers under  ₹10000 for effortless printing at home and office: Top 7 picks from Canon, HP and others
-   wireless printers under  ₹10000 let you print, scan, and copy with ease. These best printers
-  🔗 https://www.livemint.com/technology/gadgets/wireless-printers-under-rs-10000-for-effortless-printing-at-home-and-office-top-7-picks-from-canon-hp-and-others-11755523573105.html
+- ChatGPT goes desi: New  ₹399 subscription with GPT-5, OpenAI now allows UPI payments in Indian currency
+  OpenAI has launched ChatGPT Go in India for  ₹399/month. The plan includes access to GPT-5, faster image creation, and
+  🔗 https://www.livemint.com/technology/tech-news/chatgpt-goes-desi-new-rs-399-subscription-with-gpt-5-openai-now-allows-upi-payments-in-indian-currency-11755598905093.html
 
-- ChatGPT Go subscription launched in India at  ₹399, offers 10x higher usage limits. All you need to know
-  The new ChatGPT Go plan from OpenAI is priced at  ₹399/month. Indian users can now
-  🔗 https://www.livemint.com/technology/tech-news/chatgpt-go-subscription-launched-in-india-at-rs-399-offers-10x-higher-usage-limits-all-you-need-to-know-11755572775351.html
+- iOS 26 brings a hidden iMessage feature you’ll want to try: All you need to know
+  Apple introduces Drafts folder in Messages, enabling better management of conversations. This update aims to improve user experience, especially against Android's established AI-powered
+  🔗 https://www.livemint.com/technology/tech-news/ios-26-brings-a-hidden-imessage-feature-you-ll-want-to-try-all-you-need-to-know-11755594825833.html
 
-- Google’s AI overviews can send you straight to scammers. Here's how to stay safe
-  Google's AI overviews have improved since their early days, but remain unreliable. Social meida users have reported being directed to scam numbers
-  🔗 https://www.livemint.com/technology/tech-news/googles-ai-overviews-can-send-you-straight-to-scammers-heres-how-to-stay-safe-11755569570821.html
+- Americans fear AI permanently displacing workers, Reuters/Ipsos poll finds
+  Americans fear AI permanently displacing
+  🔗 https://www.livemint.com/technology/tech-news/americans-fear-ai-permanently-displacing-workers-reuters-ipsos-poll-finds-11755597686695.html
 
-- Up to 70% off on the best headphones for gaming, music and entertainment: Top 10 options with modern design and features
-  The best headphones offer excellent audio performance, stylish design, extended battery life and advanced features. They are ideal for
-  🔗 https://www.livemint.com/technology/gadgets/up-to-70-off-on-the-best-headphones-for-gaming-music-and-entertainment-top-10-options-with-modern-design-and-features-11755522250694.html
+- Redmi 15 5G vs Poco M7 Plus 5G: Price, display, camera, battery, features and more compared
+  Redmi 15 5G and Poco M7 Plus 5G launched in India. Both models feature large batteries and comparable
+  🔗 https://www.livemint.com/technology/gadgets/redmi-15-5g-vs-poco-m7-plus-5g-price-display-camera-battery-features-and-more-compared-11755593715066.html
 
-- European Stock Futures Edge Up After Ukraine Meet: Markets Wrap - Bloomberg.com
-  European Stock Futures Edge Up After Ukraine
+- Global Stocks Steady as Ukraine Talks Continue: Markets Wrap - Bloomberg.com
+  Global Stocks Steady as Ukraine
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjhzZGhSeEt3TUg2bHdzdHRaSDNTR2ZTbElsNUR5QXJSVzNkSWtSd1hQNFFzOHJvZ3FVdjNTWWNNOHdvdkN6UlBpWVZuV3pyR21hdlVWS2hWaDNJTHItLUZUQ19CdjlvYXhaSG1nVFZVS2FaX0VnZUE3eG53c0Y3UUdIUEp3VUdlMmZaVU9jbVlZeGcw?oc=5
 
-- Sensex Today | Stock Market LIVE Updates: Sensex gains over 200 pts, Nifty above 24,900; auto, oil & gas ... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTmRMLUcwcm04SE5iaDFoMERoSUxsVk9GbENubE9famlmQzd5LVlLTDQ3Z0p3QnZ2VC1KUk5qQ19CSGxEY1RFQnlzMERoQVNXdXhpTG5VVmYxT19jNXZocGJnSlY3UEVyb1
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTmRMLUcwcm04SE5iaDFoMERoSUxsVk9GbENubE9famlmQzd5LVlLTDQ3Z0p3QnZ2VC1KUk5qQ19CSGxEY1RFQnlzMERoQVNXdXhpTG5VVmYxT19jNXZocGJnSlY3UEVyb1dzVlcxVlM4UDdHeGo3NWswY254WDN1ZzZMakp6ZHlwSnhrdHJoX0lLT1JNUk5IRTB3MU40N3BpS3NtRjBYeU9NUTFETE1kMlFrUmNKWlBYbF9GZ0s1R203RDNiQjBJWVY0OC1aRlBBTzhfeHZR0gHbAUFVX3lxTFAzODRnTWFWZUpTTndoMkhnNVZ2MmtycFpvS0ZNTW9jQWpMcWZ0UXZxS3E4Tk1VbXVISnFET0EtYzBPVE1PNHRzYUFnOGVodkVLcTRRSDFEQndYT3ROSVF5ejZ1aTkxMURiTmgtNXBIMDE5ZmRmaDBkYnZubTlYUldlZkdlTkFIeXE4UEFXYmxleVUxeHVFWGEzLXFVZk5CaE9ZamtFLXdjZHBKSndQNTBHS05NdXlBbXJ4TGlDU2pwZUlPcU9hd3FScnY4YUNvcXM5clROWm9OcDZqcw?oc=5
+- Stock futures tick down as retail earnings roll in, traders await Powell speech: Live updates - CNBC
+  Stock futures tick down as retail earnings roll in, traders await Powell
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5SS2RjeUx2c0t5dmhGWHZSLUNLbDlQUFppTHhtaXpZdGVHOGtSc0M0ODFaUFNWcE05OHM5RmFGSUdVcWRpRUJFdmNtRy1wWDd5Mi1RY01nejFHNm9QV1Q5b1RDY01RVW9GZHh4alg2eHZ2MHdJQk1F0gF8QVVfeXFMTkpOMkVkekw1U3A3LUg1ejQ2eDFYbWlSWDk1VnZhQm9qcEdVWFdMenhwUkpaOVQ4czg1VkFaZUpMSjk0MG1DOExrNWZIcklnOUU0RVREaDAyTTVkaW1lMC1xZUVpa0dncUtfRVJ2bHlsalJnXzBROFFNT2huTg?oc=5
 
-- Short-term bets on oil risky amid geopolitical uncertainty: Vandana Hari - The Economic Times
-  Short-term bets on oil risky amid geopolitical uncertainty
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUy1PdjdSakN3eEhhVzd3Y2gtNUtMSUtHaVpiREMwN2x1RnBsbFF4VkJ0NDFmNlN6TWxrRFFqckZlMGZCMXBzeHFxWEpCQjdTTkNPdlN2X1U0aHdTWTBJR3RCX1VEMlk5Qk00NWpEcUVUdUo3Nl9FMmZiSFkyYjk0b0t6U05ZdlI1RXM2UG00NmFaTEdhdWZRVklkSEZsUkhnakNBWFJ0MHdkcDQtZWJ0Z1pDZHh4S1F1MEsyN202NXRLemFwQWVzUUd6eFV3ZzJHLUVnR0x3V2F4c0RCM1ZJR3FuY9IB4wFBVV95cUxOUy1PdjdSakN3eEhhVzd3Y2gtNUtMSUtHaVpiREMwN2x1RnBsbFF4VkJ0NDFmNlN6TWxrRFFqckZlMGZCMXBzeHFxWEpCQjdTTkNPdlN2X1U0aHdTWTBJR3RCX1VEMlk5Qk00NWpEcUVUdUo3Nl9FMmZiSFkyYjk0b0t6U05ZdlI1RXM2UG00NmFaTEdhdWZRVklkSEZsUkhnakNBWFJ0MHdkcDQtZWJ0Z1pDZHh4S1F1MEsyN202NXRLemFwQWVzUUd6eFV3ZzJHLUVnR0x3V2F4c0RCM1ZJR3FuYw?oc=5
+- Markets News, Aug. 18, 2025: Stocks Close Little Changed as Major Indexes Hover Near Record Highs Ahead of Retail Sector Earnings - Investopedia
+  Markets News, Aug. 18, 2025: Stocks Close Little Changed as Major Indexes
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBwcEJhdWJhaWtlZVhFaXlvTV8yYVRRbEkweHhDbVBwN3RiVmNBRHlKUHJpQjVIMkw0OGlOakc5UlEwbjJQdkJVVEs4a2lOcXZmN09uQjItdlFRd2x0YXhIY3R2RkpTZ2dQVXBib1NrZw?oc=5
 
-- Small-cap stock below ₹200 jumps 5% as board to consider stock split on THIS date - Mint
-  Small-cap stock below ₹200 jumps 5% as
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN1oteHZJVi1wd282TmxwRU9sX3U4UV9QcUpvUi01M2lEamNvY0hXRU14bHN2RkM1cXhOcTBydURRNlA1cFc0NC1zM2VTdXFFdjZOc25SRW5uNkpVNDRUOWxXVUQ5bHFrUFU4OGZvcEFlaV9Qa19kNEp2Vm5mZzY5SjNKdk1raURna2FGN3dDUVJhWkdsVmRDRUh3aWI4SXBHdl8wUF9LZHFUMjJLS2pXdlB6SVduMmZDVTBORjdJVmxIVVByYlBfdFRWcWN4UGFoNmNBaVZKR2NuTS1FWWhPZzBzcU83QQ?oc=5
+- Closing Bell: Nifty near 25,000, Sensex gains 371 pts; broader indices shine - Moneycontrol
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxPU2RhSlpFNmp1V2lWQXJ5aTE3UnJtallramtJNktQSjE3Rk9na0FIMzVVNUVEVExZMnJXUUtId1d1Mk1hRUpYQ0s5ZEFIUmFnM3B6M3B6enV0LWZVaFlCc18xanZFSWY5SU
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPU2RhSlpFNmp1V2lWQXJ5aTE3UnJtallramtJNktQSjE3Rk9na0FIMzVVNUVEVExZMnJXUUtId1d1Mk1hRUpYQ0s5ZEFIUmFnM3B6M3B6enV0LWZVaFlCc18xanZFSWY5SUZEN09DbHRfTWJWN1Y3WFhjcXp2QlA5NDdtM3dzZG9Vc2NnSnF3eXlXUTd1c1dkZnRCY01UQlgxbGRYSjl1dzJoN2t5alFjNUs0UWltS1BHNzZ3SkFtOEJUVnNtd2N5eWgzSjZ5UHJnaGVEZXRPQ2MtaGVGaVRCMVg2TkJ1U0ZmQ01iUdIB8gFBVV95cUxQQTVXenpYZXdKYlE1Z1hfN0JLSnc1Wnl0LV92dDkwY3duZUxsVklMRjdqb0Vlc1R6TDh5ZXA5VkpuYWlSUkpXVDJjQjRYbFdKRUFhZGdkZW1mbmppTDFoY2RZY2FIU3FYaVBYR01NQUFDb2JmaHJnZk42YmxwZzhFMnZZY1BKUzM1YTZ0dVQyejFZbzZFVG1kamEtXzdWcGR4OFhqT1huX0U5VUc1UUsyaV9RTWdCRlVLYzdITUFnYnd5ei1raXZWX1BtNHZvWnNrWXhlSWFKa2dyYTBtcVd4bkxmaUVtWjBCS1RoelpTUnJVUQ?oc=5
 
-- Asia-Pacific markets track Wall Street declines ahead of U.S. Fed meeting - CNBC
-  Asia-Pacific markets track Wall Street declines ahead
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa0lvUTcwV1FDTlM2bTVDRC1fSDJkNEJMejZ5YmRPV2RUbEQxdWhIVXJvZTIxSGhXZ1MyTm5FaWNocEZqVmt5ZEVoWjA4MVBZT0xJY0tINWRiQmJLX0JIRC1wd1FrOXo0UlNzMnlKTWhMYTFsMlZxb3pJUU5JYndNQjd4TkVWVkV4ckIyeTB0Y0hsWmFoNEZsaHJNSU5SdHdIUHQ2UG5uZDlrMWN1QWd3dnJqb3ZNa1V0QjFYYTlnaHVSTkhGYlB2Z1JZR29tR2x0RldJ0gHYAUFVX3lxTE5YWHVoclVwV3pDYmFHZVBiNnJ3MHZvclA2eF9xRkozTlN4dEo0cGdJWmxlYk80SWo0aUI5bHV5a2NnbjBxcnBOajFyZmduQmlLTXBNMC1kU1ZwNkdsVFFOWEFHOEpkTFI0Q2d6a3d0TW5aUVgzal9VeVhmeTJfS0ZrbUk3ZEJ4QnZ3Z1dmTm1TREVDbDc3TEhpYVlVUEtqVjZSR0xGbzdEYmdPZWVCUVNKTWM3em9QenNmUlNkd0t0YzlpNFlTUENOTUF2aXExS3MwNURIMkh5Vw?oc=5
+- Morgan Stanley: AI boom could add $16 trillion to markets, but workers may pay the price as 90% jobs may b - The Economic Times
+  The Economic Times says AI could add $16 trillion to markets, but workers may pay the price as
+  🔗 https://news.google.com/rss/articles/CBMiyAJBVV95cUxNMEZyR2ZianJ3ekRSV2M5Nm1McmgybU9RMU9NOEZqazMyVzdoemNWUGZJZDdaX1FfQ2dxRFpZLXdsQktxWVgzRHprbWhRa1FEU0pHM2t5cWpEY2h5aThISWdRNlg2Zmt1SG1tMVdZOGdCTWxZN0N5aHFPNkRZa2ZRV1pjb2VwSWVWMWZxakFaNU9PX1Jmcjg1UzNEM3Jmb0tOWnYxZkg5aVZvbnhGSXVkdXlNMjNVSUZyUXQtUFJYcFdwWmxCNklseUVTbHpBMmRWcEF4OTllZnVzS25tb20xRG56VDI4QU9jenlOZVdpNkRQeUtOZkV2NkVKN3UzZXZNVmJzNWJ2Q25ubEIyeVU0SHpmV0tLRWMxQndzNDZfYUZ0d1VDRlF1QW5iWkdGQlFMcG5ONUd4emQzcU1GcmFESW95TlZUTVZr0gHOAkFVX3lxTFBtcHNpdWRXVlFfeTM1NURUVWFTOTRYX0dpek5zTHJJQVZmdzF2SnRKSkJVb1JSOUppMlhqU2stQkp2SXUxZ0VteDdRSlBWeXMzNjFNbi1IbG42YUpmcG1mVXA3cC10WWJnNE05dnItX2F4WTlTajVNYjRsMm14MVh2NjBWNDJWbHNaTGctN3dqbloyVGVKa1pKTk44c0Z0SU1lcy0wQTZYQzBVMUlSTUZDMDNnMW5PZzQ5UWRVakE3N18wV3EzdGVMQThhSFdyNGJhLTBUczBEbUE1bjcwUTR6Sk1rVE51UkxQVlAwV01jYmcwMWtFTl9fVnZ6LUdhZzRHZFV6VXV1bnpMa1NVRzZHZGZVX1d3aUtaM3E2VlZnRmJKSjNIc3BMcE9rTjhCMWhxNWdvQTZLeVg1YjIyYmxNLVJHTjl1OXVjSlg2UlE?oc=5
 
-- Hyundai Motor India shares soar 12% in 2 days to hit new all-time high amid surge in trade volumes
-  Hyundai Motor India shares scaled a new record high of Rs 2,511.20 on the BSE. The stock now trades nearly 30% above its listing price. In Q1FY26, the automaker posted an 8%
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hyundai-motor-india-shares-soar-12-in-2-days-to-hit-new-all-time-high-amid-surge-in-trade-volumes/articleshow/123379338.cms
+- Gainers &amp; Losers: Ola Electric, Delta Corp among 6 top movers on Tuesday. Here’s why
+  Indian markets logged a second day of gains on Tuesday, lifted by auto and FMCG stocks. Key movers included All Time Pl
+  🔗 https://economictimes.indiatimes.com/markets/web-stories/gainers-amp-losers-ola-electric-delta-corp-among-6-top-movers-on-tuesday-heres-why/slideshow/123387355.cms
 
-- Vardhman Textiles, other textile stocks rally up to 9% after Govt removes cotton import duty
-  The government has temporarily removed the 11% duty on cotton imports. Industry bodies say the move will boost competitiveness against peers like Bangladesh and Vietnam.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vardhman-textiles-other-textile-stocks-rally-up-to-9-after-govt-removes-cotton-import-duty/articleshow/123379193.cms
+- These 5 Nifty stocks drove 80% of Q1FY26 earnings growth. Is it time to Buy?
+  Reliance, Airtel, SBI, HDFC Bank, and ICICI Bank drove 77% of incremental gains. Broader sectors showed mixed performance
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/these-5-nifty-stocks-drove-80-of-q1fy26-earnings-growth-is-it-time-to-buy/articleshow/123387014.cms
 
-- Inflation, not geopolitics, will guide Fed decisions: Andrew Ferris
-  The S&amp;P is underperforming European and Asian markets. Andrew Ferris, CEO of Ecognosis Advisory, advises clients to reduce US holdings.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/inflation-not-geopolitics-will-guide-fed-decisions-andrew-ferris/articleshow/123378924.cms
+- Antique initiates buy call on Zen Technologies shares despite 43% fall in 1 year, sees 31% upside
+  The smallcap counter is a fundamental pick, which is valued at 32X 1HFY28E EPS. Brokerage firm Antique Stock Broking has initiated coverage on
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/antique-initiates-buy-call-on-zen-technologies-shares-despite-43-fall-in-1-year-sees-31-upside/articleshow/123386508.cms
 
-- India bonds fall; 10-year yield hits 4-month high as fiscal worries sap demand
-  Indian government bonds declined following the proposed tax overhaul. Officials assure the fiscal deficit goal remains achievable. But traders fear the tax reform could widen budget deficits.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-fall-10-year-yield-hits-4-month-high-as-fiscal-worries-sap-demand/articleshow/123378951.cms
+- Euro zone bonds struggle for direction after Ukraine talks, eyes on Jackson Hole
+  Euro zone government bonds were in a holding pattern on Tuesday. traders looked ahead to a symposium of global central bankers later in the week.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bonds-struggle-for-direction-after-ukraine-talks-eyes-on-jackson-hole/articleshow/123385561.cms
 
-- JGBs fall after weaker-than-expected 20-year bond auction
-  Japanese government bonds experienced a decline. The 20-year JGB yield increased. Market participants are closely watching the Bank of Japan's potential rate hike in December.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/jgbs-fall-after-weaker-than-expected-20-year-bond-auction/articleshow/123378926.cms
+- Rupee appreciated 40 paise to close at 86.99 against US dollar
+  The rupee appreciated 40 paise to close at 86.99 (provisional) against the US dollar
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-appreciated-40-paise-to-close-at-86-99-against-us-dollar/articleshow/123385474.cms
 
-- Constructive approach to ties, de-escalation essential, EAM to Wang - Times of India
-  "Constructive approach to ties, de-
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUJqWWh0aUVEUFdiek9LM09nTG1pSkJIMWI4ekswWU1SUEh4VFlEQl95ZDFrQ1U3YjlrVjNqVHBnWEd3eVU3TFFjTEJYQlFxV3UyWHE2cFMxODBMYTYtTTBhdG1uVWNYcURHZ2lSYXBkdlptTWJnRnFKM2QwWTI4ZXoyaWZERzBUVlZ1VGtRWHdzVlhuS0VreVdXVnJRaU1HYkNNdXBhWHVLV1kzM1BQNXRCYVVlTjdxQXfSAb8BQVVfeXFMUGdiM2xtRnljOGk5anRnam4tcGsyQVV5cW5nQlhGWlNvUmxWX3JyTFVwQ0U5U0FmVmUzQlplRkdLMWtwZzhtbnh2YlBBWFR4RHI3Ni0tSTBVX0phSnkxV0tLek9odUE3cVNQR19OREFVaUJmWmdPeE5xLTRZQ3pQM09uQTE0WjN0a21nZkxqcTNvVlQ4amxOOEhDUGd5T2F1WjdOZ2E5eTlFNnR4YzdQWUlrTW5OUmdPOU1qeFZCbm8?oc=5
+- Wang Yi: China and India should be partners, not adversaries says foreign minister - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IQUNfajRkbjJJWjF0TzBkaEZoTWgtLUJKcWUyZGlzakZRNmlPWVVfc1NrbHdoNzhoOXNJaUwtZ04xMjhrdUVzWFpjUUdlZWZsVUlDWl9TbVVwZ9IBX0FVX3lxTE1VdUEwc2
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IQUNfajRkbjJJWjF0TzBkaEZoTWgtLUJKcWUyZGlzakZRNmlPWVVfc1NrbHdoNzhoOXNJaUwtZ04xMjhrdUVzWFpjUUdlZWZsVUlDWl9TbVVwZ9IBX0FVX3lxTE1VdUEwc2Y2UDdxT2ljUTdKUFJzNVpDTk1QS3AxUUc0cFZYYU12c2dzcXEtclRnMDhMQTJESVlyU1lvcG15LXNKbEp1c0RrRFZMeVVDaFdvN3RPRFFqTS1v?oc=5
 
-- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
-  "India Like Mercedes": Pak Minister Doubles Down
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
+- Woman Watches Web Series On Crimes, Studies Murder Cases Before Killing Husband - NDTV
+  Woman Watches Web Series On Crimes, Studies Murder
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQSC1abF9zOVJyb3RmRFVmdU1KdWJYS0hlcExTVmUydXNycExfdGhrSy1jVFhHcGl6Ym1UYUFUUU1kNTlwazZwSWk4NE5mM0lEOTVtblRDeG1zdWZmdkVQb2NwYm9MMDc2eXBLV0pwTGZyNEN3YjJtaW1MdWVjR2ZVclBJMFhTaXhJS3Nhd25YNWNfSjFRaFp6NkdQbi01aGozUHNwRG9QcUdwVk5MTGhNXzE5UVo1ZmxSWFdXTU1EUWN1WEFTd1pr0gHPAUFVX3lxTE5nYUhBaS1MVnlkTUY1M0ZueGw1QmVnbXNudnRxU2VFV0tIczluNzNvOG5MWngwYVRQYlk5alNiVFY2WFBmMEtJbmxDXzhTVC01Sm9yTld6cUhGTHA2Q2xiRG1oZGplajlhNVVJeUczd09Ndm4tUFM2WFNWMlM0R2FpRE9oZVBoZnh5ZG15OGJSMnVrNlNSdUhXOVlYRFVDaHNkNmFwWHZ0eGYydjZUb0VuNGdLNjhPaWM5d3QzSlMxSXQtYmQ5d3oxRk1DUWF2bw?oc=5
 
-- Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention | Latest News India - Hindustan Times - Hindustan Times
-  Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention.
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSDBJbVA2LXllTndlMnJtaVQxY1RveUVUSEpJNG90bjZMRE5aSEU0ZmFqMUh0X1hocTVrWmxWVE5COWNkcVdMT25uYnRDbS1VNGhGQ2gwXy1QZGxwa054LWNLNzh5Nnp0Zm5CUktWdlVKbXdNNm54U0x3RlNRZkZqYVJKMlVNcC1aUWsxZDJPd2FybXkzNzZESXhYUHVELTNZVUZmTU9SZmVkT1lXNXNqVFJMLVM0SUd0RTBrNjZxU0lXeTFNS1lEZTNUREdnTU5zMlMwb2JIc9IB3AFBVV95cUxPbjJ0NlZfZ1N2aURQN05RS25uOVU4QTdYdHNhZ3R1QWZXWmMzRHFuWElOOC12dUQxV3hTRTh3anJUYVE3dC1hcVlYREdNMkhfeEdYRzBDdlhxcm9PbWxvREg3REcxQi1OWDI2SGQ0eTlRb1l6RG81Z19wRUV1anktM0tYdDJEN1prcTE2MlFORlU4UURzajR4TDNiOHphSE9VQlZHaWpwUVRXTnVPRDIwQ1NhRFVWM05pVURHazdiQzlRSl84eFdIOXdyYlJqdEpkR3kzdnhOaVppdnNR?oc=5
+- Rahul Gandhi's Car Hits Cop During Bihar Yatra, BJP's "Crush Janta" Jibe - NDTV
+  Rahul Gandhi's car hits cop during Bihar Y
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTFpZEVlODA5UFlnV0tQeW5GWDExbjctTHdpZ0VSeFlZRnZxMjZRdHlPTFdGdWR0Q1NyQ3h0TTJVMm5kVkc1ZFRldXl1eHRkcGdnYkRxN3Y2Q0lpVjczWUR5WXBjS1VoMnBzR0FNcnpsNDdvVTBYUUZTdGFWUk1tN0tGSU91MTE0eXllNkJKV3dfVVdzMjRpUmUyQldXVFBPQWdqZlQxRmx3RG_SAbMBQVVfeXFMUGpZX2JXbFA2al9YNDFNQlZoRHhCUFdNeV82S1dudHZLYmJDQXFyNU0tbG1OdlVTcmhlYVY2aEpiVUhJbWcxeGItRmRXUHRqb2tuWVZiVk5YSTZrNkxSSjZqaHF1clVhc1VsdDg4RGI4UldlWHdjUGwxdFdaWjBvalY5RHR4MUZSME1qZTExNGYxdGtRMFlSa0pOckFQTUNhOUVqNVI2bThsdEZVczFoN1hNNWs?oc=5
 
-- How Irish nationalists inspired a future Indian President - The Indian Express
-  How Irish nationalists inspired a future Indian President
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVlKVWVaTVhmeGdJNnhtSlZMa1E0NklqejFFYW9xMjA1TkpxendCTVJLZjRNTTlpWWZhVXBFb2hRMWprMk5vbndLWDNjZjFKM2ppbDAxQ2k1Y1hCVDBkQTV0aTl6Ym1vM0g3cmt0QmlPY0tmdjBseXJoV1JmMkN3MHZTSnhwWlVmX0d4Z05CMnhaZVU0bnRscFRfcENMVkRTUVAwXzJ1WFBYTV9aSnlQdmxmLWtvdkp1NnJwVElTdnMtb1VoaEFtUdIBzwFBVV95cUxPTDh6Qnd4eEpQSXpiTjJGampZdkZyYXlfNDRaNFV6NVI0c09MdnBVZmtKNGFzNk00Ql93emhDMTE2NnRUNFdkRWUxMnFoZFRxRWRlSFQzeTgzOE4xalc4cGlDd2Jab3BrdUhWQURfclYzWmFySXdrRk14NnZuWGM2ZVZEcWxoaERycFQ2VTMzMDBfNjhaLVlPbVcxRGlfTkplVUN6R094ZmxxMTVuRDliOXZxalRKbUFvNzBBTlNfcmlJaUhBLUkwSjd5UVMwSXc?oc=5
+- Trump holds off secondary sanctions for China, claims India no longer buying Russian oil - The Hindu
+  The Hindu reports that India is no longer buying Russian oil.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUZvWnUtUTQtNnlLVU9vZ1pEeFd4OXJsUzRhZlJFeHNhcFJWMHo0QW81dGVGbHFjWFo4bmV0YlJBS2JsRkF3c0ctQnFSVEVIUElKRW52Wk5hV0FmV0FnaWJTLWFoYkdpOGVfUXBiUTZ6QnZZSDVwamtRTHJsdEprNDJyTEdaY2xiNUxYSzctYlNoOEVMYzQ0VHM5eFQ4WUVKNWZhLXZ0Y0hKejUxMGRYaDhOei1uN3JvR0tVem5yYmcwWklHaWtwYjc5dy1QSVVoY3N0NmdMRDVpckFEbHNr0gHmAUFVX3lxTE42SmFEZTMwVDBGaldkWmNVQ0hZbk9vTVFkVkgyMkxYdktyd2hDZWdQRllmNWRWZnJndktRcmI3aXIxU0JTOXl4N3htVkRzM19LVmZGb2k0WWxfeUYxV0p6XzUzUHdMWWl5OXRkay12VFpBTFA4WmtsRHJlcGN3NU5SNkFFdmtfc05LSDAwM24xb3BsTGVwOXlVSXhwX0I1cGFURWFJYUdVREVPWlkzbm14WUpUVm8yYmV1ZDZ0OS1wRVJnU0FPWEN6MjdxTXhXdVFzUmVYVmpncTVDY1hnN2VNZm4yUVB3?oc=5
 
-- Lot of interest about Gaganyaan world over: Shubhanshu Shukla tells PM Modi - The Hindu
-  The Hindu: Gaganyaan world over: Sh
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNZklvNzZaajlwQXhBdjdIel9qd2pxVDBNLXI5eTRUd1ZTNlYyQnhNVkxsTWV5eWZSdU5BTmVibEFTd09EVWlVSkQydlR6M0Z2WVIzV1drd2taQkJWQlJhLXNOUF9neU4zaDc4MnFDbUpJcHpOb1ZNTDVPaHJTYWxBeVA4a08zaS1DRHRWRFJIVG1PV1Bua2g3d2lZVW1aTFA1RmNFNlJNR1FiOHJEeXpBc2VpeWZQSUduSTFyUFREeEVucGJCb0ZnT3pEMlVoUdIB1AFBVV95cUxPTjZrcEs0MW9nWXF6QlBGbTJJN2hPV0tLUzJyWm1wbmlaQXgybFVfdkFQWDRHNk1XZzAwUWNkRGJRaFd1aUtqcXhZOGY2cjJuMWV1MXdVMUFiLXpCXzVGeUFoeHhYWGlOLXNDRUFMdE5idUtQSk0zdmVGV08wWWVsNEtQc0RETTk4MkpLcThXMnF5WXRWelZEb1JXaUM5MUhhVUhvZTZET3BUNWZmUmhDeE4zVF8wUXNqSnFySFAwOFRGaXZsMVNMdkRVSjJGOGpSN3ZCWQ?oc=5
+- Top News Headlines of August 18, 2025 | ‘You look fabulous in that suit’: Trump and Zelenskyy share light moment at White House - The Indian Express
+  The Indian Express reported that Zelenskyy and Trump had a light moment at the White House.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN1ZTalBvbm43dzhXRWs4QU5JRDlzTW5rZzQ3QktVQUlnUEF4SThiU2lfZ2J0RV9KNlJoQTBEN2ttNlJYdmY1WFAtTkJVQjFKX1pxbUpxRG1QZVlURjljZUs2TElYS3pWVm5nSlUwOEdkekJybWFLelc3VWVTcXBoM0czeHBUSWZsaERnVnRJVzJ0bVp5eHUtM3lucmFkbkRCMFF1aG9iME1oaEV0M20tV0RvZ2VxTjgxMy11TmZGWWVrcGRDS1VqV1poQ2FYdGw3U1Bjcml1QUtMQXg3THVZUzNkRk5UeHBW0gHvAUFVX3lxTFAxX196V0VmLS1CZUtyTWUxbFAtUm4xTmlPMWFQR1VQUDNvS0hRZEtxNEpiOFRmYk9ydVVIa3dQbmlBejFROHQzR1M2UTljZE56WkN3ZkkyN1UxamRSdDd0WURxcnBCNzJYZFVwY3h6TjFWRDNJYjZ4UGdaV0NLZVRsRkdpR3BsM1VzcXp3WmZLSFFQNVdyWnNET0NIbmtkS0FNOTN6eWEzNG1fTVJxOHEzLWs3TFRobTl5S3NzRXBydDJjTzczUzhTZC1lYUo0YTZFaHV3bzVGTWpYcmNGNVNTZ3dzVmRKdEQ0bVNZcmFr?oc=5
 
-- Constructive approach to ties, de-escalation essential, EAM to Wang - Times of India
-  "Constructive approach to ties, de-
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUJqWWh0aUVEUFdiek9LM09nTG1pSkJIMWI4ekswWU1SUEh4VFlEQl95ZDFrQ1U3YjlrVjNqVHBnWEd3eVU3TFFjTEJYQlFxV3UyWHE2cFMxODBMYTYtTTBhdG1uVWNYcURHZ2lSYXBkdlptTWJnRnFKM2QwWTI4ZXoyaWZERzBUVlZ1VGtRWHdzVlhuS0VreVdXVnJRaU1HYkNNdXBhWHVLV1kzM1BQNXRCYVVlTjdxQXfSAb8BQVVfeXFMUGdiM2xtRnljOGk5anRnam4tcGsyQVV5cW5nQlhGWlNvUmxWX3JyTFVwQ0U5U0FmVmUzQlplRkdLMWtwZzhtbnh2YlBBWFR4RHI3Ni0tSTBVX0phSnkxV0tLek9odUE3cVNQR19OREFVaUJmWmdPeE5xLTRZQ3pQM09uQTE0WjN0a21nZkxqcTNvVlQ4amxOOEhDUGd5T2F1WjdOZ2E5eTlFNnR4YzdQWUlrTW5OUmdPOU1qeFZCbm8?oc=5
+- Wang Yi: China and India should be partners, not adversaries says foreign minister - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IQUNfajRkbjJJWjF0TzBkaEZoTWgtLUJKcWUyZGlzakZRNmlPWVVfc1NrbHdoNzhoOXNJaUwtZ04xMjhrdUVzWFpjUUdlZWZsVUlDWl9TbVVwZ9IBX0FVX3lxTE1VdUEwc2
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IQUNfajRkbjJJWjF0TzBkaEZoTWgtLUJKcWUyZGlzakZRNmlPWVVfc1NrbHdoNzhoOXNJaUwtZ04xMjhrdUVzWFpjUUdlZWZsVUlDWl9TbVVwZ9IBX0FVX3lxTE1VdUEwc2Y2UDdxT2ljUTdKUFJzNVpDTk1QS3AxUUc0cFZYYU12c2dzcXEtclRnMDhMQTJESVlyU1lvcG15LXNKbEp1c0RrRFZMeVVDaFdvN3RPRFFqTS1v?oc=5
 
-- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
-  "India Like Mercedes": Pak Minister Doubles Down
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
+- Woman Watches Web Series On Crimes, Studies Murder Cases Before Killing Husband - NDTV
+  Woman Watches Web Series On Crimes, Studies Murder
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQSC1abF9zOVJyb3RmRFVmdU1KdWJYS0hlcExTVmUydXNycExfdGhrSy1jVFhHcGl6Ym1UYUFUUU1kNTlwazZwSWk4NE5mM0lEOTVtblRDeG1zdWZmdkVQb2NwYm9MMDc2eXBLV0pwTGZyNEN3YjJtaW1MdWVjR2ZVclBJMFhTaXhJS3Nhd25YNWNfSjFRaFp6NkdQbi01aGozUHNwRG9QcUdwVk5MTGhNXzE5UVo1ZmxSWFdXTU1EUWN1WEFTd1pr0gHPAUFVX3lxTE5nYUhBaS1MVnlkTUY1M0ZueGw1QmVnbXNudnRxU2VFV0tIczluNzNvOG5MWngwYVRQYlk5alNiVFY2WFBmMEtJbmxDXzhTVC01Sm9yTld6cUhGTHA2Q2xiRG1oZGplajlhNVVJeUczd09Ndm4tUFM2WFNWMlM0R2FpRE9oZVBoZnh5ZG15OGJSMnVrNlNSdUhXOVlYRFVDaHNkNmFwWHZ0eGYydjZUb0VuNGdLNjhPaWM5d3QzSlMxSXQtYmQ5d3oxRk1DUWF2bw?oc=5
 
-- Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention | Latest News India - Hindustan Times - Hindustan Times
-  Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention.
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSDBJbVA2LXllTndlMnJtaVQxY1RveUVUSEpJNG90bjZMRE5aSEU0ZmFqMUh0X1hocTVrWmxWVE5COWNkcVdMT25uYnRDbS1VNGhGQ2gwXy1QZGxwa054LWNLNzh5Nnp0Zm5CUktWdlVKbXdNNm54U0x3RlNRZkZqYVJKMlVNcC1aUWsxZDJPd2FybXkzNzZESXhYUHVELTNZVUZmTU9SZmVkT1lXNXNqVFJMLVM0SUd0RTBrNjZxU0lXeTFNS1lEZTNUREdnTU5zMlMwb2JIc9IB3AFBVV95cUxPbjJ0NlZfZ1N2aURQN05RS25uOVU4QTdYdHNhZ3R1QWZXWmMzRHFuWElOOC12dUQxV3hTRTh3anJUYVE3dC1hcVlYREdNMkhfeEdYRzBDdlhxcm9PbWxvREg3REcxQi1OWDI2SGQ0eTlRb1l6RG81Z19wRUV1anktM0tYdDJEN1prcTE2MlFORlU4UURzajR4TDNiOHphSE9VQlZHaWpwUVRXTnVPRDIwQ1NhRFVWM05pVURHazdiQzlRSl84eFdIOXdyYlJqdEpkR3kzdnhOaVppdnNR?oc=5
+- Rahul Gandhi's Car Hits Cop During Bihar Yatra, BJP's "Crush Janta" Jibe - NDTV
+  Rahul Gandhi's car hits cop during Bihar Y
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTFpZEVlODA5UFlnV0tQeW5GWDExbjctTHdpZ0VSeFlZRnZxMjZRdHlPTFdGdWR0Q1NyQ3h0TTJVMm5kVkc1ZFRldXl1eHRkcGdnYkRxN3Y2Q0lpVjczWUR5WXBjS1VoMnBzR0FNcnpsNDdvVTBYUUZTdGFWUk1tN0tGSU91MTE0eXllNkJKV3dfVVdzMjRpUmUyQldXVFBPQWdqZlQxRmx3RG_SAbMBQVVfeXFMUGpZX2JXbFA2al9YNDFNQlZoRHhCUFdNeV82S1dudHZLYmJDQXFyNU0tbG1OdlVTcmhlYVY2aEpiVUhJbWcxeGItRmRXUHRqb2tuWVZiVk5YSTZrNkxSSjZqaHF1clVhc1VsdDg4RGI4UldlWHdjUGwxdFdaWjBvalY5RHR4MUZSME1qZTExNGYxdGtRMFlSa0pOckFQTUNhOUVqNVI2bThsdEZVczFoN1hNNWs?oc=5
 
-- How Irish nationalists inspired a future Indian President - The Indian Express
-  How Irish nationalists inspired a future Indian President
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVlKVWVaTVhmeGdJNnhtSlZMa1E0NklqejFFYW9xMjA1TkpxendCTVJLZjRNTTlpWWZhVXBFb2hRMWprMk5vbndLWDNjZjFKM2ppbDAxQ2k1Y1hCVDBkQTV0aTl6Ym1vM0g3cmt0QmlPY0tmdjBseXJoV1JmMkN3MHZTSnhwWlVmX0d4Z05CMnhaZVU0bnRscFRfcENMVkRTUVAwXzJ1WFBYTV9aSnlQdmxmLWtvdkp1NnJwVElTdnMtb1VoaEFtUdIBzwFBVV95cUxPTDh6Qnd4eEpQSXpiTjJGampZdkZyYXlfNDRaNFV6NVI0c09MdnBVZmtKNGFzNk00Ql93emhDMTE2NnRUNFdkRWUxMnFoZFRxRWRlSFQzeTgzOE4xalc4cGlDd2Jab3BrdUhWQURfclYzWmFySXdrRk14NnZuWGM2ZVZEcWxoaERycFQ2VTMzMDBfNjhaLVlPbVcxRGlfTkplVUN6R094ZmxxMTVuRDliOXZxalRKbUFvNzBBTlNfcmlJaUhBLUkwSjd5UVMwSXc?oc=5
+- Trump holds off secondary sanctions for China, claims India no longer buying Russian oil - The Hindu
+  The Hindu reports that India is no longer buying Russian oil.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUZvWnUtUTQtNnlLVU9vZ1pEeFd4OXJsUzRhZlJFeHNhcFJWMHo0QW81dGVGbHFjWFo4bmV0YlJBS2JsRkF3c0ctQnFSVEVIUElKRW52Wk5hV0FmV0FnaWJTLWFoYkdpOGVfUXBiUTZ6QnZZSDVwamtRTHJsdEprNDJyTEdaY2xiNUxYSzctYlNoOEVMYzQ0VHM5eFQ4WUVKNWZhLXZ0Y0hKejUxMGRYaDhOei1uN3JvR0tVem5yYmcwWklHaWtwYjc5dy1QSVVoY3N0NmdMRDVpckFEbHNr0gHmAUFVX3lxTE42SmFEZTMwVDBGaldkWmNVQ0hZbk9vTVFkVkgyMkxYdktyd2hDZWdQRllmNWRWZnJndktRcmI3aXIxU0JTOXl4N3htVkRzM19LVmZGb2k0WWxfeUYxV0p6XzUzUHdMWWl5OXRkay12VFpBTFA4WmtsRHJlcGN3NU5SNkFFdmtfc05LSDAwM24xb3BsTGVwOXlVSXhwX0I1cGFURWFJYUdVREVPWlkzbm14WUpUVm8yYmV1ZDZ0OS1wRVJnU0FPWEN6MjdxTXhXdVFzUmVYVmpncTVDY1hnN2VNZm4yUVB3?oc=5
 
-- Lot of interest about Gaganyaan world over: Shubhanshu Shukla tells PM Modi - The Hindu
-  The Hindu: Gaganyaan world over: Sh
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNZklvNzZaajlwQXhBdjdIel9qd2pxVDBNLXI5eTRUd1ZTNlYyQnhNVkxsTWV5eWZSdU5BTmVibEFTd09EVWlVSkQydlR6M0Z2WVIzV1drd2taQkJWQlJhLXNOUF9neU4zaDc4MnFDbUpJcHpOb1ZNTDVPaHJTYWxBeVA4a08zaS1DRHRWRFJIVG1PV1Bua2g3d2lZVW1aTFA1RmNFNlJNR1FiOHJEeXpBc2VpeWZQSUduSTFyUFREeEVucGJCb0ZnT3pEMlVoUdIB1AFBVV95cUxPTjZrcEs0MW9nWXF6QlBGbTJJN2hPV0tLUzJyWm1wbmlaQXgybFVfdkFQWDRHNk1XZzAwUWNkRGJRaFd1aUtqcXhZOGY2cjJuMWV1MXdVMUFiLXpCXzVGeUFoeHhYWGlOLXNDRUFMdE5idUtQSk0zdmVGV08wWWVsNEtQc0RETTk4MkpLcThXMnF5WXRWelZEb1JXaUM5MUhhVUhvZTZET3BUNWZmUmhDeE4zVF8wUXNqSnFySFAwOFRGaXZsMVNMdkRVSjJGOGpSN3ZCWQ?oc=5
+- Top News Headlines of August 18, 2025 | ‘You look fabulous in that suit’: Trump and Zelenskyy share light moment at White House - The Indian Express
+  The Indian Express reported that Zelenskyy and Trump had a light moment at the White House.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN1ZTalBvbm43dzhXRWs4QU5JRDlzTW5rZzQ3QktVQUlnUEF4SThiU2lfZ2J0RV9KNlJoQTBEN2ttNlJYdmY1WFAtTkJVQjFKX1pxbUpxRG1QZVlURjljZUs2TElYS3pWVm5nSlUwOEdkekJybWFLelc3VWVTcXBoM0czeHBUSWZsaERnVnRJVzJ0bVp5eHUtM3lucmFkbkRCMFF1aG9iME1oaEV0M20tV0RvZ2VxTjgxMy11TmZGWWVrcGRDS1VqV1poQ2FYdGw3U1Bjcml1QUtMQXg3THVZUzNkRk5UeHBW0gHvAUFVX3lxTFAxX196V0VmLS1CZUtyTWUxbFAtUm4xTmlPMWFQR1VQUDNvS0hRZEtxNEpiOFRmYk9ydVVIa3dQbmlBejFROHQzR1M2UTljZE56WkN3ZkkyN1UxamRSdDd0WURxcnBCNzJYZFVwY3h6TjFWRDNJYjZ4UGdaV0NLZVRsRkdpR3BsM1VzcXp3WmZLSFFQNVdyWnNET0NIbmtkS0FNOTN6eWEzNG1fTVJxOHEzLWs3TFRobTl5S3NzRXBydDJjTzczUzhTZC1lYUo0YTZFaHV3bzVGTWpYcmNGNVNTZ3dzVmRKdEQ0bVNZcmFr?oc=5
 
-- Constructive approach to ties, de-escalation essential, EAM to Wang - Times of India
-  "Constructive approach to ties, de-
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUJqWWh0aUVEUFdiek9LM09nTG1pSkJIMWI4ekswWU1SUEh4VFlEQl95ZDFrQ1U3YjlrVjNqVHBnWEd3eVU3TFFjTEJYQlFxV3UyWHE2cFMxODBMYTYtTTBhdG1uVWNYcURHZ2lSYXBkdlptTWJnRnFKM2QwWTI4ZXoyaWZERzBUVlZ1VGtRWHdzVlhuS0VreVdXVnJRaU1HYkNNdXBhWHVLV1kzM1BQNXRCYVVlTjdxQXfSAb8BQVVfeXFMUGdiM2xtRnljOGk5anRnam4tcGsyQVV5cW5nQlhGWlNvUmxWX3JyTFVwQ0U5U0FmVmUzQlplRkdLMWtwZzhtbnh2YlBBWFR4RHI3Ni0tSTBVX0phSnkxV0tLek9odUE3cVNQR19OREFVaUJmWmdPeE5xLTRZQ3pQM09uQTE0WjN0a21nZkxqcTNvVlQ4amxOOEhDUGd5T2F1WjdOZ2E5eTlFNnR4YzdQWUlrTW5OUmdPOU1qeFZCbm8?oc=5
+- Wang Yi: China and India should be partners, not adversaries says foreign minister - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IQUNfajRkbjJJWjF0TzBkaEZoTWgtLUJKcWUyZGlzakZRNmlPWVVfc1NrbHdoNzhoOXNJaUwtZ04xMjhrdUVzWFpjUUdlZWZsVUlDWl9TbVVwZ9IBX0FVX3lxTE1VdUEwc2
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IQUNfajRkbjJJWjF0TzBkaEZoTWgtLUJKcWUyZGlzakZRNmlPWVVfc1NrbHdoNzhoOXNJaUwtZ04xMjhrdUVzWFpjUUdlZWZsVUlDWl9TbVVwZ9IBX0FVX3lxTE1VdUEwc2Y2UDdxT2ljUTdKUFJzNVpDTk1QS3AxUUc0cFZYYU12c2dzcXEtclRnMDhMQTJESVlyU1lvcG15LXNKbEp1c0RrRFZMeVVDaFdvN3RPRFFqTS1v?oc=5
 
-- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
-  "India Like Mercedes": Pak Minister Doubles Down
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
+- Woman Watches Web Series On Crimes, Studies Murder Cases Before Killing Husband - NDTV
+  Woman Watches Web Series On Crimes, Studies Murder
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQSC1abF9zOVJyb3RmRFVmdU1KdWJYS0hlcExTVmUydXNycExfdGhrSy1jVFhHcGl6Ym1UYUFUUU1kNTlwazZwSWk4NE5mM0lEOTVtblRDeG1zdWZmdkVQb2NwYm9MMDc2eXBLV0pwTGZyNEN3YjJtaW1MdWVjR2ZVclBJMFhTaXhJS3Nhd25YNWNfSjFRaFp6NkdQbi01aGozUHNwRG9QcUdwVk5MTGhNXzE5UVo1ZmxSWFdXTU1EUWN1WEFTd1pr0gHPAUFVX3lxTE5nYUhBaS1MVnlkTUY1M0ZueGw1QmVnbXNudnRxU2VFV0tIczluNzNvOG5MWngwYVRQYlk5alNiVFY2WFBmMEtJbmxDXzhTVC01Sm9yTld6cUhGTHA2Q2xiRG1oZGplajlhNVVJeUczd09Ndm4tUFM2WFNWMlM0R2FpRE9oZVBoZnh5ZG15OGJSMnVrNlNSdUhXOVlYRFVDaHNkNmFwWHZ0eGYydjZUb0VuNGdLNjhPaWM5d3QzSlMxSXQtYmQ5d3oxRk1DUWF2bw?oc=5
 
-- Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention | Latest News India - Hindustan Times - Hindustan Times
-  Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention.
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSDBJbVA2LXllTndlMnJtaVQxY1RveUVUSEpJNG90bjZMRE5aSEU0ZmFqMUh0X1hocTVrWmxWVE5COWNkcVdMT25uYnRDbS1VNGhGQ2gwXy1QZGxwa054LWNLNzh5Nnp0Zm5CUktWdlVKbXdNNm54U0x3RlNRZkZqYVJKMlVNcC1aUWsxZDJPd2FybXkzNzZESXhYUHVELTNZVUZmTU9SZmVkT1lXNXNqVFJMLVM0SUd0RTBrNjZxU0lXeTFNS1lEZTNUREdnTU5zMlMwb2JIc9IB3AFBVV95cUxPbjJ0NlZfZ1N2aURQN05RS25uOVU4QTdYdHNhZ3R1QWZXWmMzRHFuWElOOC12dUQxV3hTRTh3anJUYVE3dC1hcVlYREdNMkhfeEdYRzBDdlhxcm9PbWxvREg3REcxQi1OWDI2SGQ0eTlRb1l6RG81Z19wRUV1anktM0tYdDJEN1prcTE2MlFORlU4UURzajR4TDNiOHphSE9VQlZHaWpwUVRXTnVPRDIwQ1NhRFVWM05pVURHazdiQzlRSl84eFdIOXdyYlJqdEpkR3kzdnhOaVppdnNR?oc=5
+- Rahul Gandhi's Car Hits Cop During Bihar Yatra, BJP's "Crush Janta" Jibe - NDTV
+  Rahul Gandhi's car hits cop during Bihar Y
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTFpZEVlODA5UFlnV0tQeW5GWDExbjctTHdpZ0VSeFlZRnZxMjZRdHlPTFdGdWR0Q1NyQ3h0TTJVMm5kVkc1ZFRldXl1eHRkcGdnYkRxN3Y2Q0lpVjczWUR5WXBjS1VoMnBzR0FNcnpsNDdvVTBYUUZTdGFWUk1tN0tGSU91MTE0eXllNkJKV3dfVVdzMjRpUmUyQldXVFBPQWdqZlQxRmx3RG_SAbMBQVVfeXFMUGpZX2JXbFA2al9YNDFNQlZoRHhCUFdNeV82S1dudHZLYmJDQXFyNU0tbG1OdlVTcmhlYVY2aEpiVUhJbWcxeGItRmRXUHRqb2tuWVZiVk5YSTZrNkxSSjZqaHF1clVhc1VsdDg4RGI4UldlWHdjUGwxdFdaWjBvalY5RHR4MUZSME1qZTExNGYxdGtRMFlSa0pOckFQTUNhOUVqNVI2bThsdEZVczFoN1hNNWs?oc=5
 
-- How Irish nationalists inspired a future Indian President - The Indian Express
-  How Irish nationalists inspired a future Indian President
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVlKVWVaTVhmeGdJNnhtSlZMa1E0NklqejFFYW9xMjA1TkpxendCTVJLZjRNTTlpWWZhVXBFb2hRMWprMk5vbndLWDNjZjFKM2ppbDAxQ2k1Y1hCVDBkQTV0aTl6Ym1vM0g3cmt0QmlPY0tmdjBseXJoV1JmMkN3MHZTSnhwWlVmX0d4Z05CMnhaZVU0bnRscFRfcENMVkRTUVAwXzJ1WFBYTV9aSnlQdmxmLWtvdkp1NnJwVElTdnMtb1VoaEFtUdIBzwFBVV95cUxPTDh6Qnd4eEpQSXpiTjJGampZdkZyYXlfNDRaNFV6NVI0c09MdnBVZmtKNGFzNk00Ql93emhDMTE2NnRUNFdkRWUxMnFoZFRxRWRlSFQzeTgzOE4xalc4cGlDd2Jab3BrdUhWQURfclYzWmFySXdrRk14NnZuWGM2ZVZEcWxoaERycFQ2VTMzMDBfNjhaLVlPbVcxRGlfTkplVUN6R094ZmxxMTVuRDliOXZxalRKbUFvNzBBTlNfcmlJaUhBLUkwSjd5UVMwSXc?oc=5
+- Trump holds off secondary sanctions for China, claims India no longer buying Russian oil - The Hindu
+  The Hindu reports that India is no longer buying Russian oil.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUZvWnUtUTQtNnlLVU9vZ1pEeFd4OXJsUzRhZlJFeHNhcFJWMHo0QW81dGVGbHFjWFo4bmV0YlJBS2JsRkF3c0ctQnFSVEVIUElKRW52Wk5hV0FmV0FnaWJTLWFoYkdpOGVfUXBiUTZ6QnZZSDVwamtRTHJsdEprNDJyTEdaY2xiNUxYSzctYlNoOEVMYzQ0VHM5eFQ4WUVKNWZhLXZ0Y0hKejUxMGRYaDhOei1uN3JvR0tVem5yYmcwWklHaWtwYjc5dy1QSVVoY3N0NmdMRDVpckFEbHNr0gHmAUFVX3lxTE42SmFEZTMwVDBGaldkWmNVQ0hZbk9vTVFkVkgyMkxYdktyd2hDZWdQRllmNWRWZnJndktRcmI3aXIxU0JTOXl4N3htVkRzM19LVmZGb2k0WWxfeUYxV0p6XzUzUHdMWWl5OXRkay12VFpBTFA4WmtsRHJlcGN3NU5SNkFFdmtfc05LSDAwM24xb3BsTGVwOXlVSXhwX0I1cGFURWFJYUdVREVPWlkzbm14WUpUVm8yYmV1ZDZ0OS1wRVJnU0FPWEN6MjdxTXhXdVFzUmVYVmpncTVDY1hnN2VNZm4yUVB3?oc=5
 
-- Lot of interest about Gaganyaan world over: Shubhanshu Shukla tells PM Modi - The Hindu
-  The Hindu: Gaganyaan world over: Sh
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNZklvNzZaajlwQXhBdjdIel9qd2pxVDBNLXI5eTRUd1ZTNlYyQnhNVkxsTWV5eWZSdU5BTmVibEFTd09EVWlVSkQydlR6M0Z2WVIzV1drd2taQkJWQlJhLXNOUF9neU4zaDc4MnFDbUpJcHpOb1ZNTDVPaHJTYWxBeVA4a08zaS1DRHRWRFJIVG1PV1Bua2g3d2lZVW1aTFA1RmNFNlJNR1FiOHJEeXpBc2VpeWZQSUduSTFyUFREeEVucGJCb0ZnT3pEMlVoUdIB1AFBVV95cUxPTjZrcEs0MW9nWXF6QlBGbTJJN2hPV0tLUzJyWm1wbmlaQXgybFVfdkFQWDRHNk1XZzAwUWNkRGJRaFd1aUtqcXhZOGY2cjJuMWV1MXdVMUFiLXpCXzVGeUFoeHhYWGlOLXNDRUFMdE5idUtQSk0zdmVGV08wWWVsNEtQc0RETTk4MkpLcThXMnF5WXRWelZEb1JXaUM5MUhhVUhvZTZET3BUNWZmUmhDeE4zVF8wUXNqSnFySFAwOFRGaXZsMVNMdkRVSjJGOGpSN3ZCWQ?oc=5
-
-- Constructive approach to ties, de-escalation essential, EAM to Wang - Times of India
-  "Constructive approach to ties, de-
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUJqWWh0aUVEUFdiek9LM09nTG1pSkJIMWI4ekswWU1SUEh4VFlEQl95ZDFrQ1U3YjlrVjNqVHBnWEd3eVU3TFFjTEJYQlFxV3UyWHE2cFMxODBMYTYtTTBhdG1uVWNYcURHZ2lSYXBkdlptTWJnRnFKM2QwWTI4ZXoyaWZERzBUVlZ1VGtRWHdzVlhuS0VreVdXVnJRaU1HYkNNdXBhWHVLV1kzM1BQNXRCYVVlTjdxQXfSAb8BQVVfeXFMUGdiM2xtRnljOGk5anRnam4tcGsyQVV5cW5nQlhGWlNvUmxWX3JyTFVwQ0U5U0FmVmUzQlplRkdLMWtwZzhtbnh2YlBBWFR4RHI3Ni0tSTBVX0phSnkxV0tLek9odUE3cVNQR19OREFVaUJmWmdPeE5xLTRZQ3pQM09uQTE0WjN0a21nZkxqcTNvVlQ4amxOOEhDUGd5T2F1WjdOZ2E5eTlFNnR4YzdQWUlrTW5OUmdPOU1qeFZCbm8?oc=5
-
-- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
-  "India Like Mercedes": Pak Minister Doubles Down
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
-
-- Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention | Latest News India - Hindustan Times - Hindustan Times
-  Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention.
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSDBJbVA2LXllTndlMnJtaVQxY1RveUVUSEpJNG90bjZMRE5aSEU0ZmFqMUh0X1hocTVrWmxWVE5COWNkcVdMT25uYnRDbS1VNGhGQ2gwXy1QZGxwa054LWNLNzh5Nnp0Zm5CUktWdlVKbXdNNm54U0x3RlNRZkZqYVJKMlVNcC1aUWsxZDJPd2FybXkzNzZESXhYUHVELTNZVUZmTU9SZmVkT1lXNXNqVFJMLVM0SUd0RTBrNjZxU0lXeTFNS1lEZTNUREdnTU5zMlMwb2JIc9IB3AFBVV95cUxPbjJ0NlZfZ1N2aURQN05RS25uOVU4QTdYdHNhZ3R1QWZXWmMzRHFuWElOOC12dUQxV3hTRTh3anJUYVE3dC1hcVlYREdNMkhfeEdYRzBDdlhxcm9PbWxvREg3REcxQi1OWDI2SGQ0eTlRb1l6RG81Z19wRUV1anktM0tYdDJEN1prcTE2MlFORlU4UURzajR4TDNiOHphSE9VQlZHaWpwUVRXTnVPRDIwQ1NhRFVWM05pVURHazdiQzlRSl84eFdIOXdyYlJqdEpkR3kzdnhOaVppdnNR?oc=5
-
-- How Irish nationalists inspired a future Indian President - The Indian Express
-  How Irish nationalists inspired a future Indian President
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVlKVWVaTVhmeGdJNnhtSlZMa1E0NklqejFFYW9xMjA1TkpxendCTVJLZjRNTTlpWWZhVXBFb2hRMWprMk5vbndLWDNjZjFKM2ppbDAxQ2k1Y1hCVDBkQTV0aTl6Ym1vM0g3cmt0QmlPY0tmdjBseXJoV1JmMkN3MHZTSnhwWlVmX0d4Z05CMnhaZVU0bnRscFRfcENMVkRTUVAwXzJ1WFBYTV9aSnlQdmxmLWtvdkp1NnJwVElTdnMtb1VoaEFtUdIBzwFBVV95cUxPTDh6Qnd4eEpQSXpiTjJGampZdkZyYXlfNDRaNFV6NVI0c09MdnBVZmtKNGFzNk00Ql93emhDMTE2NnRUNFdkRWUxMnFoZFRxRWRlSFQzeTgzOE4xalc4cGlDd2Jab3BrdUhWQURfclYzWmFySXdrRk14NnZuWGM2ZVZEcWxoaERycFQ2VTMzMDBfNjhaLVlPbVcxRGlfTkplVUN6R094ZmxxMTVuRDliOXZxalRKbUFvNzBBTlNfcmlJaUhBLUkwSjd5UVMwSXc?oc=5
-
-- Lot of interest about Gaganyaan world over: Shubhanshu Shukla tells PM Modi - The Hindu
-  The Hindu: Gaganyaan world over: Sh
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNZklvNzZaajlwQXhBdjdIel9qd2pxVDBNLXI5eTRUd1ZTNlYyQnhNVkxsTWV5eWZSdU5BTmVibEFTd09EVWlVSkQydlR6M0Z2WVIzV1drd2taQkJWQlJhLXNOUF9neU4zaDc4MnFDbUpJcHpOb1ZNTDVPaHJTYWxBeVA4a08zaS1DRHRWRFJIVG1PV1Bua2g3d2lZVW1aTFA1RmNFNlJNR1FiOHJEeXpBc2VpeWZQSUduSTFyUFREeEVucGJCb0ZnT3pEMlVoUdIB1AFBVV95cUxPTjZrcEs0MW9nWXF6QlBGbTJJN2hPV0tLUzJyWm1wbmlaQXgybFVfdkFQWDRHNk1XZzAwUWNkRGJRaFd1aUtqcXhZOGY2cjJuMWV1MXdVMUFiLXpCXzVGeUFoeHhYWGlOLXNDRUFMdE5idUtQSk0zdmVGV08wWWVsNEtQc0RETTk4MkpLcThXMnF5WXRWelZEb1JXaUM5MUhhVUhvZTZET3BUNWZmUmhDeE4zVF8wUXNqSnFySFAwOFRGaXZsMVNMdkRVSjJGOGpSN3ZCWQ?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Top News Headlines of August 18, 2025 | ‘You look fabulous in that suit’: Trump and Zelenskyy share light moment at White House - The Indian Express
+  The Indian Express reported that Zelenskyy and Trump had a light moment at the White House.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN1ZTalBvbm43dzhXRWs4QU5JRDlzTW5rZzQ3QktVQUlnUEF4SThiU2lfZ2J0RV9KNlJoQTBEN2ttNlJYdmY1WFAtTkJVQjFKX1pxbUpxRG1QZVlURjljZUs2TElYS3pWVm5nSlUwOEdkekJybWFLelc3VWVTcXBoM0czeHBUSWZsaERnVnRJVzJ0bVp5eHUtM3lucmFkbkRCMFF1aG9iME1oaEV0M20tV0RvZ2VxTjgxMy11TmZGWWVrcGRDS1VqV1poQ2FYdGw3U1Bjcml1QUtMQXg3THVZUzNkRk5UeHBW0gHvAUFVX3lxTFAxX196V0VmLS1CZUtyTWUxbFAtUm4xTmlPMWFQR1VQUDNvS0hRZEtxNEpiOFRmYk9ydVVIa3dQbmlBejFROHQzR1M2UTljZE56WkN3ZkkyN1UxamRSdDd0WURxcnBCNzJYZFVwY3h6TjFWRDNJYjZ4UGdaV0NLZVRsRkdpR3BsM1VzcXp3WmZLSFFQNVdyWnNET0NIbmtkS0FNOTN6eWEzNG1fTVJxOHEzLWs3TFRobTl5S3NzRXBydDJjTzczUzhTZC1lYUo0YTZFaHV3bzVGTWpYcmNGNVNTZ3dzVmRKdEQ0bVNZcmFr?oc=5
 
 
-_Last updated: 2025-08-19 06:27:36 UTC_
+_Last updated: 2025-08-19 12:34:53 UTC_
