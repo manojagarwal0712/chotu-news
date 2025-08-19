@@ -1,184 +1,252 @@
 # 📰 Daily News Summaries
 
-- Mahatma great grandson or former ISRO scientist? Oppostion narrows down its V-P list
+- PM Modi appeals for unanimous election of Radhakrishnan as vice president
   
-  🔗 https://indianexpress.com/article/india/mahatma-great-grandson-or-former-isro-scientist-oppostion-narrows-down-its-v-p-list-10197448/
+  🔗 https://indianexpress.com/article/india/pm-modi-appeals-unanimous-election-radhakrishnan-vice-president-10197869/
 
-- Supreme Court opinion percolates through media, judiciary: ASG
+- Need to have pool of 40-50 astronauts for India’s space missions: PM Modi interacts with Shubhanshu Shukla
   
-  🔗 https://indianexpress.com/article/india/sc-opinion-percolates-through-media-judiciary-asg-10197434/
+  🔗 https://indianexpress.com/article/india/shubhanshu-shukla-narendra-modi-gaganyaan-india-space-mission-10197795/
 
-- Parliament Monsoon Session: Mallikarjun Kharge and JP Nadda spar in Rajya Sabha
+- Bank Holiday Today: Are banks open or closed today on Tuesday, August 19? Check here
   
-  🔗 https://indianexpress.com/article/india/parliament-monsoon-session-mallikarjun-kharge-and-jp-nadda-spar-in-rajya-sabha-10197430/
+  🔗 https://indianexpress.com/article/india/bank-holiday-india-banks-open-or-closed-today-tuesday-august-19-10197563/
 
-- Former diplomat Navtej Sarna: ‘Two-state solution is dead. If Trump wants true peace, he has to get real about Palestine issue’
+- Advocate Babar Qadri murder: Charges framed against Kashmir High Court Bar Association ex-president Mian Qayoom
   
-  🔗 https://indianexpress.com/article/india/former-diplomat-navtej-sarna-two-state-solution-is-dead-if-trump-wants-true-peace-he-has-to-get-real-about-palestine-issue-10197417/
+  🔗 https://indianexpress.com/article/india/advocate-babar-qadri-murder-charges-framed-against-kashmir-high-court-bar-association-ex-president-mian-qayoom-10197336/
 
-- Wang Yi begins India visit, Jaishankar says de-escalation process must move forward
+- Jammu division set for more heavy rain as Kishtwar, Kathua reel from cloudbursts
   
-  🔗 https://indianexpress.com/article/india/wang-yi-begins-india-visit-jaishankar-says-de-escalation-process-must-move-forward-10197352/
+  🔗 https://indianexpress.com/article/india/jammu-division-set-for-more-heavy-rain-as-kishtwar-kathua-reel-from-cloudbursts-10197325/
 
-- Airtel down: Thousands face outage as mobile internet, call services disrupted in Delhi-NCR
+- Intel gets $2 billion lifeline in the form of SoftBank equity investment
+  
+  🔗 https://indianexpress.com/article/technology/intel-gets-2-billion-lifeline-in-the-form-of-softbank-equity-investment-10197828/
+
+- Nearly 90% of videogame developers use AI agents, Google study shows
+  
+  🔗 https://indianexpress.com/article/technology/nearly-90-of-videogame-developers-use-ai-agents-google-study-shows-10197800/
+
+- Trump administration in talks to take 10% stake in Intel: Reports
+  
+  🔗 https://indianexpress.com/article/technology/trump-administration-in-talks-to-take-10-stake-in-intel-reports-10197779/
+
+- OpenAI rolls out affordable ChatGPT Go plan in India at Rs 399 with UPI integration
+  
+  🔗 https://indianexpress.com/article/technology/openai-introduces-chatgpt-go-in-india-at-rs-399-upi-10197639/
+
+- Airtel services restored after thousands face mobile internet, call services outage
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/airtel-down-outage-mobile-internet-network-call-services-disrupted-10196651/
 
-- Ex-Twitter CEO Parag Agrawal launches AI startup Parallel to build ‘web for machines’
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/parag-agrawal-ex-twitter-ceo-launches-ai-startup-parallel-10196413/
+- Pharma sector faces tariff threats amid rising US trade actions: Report
+  The US is a key market for Indian drugmakers, and any tariff imposition could ripple across the sector. Indian corporates generally have low direct exposure to current US tariffs.
+  🔗 https://www.livemint.com/companies/news/pharma-sector-faces-tariff-threats-amid-rising-us-trade-actions-report-11755582542031.html
 
-- Ally Solos: These smart glasses use AI to help low-vision users see the world around them
-  
-  🔗 https://indianexpress.com/article/technology/ally-solos-these-smart-glasses-use-ai-to-help-low-vision-users-see-the-world-around-them-10196149/
+- LEAD School eyes government schools to revive growth momentum
+  Mumbai-based company has so far focused on private schools only. Revenue growth has plateaued, prompting the firm to widen its customer base.
+  🔗 https://www.livemint.com/companies/news/lead-school-eyes-government-schools-to-revive-growth-momentum-11755497318097.html
 
-- WhatsApp unveils new ‘Schedule Calls’ feature for group and personal calls
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-new-schedule-calls-feature-group-individual-users-10195936/
+- Trump admin in talks to acquire 10% stake in Intel, may convert grants into equity to become largest shareholder
+  The Trump administration is negotiating to acquire a 10% stake in Intel Corp. The plan involves converting some Chips Act grants into equity
+  🔗 https://www.livemint.com/companies/trump-admin-in-talks-to-acquire-10-stake-in-intel-may-convert-grants-into-equity-to-become-largest-shareholder-11755570129722.html
 
-- Anthropic’s Claude AI will now cut off abusive chats with users for its own ‘welfare’
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropics-claude-ai-abusive-chats-users-welfare-10195842/
+- HK Builder Parkview Gets Loan Extension, Easing Default Risk
+  Hong Kong developer Parkview Group Ltd. has secured a three-month extension on a $940 million loan. The loan was due Aug. 15, giving it more time to
+  🔗 https://www.livemint.com/companies/news/hk-builder-parkview-gets-loan-extension-easing-default-risk-11755572048050.html
 
 - SoftBank bets $2 billion in Intel to power US tech ambition
   SoftBank Group Corp. agrees to buy $2 billion in Intel Corp. stock. Move extends its US investment effort and offers
   🔗 https://www.livemint.com/companies/news/softbank-bets-2-billion-in-intel-to-power-us-tech-ambition-11755563992234.html
 
-- Aggarwal goes missing at many Ola Electric board meetings
-  Bhavish Aggarwal missed over three-fourth of its board meetings in FY25. Niraj Bajaj, Venu Srinivasan and Pawan Munjal who chair boards at
-  🔗 https://www.livemint.com/companies/news/bhavish-aggarwal-ola-electric-board-meetings-absenteeism-market-share-operational-issues-customer-complaints-11755420141376.html
+- Inox Wind share price jumps 5% after stake sale in subsidiary at  ₹7,400 cr valuation. Should you buy, sell or hold?
+  Inox Wind shares have remained in red in short-term. Stock has descended over 13.59 per cent
+  🔗 https://www.livemint.com/market/stock-market-news/inox-wind-share-price-jumps-5-after-stake-sale-in-subsidiary-at-rs-7-400-cr-valuation-should-you-buy-sell-or-hold-11755582128176.html
 
-- China EV Sector Invests More Abroad Than at Home for First Time
-  Chinese companies involved in the electric vehicle industry invested more overseas than domestically for the first time in 2024. Foreign projects face
-  🔗 https://www.livemint.com/companies/news/china-ev-sector-invests-more-abroad-than-at-home-for-first-time-11755559083576.html
+- Belrise Industries share price pops 12% after strong Q1 results, trades 70% above IPO price
+  Belrise Industries share price surged 12% to  ₹156 after strong Q2 earnings. The company reported a 56.1% rise in profit after tax, benefiting from new facilities
+  🔗 https://www.livemint.com/market/stock-market-news/belrise-industries-share-price-pops-12-after-strong-q1-results-trades-70-above-ipo-price-11755582889348.html
 
-- Starbucks’ Salaried Workers Will Get 2% Raises This Year
-  Starbucks will give all salaried employees in North America a 2% raise this year.
-  🔗 https://www.livemint.com/companies/news/starbucks-salaried-workers-will-get-2-raises-this-year-11755543061773.html
+- Gold prices today in your city: Check prices in Mumbai, Bengaluru, Chennai, New Delhi on August 19
+  Gold and silver prices in Mumbai, Bengaluru, Chennai, Hyderabad, Delhi and Kolkata
+  🔗 https://www.livemint.com/market/commodities/gold-prices-today-in-your-city-check-prices-in-mumbai-bengaluru-chennai-new-delhi-on-august-19-11755576297128.html
 
-- Trump administration in talks to take 10% stake in Intel
-  The federal government is considering a potential investment in Intel. It would involve converting some or all of the company’s grants
-  🔗 https://www.livemint.com/companies/news/trump-administration-in-talks-to-take-10-stake-in-intel-11755536828599.html
+- Ola Electric share price rallies 8.5% in trade today; here's why
+  Ola Electric Mobility shares rose 8.5% as founder Bhavish Aggarwal announced plans to reclaim 25-30% market share in India's electric
+  🔗 https://www.livemint.com/market/stock-market-news/ola-electric-share-price-rallies-8-5-in-trade-today-heres-why-11755581249702.html
 
-- Shreeji Shipping Global IPO Day 1: GMP, review, subscription status, more details. Apply or not?
-  According to investorgain.com, shares of the company are available at a premium of  �
-  🔗 https://www.livemint.com/market/ipo/shreeji-shipping-global-ipo-day-1-gmp-review-subscription-status-more-details-apply-or-not-11755536912915.html
+- Small-cap stock below  ₹200 jumps 5% as board to consider stock split on THIS date
+  Small-cap stock below  ₹200 gained around 5% in the morning trades on Tuesday. Board is set to consider a stock split on THIS
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-below-rs-200-jumps-5-as-board-to-consider-stock-split-on-this-date-11755577538539.html
 
-- Global markets today: Nikkei 225, Kospi fall amid Trump-Zelenskyy meeting
-  Nikkei 225 inched up 0.1 per cent after hitting a record high in the previous session.
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-fall-amid-trump-zelenskyy-meeting-11755564035813.html
+- ChatGPT Go debuts in India at  ₹399: Here’s how it stacks up against OpenAI's Plus, Pro &amp; Team plans
+  ChatGPT Go, priced at  ₹399/month, offers Indian users an economical subscription with increased message limits and enhanced
+  🔗 https://www.livemint.com/technology/tech-news/chatgpt-go-debuts-in-india-at-rs-399-here-s-how-it-stacks-up-against-openais-plus-pro-team-plans-11755579195208.html
 
-- Patel Retail IPO Day 1: GMP, subscription status, date, review, other details. Should you subscribe or not?
-  According to market observers, shares of the company are available at a premium of  ₹38
-  🔗 https://www.livemint.com/market/ipo/patel-retail-ipo-day-1-gmp-subscription-status-date-review-other-details-should-you-subscribe-or-not-11755534199105.html
+- Wireless printers under  ₹10000 for effortless printing at home and office: Top 7 picks from Canon, HP and others
+   wireless printers under  ₹10000 let you print, scan, and copy with ease. These best printers
+  🔗 https://www.livemint.com/technology/gadgets/wireless-printers-under-rs-10000-for-effortless-printing-at-home-and-office-top-7-picks-from-canon-hp-and-others-11755523573105.html
 
-- BlueStone Jewellery IPO listing today. GMP, experts signal muted debut of shares in stock market today
-  BlueStone Jewellery IPO listing date is today, August 19. Equity shares will be listed on both the stock exchanges, BSE and NSE.
-  🔗 https://www.livemint.com/market/ipo/bluestone-jewellery-ipo-listing-today-gmp-experts-signal-muted-debut-of-shares-in-stock-market-today-11755532960124.html
+- ChatGPT Go subscription launched in India at  ₹399, offers 10x higher usage limits. All you need to know
+  The new ChatGPT Go plan from OpenAI is priced at  ₹399/month. Indian users can now
+  🔗 https://www.livemint.com/technology/tech-news/chatgpt-go-subscription-launched-in-india-at-rs-399-offers-10x-higher-usage-limits-all-you-need-to-know-11755572775351.html
 
-- GST reform isn’t the only catalyst that the equity markets need
-  Consumers are expected to delay purchases of items likely to benefit from GST
-  🔗 https://www.livemint.com/market/mark-to-market/gst-reform-catalyst-equity-markets-sovereign-credit-rating-tariffs-income-tax-corporate-tax-fmcg-consumer-durables-auto-11755515992379.html
+- Google’s AI overviews can send you straight to scammers. Here's how to stay safe
+  Google's AI overviews have improved since their early days, but remain unreliable. Social meida users have reported being directed to scam numbers
+  🔗 https://www.livemint.com/technology/tech-news/googles-ai-overviews-can-send-you-straight-to-scammers-heres-how-to-stay-safe-11755569570821.html
 
-- OpenAI launches India pricing for ChatGPT, with UPI support
-  OpenAI introduces ChatGPT 'Go' at  ₹399 per month, making it more affordable for Indian users. This new tier offers higher
-  🔗 https://www.livemint.com/technology/tech-news/openai-launches-india-pricing-for-chatgpt-with-upi-support-11755519400667.html
+- Up to 70% off on the best headphones for gaming, music and entertainment: Top 10 options with modern design and features
+  The best headphones offer excellent audio performance, stylish design, extended battery life and advanced features. They are ideal for
+  🔗 https://www.livemint.com/technology/gadgets/up-to-70-off-on-the-best-headphones-for-gaming-music-and-entertainment-top-10-options-with-modern-design-and-features-11755522250694.html
 
-- Realme P4 5G, P4 Pro 5G to launch in India on 20 August: Price, display, processor, battery and more details
-  Realme will launch its P4 5G and P4 Pro 5G smartphones in India on August 20. The P4 will start at Rs. 17,499 and
-  🔗 https://www.livemint.com/technology/gadgets/realme-p4-5g-p4-pro-5g-to-launch-in-india-on-20-august-price-display-processor-battery-and-more-details-11755537726874.html
+- European Stock Futures Edge Up After Ukraine Meet: Markets Wrap - Bloomberg.com
+  European Stock Futures Edge Up After Ukraine
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjhzZGhSeEt3TUg2bHdzdHRaSDNTR2ZTbElsNUR5QXJSVzNkSWtSd1hQNFFzOHJvZ3FVdjNTWWNNOHdvdkN6UlBpWVZuV3pyR21hdlVWS2hWaDNJTHItLUZUQ19CdjlvYXhaSG1nVFZVS2FaX0VnZUE3eG53c0Y3UUdIUEp3VUdlMmZaVU9jbVlZeGcw?oc=5
 
-- Redmi 15 5G with 7,000mAh battery, Snapdragon 6s Gen 3 SoC coming to India: All we know so far
-  Xiaomi will launch the Redmi 15 5G smartphone in India on 19 August. It will feature a 6.9
-  🔗 https://www.livemint.com/technology/gadgets/redmi-15-5g-with-7-000mah-battery-snapdragon-6s-gen-3-soc-coming-to-india-all-we-know-so-far-11755532002627.html
+- Sensex Today | Stock Market LIVE Updates: Sensex gains over 200 pts, Nifty above 24,900; auto, oil & gas ... - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTmRMLUcwcm04SE5iaDFoMERoSUxsVk9GbENubE9famlmQzd5LVlLTDQ3Z0p3QnZ2VC1KUk5qQ19CSGxEY1RFQnlzMERoQVNXdXhpTG5VVmYxT19jNXZocGJnSlY3UEVyb1
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTmRMLUcwcm04SE5iaDFoMERoSUxsVk9GbENubE9famlmQzd5LVlLTDQ3Z0p3QnZ2VC1KUk5qQ19CSGxEY1RFQnlzMERoQVNXdXhpTG5VVmYxT19jNXZocGJnSlY3UEVyb1dzVlcxVlM4UDdHeGo3NWswY254WDN1ZzZMakp6ZHlwSnhrdHJoX0lLT1JNUk5IRTB3MU40N3BpS3NtRjBYeU9NUTFETE1kMlFrUmNKWlBYbF9GZ0s1R203RDNiQjBJWVY0OC1aRlBBTzhfeHZR0gHbAUFVX3lxTFAzODRnTWFWZUpTTndoMkhnNVZ2MmtycFpvS0ZNTW9jQWpMcWZ0UXZxS3E4Tk1VbXVISnFET0EtYzBPVE1PNHRzYUFnOGVodkVLcTRRSDFEQndYT3ROSVF5ejZ1aTkxMURiTmgtNXBIMDE5ZmRmaDBkYnZubTlYUldlZkdlTkFIeXE4UEFXYmxleVUxeHVFWGEzLXFVZk5CaE9ZamtFLXdjZHBKSndQNTBHS05NdXlBbXJ4TGlDU2pwZUlPcU9hd3FScnY4YUNvcXM5clROWm9OcDZqcw?oc=5
 
-- Data breach alert: Workday confirms personal data stolen; hackers could access names, emails, and phone numbers
-  Workday confirmed a data breach of a third-party customer database. Names, emails, and phone
-  🔗 https://www.livemint.com/technology/tech-news/data-breach-alert-workday-confirms-personal-data-stolen-hackers-could-access-names-emails-and-phone-numbers-11755528200642.html
+- Short-term bets on oil risky amid geopolitical uncertainty: Vandana Hari - The Economic Times
+  Short-term bets on oil risky amid geopolitical uncertainty
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUy1PdjdSakN3eEhhVzd3Y2gtNUtMSUtHaVpiREMwN2x1RnBsbFF4VkJ0NDFmNlN6TWxrRFFqckZlMGZCMXBzeHFxWEpCQjdTTkNPdlN2X1U0aHdTWTBJR3RCX1VEMlk5Qk00NWpEcUVUdUo3Nl9FMmZiSFkyYjk0b0t6U05ZdlI1RXM2UG00NmFaTEdhdWZRVklkSEZsUkhnakNBWFJ0MHdkcDQtZWJ0Z1pDZHh4S1F1MEsyN202NXRLemFwQWVzUUd6eFV3ZzJHLUVnR0x3V2F4c0RCM1ZJR3FuY9IB4wFBVV95cUxOUy1PdjdSakN3eEhhVzd3Y2gtNUtMSUtHaVpiREMwN2x1RnBsbFF4VkJ0NDFmNlN6TWxrRFFqckZlMGZCMXBzeHFxWEpCQjdTTkNPdlN2X1U0aHdTWTBJR3RCX1VEMlk5Qk00NWpEcUVUdUo3Nl9FMmZiSFkyYjk0b0t6U05ZdlI1RXM2UG00NmFaTEdhdWZRVklkSEZsUkhnakNBWFJ0MHdkcDQtZWJ0Z1pDZHh4S1F1MEsyN202NXRLemFwQWVzUUd6eFV3ZzJHLUVnR0x3V2F4c0RCM1ZJR3FuYw?oc=5
 
-- iPhone 17 Air could make Galaxy S25 Edge look chunky, leaked photos suggest ultra-slim design
-  The ultra-slim smartphone market may heat up with Samsung's 5.8mm Galaxy S25 Edge. Apple's upcoming iPhone 17 Air, rumored to be thinner
-  🔗 https://www.livemint.com/technology/tech-news/iphone-17-air-could-make-galaxy-s25-edge-look-chunky-leaked-photos-suggest-ultra-slim-design-11755524162035.html
+- Small-cap stock below ₹200 jumps 5% as board to consider stock split on THIS date - Mint
+  Small-cap stock below ₹200 jumps 5% as
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN1oteHZJVi1wd282TmxwRU9sX3U4UV9QcUpvUi01M2lEamNvY0hXRU14bHN2RkM1cXhOcTBydURRNlA1cFc0NC1zM2VTdXFFdjZOc25SRW5uNkpVNDRUOWxXVUQ5bHFrUFU4OGZvcEFlaV9Qa19kNEp2Vm5mZzY5SjNKdk1raURna2FGN3dDUVJhWkdsVmRDRUh3aWI4SXBHdl8wUF9LZHFUMjJLS2pXdlB6SVduMmZDVTBORjdJVmxIVVByYlBfdFRWcWN4UGFoNmNBaVZKR2NuTS1FWWhPZzBzcU83QQ?oc=5
 
-- Vikram Solar raises Rs 621 crore from anchor investors ahead of IPO
-  Goldman Sachs Fund, Morgan Stanley India Investment Fund, and BNP Paribas participated in the anchor round. Several mutual funds, including UTI MF, Franklin Templeton MF, and Kotak Mahindra MF, were also
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/vikram-solar-raises-rs-621-crore-from-anchor-investors-ahead-of-ipo/articleshow/123374580.cms
+- Asia-Pacific markets track Wall Street declines ahead of U.S. Fed meeting - CNBC
+  Asia-Pacific markets track Wall Street declines ahead
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa0lvUTcwV1FDTlM2bTVDRC1fSDJkNEJMejZ5YmRPV2RUbEQxdWhIVXJvZTIxSGhXZ1MyTm5FaWNocEZqVmt5ZEVoWjA4MVBZT0xJY0tINWRiQmJLX0JIRC1wd1FrOXo0UlNzMnlKTWhMYTFsMlZxb3pJUU5JYndNQjd4TkVWVkV4ckIyeTB0Y0hsWmFoNEZsaHJNSU5SdHdIUHQ2UG5uZDlrMWN1QWd3dnJqb3ZNa1V0QjFYYTlnaHVSTkhGYlB2Z1JZR29tR2x0RldJ0gHYAUFVX3lxTE5YWHVoclVwV3pDYmFHZVBiNnJ3MHZvclA2eF9xRkozTlN4dEo0cGdJWmxlYk80SWo0aUI5bHV5a2NnbjBxcnBOajFyZmduQmlLTXBNMC1kU1ZwNkdsVFFOWEFHOEpkTFI0Q2d6a3d0TW5aUVgzal9VeVhmeTJfS0ZrbUk3ZEJ4QnZ3Z1dmTm1TREVDbDc3TEhpYVlVUEtqVjZSR0xGbzdEYmdPZWVCUVNKTWM3em9QenNmUlNkd0t0YzlpNFlTUENOTUF2aXExS3MwNURIMkh5Vw?oc=5
 
-- Pre-market action: Here's the trade setup for today's session
-  Indian equities rebounded strongly following the Prime Minister's GST reform announcement. Experts predict corporate earnings recovery in the second half of FY26, driven by policy reforms, potential stimulus, and festive demand.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/123369951.cms
+- Hyundai Motor India shares soar 12% in 2 days to hit new all-time high amid surge in trade volumes
+  Hyundai Motor India shares scaled a new record high of Rs 2,511.20 on the BSE. The stock now trades nearly 30% above its listing price. In Q1FY26, the automaker posted an 8%
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hyundai-motor-india-shares-soar-12-in-2-days-to-hit-new-all-time-high-amid-surge-in-trade-volumes/articleshow/123379338.cms
 
-- Stocks in news: Vedanta, LIC, Reliance, GMR Airports, Vodafone Idea
-   Markets rallied strongly, with Vedanta considering a second interim dividend. LIC launched a policy revival campaign, while GMR Airports announced the redemption of non-convertible bonds. Reliance Consumer
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vedanta-lic-reliance-gmr-airports-vodafone-idea/articleshow/123369889.cms
+- Vardhman Textiles, other textile stocks rally up to 9% after Govt removes cotton import duty
+  The government has temporarily removed the 11% duty on cotton imports. Industry bodies say the move will boost competitiveness against peers like Bangladesh and Vietnam.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vardhman-textiles-other-textile-stocks-rally-up-to-9-after-govt-removes-cotton-import-duty/articleshow/123379193.cms
 
-- Can Vikram Solar justify its high valuations with rapid growth?
-  The aim is to raise funds for expansion. The company's order book has doubled. A new solar cell manufacturing facility is also in the works in Tamil Nadu.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/can-vikram-solar-justify-its-high-valuations-with-rapid-growth/articleshow/123374467.cms
+- Inflation, not geopolitics, will guide Fed decisions: Andrew Ferris
+  The S&amp;P is underperforming European and Asian markets. Andrew Ferris, CEO of Ecognosis Advisory, advises clients to reduce US holdings.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/inflation-not-geopolitics-will-guide-fed-decisions-andrew-ferris/articleshow/123378924.cms
 
-- Indian equities surge as GST simplification prospects drive market gains
-  The Nifty and Sensex both experienced gains, fueled by positive domestic investor activity. Consumption-based stocks led the rally, with Maruti Suzuki emerging as a top gainer.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-equities-surge-as-gst-simplification-prospects-drive-market-gains/articleshow/123374385.cms
+- India bonds fall; 10-year yield hits 4-month high as fiscal worries sap demand
+  Indian government bonds declined following the proposed tax overhaul. Officials assure the fiscal deficit goal remains achievable. But traders fear the tax reform could widen budget deficits.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-fall-10-year-yield-hits-4-month-high-as-fiscal-worries-sap-demand/articleshow/123378951.cms
 
-- Putin-Modi talks: Russian president dials PM; shares insights on Alaska meet with Donald Trump - Times of India
-  The Indian prime minister and the Russian president held talks in New Delhi.
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSUdRVUU4TmhHRjdDVUJPdVRsTksyS0FISzdqRXFPenFOVk5qRnRkeTVSNm9QekliX2tsM1VvMUFUV2dvYTB0WmhqR1N6VHV3dW5qVWZTRHQzNER5OTVJMTBPN0I0VDFGa1g3dkc1TjYwSngtbzhFQS12WGpMNVBOY0Roc1M0YXpBY2hXXzNnWVpnQXhycGNFM09lV1ZSZk9WUzg3SVZMcWRWeWRwNGgybmhlYjN0elVOR2JuSS1TV0UtRFhPeWd4d19fa0RSMGxSZEZ0UFRSUms5OV92VjIzYVJOaWRGdTJRUjc0QnpmVVlDQU0xd1N2amU5SG_SAYICQVVfeXFMTmJDZ3BXOXA4emtSWE9Zd1JrajZaZ0lsQjlacHJUcTFUMUZvbG13VjNUSDNOdGNiR1d5SUZXMVhVNmttNkZlTmZ0N1hOY3JFcFU0enMxcmUtWXQ3ZUFOci0zSUtEUnlKRzAzWlZCVGxNcFZGbkJYUlhLQTJTbi1JNmRLdHlNcW1qbzhMTGZ5bE5yNjUtYjA3aVNrUDUyMWRvZ0lxQ3B1Z05ydEFnbjc3Z21CazFBeWlQemNxTkJLQ0lyanNrSWxhTnBlNDZFcTRUcDE2M0syR3l5MjVvT1hWZEdDdHpqMWVCTzJFRG1xdWtNMDdHZ0RBcVJIdEQ3YXM1UEZR?oc=5
+- JGBs fall after weaker-than-expected 20-year bond auction
+  Japanese government bonds experienced a decline. The 20-year JGB yield increased. Market participants are closely watching the Bank of Japan's potential rate hike in December.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/jgbs-fall-after-weaker-than-expected-20-year-bond-auction/articleshow/123378926.cms
 
-- Marco Rubio Explains Why China Spared, India Faces Tariffs On Russian Oil - NDTV
-  &nbsp;<font color="#6f
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUU5iS2hEYlk4cTA5NGxWTVJ0bG92WTlnbUlDdWlRWUI3WENXcDc5MzI3b19hUDJrQTBWYzVLTWJrQVhzdjZkUENGNUVBczNEY1VrQU1XUFByYXZMWnhqa25jQlA5UHVQVEF4Ry03Q0E1Vm9QdGFYT2hfQVNmSFhlU1JOSEJwZWMzYlozUW9UWHZuRTR3V014dzNrR056RjNXcGdTSTEwS2xJQ2PSAbMBQVVfeXFMTW5TaVpUNGhyZXRqTHozVy1WM1dnWW51NGNJRWxuQmZUaHd6V1p6Vm9yenBjZFlraThkOU9iVjF4dHZqeXQyVGwtZW5UX3E2RmZqeFRPdm11eTkxQjkwbGJEY0dTcy0wWVo5Vk44R2lLVkdQZ2V6U1NrVWRZcDRwRDVqcnI4R01IeGljdXcxdGU4RG95VlF0OHZybE9VRGIzODBSRUZsTlRVZFFlVXhMU3dNMEU?oc=5
+- Constructive approach to ties, de-escalation essential, EAM to Wang - Times of India
+  "Constructive approach to ties, de-
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUJqWWh0aUVEUFdiek9LM09nTG1pSkJIMWI4ekswWU1SUEh4VFlEQl95ZDFrQ1U3YjlrVjNqVHBnWEd3eVU3TFFjTEJYQlFxV3UyWHE2cFMxODBMYTYtTTBhdG1uVWNYcURHZ2lSYXBkdlptTWJnRnFKM2QwWTI4ZXoyaWZERzBUVlZ1VGtRWHdzVlhuS0VreVdXVnJRaU1HYkNNdXBhWHVLV1kzM1BQNXRCYVVlTjdxQXfSAb8BQVVfeXFMUGdiM2xtRnljOGk5anRnam4tcGsyQVV5cW5nQlhGWlNvUmxWX3JyTFVwQ0U5U0FmVmUzQlplRkdLMWtwZzhtbnh2YlBBWFR4RHI3Ni0tSTBVX0phSnkxV0tLek9odUE3cVNQR19OREFVaUJmWmdPeE5xLTRZQ3pQM09uQTE0WjN0a21nZkxqcTNvVlQ4amxOOEhDUGd5T2F1WjdOZ2E5eTlFNnR4YzdQWUlrTW5OUmdPOU1qeFZCbm8?oc=5
 
-- Opposition may move impeachment motion against CEC | Latest News India - Hindustan Times - Hindustan Times
-  Opposition may move impeachment motion against CEC. Hindustan
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQURpVy1KVGdyZUpfaTdEZGxNRlBfaGIyZnFNckcxTFhVc0dsY08xcW9pa3V1OUI0MEs4MW13Q2cyZkVVQl9WbjZDMFBpQWJmb2FpWEQxbURVakExSnJTalBVbGpKaS1LdGJsbUl4bHN1RmVfdXBENjQ2NDl1QnQwTWdRVHFQVldITkRaaG5CR3ViVU5iOWJJYUZqWGRTMXlmanRWQXBSZ1V6TFdDZ1o2eFhBek4zeFNw0gG4AUFVX3lxTE9BRGlXLUpUZ3JlSl9pN0RkbE1GUF9oYjJmcU1yRzFMWFVzR2xjTzFxb2lrdXU5QjQwSzgxbXdDZzJmRVVCX1ZuNkMwUGlBYmZvYWlYRDFtRFVqQTFKclNqUFVsakppLUt0YmxtSXhsc3VGZV91cEQ2NDY0OXVCdDBNZ1FUcVBWV0hORFpobkJHdWJVTmI5YklhRmpYZFMxeWZqdFZBcFJnVXpMV0NnWjZ4WEF6TjN4U3A?oc=5
+- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
+  "India Like Mercedes": Pak Minister Doubles Down
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
 
-- INDIA bloc to name VP candidate on Tuesday - Times of India
-  India bloc to name VP candidate on Tuesday
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2gxOWl5YlZOYlZiZGJxbFhVWDQtTzlvRFNkRjNsUnlSbkh1V2k5N01BWHk1TzFna1czQTlfZklGZlJtNXpIMTROZlRlWXlKUzZQenZOejhsQ3N1NHM4Y1h1R0RlSzdfc3pFcFlJZjEteWRqaG1rRUFsZ09TQUFCd212LTZpaXFKVmh1ZEgxU2ZZeVNyd3R2Y05xckE4ZDJoTnpQcnBVQXhibFNsYWdV0gG0AUFVX3lxTE9yLUdwWTRMUHNoUTRyVHVYTDVkOHoxLXpNVlBpbDQ2d2xCY1B0bnpBQUdCZlFKYUNpUXdzdnBEaGhiV01XbGhacGN2aGNRUjRkMk9OdDJIR2t1bHJFQm16SFBxV3JNM0ZINGN1X09TUEdfanh6cDdCT1pXSGRBU1pWVkdPcVBGU3B3NHE2MVYwcWliMEJCeEZoTzJoYmZXRlBxUWphcUR2RU1KbC1fSGg5TnNPUw?oc=5
+- Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention | Latest News India - Hindustan Times - Hindustan Times
+  Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention.
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSDBJbVA2LXllTndlMnJtaVQxY1RveUVUSEpJNG90bjZMRE5aSEU0ZmFqMUh0X1hocTVrWmxWVE5COWNkcVdMT25uYnRDbS1VNGhGQ2gwXy1QZGxwa054LWNLNzh5Nnp0Zm5CUktWdlVKbXdNNm54U0x3RlNRZkZqYVJKMlVNcC1aUWsxZDJPd2FybXkzNzZESXhYUHVELTNZVUZmTU9SZmVkT1lXNXNqVFJMLVM0SUd0RTBrNjZxU0lXeTFNS1lEZTNUREdnTU5zMlMwb2JIc9IB3AFBVV95cUxPbjJ0NlZfZ1N2aURQN05RS25uOVU4QTdYdHNhZ3R1QWZXWmMzRHFuWElOOC12dUQxV3hTRTh3anJUYVE3dC1hcVlYREdNMkhfeEdYRzBDdlhxcm9PbWxvREg3REcxQi1OWDI2SGQ0eTlRb1l6RG81Z19wRUV1anktM0tYdDJEN1prcTE2MlFORlU4UURzajR4TDNiOHphSE9VQlZHaWpwUVRXTnVPRDIwQ1NhRFVWM05pVURHazdiQzlRSl84eFdIOXdyYlJqdEpkR3kzdnhOaVppdnNR?oc=5
 
-- Putin, Modi reaffirm vow to strengthen bilateral ties - Times of India
-  Putin, Modi reaffirm vow to strengthen
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQelJJX2Yta0tBM3E4WWh4ckJxblpRd2QwcHFkcm9UemUzWTdpLXlHOVE2QWtvQ3RwSVNPSUhxRHd0MHJKckVZY1FlejNLczVQTUdqZ2VkX3g0M0tOYXl1TjZjZnVLdXVvMU5QT0dvalM4TGIySjBXTEh3MDZMei1STHZtV0kzME5mYTZwRXhBRWtHUFBlR2IyMG43Z1FRcWVJeUJqRFAtOXVHU0k4b1RSOURTc0NlWXJTNTBaZdIBwgFBVV95cUxOSnExRFdKOC1qVzBVVnhOWDFFTXhhOExuMlhZREJ3SXpWQTBiajB1Zmc2OGxEYTRNMHF4NjQ3aWRZS051NHIzMHYxRkNUNXFWSUlRdjJMeVE4cWlOSzJYanhuUlhVNHA0MHFscGd4d2RuT3RDc3RLMms4eERPelZsUUhoR0N5bi1YcEdMUlNZMlVMYUxTc2NjeTNuNDhJdjZZdW5fVmFiSzZfSFZoS3VHbzZqMEdLVy1VaVhMWjZ1dy03dw?oc=5
+- How Irish nationalists inspired a future Indian President - The Indian Express
+  How Irish nationalists inspired a future Indian President
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVlKVWVaTVhmeGdJNnhtSlZMa1E0NklqejFFYW9xMjA1TkpxendCTVJLZjRNTTlpWWZhVXBFb2hRMWprMk5vbndLWDNjZjFKM2ppbDAxQ2k1Y1hCVDBkQTV0aTl6Ym1vM0g3cmt0QmlPY0tmdjBseXJoV1JmMkN3MHZTSnhwWlVmX0d4Z05CMnhaZVU0bnRscFRfcENMVkRTUVAwXzJ1WFBYTV9aSnlQdmxmLWtvdkp1NnJwVElTdnMtb1VoaEFtUdIBzwFBVV95cUxPTDh6Qnd4eEpQSXpiTjJGampZdkZyYXlfNDRaNFV6NVI0c09MdnBVZmtKNGFzNk00Ql93emhDMTE2NnRUNFdkRWUxMnFoZFRxRWRlSFQzeTgzOE4xalc4cGlDd2Jab3BrdUhWQURfclYzWmFySXdrRk14NnZuWGM2ZVZEcWxoaERycFQ2VTMzMDBfNjhaLVlPbVcxRGlfTkplVUN6R094ZmxxMTVuRDliOXZxalRKbUFvNzBBTlNfcmlJaUhBLUkwSjd5UVMwSXc?oc=5
 
-- Putin-Modi talks: Russian president dials PM; shares insights on Alaska meet with Donald Trump - Times of India
-  The Indian prime minister and the Russian president held talks in New Delhi.
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSUdRVUU4TmhHRjdDVUJPdVRsTksyS0FISzdqRXFPenFOVk5qRnRkeTVSNm9QekliX2tsM1VvMUFUV2dvYTB0WmhqR1N6VHV3dW5qVWZTRHQzNER5OTVJMTBPN0I0VDFGa1g3dkc1TjYwSngtbzhFQS12WGpMNVBOY0Roc1M0YXpBY2hXXzNnWVpnQXhycGNFM09lV1ZSZk9WUzg3SVZMcWRWeWRwNGgybmhlYjN0elVOR2JuSS1TV0UtRFhPeWd4d19fa0RSMGxSZEZ0UFRSUms5OV92VjIzYVJOaWRGdTJRUjc0QnpmVVlDQU0xd1N2amU5SG_SAYICQVVfeXFMTmJDZ3BXOXA4emtSWE9Zd1JrajZaZ0lsQjlacHJUcTFUMUZvbG13VjNUSDNOdGNiR1d5SUZXMVhVNmttNkZlTmZ0N1hOY3JFcFU0enMxcmUtWXQ3ZUFOci0zSUtEUnlKRzAzWlZCVGxNcFZGbkJYUlhLQTJTbi1JNmRLdHlNcW1qbzhMTGZ5bE5yNjUtYjA3aVNrUDUyMWRvZ0lxQ3B1Z05ydEFnbjc3Z21CazFBeWlQemNxTkJLQ0lyanNrSWxhTnBlNDZFcTRUcDE2M0syR3l5MjVvT1hWZEdDdHpqMWVCTzJFRG1xdWtNMDdHZ0RBcVJIdEQ3YXM1UEZR?oc=5
+- Lot of interest about Gaganyaan world over: Shubhanshu Shukla tells PM Modi - The Hindu
+  The Hindu: Gaganyaan world over: Sh
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNZklvNzZaajlwQXhBdjdIel9qd2pxVDBNLXI5eTRUd1ZTNlYyQnhNVkxsTWV5eWZSdU5BTmVibEFTd09EVWlVSkQydlR6M0Z2WVIzV1drd2taQkJWQlJhLXNOUF9neU4zaDc4MnFDbUpJcHpOb1ZNTDVPaHJTYWxBeVA4a08zaS1DRHRWRFJIVG1PV1Bua2g3d2lZVW1aTFA1RmNFNlJNR1FiOHJEeXpBc2VpeWZQSUduSTFyUFREeEVucGJCb0ZnT3pEMlVoUdIB1AFBVV95cUxPTjZrcEs0MW9nWXF6QlBGbTJJN2hPV0tLUzJyWm1wbmlaQXgybFVfdkFQWDRHNk1XZzAwUWNkRGJRaFd1aUtqcXhZOGY2cjJuMWV1MXdVMUFiLXpCXzVGeUFoeHhYWGlOLXNDRUFMdE5idUtQSk0zdmVGV08wWWVsNEtQc0RETTk4MkpLcThXMnF5WXRWelZEb1JXaUM5MUhhVUhvZTZET3BUNWZmUmhDeE4zVF8wUXNqSnFySFAwOFRGaXZsMVNMdkRVSjJGOGpSN3ZCWQ?oc=5
 
-- Marco Rubio Explains Why China Spared, India Faces Tariffs On Russian Oil - NDTV
-  &nbsp;<font color="#6f
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUU5iS2hEYlk4cTA5NGxWTVJ0bG92WTlnbUlDdWlRWUI3WENXcDc5MzI3b19hUDJrQTBWYzVLTWJrQVhzdjZkUENGNUVBczNEY1VrQU1XUFByYXZMWnhqa25jQlA5UHVQVEF4Ry03Q0E1Vm9QdGFYT2hfQVNmSFhlU1JOSEJwZWMzYlozUW9UWHZuRTR3V014dzNrR056RjNXcGdTSTEwS2xJQ2PSAbMBQVVfeXFMTW5TaVpUNGhyZXRqTHozVy1WM1dnWW51NGNJRWxuQmZUaHd6V1p6Vm9yenBjZFlraThkOU9iVjF4dHZqeXQyVGwtZW5UX3E2RmZqeFRPdm11eTkxQjkwbGJEY0dTcy0wWVo5Vk44R2lLVkdQZ2V6U1NrVWRZcDRwRDVqcnI4R01IeGljdXcxdGU4RG95VlF0OHZybE9VRGIzODBSRUZsTlRVZFFlVXhMU3dNMEU?oc=5
+- Constructive approach to ties, de-escalation essential, EAM to Wang - Times of India
+  "Constructive approach to ties, de-
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUJqWWh0aUVEUFdiek9LM09nTG1pSkJIMWI4ekswWU1SUEh4VFlEQl95ZDFrQ1U3YjlrVjNqVHBnWEd3eVU3TFFjTEJYQlFxV3UyWHE2cFMxODBMYTYtTTBhdG1uVWNYcURHZ2lSYXBkdlptTWJnRnFKM2QwWTI4ZXoyaWZERzBUVlZ1VGtRWHdzVlhuS0VreVdXVnJRaU1HYkNNdXBhWHVLV1kzM1BQNXRCYVVlTjdxQXfSAb8BQVVfeXFMUGdiM2xtRnljOGk5anRnam4tcGsyQVV5cW5nQlhGWlNvUmxWX3JyTFVwQ0U5U0FmVmUzQlplRkdLMWtwZzhtbnh2YlBBWFR4RHI3Ni0tSTBVX0phSnkxV0tLek9odUE3cVNQR19OREFVaUJmWmdPeE5xLTRZQ3pQM09uQTE0WjN0a21nZkxqcTNvVlQ4amxOOEhDUGd5T2F1WjdOZ2E5eTlFNnR4YzdQWUlrTW5OUmdPOU1qeFZCbm8?oc=5
 
-- Opposition may move impeachment motion against CEC | Latest News India - Hindustan Times - Hindustan Times
-  Opposition may move impeachment motion against CEC. Hindustan
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQURpVy1KVGdyZUpfaTdEZGxNRlBfaGIyZnFNckcxTFhVc0dsY08xcW9pa3V1OUI0MEs4MW13Q2cyZkVVQl9WbjZDMFBpQWJmb2FpWEQxbURVakExSnJTalBVbGpKaS1LdGJsbUl4bHN1RmVfdXBENjQ2NDl1QnQwTWdRVHFQVldITkRaaG5CR3ViVU5iOWJJYUZqWGRTMXlmanRWQXBSZ1V6TFdDZ1o2eFhBek4zeFNw0gG4AUFVX3lxTE9BRGlXLUpUZ3JlSl9pN0RkbE1GUF9oYjJmcU1yRzFMWFVzR2xjTzFxb2lrdXU5QjQwSzgxbXdDZzJmRVVCX1ZuNkMwUGlBYmZvYWlYRDFtRFVqQTFKclNqUFVsakppLUt0YmxtSXhsc3VGZV91cEQ2NDY0OXVCdDBNZ1FUcVBWV0hORFpobkJHdWJVTmI5YklhRmpYZFMxeWZqdFZBcFJnVXpMV0NnWjZ4WEF6TjN4U3A?oc=5
+- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
+  "India Like Mercedes": Pak Minister Doubles Down
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
 
-- INDIA bloc to name VP candidate on Tuesday - Times of India
-  India bloc to name VP candidate on Tuesday
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2gxOWl5YlZOYlZiZGJxbFhVWDQtTzlvRFNkRjNsUnlSbkh1V2k5N01BWHk1TzFna1czQTlfZklGZlJtNXpIMTROZlRlWXlKUzZQenZOejhsQ3N1NHM4Y1h1R0RlSzdfc3pFcFlJZjEteWRqaG1rRUFsZ09TQUFCd212LTZpaXFKVmh1ZEgxU2ZZeVNyd3R2Y05xckE4ZDJoTnpQcnBVQXhibFNsYWdV0gG0AUFVX3lxTE9yLUdwWTRMUHNoUTRyVHVYTDVkOHoxLXpNVlBpbDQ2d2xCY1B0bnpBQUdCZlFKYUNpUXdzdnBEaGhiV01XbGhacGN2aGNRUjRkMk9OdDJIR2t1bHJFQm16SFBxV3JNM0ZINGN1X09TUEdfanh6cDdCT1pXSGRBU1pWVkdPcVBGU3B3NHE2MVYwcWliMEJCeEZoTzJoYmZXRlBxUWphcUR2RU1KbC1fSGg5TnNPUw?oc=5
+- Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention | Latest News India - Hindustan Times - Hindustan Times
+  Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention.
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSDBJbVA2LXllTndlMnJtaVQxY1RveUVUSEpJNG90bjZMRE5aSEU0ZmFqMUh0X1hocTVrWmxWVE5COWNkcVdMT25uYnRDbS1VNGhGQ2gwXy1QZGxwa054LWNLNzh5Nnp0Zm5CUktWdlVKbXdNNm54U0x3RlNRZkZqYVJKMlVNcC1aUWsxZDJPd2FybXkzNzZESXhYUHVELTNZVUZmTU9SZmVkT1lXNXNqVFJMLVM0SUd0RTBrNjZxU0lXeTFNS1lEZTNUREdnTU5zMlMwb2JIc9IB3AFBVV95cUxPbjJ0NlZfZ1N2aURQN05RS25uOVU4QTdYdHNhZ3R1QWZXWmMzRHFuWElOOC12dUQxV3hTRTh3anJUYVE3dC1hcVlYREdNMkhfeEdYRzBDdlhxcm9PbWxvREg3REcxQi1OWDI2SGQ0eTlRb1l6RG81Z19wRUV1anktM0tYdDJEN1prcTE2MlFORlU4UURzajR4TDNiOHphSE9VQlZHaWpwUVRXTnVPRDIwQ1NhRFVWM05pVURHazdiQzlRSl84eFdIOXdyYlJqdEpkR3kzdnhOaVppdnNR?oc=5
 
-- Putin, Modi reaffirm vow to strengthen bilateral ties - Times of India
-  Putin, Modi reaffirm vow to strengthen
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQelJJX2Yta0tBM3E4WWh4ckJxblpRd2QwcHFkcm9UemUzWTdpLXlHOVE2QWtvQ3RwSVNPSUhxRHd0MHJKckVZY1FlejNLczVQTUdqZ2VkX3g0M0tOYXl1TjZjZnVLdXVvMU5QT0dvalM4TGIySjBXTEh3MDZMei1STHZtV0kzME5mYTZwRXhBRWtHUFBlR2IyMG43Z1FRcWVJeUJqRFAtOXVHU0k4b1RSOURTc0NlWXJTNTBaZdIBwgFBVV95cUxOSnExRFdKOC1qVzBVVnhOWDFFTXhhOExuMlhZREJ3SXpWQTBiajB1Zmc2OGxEYTRNMHF4NjQ3aWRZS051NHIzMHYxRkNUNXFWSUlRdjJMeVE4cWlOSzJYanhuUlhVNHA0MHFscGd4d2RuT3RDc3RLMms4eERPelZsUUhoR0N5bi1YcEdMUlNZMlVMYUxTc2NjeTNuNDhJdjZZdW5fVmFiSzZfSFZoS3VHbzZqMEdLVy1VaVhMWjZ1dy03dw?oc=5
+- How Irish nationalists inspired a future Indian President - The Indian Express
+  How Irish nationalists inspired a future Indian President
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVlKVWVaTVhmeGdJNnhtSlZMa1E0NklqejFFYW9xMjA1TkpxendCTVJLZjRNTTlpWWZhVXBFb2hRMWprMk5vbndLWDNjZjFKM2ppbDAxQ2k1Y1hCVDBkQTV0aTl6Ym1vM0g3cmt0QmlPY0tmdjBseXJoV1JmMkN3MHZTSnhwWlVmX0d4Z05CMnhaZVU0bnRscFRfcENMVkRTUVAwXzJ1WFBYTV9aSnlQdmxmLWtvdkp1NnJwVElTdnMtb1VoaEFtUdIBzwFBVV95cUxPTDh6Qnd4eEpQSXpiTjJGampZdkZyYXlfNDRaNFV6NVI0c09MdnBVZmtKNGFzNk00Ql93emhDMTE2NnRUNFdkRWUxMnFoZFRxRWRlSFQzeTgzOE4xalc4cGlDd2Jab3BrdUhWQURfclYzWmFySXdrRk14NnZuWGM2ZVZEcWxoaERycFQ2VTMzMDBfNjhaLVlPbVcxRGlfTkplVUN6R094ZmxxMTVuRDliOXZxalRKbUFvNzBBTlNfcmlJaUhBLUkwSjd5UVMwSXc?oc=5
 
-- Putin-Modi talks: Russian president dials PM; shares insights on Alaska meet with Donald Trump - Times of India
-  The Indian prime minister and the Russian president held talks in New Delhi.
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSUdRVUU4TmhHRjdDVUJPdVRsTksyS0FISzdqRXFPenFOVk5qRnRkeTVSNm9QekliX2tsM1VvMUFUV2dvYTB0WmhqR1N6VHV3dW5qVWZTRHQzNER5OTVJMTBPN0I0VDFGa1g3dkc1TjYwSngtbzhFQS12WGpMNVBOY0Roc1M0YXpBY2hXXzNnWVpnQXhycGNFM09lV1ZSZk9WUzg3SVZMcWRWeWRwNGgybmhlYjN0elVOR2JuSS1TV0UtRFhPeWd4d19fa0RSMGxSZEZ0UFRSUms5OV92VjIzYVJOaWRGdTJRUjc0QnpmVVlDQU0xd1N2amU5SG_SAYICQVVfeXFMTmJDZ3BXOXA4emtSWE9Zd1JrajZaZ0lsQjlacHJUcTFUMUZvbG13VjNUSDNOdGNiR1d5SUZXMVhVNmttNkZlTmZ0N1hOY3JFcFU0enMxcmUtWXQ3ZUFOci0zSUtEUnlKRzAzWlZCVGxNcFZGbkJYUlhLQTJTbi1JNmRLdHlNcW1qbzhMTGZ5bE5yNjUtYjA3aVNrUDUyMWRvZ0lxQ3B1Z05ydEFnbjc3Z21CazFBeWlQemNxTkJLQ0lyanNrSWxhTnBlNDZFcTRUcDE2M0syR3l5MjVvT1hWZEdDdHpqMWVCTzJFRG1xdWtNMDdHZ0RBcVJIdEQ3YXM1UEZR?oc=5
+- Lot of interest about Gaganyaan world over: Shubhanshu Shukla tells PM Modi - The Hindu
+  The Hindu: Gaganyaan world over: Sh
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNZklvNzZaajlwQXhBdjdIel9qd2pxVDBNLXI5eTRUd1ZTNlYyQnhNVkxsTWV5eWZSdU5BTmVibEFTd09EVWlVSkQydlR6M0Z2WVIzV1drd2taQkJWQlJhLXNOUF9neU4zaDc4MnFDbUpJcHpOb1ZNTDVPaHJTYWxBeVA4a08zaS1DRHRWRFJIVG1PV1Bua2g3d2lZVW1aTFA1RmNFNlJNR1FiOHJEeXpBc2VpeWZQSUduSTFyUFREeEVucGJCb0ZnT3pEMlVoUdIB1AFBVV95cUxPTjZrcEs0MW9nWXF6QlBGbTJJN2hPV0tLUzJyWm1wbmlaQXgybFVfdkFQWDRHNk1XZzAwUWNkRGJRaFd1aUtqcXhZOGY2cjJuMWV1MXdVMUFiLXpCXzVGeUFoeHhYWGlOLXNDRUFMdE5idUtQSk0zdmVGV08wWWVsNEtQc0RETTk4MkpLcThXMnF5WXRWelZEb1JXaUM5MUhhVUhvZTZET3BUNWZmUmhDeE4zVF8wUXNqSnFySFAwOFRGaXZsMVNMdkRVSjJGOGpSN3ZCWQ?oc=5
 
-- Marco Rubio Explains Why China Spared, India Faces Tariffs On Russian Oil - NDTV
-  &nbsp;<font color="#6f
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUU5iS2hEYlk4cTA5NGxWTVJ0bG92WTlnbUlDdWlRWUI3WENXcDc5MzI3b19hUDJrQTBWYzVLTWJrQVhzdjZkUENGNUVBczNEY1VrQU1XUFByYXZMWnhqa25jQlA5UHVQVEF4Ry03Q0E1Vm9QdGFYT2hfQVNmSFhlU1JOSEJwZWMzYlozUW9UWHZuRTR3V014dzNrR056RjNXcGdTSTEwS2xJQ2PSAbMBQVVfeXFMTW5TaVpUNGhyZXRqTHozVy1WM1dnWW51NGNJRWxuQmZUaHd6V1p6Vm9yenBjZFlraThkOU9iVjF4dHZqeXQyVGwtZW5UX3E2RmZqeFRPdm11eTkxQjkwbGJEY0dTcy0wWVo5Vk44R2lLVkdQZ2V6U1NrVWRZcDRwRDVqcnI4R01IeGljdXcxdGU4RG95VlF0OHZybE9VRGIzODBSRUZsTlRVZFFlVXhMU3dNMEU?oc=5
+- Constructive approach to ties, de-escalation essential, EAM to Wang - Times of India
+  "Constructive approach to ties, de-
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUJqWWh0aUVEUFdiek9LM09nTG1pSkJIMWI4ekswWU1SUEh4VFlEQl95ZDFrQ1U3YjlrVjNqVHBnWEd3eVU3TFFjTEJYQlFxV3UyWHE2cFMxODBMYTYtTTBhdG1uVWNYcURHZ2lSYXBkdlptTWJnRnFKM2QwWTI4ZXoyaWZERzBUVlZ1VGtRWHdzVlhuS0VreVdXVnJRaU1HYkNNdXBhWHVLV1kzM1BQNXRCYVVlTjdxQXfSAb8BQVVfeXFMUGdiM2xtRnljOGk5anRnam4tcGsyQVV5cW5nQlhGWlNvUmxWX3JyTFVwQ0U5U0FmVmUzQlplRkdLMWtwZzhtbnh2YlBBWFR4RHI3Ni0tSTBVX0phSnkxV0tLek9odUE3cVNQR19OREFVaUJmWmdPeE5xLTRZQ3pQM09uQTE0WjN0a21nZkxqcTNvVlQ4amxOOEhDUGd5T2F1WjdOZ2E5eTlFNnR4YzdQWUlrTW5OUmdPOU1qeFZCbm8?oc=5
 
-- Opposition may move impeachment motion against CEC | Latest News India - Hindustan Times - Hindustan Times
-  Opposition may move impeachment motion against CEC. Hindustan
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQURpVy1KVGdyZUpfaTdEZGxNRlBfaGIyZnFNckcxTFhVc0dsY08xcW9pa3V1OUI0MEs4MW13Q2cyZkVVQl9WbjZDMFBpQWJmb2FpWEQxbURVakExSnJTalBVbGpKaS1LdGJsbUl4bHN1RmVfdXBENjQ2NDl1QnQwTWdRVHFQVldITkRaaG5CR3ViVU5iOWJJYUZqWGRTMXlmanRWQXBSZ1V6TFdDZ1o2eFhBek4zeFNw0gG4AUFVX3lxTE9BRGlXLUpUZ3JlSl9pN0RkbE1GUF9oYjJmcU1yRzFMWFVzR2xjTzFxb2lrdXU5QjQwSzgxbXdDZzJmRVVCX1ZuNkMwUGlBYmZvYWlYRDFtRFVqQTFKclNqUFVsakppLUt0YmxtSXhsc3VGZV91cEQ2NDY0OXVCdDBNZ1FUcVBWV0hORFpobkJHdWJVTmI5YklhRmpYZFMxeWZqdFZBcFJnVXpMV0NnWjZ4WEF6TjN4U3A?oc=5
+- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
+  "India Like Mercedes": Pak Minister Doubles Down
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
 
-- INDIA bloc to name VP candidate on Tuesday - Times of India
-  India bloc to name VP candidate on Tuesday
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2gxOWl5YlZOYlZiZGJxbFhVWDQtTzlvRFNkRjNsUnlSbkh1V2k5N01BWHk1TzFna1czQTlfZklGZlJtNXpIMTROZlRlWXlKUzZQenZOejhsQ3N1NHM4Y1h1R0RlSzdfc3pFcFlJZjEteWRqaG1rRUFsZ09TQUFCd212LTZpaXFKVmh1ZEgxU2ZZeVNyd3R2Y05xckE4ZDJoTnpQcnBVQXhibFNsYWdV0gG0AUFVX3lxTE9yLUdwWTRMUHNoUTRyVHVYTDVkOHoxLXpNVlBpbDQ2d2xCY1B0bnpBQUdCZlFKYUNpUXdzdnBEaGhiV01XbGhacGN2aGNRUjRkMk9OdDJIR2t1bHJFQm16SFBxV3JNM0ZINGN1X09TUEdfanh6cDdCT1pXSGRBU1pWVkdPcVBGU3B3NHE2MVYwcWliMEJCeEZoTzJoYmZXRlBxUWphcUR2RU1KbC1fSGg5TnNPUw?oc=5
+- Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention | Latest News India - Hindustan Times - Hindustan Times
+  Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention.
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSDBJbVA2LXllTndlMnJtaVQxY1RveUVUSEpJNG90bjZMRE5aSEU0ZmFqMUh0X1hocTVrWmxWVE5COWNkcVdMT25uYnRDbS1VNGhGQ2gwXy1QZGxwa054LWNLNzh5Nnp0Zm5CUktWdlVKbXdNNm54U0x3RlNRZkZqYVJKMlVNcC1aUWsxZDJPd2FybXkzNzZESXhYUHVELTNZVUZmTU9SZmVkT1lXNXNqVFJMLVM0SUd0RTBrNjZxU0lXeTFNS1lEZTNUREdnTU5zMlMwb2JIc9IB3AFBVV95cUxPbjJ0NlZfZ1N2aURQN05RS25uOVU4QTdYdHNhZ3R1QWZXWmMzRHFuWElOOC12dUQxV3hTRTh3anJUYVE3dC1hcVlYREdNMkhfeEdYRzBDdlhxcm9PbWxvREg3REcxQi1OWDI2SGQ0eTlRb1l6RG81Z19wRUV1anktM0tYdDJEN1prcTE2MlFORlU4UURzajR4TDNiOHphSE9VQlZHaWpwUVRXTnVPRDIwQ1NhRFVWM05pVURHazdiQzlRSl84eFdIOXdyYlJqdEpkR3kzdnhOaVppdnNR?oc=5
 
-- Putin, Modi reaffirm vow to strengthen bilateral ties - Times of India
-  Putin, Modi reaffirm vow to strengthen
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQelJJX2Yta0tBM3E4WWh4ckJxblpRd2QwcHFkcm9UemUzWTdpLXlHOVE2QWtvQ3RwSVNPSUhxRHd0MHJKckVZY1FlejNLczVQTUdqZ2VkX3g0M0tOYXl1TjZjZnVLdXVvMU5QT0dvalM4TGIySjBXTEh3MDZMei1STHZtV0kzME5mYTZwRXhBRWtHUFBlR2IyMG43Z1FRcWVJeUJqRFAtOXVHU0k4b1RSOURTc0NlWXJTNTBaZdIBwgFBVV95cUxOSnExRFdKOC1qVzBVVnhOWDFFTXhhOExuMlhZREJ3SXpWQTBiajB1Zmc2OGxEYTRNMHF4NjQ3aWRZS051NHIzMHYxRkNUNXFWSUlRdjJMeVE4cWlOSzJYanhuUlhVNHA0MHFscGd4d2RuT3RDc3RLMms4eERPelZsUUhoR0N5bi1YcEdMUlNZMlVMYUxTc2NjeTNuNDhJdjZZdW5fVmFiSzZfSFZoS3VHbzZqMEdLVy1VaVhMWjZ1dy03dw?oc=5
+- How Irish nationalists inspired a future Indian President - The Indian Express
+  How Irish nationalists inspired a future Indian President
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVlKVWVaTVhmeGdJNnhtSlZMa1E0NklqejFFYW9xMjA1TkpxendCTVJLZjRNTTlpWWZhVXBFb2hRMWprMk5vbndLWDNjZjFKM2ppbDAxQ2k1Y1hCVDBkQTV0aTl6Ym1vM0g3cmt0QmlPY0tmdjBseXJoV1JmMkN3MHZTSnhwWlVmX0d4Z05CMnhaZVU0bnRscFRfcENMVkRTUVAwXzJ1WFBYTV9aSnlQdmxmLWtvdkp1NnJwVElTdnMtb1VoaEFtUdIBzwFBVV95cUxPTDh6Qnd4eEpQSXpiTjJGampZdkZyYXlfNDRaNFV6NVI0c09MdnBVZmtKNGFzNk00Ql93emhDMTE2NnRUNFdkRWUxMnFoZFRxRWRlSFQzeTgzOE4xalc4cGlDd2Jab3BrdUhWQURfclYzWmFySXdrRk14NnZuWGM2ZVZEcWxoaERycFQ2VTMzMDBfNjhaLVlPbVcxRGlfTkplVUN6R094ZmxxMTVuRDliOXZxalRKbUFvNzBBTlNfcmlJaUhBLUkwSjd5UVMwSXc?oc=5
+
+- Lot of interest about Gaganyaan world over: Shubhanshu Shukla tells PM Modi - The Hindu
+  The Hindu: Gaganyaan world over: Sh
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNZklvNzZaajlwQXhBdjdIel9qd2pxVDBNLXI5eTRUd1ZTNlYyQnhNVkxsTWV5eWZSdU5BTmVibEFTd09EVWlVSkQydlR6M0Z2WVIzV1drd2taQkJWQlJhLXNOUF9neU4zaDc4MnFDbUpJcHpOb1ZNTDVPaHJTYWxBeVA4a08zaS1DRHRWRFJIVG1PV1Bua2g3d2lZVW1aTFA1RmNFNlJNR1FiOHJEeXpBc2VpeWZQSUduSTFyUFREeEVucGJCb0ZnT3pEMlVoUdIB1AFBVV95cUxPTjZrcEs0MW9nWXF6QlBGbTJJN2hPV0tLUzJyWm1wbmlaQXgybFVfdkFQWDRHNk1XZzAwUWNkRGJRaFd1aUtqcXhZOGY2cjJuMWV1MXdVMUFiLXpCXzVGeUFoeHhYWGlOLXNDRUFMdE5idUtQSk0zdmVGV08wWWVsNEtQc0RETTk4MkpLcThXMnF5WXRWelZEb1JXaUM5MUhhVUhvZTZET3BUNWZmUmhDeE4zVF8wUXNqSnFySFAwOFRGaXZsMVNMdkRVSjJGOGpSN3ZCWQ?oc=5
+
+- Constructive approach to ties, de-escalation essential, EAM to Wang - Times of India
+  "Constructive approach to ties, de-
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUJqWWh0aUVEUFdiek9LM09nTG1pSkJIMWI4ekswWU1SUEh4VFlEQl95ZDFrQ1U3YjlrVjNqVHBnWEd3eVU3TFFjTEJYQlFxV3UyWHE2cFMxODBMYTYtTTBhdG1uVWNYcURHZ2lSYXBkdlptTWJnRnFKM2QwWTI4ZXoyaWZERzBUVlZ1VGtRWHdzVlhuS0VreVdXVnJRaU1HYkNNdXBhWHVLV1kzM1BQNXRCYVVlTjdxQXfSAb8BQVVfeXFMUGdiM2xtRnljOGk5anRnam4tcGsyQVV5cW5nQlhGWlNvUmxWX3JyTFVwQ0U5U0FmVmUzQlplRkdLMWtwZzhtbnh2YlBBWFR4RHI3Ni0tSTBVX0phSnkxV0tLek9odUE3cVNQR19OREFVaUJmWmdPeE5xLTRZQ3pQM09uQTE0WjN0a21nZkxqcTNvVlQ4amxOOEhDUGd5T2F1WjdOZ2E5eTlFNnR4YzdQWUlrTW5OUmdPOU1qeFZCbm8?oc=5
+
+- "India Like Mercedes": Pak Minister Doubles Down On Asim Munir's "Crude Analogy" - NDTV
+  "India Like Mercedes": Pak Minister Doubles Down
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2ZieGJZME4yd2lhMldwNVBLRGRVU0toNE1jSzVRLVg4U19YVW0tMUI1UXpTbUUyVmpBalVTYmpTQlBqNjctRmJOUW1Yb0xGXzJYUGNpRFNjRTZhQUZkemlTLXlCREo2WFp5ZnRIaDR0enlXMXVjQ3B6N3ZVVjFqb1U5ZkVlOU9zczYyZTNqSVR6MHA4STRTMjBMazluZXhhSkh4Q29GdEJQVzFiT09YZ3FYZFY5dk9BNERSNVo1Y1M1V0djRVJNOE82bVXSAdQBQVVfeXFMTVdJZGxmMkJIUWFxclllQTUyWHZNaEtRbzh0aV9IejJCTmFMUVBiRXp5bFZrUjdSdG50SnpfTnVVV2E2UXBoMjVhdnB3bnVkYURLZGo4bm5LbWt6S0lrX05YLTJ5T1doZjFBMlpOLU5BYnlIZXlHYS1xdUprVFpycUtxaHpydUpnaHpMcHBnUHc3TDlDVy1wN2ZIRXhnZHpkRzRDS3pkTG4zWGVlcENaS0ExR2tLdTFnbHY0aUVMd255dHlab0xfZzNuVTBkSF9EYjhpMU0?oc=5
+
+- Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention | Latest News India - Hindustan Times - Hindustan Times
+  Bluffmaster Asim Munir says India begged for ceasefire and Trump intervention.
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSDBJbVA2LXllTndlMnJtaVQxY1RveUVUSEpJNG90bjZMRE5aSEU0ZmFqMUh0X1hocTVrWmxWVE5COWNkcVdMT25uYnRDbS1VNGhGQ2gwXy1QZGxwa054LWNLNzh5Nnp0Zm5CUktWdlVKbXdNNm54U0x3RlNRZkZqYVJKMlVNcC1aUWsxZDJPd2FybXkzNzZESXhYUHVELTNZVUZmTU9SZmVkT1lXNXNqVFJMLVM0SUd0RTBrNjZxU0lXeTFNS1lEZTNUREdnTU5zMlMwb2JIc9IB3AFBVV95cUxPbjJ0NlZfZ1N2aURQN05RS25uOVU4QTdYdHNhZ3R1QWZXWmMzRHFuWElOOC12dUQxV3hTRTh3anJUYVE3dC1hcVlYREdNMkhfeEdYRzBDdlhxcm9PbWxvREg3REcxQi1OWDI2SGQ0eTlRb1l6RG81Z19wRUV1anktM0tYdDJEN1prcTE2MlFORlU4UURzajR4TDNiOHphSE9VQlZHaWpwUVRXTnVPRDIwQ1NhRFVWM05pVURHazdiQzlRSl84eFdIOXdyYlJqdEpkR3kzdnhOaVppdnNR?oc=5
+
+- How Irish nationalists inspired a future Indian President - The Indian Express
+  How Irish nationalists inspired a future Indian President
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVlKVWVaTVhmeGdJNnhtSlZMa1E0NklqejFFYW9xMjA1TkpxendCTVJLZjRNTTlpWWZhVXBFb2hRMWprMk5vbndLWDNjZjFKM2ppbDAxQ2k1Y1hCVDBkQTV0aTl6Ym1vM0g3cmt0QmlPY0tmdjBseXJoV1JmMkN3MHZTSnhwWlVmX0d4Z05CMnhaZVU0bnRscFRfcENMVkRTUVAwXzJ1WFBYTV9aSnlQdmxmLWtvdkp1NnJwVElTdnMtb1VoaEFtUdIBzwFBVV95cUxPTDh6Qnd4eEpQSXpiTjJGampZdkZyYXlfNDRaNFV6NVI0c09MdnBVZmtKNGFzNk00Ql93emhDMTE2NnRUNFdkRWUxMnFoZFRxRWRlSFQzeTgzOE4xalc4cGlDd2Jab3BrdUhWQURfclYzWmFySXdrRk14NnZuWGM2ZVZEcWxoaERycFQ2VTMzMDBfNjhaLVlPbVcxRGlfTkplVUN6R094ZmxxMTVuRDliOXZxalRKbUFvNzBBTlNfcmlJaUhBLUkwSjd5UVMwSXc?oc=5
+
+- Lot of interest about Gaganyaan world over: Shubhanshu Shukla tells PM Modi - The Hindu
+  The Hindu: Gaganyaan world over: Sh
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNZklvNzZaajlwQXhBdjdIel9qd2pxVDBNLXI5eTRUd1ZTNlYyQnhNVkxsTWV5eWZSdU5BTmVibEFTd09EVWlVSkQydlR6M0Z2WVIzV1drd2taQkJWQlJhLXNOUF9neU4zaDc4MnFDbUpJcHpOb1ZNTDVPaHJTYWxBeVA4a08zaS1DRHRWRFJIVG1PV1Bua2g3d2lZVW1aTFA1RmNFNlJNR1FiOHJEeXpBc2VpeWZQSUduSTFyUFREeEVucGJCb0ZnT3pEMlVoUdIB1AFBVV95cUxPTjZrcEs0MW9nWXF6QlBGbTJJN2hPV0tLUzJyWm1wbmlaQXgybFVfdkFQWDRHNk1XZzAwUWNkRGJRaFd1aUtqcXhZOGY2cjJuMWV1MXdVMUFiLXpCXzVGeUFoeHhYWGlOLXNDRUFMdE5idUtQSk0zdmVGV08wWWVsNEtQc0RETTk4MkpLcThXMnF5WXRWelZEb1JXaUM5MUhhVUhvZTZET3BUNWZmUmhDeE4zVF8wUXNqSnFySFAwOFRGaXZsMVNMdkRVSjJGOGpSN3ZCWQ?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-08-19 01:15:24 UTC_
+_Last updated: 2025-08-19 06:27:36 UTC_
