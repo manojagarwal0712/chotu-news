@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
-- 6 years after dropping out of Amaravati project, Singapore may come back on board– but with a rider
+- News Today Live Updates, 20 August | Delhi CM Rekha Gupta ‘attacked’; NDA’s V-P candidate files nomination; and more
   
-  🔗 https://indianexpress.com/article/india/6-yrs-after-dropping-out-of-amaravati-project-singapore-may-be-back-on-board-with-a-rider-10199571/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-08-20-2025-news-headlines-10199773/
 
-- Centre lists ‘ineligible’ ration card holders, asks states to remove them
+- Parliament Monsoon Session LIVE: PM Modi accompanies NDA’s V-P candidate CP Radhakrishnan as he files his nomination
   
-  🔗 https://indianexpress.com/article/india/centre-lists-ineligible-ration-card-holders-asks-states-to-remove-them-10199606/
+  🔗 https://indianexpress.com/article/india/parliament-monsoon-session-live-updates-constitution-amendment-bill-10199962/
 
-- Jaishankar said Taiwan part of China, says Beijing; no change in ties with Taipei: Delhi
+- Gold Today Rate, 20 August: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/jaishankar-said-taiwan-part-of-china-beijing-delhi-says-taipei-ties-unchanged-10199607/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-20-august-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10200044/
 
-- Be loyal to Constitution, not bosses: SC pulls up Bihar IPS officer for filing affidavit backing murder accused
+- Jodhaa Akbar film editor, who was ‘lured’ and arrested by Madhya Pradesh police, faced sham FIR, High Court says
   
-  🔗 https://indianexpress.com/article/india/be-loyal-to-constitution-not-bosses-sc-pulls-up-bihar-ips-officer-for-filing-affidavit-backing-murder-accused-10199693/
+  🔗 https://indianexpress.com/article/india/jodhaa-akbar-film-editor-who-was-lured-and-arrested-by-madhya-pradesh-police-faced-sham-fir-high-court-says-10199562/
 
-- HC relief for CHRI, sets aside I-T dept notice to cancel NGO designation
+- Land worth Rs 1 crore belonging to father of Pakistan-based militant attached by J-K Police
   
-  🔗 https://indianexpress.com/article/india/hc-relief-for-chri-sets-aside-i-t-dept-notice-to-cancel-ngo-designation-10199543/
+  🔗 https://indianexpress.com/article/india/land-worth-rs-1-crore-belonging-to-father-of-pakistan-based-militant-attached-by-j-k-police-10199563/
+
+- Google settles YouTube children’s privacy lawsuit
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-settles-youtube-childrens-privacy-lawsuit-10199909/
+
+- US examines equity stake in chip makers for CHIPS Act cash grants
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/us-examines-equity-stake-in-chip-makers-for-chips-act-cash-grants-10199899/
+
+- Google tweaks Google Play conditions following EU pressure
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-tweaks-google-play-conditions-following-eu-pressure-10199894/
+
+- Google Pixel 10 launch date and time: How to watch Made by Google livestream in India
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-pixel-10-launch-how-to-watch-livestream-india-10198731/
 
 - Spotify introduces Mix, a DJ-style feature to personalise playlists
   
   🔗 https://indianexpress.com/article/technology/spotify-now-lets-users-customise-transitions-for-playlists-10199000/
 
-- Scientists discover 332 Antarctic submarine canyons, some as deep as 4,000 metres
-  
-  🔗 https://indianexpress.com/article/technology/science/scientists-discover-332-antarctic-submarine-canyons-some-as-deep-as-4000-metres-10198785/
+- Deutsche Bank chief faces scrutiny about role in risky trades over a decade ago
+  Deutsche Bank chief faces scrutiny about role in risky trades over
+  🔗 https://www.livemint.com/companies/news/deutsche-bank-chief-faces-scrutiny-about-role-in-risky-trades-over-a-decade-ago-11755666082566.html
 
-- OpenAI’s Sam Altman says AI market bubble is real but also sees long-term benefits
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-sam-altman-ai-bubble-real-ong-term-benefits-10198841/
-
-- Will our universe rip apart or expand forever? Dark energy holds the answer
-  
-  🔗 https://indianexpress.com/article/technology/science/will-our-universe-rip-apart-or-expand-forever-dark-energy-holds-the-answer-10198693/
-
-- ChatGPT Go vs ChatGPT Plus vs ChatGPT Free: Which plan should you pick?
-  
-  🔗 https://indianexpress.com/article/technology/chatgpt-go-vs-chatgpt-plus-vs-chatgpt-free-which-plan-should-you-pick-10198499/
+- Wary diners shun restaurants, raising prospect of boost for retailers
+  Wary diners shun restaurants
+  🔗 https://www.livemint.com/companies/news/wary-diners-shun-restaurants-raising-prospect-of-boost-for-retailers-11755662490749.html
 
 - Lightspeed-backed Centricity hires 30 private bankers to tap tier-2, 3 India’s affluent class
   The company is also entering the insurance broking business after securing
@@ -48,177 +56,109 @@
   Top Indian retailers, including Reliance and D’Mart, increased their permanent workforce by 46,000 in FY25. Urban consumption is yet to come
   🔗 https://www.livemint.com/companies/retail-industry-boosts-workforce-by-46-000-as-focus-shifts-to-tier-2-cities-reliance-retail-trent-titan-dmart-hiring-11755509381633.html
 
-- JSW Group doubles down on auto biz with $115mn fund infusion in Own Brand, eyes $300mn fundraise for MG JV
+- JSW steps up EV bet with fresh capital for Green Mobility, funding talks for MG Motor
   The group is seeking up to $300 million from external investors for MG Motor India. The in-house brand is yet to launch its first vehicle.
   🔗 https://www.livemint.com/companies/news/jsw-group-doubles-down-auto-business-115-mn-fund-infusion-in-own-brand-eyes-300-mn-fundraise-mg-jv-green-mobility-11755602865364.html
 
-- California man who admitted shipping weapons to North Korea is sentenced to 8 years in prison
-  California man who admitted shipping weapons to North Korea is sentenced
-  🔗 https://www.livemint.com/companies/news/california-man-who-admitted-shipping-weapons-to-north-korea-is-sentenced-to-8-years-in-prison-11755645165437.html
+- Realty stock Man Infraconstruction jumps after promoters stake raise. Details here
+  Man Infraconstruction's share price increased by over 2% in intraday trading on BSE. The stock opened at
+  🔗 https://www.livemint.com/market/stock-market-news/realty-stock-man-infraconstruction-jumps-after-promoters-stake-raise-details-here-11755669473299.html
 
-- Lawyer argues Meta cant be held liable for gunmakers Instagram posts in Uvalde families lawsuit
-  Lawyer argues Meta can't be held liable for
-  🔗 https://www.livemint.com/companies/news/lawyer-argues-meta-cant-be-held-liable-for-gunmakers-instagram-posts-in-uvalde-families-lawsuit-11755641050356.html
+- Penny stock hits upper circuit after strong Q1 results 2025
+  Silverline Technologies net profit for Q1FY26 surged to  ₹
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-silverline-technologies-hits-upper-circuit-after-strong-q1-results-2025-11755668066912.html
 
-- Global markets today: Nikkei 225, Kospi fall on Japan's trade data, China's rate decision
-  In South Korea, the Kospi slid 1.52% and the Kosdaq
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-fall-on-japans-trade-data-chinas-rate-decision-11755650295854.html
+- Dollar strengthens ahead of Jackson Hole, kiwi drops on dovish RBNZ
+  Dollar strengthens ahead of Jackson
+  🔗 https://www.livemint.com/market/stock-market-news/dollar-strengthens-ahead-of-jackson-hole-kiwi-drops-on-dovish-rbnz-11755670149817.html
 
-- Stock market today: Trade setup for Nifty 50, GST reforms to Trump tariffs; eight stocks to buy or sell on Wednesday
-  The benchmark Nifty 50 Index ended just short of the psychological hurdle of the 25,000 mark. Experts say that one may expect Nifty to move up further in the short term.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-gst-reforms-to-trump-tariffs-eight-stocks-to-buy-or-sell-on-wednesday-11755598913469.html
+- PG Electroplast share price jumps 6% on these two triggers. Do you own?
+  PG Electroplast share price rose over 6% after a partnership with PAX India for POS device production and exiting the F&amp;amp;O ban. This move opens new trading
+  🔗 https://www.livemint.com/market/stock-market-news/pg-electroplast-share-price-jumps-6-on-these-two-triggers-do-you-own-11755667877690.html
 
-- Regaal Resources IPO listing today. GMP, experts signal strong debut of shares in stock market today
-  Regaal Resources IPO listing date is today. Equity shares of the company will be listed on both the stock exchanges, BSE and NSE.
-  🔗 https://www.livemint.com/market/ipo/regaal-resources-ipo-listing-today-gmp-experts-signal-strong-debut-of-shares-in-stock-market-today-11755621921799.html
+- 4240% returns in 5 years! Small-cap stock hits 5% upper circuit after receipt of defence order from UAE company
+  Aerpace Industries hit a 5% upper circuit after securing a Letter of Intent from a UAE defence company. The stock has shown significant long-term growth, gaining 604% over two years
+  🔗 https://www.livemint.com/market/stock-market-news/4240-returns-in-5-years-small-cap-stock-hits-5-upper-circuit-after-receipt-of-defence-order-from-uae-company-11755665920629.html
 
-- Best stocks to buy today—recommended by NeoTrader's Raja Venkatraman
-   NeoTrader's Raja
-  🔗 https://www.livemint.com/market/stocks-to-buy-today-20-august-raja-venkatraman-nifty-sensex-zuari-taj-gvk-iifl-11755604555255.html
+- South Africa Pushes Rule Review That Would Ease Starlink Entry
+  South Africa is prioritizing a policy-review process that may result in Elon Musk’s SpaceX and other satellite-internet companies being allowed to
+  🔗 https://www.livemint.com/technology/tech-news/south-africa-pushes-rule-review-that-would-ease-starlink-entry-11755669115998.html
 
-- MFs seek clarity from Sebi on its scheme split plan, flag risks
-  Mutual fund houses have sought clarity from Sebi on its draft proposal on a new scheme launch. Concerns include the fate of existing SIPs, investor confusion, and potential performance
-  🔗 https://www.livemint.com/market/mutuak-funds-sebi-scheme-split-assets-under-management-consultation-paper-amcs-sip-equity-hybrid-scheme-11755587371201.html
+- Best ergonomic mouse of 2025 for comfort, precision and pain-free computing
+  These ergonomic mouse of 2025 combine comfort, precision, and smart design to reduce
+  🔗 https://www.livemint.com/technology/gadgets/best-ergonomic-mouse-of-2025-for-comfort-precision-and-pain-free-computing-11755594319348.html
+
+- 88% students turn to AI during stress, survey finds; ChatGPT the most popular tool
+  Youth Ki Awaaz survey reveals that 88% of students turn to AI for emotional support during stressful times. ChatGPT leading the way.
+  🔗 https://www.livemint.com/technology/tech-news/88-students-turn-to-ai-during-stress-survey-finds-chatgpt-the-most-popular-tool-11755658354656.html
+
+- Boost your productivity with large screen monitors at up to 50% off on Amazon deals
+  Grab large screen monitors at up to 50% discount on top brands like BenQ, LG,
+  🔗 https://www.livemint.com/technology/gadgets/boost-your-productivity-with-large-screen-monitors-at-up-to-50-off-on-amazon-deals-11755589414660.html
 
 - Helldivers 2 x Halo: ODST brings iconic weapons, armour and a big surprise on 26 August! What's inside
   The Legendary Warbond for Helldivers 2 launches on 26 August. It includes new weapons, armour sets, and cosmetics inspired by Halo 3: ODST.
   🔗 https://www.livemint.com/technology/tech-news/helldivers-2-x-halo-odst-brings-iconic-weapons-armour-and-a-big-surprise-on-26-august-whats-inside-11755623917831.html
 
-- Attention Gmail users! Google warns of hidden AI scam stealing passwords, 1.8 billion accounts vulnerable
-  Google warns its 1.8 billion Gmail users of a new cybersecurity threat. The company is enhancing protections in its AI chatbot, Gemini, to prevent unauthor
-  🔗 https://www.livemint.com/technology/tech-news/attention-gmail-users-google-warns-of-hidden-ai-scam-stealing-passwords-1-8-billion-accounts-vulnerable-11755621232689.html
+- Stocks to Buy | Autos, chemicals and fertilisers poised to benefit fromGST reforms
+  The latest GST change provides the missing push on the fiscal front, creating a more balanced policy support for growth. According to Alok Agarwal, with the RBI already taking steps on
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-autos-chemicals-and-fertilisers-poised-to-benefit-from-gst-reforms/slideshow/123401938.cms
 
-- Apple Watch lineup in 2026 could finally support Touch ID, leak claims
-  Leaks suggest the 2026 Apple Watch may feature Touch ID support. While expected to be currently in prototype, this could streamline unlocking
-  🔗 https://www.livemint.com/technology/tech-news/apple-watch-lineup-in-2026-could-finally-support-touch-id-leak-claims-11755617748632.html
+- Powell likely to play ‘Owl,’ watch data at Jackson Hole: Ed Yardeni
+  Ed Yardeni anticipates Fed Chair Jerome Powell to adopt a wait-and-see approach at the Jackson Hole Symposium. He foresees a potential market dip in August-September, followed by a year-end rally.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/powell-likely-to-play-owl-watch-data-at-jackson-hole-ed-yardeni/articleshow/123401719.cms
 
-- After Jio, Airtel to kill its  ₹249 plan offering 1GB/Day and unlimited calls after midnight
-  Bharti Airtel will discontinue its  ₹249 prepaid plan starting 20 August 2025. The plan offered 1GB daily data, unlimited calls,
-  🔗 https://www.livemint.com/technology/tech-news/after-jio-airtel-to-kill-its-rs-249-plan-offering-1gb-day-and-unlimited-calls-after-midnight-11755612286622.html
+- Regaal Resources shares slip 7% after strong D-Street debut
+  Regaal Resources shares: The stock debuted at ₹141.80 on the BSE, a 39% premium to its IPO price. However, the initial surge lost steam as the shares slipped to an int
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/regaal-resources-shares-slip-7-after-strong-d-street-debut/articleshow/123401672.cms
 
-- UP govt to use AI for transparent, error-free welfare schemes
-  UP govt to use
-  🔗 https://www.livemint.com/technology/tech-news/up-govt-to-use-ai-for-transparent-error-free-welfare-schemes-11755607226442.html
+- Bitcoin slides toward $113,000, Ethereum near $4,100: Here's what experts say
+  Bitcoin slipped toward $113,000 as profit-taking, US tariffs, and inflation concerns weighed on sentiment. Experts flagged short-term holder capitulation, ETF outflows, and regulatory
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-slides-toward-113000-ethereum-near-4100-heres-what-experts-say/articleshow/123401507.cms
 
-- Nvidia-Led Tech Slide Cracks Summer Calm in Stocks: Markets Wrap - Bloomberg.com
-  Nvidia-Led Tech Slide
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjhzZGhSeEt3TUg2bHdzdHRaSDNTR2ZTbElsNUR5QXJSVzNkSWtSd1hQNFFzOHJvZ3FVdjNTWWNNOHdvdkN6UlBpWVZuV3pyR21hdlVWS2hWaDNJTHItLUZUQ19CdjlvYXhaSG1nVFZVS2FaX0VnZUE3eG53c0Y3UUdIUEp3VUdlMmZaVU9jbVlZeGcw?oc=5
-
-- Markets News, Aug. 18, 2025: Stocks Close Little Changed as Major Indexes Hover Near Record Highs Ahead of Retail Sector Earnings - Investopedia
-  Markets News, Aug. 18, 2025: Stocks Close Little Changed as Major Indexes
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBwcEJhdWJhaWtlZVhFaXlvTV8yYVRRbEkweHhDbVBwN3RiVmNBRHlKUHJpQjVIMkw0OGlOakc5UlEwbjJQdkJVVEs4a2lOcXZmN09uQjItdlFRd2x0YXhIY3R2RkpTZ2dQVXBib1NrZw?oc=5
-
-- Dow, S&P 500, Nasdaq futures slip as markets wait and watch Fed rate-cut hopes amid Ukraine tensions - The Economic Times
-  The Economic Times reports that the U.S. Federal Reserve is considering a rate cut
-  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxPWFdiWGRGbDB2VmJUZHd5eXBFUkZKZ1h0M3o5cmNwWkJfamZhOXJMZURiY21MUGlRSFJkS2pWSFE4Q3UtRjRfSDQtZVNOaXgyZ0ZMOVVFWGlMMWRTQ1FyWFhOczYxRFFvR1RvUF9uMTBUZ0wzWnQ0SnhTRUhpcmpseC1NRHBtNEFPRHd3akdiQUl2MVpWV3RJYzhCN3d1OGhFM1BEREs2Qko4MkxMOWxsa210ZzJpY3Y3Q25DN29nV1pJTDV5QjI3T0RhVlNySG9ia1dVR05VTU1oUXp6X04zY0lEcmY1c2ZCQ3NfR1FvSlRWcWRGZ0tiNkViRkRwZ0JqWmZmbGJhNDhmRUh5NWRJeUNmeHlDd1B2aXgyQW90MWxEM0NTWVNMZjNB0gGvAkFVX3lxTFBTSXpIZEN3M2xNT093bjNjVUJzbGRXYmF4OHViSVo4UjUzdmNlNmFVcEpJRm40a0NwTUloOHNRT0FrWUNrMmxwVV9hYnhiQm94d2pRSDgzc3ZKREJydi1lTGxxRW0yNzA1OVFXbE9nYnZ0UWVIVWN0cWZ0Z0liVldhSUlvWGVYQ2Z5bXRpanZWYld5TGtRRmxFdXFzWDFrLWR2SUdNWDFBRnVTc0xmTVU3bDJMaklvSjRqRGx3WlZDNXRMbWVfREcycFNSc1VPakhWaWFpUWRVeGlZWVlwQjRFaTd6Zk15V2Q4UEIyazRsT1lORkQyeklnMkxhSXZweFQ4V3hKQ2Y3OGpxZ1dwQ0pNSE5EMVFlak5tRTdNdTgtY0JYMkFXT05HQU84cnhCWQ?oc=5
-
-- Stock markets rally for 4th day; Sensex climbs nearly 371 points on GST reform bid - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWFRBYUdWTW9wdmVXSm5CcENINzM2SUZKU29zZ3RzS1pUcERTWE1jNUpQejRCY0ZEU0VwSTk0LTU1T1RveGZjZHNZOUpkNTB4MmtjcTZzMDZQcU9HOHpMOUEyZ1JWMFhRVm
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWFRBYUdWTW9wdmVXSm5CcENINzM2SUZKU29zZ3RzS1pUcERTWE1jNUpQejRCY0ZEU0VwSTk0LTU1T1RveGZjZHNZOUpkNTB4MmtjcTZzMDZQcU9HOHpMOUEyZ1JWMFhRVm1lbkZ6NXFTWVRwRDY4M2l1NHVRYlVDV2dMSGZ6ZW5MQVUxcld0T1hrTXduZGphczJfR09XcWw3aF9fT1ZiNkRYZFBsQ2J2Y09Pc25qbkJycHlDa1JQWVgybThnU2MyaTFQWGoxdjEyT1RXU2xHdmFTcW_SAeIBQVVfeXFMUDBCVGpmbDNkckNqM29ILW13bE1GNkpyM254eUFUT0hPVHVQaE9iS2o1OFEtUE52enVrLVBYcEFFcFlJeVN0dng5S0F1SE53RFpqeEU1UDR6RXNTYVNKczhsMFZXbm0tSG9yaW9RUEJuZUd6dE5Nb2FKNk1GMGkwcUVhSVB0cE1VV182M0h4WUZ5dktGSzFRUHV6TTdVckJDTUJEYlNsOU5tNGMwSTVnZ25OVXJvR0l3cS03cDRkanNxbHRmc19va1ZKbklGWWVMUnk2cGtzdWYxMWg2ZEpxdEY2UQ?oc=5
-
-- Regaal Resources IPO listing today. GMP, experts signal strong debut of shares in stock market today - Mint
-  Regaal Resources IPO listing today. GMP, experts signal strong
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVHpLQmctRFlMbXgzVWhOeF9fNFJvNVNSTDMyQ2xCTHRsWTBLdkJ4eko5ZlB6SUNWcnBLQzdNMXU0V0JNTk9uTkRhbFR3cFNMQ0tNRWZHTlFYRE80OXpzRkVZY0VoVml2SkFrMk9nUEU4Slh5OE1UREhrMEtrS0Jyc3dMR1czM1dZaU5LWjZoeWhaNzNKWW01alBFMzN0Z0JfYktMM0stZkxtTEQ4YTJoWTBzbnk1SmMzTWplXzUwVzZpYmxKMFJSRjRvS0VFejVBZW1lZkNYaU1rdTJwaEdyUDRwYTh2YzViMlHSAe8BQVVfeXFMTjFZU0pERW1fX2FaRC16emU0aU0yc2RXSmJ1VU9GenNGM0JnR3huRF9NWmZodHo0STdWTXBrVmVxSEo0ZThQNXVheDl4SGlrb3VMUXpjS1JnRmV3Q0t0R2hTZTU5SzVvbzBCdFE3d0RES1dwWndQRjBVZ0pWc19Dc0thRGJfbmd1akY0TzdLeUVySFFLa2kySGdYX1VIVTFpSGs0QkxRVkJPb2FVZ2RkdnNlWERSdlFjN05Lb2d2blBtZ3VfNWtlODdtN1JRNmFhZHN4dENaMTlQc21Fc19Zc191UUVjVmJNZ2JLN3plQUk?oc=5
-
-- Nvidia-Led Tech Slide Cracks Summer Calm in Stocks: Markets Wrap - Bloomberg.com
-  Nvidia-Led Tech Slide
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjhzZGhSeEt3TUg2bHdzdHRaSDNTR2ZTbElsNUR5QXJSVzNkSWtSd1hQNFFzOHJvZ3FVdjNTWWNNOHdvdkN6UlBpWVZuV3pyR21hdlVWS2hWaDNJTHItLUZUQ19CdjlvYXhaSG1nVFZVS2FaX0VnZUE3eG53c0Y3UUdIUEp3VUdlMmZaVU9jbVlZeGcw?oc=5
-
-- Markets News, Aug. 18, 2025: Stocks Close Little Changed as Major Indexes Hover Near Record Highs Ahead of Retail Sector Earnings - Investopedia
-  Markets News, Aug. 18, 2025: Stocks Close Little Changed as Major Indexes
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBwcEJhdWJhaWtlZVhFaXlvTV8yYVRRbEkweHhDbVBwN3RiVmNBRHlKUHJpQjVIMkw0OGlOakc5UlEwbjJQdkJVVEs4a2lOcXZmN09uQjItdlFRd2x0YXhIY3R2RkpTZ2dQVXBib1NrZw?oc=5
-
-- Dow, S&P 500, Nasdaq futures slip as markets wait and watch Fed rate-cut hopes amid Ukraine tensions - The Economic Times
-  The Economic Times reports that the U.S. Federal Reserve is considering a rate cut
-  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxPWFdiWGRGbDB2VmJUZHd5eXBFUkZKZ1h0M3o5cmNwWkJfamZhOXJMZURiY21MUGlRSFJkS2pWSFE4Q3UtRjRfSDQtZVNOaXgyZ0ZMOVVFWGlMMWRTQ1FyWFhOczYxRFFvR1RvUF9uMTBUZ0wzWnQ0SnhTRUhpcmpseC1NRHBtNEFPRHd3akdiQUl2MVpWV3RJYzhCN3d1OGhFM1BEREs2Qko4MkxMOWxsa210ZzJpY3Y3Q25DN29nV1pJTDV5QjI3T0RhVlNySG9ia1dVR05VTU1oUXp6X04zY0lEcmY1c2ZCQ3NfR1FvSlRWcWRGZ0tiNkViRkRwZ0JqWmZmbGJhNDhmRUh5NWRJeUNmeHlDd1B2aXgyQW90MWxEM0NTWVNMZjNB0gGvAkFVX3lxTFBTSXpIZEN3M2xNT093bjNjVUJzbGRXYmF4OHViSVo4UjUzdmNlNmFVcEpJRm40a0NwTUloOHNRT0FrWUNrMmxwVV9hYnhiQm94d2pRSDgzc3ZKREJydi1lTGxxRW0yNzA1OVFXbE9nYnZ0UWVIVWN0cWZ0Z0liVldhSUlvWGVYQ2Z5bXRpanZWYld5TGtRRmxFdXFzWDFrLWR2SUdNWDFBRnVTc0xmTVU3bDJMaklvSjRqRGx3WlZDNXRMbWVfREcycFNSc1VPakhWaWFpUWRVeGlZWVlwQjRFaTd6Zk15V2Q4UEIyazRsT1lORkQyeklnMkxhSXZweFQ4V3hKQ2Y3OGpxZ1dwQ0pNSE5EMVFlak5tRTdNdTgtY0JYMkFXT05HQU84cnhCWQ?oc=5
-
-- Stock markets rally for 4th day; Sensex climbs nearly 371 points on GST reform bid - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWFRBYUdWTW9wdmVXSm5CcENINzM2SUZKU29zZ3RzS1pUcERTWE1jNUpQejRCY0ZEU0VwSTk0LTU1T1RveGZjZHNZOUpkNTB4MmtjcTZzMDZQcU9HOHpMOUEyZ1JWMFhRVm
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWFRBYUdWTW9wdmVXSm5CcENINzM2SUZKU29zZ3RzS1pUcERTWE1jNUpQejRCY0ZEU0VwSTk0LTU1T1RveGZjZHNZOUpkNTB4MmtjcTZzMDZQcU9HOHpMOUEyZ1JWMFhRVm1lbkZ6NXFTWVRwRDY4M2l1NHVRYlVDV2dMSGZ6ZW5MQVUxcld0T1hrTXduZGphczJfR09XcWw3aF9fT1ZiNkRYZFBsQ2J2Y09Pc25qbkJycHlDa1JQWVgybThnU2MyaTFQWGoxdjEyT1RXU2xHdmFTcW_SAeIBQVVfeXFMUDBCVGpmbDNkckNqM29ILW13bE1GNkpyM254eUFUT0hPVHVQaE9iS2o1OFEtUE52enVrLVBYcEFFcFlJeVN0dng5S0F1SE53RFpqeEU1UDR6RXNTYVNKczhsMFZXbm0tSG9yaW9RUEJuZUd6dE5Nb2FKNk1GMGkwcUVhSVB0cE1VV182M0h4WUZ5dktGSzFRUHV6TTdVckJDTUJEYlNsOU5tNGMwSTVnZ25OVXJvR0l3cS03cDRkanNxbHRmc19va1ZKbklGWWVMUnk2cGtzdWYxMWg2ZEpxdEY2UQ?oc=5
-
-- Regaal Resources IPO listing today. GMP, experts signal strong debut of shares in stock market today - Mint
-  Regaal Resources IPO listing today. GMP, experts signal strong
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVHpLQmctRFlMbXgzVWhOeF9fNFJvNVNSTDMyQ2xCTHRsWTBLdkJ4eko5ZlB6SUNWcnBLQzdNMXU0V0JNTk9uTkRhbFR3cFNMQ0tNRWZHTlFYRE80OXpzRkVZY0VoVml2SkFrMk9nUEU4Slh5OE1UREhrMEtrS0Jyc3dMR1czM1dZaU5LWjZoeWhaNzNKWW01alBFMzN0Z0JfYktMM0stZkxtTEQ4YTJoWTBzbnk1SmMzTWplXzUwVzZpYmxKMFJSRjRvS0VFejVBZW1lZkNYaU1rdTJwaEdyUDRwYTh2YzViMlHSAe8BQVVfeXFMTjFZU0pERW1fX2FaRC16emU0aU0yc2RXSmJ1VU9GenNGM0JnR3huRF9NWmZodHo0STdWTXBrVmVxSEo0ZThQNXVheDl4SGlrb3VMUXpjS1JnRmV3Q0t0R2hTZTU5SzVvbzBCdFE3d0RES1dwWndQRjBVZ0pWc19Dc0thRGJfbmd1akY0TzdLeUVySFFLa2kySGdYX1VIVTFpSGs0QkxRVkJPb2FVZ2RkdnNlWERSdlFjN05Lb2d2blBtZ3VfNWtlODdtN1JRNmFhZHN4dENaMTlQc21Fc19Zc191UUVjVmJNZ2JLN3plQUk?oc=5
+- Reliance Infrastructure, Reliance Power shares rally over 10% in 2 days. Here’s what moved the Anil Ambani stocks
+  Reliance Infrastructure and Reliance Power shares surged over 10% in two days after project wins boosted sentiment. Reliance Infra bagged an NHPC solar-plus-BESS project, while Rel
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/reliance-infrastructure-reliance-power-shares-rally-over-10-in-2-days-heres-what-moved-the-anil-ambani-stocks/articleshow/123401435.cms
 
 - In Big Breakthrough, India, China To Seek Early Solution To Boundary Delimitation - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTDlIXzV2VlpNLVZSakdkQS1oRjNkZzVub21uZF9ZU3JGbC14VGdDRHpXRnowOWxSQk8wYzNlMEhRdWlFU1JNdmt5bUIzbno2RlBDLVY1Z2xzR09GWmhPdmluRm1GU0pSSm
+  India, China To Seek Early Solution To Boundary
   🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTDlIXzV2VlpNLVZSakdkQS1oRjNkZzVub21uZF9ZU3JGbC14VGdDRHpXRnowOWxSQk8wYzNlMEhRdWlFU1JNdmt5bUIzbno2RlBDLVY1Z2xzR09GWmhPdmluRm1GU0pSSmQ3UlV1RXNCZkw0OFVEMVpYc0lCa1UwcWJ3M2x6OGdXbE0xTFMxd1hmOHdkMVo2RzZUNVBRYVFteXhfNzFPcU9OUHdtWFRGdEVZMWxqa0QtM1RMYjNkWjE2bnk1ejVaRHp3cnBqV2lyTUtGNjBtSzRGMVNwNFZTb9IB6AFBVV95cUxOLWRTV1VmVlpFUDhWZy15X29BU2x4VTJ2b195UDhaZUhsRFg0S28xbFZ6UFlHZThDbmlyeElaaFpPbG5TeGFCQlNNZDNfLXRHRWV0Vkw4M1J5bGRLQ3ZiM1ZhOVJ3SjJiWXdWWDNBQlpKcHlfbnpQd3lUdFhtV1NXbmZYLUdqcU5OclNrcFZpbmRudWUzdUZHU2JTUlczZk1pRDNybUlkWnFTei1OeWxJVC1Nb1FaWUVYWnQzeXRpTDF3WVZ5LXdDcVA4aml5QmtmUUFnaXdyUHdvNG5tM0xlVjI1MkZaUDhn?oc=5
 
-- Apple reportedly ups iPhone production in India as country's Russia ties roil White House - CNBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFAwazZ5MnRNNGZ1bWJpSGplT2s4V2JWTmpmNUJQbFlSdml2QXZIVUotNjFzTTFTbVZQU0xadHdzRVpvRFNQdVhzMW1NYnljNmZzMHdxX2Y4bDVoaUROaThBYlZ1RC1VVWJMTW
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAwazZ5MnRNNGZ1bWJpSGplT2s4V2JWTmpmNUJQbFlSdml2QXZIVUotNjFzTTFTbVZQU0xadHdzRVpvRFNQdVhzMW1NYnljNmZzMHdxX2Y4bDVoaUROaThBYlZ1RC1VVWJMTWswQXlpT1pIWlprT1Q00gF8QVVfeXFMTmxUMGpPcmNaSVgyZ2hZMGpzZk8yUUc2bUxmX04xc2VmQ3FaSWE5NzFhVDBTZkI3VHZvRkw4Vjk1ZDlJZ3lSRXNVeUpRWFNkeWJxLU1DRjJXaC1NZ0Q4UzlOaUVLcG9xbEhuSEhvdkxITE1XRWZkdUVGODhqQQ?oc=5
+- ‘They are just profiteering…’: Donald Trump administration fires fresh salvo on India for Russia crude tr - Times of India
+  ‘They are just profiteering…’: Donald Trump administration fires
+  🔗 https://news.google.com/rss/articles/CBMivgJBVV95cUxQTWhfVHlMUHI3TjNFOUN3YzZrREVuNUxabXptOWNnY0lHOGw0TkJLNjVGdklYQnZkWkNwRGg5T3FzaDh5LWltcmk4RnM2NmlSTkFQRWszUFhXUG9iVHFTSE9KcHAxb240OG5GU1FwTlVyd0xPeC02ZWRzdVpXX2xxSXZCUm8zVDZsQ1lqa0FONnhIWG5FYXdGUlRHeHc0d1R4WDlsclEtUjNQM2xhS3ZGaHgtQXhncEVxTWdBdzlWdGVMWjl3SUozczZIMUYyY3JZOENDWnRQVHNYRXdfWlE5NHJ4ODJ5U1Vrd3RaSUt4UmlnVTNmSXdsRFRDWS03WTV5YndsSkN5c0h6RE81Tk5sZ1hBSlQwRlZNUFZjRDVCeUJ2SjdDODdkR3JRNVg1a3lEUlY2cndaM1BkSE9WckHSAcMCQVVfeXFMTmFjR1VuT21fZ2h0b0lnZXM4Wk4weDVDYnR5elRXN1VoV3JvSzhPTmVDRXlFNzFVa0dGb2FCZTFVUEduUVFlVm9mc2dWMnBoTUJ6QjZEYmVIOHpSMjZlaUs1ZTVHQVVqc1Z3SVljMGZfU0taUFpESGtnaG9KWV9GQkk5QWdMRXlZYTBXS2diQVVvb0l6TlJ6SENmcjlld2VPWEp6SEQ0NEZMYTFaeFpxYndiWEwyT1BUeFRwbElXWVE5VGxUa3BpQUUtSW93RF9kSWl1LTZfWFFaZzJNSlpiZFBLVWNzdENhd3JBUnpid1BJNl9qQlJWQWpicDVjT2xCX09FX0ZtdUplcFA4NnF5WUZudV90MGNLTjRDVDJYS1YxS0c3aldRb1RSd0UzQ25Qa0xzNTVIUEV6dWgzMGdsRFhsTlU?oc=5
 
-- ‘Successful strikes, not Mr Trump...’: Shashi Tharoor backs India's stance on truce with Pakistan | Latest News India - Hindustan Times - Hindustan Times
-  ‘Successful strikes, not Mr Trump...’: Shashi Tharoor backs India
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUjZIanpzT1B1MG5mZXkzMERMb3B3YWdqVXBwbi1ndVRUMk51cU5wYVZBYlppNE4wQUx5QXVSdGx4azFIdnNrSXQ3eTcwVkN3SWFNYkdLa1U5Y0VrOVdTSUtaRmNNTW0wZnhNZHdQUElPV0w1WHdwMjdYa2hVYllDVW1qTjJPV0xGSlFkN3ZSRFZRaHZibk5JMXpvQU1HZXhQT1Z3UkVJQkRnNjNjZ09XUkF5ZEswUVRnNjZLdGgzQ2ZwYlZVQ3FpSzRyX0hMZ0hGV3VxbU5UelRhYXFQenfSAeMBQVVfeXFMTW0xUFFQMGVUTzR1UTVWMWJuTFVCYWFwY1hDRGlMM1Y1OVFuNk54aWFFcVJscVpwSnNXdTBjNUNuR0RscGNVaUNqeUFsZzFSV19pYnNHZEdXQkd2a2UzVXRMYnNFb2NiTko0U0xqYzN4RG9WcEgyNVRScUx4T21NOHR0ZVFwQTFXMDRRN1ZBZExYUHh3WlhTVWNYYk1HUDgwME5GbmRpMERod2lKRWhyTHRmbmtkLTVRZW1uS21KN3ZJUy1aRGxKRVV5bS1kVU1mSjZmRGJYS3NUT3lTQ0Jjb3AtSEk?oc=5
+- News Today Live Updates, 20 August | Delhi CM Rekha Gupta ‘attacked’; NDA’s V-P candidate files nomination; and more - The Indian Express
+  The Indian Express reports that Delhi CM Rekha Gupta was allegedly attacked.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQjU1ZzdjdVZ4cWwxVXRxbzR0NnVjeXVnQkpha0dERmhjckpyb0VuSEI3SENtWFVYX2M3R3lzVDk3WXBwM2VHUWg3MFVhY0dQS2dwWTczZ0xEWXJxVE93UENSWFBPTjZleXdWNk5DbldsVVlKamdwZUdZVU1ncHJDRGhHUFBjZWZKbmd2YkhkbHdoYThZSW15OEI0elZseTNXeVFxMjNLSTd0ajB0M2tibFZTcEtzOGRoZlh3R0U5bjh1aERlTzAxbG10cGd2ZDVGQmxKWjJSNlUxdTV4bFpCTEZlTmcxN1Vz0gHvAUFVX3lxTE1jblNwYnY4TXZXVWtRMzZFQVVHck50MldiZ1UzWGVuMURRcjVBYmc5dUZtRmJUYUg3UHZ5S2pyWDVaQXhiaFQ4dEFWYWdyV2pEVDZnTHFoX2pPeDNrdWF4MWtaeFROU25PUU5VY3hnYkNUMkNxdUttTFNsUWs2ZzlLdVl6NnBqLU1iWHVJeDNJNFJHSUU2bUdSdzdQWG8zZkYtZHZ2eXhUZEV4b2ZEMWFnRzZVVHlFWXFacGRUV2FoNVFMcmZweC05c2JJUnJaaFI2NWtIOFgyUWZ3SDhsMmdQd1lzeGhGUUVyUVdWS0dF?oc=5
 
-- India Won't Take First Step To Normalise Ties, Onus On Pak: Shashi Tharoor - NDTV
-  India Won't Take First Step To Normalise Ties
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVQ2UE5adXI2V1dEVThTaDRtVXl3S1RoV1UzcUEtYWViVDA4M1g0aFNuWjNVd05HUFJPb1pvaUZJRmY2ZWVsaU5aSVpqSDJvaEN6Z2pUYkxCZEduclNKU0ZIMllmeXNack9ESG5rNnl1MnRabzBpQXFEbmdGVVF4NUdodk9fd1h3bUw3Zmdacmh1Z2V2alVVRnVfNVlDNGFXQlRnYUVhZmZnSWp1emFWdtIBuAFBVV95cUxQMFNZUGVYTXZKZ2t2NGZqV3FNYjBfVmFsWHE5WHVxRUxkU2dhYjlSeTRKcVBPYWtfdjVZazI0dXRWbkNmOGdXQ2RQblVVaEw5RGN0MzJSRHZfcmtqUDU4dkZmNVFYT3ZFNzZZakhNemRzVG1JLUdNeE85M3hjREdxWkRoYWR3a2pSekUtZlpKT2FyQnFVUTBLeU1jbWlRcXZDdFdJY1loS0xDaFpkT1B4M1RZbnB4RHB2?oc=5
+- India-China to begin delimitation exercise for demarcation of final border | Latest News India - Hindustan Times - Hindustan Times
+  India-China to begin delimitation exercise for demarcation of final border.
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNnVnZldmb1FxWUhIN3NDYktLc0VkX2xKVVJjWUhXV3YxR1JEa1o2Zk9TWlBaZUtyLU9XOWhtQldHY19wdGgwekRJSjRmR1RObFBTTDFSSGtGMDdMS3JlSUxlTkxydmJTSUNBTjdDUXExM2p5ZFl0Z1EwUE00YjhEX2RlVGhzekMtMVpUb2haR21wbDZlXzJTVTZNNkJXVmQ1bURKY2tJQ3RrNjdJSG9GQnVUdzhKR1B5UV9aTThSeWppcVNDU2ptejBEcmNJYWZWVFHSAdcBQVVfeXFMT3FKcEI0OEJ4WVp3d1kwS0pFQ21CVTNsSTVISU5fRjlOb2tsNjBiek0ybHg3SnBlU2E1YldpNUZ6TnNwTFJWRlh1T05uemhvSlR4cTNZY3l5Y2ZGNW5MOHo0bjVtNGlvYnNtRDBsWG1wcXJCb1l2a0NfN1c2Tm4zUnZNRHZiS0xlOE1ZQkwyQ3NtcFVxX3oyOVd5M0dRQ09abzhBRlBaZm5SWmtnN2VXTFFMcXk2S1V3RmJCaTZZU2JqU1RZSkRjeTY0S2lyYWVsalVVNzQ1Sms?oc=5
 
-- Oracle layoffs hit India: 10 per cent staff cut, thousands of jobs lost - India TV News
-  Oracle layoffs hit India: 10 per cent staff cut, thousands
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNN1RWQUI0V1BCMXZBVVo1ei1ISXR6RC02N1A1ODhTWGw4bmtaTUtuOU5PVkZCWGlEYmliR3g5SEU4aUN1WDY2TGxsd3Nabl9rQjRDWER4c09KU3ZCenBRM0swdThUeWlaTUNJanNOR3lyaF9LUXp3QVpMaDBhTGZ6b1M4aTJoUHcyM2tOd3ZpU2hRTldnYVdpRFIwSkQ5LWVKRFFtRElrWUZtOFlPUG1VTHlCN1poc3ZhcnpkYWpKazdBTno2ZU84eEtlZDnSAdIBQVVfeXFMTVFDaENaM3NscFljTmtxVlViMVFOU0hOd2NGZGozSGV6QlhPLVl6RVVCekpSNTRoYnRIY0xFcDBIQ0NqenNwMG1CQ19QNDU0WnJVMjJ2QjNmYlZJamxpNGRwVlA5aUxnMDBxNEkxQ3lidkxCVkJCeVAzaFRWa1hmTzBOMl84bGI1aktZMDQwN1FwZjhBQWZoanJWbGZCaVZCNk5XZmxNdUM0OUNlSVByM2RrYWlrY3Y5dHFQNXRIZWpCLTNVZFdhX1BuZy1kelhqbUJ3?oc=5
+- Man Who Attacked Delhi Chief Minister A Dog Lover, Was Upset, Claims Mother - NDTV
+  Man Who Attacked Delhi Chief Minister A Dog Lover,
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMmg3bHNGY3BrSnp2c2l0emtCUEo0RDZRS05TZ0dreFJRd1VlazV5Y2g5V2hSblNBdGpBSUQySkw0QURiUmFNM3BIMkc3YzNHdTRjbVJSd2RxdnQzZzZYRzY0cXVTZFhuUEpkRF90NjB6VWcyLUZQM2Iwak4zN2Q3a3hpUG9rYVg2cGl3dmVtM1VpQjZjcW91SWtJMl9xWWlHVVBiTGxvS3A1S3ViMGM2UjVwRnNYSVdkQXg3RFN3S2NybTJUSV9ySDBkSlAtaWhoMEhXdzR2cWlqLUlvdGNlUVFtenp6ZWfSAe8BQVVfeXFMT0kzSk1od01CUXBvV3RydlgyMXlnWnhlUERsRmpZU0U5T2lEUXA3QXpuZ2RpVVZkbDhVWmpSVTNkMU1kWkc1MnVDek56ZmM3ajk1VUtWa0x5NDN0RjVscGZ1YVpiYmRDSUZpTE9DaThTVzVhclBSbEVwNjVocmRxejJMTzdCMlY4UDFldXFaR2xCWmw1STl2ZkRjbk5PUlZ6amhIT3ZYU2tXTXJTd3lQUW0zVG4tbWU1anVscU95a0FZVFcybVFjT0RwY203VU1Na3M1WXZzZGNrZXJ1VWg2ZVNFOUdXMDNNTHkybHQ4V1E?oc=5
 
 - In Big Breakthrough, India, China To Seek Early Solution To Boundary Delimitation - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTDlIXzV2VlpNLVZSakdkQS1oRjNkZzVub21uZF9ZU3JGbC14VGdDRHpXRnowOWxSQk8wYzNlMEhRdWlFU1JNdmt5bUIzbno2RlBDLVY1Z2xzR09GWmhPdmluRm1GU0pSSm
+  India, China To Seek Early Solution To Boundary
   🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTDlIXzV2VlpNLVZSakdkQS1oRjNkZzVub21uZF9ZU3JGbC14VGdDRHpXRnowOWxSQk8wYzNlMEhRdWlFU1JNdmt5bUIzbno2RlBDLVY1Z2xzR09GWmhPdmluRm1GU0pSSmQ3UlV1RXNCZkw0OFVEMVpYc0lCa1UwcWJ3M2x6OGdXbE0xTFMxd1hmOHdkMVo2RzZUNVBRYVFteXhfNzFPcU9OUHdtWFRGdEVZMWxqa0QtM1RMYjNkWjE2bnk1ejVaRHp3cnBqV2lyTUtGNjBtSzRGMVNwNFZTb9IB6AFBVV95cUxOLWRTV1VmVlpFUDhWZy15X29BU2x4VTJ2b195UDhaZUhsRFg0S28xbFZ6UFlHZThDbmlyeElaaFpPbG5TeGFCQlNNZDNfLXRHRWV0Vkw4M1J5bGRLQ3ZiM1ZhOVJ3SjJiWXdWWDNBQlpKcHlfbnpQd3lUdFhtV1NXbmZYLUdqcU5OclNrcFZpbmRudWUzdUZHU2JTUlczZk1pRDNybUlkWnFTei1OeWxJVC1Nb1FaWUVYWnQzeXRpTDF3WVZ5LXdDcVA4aml5QmtmUUFnaXdyUHdvNG5tM0xlVjI1MkZaUDhn?oc=5
 
-- Apple reportedly ups iPhone production in India as country's Russia ties roil White House - CNBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFAwazZ5MnRNNGZ1bWJpSGplT2s4V2JWTmpmNUJQbFlSdml2QXZIVUotNjFzTTFTbVZQU0xadHdzRVpvRFNQdVhzMW1NYnljNmZzMHdxX2Y4bDVoaUROaThBYlZ1RC1VVWJMTW
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAwazZ5MnRNNGZ1bWJpSGplT2s4V2JWTmpmNUJQbFlSdml2QXZIVUotNjFzTTFTbVZQU0xadHdzRVpvRFNQdVhzMW1NYnljNmZzMHdxX2Y4bDVoaUROaThBYlZ1RC1VVWJMTWswQXlpT1pIWlprT1Q00gF8QVVfeXFMTmxUMGpPcmNaSVgyZ2hZMGpzZk8yUUc2bUxmX04xc2VmQ3FaSWE5NzFhVDBTZkI3VHZvRkw4Vjk1ZDlJZ3lSRXNVeUpRWFNkeWJxLU1DRjJXaC1NZ0Q4UzlOaUVLcG9xbEhuSEhvdkxITE1XRWZkdUVGODhqQQ?oc=5
+- ‘They are just profiteering…’: Donald Trump administration fires fresh salvo on India for Russia crude tr - Times of India
+  ‘They are just profiteering…’: Donald Trump administration fires
+  🔗 https://news.google.com/rss/articles/CBMivgJBVV95cUxQTWhfVHlMUHI3TjNFOUN3YzZrREVuNUxabXptOWNnY0lHOGw0TkJLNjVGdklYQnZkWkNwRGg5T3FzaDh5LWltcmk4RnM2NmlSTkFQRWszUFhXUG9iVHFTSE9KcHAxb240OG5GU1FwTlVyd0xPeC02ZWRzdVpXX2xxSXZCUm8zVDZsQ1lqa0FONnhIWG5FYXdGUlRHeHc0d1R4WDlsclEtUjNQM2xhS3ZGaHgtQXhncEVxTWdBdzlWdGVMWjl3SUozczZIMUYyY3JZOENDWnRQVHNYRXdfWlE5NHJ4ODJ5U1Vrd3RaSUt4UmlnVTNmSXdsRFRDWS03WTV5YndsSkN5c0h6RE81Tk5sZ1hBSlQwRlZNUFZjRDVCeUJ2SjdDODdkR3JRNVg1a3lEUlY2cndaM1BkSE9WckHSAcMCQVVfeXFMTmFjR1VuT21fZ2h0b0lnZXM4Wk4weDVDYnR5elRXN1VoV3JvSzhPTmVDRXlFNzFVa0dGb2FCZTFVUEduUVFlVm9mc2dWMnBoTUJ6QjZEYmVIOHpSMjZlaUs1ZTVHQVVqc1Z3SVljMGZfU0taUFpESGtnaG9KWV9GQkk5QWdMRXlZYTBXS2diQVVvb0l6TlJ6SENmcjlld2VPWEp6SEQ0NEZMYTFaeFpxYndiWEwyT1BUeFRwbElXWVE5VGxUa3BpQUUtSW93RF9kSWl1LTZfWFFaZzJNSlpiZFBLVWNzdENhd3JBUnpid1BJNl9qQlJWQWpicDVjT2xCX09FX0ZtdUplcFA4NnF5WUZudV90MGNLTjRDVDJYS1YxS0c3aldRb1RSd0UzQ25Qa0xzNTVIUEV6dWgzMGdsRFhsTlU?oc=5
 
-- ‘Successful strikes, not Mr Trump...’: Shashi Tharoor backs India's stance on truce with Pakistan | Latest News India - Hindustan Times - Hindustan Times
-  ‘Successful strikes, not Mr Trump...’: Shashi Tharoor backs India
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUjZIanpzT1B1MG5mZXkzMERMb3B3YWdqVXBwbi1ndVRUMk51cU5wYVZBYlppNE4wQUx5QXVSdGx4azFIdnNrSXQ3eTcwVkN3SWFNYkdLa1U5Y0VrOVdTSUtaRmNNTW0wZnhNZHdQUElPV0w1WHdwMjdYa2hVYllDVW1qTjJPV0xGSlFkN3ZSRFZRaHZibk5JMXpvQU1HZXhQT1Z3UkVJQkRnNjNjZ09XUkF5ZEswUVRnNjZLdGgzQ2ZwYlZVQ3FpSzRyX0hMZ0hGV3VxbU5UelRhYXFQenfSAeMBQVVfeXFMTW0xUFFQMGVUTzR1UTVWMWJuTFVCYWFwY1hDRGlMM1Y1OVFuNk54aWFFcVJscVpwSnNXdTBjNUNuR0RscGNVaUNqeUFsZzFSV19pYnNHZEdXQkd2a2UzVXRMYnNFb2NiTko0U0xqYzN4RG9WcEgyNVRScUx4T21NOHR0ZVFwQTFXMDRRN1ZBZExYUHh3WlhTVWNYYk1HUDgwME5GbmRpMERod2lKRWhyTHRmbmtkLTVRZW1uS21KN3ZJUy1aRGxKRVV5bS1kVU1mSjZmRGJYS3NUT3lTQ0Jjb3AtSEk?oc=5
+- News Today Live Updates, 20 August | Delhi CM Rekha Gupta ‘attacked’; NDA’s V-P candidate files nomination; and more - The Indian Express
+  The Indian Express reports that Delhi CM Rekha Gupta was allegedly attacked.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQjU1ZzdjdVZ4cWwxVXRxbzR0NnVjeXVnQkpha0dERmhjckpyb0VuSEI3SENtWFVYX2M3R3lzVDk3WXBwM2VHUWg3MFVhY0dQS2dwWTczZ0xEWXJxVE93UENSWFBPTjZleXdWNk5DbldsVVlKamdwZUdZVU1ncHJDRGhHUFBjZWZKbmd2YkhkbHdoYThZSW15OEI0elZseTNXeVFxMjNLSTd0ajB0M2tibFZTcEtzOGRoZlh3R0U5bjh1aERlTzAxbG10cGd2ZDVGQmxKWjJSNlUxdTV4bFpCTEZlTmcxN1Vz0gHvAUFVX3lxTE1jblNwYnY4TXZXVWtRMzZFQVVHck50MldiZ1UzWGVuMURRcjVBYmc5dUZtRmJUYUg3UHZ5S2pyWDVaQXhiaFQ4dEFWYWdyV2pEVDZnTHFoX2pPeDNrdWF4MWtaeFROU25PUU5VY3hnYkNUMkNxdUttTFNsUWs2ZzlLdVl6NnBqLU1iWHVJeDNJNFJHSUU2bUdSdzdQWG8zZkYtZHZ2eXhUZEV4b2ZEMWFnRzZVVHlFWXFacGRUV2FoNVFMcmZweC05c2JJUnJaaFI2NWtIOFgyUWZ3SDhsMmdQd1lzeGhGUUVyUVdWS0dF?oc=5
 
-- India Won't Take First Step To Normalise Ties, Onus On Pak: Shashi Tharoor - NDTV
-  India Won't Take First Step To Normalise Ties
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVQ2UE5adXI2V1dEVThTaDRtVXl3S1RoV1UzcUEtYWViVDA4M1g0aFNuWjNVd05HUFJPb1pvaUZJRmY2ZWVsaU5aSVpqSDJvaEN6Z2pUYkxCZEduclNKU0ZIMllmeXNack9ESG5rNnl1MnRabzBpQXFEbmdGVVF4NUdodk9fd1h3bUw3Zmdacmh1Z2V2alVVRnVfNVlDNGFXQlRnYUVhZmZnSWp1emFWdtIBuAFBVV95cUxQMFNZUGVYTXZKZ2t2NGZqV3FNYjBfVmFsWHE5WHVxRUxkU2dhYjlSeTRKcVBPYWtfdjVZazI0dXRWbkNmOGdXQ2RQblVVaEw5RGN0MzJSRHZfcmtqUDU4dkZmNVFYT3ZFNzZZakhNemRzVG1JLUdNeE85M3hjREdxWkRoYWR3a2pSekUtZlpKT2FyQnFVUTBLeU1jbWlRcXZDdFdJY1loS0xDaFpkT1B4M1RZbnB4RHB2?oc=5
+- India-China to begin delimitation exercise for demarcation of final border | Latest News India - Hindustan Times - Hindustan Times
+  India-China to begin delimitation exercise for demarcation of final border.
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNnVnZldmb1FxWUhIN3NDYktLc0VkX2xKVVJjWUhXV3YxR1JEa1o2Zk9TWlBaZUtyLU9XOWhtQldHY19wdGgwekRJSjRmR1RObFBTTDFSSGtGMDdMS3JlSUxlTkxydmJTSUNBTjdDUXExM2p5ZFl0Z1EwUE00YjhEX2RlVGhzekMtMVpUb2haR21wbDZlXzJTVTZNNkJXVmQ1bURKY2tJQ3RrNjdJSG9GQnVUdzhKR1B5UV9aTThSeWppcVNDU2ptejBEcmNJYWZWVFHSAdcBQVVfeXFMT3FKcEI0OEJ4WVp3d1kwS0pFQ21CVTNsSTVISU5fRjlOb2tsNjBiek0ybHg3SnBlU2E1YldpNUZ6TnNwTFJWRlh1T05uemhvSlR4cTNZY3l5Y2ZGNW5MOHo0bjVtNGlvYnNtRDBsWG1wcXJCb1l2a0NfN1c2Tm4zUnZNRHZiS0xlOE1ZQkwyQ3NtcFVxX3oyOVd5M0dRQ09abzhBRlBaZm5SWmtnN2VXTFFMcXk2S1V3RmJCaTZZU2JqU1RZSkRjeTY0S2lyYWVsalVVNzQ1Sms?oc=5
 
-- Oracle layoffs hit India: 10 per cent staff cut, thousands of jobs lost - India TV News
-  Oracle layoffs hit India: 10 per cent staff cut, thousands
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNN1RWQUI0V1BCMXZBVVo1ei1ISXR6RC02N1A1ODhTWGw4bmtaTUtuOU5PVkZCWGlEYmliR3g5SEU4aUN1WDY2TGxsd3Nabl9rQjRDWER4c09KU3ZCenBRM0swdThUeWlaTUNJanNOR3lyaF9LUXp3QVpMaDBhTGZ6b1M4aTJoUHcyM2tOd3ZpU2hRTldnYVdpRFIwSkQ5LWVKRFFtRElrWUZtOFlPUG1VTHlCN1poc3ZhcnpkYWpKazdBTno2ZU84eEtlZDnSAdIBQVVfeXFMTVFDaENaM3NscFljTmtxVlViMVFOU0hOd2NGZGozSGV6QlhPLVl6RVVCekpSNTRoYnRIY0xFcDBIQ0NqenNwMG1CQ19QNDU0WnJVMjJ2QjNmYlZJamxpNGRwVlA5aUxnMDBxNEkxQ3lidkxCVkJCeVAzaFRWa1hmTzBOMl84bGI1aktZMDQwN1FwZjhBQWZoanJWbGZCaVZCNk5XZmxNdUM0OUNlSVByM2RrYWlrY3Y5dHFQNXRIZWpCLTNVZFdhX1BuZy1kelhqbUJ3?oc=5
-
-- In Big Breakthrough, India, China To Seek Early Solution To Boundary Delimitation - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTDlIXzV2VlpNLVZSakdkQS1oRjNkZzVub21uZF9ZU3JGbC14VGdDRHpXRnowOWxSQk8wYzNlMEhRdWlFU1JNdmt5bUIzbno2RlBDLVY1Z2xzR09GWmhPdmluRm1GU0pSSm
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTDlIXzV2VlpNLVZSakdkQS1oRjNkZzVub21uZF9ZU3JGbC14VGdDRHpXRnowOWxSQk8wYzNlMEhRdWlFU1JNdmt5bUIzbno2RlBDLVY1Z2xzR09GWmhPdmluRm1GU0pSSmQ3UlV1RXNCZkw0OFVEMVpYc0lCa1UwcWJ3M2x6OGdXbE0xTFMxd1hmOHdkMVo2RzZUNVBRYVFteXhfNzFPcU9OUHdtWFRGdEVZMWxqa0QtM1RMYjNkWjE2bnk1ejVaRHp3cnBqV2lyTUtGNjBtSzRGMVNwNFZTb9IB6AFBVV95cUxOLWRTV1VmVlpFUDhWZy15X29BU2x4VTJ2b195UDhaZUhsRFg0S28xbFZ6UFlHZThDbmlyeElaaFpPbG5TeGFCQlNNZDNfLXRHRWV0Vkw4M1J5bGRLQ3ZiM1ZhOVJ3SjJiWXdWWDNBQlpKcHlfbnpQd3lUdFhtV1NXbmZYLUdqcU5OclNrcFZpbmRudWUzdUZHU2JTUlczZk1pRDNybUlkWnFTei1OeWxJVC1Nb1FaWUVYWnQzeXRpTDF3WVZ5LXdDcVA4aml5QmtmUUFnaXdyUHdvNG5tM0xlVjI1MkZaUDhn?oc=5
-
-- Apple reportedly ups iPhone production in India as country's Russia ties roil White House - CNBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFAwazZ5MnRNNGZ1bWJpSGplT2s4V2JWTmpmNUJQbFlSdml2QXZIVUotNjFzTTFTbVZQU0xadHdzRVpvRFNQdVhzMW1NYnljNmZzMHdxX2Y4bDVoaUROaThBYlZ1RC1VVWJMTW
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAwazZ5MnRNNGZ1bWJpSGplT2s4V2JWTmpmNUJQbFlSdml2QXZIVUotNjFzTTFTbVZQU0xadHdzRVpvRFNQdVhzMW1NYnljNmZzMHdxX2Y4bDVoaUROaThBYlZ1RC1VVWJMTWswQXlpT1pIWlprT1Q00gF8QVVfeXFMTmxUMGpPcmNaSVgyZ2hZMGpzZk8yUUc2bUxmX04xc2VmQ3FaSWE5NzFhVDBTZkI3VHZvRkw4Vjk1ZDlJZ3lSRXNVeUpRWFNkeWJxLU1DRjJXaC1NZ0Q4UzlOaUVLcG9xbEhuSEhvdkxITE1XRWZkdUVGODhqQQ?oc=5
-
-- ‘Successful strikes, not Mr Trump...’: Shashi Tharoor backs India's stance on truce with Pakistan | Latest News India - Hindustan Times - Hindustan Times
-  ‘Successful strikes, not Mr Trump...’: Shashi Tharoor backs India
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUjZIanpzT1B1MG5mZXkzMERMb3B3YWdqVXBwbi1ndVRUMk51cU5wYVZBYlppNE4wQUx5QXVSdGx4azFIdnNrSXQ3eTcwVkN3SWFNYkdLa1U5Y0VrOVdTSUtaRmNNTW0wZnhNZHdQUElPV0w1WHdwMjdYa2hVYllDVW1qTjJPV0xGSlFkN3ZSRFZRaHZibk5JMXpvQU1HZXhQT1Z3UkVJQkRnNjNjZ09XUkF5ZEswUVRnNjZLdGgzQ2ZwYlZVQ3FpSzRyX0hMZ0hGV3VxbU5UelRhYXFQenfSAeMBQVVfeXFMTW0xUFFQMGVUTzR1UTVWMWJuTFVCYWFwY1hDRGlMM1Y1OVFuNk54aWFFcVJscVpwSnNXdTBjNUNuR0RscGNVaUNqeUFsZzFSV19pYnNHZEdXQkd2a2UzVXRMYnNFb2NiTko0U0xqYzN4RG9WcEgyNVRScUx4T21NOHR0ZVFwQTFXMDRRN1ZBZExYUHh3WlhTVWNYYk1HUDgwME5GbmRpMERod2lKRWhyTHRmbmtkLTVRZW1uS21KN3ZJUy1aRGxKRVV5bS1kVU1mSjZmRGJYS3NUT3lTQ0Jjb3AtSEk?oc=5
-
-- India Won't Take First Step To Normalise Ties, Onus On Pak: Shashi Tharoor - NDTV
-  India Won't Take First Step To Normalise Ties
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVQ2UE5adXI2V1dEVThTaDRtVXl3S1RoV1UzcUEtYWViVDA4M1g0aFNuWjNVd05HUFJPb1pvaUZJRmY2ZWVsaU5aSVpqSDJvaEN6Z2pUYkxCZEduclNKU0ZIMllmeXNack9ESG5rNnl1MnRabzBpQXFEbmdGVVF4NUdodk9fd1h3bUw3Zmdacmh1Z2V2alVVRnVfNVlDNGFXQlRnYUVhZmZnSWp1emFWdtIBuAFBVV95cUxQMFNZUGVYTXZKZ2t2NGZqV3FNYjBfVmFsWHE5WHVxRUxkU2dhYjlSeTRKcVBPYWtfdjVZazI0dXRWbkNmOGdXQ2RQblVVaEw5RGN0MzJSRHZfcmtqUDU4dkZmNVFYT3ZFNzZZakhNemRzVG1JLUdNeE85M3hjREdxWkRoYWR3a2pSekUtZlpKT2FyQnFVUTBLeU1jbWlRcXZDdFdJY1loS0xDaFpkT1B4M1RZbnB4RHB2?oc=5
-
-- Oracle layoffs hit India: 10 per cent staff cut, thousands of jobs lost - India TV News
-  Oracle layoffs hit India: 10 per cent staff cut, thousands
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNN1RWQUI0V1BCMXZBVVo1ei1ISXR6RC02N1A1ODhTWGw4bmtaTUtuOU5PVkZCWGlEYmliR3g5SEU4aUN1WDY2TGxsd3Nabl9rQjRDWER4c09KU3ZCenBRM0swdThUeWlaTUNJanNOR3lyaF9LUXp3QVpMaDBhTGZ6b1M4aTJoUHcyM2tOd3ZpU2hRTldnYVdpRFIwSkQ5LWVKRFFtRElrWUZtOFlPUG1VTHlCN1poc3ZhcnpkYWpKazdBTno2ZU84eEtlZDnSAdIBQVVfeXFMTVFDaENaM3NscFljTmtxVlViMVFOU0hOd2NGZGozSGV6QlhPLVl6RVVCekpSNTRoYnRIY0xFcDBIQ0NqenNwMG1CQ19QNDU0WnJVMjJ2QjNmYlZJamxpNGRwVlA5aUxnMDBxNEkxQ3lidkxCVkJCeVAzaFRWa1hmTzBOMl84bGI1aktZMDQwN1FwZjhBQWZoanJWbGZCaVZCNk5XZmxNdUM0OUNlSVByM2RrYWlrY3Y5dHFQNXRIZWpCLTNVZFdhX1BuZy1kelhqbUJ3?oc=5
-
-- In Big Breakthrough, India, China To Seek Early Solution To Boundary Delimitation - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTDlIXzV2VlpNLVZSakdkQS1oRjNkZzVub21uZF9ZU3JGbC14VGdDRHpXRnowOWxSQk8wYzNlMEhRdWlFU1JNdmt5bUIzbno2RlBDLVY1Z2xzR09GWmhPdmluRm1GU0pSSm
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTDlIXzV2VlpNLVZSakdkQS1oRjNkZzVub21uZF9ZU3JGbC14VGdDRHpXRnowOWxSQk8wYzNlMEhRdWlFU1JNdmt5bUIzbno2RlBDLVY1Z2xzR09GWmhPdmluRm1GU0pSSmQ3UlV1RXNCZkw0OFVEMVpYc0lCa1UwcWJ3M2x6OGdXbE0xTFMxd1hmOHdkMVo2RzZUNVBRYVFteXhfNzFPcU9OUHdtWFRGdEVZMWxqa0QtM1RMYjNkWjE2bnk1ejVaRHp3cnBqV2lyTUtGNjBtSzRGMVNwNFZTb9IB6AFBVV95cUxOLWRTV1VmVlpFUDhWZy15X29BU2x4VTJ2b195UDhaZUhsRFg0S28xbFZ6UFlHZThDbmlyeElaaFpPbG5TeGFCQlNNZDNfLXRHRWV0Vkw4M1J5bGRLQ3ZiM1ZhOVJ3SjJiWXdWWDNBQlpKcHlfbnpQd3lUdFhtV1NXbmZYLUdqcU5OclNrcFZpbmRudWUzdUZHU2JTUlczZk1pRDNybUlkWnFTei1OeWxJVC1Nb1FaWUVYWnQzeXRpTDF3WVZ5LXdDcVA4aml5QmtmUUFnaXdyUHdvNG5tM0xlVjI1MkZaUDhn?oc=5
-
-- Apple reportedly ups iPhone production in India as country's Russia ties roil White House - CNBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFAwazZ5MnRNNGZ1bWJpSGplT2s4V2JWTmpmNUJQbFlSdml2QXZIVUotNjFzTTFTbVZQU0xadHdzRVpvRFNQdVhzMW1NYnljNmZzMHdxX2Y4bDVoaUROaThBYlZ1RC1VVWJMTW
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAwazZ5MnRNNGZ1bWJpSGplT2s4V2JWTmpmNUJQbFlSdml2QXZIVUotNjFzTTFTbVZQU0xadHdzRVpvRFNQdVhzMW1NYnljNmZzMHdxX2Y4bDVoaUROaThBYlZ1RC1VVWJMTWswQXlpT1pIWlprT1Q00gF8QVVfeXFMTmxUMGpPcmNaSVgyZ2hZMGpzZk8yUUc2bUxmX04xc2VmQ3FaSWE5NzFhVDBTZkI3VHZvRkw4Vjk1ZDlJZ3lSRXNVeUpRWFNkeWJxLU1DRjJXaC1NZ0Q4UzlOaUVLcG9xbEhuSEhvdkxITE1XRWZkdUVGODhqQQ?oc=5
-
-- ‘Successful strikes, not Mr Trump...’: Shashi Tharoor backs India's stance on truce with Pakistan | Latest News India - Hindustan Times - Hindustan Times
-  ‘Successful strikes, not Mr Trump...’: Shashi Tharoor backs India
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUjZIanpzT1B1MG5mZXkzMERMb3B3YWdqVXBwbi1ndVRUMk51cU5wYVZBYlppNE4wQUx5QXVSdGx4azFIdnNrSXQ3eTcwVkN3SWFNYkdLa1U5Y0VrOVdTSUtaRmNNTW0wZnhNZHdQUElPV0w1WHdwMjdYa2hVYllDVW1qTjJPV0xGSlFkN3ZSRFZRaHZibk5JMXpvQU1HZXhQT1Z3UkVJQkRnNjNjZ09XUkF5ZEswUVRnNjZLdGgzQ2ZwYlZVQ3FpSzRyX0hMZ0hGV3VxbU5UelRhYXFQenfSAeMBQVVfeXFMTW0xUFFQMGVUTzR1UTVWMWJuTFVCYWFwY1hDRGlMM1Y1OVFuNk54aWFFcVJscVpwSnNXdTBjNUNuR0RscGNVaUNqeUFsZzFSV19pYnNHZEdXQkd2a2UzVXRMYnNFb2NiTko0U0xqYzN4RG9WcEgyNVRScUx4T21NOHR0ZVFwQTFXMDRRN1ZBZExYUHh3WlhTVWNYYk1HUDgwME5GbmRpMERod2lKRWhyTHRmbmtkLTVRZW1uS21KN3ZJUy1aRGxKRVV5bS1kVU1mSjZmRGJYS3NUT3lTQ0Jjb3AtSEk?oc=5
-
-- India Won't Take First Step To Normalise Ties, Onus On Pak: Shashi Tharoor - NDTV
-  India Won't Take First Step To Normalise Ties
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVQ2UE5adXI2V1dEVThTaDRtVXl3S1RoV1UzcUEtYWViVDA4M1g0aFNuWjNVd05HUFJPb1pvaUZJRmY2ZWVsaU5aSVpqSDJvaEN6Z2pUYkxCZEduclNKU0ZIMllmeXNack9ESG5rNnl1MnRabzBpQXFEbmdGVVF4NUdodk9fd1h3bUw3Zmdacmh1Z2V2alVVRnVfNVlDNGFXQlRnYUVhZmZnSWp1emFWdtIBuAFBVV95cUxQMFNZUGVYTXZKZ2t2NGZqV3FNYjBfVmFsWHE5WHVxRUxkU2dhYjlSeTRKcVBPYWtfdjVZazI0dXRWbkNmOGdXQ2RQblVVaEw5RGN0MzJSRHZfcmtqUDU4dkZmNVFYT3ZFNzZZakhNemRzVG1JLUdNeE85M3hjREdxWkRoYWR3a2pSekUtZlpKT2FyQnFVUTBLeU1jbWlRcXZDdFdJY1loS0xDaFpkT1B4M1RZbnB4RHB2?oc=5
-
-- Oracle layoffs hit India: 10 per cent staff cut, thousands of jobs lost - India TV News
-  Oracle layoffs hit India: 10 per cent staff cut, thousands
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNN1RWQUI0V1BCMXZBVVo1ei1ISXR6RC02N1A1ODhTWGw4bmtaTUtuOU5PVkZCWGlEYmliR3g5SEU4aUN1WDY2TGxsd3Nabl9rQjRDWER4c09KU3ZCenBRM0swdThUeWlaTUNJanNOR3lyaF9LUXp3QVpMaDBhTGZ6b1M4aTJoUHcyM2tOd3ZpU2hRTldnYVdpRFIwSkQ5LWVKRFFtRElrWUZtOFlPUG1VTHlCN1poc3ZhcnpkYWpKazdBTno2ZU84eEtlZDnSAdIBQVVfeXFMTVFDaENaM3NscFljTmtxVlViMVFOU0hOd2NGZGozSGV6QlhPLVl6RVVCekpSNTRoYnRIY0xFcDBIQ0NqenNwMG1CQ19QNDU0WnJVMjJ2QjNmYlZJamxpNGRwVlA5aUxnMDBxNEkxQ3lidkxCVkJCeVAzaFRWa1hmTzBOMl84bGI1aktZMDQwN1FwZjhBQWZoanJWbGZCaVZCNk5XZmxNdUM0OUNlSVByM2RrYWlrY3Y5dHFQNXRIZWpCLTNVZFdhX1BuZy1kelhqbUJ3?oc=5
+- Man Who Attacked Delhi Chief Minister A Dog Lover, Was Upset, Claims Mother - NDTV
+  Man Who Attacked Delhi Chief Minister A Dog Lover,
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMmg3bHNGY3BrSnp2c2l0emtCUEo0RDZRS05TZ0dreFJRd1VlazV5Y2g5V2hSblNBdGpBSUQySkw0QURiUmFNM3BIMkc3YzNHdTRjbVJSd2RxdnQzZzZYRzY0cXVTZFhuUEpkRF90NjB6VWcyLUZQM2Iwak4zN2Q3a3hpUG9rYVg2cGl3dmVtM1VpQjZjcW91SWtJMl9xWWlHVVBiTGxvS3A1S3ViMGM2UjVwRnNYSVdkQXg3RFN3S2NybTJUSV9ySDBkSlAtaWhoMEhXdzR2cWlqLUlvdGNlUVFtenp6ZWfSAe8BQVVfeXFMT0kzSk1od01CUXBvV3RydlgyMXlnWnhlUERsRmpZU0U5T2lEUXA3QXpuZ2RpVVZkbDhVWmpSVTNkMU1kWkc1MnVDek56ZmM3ajk1VUtWa0x5NDN0RjVscGZ1YVpiYmRDSUZpTE9DaThTVzVhclBSbEVwNjVocmRxejJMTzdCMlY4UDFldXFaR2xCWmw1STl2ZkRjbk5PUlZ6amhIT3ZYU2tXTXJTd3lQUW0zVG4tbWU1anVscU95a0FZVFcybVFjT0RwY203VU1Na3M1WXZzZGNrZXJ1VWg2ZVNFOUdXMDNNTHkybHQ4V1E?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-08-20 01:12:59 UTC_
+_Last updated: 2025-08-20 06:27:04 UTC_
