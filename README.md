@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Two disgruntled RJD MLAs turn up at PM’s rally in Bihar
+- Five drug mules returning via Bengaluru after Thailand holiday nabbed by DRI with 72 kg of hydroponic ganja
   
-  🔗 https://indianexpress.com/article/india/two-disgruntled-rjd-mlas-turn-up-at-pms-rally-in-bihar-10205006/
+  🔗 https://indianexpress.com/article/india/five-drug-mules-returning-via-bengaluru-after-thailand-holiday-nabbed-by-dri-with-72-kg-of-hydroponic-ganja-10205738/
 
-- With two more terminations, number of J-K govt employees sacked citing ‘threat to state security’ goes up to 82
+- International drug cartel with Indians acting as ‘mules’ under ED scanner, raids across states
   
-  🔗 https://indianexpress.com/article/india/two-terminations-kashmir-govt-employees-sacked-state-security-10204833/
+  🔗 https://indianexpress.com/article/india/international-drug-cartel-indians-mules-ed-scanner-raids-10205669/
 
-- Bihar to get four more Amrit Bharat Express trains soon – Check routes
+- PM Modi did not utter a word on ‘vote chori’ during visit to Bihar: Rahul Gandhi
   
-  🔗 https://indianexpress.com/article/india/bihar-to-get-four-more-amrit-bharat-express-trains-soon-check-routes-10203643/
+  🔗 https://indianexpress.com/article/india/pm-modi-did-not-utter-a-word-on-vote-chori-during-visit-to-bihar-rahul-gandhi-10205627/
 
-- When is the Vice-Presidential polls? All you need to know
+- Minor girl raped in Tripura’s Gomati district, 2 held
   
-  🔗 https://indianexpress.com/article/india/vice-presidential-polls-c-p-radhakrishnan-b-sudershan-reddy-10204606/
+  🔗 https://indianexpress.com/article/india/tripura-gomati-minor-girl-raped-held-10205628/
 
-- Modi’s first comments on Bill to remove arrested ministers: ‘CM can sit in jail and sign govt files? This must change… Congress scared’
+- 40% of chief ministers face criminal cases, says poll rights body ADR
   
-  🔗 https://indianexpress.com/article/india/rjd-congress-against-constitution-amendment-bill-leaders-jail-out-bail-pm-modi-10204601/
+  🔗 https://indianexpress.com/article/india/40-chief-ministers-face-criminal-cases-adr-10205450/
+
+- Instagram rolls out feature for creators to link reels into ‘series’: Here’s how to use it
+  
+  🔗 https://indianexpress.com/article/technology/instagram-rolls-out-feature-for-creators-to-link-reels-into-series-heres-how-to-use-it-10205315/
+
+- Top 5 camera phones under Rs 50,000: From Pixel 9a to OnePlus 13R
+  
+  🔗 https://indianexpress.com/article/technology/top-5-camera-phones-under-rs-50000-from-pixel-9a-to-oneplus-13r-10205247/
 
 - When workplace harassment goes online: PoSH in the remote work era
   
@@ -32,53 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-ai-mustafa-suleyman-seemingly-conscious-ai-risks-10204343/
 
-- Best free AI plans for 2025: ChatGPT, Gemini, Claude, Perplexity, Grok
-  
-  🔗 https://indianexpress.com/article/technology/best-free-ai-plans-for-2025-chatgpt-gemini-claude-perplexity-grok-10204516/
+- ‘Looking forward to visiting…’: Sam Altman plans to visit India next month as OpenAI plans Delhi office
+  OpenAI CEO Sam Altman plans to visit India next month. The company plans to open its first office in the national capital, Delhi, in the latter half of 2025.
+  🔗 https://www.livemint.com/companies/people/looking-forward-to-visiting-sam-altman-plans-to-visit-india-next-month-as-openai-plans-delhi-office-11755884068066.html
 
-- ‘Root cause of all problems is heating’: OPPO’s head of product strategy on India’s gaming phone challenge
-  
-  🔗 https://indianexpress.com/article/technology/root-cause-of-all-problems-is-heating-oppos-head-of-strategy-on-indias-gaming-phone-challenge-10204566/
+- Elon Musk, X Corp to settle $500-million lawsuit over Twitter firings
+  The settlement would resolve a proposed class action filed in California by Courtney McMillian. McMillian previously oversaw Twitter's
+  🔗 https://www.livemint.com/companies/news/elon-musk-x-corp-to-settle-500-million-lawsuit-over-twitter-firings-11755884124500.html
 
-- TikTok website back in India after 5 years! App still unavailable
-  TikTok website back in
-  🔗 https://www.livemint.com/companies/news/tiktok-website-back-in-india-after-5-years-app-still-unavailable-11755864089046.html
+- Macquarie Asset Management raises $405 mn for fleet electrification firm Vertelo
+  Macquarie Asset Management has raised $405 million for Vertelo, a fleet electrification
+  🔗 https://www.livemint.com/companies/news/macquarie-asset-management-fund-raising-vertelo-electric-vehicles-ev-blended-finance-11755871014227.html
 
-- Bank Lobby Urges France to Further Limit Costs of Firing Traders
-  French financial services association is urging lawmakers to further rein in the cost of firing some senior staff. Cap on severance pay was
-  🔗 https://www.livemint.com/companies/news/bank-lobby-urges-france-to-further-limit-costs-of-firing-traders-11755863779693.html
+- Dream11 stops all paid contests, pivots to ‘free-to-play’ online social game
+  Dream11 has decided to stop all paid contests and shift into a ‘free-to-play’ online social game platform as India moves towards an
+  🔗 https://www.livemint.com/companies/news/dream11-stops-all-paid-contests-pivots-to-free-to-play-online-social-game-11755876950277.html
 
-- Kazakhstan Presses on With $4 Billion Sulfur Fine on Majors
-  Kazakhstan tells oil majors operating in the country they have 40 days to pay a multibillion-dollar fine for sulfur pollution.
-  🔗 https://www.livemint.com/companies/news/kazakhstan-presses-on-with-4-billion-sulfur-fine-on-majors-11755862745277.html
+- Elon Musk wanted Mark Zuckerberg to join his $97.4 billion deal to buy OpenAI
+  OpenAI said Musk identified Mark Zuckerberg as one of the people with whom he had communicated about potentially financing a
+  🔗 https://www.livemint.com/companies/news/elon-musk-wanted-mark-zuckerberg-to-join-his-97-4-billion-deal-to-buy-openai-11755874765497.html
 
-- SC pushes for fresh talks to break Indian Super League deadlock
-  Talks between Reliance-backed Football Sports Development and the All India Football Federation will decide the fate of ISL
-  🔗 https://www.livemint.com/companies/indian-super-league-deadlock-supreme-court-hearing-fresh-talks-11755854921501.html
+- Reliance Infra to sell Pune-Satara toll road project to Cube Highways in a  ₹2,000 crore deal — Details here
+  Reliance Infrastructure is set to sell its Pune-Satara toll road project to Cube Highways. Singapore-based company will
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-infra-to-sell-pune-satara-toll-road-project-to-cube-highways-in-a-rs-2-000-crore-deal-details-here-11755869242509.html
 
-- Indian Energy Giants Rally Behind Nuclear in Clean Power Push
-  India's top energy firms are advocating for nuclear power to decarbonize the world’s third-biggest
-  🔗 https://www.livemint.com/companies/news/indian-energy-giants-rally-behind-nuclear-in-clean-power-push-11755859458567.html
+- Jerome Powell's Jackson Hole Speech: Fed chair doesn't commit to rate cut yet; flags inflation, unemployment - Full text
+  US stocks extended gain following Powell's short but packed speech. Powell addressed concerns like
+  🔗 https://www.livemint.com/market/stock-market-news/jerome-powells-jackson-hole-speech-fed-chair-doesnt-commit-to-rate-cut-yet-flags-inflation-unemployment-full-text-11755872879435.html
 
-- Hero MotoCorp shares jump over 17% in August, post biggest monthly gain in nearly two years. Time to buy?
-  Hero MotoCorp shares fell 2% to  ₹4,997.90 on August 22. The stock gained 17.6% over 16 sessions, aided by positive quarterly results and potential GST cuts
-  🔗 https://www.livemint.com/market/stock-market-news/hero-motocorp-shares-jump-over-17-in-august-post-biggest-monthly-gain-in-nearly-two-years-time-to-buy-11755861138042.html
+- Jerome Powell Jackson Hole Speech 2025: 5 key takeaways from Fed Chair’s remarks on inflation, rates, US economy
+  Jerome Powell hints at possible policy adjustments in final Jackson Hole speech. Warns of inflation risks linked to US tariffs and immigration policies.
+  🔗 https://www.livemint.com/market/stock-market-news/jerome-powell-jackson-hole-speech-2025-key-takeaways-from-fed-chair-s-remarks-on-inflation-rates-us-economy-11755870621119.html
 
-- Jerome Powell Speech today LIVE: US Fed Chairman to address his 8th Jackson Hole meet. Here's what is in focus
-  Wall Street is positioning a September rate cut of 25 basis points of the benchmark rates. The next US Fed FOMC meeting is on 16-17 September 2025.
-  🔗 https://www.livemint.com/market/stock-market-news/jerome-powell-jackson-hole-speech-today-live-updates-sensex-nifty-latest-news-22-august-2025-11755862430013.html
+- US stocks rally: Dow Jones notches another record high after Powell hints at Fed rate cuts
+  U.S. stocks surged after Federal Reserve Chair Jerome Powell suggested a potential rate cut. The Dow Jones gained 732 points, reaching a record 45
+  🔗 https://www.livemint.com/market/stock-market-news/us-stocks-rally-dow-jones-notches-another-record-high-after-powell-hints-at-fed-rate-cuts-11755872079893.html
 
-- Mangal Electrical IPO: Issue booked 9.5 times by the end of third day. Check GMP and other details
-  Mangal Electrical IPO saw strong demand, closing 9.46 times subscribed by August 22. The allotment date is set for August 25. Despite a decline in grey market premium, the company aims
-  🔗 https://www.livemint.com/market/mangal-electrical-ipo-issue-booked-9-5-times-by-the-end-of-third-day-check-gmp-and-other-details-11755863681103.html
-
-- Why do bond prices fall when yields rise in financial markets? Explained
-  Bond prices drop as yields rise due to interest rate changes and policy shifts. This affects fixed income investors
-  🔗 https://www.livemint.com/market/bonds/why-do-bond-prices-fall-when-yields-rise-in-financial-markets-explained-11755858046698.html
-
-- Beware! Indian Inc faces biggest earnings downgrade in Asia as Trump tariff tantrum threatens growth
-  India's economic outlook faces challenges from poor earnings growth and increased U.S. tariffs. Earnings estimates for various sectors have been significantly downgraded.
-  🔗 https://www.livemint.com/market/stock-market-news/beware-indian-inc-faces-biggest-earnings-downgrade-in-asia-as-trump-tariff-tantrum-threatens-growth-11755860025800.html
+- Vikran Engineering IPO to open on Tuesday; here's what GMP signals ahead of the issue launch
+  Vikran Engineering's IPO opens on August 26, aiming to raise  ₹772 crore. It has a grey market premium of  ⁹22, indicating
+  🔗 https://www.livemint.com/market/ipo/vikran-engineering-ipo-to-open-on-tuesday-heres-what-gmp-signals-ahead-of-the-issue-launch-11755867537528.html
 
 - Top trending laptops with modern features and tech: Save up to 45% on top brands such Lenovo, Dell and others
   Top trending laptops deliver smooth performance, high-resolution displays, and robust graphics. Ideal for gaming laptop
@@ -100,57 +100,57 @@
   Monsoon deals bring big discounts on a range of washing machines from top brands like LG
   🔗 https://www.livemint.com/technology/gadgets/top-washing-machines-to-grab-in-monsoon-deals-save-big-on-top-brands-with-huge-price-drops-11755765897493.html
 
-- Closing Bell: Nifty below 24,900, Sensex down 694 pts; bank, metal, FMCG, realty top drag - Moneycontrol
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLWpCNjVtdGNhZVYwSVVZajRLR2MwY1pXQkxGeG1MQkpIRC10dGJxTlY2Ry00WTkyT2dzZGk2RndSQmRvMURLdVZqdmhrLWtmSUFMVDJ6QU11Zm14UF8yT243aEl6N01iSV
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLWpCNjVtdGNhZVYwSVVZajRLR2MwY1pXQkxGeG1MQkpIRC10dGJxTlY2Ry00WTkyT2dzZGk2RndSQmRvMURLdVZqdmhrLWtmSUFMVDJ6QU11Zm14UF8yT243aEl6N01iSV9YR2E4NTZrV1ZKZ3dCdFlHQk1PeDFxYXFuZkVPOHhianlYdHdmaS1Kc1VjbkwzYzF4dUtQUXJFaVVRX2VqRWo2UGg4clVOTEhaajVOd2FPS2d5MkZkWlZVV29YLS1jemtzUGhrQnRKWUxzdUdmVHo2YzRwcE1yWUpBOWk5QVJ0TXE4Y9IB8gFBVV95cUxPeGNEeFlHR0duSjk2d200aUI0WlNPTmRSVkM5SVFSX3BCZ19DeHVFWld5cWhYU3prMTg5cXg1SEdRenI0VGJ5WGJTbzVsX3JFVTEzeWkwcFhLVkxlNGR5TU5PYUVWbUFvVVZsUGY0dTFGcEduVW9xejF0SXA3cTdmMEZZLWFGaHVyRVpMV2tiQ3VIYWh0V1F0cWRzSXNJSk1veV9GQWJRNzE5Ukl3WWUzTzlPSjRRXzRpdUxNNVpEdXRqTEZxNFBLQUY4cmQxTUlySElfbktQd2d5VXlHM0ZTOS03dHJzUFNySm5RR3ZMTUh4dw?oc=5
+- Dow soars 900 points to record as Powell speech sparks market rally: Live updates - CNBC
+  Dow soars 900 points to record as Powell speech sparks
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9SNnp2bUpqY2dDWWhiYi1aR09BbWt0VkI5WHVDekYtZ0JSTXVMOFR1ODlpdWlUUmNNODdPYkI5R002QU9zVXVLbXVPSXBvdlZCdEFIck1jU08tUHVUVEI1UDBrNkloTTdzNTRpWG1DcHFBU0hEVVIw0gF8QVVfeXFMTnJWWjNQWUdiME1ZWU5lQ3dWdElpRWt4SFRCX3RQY1A0T0ZMN1U1SzNkWnA0dGNhc1ZDYkszU3RlMl9veE9uZzlncGhyRElFNWU1RzhibGE4SGRBMlpkdlBDN2llREdGejd3aWltenlDcU1ZM2ViT2t0RXBXbA?oc=5
 
-- Fiscal dominance and the unexpected rise of emerging markets - Financial Times
-  Fiscal dominance and the unexpected rise of
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1hT0Q0T2I1RktRNFFFS2VJb1NMSk95SXBNanZxSGoxV1BZRHlhZi14dmdKeTVWaGo1WTI4cldoT3FlUVZHRXRfRG5UX0o1MTI1dWFIRjg1ZU5xLWJHeHo0Q0FtLUtSeUZmQ3VrZEZXTWs?oc=5
+- Stocks Halt Slide as Powell Takes Center Stage: Markets Wrap - Bloomberg.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQZGZHTEl5MnE5SVVBSk1mbHhNbkRtU0l3OVQ5akt0UmhRUzUzSU9TOUZxYkJSMWFub3N0M1BFZHctVzZ6VXBHRGxEcXkyZmdvUEd6dDdScUNqd3FBU0dfbGVXV0VpRjhMT2hRWkYzTFZDNG5ndEZDcEZQNmpxS21OenNXSkR1eEtLMUR3azlMXzJ5WjZU?oc=5
 
-- Why do bond prices fall when yields rise in financial markets? Explained - Mint
-  Why do bond prices fall when yields rise in financial
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZFVPLU9jRmJUVWsxcFBaLXFmQmE3aWFpRDBZS196OWctRFhfaWFKTVdRcmZMbGZUcnFPR2hvbnlWcmh6T0JCeDZqOExTaGpBcjNXMk9DUTI1VXZnc1FSZXV4Sk5fTXpjTEVfemQySkRsU0tkajQ2dUdmcG83MmJPeW10WWNIcEpMbFloN3dLal8tWl9LQWxKUUd3dFJUQzRJUHhITm9UUUU0NlVTREEwZGQ3YXRuVmk2ZUNoanFRblFJTk5fZmJaetIBzgFBVV95cUxPSUw0UVhhaXFCb0I1ZWJORDQ3QlN0MnB6bEh3akpGY0VpeEo0eHJBOGFpcmdKMWNoNElfVVNtdEQ0d2owM2hqaDlUNlVGS3Rld1JtN3h2MEs4NXVxeHlhX1F4a1JfX3JTNTFyWkhPeXB2WUlLbzlyVmtMbVlmenQzc1pJZS11MUdMWHRxc3dVMVJOYk9rUkRjMVdTVnA5RGZGNUZ6V3NvUEpCa2Q5OTVVTnNTQVBKVVI5a3VoUUZ5LXBNVlZzdld2QjktTEhXQQ?oc=5
+- Markets to have cloth bag vending machines to curb plastic use in Noida - The Times of India
+  Markets to have cloth bag vending machines to curb plastic use in No
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUlFuU1NLWi1fUVJabXZNdWtEZ1FuejVsbVFFMDlWM05wNEtmR2xWaUxWOFVpRjYydExiZEsyWkJMeGd6QTFNWVJ4ZWM1NHY3U3hBakk0YV9veFJ3ZHlrQzFtQ2V1ZUtPaHRuLWFMYkRsMXNXNkxlYThOUmlXOWZkcEV1Q0h5d090Znp3TlRGeHpmc2d1VEJ2cm42Sk16bUNLQmJ0TlF6Z2NjSk5XR2xyRHdMUjdTMW1EbFFiSFA5M0hGYXFaSklrWW5xTTducWJHamdXdHVEd0JBQlg30gHiAUFVX3lxTE1wVm0yQllQVU1LcnM1RDJqVXZtNmdZR1pUbGJYanFaM2RMbjhZaVB3X0NxbjJUYlZZX0oyOGtKcVdHRmJWclRuSl95WVlHdkFIQnZLVHpCUVFhYnU0Nm1YZUtmcV9RYi1fSVJDTnRXRUw5UG1RaWIzS0FpempzVjg1Z0VndGt6MlVzQWdoQkl4VWMxUXB5SjVmZjRKNWRUODlnZnl3Zk1mRm1MNzFKUkg5Z0k3VzlOb2ZKX284MHllZlRldW5NY2NtV2t4cXRYdmxXeEhiT2lsSHJVcTJweTZZNEE?oc=5
 
-- PM Modi inaugurates Kolkata metro corridors; experts say real estate markets to gain from airport, suburban connectivity - Hindustan Times
-  PM Modi inaugurates Kolkata metro corridors; experts say real estate markets
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQZEsxU2VkX0tCYkUzUjJ4MDBVSzZKWWVoTmZtR2lKSGxaT3dpcWViS1RRQTl1NGV3WjBJQ2VoV3c3LWVsZlJSNm1jQ011ZkVwODhMQTRCNGRuU0RUQ0ZyZFJJMHNlc2RrYWttNWp3VDA2ejhLclBfc0dqS2YyMnQzXzJKcm5DTUdLQURqT1NYOGMzQm5ORXMtR3VQU0w3aEY0N0FPVGdJR2I4d1VSRTBoeFpXZ0Jia2JmUGlpWDlJc2VPUnBnOFFYa1ZZTGJSVFI3dFJsM2g4VzZ3QWc2cWpXT2NuNzh4TzFlMk9Ld0ctU1JfZzV6aVlUMmlXYVlJSFdTTUFmelVFVC1ONGtubUtF?oc=5
+- Stock Market Today: Dow Jones Surges To All-Time High On Rate Cut Hopes; Nvidia, Palantir Jump (Live Coverage) - Investor's Business Daily
+  Stock Market Today: Dow Jones Surges To All-Time High On Rate Cut Hopes
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3gxNGR5b2QzRVNMcDlwYzFxazNld29KOWU2dmUtZUxVMVNjek1qeWwxRlJMTDU0Z2lQdS1MYWNiX042U3F4bTZJSjBTMkNfS01IYzJERHdtRWN2UVFHWlhLR1VSZWRSWll2VkZhOTVRU3ZEdkFpbnVzcXZnazA0Nlhra2VqTS00TmRmbW4ybDQ2WGhtaDFWdk5oZ0U0Y0NPSXBnNE50NjhWUVJSTXd3QUF2aw?oc=5
 
-- 5 Things to Know Before the Stock Market Opens - Investopedia
-  5 Things to Know Before the Stock
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOcDQ5dnNzQTBaOU1sVFhJMnpTcnpQMW44a3pzYXcwaU1zUUQxTDFtN0tUeXNOVWhTLTVSVWx4eXlYZkRRc2t6MlJXNmlHSnR3N2R4bzZYbnR1UFVGVGV0YUpEWGpvcEFCVEg4bDVXM21veGRucTJqNFZ3Y0dRc0pOTXdCZmxYVDZHblFwb2ZuX0F4N2c4aDY3WXF5MklmR3Zq?oc=5
+- Stock markets halt 6-day rally; Sensex, Nifty dive nearly 1% as HDFC Bank, Reliance drag - The Hindu
+  Stock markets halt 6-day rally; Sensex, Nifty dive
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNUZQVjBJWkRKNldSTk1SM0xpTDVsaUxkSVVEMXVveWpYN2ZWbXNHV0ZvNnBiOEZSZTlLZUozU2NiLUtFTFZIRmpGNTRFNVp6QWlZMnV6dldrMTdsVzJVbWx1dEtJR1A2MWotYXdGa09Vb0lxdHBSLXAzOVoxNGg1TWJsUDF4WUR1X2hUZ21wcVJSMDRUelVpQmpvdjdyQ1VyVzdDVVh4MTdGZTlNVEZHQ0ZVNFVNQUNWWlNRbWdxM0VpNk9BdHdkSklONmtUU2hNMTBwV0Vmb3g1TjZvZlBN0gHmAUFVX3lxTE9mLXo2THp2dWlocU1sTEljLWN6NXF2RW4tX2kwUkp1ajFBdEhidTR4YW0zS095SEpycHZjLUVXNnN0S0JjeWU3ZklMVmxselYyTjFUQl90UVFKd1l3b0taTTJjS2dyTm43OWJWbklBeGdOUFpCOEl2Z2lXbDdzZ0kxdVlkOWl2THpDVTZvQjFtTnhQU1ZMOHJmQ3NuMkhfOVR5azdYenhrYlo3UzIzVUNWS3d6cVBpaUdMekpzRWlOVnk4VnRVeEhaVE9qaXRSQWFXN3FSVWRyQkdBODFUcHVSaFZIU1N3?oc=5
 
-- Vikran Engineering announces IPO price band; GMP remains healthy ahead of issue opening. Check details
-  Vikran Engineering’s IPO, priced at Rs 92–97 per share, opens on August 26 and closes on August 29. The Rs 772 crore issue includes a fresh issue and OFS.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/vikran-engineering-announces-ipo-price-band-gmp-remains-healthy-ahead-of-issue-opening-check-details/articleshow/123454734.cms
+- US Fed chair Jerome Powell’s nuance was lost on the markets, says Jonathan Levin
+  The Fed faces a tricky task navigating its dual mandate amid economic uncertainties and external pressures. Jerome Powell's recent speech at Jackson Hole hinted at potential adjustments to monetary policy.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-fed-chair-jerome-powells-nuance-was-lost-on-the-markets-says-jonathan-levin/articleshow/123460318.cms
 
-- Satin Creditcare Network raises Rs 100 crore in bonds
-  Satin Creditcare Network raised Rs 100 crore through non-convertible debentures in two tranches.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/satin-creditcare-network-raises-rs-100-crore-in-bonds/articleshow/123453917.cms
+- US dollar drops as Powell signals possible September rate cut in Jackson Hole speech
+  The dollar weakened following Jerome Powell's suggestion of a potential rate cut. Concerns about Fed independence also weighed on the dollar. Bitcoin saw gains amidst the currency movements.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-drops-as-powell-signals-possible-september-rate-cut-in-jackson-hole-speech/articleshow/123458837.cms
 
-- 9 Midcap Stocks See Rising Insurance Shareholding in Q1FY26
-  Nine midcap stocks saw rising insurance shareholding in Q1FY26. The trend reflects positive market sentiment and a strategic shift toward long-
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/9-midcap-stocks-see-rising-insurance-shareholding-in-q1fy26/slideshow/123453543.cms
+- Apollo Hospitals’ Rs 1,489 crore block deal attracts marquee investors; T. Rowe Price, SocGen, Morgan Stanley lead buying
+  Abu Dhabi Investment Authority and T. Rowe Price were among the buyers. Kotak Mahindra Life Insurance and Axis Mutual Fund also purchased shares. Apollo Hospitals reported a net profit of Rs 433 crore in Q1.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/apollo-hospitals-rs-1489-crore-block-deal-attracts-marquee-investors-t-rowe-price-socgen-morgan-stanley-lead-buying/articleshow/123458490.cms
 
-- India's growth poised for recovery by late 2025; US growth likely to slow to 1% in Q4: Chetan Ahya
-  Morgan Stanley's Chetan Ahya anticipates India's economic recovery by late 2025, driven by government initiatives and RBI rate cuts. While GST rationalization may ease inflation, managing low inflation remains a key focus.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/indias-growth-poised-for-recovery-by-late-2025-us-growth-likely-to-slow-to-1-in-q4-chetan-ahya/articleshow/123452547.cms
+- US small caps, housing stocks rally as Powell opens door to rate cuts
+  Rate-sensitive stocks rallied on Friday after U.S. Federal Reserve Chair Jerome Powell hinted that an interest-rate cut could
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-small-caps-housing-stocks-rally-as-powell-opens-door-to-rate-cuts/articleshow/123458189.cms
 
-- Rupee continues slide on looming US tariffs, posts marginal weekly loss
-  The Indian rupee weakened further on Friday against a stronger dollar ahead of a speech by Federal Reserve Chair Jerome Powell. The Asian currency has been pressured by U.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-continues-slide-on-looming-us-tariffs-posts-marginal-weekly-loss/articleshow/123452683.cms
-
-- "India Kremlin's Laundromat, Doesn't Need Russian Oil": Trump Trade Advisor - NDTV
-  "India Kremlin's Laundromat
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0wtd3BVTndZbEJWdjhVN3dGN2dyRC03SGxmaWdFOWZhZVM0OHhoOWZZSDc3cXpFdFNtVk5NdGN3UnlDZjdRYkdDTG9LeFMteFlqdG5MQXPSAb8BQVVfeXFMTndULVcwS1VZS2stV1hGdE9scVBTZTB0NUlZN0tPOHpVdm5YUmVVNWI5Y1p6RVdza0VINzY5U0F3b0tYUG82STRrX1VFMkdvNWhkWFFPbElRVEdhRzh6MEEzem1XNlBiZXlzcFpueWZFQnp2VFg4bHdIUEtoanZPSFpTZkh0WDRIS1lfTnl6SDNjRlRLLUNwbTBBa1pDWmRDUmliWU1qbjVmaXh0eEtIRC1yZDFrX2cwZDJjYmQxbW8?oc=5
+- Jerome Powell says rates may need to be cut, but US Fed to proceed carefully
+  Powell points to a possible interest rate cut at the U.S. central bank's meeting next month. But he stops short of committing to it, in remarks acknowledging both the growing risks to the job
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jerome-powell-says-rates-may-need-to-be-cut-but-us-fed-to-proceed-carefully/articleshow/123458159.cms
 
 - Behind India’s massive Russian oil imports: Asia’s richest man - Al Jazeera
   Behind India’s massive Russian oil
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlY4VlV2NzZ2WTZWSUpFVmNfb2F0VXhnMXRuSHRBc2ppWG04OFdobVBNX2g5NHl6Y3ZaLW1SUWVubl9fMlJxdV9UUHZCNWdkOUVTZHY0R0E0a1FxRk5DR1pjeXRHM0lFZlRjYVh6VndGdjNjdVd5MWVvcGVqRjVySzc4b2l1YVZYbDlfQ08zUFRqU0EzX0c4cDlSaEtFbk11cGZYNDVR0gGrAUFVX3lxTFBnOFV0THdtYUVsQXMweXo0MXYzMnRxUy1vYWk0Y1F2dE1wa0pXc1FNSnBHVkpwSmFpaGo0LXk4QmdCNnBXY2pDUlZsaGVWM1BTSk1KUHVYdFotNXdUZTI2NzE3RTBKWWpiRjMyV0lFLTdpWXVwSGtzMG5iaDVzR0hJV3BvM2hDc0pfdURpNk12NGhYSnZxNnVfMTludFZxU2hqTWlRUGlZRFZJYw?oc=5
 
-- 'Perplexed': What EAM Jaishankar said on Russian oil purchase amid Trump's tariffs; 'India not biggest pu - The Times of India
-  'Perplexed': What EAM Jaishankar said on Russian oil purchase
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPcnVSYWVFMW04bV80b1lHN082WV9ta285LWVUMFpxczZJMW5DNHBSRWs0ekI4b3lKel90bHJGdFlkUzFWWmJESVZVQ005M3lsQjF4UWFnU0FKZHlLVGJScVVOdENHT3BqeExVOVVXaXlESERnRWU3RFF2Nkl2b25IdlNXY0RXUHRtSmlOTFhlTzZYNXhkckVXcHU5OS00R0F6NzhfVnNHY2Y2OHFTS1BsSVlDVHJBRWRGSzhqV0w5aDhfSXM5Tmo1eGNCQjM4QlNMQk96dDlLcURtS3hzTGQtei1uYkgtdGNXQy1DaGwtdGN3c2oxNXNzZUFWY1hLMTdnSlU0LdIBigJBVV95cUxQaGVaR0oxWTZFWlpGc092OWVDMmtVY3lieDlxWTRSZjZtZkl2VUc1VDZ4RzlJZTlyQlNra2E3ZWFZbF9ORklLZURDS01UT2J4Q19oTUxHMnFfZDZ2T0NCd3BTdklSeml1WjRPXzdpUkRyTzFhTjhSYXhrSjYxZm5BZ3BKNnFwd2xFOEZxUlNwOTdFa1ozXzduWnZVSFo3alhaejdhS1pkSXFYOFJxZHdXT1k1MFpFNUlYNmlkeEJIQWltRVZrbGFKaENzX0JLOWQxMzA0d3RYcHpZNHdYTFRpSmZmOTRnSUhaelRwMTNxM3c2Z0NCN1ZjTXlTREpoOW5YdWxFU3hFWTdjZw?oc=5
+- "India Kremlin's Laundromat, Doesn't Need Russian Oil": Trump Trade Advisor - NDTV
+  "India Kremlin's Laundromat
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0wtd3BVTndZbEJWdjhVN3dGN2dyRC03SGxmaWdFOWZhZVM0OHhoOWZZSDc3cXpFdFNtVk5NdGN3UnlDZjdRYkdDTG9LeFMteFlqdG5MQXPSAb8BQVVfeXFMTndULVcwS1VZS2stV1hGdE9scVBTZTB0NUlZN0tPOHpVdm5YUmVVNWI5Y1p6RVdza0VINzY5U0F3b0tYUG82STRrX1VFMkdvNWhkWFFPbElRVEdhRzh6MEEzem1XNlBiZXlzcFpueWZFQnp2VFg4bHdIUEtoanZPSFpTZkh0WDRIS1lfTnl6SDNjRlRLLUNwbTBBa1pDWmRDUmliWU1qbjVmaXh0eEtIRC1yZDFrX2cwZDJjYmQxbW8?oc=5
+
+- After 'maharaja of tariffs', Trump aide calls India ‘laundromat for Russia’ over oil trade | Latest News India - Hindustan Times - Hindustan Times
+  After 'maharaja of tariffs', Trump aide calls India ‘laundromat for Russia
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVc3b09Yb0dpNVY3bEI4VnJjWEliZ0VKeEw0ZjJVQ3VrUHY0TEZFS2RZX2p5dkJKbnlMaXBITXo0aEJwLVdBaEJ4bVplVUxXM05mdXdvMmc1M1BCaDdZelY1T2hvZ3JveC1odEZld2RBc2ZfUXVtN0RCUGpQb1VUWGl4Zm90M2Q5U2pTQk41WEdNRlRKU25MRUJWZXJKcVhOcmR3N2h6Z2RaYUVQb2p3Y1d1UF82NlpoQTBaM2tacUxFRUtxMi1GWEU1SHJkTDFNWlBrd0pB0gHbAUFVX3lxTFBHUG5Vb005VFBFaWVfOFFBTGRjZkdVWDg0NDVuMlNPUFE5RDNFazVOR3lKRmJWbW5xRWI4R3FGbGVMUmNGVHRBLUJwaFpYUGE1MlZqVW1QWXZOekpnVWVkNVk0TERXLURGYjRZb0tfZ09VaG9UTnp0QnhMNFdUWlpQdlFCNjR0QnN4dlhqeE93UjlkTUVwaV9hc1FEUVR3bTBkazIzVi00bFAzUS1PR09mT3ZrMThoMk5lTFpFejZmU0tNMnFoLV9rRW1faFRyQ01jbkhXVEhuYVhpcw?oc=5
 
 - India-China relations: Beijing calls out "bully" US for 50% tariffs on India - BBC
   India-China relations: Beijing calls out "b
@@ -160,57 +160,17 @@
   "Silence Only Emboldens The Bully
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVpBcDh2WVpzMGhkZWo0cDlUbUdRS2JVbzBLdUVIVmNhbEhvQmJfTnlSUVlMYTRKcjdlWVFQLXhrenNPcExTLW1yWG55dkdWaFhtb2h0LW5VUHdDOEZYb1A4cmNHMWhEekZZQy1BbDZpcmlSNXE5Q0UySnhvSVBvLXYxcjcxVXI0cUJoVGpEaXJoTm5NSnB6cEd4RENWd1hOM0c5cFdOcG5GaDlmajVNWGhB0gG6AUFVX3lxTFB6dlh3R2FRS0tVa2tfelRjOExmZjQwNGdqelJLa3NMYWwyLVVVRFhLUWxoZlVvRVJyVFNseF9VMzJDSEZ0bkZneFBSdGFmTTZESGZreE00TmJLdld1UUxaVzNKdTNzbV9BZVlRN1FxcDFadS1hNHJwcGFEcktFc0M2RkJaUHpvY1dobmNaX2pWejkyWjRGeVdxMzM5ck1CS3lsWWg3dWEzX1JjdTl5anE0OXZEVUN2TGtndw?oc=5
 
-- "India Kremlin's Laundromat, Doesn't Need Russian Oil": Trump Trade Advisor - NDTV
-  "India Kremlin's Laundromat
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0wtd3BVTndZbEJWdjhVN3dGN2dyRC03SGxmaWdFOWZhZVM0OHhoOWZZSDc3cXpFdFNtVk5NdGN3UnlDZjdRYkdDTG9LeFMteFlqdG5MQXPSAb8BQVVfeXFMTndULVcwS1VZS2stV1hGdE9scVBTZTB0NUlZN0tPOHpVdm5YUmVVNWI5Y1p6RVdza0VINzY5U0F3b0tYUG82STRrX1VFMkdvNWhkWFFPbElRVEdhRzh6MEEzem1XNlBiZXlzcFpueWZFQnp2VFg4bHdIUEtoanZPSFpTZkh0WDRIS1lfTnl6SDNjRlRLLUNwbTBBa1pDWmRDUmliWU1qbjVmaXh0eEtIRC1yZDFrX2cwZDJjYmQxbW8?oc=5
-
 - Behind India’s massive Russian oil imports: Asia’s richest man - Al Jazeera
   Behind India’s massive Russian oil
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlY4VlV2NzZ2WTZWSUpFVmNfb2F0VXhnMXRuSHRBc2ppWG04OFdobVBNX2g5NHl6Y3ZaLW1SUWVubl9fMlJxdV9UUHZCNWdkOUVTZHY0R0E0a1FxRk5DR1pjeXRHM0lFZlRjYVh6VndGdjNjdVd5MWVvcGVqRjVySzc4b2l1YVZYbDlfQ08zUFRqU0EzX0c4cDlSaEtFbk11cGZYNDVR0gGrAUFVX3lxTFBnOFV0THdtYUVsQXMweXo0MXYzMnRxUy1vYWk0Y1F2dE1wa0pXc1FNSnBHVkpwSmFpaGo0LXk4QmdCNnBXY2pDUlZsaGVWM1BTSk1KUHVYdFotNXdUZTI2NzE3RTBKWWpiRjMyV0lFLTdpWXVwSGtzMG5iaDVzR0hJV3BvM2hDc0pfdURpNk12NGhYSnZxNnVfMTludFZxU2hqTWlRUGlZRFZJYw?oc=5
-
-- 'Perplexed': What EAM Jaishankar said on Russian oil purchase amid Trump's tariffs; 'India not biggest pu - The Times of India
-  'Perplexed': What EAM Jaishankar said on Russian oil purchase
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPcnVSYWVFMW04bV80b1lHN082WV9ta285LWVUMFpxczZJMW5DNHBSRWs0ekI4b3lKel90bHJGdFlkUzFWWmJESVZVQ005M3lsQjF4UWFnU0FKZHlLVGJScVVOdENHT3BqeExVOVVXaXlESERnRWU3RFF2Nkl2b25IdlNXY0RXUHRtSmlOTFhlTzZYNXhkckVXcHU5OS00R0F6NzhfVnNHY2Y2OHFTS1BsSVlDVHJBRWRGSzhqV0w5aDhfSXM5Tmo1eGNCQjM4QlNMQk96dDlLcURtS3hzTGQtei1uYkgtdGNXQy1DaGwtdGN3c2oxNXNzZUFWY1hLMTdnSlU0LdIBigJBVV95cUxQaGVaR0oxWTZFWlpGc092OWVDMmtVY3lieDlxWTRSZjZtZkl2VUc1VDZ4RzlJZTlyQlNra2E3ZWFZbF9ORklLZURDS01UT2J4Q19oTUxHMnFfZDZ2T0NCd3BTdklSeml1WjRPXzdpUkRyTzFhTjhSYXhrSjYxZm5BZ3BKNnFwd2xFOEZxUlNwOTdFa1ozXzduWnZVSFo3alhaejdhS1pkSXFYOFJxZHdXT1k1MFpFNUlYNmlkeEJIQWltRVZrbGFKaENzX0JLOWQxMzA0d3RYcHpZNHdYTFRpSmZmOTRnSUhaelRwMTNxM3c2Z0NCN1ZjTXlTREpoOW5YdWxFU3hFWTdjZw?oc=5
-
-- India-China relations: Beijing calls out "bully" US for 50% tariffs on India - BBC
-  India-China relations: Beijing calls out "b
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tZldRQUd4dG01dzVYMk9zOFNtbXFwcXNpTS1uRjlJdnBKOC15cGtSOG12eUtfbjVxY21nR2NQaDNjakh0MlBnZXZRYlpjYU44QnN5TnpIYUdhd9IBX0FVX3lxTE05YXYxZURvd3NiZTZnclBleVN0TjUtRnBWcTFtdXRsTGcyNUp1TFQ2M1ZVY29WZi1fLUswbl9wU2lhRXZhM1hKcklJaE9CQ3B0bFcxOVc4Z1RhQng3bGhN?oc=5
-
-- "Silence Only Emboldens The Bully": Chinese Envoy To India On Trump Tariffs - NDTV
-  "Silence Only Emboldens The Bully
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVpBcDh2WVpzMGhkZWo0cDlUbUdRS2JVbzBLdUVIVmNhbEhvQmJfTnlSUVlMYTRKcjdlWVFQLXhrenNPcExTLW1yWG55dkdWaFhtb2h0LW5VUHdDOEZYb1A4cmNHMWhEekZZQy1BbDZpcmlSNXE5Q0UySnhvSVBvLXYxcjcxVXI0cUJoVGpEaXJoTm5NSnB6cEd4RENWd1hOM0c5cFdOcG5GaDlmajVNWGhB0gG6AUFVX3lxTFB6dlh3R2FRS0tVa2tfelRjOExmZjQwNGdqelJLa3NMYWwyLVVVRFhLUWxoZlVvRVJyVFNseF9VMzJDSEZ0bkZneFBSdGFmTTZESGZreE00TmJLdld1UUxaVzNKdTNzbV9BZVlRN1FxcDFadS1hNHJwcGFEcktFc0M2RkJaUHpvY1dobmNaX2pWejkyWjRGeVdxMzM5ck1CS3lsWWg3dWEzX1JjdTl5anE0OXZEVUN2TGtndw?oc=5
 
 - "India Kremlin's Laundromat, Doesn't Need Russian Oil": Trump Trade Advisor - NDTV
   "India Kremlin's Laundromat
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0wtd3BVTndZbEJWdjhVN3dGN2dyRC03SGxmaWdFOWZhZVM0OHhoOWZZSDc3cXpFdFNtVk5NdGN3UnlDZjdRYkdDTG9LeFMteFlqdG5MQXPSAb8BQVVfeXFMTndULVcwS1VZS2stV1hGdE9scVBTZTB0NUlZN0tPOHpVdm5YUmVVNWI5Y1p6RVdza0VINzY5U0F3b0tYUG82STRrX1VFMkdvNWhkWFFPbElRVEdhRzh6MEEzem1XNlBiZXlzcFpueWZFQnp2VFg4bHdIUEtoanZPSFpTZkh0WDRIS1lfTnl6SDNjRlRLLUNwbTBBa1pDWmRDUmliWU1qbjVmaXh0eEtIRC1yZDFrX2cwZDJjYmQxbW8?oc=5
 
-- Behind India’s massive Russian oil imports: Asia’s richest man - Al Jazeera
-  Behind India’s massive Russian oil
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlY4VlV2NzZ2WTZWSUpFVmNfb2F0VXhnMXRuSHRBc2ppWG04OFdobVBNX2g5NHl6Y3ZaLW1SUWVubl9fMlJxdV9UUHZCNWdkOUVTZHY0R0E0a1FxRk5DR1pjeXRHM0lFZlRjYVh6VndGdjNjdVd5MWVvcGVqRjVySzc4b2l1YVZYbDlfQ08zUFRqU0EzX0c4cDlSaEtFbk11cGZYNDVR0gGrAUFVX3lxTFBnOFV0THdtYUVsQXMweXo0MXYzMnRxUy1vYWk0Y1F2dE1wa0pXc1FNSnBHVkpwSmFpaGo0LXk4QmdCNnBXY2pDUlZsaGVWM1BTSk1KUHVYdFotNXdUZTI2NzE3RTBKWWpiRjMyV0lFLTdpWXVwSGtzMG5iaDVzR0hJV3BvM2hDc0pfdURpNk12NGhYSnZxNnVfMTludFZxU2hqTWlRUGlZRFZJYw?oc=5
-
-- 'Perplexed': What EAM Jaishankar said on Russian oil purchase amid Trump's tariffs; 'India not biggest pu - The Times of India
-  'Perplexed': What EAM Jaishankar said on Russian oil purchase
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPcnVSYWVFMW04bV80b1lHN082WV9ta285LWVUMFpxczZJMW5DNHBSRWs0ekI4b3lKel90bHJGdFlkUzFWWmJESVZVQ005M3lsQjF4UWFnU0FKZHlLVGJScVVOdENHT3BqeExVOVVXaXlESERnRWU3RFF2Nkl2b25IdlNXY0RXUHRtSmlOTFhlTzZYNXhkckVXcHU5OS00R0F6NzhfVnNHY2Y2OHFTS1BsSVlDVHJBRWRGSzhqV0w5aDhfSXM5Tmo1eGNCQjM4QlNMQk96dDlLcURtS3hzTGQtei1uYkgtdGNXQy1DaGwtdGN3c2oxNXNzZUFWY1hLMTdnSlU0LdIBigJBVV95cUxQaGVaR0oxWTZFWlpGc092OWVDMmtVY3lieDlxWTRSZjZtZkl2VUc1VDZ4RzlJZTlyQlNra2E3ZWFZbF9ORklLZURDS01UT2J4Q19oTUxHMnFfZDZ2T0NCd3BTdklSeml1WjRPXzdpUkRyTzFhTjhSYXhrSjYxZm5BZ3BKNnFwd2xFOEZxUlNwOTdFa1ozXzduWnZVSFo3alhaejdhS1pkSXFYOFJxZHdXT1k1MFpFNUlYNmlkeEJIQWltRVZrbGFKaENzX0JLOWQxMzA0d3RYcHpZNHdYTFRpSmZmOTRnSUhaelRwMTNxM3c2Z0NCN1ZjTXlTREpoOW5YdWxFU3hFWTdjZw?oc=5
-
-- India-China relations: Beijing calls out "bully" US for 50% tariffs on India - BBC
-  India-China relations: Beijing calls out "b
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tZldRQUd4dG01dzVYMk9zOFNtbXFwcXNpTS1uRjlJdnBKOC15cGtSOG12eUtfbjVxY21nR2NQaDNjakh0MlBnZXZRYlpjYU44QnN5TnpIYUdhd9IBX0FVX3lxTE05YXYxZURvd3NiZTZnclBleVN0TjUtRnBWcTFtdXRsTGcyNUp1TFQ2M1ZVY29WZi1fLUswbl9wU2lhRXZhM1hKcklJaE9CQ3B0bFcxOVc4Z1RhQng3bGhN?oc=5
-
-- "Silence Only Emboldens The Bully": Chinese Envoy To India On Trump Tariffs - NDTV
-  "Silence Only Emboldens The Bully
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVpBcDh2WVpzMGhkZWo0cDlUbUdRS2JVbzBLdUVIVmNhbEhvQmJfTnlSUVlMYTRKcjdlWVFQLXhrenNPcExTLW1yWG55dkdWaFhtb2h0LW5VUHdDOEZYb1A4cmNHMWhEekZZQy1BbDZpcmlSNXE5Q0UySnhvSVBvLXYxcjcxVXI0cUJoVGpEaXJoTm5NSnB6cEd4RENWd1hOM0c5cFdOcG5GaDlmajVNWGhB0gG6AUFVX3lxTFB6dlh3R2FRS0tVa2tfelRjOExmZjQwNGdqelJLa3NMYWwyLVVVRFhLUWxoZlVvRVJyVFNseF9VMzJDSEZ0bkZneFBSdGFmTTZESGZreE00TmJLdld1UUxaVzNKdTNzbV9BZVlRN1FxcDFadS1hNHJwcGFEcktFc0M2RkJaUHpvY1dobmNaX2pWejkyWjRGeVdxMzM5ck1CS3lsWWg3dWEzX1JjdTl5anE0OXZEVUN2TGtndw?oc=5
-
-- "India Kremlin's Laundromat, Doesn't Need Russian Oil": Trump Trade Advisor - NDTV
-  "India Kremlin's Laundromat
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0wtd3BVTndZbEJWdjhVN3dGN2dyRC03SGxmaWdFOWZhZVM0OHhoOWZZSDc3cXpFdFNtVk5NdGN3UnlDZjdRYkdDTG9LeFMteFlqdG5MQXPSAb8BQVVfeXFMTndULVcwS1VZS2stV1hGdE9scVBTZTB0NUlZN0tPOHpVdm5YUmVVNWI5Y1p6RVdza0VINzY5U0F3b0tYUG82STRrX1VFMkdvNWhkWFFPbElRVEdhRzh6MEEzem1XNlBiZXlzcFpueWZFQnp2VFg4bHdIUEtoanZPSFpTZkh0WDRIS1lfTnl6SDNjRlRLLUNwbTBBa1pDWmRDUmliWU1qbjVmaXh0eEtIRC1yZDFrX2cwZDJjYmQxbW8?oc=5
-
-- Behind India’s massive Russian oil imports: Asia’s richest man - Al Jazeera
-  Behind India’s massive Russian oil
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlY4VlV2NzZ2WTZWSUpFVmNfb2F0VXhnMXRuSHRBc2ppWG04OFdobVBNX2g5NHl6Y3ZaLW1SUWVubl9fMlJxdV9UUHZCNWdkOUVTZHY0R0E0a1FxRk5DR1pjeXRHM0lFZlRjYVh6VndGdjNjdVd5MWVvcGVqRjVySzc4b2l1YVZYbDlfQ08zUFRqU0EzX0c4cDlSaEtFbk11cGZYNDVR0gGrAUFVX3lxTFBnOFV0THdtYUVsQXMweXo0MXYzMnRxUy1vYWk0Y1F2dE1wa0pXc1FNSnBHVkpwSmFpaGo0LXk4QmdCNnBXY2pDUlZsaGVWM1BTSk1KUHVYdFotNXdUZTI2NzE3RTBKWWpiRjMyV0lFLTdpWXVwSGtzMG5iaDVzR0hJV3BvM2hDc0pfdURpNk12NGhYSnZxNnVfMTludFZxU2hqTWlRUGlZRFZJYw?oc=5
-
-- 'Perplexed': What EAM Jaishankar said on Russian oil purchase amid Trump's tariffs; 'India not biggest pu - The Times of India
-  'Perplexed': What EAM Jaishankar said on Russian oil purchase
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPcnVSYWVFMW04bV80b1lHN082WV9ta285LWVUMFpxczZJMW5DNHBSRWs0ekI4b3lKel90bHJGdFlkUzFWWmJESVZVQ005M3lsQjF4UWFnU0FKZHlLVGJScVVOdENHT3BqeExVOVVXaXlESERnRWU3RFF2Nkl2b25IdlNXY0RXUHRtSmlOTFhlTzZYNXhkckVXcHU5OS00R0F6NzhfVnNHY2Y2OHFTS1BsSVlDVHJBRWRGSzhqV0w5aDhfSXM5Tmo1eGNCQjM4QlNMQk96dDlLcURtS3hzTGQtei1uYkgtdGNXQy1DaGwtdGN3c2oxNXNzZUFWY1hLMTdnSlU0LdIBigJBVV95cUxQaGVaR0oxWTZFWlpGc092OWVDMmtVY3lieDlxWTRSZjZtZkl2VUc1VDZ4RzlJZTlyQlNra2E3ZWFZbF9ORklLZURDS01UT2J4Q19oTUxHMnFfZDZ2T0NCd3BTdklSeml1WjRPXzdpUkRyTzFhTjhSYXhrSjYxZm5BZ3BKNnFwd2xFOEZxUlNwOTdFa1ozXzduWnZVSFo3alhaejdhS1pkSXFYOFJxZHdXT1k1MFpFNUlYNmlkeEJIQWltRVZrbGFKaENzX0JLOWQxMzA0d3RYcHpZNHdYTFRpSmZmOTRnSUhaelRwMTNxM3c2Z0NCN1ZjTXlTREpoOW5YdWxFU3hFWTdjZw?oc=5
+- After 'maharaja of tariffs', Trump aide calls India ‘laundromat for Russia’ over oil trade | Latest News India - Hindustan Times - Hindustan Times
+  After 'maharaja of tariffs', Trump aide calls India ‘laundromat for Russia
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVc3b09Yb0dpNVY3bEI4VnJjWEliZ0VKeEw0ZjJVQ3VrUHY0TEZFS2RZX2p5dkJKbnlMaXBITXo0aEJwLVdBaEJ4bVplVUxXM05mdXdvMmc1M1BCaDdZelY1T2hvZ3JveC1odEZld2RBc2ZfUXVtN0RCUGpQb1VUWGl4Zm90M2Q5U2pTQk41WEdNRlRKU25MRUJWZXJKcVhOcmR3N2h6Z2RaYUVQb2p3Y1d1UF82NlpoQTBaM2tacUxFRUtxMi1GWEU1SHJkTDFNWlBrd0pB0gHbAUFVX3lxTFBHUG5Vb005VFBFaWVfOFFBTGRjZkdVWDg0NDVuMlNPUFE5RDNFazVOR3lKRmJWbW5xRWI4R3FGbGVMUmNGVHRBLUJwaFpYUGE1MlZqVW1QWXZOekpnVWVkNVk0TERXLURGYjRZb0tfZ09VaG9UTnp0QnhMNFdUWlpQdlFCNjR0QnN4dlhqeE93UjlkTUVwaV9hc1FEUVR3bTBkazIzVi00bFAzUS1PR09mT3ZrMThoMk5lTFpFejZmU0tNMnFoLV9rRW1faFRyQ01jbkhXVEhuYVhpcw?oc=5
 
 - India-China relations: Beijing calls out "bully" US for 50% tariffs on India - BBC
   India-China relations: Beijing calls out "b
@@ -240,25 +200,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Is AI a "Normal Technology"? - O'Reilly Media
-  Is AI a "
-  🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80Y3FfQnRKMVhmclZBSWxTdGMxa09WdGl0WVNYR3JzYS1IV3dkRXNUTzJFMWwwcWh3ZmxTUnctTkViaXdlZ1c5YnFFdVRlUlF1aV9zd3NWdXRfSFN5QnBaZGJMcTVjcE0?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- SecondWebinar of the National e-Governance Webinar Series, 2025-2026 under the theme ‘Excellence in State/UT Level Initiatives in Government Process Re-engineering by Use of Technology for Digital Transformation’ held on 22nd August, 2025 to dissem - PIB
-  SecondWebinar of the National e-Governance Webinar Series, 2025-2026 under the theme ‘Excellence in State/UT Level Initi
-  🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaUFd3NG00OUUtWnM3SWFsRjVRLXlPRGEzN2lpdGdLdFJ6VHJpYk5vNjA3Q016N0xicXpIbTJfb0tUMEZxMUdmUDRwanNRSkw2ZzJPV0J1WkpNajZFdTdrQ2pIR0JBTndv?oc=5
-
-- AI technology tools ‘new textbooks’ and not clinician replacement – vet - Vet Times
-  AI technology tools ‘new textbooks’ and
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnUydGxtc3hCamNVN3c3YkhZeG5BdG41dEJqTkhsckRSZVBBcnQxNHNoSkpGVF9GVHRlSkc4YzZMU2VhYTFScDZhQTZmM2lZOUx1NTZ1RUJEdUFQVW5NV0VzNXJCS1hVNllmZmplTzdZWEhMRHhMaTVMRlB2RnRRRmV6dmkxYmhVM0IyWDBzWENxRDFKWmxiV1A0Ujdhc2tLTzVtMWR3SUJTb3NfakQ5MUhJRzlnemxHbXFoMw?oc=5
-
-- 'AI not a technology but an opportunity to dream big': Raghav Chadha demands free access to advanced AI t - The Times of India
-  'AI not a technology but an opportunity to dream big': Raghav Chadha demands free access
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNME5LUTltTE9VNEY5cFlnMURvOF9ZLUcwNG9HczBFaVh1bHVybFZ5MzhEenBiblpwbnhoN2ptQU5zWkQ3RFlRMGJrOUdNUDZhOWkxWGdyZjRjN3BsTTcxRlVjb3lnNWZESGJreXdIeWRycmVxT0RSeDV1R0hudzMwODRjOHlTMEtLenBKWGd2aXR3NHNmamR0UFUyLXBsT0NKNGVjSTdEZ1F3eHlaNTJfeU1lTGdpbnZHNF92VXE2LWJMaFRJZzh3Y1kxdUt0algxczl1ZUs4YUo0M2p3Rk94M29VMkpXZkd4ZWJMQ0pHd2M5M3NuVVRBdTNKMHVkb3dfNUpvN0gwcURTLXJTaHhJRtIBlgJBVV95cUxPMUI5c0xFdFdrRjQ0UkJHdDVzd0lTX3Z6c0F2RGcxa3Y0d2xPa1lLQTVFVlN1cENXSDhqbUltVlg1aTZhNmJEcEFBX3dkNXVwRHRQeTdqa2E3SGNOMHJFOFJHMHZUUkJFRktQSmxzUlQxc0g0LWthRmNVT3hSNnhnbDUyY1dqR0phaEQwd0xBa1VOZDlRZ2YxekJWSVNvVThBd25TTGxKZmJfMnpwRnFydGY4eXljMEV4QjdxaDFQX2RBMFNZNVlhZXJwMFpvOVM4S2ZDaTFyUkpuRWVlSEJPQnNBVUFxNGZpaHVVaWVXY2YyZng5THFiVzZHZDZGOEk0LXE1amZ1cldHTXZsOTcxb0FHV1RWQQ?oc=5
-
-- India Post Launches IT 2.0 – Advanced Postal Technology to Drive Digital Transformation Nationwide - Newsonair
-  India Post launches IT 2.0 – Advanced Postal Technology to
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNOGFKUlptd3MxM05JZ0xiNWtINXhMV3hRWlJJdWN6VWxpNFJPendWbXZjNm5KV1g5TjNGNWJXcHd3YlVYVUx3Uk5ROHdvNi02M2FHYmFfWmJGallfRUdGWXlTdWJOaFlCTi1CSUhVTUFSS0lFMDJ1bERkUlR0RFptYTNBZk81MUNXSVB2LUVUVGNETW0wZ1lRNHNxeV9UdnYxb2JzUXBQcWxiV09RV19xclVHSkRWZGFDb211bUgwN29ldlZi?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-08-22 12:34:15 UTC_
+_Last updated: 2025-08-22 18:25:24 UTC_
