@@ -1,192 +1,264 @@
 # 📰 Daily News Summaries
 
-- Tripura woman throws acid on her husband, arrested
+- India’s widest six-lane bridge, cancer hospital, power plant — what’s in Modi’s gift bag as he visits Bihar today
   
-  🔗 https://indianexpress.com/article/india/tripura-woman-throws-acid-on-her-husband-arrested-10203884/
+  🔗 https://indianexpress.com/article/india/india-widest-six-lane-bridge-cancer-hospital-power-plant-modi-bihar-visit-10204385/
 
-- Emmanuel Macron calls PM Modi, discusses Gaza & Trump meeting on Ukraine war
+- Stray Dogs SC Verdict LIVE Updates: Feeding of stray dogs shall not be permitted on streets, says SC
   
-  🔗 https://indianexpress.com/article/india/emmanuel-macron-calls-pm-modi-discusses-gaza-trump-meeting-on-ukraine-war-10203769/
+  🔗 https://indianexpress.com/article/india/stray-dogs-supreme-court-verdict-live-updates-reactions-10204312/
 
-- Axiom-4 learnings will help train for Gaganyaan: ISRO chief
+- Watch: Astronaut Shubhanshu Shukla shares timelapse of India from ISS, calls it ‘a beautiful spectacle’
   
-  🔗 https://indianexpress.com/article/india/axiom-4-learnings-will-help-train-for-gaganyaan-isro-chief-10203808/
+  🔗 https://indianexpress.com/article/india/watch-shubhanshu-shukla-timelapse-video-india-iss-10204202/
 
-- In Bihar 2003, Election Commission took longer, allowed EPIC, checked citizenship selectively
+- Supreme Court modifies stray dogs order, allows release from shelters after vaccination
   
-  🔗 https://indianexpress.com/article/india/in-bihar-2003-election-commission-took-longer-allowed-epic-checked-citizenship-selectively-10203729/
+  🔗 https://indianexpress.com/article/india/supreme-court-delhi-stray-dogs-shelters-roads-order-10204018/
 
-- NTCA limits tiger corridors to minimal requirement, multiple projects to benefit
+- News Today Live Updates, 22 August | India’s widest six-lane bridge, cancer hospital, power plant — what’s in Modi’s gift bag as he visits Bihar today
   
-  🔗 https://indianexpress.com/article/india/ntca-limits-tiger-corridors-to-minimal-requirement-multiple-projects-to-benefit-10203822/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-08-22-2025-news-headlines-10203970/
 
-- Centre’s ban on real-money gaming platforms: Why enforcing it won’t be easy
+- OpenAI gears up for India presence with first office in New Delhi
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/real-money-gaming-apps-ban-key-enforcement-hurdles-centre-10203230/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-india-presence-new-delhi-office-opening-hiring-plans-10204212/
 
-- Qualcomm’s new Snapdragon chips bring satellite SOS functionality to wearables
+- Musk, X Corp to settle $500-million lawsuit over Twitter firings
   
-  🔗 https://indianexpress.com/article/technology/qualcomms-new-snapdragon-chips-bring-satellite-sos-functionality-to-wearables-10203074/
+  🔗 https://indianexpress.com/article/technology/musk-x-corp-to-settle-500-million-lawsuit-over-twitter-firings-10204231/
 
-- Google Pixel 10 hands-on: Fresh look, major AI and camera upgrades
+- OpenAI’s chief people officer to depart, company says
   
-  🔗 https://indianexpress.com/article/technology/google-pixel-10-hands-on-fresh-look-major-ai-and-camera-upgrades-10202987/
+  🔗 https://indianexpress.com/article/technology/openais-chief-people-officer-to-depart-company-says-10204213/
 
-- Google Pixel 10 series: Price in India compared to the Australia, Japan, UK and other countries
+- Meta signs over $10 billion cloud deal with Google, source says
   
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/google-pixel-10-series-price-india-other-countries-10202729/
+  🔗 https://indianexpress.com/article/technology/meta-signs-over-10-billion-cloud-deal-with-google-source-says-10204180/
 
-- Apple to open new Bengaluru store ahead of iPhone 17 series launch
+- Vivo’s Vision headset explained: What do AR, VR, and MR really mean?
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-to-open-new-bengaluru-store-ahead-of-iphone-17-series-launch-10202960/
+  🔗 https://indianexpress.com/article/technology/vivos-vision-headset-explained-what-do-ar-vr-and-mr-really-mean-10204063/
 
-- Not done yet: DMart’s outgoing CEO keen to stay on after term expiry
-  Neville Noronha, who took over as CEO in February 2007, has scaled up DMart’s revenue from  ₹2,208.56 crore
-  🔗 https://www.livemint.com/companies/people/not-done-yet-dmart-s-outgoing-ceo-keen-to-stay-on-after-term-expiry-11755782298936.html
+- Russia’s Push to Recruit South African Women Triggers Probe
+  One company has a military drone factory and the
+  🔗 https://www.livemint.com/companies/news/russias-push-to-recruit-south-african-women-triggers-probe-11755836345801.html
 
-- Court papers, Sebi letters lay bare Kapur siblings' long fight over Sona Comstar
-  The dispute over the division of the family assets between siblings Mandhira and Sunjay Kapur had earlier boiled over into courts of law and before the Securities and Exchange Board of India (Seb
-  🔗 https://www.livemint.com/companies/sona-comstar-ownership-sebi-letters-rk-family-trust-sunjay-mandhira-kapur-siblings-11755775152644.html
+- Nvidia orders suppliers to halt production of China-specific H20 AI chips after Beijing crackdown: Report
+  N Nvidia has ordered suppliers like Samsung and Amkor to halt production of the H20 AI chip, following a request from the Chinese government. This comes after Nvidia and AMD received US approval to sell lower
+  🔗 https://www.livemint.com/companies/news/nvidia-orders-suppliers-to-halt-production-of-china-specific-h20-ai-chips-after-beijing-crackdown-report-11755833594301.html
 
-- ‘Crazy Vacancies’ Force Boston Landlords to Fight Valuations
-  Kambiz Shahbazi says the value of his four Boston office buildings has tumbled because of Covid-19
-  🔗 https://www.livemint.com/companies/news/crazy-vacancies-force-boston-landlords-to-fight-valuations-11755821311317.html
+- Jakson Solar eyes module capacity expansion with  ₹8,000 crore capex; to consider fundraising options by FY28
+  The company plans to set up a 6 GW integrated plant which will include solar cells, solar modules and then get into backward
+  🔗 https://www.livemint.com/companies/jakson-solar-modules-solar-equipment-capacity-expansion-capex-solar-cells-wafers-ingots-fundraising-11755776501001.html
 
-- Vedanta demerger: Govt's key objections range from loans taken against national assets to liquidity concerns
-  Vedanta's proposed demerger into five distinct entities faces significant challenges. As the National Company Law Tribunal sets a
-  🔗 https://www.livemint.com/companies/vedanta-demerger-govts-key-objections-loans-against-national-assets-liquidity-concerns-arbitration-award-nclt-sebi-11755761218099.html
+- China’s Major Banks, Country Garden Held Back as Stimulus Expectations Grow
+  Industrial &amp; Commercial Bank of China Ltd., China Construction Bank Corp., Agricultural Bank of Chinese Ltd. and Bank ofChina Ltd. probably saw earnings impacted
+  🔗 https://www.livemint.com/companies/company-results/chinas-major-banks-country-garden-held-back-as-stimulus-expectations-grow-11755831245423.html
 
-- Blinkit execs cash in after Eternal’s Q1 results
-  After Q1 results, Eternal executives exercised over 13 million shares. Blinkit leaders, particularly CEO Albinder Dhindsa, led the activity.
-  🔗 https://www.livemint.com/companies/blinkit-execs-cash-in-eternal-q1-results-esop-11755763143074.html
+- Mint Explainer | What India Inc’s Q1 results mean for investors
+  Despite signs of recovery in certain segments, the Q1 earnings season has painted a bleak picture for many companies in India. Single-digit growth persisting.
+  🔗 https://www.livemint.com/companies/company-results/india-inc-q1-fy26-results-q1-fy26-earnings-season-corporate-earnings-india-2025-bse500-companies-11755773668389.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia picks 5 shares to buy today ahead of Jerome Powell's Jackson Hole speech
-  Sumeet Bagadia recommends five breakout stocks to buy today. Sanghvi Movers, Syrma SGS Technology
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-picks-5-shares-to-buy-today-ahead-of-jerome-powells-jackson-hole-speech-11755792587979.html
+- Gold edges down on stronger dollar, Powells remarks in focus
+  Gold edges down on stronger
+  🔗 https://www.livemint.com/market/commodities/gold-edges-down-on-stronger-dollar-powells-remarks-in-focus-11755843690179.html
 
-- Stock market today: Trade setup for Nifty 50, Trump tariffs to Jackson Hole Symposium; 8 stocks to buy or sell on Friday
-  The Nifty could test 25150 and move beyond toward the recent swing high of 25670. Immediate support lies at 24850 (last two sessions
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-trump-tariffs-to-jackson-hole-symposium-8-stocks-to-buy-or-sell-on-friday-11755775576203.html
+- Izmo share price hits another 20% upper circuit, surges over 50% in just five sessions
+  Izmo shares surged by 20% to  ₹587.55, marking a five-day gain of 53%. The company’s division, izmomicro,
+  🔗 https://www.livemint.com/market/stock-market-news/izmo-share-price-hits-another-20-upper-circuit-surges-over-50-in-just-five-sessions-11755841576497.html
 
-- Gold Muted as Traders Lower Rate-Cut Bets Ahead of Powell Speech
-  Traders lowered bets on rate cuts ahead of the Federal Reserve’s symposium at Jackson Hole. Strong US manufacturing data added
-  🔗 https://www.livemint.com/market/commodities/gold-muted-as-traders-lower-rate-cut-bets-ahead-of-powell-speech-11755823788967.html
+- Earnings Review: These 4 Nifty 50 companies posted over 50% increase in net profit in Q1
+  First-quarter FY26 earnings met expectations with notable profit growth from some companies, despite global uncertainties. Nifty saw an 8% year-on-year profit increase
+  🔗 https://www.livemint.com/market/stock-market-news/earnings-review-these-4-nifty-50-companies-posted-over-50-increase-in-net-profit-in-q1-11755838667910.html
 
-- Patel Retail IPO allotment in focus today; latest GMP, step-by-step guide to check status
-  The IPO was oversubscribed 95.70 times, with shares expected to be credited to demat accounts on August 25. Patel Retail IPO allotment is finalised today, August 22.
-  🔗 https://www.livemint.com/market/ipo/patel-retail-ipo-gmp-patel-retail-ipo-subscription-status-patel-retail-ipo-review-patel-retail-ipo-allotment-date-11755795112800.html
+- China’s AI Chip Leader Cambricon Jumps 20% on Self-Reliance Bets
+  Cambricon Technologies Corp. has more than doubled from a July low. Momentum builds around China
+  🔗 https://www.livemint.com/market/stock-market-news/chinas-ai-chip-leader-cambricon-jumps-20-on-self-reliance-bets-11755842112252.html
 
-- Vikram Solar IPO allotment date in focus today; latest GMP, 6 steps to check status online
-  Vikram Solar IPO allotment will be finalised today (August 22) Investors can check status on MUFG Intime India portal. IPO subscription was 54.63x, with listing date set for August 26.
-  🔗 https://www.livemint.com/market/ipo/vikram-solar-ipo-gmp-vikram-solar-ipo-allotment-status-online-vikram-solar-ipo-allotment-date-subscription-status-11755791686112.html
+- This CEO follows the Buffett playbook. He’s Winning.
+  Tom Gayner is a long-time disciple of Buffett’s and Berkshire.
+  🔗 https://www.livemint.com/market/this-ceo-follows-the-buffett-playbook-he-s-winning-11755841178560.html
+
+- OpenAI to open first India office in Delhi amid rising ChatGPT adoption surges in the country
+  OpenAI has opened its first office in Delhi, India. The company is also hiring a local team and has officially established an entity.
+  🔗 https://www.livemint.com/technology/openai-confirms-plans-to-open-first-office-in-delhi-sam-altman-says-india-can-become-a-global-ai-leader-11755834253933.html
+
+- Top washing machines to grab in monsoon deals: Save big on top brands with huge price drops
+  Monsoon deals bring big discounts on a range of washing machines from top brands like LG
+  🔗 https://www.livemint.com/technology/gadgets/top-washing-machines-to-grab-in-monsoon-deals-save-big-on-top-brands-with-huge-price-drops-11755765897493.html
+
+- ChatGPT maker says Elon Musk turned to Mark Zuckerberg for help financing $97 billion OpenAI bid
+  OpenAI alleges Elon Musk reached out to Mark Zuckerberg about financing his $97 billion
+  🔗 https://www.livemint.com/technology/tech-news/chatgpt-maker-says-elon-musk-turned-to-mark-zuckerberg-for-help-financing-97-billion-openai-bid-11755827600156.html
+
+- Apple loses another top AI executive to Mark Zuckerberg’s dream team despite Meta’s hiring slowdown
+  Apple's AI infrastructure head, Frank Chu, is leaving to join Meta's Superintelligence Labs. This follows a trend of high
+  🔗 https://www.livemint.com/technology/tech-news/apple-loses-another-top-ai-executive-to-mark-zuckerberg-s-dream-team-despite-meta-s-hiring-slowdown-11755825789401.html
 
 - Russia orders state-backed MAX messenger app, a WhatsApp rival, pre-installed on phones and tablets
   MAX will be on a list of mandatory pre-installed apps on all ‘gadgets,’ including mobile phones and tablets, sold in Russia from September 1
   🔗 https://www.livemint.com/technology/russia-orders-state-backed-max-messenger-app-a-whatsapp-rival-pre-installed-on-phones-and-tablets-11755795033550.html
 
-- 10 all-in-one desktops on Amazon at great discounts for gaming, work and entertainment
-  Explore 10 best all-in-one desktops on Amazon with sleek design, sharp
-  🔗 https://www.livemint.com/technology/gadgets/10-all-in-one-desktops-on-amazon-at-great-discounts-for-gaming-work-and-entertainment-11755685579263.html
+- Markets News, Aug. 21, 2025: S&P 500 Closes Lower for 5th Straight Day Ahead of Powell's Speech; Walmart Stock Slides After Earnings - Investopedia
+  S&amp;P 500 Closes Lower for 5th Straight Day ahead of Powell's Speech.
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE1QckxkYndqU3BaMEk5S1VHS0xQUkFDRTd1VXBBamctLVlSeDRwRFp3QmR2NjhpQmxoNzkwdWhCZXVhSW5RUmZ2cV9oUWIyOTJJVmRWX0RVTDlOZFgweUo5ZWxRVlBwdkpma1FCTm1iMA?oc=5
 
-- 93% of Indian leaders eye AI agents to boost workforce, says Microsoft's new report
-  Indian leaders are rapidly integrating AI, with 93% planning to use AI agents to enhance workforce capabilities in the next
-  🔗 https://www.livemint.com/technology/tech-news/93-of-indian-leaders-eye-ai-agents-to-boost-workforce-says-microsofts-new-report-11755771185798.html
+- Asian Stocks in Tight Range as Rate Cut Bets Pared: Markets Wrap - Bloomberg.com
+  Asian Stocks in Tight Range as Rate Cut B
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQZGZHTEl5MnE5SVVBSk1mbHhNbkRtU0l3OVQ5akt0UmhRUzUzSU9TOUZxYkJSMWFub3N0M1BFZHctVzZ6VXBHRGxEcXkyZmdvUEd6dDdScUNqd3FBU0dfbGVXV0VpRjhMT2hRWkYzTFZDNG5ndEZDcEZQNmpxS21OenNXSkR1eEtLMUR3azlMXzJ5WjZU?oc=5
 
-- Asus Flow Z13 Review: Stylish, Portable and Powerful
-  Asus ROG Flow Z13
-  🔗 https://www.livemint.com/technology/tech-reviews/asus-flow-z13-review-stylish-portable-and-powerful-11755764663051.html
+- Dollar drifts, Asian stocks mixed as markets brace for Jackson Hole - Reuters
+  The dollar drifts, Asian stocks mixed
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1aTWxCQ3hrV1JtUVk0MGJDYm0zc2dqZ01JaG9oMFhEZzhqbEJzQ1AtUndBQzhpRXRYTWsxd1FaSlE3cmJQRHNrd1hWMjdvZHVfRnoyYTVEQXNkTmVjNVR0TXBhekdrU1ZRd0dxWUMtcnlnWk5JNHluTG9rYw?oc=5
 
-- Best soundbar deals 2025 with up to 50% off for powerful home entertainment
-  Amazon sale brings up to 50% off on soundbars from top brands.
-  🔗 https://www.livemint.com/technology/gadgets/best-soundbar-deals-2025-with-up-to-50-off-for-powerful-home-entertainment-11755756057864.html
+- 5 Things to Know Before the Stock Market Opens - Investopedia
+  5 Things to Know Before the Stock
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQekRPc3N1RGs4WVRkR09USHY0OHE3bHk5R2dCOEMtTmhiNnJmWk1yQy1SenpGaUFIU3U0dGs1Ql9GeXNXV2RBNlVxcklqOVZSVGFFNFVRblg2ZHBQOWlSQmdRcVFuY3hwLTFsdmVucFF5aENCS2NQaGl1NHkySElkSC1IbHdoUGx3Z1djdEVJcXM3S2I3bkVzU191d2M4bC15?oc=5
 
-- Can Granules India leverage its strong product pipeline to offset recent profit declines?
-  Granules India's stock shows a slight recovery despite reporting lower profits in the June quarter. The company anticipates better growth in FY27. Approvals for six products in Europe are awaited.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/can-granules-india-leverage-its-strong-product-pipeline-to-offset-recent-profit-declines/articleshow/123442490.cms
+- Retail flows keep markets strong despite global uncertainty: Rajeev Agrawal - The Economic Times
+  Retail flows keep markets strong despite global uncertainty,
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR2Z4d0JsOE9qa1pxM2FfaDcxV1Bfd29tM0M2eDFDalhiUjh0bExSSGxGQ1FHNDNueVBuQmFPT0ZsU05ocUt0cEpUeU8xWXd0cEgyYVJVT2J1UDgzem52cnJ2N2V1LWZraS1IZU9GYWRSeEFia3VsNEs3YWRXdXpyd3EzNVVQNkJOZWNzanNwWWRodm5XR0NVS1NVTGpxRWotUW5lODJJSDNHXzlTVnY2MnVtSlhJa0xmeWpjSEpnZ185Z1lPVFdvQ3R6dVN6Vm9ncFRmMHMxRTJuY0tNMDhJZk5R?oc=5
 
-- RBL Bank aims for 60% retail secured loans by expanding portfolio in tier-3 and tier-4 cities
-  RBL Bank plans to boost its retail secured loans to 60%. The bank will focus on collateral-backed products like micro loans against property.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbl-bank-aims-for-60-retail-secured-loans-by-expanding-portfolio-in-tier-3-and-tier-4-cities/articleshow/123442438.cms
+- Bets: Order Inflows Signal Strong Multi-Year Visibility for Defence Stocks
+  HAL’s order book is set to hit ₹2.5 lakh crore, boosted by Tejas jet orders. Analysts see multi-year growth for defence electronics, ship
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bets-order-inflows-signal-strong-multi-year-visibility-for-defence-stocks/slideshow/123447431.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  Indian equities closed mixed as profit booking emerged after a recent rally. Investors are exercising caution ahead of the Jackson Hole symposium.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/123440000.cms
+- Nazara Tech shares tumble 18% in 3 sessions on gaming bill jitters; what should investors do now?
+  The selloff followed the Union Cabinet’s approval of the Online Gaming Bill, 2025, which is set to be introduced in Parliament. The proposed legislation aims to regulate gaming platforms offering
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nazara-tech-shares-tumble-18-in-3-sessions-on-gaming-bill-jitters-what-should-investors-do-now/articleshow/123447314.cms
 
-- Stocks in news: Apollo Hospitals, Vedanta, Wipro, HUL, NTPC Green
-   Markets remained mostly stable on the weekly expiry day. Key developments include Norges Bank's significant investment in Clean Science and Technology. NTPC Green's commissioning of a solar project
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-apollo-hospitals-vedanta-wipro-hul-ntpc-green/articleshow/123439933.cms
+- Festive demand, monsoon and GST reforms set to boost outlook
+   Markets have comfortably crossed the 25,000 mark, supported by steady domestic inflows. Jitendra Gohil of ET Now sees festive demand, a strong
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/festive-demand-monsoon-and-gst-reforms-set-to-boost-outlook/slideshow/123447237.cms
 
-- Can betting on last year's losers lead to higher stock market returns?
-  A study by DSP Mutual Fund reveals a contrarian investment strategy. It suggests that investing in the previous year's losing index yields higher returns.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/can-betting-on-last-years-losers-lead-to-higher-stock-market-returns/articleshow/123442313.cms
+- Retail flows keep markets strong despite global uncertainty: Rajeev Agrawal
+  Rajeev Agrawal highlights the escalating tensions between the US and India over tariffs and Russian oil imports. He notes the potential impact of Jerome Powell's upcoming speech on interest rates amid rising inflation.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/retail-flows-keep-markets-strong-despite-global-uncertainty-rajeev-agrawal/articleshow/123446617.cms
 
-- Bipartisan Chorus Warns Trump On China Amid "Tariff Tantrum" Vs India - NDTV
-  &nbsp;&ngt;<
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzU0TTVxUzhJdFcxY3RSdGl1c0VpMGJLZzIwZXdwRjVIUGU4eG5QMDItZU55YlhwRElsQ0kzYU54TDJBLXdLTzhVVTI5dnpuZjJxRjAxNEVMazU4dGhTNGFzNG9JQ0JIdUhSYVlLMk9wZjVwRjIxckpvMkowR3lseFNfajlJS0xmYXhJUHdTUHV6OHpsRTFDdkhHb3hncDdZNzV3bW9sZEozb0pUcDZvN2ZURE9JY2JD0gHAAUFVX3lxTE5QM0l1SmxrN3M0ckMyaFRfT3NiOUZfZzVPMXJoOGRQcVl2cDBSS3JVb1JsT3RDOXV0ajNZNF9Zc0RFb0FUR01xcGtLdUdTbTBnbW1wd1JKNUtwZWJCdnBEM1pyXzBIZDUwMXUyRy0wMVNVeldQbDdhbkhWQWdfaTVuTV9obmtRdWZzeFFlS0xyQmcxUzhEbTRJNFVUM3ZxcnZNRVpVUWs0WnFZZzFIQU91T3NiSlFJVXROTE1kUG1BZg?oc=5
+- How can businesses like Swiggy, Eternal, Honasa and PB Fintech benefit from reduced GST? Sunny Agrawal answers
+  Sunny Agrawal anticipates GST rationalization to significantly boost consumption. While the pharma sector faces potential US tariff headwinds, CDMO companies and select large players like Lupin and Cipla show promise.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/how-can-businesses-like-swiggy-eternal-honasa-and-pb-fintech-benefit-from-reduced-gst-sunny-agrawal-answers/articleshow/123446298.cms
 
-- "Get US-India Ties Back On Track": Nikki Haley's Big China Warning To Trump - NDTV
-  "Get US-India Ties Back On Track":
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnZRdWVfZEw5RkNpNDNyNjN3dFdPVUFqZlNfaUFNU0RXbkIxcnhnLU1kcmg2YjhJQjV5MU0wMlc0aE1GWWl2OEhTVGd1OFR3QmQ0Um5QeEoza0tYbnoweTNKWEptOTJxQ2dvb1dONEFmZGVtSlkzMGhMS3BEV0pNUUE4dGMyWVk0aF9QRzZuWjZ5WlRZVW82c0RMNGE5NUtzQmdqRmdsUVRMQWRQS0HSAbYBQVVfeXFMT04xckctQ2hYQjA0MTY5MHZHM1h1RnRYRWp4bFVJa19rZnAtVzJYRzc2aEZoQjktRFg2cEhTd2dMUnRYYUJLZGtxY2xBLU0yREpoOE1PVFpSQWNxVkstZDYyMVdiYUFjUDJuOXU2cE9BTjN0eHY2SHpIWVZ1RUxDd1l3a2kwbHlwMmxOZG1WbkFta01NYUlYNWJoSHNMdmF0S0dIakthY01TT1dQVUJ2ekRmcGlfZmc?oc=5
-
-- 'Perplexed': What EAM Jaishankar said on Russian oil purchase amid Trump's tariffs; 'India not biggest pu - Times of India
-  'Perplexed': What EAM Jaishankar said on Russian oil
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPcnVSYWVFMW04bV80b1lHN082WV9ta285LWVUMFpxczZJMW5DNHBSRWs0ekI4b3lKel90bHJGdFlkUzFWWmJESVZVQ005M3lsQjF4UWFnU0FKZHlLVGJScVVOdENHT3BqeExVOVVXaXlESERnRWU3RFF2Nkl2b25IdlNXY0RXUHRtSmlOTFhlTzZYNXhkckVXcHU5OS00R0F6NzhfVnNHY2Y2OHFTS1BsSVlDVHJBRWRGSzhqV0w5aDhfSXM5Tmo1eGNCQjM4QlNMQk96dDlLcURtS3hzTGQtei1uYkgtdGNXQy1DaGwtdGN3c2oxNXNzZUFWY1hLMTdnSlU0LdIBigJBVV95cUxQaGVaR0oxWTZFWlpGc092OWVDMmtVY3lieDlxWTRSZjZtZkl2VUc1VDZ4RzlJZTlyQlNra2E3ZWFZbF9ORklLZURDS01UT2J4Q19oTUxHMnFfZDZ2T0NCd3BTdklSeml1WjRPXzdpUkRyTzFhTjhSYXhrSjYxZm5BZ3BKNnFwd2xFOEZxUlNwOTdFa1ozXzduWnZVSFo3alhaejdhS1pkSXFYOFJxZHdXT1k1MFpFNUlYNmlkeEJIQWltRVZrbGFKaENzX0JLOWQxMzA0d3RYcHpZNHdYTFRpSmZmOTRnSUhaelRwMTNxM3c2Z0NCN1ZjTXlTREpoOW5YdWxFU3hFWTdjZw?oc=5
-
-- Nikki Haley's ‘strategic disaster’ warning to Donald Trump days before 25% US tariff deadline for India | Latest News India - Hindustan Times - Hindustan Times
-  Nikki Haley's ‘strategic disaster’ warning to Donald Trump days before 25% US tariff deadline
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaDctVmNDTkhiR1RmN2FlR1FWQVlNekdma2VwYXFITncycm5xdVg0V2t1UkdlWkx3eXdrcWNJb1ZUYVF4MndXTDNIUWJkNWdiZ25rZjNLLVY0R1ZfWFJncHZrWldlSDk2TUdnYl81ZmxkOWhrZmFuR0NkNUQ3RGJVVVJpdWVicWxZaUFFZEVEYjlMV29zX3NScVh4MWNkMUxaNmVUQTJQRzNFZGxsSEJkWVpZVkFKU0FfSkgyVFpTM0JCSEFUUmZJTzcxLS1HNzM4ZC1CR0tmdmR1S3ZVRlVnUDE1OXdxYmNqU2dkYmRsVFJkdE5l0gH6AUFVX3lxTE1UOGNKbm9DQkhlMVVrRE14U2VmRzNONVdoU2s1Rm5zaWJRcjF3SjE3V1pKM2dtYThjZGxYNlpjdTFBRkE3Snp0NEE0UndyeVB1bkluREVJUnVtajJtUTRjWVJKSXhhSmFlTXVqUnhpZURhWGpPUjhwUFpCV3J4aU1DN2g4QmNIRy1odmczNWdrZTBaWWo1WEJScWIyWGpoVHV2Q3FpMXdNWEZndTRuTW9CeEFGNzR2cU1DZmNndGxOams3bFpnTXozcm9peTcxc01XSkFmT3BsWllEUVdhZkZ0UGdZbkh2eGlIVjNyRXd2eGFvN0ZBLTdsVWc?oc=5
-
-- U.S. tariffs on India: White House says Trump imposed duties to end Russia-Ukraine war - The Hindu
-  U.S. tariffs on India: White House says Trump imposed
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2I3eURtV3Rubk5kN25RR0FFNlA5V3B5aHlDcDdRSzNJT1VrMkNGV3R5bTFDS1ZZdmFoU0tnU0Q1LXh5RVE2d01DSGhpdm1uSXRBdlRmMkp1TUxWakVkZDdQTTkwTUN6QUUzY084ZlNXUmlVa3NrQjdJY3Q1cWJmNGxVeU8wWUU3MVBYdEpidFFoRUFnNW5wVnZEcElDR0tJZXEyMFBjQVIzY1RsdGNBQTRWQVN4YXhpQWtLREJkWmRlVFhwMkoxZUJqV3paWnVLYzJZ0gHaAUFVX3lxTE1SSF8yeTRiejUtajFBcmdGSms0UG53bW56bVRMM291dkw3amtvcm1aR2p4cXVvYlU2b2pycloyUVVBbnhReDBPOUYwdDdkX2N2VjhZbjZNMzJXYjJ2RU8tdTg0UkYzYloxVnpNYTdyeEJWbktsNkY2bjNwbE9oVnJTQUpyV1NMMTNCRVRzRGRMODRsR0hUNWdxRmNDQVJOSUIzdW9rMzVDUkpZektCczV5QjI1WG9USHRPTzNqSHBsTGJXMFBJNDY1Q1ZnUHo0dDBuRVdaRG1PdWtR?oc=5
+- "Maharaja In Tariff": Trump's Trade Advisor Attacks India Over Russian Oil - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0wtd3BVTndZbEJWdjhVN3dGN2dyRC03SGxmaWdFOWZhZVM0OHhoOWZZSDc3cXpFdFNtVk5NdGN3UnlDZjdRYkdDTG9LeFMteFlqdG5MQXPSAb8BQVVfeXFMTndULVcwS1VZS2stV1hGdE9scVBTZTB0NUlZN0tPOHpVdm5YUmVVNWI5Y1p6RVdza0VINzY5U0F3b0tYUG82STRrX1VFMkdvNWhkWFFPbElRVEdhRzh6MEEzem1XNlBiZXlzcFpueWZFQnp2VFg4bHdIUEtoanZPSFpTZkh0WDRIS1lfTnl6SDNjRlRLLUNwbTBBa1pDWmRDUmliWU1qbjVmaXh0eEtIRC1yZDFrX2cwZDJjYmQxbW8?oc=5
 
 - Bipartisan Chorus Warns Trump On China Amid "Tariff Tantrum" Vs India - NDTV
   &nbsp;&ngt;<
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzU0TTVxUzhJdFcxY3RSdGl1c0VpMGJLZzIwZXdwRjVIUGU4eG5QMDItZU55YlhwRElsQ0kzYU54TDJBLXdLTzhVVTI5dnpuZjJxRjAxNEVMazU4dGhTNGFzNG9JQ0JIdUhSYVlLMk9wZjVwRjIxckpvMkowR3lseFNfajlJS0xmYXhJUHdTUHV6OHpsRTFDdkhHb3hncDdZNzV3bW9sZEozb0pUcDZvN2ZURE9JY2JD0gHAAUFVX3lxTE5QM0l1SmxrN3M0ckMyaFRfT3NiOUZfZzVPMXJoOGRQcVl2cDBSS3JVb1JsT3RDOXV0ajNZNF9Zc0RFb0FUR01xcGtLdUdTbTBnbW1wd1JKNUtwZWJCdnBEM1pyXzBIZDUwMXUyRy0wMVNVeldQbDdhbkhWQWdfaTVuTV9obmtRdWZzeFFlS0xyQmcxUzhEbTRJNFVUM3ZxcnZNRVpVUWs0WnFZZzFIQU91T3NiSlFJVXROTE1kUG1BZg?oc=5
 
-- "Get US-India Ties Back On Track": Nikki Haley's Big China Warning To Trump - NDTV
-  "Get US-India Ties Back On Track":
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnZRdWVfZEw5RkNpNDNyNjN3dFdPVUFqZlNfaUFNU0RXbkIxcnhnLU1kcmg2YjhJQjV5MU0wMlc0aE1GWWl2OEhTVGd1OFR3QmQ0Um5QeEoza0tYbnoweTNKWEptOTJxQ2dvb1dONEFmZGVtSlkzMGhMS3BEV0pNUUE4dGMyWVk0aF9QRzZuWjZ5WlRZVW82c0RMNGE5NUtzQmdqRmdsUVRMQWRQS0HSAbYBQVVfeXFMT04xckctQ2hYQjA0MTY5MHZHM1h1RnRYRWp4bFVJa19rZnAtVzJYRzc2aEZoQjktRFg2cEhTd2dMUnRYYUJLZGtxY2xBLU0yREpoOE1PVFpSQWNxVkstZDYyMVdiYUFjUDJuOXU2cE9BTjN0eHY2SHpIWVZ1RUxDd1l3a2kwbHlwMmxOZG1WbkFta01NYUlYNWJoSHNMdmF0S0dIakthY01TT1dQVUJ2ekRmcGlfZmc?oc=5
+- Thunderstorms, Sunrise, Himalayas: Shubhanshu Shukla Shows India From Space - NDTV
+  The Himalayas are covered in
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEFMLWhGNVNreE1ieGtyZm5tMUhfMHVWTHJkUUJfeEJab1M1ZXpya0xDRzdrSTdhdDRNSEhpWTFhU0dMVjVUX3VTenVua01qci1rZEVrOHdKS21aeGticjhDNW91RGcySzBVTXVFajJoYUxkb1JQdHF2X1NRZmZyeWZ0N3gyczFlU05STjhnVEFkNnFGVmlacXY2UnQ1UHNadGkzSktlQmJDOWV6UTM0Q2p30gG6AUFVX3lxTE5ZRnpUb01Jbkh2NDk5NW5XS21kdUwzMlNORTJoTy1zZVo2WFNqV1VaNHJFcHB0RkItQno1QmU4amo3OTRyQUlqcFVVYTREVUItdzJXMHVoV3plcHRaSlh1VjNwOTdjMHQ3c1lfck1feXhmdkpOVnc1bEhxMjdtZDZqZmZ1ZnZXWUNYbG1fUFNvWnRxUkxTeWxHaFgwajN6d0ZEQWp5cThLTFZ3eG15bTNubzF3QUVxd2RRUQ?oc=5
 
-- 'Perplexed': What EAM Jaishankar said on Russian oil purchase amid Trump's tariffs; 'India not biggest pu - Times of India
-  'Perplexed': What EAM Jaishankar said on Russian oil
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPcnVSYWVFMW04bV80b1lHN082WV9ta285LWVUMFpxczZJMW5DNHBSRWs0ekI4b3lKel90bHJGdFlkUzFWWmJESVZVQ005M3lsQjF4UWFnU0FKZHlLVGJScVVOdENHT3BqeExVOVVXaXlESERnRWU3RFF2Nkl2b25IdlNXY0RXUHRtSmlOTFhlTzZYNXhkckVXcHU5OS00R0F6NzhfVnNHY2Y2OHFTS1BsSVlDVHJBRWRGSzhqV0w5aDhfSXM5Tmo1eGNCQjM4QlNMQk96dDlLcURtS3hzTGQtei1uYkgtdGNXQy1DaGwtdGN3c2oxNXNzZUFWY1hLMTdnSlU0LdIBigJBVV95cUxQaGVaR0oxWTZFWlpGc092OWVDMmtVY3lieDlxWTRSZjZtZkl2VUc1VDZ4RzlJZTlyQlNra2E3ZWFZbF9ORklLZURDS01UT2J4Q19oTUxHMnFfZDZ2T0NCd3BTdklSeml1WjRPXzdpUkRyTzFhTjhSYXhrSjYxZm5BZ3BKNnFwd2xFOEZxUlNwOTdFa1ozXzduWnZVSFo3alhaejdhS1pkSXFYOFJxZHdXT1k1MFpFNUlYNmlkeEJIQWltRVZrbGFKaENzX0JLOWQxMzA0d3RYcHpZNHdYTFRpSmZmOTRnSUhaelRwMTNxM3c2Z0NCN1ZjTXlTREpoOW5YdWxFU3hFWTdjZw?oc=5
+- ‘Silence will embolden bully': Chinese envoy’s message to India on 50% US tariff | Latest News India - Hindustan Times - Hindustan Times
+  ‘Silence will embolden bully': Chinese envoy’s message to India on 50
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOek9ta1haUW5pQ041SVNtZHRPdkdQZ21GZVJOd1RqQTV0eHBCbFFzOVRkX0pxWkJPNE9vOWMxRlFscHplc2ZwMEg4dFZFeG9COUV1QThaanRTOF9xaG0zNDRVcTRqd3FKdnF6aE5SUXVuLUI5dE8xVVBCSzJ6emNSamN6NXQ5bl9qc2RRd19nNEFNSmNacEdEZ0lVME1hYVQ3dWtVZ05oc3VMbG9BUDN1SF83dmcxbXZmT2RqM3gxNDdsNFlyeS1NVlNQTjVkaW1VaGtUN2RjNNIB3AFBVV95cUxQU0F5MzR6ZlRLVEJEQllwVmYtd0x5d21sTGM3VlhGWXZSRzdNbmstdkhrRnZIR1ZKOXVoMnBjQXh5Y2JnSVl1UEo3cEdNYWxCWkFlUFp0a2x2NUlSMFlMRV9lN2owUi1lczZrMUd5Y1Z3cF9veU5uX1JpX0dlcW9tOFNpQ0tZYTJjWk1zd0J2a3U2Y0drMzJ2SlhVbFBUcnNEMEFTQ21WLUZ5Nk9vbWhhOG1ONFRXNTVlTmdOWFhlMDZqajMyemZMdTU2ME5rM3E1SzkyS1ZMM1NLRzBN?oc=5
 
-- Nikki Haley's ‘strategic disaster’ warning to Donald Trump days before 25% US tariff deadline for India | Latest News India - Hindustan Times - Hindustan Times
-  Nikki Haley's ‘strategic disaster’ warning to Donald Trump days before 25% US tariff deadline
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaDctVmNDTkhiR1RmN2FlR1FWQVlNekdma2VwYXFITncycm5xdVg0V2t1UkdlWkx3eXdrcWNJb1ZUYVF4MndXTDNIUWJkNWdiZ25rZjNLLVY0R1ZfWFJncHZrWldlSDk2TUdnYl81ZmxkOWhrZmFuR0NkNUQ3RGJVVVJpdWVicWxZaUFFZEVEYjlMV29zX3NScVh4MWNkMUxaNmVUQTJQRzNFZGxsSEJkWVpZVkFKU0FfSkgyVFpTM0JCSEFUUmZJTzcxLS1HNzM4ZC1CR0tmdmR1S3ZVRlVnUDE1OXdxYmNqU2dkYmRsVFJkdE5l0gH6AUFVX3lxTE1UOGNKbm9DQkhlMVVrRE14U2VmRzNONVdoU2s1Rm5zaWJRcjF3SjE3V1pKM2dtYThjZGxYNlpjdTFBRkE3Snp0NEE0UndyeVB1bkluREVJUnVtajJtUTRjWVJKSXhhSmFlTXVqUnhpZURhWGpPUjhwUFpCV3J4aU1DN2g4QmNIRy1odmczNWdrZTBaWWo1WEJScWIyWGpoVHV2Q3FpMXdNWEZndTRuTW9CeEFGNzR2cU1DZmNndGxOams3bFpnTXozcm9peTcxc01XSkFmT3BsWllEUVdhZkZ0UGdZbkh2eGlIVjNyRXd2eGFvN0ZBLTdsVWc?oc=5
+- "Silence Only Emboldens The Bully": Chinese Envoy To India On Trump Tariffs - NDTV
+  "Silence Only Emboldens The Bully
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVpBcDh2WVpzMGhkZWo0cDlUbUdRS2JVbzBLdUVIVmNhbEhvQmJfTnlSUVlMYTRKcjdlWVFQLXhrenNPcExTLW1yWG55dkdWaFhtb2h0LW5VUHdDOEZYb1A4cmNHMWhEekZZQy1BbDZpcmlSNXE5Q0UySnhvSVBvLXYxcjcxVXI0cUJoVGpEaXJoTm5NSnB6cEd4RENWd1hOM0c5cFdOcG5GaDlmajVNWGhB0gG6AUFVX3lxTFB6dlh3R2FRS0tVa2tfelRjOExmZjQwNGdqelJLa3NMYWwyLVVVRFhLUWxoZlVvRVJyVFNseF9VMzJDSEZ0bkZneFBSdGFmTTZESGZreE00TmJLdld1UUxaVzNKdTNzbV9BZVlRN1FxcDFadS1hNHJwcGFEcktFc0M2RkJaUHpvY1dobmNaX2pWejkyWjRGeVdxMzM5ck1CS3lsWWg3dWEzX1JjdTl5anE0OXZEVUN2TGtndw?oc=5
 
-- U.S. tariffs on India: White House says Trump imposed duties to end Russia-Ukraine war - The Hindu
-  U.S. tariffs on India: White House says Trump imposed
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2I3eURtV3Rubk5kN25RR0FFNlA5V3B5aHlDcDdRSzNJT1VrMkNGV3R5bTFDS1ZZdmFoU0tnU0Q1LXh5RVE2d01DSGhpdm1uSXRBdlRmMkp1TUxWakVkZDdQTTkwTUN6QUUzY084ZlNXUmlVa3NrQjdJY3Q1cWJmNGxVeU8wWUU3MVBYdEpidFFoRUFnNW5wVnZEcElDR0tJZXEyMFBjQVIzY1RsdGNBQTRWQVN4YXhpQWtLREJkWmRlVFhwMkoxZUJqV3paWnVLYzJZ0gHaAUFVX3lxTE1SSF8yeTRiejUtajFBcmdGSms0UG53bW56bVRMM291dkw3amtvcm1aR2p4cXVvYlU2b2pycloyUVVBbnhReDBPOUYwdDdkX2N2VjhZbjZNMzJXYjJ2RU8tdTg0UkYzYloxVnpNYTdyeEJWbktsNkY2bjNwbE9oVnJTQUpyV1NMMTNCRVRzRGRMODRsR0hUNWdxRmNDQVJOSUIzdW9rMzVDUkpZektCczV5QjI1WG9USHRPTzNqSHBsTGJXMFBJNDY1Q1ZnUHo0dDBuRVdaRG1PdWtR?oc=5
+- "Maharaja In Tariff": Trump's Trade Advisor Attacks India Over Russian Oil - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0wtd3BVTndZbEJWdjhVN3dGN2dyRC03SGxmaWdFOWZhZVM0OHhoOWZZSDc3cXpFdFNtVk5NdGN3UnlDZjdRYkdDTG9LeFMteFlqdG5MQXPSAb8BQVVfeXFMTndULVcwS1VZS2stV1hGdE9scVBTZTB0NUlZN0tPOHpVdm5YUmVVNWI5Y1p6RVdza0VINzY5U0F3b0tYUG82STRrX1VFMkdvNWhkWFFPbElRVEdhRzh6MEEzem1XNlBiZXlzcFpueWZFQnp2VFg4bHdIUEtoanZPSFpTZkh0WDRIS1lfTnl6SDNjRlRLLUNwbTBBa1pDWmRDUmliWU1qbjVmaXh0eEtIRC1yZDFrX2cwZDJjYmQxbW8?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Bipartisan Chorus Warns Trump On China Amid "Tariff Tantrum" Vs India - NDTV
+  &nbsp;&ngt;<
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzU0TTVxUzhJdFcxY3RSdGl1c0VpMGJLZzIwZXdwRjVIUGU4eG5QMDItZU55YlhwRElsQ0kzYU54TDJBLXdLTzhVVTI5dnpuZjJxRjAxNEVMazU4dGhTNGFzNG9JQ0JIdUhSYVlLMk9wZjVwRjIxckpvMkowR3lseFNfajlJS0xmYXhJUHdTUHV6OHpsRTFDdkhHb3hncDdZNzV3bW9sZEozb0pUcDZvN2ZURE9JY2JD0gHAAUFVX3lxTE5QM0l1SmxrN3M0ckMyaFRfT3NiOUZfZzVPMXJoOGRQcVl2cDBSS3JVb1JsT3RDOXV0ajNZNF9Zc0RFb0FUR01xcGtLdUdTbTBnbW1wd1JKNUtwZWJCdnBEM1pyXzBIZDUwMXUyRy0wMVNVeldQbDdhbkhWQWdfaTVuTV9obmtRdWZzeFFlS0xyQmcxUzhEbTRJNFVUM3ZxcnZNRVpVUWs0WnFZZzFIQU91T3NiSlFJVXROTE1kUG1BZg?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Thunderstorms, Sunrise, Himalayas: Shubhanshu Shukla Shows India From Space - NDTV
+  The Himalayas are covered in
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEFMLWhGNVNreE1ieGtyZm5tMUhfMHVWTHJkUUJfeEJab1M1ZXpya0xDRzdrSTdhdDRNSEhpWTFhU0dMVjVUX3VTenVua01qci1rZEVrOHdKS21aeGticjhDNW91RGcySzBVTXVFajJoYUxkb1JQdHF2X1NRZmZyeWZ0N3gyczFlU05STjhnVEFkNnFGVmlacXY2UnQ1UHNadGkzSktlQmJDOWV6UTM0Q2p30gG6AUFVX3lxTE5ZRnpUb01Jbkh2NDk5NW5XS21kdUwzMlNORTJoTy1zZVo2WFNqV1VaNHJFcHB0RkItQno1QmU4amo3OTRyQUlqcFVVYTREVUItdzJXMHVoV3plcHRaSlh1VjNwOTdjMHQ3c1lfck1feXhmdkpOVnc1bEhxMjdtZDZqZmZ1ZnZXWUNYbG1fUFNvWnRxUkxTeWxHaFgwajN6d0ZEQWp5cThLTFZ3eG15bTNubzF3QUVxd2RRUQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- ‘Silence will embolden bully': Chinese envoy’s message to India on 50% US tariff | Latest News India - Hindustan Times - Hindustan Times
+  ‘Silence will embolden bully': Chinese envoy’s message to India on 50
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOek9ta1haUW5pQ041SVNtZHRPdkdQZ21GZVJOd1RqQTV0eHBCbFFzOVRkX0pxWkJPNE9vOWMxRlFscHplc2ZwMEg4dFZFeG9COUV1QThaanRTOF9xaG0zNDRVcTRqd3FKdnF6aE5SUXVuLUI5dE8xVVBCSzJ6emNSamN6NXQ5bl9qc2RRd19nNEFNSmNacEdEZ0lVME1hYVQ3dWtVZ05oc3VMbG9BUDN1SF83dmcxbXZmT2RqM3gxNDdsNFlyeS1NVlNQTjVkaW1VaGtUN2RjNNIB3AFBVV95cUxQU0F5MzR6ZlRLVEJEQllwVmYtd0x5d21sTGM3VlhGWXZSRzdNbmstdkhrRnZIR1ZKOXVoMnBjQXh5Y2JnSVl1UEo3cEdNYWxCWkFlUFp0a2x2NUlSMFlMRV9lN2owUi1lczZrMUd5Y1Z3cF9veU5uX1JpX0dlcW9tOFNpQ0tZYTJjWk1zd0J2a3U2Y0drMzJ2SlhVbFBUcnNEMEFTQ21WLUZ5Nk9vbWhhOG1ONFRXNTVlTmdOWFhlMDZqajMyemZMdTU2ME5rM3E1SzkyS1ZMM1NLRzBN?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- "Silence Only Emboldens The Bully": Chinese Envoy To India On Trump Tariffs - NDTV
+  "Silence Only Emboldens The Bully
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVpBcDh2WVpzMGhkZWo0cDlUbUdRS2JVbzBLdUVIVmNhbEhvQmJfTnlSUVlMYTRKcjdlWVFQLXhrenNPcExTLW1yWG55dkdWaFhtb2h0LW5VUHdDOEZYb1A4cmNHMWhEekZZQy1BbDZpcmlSNXE5Q0UySnhvSVBvLXYxcjcxVXI0cUJoVGpEaXJoTm5NSnB6cEd4RENWd1hOM0c5cFdOcG5GaDlmajVNWGhB0gG6AUFVX3lxTFB6dlh3R2FRS0tVa2tfelRjOExmZjQwNGdqelJLa3NMYWwyLVVVRFhLUWxoZlVvRVJyVFNseF9VMzJDSEZ0bkZneFBSdGFmTTZESGZreE00TmJLdld1UUxaVzNKdTNzbV9BZVlRN1FxcDFadS1hNHJwcGFEcktFc0M2RkJaUHpvY1dobmNaX2pWejkyWjRGeVdxMzM5ck1CS3lsWWg3dWEzX1JjdTl5anE0OXZEVUN2TGtndw?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- "Maharaja In Tariff": Trump's Trade Advisor Attacks India Over Russian Oil - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0wtd3BVTndZbEJWdjhVN3dGN2dyRC03SGxmaWdFOWZhZVM0OHhoOWZZSDc3cXpFdFNtVk5NdGN3UnlDZjdRYkdDTG9LeFMteFlqdG5MQXPSAb8BQVVfeXFMTndULVcwS1VZS2stV1hGdE9scVBTZTB0NUlZN0tPOHpVdm5YUmVVNWI5Y1p6RVdza0VINzY5U0F3b0tYUG82STRrX1VFMkdvNWhkWFFPbElRVEdhRzh6MEEzem1XNlBiZXlzcFpueWZFQnp2VFg4bHdIUEtoanZPSFpTZkh0WDRIS1lfTnl6SDNjRlRLLUNwbTBBa1pDWmRDUmliWU1qbjVmaXh0eEtIRC1yZDFrX2cwZDJjYmQxbW8?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Bipartisan Chorus Warns Trump On China Amid "Tariff Tantrum" Vs India - NDTV
+  &nbsp;&ngt;<
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzU0TTVxUzhJdFcxY3RSdGl1c0VpMGJLZzIwZXdwRjVIUGU4eG5QMDItZU55YlhwRElsQ0kzYU54TDJBLXdLTzhVVTI5dnpuZjJxRjAxNEVMazU4dGhTNGFzNG9JQ0JIdUhSYVlLMk9wZjVwRjIxckpvMkowR3lseFNfajlJS0xmYXhJUHdTUHV6OHpsRTFDdkhHb3hncDdZNzV3bW9sZEozb0pUcDZvN2ZURE9JY2JD0gHAAUFVX3lxTE5QM0l1SmxrN3M0ckMyaFRfT3NiOUZfZzVPMXJoOGRQcVl2cDBSS3JVb1JsT3RDOXV0ajNZNF9Zc0RFb0FUR01xcGtLdUdTbTBnbW1wd1JKNUtwZWJCdnBEM1pyXzBIZDUwMXUyRy0wMVNVeldQbDdhbkhWQWdfaTVuTV9obmtRdWZzeFFlS0xyQmcxUzhEbTRJNFVUM3ZxcnZNRVpVUWs0WnFZZzFIQU91T3NiSlFJVXROTE1kUG1BZg?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Thunderstorms, Sunrise, Himalayas: Shubhanshu Shukla Shows India From Space - NDTV
+  The Himalayas are covered in
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEFMLWhGNVNreE1ieGtyZm5tMUhfMHVWTHJkUUJfeEJab1M1ZXpya0xDRzdrSTdhdDRNSEhpWTFhU0dMVjVUX3VTenVua01qci1rZEVrOHdKS21aeGticjhDNW91RGcySzBVTXVFajJoYUxkb1JQdHF2X1NRZmZyeWZ0N3gyczFlU05STjhnVEFkNnFGVmlacXY2UnQ1UHNadGkzSktlQmJDOWV6UTM0Q2p30gG6AUFVX3lxTE5ZRnpUb01Jbkh2NDk5NW5XS21kdUwzMlNORTJoTy1zZVo2WFNqV1VaNHJFcHB0RkItQno1QmU4amo3OTRyQUlqcFVVYTREVUItdzJXMHVoV3plcHRaSlh1VjNwOTdjMHQ3c1lfck1feXhmdkpOVnc1bEhxMjdtZDZqZmZ1ZnZXWUNYbG1fUFNvWnRxUkxTeWxHaFgwajN6d0ZEQWp5cThLTFZ3eG15bTNubzF3QUVxd2RRUQ?oc=5
+
+- ‘Silence will embolden bully': Chinese envoy’s message to India on 50% US tariff | Latest News India - Hindustan Times - Hindustan Times
+  ‘Silence will embolden bully': Chinese envoy’s message to India on 50
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOek9ta1haUW5pQ041SVNtZHRPdkdQZ21GZVJOd1RqQTV0eHBCbFFzOVRkX0pxWkJPNE9vOWMxRlFscHplc2ZwMEg4dFZFeG9COUV1QThaanRTOF9xaG0zNDRVcTRqd3FKdnF6aE5SUXVuLUI5dE8xVVBCSzJ6emNSamN6NXQ5bl9qc2RRd19nNEFNSmNacEdEZ0lVME1hYVQ3dWtVZ05oc3VMbG9BUDN1SF83dmcxbXZmT2RqM3gxNDdsNFlyeS1NVlNQTjVkaW1VaGtUN2RjNNIB3AFBVV95cUxQU0F5MzR6ZlRLVEJEQllwVmYtd0x5d21sTGM3VlhGWXZSRzdNbmstdkhrRnZIR1ZKOXVoMnBjQXh5Y2JnSVl1UEo3cEdNYWxCWkFlUFp0a2x2NUlSMFlMRV9lN2owUi1lczZrMUd5Y1Z3cF9veU5uX1JpX0dlcW9tOFNpQ0tZYTJjWk1zd0J2a3U2Y0drMzJ2SlhVbFBUcnNEMEFTQ21WLUZ5Nk9vbWhhOG1ONFRXNTVlTmdOWFhlMDZqajMyemZMdTU2ME5rM3E1SzkyS1ZMM1NLRzBN?oc=5
+
+- "Silence Only Emboldens The Bully": Chinese Envoy To India On Trump Tariffs - NDTV
+  "Silence Only Emboldens The Bully
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVpBcDh2WVpzMGhkZWo0cDlUbUdRS2JVbzBLdUVIVmNhbEhvQmJfTnlSUVlMYTRKcjdlWVFQLXhrenNPcExTLW1yWG55dkdWaFhtb2h0LW5VUHdDOEZYb1A4cmNHMWhEekZZQy1BbDZpcmlSNXE5Q0UySnhvSVBvLXYxcjcxVXI0cUJoVGpEaXJoTm5NSnB6cEd4RENWd1hOM0c5cFdOcG5GaDlmajVNWGhB0gG6AUFVX3lxTFB6dlh3R2FRS0tVa2tfelRjOExmZjQwNGdqelJLa3NMYWwyLVVVRFhLUWxoZlVvRVJyVFNseF9VMzJDSEZ0bkZneFBSdGFmTTZESGZreE00TmJLdld1UUxaVzNKdTNzbV9BZVlRN1FxcDFadS1hNHJwcGFEcktFc0M2RkJaUHpvY1dobmNaX2pWejkyWjRGeVdxMzM5ck1CS3lsWWg3dWEzX1JjdTl5anE0OXZEVUN2TGtndw?oc=5
+
+- "Maharaja In Tariff": Trump's Trade Advisor Attacks India Over Russian Oil - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0wtd3BVTndZbEJWdjhVN3dGN2dyRC03SGxmaWdFOWZhZVM0OHhoOWZZSDc3cXpFdFNtVk5NdGN3UnlDZjdRYkdDTG9LeFMteFlqdG5MQXPSAb8BQVVfeXFMTndULVcwS1VZS2stV1hGdE9scVBTZTB0NUlZN0tPOHpVdm5YUmVVNWI5Y1p6RVdza0VINzY5U0F3b0tYUG82STRrX1VFMkdvNWhkWFFPbElRVEdhRzh6MEEzem1XNlBiZXlzcFpueWZFQnp2VFg4bHdIUEtoanZPSFpTZkh0WDRIS1lfTnl6SDNjRlRLLUNwbTBBa1pDWmRDUmliWU1qbjVmaXh0eEtIRC1yZDFrX2cwZDJjYmQxbW8?oc=5
+
+- Bipartisan Chorus Warns Trump On China Amid "Tariff Tantrum" Vs India - NDTV
+  &nbsp;&ngt;<
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzU0TTVxUzhJdFcxY3RSdGl1c0VpMGJLZzIwZXdwRjVIUGU4eG5QMDItZU55YlhwRElsQ0kzYU54TDJBLXdLTzhVVTI5dnpuZjJxRjAxNEVMazU4dGhTNGFzNG9JQ0JIdUhSYVlLMk9wZjVwRjIxckpvMkowR3lseFNfajlJS0xmYXhJUHdTUHV6OHpsRTFDdkhHb3hncDdZNzV3bW9sZEozb0pUcDZvN2ZURE9JY2JD0gHAAUFVX3lxTE5QM0l1SmxrN3M0ckMyaFRfT3NiOUZfZzVPMXJoOGRQcVl2cDBSS3JVb1JsT3RDOXV0ajNZNF9Zc0RFb0FUR01xcGtLdUdTbTBnbW1wd1JKNUtwZWJCdnBEM1pyXzBIZDUwMXUyRy0wMVNVeldQbDdhbkhWQWdfaTVuTV9obmtRdWZzeFFlS0xyQmcxUzhEbTRJNFVUM3ZxcnZNRVpVUWs0WnFZZzFIQU91T3NiSlFJVXROTE1kUG1BZg?oc=5
+
+- Thunderstorms, Sunrise, Himalayas: Shubhanshu Shukla Shows India From Space - NDTV
+  The Himalayas are covered in
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEFMLWhGNVNreE1ieGtyZm5tMUhfMHVWTHJkUUJfeEJab1M1ZXpya0xDRzdrSTdhdDRNSEhpWTFhU0dMVjVUX3VTenVua01qci1rZEVrOHdKS21aeGticjhDNW91RGcySzBVTXVFajJoYUxkb1JQdHF2X1NRZmZyeWZ0N3gyczFlU05STjhnVEFkNnFGVmlacXY2UnQ1UHNadGkzSktlQmJDOWV6UTM0Q2p30gG6AUFVX3lxTE5ZRnpUb01Jbkh2NDk5NW5XS21kdUwzMlNORTJoTy1zZVo2WFNqV1VaNHJFcHB0RkItQno1QmU4amo3OTRyQUlqcFVVYTREVUItdzJXMHVoV3plcHRaSlh1VjNwOTdjMHQ3c1lfck1feXhmdkpOVnc1bEhxMjdtZDZqZmZ1ZnZXWUNYbG1fUFNvWnRxUkxTeWxHaFgwajN6d0ZEQWp5cThLTFZ3eG15bTNubzF3QUVxd2RRUQ?oc=5
+
+- ‘Silence will embolden bully': Chinese envoy’s message to India on 50% US tariff | Latest News India - Hindustan Times - Hindustan Times
+  ‘Silence will embolden bully': Chinese envoy’s message to India on 50
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOek9ta1haUW5pQ041SVNtZHRPdkdQZ21GZVJOd1RqQTV0eHBCbFFzOVRkX0pxWkJPNE9vOWMxRlFscHplc2ZwMEg4dFZFeG9COUV1QThaanRTOF9xaG0zNDRVcTRqd3FKdnF6aE5SUXVuLUI5dE8xVVBCSzJ6emNSamN6NXQ5bl9qc2RRd19nNEFNSmNacEdEZ0lVME1hYVQ3dWtVZ05oc3VMbG9BUDN1SF83dmcxbXZmT2RqM3gxNDdsNFlyeS1NVlNQTjVkaW1VaGtUN2RjNNIB3AFBVV95cUxQU0F5MzR6ZlRLVEJEQllwVmYtd0x5d21sTGM3VlhGWXZSRzdNbmstdkhrRnZIR1ZKOXVoMnBjQXh5Y2JnSVl1UEo3cEdNYWxCWkFlUFp0a2x2NUlSMFlMRV9lN2owUi1lczZrMUd5Y1Z3cF9veU5uX1JpX0dlcW9tOFNpQ0tZYTJjWk1zd0J2a3U2Y0drMzJ2SlhVbFBUcnNEMEFTQ21WLUZ5Nk9vbWhhOG1ONFRXNTVlTmdOWFhlMDZqajMyemZMdTU2ME5rM3E1SzkyS1ZMM1NLRzBN?oc=5
+
+- "Silence Only Emboldens The Bully": Chinese Envoy To India On Trump Tariffs - NDTV
+  "Silence Only Emboldens The Bully
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVpBcDh2WVpzMGhkZWo0cDlUbUdRS2JVbzBLdUVIVmNhbEhvQmJfTnlSUVlMYTRKcjdlWVFQLXhrenNPcExTLW1yWG55dkdWaFhtb2h0LW5VUHdDOEZYb1A4cmNHMWhEekZZQy1BbDZpcmlSNXE5Q0UySnhvSVBvLXYxcjcxVXI0cUJoVGpEaXJoTm5NSnB6cEd4RENWd1hOM0c5cFdOcG5GaDlmajVNWGhB0gG6AUFVX3lxTFB6dlh3R2FRS0tVa2tfelRjOExmZjQwNGdqelJLa3NMYWwyLVVVRFhLUWxoZlVvRVJyVFNseF9VMzJDSEZ0bkZneFBSdGFmTTZESGZreE00TmJLdld1UUxaVzNKdTNzbV9BZVlRN1FxcDFadS1hNHJwcGFEcktFc0M2RkJaUHpvY1dobmNaX2pWejkyWjRGeVdxMzM5ck1CS3lsWWg3dWEzX1JjdTl5anE0OXZEVUN2TGtndw?oc=5
+
+- "Maharaja In Tariff": Trump's Trade Advisor Attacks India Over Russian Oil - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0wtd3BVTndZbEJWdjhVN3dGN2dyRC03SGxmaWdFOWZhZVM0OHhoOWZZSDc3cXpFdFNtVk5NdGN3UnlDZjdRYkdDTG9LeFMteFlqdG5MQXPSAb8BQVVfeXFMTndULVcwS1VZS2stV1hGdE9scVBTZTB0NUlZN0tPOHpVdm5YUmVVNWI5Y1p6RVdza0VINzY5U0F3b0tYUG82STRrX1VFMkdvNWhkWFFPbElRVEdhRzh6MEEzem1XNlBiZXlzcFpueWZFQnp2VFg4bHdIUEtoanZPSFpTZkh0WDRIS1lfTnl6SDNjRlRLLUNwbTBBa1pDWmRDUmliWU1qbjVmaXh0eEtIRC1yZDFrX2cwZDJjYmQxbW8?oc=5
+
+- Bipartisan Chorus Warns Trump On China Amid "Tariff Tantrum" Vs India - NDTV
+  &nbsp;&ngt;<
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzU0TTVxUzhJdFcxY3RSdGl1c0VpMGJLZzIwZXdwRjVIUGU4eG5QMDItZU55YlhwRElsQ0kzYU54TDJBLXdLTzhVVTI5dnpuZjJxRjAxNEVMazU4dGhTNGFzNG9JQ0JIdUhSYVlLMk9wZjVwRjIxckpvMkowR3lseFNfajlJS0xmYXhJUHdTUHV6OHpsRTFDdkhHb3hncDdZNzV3bW9sZEozb0pUcDZvN2ZURE9JY2JD0gHAAUFVX3lxTE5QM0l1SmxrN3M0ckMyaFRfT3NiOUZfZzVPMXJoOGRQcVl2cDBSS3JVb1JsT3RDOXV0ajNZNF9Zc0RFb0FUR01xcGtLdUdTbTBnbW1wd1JKNUtwZWJCdnBEM1pyXzBIZDUwMXUyRy0wMVNVeldQbDdhbkhWQWdfaTVuTV9obmtRdWZzeFFlS0xyQmcxUzhEbTRJNFVUM3ZxcnZNRVpVUWs0WnFZZzFIQU91T3NiSlFJVXROTE1kUG1BZg?oc=5
+
+- Thunderstorms, Sunrise, Himalayas: Shubhanshu Shukla Shows India From Space - NDTV
+  The Himalayas are covered in
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEFMLWhGNVNreE1ieGtyZm5tMUhfMHVWTHJkUUJfeEJab1M1ZXpya0xDRzdrSTdhdDRNSEhpWTFhU0dMVjVUX3VTenVua01qci1rZEVrOHdKS21aeGticjhDNW91RGcySzBVTXVFajJoYUxkb1JQdHF2X1NRZmZyeWZ0N3gyczFlU05STjhnVEFkNnFGVmlacXY2UnQ1UHNadGkzSktlQmJDOWV6UTM0Q2p30gG6AUFVX3lxTE5ZRnpUb01Jbkh2NDk5NW5XS21kdUwzMlNORTJoTy1zZVo2WFNqV1VaNHJFcHB0RkItQno1QmU4amo3OTRyQUlqcFVVYTREVUItdzJXMHVoV3plcHRaSlh1VjNwOTdjMHQ3c1lfck1feXhmdkpOVnc1bEhxMjdtZDZqZmZ1ZnZXWUNYbG1fUFNvWnRxUkxTeWxHaFgwajN6d0ZEQWp5cThLTFZ3eG15bTNubzF3QUVxd2RRUQ?oc=5
+
+- ‘Silence will embolden bully': Chinese envoy’s message to India on 50% US tariff | Latest News India - Hindustan Times - Hindustan Times
+  ‘Silence will embolden bully': Chinese envoy’s message to India on 50
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOek9ta1haUW5pQ041SVNtZHRPdkdQZ21GZVJOd1RqQTV0eHBCbFFzOVRkX0pxWkJPNE9vOWMxRlFscHplc2ZwMEg4dFZFeG9COUV1QThaanRTOF9xaG0zNDRVcTRqd3FKdnF6aE5SUXVuLUI5dE8xVVBCSzJ6emNSamN6NXQ5bl9qc2RRd19nNEFNSmNacEdEZ0lVME1hYVQ3dWtVZ05oc3VMbG9BUDN1SF83dmcxbXZmT2RqM3gxNDdsNFlyeS1NVlNQTjVkaW1VaGtUN2RjNNIB3AFBVV95cUxQU0F5MzR6ZlRLVEJEQllwVmYtd0x5d21sTGM3VlhGWXZSRzdNbmstdkhrRnZIR1ZKOXVoMnBjQXh5Y2JnSVl1UEo3cEdNYWxCWkFlUFp0a2x2NUlSMFlMRV9lN2owUi1lczZrMUd5Y1Z3cF9veU5uX1JpX0dlcW9tOFNpQ0tZYTJjWk1zd0J2a3U2Y0drMzJ2SlhVbFBUcnNEMEFTQ21WLUZ5Nk9vbWhhOG1ONFRXNTVlTmdOWFhlMDZqajMyemZMdTU2ME5rM3E1SzkyS1ZMM1NLRzBN?oc=5
+
+- "Silence Only Emboldens The Bully": Chinese Envoy To India On Trump Tariffs - NDTV
+  "Silence Only Emboldens The Bully
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVpBcDh2WVpzMGhkZWo0cDlUbUdRS2JVbzBLdUVIVmNhbEhvQmJfTnlSUVlMYTRKcjdlWVFQLXhrenNPcExTLW1yWG55dkdWaFhtb2h0LW5VUHdDOEZYb1A4cmNHMWhEekZZQy1BbDZpcmlSNXE5Q0UySnhvSVBvLXYxcjcxVXI0cUJoVGpEaXJoTm5NSnB6cEd4RENWd1hOM0c5cFdOcG5GaDlmajVNWGhB0gG6AUFVX3lxTFB6dlh3R2FRS0tVa2tfelRjOExmZjQwNGdqelJLa3NMYWwyLVVVRFhLUWxoZlVvRVJyVFNseF9VMzJDSEZ0bkZneFBSdGFmTTZESGZreE00TmJLdld1UUxaVzNKdTNzbV9BZVlRN1FxcDFadS1hNHJwcGFEcktFc0M2RkJaUHpvY1dobmNaX2pWejkyWjRGeVdxMzM5ck1CS3lsWWg3dWEzX1JjdTl5anE0OXZEVUN2TGtndw?oc=5
+
+- Is AI a "Normal Technology"? - O'Reilly Media
+  Is AI a "
+  🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80Y3FfQnRKMVhmclZBSWxTdGMxa09WdGl0WVNYR3JzYS1IV3dkRXNUTzJFMWwwcWh3ZmxTUnctTkViaXdlZ1c5YnFFdVRlUlF1aV9zd3NWdXRfSFN5QnBaZGJMcTVjcE0?oc=5
+
+- Send back your engineers to China with immediate effect: iPhone maker Foxconn gets instructions as iPhone - Times of India
+  Send back your engineers to China with immediate effect: iPhone maker Foxconn gets instructions
+  🔗 https://news.google.com/rss/articles/CBMiqwJBVV95cUxNdmNXTGFGZzN1enRyMndSUE84dHFCTXRrWFJRbi13YzdCSjEtSFVvMzN4N1RrVDdsTng0UnptLXBRb0pYOVlQT2JVcHc1RXd6QTFBVDZ5R3BJWHFUU0xsZGo1LWM0bFRnU04zNDJiNjUzMXNhVE84XzlRRU9uREp5RC1pc2dSZ1BIQnVZdkR5SW8zeUVkeFlyLXh2akM1ejVQUXluU1VGeDY0Rlgxb2VTMk4ydV9kQWZDVDhCYjhlRTRYcjF6WFlXM0dGdTJZS3JlaTFnYzQtSzV1akplZ1NEcGhwSWRweTcxVWU1QU5uTmVnNVV0bGFDV3lDNzRGSzZkRzZ4OG5abG1QSDZVeVF6NjEtaHR3aGN0VzZubHlJVXVQVmtsbFpSd2szb9IBsAJBVV95cUxPY2xwUTZJbzF3aGF4UDY4eENnX3BOdlptZnNHWWt6WlloRTZjZGNLdHN6cllGNkJZWGU1Q0x2dGExcG1iR2Y0SHdibV8wQnhsQ0ZzMTVFMjJlaS10NGRnR0lLa1VZdmFfeDJhWmwycllObDJ6S2JhN0w3aTRHZ0ZFLXNOSU5fcFM4MG9odFdVZmpkTEV0N24wX2ZDZUtPWEMxWlZfUDYtOXZ6T1JmVVB3bFZuLXRjNVl3U3NncWNWbjc5OENWYkxyWG85b2VLY1lQY0hrcHFCN2RXVWRYdTlXQ2hCWko5QXhndlNaUTBNeG41SC1fakx5U0VYQWxqUG5sYXBvZldTekp3TXcyYXhtQ1d0LXU4bU5TRGhwOHlSUmtqZHR5YWhNWXU3b1VsYkFE?oc=5
+
+- OpenAI announces India entry with first office in New Delhi, to hire more staff on ground - financialexpress.com
+  OpenAI announces India entry with first office in New Delhi, to hire
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGxOblpGVjk4cHM0djJlT1NPT290c3JFTFcxQlNHWERRYWM3OC1UNHlwRS1UVEwxUFRFeHMxNXNGc2h3MVRtVWxrMEJWdWlsdndZV3Q4bWNzaGZEdlZYRXdEdTBtTzliMDIySF8tdzZkbTEyUlBGaXdYdEJkSnl0dk54VjVuT2JrMEtTRng4Q3h2UG9OWldFUnh6VkVRUzlMLUw1dTlpRkdnQVVZenJB?oc=5
+
+- AI technology tools ‘new textbooks’ and not clinician replacement – vet - Vet Times
+  AI technology tools ‘new textbooks’ and
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnUydGxtc3hCamNVN3c3YkhZeG5BdG41dEJqTkhsckRSZVBBcnQxNHNoSkpGVF9GVHRlSkc4YzZMU2VhYTFScDZhQTZmM2lZOUx1NTZ1RUJEdUFQVW5NV0VzNXJCS1hVNllmZmplTzdZWEhMRHhMaTVMRlB2RnRRRmV6dmkxYmhVM0IyWDBzWENxRDFKWmxiV1A0Ujdhc2tLTzVtMWR3SUJTb3NfakQ5MUhJRzlnemxHbXFoMw?oc=5
+
+- India Post Launches IT 2.0 – Advanced Postal Technology to Drive Digital Transformation Nationwide - Newsonair
+  India Post launches IT 2.0 – Advanced Postal Technology to
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNOGFKUlptd3MxM05JZ0xiNWtINXhMV3hRWlJJdWN6VWxpNFJPendWbXZjNm5KV1g5TjNGNWJXcHd3YlVYVUx3Uk5ROHdvNi02M2FHYmFfWmJGallfRUdGWXlTdWJOaFlCTi1CSUhVTUFSS0lFMDJ1bERkUlR0RFptYTNBZk81MUNXSVB2LUVUVGNETW0wZ1lRNHNxeV9UdnYxb2JzUXBQcWxiV09RV19xclVHSkRWZGFDb211bUgwN29ldlZi?oc=5
 
 
-_Last updated: 2025-08-22 01:12:51 UTC_
+_Last updated: 2025-08-22 06:27:32 UTC_
