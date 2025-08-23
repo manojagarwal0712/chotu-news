@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
-- Oppostion parties welcome Supreme Court’s ruling on Bihar SIR
+- Tripura to create over 70 govt posts, hike social security pension
   
-  🔗 https://indianexpress.com/article/india/oppostion-parties-welcome-supreme-courts-ruling-on-bihar-sir-10205940/
+  🔗 https://indianexpress.com/article/india/tripura-create-70-govt-posts-hike-social-security-pension-10206365/
 
-- BSF gets MHA nod for border talks in Dhaka
+- 8 killed, 4 injured in head-on collision between mini-van, truck on Patna’s outskirts
   
-  🔗 https://indianexpress.com/article/india/bsf-gets-mha-nod-for-border-talks-in-dhaka-10205937/
+  🔗 https://indianexpress.com/article/india/killed-injured-head-collision-between-mini-van-truck-patna-outskirts-10206343/
 
-- Trump appoints close aide Sergio Gor as next US ambassador to India
+- News Today Live Updates, 23 August | Trump visits top landmarks in DC, stops by gift shop near White House amid military crackdown
   
-  🔗 https://indianexpress.com/article/india/trump-appoints-close-aide-sergio-gor-as-next-us-ambassador-to-india-10205923/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-08-23-2025-news-headlines-10206027/
 
-- Asim Munir likening Pakistan to dumper truck confession of failure, says Rajnath
+- CPI leader Suravaram Sudhakar Reddy passes away
   
-  🔗 https://indianexpress.com/article/india/asim-munir-likening-pakistan-to-dumper-truck-confession-of-failure-says-rajnath-10205927/
+  🔗 https://indianexpress.com/article/india/cpi-leader-suravaram-sudhakar-reddy-passes-away-at-83-10206296/
 
-- Bureaucratic reshuffle: Union Govt changes Secretaries of 4 departments
+- 5 killed, 1 missing as heavy rain wreaks havoc in Jharkhand
   
-  🔗 https://indianexpress.com/article/india/bureaucratic-reshuffle-union-govt-changes-secretaries-of-4-departments-10205914/
+  🔗 https://indianexpress.com/article/india/killed-missing-heavy-rain-wreaks-havoc-jharkhand-10206259/
+
+- Apple in talks to use Google’s Gemini AI to power revamped Siri: Reports
+  
+  🔗 https://indianexpress.com/article/technology/apple-in-talks-to-use-googles-gemini-ai-to-power-revamped-siri-reports-10206358/
+
+- After joining TikTok, Trump says he could extend sale deadline if needed
+  
+  🔗 https://indianexpress.com/article/technology/after-joining-tiktok-trump-says-he-could-extend-sale-deadline-if-needed-10206271/
+
+- Meta partners with Midjourney to license AI tech for future products
+  
+  🔗 https://indianexpress.com/article/technology/meta-partners-with-midjourney-to-license-ai-tech-for-future-products-10206249/
+
+- AI will transform the way we live in cities: IIT Kanpur Prof Sachchida Nand Tripathi
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-transform-iit-kanpur-prof-sachchida-nand-tripathi-10205201/
 
 - Instagram rolls out feature for creators to link reels into ‘series’: Here’s how to use it
   
   🔗 https://indianexpress.com/article/technology/instagram-rolls-out-feature-for-creators-to-link-reels-into-series-heres-how-to-use-it-10205315/
 
-- Top 5 camera phones under Rs 50,000: From Pixel 9a to OnePlus 13R
-  
-  🔗 https://indianexpress.com/article/technology/top-5-camera-phones-under-rs-50000-from-pixel-9a-to-oneplus-13r-10205247/
+- WestBridge Capital to acquire 15% stake in Edelweiss asset management in a  ₹450 cr deal
+  WestBridge Capital is set to acquire a 15% stake
+  🔗 https://www.livemint.com/companies/news/westbridge-capital-to-acquire-15-per-cent-stake-in-edelweiss-asset-management-for-rs-450-cr-11755923840178.html
 
-- When workplace harassment goes online: PoSH in the remote work era
-  
-  🔗 https://indianexpress.com/article/technology/when-workplace-harassment-goes-online-posh-in-the-remote-work-era-10205062/
-
-- Elon Musk approached Meta CEO Mark Zuckerberg with $97 billion plan to buy OpenAI, claims company
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/elon-musk-meta-mark-zuckerberg-openai-takeover-97-billion-10204863/
-
-- Microsoft AI head Mustafa Suleyman fears rise of ‘Seemingly Conscious AI’ that mimics human consciousness
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-ai-mustafa-suleyman-seemingly-conscious-ai-risks-10204343/
+- Rural, urban housing and infrastructure to drive cement demand growth at 7-8% CAGR
+   Capacity additions in the Indian cement sector are likely to pick up across regions starting in the last quarter of the Financial Year (FY)
+  🔗 https://www.livemint.com/companies/news/rural-urban-housing-and-infrastructure-to-drive-cement-demand-growth-at-7-8-cagr-11755921666993.html
 
 - US to take 10% equity stake in Intel, in Trumps latest corporate move
   Trump to take 10% equity stake in
@@ -52,33 +60,37 @@
   The Trump administration has halted work on an offshore wind farm being constructed off the coast of Rhode
   🔗 https://www.livemint.com/companies/news/trump-halts-orsted-wind-project-in-another-blow-to-industry-11755901705939.html
 
-- Starbucks Throttles Operations at US Coffee Plants to Curb Costs
-  The Starbucks Corp. plants that roast and package the company’s coffee beans in the US are cutting two days of weekly
-  🔗 https://www.livemint.com/companies/news/starbucks-throttles-operations-at-us-coffee-plants-to-curb-costs-11755896729393.html
+- UniCredit Sees 10% Pound Drop in Contrarian Bet on More BOE Cuts
+  The pound will slide around 10% against the euro by the end of next year. The Bank of England is likely to cut interest rates faster than markets
+  🔗 https://www.livemint.com/market/stock-market-news/unicredit-sees-10-pound-drop-in-contrarian-bet-on-more-boe-cuts-11755929589849.html
 
-- Boeing, Striking Defense Workers Union to Start Talks Monday
-  Boeing and union leaders will return to the bargaining table Monday. The two sides have been at a three-week long
-  🔗 https://www.livemint.com/companies/news/boeing-striking-defense-workers-union-to-start-talks-monday-11755896360686.html
+- Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
+  Mehul Kothari of Anand Rathi recommends three shares to buy or sell. Karn
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11755917433976.html
 
-- Investing in India’s $250 billion IT services sector? Here’s all you need to know
-  India’s IT services sector faces weak demand, layoffs, and AI-driven disruption. As large companies like TCS and Infosys struggle
-  🔗 https://www.livemint.com/market/stock-market-news/india-it-services-investing-guide-midcaps-ai-disruption-11755868000855.html
+- Gold rate today on an uptrend. Is it the right time to buy gold amid US Fed rate cut buzz after Jackson Hole Symposium?
+  MCX gold rate rose significantly, closing at  ₹1 lakh
+  🔗 https://www.livemint.com/market/commodities/gold-rate-today-on-an-uptrend-is-it-the-right-time-to-buy-gold-amid-us-fed-rate-cut-buzz-after-jackson-hole-symposium-11755921213477.html
 
-- Sebi’s investor protection dilemma—a growing corpus but stagnant spending
-  Sebi’s Investor Protection and Education Fund swelled 43% to  ₹761 crore in FY25. Direct spending stayed flat at 
-  🔗 https://www.livemint.com/market/sebi-ipef-investor-protection-finfluencers-derivatives-losses-11755849355085.html
+- INR vs USD: How Jerome Powell's hint on Fed rate cuts may impact currency, bond markets on Monday
+  Powell's dovish remarks may weaken the US dollar, potentially benefiting the Indian rupee. Analysts suggest that while short-term pressures persist, a
+  🔗 https://www.livemint.com/market/bonds/inr-vs-usd-how-jerome-powells-hint-on-fed-rate-cuts-may-impact-currency-bond-markets-on-monday-11755877186482.html
 
-- Dow notches record high as Wall Street cheers Powells speech
-  Dow notches record high as Wall
-  🔗 https://www.livemint.com/market/stock-market-news/dow-notches-record-high-as-wall-street-cheers-powells-speech-11755894957220.html
+- Jackson Hole Symposium: What US Fed chair Jerome Powell's speech means for the Indian stock market
+  Jerome Powell hinted at potential US Fed rate cuts amid inflation concerns. US
+  🔗 https://www.livemint.com/market/stock-market-news/jackson-hole-symposium-what-us-fed-chair-jerome-powells-speech-means-for-the-indian-stock-market-11755915731490.html
 
-- Oil Rises as Possible Rate Cut Outweighs Bearish Supply Outlook
-  Oil rose after Federal Reserve Chair Jerome Powell signaled openness to an interest rate cut in September.
-  🔗 https://www.livemint.com/market/stock-market-news/oil-rises-as-possible-rate-cut-outweighs-bearish-supply-outlook-11755894834247.html
+- Apple sues ex-employee for allegedly stealing Apple Watch secrets for Oppo: All you need to know
+  Apple has filed a lawsuit against ex-employee Chen Shi. The company claims Shi accessed sensitive documents and held meetings to gather confidential information before his departure.
+  🔗 https://www.livemint.com/technology/tech-news/apple-sues-ex-employee-for-allegedly-stealing-apple-watch-secrets-for-oppo-all-you-need-to-know-chen-shi-11755926317745.html
 
-- Sebi Chief Tuhin Kanta Pandey eyes ‘vast headroom for growth’ in Indian mutual fund industry — Here's what he said
-  Sebi Chairman Tuhin Kanta Pandey predicted a ‘vast’ potential for growth
-  🔗 https://www.livemint.com/market/stock-market-news/sebi-chief-tuhin-kanta-pandey-eyes-vast-headroom-for-growth-in-indian-mutual-fund-industry-heres-what-he-said-11755887283221.html
+- Google unlocks Veo 3 video AI for free users this weekend: How to use, usage limit and more
+  Google's Veo 3 video generation model will be temporarily available for free users through the Gemini app. Freeu users will
+  🔗 https://www.livemint.com/technology/tech-news/google-unlocks-veo-3-video-ai-for-free-users-this-weekend-how-to-use-usage-limit-and-more-11755915582878.html
+
+- Apple in talks with Google to give Siri a new Gemini brain, internal ‘bake off’ underway: Report
+  Apple is reportedly in talks with Google to power its big Siri update with the company's Gemini AI models. The decision on which model Apple eventually
+  🔗 https://www.livemint.com/technology/tech-news/apple-in-talks-with-google-to-give-siri-a-gemini-brain-internal-bake-off-underway-11755910442484.html
 
 - India to widen chip sops as nearly $10 bn is fully committed, says Meity’s Krishnan
   The plan comes ahead of the fourth Semicon India, an annual semiconductor event. India will likely seek
@@ -88,97 +100,105 @@
   Top trending laptops deliver smooth performance, high-resolution displays, and robust graphics. Ideal for gaming laptop
   🔗 https://www.livemint.com/technology/gadgets/top-trending-laptops-with-modern-features-and-tech-save-up-to-45-on-top-brands-such-lenovo-dell-and-others-11755781504554.html
 
-- Latest gen refurbished laptops from top brands for everyday tasks and more: Top 8 picks from HP, Dell and others
-  Latest gen refurbished laptops deliver cost-effective computing with modern features. Fast processors, ample memory, long battery life, and durable design
-  🔗 https://www.livemint.com/technology/gadgets/latest-gen-refurbished-laptops-from-top-brands-for-everyday-tasks-and-more-top-8-picks-from-hp-dell-and-others-11755776826496.html
+- Tata Capital IPO likely next month but unlisted shares down 8% in 1 month
+  Tata Capital plans a $2 billion IPO before the RBI's deadline. IPO includes new shares and shares from existing investors like Tata Sons and International Finance Corporation.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/tata-capital-ipo-likely-next-month-but-unlisted-shares-down-8-in-1-month/articleshow/123466854.cms
 
-- iPhone 17 launching next month: Price, display, camera and all we know so far
-  The iPhone 17 is expected to launch next month with the A19 chipset and 8GB of RAM. The phone could get a 6.3
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17-launching-next-month-price-display-camera-and-all-we-know-so-far-11755840826999.html
+- IPO Calendar: Another busy week for IPOs as 10 companies to raise nearly Rs 1,200 crore
+  Vikran Engineering's Rs 772 crore IPO, opening August 26, leads the pack. Several SME IPOs, including Globtier Infotech and NIS Management, are also scheduled.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-another-busy-week-for-ipos-as-10-companies-to-raise-nearly-rs-1200-crore/articleshow/123466676.cms
 
-- OpenAI to open first India office in Delhi amid rising ChatGPT adoption surges in the country
-  OpenAI has opened its first office in Delhi, India. The company is also hiring a local team and has officially established an entity.
-  🔗 https://www.livemint.com/technology/openai-confirms-plans-to-open-first-office-in-delhi-sam-altman-says-india-can-become-a-global-ai-leader-11755834253933.html
+- From 6X gains in 2024 to bear market pain in 2025. Is this smallcap multibagger stock a buy now?
+  Shakti Pumps India is known for solar pumps and EV motors. Despite a recent dip, institutional investors are showing strong support. A ₹292 crore QIP was raised to fund a new solar cell plant.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/from-6x-gains-in-2024-to-bear-market-pain-in-2025-is-this-smallcap-multibagger-stock-a-buy-now/articleshow/123466627.cms
 
-- Trump says Intel has agreed to a deal for US to take 10% equity stake; Intel shares surge 6%
-  President Trump announced a deal where the U.S. would acquire a 10% stake in Intel. The federal backing aims to revive Intel's struggling foundry business amidst turnaround efforts.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/trump-says-intel-has-agreed-to-a-deal-for-us-to-take-10-equity-stake-intel-shares-surge-6/articleshow/123460906.cms
+- Bitcoin-volatility collapse forces risk-loving traders elsewhere
+  Bitcoin's volatility is decreasing, resembling blue-chip stocks, attracting long-term investors. Speculative traders are shifting focus to Ethereum, witnessing increased ETF volumes.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-volatility-collapse-forces-risk-loving-traders-elsewhere/articleshow/123466607.cms
 
-- US Fed chair Jerome Powell’s nuance was lost on the markets, says Jonathan Levin
-  The Fed faces a tricky task navigating its dual mandate amid economic uncertainties and external pressures. Jerome Powell's recent speech at Jackson Hole hinted at potential adjustments to monetary policy.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-fed-chair-jerome-powells-nuance-was-lost-on-the-markets-says-jonathan-levin/articleshow/123460318.cms
+- 4 stocks from Ashish Kacholia's portfolio surged 50-75% in FY26
+  This list includes only those companies where Kacholia’s stake exceeds 1%. It
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/4-stocks-from-ashish-kacholias-portfolio-surged-50-75-in-fy26/slideshow/123466048.cms
 
-- US dollar drops as Powell signals possible September rate cut in Jackson Hole speech
-  The dollar weakened following Jerome Powell's suggestion of a potential rate cut. Concerns about Fed independence also weighed on the dollar. Bitcoin saw gains amidst the currency movements.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-drops-as-powell-signals-possible-september-rate-cut-in-jackson-hole-speech/articleshow/123458837.cms
+- Trump Names Close Political Aide Sergio Gor As India Ambassador - NDTV
+  The White House has named Sergio Gor as
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPSmtrLVBhZFF3cmxkOFdKSUFkYy1CSmVpSjBGbmJHNDVOYUJWSDV6eGtKcGNJTjA5VEpYbXFyOHdWQkVSQXp4VG9pRUYyS09IS0JqZVNmZU4wY19GaUh4cXRvNEVIbTctOG5VejhmcXlSSGpFbDE5TEplRzFEclYyRkh4VkdyNm1QbkZKZmQ1WmdleHZPQWZDdlFJdnNhR0JGN2t3OXg0TVNFMlRvZ1Fn0gG3AUFVX3lxTE8xNGlCZnNSMUZrZXp2ZThwSWZ1aUxfdmJsZ1BWajE2SWJyV2FPejBJeDdzSWxkSHVoN0FOWFdMYnc2ZFRtbFctRHRrX1hlRnpCTjRpUFRoMDUyMnl3VmhMVy1sWGRNVDhKRHFRV3hORjVBNlRqbVRCTHBvVURSUDNLUEJZbnBtV3pscHJEc1p6dElkZzlHMzNROXNmS2M1MmVYQlZhXzhUQXRobWZHUE5vUzlXRDlVTQ?oc=5
 
-- Apollo Hospitals’ Rs 1,489 crore block deal attracts marquee investors; T. Rowe Price, SocGen, Morgan Stanley lead buying
-  Abu Dhabi Investment Authority and T. Rowe Price were among the buyers. Kotak Mahindra Life Insurance and Axis Mutual Fund also purchased shares. Apollo Hospitals reported a net profit of Rs 433 crore in Q1.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/apollo-hospitals-rs-1489-crore-block-deal-attracts-marquee-investors-t-rowe-price-socgen-morgan-stanley-lead-buying/articleshow/123458490.cms
+- TikTok back in India? Govt responds amid buzz over Chinese app's return | Latest News India - Hindustan Times - Hindustan Times
+  TikTok back in India? Govt responds amid buzz over Chinese app's return.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQlEtZ2o1dWxxb1VmT3BzcHhGMDNVN25PTGpFaDYzRS1vOHFFWGU0TDVCZ1ZkYVZQNWlmVWR6MzMwdFIzcXlucWZvcjNjYl8waXNPZzdBSnZfcXljR2FfeWRWamRhbW1qYlZxQ1JGYWZzMmpZdEJZbEVyZ21jZ3V1UXhmcUlqT1VDV1JfU044dTJxdlFLOEQzUUQxaGtLc1JIaHY2d1FSOHpVRDBDSzYzSmlBQVRwT0ZQQVNjanVVdTJLc3NhNk5GY0hjYndwS0VPMTQ0WFBWV3rSAd4BQVVfeXFMTjRrOWcwSnlvUXFkM1lPVEI3aW9ua0toc01JaDB1QV83SGNMQno2NUg4eDZhcmNvbkhwNlNZR1JCblYtTlhhNWxsRXNscGZZenllMHVUS1hwbi1DVngwVlpvaUpfRWRwS0sxVWY0a0ZkcjV2Unk0c201T2pLSmhDQ0NDOHg4X1dPdVlpM0FzalhCQW9ncFNwS254Z2cxbDRvY3RPNS1LWmlOcG1mWHJiTFRJaVlQRFdXdU53bTJ4YkJUM0dmTlBPNDgwQ0U3dDYxRnlXTlJqM1NlTzZ5U2tn?oc=5
 
-- US small caps, housing stocks rally as Powell opens door to rate cuts
-  Rate-sensitive stocks rallied on Friday after U.S. Federal Reserve Chair Jerome Powell hinted that an interest-rate cut could
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-small-caps-housing-stocks-rally-as-powell-opens-door-to-rate-cuts/articleshow/123458189.cms
+- PM Modi, ISRO unveil India's ambitious space plan: Chandrayaan 4, Space station by 2035 | Latest News India - Hindustan Times - Hindustan Times
+  PM Modi, ISRO unveil India's ambitious space plan: Chandrayaan 4, Space station by
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR2R4VndNMUFWNFlwY3U3YzgwNFpRX2N3ZUVjX3NxbGplUjhHSnQweFVyRnFMS0dDMGVhSmJFN0FWN0NCNURUNUM1VWo1YkNoQWc2S2c2TnJDemJpSHBQdndMOGMxLUI2c1JIaTRaejYyWjBOaUtseHBjZWJZYzI1QW5LeW8xLVZrbnUwMHFidFo4bDNMMjc3cGZ0c0FzWm02NWp4YTZBMjNLYXZNMzlrNEg2Y09UalhUWTlpajNvQ1FuamRkU0VXYTZNSnMtTEl2cmk5US1vUTNBaVJWWHJj0gHkAUFVX3lxTFBwVGpkYWEtYS02S181d3ZDYXowVEdIQWV4RW04OUYzd09reG9fOWxyZzhvTnZFdmZ6QzdWXzk0V1FUWUhERGNlcjNwUVJoc2FicFU4NE9Md0ZJRE9fZzZoemxVbl9KYWw5UEl4TjRQem5wb1VVeE1TeGRPX2hWak1KZlB6RUF2QS1YMUhwQXZFbmg0M3pfcjdnbTRwTE1YbVhFWFluSTd0am40VnVoeVJsZTl6bExyTUxoUXFNTWh2bGFEZFhsNkRraFdzWkE1SldjeUhDUFMtZ0dpYjZVQkNBWl85Qw?oc=5
 
-- "India Kremlin's Laundromat, Doesn't Need Russian Oil": Trump Trade Advisor - NDTV
-  "India Kremlin's Laundromat
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0wtd3BVTndZbEJWdjhVN3dGN2dyRC03SGxmaWdFOWZhZVM0OHhoOWZZSDc3cXpFdFNtVk5NdGN3UnlDZjdRYkdDTG9LeFMteFlqdG5MQXPSAb8BQVVfeXFMTndULVcwS1VZS2stV1hGdE9scVBTZTB0NUlZN0tPOHpVdm5YUmVVNWI5Y1p6RVdza0VINzY5U0F3b0tYUG82STRrX1VFMkdvNWhkWFFPbElRVEdhRzh6MEEzem1XNlBiZXlzcFpueWZFQnp2VFg4bHdIUEtoanZPSFpTZkh0WDRIS1lfTnl6SDNjRlRLLUNwbTBBa1pDWmRDUmliWU1qbjVmaXh0eEtIRC1yZDFrX2cwZDJjYmQxbW8?oc=5
+- Breaking News Live Updates: Air India Mumbai–Jodhpur flight returns to bay after technical snag - The Times of India
+  Air India Mumbai–Jodhpur flight returns to bay after technical snag
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOeG9FbGVLMkhscUdKRXpMZzI0Y3dyZlVZeXk0dDk0UVBCaVRmNGpfUFZHRjFOb0tZTDlUY2pqd1dLV2RZNDQtTWtZbnVYdXBlOHBsQVVhMkZRajBGUXNFU0QwZ3E3Q2RjOWU1M3BCd1VZWVN4Z2lUcHQwWmdHRGZxeW1TU1lad19jdi1CVDFtVy1GM2t1anRFVGZPZktsMzVYWk9Ld2c0cnMtWFZnQUFPZWJuLVI?oc=5
 
-- After 'maharaja of tariffs', Trump aide calls India ‘laundromat for Russia’ over oil trade | Latest News India - Hindustan Times - Hindustan Times
-  After 'maharaja of tariffs', Trump aide calls India ‘laundromat for Russia
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVc3b09Yb0dpNVY3bEI4VnJjWEliZ0VKeEw0ZjJVQ3VrUHY0TEZFS2RZX2p5dkJKbnlMaXBITXo0aEJwLVdBaEJ4bVplVUxXM05mdXdvMmc1M1BCaDdZelY1T2hvZ3JveC1odEZld2RBc2ZfUXVtN0RCUGpQb1VUWGl4Zm90M2Q5U2pTQk41WEdNRlRKU25MRUJWZXJKcVhOcmR3N2h6Z2RaYUVQb2p3Y1d1UF82NlpoQTBaM2tacUxFRUtxMi1GWEU1SHJkTDFNWlBrd0pB0gHbAUFVX3lxTFBHUG5Vb005VFBFaWVfOFFBTGRjZkdVWDg0NDVuMlNPUFE5RDNFazVOR3lKRmJWbW5xRWI4R3FGbGVMUmNGVHRBLUJwaFpYUGE1MlZqVW1QWXZOekpnVWVkNVk0TERXLURGYjRZb0tfZ09VaG9UTnp0QnhMNFdUWlpQdlFCNjR0QnN4dlhqeE93UjlkTUVwaV9hc1FEUVR3bTBkazIzVi00bFAzUS1PR09mT3ZrMThoMk5lTFpFejZmU0tNMnFoLV9rRW1faFRyQ01jbkhXVEhuYVhpcw?oc=5
+- News Today Live Updates, 23 August | Trump visits top landmarks in DC, stops by gift shop near White House amid military crackdown - The Indian Express
+  The Indian Express is published by The Indian Express, a division of The Times of India.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQkdUekgzX0JqQnlLZ0NRRExJUHlpVll2cHRnTERMUy1jRjlqbjRXdWpoX0pSM0dQaHdqNVRWaXF3Y2NnT0doZHotUXZsbHJ6WjRlQVI5MHpQaExLX2hrOXVYTTc3UksxVnR2QzYxVWhwVzdnRjFiM3pWdU8zVURtc0pXLVZhZC1Id0tlUWRFLUpQYV9CZGxwaGN2MHlTemZxdFl2d3pHTklKcGF4bDV6MU5SQkFoRnQ5Y19taTVlcjJabDgzeDRnUHIxQmFUM0tWRWVDUThhTENzRzVQTzk0WlBRREhVbm9f0gHvAUFVX3lxTFBqUVpTRHFvUV9PcERQNGRWS0lndzlJSVpWdWxmLVl4a3R3Rm1OX3JDUVpOb3dZSlFsMV9FXzZNMlRkeHRDLTJLRmJlLU54R0wxRllwNmlMSGJ4bjJZZmtZbGUwbUU3UlhhTmFhY3NEUFlZXzNJNktaeWcxRmFSWWpuVUljLUpkM2JVSWNGRGI3SGpJdE9femFBaHBYZUFCTklNNjJXMkZCVm52QV9VT0NOU3FscG1DQVU2aWRzQW1vRHVsNExHdWl1WmVSM0ZBNkpBanVFbnhYd3d4VC03MlJGbHZMLUVrMzVGaEFReU9Z?oc=5
 
-- Donald Trump nominates Sergio Gor as US ambassador to India: ‘Someone I can fully trust to…’ - Mint
-  Donald Trump nominates Sergio Gor as US ambassador to India. Gor is
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdVZBZUotdlYxbThBQ2MydzE0SDhkbkIwYzJEMmJ0VFhGc2RSNmZlekQzNzFjRmdTWHE1M01VUFhDNS1EcjlZYlVUSEpJVnBNYnhUNGFTTmktUW0xc2VmcDRveVlZdnA2WXNhb2htNHFiWDVzOWdvcTNVX0Zram1XS3hSVFVxX3I2YVZlakFneVJ0ektqZU40VWRSMkF2QTNjRVBFeXY5NDFUbldtS3lhYkczN2VlZmhFTDUzN3VWcDFmMmUxbmQ3ckZtWmJJQTYtWGw2U1pkRldnbGxlU0lj0gHkAUFVX3lxTE03Mkl4ald4Z2pxc19YVFRMR01TdDl0U1BncHp2Vlp1aTZOZmZYTDY2SV9ZSjR2Rmh6akV4TFhIWmJ4WGJYWXVNSzAwbl9XcXRoVUFUZVpvOGNxY0tSYUVLYWV0TkFtdnVwYVZTQ1dhblE2SS1BSG1kRk9IbTlzUDREeU85Y2xGeF84cFg3UlNvaXYxUmNUZENrRHNKcTNsVTJ4aURLUlZKZjFaNFhmN3Q2eUJiTGFiMHFUcG5ramdlWTVnX0FlTzViM19SRXBFYXNzNFlMXzhqZXBGWHhUTEhiUlVJag?oc=5
+- Trump Names Close Political Aide Sergio Gor As India Ambassador - NDTV
+  The White House has named Sergio Gor as
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPSmtrLVBhZFF3cmxkOFdKSUFkYy1CSmVpSjBGbmJHNDVOYUJWSDV6eGtKcGNJTjA5VEpYbXFyOHdWQkVSQXp4VG9pRUYyS09IS0JqZVNmZU4wY19GaUh4cXRvNEVIbTctOG5VejhmcXlSSGpFbDE5TEplRzFEclYyRkh4VkdyNm1QbkZKZmQ1WmdleHZPQWZDdlFJdnNhR0JGN2t3OXg0TVNFMlRvZ1Fn0gG3AUFVX3lxTE8xNGlCZnNSMUZrZXp2ZThwSWZ1aUxfdmJsZ1BWajE2SWJyV2FPejBJeDdzSWxkSHVoN0FOWFdMYnc2ZFRtbFctRHRrX1hlRnpCTjRpUFRoMDUyMnl3VmhMVy1sWGRNVDhKRHFRV3hORjVBNlRqbVRCTHBvVURSUDNLUEJZbnBtV3pscHJEc1p6dElkZzlHMzNROXNmS2M1MmVYQlZhXzhUQXRobWZHUE5vUzlXRDlVTQ?oc=5
 
-- 1st Census circular seeks boundary change details | Latest News India - Hindustan Times - Hindustan Times
-  1st Census circular seeks boundary change details.
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQV004ZWNROS1fbTBCbm1ZVU51TU5xbDI5bUMta1RzVGtkU2wxbGVEVF8tT0Q2VjNwVnl6MTdQeTRlRjRXODM5T3YtXzFTdmZXZ2NNOWluVlJ2QzNsVUI5dWZnUzNtTzRSbkJjWjhUTEdwU3VQY2RoeklXOEdfUUJGWi1EWlYyLXM1WjB3RlRPa3oxcEhNLWVXajFXY3pkVElIN21pVWg1a3pVWHRPdWNhOHpn0gG3AUFVX3lxTFBQVUM3LTdPMUF1ajlXZzlzWmdUY093Tk1SaTZZMncyZmtpNnp1eUNfbUJlR1FtcnBvSXRjY3NpOHYzT3hiOUpVdE1PaTBrS0RZazZlM05aS2tZTk5OckczNVpwcGMyRzUzVE1FVnZvQlBER0w0MmNQa0dWNnVQMUdac2JlN1Q5d3dpd0tkUEdfVUlUVTZhX19xLWdXcGREdm1KNmNHOFZQTzduYnpwUUZoSDVzM2YwUQ?oc=5
+- TikTok back in India? Govt responds amid buzz over Chinese app's return | Latest News India - Hindustan Times - Hindustan Times
+  TikTok back in India? Govt responds amid buzz over Chinese app's return.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQlEtZ2o1dWxxb1VmT3BzcHhGMDNVN25PTGpFaDYzRS1vOHFFWGU0TDVCZ1ZkYVZQNWlmVWR6MzMwdFIzcXlucWZvcjNjYl8waXNPZzdBSnZfcXljR2FfeWRWamRhbW1qYlZxQ1JGYWZzMmpZdEJZbEVyZ21jZ3V1UXhmcUlqT1VDV1JfU044dTJxdlFLOEQzUUQxaGtLc1JIaHY2d1FSOHpVRDBDSzYzSmlBQVRwT0ZQQVNjanVVdTJLc3NhNk5GY0hjYndwS0VPMTQ0WFBWV3rSAd4BQVVfeXFMTjRrOWcwSnlvUXFkM1lPVEI3aW9ua0toc01JaDB1QV83SGNMQno2NUg4eDZhcmNvbkhwNlNZR1JCblYtTlhhNWxsRXNscGZZenllMHVUS1hwbi1DVngwVlpvaUpfRWRwS0sxVWY0a0ZkcjV2Unk0c201T2pLSmhDQ0NDOHg4X1dPdVlpM0FzalhCQW9ncFNwS254Z2cxbDRvY3RPNS1LWmlOcG1mWHJiTFRJaVlQRFdXdU53bTJ4YkJUM0dmTlBPNDgwQ0U3dDYxRnlXTlJqM1NlTzZ5U2tn?oc=5
 
-- TikTok may be back in India 5 years after ban: Website opens but app unavailable - The Times of India
-  TikTok may be back in India 5 years after ban. Website opens but
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNN3lHbjVFdlpQejJJMWZGZzJkRGlvdHd5WGpvZjFHZ3NqOVg1TDNzODA2LTJQVG1xTUF1b3RQeDNocWlMZjBvZzNPdTM4SDBqQ0N1aFRFaHk5eEdrZjROVG83bTBrOC0tWFVMM1gyMnhwOGhmT0VydnlwVGRsTUpjcEJ2ZFFHZzVtS0JrTXFFR2dhY3R4dVRUX21rRk1TQ2lTR1A1SlRrYlBPbXBYYmg1YmxKdHBOZ3RmTDdGSHlYTUE2MTNWZzhpYUI4bFdCckRHZ1lGUEZCYXlKYmR5WTRha3FnZ2p3ZmtTRkdieG9ONkljWVA20gH6AUFVX3lxTFBZSmpZUlY0Y1dFTGt0T0oxRFRzN1U5S19rTnQtXzhQamZFVkxGNDlPeHlrUWN5ckNoN0RWM19TUWJvb1gzOTl4Wno4S2stV01iMVp6Z3Q1RmhkemdXeHhXTF9lX2hPa1hzQVFtdXRiYkcxUW5ER3ZGT2RlbFdpNnRXaWdWNDBnWlFXdm0tUExiWUthRWN1OUtpRVNpNnRGS3hKeTBDLWhKVF84UkJYQ3VJdTlDdXc4cjNlZkh3aXlqVjF4SFhQZENFSnBPZVBIcEdVZEZQc2hMQUhSWS1mOWlBT002b2RPVDlSN0pDcHdSTHFpXzB3U3FVNEE?oc=5
+- PM Modi, ISRO unveil India's ambitious space plan: Chandrayaan 4, Space station by 2035 | Latest News India - Hindustan Times - Hindustan Times
+  PM Modi, ISRO unveil India's ambitious space plan: Chandrayaan 4, Space station by
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR2R4VndNMUFWNFlwY3U3YzgwNFpRX2N3ZUVjX3NxbGplUjhHSnQweFVyRnFMS0dDMGVhSmJFN0FWN0NCNURUNUM1VWo1YkNoQWc2S2c2TnJDemJpSHBQdndMOGMxLUI2c1JIaTRaejYyWjBOaUtseHBjZWJZYzI1QW5LeW8xLVZrbnUwMHFidFo4bDNMMjc3cGZ0c0FzWm02NWp4YTZBMjNLYXZNMzlrNEg2Y09UalhUWTlpajNvQ1FuamRkU0VXYTZNSnMtTEl2cmk5US1vUTNBaVJWWHJj0gHkAUFVX3lxTFBwVGpkYWEtYS02S181d3ZDYXowVEdIQWV4RW04OUYzd09reG9fOWxyZzhvTnZFdmZ6QzdWXzk0V1FUWUhERGNlcjNwUVJoc2FicFU4NE9Md0ZJRE9fZzZoemxVbl9KYWw5UEl4TjRQem5wb1VVeE1TeGRPX2hWak1KZlB6RUF2QS1YMUhwQXZFbmg0M3pfcjdnbTRwTE1YbVhFWFluSTd0am40VnVoeVJsZTl6bExyTUxoUXFNTWh2bGFEZFhsNkRraFdzWkE1SldjeUhDUFMtZ0dpYjZVQkNBWl85Qw?oc=5
 
-- "India Kremlin's Laundromat, Doesn't Need Russian Oil": Trump Trade Advisor - NDTV
-  "India Kremlin's Laundromat
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0wtd3BVTndZbEJWdjhVN3dGN2dyRC03SGxmaWdFOWZhZVM0OHhoOWZZSDc3cXpFdFNtVk5NdGN3UnlDZjdRYkdDTG9LeFMteFlqdG5MQXPSAb8BQVVfeXFMTndULVcwS1VZS2stV1hGdE9scVBTZTB0NUlZN0tPOHpVdm5YUmVVNWI5Y1p6RVdza0VINzY5U0F3b0tYUG82STRrX1VFMkdvNWhkWFFPbElRVEdhRzh6MEEzem1XNlBiZXlzcFpueWZFQnp2VFg4bHdIUEtoanZPSFpTZkh0WDRIS1lfTnl6SDNjRlRLLUNwbTBBa1pDWmRDUmliWU1qbjVmaXh0eEtIRC1yZDFrX2cwZDJjYmQxbW8?oc=5
+- Breaking News Live Updates: Air India Mumbai–Jodhpur flight returns to bay after technical snag - The Times of India
+  Air India Mumbai–Jodhpur flight returns to bay after technical snag
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOeG9FbGVLMkhscUdKRXpMZzI0Y3dyZlVZeXk0dDk0UVBCaVRmNGpfUFZHRjFOb0tZTDlUY2pqd1dLV2RZNDQtTWtZbnVYdXBlOHBsQVVhMkZRajBGUXNFU0QwZ3E3Q2RjOWU1M3BCd1VZWVN4Z2lUcHQwWmdHRGZxeW1TU1lad19jdi1CVDFtVy1GM2t1anRFVGZPZktsMzVYWk9Ld2c0cnMtWFZnQUFPZWJuLVI?oc=5
 
-- After 'maharaja of tariffs', Trump aide calls India ‘laundromat for Russia’ over oil trade | Latest News India - Hindustan Times - Hindustan Times
-  After 'maharaja of tariffs', Trump aide calls India ‘laundromat for Russia
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVc3b09Yb0dpNVY3bEI4VnJjWEliZ0VKeEw0ZjJVQ3VrUHY0TEZFS2RZX2p5dkJKbnlMaXBITXo0aEJwLVdBaEJ4bVplVUxXM05mdXdvMmc1M1BCaDdZelY1T2hvZ3JveC1odEZld2RBc2ZfUXVtN0RCUGpQb1VUWGl4Zm90M2Q5U2pTQk41WEdNRlRKU25MRUJWZXJKcVhOcmR3N2h6Z2RaYUVQb2p3Y1d1UF82NlpoQTBaM2tacUxFRUtxMi1GWEU1SHJkTDFNWlBrd0pB0gHbAUFVX3lxTFBHUG5Vb005VFBFaWVfOFFBTGRjZkdVWDg0NDVuMlNPUFE5RDNFazVOR3lKRmJWbW5xRWI4R3FGbGVMUmNGVHRBLUJwaFpYUGE1MlZqVW1QWXZOekpnVWVkNVk0TERXLURGYjRZb0tfZ09VaG9UTnp0QnhMNFdUWlpQdlFCNjR0QnN4dlhqeE93UjlkTUVwaV9hc1FEUVR3bTBkazIzVi00bFAzUS1PR09mT3ZrMThoMk5lTFpFejZmU0tNMnFoLV9rRW1faFRyQ01jbkhXVEhuYVhpcw?oc=5
+- News Today Live Updates, 23 August | Trump visits top landmarks in DC, stops by gift shop near White House amid military crackdown - The Indian Express
+  The Indian Express is published by The Indian Express, a division of The Times of India.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQkdUekgzX0JqQnlLZ0NRRExJUHlpVll2cHRnTERMUy1jRjlqbjRXdWpoX0pSM0dQaHdqNVRWaXF3Y2NnT0doZHotUXZsbHJ6WjRlQVI5MHpQaExLX2hrOXVYTTc3UksxVnR2QzYxVWhwVzdnRjFiM3pWdU8zVURtc0pXLVZhZC1Id0tlUWRFLUpQYV9CZGxwaGN2MHlTemZxdFl2d3pHTklKcGF4bDV6MU5SQkFoRnQ5Y19taTVlcjJabDgzeDRnUHIxQmFUM0tWRWVDUThhTENzRzVQTzk0WlBRREhVbm9f0gHvAUFVX3lxTFBqUVpTRHFvUV9PcERQNGRWS0lndzlJSVpWdWxmLVl4a3R3Rm1OX3JDUVpOb3dZSlFsMV9FXzZNMlRkeHRDLTJLRmJlLU54R0wxRllwNmlMSGJ4bjJZZmtZbGUwbUU3UlhhTmFhY3NEUFlZXzNJNktaeWcxRmFSWWpuVUljLUpkM2JVSWNGRGI3SGpJdE9femFBaHBYZUFCTklNNjJXMkZCVm52QV9VT0NOU3FscG1DQVU2aWRzQW1vRHVsNExHdWl1WmVSM0ZBNkpBanVFbnhYd3d4VC03MlJGbHZMLUVrMzVGaEFReU9Z?oc=5
 
-- Donald Trump nominates Sergio Gor as US ambassador to India: ‘Someone I can fully trust to…’ - Mint
-  Donald Trump nominates Sergio Gor as US ambassador to India. Gor is
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdVZBZUotdlYxbThBQ2MydzE0SDhkbkIwYzJEMmJ0VFhGc2RSNmZlekQzNzFjRmdTWHE1M01VUFhDNS1EcjlZYlVUSEpJVnBNYnhUNGFTTmktUW0xc2VmcDRveVlZdnA2WXNhb2htNHFiWDVzOWdvcTNVX0Zram1XS3hSVFVxX3I2YVZlakFneVJ0ektqZU40VWRSMkF2QTNjRVBFeXY5NDFUbldtS3lhYkczN2VlZmhFTDUzN3VWcDFmMmUxbmQ3ckZtWmJJQTYtWGw2U1pkRldnbGxlU0lj0gHkAUFVX3lxTE03Mkl4ald4Z2pxc19YVFRMR01TdDl0U1BncHp2Vlp1aTZOZmZYTDY2SV9ZSjR2Rmh6akV4TFhIWmJ4WGJYWXVNSzAwbl9XcXRoVUFUZVpvOGNxY0tSYUVLYWV0TkFtdnVwYVZTQ1dhblE2SS1BSG1kRk9IbTlzUDREeU85Y2xGeF84cFg3UlNvaXYxUmNUZENrRHNKcTNsVTJ4aURLUlZKZjFaNFhmN3Q2eUJiTGFiMHFUcG5ramdlWTVnX0FlTzViM19SRXBFYXNzNFlMXzhqZXBGWHhUTEhiUlVJag?oc=5
+- Trump Names Close Political Aide Sergio Gor As India Ambassador - NDTV
+  The White House has named Sergio Gor as
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPSmtrLVBhZFF3cmxkOFdKSUFkYy1CSmVpSjBGbmJHNDVOYUJWSDV6eGtKcGNJTjA5VEpYbXFyOHdWQkVSQXp4VG9pRUYyS09IS0JqZVNmZU4wY19GaUh4cXRvNEVIbTctOG5VejhmcXlSSGpFbDE5TEplRzFEclYyRkh4VkdyNm1QbkZKZmQ1WmdleHZPQWZDdlFJdnNhR0JGN2t3OXg0TVNFMlRvZ1Fn0gG3AUFVX3lxTE8xNGlCZnNSMUZrZXp2ZThwSWZ1aUxfdmJsZ1BWajE2SWJyV2FPejBJeDdzSWxkSHVoN0FOWFdMYnc2ZFRtbFctRHRrX1hlRnpCTjRpUFRoMDUyMnl3VmhMVy1sWGRNVDhKRHFRV3hORjVBNlRqbVRCTHBvVURSUDNLUEJZbnBtV3pscHJEc1p6dElkZzlHMzNROXNmS2M1MmVYQlZhXzhUQXRobWZHUE5vUzlXRDlVTQ?oc=5
 
-- 1st Census circular seeks boundary change details | Latest News India - Hindustan Times - Hindustan Times
-  1st Census circular seeks boundary change details.
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQV004ZWNROS1fbTBCbm1ZVU51TU5xbDI5bUMta1RzVGtkU2wxbGVEVF8tT0Q2VjNwVnl6MTdQeTRlRjRXODM5T3YtXzFTdmZXZ2NNOWluVlJ2QzNsVUI5dWZnUzNtTzRSbkJjWjhUTEdwU3VQY2RoeklXOEdfUUJGWi1EWlYyLXM1WjB3RlRPa3oxcEhNLWVXajFXY3pkVElIN21pVWg1a3pVWHRPdWNhOHpn0gG3AUFVX3lxTFBQVUM3LTdPMUF1ajlXZzlzWmdUY093Tk1SaTZZMncyZmtpNnp1eUNfbUJlR1FtcnBvSXRjY3NpOHYzT3hiOUpVdE1PaTBrS0RZazZlM05aS2tZTk5OckczNVpwcGMyRzUzVE1FVnZvQlBER0w0MmNQa0dWNnVQMUdac2JlN1Q5d3dpd0tkUEdfVUlUVTZhX19xLWdXcGREdm1KNmNHOFZQTzduYnpwUUZoSDVzM2YwUQ?oc=5
+- TikTok back in India? Govt responds amid buzz over Chinese app's return | Latest News India - Hindustan Times - Hindustan Times
+  TikTok back in India? Govt responds amid buzz over Chinese app's return.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQlEtZ2o1dWxxb1VmT3BzcHhGMDNVN25PTGpFaDYzRS1vOHFFWGU0TDVCZ1ZkYVZQNWlmVWR6MzMwdFIzcXlucWZvcjNjYl8waXNPZzdBSnZfcXljR2FfeWRWamRhbW1qYlZxQ1JGYWZzMmpZdEJZbEVyZ21jZ3V1UXhmcUlqT1VDV1JfU044dTJxdlFLOEQzUUQxaGtLc1JIaHY2d1FSOHpVRDBDSzYzSmlBQVRwT0ZQQVNjanVVdTJLc3NhNk5GY0hjYndwS0VPMTQ0WFBWV3rSAd4BQVVfeXFMTjRrOWcwSnlvUXFkM1lPVEI3aW9ua0toc01JaDB1QV83SGNMQno2NUg4eDZhcmNvbkhwNlNZR1JCblYtTlhhNWxsRXNscGZZenllMHVUS1hwbi1DVngwVlpvaUpfRWRwS0sxVWY0a0ZkcjV2Unk0c201T2pLSmhDQ0NDOHg4X1dPdVlpM0FzalhCQW9ncFNwS254Z2cxbDRvY3RPNS1LWmlOcG1mWHJiTFRJaVlQRFdXdU53bTJ4YkJUM0dmTlBPNDgwQ0U3dDYxRnlXTlJqM1NlTzZ5U2tn?oc=5
 
-- TikTok may be back in India 5 years after ban: Website opens but app unavailable - The Times of India
-  TikTok may be back in India 5 years after ban. Website opens but
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNN3lHbjVFdlpQejJJMWZGZzJkRGlvdHd5WGpvZjFHZ3NqOVg1TDNzODA2LTJQVG1xTUF1b3RQeDNocWlMZjBvZzNPdTM4SDBqQ0N1aFRFaHk5eEdrZjROVG83bTBrOC0tWFVMM1gyMnhwOGhmT0VydnlwVGRsTUpjcEJ2ZFFHZzVtS0JrTXFFR2dhY3R4dVRUX21rRk1TQ2lTR1A1SlRrYlBPbXBYYmg1YmxKdHBOZ3RmTDdGSHlYTUE2MTNWZzhpYUI4bFdCckRHZ1lGUEZCYXlKYmR5WTRha3FnZ2p3ZmtTRkdieG9ONkljWVA20gH6AUFVX3lxTFBZSmpZUlY0Y1dFTGt0T0oxRFRzN1U5S19rTnQtXzhQamZFVkxGNDlPeHlrUWN5ckNoN0RWM19TUWJvb1gzOTl4Wno4S2stV01iMVp6Z3Q1RmhkemdXeHhXTF9lX2hPa1hzQVFtdXRiYkcxUW5ER3ZGT2RlbFdpNnRXaWdWNDBnWlFXdm0tUExiWUthRWN1OUtpRVNpNnRGS3hKeTBDLWhKVF84UkJYQ3VJdTlDdXc4cjNlZkh3aXlqVjF4SFhQZENFSnBPZVBIcEdVZEZQc2hMQUhSWS1mOWlBT002b2RPVDlSN0pDcHdSTHFpXzB3U3FVNEE?oc=5
+- PM Modi, ISRO unveil India's ambitious space plan: Chandrayaan 4, Space station by 2035 | Latest News India - Hindustan Times - Hindustan Times
+  PM Modi, ISRO unveil India's ambitious space plan: Chandrayaan 4, Space station by
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR2R4VndNMUFWNFlwY3U3YzgwNFpRX2N3ZUVjX3NxbGplUjhHSnQweFVyRnFMS0dDMGVhSmJFN0FWN0NCNURUNUM1VWo1YkNoQWc2S2c2TnJDemJpSHBQdndMOGMxLUI2c1JIaTRaejYyWjBOaUtseHBjZWJZYzI1QW5LeW8xLVZrbnUwMHFidFo4bDNMMjc3cGZ0c0FzWm02NWp4YTZBMjNLYXZNMzlrNEg2Y09UalhUWTlpajNvQ1FuamRkU0VXYTZNSnMtTEl2cmk5US1vUTNBaVJWWHJj0gHkAUFVX3lxTFBwVGpkYWEtYS02S181d3ZDYXowVEdIQWV4RW04OUYzd09reG9fOWxyZzhvTnZFdmZ6QzdWXzk0V1FUWUhERGNlcjNwUVJoc2FicFU4NE9Md0ZJRE9fZzZoemxVbl9KYWw5UEl4TjRQem5wb1VVeE1TeGRPX2hWak1KZlB6RUF2QS1YMUhwQXZFbmg0M3pfcjdnbTRwTE1YbVhFWFluSTd0am40VnVoeVJsZTl6bExyTUxoUXFNTWh2bGFEZFhsNkRraFdzWkE1SldjeUhDUFMtZ0dpYjZVQkNBWl85Qw?oc=5
 
-- "India Kremlin's Laundromat, Doesn't Need Russian Oil": Trump Trade Advisor - NDTV
-  "India Kremlin's Laundromat
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVdFWEJWaDdSVEp5X1pYRUdGeTRYWEtoLXBDaWFYR3dnYXVabDcweHdzTms2aEQ4c3N3ZEdCeXcwdjVQa1ZxVUQzZDhFTjdaMmt1X1M0LVhHdXJ5bi1jbzh1SDNNaVA1Z0wtd3BVTndZbEJWdjhVN3dGN2dyRC03SGxmaWdFOWZhZVM0OHhoOWZZSDc3cXpFdFNtVk5NdGN3UnlDZjdRYkdDTG9LeFMteFlqdG5MQXPSAb8BQVVfeXFMTndULVcwS1VZS2stV1hGdE9scVBTZTB0NUlZN0tPOHpVdm5YUmVVNWI5Y1p6RVdza0VINzY5U0F3b0tYUG82STRrX1VFMkdvNWhkWFFPbElRVEdhRzh6MEEzem1XNlBiZXlzcFpueWZFQnp2VFg4bHdIUEtoanZPSFpTZkh0WDRIS1lfTnl6SDNjRlRLLUNwbTBBa1pDWmRDUmliWU1qbjVmaXh0eEtIRC1yZDFrX2cwZDJjYmQxbW8?oc=5
+- Breaking News Live Updates: Air India Mumbai–Jodhpur flight returns to bay after technical snag - The Times of India
+  Air India Mumbai–Jodhpur flight returns to bay after technical snag
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOeG9FbGVLMkhscUdKRXpMZzI0Y3dyZlVZeXk0dDk0UVBCaVRmNGpfUFZHRjFOb0tZTDlUY2pqd1dLV2RZNDQtTWtZbnVYdXBlOHBsQVVhMkZRajBGUXNFU0QwZ3E3Q2RjOWU1M3BCd1VZWVN4Z2lUcHQwWmdHRGZxeW1TU1lad19jdi1CVDFtVy1GM2t1anRFVGZPZktsMzVYWk9Ld2c0cnMtWFZnQUFPZWJuLVI?oc=5
 
-- After 'maharaja of tariffs', Trump aide calls India ‘laundromat for Russia’ over oil trade | Latest News India - Hindustan Times - Hindustan Times
-  After 'maharaja of tariffs', Trump aide calls India ‘laundromat for Russia
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVc3b09Yb0dpNVY3bEI4VnJjWEliZ0VKeEw0ZjJVQ3VrUHY0TEZFS2RZX2p5dkJKbnlMaXBITXo0aEJwLVdBaEJ4bVplVUxXM05mdXdvMmc1M1BCaDdZelY1T2hvZ3JveC1odEZld2RBc2ZfUXVtN0RCUGpQb1VUWGl4Zm90M2Q5U2pTQk41WEdNRlRKU25MRUJWZXJKcVhOcmR3N2h6Z2RaYUVQb2p3Y1d1UF82NlpoQTBaM2tacUxFRUtxMi1GWEU1SHJkTDFNWlBrd0pB0gHbAUFVX3lxTFBHUG5Vb005VFBFaWVfOFFBTGRjZkdVWDg0NDVuMlNPUFE5RDNFazVOR3lKRmJWbW5xRWI4R3FGbGVMUmNGVHRBLUJwaFpYUGE1MlZqVW1QWXZOekpnVWVkNVk0TERXLURGYjRZb0tfZ09VaG9UTnp0QnhMNFdUWlpQdlFCNjR0QnN4dlhqeE93UjlkTUVwaV9hc1FEUVR3bTBkazIzVi00bFAzUS1PR09mT3ZrMThoMk5lTFpFejZmU0tNMnFoLV9rRW1faFRyQ01jbkhXVEhuYVhpcw?oc=5
+- News Today Live Updates, 23 August | Trump visits top landmarks in DC, stops by gift shop near White House amid military crackdown - The Indian Express
+  The Indian Express is published by The Indian Express, a division of The Times of India.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQkdUekgzX0JqQnlLZ0NRRExJUHlpVll2cHRnTERMUy1jRjlqbjRXdWpoX0pSM0dQaHdqNVRWaXF3Y2NnT0doZHotUXZsbHJ6WjRlQVI5MHpQaExLX2hrOXVYTTc3UksxVnR2QzYxVWhwVzdnRjFiM3pWdU8zVURtc0pXLVZhZC1Id0tlUWRFLUpQYV9CZGxwaGN2MHlTemZxdFl2d3pHTklKcGF4bDV6MU5SQkFoRnQ5Y19taTVlcjJabDgzeDRnUHIxQmFUM0tWRWVDUThhTENzRzVQTzk0WlBRREhVbm9f0gHvAUFVX3lxTFBqUVpTRHFvUV9PcERQNGRWS0lndzlJSVpWdWxmLVl4a3R3Rm1OX3JDUVpOb3dZSlFsMV9FXzZNMlRkeHRDLTJLRmJlLU54R0wxRllwNmlMSGJ4bjJZZmtZbGUwbUU3UlhhTmFhY3NEUFlZXzNJNktaeWcxRmFSWWpuVUljLUpkM2JVSWNGRGI3SGpJdE9femFBaHBYZUFCTklNNjJXMkZCVm52QV9VT0NOU3FscG1DQVU2aWRzQW1vRHVsNExHdWl1WmVSM0ZBNkpBanVFbnhYd3d4VC03MlJGbHZMLUVrMzVGaEFReU9Z?oc=5
 
-- Donald Trump nominates Sergio Gor as US ambassador to India: ‘Someone I can fully trust to…’ - Mint
-  Donald Trump nominates Sergio Gor as US ambassador to India. Gor is
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdVZBZUotdlYxbThBQ2MydzE0SDhkbkIwYzJEMmJ0VFhGc2RSNmZlekQzNzFjRmdTWHE1M01VUFhDNS1EcjlZYlVUSEpJVnBNYnhUNGFTTmktUW0xc2VmcDRveVlZdnA2WXNhb2htNHFiWDVzOWdvcTNVX0Zram1XS3hSVFVxX3I2YVZlakFneVJ0ektqZU40VWRSMkF2QTNjRVBFeXY5NDFUbldtS3lhYkczN2VlZmhFTDUzN3VWcDFmMmUxbmQ3ckZtWmJJQTYtWGw2U1pkRldnbGxlU0lj0gHkAUFVX3lxTE03Mkl4ald4Z2pxc19YVFRMR01TdDl0U1BncHp2Vlp1aTZOZmZYTDY2SV9ZSjR2Rmh6akV4TFhIWmJ4WGJYWXVNSzAwbl9XcXRoVUFUZVpvOGNxY0tSYUVLYWV0TkFtdnVwYVZTQ1dhblE2SS1BSG1kRk9IbTlzUDREeU85Y2xGeF84cFg3UlNvaXYxUmNUZENrRHNKcTNsVTJ4aURLUlZKZjFaNFhmN3Q2eUJiTGFiMHFUcG5ramdlWTVnX0FlTzViM19SRXBFYXNzNFlMXzhqZXBGWHhUTEhiUlVJag?oc=5
+- Trump Names Close Political Aide Sergio Gor As India Ambassador - NDTV
+  The White House has named Sergio Gor as
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPSmtrLVBhZFF3cmxkOFdKSUFkYy1CSmVpSjBGbmJHNDVOYUJWSDV6eGtKcGNJTjA5VEpYbXFyOHdWQkVSQXp4VG9pRUYyS09IS0JqZVNmZU4wY19GaUh4cXRvNEVIbTctOG5VejhmcXlSSGpFbDE5TEplRzFEclYyRkh4VkdyNm1QbkZKZmQ1WmdleHZPQWZDdlFJdnNhR0JGN2t3OXg0TVNFMlRvZ1Fn0gG3AUFVX3lxTE8xNGlCZnNSMUZrZXp2ZThwSWZ1aUxfdmJsZ1BWajE2SWJyV2FPejBJeDdzSWxkSHVoN0FOWFdMYnc2ZFRtbFctRHRrX1hlRnpCTjRpUFRoMDUyMnl3VmhMVy1sWGRNVDhKRHFRV3hORjVBNlRqbVRCTHBvVURSUDNLUEJZbnBtV3pscHJEc1p6dElkZzlHMzNROXNmS2M1MmVYQlZhXzhUQXRobWZHUE5vUzlXRDlVTQ?oc=5
 
-- 1st Census circular seeks boundary change details | Latest News India - Hindustan Times - Hindustan Times
-  1st Census circular seeks boundary change details.
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQV004ZWNROS1fbTBCbm1ZVU51TU5xbDI5bUMta1RzVGtkU2wxbGVEVF8tT0Q2VjNwVnl6MTdQeTRlRjRXODM5T3YtXzFTdmZXZ2NNOWluVlJ2QzNsVUI5dWZnUzNtTzRSbkJjWjhUTEdwU3VQY2RoeklXOEdfUUJGWi1EWlYyLXM1WjB3RlRPa3oxcEhNLWVXajFXY3pkVElIN21pVWg1a3pVWHRPdWNhOHpn0gG3AUFVX3lxTFBQVUM3LTdPMUF1ajlXZzlzWmdUY093Tk1SaTZZMncyZmtpNnp1eUNfbUJlR1FtcnBvSXRjY3NpOHYzT3hiOUpVdE1PaTBrS0RZazZlM05aS2tZTk5OckczNVpwcGMyRzUzVE1FVnZvQlBER0w0MmNQa0dWNnVQMUdac2JlN1Q5d3dpd0tkUEdfVUlUVTZhX19xLWdXcGREdm1KNmNHOFZQTzduYnpwUUZoSDVzM2YwUQ?oc=5
+- TikTok back in India? Govt responds amid buzz over Chinese app's return | Latest News India - Hindustan Times - Hindustan Times
+  TikTok back in India? Govt responds amid buzz over Chinese app's return.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQlEtZ2o1dWxxb1VmT3BzcHhGMDNVN25PTGpFaDYzRS1vOHFFWGU0TDVCZ1ZkYVZQNWlmVWR6MzMwdFIzcXlucWZvcjNjYl8waXNPZzdBSnZfcXljR2FfeWRWamRhbW1qYlZxQ1JGYWZzMmpZdEJZbEVyZ21jZ3V1UXhmcUlqT1VDV1JfU044dTJxdlFLOEQzUUQxaGtLc1JIaHY2d1FSOHpVRDBDSzYzSmlBQVRwT0ZQQVNjanVVdTJLc3NhNk5GY0hjYndwS0VPMTQ0WFBWV3rSAd4BQVVfeXFMTjRrOWcwSnlvUXFkM1lPVEI3aW9ua0toc01JaDB1QV83SGNMQno2NUg4eDZhcmNvbkhwNlNZR1JCblYtTlhhNWxsRXNscGZZenllMHVUS1hwbi1DVngwVlpvaUpfRWRwS0sxVWY0a0ZkcjV2Unk0c201T2pLSmhDQ0NDOHg4X1dPdVlpM0FzalhCQW9ncFNwS254Z2cxbDRvY3RPNS1LWmlOcG1mWHJiTFRJaVlQRFdXdU53bTJ4YkJUM0dmTlBPNDgwQ0U3dDYxRnlXTlJqM1NlTzZ5U2tn?oc=5
 
-- TikTok may be back in India 5 years after ban: Website opens but app unavailable - The Times of India
-  TikTok may be back in India 5 years after ban. Website opens but
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNN3lHbjVFdlpQejJJMWZGZzJkRGlvdHd5WGpvZjFHZ3NqOVg1TDNzODA2LTJQVG1xTUF1b3RQeDNocWlMZjBvZzNPdTM4SDBqQ0N1aFRFaHk5eEdrZjROVG83bTBrOC0tWFVMM1gyMnhwOGhmT0VydnlwVGRsTUpjcEJ2ZFFHZzVtS0JrTXFFR2dhY3R4dVRUX21rRk1TQ2lTR1A1SlRrYlBPbXBYYmg1YmxKdHBOZ3RmTDdGSHlYTUE2MTNWZzhpYUI4bFdCckRHZ1lGUEZCYXlKYmR5WTRha3FnZ2p3ZmtTRkdieG9ONkljWVA20gH6AUFVX3lxTFBZSmpZUlY0Y1dFTGt0T0oxRFRzN1U5S19rTnQtXzhQamZFVkxGNDlPeHlrUWN5ckNoN0RWM19TUWJvb1gzOTl4Wno4S2stV01iMVp6Z3Q1RmhkemdXeHhXTF9lX2hPa1hzQVFtdXRiYkcxUW5ER3ZGT2RlbFdpNnRXaWdWNDBnWlFXdm0tUExiWUthRWN1OUtpRVNpNnRGS3hKeTBDLWhKVF84UkJYQ3VJdTlDdXc4cjNlZkh3aXlqVjF4SFhQZENFSnBPZVBIcEdVZEZQc2hMQUhSWS1mOWlBT002b2RPVDlSN0pDcHdSTHFpXzB3U3FVNEE?oc=5
+- PM Modi, ISRO unveil India's ambitious space plan: Chandrayaan 4, Space station by 2035 | Latest News India - Hindustan Times - Hindustan Times
+  PM Modi, ISRO unveil India's ambitious space plan: Chandrayaan 4, Space station by
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR2R4VndNMUFWNFlwY3U3YzgwNFpRX2N3ZUVjX3NxbGplUjhHSnQweFVyRnFMS0dDMGVhSmJFN0FWN0NCNURUNUM1VWo1YkNoQWc2S2c2TnJDemJpSHBQdndMOGMxLUI2c1JIaTRaejYyWjBOaUtseHBjZWJZYzI1QW5LeW8xLVZrbnUwMHFidFo4bDNMMjc3cGZ0c0FzWm02NWp4YTZBMjNLYXZNMzlrNEg2Y09UalhUWTlpajNvQ1FuamRkU0VXYTZNSnMtTEl2cmk5US1vUTNBaVJWWHJj0gHkAUFVX3lxTFBwVGpkYWEtYS02S181d3ZDYXowVEdIQWV4RW04OUYzd09reG9fOWxyZzhvTnZFdmZ6QzdWXzk0V1FUWUhERGNlcjNwUVJoc2FicFU4NE9Md0ZJRE9fZzZoemxVbl9KYWw5UEl4TjRQem5wb1VVeE1TeGRPX2hWak1KZlB6RUF2QS1YMUhwQXZFbmg0M3pfcjdnbTRwTE1YbVhFWFluSTd0am40VnVoeVJsZTl6bExyTUxoUXFNTWh2bGFEZFhsNkRraFdzWkE1SldjeUhDUFMtZ0dpYjZVQkNBWl85Qw?oc=5
+
+- Breaking News Live Updates: Air India Mumbai–Jodhpur flight returns to bay after technical snag - The Times of India
+  Air India Mumbai–Jodhpur flight returns to bay after technical snag
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOeG9FbGVLMkhscUdKRXpMZzI0Y3dyZlVZeXk0dDk0UVBCaVRmNGpfUFZHRjFOb0tZTDlUY2pqd1dLV2RZNDQtTWtZbnVYdXBlOHBsQVVhMkZRajBGUXNFU0QwZ3E3Q2RjOWU1M3BCd1VZWVN4Z2lUcHQwWmdHRGZxeW1TU1lad19jdi1CVDFtVy1GM2t1anRFVGZPZktsMzVYWk9Ld2c0cnMtWFZnQUFPZWJuLVI?oc=5
+
+- News Today Live Updates, 23 August | Trump visits top landmarks in DC, stops by gift shop near White House amid military crackdown - The Indian Express
+  The Indian Express is published by The Indian Express, a division of The Times of India.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQkdUekgzX0JqQnlLZ0NRRExJUHlpVll2cHRnTERMUy1jRjlqbjRXdWpoX0pSM0dQaHdqNVRWaXF3Y2NnT0doZHotUXZsbHJ6WjRlQVI5MHpQaExLX2hrOXVYTTc3UksxVnR2QzYxVWhwVzdnRjFiM3pWdU8zVURtc0pXLVZhZC1Id0tlUWRFLUpQYV9CZGxwaGN2MHlTemZxdFl2d3pHTklKcGF4bDV6MU5SQkFoRnQ5Y19taTVlcjJabDgzeDRnUHIxQmFUM0tWRWVDUThhTENzRzVQTzk0WlBRREhVbm9f0gHvAUFVX3lxTFBqUVpTRHFvUV9PcERQNGRWS0lndzlJSVpWdWxmLVl4a3R3Rm1OX3JDUVpOb3dZSlFsMV9FXzZNMlRkeHRDLTJLRmJlLU54R0wxRllwNmlMSGJ4bjJZZmtZbGUwbUU3UlhhTmFhY3NEUFlZXzNJNktaeWcxRmFSWWpuVUljLUpkM2JVSWNGRGI3SGpJdE9femFBaHBYZUFCTklNNjJXMkZCVm52QV9VT0NOU3FscG1DQVU2aWRzQW1vRHVsNExHdWl1WmVSM0ZBNkpBanVFbnhYd3d4VC03MlJGbHZMLUVrMzVGaEFReU9Z?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-08-23 01:10:48 UTC_
+_Last updated: 2025-08-23 06:24:54 UTC_
