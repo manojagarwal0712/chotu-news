@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- CJI Gavai’s advice to law students: ‘I was third in merit list, got friends to mark attendance, went to college maybe half a dozen times… don’t go by exam ranks’
+- Tripura committed to doubling income of fish farmers, becoming self-reliant in fish production: Fisheries Minister Sudhangshu Das
   
-  🔗 https://indianexpress.com/article/india/cji-gavai-law-students-merit-list-exam-ranks-10207029/
+  🔗 https://indianexpress.com/article/india/tripura-doubling-income-of-fish-farmers-minister-sudhangshu-das-10207451/
 
-- Indian Railways revises schedule of 3rd Vande Bharat train – Check route, travel time, stoppages, timings, ticket price
+- ‘History of overlooking history’: Jaishankar says US and Pakistan indulge in ‘politics of convenience’
   
-  🔗 https://indianexpress.com/article/india/indian-railways-revises-schedule-third-vande-bharat-train-route-stops-fare-10206948/
+  🔗 https://indianexpress.com/article/india/history-overlooking-history-jaishankar-us-pakistan-10207388/
 
-- India Post suspends postal services to US from August 25 over tariffs uncertainty
+- Kashmir’s State Investigation Agency arrests Hizbul ‘overground worker’ in South Kashmir
   
-  🔗 https://indianexpress.com/article/india/india-suspend-postal-services-us-august-25-10206887/
+  🔗 https://indianexpress.com/article/india/state-investigation-agency-arrests-hizbul-overground-worker-kashmir-10207405/
 
-- How Aunta-Simaria bridge in Bihar will be a gamechanger for connectivity and economy
+- Ganesh Chaturthi 2025: Mumbai-Madgaon Vande Bharat train to run with 16 coaches – check stoppages, ticket price, timings
   
-  🔗 https://indianexpress.com/article/india/aunta-simaria-bridge-bihar-gamechanger-10206772/
+  🔗 https://indianexpress.com/article/india/ganesh-chaturthi-mumbai-madgaon-vande-bharat-train-to-run-with-16-coaches-10207304/
 
-- Spotted in last row of Modi stage, 2 RJD MLAs, setting off defection rumours and denials
+- Court denies bail to Jammu Thar Mahindra incident suspect — ‘Deliberate intent to kill’
   
-  🔗 https://indianexpress.com/article/india/spotted-last-row-modi-stage-2-rjd-mlas-defection-rumours-and-denials-10206722/
+  🔗 https://indianexpress.com/article/india/court-denies-bail-to-jammu-thar-mahindra-suspect-deliberate-intent-to-kill-10207331/
+
+- Croma announces big discounts on MacBook Air, ASUS Vivobook 15, and more
+  
+  🔗 https://indianexpress.com/article/technology/croma-announces-big-discounts-on-macbook-air-asus-vivobook-15-more-10207213/
+
+- Motorola G96 review: Lightweight build, clean software, but can it stand out?
+  
+  🔗 https://indianexpress.com/article/technology/tech-reviews/motorola-g96-review-10207094/
 
 - Google Pixel 10 series: First phone to offer WhatsApp calls over satellite
   
@@ -32,13 +40,17 @@
   
   🔗 https://indianexpress.com/article/technology/meta-to-unveil-new-smart-glasses-and-smart-wearables-at-connect-conference-10206745/
 
-- Did Google just reveal its Gemini AI powered smart speaker? Here’s what we know
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-is-working-on-a-new-gemini-powered-smart-home-speaker-10206611/
+- Zerodha CEO Nithin Kamath tells you how to become ‘irreplaceable’ amid rise of AI
+  Zerodha CEO Nithin Kamath advises people on how to become ‘irreplace
+  🔗 https://www.livemint.com/companies/people/zerodha-ceo-nithin-kamath-tells-you-how-to-become-irreplaceable-amid-rise-of-ai-11755956383480.html
 
-- No TikTok comeback: Website glitch sparks false buzz, ban still stands
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tiktok-india-comeback-website-live-ban-still-in-place-10206254/
+- 'Selectively singled out': Anil Ambani denies all charges after CBI searches his residence in  ₹2929 crore bank fraud cas
+  Anil Ambani denies all charges after CBI books RCom director,
+  🔗 https://www.livemint.com/news/india/anil-ambani-sbi-denies-all-charges-after-cbi-books-rcom-director-searches-his-residence-in-2929-crore-bank-fraud-case-11755958673534.html
+
+- TikTok India: ByteDance has ‘not restored access’ to short video platform; why could users open the website then?
+  The government had banned Ali Express at the time it banned TikTok. A similar case occurred with Ali Express too.
+  🔗 https://www.livemint.com/companies/news/tiktok-india-bytedance-has-not-restored-access-to-short-video-platform-why-could-users-open-the-website-then-11755949880575.html
 
 - HSBC’s Swiss Bank Said to Exit 1,000 Mideast Clients Amid Revamp
   HSBC Holdings Plc’s Swiss private bank is ending relationships with wealthy Middle Eastern clients. Bank seeks to lower its exposure to individuals it deems high-risk.
@@ -48,17 +60,17 @@
   The Central Consumer Protection Authority (CCPA) has imposed a penalty of  ₹3 lakh on VLCC Limited for publishing misleading advertisements
   🔗 https://www.livemint.com/companies/vlcc-limited-fined-rs-3-lakh-for-misleading-fat-loss-slimming-ads-through-coolsculpting-11755937342965.html
 
-- TSMC CEO CC Wei denies US seeking stake in company
-  TSMC Chairman and CEO C.C. Wei confirmed Friday night that the US government will not seek an ownership stake in the chip
-  🔗 https://www.livemint.com/companies/news/tsmc-ceo-cc-wei-denies-us-seeking-stake-in-company-11755934720989.html
+- IDBI Bank divestment: SEBI approves reclassification of LIC as a public shareholder. Check details
+  Capital markets regulator, Sebi, approved the reclassification of LIC as a public shareholder in IDBI Bank on 23 August 2025. The classification status can be
+  🔗 https://www.livemint.com/market/stock-market-news/idbi-bank-divestment-sebi-approves-reclassification-of-lic-as-a-public-shareholder-check-details-11755969645049.html
 
-- Indonesia Removes Deputy Minister Named in Graft Case
-  Immanuel Ebenezer was named a suspect in an extortion case. He is the first sitting member of his cabinet to be involved in an anti-corruption investigation.
-  🔗 https://www.livemint.com/companies/news/indonesia-removes-deputy-minister-named-in-graft-case-11755933453494.html
+- ₹334 cr saved! Rekha Jhunjhunwala's exit from Nazara Tech ahead of online gaming bill sparks social media debate
+  Rekha Jhunjhunwala sold her entire stake in the online gaming firm Nazara Technologies through a family entity in June 2025. Share saved  ₹
+  🔗 https://www.livemint.com/market/stock-market-news/rs-334-cr-saved-rekha-jhunjhunwalas-exit-from-nazara-tech-ahead-of-online-gaming-bill-sparks-social-media-debate-11755962923688.html
 
-- WestBridge Capital to acquire 15% stake in Edelweiss asset management in a  ₹450 cr deal
-  WestBridge Capital is set to acquire a 15% stake
-  🔗 https://www.livemint.com/companies/news/westbridge-capital-to-acquire-15-per-cent-stake-in-edelweiss-asset-management-for-rs-450-cr-11755923840178.html
+- Yes Bank share price to be in focus on Monday; here's why
+  Yes Bank shares will be in focus of the stock market investors on Monday, 25 August 2025. The company received the RBI's nod for Sumitomo Mitsui
+  🔗 https://www.livemint.com/market/stock-market-news/yes-bank-share-price-to-be-in-focus-on-monday-heres-why-11755953290601.html
 
 - Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 25 August 2025
   Mahindra &amp;amp; Mahindra, Bharti A
@@ -67,18 +79,6 @@
 - SIP Stocks to buy for long-term: Reliance, TCS to HDFC Bank — experts recommend buying these five shares for 15 years
   Experts have recommended buying Reliance, TCS, HDFC Bank, Asian P
   🔗 https://www.livemint.com/market/stock-market-news/sip-stocks-to-buy-for-long-term-reliance-tcs-to-hdfc-bank-experts-recommend-buying-these-five-shares-for-15-years-11755940498888.html
-
-- US Fed rate cut buzz to FPIs' selling: Top five triggers for the Indian stock market next week
-  Experts believe Indian stock market may stabilise next week. Buoyed by Jerome Powell's dov
-  🔗 https://www.livemint.com/market/stock-market-news/us-fed-rate-cut-buzz-to-fpis-selling-top-five-triggers-for-the-indian-stock-market-next-week-11755936818017.html
-
-- India-China-Russia: How Trump's tariffs could give birth to a $54 trillion global powerhouse
-  Despite ongoing trade tariff disputes, a strategic triad forming between India, China,
-  🔗 https://www.livemint.com/market/stock-market-news/indiachinarussia-how-trumps-tariffs-russia-ukraine-war-could-give-birth-to-a-54-trillion-global-powerhouse-11755929275657.html
-
-- Over 75% NRIs stay invested beyond 5 yrs, outpace resident Indians in long-term commitment: Report
-  Over 75 per cent of NRI investors have remained invested for more than five years. 65 per cent for over seven years--despite significant market volatility
-  🔗 https://www.livemint.com/market/stock-market-news/over-75-nris-stay-invested-beyond-5-yrs-outpace-resident-indians-in-long-term-commitment-report-11755931402174.html
 
 - ChatGPT uses Google Search to deliver real-time answers while plotting to dethrone Google: Report
   Report reveals OpenAI scraped data from Google to enhance ChatGPT's real-time responses.
@@ -120,85 +120,45 @@
   A GKB Ophthalmics virtual AGM turned explosive when a shareholder, owning just one share, fiercely criticized the management's performance and governance. Abhishek Kalra questioned Managing Director Krishna Gopal Gupta's credentials and demanded
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/your-funeral-wont-have-10-followers-investor-owning-1-share-stuns-microcap-agm/articleshow/123468242.cms
 
-- India to suspend postal services to US from August 25 after Trump tariff moves | Latest News India - Hindustan Times - Hindustan Times
-  India to suspend postal services to US from August 25 after Trump tariff moves.
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3F2WXcxaTduOGt3TzFhNW1BR29uc0V4SEVuS3Q3SnN4SEJ4RGxKbGVzeTFVcnI5TnU2Z3ZWWTZuVTZScVk2dEhULWFCWER1OFVoNEJLSG5uT1l2R3I3aWZBb3BFcGtoTDg5dkhzNE5JMEJWTmF0MXZncEdhSlpGaDk5QUpOVHc2dWNKcl9FV1ZnLThSMHRYUkJMdzBCcGM2a1phQ3hGVGR3Wm5zamlVV3Bnbng3Z25xZS1hR1VubWx0OG5xLUpXYlVla0_SAdIBQVVfeXFMT2NtS1A0Z1NvOEJ1OGlmMkNtZWpFVDgwcXE0Mmlpdng4ZVlCWVpuOUJKOC1xZjQ2X05xU2FnUE9icHZidTdVUkowZUpfWlREMHlweC1oRXRtVmlaSXg0amZ6LTlqZGJVT3l6NWtGWDFKWEFpUkZEb3NBRWtxXzV6TU41d2h1NHJxbUUtWkFTcThsbGdlQjdjVFRPZXpmVjdUMEVldTFsTDZqMGlnMG1pYjZpVUN1d05KQ2toX0pIUFZ4WGRqdVV3UEE0NV9PUG1UdFZB?oc=5
+- "Trump Respects India, PM Modi A Lot": US Congressman To NDTV Amid Tariff Row - ndtv.com
+  "Trump Respects India, PM Modi A Lot": US
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQMi1XUy1QTHBsdmhQU1hQM3IwX3J6QlNiN3Bxb09tU2lIcTdtaGt3YmU5SFh6V1dHdENjeEpILUdIeUN4ZHRfMVVBVHBYXzBzX2tkeDB2U2U4Y0RRczd6aDJnVTFDYllFR28xSWlxS29tUmVlODdLaGFXTHZkMWZzb3J6cFJDV05URndYaHJYQU9qNWFHdmVCa3N6ckZBcXVvbFJjY2kycHdWaTc5Ykh0enZ4SdIBuwFBVV95cUxNT0hBb2JSSWliR2hHQ09GcTdIQzVlME9kVHVaOUFBcXRHTVZZS3h0cEVlUjIwZ01RcTJOcUtOZng2aFFrb1JTRUFmTjZUeW5ZM0Q2UUhmZzBQNHhJYUVNalNIazR4Sm5yOEdCZEpTUmFRQTBHUC1RTkdiV3BaREZBUVhYU2hpcURtaC14WkZucWh0QWFKNUxhM1lkejdwOHA2QXdab3NjMXRvd2lhbnhiOHh4M3dtdHlLQ2FZ?oc=5
 
-- "Too Much Ordering, Pressuring": Ex-US Diplomat Snubs Trump Over India Ties - NDTV
-  "Too Much Ordering, Pressuring":
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPekN1MEY0RGpLS2xVSGM2VkpZLWphMWEzdE8tMlJLWnJMTjZ6S29vUjRHTEUyMGdveWpmbFhFODk0MmdxUTNNc0RjRGRKV3ZDajNEY2MwQno2NGxKZ1pOMlo2NllfLUlnNnoxVWZiaXl0cmVCZERLQ3lhdC1XaXRCQ3RHdTg2MjA2ZFk4S29YU3ZZNkFYRkl0T09qU2RpSllzeV93YVBreXd2UEs5anpWUWUwU3NvZTlSR2pTT9IBxAFBVV95cUxQMkVoaHo4cFJ0Ul9GVDFTSWYtYkYwM2Vtc2E5WHVPX1V4c0MtbEFIbnVhWW53M0w2MWd6Sk5vbUNOWkxvU3c2V0dMdk1Nd3dKazY0dTBMWXpTa2M5ZjlXS2RDckRhTHpVYW9XTlVwQXNKLUFJY2YwWGxlUFV4dlk3LWZmeXJBVVJqajc3N3pNRDNiU2FQMk9NQ3QwYUxFWmhHNXNURy1UWFBaQXVWT2pHdGQyOFRlZDdPUUJBVURQMDJwOXNR?oc=5
-
-- HistoriCity | Taxes and tolls in Indian subcontinent | Latest News India - Hindustan Times - Hindustan Times
-  The Indian government is planning to build a bridge across the River G
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPRXRJR1U5bmFlcXppemxMYjBjMjhCWmg4dTFpWUs5enZPQlpGYWxKQzh0bGZIWENTNFlaUHB6QXRQSjhLLVUwM0dvSWVrMUNSa3FoRWhjLWdkOW44QlJxTkRoVURvRjRKYXpGMzRnY1lkWDVTNGYxSGxIS1h4MmlHbW1yOGkxcEtnVUxGRnpNVWdrZUdFOS1tUU1iXzdwY3hnNGZ0NlAxSGJnRmp6eHc1eURjONIBuAFBVV95cUxOcDlHLVNrdFNOR1RGUmpqWE93LXVoT0dVeF9NaEdsMzNLY3pRLTdhZUNpYmNBdkdpckZ4Ukc0d2QydFV2UmhPZE5ZeUcwTmt6N0twNFBnRmVyXzdOU2syMzJKTlNsdUpRREJqX2YzVjlSVnNoOXlreWN4enVVUmpUa1pVU2lsdjdobjJfN2l5bDYzd1dMRzRXRlR0X3J0ejFXdTJ4NUZadTROU0FLSVVLZzBVeF9GZXZ5?oc=5
-
-- India-China-Russia: How Trump's tariffs could give birth to a $54 trillion global powerhouse - Mint
-  India-China-Russia: How Trump's tariffs could
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQanhiOXV5NUVZVGh3X3NWT3lQeHFidnhvSGY1TncyMW80OGZyT3M1TnNLWG45MXJaTVdGLUtBUXU4eU5GcUZneHgwdTRLWUNxME1uVHJCM0NNb09naWxUa1pKSEJ0TnVpVlpyOUVsSWRIZDdwMnJhb1FseEtuYmgwNXZxcVE0TUJSTkZwS2dzU0tBRTM3RzZDTXB1Q2dkaDY1NmJZcXgxZnR2MkxfZUEzTWtmRmcwMmQ5cWZ0NmlFRlczQnpEYWxVeFVKcGZzQWp4Qms5Tks3SlRNeDJiRkNlUURfVUFKYXZhT3dBZjl0c3BGakU2VlFkY3VrRHUwWHlUdDVEc214MNIBjAJBVV95cUxOOEpJZkhmLWV1MjU2SERmWlJQNWFaZjlSY1p1cGFhZ1JGRzRUd0NHdWREdE9qSUxPQlZkbURZWTVobUlaU21oQmNrSGVtY3YwMVY0STNVLUNxTURvZ1A2OHhaQm91cHNiT3dMTnhXZWF3Nl93c2xzX1F5RWFrSVFWc1k2Qm11M3p3YUhEU1p1M2gxemVfdWozYVVlWkpLZXVxdXBCLWlid0IxZ3lxcjdDTEk4NUpIQndvOTczQ3o5R1MwRGpVd2szdHVLQ190ci1WZlk4RDR2OTB0QU1RdWJ0RkZNZDFZa1J0M3paZE9IeDREVGJkY0prbGZ3TTlka0o0TWZhTDU0emVjWUJY?oc=5
-
-- India to develop with France engine for desi stealth fighter - The Times of India
-  India to develop with France engine for desi stealth fighter
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOcFlHS0pJVXZCSXhKbVRmVk1QNjZqT1NxV0IycmhnUnRTTUlXM1Jxa1lPRnlpazVnWkwwUnVqV2dnakFmSFhvd2ZCVUliOGd6dGY3WGRPZ1JWeUQ3TXVZc3RiY1dobVg1SE5kbFEtV2VxemtuQXpwazJsanE3RVNuXzlURGU2Mm5WbHZaMi1JS0lWd2pjaGhCQzd6MUItTnc3NVJtVmRpRU5tX0U1ZFRLSzBybXk3Mi1SX3FLY0F5Uk5oYm9uN2JF0gHMAUFVX3lxTE1fM3lJYWdYclJ6bk4wVG9WaUpWLUlFMTNmMUF1dTROaGUwX1hIYjc1ZGEyRm1CS3JLYUY2bDM0bDVWZk9YZTdsWlFUVEJreDJCdkczdlY1MUpiR1c1SnlGRWlPeEdTX3FKajdzMmIwWk9qTjJiR3hRX3ZQcGMxNl9Va1d3RzktdXVxdTNsUkdBUE11WVpMNG5FSXJ1dVJ0cmRCSjhjRHFaeDFqZXFmeTYxVDZCVHlVZmRya3F0SFBFTFdnTzZUMXVoRFZPZw?oc=5
+- India To Temporarily Stop Postal Services To US From August 25 - ndtv.com
+  India To Temporarily Stop Postal Services To
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVJFWlVieF8wTHUzZ2g2QnRvdFpKbDBOY3B0TV9aWTJPRU9CbHlXX1BfeTh5anpvMU56dld5Z0VlRDFuY0xqNDlUWlFNQ00xTVR4cllTMHFMUElIZVZzZHZEaWxjUkx2SWRzWk1GbncxOS1SUUFWVElUeEJiQ0dBcVhwbnZkemkyTEJXUWhfc2hKcV9aX3RFTXFTdmZyNHN0RllneDVzQWhjS2tQT3QtRE9yaDNIcGN4RUJweE05dkhnRUgxQnhSMXdoMFFlRThpUC1lVHdFV0Fxcnh50gHkAUFVX3lxTE8xWHlpWEY3Vm0wS1JxaVZsWnBfUnRXb0ZrZi1Hc3QzUUFHVC02Y1ZwWVptOXRRRHVUYWlHQkl0RExJTmZBY2tabzB5Tl9BbC1fNFlVYU0wNHJfMnZsWEViYWdoME1uOW03ZGEzcm5vN3Qya0hRa1lYN2FadE1nRG9fcWVMaEt0UE5IMXNPVW5TV1p0TlplN0s0dkxJRFVjampnRmJvNTA0VEFpOFgxRUxocEhsWlFVZmI0NlF5TldJblBSNHFHcEg5LVpPTzg4bHdnQkRVXzVSV29JZzU4WEo3dWVFaQ?oc=5
 
 - India to suspend postal services to US from August 25 after Trump tariff moves | Latest News India - Hindustan Times - Hindustan Times
   India to suspend postal services to US from August 25 after Trump tariff moves.
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3F2WXcxaTduOGt3TzFhNW1BR29uc0V4SEVuS3Q3SnN4SEJ4RGxKbGVzeTFVcnI5TnU2Z3ZWWTZuVTZScVk2dEhULWFCWER1OFVoNEJLSG5uT1l2R3I3aWZBb3BFcGtoTDg5dkhzNE5JMEJWTmF0MXZncEdhSlpGaDk5QUpOVHc2dWNKcl9FV1ZnLThSMHRYUkJMdzBCcGM2a1phQ3hGVGR3Wm5zamlVV3Bnbng3Z25xZS1hR1VubWx0OG5xLUpXYlVla0_SAdIBQVVfeXFMT2NtS1A0Z1NvOEJ1OGlmMkNtZWpFVDgwcXE0Mmlpdng4ZVlCWVpuOUJKOC1xZjQ2X05xU2FnUE9icHZidTdVUkowZUpfWlREMHlweC1oRXRtVmlaSXg0amZ6LTlqZGJVT3l6NWtGWDFKWEFpUkZEb3NBRWtxXzV6TU41d2h1NHJxbUUtWkFTcThsbGdlQjdjVFRPZXpmVjdUMEVldTFsTDZqMGlnMG1pYjZpVUN1d05KQ2toX0pIUFZ4WGRqdVV3UEE0NV9PUG1UdFZB?oc=5
 
-- "Too Much Ordering, Pressuring": Ex-US Diplomat Snubs Trump Over India Ties - NDTV
-  "Too Much Ordering, Pressuring":
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPekN1MEY0RGpLS2xVSGM2VkpZLWphMWEzdE8tMlJLWnJMTjZ6S29vUjRHTEUyMGdveWpmbFhFODk0MmdxUTNNc0RjRGRKV3ZDajNEY2MwQno2NGxKZ1pOMlo2NllfLUlnNnoxVWZiaXl0cmVCZERLQ3lhdC1XaXRCQ3RHdTg2MjA2ZFk4S29YU3ZZNkFYRkl0T09qU2RpSllzeV93YVBreXd2UEs5anpWUWUwU3NvZTlSR2pTT9IBxAFBVV95cUxQMkVoaHo4cFJ0Ul9GVDFTSWYtYkYwM2Vtc2E5WHVPX1V4c0MtbEFIbnVhWW53M0w2MWd6Sk5vbUNOWkxvU3c2V0dMdk1Nd3dKazY0dTBMWXpTa2M5ZjlXS2RDckRhTHpVYW9XTlVwQXNKLUFJY2YwWGxlUFV4dlk3LWZmeXJBVVJqajc3N3pNRDNiU2FQMk9NQ3QwYUxFWmhHNXNURy1UWFBaQXVWT2pHdGQyOFRlZDdPUUJBVURQMDJwOXNR?oc=5
+- Evening news wrap: India temporarily suspends most postal services to US; Jaishankar's firm stance amid t - Times of India
+  India temporarily suspends most postal services to US; Jaishankar's firm
+  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxQaFRsZkxIYklIc25VM2IyRk1iVzlZcTViRmh3ZmVnYk8wbndmN0JrRjhXTXBwSEZsaTh5LTYxSEo4eUJ6a0ZmeUl6dUh0azZaQ0hheHRwYWRGdU1Vdjk0T1dqSDNEa0Fvb05GanF0WVctd0RlSzQ3NTZ5ckpabHdPVFF0cEFxQkktSTYxNEJkLUgzZzQ3dHYyZUxMc04yb1IwbHZ6a2xoSm5FYml1Zl9TSml6VXlJay1vVlQ0T3Y2Y3JBOURObm0yRUY3UFducDBCLTRDcElvSlBIM19TSTlwZ2o3VW5JbDNhTElWUnZ1RFJPQWhzQWZsU0ttVGJwZExKcUVIX0FlXzFtc2pXb3JtdE1aZldwa0xtZkZERlRUcXhwQdIBpwJBVV95cUxPb2lJVmRzTzdac2Z1c2xnNkI0LWx2MUlaZm85bElnd1BXakZRLThFRUhJMzg0VXhPSFpqVzg0YkVpdk85UGZRTWQ2RWdLU3hxa0FKSnFyVUVEZy00TUZGRDNrSUpKWUNZNWh2aTdaSDAzUWc1N0ZmOVJBMk1Sbkdzc0MxYWMwb2NTNl9BMmd3TmhnUmJKbWd1WU5HZG5tUHNOWXZJOEtqN0FPcFRkX0RuX0Q0UnZmMW90NTVGQldGamtMbzRpTG1KbTJhbm1NZGJtYnBjdWhteXdEVlFZOFRVVGtIUGx0YjFwWlVQMFR1Mm5HWGtuQmhFb1VpQkJwZURNLTl1Q3FUdmpNS25teXFXTXkwd00wVF9pTHBMbzd0N1pRRWxyNXpR?oc=5
 
-- HistoriCity | Taxes and tolls in Indian subcontinent | Latest News India - Hindustan Times - Hindustan Times
-  The Indian government is planning to build a bridge across the River G
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPRXRJR1U5bmFlcXppemxMYjBjMjhCWmg4dTFpWUs5enZPQlpGYWxKQzh0bGZIWENTNFlaUHB6QXRQSjhLLVUwM0dvSWVrMUNSa3FoRWhjLWdkOW44QlJxTkRoVURvRjRKYXpGMzRnY1lkWDVTNGYxSGxIS1h4MmlHbW1yOGkxcEtnVUxGRnpNVWdrZUdFOS1tUU1iXzdwY3hnNGZ0NlAxSGJnRmp6eHc1eURjONIBuAFBVV95cUxOcDlHLVNrdFNOR1RGUmpqWE93LXVoT0dVeF9NaEdsMzNLY3pRLTdhZUNpYmNBdkdpckZ4Ukc0d2QydFV2UmhPZE5ZeUcwTmt6N0twNFBnRmVyXzdOU2syMzJKTlNsdUpRREJqX2YzVjlSVnNoOXlreWN4enVVUmpUa1pVU2lsdjdobjJfN2l5bDYzd1dMRzRXRlR0X3J0ejFXdTJ4NUZadTROU0FLSVVLZzBVeF9GZXZ5?oc=5
+- Russian oil 'presented as an issue': Jaishankar on Trump's tariffs on India | Latest News India - Hindustan Times - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWjhOdlRXQUd4dS1LRDQzWkdjb09NNjVIeDJRcFhaOUlVNXB2cTVUcjBXcG5qWUxad3k5MDA2RUQ0d1pwTGRqNUxIUDhMUE9pWWQ3TVNuTDd3SzBlOWRpc3YyUXlWeTJ5QW
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWjhOdlRXQUd4dS1LRDQzWkdjb09NNjVIeDJRcFhaOUlVNXB2cTVUcjBXcG5qWUxad3k5MDA2RUQ0d1pwTGRqNUxIUDhMUE9pWWQ3TVNuTDd3SzBlOWRpc3YyUXlWeTJ5QWt2TzRrRDNaamtUVkNXb3NlSFJrMHBianA0dkNPQVdTRGc0U0pqc1ZZRk5HVWNqWHFkT0Zvd3hNWV9NQktRSVExT0JMWGdPYkVpVWVuMjE5Ym1sTWJZUFB0Z2pSX1Bmd0dTUExQQnVFbWwydNIB2gFBVV95cUxQbGRKTzJ1Y2FVQXZoLWlPZnh1MllWU25pMEZ2X0liV0tkLTJPNERQX3RRTFVjaV9PTUxVV3Q5TEVHRHFkWW9GUlNMWFktSktUa1dBNDhFdmJjNF96Mk9LMUNxWjBQNDM5ZTdveDRjQTdTVnNvRXExcDY4NVQ3a2poLVI0M1hLZEptZjlzM1c4N1pfUGFCekRVQVQxN0xmdGo2V1pVM2N3X1dYMEFYWHp3eEFNTXRYdjNPdlBIZ0VJWkxCN0FOb3BycDVJcEEwUVk1dmRwd3oycm1DQQ?oc=5
 
-- India-China-Russia: How Trump's tariffs could give birth to a $54 trillion global powerhouse - Mint
-  India-China-Russia: How Trump's tariffs could
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQanhiOXV5NUVZVGh3X3NWT3lQeHFidnhvSGY1TncyMW80OGZyT3M1TnNLWG45MXJaTVdGLUtBUXU4eU5GcUZneHgwdTRLWUNxME1uVHJCM0NNb09naWxUa1pKSEJ0TnVpVlpyOUVsSWRIZDdwMnJhb1FseEtuYmgwNXZxcVE0TUJSTkZwS2dzU0tBRTM3RzZDTXB1Q2dkaDY1NmJZcXgxZnR2MkxfZUEzTWtmRmcwMmQ5cWZ0NmlFRlczQnpEYWxVeFVKcGZzQWp4Qms5Tks3SlRNeDJiRkNlUURfVUFKYXZhT3dBZjl0c3BGakU2VlFkY3VrRHUwWHlUdDVEc214MNIBjAJBVV95cUxOOEpJZkhmLWV1MjU2SERmWlJQNWFaZjlSY1p1cGFhZ1JGRzRUd0NHdWREdE9qSUxPQlZkbURZWTVobUlaU21oQmNrSGVtY3YwMVY0STNVLUNxTURvZ1A2OHhaQm91cHNiT3dMTnhXZWF3Nl93c2xzX1F5RWFrSVFWc1k2Qm11M3p3YUhEU1p1M2gxemVfdWozYVVlWkpLZXVxdXBCLWlid0IxZ3lxcjdDTEk4NUpIQndvOTczQ3o5R1MwRGpVd2szdHVLQ190ci1WZlk4RDR2OTB0QU1RdWJ0RkZNZDFZa1J0M3paZE9IeDREVGJkY0prbGZ3TTlka0o0TWZhTDU0emVjWUJY?oc=5
+- "Trump Respects India, PM Modi A Lot": US Congressman To NDTV Amid Tariff Row - ndtv.com
+  "Trump Respects India, PM Modi A Lot": US
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQMi1XUy1QTHBsdmhQU1hQM3IwX3J6QlNiN3Bxb09tU2lIcTdtaGt3YmU5SFh6V1dHdENjeEpILUdIeUN4ZHRfMVVBVHBYXzBzX2tkeDB2U2U4Y0RRczd6aDJnVTFDYllFR28xSWlxS29tUmVlODdLaGFXTHZkMWZzb3J6cFJDV05URndYaHJYQU9qNWFHdmVCa3N6ckZBcXVvbFJjY2kycHdWaTc5Ykh0enZ4SdIBuwFBVV95cUxNT0hBb2JSSWliR2hHQ09GcTdIQzVlME9kVHVaOUFBcXRHTVZZS3h0cEVlUjIwZ01RcTJOcUtOZng2aFFrb1JTRUFmTjZUeW5ZM0Q2UUhmZzBQNHhJYUVNalNIazR4Sm5yOEdCZEpTUmFRQTBHUC1RTkdiV3BaREZBUVhYU2hpcURtaC14WkZucWh0QWFKNUxhM1lkejdwOHA2QXdab3NjMXRvd2lhbnhiOHh4M3dtdHlLQ2FZ?oc=5
 
-- India to develop with France engine for desi stealth fighter - The Times of India
-  India to develop with France engine for desi stealth fighter
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOcFlHS0pJVXZCSXhKbVRmVk1QNjZqT1NxV0IycmhnUnRTTUlXM1Jxa1lPRnlpazVnWkwwUnVqV2dnakFmSFhvd2ZCVUliOGd6dGY3WGRPZ1JWeUQ3TXVZc3RiY1dobVg1SE5kbFEtV2VxemtuQXpwazJsanE3RVNuXzlURGU2Mm5WbHZaMi1JS0lWd2pjaGhCQzd6MUItTnc3NVJtVmRpRU5tX0U1ZFRLSzBybXk3Mi1SX3FLY0F5Uk5oYm9uN2JF0gHMAUFVX3lxTE1fM3lJYWdYclJ6bk4wVG9WaUpWLUlFMTNmMUF1dTROaGUwX1hIYjc1ZGEyRm1CS3JLYUY2bDM0bDVWZk9YZTdsWlFUVEJreDJCdkczdlY1MUpiR1c1SnlGRWlPeEdTX3FKajdzMmIwWk9qTjJiR3hRX3ZQcGMxNl9Va1d3RzktdXVxdTNsUkdBUE11WVpMNG5FSXJ1dVJ0cmRCSjhjRHFaeDFqZXFmeTYxVDZCVHlVZmRya3F0SFBFTFdnTzZUMXVoRFZPZw?oc=5
-
-- India to suspend postal services to US from August 25 after Trump tariff moves | Latest News India - Hindustan Times - Hindustan Times
-  India to suspend postal services to US from August 25 after Trump tariff moves.
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3F2WXcxaTduOGt3TzFhNW1BR29uc0V4SEVuS3Q3SnN4SEJ4RGxKbGVzeTFVcnI5TnU2Z3ZWWTZuVTZScVk2dEhULWFCWER1OFVoNEJLSG5uT1l2R3I3aWZBb3BFcGtoTDg5dkhzNE5JMEJWTmF0MXZncEdhSlpGaDk5QUpOVHc2dWNKcl9FV1ZnLThSMHRYUkJMdzBCcGM2a1phQ3hGVGR3Wm5zamlVV3Bnbng3Z25xZS1hR1VubWx0OG5xLUpXYlVla0_SAdIBQVVfeXFMT2NtS1A0Z1NvOEJ1OGlmMkNtZWpFVDgwcXE0Mmlpdng4ZVlCWVpuOUJKOC1xZjQ2X05xU2FnUE9icHZidTdVUkowZUpfWlREMHlweC1oRXRtVmlaSXg0amZ6LTlqZGJVT3l6NWtGWDFKWEFpUkZEb3NBRWtxXzV6TU41d2h1NHJxbUUtWkFTcThsbGdlQjdjVFRPZXpmVjdUMEVldTFsTDZqMGlnMG1pYjZpVUN1d05KQ2toX0pIUFZ4WGRqdVV3UEE0NV9PUG1UdFZB?oc=5
-
-- "Too Much Ordering, Pressuring": Ex-US Diplomat Snubs Trump Over India Ties - NDTV
-  "Too Much Ordering, Pressuring":
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPekN1MEY0RGpLS2xVSGM2VkpZLWphMWEzdE8tMlJLWnJMTjZ6S29vUjRHTEUyMGdveWpmbFhFODk0MmdxUTNNc0RjRGRKV3ZDajNEY2MwQno2NGxKZ1pOMlo2NllfLUlnNnoxVWZiaXl0cmVCZERLQ3lhdC1XaXRCQ3RHdTg2MjA2ZFk4S29YU3ZZNkFYRkl0T09qU2RpSllzeV93YVBreXd2UEs5anpWUWUwU3NvZTlSR2pTT9IBxAFBVV95cUxQMkVoaHo4cFJ0Ul9GVDFTSWYtYkYwM2Vtc2E5WHVPX1V4c0MtbEFIbnVhWW53M0w2MWd6Sk5vbUNOWkxvU3c2V0dMdk1Nd3dKazY0dTBMWXpTa2M5ZjlXS2RDckRhTHpVYW9XTlVwQXNKLUFJY2YwWGxlUFV4dlk3LWZmeXJBVVJqajc3N3pNRDNiU2FQMk9NQ3QwYUxFWmhHNXNURy1UWFBaQXVWT2pHdGQyOFRlZDdPUUJBVURQMDJwOXNR?oc=5
-
-- HistoriCity | Taxes and tolls in Indian subcontinent | Latest News India - Hindustan Times - Hindustan Times
-  The Indian government is planning to build a bridge across the River G
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPRXRJR1U5bmFlcXppemxMYjBjMjhCWmg4dTFpWUs5enZPQlpGYWxKQzh0bGZIWENTNFlaUHB6QXRQSjhLLVUwM0dvSWVrMUNSa3FoRWhjLWdkOW44QlJxTkRoVURvRjRKYXpGMzRnY1lkWDVTNGYxSGxIS1h4MmlHbW1yOGkxcEtnVUxGRnpNVWdrZUdFOS1tUU1iXzdwY3hnNGZ0NlAxSGJnRmp6eHc1eURjONIBuAFBVV95cUxOcDlHLVNrdFNOR1RGUmpqWE93LXVoT0dVeF9NaEdsMzNLY3pRLTdhZUNpYmNBdkdpckZ4Ukc0d2QydFV2UmhPZE5ZeUcwTmt6N0twNFBnRmVyXzdOU2syMzJKTlNsdUpRREJqX2YzVjlSVnNoOXlreWN4enVVUmpUa1pVU2lsdjdobjJfN2l5bDYzd1dMRzRXRlR0X3J0ejFXdTJ4NUZadTROU0FLSVVLZzBVeF9GZXZ5?oc=5
-
-- India-China-Russia: How Trump's tariffs could give birth to a $54 trillion global powerhouse - Mint
-  India-China-Russia: How Trump's tariffs could
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQanhiOXV5NUVZVGh3X3NWT3lQeHFidnhvSGY1TncyMW80OGZyT3M1TnNLWG45MXJaTVdGLUtBUXU4eU5GcUZneHgwdTRLWUNxME1uVHJCM0NNb09naWxUa1pKSEJ0TnVpVlpyOUVsSWRIZDdwMnJhb1FseEtuYmgwNXZxcVE0TUJSTkZwS2dzU0tBRTM3RzZDTXB1Q2dkaDY1NmJZcXgxZnR2MkxfZUEzTWtmRmcwMmQ5cWZ0NmlFRlczQnpEYWxVeFVKcGZzQWp4Qms5Tks3SlRNeDJiRkNlUURfVUFKYXZhT3dBZjl0c3BGakU2VlFkY3VrRHUwWHlUdDVEc214MNIBjAJBVV95cUxOOEpJZkhmLWV1MjU2SERmWlJQNWFaZjlSY1p1cGFhZ1JGRzRUd0NHdWREdE9qSUxPQlZkbURZWTVobUlaU21oQmNrSGVtY3YwMVY0STNVLUNxTURvZ1A2OHhaQm91cHNiT3dMTnhXZWF3Nl93c2xzX1F5RWFrSVFWc1k2Qm11M3p3YUhEU1p1M2gxemVfdWozYVVlWkpLZXVxdXBCLWlid0IxZ3lxcjdDTEk4NUpIQndvOTczQ3o5R1MwRGpVd2szdHVLQ190ci1WZlk4RDR2OTB0QU1RdWJ0RkZNZDFZa1J0M3paZE9IeDREVGJkY0prbGZ3TTlka0o0TWZhTDU0emVjWUJY?oc=5
-
-- India to develop with France engine for desi stealth fighter - The Times of India
-  India to develop with France engine for desi stealth fighter
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOcFlHS0pJVXZCSXhKbVRmVk1QNjZqT1NxV0IycmhnUnRTTUlXM1Jxa1lPRnlpazVnWkwwUnVqV2dnakFmSFhvd2ZCVUliOGd6dGY3WGRPZ1JWeUQ3TXVZc3RiY1dobVg1SE5kbFEtV2VxemtuQXpwazJsanE3RVNuXzlURGU2Mm5WbHZaMi1JS0lWd2pjaGhCQzd6MUItTnc3NVJtVmRpRU5tX0U1ZFRLSzBybXk3Mi1SX3FLY0F5Uk5oYm9uN2JF0gHMAUFVX3lxTE1fM3lJYWdYclJ6bk4wVG9WaUpWLUlFMTNmMUF1dTROaGUwX1hIYjc1ZGEyRm1CS3JLYUY2bDM0bDVWZk9YZTdsWlFUVEJreDJCdkczdlY1MUpiR1c1SnlGRWlPeEdTX3FKajdzMmIwWk9qTjJiR3hRX3ZQcGMxNl9Va1d3RzktdXVxdTNsUkdBUE11WVpMNG5FSXJ1dVJ0cmRCSjhjRHFaeDFqZXFmeTYxVDZCVHlVZmRya3F0SFBFTFdnTzZUMXVoRFZPZw?oc=5
+- India To Temporarily Stop Postal Services To US From August 25 - ndtv.com
+  India To Temporarily Stop Postal Services To
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVJFWlVieF8wTHUzZ2g2QnRvdFpKbDBOY3B0TV9aWTJPRU9CbHlXX1BfeTh5anpvMU56dld5Z0VlRDFuY0xqNDlUWlFNQ00xTVR4cllTMHFMUElIZVZzZHZEaWxjUkx2SWRzWk1GbncxOS1SUUFWVElUeEJiQ0dBcVhwbnZkemkyTEJXUWhfc2hKcV9aX3RFTXFTdmZyNHN0RllneDVzQWhjS2tQT3QtRE9yaDNIcGN4RUJweE05dkhnRUgxQnhSMXdoMFFlRThpUC1lVHdFV0Fxcnh50gHkAUFVX3lxTE8xWHlpWEY3Vm0wS1JxaVZsWnBfUnRXb0ZrZi1Hc3QzUUFHVC02Y1ZwWVptOXRRRHVUYWlHQkl0RExJTmZBY2tabzB5Tl9BbC1fNFlVYU0wNHJfMnZsWEViYWdoME1uOW03ZGEzcm5vN3Qya0hRa1lYN2FadE1nRG9fcWVMaEt0UE5IMXNPVW5TV1p0TlplN0s0dkxJRFVjampnRmJvNTA0VEFpOFgxRUxocEhsWlFVZmI0NlF5TldJblBSNHFHcEg5LVpPTzg4bHdnQkRVXzVSV29JZzU4WEo3dWVFaQ?oc=5
 
 - India to suspend postal services to US from August 25 after Trump tariff moves | Latest News India - Hindustan Times - Hindustan Times
   India to suspend postal services to US from August 25 after Trump tariff moves.
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3F2WXcxaTduOGt3TzFhNW1BR29uc0V4SEVuS3Q3SnN4SEJ4RGxKbGVzeTFVcnI5TnU2Z3ZWWTZuVTZScVk2dEhULWFCWER1OFVoNEJLSG5uT1l2R3I3aWZBb3BFcGtoTDg5dkhzNE5JMEJWTmF0MXZncEdhSlpGaDk5QUpOVHc2dWNKcl9FV1ZnLThSMHRYUkJMdzBCcGM2a1phQ3hGVGR3Wm5zamlVV3Bnbng3Z25xZS1hR1VubWx0OG5xLUpXYlVla0_SAdIBQVVfeXFMT2NtS1A0Z1NvOEJ1OGlmMkNtZWpFVDgwcXE0Mmlpdng4ZVlCWVpuOUJKOC1xZjQ2X05xU2FnUE9icHZidTdVUkowZUpfWlREMHlweC1oRXRtVmlaSXg0amZ6LTlqZGJVT3l6NWtGWDFKWEFpUkZEb3NBRWtxXzV6TU41d2h1NHJxbUUtWkFTcThsbGdlQjdjVFRPZXpmVjdUMEVldTFsTDZqMGlnMG1pYjZpVUN1d05KQ2toX0pIUFZ4WGRqdVV3UEE0NV9PUG1UdFZB?oc=5
 
-- "Too Much Ordering, Pressuring": Ex-US Diplomat Snubs Trump Over India Ties - NDTV
-  "Too Much Ordering, Pressuring":
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPekN1MEY0RGpLS2xVSGM2VkpZLWphMWEzdE8tMlJLWnJMTjZ6S29vUjRHTEUyMGdveWpmbFhFODk0MmdxUTNNc0RjRGRKV3ZDajNEY2MwQno2NGxKZ1pOMlo2NllfLUlnNnoxVWZiaXl0cmVCZERLQ3lhdC1XaXRCQ3RHdTg2MjA2ZFk4S29YU3ZZNkFYRkl0T09qU2RpSllzeV93YVBreXd2UEs5anpWUWUwU3NvZTlSR2pTT9IBxAFBVV95cUxQMkVoaHo4cFJ0Ul9GVDFTSWYtYkYwM2Vtc2E5WHVPX1V4c0MtbEFIbnVhWW53M0w2MWd6Sk5vbUNOWkxvU3c2V0dMdk1Nd3dKazY0dTBMWXpTa2M5ZjlXS2RDckRhTHpVYW9XTlVwQXNKLUFJY2YwWGxlUFV4dlk3LWZmeXJBVVJqajc3N3pNRDNiU2FQMk9NQ3QwYUxFWmhHNXNURy1UWFBaQXVWT2pHdGQyOFRlZDdPUUJBVURQMDJwOXNR?oc=5
+- Evening news wrap: India temporarily suspends most postal services to US; Jaishankar's firm stance amid t - Times of India
+  India temporarily suspends most postal services to US; Jaishankar's firm
+  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxQaFRsZkxIYklIc25VM2IyRk1iVzlZcTViRmh3ZmVnYk8wbndmN0JrRjhXTXBwSEZsaTh5LTYxSEo4eUJ6a0ZmeUl6dUh0azZaQ0hheHRwYWRGdU1Vdjk0T1dqSDNEa0Fvb05GanF0WVctd0RlSzQ3NTZ5ckpabHdPVFF0cEFxQkktSTYxNEJkLUgzZzQ3dHYyZUxMc04yb1IwbHZ6a2xoSm5FYml1Zl9TSml6VXlJay1vVlQ0T3Y2Y3JBOURObm0yRUY3UFducDBCLTRDcElvSlBIM19TSTlwZ2o3VW5JbDNhTElWUnZ1RFJPQWhzQWZsU0ttVGJwZExKcUVIX0FlXzFtc2pXb3JtdE1aZldwa0xtZkZERlRUcXhwQdIBpwJBVV95cUxPb2lJVmRzTzdac2Z1c2xnNkI0LWx2MUlaZm85bElnd1BXakZRLThFRUhJMzg0VXhPSFpqVzg0YkVpdk85UGZRTWQ2RWdLU3hxa0FKSnFyVUVEZy00TUZGRDNrSUpKWUNZNWh2aTdaSDAzUWc1N0ZmOVJBMk1Sbkdzc0MxYWMwb2NTNl9BMmd3TmhnUmJKbWd1WU5HZG5tUHNOWXZJOEtqN0FPcFRkX0RuX0Q0UnZmMW90NTVGQldGamtMbzRpTG1KbTJhbm1NZGJtYnBjdWhteXdEVlFZOFRVVGtIUGx0YjFwWlVQMFR1Mm5HWGtuQmhFb1VpQkJwZURNLTl1Q3FUdmpNS25teXFXTXkwd00wVF9pTHBMbzd0N1pRRWxyNXpR?oc=5
 
-- HistoriCity | Taxes and tolls in Indian subcontinent | Latest News India - Hindustan Times - Hindustan Times
-  The Indian government is planning to build a bridge across the River G
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPRXRJR1U5bmFlcXppemxMYjBjMjhCWmg4dTFpWUs5enZPQlpGYWxKQzh0bGZIWENTNFlaUHB6QXRQSjhLLVUwM0dvSWVrMUNSa3FoRWhjLWdkOW44QlJxTkRoVURvRjRKYXpGMzRnY1lkWDVTNGYxSGxIS1h4MmlHbW1yOGkxcEtnVUxGRnpNVWdrZUdFOS1tUU1iXzdwY3hnNGZ0NlAxSGJnRmp6eHc1eURjONIBuAFBVV95cUxOcDlHLVNrdFNOR1RGUmpqWE93LXVoT0dVeF9NaEdsMzNLY3pRLTdhZUNpYmNBdkdpckZ4Ukc0d2QydFV2UmhPZE5ZeUcwTmt6N0twNFBnRmVyXzdOU2syMzJKTlNsdUpRREJqX2YzVjlSVnNoOXlreWN4enVVUmpUa1pVU2lsdjdobjJfN2l5bDYzd1dMRzRXRlR0X3J0ejFXdTJ4NUZadTROU0FLSVVLZzBVeF9GZXZ5?oc=5
-
-- India-China-Russia: How Trump's tariffs could give birth to a $54 trillion global powerhouse - Mint
-  India-China-Russia: How Trump's tariffs could
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQanhiOXV5NUVZVGh3X3NWT3lQeHFidnhvSGY1TncyMW80OGZyT3M1TnNLWG45MXJaTVdGLUtBUXU4eU5GcUZneHgwdTRLWUNxME1uVHJCM0NNb09naWxUa1pKSEJ0TnVpVlpyOUVsSWRIZDdwMnJhb1FseEtuYmgwNXZxcVE0TUJSTkZwS2dzU0tBRTM3RzZDTXB1Q2dkaDY1NmJZcXgxZnR2MkxfZUEzTWtmRmcwMmQ5cWZ0NmlFRlczQnpEYWxVeFVKcGZzQWp4Qms5Tks3SlRNeDJiRkNlUURfVUFKYXZhT3dBZjl0c3BGakU2VlFkY3VrRHUwWHlUdDVEc214MNIBjAJBVV95cUxOOEpJZkhmLWV1MjU2SERmWlJQNWFaZjlSY1p1cGFhZ1JGRzRUd0NHdWREdE9qSUxPQlZkbURZWTVobUlaU21oQmNrSGVtY3YwMVY0STNVLUNxTURvZ1A2OHhaQm91cHNiT3dMTnhXZWF3Nl93c2xzX1F5RWFrSVFWc1k2Qm11M3p3YUhEU1p1M2gxemVfdWozYVVlWkpLZXVxdXBCLWlid0IxZ3lxcjdDTEk4NUpIQndvOTczQ3o5R1MwRGpVd2szdHVLQ190ci1WZlk4RDR2OTB0QU1RdWJ0RkZNZDFZa1J0M3paZE9IeDREVGJkY0prbGZ3TTlka0o0TWZhTDU0emVjWUJY?oc=5
-
-- India to develop with France engine for desi stealth fighter - The Times of India
-  India to develop with France engine for desi stealth fighter
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOcFlHS0pJVXZCSXhKbVRmVk1QNjZqT1NxV0IycmhnUnRTTUlXM1Jxa1lPRnlpazVnWkwwUnVqV2dnakFmSFhvd2ZCVUliOGd6dGY3WGRPZ1JWeUQ3TXVZc3RiY1dobVg1SE5kbFEtV2VxemtuQXpwazJsanE3RVNuXzlURGU2Mm5WbHZaMi1JS0lWd2pjaGhCQzd6MUItTnc3NVJtVmRpRU5tX0U1ZFRLSzBybXk3Mi1SX3FLY0F5Uk5oYm9uN2JF0gHMAUFVX3lxTE1fM3lJYWdYclJ6bk4wVG9WaUpWLUlFMTNmMUF1dTROaGUwX1hIYjc1ZGEyRm1CS3JLYUY2bDM0bDVWZk9YZTdsWlFUVEJreDJCdkczdlY1MUpiR1c1SnlGRWlPeEdTX3FKajdzMmIwWk9qTjJiR3hRX3ZQcGMxNl9Va1d3RzktdXVxdTNsUkdBUE11WVpMNG5FSXJ1dVJ0cmRCSjhjRHFaeDFqZXFmeTYxVDZCVHlVZmRya3F0SFBFTFdnTzZUMXVoRFZPZw?oc=5
+- Russian oil 'presented as an issue': Jaishankar on Trump's tariffs on India | Latest News India - Hindustan Times - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWjhOdlRXQUd4dS1LRDQzWkdjb09NNjVIeDJRcFhaOUlVNXB2cTVUcjBXcG5qWUxad3k5MDA2RUQ0d1pwTGRqNUxIUDhMUE9pWWQ3TVNuTDd3SzBlOWRpc3YyUXlWeTJ5QW
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWjhOdlRXQUd4dS1LRDQzWkdjb09NNjVIeDJRcFhaOUlVNXB2cTVUcjBXcG5qWUxad3k5MDA2RUQ0d1pwTGRqNUxIUDhMUE9pWWQ3TVNuTDd3SzBlOWRpc3YyUXlWeTJ5QWt2TzRrRDNaamtUVkNXb3NlSFJrMHBianA0dkNPQVdTRGc0U0pqc1ZZRk5HVWNqWHFkT0Zvd3hNWV9NQktRSVExT0JMWGdPYkVpVWVuMjE5Ym1sTWJZUFB0Z2pSX1Bmd0dTUExQQnVFbWwydNIB2gFBVV95cUxQbGRKTzJ1Y2FVQXZoLWlPZnh1MllWU25pMEZ2X0liV0tkLTJPNERQX3RRTFVjaV9PTUxVV3Q5TEVHRHFkWW9GUlNMWFktSktUa1dBNDhFdmJjNF96Mk9LMUNxWjBQNDM5ZTdveDRjQTdTVnNvRXExcDY4NVQ3a2poLVI0M1hLZEptZjlzM1c4N1pfUGFCekRVQVQxN0xmdGo2V1pVM2N3X1dYMEFYWHp3eEFNTXRYdjNPdlBIZ0VJWkxCN0FOb3BycDVJcEEwUVk1dmRwd3oycm1DQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-08-23 12:32:01 UTC_
+_Last updated: 2025-08-23 18:22:53 UTC_
