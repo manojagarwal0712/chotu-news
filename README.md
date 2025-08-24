@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- As crime and Instagram glory collide, police in Rajasthan hope Operation Sanskar pays off
+- IRCTC ticket booking: Indian Railways boarding station change rules you must know before travelling
   
-  🔗 https://indianexpress.com/article/india/as-crime-and-instagram-glory-collide-police-in-rajasthan-hope-operation-sanskar-pays-off-10207581/
+  🔗 https://indianexpress.com/article/india/irctc-ticket-booking-boarding-station-railway-change-rules-you-must-know-10208381/
 
-- India conducts maiden flight tests of integrated air defence system
+- These five Vande Bharat Express trains run at 130 kmph speed on entire route – full list
   
-  🔗 https://indianexpress.com/article/india/india-maiden-flight-tests-integrated-air-defence-system-10208010/
+  🔗 https://indianexpress.com/article/india/these-five-vande-bharat-express-trains-run-at-130-kmph-speed-on-entire-route-full-list-10207129/
 
-- As Bihar SIR Phase 2 deadline nears, over 98% of electors’ documents submitted, says EC
+- Extradited from Azerbaijan, gangster Mayank Singh sent to judicial custody by Jharkhand court
   
-  🔗 https://indianexpress.com/article/india/bihar-sir-phase-2-deadline-documents-ec-10208005/
+  🔗 https://indianexpress.com/article/india/extradited-azerbaijan-gangster-mayank-singh-jharkhand-court-10208353/
 
-- UP lawyer gets life term for filing false rape cases under SC/ST Act
+- ‘Didn’t think will fly to space’: Astronaut Shubhanshu Shukla at IAF event
   
-  🔗 https://indianexpress.com/article/india/up-lawyer-life-term-false-rape-cases-sc-st-act-10207828/
+  🔗 https://indianexpress.com/article/india/astronaut-shubhanshu-shukla-iaf-event-felicitation-rajnath-singh-10208275/
 
-- Uttarakhand’s King Roat apple makes its way to UAE, opening what state hopes is a new export front
+- Rahul Gandhi, Tejashwi Yadav ride motorcycles during ‘Voter Adhikar Yatra’ in Bihar’s Araria
   
-  🔗 https://indianexpress.com/article/india/uttarakhands-king-roat-apple-makes-its-way-to-uae-opening-what-state-hopes-is-a-new-export-front-10207544/
+  🔗 https://indianexpress.com/article/india/rahul-gandhi-tejashwi-yadav-ride-motorcycles-during-voter-adhikar-yatra-bihar-10208239/
+
+- Under a thousand: A full sized, yet portable keyboard for not too much
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/under-a-thousand-full-sized-portable-keyboard-10208571/
+
+- China unveils first AI chatbot aboard space station to support taikonauts in missions
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/china-unveils-first-wukong-ai-chatbot-space-station-taikonauts-10208535/
+
+- Rise of ‘AI psychosis’: What is it and are there warning signs?
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-psychosis-what-is-it-warning-signs-10208407/
 
 - Uber CEO says Rapido is bigger threat than Ola in India’s ride-hailing market
   
@@ -28,197 +40,165 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/huawei-mate-xt-worlds-first-tri-fold-smartphone-10207938/
 
-- The long, painful downfall of Intel
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/the-long-painful-downfall-of-intel-10207917/
+- Radisson eyes 500 hotels in India by 2030: EVP González
+  India is now Radisson’s second-most important market after China
+  🔗 https://www.livemint.com/companies/news/radisson-hotel-group-franchised-hotels-hospitality-jin-jiang-international-radisson-blu-11756017559903.html
 
-- As AI becomes part of everyday life, it brings a hidden climate cost
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/as-ai-becomes-part-of-everyday-life-it-brings-a-hidden-climate-cost-10207908/
+- Foxconn recalls 300 Chinese engineers from Indian plant, how much will this move impact Apple's expansion plans?
+  Foxconn has reportedly recalled around 300 Chinese engineers from its Indian factory. The move follows recent Chinese government directives aimed at limiting technology transfers.
+  🔗 https://www.livemint.com/companies/news/foxconn-recalls-300-chinese-engineers-tamil-nadu-yuzhan-plant-how-much-impact-apple-iphone-expansion-plans-tech-transfer-11756032428408.html
 
-- China proposes draft rules on internet platform pricing
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/china-proposes-draft-rules-on-internet-platform-pricing-10207898/
+- China has agreed in principle to resume trade with India through Shipki-La in Kinnaur: Himachal govt
+  China has agreed in principle to resume trade with India through
+  🔗 https://www.livemint.com/companies/news/china-has-agreed-in-principle-to-resume-trade-with-india-through-shipki-la-in-kinnaur-himachal-govt-11756031636644.html
 
-- After SBI, Bank of India tags RCom, Anil Ambani as fraud
-  After SBI, Bank of
-  🔗 https://www.livemint.com/companies/after-sbi-bank-of-india-tags-rcom-anil-ambani-as-fraud-11756012621611.html
+- Azure Power halts search for JV partner in Rajasthan solar power project
+  Azure Power has paused plans to bring in a joint venture partner for its 950 MW Rajasthan solar portfolio. The move comes amid management churn and a class-action settlement in the
+  🔗 https://www.livemint.com/companies/azure-power-halts-rajasthan-solar-project-jv-partner-search-11756004589752.html
 
-- K-beauty is having its moment in India as brands strive to get the glow back
-  Indian brands are increasingly chasing K-beauty, skincare and cosmetic products based on the South Korean beauty regimen known for its unique ingredients.
-  🔗 https://www.livemint.com/companies/start-ups/india-k-beauty-market-k-pop-influence-11755858564399.html
+- Snowflake doubling down on investments in India; sees massive headroom to expand: MD
+  Snowflake views India as a ‘land of opportunities’ for data and AI. It is significantly increasing its investments in the country
+  🔗 https://www.livemint.com/companies/news/snowflake-doubling-down-investments-india-massive-headroom-to-expand-md-ai-cloud-data-business-news-11756027804143.html
 
-- Mark Zuckerberg's Meta signs $10 billion cloud deal with Google, partners with Midjourney in MAJOR AI push
-   Meta is restructuring its AI efforts by building the SuperIntelligence Labs. Mark Zuckerberg poaching top AI talents from rivals including ChatGPT maker Open
-  🔗 https://www.livemint.com/companies/news/mark-zuckerberg-meta-signs-10-billion-google-cloud-deal-partners-with-midjourney-in-major-ai-push-11755978736801.html
+- Upcoming IPO: Molbio Diagnostics files draft papers with Sebi to raise funds via public issue
+  The IPO will include a fresh issue of equity shares worth up to  ₹200 crore and an offer-for-sale (OFS) of
+  🔗 https://www.livemint.com/market/stock-market-news/upcoming-ipo-molbio-diagnostics-files-draft-papers-with-sebi-to-raise-funds-via-public-issue-11756024248304.html
 
-- 360 ONE Asset rides $2.1 billion exit wave to fuel new PE-VC funds
-  India’s homegrown investment platform is leveraging strong IPO and private-market exits. It
-  🔗 https://www.livemint.com/companies/360-one-asset-2-billion-dollar-exits-launch-pe-vc-funds-11755699325387.html
+- Mcap of 8 of top-10 most valued firms surges by  ₹1.72 lakh crore, Reliance biggest gainer
+  The combined market capitalisation of eight of the top 10 most valued companies rose by  ₹1,72,148.89 crore
+  🔗 https://www.livemint.com/market/stock-market-news/mcap-of-8-of-top-10-most-values-firms-surges-by-1-72-lakh-crore-reliance-biggest-gainer-11756020855679.html
 
-- Zerodha CEO Nithin Kamath tells you how to become ‘irreplaceable’ amid rise of AI
-  Zerodha CEO Nithin Kamath advises people on how to become ‘irreplace
-  🔗 https://www.livemint.com/companies/people/zerodha-ceo-nithin-kamath-tells-you-how-to-become-irreplaceable-amid-rise-of-ai-11755956383480.html
+- Small-cap stock under  ₹15 to be in focus on Monday; here's why
+  Small-cap stock has rallied as much as 21.40 per cent in past five trading sessions. Osia Hyper Retail
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-15-to-be-in-focus-on-monday-heres-why-11756017320786.html
+
+- SIP stocks to buy for long-term: Ashok Leyland to BoB — SMC expert recommends buying these 5 shares
+  Market experts recommended that investors should focus on select stocks and continue accumulating during significant market dips. They also suggested that investing through SIPs could be a smart approach in the current
+  🔗 https://www.livemint.com/market/stock-market-news/sip-stocks-to-buy-for-long-term-ashok-leyland-to-bob-smc-expert-recommends-buying-these-5-shares-11756015328988.html
 
 - Dividend Stocks: Vedanta, Gillette, others to trade ex-dividend; HDFC Bank to trade ex-bonus this week | Check full list
   Several companies, including Vedanta, Gillette, and Bajaj Steel
   🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-vedanta-gillette-others-to-trade-ex-dividend-hdfc-bank-to-trade-ex-bonus-this-week-check-full-list-11756007239242.html
 
-- Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Chalet Hotel shares tomorrow - 25 August 2025
-  Indian stock markets declined on Friday due to investor caution before Powell's speech. Despite this, weekly gains were noted, with indices up 1% thanks to tax reform optimism. Dharmesh Shah recommends buying Chalet
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-chalet-hotel-shares-tomorrow-25-august-2025-11755972419979.html
+- ‘Investing in OpenAI is high risk’: ChatGPT maker issues stark warning to investors
+  OpenAI has cautioned investors about potential losses in a post-AG
+  🔗 https://www.livemint.com/technology/tech-news/investing-in-openai-is-high-risk-chatgpt-maker-issues-stark-warning-to-investors-11756023978891.html
 
-- Upcoming IPOs: Vikran Engineering IPO, Anlon Healthcare IPO among public issues to open next week; check full list here
-  Among ten public issues - Vikran Engineering IPO and Analon Healthcare IPO - will be
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-vikran-engineering-ipo-anlon-healthcare-ipo-among-public-issues-to-open-next-week-check-full-list-here-11756007055623.html
+- OpenAI exploring deal to roll out ChatGPT Plus subscription across THIS country
+  OpenAI is exploring a subscription deal with the UK government to provide ChatGPT Plus to
+  🔗 https://www.livemint.com/technology/tech-news/openai-exploring-deal-to-roll-out-chatgpt-plus-subscription-across-this-country-sam-altman-11756021798330.html
 
-- Stocks to buy under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday — 25 August 2025
-  Sumeet Bagadia has recommended three stocks to buy on Monday, August 25. SJVN, Cent
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-25-august-2025-11756005412438.html
+- 18 months after surgery, Elon Musk’s first brain chip patient is playing Mario Kart and planning to start a business
+  Noland Arbaught, first Neuralink brain chip implant recipient, recently shared his transformative experience 18 months post-surgery
+  🔗 https://www.livemint.com/technology/tech-news/18-months-after-surgery-elon-musk-s-first-neuralink-noland-arbaugh-is-playing-mario-kart-and-planning-to-start-a-busine-11756011708165.html
 
-- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday - 25 August 2025
-  Ganesh Dongre of Anand Rathi recommends three stocks to buy on
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-25-august-2025-11756002014760.html
+- Permit to Starlink bars copying, decryption of Indian data overseas: MoS Telecom
+  Permit to Starlink bars copying
+  🔗 https://www.livemint.com/technology/tech-news/permit-to-starlink-bars-copying-decryption-of-indian-data-overseas-mos-telecom-11756018633610.html
 
-- Godfather of AI warns AI systems are turning into ?alien beings? that may one day take control of the world
+- Godfather of AI warns AI systems are turning into ‘alien beings’ that may one day take control of the world
   Geoffrey Hinton, known as the Godfather of AI, warns about the dangers of artificial intelligence. He calls for immediate research to
   🔗 https://www.livemint.com/technology/tech-news/godfather-of-ai-geoffrey-hinton-warns-ai-systems-are-alien-beings-that-may-one-day-take-control-chatgpt-ge-11756009817654.html
 
-- Elon Musk's xAI open- sources Grok 2.5 model, vows to release Grok 3 in next 6 months
-   xAI has open-sourced its Grok 2.5 model and plans to do the same for Grok 3 in the next 6 months. Musk had previously shared that
-  🔗 https://www.livemint.com/technology/tech-news/elon-musks-xai-open-sources-grok-2-5-model-vows-to-release-grok-3-in-next-6-months-11755997104534.html
+- Ahead of Market: 10 things that will decide stock market action on Monday
+  The Indian market ended lower, breaking a six-day winning streak. Despite global uncertainties, strong domestic indicators like record PMI and tax reliefs supported resilience.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/123483559.cms
 
-- ChatGPT uses Google Search to deliver real-time answers while plotting to dethrone Google: Report
-  Report reveals OpenAI scraped data from Google to enhance ChatGPT's real-time responses.
-  🔗 https://www.livemint.com/technology/tech-news/openai-chatgpt-uses-google-search-to-deliver-real-time-answers-while-plotting-to-dethrone-google-report-11755939583601.html
+- Mcap of 8 of top-10 most valued firms jumps Rs 1.72 lakh cr; Reliance biggest winner
+  The combined market valuation of eight of the top-10 most valued firms jumped Rs 1,72,148.89 crore last week. Reliance Industries led the
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-most-valued-firms-jumps-rs-1-72-lakh-cr-reliance-biggest-winner/articleshow/123481945.cms
 
-- Elon Musk unveils new company 'Macrohard' to replicate Microsoft 'purely' with AI
-  Musk's new venture, Macrohard, aims to challenge Microsoft's software dominance using
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-unveils-new-company-macrohard-to-replicate-microsoft-purely-with-ai-11755933185754.html
+- D-St Week Ahead: Nifty to remain indecisive; time to avoid fresh aggressive buying
+  Nifty ended the week slightly higher, trading in a narrow 300-point range. India VIX eased to 11.73, signaling lower volatility. Key resistance lies at 25,100–25,150,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/d-st-week-ahead-nifty-to-remain-indecisive-time-to-avoid-fresh-aggressive-buying/articleshow/123481903.cms
 
-- Latest tablets of 2025 bringing you the best in performance, design, and features for every use and preference
-  Top brands like Apple, Samsung, Xiaomi, and Lenovo offer a range of options for work, entertainment, and creativity.
-  🔗 https://www.livemint.com/technology/gadgets/latest-tablets-of-2025-bringing-you-the-best-in-performance-design-and-features-for-every-use-and-preference-11755862797746.html
+- Market Trading Guide: Sell Axis Bank on Monday. Buy Lupin, 3 more stocks for up to 10% potential gains
+  Indian indices ended lower after six-day gains, with banks, FMCG, and IT stocks dragging. Analysts expect brief consolidation; Monday
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-sell-axis-bank-on-monday-buy-lupin-3-more-stocks-for-up-to-10-potential-gains/slideshow/123481676.cms
 
-- INR vs USD: How Jerome Powell's hint on Fed rate cuts may impact currency, bond markets on Monday - Mint
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnAwdE42c2ZnUzlYcUlKNzlQTjMwRkhvX0c3RmVHbE5HU2dmamtaNGtYVUgyT3M2bWVsVnd5R05VQXl5aUItWlBDdUZJX1JNb3hJWFF5UlBxSWJSVzJFU3Z0cEFRZmN0OX
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnAwdE42c2ZnUzlYcUlKNzlQTjMwRkhvX0c3RmVHbE5HU2dmamtaNGtYVUgyT3M2bWVsVnd5R05VQXl5aUItWlBDdUZJX1JNb3hJWFF5UlBxSWJSVzJFU3Z0cEFRZmN0OXJXS0JWYTBlMmQxOW1UdDlQc21EaVdTMzgwelZvSWI2WFd4ejQ3MUN6Wm1oRTF3anRMcjlwLVdIZ0Fwb1p4RUZDTW9fYUUzWWpJVHNRWktPcE14YklLYU5jUTd2SWpqdy1vaU90MjFpdU5NcHJaai1JRlN1Sko4WHY1TENvdlHSAewBQVVfeXFMTVRtbHdjNXZFNHB5OEJ2ZFdYLXhEb0xqdDhwd3BDZlg5ZHNyenlyV2gwMzQxX0tod2lfOFBqMzY0S3NJYUN3RS1Bbk5ja1NKR3g3MkFBT0VXcFdJeW9PTjBBNVRfbVJ5MnVDUC1hdVM1SThKaGdUbVBHb3ZKVTlRQlBYUkZvM0JrMUpiaWQ2WjRXT1JuYWl1Mmlta2FxS0s3YnRIVGhSb3RhOXRyOGxWbWJidldCQk1pX0N4ZWdsSzVWSlNWRnRvd1BrcEs3R3BQTTVadEFZMEJoY09seHNvdEhqMlRwNl80cTI5MEY?oc=5
+- Fund Manager Talk | Srinivas Rao Ravuri backs beaten-down QSR stocks for a surprise comeback
+  Bajaj Allianz Life’s CIO expects Indian equities to remain constructive over the next 12–18 months. Consumption, pharma, and select financials lead growth prospects, aided by
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fund-manager-talk-srinivas-rao-ravuri-backs-beaten-down-qsr-stocks-for-a-surprise-comeback/articleshow/123481544.cms
 
-- Trump’s Ukraine diplomacy and its ripple effect on precious metals markets - The Economic Times
-  The Economic Times reports on the impact of the
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaFhyTl9jTzFVa3d5bC11YndXYVkwb0toV3c2MkxzNkRndUk4RDdJRVRJVUlwUExxLWxJQk1SNHRjYnNZekpqQUJoX3RaQ1dqS0Zycm0yZGxIWW0taGx2Z3pUQ1o4QzFMaEJhZDljbzVwVGZzeTFlMDFkOG42dHR6ZWJtci1EOEV0VEVOSDhLNnRoWE4zeVdtQnctdUVZUkhzMTFMbF96V1hPekY0SktIQVN3T080eWJIWnZQMmp1S2taRFFuR3NJWWNJOU9Ib0d2SERYZHFsYW9QcXVoLVJWNTF6ZE1KTGPSAewBQVVfeXFMUGNMZWF6dkxmYlh3SGRtUVdJeFpsemk5a2Y1VlJ2d3NMNC1DTW5xOGJmVHlRWTYtVWZxaDRuRVAxZk5Ec29KT1RBczY5YnFoREdoQXpadERsRklTdUE5R0UwNURIZzV2OWw4TjFONlhoVGVHTHRUT1g3TTd0VzJZVVhWZWdVdFFmRFlTTjVZYXA1OU9DOWVhNDBhZjBjaGx3OGd2RGdOZFJXVG9IUFBRMW5obkF5SkJZWHFUczJOQWU0Y3hLTVhZeTlhQV92M2w4WEZXLUY1RlR4UG1BZlFBTHBuUjVwTlpjQWJESm0?oc=5
+- "India Must Take It Seriously": Nikki Haley's Warning On Russian Oil Imports - NDTV
+  "India Must Take It Seriously": Nikki Haley's
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYlVWanBNZUFYT1N0d3lfREhCYmszWkxrM21fTlNiV3hsWFBpcFNHdF9MbENwcjZtV0cwZkpxQldCcG9JWjdtQW00VUpXS2xySHV0c0F2amRTMXdjUnhRV0tGZ1VKc1J1ZzNUSldaZUxoc3lZaktIUHM3cXFxSlBfYVZMd2hsZUtzb3ZMNEFfekx6NWVYRmdPQlJEd05Ja3ZzaVBsMGowYlc5UkhpcTNVbEVtcnNudk1fYVVVVi1DMVp6eGFnaTlOaEVkMGJRdjFyUExkeG5n0gHeAUFVX3lxTFBndHlRZFJwN2MtRGtrS1Z3QUFYV1B6eVFaSGJjTVJJV01fMVhFUi1FcDlOeC1SbFJSQjBDRGRtN0psTlZWNXBDUll3LXBIQWh1RWUyMHhycXdtMzdaUnpocGdjb1BVQUZkaGN3SS03N29UY0lCZ1lBQ3lqQWNXTUNTbzZOZHc3R3VFVVVQRWtqSVhCYUhvUmR6UF91WEkwXzU0Q3ExZWNfXzJ4V0cxWlo1OTlvMFBCR212bnhWa1JrTWRuQjl2Zk5oQ0xOQ21ablZGSmhFY0pMb3l0Y3NQUQ?oc=5
 
-- IHCL eyes strategic acquisitions to expand presence in key markets: MD - Business Standard
-  IHCL eyes strategic acquisitions to expand presence in
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdDhLeGlyRDBQaWpEdkUyNlBzbUZCUnMzckVVcDFNMllpOUpBVjFBLXd2NUxjMlhCdmVKWmk1R3Rib0RsaHA2N0FNNzNxLXJtNUdocTRhR2pETWt2VTVuZTRVYjVoRVpHVkhxUzFFdXZkS1NuN2t5MjUydHpNQVF4Q0d4aE1yMmVOWHRINU1GazBZb2ZxTmMzR2RZc0QtN2U1YTl0cjNzVzhlM3ZiaHlHV2RqZWlmdDFzOU9IY3NDWXUyR3p1ZFVvX2FzM3phSkswZUNEX9IB2gFBVV95cUxPTGNLLTNYb0txWVYxc29ueHRDNS1KQmxGWDhjVVhfM0lFYms5aExPcEpzbE9IbExocVpJUUNXMklNS0JRSGMxbVRYR3pSYzh1dlpXRC0zY2MybTNaWGdmc1B2MTExQk9ta2hrUF85d1UwV0lBQUluVHNoNllqb1VOamJRcVQ4Ulk3V2Zrdy1PNXFJNG50UjBvWV9QdFIzb0JXcUowVFZMMldCdjVKWVZ2dVJRRktiR3F4WFM3RzJOb1NfMGM2NUFTUUEtYzlSVnhmdnZDOWhyQ3hxUQ?oc=5
+- "Too Much Ordering, Pressuring": Ex-US Diplomat Snubs Trump Over India Ties - NDTV
+  "Too Much Ordering, Pressuring":
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPekN1MEY0RGpLS2xVSGM2VkpZLWphMWEzdE8tMlJLWnJMTjZ6S29vUjRHTEUyMGdveWpmbFhFODk0MmdxUTNNc0RjRGRKV3ZDajNEY2MwQno2NGxKZ1pOMlo2NllfLUlnNnoxVWZiaXl0cmVCZERLQ3lhdC1XaXRCQ3RHdTg2MjA2ZFk4S29YU3ZZNkFYRkl0T09qU2RpSllzeV93YVBreXd2UEs5anpWUWUwU3NvZTlSR2pTT9IBxAFBVV95cUxQMkVoaHo4cFJ0Ul9GVDFTSWYtYkYwM2Vtc2E5WHVPX1V4c0MtbEFIbnVhWW53M0w2MWd6Sk5vbUNOWkxvU3c2V0dMdk1Nd3dKazY0dTBMWXpTa2M5ZjlXS2RDckRhTHpVYW9XTlVwQXNKLUFJY2YwWGxlUFV4dlk3LWZmeXJBVVJqajc3N3pNRDNiU2FQMk9NQ3QwYUxFWmhHNXNURy1UWFBaQXVWT2pHdGQyOFRlZDdPUUJBVURQMDJwOXNR?oc=5
 
-- IPO lock-ins worth $20 billion to hit stock market in next 3 months - The Economic Times
-  IPO lock-ins worth $20 billion to hit stock market
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUW1fd3JuS3VSMTJqSU1mOWhUcF9tZURnbkRoWWQ1UTJ2U0VGTkF4dk9kNGI3djZWbk9XdGlrOUhMcGJ0LVdoNlB4NWFkU3oyM3J2UHQtWHJuVTNTSmhjQWdwYkQxZk9fbmM1UVp0ZUdwVmlBdm85cGVkRGktRzFxWUt6MGpuUlJwV3N6UjhmM0FXcVlYSHc4Z2Npc0l0RHp6OW1fUEpGUFFQNmRfRjkyZUhySU1nYXJwRnZXZzRtVGdIZFdoVmhNNHNsTkw1cFJMcDBfNtIB2gFBVV95cUxOYVBxVWJ2ZDZPajV0WEYzeWJwUk1UbUxza1huZ0NjbldXMFVMRGhiemhnaDQtTUFyaWlXeEFXamF1bURvVDN1VWthdUpCMEY3N1RVbHpfcmt3UnZhRGNjeVBLZnRoelVLYzIxNWpzRGhVZlVrVkRvT0NYVERwb2hIU3pzVVVaazFybWN0WFNXc2NmOVd1bWxfUGpEaV9pZzR4WkdGZnZrcmg3dHg4dlg1ai1WWTRhTnkyTFk4cmluUzBpNF91bjBjTDE0eElVcllqV2NyekdQbC1uZw?oc=5
+- 'To counter China...': Nikki Haley warns Trump against alienating India | Latest News India - Hindustan Times - Hindustan Times
+  'To counter China...': Nikki Haley warns Trump against alienating India.
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGFZTVR4LXNmNXZRRVhoZ2tPUWxoOWxHRGVra2poS1Npd1Y3ckU3SXBwMW40empZbzJxZW85MU5fSFJNTEMwUWRtQmFqc2VBVTVSLVpQcXEyYy1HZG9CLUI4UnFtaEhsOTFabTFlS1lnVUxESENrajFjam1JZzJqSExDXzZzekJEZ001VWQ3bE10dE5SQ1hBclA5T19fT3F0Yk1TTXRvTEdXLVc1aE1KaEIzLUpEZUlDTkUyaGRfWms3RWswcXIw0gHMAUFVX3lxTE16Nk1FcjlxUlljdmpkUHFCVzk4bUhTTTVhM0lXbmdMd1ZfT08wZXZGNWdOQ3dDb2tjWnV4WDk4dnYxd01hMGQ5cUhvM21ad1FWQUg0WHAySnBjbFRvb0I1c1RVQTZTc1hfWWpOSTBMMGY5ME9KeUxqZ0g4Mm9XR0lMZW9qZGY2RTZYZG52M180SzlfbkRxTENVek42NkFwREZmVURkblJYSmFKUllJeVUwb2dkeHdtS2hUR1V6MVo5WndJSHlRb3VKX0FiYQ?oc=5
 
-- Is the AI bubble about to burst – and send the stock market into freefall? | Phillip Inman - The Guardian
-  Is the AI bubble about to burst – and send the stock market into freefall?
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQejIzTS1BaHBteDE3d0pqbVhTSmxOeE1sRnlCSlJBMTlUSjJQeWwzU1FtUnB5YkFwSks4ZElCdEY1aWwzZkM1d1FHQjVYQWY3S3R0bm5WMDY2U1pwcmVFZklfR0JpMTZMTjQteUZ5VmUyOGJQSlZzZnhpMzV5bDYyeFloUHNQQTlvcDl0cDAtU25HM3N4Y25IaTg0WU5ORVJYcUdvVHhGM21MT2xoeWozN3NDYkpLNXpkaWJZenBUUQ?oc=5
-
-- From Mauritius to GIFT City: Alchemy’s journey in building India’s financial hub
-  Alchemy Capital Management became the first fund house to migrate from Mauritius to GIFTCity, India. The Alchemy India Long Term Fund focuses on high-conviction, India-dedicated equity strategies.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/from-mauritius-to-gift-city-alchemys-journey-in-building-indias-financial-hub/articleshow/123481344.cms
-
-- Sebi clears LIC’s reclassification as public shareholder in IDBI Bank amid divestment plan
-  Sebi has approved LIC’s reclassification as a public shareholder in IDBI Bank. The move follows the strategic disinvestment plan, with IDBI reporting 17% YoY net profit growth in
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-clears-lics-reclassification-as-public-shareholder-in-idbi-bank-amid-divestment-plan/articleshow/123481046.cms
-
-- Diagnostics company Molbio files DRHP with Sebi for an IPO
-  Molbio Diagnostics, a Goa-based POC diagnostics company, filed its DRHP to raise Rs 200 crore via fresh issue and 1.25 crore shares through OFS. Promoters include Sriram
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/diagnostics-company-molbio-files-drhp-with-sebi-for-an-ipo/articleshow/123481014.cms
-
-- 'Ek chutki share ki keemat': Vijay Kedia has an advice for boards after viral investor outburst at AGM
-  A one-shareholder outburst at GKB Ophthalmics’ AGM went viral, highlighting minority investor power. Despite owning just one share, Abhishek Kalra demanded the MD’
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ek-chutki-share-ki-keemat-vijay-kedia-has-an-advice-for-boards-after-viral-investor-outburst-at-agm/articleshow/123480840.cms
-
-- IPO lock-ins worth $20 billion to hit stock market in next 3 months
-  Between August 25 and November 27, 2025, 57 companies will see pre-listing shareholder lock-ins expire, totaling nearly USD 20 billion. Major unlocks span one-, three-, and six-
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-lock-ins-worth-20-billion-to-hit-stock-market-in-next-3-months/articleshow/123480819.cms
-
-- Behind India’s massive Russian oil imports: Asia’s richest man - Al Jazeera
-  <ol><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlY4VlV2NzZ2WTZWSUpFVmNfb2F0VXhnMXRuSHRBc2ppWG04OFdobVBNX2g5NHl6Y3ZaLW1SUWVubl9fMlJxdV9UUHZCNWdkOUVTZHY0R0E0a1FxRk5DR1pjeXRHM0lFZl
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlY4VlV2NzZ2WTZWSUpFVmNfb2F0VXhnMXRuSHRBc2ppWG04OFdobVBNX2g5NHl6Y3ZaLW1SUWVubl9fMlJxdV9UUHZCNWdkOUVTZHY0R0E0a1FxRk5DR1pjeXRHM0lFZlRjYVh6VndGdjNjdVd5MWVvcGVqRjVySzc4b2l1YVZYbDlfQ08zUFRqU0EzX0c4cDlSaEtFbk11cGZYNDVR0gGrAUFVX3lxTFBnOFV0THdtYUVsQXMweXo0MXYzMnRxUy1vYWk0Y1F2dE1wa0pXc1FNSnBHVkpwSmFpaGo0LXk4QmdCNnBXY2pDUlZsaGVWM1BTSk1KUHVYdFotNXdUZTI2NzE3RTBKWWpiRjMyV0lFLTdpWXVwSGtzMG5iaDVzR0hJV3BvM2hDc0pfdURpNk12NGhYSnZxNnVfMTludFZxU2hqTWlRUGlZRFZJYw?oc=5
-
-- India to suspend postal services to US from August 25 after Trump tariff moves | Latest News India - Hindustan Times - Hindustan Times
-  India to suspend postal services to US from August 25 after Trump tariff moves.
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3F2WXcxaTduOGt3TzFhNW1BR29uc0V4SEVuS3Q3SnN4SEJ4RGxKbGVzeTFVcnI5TnU2Z3ZWWTZuVTZScVk2dEhULWFCWER1OFVoNEJLSG5uT1l2R3I3aWZBb3BFcGtoTDg5dkhzNE5JMEJWTmF0MXZncEdhSlpGaDk5QUpOVHc2dWNKcl9FV1ZnLThSMHRYUkJMdzBCcGM2a1phQ3hGVGR3Wm5zamlVV3Bnbng3Z25xZS1hR1VubWx0OG5xLUpXYlVla0_SAdIBQVVfeXFMT2NtS1A0Z1NvOEJ1OGlmMkNtZWpFVDgwcXE0Mmlpdng4ZVlCWVpuOUJKOC1xZjQ2X05xU2FnUE9icHZidTdVUkowZUpfWlREMHlweC1oRXRtVmlaSXg0amZ6LTlqZGJVT3l6NWtGWDFKWEFpUkZEb3NBRWtxXzV6TU41d2h1NHJxbUUtWkFTcThsbGdlQjdjVFRPZXpmVjdUMEVldTFsTDZqMGlnMG1pYjZpVUN1d05KQ2toX0pIUFZ4WGRqdVV3UEE0NV9PUG1UdFZB?oc=5
-
-- Amid new rules, India 'temporarily suspends' postal services to US - Times of India
-  India 'temporarily suspends' postal services
+- Amid new rules, India 'temporarily suspends' postal services to US - The Times of India
+  The Times of India reports that India has suspended postal services
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnJDamwwaHlIWFlrb25aNGd4Mm9IV3NPWGRhRGk5d2hPYktMWXozUkVHYmlFMDRfLVJraGlacDNuQl9kS3N3N2lDTnpYRkVTVVpUaUF0Rk12Vks3NkFBZjVFZ3IwbTkzbTVPc2tkcmtWQWNyZmZwQnFkc2NrblF6dE83ZW05Z0FleE9rOU1MaWo1aWZldGJqcU1aX2NDZG9NOXJUOVJ5VTItVy1tY2N3b1dIaUlxVnVMOEotMzVNQzR1QlZ0WU5yeVBEb9IB0AFBVV95cUxNQWlsdXFDUi1XOVItcGg2OTlZNXJSLUNIb0tCVDNZblhsMEpZd1BrekEwRUJPUXlwckRuMG1DOVB4UE4tMGtadmlPeXEteTUzOXFLV3ZJVk1WUVN4Y0RNYXhOZG9OYlVEMWlHM2dDcE5ENDhyZnFRTFo4cjhpUnM5aWN0OWJ3M2dBWHltT3QwOVI4bGF5TE11VzkxMlpndXZUakxzVWpQSmQ2N2dZVnM0emR5cGxXRWFsaFJiRF9wcXdSSVNpbjV1LWkxYjJUeHV1?oc=5
 
 - India To Temporarily Stop Postal Services To US From August 25 - NDTV
   India To Temporarily Stop Postal Services To
   🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVJFWlVieF8wTHUzZ2g2QnRvdFpKbDBOY3B0TV9aWTJPRU9CbHlXX1BfeTh5anpvMU56dld5Z0VlRDFuY0xqNDlUWlFNQ00xTVR4cllTMHFMUElIZVZzZHZEaWxjUkx2SWRzWk1GbncxOS1SUUFWVElUeEJiQ0dBcVhwbnZkemkyTEJXUWhfc2hKcV9aX3RFTXFTdmZyNHN0RllneDVzQWhjS2tQT3QtRE9yaDNIcGN4RUJweE05dkhnRUgxQnhSMXdoMFFlRThpUC1lVHdFV0Fxcnh50gHkAUFVX3lxTE8xWHlpWEY3Vm0wS1JxaVZsWnBfUnRXb0ZrZi1Hc3QzUUFHVC02Y1ZwWVptOXRRRHVUYWlHQkl0RExJTmZBY2tabzB5Tl9BbC1fNFlVYU0wNHJfMnZsWEViYWdoME1uOW03ZGEzcm5vN3Qya0hRa1lYN2FadE1nRG9fcWVMaEt0UE5IMXNPVW5TV1p0TlplN0s0dkxJRFVjampnRmJvNTA0VEFpOFgxRUxocEhsWlFVZmI0NlF5TldJblBSNHFHcEg5LVpPTzg4bHdnQkRVXzVSV29JZzU4WEo3dWVFaQ?oc=5
 
-- India conducts maiden flight tests of integrated air defence system - The Indian Express
-  India conducts maiden flight tests of integrated air defence system
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUjBhWDJQSmdXM3RGeS1rY294RHlocVFSN1R5SG1hRDJkQW1ZOXpKZXZ5N3dJQkJvclhYWTltUUYzdWMxUDZlNkpodVpHVDhVMnlyTFdKS3JHcG1WbV9mcWtJWWxFdUc1NjYzVHNjaWcwTzZTUzhoUzdhV3hTQ1Z3VWc4UTRfdUEzWU9CdklnVEFuT0t4Qkl2d3Ixck1fOVVqdlRjSWI0bE7SAa8BQVVfeXFMTmV6WlByV3otcXppQXNYWXZjNWxOWmEtUVNPWHpkcEtxQUtEYVdjb2tYNy13Q1RmQTF4LW1xR2F2Tko3WnlUWjJGbFJJUXNZRUVtOWp1dWxSbWEzV3BMRmFXbEZ0c3REVXpKbXFvTWR6WE5jbS1FaUctR0xaNWdCWnpzLUhKQkMwUkN3UEd3cHpPdzRicVFvcjFuQ294NXREVG40TWc5NkF0cFpMY3FpQQ?oc=5
+- "India Must Take It Seriously": Nikki Haley's Warning On Russian Oil Imports - NDTV
+  "India Must Take It Seriously": Nikki Haley's
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYlVWanBNZUFYT1N0d3lfREhCYmszWkxrM21fTlNiV3hsWFBpcFNHdF9MbENwcjZtV0cwZkpxQldCcG9JWjdtQW00VUpXS2xySHV0c0F2amRTMXdjUnhRV0tGZ1VKc1J1ZzNUSldaZUxoc3lZaktIUHM3cXFxSlBfYVZMd2hsZUtzb3ZMNEFfekx6NWVYRmdPQlJEd05Ja3ZzaVBsMGowYlc5UkhpcTNVbEVtcnNudk1fYVVVVi1DMVp6eGFnaTlOaEVkMGJRdjFyUExkeG5n0gHeAUFVX3lxTFBndHlRZFJwN2MtRGtrS1Z3QUFYV1B6eVFaSGJjTVJJV01fMVhFUi1FcDlOeC1SbFJSQjBDRGRtN0psTlZWNXBDUll3LXBIQWh1RWUyMHhycXdtMzdaUnpocGdjb1BVQUZkaGN3SS03N29UY0lCZ1lBQ3lqQWNXTUNTbzZOZHc3R3VFVVVQRWtqSVhCYUhvUmR6UF91WEkwXzU0Q3ExZWNfXzJ4V0cxWlo1OTlvMFBCR212bnhWa1JrTWRuQjl2Zk5oQ0xOQ21ablZGSmhFY0pMb3l0Y3NQUQ?oc=5
 
-- Behind India’s massive Russian oil imports: Asia’s richest man - Al Jazeera
-  <ol><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlY4VlV2NzZ2WTZWSUpFVmNfb2F0VXhnMXRuSHRBc2ppWG04OFdobVBNX2g5NHl6Y3ZaLW1SUWVubl9fMlJxdV9UUHZCNWdkOUVTZHY0R0E0a1FxRk5DR1pjeXRHM0lFZl
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlY4VlV2NzZ2WTZWSUpFVmNfb2F0VXhnMXRuSHRBc2ppWG04OFdobVBNX2g5NHl6Y3ZaLW1SUWVubl9fMlJxdV9UUHZCNWdkOUVTZHY0R0E0a1FxRk5DR1pjeXRHM0lFZlRjYVh6VndGdjNjdVd5MWVvcGVqRjVySzc4b2l1YVZYbDlfQ08zUFRqU0EzX0c4cDlSaEtFbk11cGZYNDVR0gGrAUFVX3lxTFBnOFV0THdtYUVsQXMweXo0MXYzMnRxUy1vYWk0Y1F2dE1wa0pXc1FNSnBHVkpwSmFpaGo0LXk4QmdCNnBXY2pDUlZsaGVWM1BTSk1KUHVYdFotNXdUZTI2NzE3RTBKWWpiRjMyV0lFLTdpWXVwSGtzMG5iaDVzR0hJV3BvM2hDc0pfdURpNk12NGhYSnZxNnVfMTludFZxU2hqTWlRUGlZRFZJYw?oc=5
+- "Too Much Ordering, Pressuring": Ex-US Diplomat Snubs Trump Over India Ties - NDTV
+  "Too Much Ordering, Pressuring":
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPekN1MEY0RGpLS2xVSGM2VkpZLWphMWEzdE8tMlJLWnJMTjZ6S29vUjRHTEUyMGdveWpmbFhFODk0MmdxUTNNc0RjRGRKV3ZDajNEY2MwQno2NGxKZ1pOMlo2NllfLUlnNnoxVWZiaXl0cmVCZERLQ3lhdC1XaXRCQ3RHdTg2MjA2ZFk4S29YU3ZZNkFYRkl0T09qU2RpSllzeV93YVBreXd2UEs5anpWUWUwU3NvZTlSR2pTT9IBxAFBVV95cUxQMkVoaHo4cFJ0Ul9GVDFTSWYtYkYwM2Vtc2E5WHVPX1V4c0MtbEFIbnVhWW53M0w2MWd6Sk5vbUNOWkxvU3c2V0dMdk1Nd3dKazY0dTBMWXpTa2M5ZjlXS2RDckRhTHpVYW9XTlVwQXNKLUFJY2YwWGxlUFV4dlk3LWZmeXJBVVJqajc3N3pNRDNiU2FQMk9NQ3QwYUxFWmhHNXNURy1UWFBaQXVWT2pHdGQyOFRlZDdPUUJBVURQMDJwOXNR?oc=5
 
-- India to suspend postal services to US from August 25 after Trump tariff moves | Latest News India - Hindustan Times - Hindustan Times
-  India to suspend postal services to US from August 25 after Trump tariff moves.
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3F2WXcxaTduOGt3TzFhNW1BR29uc0V4SEVuS3Q3SnN4SEJ4RGxKbGVzeTFVcnI5TnU2Z3ZWWTZuVTZScVk2dEhULWFCWER1OFVoNEJLSG5uT1l2R3I3aWZBb3BFcGtoTDg5dkhzNE5JMEJWTmF0MXZncEdhSlpGaDk5QUpOVHc2dWNKcl9FV1ZnLThSMHRYUkJMdzBCcGM2a1phQ3hGVGR3Wm5zamlVV3Bnbng3Z25xZS1hR1VubWx0OG5xLUpXYlVla0_SAdIBQVVfeXFMT2NtS1A0Z1NvOEJ1OGlmMkNtZWpFVDgwcXE0Mmlpdng4ZVlCWVpuOUJKOC1xZjQ2X05xU2FnUE9icHZidTdVUkowZUpfWlREMHlweC1oRXRtVmlaSXg0amZ6LTlqZGJVT3l6NWtGWDFKWEFpUkZEb3NBRWtxXzV6TU41d2h1NHJxbUUtWkFTcThsbGdlQjdjVFRPZXpmVjdUMEVldTFsTDZqMGlnMG1pYjZpVUN1d05KQ2toX0pIUFZ4WGRqdVV3UEE0NV9PUG1UdFZB?oc=5
+- 'To counter China...': Nikki Haley warns Trump against alienating India | Latest News India - Hindustan Times - Hindustan Times
+  'To counter China...': Nikki Haley warns Trump against alienating India.
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGFZTVR4LXNmNXZRRVhoZ2tPUWxoOWxHRGVra2poS1Npd1Y3ckU3SXBwMW40empZbzJxZW85MU5fSFJNTEMwUWRtQmFqc2VBVTVSLVpQcXEyYy1HZG9CLUI4UnFtaEhsOTFabTFlS1lnVUxESENrajFjam1JZzJqSExDXzZzekJEZ001VWQ3bE10dE5SQ1hBclA5T19fT3F0Yk1TTXRvTEdXLVc1aE1KaEIzLUpEZUlDTkUyaGRfWms3RWswcXIw0gHMAUFVX3lxTE16Nk1FcjlxUlljdmpkUHFCVzk4bUhTTTVhM0lXbmdMd1ZfT08wZXZGNWdOQ3dDb2tjWnV4WDk4dnYxd01hMGQ5cUhvM21ad1FWQUg0WHAySnBjbFRvb0I1c1RVQTZTc1hfWWpOSTBMMGY5ME9KeUxqZ0g4Mm9XR0lMZW9qZGY2RTZYZG52M180SzlfbkRxTENVek42NkFwREZmVURkblJYSmFKUllJeVUwb2dkeHdtS2hUR1V6MVo5WndJSHlRb3VKX0FiYQ?oc=5
 
-- Amid new rules, India 'temporarily suspends' postal services to US - Times of India
-  India 'temporarily suspends' postal services
+- Amid new rules, India 'temporarily suspends' postal services to US - The Times of India
+  The Times of India reports that India has suspended postal services
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnJDamwwaHlIWFlrb25aNGd4Mm9IV3NPWGRhRGk5d2hPYktMWXozUkVHYmlFMDRfLVJraGlacDNuQl9kS3N3N2lDTnpYRkVTVVpUaUF0Rk12Vks3NkFBZjVFZ3IwbTkzbTVPc2tkcmtWQWNyZmZwQnFkc2NrblF6dE83ZW05Z0FleE9rOU1MaWo1aWZldGJqcU1aX2NDZG9NOXJUOVJ5VTItVy1tY2N3b1dIaUlxVnVMOEotMzVNQzR1QlZ0WU5yeVBEb9IB0AFBVV95cUxNQWlsdXFDUi1XOVItcGg2OTlZNXJSLUNIb0tCVDNZblhsMEpZd1BrekEwRUJPUXlwckRuMG1DOVB4UE4tMGtadmlPeXEteTUzOXFLV3ZJVk1WUVN4Y0RNYXhOZG9OYlVEMWlHM2dDcE5ENDhyZnFRTFo4cjhpUnM5aWN0OWJ3M2dBWHltT3QwOVI4bGF5TE11VzkxMlpndXZUakxzVWpQSmQ2N2dZVnM0emR5cGxXRWFsaFJiRF9wcXdSSVNpbjV1LWkxYjJUeHV1?oc=5
 
 - India To Temporarily Stop Postal Services To US From August 25 - NDTV
   India To Temporarily Stop Postal Services To
   🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVJFWlVieF8wTHUzZ2g2QnRvdFpKbDBOY3B0TV9aWTJPRU9CbHlXX1BfeTh5anpvMU56dld5Z0VlRDFuY0xqNDlUWlFNQ00xTVR4cllTMHFMUElIZVZzZHZEaWxjUkx2SWRzWk1GbncxOS1SUUFWVElUeEJiQ0dBcVhwbnZkemkyTEJXUWhfc2hKcV9aX3RFTXFTdmZyNHN0RllneDVzQWhjS2tQT3QtRE9yaDNIcGN4RUJweE05dkhnRUgxQnhSMXdoMFFlRThpUC1lVHdFV0Fxcnh50gHkAUFVX3lxTE8xWHlpWEY3Vm0wS1JxaVZsWnBfUnRXb0ZrZi1Hc3QzUUFHVC02Y1ZwWVptOXRRRHVUYWlHQkl0RExJTmZBY2tabzB5Tl9BbC1fNFlVYU0wNHJfMnZsWEViYWdoME1uOW03ZGEzcm5vN3Qya0hRa1lYN2FadE1nRG9fcWVMaEt0UE5IMXNPVW5TV1p0TlplN0s0dkxJRFVjampnRmJvNTA0VEFpOFgxRUxocEhsWlFVZmI0NlF5TldJblBSNHFHcEg5LVpPTzg4bHdnQkRVXzVSV29JZzU4WEo3dWVFaQ?oc=5
 
-- India conducts maiden flight tests of integrated air defence system - The Indian Express
-  India conducts maiden flight tests of integrated air defence system
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUjBhWDJQSmdXM3RGeS1rY294RHlocVFSN1R5SG1hRDJkQW1ZOXpKZXZ5N3dJQkJvclhYWTltUUYzdWMxUDZlNkpodVpHVDhVMnlyTFdKS3JHcG1WbV9mcWtJWWxFdUc1NjYzVHNjaWcwTzZTUzhoUzdhV3hTQ1Z3VWc4UTRfdUEzWU9CdklnVEFuT0t4Qkl2d3Ixck1fOVVqdlRjSWI0bE7SAa8BQVVfeXFMTmV6WlByV3otcXppQXNYWXZjNWxOWmEtUVNPWHpkcEtxQUtEYVdjb2tYNy13Q1RmQTF4LW1xR2F2Tko3WnlUWjJGbFJJUXNZRUVtOWp1dWxSbWEzV3BMRmFXbEZ0c3REVXpKbXFvTWR6WE5jbS1FaUctR0xaNWdCWnpzLUhKQkMwUkN3UEd3cHpPdzRicVFvcjFuQ294NXREVG40TWc5NkF0cFpMY3FpQQ?oc=5
+- "India Must Take It Seriously": Nikki Haley's Warning On Russian Oil Imports - NDTV
+  "India Must Take It Seriously": Nikki Haley's
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYlVWanBNZUFYT1N0d3lfREhCYmszWkxrM21fTlNiV3hsWFBpcFNHdF9MbENwcjZtV0cwZkpxQldCcG9JWjdtQW00VUpXS2xySHV0c0F2amRTMXdjUnhRV0tGZ1VKc1J1ZzNUSldaZUxoc3lZaktIUHM3cXFxSlBfYVZMd2hsZUtzb3ZMNEFfekx6NWVYRmdPQlJEd05Ja3ZzaVBsMGowYlc5UkhpcTNVbEVtcnNudk1fYVVVVi1DMVp6eGFnaTlOaEVkMGJRdjFyUExkeG5n0gHeAUFVX3lxTFBndHlRZFJwN2MtRGtrS1Z3QUFYV1B6eVFaSGJjTVJJV01fMVhFUi1FcDlOeC1SbFJSQjBDRGRtN0psTlZWNXBDUll3LXBIQWh1RWUyMHhycXdtMzdaUnpocGdjb1BVQUZkaGN3SS03N29UY0lCZ1lBQ3lqQWNXTUNTbzZOZHc3R3VFVVVQRWtqSVhCYUhvUmR6UF91WEkwXzU0Q3ExZWNfXzJ4V0cxWlo1OTlvMFBCR212bnhWa1JrTWRuQjl2Zk5oQ0xOQ21ablZGSmhFY0pMb3l0Y3NQUQ?oc=5
 
-- Behind India’s massive Russian oil imports: Asia’s richest man - Al Jazeera
-  <ol><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlY4VlV2NzZ2WTZWSUpFVmNfb2F0VXhnMXRuSHRBc2ppWG04OFdobVBNX2g5NHl6Y3ZaLW1SUWVubl9fMlJxdV9UUHZCNWdkOUVTZHY0R0E0a1FxRk5DR1pjeXRHM0lFZl
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlY4VlV2NzZ2WTZWSUpFVmNfb2F0VXhnMXRuSHRBc2ppWG04OFdobVBNX2g5NHl6Y3ZaLW1SUWVubl9fMlJxdV9UUHZCNWdkOUVTZHY0R0E0a1FxRk5DR1pjeXRHM0lFZlRjYVh6VndGdjNjdVd5MWVvcGVqRjVySzc4b2l1YVZYbDlfQ08zUFRqU0EzX0c4cDlSaEtFbk11cGZYNDVR0gGrAUFVX3lxTFBnOFV0THdtYUVsQXMweXo0MXYzMnRxUy1vYWk0Y1F2dE1wa0pXc1FNSnBHVkpwSmFpaGo0LXk4QmdCNnBXY2pDUlZsaGVWM1BTSk1KUHVYdFotNXdUZTI2NzE3RTBKWWpiRjMyV0lFLTdpWXVwSGtzMG5iaDVzR0hJV3BvM2hDc0pfdURpNk12NGhYSnZxNnVfMTludFZxU2hqTWlRUGlZRFZJYw?oc=5
+- "Too Much Ordering, Pressuring": Ex-US Diplomat Snubs Trump Over India Ties - NDTV
+  "Too Much Ordering, Pressuring":
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPekN1MEY0RGpLS2xVSGM2VkpZLWphMWEzdE8tMlJLWnJMTjZ6S29vUjRHTEUyMGdveWpmbFhFODk0MmdxUTNNc0RjRGRKV3ZDajNEY2MwQno2NGxKZ1pOMlo2NllfLUlnNnoxVWZiaXl0cmVCZERLQ3lhdC1XaXRCQ3RHdTg2MjA2ZFk4S29YU3ZZNkFYRkl0T09qU2RpSllzeV93YVBreXd2UEs5anpWUWUwU3NvZTlSR2pTT9IBxAFBVV95cUxQMkVoaHo4cFJ0Ul9GVDFTSWYtYkYwM2Vtc2E5WHVPX1V4c0MtbEFIbnVhWW53M0w2MWd6Sk5vbUNOWkxvU3c2V0dMdk1Nd3dKazY0dTBMWXpTa2M5ZjlXS2RDckRhTHpVYW9XTlVwQXNKLUFJY2YwWGxlUFV4dlk3LWZmeXJBVVJqajc3N3pNRDNiU2FQMk9NQ3QwYUxFWmhHNXNURy1UWFBaQXVWT2pHdGQyOFRlZDdPUUJBVURQMDJwOXNR?oc=5
 
-- India to suspend postal services to US from August 25 after Trump tariff moves | Latest News India - Hindustan Times - Hindustan Times
-  India to suspend postal services to US from August 25 after Trump tariff moves.
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3F2WXcxaTduOGt3TzFhNW1BR29uc0V4SEVuS3Q3SnN4SEJ4RGxKbGVzeTFVcnI5TnU2Z3ZWWTZuVTZScVk2dEhULWFCWER1OFVoNEJLSG5uT1l2R3I3aWZBb3BFcGtoTDg5dkhzNE5JMEJWTmF0MXZncEdhSlpGaDk5QUpOVHc2dWNKcl9FV1ZnLThSMHRYUkJMdzBCcGM2a1phQ3hGVGR3Wm5zamlVV3Bnbng3Z25xZS1hR1VubWx0OG5xLUpXYlVla0_SAdIBQVVfeXFMT2NtS1A0Z1NvOEJ1OGlmMkNtZWpFVDgwcXE0Mmlpdng4ZVlCWVpuOUJKOC1xZjQ2X05xU2FnUE9icHZidTdVUkowZUpfWlREMHlweC1oRXRtVmlaSXg0amZ6LTlqZGJVT3l6NWtGWDFKWEFpUkZEb3NBRWtxXzV6TU41d2h1NHJxbUUtWkFTcThsbGdlQjdjVFRPZXpmVjdUMEVldTFsTDZqMGlnMG1pYjZpVUN1d05KQ2toX0pIUFZ4WGRqdVV3UEE0NV9PUG1UdFZB?oc=5
+- 'To counter China...': Nikki Haley warns Trump against alienating India | Latest News India - Hindustan Times - Hindustan Times
+  'To counter China...': Nikki Haley warns Trump against alienating India.
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGFZTVR4LXNmNXZRRVhoZ2tPUWxoOWxHRGVra2poS1Npd1Y3ckU3SXBwMW40empZbzJxZW85MU5fSFJNTEMwUWRtQmFqc2VBVTVSLVpQcXEyYy1HZG9CLUI4UnFtaEhsOTFabTFlS1lnVUxESENrajFjam1JZzJqSExDXzZzekJEZ001VWQ3bE10dE5SQ1hBclA5T19fT3F0Yk1TTXRvTEdXLVc1aE1KaEIzLUpEZUlDTkUyaGRfWms3RWswcXIw0gHMAUFVX3lxTE16Nk1FcjlxUlljdmpkUHFCVzk4bUhTTTVhM0lXbmdMd1ZfT08wZXZGNWdOQ3dDb2tjWnV4WDk4dnYxd01hMGQ5cUhvM21ad1FWQUg0WHAySnBjbFRvb0I1c1RVQTZTc1hfWWpOSTBMMGY5ME9KeUxqZ0g4Mm9XR0lMZW9qZGY2RTZYZG52M180SzlfbkRxTENVek42NkFwREZmVURkblJYSmFKUllJeVUwb2dkeHdtS2hUR1V6MVo5WndJSHlRb3VKX0FiYQ?oc=5
 
-- Amid new rules, India 'temporarily suspends' postal services to US - Times of India
-  India 'temporarily suspends' postal services
+- Amid new rules, India 'temporarily suspends' postal services to US - The Times of India
+  The Times of India reports that India has suspended postal services
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnJDamwwaHlIWFlrb25aNGd4Mm9IV3NPWGRhRGk5d2hPYktMWXozUkVHYmlFMDRfLVJraGlacDNuQl9kS3N3N2lDTnpYRkVTVVpUaUF0Rk12Vks3NkFBZjVFZ3IwbTkzbTVPc2tkcmtWQWNyZmZwQnFkc2NrblF6dE83ZW05Z0FleE9rOU1MaWo1aWZldGJqcU1aX2NDZG9NOXJUOVJ5VTItVy1tY2N3b1dIaUlxVnVMOEotMzVNQzR1QlZ0WU5yeVBEb9IB0AFBVV95cUxNQWlsdXFDUi1XOVItcGg2OTlZNXJSLUNIb0tCVDNZblhsMEpZd1BrekEwRUJPUXlwckRuMG1DOVB4UE4tMGtadmlPeXEteTUzOXFLV3ZJVk1WUVN4Y0RNYXhOZG9OYlVEMWlHM2dDcE5ENDhyZnFRTFo4cjhpUnM5aWN0OWJ3M2dBWHltT3QwOVI4bGF5TE11VzkxMlpndXZUakxzVWpQSmQ2N2dZVnM0emR5cGxXRWFsaFJiRF9wcXdSSVNpbjV1LWkxYjJUeHV1?oc=5
 
 - India To Temporarily Stop Postal Services To US From August 25 - NDTV
   India To Temporarily Stop Postal Services To
   🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVJFWlVieF8wTHUzZ2g2QnRvdFpKbDBOY3B0TV9aWTJPRU9CbHlXX1BfeTh5anpvMU56dld5Z0VlRDFuY0xqNDlUWlFNQ00xTVR4cllTMHFMUElIZVZzZHZEaWxjUkx2SWRzWk1GbncxOS1SUUFWVElUeEJiQ0dBcVhwbnZkemkyTEJXUWhfc2hKcV9aX3RFTXFTdmZyNHN0RllneDVzQWhjS2tQT3QtRE9yaDNIcGN4RUJweE05dkhnRUgxQnhSMXdoMFFlRThpUC1lVHdFV0Fxcnh50gHkAUFVX3lxTE8xWHlpWEY3Vm0wS1JxaVZsWnBfUnRXb0ZrZi1Hc3QzUUFHVC02Y1ZwWVptOXRRRHVUYWlHQkl0RExJTmZBY2tabzB5Tl9BbC1fNFlVYU0wNHJfMnZsWEViYWdoME1uOW03ZGEzcm5vN3Qya0hRa1lYN2FadE1nRG9fcWVMaEt0UE5IMXNPVW5TV1p0TlplN0s0dkxJRFVjampnRmJvNTA0VEFpOFgxRUxocEhsWlFVZmI0NlF5TldJblBSNHFHcEg5LVpPTzg4bHdnQkRVXzVSV29JZzU4WEo3dWVFaQ?oc=5
 
-- India conducts maiden flight tests of integrated air defence system - The Indian Express
-  India conducts maiden flight tests of integrated air defence system
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUjBhWDJQSmdXM3RGeS1rY294RHlocVFSN1R5SG1hRDJkQW1ZOXpKZXZ5N3dJQkJvclhYWTltUUYzdWMxUDZlNkpodVpHVDhVMnlyTFdKS3JHcG1WbV9mcWtJWWxFdUc1NjYzVHNjaWcwTzZTUzhoUzdhV3hTQ1Z3VWc4UTRfdUEzWU9CdklnVEFuT0t4Qkl2d3Ixck1fOVVqdlRjSWI0bE7SAa8BQVVfeXFMTmV6WlByV3otcXppQXNYWXZjNWxOWmEtUVNPWHpkcEtxQUtEYVdjb2tYNy13Q1RmQTF4LW1xR2F2Tko3WnlUWjJGbFJJUXNZRUVtOWp1dWxSbWEzV3BMRmFXbEZ0c3REVXpKbXFvTWR6WE5jbS1FaUctR0xaNWdCWnpzLUhKQkMwUkN3UEd3cHpPdzRicVFvcjFuQ294NXREVG40TWc5NkF0cFpMY3FpQQ?oc=5
+- "India Must Take It Seriously": Nikki Haley's Warning On Russian Oil Imports - NDTV
+  "India Must Take It Seriously": Nikki Haley's
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYlVWanBNZUFYT1N0d3lfREhCYmszWkxrM21fTlNiV3hsWFBpcFNHdF9MbENwcjZtV0cwZkpxQldCcG9JWjdtQW00VUpXS2xySHV0c0F2amRTMXdjUnhRV0tGZ1VKc1J1ZzNUSldaZUxoc3lZaktIUHM3cXFxSlBfYVZMd2hsZUtzb3ZMNEFfekx6NWVYRmdPQlJEd05Ja3ZzaVBsMGowYlc5UkhpcTNVbEVtcnNudk1fYVVVVi1DMVp6eGFnaTlOaEVkMGJRdjFyUExkeG5n0gHeAUFVX3lxTFBndHlRZFJwN2MtRGtrS1Z3QUFYV1B6eVFaSGJjTVJJV01fMVhFUi1FcDlOeC1SbFJSQjBDRGRtN0psTlZWNXBDUll3LXBIQWh1RWUyMHhycXdtMzdaUnpocGdjb1BVQUZkaGN3SS03N29UY0lCZ1lBQ3lqQWNXTUNTbzZOZHc3R3VFVVVQRWtqSVhCYUhvUmR6UF91WEkwXzU0Q3ExZWNfXzJ4V0cxWlo1OTlvMFBCR212bnhWa1JrTWRuQjl2Zk5oQ0xOQ21ablZGSmhFY0pMb3l0Y3NQUQ?oc=5
 
-- Behind India’s massive Russian oil imports: Asia’s richest man - Al Jazeera
-  <ol><li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlY4VlV2NzZ2WTZWSUpFVmNfb2F0VXhnMXRuSHRBc2ppWG04OFdobVBNX2g5NHl6Y3ZaLW1SUWVubl9fMlJxdV9UUHZCNWdkOUVTZHY0R0E0a1FxRk5DR1pjeXRHM0lFZl
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlY4VlV2NzZ2WTZWSUpFVmNfb2F0VXhnMXRuSHRBc2ppWG04OFdobVBNX2g5NHl6Y3ZaLW1SUWVubl9fMlJxdV9UUHZCNWdkOUVTZHY0R0E0a1FxRk5DR1pjeXRHM0lFZlRjYVh6VndGdjNjdVd5MWVvcGVqRjVySzc4b2l1YVZYbDlfQ08zUFRqU0EzX0c4cDlSaEtFbk11cGZYNDVR0gGrAUFVX3lxTFBnOFV0THdtYUVsQXMweXo0MXYzMnRxUy1vYWk0Y1F2dE1wa0pXc1FNSnBHVkpwSmFpaGo0LXk4QmdCNnBXY2pDUlZsaGVWM1BTSk1KUHVYdFotNXdUZTI2NzE3RTBKWWpiRjMyV0lFLTdpWXVwSGtzMG5iaDVzR0hJV3BvM2hDc0pfdURpNk12NGhYSnZxNnVfMTludFZxU2hqTWlRUGlZRFZJYw?oc=5
+- "Too Much Ordering, Pressuring": Ex-US Diplomat Snubs Trump Over India Ties - NDTV
+  "Too Much Ordering, Pressuring":
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPekN1MEY0RGpLS2xVSGM2VkpZLWphMWEzdE8tMlJLWnJMTjZ6S29vUjRHTEUyMGdveWpmbFhFODk0MmdxUTNNc0RjRGRKV3ZDajNEY2MwQno2NGxKZ1pOMlo2NllfLUlnNnoxVWZiaXl0cmVCZERLQ3lhdC1XaXRCQ3RHdTg2MjA2ZFk4S29YU3ZZNkFYRkl0T09qU2RpSllzeV93YVBreXd2UEs5anpWUWUwU3NvZTlSR2pTT9IBxAFBVV95cUxQMkVoaHo4cFJ0Ul9GVDFTSWYtYkYwM2Vtc2E5WHVPX1V4c0MtbEFIbnVhWW53M0w2MWd6Sk5vbUNOWkxvU3c2V0dMdk1Nd3dKazY0dTBMWXpTa2M5ZjlXS2RDckRhTHpVYW9XTlVwQXNKLUFJY2YwWGxlUFV4dlk3LWZmeXJBVVJqajc3N3pNRDNiU2FQMk9NQ3QwYUxFWmhHNXNURy1UWFBaQXVWT2pHdGQyOFRlZDdPUUJBVURQMDJwOXNR?oc=5
 
-- India to suspend postal services to US from August 25 after Trump tariff moves | Latest News India - Hindustan Times - Hindustan Times
-  India to suspend postal services to US from August 25 after Trump tariff moves.
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3F2WXcxaTduOGt3TzFhNW1BR29uc0V4SEVuS3Q3SnN4SEJ4RGxKbGVzeTFVcnI5TnU2Z3ZWWTZuVTZScVk2dEhULWFCWER1OFVoNEJLSG5uT1l2R3I3aWZBb3BFcGtoTDg5dkhzNE5JMEJWTmF0MXZncEdhSlpGaDk5QUpOVHc2dWNKcl9FV1ZnLThSMHRYUkJMdzBCcGM2a1phQ3hGVGR3Wm5zamlVV3Bnbng3Z25xZS1hR1VubWx0OG5xLUpXYlVla0_SAdIBQVVfeXFMT2NtS1A0Z1NvOEJ1OGlmMkNtZWpFVDgwcXE0Mmlpdng4ZVlCWVpuOUJKOC1xZjQ2X05xU2FnUE9icHZidTdVUkowZUpfWlREMHlweC1oRXRtVmlaSXg0amZ6LTlqZGJVT3l6NWtGWDFKWEFpUkZEb3NBRWtxXzV6TU41d2h1NHJxbUUtWkFTcThsbGdlQjdjVFRPZXpmVjdUMEVldTFsTDZqMGlnMG1pYjZpVUN1d05KQ2toX0pIUFZ4WGRqdVV3UEE0NV9PUG1UdFZB?oc=5
+- 'To counter China...': Nikki Haley warns Trump against alienating India | Latest News India - Hindustan Times - Hindustan Times
+  'To counter China...': Nikki Haley warns Trump against alienating India.
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGFZTVR4LXNmNXZRRVhoZ2tPUWxoOWxHRGVra2poS1Npd1Y3ckU3SXBwMW40empZbzJxZW85MU5fSFJNTEMwUWRtQmFqc2VBVTVSLVpQcXEyYy1HZG9CLUI4UnFtaEhsOTFabTFlS1lnVUxESENrajFjam1JZzJqSExDXzZzekJEZ001VWQ3bE10dE5SQ1hBclA5T19fT3F0Yk1TTXRvTEdXLVc1aE1KaEIzLUpEZUlDTkUyaGRfWms3RWswcXIw0gHMAUFVX3lxTE16Nk1FcjlxUlljdmpkUHFCVzk4bUhTTTVhM0lXbmdMd1ZfT08wZXZGNWdOQ3dDb2tjWnV4WDk4dnYxd01hMGQ5cUhvM21ad1FWQUg0WHAySnBjbFRvb0I1c1RVQTZTc1hfWWpOSTBMMGY5ME9KeUxqZ0g4Mm9XR0lMZW9qZGY2RTZYZG52M180SzlfbkRxTENVek42NkFwREZmVURkblJYSmFKUllJeVUwb2dkeHdtS2hUR1V6MVo5WndJSHlRb3VKX0FiYQ?oc=5
 
-- Amid new rules, India 'temporarily suspends' postal services to US - Times of India
-  India 'temporarily suspends' postal services
+- Amid new rules, India 'temporarily suspends' postal services to US - The Times of India
+  The Times of India reports that India has suspended postal services
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnJDamwwaHlIWFlrb25aNGd4Mm9IV3NPWGRhRGk5d2hPYktMWXozUkVHYmlFMDRfLVJraGlacDNuQl9kS3N3N2lDTnpYRkVTVVpUaUF0Rk12Vks3NkFBZjVFZ3IwbTkzbTVPc2tkcmtWQWNyZmZwQnFkc2NrblF6dE83ZW05Z0FleE9rOU1MaWo1aWZldGJqcU1aX2NDZG9NOXJUOVJ5VTItVy1tY2N3b1dIaUlxVnVMOEotMzVNQzR1QlZ0WU5yeVBEb9IB0AFBVV95cUxNQWlsdXFDUi1XOVItcGg2OTlZNXJSLUNIb0tCVDNZblhsMEpZd1BrekEwRUJPUXlwckRuMG1DOVB4UE4tMGtadmlPeXEteTUzOXFLV3ZJVk1WUVN4Y0RNYXhOZG9OYlVEMWlHM2dDcE5ENDhyZnFRTFo4cjhpUnM5aWN0OWJ3M2dBWHltT3QwOVI4bGF5TE11VzkxMlpndXZUakxzVWpQSmQ2N2dZVnM0emR5cGxXRWFsaFJiRF9wcXdSSVNpbjV1LWkxYjJUeHV1?oc=5
 
 - India To Temporarily Stop Postal Services To US From August 25 - NDTV
   India To Temporarily Stop Postal Services To
   🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVJFWlVieF8wTHUzZ2g2QnRvdFpKbDBOY3B0TV9aWTJPRU9CbHlXX1BfeTh5anpvMU56dld5Z0VlRDFuY0xqNDlUWlFNQ00xTVR4cllTMHFMUElIZVZzZHZEaWxjUkx2SWRzWk1GbncxOS1SUUFWVElUeEJiQ0dBcVhwbnZkemkyTEJXUWhfc2hKcV9aX3RFTXFTdmZyNHN0RllneDVzQWhjS2tQT3QtRE9yaDNIcGN4RUJweE05dkhnRUgxQnhSMXdoMFFlRThpUC1lVHdFV0Fxcnh50gHkAUFVX3lxTE8xWHlpWEY3Vm0wS1JxaVZsWnBfUnRXb0ZrZi1Hc3QzUUFHVC02Y1ZwWVptOXRRRHVUYWlHQkl0RExJTmZBY2tabzB5Tl9BbC1fNFlVYU0wNHJfMnZsWEViYWdoME1uOW03ZGEzcm5vN3Qya0hRa1lYN2FadE1nRG9fcWVMaEt0UE5IMXNPVW5TV1p0TlplN0s0dkxJRFVjampnRmJvNTA0VEFpOFgxRUxocEhsWlFVZmI0NlF5TldJblBSNHFHcEg5LVpPTzg4bHdnQkRVXzVSV29JZzU4WEo3dWVFaQ?oc=5
-
-- India conducts maiden flight tests of integrated air defence system - The Indian Express
-  India conducts maiden flight tests of integrated air defence system
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUjBhWDJQSmdXM3RGeS1rY294RHlocVFSN1R5SG1hRDJkQW1ZOXpKZXZ5N3dJQkJvclhYWTltUUYzdWMxUDZlNkpodVpHVDhVMnlyTFdKS3JHcG1WbV9mcWtJWWxFdUc1NjYzVHNjaWcwTzZTUzhoUzdhV3hTQ1Z3VWc4UTRfdUEzWU9CdklnVEFuT0t4Qkl2d3Ixck1fOVVqdlRjSWI0bE7SAa8BQVVfeXFMTmV6WlByV3otcXppQXNYWXZjNWxOWmEtUVNPWHpkcEtxQUtEYVdjb2tYNy13Q1RmQTF4LW1xR2F2Tko3WnlUWjJGbFJJUXNZRUVtOWp1dWxSbWEzV3BMRmFXbEZ0c3REVXpKbXFvTWR6WE5jbS1FaUctR0xaNWdCWnpzLUhKQkMwUkN3UEd3cHpPdzRicVFvcjFuQ294NXREVG40TWc5NkF0cFpMY3FpQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-08-24 06:25:59 UTC_
+_Last updated: 2025-08-24 12:31:52 UTC_
