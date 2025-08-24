@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- IRCTC ticket booking: Indian Railways boarding station change rules you must know before travelling
+- ‘Talks are on with his father’: Rahul Gandhi jokes with Tejashwi Yadav about marriage, 2 years after Lalu Prasad’s nudge
   
-  🔗 https://indianexpress.com/article/india/irctc-ticket-booking-boarding-station-railway-change-rules-you-must-know-10208381/
+  🔗 https://indianexpress.com/article/india/talks-are-on-rahul-gandhi-jokes-tejashwi-ydav-about-marriage-lalu-prasad-nudge-10208885/
 
-- These five Vande Bharat Express trains run at 130 kmph speed on entire route – full list
+- Heavy rain leads to cancelled exams, closed schools and disrupted traffic across Jammu
   
-  🔗 https://indianexpress.com/article/india/these-five-vande-bharat-express-trains-run-at-130-kmph-speed-on-entire-route-full-list-10207129/
+  🔗 https://indianexpress.com/article/india/heavy-rain-cancelled-exams-schools-closed-traffic-jammu-10208965/
 
-- Extradited from Azerbaijan, gangster Mayank Singh sent to judicial custody by Jharkhand court
+- No riverbed mining nod without sand replenishment study: SC
   
-  🔗 https://indianexpress.com/article/india/extradited-azerbaijan-gangster-mayank-singh-jharkhand-court-10208353/
+  🔗 https://indianexpress.com/article/india/riverbed-mining-nod-sand-replenishment-study-supreme-court-10208938/
 
-- ‘Didn’t think will fly to space’: Astronaut Shubhanshu Shukla at IAF event
+- Bad weather in Guwahati, aircraft carrying Assam CM Himanta Biswa Sarma makes emergency landing at Agartala airport
   
-  🔗 https://indianexpress.com/article/india/astronaut-shubhanshu-shukla-iaf-event-felicitation-rajnath-singh-10208275/
+  🔗 https://indianexpress.com/article/india/bad-weather-in-guwahati-aircraft-carrying-assam-cm-himanta-biswa-sarma-makes-emergency-landing-at-agartala-airport-10208823/
 
-- Rahul Gandhi, Tejashwi Yadav ride motorcycles during ‘Voter Adhikar Yatra’ in Bihar’s Araria
+- J-K junior engineer exam cancelled citing ‘weather’ amid paper leak claims
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-tejashwi-yadav-ride-motorcycles-during-voter-adhikar-yatra-bihar-10208239/
+  🔗 https://indianexpress.com/article/india/jammu-and-kashmir-junior-engineer-exam-cancelled-weather-paper-leak-clams-10208850/
 
 - Under a thousand: A full sized, yet portable keyboard for not too much
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/huawei-mate-xt-worlds-first-tri-fold-smartphone-10207938/
 
+- EU’s Von der Leyen Defends ‘Strong, If Not Perfect’ Trade Deal
+  European Commission President Ursula von der Leyen defended the bloc’s trade deal with the US. She said
+  🔗 https://www.livemint.com/companies/news/eus-von-der-leyen-defends-strong-if-not-perfect-trade-deal-11756056095817.html
+
+- Coca-Cola in talks with bankers to explore sale of Costa Coffee brand: Report
+  Coca-Cola in talks with bankers and investors to explore sale of Costa Coffee brand. As per the media reports an indicative offer was supposed to finalise by
+  🔗 https://www.livemint.com/companies/news/cocacola-in-talks-with-bankers-to-explore-sale-of-costa-coffee-brand-report-11756052915921.html
+
+- Early investors pile into Q-commerce, AI despite risks: RTP Global’s Nishit Garg
+  Early-stage investors are seeking greater ownership early in hype sectors like quick commerce and AI, anticipating future dilution. With bigger cheques and higher stakes, these investors are diving in early
+  🔗 https://www.livemint.com/companies/start-ups/early-investors-pile-into-q-commerce-ai-despite-risks-rtp-global-s-nishit-garg-trupeer-ai-kluisz-ai-firstclub-ecommerce-11756019052445.html
+
 - Radisson eyes 500 hotels in India by 2030: EVP González
   India is now Radisson’s second-most important market after China
   🔗 https://www.livemint.com/companies/news/radisson-hotel-group-franchised-hotels-hospitality-jin-jiang-international-radisson-blu-11756017559903.html
@@ -48,17 +60,13 @@
   Foxconn has reportedly recalled around 300 Chinese engineers from its Indian factory. The move follows recent Chinese government directives aimed at limiting technology transfers.
   🔗 https://www.livemint.com/companies/news/foxconn-recalls-300-chinese-engineers-tamil-nadu-yuzhan-plant-how-much-impact-apple-iphone-expansion-plans-tech-transfer-11756032428408.html
 
-- China has agreed in principle to resume trade with India through Shipki-La in Kinnaur: Himachal govt
-  China has agreed in principle to resume trade with India through
-  🔗 https://www.livemint.com/companies/news/china-has-agreed-in-principle-to-resume-trade-with-india-through-shipki-la-in-kinnaur-himachal-govt-11756031636644.html
+- Wall Street week ahead: Spotlight on Nvidia earnings, Q2 GDP, PCE inflation
+  Market participants will monitor the key US economic data. First revision for second quarter Gross Domestic Product (GDP) growth. Consumer sentiment, and the Federal Reserve's preferred inflation
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-spotlight-on-nvidia-earnings-q2-gdp-pce-inflation-11756056302688.html
 
-- Azure Power halts search for JV partner in Rajasthan solar power project
-  Azure Power has paused plans to bring in a joint venture partner for its 950 MW Rajasthan solar portfolio. The move comes amid management churn and a class-action settlement in the
-  🔗 https://www.livemint.com/companies/azure-power-halts-rajasthan-solar-project-jv-partner-search-11756004589752.html
-
-- Snowflake doubling down on investments in India; sees massive headroom to expand: MD
-  Snowflake views India as a ‘land of opportunities’ for data and AI. It is significantly increasing its investments in the country
-  🔗 https://www.livemint.com/companies/news/snowflake-doubling-down-investments-india-massive-headroom-to-expand-md-ai-cloud-data-business-news-11756027804143.html
+- Financials to Real Estate: Here's what LGT Wealth's Lokapriya expects for Indian stock market
+  LGT Wealth's Chakri Lokapriya explains what's in focus for the Indian stock market investors and how the sectors are performing.
+  🔗 https://www.livemint.com/market/stock-market-news/financials-to-real-estate-heres-what-lgt-wealths-lokapriya-expects-for-indian-stock-market-11756037790542.html
 
 - Upcoming IPO: Molbio Diagnostics files draft papers with Sebi to raise funds via public issue
   The IPO will include a fresh issue of equity shares worth up to  ₹200 crore and an offer-for-sale (OFS) of
@@ -71,14 +79,6 @@
 - Small-cap stock under  ₹15 to be in focus on Monday; here's why
   Small-cap stock has rallied as much as 21.40 per cent in past five trading sessions. Osia Hyper Retail
   🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-15-to-be-in-focus-on-monday-heres-why-11756017320786.html
-
-- SIP stocks to buy for long-term: Ashok Leyland to BoB — SMC expert recommends buying these 5 shares
-  Market experts recommended that investors should focus on select stocks and continue accumulating during significant market dips. They also suggested that investing through SIPs could be a smart approach in the current
-  🔗 https://www.livemint.com/market/stock-market-news/sip-stocks-to-buy-for-long-term-ashok-leyland-to-bob-smc-expert-recommends-buying-these-5-shares-11756015328988.html
-
-- Dividend Stocks: Vedanta, Gillette, others to trade ex-dividend; HDFC Bank to trade ex-bonus this week | Check full list
-  Several companies, including Vedanta, Gillette, and Bajaj Steel
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-vedanta-gillette-others-to-trade-ex-dividend-hdfc-bank-to-trade-ex-bonus-this-week-check-full-list-11756007239242.html
 
 - ‘Investing in OpenAI is high risk’: ChatGPT maker issues stark warning to investors
   OpenAI has cautioned investors about potential losses in a post-AG
@@ -99,6 +99,26 @@
 - Godfather of AI warns AI systems are turning into ‘alien beings’ that may one day take control of the world
   Geoffrey Hinton, known as the Godfather of AI, warns about the dangers of artificial intelligence. He calls for immediate research to
   🔗 https://www.livemint.com/technology/tech-news/godfather-of-ai-geoffrey-hinton-warns-ai-systems-are-alien-beings-that-may-one-day-take-control-chatgpt-ge-11756009817654.html
+
+- Stock market outlook: How will Nifty50, BSE Sensex react to US Fed chair Powell's rate cut hints? What an - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiowJBVV95cUxOVzRuYTdBbk13dDRld3FBMU14N2JYTjZURjdkZVR4U1FNTnJaNXFOVThwbVdxVTNkeEtoRjd6RW16andWUnNtS1hqU25PUEpLc3RLbGVjcVB5cElWT19RbDVTRmdxU1lENV
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOVzRuYTdBbk13dDRld3FBMU14N2JYTjZURjdkZVR4U1FNTnJaNXFOVThwbVdxVTNkeEtoRjd6RW16andWUnNtS1hqU25PUEpLc3RLbGVjcVB5cElWT19RbDVTRmdxU1lENVdIVjI2czBQV2xWUUVyYjhuZVZvc3pEVlQ3ZDNvWkRvLWkxR0J2dm55X0hGU0xhNjJrbUo0UjV4Vmx1ckQxb3d5UmgxZDh1OW5RODRLZWZiODFxb3V2clhQWW1DaUlfMHJhNk9aOGtsOFJoY05abHV6RjgxZVp5d0QzajBGOHRRQjF0ZUNHbExmYWJwZHdNTUNLM0QxT1kzLU9TSTBWeVdqQ19udlBkbEZiX0dydHlZaFFrUE80MXNqX0HSAagCQVVfeXFMT0RuYTE3LVp1dTAwLTRjamdSWUItd01ROV9RQTI4SlNjaDNlVFhLaWpsaEtlcUF2N2dGNXoxUzFDc1JKUnhTdTFNWDBLY1pEOVRMWU5acFV0SmQ0aWlBQkIwXy03MGdmLW9WdGxNZ1k4YmVEdE1IOEZfOXh3SVEzdmFITnFiRTVtakctdDNsQjBMb2FzMGJJYjNTNndUMlliNWFXMkNITmZ1NERtYUJUTEdaeUtQMFNnNjV4SUxHR2JIUW9oNUR3X2l1TGE3THhfRFVRODZtZW9mMWZrQ2E0UDRUajNjUFdaemdPeWNGN3hmbHdUVHVWUlAtS3BWTUpXVGxRQU02WnI1X1FuTVZOWUp1cTNIV0xVaDBtSmg0T09xeVFjU3BVazM?oc=5
+
+- Markets News, Aug. 22, 2025: Stocks Surge After Powell Signals Possible Rate Cuts; Dow Jumps 850 Points to 1st Record Close of 2025 - Investopedia
+  Markets News, Aug. 22, 2025: Stocks Surge After Powell Signals Possible Rate Cuts
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE5NWFJYdGNCODZoRHM4RWFpX1g5NjZNaHNkaWNDRnlVdTZkSFd4eWliZXk4ZGFrZ3haSGdYRjBOUGltVXBFSzFzcWNfbktKcWQyMGF5WF9hZkxRcWtUVzlHWjdwZ3QzTmdqTmpjVG1uVQ?oc=5
+
+- Financials to Real Estate: Here's what LGT Wealth's Lokapriya expects for Indian stock market - Mint
+  " target="_blank">Financials to Real Estate
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ0lWaXE2SV83aEJhUEJwaWllYVZ4b2dZektPTlpkYVphZlVmWmY2bkVGeDNnNExwR3RGZGN4Uk1CSTNZcmpaOHZwOG5oT2ZFa3FreGVyUDh2eTVPdXFRREYzSkNHc05YcmpiTDRQNUlaTjI4blNiQkZnZ3BZU0JyN2liOUVVcnNBeW5wQUgzSGFIa1RlLXN2aXNOcXNxcDlsRHdDTFdaVG5oMjhrSkdCbXg2Z1Yza0NtS2N2U1puWkxOMS1uS0oyejlEeW8wNmdpTUF0cy1wczBKVUhKNzRSajktMHRJN0dzYVNuY0tmMnZBQdIB9wFBVV95cUxOWjh1LXBJUnRYaG5ERWpzQ2pzVlNvb2gzYXdiZ3F0YngtWWdCV3Q1VTJzMFV6ZVBCbnZESmgwbDhncUs3cVNfYjNyRXRyM0FzUGNwczBVYm5Ud0FITmZwemVqYTk1SjY0bXJsYl9GQl8ybklVaTRZcWUzV05uUjlJOVE0cTZGY3lvSHZTSVpiTmpLWHlkN3RfcGVuWndkZk1UeXFaanQ5T2JoX1pPQnI4ZVg3cE9HVjVSMHk2QVBBR0pwRkc1eGtBWUdWTFhRYXg5RE9zeFVsSnZKN2c5WElZbDQzMU9fZGl1TUpJZVFFMmNaRm0yWUpr?oc=5
+
+- Is the AI bubble about to burst – and send the stock market into freefall? | Phillip Inman - The Guardian
+  Is the AI bubble about to burst – and send the stock market into freefall?
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQejIzTS1BaHBteDE3d0pqbVhTSmxOeE1sRnlCSlJBMTlUSjJQeWwzU1FtUnB5YkFwSks4ZElCdEY1aWwzZkM1d1FHQjVYQWY3S3R0bm5WMDY2U1pwcmVFZklfR0JpMTZMTjQteUZ5VmUyOGJQSlZzZnhpMzV5bDYyeFloUHNQQTlvcDl0cDAtU25HM3N4Y25IaTg0WU5ORVJYcUdvVHhGM21MT2xoeWozN3NDYkpLNXpkaWJZenBUUQ?oc=5
+
+- Why are food markets in India so disgusting? - The Hans India
+  The Hans India is a travel and travel
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmtjY2t4QWRwX1FsQ1JOX2lTUTFqc0NRMDhvSHVTSmhJUm9zOHdfNU40MHJwUWlLQzAzYlAwaUpUQnlOUEFmNWY0LWtXdktjQnBLN3BoQkV2aF80ck0yRFFNQlJyaGpRVUpiczFvd2FmWERGV0ZZcXI5MkJZWmNhZXg2eWNhVVc1cUNFOWZkMDFxUdIBlwFBVV95cUxQWDhYM0VaN0tvQjBEeFNMUkFRZFk2MWl4d2xjVm5HdzNsNDV1c3ZabW9LSU5vclJ6X0RVeHpyV2pqY1VsQkNSRmpnVTByMnNPWFE3WjVPVVZ3SzZlejl3Vm1hQXRETlhCYUpFUXZzVTlscW9WcmlmUjBTSkRtYmlvOGZJd0kxcmtEeTlQM09MQ0FXNTQ3UTBn?oc=5
 
 - Ahead of Market: 10 things that will decide stock market action on Monday
   The Indian market ended lower, breaking a six-day winning streak. Despite global uncertainties, strong domestic indicators like record PMI and tax reliefs supported resilience.
@@ -124,81 +144,81 @@
   "India Must Take It Seriously": Nikki Haley's
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYlVWanBNZUFYT1N0d3lfREhCYmszWkxrM21fTlNiV3hsWFBpcFNHdF9MbENwcjZtV0cwZkpxQldCcG9JWjdtQW00VUpXS2xySHV0c0F2amRTMXdjUnhRV0tGZ1VKc1J1ZzNUSldaZUxoc3lZaktIUHM3cXFxSlBfYVZMd2hsZUtzb3ZMNEFfekx6NWVYRmdPQlJEd05Ja3ZzaVBsMGowYlc5UkhpcTNVbEVtcnNudk1fYVVVVi1DMVp6eGFnaTlOaEVkMGJRdjFyUExkeG5n0gHeAUFVX3lxTFBndHlRZFJwN2MtRGtrS1Z3QUFYV1B6eVFaSGJjTVJJV01fMVhFUi1FcDlOeC1SbFJSQjBDRGRtN0psTlZWNXBDUll3LXBIQWh1RWUyMHhycXdtMzdaUnpocGdjb1BVQUZkaGN3SS03N29UY0lCZ1lBQ3lqQWNXTUNTbzZOZHc3R3VFVVVQRWtqSVhCYUhvUmR6UF91WEkwXzU0Q3ExZWNfXzJ4V0cxWlo1OTlvMFBCR212bnhWa1JrTWRuQjl2Zk5oQ0xOQ21ablZGSmhFY0pMb3l0Y3NQUQ?oc=5
 
-- "Too Much Ordering, Pressuring": Ex-US Diplomat Snubs Trump Over India Ties - NDTV
-  "Too Much Ordering, Pressuring":
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPekN1MEY0RGpLS2xVSGM2VkpZLWphMWEzdE8tMlJLWnJMTjZ6S29vUjRHTEUyMGdveWpmbFhFODk0MmdxUTNNc0RjRGRKV3ZDajNEY2MwQno2NGxKZ1pOMlo2NllfLUlnNnoxVWZiaXl0cmVCZERLQ3lhdC1XaXRCQ3RHdTg2MjA2ZFk4S29YU3ZZNkFYRkl0T09qU2RpSllzeV93YVBreXd2UEs5anpWUWUwU3NvZTlSR2pTT9IBxAFBVV95cUxQMkVoaHo4cFJ0Ul9GVDFTSWYtYkYwM2Vtc2E5WHVPX1V4c0MtbEFIbnVhWW53M0w2MWd6Sk5vbUNOWkxvU3c2V0dMdk1Nd3dKazY0dTBMWXpTa2M5ZjlXS2RDckRhTHpVYW9XTlVwQXNKLUFJY2YwWGxlUFV4dlk3LWZmeXJBVVJqajc3N3pNRDNiU2FQMk9NQ3QwYUxFWmhHNXNURy1UWFBaQXVWT2pHdGQyOFRlZDdPUUJBVURQMDJwOXNR?oc=5
+- Nikki Haley asks India to take Trump’s view on Russian oil ‘seriously’ - The Hindu
+  Nikki Haley asks India to take Trump’s
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2l4ZTQ1M1ZacTk5UWhTdlBvN2x3aEo1QTJEaGJLazBWMXlOQVBVRWQwMXh3RXFVY3pCY2ZXUFJUVzI1ZkNvMTg0NXFMLURySWNiVmRMVzlGc2VwNGNsbDYyakhhSEdINk5NNlhtOHhYRU9zTVZaQ2tDOTE5ZVQ2X0cwQlpZMFA3RFFoTkctX2psQTktWTdoaWdkWWtqM0VwRENZV3l2cXJmRUFYdUxUSmV2eFJxMlR1SFdlTkZRS29Genp4LW1PM3Qxa9IB0gFBVV95cUxOakxGWGxSYnViQXBON3ZWRFE5ZXVVTEVoRy1wdnlSMjBZRm10aEZwY0szbWdCXzVneEI1VHQ5M1hHdWQ1S0lwR2RpSEZCOXFDNERWcDlIb2RZdzVQNW1SQ204Z0xwWkd6X2RBRHB5S1M2bk8tcTBRR0Y3bmJJRloyNnhPN09qWWlaNFJZbDkycjBGdFdFbG1OUkN3bWIxS0c4WjFBcWVpWE15ZEZWd1JDRzRnRXRpLVVOS1FDZDltWWxxeFQ4dG9Iam9hRk5lbFYteXc?oc=5
 
 - 'To counter China...': Nikki Haley warns Trump against alienating India | Latest News India - Hindustan Times - Hindustan Times
   'To counter China...': Nikki Haley warns Trump against alienating India.
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGFZTVR4LXNmNXZRRVhoZ2tPUWxoOWxHRGVra2poS1Npd1Y3ckU3SXBwMW40empZbzJxZW85MU5fSFJNTEMwUWRtQmFqc2VBVTVSLVpQcXEyYy1HZG9CLUI4UnFtaEhsOTFabTFlS1lnVUxESENrajFjam1JZzJqSExDXzZzekJEZ001VWQ3bE10dE5SQ1hBclA5T19fT3F0Yk1TTXRvTEdXLVc1aE1KaEIzLUpEZUlDTkUyaGRfWms3RWswcXIw0gHMAUFVX3lxTE16Nk1FcjlxUlljdmpkUHFCVzk4bUhTTTVhM0lXbmdMd1ZfT08wZXZGNWdOQ3dDb2tjWnV4WDk4dnYxd01hMGQ5cUhvM21ad1FWQUg0WHAySnBjbFRvb0I1c1RVQTZTc1hfWWpOSTBMMGY5ME9KeUxqZ0g4Mm9XR0lMZW9qZGY2RTZYZG52M180SzlfbkRxTENVek42NkFwREZmVURkblJYSmFKUllJeVUwb2dkeHdtS2hUR1V6MVo5WndJSHlRb3VKX0FiYQ?oc=5
 
-- Amid new rules, India 'temporarily suspends' postal services to US - The Times of India
-  The Times of India reports that India has suspended postal services
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnJDamwwaHlIWFlrb25aNGd4Mm9IV3NPWGRhRGk5d2hPYktMWXozUkVHYmlFMDRfLVJraGlacDNuQl9kS3N3N2lDTnpYRkVTVVpUaUF0Rk12Vks3NkFBZjVFZ3IwbTkzbTVPc2tkcmtWQWNyZmZwQnFkc2NrblF6dE83ZW05Z0FleE9rOU1MaWo1aWZldGJqcU1aX2NDZG9NOXJUOVJ5VTItVy1tY2N3b1dIaUlxVnVMOEotMzVNQzR1QlZ0WU5yeVBEb9IB0AFBVV95cUxNQWlsdXFDUi1XOVItcGg2OTlZNXJSLUNIb0tCVDNZblhsMEpZd1BrekEwRUJPUXlwckRuMG1DOVB4UE4tMGtadmlPeXEteTUzOXFLV3ZJVk1WUVN4Y0RNYXhOZG9OYlVEMWlHM2dDcE5ENDhyZnFRTFo4cjhpUnM5aWN0OWJ3M2dBWHltT3QwOVI4bGF5TE11VzkxMlpndXZUakxzVWpQSmQ2N2dZVnM0emR5cGxXRWFsaFJiRF9wcXdSSVNpbjV1LWkxYjJUeHV1?oc=5
+- Trump nominates Sergio Gor as US ambassador to India: Signals this sends, in 4 points - The Indian Express
+  Trump nominates Sergio Gor as US ambassador to India: Signals this sends
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNSmw5YUR1d2ctY3MwTkVDdTM0R21xaG4xY0FqSDZBUjhGaGJtOElQSVVzdnhpYVpKY1I0aVQwaG9uS3cxZWd5d284RUR5dkNXUkdZUlFuOU5jUjRHMTBiekFSdDFYbWxYRkdBQmdrbzF1ejFMRzJFMkx0eXd3MFVVTmhRN2ZNQm9uTWNEdFJ0TkxrY1lvMldTQ3IyREJScnVNa2JqSlY2aVVKM0FIQlFYX3EycWxTbk1KS3fSAcABQVVfeXFMTXZwaVNaZG1jeHdSS2RRSlFCZVpyWUlMc3VuenpnZjRTZ2ZPOG5yWHZKc19ic3I5T0ZDTU03aGgtbEpfNG1KVWRLN21QVWxva2Izb3A2MTZTa1RGLUp0UWxhR19GNVdyZjdTQzBaTm8tOWlQOGYzZ29PbUJnNW1fUmZ1WS1oQUs3TkJOenFSTzlNd2ZTSTNOMm51TndTVVNYNmdLNV9KbFJ5eUpPNmNQX2NwNUdRZ0FWNTYyOG02YVFL?oc=5
 
-- India To Temporarily Stop Postal Services To US From August 25 - NDTV
-  India To Temporarily Stop Postal Services To
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVJFWlVieF8wTHUzZ2g2QnRvdFpKbDBOY3B0TV9aWTJPRU9CbHlXX1BfeTh5anpvMU56dld5Z0VlRDFuY0xqNDlUWlFNQ00xTVR4cllTMHFMUElIZVZzZHZEaWxjUkx2SWRzWk1GbncxOS1SUUFWVElUeEJiQ0dBcVhwbnZkemkyTEJXUWhfc2hKcV9aX3RFTXFTdmZyNHN0RllneDVzQWhjS2tQT3QtRE9yaDNIcGN4RUJweE05dkhnRUgxQnhSMXdoMFFlRThpUC1lVHdFV0Fxcnh50gHkAUFVX3lxTE8xWHlpWEY3Vm0wS1JxaVZsWnBfUnRXb0ZrZi1Hc3QzUUFHVC02Y1ZwWVptOXRRRHVUYWlHQkl0RExJTmZBY2tabzB5Tl9BbC1fNFlVYU0wNHJfMnZsWEViYWdoME1uOW03ZGEzcm5vN3Qya0hRa1lYN2FadE1nRG9fcWVMaEt0UE5IMXNPVW5TV1p0TlplN0s0dkxJRFVjampnRmJvNTA0VEFpOFgxRUxocEhsWlFVZmI0NlF5TldJblBSNHFHcEg5LVpPTzg4bHdnQkRVXzVSV29JZzU4WEo3dWVFaQ?oc=5
+- Trump Names Close Political Aide Sergio Gor As India Ambassador - NDTV
+  The White House has named Sergio Gor as
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPSmtrLVBhZFF3cmxkOFdKSUFkYy1CSmVpSjBGbmJHNDVOYUJWSDV6eGtKcGNJTjA5VEpYbXFyOHdWQkVSQXp4VG9pRUYyS09IS0JqZVNmZU4wY19GaUh4cXRvNEVIbTctOG5VejhmcXlSSGpFbDE5TEplRzFEclYyRkh4VkdyNm1QbkZKZmQ1WmdleHZPQWZDdlFJdnNhR0JGN2t3OXg0TVNFMlRvZ1Fn0gG3AUFVX3lxTE8xNGlCZnNSMUZrZXp2ZThwSWZ1aUxfdmJsZ1BWajE2SWJyV2FPejBJeDdzSWxkSHVoN0FOWFdMYnc2ZFRtbFctRHRrX1hlRnpCTjRpUFRoMDUyMnl3VmhMVy1sWGRNVDhKRHFRV3hORjVBNlRqbVRCTHBvVURSUDNLUEJZbnBtV3pscHJEc1p6dElkZzlHMzNROXNmS2M1MmVYQlZhXzhUQXRobWZHUE5vUzlXRDlVTQ?oc=5
 
 - "India Must Take It Seriously": Nikki Haley's Warning On Russian Oil Imports - NDTV
   "India Must Take It Seriously": Nikki Haley's
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYlVWanBNZUFYT1N0d3lfREhCYmszWkxrM21fTlNiV3hsWFBpcFNHdF9MbENwcjZtV0cwZkpxQldCcG9JWjdtQW00VUpXS2xySHV0c0F2amRTMXdjUnhRV0tGZ1VKc1J1ZzNUSldaZUxoc3lZaktIUHM3cXFxSlBfYVZMd2hsZUtzb3ZMNEFfekx6NWVYRmdPQlJEd05Ja3ZzaVBsMGowYlc5UkhpcTNVbEVtcnNudk1fYVVVVi1DMVp6eGFnaTlOaEVkMGJRdjFyUExkeG5n0gHeAUFVX3lxTFBndHlRZFJwN2MtRGtrS1Z3QUFYV1B6eVFaSGJjTVJJV01fMVhFUi1FcDlOeC1SbFJSQjBDRGRtN0psTlZWNXBDUll3LXBIQWh1RWUyMHhycXdtMzdaUnpocGdjb1BVQUZkaGN3SS03N29UY0lCZ1lBQ3lqQWNXTUNTbzZOZHc3R3VFVVVQRWtqSVhCYUhvUmR6UF91WEkwXzU0Q3ExZWNfXzJ4V0cxWlo1OTlvMFBCR212bnhWa1JrTWRuQjl2Zk5oQ0xOQ21ablZGSmhFY0pMb3l0Y3NQUQ?oc=5
 
-- "Too Much Ordering, Pressuring": Ex-US Diplomat Snubs Trump Over India Ties - NDTV
-  "Too Much Ordering, Pressuring":
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPekN1MEY0RGpLS2xVSGM2VkpZLWphMWEzdE8tMlJLWnJMTjZ6S29vUjRHTEUyMGdveWpmbFhFODk0MmdxUTNNc0RjRGRKV3ZDajNEY2MwQno2NGxKZ1pOMlo2NllfLUlnNnoxVWZiaXl0cmVCZERLQ3lhdC1XaXRCQ3RHdTg2MjA2ZFk4S29YU3ZZNkFYRkl0T09qU2RpSllzeV93YVBreXd2UEs5anpWUWUwU3NvZTlSR2pTT9IBxAFBVV95cUxQMkVoaHo4cFJ0Ul9GVDFTSWYtYkYwM2Vtc2E5WHVPX1V4c0MtbEFIbnVhWW53M0w2MWd6Sk5vbUNOWkxvU3c2V0dMdk1Nd3dKazY0dTBMWXpTa2M5ZjlXS2RDckRhTHpVYW9XTlVwQXNKLUFJY2YwWGxlUFV4dlk3LWZmeXJBVVJqajc3N3pNRDNiU2FQMk9NQ3QwYUxFWmhHNXNURy1UWFBaQXVWT2pHdGQyOFRlZDdPUUJBVURQMDJwOXNR?oc=5
+- Nikki Haley asks India to take Trump’s view on Russian oil ‘seriously’ - The Hindu
+  Nikki Haley asks India to take Trump’s
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2l4ZTQ1M1ZacTk5UWhTdlBvN2x3aEo1QTJEaGJLazBWMXlOQVBVRWQwMXh3RXFVY3pCY2ZXUFJUVzI1ZkNvMTg0NXFMLURySWNiVmRMVzlGc2VwNGNsbDYyakhhSEdINk5NNlhtOHhYRU9zTVZaQ2tDOTE5ZVQ2X0cwQlpZMFA3RFFoTkctX2psQTktWTdoaWdkWWtqM0VwRENZV3l2cXJmRUFYdUxUSmV2eFJxMlR1SFdlTkZRS29Genp4LW1PM3Qxa9IB0gFBVV95cUxOakxGWGxSYnViQXBON3ZWRFE5ZXVVTEVoRy1wdnlSMjBZRm10aEZwY0szbWdCXzVneEI1VHQ5M1hHdWQ1S0lwR2RpSEZCOXFDNERWcDlIb2RZdzVQNW1SQ204Z0xwWkd6X2RBRHB5S1M2bk8tcTBRR0Y3bmJJRloyNnhPN09qWWlaNFJZbDkycjBGdFdFbG1OUkN3bWIxS0c4WjFBcWVpWE15ZEZWd1JDRzRnRXRpLVVOS1FDZDltWWxxeFQ4dG9Iam9hRk5lbFYteXc?oc=5
 
 - 'To counter China...': Nikki Haley warns Trump against alienating India | Latest News India - Hindustan Times - Hindustan Times
   'To counter China...': Nikki Haley warns Trump against alienating India.
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGFZTVR4LXNmNXZRRVhoZ2tPUWxoOWxHRGVra2poS1Npd1Y3ckU3SXBwMW40empZbzJxZW85MU5fSFJNTEMwUWRtQmFqc2VBVTVSLVpQcXEyYy1HZG9CLUI4UnFtaEhsOTFabTFlS1lnVUxESENrajFjam1JZzJqSExDXzZzekJEZ001VWQ3bE10dE5SQ1hBclA5T19fT3F0Yk1TTXRvTEdXLVc1aE1KaEIzLUpEZUlDTkUyaGRfWms3RWswcXIw0gHMAUFVX3lxTE16Nk1FcjlxUlljdmpkUHFCVzk4bUhTTTVhM0lXbmdMd1ZfT08wZXZGNWdOQ3dDb2tjWnV4WDk4dnYxd01hMGQ5cUhvM21ad1FWQUg0WHAySnBjbFRvb0I1c1RVQTZTc1hfWWpOSTBMMGY5ME9KeUxqZ0g4Mm9XR0lMZW9qZGY2RTZYZG52M180SzlfbkRxTENVek42NkFwREZmVURkblJYSmFKUllJeVUwb2dkeHdtS2hUR1V6MVo5WndJSHlRb3VKX0FiYQ?oc=5
 
-- Amid new rules, India 'temporarily suspends' postal services to US - The Times of India
-  The Times of India reports that India has suspended postal services
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnJDamwwaHlIWFlrb25aNGd4Mm9IV3NPWGRhRGk5d2hPYktMWXozUkVHYmlFMDRfLVJraGlacDNuQl9kS3N3N2lDTnpYRkVTVVpUaUF0Rk12Vks3NkFBZjVFZ3IwbTkzbTVPc2tkcmtWQWNyZmZwQnFkc2NrblF6dE83ZW05Z0FleE9rOU1MaWo1aWZldGJqcU1aX2NDZG9NOXJUOVJ5VTItVy1tY2N3b1dIaUlxVnVMOEotMzVNQzR1QlZ0WU5yeVBEb9IB0AFBVV95cUxNQWlsdXFDUi1XOVItcGg2OTlZNXJSLUNIb0tCVDNZblhsMEpZd1BrekEwRUJPUXlwckRuMG1DOVB4UE4tMGtadmlPeXEteTUzOXFLV3ZJVk1WUVN4Y0RNYXhOZG9OYlVEMWlHM2dDcE5ENDhyZnFRTFo4cjhpUnM5aWN0OWJ3M2dBWHltT3QwOVI4bGF5TE11VzkxMlpndXZUakxzVWpQSmQ2N2dZVnM0emR5cGxXRWFsaFJiRF9wcXdSSVNpbjV1LWkxYjJUeHV1?oc=5
+- Trump nominates Sergio Gor as US ambassador to India: Signals this sends, in 4 points - The Indian Express
+  Trump nominates Sergio Gor as US ambassador to India: Signals this sends
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNSmw5YUR1d2ctY3MwTkVDdTM0R21xaG4xY0FqSDZBUjhGaGJtOElQSVVzdnhpYVpKY1I0aVQwaG9uS3cxZWd5d284RUR5dkNXUkdZUlFuOU5jUjRHMTBiekFSdDFYbWxYRkdBQmdrbzF1ejFMRzJFMkx0eXd3MFVVTmhRN2ZNQm9uTWNEdFJ0TkxrY1lvMldTQ3IyREJScnVNa2JqSlY2aVVKM0FIQlFYX3EycWxTbk1KS3fSAcABQVVfeXFMTXZwaVNaZG1jeHdSS2RRSlFCZVpyWUlMc3VuenpnZjRTZ2ZPOG5yWHZKc19ic3I5T0ZDTU03aGgtbEpfNG1KVWRLN21QVWxva2Izb3A2MTZTa1RGLUp0UWxhR19GNVdyZjdTQzBaTm8tOWlQOGYzZ29PbUJnNW1fUmZ1WS1oQUs3TkJOenFSTzlNd2ZTSTNOMm51TndTVVNYNmdLNV9KbFJ5eUpPNmNQX2NwNUdRZ0FWNTYyOG02YVFL?oc=5
 
-- India To Temporarily Stop Postal Services To US From August 25 - NDTV
-  India To Temporarily Stop Postal Services To
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVJFWlVieF8wTHUzZ2g2QnRvdFpKbDBOY3B0TV9aWTJPRU9CbHlXX1BfeTh5anpvMU56dld5Z0VlRDFuY0xqNDlUWlFNQ00xTVR4cllTMHFMUElIZVZzZHZEaWxjUkx2SWRzWk1GbncxOS1SUUFWVElUeEJiQ0dBcVhwbnZkemkyTEJXUWhfc2hKcV9aX3RFTXFTdmZyNHN0RllneDVzQWhjS2tQT3QtRE9yaDNIcGN4RUJweE05dkhnRUgxQnhSMXdoMFFlRThpUC1lVHdFV0Fxcnh50gHkAUFVX3lxTE8xWHlpWEY3Vm0wS1JxaVZsWnBfUnRXb0ZrZi1Hc3QzUUFHVC02Y1ZwWVptOXRRRHVUYWlHQkl0RExJTmZBY2tabzB5Tl9BbC1fNFlVYU0wNHJfMnZsWEViYWdoME1uOW03ZGEzcm5vN3Qya0hRa1lYN2FadE1nRG9fcWVMaEt0UE5IMXNPVW5TV1p0TlplN0s0dkxJRFVjampnRmJvNTA0VEFpOFgxRUxocEhsWlFVZmI0NlF5TldJblBSNHFHcEg5LVpPTzg4bHdnQkRVXzVSV29JZzU4WEo3dWVFaQ?oc=5
+- Trump Names Close Political Aide Sergio Gor As India Ambassador - NDTV
+  The White House has named Sergio Gor as
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPSmtrLVBhZFF3cmxkOFdKSUFkYy1CSmVpSjBGbmJHNDVOYUJWSDV6eGtKcGNJTjA5VEpYbXFyOHdWQkVSQXp4VG9pRUYyS09IS0JqZVNmZU4wY19GaUh4cXRvNEVIbTctOG5VejhmcXlSSGpFbDE5TEplRzFEclYyRkh4VkdyNm1QbkZKZmQ1WmdleHZPQWZDdlFJdnNhR0JGN2t3OXg0TVNFMlRvZ1Fn0gG3AUFVX3lxTE8xNGlCZnNSMUZrZXp2ZThwSWZ1aUxfdmJsZ1BWajE2SWJyV2FPejBJeDdzSWxkSHVoN0FOWFdMYnc2ZFRtbFctRHRrX1hlRnpCTjRpUFRoMDUyMnl3VmhMVy1sWGRNVDhKRHFRV3hORjVBNlRqbVRCTHBvVURSUDNLUEJZbnBtV3pscHJEc1p6dElkZzlHMzNROXNmS2M1MmVYQlZhXzhUQXRobWZHUE5vUzlXRDlVTQ?oc=5
 
 - "India Must Take It Seriously": Nikki Haley's Warning On Russian Oil Imports - NDTV
   "India Must Take It Seriously": Nikki Haley's
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYlVWanBNZUFYT1N0d3lfREhCYmszWkxrM21fTlNiV3hsWFBpcFNHdF9MbENwcjZtV0cwZkpxQldCcG9JWjdtQW00VUpXS2xySHV0c0F2amRTMXdjUnhRV0tGZ1VKc1J1ZzNUSldaZUxoc3lZaktIUHM3cXFxSlBfYVZMd2hsZUtzb3ZMNEFfekx6NWVYRmdPQlJEd05Ja3ZzaVBsMGowYlc5UkhpcTNVbEVtcnNudk1fYVVVVi1DMVp6eGFnaTlOaEVkMGJRdjFyUExkeG5n0gHeAUFVX3lxTFBndHlRZFJwN2MtRGtrS1Z3QUFYV1B6eVFaSGJjTVJJV01fMVhFUi1FcDlOeC1SbFJSQjBDRGRtN0psTlZWNXBDUll3LXBIQWh1RWUyMHhycXdtMzdaUnpocGdjb1BVQUZkaGN3SS03N29UY0lCZ1lBQ3lqQWNXTUNTbzZOZHc3R3VFVVVQRWtqSVhCYUhvUmR6UF91WEkwXzU0Q3ExZWNfXzJ4V0cxWlo1OTlvMFBCR212bnhWa1JrTWRuQjl2Zk5oQ0xOQ21ablZGSmhFY0pMb3l0Y3NQUQ?oc=5
 
-- "Too Much Ordering, Pressuring": Ex-US Diplomat Snubs Trump Over India Ties - NDTV
-  "Too Much Ordering, Pressuring":
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPekN1MEY0RGpLS2xVSGM2VkpZLWphMWEzdE8tMlJLWnJMTjZ6S29vUjRHTEUyMGdveWpmbFhFODk0MmdxUTNNc0RjRGRKV3ZDajNEY2MwQno2NGxKZ1pOMlo2NllfLUlnNnoxVWZiaXl0cmVCZERLQ3lhdC1XaXRCQ3RHdTg2MjA2ZFk4S29YU3ZZNkFYRkl0T09qU2RpSllzeV93YVBreXd2UEs5anpWUWUwU3NvZTlSR2pTT9IBxAFBVV95cUxQMkVoaHo4cFJ0Ul9GVDFTSWYtYkYwM2Vtc2E5WHVPX1V4c0MtbEFIbnVhWW53M0w2MWd6Sk5vbUNOWkxvU3c2V0dMdk1Nd3dKazY0dTBMWXpTa2M5ZjlXS2RDckRhTHpVYW9XTlVwQXNKLUFJY2YwWGxlUFV4dlk3LWZmeXJBVVJqajc3N3pNRDNiU2FQMk9NQ3QwYUxFWmhHNXNURy1UWFBaQXVWT2pHdGQyOFRlZDdPUUJBVURQMDJwOXNR?oc=5
+- Nikki Haley asks India to take Trump’s view on Russian oil ‘seriously’ - The Hindu
+  Nikki Haley asks India to take Trump’s
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2l4ZTQ1M1ZacTk5UWhTdlBvN2x3aEo1QTJEaGJLazBWMXlOQVBVRWQwMXh3RXFVY3pCY2ZXUFJUVzI1ZkNvMTg0NXFMLURySWNiVmRMVzlGc2VwNGNsbDYyakhhSEdINk5NNlhtOHhYRU9zTVZaQ2tDOTE5ZVQ2X0cwQlpZMFA3RFFoTkctX2psQTktWTdoaWdkWWtqM0VwRENZV3l2cXJmRUFYdUxUSmV2eFJxMlR1SFdlTkZRS29Genp4LW1PM3Qxa9IB0gFBVV95cUxOakxGWGxSYnViQXBON3ZWRFE5ZXVVTEVoRy1wdnlSMjBZRm10aEZwY0szbWdCXzVneEI1VHQ5M1hHdWQ1S0lwR2RpSEZCOXFDNERWcDlIb2RZdzVQNW1SQ204Z0xwWkd6X2RBRHB5S1M2bk8tcTBRR0Y3bmJJRloyNnhPN09qWWlaNFJZbDkycjBGdFdFbG1OUkN3bWIxS0c4WjFBcWVpWE15ZEZWd1JDRzRnRXRpLVVOS1FDZDltWWxxeFQ4dG9Iam9hRk5lbFYteXc?oc=5
 
 - 'To counter China...': Nikki Haley warns Trump against alienating India | Latest News India - Hindustan Times - Hindustan Times
   'To counter China...': Nikki Haley warns Trump against alienating India.
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGFZTVR4LXNmNXZRRVhoZ2tPUWxoOWxHRGVra2poS1Npd1Y3ckU3SXBwMW40empZbzJxZW85MU5fSFJNTEMwUWRtQmFqc2VBVTVSLVpQcXEyYy1HZG9CLUI4UnFtaEhsOTFabTFlS1lnVUxESENrajFjam1JZzJqSExDXzZzekJEZ001VWQ3bE10dE5SQ1hBclA5T19fT3F0Yk1TTXRvTEdXLVc1aE1KaEIzLUpEZUlDTkUyaGRfWms3RWswcXIw0gHMAUFVX3lxTE16Nk1FcjlxUlljdmpkUHFCVzk4bUhTTTVhM0lXbmdMd1ZfT08wZXZGNWdOQ3dDb2tjWnV4WDk4dnYxd01hMGQ5cUhvM21ad1FWQUg0WHAySnBjbFRvb0I1c1RVQTZTc1hfWWpOSTBMMGY5ME9KeUxqZ0g4Mm9XR0lMZW9qZGY2RTZYZG52M180SzlfbkRxTENVek42NkFwREZmVURkblJYSmFKUllJeVUwb2dkeHdtS2hUR1V6MVo5WndJSHlRb3VKX0FiYQ?oc=5
 
-- Amid new rules, India 'temporarily suspends' postal services to US - The Times of India
-  The Times of India reports that India has suspended postal services
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnJDamwwaHlIWFlrb25aNGd4Mm9IV3NPWGRhRGk5d2hPYktMWXozUkVHYmlFMDRfLVJraGlacDNuQl9kS3N3N2lDTnpYRkVTVVpUaUF0Rk12Vks3NkFBZjVFZ3IwbTkzbTVPc2tkcmtWQWNyZmZwQnFkc2NrblF6dE83ZW05Z0FleE9rOU1MaWo1aWZldGJqcU1aX2NDZG9NOXJUOVJ5VTItVy1tY2N3b1dIaUlxVnVMOEotMzVNQzR1QlZ0WU5yeVBEb9IB0AFBVV95cUxNQWlsdXFDUi1XOVItcGg2OTlZNXJSLUNIb0tCVDNZblhsMEpZd1BrekEwRUJPUXlwckRuMG1DOVB4UE4tMGtadmlPeXEteTUzOXFLV3ZJVk1WUVN4Y0RNYXhOZG9OYlVEMWlHM2dDcE5ENDhyZnFRTFo4cjhpUnM5aWN0OWJ3M2dBWHltT3QwOVI4bGF5TE11VzkxMlpndXZUakxzVWpQSmQ2N2dZVnM0emR5cGxXRWFsaFJiRF9wcXdSSVNpbjV1LWkxYjJUeHV1?oc=5
+- Trump nominates Sergio Gor as US ambassador to India: Signals this sends, in 4 points - The Indian Express
+  Trump nominates Sergio Gor as US ambassador to India: Signals this sends
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNSmw5YUR1d2ctY3MwTkVDdTM0R21xaG4xY0FqSDZBUjhGaGJtOElQSVVzdnhpYVpKY1I0aVQwaG9uS3cxZWd5d284RUR5dkNXUkdZUlFuOU5jUjRHMTBiekFSdDFYbWxYRkdBQmdrbzF1ejFMRzJFMkx0eXd3MFVVTmhRN2ZNQm9uTWNEdFJ0TkxrY1lvMldTQ3IyREJScnVNa2JqSlY2aVVKM0FIQlFYX3EycWxTbk1KS3fSAcABQVVfeXFMTXZwaVNaZG1jeHdSS2RRSlFCZVpyWUlMc3VuenpnZjRTZ2ZPOG5yWHZKc19ic3I5T0ZDTU03aGgtbEpfNG1KVWRLN21QVWxva2Izb3A2MTZTa1RGLUp0UWxhR19GNVdyZjdTQzBaTm8tOWlQOGYzZ29PbUJnNW1fUmZ1WS1oQUs3TkJOenFSTzlNd2ZTSTNOMm51TndTVVNYNmdLNV9KbFJ5eUpPNmNQX2NwNUdRZ0FWNTYyOG02YVFL?oc=5
 
-- India To Temporarily Stop Postal Services To US From August 25 - NDTV
-  India To Temporarily Stop Postal Services To
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVJFWlVieF8wTHUzZ2g2QnRvdFpKbDBOY3B0TV9aWTJPRU9CbHlXX1BfeTh5anpvMU56dld5Z0VlRDFuY0xqNDlUWlFNQ00xTVR4cllTMHFMUElIZVZzZHZEaWxjUkx2SWRzWk1GbncxOS1SUUFWVElUeEJiQ0dBcVhwbnZkemkyTEJXUWhfc2hKcV9aX3RFTXFTdmZyNHN0RllneDVzQWhjS2tQT3QtRE9yaDNIcGN4RUJweE05dkhnRUgxQnhSMXdoMFFlRThpUC1lVHdFV0Fxcnh50gHkAUFVX3lxTE8xWHlpWEY3Vm0wS1JxaVZsWnBfUnRXb0ZrZi1Hc3QzUUFHVC02Y1ZwWVptOXRRRHVUYWlHQkl0RExJTmZBY2tabzB5Tl9BbC1fNFlVYU0wNHJfMnZsWEViYWdoME1uOW03ZGEzcm5vN3Qya0hRa1lYN2FadE1nRG9fcWVMaEt0UE5IMXNPVW5TV1p0TlplN0s0dkxJRFVjampnRmJvNTA0VEFpOFgxRUxocEhsWlFVZmI0NlF5TldJblBSNHFHcEg5LVpPTzg4bHdnQkRVXzVSV29JZzU4WEo3dWVFaQ?oc=5
+- Trump Names Close Political Aide Sergio Gor As India Ambassador - NDTV
+  The White House has named Sergio Gor as
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPSmtrLVBhZFF3cmxkOFdKSUFkYy1CSmVpSjBGbmJHNDVOYUJWSDV6eGtKcGNJTjA5VEpYbXFyOHdWQkVSQXp4VG9pRUYyS09IS0JqZVNmZU4wY19GaUh4cXRvNEVIbTctOG5VejhmcXlSSGpFbDE5TEplRzFEclYyRkh4VkdyNm1QbkZKZmQ1WmdleHZPQWZDdlFJdnNhR0JGN2t3OXg0TVNFMlRvZ1Fn0gG3AUFVX3lxTE8xNGlCZnNSMUZrZXp2ZThwSWZ1aUxfdmJsZ1BWajE2SWJyV2FPejBJeDdzSWxkSHVoN0FOWFdMYnc2ZFRtbFctRHRrX1hlRnpCTjRpUFRoMDUyMnl3VmhMVy1sWGRNVDhKRHFRV3hORjVBNlRqbVRCTHBvVURSUDNLUEJZbnBtV3pscHJEc1p6dElkZzlHMzNROXNmS2M1MmVYQlZhXzhUQXRobWZHUE5vUzlXRDlVTQ?oc=5
 
 - "India Must Take It Seriously": Nikki Haley's Warning On Russian Oil Imports - NDTV
   "India Must Take It Seriously": Nikki Haley's
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYlVWanBNZUFYT1N0d3lfREhCYmszWkxrM21fTlNiV3hsWFBpcFNHdF9MbENwcjZtV0cwZkpxQldCcG9JWjdtQW00VUpXS2xySHV0c0F2amRTMXdjUnhRV0tGZ1VKc1J1ZzNUSldaZUxoc3lZaktIUHM3cXFxSlBfYVZMd2hsZUtzb3ZMNEFfekx6NWVYRmdPQlJEd05Ja3ZzaVBsMGowYlc5UkhpcTNVbEVtcnNudk1fYVVVVi1DMVp6eGFnaTlOaEVkMGJRdjFyUExkeG5n0gHeAUFVX3lxTFBndHlRZFJwN2MtRGtrS1Z3QUFYV1B6eVFaSGJjTVJJV01fMVhFUi1FcDlOeC1SbFJSQjBDRGRtN0psTlZWNXBDUll3LXBIQWh1RWUyMHhycXdtMzdaUnpocGdjb1BVQUZkaGN3SS03N29UY0lCZ1lBQ3lqQWNXTUNTbzZOZHc3R3VFVVVQRWtqSVhCYUhvUmR6UF91WEkwXzU0Q3ExZWNfXzJ4V0cxWlo1OTlvMFBCR212bnhWa1JrTWRuQjl2Zk5oQ0xOQ21ablZGSmhFY0pMb3l0Y3NQUQ?oc=5
 
-- "Too Much Ordering, Pressuring": Ex-US Diplomat Snubs Trump Over India Ties - NDTV
-  "Too Much Ordering, Pressuring":
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPekN1MEY0RGpLS2xVSGM2VkpZLWphMWEzdE8tMlJLWnJMTjZ6S29vUjRHTEUyMGdveWpmbFhFODk0MmdxUTNNc0RjRGRKV3ZDajNEY2MwQno2NGxKZ1pOMlo2NllfLUlnNnoxVWZiaXl0cmVCZERLQ3lhdC1XaXRCQ3RHdTg2MjA2ZFk4S29YU3ZZNkFYRkl0T09qU2RpSllzeV93YVBreXd2UEs5anpWUWUwU3NvZTlSR2pTT9IBxAFBVV95cUxQMkVoaHo4cFJ0Ul9GVDFTSWYtYkYwM2Vtc2E5WHVPX1V4c0MtbEFIbnVhWW53M0w2MWd6Sk5vbUNOWkxvU3c2V0dMdk1Nd3dKazY0dTBMWXpTa2M5ZjlXS2RDckRhTHpVYW9XTlVwQXNKLUFJY2YwWGxlUFV4dlk3LWZmeXJBVVJqajc3N3pNRDNiU2FQMk9NQ3QwYUxFWmhHNXNURy1UWFBaQXVWT2pHdGQyOFRlZDdPUUJBVURQMDJwOXNR?oc=5
+- Nikki Haley asks India to take Trump’s view on Russian oil ‘seriously’ - The Hindu
+  Nikki Haley asks India to take Trump’s
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2l4ZTQ1M1ZacTk5UWhTdlBvN2x3aEo1QTJEaGJLazBWMXlOQVBVRWQwMXh3RXFVY3pCY2ZXUFJUVzI1ZkNvMTg0NXFMLURySWNiVmRMVzlGc2VwNGNsbDYyakhhSEdINk5NNlhtOHhYRU9zTVZaQ2tDOTE5ZVQ2X0cwQlpZMFA3RFFoTkctX2psQTktWTdoaWdkWWtqM0VwRENZV3l2cXJmRUFYdUxUSmV2eFJxMlR1SFdlTkZRS29Genp4LW1PM3Qxa9IB0gFBVV95cUxOakxGWGxSYnViQXBON3ZWRFE5ZXVVTEVoRy1wdnlSMjBZRm10aEZwY0szbWdCXzVneEI1VHQ5M1hHdWQ1S0lwR2RpSEZCOXFDNERWcDlIb2RZdzVQNW1SQ204Z0xwWkd6X2RBRHB5S1M2bk8tcTBRR0Y3bmJJRloyNnhPN09qWWlaNFJZbDkycjBGdFdFbG1OUkN3bWIxS0c4WjFBcWVpWE15ZEZWd1JDRzRnRXRpLVVOS1FDZDltWWxxeFQ4dG9Iam9hRk5lbFYteXc?oc=5
 
 - 'To counter China...': Nikki Haley warns Trump against alienating India | Latest News India - Hindustan Times - Hindustan Times
   'To counter China...': Nikki Haley warns Trump against alienating India.
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGFZTVR4LXNmNXZRRVhoZ2tPUWxoOWxHRGVra2poS1Npd1Y3ckU3SXBwMW40empZbzJxZW85MU5fSFJNTEMwUWRtQmFqc2VBVTVSLVpQcXEyYy1HZG9CLUI4UnFtaEhsOTFabTFlS1lnVUxESENrajFjam1JZzJqSExDXzZzekJEZ001VWQ3bE10dE5SQ1hBclA5T19fT3F0Yk1TTXRvTEdXLVc1aE1KaEIzLUpEZUlDTkUyaGRfWms3RWswcXIw0gHMAUFVX3lxTE16Nk1FcjlxUlljdmpkUHFCVzk4bUhTTTVhM0lXbmdMd1ZfT08wZXZGNWdOQ3dDb2tjWnV4WDk4dnYxd01hMGQ5cUhvM21ad1FWQUg0WHAySnBjbFRvb0I1c1RVQTZTc1hfWWpOSTBMMGY5ME9KeUxqZ0g4Mm9XR0lMZW9qZGY2RTZYZG52M180SzlfbkRxTENVek42NkFwREZmVURkblJYSmFKUllJeVUwb2dkeHdtS2hUR1V6MVo5WndJSHlRb3VKX0FiYQ?oc=5
 
-- Amid new rules, India 'temporarily suspends' postal services to US - The Times of India
-  The Times of India reports that India has suspended postal services
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnJDamwwaHlIWFlrb25aNGd4Mm9IV3NPWGRhRGk5d2hPYktMWXozUkVHYmlFMDRfLVJraGlacDNuQl9kS3N3N2lDTnpYRkVTVVpUaUF0Rk12Vks3NkFBZjVFZ3IwbTkzbTVPc2tkcmtWQWNyZmZwQnFkc2NrblF6dE83ZW05Z0FleE9rOU1MaWo1aWZldGJqcU1aX2NDZG9NOXJUOVJ5VTItVy1tY2N3b1dIaUlxVnVMOEotMzVNQzR1QlZ0WU5yeVBEb9IB0AFBVV95cUxNQWlsdXFDUi1XOVItcGg2OTlZNXJSLUNIb0tCVDNZblhsMEpZd1BrekEwRUJPUXlwckRuMG1DOVB4UE4tMGtadmlPeXEteTUzOXFLV3ZJVk1WUVN4Y0RNYXhOZG9OYlVEMWlHM2dDcE5ENDhyZnFRTFo4cjhpUnM5aWN0OWJ3M2dBWHltT3QwOVI4bGF5TE11VzkxMlpndXZUakxzVWpQSmQ2N2dZVnM0emR5cGxXRWFsaFJiRF9wcXdSSVNpbjV1LWkxYjJUeHV1?oc=5
+- Trump nominates Sergio Gor as US ambassador to India: Signals this sends, in 4 points - The Indian Express
+  Trump nominates Sergio Gor as US ambassador to India: Signals this sends
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNSmw5YUR1d2ctY3MwTkVDdTM0R21xaG4xY0FqSDZBUjhGaGJtOElQSVVzdnhpYVpKY1I0aVQwaG9uS3cxZWd5d284RUR5dkNXUkdZUlFuOU5jUjRHMTBiekFSdDFYbWxYRkdBQmdrbzF1ejFMRzJFMkx0eXd3MFVVTmhRN2ZNQm9uTWNEdFJ0TkxrY1lvMldTQ3IyREJScnVNa2JqSlY2aVVKM0FIQlFYX3EycWxTbk1KS3fSAcABQVVfeXFMTXZwaVNaZG1jeHdSS2RRSlFCZVpyWUlMc3VuenpnZjRTZ2ZPOG5yWHZKc19ic3I5T0ZDTU03aGgtbEpfNG1KVWRLN21QVWxva2Izb3A2MTZTa1RGLUp0UWxhR19GNVdyZjdTQzBaTm8tOWlQOGYzZ29PbUJnNW1fUmZ1WS1oQUs3TkJOenFSTzlNd2ZTSTNOMm51TndTVVNYNmdLNV9KbFJ5eUpPNmNQX2NwNUdRZ0FWNTYyOG02YVFL?oc=5
 
-- India To Temporarily Stop Postal Services To US From August 25 - NDTV
-  India To Temporarily Stop Postal Services To
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVJFWlVieF8wTHUzZ2g2QnRvdFpKbDBOY3B0TV9aWTJPRU9CbHlXX1BfeTh5anpvMU56dld5Z0VlRDFuY0xqNDlUWlFNQ00xTVR4cllTMHFMUElIZVZzZHZEaWxjUkx2SWRzWk1GbncxOS1SUUFWVElUeEJiQ0dBcVhwbnZkemkyTEJXUWhfc2hKcV9aX3RFTXFTdmZyNHN0RllneDVzQWhjS2tQT3QtRE9yaDNIcGN4RUJweE05dkhnRUgxQnhSMXdoMFFlRThpUC1lVHdFV0Fxcnh50gHkAUFVX3lxTE8xWHlpWEY3Vm0wS1JxaVZsWnBfUnRXb0ZrZi1Hc3QzUUFHVC02Y1ZwWVptOXRRRHVUYWlHQkl0RExJTmZBY2tabzB5Tl9BbC1fNFlVYU0wNHJfMnZsWEViYWdoME1uOW03ZGEzcm5vN3Qya0hRa1lYN2FadE1nRG9fcWVMaEt0UE5IMXNPVW5TV1p0TlplN0s0dkxJRFVjampnRmJvNTA0VEFpOFgxRUxocEhsWlFVZmI0NlF5TldJblBSNHFHcEg5LVpPTzg4bHdnQkRVXzVSV29JZzU4WEo3dWVFaQ?oc=5
+- Trump Names Close Political Aide Sergio Gor As India Ambassador - NDTV
+  The White House has named Sergio Gor as
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPSmtrLVBhZFF3cmxkOFdKSUFkYy1CSmVpSjBGbmJHNDVOYUJWSDV6eGtKcGNJTjA5VEpYbXFyOHdWQkVSQXp4VG9pRUYyS09IS0JqZVNmZU4wY19GaUh4cXRvNEVIbTctOG5VejhmcXlSSGpFbDE5TEplRzFEclYyRkh4VkdyNm1QbkZKZmQ1WmdleHZPQWZDdlFJdnNhR0JGN2t3OXg0TVNFMlRvZ1Fn0gG3AUFVX3lxTE8xNGlCZnNSMUZrZXp2ZThwSWZ1aUxfdmJsZ1BWajE2SWJyV2FPejBJeDdzSWxkSHVoN0FOWFdMYnc2ZFRtbFctRHRrX1hlRnpCTjRpUFRoMDUyMnl3VmhMVy1sWGRNVDhKRHFRV3hORjVBNlRqbVRCTHBvVURSUDNLUEJZbnBtV3pscHJEc1p6dElkZzlHMzNROXNmS2M1MmVYQlZhXzhUQXRobWZHUE5vUzlXRDlVTQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-08-24 12:31:52 UTC_
+_Last updated: 2025-08-24 18:24:06 UTC_
