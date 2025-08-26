@@ -1,84 +1,72 @@
 # 📰 Daily News Summaries
 
-- Rain fury throws life out of gear in Jammu, 4 dead, key roads blocked
-  
-  🔗 https://indianexpress.com/article/india/rain-fury-throws-life-out-of-gear-in-jammu-4-dead-key-roads-blocked-10212696/
+- India's "Resilience" Message As US Issues Notice On Additional 25% Tariffs - NDTV
+  India's "Resilience" Message As
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVZwN2V0Qjl5cmI1N2FWV1FpcGstN2llRnBfSEd4OHhkYko1bkV5WlJHdElIcnJQY2N4M21jalMxNXpKdjkyR1VPMVI3Mkd3OHpvT2JpZml5OUM2Z2huOHlsYWZRdC1zTl9Tb2l3NTFyQUh0ei1yQWJEaEpJVTlYX2Vka29KM3FuaXNrN1UwNFU3dU8tdHlKYlVoZVNmUXJCVzRBcWlwMXVzSkltblNYdGRYc015Z1VPbmfSAcIBQVVfeXFMTXBsV2ZucnZJSk15dEU4LTBlczVNdkc0WEplbzE2UVZRMmZKWm5Od0tGVWZ6dkY3cUdEWkpjcXRycUFKaENYUlhnSVNibndPZUx5YWNsUzkyTENJYzFJNkZ3c2oxRU5Nd3E2YnBhQlYweElNRkJ2N2JwWHF1anR1M080aVllWEh5eUNnbllGVjg3ZW03YmlObHFLN0laRTBQY1FkYjdFdGFwZjlobzZ0a2otZWx2b3ZsWUxYNHdXUERqOWc?oc=5
 
-- If attacked, India knows how to give appropriate response, says Defence minister Rajnath Singh
-  
-  🔗 https://indianexpress.com/article/india/if-attacked-india-knows-how-to-give-appropriate-response-defence-minister-rajnath-singh-10212615/
+- Donald Trump drops tariff bomb on India - Times of India
+  The Indian government has imposed a
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVlkeTZ6bUEzdmpZOFpNV3JsdnBlZHdPY2VOcmtQSXJZejlBdFkwVkNRdmlzcGZYMFN6dmpXd1Ytd1RLVnl0d1R6amZCc0hPV3JEREk4alpRcU45UlhVY3AySXRUSEhBUTd1YV9SSTRZVTk0V3hNNEwxLVpKMmduZVZLTUd2ZXdEMC1aWkZfZDNkaG9Ud1NvUk5SdUFPQXk5Z1FqbWt2aktndG5ZUDcwYjIxSmdOV0dqVnR0cF9TV1pBVlUtc1FPNnJIVHA4Z9IB0wFBVV95cUxQanBzdGRkUFM0RUpMX1gzbm5QMjJtbEtGcGtBQ0xVcy1MeXpSSVpiMGFhR0IydU90enE1blNZb2o3ZjhIcVRBOFRpc0luUjdTQ3Z2Y1dZYnRLQmowSjAwUTVPNElpTDJ0T3lnXzdINVFpUjVrSTVrYlBYSktrWGNvQkV2b0lLMEtiRDRJQ29oUVNILVZHR3N0dU9yOFAxTkwtTUxlTkNvWEVhN0NPUTljVmVJNnFrc3dhV2tOV0xjRVA3QkRYMHNZUXJKS2pOTlQ0alN3?oc=5
 
-- Kerala’s Guruvayur temple holds ‘purification’ after vlogger Jasmin Jaffar’s visit stoked controversy
-  
-  🔗 https://indianexpress.com/article/india/keralas-guruvayur-temple-purification-vlogger-jasmin-jaffar-visit-10212646/
+- Trump Tariff Live Updates: Indian goods exempt from 50% tariffs if they follow these 3 conditions - financialexpress.com
+  Indian goods exempt from 50% tariffs if they follow these 3 conditions.
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0ctclJVb1N4bDlXRXZQN2duVnNpSm9EUV85OWNQeWoyZW9wZ3FZOXZUdzRaTUxHbFp6SlBaQ2NLMUQ3UlNJUUNEQm91UjZ6c2VnemZ2TmxHTkRRSE1FNEdueDNRVG1Xc2M0cXRoNk9KTDR3Y1VDbWdPNHNsX2czQW52aUNaS1JHVm5aai1MZmFobURmcTVFd1FLS1VxekhIdG9KNlowN3FsdkpJcVQ4R2ZKUklBekhCaWtpYVFGaTRPLTI3YmdVQmFFUQ?oc=5
 
-- NCLAT Judge steps aside after claim of pressure from a member of the higher judiciary
-  
-  🔗 https://indianexpress.com/article/india/nclat-judge-pressure-judiciary-10212574/
+- US issues notice to India ahead of Donald Trump's 50% tariffs deadline | Latest News India - Hindustan Times - Hindustan Times
+  US issues notice to India ahead of Donald Trump's 50% tariffs deadline.
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzVMSXRCTjNmM3NhU01RYkNLTTdwek1BQ05DNjFxcFJ1QWVLbGM2TTdfeUt6djg2eGNIRVp5cHhvU2tTY3NIT2dXRXZMTFlFM2lScVZDWkJ6M1dQYlhhYmhNUDJnWGYyUHMxRnVEaC1oQUM0QVhzLWEzMFowZjNleDIxVWs4alpjeGZMWUdva3RUNFNCSkNPNlo3RWd6cG84c1BVTWJKMXRVYkRBd2JKdk55STJhODZ5VmtaeC1NZHJ1NExPRTE1Yi1DcHZyb0XSAdQBQVVfeXFMTmR1WTIxdjVUM21EZTNLcUxjRy1ya3VmajBNMVBDWVV3aDJCX1ZxNWk0TzBGektyb2FHUUwtcWZ3b1VoRTQwTmVKWW4yOGVwMnc2YXlRUjUyR1RHdzkyMHdqenJCZUpuRHp2Z29zZzF0SEtYMHkzSDlmQ21zSzFvd3RvQVNRU1RNR0hZVlB2MHRHaElUSzFlWkxhZl8yWFJhcUdwSjBJRGxwYkhNZjJmdmJQVXhOalh5STNWOU5IMTBZdnhzX0l2WXI1OGVrX1JlbXNQRzk?oc=5
 
-- ‘Women in Madhya Pradesh drink more than anywhere in country’: Congress state chief’s heady claim earns CM rebuke
-  
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-women-drink-congress-10212578/
+- Trump tariffs: U.S. issues draft notice to impose 50% tariffs on Indian products effective August 27 - The Hindu
+  U.S. issues draft notice to impose 50% tariffs on Indian products
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSmV6aFhzUEZQbDU1TTN6YTNCQTZReEV6OHN3YlJYbWtRaWNadVh2aUpFM05JakxKdUZJZGlRbGNsX1I3b0pMYk94aDdrUWphSFRGbWc0LVRMNTZZd3pMUlJfRWdQTVFEOGZ4eTljOUpzaG5FdDBDRFJNbXlGbW5MQlhtZGZDVFNmbzNJWTQ4YTROQzZ5d2pWeHdyNGtzTjhIUEd6c3dfMHU5YjNtSXVEZ1UyWjdMRHVOTUpVUnN0d3NzRzdpN1lzclRrdnpJMHZRcE5wcmNtNNIB3gFBVV95cUxQZk9kN1UzRkVxUU1jVGtqN2xQM1VOVFRNaUMyMXpfYXVFTEc2TzVrZUlBQWhkaUVsN3hWOW1QUmFuRjRfbHhSb3lreWRzX1lVdURIWUZFYlljYmtQRWtGSHhEUEVUYnZPUXl2SGtWSXRhNHJFX0pXSHlmcUdwNFBDY3dwX04teUdPbUJNVVJsLV9uSTdUdi1TcklDWmdIUzBiX2JJYzFJTGtMOEZsNm4yQXB1OWNuTGJLT09fWll2X2loUGtzRF9oNjlCY0xVamlrNVdNUmxraVdxV1IzNFE?oc=5
 
-- iPhone foldable, flip and Air models could be on the way: Report
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/apple-iphone-flip-foldable-air-future-form-factors-10212505/
+- Citi Shuffles EMEA Debt Capital Markets Team With Hire
+  Citigroup is reshaping its UK, Europe, Middle East &amp; Africa Debt Capital Markets team. Former JPMorgan Chase &
+  🔗 https://www.livemint.com/companies/news/citi-shuffles-emea-debt-capital-markets-team-with-hire-11756229856770.html
 
-- Lenovo launches Legion Pro 7i,  Legion 7i, Legion Pro 5i and Legion 5i gaming laptops
-  
-  🔗 https://indianexpress.com/article/technology/lenovo-launches-legion-pro-7i-legion-7i-legion-pro-5i-and-legion-5i-gaming-laptops-10212625/
+- EchoStar Debt Soars as Spectrum Deal Seen as Game Changer
+  EchoStar Corp.’s mega-sale of spectrum licenses to AT&amp;T Inc. sent some of its $25 billion of debt soaring from distressed levels.
+  🔗 https://www.livemint.com/companies/company-results/echostar-debt-soars-as-spectrum-deal-seen-as-game-changer-11756228510907.html
 
-- Perplexity launches new Comet Plus subscription with revenue-sharing for publishers
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/perplexity-new-comet-plus-subscription-revenue-sharing-publishers-10212605/
+- ONGC plans to set up trading unit for crude, petroleum products
+  The global energy market is currently facing significant volatility and uncertainty amid geopolitical tensions. sourcing oil
+  🔗 https://www.livemint.com/companies/ongc-trading-unit-crude-petroleum-products-ovl-oil-and-natural-gas-corp-11756219848162.html
 
-- Samsung unveils Galaxy Tab S10 Lite, an affordable productivity powerhouse
-  
-  🔗 https://indianexpress.com/article/technology/samsung-unveils-galaxy-tab-s10-lite-an-affordable-productivity-powerhouse-10212584/
+- ZEE Entertainment elevates Laxmi Shetty to lead advertisement revenue strategy
+  Z reported a 24% rise in net profits but a 14% drop in core operations revenue. Shetty, who has over 20 years of experience
+  🔗 https://www.livemint.com/companies/news/zee-entertainment-laxmi-shetty-linear-and-digital-businesses-advertisement-revenue-strategy-11756217903303.html
 
-- Apple testing reverse wireless charging for iPhone 17 Pro: Report
-  
-  🔗 https://indianexpress.com/article/technology/iphone-17-pro-may-get-reverse-wireless-charging-10212592/
+- Activist Investor Fivespan Takes Stake in New York Times
+  The financiers that led a high-profile activist campaign at the New York Times Co. three years ago have now taken a stake
+  🔗 https://www.livemint.com/companies/news/activist-investor-fivespan-takes-stake-in-new-york-times-11756223076049.html
 
-- TCS inks 1.4 million sq ft office lease deal in Bengaluru business park
-  The expansion comes amid a broader return-to
-  🔗 https://www.livemint.com/companies/tcs-inks-1-4-million-sq-ft-office-space-lease-deal-bengaluru-electronic-city-business-park-tata-it-global-capability-11756197590118.html
+- Longer-dated US Treasury yields rise, dollar falls as Trumps Fed battle fuels concern
+  Longer-dated US Treasury yields rise
+  🔗 https://www.livemint.com/market/stock-market-news/longerdated-us-treasury-yields-rise-dollar-falls-as-trumps-fed-battle-fuels-concern-11756231076357.html
 
-- US tariffs threaten to slow Indian garment sector's growth, hit profitability
-  India's readymade garment makers' revenue in FY25 rose 8% to  ₹5 trillion. Exports are likely to decline to   $1.2 trillion in FY26. Domestic
-  🔗 https://www.livemint.com/companies/us-tariff-hike-threatens-halve-growth-garment-industry-trump-china-vietnam-bangladesh-exports-manufacturers-russian-oil-11756200934035.html
+- Pemex crude oil exports rise in July while refinery output dips, data shows
+  Pemex crude oil exports rise in
+  🔗 https://www.livemint.com/market/commodities/pemex-crude-oil-exports-rise-in-july-while-refinery-output-dips-data-shows-11756229551009.html
 
-- PetroChina to buy natural gas facilities from controlling shareholder in $5.59 billion deal
-  PetroChina to buy natural gas facilities
-  🔗 https://www.livemint.com/companies/news/petrochina-to-buy-natural-gas-facilities-from-controlling-shareholder-in-5-59-billion-deal-11756208461081.html
+- French-German Bond Gap May Hit 100 Basis Points, Carmignac Says
+  France’s bond yields could spike to 100 basis points above their German peers for the first time since 2012.
+  🔗 https://www.livemint.com/market/stock-market-news/frenchgerman-bond-gap-may-hit-100-basis-points-carmignac-says-11756225770151.html
 
-- Vodafone Idea unit seeks to raise $570 million via short-term debt, sources say
-  In May, Vodafone-Idea received board approval to raise 200
-  🔗 https://www.livemint.com/companies/news/vodafone-idea-unit-seeks-to-raise-570-million-via-short-term-debt-sources-say-11756208464355.html
+- Long Bonds Around the World Get Hit by Inflation, Spending Focus
+  Long-dated bonds from the US to France and the UK slumped on Tuesday, extending this year’s selloff
+  🔗 https://www.livemint.com/market/stock-market-news/long-bonds-around-the-world-get-hit-by-inflation-spending-focus-11756224486157.html
 
-- India explores using costly gas-fired power to meet peak demand
-  India explores using costly gas-
-  🔗 https://www.livemint.com/companies/news/india-explores-using-costly-gas-fired-power-to-meet-peak-demand-11756208004336.html
+- SEBI proposes relaxed norms for large IPOs, steps up crackdown on unregistered financial influencers
+  SEBI proposes relaxed norms for large IPOs
+  🔗 https://www.livemint.com/market/ipo/sebi-proposes-relaxed-norms-for-large-ipos-steps-up-crackdown-on-unregistered-financial-influencers-11756224240857.html
 
-- Readymade garment industry growth to halve to 3-5 pc in FY26 on US tariff headwinds: Report
-  Readymade garment industry growth to halve to 3
-  🔗 https://www.livemint.com/market/stock-market-news/readymade-garment-industry-growth-to-halve-to-3-5-pc-in-fy26-on-us-tariff-headwinds-report-11756211234626.html
+- Apple to host annual fall event on 9 September: What to expect from iPhone Air, AI features and more
+  Apple will host its fall event on September 9 to unveil new iPhones, watches, and devices at the Steve Jobs Theater in Cupertino.
+  🔗 https://www.livemint.com/technology/apple-to-host-annual-fall-event-on-9-september-what-to-expect-from-iphone-air-ai-features-and-more-11756227951126.html
 
-- Upcoming IPO: Snehaa Organics IPO to open on August 29; key details here
-  Snehaa Organics, a solvent recovery company, reported a profit increase from  ⁹3.7 crore in FY24 to  ₹7.3 crore inFY25. The
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipo-snehaa-organics-ipo-to-open-on-august-29-key-details-here-11756207344023.html
-
-- Upcoming IPO: Ardee Engineering gets SEBI nod to launch  ₹580 crore IPO
-  Ardee Engineering Ltd has received SEBI approval to raise  ₹580 crore through an IPO. The funds will be allocated for new manufacturing facilities and debt repayment.
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipo-ardee-engineering-gets-sebi-nod-to-launch-rs-580-crore-ipo-11756205951456.html
-
-- Top Gainers &amp; Losers on August 26: Vodafone Idea, Swan Energy, Ceat, Atul, Vedanta among top losers today
-  The Nifty 50 fell by 255 points, while the S&amp;amp;P BSE Sensex declined 1.05%. Concerns about economic growth rise as tariffs increase to 50% from August
-  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-august-26-vodafone-idea-swan-energy-ceat-atul-vedanta-among-top-losers-today-11756203119107.html
-
-- TSX futures fall on Fed independence fears; big-bank earnings underway
-  TSX futures fall on Fed
-  🔗 https://www.livemint.com/market/stock-market-news/tsx-futures-fall-on-fed-independence-fears-big-bank-earnings-underway-11756203436373.html
+- Apple Mac Mini desktop computers offer high performance, a sleek design, and all the power you need in one small unit
+  The Apple Mac Mini desktop combines powerful performance with a space saving design. It is an excellent option for work and daily tasks
+  🔗 https://www.livemint.com/technology/gadgets/apple-mac-mini-desktop-computers-offer-high-performance-a-sleek-design-and-all-the-power-you-need-in-one-small-unit-11756206883903.html
 
 - OnePlus Nord Buds 3r launched in India with AI noise cancellation, up to 54hrs playtime at  ₹1,799
   OnePlus Nord Buds 3r come with support for Bluetooth 5.4, AI noise cancellation,
@@ -92,81 +80,125 @@
   The Vivo T4 Pro 5G has been launched in India with a Snapdragon 7 Gen 4 processor. It features a 6.77-inch AMOLED display and IP68/
   🔗 https://www.livemint.com/technology/gadgets/vivo-t4-pro-5g-with-6-67-inch-amoled-display-6-500mah-battery-launched-in-india-price-specification-and-more-11756191687184.html
 
-- Study says AI chatbots inconsistent in handling suicide-related queries
-  Study says AI chat
-  🔗 https://www.livemint.com/technology/tech-news/study-says-ai-chatbots-inconsistent-in-handling-suicide-related-queries-11756195401536.html
+- Fitch upgrades JSW Infrastructure's rating to investment grade with stable outlook
+  Fitch Ratings has upgraded JSW Infrastructure's credit rating to ‘BBB-’ with a stable outlook. This upgrade, along with positive assessments from S&amp;P and Moody's, reflects confidence in
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fitch-upgrades-jsw-infrastructures-rating-to-investment-grade-with-stable-outlook/articleshow/123531034.cms
 
-- Google is working on Quick Share for iPhone: Here’s everything we know so far
-  Google's Quick Share feature may soon support iPhones and MacBooks. The update will allow users to transfer files without internet access. iPhone users will need a Google account to utilize
-  🔗 https://www.livemint.com/technology/tech-news/google-is-working-on-quick-share-for-iphone-here-s-everything-we-know-so-far-11756188602491.html
+- Anlon Healthcare IPO subscribed 1.61 times on Day 1; GMP at 4%. Should you bid?
+  Anlon Healthcare's Rs 121 crore IPO opened with 5% subscription within the first hour. The IPO, priced between Rs 86 and Rs 91, has a grey market premium of around 4%.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/anlon-healthcare-ipo-subscribed-1-61-times-on-day-1-gmp-at-4-should-you-bid/articleshow/123529741.cms
 
-- Dollar Dips as 30-Year Yield Climbs on Fed Jitters: Markets Wrap - Bloomberg
-  Dollar Dips as 30-Year Y
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNYno2cFZONEtCamREZU1NMXhxcms2NFBSa2t5MDZRQTFtTWt1S0x4dXd5RGNzT0tpclRpY0pYVnJFTXBKUlo3cERWMHAtcGVvUVJBS25GSWZ3NVFaVklqbTQwaVVsbnZkVjBrVThhOGNhT0JoSktzbFlid2NISm1MWmFONG1nZkMtRTRwc1NEN1B3RlNr?oc=5
+- Bulk deals buzz: Eternal nets Rs 3,220 crore buying, Swiggy sees sell action by BNP, Societe Generale
+  Dalal Street witnessed heavy bulk deal activity across Eternal, Swiggy, Sai Life Sciences, Veranda Learning, Hitachi Energy, Waaree Energies
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bulk-deals-buzz-eternal-nets-rs-3220-crore-buying-swiggy-sees-sell-action-by-bnp-societe-generale/slideshow/123529396.cms
 
-- Why is the stock market down today? Sensex drops over 600 pts, Nifty below 24,800 — 7 reasons behind the s - The Economic Times
-  The Sensex drops over 600 pts, Nifty below 24,800 — 7 reasons why.
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxOX3didjVKSV8zUFRpOXJJckxUMFA3dTZHYUFrSXB5RWNDMzA2Vko2MW5lSnVvY2UxbTRPdU5iOS1oSm9kTjFSdk5OcEZhRVk5UEtxMHA4Rm9OTFRreXRwRmpjRTVaYlZmWU9fZFRvaFFGUktCTGc3aE5qWV9KRDJJVjBNR3IzRzRUVjlQQ19vbnRPVnd3M0FrcjJSMkk3cTFCcVppWVNUbHlrekxTUm1mc2h0Z0NZZlo2LUVTcWhXQjNEZkR6VWEtbGlIS1Y5UTViSXpqcEdmejd4ellhM2FucnhncnVYZWFWZmgycHZFaHNIMVgwSFhHSGRFRVlWVGdOM0lwMjItQm9QSm_SAZACQVVfeXFMTVkzZlk2UDRoTnBYaU5mRm1IcmpWRXRraEwzSy16Wk5ib2UxR3BPVmRrSEtpVzlEQWtGcm5uenhjRkRjV08yQmptdlZhMVBBUjUycWVQQTNmaWE3YUFPbllvcnhOM1ItWldRX2llb2R1eHlIMVJUQ1ZnMThEV0FZZUtGZXFZbGExS3pOVnZrRzlsQUI1RjRoRFhBNzJOVVo1WkVCNmZZeHpPdHZueG5WeEhCdGNtcjVyaTFhZy1wM0tXeXRocW80SmZRZFRIYWdvaVhweTBrZjFPeVpWTUNsaTV4TEI4dlU5ZGpCYVAwNnNxMUFaXzhUbHFiQ01zRnY5TkZ3M2N1OGRwdm1peUlaWlA?oc=5
+- Nvidia set for $260 billion price swing after earnings, options indicate
+   options traders are bracing for a $260 billion shift in Nvidia’s market value post-earnings. The results could ripple across speculative AI
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nvidia-set-for-260-billion-price-swing-after-earnings-options-indicate/articleshow/123529273.cms
 
-- Stock futures slip as Trump escalates attack on Fed independence: Live updates - CNBC
-  Stock futures slip as Trump escalates attack on Fed
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBwR1JqekEyZEZGSjBHNEViVVkySFlNT2VoeExIWmlEU0pWYzRidHBnVnBHckxLVW5rMTRHY05IZ2loWGtRV3RVMzExWWluYktURDVGTmhzTVFZejhxdzNPUHFvVHZCN1V4UUdmY19PeDhyOVhHUXNB0gF8QVVfeXFMTUlvdW1iMTZmUEMzM1RfM3Exd1U4T2FqaTZad2tKN0ZvUXVvdUNzUGtKSjRJQjVEZ19qNndRU3NZdTNPcTlDbVZQTFJORDNDekg0UTFFUV91cUxXaHpYejUwWnk4c05yVHNKMGNLWUhTaEV6emVXZ1BoOHJpOQ?oc=5
+- Special court accepts CBI closure report in NSE co-location 'scam'-linked case
+  Court accepts closure report filed by CBI in NSE co-location scam case. Company founded by Mumbai's former police commissioner Sanjay Pandey for auditing of two stock brokers.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/special-court-accepts-cbi-closure-report-in-nse-co-location-scam-linked-case/articleshow/123528440.cms
 
-- Sensex, Nifty tumble as U.S. tariff fears, FII selling drag markets - Business Standard
-  Sensex, Nifty tumble as U.S
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWUhWUnNSelJobXhLbVJQV3EwVGQxX0lIWFJwNVo4ZFNvOG9Wblo0NDVoQUFJVGdUQUlyZmVzaGZkVnJuaFlNR2hfQ3Z6WGdiQXljQnNYZGtNQWFHMFBIdTU2dFZfODJTZFVyaVVoNXR3RFhhcUhOVVA3c2ZiRG05aWF3SlFQZjlrZ2VGV3JOc2c2T0tITUNCTXR0LU9SbEotSXBOdG1Sb3haeklGQl9GNzc5S1JoZ0Y4dm9mR2otT3ZyNGRFSjB4UFZQd0U1aHZrRmhHNlFZWjF5SEs5Tk9v0gHkAUFVX3lxTE91Yno3cklQZEp2b1FLN1V0UEhpaFB5TFB2R3VXRkFQOGt6Ymhqc0RBUFN4Y1lkZDAzaURvUmdnVkh2VW9QV0JpY1hxcXNKMS1KZGlJWWhDT1ZGQTJ5eDI1cHhsM09LSFB2cC00V1pkYkNXbUNkY2dQbXFEbVMzRmZpMlV1amt3cDFHdFk4VVdsa1ZoNEtXZ3FzTkNqWC1oZG9Pb1FVbWdOZ0hHc3Z2QmFDVkJ4eEUzclM0SXdySGhIMjBVZ0dBRmpRUWNoeFhqVXVjRExuekJvRjFjc3hkb2ZlX1BOVw?oc=5
+- India's "Resilience" Message As US Issues Notice On Additional 25% Tariffs - NDTV
+  India's "Resilience" Message As
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVZwN2V0Qjl5cmI1N2FWV1FpcGstN2llRnBfSEd4OHhkYko1bkV5WlJHdElIcnJQY2N4M21jalMxNXpKdjkyR1VPMVI3Mkd3OHpvT2JpZml5OUM2Z2huOHlsYWZRdC1zTl9Tb2l3NTFyQUh0ei1yQWJEaEpJVTlYX2Vka29KM3FuaXNrN1UwNFU3dU8tdHlKYlVoZVNmUXJCVzRBcWlwMXVzSkltblNYdGRYc015Z1VPbmfSAcIBQVVfeXFMTXBsV2ZucnZJSk15dEU4LTBlczVNdkc0WEplbzE2UVZRMmZKWm5Od0tGVWZ6dkY3cUdEWkpjcXRycUFKaENYUlhnSVNibndPZUx5YWNsUzkyTENJYzFJNkZ3c2oxRU5Nd3E2YnBhQlYweElNRkJ2N2JwWHF1anR1M080aVllWEh5eUNnbllGVjg3ZW03YmlObHFLN0laRTBQY1FkYjdFdGFwZjlobzZ0a2otZWx2b3ZsWUxYNHdXUERqOWc?oc=5
 
-- 5 Things to Know Before the Stock Market Opens - Investopedia
-  5 Things to Know Before the Stock
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQZmhfXzdyWE5kYm81R18wbUpNTUVuaVhrS2tlVlF1UDlnMy1ZdTlScUNkM1NRZXNTdzFud3BjRDl5Tno4RHlJOXd0X25SR2E1b0VDOHhkR3cyTHdKR1RpNjFxM0prVC12Q3NCeUg4aHVEMGFtZndncThpSHlZZVdGUEwzck81QzZmMUs5LXUzY2N2YnUteGVjTDFCZnhicDF2?oc=5
+- Donald Trump drops tariff bomb on India - Times of India
+  The Indian government has imposed a
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVlkeTZ6bUEzdmpZOFpNV3JsdnBlZHdPY2VOcmtQSXJZejlBdFkwVkNRdmlzcGZYMFN6dmpXd1Ytd1RLVnl0d1R6amZCc0hPV3JEREk4alpRcU45UlhVY3AySXRUSEhBUTd1YV9SSTRZVTk0V3hNNEwxLVpKMmduZVZLTUd2ZXdEMC1aWkZfZDNkaG9Ud1NvUk5SdUFPQXk5Z1FqbWt2aktndG5ZUDcwYjIxSmdOV0dqVnR0cF9TV1pBVlUtc1FPNnJIVHA4Z9IB0wFBVV95cUxQanBzdGRkUFM0RUpMX1gzbm5QMjJtbEtGcGtBQ0xVcy1MeXpSSVpiMGFhR0IydU90enE1blNZb2o3ZjhIcVRBOFRpc0luUjdTQ3Z2Y1dZYnRLQmowSjAwUTVPNElpTDJ0T3lnXzdINVFpUjVrSTVrYlBYSktrWGNvQkV2b0lLMEtiRDRJQ29oUVNILVZHR3N0dU9yOFAxTkwtTUxlTkNvWEVhN0NPUTljVmVJNnFrc3dhV2tOV0xjRVA3QkRYMHNZUXJKS2pOTlQ0alN3?oc=5
 
-- FIIs sell USD 13.23 billion worth Indian stocks in CY25; IT, FMCG and power face biggest outflows
-  Foreign Institutional Investors have pulled ₹1.16 lakh crore from Indian equities in 2025. Heavy selling in
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-usd-13-23-billion-worth-indian-stocks-in-cy25-it-fmcg-and-power-face-biggest-outflows/articleshow/123525852.cms
+- Trump Tariff Live Updates: Indian goods exempt from 50% tariffs if they follow these 3 conditions - financialexpress.com
+  Indian goods exempt from 50% tariffs if they follow these 3 conditions.
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0ctclJVb1N4bDlXRXZQN2duVnNpSm9EUV85OWNQeWoyZW9wZ3FZOXZUdzRaTUxHbFp6SlBaQ2NLMUQ3UlNJUUNEQm91UjZ6c2VnemZ2TmxHTkRRSE1FNEdueDNRVG1Xc2M0cXRoNk9KTDR3Y1VDbWdPNHNsX2czQW52aUNaS1JHVm5aai1MZmFobURmcTVFd1FLS1VxekhIdG9KNlowN3FsdkpJcVQ4R2ZKUklBekhCaWtpYVFGaTRPLTI3YmdVQmFFUQ?oc=5
 
-- Fully cooperating with Sebi, says Avadhut Sathe Trading Academy amid charges of misleading investors
-  Avadhut Sathe Trading Academy is facing Sebi scrutiny over allegations of misleading investors with stock tips disguised as education.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fully-cooperating-with-sebi-says-avadhut-sathe-trading-academy-amid-charges-of-misleading-investors/articleshow/123525785.cms
+- US issues notice to India ahead of Donald Trump's 50% tariffs deadline | Latest News India - Hindustan Times - Hindustan Times
+  US issues notice to India ahead of Donald Trump's 50% tariffs deadline.
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzVMSXRCTjNmM3NhU01RYkNLTTdwek1BQ05DNjFxcFJ1QWVLbGM2TTdfeUt6djg2eGNIRVp5cHhvU2tTY3NIT2dXRXZMTFlFM2lScVZDWkJ6M1dQYlhhYmhNUDJnWGYyUHMxRnVEaC1oQUM0QVhzLWEzMFowZjNleDIxVWs4alpjeGZMWUdva3RUNFNCSkNPNlo3RWd6cG84c1BVTWJKMXRVYkRBd2JKdk55STJhODZ5VmtaeC1NZHJ1NExPRTE1Yi1DcHZyb0XSAdQBQVVfeXFMTmR1WTIxdjVUM21EZTNLcUxjRy1ya3VmajBNMVBDWVV3aDJCX1ZxNWk0TzBGektyb2FHUUwtcWZ3b1VoRTQwTmVKWW4yOGVwMnc2YXlRUjUyR1RHdzkyMHdqenJCZUpuRHp2Z29zZzF0SEtYMHkzSDlmQ21zSzFvd3RvQVNRU1RNR0hZVlB2MHRHaElUSzFlWkxhZl8yWFJhcUdwSjBJRGxwYkhNZjJmdmJQVXhOalh5STNWOU5IMTBZdnhzX0l2WXI1OGVrX1JlbXNQRzk?oc=5
 
-- Authum Investment among 6 smallcap stocks that hit 52-week high; rally up to 38% in a month
-  Despite a sharp Sensex fall, six smallcap stocks including Authum Investment, eClerx Services, and more surged to fresh 52-week highs.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/authum-investment-among-6-smallcap-stocks-that-hit-52-week-high-rally-up-to-38-in-a-month/slideshow/123525587.cms
+- Trump tariffs: U.S. issues draft notice to impose 50% tariffs on Indian products effective August 27 - The Hindu
+  U.S. issues draft notice to impose 50% tariffs on Indian products
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSmV6aFhzUEZQbDU1TTN6YTNCQTZReEV6OHN3YlJYbWtRaWNadVh2aUpFM05JakxKdUZJZGlRbGNsX1I3b0pMYk94aDdrUWphSFRGbWc0LVRMNTZZd3pMUlJfRWdQTVFEOGZ4eTljOUpzaG5FdDBDRFJNbXlGbW5MQlhtZGZDVFNmbzNJWTQ4YTROQzZ5d2pWeHdyNGtzTjhIUEd6c3dfMHU5YjNtSXVEZ1UyWjdMRHVOTUpVUnN0d3NzRzdpN1lzclRrdnpJMHZRcE5wcmNtNNIB3gFBVV95cUxQZk9kN1UzRkVxUU1jVGtqN2xQM1VOVFRNaUMyMXpfYXVFTEc2TzVrZUlBQWhkaUVsN3hWOW1QUmFuRjRfbHhSb3lreWRzX1lVdURIWUZFYlljYmtQRWtGSHhEUEVUYnZPUXl2SGtWSXRhNHJFX0pXSHlmcUdwNFBDY3dwX04teUdPbUJNVVJsLV9uSTdUdi1TcklDWmdIUzBiX2JJYzFJTGtMOEZsNm4yQXB1OWNuTGJLT09fWll2X2loUGtzRF9oNjlCY0xVamlrNVdNUmxraVdxV1IzNFE?oc=5
 
-- Ardee Engineering gets final nod from SEBI for Rs 580 crore IPO
-  Ardee Engineering gets SEBI approval to raise Rs 580 crore via IPO, including Rs 500 crore fresh issue and Rs 80 crore promoter offer. Proceeds will fund new manufacturing units, debt repayment, and corporate purposes.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-engineering-gets-final-nod-from-sebi-for-rs-580-crore-ipo/articleshow/123525390.cms
+- India's "Resilience" Message As US Issues Notice On Additional 25% Tariffs - NDTV
+  India's "Resilience" Message As
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVZwN2V0Qjl5cmI1N2FWV1FpcGstN2llRnBfSEd4OHhkYko1bkV5WlJHdElIcnJQY2N4M21jalMxNXpKdjkyR1VPMVI3Mkd3OHpvT2JpZml5OUM2Z2huOHlsYWZRdC1zTl9Tb2l3NTFyQUh0ei1yQWJEaEpJVTlYX2Vka29KM3FuaXNrN1UwNFU3dU8tdHlKYlVoZVNmUXJCVzRBcWlwMXVzSkltblNYdGRYc015Z1VPbmfSAcIBQVVfeXFMTXBsV2ZucnZJSk15dEU4LTBlczVNdkc0WEplbzE2UVZRMmZKWm5Od0tGVWZ6dkY3cUdEWkpjcXRycUFKaENYUlhnSVNibndPZUx5YWNsUzkyTENJYzFJNkZ3c2oxRU5Nd3E2YnBhQlYweElNRkJ2N2JwWHF1anR1M080aVllWEh5eUNnbllGVjg3ZW03YmlObHFLN0laRTBQY1FkYjdFdGFwZjlobzZ0a2otZWx2b3ZsWUxYNHdXUERqOWc?oc=5
 
-- Adani Ports, ICICI Bank, Titan among top picks as PL Capital eyes 12-month Nifty target of 27,609
-  Prabhudas Lilladher forecasts Nifty 50 at 27,609 over 12 months. Top stock picks include Titan, Britannia, DOMS Industries, Adani Ports, and ICIC
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-icici-bank-titan-among-top-picks-as-pl-capital-eyes-12-month-nifty-target-of-27609/articleshow/123524920.cms
+- Donald Trump drops tariff bomb on India - Times of India
+  The Indian government has imposed a
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVlkeTZ6bUEzdmpZOFpNV3JsdnBlZHdPY2VOcmtQSXJZejlBdFkwVkNRdmlzcGZYMFN6dmpXd1Ytd1RLVnl0d1R6amZCc0hPV3JEREk4alpRcU45UlhVY3AySXRUSEhBUTd1YV9SSTRZVTk0V3hNNEwxLVpKMmduZVZLTUd2ZXdEMC1aWkZfZDNkaG9Ud1NvUk5SdUFPQXk5Z1FqbWt2aktndG5ZUDcwYjIxSmdOV0dqVnR0cF9TV1pBVlUtc1FPNnJIVHA4Z9IB0wFBVV95cUxQanBzdGRkUFM0RUpMX1gzbm5QMjJtbEtGcGtBQ0xVcy1MeXpSSVpiMGFhR0IydU90enE1blNZb2o3ZjhIcVRBOFRpc0luUjdTQ3Z2Y1dZYnRLQmowSjAwUTVPNElpTDJ0T3lnXzdINVFpUjVrSTVrYlBYSktrWGNvQkV2b0lLMEtiRDRJQ29oUVNILVZHR3N0dU9yOFAxTkwtTUxlTkNvWEVhN0NPUTljVmVJNnFrc3dhV2tOV0xjRVA3QkRYMHNZUXJKS2pOTlQ0alN3?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Trump Tariff Live Updates: Indian goods exempt from 50% tariffs if they follow these 3 conditions - financialexpress.com
+  Indian goods exempt from 50% tariffs if they follow these 3 conditions.
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0ctclJVb1N4bDlXRXZQN2duVnNpSm9EUV85OWNQeWoyZW9wZ3FZOXZUdzRaTUxHbFp6SlBaQ2NLMUQ3UlNJUUNEQm91UjZ6c2VnemZ2TmxHTkRRSE1FNEdueDNRVG1Xc2M0cXRoNk9KTDR3Y1VDbWdPNHNsX2czQW52aUNaS1JHVm5aai1MZmFobURmcTVFd1FLS1VxekhIdG9KNlowN3FsdkpJcVQ4R2ZKUklBekhCaWtpYVFGaTRPLTI3YmdVQmFFUQ?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- US issues notice to India ahead of Donald Trump's 50% tariffs deadline | Latest News India - Hindustan Times - Hindustan Times
+  US issues notice to India ahead of Donald Trump's 50% tariffs deadline.
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzVMSXRCTjNmM3NhU01RYkNLTTdwek1BQ05DNjFxcFJ1QWVLbGM2TTdfeUt6djg2eGNIRVp5cHhvU2tTY3NIT2dXRXZMTFlFM2lScVZDWkJ6M1dQYlhhYmhNUDJnWGYyUHMxRnVEaC1oQUM0QVhzLWEzMFowZjNleDIxVWs4alpjeGZMWUdva3RUNFNCSkNPNlo3RWd6cG84c1BVTWJKMXRVYkRBd2JKdk55STJhODZ5VmtaeC1NZHJ1NExPRTE1Yi1DcHZyb0XSAdQBQVVfeXFMTmR1WTIxdjVUM21EZTNLcUxjRy1ya3VmajBNMVBDWVV3aDJCX1ZxNWk0TzBGektyb2FHUUwtcWZ3b1VoRTQwTmVKWW4yOGVwMnc2YXlRUjUyR1RHdzkyMHdqenJCZUpuRHp2Z29zZzF0SEtYMHkzSDlmQ21zSzFvd3RvQVNRU1RNR0hZVlB2MHRHaElUSzFlWkxhZl8yWFJhcUdwSjBJRGxwYkhNZjJmdmJQVXhOalh5STNWOU5IMTBZdnhzX0l2WXI1OGVrX1JlbXNQRzk?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Trump tariffs: U.S. issues draft notice to impose 50% tariffs on Indian products effective August 27 - The Hindu
+  U.S. issues draft notice to impose 50% tariffs on Indian products
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSmV6aFhzUEZQbDU1TTN6YTNCQTZReEV6OHN3YlJYbWtRaWNadVh2aUpFM05JakxKdUZJZGlRbGNsX1I3b0pMYk94aDdrUWphSFRGbWc0LVRMNTZZd3pMUlJfRWdQTVFEOGZ4eTljOUpzaG5FdDBDRFJNbXlGbW5MQlhtZGZDVFNmbzNJWTQ4YTROQzZ5d2pWeHdyNGtzTjhIUEd6c3dfMHU5YjNtSXVEZ1UyWjdMRHVOTUpVUnN0d3NzRzdpN1lzclRrdnpJMHZRcE5wcmNtNNIB3gFBVV95cUxQZk9kN1UzRkVxUU1jVGtqN2xQM1VOVFRNaUMyMXpfYXVFTEc2TzVrZUlBQWhkaUVsN3hWOW1QUmFuRjRfbHhSb3lreWRzX1lVdURIWUZFYlljYmtQRWtGSHhEUEVUYnZPUXl2SGtWSXRhNHJFX0pXSHlmcUdwNFBDY3dwX04teUdPbUJNVVJsLV9uSTdUdi1TcklDWmdIUzBiX2JJYzFJTGtMOEZsNm4yQXB1OWNuTGJLT09fWll2X2loUGtzRF9oNjlCY0xVamlrNVdNUmxraVdxV1IzNFE?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- India's "Resilience" Message As US Issues Notice On Additional 25% Tariffs - NDTV
+  India's "Resilience" Message As
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVZwN2V0Qjl5cmI1N2FWV1FpcGstN2llRnBfSEd4OHhkYko1bkV5WlJHdElIcnJQY2N4M21jalMxNXpKdjkyR1VPMVI3Mkd3OHpvT2JpZml5OUM2Z2huOHlsYWZRdC1zTl9Tb2l3NTFyQUh0ei1yQWJEaEpJVTlYX2Vka29KM3FuaXNrN1UwNFU3dU8tdHlKYlVoZVNmUXJCVzRBcWlwMXVzSkltblNYdGRYc015Z1VPbmfSAcIBQVVfeXFMTXBsV2ZucnZJSk15dEU4LTBlczVNdkc0WEplbzE2UVZRMmZKWm5Od0tGVWZ6dkY3cUdEWkpjcXRycUFKaENYUlhnSVNibndPZUx5YWNsUzkyTENJYzFJNkZ3c2oxRU5Nd3E2YnBhQlYweElNRkJ2N2JwWHF1anR1M080aVllWEh5eUNnbllGVjg3ZW03YmlObHFLN0laRTBQY1FkYjdFdGFwZjlobzZ0a2otZWx2b3ZsWUxYNHdXUERqOWc?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Donald Trump drops tariff bomb on India - Times of India
+  The Indian government has imposed a
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVlkeTZ6bUEzdmpZOFpNV3JsdnBlZHdPY2VOcmtQSXJZejlBdFkwVkNRdmlzcGZYMFN6dmpXd1Ytd1RLVnl0d1R6amZCc0hPV3JEREk4alpRcU45UlhVY3AySXRUSEhBUTd1YV9SSTRZVTk0V3hNNEwxLVpKMmduZVZLTUd2ZXdEMC1aWkZfZDNkaG9Ud1NvUk5SdUFPQXk5Z1FqbWt2aktndG5ZUDcwYjIxSmdOV0dqVnR0cF9TV1pBVlUtc1FPNnJIVHA4Z9IB0wFBVV95cUxQanBzdGRkUFM0RUpMX1gzbm5QMjJtbEtGcGtBQ0xVcy1MeXpSSVpiMGFhR0IydU90enE1blNZb2o3ZjhIcVRBOFRpc0luUjdTQ3Z2Y1dZYnRLQmowSjAwUTVPNElpTDJ0T3lnXzdINVFpUjVrSTVrYlBYSktrWGNvQkV2b0lLMEtiRDRJQ29oUVNILVZHR3N0dU9yOFAxTkwtTUxlTkNvWEVhN0NPUTljVmVJNnFrc3dhV2tOV0xjRVA3QkRYMHNZUXJKS2pOTlQ0alN3?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Trump Tariff Live Updates: Indian goods exempt from 50% tariffs if they follow these 3 conditions - financialexpress.com
+  Indian goods exempt from 50% tariffs if they follow these 3 conditions.
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0ctclJVb1N4bDlXRXZQN2duVnNpSm9EUV85OWNQeWoyZW9wZ3FZOXZUdzRaTUxHbFp6SlBaQ2NLMUQ3UlNJUUNEQm91UjZ6c2VnemZ2TmxHTkRRSE1FNEdueDNRVG1Xc2M0cXRoNk9KTDR3Y1VDbWdPNHNsX2czQW52aUNaS1JHVm5aai1MZmFobURmcTVFd1FLS1VxekhIdG9KNlowN3FsdkpJcVQ4R2ZKUklBekhCaWtpYVFGaTRPLTI3YmdVQmFFUQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- US issues notice to India ahead of Donald Trump's 50% tariffs deadline | Latest News India - Hindustan Times - Hindustan Times
+  US issues notice to India ahead of Donald Trump's 50% tariffs deadline.
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzVMSXRCTjNmM3NhU01RYkNLTTdwek1BQ05DNjFxcFJ1QWVLbGM2TTdfeUt6djg2eGNIRVp5cHhvU2tTY3NIT2dXRXZMTFlFM2lScVZDWkJ6M1dQYlhhYmhNUDJnWGYyUHMxRnVEaC1oQUM0QVhzLWEzMFowZjNleDIxVWs4alpjeGZMWUdva3RUNFNCSkNPNlo3RWd6cG84c1BVTWJKMXRVYkRBd2JKdk55STJhODZ5VmtaeC1NZHJ1NExPRTE1Yi1DcHZyb0XSAdQBQVVfeXFMTmR1WTIxdjVUM21EZTNLcUxjRy1ya3VmajBNMVBDWVV3aDJCX1ZxNWk0TzBGektyb2FHUUwtcWZ3b1VoRTQwTmVKWW4yOGVwMnc2YXlRUjUyR1RHdzkyMHdqenJCZUpuRHp2Z29zZzF0SEtYMHkzSDlmQ21zSzFvd3RvQVNRU1RNR0hZVlB2MHRHaElUSzFlWkxhZl8yWFJhcUdwSjBJRGxwYkhNZjJmdmJQVXhOalh5STNWOU5IMTBZdnhzX0l2WXI1OGVrX1JlbXNQRzk?oc=5
+
+- Trump tariffs: U.S. issues draft notice to impose 50% tariffs on Indian products effective August 27 - The Hindu
+  U.S. issues draft notice to impose 50% tariffs on Indian products
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSmV6aFhzUEZQbDU1TTN6YTNCQTZReEV6OHN3YlJYbWtRaWNadVh2aUpFM05JakxKdUZJZGlRbGNsX1I3b0pMYk94aDdrUWphSFRGbWc0LVRMNTZZd3pMUlJfRWdQTVFEOGZ4eTljOUpzaG5FdDBDRFJNbXlGbW5MQlhtZGZDVFNmbzNJWTQ4YTROQzZ5d2pWeHdyNGtzTjhIUEd6c3dfMHU5YjNtSXVEZ1UyWjdMRHVOTUpVUnN0d3NzRzdpN1lzclRrdnpJMHZRcE5wcmNtNNIB3gFBVV95cUxQZk9kN1UzRkVxUU1jVGtqN2xQM1VOVFRNaUMyMXpfYXVFTEc2TzVrZUlBQWhkaUVsN3hWOW1QUmFuRjRfbHhSb3lreWRzX1lVdURIWUZFYlljYmtQRWtGSHhEUEVUYnZPUXl2SGtWSXRhNHJFX0pXSHlmcUdwNFBDY3dwX04teUdPbUJNVVJsLV9uSTdUdi1TcklDWmdIUzBiX2JJYzFJTGtMOEZsNm4yQXB1OWNuTGJLT09fWll2X2loUGtzRF9oNjlCY0xVamlrNVdNUmxraVdxV1IzNFE?oc=5
+
+- India's "Resilience" Message As US Issues Notice On Additional 25% Tariffs - NDTV
+  India's "Resilience" Message As
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVZwN2V0Qjl5cmI1N2FWV1FpcGstN2llRnBfSEd4OHhkYko1bkV5WlJHdElIcnJQY2N4M21jalMxNXpKdjkyR1VPMVI3Mkd3OHpvT2JpZml5OUM2Z2huOHlsYWZRdC1zTl9Tb2l3NTFyQUh0ei1yQWJEaEpJVTlYX2Vka29KM3FuaXNrN1UwNFU3dU8tdHlKYlVoZVNmUXJCVzRBcWlwMXVzSkltblNYdGRYc015Z1VPbmfSAcIBQVVfeXFMTXBsV2ZucnZJSk15dEU4LTBlczVNdkc0WEplbzE2UVZRMmZKWm5Od0tGVWZ6dkY3cUdEWkpjcXRycUFKaENYUlhnSVNibndPZUx5YWNsUzkyTENJYzFJNkZ3c2oxRU5Nd3E2YnBhQlYweElNRkJ2N2JwWHF1anR1M080aVllWEh5eUNnbllGVjg3ZW03YmlObHFLN0laRTBQY1FkYjdFdGFwZjlobzZ0a2otZWx2b3ZsWUxYNHdXUERqOWc?oc=5
+
+- Donald Trump drops tariff bomb on India - Times of India
+  The Indian government has imposed a
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVlkeTZ6bUEzdmpZOFpNV3JsdnBlZHdPY2VOcmtQSXJZejlBdFkwVkNRdmlzcGZYMFN6dmpXd1Ytd1RLVnl0d1R6amZCc0hPV3JEREk4alpRcU45UlhVY3AySXRUSEhBUTd1YV9SSTRZVTk0V3hNNEwxLVpKMmduZVZLTUd2ZXdEMC1aWkZfZDNkaG9Ud1NvUk5SdUFPQXk5Z1FqbWt2aktndG5ZUDcwYjIxSmdOV0dqVnR0cF9TV1pBVlUtc1FPNnJIVHA4Z9IB0wFBVV95cUxQanBzdGRkUFM0RUpMX1gzbm5QMjJtbEtGcGtBQ0xVcy1MeXpSSVpiMGFhR0IydU90enE1blNZb2o3ZjhIcVRBOFRpc0luUjdTQ3Z2Y1dZYnRLQmowSjAwUTVPNElpTDJ0T3lnXzdINVFpUjVrSTVrYlBYSktrWGNvQkV2b0lLMEtiRDRJQ29oUVNILVZHR3N0dU9yOFAxTkwtTUxlTkNvWEVhN0NPUTljVmVJNnFrc3dhV2tOV0xjRVA3QkRYMHNZUXJKS2pOTlQ0alN3?oc=5
+
+- Trump Tariff Live Updates: Indian goods exempt from 50% tariffs if they follow these 3 conditions - financialexpress.com
+  Indian goods exempt from 50% tariffs if they follow these 3 conditions.
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0ctclJVb1N4bDlXRXZQN2duVnNpSm9EUV85OWNQeWoyZW9wZ3FZOXZUdzRaTUxHbFp6SlBaQ2NLMUQ3UlNJUUNEQm91UjZ6c2VnemZ2TmxHTkRRSE1FNEdueDNRVG1Xc2M0cXRoNk9KTDR3Y1VDbWdPNHNsX2czQW52aUNaS1JHVm5aai1MZmFobURmcTVFd1FLS1VxekhIdG9KNlowN3FsdkpJcVQ4R2ZKUklBekhCaWtpYVFGaTRPLTI3YmdVQmFFUQ?oc=5
+
+- US issues notice to India ahead of Donald Trump's 50% tariffs deadline | Latest News India - Hindustan Times - Hindustan Times
+  US issues notice to India ahead of Donald Trump's 50% tariffs deadline.
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzVMSXRCTjNmM3NhU01RYkNLTTdwek1BQ05DNjFxcFJ1QWVLbGM2TTdfeUt6djg2eGNIRVp5cHhvU2tTY3NIT2dXRXZMTFlFM2lScVZDWkJ6M1dQYlhhYmhNUDJnWGYyUHMxRnVEaC1oQUM0QVhzLWEzMFowZjNleDIxVWs4alpjeGZMWUdva3RUNFNCSkNPNlo3RWd6cG84c1BVTWJKMXRVYkRBd2JKdk55STJhODZ5VmtaeC1NZHJ1NExPRTE1Yi1DcHZyb0XSAdQBQVVfeXFMTmR1WTIxdjVUM21EZTNLcUxjRy1ya3VmajBNMVBDWVV3aDJCX1ZxNWk0TzBGektyb2FHUUwtcWZ3b1VoRTQwTmVKWW4yOGVwMnc2YXlRUjUyR1RHdzkyMHdqenJCZUpuRHp2Z29zZzF0SEtYMHkzSDlmQ21zSzFvd3RvQVNRU1RNR0hZVlB2MHRHaElUSzFlWkxhZl8yWFJhcUdwSjBJRGxwYkhNZjJmdmJQVXhOalh5STNWOU5IMTBZdnhzX0l2WXI1OGVrX1JlbXNQRzk?oc=5
+
+- Trump tariffs: U.S. issues draft notice to impose 50% tariffs on Indian products effective August 27 - The Hindu
+  U.S. issues draft notice to impose 50% tariffs on Indian products
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSmV6aFhzUEZQbDU1TTN6YTNCQTZReEV6OHN3YlJYbWtRaWNadVh2aUpFM05JakxKdUZJZGlRbGNsX1I3b0pMYk94aDdrUWphSFRGbWc0LVRMNTZZd3pMUlJfRWdQTVFEOGZ4eTljOUpzaG5FdDBDRFJNbXlGbW5MQlhtZGZDVFNmbzNJWTQ4YTROQzZ5d2pWeHdyNGtzTjhIUEd6c3dfMHU5YjNtSXVEZ1UyWjdMRHVOTUpVUnN0d3NzRzdpN1lzclRrdnpJMHZRcE5wcmNtNNIB3gFBVV95cUxQZk9kN1UzRkVxUU1jVGtqN2xQM1VOVFRNaUMyMXpfYXVFTEc2TzVrZUlBQWhkaUVsN3hWOW1QUmFuRjRfbHhSb3lreWRzX1lVdURIWUZFYlljYmtQRWtGSHhEUEVUYnZPUXl2SGtWSXRhNHJFX0pXSHlmcUdwNFBDY3dwX04teUdPbUJNVVJsLV9uSTdUdi1TcklDWmdIUzBiX2JJYzFJTGtMOEZsNm4yQXB1OWNuTGJLT09fWll2X2loUGtzRF9oNjlCY0xVamlrNVdNUmxraVdxV1IzNFE?oc=5
+
+- India's "Resilience" Message As US Issues Notice On Additional 25% Tariffs - NDTV
+  India's "Resilience" Message As
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVZwN2V0Qjl5cmI1N2FWV1FpcGstN2llRnBfSEd4OHhkYko1bkV5WlJHdElIcnJQY2N4M21jalMxNXpKdjkyR1VPMVI3Mkd3OHpvT2JpZml5OUM2Z2huOHlsYWZRdC1zTl9Tb2l3NTFyQUh0ei1yQWJEaEpJVTlYX2Vka29KM3FuaXNrN1UwNFU3dU8tdHlKYlVoZVNmUXJCVzRBcWlwMXVzSkltblNYdGRYc015Z1VPbmfSAcIBQVVfeXFMTXBsV2ZucnZJSk15dEU4LTBlczVNdkc0WEplbzE2UVZRMmZKWm5Od0tGVWZ6dkY3cUdEWkpjcXRycUFKaENYUlhnSVNibndPZUx5YWNsUzkyTENJYzFJNkZ3c2oxRU5Nd3E2YnBhQlYweElNRkJ2N2JwWHF1anR1M080aVllWEh5eUNnbllGVjg3ZW03YmlObHFLN0laRTBQY1FkYjdFdGFwZjlobzZ0a2otZWx2b3ZsWUxYNHdXUERqOWc?oc=5
+
+- Donald Trump drops tariff bomb on India - Times of India
+  The Indian government has imposed a
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVlkeTZ6bUEzdmpZOFpNV3JsdnBlZHdPY2VOcmtQSXJZejlBdFkwVkNRdmlzcGZYMFN6dmpXd1Ytd1RLVnl0d1R6amZCc0hPV3JEREk4alpRcU45UlhVY3AySXRUSEhBUTd1YV9SSTRZVTk0V3hNNEwxLVpKMmduZVZLTUd2ZXdEMC1aWkZfZDNkaG9Ud1NvUk5SdUFPQXk5Z1FqbWt2aktndG5ZUDcwYjIxSmdOV0dqVnR0cF9TV1pBVlUtc1FPNnJIVHA4Z9IB0wFBVV95cUxQanBzdGRkUFM0RUpMX1gzbm5QMjJtbEtGcGtBQ0xVcy1MeXpSSVpiMGFhR0IydU90enE1blNZb2o3ZjhIcVRBOFRpc0luUjdTQ3Z2Y1dZYnRLQmowSjAwUTVPNElpTDJ0T3lnXzdINVFpUjVrSTVrYlBYSktrWGNvQkV2b0lLMEtiRDRJQ29oUVNILVZHR3N0dU9yOFAxTkwtTUxlTkNvWEVhN0NPUTljVmVJNnFrc3dhV2tOV0xjRVA3QkRYMHNZUXJKS2pOTlQ0alN3?oc=5
+
+- Trump Tariff Live Updates: Indian goods exempt from 50% tariffs if they follow these 3 conditions - financialexpress.com
+  Indian goods exempt from 50% tariffs if they follow these 3 conditions.
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0ctclJVb1N4bDlXRXZQN2duVnNpSm9EUV85OWNQeWoyZW9wZ3FZOXZUdzRaTUxHbFp6SlBaQ2NLMUQ3UlNJUUNEQm91UjZ6c2VnemZ2TmxHTkRRSE1FNEdueDNRVG1Xc2M0cXRoNk9KTDR3Y1VDbWdPNHNsX2czQW52aUNaS1JHVm5aai1MZmFobURmcTVFd1FLS1VxekhIdG9KNlowN3FsdkpJcVQ4R2ZKUklBekhCaWtpYVFGaTRPLTI3YmdVQmFFUQ?oc=5
+
+- US issues notice to India ahead of Donald Trump's 50% tariffs deadline | Latest News India - Hindustan Times - Hindustan Times
+  US issues notice to India ahead of Donald Trump's 50% tariffs deadline.
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzVMSXRCTjNmM3NhU01RYkNLTTdwek1BQ05DNjFxcFJ1QWVLbGM2TTdfeUt6djg2eGNIRVp5cHhvU2tTY3NIT2dXRXZMTFlFM2lScVZDWkJ6M1dQYlhhYmhNUDJnWGYyUHMxRnVEaC1oQUM0QVhzLWEzMFowZjNleDIxVWs4alpjeGZMWUdva3RUNFNCSkNPNlo3RWd6cG84c1BVTWJKMXRVYkRBd2JKdk55STJhODZ5VmtaeC1NZHJ1NExPRTE1Yi1DcHZyb0XSAdQBQVVfeXFMTmR1WTIxdjVUM21EZTNLcUxjRy1ya3VmajBNMVBDWVV3aDJCX1ZxNWk0TzBGektyb2FHUUwtcWZ3b1VoRTQwTmVKWW4yOGVwMnc2YXlRUjUyR1RHdzkyMHdqenJCZUpuRHp2Z29zZzF0SEtYMHkzSDlmQ21zSzFvd3RvQVNRU1RNR0hZVlB2MHRHaElUSzFlWkxhZl8yWFJhcUdwSjBJRGxwYkhNZjJmdmJQVXhOalh5STNWOU5IMTBZdnhzX0l2WXI1OGVrX1JlbXNQRzk?oc=5
+
+- Trump tariffs: U.S. issues draft notice to impose 50% tariffs on Indian products effective August 27 - The Hindu
+  U.S. issues draft notice to impose 50% tariffs on Indian products
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSmV6aFhzUEZQbDU1TTN6YTNCQTZReEV6OHN3YlJYbWtRaWNadVh2aUpFM05JakxKdUZJZGlRbGNsX1I3b0pMYk94aDdrUWphSFRGbWc0LVRMNTZZd3pMUlJfRWdQTVFEOGZ4eTljOUpzaG5FdDBDRFJNbXlGbW5MQlhtZGZDVFNmbzNJWTQ4YTROQzZ5d2pWeHdyNGtzTjhIUEd6c3dfMHU5YjNtSXVEZ1UyWjdMRHVOTUpVUnN0d3NzRzdpN1lzclRrdnpJMHZRcE5wcmNtNNIB3gFBVV95cUxQZk9kN1UzRkVxUU1jVGtqN2xQM1VOVFRNaUMyMXpfYXVFTEc2TzVrZUlBQWhkaUVsN3hWOW1QUmFuRjRfbHhSb3lreWRzX1lVdURIWUZFYlljYmtQRWtGSHhEUEVUYnZPUXl2SGtWSXRhNHJFX0pXSHlmcUdwNFBDY3dwX04teUdPbUJNVVJsLV9uSTdUdi1TcklDWmdIUzBiX2JJYzFJTGtMOEZsNm4yQXB1OWNuTGJLT09fWll2X2loUGtzRF9oNjlCY0xVamlrNVdNUmxraVdxV1IzNFE?oc=5
 
 
-_Last updated: 2025-08-26 12:35:28 UTC_
+_Last updated: 2025-08-26 18:25:14 UTC_
