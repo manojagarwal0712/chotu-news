@@ -1,44 +1,48 @@
 # 📰 Daily News Summaries
 
-- ‘Shouldn’t rush for theaterisation, Op Sindoor established air power primacy’
+- News Today Live Updates, 27 August | 30 dead after heavy rains trigger landslide near Vaishno Devi shrine
   
-  🔗 https://indianexpress.com/article/india/shouldnt-rush-for-theaterisation-op-sindoor-established-air-power-primacy-10213569/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-08-27-2025-news-headlines-10213646/
 
-- On India-Japan table: Security to economy, energy to digital ties
+- 30 dead after heavy rains trigger landslide near Vaishno Devi shrine; power, network outage in Jammu
   
-  🔗 https://indianexpress.com/article/india/on-india-japan-table-security-to-economy-energy-to-digital-ties-10213482/
+  🔗 https://indianexpress.com/article/india/vaishno-devi-shrine-landslide-dead-jammu-rains-10213944/
 
-- Non-bailable warrant issued against former R&AW officer, named by US in Pannun case
+- ‘Before Wright brothers, there was Pushpak Vimaan’ – Shivraj Chouhan at IISER Bhopal
   
-  🔗 https://indianexpress.com/article/india/non-bailable-warrant-issued-against-former-raw-officer-named-by-us-in-pannun-case-10213484/
+  🔗 https://indianexpress.com/article/india/before-wright-brothers-there-was-pushpak-vimaan-shivraj-chouhan-at-iiser-bhopal-10213974/
 
-- Don’t mean to leave out anyone when we say Hindu Rashtra: Mohan Bhagwat
+- Gold Today Rate, 27 August: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/dont-mean-to-leave-out-anyone-when-we-say-hindu-rashtra-mohan-bhagwat-10213425/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-27-august-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10213857/
 
-- India seeks ‘strong condemnation’ of cross-border terror at SCO meet
+- ‘Shocking, deeply regrettable’: MEA condemns killing of journalists in Gaza
   
-  🔗 https://indianexpress.com/article/india/india-seeks-strong-condemnation-of-cross-border-terror-at-sco-meet-10213536/
+  🔗 https://indianexpress.com/article/india/mea-condemns-killing-journalists-gaza-israeli-investigation-underway-10213781/
 
-- Apple sends invites for Sept 9 event, iPhone 17 series expected
+- Nvidia’s Jetson AGX Thor gives robots a brain boost as the robotics industry sees a surge
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-sends-invites-for-2025-event-iphone-17-series-expected-10212798/
+  🔗 https://indianexpress.com/article/technology/nvidias-jetson-agx-thor-gives-robots-a-brain-boost-as-the-robotics-industry-sees-a-surge-10213887/
 
-- How AI is hurting young workers: Stanford study reveals impact on US jobs
+- Google Gemini’s new image editor keeps characters consistent, fuses images and understands sketches
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-ai-is-hurting-young-workers-stanford-reveals-impact-on-us-jobs-10213075/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-gemini-2-5-flash-image-editing-update-features-10213816/
 
-- Massive interstellar object 3I/Atlas could be an alien craft, suggests Harvard astrophysicist
+- Apple internally discussed buying Mistral, Perplexity: Report
   
-  🔗 https://indianexpress.com/article/technology/massive-interstellar-object-3i-comet-atlas-could-be-an-alien-craft-astrophysicist-10212911/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/apple-internally-discussed-buying-mistral-perplexity-the-information-reports-10213804/
 
-- iPhone foldable, flip and Air models could be on the way: Report
+- Anthropic settles class action from US authors alleging copyright infringement
   
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/apple-iphone-flip-foldable-air-future-form-factors-10212505/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-settles-class-action-from-us-authors-copyright-infringement-10213797/
 
-- Lenovo launches Legion Pro 7i,  Legion 7i, Legion Pro 5i and Legion 5i gaming laptops
+- SpaceX’s Starship passes development rut, deploys first mock satellites
   
-  🔗 https://indianexpress.com/article/technology/lenovo-launches-legion-pro-7i-legion-7i-legion-pro-5i-and-legion-5i-gaming-laptops-10212625/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spacex-starship-passes-development-rut-deploys-first-mock-satellites-10213711/
+
+- Indias medium-term IT sector outlook cautiously optimistic despite headwinds: Report
+  The medium-term outlook for the information technology (IT) industry in the country remains cautiously optimistic. This is despite persisting macroeconomic headwinds and continued client
+  🔗 https://www.livemint.com/companies/news/indias-medium-term-it-sector-outlook-cautiously-optimistic-despite-headwinds-report-11756274906911.html
 
 - Microsoft protesters occupy presidents office as company reviews its work with Israels military
   Microsoft protesters occupy president's office as company
@@ -52,33 +56,29 @@
   India’s largest tech service providers are prioritising utilisation over mass fresher
   🔗 https://www.livemint.com/companies/it-giants-hiring-playbooks-tech-services-workforece-infosys-wipro-ltimindtree-coforge-mphasis-persistent-systems-11756210839700.html
 
-- This Diwali, Swiggy, Zepto, BigBasket in high-stakes strategic showdown
-  Swiggy, Zepto and BigBasket are using the Diwali shopping rush to push
+- This Diwali, Instamart, Zepto, BigBasket in high-stakes strategic showdown
+  Swiggy Instamart, Zepto and BigBasket are using the Diwali shopping rush
   🔗 https://www.livemint.com/companies/start-ups/swiggy-zepto-bigbasket-diwali-shopping-private-labels-11756199598263.html
 
-- Book authors settle copyright lawsuit with AI company Anthropic
-  Book authors settle copyright
-  🔗 https://www.livemint.com/companies/news/book-authors-settle-copyright-lawsuit-with-ai-company-anthropic-11756244615553.html
+- Trump's tariffs on India: What forced the US govt to leave Indian pharma out of the 50% tax bracket? EXPLAINED
+  The US has exempted the Indian pharma industry from immediate tariff raise. Despite 50% tariff on other imports, experts suggest the US heavily relies on India for pharma.
+  🔗 https://www.livemint.com/market/stock-market-news/trumps-tariffs-on-india-what-forced-the-us-govt-to-leave-indian-pharma-out-of-the-50-tax-bracket-explained-11756269594229.html
 
-- Global Markets Today: Nikkei 225, Kospi continue to fall for second day straight amid Trump tariffs
-  Japan’s Nikkei 225 edged down 0.17 per cent, while the Topix dropped 0.3 per cent. South
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-continue-to-fall-for-second-day-straight-amid-trump-tariffs-11756255478646.html
+- Coal India, ONGC to Bank of Baroda: These 15 PSU stocks have highest dividend yields — Do you own any?
+   PSU stocks are known for attractive dividend payouts and have become strong wealth creators. BSE PSU index rose 250% in five years.
+  🔗 https://www.livemint.com/market/stock-market-news/coal-india-ongc-to-bank-of-baroda-these-15-psu-stocks-have-highest-dividend-yields-do-you-own-any-11756273053884.html
 
-- Buzzing markets, costly stocks: Why Indian equities still aren’t a bargain
-  The Sensex’s pandemic-era bargains have given way to
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-sensex-nifty-valuation-premium-sensex-pe-ratio-cheap-stocks-11756192863071.html
+- Green bonds explained: How do they fund sustainable projects?
+  Green bonds are driving sustainable growth by funding renewable energy, clean infrastructure, and climate-resilient projects.
+  🔗 https://www.livemint.com/market/bonds/green-bonds-explained-how-do-they-fund-sustainable-projects-11756119296933.html
 
-- Best stock recommendations today—from MarketSmith India
-  The best stock recommendations from MarketSmith
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-today-27-august-marketsmith-nifty-sensex-paradeep-phosphates-waaree-energies-11756211923335.html
+- Stock market crash: Why FPI selling shouldn't be a worry amid fear of Trump's tariffs on India?
+  FIIs have pulled out a massive  ₹1.16 lakh crore from Indian equ
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-crash-why-fpi-selling-shouldnt-be-a-worry-amid-fear-of-trumps-tariffs-on-india-11756269932074.html
 
-- Bank of Japan’s Operations Signal Market Is Eager to Sell Bonds
-  Investors are getting so desperate to lighten their holdings of Japanese government bonds that some are willing to sell the securities
-  🔗 https://www.livemint.com/market/stock-market-news/bank-of-japan-s-operations-signal-market-is-eager-to-sell-bonds-11756247163820.html
-
-- Longer-dated US Treasury yields rise, dollar falls as Trumps Fed battle fuels concern
-  Longer-dated US Treasury yields rise
-  🔗 https://www.livemint.com/market/stock-market-news/longerdated-us-treasury-yields-rise-dollar-falls-as-trumps-fed-battle-fuels-concern-11756231076357.html
+- HAL share price: Defence stock in focus on likely $1 billion GE engine deal amid Trump tariff tensions
+  HAL share price has slipped 4% in the past month and declined 12% over three months. However, the PSU defence stock has seen a strong rally of 35%
+  🔗 https://www.livemint.com/market/stock-market-news/hal-share-price-defence-stock-in-focus-on-likely-1-billion-ge-engine-deal-amid-trump-tariff-tensions-11756271685845.html
 
 - Google’s Gemini 2.5 Flash Image does it all – From blurring backgrounds to multi-image fusion
   Gemini 2.5 Flash Image is an advanced AI model for image generation and editing. It offers features like multi-image fusion,
@@ -100,65 +100,105 @@
   Discover the best USB hard drives in 2025 that offer reliability, portability, and top performance.
   🔗 https://www.livemint.com/technology/gadgets/best-usb-hard-drives-to-buy-in-2025-for-extra-storage-backup-and-security-top-recommendations-11756192212129.html
 
-- Why are FPIs betting big on Indian IPOs despite market uncertainties?
-  Despite being net sellers in the secondary market, foreign portfolio investors are significantly increasing their investments in Indian IPOs. This indicates strong confidence in India's growth story.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/why-are-fpis-betting-big-on-indian-ipos-despite-market-uncertainties/articleshow/123535308.cms
+- A midcap stock surges up to 22,344% since last Ganesh Chaturthi; 32 others zoom up to 2,557%
+  Since last Ganesh Chaturthi, 33 stocks delivered significant returns. Elitecon International led with substantial growth. Kothari Industrial Corporation and Colab Platforms also saw major surges.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/a-midcap-stock-surges-up-to-22344-since-last-ganesh-chaturthi-32-others-zoom-up-to-2557/articleshow/123539486.cms
 
-- How will new US tariffs affect Indian markets and investor confidence?
-  Both the Nifty and Sensex fell by over 1% due to the US imposing a 25% tariff. Except for FMCG, all sectoral indices declined. Realty, PSU bank
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/how-will-new-us-tariffs-affect-indian-markets-and-investor-confidence/articleshow/123535263.cms
+- Trump tariff impact on India ‘overhyped’; premium consumption, NBFCs to lead growth: Marcellus' Krishnan VR
+  New US tariffs are expected to have a limited impact on India's economy. Krishnan VR of Marcellus believes domestic consumption will drive growth. Sectors like textiles may face pressure.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/trump-tariff-impact-on-india-overhyped-premium-consumption-nbfcs-to-lead-growth-marcellus-krishnan-vr/articleshow/123539437.cms
 
-- Will major companies revive Europe's sluggish IPO market this fall?
-  Europe's IPO market is poised for a potential resurgence this fall. Several major IPOs are anticipated, potentially raising billions. Stockholm is emerging as a key listing venue.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/will-major-companies-revive-europes-sluggish-ipo-market-this-fall/articleshow/123535179.cms
+- US tariffs to hit textiles, gems, MSMEs hard; GDP growth forecast cut to 6%: Nomura
+  Around 30-40% of India's exports are exposed to the tariff hike. MSMEs are at greater risk. RBI may cut rates to ease the impact.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-tariffs-to-hit-textiles-gems-msmes-hard-gdp-growth-forecast-cut-to-6-nomura/articleshow/123539397.cms
 
-- Nabfid and Nabard set to raise $1 billion in external borrowings this fiscal year
-  Nabfid plans to raise up to $1 billion through bonds and external commercial borrowings (ECB) this fiscal year. Nabard also intends to issue its maiden ECB in FY26, having secured permission from the Reserve Bank
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nabfid-and-nabard-set-to-raise-1-billion-in-external-borrowings-this-fiscal-year/articleshow/123535149.cms
+- Valuations frothy, but growth still worth paying for: Amish Shah
+  While Indian market valuations look frothy, growth visibility still commands a premium, says Amish Shah. He stays bullish on defence, shipbuilding, power transformers, hospitals, and quick commerce.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/valuations-frothy-but-growth-still-worth-paying-for-amish-shah/articleshow/123539338.cms
 
-- Gangwals to sell 3.1% in IndiGo parent via Rs 7,020-crore block deals
-  Rakesh Gangwal's family is set to sell a 3.1% stake in InterGlobe Aviation (IndiGo) through block deals valued at $801 million, priced at ₹5,808 per share,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gangwals-to-sell-3-1-in-indigo-parent-via-rs-7020-crore-block-deals/articleshow/123535062.cms
+- This midcap, Paytm among 33 stocks that surged up to 22,344% since last Ganesh Chaturthi
+  Over the past year, 33 stocks have delivered remarkable returns, with Elitecon International leading at 22,344%. While the Nifty index experienced fluctuations, a significant number of stocks, particularly in the mid and small-cap segments, achieved
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/this-midcap-paytm-among-33-stocks-that-surged-up-to-22344-since-last-ganesh-chaturthi/articleshow/123539277.cms
 
-- India's "Resilience" Message As US Issues Notice On Additional 25% Tariffs - NDTV
-  India's "Resilience" Message As
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVZwN2V0Qjl5cmI1N2FWV1FpcGstN2llRnBfSEd4OHhkYko1bkV5WlJHdElIcnJQY2N4M21jalMxNXpKdjkyR1VPMVI3Mkd3OHpvT2JpZml5OUM2Z2huOHlsYWZRdC1zTl9Tb2l3NTFyQUh0ei1yQWJEaEpJVTlYX2Vka29KM3FuaXNrN1UwNFU3dU8tdHlKYlVoZVNmUXJCVzRBcWlwMXVzSkltblNYdGRYc015Z1VPbmfSAcIBQVVfeXFMTXBsV2ZucnZJSk15dEU4LTBlczVNdkc0WEplbzE2UVZRMmZKWm5Od0tGVWZ6dkY3cUdEWkpjcXRycUFKaENYUlhnSVNibndPZUx5YWNsUzkyTENJYzFJNkZ3c2oxRU5Nd3E2YnBhQlYweElNRkJ2N2JwWHF1anR1M080aVllWEh5eUNnbllGVjg3ZW03YmlObHFLN0laRTBQY1FkYjdFdGFwZjlobzZ0a2otZWx2b3ZsWUxYNHdXUERqOWc?oc=5
+- "Will Put Tariffs On You That Are So High...": Trump's Warning To India, Pak - NDTV
+  "Will Put Tariffs On You That Are So High..."
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPRm0zNENDdUpUUE5xMW5HeXV3RUJQUEhCRzBkdUl6NHJ5OE5sYWRXa2JxUVlFZmtZUmJRTEtEYnJndW1EVE9VcmprTWlTaXpBTjliZGpEUV9za21NVzFLOUtETTVuamxsQWpXWURtZXgwVGtVcGhhWkNHSTBSZl9nSmNVcFFWN21PdlYybEpfcWY3eG9GNUktZkpFSFh6bFhhR1lMblY5SlYxczlzcXVrVDZKbGRsM0xjbFZzdl9Qb9IBxwFBVV95cUxONkNFdWVJV0p5QTFRS0NscUZFVGNXNXg0V0ZNNkNRNEJtanFKRlZINC1BaUJTa25PcllLQjNFcGF5Y3VtTkFhZ2gyVnJDWjVVRFRaaEFBTzFncF93WTNhRnQ2TXgxWlhTZHZfaVFILWxBYnI5TV9sbS1YZEZpRkRqc0FLZzRVc1FFc1BEYnhyUnhSRWZMejk0NGpPM09vRUp0WXpMRGxPWnIxRTFDZGpfaDBoclduYXFVaFJEeTlwT003aS1Nb2lv?oc=5
 
-- Donald Trump drops tariff bomb on India - Times of India
-  The Indian government has imposed a
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVlkeTZ6bUEzdmpZOFpNV3JsdnBlZHdPY2VOcmtQSXJZejlBdFkwVkNRdmlzcGZYMFN6dmpXd1Ytd1RLVnl0d1R6amZCc0hPV3JEREk4alpRcU45UlhVY3AySXRUSEhBUTd1YV9SSTRZVTk0V3hNNEwxLVpKMmduZVZLTUd2ZXdEMC1aWkZfZDNkaG9Ud1NvUk5SdUFPQXk5Z1FqbWt2aktndG5ZUDcwYjIxSmdOV0dqVnR0cF9TV1pBVlUtc1FPNnJIVHA4Z9IB0wFBVV95cUxQanBzdGRkUFM0RUpMX1gzbm5QMjJtbEtGcGtBQ0xVcy1MeXpSSVpiMGFhR0IydU90enE1blNZb2o3ZjhIcVRBOFRpc0luUjdTQ3Z2Y1dZYnRLQmowSjAwUTVPNElpTDJ0T3lnXzdINVFpUjVrSTVrYlBYSktrWGNvQkV2b0lLMEtiRDRJQ29oUVNILVZHR3N0dU9yOFAxTkwtTUxlTkNvWEVhN0NPUTljVmVJNnFrc3dhV2tOV0xjRVA3QkRYMHNZUXJKS2pOTlQ0alN3?oc=5
+- PM Modi avoided four Donald Trump calls, says German media, as US-India ties sour - Times of India
+  PM Modi avoided four Donald Trump calls, says German media, as US
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVVdxUEhtNkh5U01qWmdPWWtvODFIMGs5LUw1MnBDbmk3emNCcU04WTh6aXlyTUgyOTZYRHhRN1Q2Rzc4eU9jWlQyM0RZdDRwY2dmcm5zRlRjV1FuUUpsTUVwTkJ2V3lkMlQwVGFmVG9ELXlUanljWGNtTnd4UFpEWklxWXlaaTJwU3Z0N0F3alZaVzlFOFZIbm9vZU1HRHp2NHlsaGtuT2J6dzlQcXJ6cUNGdlBmc3RYdlJPNS1PRVNnVmpySV8tcVFFem1keERUb19VOGFDOGxVdkRwWEhDTNIB5gFBVV95cUxNY1Q0V2hTQ2hFMHBXaXJxV2NXOHhDSzBoa3ZydHZFaW5lV2pLMVRUTWRwb3JaRUdhdWUwSUxYdEI2SWFha1ZDZFhTa2h0eEZOSFFKTGtuTUh3NlRkdzlLN0FINEZ1ZE5wbzk5cmNJMEhrdGY1NTdoVUdCUVVfckJndWRvbXVOdXNjNllkc2VaY2RlOVhZYlAxMjFfZkY3WFVfLUpnSnRxODZGWjdURVBwSWVfaGNXVkZ1aEJkYUlqM01FT1RXdWFPQ3BYR3BKRnpBSmRGampPU2h1TFdRR1pWT010bm1yQQ?oc=5
 
-- Donald Trump: PM Modi says make and spend in India as 50% tariffs kick in - BBC
-  &nbsp;&ngt;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lcmd1Q25uVVVoSUZXS0o0RzFsQ0NVdDZDc2UxZnVmSTRLclpGZ2EycWNRVWxDV2FPOEdiWXRLTVYybU1kNTBkQ0JUeHBYa05uaGtHdHRvRlZUQdIBX0FVX3lxTE9sQjU4SkZLYzBRektSMTRsd2tIUEJGQV9zTTFKV0llNU5vMDN1Tl9wS2RXNEZ6cmdnWmx3aWc2NTlfa25DNmNmVmhjYWxORTNnNmtoNXJ3LU51QnBhNHJn?oc=5
+- ‘Being Indian is problem': Pakistani man tells NRI passenger in London; social media reacts - Mint
+  ‘Being Indian is problem': Pakistani man tells NRI
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWWlna3RxSjAxVzJIY0FGa3Y1T1BWc1BENGQySGZlbjF2VW5MVHVvZ3had2dNSFZQQmgtTzc1UWtzb2hJZWtHRW4zeFZaQk5XZWRGd003XzBSZzRIUWtSamxkdlFYRV9veUkyQThnVEdoaVp1WFJ1WjRnWUFydFgxMkJUdElabk5PLW83UjNERDlTWjFWWlRkQlh6aGRxTXdvanB3RXNBRlVhR0JmMVM5bnhnOEt5MG1rMV9JU1RlU3F6RTVMUDAwdWo2ZVBHVUhXcEw2eExiOGF4MDFBM1dIONIB5gFBVV95cUxQbzB4ZXB0TmRWalk4Q3RrVU5JYXl0TXdtYnVieXI2ZmYtWGtKaXVBVVpFbDF6YzR3cWttdmpqZ3JtOWRpVENibE9KRVBDSGR0ZmRJQjczNGZCNFJjQVU5bHBwOENNVVFVRTJFMUdrTWZXMWh1SnNYYUM3MmRCSlZzTGQwNktFd3prbUV3RkcyeXJlZnhDaHVvaXlJT0ZiSW4tOW13XzlMdExaeldHYXJUMUQxMGxIbXFYT1c0SnBNOHZ1RVk4VXlTdTZvbFVSSlBRLUNnZHVreENWSllrS0JfR2drZjZCdw?oc=5
 
-- Trump claims he spoke to PM Modi during India-Pak conflict, brokered peace in ‘5 hours’ | Latest News India - Hindustan Times - Hindustan Times
-  Trump claims he spoke to PM Modi during India-Pak conflict, brokered peace in ‘5 hours
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR2RwZ3dLWXNpaXh3MVoyRzl3ZzJlcHdhYzc1OVRkSXhvT29yVjlkRTg1TzlCbUhFTk45Z2RraDF0OEQzZU5zOTduTThCSDI0WnZQVXhCRG5PS2xraVRqZEp6d0U1V3BKYXRzbnNGOHdBRktabVJjSFk1RWIxMV9rbV9uSXNfYks2NUxTSElUU05YVzhJcmN4aWZsN1RXbDk5d0NNV3c2WGdyYVZRbWhlZ2RzaHFPcEZCaTR4YWFIdlNxc1dacXRIeEU1ZnBHMzRkaU5MNHdYam1PWEFuMU5kN9IB5gFBVV95cUxOVmVDaHhDMWM4R3lETGVKelBXcjhpb085TXNnVFR0Q0pmZDk1dGl2QmJHZTVyZUpsTC1sWU5GYkdCU0NoM1BSRjJpVV9ZWGFGTm9oUVNMOXctUnRUclM5N1dIQTk4OC1HNEQ1Ym5WMUt5RTEybVJCTk5yYjBUeTA0elNpT2JpX2ZSMl9jRUZyTW1Oc0tQcEtVeFBNRmMwc1FVcGU2dzBZWmdaUW1CZ0ZLZkV6RllSY3dZTGdHY1lSbjNJTzFpeFdrU1NJdFdWMFM5UEJTZVg2d1Y0ZDNmVG9NdVNVOFBFdw?oc=5
+- India-Australian Mayor Steps Aside Over Racist Remarks Due To Rash Driving - NDTV
+  India-Australian Mayor Steps Aside Over Racist
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOaW1PU182bXoxWlFmT2JsQ091Z3NLTllrT1FGN1VWT2lTWFE3VWQ5R2tfZWFhd3JUMENNUXdJYkhEZ0JaNjk4eV9mRjJGaXJPV2NnYkZsSEtpVnV3MnRKZ0dQMlpHVVNocG9sUVphcHlRWGJFa2JDNkFSU2QzVWttaVpOenJ5R1A3bXh1bkNPeEpsRGJmMEFzWDhLM0pHWmZGQ0NydTRSRnlRelU2a3hsdHBYeTdDcFNMa3fSAcIBQVVfeXFMUEZORTk5aDFVYWNzQ0RYcXV4aEVwYUVnZXpSaWQ3VVI4WDUzdUVyVnNXLTFtR3QyOTdBMkRtenA3ZHE5TUZ6VkhtRTNpQjBWRFlBN1J5RTBxNUlPMUVrWHZCQWxNOFpvSFJUSm0zdS1wTVdneE42V1d2eVc1aXR2VUNPLWtYYnJWY0pWd2V6bVAxVy1lbnlNLWNTYjluRUYtR2hUcXRGdFpqbUtVOVFRLWh3UUlPLWhoY24xS0hzOGZMamc?oc=5
 
-- India plans to double down on Swadeshi movement | Today News - Mint
-  India plans to double down on Swadeshi
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVWFPcnJYWlptRTJpeUkyQUhMa1hkd2QzMk9VU1ZUczhuSkh2TDh5UWZJMkR2VVVYdDVGZS1WTGZacjJwLU9oUmh5dWVzTnlPZHJYRDFPRHpEdDdkTTlyN0FMZ1NUVkxFRFQ1RHpONEpkNGpaMXNJWHAyUG1fSmRSMDAxcW5XNDRGc0NjLUpmR2REazZZa21hWUY1N3cxZ0JPN2N5NlZoWkx0MjdHY1FmWWRURUhjMHAwX2lLMVI3RWFWamRZOE13OXBpTUNlQTM0c2R5MEZGLWZWSXhqWldmNnZxWHNEUk9VY3R6UUh2X3gtQdIB9wFBVV95cUxQOEhmRkhnMHQtSzdmdXR5YzM0bDBJTW4yN2ZlcXRvOTgyUjdMenNBbWdmSzFPT2k2MU5zanpRWlpFM1N4TUFyUi1uem94d0RmWndSUXhRMXl2eHZDbHlZd0l2MmRIRHlrdHUxbnhEQTlHcHNUTVowSHdBaEhzQTRRTzdwWEdHaXV6TGp5ZmpLbGRQUUgxSE0xMzcxekxkc181QnhPYlpsck84WmlQdTMxRFlBaDJaVGppb2pRZk5CRmlxT0NqY0tjV3FkUUVpc196dm1ENW9SZnZoUFhMWGFxU2l1cDFKcjktY0pMYVV1MmFSVHZFZ25N?oc=5
+- Trump tariffs on India LIVE: India braces for impact of 50% U.S. tariffs from today - The Hindu
+  The Hindu reports that India is bracing for 50% U.S
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOUVJHWFlxVzRJX1doMTgyVzJLUDFZeHA0TjJxeFRka1dsN3hCbThMdVlUMjVDRHpfcGlINC1YdlJrajdabDhSNmpMSXZUV3BGc1FVanFXVVZLbF9MRkxHVzY1ZEx1c3JER1lUVkcwd0ZmSDRhTEczb0hiQ2Z1VTFkNzlnSFJiRVZIRkVqbG5LV3Vxa0ZsSEo2YU02bGdjUnR5TDlWV00xWWJyNW1fNTFUT0hnM0p3TWh1VnNtMjdRXzdlSGtteUHSAcwBQVVfeXFMTS1OZnZQcFJqNGhmRGNTN0RxMERGdThDVE8yREdsRnZMYWFieE1KRmowd3l1ZVFEUkw5UW9rOWxsanhhQmp6Q05SdlgzSGdXNEo5TU9qVVBBNEwxUlJkS2lJV2NvTUJDNnF1NTR1QU5MRFpzeVZlMUR1UTNXZkpGZ0RfckxoaS1tby15TlpGdXU3UzhaY0JGeGNBYTZnOXFYSTFCeXhCaHpkclA1ejFvekhCZVhCcUZSdUs3dlc4VHlsSS1qQjVyeXk5V3lr?oc=5
 
-- India's "Resilience" Message As US Issues Notice On Additional 25% Tariffs - NDTV
-  India's "Resilience" Message As
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVZwN2V0Qjl5cmI1N2FWV1FpcGstN2llRnBfSEd4OHhkYko1bkV5WlJHdElIcnJQY2N4M21jalMxNXpKdjkyR1VPMVI3Mkd3OHpvT2JpZml5OUM2Z2huOHlsYWZRdC1zTl9Tb2l3NTFyQUh0ei1yQWJEaEpJVTlYX2Vka29KM3FuaXNrN1UwNFU3dU8tdHlKYlVoZVNmUXJCVzRBcWlwMXVzSkltblNYdGRYc015Z1VPbmfSAcIBQVVfeXFMTXBsV2ZucnZJSk15dEU4LTBlczVNdkc0WEplbzE2UVZRMmZKWm5Od0tGVWZ6dkY3cUdEWkpjcXRycUFKaENYUlhnSVNibndPZUx5YWNsUzkyTENJYzFJNkZ3c2oxRU5Nd3E2YnBhQlYweElNRkJ2N2JwWHF1anR1M080aVllWEh5eUNnbllGVjg3ZW03YmlObHFLN0laRTBQY1FkYjdFdGFwZjlobzZ0a2otZWx2b3ZsWUxYNHdXUERqOWc?oc=5
+- "Will Put Tariffs On You That Are So High...": Trump's Warning To India, Pak - NDTV
+  "Will Put Tariffs On You That Are So High..."
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPRm0zNENDdUpUUE5xMW5HeXV3RUJQUEhCRzBkdUl6NHJ5OE5sYWRXa2JxUVlFZmtZUmJRTEtEYnJndW1EVE9VcmprTWlTaXpBTjliZGpEUV9za21NVzFLOUtETTVuamxsQWpXWURtZXgwVGtVcGhhWkNHSTBSZl9nSmNVcFFWN21PdlYybEpfcWY3eG9GNUktZkpFSFh6bFhhR1lMblY5SlYxczlzcXVrVDZKbGRsM0xjbFZzdl9Qb9IBxwFBVV95cUxONkNFdWVJV0p5QTFRS0NscUZFVGNXNXg0V0ZNNkNRNEJtanFKRlZINC1BaUJTa25PcllLQjNFcGF5Y3VtTkFhZ2gyVnJDWjVVRFRaaEFBTzFncF93WTNhRnQ2TXgxWlhTZHZfaVFILWxBYnI5TV9sbS1YZEZpRkRqc0FLZzRVc1FFc1BEYnhyUnhSRWZMejk0NGpPM09vRUp0WXpMRGxPWnIxRTFDZGpfaDBoclduYXFVaFJEeTlwT003aS1Nb2lv?oc=5
 
-- Donald Trump drops tariff bomb on India - Times of India
-  The Indian government has imposed a
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVlkeTZ6bUEzdmpZOFpNV3JsdnBlZHdPY2VOcmtQSXJZejlBdFkwVkNRdmlzcGZYMFN6dmpXd1Ytd1RLVnl0d1R6amZCc0hPV3JEREk4alpRcU45UlhVY3AySXRUSEhBUTd1YV9SSTRZVTk0V3hNNEwxLVpKMmduZVZLTUd2ZXdEMC1aWkZfZDNkaG9Ud1NvUk5SdUFPQXk5Z1FqbWt2aktndG5ZUDcwYjIxSmdOV0dqVnR0cF9TV1pBVlUtc1FPNnJIVHA4Z9IB0wFBVV95cUxQanBzdGRkUFM0RUpMX1gzbm5QMjJtbEtGcGtBQ0xVcy1MeXpSSVpiMGFhR0IydU90enE1blNZb2o3ZjhIcVRBOFRpc0luUjdTQ3Z2Y1dZYnRLQmowSjAwUTVPNElpTDJ0T3lnXzdINVFpUjVrSTVrYlBYSktrWGNvQkV2b0lLMEtiRDRJQ29oUVNILVZHR3N0dU9yOFAxTkwtTUxlTkNvWEVhN0NPUTljVmVJNnFrc3dhV2tOV0xjRVA3QkRYMHNZUXJKS2pOTlQ0alN3?oc=5
+- PM Modi avoided four Donald Trump calls, says German media, as US-India ties sour - Times of India
+  PM Modi avoided four Donald Trump calls, says German media, as US
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVVdxUEhtNkh5U01qWmdPWWtvODFIMGs5LUw1MnBDbmk3emNCcU04WTh6aXlyTUgyOTZYRHhRN1Q2Rzc4eU9jWlQyM0RZdDRwY2dmcm5zRlRjV1FuUUpsTUVwTkJ2V3lkMlQwVGFmVG9ELXlUanljWGNtTnd4UFpEWklxWXlaaTJwU3Z0N0F3alZaVzlFOFZIbm9vZU1HRHp2NHlsaGtuT2J6dzlQcXJ6cUNGdlBmc3RYdlJPNS1PRVNnVmpySV8tcVFFem1keERUb19VOGFDOGxVdkRwWEhDTNIB5gFBVV95cUxNY1Q0V2hTQ2hFMHBXaXJxV2NXOHhDSzBoa3ZydHZFaW5lV2pLMVRUTWRwb3JaRUdhdWUwSUxYdEI2SWFha1ZDZFhTa2h0eEZOSFFKTGtuTUh3NlRkdzlLN0FINEZ1ZE5wbzk5cmNJMEhrdGY1NTdoVUdCUVVfckJndWRvbXVOdXNjNllkc2VaY2RlOVhZYlAxMjFfZkY3WFVfLUpnSnRxODZGWjdURVBwSWVfaGNXVkZ1aEJkYUlqM01FT1RXdWFPQ3BYR3BKRnpBSmRGampPU2h1TFdRR1pWT010bm1yQQ?oc=5
 
-- Donald Trump: PM Modi says make and spend in India as 50% tariffs kick in - BBC
-  &nbsp;&ngt;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lcmd1Q25uVVVoSUZXS0o0RzFsQ0NVdDZDc2UxZnVmSTRLclpGZ2EycWNRVWxDV2FPOEdiWXRLTVYybU1kNTBkQ0JUeHBYa05uaGtHdHRvRlZUQdIBX0FVX3lxTE9sQjU4SkZLYzBRektSMTRsd2tIUEJGQV9zTTFKV0llNU5vMDN1Tl9wS2RXNEZ6cmdnWmx3aWc2NTlfa25DNmNmVmhjYWxORTNnNmtoNXJ3LU51QnBhNHJn?oc=5
+- ‘Being Indian is problem': Pakistani man tells NRI passenger in London; social media reacts - Mint
+  ‘Being Indian is problem': Pakistani man tells NRI
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWWlna3RxSjAxVzJIY0FGa3Y1T1BWc1BENGQySGZlbjF2VW5MVHVvZ3had2dNSFZQQmgtTzc1UWtzb2hJZWtHRW4zeFZaQk5XZWRGd003XzBSZzRIUWtSamxkdlFYRV9veUkyQThnVEdoaVp1WFJ1WjRnWUFydFgxMkJUdElabk5PLW83UjNERDlTWjFWWlRkQlh6aGRxTXdvanB3RXNBRlVhR0JmMVM5bnhnOEt5MG1rMV9JU1RlU3F6RTVMUDAwdWo2ZVBHVUhXcEw2eExiOGF4MDFBM1dIONIB5gFBVV95cUxQbzB4ZXB0TmRWalk4Q3RrVU5JYXl0TXdtYnVieXI2ZmYtWGtKaXVBVVpFbDF6YzR3cWttdmpqZ3JtOWRpVENibE9KRVBDSGR0ZmRJQjczNGZCNFJjQVU5bHBwOENNVVFVRTJFMUdrTWZXMWh1SnNYYUM3MmRCSlZzTGQwNktFd3prbUV3RkcyeXJlZnhDaHVvaXlJT0ZiSW4tOW13XzlMdExaeldHYXJUMUQxMGxIbXFYT1c0SnBNOHZ1RVk4VXlTdTZvbFVSSlBRLUNnZHVreENWSllrS0JfR2drZjZCdw?oc=5
 
-- Trump claims he spoke to PM Modi during India-Pak conflict, brokered peace in ‘5 hours’ | Latest News India - Hindustan Times - Hindustan Times
-  Trump claims he spoke to PM Modi during India-Pak conflict, brokered peace in ‘5 hours
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR2RwZ3dLWXNpaXh3MVoyRzl3ZzJlcHdhYzc1OVRkSXhvT29yVjlkRTg1TzlCbUhFTk45Z2RraDF0OEQzZU5zOTduTThCSDI0WnZQVXhCRG5PS2xraVRqZEp6d0U1V3BKYXRzbnNGOHdBRktabVJjSFk1RWIxMV9rbV9uSXNfYks2NUxTSElUU05YVzhJcmN4aWZsN1RXbDk5d0NNV3c2WGdyYVZRbWhlZ2RzaHFPcEZCaTR4YWFIdlNxc1dacXRIeEU1ZnBHMzRkaU5MNHdYam1PWEFuMU5kN9IB5gFBVV95cUxOVmVDaHhDMWM4R3lETGVKelBXcjhpb085TXNnVFR0Q0pmZDk1dGl2QmJHZTVyZUpsTC1sWU5GYkdCU0NoM1BSRjJpVV9ZWGFGTm9oUVNMOXctUnRUclM5N1dIQTk4OC1HNEQ1Ym5WMUt5RTEybVJCTk5yYjBUeTA0elNpT2JpX2ZSMl9jRUZyTW1Oc0tQcEtVeFBNRmMwc1FVcGU2dzBZWmdaUW1CZ0ZLZkV6RllSY3dZTGdHY1lSbjNJTzFpeFdrU1NJdFdWMFM5UEJTZVg2d1Y0ZDNmVG9NdVNVOFBFdw?oc=5
+- India-Australian Mayor Steps Aside Over Racist Remarks Due To Rash Driving - NDTV
+  India-Australian Mayor Steps Aside Over Racist
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOaW1PU182bXoxWlFmT2JsQ091Z3NLTllrT1FGN1VWT2lTWFE3VWQ5R2tfZWFhd3JUMENNUXdJYkhEZ0JaNjk4eV9mRjJGaXJPV2NnYkZsSEtpVnV3MnRKZ0dQMlpHVVNocG9sUVphcHlRWGJFa2JDNkFSU2QzVWttaVpOenJ5R1A3bXh1bkNPeEpsRGJmMEFzWDhLM0pHWmZGQ0NydTRSRnlRelU2a3hsdHBYeTdDcFNMa3fSAcIBQVVfeXFMUEZORTk5aDFVYWNzQ0RYcXV4aEVwYUVnZXpSaWQ3VVI4WDUzdUVyVnNXLTFtR3QyOTdBMkRtenA3ZHE5TUZ6VkhtRTNpQjBWRFlBN1J5RTBxNUlPMUVrWHZCQWxNOFpvSFJUSm0zdS1wTVdneE42V1d2eVc1aXR2VUNPLWtYYnJWY0pWd2V6bVAxVy1lbnlNLWNTYjluRUYtR2hUcXRGdFpqbUtVOVFRLWh3UUlPLWhoY24xS0hzOGZMamc?oc=5
 
-- India plans to double down on Swadeshi movement | Today News - Mint
-  India plans to double down on Swadeshi
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVWFPcnJYWlptRTJpeUkyQUhMa1hkd2QzMk9VU1ZUczhuSkh2TDh5UWZJMkR2VVVYdDVGZS1WTGZacjJwLU9oUmh5dWVzTnlPZHJYRDFPRHpEdDdkTTlyN0FMZ1NUVkxFRFQ1RHpONEpkNGpaMXNJWHAyUG1fSmRSMDAxcW5XNDRGc0NjLUpmR2REazZZa21hWUY1N3cxZ0JPN2N5NlZoWkx0MjdHY1FmWWRURUhjMHAwX2lLMVI3RWFWamRZOE13OXBpTUNlQTM0c2R5MEZGLWZWSXhqWldmNnZxWHNEUk9VY3R6UUh2X3gtQdIB9wFBVV95cUxQOEhmRkhnMHQtSzdmdXR5YzM0bDBJTW4yN2ZlcXRvOTgyUjdMenNBbWdmSzFPT2k2MU5zanpRWlpFM1N4TUFyUi1uem94d0RmWndSUXhRMXl2eHZDbHlZd0l2MmRIRHlrdHUxbnhEQTlHcHNUTVowSHdBaEhzQTRRTzdwWEdHaXV6TGp5ZmpLbGRQUUgxSE0xMzcxekxkc181QnhPYlpsck84WmlQdTMxRFlBaDJaVGppb2pRZk5CRmlxT0NqY0tjV3FkUUVpc196dm1ENW9SZnZoUFhMWGFxU2l1cDFKcjktY0pMYVV1MmFSVHZFZ25N?oc=5
+- Trump tariffs on India LIVE: India braces for impact of 50% U.S. tariffs from today - The Hindu
+  The Hindu reports that India is bracing for 50% U.S
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOUVJHWFlxVzRJX1doMTgyVzJLUDFZeHA0TjJxeFRka1dsN3hCbThMdVlUMjVDRHpfcGlINC1YdlJrajdabDhSNmpMSXZUV3BGc1FVanFXVVZLbF9MRkxHVzY1ZEx1c3JER1lUVkcwd0ZmSDRhTEczb0hiQ2Z1VTFkNzlnSFJiRVZIRkVqbG5LV3Vxa0ZsSEo2YU02bGdjUnR5TDlWV00xWWJyNW1fNTFUT0hnM0p3TWh1VnNtMjdRXzdlSGtteUHSAcwBQVVfeXFMTS1OZnZQcFJqNGhmRGNTN0RxMERGdThDVE8yREdsRnZMYWFieE1KRmowd3l1ZVFEUkw5UW9rOWxsanhhQmp6Q05SdlgzSGdXNEo5TU9qVVBBNEwxUlJkS2lJV2NvTUJDNnF1NTR1QU5MRFpzeVZlMUR1UTNXZkpGZ0RfckxoaS1tby15TlpGdXU3UzhaY0JGeGNBYTZnOXFYSTFCeXhCaHpkclA1ejFvekhCZVhCcUZSdUs3dlc4VHlsSS1qQjVyeXk5V3lr?oc=5
+
+- "Will Put Tariffs On You That Are So High...": Trump's Warning To India, Pak - NDTV
+  "Will Put Tariffs On You That Are So High..."
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPRm0zNENDdUpUUE5xMW5HeXV3RUJQUEhCRzBkdUl6NHJ5OE5sYWRXa2JxUVlFZmtZUmJRTEtEYnJndW1EVE9VcmprTWlTaXpBTjliZGpEUV9za21NVzFLOUtETTVuamxsQWpXWURtZXgwVGtVcGhhWkNHSTBSZl9nSmNVcFFWN21PdlYybEpfcWY3eG9GNUktZkpFSFh6bFhhR1lMblY5SlYxczlzcXVrVDZKbGRsM0xjbFZzdl9Qb9IBxwFBVV95cUxONkNFdWVJV0p5QTFRS0NscUZFVGNXNXg0V0ZNNkNRNEJtanFKRlZINC1BaUJTa25PcllLQjNFcGF5Y3VtTkFhZ2gyVnJDWjVVRFRaaEFBTzFncF93WTNhRnQ2TXgxWlhTZHZfaVFILWxBYnI5TV9sbS1YZEZpRkRqc0FLZzRVc1FFc1BEYnhyUnhSRWZMejk0NGpPM09vRUp0WXpMRGxPWnIxRTFDZGpfaDBoclduYXFVaFJEeTlwT003aS1Nb2lv?oc=5
+
+- PM Modi avoided four Donald Trump calls, says German media, as US-India ties sour - Times of India
+  PM Modi avoided four Donald Trump calls, says German media, as US
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVVdxUEhtNkh5U01qWmdPWWtvODFIMGs5LUw1MnBDbmk3emNCcU04WTh6aXlyTUgyOTZYRHhRN1Q2Rzc4eU9jWlQyM0RZdDRwY2dmcm5zRlRjV1FuUUpsTUVwTkJ2V3lkMlQwVGFmVG9ELXlUanljWGNtTnd4UFpEWklxWXlaaTJwU3Z0N0F3alZaVzlFOFZIbm9vZU1HRHp2NHlsaGtuT2J6dzlQcXJ6cUNGdlBmc3RYdlJPNS1PRVNnVmpySV8tcVFFem1keERUb19VOGFDOGxVdkRwWEhDTNIB5gFBVV95cUxNY1Q0V2hTQ2hFMHBXaXJxV2NXOHhDSzBoa3ZydHZFaW5lV2pLMVRUTWRwb3JaRUdhdWUwSUxYdEI2SWFha1ZDZFhTa2h0eEZOSFFKTGtuTUh3NlRkdzlLN0FINEZ1ZE5wbzk5cmNJMEhrdGY1NTdoVUdCUVVfckJndWRvbXVOdXNjNllkc2VaY2RlOVhZYlAxMjFfZkY3WFVfLUpnSnRxODZGWjdURVBwSWVfaGNXVkZ1aEJkYUlqM01FT1RXdWFPQ3BYR3BKRnpBSmRGampPU2h1TFdRR1pWT010bm1yQQ?oc=5
+
+- ‘Being Indian is problem': Pakistani man tells NRI passenger in London; social media reacts - Mint
+  ‘Being Indian is problem': Pakistani man tells NRI
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWWlna3RxSjAxVzJIY0FGa3Y1T1BWc1BENGQySGZlbjF2VW5MVHVvZ3had2dNSFZQQmgtTzc1UWtzb2hJZWtHRW4zeFZaQk5XZWRGd003XzBSZzRIUWtSamxkdlFYRV9veUkyQThnVEdoaVp1WFJ1WjRnWUFydFgxMkJUdElabk5PLW83UjNERDlTWjFWWlRkQlh6aGRxTXdvanB3RXNBRlVhR0JmMVM5bnhnOEt5MG1rMV9JU1RlU3F6RTVMUDAwdWo2ZVBHVUhXcEw2eExiOGF4MDFBM1dIONIB5gFBVV95cUxQbzB4ZXB0TmRWalk4Q3RrVU5JYXl0TXdtYnVieXI2ZmYtWGtKaXVBVVpFbDF6YzR3cWttdmpqZ3JtOWRpVENibE9KRVBDSGR0ZmRJQjczNGZCNFJjQVU5bHBwOENNVVFVRTJFMUdrTWZXMWh1SnNYYUM3MmRCSlZzTGQwNktFd3prbUV3RkcyeXJlZnhDaHVvaXlJT0ZiSW4tOW13XzlMdExaeldHYXJUMUQxMGxIbXFYT1c0SnBNOHZ1RVk4VXlTdTZvbFVSSlBRLUNnZHVreENWSllrS0JfR2drZjZCdw?oc=5
+
+- India-Australian Mayor Steps Aside Over Racist Remarks Due To Rash Driving - NDTV
+  India-Australian Mayor Steps Aside Over Racist
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOaW1PU182bXoxWlFmT2JsQ091Z3NLTllrT1FGN1VWT2lTWFE3VWQ5R2tfZWFhd3JUMENNUXdJYkhEZ0JaNjk4eV9mRjJGaXJPV2NnYkZsSEtpVnV3MnRKZ0dQMlpHVVNocG9sUVphcHlRWGJFa2JDNkFSU2QzVWttaVpOenJ5R1A3bXh1bkNPeEpsRGJmMEFzWDhLM0pHWmZGQ0NydTRSRnlRelU2a3hsdHBYeTdDcFNMa3fSAcIBQVVfeXFMUEZORTk5aDFVYWNzQ0RYcXV4aEVwYUVnZXpSaWQ3VVI4WDUzdUVyVnNXLTFtR3QyOTdBMkRtenA3ZHE5TUZ6VkhtRTNpQjBWRFlBN1J5RTBxNUlPMUVrWHZCQWxNOFpvSFJUSm0zdS1wTVdneE42V1d2eVc1aXR2VUNPLWtYYnJWY0pWd2V6bVAxVy1lbnlNLWNTYjluRUYtR2hUcXRGdFpqbUtVOVFRLWh3UUlPLWhoY24xS0hzOGZMamc?oc=5
+
+- Trump tariffs on India LIVE: India braces for impact of 50% U.S. tariffs from today - The Hindu
+  The Hindu reports that India is bracing for 50% U.S
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOUVJHWFlxVzRJX1doMTgyVzJLUDFZeHA0TjJxeFRka1dsN3hCbThMdVlUMjVDRHpfcGlINC1YdlJrajdabDhSNmpMSXZUV3BGc1FVanFXVVZLbF9MRkxHVzY1ZEx1c3JER1lUVkcwd0ZmSDRhTEczb0hiQ2Z1VTFkNzlnSFJiRVZIRkVqbG5LV3Vxa0ZsSEo2YU02bGdjUnR5TDlWV00xWWJyNW1fNTFUT0hnM0p3TWh1VnNtMjdRXzdlSGtteUHSAcwBQVVfeXFMTS1OZnZQcFJqNGhmRGNTN0RxMERGdThDVE8yREdsRnZMYWFieE1KRmowd3l1ZVFEUkw5UW9rOWxsanhhQmp6Q05SdlgzSGdXNEo5TU9qVVBBNEwxUlJkS2lJV2NvTUJDNnF1NTR1QU5MRFpzeVZlMUR1UTNXZkpGZ0RfckxoaS1tby15TlpGdXU3UzhaY0JGeGNBYTZnOXFYSTFCeXhCaHpkclA1ejFvekhCZVhCcUZSdUs3dlc4VHlsSS1qQjVyeXk5V3lr?oc=5
+
+- "Will Put Tariffs On You That Are So High...": Trump's Warning To India, Pak - NDTV
+  "Will Put Tariffs On You That Are So High..."
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPRm0zNENDdUpUUE5xMW5HeXV3RUJQUEhCRzBkdUl6NHJ5OE5sYWRXa2JxUVlFZmtZUmJRTEtEYnJndW1EVE9VcmprTWlTaXpBTjliZGpEUV9za21NVzFLOUtETTVuamxsQWpXWURtZXgwVGtVcGhhWkNHSTBSZl9nSmNVcFFWN21PdlYybEpfcWY3eG9GNUktZkpFSFh6bFhhR1lMblY5SlYxczlzcXVrVDZKbGRsM0xjbFZzdl9Qb9IBxwFBVV95cUxONkNFdWVJV0p5QTFRS0NscUZFVGNXNXg0V0ZNNkNRNEJtanFKRlZINC1BaUJTa25PcllLQjNFcGF5Y3VtTkFhZ2gyVnJDWjVVRFRaaEFBTzFncF93WTNhRnQ2TXgxWlhTZHZfaVFILWxBYnI5TV9sbS1YZEZpRkRqc0FLZzRVc1FFc1BEYnhyUnhSRWZMejk0NGpPM09vRUp0WXpMRGxPWnIxRTFDZGpfaDBoclduYXFVaFJEeTlwT003aS1Nb2lv?oc=5
+
+- PM Modi avoided four Donald Trump calls, says German media, as US-India ties sour - Times of India
+  PM Modi avoided four Donald Trump calls, says German media, as US
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVVdxUEhtNkh5U01qWmdPWWtvODFIMGs5LUw1MnBDbmk3emNCcU04WTh6aXlyTUgyOTZYRHhRN1Q2Rzc4eU9jWlQyM0RZdDRwY2dmcm5zRlRjV1FuUUpsTUVwTkJ2V3lkMlQwVGFmVG9ELXlUanljWGNtTnd4UFpEWklxWXlaaTJwU3Z0N0F3alZaVzlFOFZIbm9vZU1HRHp2NHlsaGtuT2J6dzlQcXJ6cUNGdlBmc3RYdlJPNS1PRVNnVmpySV8tcVFFem1keERUb19VOGFDOGxVdkRwWEhDTNIB5gFBVV95cUxNY1Q0V2hTQ2hFMHBXaXJxV2NXOHhDSzBoa3ZydHZFaW5lV2pLMVRUTWRwb3JaRUdhdWUwSUxYdEI2SWFha1ZDZFhTa2h0eEZOSFFKTGtuTUh3NlRkdzlLN0FINEZ1ZE5wbzk5cmNJMEhrdGY1NTdoVUdCUVVfckJndWRvbXVOdXNjNllkc2VaY2RlOVhZYlAxMjFfZkY3WFVfLUpnSnRxODZGWjdURVBwSWVfaGNXVkZ1aEJkYUlqM01FT1RXdWFPQ3BYR3BKRnpBSmRGampPU2h1TFdRR1pWT010bm1yQQ?oc=5
+
+- ‘Being Indian is problem': Pakistani man tells NRI passenger in London; social media reacts - Mint
+  ‘Being Indian is problem': Pakistani man tells NRI
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWWlna3RxSjAxVzJIY0FGa3Y1T1BWc1BENGQySGZlbjF2VW5MVHVvZ3had2dNSFZQQmgtTzc1UWtzb2hJZWtHRW4zeFZaQk5XZWRGd003XzBSZzRIUWtSamxkdlFYRV9veUkyQThnVEdoaVp1WFJ1WjRnWUFydFgxMkJUdElabk5PLW83UjNERDlTWjFWWlRkQlh6aGRxTXdvanB3RXNBRlVhR0JmMVM5bnhnOEt5MG1rMV9JU1RlU3F6RTVMUDAwdWo2ZVBHVUhXcEw2eExiOGF4MDFBM1dIONIB5gFBVV95cUxQbzB4ZXB0TmRWalk4Q3RrVU5JYXl0TXdtYnVieXI2ZmYtWGtKaXVBVVpFbDF6YzR3cWttdmpqZ3JtOWRpVENibE9KRVBDSGR0ZmRJQjczNGZCNFJjQVU5bHBwOENNVVFVRTJFMUdrTWZXMWh1SnNYYUM3MmRCSlZzTGQwNktFd3prbUV3RkcyeXJlZnhDaHVvaXlJT0ZiSW4tOW13XzlMdExaeldHYXJUMUQxMGxIbXFYT1c0SnBNOHZ1RVk4VXlTdTZvbFVSSlBRLUNnZHVreENWSllrS0JfR2drZjZCdw?oc=5
+
+- India-Australian Mayor Steps Aside Over Racist Remarks Due To Rash Driving - NDTV
+  India-Australian Mayor Steps Aside Over Racist
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOaW1PU182bXoxWlFmT2JsQ091Z3NLTllrT1FGN1VWT2lTWFE3VWQ5R2tfZWFhd3JUMENNUXdJYkhEZ0JaNjk4eV9mRjJGaXJPV2NnYkZsSEtpVnV3MnRKZ0dQMlpHVVNocG9sUVphcHlRWGJFa2JDNkFSU2QzVWttaVpOenJ5R1A3bXh1bkNPeEpsRGJmMEFzWDhLM0pHWmZGQ0NydTRSRnlRelU2a3hsdHBYeTdDcFNMa3fSAcIBQVVfeXFMUEZORTk5aDFVYWNzQ0RYcXV4aEVwYUVnZXpSaWQ3VVI4WDUzdUVyVnNXLTFtR3QyOTdBMkRtenA3ZHE5TUZ6VkhtRTNpQjBWRFlBN1J5RTBxNUlPMUVrWHZCQWxNOFpvSFJUSm0zdS1wTVdneE42V1d2eVc1aXR2VUNPLWtYYnJWY0pWd2V6bVAxVy1lbnlNLWNTYjluRUYtR2hUcXRGdFpqbUtVOVFRLWh3UUlPLWhoY24xS0hzOGZMamc?oc=5
+
+- Trump tariffs on India LIVE: India braces for impact of 50% U.S. tariffs from today - The Hindu
+  The Hindu reports that India is bracing for 50% U.S
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOUVJHWFlxVzRJX1doMTgyVzJLUDFZeHA0TjJxeFRka1dsN3hCbThMdVlUMjVDRHpfcGlINC1YdlJrajdabDhSNmpMSXZUV3BGc1FVanFXVVZLbF9MRkxHVzY1ZEx1c3JER1lUVkcwd0ZmSDRhTEczb0hiQ2Z1VTFkNzlnSFJiRVZIRkVqbG5LV3Vxa0ZsSEo2YU02bGdjUnR5TDlWV00xWWJyNW1fNTFUT0hnM0p3TWh1VnNtMjdRXzdlSGtteUHSAcwBQVVfeXFMTS1OZnZQcFJqNGhmRGNTN0RxMERGdThDVE8yREdsRnZMYWFieE1KRmowd3l1ZVFEUkw5UW9rOWxsanhhQmp6Q05SdlgzSGdXNEo5TU9qVVBBNEwxUlJkS2lJV2NvTUJDNnF1NTR1QU5MRFpzeVZlMUR1UTNXZkpGZ0RfckxoaS1tby15TlpGdXU3UzhaY0JGeGNBYTZnOXFYSTFCeXhCaHpkclA1ejFvekhCZVhCcUZSdUs3dlc4VHlsSS1qQjVyeXk5V3lr?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-08-27 01:11:57 UTC_
+_Last updated: 2025-08-27 06:27:01 UTC_
