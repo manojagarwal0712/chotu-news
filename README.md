@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Mohan Bhagwat Address LIVE Updates: RSS chief Mohan Bhagwat begins address, speaks on education reform
+- ‘RSS doesn’t decide for BJP, or would chief selection take so long?’: Mohan Bhagwat
   
-  🔗 https://indianexpress.com/article/india/100-years-of-sangh-live-updates-rss-chief-mohan-bhagwat-to-begin-address-shortly-10216450/
+  🔗 https://indianexpress.com/article/india/rss-bjp-chief-selection-mohan-bhagwat-10217140/
 
-- Tripura may use AI to enhance efficiency in governance at grassroots: Panchayat Minister Kishore Barman
+- Security forces seize large cache of arms, ammunition in Manipur
   
-  🔗 https://indianexpress.com/article/india/tripura-use-ai-enhance-efficiency-governance-grassroots-panchayat-10216415/
+  🔗 https://indianexpress.com/article/india/manipur-security-forces-seize-arms-ammunition-10217062/
 
-- Migrant workers form 58 % of Kerala’s fishing force: Study
+- Tariffs, reservation, retirement: Mohan Bhagwat’s top quotes at 100 years of RSS
   
-  🔗 https://indianexpress.com/article/india/migrant-workers-kerala-fishing-force-10216299/
+  🔗 https://indianexpress.com/article/india/mohan-bhagwat-top-quotes-100-years-of-rss-reservation-retirement-tariffs-10216901/
 
-- 3 Jaish terrorists ‘enter Bihar’, state put on high alert amid frequent visits by national leaders ahead of polls
+- People have been cheated in the name of Smart City: J&K Deputy CM after rain ravaged roads and bridges
   
-  🔗 https://indianexpress.com/article/india/3-jaish-terrorists-enter-bihar-high-alert-assembly-polls-10216282/
+  🔗 https://indianexpress.com/article/india/bridges-roads-washed-away-in-jammu-j-k-govt-to-conduct-probe-10217022/
 
-- 6 months ago, Maoists killed Laxman’s brother. On Wednesday, they came back for the temporary teacher
+- India, Canada hit reset, name new envoys
   
-  🔗 https://indianexpress.com/article/india/6-months-ago-maoists-killed-laxmans-brother-temporary-teacher-10216192/
+  🔗 https://indianexpress.com/article/india/india-names-dinesh-k-patnaik-as-next-envoy-to-canada-10217025/
+
+- Scientists develop new AI model that outperforms ChatGPT in key AGI benchmark tests
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/scientists-develop-new-ai-model-that-outperforms-chatgpt-in-key-agi-benchmark-tests-10216835/
+
+- Total lunar eclipse 2025: All you need to know about the upcoming blood moon
+  
+  🔗 https://indianexpress.com/article/technology/total-lunar-eclipse-2025-all-you-need-to-know-about-the-upcoming-blood-moon-10216801/
 
 - Amazfit Balance 2 and Helio Strap launched in India with advanced performance and recovery tracking
   
@@ -32,53 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/science/science-heat-wave-ageing-human-body-study-10216306/
 
-- Nvidia CEO says AI boom far from over after tepid sales forecast
+- ‘First weeks would turn into a decade…’: Meta Director Chaya Nayak joins OpenAI, shares lessons from Facebook role
+  Chaya Nayak joined the artificial intelligence giant OpenAI in August 2025. Nayak also shared her key learnings and takeaways
+  🔗 https://www.livemint.com/companies/people/first-weeks-would-turn-into-a-decade-meta-director-chaya-nayak-joins-openai-shares-lessons-from-facebook-role-11756397897547.html
+
+- Atlanta Journal-Constitution to stop printing as it transitions to all-digital news
+  Atlanta Journal-Constitution to
+  🔗 https://www.livemint.com/companies/news/atlanta-journal-constitution-to-stop-printing-as-it-transitions-to-all-digital-news-11756400588743.html
+
+- Alligator Alcatraz Immigrant Detention Camp in Everglades May Be Emptied
+  The detention camp in the Everglades known as Alligator Alcatraz is being emptied. Florida Governor Ron DeSantis spent hundreds of millions of dollars to build it to help
+  🔗 https://www.livemint.com/companies/news/alligator-alcatraz-immigrant-detention-camp-in-everglades-may-be-emptied-11756400157748.html
+
+- CD Projekt first-half net profit falls 9%
+  CD Pro
+  🔗 https://www.livemint.com/companies/company-results/cd-projekt-first-half-net-profit-falls-9-11756399852209.html
+
+- Zimbabwe Business Lobby Group Calls for Argentina-Style Reforms
+  Zimbabwe’s main business lobby group urged the government to implement a raft of measures to reduce firms’ operating
+  🔗 https://www.livemint.com/companies/news/zimbabwe-business-lobby-group-calls-for-argentina-style-reforms-11756399481344.html
+
+- Is this a good time to buy Nvidia stocks? PayPal co-founder Peter Thiel says...
+  Thiel compared the rise of the Jensen Huang-led company to the “dotcom
+  🔗 https://www.livemint.com/market/stock-market-news/nvidia-stock-price-ai-race-jensen-huang-is-this-a-good-time-to-buy-nvidia-stocks-paypal-co-founder-peter-thiel-says-11756398912038.html
+
+- US stock indexes mostly edge higher but Nvidia shares slip; dollar weakens
   
-  🔗 https://indianexpress.com/article/technology/nvidia-ceo-says-ai-boom-far-from-over-after-tepid-sales-forecast-10216411/
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-indexes-mostly-edge-higher-but-nvidia-shares-slip-dollar-weakens-11756399424781.html
 
-- WhatsApp releases AI-powered ‘Writing Help’ to assist users with editing and rewriting messages
-  
-  🔗 https://indianexpress.com/article/technology/whatsapp-releases-ai-powered-writing-help-editing-and-rewriting-messages-10216089/
+- First European Defense Bond Grabs Over €2.8 Billion Orders
+  The first bond designed to bankroll Europe’s defense spending was sold by a French bank on Thursday. Over €2.8
+  🔗 https://www.livemint.com/market/stock-market-news/first-european-defense-bond-grabs-over-2-8-billion-orders-11756398684207.html
 
-- Indian aviation industry may post higher losses at  ₹9,500-10,500 cr this fiscal: ICRA report
-  Indian aviation industry may post higher losses at 
-  🔗 https://www.livemint.com/companies/news/indian-aviation-industry-may-post-higher-losses-at-rs-9-500-10-500-cr-this-fiscal-icra-report-11756381161531.html
+- Gold climbs 5-week peak on weaker dollar, Fed independence concerns
+  Gold climbs 5-week peak on
+  🔗 https://www.livemint.com/market/commodities/gold-climbs-5-week-peak-on-weaker-dollar-fed-independence-concerns-11756398501180.html
 
-- ChatGPT gets updates after US teen’s suicide; OpenAI says ‘feel a deep responsibility…’ What will change?
-  OpenAI is updating ChatGPT to better handle mental distress following a lawsuit linking the chatbot to a teenager's suicide. The company in a blog post listed out the changes.
-  🔗 https://www.livemint.com/companies/news/chatgpt-updates-us-teen-adam-raine-suicide-openai-feel-deep-responsibility-what-change-recognise-respond-mental-distress-11756373215093.html
+- Oil ticks lower as end of driving season looms, Druzhba restarts
+  Oil ticks lower as end of
+  🔗 https://www.livemint.com/market/commodities/oil-ticks-lower-as-end-of-driving-season-looms-druzhba-restarts-11756398377400.html
 
-- Mint Explainer | Funding, infrastructure and support: Making sense of Delhi’s draft startup policy
-  The policy aims to transform the city into a global innovation hub by 2035. With incentives like operational grants and a dedicated venture capital fund, this policy promises to reshape
-  🔗 https://www.livemint.com/companies/start-ups/funding-infrastructure-delhi-s-draft-startup-policy-innovation-regulation-hospitality-healthcare-fintech-ai-11756378864612.html
-
-- Canadas TD Bank, CIBC beat profit expectations on lower loan loss provisions
-  Canada's TD Bank, CIBC beat profit expectations on
-  🔗 https://www.livemint.com/companies/company-results/canadas-td-bank-cibc-beat-profit-expectations-on-lower-loan-loss-provisions-11756378349651.html
-
-- TD Tops Estimates as Domestic-Banking Unit Sees Record Revenue
-  Toronto-Dominion Bank beat estimates on strong performance in its Canadian banking business.
-  🔗 https://www.livemint.com/companies/company-results/td-tops-estimates-as-domestic-banking-unit-sees-record-revenue-11756377069953.html
-
-- Nifty 50 ends below 100 EMA: What lies ahead for Indian stock market investors amid Trump tariff turbulence?
-  Nifty's breach of its medium-term support at the 100-day EMA around 24,600 signals that the bears
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-ends-below-100-ema-will-bears-retain-control-of-indian-stock-market-amid-trump-tariff-woes-11756381812326.html
-
-- Nifty outlook for FY26: Expect flat to single-digit gains, says HDFC Securities’ institutional equities head
-  Unmesh Sharma of HDFC Securities predicts the Indian stock market will remain rangebound. He emphasises the importance of earnings growth and supportive fiscal policies.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-outlook-for-fy26-expect-flat-to-single-digit-gains-says-hdfc-securities-institutional-equities-head-11756379508600.html
-
-- Lot of disclosures to stock exchanges probably leaves a lot for imagination: Sebi official
-  Sebi official: Lot of disclosures to
-  🔗 https://www.livemint.com/market/stock-market-news/lot-of-disclosures-to-stock-exchanges-probably-leaves-a-lot-for-imagination-sebi-official-11756379999747.html
-
-- CAMS vs KFin Technologies: Is KFin Tech’s valuation really justified?
-  Finology Research Desk has conducted a comparative analysis of CAMS and KFin Technologies to determine who truly leads the RTA space. The article examines their market share, revenue mix, and why KFin commands a
-  🔗 https://www.livemint.com/market/stock-market-news/cams-vs-kfin-technologies-is-kfin-tech-s-valuation-really-justified-11756377197203.html
-
-- Oval Projects Engineering IPO: GMP holds firm! Issue booked 55% so far on Day 1. Check price band and other key details
-  Oval Projects Engineering IPO opened on August 28 with a target to raise  ₹47 crore. The share price ranges from  �
-  🔗 https://www.livemint.com/market/ipo/oval-projects-engineering-ipo-check-gmp-subscription-status-price-band-and-other-key-details-11756375642870.html
+- Best tablets for children for studying, drawing, entertainment and more: Top picks with parental controls
+  The best tablets for children combine learning, fun, creativity, and safety.
+  🔗 https://www.livemint.com/technology/gadgets/best-tablets-for-children-for-studying-drawing-entertainment-and-more-top-picks-with-parental-controls-11756381367170.html
 
 - iPhone 17 launch: All the products Apple may launch alongside new flagships
   Apple is expected to unveil major hardware updates at an event on September 12. The event is likely to focus on the iPhone 17,
@@ -96,69 +100,105 @@
   Uni students are using AI to ‘ask
   🔗 https://www.livemint.com/technology/tech-news/uni-students-are-using-ai-to-ask-stupid-questions-and-get-feedback-on-their-work-11756364956454.html
 
-- iPhone 17 launch to mark the end of this ‘popular’ model
-  Apple will likely simplify its offerings to four models: the standard 17, iPhone 17 Air, 17 Pro, and 17 Pro
-  🔗 https://www.livemint.com/technology/iphone-17-launch-to-mark-the-end-of-this-popular-model-11756363271572.html
+- Ahead of Market: 10 things that will decide stock market action on Friday
+  BSE Sensex fell by 705.97 points. NSE Nifty declined by 211.15 points. Most sectors traded in the red.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/123567471.cms
 
-- Sunil Singhania cautions on IT, bets on financials, pharma and capex revival
-  Abakkus founder Sunil Singhania cautioned against IT services due to slowing growth and high valuations. He highlighted selective opportunities in banking
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sunil-singhania-cautions-on-it-bets-on-financials-pharma-and-capex-revival/articleshow/123563806.cms
+- Sebi clarifies on cybersecurity and cyber resilience framework
+  SEBI has clarified that its cybersecurity framework applies only to systems exclusively used for regulated activities. Zero-trust principles are encouraged, while mobile app guidelines are recommendatory.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-clarifies-on-cybersecurity-and-cyber-resilience-framework/articleshow/123566999.cms
 
-- Gainers &amp; Losers: Ola up 8%, Adani Total down 7%. Check 4 more big movers
-  Vodafone Idea, Adani Total Gas, and ABFRL declined. Ola Electric, Waare
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-losers-ola-up-8-adani-total-down-7-check-4-more-big-movers/slideshow/123563657.cms
+- Societe Generale buys stake worth Rs 79 crore in RBL Bank via bulk deal
+  RBL Bank's recent financial results showed a decrease in net profit. Societe Generale purchased over 31 lakh shares of RBL Bank in bulk deals.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/societe-generale-buys-stake-worth-rs-79-crore-in-rbl-bank-via-bulk-deal/articleshow/123566674.cms
 
-- This smallcap stock turns Rs 10,000 into Rs 60 lakh in 5 years; eyes stock split
-  Websol Energy System is set to consider a stock split on September 1. The move aims to enhance affordability and accessibility for a broader investor base. The board will also discuss altering the company's Memorandum of Association.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/this-smallcap-stock-turns-rs-10000-into-rs-60-lakh-in-5-years-eyes-stock-split/articleshow/123563458.cms
+- 50% US tariff shock rocks India;₹10 lakh cr market wealth wiped out | Two Sharp with ET
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/50-us-tariff-shock-rocks-india10-lakh-cr-market-wealth-wiped-out-two-sharp-with-et/videoshow/123566517.cms
 
-- Use corrections to build positions at cheaper levels; don't get FOMO over IPOs: Sunil Singhania
-  Sunil Singhania of Abakkus Asset Manager remains optimistic about India's long-term growth. He advises investors to capitalize on corrections to build positions, emphasizing a bottom-up approach with patience.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/use-corrections-to-build-positions-at-cheaper-levels-dont-get-fomo-over-ipos-sunil-singhania/articleshow/123563413.cms
+- Online investment platform Groww receives Sebi nod to launch IPO
+  The IPO size is estimated to be in the range of $800 million to $1 billion. Groww’s equity shares would have a face value of Rs 2 each and will be listed on both the NSE and the B
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/online-investment-platform-groww-receives-sebi-nod-to-launch-ipo/articleshow/123566870.cms
 
-- Jio Financial AGM: Here are the top 5 takeaways and hints for RIL AGM
-  Jio Financial Services (JFS) revealed ambitious expansion plans at its AGM. Strategic partnerships with Allianz and BlackRock signal JFS's entry into insurance, asset management
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jio-financial-agm-here-are-the-top-5-takeaways-and-hints-for-ril-agm/articleshow/123563375.cms
+- "Like Mouse Hitting Elephant": American Economist On US Action Against India - NDTV
+  "Like Mouse Hitting Elephant": American Economist
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQcTA1UFlZZm0xVDJBMzRuSFlJZ1U0Q3BNMG1yQVhpa2dzQzBVMnlMQTZiNFZEMWRnbm01c1RfdzBHNkRkZlpFUmd4MFphcnV6RXlCUENHZDlGUzMtN1V6Qm44UU1DdXdlNzhESzdUSm8wQ1MzUF9fVURXVnpuNm9ZSXNOV05JaUxJUEc5T3pRYklSRlRSQ2xpdXduczFtektodTR1UU9abjZaWFpYZUc3SkQza9IBuwFBVV95cUxPUjllS2dVSUlsVlBHVmY3azQ4QklnZ0ZpWkdLUnhsU0JURE9Fcl9zVS1aOUZDU2NfUVliRHBPX1ZqTUtGWHl0Tm1INjVybnlZVVk5ZzAyMHZpMThCcDkyX2t3MUVMMjZ4NVFwaG9aVWVoYUpGQjVwTmg4aXg2X3YwV3Exbzd6MnFvSFU4LUw3bkxSUU9oSTJYRW1pTG5yWkx0ZkMwLU1yVFphU0tiTG15U2xVM05rT1A2LTZJ?oc=5
 
-- "Modi's War": Trump's Advisor Claims India Linked To Russia-Ukraine Conflict - NDTV
-  "Modi's War": Trump's
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQdjVoVllWZGFkWHVWaEVxRDZSSFlYM0MwLXF5SnpFQ09qSVFUU3VXMk9ENDhEWEhCYllUMGtucFJnejJZUm1FdHIyNWtNMkE2TU5ZbkVXZGJWT2ZDU0FwN2kzVkd4WTRGb3FzZ2xHVHhWdXE4VVJpZHRRRnBNVE9QZVd0c3gwem84WW5NSm5yVUxqRTVENkt1RHFjNDNtWkcyVUR0SlRTdUdPc1NEb0RsSkg4MEFkTVliTzZ2ekJIaGY5YkNVMFRzeUFWNNIB0wFBVV95cUxONU1IYkdwTUl2YVktUjlQQkVIS1hNMC15OUFwVEtWTDZxQW0zalpJbll6aDV1TzFtU2FvbHpZbzZab3gzWUlUYlp1RWJiU01pU1FGV0lHd2lGZEN1VDhBVk83UWtBaTd6OUp6LXQwUko0MHFkSHpkdHFnV042TFdzTjZjTEdiUU1wbEQ4Z2hPTG96UWZHa0ltSjFOTHJXbkxNdGZ4VW9VeERXeGJFR0pnZlpTYk5jWmpRb0drVWFTMTRITW1DN1JXRENUQjlDX0RSX2lV?oc=5
+- "If Indians Don't Budge...": Trump Adviser's New Trade Warning To New Delhi - NDTV
+  "If Indians Don't Budge...": Trump
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWtoaUM5a2x0VG0tOV9zOW40WmVlbjFidEo5NElkSWlvcHNlNVZRWkFLMURSVlFrRnJpbHZCTndRV1dfSUU3UGlIZWFuQ0M0WllBVnozRlhfbEc1YW1kQ0pveWFrenhHTDUyaXk4dC1LU1FGZmpaRjRFaXozRHdzUmVhQm01WE0yRVd5ZXRSVW5yY1U5RGsxWndpZnByVl9US0cyX2Q1QWFYNU1FT3FMTFdMd1hUR0RmcXVyLW5JdFBXanZW0gHMAUFVX3lxTE0wUmhvdUltUlF3akVaNEFRMk12dURYcUZJaTFUVlh5V09SMDZ3dG9IOFhtUUpPSDFDR09EbHZQMlJXMFRkdkFNZkR1ejNIUmQ1STZpRDc1NkhmREkxM1R5SHhvTU41TkVQZU4yV0J0TlpqUWQ4YS1TSXJlQTlrSG5FNEFpRWR6U1FLZWM2SHVwTG1FZDR0RlFONWotYU91eGxCdEFYeERHU2l5dlpXNXNzbFdlRGlhMWVhSDVhWmFMTV9NNU9IM3lwN1pLWA?oc=5
 
-- 'We will come together': US official on 50% tariff on India; calls Trump-PM Modi bond 'very good' - The Times of India
-  'We will come together': US official on 50% tariff on India; calls Trump-
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQcWo3a1Atczh6Nlo5eWYtcGVOeWRPTkhhQ19GZ3JzM0hyR0JIN3dFNGx0TGdxMUJvN1VvOGktZjBWd2pCN0hiNnNXWG90eGJUX2YzSmwxdjlyenVSYmotcm5KeXY0OW80QV9kSERGRTV6ZDlVc1pnSTEtb3ozdGtORmFva2I2eXNhMG9sTnVJQktyMUlOdFBpZWJ6NTFxY0hKWW52NElxNTdpWXlyS0NNVGFEV1MxNUxIN0VuTTVmY3ZIZ0k1QVRWY0RERDBxWDc2Y2ZMWmFkQlV5dUdQazlPcG5BSjlaVlVOWTNKRFFfNXdiRnF0cDJCU0lMcDRTVFRWTWZpZUV5Y9IBjAJBVV95cUxQNHBiaVZWeTYyWGNvVGNhZFY2Qk5ZZy1ZQ3BwUkNWYWJGNjhicFlueWRrTF9HQjJTUy1uMzZSQ2t2R2ZKTFI1WmtsZnZESmxCYURsNXRkbkpOVVh6aGJyRTJPdWlzME5aYlFRNklHSHFKN2NXQlA3b0xvbFdPR29NbmpWSm1BcU50amVSSlB2R1hDVHFwb0EwZkdLc1ppanRzVU9uR1dfN29kSVh5U25UU2VxMzNmSTFvT2k4N0VfQml3MVRudkQtMnFmczBMMkRfMUlOTUM5OHg0ODlKSUQtOXd3X2dNcjdKdjFSbHp5QWRaMmp0MTJiOFowQWw1QjFOalhURGdsdnZlNGFY?oc=5
-
-- Nirmala Sitharaman Sought Report, Promised Help: Exporters' Body On US Tariff - NDTV
-  Nirmala Sitharaman Sought Report
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOUkE1Qk43ZEEtOHJjbUZTcjFXanBLcXlCWXcwckpqa0VYWGtYNVU4SDY1UndJLTBkVWhTM2dQUmFxalNfTjNrSU9yWjRaR2NlQ2xncnl3cWR2TVRPdE1OM1hnVU84dkRMa1ZuWmg0Uy1qLUJpa3g0Y2NNZkNQd2Z5QXgtMXRiSEphb0FWNHNwR3QteEZ2NXFQQjU1cUszVzhpTTlHdzZJRnFUR081ekZMOTJlLTbSAbwBQVVfeXFMUHZNek5Yam5SbUs1MXFpR2NVb3ZWcmVFZEhiRmdIS0lLV19yRDNTTk5NOVFSaVdwSDU1cXF4anJPaTJyWlB1N194SDVvT0M0NWhGbTJ5R29IVkcxRGxHd1JoZE15R2VldjZuZFl5YWs5RkRCemREYjdYcTM3ZVFPR0M4Q1hod2Y1M3Voem1YSG1fQjJYZXdkSkpOcDZnUGo3YS1VRHNsZlFFWXBKd3JGVGdONXVObXEzQjZBcWs?oc=5
-
-- ‘If Indians don’t budge…': Top US economic official on Donald Trump's hard stance on tariffs, trade deal | Latest News India - Hindustan Times - Hindustan Times
-  ‘If Indians don’t budge…': Top US economic official on Donald Trump's hard stance on
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS0VZMEJUNjNEQWpROG5WUFJXRDBBQjZ1dHROaVlvZTdmeFR3bVJzcExSR01pT1Y0ZmVxWThfMmc5SkNxVFNGM1BON1N2ZDJ2eHVrcTFBd29IZ2RXTmI3UzQ4WXdiTy12bGNubXpGTzdoanl5LTNjU3A5RzVxQWdkQTJ5eFhMYThySmtGRGtfRHlTUy1hMXdrcVJvUnk3STg5LVE1SGw3ajRJWWFETjZ0OFJxQVVzcWtuTWpzc21aX1hJUEt4V3RfLVpRX3Jsb1U4aVdNTlpZcUEydHdUZzhnX2pLV3V6UVFvazBCakQ1TkotWG52STNsVXhReGdQWm_SAYQCQVVfeXFMTUVOa2xTeDM5VlRxTjRtNHVWWmxGVVVaMzFxNmlUZkFlS3Joa2R1RlhieTRaRWxuN1YtS2k4SUIxbVBYdW1rYlhiVkNrbHViSVkwWGdXSXBnWnozb2FMc3p1X0hQLURoZy1xUWZadzNuWnhOSHZTdjFVaFFjX1JTNm9SalItZDJ3M29GNzZrd1E5elMtOVpzOHMzLWVfRmtubXR1VmJsRWFfZzFzczQ0TUM2UzFlWWlvODVJN1hJRThhb0k3S3doTldtUVFfSTdVVW4xOEdFdzd2QXlkWTFhaFNMdmhQdUR0UXgxWmg0QTZaa19VaGJlWlRkWlM2c19kMnJVU00?oc=5
+- Donald Trump Tariffs News Live Updates: India's Russian oil imports set to rise in September despite US pressure - The Times of India
+  India's Russian oil imports set to rise in September despite US pressure.
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQUG5vNHhYMUVQWVhoSDZiU055LVhCMlJIc3pSZmxqYjFoM05EcEpseVkyRW5MOFBCVmo5ZEZZN2RqV0Rlckd6cnBzYnhoRDM1OElycGZlRHNPOFVXb2tMMnJUYUpNanhVYWpQbjg1enhYblQzN3hoRS01a096eHVDWTR6SHlzRk5paTdnOVY2aE5tdTh0LW5KZzBFS3NuS19kNUt4MkJMSkdLbTNfQkZFTXUyZzBKMUdSbWJKZlFYR28ydnFxQzA2ZGhvU2tQYmxiZWtfWV9XbFBZTUtTZlFJWVdFeGRJblZlNm9tZ3cwejRtbDNaUG5NbnFiSkNRT2llM3pnZzJYZnVVTmFGRTRFa3Jadm5tWTJhYm9zRNIBogJBVV95cUxPZnZmem9jTEFoVHdRcjlfbG9WVVNmZndMNmt0djh3U2U0QTh6UWxJZlREeHhoQUNJbjNrcHBvclZaTXZWWnRpSHo3UGFMSy1JLVdVcTVXNS0xdWpGa2FBaS1SWHJUUDl3amdMUkpncW1UNWFtNE1uaGcyUnBlaUZ1NlJ5VVgyV3hKc1hFUVUzM3gxbTdVMmRTZzF2MlUyZUNFTEdMdFMzNWlEZDFXckpId0ZfLS1sWHFPai1Fd2ZmVVpHYXpVOEZnOWV6eUVsanFHZUJ1VGtQWmhnYW10eDFYMVNzbnpHdFZPc1lOa1hFWEJDSXBCemREVXVDbjQ5OG5KT3A4ZXBPUlJ6ZFZIYmp1ejdmckJfMlNIcWNiMnU3S09vQQ?oc=5
 
 - Dream11: From boom to ban, the rise and fall of India's betting apps - BBC
   The betting app industry in India has been rocked by a
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MVXpmVTdNclRHWTA3b1I3YXo4UDRScjczTXhETlZ4VVM5blJWM3FzME80VlotUmxLcW1zYUxuNWhLQTdLMEZFRFNiWFZsbzZWS3BtbkhHT1Z4QdIBX0FVX3lxTFBiTzFmQ09YUnhBdXdRWlRYVGJfY05wTURWY2YtV2lpaXhKd2tna1g1UTVZaHB3TlBOLTBXa2ZkTTN3eVlkT01zcTVtdWZhM1IwSERremFuYTMwSWlfUWhV?oc=5
 
-- "Modi's War": Trump's Advisor Claims India Linked To Russia-Ukraine Conflict - NDTV
-  "Modi's War": Trump's
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQdjVoVllWZGFkWHVWaEVxRDZSSFlYM0MwLXF5SnpFQ09qSVFUU3VXMk9ENDhEWEhCYllUMGtucFJnejJZUm1FdHIyNWtNMkE2TU5ZbkVXZGJWT2ZDU0FwN2kzVkd4WTRGb3FzZ2xHVHhWdXE4VVJpZHRRRnBNVE9QZVd0c3gwem84WW5NSm5yVUxqRTVENkt1RHFjNDNtWkcyVUR0SlRTdUdPc1NEb0RsSkg4MEFkTVliTzZ2ekJIaGY5YkNVMFRzeUFWNNIB0wFBVV95cUxONU1IYkdwTUl2YVktUjlQQkVIS1hNMC15OUFwVEtWTDZxQW0zalpJbll6aDV1TzFtU2FvbHpZbzZab3gzWUlUYlp1RWJiU01pU1FGV0lHd2lGZEN1VDhBVk83UWtBaTd6OUp6LXQwUko0MHFkSHpkdHFnV042TFdzTjZjTEdiUU1wbEQ4Z2hPTG96UWZHa0ltSjFOTHJXbkxNdGZ4VW9VeERXeGJFR0pnZlpTYk5jWmpRb0drVWFTMTRITW1DN1JXRENUQjlDX0RSX2lV?oc=5
+- Ex-RBI governor Raghuram Rajan's ‘wake-up call’ warning for India as he reacts to Donald Trump tariffs | Latest News India - Hindustan Times - Hindustan Times
+  Ex-RBI governor Raghuram Rajan's ‘wake-up call’ warning for
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSm85RG9hSGRUT2tNcE02X3dmaWs4VWVoYWN5dVlxTFFnMVpuWkl6RmZ0QVhIanhpLVpSNEV2WDAwR09ZdXRkaXFWWDRHX0NTXzFQc0xsQzY2VUE4eWhZTWtIS0IybE42NFB4TGV4d0FQYlFkY1J1OUlremZOZkxsWGR3dG1TTkUxazNJcVA1ZmtmdUpmVjZ6WGxPMXdpVXk4UGdRME5tblZCOVBjSWJBbmpIZzFHSmJ0Vy16RzZFRmkwQUhjdkZfR0JBMU1FbVc1RmpJVzBB0gHbAUFVX3lxTFBKakhWY2tXNmQ4eGt1UGdUX3VpUWRQUFBOaThfT3Fwb2xEMk5oX1EtSGFCVjJqOWxucFpvMTQ3ZmxpWWdEWDJYbkk5dTRmMmRNWjJzekJVS1JhY0taV1pLelRVODJvR1BTYkpBTmtTTnNnRDFZTG5pM01TX0dFcW1IeVdOQ1hwbHFabjNqWE1JWnRpdFNTbmdxakJPaTZYNlRfQVh0M2JlUDlkYXFQS0ZhMXdwdTV6UjdrajQ2NGxGbGJTMkhxWjY4LVRqZkF6SzNyd0c2anozT2xuZw?oc=5
 
-- 'We will come together': US official on 50% tariff on India; calls Trump-PM Modi bond 'very good' - The Times of India
-  'We will come together': US official on 50% tariff on India; calls Trump-
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQcWo3a1Atczh6Nlo5eWYtcGVOeWRPTkhhQ19GZ3JzM0hyR0JIN3dFNGx0TGdxMUJvN1VvOGktZjBWd2pCN0hiNnNXWG90eGJUX2YzSmwxdjlyenVSYmotcm5KeXY0OW80QV9kSERGRTV6ZDlVc1pnSTEtb3ozdGtORmFva2I2eXNhMG9sTnVJQktyMUlOdFBpZWJ6NTFxY0hKWW52NElxNTdpWXlyS0NNVGFEV1MxNUxIN0VuTTVmY3ZIZ0k1QVRWY0RERDBxWDc2Y2ZMWmFkQlV5dUdQazlPcG5BSjlaVlVOWTNKRFFfNXdiRnF0cDJCU0lMcDRTVFRWTWZpZUV5Y9IBjAJBVV95cUxQNHBiaVZWeTYyWGNvVGNhZFY2Qk5ZZy1ZQ3BwUkNWYWJGNjhicFlueWRrTF9HQjJTUy1uMzZSQ2t2R2ZKTFI1WmtsZnZESmxCYURsNXRkbkpOVVh6aGJyRTJPdWlzME5aYlFRNklHSHFKN2NXQlA3b0xvbFdPR29NbmpWSm1BcU50amVSSlB2R1hDVHFwb0EwZkdLc1ppanRzVU9uR1dfN29kSVh5U25UU2VxMzNmSTFvT2k4N0VfQml3MVRudkQtMnFmczBMMkRfMUlOTUM5OHg0ODlKSUQtOXd3X2dNcjdKdjFSbHp5QWRaMmp0MTJiOFowQWw1QjFOalhURGdsdnZlNGFY?oc=5
+- "Like Mouse Hitting Elephant": American Economist On US Action Against India - NDTV
+  "Like Mouse Hitting Elephant": American Economist
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQcTA1UFlZZm0xVDJBMzRuSFlJZ1U0Q3BNMG1yQVhpa2dzQzBVMnlMQTZiNFZEMWRnbm01c1RfdzBHNkRkZlpFUmd4MFphcnV6RXlCUENHZDlGUzMtN1V6Qm44UU1DdXdlNzhESzdUSm8wQ1MzUF9fVURXVnpuNm9ZSXNOV05JaUxJUEc5T3pRYklSRlRSQ2xpdXduczFtektodTR1UU9abjZaWFpYZUc3SkQza9IBuwFBVV95cUxPUjllS2dVSUlsVlBHVmY3azQ4QklnZ0ZpWkdLUnhsU0JURE9Fcl9zVS1aOUZDU2NfUVliRHBPX1ZqTUtGWHl0Tm1INjVybnlZVVk5ZzAyMHZpMThCcDkyX2t3MUVMMjZ4NVFwaG9aVWVoYUpGQjVwTmg4aXg2X3YwV3Exbzd6MnFvSFU4LUw3bkxSUU9oSTJYRW1pTG5yWkx0ZkMwLU1yVFphU0tiTG15U2xVM05rT1A2LTZJ?oc=5
 
-- Nirmala Sitharaman Sought Report, Promised Help: Exporters' Body On US Tariff - NDTV
-  Nirmala Sitharaman Sought Report
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOUkE1Qk43ZEEtOHJjbUZTcjFXanBLcXlCWXcwckpqa0VYWGtYNVU4SDY1UndJLTBkVWhTM2dQUmFxalNfTjNrSU9yWjRaR2NlQ2xncnl3cWR2TVRPdE1OM1hnVU84dkRMa1ZuWmg0Uy1qLUJpa3g0Y2NNZkNQd2Z5QXgtMXRiSEphb0FWNHNwR3QteEZ2NXFQQjU1cUszVzhpTTlHdzZJRnFUR081ekZMOTJlLTbSAbwBQVVfeXFMUHZNek5Yam5SbUs1MXFpR2NVb3ZWcmVFZEhiRmdIS0lLV19yRDNTTk5NOVFSaVdwSDU1cXF4anJPaTJyWlB1N194SDVvT0M0NWhGbTJ5R29IVkcxRGxHd1JoZE15R2VldjZuZFl5YWs5RkRCemREYjdYcTM3ZVFPR0M4Q1hod2Y1M3Voem1YSG1fQjJYZXdkSkpOcDZnUGo3YS1VRHNsZlFFWXBKd3JGVGdONXVObXEzQjZBcWs?oc=5
+- "If Indians Don't Budge...": Trump Adviser's New Trade Warning To New Delhi - NDTV
+  "If Indians Don't Budge...": Trump
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWtoaUM5a2x0VG0tOV9zOW40WmVlbjFidEo5NElkSWlvcHNlNVZRWkFLMURSVlFrRnJpbHZCTndRV1dfSUU3UGlIZWFuQ0M0WllBVnozRlhfbEc1YW1kQ0pveWFrenhHTDUyaXk4dC1LU1FGZmpaRjRFaXozRHdzUmVhQm01WE0yRVd5ZXRSVW5yY1U5RGsxWndpZnByVl9US0cyX2Q1QWFYNU1FT3FMTFdMd1hUR0RmcXVyLW5JdFBXanZW0gHMAUFVX3lxTE0wUmhvdUltUlF3akVaNEFRMk12dURYcUZJaTFUVlh5V09SMDZ3dG9IOFhtUUpPSDFDR09EbHZQMlJXMFRkdkFNZkR1ejNIUmQ1STZpRDc1NkhmREkxM1R5SHhvTU41TkVQZU4yV0J0TlpqUWQ4YS1TSXJlQTlrSG5FNEFpRWR6U1FLZWM2SHVwTG1FZDR0RlFONWotYU91eGxCdEFYeERHU2l5dlpXNXNzbFdlRGlhMWVhSDVhWmFMTV9NNU9IM3lwN1pLWA?oc=5
 
-- ‘If Indians don’t budge…': Top US economic official on Donald Trump's hard stance on tariffs, trade deal | Latest News India - Hindustan Times - Hindustan Times
-  ‘If Indians don’t budge…': Top US economic official on Donald Trump's hard stance on
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS0VZMEJUNjNEQWpROG5WUFJXRDBBQjZ1dHROaVlvZTdmeFR3bVJzcExSR01pT1Y0ZmVxWThfMmc5SkNxVFNGM1BON1N2ZDJ2eHVrcTFBd29IZ2RXTmI3UzQ4WXdiTy12bGNubXpGTzdoanl5LTNjU3A5RzVxQWdkQTJ5eFhMYThySmtGRGtfRHlTUy1hMXdrcVJvUnk3STg5LVE1SGw3ajRJWWFETjZ0OFJxQVVzcWtuTWpzc21aX1hJUEt4V3RfLVpRX3Jsb1U4aVdNTlpZcUEydHdUZzhnX2pLV3V6UVFvazBCakQ1TkotWG52STNsVXhReGdQWm_SAYQCQVVfeXFMTUVOa2xTeDM5VlRxTjRtNHVWWmxGVVVaMzFxNmlUZkFlS3Joa2R1RlhieTRaRWxuN1YtS2k4SUIxbVBYdW1rYlhiVkNrbHViSVkwWGdXSXBnWnozb2FMc3p1X0hQLURoZy1xUWZadzNuWnhOSHZTdjFVaFFjX1JTNm9SalItZDJ3M29GNzZrd1E5elMtOVpzOHMzLWVfRmtubXR1VmJsRWFfZzFzczQ0TUM2UzFlWWlvODVJN1hJRThhb0k3S3doTldtUVFfSTdVVW4xOEdFdzd2QXlkWTFhaFNMdmhQdUR0UXgxWmg0QTZaa19VaGJlWlRkWlM2c19kMnJVU00?oc=5
+- Donald Trump Tariffs News Live Updates: India's Russian oil imports set to rise in September despite US pressure - The Times of India
+  India's Russian oil imports set to rise in September despite US pressure.
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQUG5vNHhYMUVQWVhoSDZiU055LVhCMlJIc3pSZmxqYjFoM05EcEpseVkyRW5MOFBCVmo5ZEZZN2RqV0Rlckd6cnBzYnhoRDM1OElycGZlRHNPOFVXb2tMMnJUYUpNanhVYWpQbjg1enhYblQzN3hoRS01a096eHVDWTR6SHlzRk5paTdnOVY2aE5tdTh0LW5KZzBFS3NuS19kNUt4MkJMSkdLbTNfQkZFTXUyZzBKMUdSbWJKZlFYR28ydnFxQzA2ZGhvU2tQYmxiZWtfWV9XbFBZTUtTZlFJWVdFeGRJblZlNm9tZ3cwejRtbDNaUG5NbnFiSkNRT2llM3pnZzJYZnVVTmFGRTRFa3Jadm5tWTJhYm9zRNIBogJBVV95cUxPZnZmem9jTEFoVHdRcjlfbG9WVVNmZndMNmt0djh3U2U0QTh6UWxJZlREeHhoQUNJbjNrcHBvclZaTXZWWnRpSHo3UGFMSy1JLVdVcTVXNS0xdWpGa2FBaS1SWHJUUDl3amdMUkpncW1UNWFtNE1uaGcyUnBlaUZ1NlJ5VVgyV3hKc1hFUVUzM3gxbTdVMmRTZzF2MlUyZUNFTEdMdFMzNWlEZDFXckpId0ZfLS1sWHFPai1Fd2ZmVVpHYXpVOEZnOWV6eUVsanFHZUJ1VGtQWmhnYW10eDFYMVNzbnpHdFZPc1lOa1hFWEJDSXBCemREVXVDbjQ5OG5KT3A4ZXBPUlJ6ZFZIYmp1ejdmckJfMlNIcWNiMnU3S09vQQ?oc=5
 
 - Dream11: From boom to ban, the rise and fall of India's betting apps - BBC
   The betting app industry in India has been rocked by a
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MVXpmVTdNclRHWTA3b1I3YXo4UDRScjczTXhETlZ4VVM5blJWM3FzME80VlotUmxLcW1zYUxuNWhLQTdLMEZFRFNiWFZsbzZWS3BtbkhHT1Z4QdIBX0FVX3lxTFBiTzFmQ09YUnhBdXdRWlRYVGJfY05wTURWY2YtV2lpaXhKd2tna1g1UTVZaHB3TlBOLTBXa2ZkTTN3eVlkT01zcTVtdWZhM1IwSERremFuYTMwSWlfUWhV?oc=5
+
+- Ex-RBI governor Raghuram Rajan's ‘wake-up call’ warning for India as he reacts to Donald Trump tariffs | Latest News India - Hindustan Times - Hindustan Times
+  Ex-RBI governor Raghuram Rajan's ‘wake-up call’ warning for
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSm85RG9hSGRUT2tNcE02X3dmaWs4VWVoYWN5dVlxTFFnMVpuWkl6RmZ0QVhIanhpLVpSNEV2WDAwR09ZdXRkaXFWWDRHX0NTXzFQc0xsQzY2VUE4eWhZTWtIS0IybE42NFB4TGV4d0FQYlFkY1J1OUlremZOZkxsWGR3dG1TTkUxazNJcVA1ZmtmdUpmVjZ6WGxPMXdpVXk4UGdRME5tblZCOVBjSWJBbmpIZzFHSmJ0Vy16RzZFRmkwQUhjdkZfR0JBMU1FbVc1RmpJVzBB0gHbAUFVX3lxTFBKakhWY2tXNmQ4eGt1UGdUX3VpUWRQUFBOaThfT3Fwb2xEMk5oX1EtSGFCVjJqOWxucFpvMTQ3ZmxpWWdEWDJYbkk5dTRmMmRNWjJzekJVS1JhY0taV1pLelRVODJvR1BTYkpBTmtTTnNnRDFZTG5pM01TX0dFcW1IeVdOQ1hwbHFabjNqWE1JWnRpdFNTbmdxakJPaTZYNlRfQVh0M2JlUDlkYXFQS0ZhMXdwdTV6UjdrajQ2NGxGbGJTMkhxWjY4LVRqZkF6SzNyd0c2anozT2xuZw?oc=5
+
+- "Like Mouse Hitting Elephant": American Economist On US Action Against India - NDTV
+  "Like Mouse Hitting Elephant": American Economist
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQcTA1UFlZZm0xVDJBMzRuSFlJZ1U0Q3BNMG1yQVhpa2dzQzBVMnlMQTZiNFZEMWRnbm01c1RfdzBHNkRkZlpFUmd4MFphcnV6RXlCUENHZDlGUzMtN1V6Qm44UU1DdXdlNzhESzdUSm8wQ1MzUF9fVURXVnpuNm9ZSXNOV05JaUxJUEc5T3pRYklSRlRSQ2xpdXduczFtektodTR1UU9abjZaWFpYZUc3SkQza9IBuwFBVV95cUxPUjllS2dVSUlsVlBHVmY3azQ4QklnZ0ZpWkdLUnhsU0JURE9Fcl9zVS1aOUZDU2NfUVliRHBPX1ZqTUtGWHl0Tm1INjVybnlZVVk5ZzAyMHZpMThCcDkyX2t3MUVMMjZ4NVFwaG9aVWVoYUpGQjVwTmg4aXg2X3YwV3Exbzd6MnFvSFU4LUw3bkxSUU9oSTJYRW1pTG5yWkx0ZkMwLU1yVFphU0tiTG15U2xVM05rT1A2LTZJ?oc=5
+
+- "If Indians Don't Budge...": Trump Adviser's New Trade Warning To New Delhi - NDTV
+  "If Indians Don't Budge...": Trump
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWtoaUM5a2x0VG0tOV9zOW40WmVlbjFidEo5NElkSWlvcHNlNVZRWkFLMURSVlFrRnJpbHZCTndRV1dfSUU3UGlIZWFuQ0M0WllBVnozRlhfbEc1YW1kQ0pveWFrenhHTDUyaXk4dC1LU1FGZmpaRjRFaXozRHdzUmVhQm01WE0yRVd5ZXRSVW5yY1U5RGsxWndpZnByVl9US0cyX2Q1QWFYNU1FT3FMTFdMd1hUR0RmcXVyLW5JdFBXanZW0gHMAUFVX3lxTE0wUmhvdUltUlF3akVaNEFRMk12dURYcUZJaTFUVlh5V09SMDZ3dG9IOFhtUUpPSDFDR09EbHZQMlJXMFRkdkFNZkR1ejNIUmQ1STZpRDc1NkhmREkxM1R5SHhvTU41TkVQZU4yV0J0TlpqUWQ4YS1TSXJlQTlrSG5FNEFpRWR6U1FLZWM2SHVwTG1FZDR0RlFONWotYU91eGxCdEFYeERHU2l5dlpXNXNzbFdlRGlhMWVhSDVhWmFMTV9NNU9IM3lwN1pLWA?oc=5
+
+- Donald Trump Tariffs News Live Updates: India's Russian oil imports set to rise in September despite US pressure - The Times of India
+  India's Russian oil imports set to rise in September despite US pressure.
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQUG5vNHhYMUVQWVhoSDZiU055LVhCMlJIc3pSZmxqYjFoM05EcEpseVkyRW5MOFBCVmo5ZEZZN2RqV0Rlckd6cnBzYnhoRDM1OElycGZlRHNPOFVXb2tMMnJUYUpNanhVYWpQbjg1enhYblQzN3hoRS01a096eHVDWTR6SHlzRk5paTdnOVY2aE5tdTh0LW5KZzBFS3NuS19kNUt4MkJMSkdLbTNfQkZFTXUyZzBKMUdSbWJKZlFYR28ydnFxQzA2ZGhvU2tQYmxiZWtfWV9XbFBZTUtTZlFJWVdFeGRJblZlNm9tZ3cwejRtbDNaUG5NbnFiSkNRT2llM3pnZzJYZnVVTmFGRTRFa3Jadm5tWTJhYm9zRNIBogJBVV95cUxPZnZmem9jTEFoVHdRcjlfbG9WVVNmZndMNmt0djh3U2U0QTh6UWxJZlREeHhoQUNJbjNrcHBvclZaTXZWWnRpSHo3UGFMSy1JLVdVcTVXNS0xdWpGa2FBaS1SWHJUUDl3amdMUkpncW1UNWFtNE1uaGcyUnBlaUZ1NlJ5VVgyV3hKc1hFUVUzM3gxbTdVMmRTZzF2MlUyZUNFTEdMdFMzNWlEZDFXckpId0ZfLS1sWHFPai1Fd2ZmVVpHYXpVOEZnOWV6eUVsanFHZUJ1VGtQWmhnYW10eDFYMVNzbnpHdFZPc1lOa1hFWEJDSXBCemREVXVDbjQ5OG5KT3A4ZXBPUlJ6ZFZIYmp1ejdmckJfMlNIcWNiMnU3S09vQQ?oc=5
+
+- Dream11: From boom to ban, the rise and fall of India's betting apps - BBC
+  The betting app industry in India has been rocked by a
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MVXpmVTdNclRHWTA3b1I3YXo4UDRScjczTXhETlZ4VVM5blJWM3FzME80VlotUmxLcW1zYUxuNWhLQTdLMEZFRFNiWFZsbzZWS3BtbkhHT1Z4QdIBX0FVX3lxTFBiTzFmQ09YUnhBdXdRWlRYVGJfY05wTURWY2YtV2lpaXhKd2tna1g1UTVZaHB3TlBOLTBXa2ZkTTN3eVlkT01zcTVtdWZhM1IwSERremFuYTMwSWlfUWhV?oc=5
+
+- Ex-RBI governor Raghuram Rajan's ‘wake-up call’ warning for India as he reacts to Donald Trump tariffs | Latest News India - Hindustan Times - Hindustan Times
+  Ex-RBI governor Raghuram Rajan's ‘wake-up call’ warning for
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSm85RG9hSGRUT2tNcE02X3dmaWs4VWVoYWN5dVlxTFFnMVpuWkl6RmZ0QVhIanhpLVpSNEV2WDAwR09ZdXRkaXFWWDRHX0NTXzFQc0xsQzY2VUE4eWhZTWtIS0IybE42NFB4TGV4d0FQYlFkY1J1OUlremZOZkxsWGR3dG1TTkUxazNJcVA1ZmtmdUpmVjZ6WGxPMXdpVXk4UGdRME5tblZCOVBjSWJBbmpIZzFHSmJ0Vy16RzZFRmkwQUhjdkZfR0JBMU1FbVc1RmpJVzBB0gHbAUFVX3lxTFBKakhWY2tXNmQ4eGt1UGdUX3VpUWRQUFBOaThfT3Fwb2xEMk5oX1EtSGFCVjJqOWxucFpvMTQ3ZmxpWWdEWDJYbkk5dTRmMmRNWjJzekJVS1JhY0taV1pLelRVODJvR1BTYkpBTmtTTnNnRDFZTG5pM01TX0dFcW1IeVdOQ1hwbHFabjNqWE1JWnRpdFNTbmdxakJPaTZYNlRfQVh0M2JlUDlkYXFQS0ZhMXdwdTV6UjdrajQ2NGxGbGJTMkhxWjY4LVRqZkF6SzNyd0c2anozT2xuZw?oc=5
+
+- "Like Mouse Hitting Elephant": American Economist On US Action Against India - NDTV
+  "Like Mouse Hitting Elephant": American Economist
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQcTA1UFlZZm0xVDJBMzRuSFlJZ1U0Q3BNMG1yQVhpa2dzQzBVMnlMQTZiNFZEMWRnbm01c1RfdzBHNkRkZlpFUmd4MFphcnV6RXlCUENHZDlGUzMtN1V6Qm44UU1DdXdlNzhESzdUSm8wQ1MzUF9fVURXVnpuNm9ZSXNOV05JaUxJUEc5T3pRYklSRlRSQ2xpdXduczFtektodTR1UU9abjZaWFpYZUc3SkQza9IBuwFBVV95cUxPUjllS2dVSUlsVlBHVmY3azQ4QklnZ0ZpWkdLUnhsU0JURE9Fcl9zVS1aOUZDU2NfUVliRHBPX1ZqTUtGWHl0Tm1INjVybnlZVVk5ZzAyMHZpMThCcDkyX2t3MUVMMjZ4NVFwaG9aVWVoYUpGQjVwTmg4aXg2X3YwV3Exbzd6MnFvSFU4LUw3bkxSUU9oSTJYRW1pTG5yWkx0ZkMwLU1yVFphU0tiTG15U2xVM05rT1A2LTZJ?oc=5
+
+- "If Indians Don't Budge...": Trump Adviser's New Trade Warning To New Delhi - NDTV
+  "If Indians Don't Budge...": Trump
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWtoaUM5a2x0VG0tOV9zOW40WmVlbjFidEo5NElkSWlvcHNlNVZRWkFLMURSVlFrRnJpbHZCTndRV1dfSUU3UGlIZWFuQ0M0WllBVnozRlhfbEc1YW1kQ0pveWFrenhHTDUyaXk4dC1LU1FGZmpaRjRFaXozRHdzUmVhQm01WE0yRVd5ZXRSVW5yY1U5RGsxWndpZnByVl9US0cyX2Q1QWFYNU1FT3FMTFdMd1hUR0RmcXVyLW5JdFBXanZW0gHMAUFVX3lxTE0wUmhvdUltUlF3akVaNEFRMk12dURYcUZJaTFUVlh5V09SMDZ3dG9IOFhtUUpPSDFDR09EbHZQMlJXMFRkdkFNZkR1ejNIUmQ1STZpRDc1NkhmREkxM1R5SHhvTU41TkVQZU4yV0J0TlpqUWQ4YS1TSXJlQTlrSG5FNEFpRWR6U1FLZWM2SHVwTG1FZDR0RlFONWotYU91eGxCdEFYeERHU2l5dlpXNXNzbFdlRGlhMWVhSDVhWmFMTV9NNU9IM3lwN1pLWA?oc=5
+
+- Donald Trump Tariffs News Live Updates: India's Russian oil imports set to rise in September despite US pressure - The Times of India
+  India's Russian oil imports set to rise in September despite US pressure.
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQUG5vNHhYMUVQWVhoSDZiU055LVhCMlJIc3pSZmxqYjFoM05EcEpseVkyRW5MOFBCVmo5ZEZZN2RqV0Rlckd6cnBzYnhoRDM1OElycGZlRHNPOFVXb2tMMnJUYUpNanhVYWpQbjg1enhYblQzN3hoRS01a096eHVDWTR6SHlzRk5paTdnOVY2aE5tdTh0LW5KZzBFS3NuS19kNUt4MkJMSkdLbTNfQkZFTXUyZzBKMUdSbWJKZlFYR28ydnFxQzA2ZGhvU2tQYmxiZWtfWV9XbFBZTUtTZlFJWVdFeGRJblZlNm9tZ3cwejRtbDNaUG5NbnFiSkNRT2llM3pnZzJYZnVVTmFGRTRFa3Jadm5tWTJhYm9zRNIBogJBVV95cUxPZnZmem9jTEFoVHdRcjlfbG9WVVNmZndMNmt0djh3U2U0QTh6UWxJZlREeHhoQUNJbjNrcHBvclZaTXZWWnRpSHo3UGFMSy1JLVdVcTVXNS0xdWpGa2FBaS1SWHJUUDl3amdMUkpncW1UNWFtNE1uaGcyUnBlaUZ1NlJ5VVgyV3hKc1hFUVUzM3gxbTdVMmRTZzF2MlUyZUNFTEdMdFMzNWlEZDFXckpId0ZfLS1sWHFPai1Fd2ZmVVpHYXpVOEZnOWV6eUVsanFHZUJ1VGtQWmhnYW10eDFYMVNzbnpHdFZPc1lOa1hFWEJDSXBCemREVXVDbjQ5OG5KT3A4ZXBPUlJ6ZFZIYmp1ejdmckJfMlNIcWNiMnU3S09vQQ?oc=5
+
+- Dream11: From boom to ban, the rise and fall of India's betting apps - BBC
+  The betting app industry in India has been rocked by a
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MVXpmVTdNclRHWTA3b1I3YXo4UDRScjczTXhETlZ4VVM5blJWM3FzME80VlotUmxLcW1zYUxuNWhLQTdLMEZFRFNiWFZsbzZWS3BtbkhHT1Z4QdIBX0FVX3lxTFBiTzFmQ09YUnhBdXdRWlRYVGJfY05wTURWY2YtV2lpaXhKd2tna1g1UTVZaHB3TlBOLTBXa2ZkTTN3eVlkT01zcTVtdWZhM1IwSERremFuYTMwSWlfUWhV?oc=5
+
+- Ex-RBI governor Raghuram Rajan's ‘wake-up call’ warning for India as he reacts to Donald Trump tariffs | Latest News India - Hindustan Times - Hindustan Times
+  Ex-RBI governor Raghuram Rajan's ‘wake-up call’ warning for
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSm85RG9hSGRUT2tNcE02X3dmaWs4VWVoYWN5dVlxTFFnMVpuWkl6RmZ0QVhIanhpLVpSNEV2WDAwR09ZdXRkaXFWWDRHX0NTXzFQc0xsQzY2VUE4eWhZTWtIS0IybE42NFB4TGV4d0FQYlFkY1J1OUlremZOZkxsWGR3dG1TTkUxazNJcVA1ZmtmdUpmVjZ6WGxPMXdpVXk4UGdRME5tblZCOVBjSWJBbmpIZzFHSmJ0Vy16RzZFRmkwQUhjdkZfR0JBMU1FbVc1RmpJVzBB0gHbAUFVX3lxTFBKakhWY2tXNmQ4eGt1UGdUX3VpUWRQUFBOaThfT3Fwb2xEMk5oX1EtSGFCVjJqOWxucFpvMTQ3ZmxpWWdEWDJYbkk5dTRmMmRNWjJzekJVS1JhY0taV1pLelRVODJvR1BTYkpBTmtTTnNnRDFZTG5pM01TX0dFcW1IeVdOQ1hwbHFabjNqWE1JWnRpdFNTbmdxakJPaTZYNlRfQVh0M2JlUDlkYXFQS0ZhMXdwdTV6UjdrajQ2NGxGbGJTMkhxWjY4LVRqZkF6SzNyd0c2anozT2xuZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-08-28 12:33:54 UTC_
+_Last updated: 2025-08-28 18:25:50 UTC_
