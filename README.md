@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Congress, RJD leaders must apologise for derogatory remarks against PM Modi, his late mother: Tripura CM Manik Saha
+- Delhi HC upholds CAT order to promote IRS officer Wankhede
   
-  🔗 https://indianexpress.com/article/india/congress-rjd-derogatory-remarks-pm-modi-mother-tripura-manik-saha-10219355/
+  🔗 https://indianexpress.com/article/india/delhi-hc-upholds-cat-order-to-promote-irs-officer-wankhede-10219713/
 
-- Chandrayaan to AI Initiative: PM Modi’s 6 big announcements from Japan
+- India & China need to work together, bring stability to global economy: PM Modi
   
-  🔗 https://indianexpress.com/article/india/chandrayaan-ai-initiative-defence-pm-modi-6-big-announcement-japan-10219046/
+  🔗 https://indianexpress.com/article/india/india-china-need-to-work-together-bring-stability-to-global-economy-pm-modi-10219712/
 
-- Ashwini Vaishnaw directs officials to fast-track holding area project at New Delhi railway station
+- Himachal: 10 die in Chamba over 5 days, 4 missing
   
-  🔗 https://indianexpress.com/article/india/ashwini-vaishnaw-directs-officials-to-fast-track-holding-area-at-new-delhi-railway-station-10219145/
+  🔗 https://indianexpress.com/article/india/himachal-10-die-in-chamba-over-5-days-4-missing-10219700/
 
-- In Uttarakhand, unrelenting rain, 5 casualties, and many villages cut off
+- Opposition states back GST rate cut, but seek compensation for losses
   
-  🔗 https://indianexpress.com/article/india/in-uttarakhand-unrelenting-rain-5-casualties-and-many-villages-cut-off-10219096/
+  🔗 https://indianexpress.com/article/india/opposition-states-back-gst-rate-cut-but-seek-compensation-for-losses-10219487/
 
-- ‘India bankrolls Russia’: Trump trade adviser doubles down on 50% US tariff
+- Clarify if there’s certain bias in suspecting Bengali-speakers to be foreigners: Supreme Court to Govt
   
-  🔗 https://indianexpress.com/article/world/india-bankrolls-russia-trump-peter-navarro-lindsey-graham-us-tariff-10218518/
+  🔗 https://indianexpress.com/article/india/clarify-if-theres-certain-bias-in-suspecting-bengali-speakers-to-be-foreigners-supreme-court-to-govt-10219649/
 
 - Reliance and Meta announce intent to form joint venture to build AI solutions for Indian enterprises
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/mukesh-ambani-pitches-reliance-intelligence-as-indias-ai-engine-at-ril-agm-10218551/
 
-- Reliance bets on Jio IPO, FMCG push and AI; markets signal caution
-  Reliance shares slipped on Friday, with experts pointing to challenges in
-  🔗 https://www.livemint.com/companies/news/reliance-bets-on-jio-ipo-fmcg-push-ai-markets-signal-caution-shares-mukesh-ambani-11756470164077.html
+- Japanese Nail Salon Attempts Reinvention as Major Bitcoin Holder
+  Convano Inc. was, until recently, a sleepy Tokyo-listed operator of nail salons. Now it wants to become one of the world’s largest corporate holders of Bitcoin.
+  🔗 https://www.livemint.com/companies/news/japanese-nail-salon-attempts-reinvention-as-major-bitcoin-holder-11756509570256.html
 
-- Akash, Isha and Anant fully embedded in Reliance’s operations, Mukesh Ambani says at company’s AGM
-  Ambani's comments come amid questions from investors about succession planning at the group.
-  🔗 https://www.livemint.com/companies/news/reliance-industries-mukesh-ambani-ambani-succession-reliance-agm-anant-ambani-isha-ambani-akash-ambani-reliance-11756477173956.html
+- Spirit Airlines Tumbles After Filing Second Bankruptcy in a Year
+  Spirit Aviation Holdings Inc. filed for bankruptcy for the second time in less than a year.
+  🔗 https://www.livemint.com/companies/news/spirit-airlines-tumbles-after-filing-second-bankruptcy-in-a-year-11756503801097.html
 
-- CG Semi to launch nation's first ‘Made in India’ semiconductor chip — Here's all you need to know about the firm
-   CG Semi, a joint venture majorly owned by the Indian company CG Power and Industrial Solutions, is set to launch the first ‘Made in India’ semiconductor chip.
-  🔗 https://www.livemint.com/companies/news/cg-semi-to-launch-nations-first-made-in-india-semiconductor-chip-heres-all-you-need-to-know-about-the-firm-11756474505513.html
+- ‘I looked at him and said…’: Accenture CEO Julie Sweet reveals things you should never do if you get offered a big job
+  Accenture CEO Julie Sweet shared her journey of becoming an executive. She highlighted what people should never do if they get offered a ‘big’ job
+  🔗 https://www.livemint.com/companies/people/i-looked-at-him-and-said-accenture-ceo-julie-sweet-reveals-things-you-should-never-do-if-you-get-offered-a-big-job-11756498317830.html
 
-- E-commerce platforms ramp up seasonal hiring ahead of festivities, create over 3.8 lakh jobs
-  E-commerce platforms ramp up seasonal hiring ahead
-  🔗 https://www.livemint.com/companies/news/ecommerce-platforms-ramp-up-seasonal-hiring-ahead-of-festivities-create-over-3-8-lakh-jobs-11756477129434.html
+- Samsung, SK Hynix Lose US Waiver on Chip Gear for China Use
+  The Trump administration will make it harder for Samsung Electronics Co. and SK Hynix Inc. to ship critical equipment to their chipmaking operations in China.
+  🔗 https://www.livemint.com/companies/news/samsung-sk-hynix-lose-us-waiver-on-chip-gear-for-china-use-11756500460846.html
 
-- Top pharma, FMCG firms line up to buy Wellbeing Nutrition at likely  ₹1,500 cr valuation
-  The deal could value the company, backed by Hindustan
-  🔗 https://www.livemint.com/companies/news/wellbeing-nutrition-acquisition-hindustan-unilever-hul-fireside-ventures-strategic-sale-pharma-companies-fmcg-11756471234640.html
+- Morgan Stanley Asks Federal Reserve to Cut Capital Requirement
+  The Federal Reserve announced upcoming capital requirements for most Wall Street banks that are in line with lenders’ expectations.
+  🔗 https://www.livemint.com/companies/news/morgan-stanley-asks-federal-reserve-to-cut-capital-requirement-11756499007523.html
 
-- Sebi extends deadline for regulated entities to submit compliance, action taken report
-  Sebi extended the compliance timelines for regulated entities to submit the compliance action taken report by one month. The filings are mandatory under the digital accessibility framework of
-  🔗 https://www.livemint.com/market/stock-market-news/sebi-extends-deadline-for-regulated-entities-to-submit-compliance-action-taken-report-11756482048789.html
+- University of Phoenix Files for IPO After Dropping Planned Sale
+  The University of Phoenix filed for an initial public offering. Apollo Global Management Inc. and the Vistria Group walked away from a potential $550 million sale.
+  🔗 https://www.livemint.com/market/ipo/university-of-phoenix-files-for-ipo-after-dropping-planned-sale-11756507139044.html
 
-- Markets set to break out of tight range in September, futures rollover data shows
-   bulls and bears are setting the stage for a massive contest. As the impact of US tariffs looms and the government
-  🔗 https://www.livemint.com/market/markets-tight-range-rollover-data-futures-derivatives-economic-growth-tariffs-rupee-bonds-11756469317600.html
+- TSX closes at record high, boosted by gold stocks and rate cut bets
+  TSX closes at record high, boosted by gold stocks
+  🔗 https://www.livemint.com/market/stock-market-news/tsx-closes-at-record-high-boosted-by-gold-stocks-and-rate-cut-bets-11756501916342.html
 
-- Wall Street today: S&amp;P 500, Dow Jones, Nasdaq edge lower after inflation data
-  The S&amp;amp;P 500 was down 0.7%, the Dow Jones Industrial Average shed
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-today-s-p-500-dow-jones-nasdaq-edge-lower-after-inflation-data-11756474630052.html
+- Wall St Week Ahead-US jobs data poses hurdle for rate-cut hopes, stocks rally
+  Wall St Week Ahead-US jobs data poses hurdle for rate-
+  🔗 https://www.livemint.com/market/stock-market-news/wall-st-week-ahead-us-jobs-data-poses-hurdle-for-rate-cut-hopes-stocks-rally-11756499553164.html
 
-- Two-year yields heading for largest monthly drop in a year
-  Two-year yields heading
-  🔗 https://www.livemint.com/market/stock-market-news/twoyear-yields-heading-for-largest-monthly-drop-in-a-year-11756475411584.html
+- Stocks decline with tech shares; dollar weakens as US inflation data in line
+  Stocks decline with tech shares; dollar weakens as US
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-decline-with-tech-shares-dollar-weakens-as-us-inflation-data-in-line-11756496578102.html
 
-- Indian stock market posts losses for second month on US tariffs, FPI outflows
-  The Nifty 50 lost 1.78% and the Sensex 1.84%, marking their worst weekly drop in the last five months. The broader markets registered even steeper cuts, with the Nifty Midcap
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-posts-losses-for-second-month-on-us-tariffs-fpi-outflows-11756471181723.html
+- Treasuries Hold Recent Gains as Inflation Gauge Stabilizes
+  US Treasuries retained most of their recent gains as anticipation of Federal Reserve interest rate cuts held firm. The central bank
+  🔗 https://www.livemint.com/market/stock-market-news/treasuries-hold-recent-gains-as-inflation-gauge-stabilizes-11756496453512.html
+
+- AI can’t match human creativity, says Fields medalist Manjul Bhargava
+  Leading global mathematicians emphasise that children should be encouraged to enjoy mathematics. They say it will help develop creativity and problem-solving skills.
+  🔗 https://www.livemint.com/technology/ai-artificial-intelligence-human-creativity-fields-medalist-manjul-bhargava-mathematics-technology-11756451346415.html
 
 - Over 2.5 billion Gmail users at risk after ShinyHunters hack; here’s what Google said
   Hacking group has stolen business contact information. Millions at risk of phishing and
@@ -96,9 +100,25 @@
   Reliance is introducing AI features to the JioHotstar app, including a voice assistant named Riya. Real-time dubbing with Voice Print, and new viewing angles with J
   🔗 https://www.livemint.com/technology/tech-news/jiohotstar-to-get-four-new-ai-powered-features-riya-voice-assitanmultilingual-voice-assistant-and-immersive-cricket-mod-11756461337539.html
 
-- Best smart LED projector that can turn your living room into a mini theatre: Top picks for movies and gaming
-  Smart LED projectors deliver stunning visuals, smart features, and
-  🔗 https://www.livemint.com/technology/gadgets/best-smart-led-projector-that-can-turn-your-living-room-into-a-mini-theatre-top-picks-for-movies-and-gaming-11756455410914.html
+- Markets News, Aug. 29, 2025: S&P 500, Dow Retreat From Record Highs as Tech Stocks Tumble; Nvidia, Broadcom Lead Chip Sector Slump - Investopedia
+  Investopedia: S&amp;P 500, Dow Retreat From Record Highs as Tech
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFB0cGVkRm04Y1VaRkg4NTI0cVN0UnlvaWwzOXBZaTZyelRaX0dGaEVQWEFmQmxiOVhNaDRJeElsRW8zOVA0cXVUSVRueG5iblJFbzR0Xy05OUlaVG5mTy01a2FGZ1JnVE9GV0wwSG8wYw?oc=5
+
+- Stocks Hit by Tech Selloff After Economic Reports: Markets Wrap - Bloomberg.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHo1SGlLNVlXYVl3b3paRnhMb3hXNEdtTWlrQ0I1Q3VsLXM0ZjViaXNDbV9xUXJFS3JTRXV4bmRReURLMEZCcFJwcE9NNElTYUJmSU5QWDlqbDJJaWZKUVFpRF9mcXFpaFpQamdCUjI4R3IwOXJWOWZqLTZDSm1WVGZHdlJFRTB4WVlXUDBCNjZ3eXRz?oc=5
+
+- Stock Market Today: Dow Falls 100 Points; Inflation Holds Above Target — Live Updates - The Wall Street Journal
+  The Wall Street Journal reports that the Dow Jones Industrial Average fell 100 points.
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE9QU2NGX2ZibndSb1F3MGk0SFA3N3NUWnVzNjl6ZE5LS1pJX0dZbEt3d09KeFQ4bVphRTNfQnlONG5qR0E0MVVJNTV5LTdnaFpxTHlySVhIdHpDY1hGcjNBOVhvRVpqTG9Cb2tkakhvazBETEVibnR1eFdFUGs?oc=5
+
+- Closing Bell: Nifty near 24,400, Sensex below 80,000; consumer durables, FMCG buck the trend - Moneycontrol
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWXRQeThYS0RNTnZpcF9QNFBoZTF6U19ySTI4clFkXzVZRVR5RkszbXBHTEtNVC1CMDF1azBLbGlLZnZ4UU9QYl9ZdUctM21YM2pENlBJNk0teklBQ29KRktnQXQ3czZsYU
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWXRQeThYS0RNTnZpcF9QNFBoZTF6U19ySTI4clFkXzVZRVR5RkszbXBHTEtNVC1CMDF1azBLbGlLZnZ4UU9QYl9ZdUctM21YM2pENlBJNk0teklBQ29KRktnQXQ3czZsYUgtczVtV2VaQnpyU1hBaXRicXRQTFp0d0RPSWN2TEg4dlhDdkhpSHNkRzJJTDhpUUlhNld6VEhhUi1LR2VwTXRITnZ1S1pJRnVfdmt6eDdqcHlFR01JUHBZRDlTcUc2Vjd2N2F1RDZpRU1VTjk1b2VvRkwtaGVvY3FQQ2lQbm1BOU5XVtIB8gFBVV95cUxOY0RQSUVYbkR5MzZUNEx6Y2NRckNpTVFZRWVGVjMwV2FTRG1MOWFycHlPWEljZ2luZmZRQklvekZPQlFKMFczT0RHaENta1oxeGRvcXNBclNULTZQdXpYX1hoMS1BWjZpVjRnY3JiSTFCSzJxUnVKQXNtWjc2cjZGR2RSQWFLbkgwSXpGUDF0dE5ieDI5QmJZTVA1X1UwM0tZc1FiZDhNbWlOYkhpZEtLRmFnczEtbUs3V21PbmFUOXRTLU9UcEhzSzZ0ZTZudWNVdm1hRzN6QkZmMjFHdmxyeVRONHB4ZUNWS29sSm93X1Zkdw?oc=5
+
+- Asia-Pacific markets trade mixed, breaking ranks with Wall Street - CNBC
+  Asia-Pacific markets trade mixed,
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEdJTkxoZC02a3IxS1N6OVkyRm1aMmQ1aHVuYlV1el92RTlIcWd2VFlIWEs3dWhhLU1sblRlQktiTlpLM0FJSVdGMURQZVZCZC1FVmVQa3ByZzBMVjl0RFMwaVN4RzgwcDRRSU54eS1jTDRjRVplR0RYdk9WRUhDVklLdzh0d2Ntc1HSAY8BQVVfeXFMUGg5VzhXTzZicmdaLUd1bm5uSHRKM3VGakJ3YldPSHN3UUg5Z3hWck91ZDY0Yk1NbWQxMTUwZlRaWHF5dGQ0czk2d3gwRGR2U0dJcFo5ZG5KNnpFM3BKSWFVRWdwcDBJenJZaGdJd05BZHFpNEZlQnZxXzhmLXMxMWhjMm5NbEZuSHpKcVNsRDQ?oc=5
 
 - Gold rate today: Rupee’s low fuels Rs 1,600 per 10 gram surge in yellow metal, fresh peak
   Gold and silver futures surged to lifetime highs on MCX. The rally mirrored global market strength, fueled by a weaker rupee. Experts recommend a buy strategy, anticipating continued upside.
@@ -120,25 +140,9 @@
   Chinese electric vehicle maker BYD's quarterly profit fell for the first time in more than three years. Its expansion hit a speed bump
   🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/byds-quarterly-profit-falls-for-first-time-in-3-1/2-years-as-price-wars-bite/articleshow/123586395.cms
 
-- 50% Tariffs On India As Trump Could Not Mediate India-Pakistan Conflict: Jefferies - NDTV
-  The White House is considering 50% tariffs on India
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ200cjlpYmgyZTZ1OEo2bzVXVkt1MGxvM29kZ1Fxa2hUSWxyVTJKcHRkTmIzalJSYlcxRXMwVl9xTVF4WXFEYmRzcTFPQXJvbFJ1UkhzREhCdE1Bb09MZERIYlBFeUtIcnhfQXhzVGZab25JQnJCR2ljTXZRSGROZjJ6aFo1b0lGZERMQVY4V1R2LURUR0tPMHlxUGRzcTRjSUxpVGVrZy1uM2xJenBJZGIxYzFRd1l1TFdmS2xCWE4xNzhJMDVFNzJxeUHSAdQBQVVfeXFMTm1ncnltamdlNTN5ZGtYWGZOWkxKeThRVWRremZkVjRxUVBKOFMyTXpmT0JqSzFTWXRlVlQzTE0xbW1pN0RCN2NWN1pOV043MS1NYmFFSEFuVnBtdVluOG9SeDFWNWVhQ1haZng2MXRiRkgzR2o2MmNXOC1WNFFsb1lJTnFzRF9YcWVwU2I0anBpYXNZVFYyTlZyc3o2THIteGh2RzhHZ05iUXFRUlJnTzIxVEU0SmNwOGk5dkpSX0hoOVRpcUxnaVQ2TjF5eTZrOVRQcnc?oc=5
-
-- A "Secret" Xi Jinping Letter Was Key To Improved India-China Ties: Report - NDTV
-  A "Secret" Xi Jinping Letter Was Key To
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOG4tb0k5Z2FMX19mOHhxblI2RlBHeTNDdi14VFl3dnc4T3NPbXRaQXVKU2pLWDBlTTVHOGVHckMxNDUxNVk1M24zSFBaS0Z3RHUyMDdxNW0wLUwwMHlkbkdQNTZiVGpGZG5wMDJPS3k4YTVOdW0ta0l3NDk0bGtNbXJuN3pURTF3RHRZdXRhM2g2THBPaVNkMGRXR2RGalR1a2RqMGpIQTFZYU56MHN0ZTRtaWRwVkZfYzZxQ1BLQ1pDMnhncnBuUzhtZUltTTNUeFM5UDlXRdIB3wFBVV95cUxOSGlyNmJLb0loMUdLbTE4aUNLRFBMOFhYeWM2eTRpSmhYcjFOU3BsektoRHhvMUlNRXgwY0lWMm1iamlTTndIazB0U3dmb3ZocnVMcC1hbXI1b2FEWTFMc0VZbnJCdkIwdjNsRkZ6ODAwSWh5Mkt1bWF6QTlodEZrWTJoN2N6RXJBdVNmWVU3QjV1enhjZ2RqZDF5MmU3YXozSkdIeW56Y0JGY3hKak1DekpranFfRS1jMVZDMVRlUU11QkdLSlZHa1RTVjlidURwOThWd0FKQ3RGZl95ZWtv?oc=5
-
-- Important for India, China to work together to bring stability to world economic order: PM - The Hindu
-  The Hindu: India, China must work together to bring stability to
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd1JNMWZpUEhBM0ZETDFfa2R0WDNYeWRaSE5wcERXbVZoTEhqdnV5aVVnY1NCa3hSVU9mRExDZnNIbE40dHBkMnYtTEFfYmxLTlBuNlBwa3dLN2F5TEMtZzRuaDR6RFJPN25BbGdha3ZGY0VRUEhiV3RGUjhGWmhvTDBRcXlCRGZOVXpIZG02QmNZS1BRQk9xNWJ2Q2hwcFUzUVFxVTFxeU5ROG15dDVyOUxxZTEtdlFEMmVnSDdrVFRfS2h4UW1oOGxpcklsbC1pRzEwNGR0WmF3UlRacUpuetIB5wFBVV95cUxQaENmb0I5eFp5TUprU1dsY0M3WTlHUzloai11NGtBWXM1OEM2OUtlSVZBdUpFY2JRRnluRlZiNGI4ZThLd2J4N05rSEJHMnRJbXpCN3lDek9EdXREMmNfekhzSHFUM1Zad0k2VjcxcW9UZUhiVXNCcDdwT3VObnBPMW1QY2pFVl9lLVFpdHA1SlpqUUNWMVJPOHcxVE1BV1hvUG5DdUN4QVRleFhfaEVaeVowa1dHakVWWGE2ekM1UHZDQVNhcFBRY0VacWdud1h2eDRSbWI4VlRtY1BmSUJjLW9Xcm1ZN1E?oc=5
-
-- American economist's 'BRICS' warning to 'world's tough guy' over Trump's 50% tariffs on India | Latest News India - Hindustan Times - Hindustan Times
-  American economist's 'BRICS' warning to 'world's tough guy' over Trump's 50%
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxORU1JU2dVUEp6Tm1yLW9JZXJ4TzloUXlweDJ3X1Y1Uy1tQXo5TndMV2pZTlA4NF9NSlFadHY3MGNYMVJKVnE5bnN5eTF4ZGc2XzRhdGpJaHNJeTg1V2ZOaFNpY3hxU2FfQzlHa19CTE9wX09EaG9yaUh2QVU1U3oxVkhFNTdUNlRmV2lmNWRoUFB5bnhKR3NkTGlTR0lZMDVuX1g5ZFBVWjRQeEFMRWxKTHYwVUVHQ1pfODlQT19XUHN5cE8yaHBsSGllTGJsdjR3S1BRcW1lc1Q4WFFXRkZqUGZZeldnaGY5aUdDUDM0YW9tODDSAfgBQVVfeXFMUFV4bkFrVF9ZeUtlV004YllmeXoyTFl4V1l2bW9ucm9sS1dIdUN2ZXlwRVUzNXhESzhDcTNIUVRFQkFUY0NUTjFqa3FNZW5FRVgtTmdUMEpFWngzRXRaVUZJbkgtUnkyRTRiT0hwbmg0WkpMajY0R2kyTU9qeVVOdTBObVZzOTAzM281Vnl6d0RLOUJxWGFNME13RlVyeW82eWkyZmZ0QjRqOGZHR0hBV0RwcEp6cG1ZOWo3N3RYNTMxb09YdVBxN0NGdUpEbDNXeTd0TkNfVzZic0RsYmJaMzI2VDFDSlpWbU5ZejI5dThIMXJwZWNHOEI?oc=5
-
-- Donald Trump Tariffs News Highlights: India's Russian oil imports set to rise in September despite US pressure - The Times of India
-  India's Russian oil imports set to rise in September despite US pressure.
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQUG5vNHhYMUVQWVhoSDZiU055LVhCMlJIc3pSZmxqYjFoM05EcEpseVkyRW5MOFBCVmo5ZEZZN2RqV0Rlckd6cnBzYnhoRDM1OElycGZlRHNPOFVXb2tMMnJUYUpNanhVYWpQbjg1enhYblQzN3hoRS01a096eHVDWTR6SHlzRk5paTdnOVY2aE5tdTh0LW5KZzBFS3NuS19kNUt4MkJMSkdLbTNfQkZFTXUyZzBKMUdSbWJKZlFYR28ydnFxQzA2ZGhvU2tQYmxiZWtfWV9XbFBZTUtTZlFJWVdFeGRJblZlNm9tZ3cwejRtbDNaUG5NbnFiSkNRT2llM3pnZzJYZnVVTmFGRTRFa3Jadm5tWTJhYm9zRNIBogJBVV95cUxPZnZmem9jTEFoVHdRcjlfbG9WVVNmZndMNmt0djh3U2U0QTh6UWxJZlREeHhoQUNJbjNrcHBvclZaTXZWWnRpSHo3UGFMSy1JLVdVcTVXNS0xdWpGa2FBaS1SWHJUUDl3amdMUkpncW1UNWFtNE1uaGcyUnBlaUZ1NlJ5VVgyV3hKc1hFUVUzM3gxbTdVMmRTZzF2MlUyZUNFTEdMdFMzNWlEZDFXckpId0ZfLS1sWHFPai1Fd2ZmVVpHYXpVOEZnOWV6eUVsanFHZUJ1VGtQWmhnYW10eDFYMVNzbnpHdFZPc1lOa1hFWEJDSXBCemREVXVDbjQ5OG5KT3A4ZXBPUlJ6ZFZIYmp1ejdmckJfMlNIcWNiMnU3S09vQQ?oc=5
+- Rohingya refugees: 'India put us on the boat like captives - then threw us in the sea' - BBC
+  Rohingya refugees: 'India put us on the boat like captives -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1RVVSTThSczUzbUljYnhpWlhVOVQ5Z25GMlBFa2U1eFRNS3ZPVnp2d3owYm9wcVdXanczQkNxRGllYkFTX0wyOFE5MUxJOTdfZEV0Y3NNYzdkQdIBX0FVX3lxTE5aZUg5R2hKUGR3QUZyUWR3YThLUHhVbDRDcGlLSGJrVXlXZmo4U2ZnMUZ3d0l5bE8zckpneXcyMGFkckJPWFZZa0t0aktTbTBtX25MZl8wUW1tcU5PaDJ3?oc=5
 
 - 50% Tariffs On India As Trump Could Not Mediate India-Pakistan Conflict: Jefferies - NDTV
   The White House is considering 50% tariffs on India
@@ -148,37 +152,17 @@
   A "Secret" Xi Jinping Letter Was Key To
   🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOG4tb0k5Z2FMX19mOHhxblI2RlBHeTNDdi14VFl3dnc4T3NPbXRaQXVKU2pLWDBlTTVHOGVHckMxNDUxNVk1M24zSFBaS0Z3RHUyMDdxNW0wLUwwMHlkbkdQNTZiVGpGZG5wMDJPS3k4YTVOdW0ta0l3NDk0bGtNbXJuN3pURTF3RHRZdXRhM2g2THBPaVNkMGRXR2RGalR1a2RqMGpIQTFZYU56MHN0ZTRtaWRwVkZfYzZxQ1BLQ1pDMnhncnBuUzhtZUltTTNUeFM5UDlXRdIB3wFBVV95cUxOSGlyNmJLb0loMUdLbTE4aUNLRFBMOFhYeWM2eTRpSmhYcjFOU3BsektoRHhvMUlNRXgwY0lWMm1iamlTTndIazB0U3dmb3ZocnVMcC1hbXI1b2FEWTFMc0VZbnJCdkIwdjNsRkZ6ODAwSWh5Mkt1bWF6QTlodEZrWTJoN2N6RXJBdVNmWVU3QjV1enhjZ2RqZDF5MmU3YXozSkdIeW56Y0JGY3hKak1DekpranFfRS1jMVZDMVRlUU11QkdLSlZHa1RTVjlidURwOThWd0FKQ3RGZl95ZWtv?oc=5
 
-- Important for India, China to work together to bring stability to world economic order: PM - The Hindu
-  The Hindu: India, China must work together to bring stability to
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd1JNMWZpUEhBM0ZETDFfa2R0WDNYeWRaSE5wcERXbVZoTEhqdnV5aVVnY1NCa3hSVU9mRExDZnNIbE40dHBkMnYtTEFfYmxLTlBuNlBwa3dLN2F5TEMtZzRuaDR6RFJPN25BbGdha3ZGY0VRUEhiV3RGUjhGWmhvTDBRcXlCRGZOVXpIZG02QmNZS1BRQk9xNWJ2Q2hwcFUzUVFxVTFxeU5ROG15dDVyOUxxZTEtdlFEMmVnSDdrVFRfS2h4UW1oOGxpcklsbC1pRzEwNGR0WmF3UlRacUpuetIB5wFBVV95cUxQaENmb0I5eFp5TUprU1dsY0M3WTlHUzloai11NGtBWXM1OEM2OUtlSVZBdUpFY2JRRnluRlZiNGI4ZThLd2J4N05rSEJHMnRJbXpCN3lDek9EdXREMmNfekhzSHFUM1Zad0k2VjcxcW9UZUhiVXNCcDdwT3VObnBPMW1QY2pFVl9lLVFpdHA1SlpqUUNWMVJPOHcxVE1BV1hvUG5DdUN4QVRleFhfaEVaeVowa1dHakVWWGE2ekM1UHZDQVNhcFBRY0VacWdud1h2eDRSbWI4VlRtY1BmSUJjLW9Xcm1ZN1E?oc=5
+- MoU inked for investments in decarbonising technologies - Hindustan Times
+  MoU inked for investments
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2RmUXFqcGMtRkw3Z2ZrZVVNM3M1STM3SkJ0eDgzNkxSVGg3aDdlNnZRU2sxdUZxTjV3Sk5TYVdMME44TDZhUXRoOGV4VUFOZVdScDcwdUhTMEF2Zmt3enowXy1Vc2lWYmt1U1Zqd3R6c2hjalFtdFFmRGRTOVEzSkZSdE9XWjNYb3MyV2VRczg0bHRaU0ZqbHd3ZG5ENDhZM21rRFVVQV9uaTd2dWhTNG96MDFNSzV6?oc=5
 
-- American economist's 'BRICS' warning to 'world's tough guy' over Trump's 50% tariffs on India | Latest News India - Hindustan Times - Hindustan Times
-  American economist's 'BRICS' warning to 'world's tough guy' over Trump's 50%
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxORU1JU2dVUEp6Tm1yLW9JZXJ4TzloUXlweDJ3X1Y1Uy1tQXo5TndMV2pZTlA4NF9NSlFadHY3MGNYMVJKVnE5bnN5eTF4ZGc2XzRhdGpJaHNJeTg1V2ZOaFNpY3hxU2FfQzlHa19CTE9wX09EaG9yaUh2QVU1U3oxVkhFNTdUNlRmV2lmNWRoUFB5bnhKR3NkTGlTR0lZMDVuX1g5ZFBVWjRQeEFMRWxKTHYwVUVHQ1pfODlQT19XUHN5cE8yaHBsSGllTGJsdjR3S1BRcW1lc1Q4WFFXRkZqUGZZeldnaGY5aUdDUDM0YW9tODDSAfgBQVVfeXFMUFV4bkFrVF9ZeUtlV004YllmeXoyTFl4V1l2bW9ucm9sS1dIdUN2ZXlwRVUzNXhESzhDcTNIUVRFQkFUY0NUTjFqa3FNZW5FRVgtTmdUMEpFWngzRXRaVUZJbkgtUnkyRTRiT0hwbmg0WkpMajY0R2kyTU9qeVVOdTBObVZzOTAzM281Vnl6d0RLOUJxWGFNME13RlVyeW82eWkyZmZ0QjRqOGZHR0hBV0RwcEp6cG1ZOWo3N3RYNTMxb09YdVBxN0NGdUpEbDNXeTd0TkNfVzZic0RsYmJaMzI2VDFDSlpWbU5ZejI5dThIMXJwZWNHOEI?oc=5
+- Top news headlines for school assembly: August 30 - India Today
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVNKaUg5VHM1aF91UURYcDlYV043ajNjVFNlMUpSR1Y0SEpBN252UWJpbVdUcWlKSFJqVVZ6QlJWOEk5OU5lakg3WldsTEE4OVFLZzVQSzBJamgxXzRqV0ktVlo2MWlHU3RyLTZwWE1VU2ZGNi00NktEZTlNX3hLRTVydzFkZlZoSFcwX3lmel9HWnBfRDR6QzVjT2lYVE90SXVYRHdLaFBmWld4NDZ1cHJmVnlMMk1jSnVDLdIBwgFBVV95cUxQbzdKRTFVYVZYWVJySkdRNDdCb241THRaYXVVcVVGdHI3RldieXE5ZU1RR09rWTZSMnJBN0xIUDU5MmRHREdXUlpZcmRETm5VSkQ4aVo0M3A1cjI5ZUFYNml0dWwtRi11NDVlaVIwNF82RUUwX0NkYnNrQXJCTWFjVkJHSE5fdi01dGVoUVNjLVNnRjVIS1lyN3k5eXQwTVRHZjNZbFJ3WEhlWmVrSXg5R0sxWjlrS0N0ZHRGVV8wLTR1Zw?oc=5
 
-- Donald Trump Tariffs News Highlights: India's Russian oil imports set to rise in September despite US pressure - The Times of India
-  India's Russian oil imports set to rise in September despite US pressure.
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQUG5vNHhYMUVQWVhoSDZiU055LVhCMlJIc3pSZmxqYjFoM05EcEpseVkyRW5MOFBCVmo5ZEZZN2RqV0Rlckd6cnBzYnhoRDM1OElycGZlRHNPOFVXb2tMMnJUYUpNanhVYWpQbjg1enhYblQzN3hoRS01a096eHVDWTR6SHlzRk5paTdnOVY2aE5tdTh0LW5KZzBFS3NuS19kNUt4MkJMSkdLbTNfQkZFTXUyZzBKMUdSbWJKZlFYR28ydnFxQzA2ZGhvU2tQYmxiZWtfWV9XbFBZTUtTZlFJWVdFeGRJblZlNm9tZ3cwejRtbDNaUG5NbnFiSkNRT2llM3pnZzJYZnVVTmFGRTRFa3Jadm5tWTJhYm9zRNIBogJBVV95cUxPZnZmem9jTEFoVHdRcjlfbG9WVVNmZndMNmt0djh3U2U0QTh6UWxJZlREeHhoQUNJbjNrcHBvclZaTXZWWnRpSHo3UGFMSy1JLVdVcTVXNS0xdWpGa2FBaS1SWHJUUDl3amdMUkpncW1UNWFtNE1uaGcyUnBlaUZ1NlJ5VVgyV3hKc1hFUVUzM3gxbTdVMmRTZzF2MlUyZUNFTEdMdFMzNWlEZDFXckpId0ZfLS1sWHFPai1Fd2ZmVVpHYXpVOEZnOWV6eUVsanFHZUJ1VGtQWmhnYW10eDFYMVNzbnpHdFZPc1lOa1hFWEJDSXBCemREVXVDbjQ5OG5KT3A4ZXBPUlJ6ZFZIYmp1ejdmckJfMlNIcWNiMnU3S09vQQ?oc=5
-
-- 50% Tariffs On India As Trump Could Not Mediate India-Pakistan Conflict: Jefferies - NDTV
-  The White House is considering 50% tariffs on India
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ200cjlpYmgyZTZ1OEo2bzVXVkt1MGxvM29kZ1Fxa2hUSWxyVTJKcHRkTmIzalJSYlcxRXMwVl9xTVF4WXFEYmRzcTFPQXJvbFJ1UkhzREhCdE1Bb09MZERIYlBFeUtIcnhfQXhzVGZab25JQnJCR2ljTXZRSGROZjJ6aFo1b0lGZERMQVY4V1R2LURUR0tPMHlxUGRzcTRjSUxpVGVrZy1uM2xJenBJZGIxYzFRd1l1TFdmS2xCWE4xNzhJMDVFNzJxeUHSAdQBQVVfeXFMTm1ncnltamdlNTN5ZGtYWGZOWkxKeThRVWRremZkVjRxUVBKOFMyTXpmT0JqSzFTWXRlVlQzTE0xbW1pN0RCN2NWN1pOV043MS1NYmFFSEFuVnBtdVluOG9SeDFWNWVhQ1haZng2MXRiRkgzR2o2MmNXOC1WNFFsb1lJTnFzRF9YcWVwU2I0anBpYXNZVFYyTlZyc3o2THIteGh2RzhHZ05iUXFRUlJnTzIxVEU0SmNwOGk5dkpSX0hoOVRpcUxnaVQ2TjF5eTZrOVRQcnc?oc=5
-
-- A "Secret" Xi Jinping Letter Was Key To Improved India-China Ties: Report - NDTV
-  A "Secret" Xi Jinping Letter Was Key To
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOG4tb0k5Z2FMX19mOHhxblI2RlBHeTNDdi14VFl3dnc4T3NPbXRaQXVKU2pLWDBlTTVHOGVHckMxNDUxNVk1M24zSFBaS0Z3RHUyMDdxNW0wLUwwMHlkbkdQNTZiVGpGZG5wMDJPS3k4YTVOdW0ta0l3NDk0bGtNbXJuN3pURTF3RHRZdXRhM2g2THBPaVNkMGRXR2RGalR1a2RqMGpIQTFZYU56MHN0ZTRtaWRwVkZfYzZxQ1BLQ1pDMnhncnBuUzhtZUltTTNUeFM5UDlXRdIB3wFBVV95cUxOSGlyNmJLb0loMUdLbTE4aUNLRFBMOFhYeWM2eTRpSmhYcjFOU3BsektoRHhvMUlNRXgwY0lWMm1iamlTTndIazB0U3dmb3ZocnVMcC1hbXI1b2FEWTFMc0VZbnJCdkIwdjNsRkZ6ODAwSWh5Mkt1bWF6QTlodEZrWTJoN2N6RXJBdVNmWVU3QjV1enhjZ2RqZDF5MmU3YXozSkdIeW56Y0JGY3hKak1DekpranFfRS1jMVZDMVRlUU11QkdLSlZHa1RTVjlidURwOThWd0FKQ3RGZl95ZWtv?oc=5
-
-- Important for India, China to work together to bring stability to world economic order: PM - The Hindu
-  The Hindu: India, China must work together to bring stability to
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd1JNMWZpUEhBM0ZETDFfa2R0WDNYeWRaSE5wcERXbVZoTEhqdnV5aVVnY1NCa3hSVU9mRExDZnNIbE40dHBkMnYtTEFfYmxLTlBuNlBwa3dLN2F5TEMtZzRuaDR6RFJPN25BbGdha3ZGY0VRUEhiV3RGUjhGWmhvTDBRcXlCRGZOVXpIZG02QmNZS1BRQk9xNWJ2Q2hwcFUzUVFxVTFxeU5ROG15dDVyOUxxZTEtdlFEMmVnSDdrVFRfS2h4UW1oOGxpcklsbC1pRzEwNGR0WmF3UlRacUpuetIB5wFBVV95cUxQaENmb0I5eFp5TUprU1dsY0M3WTlHUzloai11NGtBWXM1OEM2OUtlSVZBdUpFY2JRRnluRlZiNGI4ZThLd2J4N05rSEJHMnRJbXpCN3lDek9EdXREMmNfekhzSHFUM1Zad0k2VjcxcW9UZUhiVXNCcDdwT3VObnBPMW1QY2pFVl9lLVFpdHA1SlpqUUNWMVJPOHcxVE1BV1hvUG5DdUN4QVRleFhfaEVaeVowa1dHakVWWGE2ekM1UHZDQVNhcFBRY0VacWdud1h2eDRSbWI4VlRtY1BmSUJjLW9Xcm1ZN1E?oc=5
-
-- American economist's 'BRICS' warning to 'world's tough guy' over Trump's 50% tariffs on India | Latest News India - Hindustan Times - Hindustan Times
-  American economist's 'BRICS' warning to 'world's tough guy' over Trump's 50%
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxORU1JU2dVUEp6Tm1yLW9JZXJ4TzloUXlweDJ3X1Y1Uy1tQXo5TndMV2pZTlA4NF9NSlFadHY3MGNYMVJKVnE5bnN5eTF4ZGc2XzRhdGpJaHNJeTg1V2ZOaFNpY3hxU2FfQzlHa19CTE9wX09EaG9yaUh2QVU1U3oxVkhFNTdUNlRmV2lmNWRoUFB5bnhKR3NkTGlTR0lZMDVuX1g5ZFBVWjRQeEFMRWxKTHYwVUVHQ1pfODlQT19XUHN5cE8yaHBsSGllTGJsdjR3S1BRcW1lc1Q4WFFXRkZqUGZZeldnaGY5aUdDUDM0YW9tODDSAfgBQVVfeXFMUFV4bkFrVF9ZeUtlV004YllmeXoyTFl4V1l2bW9ucm9sS1dIdUN2ZXlwRVUzNXhESzhDcTNIUVRFQkFUY0NUTjFqa3FNZW5FRVgtTmdUMEpFWngzRXRaVUZJbkgtUnkyRTRiT0hwbmg0WkpMajY0R2kyTU9qeVVOdTBObVZzOTAzM281Vnl6d0RLOUJxWGFNME13RlVyeW82eWkyZmZ0QjRqOGZHR0hBV0RwcEp6cG1ZOWo3N3RYNTMxb09YdVBxN0NGdUpEbDNXeTd0TkNfVzZic0RsYmJaMzI2VDFDSlpWbU5ZejI5dThIMXJwZWNHOEI?oc=5
-
-- Donald Trump Tariffs News Highlights: India's Russian oil imports set to rise in September despite US pressure - The Times of India
-  India's Russian oil imports set to rise in September despite US pressure.
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQUG5vNHhYMUVQWVhoSDZiU055LVhCMlJIc3pSZmxqYjFoM05EcEpseVkyRW5MOFBCVmo5ZEZZN2RqV0Rlckd6cnBzYnhoRDM1OElycGZlRHNPOFVXb2tMMnJUYUpNanhVYWpQbjg1enhYblQzN3hoRS01a096eHVDWTR6SHlzRk5paTdnOVY2aE5tdTh0LW5KZzBFS3NuS19kNUt4MkJMSkdLbTNfQkZFTXUyZzBKMUdSbWJKZlFYR28ydnFxQzA2ZGhvU2tQYmxiZWtfWV9XbFBZTUtTZlFJWVdFeGRJblZlNm9tZ3cwejRtbDNaUG5NbnFiSkNRT2llM3pnZzJYZnVVTmFGRTRFa3Jadm5tWTJhYm9zRNIBogJBVV95cUxPZnZmem9jTEFoVHdRcjlfbG9WVVNmZndMNmt0djh3U2U0QTh6UWxJZlREeHhoQUNJbjNrcHBvclZaTXZWWnRpSHo3UGFMSy1JLVdVcTVXNS0xdWpGa2FBaS1SWHJUUDl3amdMUkpncW1UNWFtNE1uaGcyUnBlaUZ1NlJ5VVgyV3hKc1hFUVUzM3gxbTdVMmRTZzF2MlUyZUNFTEdMdFMzNWlEZDFXckpId0ZfLS1sWHFPai1Fd2ZmVVpHYXpVOEZnOWV6eUVsanFHZUJ1VGtQWmhnYW10eDFYMVNzbnpHdFZPc1lOa1hFWEJDSXBCemREVXVDbjQ5OG5KT3A4ZXBPUlJ6ZFZIYmp1ejdmckJfMlNIcWNiMnU3S09vQQ?oc=5
+- Rohingya refugees: 'India put us on the boat like captives - then threw us in the sea' - BBC
+  Rohingya refugees: 'India put us on the boat like captives -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1RVVSTThSczUzbUljYnhpWlhVOVQ5Z25GMlBFa2U1eFRNS3ZPVnp2d3owYm9wcVdXanczQkNxRGllYkFTX0wyOFE5MUxJOTdfZEV0Y3NNYzdkQdIBX0FVX3lxTE5aZUg5R2hKUGR3QUZyUWR3YThLUHhVbDRDcGlLSGJrVXlXZmo4U2ZnMUZ3d0l5bE8zckpneXcyMGFkckJPWFZZa0t0aktTbTBtX25MZl8wUW1tcU5PaDJ3?oc=5
 
 - 50% Tariffs On India As Trump Could Not Mediate India-Pakistan Conflict: Jefferies - NDTV
   The White House is considering 50% tariffs on India
@@ -188,17 +172,53 @@
   A "Secret" Xi Jinping Letter Was Key To
   🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOG4tb0k5Z2FMX19mOHhxblI2RlBHeTNDdi14VFl3dnc4T3NPbXRaQXVKU2pLWDBlTTVHOGVHckMxNDUxNVk1M24zSFBaS0Z3RHUyMDdxNW0wLUwwMHlkbkdQNTZiVGpGZG5wMDJPS3k4YTVOdW0ta0l3NDk0bGtNbXJuN3pURTF3RHRZdXRhM2g2THBPaVNkMGRXR2RGalR1a2RqMGpIQTFZYU56MHN0ZTRtaWRwVkZfYzZxQ1BLQ1pDMnhncnBuUzhtZUltTTNUeFM5UDlXRdIB3wFBVV95cUxOSGlyNmJLb0loMUdLbTE4aUNLRFBMOFhYeWM2eTRpSmhYcjFOU3BsektoRHhvMUlNRXgwY0lWMm1iamlTTndIazB0U3dmb3ZocnVMcC1hbXI1b2FEWTFMc0VZbnJCdkIwdjNsRkZ6ODAwSWh5Mkt1bWF6QTlodEZrWTJoN2N6RXJBdVNmWVU3QjV1enhjZ2RqZDF5MmU3YXozSkdIeW56Y0JGY3hKak1DekpranFfRS1jMVZDMVRlUU11QkdLSlZHa1RTVjlidURwOThWd0FKQ3RGZl95ZWtv?oc=5
 
-- Important for India, China to work together to bring stability to world economic order: PM - The Hindu
-  The Hindu: India, China must work together to bring stability to
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd1JNMWZpUEhBM0ZETDFfa2R0WDNYeWRaSE5wcERXbVZoTEhqdnV5aVVnY1NCa3hSVU9mRExDZnNIbE40dHBkMnYtTEFfYmxLTlBuNlBwa3dLN2F5TEMtZzRuaDR6RFJPN25BbGdha3ZGY0VRUEhiV3RGUjhGWmhvTDBRcXlCRGZOVXpIZG02QmNZS1BRQk9xNWJ2Q2hwcFUzUVFxVTFxeU5ROG15dDVyOUxxZTEtdlFEMmVnSDdrVFRfS2h4UW1oOGxpcklsbC1pRzEwNGR0WmF3UlRacUpuetIB5wFBVV95cUxQaENmb0I5eFp5TUprU1dsY0M3WTlHUzloai11NGtBWXM1OEM2OUtlSVZBdUpFY2JRRnluRlZiNGI4ZThLd2J4N05rSEJHMnRJbXpCN3lDek9EdXREMmNfekhzSHFUM1Zad0k2VjcxcW9UZUhiVXNCcDdwT3VObnBPMW1QY2pFVl9lLVFpdHA1SlpqUUNWMVJPOHcxVE1BV1hvUG5DdUN4QVRleFhfaEVaeVowa1dHakVWWGE2ekM1UHZDQVNhcFBRY0VacWdud1h2eDRSbWI4VlRtY1BmSUJjLW9Xcm1ZN1E?oc=5
+- MoU inked for investments in decarbonising technologies - Hindustan Times
+  MoU inked for investments
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2RmUXFqcGMtRkw3Z2ZrZVVNM3M1STM3SkJ0eDgzNkxSVGg3aDdlNnZRU2sxdUZxTjV3Sk5TYVdMME44TDZhUXRoOGV4VUFOZVdScDcwdUhTMEF2Zmt3enowXy1Vc2lWYmt1U1Zqd3R6c2hjalFtdFFmRGRTOVEzSkZSdE9XWjNYb3MyV2VRczg0bHRaU0ZqbHd3ZG5ENDhZM21rRFVVQV9uaTd2dWhTNG96MDFNSzV6?oc=5
 
-- American economist's 'BRICS' warning to 'world's tough guy' over Trump's 50% tariffs on India | Latest News India - Hindustan Times - Hindustan Times
-  American economist's 'BRICS' warning to 'world's tough guy' over Trump's 50%
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxORU1JU2dVUEp6Tm1yLW9JZXJ4TzloUXlweDJ3X1Y1Uy1tQXo5TndMV2pZTlA4NF9NSlFadHY3MGNYMVJKVnE5bnN5eTF4ZGc2XzRhdGpJaHNJeTg1V2ZOaFNpY3hxU2FfQzlHa19CTE9wX09EaG9yaUh2QVU1U3oxVkhFNTdUNlRmV2lmNWRoUFB5bnhKR3NkTGlTR0lZMDVuX1g5ZFBVWjRQeEFMRWxKTHYwVUVHQ1pfODlQT19XUHN5cE8yaHBsSGllTGJsdjR3S1BRcW1lc1Q4WFFXRkZqUGZZeldnaGY5aUdDUDM0YW9tODDSAfgBQVVfeXFMUFV4bkFrVF9ZeUtlV004YllmeXoyTFl4V1l2bW9ucm9sS1dIdUN2ZXlwRVUzNXhESzhDcTNIUVRFQkFUY0NUTjFqa3FNZW5FRVgtTmdUMEpFWngzRXRaVUZJbkgtUnkyRTRiT0hwbmg0WkpMajY0R2kyTU9qeVVOdTBObVZzOTAzM281Vnl6d0RLOUJxWGFNME13RlVyeW82eWkyZmZ0QjRqOGZHR0hBV0RwcEp6cG1ZOWo3N3RYNTMxb09YdVBxN0NGdUpEbDNXeTd0TkNfVzZic0RsYmJaMzI2VDFDSlpWbU5ZejI5dThIMXJwZWNHOEI?oc=5
+- Top news headlines for school assembly: August 30 - India Today
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVNKaUg5VHM1aF91UURYcDlYV043ajNjVFNlMUpSR1Y0SEpBN252UWJpbVdUcWlKSFJqVVZ6QlJWOEk5OU5lakg3WldsTEE4OVFLZzVQSzBJamgxXzRqV0ktVlo2MWlHU3RyLTZwWE1VU2ZGNi00NktEZTlNX3hLRTVydzFkZlZoSFcwX3lmel9HWnBfRDR6QzVjT2lYVE90SXVYRHdLaFBmWld4NDZ1cHJmVnlMMk1jSnVDLdIBwgFBVV95cUxQbzdKRTFVYVZYWVJySkdRNDdCb241THRaYXVVcVVGdHI3RldieXE5ZU1RR09rWTZSMnJBN0xIUDU5MmRHREdXUlpZcmRETm5VSkQ4aVo0M3A1cjI5ZUFYNml0dWwtRi11NDVlaVIwNF82RUUwX0NkYnNrQXJCTWFjVkJHSE5fdi01dGVoUVNjLVNnRjVIS1lyN3k5eXQwTVRHZjNZbFJ3WEhlWmVrSXg5R0sxWjlrS0N0ZHRGVV8wLTR1Zw?oc=5
 
-- Donald Trump Tariffs News Highlights: India's Russian oil imports set to rise in September despite US pressure - The Times of India
-  India's Russian oil imports set to rise in September despite US pressure.
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQUG5vNHhYMUVQWVhoSDZiU055LVhCMlJIc3pSZmxqYjFoM05EcEpseVkyRW5MOFBCVmo5ZEZZN2RqV0Rlckd6cnBzYnhoRDM1OElycGZlRHNPOFVXb2tMMnJUYUpNanhVYWpQbjg1enhYblQzN3hoRS01a096eHVDWTR6SHlzRk5paTdnOVY2aE5tdTh0LW5KZzBFS3NuS19kNUt4MkJMSkdLbTNfQkZFTXUyZzBKMUdSbWJKZlFYR28ydnFxQzA2ZGhvU2tQYmxiZWtfWV9XbFBZTUtTZlFJWVdFeGRJblZlNm9tZ3cwejRtbDNaUG5NbnFiSkNRT2llM3pnZzJYZnVVTmFGRTRFa3Jadm5tWTJhYm9zRNIBogJBVV95cUxPZnZmem9jTEFoVHdRcjlfbG9WVVNmZndMNmt0djh3U2U0QTh6UWxJZlREeHhoQUNJbjNrcHBvclZaTXZWWnRpSHo3UGFMSy1JLVdVcTVXNS0xdWpGa2FBaS1SWHJUUDl3amdMUkpncW1UNWFtNE1uaGcyUnBlaUZ1NlJ5VVgyV3hKc1hFUVUzM3gxbTdVMmRTZzF2MlUyZUNFTEdMdFMzNWlEZDFXckpId0ZfLS1sWHFPai1Fd2ZmVVpHYXpVOEZnOWV6eUVsanFHZUJ1VGtQWmhnYW10eDFYMVNzbnpHdFZPc1lOa1hFWEJDSXBCemREVXVDbjQ5OG5KT3A4ZXBPUlJ6ZFZIYmp1ejdmckJfMlNIcWNiMnU3S09vQQ?oc=5
+- Rohingya refugees: 'India put us on the boat like captives - then threw us in the sea' - BBC
+  Rohingya refugees: 'India put us on the boat like captives -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1RVVSTThSczUzbUljYnhpWlhVOVQ5Z25GMlBFa2U1eFRNS3ZPVnp2d3owYm9wcVdXanczQkNxRGllYkFTX0wyOFE5MUxJOTdfZEV0Y3NNYzdkQdIBX0FVX3lxTE5aZUg5R2hKUGR3QUZyUWR3YThLUHhVbDRDcGlLSGJrVXlXZmo4U2ZnMUZ3d0l5bE8zckpneXcyMGFkckJPWFZZa0t0aktTbTBtX25MZl8wUW1tcU5PaDJ3?oc=5
+
+- 50% Tariffs On India As Trump Could Not Mediate India-Pakistan Conflict: Jefferies - NDTV
+  The White House is considering 50% tariffs on India
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ200cjlpYmgyZTZ1OEo2bzVXVkt1MGxvM29kZ1Fxa2hUSWxyVTJKcHRkTmIzalJSYlcxRXMwVl9xTVF4WXFEYmRzcTFPQXJvbFJ1UkhzREhCdE1Bb09MZERIYlBFeUtIcnhfQXhzVGZab25JQnJCR2ljTXZRSGROZjJ6aFo1b0lGZERMQVY4V1R2LURUR0tPMHlxUGRzcTRjSUxpVGVrZy1uM2xJenBJZGIxYzFRd1l1TFdmS2xCWE4xNzhJMDVFNzJxeUHSAdQBQVVfeXFMTm1ncnltamdlNTN5ZGtYWGZOWkxKeThRVWRremZkVjRxUVBKOFMyTXpmT0JqSzFTWXRlVlQzTE0xbW1pN0RCN2NWN1pOV043MS1NYmFFSEFuVnBtdVluOG9SeDFWNWVhQ1haZng2MXRiRkgzR2o2MmNXOC1WNFFsb1lJTnFzRF9YcWVwU2I0anBpYXNZVFYyTlZyc3o2THIteGh2RzhHZ05iUXFRUlJnTzIxVEU0SmNwOGk5dkpSX0hoOVRpcUxnaVQ2TjF5eTZrOVRQcnc?oc=5
+
+- A "Secret" Xi Jinping Letter Was Key To Improved India-China Ties: Report - NDTV
+  A "Secret" Xi Jinping Letter Was Key To
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOG4tb0k5Z2FMX19mOHhxblI2RlBHeTNDdi14VFl3dnc4T3NPbXRaQXVKU2pLWDBlTTVHOGVHckMxNDUxNVk1M24zSFBaS0Z3RHUyMDdxNW0wLUwwMHlkbkdQNTZiVGpGZG5wMDJPS3k4YTVOdW0ta0l3NDk0bGtNbXJuN3pURTF3RHRZdXRhM2g2THBPaVNkMGRXR2RGalR1a2RqMGpIQTFZYU56MHN0ZTRtaWRwVkZfYzZxQ1BLQ1pDMnhncnBuUzhtZUltTTNUeFM5UDlXRdIB3wFBVV95cUxOSGlyNmJLb0loMUdLbTE4aUNLRFBMOFhYeWM2eTRpSmhYcjFOU3BsektoRHhvMUlNRXgwY0lWMm1iamlTTndIazB0U3dmb3ZocnVMcC1hbXI1b2FEWTFMc0VZbnJCdkIwdjNsRkZ6ODAwSWh5Mkt1bWF6QTlodEZrWTJoN2N6RXJBdVNmWVU3QjV1enhjZ2RqZDF5MmU3YXozSkdIeW56Y0JGY3hKak1DekpranFfRS1jMVZDMVRlUU11QkdLSlZHa1RTVjlidURwOThWd0FKQ3RGZl95ZWtv?oc=5
+
+- MoU inked for investments in decarbonising technologies - Hindustan Times
+  MoU inked for investments
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2RmUXFqcGMtRkw3Z2ZrZVVNM3M1STM3SkJ0eDgzNkxSVGg3aDdlNnZRU2sxdUZxTjV3Sk5TYVdMME44TDZhUXRoOGV4VUFOZVdScDcwdUhTMEF2Zmt3enowXy1Vc2lWYmt1U1Zqd3R6c2hjalFtdFFmRGRTOVEzSkZSdE9XWjNYb3MyV2VRczg0bHRaU0ZqbHd3ZG5ENDhZM21rRFVVQV9uaTd2dWhTNG96MDFNSzV6?oc=5
+
+- Top news headlines for school assembly: August 30 - India Today
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVNKaUg5VHM1aF91UURYcDlYV043ajNjVFNlMUpSR1Y0SEpBN252UWJpbVdUcWlKSFJqVVZ6QlJWOEk5OU5lakg3WldsTEE4OVFLZzVQSzBJamgxXzRqV0ktVlo2MWlHU3RyLTZwWE1VU2ZGNi00NktEZTlNX3hLRTVydzFkZlZoSFcwX3lmel9HWnBfRDR6QzVjT2lYVE90SXVYRHdLaFBmWld4NDZ1cHJmVnlMMk1jSnVDLdIBwgFBVV95cUxQbzdKRTFVYVZYWVJySkdRNDdCb241THRaYXVVcVVGdHI3RldieXE5ZU1RR09rWTZSMnJBN0xIUDU5MmRHREdXUlpZcmRETm5VSkQ4aVo0M3A1cjI5ZUFYNml0dWwtRi11NDVlaVIwNF82RUUwX0NkYnNrQXJCTWFjVkJHSE5fdi01dGVoUVNjLVNnRjVIS1lyN3k5eXQwTVRHZjNZbFJ3WEhlWmVrSXg5R0sxWjlrS0N0ZHRGVV8wLTR1Zw?oc=5
+
+- Rohingya refugees: 'India put us on the boat like captives - then threw us in the sea' - BBC
+  Rohingya refugees: 'India put us on the boat like captives -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1RVVSTThSczUzbUljYnhpWlhVOVQ5Z25GMlBFa2U1eFRNS3ZPVnp2d3owYm9wcVdXanczQkNxRGllYkFTX0wyOFE5MUxJOTdfZEV0Y3NNYzdkQdIBX0FVX3lxTE5aZUg5R2hKUGR3QUZyUWR3YThLUHhVbDRDcGlLSGJrVXlXZmo4U2ZnMUZ3d0l5bE8zckpneXcyMGFkckJPWFZZa0t0aktTbTBtX25MZl8wUW1tcU5PaDJ3?oc=5
+
+- 50% Tariffs On India As Trump Could Not Mediate India-Pakistan Conflict: Jefferies - NDTV
+  The White House is considering 50% tariffs on India
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ200cjlpYmgyZTZ1OEo2bzVXVkt1MGxvM29kZ1Fxa2hUSWxyVTJKcHRkTmIzalJSYlcxRXMwVl9xTVF4WXFEYmRzcTFPQXJvbFJ1UkhzREhCdE1Bb09MZERIYlBFeUtIcnhfQXhzVGZab25JQnJCR2ljTXZRSGROZjJ6aFo1b0lGZERMQVY4V1R2LURUR0tPMHlxUGRzcTRjSUxpVGVrZy1uM2xJenBJZGIxYzFRd1l1TFdmS2xCWE4xNzhJMDVFNzJxeUHSAdQBQVVfeXFMTm1ncnltamdlNTN5ZGtYWGZOWkxKeThRVWRremZkVjRxUVBKOFMyTXpmT0JqSzFTWXRlVlQzTE0xbW1pN0RCN2NWN1pOV043MS1NYmFFSEFuVnBtdVluOG9SeDFWNWVhQ1haZng2MXRiRkgzR2o2MmNXOC1WNFFsb1lJTnFzRF9YcWVwU2I0anBpYXNZVFYyTlZyc3o2THIteGh2RzhHZ05iUXFRUlJnTzIxVEU0SmNwOGk5dkpSX0hoOVRpcUxnaVQ2TjF5eTZrOVRQcnc?oc=5
+
+- A "Secret" Xi Jinping Letter Was Key To Improved India-China Ties: Report - NDTV
+  A "Secret" Xi Jinping Letter Was Key To
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOG4tb0k5Z2FMX19mOHhxblI2RlBHeTNDdi14VFl3dnc4T3NPbXRaQXVKU2pLWDBlTTVHOGVHckMxNDUxNVk1M24zSFBaS0Z3RHUyMDdxNW0wLUwwMHlkbkdQNTZiVGpGZG5wMDJPS3k4YTVOdW0ta0l3NDk0bGtNbXJuN3pURTF3RHRZdXRhM2g2THBPaVNkMGRXR2RGalR1a2RqMGpIQTFZYU56MHN0ZTRtaWRwVkZfYzZxQ1BLQ1pDMnhncnBuUzhtZUltTTNUeFM5UDlXRdIB3wFBVV95cUxOSGlyNmJLb0loMUdLbTE4aUNLRFBMOFhYeWM2eTRpSmhYcjFOU3BsektoRHhvMUlNRXgwY0lWMm1iamlTTndIazB0U3dmb3ZocnVMcC1hbXI1b2FEWTFMc0VZbnJCdkIwdjNsRkZ6ODAwSWh5Mkt1bWF6QTlodEZrWTJoN2N6RXJBdVNmWVU3QjV1enhjZ2RqZDF5MmU3YXozSkdIeW56Y0JGY3hKak1DekpranFfRS1jMVZDMVRlUU11QkdLSlZHa1RTVjlidURwOThWd0FKQ3RGZl95ZWtv?oc=5
+
+- MoU inked for investments in decarbonising technologies - Hindustan Times
+  MoU inked for investments
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2RmUXFqcGMtRkw3Z2ZrZVVNM3M1STM3SkJ0eDgzNkxSVGg3aDdlNnZRU2sxdUZxTjV3Sk5TYVdMME44TDZhUXRoOGV4VUFOZVdScDcwdUhTMEF2Zmt3enowXy1Vc2lWYmt1U1Zqd3R6c2hjalFtdFFmRGRTOVEzSkZSdE9XWjNYb3MyV2VRczg0bHRaU0ZqbHd3ZG5ENDhZM21rRFVVQV9uaTd2dWhTNG96MDFNSzV6?oc=5
+
+- Top news headlines for school assembly: August 30 - India Today
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVNKaUg5VHM1aF91UURYcDlYV043ajNjVFNlMUpSR1Y0SEpBN252UWJpbVdUcWlKSFJqVVZ6QlJWOEk5OU5lakg3WldsTEE4OVFLZzVQSzBJamgxXzRqV0ktVlo2MWlHU3RyLTZwWE1VU2ZGNi00NktEZTlNX3hLRTVydzFkZlZoSFcwX3lmel9HWnBfRDR6QzVjT2lYVE90SXVYRHdLaFBmWld4NDZ1cHJmVnlMMk1jSnVDLdIBwgFBVV95cUxQbzdKRTFVYVZYWVJySkdRNDdCb241THRaYXVVcVVGdHI3RldieXE5ZU1RR09rWTZSMnJBN0xIUDU5MmRHREdXUlpZcmRETm5VSkQ4aVo0M3A1cjI5ZUFYNml0dWwtRi11NDVlaVIwNF82RUUwX0NkYnNrQXJCTWFjVkJHSE5fdi01dGVoUVNjLVNnRjVIS1lyN3k5eXQwTVRHZjNZbFJ3WEhlWmVrSXg5R0sxWjlrS0N0ZHRGVV8wLTR1Zw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-08-29 18:25:01 UTC_
+_Last updated: 2025-08-30 01:08:37 UTC_
