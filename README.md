@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Former Vice-President Jagdeep Dhankhar re-applies for pension as Rajasthan ex-MLA
+- Tripura DGP Anurag Dhyankar warns people about cyberattacks, urges them not to fall for ‘unbelievably lucrative offers of financial gain’
   
-  🔗 https://indianexpress.com/article/india/former-vice-president-jagdeep-dhankhar-pension-rajasthan-ex-mla-10220595/
+  🔗 https://indianexpress.com/article/india/tripura-dgp-anurag-dhyankar-warns-people-about-cyberattacks-urges-them-not-to-fall-for-unbelievably-lucrative-offers-of-financial-gain-10220971/
 
-- India’s bullet train project is designed for Japanese Shinkansen trains, says Ashwini Vaishnaw
+- CAG flags mounting debt on Himachal Pradesh, fiscal imbalance, non-compliance with key norms
   
-  🔗 https://indianexpress.com/article/india/indias-bullet-train-project-is-designed-for-japanese-shinkansen-trains-says-ashwini-vaishnaw-10220308/
+  🔗 https://indianexpress.com/article/india/cag-flags-mounting-debt-on-himachal-pradesh-fiscal-imbalance-non-compliance-with-key-norms-10220972/
 
-- 16 injured as KSRTC bus collides with private bus in Thrissur
+- Tripura Congress joins nationwide ‘Vote Chor, Gaddi Chhod’ agitation, trains guns at EC, BJP
   
-  🔗 https://indianexpress.com/article/india/injured-ksrtc-bus-private-bus-thrissur-10220307/
+  🔗 https://indianexpress.com/article/india/tripura-congress-joins-nationwide-vote-chor-gaddi-chhod-agitation-trains-guns-at-ec-bjp-10220964/
 
-- Make-in-India defence push: Warships to be built domestically, says Rajnath Singh
+- From USD 34 billion to USD 68 billion: Behind Japan’s investment numbers, a message to US President Trump
   
-  🔗 https://indianexpress.com/article/india/defence-warships-make-in-india-self-reliance-rajnath-singh-summit-10220223/
+  🔗 https://indianexpress.com/article/india/behind-japan-68-billion-investment-in-india-a-message-to-us-president-trump-10220946/
 
-- Tripura mulls using water that flows into Bangladesh’s Titas River for Agartala’s drinking supply
+- Mehul Choksi’s bail plea rejected by Belgian court of appeal
   
-  🔗 https://indianexpress.com/article/india/tripura-water-bangladesh-titas-river-agartala-drinking-supply-10220218/
+  🔗 https://indianexpress.com/article/india/mehul-choksi-bail-plea-rejected-belgian-court-10220960/
 
 - Custom brain implant delivers personalised therapy to ease chronic pain
   
@@ -32,13 +32,17 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/project-pivo-leak-reveals-lenovo-rotating-screen-laptop-ahead-of-ifa-2025-10220294/
 
-- Google AI Studio in under 10 minutes: Features, tips, and use cases
+- Google AI Studio explained in minutes: From chat to app building
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-ai-studio-in-under-10-minutes-10220251/
 
 - WhatsApp patches security flaw used in targeted spyware attacks on iOS and Mac
   
   🔗 https://indianexpress.com/article/technology/whatsapp-patches-security-flaw-used-in-targeted-spyware-attacks-on-ios-and-mac-10220149/
+
+- GST reforms: Royal Enfield calls for uniform 18 per cent rate on two wheelers — ‘India already leads...’
+  Royal Enfield urged the government to consider a uniform GST rate for motorcycles. The Eicher Motor-owned brand's Chairman
+  🔗 https://www.livemint.com/companies/news/gst-reforms-royal-enfield-calls-for-uniform-18-per-cent-rate-on-two-wheelers-india-already-leads-11756569202462.html
 
 - US tariff impact: Mentha oil industry faces major crisis in UPs Rampur region
   Mentha oil industry faces major crisis
@@ -56,9 +60,17 @@
   Ather Energy leadership sheds light on key attributes of their new platform. Ather Energy
   🔗 https://www.livemint.com/companies/news/el-platform-designed-for-rapid-cost-efficient-scalability-addressing-multiple-market-needs-ather-energy-cbo-11756538383465.html
 
-- Ather unveils flexible tech platform for new products as auto firms vie for versatility
-  A fortnight ago, rival Ola Electric and four-wheeler maker Mahindra unveiled their own technology platforms
-  🔗 https://www.livemint.com/companies/news/ather-energy-ather-energy-new-platform-electric-scooter-india-ather-el-ola-electric-ev-market-india-ather-energy-11756525130722.html
+- Dividend Stocks: ONGC, Patanjali Foods, NTPC, among others to trade ex-dividend next week | Check details here
+  ONGC, Gujarat Gas, Patanjali Foods, General Insurance Corp., Concord Biotech, Finolex Industries, Kalyan Jewell
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-ongc-patanjali-foods-ntpc-among-others-to-trade-ex-dividend-next-week-check-details-here-11756565468490.html
+
+- Iran’s Currency Slides After Europe Moves to Reimpose Sanctions
+  Iran's rial approached record lows on Saturday after major European powers took punitive steps against the Islamic Republic
+  🔗 https://www.livemint.com/market/stock-market-news/irans-currency-slides-after-europe-moves-to-reimpose-sanctions-11756564844856.html
+
+- Upcoming IPO: Leap India files draft papers with Sebi to raise  ₹2,400 crore via public issue — Details here
+  Leap India filed its initial draft papers with the capital markets regulator on 29 August 2025. The company is looking to raise funds from the Indian stock market.
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipo-leap-india-files-draft-papers-with-sebi-to-raise-rs-2-400-crore-via-public-issue-details-here-11756559870683.html
 
 - 1,470% rally in five years! Multibagger penny stock under  ₹2 declares  ₹500 crore fundraise via QIP
   Excel Realty N Infra share price settled at  ₹1.41, up 1.44% on the BSE on Friday. Penny stock
@@ -67,18 +79,6 @@
 - Stock market holidays in September: When will BSE, NSE be closed for trading next month?
   With the stock market closed on Wednesday, August 27, this week, investors should note that the next market holiday will not fall in September but
   🔗 https://www.livemint.com/market/stock-market-news/stock-market-holidays-in-september-2025-when-will-the-indian-stock-market-be-closed-for-trading-next-month-11756546742231.html
-
-- Equity vs gold vs PPF: Which asset class is best for wealth creation? Here's what 30-year history suggests
-  Nifty 500 has delivered a massive 15.2% CAGR earnings vs 14.1% rise in Sensex and 12.5% in gold. Meanwhile
-  🔗 https://www.livemint.com/market/stock-market-news/equity-vs-gold-vs-ppf-which-asset-class-is-best-for-wealth-creation-heres-what-30-year-history-suggests-11756545396065.html
-
-- HAL, BEL to Bharat Dynamics: Which defence stocks to buy amid Trump tariff tension?
-  Defence stocks in India, including HAL and BEL, are under pressure. However, analysts foresee growth driven by a potential India-US Defence Partnership.
-  🔗 https://www.livemint.com/market/stock-market-news/hal-bel-to-bharat-dynamics-which-defence-stock-to-buy-amid-trump-tariff-tension-11756541680038.html
-
-- Gold is smokin’. But there’s one way you don’t want to play it.
-  Leveraged funds soar. They’re
-  🔗 https://www.livemint.com/market/commodities/gold-investing-leveraged-funds-gold-etf-direxion-gold-proshares-gold-gold-miners-volatility-decay-11756539805156.html
 
 - iPhone 17 Pro Max vs iPhone 16 Pro Max: 7 big upgrades expected at Apple's ‘Awe Dropping’ event
   The new iPhone is expected to come with a 48MP triple camera setup, Apple's new A19 Pro chipset, new design, colour variants
@@ -100,6 +100,30 @@
    Meta is exploring partnerships with Google and OpenAI. The company is integrating external AI models while also developing its own models
   🔗 https://www.livemint.com/technology/tech-news/meta-may-tap-openai-google-models-to-power-ai-features-across-whatsapp-instagram-and-facebook-report-11756533184701.html
 
+- Stocks Hit by Tech Selloff After Economic Reports: Markets Wrap - Bloomberg.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHo1SGlLNVlXYVl3b3paRnhMb3hXNEdtTWlrQ0I1Q3VsLXM0ZjViaXNDbV9xUXJFS3JTRXV4bmRReURLMEZCcFJwcE9NNElTYUJmSU5QWDlqbDJJaWZKUVFpRF9mcXFpaFpQamdCUjI4R3IwOXJWOWZqLTZDSm1WVGZHdlJFRTB4WVlXUDBCNjZ3eXRz?oc=5
+
+- Markets News, Aug. 29, 2025: S&P 500, Dow Retreat From Record Highs as Tech Stocks Tumble; Nvidia, Broadcom Lead Chip Sector Slump - Investopedia
+  Investopedia: S&amp;P 500, Dow Retreat From Record Highs as Tech
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFB0cGVkRm04Y1VaRkg4NTI0cVN0UnlvaWwzOXBZaTZyelRaX0dGaEVQWEFmQmxiOVhNaDRJeElsRW8zOVA0cXVUSVRueG5iblJFbzR0Xy05OUlaVG5mTy01a2FGZ1JnVE9GV0wwSG8wYw?oc=5
+
+- Stock Market Today: Dow Sinks, But Nasdaq Fares Much Worse; Nvidia Extends A Losing Streak (Live Coverage) - Investor's Business Daily
+  The Dow Sinks, But Nasdaq Fares Much Worse; Nvidia Extends
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNd09QNGRodXh4TFJSLTdNYmlrdExlc2xBbnh3a1ZybFdxWFJ2VUNVY3dpYmYzNm1peWJKdWpHck1GczdjcUZaUG9jSGk5Ukd4dEJUQTQza1pOcUJsalQyV3V0a09PaGdCdGVKTlpuQXVIaWl0bXRJcGQtbWMwMVR0eEo0ckxxNE5zbkl6Y2lOWWpHWmx4eXdqdDM2ejdkTzFadVo1Mm1ydmtiaUZ5RmRvZlo3SS1DZTg?oc=5
+
+- NSE to conduct mock trading sessions in equity markets & commodity, currency derivatives segment on August 30 - Mint
+  NSE to conduct mock trading sessions in equity markets & commodity, currency derivatives
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPUFZJaEd3UkFXUnVLM2VGQ3BNSE03ekhMa1RTRmJKaTNzUXNLeExyNGJFWFl2Q2wxbE84emIweW9VRURFNEJTTHduaXpNdTFXTTRMUUh4V21GZXRVYW4ycHZqdXhXUlkxV3dYVmdYV1JSbHV1dld2UUNVRm5CcENPdjc1ajhSMFBySTZtV3BkNzVMTEZlMi1qSlBuOWkwTWZWejRNV2tCQUsyaVdiUW85bGdjSXlxbnBscXVyMGFJZURzdWt6Y0Q2UXVkSFBWb0hhUUdiNUg1dzByblNWdndwcVpMVlJ0Yzg3MjRyeUNfUDVjWXFGb1JrZ0VYUXVoX2JtNy1N0gGIAkFVX3lxTE5RVmM0eHJJRzRCcUhuUjdFazEwd3pFb2h1dkthdThma2RGdkRXU2Z5X1dSRTY4cGoxSkNRb0RueklQMFBSbGNIbDJxRjdzN0h3V2pfeEtJMndCUHpYck9FbXpyY21NTlpWenBqOVVnTmwyaHlrNEhPSy1tNThGOGdZTTlnTEczRkg2N1BrZmczZExIU1VsMXVnUGJUUGZTQnE4TWNvLUxyc3c2ZzFwVVJGUmNFXzg1N3ZfUUV3LUE3R1EyX2REU1ROWWMySHdGSUVERzBTejRGaVVOYnBRUHBPU1pGOFIzZ0ZIUm82VjhLeHZzbXFibEdfd1pRY25FRWNobllXYlhidw?oc=5
+
+- NSE to hold mock trading session across market segments on Saturday. Check details here - The Economic Times
+  NSE to hold mock trading session across market segments on Saturday. Check
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOOHJxM1lBZzB4aEtua2ZteDY1TWZhdmJlRGtVaERMMURFU29wQ19HR2dNTEtSZ0tOYXdmczl3Z0VuTGVidTVRTUtRWjZMS0FqUGdsQldFUkh6YlN4MGUySUg4Wlh4ZkFfeTJra1BROFFwSUIycEFSSVNiY1VKei1UT0dOX0pwQ3RBWldYVjZvekpSZGNubWk2RGxfVERJM1NNMW5iTmg5c0MyMnl1X2lOWHlBWFczTktYdWtKc2ZPZ0NQRy1feG9Pd2dHbzdrcFpqckNzWHhkYzMyaHh1RkI2Xy1FNXB3VE9JNVdKWXNOTHJ6UdIB9wFBVV95cUxQV3JQd2I2NEZzeHBGUnJGRGJET0cza3MwVUVNNmViRG9QSGRfSlNGd3ZJZmhOckptMjc1cUlaM1MtcDlBVy1jSGxlNUM0QWJTMm9EMEItVUJpTjNrc3lNUnJEaHZoZDlyWUNHOU1kamhRS3JFY3JNRE13ZDVrcXBxQ3l4YUVLMENwTENmbWVxc2pZcWZHMG1vamJSY3BKMjZ4X3lka1J0MGVTMjR0cUR6YnBpbjdfand2amN3UXQ3eXdHR0ItbUYyb2JOVDBDcFM1TGsyRFpxSUNVb1paVEVjZUNzZlpnVVlTVXFyY1oxWDgtTFdFMGNz?oc=5
+
+- LEAP India files DRHP with Sebi for Rs 2,400 crore IPO
+  LEAP India plans to launch an IPO to raise Rs 2,400 crore. The company will use the funds to repay debt and for working capital.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/leap-india-files-drhp-with-sebi-for-rs-2400-crore-ipo/articleshow/123602274.cms
+
 - BSE Capital Markets Index: BSE gets a new index to track sector performance
   BSE Index Services has introduced the BSE Capital Markets Index to benchmark companies in India’s capital markets sector.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/bse-capital-markets-index-bse-gets-a-new-index-to-track-sector-performance/articleshow/123602100.cms
@@ -115,90 +139,6 @@
 - Mukul Agrawal stock, KIOCL among 10 smallcaps that bucked market gloom in August with up to 55% gains
   10 BSE smallcap stocks defied the broader selloff, surging up to 55%. Names like Yatra Online, Apollo Micro Systems, and
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/mukul-agrawal-stock-kiocl-among-10-smallcaps-that-bucked-market-gloom-in-august-with-up-to-55-gains/slideshow/123601049.cms
-
-- 360 BSE 500 stocks bleed in August, 65 lose in double-digits; Maruti &amp; KIOCL shine with up to 28% jump
-  The BSE 500 slipped nearly 2% in August as Trump’s tariff moves and weak Q1 earnings spooked investors. FIIs pulled out nearly Rs 35,000 crore,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/360-bse-500-stocks-bleed-in-august-65-lose-in-double-digits-maruti-kiocl-shine-with-up-to-28-jump/articleshow/123600039.cms
-
-- "US Brand In Toilet": White House Ex-Official Blasts Trump's India Tariffs - NDTV
-  "US Brand In Toilet": White House
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamlPODdSUmhrODlXc09qN3Q1UU9NTnlsVVBwcG4zT3ZValpZRVRSUzh2MUc3MHBUbDhhZmcxenNwZFBPcWhxMVJFS1AzZ08xbVhuTGlvQ3pfcnBEZVEteDZxNzFndlVUZVpXdWs1blVYbHl4eEF1dkpGb1pPV0k3Qkt3cWliZmRyUC1wT0gwMnRPY2J6aHhtTDVtS09valhGaEVMZXJQM0p0WFRWRC1wXzBrZ0xITkVFbzkw0gHDAUFVX3lxTE1oaGxKUWRHMVVKamhaX3lNSTV4RHd1QU5TQktyQTl0bTZMSXl6ck5MYmgwRGs4ZEhraHRSY2VyQzdfQk13S1YtZ1g5aFhzMGRMeXpkUU1VR0Q2eHpmR0Fpby0zQ0h6YUtOSW1TQnBLYXFmb25WcXpnM3RBcnh5bkRQdkRvdGtNb0NKZzBNMHdiQ2lUYzU2QWN3ek5EY2RCeEJXNjZBelJ5dVJqLVZGcGdsSGF2RzhxRXhVQmMyZTJpX1ZOZw?oc=5
-
-- 50% Tariffs On India As Trump Could Not Mediate India-Pakistan Conflict: Jefferies - NDTV
-  The White House is considering 50% tariffs on India
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ200cjlpYmgyZTZ1OEo2bzVXVkt1MGxvM29kZ1Fxa2hUSWxyVTJKcHRkTmIzalJSYlcxRXMwVl9xTVF4WXFEYmRzcTFPQXJvbFJ1UkhzREhCdE1Bb09MZERIYlBFeUtIcnhfQXhzVGZab25JQnJCR2ljTXZRSGROZjJ6aFo1b0lGZERMQVY4V1R2LURUR0tPMHlxUGRzcTRjSUxpVGVrZy1uM2xJenBJZGIxYzFRd1l1TFdmS2xCWE4xNzhJMDVFNzJxeUHSAdQBQVVfeXFMTm1ncnltamdlNTN5ZGtYWGZOWkxKeThRVWRremZkVjRxUVBKOFMyTXpmT0JqSzFTWXRlVlQzTE0xbW1pN0RCN2NWN1pOV043MS1NYmFFSEFuVnBtdVluOG9SeDFWNWVhQ1haZng2MXRiRkgzR2o2MmNXOC1WNFFsb1lJTnFzRF9YcWVwU2I0anBpYXNZVFYyTlZyc3o2THIteGh2RzhHZ05iUXFRUlJnTzIxVEU0SmNwOGk5dkpSX0hoOVRpcUxnaVQ2TjF5eTZrOVRQcnc?oc=5
-
-- 'Less than 50 weapons to end conflict': IAF on Op Sindoor; details why Pak asked for ceasefire - The Times of India
-  'Less than 50 weapons to end conflict': IAF on Op Sindoor; details why
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMjZzcjFaM1prUTBLeHhBTlZLdVFvMFNIXzNrT3h4dkZTS2hQbXIxdWZUSnFGM3c3VXpNejZGTDhfSXdaMWhTS3dXSkx1X0MwOGpzV24yQnBBbTlGcS1VZmREc21oTkJOYzN3T2w5OGVuVjQ5dXZMcGtyY2I1eVJpV1E4LVF6dTJfSEtGdG1hSXZfZHI4Szk1YmxuUFBCbUhjTTl4R3lCTE5IaEdWMUZSVnFxbUsyMVBNX0Vpc2swRW9UcUxGbU5SUGp0UlExdWhFYXFPbThSRlZka3ByTGpzbG1XU0Uxdk5vNFp4NGEyUdIB9AFBVV95cUxNaXNYRE1ZWktfekJRdFNXRmtwdGpVMnZaZDFBZlZmQmw2NkM2ZExtVEFjdFdXbGRiMEw3bWVMOUN3MDhUeWQzMU83OXh5azE4RlFnZXRUZTlEbndjWjh4OFZoaWF5WTR6cm92ODhWSVQ0N2hUcjg4dEpheGhVSVIwQ01VZnFtNnVEMEJxdHdBcTVlZHFZdXp2ejdhOTJuaDI1VndXN1BkQ0M1eW42Tzk2NTBQaXQ4bjdfM0FoSkJDaG9QZEFOc3ByQzVKSl9qNTJDRXRrdkM4dlFQQzkzR3hNX3NWX3J4dEZ3bjBYZVZOUDlsZnh3?oc=5
-
-- "BrahMos Can Be Answer For Foreign Policy": Expert At NDTV Defence Summit - NDTV
-  "BrahMos Can Be Answer For Foreign Policy
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmgtV2lqcTZSQXZzYkxFTjI5WnZjNHJDMTFEdlV5UnF5UjV1Tmt1bllRWGNKb3NQbWYxdzB2T1FwSkhRY2JXX25OcFA2QTEtWmVPaUhvRU53SGRHZE1uWTgxMWtZcnNkUDhaT0VXMDl3MmsxSEs1aWRBczNKSE5hVHNBeDlsLVdCT0lwR1hyeXc1WERUMVZ3Slc3dExXdkw2YXRZdVNyWU5yVVNXeWJR0gG3AUFVX3lxTE44SEg0RlU5MDVxN25nUU5XRlZBbzFRaWQ1dkxQWHV2OEZrTVNOZzhtUjRXTHhnalp0Tm1FaC1DMjdrMTRTVmF5eWdzUGFTT2dWMkYzYXl1X1BScnBTMThPMXQyU19nUWNYUmNaNUNRMUtnV08wQnZUSzA4b0IzXy1HTGJYcmI5X0pZeV9USVpZZ19TZ3NkOGdmeE5ZdUdEa2dLb3VGQU5BT0FhSHpXMTFrbzduWDBUNA?oc=5
-
-- Assam Intensifying Crackdown On Infiltrators On 2 Fronts: Himanta Sarma - NDTV
-  Assam Intensifying Crackdown On
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEUwQTRPYkxPN2h2bW5mM2s4YkVhRk9IMWFma1U4NHpXbDZqQ0JiTWJfUVVlUkdfNkJKdEhiVDByb1pHVjhST3paRkdMczN5NEZNcmFZRTJBU3JuUGdQaDNXcjAtUUMxMjNLU0xiTkR5bVlXdDhSRUozYWFOdEtLejRSNXhoeS1MUkppQzZRRkVZU29ZUmVQNTAtd3lUYzM3ZUZsakpPUXRNZEVpVWlMbUJQMmN3YnPSAb8BQVVfeXFMTnpseHZVVlFEb3JxRUhfbThYYTVkSC1YeE54ZzlmV3gzTUpYNV9IWmZlZ09CMjNkbm83UHk0eUwzR0ZpQzJxSjZEQmpvcURZZ2pjM1l0QWI1SzdMQkNidXhzb0huLW9FR3VOdkRGZ1hOdE42a05NSWdCY18wcTl1UlIwU0hORFI2NnJsTGxJaGlfcXZ5Z05aOUlrTXZ0cFZJZk9rNUhIWHlQZzd2YUJ5RnVJR3FXV2hGUkt3b0JjRW8?oc=5
-
-- "US Brand In Toilet": White House Ex-Official Blasts Trump's India Tariffs - NDTV
-  "US Brand In Toilet": White House
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamlPODdSUmhrODlXc09qN3Q1UU9NTnlsVVBwcG4zT3ZValpZRVRSUzh2MUc3MHBUbDhhZmcxenNwZFBPcWhxMVJFS1AzZ08xbVhuTGlvQ3pfcnBEZVEteDZxNzFndlVUZVpXdWs1blVYbHl4eEF1dkpGb1pPV0k3Qkt3cWliZmRyUC1wT0gwMnRPY2J6aHhtTDVtS09valhGaEVMZXJQM0p0WFRWRC1wXzBrZ0xITkVFbzkw0gHDAUFVX3lxTE1oaGxKUWRHMVVKamhaX3lNSTV4RHd1QU5TQktyQTl0bTZMSXl6ck5MYmgwRGs4ZEhraHRSY2VyQzdfQk13S1YtZ1g5aFhzMGRMeXpkUU1VR0Q2eHpmR0Fpby0zQ0h6YUtOSW1TQnBLYXFmb25WcXpnM3RBcnh5bkRQdkRvdGtNb0NKZzBNMHdiQ2lUYzU2QWN3ek5EY2RCeEJXNjZBelJ5dVJqLVZGcGdsSGF2RzhxRXhVQmMyZTJpX1ZOZw?oc=5
-
-- 50% Tariffs On India As Trump Could Not Mediate India-Pakistan Conflict: Jefferies - NDTV
-  The White House is considering 50% tariffs on India
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ200cjlpYmgyZTZ1OEo2bzVXVkt1MGxvM29kZ1Fxa2hUSWxyVTJKcHRkTmIzalJSYlcxRXMwVl9xTVF4WXFEYmRzcTFPQXJvbFJ1UkhzREhCdE1Bb09MZERIYlBFeUtIcnhfQXhzVGZab25JQnJCR2ljTXZRSGROZjJ6aFo1b0lGZERMQVY4V1R2LURUR0tPMHlxUGRzcTRjSUxpVGVrZy1uM2xJenBJZGIxYzFRd1l1TFdmS2xCWE4xNzhJMDVFNzJxeUHSAdQBQVVfeXFMTm1ncnltamdlNTN5ZGtYWGZOWkxKeThRVWRremZkVjRxUVBKOFMyTXpmT0JqSzFTWXRlVlQzTE0xbW1pN0RCN2NWN1pOV043MS1NYmFFSEFuVnBtdVluOG9SeDFWNWVhQ1haZng2MXRiRkgzR2o2MmNXOC1WNFFsb1lJTnFzRF9YcWVwU2I0anBpYXNZVFYyTlZyc3o2THIteGh2RzhHZ05iUXFRUlJnTzIxVEU0SmNwOGk5dkpSX0hoOVRpcUxnaVQ2TjF5eTZrOVRQcnc?oc=5
-
-- 'Less than 50 weapons to end conflict': IAF on Op Sindoor; details why Pak asked for ceasefire - The Times of India
-  'Less than 50 weapons to end conflict': IAF on Op Sindoor; details why
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMjZzcjFaM1prUTBLeHhBTlZLdVFvMFNIXzNrT3h4dkZTS2hQbXIxdWZUSnFGM3c3VXpNejZGTDhfSXdaMWhTS3dXSkx1X0MwOGpzV24yQnBBbTlGcS1VZmREc21oTkJOYzN3T2w5OGVuVjQ5dXZMcGtyY2I1eVJpV1E4LVF6dTJfSEtGdG1hSXZfZHI4Szk1YmxuUFBCbUhjTTl4R3lCTE5IaEdWMUZSVnFxbUsyMVBNX0Vpc2swRW9UcUxGbU5SUGp0UlExdWhFYXFPbThSRlZka3ByTGpzbG1XU0Uxdk5vNFp4NGEyUdIB9AFBVV95cUxNaXNYRE1ZWktfekJRdFNXRmtwdGpVMnZaZDFBZlZmQmw2NkM2ZExtVEFjdFdXbGRiMEw3bWVMOUN3MDhUeWQzMU83OXh5azE4RlFnZXRUZTlEbndjWjh4OFZoaWF5WTR6cm92ODhWSVQ0N2hUcjg4dEpheGhVSVIwQ01VZnFtNnVEMEJxdHdBcTVlZHFZdXp2ejdhOTJuaDI1VndXN1BkQ0M1eW42Tzk2NTBQaXQ4bjdfM0FoSkJDaG9QZEFOc3ByQzVKSl9qNTJDRXRrdkM4dlFQQzkzR3hNX3NWX3J4dEZ3bjBYZVZOUDlsZnh3?oc=5
-
-- "BrahMos Can Be Answer For Foreign Policy": Expert At NDTV Defence Summit - NDTV
-  "BrahMos Can Be Answer For Foreign Policy
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmgtV2lqcTZSQXZzYkxFTjI5WnZjNHJDMTFEdlV5UnF5UjV1Tmt1bllRWGNKb3NQbWYxdzB2T1FwSkhRY2JXX25OcFA2QTEtWmVPaUhvRU53SGRHZE1uWTgxMWtZcnNkUDhaT0VXMDl3MmsxSEs1aWRBczNKSE5hVHNBeDlsLVdCT0lwR1hyeXc1WERUMVZ3Slc3dExXdkw2YXRZdVNyWU5yVVNXeWJR0gG3AUFVX3lxTE44SEg0RlU5MDVxN25nUU5XRlZBbzFRaWQ1dkxQWHV2OEZrTVNOZzhtUjRXTHhnalp0Tm1FaC1DMjdrMTRTVmF5eWdzUGFTT2dWMkYzYXl1X1BScnBTMThPMXQyU19nUWNYUmNaNUNRMUtnV08wQnZUSzA4b0IzXy1HTGJYcmI5X0pZeV9USVpZZ19TZ3NkOGdmeE5ZdUdEa2dLb3VGQU5BT0FhSHpXMTFrbzduWDBUNA?oc=5
-
-- Assam Intensifying Crackdown On Infiltrators On 2 Fronts: Himanta Sarma - NDTV
-  Assam Intensifying Crackdown On
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEUwQTRPYkxPN2h2bW5mM2s4YkVhRk9IMWFma1U4NHpXbDZqQ0JiTWJfUVVlUkdfNkJKdEhiVDByb1pHVjhST3paRkdMczN5NEZNcmFZRTJBU3JuUGdQaDNXcjAtUUMxMjNLU0xiTkR5bVlXdDhSRUozYWFOdEtLejRSNXhoeS1MUkppQzZRRkVZU29ZUmVQNTAtd3lUYzM3ZUZsakpPUXRNZEVpVWlMbUJQMmN3YnPSAb8BQVVfeXFMTnpseHZVVlFEb3JxRUhfbThYYTVkSC1YeE54ZzlmV3gzTUpYNV9IWmZlZ09CMjNkbm83UHk0eUwzR0ZpQzJxSjZEQmpvcURZZ2pjM1l0QWI1SzdMQkNidXhzb0huLW9FR3VOdkRGZ1hOdE42a05NSWdCY18wcTl1UlIwU0hORFI2NnJsTGxJaGlfcXZ5Z05aOUlrTXZ0cFZJZk9rNUhIWHlQZzd2YUJ5RnVJR3FXV2hGUkt3b0JjRW8?oc=5
-
-- "US Brand In Toilet": White House Ex-Official Blasts Trump's India Tariffs - NDTV
-  "US Brand In Toilet": White House
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamlPODdSUmhrODlXc09qN3Q1UU9NTnlsVVBwcG4zT3ZValpZRVRSUzh2MUc3MHBUbDhhZmcxenNwZFBPcWhxMVJFS1AzZ08xbVhuTGlvQ3pfcnBEZVEteDZxNzFndlVUZVpXdWs1blVYbHl4eEF1dkpGb1pPV0k3Qkt3cWliZmRyUC1wT0gwMnRPY2J6aHhtTDVtS09valhGaEVMZXJQM0p0WFRWRC1wXzBrZ0xITkVFbzkw0gHDAUFVX3lxTE1oaGxKUWRHMVVKamhaX3lNSTV4RHd1QU5TQktyQTl0bTZMSXl6ck5MYmgwRGs4ZEhraHRSY2VyQzdfQk13S1YtZ1g5aFhzMGRMeXpkUU1VR0Q2eHpmR0Fpby0zQ0h6YUtOSW1TQnBLYXFmb25WcXpnM3RBcnh5bkRQdkRvdGtNb0NKZzBNMHdiQ2lUYzU2QWN3ek5EY2RCeEJXNjZBelJ5dVJqLVZGcGdsSGF2RzhxRXhVQmMyZTJpX1ZOZw?oc=5
-
-- 50% Tariffs On India As Trump Could Not Mediate India-Pakistan Conflict: Jefferies - NDTV
-  The White House is considering 50% tariffs on India
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ200cjlpYmgyZTZ1OEo2bzVXVkt1MGxvM29kZ1Fxa2hUSWxyVTJKcHRkTmIzalJSYlcxRXMwVl9xTVF4WXFEYmRzcTFPQXJvbFJ1UkhzREhCdE1Bb09MZERIYlBFeUtIcnhfQXhzVGZab25JQnJCR2ljTXZRSGROZjJ6aFo1b0lGZERMQVY4V1R2LURUR0tPMHlxUGRzcTRjSUxpVGVrZy1uM2xJenBJZGIxYzFRd1l1TFdmS2xCWE4xNzhJMDVFNzJxeUHSAdQBQVVfeXFMTm1ncnltamdlNTN5ZGtYWGZOWkxKeThRVWRremZkVjRxUVBKOFMyTXpmT0JqSzFTWXRlVlQzTE0xbW1pN0RCN2NWN1pOV043MS1NYmFFSEFuVnBtdVluOG9SeDFWNWVhQ1haZng2MXRiRkgzR2o2MmNXOC1WNFFsb1lJTnFzRF9YcWVwU2I0anBpYXNZVFYyTlZyc3o2THIteGh2RzhHZ05iUXFRUlJnTzIxVEU0SmNwOGk5dkpSX0hoOVRpcUxnaVQ2TjF5eTZrOVRQcnc?oc=5
-
-- 'Less than 50 weapons to end conflict': IAF on Op Sindoor; details why Pak asked for ceasefire - The Times of India
-  'Less than 50 weapons to end conflict': IAF on Op Sindoor; details why
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMjZzcjFaM1prUTBLeHhBTlZLdVFvMFNIXzNrT3h4dkZTS2hQbXIxdWZUSnFGM3c3VXpNejZGTDhfSXdaMWhTS3dXSkx1X0MwOGpzV24yQnBBbTlGcS1VZmREc21oTkJOYzN3T2w5OGVuVjQ5dXZMcGtyY2I1eVJpV1E4LVF6dTJfSEtGdG1hSXZfZHI4Szk1YmxuUFBCbUhjTTl4R3lCTE5IaEdWMUZSVnFxbUsyMVBNX0Vpc2swRW9UcUxGbU5SUGp0UlExdWhFYXFPbThSRlZka3ByTGpzbG1XU0Uxdk5vNFp4NGEyUdIB9AFBVV95cUxNaXNYRE1ZWktfekJRdFNXRmtwdGpVMnZaZDFBZlZmQmw2NkM2ZExtVEFjdFdXbGRiMEw3bWVMOUN3MDhUeWQzMU83OXh5azE4RlFnZXRUZTlEbndjWjh4OFZoaWF5WTR6cm92ODhWSVQ0N2hUcjg4dEpheGhVSVIwQ01VZnFtNnVEMEJxdHdBcTVlZHFZdXp2ejdhOTJuaDI1VndXN1BkQ0M1eW42Tzk2NTBQaXQ4bjdfM0FoSkJDaG9QZEFOc3ByQzVKSl9qNTJDRXRrdkM4dlFQQzkzR3hNX3NWX3J4dEZ3bjBYZVZOUDlsZnh3?oc=5
-
-- "BrahMos Can Be Answer For Foreign Policy": Expert At NDTV Defence Summit - NDTV
-  "BrahMos Can Be Answer For Foreign Policy
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmgtV2lqcTZSQXZzYkxFTjI5WnZjNHJDMTFEdlV5UnF5UjV1Tmt1bllRWGNKb3NQbWYxdzB2T1FwSkhRY2JXX25OcFA2QTEtWmVPaUhvRU53SGRHZE1uWTgxMWtZcnNkUDhaT0VXMDl3MmsxSEs1aWRBczNKSE5hVHNBeDlsLVdCT0lwR1hyeXc1WERUMVZ3Slc3dExXdkw2YXRZdVNyWU5yVVNXeWJR0gG3AUFVX3lxTE44SEg0RlU5MDVxN25nUU5XRlZBbzFRaWQ1dkxQWHV2OEZrTVNOZzhtUjRXTHhnalp0Tm1FaC1DMjdrMTRTVmF5eWdzUGFTT2dWMkYzYXl1X1BScnBTMThPMXQyU19nUWNYUmNaNUNRMUtnV08wQnZUSzA4b0IzXy1HTGJYcmI5X0pZeV9USVpZZ19TZ3NkOGdmeE5ZdUdEa2dLb3VGQU5BT0FhSHpXMTFrbzduWDBUNA?oc=5
-
-- Assam Intensifying Crackdown On Infiltrators On 2 Fronts: Himanta Sarma - NDTV
-  Assam Intensifying Crackdown On
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEUwQTRPYkxPN2h2bW5mM2s4YkVhRk9IMWFma1U4NHpXbDZqQ0JiTWJfUVVlUkdfNkJKdEhiVDByb1pHVjhST3paRkdMczN5NEZNcmFZRTJBU3JuUGdQaDNXcjAtUUMxMjNLU0xiTkR5bVlXdDhSRUozYWFOdEtLejRSNXhoeS1MUkppQzZRRkVZU29ZUmVQNTAtd3lUYzM3ZUZsakpPUXRNZEVpVWlMbUJQMmN3YnPSAb8BQVVfeXFMTnpseHZVVlFEb3JxRUhfbThYYTVkSC1YeE54ZzlmV3gzTUpYNV9IWmZlZ09CMjNkbm83UHk0eUwzR0ZpQzJxSjZEQmpvcURZZ2pjM1l0QWI1SzdMQkNidXhzb0huLW9FR3VOdkRGZ1hOdE42a05NSWdCY18wcTl1UlIwU0hORFI2NnJsTGxJaGlfcXZ5Z05aOUlrTXZ0cFZJZk9rNUhIWHlQZzd2YUJ5RnVJR3FXV2hGUkt3b0JjRW8?oc=5
-
-- "US Brand In Toilet": White House Ex-Official Blasts Trump's India Tariffs - NDTV
-  "US Brand In Toilet": White House
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamlPODdSUmhrODlXc09qN3Q1UU9NTnlsVVBwcG4zT3ZValpZRVRSUzh2MUc3MHBUbDhhZmcxenNwZFBPcWhxMVJFS1AzZ08xbVhuTGlvQ3pfcnBEZVEteDZxNzFndlVUZVpXdWs1blVYbHl4eEF1dkpGb1pPV0k3Qkt3cWliZmRyUC1wT0gwMnRPY2J6aHhtTDVtS09valhGaEVMZXJQM0p0WFRWRC1wXzBrZ0xITkVFbzkw0gHDAUFVX3lxTE1oaGxKUWRHMVVKamhaX3lNSTV4RHd1QU5TQktyQTl0bTZMSXl6ck5MYmgwRGs4ZEhraHRSY2VyQzdfQk13S1YtZ1g5aFhzMGRMeXpkUU1VR0Q2eHpmR0Fpby0zQ0h6YUtOSW1TQnBLYXFmb25WcXpnM3RBcnh5bkRQdkRvdGtNb0NKZzBNMHdiQ2lUYzU2QWN3ek5EY2RCeEJXNjZBelJ5dVJqLVZGcGdsSGF2RzhxRXhVQmMyZTJpX1ZOZw?oc=5
-
-- 50% Tariffs On India As Trump Could Not Mediate India-Pakistan Conflict: Jefferies - NDTV
-  The White House is considering 50% tariffs on India
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ200cjlpYmgyZTZ1OEo2bzVXVkt1MGxvM29kZ1Fxa2hUSWxyVTJKcHRkTmIzalJSYlcxRXMwVl9xTVF4WXFEYmRzcTFPQXJvbFJ1UkhzREhCdE1Bb09MZERIYlBFeUtIcnhfQXhzVGZab25JQnJCR2ljTXZRSGROZjJ6aFo1b0lGZERMQVY4V1R2LURUR0tPMHlxUGRzcTRjSUxpVGVrZy1uM2xJenBJZGIxYzFRd1l1TFdmS2xCWE4xNzhJMDVFNzJxeUHSAdQBQVVfeXFMTm1ncnltamdlNTN5ZGtYWGZOWkxKeThRVWRremZkVjRxUVBKOFMyTXpmT0JqSzFTWXRlVlQzTE0xbW1pN0RCN2NWN1pOV043MS1NYmFFSEFuVnBtdVluOG9SeDFWNWVhQ1haZng2MXRiRkgzR2o2MmNXOC1WNFFsb1lJTnFzRF9YcWVwU2I0anBpYXNZVFYyTlZyc3o2THIteGh2RzhHZ05iUXFRUlJnTzIxVEU0SmNwOGk5dkpSX0hoOVRpcUxnaVQ2TjF5eTZrOVRQcnc?oc=5
-
-- 'Less than 50 weapons to end conflict': IAF on Op Sindoor; details why Pak asked for ceasefire - The Times of India
-  'Less than 50 weapons to end conflict': IAF on Op Sindoor; details why
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMjZzcjFaM1prUTBLeHhBTlZLdVFvMFNIXzNrT3h4dkZTS2hQbXIxdWZUSnFGM3c3VXpNejZGTDhfSXdaMWhTS3dXSkx1X0MwOGpzV24yQnBBbTlGcS1VZmREc21oTkJOYzN3T2w5OGVuVjQ5dXZMcGtyY2I1eVJpV1E4LVF6dTJfSEtGdG1hSXZfZHI4Szk1YmxuUFBCbUhjTTl4R3lCTE5IaEdWMUZSVnFxbUsyMVBNX0Vpc2swRW9UcUxGbU5SUGp0UlExdWhFYXFPbThSRlZka3ByTGpzbG1XU0Uxdk5vNFp4NGEyUdIB9AFBVV95cUxNaXNYRE1ZWktfekJRdFNXRmtwdGpVMnZaZDFBZlZmQmw2NkM2ZExtVEFjdFdXbGRiMEw3bWVMOUN3MDhUeWQzMU83OXh5azE4RlFnZXRUZTlEbndjWjh4OFZoaWF5WTR6cm92ODhWSVQ0N2hUcjg4dEpheGhVSVIwQ01VZnFtNnVEMEJxdHdBcTVlZHFZdXp2ejdhOTJuaDI1VndXN1BkQ0M1eW42Tzk2NTBQaXQ4bjdfM0FoSkJDaG9QZEFOc3ByQzVKSl9qNTJDRXRrdkM4dlFQQzkzR3hNX3NWX3J4dEZ3bjBYZVZOUDlsZnh3?oc=5
-
-- "BrahMos Can Be Answer For Foreign Policy": Expert At NDTV Defence Summit - NDTV
-  "BrahMos Can Be Answer For Foreign Policy
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmgtV2lqcTZSQXZzYkxFTjI5WnZjNHJDMTFEdlV5UnF5UjV1Tmt1bllRWGNKb3NQbWYxdzB2T1FwSkhRY2JXX25OcFA2QTEtWmVPaUhvRU53SGRHZE1uWTgxMWtZcnNkUDhaT0VXMDl3MmsxSEs1aWRBczNKSE5hVHNBeDlsLVdCT0lwR1hyeXc1WERUMVZ3Slc3dExXdkw2YXRZdVNyWU5yVVNXeWJR0gG3AUFVX3lxTE44SEg0RlU5MDVxN25nUU5XRlZBbzFRaWQ1dkxQWHV2OEZrTVNOZzhtUjRXTHhnalp0Tm1FaC1DMjdrMTRTVmF5eWdzUGFTT2dWMkYzYXl1X1BScnBTMThPMXQyU19nUWNYUmNaNUNRMUtnV08wQnZUSzA4b0IzXy1HTGJYcmI5X0pZeV9USVpZZ19TZ3NkOGdmeE5ZdUdEa2dLb3VGQU5BT0FhSHpXMTFrbzduWDBUNA?oc=5
-
-- Assam Intensifying Crackdown On Infiltrators On 2 Fronts: Himanta Sarma - NDTV
-  Assam Intensifying Crackdown On
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEUwQTRPYkxPN2h2bW5mM2s4YkVhRk9IMWFma1U4NHpXbDZqQ0JiTWJfUVVlUkdfNkJKdEhiVDByb1pHVjhST3paRkdMczN5NEZNcmFZRTJBU3JuUGdQaDNXcjAtUUMxMjNLU0xiTkR5bVlXdDhSRUozYWFOdEtLejRSNXhoeS1MUkppQzZRRkVZU29ZUmVQNTAtd3lUYzM3ZUZsakpPUXRNZEVpVWlMbUJQMmN3YnPSAb8BQVVfeXFMTnpseHZVVlFEb3JxRUhfbThYYTVkSC1YeE54ZzlmV3gzTUpYNV9IWmZlZ09CMjNkbm83UHk0eUwzR0ZpQzJxSjZEQmpvcURZZ2pjM1l0QWI1SzdMQkNidXhzb0huLW9FR3VOdkRGZ1hOdE42a05NSWdCY18wcTl1UlIwU0hORFI2NnJsTGxJaGlfcXZ5Z05aOUlrTXZ0cFZJZk9rNUhIWHlQZzd2YUJ5RnVJR3FXV2hGUkt3b0JjRW8?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-08-30 12:30:45 UTC_
+_Last updated: 2025-08-30 18:22:05 UTC_
