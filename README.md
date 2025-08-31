@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Committed to take forward ties based on mutual respect, sensitivity: PM Modi to Xi Jinping
+- $467 billion needed to decarbonise four of India’s emission-heavy sectors by 2030: study
   
-  🔗 https://indianexpress.com/article/india/modi-xi-jinping-mutual-respect-sensitivity-10221588/
+  🔗 https://indianexpress.com/article/india/467-billion-needed-to-decarbonise-four-of-indias-emission-heavy-sectors-by-2030-study-10222297/
 
-- ‘Mutual trust, respect to be basis of bilateral ties… peace at border since disengagement’: PM Modi to Chinese President Xi Jinping
+- IMD forecasts heavy rain in September, warns of landslides in Uttarakhand, Himachal Pradesh
   
-  🔗 https://indianexpress.com/article/india/modi-xi-jinping-india-china-bilateral-ties-sco-summit-border-10221604/
+  🔗 https://indianexpress.com/article/india/imd-heavy-rain-landslide-uttarakhand-himachal-pradesh-10222278/
 
-- Another casualty in rain-ravaged Uttarakhand — bridge connecting border villages of Niti Valley
+- Wheelchair facility at railway stations: Here’s how to book wheelchair in IRCTC
   
-  🔗 https://indianexpress.com/article/india/uttarakhand-rains-wash-away-chamoli-bridge-highway-villages-cut-10221543/
+  🔗 https://indianexpress.com/article/india/wheelchair-facility-at-railway-stations-heres-how-to-book-wheelchair-in-irctc-10222188/
 
-- HAL likely to deliver 2 Tejas Mark-1A jets next month: Defence secretary
+- TMC MP Mahua Moitra booked for ‘objectionable’ remarks against Amit Shah
   
-  🔗 https://indianexpress.com/article/india/hal-tejas-mark-1a-jets-defence-secretary-10221538/
+  🔗 https://indianexpress.com/article/india/tmc-mp-mahua-moitra-booked-for-objectionable-remarks-against-amit-shah-10222090/
 
-- Nagaland-based TV journalist shot in Manipur’s Senapati
+- Centre tweaks norms on tree plantation-based green credits, ties it to tree canopy, their survival
   
-  🔗 https://indianexpress.com/article/india/journalist-shot-manipur-senapati-flower-festival-nagaland-10221485/
+  🔗 https://indianexpress.com/article/india/centre-norms-tree-plantation-green-credits-tree-canopy-10222177/
+
+- Anthropic to train its AI models on your chats from September: Here’s how to stop it
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-train-ai-users-chats-how-to-opt-out-10222143/
+
+- Fittr Hart X2 review: A smart ring that tracks my health, and doesn’t need to be charged every night
+  
+  🔗 https://indianexpress.com/article/technology/tech-reviews/fittr-hart-x2-smart-ring-review-10221763/
+
+- Meta loses top AI talent after forming new division to pursue superintelligence: Report
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-loses-ai-talent-new-division-to-pursue-superintelligence-report-10221742/
 
 - iPhone 17 launch on Sep 9:  What to expect (and not) from Apple’s ‘Awe Dropping’ event
   
@@ -28,197 +40,125 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-silicon-valley-is-using-religious-language-to-talk-about-ai-10221515/
 
-- US makes it harder for SK Hynix, Samsung to make chips in China
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/us-makes-it-harder-for-sk-hynix-samsung-to-make-chips-in-china-10221504/
+- India looks at sealing two mega submarine deals after long wait
+  India looks at sealing two mega
+  🔗 https://www.livemint.com/companies/news/india-looks-at-sealing-two-mega-submarine-deals-after-long-wait-11756642535679.html
 
-- Custom brain implant delivers personalised therapy to ease chronic pain
-  
-  🔗 https://indianexpress.com/article/technology/custom-brain-implant-delivers-personalised-therapy-to-ease-chronic-pain-10220487/
+- From 15-page reports to 15-second reels: Motilal Oswal’s arc of reinvention
+  Sandeep Walunj is group chief marketing officer, Motilal Oswal Financial Services. He explains how the firm is reshaping its brand for a digital-first audience.
+  🔗 https://www.livemint.com/companies/people/investing-fear-greed-drive-behaviour-ctv-walunj-bfsi-finfluencers-fintechs-cricinfo-atm-sebi-digital-first-audience-mfs-11756622715058.html
 
-- Still using old password? Google urges all Gmail users to change passwords after data breach
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/gmail-data-breach-google-advisory-change-password-10220206/
+- GCCs, AI, fintech firms key to meet coworking players revenue targets: Enzyme CEO
+  Global Capability Centres, Artificial Intelligence and Fintech firms have emerged as the major drivers of achieving revenue targets.
+  🔗 https://www.livemint.com/companies/news/gccs-ai-fintech-firms-key-to-meet-coworking-players-revenue-targets-enzyme-ceo-11756634315595.html
 
-- UK Companies Defy Tax Hikes With Plans to Hire, Survey Finds
-  UK business confidence rose this month to its highest in almost a decade. An increased majority of firms planning to hire more staff in the coming year.
-  🔗 https://www.livemint.com/companies/news/uk-companies-defy-tax-hikes-with-plans-to-hire-survey-finds-11756619089688.html
+- Tech gaps in Indias semiconductor sector draw global players eyeing big opportunity
+  The technological gaps in India's emerging semiconductor ecosystem are capturing the interest of global players from allied sectors. This is to support the country's goal of becoming a preferred
+  🔗 https://www.livemint.com/companies/news/tech-gaps-in-indias-semiconductor-sector-draw-global-players-eyeing-big-opportunity-11756630451848.html
 
-- Tamil Nadu CM Stalin arrives in Germany to secure industrial investments
-  Tamil Nadu Chief Minister MK Stalin has arrived in Germany to begin an eight-day visit. His visit is
-  🔗 https://www.livemint.com/companies/news/tamil-nadu-cm-stalin-arrives-in-germany-to-secure-industrial-investments-11756618484248.html
+- Don’t be so…: What Warren Buffett advised Melinda French Gates that she still follows today
+  Melinda French Gates shared an advice that she got from Warren Buffett in an interview. Buffett told her to take
+  🔗 https://www.livemint.com/companies/people/dont-be-so-what-warren-buffett-advised-melinda-french-gates-that-she-still-follows-today-11756628616736.html
 
-- Nalco charts green alumina path by 2030—even as coal expansion looms
-  The push for greener production has intensified with the European Union’s Carbon Border Adjustment Mechanism. Similar measures are under
-  🔗 https://www.livemint.com/companies/news/nalco-green-alumina-energy-transition-2030-clean-energy-carbon-tax-11756463445635.html
+- Mint Explainer | How Sebi’s proposed pre-IPO platform could unlock Esop cashout, tame grey market risks
+  The pilot aims to replace India’s grey-market trades with a
+  🔗 https://www.livemint.com/market/sebi-pre-ipo-platform-esop-liquidity-grey-market-risks-11756624810995.html
 
-- SoftBank, Rakuten Tap Japan’s Booming Retail Demand for Bonds
-  Sales of corporate bonds to Japan’s mom and pop investors are booming. Bigger returns draw buyers looking to protect their savings
-  🔗 https://www.livemint.com/companies/news/softbank-rakuten-tap-japan-s-booming-retail-demand-for-bonds-11756593758556.html
+- Penny stock under  ₹5 declares Capex expansion after closure of rights issue worth  ₹149.22 crore
+  On Friday, Davangere Sugar Company shares were up 6.73 per cent to close at  ₹3.49 apiece. The penny stock has remained volatile in near-term
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-5-davangere-sugar-company-declares-capex-expansion-after-closure-of-rights-issue-worth-149-22-crore-11756628794065.html
 
-- GST reforms: Royal Enfield calls for uniform 18 per cent rate on two wheelers — ‘India already leads...’
-  Royal Enfield urged the government to consider a uniform GST rate for motorcycles. The Eicher Motor-owned brand's Chairman
-  🔗 https://www.livemint.com/companies/news/gst-reforms-royal-enfield-calls-for-uniform-18-per-cent-rate-on-two-wheelers-india-already-leads-11756569202462.html
+- Indonesia, Thai Stock Market Outlooks Buffeted by Political Risk
+  Intensifying protests in Indonesia and the latest leadership upheaval in Thailand are ratcheting up political risk in
+  🔗 https://www.livemint.com/market/stock-market-news/indonesia-thai-stock-market-outlooks-buffeted-by-political-risk-11756629668618.html
 
-- Upcoming IPOs: Amanta Healthcare IPO, Rachit Prints IPO among 8 public issues to open next week; check full list here
-  The month of August witnessed splurge of IPOs as 40 new public issues opened for subscription. The IPO buzz is all set to continue in September also
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-amanta-healthcare-ipo-rachit-prints-ipo-among-8-public-issues-to-open-next-week-check-full-list-here-11756616238805.html
+- Mcap of 8 of top-10 most valued firms fell by  ₹2.24 lakh crore; RIL, HDFC Bank biggest laggards
+  Mcap of 8 of top-10 most valued firms erode
+  🔗 https://www.livemint.com/market/stock-market-news/mcap-of-8-of-top-10-most-valued-firms-fell-by-2-24-lakh-crore-ril-hdfc-bank-biggest-laggards-11756626271279.html
 
-- Stocks to buy under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday - 1 September 2025
-  Sumeet Bagadia has recommended three stocks to buy on Monday, September 1. Rattanindia Enterprises, Jay Bhar
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-1-september-2025-11756613793002.html
+- India-China-Russia: Can SCO Summit 2025 brew Trump's tariffs?
+  The summit unites India, China, Russia, and other participating nations. It showcases solidarity and collective
+  🔗 https://www.livemint.com/market/stock-market-news/indiachinarussia-can-sco-summit-2025-brew-trumps-tariffs-11756621499382.html
 
-- Auto sales data to GST council meeting: Top five triggers for the Indian stock market this week
-  According to Vinod Nair, Head of Research, Geojit Investments Limited, markets are likely to display a
-  🔗 https://www.livemint.com/market/stock-market-news/auto-sales-data-to-gst-council-meeting-top-five-triggers-for-the-indian-stock-market-this-week-11756609098825.html
+- iPhone 17 Air vs iPhone 17 Pro Max: Design, price, display, battery, camera and more compared
+  The iPhone 17 Pro Max will likely come with a 6.9 inch 120Hz display and a triple 48MP camera along with 5,000mAh battey. The iPhone 17 Air on the other hand, could come with 6.
+  🔗 https://www.livemint.com/technology/gadgets/iphone-17-air-vs-iphone-17-pro-max-design-price-display-battery-camera-and-more-compared-11756629212244.html
 
-- Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying JK Lakshmi shares tomorrow - 1 September 2025
-  Indian stock markets declined for the third session as investors reacted to a 50% US tariff on Indian goods. The Sensex fell 270.92 points, closing at 79,809.65, while
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-jk-lakshmi-shares-tomorrow-1-september-2025-11756568926256.html
+- Apple's ‘Awe Dropping’ event on 9 September: iPhone 17 and 7 other products to watch out for
+  Apple's Awe Dropping event on September 9 will showcase the iPhone 17 series, new Apple Watches, and AirP
+  🔗 https://www.livemint.com/technology/gadgets/apples-awe-dropping-event-on-9-september-iphone-17-and-7-other-products-to-watch-out-for-11756629261591.html
 
-- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday - 1 September 2025
-  Ganesh Dongre of Anand Rathi recommends three stocks to
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-1-september-2025-11756607779462.html
+- iPhone 16e gets over  ₹10,000 discount ahead of iPhone 17 launch: Should you buy?
+  The iPhone 16e sees a price drop to  �
+  🔗 https://www.livemint.com/technology/gadgets/iphone-16e-gets-over-rs-10-000-discount-ahead-of-iphone-17-launch-should-you-buy-11756627698967.html
+
+- Who is Chaya Nayak? Indian origin techie quits Meta to ‘turn a new page’ with OpenAI
+  Former Meta Director Chaya Nayak has quit the tech giant for rival AI startup OpenAI. Nayak
+  🔗 https://www.livemint.com/technology/tech-news/who-is-chaya-nayak-indian-origin-techie-quits-meta-to-turn-a-new-page-with-openai-chatgpt-zuckerberg-altman-11756621265889.html
 
 - Sundar Pichai gets a warning from US FTC chief: Stop Gmail from pushing Republican emails to spam or…
   FTC Chairman Andrew Ferguson accused Google's Gmail of bias. He claimed its spam filters block Republican messages while allowing Democrat ones. Google denied
   🔗 https://www.livemint.com/technology/tech-news/sundar-pichai-gets-a-warning-from-us-ftc-chief-stop-gmail-from-pushing-republican-emails-to-spam-or-11756614135571.html
 
-- iPhone 17 launch: Apple could kill off these 6 devices after September 9 event
-  Apple is set to launch new iPhones and accessories, while discontinuing models like the iPhone 16 Pro and Apple Watch Series 10. At the upcoming 9 September event,
-  🔗 https://www.livemint.com/technology/gadgets/apple-awe-dropping-event-iphone-17-launch-could-mean-end-of-these-6-devices-iphone-16-pro-max-iphone-15-apple-watch-11756611213597.html
+- Is India's Q1 GDP growth overestimated? The surprise behind the better-than-expected 7.8% number
+  HSBC India warns that India’s June quarter GDP growth of 7.8% may be overstated due to low deflators, especially in services and manufacturing. External pressures like US tariffs and GST revenue impacts pose further challenges
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/is-indias-q1-gdp-growth-overestimated-the-surprise-behind-the-better-than-expected-7-8-number/articleshow/123615029.cms
 
-- WhatsApp fixes ‘zero-click’ vulnerability that let hackers install spyware on iPhones and Macs
-  The vulnerability, CVE-2025-43300, was patched alongside Apple's. It also targeted Apple users, potentially compromising their data.
-  🔗 https://www.livemint.com/technology/tech-news/whatsapp-fixes-zero-click-vulnerability-that-let-hackers-install-spyware-on-iphones-and-macs-11756605388482.html
+- Nifty extends its losing streak into August. Will GST talks, upbeat GDP, and Modi’s China visit break the slide?
+  Indian equities closed August with a second consecutive month of losses. Nifty fell 1.38%, pressured by U.S. tariff shocks, foreign fund outflows, and profit-taking. Despite this, strong GDP growth and upcoming
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-extends-its-losing-streak-into-august-will-gst-talks-upbeat-gdp-and-modis-china-visit-break-the-slideriya-sharma/articleshow/123614979.cms
 
-- Flirty Meta AI chatbots impersonated Taylor Swift, Selena Gomez, Scarlett Johansson and others, made sexual advances
-   Meta's unauthorized chatbots of celebrities like Taylor Swift engaged users with fl
-  🔗 https://www.livemint.com/technology/tech-news/flirty-meta-ai-chatbots-impersonated-taylor-swift-selena-gomez-scarlett-johansson-and-others-made-sexual-advances-11756601350053.html
+- Critical elements shaping the new growth curve of capital markets
+  India’s capital markets are poised for a new growth phase driven by retail participation, ETF and index fund adoption, and expanding REIT and InvIT markets. Stablecoins and unified regulatory frameworks
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/critical-elements-shaping-the-new-growth-curve-of-capital-markets/articleshow/123614344.cms
 
-- iPhone 17 Pro Max vs iPhone 16 Pro Max: 7 big upgrades expected at Apple's ‘Awe Dropping’ event
-  The new iPhone is expected to come with a 48MP triple camera setup, Apple's new A19 Pro chipset, new design, colour variants
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17-pro-max-vs-iphone-16-pro-max-7-big-upgrades-expected-at-apples-awe-dropping-event-11756545326143.html
+- Govt’s gamble on GST cuts: What do the bond and currency markets signal?
+   Markets reflect cognitive biases, interpreting events differently. Equity markets anticipate consumption revival from GST reforms, while bond and currency markets price fiscal and macro risks. Persistent FII selling and a weakening
+  🔗 https://economictimes.indiatimes.com/markets/market-moguls/govts-gamble-on-gst-cuts-what-do-the-bond-and-currency-markets-signal/articleshow/123614833.cms
 
-- Markets News, Aug. 29, 2025: S&P 500, Dow Retreat From Record Highs as Tech Stocks Tumble; Nvidia, Broadcom Lead Chip Sector Slump - Investopedia
-  Investopedia: S&amp;P 500, Dow Retreat From Record Highs as Tech
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFB0cGVkRm04Y1VaRkg4NTI0cVN0UnlvaWwzOXBZaTZyelRaX0dGaEVQWEFmQmxiOVhNaDRJeElsRW8zOVA0cXVUSVRueG5iblJFbzR0Xy05OUlaVG5mTy01a2FGZ1JnVE9GV0wwSG8wYw?oc=5
+- Govt’s gamble on GST cuts: What do the bond and currency markets signal?
+   Markets reflect cognitive biases, interpreting events differently. Equity markets anticipate consumption revival from GST reforms, while bond and currency markets price fiscal and macro risks. Persistent FII selling and a weakening
+  🔗 https://economictimes.indiatimes.com/markets/bonds/govts-gamble-on-gst-cuts-what-do-the-bond-and-currency-markets-signal/articleshow/123614098.cms
 
-- Stocks Hit by Tech Selloff After Economic Reports: Markets Wrap - Bloomberg.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHo1SGlLNVlXYVl3b3paRnhMb3hXNEdtTWlrQ0I1Q3VsLXM0ZjViaXNDbV9xUXJFS3JTRXV4bmRReURLMEZCcFJwcE9NNElTYUJmSU5QWDlqbDJJaWZKUVFpRF9mcXFpaFpQamdCUjI4R3IwOXJWOWZqLTZDSm1WVGZHdlJFRTB4WVlXUDBCNjZ3eXRz?oc=5
+- SCO: China and India attempt to repair strained ties - BBC
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQnNyWHRKQTNVTWpQSTRqWnVpQk92TEdodTNlRERDQzdoQUlpVmhVTk5tS053Tlo1Z2hKR3hlN0l2bG9zMGVndFQyd1FoUnBrVXEtOHM1N0FZQdIBX0FVX3lxTE1RNVlpVHdSamdqRW9ZRVR0V3BBU2k2eVhERVhuTWxWeWJrXy1xTWxBRkZpS2JjVWJ1VFAtbmNxdGJkMjN0NmtXV1ltUkNoTGk3dXFIa1J1TXM0UUJZSXBz?oc=5
 
-- Stock Market Today: Dow Sinks, But Nasdaq Fares Much Worse; Nvidia Extends A Losing Streak (Live Coverage) - Investor's Business Daily
-  The Dow Sinks, But Nasdaq Fares Much Worse; Nvidia Extends
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNd09QNGRodXh4TFJSLTdNYmlrdExlc2xBbnh3a1ZybFdxWFJ2VUNVY3dpYmYzNm1peWJKdWpHck1GczdjcUZaUG9jSGk5Ukd4dEJUQTQza1pOcUJsalQyV3V0a09PaGdCdGVKTlpuQXVIaWl0bXRJcGQtbWMwMVR0eEo0ckxxNE5zbkl6Y2lOWWpHWmx4eXdqdDM2ejdkTzFadVo1Mm1ydmtiaUZ5RmRvZlo3SS1DZTg?oc=5
+- China and India pledge to be 'partners not rivals' at security summit - BBC
+  China and India pledge to be 'partners not
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lS2JfajUzQkhjc3QxT1UxY1JBQ0V0ODU4d1pDc0ZVUks3aS0yeHJIcFBMaGhDMHc3bDdDZkdaQnJKb2FEazFZWGZGQkNkUUNTbXlXaFFOSHRfQdIBX0FVX3lxTE5hWEUwdFpPM3ZDY2NMT21fSnoySU5mVWc1ZmFTX21vUFhPaWN6TVZGRU9OZmJkQ2tId2xONldwdmdxZ2ZpNEFpbFJlM2oySjNTNE9CdjU1Uzk5cnhCTmxR?oc=5
 
-- Auto sales data to GST council meeting: Top five triggers for the Indian stock market this week - Mint
-  The Indian stock market is expected to open at a record high on Friday.
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQalhNY3pGZFJMdVc2ZEFaN1FYRDc0RzEzZms5OTEwMVYxcFpOeTNucjRKY0J3VThhZUlRZTZjN2hPUWRJc2N1cnZhMER6SFdaSmhVYURfQmlEdTZWVnloelBRNk81dk5va0JtWGlEMUJHVlctenkxZG9fenVLRlk5TDRxS2otaGpIV1FWdEQ0dUFrczhXdmg2dzk3ODVkXy1wNlZYSjZJX2VEa3pZODFxTnRhU1dpZXhXQ0FFU1dWaW1rc1hDM2xrUUFXSnNqQkM3V2N0MExSa1oxanJPWVJhT2xqMllUNzVzZTlYcFhNVkVZMXY3MFZZ0gH8AUFVX3lxTE1LdnhQX3hVTkh6OGhvUEhGa0I5d1phLUhnOWxJa0x1UW51YUltVTJ5Rk41SE5fZ1Y1bHRqWU9MZ3dvX1k5TlJkdEdjRHN6V2FJc0ZPZU1DczJJa2RJeUpva3hoYUxVQlBfQVdObEt2SVF2dWNMWkZaZGtURUh4b0hyeHExaFg3aGROenYtSVNvdUViTlNYeGNMazdZelJMamVYWTdZa1JJcmxBR05lY3dhY0dWWVY4YVNkOHhhR054WmhrZUNqMEtwak5mcmNfZHBhaDRHa2Z1VHYwU3BEUzdIeGJXeE0wdWx5UXdmbXp6WnJ1Z2Y2OFhzcWpjQw?oc=5
-
-- Proposed GST rejig saved the day for Indian stock markets, says Chris Wood - Business Standard
-  Proposed GST rejig saved the day for Indian stock
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNks0ZXFmaVptdlVRdFlYRk1HcWthb29LYnRubTZQaGxBREJHUGl0TGdNLWJWdWdZUWNuWHZ6LXQ0eFFKeEdnZzE3Mzg0Y3BaQ00yX0ZHVkdsMDMzTVdrZUpNMndlWHlDUWVaU0xPNUEyNllYa0ZiTnNQX2Jrd05fWXZpRDdESVdmR3lFUXlxUjBDeERmYmtSbVVFMmlySlFxdndHMER4UWJ0bDBNOW9ON2RnRVpBR2wwY2NMZTFoZjVJcmdXWjJhZGxkMUQxMVhGT0VQTXl3c9IB3AFBVV95cUxNQndnSDI0MUVzZkpqYWdvLWVpb2FPOXNjdXRxd3JqN3VQdk9qNGlKOE93ejlCVUpKNmdPdGxnVEYxWnBBb1lWS1hGalQ3RkxuRW9nRko1bm51YkM3X19yamNZR0g1N2R0UkJwcVVyQl9BcFJiNUtaZmxNVm4ySTAwUzQxMjZiUmxST3MtZGVGdlplRUxkTTQ4R3lNU2U2ZnllMG4wQWtCQ2xkRl9UVC1fcDdoUVBkOUNrRGY1M25iNm5fWUFtTWlmZnZqUzB2RHdNNkVha3NzblN1akdW?oc=5
-
-- Tata Capital to launch $2 bn IPO in late September, eyes $11 bn valuation: Report
-  Tata Capital is preparing to launch its highly anticipated USD 2 billion IPO in late September. The IPO includes a fresh issue of shares and an offer for sale by Tata Sons and IFC.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/tata-capital-to-launch-2-bn-ipo-in-late-september-eyes-11-bn-valuation/articleshow/123612025.cms
-
-- Rs 2.24 lakh crore wiped off from 8 of top-10 most valued firms; Reliance, HDFC Bank lead losses
-  The combined market valuation of eight of the top-10 most valued firms eroded by Rs 2,24,630.45 crore last week. Reliance Industries
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rs-2-24-lakh-crore-wiped-off-from-8-of-top-10-most-valued-firms-reliance-hdfc-bank-lead-losses/articleshow/123611606.cms
-
-- CMR Green Technologies files draft papers; seeks Sebi's clearance to float IPO
-  CMR Green Technologies Ltd, non-ferrous metal recycler, has filed preliminary papers with markets regulator Se
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/cmr-green-technologies-files-draft-papers-seeks-sebis-clearance-to-float-ipo/articleshow/123611518.cms
-
-- Ola Electric shares rally 14% this week. Analysts see Rs 70 on the horizon despite risks. Should you buy now?
-  Ola Electric's shares surged 14% after securing Production Linked Incentive (PLI) certification for its Gen 3 scooters. Despite this, market share has slipped amid stiff competition and supply issues. Ola aims for growth
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-shares-rally-14-this-week-analysts-see-rs-70-on-the-horizon-despite-risks-should-you-buy-now/articleshow/123611121.cms
-
-- Reliance Jio IPO at $154 billion valuation? India's biggest listing and what investors need to know
-  Reliance Jio is gearing up for a record-breaking IPO by H1 2026. It could raise up to Rs 67,500 crore and valuing the company at $154 billion. It would surpass all previous Indian listings,
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-at-154-billion-valuation-indias-biggest-listing-and-what-investors-need-to-know/articleshow/123610914.cms
-
-- India Has "Walked Away" From US Trade Talks Due To Tariffs: Ex-Top Official - NDTV
-  India Has "Walked Away" From US Trade Talks
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUgxZzFIZGFHbXBqLXl6TnJhYlpJZk1JY1RLNlMwdXM2M0p6bzBjZlV4SldqZ3JueDNsQ21XSmZXcV9kYjBBeGhyRF92dDFSZEhkd19CY2V3MllCQ0RfMXpKNWUzd2FkRWFkN045bS13NGZ0ZmJ4amwyaXMwWXpkdDBsam5pN3pqcmdKVndiVVV0UDQ1WjFYOEVzeGNZOFdvUUpGN0lpWkUyeFBqcnJPSTd0UHR3V3lGbDBUcTVEQ2dnbk1NdVJaeFV5blBETUZnTVE2VHdYaFbSAeABQVVfeXFMUHZ3U3JacXQ5OU9fYVNpYnhQTVdjU3A2clZpSkRuNkxDM3lYeXI1bU5QLTQyY3VxTnRqUU1GQVpDM2xFRXhpUXhkckEzZFN3YnNSMTRlWElSOU1kRnJUS1dEdFV1cmctc01pX3hoa3AxZkNXTVVqSmlGTkpkVFJnUWhES3FRVHg5YlIzM2hTRlFHeUlLdTJoeFVKMXRyMHZRa3VjT2lSREozRnFUMDZCMnlmLUtvYTdPV3dOTFFqSk1saHZtOHpnaGNFN0xFc3dvODcyY3hpNEtjdFJ5enoxd1o?oc=5
+- PM, Xi Boost India-China Ties With Direct Flights, Trade, Optics: 10 Points - NDTV
+  PM, Xi Boost India-China Ties With
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGFyLVVmRFdaai1XUmhyR3FXR3pNelZ3U2FpSS0teHcxdHUzM243MVZEa3VhMWFaNzNFSEZwTEdTT1YwbmxxU0lxRk1VN0lYdGxvWEQ5QlFTQVRLR2liSDVYS0NnRmtwWkMzb3lERnJ0MTI2Z2Y1Y216YV9SQWJGT2E0cEVldTZ3b1phNHBodTc5NG1SeWR2M0xHMnhzeGNyWXg5Uk5JV3puRVJ1V0poajZxbE5aX0xoSHpTUWE4UGFnU1I3NFcwXy1ta21pZ9IB1gFBVV95cUxQRklySWtiakY5OU9sS2VQTG9QSnRNOGVyNUpvNlBXUDZNWi1JTkNhMm5sdDRmWTRKRzROdm1JZ1g2TDJRZS1sZVJpcHp5X25uVEF2M2lzeWx5bDJpalBETDVVX09HNy1zR3o2ZWFjMlR6VWQ3dmVuQjlCOGplbWVBRnhmdFZDaHlWMDliMF9rdlIyYjZPbzlkcXdQRWh0QzlueU9ILVotSjRhbEd1MU1mUG1lNWt3R05Qb2VUNy1HTkdUR0dQQWlZTTIzSWN0LTZTczJ1ZjVB?oc=5
 
 - 'No one can...': Ex-bureaucrat says India has 'walked away' from US trade talks | Latest News India - Hindustan Times - Hindustan Times
   'No one can...': Ex-bureaucrat says India has 'walked away
   🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQLUtQS1ZUcDRWWlNHRGEwSm1DVFBpc0ZTWDlJRXZNYzFBdXBfR1pMWUVTZEFuMGZLRVlnZ0NUY3ltVXZiWExaampmRXlYdWZwODdSbzB2UG1waGF1a2twYXVZTUR4UlBRU3JXOVNqUGJfa1dVUWYxenZsNG9JSnZTRTRnS0pJVnZSZTlhalNXR2w3Zk1NU1F1TndLYkpnZ3B4TWJYYlFCMlJzRFZpZlc0UURhRVBXVkRsNmhfT2xXRGpURXBmckVZM0tsdU0ydFdYdU9wMmRFQlpmeHljU1JfSHgyN3hrdGR3bHRFcFFxbVgxd0RwdTFuOWJOd3ltYXNSaGpv0gGIAkFVX3lxTE90Nk9tdWpGRVd6N3NOTS02Rk5WSk9CRTZ1QjlKTmZYaklRcjBqeU9lRndaaUVFMmhpa2N6Q3E2Nzc2bGpoYlVHUFY0UmtzdjZYU19QZU84UGZvajVhRG5vMEZIYnZOZ0QybWg3WWhrYzJ0Y1dhZ0g5T3hsNXA5WncwSmdaV2VWWFVCUnB6a2twV1BMYklsbGdaal9SYUtweHppRWJjMGxGcU1Tcm15dWYwMHdJVGk2ZXFEa1NUZU9xSE1aSnE4YndfbzB2eS12aVZGclBWUlB4VDg5YkRfNGhCZWRXMzNVejFrYjRvZWdIRUJCSkt5cVdHbmZMMkJudWthR0JrUmdaZQ?oc=5
 
-- PM Modi- Xi Jinping meeting: PM Modi announces resumption of direct flights to China and also on Sino-Indian border management - The Hindu
-  PM Modi announces resumption of direct flights to China and also on Sino-Indian border management
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ3pqdXFrT2F1SFVrcV9vckhrS0JvWVpVOHA1OGZ5elk5SDBuUmZpcXFDcjdBWFBfZUhONkltZXc5TllfTUppMHpxcDBHUlNlWDV5OHVCOEp4NmJaS1lRZ3BteXlUZ2ItcGFKSDJoZlJ4TkRtbms3VDJqcUx4R2w5b3MxSGJLYjRGRzlkTldQdklWdkV0LVlLRE4ycTVOTk9oYy1PckZIQVZVYlZpelBWVmRkenZHSXVOVnRfMlBsOXpodWxQaC03bXctZEpqNGtNSmVsVHpIYVRVUW9ORElKV3Jla2VGRWZ2bmhMb9IB8wFBVV95cUxNRmkxLXFIWm01SjBGRUdIR2lqQUNURFR5ZHg1R1oteDRoM1B4R1VJWUk3czFLMnNZdDAwdHJLX3M1eVJVekp5YlNVTlQwZmRrdW1iQkVVREtGUGlWQlAxaDQ2cnZqTGRZM1N6UVl3ekN6cFRIeDhqUXhQamdRenpEUXgtRXZ1ekVpVjRXRFlZeENXVC0wSmMzcXkxQS16WXUtdVY4OFdhbi0wYUFMRHo3dkU1RmJRZWRnSlRmZDFQdERNTEZ5YVpSck4zcG9UdE41NE9mOUNubTFYalJQZ2RyR0dFWDhJU09qUUt2N0cxc09aaDQ?oc=5
+- When Pak PM Shehbaz Sharif's Headphone Fumble Made Vladimir Putin Laugh At SCO - NDTV
+  " target="_blank">When Pak PM She
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQclEwZ0lQRWhDT3pBMFNDcFhfazRCbVMydXA4UXRGV2J0NlRQNVRSVEFnZUptSEZITEJWSzBOOHdXV21JZ19hM3UxQnp4MlFkVlh6N19WWTF4VXlCUDVrbnR1MVQ5cHg3ZDdZbGREa01tN1phTnh3Yko4Q05ib1FBZkp2a1RTakpuN01jd3dvazNsTjRXVUlmeXBjdkVwR1BPOEUyZWNKbTg5eFozd1RXWkk4UVRvQ2p6anRtaExfb2lxYUpUREpVZU0zR255UjFTdVpRVE50a1JNQVZoMEFtUVc5cFp6alFUeEZWVHVXWDTSAfgBQVVfeXFMUFl1LTdSQlJSZU42WlJNcXcxd3hFS3VfcHFUTl9neU5IYkxlb1llaGRlcUNpUGhtZG9kQ2FKSWJTbXUwZ3R5cUhqNnFQLU9TeVpBYTAxUjBfTFFoQUQ0czkzbFBfSG1yMFpGOHFGZnN2OXlZU1h0TDF1MU15UG9PejRGTDhCUFZmQTFpbEpXaUpsTGVKSEtrTk9ZaktROVFnMXZ1RXJtdHQzSTNpZXJVOG1TYTlYLXR5X1kwM1E4cDJsNm91bUhrTnB6cUYzWnptMzBOZDFQWkExUEQ2ZGRxS2lISzhkMEtrV2Vfd1I2Zmsyb01CdW9ZbVk?oc=5
 
-- ‘2.8 billion lives depend on India-China ties’: What PM Modi said at meet with Xi Jinping | Latest News India - Hindustan Times - Hindustan Times
-  ‘2.8 billion lives depend on India-China ties’: What PM Modi said at meet
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc2Y3ZUFnWjZzbDdrcmZLNVFsWWhJZm1kTExHNkRlbmZ1b0ZwemxWcElvbldRTnk2dUphWThJUkduVklvbUVSOUFGR0N0Tk16YTFtaVhTTUZnQUZDbTJ2bGpEZlJ1Znlrak10WlpabkdXSGhodm9iREYyN1F0djZxMlNsM1lWem94M1NGR3J3RkRFcEdSUy16am52Tlg3UXhoS2RKT2htRHllTFdVTW9zd2t4c2VIcmZNZlZoZHVPTzBoMDBqb2p0SnAxU25qSXJGRWF4SHpOeWE3dVBOV2JjVDBGUExOTkktU2xVNm0zdXhzQdIB9wFBVV95cUxQak1ITHVGVU1QM3pid3ZEUVltYkZ1cjdsc1F2TXpzY2lqRHNzV01QNGhlYlRESm1yZG8zbkxLODJGd3VZUnpMTUo2bEZRakhRRjdENEdHeHk5T3NxWVVMdl9pcE5TeDhoR1A0dTNEckVQLW1MR0QxbVZ6ck9rV1hxeG5DdlZhdU5OdWRROHphWHEwSEJlVS11N3I1ZGdTTUpPVGx1MlJhbFhhSERYMTdER3Nxekw1SjZkRllnbjk5dGd3cVZoT0w3S2FGREV4a1VEQ05YUDRHY3FTc2N1TFNlUExaRFlFN2h0RzUxckRJenZlT0NtWXRn?oc=5
+- SCO: China and India attempt to repair strained ties - BBC
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQnNyWHRKQTNVTWpQSTRqWnVpQk92TEdodTNlRERDQzdoQUlpVmhVTk5tS053Tlo1Z2hKR3hlN0l2bG9zMGVndFQyd1FoUnBrVXEtOHM1N0FZQdIBX0FVX3lxTE1RNVlpVHdSamdqRW9ZRVR0V3BBU2k2eVhERVhuTWxWeWJrXy1xTWxBRkZpS2JjVWJ1VFAtbmNxdGJkMjN0NmtXV1ltUkNoTGk3dXFIa1J1TXM0UUJZSXBz?oc=5
 
-- Trump tariffs on India: Would reciprocal tariffs on US be in India's benefit? Experts weigh in - Mint
-  The Indian government is considering imposing tariffs on imports from India. The
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNM2h6LTI5UVlwVmtnTTdqQWtOQlpoWXBySzh6ZW5sWlBITFVZaV9JbHNnYThndEZZRW8tTHJkWXpBZnMwbF82WjZENUE4M3JNTFhLUmtiQTZTblNxUWZ0d096QURpclg2bEIzWTRpd19CTTZpdjA1LWxrbjVtaDRTU3YybW9JUWtYNHB3NGJ5bW9raWJKb0NaRXBEZl9VdWZxcWtlZVhfajVCcy05TUhpMVhnMC1aSk5ZUTU4cEFfbVVvRldfSVlYaHVsa0pvWlZuRDBxOFFXcDJCSkpuZk16Ukl6UEswY29PZzNhVUFoTlVjXzDSAfgBQVVfeXFMTUJVN1BHWUMybk9Oc0N3bE1tMXNmS2F2eFFBajVOdkYtMWJfYS1jaUxGdlNxQjJIOEZFQUZLRWNSaXphbElZOVpFTFRSUlByV1pwS1NlUkRhU1JNemZ0S190aFdZaUZtRS1YN2dpd1NnNThuOU15OUE0Ulo2ZWV3bWFDa2RkTzBjcDVMZEdrMm11Skt1MzhnRDlPQTVCbkd3NFVVd3BDbFpsZnhyYmdwVElnaVZIQm14ZXZiOExVYUtZWFIxcTJ6eVMydUVDM1Nva0pjNHI4WU5ZREhlR0U5MGZyNm1TUmFtbTE0Uy1jb0FTc2tSWEV0ak8?oc=5
+- China and India pledge to be 'partners not rivals' at security summit - BBC
+  China and India pledge to be 'partners not
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lS2JfajUzQkhjc3QxT1UxY1JBQ0V0ODU4d1pDc0ZVUks3aS0yeHJIcFBMaGhDMHc3bDdDZkdaQnJKb2FEazFZWGZGQkNkUUNTbXlXaFFOSHRfQdIBX0FVX3lxTE5hWEUwdFpPM3ZDY2NMT21fSnoySU5mVWc1ZmFTX21vUFhPaWN6TVZGRU9OZmJkQ2tId2xONldwdmdxZ2ZpNEFpbFJlM2oySjNTNE9CdjU1Uzk5cnhCTmxR?oc=5
 
-- India Has "Walked Away" From US Trade Talks Due To Tariffs: Ex-Top Official - NDTV
-  India Has "Walked Away" From US Trade Talks
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUgxZzFIZGFHbXBqLXl6TnJhYlpJZk1JY1RLNlMwdXM2M0p6bzBjZlV4SldqZ3JueDNsQ21XSmZXcV9kYjBBeGhyRF92dDFSZEhkd19CY2V3MllCQ0RfMXpKNWUzd2FkRWFkN045bS13NGZ0ZmJ4amwyaXMwWXpkdDBsam5pN3pqcmdKVndiVVV0UDQ1WjFYOEVzeGNZOFdvUUpGN0lpWkUyeFBqcnJPSTd0UHR3V3lGbDBUcTVEQ2dnbk1NdVJaeFV5blBETUZnTVE2VHdYaFbSAeABQVVfeXFMUHZ3U3JacXQ5OU9fYVNpYnhQTVdjU3A2clZpSkRuNkxDM3lYeXI1bU5QLTQyY3VxTnRqUU1GQVpDM2xFRXhpUXhkckEzZFN3YnNSMTRlWElSOU1kRnJUS1dEdFV1cmctc01pX3hoa3AxZkNXTVVqSmlGTkpkVFJnUWhES3FRVHg5YlIzM2hTRlFHeUlLdTJoeFVKMXRyMHZRa3VjT2lSREozRnFUMDZCMnlmLUtvYTdPV3dOTFFqSk1saHZtOHpnaGNFN0xFc3dvODcyY3hpNEtjdFJ5enoxd1o?oc=5
-
-- 'No one can...': Ex-bureaucrat says India has 'walked away' from US trade talks | Latest News India - Hindustan Times - Hindustan Times
-  'No one can...': Ex-bureaucrat says India has 'walked away
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQLUtQS1ZUcDRWWlNHRGEwSm1DVFBpc0ZTWDlJRXZNYzFBdXBfR1pMWUVTZEFuMGZLRVlnZ0NUY3ltVXZiWExaampmRXlYdWZwODdSbzB2UG1waGF1a2twYXVZTUR4UlBRU3JXOVNqUGJfa1dVUWYxenZsNG9JSnZTRTRnS0pJVnZSZTlhalNXR2w3Zk1NU1F1TndLYkpnZ3B4TWJYYlFCMlJzRFZpZlc0UURhRVBXVkRsNmhfT2xXRGpURXBmckVZM0tsdU0ydFdYdU9wMmRFQlpmeHljU1JfSHgyN3hrdGR3bHRFcFFxbVgxd0RwdTFuOWJOd3ltYXNSaGpv0gGIAkFVX3lxTE90Nk9tdWpGRVd6N3NOTS02Rk5WSk9CRTZ1QjlKTmZYaklRcjBqeU9lRndaaUVFMmhpa2N6Q3E2Nzc2bGpoYlVHUFY0UmtzdjZYU19QZU84UGZvajVhRG5vMEZIYnZOZ0QybWg3WWhrYzJ0Y1dhZ0g5T3hsNXA5WncwSmdaV2VWWFVCUnB6a2twV1BMYklsbGdaal9SYUtweHppRWJjMGxGcU1Tcm15dWYwMHdJVGk2ZXFEa1NUZU9xSE1aSnE4YndfbzB2eS12aVZGclBWUlB4VDg5YkRfNGhCZWRXMzNVejFrYjRvZWdIRUJCSkt5cVdHbmZMMkJudWthR0JrUmdaZQ?oc=5
-
-- PM Modi- Xi Jinping meeting: PM Modi announces resumption of direct flights to China and also on Sino-Indian border management - The Hindu
-  PM Modi announces resumption of direct flights to China and also on Sino-Indian border management
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ3pqdXFrT2F1SFVrcV9vckhrS0JvWVpVOHA1OGZ5elk5SDBuUmZpcXFDcjdBWFBfZUhONkltZXc5TllfTUppMHpxcDBHUlNlWDV5OHVCOEp4NmJaS1lRZ3BteXlUZ2ItcGFKSDJoZlJ4TkRtbms3VDJqcUx4R2w5b3MxSGJLYjRGRzlkTldQdklWdkV0LVlLRE4ycTVOTk9oYy1PckZIQVZVYlZpelBWVmRkenZHSXVOVnRfMlBsOXpodWxQaC03bXctZEpqNGtNSmVsVHpIYVRVUW9ORElKV3Jla2VGRWZ2bmhMb9IB8wFBVV95cUxNRmkxLXFIWm01SjBGRUdIR2lqQUNURFR5ZHg1R1oteDRoM1B4R1VJWUk3czFLMnNZdDAwdHJLX3M1eVJVekp5YlNVTlQwZmRrdW1iQkVVREtGUGlWQlAxaDQ2cnZqTGRZM1N6UVl3ekN6cFRIeDhqUXhQamdRenpEUXgtRXZ1ekVpVjRXRFlZeENXVC0wSmMzcXkxQS16WXUtdVY4OFdhbi0wYUFMRHo3dkU1RmJRZWRnSlRmZDFQdERNTEZ5YVpSck4zcG9UdE41NE9mOUNubTFYalJQZ2RyR0dFWDhJU09qUUt2N0cxc09aaDQ?oc=5
-
-- ‘2.8 billion lives depend on India-China ties’: What PM Modi said at meet with Xi Jinping | Latest News India - Hindustan Times - Hindustan Times
-  ‘2.8 billion lives depend on India-China ties’: What PM Modi said at meet
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc2Y3ZUFnWjZzbDdrcmZLNVFsWWhJZm1kTExHNkRlbmZ1b0ZwemxWcElvbldRTnk2dUphWThJUkduVklvbUVSOUFGR0N0Tk16YTFtaVhTTUZnQUZDbTJ2bGpEZlJ1Znlrak10WlpabkdXSGhodm9iREYyN1F0djZxMlNsM1lWem94M1NGR3J3RkRFcEdSUy16am52Tlg3UXhoS2RKT2htRHllTFdVTW9zd2t4c2VIcmZNZlZoZHVPTzBoMDBqb2p0SnAxU25qSXJGRWF4SHpOeWE3dVBOV2JjVDBGUExOTkktU2xVNm0zdXhzQdIB9wFBVV95cUxQak1ITHVGVU1QM3pid3ZEUVltYkZ1cjdsc1F2TXpzY2lqRHNzV01QNGhlYlRESm1yZG8zbkxLODJGd3VZUnpMTUo2bEZRakhRRjdENEdHeHk5T3NxWVVMdl9pcE5TeDhoR1A0dTNEckVQLW1MR0QxbVZ6ck9rV1hxeG5DdlZhdU5OdWRROHphWHEwSEJlVS11N3I1ZGdTTUpPVGx1MlJhbFhhSERYMTdER3Nxekw1SjZkRllnbjk5dGd3cVZoT0w3S2FGREV4a1VEQ05YUDRHY3FTc2N1TFNlUExaRFlFN2h0RzUxckRJenZlT0NtWXRn?oc=5
-
-- Trump tariffs on India: Would reciprocal tariffs on US be in India's benefit? Experts weigh in - Mint
-  The Indian government is considering imposing tariffs on imports from India. The
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNM2h6LTI5UVlwVmtnTTdqQWtOQlpoWXBySzh6ZW5sWlBITFVZaV9JbHNnYThndEZZRW8tTHJkWXpBZnMwbF82WjZENUE4M3JNTFhLUmtiQTZTblNxUWZ0d096QURpclg2bEIzWTRpd19CTTZpdjA1LWxrbjVtaDRTU3YybW9JUWtYNHB3NGJ5bW9raWJKb0NaRXBEZl9VdWZxcWtlZVhfajVCcy05TUhpMVhnMC1aSk5ZUTU4cEFfbVVvRldfSVlYaHVsa0pvWlZuRDBxOFFXcDJCSkpuZk16Ukl6UEswY29PZzNhVUFoTlVjXzDSAfgBQVVfeXFMTUJVN1BHWUMybk9Oc0N3bE1tMXNmS2F2eFFBajVOdkYtMWJfYS1jaUxGdlNxQjJIOEZFQUZLRWNSaXphbElZOVpFTFRSUlByV1pwS1NlUkRhU1JNemZ0S190aFdZaUZtRS1YN2dpd1NnNThuOU15OUE0Ulo2ZWV3bWFDa2RkTzBjcDVMZEdrMm11Skt1MzhnRDlPQTVCbkd3NFVVd3BDbFpsZnhyYmdwVElnaVZIQm14ZXZiOExVYUtZWFIxcTJ6eVMydUVDM1Nva0pjNHI4WU5ZREhlR0U5MGZyNm1TUmFtbTE0Uy1jb0FTc2tSWEV0ak8?oc=5
-
-- India Has "Walked Away" From US Trade Talks Due To Tariffs: Ex-Top Official - NDTV
-  India Has "Walked Away" From US Trade Talks
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUgxZzFIZGFHbXBqLXl6TnJhYlpJZk1JY1RLNlMwdXM2M0p6bzBjZlV4SldqZ3JueDNsQ21XSmZXcV9kYjBBeGhyRF92dDFSZEhkd19CY2V3MllCQ0RfMXpKNWUzd2FkRWFkN045bS13NGZ0ZmJ4amwyaXMwWXpkdDBsam5pN3pqcmdKVndiVVV0UDQ1WjFYOEVzeGNZOFdvUUpGN0lpWkUyeFBqcnJPSTd0UHR3V3lGbDBUcTVEQ2dnbk1NdVJaeFV5blBETUZnTVE2VHdYaFbSAeABQVVfeXFMUHZ3U3JacXQ5OU9fYVNpYnhQTVdjU3A2clZpSkRuNkxDM3lYeXI1bU5QLTQyY3VxTnRqUU1GQVpDM2xFRXhpUXhkckEzZFN3YnNSMTRlWElSOU1kRnJUS1dEdFV1cmctc01pX3hoa3AxZkNXTVVqSmlGTkpkVFJnUWhES3FRVHg5YlIzM2hTRlFHeUlLdTJoeFVKMXRyMHZRa3VjT2lSREozRnFUMDZCMnlmLUtvYTdPV3dOTFFqSk1saHZtOHpnaGNFN0xFc3dvODcyY3hpNEtjdFJ5enoxd1o?oc=5
+- PM, Xi Boost India-China Ties With Direct Flights, Trade, Optics: 10 Points - NDTV
+  PM, Xi Boost India-China Ties With
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGFyLVVmRFdaai1XUmhyR3FXR3pNelZ3U2FpSS0teHcxdHUzM243MVZEa3VhMWFaNzNFSEZwTEdTT1YwbmxxU0lxRk1VN0lYdGxvWEQ5QlFTQVRLR2liSDVYS0NnRmtwWkMzb3lERnJ0MTI2Z2Y1Y216YV9SQWJGT2E0cEVldTZ3b1phNHBodTc5NG1SeWR2M0xHMnhzeGNyWXg5Uk5JV3puRVJ1V0poajZxbE5aX0xoSHpTUWE4UGFnU1I3NFcwXy1ta21pZ9IB1gFBVV95cUxQRklySWtiakY5OU9sS2VQTG9QSnRNOGVyNUpvNlBXUDZNWi1JTkNhMm5sdDRmWTRKRzROdm1JZ1g2TDJRZS1sZVJpcHp5X25uVEF2M2lzeWx5bDJpalBETDVVX09HNy1zR3o2ZWFjMlR6VWQ3dmVuQjlCOGplbWVBRnhmdFZDaHlWMDliMF9rdlIyYjZPbzlkcXdQRWh0QzlueU9ILVotSjRhbEd1MU1mUG1lNWt3R05Qb2VUNy1HTkdUR0dQQWlZTTIzSWN0LTZTczJ1ZjVB?oc=5
 
 - 'No one can...': Ex-bureaucrat says India has 'walked away' from US trade talks | Latest News India - Hindustan Times - Hindustan Times
   'No one can...': Ex-bureaucrat says India has 'walked away
   🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQLUtQS1ZUcDRWWlNHRGEwSm1DVFBpc0ZTWDlJRXZNYzFBdXBfR1pMWUVTZEFuMGZLRVlnZ0NUY3ltVXZiWExaampmRXlYdWZwODdSbzB2UG1waGF1a2twYXVZTUR4UlBRU3JXOVNqUGJfa1dVUWYxenZsNG9JSnZTRTRnS0pJVnZSZTlhalNXR2w3Zk1NU1F1TndLYkpnZ3B4TWJYYlFCMlJzRFZpZlc0UURhRVBXVkRsNmhfT2xXRGpURXBmckVZM0tsdU0ydFdYdU9wMmRFQlpmeHljU1JfSHgyN3hrdGR3bHRFcFFxbVgxd0RwdTFuOWJOd3ltYXNSaGpv0gGIAkFVX3lxTE90Nk9tdWpGRVd6N3NOTS02Rk5WSk9CRTZ1QjlKTmZYaklRcjBqeU9lRndaaUVFMmhpa2N6Q3E2Nzc2bGpoYlVHUFY0UmtzdjZYU19QZU84UGZvajVhRG5vMEZIYnZOZ0QybWg3WWhrYzJ0Y1dhZ0g5T3hsNXA5WncwSmdaV2VWWFVCUnB6a2twV1BMYklsbGdaal9SYUtweHppRWJjMGxGcU1Tcm15dWYwMHdJVGk2ZXFEa1NUZU9xSE1aSnE4YndfbzB2eS12aVZGclBWUlB4VDg5YkRfNGhCZWRXMzNVejFrYjRvZWdIRUJCSkt5cVdHbmZMMkJudWthR0JrUmdaZQ?oc=5
 
-- PM Modi- Xi Jinping meeting: PM Modi announces resumption of direct flights to China and also on Sino-Indian border management - The Hindu
-  PM Modi announces resumption of direct flights to China and also on Sino-Indian border management
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ3pqdXFrT2F1SFVrcV9vckhrS0JvWVpVOHA1OGZ5elk5SDBuUmZpcXFDcjdBWFBfZUhONkltZXc5TllfTUppMHpxcDBHUlNlWDV5OHVCOEp4NmJaS1lRZ3BteXlUZ2ItcGFKSDJoZlJ4TkRtbms3VDJqcUx4R2w5b3MxSGJLYjRGRzlkTldQdklWdkV0LVlLRE4ycTVOTk9oYy1PckZIQVZVYlZpelBWVmRkenZHSXVOVnRfMlBsOXpodWxQaC03bXctZEpqNGtNSmVsVHpIYVRVUW9ORElKV3Jla2VGRWZ2bmhMb9IB8wFBVV95cUxNRmkxLXFIWm01SjBGRUdIR2lqQUNURFR5ZHg1R1oteDRoM1B4R1VJWUk3czFLMnNZdDAwdHJLX3M1eVJVekp5YlNVTlQwZmRrdW1iQkVVREtGUGlWQlAxaDQ2cnZqTGRZM1N6UVl3ekN6cFRIeDhqUXhQamdRenpEUXgtRXZ1ekVpVjRXRFlZeENXVC0wSmMzcXkxQS16WXUtdVY4OFdhbi0wYUFMRHo3dkU1RmJRZWRnSlRmZDFQdERNTEZ5YVpSck4zcG9UdE41NE9mOUNubTFYalJQZ2RyR0dFWDhJU09qUUt2N0cxc09aaDQ?oc=5
-
-- ‘2.8 billion lives depend on India-China ties’: What PM Modi said at meet with Xi Jinping | Latest News India - Hindustan Times - Hindustan Times
-  ‘2.8 billion lives depend on India-China ties’: What PM Modi said at meet
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc2Y3ZUFnWjZzbDdrcmZLNVFsWWhJZm1kTExHNkRlbmZ1b0ZwemxWcElvbldRTnk2dUphWThJUkduVklvbUVSOUFGR0N0Tk16YTFtaVhTTUZnQUZDbTJ2bGpEZlJ1Znlrak10WlpabkdXSGhodm9iREYyN1F0djZxMlNsM1lWem94M1NGR3J3RkRFcEdSUy16am52Tlg3UXhoS2RKT2htRHllTFdVTW9zd2t4c2VIcmZNZlZoZHVPTzBoMDBqb2p0SnAxU25qSXJGRWF4SHpOeWE3dVBOV2JjVDBGUExOTkktU2xVNm0zdXhzQdIB9wFBVV95cUxQak1ITHVGVU1QM3pid3ZEUVltYkZ1cjdsc1F2TXpzY2lqRHNzV01QNGhlYlRESm1yZG8zbkxLODJGd3VZUnpMTUo2bEZRakhRRjdENEdHeHk5T3NxWVVMdl9pcE5TeDhoR1A0dTNEckVQLW1MR0QxbVZ6ck9rV1hxeG5DdlZhdU5OdWRROHphWHEwSEJlVS11N3I1ZGdTTUpPVGx1MlJhbFhhSERYMTdER3Nxekw1SjZkRllnbjk5dGd3cVZoT0w3S2FGREV4a1VEQ05YUDRHY3FTc2N1TFNlUExaRFlFN2h0RzUxckRJenZlT0NtWXRn?oc=5
-
-- Trump tariffs on India: Would reciprocal tariffs on US be in India's benefit? Experts weigh in - Mint
-  The Indian government is considering imposing tariffs on imports from India. The
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNM2h6LTI5UVlwVmtnTTdqQWtOQlpoWXBySzh6ZW5sWlBITFVZaV9JbHNnYThndEZZRW8tTHJkWXpBZnMwbF82WjZENUE4M3JNTFhLUmtiQTZTblNxUWZ0d096QURpclg2bEIzWTRpd19CTTZpdjA1LWxrbjVtaDRTU3YybW9JUWtYNHB3NGJ5bW9raWJKb0NaRXBEZl9VdWZxcWtlZVhfajVCcy05TUhpMVhnMC1aSk5ZUTU4cEFfbVVvRldfSVlYaHVsa0pvWlZuRDBxOFFXcDJCSkpuZk16Ukl6UEswY29PZzNhVUFoTlVjXzDSAfgBQVVfeXFMTUJVN1BHWUMybk9Oc0N3bE1tMXNmS2F2eFFBajVOdkYtMWJfYS1jaUxGdlNxQjJIOEZFQUZLRWNSaXphbElZOVpFTFRSUlByV1pwS1NlUkRhU1JNemZ0S190aFdZaUZtRS1YN2dpd1NnNThuOU15OUE0Ulo2ZWV3bWFDa2RkTzBjcDVMZEdrMm11Skt1MzhnRDlPQTVCbkd3NFVVd3BDbFpsZnhyYmdwVElnaVZIQm14ZXZiOExVYUtZWFIxcTJ6eVMydUVDM1Nva0pjNHI4WU5ZREhlR0U5MGZyNm1TUmFtbTE0Uy1jb0FTc2tSWEV0ak8?oc=5
-
-- India Has "Walked Away" From US Trade Talks Due To Tariffs: Ex-Top Official - NDTV
-  India Has "Walked Away" From US Trade Talks
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUgxZzFIZGFHbXBqLXl6TnJhYlpJZk1JY1RLNlMwdXM2M0p6bzBjZlV4SldqZ3JueDNsQ21XSmZXcV9kYjBBeGhyRF92dDFSZEhkd19CY2V3MllCQ0RfMXpKNWUzd2FkRWFkN045bS13NGZ0ZmJ4amwyaXMwWXpkdDBsam5pN3pqcmdKVndiVVV0UDQ1WjFYOEVzeGNZOFdvUUpGN0lpWkUyeFBqcnJPSTd0UHR3V3lGbDBUcTVEQ2dnbk1NdVJaeFV5blBETUZnTVE2VHdYaFbSAeABQVVfeXFMUHZ3U3JacXQ5OU9fYVNpYnhQTVdjU3A2clZpSkRuNkxDM3lYeXI1bU5QLTQyY3VxTnRqUU1GQVpDM2xFRXhpUXhkckEzZFN3YnNSMTRlWElSOU1kRnJUS1dEdFV1cmctc01pX3hoa3AxZkNXTVVqSmlGTkpkVFJnUWhES3FRVHg5YlIzM2hTRlFHeUlLdTJoeFVKMXRyMHZRa3VjT2lSREozRnFUMDZCMnlmLUtvYTdPV3dOTFFqSk1saHZtOHpnaGNFN0xFc3dvODcyY3hpNEtjdFJ5enoxd1o?oc=5
-
-- 'No one can...': Ex-bureaucrat says India has 'walked away' from US trade talks | Latest News India - Hindustan Times - Hindustan Times
-  'No one can...': Ex-bureaucrat says India has 'walked away
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQLUtQS1ZUcDRWWlNHRGEwSm1DVFBpc0ZTWDlJRXZNYzFBdXBfR1pMWUVTZEFuMGZLRVlnZ0NUY3ltVXZiWExaampmRXlYdWZwODdSbzB2UG1waGF1a2twYXVZTUR4UlBRU3JXOVNqUGJfa1dVUWYxenZsNG9JSnZTRTRnS0pJVnZSZTlhalNXR2w3Zk1NU1F1TndLYkpnZ3B4TWJYYlFCMlJzRFZpZlc0UURhRVBXVkRsNmhfT2xXRGpURXBmckVZM0tsdU0ydFdYdU9wMmRFQlpmeHljU1JfSHgyN3hrdGR3bHRFcFFxbVgxd0RwdTFuOWJOd3ltYXNSaGpv0gGIAkFVX3lxTE90Nk9tdWpGRVd6N3NOTS02Rk5WSk9CRTZ1QjlKTmZYaklRcjBqeU9lRndaaUVFMmhpa2N6Q3E2Nzc2bGpoYlVHUFY0UmtzdjZYU19QZU84UGZvajVhRG5vMEZIYnZOZ0QybWg3WWhrYzJ0Y1dhZ0g5T3hsNXA5WncwSmdaV2VWWFVCUnB6a2twV1BMYklsbGdaal9SYUtweHppRWJjMGxGcU1Tcm15dWYwMHdJVGk2ZXFEa1NUZU9xSE1aSnE4YndfbzB2eS12aVZGclBWUlB4VDg5YkRfNGhCZWRXMzNVejFrYjRvZWdIRUJCSkt5cVdHbmZMMkJudWthR0JrUmdaZQ?oc=5
-
-- PM Modi- Xi Jinping meeting: PM Modi announces resumption of direct flights to China and also on Sino-Indian border management - The Hindu
-  PM Modi announces resumption of direct flights to China and also on Sino-Indian border management
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ3pqdXFrT2F1SFVrcV9vckhrS0JvWVpVOHA1OGZ5elk5SDBuUmZpcXFDcjdBWFBfZUhONkltZXc5TllfTUppMHpxcDBHUlNlWDV5OHVCOEp4NmJaS1lRZ3BteXlUZ2ItcGFKSDJoZlJ4TkRtbms3VDJqcUx4R2w5b3MxSGJLYjRGRzlkTldQdklWdkV0LVlLRE4ycTVOTk9oYy1PckZIQVZVYlZpelBWVmRkenZHSXVOVnRfMlBsOXpodWxQaC03bXctZEpqNGtNSmVsVHpIYVRVUW9ORElKV3Jla2VGRWZ2bmhMb9IB8wFBVV95cUxNRmkxLXFIWm01SjBGRUdIR2lqQUNURFR5ZHg1R1oteDRoM1B4R1VJWUk3czFLMnNZdDAwdHJLX3M1eVJVekp5YlNVTlQwZmRrdW1iQkVVREtGUGlWQlAxaDQ2cnZqTGRZM1N6UVl3ekN6cFRIeDhqUXhQamdRenpEUXgtRXZ1ekVpVjRXRFlZeENXVC0wSmMzcXkxQS16WXUtdVY4OFdhbi0wYUFMRHo3dkU1RmJRZWRnSlRmZDFQdERNTEZ5YVpSck4zcG9UdE41NE9mOUNubTFYalJQZ2RyR0dFWDhJU09qUUt2N0cxc09aaDQ?oc=5
-
-- ‘2.8 billion lives depend on India-China ties’: What PM Modi said at meet with Xi Jinping | Latest News India - Hindustan Times - Hindustan Times
-  ‘2.8 billion lives depend on India-China ties’: What PM Modi said at meet
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc2Y3ZUFnWjZzbDdrcmZLNVFsWWhJZm1kTExHNkRlbmZ1b0ZwemxWcElvbldRTnk2dUphWThJUkduVklvbUVSOUFGR0N0Tk16YTFtaVhTTUZnQUZDbTJ2bGpEZlJ1Znlrak10WlpabkdXSGhodm9iREYyN1F0djZxMlNsM1lWem94M1NGR3J3RkRFcEdSUy16am52Tlg3UXhoS2RKT2htRHllTFdVTW9zd2t4c2VIcmZNZlZoZHVPTzBoMDBqb2p0SnAxU25qSXJGRWF4SHpOeWE3dVBOV2JjVDBGUExOTkktU2xVNm0zdXhzQdIB9wFBVV95cUxQak1ITHVGVU1QM3pid3ZEUVltYkZ1cjdsc1F2TXpzY2lqRHNzV01QNGhlYlRESm1yZG8zbkxLODJGd3VZUnpMTUo2bEZRakhRRjdENEdHeHk5T3NxWVVMdl9pcE5TeDhoR1A0dTNEckVQLW1MR0QxbVZ6ck9rV1hxeG5DdlZhdU5OdWRROHphWHEwSEJlVS11N3I1ZGdTTUpPVGx1MlJhbFhhSERYMTdER3Nxekw1SjZkRllnbjk5dGd3cVZoT0w3S2FGREV4a1VEQ05YUDRHY3FTc2N1TFNlUExaRFlFN2h0RzUxckRJenZlT0NtWXRn?oc=5
-
-- Trump tariffs on India: Would reciprocal tariffs on US be in India's benefit? Experts weigh in - Mint
-  The Indian government is considering imposing tariffs on imports from India. The
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNM2h6LTI5UVlwVmtnTTdqQWtOQlpoWXBySzh6ZW5sWlBITFVZaV9JbHNnYThndEZZRW8tTHJkWXpBZnMwbF82WjZENUE4M3JNTFhLUmtiQTZTblNxUWZ0d096QURpclg2bEIzWTRpd19CTTZpdjA1LWxrbjVtaDRTU3YybW9JUWtYNHB3NGJ5bW9raWJKb0NaRXBEZl9VdWZxcWtlZVhfajVCcy05TUhpMVhnMC1aSk5ZUTU4cEFfbVVvRldfSVlYaHVsa0pvWlZuRDBxOFFXcDJCSkpuZk16Ukl6UEswY29PZzNhVUFoTlVjXzDSAfgBQVVfeXFMTUJVN1BHWUMybk9Oc0N3bE1tMXNmS2F2eFFBajVOdkYtMWJfYS1jaUxGdlNxQjJIOEZFQUZLRWNSaXphbElZOVpFTFRSUlByV1pwS1NlUkRhU1JNemZ0S190aFdZaUZtRS1YN2dpd1NnNThuOU15OUE0Ulo2ZWV3bWFDa2RkTzBjcDVMZEdrMm11Skt1MzhnRDlPQTVCbkd3NFVVd3BDbFpsZnhyYmdwVElnaVZIQm14ZXZiOExVYUtZWFIxcTJ6eVMydUVDM1Nva0pjNHI4WU5ZREhlR0U5MGZyNm1TUmFtbTE0Uy1jb0FTc2tSWEV0ak8?oc=5
+- When Pak PM Shehbaz Sharif's Headphone Fumble Made Vladimir Putin Laugh At SCO - NDTV
+  " target="_blank">When Pak PM She
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQclEwZ0lQRWhDT3pBMFNDcFhfazRCbVMydXA4UXRGV2J0NlRQNVRSVEFnZUptSEZITEJWSzBOOHdXV21JZ19hM3UxQnp4MlFkVlh6N19WWTF4VXlCUDVrbnR1MVQ5cHg3ZDdZbGREa01tN1phTnh3Yko4Q05ib1FBZkp2a1RTakpuN01jd3dvazNsTjRXVUlmeXBjdkVwR1BPOEUyZWNKbTg5eFozd1RXWkk4UVRvQ2p6anRtaExfb2lxYUpUREpVZU0zR255UjFTdVpRVE50a1JNQVZoMEFtUVc5cFp6alFUeEZWVHVXWDTSAfgBQVVfeXFMUFl1LTdSQlJSZU42WlJNcXcxd3hFS3VfcHFUTl9neU5IYkxlb1llaGRlcUNpUGhtZG9kQ2FKSWJTbXUwZ3R5cUhqNnFQLU9TeVpBYTAxUjBfTFFoQUQ0czkzbFBfSG1yMFpGOHFGZnN2OXlZU1h0TDF1MU15UG9PejRGTDhCUFZmQTFpbEpXaUpsTGVKSEtrTk9ZaktROVFnMXZ1RXJtdHQzSTNpZXJVOG1TYTlYLXR5X1kwM1E4cDJsNm91bUhrTnB6cUYzWnptMzBOZDFQWkExUEQ2ZGRxS2lISzhkMEtrV2Vfd1I2Zmsyb01CdW9ZbVk?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-08-31 06:25:37 UTC_
+_Last updated: 2025-08-31 12:30:44 UTC_
