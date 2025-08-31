@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Tripura DGP Anurag Dhyankar warns people about cyberattacks, urges them not to fall for ‘unbelievably lucrative offers of financial gain’
+- Dhankhar set to move to private residence in Chhattarpur, re-applies for pension as ex-MLA
   
-  🔗 https://indianexpress.com/article/india/tripura-dgp-anurag-dhyankar-warns-people-about-cyberattacks-urges-them-not-to-fall-for-unbelievably-lucrative-offers-of-financial-gain-10220971/
+  🔗 https://indianexpress.com/article/india/dhankhar-set-to-move-to-private-residence-in-chhattarpur-re-applies-for-pension-as-ex-mla-10221212/
 
-- CAG flags mounting debt on Himachal Pradesh, fiscal imbalance, non-compliance with key norms
+- Ahead of Modi’s talks with Putin, Zelenskyy speaks to PM, says India ready to deliver signal to Russia
   
-  🔗 https://indianexpress.com/article/india/cag-flags-mounting-debt-on-himachal-pradesh-fiscal-imbalance-non-compliance-with-key-norms-10220972/
+  🔗 https://indianexpress.com/article/india/ahead-of-modis-talks-with-putin-zelenskyy-speaks-to-pm-says-india-ready-to-deliver-signal-to-russia-10221203/
 
-- Tripura Congress joins nationwide ‘Vote Chor, Gaddi Chhod’ agitation, trains guns at EC, BJP
+- Modi and Xi meet today as India, China move to restore ties, one step at a time
   
-  🔗 https://indianexpress.com/article/india/tripura-congress-joins-nationwide-vote-chor-gaddi-chhod-agitation-trains-guns-at-ec-bjp-10220964/
+  🔗 https://indianexpress.com/article/india/modi-and-xi-meet-today-as-india-china-move-to-restore-ties-one-step-at-a-time-10221162/
 
-- From USD 34 billion to USD 68 billion: Behind Japan’s investment numbers, a message to US President Trump
+- Govt plans to cut down on imports of pharma agents, biofuel enzymes
   
-  🔗 https://indianexpress.com/article/india/behind-japan-68-billion-investment-in-india-a-message-to-us-president-trump-10220946/
+  🔗 https://indianexpress.com/article/india/govt-plans-to-cut-down-on-imports-of-pharma-agents-biofuel-enzymes-10221213/
 
-- Mehul Choksi’s bail plea rejected by Belgian court of appeal
+- 6,000 pilgrims evacuated; 5,500 still stranded in Chamba district
   
-  🔗 https://indianexpress.com/article/india/mehul-choksi-bail-plea-rejected-belgian-court-10220960/
+  🔗 https://indianexpress.com/article/india/6000-pilgrims-evacuated-5500-still-stranded-in-chamba-district-10221172/
 
 - Custom brain implant delivers personalised therapy to ease chronic pain
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/whatsapp-patches-security-flaw-used-in-targeted-spyware-attacks-on-ios-and-mac-10220149/
 
+- SoftBank, Rakuten Tap Japan’s Booming Retail Demand for Bonds
+  Sales of corporate bonds to Japan’s mom and pop investors are booming. Bigger returns draw buyers looking to protect their savings
+  🔗 https://www.livemint.com/companies/news/softbank-rakuten-tap-japan-s-booming-retail-demand-for-bonds-11756593758556.html
+
 - GST reforms: Royal Enfield calls for uniform 18 per cent rate on two wheelers — ‘India already leads...’
   Royal Enfield urged the government to consider a uniform GST rate for motorcycles. The Eicher Motor-owned brand's Chairman
   🔗 https://www.livemint.com/companies/news/gst-reforms-royal-enfield-calls-for-uniform-18-per-cent-rate-on-two-wheelers-india-already-leads-11756569202462.html
@@ -56,9 +60,17 @@
   Russian oil producers’ profits dived in the first half of the year. Lower
   🔗 https://www.livemint.com/companies/company-results/russian-oil-majors-report-income-dip-on-weak-price-strong-ruble-11756545713325.html
 
-- EL platform designed for rapid, cost-efficient scalability; addressing multiple market needs: Ather Energy CBO
-  Ather Energy leadership sheds light on key attributes of their new platform. Ather Energy
-  🔗 https://www.livemint.com/companies/news/el-platform-designed-for-rapid-cost-efficient-scalability-addressing-multiple-market-needs-ather-energy-cbo-11756538383465.html
+- China’s Stock Rally Is Met With Skepticism in Options Market
+   derivatives wagers show investors are skeptical about the market. Chinese stocks traded in Hong Kong
+  🔗 https://www.livemint.com/market/stock-market-news/chinas-stock-rally-is-met-with-skepticism-in-options-market-11756600986578.html
+
+- Bitcoin Proxy’s Chief Seeks Funding Fix as ‘Flywheel’ Falters
+  Simon Gerovich turned a struggling Japanese hotelier into a Bitcoin stockpiler
+  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-proxy-s-chief-seeks-funding-fix-as-flywheel-falters-11756596108656.html
+
+- NSE revises quantity freeze limits for derivative contracts from September 2025 — Check details here
+  The National Stock Exchange revised the quantity freeze limits for derivative contracts effective THIS date in September 2025. Check what does quantity freeze means and since when the
+  🔗 https://www.livemint.com/market/stock-market-news/nse-revises-quantity-freeze-limits-for-derivative-contracts-from-september-2025-check-details-here-11756575485733.html
 
 - Dividend Stocks: ONGC, Patanjali Foods, NTPC, among others to trade ex-dividend next week | Check details here
   ONGC, Gujarat Gas, Patanjali Foods, General Insurance Corp., Concord Biotech, Finolex Industries, Kalyan Jewell
@@ -67,18 +79,6 @@
 - Iran’s Currency Slides After Europe Moves to Reimpose Sanctions
   Iran's rial approached record lows on Saturday after major European powers took punitive steps against the Islamic Republic
   🔗 https://www.livemint.com/market/stock-market-news/irans-currency-slides-after-europe-moves-to-reimpose-sanctions-11756564844856.html
-
-- Upcoming IPO: Leap India files draft papers with Sebi to raise  ₹2,400 crore via public issue — Details here
-  Leap India filed its initial draft papers with the capital markets regulator on 29 August 2025. The company is looking to raise funds from the Indian stock market.
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipo-leap-india-files-draft-papers-with-sebi-to-raise-rs-2-400-crore-via-public-issue-details-here-11756559870683.html
-
-- 1,470% rally in five years! Multibagger penny stock under  ₹2 declares  ₹500 crore fundraise via QIP
-  Excel Realty N Infra share price settled at  ₹1.41, up 1.44% on the BSE on Friday. Penny stock
-  🔗 https://www.livemint.com/market/stock-market-news/1470-rally-in-five-years-multibagger-penny-stock-under-rs-2-declares-rs-500-crore-fundraise-via-qip-11756548551045.html
-
-- Stock market holidays in September: When will BSE, NSE be closed for trading next month?
-  With the stock market closed on Wednesday, August 27, this week, investors should note that the next market holiday will not fall in September but
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holidays-in-september-2025-when-will-the-indian-stock-market-be-closed-for-trading-next-month-11756546742231.html
 
 - iPhone 17 Pro Max vs iPhone 16 Pro Max: 7 big upgrades expected at Apple's ‘Awe Dropping’ event
   The new iPhone is expected to come with a 48MP triple camera setup, Apple's new A19 Pro chipset, new design, colour variants
@@ -100,26 +100,6 @@
    Meta is exploring partnerships with Google and OpenAI. The company is integrating external AI models while also developing its own models
   🔗 https://www.livemint.com/technology/tech-news/meta-may-tap-openai-google-models-to-power-ai-features-across-whatsapp-instagram-and-facebook-report-11756533184701.html
 
-- Stocks Hit by Tech Selloff After Economic Reports: Markets Wrap - Bloomberg.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHo1SGlLNVlXYVl3b3paRnhMb3hXNEdtTWlrQ0I1Q3VsLXM0ZjViaXNDbV9xUXJFS3JTRXV4bmRReURLMEZCcFJwcE9NNElTYUJmSU5QWDlqbDJJaWZKUVFpRF9mcXFpaFpQamdCUjI4R3IwOXJWOWZqLTZDSm1WVGZHdlJFRTB4WVlXUDBCNjZ3eXRz?oc=5
-
-- Markets News, Aug. 29, 2025: S&P 500, Dow Retreat From Record Highs as Tech Stocks Tumble; Nvidia, Broadcom Lead Chip Sector Slump - Investopedia
-  Investopedia: S&amp;P 500, Dow Retreat From Record Highs as Tech
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFB0cGVkRm04Y1VaRkg4NTI0cVN0UnlvaWwzOXBZaTZyelRaX0dGaEVQWEFmQmxiOVhNaDRJeElsRW8zOVA0cXVUSVRueG5iblJFbzR0Xy05OUlaVG5mTy01a2FGZ1JnVE9GV0wwSG8wYw?oc=5
-
-- Stock Market Today: Dow Sinks, But Nasdaq Fares Much Worse; Nvidia Extends A Losing Streak (Live Coverage) - Investor's Business Daily
-  The Dow Sinks, But Nasdaq Fares Much Worse; Nvidia Extends
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNd09QNGRodXh4TFJSLTdNYmlrdExlc2xBbnh3a1ZybFdxWFJ2VUNVY3dpYmYzNm1peWJKdWpHck1GczdjcUZaUG9jSGk5Ukd4dEJUQTQza1pOcUJsalQyV3V0a09PaGdCdGVKTlpuQXVIaWl0bXRJcGQtbWMwMVR0eEo0ckxxNE5zbkl6Y2lOWWpHWmx4eXdqdDM2ejdkTzFadVo1Mm1ydmtiaUZ5RmRvZlo3SS1DZTg?oc=5
-
-- NSE to conduct mock trading sessions in equity markets & commodity, currency derivatives segment on August 30 - Mint
-  NSE to conduct mock trading sessions in equity markets & commodity, currency derivatives
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPUFZJaEd3UkFXUnVLM2VGQ3BNSE03ekhMa1RTRmJKaTNzUXNLeExyNGJFWFl2Q2wxbE84emIweW9VRURFNEJTTHduaXpNdTFXTTRMUUh4V21GZXRVYW4ycHZqdXhXUlkxV3dYVmdYV1JSbHV1dld2UUNVRm5CcENPdjc1ajhSMFBySTZtV3BkNzVMTEZlMi1qSlBuOWkwTWZWejRNV2tCQUsyaVdiUW85bGdjSXlxbnBscXVyMGFJZURzdWt6Y0Q2UXVkSFBWb0hhUUdiNUg1dzByblNWdndwcVpMVlJ0Yzg3MjRyeUNfUDVjWXFGb1JrZ0VYUXVoX2JtNy1N0gGIAkFVX3lxTE5RVmM0eHJJRzRCcUhuUjdFazEwd3pFb2h1dkthdThma2RGdkRXU2Z5X1dSRTY4cGoxSkNRb0RueklQMFBSbGNIbDJxRjdzN0h3V2pfeEtJMndCUHpYck9FbXpyY21NTlpWenBqOVVnTmwyaHlrNEhPSy1tNThGOGdZTTlnTEczRkg2N1BrZmczZExIU1VsMXVnUGJUUGZTQnE4TWNvLUxyc3c2ZzFwVVJGUmNFXzg1N3ZfUUV3LUE3R1EyX2REU1ROWWMySHdGSUVERzBTejRGaVVOYnBRUHBPU1pGOFIzZ0ZIUm82VjhLeHZzbXFibEdfd1pRY25FRWNobllXYlhidw?oc=5
-
-- NSE to hold mock trading session across market segments on Saturday. Check details here - The Economic Times
-  NSE to hold mock trading session across market segments on Saturday. Check
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOOHJxM1lBZzB4aEtua2ZteDY1TWZhdmJlRGtVaERMMURFU29wQ19HR2dNTEtSZ0tOYXdmczl3Z0VuTGVidTVRTUtRWjZMS0FqUGdsQldFUkh6YlN4MGUySUg4Wlh4ZkFfeTJra1BROFFwSUIycEFSSVNiY1VKei1UT0dOX0pwQ3RBWldYVjZvekpSZGNubWk2RGxfVERJM1NNMW5iTmg5c0MyMnl1X2lOWHlBWFczTktYdWtKc2ZPZ0NQRy1feG9Pd2dHbzdrcFpqckNzWHhkYzMyaHh1RkI2Xy1FNXB3VE9JNVdKWXNOTHJ6UdIB9wFBVV95cUxQV3JQd2I2NEZzeHBGUnJGRGJET0cza3MwVUVNNmViRG9QSGRfSlNGd3ZJZmhOckptMjc1cUlaM1MtcDlBVy1jSGxlNUM0QWJTMm9EMEItVUJpTjNrc3lNUnJEaHZoZDlyWUNHOU1kamhRS3JFY3JNRE13ZDVrcXBxQ3l4YUVLMENwTENmbWVxc2pZcWZHMG1vamJSY3BKMjZ4X3lka1J0MGVTMjR0cUR6YnBpbjdfand2amN3UXQ3eXdHR0ItbUYyb2JOVDBDcFM1TGsyRFpxSUNVb1paVEVjZUNzZlpnVVlTVXFyY1oxWDgtTFdFMGNz?oc=5
-
 - LEAP India files DRHP with Sebi for Rs 2,400 crore IPO
   LEAP India plans to launch an IPO to raise Rs 2,400 crore. The company will use the funds to repay debt and for working capital.
   🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/leap-india-files-drhp-with-sebi-for-rs-2400-crore-ipo/articleshow/123602274.cms
@@ -140,33 +120,85 @@
   10 BSE smallcap stocks defied the broader selloff, surging up to 55%. Names like Yatra Online, Apollo Micro Systems, and
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/mukul-agrawal-stock-kiocl-among-10-smallcaps-that-bucked-market-gloom-in-august-with-up-to-55-gains/slideshow/123601049.cms
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- "US Brand In Toilet": White House Ex-Official Blasts Trump's India Tariffs - NDTV
+  "US Brand In Toilet": White House
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamlPODdSUmhrODlXc09qN3Q1UU9NTnlsVVBwcG4zT3ZValpZRVRSUzh2MUc3MHBUbDhhZmcxenNwZFBPcWhxMVJFS1AzZ08xbVhuTGlvQ3pfcnBEZVEteDZxNzFndlVUZVpXdWs1blVYbHl4eEF1dkpGb1pPV0k3Qkt3cWliZmRyUC1wT0gwMnRPY2J6aHhtTDVtS09valhGaEVMZXJQM0p0WFRWRC1wXzBrZ0xITkVFbzkw0gHDAUFVX3lxTE1oaGxKUWRHMVVKamhaX3lNSTV4RHd1QU5TQktyQTl0bTZMSXl6ck5MYmgwRGs4ZEhraHRSY2VyQzdfQk13S1YtZ1g5aFhzMGRMeXpkUU1VR0Q2eHpmR0Fpby0zQ0h6YUtOSW1TQnBLYXFmb25WcXpnM3RBcnh5bkRQdkRvdGtNb0NKZzBNMHdiQ2lUYzU2QWN3ek5EY2RCeEJXNjZBelJ5dVJqLVZGcGdsSGF2RzhxRXhVQmMyZTJpX1ZOZw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Trump tariffs on India: Would reciprocal tariffs on US be in India's benefit? Experts weigh in - Mint
+  The Indian government is considering imposing tariffs on imports from India. The
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNM2h6LTI5UVlwVmtnTTdqQWtOQlpoWXBySzh6ZW5sWlBITFVZaV9JbHNnYThndEZZRW8tTHJkWXpBZnMwbF82WjZENUE4M3JNTFhLUmtiQTZTblNxUWZ0d096QURpclg2bEIzWTRpd19CTTZpdjA1LWxrbjVtaDRTU3YybW9JUWtYNHB3NGJ5bW9raWJKb0NaRXBEZl9VdWZxcWtlZVhfajVCcy05TUhpMVhnMC1aSk5ZUTU4cEFfbVVvRldfSVlYaHVsa0pvWlZuRDBxOFFXcDJCSkpuZk16Ukl6UEswY29PZzNhVUFoTlVjXzDSAfgBQVVfeXFMTUJVN1BHWUMybk9Oc0N3bE1tMXNmS2F2eFFBajVOdkYtMWJfYS1jaUxGdlNxQjJIOEZFQUZLRWNSaXphbElZOVpFTFRSUlByV1pwS1NlUkRhU1JNemZ0S190aFdZaUZtRS1YN2dpd1NnNThuOU15OUE0Ulo2ZWV3bWFDa2RkTzBjcDVMZEdrMm11Skt1MzhnRDlPQTVCbkd3NFVVd3BDbFpsZnhyYmdwVElnaVZIQm14ZXZiOExVYUtZWFIxcTJ6eVMydUVDM1Nva0pjNHI4WU5ZREhlR0U5MGZyNm1TUmFtbTE0Uy1jb0FTc2tSWEV0ak8?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- US trade war, India-China ties loom large at SCO summit in Tianjin - Al Jazeera
+  &nbsp;&ngt;&
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFF0Y0taelVxZW5kSjJNRGNrbldza2FHaWdObDZwYVJEaUF3VkYzR0g2SFpPTFFtUEl1Q0ZnU0tCdzdKQU9QNHMzTnpESkhFZ2lSZjBFN3dWM1FPbTlCUi1IQ2tJb29Rd2VZN2J0MWt4a0Z5cEF4a1VDclktZGxqNGJBMjh4MndURWpHeHBaTmFCcGVnNHh1Y2d1eTktWXRsb2xpN0dxOWNhSm14S2Q4VDVR0gG3AUFVX3lxTE4xZlhRNnVsbGt2bjZ3QktiSzY2NUFKU21YLU5RUDVhQnRyeExZR0tIaXYwaVhvdmV2ZGFZQTVJckNmM2JHOGtOWmt0STZnem9oU2Vxbk9HdXVBTmZ2V1BqZklXcDQ5WHZ5MFJEZmVNTUpwWWZacDhmZjJLS3V4cW5NMVRxWEEwY2NqNjlORUlzUTc0TWp1ZjBhLWZ1LV9lM2UxU19YcWhGMVFDSnFDZ3cyaHlwWE5WQQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Trump to skip India visit? US President may not attend 2025 Quad meet - Report - Times of India
+  Trump to skip India visit? US President may not attend 2025 Quad meet -
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDB0ZjdtZHhPbkJCLWhRQ2RsbzNIdFNhNmdwMVB2NHM5VFVaeTVucUVJTlZ1T3BtbkNQbFYzTktxZDc0cmk3NHE3Mk8tLU9EOFRYTzVhbHZSNmtDQ1ZqVExmUXEwb18yNDFTeXpyU0ZtUXBBaXBuemUyc18yeTJ4cXRhZElBcTcyNnlYX2Q1cC1qSGMzTG5pZEthaXpmRDR5bXpGSTU3MzU4S2FtdHNmY25PeUJ5eDlpdlpKQ1dtYXpKcm00VTVqRXJRYlA0ZEhucXB3TExPdG0yVmhSdFlocjlkNTDSAeoBQVVfeXFMTlBDa1lUdGdfa1I5WW5yM25mamY4YzlIeHpvdUprNE0zTW4zV0RSX2REd01mRW1zZTRydFRXSkNMMUtmVUpNVEV1cFJZekVmb29VSGw2RmtvMFgtNXU0b0dUbWl0a2djM0ZnVFpkT1l5UHVQU0VuMHRoakk1ZlJ2bjN3dUl3TDNpNzhrZW44TjBVUUxMVTM4czJFRkdyVGtiMHpqLUV5cmRocUxyQzNpTmhYZnlYeGEzYUtOSGxZNlA0dG1xMVlxMGJydGtGM3VwdWRiWklWRm1ROFdWQWpyclJ6NmxaSTJqZkdR?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Global traders see hope as Donald Trump’s tariffs head to U.S. Supreme Court; GTRI urges India to act - The Hindu
+  Global traders see hope as Donald Trump’s tariffs head to U.S.
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZXE3SFRCUFd4N0RhNWNHOHByX0tqNXZWZ1ZJNENSWWVURjB6TmctejcyODZMekJ2UjZVSXo4c0p3SVdPTFV1eWxWbkg2SGVKSjl6bTN4MUs1elFHRkRYQmFsNlZJMTM3NjBkWkZJekxlWm1RX0lFNnVuOE1TSGFza0FfRkF2ZUhLYlpPanVfdDFfRGU4QVNBZjZJcVR3dGR3eGRlRWN3dTk2eWxCbTlOaDljaW02RHEtTm5jYmhxN2dtOUtKbHZXU2hfRFdNSmlHNzZQRnlkdEVQbDRzMkExcDZNc1AzaXNaT3B3a2c4YjVkNjjSAfoBQVVfeXFMTmt0UlNTTVJqUGMtZUdLbF9SWkVQck51YXNId1lqSFM1UWU2VGwtZjRNRlhSR29GcW9yallIZXd4Mmw3RkR2bzBaSWZHbGotcWZyYXNablN6QlpGWWhCSklidTNYYU9TX0xpOFUyR2dJeXBFZUFrM25EX3ViR0lWSGdzV2xVV1YyeHlOUWo4QlA5UUNiajJzSGlBblRvelhvZTU2V0U1ZVRLenhpemZaYWgyQXJ1RnRXem83ODJleFdPT3N4TndFcHVobGhaY3lxYjdJY28yVm10dVNMUTlyZXRqLXJLTU1aZ3JFaU5SZUl3dEhLUmVQajdHQQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- "US Brand In Toilet": White House Ex-Official Blasts Trump's India Tariffs - NDTV
+  "US Brand In Toilet": White House
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamlPODdSUmhrODlXc09qN3Q1UU9NTnlsVVBwcG4zT3ZValpZRVRSUzh2MUc3MHBUbDhhZmcxenNwZFBPcWhxMVJFS1AzZ08xbVhuTGlvQ3pfcnBEZVEteDZxNzFndlVUZVpXdWs1blVYbHl4eEF1dkpGb1pPV0k3Qkt3cWliZmRyUC1wT0gwMnRPY2J6aHhtTDVtS09valhGaEVMZXJQM0p0WFRWRC1wXzBrZ0xITkVFbzkw0gHDAUFVX3lxTE1oaGxKUWRHMVVKamhaX3lNSTV4RHd1QU5TQktyQTl0bTZMSXl6ck5MYmgwRGs4ZEhraHRSY2VyQzdfQk13S1YtZ1g5aFhzMGRMeXpkUU1VR0Q2eHpmR0Fpby0zQ0h6YUtOSW1TQnBLYXFmb25WcXpnM3RBcnh5bkRQdkRvdGtNb0NKZzBNMHdiQ2lUYzU2QWN3ek5EY2RCeEJXNjZBelJ5dVJqLVZGcGdsSGF2RzhxRXhVQmMyZTJpX1ZOZw?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Trump tariffs on India: Would reciprocal tariffs on US be in India's benefit? Experts weigh in - Mint
+  The Indian government is considering imposing tariffs on imports from India. The
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNM2h6LTI5UVlwVmtnTTdqQWtOQlpoWXBySzh6ZW5sWlBITFVZaV9JbHNnYThndEZZRW8tTHJkWXpBZnMwbF82WjZENUE4M3JNTFhLUmtiQTZTblNxUWZ0d096QURpclg2bEIzWTRpd19CTTZpdjA1LWxrbjVtaDRTU3YybW9JUWtYNHB3NGJ5bW9raWJKb0NaRXBEZl9VdWZxcWtlZVhfajVCcy05TUhpMVhnMC1aSk5ZUTU4cEFfbVVvRldfSVlYaHVsa0pvWlZuRDBxOFFXcDJCSkpuZk16Ukl6UEswY29PZzNhVUFoTlVjXzDSAfgBQVVfeXFMTUJVN1BHWUMybk9Oc0N3bE1tMXNmS2F2eFFBajVOdkYtMWJfYS1jaUxGdlNxQjJIOEZFQUZLRWNSaXphbElZOVpFTFRSUlByV1pwS1NlUkRhU1JNemZ0S190aFdZaUZtRS1YN2dpd1NnNThuOU15OUE0Ulo2ZWV3bWFDa2RkTzBjcDVMZEdrMm11Skt1MzhnRDlPQTVCbkd3NFVVd3BDbFpsZnhyYmdwVElnaVZIQm14ZXZiOExVYUtZWFIxcTJ6eVMydUVDM1Nva0pjNHI4WU5ZREhlR0U5MGZyNm1TUmFtbTE0Uy1jb0FTc2tSWEV0ak8?oc=5
+
+- US trade war, India-China ties loom large at SCO summit in Tianjin - Al Jazeera
+  &nbsp;&ngt;&
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFF0Y0taelVxZW5kSjJNRGNrbldza2FHaWdObDZwYVJEaUF3VkYzR0g2SFpPTFFtUEl1Q0ZnU0tCdzdKQU9QNHMzTnpESkhFZ2lSZjBFN3dWM1FPbTlCUi1IQ2tJb29Rd2VZN2J0MWt4a0Z5cEF4a1VDclktZGxqNGJBMjh4MndURWpHeHBaTmFCcGVnNHh1Y2d1eTktWXRsb2xpN0dxOWNhSm14S2Q4VDVR0gG3AUFVX3lxTE4xZlhRNnVsbGt2bjZ3QktiSzY2NUFKU21YLU5RUDVhQnRyeExZR0tIaXYwaVhvdmV2ZGFZQTVJckNmM2JHOGtOWmt0STZnem9oU2Vxbk9HdXVBTmZ2V1BqZklXcDQ5WHZ5MFJEZmVNTUpwWWZacDhmZjJLS3V4cW5NMVRxWEEwY2NqNjlORUlzUTc0TWp1ZjBhLWZ1LV9lM2UxU19YcWhGMVFDSnFDZ3cyaHlwWE5WQQ?oc=5
+
+- Trump to skip India visit? US President may not attend 2025 Quad meet - Report - Times of India
+  Trump to skip India visit? US President may not attend 2025 Quad meet -
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDB0ZjdtZHhPbkJCLWhRQ2RsbzNIdFNhNmdwMVB2NHM5VFVaeTVucUVJTlZ1T3BtbkNQbFYzTktxZDc0cmk3NHE3Mk8tLU9EOFRYTzVhbHZSNmtDQ1ZqVExmUXEwb18yNDFTeXpyU0ZtUXBBaXBuemUyc18yeTJ4cXRhZElBcTcyNnlYX2Q1cC1qSGMzTG5pZEthaXpmRDR5bXpGSTU3MzU4S2FtdHNmY25PeUJ5eDlpdlpKQ1dtYXpKcm00VTVqRXJRYlA0ZEhucXB3TExPdG0yVmhSdFlocjlkNTDSAeoBQVVfeXFMTlBDa1lUdGdfa1I5WW5yM25mamY4YzlIeHpvdUprNE0zTW4zV0RSX2REd01mRW1zZTRydFRXSkNMMUtmVUpNVEV1cFJZekVmb29VSGw2RmtvMFgtNXU0b0dUbWl0a2djM0ZnVFpkT1l5UHVQU0VuMHRoakk1ZlJ2bjN3dUl3TDNpNzhrZW44TjBVUUxMVTM4czJFRkdyVGtiMHpqLUV5cmRocUxyQzNpTmhYZnlYeGEzYUtOSGxZNlA0dG1xMVlxMGJydGtGM3VwdWRiWklWRm1ROFdWQWpyclJ6NmxaSTJqZkdR?oc=5
+
+- Global traders see hope as Donald Trump’s tariffs head to U.S. Supreme Court; GTRI urges India to act - The Hindu
+  Global traders see hope as Donald Trump’s tariffs head to U.S.
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZXE3SFRCUFd4N0RhNWNHOHByX0tqNXZWZ1ZJNENSWWVURjB6TmctejcyODZMekJ2UjZVSXo4c0p3SVdPTFV1eWxWbkg2SGVKSjl6bTN4MUs1elFHRkRYQmFsNlZJMTM3NjBkWkZJekxlWm1RX0lFNnVuOE1TSGFza0FfRkF2ZUhLYlpPanVfdDFfRGU4QVNBZjZJcVR3dGR3eGRlRWN3dTk2eWxCbTlOaDljaW02RHEtTm5jYmhxN2dtOUtKbHZXU2hfRFdNSmlHNzZQRnlkdEVQbDRzMkExcDZNc1AzaXNaT3B3a2c4YjVkNjjSAfoBQVVfeXFMTmt0UlNTTVJqUGMtZUdLbF9SWkVQck51YXNId1lqSFM1UWU2VGwtZjRNRlhSR29GcW9yallIZXd4Mmw3RkR2bzBaSWZHbGotcWZyYXNablN6QlpGWWhCSklidTNYYU9TX0xpOFUyR2dJeXBFZUFrM25EX3ViR0lWSGdzV2xVV1YyeHlOUWo4QlA5UUNiajJzSGlBblRvelhvZTU2V0U1ZVRLenhpemZaYWgyQXJ1RnRXem83ODJleFdPT3N4TndFcHVobGhaY3lxYjdJY28yVm10dVNMUTlyZXRqLXJLTU1aZ3JFaU5SZUl3dEhLUmVQajdHQQ?oc=5
+
+- "US Brand In Toilet": White House Ex-Official Blasts Trump's India Tariffs - NDTV
+  "US Brand In Toilet": White House
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamlPODdSUmhrODlXc09qN3Q1UU9NTnlsVVBwcG4zT3ZValpZRVRSUzh2MUc3MHBUbDhhZmcxenNwZFBPcWhxMVJFS1AzZ08xbVhuTGlvQ3pfcnBEZVEteDZxNzFndlVUZVpXdWs1blVYbHl4eEF1dkpGb1pPV0k3Qkt3cWliZmRyUC1wT0gwMnRPY2J6aHhtTDVtS09valhGaEVMZXJQM0p0WFRWRC1wXzBrZ0xITkVFbzkw0gHDAUFVX3lxTE1oaGxKUWRHMVVKamhaX3lNSTV4RHd1QU5TQktyQTl0bTZMSXl6ck5MYmgwRGs4ZEhraHRSY2VyQzdfQk13S1YtZ1g5aFhzMGRMeXpkUU1VR0Q2eHpmR0Fpby0zQ0h6YUtOSW1TQnBLYXFmb25WcXpnM3RBcnh5bkRQdkRvdGtNb0NKZzBNMHdiQ2lUYzU2QWN3ek5EY2RCeEJXNjZBelJ5dVJqLVZGcGdsSGF2RzhxRXhVQmMyZTJpX1ZOZw?oc=5
+
+- Trump tariffs on India: Would reciprocal tariffs on US be in India's benefit? Experts weigh in - Mint
+  The Indian government is considering imposing tariffs on imports from India. The
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNM2h6LTI5UVlwVmtnTTdqQWtOQlpoWXBySzh6ZW5sWlBITFVZaV9JbHNnYThndEZZRW8tTHJkWXpBZnMwbF82WjZENUE4M3JNTFhLUmtiQTZTblNxUWZ0d096QURpclg2bEIzWTRpd19CTTZpdjA1LWxrbjVtaDRTU3YybW9JUWtYNHB3NGJ5bW9raWJKb0NaRXBEZl9VdWZxcWtlZVhfajVCcy05TUhpMVhnMC1aSk5ZUTU4cEFfbVVvRldfSVlYaHVsa0pvWlZuRDBxOFFXcDJCSkpuZk16Ukl6UEswY29PZzNhVUFoTlVjXzDSAfgBQVVfeXFMTUJVN1BHWUMybk9Oc0N3bE1tMXNmS2F2eFFBajVOdkYtMWJfYS1jaUxGdlNxQjJIOEZFQUZLRWNSaXphbElZOVpFTFRSUlByV1pwS1NlUkRhU1JNemZ0S190aFdZaUZtRS1YN2dpd1NnNThuOU15OUE0Ulo2ZWV3bWFDa2RkTzBjcDVMZEdrMm11Skt1MzhnRDlPQTVCbkd3NFVVd3BDbFpsZnhyYmdwVElnaVZIQm14ZXZiOExVYUtZWFIxcTJ6eVMydUVDM1Nva0pjNHI4WU5ZREhlR0U5MGZyNm1TUmFtbTE0Uy1jb0FTc2tSWEV0ak8?oc=5
+
+- US trade war, India-China ties loom large at SCO summit in Tianjin - Al Jazeera
+  &nbsp;&ngt;&
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFF0Y0taelVxZW5kSjJNRGNrbldza2FHaWdObDZwYVJEaUF3VkYzR0g2SFpPTFFtUEl1Q0ZnU0tCdzdKQU9QNHMzTnpESkhFZ2lSZjBFN3dWM1FPbTlCUi1IQ2tJb29Rd2VZN2J0MWt4a0Z5cEF4a1VDclktZGxqNGJBMjh4MndURWpHeHBaTmFCcGVnNHh1Y2d1eTktWXRsb2xpN0dxOWNhSm14S2Q4VDVR0gG3AUFVX3lxTE4xZlhRNnVsbGt2bjZ3QktiSzY2NUFKU21YLU5RUDVhQnRyeExZR0tIaXYwaVhvdmV2ZGFZQTVJckNmM2JHOGtOWmt0STZnem9oU2Vxbk9HdXVBTmZ2V1BqZklXcDQ5WHZ5MFJEZmVNTUpwWWZacDhmZjJLS3V4cW5NMVRxWEEwY2NqNjlORUlzUTc0TWp1ZjBhLWZ1LV9lM2UxU19YcWhGMVFDSnFDZ3cyaHlwWE5WQQ?oc=5
+
+- Trump to skip India visit? US President may not attend 2025 Quad meet - Report - Times of India
+  Trump to skip India visit? US President may not attend 2025 Quad meet -
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDB0ZjdtZHhPbkJCLWhRQ2RsbzNIdFNhNmdwMVB2NHM5VFVaeTVucUVJTlZ1T3BtbkNQbFYzTktxZDc0cmk3NHE3Mk8tLU9EOFRYTzVhbHZSNmtDQ1ZqVExmUXEwb18yNDFTeXpyU0ZtUXBBaXBuemUyc18yeTJ4cXRhZElBcTcyNnlYX2Q1cC1qSGMzTG5pZEthaXpmRDR5bXpGSTU3MzU4S2FtdHNmY25PeUJ5eDlpdlpKQ1dtYXpKcm00VTVqRXJRYlA0ZEhucXB3TExPdG0yVmhSdFlocjlkNTDSAeoBQVVfeXFMTlBDa1lUdGdfa1I5WW5yM25mamY4YzlIeHpvdUprNE0zTW4zV0RSX2REd01mRW1zZTRydFRXSkNMMUtmVUpNVEV1cFJZekVmb29VSGw2RmtvMFgtNXU0b0dUbWl0a2djM0ZnVFpkT1l5UHVQU0VuMHRoakk1ZlJ2bjN3dUl3TDNpNzhrZW44TjBVUUxMVTM4czJFRkdyVGtiMHpqLUV5cmRocUxyQzNpTmhYZnlYeGEzYUtOSGxZNlA0dG1xMVlxMGJydGtGM3VwdWRiWklWRm1ROFdWQWpyclJ6NmxaSTJqZkdR?oc=5
+
+- Global traders see hope as Donald Trump’s tariffs head to U.S. Supreme Court; GTRI urges India to act - The Hindu
+  Global traders see hope as Donald Trump’s tariffs head to U.S.
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZXE3SFRCUFd4N0RhNWNHOHByX0tqNXZWZ1ZJNENSWWVURjB6TmctejcyODZMekJ2UjZVSXo4c0p3SVdPTFV1eWxWbkg2SGVKSjl6bTN4MUs1elFHRkRYQmFsNlZJMTM3NjBkWkZJekxlWm1RX0lFNnVuOE1TSGFza0FfRkF2ZUhLYlpPanVfdDFfRGU4QVNBZjZJcVR3dGR3eGRlRWN3dTk2eWxCbTlOaDljaW02RHEtTm5jYmhxN2dtOUtKbHZXU2hfRFdNSmlHNzZQRnlkdEVQbDRzMkExcDZNc1AzaXNaT3B3a2c4YjVkNjjSAfoBQVVfeXFMTmt0UlNTTVJqUGMtZUdLbF9SWkVQck51YXNId1lqSFM1UWU2VGwtZjRNRlhSR29GcW9yallIZXd4Mmw3RkR2bzBaSWZHbGotcWZyYXNablN6QlpGWWhCSklidTNYYU9TX0xpOFUyR2dJeXBFZUFrM25EX3ViR0lWSGdzV2xVV1YyeHlOUWo4QlA5UUNiajJzSGlBblRvelhvZTU2V0U1ZVRLenhpemZaYWgyQXJ1RnRXem83ODJleFdPT3N4TndFcHVobGhaY3lxYjdJY28yVm10dVNMUTlyZXRqLXJLTU1aZ3JFaU5SZUl3dEhLUmVQajdHQQ?oc=5
+
+- "US Brand In Toilet": White House Ex-Official Blasts Trump's India Tariffs - NDTV
+  "US Brand In Toilet": White House
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamlPODdSUmhrODlXc09qN3Q1UU9NTnlsVVBwcG4zT3ZValpZRVRSUzh2MUc3MHBUbDhhZmcxenNwZFBPcWhxMVJFS1AzZ08xbVhuTGlvQ3pfcnBEZVEteDZxNzFndlVUZVpXdWs1blVYbHl4eEF1dkpGb1pPV0k3Qkt3cWliZmRyUC1wT0gwMnRPY2J6aHhtTDVtS09valhGaEVMZXJQM0p0WFRWRC1wXzBrZ0xITkVFbzkw0gHDAUFVX3lxTE1oaGxKUWRHMVVKamhaX3lNSTV4RHd1QU5TQktyQTl0bTZMSXl6ck5MYmgwRGs4ZEhraHRSY2VyQzdfQk13S1YtZ1g5aFhzMGRMeXpkUU1VR0Q2eHpmR0Fpby0zQ0h6YUtOSW1TQnBLYXFmb25WcXpnM3RBcnh5bkRQdkRvdGtNb0NKZzBNMHdiQ2lUYzU2QWN3ek5EY2RCeEJXNjZBelJ5dVJqLVZGcGdsSGF2RzhxRXhVQmMyZTJpX1ZOZw?oc=5
+
+- Trump tariffs on India: Would reciprocal tariffs on US be in India's benefit? Experts weigh in - Mint
+  The Indian government is considering imposing tariffs on imports from India. The
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNM2h6LTI5UVlwVmtnTTdqQWtOQlpoWXBySzh6ZW5sWlBITFVZaV9JbHNnYThndEZZRW8tTHJkWXpBZnMwbF82WjZENUE4M3JNTFhLUmtiQTZTblNxUWZ0d096QURpclg2bEIzWTRpd19CTTZpdjA1LWxrbjVtaDRTU3YybW9JUWtYNHB3NGJ5bW9raWJKb0NaRXBEZl9VdWZxcWtlZVhfajVCcy05TUhpMVhnMC1aSk5ZUTU4cEFfbVVvRldfSVlYaHVsa0pvWlZuRDBxOFFXcDJCSkpuZk16Ukl6UEswY29PZzNhVUFoTlVjXzDSAfgBQVVfeXFMTUJVN1BHWUMybk9Oc0N3bE1tMXNmS2F2eFFBajVOdkYtMWJfYS1jaUxGdlNxQjJIOEZFQUZLRWNSaXphbElZOVpFTFRSUlByV1pwS1NlUkRhU1JNemZ0S190aFdZaUZtRS1YN2dpd1NnNThuOU15OUE0Ulo2ZWV3bWFDa2RkTzBjcDVMZEdrMm11Skt1MzhnRDlPQTVCbkd3NFVVd3BDbFpsZnhyYmdwVElnaVZIQm14ZXZiOExVYUtZWFIxcTJ6eVMydUVDM1Nva0pjNHI4WU5ZREhlR0U5MGZyNm1TUmFtbTE0Uy1jb0FTc2tSWEV0ak8?oc=5
+
+- US trade war, India-China ties loom large at SCO summit in Tianjin - Al Jazeera
+  &nbsp;&ngt;&
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFF0Y0taelVxZW5kSjJNRGNrbldza2FHaWdObDZwYVJEaUF3VkYzR0g2SFpPTFFtUEl1Q0ZnU0tCdzdKQU9QNHMzTnpESkhFZ2lSZjBFN3dWM1FPbTlCUi1IQ2tJb29Rd2VZN2J0MWt4a0Z5cEF4a1VDclktZGxqNGJBMjh4MndURWpHeHBaTmFCcGVnNHh1Y2d1eTktWXRsb2xpN0dxOWNhSm14S2Q4VDVR0gG3AUFVX3lxTE4xZlhRNnVsbGt2bjZ3QktiSzY2NUFKU21YLU5RUDVhQnRyeExZR0tIaXYwaVhvdmV2ZGFZQTVJckNmM2JHOGtOWmt0STZnem9oU2Vxbk9HdXVBTmZ2V1BqZklXcDQ5WHZ5MFJEZmVNTUpwWWZacDhmZjJLS3V4cW5NMVRxWEEwY2NqNjlORUlzUTc0TWp1ZjBhLWZ1LV9lM2UxU19YcWhGMVFDSnFDZ3cyaHlwWE5WQQ?oc=5
+
+- Trump to skip India visit? US President may not attend 2025 Quad meet - Report - Times of India
+  Trump to skip India visit? US President may not attend 2025 Quad meet -
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRDB0ZjdtZHhPbkJCLWhRQ2RsbzNIdFNhNmdwMVB2NHM5VFVaeTVucUVJTlZ1T3BtbkNQbFYzTktxZDc0cmk3NHE3Mk8tLU9EOFRYTzVhbHZSNmtDQ1ZqVExmUXEwb18yNDFTeXpyU0ZtUXBBaXBuemUyc18yeTJ4cXRhZElBcTcyNnlYX2Q1cC1qSGMzTG5pZEthaXpmRDR5bXpGSTU3MzU4S2FtdHNmY25PeUJ5eDlpdlpKQ1dtYXpKcm00VTVqRXJRYlA0ZEhucXB3TExPdG0yVmhSdFlocjlkNTDSAeoBQVVfeXFMTlBDa1lUdGdfa1I5WW5yM25mamY4YzlIeHpvdUprNE0zTW4zV0RSX2REd01mRW1zZTRydFRXSkNMMUtmVUpNVEV1cFJZekVmb29VSGw2RmtvMFgtNXU0b0dUbWl0a2djM0ZnVFpkT1l5UHVQU0VuMHRoakk1ZlJ2bjN3dUl3TDNpNzhrZW44TjBVUUxMVTM4czJFRkdyVGtiMHpqLUV5cmRocUxyQzNpTmhYZnlYeGEzYUtOSGxZNlA0dG1xMVlxMGJydGtGM3VwdWRiWklWRm1ROFdWQWpyclJ6NmxaSTJqZkdR?oc=5
+
+- Global traders see hope as Donald Trump’s tariffs head to U.S. Supreme Court; GTRI urges India to act - The Hindu
+  Global traders see hope as Donald Trump’s tariffs head to U.S.
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZXE3SFRCUFd4N0RhNWNHOHByX0tqNXZWZ1ZJNENSWWVURjB6TmctejcyODZMekJ2UjZVSXo4c0p3SVdPTFV1eWxWbkg2SGVKSjl6bTN4MUs1elFHRkRYQmFsNlZJMTM3NjBkWkZJekxlWm1RX0lFNnVuOE1TSGFza0FfRkF2ZUhLYlpPanVfdDFfRGU4QVNBZjZJcVR3dGR3eGRlRWN3dTk2eWxCbTlOaDljaW02RHEtTm5jYmhxN2dtOUtKbHZXU2hfRFdNSmlHNzZQRnlkdEVQbDRzMkExcDZNc1AzaXNaT3B3a2c4YjVkNjjSAfoBQVVfeXFMTmt0UlNTTVJqUGMtZUdLbF9SWkVQck51YXNId1lqSFM1UWU2VGwtZjRNRlhSR29GcW9yallIZXd4Mmw3RkR2bzBaSWZHbGotcWZyYXNablN6QlpGWWhCSklidTNYYU9TX0xpOFUyR2dJeXBFZUFrM25EX3ViR0lWSGdzV2xVV1YyeHlOUWo4QlA5UUNiajJzSGlBblRvelhvZTU2V0U1ZVRLenhpemZaYWgyQXJ1RnRXem83ODJleFdPT3N4TndFcHVobGhaY3lxYjdJY28yVm10dVNMUTlyZXRqLXJLTU1aZ3JFaU5SZUl3dEhLUmVQajdHQQ?oc=5
 
 
-_Last updated: 2025-08-30 18:22:05 UTC_
+_Last updated: 2025-08-31 01:15:54 UTC_
