@@ -1,46 +1,54 @@
 # 📰 Daily News Summaries
 
-- ‘If you can kill me…’: His convoy pelted with stones, Madhya Pradesh Congress chief Jitu Patwari hits out at CM Mohan Yadav
+- Revanth-led Telangana govt to hand over Kaleshwaram project probe to CBI
   
-  🔗 https://indianexpress.com/article/india/if-you-can-kill-me-his-convoy-pelted-with-stones-madhya-pradesh-congress-chief-jitu-patwari-hits-out-at-cm-mohan-yadav-10222886/
+  🔗 https://indianexpress.com/article/india/telangana-kaleshwaram-project-cbi-probe-revanth-reddy-10223493/
 
-- Ripples of Manipur conflict in an Assam district after Thadou leader is killed days after meeting of Meitei groups
+- Pakistan PM in attendance at SCO summit, Modi raises Pahalgam terror attack: ‘Assault on India’s soul, challenge to those who believe in humanity’
   
-  🔗 https://indianexpress.com/article/india/ripples-of-manipur-conflict-in-an-assam-district-after-thadou-leader-is-killed-days-after-meeting-of-meitei-groups-10222896/
+  🔗 https://indianexpress.com/article/india/pm-modi-sco-summit-address-china-xi-jinping-putin-10223470/
 
-- Bank heist accused arrested in Bihar with 3 kg stolen gold
+- PM Modi at SCO summit: What he said on terrorism, sovereignty, global dialogue forum
   
-  🔗 https://indianexpress.com/article/india/bank-heist-accused-arrested-in-bihar-with-3-kg-stolen-gold-10222895/
+  🔗 https://indianexpress.com/article/india/pm-modi-at-sco-summit-what-he-said-on-terrorism-sovereignty-global-dialogue-forum-10223435/
 
-- Anti-conversion Bill gets a stricter coat of paint in Rajasthan, life imprisonment, Rs 50 lakh fine for repeat offenders
+- Gold Today Rate, September 1: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/anti-conversion-bill-gets-a-stricter-coat-of-paint-in-rajasthan-life-imprisonment-rs-50-lakh-fine-for-repeat-offenders-10222893/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-september-1-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10223372/
 
-- Nepal PM extends support to China’s global security initiative
+- ‘Elephant capitulating before dragon’: Amid his China visit, Congress slams PM Modi for keeping mum on its Pakistan ties
   
-  🔗 https://indianexpress.com/article/india/nepal-pm-extends-support-to-chinas-global-security-initiative-10222860/
+  🔗 https://indianexpress.com/article/india/congress-government-narendra-modi-xi-jinping-talks-10223364/
 
-- Anthropic to train its AI models on your chats from September: Here’s how to stop it
+- OpenAI plans India data centre with at least 1 gigawatt capacity: Report
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-train-ai-users-chats-how-to-opt-out-10222143/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-plans-india-data-centre-with-at-least-1-gigawatt-capacity-report-10223543/
 
-- Fittr Hart X2 review: A smart ring that tracks my health, and doesn’t need to be charged every night
+- Gaming giant Krafton to bet big on India with $50 million yearly investment, acquisitions: Report
   
-  🔗 https://indianexpress.com/article/technology/tech-reviews/fittr-hart-x2-smart-ring-review-10221763/
+  🔗 https://indianexpress.com/article/technology/gaming/krafton-india-push-50-mn-yearly-investment-report-10223428/
 
-- Meta loses top AI talent after forming new division to pursue superintelligence: Report
+- How ‘Clanker’ became an anti-AI rallying cry
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-loses-ai-talent-new-division-to-pursue-superintelligence-report-10221742/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-clanker-became-an-anti-ai-rallying-cry-10223207/
 
-- iPhone 17 launch on Sep 9:  What to expect (and not) from Apple’s ‘Awe Dropping’ event
+- How this AI company collapsed amid Silicon Valley’s biggest boom
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-17-launch-on-sep-9-what-to-expect-and-not-from-apples-awe-dropping-event-10221548/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-this-ai-company-collapsed-amid-silicon-valleys-biggest-boom-10223200/
 
-- How Silicon Valley is using religious language to talk about AI
+- Mobile Premier League to lay off 60% of employees after online money gaming ban
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-silicon-valley-is-using-religious-language-to-talk-about-ai-10221515/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/mobile-premier-league-to-lay-off-60-of-employees-after-online-money-gaming-ban-10223181/
 
-- Elev8’s maiden fund signals venture capital appetite in India
+- How Lenskart crafted a new vision in the eyewear sector
+   Lenskart is changing the eyewear sector with stores, technology
+  🔗 https://www.livemint.com/companies/how-lenskart-crafted-a-new-vision-in-the-eyewear-sector-11756699758172.html
+
+- Chinas GCL expects more information soon on polysilicon restructuring
+  China's GCL
+  🔗 https://www.livemint.com/companies/news/chinas-gcl-expects-more-information-soon-on-polysilicon-restructuring-11756701773018.html
+
+- Elev8 closes $160 million debut fund, targets unicorn pipeline with growth bets
   Elev8's thesis spans premium consumer brands, tech-driven fintech and scalable B2B software
   🔗 https://www.livemint.com/companies/news/elev8-venture-partners-final-close-maiden-fund-growth-stage-venture-capital-navin-honagudi-11756647670396.html
 
@@ -49,156 +57,108 @@
   🔗 https://www.livemint.com/companies/ai-is-now-causing-gccs-to-review-hiring-after-it-11756629875340.html
 
 - Ather’s Tarun Mehta Vs Ola’s Bhavish Aggarwal: A clash of strategies in India’s EV race
-  Ather Energy CEO Tushar Mehta says investing into new technology and the brand is better than setting up a component ecosystem. Ola Electric's Bhavish Aggarwal has a contrasting
+  Ather Energy CEO Tarun Mehta says investing into new technology and the brand is better than setting up a component ecosystem. Ola Electric's Bhavish Aggarwal has a contrasting view
   🔗 https://www.livemint.com/companies/news/athers-tushar-mehta-doesn-t-want-to-build-everything-in-house-battery-cell-components-ola-electric-bhavish-aggarwal-11756611281712.html
 
-- DIAL bets on  ₹5,000-crore Cargo City to drive 25% of its revenue
-  Cargo City project aims to secure Delhi Airport’s leadership in freight. E-commerce and perishables driving demand.
-  🔗 https://www.livemint.com/companies/gmr-airports-cargo-city-delhi-airport-dial-revenue-delhi-international-11756629693809.html
+- Ride the (equity) waves: The power and pitfalls of momentum investing
+   Momentum trading requires staying on top of market trends, making swift decisions, and understanding when to exit, Equirus Wealth says.
+  🔗 https://www.livemint.com/market/stock-market-news/ride-the-equity-waves-the-power-and-pitfalls-of-momentum-investing-11756706929311.html
 
-- Layoffs news: Mobile Premier League to cut 60% jobs after govt ban on real money games, says report
-  MPL will lay off 60% of its Indian workforce, approximately 300 employees. This marks a significant downturn for an industry projected to reach $3.6 billion by 2029.
-  🔗 https://www.livemint.com/companies/news/layoffs-news-mobile-premier-league-mpl-cut-60-pc-jobs-workforce-after-india-government-bans-real-money-games-says-report-11756646923692.html
+- Indian stock market: Nifty 50 reclaims 24,500. Dead cat bounce or sustained rally likely?
+  Nifty is currently hovering around its recent swing-low support range of 24,337–24,267. A decisive breakdown
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-nifty-50-reclaims-24-500-dead-cat-bounce-or-sustained-rally-likely-11756704539242.html
 
-- Recommended stocks to buy on 1 September—top stock picks from market experts
-  Expert analysts share their top stock recommendations to capitalize on
-  🔗 https://www.livemint.com/market/stock-market-news/recommended-stocks-to-buy-today-1-september-ankush-bajaj-raja-venkatraman-trade-brains-nifty-sensex-11756687075977.html
+- Macau Gaming Revenue Meets Estimate on Summer Holiday Boost
+  Macau’s gaming revenue rose 12.2% in August, roughly meeting analyst expectations. It was the best-performing post-
+  🔗 https://www.livemint.com/market/stock-market-news/macau-gaming-revenue-meets-estimate-on-summer-holiday-boost-11756706450260.html
 
-- Stock market today: Trade setup for Nifty 50, Trump tariffs to SCO Summit 2025; 8 stocks to buy or sell on Monday
-  Experts have recommended eight stocks to buy today. Cartrade Tech, Nava, SBI, HD
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-trump-tariffs-to-sco-summit-2025-8-stocks-to-buy-or-sell-on-monday-11756638305424.html
+- Multibagger small-cap stock under  ₹15 climbs to 52-week peak, hits upper circuit for 19th straight session
+  Sellwin Traders shares reached a 52-week high of  ₹11.17, marking a 312% rise from its April low. The stock has gained 137
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-under-rs-15-climbs-to-52-week-peak-hits-upper-circuit-for-19th-straight-session-11756705855487.html
 
-- Global Markets Today: Nikkei 225, Kospi trade lower amid U.S. court ruling on Trump tariffs
-  Japan's Nikkei 225 started weaker at 42,
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-trade-lower-amid-u-s-court-ruling-on-trump-tariffs-11756687994330.html
+- ₹23.06 to  ₹80.09: Small-cap multibagger stock hits upper circuit for 56 straight sessions; do you own?
+  Sampre Nutritions share price has jumped 45% in one month and has rallied 197% in three months. The small-cap stock is up 130% in six months, and 27% on a year-to-date
+  🔗 https://www.livemint.com/market/stock-market-news/rs-23-06-to-rs-80-09-small-cap-multibagger-stock-sampre-nutritions-shares-hit-upper-circuit-for-56-straight-sessions-11756705304390.html
 
-- IPO Review: Aditya Infotech, NSDL, Highway Infra, among top performing IPOs in August. Will the momentum continue?
-  August 2025 was a significant month for India's primary markets with 17 IPO listings, gathering around 21,729 crores. Over 80% of these IPOs yielded
-  🔗 https://www.livemint.com/market/ipo/ipo-review-aditya-infotech-nsdl-highway-infra-among-top-performing-ipos-in-august-will-the-momentum-continue-11756652098890.html
+- A base deep in the Swedish forest is part of Europes hope to compete in the space race
+  A base deep in the Swedish forest is part of Europe's hope
+  🔗 https://www.livemint.com/technology/tech-news/a-base-deep-in-the-swedish-forest-is-part-of-europes-hope-to-compete-in-the-space-race-11756706936025.html
 
-- BSE weathered past Sebi curbs better than Angel One
-  Sebi’s push to
-  🔗 https://www.livemint.com/market/mark-to-market/bse-angel-one-sebi-curbs-stock-price-decline-equity-derivatives-options-trading-revenue-11756635392693.html
+- Why top AI talent is leaving Meta: Researchers head for the door, using Mark Zuckerberg’s own words to justify exit
+  Mark Zuckerberg's Meta faces challenges in its AI ambitions. Researchers leave the newly established Meta Superintelligence Labs. High salaries offered to attract talent from rivals.
+  🔗 https://www.livemint.com/technology/tech-news/why-top-ai-talent-is-leaving-meta-researchers-head-for-the-door-using-mark-zuckerberg-s-own-words-to-justify-exit-11756704340003.html
+
+- From Vision Pro refresh to Vision Air: What to expect from Apple’s next spatial devices
+  Apple is reportedly working on multiple Vision devices. A refreshed Vision Pro with an M5 chip, a Mac-linked edition for professionals, a lighter and cheaper “Vision Air
+  🔗 https://www.livemint.com/technology/gadgets/from-vision-pro-refresh-to-vision-air-what-to-expect-from-apple-s-next-spatial-devices-11756697783851.html
+
+- Apple ‘Awe Dropping’ Event on 9 September: iPhone 17 Pro Max, 17 Air and 17 Pro pricing tipped
+  On 9 September 2025, Apple will present its 'Awe Dropping' keynote at the Steve Jobs Theatre, focusing on the iPhone 17
+  🔗 https://www.livemint.com/technology/gadgets/apple-awe-dropping-event-on-9-september-iphone-17-pro-max-17-air-and-17-pro-pricing-tipped-11756694956048.html
 
 - Amazon Kuiper plans India debut next year, lags satellite communication peers
   The delay in India foray is because the Amazon arm is still to have a sufficient satellite constellation to launch the services commercially.
   🔗 https://www.livemint.com/technology/amazon-kuiper-plans-india-debut-next-year-lags-satellite-communication-peers-11756625361899.html
 
-- The success of AI music creators sparks debate on future of music industry
-  The success of AI music creators sparks debate
-  🔗 https://www.livemint.com/technology/tech-news/the-success-of-ai-music-creators-sparks-debate-on-future-of-music-industry-11756646661700.html
+- Gold surpasses U.S. Treasuries in central banks’ reserves for first time since 1996
+  Global central banks now hold more gold than U.S. Treasuries for the first time since 1996. The shift reflects sanctions risks, U.s. debt concerns, and diversification needs
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-surpasses-u-s-treasuries-in-central-banks-reserves-for-first-time-since-1996/articleshow/123628193.cms
 
-- iPhone 17 Air vs iPhone 17 Pro Max: Design, price, display, battery, camera and more compared
-  The iPhone 17 Pro Max will likely come with a 6.9 inch 120Hz display and a triple 48MP camera along with 5,000mAh battey. The iPhone 17 Air on the other hand, could come with 6.
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17-air-vs-iphone-17-pro-max-design-price-display-battery-camera-and-more-compared-11756629212244.html
+- Gold, silver prices hit all-time highs tracking weak dollar; analysts see further upside
+  Gold and silver prices hit record highs on MCX as weak dollar, Fed rate cut hopes, and safe-haven demand boosted buying. Analysts expect volatility amid global trade tensions and ru
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-hit-all-time-highs-tracking-weak-dollar-analysts-see-further-upside/articleshow/123628108.cms
 
-- Apple's ‘Awe Dropping’ event on 9 September: iPhone 17 and 7 other products to watch out for
-  Apple's Awe Dropping event on September 9 will showcase the iPhone 17 series, new Apple Watches, and AirP
-  🔗 https://www.livemint.com/technology/gadgets/apples-awe-dropping-event-on-9-september-iphone-17-and-7-other-products-to-watch-out-for-11756629261591.html
+- India’s 7.8% GDP growth sparks optimism, but sustainability faces key tests
+  India’s GDP grew 7.8% in Q1, driven by strong services and manufacturing. Full-year growth is expected at 6.6%, slightly above RBI�
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indias-7-8-gdp-growth-sparks-optimism-but-sustainability-faces-key-tests/articleshow/123628038.cms
 
-- iPhone 16e gets over  ₹10,000 discount ahead of iPhone 17 launch: Should you buy?
-  The iPhone 16e sees a price drop to  �
-  🔗 https://www.livemint.com/technology/gadgets/iphone-16e-gets-over-rs-10-000-discount-ahead-of-iphone-17-launch-should-you-buy-11756627698967.html
+- Ashish Kachoia-backed Vikran Engineering IPO allotment likely today. Check status, GMP and other details
+  Vikran Engineering’s Rs 772-crore IPO allotment is likely to be finalised today. Backed by Ashish Kacholia and Mukul Agarwal
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ashish-kachoia-backed-vikran-engineering-ipo-allotment-likely-today-check-status-gmp-and-other-details/articleshow/123627896.cms
 
-- Stocks in news: Ather Energy, Indian Oil, Torrent Power, BHEL, IndusInd Bank
-  Ather Energy introduced a new vehicle platform, while CMS Info Systems secured a contract from IPPB for ATM replacement. Indian Oil's SPRINT project is yielding positive results, and Torrent Power received a LoA for a thermal project in Mad
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ather-energy-indian-oil-torrent-power-bhel-indusind-bank/articleshow/123623508.cms
+- Amanta Healthcare IPO subscribed 25% so far on Day 1; GMP at 15%. Should you bid?; Check key details
+  Amanta Healthcare shares commanding a 15% premium in the grey market over the issue’s upper price band of �
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/amanta-healthcare-ipo-subscribed-25-so-far-on-day-1-gmp-at-15-should-you-bid-check-key-details/articleshow/123627801.cms
 
-- Asian stocks retreat at open after US tech selloff
-  Asian stock markets declined following a tech stock selloff on Wall Street. Investors await key economic data and the Federal Reserve's decision. Political risks in Indonesia and Thailand are also in focus.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-retreat-at-open-after-us-tech-selloff/articleshow/123623485.cms
+- "Brahmins Profiteering...": Top Trump Aide On India's Russian Oil Trade - NDTV
+  "Brahmins Profiteering..."
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNOGg5SW5lS1hvdW9NXzhMMU0zbDlveU1LYlBiNTlleWx1ckt2UW5LS1RzQXkxRDRMdXZqU1FkNzhpbWZIQmJzcU0xdEY5MnNxZWxHeVh6VUl6NGtUbXhTb1pxbzlZRlJMX2tGTkFNbEp1c3VtMGtRMGEwa1I1cTlRRG9qODU3T1BNTFcwYWNHMFozQTZqMFp3ZzlDeTg3UmpESllJTjd2NlNJMGpuYnNmQUszOEFQOXZORFpBLWlLVjNkUTJaZkJiVS00S1l4aTRsN0V2LVM3UFBjWWlpbmdaNkVCSlhqWjdyVW0yU3V4eHlKWGdoVlUySEVmNXdsZ0NkcU9IWNIBjAJBVV95cUxOalNjTHFiXzhnclNEcU51TE52VVJUZW1CcGotU3FNOW5KMUdtREszdEYtMldfaF9sdmtwdGxPSXZ0YVlVNHVNekpCOVE2WUtSUkpUdnJrQl93WE1jdS1HS0JkRE5WSUdCWHpONmQyUFpZOGk3dS1GaXRuM0V6UEowdVdHZjBoUFdGQnphNkN3SmUzQlBkaFM1UFQtT0tDWl9RcWJUVEZoVDJ6M0M1ZV8ybkw1MGlkRk9tbWpNRkhQelF2ME9VbnpXNC1DUndXZGduSC1EM3pHcjJnUWRXOXBmMHZPdVJMYUJwZ2RLTDlhbnkxMXBxaUExcWFDUkZhU28wbTB2RXpyQmlQWXpz?oc=5
 
-- August Rush: FPI outflows at 7-month high at $4 billion
-  Foreign investors sold Indian shares in August, the most in seven months. Punitive US tariffs and a weak rupee impacted the market. Domestic funds supported equities with strong buying.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/august-rush-fpi-outflows-at-4-billion-highest-in-7-months/articleshow/123623384.cms
+- ‘Brahmins profiteering…’: Peter Navarro's latest take on India's Russian oil purchase - Hindustan Times
+  ‘Brahmins profiteering…�
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMjN6aHdHLXI2RjNCX2tXeHYzbkY0TVFGdWp2ODU0SUJMTFcxSmZpd2lUdmgtMlVxdjBsX25BUzFHcGpJcnpBSUJMS1pnWDNxamlMaW9Yd3pFQ3dhczlITlpXajktaDRxcFVDMFFUVVlZVUZxTkRGUjlJa05xWG5yTkFIb2xkanVldjc3ZlJ4QWxwWW05V3VzaG5LUjI2VlpIbXkyRVRQbnFwSHNrQmsxeVNVckswV1NFTjZISVlxVmtmSldCb0Mxa09FMVo1QWZTS0c0aDVBQzl6OGdVQXAxamtkZDVmaUU5a1NyYg?oc=5
 
-- Consumer stocks may offer silver lining amid Nifty low
-  Analysts highlight Colgate-Palmolive, CG Power, and Voltas as potential bullish bets. KFin Technologies and AU Small Fin Bank are viewed bearishly. Technical analysis suggests specific entry and exit points for traders
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/consumer-stocks-may-offer-silver-lining-amid-nifty-low/articleshow/123623344.cms
-
-- What's next for the rupee after breaching 88 against the dollar?
-  The Indian rupee is under pressure, hitting new lows against the dollar. The RBI's potential response to the weakening currency is uncertain.
-  🔗 https://economictimes.indiatimes.com/markets/forex/whats-next-for-the-rupee-after-breaching-88-against-the-dollar/articleshow/123623268.cms
-
-- China and India pledge to be 'partners not rivals' at security summit - BBC
-  China and India pledge to be 'partners not
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lS2JfajUzQkhjc3QxT1UxY1JBQ0V0ODU4d1pDc0ZVUks3aS0yeHJIcFBMaGhDMHc3bDdDZkdaQnJKb2FEazFZWGZGQkNkUUNTbXlXaFFOSHRfQdIBX0FVX3lxTE5hWEUwdFpPM3ZDY2NMT21fSnoySU5mVWc1ZmFTX21vUFhPaWN6TVZGRU9OZmJkQ2tId2xONldwdmdxZ2ZpNEFpbFJlM2oySjNTNE9CdjU1Uzk5cnhCTmxR?oc=5
-
-- PM, Xi Boost India-China Ties With Direct Flights, Trade, Optics: 10 Points - NDTV
-  PM, Xi Boost India-China Ties With
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGFyLVVmRFdaai1XUmhyR3FXR3pNelZ3U2FpSS0teHcxdHUzM243MVZEa3VhMWFaNzNFSEZwTEdTT1YwbmxxU0lxRk1VN0lYdGxvWEQ5QlFTQVRLR2liSDVYS0NnRmtwWkMzb3lERnJ0MTI2Z2Y1Y216YV9SQWJGT2E0cEVldTZ3b1phNHBodTc5NG1SeWR2M0xHMnhzeGNyWXg5Uk5JV3puRVJ1V0poajZxbE5aX0xoSHpTUWE4UGFnU1I3NFcwXy1ta21pZ9IB1gFBVV95cUxQRklySWtiakY5OU9sS2VQTG9QSnRNOGVyNUpvNlBXUDZNWi1JTkNhMm5sdDRmWTRKRzROdm1JZ1g2TDJRZS1sZVJpcHp5X25uVEF2M2lzeWx5bDJpalBETDVVX09HNy1zR3o2ZWFjMlR6VWQ3dmVuQjlCOGplbWVBRnhmdFZDaHlWMDliMF9rdlIyYjZPbzlkcXdQRWh0QzlueU9ILVotSjRhbEd1MU1mUG1lNWt3R05Qb2VUNy1HTkdUR0dQQWlZTTIzSWN0LTZTczJ1ZjVB?oc=5
-
-- 'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to taking ties forward on mutual - The Times of India
-  'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to taking
+- 'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to taking ties forward on mutual - Times of India
+  'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to
   🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPM1pPMTM2R2NtREd2Um9zM0dnUmpoMzYya0tubWc0SXlrVW5WaHVtbnRmcmllaThhX2pVdlhNanFrUmNhSktOZ0JpOHRpYWtfRHBaN05SRXZBb280ZEEyemM1QTlwZklGOEsyTDVpejRCV1prek16SkVqdmdLZHVfNkx5c3A2QzhFbXhlX3g0ejJhbWxfREJjMjFNcHhSYk56dGhPTHlhOGUxSmdtR0J1SDBaczNFSUNrWnFtZTBKUUFfMTlIUmZVQ2x0UGtwQ19tM2JidG9hSHpZa1NRNFZlbW9yTWdPV2hxcl9hZGJtd2dTQkVEMnl3Ukw3RFdYS3N1aW9ZNENEQS1MSEEwSDdXajAyQTJmUWhzTmlmQjItY2YyLW1a0gGqAkFVX3lxTE1yVUZIQURLR0kzOF92UUxQcHRXSEpOXzJuUWp0aW5tanUwenM2N2dtcGZmeG1jejNIRmZzWmZUVUljeGZicmdiQUlpbjVXVS00aEdRd1lnc2UxRU10Y1o2YkNiN0FwUG9kc3B6QlBUak1pYW9FU1E1WWVkbVNyLWZvVDVEYktFdlBVQ0pYY1c0NlZ2WXFZMUFPZVM5b1QxY1Z3ZGdMNkxSa1ZFYnZJSk9GaE5OZWpfMzduOUprZUpCc2FkT3lSOUVxUlUzUlNlT3lIN1pPb0NfUGpMdHZkdU0ycHhSaEZYanJkNGVzbVdaQ3VvdVR2blFhbU1NYUdnWjhNNkhkQlpkUEcycFJsa2dYR1dBMk44SE1Za2hXTjRQTUlSZldOMDhxQWc?oc=5
 
-- ‘India’s dependence on imported APIs is coming down’ | Latest News India - Hindustan Times - Hindustan Times
-  ‘India’s dependence on imported APIs is coming down�
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTE5hdE5VQ0JINzVqenI4U0tldGVsalhWMEhQMkJJT3k1dVA0ME9BbFdfM1VBTGNaRFZDeDd1OEZhdmdtRXVXaVRtLXJHaUs4bVljQWZxeHdaRXFWMHo1X3ZPU3pIY1d5eXBOZDhhU2ZlYVYxMGVFRHd4OGVfQnNqYXplRWwyMVNiYzVTVTBvU3dvNjFhQmpBdlJnWFM0Rk95ZFZCeW9PNWhvczV3eXYxVlZB0gG3AUFVX3lxTE05bEVNRDBOLVdhYmhrTC1SNzUwa1BmUDNqRm96VXNQWGxCbjZCclJUY0dYdUlYdVlvcGY0dy1GMFhrSWltUHBSTklkQWZZWWpGQzBKSVJVZEljZk11VE5VUW44dWs5c3Y4eXExbHpGR2JQaVJZOEFEN2xweFVYU0lFQ2hYRGx2VDcwWHJCSU8zZ1NyWHF1MlFWODdQekFQbUVON1I3b2JibzMydjZGS1lMVWZjT2hwWQ?oc=5
+- How US media covered Modi-Xi meet – ‘Trump’s pointless rupture will change India and world’ - financialexpress.com
+  ‘Trump’s pointless rupture will change India and world
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR0pqQWhUUmZncTBJZjF1XzYySWRsTklZaXpITXlLQUh6bDFwZWpMUi1LMUhRcGhBVlkzWFpMUldEcXBDdHhyOTJ6ZjVWdWNpbmtqdFhqRDdNRm9FMXExUElRU3BfbjV0ZlJXeVBUZ2F6MUxSNzlSeGFMaGFkbGRCWHEtZ0lBek1ZSW9CRXYwdXVSVFJYMXlyWEtmdHRwN0NIWXJvYldGclUwOG9hMEs3aC1NLUc2aS1TT2NERmxMWEpvX3c1UExmSTFlWVFFbERZb0hNLTBMUXZmYjlCejhpRg?oc=5
 
-- Nepal PM extends support to China’s global security initiative - The Indian Express
-  Nepal PM extends support to China�
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEh5MndCcjFsZEdVUjZWRUhsbmQxbGhMenppeHRiMnVOZEROUkhsM2hxQzRkZlUyaFBzTXo1TnRPdUlFbFVzMjA2MDh5ZWxoQWwzc0hJTFVZTDlBazFCSTM0bk9jSS1JVHBvMWRENlFPemtqVUtWNGVwZHBjU1hJV0h6WmpBVDNBc3U4NEcwcU44MHZCRVhoTEttUkt6TGtHandXa2UyTzBKWHc5TTg0VNIBtwFBVV95cUxPTk5KN0VMN2FaVUFfamg0OXhFam94MGhGbU8zVENUa2NoTTBIejVvMDBYVF9fM3FraktMdFRCRmh0T1Rfckg2V1E4MjFaZ0NHNWJjMGtzNFh5SmlMNTRCb0phTGZkeFZyU1ZRdDhJSkFuM2pGX2tUNlNTQ25tLWlNUVIxMHZnS1p2OUFOZTcyZlM2Z1VZX21DX1MzZmVROEtXOUwtTUFWdXRmdG9ISDdOR1BQNi12YzQ?oc=5
+- Trump tariffs on India: Would reciprocal tariffs on US be in India's benefit? Experts weigh in - Mint
+  The Indian government is considering imposing tariffs on imports from India. The
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNM2h6LTI5UVlwVmtnTTdqQWtOQlpoWXBySzh6ZW5sWlBITFVZaV9JbHNnYThndEZZRW8tTHJkWXpBZnMwbF82WjZENUE4M3JNTFhLUmtiQTZTblNxUWZ0d096QURpclg2bEIzWTRpd19CTTZpdjA1LWxrbjVtaDRTU3YybW9JUWtYNHB3NGJ5bW9raWJKb0NaRXBEZl9VdWZxcWtlZVhfajVCcy05TUhpMVhnMC1aSk5ZUTU4cEFfbVVvRldfSVlYaHVsa0pvWlZuRDBxOFFXcDJCSkpuZk16Ukl6UEswY29PZzNhVUFoTlVjXzDSAfgBQVVfeXFMTUJVN1BHWUMybk9Oc0N3bE1tMXNmS2F2eFFBajVOdkYtMWJfYS1jaUxGdlNxQjJIOEZFQUZLRWNSaXphbElZOVpFTFRSUlByV1pwS1NlUkRhU1JNemZ0S190aFdZaUZtRS1YN2dpd1NnNThuOU15OUE0Ulo2ZWV3bWFDa2RkTzBjcDVMZEdrMm11Skt1MzhnRDlPQTVCbkd3NFVVd3BDbFpsZnhyYmdwVElnaVZIQm14ZXZiOExVYUtZWFIxcTJ6eVMydUVDM1Nva0pjNHI4WU5ZREhlR0U5MGZyNm1TUmFtbTE0Uy1jb0FTc2tSWEV0ak8?oc=5
 
-- China and India pledge to be 'partners not rivals' at security summit - BBC
-  China and India pledge to be 'partners not
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lS2JfajUzQkhjc3QxT1UxY1JBQ0V0ODU4d1pDc0ZVUks3aS0yeHJIcFBMaGhDMHc3bDdDZkdaQnJKb2FEazFZWGZGQkNkUUNTbXlXaFFOSHRfQdIBX0FVX3lxTE5hWEUwdFpPM3ZDY2NMT21fSnoySU5mVWc1ZmFTX21vUFhPaWN6TVZGRU9OZmJkQ2tId2xONldwdmdxZ2ZpNEFpbFJlM2oySjNTNE9CdjU1Uzk5cnhCTmxR?oc=5
+- "Brahmins Profiteering...": Top Trump Aide On India's Russian Oil Trade - NDTV
+  "Brahmins Profiteering..."
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNOGg5SW5lS1hvdW9NXzhMMU0zbDlveU1LYlBiNTlleWx1ckt2UW5LS1RzQXkxRDRMdXZqU1FkNzhpbWZIQmJzcU0xdEY5MnNxZWxHeVh6VUl6NGtUbXhTb1pxbzlZRlJMX2tGTkFNbEp1c3VtMGtRMGEwa1I1cTlRRG9qODU3T1BNTFcwYWNHMFozQTZqMFp3ZzlDeTg3UmpESllJTjd2NlNJMGpuYnNmQUszOEFQOXZORFpBLWlLVjNkUTJaZkJiVS00S1l4aTRsN0V2LVM3UFBjWWlpbmdaNkVCSlhqWjdyVW0yU3V4eHlKWGdoVlUySEVmNXdsZ0NkcU9IWNIBjAJBVV95cUxOalNjTHFiXzhnclNEcU51TE52VVJUZW1CcGotU3FNOW5KMUdtREszdEYtMldfaF9sdmtwdGxPSXZ0YVlVNHVNekpCOVE2WUtSUkpUdnJrQl93WE1jdS1HS0JkRE5WSUdCWHpONmQyUFpZOGk3dS1GaXRuM0V6UEowdVdHZjBoUFdGQnphNkN3SmUzQlBkaFM1UFQtT0tDWl9RcWJUVEZoVDJ6M0M1ZV8ybkw1MGlkRk9tbWpNRkhQelF2ME9VbnpXNC1DUndXZGduSC1EM3pHcjJnUWRXOXBmMHZPdVJMYUJwZ2RLTDlhbnkxMXBxaUExcWFDUkZhU28wbTB2RXpyQmlQWXpz?oc=5
 
-- PM, Xi Boost India-China Ties With Direct Flights, Trade, Optics: 10 Points - NDTV
-  PM, Xi Boost India-China Ties With
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGFyLVVmRFdaai1XUmhyR3FXR3pNelZ3U2FpSS0teHcxdHUzM243MVZEa3VhMWFaNzNFSEZwTEdTT1YwbmxxU0lxRk1VN0lYdGxvWEQ5QlFTQVRLR2liSDVYS0NnRmtwWkMzb3lERnJ0MTI2Z2Y1Y216YV9SQWJGT2E0cEVldTZ3b1phNHBodTc5NG1SeWR2M0xHMnhzeGNyWXg5Uk5JV3puRVJ1V0poajZxbE5aX0xoSHpTUWE4UGFnU1I3NFcwXy1ta21pZ9IB1gFBVV95cUxQRklySWtiakY5OU9sS2VQTG9QSnRNOGVyNUpvNlBXUDZNWi1JTkNhMm5sdDRmWTRKRzROdm1JZ1g2TDJRZS1sZVJpcHp5X25uVEF2M2lzeWx5bDJpalBETDVVX09HNy1zR3o2ZWFjMlR6VWQ3dmVuQjlCOGplbWVBRnhmdFZDaHlWMDliMF9rdlIyYjZPbzlkcXdQRWh0QzlueU9ILVotSjRhbEd1MU1mUG1lNWt3R05Qb2VUNy1HTkdUR0dQQWlZTTIzSWN0LTZTczJ1ZjVB?oc=5
+- ‘Brahmins profiteering…’: Peter Navarro's latest take on India's Russian oil purchase - Hindustan Times
+  ‘Brahmins profiteering…�
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMjN6aHdHLXI2RjNCX2tXeHYzbkY0TVFGdWp2ODU0SUJMTFcxSmZpd2lUdmgtMlVxdjBsX25BUzFHcGpJcnpBSUJMS1pnWDNxamlMaW9Yd3pFQ3dhczlITlpXajktaDRxcFVDMFFUVVlZVUZxTkRGUjlJa05xWG5yTkFIb2xkanVldjc3ZlJ4QWxwWW05V3VzaG5LUjI2VlpIbXkyRVRQbnFwSHNrQmsxeVNVckswV1NFTjZISVlxVmtmSldCb0Mxa09FMVo1QWZTS0c0aDVBQzl6OGdVQXAxamtkZDVmaUU5a1NyYg?oc=5
 
-- 'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to taking ties forward on mutual - The Times of India
-  'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to taking
+- 'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to taking ties forward on mutual - Times of India
+  'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to
   🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPM1pPMTM2R2NtREd2Um9zM0dnUmpoMzYya0tubWc0SXlrVW5WaHVtbnRmcmllaThhX2pVdlhNanFrUmNhSktOZ0JpOHRpYWtfRHBaN05SRXZBb280ZEEyemM1QTlwZklGOEsyTDVpejRCV1prek16SkVqdmdLZHVfNkx5c3A2QzhFbXhlX3g0ejJhbWxfREJjMjFNcHhSYk56dGhPTHlhOGUxSmdtR0J1SDBaczNFSUNrWnFtZTBKUUFfMTlIUmZVQ2x0UGtwQ19tM2JidG9hSHpZa1NRNFZlbW9yTWdPV2hxcl9hZGJtd2dTQkVEMnl3Ukw3RFdYS3N1aW9ZNENEQS1MSEEwSDdXajAyQTJmUWhzTmlmQjItY2YyLW1a0gGqAkFVX3lxTE1yVUZIQURLR0kzOF92UUxQcHRXSEpOXzJuUWp0aW5tanUwenM2N2dtcGZmeG1jejNIRmZzWmZUVUljeGZicmdiQUlpbjVXVS00aEdRd1lnc2UxRU10Y1o2YkNiN0FwUG9kc3B6QlBUak1pYW9FU1E1WWVkbVNyLWZvVDVEYktFdlBVQ0pYY1c0NlZ2WXFZMUFPZVM5b1QxY1Z3ZGdMNkxSa1ZFYnZJSk9GaE5OZWpfMzduOUprZUpCc2FkT3lSOUVxUlUzUlNlT3lIN1pPb0NfUGpMdHZkdU0ycHhSaEZYanJkNGVzbVdaQ3VvdVR2blFhbU1NYUdnWjhNNkhkQlpkUEcycFJsa2dYR1dBMk44SE1Za2hXTjRQTUlSZldOMDhxQWc?oc=5
 
-- ‘India’s dependence on imported APIs is coming down’ | Latest News India - Hindustan Times - Hindustan Times
-  ‘India’s dependence on imported APIs is coming down�
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTE5hdE5VQ0JINzVqenI4U0tldGVsalhWMEhQMkJJT3k1dVA0ME9BbFdfM1VBTGNaRFZDeDd1OEZhdmdtRXVXaVRtLXJHaUs4bVljQWZxeHdaRXFWMHo1X3ZPU3pIY1d5eXBOZDhhU2ZlYVYxMGVFRHd4OGVfQnNqYXplRWwyMVNiYzVTVTBvU3dvNjFhQmpBdlJnWFM0Rk95ZFZCeW9PNWhvczV3eXYxVlZB0gG3AUFVX3lxTE05bEVNRDBOLVdhYmhrTC1SNzUwa1BmUDNqRm96VXNQWGxCbjZCclJUY0dYdUlYdVlvcGY0dy1GMFhrSWltUHBSTklkQWZZWWpGQzBKSVJVZEljZk11VE5VUW44dWs5c3Y4eXExbHpGR2JQaVJZOEFEN2xweFVYU0lFQ2hYRGx2VDcwWHJCSU8zZ1NyWHF1MlFWODdQekFQbUVON1I3b2JibzMydjZGS1lMVWZjT2hwWQ?oc=5
+- How US media covered Modi-Xi meet – ‘Trump’s pointless rupture will change India and world’ - financialexpress.com
+  ‘Trump’s pointless rupture will change India and world
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR0pqQWhUUmZncTBJZjF1XzYySWRsTklZaXpITXlLQUh6bDFwZWpMUi1LMUhRcGhBVlkzWFpMUldEcXBDdHhyOTJ6ZjVWdWNpbmtqdFhqRDdNRm9FMXExUElRU3BfbjV0ZlJXeVBUZ2F6MUxSNzlSeGFMaGFkbGRCWHEtZ0lBek1ZSW9CRXYwdXVSVFJYMXlyWEtmdHRwN0NIWXJvYldGclUwOG9hMEs3aC1NLUc2aS1TT2NERmxMWEpvX3c1UExmSTFlWVFFbERZb0hNLTBMUXZmYjlCejhpRg?oc=5
 
-- Nepal PM extends support to China’s global security initiative - The Indian Express
-  Nepal PM extends support to China�
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEh5MndCcjFsZEdVUjZWRUhsbmQxbGhMenppeHRiMnVOZEROUkhsM2hxQzRkZlUyaFBzTXo1TnRPdUlFbFVzMjA2MDh5ZWxoQWwzc0hJTFVZTDlBazFCSTM0bk9jSS1JVHBvMWRENlFPemtqVUtWNGVwZHBjU1hJV0h6WmpBVDNBc3U4NEcwcU44MHZCRVhoTEttUkt6TGtHandXa2UyTzBKWHc5TTg0VNIBtwFBVV95cUxPTk5KN0VMN2FaVUFfamg0OXhFam94MGhGbU8zVENUa2NoTTBIejVvMDBYVF9fM3FraktMdFRCRmh0T1Rfckg2V1E4MjFaZ0NHNWJjMGtzNFh5SmlMNTRCb0phTGZkeFZyU1ZRdDhJSkFuM2pGX2tUNlNTQ25tLWlNUVIxMHZnS1p2OUFOZTcyZlM2Z1VZX21DX1MzZmVROEtXOUwtTUFWdXRmdG9ISDdOR1BQNi12YzQ?oc=5
-
-- China and India pledge to be 'partners not rivals' at security summit - BBC
-  China and India pledge to be 'partners not
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lS2JfajUzQkhjc3QxT1UxY1JBQ0V0ODU4d1pDc0ZVUks3aS0yeHJIcFBMaGhDMHc3bDdDZkdaQnJKb2FEazFZWGZGQkNkUUNTbXlXaFFOSHRfQdIBX0FVX3lxTE5hWEUwdFpPM3ZDY2NMT21fSnoySU5mVWc1ZmFTX21vUFhPaWN6TVZGRU9OZmJkQ2tId2xONldwdmdxZ2ZpNEFpbFJlM2oySjNTNE9CdjU1Uzk5cnhCTmxR?oc=5
-
-- PM, Xi Boost India-China Ties With Direct Flights, Trade, Optics: 10 Points - NDTV
-  PM, Xi Boost India-China Ties With
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGFyLVVmRFdaai1XUmhyR3FXR3pNelZ3U2FpSS0teHcxdHUzM243MVZEa3VhMWFaNzNFSEZwTEdTT1YwbmxxU0lxRk1VN0lYdGxvWEQ5QlFTQVRLR2liSDVYS0NnRmtwWkMzb3lERnJ0MTI2Z2Y1Y216YV9SQWJGT2E0cEVldTZ3b1phNHBodTc5NG1SeWR2M0xHMnhzeGNyWXg5Uk5JV3puRVJ1V0poajZxbE5aX0xoSHpTUWE4UGFnU1I3NFcwXy1ta21pZ9IB1gFBVV95cUxQRklySWtiakY5OU9sS2VQTG9QSnRNOGVyNUpvNlBXUDZNWi1JTkNhMm5sdDRmWTRKRzROdm1JZ1g2TDJRZS1sZVJpcHp5X25uVEF2M2lzeWx5bDJpalBETDVVX09HNy1zR3o2ZWFjMlR6VWQ3dmVuQjlCOGplbWVBRnhmdFZDaHlWMDliMF9rdlIyYjZPbzlkcXdQRWh0QzlueU9ILVotSjRhbEd1MU1mUG1lNWt3R05Qb2VUNy1HTkdUR0dQQWlZTTIzSWN0LTZTczJ1ZjVB?oc=5
-
-- 'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to taking ties forward on mutual - The Times of India
-  'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to taking
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPM1pPMTM2R2NtREd2Um9zM0dnUmpoMzYya0tubWc0SXlrVW5WaHVtbnRmcmllaThhX2pVdlhNanFrUmNhSktOZ0JpOHRpYWtfRHBaN05SRXZBb280ZEEyemM1QTlwZklGOEsyTDVpejRCV1prek16SkVqdmdLZHVfNkx5c3A2QzhFbXhlX3g0ejJhbWxfREJjMjFNcHhSYk56dGhPTHlhOGUxSmdtR0J1SDBaczNFSUNrWnFtZTBKUUFfMTlIUmZVQ2x0UGtwQ19tM2JidG9hSHpZa1NRNFZlbW9yTWdPV2hxcl9hZGJtd2dTQkVEMnl3Ukw3RFdYS3N1aW9ZNENEQS1MSEEwSDdXajAyQTJmUWhzTmlmQjItY2YyLW1a0gGqAkFVX3lxTE1yVUZIQURLR0kzOF92UUxQcHRXSEpOXzJuUWp0aW5tanUwenM2N2dtcGZmeG1jejNIRmZzWmZUVUljeGZicmdiQUlpbjVXVS00aEdRd1lnc2UxRU10Y1o2YkNiN0FwUG9kc3B6QlBUak1pYW9FU1E1WWVkbVNyLWZvVDVEYktFdlBVQ0pYY1c0NlZ2WXFZMUFPZVM5b1QxY1Z3ZGdMNkxSa1ZFYnZJSk9GaE5OZWpfMzduOUprZUpCc2FkT3lSOUVxUlUzUlNlT3lIN1pPb0NfUGpMdHZkdU0ycHhSaEZYanJkNGVzbVdaQ3VvdVR2blFhbU1NYUdnWjhNNkhkQlpkUEcycFJsa2dYR1dBMk44SE1Za2hXTjRQTUlSZldOMDhxQWc?oc=5
-
-- ‘India’s dependence on imported APIs is coming down’ | Latest News India - Hindustan Times - Hindustan Times
-  ‘India’s dependence on imported APIs is coming down�
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTE5hdE5VQ0JINzVqenI4U0tldGVsalhWMEhQMkJJT3k1dVA0ME9BbFdfM1VBTGNaRFZDeDd1OEZhdmdtRXVXaVRtLXJHaUs4bVljQWZxeHdaRXFWMHo1X3ZPU3pIY1d5eXBOZDhhU2ZlYVYxMGVFRHd4OGVfQnNqYXplRWwyMVNiYzVTVTBvU3dvNjFhQmpBdlJnWFM0Rk95ZFZCeW9PNWhvczV3eXYxVlZB0gG3AUFVX3lxTE05bEVNRDBOLVdhYmhrTC1SNzUwa1BmUDNqRm96VXNQWGxCbjZCclJUY0dYdUlYdVlvcGY0dy1GMFhrSWltUHBSTklkQWZZWWpGQzBKSVJVZEljZk11VE5VUW44dWs5c3Y4eXExbHpGR2JQaVJZOEFEN2xweFVYU0lFQ2hYRGx2VDcwWHJCSU8zZ1NyWHF1MlFWODdQekFQbUVON1I3b2JibzMydjZGS1lMVWZjT2hwWQ?oc=5
-
-- Nepal PM extends support to China’s global security initiative - The Indian Express
-  Nepal PM extends support to China�
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEh5MndCcjFsZEdVUjZWRUhsbmQxbGhMenppeHRiMnVOZEROUkhsM2hxQzRkZlUyaFBzTXo1TnRPdUlFbFVzMjA2MDh5ZWxoQWwzc0hJTFVZTDlBazFCSTM0bk9jSS1JVHBvMWRENlFPemtqVUtWNGVwZHBjU1hJV0h6WmpBVDNBc3U4NEcwcU44MHZCRVhoTEttUkt6TGtHandXa2UyTzBKWHc5TTg0VNIBtwFBVV95cUxPTk5KN0VMN2FaVUFfamg0OXhFam94MGhGbU8zVENUa2NoTTBIejVvMDBYVF9fM3FraktMdFRCRmh0T1Rfckg2V1E4MjFaZ0NHNWJjMGtzNFh5SmlMNTRCb0phTGZkeFZyU1ZRdDhJSkFuM2pGX2tUNlNTQ25tLWlNUVIxMHZnS1p2OUFOZTcyZlM2Z1VZX21DX1MzZmVROEtXOUwtTUFWdXRmdG9ISDdOR1BQNi12YzQ?oc=5
-
-- China and India pledge to be 'partners not rivals' at security summit - BBC
-  China and India pledge to be 'partners not
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lS2JfajUzQkhjc3QxT1UxY1JBQ0V0ODU4d1pDc0ZVUks3aS0yeHJIcFBMaGhDMHc3bDdDZkdaQnJKb2FEazFZWGZGQkNkUUNTbXlXaFFOSHRfQdIBX0FVX3lxTE5hWEUwdFpPM3ZDY2NMT21fSnoySU5mVWc1ZmFTX21vUFhPaWN6TVZGRU9OZmJkQ2tId2xONldwdmdxZ2ZpNEFpbFJlM2oySjNTNE9CdjU1Uzk5cnhCTmxR?oc=5
-
-- PM, Xi Boost India-China Ties With Direct Flights, Trade, Optics: 10 Points - NDTV
-  PM, Xi Boost India-China Ties With
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGFyLVVmRFdaai1XUmhyR3FXR3pNelZ3U2FpSS0teHcxdHUzM243MVZEa3VhMWFaNzNFSEZwTEdTT1YwbmxxU0lxRk1VN0lYdGxvWEQ5QlFTQVRLR2liSDVYS0NnRmtwWkMzb3lERnJ0MTI2Z2Y1Y216YV9SQWJGT2E0cEVldTZ3b1phNHBodTc5NG1SeWR2M0xHMnhzeGNyWXg5Uk5JV3puRVJ1V0poajZxbE5aX0xoSHpTUWE4UGFnU1I3NFcwXy1ta21pZ9IB1gFBVV95cUxQRklySWtiakY5OU9sS2VQTG9QSnRNOGVyNUpvNlBXUDZNWi1JTkNhMm5sdDRmWTRKRzROdm1JZ1g2TDJRZS1sZVJpcHp5X25uVEF2M2lzeWx5bDJpalBETDVVX09HNy1zR3o2ZWFjMlR6VWQ3dmVuQjlCOGplbWVBRnhmdFZDaHlWMDliMF9rdlIyYjZPbzlkcXdQRWh0QzlueU9ILVotSjRhbEd1MU1mUG1lNWt3R05Qb2VUNy1HTkdUR0dQQWlZTTIzSWN0LTZTczJ1ZjVB?oc=5
-
-- 'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to taking ties forward on mutual - The Times of India
-  'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to taking
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPM1pPMTM2R2NtREd2Um9zM0dnUmpoMzYya0tubWc0SXlrVW5WaHVtbnRmcmllaThhX2pVdlhNanFrUmNhSktOZ0JpOHRpYWtfRHBaN05SRXZBb280ZEEyemM1QTlwZklGOEsyTDVpejRCV1prek16SkVqdmdLZHVfNkx5c3A2QzhFbXhlX3g0ejJhbWxfREJjMjFNcHhSYk56dGhPTHlhOGUxSmdtR0J1SDBaczNFSUNrWnFtZTBKUUFfMTlIUmZVQ2x0UGtwQ19tM2JidG9hSHpZa1NRNFZlbW9yTWdPV2hxcl9hZGJtd2dTQkVEMnl3Ukw3RFdYS3N1aW9ZNENEQS1MSEEwSDdXajAyQTJmUWhzTmlmQjItY2YyLW1a0gGqAkFVX3lxTE1yVUZIQURLR0kzOF92UUxQcHRXSEpOXzJuUWp0aW5tanUwenM2N2dtcGZmeG1jejNIRmZzWmZUVUljeGZicmdiQUlpbjVXVS00aEdRd1lnc2UxRU10Y1o2YkNiN0FwUG9kc3B6QlBUak1pYW9FU1E1WWVkbVNyLWZvVDVEYktFdlBVQ0pYY1c0NlZ2WXFZMUFPZVM5b1QxY1Z3ZGdMNkxSa1ZFYnZJSk9GaE5OZWpfMzduOUprZUpCc2FkT3lSOUVxUlUzUlNlT3lIN1pPb0NfUGpMdHZkdU0ycHhSaEZYanJkNGVzbVdaQ3VvdVR2blFhbU1NYUdnWjhNNkhkQlpkUEcycFJsa2dYR1dBMk44SE1Za2hXTjRQTUlSZldOMDhxQWc?oc=5
-
-- ‘India’s dependence on imported APIs is coming down’ | Latest News India - Hindustan Times - Hindustan Times
-  ‘India’s dependence on imported APIs is coming down�
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTE5hdE5VQ0JINzVqenI4U0tldGVsalhWMEhQMkJJT3k1dVA0ME9BbFdfM1VBTGNaRFZDeDd1OEZhdmdtRXVXaVRtLXJHaUs4bVljQWZxeHdaRXFWMHo1X3ZPU3pIY1d5eXBOZDhhU2ZlYVYxMGVFRHd4OGVfQnNqYXplRWwyMVNiYzVTVTBvU3dvNjFhQmpBdlJnWFM0Rk95ZFZCeW9PNWhvczV3eXYxVlZB0gG3AUFVX3lxTE05bEVNRDBOLVdhYmhrTC1SNzUwa1BmUDNqRm96VXNQWGxCbjZCclJUY0dYdUlYdVlvcGY0dy1GMFhrSWltUHBSTklkQWZZWWpGQzBKSVJVZEljZk11VE5VUW44dWs5c3Y4eXExbHpGR2JQaVJZOEFEN2xweFVYU0lFQ2hYRGx2VDcwWHJCSU8zZ1NyWHF1MlFWODdQekFQbUVON1I3b2JibzMydjZGS1lMVWZjT2hwWQ?oc=5
-
-- Nepal PM extends support to China’s global security initiative - The Indian Express
-  Nepal PM extends support to China�
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEh5MndCcjFsZEdVUjZWRUhsbmQxbGhMenppeHRiMnVOZEROUkhsM2hxQzRkZlUyaFBzTXo1TnRPdUlFbFVzMjA2MDh5ZWxoQWwzc0hJTFVZTDlBazFCSTM0bk9jSS1JVHBvMWRENlFPemtqVUtWNGVwZHBjU1hJV0h6WmpBVDNBc3U4NEcwcU44MHZCRVhoTEttUkt6TGtHandXa2UyTzBKWHc5TTg0VNIBtwFBVV95cUxPTk5KN0VMN2FaVUFfamg0OXhFam94MGhGbU8zVENUa2NoTTBIejVvMDBYVF9fM3FraktMdFRCRmh0T1Rfckg2V1E4MjFaZ0NHNWJjMGtzNFh5SmlMNTRCb0phTGZkeFZyU1ZRdDhJSkFuM2pGX2tUNlNTQ25tLWlNUVIxMHZnS1p2OUFOZTcyZlM2Z1VZX21DX1MzZmVROEtXOUwtTUFWdXRmdG9ISDdOR1BQNi12YzQ?oc=5
+- Trump tariffs on India: Would reciprocal tariffs on US be in India's benefit? Experts weigh in - Mint
+  The Indian government is considering imposing tariffs on imports from India. The
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNM2h6LTI5UVlwVmtnTTdqQWtOQlpoWXBySzh6ZW5sWlBITFVZaV9JbHNnYThndEZZRW8tTHJkWXpBZnMwbF82WjZENUE4M3JNTFhLUmtiQTZTblNxUWZ0d096QURpclg2bEIzWTRpd19CTTZpdjA1LWxrbjVtaDRTU3YybW9JUWtYNHB3NGJ5bW9raWJKb0NaRXBEZl9VdWZxcWtlZVhfajVCcy05TUhpMVhnMC1aSk5ZUTU4cEFfbVVvRldfSVlYaHVsa0pvWlZuRDBxOFFXcDJCSkpuZk16Ukl6UEswY29PZzNhVUFoTlVjXzDSAfgBQVVfeXFMTUJVN1BHWUMybk9Oc0N3bE1tMXNmS2F2eFFBajVOdkYtMWJfYS1jaUxGdlNxQjJIOEZFQUZLRWNSaXphbElZOVpFTFRSUlByV1pwS1NlUkRhU1JNemZ0S190aFdZaUZtRS1YN2dpd1NnNThuOU15OUE0Ulo2ZWV3bWFDa2RkTzBjcDVMZEdrMm11Skt1MzhnRDlPQTVCbkd3NFVVd3BDbFpsZnhyYmdwVElnaVZIQm14ZXZiOExVYUtZWFIxcTJ6eVMydUVDM1Nva0pjNHI4WU5ZREhlR0U5MGZyNm1TUmFtbTE0Uy1jb0FTc2tSWEV0ak8?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-01 01:22:55 UTC_
+_Last updated: 2025-09-01 06:28:38 UTC_
