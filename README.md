@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Revanth-led Telangana govt to hand over Kaleshwaram project probe to CBI
+- Ambitious plan for cheetah corridor between Madhya Pradesh, Rajasthan put on backburner
   
-  🔗 https://indianexpress.com/article/india/telangana-kaleshwaram-project-cbi-probe-revanth-reddy-10223493/
+  🔗 https://indianexpress.com/article/india/ambitious-plan-cheetah-corridor-between-madhya-pradesh-rajasthan-backburner-10224308/
 
-- Pakistan PM in attendance at SCO summit, Modi raises Pahalgam terror attack: ‘Assault on India’s soul, challenge to those who believe in humanity’
+- What is the total sanctioned strength of CBI and how many posts lie vacant?
   
-  🔗 https://indianexpress.com/article/india/pm-modi-sco-summit-address-china-xi-jinping-putin-10223470/
+  🔗 https://indianexpress.com/article/india/what-is-the-total-sanctioned-strength-of-cbi-and-how-many-posts-lie-vacant-10224127/
 
-- PM Modi at SCO summit: What he said on terrorism, sovereignty, global dialogue forum
+- Supreme Court dismisses PIL challenging E20 petrol policy and seeking ethanol-free petrol option
   
-  🔗 https://indianexpress.com/article/india/pm-modi-at-sco-summit-what-he-said-on-terrorism-sovereignty-global-dialogue-forum-10223435/
+  🔗 https://indianexpress.com/article/india/supreme-court-dismisses-pil-challenging-e20-petrol-policy-and-seeking-ethanol-free-petrol-option-10224111/
 
-- Gold Today Rate, September 1: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- ‘Read the judgement and then speak’: Facing Amit Shah heat on Salwa Judum judgement, INDIA bloc’s V-P candidate Sudershan Reddy responds
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-september-1-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10223372/
+  🔗 https://indianexpress.com/article/india/facing-amit-shah-heat-on-salwa-judum-judgement-sudershan-reddy-responds-10224061/
 
-- ‘Elephant capitulating before dragon’: Amid his China visit, Congress slams PM Modi for keeping mum on its Pakistan ties
+- US Embassy hails ‘enduring friendship’ with India as Modi meets Putin, Xi Jinping at SCO Summit
   
-  🔗 https://indianexpress.com/article/india/congress-government-narendra-modi-xi-jinping-talks-10223364/
+  🔗 https://indianexpress.com/article/india/us-embassy-hails-enduring-friendship-with-india-as-modi-meets-putin-xi-jinping-at-sco-summit-10223807/
+
+- I tried Google’s Nano Banana AI image editing model, and yes, I did take a selfie with Shah Rukh Khan
+  
+  🔗 https://indianexpress.com/article/technology/opinion-technology/i-tried-googles-nano-banana-ai-image-editing-model-and-yes-i-did-take-a-selfie-with-shah-rukh-khan-10223709/
+
+- Nvidia says 40% of Q2 FY26 revenue came from just 2 customers: Who are the mystery buyers?
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-majority-revenue-two-buyers-who-are-they-10223770/
 
 - OpenAI plans India data centre with at least 1 gigawatt capacity: Report
   
@@ -32,133 +40,145 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-clanker-became-an-anti-ai-rallying-cry-10223207/
 
-- How this AI company collapsed amid Silicon Valley’s biggest boom
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-this-ai-company-collapsed-amid-silicon-valleys-biggest-boom-10223200/
+- Anand Mahindra's ‘Monday Motivation’ is THIS 82-year-old weightlifting grandma — Here's how netizens reacted
+  Billionaire Anand Mahindra praised 82-year-old Kittammal V for breaking age stereotypes through
+  🔗 https://www.livemint.com/companies/people/anand-mahindra-billionaire-monday-motivation-82-year-old-weightlifting-grandma-how-netizens-reactions-india-trends-news-11756722691793.html
 
-- Mobile Premier League to lay off 60% of employees after online money gaming ban
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/mobile-premier-league-to-lay-off-60-of-employees-after-online-money-gaming-ban-10223181/
+- Jyske Bank Wins Negative-Rates Case, Easing Danish Industry Risk
+  Jyske Bank A/S won a closely watched court battle over its use of negative interest rates for retail customers. The ruling spares
+  🔗 https://www.livemint.com/companies/news/jyske-bank-wins-negative-rates-case-easing-danish-industry-risk-11756724076778.html
 
-- How Lenskart crafted a new vision in the eyewear sector
-   Lenskart is changing the eyewear sector with stores, technology
-  🔗 https://www.livemint.com/companies/how-lenskart-crafted-a-new-vision-in-the-eyewear-sector-11756699758172.html
+- Bankruptcy-bound Supertech gives possession of 6k flats in last 3 yrs; 15k buyers still stuck
+  Bankruptcy-bound Supertech gives possession of
+  🔗 https://www.livemint.com/companies/news/bankruptcybound-supertech-gives-possession-of-6k-flats-in-last-3-yrs-15k-buyers-still-stuck-11756723771110.html
 
-- Chinas GCL expects more information soon on polysilicon restructuring
-  China's GCL
-  🔗 https://www.livemint.com/companies/news/chinas-gcl-expects-more-information-soon-on-polysilicon-restructuring-11756701773018.html
+- Gold to the rescue: Muthoot Finance’s revival plan for struggling units
+  . After weak recoveries and high delinquencies post-
+  🔗 https://www.livemint.com/companies/news/muthoot-finance-gold-loans-to-the-rescue-11756639086310.html
 
-- Elev8 closes $160 million debut fund, targets unicorn pipeline with growth bets
-  Elev8's thesis spans premium consumer brands, tech-driven fintech and scalable B2B software
-  🔗 https://www.livemint.com/companies/news/elev8-venture-partners-final-close-maiden-fund-growth-stage-venture-capital-navin-honagudi-11756647670396.html
+- White-collar hiring up 3 pc in Aug; non-IT, AI-ML roles drive growth
+  White-collar hiring up 3 pc
+  🔗 https://www.livemint.com/companies/news/whitecollar-hiring-up-3-pc-in-aug-non-it-ai-ml-roles-drive-growth-11756722551257.html
 
-- AI now threatens a booming corner of tech hiring
-  Global capability centres or GCCs stood out as top recruiters even as IT companies slowed down recruitment amid AI disruption. But
-  🔗 https://www.livemint.com/companies/ai-is-now-causing-gccs-to-review-hiring-after-it-11756629875340.html
+- Trump tariff, valuation woes fail to deter DIIs as inflows into Indian stock market top  ₹5 lakh crore for second year
+  DIIs bought equities worth  ₹5.13 lakh crore in the past eight months, as per the NSE data. This is 97% of the full-
+  🔗 https://www.livemint.com/market/stock-market-news/dii-inflows-into-indian-stock-market-top-rs-5-lakh-crore-for-2nd-straight-year-despite-trump-tariff-valuation-woes-11756726695460.html
 
-- Ather’s Tarun Mehta Vs Ola’s Bhavish Aggarwal: A clash of strategies in India’s EV race
-  Ather Energy CEO Tarun Mehta says investing into new technology and the brand is better than setting up a component ecosystem. Ola Electric's Bhavish Aggarwal has a contrasting view
-  🔗 https://www.livemint.com/companies/news/athers-tushar-mehta-doesn-t-want-to-build-everything-in-house-battery-cell-components-ola-electric-bhavish-aggarwal-11756611281712.html
+- Amanta Healthcare IPO: Issue booked 4.6x times on the first day. Check GMP and other details
+  Amanta Healthcare IPO saw strong demand, closing its first day with 4.61 times subscription. The price band is set at  ₹120-126 per share, aiming to raise
+  🔗 https://www.livemint.com/market/ipo/amanta-healthcare-ipo-issue-booked-4-6x-times-on-the-first-day-check-gmp-and-other-details-11756726715259.html
 
-- Ride the (equity) waves: The power and pitfalls of momentum investing
-   Momentum trading requires staying on top of market trends, making swift decisions, and understanding when to exit, Equirus Wealth says.
-  🔗 https://www.livemint.com/market/stock-market-news/ride-the-equity-waves-the-power-and-pitfalls-of-momentum-investing-11756706929311.html
+- Pink of Health: Why hospital stocks are delivering hearty returns
+  Of the 10 midcaps that turned large-cap recently, two were hospitals. Similarly, of nine smallcaps that broke into the midcap league, two are hospitals.
+  🔗 https://www.livemint.com/market/india-healthcare-market-booming-hospital-stocks-surge-max-apollo-hospitals-11756718172678.html
 
-- Indian stock market: Nifty 50 reclaims 24,500. Dead cat bounce or sustained rally likely?
-  Nifty is currently hovering around its recent swing-low support range of 24,337–24,267. A decisive breakdown
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-nifty-50-reclaims-24-500-dead-cat-bounce-or-sustained-rally-likely-11756704539242.html
+- Stock market holiday: Is US stock market closed or open today for Labor Day 2025?
+  The benchmark indices will remain closed on the account of Labor Day 2025. The regular market holiday weekend will now extend a long weekend.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-is-nasdaq-nyse-wall-street-us-stock-market-closed-or-open-today-for-labor-day-2025-11756720990285.html
 
-- Macau Gaming Revenue Meets Estimate on Summer Holiday Boost
-  Macau’s gaming revenue rose 12.2% in August, roughly meeting analyst expectations. It was the best-performing post-
-  🔗 https://www.livemint.com/market/stock-market-news/macau-gaming-revenue-meets-estimate-on-summer-holiday-boost-11756706450260.html
+- SCO Summit 2025: New beginning in India-China ties? 5 outcomes from Modi-Xi meeting that may lift Dalal Street
+  New leaf in India-China relations has scope to positively impact the Indian stock market. From sectoral impact to sentiments, Modi-Xi meeting may prove to be
+  🔗 https://www.livemint.com/market/stock-market-news/sco-summit-2025-new-beginning-in-india-china-ties-5-outcomes-from-modi-xi-meeting-that-may-lift-dalal-street-11756724782420.html
 
-- Multibagger small-cap stock under  ₹15 climbs to 52-week peak, hits upper circuit for 19th straight session
-  Sellwin Traders shares reached a 52-week high of  ₹11.17, marking a 312% rise from its April low. The stock has gained 137
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-under-rs-15-climbs-to-52-week-peak-hits-upper-circuit-for-19th-straight-session-11756705855487.html
+- Elon Musk’s xAI accuses former engineer Xuechen Li of alleged theft of AI trade secrets
+   xAI, founded by Elon Musk, has filed a lawsuit against former engineer Xuechen Li. The lawsuit claims Li misappropriated trade secrets before joining OpenAI.
+  🔗 https://www.livemint.com/technology/tech-news/elon-musk-s-xai-accuses-former-engineer-xuechen-li-of-alleged-theft-of-ai-trade-secrets-openai-11756725484941.html
 
-- ₹23.06 to  ₹80.09: Small-cap multibagger stock hits upper circuit for 56 straight sessions; do you own?
-  Sampre Nutritions share price has jumped 45% in one month and has rallied 197% in three months. The small-cap stock is up 130% in six months, and 27% on a year-to-date
-  🔗 https://www.livemint.com/market/stock-market-news/rs-23-06-to-rs-80-09-small-cap-multibagger-stock-sampre-nutritions-shares-hit-upper-circuit-for-56-straight-sessions-11756705304390.html
+- OnePlus Pad 3 to go sale in India on 5 September: Price, launch offers, specs and all you need to know
+  The OnePlus Pad 3 is priced at  ₹47,999 and  ⁹52,999 for its two variants in India. It features a Snapdragon 8
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-pad-3-to-go-sale-in-india-on-5-september-price-launch-offers-specs-and-all-you-need-to-know-11756723975810.html
 
-- A base deep in the Swedish forest is part of Europes hope to compete in the space race
-  A base deep in the Swedish forest is part of Europe's hope
-  🔗 https://www.livemint.com/technology/tech-news/a-base-deep-in-the-swedish-forest-is-part-of-europes-hope-to-compete-in-the-space-race-11756706936025.html
+- Flipkart confirms Big Billion Days Sale 2025; bank offers, discounts expected
+   Flipkart has confirmed the return of its Big Billion Days Sale for 2025. While dates are unannounced, significant discounts on
+  🔗 https://www.livemint.com/technology/tech-news/flipkart-confirms-big-billion-days-sale-2025-bank-offers-discounts-expected-11756724230528.html
 
-- Why top AI talent is leaving Meta: Researchers head for the door, using Mark Zuckerberg’s own words to justify exit
-  Mark Zuckerberg's Meta faces challenges in its AI ambitions. Researchers leave the newly established Meta Superintelligence Labs. High salaries offered to attract talent from rivals.
-  🔗 https://www.livemint.com/technology/tech-news/why-top-ai-talent-is-leaving-meta-researchers-head-for-the-door-using-mark-zuckerberg-s-own-words-to-justify-exit-11756704340003.html
+- iPhone 17 Air could be Apple’s first e-SIM only iPhone for global markets: Here's what we know
+  Apple has been selling iPhones without physical SIM support in the US since the iPhone 14. A new leak suggests that the iPhone 17 Air could be Apple's fully e-
+  🔗 https://www.livemint.com/technology/tech-news/iphone-17-air-could-be-apple-s-first-e-sim-only-iphone-for-global-markets-heres-what-we-know-11756718100788.html
 
-- From Vision Pro refresh to Vision Air: What to expect from Apple’s next spatial devices
-  Apple is reportedly working on multiple Vision devices. A refreshed Vision Pro with an M5 chip, a Mac-linked edition for professionals, a lighter and cheaper “Vision Air
-  🔗 https://www.livemint.com/technology/gadgets/from-vision-pro-refresh-to-vision-air-what-to-expect-from-apple-s-next-spatial-devices-11756697783851.html
+- Apple to launch first retail store in South India with Bengaluru opening on 2 September
+  Apple will launch its first retail store in South India, Apple Hebbal in Bengaluru, on September 2. This store is the company's third in India, offering a complete product
+  🔗 https://www.livemint.com/technology/tech-news/apple-to-launch-first-retail-store-in-south-india-with-bengaluru-opening-on-2-september-11756719901068.html
 
-- Apple ‘Awe Dropping’ Event on 9 September: iPhone 17 Pro Max, 17 Air and 17 Pro pricing tipped
-  On 9 September 2025, Apple will present its 'Awe Dropping' keynote at the Steve Jobs Theatre, focusing on the iPhone 17
-  🔗 https://www.livemint.com/technology/gadgets/apple-awe-dropping-event-on-9-september-iphone-17-pro-max-17-air-and-17-pro-pricing-tipped-11756694956048.html
+- Auto stocks rise up to 6% ahead of GST council meeting. Tata Motors, Maruti, M&amp;M defy weak August sales
+  Auto stocks rallied up to 6% on Monday ahead of the key GST council meeting. Despite weak August sales, gains in Bajaj Auto, M&
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/auto-stocks-rise-up-to-6-ahead-of-gst-council-meeting-tata-motors-maruti-mm-defy-weak-august-sales/articleshow/123635371.cms
 
-- Amazon Kuiper plans India debut next year, lags satellite communication peers
-  The delay in India foray is because the Amazon arm is still to have a sufficient satellite constellation to launch the services commercially.
-  🔗 https://www.livemint.com/technology/amazon-kuiper-plans-india-debut-next-year-lags-satellite-communication-peers-11756625361899.html
+- Apollo Micro, Lumax Auto among 12 smallcap stocks that hit 52-week high; rally up to 55% in a month
+  On Monday, the Sensex closed 555 points higher at 80,364, lifting smallcaps sharply. Twelve BSE smallcap stocks hit fresh 52
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/apollo-micro-lumax-auto-among-12-smallcap-stocks-that-hit-52-week-high-rally-up-to-55-in-a-month/slideshow/123635233.cms
 
-- Gold surpasses U.S. Treasuries in central banks’ reserves for first time since 1996
-  Global central banks now hold more gold than U.S. Treasuries for the first time since 1996. The shift reflects sanctions risks, U.s. debt concerns, and diversification needs
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-surpasses-u-s-treasuries-in-central-banks-reserves-for-first-time-since-1996/articleshow/123628193.cms
+- Unlocking tactical opportunities in a dislocated bond market: Axis MF
+  Bond markets have been experiencing significant dislocation, says Axis Mutual Fund Research. Despite a supportive macroeconomic backdrop, rates have been cut.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/unlocking-tactical-opportunities-in-a-dislocated-bond-market-axis-mf/articleshow/123634594.cms
 
-- Gold, silver prices hit all-time highs tracking weak dollar; analysts see further upside
-  Gold and silver prices hit record highs on MCX as weak dollar, Fed rate cut hopes, and safe-haven demand boosted buying. Analysts expect volatility amid global trade tensions and ru
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-hit-all-time-highs-tracking-weak-dollar-analysts-see-further-upside/articleshow/123628108.cms
+- Reliance Jio IPO: Delay to 2026 seen as strategic move amid tariff uncertainty
+  Reliance Industries’ much-anticipated Jio IPO, once expected by the end of 2025, will now hit the
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-delay-to-2026-seen-as-strategic-move-amid-tariff-uncertainty/articleshow/123634502.cms
 
-- India’s 7.8% GDP growth sparks optimism, but sustainability faces key tests
-  India’s GDP grew 7.8% in Q1, driven by strong services and manufacturing. Full-year growth is expected at 6.6%, slightly above RBI�
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indias-7-8-gdp-growth-sparks-optimism-but-sustainability-faces-key-tests/articleshow/123628038.cms
+- Eternal and 5 other stocks reported declining EPS for 4 straight quarters
+  6 companies with over Rs 1,000 cr market cap reported declining EPS for four consecutive quarters up to June 2025
+  🔗 https://economictimes.indiatimes.com/markets/web-stories/eternal-and-5-other-stocks-reported-declining-eps-for-4-straight-quarters/slideshow/123634217.cms
 
-- Ashish Kachoia-backed Vikran Engineering IPO allotment likely today. Check status, GMP and other details
-  Vikran Engineering’s Rs 772-crore IPO allotment is likely to be finalised today. Backed by Ashish Kacholia and Mukul Agarwal
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ashish-kachoia-backed-vikran-engineering-ipo-allotment-likely-today-check-status-gmp-and-other-details/articleshow/123627896.cms
+- 'Brahmins profiteering': Donald Trump's trade adviser's latest jibe at India over Russian oil; defends ta - Times of India
+  'Brahmins profiteering': Donald Trump's trade adviser's latest
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNanQ1RzE1UHpOYnQ1LXM3VkQ3M2lCNXczLXN5SU84X2s5UHZ4QzVmQ3UxNkZkTkdSOHFxRHlIdnhzc09LUno5eGIxRzhmOWNNZ1dzSlk0TV9OMkNtNWYwMWdpQTJMeXRoRTdHU0dqbldpdnNHd21CMnd1OHczdm9KdmZ5dm0wZ2FRcEVlTDVPQjJ6cVJMQ0JBOFBKa0d2bFZETVNIRkRFdGx5UHNjYjlHa0NEYkFGdC1jYm5uclNyalMwQjYtNHVPMTJ0XzZPSVAtRWlwX1BMWXVHQnZ0RnEtNDZVa1JGZmJwOERxZnVzNWlkOHV5ZUhQWm94aW5xUUx1Z1JwUmg5eG5uN3UyRElJ0gGUAkFVX3lxTE9DdDRHSTFjRlFXdzgyNHI4M1NQY0gxVEdXOTRtdEw1b2NwOTMxWmFNY01aemwyb1JDWVp0LU5HdVF6aHVFQmRZM2thVG1IS0FtZVdBLW5fQjlpWFVjMHZlSVY2MUxxTGszOTU2bnphU2JWUnYzS1JTano3bVJLMVQ4UWw2UFNvc2hrVHhSZnRFYmpCNkJpWjhfUU5VUGtxV2pSY0o4QjJKRUVZeW1DY0FTVXFJTVR4algxQXp3N2hLb2pHSW1hTUpUQnR0Tk1BOWltcmZwaDRfbXJzQjlRVWtoZ0pwaUttX0x1c05vYzdLMG1CSjY4ci1qSHFwWXRyeklXSkc4R296RmdOalRZbDJBVDJsZQ?oc=5
 
-- Amanta Healthcare IPO subscribed 25% so far on Day 1; GMP at 15%. Should you bid?; Check key details
-  Amanta Healthcare shares commanding a 15% premium in the grey market over the issue’s upper price band of �
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/amanta-healthcare-ipo-subscribed-25-so-far-on-day-1-gmp-at-15-should-you-bid-check-key-details/articleshow/123627801.cms
+- PM, Xi Boost India-China Ties With Direct Flights, Trade, Optics: 10 Points - NDTV
+  PM, Xi Boost India-China Ties With
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGFyLVVmRFdaai1XUmhyR3FXR3pNelZ3U2FpSS0teHcxdHUzM243MVZEa3VhMWFaNzNFSEZwTEdTT1YwbmxxU0lxRk1VN0lYdGxvWEQ5QlFTQVRLR2liSDVYS0NnRmtwWkMzb3lERnJ0MTI2Z2Y1Y216YV9SQWJGT2E0cEVldTZ3b1phNHBodTc5NG1SeWR2M0xHMnhzeGNyWXg5Uk5JV3puRVJ1V0poajZxbE5aX0xoSHpTUWE4UGFnU1I3NFcwXy1ta21pZ9IB1gFBVV95cUxQRklySWtiakY5OU9sS2VQTG9QSnRNOGVyNUpvNlBXUDZNWi1JTkNhMm5sdDRmWTRKRzROdm1JZ1g2TDJRZS1sZVJpcHp5X25uVEF2M2lzeWx5bDJpalBETDVVX09HNy1zR3o2ZWFjMlR6VWQ3dmVuQjlCOGplbWVBRnhmdFZDaHlWMDliMF9rdlIyYjZPbzlkcXdQRWh0QzlueU9ILVotSjRhbEd1MU1mUG1lNWt3R05Qb2VUNy1HTkdUR0dQQWlZTTIzSWN0LTZTczJ1ZjVB?oc=5
 
-- "Brahmins Profiteering...": Top Trump Aide On India's Russian Oil Trade - NDTV
-  "Brahmins Profiteering..."
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNOGg5SW5lS1hvdW9NXzhMMU0zbDlveU1LYlBiNTlleWx1ckt2UW5LS1RzQXkxRDRMdXZqU1FkNzhpbWZIQmJzcU0xdEY5MnNxZWxHeVh6VUl6NGtUbXhTb1pxbzlZRlJMX2tGTkFNbEp1c3VtMGtRMGEwa1I1cTlRRG9qODU3T1BNTFcwYWNHMFozQTZqMFp3ZzlDeTg3UmpESllJTjd2NlNJMGpuYnNmQUszOEFQOXZORFpBLWlLVjNkUTJaZkJiVS00S1l4aTRsN0V2LVM3UFBjWWlpbmdaNkVCSlhqWjdyVW0yU3V4eHlKWGdoVlUySEVmNXdsZ0NkcU9IWNIBjAJBVV95cUxOalNjTHFiXzhnclNEcU51TE52VVJUZW1CcGotU3FNOW5KMUdtREszdEYtMldfaF9sdmtwdGxPSXZ0YVlVNHVNekpCOVE2WUtSUkpUdnJrQl93WE1jdS1HS0JkRE5WSUdCWHpONmQyUFpZOGk3dS1GaXRuM0V6UEowdVdHZjBoUFdGQnphNkN3SmUzQlBkaFM1UFQtT0tDWl9RcWJUVEZoVDJ6M0M1ZV8ybkw1MGlkRk9tbWpNRkhQelF2ME9VbnpXNC1DUndXZGduSC1EM3pHcjJnUWRXOXBmMHZPdVJMYUJwZ2RLTDlhbnkxMXBxaUExcWFDUkZhU28wbTB2RXpyQmlQWXpz?oc=5
+- Former Vice President Jagdeep Dhankhar Vacates Official Residence - News18
+  Former Vice President Jagdeep Dh
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlRhWWMxRDN5Z1ktd0d5WTNDLU1IeDEzRVd0VUVnT0pEQUJyVUVoWmVTcF9hVFlGY1dCRHlRY19ibDM2cThBVUFOcGl1OFBqeGlZelBRemxydGxUMk1NQWo3V2U2ZmgzSWdpdWhQTWdfb2xZM21jcU9ReHRFUjJ0OXNaX09zNmJjSzlVNDJRVGFoMERjTFFNcFRIUkxFR2VuZlhEcU9zby1NMDjSAbABQVVfeXFMTkZuelYxaGxBV2Z2dGRPbTBjTWhhTVJDU3ZBTTBqQ1RiNFBMREVPTHhndVRxLUJHRDZXb0tGR0lld2k2Ujk0YzAyanlsNlAzNWx3T1A4VEg3YmpBRzJMbkpoaFFsdDYzVm93VVZCWWlvQ3A1dkZ0bTFGdlBkOFRWMmY4a1doM25TR0tWeVNvVm9lT2dyZng2V21mbjdyZjFYQVJDY3ZZOWZRLVlINzl1RHg?oc=5
 
-- ‘Brahmins profiteering…’: Peter Navarro's latest take on India's Russian oil purchase - Hindustan Times
-  ‘Brahmins profiteering…�
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMjN6aHdHLXI2RjNCX2tXeHYzbkY0TVFGdWp2ODU0SUJMTFcxSmZpd2lUdmgtMlVxdjBsX25BUzFHcGpJcnpBSUJMS1pnWDNxamlMaW9Yd3pFQ3dhczlITlpXajktaDRxcFVDMFFUVVlZVUZxTkRGUjlJa05xWG5yTkFIb2xkanVldjc3ZlJ4QWxwWW05V3VzaG5LUjI2VlpIbXkyRVRQbnFwSHNrQmsxeVNVckswV1NFTjZISVlxVmtmSldCb0Mxa09FMVo1QWZTS0c0aDVBQzl6OGdVQXAxamtkZDVmaUU5a1NyYg?oc=5
+- FIR Lodged After Palestinian Flag Hoisted On UP School Building - NDTV
+  FIR Lodged After Palestinian Flag Hoisted
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOamdtRmtjcGUzNUNiNlJwV3FEajBzMVpmdS1HcVdhXzZVRERKS2ZsNmpOVzV4RUgyU01FUU5CR2F6NjRzdjQ2MkoybTBwLUJBT2FDTEJxaTlVVncyQnpaVEJNLVlfakxYLXFLTzk5aXdQZFJVd0ZtVzFVZzlkXzk3MkxhS0hxMTFzREFrTU5iOVNOSi1SYUNwajA2NkNYbUtJYVU0OHFB0gGuAUFVX3lxTE5tbFV6aWtpNlRvSXhnMGhLRXRnZ1FuN2hTcFN5M0NnbEFHMWxhZnJTakc4LVV2aFZaNXY2VzNyRXhFVmZmSkxoWExqLTZGNzh5a1hnMW9aMm42WEhpZ25BSUtuSTltaVRxbXlPU0s5TmE0S1FBSnp5QmNieV9rVnRhcVhWX2ZZeWtHc2NNSVVjVTdtOGRUd0xLdDladlAwVFlfbVpJOFJoMGZZay1xZw?oc=5
 
-- 'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to taking ties forward on mutual - Times of India
-  'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPM1pPMTM2R2NtREd2Um9zM0dnUmpoMzYya0tubWc0SXlrVW5WaHVtbnRmcmllaThhX2pVdlhNanFrUmNhSktOZ0JpOHRpYWtfRHBaN05SRXZBb280ZEEyemM1QTlwZklGOEsyTDVpejRCV1prek16SkVqdmdLZHVfNkx5c3A2QzhFbXhlX3g0ejJhbWxfREJjMjFNcHhSYk56dGhPTHlhOGUxSmdtR0J1SDBaczNFSUNrWnFtZTBKUUFfMTlIUmZVQ2x0UGtwQ19tM2JidG9hSHpZa1NRNFZlbW9yTWdPV2hxcl9hZGJtd2dTQkVEMnl3Ukw3RFdYS3N1aW9ZNENEQS1MSEEwSDdXajAyQTJmUWhzTmlmQjItY2YyLW1a0gGqAkFVX3lxTE1yVUZIQURLR0kzOF92UUxQcHRXSEpOXzJuUWp0aW5tanUwenM2N2dtcGZmeG1jejNIRmZzWmZUVUljeGZicmdiQUlpbjVXVS00aEdRd1lnc2UxRU10Y1o2YkNiN0FwUG9kc3B6QlBUak1pYW9FU1E1WWVkbVNyLWZvVDVEYktFdlBVQ0pYY1c0NlZ2WXFZMUFPZVM5b1QxY1Z3ZGdMNkxSa1ZFYnZJSk9GaE5OZWpfMzduOUprZUpCc2FkT3lSOUVxUlUzUlNlT3lIN1pPb0NfUGpMdHZkdU0ycHhSaEZYanJkNGVzbVdaQ3VvdVR2blFhbU1NYUdnWjhNNkhkQlpkUEcycFJsa2dYR1dBMk44SE1Za2hXTjRQTUlSZldOMDhxQWc?oc=5
+- "Dirty Political Game": Army Removes Protest Stage, Trinamool Slams Centre - NDTV
+  "Dirty Political Game": Army Rem
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaTFlemRma3hhN2dMa2t2MERlVkZUbHMzNTZ1Mm8xMk9xaW1JbjQwanV0eVJScGJBdnJCTENPMXdnd2l5V1BFVkJydDFJZnlsNXhnZ3pKLWp3OFViZjBzTDF0U3dpM0Y3a3JWZzJpanlFUFVlRTJPaFBJUURwakxiUnNYRVVZTTN0LXd0NVdyMHA2S1pLWHpxRHpKWXpyMW9JOUpmN3hsODdYSXRCR1dmMUN1V1BCeDRfOGdxTUxxbl9PMkx2M2JJblhlazBMcUkyOHfSAdoBQVVfeXFMTmtWVzBtMWh5aUc1VGxsOHBkQ2FzS1pGUkgxSUM4YnZKN2ZhYXlKTnNuUTFSdzhvRUVnekY5YWh3dHZYSUVEdnUySVExT09yMVNYSVU3cUR1LTAyU1k1cE1KM3h4bTJ2bTItVC1RTDh4UmQ4c0M2THhjWEMtRmtldkRScWR2RmV2cXVRa1M0V2o4SzhQTVI2ZGwtUVFsbjktc2NZMjJWV2FGdlVlclo4QlZXU2JWS0U0WmNpNGhIYVFLRXBSQm5qQWNYYjJoYzctcS1jNUc1THN6Unc?oc=5
 
-- How US media covered Modi-Xi meet – ‘Trump’s pointless rupture will change India and world’ - financialexpress.com
-  ‘Trump’s pointless rupture will change India and world
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR0pqQWhUUmZncTBJZjF1XzYySWRsTklZaXpITXlLQUh6bDFwZWpMUi1LMUhRcGhBVlkzWFpMUldEcXBDdHhyOTJ6ZjVWdWNpbmtqdFhqRDdNRm9FMXExUElRU3BfbjV0ZlJXeVBUZ2F6MUxSNzlSeGFMaGFkbGRCWHEtZ0lBek1ZSW9CRXYwdXVSVFJYMXlyWEtmdHRwN0NIWXJvYldGclUwOG9hMEs3aC1NLUc2aS1TT2NERmxMWEpvX3c1UExmSTFlWVFFbERZb0hNLTBMUXZmYjlCejhpRg?oc=5
+- 'Brahmins profiteering': Donald Trump's trade adviser's latest jibe at India over Russian oil; defends ta - Times of India
+  'Brahmins profiteering': Donald Trump's trade adviser's latest
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNanQ1RzE1UHpOYnQ1LXM3VkQ3M2lCNXczLXN5SU84X2s5UHZ4QzVmQ3UxNkZkTkdSOHFxRHlIdnhzc09LUno5eGIxRzhmOWNNZ1dzSlk0TV9OMkNtNWYwMWdpQTJMeXRoRTdHU0dqbldpdnNHd21CMnd1OHczdm9KdmZ5dm0wZ2FRcEVlTDVPQjJ6cVJMQ0JBOFBKa0d2bFZETVNIRkRFdGx5UHNjYjlHa0NEYkFGdC1jYm5uclNyalMwQjYtNHVPMTJ0XzZPSVAtRWlwX1BMWXVHQnZ0RnEtNDZVa1JGZmJwOERxZnVzNWlkOHV5ZUhQWm94aW5xUUx1Z1JwUmg5eG5uN3UyRElJ0gGUAkFVX3lxTE9DdDRHSTFjRlFXdzgyNHI4M1NQY0gxVEdXOTRtdEw1b2NwOTMxWmFNY01aemwyb1JDWVp0LU5HdVF6aHVFQmRZM2thVG1IS0FtZVdBLW5fQjlpWFVjMHZlSVY2MUxxTGszOTU2bnphU2JWUnYzS1JTano3bVJLMVQ4UWw2UFNvc2hrVHhSZnRFYmpCNkJpWjhfUU5VUGtxV2pSY0o4QjJKRUVZeW1DY0FTVXFJTVR4algxQXp3N2hLb2pHSW1hTUpUQnR0Tk1BOWltcmZwaDRfbXJzQjlRVWtoZ0pwaUttX0x1c05vYzdLMG1CSjY4ci1qSHFwWXRyeklXSkc4R296RmdOalRZbDJBVDJsZQ?oc=5
 
-- Trump tariffs on India: Would reciprocal tariffs on US be in India's benefit? Experts weigh in - Mint
-  The Indian government is considering imposing tariffs on imports from India. The
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNM2h6LTI5UVlwVmtnTTdqQWtOQlpoWXBySzh6ZW5sWlBITFVZaV9JbHNnYThndEZZRW8tTHJkWXpBZnMwbF82WjZENUE4M3JNTFhLUmtiQTZTblNxUWZ0d096QURpclg2bEIzWTRpd19CTTZpdjA1LWxrbjVtaDRTU3YybW9JUWtYNHB3NGJ5bW9raWJKb0NaRXBEZl9VdWZxcWtlZVhfajVCcy05TUhpMVhnMC1aSk5ZUTU4cEFfbVVvRldfSVlYaHVsa0pvWlZuRDBxOFFXcDJCSkpuZk16Ukl6UEswY29PZzNhVUFoTlVjXzDSAfgBQVVfeXFMTUJVN1BHWUMybk9Oc0N3bE1tMXNmS2F2eFFBajVOdkYtMWJfYS1jaUxGdlNxQjJIOEZFQUZLRWNSaXphbElZOVpFTFRSUlByV1pwS1NlUkRhU1JNemZ0S190aFdZaUZtRS1YN2dpd1NnNThuOU15OUE0Ulo2ZWV3bWFDa2RkTzBjcDVMZEdrMm11Skt1MzhnRDlPQTVCbkd3NFVVd3BDbFpsZnhyYmdwVElnaVZIQm14ZXZiOExVYUtZWFIxcTJ6eVMydUVDM1Nva0pjNHI4WU5ZREhlR0U5MGZyNm1TUmFtbTE0Uy1jb0FTc2tSWEV0ak8?oc=5
+- PM, Xi Boost India-China Ties With Direct Flights, Trade, Optics: 10 Points - NDTV
+  PM, Xi Boost India-China Ties With
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGFyLVVmRFdaai1XUmhyR3FXR3pNelZ3U2FpSS0teHcxdHUzM243MVZEa3VhMWFaNzNFSEZwTEdTT1YwbmxxU0lxRk1VN0lYdGxvWEQ5QlFTQVRLR2liSDVYS0NnRmtwWkMzb3lERnJ0MTI2Z2Y1Y216YV9SQWJGT2E0cEVldTZ3b1phNHBodTc5NG1SeWR2M0xHMnhzeGNyWXg5Uk5JV3puRVJ1V0poajZxbE5aX0xoSHpTUWE4UGFnU1I3NFcwXy1ta21pZ9IB1gFBVV95cUxQRklySWtiakY5OU9sS2VQTG9QSnRNOGVyNUpvNlBXUDZNWi1JTkNhMm5sdDRmWTRKRzROdm1JZ1g2TDJRZS1sZVJpcHp5X25uVEF2M2lzeWx5bDJpalBETDVVX09HNy1zR3o2ZWFjMlR6VWQ3dmVuQjlCOGplbWVBRnhmdFZDaHlWMDliMF9rdlIyYjZPbzlkcXdQRWh0QzlueU9ILVotSjRhbEd1MU1mUG1lNWt3R05Qb2VUNy1HTkdUR0dQQWlZTTIzSWN0LTZTczJ1ZjVB?oc=5
 
-- "Brahmins Profiteering...": Top Trump Aide On India's Russian Oil Trade - NDTV
-  "Brahmins Profiteering..."
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNOGg5SW5lS1hvdW9NXzhMMU0zbDlveU1LYlBiNTlleWx1ckt2UW5LS1RzQXkxRDRMdXZqU1FkNzhpbWZIQmJzcU0xdEY5MnNxZWxHeVh6VUl6NGtUbXhTb1pxbzlZRlJMX2tGTkFNbEp1c3VtMGtRMGEwa1I1cTlRRG9qODU3T1BNTFcwYWNHMFozQTZqMFp3ZzlDeTg3UmpESllJTjd2NlNJMGpuYnNmQUszOEFQOXZORFpBLWlLVjNkUTJaZkJiVS00S1l4aTRsN0V2LVM3UFBjWWlpbmdaNkVCSlhqWjdyVW0yU3V4eHlKWGdoVlUySEVmNXdsZ0NkcU9IWNIBjAJBVV95cUxOalNjTHFiXzhnclNEcU51TE52VVJUZW1CcGotU3FNOW5KMUdtREszdEYtMldfaF9sdmtwdGxPSXZ0YVlVNHVNekpCOVE2WUtSUkpUdnJrQl93WE1jdS1HS0JkRE5WSUdCWHpONmQyUFpZOGk3dS1GaXRuM0V6UEowdVdHZjBoUFdGQnphNkN3SmUzQlBkaFM1UFQtT0tDWl9RcWJUVEZoVDJ6M0M1ZV8ybkw1MGlkRk9tbWpNRkhQelF2ME9VbnpXNC1DUndXZGduSC1EM3pHcjJnUWRXOXBmMHZPdVJMYUJwZ2RLTDlhbnkxMXBxaUExcWFDUkZhU28wbTB2RXpyQmlQWXpz?oc=5
+- Former Vice President Jagdeep Dhankhar Vacates Official Residence - News18
+  Former Vice President Jagdeep Dh
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlRhWWMxRDN5Z1ktd0d5WTNDLU1IeDEzRVd0VUVnT0pEQUJyVUVoWmVTcF9hVFlGY1dCRHlRY19ibDM2cThBVUFOcGl1OFBqeGlZelBRemxydGxUMk1NQWo3V2U2ZmgzSWdpdWhQTWdfb2xZM21jcU9ReHRFUjJ0OXNaX09zNmJjSzlVNDJRVGFoMERjTFFNcFRIUkxFR2VuZlhEcU9zby1NMDjSAbABQVVfeXFMTkZuelYxaGxBV2Z2dGRPbTBjTWhhTVJDU3ZBTTBqQ1RiNFBMREVPTHhndVRxLUJHRDZXb0tGR0lld2k2Ujk0YzAyanlsNlAzNWx3T1A4VEg3YmpBRzJMbkpoaFFsdDYzVm93VVZCWWlvQ3A1dkZ0bTFGdlBkOFRWMmY4a1doM25TR0tWeVNvVm9lT2dyZng2V21mbjdyZjFYQVJDY3ZZOWZRLVlINzl1RHg?oc=5
 
-- ‘Brahmins profiteering…’: Peter Navarro's latest take on India's Russian oil purchase - Hindustan Times
-  ‘Brahmins profiteering…�
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMjN6aHdHLXI2RjNCX2tXeHYzbkY0TVFGdWp2ODU0SUJMTFcxSmZpd2lUdmgtMlVxdjBsX25BUzFHcGpJcnpBSUJMS1pnWDNxamlMaW9Yd3pFQ3dhczlITlpXajktaDRxcFVDMFFUVVlZVUZxTkRGUjlJa05xWG5yTkFIb2xkanVldjc3ZlJ4QWxwWW05V3VzaG5LUjI2VlpIbXkyRVRQbnFwSHNrQmsxeVNVckswV1NFTjZISVlxVmtmSldCb0Mxa09FMVo1QWZTS0c0aDVBQzl6OGdVQXAxamtkZDVmaUU5a1NyYg?oc=5
+- FIR Lodged After Palestinian Flag Hoisted On UP School Building - NDTV
+  FIR Lodged After Palestinian Flag Hoisted
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOamdtRmtjcGUzNUNiNlJwV3FEajBzMVpmdS1HcVdhXzZVRERKS2ZsNmpOVzV4RUgyU01FUU5CR2F6NjRzdjQ2MkoybTBwLUJBT2FDTEJxaTlVVncyQnpaVEJNLVlfakxYLXFLTzk5aXdQZFJVd0ZtVzFVZzlkXzk3MkxhS0hxMTFzREFrTU5iOVNOSi1SYUNwajA2NkNYbUtJYVU0OHFB0gGuAUFVX3lxTE5tbFV6aWtpNlRvSXhnMGhLRXRnZ1FuN2hTcFN5M0NnbEFHMWxhZnJTakc4LVV2aFZaNXY2VzNyRXhFVmZmSkxoWExqLTZGNzh5a1hnMW9aMm42WEhpZ25BSUtuSTltaVRxbXlPU0s5TmE0S1FBSnp5QmNieV9rVnRhcVhWX2ZZeWtHc2NNSVVjVTdtOGRUd0xLdDladlAwVFlfbVpJOFJoMGZZay1xZw?oc=5
 
-- 'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to taking ties forward on mutual - Times of India
-  'Right choice for India-China to be friends': PM Modi, Xi Jinping commit to
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPM1pPMTM2R2NtREd2Um9zM0dnUmpoMzYya0tubWc0SXlrVW5WaHVtbnRmcmllaThhX2pVdlhNanFrUmNhSktOZ0JpOHRpYWtfRHBaN05SRXZBb280ZEEyemM1QTlwZklGOEsyTDVpejRCV1prek16SkVqdmdLZHVfNkx5c3A2QzhFbXhlX3g0ejJhbWxfREJjMjFNcHhSYk56dGhPTHlhOGUxSmdtR0J1SDBaczNFSUNrWnFtZTBKUUFfMTlIUmZVQ2x0UGtwQ19tM2JidG9hSHpZa1NRNFZlbW9yTWdPV2hxcl9hZGJtd2dTQkVEMnl3Ukw3RFdYS3N1aW9ZNENEQS1MSEEwSDdXajAyQTJmUWhzTmlmQjItY2YyLW1a0gGqAkFVX3lxTE1yVUZIQURLR0kzOF92UUxQcHRXSEpOXzJuUWp0aW5tanUwenM2N2dtcGZmeG1jejNIRmZzWmZUVUljeGZicmdiQUlpbjVXVS00aEdRd1lnc2UxRU10Y1o2YkNiN0FwUG9kc3B6QlBUak1pYW9FU1E1WWVkbVNyLWZvVDVEYktFdlBVQ0pYY1c0NlZ2WXFZMUFPZVM5b1QxY1Z3ZGdMNkxSa1ZFYnZJSk9GaE5OZWpfMzduOUprZUpCc2FkT3lSOUVxUlUzUlNlT3lIN1pPb0NfUGpMdHZkdU0ycHhSaEZYanJkNGVzbVdaQ3VvdVR2blFhbU1NYUdnWjhNNkhkQlpkUEcycFJsa2dYR1dBMk44SE1Za2hXTjRQTUlSZldOMDhxQWc?oc=5
+- "Dirty Political Game": Army Removes Protest Stage, Trinamool Slams Centre - NDTV
+  "Dirty Political Game": Army Rem
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaTFlemRma3hhN2dMa2t2MERlVkZUbHMzNTZ1Mm8xMk9xaW1JbjQwanV0eVJScGJBdnJCTENPMXdnd2l5V1BFVkJydDFJZnlsNXhnZ3pKLWp3OFViZjBzTDF0U3dpM0Y3a3JWZzJpanlFUFVlRTJPaFBJUURwakxiUnNYRVVZTTN0LXd0NVdyMHA2S1pLWHpxRHpKWXpyMW9JOUpmN3hsODdYSXRCR1dmMUN1V1BCeDRfOGdxTUxxbl9PMkx2M2JJblhlazBMcUkyOHfSAdoBQVVfeXFMTmtWVzBtMWh5aUc1VGxsOHBkQ2FzS1pGUkgxSUM4YnZKN2ZhYXlKTnNuUTFSdzhvRUVnekY5YWh3dHZYSUVEdnUySVExT09yMVNYSVU3cUR1LTAyU1k1cE1KM3h4bTJ2bTItVC1RTDh4UmQ4c0M2THhjWEMtRmtldkRScWR2RmV2cXVRa1M0V2o4SzhQTVI2ZGwtUVFsbjktc2NZMjJWV2FGdlVlclo4QlZXU2JWS0U0WmNpNGhIYVFLRXBSQm5qQWNYYjJoYzctcS1jNUc1THN6Unc?oc=5
 
-- How US media covered Modi-Xi meet – ‘Trump’s pointless rupture will change India and world’ - financialexpress.com
-  ‘Trump’s pointless rupture will change India and world
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR0pqQWhUUmZncTBJZjF1XzYySWRsTklZaXpITXlLQUh6bDFwZWpMUi1LMUhRcGhBVlkzWFpMUldEcXBDdHhyOTJ6ZjVWdWNpbmtqdFhqRDdNRm9FMXExUElRU3BfbjV0ZlJXeVBUZ2F6MUxSNzlSeGFMaGFkbGRCWHEtZ0lBek1ZSW9CRXYwdXVSVFJYMXlyWEtmdHRwN0NIWXJvYldGclUwOG9hMEs3aC1NLUc2aS1TT2NERmxMWEpvX3c1UExmSTFlWVFFbERZb0hNLTBMUXZmYjlCejhpRg?oc=5
+- 'Brahmins profiteering': Donald Trump's trade adviser's latest jibe at India over Russian oil; defends ta - Times of India
+  'Brahmins profiteering': Donald Trump's trade adviser's latest
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNanQ1RzE1UHpOYnQ1LXM3VkQ3M2lCNXczLXN5SU84X2s5UHZ4QzVmQ3UxNkZkTkdSOHFxRHlIdnhzc09LUno5eGIxRzhmOWNNZ1dzSlk0TV9OMkNtNWYwMWdpQTJMeXRoRTdHU0dqbldpdnNHd21CMnd1OHczdm9KdmZ5dm0wZ2FRcEVlTDVPQjJ6cVJMQ0JBOFBKa0d2bFZETVNIRkRFdGx5UHNjYjlHa0NEYkFGdC1jYm5uclNyalMwQjYtNHVPMTJ0XzZPSVAtRWlwX1BMWXVHQnZ0RnEtNDZVa1JGZmJwOERxZnVzNWlkOHV5ZUhQWm94aW5xUUx1Z1JwUmg5eG5uN3UyRElJ0gGUAkFVX3lxTE9DdDRHSTFjRlFXdzgyNHI4M1NQY0gxVEdXOTRtdEw1b2NwOTMxWmFNY01aemwyb1JDWVp0LU5HdVF6aHVFQmRZM2thVG1IS0FtZVdBLW5fQjlpWFVjMHZlSVY2MUxxTGszOTU2bnphU2JWUnYzS1JTano3bVJLMVQ4UWw2UFNvc2hrVHhSZnRFYmpCNkJpWjhfUU5VUGtxV2pSY0o4QjJKRUVZeW1DY0FTVXFJTVR4algxQXp3N2hLb2pHSW1hTUpUQnR0Tk1BOWltcmZwaDRfbXJzQjlRVWtoZ0pwaUttX0x1c05vYzdLMG1CSjY4ci1qSHFwWXRyeklXSkc4R296RmdOalRZbDJBVDJsZQ?oc=5
 
-- Trump tariffs on India: Would reciprocal tariffs on US be in India's benefit? Experts weigh in - Mint
-  The Indian government is considering imposing tariffs on imports from India. The
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNM2h6LTI5UVlwVmtnTTdqQWtOQlpoWXBySzh6ZW5sWlBITFVZaV9JbHNnYThndEZZRW8tTHJkWXpBZnMwbF82WjZENUE4M3JNTFhLUmtiQTZTblNxUWZ0d096QURpclg2bEIzWTRpd19CTTZpdjA1LWxrbjVtaDRTU3YybW9JUWtYNHB3NGJ5bW9raWJKb0NaRXBEZl9VdWZxcWtlZVhfajVCcy05TUhpMVhnMC1aSk5ZUTU4cEFfbVVvRldfSVlYaHVsa0pvWlZuRDBxOFFXcDJCSkpuZk16Ukl6UEswY29PZzNhVUFoTlVjXzDSAfgBQVVfeXFMTUJVN1BHWUMybk9Oc0N3bE1tMXNmS2F2eFFBajVOdkYtMWJfYS1jaUxGdlNxQjJIOEZFQUZLRWNSaXphbElZOVpFTFRSUlByV1pwS1NlUkRhU1JNemZ0S190aFdZaUZtRS1YN2dpd1NnNThuOU15OUE0Ulo2ZWV3bWFDa2RkTzBjcDVMZEdrMm11Skt1MzhnRDlPQTVCbkd3NFVVd3BDbFpsZnhyYmdwVElnaVZIQm14ZXZiOExVYUtZWFIxcTJ6eVMydUVDM1Nva0pjNHI4WU5ZREhlR0U5MGZyNm1TUmFtbTE0Uy1jb0FTc2tSWEV0ak8?oc=5
+- PM, Xi Boost India-China Ties With Direct Flights, Trade, Optics: 10 Points - NDTV
+  PM, Xi Boost India-China Ties With
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGFyLVVmRFdaai1XUmhyR3FXR3pNelZ3U2FpSS0teHcxdHUzM243MVZEa3VhMWFaNzNFSEZwTEdTT1YwbmxxU0lxRk1VN0lYdGxvWEQ5QlFTQVRLR2liSDVYS0NnRmtwWkMzb3lERnJ0MTI2Z2Y1Y216YV9SQWJGT2E0cEVldTZ3b1phNHBodTc5NG1SeWR2M0xHMnhzeGNyWXg5Uk5JV3puRVJ1V0poajZxbE5aX0xoSHpTUWE4UGFnU1I3NFcwXy1ta21pZ9IB1gFBVV95cUxQRklySWtiakY5OU9sS2VQTG9QSnRNOGVyNUpvNlBXUDZNWi1JTkNhMm5sdDRmWTRKRzROdm1JZ1g2TDJRZS1sZVJpcHp5X25uVEF2M2lzeWx5bDJpalBETDVVX09HNy1zR3o2ZWFjMlR6VWQ3dmVuQjlCOGplbWVBRnhmdFZDaHlWMDliMF9rdlIyYjZPbzlkcXdQRWh0QzlueU9ILVotSjRhbEd1MU1mUG1lNWt3R05Qb2VUNy1HTkdUR0dQQWlZTTIzSWN0LTZTczJ1ZjVB?oc=5
+
+- Former Vice President Jagdeep Dhankhar Vacates Official Residence - News18
+  Former Vice President Jagdeep Dh
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlRhWWMxRDN5Z1ktd0d5WTNDLU1IeDEzRVd0VUVnT0pEQUJyVUVoWmVTcF9hVFlGY1dCRHlRY19ibDM2cThBVUFOcGl1OFBqeGlZelBRemxydGxUMk1NQWo3V2U2ZmgzSWdpdWhQTWdfb2xZM21jcU9ReHRFUjJ0OXNaX09zNmJjSzlVNDJRVGFoMERjTFFNcFRIUkxFR2VuZlhEcU9zby1NMDjSAbABQVVfeXFMTkZuelYxaGxBV2Z2dGRPbTBjTWhhTVJDU3ZBTTBqQ1RiNFBMREVPTHhndVRxLUJHRDZXb0tGR0lld2k2Ujk0YzAyanlsNlAzNWx3T1A4VEg3YmpBRzJMbkpoaFFsdDYzVm93VVZCWWlvQ3A1dkZ0bTFGdlBkOFRWMmY4a1doM25TR0tWeVNvVm9lT2dyZng2V21mbjdyZjFYQVJDY3ZZOWZRLVlINzl1RHg?oc=5
+
+- FIR Lodged After Palestinian Flag Hoisted On UP School Building - NDTV
+  FIR Lodged After Palestinian Flag Hoisted
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOamdtRmtjcGUzNUNiNlJwV3FEajBzMVpmdS1HcVdhXzZVRERKS2ZsNmpOVzV4RUgyU01FUU5CR2F6NjRzdjQ2MkoybTBwLUJBT2FDTEJxaTlVVncyQnpaVEJNLVlfakxYLXFLTzk5aXdQZFJVd0ZtVzFVZzlkXzk3MkxhS0hxMTFzREFrTU5iOVNOSi1SYUNwajA2NkNYbUtJYVU0OHFB0gGuAUFVX3lxTE5tbFV6aWtpNlRvSXhnMGhLRXRnZ1FuN2hTcFN5M0NnbEFHMWxhZnJTakc4LVV2aFZaNXY2VzNyRXhFVmZmSkxoWExqLTZGNzh5a1hnMW9aMm42WEhpZ25BSUtuSTltaVRxbXlPU0s5TmE0S1FBSnp5QmNieV9rVnRhcVhWX2ZZeWtHc2NNSVVjVTdtOGRUd0xLdDladlAwVFlfbVpJOFJoMGZZay1xZw?oc=5
+
+- "Dirty Political Game": Army Removes Protest Stage, Trinamool Slams Centre - NDTV
+  "Dirty Political Game": Army Rem
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaTFlemRma3hhN2dMa2t2MERlVkZUbHMzNTZ1Mm8xMk9xaW1JbjQwanV0eVJScGJBdnJCTENPMXdnd2l5V1BFVkJydDFJZnlsNXhnZ3pKLWp3OFViZjBzTDF0U3dpM0Y3a3JWZzJpanlFUFVlRTJPaFBJUURwakxiUnNYRVVZTTN0LXd0NVdyMHA2S1pLWHpxRHpKWXpyMW9JOUpmN3hsODdYSXRCR1dmMUN1V1BCeDRfOGdxTUxxbl9PMkx2M2JJblhlazBMcUkyOHfSAdoBQVVfeXFMTmtWVzBtMWh5aUc1VGxsOHBkQ2FzS1pGUkgxSUM4YnZKN2ZhYXlKTnNuUTFSdzhvRUVnekY5YWh3dHZYSUVEdnUySVExT09yMVNYSVU3cUR1LTAyU1k1cE1KM3h4bTJ2bTItVC1RTDh4UmQ4c0M2THhjWEMtRmtldkRScWR2RmV2cXVRa1M0V2o4SzhQTVI2ZGwtUVFsbjktc2NZMjJWV2FGdlVlclo4QlZXU2JWS0U0WmNpNGhIYVFLRXBSQm5qQWNYYjJoYzctcS1jNUc1THN6Unc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-01 06:28:38 UTC_
+_Last updated: 2025-09-01 12:34:57 UTC_
