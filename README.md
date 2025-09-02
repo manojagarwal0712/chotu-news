@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- In interim relief for Qatar fund, Karnataka HC bars Byju’s from disposing of assets in $235-million arbitral award case
+- Punjab rivers breach danger marks, Modi dials Mann
   
-  🔗 https://indianexpress.com/article/india/in-interim-relief-for-qatar-fund-karnataka-hc-bars-byjus-from-disposing-of-assets-in-235-million-arbitral-award-case-10224874/
+  🔗 https://indianexpress.com/article/india/punjab-rivers-breach-danger-marks-modi-dials-mann-10225119/
 
-- Tripura BJP demands Congress apology for derogatory words used during Bihar protest
+- Govt rolls out AI-based app Adi Vaani to translate, preserve tribal languages
   
-  🔗 https://indianexpress.com/article/india/tripura-bjp-congress-apology-derogatory-words-bihar-protest-10224799/
+  🔗 https://indianexpress.com/article/india/govt-rolls-out-ai-based-app-adi-vaani-to-translate-preserve-tribal-languages-10225066/
 
-- Hand grenades found near Manipur palace compound, FIR registered
+- SCO Summit: Xi pushes for equal, multipolar global order as he slams Trump over tariffs
   
-  🔗 https://indianexpress.com/article/india/hand-grenades-manipur-palace-compound-fir-registered-10224806/
+  🔗 https://indianexpress.com/article/india/sco-summit-xi-pushes-for-equal-multipolar-global-order-as-he-slams-trump-over-tariffs-10225090/
 
-- Rajasthan man who murdered wife after repeatedly humiliating her over skin colour and weight sentenced to death
+- SCO Summit: Opposition urges caution, cites Pakistan-China ‘jugalbandi’
   
-  🔗 https://indianexpress.com/article/india/rajasthan-man-murdered-wife-humiliating-her-over-skin-colour-weight-sentenced-to-death-10224701/
+  🔗 https://indianexpress.com/article/india/modi-at-sco-summit-opposition-urges-caution-cites-pakistan-china-jugalbandi-10225081/
 
-- Agniveers in Uttarakhand will now get 10% quota in police, fire, forest services recruitment
+- Supreme Court: RTE exemption to minority institutions should be revised
   
-  🔗 https://indianexpress.com/article/india/agniveers-in-uttarakhand-will-now-get-10-quota-in-police-fire-forest-services-recruitment-10224675/
+  🔗 https://indianexpress.com/article/india/supreme-court-rte-exemption-to-minority-institutions-should-be-revised-10225033/
 
 - Enterprise adoption of AI should be driven by leaders: Microsoft India COO Himani Agrawal
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/gaming/krafton-india-push-50-mn-yearly-investment-report-10223428/
 
-- Nestlé dismisses CEO Laurent Freixe over undisclosed relationship with a subordinate
-  Nestlé SA has dismissed CEO Laurent Freixe after an internal probe revealed an undisclosed relationship with a subordinate. Philipp Navratil, head of the company
-  🔗 https://www.livemint.com/news/us-news/nestl-dismisses-ceo-laurent-freixe-over-undisclosed-relationship-with-a-subordinate-11756749289469.html
+- Lure of the glass skin: Why K-beauty king Amorepacific is doubling down on India
+  South Korea’s top beauty company Amorepacific Group is doubling down on its business in India.
+  🔗 https://www.livemint.com/companies/lure-of-the-glass-skin-k-beauty-tirtir-amorepacific-india-nykaa-myntra-etude-pilgrim-axis-y-e-commerce-sugar-cosmetics-11756730298057.html
 
-- Sanjay Kumar Singh takes charge as interim CMD of NHPC
-   Singh has over 30 years of experience in the power and infrastructure sector. He has overseen
-  🔗 https://www.livemint.com/companies/news/sanjay-kumar-singh-interim-cmd-nhpc-hydropower-projects-nhpc-renewable-energy-jalpower-corp-11756735354551.html
+- K-pop to K-snack: How FMCG giants are riding the fusion food wave
+  Large food companies in India are popularizing exotic flavors like Korean-style snacks. Consumers are increasingly
+  🔗 https://www.livemint.com/companies/korean-snacks-in-india-korean-flavours-snacks-korean-chips-price-india-korean-instant-noodles-india-korean-food-wave-11756623651304.html
 
-- Attention policyholders! Niva Bupa suspends cashless facility for Max Hospitals. Here's what you can do
-  Niva Bupa Health Insurance has reportedly suspended cashless treatment at Max Hospitals in India effective September 1, 2025. Here
-  🔗 https://www.livemint.com/companies/news/niva-bupa-health-insurance-suspends-cashless-facility-for-patients-at-max-hospitals-what-policyholders-you-can-do-news-11756740125285.html
+- Who is Laurent Freixe? Nestle CEO fired over romantic relationship with employee
+  Laurent Freixe was fired for not disclosing a romantic relationship with a subordinate. He was replaced by company veteran Navratil.
+  🔗 https://www.livemint.com/companies/news/who-is-laurent-freixe-nestle-ceo-fired-over-romantic-relationship-with-employee-11756771164272.html
 
-- Deloitte's new health mandate for senior leaders: Get checked or pay up
-  Deloitte surprises its top leaders with a new health penalty. Partners and executive directors must pay up to  ₹1 lakh if they skip their mandatory annual health check-ups.
-  🔗 https://www.livemint.com/companies/news/deloitte-partners-executive-directors-to-pay-up-to-1-lakh-penalty-for-missing-health-checkups-11756733300857.html
+- JSW holds talks with four Chinese firms as EV battery know-how hunt intensifies in three countries
+  JSW Group aims to establish a lithium-ion battery manufacturing facility in India. The project plans to ramp up to 50GWh capacity by 2032, beginning with 10
+  🔗 https://www.livemint.com/companies/jsw-holds-talks-with-four-chinese-firms-as-ev-battery-know-how-hunt-intensifies-in-three-countries-11756725871725.html
 
-- Nvidia is set to get a big boost from OpenAI. Here’s how much.
-  If Nvidia’s numbers are correct, then
-  🔗 https://www.livemint.com/companies/nvidia-is-set-to-get-a-big-boost-from-openai-here-s-how-much-11756731303509.html
+- Flipkart acquires majority stake in Pinkvilla to enhance engagement with Gen Z and millennial audiences
+  Flipkart acquired a majority stake in the digital infotainment platform, Pinkvilla India
+  🔗 https://www.livemint.com/companies/news/flipkart-acquires-majority-stake-in-pinkvilla-to-enhance-engagement-with-gen-z-and-millennial-audiences-11756748132884.html
 
-- Sebi to oversee Arihant Mangal wind-up after high court dissolves old panel
-  The mutual fund scheme, launched in 1994 by CRB promoter Chain Roop Bhansali, collected  ₹229.28 crore from 19,396 investors.
-  🔗 https://www.livemint.com/market/sebi-arihant-mangal-wind-up-crb-capital-markets-delhi-high-court-11756738888863.html
+- Global Markets Today: Nikkei 225, Kospi rise following SCO Summit 2025 amid new tariff concerns
+  Japan’s Nikkei 225 gained 0.31 per cent, while the broader Topix index rose 0.28 per cent. In South Korea,
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-rise-following-sco-summit-2025-amid-new-tariff-concerns-11756773902282.html
 
-- IGL shares to be in focus on Tuesday after THIS joint venture update — Check details here
-  Indraprastha Gas (IGL) share price is set to be in focus of the market investors on Tuesday, 2 September 2025. Shares of the natural gas firm have gained
-  🔗 https://www.livemint.com/market/stock-market-news/igl-shares-to-be-in-focus-on-tuesday-after-this-joint-venture-update-check-details-here-11756732565485.html
+- Stock market today: Trade setup for Nifty 50, Trump tariffs to SCO Summit 2025; 8 stocks to buy or sell on Tuesday
+  The Nifty-50 index now faces a key resistance zone around 24,700. A breakout above this level could trigger an upside move towards 24,900. As long as N
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-trump-tariffs-to-sco-summit-2025-8-stocks-to-buy-or-sell-on-tuesday-11756725041936.html
 
-- Small-cap auto ancillary stock to consider first-ever stock split. Check details
-   Rolex Rings is considering a stock split at its board meeting on September 4. SBI Mutual Fund and three other fund houses acquired a combined 3% stake
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-auto-ancillary-stock-to-consider-first-ever-stock-split-check-details-11756736102223.html
+- Recommended stocks to buy on 2 September—top stock picks from market experts
+  Expert analysts share their top stock recommendations to capitalize on
+  🔗 https://www.livemint.com/market/stock-market-news/recommended-stocks-to-buy-today-2-september-ankush-bajaj-raja-venkatraman-marketsmith-nifty-sensex-11756734372819.html
 
-- NMDC stock to be in focus on Tuesday as August production rises 10%, sales up 8%
-   NMDC is expected to be active following the release of its August production and sales figures.
-  🔗 https://www.livemint.com/market/stock-market-news/nmdc-stock-to-be-in-focus-on-tuesday-as-august-production-rises-10-sales-up-8-11756730937005.html
+- Stocks to buy today: Raja Venkatraman's recommendations for 2 September
+  Market expert Raja Venkatraman shares his top three stock recommendations for today, 2 Sepet
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-today-raja-venkatraman-recommendations-2-september-sensex-nifty-11756724683932.html
 
-- Bonds vs Debentures: Key differences every investor should know to build personal wealth
-  Bonds and debentures are key fixed-income investments with distinct risks, returns, and structures. They help investors align their
-  🔗 https://www.livemint.com/market/bonds/bonds-vs-debentures-key-differences-every-investor-should-know-to-build-personal-wealth-11756727825641.html
+- Stock recommendations for today—from MarketSmith India
+  Here are the stock recommendations from
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-for-today-2-september-marketsmith-india-nifty-sensex-gujarat-mineral-development-amara-raja-11756731896041.html
 
 - AI stethoscope is here and it can diagnose deadly heart diseases in just 15 seconds
   Researchers have developed an AI-powered stethoscope that can diagnose heart failure
@@ -100,165 +100,153 @@
   Semicon, India's premier semiconductor conference, will focus on supply chain creation. Murugappa Group prepares to unveil the first chip tested and assembled in India.
   🔗 https://www.livemint.com/technology/tech-news/semicon-2025-chip-supply-chain-design-tools-meity-semiconductors-conference-11756730227948.html
 
+- Dow Jones Futures Rise With U.S. Markets Shut After Trump Tariff Ruling, Alibaba AI News - Investor's Business Daily
+  Dow Jones Futures Rise With U.S. Markets Shut After Trump
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPbTVZZVJlczRDbHR6aDFXNlYxeG9pUDItY2dMTWJ0UUJOZk9VZXFwRkFtbWQ2ZnhLanFxMWhEeVZZZ3VPN3ZYcTl4ZEs3QnlxS2lUX1VhbTYxUmplWE1ZUHVpRmRtQm9fWXotcXdpOG9IWHVVWTRZMTl4SGxnYjBBN3NQZ2VxY3drWGVEMjRsN0Nib0xXTHA3amFiRzlheGNnUDVqOTdBZURCRkhOOE1KOFpxWXYtWVlPWkhwdUxvR3lWSXg2?oc=5
+
 - Stock market holiday: Is US stock market closed or open today for Labor Day 2025? - Mint
   " target="_blank">Stock market holiday: Is US
   🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPaFB3RTIzRDVIMy13MnZyYXBlVXBBbGxzWllSak84M1pQWTZQcEVqLWdwcF9SOTBwS1BaMVFMdERMTm1xVndNVlVNXzNhZlpSUHJtdVhMc1k0bFk5ejVWMThna1Z1alh5ZUlZVmJFZHN1T09fQk55bXRQZkw4d2tsa2tpRkFHYmFERndRal9UencyQlNVQWdsY08wNDdGQUc2NHRrUFVhME1TVWt3cUdNd2FlNEdjRkdBUV9YbkJCR2I4dFYxUkMxUjZfaWRvWUxVZFlGNzNDTjFhcTRIbTJhdVFmU0FnUnFmakZWMVRMOXpzbFNHUUM4Nk9UUE44cFA0QjhZ0gGIAkFVX3lxTE8zNWxlSmtpaDR3QnVDOXVXRlNmeS1ETzk2QzZsZGJjVUM5M2NEbi1nUk1fWS1HbG9uYU95RFk4MldQUkx0bzJzM0diUEQ2ZmUzdHJqOGItcllsWUtIWUtfN0dIcGk0ejlfNzBIdzFkQ01FZVJLU0l6YjZBcngxVjBNa25oRmhaMjl5YUE5djJNVFRleXpMY1dZeHZTQXJ2WWtWcXIteDY2LXh0MXhJcVpEYjVkYkhreldvM24yZC1jcHh0MTk3NGtRQ1Q2eGFRTnR6clN5ZHZRRzktUEdvUkhrcFJoNll3ajZBQ1VldXVlX3g3VjBCMl9oRC01VGxmSnNob2VibmZWcw?oc=5
 
-- Back to school: markets brace for September risks - Reuters
-  Reuters: Back to
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQQy1QNmJKZnFrNFNZUDRiQUR1Rkluc0ZEa1d1THEwdzBJZ0JxR1V2blpOc09PWmxsZDBWOVNPQXVHbWkyX3ZHbWtYQ2pOaHoyNG1nenFVS1NoWG9mMkRnQUhtalFhSW53QmVhVW9vb1dDaV9URE81ZnB6MzI2QTNqazQxYmphYTJieHBXNF9vckxwdUhmeEo3NElkRjJzallMYl92dXVNRQ?oc=5
+- Asia markets mostly rise as investors assess SCO summit amid new tariff concerns - CNBC
+  Asia markets mostly rise as investors assess SCO summit amid
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPTEwwaU9yU0pTVmdyV1EyOXNLdF9XUXVYN2lWdmRfbERvdWR6d0hXMHNQTlZ2ZHp4cmI1cExwelpFODhvRG01SVNldVh4ZVkybjhlTlNWdUFhRWw5VklRLUQzVGdNdW9ndUYzZU9NamhQYWJlTXNlTXdROUp6WFByNEFockVSZGFPeDNNM2V3MGN5NzlTdjhIbVVERjRMTnpGcEVIYzlkUU5SQWNWeFVZSjZJeGQ3MDFhc3pRUEJ6SG9Oc3ZPTGRLYmNCdE9zQdIB0wFBVV95cUxQSGVINVRoWGlITlhRMWpiSHlLZ0ctbHY4Q2NOVG5XSlJQYUtwNEtFalJvWUc5SmJtRXQ0T1lCcnNRaW1PTXBsUzFwd21TaXFGaDF4bHhFTnQwdU9tNVhaWmpGYTl1N21lOENtUGJwVVRsSU1WaklPNWVRSzNoSlVIZ0JTc3VBYlN5YURDT09Qb19GbzgwNXVGZnIyeTBuMHdxZUd2dDRaMDJyenNmb1F0eUpkWkNic1d6RnJDTFNEbVc5UWNkTVZ5NXF0SWZpa2c0YTQ0?oc=5
 
-- Tesla's sales rout in some European markets extends to eighth month - Business Standard
-  Tesla's sales rout in some European markets extends to
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNXzB1Y1pIT0RPbFNKY3dSZjlVc21VSldxTU15NFg0UjFtQS04dXF2ekdQQUkyc3FSMEZyX2N1b1YtTE9KWmsyMXB3WElULWxFUWxIYlhuYkVPVzNvZGRaUVFhWnZrQ1lRVkt5eTZpejlSeW5ZaEdtblF3OWZocm9wN21ncHNfR0FRWnNpVm5yWFliTjlqTXFWdWRYQ3Nsa0pWb0k4aDlNWVV6dnc3Y0gtMWZRV245cVVhVWsyeTRWSjllcjJ3bDUxMnhkM2wyR2RuUkHSAdcBQVVfeXFMT3VIQnhyRnVodzZibkI4cXN1bW56QkZfdkhFOGd0S3FCN0gwQWRLdndDdU9TQkhyMzU3STRlZnZ6RFZDdEZ2LXRkT1hXdUE5aHQtUGpLYnYwR2trRnJKN1VjNGFGU0NmbDltbGQ4YU96WDk0UHRxb2ZMcUJSOXo5TXRocjVhMXBPdEhsMExhbVlQTTJ2ZHlNYjhQMllCTG4taWdBNXd5UFpCRGx5Q1FCR1VGSG9RNVhub0tGZ09rUVZNTU9GaTBQZHg2VzJSNElNaWVIaDRlZlk?oc=5
+- Rural India sees surge in affordable premium FMCG purchases, outpacing urban markets - The Economic Times
+  Rural India sees surge in affordable premium FMCG purchases
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUk10SnpQei1qams1SEN0UkFWcjZSTGM1OV80dXAyOTNGT05XVDVPVU13TmpCaUJfbEtDZjZXRV9lc1Q3dm9nV25zemZQRVo2akhYbFdBMmdoM2ZoalJNY2FVVGpWdVU2UUJycmEwQ3Axc1N1RmlEa092ZzZ3eEp5TjZ3N2ZoMnlkR3N1OUZGeXRUMjRYRlpiMG5KRlZyREJjSndaeU84Z2VHblJTUmY5RXEzV0tGbVVyR1RrQy1UMlN1U1RuZ0dTczNiajNTaVZXLVFOeEphM094c1hOWExtTlRaSkZhSm5XQWQ2bWtsdWhWamVHbHRtedIB_gFBVV95cUxPZ3otYnlRaTdLTXdFOEV1SFFxX01BU2ExaWZPSmdhZkZkaW84R3dhenNJVGhUUl9wZEF5NE1telNXZjdMaHZlbDgxZ3dJbFN2NTFFanNqNG1JX0RPZnBqWVR3VDlWY3Z2RkRKNEl0ck1OeVA3Nl96ZGFuZHpqMW9Pa05nc0FFSFI2TXl3LUFobWMwMUxNV1pXdWNJV0tacWh3VWNiMG81MFZtajY5Mk5ZUGtzMHFPelVnY25KMVA0SnFuSXpOZHFjTGNydU81NjZrQlhxZWhGSENqLWpXcV9OMFNXeDdPYlo1eWJVcDVERDd0LUN6NjNoYzdZZmdRUQ?oc=5
 
-- European markets climb as UK-Norway warship deal lifts defense shares - CNBC
-  European markets climb as UK-Norway
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNWG9TRUVlMDJtYmR5dmo0S1JlN0lMQkJ0WmdlTV94aDNFczh6TFZlZE1EckUwenpoSGN2NXB1bFBmX1hMSWRLSHRoVUx1RHotZ1VEeURsbWpRU0d2UjNZS21MT1IyQ2FDdldJdFV5NWdmT2gwb1E1UU1rRmFVOU1GX3RnWUZqMFJvTXh5R2lZNmpkZ3NFNmtZZHVHd9IBoAFBVV95cUxOTmN1aERvblNSVnBYeVdldXpwNlVuTG1HVzk3R1I0TGtISkQ0S3Y0czVWNGpyZjd0WGUzOHhJWFRlS2xxYW5YTS1HSnF2NjctV3gyb0hPV0stNy1HRkJOSFZuRFNVVi1yU0g0YmNuLVYyT2V3NGlRQV8wWGQ3SW4tQzRQY1pZN3ptM0dwcTFpSGgxd0VwTk1UQ05uUnZQV2V1?oc=5
+- Global Markets Today: Nikkei 225, Kospi rise following SCO Summit 2025 amid new tariff concerns - Mint
+  The Nikkei 225, Kospi rise following SCO
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMXpyODZQckhQLXJJMkF2WXVaZW5hRkc1bVU5aW9mNTYxVXdKbUsyb2FjVU1TZ3BPcnRUSEFZQ2VCb0hMZUtLWHh2WFVOd1JfaU9qXzNLRGhTZWhzRzNOMEUyU3UwelpleEloVVgtQkNoZ2lPM1Zud3lnWGRjQkFsN0F2bFJmbVRKeG9nUndYSUk0RjFfUzBqRDNsdktDQ3c2YXRmYXFHSnRJM0NqTHVxYnYxZGthZUhQek55QmhkSjVBcDM2M3FWcFlUaTlUMnFLVlRBZGpaa1lyOFJPYUxrN1JPWVVkUnB1NDRjVFBZdnhzVTI5aFHSAfsBQVVfeXFMT3Vzcnd2WTc4eFFEVFBKMHVDWGJWbFBBX3l3LUNjLVhzby1wcnZvN1QzdVpMQjJ6VVFRNGx6Qnh2U3BVZktKWXFCeU5WdzMxeW53OWdGUzdnS1VvZVBUeXJVTnF5TlR2U2g0LUhzNlBMUE5WLWFmQUwzLW8xbFJaZTZqZVdsV2hSSVBpbnNXYm9SVXBwdTc5UzFSOWVRLVYzOGpQNUItWWRsUUFiVHIxbjYtVzlnRVhFalhhNDNLMXJSS3ZjQ2owbDlvQndCVFU4Z1ZoVnpieExnVF9ybHFJdk1BUVgzOHRnTjV3bm9malh3b3REMDdHbVJlOTA?oc=5
 
-- Closing Bell: Sensex ends 600 pts higher, Nifty near 24,650; Auto, IT, metals shine - Moneycontrol
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQnA0Wnk1Tmp6LVNqQXUtV1M5Wmd0TzVYYklkNUVNbkhneHhpRExOSUg2VzFXanFicEJkblQ1VVR6Yzd5aVp6cWRuS0NYWGctM2YzaDYyaGVPNC1xZklyYnp4LTFSU18wUl
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQnA0Wnk1Tmp6LVNqQXUtV1M5Wmd0TzVYYklkNUVNbkhneHhpRExOSUg2VzFXanFicEJkblQ1VVR6Yzd5aVp6cWRuS0NYWGctM2YzaDYyaGVPNC1xZklyYnp4LTFSU18wUlFPSnliQWE0bURVcDM3cTBDZ0RuVXNkbGNyNExXUjBJYm5fc0d1YzloTFFwcHhVNTZfUlFqSDlJVmQweFdOWURrM2w3VUk5ODRBOEJPeVNxa0UzN1Ztc0haN2JiaWVyUHI5QjRrRTFnX092TEFnamtVS3dDZkZ4alh0a2VaSHl1RUNSV9IB8gFBVV95cUxQdlp1X1lNWlRxaFJVVmxjdjZyRGFHblhUbHZ4R2ctRldIUlgzMW5JTHJjSmYtQ3YyN1BTbWRMZ1dGcXFNNGZEYjJRR3o3T242VF84N3dOVllwWGw0d2dHb2ZQaG8wamN0a3FLOEpnUE9UbGgwV3VjQWQ1YVZnSFdmejhLWTNaaXJHNlN5VnpmMjlxa1ZjejZPX2Nrd1g3b05YQ1dfeU5NWHlUdkYwOXE0N2RfS2VpbGFfLTNudVVMZzhhX19nSmxUNUpaS3NBY3VTRVZadC1ZZF9vaUtPYU9RcjFDTXFVdDdDbm9kdTVCcHJ3dw?oc=5
+- Asian stocks edge up, Japan bond auction in focus
+  Asian stocks saw modest gains, driven by technology and AI sectors. Investors are eyeing upcoming jobs and inflation data, along with the Federal Reserve's rate decision. Meanwhile, Indonesian markets face political risks, and longer-maturity
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-edge-up-japan-bond-auction-in-focus/articleshow/123644763.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Indian markets rebounded on Monday after three sessions of losses, driven by stronger-than-expected 7.8% GDP growth. Analysts highlighted optimism in autos and consumer durables
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/123638970.cms
+- Pre-market action: Here's the trade setup for today's session
+  Nifty recovered following three days of losses, boosted by robust GDP growth figures. Despite a positive domestic outlook, potential US tariffs and continuous selling by foreign investors may limit market gains.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/123644717.cms
 
-- US dollar hits lowest since end-July ahead of US jobs data
-  The dollar hit a five-week low on Monday as investors looked ahead to a raft of U.S. labour market data this week
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-hits-lowest-since-end-july-ahead-of-us-jobs-data/articleshow/123638833.cms
+- Stocks in news: Hero MotoCorp, Hyundai India, IGL, Maruti Suzuki, BEL
+  Hero MotoCorp reported an 8% YoY increase in sales, while Hyundai India saw a 4% dip. Maruti Suzuki began exporting its first BEV, the eVITARA,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hero-motocorp-hyundai-india-igl-maruti-suzuki-bel/articleshow/123644684.cms
 
-- ADIA exits One MobiKwik Systems; sells entire 2.1% stake for Rs 39 crore
-  Abu Dhabi Investment Authority (ADIA) on Monday exited One MobiKwik Systems by divesting its entire 2.10 per
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adia-exits-one-mobikwik-systems-sells-entire-2-1-pc-stake-for-rs-39-crore/articleshow/123638778.cms
+- Can Jubilant Ingrevia sustain its recovery after recent challenges?
+  Jubilant Ingrevia shares recovering after a period of decline. Domestic operations and limited US exposure shield it from tariffs. EU's anti-dumping duty on Chinese choline chloride benefits the company.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/will-jubilant-ingrevias-recovery-sustain-after-recent-challenges/articleshow/123644568.cms
 
-- Silver price jumps Rs 6,000 in a day to Rs 1.23 lakh; gold above Rs 1 lakh
-  Silver prices surged over Rs 6,000 in a single day to Rs 1,23,500 per kg. Gold prices also climbed sharply, dampening festive
-  🔗 https://economictimes.indiatimes.com/markets/commodities/silver-price-jumps-rs-6000-in-a-day-to-rs-1-23-lakh-gold-above-rs-1-lakh/articleshow/123638075.cms
-
-- Kiaasa Retail gets BSE nod for Rs 55-cr IPO to fund expansion plans
-  Women's ethnic wear brand Kiaasa Retail said it has received approval from the BSE to launch its initial
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/kiaasa-retail-gets-bse-nod-for-rs-55-cr-ipo-to-fund-expansion-plans/articleshow/123637698.cms
+- Stock market's fate comes down to next 14 trading sessions
+  Wall Street faces a crucial period as key economic reports and the Federal Reserve's interest rate decision loom. Analysts predict a potential fall correction before a year-end rebound.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-markets-fate-comes-down-to-next-14-trading-sessions/articleshow/123644525.cms
 
 - "It's Getting Late": Trump Claims India "Offered To Cut Tariffs To Nothing" - NDTV
   "It's Getting Late": Trump Claims India "
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPckVRdzN6NFB1aFZyV1VIdWliQm1Td0pDLWxFVW1kZ2JralB2WFk1enBfZE0xTm5GdkR6LXJIWFNhNF9SV2ZTcWlYUDFhM3NIMlctNlB0MmFjOXpveksxVHAxWWtSZXlVUTZVM3YzcnJUTF9lT1UzeTVNNXFONFhtcGxfenRXblhFdHZyWXdPamhpMUZVRzdWQzVfMmtkbXctLWRGMFZqSW1HMWJrY0HSAbYBQVVfeXFMUG00MmV0QkVrTnFiUEs4TWNseXl0U2ZLREpwa2JWS3RQbEFyNXZfY3NGUmR6N2FWdWJ1bURNeDVSam5HbVFWSFkxVTh0VGlWQXIybV8tS2JhcjJWR3RPalBfVmNFVGtfQ0hoSEpnQVA5YzAtNU1QeTcyYml5c1hRVUxjUFY5TEp0RDF1S3UxUWhzeEdDMGRrYW9kWGFvTm50ckdwQ0VFMHlZWXY3Vlozc2g4MVJGUWc?oc=5
 
-- 'It's getting late': Trump calls US-India trade 'one-sided disaster'; slams Russia oil, arms trade - Times of India
-  'It's getting late': Trump calls US-India trade 'one
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNb1V1eVEwTlNXQzFDdDJQZnRsNjl0WTRTb21Zcjk0R3RreXBjM3EzNnBWMzJEUzRoR3hTU3JBS250a2ZzcVBXUE5QenRJMEVXVDQybldNMk5ha3lTMkRlZC1QYTl0SWFiQXdTcnhZSWRmUFczQXhuWmJGOWtNaEo2elZRSlpvSmUtYTRfNmk3WjJ0dFlhMk1WdDFsRHpxLWZETHlDNTRYVmNMc1IxRmI1UnlSRmhxbGYxRDJuMnJDa0pJOU1lbmliYVJSeGR5S0hXWm5nTVJOcUloR0JremF6eXgwME4tUWJEV18tM01zc3lCbl9jcksxQWt4MU15MUs5Q2F6UmF5WdIBjAJBVV95cUxOQXEwc1Q2c1g3bjBIQ0M1UmxZN2RvZU5ibFRSYWl4RWFBbUJ2NDY5VGpRQmwzRlJYSzhYN1UzbUJOV1FPSkNQdGVaejFCS0xndWNwTXVWVTNPREp2T2EyYzBfaVExSExfeDZZNXhYS1ExTUNRdXM4MEIxLVFyYlBwSU1JMTFTQkgxc1JZenJZbnRpWURfYzd3WFZDYjJSODVhbFpyaEtqWFVXOHZYempwd1EzUGtLZXZ6c0JwWFZxN1JlSEplNHZySXBObXVCN1ZGdkRld2VsdDZFd285c3pQZE40RzBiMkZDZXdZUFlyck12T3Y0b2lZZ2g1YjI4cHFLVWZxS1NMTThWaGZY?oc=5
+- 'Brahmins profiteering': Donald Trump's trade adviser's latest jibe at India over Russian oil; BJP hits b - Times of India
+  'Brahmins profiteering': Donald Trump's trade adviser's latest j
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNanQ1RzE1UHpOYnQ1LXM3VkQ3M2lCNXczLXN5SU84X2s5UHZ4QzVmQ3UxNkZkTkdSOHFxRHlIdnhzc09LUno5eGIxRzhmOWNNZ1dzSlk0TV9OMkNtNWYwMWdpQTJMeXRoRTdHU0dqbldpdnNHd21CMnd1OHczdm9KdmZ5dm0wZ2FRcEVlTDVPQjJ6cVJMQ0JBOFBKa0d2bFZETVNIRkRFdGx5UHNjYjlHa0NEYkFGdC1jYm5uclNyalMwQjYtNHVPMTJ0XzZPSVAtRWlwX1BMWXVHQnZ0RnEtNDZVa1JGZmJwOERxZnVzNWlkOHV5ZUhQWm94aW5xUUx1Z1JwUmg5eG5uN3UyRElJ0gGUAkFVX3lxTE9DdDRHSTFjRlFXdzgyNHI4M1NQY0gxVEdXOTRtdEw1b2NwOTMxWmFNY01aemwyb1JDWVp0LU5HdVF6aHVFQmRZM2thVG1IS0FtZVdBLW5fQjlpWFVjMHZlSVY2MUxxTGszOTU2bnphU2JWUnYzS1JTano3bVJLMVQ4UWw2UFNvc2hrVHhSZnRFYmpCNkJpWjhfUU5VUGtxV2pSY0o4QjJKRUVZeW1DY0FTVXFJTVR4algxQXp3N2hLb2pHSW1hTUpUQnR0Tk1BOWltcmZwaDRfbXJzQjlRVWtoZ0pwaUttX0x1c05vYzdLMG1CSjY4ci1qSHFwWXRyeklXSkc4R296RmdOalRZbDJBVDJsZQ?oc=5
 
-- India's Modi has 'insightful' talks in Putin's limo - BBC
-  India's Modi has 'ins
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1raVFkRmM5NmNkWUMwMUlvb053UjBCVnhPellOdXpZMmxXZEZWQzFRVGk1SXdkcHoyQl9HOXJFNDdtRS1pS0hheFRiZ2xYdkx0VTBWd3JPZDg3UQ?oc=5
+- India-Pakistan: The stateless sisters caught between two countries - BBC
+  India-Pakistan: The state
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5URWtMeFdZMnhISzJGblk3bkpXcllFbjZNMDN2aFduNlpjb3ZsUXJub3M2NTNQSDAtZEdKY0ZGX19kV0dzSGVFdTY5ejUycnRTRXMtb3Z6Q0Q2QdIBX0FVX3lxTE1HQUtOV1JvWG93Y2JITnhYVEhodDZFbUVMOG9MMUpqZjN0VWdtVzAyclZHckM5a1Z6RFpDTF9DSDlHX0VzY3pqNDFSTkZKdFAyVW5PdUFoZWhuVkJ1Tk1v?oc=5
 
-- Heavy rain, floods batter northern India - The Hindu
-  Heavy rain, floods batter
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPTTY5VlAxRDB2eW53eDlOYTVRWUw3MU5idEJlQ0JQNDhnRWVXVnpXVE9aNnJfbG5hUnNQR21DclRDaFJ4Y2hjZWhCN1E3aGFHdG9ITWJtMjRpS2xxczRrcGNxTjI4OUljMVRVTnNzRTZVSkw2ZUVHZ0FsWWZYcnhmd19CbjNsQXJ4Q0FpbVp1ZmRBUU9SU2Q4d2pxRHFkY1XSAaYBQVVfeXFMT2MyZjZXU2FYN0FLQ2VxYVljZ0p6UnhBajNQbnRmSlFaNVprRlRXX3YxQVBmalp2eVBOVUEteTRTT3FaQWxOSmpMS05hUUJ3cUhsXzJCZWdiek5xNVpGU3RqZ18zc3ptUEhvOENDMmkxOEoyV19FRzJhMC12MlVnajczM2VxSUY0RDlMY1BVV0pZMFpBbHQ0OGtCVXRxa3RGTzFoMmVsUQ?oc=5
+- DGCA grants clearance to SATS Airport Services | Latest News India - Hindustan Times - Hindustan Times
+  DGCA grants clearance to SATS Airport Services.
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOclZ1YXM4ZlpiTW10a21OTlRKMWNfSWJsVnFodlJOYS1EVDZ4b3FZWWZNRkQzTkwtNXNTbENNbU5qWUE0RXpoZzVoLUpVOEJ1Mm1tUjk3SGYxdVd2X3Fja01maWpGVUZXOFV5cGw4V3B6TFNRdFdkUzU0OTdCNEJPTDFfQVM4emVvdnptdTRSUWxSWmNiVGdCazRQbzdMU1hYU1ZxS2dSOFpSSUZt0gGyAUFVX3lxTE1Tdm5TSHVqcGFGNEZLcnp3UHJvZGt4Mk1LTUstUlo4VTlGaS1BUFQ3ejVwVm43UEFjQU9tWmJfUWZPRDEtNkN2TDJRQVVKRjFzdXNRc3l1NjZPQ05xTWtCU2xmRFMxZFlIOWRORmtCb3g4bG1JVU1zVGJpalJBaEowd2FkbXdWeVhTLXJhM1hLblAwMlJONC1hRmdoZmU2d3haZGw1Z3liNndaUFFvbmw5aWc?oc=5
 
-- ‘Brahmins profiteering…’: Peter Navarro's latest take on India's Russian oil purchase - Hindustan Times
-  ‘Brahmins profiteering…�
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMjN6aHdHLXI2RjNCX2tXeHYzbkY0TVFGdWp2ODU0SUJMTFcxSmZpd2lUdmgtMlVxdjBsX25BUzFHcGpJcnpBSUJMS1pnWDNxamlMaW9Yd3pFQ3dhczlITlpXajktaDRxcFVDMFFUVVlZVUZxTkRGUjlJa05xWG5yTkFIb2xkanVldjc3ZlJ4QWxwWW05V3VzaG5LUjI2VlpIbXkyRVRQbnFwSHNrQmsxeVNVckswV1NFTjZISVlxVmtmSldCb0Mxa09FMVo1QWZTS0c0aDVBQzl6OGdVQXAxamtkZDVmaUU5a1NyYg?oc=5
-
-- "It's Getting Late": Trump Claims India "Offered To Cut Tariffs To Nothing" - NDTV
-  "It's Getting Late": Trump Claims India "
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPckVRdzN6NFB1aFZyV1VIdWliQm1Td0pDLWxFVW1kZ2JralB2WFk1enBfZE0xTm5GdkR6LXJIWFNhNF9SV2ZTcWlYUDFhM3NIMlctNlB0MmFjOXpveksxVHAxWWtSZXlVUTZVM3YzcnJUTF9lT1UzeTVNNXFONFhtcGxfenRXblhFdHZyWXdPamhpMUZVRzdWQzVfMmtkbXctLWRGMFZqSW1HMWJrY0HSAbYBQVVfeXFMUG00MmV0QkVrTnFiUEs4TWNseXl0U2ZLREpwa2JWS3RQbEFyNXZfY3NGUmR6N2FWdWJ1bURNeDVSam5HbVFWSFkxVTh0VGlWQXIybV8tS2JhcjJWR3RPalBfVmNFVGtfQ0hoSEpnQVA5YzAtNU1QeTcyYml5c1hRVUxjUFY5TEp0RDF1S3UxUWhzeEdDMGRrYW9kWGFvTm50ckdwQ0VFMHlZWXY3Vlozc2g4MVJGUWc?oc=5
-
-- 'It's getting late': Trump calls US-India trade 'one-sided disaster'; slams Russia oil, arms trade - Times of India
-  'It's getting late': Trump calls US-India trade 'one
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNb1V1eVEwTlNXQzFDdDJQZnRsNjl0WTRTb21Zcjk0R3RreXBjM3EzNnBWMzJEUzRoR3hTU3JBS250a2ZzcVBXUE5QenRJMEVXVDQybldNMk5ha3lTMkRlZC1QYTl0SWFiQXdTcnhZSWRmUFczQXhuWmJGOWtNaEo2elZRSlpvSmUtYTRfNmk3WjJ0dFlhMk1WdDFsRHpxLWZETHlDNTRYVmNMc1IxRmI1UnlSRmhxbGYxRDJuMnJDa0pJOU1lbmliYVJSeGR5S0hXWm5nTVJOcUloR0JremF6eXgwME4tUWJEV18tM01zc3lCbl9jcksxQWt4MU15MUs5Q2F6UmF5WdIBjAJBVV95cUxOQXEwc1Q2c1g3bjBIQ0M1UmxZN2RvZU5ibFRSYWl4RWFBbUJ2NDY5VGpRQmwzRlJYSzhYN1UzbUJOV1FPSkNQdGVaejFCS0xndWNwTXVWVTNPREp2T2EyYzBfaVExSExfeDZZNXhYS1ExTUNRdXM4MEIxLVFyYlBwSU1JMTFTQkgxc1JZenJZbnRpWURfYzd3WFZDYjJSODVhbFpyaEtqWFVXOHZYempwd1EzUGtLZXZ6c0JwWFZxN1JlSEplNHZySXBObXVCN1ZGdkRld2VsdDZFd285c3pQZE40RzBiMkZDZXdZUFlyck12T3Y0b2lZZ2g1YjI4cHFLVWZxS1NMTThWaGZY?oc=5
-
-- India's Modi has 'insightful' talks in Putin's limo - BBC
-  India's Modi has 'ins
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1raVFkRmM5NmNkWUMwMUlvb053UjBCVnhPellOdXpZMmxXZEZWQzFRVGk1SXdkcHoyQl9HOXJFNDdtRS1pS0hheFRiZ2xYdkx0VTBWd3JPZDg3UQ?oc=5
-
-- Heavy rain, floods batter northern India - The Hindu
-  Heavy rain, floods batter
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPTTY5VlAxRDB2eW53eDlOYTVRWUw3MU5idEJlQ0JQNDhnRWVXVnpXVE9aNnJfbG5hUnNQR21DclRDaFJ4Y2hjZWhCN1E3aGFHdG9ITWJtMjRpS2xxczRrcGNxTjI4OUljMVRVTnNzRTZVSkw2ZUVHZ0FsWWZYcnhmd19CbjNsQXJ4Q0FpbVp1ZmRBUU9SU2Q4d2pxRHFkY1XSAaYBQVVfeXFMT2MyZjZXU2FYN0FLQ2VxYVljZ0p6UnhBajNQbnRmSlFaNVprRlRXX3YxQVBmalp2eVBOVUEteTRTT3FaQWxOSmpMS05hUUJ3cUhsXzJCZWdiek5xNVpGU3RqZ18zc3ptUEhvOENDMmkxOEoyV19FRzJhMC12MlVnajczM2VxSUY0RDlMY1BVV0pZMFpBbHQ0OGtCVXRxa3RGTzFoMmVsUQ?oc=5
-
-- ‘Brahmins profiteering…’: Peter Navarro's latest take on India's Russian oil purchase - Hindustan Times
-  ‘Brahmins profiteering…�
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMjN6aHdHLXI2RjNCX2tXeHYzbkY0TVFGdWp2ODU0SUJMTFcxSmZpd2lUdmgtMlVxdjBsX25BUzFHcGpJcnpBSUJMS1pnWDNxamlMaW9Yd3pFQ3dhczlITlpXajktaDRxcFVDMFFUVVlZVUZxTkRGUjlJa05xWG5yTkFIb2xkanVldjc3ZlJ4QWxwWW05V3VzaG5LUjI2VlpIbXkyRVRQbnFwSHNrQmsxeVNVckswV1NFTjZISVlxVmtmSldCb0Mxa09FMVo1QWZTS0c0aDVBQzl6OGdVQXAxamtkZDVmaUU5a1NyYg?oc=5
+- CBI Arrests Airport Authority Manager In Rs 232 Crore Fraud Case - NDTV
+  CBI Arrests Airport Authority Manager In Rs
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNejVyTE94aUZzTTdlWHJqQUUzbF9FOVlibk5pZUU0ZktoTF9ZelYtLUZKeDFkT0dWNHFxbWtiNVR3NmVRVFAyX0Q0Z0NjXzB5eGFWOHU5ZFBjV3FRN25GSzhmT21BU1NGMVNjUVhzMXY4VjFtVHUzYnlyNG8yaTVCbVptYkd4VVNpMi0wQXZmQXhhdmN3T0dJajhQb19FUU5GenV3WlR2czlYemVHMVUw0gG3AUFVX3lxTE1UZGlkRkszZjJ5bEZIWjlWUVF1Y193enZXc3lUUDVDNHdDU3BkMGh6U1dndGF0dHdFUXNPcWlYV1NOcm5ocjk0cTAwMXVEeFlOSGRibTJoYmtjRnlXYm9ORUVNWGNzSElzN3poNjN2a25EeDlOSDViMDVuYXRpQ3A5Vlp3MEx1RDdqSU5uUDFnSUE1clVjOWxwYnhQTEw4WGxNR1RUZEg5RE11UjBIM2FVTkVPRUtJYw?oc=5
 
 - "It's Getting Late": Trump Claims India "Offered To Cut Tariffs To Nothing" - NDTV
   "It's Getting Late": Trump Claims India "
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPckVRdzN6NFB1aFZyV1VIdWliQm1Td0pDLWxFVW1kZ2JralB2WFk1enBfZE0xTm5GdkR6LXJIWFNhNF9SV2ZTcWlYUDFhM3NIMlctNlB0MmFjOXpveksxVHAxWWtSZXlVUTZVM3YzcnJUTF9lT1UzeTVNNXFONFhtcGxfenRXblhFdHZyWXdPamhpMUZVRzdWQzVfMmtkbXctLWRGMFZqSW1HMWJrY0HSAbYBQVVfeXFMUG00MmV0QkVrTnFiUEs4TWNseXl0U2ZLREpwa2JWS3RQbEFyNXZfY3NGUmR6N2FWdWJ1bURNeDVSam5HbVFWSFkxVTh0VGlWQXIybV8tS2JhcjJWR3RPalBfVmNFVGtfQ0hoSEpnQVA5YzAtNU1QeTcyYml5c1hRVUxjUFY5TEp0RDF1S3UxUWhzeEdDMGRrYW9kWGFvTm50ckdwQ0VFMHlZWXY3Vlozc2g4MVJGUWc?oc=5
 
-- 'It's getting late': Trump calls US-India trade 'one-sided disaster'; slams Russia oil, arms trade - Times of India
-  'It's getting late': Trump calls US-India trade 'one
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNb1V1eVEwTlNXQzFDdDJQZnRsNjl0WTRTb21Zcjk0R3RreXBjM3EzNnBWMzJEUzRoR3hTU3JBS250a2ZzcVBXUE5QenRJMEVXVDQybldNMk5ha3lTMkRlZC1QYTl0SWFiQXdTcnhZSWRmUFczQXhuWmJGOWtNaEo2elZRSlpvSmUtYTRfNmk3WjJ0dFlhMk1WdDFsRHpxLWZETHlDNTRYVmNMc1IxRmI1UnlSRmhxbGYxRDJuMnJDa0pJOU1lbmliYVJSeGR5S0hXWm5nTVJOcUloR0JremF6eXgwME4tUWJEV18tM01zc3lCbl9jcksxQWt4MU15MUs5Q2F6UmF5WdIBjAJBVV95cUxOQXEwc1Q2c1g3bjBIQ0M1UmxZN2RvZU5ibFRSYWl4RWFBbUJ2NDY5VGpRQmwzRlJYSzhYN1UzbUJOV1FPSkNQdGVaejFCS0xndWNwTXVWVTNPREp2T2EyYzBfaVExSExfeDZZNXhYS1ExTUNRdXM4MEIxLVFyYlBwSU1JMTFTQkgxc1JZenJZbnRpWURfYzd3WFZDYjJSODVhbFpyaEtqWFVXOHZYempwd1EzUGtLZXZ6c0JwWFZxN1JlSEplNHZySXBObXVCN1ZGdkRld2VsdDZFd285c3pQZE40RzBiMkZDZXdZUFlyck12T3Y0b2lZZ2g1YjI4cHFLVWZxS1NMTThWaGZY?oc=5
+- 'Brahmins profiteering': Donald Trump's trade adviser's latest jibe at India over Russian oil; BJP hits b - Times of India
+  'Brahmins profiteering': Donald Trump's trade adviser's latest j
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNanQ1RzE1UHpOYnQ1LXM3VkQ3M2lCNXczLXN5SU84X2s5UHZ4QzVmQ3UxNkZkTkdSOHFxRHlIdnhzc09LUno5eGIxRzhmOWNNZ1dzSlk0TV9OMkNtNWYwMWdpQTJMeXRoRTdHU0dqbldpdnNHd21CMnd1OHczdm9KdmZ5dm0wZ2FRcEVlTDVPQjJ6cVJMQ0JBOFBKa0d2bFZETVNIRkRFdGx5UHNjYjlHa0NEYkFGdC1jYm5uclNyalMwQjYtNHVPMTJ0XzZPSVAtRWlwX1BMWXVHQnZ0RnEtNDZVa1JGZmJwOERxZnVzNWlkOHV5ZUhQWm94aW5xUUx1Z1JwUmg5eG5uN3UyRElJ0gGUAkFVX3lxTE9DdDRHSTFjRlFXdzgyNHI4M1NQY0gxVEdXOTRtdEw1b2NwOTMxWmFNY01aemwyb1JDWVp0LU5HdVF6aHVFQmRZM2thVG1IS0FtZVdBLW5fQjlpWFVjMHZlSVY2MUxxTGszOTU2bnphU2JWUnYzS1JTano3bVJLMVQ4UWw2UFNvc2hrVHhSZnRFYmpCNkJpWjhfUU5VUGtxV2pSY0o4QjJKRUVZeW1DY0FTVXFJTVR4algxQXp3N2hLb2pHSW1hTUpUQnR0Tk1BOWltcmZwaDRfbXJzQjlRVWtoZ0pwaUttX0x1c05vYzdLMG1CSjY4ci1qSHFwWXRyeklXSkc4R296RmdOalRZbDJBVDJsZQ?oc=5
 
-- India's Modi has 'insightful' talks in Putin's limo - BBC
-  India's Modi has 'ins
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1raVFkRmM5NmNkWUMwMUlvb053UjBCVnhPellOdXpZMmxXZEZWQzFRVGk1SXdkcHoyQl9HOXJFNDdtRS1pS0hheFRiZ2xYdkx0VTBWd3JPZDg3UQ?oc=5
+- India-Pakistan: The stateless sisters caught between two countries - BBC
+  India-Pakistan: The state
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5URWtMeFdZMnhISzJGblk3bkpXcllFbjZNMDN2aFduNlpjb3ZsUXJub3M2NTNQSDAtZEdKY0ZGX19kV0dzSGVFdTY5ejUycnRTRXMtb3Z6Q0Q2QdIBX0FVX3lxTE1HQUtOV1JvWG93Y2JITnhYVEhodDZFbUVMOG9MMUpqZjN0VWdtVzAyclZHckM5a1Z6RFpDTF9DSDlHX0VzY3pqNDFSTkZKdFAyVW5PdUFoZWhuVkJ1Tk1v?oc=5
 
-- Heavy rain, floods batter northern India - The Hindu
-  Heavy rain, floods batter
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPTTY5VlAxRDB2eW53eDlOYTVRWUw3MU5idEJlQ0JQNDhnRWVXVnpXVE9aNnJfbG5hUnNQR21DclRDaFJ4Y2hjZWhCN1E3aGFHdG9ITWJtMjRpS2xxczRrcGNxTjI4OUljMVRVTnNzRTZVSkw2ZUVHZ0FsWWZYcnhmd19CbjNsQXJ4Q0FpbVp1ZmRBUU9SU2Q4d2pxRHFkY1XSAaYBQVVfeXFMT2MyZjZXU2FYN0FLQ2VxYVljZ0p6UnhBajNQbnRmSlFaNVprRlRXX3YxQVBmalp2eVBOVUEteTRTT3FaQWxOSmpMS05hUUJ3cUhsXzJCZWdiek5xNVpGU3RqZ18zc3ptUEhvOENDMmkxOEoyV19FRzJhMC12MlVnajczM2VxSUY0RDlMY1BVV0pZMFpBbHQ0OGtCVXRxa3RGTzFoMmVsUQ?oc=5
+- DGCA grants clearance to SATS Airport Services | Latest News India - Hindustan Times - Hindustan Times
+  DGCA grants clearance to SATS Airport Services.
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOclZ1YXM4ZlpiTW10a21OTlRKMWNfSWJsVnFodlJOYS1EVDZ4b3FZWWZNRkQzTkwtNXNTbENNbU5qWUE0RXpoZzVoLUpVOEJ1Mm1tUjk3SGYxdVd2X3Fja01maWpGVUZXOFV5cGw4V3B6TFNRdFdkUzU0OTdCNEJPTDFfQVM4emVvdnptdTRSUWxSWmNiVGdCazRQbzdMU1hYU1ZxS2dSOFpSSUZt0gGyAUFVX3lxTE1Tdm5TSHVqcGFGNEZLcnp3UHJvZGt4Mk1LTUstUlo4VTlGaS1BUFQ3ejVwVm43UEFjQU9tWmJfUWZPRDEtNkN2TDJRQVVKRjFzdXNRc3l1NjZPQ05xTWtCU2xmRFMxZFlIOWRORmtCb3g4bG1JVU1zVGJpalJBaEowd2FkbXdWeVhTLXJhM1hLblAwMlJONC1hRmdoZmU2d3haZGw1Z3liNndaUFFvbmw5aWc?oc=5
 
-- ‘Brahmins profiteering…’: Peter Navarro's latest take on India's Russian oil purchase - Hindustan Times
-  ‘Brahmins profiteering…�
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMjN6aHdHLXI2RjNCX2tXeHYzbkY0TVFGdWp2ODU0SUJMTFcxSmZpd2lUdmgtMlVxdjBsX25BUzFHcGpJcnpBSUJMS1pnWDNxamlMaW9Yd3pFQ3dhczlITlpXajktaDRxcFVDMFFUVVlZVUZxTkRGUjlJa05xWG5yTkFIb2xkanVldjc3ZlJ4QWxwWW05V3VzaG5LUjI2VlpIbXkyRVRQbnFwSHNrQmsxeVNVckswV1NFTjZISVlxVmtmSldCb0Mxa09FMVo1QWZTS0c0aDVBQzl6OGdVQXAxamtkZDVmaUU5a1NyYg?oc=5
-
-- "It's Getting Late": Trump Claims India "Offered To Cut Tariffs To Nothing" - NDTV
-  "It's Getting Late": Trump Claims India "
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPckVRdzN6NFB1aFZyV1VIdWliQm1Td0pDLWxFVW1kZ2JralB2WFk1enBfZE0xTm5GdkR6LXJIWFNhNF9SV2ZTcWlYUDFhM3NIMlctNlB0MmFjOXpveksxVHAxWWtSZXlVUTZVM3YzcnJUTF9lT1UzeTVNNXFONFhtcGxfenRXblhFdHZyWXdPamhpMUZVRzdWQzVfMmtkbXctLWRGMFZqSW1HMWJrY0HSAbYBQVVfeXFMUG00MmV0QkVrTnFiUEs4TWNseXl0U2ZLREpwa2JWS3RQbEFyNXZfY3NGUmR6N2FWdWJ1bURNeDVSam5HbVFWSFkxVTh0VGlWQXIybV8tS2JhcjJWR3RPalBfVmNFVGtfQ0hoSEpnQVA5YzAtNU1QeTcyYml5c1hRVUxjUFY5TEp0RDF1S3UxUWhzeEdDMGRrYW9kWGFvTm50ckdwQ0VFMHlZWXY3Vlozc2g4MVJGUWc?oc=5
-
-- 'It's getting late': Trump calls US-India trade 'one-sided disaster'; slams Russia oil, arms trade - Times of India
-  'It's getting late': Trump calls US-India trade 'one
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNb1V1eVEwTlNXQzFDdDJQZnRsNjl0WTRTb21Zcjk0R3RreXBjM3EzNnBWMzJEUzRoR3hTU3JBS250a2ZzcVBXUE5QenRJMEVXVDQybldNMk5ha3lTMkRlZC1QYTl0SWFiQXdTcnhZSWRmUFczQXhuWmJGOWtNaEo2elZRSlpvSmUtYTRfNmk3WjJ0dFlhMk1WdDFsRHpxLWZETHlDNTRYVmNMc1IxRmI1UnlSRmhxbGYxRDJuMnJDa0pJOU1lbmliYVJSeGR5S0hXWm5nTVJOcUloR0JremF6eXgwME4tUWJEV18tM01zc3lCbl9jcksxQWt4MU15MUs5Q2F6UmF5WdIBjAJBVV95cUxOQXEwc1Q2c1g3bjBIQ0M1UmxZN2RvZU5ibFRSYWl4RWFBbUJ2NDY5VGpRQmwzRlJYSzhYN1UzbUJOV1FPSkNQdGVaejFCS0xndWNwTXVWVTNPREp2T2EyYzBfaVExSExfeDZZNXhYS1ExTUNRdXM4MEIxLVFyYlBwSU1JMTFTQkgxc1JZenJZbnRpWURfYzd3WFZDYjJSODVhbFpyaEtqWFVXOHZYempwd1EzUGtLZXZ6c0JwWFZxN1JlSEplNHZySXBObXVCN1ZGdkRld2VsdDZFd285c3pQZE40RzBiMkZDZXdZUFlyck12T3Y0b2lZZ2g1YjI4cHFLVWZxS1NMTThWaGZY?oc=5
-
-- India's Modi has 'insightful' talks in Putin's limo - BBC
-  India's Modi has 'ins
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1raVFkRmM5NmNkWUMwMUlvb053UjBCVnhPellOdXpZMmxXZEZWQzFRVGk1SXdkcHoyQl9HOXJFNDdtRS1pS0hheFRiZ2xYdkx0VTBWd3JPZDg3UQ?oc=5
-
-- Heavy rain, floods batter northern India - The Hindu
-  Heavy rain, floods batter
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPTTY5VlAxRDB2eW53eDlOYTVRWUw3MU5idEJlQ0JQNDhnRWVXVnpXVE9aNnJfbG5hUnNQR21DclRDaFJ4Y2hjZWhCN1E3aGFHdG9ITWJtMjRpS2xxczRrcGNxTjI4OUljMVRVTnNzRTZVSkw2ZUVHZ0FsWWZYcnhmd19CbjNsQXJ4Q0FpbVp1ZmRBUU9SU2Q4d2pxRHFkY1XSAaYBQVVfeXFMT2MyZjZXU2FYN0FLQ2VxYVljZ0p6UnhBajNQbnRmSlFaNVprRlRXX3YxQVBmalp2eVBOVUEteTRTT3FaQWxOSmpMS05hUUJ3cUhsXzJCZWdiek5xNVpGU3RqZ18zc3ptUEhvOENDMmkxOEoyV19FRzJhMC12MlVnajczM2VxSUY0RDlMY1BVV0pZMFpBbHQ0OGtCVXRxa3RGTzFoMmVsUQ?oc=5
-
-- ‘Brahmins profiteering…’: Peter Navarro's latest take on India's Russian oil purchase - Hindustan Times
-  ‘Brahmins profiteering…�
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMjN6aHdHLXI2RjNCX2tXeHYzbkY0TVFGdWp2ODU0SUJMTFcxSmZpd2lUdmgtMlVxdjBsX25BUzFHcGpJcnpBSUJMS1pnWDNxamlMaW9Yd3pFQ3dhczlITlpXajktaDRxcFVDMFFUVVlZVUZxTkRGUjlJa05xWG5yTkFIb2xkanVldjc3ZlJ4QWxwWW05V3VzaG5LUjI2VlpIbXkyRVRQbnFwSHNrQmsxeVNVckswV1NFTjZISVlxVmtmSldCb0Mxa09FMVo1QWZTS0c0aDVBQzl6OGdVQXAxamtkZDVmaUU5a1NyYg?oc=5
+- CBI Arrests Airport Authority Manager In Rs 232 Crore Fraud Case - NDTV
+  CBI Arrests Airport Authority Manager In Rs
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNejVyTE94aUZzTTdlWHJqQUUzbF9FOVlibk5pZUU0ZktoTF9ZelYtLUZKeDFkT0dWNHFxbWtiNVR3NmVRVFAyX0Q0Z0NjXzB5eGFWOHU5ZFBjV3FRN25GSzhmT21BU1NGMVNjUVhzMXY4VjFtVHUzYnlyNG8yaTVCbVptYkd4VVNpMi0wQXZmQXhhdmN3T0dJajhQb19FUU5GenV3WlR2czlYemVHMVUw0gG3AUFVX3lxTE1UZGlkRkszZjJ5bEZIWjlWUVF1Y193enZXc3lUUDVDNHdDU3BkMGh6U1dndGF0dHdFUXNPcWlYV1NOcm5ocjk0cTAwMXVEeFlOSGRibTJoYmtjRnlXYm9ORUVNWGNzSElzN3poNjN2a25EeDlOSDViMDVuYXRpQ3A5Vlp3MEx1RDdqSU5uUDFnSUE1clVjOWxwYnhQTEw4WGxNR1RUZEg5RE11UjBIM2FVTkVPRUtJYw?oc=5
 
 - "It's Getting Late": Trump Claims India "Offered To Cut Tariffs To Nothing" - NDTV
   "It's Getting Late": Trump Claims India "
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPckVRdzN6NFB1aFZyV1VIdWliQm1Td0pDLWxFVW1kZ2JralB2WFk1enBfZE0xTm5GdkR6LXJIWFNhNF9SV2ZTcWlYUDFhM3NIMlctNlB0MmFjOXpveksxVHAxWWtSZXlVUTZVM3YzcnJUTF9lT1UzeTVNNXFONFhtcGxfenRXblhFdHZyWXdPamhpMUZVRzdWQzVfMmtkbXctLWRGMFZqSW1HMWJrY0HSAbYBQVVfeXFMUG00MmV0QkVrTnFiUEs4TWNseXl0U2ZLREpwa2JWS3RQbEFyNXZfY3NGUmR6N2FWdWJ1bURNeDVSam5HbVFWSFkxVTh0VGlWQXIybV8tS2JhcjJWR3RPalBfVmNFVGtfQ0hoSEpnQVA5YzAtNU1QeTcyYml5c1hRVUxjUFY5TEp0RDF1S3UxUWhzeEdDMGRrYW9kWGFvTm50ckdwQ0VFMHlZWXY3Vlozc2g4MVJGUWc?oc=5
 
-- 'It's getting late': Trump calls US-India trade 'one-sided disaster'; slams Russia oil, arms trade - Times of India
-  'It's getting late': Trump calls US-India trade 'one
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNb1V1eVEwTlNXQzFDdDJQZnRsNjl0WTRTb21Zcjk0R3RreXBjM3EzNnBWMzJEUzRoR3hTU3JBS250a2ZzcVBXUE5QenRJMEVXVDQybldNMk5ha3lTMkRlZC1QYTl0SWFiQXdTcnhZSWRmUFczQXhuWmJGOWtNaEo2elZRSlpvSmUtYTRfNmk3WjJ0dFlhMk1WdDFsRHpxLWZETHlDNTRYVmNMc1IxRmI1UnlSRmhxbGYxRDJuMnJDa0pJOU1lbmliYVJSeGR5S0hXWm5nTVJOcUloR0JremF6eXgwME4tUWJEV18tM01zc3lCbl9jcksxQWt4MU15MUs5Q2F6UmF5WdIBjAJBVV95cUxOQXEwc1Q2c1g3bjBIQ0M1UmxZN2RvZU5ibFRSYWl4RWFBbUJ2NDY5VGpRQmwzRlJYSzhYN1UzbUJOV1FPSkNQdGVaejFCS0xndWNwTXVWVTNPREp2T2EyYzBfaVExSExfeDZZNXhYS1ExTUNRdXM4MEIxLVFyYlBwSU1JMTFTQkgxc1JZenJZbnRpWURfYzd3WFZDYjJSODVhbFpyaEtqWFVXOHZYempwd1EzUGtLZXZ6c0JwWFZxN1JlSEplNHZySXBObXVCN1ZGdkRld2VsdDZFd285c3pQZE40RzBiMkZDZXdZUFlyck12T3Y0b2lZZ2g1YjI4cHFLVWZxS1NMTThWaGZY?oc=5
+- 'Brahmins profiteering': Donald Trump's trade adviser's latest jibe at India over Russian oil; BJP hits b - Times of India
+  'Brahmins profiteering': Donald Trump's trade adviser's latest j
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNanQ1RzE1UHpOYnQ1LXM3VkQ3M2lCNXczLXN5SU84X2s5UHZ4QzVmQ3UxNkZkTkdSOHFxRHlIdnhzc09LUno5eGIxRzhmOWNNZ1dzSlk0TV9OMkNtNWYwMWdpQTJMeXRoRTdHU0dqbldpdnNHd21CMnd1OHczdm9KdmZ5dm0wZ2FRcEVlTDVPQjJ6cVJMQ0JBOFBKa0d2bFZETVNIRkRFdGx5UHNjYjlHa0NEYkFGdC1jYm5uclNyalMwQjYtNHVPMTJ0XzZPSVAtRWlwX1BMWXVHQnZ0RnEtNDZVa1JGZmJwOERxZnVzNWlkOHV5ZUhQWm94aW5xUUx1Z1JwUmg5eG5uN3UyRElJ0gGUAkFVX3lxTE9DdDRHSTFjRlFXdzgyNHI4M1NQY0gxVEdXOTRtdEw1b2NwOTMxWmFNY01aemwyb1JDWVp0LU5HdVF6aHVFQmRZM2thVG1IS0FtZVdBLW5fQjlpWFVjMHZlSVY2MUxxTGszOTU2bnphU2JWUnYzS1JTano3bVJLMVQ4UWw2UFNvc2hrVHhSZnRFYmpCNkJpWjhfUU5VUGtxV2pSY0o4QjJKRUVZeW1DY0FTVXFJTVR4algxQXp3N2hLb2pHSW1hTUpUQnR0Tk1BOWltcmZwaDRfbXJzQjlRVWtoZ0pwaUttX0x1c05vYzdLMG1CSjY4ci1qSHFwWXRyeklXSkc4R296RmdOalRZbDJBVDJsZQ?oc=5
 
-- India's Modi has 'insightful' talks in Putin's limo - BBC
-  India's Modi has 'ins
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1raVFkRmM5NmNkWUMwMUlvb053UjBCVnhPellOdXpZMmxXZEZWQzFRVGk1SXdkcHoyQl9HOXJFNDdtRS1pS0hheFRiZ2xYdkx0VTBWd3JPZDg3UQ?oc=5
+- India-Pakistan: The stateless sisters caught between two countries - BBC
+  India-Pakistan: The state
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5URWtMeFdZMnhISzJGblk3bkpXcllFbjZNMDN2aFduNlpjb3ZsUXJub3M2NTNQSDAtZEdKY0ZGX19kV0dzSGVFdTY5ejUycnRTRXMtb3Z6Q0Q2QdIBX0FVX3lxTE1HQUtOV1JvWG93Y2JITnhYVEhodDZFbUVMOG9MMUpqZjN0VWdtVzAyclZHckM5a1Z6RFpDTF9DSDlHX0VzY3pqNDFSTkZKdFAyVW5PdUFoZWhuVkJ1Tk1v?oc=5
 
-- Heavy rain, floods batter northern India - The Hindu
-  Heavy rain, floods batter
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPTTY5VlAxRDB2eW53eDlOYTVRWUw3MU5idEJlQ0JQNDhnRWVXVnpXVE9aNnJfbG5hUnNQR21DclRDaFJ4Y2hjZWhCN1E3aGFHdG9ITWJtMjRpS2xxczRrcGNxTjI4OUljMVRVTnNzRTZVSkw2ZUVHZ0FsWWZYcnhmd19CbjNsQXJ4Q0FpbVp1ZmRBUU9SU2Q4d2pxRHFkY1XSAaYBQVVfeXFMT2MyZjZXU2FYN0FLQ2VxYVljZ0p6UnhBajNQbnRmSlFaNVprRlRXX3YxQVBmalp2eVBOVUEteTRTT3FaQWxOSmpMS05hUUJ3cUhsXzJCZWdiek5xNVpGU3RqZ18zc3ptUEhvOENDMmkxOEoyV19FRzJhMC12MlVnajczM2VxSUY0RDlMY1BVV0pZMFpBbHQ0OGtCVXRxa3RGTzFoMmVsUQ?oc=5
+- DGCA grants clearance to SATS Airport Services | Latest News India - Hindustan Times - Hindustan Times
+  DGCA grants clearance to SATS Airport Services.
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOclZ1YXM4ZlpiTW10a21OTlRKMWNfSWJsVnFodlJOYS1EVDZ4b3FZWWZNRkQzTkwtNXNTbENNbU5qWUE0RXpoZzVoLUpVOEJ1Mm1tUjk3SGYxdVd2X3Fja01maWpGVUZXOFV5cGw4V3B6TFNRdFdkUzU0OTdCNEJPTDFfQVM4emVvdnptdTRSUWxSWmNiVGdCazRQbzdMU1hYU1ZxS2dSOFpSSUZt0gGyAUFVX3lxTE1Tdm5TSHVqcGFGNEZLcnp3UHJvZGt4Mk1LTUstUlo4VTlGaS1BUFQ3ejVwVm43UEFjQU9tWmJfUWZPRDEtNkN2TDJRQVVKRjFzdXNRc3l1NjZPQ05xTWtCU2xmRFMxZFlIOWRORmtCb3g4bG1JVU1zVGJpalJBaEowd2FkbXdWeVhTLXJhM1hLblAwMlJONC1hRmdoZmU2d3haZGw1Z3liNndaUFFvbmw5aWc?oc=5
 
-- ‘Brahmins profiteering…’: Peter Navarro's latest take on India's Russian oil purchase - Hindustan Times
-  ‘Brahmins profiteering…�
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMjN6aHdHLXI2RjNCX2tXeHYzbkY0TVFGdWp2ODU0SUJMTFcxSmZpd2lUdmgtMlVxdjBsX25BUzFHcGpJcnpBSUJMS1pnWDNxamlMaW9Yd3pFQ3dhczlITlpXajktaDRxcFVDMFFUVVlZVUZxTkRGUjlJa05xWG5yTkFIb2xkanVldjc3ZlJ4QWxwWW05V3VzaG5LUjI2VlpIbXkyRVRQbnFwSHNrQmsxeVNVckswV1NFTjZISVlxVmtmSldCb0Mxa09FMVo1QWZTS0c0aDVBQzl6OGdVQXAxamtkZDVmaUU5a1NyYg?oc=5
+- CBI Arrests Airport Authority Manager In Rs 232 Crore Fraud Case - NDTV
+  CBI Arrests Airport Authority Manager In Rs
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNejVyTE94aUZzTTdlWHJqQUUzbF9FOVlibk5pZUU0ZktoTF9ZelYtLUZKeDFkT0dWNHFxbWtiNVR3NmVRVFAyX0Q0Z0NjXzB5eGFWOHU5ZFBjV3FRN25GSzhmT21BU1NGMVNjUVhzMXY4VjFtVHUzYnlyNG8yaTVCbVptYkd4VVNpMi0wQXZmQXhhdmN3T0dJajhQb19FUU5GenV3WlR2czlYemVHMVUw0gG3AUFVX3lxTE1UZGlkRkszZjJ5bEZIWjlWUVF1Y193enZXc3lUUDVDNHdDU3BkMGh6U1dndGF0dHdFUXNPcWlYV1NOcm5ocjk0cTAwMXVEeFlOSGRibTJoYmtjRnlXYm9ORUVNWGNzSElzN3poNjN2a25EeDlOSDViMDVuYXRpQ3A5Vlp3MEx1RDdqSU5uUDFnSUE1clVjOWxwYnhQTEw4WGxNR1RUZEg5RE11UjBIM2FVTkVPRUtJYw?oc=5
 
-- The Coming Inflection Point For Quantum Technology - Forbes
-  The coming inflection point
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDhPbUhWRXZ3a0hZcEl4ajQ3U0hQSlZGUURSVEdwc0lnODFqdnZzMFZmUDg4RGxHVmE1bTZjS3hPamZQUWxjejBCSjdGZ1R5V0tIcm1nQW4zOS16M2RfVE1VWk9MaEdyaXhfMkJqdU91VEFGV2pfdmtBWmdGeUdqVFlrcFhHTWpMZUc1bklHWFhJX2FPTEk3aUtPSy00WURKZXdGMERn?oc=5
+- "It's Getting Late": Trump Claims India "Offered To Cut Tariffs To Nothing" - NDTV
+  "It's Getting Late": Trump Claims India "
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPckVRdzN6NFB1aFZyV1VIdWliQm1Td0pDLWxFVW1kZ2JralB2WFk1enBfZE0xTm5GdkR6LXJIWFNhNF9SV2ZTcWlYUDFhM3NIMlctNlB0MmFjOXpveksxVHAxWWtSZXlVUTZVM3YzcnJUTF9lT1UzeTVNNXFONFhtcGxfenRXblhFdHZyWXdPamhpMUZVRzdWQzVfMmtkbXctLWRGMFZqSW1HMWJrY0HSAbYBQVVfeXFMUG00MmV0QkVrTnFiUEs4TWNseXl0U2ZLREpwa2JWS3RQbEFyNXZfY3NGUmR6N2FWdWJ1bURNeDVSam5HbVFWSFkxVTh0VGlWQXIybV8tS2JhcjJWR3RPalBfVmNFVGtfQ0hoSEpnQVA5YzAtNU1QeTcyYml5c1hRVUxjUFY5TEp0RDF1S3UxUWhzeEdDMGRrYW9kWGFvTm50ckdwQ0VFMHlZWXY3Vlozc2g4MVJGUWc?oc=5
 
-- Young innovators redefine technology in Bihar - Times of India
-  Young innovators redefine technology
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPa21UTXA4dTZGc3hmaGp2Z21kOF9sc2pVMUpUOGpjbTY2T3dYUGlBMEpCMzVXSW5TaUszM2xkT2tQQjJQeU50VXN3bGNMT2MyVjlRdkcxcC1WZHl3TFZLUXFKMW1MYzl5MmlrQVkwbVRjNjU0REdqOXFwUTZ5RU9VaWR3dDlFYmpoZVFpS25sMk5zSm51WWhSMzYtcjdtNW4tMkVGTlBEY0FPUWZiZlVrRnZhWUw5VW9KMlHSAb8BQVVfeXFMTS1vek13RDBjQUNtY1pBeGgxZmJOS3lHNDQxTkFPeldtYXNURmdXSW9WU3NqazE5cE50M0dYdjNrOThWRE5yeHYyb0lOQ0xCaHV6blAzclpCZGxGQ2NWUnZiaEg3Rk8zUlJoSFVwWlpPSDNYZmdvOG9fenMxNTdjcTBhdEMzYmFFY2MyT2pueEx5RlpMZzlfZFBhbHNPVkt3VWdBMzMtVDBXcGNlSkZXOEdSV3J0T1BBb3I5bktLMkk?oc=5
+- 'Brahmins profiteering': Donald Trump's trade adviser's latest jibe at India over Russian oil; BJP hits b - Times of India
+  'Brahmins profiteering': Donald Trump's trade adviser's latest j
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNanQ1RzE1UHpOYnQ1LXM3VkQ3M2lCNXczLXN5SU84X2s5UHZ4QzVmQ3UxNkZkTkdSOHFxRHlIdnhzc09LUno5eGIxRzhmOWNNZ1dzSlk0TV9OMkNtNWYwMWdpQTJMeXRoRTdHU0dqbldpdnNHd21CMnd1OHczdm9KdmZ5dm0wZ2FRcEVlTDVPQjJ6cVJMQ0JBOFBKa0d2bFZETVNIRkRFdGx5UHNjYjlHa0NEYkFGdC1jYm5uclNyalMwQjYtNHVPMTJ0XzZPSVAtRWlwX1BMWXVHQnZ0RnEtNDZVa1JGZmJwOERxZnVzNWlkOHV5ZUhQWm94aW5xUUx1Z1JwUmg5eG5uN3UyRElJ0gGUAkFVX3lxTE9DdDRHSTFjRlFXdzgyNHI4M1NQY0gxVEdXOTRtdEw1b2NwOTMxWmFNY01aemwyb1JDWVp0LU5HdVF6aHVFQmRZM2thVG1IS0FtZVdBLW5fQjlpWFVjMHZlSVY2MUxxTGszOTU2bnphU2JWUnYzS1JTano3bVJLMVQ4UWw2UFNvc2hrVHhSZnRFYmpCNkJpWjhfUU5VUGtxV2pSY0o4QjJKRUVZeW1DY0FTVXFJTVR4algxQXp3N2hLb2pHSW1hTUpUQnR0Tk1BOWltcmZwaDRfbXJzQjlRVWtoZ0pwaUttX0x1c05vYzdLMG1CSjY4ci1qSHFwWXRyeklXSkc4R296RmdOalRZbDJBVDJsZQ?oc=5
 
-- Fertiliser Breakthrough: India Develops First Indigenous Water-Soluble Technology - Deccan Herald
-  India has developed the world's first
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQUxUbU1KeEYtcUlvWTJUeE4wS1V1LWFEUHJHSzhlUG1maEpwOEZPWlE5Z3VFSld4RlhlV0R2NTdfV0MtQ2JNQ29nQ3hrUTJ0V2J5R3JFQ0NuZUN1RFFXYXVqd3BORm5xcGk2ZHVYUFgzZFVmUkRHSTVraTFLS21YeUtRdzVTTHozNDdZeDZWbHBTWmEtQ29oSVJBV2VObWxmV0hYb1lFNTBrWnJaTU50NVFYd1I5eEdJYU5hRzFQRF8zOWF3Q2NmM0NDeFZPWHhuVlJVR2phemg?oc=5
+- India-Pakistan: The stateless sisters caught between two countries - BBC
+  India-Pakistan: The state
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5URWtMeFdZMnhISzJGblk3bkpXcllFbjZNMDN2aFduNlpjb3ZsUXJub3M2NTNQSDAtZEdKY0ZGX19kV0dzSGVFdTY5ejUycnRTRXMtb3Z6Q0Q2QdIBX0FVX3lxTE1HQUtOV1JvWG93Y2JITnhYVEhodDZFbUVMOG9MMUpqZjN0VWdtVzAyclZHckM5a1Z6RFpDTF9DSDlHX0VzY3pqNDFSTkZKdFAyVW5PdUFoZWhuVkJ1Tk1v?oc=5
 
-- India-Japan alliance fashions future on trust and technology - The New Indian Express
-  India-Japan alliance fashions future on
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnFqcEtnVWQ1Q2xoN0JNVGU2c2Zzcng1RTRwcnowRmhZZnZ2RlNUQU5YMG9Vd01adVJ0TE9ZYUtBSWRjLVlISzBnN19zcmpaMVhwOHJDOUpZQU1LRVlEY1FFUGU0bUtqSm1vd2lCY2x1aDU2M2tZTUl6eldSS1FnMkMwNW4tbW9sM0Zld3lDZWg3RUVoU1RwUnNPWm5oOGNRNnlQQkNQYUw3WENONERVMno0UFZON0nSAcQBQVVfeXFMUHRiZ2N0MC02T2doV1k2cTlIM04tdEtZOGZmUU91OGdPVW9ZVG1URGhPcHdCNVU3TU83X0gxQ0RzQkN0SXl2bDNsUXRtWVFtS3hPcFl1NFBlMVd2bXRaTHZjSE5nRWh1ZmFKcERSb3ZPa3hEVzRhcWwtTjR2aDNsZnUta19kZ0JTd0hfM0ZGRExNUnRKeW1QNzhnVHVObnN4UFR4dWlDRlVFRVVMSkdxTWY1TDVCclA4OFAxeGR6ZjBmNlFPYQ?oc=5
+- DGCA grants clearance to SATS Airport Services | Latest News India - Hindustan Times - Hindustan Times
+  DGCA grants clearance to SATS Airport Services.
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOclZ1YXM4ZlpiTW10a21OTlRKMWNfSWJsVnFodlJOYS1EVDZ4b3FZWWZNRkQzTkwtNXNTbENNbU5qWUE0RXpoZzVoLUpVOEJ1Mm1tUjk3SGYxdVd2X3Fja01maWpGVUZXOFV5cGw4V3B6TFNRdFdkUzU0OTdCNEJPTDFfQVM4emVvdnptdTRSUWxSWmNiVGdCazRQbzdMU1hYU1ZxS2dSOFpSSUZt0gGyAUFVX3lxTE1Tdm5TSHVqcGFGNEZLcnp3UHJvZGt4Mk1LTUstUlo4VTlGaS1BUFQ3ejVwVm43UEFjQU9tWmJfUWZPRDEtNkN2TDJRQVVKRjFzdXNRc3l1NjZPQ05xTWtCU2xmRFMxZFlIOWRORmtCb3g4bG1JVU1zVGJpalJBaEowd2FkbXdWeVhTLXJhM1hLblAwMlJONC1hRmdoZmU2d3haZGw1Z3liNndaUFFvbmw5aWc?oc=5
 
-- Samsung Expands "Galaxy empowered" to Mumbai, Bringing AI and Technology Training to Teachers - The Hans India
-  The Hans India is a news site that focuses on technology and education
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd3lNeHhjZnBGaGtKaWRFWFVtRzFUeUk0aUhOenN5aWo4TVM4Uzh0YmxhemZreXd0blBjOVhaTmg2ekk5LTBKcnRYYzNDYlVkNXljaWlHall2TVFKdF95RGFxZGExamotZG9CeFBTSWZrN1NEb0dTS3VwY0xwSmZXSEhQTElCQ3NNU2dzVWlIY1FUQXdZaVZLNjRaRFIyRHhLTk1CM1oxRTJtZ3ZBN3ppTjJwQmFsbF9uX3pkdVRhLTBDUXZQX1paOG5LUlFrVnVROUHSAdcBQVVfeXFMTzE2WHdCNDFscnl1NHhvUzF3WmZ5RV81ZFJIc0lHejhwbjV3ZUlQZkxVLXZ3WTJTVkxNVU5OM215c0NwXzUwWEx0ZTlZdVlWYXNLR3RMQldWR0xiWFdSQUVWcmkyWmI5eXRZYWUwUklmMnQ2SjlQUUk5emdUM0ZDSUdpbmxkMVNUM0E5ZkxVd0trOWtFSGZPWWVDVk9iSGptaExycENMWU1Nd1NkVHdCckFCQnZ6ODJqcWxITGJwUWtaNF85V0M3a19QQzExeHoycktNR1JWUkE?oc=5
+- CBI Arrests Airport Authority Manager In Rs 232 Crore Fraud Case - NDTV
+  CBI Arrests Airport Authority Manager In Rs
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNejVyTE94aUZzTTdlWHJqQUUzbF9FOVlibk5pZUU0ZktoTF9ZelYtLUZKeDFkT0dWNHFxbWtiNVR3NmVRVFAyX0Q0Z0NjXzB5eGFWOHU5ZFBjV3FRN25GSzhmT21BU1NGMVNjUVhzMXY4VjFtVHUzYnlyNG8yaTVCbVptYkd4VVNpMi0wQXZmQXhhdmN3T0dJajhQb19FUU5GenV3WlR2czlYemVHMVUw0gG3AUFVX3lxTE1UZGlkRkszZjJ5bEZIWjlWUVF1Y193enZXc3lUUDVDNHdDU3BkMGh6U1dndGF0dHdFUXNPcWlYV1NOcm5ocjk0cTAwMXVEeFlOSGRibTJoYmtjRnlXYm9ORUVNWGNzSElzN3poNjN2a25EeDlOSDViMDVuYXRpQ3A5Vlp3MEx1RDdqSU5uUDFnSUE1clVjOWxwYnhQTEw4WGxNR1RUZEg5RE11UjBIM2FVTkVPRUtJYw?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-01 18:24:42 UTC_
+_Last updated: 2025-09-02 01:12:44 UTC_
