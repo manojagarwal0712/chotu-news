@@ -1,192 +1,244 @@
 # 📰 Daily News Summaries
 
-- No politicking in wake of natural disasters, Centre must provide funds to flood-affected states: Congress
+- Kerala governor moves SC against order giving CM role in picking V-Cs of 2 universities
   
-  🔗 https://indianexpress.com/article/india/congress-flood-areas-rainfall-politcs-natural-disasters-10225445/
+  🔗 https://indianexpress.com/article/india/kerala-governor-sc-order-cm-role-universities-v-c-10226174/
 
-- Senior AAI manager siphons off Rs 232 crore to his personal account, held: CBI
+- Why Jagan, his MLAs are not attending assembly sessions in Andhra Pradesh
   
-  🔗 https://indianexpress.com/article/india/aai-manager-siphons-off-rs-232-crore-personal-account-cbi-10225426/
+  🔗 https://indianexpress.com/article/india/jagan-mla-assembly-sessions-andhra-pradesh-10226173/
 
-- Gold Today Rate, September 2: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- Manju Sharma, wife of poet Kumar Vishwas, resigns from RPSC after High Court says she ‘compromised integrity’ of 2021 SI recruitment exam
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-september-2-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10225293/
+  🔗 https://indianexpress.com/article/india/manju-sharma-resigns-kumar-vishwas-rpsc-high-court-si-recruitment-exam-10226135/
 
-- Homes flooded with industrial chemicals in some Jodhpur villages, residents are told to move out
+- Over 400 Himalayan glacial lakes expanding, need vigorous monitoring: Central Water Commission
   
-  🔗 https://indianexpress.com/article/india/homes-flooded-with-industrial-chemicals-in-some-jodhpur-villages-residents-are-told-to-move-out-10225050/
+  🔗 https://indianexpress.com/article/india/over-400-himalayan-glacial-lakes-expanding-need-vigorous-monitoring-central-water-commission-10226154/
 
-- Exclusive | Matchmaking in MP: To make Gandhi Sagar a second home for cheetahs, wildlife dept will introduce female after monsoon
+- Unidentified men threaten Tripura legislator Philip Reang at MLA hostel in Agartala, probe launched
   
-  🔗 https://indianexpress.com/article/india/exclusive-matchmaking-in-mp-to-make-gandhi-sagar-a-second-home-for-cheetahs-wildlife-dept-will-introduce-female-after-monsoon-10225041/
+  🔗 https://indianexpress.com/article/india/tripura-legislator-philip-reang-threat-mla-hostel-agartala-10225900/
 
-- Ahead of iPhone 17 launch, Apple flexes AI muscle with FastVLM and MobileCLIP2
+- Battlefield 6 developer reveals why ray-tracing isn’t coming anytime soon
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/apple-ai-models-fastvlm-mobileclip2-on-device-10225411/
+  🔗 https://indianexpress.com/article/technology/gaming/battlefield-6-developer-explains-no-ray-tracing-support-10225865/
 
-- Apple AirPods Pro 3 could launch next week: Here’s what we know
+- Apple adds MacBook with Touch Bar to its obsolete and vintage product lineup
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-airpods-pro-3-could-launch-next-week-heres-what-we-know-10225408/
+  🔗 https://indianexpress.com/article/technology/apple-adds-macbook-with-touch-bar-to-its-obsolete-and-vintage-product-lineup-10226072/
 
-- Enterprise adoption of AI should be driven by leaders: Microsoft India COO Himani Agrawal
+- New AI-powered stethoscope developed by UK doctors can detect heart problems ‘in seconds’
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-adoption-enterprise-leaders-microsoft-india-coo-10224594/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-stethoscope-can-detect-heart-problems-in-seconds-10225871/
 
-- I tried Google’s Nano Banana AI image editing model, and yes, I did take a selfie with Shah Rukh Khan
+- Swarovski and Motorola collaborate to launch Razr 60 and Moto Buds LOOP fitted with crystals
   
-  🔗 https://indianexpress.com/article/technology/opinion-technology/i-tried-googles-nano-banana-ai-image-editing-model-and-yes-i-did-take-a-selfie-with-shah-rukh-khan-10223709/
+  🔗 https://indianexpress.com/article/technology/swarovski-and-motorola-collaborate-to-launch-razr-60-and-moto-buds-loop-10225817/
 
-- Nvidia says 40% of Q2 FY26 revenue came from just 2 customers: Who are the mystery buyers?
+- Intel’s new patent aims to increase CPU performance with software
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-majority-revenue-two-buyers-who-are-they-10223770/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/intel-software-defined-supercores-cpu-core-performance-increase-10225542/
 
-- Lure of the glass skin: Why K-beauty king Amorepacific is doubling down on India
-  South Korea’s top beauty company Amorepacific Group is doubling down on its business in India.
-  🔗 https://www.livemint.com/companies/lure-of-the-glass-skin-k-beauty-tirtir-amorepacific-india-nykaa-myntra-etude-pilgrim-axis-y-e-commerce-sugar-cosmetics-11756730298057.html
+- Battery tech startup Offgrid Energy Labs raises $15 million in funding
+  Offgrid Energy Labs, a battery tech startup, has raised $15 million in Series A funding led by Archean Chemicals. This investment will help advance
+  🔗 https://www.livemint.com/companies/start-ups/battery-tech-startup-offgrid-energy-labs-raises-15-million-in-funding-11756813770249.html
 
-- K-pop to K-snack: How FMCG giants are riding the fusion food wave
-  Large food companies in India are popularizing exotic flavors like Korean-style snacks. Consumers are increasingly
-  🔗 https://www.livemint.com/companies/korean-snacks-in-india-korean-flavours-snacks-korean-chips-price-india-korean-instant-noodles-india-korean-food-wave-11756623651304.html
+- TCS salary hike: IT major rolls out wage hikes to employees. Here's how much they got
+  Tata Consultancy Services announced its latest round of salary hikes, effective September 2025. The hikes have been rolled
+  🔗 https://www.livemint.com/companies/news/tcs-salary-hike-it-major-rolls-out-wage-hikes-to-employees-heres-how-much-they-got-11756810140030.html
 
-- Who is Laurent Freixe? All about Nestlé CEO who was fired over romantic relationship with employee
-  Laurent Freixe had been with Nestlé since 1986. He was replaced by company veteran Philipp Navratil.
-  🔗 https://www.livemint.com/companies/news/who-is-laurent-freixe-nestle-ceo-fired-over-romantic-relationship-with-employee-11756771164272.html
+- Who is Philipp Navratil? Nestlé replaces fired CEO Laurent Freixe with insider after office affair
+  Philipp Navratil's appointment comes after the Swiss company dismissed Laurent Freixe
+  🔗 https://www.livemint.com/companies/people/who-is-philipp-navratil-nestl-replaces-ceo-laurent-freixe-with-insider-after-office-affair-11756810587754.html
 
-- JSW holds talks with four Chinese firms as EV battery know-how hunt intensifies in three countries
-  JSW Group aims to establish a lithium-ion battery manufacturing facility in India. The project plans to ramp up to 50GWh capacity by 2032, beginning with 10
-  🔗 https://www.livemint.com/companies/jsw-holds-talks-with-four-chinese-firms-as-ev-battery-know-how-hunt-intensifies-in-three-countries-11756725871725.html
+- Venturi Partners announces first close of $150 million for its second fund
+  Venturi is looking at companies in consumer startups and will invest in 10 companies over the fund's lifecycle
+  🔗 https://www.livemint.com/companies/news/venturi-partners-venture-capital-startup-funding-growth-equity-consumer-startups-fundraising-private-equity-11756801905509.html
 
-- Flipkart acquires majority stake in Pinkvilla to enhance engagement with Gen Z and millennial audiences
-  Flipkart acquired a majority stake in the digital infotainment platform, Pinkvilla India
-  🔗 https://www.livemint.com/companies/news/flipkart-acquires-majority-stake-in-pinkvilla-to-enhance-engagement-with-gen-z-and-millennial-audiences-11756748132884.html
+- India Inc’s efficiency gains face a GST test. Can they rebound amid weak demand?
+  The government’s GST overhaul risks locking up cash and lengthening working capital cycles. Weak demand adds pressure
+  🔗 https://www.livemint.com/companies/india-inc-s-efficiency-gains-face-a-gst-test-can-they-rebound-amid-weak-demand-11756797303407.html
 
-- Shares to buy in short term: Mehta Equities? Riyank suggests Stallion Fluorochem, Q Power, Dabur stock to buy
-  Nifty 50 rose 0.45% to 24,734. Positive sentiment stems from strong GDP figures and potential GST cuts for various products.
-  🔗 https://www.livemint.com/market/stock-market-news/shares-to-buy-in-short-term-mehta-equities-riyank-suggests-stallion-fluorochem-q-power-dabur-stock-to-buy-11756792706432.html
+- IPO alert: Urban Company, boAt secure Sebi approval for listings
+  The regulator’s clearance comes at a time when IPO activity is gaining momentum. Sebi
+  🔗 https://www.livemint.com/market/ipo/urban-company-ipo-boat-ipo-upcoming-ipos-india-sebi-ipo-approval-indian-stock-market-news-startup-ipo-india-11756813453637.html
 
-- Phoenix Mills share price jumps over 5% as Motilal Oswal raises target price to  ?2,044
-  Phoenix Mills shares increased by 5.3% to  ?1,597 after a rating upgrade from Motilal Oswal. The brokerage forecasts strong growth
-  🔗 https://www.livemint.com/market/stock-market-news/phoenix-mills-share-price-jumps-over-5-as-motilal-oswal-raises-target-price-to-rs-2044-11756792754803.html
+- Anlon Healthcare IPO to list on Wednesday; GMP signals muted debut, price and other details here
+  The IPO of Anlon Healthcare was oversubscribed 7.12 times. The company, focusing on pharmaceutical intermediates, aims to use proceeds for expansion, debt repayment and working capital.
+  🔗 https://www.livemint.com/market/ipo/anlon-healthcare-ipo-to-list-on-wednesday-gmp-signals-muted-debut-price-and-other-details-here-11756812622557.html
 
-- ?0.05 to  ?1.98: Multibagger penny stock hits record high, hits upper circuit for 38th straight session
-  Multibagger penny stock hit record high during the intraday trades on Tuesday. Avance Technologies also hit upper circuit for 38th straight session
-  🔗 https://www.livemint.com/market/stock-market-news/rs-0-05-to-rs-1-98-multibagger-penny-stock-hits-record-high-hits-upper-circuit-for-38th-straight-session-11756789294880.html
+- Expert view: Broader markets may outperform over the next 12 months, says Axis Securities MD and CEO
+   Axis Securities MD and CEO Pranav Haridasan discusses the expected recovery of broader markets in the next 12 months.
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-on-indian-stock-market-broader-markets-may-outperform-over-next-12-months-says-axis-securities-md-11756812208845.html
 
-- The miser's gold: Finding value in India's most expensive tocks
-  Stop waiting for ?perfect? stocks and start finding serious growth. This is how to
-  🔗 https://www.livemint.com/market/stock-market-news/india-markets-investing-valuations-high-pe-stocks-11756786139840.html
+- Why Syrma SGS is suddenly on every investor's radar
+  Jefferies and Nuvama have issued ‘buy’ ratings for the company. IIFL Capital is even more optimistic
+  🔗 https://www.livemint.com/market/syrma-sgs-electronics-stock-pli-make-in-india-11756808408395.html
 
-- Small-cap NBFC stock UGRO Capital extends rally to seventh day in a row; here's what PE, ROE signal
-  Small-cap NBFC stock UGRO Capital rose for the seventh consecutive session, gaining 8% while the BSE Sensex declined 1.5%. Over six months, it has increased by
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-nbfc-stock-ugro-capital-extends-rally-to-seventh-day-in-a-row-heres-what-pe-roe-signal-11756791435002.html
+- AMC Stocks at Crossroads: Technical Weakness vs. Record Mutual Fund Flows
+  Listed asset management companies have excelled this year due to record mutual fund inflows. Analysts warn of a potential slowdown as valuations rise and competition
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-amc-nippon-life-amc-etc-amc-stocks-at-crossroads-technical-weakness-vs-record-mutual-fund-flows-11756802725794.html
 
-- Semicon India 2025: PM Modi calls chips the ‘digital diamonds’ of 21st century
-  Prime Minister Narendra Modi highlighted the importance of chipsets at the Semicon 2025 summit. He emphasized the significance of chips in driving global development, comparing them to digital diamonds.
-  🔗 https://www.livemint.com/technology/tech-news/semicon-india-2025-pm-narendra-modi-calls-chips-the-digital-diamonds-of-21st-century-11756792212664.html
+- Apple tells suppliers to adopt robots, reduce reliance on workers ahead of iPhone 17 launch: Report
+  Apple is reportedly pushing for increased automation in manufacturing. This shift is reportedly aimed to reduce labor dependency and costs.
+  🔗 https://www.livemint.com/technology/tech-news/apple-tells-suppliers-to-adopt-robots-reduce-reliance-on-workers-ahead-of-iphone-17-launch-report-11756811503879.html
 
-- Motorola Razr 60 Swarovski Edition, Moto Buds LOOP launched in India: Pricing, features and more
-   Motorola launches the Brilliant Collection with Swarovski. Available in India from September 11, 2025, the collection includes a combo pack for  ₹64,999
-  🔗 https://www.livemint.com/technology/gadgets/motorola-razr-60-swarovski-edition-moto-buds-loop-launched-in-india-pricing-features-and-more-11756792492911.html
+- Realme’s 10,000mAh phone set to enter production next year: Here’s what we know so far
+  Realme has confirmed that its 10,000mAh concept phone will go into mass production next year. The phone is said to weigh
+  🔗 https://www.livemint.com/technology/tech-news/realmes-10-000mah-phone-set-to-enter-production-next-year-here-s-what-we-know-so-far-11756809732955.html
 
-- Did Gmail send ‘emergency warning’ to 2.5 billion users? Google says it never happened
-  Google refuted false claims about issuing a warning to Gmail users regarding a security breach. The tech company affirmed its strong phishing protections and encouraged users to consider adopting Passkeys for
-  🔗 https://www.livemint.com/technology/tech-news/did-gmail-send-emergency-warning-to-2-5-billion-users-google-says-it-never-happened-11756790277526.html
+- 10 best computer sets under  ₹30000 in 2025 for work, study and entertainment
+  Find the best computer sets under  ₹30000 in 2025 that balance performance
+  🔗 https://www.livemint.com/technology/gadgets/10-best-computer-sets-under-rs-30000-in-2025-for-work-study-and-entertainment-11756804449447.html
 
-- Think twice before typing! OpenAI admits your ChatGPT messages could land in police hands
-  OpenAI says ChatGPT conversations involving threats to others may be reviewed by human moderators.
-  🔗 https://www.livemint.com/technology/tech-news/think-twice-before-typing-openai-admits-your-chatgpt-messages-could-land-in-police-hands-11756780662928.html
+- Sony PlayStation Plus September line-up: Psychonauts 2, Stardew Valley,  and Viewfinder free this month
+  Sony will add Psychonauts 2, Stardew Valley, and Viewfinder to PlayStation Plus Monthly Games on 2 September. Sub
+  🔗 https://www.livemint.com/technology/tech-news/sony-playstation-plus-september-line-up-psychonauts-2-stardew-valley-and-viewfinder-free-this-month-11756806360956.html
 
-- IT Minister Ashwini Vaishnaw meets gaming firms to discuss eSports and player protection
-  Union IT Minister Ashwini Vaishnaw met with the gaming industry to discuss user protection and compliance.
-  🔗 https://www.livemint.com/technology/tech-news/it-minister-ashwini-vaishnaw-meets-gaming-firms-to-discuss-esports-and-player-protection-11756776552048.html
+- iPhone 17 a sell-out before launch? 70% of US users plan to upgrade ahead of Apple’s ‘Awe Dropping’ event on Sept 9
+  Apple is set to unveil the iPhone 17 series on September 9. Approximately 68.3% of current users plan to upgrade, according to a recent survey.
+  🔗 https://www.livemint.com/technology/tech-news/iphone-17-a-sell-out-before-launch-70-of-us-users-plan-to-upgrade-ahead-of-apple-s-awe-dropping-event-on-sept-9-11756800913566.html
 
-- One MobiKwik Systems shares surge up to 12% following ADIA stake sale
-  MobiKwik shares jumped on Tuesday after Abu Dhabi Investment Authority exited its 2.1% stake. The stock later pared gains to trade 8.5% higher, as BofA Securities
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/one-mobikwik-systems-shares-surge-up-to-12-following-adia-stake-sale/articleshow/123649710.cms
+- Stock market close highlights: Sensex down 207pts, Nifty at 24,580; Financial, Pharma top drags - Business Standard
+  <ol><li><a href="https://news.google.com/rss/articles/CBMijwJBVV95cUxNZFdDVGdWaWM1OVVmektBc3BpTkdjY3Rsa205MU41OUhpZFNaX0plNnk4YkRNVXdrUUdLd0oyc2tWb3hDbzllVGhHX0VhQnl0TmpPV3hoaWQyaEI0UXF0TXVXUUY4NnpRZT
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNZFdDVGdWaWM1OVVmektBc3BpTkdjY3Rsa205MU41OUhpZFNaX0plNnk4YkRNVXdrUUdLd0oyc2tWb3hDbzllVGhHX0VhQnl0TmpPV3hoaWQyaEI0UXF0TXVXUUY4NnpRZTlBUWhKa282dG8zd1c4VGExOU5DdnFOTWxCM1dPSWdyQ3ZLYUx2UEZ4N0psS0tZOEtTQm1ydWRWR29WeGowemQxYWFkM1MwVHEyLV91ZnhQQjFtOWMtN25wM3ktcWtobHNNU1hnbHR1VWJqS3ZndGhzdHZNblR3SUFWeG9KaG54em5IZ1Q2NkxwdUtBTlhMNzRIT2dvd1hxWTBRTThTT2JNd1I1ZTVz0gGUAkFVX3lxTE5Ub203c0Z4YkpVZktFYkVMcXc0bS03X1NHSElCdEQ3UW90eFBzNVhyV2JhcmhncUtkUHhmUVdjOXZVWEo5MVMyV1NBNzV4THBGakJxa0l0V3Z5ZVpZakVIY1NHMXdkYmgyYVlFX3ItYmQ2T0hkRzAxbzExNWRkQjNzRmZLT25rZGl0Wk5fdkRfelRneWg1UVY5V0E4SzU2bXZfdUFNbHA5NFBZdWNhdTkzaVY0dmRNdWxjdFVwNmdLMGRqbUY0aHQ4RWFKZERfRWh6VG9tRkhnWWxRM3kxM3lGVV9fNzIwc0hhWk5zVlBWZFh2TEgyMy1SVjctR2FyVVZyNDU2WF83Ukx4RUNBSkIyS2hBVQ?oc=5
 
-- NSE weekly expiry moves to Tuesday: 10 key things traders must know
-  Starting August 28, 2025, the NSE has shifted Nifty’s weekly expiry from Thursday to Tuesday, ending a 25-year tradition. This historic move reshapes trading strategies, accelerates weekend time decay, and redist
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-weekly-expiry-moves-to-tuesday-10-key-things-traders-must-know/articleshow/123649383.cms
+- US Tech Extends Selloff as Global Bond Yields Rise: Markets Wrap - Bloomberg.com
+  US Tech Extends Selloff as Global Bond
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOTVNzTXBVRDFROWpwQlFHOGphZDJtLUppVl85Snpyd21DZklWY0t6Wkt3ZUVBb0Y2VGs2VUFUYXNLLUdVZTRZQlB6UmRidlFWN0RqcTdRMkkzcXNCa19Bb3lYNVFIOEZBNkY3OVhJak5Uem5pM2Y5bjYxR1lnQ0JBcVFVb1ZpNXBiTS1FZmVRdUQ4MEIt?oc=5
 
-- Gold hovers near record high, silver prices hit fresh all-time high at Rs 1,25,249/kg. Is this just the beginning?
-  Gold futures reached Rs 1,05,300 per 10 grams. Silver also increased to Rs 1,.25,249 per kg. Experts suggest buying gold and silver on dips. They expect gold to reach Rs1,07,000 and
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-hovers-near-record-high-silver-prices-hit-fresh-all-time-high-at-rs-125249/kg-is-this-just-the-beginning/articleshow/123649008.cms
+- Expert view: Broader markets may outperform over the next 12 months, says Axis Securities MD and CEO - Mint
+  The markets may outperform over the next 12 months, says Axis Securities
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSl95Yk4wOWN5Z2JBYXhwMXJEOW16cngxQTBCelIweW9KNXVweUFFblV3VzhnQk1ZT3NiSjhPbzdCa0xnMnkwX1VBVmQ3dndSUGZjMjFQWG5FTUlUUHhKNVRwWmlLZ0JxX2RTbElDMjRseFYxRkpremVwbk0xczdla2M1T01vMzc4SXNFVE5CMzJVVzNMOFJVNWx0cnFWUzMxV29YSFphdmNySEV5TWhnS3BZZHNGVFIyYk53TGRNT2tibE90Y1l5UmtoRXZmZFdhaF9IMWF2QS0xeFZJS2R3Q2k4UVRrNTZYRjBDZFc5dTVOZVJZTFVvWFZXTi1FdDFKaEM4RGdNMnRzU0XSAZACQVVfeXFMTkd2ZTEwd3E2NkRGNDQ0aklRMXFIVlkybzJlbzkzbnJWWFZvRTB2Uk54NmFuZWVLX3pIMUxhVzdvZUpJM2lESE5feXZ5aGd4UVpmb21KV0Z4MWVkNHlfRzRiS1ZkWW5fNllER0NzSUJ6UXE2M2MyQnVDU0FMaVdvc3RuM2Z5WUdfQzlGaFp5VUpqcFdneVVCeHczZUhFSVAtNHR4dG5aMHVyVjdKMHhSTUR3YUF3T01XLXJyOHc2Ql8tNTJleUNZUVhxbzJGNW5Bdkh3eWxvV3BhZVd2ekJ5eXFieThvUk5URnJHYkJsaVVYRmdCWWNWb3NCNU5sRHdWTU9DeXFTWVNubkFYN1BSREg?oc=5
 
-- Will drug prices soar under Trump’s tariff plan?
-  Trump’s proposed 200% tariffs on imported drugs risk pushing up U
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/will-drug-prices-soar-under-trumps-tariff-plan/slideshow/123649270.cms
+- British Pound slides 0.9% against U.S. dollar as U.K. fiscal concerns mount - CNBC
+  British Pound slides 0.9% against U.
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnhzOFd3TTE3YTZWNUIwTDEyTUtCVFFRQ2R6aGRmdU16cm92bHNtUjVYeGRFLTFHSElRN0xsbHhxVmEtSVhPTmFSTy1qNVVJNzNiTzhpWVpMSDNPVTUwT2lLdmhVSGRIU29rdXZKb01zNk1nX3ktQzZXdXNJMlZjeUZPQkZDQXd1OElkNjJqZk5ETXVPRi1qTlN30gGfAUFVX3lxTE82OEpEdWtyanpmbktoenpOQV9hVWFGNEhlVl8wd2cwSUhSVzlvWmVYRF9vUFF0aWs5LWFyaWxJcjNPTWVZOUtCYUhETHNhQnhuT3pnX0NnV1hWal9lNnZqbEducmFfdENOa2pKc3NYT2NYNEtpOFlBem8xTEJJTGJkd3BvaXhZSHUzRkRhZzNTT29hemsxSUxYQ05SM0VWMA?oc=5
 
-- Technical strength: 5 sectors with the most stocks above key moving averages
-  The auto space is leading the pack, with 53% of stocks above their 50
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/technical-strength-5-sectors-with-the-most-stocks-above-key-moving-averages/slideshow/123649551.cms
+- Global Markets Mostly Lower; Gold Continues to Hover Near Record Highs - The Wall Street Journal
+  The Wall Street Journal reports that global markets are mostly lower.
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ081ZnNyVzJsS1JJcE1zN3I5RmlfMTFxYWJTaFRNOVQxTFNZbVlyYlpYZFVMMW5IcTMwVkd1V3VVaThRdDdTT3QwYUo1SHQ2ZHFBakxBLWNoM2FUS1VlWW9JT0VtelVWY3V1UFNCV0dudDZMOWlSYTFwTjRjQnUxN0wtd1BKVjJ5Z29TYVFKd3JOR3ZjVHNYa3h5VkFuOG55TzV2b2xtYlhlWDVqakRuX241c004aGM?oc=5
+
+- Gainers &amp; Losers: One MobiKwik, Godfrey Phillips among 12 top movers on Tuesday
+  Sensex fell 207 points and Nifty slipped 45. Sugar stocks rallied on ethanol policy relief. MobiKwik surged 20% post ADIA exit. Phoenix Mills
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-one-mobikwik-godfrey-phillips-among-12-top-movers-on-tuesday/slideshow/123656683.cms
+
+- Swiggy IPO breaks legal fee records: How law firms charged companies in Rs 1.5 lakh cr boom
+  India’s record IPO boom in FY25 not only raised Rs 1.5 lakh crore but also delivered bumper fees for law firms. Swiggy
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/swiggy-ipo-breaks-legal-fee-records-how-law-firms-charged-companies-in-rs-1-5-lakh-cr-boom/articleshow/123655977.cms
+
+- Radhakishan Damani, Ramesh Damani, Madhu Kela, Zerodha, Groww line up to invest crores in NCDEX
+  NCDEX raised Rs 770 crore from star investors like Radhakishan Damani, Madhusudhan Kela, Sunil Singhania, Grow
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/radhakishan-damani-ramesh-damani-madhu-kela-zerodha-groww-line-up-to-invest-crores-in-ncdex/articleshow/123655911.cms
+
+- Tata, M&amp;M shares hit as report on higher GST for luxury EVs sparks concerns
+  Shares of Tata Motors, M&amp;M, and Hyundai fell as reports suggested the GoM may raise GST on luxury EVs. Higher levies on EVs above Rs 20 lakh could affect sales and demand, particularly
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-mm-shares-hit-as-report-on-higher-gst-for-luxury-evs-sparks-concerns/articleshow/123655335.cms
+
+- Rupee off day's high as importer dollar demand wipes out most gains
+  The Indian rupee ended marginally higher on Tuesday, but came off the day's high. Importer demand for the
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-off-days-high-as-importer-dollar-demand-wipes-out-most-gains/articleshow/123654808.cms
 
 - "India Needs To Be With US, Not Russia": Trump Aide After PM Modi, Putin Meet - NDTV
   "India Needs To Be With US, Not Russia," Trump A
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ3JKUDVyZVV4TzNUYVF4bERDaFlxNHdWc08zYVlnS3p0bVRUVmh0Y1VPbjl6UWV4V0stdHFvQ0J0R292NjdfTGc4LXp2cm9UZjF1Sm4wT2djcS1PSHJGcnhaZUhuVFVhLV9OMUhIZTBOX1hnUHVaOHE2VXlMR2tGR1c3V0dWaHB1NXRRQUFGTV8zSkVJdXdiQWttdGxMV19jUEhRc0FENWoyNFc0Mk04OGJn0gG6AUFVX3lxTE9kNXhTRkNXSUpvR25qTFRBLUNYVGxKX1U3X3FBdXNZZF83OHdfcHRJc05ZbXNnWFpEOElFcnpyT2JzZUMxZlhKUmcwa0FEZGgyeGhZZ1pVTnU4enhrdmNNbW1TNkplTXdzZnB5Zm1xOWFYYTZ3VHFNQlNJcGRhNE1UR2ZoTkN2cmpzQ01USHpIVDNrUy13UXJRT0hhN01FeDY3M052bk90WFNITGgtWjk0MzRIcWd0dEdMQQ?oc=5
 
-- Trump threw aside India ties for family's business with Pakistan, says Ex-US NSA Jake Sullivan | Latest News India - Hindustan Times - Hindustan Times
-  The US President's son-in-law is a Pakistani businessman. He has been accused of
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWDN5VDVZS2NIUGJVUGQydnVQZHI1MGtac18xajNUNExva1c3eGRlckpOaWNmeWtmU3NZT0x6ZVI3ZDhnOFZydnFNTGVmRktUYW1KTDdmOF9aSHRDZEViT0xSTEhyaGp2TUsyU3pUMzVhQzJJTjI0N2kxSVliSzNiX0pkMHdBVjROX3pwTjROSkFDTGw0am05WmNFM2xMMnVzVFVweFd1ZF8wNi1YYTYzVXpnMWhzQi1KSXBXRWJ1Ui1NXzRGazlpdk5fYTBCSVhvWDdzZkxLdzN5c0JyY2xzSlBvS1ZIeWpjVFJJQTc1MnFrNEZE0gH6AUFVX3lxTE9PYWtjQzFTcDBzUGhLM25lOUd3SDUwMkF6emJRdnU4bm1sRWtIRmdVbm54VmF6ZVJjUGhVd3NIUzVLZU8tUnZRNVBETVpJRmlJcjdhTFVWbkxEYU9LdGZrc01WaWJETWZndTBZVHY0bGp4Zzc4aHAtWVc5Q3pnak51Ul9uSndsTlNDS0wyOFhMZk9LTEpwTDNZNFdwbFZXM3JuZmN2YnF3OEhFdW85SnZ4UC1vYmUwLU8yMFFiV3BxeU1HMWY3eEllTGxEcEhERllSZUdGMzhjaGhOZzRXMXJ2eDlXOVU2TE5wWFNmOVhrdEp1QzdLaWZnLVE?oc=5
+- Azerbaijan Claims India Blocked Its SCO Full Membership Bid Over Pak Support - NDTV
+  Azerbaijan claims India Blocked Its
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0RXdWl3RFdzQUtKdkRueHF6cWtFNThTN1pQNks5amo4ZzhDRlVHaG12OHh0WnA1MnNqLVZ6dWhqZmJxanAtc1hNM1M5WFE2YTVyOVp5RXppcmZLMFlwZlVDZDA5SG9nSjRtbjJrOHNjRXZYSFNPVkQxVElMa3NveHNhU0F1aUZMX3dySldjZXVGLVdObm4zXzAzOTNWZ0Z3VEJjQ0RBdmNWaUFDdmdIbHVMekt4cFHSAb8BQVVfeXFMTUE4RjJTWHRwS1M3WWxwbHN2WDNnczhJcUF4QlVuN0tIbkVZX3BRUmQtbURUalduQ0lrMHVKcWtPczQ0UWRONDM2SW9McU1ydm9uQ2xuX21abFlYVy1WUzZ1MHI1c2o2cXdaaGFpUlRMU29tbHZvZjZIdGdmMWdETkV5cy1vM3E4bWpMRXRBZTd0YkdHdUFqSmdNbUk3cUFjZXhaVjh4RWN5bENiYmpGUmtMaEZTbEhwSFhpNVoxc2c?oc=5
 
-- "Trump Threw Away India Ties For Family's Pakistan Deals": Ex-US Official - NDTV
-  "Trump Threw Away India Ties For
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOSWZ0NTBOZG82aFNkc3B0MExlSV9yMWszcXlEVG9idXRhUFRMNkY0T1kzMUFRRk1rSkg5X013cjB1RDFoaXhZMVV6N1NadVc1OG5vQ29LWE5TSDdnWTNQeVctS2VzT0Jib3IyQ3FOQUdhd1pFZ3BWZWlEd0ZUVVlJNlI0LTVTOUU1d2t1M3Z5VHctRzFLaVlJWTRFQzhRbVVfaGhJLVlXYUJ1RnBRTFhTUm1aVi1SUXc1NWhrWWp3QVlyU3FGUE02Vl9zNkZjd9IB1gFBVV95cUxNWlNkT3IxVE82Uk5GQktNY0ZYZGZPUml1Tm42dDJkcURKVEZRUU41YkFvZzlYZXB5Mld3TThOZlFOdWlSU21HRHJ1VXh4Y2drNWlKRzc2ai1VTVJnZVJMZktKTzBpcmlpT05say1GZXQ0RUdUUDlsQ3JEMHprV3JOeEpWN0dwY0ppcDVNNGV6SENnSlAtcXpJaXFYOG93YzhoT3ZOMmdCMWs2M3JzMjBGcGhRMkZGekdFSEZpZlVsVmQzbXR1SW9FU0ZPYXRzT0VMZ0ladmJ3?oc=5
+- 'Bad news for West': Ex-US NSA says Trump drove India closer to Moscow, Beijing - Business Today
+  'Bad news for West': Ex-US NSA says Trump drove
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQWjZRaEg0aXdra0dHcWYybF90QkVoRk1ETlFVX3JYT0pNWE9POG12Qm10VTY3VEFYUXpnN0NfNlBjT25QeDlPNkJtSm54Y2xYOV90SjEydmQ1MWcxcEItMHNPMGljLUFIOGpDcE5XUjQwR0NuTFNPek1VcS01aWdfdkFiRlBaQ3hMOHptQnVsTDZVZDR4ZGZvQ2Q5R3RXb1lUU3Y3SjZzSENMMWhLU0c2cTZKMmRBMEhmcm1KRi05Yy1vT2ozRlRCWjRRRDVXVUHSAdQBQVVfeXFMT2pCQjlhUUgxQUhCODk5Zmlhc2hnaHJURFdXWUNEX2IyaUx4NXNrZW9UWUZkM3FBZG5JS0JzUFRQamRkZ1F6cW54NjZ4S2dEZzJuRjk2emJyRFdVWm9HaUNaMldEYXFTS1Z5OENQZXBOLUxyM1BfcjFDWmNwaG1yOEhwZmQ1elF0WTU1aGQ0MTI0S29ZcVh1Rm9TNGZGc0V3T0VSV09VRTdhSWIwc3dsWlRqbVR5dXpZT2FVdDRfZE11Y1BkT3pvUG1mTWxuZ1VHTS1QSjM?oc=5
 
-- India, Canada continue to rebuild ties after political reset | World News - Hindustan Times - Hindustan Times
-  India, Canada continue to rebuild ties after political reset.
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQb1F4X2RWYmY2elhUR0taOVV0M3RQNUk5Q2lMZG5QZndMaElKQVAwZlBTcVVqWjNpQkt4QXhTSjZlc3Z5QWo1VHpMcmp4VlNVU3JZT0ZsX2VjYUh3dTJLMWtSWmJJd0xWOEdNTDd6aEtiUVJNOUxETEpIeTI5UXJDeVBKbnZiWTI5T0hTQURxWWYwUW5sbks3WUpYYWM3U3FXNjVoM2RyNXh1N1JMaW1RSnp0UGM1eEZZVUdWbXRJRdIBxAFBVV95cUxNTW9DSDhDQUp6cTV4U0xHaG5YTjZHSkhMUWZoeG9aaDB1cUVubWc1UjBIRGNqNTVjNUxvTURqX0p6b3NuZmg1MDZXendpSnFlSGVjMDd6RFluN2N1dHV5ZHUxZnZ0OGJacXRjN001RTZVMEp4dWJ1M3JxcU44ZDNDN1hVM2x1YmhKVEYtT3JCdzFIZVdmYnViVTk2ZENmM2JQUExjbzIyQllxQUZUa3kyWjhaSmUxUlA1YURCWDExelBiWEVZ?oc=5
+- In Pics: Heavy Rain, Floods Ravage Parts Of North India - NDTV
+  Heavy Rain, Floods Ravage Parts
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPTy1EMTlDZlJTVXhKV0RWTkMyYUViYThreG94MlA5M3Y4NElQNWtkR1BMamJaZUgwNnpRdkRBMUFZYUxacTUzVHNncWoxc2xFenZsQ3ZuZDhsUGpsaFJYZExHdUdjcVlqWDZndmg1T2RBbkZYVzNCS3VaNmRSNkpMRF9CeVNWTjVFUW1lMWVSY2hhbVdjek9xaDdPR0Z3RXhCZUtIVVRJN190dVRldTRXdHlZMTU3OWJzeEJzMS1iWFNRLUJ4SFYxVWhJb9IB0wFBVV95cUxOZV9wa0c4QVRzMWFTSTRsclpRN0FHZ2thSDNkUlFZX1dwX04wOE9CSW9obmlJanBncEQxVVUycS12cTEtTU9FbDZEREl3TXliLXdBcmloQWE1YkxDeENCaldNWVBUOTZsZUlrRWNMR01idkRLRkFERDB5eUdpR0wteW1ZUnJGUXUzbkMtbU53cU9qRndhM3REVkFrM2p0aDl2LTJINDJOTWdjODZCTklHckNXM2lobDhJZ1ZWRy0ydzloc2Q4bTIyckJ2VUhiZnFaYURJ?oc=5
 
-- 'It's getting late': Trump calls US-India trade 'one-sided disaster'; slams Russia oil, arms trade - Times of India
-  'It's getting late': Trump calls US-India trade 'one
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNb1V1eVEwTlNXQzFDdDJQZnRsNjl0WTRTb21Zcjk0R3RreXBjM3EzNnBWMzJEUzRoR3hTU3JBS250a2ZzcVBXUE5QenRJMEVXVDQybldNMk5ha3lTMkRlZC1QYTl0SWFiQXdTcnhZSWRmUFczQXhuWmJGOWtNaEo2elZRSlpvSmUtYTRfNmk3WjJ0dFlhMk1WdDFsRHpxLWZETHlDNTRYVmNMc1IxRmI1UnlSRmhxbGYxRDJuMnJDa0pJOU1lbmliYVJSeGR5S0hXWm5nTVJOcUloR0JremF6eXgwME4tUWJEV18tM01zc3lCbl9jcksxQWt4MU15MUs5Q2F6UmF5WdIBjAJBVV95cUxOQXEwc1Q2c1g3bjBIQ0M1UmxZN2RvZU5ibFRSYWl4RWFBbUJ2NDY5VGpRQmwzRlJYSzhYN1UzbUJOV1FPSkNQdGVaejFCS0xndWNwTXVWVTNPREp2T2EyYzBfaVExSExfeDZZNXhYS1ExTUNRdXM4MEIxLVFyYlBwSU1JMTFTQkgxc1JZenJZbnRpWURfYzd3WFZDYjJSODVhbFpyaEtqWFVXOHZYempwd1EzUGtLZXZ6c0JwWFZxN1JlSEplNHZySXBObXVCN1ZGdkRld2VsdDZFd285c3pQZE40RzBiMkZDZXdZUFlyck12T3Y0b2lZZ2g1YjI4cHFLVWZxS1NMTThWaGZY?oc=5
+- India-European Union Trade Deal At "Advanced Stage", Pact With US In Talks: Piyush Goyal - NDTV
+  India-European Union Trade Deal At "Advanced Stage", Pact
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHFiQTZxYU1xa3FjOUhSaU5BR2Z2dkNWNFJWa3ZuZXRXaXltTG5aVlhHUkxlUnVHZ0tFeFUtRzFZNlpUc1VPWXVLR2V0SGc4WDhGZ3dza1ZBbHNwYUlsSXZqclhUU2pLQWxzNmJMMjNKSkRXcERyd0FWMUpienM1T3lnMXR5Y3p4RExpSHgwTElFYXhNbGpjbk5yNzh6Tm9SU3FpQ0U2b0RfNy1rU1AtOUs5TUdKZFZX0gHAAUFVX3lxTE5IdDdYNGh3YmU0T2ZjdXN6dkhuZDRjWmJNckdvSjRrQ2lidHBQMVd6d1BCWkI5aUliNEhZQU1RUE9zOU03emZLOVZZa18wXy1jaFhuRmlENGJTRHBJc2hYUWlDak1HM3U3NEs3aFJpbFdsWXFIbTRZWXZJQXN4Z2dQU0xrWjgyMnJtaVJkZ29RY0dfWE5hem1uSWlWMzJjVlluZHVmLWpnTHFqQTdMT0VERTYwNnFmcUdoMmxiTUNnQw?oc=5
 
 - "India Needs To Be With US, Not Russia": Trump Aide After PM Modi, Putin Meet - NDTV
   "India Needs To Be With US, Not Russia," Trump A
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ3JKUDVyZVV4TzNUYVF4bERDaFlxNHdWc08zYVlnS3p0bVRUVmh0Y1VPbjl6UWV4V0stdHFvQ0J0R292NjdfTGc4LXp2cm9UZjF1Sm4wT2djcS1PSHJGcnhaZUhuVFVhLV9OMUhIZTBOX1hnUHVaOHE2VXlMR2tGR1c3V0dWaHB1NXRRQUFGTV8zSkVJdXdiQWttdGxMV19jUEhRc0FENWoyNFc0Mk04OGJn0gG6AUFVX3lxTE9kNXhTRkNXSUpvR25qTFRBLUNYVGxKX1U3X3FBdXNZZF83OHdfcHRJc05ZbXNnWFpEOElFcnpyT2JzZUMxZlhKUmcwa0FEZGgyeGhZZ1pVTnU4enhrdmNNbW1TNkplTXdzZnB5Zm1xOWFYYTZ3VHFNQlNJcGRhNE1UR2ZoTkN2cmpzQ01USHpIVDNrUy13UXJRT0hhN01FeDY3M052bk90WFNITGgtWjk0MzRIcWd0dEdMQQ?oc=5
 
-- Trump threw aside India ties for family's business with Pakistan, says Ex-US NSA Jake Sullivan | Latest News India - Hindustan Times - Hindustan Times
-  The US President's son-in-law is a Pakistani businessman. He has been accused of
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWDN5VDVZS2NIUGJVUGQydnVQZHI1MGtac18xajNUNExva1c3eGRlckpOaWNmeWtmU3NZT0x6ZVI3ZDhnOFZydnFNTGVmRktUYW1KTDdmOF9aSHRDZEViT0xSTEhyaGp2TUsyU3pUMzVhQzJJTjI0N2kxSVliSzNiX0pkMHdBVjROX3pwTjROSkFDTGw0am05WmNFM2xMMnVzVFVweFd1ZF8wNi1YYTYzVXpnMWhzQi1KSXBXRWJ1Ui1NXzRGazlpdk5fYTBCSVhvWDdzZkxLdzN5c0JyY2xzSlBvS1ZIeWpjVFJJQTc1MnFrNEZE0gH6AUFVX3lxTE9PYWtjQzFTcDBzUGhLM25lOUd3SDUwMkF6emJRdnU4bm1sRWtIRmdVbm54VmF6ZVJjUGhVd3NIUzVLZU8tUnZRNVBETVpJRmlJcjdhTFVWbkxEYU9LdGZrc01WaWJETWZndTBZVHY0bGp4Zzc4aHAtWVc5Q3pnak51Ul9uSndsTlNDS0wyOFhMZk9LTEpwTDNZNFdwbFZXM3JuZmN2YnF3OEhFdW85SnZ4UC1vYmUwLU8yMFFiV3BxeU1HMWY3eEllTGxEcEhERllSZUdGMzhjaGhOZzRXMXJ2eDlXOVU2TE5wWFNmOVhrdEp1QzdLaWZnLVE?oc=5
+- Azerbaijan Claims India Blocked Its SCO Full Membership Bid Over Pak Support - NDTV
+  Azerbaijan claims India Blocked Its
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0RXdWl3RFdzQUtKdkRueHF6cWtFNThTN1pQNks5amo4ZzhDRlVHaG12OHh0WnA1MnNqLVZ6dWhqZmJxanAtc1hNM1M5WFE2YTVyOVp5RXppcmZLMFlwZlVDZDA5SG9nSjRtbjJrOHNjRXZYSFNPVkQxVElMa3NveHNhU0F1aUZMX3dySldjZXVGLVdObm4zXzAzOTNWZ0Z3VEJjQ0RBdmNWaUFDdmdIbHVMekt4cFHSAb8BQVVfeXFMTUE4RjJTWHRwS1M3WWxwbHN2WDNnczhJcUF4QlVuN0tIbkVZX3BRUmQtbURUalduQ0lrMHVKcWtPczQ0UWRONDM2SW9McU1ydm9uQ2xuX21abFlYVy1WUzZ1MHI1c2o2cXdaaGFpUlRMU29tbHZvZjZIdGdmMWdETkV5cy1vM3E4bWpMRXRBZTd0YkdHdUFqSmdNbUk3cUFjZXhaVjh4RWN5bENiYmpGUmtMaEZTbEhwSFhpNVoxc2c?oc=5
 
-- "Trump Threw Away India Ties For Family's Pakistan Deals": Ex-US Official - NDTV
-  "Trump Threw Away India Ties For
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOSWZ0NTBOZG82aFNkc3B0MExlSV9yMWszcXlEVG9idXRhUFRMNkY0T1kzMUFRRk1rSkg5X013cjB1RDFoaXhZMVV6N1NadVc1OG5vQ29LWE5TSDdnWTNQeVctS2VzT0Jib3IyQ3FOQUdhd1pFZ3BWZWlEd0ZUVVlJNlI0LTVTOUU1d2t1M3Z5VHctRzFLaVlJWTRFQzhRbVVfaGhJLVlXYUJ1RnBRTFhTUm1aVi1SUXc1NWhrWWp3QVlyU3FGUE02Vl9zNkZjd9IB1gFBVV95cUxNWlNkT3IxVE82Uk5GQktNY0ZYZGZPUml1Tm42dDJkcURKVEZRUU41YkFvZzlYZXB5Mld3TThOZlFOdWlSU21HRHJ1VXh4Y2drNWlKRzc2ai1VTVJnZVJMZktKTzBpcmlpT05say1GZXQ0RUdUUDlsQ3JEMHprV3JOeEpWN0dwY0ppcDVNNGV6SENnSlAtcXpJaXFYOG93YzhoT3ZOMmdCMWs2M3JzMjBGcGhRMkZGekdFSEZpZlVsVmQzbXR1SW9FU0ZPYXRzT0VMZ0ladmJ3?oc=5
+- 'Bad news for West': Ex-US NSA says Trump drove India closer to Moscow, Beijing - Business Today
+  'Bad news for West': Ex-US NSA says Trump drove
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQWjZRaEg0aXdra0dHcWYybF90QkVoRk1ETlFVX3JYT0pNWE9POG12Qm10VTY3VEFYUXpnN0NfNlBjT25QeDlPNkJtSm54Y2xYOV90SjEydmQ1MWcxcEItMHNPMGljLUFIOGpDcE5XUjQwR0NuTFNPek1VcS01aWdfdkFiRlBaQ3hMOHptQnVsTDZVZDR4ZGZvQ2Q5R3RXb1lUU3Y3SjZzSENMMWhLU0c2cTZKMmRBMEhmcm1KRi05Yy1vT2ozRlRCWjRRRDVXVUHSAdQBQVVfeXFMT2pCQjlhUUgxQUhCODk5Zmlhc2hnaHJURFdXWUNEX2IyaUx4NXNrZW9UWUZkM3FBZG5JS0JzUFRQamRkZ1F6cW54NjZ4S2dEZzJuRjk2emJyRFdVWm9HaUNaMldEYXFTS1Z5OENQZXBOLUxyM1BfcjFDWmNwaG1yOEhwZmQ1elF0WTU1aGQ0MTI0S29ZcVh1Rm9TNGZGc0V3T0VSV09VRTdhSWIwc3dsWlRqbVR5dXpZT2FVdDRfZE11Y1BkT3pvUG1mTWxuZ1VHTS1QSjM?oc=5
 
-- India, Canada continue to rebuild ties after political reset | World News - Hindustan Times - Hindustan Times
-  India, Canada continue to rebuild ties after political reset.
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQb1F4X2RWYmY2elhUR0taOVV0M3RQNUk5Q2lMZG5QZndMaElKQVAwZlBTcVVqWjNpQkt4QXhTSjZlc3Z5QWo1VHpMcmp4VlNVU3JZT0ZsX2VjYUh3dTJLMWtSWmJJd0xWOEdNTDd6aEtiUVJNOUxETEpIeTI5UXJDeVBKbnZiWTI5T0hTQURxWWYwUW5sbks3WUpYYWM3U3FXNjVoM2RyNXh1N1JMaW1RSnp0UGM1eEZZVUdWbXRJRdIBxAFBVV95cUxNTW9DSDhDQUp6cTV4U0xHaG5YTjZHSkhMUWZoeG9aaDB1cUVubWc1UjBIRGNqNTVjNUxvTURqX0p6b3NuZmg1MDZXendpSnFlSGVjMDd6RFluN2N1dHV5ZHUxZnZ0OGJacXRjN001RTZVMEp4dWJ1M3JxcU44ZDNDN1hVM2x1YmhKVEYtT3JCdzFIZVdmYnViVTk2ZENmM2JQUExjbzIyQllxQUZUa3kyWjhaSmUxUlA1YURCWDExelBiWEVZ?oc=5
+- In Pics: Heavy Rain, Floods Ravage Parts Of North India - NDTV
+  Heavy Rain, Floods Ravage Parts
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPTy1EMTlDZlJTVXhKV0RWTkMyYUViYThreG94MlA5M3Y4NElQNWtkR1BMamJaZUgwNnpRdkRBMUFZYUxacTUzVHNncWoxc2xFenZsQ3ZuZDhsUGpsaFJYZExHdUdjcVlqWDZndmg1T2RBbkZYVzNCS3VaNmRSNkpMRF9CeVNWTjVFUW1lMWVSY2hhbVdjek9xaDdPR0Z3RXhCZUtIVVRJN190dVRldTRXdHlZMTU3OWJzeEJzMS1iWFNRLUJ4SFYxVWhJb9IB0wFBVV95cUxOZV9wa0c4QVRzMWFTSTRsclpRN0FHZ2thSDNkUlFZX1dwX04wOE9CSW9obmlJanBncEQxVVUycS12cTEtTU9FbDZEREl3TXliLXdBcmloQWE1YkxDeENCaldNWVBUOTZsZUlrRWNMR01idkRLRkFERDB5eUdpR0wteW1ZUnJGUXUzbkMtbU53cU9qRndhM3REVkFrM2p0aDl2LTJINDJOTWdjODZCTklHckNXM2lobDhJZ1ZWRy0ydzloc2Q4bTIyckJ2VUhiZnFaYURJ?oc=5
 
-- 'It's getting late': Trump calls US-India trade 'one-sided disaster'; slams Russia oil, arms trade - Times of India
-  'It's getting late': Trump calls US-India trade 'one
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNb1V1eVEwTlNXQzFDdDJQZnRsNjl0WTRTb21Zcjk0R3RreXBjM3EzNnBWMzJEUzRoR3hTU3JBS250a2ZzcVBXUE5QenRJMEVXVDQybldNMk5ha3lTMkRlZC1QYTl0SWFiQXdTcnhZSWRmUFczQXhuWmJGOWtNaEo2elZRSlpvSmUtYTRfNmk3WjJ0dFlhMk1WdDFsRHpxLWZETHlDNTRYVmNMc1IxRmI1UnlSRmhxbGYxRDJuMnJDa0pJOU1lbmliYVJSeGR5S0hXWm5nTVJOcUloR0JremF6eXgwME4tUWJEV18tM01zc3lCbl9jcksxQWt4MU15MUs5Q2F6UmF5WdIBjAJBVV95cUxOQXEwc1Q2c1g3bjBIQ0M1UmxZN2RvZU5ibFRSYWl4RWFBbUJ2NDY5VGpRQmwzRlJYSzhYN1UzbUJOV1FPSkNQdGVaejFCS0xndWNwTXVWVTNPREp2T2EyYzBfaVExSExfeDZZNXhYS1ExTUNRdXM4MEIxLVFyYlBwSU1JMTFTQkgxc1JZenJZbnRpWURfYzd3WFZDYjJSODVhbFpyaEtqWFVXOHZYempwd1EzUGtLZXZ6c0JwWFZxN1JlSEplNHZySXBObXVCN1ZGdkRld2VsdDZFd285c3pQZE40RzBiMkZDZXdZUFlyck12T3Y0b2lZZ2g1YjI4cHFLVWZxS1NMTThWaGZY?oc=5
+- India-European Union Trade Deal At "Advanced Stage", Pact With US In Talks: Piyush Goyal - NDTV
+  India-European Union Trade Deal At "Advanced Stage", Pact
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHFiQTZxYU1xa3FjOUhSaU5BR2Z2dkNWNFJWa3ZuZXRXaXltTG5aVlhHUkxlUnVHZ0tFeFUtRzFZNlpUc1VPWXVLR2V0SGc4WDhGZ3dza1ZBbHNwYUlsSXZqclhUU2pLQWxzNmJMMjNKSkRXcERyd0FWMUpienM1T3lnMXR5Y3p4RExpSHgwTElFYXhNbGpjbk5yNzh6Tm9SU3FpQ0U2b0RfNy1rU1AtOUs5TUdKZFZX0gHAAUFVX3lxTE5IdDdYNGh3YmU0T2ZjdXN6dkhuZDRjWmJNckdvSjRrQ2lidHBQMVd6d1BCWkI5aUliNEhZQU1RUE9zOU03emZLOVZZa18wXy1jaFhuRmlENGJTRHBJc2hYUWlDak1HM3U3NEs3aFJpbFdsWXFIbTRZWXZJQXN4Z2dQU0xrWjgyMnJtaVJkZ29RY0dfWE5hem1uSWlWMzJjVlluZHVmLWpnTHFqQTdMT0VERTYwNnFmcUdoMmxiTUNnQw?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- "India Needs To Be With US, Not Russia": Trump Aide After PM Modi, Putin Meet - NDTV
+  "India Needs To Be With US, Not Russia," Trump A
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ3JKUDVyZVV4TzNUYVF4bERDaFlxNHdWc08zYVlnS3p0bVRUVmh0Y1VPbjl6UWV4V0stdHFvQ0J0R292NjdfTGc4LXp2cm9UZjF1Sm4wT2djcS1PSHJGcnhaZUhuVFVhLV9OMUhIZTBOX1hnUHVaOHE2VXlMR2tGR1c3V0dWaHB1NXRRQUFGTV8zSkVJdXdiQWttdGxMV19jUEhRc0FENWoyNFc0Mk04OGJn0gG6AUFVX3lxTE9kNXhTRkNXSUpvR25qTFRBLUNYVGxKX1U3X3FBdXNZZF83OHdfcHRJc05ZbXNnWFpEOElFcnpyT2JzZUMxZlhKUmcwa0FEZGgyeGhZZ1pVTnU4enhrdmNNbW1TNkplTXdzZnB5Zm1xOWFYYTZ3VHFNQlNJcGRhNE1UR2ZoTkN2cmpzQ01USHpIVDNrUy13UXJRT0hhN01FeDY3M052bk90WFNITGgtWjk0MzRIcWd0dEdMQQ?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Azerbaijan Claims India Blocked Its SCO Full Membership Bid Over Pak Support - NDTV
+  Azerbaijan claims India Blocked Its
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0RXdWl3RFdzQUtKdkRueHF6cWtFNThTN1pQNks5amo4ZzhDRlVHaG12OHh0WnA1MnNqLVZ6dWhqZmJxanAtc1hNM1M5WFE2YTVyOVp5RXppcmZLMFlwZlVDZDA5SG9nSjRtbjJrOHNjRXZYSFNPVkQxVElMa3NveHNhU0F1aUZMX3dySldjZXVGLVdObm4zXzAzOTNWZ0Z3VEJjQ0RBdmNWaUFDdmdIbHVMekt4cFHSAb8BQVVfeXFMTUE4RjJTWHRwS1M3WWxwbHN2WDNnczhJcUF4QlVuN0tIbkVZX3BRUmQtbURUalduQ0lrMHVKcWtPczQ0UWRONDM2SW9McU1ydm9uQ2xuX21abFlYVy1WUzZ1MHI1c2o2cXdaaGFpUlRMU29tbHZvZjZIdGdmMWdETkV5cy1vM3E4bWpMRXRBZTd0YkdHdUFqSmdNbUk3cUFjZXhaVjh4RWN5bENiYmpGUmtMaEZTbEhwSFhpNVoxc2c?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- 'Bad news for West': Ex-US NSA says Trump drove India closer to Moscow, Beijing - Business Today
+  'Bad news for West': Ex-US NSA says Trump drove
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQWjZRaEg0aXdra0dHcWYybF90QkVoRk1ETlFVX3JYT0pNWE9POG12Qm10VTY3VEFYUXpnN0NfNlBjT25QeDlPNkJtSm54Y2xYOV90SjEydmQ1MWcxcEItMHNPMGljLUFIOGpDcE5XUjQwR0NuTFNPek1VcS01aWdfdkFiRlBaQ3hMOHptQnVsTDZVZDR4ZGZvQ2Q5R3RXb1lUU3Y3SjZzSENMMWhLU0c2cTZKMmRBMEhmcm1KRi05Yy1vT2ozRlRCWjRRRDVXVUHSAdQBQVVfeXFMT2pCQjlhUUgxQUhCODk5Zmlhc2hnaHJURFdXWUNEX2IyaUx4NXNrZW9UWUZkM3FBZG5JS0JzUFRQamRkZ1F6cW54NjZ4S2dEZzJuRjk2emJyRFdVWm9HaUNaMldEYXFTS1Z5OENQZXBOLUxyM1BfcjFDWmNwaG1yOEhwZmQ1elF0WTU1aGQ0MTI0S29ZcVh1Rm9TNGZGc0V3T0VSV09VRTdhSWIwc3dsWlRqbVR5dXpZT2FVdDRfZE11Y1BkT3pvUG1mTWxuZ1VHTS1QSjM?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- In Pics: Heavy Rain, Floods Ravage Parts Of North India - NDTV
+  Heavy Rain, Floods Ravage Parts
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPTy1EMTlDZlJTVXhKV0RWTkMyYUViYThreG94MlA5M3Y4NElQNWtkR1BMamJaZUgwNnpRdkRBMUFZYUxacTUzVHNncWoxc2xFenZsQ3ZuZDhsUGpsaFJYZExHdUdjcVlqWDZndmg1T2RBbkZYVzNCS3VaNmRSNkpMRF9CeVNWTjVFUW1lMWVSY2hhbVdjek9xaDdPR0Z3RXhCZUtIVVRJN190dVRldTRXdHlZMTU3OWJzeEJzMS1iWFNRLUJ4SFYxVWhJb9IB0wFBVV95cUxOZV9wa0c4QVRzMWFTSTRsclpRN0FHZ2thSDNkUlFZX1dwX04wOE9CSW9obmlJanBncEQxVVUycS12cTEtTU9FbDZEREl3TXliLXdBcmloQWE1YkxDeENCaldNWVBUOTZsZUlrRWNMR01idkRLRkFERDB5eUdpR0wteW1ZUnJGUXUzbkMtbU53cU9qRndhM3REVkFrM2p0aDl2LTJINDJOTWdjODZCTklHckNXM2lobDhJZ1ZWRy0ydzloc2Q4bTIyckJ2VUhiZnFaYURJ?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- India-European Union Trade Deal At "Advanced Stage", Pact With US In Talks: Piyush Goyal - NDTV
+  India-European Union Trade Deal At "Advanced Stage", Pact
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHFiQTZxYU1xa3FjOUhSaU5BR2Z2dkNWNFJWa3ZuZXRXaXltTG5aVlhHUkxlUnVHZ0tFeFUtRzFZNlpUc1VPWXVLR2V0SGc4WDhGZ3dza1ZBbHNwYUlsSXZqclhUU2pLQWxzNmJMMjNKSkRXcERyd0FWMUpienM1T3lnMXR5Y3p4RExpSHgwTElFYXhNbGpjbk5yNzh6Tm9SU3FpQ0U2b0RfNy1rU1AtOUs5TUdKZFZX0gHAAUFVX3lxTE5IdDdYNGh3YmU0T2ZjdXN6dkhuZDRjWmJNckdvSjRrQ2lidHBQMVd6d1BCWkI5aUliNEhZQU1RUE9zOU03emZLOVZZa18wXy1jaFhuRmlENGJTRHBJc2hYUWlDak1HM3U3NEs3aFJpbFdsWXFIbTRZWXZJQXN4Z2dQU0xrWjgyMnJtaVJkZ29RY0dfWE5hem1uSWlWMzJjVlluZHVmLWpnTHFqQTdMT0VERTYwNnFmcUdoMmxiTUNnQw?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- "India Needs To Be With US, Not Russia": Trump Aide After PM Modi, Putin Meet - NDTV
+  "India Needs To Be With US, Not Russia," Trump A
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ3JKUDVyZVV4TzNUYVF4bERDaFlxNHdWc08zYVlnS3p0bVRUVmh0Y1VPbjl6UWV4V0stdHFvQ0J0R292NjdfTGc4LXp2cm9UZjF1Sm4wT2djcS1PSHJGcnhaZUhuVFVhLV9OMUhIZTBOX1hnUHVaOHE2VXlMR2tGR1c3V0dWaHB1NXRRQUFGTV8zSkVJdXdiQWttdGxMV19jUEhRc0FENWoyNFc0Mk04OGJn0gG6AUFVX3lxTE9kNXhTRkNXSUpvR25qTFRBLUNYVGxKX1U3X3FBdXNZZF83OHdfcHRJc05ZbXNnWFpEOElFcnpyT2JzZUMxZlhKUmcwa0FEZGgyeGhZZ1pVTnU4enhrdmNNbW1TNkplTXdzZnB5Zm1xOWFYYTZ3VHFNQlNJcGRhNE1UR2ZoTkN2cmpzQ01USHpIVDNrUy13UXJRT0hhN01FeDY3M052bk90WFNITGgtWjk0MzRIcWd0dEdMQQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Azerbaijan Claims India Blocked Its SCO Full Membership Bid Over Pak Support - NDTV
+  Azerbaijan claims India Blocked Its
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0RXdWl3RFdzQUtKdkRueHF6cWtFNThTN1pQNks5amo4ZzhDRlVHaG12OHh0WnA1MnNqLVZ6dWhqZmJxanAtc1hNM1M5WFE2YTVyOVp5RXppcmZLMFlwZlVDZDA5SG9nSjRtbjJrOHNjRXZYSFNPVkQxVElMa3NveHNhU0F1aUZMX3dySldjZXVGLVdObm4zXzAzOTNWZ0Z3VEJjQ0RBdmNWaUFDdmdIbHVMekt4cFHSAb8BQVVfeXFMTUE4RjJTWHRwS1M3WWxwbHN2WDNnczhJcUF4QlVuN0tIbkVZX3BRUmQtbURUalduQ0lrMHVKcWtPczQ0UWRONDM2SW9McU1ydm9uQ2xuX21abFlYVy1WUzZ1MHI1c2o2cXdaaGFpUlRMU29tbHZvZjZIdGdmMWdETkV5cy1vM3E4bWpMRXRBZTd0YkdHdUFqSmdNbUk3cUFjZXhaVjh4RWN5bENiYmpGUmtMaEZTbEhwSFhpNVoxc2c?oc=5
+
+- 'Bad news for West': Ex-US NSA says Trump drove India closer to Moscow, Beijing - Business Today
+  'Bad news for West': Ex-US NSA says Trump drove
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQWjZRaEg0aXdra0dHcWYybF90QkVoRk1ETlFVX3JYT0pNWE9POG12Qm10VTY3VEFYUXpnN0NfNlBjT25QeDlPNkJtSm54Y2xYOV90SjEydmQ1MWcxcEItMHNPMGljLUFIOGpDcE5XUjQwR0NuTFNPek1VcS01aWdfdkFiRlBaQ3hMOHptQnVsTDZVZDR4ZGZvQ2Q5R3RXb1lUU3Y3SjZzSENMMWhLU0c2cTZKMmRBMEhmcm1KRi05Yy1vT2ozRlRCWjRRRDVXVUHSAdQBQVVfeXFMT2pCQjlhUUgxQUhCODk5Zmlhc2hnaHJURFdXWUNEX2IyaUx4NXNrZW9UWUZkM3FBZG5JS0JzUFRQamRkZ1F6cW54NjZ4S2dEZzJuRjk2emJyRFdVWm9HaUNaMldEYXFTS1Z5OENQZXBOLUxyM1BfcjFDWmNwaG1yOEhwZmQ1elF0WTU1aGQ0MTI0S29ZcVh1Rm9TNGZGc0V3T0VSV09VRTdhSWIwc3dsWlRqbVR5dXpZT2FVdDRfZE11Y1BkT3pvUG1mTWxuZ1VHTS1QSjM?oc=5
+
+- In Pics: Heavy Rain, Floods Ravage Parts Of North India - NDTV
+  Heavy Rain, Floods Ravage Parts
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPTy1EMTlDZlJTVXhKV0RWTkMyYUViYThreG94MlA5M3Y4NElQNWtkR1BMamJaZUgwNnpRdkRBMUFZYUxacTUzVHNncWoxc2xFenZsQ3ZuZDhsUGpsaFJYZExHdUdjcVlqWDZndmg1T2RBbkZYVzNCS3VaNmRSNkpMRF9CeVNWTjVFUW1lMWVSY2hhbVdjek9xaDdPR0Z3RXhCZUtIVVRJN190dVRldTRXdHlZMTU3OWJzeEJzMS1iWFNRLUJ4SFYxVWhJb9IB0wFBVV95cUxOZV9wa0c4QVRzMWFTSTRsclpRN0FHZ2thSDNkUlFZX1dwX04wOE9CSW9obmlJanBncEQxVVUycS12cTEtTU9FbDZEREl3TXliLXdBcmloQWE1YkxDeENCaldNWVBUOTZsZUlrRWNMR01idkRLRkFERDB5eUdpR0wteW1ZUnJGUXUzbkMtbU53cU9qRndhM3REVkFrM2p0aDl2LTJINDJOTWdjODZCTklHckNXM2lobDhJZ1ZWRy0ydzloc2Q4bTIyckJ2VUhiZnFaYURJ?oc=5
+
+- India-European Union Trade Deal At "Advanced Stage", Pact With US In Talks: Piyush Goyal - NDTV
+  India-European Union Trade Deal At "Advanced Stage", Pact
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHFiQTZxYU1xa3FjOUhSaU5BR2Z2dkNWNFJWa3ZuZXRXaXltTG5aVlhHUkxlUnVHZ0tFeFUtRzFZNlpUc1VPWXVLR2V0SGc4WDhGZ3dza1ZBbHNwYUlsSXZqclhUU2pLQWxzNmJMMjNKSkRXcERyd0FWMUpienM1T3lnMXR5Y3p4RExpSHgwTElFYXhNbGpjbk5yNzh6Tm9SU3FpQ0U2b0RfNy1rU1AtOUs5TUdKZFZX0gHAAUFVX3lxTE5IdDdYNGh3YmU0T2ZjdXN6dkhuZDRjWmJNckdvSjRrQ2lidHBQMVd6d1BCWkI5aUliNEhZQU1RUE9zOU03emZLOVZZa18wXy1jaFhuRmlENGJTRHBJc2hYUWlDak1HM3U3NEs3aFJpbFdsWXFIbTRZWXZJQXN4Z2dQU0xrWjgyMnJtaVJkZ29RY0dfWE5hem1uSWlWMzJjVlluZHVmLWpnTHFqQTdMT0VERTYwNnFmcUdoMmxiTUNnQw?oc=5
+
+- "India Needs To Be With US, Not Russia": Trump Aide After PM Modi, Putin Meet - NDTV
+  "India Needs To Be With US, Not Russia," Trump A
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ3JKUDVyZVV4TzNUYVF4bERDaFlxNHdWc08zYVlnS3p0bVRUVmh0Y1VPbjl6UWV4V0stdHFvQ0J0R292NjdfTGc4LXp2cm9UZjF1Sm4wT2djcS1PSHJGcnhaZUhuVFVhLV9OMUhIZTBOX1hnUHVaOHE2VXlMR2tGR1c3V0dWaHB1NXRRQUFGTV8zSkVJdXdiQWttdGxMV19jUEhRc0FENWoyNFc0Mk04OGJn0gG6AUFVX3lxTE9kNXhTRkNXSUpvR25qTFRBLUNYVGxKX1U3X3FBdXNZZF83OHdfcHRJc05ZbXNnWFpEOElFcnpyT2JzZUMxZlhKUmcwa0FEZGgyeGhZZ1pVTnU4enhrdmNNbW1TNkplTXdzZnB5Zm1xOWFYYTZ3VHFNQlNJcGRhNE1UR2ZoTkN2cmpzQ01USHpIVDNrUy13UXJRT0hhN01FeDY3M052bk90WFNITGgtWjk0MzRIcWd0dEdMQQ?oc=5
+
+- Azerbaijan Claims India Blocked Its SCO Full Membership Bid Over Pak Support - NDTV
+  Azerbaijan claims India Blocked Its
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0RXdWl3RFdzQUtKdkRueHF6cWtFNThTN1pQNks5amo4ZzhDRlVHaG12OHh0WnA1MnNqLVZ6dWhqZmJxanAtc1hNM1M5WFE2YTVyOVp5RXppcmZLMFlwZlVDZDA5SG9nSjRtbjJrOHNjRXZYSFNPVkQxVElMa3NveHNhU0F1aUZMX3dySldjZXVGLVdObm4zXzAzOTNWZ0Z3VEJjQ0RBdmNWaUFDdmdIbHVMekt4cFHSAb8BQVVfeXFMTUE4RjJTWHRwS1M3WWxwbHN2WDNnczhJcUF4QlVuN0tIbkVZX3BRUmQtbURUalduQ0lrMHVKcWtPczQ0UWRONDM2SW9McU1ydm9uQ2xuX21abFlYVy1WUzZ1MHI1c2o2cXdaaGFpUlRMU29tbHZvZjZIdGdmMWdETkV5cy1vM3E4bWpMRXRBZTd0YkdHdUFqSmdNbUk3cUFjZXhaVjh4RWN5bENiYmpGUmtMaEZTbEhwSFhpNVoxc2c?oc=5
+
+- 'Bad news for West': Ex-US NSA says Trump drove India closer to Moscow, Beijing - Business Today
+  'Bad news for West': Ex-US NSA says Trump drove
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQWjZRaEg0aXdra0dHcWYybF90QkVoRk1ETlFVX3JYT0pNWE9POG12Qm10VTY3VEFYUXpnN0NfNlBjT25QeDlPNkJtSm54Y2xYOV90SjEydmQ1MWcxcEItMHNPMGljLUFIOGpDcE5XUjQwR0NuTFNPek1VcS01aWdfdkFiRlBaQ3hMOHptQnVsTDZVZDR4ZGZvQ2Q5R3RXb1lUU3Y3SjZzSENMMWhLU0c2cTZKMmRBMEhmcm1KRi05Yy1vT2ozRlRCWjRRRDVXVUHSAdQBQVVfeXFMT2pCQjlhUUgxQUhCODk5Zmlhc2hnaHJURFdXWUNEX2IyaUx4NXNrZW9UWUZkM3FBZG5JS0JzUFRQamRkZ1F6cW54NjZ4S2dEZzJuRjk2emJyRFdVWm9HaUNaMldEYXFTS1Z5OENQZXBOLUxyM1BfcjFDWmNwaG1yOEhwZmQ1elF0WTU1aGQ0MTI0S29ZcVh1Rm9TNGZGc0V3T0VSV09VRTdhSWIwc3dsWlRqbVR5dXpZT2FVdDRfZE11Y1BkT3pvUG1mTWxuZ1VHTS1QSjM?oc=5
+
+- In Pics: Heavy Rain, Floods Ravage Parts Of North India - NDTV
+  Heavy Rain, Floods Ravage Parts
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPTy1EMTlDZlJTVXhKV0RWTkMyYUViYThreG94MlA5M3Y4NElQNWtkR1BMamJaZUgwNnpRdkRBMUFZYUxacTUzVHNncWoxc2xFenZsQ3ZuZDhsUGpsaFJYZExHdUdjcVlqWDZndmg1T2RBbkZYVzNCS3VaNmRSNkpMRF9CeVNWTjVFUW1lMWVSY2hhbVdjek9xaDdPR0Z3RXhCZUtIVVRJN190dVRldTRXdHlZMTU3OWJzeEJzMS1iWFNRLUJ4SFYxVWhJb9IB0wFBVV95cUxOZV9wa0c4QVRzMWFTSTRsclpRN0FHZ2thSDNkUlFZX1dwX04wOE9CSW9obmlJanBncEQxVVUycS12cTEtTU9FbDZEREl3TXliLXdBcmloQWE1YkxDeENCaldNWVBUOTZsZUlrRWNMR01idkRLRkFERDB5eUdpR0wteW1ZUnJGUXUzbkMtbU53cU9qRndhM3REVkFrM2p0aDl2LTJINDJOTWdjODZCTklHckNXM2lobDhJZ1ZWRy0ydzloc2Q4bTIyckJ2VUhiZnFaYURJ?oc=5
+
+- India-European Union Trade Deal At "Advanced Stage", Pact With US In Talks: Piyush Goyal - NDTV
+  India-European Union Trade Deal At "Advanced Stage", Pact
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHFiQTZxYU1xa3FjOUhSaU5BR2Z2dkNWNFJWa3ZuZXRXaXltTG5aVlhHUkxlUnVHZ0tFeFUtRzFZNlpUc1VPWXVLR2V0SGc4WDhGZ3dza1ZBbHNwYUlsSXZqclhUU2pLQWxzNmJMMjNKSkRXcERyd0FWMUpienM1T3lnMXR5Y3p4RExpSHgwTElFYXhNbGpjbk5yNzh6Tm9SU3FpQ0U2b0RfNy1rU1AtOUs5TUdKZFZX0gHAAUFVX3lxTE5IdDdYNGh3YmU0T2ZjdXN6dkhuZDRjWmJNckdvSjRrQ2lidHBQMVd6d1BCWkI5aUliNEhZQU1RUE9zOU03emZLOVZZa18wXy1jaFhuRmlENGJTRHBJc2hYUWlDak1HM3U3NEs3aFJpbFdsWXFIbTRZWXZJQXN4Z2dQU0xrWjgyMnJtaVJkZ29RY0dfWE5hem1uSWlWMzJjVlluZHVmLWpnTHFqQTdMT0VERTYwNnFmcUdoMmxiTUNnQw?oc=5
 
 
-_Last updated: 2025-09-02 06:27:39 UTC_
+_Last updated: 2025-09-02 12:35:07 UTC_
