@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
-- Rahul Gandhi urges PM Modi to announce special relief package for Punjab and other flood-affected states
+- GST overhaul: From soaps to small cars, what gets cheaper and what’s costlier now
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-pm-modi-relief-package-punjab-flood-10227992/
+  🔗 https://indianexpress.com/article/india/gst-reforms-soaps-small-cars-what-gets-cheaper-what-gets-costlier-10228731/
 
-- Prez reference hearing: Governor can’t examine legislative competence of bills, West Bengal tells SC
+- Rajasthan Assembly passes ‘historic’ coaching centre Bill, Opposition claims it fails to address previous concerns
   
-  🔗 https://indianexpress.com/article/india/president-reference-governor-legislative-competence-bills-supreme-court-10227401/
+  🔗 https://indianexpress.com/article/india/rajasthan-assembly-passes-historic-coaching-centre-bill-opposition-claims-it-fails-to-address-previous-concerns-10228723/
 
-- Months after 17 Maoists’ deaths in Sukma, two villagers 7 km away ‘killed for being police informers’
+- ‘Will improve lives of citizens, ensure ease of doing business’: PM Modi hails ‘next-generation’ GST reforms
   
-  🔗 https://indianexpress.com/article/india/17-maoists-deaths-sulma-villagers-killed-police-informers-10227793/
+  🔗 https://indianexpress.com/article/india/will-improve-lives-of-citizens-ensure-ease-of-doing-business-pm-modi-hails-next-generation-gst-reforms-10228717/
 
-- As ex-bureaucrat seeks quashing of P C Ghose inquiry report, Telangana HC asks where he got it from
+- IIT Madras professor Mitesh Khapra in TIME’s list of 100 most influential people in AI
   
-  🔗 https://indianexpress.com/article/india/ex-bureaucrat-quashing-p-c-ghose-inquiry-report-telangana-hc-10227670/
+  🔗 https://indianexpress.com/article/india/iit-madras-professor-mitesh-khapra-time-list-influential-people-in-ai-10228628/
 
-- In tears, Kavitha resigns from BRS, asks father KCR to ‘check who he is surrounded by’
+- Govt will not spare anyone disturbing law and order, says Tripura BJP after TIPRA Motha legislator threatened inside MLA hostel
   
-  🔗 https://indianexpress.com/article/india/suspended-brs-mlc-k-kavitha-resigns-mlc-rama-rao-10227456/
+  🔗 https://indianexpress.com/article/india/govt-law-and-order-disturb-tripura-bjp-tipra-motha-legislator-10228649/
+
+- Bengaluru startup Upliance AI launches next-gen smart cooking device priced at Rs 39,999
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/bengaluru-startup-upliance-ai-launches-next-gen-smart-cooking-device-priced-at-rs-39999-10228575/
+
+- Jio announces Rs 349 plan to mark 9th anniversary: Free data, OTT subscriptions, and more
+  
+  🔗 https://indianexpress.com/article/technology/jio-announces-rs-349-plan-to-mark-9th-anniversary-10228374/
+
+- Oppo K13 Turbo Pro review: A gaming powerhouse with a few trade-offs
+  
+  🔗 https://indianexpress.com/article/technology/tech-reviews/oppo-k13-turbo-pro-review-10227960/
 
 - Chaos to order: How Standard Model tamed the ‘particle zoo’
   
-  🔗 https://indianexpress.com/article/technology/chaos-to-order-how-standard-model-tamed-the-particle-zoo-10228120/
+  🔗 https://indianexpress.com/article/technology/science/chaos-to-order-how-standard-model-tamed-the-particle-zoo-10228120/
 
 - Google avoids breakup in landmark US antitrust case: Key takeaways on Chrome, AI, search deals
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/google-avoids-breakup-us-antitrust-case-key-takeaways-10228062/
 
-- Just one minute of vigorous activity a day can cut death risk, study shows
-  
-  🔗 https://indianexpress.com/article/technology/science/just-one-minute-of-vigorous-activity-a-day-can-cut-death-risk-10227997/
+- Carney Sends Envoys to DC After ‘Very Constructive’ Trump Call
+  Mark Carney said Canada and the US are in negotiations to resolve issues in tariff-hit sectors. Carney said he had
+  🔗 https://www.livemint.com/companies/news/carney-sends-envoys-to-dc-after-very-constructive-trump-call-11756918349550.html
 
-- YouTube might block your Premium benefits if family isn’t in the same household
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/youtube-family-plan-premium-membership-perk-paused-same-address-10227414/
+- Trump Plans to Block Iberdrola Massachusetts Wind Projects
+  The Trump administration is moving to block the development of more offshore wind projects. It's the latest in a series of high-
+  🔗 https://www.livemint.com/companies/news/trump-plans-to-block-iberdrola-massachusetts-wind-projects-11756917136577.html
 
-- Instagram testing Picture-in-Picture mode, will soon let you watch Reels in a floating window
-  
-  🔗 https://indianexpress.com/article/technology/social/instagram-picture-in-picture-floating-window-reels-10227210/
+- Macy’s Lifts Outlook But Still Warns of Fickle Consumer
+  Macy’s Inc. raised its annual outlook and reported its best comparable sales growth in 12 quarters.
+  🔗 https://www.livemint.com/companies/news/macys-lifts-outlook-but-still-warns-of-fickle-consumer-11756916216615.html
 
-- Mint Explainer | Why profiteering fears resurface as GST reforms enter second phase
-  As the GST Council plans reforms, concerns arise over corporate profiteering.
-  🔗 https://www.livemint.com/companies/profiteering-fears-gst-reforms-consumers-gst-council-naa-competition-commission-of-india-gst-appellate-tribunal-taxes-11756889909969.html
+- New York City Is in the Midst of a Maximalist Chicken Moment
+  Over-the-top servings of the bird go for as much
+  🔗 https://www.livemint.com/companies/news/new-york-city-is-in-the-midst-of-a-maximalist-chicken-moment-11756915852145.html
 
-- Who is Kaustubh Kulkarni? Citibank appoints JPMorgan veteran as Asia Pacific co-head
-  Veteran banker Kaustubh Kulkarni will join Citi in December. He will take up
-  🔗 https://www.livemint.com/companies/people/who-is-kaustubh-kulkarni-citibank-appoints-jpmorgan-veteran-as-asia-pacific-cohead-11756895061754.html
+- Jane Street’s India Revenue Shrank Amid Misconduct Allegations
+  Jane Street Group generated just 3% of its first-half net trading revenue from India. The company is fending off
+  🔗 https://www.livemint.com/companies/news/jane-street-s-india-revenue-shrank-amid-misconduct-allegations-11756915729690.html
 
-- As funding momentum returns, startups eye next growth push
-  Series B and C stages of funding are seeing a gradual uptick amid a growth in distribution channels, reduced burn rates, and more rational valuations. Does this
-  🔗 https://www.livemint.com/companies/start-ups/midmarket-startup-funding-series-b-funding-india-series-c-funding-india-indian-startups-fundraising-2025-startup-ca-11756872305439.html
+- NSE to appoint Srinivas Injeti as chairman
+  The National Stock Exchange plans to appoint Srinivas Injeti as its chairman, pending approval from Sebi. The position has been vacant since July 2024.
+  🔗 https://www.livemint.com/market/nse-to-appoint-srinivas-injeti-as-chairman-11756908669856.html
 
-- Delhi HC orders GMR Group to vacate leased farmhouse
-  The Delhi High Court ordered DIAL and GMR Group to vacate Pushpanjali Farms. The court found GMR's lease invalid due to lack of registration.
-  🔗 https://www.livemint.com/companies/delhi-hc-orders-gmr-group-to-vacate-leased-farmhouse-11756893843564.html
+- Dollar drops against peers, euro gains after US jobs data
+  Dollar drops against peers
+  🔗 https://www.livemint.com/market/stock-market-news/dollar-drops-against-peers-euro-gains-after-us-jobs-data-11756917137157.html
 
-- Beyond salaries: Why Indian companies are doubling down on Esops
-  Esops are emerging as a core element of corporate pay in India.
-  🔗 https://www.livemint.com/companies/indian-companies-esops-corporate-pay-trend-11756879454924.html
+- Treasuries Rebound After Job Openings Data Confirm Slowdown
+  Treasury yields declined Wednesday after a weaker-than-expected report on hiring and firing by US employers in July.
+  🔗 https://www.livemint.com/market/stock-market-news/treasuries-rebound-after-job-openings-data-confirm-slowdown-11756913765401.html
 
-- Austere Systems IPO: Issue booked 7.04 x so far on first bidding day. Check GMP, other key details.
-  Austere Systems IPO began on September 3 and ends on September 8. The subscription status reached 8.28x on day 2, with significant interest from retail and institutional
-  🔗 https://www.livemint.com/market/ipo/austere-systems-ipo-issue-booked-7-04-x-so-far-on-first-bidding-day-austere-systems-ipo-gmp-other-key-details-11756897089953.html
+- American Bitcoin, backed by Donald Trump's sons, begins trading on Nasdaq today. Here's all you need to know
+  American Bitcoin, backed by Donald Trump's sons has begun trading on the Nas
+  🔗 https://www.livemint.com/market/cryptocurrency/american-bitcoin-company-backed-donald-trump-sons-eric-donald-jr-begins-trading-nasdaq-september-3-us-stock-markets-news-11756912701984.html
 
-- Amanta Healthcare IPO: Issue booked nearly 83 times as of third day. Check GMP and other details
-  The initial public offer (IPO) of Amanta Healthcare, which opened for bidding on Monday, September 1, closed today, September
-  🔗 https://www.livemint.com/market/ipo/amanta-healthcare-ipo-issue-booked-nearly-83x-as-of-third-day-check-gmp-and-other-details-11756899462276.html
+- Wall Street today: US stocks mixed after job openings data, Alphabet jumps 8.3%, Apple surges 8.4%
+  The Dow Jones Industrial Average fell 0.45%, the S&amp;amp
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-today-us-stocks-edge-higher-as-alphabet-gain-after-favorable-antitrust-ruling-11756906876708.html
 
-- Jane Street moves SAT against Sebi order, seeks full disclosure in index manipulation case
-  Jane Street has claimed that Sebi withheld critical ISD findings and NSE correspondence
-  🔗 https://www.livemint.com/market/jane-street-moves-sat-against-sebi-order-seeks-full-disclosure-in-index-manipulation-case-11756896097305.html
+- India ranks among top 5 contributors to open source projects: CNCF
+  India ranks as the fifth-largest contributor to CNCF open
+  🔗 https://www.livemint.com/technology/tech-news/india-ranks-among-top-5-contributors-to-open-source-projects-cncf-11756911792944.html
 
-- Expert view: Equitree Capital CIO on Nifty 50 outlook, Trump tariffs, FIIs, and more
-  Pawan Bharaddia, CIO of Equitree Capital, discusses the challenges facing the Indian stock market. Despite these hurdles, he sees potential for modest gains in the
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-equitree-capital-cio-on-nifty-50-outlook-trump-tariffs-fiis-and-more-11756897355564.html
-
-- Gold prices at all-time high: Should Indian investors buy yellow metal ahead of festive season for higher return?
-  In the last one month alone, gold prices have spiked by 8% ahead of the festival and wedding season in India. In the international market, too, gold surged to a fresh record high.
-  🔗 https://www.livemint.com/market/commodities/gold-prices-at-all-time-high-should-indian-investors-buy-yellow-metal-ahead-of-festive-season-for-higher-return-11756897276657.html
+- Apple MacBook Air Laptops with the latest processor and features: Top 5 picks to consider for work and entertainment
+  Apple MacBook Air Laptops feature advanced processors, elegant design, and lasting battery life. Portable and efficient, they
+  🔗 https://www.livemint.com/technology/gadgets/apple-macbook-air-laptops-with-the-latest-processor-and-features-top-5-picks-to-consider-for-work-and-entertainment-11756903044479.html
 
 - ChatGPT down? Best AI alternative chatbots that you can rely on
   OpenAI's ChatGPT suffered a major outage, affecting users worldwide
@@ -92,161 +100,85 @@
   Google's AI rivals get a boost from data-sharing
   🔗 https://www.livemint.com/technology/tech-news/googles-ai-rivals-get-a-boost-from-data-sharing-order-but-tech-giant-far-from-routed-11756893673071.html
 
-- Top 10 best monitors with HDMI for stunning visuals and versatile connectivity
-  Discover the top 10 monitors with HDMI that deliver sharp visuals, smooth performance, and versatile connectivity for work, gaming
-  🔗 https://www.livemint.com/technology/gadgets/top-10-best-monitors-with-hdmi-for-stunning-visuals-and-versatile-connectivity-11756889413207.html
+- Sharvaya Metals raises Rs 17 crore from anchor investors ahead of IPO launch
+  Sharvaya Metals has secured Rs 17 crore from anchor investors, including NAV Capital and Craft Emerging Market Fund. The IPO includes a fresh issue and offer for sale, with proceeds allocated to capital expenditure.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sharvaya-metals-raises-rs-17-crore-from-anchor-investors-ahead-of-ipo-launch/articleshow/123681686.cms
 
-- Is ChatGPT down? Users file reports globally, seek resolution
-  Thousands of ChatGPT users have filed reports in the last 30 minutes. Downd
-  🔗 https://www.livemint.com/technology/is-chatgpt-down-users-file-reports-globally-seek-resolution-11756886020493.html
+- Flexible office space provider Dev Accelerator announces IPO dates. Check details
+  Dev Accelerator, a flexible office space provider under the DevX brand, will launch its IPO on September 10. The three-day issue aims to fund expansion across India and internationally.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/flexible-office-space-provider-dev-accelerator-announces-ipo-dates-check-details/articleshow/123681125.cms
 
-- Stock market highlights: Sensex ends 410 pts higher, Nifty at 24,715 on Day 1 of GST council meet - Business Standard
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdmpVZFVPN3p1NHR0MUxidDFMTElFNExUWEM1ZTlKeGhLZDNQS2ptMVNQR1Y2MndreVA2dUdXdUZHenFtaV9wbUwzem5jN0RuS2dra09YcjEzdlNCYloxUlRkUlZSYUxGXz
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdmpVZFVPN3p1NHR0MUxidDFMTElFNExUWEM1ZTlKeGhLZDNQS2ptMVNQR1Y2MndreVA2dUdXdUZHenFtaV9wbUwzem5jN0RuS2dra09YcjEzdlNCYloxUlRkUlZSYUxGXzQ2bF9yRDlLSW4zU0NYZEtLUkpybmx3Sjd2MUR5Ujdtdnd4NV9KTXd1OHk5RmdGWWtzRzY0Qk4yMHUwLWtYdEdIY2xEclA2aG5oYk9xamE4V3Q4allzUERjWTcyNmI4YmxPNWtWZ2xESzF1cVh5RDdHTWlxWkstY1BVdDFMazI1eG1UV2c4TEl2ZTNHQTdj0gH8AUFVX3lxTE5PdDdIUWM3cTlKT21HQ25vRG1oalJYWm1GRkNqSW84eW9OZ2lKZTRjVERmVnlZMU96WXhvNmM0b3JRTHo0MXp2YUt4S3Z1VjVZUUVxR2tieW54bTNqSklyYmRaMEFUSEdvMGJCanV6VGdoQS0tZ0hfVlM2U0k2LTR3clNOTFJ6MXg0MnZSaXJVMlZtTHVmOTBnY01CajBVWTlHcmhvalVJazhtaEhyUEotSlJtSlBCc2hSc1E2YlJWWDM1RFIwQlhXSlRBMlBBSHNKdHdHaFFDeDlkZEk4bXNuT1BWb29Pb19MRTRmY1kybUpHMkJHZkZsX0JvUQ?oc=5
+- Euro zone bond yields lower at end of volatile day
+  Euro zone bond yields were set to finish a volatile day lower on Wednesday. U.S. labour market data supported bets on a Federal Reserve rate cut this month.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-lower-at-end-of-volatile-day/articleshow/123680837.cms
 
-- European markets tumble; British pound drops 1.2% against U.S. dollar amid fiscal concerns - CNBC
-  European markets tumble; British pound drops 1.2%
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnhzOFd3TTE3YTZWNUIwTDEyTUtCVFFRQ2R6aGRmdU16cm92bHNtUjVYeGRFLTFHSElRN0xsbHhxVmEtSVhPTmFSTy1qNVVJNzNiTzhpWVpMSDNPVTUwT2lLdmhVSGRIU29rdXZKb01zNk1nX3ktQzZXdXNJMlZjeUZPQkZDQXd1OElkNjJqZk5ETXVPRi1qTlN30gGfAUFVX3lxTE82OEpEdWtyanpmbktoenpOQV9hVWFGNEhlVl8wd2cwSUhSVzlvWmVYRF9vUFF0aWs5LWFyaWxJcjNPTWVZOUtCYUhETHNhQnhuT3pnX0NnV1hWal9lNnZqbEducmFfdENOa2pKc3NYT2NYNEtpOFlBem8xTEJJTGJkd3BvaXhZSHUzRkRhZzNTT29hemsxSUxYQ05SM0VWMA?oc=5
+- NSE appoints former IFSCA chairman Injeti Srinivas as Public Interest Director
+  The National Stock Exchange (NSE) has appointed Injeti Srinivas, former chairman of the International
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-appoints-former-ifsca-chairman-injeti-srinivas-as-public-interest-director/articleshow/123680660.cms
 
-- Swiggy raises platform fee to Rs 15 in select markets amid surge in orders - The Economic Times
-  Swiggy raises platform fee to Rs 15 in select markets amid surge
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMlY0NGo3dUpCTndES2F3SXU3LTVXVzRZa0hpTnUxdW5iREtxOWg0dkRERDVOVTRtV2E1T1RWMThqUXlLY0M2dHpNNm5oR2pSN3pQMWk1aHdUaUltdktPdlB6TmNFOFF1YU1kS1FHdW1aZXF3Z283bXJBMkZNNFZiZ2FkZFZJWk1DZWpqVDZTV3Ruc09BNXo1TUxvRFcwTHJPVk51b3E0dERzT1lfWmF2ajg2ZUEzMGpkZDRQNFliUkFfX3RSUEpoOFlqYXVSdHRVVFdyYnVkUklOOTFLVkdFX2t5TXdIRlNCaFlWStIB8gFBVV95cUxPeEhKU0R1ZFZHMFBQWUM3Q0FOaUlTQWt1SFhjR3Y1clFTVXkyZ245ZUdfd2RWN01fd1BXNlBJQm5weVluNkRFLU9tSm1ncmZSYThpVWZKNURjc0VZd3NERUxlUVVWR2w1UF9iNU5qVFRJZ3ktNU1Bd3NhQzNIRng3LTZsWkxEamw2U2FENlVjN0Y3bGFiRU1aSXQ4NmVodUhvN193RzFXNUt1bmVLTFFTZjNwM2lZTDdqc2hBZGYzOGNJUEVBa0M0TGRiNDFSNUhNQnI3ZGF4clhnSS1SSm9rSXRIRGJ2YzUzR2s2NkdjT3k0UQ?oc=5
+- Market Trading Guide: HDFC Bank, EIH among 5 stock recommendations for Thursday
+  Analysts say market sentiment hinges on the outcome of the GST Council meeting in the near term.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-hdfc-bank-eih-among-5-stock-recommendations-for-thursday/slideshow/123680644.cms
 
-- Tokenised gold market hits all-time high of $2.6 billion - CNBC TV18
-  Tokenised gold market hits all-time
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQkM2SDBTRGo0dm9xb1ktdVBESldYNi15TXRodjQyWktpNWtLM1RlZUh1Yk53a0NEdm9TcGhWaXkyU1lEbl9kSkY5Q1FkRlpuYV9oenljRS1HSjd0N0hxVzIwVk9MTnRWUjQxb2hENlZ4bHdFb3Bpb3ZFbWotaHNDOVFTTG1uSExsZlNhblEyR1QyRlE4ZDAwVWRJYjZUTFU3RFdLejdDak4wVDBtRGRB0gG0AUFVX3lxTE4zVzMzNW14akFaMXprLXYyTERscWZhZWROYjBNNkhObUp6R1BpX0M1LXBxM3kwU3RhX0JVYVRPVkxPRTlZcjhvTzVYVnprOG1XNlBBek01ZXBOX1gyY29EbC1xTjZOTU9pM29ZWjJra0o5aEU4WExGVWVtdGtRbDk0RjYyeWhjenV3ZWlXN0xfa3FOSnk2TURxSmJYOVpndWlZQnFlQnN5Ulp6VjhWSTNXRXR1dA?oc=5
-
-- Market Snapshot: Range-bound trading continues as metals shine amid global cues - The Economic Times
-  Market Snapshot: Range-bound trading continues as metals
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWXZBMmw0SEVhX1BsclBfQTJ0RkxXSmFoOFRaR2FieXB4NXkzSnZfWWNjcksyWDhmVU9SclhIazFfcm93U3lvV0RrVmQzalMydW9pX0hpODRVWGYxY2ZYVk0tVjJULVczUGszMWVvNFNDY2hWYzVZWmd5YkVlTjdLMmpUdDFsblcyT2JYRzU3SDdiS2JVbDh0Mm1lVmsxNldlRFhGWTlVVTV3NUJ5OFYwSmliNUFBNW81VXdxX3picmxlTVZhNkdNVnU3NkEyNUh6ZHFGTmFfMm5VbFBEdHBhVEw5WjhsazTSAewBQVVfeXFMUGpYSnRvalIzUzkwMVdwbGRSa1NpcktxTlgwVS1QWGlDVGxTNlRySmlFcFlkSThZOXFlOTl5OU5BLXZfLU5yUklGX1kzcHl2Q0kzOUU2SkQtTHVyY2xYb2VHUzUxOG1FT05vbEtVdjlwSlJxZ3B4R1JhX2tSVlFXUzdXXzFaMnFqMkJmbzlLUUlJYWFQb3ZOUnJrWThTY2VrcmtyWnpMZjdTNWliQmpnU1E1YzluX3g4WUdCeW50c196Y2o3ZnV5Rm8zMnJWSDNPWXR4enJJQ2pSQ3kyTi1LT2plaGhBY0tKdFo5Q1k?oc=5
-
-- 7 large cap stocks with sales rising steadily over 4 quarters
-  Seven NSE large-cap companies have posted consistent net sales growth for four straight quarters. This signals strong momentum, resilience, and investor confidence
-  🔗 https://economictimes.indiatimes.com/markets/web-stories/7-large-cap-stocks-with-sales-rising-steadily-over-4-quarters/slideshow/123677993.cms
-
-- Gold still leading the rally; silver to deliver stronger gains over long term: Jonathan Barratt
-  Experts see gold holding above $3,600, while silver could climb to $50 on industrial demand. Copper also gained 12% YTD, with potential upside from US rate cuts and Chinese stimulus supporting broader metals
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-still-leading-the-rally-silver-to-deliver-stronger-gains-over-long-term-jonathan-barratt/articleshow/123677460.cms
-
-- NCDEX unlisted shares rocket 14% as Radhakishan Damani, Madhu Kela, Zerodha, Groww commit crores
-  NCDEX unlisted shares surged 14.5% to Rs 475 after raising Rs 770 crore from top investors. Funding supports expansion into cash equities and derivatives, leveraging its rural commodities network.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ncdex-unlisted-shares-rocket-14-as-radhakishan-damani-madhu-kela-zerodha-groww-commit-crores/articleshow/123677347.cms
-
-- GST rate cut: How is CLSA tweaking its portfolio ahead of the Council meeting verdict
-  GST reforms set to impact markets, with potential 7–10% cuts on two-wheelers, small cars, tractors, and consumer goods. Analysts say consumption sectors are likely beneficiaries.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gst-rate-cut-how-is-clsa-tweaking-its-portfolio-ahead-of-ahead-of-the-council-meeting-verdict/articleshow/123676762.cms
-
-- Market Snapshot: Range-bound trading continues as metals shine amid global cues
-  Indian equity markets displayed a range-bound trade today. Bank Nifty managed to remain in the green despite recent volatility.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-snapshot-range-bound-trading-continues-as-metals-shine-amid-global-cues/articleshow/123676668.cms
+- India killed U.S. with tariffs, now offers ‘no tariffs’: Trump - The Hindu
+  India killed U.S. with tariffs,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXhfNUhhWmMxZVpFQVlLaHF0UnBJcEFhbzdQdVpxMHZxRVdmbkhKSng0bklUdk9XTmE0RUp4X2tFTERQOEo2cVFQaDR1NjdHckpMT3lvdTEtdWlmYWVDa01ZRl9IUzJBQmE0ZS15UUNNMlBfcWx1OWl5T3hjWWpTNmtBOXp1YUNFVzU4eU5NQWZhTzRZcC03QmZSQnJpTmNvNnEwXzAwc20yd2U5QmhhUGV5eEdmQ0V5dklRb9IBwwFBVV95cUxQTmFVZnNxcE45VW91di00S3BKZEZXZWNEN1p0UTB2M2xmdUZqN2lLdTF2NUUtZ1ZqbjFPZXRzdW9KcmtPbWFZSmt1V2p2OUlTcS1zaGU5dzBQMHNQZEhnTmROLVdXc183MjNITTRyM2NYSWc5aUJKb0MxR01MWU5NWEJXT0VmTWM5djZuUkxJSkw3NDRudUswWTBIUXJLMFRMc3NUeTNtbFRxdUFrcmk4cU5XcUE5b1dVVnl1ZWE5M1B4bTA?oc=5
 
 - "We Get Along With India Very Well, But...": Trump Amid Tariff Tension - NDTV
   "We Get Along With India Very Well, But
   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlpXUUE2Zm5BaGRtRGJPMVRsbC1jYXgtWVc5bkpqWWlHaUYtSzc5anl1eWZvY3c4Y25RY2VnSmpKdU1mY1R3cWFRSjgzSlZWbXg5UU9OSk9yZWs3X2ZTVFgxbW95SlYxNUFjci0walZrMm5Cb291b3JVVzNXOWNRYXZPdnVNcGlMM0FxWE5fbVNtTDE0aVAwWENnQUkyODZ2cnBtUtIBrAFBVV95cUxNekZ0cGRrZUhRN2dvUDFXak5kWWxlVVVVVnVEaW1HSV9feGZyWTZUU0d6bFJfeDFBWDJ2ejBsaUNtRjJxVXFZbl9zN0hiaUdGMFZWRXNDYmxnZTM5M2t6djFFN1lZR0lGRTFsd3VZQ2dOT19PZEJQdnpZbkhPbC1QWE1udDZnTzg1TlNDOVEwQ3BsdlNEM3BRUlNjV3hPSEtBMVFLbGdUSDRyZWxO?oc=5
 
-- "Where Are You Today?" Congressman's Tariff Message For Indian Americans - NDTV
-  "Where Are You Today?" Congressman's
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNMVRPOW9tdnNJLXIzZGQ5UzhjTUoyMkdydDhIdFNDRkVOZHpGbnZ1bVcwbDU4V01RSzlySllxSzlfeWhjUTZic0c3NEZxRW1MY1N1bTljdHA4eElQZTMyaEhmX1RDYjFFekNSMkNhMmF0WXFVd0N6ZFhWa3ZrWjZBWm9NV3ZGT0ctR3RKZFpiRmlORmhmNkJPZ19xZ1hFQdIBpgFBVV95cUxNcDYwTVA5a0VLYTJqVUhBdUdfcGRuTjBzcHY4Vno4aVRybkhiRWs4TVZKdm90UU15SkFmX3ZUdHFGcWZWX3V1Z1VJQXBXZHE1aVFqVlhKd21odUpNZHkzU3dQLUlsT0V2OUJzcHZjcFEwbzB4WWFUNVJwek9hRVV1Q09SU2tXcGJSZk5CbVhjV2w5SENRYW5NRVRRdmNzSngyOERIblRB?oc=5
+- Breaking News Live Updates: 'Will benefit common man,' says PM Modi hailing 'next-generation' reforms in GST - Times of India
+  'Next-generation' reforms in GST will benefit common man, says PM Modi
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNakRFUy1lVk9SQV9ySWVvT1JUQm4wZkI3V3U3Q3ZtcDc1ZnU4YVF2MTZRX1ZxVGZHV0pBeEJuQXpuRzVnWlBORWwzRWY3WlVzekJmcDNmWEVNZEkybkxybHlrQTlRVDZscFhiZWtoYXd5RVhFaDVqdFpzcnluWVdJQkkxbnZwODZPbjNDRGpuWDhVTXpBUTBLaEQ0UUVzZXE2ZTV2U1M1b2lIcG84QVltSGZjc2FQR2PSAbwBQVVfeXFMT0QxWnRJVUczYVZtRUZZNHpxTy1DLWhxOTMyZVh4WUdxRGhsY2c2czZXajZBb05JVnBNVl9qN2VZUElOeGZQX05RXzRJN0ttS2MwQ0hZanhKMVFBZ1BqcWZEZFF0Z2hUMjFub1VuMjdXNlZwMmVsVGdXQ2h5NHBPZVdNUEVBRmI1TWk4b0ZFWE00bUpPSDlnakJ6MC1OZXFGQUFEc3ZOT1h1NkUzZGZrZkV0QjVkOXlhek1aYmo?oc=5
 
-- Only 3 People Granted Citizenship Under CAA in Assam: Himanta Sarma - NDTV
-  Only 3 People Granted Citizenship Under CAA in
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNWU5VTjBubks2Y3drLThNMXZ6RmRiX1l1dDJsU1JTXzlOYzBCWVNqa2kteGVjdVR1V2dfYkhCYkhYa3ZLSUVncU94X2xsckV2VGo5RXZLTU9Gdjg4cUZkWkxPMU5TU3NsbkNzMmFjcnB0ZHJDcGkwQVlhZWFUd2tKdGk5Rk81THp2ZEtWaW41X1Fnd0VPR25iRHJoTjZnOTgyZkxFalFtcHY1LU9JZ0ktLUg3bmstSnNFdjRTetIBxAFBVV95cUxPazJsR2psaUxWdWk0cTIwQkdaaGk0LUp1X3NBa3AxeGdHMXZSaUZjMXpIZksxSVIyZjA3VWJNVm95WDYxRkg5cjk1NFA0Yk45VV8yX0ctbXZGeER0aXBtODlQdVZVVUVjaWNERXVlMEFheGxKYmN1UU5uYjBpTUxvWkI0Z3FjYVROcDJQV3Q1RkF2VmJwVnZEQnNiVWd2akFLMUI4WDZ5LW4wUFVRamZVNTZrM1VoMnlGNEZJa01Dcl9RWnJ0?oc=5
+- News Today Live Updates, 3 September | Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives - The Indian Express
+  Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWTNqYk1RSFV0cjVXQWFVWkRRZ2VuajRZendiVGRsM29HQVZqcWRXM0RuMUtYc002elJXWDI5N0kwQzFMTWVqMXJ1TFRmYzJpRWJfUFc3d2kta3Vrc2hHXzRGNnZFZzFiekFrLUtUaFBPRFhrbDhOemRmWlFlOHRzcFAwYmRvem1kcGpIN1E2RHVUWVpMbTdvSmZQa0RHYXJBWENIWWdPTkh4NmRFeHhKMVpaelNVSG96cUlCSjVLQmxpdEdyUHZ4NXFtWGxzV0ZkMTJxU0p4V2tQcjlSOE1hVmtHZlI2Z3lF0gHvAUFVX3lxTE5QcXIyYjZVRTdvYlNobTRzTm1ickgxSE1IMFlnbUhNS1JaZDdkVEJ1algydnRrVUh0Ujc0OHlpRU1rbWNTMVA0T3daVW5VaEpQOVd0QWU2ckdyNjd5UDNoeUlCdmJ3alpBOFlGdFhRLVRSc0E3aHNGV3g2NzBfcFdXME5qbzc3clJuTTZWXzFxOFZhSlU0OUNZNVJVZkp3T2Z1YTZxRzZmVnRCS2xTem5PZmRpcXBQODVLY2xoamVDWl9GTktMc19rR2dqNmJKdHF6UFFtR29BOFJuYlF3Z256eDdROXF1OWxRVUhtdmlV?oc=5
 
-- "DMK Councillor Asked Me To Kneel," Says Dalit Man, Police Case Filed - NDTV
-  "DMK Councillor Asked Me To K
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTXZmcHJZTjItbGFQbEV1cXRUbVAzeEp3Y1dWUlF5X21EU3FGeDdlcHpRSVJsQl8tV3NfX2lwWFgyaHFrRkFMbUZDQjhoclI3b2pBcGNsZHRmOTBpaEo5SFZQdEQ4RjBiQlBfemNrSFhRN2ttZFNDRHdGWlh1eEhvZWR2VHFjb0x5aVlybmVhaE5DTFNNYndaTXZ3dzhvYmJCdEJEdUxWTUbSAbABQVVfeXFMTnVzM0w0VnVLcllNVnlFLWRtR295WGxKbEdXQnI4TjUtcTFQd2xmUGt6N1dWaXNWeFJHZ0dKMHdDMlN5M05PR3Jpa041Ukg0d2tZRUktUC1iNldZdk1IUks5c3BMTEZmaVBTMVUyTVlqcE1IMnNYQUN1X2FpbDFNc18wRGp5SG9UdVp6OWN1SkRocU9zQWJGRXZIQVFPdGQxZzVtT0ZWUGFxTkdIREJINWk?oc=5
+- Is Trump trying to punish India's prized IT sector next? - India Today
+  Is Trump trying to punish India's prized IT
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNTzFzSERsTTh5blpyR3pKZlpaWjVMRHhnWWN1MldLU0JTbE9yaFAzaW9HQzZSVkgwRGEzQUFacmNDcm83Z2tERm52YnpQcmwzX1ZHQlpFZGtGLThUQ1BVc19QZHF5MkZwa1BSRmx5aURPQnBzSmVXTlRzZXo0TFJ1NHVtYXNFS3BfNXRiaDdWaVFtWFlvY0Y2eHFmSUZKZ3pOR05IQXRPQUpzYjdhRGhzZW00NjI2WHo5a1pONkRYaDVzY01rY0FTX2lQeEQ4MG0yMXZlOXBQTnRxd3N2a2d3ZFZLTGo3MlItU2xNdE5CcTdGNm9WbzZCTFYtWUsxaG93MnlERExPejNlV3ox0gGSAkFVX3lxTFBqWjFzZjNSVkRwU1pQYUVIOWxqdnNfVWJzV0RaUmlqOW1GZHZSLU1KOTRBM3lETG5zV0x0SkFLLTRhTnJuRnNuODVteXhrVHBZRDIyNTZINUFjUDNzN2pnZHd5SnlNbGRGQXI2SFlmNHR4TXgyMnlVeHNyLWVvWFNiQkJmbzJCdlQtcFNUeEl6TlJXWktWY2RSZTgweHVtQ1otT1BHRGZpTldfcExieXhnUC1ZSXVlS05ZbHdGT0VBSGRUOW83Q2pfTWg0VEdYdi1nOXRhcmRsbGp6YXhqLTY4V3NUOVVfSzRmMVpYNkNKRTlmX2NGRkVFbDREYmdKVjJGUGh1Yl8zR0pLNEd1Q3BVNFE?oc=5
 
-- MK Stalin Takes A Dig At PM Modi Over Russian Oil, BJP Says "Immature" - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOR3FkQ1dMb2RDRVY3Rjh0TzhfbkVwYU9Pc0JBZUhiNHhjQW45bW9jVTVFZU9VeXlLbmFBVUJRc3VHMlM0dHZzdEFkUFRhbFRULWZlVFhORjZfY3RsdmMzekhlZVpZcDF2OUItckpMRHBja3Rpc3pwSm1ZcVVkRld2NWFuRjUydUgxeEVyRTlVUjNCRk1zY01GTjZjWlRfTUt3RFc5cEg2MVZtRkNQWTg3MmN0eHdyaUHSAb8BQVVfeXFMUHBZSENvYWpPTS1WUGJyaVFlSElCcXpjMV9UOGI0R1A5WkFuQnBKYW5uWkdhN1E0Z2pHUGdOUVgzcmhNa25oN3lBY0NTUFBaMmZxS0xsRDBVZElxXzFhQVBOSDFLRzMzbzZQbTUzUU5WckFXMWVrcHZNUWpjZGhZVzhKM0hfTmRMMXpveEttTm9TRDlyeTlHTHZsZFpTLXBuTWhlMGoxa1I0WDRRQkUwN3BsclU1dldZVTA5cDJaamc?oc=5
-
-- "We Get Along With India Very Well, But...": Trump Amid Tariff Tension - NDTV
-  "We Get Along With India Very Well, But
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlpXUUE2Zm5BaGRtRGJPMVRsbC1jYXgtWVc5bkpqWWlHaUYtSzc5anl1eWZvY3c4Y25RY2VnSmpKdU1mY1R3cWFRSjgzSlZWbXg5UU9OSk9yZWs3X2ZTVFgxbW95SlYxNUFjci0walZrMm5Cb291b3JVVzNXOWNRYXZPdnVNcGlMM0FxWE5fbVNtTDE0aVAwWENnQUkyODZ2cnBtUtIBrAFBVV95cUxNekZ0cGRrZUhRN2dvUDFXak5kWWxlVVVVVnVEaW1HSV9feGZyWTZUU0d6bFJfeDFBWDJ2ejBsaUNtRjJxVXFZbl9zN0hiaUdGMFZWRXNDYmxnZTM5M2t6djFFN1lZR0lGRTFsd3VZQ2dOT19PZEJQdnpZbkhPbC1QWE1udDZnTzg1TlNDOVEwQ3BsdlNEM3BRUlNjV3hPSEtBMVFLbGdUSDRyZWxO?oc=5
-
-- "Where Are You Today?" Congressman's Tariff Message For Indian Americans - NDTV
-  "Where Are You Today?" Congressman's
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNMVRPOW9tdnNJLXIzZGQ5UzhjTUoyMkdydDhIdFNDRkVOZHpGbnZ1bVcwbDU4V01RSzlySllxSzlfeWhjUTZic0c3NEZxRW1MY1N1bTljdHA4eElQZTMyaEhmX1RDYjFFekNSMkNhMmF0WXFVd0N6ZFhWa3ZrWjZBWm9NV3ZGT0ctR3RKZFpiRmlORmhmNkJPZ19xZ1hFQdIBpgFBVV95cUxNcDYwTVA5a0VLYTJqVUhBdUdfcGRuTjBzcHY4Vno4aVRybkhiRWs4TVZKdm90UU15SkFmX3ZUdHFGcWZWX3V1Z1VJQXBXZHE1aVFqVlhKd21odUpNZHkzU3dQLUlsT0V2OUJzcHZjcFEwbzB4WWFUNVJwek9hRVV1Q09SU2tXcGJSZk5CbVhjV2w5SENRYW5NRVRRdmNzSngyOERIblRB?oc=5
-
-- Only 3 People Granted Citizenship Under CAA in Assam: Himanta Sarma - NDTV
-  Only 3 People Granted Citizenship Under CAA in
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNWU5VTjBubks2Y3drLThNMXZ6RmRiX1l1dDJsU1JTXzlOYzBCWVNqa2kteGVjdVR1V2dfYkhCYkhYa3ZLSUVncU94X2xsckV2VGo5RXZLTU9Gdjg4cUZkWkxPMU5TU3NsbkNzMmFjcnB0ZHJDcGkwQVlhZWFUd2tKdGk5Rk81THp2ZEtWaW41X1Fnd0VPR25iRHJoTjZnOTgyZkxFalFtcHY1LU9JZ0ktLUg3bmstSnNFdjRTetIBxAFBVV95cUxPazJsR2psaUxWdWk0cTIwQkdaaGk0LUp1X3NBa3AxeGdHMXZSaUZjMXpIZksxSVIyZjA3VWJNVm95WDYxRkg5cjk1NFA0Yk45VV8yX0ctbXZGeER0aXBtODlQdVZVVUVjaWNERXVlMEFheGxKYmN1UU5uYjBpTUxvWkI0Z3FjYVROcDJQV3Q1RkF2VmJwVnZEQnNiVWd2akFLMUI4WDZ5LW4wUFVRamZVNTZrM1VoMnlGNEZJa01Dcl9RWnJ0?oc=5
-
-- "DMK Councillor Asked Me To Kneel," Says Dalit Man, Police Case Filed - NDTV
-  "DMK Councillor Asked Me To K
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTXZmcHJZTjItbGFQbEV1cXRUbVAzeEp3Y1dWUlF5X21EU3FGeDdlcHpRSVJsQl8tV3NfX2lwWFgyaHFrRkFMbUZDQjhoclI3b2pBcGNsZHRmOTBpaEo5SFZQdEQ4RjBiQlBfemNrSFhRN2ttZFNDRHdGWlh1eEhvZWR2VHFjb0x5aVlybmVhaE5DTFNNYndaTXZ3dzhvYmJCdEJEdUxWTUbSAbABQVVfeXFMTnVzM0w0VnVLcllNVnlFLWRtR295WGxKbEdXQnI4TjUtcTFQd2xmUGt6N1dWaXNWeFJHZ0dKMHdDMlN5M05PR3Jpa041Ukg0d2tZRUktUC1iNldZdk1IUks5c3BMTEZmaVBTMVUyTVlqcE1IMnNYQUN1X2FpbDFNc18wRGp5SG9UdVp6OWN1SkRocU9zQWJGRXZIQVFPdGQxZzVtT0ZWUGFxTkdIREJINWk?oc=5
-
-- MK Stalin Takes A Dig At PM Modi Over Russian Oil, BJP Says "Immature" - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOR3FkQ1dMb2RDRVY3Rjh0TzhfbkVwYU9Pc0JBZUhiNHhjQW45bW9jVTVFZU9VeXlLbmFBVUJRc3VHMlM0dHZzdEFkUFRhbFRULWZlVFhORjZfY3RsdmMzekhlZVpZcDF2OUItckpMRHBja3Rpc3pwSm1ZcVVkRld2NWFuRjUydUgxeEVyRTlVUjNCRk1zY01GTjZjWlRfTUt3RFc5cEg2MVZtRkNQWTg3MmN0eHdyaUHSAb8BQVVfeXFMUHBZSENvYWpPTS1WUGJyaVFlSElCcXpjMV9UOGI0R1A5WkFuQnBKYW5uWkdhN1E0Z2pHUGdOUVgzcmhNa25oN3lBY0NTUFBaMmZxS0xsRDBVZElxXzFhQVBOSDFLRzMzbzZQbTUzUU5WckFXMWVrcHZNUWpjZGhZVzhKM0hfTmRMMXpveEttTm9TRDlyeTlHTHZsZFpTLXBuTWhlMGoxa1I0WDRRQkUwN3BsclU1dldZVTA5cDJaamc?oc=5
+- India killed U.S. with tariffs, now offers ‘no tariffs’: Trump - The Hindu
+  India killed U.S. with tariffs,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXhfNUhhWmMxZVpFQVlLaHF0UnBJcEFhbzdQdVpxMHZxRVdmbkhKSng0bklUdk9XTmE0RUp4X2tFTERQOEo2cVFQaDR1NjdHckpMT3lvdTEtdWlmYWVDa01ZRl9IUzJBQmE0ZS15UUNNMlBfcWx1OWl5T3hjWWpTNmtBOXp1YUNFVzU4eU5NQWZhTzRZcC03QmZSQnJpTmNvNnEwXzAwc20yd2U5QmhhUGV5eEdmQ0V5dklRb9IBwwFBVV95cUxQTmFVZnNxcE45VW91di00S3BKZEZXZWNEN1p0UTB2M2xmdUZqN2lLdTF2NUUtZ1ZqbjFPZXRzdW9KcmtPbWFZSmt1V2p2OUlTcS1zaGU5dzBQMHNQZEhnTmROLVdXc183MjNITTRyM2NYSWc5aUJKb0MxR01MWU5NWEJXT0VmTWM5djZuUkxJSkw3NDRudUswWTBIUXJLMFRMc3NUeTNtbFRxdUFrcmk4cU5XcUE5b1dVVnl1ZWE5M1B4bTA?oc=5
 
 - "We Get Along With India Very Well, But...": Trump Amid Tariff Tension - NDTV
   "We Get Along With India Very Well, But
   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlpXUUE2Zm5BaGRtRGJPMVRsbC1jYXgtWVc5bkpqWWlHaUYtSzc5anl1eWZvY3c4Y25RY2VnSmpKdU1mY1R3cWFRSjgzSlZWbXg5UU9OSk9yZWs3X2ZTVFgxbW95SlYxNUFjci0walZrMm5Cb291b3JVVzNXOWNRYXZPdnVNcGlMM0FxWE5fbVNtTDE0aVAwWENnQUkyODZ2cnBtUtIBrAFBVV95cUxNekZ0cGRrZUhRN2dvUDFXak5kWWxlVVVVVnVEaW1HSV9feGZyWTZUU0d6bFJfeDFBWDJ2ejBsaUNtRjJxVXFZbl9zN0hiaUdGMFZWRXNDYmxnZTM5M2t6djFFN1lZR0lGRTFsd3VZQ2dOT19PZEJQdnpZbkhPbC1QWE1udDZnTzg1TlNDOVEwQ3BsdlNEM3BRUlNjV3hPSEtBMVFLbGdUSDRyZWxO?oc=5
 
-- "Where Are You Today?" Congressman's Tariff Message For Indian Americans - NDTV
-  "Where Are You Today?" Congressman's
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNMVRPOW9tdnNJLXIzZGQ5UzhjTUoyMkdydDhIdFNDRkVOZHpGbnZ1bVcwbDU4V01RSzlySllxSzlfeWhjUTZic0c3NEZxRW1MY1N1bTljdHA4eElQZTMyaEhmX1RDYjFFekNSMkNhMmF0WXFVd0N6ZFhWa3ZrWjZBWm9NV3ZGT0ctR3RKZFpiRmlORmhmNkJPZ19xZ1hFQdIBpgFBVV95cUxNcDYwTVA5a0VLYTJqVUhBdUdfcGRuTjBzcHY4Vno4aVRybkhiRWs4TVZKdm90UU15SkFmX3ZUdHFGcWZWX3V1Z1VJQXBXZHE1aVFqVlhKd21odUpNZHkzU3dQLUlsT0V2OUJzcHZjcFEwbzB4WWFUNVJwek9hRVV1Q09SU2tXcGJSZk5CbVhjV2w5SENRYW5NRVRRdmNzSngyOERIblRB?oc=5
+- Breaking News Live Updates: 'Will benefit common man,' says PM Modi hailing 'next-generation' reforms in GST - Times of India
+  'Next-generation' reforms in GST will benefit common man, says PM Modi
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNakRFUy1lVk9SQV9ySWVvT1JUQm4wZkI3V3U3Q3ZtcDc1ZnU4YVF2MTZRX1ZxVGZHV0pBeEJuQXpuRzVnWlBORWwzRWY3WlVzekJmcDNmWEVNZEkybkxybHlrQTlRVDZscFhiZWtoYXd5RVhFaDVqdFpzcnluWVdJQkkxbnZwODZPbjNDRGpuWDhVTXpBUTBLaEQ0UUVzZXE2ZTV2U1M1b2lIcG84QVltSGZjc2FQR2PSAbwBQVVfeXFMT0QxWnRJVUczYVZtRUZZNHpxTy1DLWhxOTMyZVh4WUdxRGhsY2c2czZXajZBb05JVnBNVl9qN2VZUElOeGZQX05RXzRJN0ttS2MwQ0hZanhKMVFBZ1BqcWZEZFF0Z2hUMjFub1VuMjdXNlZwMmVsVGdXQ2h5NHBPZVdNUEVBRmI1TWk4b0ZFWE00bUpPSDlnakJ6MC1OZXFGQUFEc3ZOT1h1NkUzZGZrZkV0QjVkOXlhek1aYmo?oc=5
 
-- Only 3 People Granted Citizenship Under CAA in Assam: Himanta Sarma - NDTV
-  Only 3 People Granted Citizenship Under CAA in
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNWU5VTjBubks2Y3drLThNMXZ6RmRiX1l1dDJsU1JTXzlOYzBCWVNqa2kteGVjdVR1V2dfYkhCYkhYa3ZLSUVncU94X2xsckV2VGo5RXZLTU9Gdjg4cUZkWkxPMU5TU3NsbkNzMmFjcnB0ZHJDcGkwQVlhZWFUd2tKdGk5Rk81THp2ZEtWaW41X1Fnd0VPR25iRHJoTjZnOTgyZkxFalFtcHY1LU9JZ0ktLUg3bmstSnNFdjRTetIBxAFBVV95cUxPazJsR2psaUxWdWk0cTIwQkdaaGk0LUp1X3NBa3AxeGdHMXZSaUZjMXpIZksxSVIyZjA3VWJNVm95WDYxRkg5cjk1NFA0Yk45VV8yX0ctbXZGeER0aXBtODlQdVZVVUVjaWNERXVlMEFheGxKYmN1UU5uYjBpTUxvWkI0Z3FjYVROcDJQV3Q1RkF2VmJwVnZEQnNiVWd2akFLMUI4WDZ5LW4wUFVRamZVNTZrM1VoMnlGNEZJa01Dcl9RWnJ0?oc=5
+- News Today Live Updates, 3 September | Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives - The Indian Express
+  Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWTNqYk1RSFV0cjVXQWFVWkRRZ2VuajRZendiVGRsM29HQVZqcWRXM0RuMUtYc002elJXWDI5N0kwQzFMTWVqMXJ1TFRmYzJpRWJfUFc3d2kta3Vrc2hHXzRGNnZFZzFiekFrLUtUaFBPRFhrbDhOemRmWlFlOHRzcFAwYmRvem1kcGpIN1E2RHVUWVpMbTdvSmZQa0RHYXJBWENIWWdPTkh4NmRFeHhKMVpaelNVSG96cUlCSjVLQmxpdEdyUHZ4NXFtWGxzV0ZkMTJxU0p4V2tQcjlSOE1hVmtHZlI2Z3lF0gHvAUFVX3lxTE5QcXIyYjZVRTdvYlNobTRzTm1ickgxSE1IMFlnbUhNS1JaZDdkVEJ1algydnRrVUh0Ujc0OHlpRU1rbWNTMVA0T3daVW5VaEpQOVd0QWU2ckdyNjd5UDNoeUlCdmJ3alpBOFlGdFhRLVRSc0E3aHNGV3g2NzBfcFdXME5qbzc3clJuTTZWXzFxOFZhSlU0OUNZNVJVZkp3T2Z1YTZxRzZmVnRCS2xTem5PZmRpcXBQODVLY2xoamVDWl9GTktMc19rR2dqNmJKdHF6UFFtR29BOFJuYlF3Z256eDdROXF1OWxRVUhtdmlV?oc=5
 
-- "DMK Councillor Asked Me To Kneel," Says Dalit Man, Police Case Filed - NDTV
-  "DMK Councillor Asked Me To K
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTXZmcHJZTjItbGFQbEV1cXRUbVAzeEp3Y1dWUlF5X21EU3FGeDdlcHpRSVJsQl8tV3NfX2lwWFgyaHFrRkFMbUZDQjhoclI3b2pBcGNsZHRmOTBpaEo5SFZQdEQ4RjBiQlBfemNrSFhRN2ttZFNDRHdGWlh1eEhvZWR2VHFjb0x5aVlybmVhaE5DTFNNYndaTXZ3dzhvYmJCdEJEdUxWTUbSAbABQVVfeXFMTnVzM0w0VnVLcllNVnlFLWRtR295WGxKbEdXQnI4TjUtcTFQd2xmUGt6N1dWaXNWeFJHZ0dKMHdDMlN5M05PR3Jpa041Ukg0d2tZRUktUC1iNldZdk1IUks5c3BMTEZmaVBTMVUyTVlqcE1IMnNYQUN1X2FpbDFNc18wRGp5SG9UdVp6OWN1SkRocU9zQWJGRXZIQVFPdGQxZzVtT0ZWUGFxTkdIREJINWk?oc=5
+- Is Trump trying to punish India's prized IT sector next? - India Today
+  Is Trump trying to punish India's prized IT
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNTzFzSERsTTh5blpyR3pKZlpaWjVMRHhnWWN1MldLU0JTbE9yaFAzaW9HQzZSVkgwRGEzQUFacmNDcm83Z2tERm52YnpQcmwzX1ZHQlpFZGtGLThUQ1BVc19QZHF5MkZwa1BSRmx5aURPQnBzSmVXTlRzZXo0TFJ1NHVtYXNFS3BfNXRiaDdWaVFtWFlvY0Y2eHFmSUZKZ3pOR05IQXRPQUpzYjdhRGhzZW00NjI2WHo5a1pONkRYaDVzY01rY0FTX2lQeEQ4MG0yMXZlOXBQTnRxd3N2a2d3ZFZLTGo3MlItU2xNdE5CcTdGNm9WbzZCTFYtWUsxaG93MnlERExPejNlV3ox0gGSAkFVX3lxTFBqWjFzZjNSVkRwU1pQYUVIOWxqdnNfVWJzV0RaUmlqOW1GZHZSLU1KOTRBM3lETG5zV0x0SkFLLTRhTnJuRnNuODVteXhrVHBZRDIyNTZINUFjUDNzN2pnZHd5SnlNbGRGQXI2SFlmNHR4TXgyMnlVeHNyLWVvWFNiQkJmbzJCdlQtcFNUeEl6TlJXWktWY2RSZTgweHVtQ1otT1BHRGZpTldfcExieXhnUC1ZSXVlS05ZbHdGT0VBSGRUOW83Q2pfTWg0VEdYdi1nOXRhcmRsbGp6YXhqLTY4V3NUOVVfSzRmMVpYNkNKRTlmX2NGRkVFbDREYmdKVjJGUGh1Yl8zR0pLNEd1Q3BVNFE?oc=5
 
-- MK Stalin Takes A Dig At PM Modi Over Russian Oil, BJP Says "Immature" - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOR3FkQ1dMb2RDRVY3Rjh0TzhfbkVwYU9Pc0JBZUhiNHhjQW45bW9jVTVFZU9VeXlLbmFBVUJRc3VHMlM0dHZzdEFkUFRhbFRULWZlVFhORjZfY3RsdmMzekhlZVpZcDF2OUItckpMRHBja3Rpc3pwSm1ZcVVkRld2NWFuRjUydUgxeEVyRTlVUjNCRk1zY01GTjZjWlRfTUt3RFc5cEg2MVZtRkNQWTg3MmN0eHdyaUHSAb8BQVVfeXFMUHBZSENvYWpPTS1WUGJyaVFlSElCcXpjMV9UOGI0R1A5WkFuQnBKYW5uWkdhN1E0Z2pHUGdOUVgzcmhNa25oN3lBY0NTUFBaMmZxS0xsRDBVZElxXzFhQVBOSDFLRzMzbzZQbTUzUU5WckFXMWVrcHZNUWpjZGhZVzhKM0hfTmRMMXpveEttTm9TRDlyeTlHTHZsZFpTLXBuTWhlMGoxa1I0WDRRQkUwN3BsclU1dldZVTA5cDJaamc?oc=5
+- India killed U.S. with tariffs, now offers ‘no tariffs’: Trump - The Hindu
+  India killed U.S. with tariffs,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXhfNUhhWmMxZVpFQVlLaHF0UnBJcEFhbzdQdVpxMHZxRVdmbkhKSng0bklUdk9XTmE0RUp4X2tFTERQOEo2cVFQaDR1NjdHckpMT3lvdTEtdWlmYWVDa01ZRl9IUzJBQmE0ZS15UUNNMlBfcWx1OWl5T3hjWWpTNmtBOXp1YUNFVzU4eU5NQWZhTzRZcC03QmZSQnJpTmNvNnEwXzAwc20yd2U5QmhhUGV5eEdmQ0V5dklRb9IBwwFBVV95cUxQTmFVZnNxcE45VW91di00S3BKZEZXZWNEN1p0UTB2M2xmdUZqN2lLdTF2NUUtZ1ZqbjFPZXRzdW9KcmtPbWFZSmt1V2p2OUlTcS1zaGU5dzBQMHNQZEhnTmROLVdXc183MjNITTRyM2NYSWc5aUJKb0MxR01MWU5NWEJXT0VmTWM5djZuUkxJSkw3NDRudUswWTBIUXJLMFRMc3NUeTNtbFRxdUFrcmk4cU5XcUE5b1dVVnl1ZWE5M1B4bTA?oc=5
 
 - "We Get Along With India Very Well, But...": Trump Amid Tariff Tension - NDTV
   "We Get Along With India Very Well, But
   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlpXUUE2Zm5BaGRtRGJPMVRsbC1jYXgtWVc5bkpqWWlHaUYtSzc5anl1eWZvY3c4Y25RY2VnSmpKdU1mY1R3cWFRSjgzSlZWbXg5UU9OSk9yZWs3X2ZTVFgxbW95SlYxNUFjci0walZrMm5Cb291b3JVVzNXOWNRYXZPdnVNcGlMM0FxWE5fbVNtTDE0aVAwWENnQUkyODZ2cnBtUtIBrAFBVV95cUxNekZ0cGRrZUhRN2dvUDFXak5kWWxlVVVVVnVEaW1HSV9feGZyWTZUU0d6bFJfeDFBWDJ2ejBsaUNtRjJxVXFZbl9zN0hiaUdGMFZWRXNDYmxnZTM5M2t6djFFN1lZR0lGRTFsd3VZQ2dOT19PZEJQdnpZbkhPbC1QWE1udDZnTzg1TlNDOVEwQ3BsdlNEM3BRUlNjV3hPSEtBMVFLbGdUSDRyZWxO?oc=5
 
-- "Where Are You Today?" Congressman's Tariff Message For Indian Americans - NDTV
-  "Where Are You Today?" Congressman's
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNMVRPOW9tdnNJLXIzZGQ5UzhjTUoyMkdydDhIdFNDRkVOZHpGbnZ1bVcwbDU4V01RSzlySllxSzlfeWhjUTZic0c3NEZxRW1MY1N1bTljdHA4eElQZTMyaEhmX1RDYjFFekNSMkNhMmF0WXFVd0N6ZFhWa3ZrWjZBWm9NV3ZGT0ctR3RKZFpiRmlORmhmNkJPZ19xZ1hFQdIBpgFBVV95cUxNcDYwTVA5a0VLYTJqVUhBdUdfcGRuTjBzcHY4Vno4aVRybkhiRWs4TVZKdm90UU15SkFmX3ZUdHFGcWZWX3V1Z1VJQXBXZHE1aVFqVlhKd21odUpNZHkzU3dQLUlsT0V2OUJzcHZjcFEwbzB4WWFUNVJwek9hRVV1Q09SU2tXcGJSZk5CbVhjV2w5SENRYW5NRVRRdmNzSngyOERIblRB?oc=5
+- Breaking News Live Updates: 'Will benefit common man,' says PM Modi hailing 'next-generation' reforms in GST - Times of India
+  'Next-generation' reforms in GST will benefit common man, says PM Modi
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNakRFUy1lVk9SQV9ySWVvT1JUQm4wZkI3V3U3Q3ZtcDc1ZnU4YVF2MTZRX1ZxVGZHV0pBeEJuQXpuRzVnWlBORWwzRWY3WlVzekJmcDNmWEVNZEkybkxybHlrQTlRVDZscFhiZWtoYXd5RVhFaDVqdFpzcnluWVdJQkkxbnZwODZPbjNDRGpuWDhVTXpBUTBLaEQ0UUVzZXE2ZTV2U1M1b2lIcG84QVltSGZjc2FQR2PSAbwBQVVfeXFMT0QxWnRJVUczYVZtRUZZNHpxTy1DLWhxOTMyZVh4WUdxRGhsY2c2czZXajZBb05JVnBNVl9qN2VZUElOeGZQX05RXzRJN0ttS2MwQ0hZanhKMVFBZ1BqcWZEZFF0Z2hUMjFub1VuMjdXNlZwMmVsVGdXQ2h5NHBPZVdNUEVBRmI1TWk4b0ZFWE00bUpPSDlnakJ6MC1OZXFGQUFEc3ZOT1h1NkUzZGZrZkV0QjVkOXlhek1aYmo?oc=5
 
-- Only 3 People Granted Citizenship Under CAA in Assam: Himanta Sarma - NDTV
-  Only 3 People Granted Citizenship Under CAA in
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNWU5VTjBubks2Y3drLThNMXZ6RmRiX1l1dDJsU1JTXzlOYzBCWVNqa2kteGVjdVR1V2dfYkhCYkhYa3ZLSUVncU94X2xsckV2VGo5RXZLTU9Gdjg4cUZkWkxPMU5TU3NsbkNzMmFjcnB0ZHJDcGkwQVlhZWFUd2tKdGk5Rk81THp2ZEtWaW41X1Fnd0VPR25iRHJoTjZnOTgyZkxFalFtcHY1LU9JZ0ktLUg3bmstSnNFdjRTetIBxAFBVV95cUxPazJsR2psaUxWdWk0cTIwQkdaaGk0LUp1X3NBa3AxeGdHMXZSaUZjMXpIZksxSVIyZjA3VWJNVm95WDYxRkg5cjk1NFA0Yk45VV8yX0ctbXZGeER0aXBtODlQdVZVVUVjaWNERXVlMEFheGxKYmN1UU5uYjBpTUxvWkI0Z3FjYVROcDJQV3Q1RkF2VmJwVnZEQnNiVWd2akFLMUI4WDZ5LW4wUFVRamZVNTZrM1VoMnlGNEZJa01Dcl9RWnJ0?oc=5
+- News Today Live Updates, 3 September | Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives - The Indian Express
+  Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWTNqYk1RSFV0cjVXQWFVWkRRZ2VuajRZendiVGRsM29HQVZqcWRXM0RuMUtYc002elJXWDI5N0kwQzFMTWVqMXJ1TFRmYzJpRWJfUFc3d2kta3Vrc2hHXzRGNnZFZzFiekFrLUtUaFBPRFhrbDhOemRmWlFlOHRzcFAwYmRvem1kcGpIN1E2RHVUWVpMbTdvSmZQa0RHYXJBWENIWWdPTkh4NmRFeHhKMVpaelNVSG96cUlCSjVLQmxpdEdyUHZ4NXFtWGxzV0ZkMTJxU0p4V2tQcjlSOE1hVmtHZlI2Z3lF0gHvAUFVX3lxTE5QcXIyYjZVRTdvYlNobTRzTm1ickgxSE1IMFlnbUhNS1JaZDdkVEJ1algydnRrVUh0Ujc0OHlpRU1rbWNTMVA0T3daVW5VaEpQOVd0QWU2ckdyNjd5UDNoeUlCdmJ3alpBOFlGdFhRLVRSc0E3aHNGV3g2NzBfcFdXME5qbzc3clJuTTZWXzFxOFZhSlU0OUNZNVJVZkp3T2Z1YTZxRzZmVnRCS2xTem5PZmRpcXBQODVLY2xoamVDWl9GTktMc19rR2dqNmJKdHF6UFFtR29BOFJuYlF3Z256eDdROXF1OWxRVUhtdmlV?oc=5
 
-- "DMK Councillor Asked Me To Kneel," Says Dalit Man, Police Case Filed - NDTV
-  "DMK Councillor Asked Me To K
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTXZmcHJZTjItbGFQbEV1cXRUbVAzeEp3Y1dWUlF5X21EU3FGeDdlcHpRSVJsQl8tV3NfX2lwWFgyaHFrRkFMbUZDQjhoclI3b2pBcGNsZHRmOTBpaEo5SFZQdEQ4RjBiQlBfemNrSFhRN2ttZFNDRHdGWlh1eEhvZWR2VHFjb0x5aVlybmVhaE5DTFNNYndaTXZ3dzhvYmJCdEJEdUxWTUbSAbABQVVfeXFMTnVzM0w0VnVLcllNVnlFLWRtR295WGxKbEdXQnI4TjUtcTFQd2xmUGt6N1dWaXNWeFJHZ0dKMHdDMlN5M05PR3Jpa041Ukg0d2tZRUktUC1iNldZdk1IUks5c3BMTEZmaVBTMVUyTVlqcE1IMnNYQUN1X2FpbDFNc18wRGp5SG9UdVp6OWN1SkRocU9zQWJGRXZIQVFPdGQxZzVtT0ZWUGFxTkdIREJINWk?oc=5
-
-- MK Stalin Takes A Dig At PM Modi Over Russian Oil, BJP Says "Immature" - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOR3FkQ1dMb2RDRVY3Rjh0TzhfbkVwYU9Pc0JBZUhiNHhjQW45bW9jVTVFZU9VeXlLbmFBVUJRc3VHMlM0dHZzdEFkUFRhbFRULWZlVFhORjZfY3RsdmMzekhlZVpZcDF2OUItckpMRHBja3Rpc3pwSm1ZcVVkRld2NWFuRjUydUgxeEVyRTlVUjNCRk1zY01GTjZjWlRfTUt3RFc5cEg2MVZtRkNQWTg3MmN0eHdyaUHSAb8BQVVfeXFMUHBZSENvYWpPTS1WUGJyaVFlSElCcXpjMV9UOGI0R1A5WkFuQnBKYW5uWkdhN1E0Z2pHUGdOUVgzcmhNa25oN3lBY0NTUFBaMmZxS0xsRDBVZElxXzFhQVBOSDFLRzMzbzZQbTUzUU5WckFXMWVrcHZNUWpjZGhZVzhKM0hfTmRMMXpveEttTm9TRDlyeTlHTHZsZFpTLXBuTWhlMGoxa1I0WDRRQkUwN3BsclU1dldZVTA5cDJaamc?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Is Trump trying to punish India's prized IT sector next? - India Today
+  Is Trump trying to punish India's prized IT
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNTzFzSERsTTh5blpyR3pKZlpaWjVMRHhnWWN1MldLU0JTbE9yaFAzaW9HQzZSVkgwRGEzQUFacmNDcm83Z2tERm52YnpQcmwzX1ZHQlpFZGtGLThUQ1BVc19QZHF5MkZwa1BSRmx5aURPQnBzSmVXTlRzZXo0TFJ1NHVtYXNFS3BfNXRiaDdWaVFtWFlvY0Y2eHFmSUZKZ3pOR05IQXRPQUpzYjdhRGhzZW00NjI2WHo5a1pONkRYaDVzY01rY0FTX2lQeEQ4MG0yMXZlOXBQTnRxd3N2a2d3ZFZLTGo3MlItU2xNdE5CcTdGNm9WbzZCTFYtWUsxaG93MnlERExPejNlV3ox0gGSAkFVX3lxTFBqWjFzZjNSVkRwU1pQYUVIOWxqdnNfVWJzV0RaUmlqOW1GZHZSLU1KOTRBM3lETG5zV0x0SkFLLTRhTnJuRnNuODVteXhrVHBZRDIyNTZINUFjUDNzN2pnZHd5SnlNbGRGQXI2SFlmNHR4TXgyMnlVeHNyLWVvWFNiQkJmbzJCdlQtcFNUeEl6TlJXWktWY2RSZTgweHVtQ1otT1BHRGZpTldfcExieXhnUC1ZSXVlS05ZbHdGT0VBSGRUOW83Q2pfTWg0VEdYdi1nOXRhcmRsbGp6YXhqLTY4V3NUOVVfSzRmMVpYNkNKRTlmX2NGRkVFbDREYmdKVjJGUGh1Yl8zR0pLNEd1Q3BVNFE?oc=5
 
 
-_Last updated: 2025-09-03 12:33:44 UTC_
+_Last updated: 2025-09-03 18:24:40 UTC_
