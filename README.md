@@ -1,224 +1,204 @@
 # 📰 Daily News Summaries
 
-- Bank Holidays in India 2025: Are banks open or closed today on Wednesday, September 3? Check city-wise list
+- Chhattisgarh: ED searches in DMF case
   
-  🔗 https://indianexpress.com/article/india/banks-open-or-closed-today-wednesday-september-3-2025-city-wise-list-10226992/
+  🔗 https://indianexpress.com/article/india/chhattisgarh-ed-searches-in-dmf-case-10227275/
 
-- Amid tariff chill, war games in Alaska boost India-US defence ties
+- Announce special relief package, step up rescue ops in flood-hit areas: Rahul Gandhi to PM Modi
   
-  🔗 https://indianexpress.com/article/india/amid-tariff-chill-war-games-in-alaska-boost-india-us-defence-ties-10226837/
+  🔗 https://indianexpress.com/article/india/punjab-floods-special-relief-packages-rescue-ops-rahul-gandhi-pm-modi-10227200/
 
-- Home Ministry asks states, UTs to set up detention camps for illegal foreigners
+- Gold Today Rate, September 3: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/home-ministry-asks-states-uts-to-set-up-detention-camps-for-illegal-foreigners-10226933/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-september-3-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10227223/
 
-- Heavy rainfall warning, exams cancelled in J&K
+- India Floods LIVE Updates: IMD issues ‘red alert’ in J&K, Himachal, Punjab and Uttarakhand; educational institutions in Punjab to be shut till September 7
   
-  🔗 https://indianexpress.com/article/india/heavy-rainfall-warning-exams-cancelled-in-jk-10226931/
+  🔗 https://indianexpress.com/article/india/floods-landslide-live-updates-jk-punjab-himchal-10227085/
 
-- National Conference denies Omar blanked out at Amit Shah’s J&K visit
+- Singapore PM arrives on 3-day India visit, focus on boosting economic ties
   
-  🔗 https://indianexpress.com/article/india/national-conference-denies-omar-blanked-out-at-amit-shahs-jk-visit-10226928/
+  🔗 https://indianexpress.com/article/india/singapore-pm-arrives-on-3-day-india-visit-focus-on-boosting-economic-ties-10227110/
+
+- Instagram testing Picture-in-Picture mode, will soon let you watch Reels in a floating window
+  
+  🔗 https://indianexpress.com/article/technology/social/instagram-picture-in-picture-floating-window-reels-10227210/
+
+- OpenAI to acquire product testing startup Statsig, appoints CTO of applications
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-to-acquire-product-testing-startup-statsig-appoints-cto-of-applications-10227180/
+
+- Google keeps Chrome and Apple deal but must share data in big antitrust ruling
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-keeps-chrome-and-apple-deal-but-must-share-data-in-big-antitrust-ruling-10227165/
+
+- How this AI company collapsed amid Silicon Valley’s biggest boom
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-builder-ai-collapse-silicon-valley-biggest-boom-10227031/
 
 - ‘Debt trap for vulnerable’: Q&A with psychiatrist who recommended govt ban on real-money games
   
   🔗 https://indianexpress.com/article/technology/gaming/debt-trap-psychiatrist-who-recommended-real-money-gaming-ban-10226423/
 
-- Battlefield 6 developer reveals why ray-tracing isn’t coming anytime soon
-  
-  🔗 https://indianexpress.com/article/technology/gaming/battlefield-6-developer-explains-no-ray-tracing-support-10225865/
+- Danske Bank Slashes Danish Growth Outlook Over Novo Nordisk Woes
+  Denmark's largest lender has slashed its forecast for the nation’s economy amid weaker prospects for Novo Nord
+  🔗 https://www.livemint.com/companies/company-results/danske-bank-slashes-danish-growth-outlook-over-novo-nordisk-woes-11756879034021.html
 
-- Apple adds MacBook with Touch Bar to its obsolete and vintage product lineup
-  
-  🔗 https://indianexpress.com/article/technology/apple-adds-macbook-with-touch-bar-to-its-obsolete-and-vintage-product-lineup-10226072/
+- Now, Bridgestone sues bankrupt Go First over 1,400 missing tyres
+  The Japanese tyre maker has petitioned the NCLT, arguing the tyres were leased and not sold to the airline.
+  🔗 https://www.livemint.com/companies/news/bridgestone-go-first-go-first-bankruptcy-go-first-lawsuit-nclt-go-first-go-first-liquidation-airline-insolvency-11756868915997.html
 
-- New AI-powered stethoscope developed by UK doctors can detect heart problems ‘in seconds’
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-stethoscope-can-detect-heart-problems-in-seconds-10225871/
+- Nestlé Can’t Risk Playing It Safe
+  After firing its CEO, the board is hoping an insider will bring stability.
+  🔗 https://www.livemint.com/companies/news/nestl-can-t-risk-playing-it-safe-11756877335702.html
 
-- Swarovski and Motorola collaborate to launch Razr 60 and Moto Buds LOOP fitted with crystals
-  
-  🔗 https://indianexpress.com/article/technology/swarovski-and-motorola-collaborate-to-launch-razr-60-and-moto-buds-loop-10225817/
+- Japan FSA Urges Rural Banks to Help Companies Get Equity Funding
+  Japan’s financial regulator is urging regional banks to help local businesses secure equity funding. The move is part of the
+  🔗 https://www.livemint.com/companies/news/japan-fsa-urges-rural-banks-to-help-companies-get-equity-funding-11756876727668.html
 
-- IBC reform moots skirting lender disputes for firms' turnaround plan
-  The government has proposed a key change to India's bankruptcy law. It will let the firms' revival plans move ahead even if the lenders are locked
-  🔗 https://www.livemint.com/companies/ibc-reforms-inter-creditor-disagreements-corporate-turnaround-nclt-bankruptcy-insolvency-11756810214569.html
+- Who is Daksh Gupta, the 23-year-old AI startup CEO, and what is his viral ‘9-9-6’ rule?
+  Daksh Gupta, CEO of Greptile, promotes a demanding 14-hour workday
+  🔗 https://www.livemint.com/companies/people/who-is-daksh-gupta-the-23-year-old-ai-startup-ceo-and-what-is-his-viral-9-9-6-rule-11756861630748.html
 
-- How Big Tech is faring against US antitrust lawsuits
-  FACTBOX-How
-  🔗 https://www.livemint.com/companies/news/how-big-tech-is-faring-against-us-antitrust-lawsuits-11756847128016.html
+- Multibagger small-cap stock jumps 9% on this order win update; details here
+  Netweb Technologies' share price rose by 9% on September 3 after securing a  ₹1,734 crore order to enhance
+  🔗 https://www.livemint.com/market/stock-market-news/netweb-technologies-share-price-multibagger-small-cap-stock-jumps-9-on-this-order-win-update-details-here-11756879293153.html
 
-- Apple’s Lead AI Researcher for Robotics Heads to Meta as Part of Latest Exits
-  Apple’s lead artificial intelligence researcher for robotics has departed the company. It is part of an exodus of AI talent from
-  🔗 https://www.livemint.com/companies/news/apples-lead-ai-researcher-for-robotics-heads-to-meta-as-part-of-latest-exits-11756841072168.html
+- Stocks to buy: Sagar Doshi suggests Amara Raja Energy, Bajaj Auto, Dabur shares to buy
+  Nifty 50 rose 0.15% and BSE Sensex increased 0.17%. Analysts believe GST decisions will significantly impact market trends.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-sagar-doshi-suggests-amara-raja-energy-bajaj-auto-dabur-shares-to-buy-11756872271990.html
 
-- Ontario Premier Dumps Diageo Whiskey on Ground to Protest Plant Closure
-  Ontario Premier Doug Ford slammed beverage firm Diageo Plc’s decision to end bottling operations
-  🔗 https://www.livemint.com/companies/news/ontario-premier-dumps-diageo-whiskey-on-ground-to-protest-plant-closure-11756841013438.html
+- Apollo Micro Systems share price jumps 70% in one month. Should you buy this defence stock?
+  Apollo Microsystems shares have skyrocketed nearly 23 per cent in five
+  🔗 https://www.livemint.com/market/stock-market-news/apollo-micro-systems-share-price-jumps-70-in-one-month-should-you-buy-this-defence-stock-11756874241314.html
 
-- Goldman Sachs Predicts Potential Record-Breaking M&A in 2026
-  Goldman Sachs Inc. expects a major ramp up in dealmaking toward the end of the year. 2026
-  🔗 https://www.livemint.com/companies/news/goldman-sachs-predicts-potential-record-breaking-m-a-in-2026-11756836654782.html
+- Penny stock under  ₹10: FMCG stock edges higher despite stock market sell-off
+  Sarveshwar Foods share price has gained 5% in one month and 8% in three months. The penny stock has rallied 30% in six months
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-fmcg-stock-sarveshwar-foods-share-price-edges-higher-despite-stock-market-selloff-11756875377487.html
 
-- Anlon Healthcare IPO listing date today. GMP, experts signal muted debut of shares on Dalal Street
-  Anlon Healthcare IPO listing date is today. Analysts signal a muted debut of shares in stock market today
-  🔗 https://www.livemint.com/market/ipo/anlon-healthcare-ipo-listing-date-today-gmp-experts-signal-muted-debut-of-shares-on-dalal-street-11756860782008.html
+- Current Infraprojects IPO listing: Shares list at a solid premium of 90%, hits upper price band
+  Current Infraprojects debuted on NSE SME on September 3 with a 90% premium. The stock opened at  ₹152, compared to its issue
+  🔗 https://www.livemint.com/market/ipo/current-infraprojects-ipo-listing-shares-list-at-a-solid-premium-of-90-hits-upper-price-band-11756875636767.html
 
-- Global Markets Today: Nikkei 225, Kospi fall on rising global bond yields, Trump tariffs
-  Japan’s Nikkei 225 fell 0.43 per cent, and the broader Topix index dropped 0.35 per cent. In South
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-fall-on-rising-global-bond-yields-trump-tariffs-11756860288926.html
+- Who is Jian Zhang? Apple’s robotics head who just left for Meta
+  Jian Zhang, Apple's robotics lead, has joined Meta. This is part of a series of recent departures from Apple’s Foundation Models team.
+  🔗 https://www.livemint.com/technology/tech-news/who-is-jian-zhang-apple-s-robotics-head-who-just-left-for-meta-11756877409163.html
 
-- Stock market today: Trade setup for Nifty 50, Trump tariffs to global markets; eight stocks to buy or sell on Wednesday
-  In the short term, the trend is likely to remain weak for Nifty, with support being placed at 24,500. On the higher end
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-trump-tariffs-to-global-markets-eight-stocks-to-buy-or-sell-on-wednesday-11756808672411.html
+- Singapore orders Meta to implement anti-scam measures or face possible fine
+  Singapore orders Meta to implement anti
+  🔗 https://www.livemint.com/technology/tech-news/singapore-orders-meta-to-implement-anti-scam-measures-or-face-possible-fine-11756874610337.html
 
-- Vikran Engineering IPO listing date today. GMP, experts hint debut of shares at decent premium in stock market today
-  The IPO was oversubscribed 23.59 times, with a potential premium of 10-15% over the issue price. Vikran Engineering IPO is set to list
-  🔗 https://www.livemint.com/market/ipo/vikran-engineering-ipo-allotment-status-vikran-engineering-ipo-gmp-vikran-engineering-ipo-listing-date-stock-market-11756833292291.html
+- OpenAI to add parental controls to ChatGPT after teen suicide: From notifications to account linking — what’s included?
+  OpenAI announced parental controls for ChatGPT following a lawsuit filed by a couple whose son allegedly received harmful advice from the chatbot before his suicide
+  🔗 https://www.livemint.com/technology/openai-to-add-parental-controls-to-chatgpt-after-teen-suicide-from-notifications-to-account-linking-what-s-included-11756864540896.html
 
-- Stock recommendations for 3 September—from MarketSmith India
-  The best stock recommendations from MarketSmith
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-3-september-marketsmith-india-sensex-nifty-11756814162273.html
-
-- Google to share search data to rivals, but not required to sell Chrome; big tech concerned over user privacy
-  A US judge ruled on Tuesday that big tech Google must offer search result services to competitors
+- Google must share data with rivals, dodges Chrome breakup, keeps Apple deal in landmark antitrust case
+  A US judge ruled that Google must offer search result services to competitors for up to five years. Google
   🔗 https://www.livemint.com/technology/tech-news/google-to-share-search-data-to-rivals-but-not-required-to-sell-chrome-big-tech-concerned-over-user-privacy-impact-11756859228516.html
 
 - Indian edtech has not recovered from Byju's collapse. AI offers hope
   Early- and growth-stage startups like Seekho, SpeakX and Arivihan are using LLMs to AI chatbots to offer engaging
   🔗 https://www.livemint.com/technology/investors-edtech-blended-ai-learning-entertainment-seekho-speakx-arivihan-llms-education-sector-in-india-11756805511173.html
 
-- Bullish on India for its chip supply chain potential, says Dutch major ASML
-  Dutch firm ASML is looking to strengthen its India presence by working with local chip manufacturers. The firm recognizes India's potential in the semiconductor sector.
-  🔗 https://www.livemint.com/technology/asml-chip-firms-semiconductor-asia-supply-chain-semicon-2025-meity-11756811442256.html
+- Parsvnath Developers posts Rs 347cr loss in FY25
+  Parsvnath Developers Ltd, based in Delhi, reported a consolidated net loss of Rs 347.27 crore for the fiscal year 2024-25. The company has developed numerous residential and commercial projects primarily in North India.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/parsvnath-developers-posts-rs-347cr-loss-in-fy25/articleshow/123670843.cms
 
-- New Mexico to invest $315 million in quantum computing drive
-  New Mexico to invest $315 million
-  🔗 https://www.livemint.com/technology/tech-news/new-mexico-to-invest-315-million-in-quantum-computing-drive-11756827100182.html
+- India bonds rise on hopes of support from authorities
+  Indian government bonds experienced a rise on Wednesday. The benchmark 10-year bond yield saw a decrease. Traders are hopeful the RBI will address concerns about mark-to-market losses.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-on-hopes-of-support-from-authorities/articleshow/123670818.cms
 
-- OpenAI and Meta say theyre fixing AI chatbots to better respond to teens in distress
-  OpenAI and Meta say they're fixing AI chat
-  🔗 https://www.livemint.com/technology/tech-news/openai-and-meta-say-theyre-fixing-ai-chatbots-to-better-respond-to-teens-in-distress-11756826432258.html
+- Vietnam raises $3.8 mln in govt bond auction, lowest so far this year
+  Vietnam's State Treasury managed to raise a mere 100 billion dong ($3.8 million) This figure marks the lowest amount garnered this year, a sharp decline from the $16.5 million secured in the previous week
+  🔗 https://economictimes.indiatimes.com/markets/bonds/vietnam-raises-3-8-mln-in-govt-bond-auction-lowest-so-far-this-year/articleshow/123670753.cms
 
-- European markets tumble; British pound drops 1.2% against U.S. dollar amid fiscal concerns - CNBC
-  European markets tumble; British pound drops 1.2%
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnhzOFd3TTE3YTZWNUIwTDEyTUtCVFFRQ2R6aGRmdU16cm92bHNtUjVYeGRFLTFHSElRN0xsbHhxVmEtSVhPTmFSTy1qNVVJNzNiTzhpWVpMSDNPVTUwT2lLdmhVSGRIU29rdXZKb01zNk1nX3ktQzZXdXNJMlZjeUZPQkZDQXd1OElkNjJqZk5ETXVPRi1qTlN30gGfAUFVX3lxTE82OEpEdWtyanpmbktoenpOQV9hVWFGNEhlVl8wd2cwSUhSVzlvWmVYRF9vUFF0aWs5LWFyaWxJcjNPTWVZOUtCYUhETHNhQnhuT3pnX0NnV1hWal9lNnZqbEducmFfdENOa2pKc3NYT2NYNEtpOFlBem8xTEJJTGJkd3BvaXhZSHUzRkRhZzNTT29hemsxSUxYQ05SM0VWMA?oc=5
+- Markets pin hopes on GST meet as cyclical revival gains traction: Varun Goel
+  As the GST Council convenes, investors anticipate announcements that could influence market sentiment. Expert Varun Goel predicts FY26 as a potential turning point for India's GDP growth, fueled by monetary easing and tax cuts.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/markets-pin-hopes-on-gst-meet-as-cyclical-revival-gains-traction-varun-goel/articleshow/123670737.cms
 
-- Markets News, Sep. 2, 2025: Stocks Close Lower as Tech Sector Slump Continues; Gold Surges to Record High - Investopedia
-  Markets News, Sep. 2, 2025: Stocks Close Lower as Tech
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBQOS1nbXFaUGRKeE1IWHNkblRuczAyNHZwZXpEY2NUbkY0M2RZTEhyaF92TVJMd2VLY3JTUkxfZXEwRTU4SDBHVTJhVGdBNUN3MDdFUGVGUjVlZWY5cDJJbnMyNkZMZEh1OWJHcHdubw?oc=5
+- Gold’s record run: can central banks keep the rally alive?
+  Gold has surged to record highs, driven by central bank buying, investment inflows, and geopolitical uncertainty. Analysts say central banks and global investors will determine if the rally sustains into
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/golds-record-run-can-central-banks-keep-the-rally-alive/slideshow/123670659.cms
 
-- Asian Stocks Poised to Track Wall Street Declines: Markets Wrap - Bloomberg.com
-  Asian Stocks Poised to Track Wall
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHl1LXY1ZUxxSkFVaWFVb2lvMVZCazdUc3NNNGFQWnJfM2V4dGNJSWJ3eXU0YURmX2N2VTZyT3BVSF84VF94eEFPbzNCbm5hSWNNMTRqeGVpeW42Mk5zNXpHNHROYzJxRkdLSHFJaGVfTmFnLWNJd0x3OF95VllFQmdud2ZYdElaWEhSVzZ6b0U4WG5Q?oc=5
+- "We Get Along With India Very Well, But...": Trump Amid Tariff Tension - NDTV
+  "We Get Along With India Very Well, But
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlpXUUE2Zm5BaGRtRGJPMVRsbC1jYXgtWVc5bkpqWWlHaUYtSzc5anl1eWZvY3c4Y25RY2VnSmpKdU1mY1R3cWFRSjgzSlZWbXg5UU9OSk9yZWs3X2ZTVFgxbW95SlYxNUFjci0walZrMm5Cb291b3JVVzNXOWNRYXZPdnVNcGlMM0FxWE5fbVNtTDE0aVAwWENnQUkyODZ2cnBtUtIBrAFBVV95cUxNekZ0cGRrZUhRN2dvUDFXak5kWWxlVVVVVnVEaW1HSV9feGZyWTZUU0d6bFJfeDFBWDJ2ejBsaUNtRjJxVXFZbl9zN0hiaUdGMFZWRXNDYmxnZTM5M2t6djFFN1lZR0lGRTFsd3VZQ2dOT19PZEJQdnpZbkhPbC1QWE1udDZnTzg1TlNDOVEwQ3BsdlNEM3BRUlNjV3hPSEtBMVFLbGdUSDRyZWxO?oc=5
 
-- Stock Market News From Sept. 2, 2025: Dow, S&P 500, Nasdaq Slide; Nvidia, Marvell, NIO, More Movers - Barron's
-  Stock Market News From Sept. 2, 2025: Dow, S&amp
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTFBEaUY1M2tha1V1Z2tUSjQzWlVzQjl0VTFYQnhUVU95MGpyMVNkd3NLWFBUbGNnXzRNNjJxRUVRZGdUZ2RtM0pqVFRLZXdDWEFkYmNmNFNSdF9zQlhwMm50ZXl1a3pLcmZMNUQ0LWx0V3dJeUN5OWc?oc=5
+- "Where Are You Today?" Congressman's Tariff Message For Indian Americans - NDTV
+  "Where Are You Today?" Congressman's
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNMVRPOW9tdnNJLXIzZGQ5UzhjTUoyMkdydDhIdFNDRkVOZHpGbnZ1bVcwbDU4V01RSzlySllxSzlfeWhjUTZic0c3NEZxRW1MY1N1bTljdHA4eElQZTMyaEhmX1RDYjFFekNSMkNhMmF0WXFVd0N6ZFhWa3ZrWjZBWm9NV3ZGT0ctR3RKZFpiRmlORmhmNkJPZ19xZ1hFQdIBpgFBVV95cUxNcDYwTVA5a0VLYTJqVUhBdUdfcGRuTjBzcHY4Vno4aVRybkhiRWs4TVZKdm90UU15SkFmX3ZUdHFGcWZWX3V1Z1VJQXBXZHE1aVFqVlhKd21odUpNZHkzU3dQLUlsT0V2OUJzcHZjcFEwbzB4WWFUNVJwek9hRVV1Q09SU2tXcGJSZk5CbVhjV2w5SENRYW5NRVRRdmNzSngyOERIblRB?oc=5
 
-- Global Markets Today: Nikkei 225, Kospi fall on rising global bond yields, Trump tariffs - Mint
-  Global Markets Today: Nikkei 225, Kospi
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVHpqWDFXM0hrcnpZNjB3Qk9VOWtvT2dlMFg4LXBvMU15RV9EcWJfeUJSMTJqdnVYd01KNUlrWTZ2aUtGb3RVbGFzVXUwUy1IZnNiT01rLTd0Zmw2MGg1RGxHY1N4VnhTREh6V0w5czNUaUJRdXR2TTlQWjFGY051OU5BTnp6eVVYT1p3ZXJER25DYVdBajExM2t1OWV6dm5ZMXloUUphdnczblFPcVlvSlc1amUtQ053RzVLbmJOSE9CLTJSemdCdGpnc18zNGUxd29BcnFuRk1yWndyRThGckc2QjQtUzBIeFh30gHwAUFVX3lxTFBmTk8yTWNyVVU5LXlOT1hQT1dtTlU5YU42YmNsQm04QlVSSmF3RWdYdmIxSnNGMHhYTUdVWEhlVTFqLVJBWDBtc2hUQ25IMWdHQklEWExtMUZoSU42N0J0TGRscUpPV2VyY2JTOHV4eTZKelFlVllsRG5XOXdCQ3RJUmtKSUZZdmV6X0tTZWRrQUo0Zm1lYnB6Tm9pYk1XSlhhVGx0blN6ME9xTEd5bnJQNXRfRTduc19Bd2VCZGpjSlZHVXVPcUFUNWNMNURicFFMSnpySHZGV2ExUk5wWDI3YUJ2ZG5yQUZwb1JIa09sRQ?oc=5
+- News Today Live Updates, 3 September | Rain and ruin: a timeline of Punjab’s most devastating floods since 1955 - The Indian Express
+  News Today Live Updates, 3 September | Rain and ruin: a timeline of Punjab’s
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWTNqYk1RSFV0cjVXQWFVWkRRZ2VuajRZendiVGRsM29HQVZqcWRXM0RuMUtYc002elJXWDI5N0kwQzFMTWVqMXJ1TFRmYzJpRWJfUFc3d2kta3Vrc2hHXzRGNnZFZzFiekFrLUtUaFBPRFhrbDhOemRmWlFlOHRzcFAwYmRvem1kcGpIN1E2RHVUWVpMbTdvSmZQa0RHYXJBWENIWWdPTkh4NmRFeHhKMVpaelNVSG96cUlCSjVLQmxpdEdyUHZ4NXFtWGxzV0ZkMTJxU0p4V2tQcjlSOE1hVmtHZlI2Z3lF0gHvAUFVX3lxTE5QcXIyYjZVRTdvYlNobTRzTm1ickgxSE1IMFlnbUhNS1JaZDdkVEJ1algydnRrVUh0Ujc0OHlpRU1rbWNTMVA0T3daVW5VaEpQOVd0QWU2ckdyNjd5UDNoeUlCdmJ3alpBOFlGdFhRLVRSc0E3aHNGV3g2NzBfcFdXME5qbzc3clJuTTZWXzFxOFZhSlU0OUNZNVJVZkp3T2Z1YTZxRzZmVnRCS2xTem5PZmRpcXBQODVLY2xoamVDWl9GTktMc19rR2dqNmJKdHF6UFFtR29BOFJuYlF3Z256eDdROXF1OWxRVUhtdmlV?oc=5
 
-- Jana, Ujjivan may sidestep promoter ring-fencing in universal bank shift
-  Experts suggest Jana SFB and Ujjivan SFB may bypass the promoter ring-fencing requirement for universal bank licenses. This transition offers benefits like reduced capital adequacy and priority sector lending targets, enhancing their branding and deposit mobilization
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jana-ujjivan-may-sidestep-promoter-ring-fencing-in-universal-bank-shift/articleshow/123667070.cms
+- India Floods LIVE Updates: Heavy rain batters north India; IMD issues ‘red alert’ in J&K, Himachal, Uttarakhand and Punjab - The Indian Express
+  India Floods LIVE Updates: Heavy rain batters north India. IMD issues ‘red alert
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNUG1CNlF4blFrWGJFRU1JWkRiTDRkMl9GOEtjc1RlbHVseURqVmk2clFQWFY5Mi05NjVkaTgwT1FLUThTZ3FMdkVsVUtpS1prLXRJNWowU0NjVDNwYVBod3VKZmFVeXJ2TTBmZERXaGhFU0ExcEplVmNHYWtuZFlLQ3R2S1NiZmJKUWR6Nlk3aXV6ZlJJNW1NaGlrQmt1Z9IBpAFBVV95cUxPMTdpaHBmU2FHc2Y1RWR5eTNNRV9vaERCYWQ0UElfelBRSF8tczU3aC1EYWpsRVN6OHhUVVlLbXQzdmlEVFVKUXBjeFdtQU5DQ1ZhZFoxbTNtejJxMU9STkRUZ2thaVMwTWozaGlrTEhDaHpEMC1MZVY1WktBeWVxQjBYcjBLUERRbVc5YzdVcHNfcG9JdnFfOXZ0ekhxdlVyMFpWUQ?oc=5
 
-- How will Sebi's new intraday limits impact equity index derivatives?
-  Sebi is tightening intraday position limits in equity index derivatives starting October 1. Aimed to curb volatility and potential market manipulation, especially on expiry days.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/how-will-sebis-new-intraday-limits-impact-equity-index-derivatives/articleshow/123667026.cms
+- Breaking News Live Updates: India delivers 21 tonnes of relief materials to quake-hit Afghanistan - The Times of India
+  India delivers 21 tonnes of relief materials to quake-hit Afghanistan.
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNakRFUy1lVk9SQV9ySWVvT1JUQm4wZkI3V3U3Q3ZtcDc1ZnU4YVF2MTZRX1ZxVGZHV0pBeEJuQXpuRzVnWlBORWwzRWY3WlVzekJmcDNmWEVNZEkybkxybHlrQTlRVDZscFhiZWtoYXd5RVhFaDVqdFpzcnluWVdJQkkxbnZwODZPbjNDRGpuWDhVTXpBUTBLaEQ0UUVzZXE2ZTV2U1M1b2lIcG84QVltSGZjc2FQR2PSAbwBQVVfeXFMT0QxWnRJVUczYVZtRUZZNHpxTy1DLWhxOTMyZVh4WUdxRGhsY2c2czZXajZBb05JVnBNVl9qN2VZUElOeGZQX05RXzRJN0ttS2MwQ0hZanhKMVFBZ1BqcWZEZFF0Z2hUMjFub1VuMjdXNlZwMmVsVGdXQ2h5NHBPZVdNUEVBRmI1TWk4b0ZFWE00bUpPSDlnakJ6MC1OZXFGQUFEc3ZOT1h1NkUzZGZrZkV0QjVkOXlhek1aYmo?oc=5
 
-- Raamdeo Agrawal advocates for bold reforms in India amid US tariff challenges
-  Raamdeo Agrawal advocates for bold reforms by the government. He cautions against the risks of investing in unlisted companies. He suggests a SIP approach for lump sum investments.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/raamdeo-agrawal-advocates-for-bold-reforms-in-india-amid-us-tariff-challenges/articleshow/123666992.cms
+- "We Get Along With India Very Well, But...": Trump Amid Tariff Tension - NDTV
+  "We Get Along With India Very Well, But
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlpXUUE2Zm5BaGRtRGJPMVRsbC1jYXgtWVc5bkpqWWlHaUYtSzc5anl1eWZvY3c4Y25RY2VnSmpKdU1mY1R3cWFRSjgzSlZWbXg5UU9OSk9yZWs3X2ZTVFgxbW95SlYxNUFjci0walZrMm5Cb291b3JVVzNXOWNRYXZPdnVNcGlMM0FxWE5fbVNtTDE0aVAwWENnQUkyODZ2cnBtUtIBrAFBVV95cUxNekZ0cGRrZUhRN2dvUDFXak5kWWxlVVVVVnVEaW1HSV9feGZyWTZUU0d6bFJfeDFBWDJ2ejBsaUNtRjJxVXFZbl9zN0hiaUdGMFZWRXNDYmxnZTM5M2t6djFFN1lZR0lGRTFsd3VZQ2dOT19PZEJQdnpZbkhPbC1QWE1udDZnTzg1TlNDOVEwQ3BsdlNEM3BRUlNjV3hPSEtBMVFLbGdUSDRyZWxO?oc=5
 
-- 13 companies receive Sebi nod for IPOs including Urban Company, Boat
-  SEBI has given the green light to 13 companies, including Urban Company and Boat's parent company, Imagine Marketing, to proceed with their IPOs. Urban Company's issue is worth Rs 1,900 crore, while Juniper Green Energy
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/13-companies-receive-sebi-nod-for-ipos-including-urban-company-boat/articleshow/123666983.cms
+- "Where Are You Today?" Congressman's Tariff Message For Indian Americans - NDTV
+  "Where Are You Today?" Congressman's
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNMVRPOW9tdnNJLXIzZGQ5UzhjTUoyMkdydDhIdFNDRkVOZHpGbnZ1bVcwbDU4V01RSzlySllxSzlfeWhjUTZic0c3NEZxRW1MY1N1bTljdHA4eElQZTMyaEhmX1RDYjFFekNSMkNhMmF0WXFVd0N6ZFhWa3ZrWjZBWm9NV3ZGT0ctR3RKZFpiRmlORmhmNkJPZ19xZ1hFQdIBpgFBVV95cUxNcDYwTVA5a0VLYTJqVUhBdUdfcGRuTjBzcHY4Vno4aVRybkhiRWs4TVZKdm90UU15SkFmX3ZUdHFGcWZWX3V1Z1VJQXBXZHE1aVFqVlhKd21odUpNZHkzU3dQLUlsT0V2OUJzcHZjcFEwbzB4WWFUNVJwek9hRVV1Q09SU2tXcGJSZk5CbVhjV2w5SENRYW5NRVRRdmNzSngyOERIblRB?oc=5
 
-- Jane Street's $10.1-biilion trading haul sets Wall Street record
-  Jane Street Group achieved a record-breaking $10.1 billion in net trading revenue during the second quarter. This surge, more than double the previous year's figure, propelled their first-half trading revenue to an unprecedented $17.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jane-streets-10-1-biilion-trading-haul-sets-wall-street-record/articleshow/123666969.cms
+- News Today Live Updates, 3 September | Rain and ruin: a timeline of Punjab’s most devastating floods since 1955 - The Indian Express
+  News Today Live Updates, 3 September | Rain and ruin: a timeline of Punjab’s
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWTNqYk1RSFV0cjVXQWFVWkRRZ2VuajRZendiVGRsM29HQVZqcWRXM0RuMUtYc002elJXWDI5N0kwQzFMTWVqMXJ1TFRmYzJpRWJfUFc3d2kta3Vrc2hHXzRGNnZFZzFiekFrLUtUaFBPRFhrbDhOemRmWlFlOHRzcFAwYmRvem1kcGpIN1E2RHVUWVpMbTdvSmZQa0RHYXJBWENIWWdPTkh4NmRFeHhKMVpaelNVSG96cUlCSjVLQmxpdEdyUHZ4NXFtWGxzV0ZkMTJxU0p4V2tQcjlSOE1hVmtHZlI2Z3lF0gHvAUFVX3lxTE5QcXIyYjZVRTdvYlNobTRzTm1ickgxSE1IMFlnbUhNS1JaZDdkVEJ1algydnRrVUh0Ujc0OHlpRU1rbWNTMVA0T3daVW5VaEpQOVd0QWU2ckdyNjd5UDNoeUlCdmJ3alpBOFlGdFhRLVRSc0E3aHNGV3g2NzBfcFdXME5qbzc3clJuTTZWXzFxOFZhSlU0OUNZNVJVZkp3T2Z1YTZxRzZmVnRCS2xTem5PZmRpcXBQODVLY2xoamVDWl9GTktMc19rR2dqNmJKdHF6UFFtR29BOFJuYlF3Z256eDdROXF1OWxRVUhtdmlV?oc=5
 
-- "Trump Feels Cheated That...": US Expert On India-US Tariff Row - NDTV
-  "Trump Feels Cheated That..."
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNak5CXzVLaUhMUm9SdVZadm41bFhiT21kOVREb21UR08tRDEySVVHeXZJNlRzOXAtUFBBaEVrRllHR1FhZXhDUHVFT2lrZGtiTWE3M0dBeUJLQzczVGozMi1EMklxRDhCRW5GV2NraXpjQ1pKQURKOE9kVDFxeTBpYjhzenNoSmdkZ2IxX0ViRkY5MXA1TjNHVXVfVkpsRWJ3R3RJTXZNUEVZeDd4Zi1qeTM4VnAwQlAzNVHSAcIBQVVfeXFMUDJUbDEyRi1oTXFYZWVsbnNZZ284blA1R2cyMDdockJSTkJhQXlGaXBFR0FFUWo4M2pBdURlSFlMUjVIOXpWcDR5MTdGMkFKc0stT3p4RjlVcmtrZXM1QlJzbUEyMzZtSEJPcF9VTHBReGwtS3hFMXdGMFQ1SGxRV1A2TXp2ZlgxNWoyQy1xS2l2MENoSTFSOHJhLTRzWU5VMW83X1NBWWJ5RU8xaG5zbWkwNFh0WjJRQnZfV29GS0JXbHc?oc=5
+- India Floods LIVE Updates: Heavy rain batters north India; IMD issues ‘red alert’ in J&K, Himachal, Uttarakhand and Punjab - The Indian Express
+  India Floods LIVE Updates: Heavy rain batters north India. IMD issues ‘red alert
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNUG1CNlF4blFrWGJFRU1JWkRiTDRkMl9GOEtjc1RlbHVseURqVmk2clFQWFY5Mi05NjVkaTgwT1FLUThTZ3FMdkVsVUtpS1prLXRJNWowU0NjVDNwYVBod3VKZmFVeXJ2TTBmZERXaGhFU0ExcEplVmNHYWtuZFlLQ3R2S1NiZmJKUWR6Nlk3aXV6ZlJJNW1NaGlrQmt1Z9IBpAFBVV95cUxPMTdpaHBmU2FHc2Y1RWR5eTNNRV9vaERCYWQ0UElfelBRSF8tczU3aC1EYWpsRVN6OHhUVVlLbXQzdmlEVFVKUXBjeFdtQU5DQ1ZhZFoxbTNtejJxMU9STkRUZ2thaVMwTWozaGlrTEhDaHpEMC1MZVY1WktBeWVxQjBYcjBLUERRbVc5YzdVcHNfcG9JdnFfOXZ0ekhxdlVyMFpWUQ?oc=5
 
-- Trump claims India has offered to reduce tariffs to zero, ‘but it’s getting late’ - The Hindu
-  Trump claims India has offered to reduce tariffs to zero, ‘
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlF6MThRTVA3MlFsRGJ0R05IWHhLQlpRUjlkZFd1R1dCZVpTeC1Pay1GSXlWYVNSSU9JTmxzZHBrdTM2b1h6Yi1VYllXQzJHWUxWQVlDRkQ0eXZNeXRyMjczSnExZEJiaEVjMkw2Uk9nTlcxRTlOZTZqemRWSERYZ2ptWnV1ZG55RllOUXVVOWNXMUZ4amZvVzhxQjdhdG1ZZVVERnVPQ3Z5UXZlcFk3OHladjRVd0ZOdVBzN2FOVlk2YTRfSjVEMtIBzwFBVV95cUxPRHEzZ1RrMTlNdVlWRjhLcUV3d2FnM0s1XzAtNFlhZFhRQko5Mi1Kd0ZBQldYZXkxQ2Fkd0IwMmxpbTZaNUE0WkJONDBkbUUzcVlJRUplVEtqQ3pZSjJRRWJaall6RXBrS3hZNmtnbjNxdl9XYV9MOEt4T1FCYnBYbWxVQUpqeWVKbUlKZFVZWXB3WVhEMFlqaWlhOVdCS2VacExYTndCZEllSy1LYlhvVTdEdVBucHNFMkNES2FjU1pwM1o5M1VqNTE3SXhIdXM?oc=5
+- Breaking News Live Updates: India delivers 21 tonnes of relief materials to quake-hit Afghanistan - The Times of India
+  India delivers 21 tonnes of relief materials to quake-hit Afghanistan.
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNakRFUy1lVk9SQV9ySWVvT1JUQm4wZkI3V3U3Q3ZtcDc1ZnU4YVF2MTZRX1ZxVGZHV0pBeEJuQXpuRzVnWlBORWwzRWY3WlVzekJmcDNmWEVNZEkybkxybHlrQTlRVDZscFhiZWtoYXd5RVhFaDVqdFpzcnluWVdJQkkxbnZwODZPbjNDRGpuWDhVTXpBUTBLaEQ0UUVzZXE2ZTV2U1M1b2lIcG84QVltSGZjc2FQR2PSAbwBQVVfeXFMT0QxWnRJVUczYVZtRUZZNHpxTy1DLWhxOTMyZVh4WUdxRGhsY2c2czZXajZBb05JVnBNVl9qN2VZUElOeGZQX05RXzRJN0ttS2MwQ0hZanhKMVFBZ1BqcWZEZFF0Z2hUMjFub1VuMjdXNlZwMmVsVGdXQ2h5NHBPZVdNUEVBRmI1TWk4b0ZFWE00bUpPSDlnakJ6MC1OZXFGQUFEc3ZOT1h1NkUzZGZrZkV0QjVkOXlhek1aYmo?oc=5
 
-- India, Germany to hold talks as EU mulls curbs - The Times of India
-  India, Germany to hold talks as EU mulls
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPMXFSWHc2N1llUlVuRUo4aDJWREUyeHZsQjlpMjVDNjAySFlyaU1fejZhQWdaWEl6RVF2eUZ3S01kZDUwTVVvSVlXc1VYZnR5cm9FYnFNZ3JDWW92aXlaSkpINTRVb19iUjlKV3ZMN0k3ZXBfQjJWOXViU0haaThPS0dEMk8zNEIwSjNmM0pqanJuSm1XSEJYUVJjZWM0NjRYSlltNHQ2aW96QnVlSmxzU2R4TdIBuAFBVV95cUxPSkZ2VTRoWlJmbEt2U21iRHFCbUhweXhHZlZNbUNhYnNUR3pnWm5SdVpUUC1wMWFQYzZydTJLQkV5aVltT1lSdHVOV09NN29pZVZ1UUJZd3A0MVZfblZOdkdJS1pKS0N5Ul9mU3RXdURKWkplR2dpUU1wQXI0SzdsdXliNWRJRGkwZWRZOVJ5YTRJN1J1S09kR3owR1FtdGJOLXhRTjl1b2JxN3Z4Yk0wUGFPY3J2bi0y?oc=5
+- "We Get Along With India Very Well, But...": Trump Amid Tariff Tension - NDTV
+  "We Get Along With India Very Well, But
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlpXUUE2Zm5BaGRtRGJPMVRsbC1jYXgtWVc5bkpqWWlHaUYtSzc5anl1eWZvY3c4Y25RY2VnSmpKdU1mY1R3cWFRSjgzSlZWbXg5UU9OSk9yZWs3X2ZTVFgxbW95SlYxNUFjci0walZrMm5Cb291b3JVVzNXOWNRYXZPdnVNcGlMM0FxWE5fbVNtTDE0aVAwWENnQUkyODZ2cnBtUtIBrAFBVV95cUxNekZ0cGRrZUhRN2dvUDFXak5kWWxlVVVVVnVEaW1HSV9feGZyWTZUU0d6bFJfeDFBWDJ2ejBsaUNtRjJxVXFZbl9zN0hiaUdGMFZWRXNDYmxnZTM5M2t6djFFN1lZR0lGRTFsd3VZQ2dOT19PZEJQdnpZbkhPbC1QWE1udDZnTzg1TlNDOVEwQ3BsdlNEM3BRUlNjV3hPSEtBMVFLbGdUSDRyZWxO?oc=5
 
-- Heavy rainfall warning, exams cancelled in J&K - The Indian Express
-  Heavy rainfall warning, exams cancelled in
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkd0bW9RR3JndnRZLWhaTHdRaE9KRUI5YXk1YkZNdXNLSFlHTmIzS2dfN2RPNFZnVng0MGg2OTV4U2dCQVRlS2xvQWNfTG56RTkzQmVLSDRkM0JVaEk2QWtwS3pUcEdvSENEenJReEg2a3ZSWU1FNFdnZUoybTNZVXdVM25tYmtWVWV3bWxONG5hbHhqVnJqRklR0gGgAUFVX3lxTE42b2psWVRaLVhwMXdFRkVMNkZ6WGZIa00zNHVFVEM5VGhjUmhSMVRKVUpiNjNNUTNEcUwzMVBzd05NRDRoTUktY1dmMnEyekxoRm9ONS11YjBteDRwbVl3WVNDM2ZsOHI0V3pmWER3TWtJd0lKYTE5eWNQRURXbkI3Z3VlQ2VRS1AtNXl1TnlJQ1h4VGYzN3JYLXdGOGpnYUk?oc=5
+- "Where Are You Today?" Congressman's Tariff Message For Indian Americans - NDTV
+  "Where Are You Today?" Congressman's
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNMVRPOW9tdnNJLXIzZGQ5UzhjTUoyMkdydDhIdFNDRkVOZHpGbnZ1bVcwbDU4V01RSzlySllxSzlfeWhjUTZic0c3NEZxRW1MY1N1bTljdHA4eElQZTMyaEhmX1RDYjFFekNSMkNhMmF0WXFVd0N6ZFhWa3ZrWjZBWm9NV3ZGT0ctR3RKZFpiRmlORmhmNkJPZ19xZ1hFQdIBpgFBVV95cUxNcDYwTVA5a0VLYTJqVUhBdUdfcGRuTjBzcHY4Vno4aVRybkhiRWs4TVZKdm90UU15SkFmX3ZUdHFGcWZWX3V1Z1VJQXBXZHE1aVFqVlhKd21odUpNZHkzU3dQLUlsT0V2OUJzcHZjcFEwbzB4WWFUNVJwek9hRVV1Q09SU2tXcGJSZk5CbVhjV2w5SENRYW5NRVRRdmNzSngyOERIblRB?oc=5
 
-- Cheaper Russian oil, more S-400 for India likely amid Trump tariffs: Report | Latest News India - Hindustan Times - Hindustan Times
-  Cheaper Russian oil, more S-400 for India likely amid Trump tariffs: Report.
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlluMV9WOGlhTVMzMWZQR2RVSlh3WWRIRlQ4Y0d5ZjVERGNFVkVzVXhEbUV1RDZhZERwTHMyUXBYeXczSVJ6OFcwUW02RG5rVzJ3VF9hYmE3eHRtN29BYnVRdVVRYnRCSDFiVExyWEhDSkJ3WDRHT3FpZWR1VG9QM193NllsX0gwdWxjZ1ByTUpjWmtyS2pXeVdJdHJPN2N6LTdEYWUtb3FpOE10SHJnV2ZZQjdFeW9seWJWUXA0X1hOU25VN1dCMkhCZzRjOXF4TS1weTlGRnFScTVNSE5V0gHkAUFVX3lxTE00cTJkN3QzRFhfWF9FRVBMdGJLal9Hc2xSVlNQbVByTDE0QWJyczU5R21xcTBzclZseDY1R3FNYUhDS1A4dG9IaWZZS21Xak9FdjVPcGxCWUpxU1d5S21tck5PYmNEcTBIYjU0bk1sZUV2SElicmcycUVXcEF0dHhrY2NnMWpLLTRvWVE5N0k4Y1A4NGVJNmItY29SMVVPRWZxVnVBQjJWa3Fzem01RHc4RDJqZXhRU1p6NnlzMHhEa3JnOV9nT25iYU9idFlKTDhCMzNHUXoyemI0ZXFSTE5HSG1HWg?oc=5
+- News Today Live Updates, 3 September | Rain and ruin: a timeline of Punjab’s most devastating floods since 1955 - The Indian Express
+  News Today Live Updates, 3 September | Rain and ruin: a timeline of Punjab’s
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWTNqYk1RSFV0cjVXQWFVWkRRZ2VuajRZendiVGRsM29HQVZqcWRXM0RuMUtYc002elJXWDI5N0kwQzFMTWVqMXJ1TFRmYzJpRWJfUFc3d2kta3Vrc2hHXzRGNnZFZzFiekFrLUtUaFBPRFhrbDhOemRmWlFlOHRzcFAwYmRvem1kcGpIN1E2RHVUWVpMbTdvSmZQa0RHYXJBWENIWWdPTkh4NmRFeHhKMVpaelNVSG96cUlCSjVLQmxpdEdyUHZ4NXFtWGxzV0ZkMTJxU0p4V2tQcjlSOE1hVmtHZlI2Z3lF0gHvAUFVX3lxTE5QcXIyYjZVRTdvYlNobTRzTm1ickgxSE1IMFlnbUhNS1JaZDdkVEJ1algydnRrVUh0Ujc0OHlpRU1rbWNTMVA0T3daVW5VaEpQOVd0QWU2ckdyNjd5UDNoeUlCdmJ3alpBOFlGdFhRLVRSc0E3aHNGV3g2NzBfcFdXME5qbzc3clJuTTZWXzFxOFZhSlU0OUNZNVJVZkp3T2Z1YTZxRzZmVnRCS2xTem5PZmRpcXBQODVLY2xoamVDWl9GTktMc19rR2dqNmJKdHF6UFFtR29BOFJuYlF3Z256eDdROXF1OWxRVUhtdmlV?oc=5
 
-- "Trump Feels Cheated That...": US Expert On India-US Tariff Row - NDTV
-  "Trump Feels Cheated That..."
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNak5CXzVLaUhMUm9SdVZadm41bFhiT21kOVREb21UR08tRDEySVVHeXZJNlRzOXAtUFBBaEVrRllHR1FhZXhDUHVFT2lrZGtiTWE3M0dBeUJLQzczVGozMi1EMklxRDhCRW5GV2NraXpjQ1pKQURKOE9kVDFxeTBpYjhzenNoSmdkZ2IxX0ViRkY5MXA1TjNHVXVfVkpsRWJ3R3RJTXZNUEVZeDd4Zi1qeTM4VnAwQlAzNVHSAcIBQVVfeXFMUDJUbDEyRi1oTXFYZWVsbnNZZ284blA1R2cyMDdockJSTkJhQXlGaXBFR0FFUWo4M2pBdURlSFlMUjVIOXpWcDR5MTdGMkFKc0stT3p4RjlVcmtrZXM1QlJzbUEyMzZtSEJPcF9VTHBReGwtS3hFMXdGMFQ1SGxRV1A2TXp2ZlgxNWoyQy1xS2l2MENoSTFSOHJhLTRzWU5VMW83X1NBWWJ5RU8xaG5zbWkwNFh0WjJRQnZfV29GS0JXbHc?oc=5
+- India Floods LIVE Updates: Heavy rain batters north India; IMD issues ‘red alert’ in J&K, Himachal, Uttarakhand and Punjab - The Indian Express
+  India Floods LIVE Updates: Heavy rain batters north India. IMD issues ‘red alert
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNUG1CNlF4blFrWGJFRU1JWkRiTDRkMl9GOEtjc1RlbHVseURqVmk2clFQWFY5Mi05NjVkaTgwT1FLUThTZ3FMdkVsVUtpS1prLXRJNWowU0NjVDNwYVBod3VKZmFVeXJ2TTBmZERXaGhFU0ExcEplVmNHYWtuZFlLQ3R2S1NiZmJKUWR6Nlk3aXV6ZlJJNW1NaGlrQmt1Z9IBpAFBVV95cUxPMTdpaHBmU2FHc2Y1RWR5eTNNRV9vaERCYWQ0UElfelBRSF8tczU3aC1EYWpsRVN6OHhUVVlLbXQzdmlEVFVKUXBjeFdtQU5DQ1ZhZFoxbTNtejJxMU9STkRUZ2thaVMwTWozaGlrTEhDaHpEMC1MZVY1WktBeWVxQjBYcjBLUERRbVc5YzdVcHNfcG9JdnFfOXZ0ekhxdlVyMFpWUQ?oc=5
 
-- Trump claims India has offered to reduce tariffs to zero, ‘but it’s getting late’ - The Hindu
-  Trump claims India has offered to reduce tariffs to zero, ‘
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlF6MThRTVA3MlFsRGJ0R05IWHhLQlpRUjlkZFd1R1dCZVpTeC1Pay1GSXlWYVNSSU9JTmxzZHBrdTM2b1h6Yi1VYllXQzJHWUxWQVlDRkQ0eXZNeXRyMjczSnExZEJiaEVjMkw2Uk9nTlcxRTlOZTZqemRWSERYZ2ptWnV1ZG55RllOUXVVOWNXMUZ4amZvVzhxQjdhdG1ZZVVERnVPQ3Z5UXZlcFk3OHladjRVd0ZOdVBzN2FOVlk2YTRfSjVEMtIBzwFBVV95cUxPRHEzZ1RrMTlNdVlWRjhLcUV3d2FnM0s1XzAtNFlhZFhRQko5Mi1Kd0ZBQldYZXkxQ2Fkd0IwMmxpbTZaNUE0WkJONDBkbUUzcVlJRUplVEtqQ3pZSjJRRWJaall6RXBrS3hZNmtnbjNxdl9XYV9MOEt4T1FCYnBYbWxVQUpqeWVKbUlKZFVZWXB3WVhEMFlqaWlhOVdCS2VacExYTndCZEllSy1LYlhvVTdEdVBucHNFMkNES2FjU1pwM1o5M1VqNTE3SXhIdXM?oc=5
+- Breaking News Live Updates: India delivers 21 tonnes of relief materials to quake-hit Afghanistan - The Times of India
+  India delivers 21 tonnes of relief materials to quake-hit Afghanistan.
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNakRFUy1lVk9SQV9ySWVvT1JUQm4wZkI3V3U3Q3ZtcDc1ZnU4YVF2MTZRX1ZxVGZHV0pBeEJuQXpuRzVnWlBORWwzRWY3WlVzekJmcDNmWEVNZEkybkxybHlrQTlRVDZscFhiZWtoYXd5RVhFaDVqdFpzcnluWVdJQkkxbnZwODZPbjNDRGpuWDhVTXpBUTBLaEQ0UUVzZXE2ZTV2U1M1b2lIcG84QVltSGZjc2FQR2PSAbwBQVVfeXFMT0QxWnRJVUczYVZtRUZZNHpxTy1DLWhxOTMyZVh4WUdxRGhsY2c2czZXajZBb05JVnBNVl9qN2VZUElOeGZQX05RXzRJN0ttS2MwQ0hZanhKMVFBZ1BqcWZEZFF0Z2hUMjFub1VuMjdXNlZwMmVsVGdXQ2h5NHBPZVdNUEVBRmI1TWk4b0ZFWE00bUpPSDlnakJ6MC1OZXFGQUFEc3ZOT1h1NkUzZGZrZkV0QjVkOXlhek1aYmo?oc=5
 
-- India, Germany to hold talks as EU mulls curbs - The Times of India
-  India, Germany to hold talks as EU mulls
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPMXFSWHc2N1llUlVuRUo4aDJWREUyeHZsQjlpMjVDNjAySFlyaU1fejZhQWdaWEl6RVF2eUZ3S01kZDUwTVVvSVlXc1VYZnR5cm9FYnFNZ3JDWW92aXlaSkpINTRVb19iUjlKV3ZMN0k3ZXBfQjJWOXViU0haaThPS0dEMk8zNEIwSjNmM0pqanJuSm1XSEJYUVJjZWM0NjRYSlltNHQ2aW96QnVlSmxzU2R4TdIBuAFBVV95cUxPSkZ2VTRoWlJmbEt2U21iRHFCbUhweXhHZlZNbUNhYnNUR3pnWm5SdVpUUC1wMWFQYzZydTJLQkV5aVltT1lSdHVOV09NN29pZVZ1UUJZd3A0MVZfblZOdkdJS1pKS0N5Ul9mU3RXdURKWkplR2dpUU1wQXI0SzdsdXliNWRJRGkwZWRZOVJ5YTRJN1J1S09kR3owR1FtdGJOLXhRTjl1b2JxN3Z4Yk0wUGFPY3J2bi0y?oc=5
+- "We Get Along With India Very Well, But...": Trump Amid Tariff Tension - NDTV
+  "We Get Along With India Very Well, But
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlpXUUE2Zm5BaGRtRGJPMVRsbC1jYXgtWVc5bkpqWWlHaUYtSzc5anl1eWZvY3c4Y25RY2VnSmpKdU1mY1R3cWFRSjgzSlZWbXg5UU9OSk9yZWs3X2ZTVFgxbW95SlYxNUFjci0walZrMm5Cb291b3JVVzNXOWNRYXZPdnVNcGlMM0FxWE5fbVNtTDE0aVAwWENnQUkyODZ2cnBtUtIBrAFBVV95cUxNekZ0cGRrZUhRN2dvUDFXak5kWWxlVVVVVnVEaW1HSV9feGZyWTZUU0d6bFJfeDFBWDJ2ejBsaUNtRjJxVXFZbl9zN0hiaUdGMFZWRXNDYmxnZTM5M2t6djFFN1lZR0lGRTFsd3VZQ2dOT19PZEJQdnpZbkhPbC1QWE1udDZnTzg1TlNDOVEwQ3BsdlNEM3BRUlNjV3hPSEtBMVFLbGdUSDRyZWxO?oc=5
 
-- Heavy rainfall warning, exams cancelled in J&K - The Indian Express
-  Heavy rainfall warning, exams cancelled in
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkd0bW9RR3JndnRZLWhaTHdRaE9KRUI5YXk1YkZNdXNLSFlHTmIzS2dfN2RPNFZnVng0MGg2OTV4U2dCQVRlS2xvQWNfTG56RTkzQmVLSDRkM0JVaEk2QWtwS3pUcEdvSENEenJReEg2a3ZSWU1FNFdnZUoybTNZVXdVM25tYmtWVWV3bWxONG5hbHhqVnJqRklR0gGgAUFVX3lxTE42b2psWVRaLVhwMXdFRkVMNkZ6WGZIa00zNHVFVEM5VGhjUmhSMVRKVUpiNjNNUTNEcUwzMVBzd05NRDRoTUktY1dmMnEyekxoRm9ONS11YjBteDRwbVl3WVNDM2ZsOHI0V3pmWER3TWtJd0lKYTE5eWNQRURXbkI3Z3VlQ2VRS1AtNXl1TnlJQ1h4VGYzN3JYLXdGOGpnYUk?oc=5
+- "Where Are You Today?" Congressman's Tariff Message For Indian Americans - NDTV
+  "Where Are You Today?" Congressman's
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNMVRPOW9tdnNJLXIzZGQ5UzhjTUoyMkdydDhIdFNDRkVOZHpGbnZ1bVcwbDU4V01RSzlySllxSzlfeWhjUTZic0c3NEZxRW1MY1N1bTljdHA4eElQZTMyaEhmX1RDYjFFekNSMkNhMmF0WXFVd0N6ZFhWa3ZrWjZBWm9NV3ZGT0ctR3RKZFpiRmlORmhmNkJPZ19xZ1hFQdIBpgFBVV95cUxNcDYwTVA5a0VLYTJqVUhBdUdfcGRuTjBzcHY4Vno4aVRybkhiRWs4TVZKdm90UU15SkFmX3ZUdHFGcWZWX3V1Z1VJQXBXZHE1aVFqVlhKd21odUpNZHkzU3dQLUlsT0V2OUJzcHZjcFEwbzB4WWFUNVJwek9hRVV1Q09SU2tXcGJSZk5CbVhjV2w5SENRYW5NRVRRdmNzSngyOERIblRB?oc=5
 
-- Cheaper Russian oil, more S-400 for India likely amid Trump tariffs: Report | Latest News India - Hindustan Times - Hindustan Times
-  Cheaper Russian oil, more S-400 for India likely amid Trump tariffs: Report.
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlluMV9WOGlhTVMzMWZQR2RVSlh3WWRIRlQ4Y0d5ZjVERGNFVkVzVXhEbUV1RDZhZERwTHMyUXBYeXczSVJ6OFcwUW02RG5rVzJ3VF9hYmE3eHRtN29BYnVRdVVRYnRCSDFiVExyWEhDSkJ3WDRHT3FpZWR1VG9QM193NllsX0gwdWxjZ1ByTUpjWmtyS2pXeVdJdHJPN2N6LTdEYWUtb3FpOE10SHJnV2ZZQjdFeW9seWJWUXA0X1hOU25VN1dCMkhCZzRjOXF4TS1weTlGRnFScTVNSE5V0gHkAUFVX3lxTE00cTJkN3QzRFhfWF9FRVBMdGJLal9Hc2xSVlNQbVByTDE0QWJyczU5R21xcTBzclZseDY1R3FNYUhDS1A4dG9IaWZZS21Xak9FdjVPcGxCWUpxU1d5S21tck5PYmNEcTBIYjU0bk1sZUV2SElicmcycUVXcEF0dHhrY2NnMWpLLTRvWVE5N0k4Y1A4NGVJNmItY29SMVVPRWZxVnVBQjJWa3Fzem01RHc4RDJqZXhRU1p6NnlzMHhEa3JnOV9nT25iYU9idFlKTDhCMzNHUXoyemI0ZXFSTE5HSG1HWg?oc=5
+- News Today Live Updates, 3 September | Rain and ruin: a timeline of Punjab’s most devastating floods since 1955 - The Indian Express
+  News Today Live Updates, 3 September | Rain and ruin: a timeline of Punjab’s
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWTNqYk1RSFV0cjVXQWFVWkRRZ2VuajRZendiVGRsM29HQVZqcWRXM0RuMUtYc002elJXWDI5N0kwQzFMTWVqMXJ1TFRmYzJpRWJfUFc3d2kta3Vrc2hHXzRGNnZFZzFiekFrLUtUaFBPRFhrbDhOemRmWlFlOHRzcFAwYmRvem1kcGpIN1E2RHVUWVpMbTdvSmZQa0RHYXJBWENIWWdPTkh4NmRFeHhKMVpaelNVSG96cUlCSjVLQmxpdEdyUHZ4NXFtWGxzV0ZkMTJxU0p4V2tQcjlSOE1hVmtHZlI2Z3lF0gHvAUFVX3lxTE5QcXIyYjZVRTdvYlNobTRzTm1ickgxSE1IMFlnbUhNS1JaZDdkVEJ1algydnRrVUh0Ujc0OHlpRU1rbWNTMVA0T3daVW5VaEpQOVd0QWU2ckdyNjd5UDNoeUlCdmJ3alpBOFlGdFhRLVRSc0E3aHNGV3g2NzBfcFdXME5qbzc3clJuTTZWXzFxOFZhSlU0OUNZNVJVZkp3T2Z1YTZxRzZmVnRCS2xTem5PZmRpcXBQODVLY2xoamVDWl9GTktMc19rR2dqNmJKdHF6UFFtR29BOFJuYlF3Z256eDdROXF1OWxRVUhtdmlV?oc=5
 
-- "Trump Feels Cheated That...": US Expert On India-US Tariff Row - NDTV
-  "Trump Feels Cheated That..."
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNak5CXzVLaUhMUm9SdVZadm41bFhiT21kOVREb21UR08tRDEySVVHeXZJNlRzOXAtUFBBaEVrRllHR1FhZXhDUHVFT2lrZGtiTWE3M0dBeUJLQzczVGozMi1EMklxRDhCRW5GV2NraXpjQ1pKQURKOE9kVDFxeTBpYjhzenNoSmdkZ2IxX0ViRkY5MXA1TjNHVXVfVkpsRWJ3R3RJTXZNUEVZeDd4Zi1qeTM4VnAwQlAzNVHSAcIBQVVfeXFMUDJUbDEyRi1oTXFYZWVsbnNZZ284blA1R2cyMDdockJSTkJhQXlGaXBFR0FFUWo4M2pBdURlSFlMUjVIOXpWcDR5MTdGMkFKc0stT3p4RjlVcmtrZXM1QlJzbUEyMzZtSEJPcF9VTHBReGwtS3hFMXdGMFQ1SGxRV1A2TXp2ZlgxNWoyQy1xS2l2MENoSTFSOHJhLTRzWU5VMW83X1NBWWJ5RU8xaG5zbWkwNFh0WjJRQnZfV29GS0JXbHc?oc=5
+- India Floods LIVE Updates: Heavy rain batters north India; IMD issues ‘red alert’ in J&K, Himachal, Uttarakhand and Punjab - The Indian Express
+  India Floods LIVE Updates: Heavy rain batters north India. IMD issues ‘red alert
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNUG1CNlF4blFrWGJFRU1JWkRiTDRkMl9GOEtjc1RlbHVseURqVmk2clFQWFY5Mi05NjVkaTgwT1FLUThTZ3FMdkVsVUtpS1prLXRJNWowU0NjVDNwYVBod3VKZmFVeXJ2TTBmZERXaGhFU0ExcEplVmNHYWtuZFlLQ3R2S1NiZmJKUWR6Nlk3aXV6ZlJJNW1NaGlrQmt1Z9IBpAFBVV95cUxPMTdpaHBmU2FHc2Y1RWR5eTNNRV9vaERCYWQ0UElfelBRSF8tczU3aC1EYWpsRVN6OHhUVVlLbXQzdmlEVFVKUXBjeFdtQU5DQ1ZhZFoxbTNtejJxMU9STkRUZ2thaVMwTWozaGlrTEhDaHpEMC1MZVY1WktBeWVxQjBYcjBLUERRbVc5YzdVcHNfcG9JdnFfOXZ0ekhxdlVyMFpWUQ?oc=5
 
-- Trump claims India has offered to reduce tariffs to zero, ‘but it’s getting late’ - The Hindu
-  Trump claims India has offered to reduce tariffs to zero, ‘
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlF6MThRTVA3MlFsRGJ0R05IWHhLQlpRUjlkZFd1R1dCZVpTeC1Pay1GSXlWYVNSSU9JTmxzZHBrdTM2b1h6Yi1VYllXQzJHWUxWQVlDRkQ0eXZNeXRyMjczSnExZEJiaEVjMkw2Uk9nTlcxRTlOZTZqemRWSERYZ2ptWnV1ZG55RllOUXVVOWNXMUZ4amZvVzhxQjdhdG1ZZVVERnVPQ3Z5UXZlcFk3OHladjRVd0ZOdVBzN2FOVlk2YTRfSjVEMtIBzwFBVV95cUxPRHEzZ1RrMTlNdVlWRjhLcUV3d2FnM0s1XzAtNFlhZFhRQko5Mi1Kd0ZBQldYZXkxQ2Fkd0IwMmxpbTZaNUE0WkJONDBkbUUzcVlJRUplVEtqQ3pZSjJRRWJaall6RXBrS3hZNmtnbjNxdl9XYV9MOEt4T1FCYnBYbWxVQUpqeWVKbUlKZFVZWXB3WVhEMFlqaWlhOVdCS2VacExYTndCZEllSy1LYlhvVTdEdVBucHNFMkNES2FjU1pwM1o5M1VqNTE3SXhIdXM?oc=5
-
-- India, Germany to hold talks as EU mulls curbs - The Times of India
-  India, Germany to hold talks as EU mulls
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPMXFSWHc2N1llUlVuRUo4aDJWREUyeHZsQjlpMjVDNjAySFlyaU1fejZhQWdaWEl6RVF2eUZ3S01kZDUwTVVvSVlXc1VYZnR5cm9FYnFNZ3JDWW92aXlaSkpINTRVb19iUjlKV3ZMN0k3ZXBfQjJWOXViU0haaThPS0dEMk8zNEIwSjNmM0pqanJuSm1XSEJYUVJjZWM0NjRYSlltNHQ2aW96QnVlSmxzU2R4TdIBuAFBVV95cUxPSkZ2VTRoWlJmbEt2U21iRHFCbUhweXhHZlZNbUNhYnNUR3pnWm5SdVpUUC1wMWFQYzZydTJLQkV5aVltT1lSdHVOV09NN29pZVZ1UUJZd3A0MVZfblZOdkdJS1pKS0N5Ul9mU3RXdURKWkplR2dpUU1wQXI0SzdsdXliNWRJRGkwZWRZOVJ5YTRJN1J1S09kR3owR1FtdGJOLXhRTjl1b2JxN3Z4Yk0wUGFPY3J2bi0y?oc=5
-
-- Heavy rainfall warning, exams cancelled in J&K - The Indian Express
-  Heavy rainfall warning, exams cancelled in
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkd0bW9RR3JndnRZLWhaTHdRaE9KRUI5YXk1YkZNdXNLSFlHTmIzS2dfN2RPNFZnVng0MGg2OTV4U2dCQVRlS2xvQWNfTG56RTkzQmVLSDRkM0JVaEk2QWtwS3pUcEdvSENEenJReEg2a3ZSWU1FNFdnZUoybTNZVXdVM25tYmtWVWV3bWxONG5hbHhqVnJqRklR0gGgAUFVX3lxTE42b2psWVRaLVhwMXdFRkVMNkZ6WGZIa00zNHVFVEM5VGhjUmhSMVRKVUpiNjNNUTNEcUwzMVBzd05NRDRoTUktY1dmMnEyekxoRm9ONS11YjBteDRwbVl3WVNDM2ZsOHI0V3pmWER3TWtJd0lKYTE5eWNQRURXbkI3Z3VlQ2VRS1AtNXl1TnlJQ1h4VGYzN3JYLXdGOGpnYUk?oc=5
-
-- Cheaper Russian oil, more S-400 for India likely amid Trump tariffs: Report | Latest News India - Hindustan Times - Hindustan Times
-  Cheaper Russian oil, more S-400 for India likely amid Trump tariffs: Report.
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlluMV9WOGlhTVMzMWZQR2RVSlh3WWRIRlQ4Y0d5ZjVERGNFVkVzVXhEbUV1RDZhZERwTHMyUXBYeXczSVJ6OFcwUW02RG5rVzJ3VF9hYmE3eHRtN29BYnVRdVVRYnRCSDFiVExyWEhDSkJ3WDRHT3FpZWR1VG9QM193NllsX0gwdWxjZ1ByTUpjWmtyS2pXeVdJdHJPN2N6LTdEYWUtb3FpOE10SHJnV2ZZQjdFeW9seWJWUXA0X1hOU25VN1dCMkhCZzRjOXF4TS1weTlGRnFScTVNSE5V0gHkAUFVX3lxTE00cTJkN3QzRFhfWF9FRVBMdGJLal9Hc2xSVlNQbVByTDE0QWJyczU5R21xcTBzclZseDY1R3FNYUhDS1A4dG9IaWZZS21Xak9FdjVPcGxCWUpxU1d5S21tck5PYmNEcTBIYjU0bk1sZUV2SElicmcycUVXcEF0dHhrY2NnMWpLLTRvWVE5N0k4Y1A4NGVJNmItY29SMVVPRWZxVnVBQjJWa3Fzem01RHc4RDJqZXhRU1p6NnlzMHhEa3JnOV9nT25iYU9idFlKTDhCMzNHUXoyemI0ZXFSTE5HSG1HWg?oc=5
-
-- "Trump Feels Cheated That...": US Expert On India-US Tariff Row - NDTV
-  "Trump Feels Cheated That..."
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNak5CXzVLaUhMUm9SdVZadm41bFhiT21kOVREb21UR08tRDEySVVHeXZJNlRzOXAtUFBBaEVrRllHR1FhZXhDUHVFT2lrZGtiTWE3M0dBeUJLQzczVGozMi1EMklxRDhCRW5GV2NraXpjQ1pKQURKOE9kVDFxeTBpYjhzenNoSmdkZ2IxX0ViRkY5MXA1TjNHVXVfVkpsRWJ3R3RJTXZNUEVZeDd4Zi1qeTM4VnAwQlAzNVHSAcIBQVVfeXFMUDJUbDEyRi1oTXFYZWVsbnNZZ284blA1R2cyMDdockJSTkJhQXlGaXBFR0FFUWo4M2pBdURlSFlMUjVIOXpWcDR5MTdGMkFKc0stT3p4RjlVcmtrZXM1QlJzbUEyMzZtSEJPcF9VTHBReGwtS3hFMXdGMFQ1SGxRV1A2TXp2ZlgxNWoyQy1xS2l2MENoSTFSOHJhLTRzWU5VMW83X1NBWWJ5RU8xaG5zbWkwNFh0WjJRQnZfV29GS0JXbHc?oc=5
-
-- Trump claims India has offered to reduce tariffs to zero, ‘but it’s getting late’ - The Hindu
-  Trump claims India has offered to reduce tariffs to zero, ‘
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlF6MThRTVA3MlFsRGJ0R05IWHhLQlpRUjlkZFd1R1dCZVpTeC1Pay1GSXlWYVNSSU9JTmxzZHBrdTM2b1h6Yi1VYllXQzJHWUxWQVlDRkQ0eXZNeXRyMjczSnExZEJiaEVjMkw2Uk9nTlcxRTlOZTZqemRWSERYZ2ptWnV1ZG55RllOUXVVOWNXMUZ4amZvVzhxQjdhdG1ZZVVERnVPQ3Z5UXZlcFk3OHladjRVd0ZOdVBzN2FOVlk2YTRfSjVEMtIBzwFBVV95cUxPRHEzZ1RrMTlNdVlWRjhLcUV3d2FnM0s1XzAtNFlhZFhRQko5Mi1Kd0ZBQldYZXkxQ2Fkd0IwMmxpbTZaNUE0WkJONDBkbUUzcVlJRUplVEtqQ3pZSjJRRWJaall6RXBrS3hZNmtnbjNxdl9XYV9MOEt4T1FCYnBYbWxVQUpqeWVKbUlKZFVZWXB3WVhEMFlqaWlhOVdCS2VacExYTndCZEllSy1LYlhvVTdEdVBucHNFMkNES2FjU1pwM1o5M1VqNTE3SXhIdXM?oc=5
-
-- India, Germany to hold talks as EU mulls curbs - The Times of India
-  India, Germany to hold talks as EU mulls
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPMXFSWHc2N1llUlVuRUo4aDJWREUyeHZsQjlpMjVDNjAySFlyaU1fejZhQWdaWEl6RVF2eUZ3S01kZDUwTVVvSVlXc1VYZnR5cm9FYnFNZ3JDWW92aXlaSkpINTRVb19iUjlKV3ZMN0k3ZXBfQjJWOXViU0haaThPS0dEMk8zNEIwSjNmM0pqanJuSm1XSEJYUVJjZWM0NjRYSlltNHQ2aW96QnVlSmxzU2R4TdIBuAFBVV95cUxPSkZ2VTRoWlJmbEt2U21iRHFCbUhweXhHZlZNbUNhYnNUR3pnWm5SdVpUUC1wMWFQYzZydTJLQkV5aVltT1lSdHVOV09NN29pZVZ1UUJZd3A0MVZfblZOdkdJS1pKS0N5Ul9mU3RXdURKWkplR2dpUU1wQXI0SzdsdXliNWRJRGkwZWRZOVJ5YTRJN1J1S09kR3owR1FtdGJOLXhRTjl1b2JxN3Z4Yk0wUGFPY3J2bi0y?oc=5
-
-- Heavy rainfall warning, exams cancelled in J&K - The Indian Express
-  Heavy rainfall warning, exams cancelled in
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkd0bW9RR3JndnRZLWhaTHdRaE9KRUI5YXk1YkZNdXNLSFlHTmIzS2dfN2RPNFZnVng0MGg2OTV4U2dCQVRlS2xvQWNfTG56RTkzQmVLSDRkM0JVaEk2QWtwS3pUcEdvSENEenJReEg2a3ZSWU1FNFdnZUoybTNZVXdVM25tYmtWVWV3bWxONG5hbHhqVnJqRklR0gGgAUFVX3lxTE42b2psWVRaLVhwMXdFRkVMNkZ6WGZIa00zNHVFVEM5VGhjUmhSMVRKVUpiNjNNUTNEcUwzMVBzd05NRDRoTUktY1dmMnEyekxoRm9ONS11YjBteDRwbVl3WVNDM2ZsOHI0V3pmWER3TWtJd0lKYTE5eWNQRURXbkI3Z3VlQ2VRS1AtNXl1TnlJQ1h4VGYzN3JYLXdGOGpnYUk?oc=5
-
-- Cheaper Russian oil, more S-400 for India likely amid Trump tariffs: Report | Latest News India - Hindustan Times - Hindustan Times
-  Cheaper Russian oil, more S-400 for India likely amid Trump tariffs: Report.
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlluMV9WOGlhTVMzMWZQR2RVSlh3WWRIRlQ4Y0d5ZjVERGNFVkVzVXhEbUV1RDZhZERwTHMyUXBYeXczSVJ6OFcwUW02RG5rVzJ3VF9hYmE3eHRtN29BYnVRdVVRYnRCSDFiVExyWEhDSkJ3WDRHT3FpZWR1VG9QM193NllsX0gwdWxjZ1ByTUpjWmtyS2pXeVdJdHJPN2N6LTdEYWUtb3FpOE10SHJnV2ZZQjdFeW9seWJWUXA0X1hOU25VN1dCMkhCZzRjOXF4TS1weTlGRnFScTVNSE5V0gHkAUFVX3lxTE00cTJkN3QzRFhfWF9FRVBMdGJLal9Hc2xSVlNQbVByTDE0QWJyczU5R21xcTBzclZseDY1R3FNYUhDS1A4dG9IaWZZS21Xak9FdjVPcGxCWUpxU1d5S21tck5PYmNEcTBIYjU0bk1sZUV2SElicmcycUVXcEF0dHhrY2NnMWpLLTRvWVE5N0k4Y1A4NGVJNmItY29SMVVPRWZxVnVBQjJWa3Fzem01RHc4RDJqZXhRU1p6NnlzMHhEa3JnOV9nT25iYU9idFlKTDhCMzNHUXoyemI0ZXFSTE5HSG1HWg?oc=5
+- Breaking News Live Updates: India delivers 21 tonnes of relief materials to quake-hit Afghanistan - The Times of India
+  India delivers 21 tonnes of relief materials to quake-hit Afghanistan.
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNakRFUy1lVk9SQV9ySWVvT1JUQm4wZkI3V3U3Q3ZtcDc1ZnU4YVF2MTZRX1ZxVGZHV0pBeEJuQXpuRzVnWlBORWwzRWY3WlVzekJmcDNmWEVNZEkybkxybHlrQTlRVDZscFhiZWtoYXd5RVhFaDVqdFpzcnluWVdJQkkxbnZwODZPbjNDRGpuWDhVTXpBUTBLaEQ0UUVzZXE2ZTV2U1M1b2lIcG84QVltSGZjc2FQR2PSAbwBQVVfeXFMT0QxWnRJVUczYVZtRUZZNHpxTy1DLWhxOTMyZVh4WUdxRGhsY2c2czZXajZBb05JVnBNVl9qN2VZUElOeGZQX05RXzRJN0ttS2MwQ0hZanhKMVFBZ1BqcWZEZFF0Z2hUMjFub1VuMjdXNlZwMmVsVGdXQ2h5NHBPZVdNUEVBRmI1TWk4b0ZFWE00bUpPSDlnakJ6MC1OZXFGQUFEc3ZOT1h1NkUzZGZrZkV0QjVkOXlhek1aYmo?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-03 01:11:39 UTC_
+_Last updated: 2025-09-03 06:26:11 UTC_
