@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Meditation to prosthetics, helping Ukrainians allay war trauma
+- ED summons cricketer Shikhar Dhawan in illegal betting app case
   
-  🔗 https://indianexpress.com/article/india/meditation-to-prosthetics-helping-ukrainians-allay-war-trauma-10229041/
+  🔗 https://indianexpress.com/article/india/ed-summons-cricketer-shikhar-dhawan-illegal-betting-app-case-10229435/
 
-- BJP meet on Bihar: SIR stir, insult of PM’s mother discussed
+- 2 policemen killed in operation against ‘Maoist team planning a strike’ in Jharkhand
   
-  🔗 https://indianexpress.com/article/india/bjp-meet-on-bihar-sir-stir-insult-of-pms-mother-discussed-10228998/
+  🔗 https://indianexpress.com/article/india/policemen-killed-operation-maoist-planning-strike-jharkhand-10229439/
 
-- No prosecution of minorities entering India after 2014: MHA
+- Gold Today Rate, September 4: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/no-prosecution-of-minorities-entering-india-after-2014-mha-10229042/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-september-4-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10229385/
 
-- India to enact law to protect its interest in high seas, following BBNJ agreement
+- NDA enforces 5-hr bandh in Bihar to protest hurling of abuse at PM’s mother
   
-  🔗 https://indianexpress.com/article/india/india-to-enact-law-to-protect-its-interest-in-high-seas-following-bbnj-agreement-10229016/
+  🔗 https://indianexpress.com/article/india/nda-bandh-bihar-protest-abuse-pm-mother-10229392/
 
-- United Naga Council declares trade embargo
+- GST reforms are welcome, but ‘steps are eight years too late’: Congress says ‘wait for a true GST 2.0 continues’
   
-  🔗 https://indianexpress.com/article/india/united-naga-council-declares-trade-embargo-10229035/
+  🔗 https://indianexpress.com/article/india/gst-reforms-welcome-steps-congress-true-gst-2-0-10229359/
 
 - Bengaluru startup Upliance AI launches next-gen smart cooking device priced at Rs 39,999
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/google-avoids-breakup-us-antitrust-case-key-takeaways-10228062/
 
+- Weight-loss drugs are reshaping the snack shelf—one bite at a time
+  India’s growing use of weight-loss drugs like Mounjaro and Wegovy is boosting demand for high-protein, high-fibre snacks. Tata Consumer and ITC and startups
+  🔗 https://www.livemint.com/companies/india-weight-loss-drugs-mounjaro-wegovy-ozempic-fmcg-snacking-shift-11756811476004.html
+
+- TD Aims for Growth at US Banking Unit Amid Asset-Cap Restraints
+  The head of Toronto-Dominion Bank’s US franchise said he sees opportunity for growth. The lender
+  🔗 https://www.livemint.com/companies/news/td-aims-for-growth-at-us-banking-unit-amid-asset-cap-restraints-11756961353730.html
+
+- TD Aims for Growth at US Banking Unit Despite Asset Cap
+  The head of Toronto-Dominion Bank’s US franchise said he sees opportunity for growth. The lender
+  🔗 https://www.livemint.com/companies/news/td-aims-for-growth-at-us-banking-unit-despite-asset-cap-11756961353445.html
+
 - Corner shops to be fulcrum of consumer goods business: Reliance Consumer's Krishnakumar
   Reliance Consumer Products has identified general trade (mom-and-pop stores) as the core of its business. On the consumer brand-side, general trade will be almost 90% of the firm's
   🔗 https://www.livemint.com/companies/reliance-consumer-fmcg-sector-in-india-campa-urban-consumption-in-india-general-trade-mom-and-pop-stores-gdp-11756901151708.html
@@ -48,37 +60,33 @@
   Hewlett Packard Enterprise Co. Chief Executive Officer Antonio Neri said the company expects to weather a slimming of profit
   🔗 https://www.livemint.com/companies/news/hpe-says-it-s-weathering-profit-squeeze-at-start-of-new-ai-era-11756942892697.html
 
-- Scale AI Sues Rival Startup Mercor, Alleging Trade Secret Theft
-  Scale AI Inc. sued rival data-labeling startup Mercor, accusing the firm and a
-  🔗 https://www.livemint.com/companies/news/scale-ai-sues-rival-startup-mercor-alleging-trade-secret-theft-11756925019428.html
+- Amanta Healthcare IPO allotment date Live Updates: Step-by-step guide to check status; here's what GMP hints on listing
+  Mint advises investors to check with certified experts before making any investment decisions.
+  🔗 https://www.livemint.com/market/ipo/amanta-healthcare-ipo-gmp-amanta-healthcare-ipo-allotment-status-amanta-healthcare-ipo-listing-date-amanta-healthcare-11756965015725.html
 
-- Carney Sends Envoys to DC After ‘Very Constructive’ Trump Call
-  Mark Carney said Canada and the US are in negotiations to resolve issues in tariff-hit sectors. Carney said he had
-  🔗 https://www.livemint.com/companies/news/carney-sends-envoys-to-dc-after-very-constructive-trump-call-11756918349550.html
+- Recommended stocks to buy on 4 September—top stock picks from market experts
+  Experts share their top stock picks to capitalize on the momentum in India
+  🔗 https://www.livemint.com/market/stock-market-news/recommended-stocks-to-buy-on-4-september-top-stock-picks-from-market-experts-11756958597656.html
 
-- Trump Plans to Block Iberdrola Massachusetts Wind Projects
-  The Trump administration is moving to block the development of more offshore wind projects. It's the latest in a series of high-
-  🔗 https://www.livemint.com/companies/news/trump-plans-to-block-iberdrola-massachusetts-wind-projects-11756917136577.html
+- GST relief powers tractor stocks: Escorts Kubota, VST Tillers climb up to 14%
+  Escorts Kubota shares surged 14% on September 4 after the GST Council reduced tractor taxes from 12% to 5%. This decision is expected to boost demand for agricultural machinery.
+  🔗 https://www.livemint.com/market/stock-market-news/gst-relief-powers-tractor-stocks-escorts-kubota-vst-tillers-climb-up-to-14-11756964577554.html
 
-- Global Markets Today: Nikkei 225, Kospi trade higher on Wall Street gains
-  Japan’s Nikkei 225 gained 0.57 per cent in early trade, while the Topix rose 0.41 per cent.
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-trade-higher-on-wall-street-gains-11756946305755.html
+- Oval Projects Engineering IPO listing: Shares off to flat start, list near to IPO price of  ₹85 on BSE SME
+  The demand for Oval Projects Engineering IPO was also tepid, with the issue receiving just 1.61 times bids. The retail portion of the SME IPO was booked 83%, the non
+  🔗 https://www.livemint.com/market/ipo/oval-projects-engineering-ipo-listing-shares-off-to-flat-start-list-near-to-ipo-price-of-rs-85-on-bse-sme-11756962808849.html
 
-- 3 steel stocks to buy today: Ankush Bajaj's top recommendations for 4 September
-  Market expert Ankush Bajaj recommends three steel stocks to buy today, Thursday, 4 September.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-today-4-september-ankush-bajaj-nifty-sensex-tata-steel-sail-jindal-11756909197747.html
+- Dev Accelerator IPO: Price band set at  ₹56-61 per share; check key dates, issue details, more
+  Dev Accelerator IPO: Price band set at  �
+  🔗 https://www.livemint.com/market/ipo/dev-accelerator-ipo-price-band-set-at-rs-56-61-per-share-check-key-dates-issue-details-more-11756961775623.html
 
-- Stocks to buy: Raja Venkatraman's recommendations for 4 September
-  Market expert Raja Venkatraman shares his top two stocks to buy today, 3 September.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatramans-recommendations-4-september-sensex-nifty-11756900805977.html
+- Trump to host top tech CEOs — except Musk — at White House dinner Thursday
+  Trump to host top tech CEOs at White House dinner
+  🔗 https://www.livemint.com/technology/tech-news/trump-to-host-top-tech-ceos-except-musk-at-white-house-dinner-thursday-11756955164153.html
 
-- Stock recommendations for 4 September from MarketSmith India
-  Stock recommendations from Market
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-4-september-marketsmith-india-sensex-nifty-abbott-india-rashtriya-chemicals-and-fertilizers-11756904122598.html
-
-- NSE to appoint Srinivas Injeti as chairman
-  The National Stock Exchange plans to appoint Srinivas Injeti as its chairman, pending approval from Sebi. The position has been vacant since July 2024.
-  🔗 https://www.livemint.com/market/nse-to-appoint-srinivas-injeti-as-chairman-11756908669856.html
+- Google must pay $425 million in class action over privacy, jury rules
+  The jury found Google liable on two of the three claims of privacy violations brought by the plaintiffs. The jury found that Google had not acted with malice, meaning it
+  🔗 https://www.livemint.com/technology/google-must-pay-425-million-in-class-action-over-privacy-jury-rules-11756954306904.html
 
 - Primer: What good will made-in-India chips really do?
   India projects electronics industry would be worth $500 billion in five years. Localizing chip
@@ -92,73 +100,85 @@
   Apple MacBook Air Laptops feature advanced processors, elegant design, and lasting battery life. Portable and efficient, they
   🔗 https://www.livemint.com/technology/gadgets/apple-macbook-air-laptops-with-the-latest-processor-and-features-top-5-picks-to-consider-for-work-and-entertainment-11756903044479.html
 
-- ChatGPT down? Best AI alternative chatbots that you can rely on
-  OpenAI's ChatGPT suffered a major outage, affecting users worldwide
-  🔗 https://www.livemint.com/technology/tech-news/chatgpt-down-best-ai-alternative-chatbots-google-gemini-perplexity-jasper-chat-copilot-youchat-that-you-can-rely-on-11756899194734.html
+- GST relief to boost insurance penetration, ease burden on policyholders: Nilesh Sathe
+  The government's GST reform has eliminated the 18% tax on insurance premiums. While policyholders will benefit from lower costs, insurers may face challenges.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gst-relief-to-boost-insurance-penetration-ease-burden-on-policyholders-nilesh-sathe/articleshow/123691666.cms
 
-- iPadOS tablets that are worth buying in 2025: Top models and who they’re best for
-  We’ve rounded up the best iPadOS tablets, explaining their standout features and exactly who should invest
-  🔗 https://www.livemint.com/technology/gadgets/ipados-tablets-that-are-worth-buying-in-2025-top-models-and-who-they-re-best-for-11756896633581.html
+- Bajaj Finance, Bajaj Finserv shares rally up to 6% as GST cut for consumer durables likely to boost demand
+  Bajaj Finserv and Bajaj Finance shares jumped following the government's GST rate reduction on consumer durables. The GST cut, from 28% to 18%, is anticipated to stimulate retail demand, especially during the festive season
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-bajaj-finserv-shares-rally-up-to-6-as-gst-cut-for-consumer-durables-likely-to-boost-demand/articleshow/123691475.cms
 
-- Metal stocks surge as CLSA predicts recovery amid China's steel capacity cuts
-  CLSA suggests the sector's downturn might be ending. Tata Steel and Jindal Steel experienced significant surges. Analysts predict further upsides for metal stocks.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/metal-stocks-surge-as-clsa-predicts-recovery-amid-chinas-steel-capacity-cuts/articleshow/123687927.cms
+- Market direction depends on earnings recovery, festive season, GST cuts to boost consumption: Dipan Mehta
+  Indian stock markets are navigating between optimism and caution, says Dipan Mehta of Elixir Equities. He suggests that a sustained upward movement hinges on earnings growth.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-direction-depends-on-earnings-recovery-festive-season-gst-cuts-to-boost-consumption-dipan-mehta/articleshow/123691251.cms
 
-- Injeti Srinivas likely to be appointed NSE chairman
-  NSE is poised to appoint Injeti Srinivas, former IFSCA chairman, as its new chairman, pending Sebi's approval. This move occurs as NSE prepares for its IPO and strengthens its board structure.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/injeti-srinivas-likely-to-be-appointed-nse-chairman/articleshow/123687920.cms
+- Zijin Gold said to plan $3 billion HK IPO in world’s biggest listing since CATL
+  Zijin Mining Group is planning to list its international gold-mining division in Hong Kong. The IPO could raise over $3 billion. Investor interest is strong due to high gold prices.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/zijin-gold-said-to-plan-3-billion-hk-ipo-in-worlds-biggest-listing-since-catl/articleshow/123691218.cms
 
-- Muthoot Finance raises $600 million in senior secured notes at 6.375%
-  Muthoot Finance successfully raised $600 million through senior secured notes at a 6.375% coupon rate, maturing in 2030. Board has approved the allotment under its $2-billion global medium term note programme.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/muthoot-finance-raises-600-million-in-senior-secured-notes-at-6-375/articleshow/123687908.cms
+- Delta Corp, Nazara Technologies shares slide up to 7% after GST Council imposes 40% levy on casinos, gaming
+  Delta Corp faced a 7.2% drop, while Nazara Technologies also experienced a decline. This decision comes after Delta Corp shelved its Goa resort-cum-casino project due to GST uncertainty.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/delta-corp-nazara-technologies-shares-slide-up-to-7-after-gst-council-imposes-40-levy-on-casinos-gaming/articleshow/123691127.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  Indian equities closed higher, propelled by a surge in metal stocks and optimism surrounding the GST Council meeting. Market analysts anticipate range-bound movement, influenced by global cues and sector-specific developments.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/123681369.cms
+- Why No Action Against Russia? Trump Snaps At Reporter With "India" Reply - NDTV
+  The White House has refused to take action
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaktXNkFfWkdVWUFoRjB5M2Fsb2RoR3VqWUVDNlZZR0ItMFFmVjdsazlqcmtKcl85ZUQwd2U4STJJQWhhaXRWTmpwbUdLUWQ3M2FrTDkxNDNZWGt1M1JSWEVkTXR2OVY3Ukl4VGRodFFFMUtQZFFHUDYydS1jby1iTGI1T3VkNGJuVlNiY1lNR2tHWjBNYmJnZGtRMGR1STNLRW5PQm1ZaXVudGV4TXRTTl9qenBpQ1VJMXZNTlhGc1dqQVNSSklMUlVmaTBEbmp5VzV0NmhQQdIB3wFBVV95cUxNdGM5YVJfR3VWVmtjQzVRNVV0Q2k2eUxqNkJhN2FrNTBwdGFBQ3ZGTzJwTV9PTWRvVlFrYk16M3JIT1R3SldFU2l2WHMyRVc1dGxxWGR2c1k2M3pmTkthQlBoaDMzX0NhUkdLQkpzN0ROUXJiYS0xUmxKZ0Y2cHMzQnpqUWtkZnlCT0lvdWczaE43RFMtckhQWUczZ2h3WUxVWTlMNlR6Q1FEUXNycG54dUZiMGt3bzdXWHFlMDdVWUtPX2IwQWMtU1FXNVJKQTdJZE5pWER3aEJXZkZ3eUw4?oc=5
 
-- Stocks in news: Jio Financial, Swiggy, Aptus Value Housing, Coal India, Maruti Suzuki
-  Key highlights include BHEL securing a ₹2,600 crore order and Swiggy raising platform fees in high-demand areas. Coal India is venturing into renewable energy with significant solar and wind power plant tenders.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-jio-financial-swiggy-aptus-value-housing-coal-india-maruti-suzuki/articleshow/123681316.cms
+- India killed U.S. with tariffs, now offers ‘no tariffs’: Trump - The Hindu
+  India killed U.S. with tariffs,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXhfNUhhWmMxZVpFQVlLaHF0UnBJcEFhbzdQdVpxMHZxRVdmbkhKSng0bklUdk9XTmE0RUp4X2tFTERQOEo2cVFQaDR1NjdHckpMT3lvdTEtdWlmYWVDa01ZRl9IUzJBQmE0ZS15UUNNMlBfcWx1OWl5T3hjWWpTNmtBOXp1YUNFVzU4eU5NQWZhTzRZcC03QmZSQnJpTmNvNnEwXzAwc20yd2U5QmhhUGV5eEdmQ0V5dklRb9IBwwFBVV95cUxQTmFVZnNxcE45VW91di00S3BKZEZXZWNEN1p0UTB2M2xmdUZqN2lLdTF2NUUtZ1ZqbjFPZXRzdW9KcmtPbWFZSmt1V2p2OUlTcS1zaGU5dzBQMHNQZEhnTmROLVdXc183MjNITTRyM2NYSWc5aUJKb0MxR01MWU5NWEJXT0VmTWM5djZuUkxJSkw3NDRudUswWTBIUXJLMFRMc3NUeTNtbFRxdUFrcmk4cU5XcUE5b1dVVnl1ZWE5M1B4bTA?oc=5
 
-- 'Colonial Era Over... Can't Use This Tone': Putin Defends India Amid US Tariffs - NDTV
-  'Colonial Era Over... Can't Use This Tone
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNbm91S0FKR3VIYmo1RkpZTDFJRUJwS2RRMUJzNGVaaU05VlAxaVJYUmZJYUE0d2tEZWpuUHpKZnJoMUZlVFFGQU9lVmxHTHRTSjhmNWJQOENjbVlydmh2eTRDeHplRXNUSlRLZ3pfR3IyUHpiNFAyMFBMWjh3NUE3dFlFMmFlVGM1MXk2WUh2LXFyNXUwakMxN0c4Z296RWR6dzMzUE1sT1hVRkpwaFZnQ0RvWHBuOTlTVk4wSXh30gHGAUFVX3lxTFBVRUdjWllyZFJSTnpOa0J0WlBiNl90Z3B4NzNBa3pXWjAxTENIQ1htMkIwTXB0NzRpR2c1MlNDM1NySi1YNWVDLTU1YjNsWXpkRjdNTjhfYmktWFBWWjg5N2l1enVPNEdRS2Y0Y2VsbldOYlpWNWQ0UXV0NHdXSlZ6VkxmQ3pPckpHT29PdkRHU2pYUk11dG5HUHdVQmREMXlwWHE3U1V6YWNVUTVRcHRGdVJwX3VEWVZuVWhHejZzcDRKU3lsdw?oc=5
+- GST Reforms: FAQs On What Changes - NDTV
+  GST Reforms
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUIxMkl4cWJHUVhFTXQ4ZGktdTBsbklaRWZiMlo4MkR5VWR4RldpaDF1NktyWGRNRjNDczVrby1DNFpBWXYyNWJtVGNES19HM1NudTNwMW1HUUlBb2Q5YkNvNzd4RTRUcHhsdXJjMG5UQkNyMjRLeVFRWDRTOGpkeG8xaHp3blhCTTVYRE5VRmQyN0dXS18tRzJjQWRFS0wyY1NEekF4MEVzd2UwS3ZoTllZaHF2LXfSAb8BQVVfeXFMT1FmTEV1X0I3Z0dBX3RIaWR4WDZWU0VkM3FLc2F5RWF2TVRZSFJTUDY2d3pFXzVOODlNUzZzVU5LQmRLS1htWHBlY3pETDM2VzhGM1h0M2ZtSmV1YncyblExcFpDa1Y2Sk00Q0d0VVk4MmdxUGJEUnVQUXhHM0ktR05ZUF82VmdUd19vUjdKN0djMUN3U2MtcG9aQzRNOU9YdGxLLTRfV0RadVRrMW5Xc1VhNlVUdm9aUER0eGxvblU?oc=5
 
-- Donald Trump's big statement: India ‘kills us with tariffs’; again claims New Delhi offered ‘no tariff’ d - Times of India
-  Donald Trump's big statement: India ‘kills us with tariffs’;
-  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxNUThyVEZSMFVXLWU5aXZWRWVaVmROVXVkQXVaalRsOGpwcHFhamlnNURtV3dGUUJPLUdpME1qWGczbGhzWTNlT3lzQ0lmaEtwSVJXYTFBNVYxNDRBajRZaFV6TmlwcUsta0xrSkVIOHQ3SG9GQlNxb1ZzMWpCcFZrdXNSZENkZDRxRHhqQVczUGItRG9tNW4xbGp3ZmlrWW9wRVFRdXNodVU3azRHcUZ1Zm5FQmNyeVVETVZPQ185Q1U5WGo2RDNSeUdTVU8yeFdrbVFndjJjUGpxSzFZX2RSRGtCQVhkTG1GOEtHMnNfQmFIdUt3OTJ2LXBEeWQyYjlheDNnbldqVEtXRjhDNzBWU0xHbkdkd9IBmwJBVV95cUxPWGQzVDRFTzJlampVWnlIeGd4X1Z3OWh0em9vblAwWThIWkpnRU4teVQyaFNDbGx2Q1R5RHZaSGJLX0JGOHhNVkx5bDlRYWxvLXMzcFhjWXFJOF9PbXBkVVlTX3VQUWMxX1JfTEZjSWVYcTNqWEo1ZnRfYnBPYjN3VmlpN093UDVsRXhXQjlPUk1zVlo4QzZYR0NBODNOY2otOG5FWUh1R1dUQnNVMWlUNFAtQzhncHpvM0ZRMHlCQ2Z3SVJUV2xTN0YxN1p2aXkwdWozM093TzFfYm90LUxvU2U4NGp1TzhmYXhpcWxzeFFSTXJlQUhkYjh5SGFWS1dRa0tpZ0FrQWw0MTlBRURpQzN1WkQxdl9LQUNF?oc=5
+- Is Trump trying to punish India's prized IT sector next? - India Today
+  Is Trump trying to punish India's prized IT
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNTzFzSERsTTh5blpyR3pKZlpaWjVMRHhnWWN1MldLU0JTbE9yaFAzaW9HQzZSVkgwRGEzQUFacmNDcm83Z2tERm52YnpQcmwzX1ZHQlpFZGtGLThUQ1BVc19QZHF5MkZwa1BSRmx5aURPQnBzSmVXTlRzZXo0TFJ1NHVtYXNFS3BfNXRiaDdWaVFtWFlvY0Y2eHFmSUZKZ3pOR05IQXRPQUpzYjdhRGhzZW00NjI2WHo5a1pONkRYaDVzY01rY0FTX2lQeEQ4MG0yMXZlOXBQTnRxd3N2a2d3ZFZLTGo3MlItU2xNdE5CcTdGNm9WbzZCTFYtWUsxaG93MnlERExPejNlV3ox0gGSAkFVX3lxTFBqWjFzZjNSVkRwU1pQYUVIOWxqdnNfVWJzV0RaUmlqOW1GZHZSLU1KOTRBM3lETG5zV0x0SkFLLTRhTnJuRnNuODVteXhrVHBZRDIyNTZINUFjUDNzN2pnZHd5SnlNbGRGQXI2SFlmNHR4TXgyMnlVeHNyLWVvWFNiQkJmbzJCdlQtcFNUeEl6TlJXWktWY2RSZTgweHVtQ1otT1BHRGZpTldfcExieXhnUC1ZSXVlS05ZbHdGT0VBSGRUOW83Q2pfTWg0VEdYdi1nOXRhcmRsbGp6YXhqLTY4V3NUOVVfSzRmMVpYNkNKRTlmX2NGRkVFbDREYmdKVjJGUGh1Yl8zR0pLNEd1Q3BVNFE?oc=5
 
-- No prosecution of minorities entering India after 2014: MHA - The Indian Express
-  No prosecution of minorities entering India after 2014:
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPUEE2R3Zodl9ib0lvV2ZXeXozREVBS0ZMM0RIbUNyYXpIbC1mcmU4NF9pQWJoZC1kakhuY2J1TTNEQjlLeTZKajFSOUxfQUNLN2FYckswM0loYzJxWm9HWGlhSG52S3BQQnZxdVpsbWtHUmRqdEZySThCbWI0N1lwQ1BFT2MtbHJ6N1BDcGdpRElwNkh0STNNZFBTY29oUzROeUVNSGc4QmczeDFo?oc=5
+- 'India's got big problems': Trump hints at 'phase-2, phase-3' of 'sanctions' over Russian oil purchase - - The Times of India
+  'India's got big problems': Trump hints at 'phase-2, phase-
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNOHVObG1HRDNiTHAwMTZwckU5TGFELTZCQV9NeUZSVEVjV3loWmlrWGNFNklFRmN2LUhKUEJjbUhROXlVWFpyQkN1dWxOcGlpbDRZWXR2aHZIUWpRRU5tMzN6VUZLeklxTUw1OGVBU2JZQXJzbWZDbC1faFdUbHdXd3A5aHJjbHdvckJBQnhvd2w1el80SlNCU25janJhd3RlM0R5SlVaQ2pLNUFCMkU0TXZUM1o4MEdkY2MyZU53TXBxUEhzM1VoZHJQWnd1dm4zbnNzdGpURE1HM2ZTbXlELTBwSmxrblo2eGxRbkZ4dEk4c1RVbmZILVgxVEpwYnM0TmlQaTByR0FyV2lBem1HT1lxZ9IBmAJBVV95cUxOU3pZSzRSTVlUYXhWcVMwUEdrdDRPTjZBeDAzNk9lckJ1VjFoTzVlenpsUTQ5U1RzN3pjNWxlUUxHdENlekk5YWZVWndPRzgwdmN1N3ZnY1JPZ0VYUWk4bWk2bjhTQlhpekxCM3drVlkyMXlpSlNFWFFsRFFtWXZiSktSWWtMWVdib1ZJUHMtbjZrSmtQcml0cTFXak9rVG5UWGtMZVNuVThSdGFQdVIyaklPSEdfMEhOUFowY0ozVDhOb00tdWNtVXRERXppLW50cHZtRC1uMnpWWmNCTFJGN1dSSWltSHMxc3Z1T1hIcEw5LWE0cTA5YjZnM1p6azhRZjZvV0sxR1RVT1JiWlo3eDYwN1pITHJa?oc=5
 
-- ‘Our confidence in India backed by proven track record’: Singapore PM Lawrence Wong | Latest News India - Hindustan Times - Hindustan Times
-  ‘Our confidence in India backed by proven track record’: Singapore PM Lawrence Wong.
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNck9XaHJpRWQyYzhyd0Z0bWFQX0tDbzZQOUxnUEFvTHlHREVFZFg0aUhLU2xTaGVjWFg2MlFpdHlnYk5KbVBMU3k5VFBmdUVCWDJJWURnQWR4UjdEcFBDeVdfbTNrcXhoNTEtU3h0SzRrczA1cFo0M1B1M1AxVTJKVmxOcnBDS0psY1FKQVM0VVpHZlpBbC1jb3dma2tlR1VadXVTVEtBYVdkZHJVNGJYMFhWazkyQWFoc2hSaHdpd09xRXRaelFHX1RSelk5amlYdjVCbFRHbTBWZEXSAeABQVVfeXFMTlhCeVF2YTc5SGpPUlZId05TRE9oTGNvZHhnSmpBTUhGTlhjOHZoSnpoTl9DdEZiR2w1UzQwdEM0bjZSOG9EYlRZYjgyZS0tSU5wYUlNLTFFVnRPdnRtMkxsUThKZzZsX1k1RjdIYUJfOTZId0YwenFJcmVHbzZveHZmM0tnYzRpWkdRUXNXdDluc01IY0tDQlRrLWtzdzhVSUNXcWE4TEFZMGc1UWRHWGdsb19weVVISmpHakJ3aVpoVWlZRXgtTXkzRTJNdWktaURXVXNsUnBuSi1DREJOdGc?oc=5
+- Why No Action Against Russia? Trump Snaps At Reporter With "India" Reply - NDTV
+  The White House has refused to take action
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaktXNkFfWkdVWUFoRjB5M2Fsb2RoR3VqWUVDNlZZR0ItMFFmVjdsazlqcmtKcl85ZUQwd2U4STJJQWhhaXRWTmpwbUdLUWQ3M2FrTDkxNDNZWGt1M1JSWEVkTXR2OVY3Ukl4VGRodFFFMUtQZFFHUDYydS1jby1iTGI1T3VkNGJuVlNiY1lNR2tHWjBNYmJnZGtRMGR1STNLRW5PQm1ZaXVudGV4TXRTTl9qenBpQ1VJMXZNTlhGc1dqQVNSSklMUlVmaTBEbmp5VzV0NmhQQdIB3wFBVV95cUxNdGM5YVJfR3VWVmtjQzVRNVV0Q2k2eUxqNkJhN2FrNTBwdGFBQ3ZGTzJwTV9PTWRvVlFrYk16M3JIT1R3SldFU2l2WHMyRVc1dGxxWGR2c1k2M3pmTkthQlBoaDMzX0NhUkdLQkpzN0ROUXJiYS0xUmxKZ0Y2cHMzQnpqUWtkZnlCT0lvdWczaE43RFMtckhQWUczZ2h3WUxVWTlMNlR6Q1FEUXNycG54dUZiMGt3bzdXWHFlMDdVWUtPX2IwQWMtU1FXNVJKQTdJZE5pWER3aEJXZkZ3eUw4?oc=5
 
-- United Naga Council declares trade embargo - The Indian Express
-  United Naga Council declares trade
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGw5cFZkcDhjS1NBV2ZoenFMZDIwXzR4TjltSWRXREtTMWtFNEJjcFFERjB1RnplbFl2aXFWY3h1V0tQTzJlNGJrR21sZWlPWXFncFEwUEMxNHNCYU9TOFJLU2ozMDFLZEp3eDNSUjV2Q1BVdDVJd05nWGVjRUZ5VXpsV1pYcUg3ZVNfWVc2emZqQ1AzMTd30gGeAUFVX3lxTE9oZWEzQUFnb0xJaG0tVlpVR2FaX2ZCdFFObldTNEpNY1BQREpKUVQxaEtxRUw2WTMyTUcyS0pYeFZNRnZFOHlHcFZtZVRZQ0p5ckR6V1IzNmctU3RTRjdtYlJvN3U4bW1SQXlub2tSdTk1YzFmUjZOUkxpalJQSUpZWFo2ZXRTTjFPS2lGaFNaeTlQX2oxZXE3SkxmZFVB?oc=5
+- India killed U.S. with tariffs, now offers ‘no tariffs’: Trump - The Hindu
+  India killed U.S. with tariffs,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXhfNUhhWmMxZVpFQVlLaHF0UnBJcEFhbzdQdVpxMHZxRVdmbkhKSng0bklUdk9XTmE0RUp4X2tFTERQOEo2cVFQaDR1NjdHckpMT3lvdTEtdWlmYWVDa01ZRl9IUzJBQmE0ZS15UUNNMlBfcWx1OWl5T3hjWWpTNmtBOXp1YUNFVzU4eU5NQWZhTzRZcC03QmZSQnJpTmNvNnEwXzAwc20yd2U5QmhhUGV5eEdmQ0V5dklRb9IBwwFBVV95cUxQTmFVZnNxcE45VW91di00S3BKZEZXZWNEN1p0UTB2M2xmdUZqN2lLdTF2NUUtZ1ZqbjFPZXRzdW9KcmtPbWFZSmt1V2p2OUlTcS1zaGU5dzBQMHNQZEhnTmROLVdXc183MjNITTRyM2NYSWc5aUJKb0MxR01MWU5NWEJXT0VmTWM5djZuUkxJSkw3NDRudUswWTBIUXJLMFRMc3NUeTNtbFRxdUFrcmk4cU5XcUE5b1dVVnl1ZWE5M1B4bTA?oc=5
 
-- 'Colonial Era Over... Can't Use This Tone': Putin Defends India Amid US Tariffs - NDTV
-  'Colonial Era Over... Can't Use This Tone
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNbm91S0FKR3VIYmo1RkpZTDFJRUJwS2RRMUJzNGVaaU05VlAxaVJYUmZJYUE0d2tEZWpuUHpKZnJoMUZlVFFGQU9lVmxHTHRTSjhmNWJQOENjbVlydmh2eTRDeHplRXNUSlRLZ3pfR3IyUHpiNFAyMFBMWjh3NUE3dFlFMmFlVGM1MXk2WUh2LXFyNXUwakMxN0c4Z296RWR6dzMzUE1sT1hVRkpwaFZnQ0RvWHBuOTlTVk4wSXh30gHGAUFVX3lxTFBVRUdjWllyZFJSTnpOa0J0WlBiNl90Z3B4NzNBa3pXWjAxTENIQ1htMkIwTXB0NzRpR2c1MlNDM1NySi1YNWVDLTU1YjNsWXpkRjdNTjhfYmktWFBWWjg5N2l1enVPNEdRS2Y0Y2VsbldOYlpWNWQ0UXV0NHdXSlZ6VkxmQ3pPckpHT29PdkRHU2pYUk11dG5HUHdVQmREMXlwWHE3U1V6YWNVUTVRcHRGdVJwX3VEWVZuVWhHejZzcDRKU3lsdw?oc=5
+- GST Reforms: FAQs On What Changes - NDTV
+  GST Reforms
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUIxMkl4cWJHUVhFTXQ4ZGktdTBsbklaRWZiMlo4MkR5VWR4RldpaDF1NktyWGRNRjNDczVrby1DNFpBWXYyNWJtVGNES19HM1NudTNwMW1HUUlBb2Q5YkNvNzd4RTRUcHhsdXJjMG5UQkNyMjRLeVFRWDRTOGpkeG8xaHp3blhCTTVYRE5VRmQyN0dXS18tRzJjQWRFS0wyY1NEekF4MEVzd2UwS3ZoTllZaHF2LXfSAb8BQVVfeXFMT1FmTEV1X0I3Z0dBX3RIaWR4WDZWU0VkM3FLc2F5RWF2TVRZSFJTUDY2d3pFXzVOODlNUzZzVU5LQmRLS1htWHBlY3pETDM2VzhGM1h0M2ZtSmV1YncyblExcFpDa1Y2Sk00Q0d0VVk4MmdxUGJEUnVQUXhHM0ktR05ZUF82VmdUd19vUjdKN0djMUN3U2MtcG9aQzRNOU9YdGxLLTRfV0RadVRrMW5Xc1VhNlVUdm9aUER0eGxvblU?oc=5
 
-- Donald Trump's big statement: India ‘kills us with tariffs’; again claims New Delhi offered ‘no tariff’ d - Times of India
-  Donald Trump's big statement: India ‘kills us with tariffs’;
-  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxNUThyVEZSMFVXLWU5aXZWRWVaVmROVXVkQXVaalRsOGpwcHFhamlnNURtV3dGUUJPLUdpME1qWGczbGhzWTNlT3lzQ0lmaEtwSVJXYTFBNVYxNDRBajRZaFV6TmlwcUsta0xrSkVIOHQ3SG9GQlNxb1ZzMWpCcFZrdXNSZENkZDRxRHhqQVczUGItRG9tNW4xbGp3ZmlrWW9wRVFRdXNodVU3azRHcUZ1Zm5FQmNyeVVETVZPQ185Q1U5WGo2RDNSeUdTVU8yeFdrbVFndjJjUGpxSzFZX2RSRGtCQVhkTG1GOEtHMnNfQmFIdUt3OTJ2LXBEeWQyYjlheDNnbldqVEtXRjhDNzBWU0xHbkdkd9IBmwJBVV95cUxPWGQzVDRFTzJlampVWnlIeGd4X1Z3OWh0em9vblAwWThIWkpnRU4teVQyaFNDbGx2Q1R5RHZaSGJLX0JGOHhNVkx5bDlRYWxvLXMzcFhjWXFJOF9PbXBkVVlTX3VQUWMxX1JfTEZjSWVYcTNqWEo1ZnRfYnBPYjN3VmlpN093UDVsRXhXQjlPUk1zVlo4QzZYR0NBODNOY2otOG5FWUh1R1dUQnNVMWlUNFAtQzhncHpvM0ZRMHlCQ2Z3SVJUV2xTN0YxN1p2aXkwdWozM093TzFfYm90LUxvU2U4NGp1TzhmYXhpcWxzeFFSTXJlQUhkYjh5SGFWS1dRa0tpZ0FrQWw0MTlBRURpQzN1WkQxdl9LQUNF?oc=5
+- Is Trump trying to punish India's prized IT sector next? - India Today
+  Is Trump trying to punish India's prized IT
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNTzFzSERsTTh5blpyR3pKZlpaWjVMRHhnWWN1MldLU0JTbE9yaFAzaW9HQzZSVkgwRGEzQUFacmNDcm83Z2tERm52YnpQcmwzX1ZHQlpFZGtGLThUQ1BVc19QZHF5MkZwa1BSRmx5aURPQnBzSmVXTlRzZXo0TFJ1NHVtYXNFS3BfNXRiaDdWaVFtWFlvY0Y2eHFmSUZKZ3pOR05IQXRPQUpzYjdhRGhzZW00NjI2WHo5a1pONkRYaDVzY01rY0FTX2lQeEQ4MG0yMXZlOXBQTnRxd3N2a2d3ZFZLTGo3MlItU2xNdE5CcTdGNm9WbzZCTFYtWUsxaG93MnlERExPejNlV3ox0gGSAkFVX3lxTFBqWjFzZjNSVkRwU1pQYUVIOWxqdnNfVWJzV0RaUmlqOW1GZHZSLU1KOTRBM3lETG5zV0x0SkFLLTRhTnJuRnNuODVteXhrVHBZRDIyNTZINUFjUDNzN2pnZHd5SnlNbGRGQXI2SFlmNHR4TXgyMnlVeHNyLWVvWFNiQkJmbzJCdlQtcFNUeEl6TlJXWktWY2RSZTgweHVtQ1otT1BHRGZpTldfcExieXhnUC1ZSXVlS05ZbHdGT0VBSGRUOW83Q2pfTWg0VEdYdi1nOXRhcmRsbGp6YXhqLTY4V3NUOVVfSzRmMVpYNkNKRTlmX2NGRkVFbDREYmdKVjJGUGh1Yl8zR0pLNEd1Q3BVNFE?oc=5
 
-- No prosecution of minorities entering India after 2014: MHA - The Indian Express
-  No prosecution of minorities entering India after 2014:
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPUEE2R3Zodl9ib0lvV2ZXeXozREVBS0ZMM0RIbUNyYXpIbC1mcmU4NF9pQWJoZC1kakhuY2J1TTNEQjlLeTZKajFSOUxfQUNLN2FYckswM0loYzJxWm9HWGlhSG52S3BQQnZxdVpsbWtHUmRqdEZySThCbWI0N1lwQ1BFT2MtbHJ6N1BDcGdpRElwNkh0STNNZFBTY29oUzROeUVNSGc4QmczeDFo?oc=5
+- 'India's got big problems': Trump hints at 'phase-2, phase-3' of 'sanctions' over Russian oil purchase - - The Times of India
+  'India's got big problems': Trump hints at 'phase-2, phase-
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNOHVObG1HRDNiTHAwMTZwckU5TGFELTZCQV9NeUZSVEVjV3loWmlrWGNFNklFRmN2LUhKUEJjbUhROXlVWFpyQkN1dWxOcGlpbDRZWXR2aHZIUWpRRU5tMzN6VUZLeklxTUw1OGVBU2JZQXJzbWZDbC1faFdUbHdXd3A5aHJjbHdvckJBQnhvd2w1el80SlNCU25janJhd3RlM0R5SlVaQ2pLNUFCMkU0TXZUM1o4MEdkY2MyZU53TXBxUEhzM1VoZHJQWnd1dm4zbnNzdGpURE1HM2ZTbXlELTBwSmxrblo2eGxRbkZ4dEk4c1RVbmZILVgxVEpwYnM0TmlQaTByR0FyV2lBem1HT1lxZ9IBmAJBVV95cUxOU3pZSzRSTVlUYXhWcVMwUEdrdDRPTjZBeDAzNk9lckJ1VjFoTzVlenpsUTQ5U1RzN3pjNWxlUUxHdENlekk5YWZVWndPRzgwdmN1N3ZnY1JPZ0VYUWk4bWk2bjhTQlhpekxCM3drVlkyMXlpSlNFWFFsRFFtWXZiSktSWWtMWVdib1ZJUHMtbjZrSmtQcml0cTFXak9rVG5UWGtMZVNuVThSdGFQdVIyaklPSEdfMEhOUFowY0ozVDhOb00tdWNtVXRERXppLW50cHZtRC1uMnpWWmNCTFJGN1dSSWltSHMxc3Z1T1hIcEw5LWE0cTA5YjZnM1p6azhRZjZvV0sxR1RVT1JiWlo3eDYwN1pITHJa?oc=5
 
-- ‘Our confidence in India backed by proven track record’: Singapore PM Lawrence Wong | Latest News India - Hindustan Times - Hindustan Times
-  ‘Our confidence in India backed by proven track record’: Singapore PM Lawrence Wong.
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNck9XaHJpRWQyYzhyd0Z0bWFQX0tDbzZQOUxnUEFvTHlHREVFZFg0aUhLU2xTaGVjWFg2MlFpdHlnYk5KbVBMU3k5VFBmdUVCWDJJWURnQWR4UjdEcFBDeVdfbTNrcXhoNTEtU3h0SzRrczA1cFo0M1B1M1AxVTJKVmxOcnBDS0psY1FKQVM0VVpHZlpBbC1jb3dma2tlR1VadXVTVEtBYVdkZHJVNGJYMFhWazkyQWFoc2hSaHdpd09xRXRaelFHX1RSelk5amlYdjVCbFRHbTBWZEXSAeABQVVfeXFMTlhCeVF2YTc5SGpPUlZId05TRE9oTGNvZHhnSmpBTUhGTlhjOHZoSnpoTl9DdEZiR2w1UzQwdEM0bjZSOG9EYlRZYjgyZS0tSU5wYUlNLTFFVnRPdnRtMkxsUThKZzZsX1k1RjdIYUJfOTZId0YwenFJcmVHbzZveHZmM0tnYzRpWkdRUXNXdDluc01IY0tDQlRrLWtzdzhVSUNXcWE4TEFZMGc1UWRHWGdsb19weVVISmpHakJ3aVpoVWlZRXgtTXkzRTJNdWktaURXVXNsUnBuSi1DREJOdGc?oc=5
+- Why No Action Against Russia? Trump Snaps At Reporter With "India" Reply - NDTV
+  The White House has refused to take action
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaktXNkFfWkdVWUFoRjB5M2Fsb2RoR3VqWUVDNlZZR0ItMFFmVjdsazlqcmtKcl85ZUQwd2U4STJJQWhhaXRWTmpwbUdLUWQ3M2FrTDkxNDNZWGt1M1JSWEVkTXR2OVY3Ukl4VGRodFFFMUtQZFFHUDYydS1jby1iTGI1T3VkNGJuVlNiY1lNR2tHWjBNYmJnZGtRMGR1STNLRW5PQm1ZaXVudGV4TXRTTl9qenBpQ1VJMXZNTlhGc1dqQVNSSklMUlVmaTBEbmp5VzV0NmhQQdIB3wFBVV95cUxNdGM5YVJfR3VWVmtjQzVRNVV0Q2k2eUxqNkJhN2FrNTBwdGFBQ3ZGTzJwTV9PTWRvVlFrYk16M3JIT1R3SldFU2l2WHMyRVc1dGxxWGR2c1k2M3pmTkthQlBoaDMzX0NhUkdLQkpzN0ROUXJiYS0xUmxKZ0Y2cHMzQnpqUWtkZnlCT0lvdWczaE43RFMtckhQWUczZ2h3WUxVWTlMNlR6Q1FEUXNycG54dUZiMGt3bzdXWHFlMDdVWUtPX2IwQWMtU1FXNVJKQTdJZE5pWER3aEJXZkZ3eUw4?oc=5
 
-- United Naga Council declares trade embargo - The Indian Express
-  United Naga Council declares trade
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGw5cFZkcDhjS1NBV2ZoenFMZDIwXzR4TjltSWRXREtTMWtFNEJjcFFERjB1RnplbFl2aXFWY3h1V0tQTzJlNGJrR21sZWlPWXFncFEwUEMxNHNCYU9TOFJLU2ozMDFLZEp3eDNSUjV2Q1BVdDVJd05nWGVjRUZ5VXpsV1pYcUg3ZVNfWVc2emZqQ1AzMTd30gGeAUFVX3lxTE9oZWEzQUFnb0xJaG0tVlpVR2FaX2ZCdFFObldTNEpNY1BQREpKUVQxaEtxRUw2WTMyTUcyS0pYeFZNRnZFOHlHcFZtZVRZQ0p5ckR6V1IzNmctU3RTRjdtYlJvN3U4bW1SQXlub2tSdTk1YzFmUjZOUkxpalJQSUpZWFo2ZXRTTjFPS2lGaFNaeTlQX2oxZXE3SkxmZFVB?oc=5
+- India killed U.S. with tariffs, now offers ‘no tariffs’: Trump - The Hindu
+  India killed U.S. with tariffs,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXhfNUhhWmMxZVpFQVlLaHF0UnBJcEFhbzdQdVpxMHZxRVdmbkhKSng0bklUdk9XTmE0RUp4X2tFTERQOEo2cVFQaDR1NjdHckpMT3lvdTEtdWlmYWVDa01ZRl9IUzJBQmE0ZS15UUNNMlBfcWx1OWl5T3hjWWpTNmtBOXp1YUNFVzU4eU5NQWZhTzRZcC03QmZSQnJpTmNvNnEwXzAwc20yd2U5QmhhUGV5eEdmQ0V5dklRb9IBwwFBVV95cUxQTmFVZnNxcE45VW91di00S3BKZEZXZWNEN1p0UTB2M2xmdUZqN2lLdTF2NUUtZ1ZqbjFPZXRzdW9KcmtPbWFZSmt1V2p2OUlTcS1zaGU5dzBQMHNQZEhnTmROLVdXc183MjNITTRyM2NYSWc5aUJKb0MxR01MWU5NWEJXT0VmTWM5djZuUkxJSkw3NDRudUswWTBIUXJLMFRMc3NUeTNtbFRxdUFrcmk4cU5XcUE5b1dVVnl1ZWE5M1B4bTA?oc=5
+
+- GST Reforms: FAQs On What Changes - NDTV
+  GST Reforms
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUIxMkl4cWJHUVhFTXQ4ZGktdTBsbklaRWZiMlo4MkR5VWR4RldpaDF1NktyWGRNRjNDczVrby1DNFpBWXYyNWJtVGNES19HM1NudTNwMW1HUUlBb2Q5YkNvNzd4RTRUcHhsdXJjMG5UQkNyMjRLeVFRWDRTOGpkeG8xaHp3blhCTTVYRE5VRmQyN0dXS18tRzJjQWRFS0wyY1NEekF4MEVzd2UwS3ZoTllZaHF2LXfSAb8BQVVfeXFMT1FmTEV1X0I3Z0dBX3RIaWR4WDZWU0VkM3FLc2F5RWF2TVRZSFJTUDY2d3pFXzVOODlNUzZzVU5LQmRLS1htWHBlY3pETDM2VzhGM1h0M2ZtSmV1YncyblExcFpDa1Y2Sk00Q0d0VVk4MmdxUGJEUnVQUXhHM0ktR05ZUF82VmdUd19vUjdKN0djMUN3U2MtcG9aQzRNOU9YdGxLLTRfV0RadVRrMW5Xc1VhNlVUdm9aUER0eGxvblU?oc=5
+
+- Is Trump trying to punish India's prized IT sector next? - India Today
+  Is Trump trying to punish India's prized IT
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNTzFzSERsTTh5blpyR3pKZlpaWjVMRHhnWWN1MldLU0JTbE9yaFAzaW9HQzZSVkgwRGEzQUFacmNDcm83Z2tERm52YnpQcmwzX1ZHQlpFZGtGLThUQ1BVc19QZHF5MkZwa1BSRmx5aURPQnBzSmVXTlRzZXo0TFJ1NHVtYXNFS3BfNXRiaDdWaVFtWFlvY0Y2eHFmSUZKZ3pOR05IQXRPQUpzYjdhRGhzZW00NjI2WHo5a1pONkRYaDVzY01rY0FTX2lQeEQ4MG0yMXZlOXBQTnRxd3N2a2d3ZFZLTGo3MlItU2xNdE5CcTdGNm9WbzZCTFYtWUsxaG93MnlERExPejNlV3ox0gGSAkFVX3lxTFBqWjFzZjNSVkRwU1pQYUVIOWxqdnNfVWJzV0RaUmlqOW1GZHZSLU1KOTRBM3lETG5zV0x0SkFLLTRhTnJuRnNuODVteXhrVHBZRDIyNTZINUFjUDNzN2pnZHd5SnlNbGRGQXI2SFlmNHR4TXgyMnlVeHNyLWVvWFNiQkJmbzJCdlQtcFNUeEl6TlJXWktWY2RSZTgweHVtQ1otT1BHRGZpTldfcExieXhnUC1ZSXVlS05ZbHdGT0VBSGRUOW83Q2pfTWg0VEdYdi1nOXRhcmRsbGp6YXhqLTY4V3NUOVVfSzRmMVpYNkNKRTlmX2NGRkVFbDREYmdKVjJGUGh1Yl8zR0pLNEd1Q3BVNFE?oc=5
+
+- 'India's got big problems': Trump hints at 'phase-2, phase-3' of 'sanctions' over Russian oil purchase - - The Times of India
+  'India's got big problems': Trump hints at 'phase-2, phase-
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNOHVObG1HRDNiTHAwMTZwckU5TGFELTZCQV9NeUZSVEVjV3loWmlrWGNFNklFRmN2LUhKUEJjbUhROXlVWFpyQkN1dWxOcGlpbDRZWXR2aHZIUWpRRU5tMzN6VUZLeklxTUw1OGVBU2JZQXJzbWZDbC1faFdUbHdXd3A5aHJjbHdvckJBQnhvd2w1el80SlNCU25janJhd3RlM0R5SlVaQ2pLNUFCMkU0TXZUM1o4MEdkY2MyZU53TXBxUEhzM1VoZHJQWnd1dm4zbnNzdGpURE1HM2ZTbXlELTBwSmxrblo2eGxRbkZ4dEk4c1RVbmZILVgxVEpwYnM0TmlQaTByR0FyV2lBem1HT1lxZ9IBmAJBVV95cUxOU3pZSzRSTVlUYXhWcVMwUEdrdDRPTjZBeDAzNk9lckJ1VjFoTzVlenpsUTQ5U1RzN3pjNWxlUUxHdENlekk5YWZVWndPRzgwdmN1N3ZnY1JPZ0VYUWk4bWk2bjhTQlhpekxCM3drVlkyMXlpSlNFWFFsRFFtWXZiSktSWWtMWVdib1ZJUHMtbjZrSmtQcml0cTFXak9rVG5UWGtMZVNuVThSdGFQdVIyaklPSEdfMEhOUFowY0ozVDhOb00tdWNtVXRERXppLW50cHZtRC1uMnpWWmNCTFJGN1dSSWltSHMxc3Z1T1hIcEw5LWE0cTA5YjZnM1p6azhRZjZvV0sxR1RVT1JiWlo3eDYwN1pITHJa?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-04 01:08:02 UTC_
+_Last updated: 2025-09-04 06:26:06 UTC_
