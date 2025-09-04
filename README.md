@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- GST overhaul: From soaps to small cars, what gets cheaper and what’s costlier now
+- Meditation to prosthetics, helping Ukrainians allay war trauma
   
-  🔗 https://indianexpress.com/article/india/gst-reforms-soaps-small-cars-what-gets-cheaper-what-gets-costlier-10228731/
+  🔗 https://indianexpress.com/article/india/meditation-to-prosthetics-helping-ukrainians-allay-war-trauma-10229041/
 
-- Rajasthan Assembly passes ‘historic’ coaching centre Bill, Opposition claims it fails to address previous concerns
+- BJP meet on Bihar: SIR stir, insult of PM’s mother discussed
   
-  🔗 https://indianexpress.com/article/india/rajasthan-assembly-passes-historic-coaching-centre-bill-opposition-claims-it-fails-to-address-previous-concerns-10228723/
+  🔗 https://indianexpress.com/article/india/bjp-meet-on-bihar-sir-stir-insult-of-pms-mother-discussed-10228998/
 
-- ‘Will improve lives of citizens, ensure ease of doing business’: PM Modi hails ‘next-generation’ GST reforms
+- No prosecution of minorities entering India after 2014: MHA
   
-  🔗 https://indianexpress.com/article/india/will-improve-lives-of-citizens-ensure-ease-of-doing-business-pm-modi-hails-next-generation-gst-reforms-10228717/
+  🔗 https://indianexpress.com/article/india/no-prosecution-of-minorities-entering-india-after-2014-mha-10229042/
 
-- IIT Madras professor Mitesh Khapra in TIME’s list of 100 most influential people in AI
+- India to enact law to protect its interest in high seas, following BBNJ agreement
   
-  🔗 https://indianexpress.com/article/india/iit-madras-professor-mitesh-khapra-time-list-influential-people-in-ai-10228628/
+  🔗 https://indianexpress.com/article/india/india-to-enact-law-to-protect-its-interest-in-high-seas-following-bbnj-agreement-10229016/
 
-- Govt will not spare anyone disturbing law and order, says Tripura BJP after TIPRA Motha legislator threatened inside MLA hostel
+- United Naga Council declares trade embargo
   
-  🔗 https://indianexpress.com/article/india/govt-law-and-order-disturb-tripura-bjp-tipra-motha-legislator-10228649/
+  🔗 https://indianexpress.com/article/india/united-naga-council-declares-trade-embargo-10229035/
 
 - Bengaluru startup Upliance AI launches next-gen smart cooking device priced at Rs 39,999
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/google-avoids-breakup-us-antitrust-case-key-takeaways-10228062/
 
+- Corner shops to be fulcrum of consumer goods business: Reliance Consumer's Krishnakumar
+  Reliance Consumer Products has identified general trade (mom-and-pop stores) as the core of its business. On the consumer brand-side, general trade will be almost 90% of the firm's
+  🔗 https://www.livemint.com/companies/reliance-consumer-fmcg-sector-in-india-campa-urban-consumption-in-india-general-trade-mom-and-pop-stores-gdp-11756901151708.html
+
+- HPE Says It’s Weathering Profit Squeeze at Start of New AI Era
+  Hewlett Packard Enterprise Co. Chief Executive Officer Antonio Neri said the company expects to weather a slimming of profit
+  🔗 https://www.livemint.com/companies/news/hpe-says-it-s-weathering-profit-squeeze-at-start-of-new-ai-era-11756942892697.html
+
+- Scale AI Sues Rival Startup Mercor, Alleging Trade Secret Theft
+  Scale AI Inc. sued rival data-labeling startup Mercor, accusing the firm and a
+  🔗 https://www.livemint.com/companies/news/scale-ai-sues-rival-startup-mercor-alleging-trade-secret-theft-11756925019428.html
+
 - Carney Sends Envoys to DC After ‘Very Constructive’ Trump Call
   Mark Carney said Canada and the US are in negotiations to resolve issues in tariff-hit sectors. Carney said he had
   🔗 https://www.livemint.com/companies/news/carney-sends-envoys-to-dc-after-very-constructive-trump-call-11756918349550.html
@@ -48,37 +60,29 @@
   The Trump administration is moving to block the development of more offshore wind projects. It's the latest in a series of high-
   🔗 https://www.livemint.com/companies/news/trump-plans-to-block-iberdrola-massachusetts-wind-projects-11756917136577.html
 
-- Macy’s Lifts Outlook But Still Warns of Fickle Consumer
-  Macy’s Inc. raised its annual outlook and reported its best comparable sales growth in 12 quarters.
-  🔗 https://www.livemint.com/companies/news/macys-lifts-outlook-but-still-warns-of-fickle-consumer-11756916216615.html
+- Global Markets Today: Nikkei 225, Kospi trade higher on Wall Street gains
+  Japan’s Nikkei 225 gained 0.57 per cent in early trade, while the Topix rose 0.41 per cent.
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-trade-higher-on-wall-street-gains-11756946305755.html
 
-- New York City Is in the Midst of a Maximalist Chicken Moment
-  Over-the-top servings of the bird go for as much
-  🔗 https://www.livemint.com/companies/news/new-york-city-is-in-the-midst-of-a-maximalist-chicken-moment-11756915852145.html
+- 3 steel stocks to buy today: Ankush Bajaj's top recommendations for 4 September
+  Market expert Ankush Bajaj recommends three steel stocks to buy today, Thursday, 4 September.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-today-4-september-ankush-bajaj-nifty-sensex-tata-steel-sail-jindal-11756909197747.html
 
-- Jane Street’s India Revenue Shrank Amid Misconduct Allegations
-  Jane Street Group generated just 3% of its first-half net trading revenue from India. The company is fending off
-  🔗 https://www.livemint.com/companies/news/jane-street-s-india-revenue-shrank-amid-misconduct-allegations-11756915729690.html
+- Stocks to buy: Raja Venkatraman's recommendations for 4 September
+  Market expert Raja Venkatraman shares his top two stocks to buy today, 3 September.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatramans-recommendations-4-september-sensex-nifty-11756900805977.html
+
+- Stock recommendations for 4 September from MarketSmith India
+  Stock recommendations from Market
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-4-september-marketsmith-india-sensex-nifty-abbott-india-rashtriya-chemicals-and-fertilizers-11756904122598.html
 
 - NSE to appoint Srinivas Injeti as chairman
   The National Stock Exchange plans to appoint Srinivas Injeti as its chairman, pending approval from Sebi. The position has been vacant since July 2024.
   🔗 https://www.livemint.com/market/nse-to-appoint-srinivas-injeti-as-chairman-11756908669856.html
 
-- Dollar drops against peers, euro gains after US jobs data
-  Dollar drops against peers
-  🔗 https://www.livemint.com/market/stock-market-news/dollar-drops-against-peers-euro-gains-after-us-jobs-data-11756917137157.html
-
-- Treasuries Rebound After Job Openings Data Confirm Slowdown
-  Treasury yields declined Wednesday after a weaker-than-expected report on hiring and firing by US employers in July.
-  🔗 https://www.livemint.com/market/stock-market-news/treasuries-rebound-after-job-openings-data-confirm-slowdown-11756913765401.html
-
-- American Bitcoin, backed by Donald Trump's sons, begins trading on Nasdaq today. Here's all you need to know
-  American Bitcoin, backed by Donald Trump's sons has begun trading on the Nas
-  🔗 https://www.livemint.com/market/cryptocurrency/american-bitcoin-company-backed-donald-trump-sons-eric-donald-jr-begins-trading-nasdaq-september-3-us-stock-markets-news-11756912701984.html
-
-- Wall Street today: US stocks mixed after job openings data, Alphabet jumps 8.3%, Apple surges 8.4%
-  The Dow Jones Industrial Average fell 0.45%, the S&amp;amp
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-today-us-stocks-edge-higher-as-alphabet-gain-after-favorable-antitrust-ruling-11756906876708.html
+- Primer: What good will made-in-India chips really do?
+  India projects electronics industry would be worth $500 billion in five years. Localizing chip
+  🔗 https://www.livemint.com/technology/semiconductor-chip-electronics-ashwini-vaishnaw-asml-technology-india-china-taiwan-nvidia-lithium-11756913751003.html
 
 - India ranks among top 5 contributors to open source projects: CNCF
   India ranks as the fifth-largest contributor to CNCF open
@@ -96,89 +100,93 @@
   We’ve rounded up the best iPadOS tablets, explaining their standout features and exactly who should invest
   🔗 https://www.livemint.com/technology/gadgets/ipados-tablets-that-are-worth-buying-in-2025-top-models-and-who-they-re-best-for-11756896633581.html
 
-- Googles AI rivals get a boost from data-sharing order, but tech giant far from routed
-  Google's AI rivals get a boost from data-sharing
-  🔗 https://www.livemint.com/technology/tech-news/googles-ai-rivals-get-a-boost-from-data-sharing-order-but-tech-giant-far-from-routed-11756893673071.html
+- Metal stocks surge as CLSA predicts recovery amid China's steel capacity cuts
+  CLSA suggests the sector's downturn might be ending. Tata Steel and Jindal Steel experienced significant surges. Analysts predict further upsides for metal stocks.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/metal-stocks-surge-as-clsa-predicts-recovery-amid-chinas-steel-capacity-cuts/articleshow/123687927.cms
 
-- Sharvaya Metals raises Rs 17 crore from anchor investors ahead of IPO launch
-  Sharvaya Metals has secured Rs 17 crore from anchor investors, including NAV Capital and Craft Emerging Market Fund. The IPO includes a fresh issue and offer for sale, with proceeds allocated to capital expenditure.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sharvaya-metals-raises-rs-17-crore-from-anchor-investors-ahead-of-ipo-launch/articleshow/123681686.cms
+- Injeti Srinivas likely to be appointed NSE chairman
+  NSE is poised to appoint Injeti Srinivas, former IFSCA chairman, as its new chairman, pending Sebi's approval. This move occurs as NSE prepares for its IPO and strengthens its board structure.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/injeti-srinivas-likely-to-be-appointed-nse-chairman/articleshow/123687920.cms
 
-- Flexible office space provider Dev Accelerator announces IPO dates. Check details
-  Dev Accelerator, a flexible office space provider under the DevX brand, will launch its IPO on September 10. The three-day issue aims to fund expansion across India and internationally.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/flexible-office-space-provider-dev-accelerator-announces-ipo-dates-check-details/articleshow/123681125.cms
+- Muthoot Finance raises $600 million in senior secured notes at 6.375%
+  Muthoot Finance successfully raised $600 million through senior secured notes at a 6.375% coupon rate, maturing in 2030. Board has approved the allotment under its $2-billion global medium term note programme.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/muthoot-finance-raises-600-million-in-senior-secured-notes-at-6-375/articleshow/123687908.cms
 
-- Euro zone bond yields lower at end of volatile day
-  Euro zone bond yields were set to finish a volatile day lower on Wednesday. U.S. labour market data supported bets on a Federal Reserve rate cut this month.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-lower-at-end-of-volatile-day/articleshow/123680837.cms
+- Pre-market action: Here's the trade setup for today's session
+  Indian equities closed higher, propelled by a surge in metal stocks and optimism surrounding the GST Council meeting. Market analysts anticipate range-bound movement, influenced by global cues and sector-specific developments.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/123681369.cms
 
-- NSE appoints former IFSCA chairman Injeti Srinivas as Public Interest Director
-  The National Stock Exchange (NSE) has appointed Injeti Srinivas, former chairman of the International
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-appoints-former-ifsca-chairman-injeti-srinivas-as-public-interest-director/articleshow/123680660.cms
+- Stocks in news: Jio Financial, Swiggy, Aptus Value Housing, Coal India, Maruti Suzuki
+  Key highlights include BHEL securing a ₹2,600 crore order and Swiggy raising platform fees in high-demand areas. Coal India is venturing into renewable energy with significant solar and wind power plant tenders.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-jio-financial-swiggy-aptus-value-housing-coal-india-maruti-suzuki/articleshow/123681316.cms
 
-- Market Trading Guide: HDFC Bank, EIH among 5 stock recommendations for Thursday
-  Analysts say market sentiment hinges on the outcome of the GST Council meeting in the near term.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-hdfc-bank-eih-among-5-stock-recommendations-for-thursday/slideshow/123680644.cms
+- 'Colonial Era Over... Can't Use This Tone': Putin Defends India Amid US Tariffs - NDTV
+  'Colonial Era Over... Can't Use This Tone
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNbm91S0FKR3VIYmo1RkpZTDFJRUJwS2RRMUJzNGVaaU05VlAxaVJYUmZJYUE0d2tEZWpuUHpKZnJoMUZlVFFGQU9lVmxHTHRTSjhmNWJQOENjbVlydmh2eTRDeHplRXNUSlRLZ3pfR3IyUHpiNFAyMFBMWjh3NUE3dFlFMmFlVGM1MXk2WUh2LXFyNXUwakMxN0c4Z296RWR6dzMzUE1sT1hVRkpwaFZnQ0RvWHBuOTlTVk4wSXh30gHGAUFVX3lxTFBVRUdjWllyZFJSTnpOa0J0WlBiNl90Z3B4NzNBa3pXWjAxTENIQ1htMkIwTXB0NzRpR2c1MlNDM1NySi1YNWVDLTU1YjNsWXpkRjdNTjhfYmktWFBWWjg5N2l1enVPNEdRS2Y0Y2VsbldOYlpWNWQ0UXV0NHdXSlZ6VkxmQ3pPckpHT29PdkRHU2pYUk11dG5HUHdVQmREMXlwWHE3U1V6YWNVUTVRcHRGdVJwX3VEWVZuVWhHejZzcDRKU3lsdw?oc=5
 
-- India killed U.S. with tariffs, now offers ‘no tariffs’: Trump - The Hindu
-  India killed U.S. with tariffs,
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXhfNUhhWmMxZVpFQVlLaHF0UnBJcEFhbzdQdVpxMHZxRVdmbkhKSng0bklUdk9XTmE0RUp4X2tFTERQOEo2cVFQaDR1NjdHckpMT3lvdTEtdWlmYWVDa01ZRl9IUzJBQmE0ZS15UUNNMlBfcWx1OWl5T3hjWWpTNmtBOXp1YUNFVzU4eU5NQWZhTzRZcC03QmZSQnJpTmNvNnEwXzAwc20yd2U5QmhhUGV5eEdmQ0V5dklRb9IBwwFBVV95cUxQTmFVZnNxcE45VW91di00S3BKZEZXZWNEN1p0UTB2M2xmdUZqN2lLdTF2NUUtZ1ZqbjFPZXRzdW9KcmtPbWFZSmt1V2p2OUlTcS1zaGU5dzBQMHNQZEhnTmROLVdXc183MjNITTRyM2NYSWc5aUJKb0MxR01MWU5NWEJXT0VmTWM5djZuUkxJSkw3NDRudUswWTBIUXJLMFRMc3NUeTNtbFRxdUFrcmk4cU5XcUE5b1dVVnl1ZWE5M1B4bTA?oc=5
+- Donald Trump's big statement: India ‘kills us with tariffs’; again claims New Delhi offered ‘no tariff’ d - Times of India
+  Donald Trump's big statement: India ‘kills us with tariffs’;
+  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxNUThyVEZSMFVXLWU5aXZWRWVaVmROVXVkQXVaalRsOGpwcHFhamlnNURtV3dGUUJPLUdpME1qWGczbGhzWTNlT3lzQ0lmaEtwSVJXYTFBNVYxNDRBajRZaFV6TmlwcUsta0xrSkVIOHQ3SG9GQlNxb1ZzMWpCcFZrdXNSZENkZDRxRHhqQVczUGItRG9tNW4xbGp3ZmlrWW9wRVFRdXNodVU3azRHcUZ1Zm5FQmNyeVVETVZPQ185Q1U5WGo2RDNSeUdTVU8yeFdrbVFndjJjUGpxSzFZX2RSRGtCQVhkTG1GOEtHMnNfQmFIdUt3OTJ2LXBEeWQyYjlheDNnbldqVEtXRjhDNzBWU0xHbkdkd9IBmwJBVV95cUxPWGQzVDRFTzJlampVWnlIeGd4X1Z3OWh0em9vblAwWThIWkpnRU4teVQyaFNDbGx2Q1R5RHZaSGJLX0JGOHhNVkx5bDlRYWxvLXMzcFhjWXFJOF9PbXBkVVlTX3VQUWMxX1JfTEZjSWVYcTNqWEo1ZnRfYnBPYjN3VmlpN093UDVsRXhXQjlPUk1zVlo4QzZYR0NBODNOY2otOG5FWUh1R1dUQnNVMWlUNFAtQzhncHpvM0ZRMHlCQ2Z3SVJUV2xTN0YxN1p2aXkwdWozM093TzFfYm90LUxvU2U4NGp1TzhmYXhpcWxzeFFSTXJlQUhkYjh5SGFWS1dRa0tpZ0FrQWw0MTlBRURpQzN1WkQxdl9LQUNF?oc=5
 
-- "We Get Along With India Very Well, But...": Trump Amid Tariff Tension - NDTV
-  "We Get Along With India Very Well, But
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlpXUUE2Zm5BaGRtRGJPMVRsbC1jYXgtWVc5bkpqWWlHaUYtSzc5anl1eWZvY3c4Y25RY2VnSmpKdU1mY1R3cWFRSjgzSlZWbXg5UU9OSk9yZWs3X2ZTVFgxbW95SlYxNUFjci0walZrMm5Cb291b3JVVzNXOWNRYXZPdnVNcGlMM0FxWE5fbVNtTDE0aVAwWENnQUkyODZ2cnBtUtIBrAFBVV95cUxNekZ0cGRrZUhRN2dvUDFXak5kWWxlVVVVVnVEaW1HSV9feGZyWTZUU0d6bFJfeDFBWDJ2ejBsaUNtRjJxVXFZbl9zN0hiaUdGMFZWRXNDYmxnZTM5M2t6djFFN1lZR0lGRTFsd3VZQ2dOT19PZEJQdnpZbkhPbC1QWE1udDZnTzg1TlNDOVEwQ3BsdlNEM3BRUlNjV3hPSEtBMVFLbGdUSDRyZWxO?oc=5
+- No prosecution of minorities entering India after 2014: MHA - The Indian Express
+  No prosecution of minorities entering India after 2014:
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPUEE2R3Zodl9ib0lvV2ZXeXozREVBS0ZMM0RIbUNyYXpIbC1mcmU4NF9pQWJoZC1kakhuY2J1TTNEQjlLeTZKajFSOUxfQUNLN2FYckswM0loYzJxWm9HWGlhSG52S3BQQnZxdVpsbWtHUmRqdEZySThCbWI0N1lwQ1BFT2MtbHJ6N1BDcGdpRElwNkh0STNNZFBTY29oUzROeUVNSGc4QmczeDFo?oc=5
 
-- Breaking News Live Updates: 'Will benefit common man,' says PM Modi hailing 'next-generation' reforms in GST - Times of India
-  'Next-generation' reforms in GST will benefit common man, says PM Modi
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNakRFUy1lVk9SQV9ySWVvT1JUQm4wZkI3V3U3Q3ZtcDc1ZnU4YVF2MTZRX1ZxVGZHV0pBeEJuQXpuRzVnWlBORWwzRWY3WlVzekJmcDNmWEVNZEkybkxybHlrQTlRVDZscFhiZWtoYXd5RVhFaDVqdFpzcnluWVdJQkkxbnZwODZPbjNDRGpuWDhVTXpBUTBLaEQ0UUVzZXE2ZTV2U1M1b2lIcG84QVltSGZjc2FQR2PSAbwBQVVfeXFMT0QxWnRJVUczYVZtRUZZNHpxTy1DLWhxOTMyZVh4WUdxRGhsY2c2czZXajZBb05JVnBNVl9qN2VZUElOeGZQX05RXzRJN0ttS2MwQ0hZanhKMVFBZ1BqcWZEZFF0Z2hUMjFub1VuMjdXNlZwMmVsVGdXQ2h5NHBPZVdNUEVBRmI1TWk4b0ZFWE00bUpPSDlnakJ6MC1OZXFGQUFEc3ZOT1h1NkUzZGZrZkV0QjVkOXlhek1aYmo?oc=5
+- ‘Our confidence in India backed by proven track record’: Singapore PM Lawrence Wong | Latest News India - Hindustan Times - Hindustan Times
+  ‘Our confidence in India backed by proven track record’: Singapore PM Lawrence Wong.
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNck9XaHJpRWQyYzhyd0Z0bWFQX0tDbzZQOUxnUEFvTHlHREVFZFg0aUhLU2xTaGVjWFg2MlFpdHlnYk5KbVBMU3k5VFBmdUVCWDJJWURnQWR4UjdEcFBDeVdfbTNrcXhoNTEtU3h0SzRrczA1cFo0M1B1M1AxVTJKVmxOcnBDS0psY1FKQVM0VVpHZlpBbC1jb3dma2tlR1VadXVTVEtBYVdkZHJVNGJYMFhWazkyQWFoc2hSaHdpd09xRXRaelFHX1RSelk5amlYdjVCbFRHbTBWZEXSAeABQVVfeXFMTlhCeVF2YTc5SGpPUlZId05TRE9oTGNvZHhnSmpBTUhGTlhjOHZoSnpoTl9DdEZiR2w1UzQwdEM0bjZSOG9EYlRZYjgyZS0tSU5wYUlNLTFFVnRPdnRtMkxsUThKZzZsX1k1RjdIYUJfOTZId0YwenFJcmVHbzZveHZmM0tnYzRpWkdRUXNXdDluc01IY0tDQlRrLWtzdzhVSUNXcWE4TEFZMGc1UWRHWGdsb19weVVISmpHakJ3aVpoVWlZRXgtTXkzRTJNdWktaURXVXNsUnBuSi1DREJOdGc?oc=5
 
-- News Today Live Updates, 3 September | Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives - The Indian Express
-  Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWTNqYk1RSFV0cjVXQWFVWkRRZ2VuajRZendiVGRsM29HQVZqcWRXM0RuMUtYc002elJXWDI5N0kwQzFMTWVqMXJ1TFRmYzJpRWJfUFc3d2kta3Vrc2hHXzRGNnZFZzFiekFrLUtUaFBPRFhrbDhOemRmWlFlOHRzcFAwYmRvem1kcGpIN1E2RHVUWVpMbTdvSmZQa0RHYXJBWENIWWdPTkh4NmRFeHhKMVpaelNVSG96cUlCSjVLQmxpdEdyUHZ4NXFtWGxzV0ZkMTJxU0p4V2tQcjlSOE1hVmtHZlI2Z3lF0gHvAUFVX3lxTE5QcXIyYjZVRTdvYlNobTRzTm1ickgxSE1IMFlnbUhNS1JaZDdkVEJ1algydnRrVUh0Ujc0OHlpRU1rbWNTMVA0T3daVW5VaEpQOVd0QWU2ckdyNjd5UDNoeUlCdmJ3alpBOFlGdFhRLVRSc0E3aHNGV3g2NzBfcFdXME5qbzc3clJuTTZWXzFxOFZhSlU0OUNZNVJVZkp3T2Z1YTZxRzZmVnRCS2xTem5PZmRpcXBQODVLY2xoamVDWl9GTktMc19rR2dqNmJKdHF6UFFtR29BOFJuYlF3Z256eDdROXF1OWxRVUhtdmlV?oc=5
+- United Naga Council declares trade embargo - The Indian Express
+  United Naga Council declares trade
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGw5cFZkcDhjS1NBV2ZoenFMZDIwXzR4TjltSWRXREtTMWtFNEJjcFFERjB1RnplbFl2aXFWY3h1V0tQTzJlNGJrR21sZWlPWXFncFEwUEMxNHNCYU9TOFJLU2ozMDFLZEp3eDNSUjV2Q1BVdDVJd05nWGVjRUZ5VXpsV1pYcUg3ZVNfWVc2emZqQ1AzMTd30gGeAUFVX3lxTE9oZWEzQUFnb0xJaG0tVlpVR2FaX2ZCdFFObldTNEpNY1BQREpKUVQxaEtxRUw2WTMyTUcyS0pYeFZNRnZFOHlHcFZtZVRZQ0p5ckR6V1IzNmctU3RTRjdtYlJvN3U4bW1SQXlub2tSdTk1YzFmUjZOUkxpalJQSUpZWFo2ZXRTTjFPS2lGaFNaeTlQX2oxZXE3SkxmZFVB?oc=5
 
-- Is Trump trying to punish India's prized IT sector next? - India Today
-  Is Trump trying to punish India's prized IT
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNTzFzSERsTTh5blpyR3pKZlpaWjVMRHhnWWN1MldLU0JTbE9yaFAzaW9HQzZSVkgwRGEzQUFacmNDcm83Z2tERm52YnpQcmwzX1ZHQlpFZGtGLThUQ1BVc19QZHF5MkZwa1BSRmx5aURPQnBzSmVXTlRzZXo0TFJ1NHVtYXNFS3BfNXRiaDdWaVFtWFlvY0Y2eHFmSUZKZ3pOR05IQXRPQUpzYjdhRGhzZW00NjI2WHo5a1pONkRYaDVzY01rY0FTX2lQeEQ4MG0yMXZlOXBQTnRxd3N2a2d3ZFZLTGo3MlItU2xNdE5CcTdGNm9WbzZCTFYtWUsxaG93MnlERExPejNlV3ox0gGSAkFVX3lxTFBqWjFzZjNSVkRwU1pQYUVIOWxqdnNfVWJzV0RaUmlqOW1GZHZSLU1KOTRBM3lETG5zV0x0SkFLLTRhTnJuRnNuODVteXhrVHBZRDIyNTZINUFjUDNzN2pnZHd5SnlNbGRGQXI2SFlmNHR4TXgyMnlVeHNyLWVvWFNiQkJmbzJCdlQtcFNUeEl6TlJXWktWY2RSZTgweHVtQ1otT1BHRGZpTldfcExieXhnUC1ZSXVlS05ZbHdGT0VBSGRUOW83Q2pfTWg0VEdYdi1nOXRhcmRsbGp6YXhqLTY4V3NUOVVfSzRmMVpYNkNKRTlmX2NGRkVFbDREYmdKVjJGUGh1Yl8zR0pLNEd1Q3BVNFE?oc=5
+- 'Colonial Era Over... Can't Use This Tone': Putin Defends India Amid US Tariffs - NDTV
+  'Colonial Era Over... Can't Use This Tone
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNbm91S0FKR3VIYmo1RkpZTDFJRUJwS2RRMUJzNGVaaU05VlAxaVJYUmZJYUE0d2tEZWpuUHpKZnJoMUZlVFFGQU9lVmxHTHRTSjhmNWJQOENjbVlydmh2eTRDeHplRXNUSlRLZ3pfR3IyUHpiNFAyMFBMWjh3NUE3dFlFMmFlVGM1MXk2WUh2LXFyNXUwakMxN0c4Z296RWR6dzMzUE1sT1hVRkpwaFZnQ0RvWHBuOTlTVk4wSXh30gHGAUFVX3lxTFBVRUdjWllyZFJSTnpOa0J0WlBiNl90Z3B4NzNBa3pXWjAxTENIQ1htMkIwTXB0NzRpR2c1MlNDM1NySi1YNWVDLTU1YjNsWXpkRjdNTjhfYmktWFBWWjg5N2l1enVPNEdRS2Y0Y2VsbldOYlpWNWQ0UXV0NHdXSlZ6VkxmQ3pPckpHT29PdkRHU2pYUk11dG5HUHdVQmREMXlwWHE3U1V6YWNVUTVRcHRGdVJwX3VEWVZuVWhHejZzcDRKU3lsdw?oc=5
 
-- India killed U.S. with tariffs, now offers ‘no tariffs’: Trump - The Hindu
-  India killed U.S. with tariffs,
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXhfNUhhWmMxZVpFQVlLaHF0UnBJcEFhbzdQdVpxMHZxRVdmbkhKSng0bklUdk9XTmE0RUp4X2tFTERQOEo2cVFQaDR1NjdHckpMT3lvdTEtdWlmYWVDa01ZRl9IUzJBQmE0ZS15UUNNMlBfcWx1OWl5T3hjWWpTNmtBOXp1YUNFVzU4eU5NQWZhTzRZcC03QmZSQnJpTmNvNnEwXzAwc20yd2U5QmhhUGV5eEdmQ0V5dklRb9IBwwFBVV95cUxQTmFVZnNxcE45VW91di00S3BKZEZXZWNEN1p0UTB2M2xmdUZqN2lLdTF2NUUtZ1ZqbjFPZXRzdW9KcmtPbWFZSmt1V2p2OUlTcS1zaGU5dzBQMHNQZEhnTmROLVdXc183MjNITTRyM2NYSWc5aUJKb0MxR01MWU5NWEJXT0VmTWM5djZuUkxJSkw3NDRudUswWTBIUXJLMFRMc3NUeTNtbFRxdUFrcmk4cU5XcUE5b1dVVnl1ZWE5M1B4bTA?oc=5
+- Donald Trump's big statement: India ‘kills us with tariffs’; again claims New Delhi offered ‘no tariff’ d - Times of India
+  Donald Trump's big statement: India ‘kills us with tariffs’;
+  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxNUThyVEZSMFVXLWU5aXZWRWVaVmROVXVkQXVaalRsOGpwcHFhamlnNURtV3dGUUJPLUdpME1qWGczbGhzWTNlT3lzQ0lmaEtwSVJXYTFBNVYxNDRBajRZaFV6TmlwcUsta0xrSkVIOHQ3SG9GQlNxb1ZzMWpCcFZrdXNSZENkZDRxRHhqQVczUGItRG9tNW4xbGp3ZmlrWW9wRVFRdXNodVU3azRHcUZ1Zm5FQmNyeVVETVZPQ185Q1U5WGo2RDNSeUdTVU8yeFdrbVFndjJjUGpxSzFZX2RSRGtCQVhkTG1GOEtHMnNfQmFIdUt3OTJ2LXBEeWQyYjlheDNnbldqVEtXRjhDNzBWU0xHbkdkd9IBmwJBVV95cUxPWGQzVDRFTzJlampVWnlIeGd4X1Z3OWh0em9vblAwWThIWkpnRU4teVQyaFNDbGx2Q1R5RHZaSGJLX0JGOHhNVkx5bDlRYWxvLXMzcFhjWXFJOF9PbXBkVVlTX3VQUWMxX1JfTEZjSWVYcTNqWEo1ZnRfYnBPYjN3VmlpN093UDVsRXhXQjlPUk1zVlo4QzZYR0NBODNOY2otOG5FWUh1R1dUQnNVMWlUNFAtQzhncHpvM0ZRMHlCQ2Z3SVJUV2xTN0YxN1p2aXkwdWozM093TzFfYm90LUxvU2U4NGp1TzhmYXhpcWxzeFFSTXJlQUhkYjh5SGFWS1dRa0tpZ0FrQWw0MTlBRURpQzN1WkQxdl9LQUNF?oc=5
 
-- "We Get Along With India Very Well, But...": Trump Amid Tariff Tension - NDTV
-  "We Get Along With India Very Well, But
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlpXUUE2Zm5BaGRtRGJPMVRsbC1jYXgtWVc5bkpqWWlHaUYtSzc5anl1eWZvY3c4Y25RY2VnSmpKdU1mY1R3cWFRSjgzSlZWbXg5UU9OSk9yZWs3X2ZTVFgxbW95SlYxNUFjci0walZrMm5Cb291b3JVVzNXOWNRYXZPdnVNcGlMM0FxWE5fbVNtTDE0aVAwWENnQUkyODZ2cnBtUtIBrAFBVV95cUxNekZ0cGRrZUhRN2dvUDFXak5kWWxlVVVVVnVEaW1HSV9feGZyWTZUU0d6bFJfeDFBWDJ2ejBsaUNtRjJxVXFZbl9zN0hiaUdGMFZWRXNDYmxnZTM5M2t6djFFN1lZR0lGRTFsd3VZQ2dOT19PZEJQdnpZbkhPbC1QWE1udDZnTzg1TlNDOVEwQ3BsdlNEM3BRUlNjV3hPSEtBMVFLbGdUSDRyZWxO?oc=5
+- No prosecution of minorities entering India after 2014: MHA - The Indian Express
+  No prosecution of minorities entering India after 2014:
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPUEE2R3Zodl9ib0lvV2ZXeXozREVBS0ZMM0RIbUNyYXpIbC1mcmU4NF9pQWJoZC1kakhuY2J1TTNEQjlLeTZKajFSOUxfQUNLN2FYckswM0loYzJxWm9HWGlhSG52S3BQQnZxdVpsbWtHUmRqdEZySThCbWI0N1lwQ1BFT2MtbHJ6N1BDcGdpRElwNkh0STNNZFBTY29oUzROeUVNSGc4QmczeDFo?oc=5
 
-- Breaking News Live Updates: 'Will benefit common man,' says PM Modi hailing 'next-generation' reforms in GST - Times of India
-  'Next-generation' reforms in GST will benefit common man, says PM Modi
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNakRFUy1lVk9SQV9ySWVvT1JUQm4wZkI3V3U3Q3ZtcDc1ZnU4YVF2MTZRX1ZxVGZHV0pBeEJuQXpuRzVnWlBORWwzRWY3WlVzekJmcDNmWEVNZEkybkxybHlrQTlRVDZscFhiZWtoYXd5RVhFaDVqdFpzcnluWVdJQkkxbnZwODZPbjNDRGpuWDhVTXpBUTBLaEQ0UUVzZXE2ZTV2U1M1b2lIcG84QVltSGZjc2FQR2PSAbwBQVVfeXFMT0QxWnRJVUczYVZtRUZZNHpxTy1DLWhxOTMyZVh4WUdxRGhsY2c2czZXajZBb05JVnBNVl9qN2VZUElOeGZQX05RXzRJN0ttS2MwQ0hZanhKMVFBZ1BqcWZEZFF0Z2hUMjFub1VuMjdXNlZwMmVsVGdXQ2h5NHBPZVdNUEVBRmI1TWk4b0ZFWE00bUpPSDlnakJ6MC1OZXFGQUFEc3ZOT1h1NkUzZGZrZkV0QjVkOXlhek1aYmo?oc=5
+- ‘Our confidence in India backed by proven track record’: Singapore PM Lawrence Wong | Latest News India - Hindustan Times - Hindustan Times
+  ‘Our confidence in India backed by proven track record’: Singapore PM Lawrence Wong.
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNck9XaHJpRWQyYzhyd0Z0bWFQX0tDbzZQOUxnUEFvTHlHREVFZFg0aUhLU2xTaGVjWFg2MlFpdHlnYk5KbVBMU3k5VFBmdUVCWDJJWURnQWR4UjdEcFBDeVdfbTNrcXhoNTEtU3h0SzRrczA1cFo0M1B1M1AxVTJKVmxOcnBDS0psY1FKQVM0VVpHZlpBbC1jb3dma2tlR1VadXVTVEtBYVdkZHJVNGJYMFhWazkyQWFoc2hSaHdpd09xRXRaelFHX1RSelk5amlYdjVCbFRHbTBWZEXSAeABQVVfeXFMTlhCeVF2YTc5SGpPUlZId05TRE9oTGNvZHhnSmpBTUhGTlhjOHZoSnpoTl9DdEZiR2w1UzQwdEM0bjZSOG9EYlRZYjgyZS0tSU5wYUlNLTFFVnRPdnRtMkxsUThKZzZsX1k1RjdIYUJfOTZId0YwenFJcmVHbzZveHZmM0tnYzRpWkdRUXNXdDluc01IY0tDQlRrLWtzdzhVSUNXcWE4TEFZMGc1UWRHWGdsb19weVVISmpHakJ3aVpoVWlZRXgtTXkzRTJNdWktaURXVXNsUnBuSi1DREJOdGc?oc=5
 
-- News Today Live Updates, 3 September | Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives - The Indian Express
-  Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWTNqYk1RSFV0cjVXQWFVWkRRZ2VuajRZendiVGRsM29HQVZqcWRXM0RuMUtYc002elJXWDI5N0kwQzFMTWVqMXJ1TFRmYzJpRWJfUFc3d2kta3Vrc2hHXzRGNnZFZzFiekFrLUtUaFBPRFhrbDhOemRmWlFlOHRzcFAwYmRvem1kcGpIN1E2RHVUWVpMbTdvSmZQa0RHYXJBWENIWWdPTkh4NmRFeHhKMVpaelNVSG96cUlCSjVLQmxpdEdyUHZ4NXFtWGxzV0ZkMTJxU0p4V2tQcjlSOE1hVmtHZlI2Z3lF0gHvAUFVX3lxTE5QcXIyYjZVRTdvYlNobTRzTm1ickgxSE1IMFlnbUhNS1JaZDdkVEJ1algydnRrVUh0Ujc0OHlpRU1rbWNTMVA0T3daVW5VaEpQOVd0QWU2ckdyNjd5UDNoeUlCdmJ3alpBOFlGdFhRLVRSc0E3aHNGV3g2NzBfcFdXME5qbzc3clJuTTZWXzFxOFZhSlU0OUNZNVJVZkp3T2Z1YTZxRzZmVnRCS2xTem5PZmRpcXBQODVLY2xoamVDWl9GTktMc19rR2dqNmJKdHF6UFFtR29BOFJuYlF3Z256eDdROXF1OWxRVUhtdmlV?oc=5
+- United Naga Council declares trade embargo - The Indian Express
+  United Naga Council declares trade
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGw5cFZkcDhjS1NBV2ZoenFMZDIwXzR4TjltSWRXREtTMWtFNEJjcFFERjB1RnplbFl2aXFWY3h1V0tQTzJlNGJrR21sZWlPWXFncFEwUEMxNHNCYU9TOFJLU2ozMDFLZEp3eDNSUjV2Q1BVdDVJd05nWGVjRUZ5VXpsV1pYcUg3ZVNfWVc2emZqQ1AzMTd30gGeAUFVX3lxTE9oZWEzQUFnb0xJaG0tVlpVR2FaX2ZCdFFObldTNEpNY1BQREpKUVQxaEtxRUw2WTMyTUcyS0pYeFZNRnZFOHlHcFZtZVRZQ0p5ckR6V1IzNmctU3RTRjdtYlJvN3U4bW1SQXlub2tSdTk1YzFmUjZOUkxpalJQSUpZWFo2ZXRTTjFPS2lGaFNaeTlQX2oxZXE3SkxmZFVB?oc=5
 
-- Is Trump trying to punish India's prized IT sector next? - India Today
-  Is Trump trying to punish India's prized IT
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNTzFzSERsTTh5blpyR3pKZlpaWjVMRHhnWWN1MldLU0JTbE9yaFAzaW9HQzZSVkgwRGEzQUFacmNDcm83Z2tERm52YnpQcmwzX1ZHQlpFZGtGLThUQ1BVc19QZHF5MkZwa1BSRmx5aURPQnBzSmVXTlRzZXo0TFJ1NHVtYXNFS3BfNXRiaDdWaVFtWFlvY0Y2eHFmSUZKZ3pOR05IQXRPQUpzYjdhRGhzZW00NjI2WHo5a1pONkRYaDVzY01rY0FTX2lQeEQ4MG0yMXZlOXBQTnRxd3N2a2d3ZFZLTGo3MlItU2xNdE5CcTdGNm9WbzZCTFYtWUsxaG93MnlERExPejNlV3ox0gGSAkFVX3lxTFBqWjFzZjNSVkRwU1pQYUVIOWxqdnNfVWJzV0RaUmlqOW1GZHZSLU1KOTRBM3lETG5zV0x0SkFLLTRhTnJuRnNuODVteXhrVHBZRDIyNTZINUFjUDNzN2pnZHd5SnlNbGRGQXI2SFlmNHR4TXgyMnlVeHNyLWVvWFNiQkJmbzJCdlQtcFNUeEl6TlJXWktWY2RSZTgweHVtQ1otT1BHRGZpTldfcExieXhnUC1ZSXVlS05ZbHdGT0VBSGRUOW83Q2pfTWg0VEdYdi1nOXRhcmRsbGp6YXhqLTY4V3NUOVVfSzRmMVpYNkNKRTlmX2NGRkVFbDREYmdKVjJGUGh1Yl8zR0pLNEd1Q3BVNFE?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- India killed U.S. with tariffs, now offers ‘no tariffs’: Trump - The Hindu
-  India killed U.S. with tariffs,
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXhfNUhhWmMxZVpFQVlLaHF0UnBJcEFhbzdQdVpxMHZxRVdmbkhKSng0bklUdk9XTmE0RUp4X2tFTERQOEo2cVFQaDR1NjdHckpMT3lvdTEtdWlmYWVDa01ZRl9IUzJBQmE0ZS15UUNNMlBfcWx1OWl5T3hjWWpTNmtBOXp1YUNFVzU4eU5NQWZhTzRZcC03QmZSQnJpTmNvNnEwXzAwc20yd2U5QmhhUGV5eEdmQ0V5dklRb9IBwwFBVV95cUxQTmFVZnNxcE45VW91di00S3BKZEZXZWNEN1p0UTB2M2xmdUZqN2lLdTF2NUUtZ1ZqbjFPZXRzdW9KcmtPbWFZSmt1V2p2OUlTcS1zaGU5dzBQMHNQZEhnTmROLVdXc183MjNITTRyM2NYSWc5aUJKb0MxR01MWU5NWEJXT0VmTWM5djZuUkxJSkw3NDRudUswWTBIUXJLMFRMc3NUeTNtbFRxdUFrcmk4cU5XcUE5b1dVVnl1ZWE5M1B4bTA?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- "We Get Along With India Very Well, But...": Trump Amid Tariff Tension - NDTV
-  "We Get Along With India Very Well, But
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlpXUUE2Zm5BaGRtRGJPMVRsbC1jYXgtWVc5bkpqWWlHaUYtSzc5anl1eWZvY3c4Y25RY2VnSmpKdU1mY1R3cWFRSjgzSlZWbXg5UU9OSk9yZWs3X2ZTVFgxbW95SlYxNUFjci0walZrMm5Cb291b3JVVzNXOWNRYXZPdnVNcGlMM0FxWE5fbVNtTDE0aVAwWENnQUkyODZ2cnBtUtIBrAFBVV95cUxNekZ0cGRrZUhRN2dvUDFXak5kWWxlVVVVVnVEaW1HSV9feGZyWTZUU0d6bFJfeDFBWDJ2ejBsaUNtRjJxVXFZbl9zN0hiaUdGMFZWRXNDYmxnZTM5M2t6djFFN1lZR0lGRTFsd3VZQ2dOT19PZEJQdnpZbkhPbC1QWE1udDZnTzg1TlNDOVEwQ3BsdlNEM3BRUlNjV3hPSEtBMVFLbGdUSDRyZWxO?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Breaking News Live Updates: 'Will benefit common man,' says PM Modi hailing 'next-generation' reforms in GST - Times of India
-  'Next-generation' reforms in GST will benefit common man, says PM Modi
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNakRFUy1lVk9SQV9ySWVvT1JUQm4wZkI3V3U3Q3ZtcDc1ZnU4YVF2MTZRX1ZxVGZHV0pBeEJuQXpuRzVnWlBORWwzRWY3WlVzekJmcDNmWEVNZEkybkxybHlrQTlRVDZscFhiZWtoYXd5RVhFaDVqdFpzcnluWVdJQkkxbnZwODZPbjNDRGpuWDhVTXpBUTBLaEQ0UUVzZXE2ZTV2U1M1b2lIcG84QVltSGZjc2FQR2PSAbwBQVVfeXFMT0QxWnRJVUczYVZtRUZZNHpxTy1DLWhxOTMyZVh4WUdxRGhsY2c2czZXajZBb05JVnBNVl9qN2VZUElOeGZQX05RXzRJN0ttS2MwQ0hZanhKMVFBZ1BqcWZEZFF0Z2hUMjFub1VuMjdXNlZwMmVsVGdXQ2h5NHBPZVdNUEVBRmI1TWk4b0ZFWE00bUpPSDlnakJ6MC1OZXFGQUFEc3ZOT1h1NkUzZGZrZkV0QjVkOXlhek1aYmo?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- News Today Live Updates, 3 September | Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives - The Indian Express
-  Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWTNqYk1RSFV0cjVXQWFVWkRRZ2VuajRZendiVGRsM29HQVZqcWRXM0RuMUtYc002elJXWDI5N0kwQzFMTWVqMXJ1TFRmYzJpRWJfUFc3d2kta3Vrc2hHXzRGNnZFZzFiekFrLUtUaFBPRFhrbDhOemRmWlFlOHRzcFAwYmRvem1kcGpIN1E2RHVUWVpMbTdvSmZQa0RHYXJBWENIWWdPTkh4NmRFeHhKMVpaelNVSG96cUlCSjVLQmxpdEdyUHZ4NXFtWGxzV0ZkMTJxU0p4V2tQcjlSOE1hVmtHZlI2Z3lF0gHvAUFVX3lxTE5QcXIyYjZVRTdvYlNobTRzTm1ickgxSE1IMFlnbUhNS1JaZDdkVEJ1algydnRrVUh0Ujc0OHlpRU1rbWNTMVA0T3daVW5VaEpQOVd0QWU2ckdyNjd5UDNoeUlCdmJ3alpBOFlGdFhRLVRSc0E3aHNGV3g2NzBfcFdXME5qbzc3clJuTTZWXzFxOFZhSlU0OUNZNVJVZkp3T2Z1YTZxRzZmVnRCS2xTem5PZmRpcXBQODVLY2xoamVDWl9GTktMc19rR2dqNmJKdHF6UFFtR29BOFJuYlF3Z256eDdROXF1OWxRVUhtdmlV?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Is Trump trying to punish India's prized IT sector next? - India Today
-  Is Trump trying to punish India's prized IT
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNTzFzSERsTTh5blpyR3pKZlpaWjVMRHhnWWN1MldLU0JTbE9yaFAzaW9HQzZSVkgwRGEzQUFacmNDcm83Z2tERm52YnpQcmwzX1ZHQlpFZGtGLThUQ1BVc19QZHF5MkZwa1BSRmx5aURPQnBzSmVXTlRzZXo0TFJ1NHVtYXNFS3BfNXRiaDdWaVFtWFlvY0Y2eHFmSUZKZ3pOR05IQXRPQUpzYjdhRGhzZW00NjI2WHo5a1pONkRYaDVzY01rY0FTX2lQeEQ4MG0yMXZlOXBQTnRxd3N2a2d3ZFZLTGo3MlItU2xNdE5CcTdGNm9WbzZCTFYtWUsxaG93MnlERExPejNlV3ox0gGSAkFVX3lxTFBqWjFzZjNSVkRwU1pQYUVIOWxqdnNfVWJzV0RaUmlqOW1GZHZSLU1KOTRBM3lETG5zV0x0SkFLLTRhTnJuRnNuODVteXhrVHBZRDIyNTZINUFjUDNzN2pnZHd5SnlNbGRGQXI2SFlmNHR4TXgyMnlVeHNyLWVvWFNiQkJmbzJCdlQtcFNUeEl6TlJXWktWY2RSZTgweHVtQ1otT1BHRGZpTldfcExieXhnUC1ZSXVlS05ZbHdGT0VBSGRUOW83Q2pfTWg0VEdYdi1nOXRhcmRsbGp6YXhqLTY4V3NUOVVfSzRmMVpYNkNKRTlmX2NGRkVFbDREYmdKVjJGUGh1Yl8zR0pLNEd1Q3BVNFE?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-03 18:24:40 UTC_
+_Last updated: 2025-09-04 01:08:02 UTC_
