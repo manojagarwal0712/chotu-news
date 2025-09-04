@@ -1,184 +1,184 @@
 # 📰 Daily News Summaries
 
-- Why No Action Against Russia? Trump Snaps At Reporter With "India" Reply - NDTV
-  The White House has refused to take action
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaktXNkFfWkdVWUFoRjB5M2Fsb2RoR3VqWUVDNlZZR0ItMFFmVjdsazlqcmtKcl85ZUQwd2U4STJJQWhhaXRWTmpwbUdLUWQ3M2FrTDkxNDNZWGt1M1JSWEVkTXR2OVY3Ukl4VGRodFFFMUtQZFFHUDYydS1jby1iTGI1T3VkNGJuVlNiY1lNR2tHWjBNYmJnZGtRMGR1STNLRW5PQm1ZaXVudGV4TXRTTl9qenBpQ1VJMXZNTlhGc1dqQVNSSklMUlVmaTBEbmp5VzV0NmhQQdIB3wFBVV95cUxNdGM5YVJfR3VWVmtjQzVRNVV0Q2k2eUxqNkJhN2FrNTBwdGFBQ3ZGTzJwTV9PTWRvVlFrYk16M3JIT1R3SldFU2l2WHMyRVc1dGxxWGR2c1k2M3pmTkthQlBoaDMzX0NhUkdLQkpzN0ROUXJiYS0xUmxKZ0Y2cHMzQnpqUWtkZnlCT0lvdWczaE43RFMtckhQWUczZ2h3WUxVWTlMNlR6Q1FEUXNycG54dUZiMGt3bzdXWHFlMDdVWUtPX2IwQWMtU1FXNVJKQTdJZE5pWER3aEJXZkZ3eUw4?oc=5
+- Issuance of notice: HC issues contempt notice to three Assam officials over July eviction drive
+  
+  🔗 https://indianexpress.com/article/india/issuance-notice-hc-issues-contempt-notice-three-assam-officials-over-july-eviction-drive-10230646/
 
-- India killed U.S. with tariffs, now offers ‘no tariffs’: Trump - The Hindu
-  India killed U.S. with tariffs,
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXhfNUhhWmMxZVpFQVlLaHF0UnBJcEFhbzdQdVpxMHZxRVdmbkhKSng0bklUdk9XTmE0RUp4X2tFTERQOEo2cVFQaDR1NjdHckpMT3lvdTEtdWlmYWVDa01ZRl9IUzJBQmE0ZS15UUNNMlBfcWx1OWl5T3hjWWpTNmtBOXp1YUNFVzU4eU5NQWZhTzRZcC03QmZSQnJpTmNvNnEwXzAwc20yd2U5QmhhUGV5eEdmQ0V5dklRb9IBwwFBVV95cUxQTmFVZnNxcE45VW91di00S3BKZEZXZWNEN1p0UTB2M2xmdUZqN2lLdTF2NUUtZ1ZqbjFPZXRzdW9KcmtPbWFZSmt1V2p2OUlTcS1zaGU5dzBQMHNQZEhnTmROLVdXc183MjNITTRyM2NYSWc5aUJKb0MxR01MWU5NWEJXT0VmTWM5djZuUkxJSkw3NDRudUswWTBIUXJLMFRMc3NUeTNtbFRxdUFrcmk4cU5XcUE5b1dVVnl1ZWE5M1B4bTA?oc=5
+- 20 ULBs lack sewerage facilities, 7 have inadequate ones, but STPs in ‘deficient’ towns handling sewage
+  
+  🔗 https://indianexpress.com/article/india/20-ulbs-lack-sewerage-facilities-7-have-inadequate-ones-stps-towns-handling-sewage-10230680/
 
-- ‘Trump’s tariffs on India could...': US lawmaker's dire warning as President refuses to budge | Latest News India - Hindustan Times - Hindustan Times
-  ‘Trump’s tariffs on India could...': US lawmaker's dire warning as President refuses
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTzlJbTJFb0xuaFpZRlp5eUhoU2ptSXVhd2NCd21VSDZKMVlxWDRweXJxSG9IaGYzTGMtSGRkdGJZMDJvTE9zSTYzRjlQd1JYVzNORlpuSm9ZN3JPSmhYcWxWVzF0dTY3endjU3ZieTNpVzkzN050STNlcDI5bnpIblZLNzVWekExYjBKbHR5dFVoTVA4OVctckItQm9PVU1obmhkUGJqN1JlSHlnVVdVbHlkSTNGazZUU2l0ZDB0cFlUWlRDTVZuNk1vS3JQSnhJbktLOVVmUURxaXNab3BYZNIB5gFBVV95cUxNbHlCSjdZa0dETEdzTFFiNnpXNjBFN1lhQWpNTnZMclFORWEybm13T2VFMzNlbE5Ebmp4Z21FTlZOZFVhVWgxRzhYT0NBSXhKOWQtTUVtUkRlTnZpdzdKc2N0NjJaOGZNQ0ZaNUV3RmZvRldZclZnM1JCWXd1cWVXQ05ydVRPZzJkdDE2eEN0RnVjRVFiVkt4U3dUWFhLMzVTZXVqajNzODIxUmlCOVBlM2YzZ2hwemJ0dEdWTVkxajVCTW1zY1h4SmVHY0JCMGowaC1FWTBnS0Y0VkUzc3diam8wVWZ6dw?oc=5
+- Mufti visits flood-hit areas in Jammu, says Centre ’handing over forests, rivers to contractors’
+  
+  🔗 https://indianexpress.com/article/india/mehbooba-mufti-visits-flood-hit-in-jammu-kashmir-centre-handing-10230630/
 
-- 'India's got big problems': Trump hints at 'phase-2, phase-3' of 'sanctions' over Russian oil purchase - - Times of India
-  'India's got big problems': Trump hints at 'phase-2, phase
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNOHVObG1HRDNiTHAwMTZwckU5TGFELTZCQV9NeUZSVEVjV3loWmlrWGNFNklFRmN2LUhKUEJjbUhROXlVWFpyQkN1dWxOcGlpbDRZWXR2aHZIUWpRRU5tMzN6VUZLeklxTUw1OGVBU2JZQXJzbWZDbC1faFdUbHdXd3A5aHJjbHdvckJBQnhvd2w1el80SlNCU25janJhd3RlM0R5SlVaQ2pLNUFCMkU0TXZUM1o4MEdkY2MyZU53TXBxUEhzM1VoZHJQWnd1dm4zbnNzdGpURE1HM2ZTbXlELTBwSmxrblo2eGxRbkZ4dEk4c1RVbmZILVgxVEpwYnM0TmlQaTByR0FyV2lBem1HT1lxZ9IBmAJBVV95cUxOU3pZSzRSTVlUYXhWcVMwUEdrdDRPTjZBeDAzNk9lckJ1VjFoTzVlenpsUTQ5U1RzN3pjNWxlUUxHdENlekk5YWZVWndPRzgwdmN1N3ZnY1JPZ0VYUWk4bWk2bjhTQlhpekxCM3drVlkyMXlpSlNFWFFsRFFtWXZiSktSWWtMWVdib1ZJUHMtbjZrSmtQcml0cTFXak9rVG5UWGtMZVNuVThSdGFQdVIyaklPSEdfMEhOUFowY0ozVDhOb00tdWNtVXRERXppLW50cHZtRC1uMnpWWmNCTFJGN1dSSWltSHMxc3Z1T1hIcEw5LWE0cTA5YjZnM1p6azhRZjZvV0sxR1RVT1JiWlo3eDYwN1pITHJa?oc=5
+- Opposition MLAs arrive driving tractors on dramatic day in Rajasthan Assembly
+  
+  🔗 https://indianexpress.com/article/india/opposition-mlas-arrive-on-tractors-rajasthan-assembly-session-10230461/
 
-- Top News Headlines of September 3, 2025 | Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives - The Indian Express
-  Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWTNqYk1RSFV0cjVXQWFVWkRRZ2VuajRZendiVGRsM29HQVZqcWRXM0RuMUtYc002elJXWDI5N0kwQzFMTWVqMXJ1TFRmYzJpRWJfUFc3d2kta3Vrc2hHXzRGNnZFZzFiekFrLUtUaFBPRFhrbDhOemRmWlFlOHRzcFAwYmRvem1kcGpIN1E2RHVUWVpMbTdvSmZQa0RHYXJBWENIWWdPTkh4NmRFeHhKMVpaelNVSG96cUlCSjVLQmxpdEdyUHZ4NXFtWGxzV0ZkMTJxU0p4V2tQcjlSOE1hVmtHZlI2Z3lF0gHvAUFVX3lxTE5QcXIyYjZVRTdvYlNobTRzTm1ickgxSE1IMFlnbUhNS1JaZDdkVEJ1algydnRrVUh0Ujc0OHlpRU1rbWNTMVA0T3daVW5VaEpQOVd0QWU2ckdyNjd5UDNoeUlCdmJ3alpBOFlGdFhRLVRSc0E3aHNGV3g2NzBfcFdXME5qbzc3clJuTTZWXzFxOFZhSlU0OUNZNVJVZkp3T2Z1YTZxRzZmVnRCS2xTem5PZmRpcXBQODVLY2xoamVDWl9GTktMc19rR2dqNmJKdHF6UFFtR29BOFJuYlF3Z256eDdROXF1OWxRVUhtdmlV?oc=5
+- GST 2.0 double dose for growth; next generation reforms will not stop: PM Modi
+  
+  🔗 https://indianexpress.com/article/india/gst2-0-double-dose-of-support-navratri-pm-modi-10230479/
 
-- Food-grocery delivery gets dearer as GST is added and platform fee is hiked this festive season
-  The August-to-December period is typically a bonanza for e-commerce and
-  🔗 https://www.livemint.com/companies/foodgrocery-delivery-platform-fee-gst-eternal-swiggy-amazon-india-festive-season-per-order-revenue-flipkart-11756977061292.html
+- Dyson unveils world’s slimmest vacuum, AI robot cleaner, and new hair care range
+  
+  🔗 https://indianexpress.com/article/technology/dyson-unveils-worlds-slimmest-vacuum-ai-robot-cleaner-and-hair-care-range-10230274/
 
-- Beyond metal bashing: How Bharat Forge is reinventing itself for the digital era
-  Baba Kalyani wants to transform his six-decade-old forging company into a digitally-driven, automation-first technology powerhouse. forging still makes up 80%
-  🔗 https://www.livemint.com/companies/bharat-forge-ai-automation-defense-dark-factory-manufacturing-reinvention-11756978102553.html
+- LinkedIn rolls out new verification features amid rise in job scams in India
+  
+  🔗 https://indianexpress.com/article/technology/linkedin-rolls-out-new-verification-features-amid-rise-in-job-scams-in-india-10230582/
 
-- Jane Street’s India Revenue Shrank Before SEBI Trading Ban
-  Jane Street Group generated just 3% of its first-half net trading revenue from India. The company is fending off
-  🔗 https://www.livemint.com/companies/news/jane-street-s-india-revenue-shrank-before-sebi-trading-ban-11756979806931.html
+- Chinese firms still want Nvidia chips despite government pressure not to buy
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/chinese-firms-still-want-nvidia-chips-despite-government-pressure-not-to-buy-10230396/
 
-- GST revamp may spur hiring as companies boost output to meet festive demand
-  It remains to be seen whether the uptick in hiring will be permanent or temporary. For that, wait until the January
-  🔗 https://www.livemint.com/companies/gst-revamp-spur-hiring-companies-boost-output-festive-demand-capacity-addition-direct-employment-indirect-employment-11756969719688.html
+- ‘It’s scary’: Crypto workers under siege from North Korean hackers
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/its-scary-crypto-workers-under-siege-from-north-korean-hackers-10230365/
 
-- Chiratae Ventures makes leadership appointments amid larger growth plans
-  Chiratae Ventures handles about $1.
-  🔗 https://www.livemint.com/companies/news/chiratae-ventures-makes-leadership-changes-as-a-part-of-succession-planning-11756972293455.html
+- Samsung Galaxy S25 FE, Tab S11 series unveiled: Full list of devices, specs, and prices
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-s25-fe-tab-s11-series-unveiled-full-list-10230193/
 
-- SoftBank cuts stake in Ola Electric by 2.15%, now owns 15.68%
-  SoftBank Group has sold a 2.15% stake in Ola Electric, reducing its ownership to 15.68%. The sale, involving 94.9 million shares,
-  🔗 https://www.livemint.com/market/stock-market-news/softbank-cuts-stake-in-ola-electric-by-2-15-now-owns-1568-11756987444926.html
+- AI Data Centers Near Tax Break With $165 Billion of Phantom Debt
+  Doña Ana County in New Mexico is the
+  🔗 https://www.livemint.com/companies/company-results/ai-data-centers-near-tax-break-with-165-billion-of-phantom-debt-11757004903500.html
 
-- Mirae Asset Mutual Fund trims stake in Syngene International to 2.95%. Details here
-  Mirae Asset Mutual Fund has slightly decreased its stake in Syngene International to 2.95% by selling 667,386 shares. The company reported a 59% rise
-  🔗 https://www.livemint.com/market/stock-market-news/mirae-asset-mutual-fund-trims-stake-in-syngene-international-to-2-95-details-here-11756983298997.html
+- Roblox Restricts Features in Middle East Over Child Safety
+  Roblox Corp. will restrict certain features on its popular video-game platform across the Middle East, including the United Arab Emirates and Saudi Arabia
+  🔗 https://www.livemint.com/companies/news/roblox-restricts-features-in-middle-east-over-child-safety-11757003188531.html
 
-- Stock to buy for short-term: Anand Rathi predicts 25% upside in THIS stock below  ₹20 in one month
-  Small-cap stock below  ₹20 Infibeam Avenues shows a bullish pattern. Brokerage Anand Rathi suggests buying within the 16.5–15.5
-  🔗 https://www.livemint.com/market/stock-market-news/stock-to-buy-for-short-term-anand-rathi-predicts-25-upside-in-this-stock-below-rs-20-in-one-month-11756984983547.html
+- What to know about the streetcar derailment in Lisbon
+  Lisbon's
+  🔗 https://www.livemint.com/companies/news/what-to-know-about-the-streetcar-derailment-in-lisbon-11757002574339.html
 
-- Is tomorrow a stock market holiday on account of Eid-e-Milad?
-  As Eid-e-Milad, which marks the birth anniversary of Prophet Muhammad, will be celebrated tomorrow, September 5
-  🔗 https://www.livemint.com/market/stock-market-news/is-tomorrow-a-stock-market-holiday-on-account-of-eidemilad-11756983664223.html
+- GST's new divide: Apparel industry warns of growth hit as tax hikes target aspirational shoppers
+  New GST slabs may hinder growth, especially for mid-income consumers buying branded clothing. While higher rates apply to items over  ₹2,500, reductions
+  🔗 https://www.livemint.com/companies/gst-apparel-industry-warns-of-growth-hit-as-tax-hikes-target-aspirational-shoppers-footwear-aditya-birla-fashion-retail-11756988881600.html
 
-- Top Gainers &amp; Losers on Sep 04: DOMS Industries, Bata India, M&amp;M, Emami, Bajaj Finance among top gainers today
-  The Nifty 50 and Sensex increased marginally, while broader indices fell. Notable gains were seen in Nifty Auto, while the Nifty PSU Bank index suffered the most losses.
-  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-sep-04-doms-industries-bata-india-m-m-emami-bajaj-finance-among-top-gainers-today-11756979129163.html
+- Banco de Brasilia Shares Slide After Deal for Banco Master Nixed
+  Banco de Brasilia SA stock slumped the most since April. Brazil’s central bank rejected its acquisition of the troubled lender.
+  🔗 https://www.livemint.com/companies/company-results/banco-de-brasilia-shares-slide-after-deal-for-banco-master-nixed-11757001348174.html
 
-- Lava Yuva Smart 2 with 6.75-inch display, 5000mAh battery launched in India at  ₹6,099: All you need to know
-  Lava has introduced the Yuva Smart 2, a budget smartphone priced at  ₹6,
-  🔗 https://www.livemint.com/technology/gadgets/lava-yuva-smart-2-with-6-75-inch-display-5000mah-battery-launched-in-india-at-rs-6-099-all-you-need-to-know-11756983678395.html
+- Russian rouble down as top banker predicts it will weaken by year-end
+  Russian rouble down as top banker
+  🔗 https://www.livemint.com/market/stock-market-news/russian-rouble-down-as-top-banker-predicts-it-will-weaken-by-yearend-11757004477722.html
 
-- Samsung Galaxy S25 FE with 6.7-inch AMOLED display launched: Price, specifications and all you need to know
-  The Galaxy S25 FE has a 6.7-inch AMOLED display, Exynos 2400 processor, and a triple camera
-  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-s25-fe-with-6-7-inch-amoled-display-launched-in-india-price-specifications-and-all-you-need-to-know-11756978527654.html
+- Soybeans slide on lack of China demand, corn mixed
+  Soybeans slide on lack
+  🔗 https://www.livemint.com/market/commodities/soybeans-slide-on-lack-of-china-demand-corn-mixed-11757003679678.html
 
-- Samsung Galaxy S25 FE 5G mobile hands-on: A first look at 5 key upgrades
-  Samsung Galaxy S25 FE 5G officially debuts with the Exynos 2400 chip
-  🔗 https://www.livemint.com/technology/samsung-galaxy-s25-fe-5g-mobile-hands-on-a-first-look-at-5-key-upgrades-11756975203628.html
+- Gold slips after record rally, US payrolls report on radar
+  Gold slips after record rally
+  🔗 https://www.livemint.com/market/commodities/gold-slips-after-record-rally-us-payrolls-report-on-radar-11757000928356.html
 
-- Tecno POVA Slim 5G with 6.78-inch AMOLED display, 5.95mm thickness launched in India: Price, specs, and more
-  The Pova Slim 5G is touted as the world's slimmest phone at 5.95mm. Priced at  ₹19,999, it features a 6.78
-  🔗 https://www.livemint.com/technology/gadgets/tecno-pova-slim-5g-with-6-78-inch-amoled-display-5-95mm-thickness-launched-in-india-price-specs-and-more-11756975565216.html
+- Oil prices dip with OPEC  to consider another output hike
+  Oil prices dip with OPEC
+  🔗 https://www.livemint.com/market/commodities/oil-prices-dip-with-opec-to-consider-another-output-hike-11757000861675.html
 
-- Best prices on iPads with up to 22% off on Apple iPads – Now’s the perfect time to grab a new iPad
-  Best prices on iPads are available now with up to 22% off on Apple iPads. Enjoy exclusive deals and cashback offers before the sale ends on Amazon.
-  🔗 https://www.livemint.com/technology/gadgets/best-prices-on-ipads-with-up-to-22-off-on-apple-ipads-now-s-the-perfect-time-to-grab-a-new-ipad-11756970997734.html
+- Euro zone yields drop after US data, Fed officials remarks
+  Euro zone yields drop after US data
+  🔗 https://www.livemint.com/market/stock-market-news/euro-zone-yields-drop-after-us-data-fed-officials-remarks-11757000618534.html
 
-- Stock Market Holiday: Are BSE, NSE open or closed tomorrow for Eid-e-Milad 2025?
-  NSE and BSE will stay open on September 5 despite Milad-Un-Nabi. Only settlement will be deferred due to a holiday for banks and depositories. Analysts expect Nifty
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-are-bse-nse-open-or-closed-tomorrow-for-milad-un-nabi-2025/articleshow/123698930.cms
+- iPhone 17 series price leaks days before launch: Here's how much Apple's new flagships may cost
+  The standard iPhone 17 variant is expected to cost the same as its predecessor. The other three variants could cost $50-100 more.
+  🔗 https://www.livemint.com/technology/gadgets/iphone-17-price-leaks-days-before-launch-heres-how-much-apples-new-flagships-may-cost-11757004657186.html
 
-- Japan's SoftBank sells 2.15% stake in Ola Electric, cuts holding to 15.68%
-  SoftBank Group has divested a 2.15% stake in Ola Electric over nearly two months, reducing its holding to 15.68%. Despite this sale, OlaElectric shares experienced a recent surge, fueled by government incentives and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/japans-softbank-sells-2-15-stake-in-ola-electric-cuts-holding-to-15-68/articleshow/123698265.cms
+- iPhone 17 launch in 5 days: Last-minute leak reveals big RAM boost for THESE models
+  Three iPhone 17 models could get a major boost these years. RAM reported to go up from 8GB
+  🔗 https://www.livemint.com/technology/gadgets/iphone-17-launch-in-5-days-last-minute-leak-reveals-big-ram-boost-for-these-models-11757002374066.html
 
-- Eldorado Agritech files DRHP with Sebi for Rs 1,000 crore IPO
-  The issue includes a Rs 340 crore fresh issue and Rs 660 crore OFS. Proceeds will largely repay debt, with strong R&amp;D, crop portfolio, and robust FY25 financial performance supporting growth.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/eldorado-agritech-files-drhp-with-sebi-for-rs-1000-crore-ipo/articleshow/123696837.cms
+- Apple working on AI search engine to take on Perplexity - ChatGPT, set to debut with iOS 26 update next year: Report
+  World Knowledge Answers will leverage Google AI models. It aims to provide coherent answers through a new summarization system. Apple plans to enhance Siri with an AI web search tool.
+  🔗 https://www.livemint.com/technology/tech-news/apple-working-on-ai-search-engine-to-take-on-perplexity-chatgpt-set-to-debut-with-ios-26-update-next-year-report-11756990104894.html
 
-- GST reforms set to boost FMCG, auto, insurance and hospitality sectors: Saurabh Mukherjea
-  India's Goods and Services Tax reforms are set to stimulate consumption and vital economic sectors. Saurabh Mukherjea highlights potential benefits for Fast-Moving Consumer Goods and the auto industry.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gst-reforms-set-to-boost-fmcg-auto-insurance-and-hospitality-sectors-saurabh-mukherjea/articleshow/123697484.cms
+- Hollow Knight: Silksong is finally here, and it’s crashing the internet
+  Team Cherry's Hollow Knight: Silksong faced overwhelming demand, crashing digital storefronts like Steam and PSN. The game, launched without pre-orders, saw users encountering errors while trying
+  🔗 https://www.livemint.com/technology/tech-news/hollow-knight-silksong-is-finally-here-and-it-s-crashing-the-internet-11756995453101.html
 
-- Rupee falls 12 paise to close at 88.14 against US dollar
-  The rupee fell 12 paise to close at 88.14 (provisional) against the
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-12-paise-to-close-at-88-14-against-us-dollar/articleshow/123697349.cms
+- Nepal blocks Facebook, X and YouTube for not registering with government: All you need to know
+  The Nepalese government has blocked major social media platforms. Officials attribute the move to rising cybercrime and misinformation linked to
+  🔗 https://www.livemint.com/technology/tech-news/nepal-blocks-facebook-x-and-youtube-for-not-registering-with-government-all-you-need-to-know-11756990792086.html
 
-- Why No Action Against Russia? Trump Snaps At Reporter With "India" Reply - NDTV
-  The White House has refused to take action
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaktXNkFfWkdVWUFoRjB5M2Fsb2RoR3VqWUVDNlZZR0ItMFFmVjdsazlqcmtKcl85ZUQwd2U4STJJQWhhaXRWTmpwbUdLUWQ3M2FrTDkxNDNZWGt1M1JSWEVkTXR2OVY3Ukl4VGRodFFFMUtQZFFHUDYydS1jby1iTGI1T3VkNGJuVlNiY1lNR2tHWjBNYmJnZGtRMGR1STNLRW5PQm1ZaXVudGV4TXRTTl9qenBpQ1VJMXZNTlhGc1dqQVNSSklMUlVmaTBEbmp5VzV0NmhQQdIB3wFBVV95cUxNdGM5YVJfR3VWVmtjQzVRNVV0Q2k2eUxqNkJhN2FrNTBwdGFBQ3ZGTzJwTV9PTWRvVlFrYk16M3JIT1R3SldFU2l2WHMyRVc1dGxxWGR2c1k2M3pmTkthQlBoaDMzX0NhUkdLQkpzN0ROUXJiYS0xUmxKZ0Y2cHMzQnpqUWtkZnlCT0lvdWczaE43RFMtckhQWUczZ2h3WUxVWTlMNlR6Q1FEUXNycG54dUZiMGt3bzdXWHFlMDdVWUtPX2IwQWMtU1FXNVJKQTdJZE5pWER3aEJXZkZ3eUw4?oc=5
+- Microfinance sector under stress as portfolio at risk doubles despite lending caps
+  Microfinance sector faces rising asset quality concerns. Portfolio at Risk (PaR) in the 31–180 day bucket rose significantly across banks and NBFC-MFIs.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/microfinance-sector-under-stress-as-portfolio-at-risk-doubles-despite-lending-caps/articleshow/123703188.cms
 
-- India killed U.S. with tariffs, now offers ‘no tariffs’: Trump - The Hindu
-  India killed U.S. with tariffs,
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXhfNUhhWmMxZVpFQVlLaHF0UnBJcEFhbzdQdVpxMHZxRVdmbkhKSng0bklUdk9XTmE0RUp4X2tFTERQOEo2cVFQaDR1NjdHckpMT3lvdTEtdWlmYWVDa01ZRl9IUzJBQmE0ZS15UUNNMlBfcWx1OWl5T3hjWWpTNmtBOXp1YUNFVzU4eU5NQWZhTzRZcC03QmZSQnJpTmNvNnEwXzAwc20yd2U5QmhhUGV5eEdmQ0V5dklRb9IBwwFBVV95cUxQTmFVZnNxcE45VW91di00S3BKZEZXZWNEN1p0UTB2M2xmdUZqN2lLdTF2NUUtZ1ZqbjFPZXRzdW9KcmtPbWFZSmt1V2p2OUlTcS1zaGU5dzBQMHNQZEhnTmROLVdXc183MjNITTRyM2NYSWc5aUJKb0MxR01MWU5NWEJXT0VmTWM5djZuUkxJSkw3NDRudUswWTBIUXJLMFRMc3NUeTNtbFRxdUFrcmk4cU5XcUE5b1dVVnl1ZWE5M1B4bTA?oc=5
+- Nomura initiates coverage on Waaree Energies, Waaree Energies; predicts upside of up to 16%
+  India’s power demand, expected to grow at a 6% CAGR through FY30, is a key growth driver for potential upside in both stocks. Nomura has initiated coverage on Wa
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nomura-initiates-coverage-on-waaree-energies-waaree-energies-predicts-upside-of-up-to-16/articleshow/123702442.cms
 
-- ‘Trump’s tariffs on India could...': US lawmaker's dire warning as President refuses to budge | Latest News India - Hindustan Times - Hindustan Times
-  ‘Trump’s tariffs on India could...': US lawmaker's dire warning as President refuses
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTzlJbTJFb0xuaFpZRlp5eUhoU2ptSXVhd2NCd21VSDZKMVlxWDRweXJxSG9IaGYzTGMtSGRkdGJZMDJvTE9zSTYzRjlQd1JYVzNORlpuSm9ZN3JPSmhYcWxWVzF0dTY3endjU3ZieTNpVzkzN050STNlcDI5bnpIblZLNzVWekExYjBKbHR5dFVoTVA4OVctckItQm9PVU1obmhkUGJqN1JlSHlnVVdVbHlkSTNGazZUU2l0ZDB0cFlUWlRDTVZuNk1vS3JQSnhJbktLOVVmUURxaXNab3BYZNIB5gFBVV95cUxNbHlCSjdZa0dETEdzTFFiNnpXNjBFN1lhQWpNTnZMclFORWEybm13T2VFMzNlbE5Ebmp4Z21FTlZOZFVhVWgxRzhYT0NBSXhKOWQtTUVtUkRlTnZpdzdKc2N0NjJaOGZNQ0ZaNUV3RmZvRldZclZnM1JCWXd1cWVXQ05ydVRPZzJkdDE2eEN0RnVjRVFiVkt4U3dUWFhLMzVTZXVqajNzODIxUmlCOVBlM2YzZ2hwemJ0dEdWTVkxajVCTW1zY1h4SmVHY0JCMGowaC1FWTBnS0Y0VkUzc3diam8wVWZ6dw?oc=5
+- Market Trading Guide: Coal India, Motherson Sumi and 2 more smallcaps are stocks to buy on Friday
+  Indian markets ended mixed on Thursday, with IT and energy stocks weighing on indices. Analysts highlight
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-coal-india-motherson-sumi-and-2-more-smallcaps-are-stocks-to-buy-on-friday/slideshow/123702394.cms
 
-- 'India's got big problems': Trump hints at 'phase-2, phase-3' of 'sanctions' over Russian oil purchase - - Times of India
-  'India's got big problems': Trump hints at 'phase-2, phase
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNOHVObG1HRDNiTHAwMTZwckU5TGFELTZCQV9NeUZSVEVjV3loWmlrWGNFNklFRmN2LUhKUEJjbUhROXlVWFpyQkN1dWxOcGlpbDRZWXR2aHZIUWpRRU5tMzN6VUZLeklxTUw1OGVBU2JZQXJzbWZDbC1faFdUbHdXd3A5aHJjbHdvckJBQnhvd2w1el80SlNCU25janJhd3RlM0R5SlVaQ2pLNUFCMkU0TXZUM1o4MEdkY2MyZU53TXBxUEhzM1VoZHJQWnd1dm4zbnNzdGpURE1HM2ZTbXlELTBwSmxrblo2eGxRbkZ4dEk4c1RVbmZILVgxVEpwYnM0TmlQaTByR0FyV2lBem1HT1lxZ9IBmAJBVV95cUxOU3pZSzRSTVlUYXhWcVMwUEdrdDRPTjZBeDAzNk9lckJ1VjFoTzVlenpsUTQ5U1RzN3pjNWxlUUxHdENlekk5YWZVWndPRzgwdmN1N3ZnY1JPZ0VYUWk4bWk2bjhTQlhpekxCM3drVlkyMXlpSlNFWFFsRFFtWXZiSktSWWtMWVdib1ZJUHMtbjZrSmtQcml0cTFXak9rVG5UWGtMZVNuVThSdGFQdVIyaklPSEdfMEhOUFowY0ozVDhOb00tdWNtVXRERXppLW50cHZtRC1uMnpWWmNCTFJGN1dSSWltSHMxc3Z1T1hIcEw5LWE0cTA5YjZnM1p6azhRZjZvV0sxR1RVT1JiWlo3eDYwN1pITHJa?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Friday
+  Nifty closed at 24,734 and Sensex at 80,718, with active trading in stocks like Ola Electric, Mahindra &amp. GST reforms supported consumption, while
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/123701934.cms
 
-- Top News Headlines of September 3, 2025 | Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives - The Indian Express
-  Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWTNqYk1RSFV0cjVXQWFVWkRRZ2VuajRZendiVGRsM29HQVZqcWRXM0RuMUtYc002elJXWDI5N0kwQzFMTWVqMXJ1TFRmYzJpRWJfUFc3d2kta3Vrc2hHXzRGNnZFZzFiekFrLUtUaFBPRFhrbDhOemRmWlFlOHRzcFAwYmRvem1kcGpIN1E2RHVUWVpMbTdvSmZQa0RHYXJBWENIWWdPTkh4NmRFeHhKMVpaelNVSG96cUlCSjVLQmxpdEdyUHZ4NXFtWGxzV0ZkMTJxU0p4V2tQcjlSOE1hVmtHZlI2Z3lF0gHvAUFVX3lxTE5QcXIyYjZVRTdvYlNobTRzTm1ickgxSE1IMFlnbUhNS1JaZDdkVEJ1algydnRrVUh0Ujc0OHlpRU1rbWNTMVA0T3daVW5VaEpQOVd0QWU2ckdyNjd5UDNoeUlCdmJ3alpBOFlGdFhRLVRSc0E3aHNGV3g2NzBfcFdXME5qbzc3clJuTTZWXzFxOFZhSlU0OUNZNVJVZkp3T2Z1YTZxRzZmVnRCS2xTem5PZmRpcXBQODVLY2xoamVDWl9GTktMc19rR2dqNmJKdHF6UFFtR29BOFJuYlF3Z256eDdROXF1OWxRVUhtdmlV?oc=5
+- Porinju Veliyath buys shares worth Rs 5.5 crore in Fratelli Vineyards via bulk deals
+  Investor Porinju Veliyath acquired 5 lakh shares in Fratelli Vineyards worth Rs 5.5 crore via bulk deals. The stock rose 5% to Rs 109.70 despite being oversold and a year-long
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/porinju-veliyath-buys-shares-worth-rs-5-5-crore-in-fratelli-vineyards-via-bulk-deals/articleshow/123701824.cms
 
-- Why No Action Against Russia? Trump Snaps At Reporter With "India" Reply - NDTV
-  The White House has refused to take action
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaktXNkFfWkdVWUFoRjB5M2Fsb2RoR3VqWUVDNlZZR0ItMFFmVjdsazlqcmtKcl85ZUQwd2U4STJJQWhhaXRWTmpwbUdLUWQ3M2FrTDkxNDNZWGt1M1JSWEVkTXR2OVY3Ukl4VGRodFFFMUtQZFFHUDYydS1jby1iTGI1T3VkNGJuVlNiY1lNR2tHWjBNYmJnZGtRMGR1STNLRW5PQm1ZaXVudGV4TXRTTl9qenBpQ1VJMXZNTlhGc1dqQVNSSklMUlVmaTBEbmp5VzV0NmhQQdIB3wFBVV95cUxNdGM5YVJfR3VWVmtjQzVRNVV0Q2k2eUxqNkJhN2FrNTBwdGFBQ3ZGTzJwTV9PTWRvVlFrYk16M3JIT1R3SldFU2l2WHMyRVc1dGxxWGR2c1k2M3pmTkthQlBoaDMzX0NhUkdLQkpzN0ROUXJiYS0xUmxKZ0Y2cHMzQnpqUWtkZnlCT0lvdWczaE43RFMtckhQWUczZ2h3WUxVWTlMNlR6Q1FEUXNycG54dUZiMGt3bzdXWHFlMDdVWUtPX2IwQWMtU1FXNVJKQTdJZE5pWER3aEJXZkZ3eUw4?oc=5
-
-- India killed U.S. with tariffs, now offers ‘no tariffs’: Trump - The Hindu
-  India killed U.S. with tariffs,
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXhfNUhhWmMxZVpFQVlLaHF0UnBJcEFhbzdQdVpxMHZxRVdmbkhKSng0bklUdk9XTmE0RUp4X2tFTERQOEo2cVFQaDR1NjdHckpMT3lvdTEtdWlmYWVDa01ZRl9IUzJBQmE0ZS15UUNNMlBfcWx1OWl5T3hjWWpTNmtBOXp1YUNFVzU4eU5NQWZhTzRZcC03QmZSQnJpTmNvNnEwXzAwc20yd2U5QmhhUGV5eEdmQ0V5dklRb9IBwwFBVV95cUxQTmFVZnNxcE45VW91di00S3BKZEZXZWNEN1p0UTB2M2xmdUZqN2lLdTF2NUUtZ1ZqbjFPZXRzdW9KcmtPbWFZSmt1V2p2OUlTcS1zaGU5dzBQMHNQZEhnTmROLVdXc183MjNITTRyM2NYSWc5aUJKb0MxR01MWU5NWEJXT0VmTWM5djZuUkxJSkw3NDRudUswWTBIUXJLMFRMc3NUeTNtbFRxdUFrcmk4cU5XcUE5b1dVVnl1ZWE5M1B4bTA?oc=5
+- Trump Links India Tariffs To Ending Ukraine War In Supreme Court Plea - NDTV
+  Trump Links India Tariffs To Ending Ukraine War In
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjRDTkRRSzRHWlZPaDlqV2xzRDd1b19XWHBqM0kycnFTd1FzWnZDbFkxWHoyRWZZTlN4ejlBQU82Q0kwU21EWWZyTzF6QUlfaEFVUW9oV2ZQcnlxMDhzT1VEaVJIWkpPZFBfSmRLUUczM094eG1ubVdSb0pnd3IzekdfcTVLbjF5LVZFclB1THExcWtlekR1alVSdG9wSXR1TnhqUTc0OUpCYlMtQlRPQ0s5R2UyMVnSAb8BQVVfeXFMT2xOUnZMMllsQk9wX09BRWFEODU1LVlCTE9QdkxMNS0yQ0ZlQlQxVVBFTEg2b3ptNGdaaWJ5LWY4dEtxNlU3Ry0wWno4azQ4ZU9UbU1LVjhKdjVHRW1IblBKQlRkSE9uOXl2Q1dtWGhETlZGaGtuanctcFktQ0dNUFhBeElVR3JPSUt3cDFFTUtJNXZkSmF4bmtDb3ZuSjJWTm44MlBhcWV3YVR4eXdZc0JubEk1ZUdqa1BMRHl3N1E?oc=5
 
 - ‘Trump’s tariffs on India could...': US lawmaker's dire warning as President refuses to budge | Latest News India - Hindustan Times - Hindustan Times
   ‘Trump’s tariffs on India could...': US lawmaker's dire warning as President refuses
   🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTzlJbTJFb0xuaFpZRlp5eUhoU2ptSXVhd2NCd21VSDZKMVlxWDRweXJxSG9IaGYzTGMtSGRkdGJZMDJvTE9zSTYzRjlQd1JYVzNORlpuSm9ZN3JPSmhYcWxWVzF0dTY3endjU3ZieTNpVzkzN050STNlcDI5bnpIblZLNzVWekExYjBKbHR5dFVoTVA4OVctckItQm9PVU1obmhkUGJqN1JlSHlnVVdVbHlkSTNGazZUU2l0ZDB0cFlUWlRDTVZuNk1vS3JQSnhJbktLOVVmUURxaXNab3BYZNIB5gFBVV95cUxNbHlCSjdZa0dETEdzTFFiNnpXNjBFN1lhQWpNTnZMclFORWEybm13T2VFMzNlbE5Ebmp4Z21FTlZOZFVhVWgxRzhYT0NBSXhKOWQtTUVtUkRlTnZpdzdKc2N0NjJaOGZNQ0ZaNUV3RmZvRldZclZnM1JCWXd1cWVXQ05ydVRPZzJkdDE2eEN0RnVjRVFiVkt4U3dUWFhLMzVTZXVqajNzODIxUmlCOVBlM2YzZ2hwemJ0dEdWTVkxajVCTW1zY1h4SmVHY0JCMGowaC1FWTBnS0Y0VkUzc3diam8wVWZ6dw?oc=5
 
-- 'India's got big problems': Trump hints at 'phase-2, phase-3' of 'sanctions' over Russian oil purchase - - Times of India
-  'India's got big problems': Trump hints at 'phase-2, phase
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNOHVObG1HRDNiTHAwMTZwckU5TGFELTZCQV9NeUZSVEVjV3loWmlrWGNFNklFRmN2LUhKUEJjbUhROXlVWFpyQkN1dWxOcGlpbDRZWXR2aHZIUWpRRU5tMzN6VUZLeklxTUw1OGVBU2JZQXJzbWZDbC1faFdUbHdXd3A5aHJjbHdvckJBQnhvd2w1el80SlNCU25janJhd3RlM0R5SlVaQ2pLNUFCMkU0TXZUM1o4MEdkY2MyZU53TXBxUEhzM1VoZHJQWnd1dm4zbnNzdGpURE1HM2ZTbXlELTBwSmxrblo2eGxRbkZ4dEk4c1RVbmZILVgxVEpwYnM0TmlQaTByR0FyV2lBem1HT1lxZ9IBmAJBVV95cUxOU3pZSzRSTVlUYXhWcVMwUEdrdDRPTjZBeDAzNk9lckJ1VjFoTzVlenpsUTQ5U1RzN3pjNWxlUUxHdENlekk5YWZVWndPRzgwdmN1N3ZnY1JPZ0VYUWk4bWk2bjhTQlhpekxCM3drVlkyMXlpSlNFWFFsRFFtWXZiSktSWWtMWVdib1ZJUHMtbjZrSmtQcml0cTFXak9rVG5UWGtMZVNuVThSdGFQdVIyaklPSEdfMEhOUFowY0ozVDhOb00tdWNtVXRERXppLW50cHZtRC1uMnpWWmNCTFJGN1dSSWltSHMxc3Z1T1hIcEw5LWE0cTA5YjZnM1p6azhRZjZvV0sxR1RVT1JiWlo3eDYwN1pITHJa?oc=5
+- Earthquake tremors felt in Delhi-NCR; epicenter in Afghanistan - India TV News
+  Earthquake tremors felt in Delhi
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZW9keHh0WXVyWFpFWVphMml0aHZUSlQtaVVJNHFiTUJwcHp5Y0N2VVkzSTdUTEcwODRHb1RBd2lqS2p0TUNOX2pqYVM2Q0hHUFFZZWJibmFyeDN0VGV2cm81T3RHLThWTDZoY24wOFlLdGVoZTRyTmtTbjZ5THdOdUZYNmI0aWkwMXJWWHU1cFFZSHl0VDBoQ29JV1JmaGdrUWxlQXFIb19BclpjU0pUenZUdWJVWE9UV3JOY29OS1hla1JKcWRad1hCdlVSSHNjcEw1ZnM2Z9IB3AFBVV95cUxQbHdxUHZEV0FiYjd3bHJjOHF0QzE5djBCZlNzRmZjdzJUZkZHQ2xBOGRNejNPMFdHRHNvNmQySGJEY2NvN08yUkRCNUZxVGhaNkNvQTBlZ08tWktwd1V1eXdUZE8yTDN1SkhUYTlhOVo5MVZwTlJCeWtYcFRGdHRZT2JvcnBQeUVRY2hWYkFMU29CVHRoTG9PVWVkd1p4akZBVjFYWTdQb2pWenZ3d0xsTjZvN2lpODFwZDZSYlFYTkhkbGVIRW5FRGhvX3BrYzZCX1NtY0R0NldEWWxH?oc=5
 
-- Top News Headlines of September 3, 2025 | Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives - The Indian Express
-  Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWTNqYk1RSFV0cjVXQWFVWkRRZ2VuajRZendiVGRsM29HQVZqcWRXM0RuMUtYc002elJXWDI5N0kwQzFMTWVqMXJ1TFRmYzJpRWJfUFc3d2kta3Vrc2hHXzRGNnZFZzFiekFrLUtUaFBPRFhrbDhOemRmWlFlOHRzcFAwYmRvem1kcGpIN1E2RHVUWVpMbTdvSmZQa0RHYXJBWENIWWdPTkh4NmRFeHhKMVpaelNVSG96cUlCSjVLQmxpdEdyUHZ4NXFtWGxzV0ZkMTJxU0p4V2tQcjlSOE1hVmtHZlI2Z3lF0gHvAUFVX3lxTE5QcXIyYjZVRTdvYlNobTRzTm1ickgxSE1IMFlnbUhNS1JaZDdkVEJ1algydnRrVUh0Ujc0OHlpRU1rbWNTMVA0T3daVW5VaEpQOVd0QWU2ckdyNjd5UDNoeUlCdmJ3alpBOFlGdFhRLVRSc0E3aHNGV3g2NzBfcFdXME5qbzc3clJuTTZWXzFxOFZhSlU0OUNZNVJVZkp3T2Z1YTZxRzZmVnRCS2xTem5PZmRpcXBQODVLY2xoamVDWl9GTktMc19rR2dqNmJKdHF6UFFtR29BOFJuYlF3Z256eDdROXF1OWxRVUhtdmlV?oc=5
-
-- Why No Action Against Russia? Trump Snaps At Reporter With "India" Reply - NDTV
-  The White House has refused to take action
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaktXNkFfWkdVWUFoRjB5M2Fsb2RoR3VqWUVDNlZZR0ItMFFmVjdsazlqcmtKcl85ZUQwd2U4STJJQWhhaXRWTmpwbUdLUWQ3M2FrTDkxNDNZWGt1M1JSWEVkTXR2OVY3Ukl4VGRodFFFMUtQZFFHUDYydS1jby1iTGI1T3VkNGJuVlNiY1lNR2tHWjBNYmJnZGtRMGR1STNLRW5PQm1ZaXVudGV4TXRTTl9qenBpQ1VJMXZNTlhGc1dqQVNSSklMUlVmaTBEbmp5VzV0NmhQQdIB3wFBVV95cUxNdGM5YVJfR3VWVmtjQzVRNVV0Q2k2eUxqNkJhN2FrNTBwdGFBQ3ZGTzJwTV9PTWRvVlFrYk16M3JIT1R3SldFU2l2WHMyRVc1dGxxWGR2c1k2M3pmTkthQlBoaDMzX0NhUkdLQkpzN0ROUXJiYS0xUmxKZ0Y2cHMzQnpqUWtkZnlCT0lvdWczaE43RFMtckhQWUczZ2h3WUxVWTlMNlR6Q1FEUXNycG54dUZiMGt3bzdXWHFlMDdVWUtPX2IwQWMtU1FXNVJKQTdJZE5pWER3aEJXZkZ3eUw4?oc=5
+- Why GST Rationalised Now: PM's Economic Adviser Explains - NDTV
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPNUw0Uzlkel9EM2R5MWhvQ1g1bEdKdTZuWElNbml4Xy1Sdkg5QTY4Qml4V2xHbS1vNjVGNTl6Z3A3YWQ2VzVEX1k0NVVCUWxXVjhsc0hOQ2k1ajFwUTJoVFExck5BZUwzMnpROHVrNER5WE8xanVfa0duQTZkX2wwdVVFWGM0Tld3WVRWUS11ZHNCMHpNOEJIMWxB0gGiAUFVX3lxTE9aeEc3cUZ5WkNGOGNmNzBXeW93SnhUVjVzM2VBM08wWGlRU3pidDRVSXhUdEdnRjlrMUNkd1RIb01aeVhXUmN2QkRoZWVndTYtdENuS1Q4SVpsZWg2UVotZG1nd3NaS2FmQW96eFFFVlN1VEdGNUJiaUkzczRZV3oyX3JRYW5kejJFaTB1UUtnVFk1WWZTMUgwd3lVS0t4SjJYZw?oc=5
 
 - India killed U.S. with tariffs, now offers ‘no tariffs’: Trump - The Hindu
   India killed U.S. with tariffs,
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXhfNUhhWmMxZVpFQVlLaHF0UnBJcEFhbzdQdVpxMHZxRVdmbkhKSng0bklUdk9XTmE0RUp4X2tFTERQOEo2cVFQaDR1NjdHckpMT3lvdTEtdWlmYWVDa01ZRl9IUzJBQmE0ZS15UUNNMlBfcWx1OWl5T3hjWWpTNmtBOXp1YUNFVzU4eU5NQWZhTzRZcC03QmZSQnJpTmNvNnEwXzAwc20yd2U5QmhhUGV5eEdmQ0V5dklRb9IBwwFBVV95cUxQTmFVZnNxcE45VW91di00S3BKZEZXZWNEN1p0UTB2M2xmdUZqN2lLdTF2NUUtZ1ZqbjFPZXRzdW9KcmtPbWFZSmt1V2p2OUlTcS1zaGU5dzBQMHNQZEhnTmROLVdXc183MjNITTRyM2NYSWc5aUJKb0MxR01MWU5NWEJXT0VmTWM5djZuUkxJSkw3NDRudUswWTBIUXJLMFRMc3NUeTNtbFRxdUFrcmk4cU5XcUE5b1dVVnl1ZWE5M1B4bTA?oc=5
 
+- Trump Links India Tariffs To Ending Ukraine War In Supreme Court Plea - NDTV
+  Trump Links India Tariffs To Ending Ukraine War In
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjRDTkRRSzRHWlZPaDlqV2xzRDd1b19XWHBqM0kycnFTd1FzWnZDbFkxWHoyRWZZTlN4ejlBQU82Q0kwU21EWWZyTzF6QUlfaEFVUW9oV2ZQcnlxMDhzT1VEaVJIWkpPZFBfSmRLUUczM094eG1ubVdSb0pnd3IzekdfcTVLbjF5LVZFclB1THExcWtlekR1alVSdG9wSXR1TnhqUTc0OUpCYlMtQlRPQ0s5R2UyMVnSAb8BQVVfeXFMT2xOUnZMMllsQk9wX09BRWFEODU1LVlCTE9QdkxMNS0yQ0ZlQlQxVVBFTEg2b3ptNGdaaWJ5LWY4dEtxNlU3Ry0wWno4azQ4ZU9UbU1LVjhKdjVHRW1IblBKQlRkSE9uOXl2Q1dtWGhETlZGaGtuanctcFktQ0dNUFhBeElVR3JPSUt3cDFFTUtJNXZkSmF4bmtDb3ZuSjJWTm44MlBhcWV3YVR4eXdZc0JubEk1ZUdqa1BMRHl3N1E?oc=5
+
 - ‘Trump’s tariffs on India could...': US lawmaker's dire warning as President refuses to budge | Latest News India - Hindustan Times - Hindustan Times
   ‘Trump’s tariffs on India could...': US lawmaker's dire warning as President refuses
   🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTzlJbTJFb0xuaFpZRlp5eUhoU2ptSXVhd2NCd21VSDZKMVlxWDRweXJxSG9IaGYzTGMtSGRkdGJZMDJvTE9zSTYzRjlQd1JYVzNORlpuSm9ZN3JPSmhYcWxWVzF0dTY3endjU3ZieTNpVzkzN050STNlcDI5bnpIblZLNzVWekExYjBKbHR5dFVoTVA4OVctckItQm9PVU1obmhkUGJqN1JlSHlnVVdVbHlkSTNGazZUU2l0ZDB0cFlUWlRDTVZuNk1vS3JQSnhJbktLOVVmUURxaXNab3BYZNIB5gFBVV95cUxNbHlCSjdZa0dETEdzTFFiNnpXNjBFN1lhQWpNTnZMclFORWEybm13T2VFMzNlbE5Ebmp4Z21FTlZOZFVhVWgxRzhYT0NBSXhKOWQtTUVtUkRlTnZpdzdKc2N0NjJaOGZNQ0ZaNUV3RmZvRldZclZnM1JCWXd1cWVXQ05ydVRPZzJkdDE2eEN0RnVjRVFiVkt4U3dUWFhLMzVTZXVqajNzODIxUmlCOVBlM2YzZ2hwemJ0dEdWTVkxajVCTW1zY1h4SmVHY0JCMGowaC1FWTBnS0Y0VkUzc3diam8wVWZ6dw?oc=5
 
-- 'India's got big problems': Trump hints at 'phase-2, phase-3' of 'sanctions' over Russian oil purchase - - Times of India
-  'India's got big problems': Trump hints at 'phase-2, phase
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNOHVObG1HRDNiTHAwMTZwckU5TGFELTZCQV9NeUZSVEVjV3loWmlrWGNFNklFRmN2LUhKUEJjbUhROXlVWFpyQkN1dWxOcGlpbDRZWXR2aHZIUWpRRU5tMzN6VUZLeklxTUw1OGVBU2JZQXJzbWZDbC1faFdUbHdXd3A5aHJjbHdvckJBQnhvd2w1el80SlNCU25janJhd3RlM0R5SlVaQ2pLNUFCMkU0TXZUM1o4MEdkY2MyZU53TXBxUEhzM1VoZHJQWnd1dm4zbnNzdGpURE1HM2ZTbXlELTBwSmxrblo2eGxRbkZ4dEk4c1RVbmZILVgxVEpwYnM0TmlQaTByR0FyV2lBem1HT1lxZ9IBmAJBVV95cUxOU3pZSzRSTVlUYXhWcVMwUEdrdDRPTjZBeDAzNk9lckJ1VjFoTzVlenpsUTQ5U1RzN3pjNWxlUUxHdENlekk5YWZVWndPRzgwdmN1N3ZnY1JPZ0VYUWk4bWk2bjhTQlhpekxCM3drVlkyMXlpSlNFWFFsRFFtWXZiSktSWWtMWVdib1ZJUHMtbjZrSmtQcml0cTFXak9rVG5UWGtMZVNuVThSdGFQdVIyaklPSEdfMEhOUFowY0ozVDhOb00tdWNtVXRERXppLW50cHZtRC1uMnpWWmNCTFJGN1dSSWltSHMxc3Z1T1hIcEw5LWE0cTA5YjZnM1p6azhRZjZvV0sxR1RVT1JiWlo3eDYwN1pITHJa?oc=5
+- Earthquake tremors felt in Delhi-NCR; epicenter in Afghanistan - India TV News
+  Earthquake tremors felt in Delhi
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZW9keHh0WXVyWFpFWVphMml0aHZUSlQtaVVJNHFiTUJwcHp5Y0N2VVkzSTdUTEcwODRHb1RBd2lqS2p0TUNOX2pqYVM2Q0hHUFFZZWJibmFyeDN0VGV2cm81T3RHLThWTDZoY24wOFlLdGVoZTRyTmtTbjZ5THdOdUZYNmI0aWkwMXJWWHU1cFFZSHl0VDBoQ29JV1JmaGdrUWxlQXFIb19BclpjU0pUenZUdWJVWE9UV3JOY29OS1hla1JKcWRad1hCdlVSSHNjcEw1ZnM2Z9IB3AFBVV95cUxQbHdxUHZEV0FiYjd3bHJjOHF0QzE5djBCZlNzRmZjdzJUZkZHQ2xBOGRNejNPMFdHRHNvNmQySGJEY2NvN08yUkRCNUZxVGhaNkNvQTBlZ08tWktwd1V1eXdUZE8yTDN1SkhUYTlhOVo5MVZwTlJCeWtYcFRGdHRZT2JvcnBQeUVRY2hWYkFMU29CVHRoTG9PVWVkd1p4akZBVjFYWTdQb2pWenZ3d0xsTjZvN2lpODFwZDZSYlFYTkhkbGVIRW5FRGhvX3BrYzZCX1NtY0R0NldEWWxH?oc=5
 
-- Top News Headlines of September 3, 2025 | Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives - The Indian Express
-  Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWTNqYk1RSFV0cjVXQWFVWkRRZ2VuajRZendiVGRsM29HQVZqcWRXM0RuMUtYc002elJXWDI5N0kwQzFMTWVqMXJ1TFRmYzJpRWJfUFc3d2kta3Vrc2hHXzRGNnZFZzFiekFrLUtUaFBPRFhrbDhOemRmWlFlOHRzcFAwYmRvem1kcGpIN1E2RHVUWVpMbTdvSmZQa0RHYXJBWENIWWdPTkh4NmRFeHhKMVpaelNVSG96cUlCSjVLQmxpdEdyUHZ4NXFtWGxzV0ZkMTJxU0p4V2tQcjlSOE1hVmtHZlI2Z3lF0gHvAUFVX3lxTE5QcXIyYjZVRTdvYlNobTRzTm1ickgxSE1IMFlnbUhNS1JaZDdkVEJ1algydnRrVUh0Ujc0OHlpRU1rbWNTMVA0T3daVW5VaEpQOVd0QWU2ckdyNjd5UDNoeUlCdmJ3alpBOFlGdFhRLVRSc0E3aHNGV3g2NzBfcFdXME5qbzc3clJuTTZWXzFxOFZhSlU0OUNZNVJVZkp3T2Z1YTZxRzZmVnRCS2xTem5PZmRpcXBQODVLY2xoamVDWl9GTktMc19rR2dqNmJKdHF6UFFtR29BOFJuYlF3Z256eDdROXF1OWxRVUhtdmlV?oc=5
-
-- Why No Action Against Russia? Trump Snaps At Reporter With "India" Reply - NDTV
-  The White House has refused to take action
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaktXNkFfWkdVWUFoRjB5M2Fsb2RoR3VqWUVDNlZZR0ItMFFmVjdsazlqcmtKcl85ZUQwd2U4STJJQWhhaXRWTmpwbUdLUWQ3M2FrTDkxNDNZWGt1M1JSWEVkTXR2OVY3Ukl4VGRodFFFMUtQZFFHUDYydS1jby1iTGI1T3VkNGJuVlNiY1lNR2tHWjBNYmJnZGtRMGR1STNLRW5PQm1ZaXVudGV4TXRTTl9qenBpQ1VJMXZNTlhGc1dqQVNSSklMUlVmaTBEbmp5VzV0NmhQQdIB3wFBVV95cUxNdGM5YVJfR3VWVmtjQzVRNVV0Q2k2eUxqNkJhN2FrNTBwdGFBQ3ZGTzJwTV9PTWRvVlFrYk16M3JIT1R3SldFU2l2WHMyRVc1dGxxWGR2c1k2M3pmTkthQlBoaDMzX0NhUkdLQkpzN0ROUXJiYS0xUmxKZ0Y2cHMzQnpqUWtkZnlCT0lvdWczaE43RFMtckhQWUczZ2h3WUxVWTlMNlR6Q1FEUXNycG54dUZiMGt3bzdXWHFlMDdVWUtPX2IwQWMtU1FXNVJKQTdJZE5pWER3aEJXZkZ3eUw4?oc=5
+- Why GST Rationalised Now: PM's Economic Adviser Explains - NDTV
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPNUw0Uzlkel9EM2R5MWhvQ1g1bEdKdTZuWElNbml4Xy1Sdkg5QTY4Qml4V2xHbS1vNjVGNTl6Z3A3YWQ2VzVEX1k0NVVCUWxXVjhsc0hOQ2k1ajFwUTJoVFExck5BZUwzMnpROHVrNER5WE8xanVfa0duQTZkX2wwdVVFWGM0Tld3WVRWUS11ZHNCMHpNOEJIMWxB0gGiAUFVX3lxTE9aeEc3cUZ5WkNGOGNmNzBXeW93SnhUVjVzM2VBM08wWGlRU3pidDRVSXhUdEdnRjlrMUNkd1RIb01aeVhXUmN2QkRoZWVndTYtdENuS1Q4SVpsZWg2UVotZG1nd3NaS2FmQW96eFFFVlN1VEdGNUJiaUkzczRZV3oyX3JRYW5kejJFaTB1UUtnVFk1WWZTMUgwd3lVS0t4SjJYZw?oc=5
 
 - India killed U.S. with tariffs, now offers ‘no tariffs’: Trump - The Hindu
   India killed U.S. with tariffs,
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXhfNUhhWmMxZVpFQVlLaHF0UnBJcEFhbzdQdVpxMHZxRVdmbkhKSng0bklUdk9XTmE0RUp4X2tFTERQOEo2cVFQaDR1NjdHckpMT3lvdTEtdWlmYWVDa01ZRl9IUzJBQmE0ZS15UUNNMlBfcWx1OWl5T3hjWWpTNmtBOXp1YUNFVzU4eU5NQWZhTzRZcC03QmZSQnJpTmNvNnEwXzAwc20yd2U5QmhhUGV5eEdmQ0V5dklRb9IBwwFBVV95cUxQTmFVZnNxcE45VW91di00S3BKZEZXZWNEN1p0UTB2M2xmdUZqN2lLdTF2NUUtZ1ZqbjFPZXRzdW9KcmtPbWFZSmt1V2p2OUlTcS1zaGU5dzBQMHNQZEhnTmROLVdXc183MjNITTRyM2NYSWc5aUJKb0MxR01MWU5NWEJXT0VmTWM5djZuUkxJSkw3NDRudUswWTBIUXJLMFRMc3NUeTNtbFRxdUFrcmk4cU5XcUE5b1dVVnl1ZWE5M1B4bTA?oc=5
 
+- Trump Links India Tariffs To Ending Ukraine War In Supreme Court Plea - NDTV
+  Trump Links India Tariffs To Ending Ukraine War In
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjRDTkRRSzRHWlZPaDlqV2xzRDd1b19XWHBqM0kycnFTd1FzWnZDbFkxWHoyRWZZTlN4ejlBQU82Q0kwU21EWWZyTzF6QUlfaEFVUW9oV2ZQcnlxMDhzT1VEaVJIWkpPZFBfSmRLUUczM094eG1ubVdSb0pnd3IzekdfcTVLbjF5LVZFclB1THExcWtlekR1alVSdG9wSXR1TnhqUTc0OUpCYlMtQlRPQ0s5R2UyMVnSAb8BQVVfeXFMT2xOUnZMMllsQk9wX09BRWFEODU1LVlCTE9QdkxMNS0yQ0ZlQlQxVVBFTEg2b3ptNGdaaWJ5LWY4dEtxNlU3Ry0wWno4azQ4ZU9UbU1LVjhKdjVHRW1IblBKQlRkSE9uOXl2Q1dtWGhETlZGaGtuanctcFktQ0dNUFhBeElVR3JPSUt3cDFFTUtJNXZkSmF4bmtDb3ZuSjJWTm44MlBhcWV3YVR4eXdZc0JubEk1ZUdqa1BMRHl3N1E?oc=5
+
 - ‘Trump’s tariffs on India could...': US lawmaker's dire warning as President refuses to budge | Latest News India - Hindustan Times - Hindustan Times
   ‘Trump’s tariffs on India could...': US lawmaker's dire warning as President refuses
   🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTzlJbTJFb0xuaFpZRlp5eUhoU2ptSXVhd2NCd21VSDZKMVlxWDRweXJxSG9IaGYzTGMtSGRkdGJZMDJvTE9zSTYzRjlQd1JYVzNORlpuSm9ZN3JPSmhYcWxWVzF0dTY3endjU3ZieTNpVzkzN050STNlcDI5bnpIblZLNzVWekExYjBKbHR5dFVoTVA4OVctckItQm9PVU1obmhkUGJqN1JlSHlnVVdVbHlkSTNGazZUU2l0ZDB0cFlUWlRDTVZuNk1vS3JQSnhJbktLOVVmUURxaXNab3BYZNIB5gFBVV95cUxNbHlCSjdZa0dETEdzTFFiNnpXNjBFN1lhQWpNTnZMclFORWEybm13T2VFMzNlbE5Ebmp4Z21FTlZOZFVhVWgxRzhYT0NBSXhKOWQtTUVtUkRlTnZpdzdKc2N0NjJaOGZNQ0ZaNUV3RmZvRldZclZnM1JCWXd1cWVXQ05ydVRPZzJkdDE2eEN0RnVjRVFiVkt4U3dUWFhLMzVTZXVqajNzODIxUmlCOVBlM2YzZ2hwemJ0dEdWTVkxajVCTW1zY1h4SmVHY0JCMGowaC1FWTBnS0Y0VkUzc3diam8wVWZ6dw?oc=5
 
-- 'India's got big problems': Trump hints at 'phase-2, phase-3' of 'sanctions' over Russian oil purchase - - Times of India
-  'India's got big problems': Trump hints at 'phase-2, phase
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNOHVObG1HRDNiTHAwMTZwckU5TGFELTZCQV9NeUZSVEVjV3loWmlrWGNFNklFRmN2LUhKUEJjbUhROXlVWFpyQkN1dWxOcGlpbDRZWXR2aHZIUWpRRU5tMzN6VUZLeklxTUw1OGVBU2JZQXJzbWZDbC1faFdUbHdXd3A5aHJjbHdvckJBQnhvd2w1el80SlNCU25janJhd3RlM0R5SlVaQ2pLNUFCMkU0TXZUM1o4MEdkY2MyZU53TXBxUEhzM1VoZHJQWnd1dm4zbnNzdGpURE1HM2ZTbXlELTBwSmxrblo2eGxRbkZ4dEk4c1RVbmZILVgxVEpwYnM0TmlQaTByR0FyV2lBem1HT1lxZ9IBmAJBVV95cUxOU3pZSzRSTVlUYXhWcVMwUEdrdDRPTjZBeDAzNk9lckJ1VjFoTzVlenpsUTQ5U1RzN3pjNWxlUUxHdENlekk5YWZVWndPRzgwdmN1N3ZnY1JPZ0VYUWk4bWk2bjhTQlhpekxCM3drVlkyMXlpSlNFWFFsRFFtWXZiSktSWWtMWVdib1ZJUHMtbjZrSmtQcml0cTFXak9rVG5UWGtMZVNuVThSdGFQdVIyaklPSEdfMEhOUFowY0ozVDhOb00tdWNtVXRERXppLW50cHZtRC1uMnpWWmNCTFJGN1dSSWltSHMxc3Z1T1hIcEw5LWE0cTA5YjZnM1p6azhRZjZvV0sxR1RVT1JiWlo3eDYwN1pITHJa?oc=5
+- Earthquake tremors felt in Delhi-NCR; epicenter in Afghanistan - India TV News
+  Earthquake tremors felt in Delhi
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZW9keHh0WXVyWFpFWVphMml0aHZUSlQtaVVJNHFiTUJwcHp5Y0N2VVkzSTdUTEcwODRHb1RBd2lqS2p0TUNOX2pqYVM2Q0hHUFFZZWJibmFyeDN0VGV2cm81T3RHLThWTDZoY24wOFlLdGVoZTRyTmtTbjZ5THdOdUZYNmI0aWkwMXJWWHU1cFFZSHl0VDBoQ29JV1JmaGdrUWxlQXFIb19BclpjU0pUenZUdWJVWE9UV3JOY29OS1hla1JKcWRad1hCdlVSSHNjcEw1ZnM2Z9IB3AFBVV95cUxQbHdxUHZEV0FiYjd3bHJjOHF0QzE5djBCZlNzRmZjdzJUZkZHQ2xBOGRNejNPMFdHRHNvNmQySGJEY2NvN08yUkRCNUZxVGhaNkNvQTBlZ08tWktwd1V1eXdUZE8yTDN1SkhUYTlhOVo5MVZwTlJCeWtYcFRGdHRZT2JvcnBQeUVRY2hWYkFMU29CVHRoTG9PVWVkd1p4akZBVjFYWTdQb2pWenZ3d0xsTjZvN2lpODFwZDZSYlFYTkhkbGVIRW5FRGhvX3BrYzZCX1NtY0R0NldEWWxH?oc=5
 
-- Top News Headlines of September 3, 2025 | Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives - The Indian Express
-  Pfizer defends COVID-19 vaccine effectiveness, says it saved 14 million lives.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWTNqYk1RSFV0cjVXQWFVWkRRZ2VuajRZendiVGRsM29HQVZqcWRXM0RuMUtYc002elJXWDI5N0kwQzFMTWVqMXJ1TFRmYzJpRWJfUFc3d2kta3Vrc2hHXzRGNnZFZzFiekFrLUtUaFBPRFhrbDhOemRmWlFlOHRzcFAwYmRvem1kcGpIN1E2RHVUWVpMbTdvSmZQa0RHYXJBWENIWWdPTkh4NmRFeHhKMVpaelNVSG96cUlCSjVLQmxpdEdyUHZ4NXFtWGxzV0ZkMTJxU0p4V2tQcjlSOE1hVmtHZlI2Z3lF0gHvAUFVX3lxTE5QcXIyYjZVRTdvYlNobTRzTm1ickgxSE1IMFlnbUhNS1JaZDdkVEJ1algydnRrVUh0Ujc0OHlpRU1rbWNTMVA0T3daVW5VaEpQOVd0QWU2ckdyNjd5UDNoeUlCdmJ3alpBOFlGdFhRLVRSc0E3aHNGV3g2NzBfcFdXME5qbzc3clJuTTZWXzFxOFZhSlU0OUNZNVJVZkp3T2Z1YTZxRzZmVnRCS2xTem5PZmRpcXBQODVLY2xoamVDWl9GTktMc19rR2dqNmJKdHF6UFFtR29BOFJuYlF3Z256eDdROXF1OWxRVUhtdmlV?oc=5
+- Why GST Rationalised Now: PM's Economic Adviser Explains - NDTV
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPNUw0Uzlkel9EM2R5MWhvQ1g1bEdKdTZuWElNbml4Xy1Sdkg5QTY4Qml4V2xHbS1vNjVGNTl6Z3A3YWQ2VzVEX1k0NVVCUWxXVjhsc0hOQ2k1ajFwUTJoVFExck5BZUwzMnpROHVrNER5WE8xanVfa0duQTZkX2wwdVVFWGM0Tld3WVRWUS11ZHNCMHpNOEJIMWxB0gGiAUFVX3lxTE9aeEc3cUZ5WkNGOGNmNzBXeW93SnhUVjVzM2VBM08wWGlRU3pidDRVSXhUdEdnRjlrMUNkd1RIb01aeVhXUmN2QkRoZWVndTYtdENuS1Q4SVpsZWg2UVotZG1nd3NaS2FmQW96eFFFVlN1VEdGNUJiaUkzczRZV3oyX3JRYW5kejJFaTB1UUtnVFk1WWZTMUgwd3lVS0t4SjJYZw?oc=5
+
+- India killed U.S. with tariffs, now offers ‘no tariffs’: Trump - The Hindu
+  India killed U.S. with tariffs,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXhfNUhhWmMxZVpFQVlLaHF0UnBJcEFhbzdQdVpxMHZxRVdmbkhKSng0bklUdk9XTmE0RUp4X2tFTERQOEo2cVFQaDR1NjdHckpMT3lvdTEtdWlmYWVDa01ZRl9IUzJBQmE0ZS15UUNNMlBfcWx1OWl5T3hjWWpTNmtBOXp1YUNFVzU4eU5NQWZhTzRZcC03QmZSQnJpTmNvNnEwXzAwc20yd2U5QmhhUGV5eEdmQ0V5dklRb9IBwwFBVV95cUxQTmFVZnNxcE45VW91di00S3BKZEZXZWNEN1p0UTB2M2xmdUZqN2lLdTF2NUUtZ1ZqbjFPZXRzdW9KcmtPbWFZSmt1V2p2OUlTcS1zaGU5dzBQMHNQZEhnTmROLVdXc183MjNITTRyM2NYSWc5aUJKb0MxR01MWU5NWEJXT0VmTWM5djZuUkxJSkw3NDRudUswWTBIUXJLMFRMc3NUeTNtbFRxdUFrcmk4cU5XcUE5b1dVVnl1ZWE5M1B4bTA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -200,5 +200,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-_Last updated: 2025-09-04 12:34:15 UTC_
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+
+
+_Last updated: 2025-09-04 18:24:04 UTC_
