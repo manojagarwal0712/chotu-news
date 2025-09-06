@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- ‘Law must become a bridge between Constitution and citizen, justice and people’: Justice B V Nagarathna at NLU Delhi convocation
+- Tripura trying to ramp up solar-energy production to meet future power demands: Power Minister Ratan Lal Nath
   
-  🔗 https://indianexpress.com/article/india/law-must-become-a-bridge-between-constitution-and-citizen-justice-and-people-justice-b-v-nagarathna-10234088/
+  🔗 https://indianexpress.com/article/india/tripura-solar-energy-production-future-power-demands-ratan-lal-nath-10234425/
 
-- Election Commission to hold CEOs’ conference on September 10 to discuss nationwide SIR
+- It’s Puri Jagannath temple vs ISKCON as differences emerge over Rath Yatra timing
   
-  🔗 https://indianexpress.com/article/india/election-commission-to-hold-ceos-conference-on-september-10-to-discuss-nationwide-sir-10233913/
+  🔗 https://indianexpress.com/article/india/puri-jagannath-temple-vs-iskcon-differences-rath-yatra-timing-10234390/
 
-- Congress to rejig Kerala social media team after red faces over ‘B for bidi, Bihar’ post
+- GST rejig in sync with PM Modi’s ‘perform, reform & transform’ vision: Vaishnaw
   
-  🔗 https://indianexpress.com/article/india/bihar-bidi-controversy-congress-recostruct-kerala-social-media-team-10233870/
+  🔗 https://indianexpress.com/article/india/gst-rejig-in-sync-with-pm-modis-perform-reform-transform-vision-vaishnaw-10234384/
 
-- Two years after launch, Railways upgrades India’s 30th Vande Bharat train to 20 coaches – check route
+- Jammu Floods 2025: Railways to run Katra–Sangaldan special trains for stranded passengers – check timetable, stoppages
   
-  🔗 https://indianexpress.com/article/india/railways-upgrades-indias-30th-vande-bharat-train-to-20-coaches-check-route-10233775/
+  🔗 https://indianexpress.com/article/india/jammu-floods-2025-railways-to-run-katra-sangaldan-special-trains-10234323/
 
-- Reopening of NH 2 not endorsement of unrestricted movement across buffer zones: KNO, UPF
+- Valley simmers day after plaque with Ashoka emblem vandalised at Hazratbal shrine
   
-  🔗 https://indianexpress.com/article/india/reopening-nh-2-endorsement-unrestricted-movement-buffer-zones-10233848/
+  🔗 https://indianexpress.com/article/india/valley-simmers-plaque-ashoka-emblem-vandalised-hazratbal-shrine-10234312/
+
+- Apple iPhone 17 series: What to expect at the September 9 ‘Awe Dropping’ event
+  
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/apple-iphone-17-series-everything-we-know-10234004/
 
 - Why Xiaomi’s India strategy is a lot more than smartphones: COO Sudhin Mathur explains
   
@@ -36,9 +40,9 @@
   
   🔗 https://indianexpress.com/article/technology/google-pixel-10-pro-xl-review-10233451/
 
-- Google Gemini flagged as ‘inappropriate and unsafe’ for kids in new AI safety study
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-gemini-kids-risk-assessment-high-inappropriate-unsafe-10233531/
+- Adani Power, Druk Green sign deal for 570 MW Wangchhu hydro project in Bhutan worth  ₹6,000 crore — Here's all we know
+  Adani Power and Druk Green Power will develop the Wangchhu hydroelectric project in Bhutan under a BOOT model. Construction is set
+  🔗 https://www.livemint.com/companies/news/adani-power-druk-green-deal-bhutan-570-mw-wangchhu-hydro-project-rs-6-000-crore-boot-model-construction-2026-see-details-11757177031606.html
 
 - Zomato, Swiggy, Blinkit orders likely to cost more after 18% GST on delivery? Here's what we know so far
   Swiggy, Zomato, and Blinkit are among others to pay tax on e-commerce delivery services under the newly updated GST regime. Check how much
@@ -56,9 +60,17 @@
   Chinese tech giants could gain renewed access to Indian consumers. Signs of an improvement in India-China relations have been
   🔗 https://www.livemint.com/companies/news/bernstein-cautions-indian-digital-creators-on-possible-re-entry-of-chinese-firms-11757155164880.html
 
-- Air Canada flight attendants wrap up voting on wage agreement
-  Air Canada flight
-  🔗 https://www.livemint.com/companies/news/air-canada-flight-attendants-wrap-up-voting-on-wage-agreement-11757152880564.html
+- Dividend stocks: Mazagon Dock Shipbuilders, GRSE to Bharat Dynamics — 5 defence stocks to trade ex-dividend this month
+  Apollo Micro Systems, Cochin Shipyard, Garden Reach Shipbuilders, Mazagon Dock Shipbuilders
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-mazagon-dock-shipbuilders-grse-to-bharat-dynamics-5-defence-stocks-to-trade-ex-dividend-this-month-11757169758255.html
+
+- Junk Bonds Are the New High Grade Bonds
+  Junk debt is about as safe as investment-grade now
+  🔗 https://www.livemint.com/market/stock-market-news/junk-bonds-are-the-new-high-grade-bonds-11757174208529.html
+
+- ₹0.72 to  ₹46.48: Multibagger penny stock turns  ₹1 lakh into  ₹64.55 lakh in four years
+  Eraaya Lifespaces has given massive returns to stock market investors. Shares firm has given more than 6,313% returns in the last five years. The company shares have turned  �
+  🔗 https://www.livemint.com/market/stock-market-news/rs-0-72-to-rs-46-48-multibagger-penny-stock-turns-rs-1-lakh-into-rs-54-55-lakh-in-four-years-11757161448757.html
 
 - Penny stock to be in focus on Monday after hitting upper circuit for 25 days in a row
   Sellwin Traders shares will be in focus of the market investors on Monday, 8 September 2025. The stock hit its upper circuit for 25 sessions in a row. Shares of the company has gained
@@ -67,18 +79,6 @@
 - Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
   Mehul Kothari of Anand Rathi recommends three shares to buy or sell.
   🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11757153007481.html
-
-- Gold price hits new high on US Fed rate cut buzz, rallies 35% in YTD. Is it the right time to buy gold?
-  Gold prices could surge to nearly $5,000 an ounce if the Federal Reserve’s independence
-  🔗 https://www.livemint.com/market/commodities/gold-price-hits-new-high-on-us-fed-rate-cut-buzz-rallies-35-in-ytd-is-it-the-right-time-to-buy-gold-11757147509573.html
-
-- Stock market this week: Top gainers and losers shaping Nifty, Sensex trends
-  A comprehensive recap of the week ending September 5, 2025. Highlights the biggest market movers, top news events,
-  🔗 https://www.livemint.com/market/stock-market-news/weekend-wrap-september-5-stock-market-bse-nse-top-gainers-and-losers-mutual-funds-ipo-nfo-nifty50-markets-elss-11755330631609.html
-
-- Oil Traders Zero In on China’s Crude Buying as Glut Gets Closer
-  Traders are closely watching buying from China to see if it will absorb an excess.
-  🔗 https://www.livemint.com/market/stock-market-news/oil-traders-zero-in-on-china-s-crude-buying-as-glut-gets-closer-11757145289857.html
 
 - ChatGPT users can now branch conversations without losing original threads: How the new feature works
   OpenAI has introduced a new feature in ChatGPT that allows users to branch conversations and explore multiple directions. This update, now available to web users
@@ -99,26 +99,6 @@
 - Sam Altman's OpenAI restructures its ‘Model Behaviour’ team to rework how ChatGPT interacts with users: Report
   OpenAI is restructuring its Model Behaviour team into the Post Training division to enhance AI user interactions. The team will report to Max Schwarzer and focus on AI personality development.
   🔗 https://www.livemint.com/technology/tech-news/openai-restructures-its-model-behaviour-team-to-rework-how-chatgpt-interacts-with-users-report-11757137308834.html
-
-- Markets News, Sep. 5, 2025: Stocks Slip After Hitting New Highs Following Jobs Report; Treasury Yields Hit 5-Month Low Amid Rate-Cut Hopes - Investopedia
-  Markets News, Sep. 5, 2025: Stocks Slip After Hitting New Highs Following
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFA5RmxISVJvOV8wSFdZMEdYSFFpMVRqU2FmTjRsdkhFQXJWX0FLYW5wSkN6dUVEZElieVhZUC13TTRtWks3Sm9wdk8tZ0cwSEtKRFhqQjYxS21vV0pQSHNmdlN1WjNvdzQ4empqZUVFbw?oc=5
-
-- Stocks Fall as Dismal Jobs Spur Rush to Treasuries: Markets Wrap - Bloomberg.com
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkVOZ2FGYlNIYTVneHMxNmVvblJ5X2k5ck9ocWI5YUczNzlaRFA4a1ZSekJnRGVsenA4ZWhEM3AwZy1jb1NBRzBPS1FkWVRUZHJycHRvejJrWHBQcEw3TFBNbThmSW1hdUFYQWVTNDZBM2VwRkw3OXZESEkzaHlQUGFEVGNuV09XWS01WmhZTGplWXBW?oc=5
-
-- Exporters to meet RBI Governor on Sep 11 seeking easier loan repayment terms, support to enter new markets - The Indian Express
-  Exporters to meet RBI Governor on Sep 11 seeking easier loan repayment terms, support to
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX1BnYkExQ2k2VnYySU1pUHdmQkNGMEpvV1JHUkRMQ1FqcDVzNjE4QnFIdEtOcF9IS2xSc0tQZW85U3dhVGlpcTRqRjZQVldtSzZucF9GX1E3bE1ZeFBSTXM3LUJ1emx3NVRaTmhrNHcyZjlTeURyUlZVT1FiWGZpRzc0LWhBRWxNdGZla0FlU0d6T0VwQVg3dU9qUmxYb0E5b0VsNGlKaHh0Nk1hcE5wUDdJWEtFZ0VVQmJYOExONW1raUZfTGE5Q2xGamlBa0NJbVV3Rl8zVjJ2WllMQWhrVjdVbVhhUVRnaHYwdWxxc9IB9gFBVV95cUxPc1NYZWt2bVRKcVI4MEZaY0JJS1pJcURjVmxlYVdkZ29sVGd2ekhleldQSE5nVlR6VlItNlZSN1Fyd3JWMlFjYy04dy14RGJqZldRSTJ6TkNOS3RKYi11SkV4bWlzTVJrMzhUOWtuMHI1RkNfMlNTVUFIWC0yRnFNdkN6bEF4TE1BTFk1enRNdG9SOXIwZWl6aXhBbXRtNC0wT2g3RmVMVDBoQXdvUElZeGtHWW1Ca1pIZmRiNkV1bm5ucDItTTVPRHV1X2ZLUENfaHFFeG9kdV9VWVNFbzNHMkplQUpQQjdwd2wzcGc1MFZTWHM2bHc?oc=5
-
-- F&O Talk| Nifty stages pullback but lacks conviction; trend hinges on banking, IT revival: Sudeep Shah - economictimes.com
-  &nbsp;&ngt;<font color="#6f
-  🔗 https://news.google.com/rss/articles/CBMi3gJBVV95cUxORTF3UFdmdXU0c0oyRVdEOHJyb3NvOGQ1UHhDNkpEOE55b3ZrX1FHejhPM2YzbXRjaHAtU3kyU2F1ZG8yWVpzZGlERGhjeTFhUzN2djRyQmlnUWp1WmtsMWhuelBmWnAwZFJLT3FGQV9rTUlSNmxMZDl2enBUN0hUaThJc1VJY1N6OWdaWDRfV1VYbzg5RjVmTlVvMXNCX0NicGN6Z2VFMUNHWTRnVDJhdlpySkd2V250V2xWUmxWcVBqcFFKaXBfcG1WaENNd3o3ZTBQbXpfYUhkRGlKUklUVGY5ZUhsc1RMLVlBSWYwbnR6V2d0NWhNRFl3b3pYRjVrSmNWc05NOE9KWHlldTRmNjBTUGlJb0FIYThpVTJwaFpiY0RqMWN0eE1ad3ZWaUVSWHU4aTZqd0lnUENBaDN2YXQtRzFTVFNGUEc4RXkydGpNOE4wSmtQdHpuOVd1dw?oc=5
-
-- Stock market news: BSE, NSE to conduct mock trading session on Saturday. Time, other details - Mint
-  Stock market news: BSE, NSE to conduct mock trading
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMmRvUFhzUUhQdnpYX3pTQjlObnR0aDZGRG9YNy1nelV5bWhoaWdIamRMS0V4T1pabjVCS294cExwa1RjcWZSTTBmU1lYUlJCdUVOQ0xIWHZ5d2lUWEZrUi1rNlBFYzB4RVdvUnRYLXZJLVB5VTRyQVZTb3BCcTVVNnpwMXplR1F4aXZTaU9wb1pQdllnVHY5QktwRm9JMlVJR09TRU9Lckg3U3lUX25JdlJCcGloZnNuY0Nna2tWQnFjRVV0MklESFphd1ZvaWNaM2I2YlBReHd3MHdfcXJ6UlpkN2hQaEdBTW5pQzBCc9IB9AFBVV95cUxONEJyQjRMMGNCaVZCVmprM0ZBWm9wajJXR01vcVZNNHExd00zOTdQVi1seGU4RkpoelNVdXQ4TndEdGhkR1BkUzdxZ05YM25pSlJVVXk2aDlBUUdBMzNNeDV4TFpva2plbnpvZGxXN0VOQnVXNlFUaWltNHdieEl0bXAyemxLTGtpZW8zSElyanpXdlJSbXVJaFNtNHY2a0ZieGVHWWJ0dTNFTll1cm1CaGxPaWhzek01aUtCYi1YMlRQQm1qcHFBNkZkM2xVdjdmV3FsMW00U1gxLUZrMVdvNXNET04teXJ2SjcyUjBfdWMtZ1Q0?oc=5
 
 - F&amp;O Talk| Nifty stages pullback but lacks conviction; trend hinges on banking, IT revival: Sudeep Shah
   Indian equity benchmarks closed the week positively due to strong economic data and policy reforms. Nifty faces resistance at 24950-25000 and support at 24550-24500. Bank Nifty is underperforming, with resistance
@@ -144,69 +124,61 @@
   Trump Asked If He Is Ready To Reset Relations With India
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQng4NFBRRE1XYlVYQ0ZqNTlvYkYzazdGX051dWJseDU2NDFxMmprR2tCMFhYTmRGYkdTOVVSRnpRVzN4ZXZGb0VRcEVhNmpKQmxFV0RVWFhncUhIQlhnUUNOcDdSbERxME04b05hREF0d0VqY3QzYVlnYmYxSlNncTE3dW1oMWZkYTA1VmN3T1B0SzJZaHFZcWlDOW5WOTNCalhPNFRVOGFRUHJxY2pr0gG3AUFVX3lxTFB4YW42Q2IxWEo3MHZpMVRya0V1ZE00ZmliUWhiYlJQSThqMUkzcmFod01rRDVvaFcyZW5uNWxYRnREN3NzbGlfNkVSUlhsZGdZdVYyNWtQTWxFaEpsMVhibzlGanNMU0ljX3psREl3NVI1RnpkT3NRVkhyNnFCcWR0Sm5uaW5yRzRzUkF4azd5dFQ5Znl6cVpJd0NqQWRlVHFWYjRpTTE3d3hoU19wSUpXWjFSMlpPbw?oc=5
 
-- "Don't Think We Have": Trump Responds To His "Lost India" To China Remark - NDTV
-  "Don't Think We Have": Trump Responds To
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWpKMXpUeDRxVXpvSjE0U19Edk5zZXJWa3dqU0RwQmNTX3lLc3hPMUNEdTVZdDhHbEh3dlBER1RXM2RzNmZZeUgxdTZRQml6M0ZudWhCbmpJM2V1VzdLdDVZNXVRVzlBbzl1T0tsYk5oM29GRUY3R2Y4aWh2WXZENFJZckpXcVpHdGxzUzE2ck5VY1A4dWFJbDE4cjNsaFFWam1WTi1aTzlMNWly0gG0AUFVX3lxTE1JNTFlQkkzR3ZGcmdQQ2NWWklEbllKNzdlOE11YjlVYklEOWlQTllOZDJ3d2IzZVFTR0ZoQkVPcDU3UXhhZlROTHNHZ2liR28xUjZVQTh4MWFTWGtlcVBXQUt2S3ZQcXh0YklKZ3Z1RWF0U3ZYZERzNG1DV01WTC1ER0ltUHpjaU12cHpwS1FmSEFUX1ZfNlhtb04wSDY2TlRRbnNrV0NmSHZ2eGEwU1ItUG8wSA?oc=5
+- Trump says he’ll ‘always be friends’ with Modi; ‘nothing to worry’ about India-U.S. ties - The Hindu
+  Trump says he’ll ‘always be friends’
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTN3OUdhNi1tTnYweHlMUG9fbWNVRkJNcldLVVBrbE1KcGVhT2k1NFlLMUhBX2U3M1JzMTR3OW54VS1oVENEejdsYUlkRk5SbnA3ME5ZUVJOUHpFR2xMUnhnT2hBN2hKTUYyZV9HN0t5VjBib2FwbV9lNHVHaFhYNEJvbGxWTTFkYXlaa1pYcF9QN1hhcURVUUJOOXI2b19jM1FSblIzQk5kSnVIbFNUdEc5dlBxUXlTcEpvbXBlUF94X1BfYUYtVnNCV3c3dTNBWUt1ek5uS0tXMzFq0gHjAUFVX3lxTFB1WnlUTnZVWGc0UEFXVGZESm9yQ1Y1V2I4MjduTzFFbF81ckFFZDFlbk81SVlzMEI3aml5Mm1jTDRRYmo1MXFOYzBYN3gwcW1QRHBQMWtvQ1RoV1lwU2dhT2stcHZnbTY2RHBhUEwxVFdBOXQxXzBVaGZHRllsWmFoSkFYY0VXMlFoUnhnaWxKb1A0Um9DYkF2alhwWXB0U2tzMC10ZFBzUzlqQ2VHWjFsbGNiMkJTNS1GaS1ZdWlqQ1JfYndBcFhhbGxMV28wN2NWNTU1Vk55Zi1KQVBlcDBMeGNj?oc=5
 
-- Evening news wrap: Hazratbal plaque vandalism sparks row in J&K; Trump plays down India–US concerns. Read - Times of India
-  Evening news wrap: Hazratbal plaque vandalism sparks row in J&amp
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNdjctdHFEbWhHV3E1czJqTVdBdVV0Y2JQZGgzRng5TDhZV2cwRjZRa2tVMEtuRFpJWlprR2V5V0RZeURjSjJoTWxuTFVGZ2hVNFZfckhwODB5R0pEUGhqWDBWZ2kzWHczRkRDTXk4Qmh3a01XOEt0d2w4M1hIa0pKcl81ZXRFMGNjYjByUHZJRVY4WXc3c1ZIYTRZNkxoOS1XS3Z4RWx1OVlGbGUycXQ1OVM0a1MxQ3dPdVMxcVZERkhQSHJsSm1CZXloMmYwTXZvdlducHdMcHVteWloRGdNOC1VNXJQZ3VLQU5MVjJXS2hwUkxabnMxaGhEcGhsT0VrWWpXa0RvRGFpTWNONnRF0gGUAkFVX3lxTE96SjE3T0RaMkJsX3NwQmx3Rlp3WDk5NURtZC16OFRrbU51dWpMSG1vVGY3b2FwMlhVZVBHTVlvbUJvLVpSREdYelVsUXpBVTB1anBoYlV1UVF5WHFzNlgydWZudHYxZGZBWDJOVVMyNVY0YlVLQ3NTSEV3bHdGV3RvS2Y5S3pyWWZZT3BjWlRPdTNickJKeUtxT01WU3pKQXY1TW9wdlZCeC1QRWIxVndUQ2FqWnR6R1R5Ymp0ZERkNDd6UDRmaEtEOGdmYnRpbGxtMTZMNkY1ZDQyRTBjVUFvdFh5VUo3clk1NlNBR21EdHVpYmZiai1sSVZYTDJXRDh5ZHdGVm9zZmh0eUtQMzE4R0RMNg?oc=5
+- ‘India not a weak country that need crutches’: Ex-envoy Jawed Ashraf's strong message amid Trump's tariffs | Latest News India - Hindustan Times
+  India not a weak country that need crutches, says ex-envoy Jawed Ash
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMlFhaGlsSnNpQTRyUUhyb2xiTHNtSTIwdjIzYzkydzVwRVlwZXFjWC1MSkVWQUlidzJRZzltVHdjZXIybVYtQlpWWDRJS0VrS1Z2X2RuQ3FxUG9RTjNmRl9kakI3VHV3OGpMeVlHT2p0N3QzYV9zckJ6YTJlbHM0X0h0NHE5YVZfaDJQRFprdElseXdTZUZkWWhTSmFpSzIxZk5JUnNmM050V0NMZzl2WkRfM3FUOXA4V09yOXZpc3dwTU1wcHVFT3VyRjBtSlZmNmR0djR2d2kydFM4YUQ4MjV5ODNBUXdNM003X0ZpUGMxYXhtalpOMWxuTnVIQdIBgwJBVV95cUxNaXpraVF5TkQwVDZCSzJrdnhjZ29fMUU2S2w5bGtYSzkxZlFZS25IeUNDQ2FLZGdkMlRadE16U01iM2Zkc0xlVWQzTzBWdnY4cF9CZjlVMmFaQVN6TFFndlAyaEl4TEx5ZFdveFBMQ3htUmxGaFhjUm1NZzZaenJTcW5zOEd6elV0NE5qY2tMdGI3UFN1bF84djUwVU13TllRQ25oQWFaMHhuMWg3NjlTeDY3eEdvUlVnZjA5Vkk2RGMxREF6b2xuc2hkWS1tMTMyaVNLcjJ0VnVaUzRCd3hvSmk2VUxNMFdXa3Z1NFUtc2ozX2REMXQtRjNQNC13bEFQVWxV?oc=5
 
-- Two Lynched In Bengal’s Nadia On Suspicion Of Murdering Child - Zee News
-  Two Lynched In Bengal’s Nad
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWkx0T1lKdmhyYkNwX0VYU0hXSVFOZzJNNFQ2b3JrTzVRaGJLc05fajRMNlZROFF0TW91djBXWEtrMkI2M0xkaGlubVZRamRJRDNaSTJhdFdLcF9ra2JaaDBpbWFucUY0LVlVVnUyM0ZHN1EtNW9BYTM3ekNJMmlpNVNOR21XRjI4YWQ3cE0wdGdSY3k2WG5SZWlLRU0wRzRGREx6encyVXdCd9IBrwFBVV95cUxPaWFVLVlJNll2TjhTdzY3WmZpTXcwTHpINmZxS2VDblZ4c0VPWXZZLUgtWU5QTEU0b3pmd01SVXptTmNpcDBCRTJxZkJTM2hVNEJVRUNWbWRlc05hb24zdG11RmtvNmFvTmJaUHhJTXN3YmkwMXA0WkQ2ajREUXRCWFdvZGhZdDl5U2JzM2dQX3BvZXNjem5HZVZZMVVTZHFrdnBrcG0xMnJoSXAxaEtj?oc=5
+- ‘Challenge of US tariffs offers opportunity for reforms, deregulation’ - The Indian Express
+  ‘Challenge of US tariffs offers opportunity
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNUU5zOE0tWC10aUZDWkVJb1IySHk5b2tZVVU3WEFlc1V3NUF2ZzhRM2FXdnFhNmhWQTZ5WENkcFMxWG1xcVpaTjlwVDJyX0hqRXV6MGxLcUVPN0YycURaVDNncUt1MVVFeGJORTR3VElsVUdZeVdxb09mNTBVOG5QRU9SNVgtZUZUM0FSWWYwUUFkVFlLNnVvTGNWblN2ZkVDV1hqQTFxamN1NlZYemU4WGUtOFVrcHRZV1hLZ0QzOWJiRWE0N19N0gHOAUFVX3lxTE9Vd2h4TXFRaFZqYlEyUW50THQ1SjQzNjFiajJ2RHUwdFU4VXE2Ykx1cDRDekRadWE5eC1YY0t5THBQVDZTTDBBd3p6NXdRU0hDbjl0UGlPOGlheDRsaWpkdzhLZTZqODRtbWM3SmZjTDVDZDNvOXBQcTRLMElpOVl4V2ZlRm1OS0lJc2Y5eEJROXZ2SEl2bnJLUUJHa1lCX2wyazNZcWEyaWlUY2tnejdQS3VybHhJdmdJc1gzM25jWXZPa2dhcThwbl8tWk1B?oc=5
 
-- Trashing Trump's tageting of India - Times of India
-  The Times of India
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQYXBiSDZrd0l4TjZER2FaVUpiVlY5UVgtMzQ4RnQ1bVBsTHVtT051dm5NSWxMWGd2TGFMRU9HTXYxMmR6X2kwNWZkZlJrRzhRMk5va1dTN2pLZzR1b3ptdDNuUHFWdTRZMTJ0RkVkZ3dVVkY5YkpXU21hZkhHUDJabVJ6dkZiREFIdUZlZEhRR3BlNnJaS1VqTEZSVjJ6ZThBQW1N0gGoAUFVX3lxTE8xWUxpdk5aZlBOWU9VaDJnMlV2SGZua0VrUWp3bjZhd2hNMFg5V2loWVo4Z3dxbGNqOUI3T2FuMmZFZDRWd2hRaUtvUnpxbjBVQmcxSHZ1YTU1NDZvU2cyc0E2QjY1emd1QXA3dDZvc1ZqTUc0eGNTOGRRV2phRjY3YW9BM1Bzdm41eFdiMGxiNF9oNVdvajQ5N0FzT2JLYUNuOWVXRW9zVg?oc=5
+- Omar Abdullah's Party Seeks J&K Waqf Chief's Sacking After Hazratbal Vandalism - NDTV
+  Omar Abdullah's Party Seeks J&
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOV1JhcGJoR2E3LWNSVGxGMW1CcmZVSF9HMDhfeE9FeURxaFpHZl9kSTY2ckE3R3c3THZ1cVA3MEpjejJhazF6Z0lJaGU5QXlHSjFGci1VZW1qd0gxME9OdWk0dUdpUTVuQkdFdHdad2pZdlRwcFo3WE9HenI1R1JvR200eUZzUkNRS25aM3kzMGhkNDJKeUpmUGZwN3FuQU5UV0s1UHRrZGc0aGZuU29DeTNscGtDUDjSAb8BQVVfeXFMTzhYeFFiQzZOZVBIRnBnYjNXVDFvX1dRUTkwNGQ0c29qMURySGE3dHpMVjY0Z2tJQlJUMXlpY1pET1RJaHlEMzFWa3pfQ0tBTXFsd212WEhacHFtTkVtOXJZS1k2OXIweGd3dDRFMUg5V1RRTWN6N08tSWs4SkdvZzVmNWg5bHpjbENEVDExYXFYaFZqaUJ1M0lHM21zeUphM1VLcDhmSDhsV1pTZ0JqSW01SHJSTWM1WG1IUXYwdlk?oc=5
 
 - Trump Asked If He Is Ready To Reset Relations With India. His Response - NDTV
   Trump Asked If He Is Ready To Reset Relations With India
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQng4NFBRRE1XYlVYQ0ZqNTlvYkYzazdGX051dWJseDU2NDFxMmprR2tCMFhYTmRGYkdTOVVSRnpRVzN4ZXZGb0VRcEVhNmpKQmxFV0RVWFhncUhIQlhnUUNOcDdSbERxME04b05hREF0d0VqY3QzYVlnYmYxSlNncTE3dW1oMWZkYTA1VmN3T1B0SzJZaHFZcWlDOW5WOTNCalhPNFRVOGFRUHJxY2pr0gG3AUFVX3lxTFB4YW42Q2IxWEo3MHZpMVRya0V1ZE00ZmliUWhiYlJQSThqMUkzcmFod01rRDVvaFcyZW5uNWxYRnREN3NzbGlfNkVSUlhsZGdZdVYyNWtQTWxFaEpsMVhibzlGanNMU0ljX3psREl3NVI1RnpkT3NRVkhyNnFCcWR0Sm5uaW5yRzRzUkF4azd5dFQ5Znl6cVpJd0NqQWRlVHFWYjRpTTE3d3hoU19wSUpXWjFSMlpPbw?oc=5
 
-- "Don't Think We Have": Trump Responds To His "Lost India" To China Remark - NDTV
-  "Don't Think We Have": Trump Responds To
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWpKMXpUeDRxVXpvSjE0U19Edk5zZXJWa3dqU0RwQmNTX3lLc3hPMUNEdTVZdDhHbEh3dlBER1RXM2RzNmZZeUgxdTZRQml6M0ZudWhCbmpJM2V1VzdLdDVZNXVRVzlBbzl1T0tsYk5oM29GRUY3R2Y4aWh2WXZENFJZckpXcVpHdGxzUzE2ck5VY1A4dWFJbDE4cjNsaFFWam1WTi1aTzlMNWly0gG0AUFVX3lxTE1JNTFlQkkzR3ZGcmdQQ2NWWklEbllKNzdlOE11YjlVYklEOWlQTllOZDJ3d2IzZVFTR0ZoQkVPcDU3UXhhZlROTHNHZ2liR28xUjZVQTh4MWFTWGtlcVBXQUt2S3ZQcXh0YklKZ3Z1RWF0U3ZYZERzNG1DV01WTC1ER0ltUHpjaU12cHpwS1FmSEFUX1ZfNlhtb04wSDY2TlRRbnNrV0NmSHZ2eGEwU1ItUG8wSA?oc=5
+- Trump says he’ll ‘always be friends’ with Modi; ‘nothing to worry’ about India-U.S. ties - The Hindu
+  Trump says he’ll ‘always be friends’
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTN3OUdhNi1tTnYweHlMUG9fbWNVRkJNcldLVVBrbE1KcGVhT2k1NFlLMUhBX2U3M1JzMTR3OW54VS1oVENEejdsYUlkRk5SbnA3ME5ZUVJOUHpFR2xMUnhnT2hBN2hKTUYyZV9HN0t5VjBib2FwbV9lNHVHaFhYNEJvbGxWTTFkYXlaa1pYcF9QN1hhcURVUUJOOXI2b19jM1FSblIzQk5kSnVIbFNUdEc5dlBxUXlTcEpvbXBlUF94X1BfYUYtVnNCV3c3dTNBWUt1ek5uS0tXMzFq0gHjAUFVX3lxTFB1WnlUTnZVWGc0UEFXVGZESm9yQ1Y1V2I4MjduTzFFbF81ckFFZDFlbk81SVlzMEI3aml5Mm1jTDRRYmo1MXFOYzBYN3gwcW1QRHBQMWtvQ1RoV1lwU2dhT2stcHZnbTY2RHBhUEwxVFdBOXQxXzBVaGZHRllsWmFoSkFYY0VXMlFoUnhnaWxKb1A0Um9DYkF2alhwWXB0U2tzMC10ZFBzUzlqQ2VHWjFsbGNiMkJTNS1GaS1ZdWlqQ1JfYndBcFhhbGxMV28wN2NWNTU1Vk55Zi1KQVBlcDBMeGNj?oc=5
 
-- Evening news wrap: Hazratbal plaque vandalism sparks row in J&K; Trump plays down India–US concerns. Read - Times of India
-  Evening news wrap: Hazratbal plaque vandalism sparks row in J&amp
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNdjctdHFEbWhHV3E1czJqTVdBdVV0Y2JQZGgzRng5TDhZV2cwRjZRa2tVMEtuRFpJWlprR2V5V0RZeURjSjJoTWxuTFVGZ2hVNFZfckhwODB5R0pEUGhqWDBWZ2kzWHczRkRDTXk4Qmh3a01XOEt0d2w4M1hIa0pKcl81ZXRFMGNjYjByUHZJRVY4WXc3c1ZIYTRZNkxoOS1XS3Z4RWx1OVlGbGUycXQ1OVM0a1MxQ3dPdVMxcVZERkhQSHJsSm1CZXloMmYwTXZvdlducHdMcHVteWloRGdNOC1VNXJQZ3VLQU5MVjJXS2hwUkxabnMxaGhEcGhsT0VrWWpXa0RvRGFpTWNONnRF0gGUAkFVX3lxTE96SjE3T0RaMkJsX3NwQmx3Rlp3WDk5NURtZC16OFRrbU51dWpMSG1vVGY3b2FwMlhVZVBHTVlvbUJvLVpSREdYelVsUXpBVTB1anBoYlV1UVF5WHFzNlgydWZudHYxZGZBWDJOVVMyNVY0YlVLQ3NTSEV3bHdGV3RvS2Y5S3pyWWZZT3BjWlRPdTNickJKeUtxT01WU3pKQXY1TW9wdlZCeC1QRWIxVndUQ2FqWnR6R1R5Ymp0ZERkNDd6UDRmaEtEOGdmYnRpbGxtMTZMNkY1ZDQyRTBjVUFvdFh5VUo3clk1NlNBR21EdHVpYmZiai1sSVZYTDJXRDh5ZHdGVm9zZmh0eUtQMzE4R0RMNg?oc=5
+- ‘India not a weak country that need crutches’: Ex-envoy Jawed Ashraf's strong message amid Trump's tariffs | Latest News India - Hindustan Times
+  India not a weak country that need crutches, says ex-envoy Jawed Ash
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMlFhaGlsSnNpQTRyUUhyb2xiTHNtSTIwdjIzYzkydzVwRVlwZXFjWC1MSkVWQUlidzJRZzltVHdjZXIybVYtQlpWWDRJS0VrS1Z2X2RuQ3FxUG9RTjNmRl9kakI3VHV3OGpMeVlHT2p0N3QzYV9zckJ6YTJlbHM0X0h0NHE5YVZfaDJQRFprdElseXdTZUZkWWhTSmFpSzIxZk5JUnNmM050V0NMZzl2WkRfM3FUOXA4V09yOXZpc3dwTU1wcHVFT3VyRjBtSlZmNmR0djR2d2kydFM4YUQ4MjV5ODNBUXdNM003X0ZpUGMxYXhtalpOMWxuTnVIQdIBgwJBVV95cUxNaXpraVF5TkQwVDZCSzJrdnhjZ29fMUU2S2w5bGtYSzkxZlFZS25IeUNDQ2FLZGdkMlRadE16U01iM2Zkc0xlVWQzTzBWdnY4cF9CZjlVMmFaQVN6TFFndlAyaEl4TEx5ZFdveFBMQ3htUmxGaFhjUm1NZzZaenJTcW5zOEd6elV0NE5qY2tMdGI3UFN1bF84djUwVU13TllRQ25oQWFaMHhuMWg3NjlTeDY3eEdvUlVnZjA5Vkk2RGMxREF6b2xuc2hkWS1tMTMyaVNLcjJ0VnVaUzRCd3hvSmk2VUxNMFdXa3Z1NFUtc2ozX2REMXQtRjNQNC13bEFQVWxV?oc=5
 
-- Two Lynched In Bengal’s Nadia On Suspicion Of Murdering Child - Zee News
-  Two Lynched In Bengal’s Nad
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWkx0T1lKdmhyYkNwX0VYU0hXSVFOZzJNNFQ2b3JrTzVRaGJLc05fajRMNlZROFF0TW91djBXWEtrMkI2M0xkaGlubVZRamRJRDNaSTJhdFdLcF9ra2JaaDBpbWFucUY0LVlVVnUyM0ZHN1EtNW9BYTM3ekNJMmlpNVNOR21XRjI4YWQ3cE0wdGdSY3k2WG5SZWlLRU0wRzRGREx6encyVXdCd9IBrwFBVV95cUxPaWFVLVlJNll2TjhTdzY3WmZpTXcwTHpINmZxS2VDblZ4c0VPWXZZLUgtWU5QTEU0b3pmd01SVXptTmNpcDBCRTJxZkJTM2hVNEJVRUNWbWRlc05hb24zdG11RmtvNmFvTmJaUHhJTXN3YmkwMXA0WkQ2ajREUXRCWFdvZGhZdDl5U2JzM2dQX3BvZXNjem5HZVZZMVVTZHFrdnBrcG0xMnJoSXAxaEtj?oc=5
+- ‘Challenge of US tariffs offers opportunity for reforms, deregulation’ - The Indian Express
+  ‘Challenge of US tariffs offers opportunity
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNUU5zOE0tWC10aUZDWkVJb1IySHk5b2tZVVU3WEFlc1V3NUF2ZzhRM2FXdnFhNmhWQTZ5WENkcFMxWG1xcVpaTjlwVDJyX0hqRXV6MGxLcUVPN0YycURaVDNncUt1MVVFeGJORTR3VElsVUdZeVdxb09mNTBVOG5QRU9SNVgtZUZUM0FSWWYwUUFkVFlLNnVvTGNWblN2ZkVDV1hqQTFxamN1NlZYemU4WGUtOFVrcHRZV1hLZ0QzOWJiRWE0N19N0gHOAUFVX3lxTE9Vd2h4TXFRaFZqYlEyUW50THQ1SjQzNjFiajJ2RHUwdFU4VXE2Ykx1cDRDekRadWE5eC1YY0t5THBQVDZTTDBBd3p6NXdRU0hDbjl0UGlPOGlheDRsaWpkdzhLZTZqODRtbWM3SmZjTDVDZDNvOXBQcTRLMElpOVl4V2ZlRm1OS0lJc2Y5eEJROXZ2SEl2bnJLUUJHa1lCX2wyazNZcWEyaWlUY2tnejdQS3VybHhJdmdJc1gzM25jWXZPa2dhcThwbl8tWk1B?oc=5
 
-- Trashing Trump's tageting of India - Times of India
-  The Times of India
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQYXBiSDZrd0l4TjZER2FaVUpiVlY5UVgtMzQ4RnQ1bVBsTHVtT051dm5NSWxMWGd2TGFMRU9HTXYxMmR6X2kwNWZkZlJrRzhRMk5va1dTN2pLZzR1b3ptdDNuUHFWdTRZMTJ0RkVkZ3dVVkY5YkpXU21hZkhHUDJabVJ6dkZiREFIdUZlZEhRR3BlNnJaS1VqTEZSVjJ6ZThBQW1N0gGoAUFVX3lxTE8xWUxpdk5aZlBOWU9VaDJnMlV2SGZua0VrUWp3bjZhd2hNMFg5V2loWVo4Z3dxbGNqOUI3T2FuMmZFZDRWd2hRaUtvUnpxbjBVQmcxSHZ1YTU1NDZvU2cyc0E2QjY1emd1QXA3dDZvc1ZqTUc0eGNTOGRRV2phRjY3YW9BM1Bzdm41eFdiMGxiNF9oNVdvajQ5N0FzT2JLYUNuOWVXRW9zVg?oc=5
+- Omar Abdullah's Party Seeks J&K Waqf Chief's Sacking After Hazratbal Vandalism - NDTV
+  Omar Abdullah's Party Seeks J&
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOV1JhcGJoR2E3LWNSVGxGMW1CcmZVSF9HMDhfeE9FeURxaFpHZl9kSTY2ckE3R3c3THZ1cVA3MEpjejJhazF6Z0lJaGU5QXlHSjFGci1VZW1qd0gxME9OdWk0dUdpUTVuQkdFdHdad2pZdlRwcFo3WE9HenI1R1JvR200eUZzUkNRS25aM3kzMGhkNDJKeUpmUGZwN3FuQU5UV0s1UHRrZGc0aGZuU29DeTNscGtDUDjSAb8BQVVfeXFMTzhYeFFiQzZOZVBIRnBnYjNXVDFvX1dRUTkwNGQ0c29qMURySGE3dHpMVjY0Z2tJQlJUMXlpY1pET1RJaHlEMzFWa3pfQ0tBTXFsd212WEhacHFtTkVtOXJZS1k2OXIweGd3dDRFMUg5V1RRTWN6N08tSWs4SkdvZzVmNWg5bHpjbENEVDExYXFYaFZqaUJ1M0lHM21zeUphM1VLcDhmSDhsV1pTZ0JqSW01SHJSTWM1WG1IUXYwdlk?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Trump Asked If He Is Ready To Reset Relations With India. His Response - NDTV
+  Trump Asked If He Is Ready To Reset Relations With India
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQng4NFBRRE1XYlVYQ0ZqNTlvYkYzazdGX051dWJseDU2NDFxMmprR2tCMFhYTmRGYkdTOVVSRnpRVzN4ZXZGb0VRcEVhNmpKQmxFV0RVWFhncUhIQlhnUUNOcDdSbERxME04b05hREF0d0VqY3QzYVlnYmYxSlNncTE3dW1oMWZkYTA1VmN3T1B0SzJZaHFZcWlDOW5WOTNCalhPNFRVOGFRUHJxY2pr0gG3AUFVX3lxTFB4YW42Q2IxWEo3MHZpMVRya0V1ZE00ZmliUWhiYlJQSThqMUkzcmFod01rRDVvaFcyZW5uNWxYRnREN3NzbGlfNkVSUlhsZGdZdVYyNWtQTWxFaEpsMVhibzlGanNMU0ljX3psREl3NVI1RnpkT3NRVkhyNnFCcWR0Sm5uaW5yRzRzUkF4azd5dFQ5Znl6cVpJd0NqQWRlVHFWYjRpTTE3d3hoU19wSUpXWjFSMlpPbw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Trump says he’ll ‘always be friends’ with Modi; ‘nothing to worry’ about India-U.S. ties - The Hindu
+  Trump says he’ll ‘always be friends’
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTN3OUdhNi1tTnYweHlMUG9fbWNVRkJNcldLVVBrbE1KcGVhT2k1NFlLMUhBX2U3M1JzMTR3OW54VS1oVENEejdsYUlkRk5SbnA3ME5ZUVJOUHpFR2xMUnhnT2hBN2hKTUYyZV9HN0t5VjBib2FwbV9lNHVHaFhYNEJvbGxWTTFkYXlaa1pYcF9QN1hhcURVUUJOOXI2b19jM1FSblIzQk5kSnVIbFNUdEc5dlBxUXlTcEpvbXBlUF94X1BfYUYtVnNCV3c3dTNBWUt1ek5uS0tXMzFq0gHjAUFVX3lxTFB1WnlUTnZVWGc0UEFXVGZESm9yQ1Y1V2I4MjduTzFFbF81ckFFZDFlbk81SVlzMEI3aml5Mm1jTDRRYmo1MXFOYzBYN3gwcW1QRHBQMWtvQ1RoV1lwU2dhT2stcHZnbTY2RHBhUEwxVFdBOXQxXzBVaGZHRllsWmFoSkFYY0VXMlFoUnhnaWxKb1A0Um9DYkF2alhwWXB0U2tzMC10ZFBzUzlqQ2VHWjFsbGNiMkJTNS1GaS1ZdWlqQ1JfYndBcFhhbGxMV28wN2NWNTU1Vk55Zi1KQVBlcDBMeGNj?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- ‘India not a weak country that need crutches’: Ex-envoy Jawed Ashraf's strong message amid Trump's tariffs | Latest News India - Hindustan Times
+  India not a weak country that need crutches, says ex-envoy Jawed Ash
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMlFhaGlsSnNpQTRyUUhyb2xiTHNtSTIwdjIzYzkydzVwRVlwZXFjWC1MSkVWQUlidzJRZzltVHdjZXIybVYtQlpWWDRJS0VrS1Z2X2RuQ3FxUG9RTjNmRl9kakI3VHV3OGpMeVlHT2p0N3QzYV9zckJ6YTJlbHM0X0h0NHE5YVZfaDJQRFprdElseXdTZUZkWWhTSmFpSzIxZk5JUnNmM050V0NMZzl2WkRfM3FUOXA4V09yOXZpc3dwTU1wcHVFT3VyRjBtSlZmNmR0djR2d2kydFM4YUQ4MjV5ODNBUXdNM003X0ZpUGMxYXhtalpOMWxuTnVIQdIBgwJBVV95cUxNaXpraVF5TkQwVDZCSzJrdnhjZ29fMUU2S2w5bGtYSzkxZlFZS25IeUNDQ2FLZGdkMlRadE16U01iM2Zkc0xlVWQzTzBWdnY4cF9CZjlVMmFaQVN6TFFndlAyaEl4TEx5ZFdveFBMQ3htUmxGaFhjUm1NZzZaenJTcW5zOEd6elV0NE5qY2tMdGI3UFN1bF84djUwVU13TllRQ25oQWFaMHhuMWg3NjlTeDY3eEdvUlVnZjA5Vkk2RGMxREF6b2xuc2hkWS1tMTMyaVNLcjJ0VnVaUzRCd3hvSmk2VUxNMFdXa3Z1NFUtc2ozX2REMXQtRjNQNC13bEFQVWxV?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- ‘Challenge of US tariffs offers opportunity for reforms, deregulation’ - The Indian Express
+  ‘Challenge of US tariffs offers opportunity
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNUU5zOE0tWC10aUZDWkVJb1IySHk5b2tZVVU3WEFlc1V3NUF2ZzhRM2FXdnFhNmhWQTZ5WENkcFMxWG1xcVpaTjlwVDJyX0hqRXV6MGxLcUVPN0YycURaVDNncUt1MVVFeGJORTR3VElsVUdZeVdxb09mNTBVOG5QRU9SNVgtZUZUM0FSWWYwUUFkVFlLNnVvTGNWblN2ZkVDV1hqQTFxamN1NlZYemU4WGUtOFVrcHRZV1hLZ0QzOWJiRWE0N19N0gHOAUFVX3lxTE9Vd2h4TXFRaFZqYlEyUW50THQ1SjQzNjFiajJ2RHUwdFU4VXE2Ykx1cDRDekRadWE5eC1YY0t5THBQVDZTTDBBd3p6NXdRU0hDbjl0UGlPOGlheDRsaWpkdzhLZTZqODRtbWM3SmZjTDVDZDNvOXBQcTRLMElpOVl4V2ZlRm1OS0lJc2Y5eEJROXZ2SEl2bnJLUUJHa1lCX2wyazNZcWEyaWlUY2tnejdQS3VybHhJdmdJc1gzM25jWXZPa2dhcThwbl8tWk1B?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Omar Abdullah's Party Seeks J&K Waqf Chief's Sacking After Hazratbal Vandalism - NDTV
+  Omar Abdullah's Party Seeks J&
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOV1JhcGJoR2E3LWNSVGxGMW1CcmZVSF9HMDhfeE9FeURxaFpHZl9kSTY2ckE3R3c3THZ1cVA3MEpjejJhazF6Z0lJaGU5QXlHSjFGci1VZW1qd0gxME9OdWk0dUdpUTVuQkdFdHdad2pZdlRwcFo3WE9HenI1R1JvR200eUZzUkNRS25aM3kzMGhkNDJKeUpmUGZwN3FuQU5UV0s1UHRrZGc0aGZuU29DeTNscGtDUDjSAb8BQVVfeXFMTzhYeFFiQzZOZVBIRnBnYjNXVDFvX1dRUTkwNGQ0c29qMURySGE3dHpMVjY0Z2tJQlJUMXlpY1pET1RJaHlEMzFWa3pfQ0tBTXFsd212WEhacHFtTkVtOXJZS1k2OXIweGd3dDRFMUg5V1RRTWN6N08tSWs4SkdvZzVmNWg5bHpjbENEVDExYXFYaFZqaUJ1M0lHM21zeUphM1VLcDhmSDhsV1pTZ0JqSW01SHJSTWM1WG1IUXYwdlk?oc=5
 
 
-_Last updated: 2025-09-06 12:31:36 UTC_
+_Last updated: 2025-09-06 18:21:54 UTC_
