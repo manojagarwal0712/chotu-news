@@ -1,204 +1,204 @@
 # 📰 Daily News Summaries
 
-- CJI: Top court proactively responded to complex 21st century challenges
+- Theaterisation will come, just have to see how long it will take: Army Chief
   
-  🔗 https://indianexpress.com/article/india/cji-top-court-proactively-responded-to-complex-21st-century-challenges-10233086/
+  🔗 https://indianexpress.com/article/india/theaterisation-come-just-see-how-long-take-army-chief-10233337/
 
-- Sonowal: No tariff impact yet, India can handle any geopolitical situation
+- ‘Deeply appreciate, fully reciprocate’: PM Modi hails Trump’s ‘positive assessment’ of India-US ties amid tariff tension
   
-  🔗 https://indianexpress.com/article/india/sonowal-no-tariff-impact-yet-india-can-handle-any-geopolitical-situation-10233089/
+  🔗 https://indianexpress.com/article/india/modi-trump-friends-india-us-ties-tariff-row-10233345/
 
-- PM Modi to visit flood-hit states amid demands for central funds
+- Amid US-India tariff row, PM Modi not to address UNGA in New York later this month
   
-  🔗 https://indianexpress.com/article/india/pm-modi-to-visit-flood-hit-states-amid-demands-for-central-funds-10233056/
+  🔗 https://indianexpress.com/article/india/us-india-tariff-row-pm-modi-not-to-address-unga-new-york-trump-10233270/
 
-- On Centre’s table: Transferring V-P’s Z-plus cover from Delhi Police to CRPF
+- Alarm bells in Odisha over new voter IDs with recently corrected age to claim pension
   
-  🔗 https://indianexpress.com/article/india/on-centres-table-transferring-v-ps-z-plus-cover-from-delhi-police-to-crpf-10233044/
+  🔗 https://indianexpress.com/article/india/alarm-bells-in-odisha-over-new-voter-ids-with-recently-corrected-age-to-claim-pension-10232995/
 
-- Doctor drawing salary in Delhi is filmmaker in Canada, gets notice
+- Strike demanding regularisation gathers pace, scores of health workers resign in Chhattisgarh
   
-  🔗 https://indianexpress.com/article/india/doctor-drawing-salary-in-delhi-is-filmmaker-in-canada-gets-notice-10233021/
+  🔗 https://indianexpress.com/article/india/strike-demanding-regularisation-gathers-pace-scores-of-health-workers-resign-in-chhattisgarh-10232993/
 
-- EU slaps Google with $3.45 billion antitrust fine over adtech dominance
+- Roblox announces short-form video app, hikes developer earnings
   
-  🔗 https://indianexpress.com/article/technology/eu-slaps-google-with-3-45-billion-antitrust-fine-over-adtech-dominance-10232912/
+  🔗 https://indianexpress.com/article/technology/roblox-announces-short-form-video-app-hikes-developer-earnings-10233357/
 
-- Meta unveils AI-powered ad tools to boost festive season sales in India
+- Anthropic agrees to pay $1.5 billion to settle author class action
   
-  🔗 https://indianexpress.com/article/technology/meta-unveils-ai-powered-ad-tools-to-boost-festive-season-sales-in-india-10232487/
+  🔗 https://indianexpress.com/article/technology/anthropic-agrees-to-pay-1-5-billion-to-settle-author-class-action-10233356/
 
-- Mark Zuckerberg vs Mark Zuckerberg: Indiana lawyer sues Meta over repeated bans
+- Nvidia says GAIN AI Act would restrict competition, likens it to AI Diffusion Rule
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-ceo-mark-zuckerberg-sued-lawsuit-indiana-lawyer-10232192/
+  🔗 https://indianexpress.com/article/technology/nvidia-says-gain-ai-act-would-restrict-competition-likens-it-to-ai-diffusion-rule-10233352/
 
-- Google’s Circle to Search gets smarter with new ‘Scroll and Translate’ feature
+- Apple sued by authors over use of books in AI training
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-circle-to-search-scroll-and-translate-feature-10231743/
+  🔗 https://indianexpress.com/article/technology/apple-sued-by-authors-over-use-of-books-in-ai-training-10233350/
 
-- AI scams surge in India: Voice cloning, deepfakes and OTP frauds leave victims helpless
+- Now I know why celebrities are moving to smart straps without screens… I might too
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-scams-surge-in-india-voice-cloning-deepfakes-and-otp-frauds-leave-victims-helpless-10232064/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/amazfit-helio-strap-review-10233374/
+
+- Apple eyes strategic partnerships with South Korean firms to drive innovation: Company official
+  US tech giant Apple Inc. is seeking deeper collaboration with South Korean companies to foster innovation across multiple sectors.
+  🔗 https://www.livemint.com/companies/news/apple-eyes-strategic-partnerships-with-south-korean-firms-to-drive-innovation-company-official-11757131681227.html
+
+- China Probes Former Chair of Securities Regulator Yi, CCTV Says
+  China is investigating Yi Huiman, its former top securities regulator, according to state broadcaster CCTV. Yi Hu
+  🔗 https://www.livemint.com/companies/news/china-probes-former-chair-of-securities-regulator-yi-cctv-says-11757129996524.html
+
+- OpenAI expects business to burn $115 billion through 2029, The Information reports
+  OpenAI expects business to burn $
+  🔗 https://www.livemint.com/companies/news/openai-expects-business-to-burn-115-billion-through-2029-the-information-reports-11757128250535.html
+
+- Buffett’s Oregon Utility Says Fire Lawsuits Pose Shutdown Risk
+  Berkshire Hathaway Inc.’s PacifiCorp says litigation from massive wildfires in 2020 is jeopardizing its ability to continue providing power to hundreds of thousands
+  🔗 https://www.livemint.com/companies/news/buffetts-oregon-utility-says-fire-lawsuits-pose-shutdown-risk-11757123062102.html
 
 - India’s toy startups prep to defy the Trump tariff storm
   The Indian toymaking industry, valued at $2–3 billion, risks losing overseas clients after Donald Trump’s 50% tariffs on
   🔗 https://www.livemint.com/companies/start-ups/toy-and-babycare-startups-hope-defy-trump-tariff-storm-gst-rate-cut-local-incentives-quickcommerce-11756882051194.html
 
-- Unacademy won’t bankroll Airlearn; Gaurav Munjal chases fresh funds as ambitions grow
-  Munjal and Saini’s growing ambition to do
-  🔗 https://www.livemint.com/companies/unacademy-airlearn-gaurav-munjal-nexus-venture-partners-softbank-general-atlantic-peak-xv-temasek-11756983343697.html
+- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 8 September 2025
+  Dr Reddy's Laboratories, Cholamandalam Investment, Rel
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-8-september-2025-11757136574127.html
 
-- DTH in decline: Companies continue to lose revenue as customers tune out of linear TV and take to OTT
-  Tata Play, Dish TV and Sun Direct reported revenue declines in FY25. The pay DTH subscriber base has decreased by over 7 million
-  🔗 https://www.livemint.com/companies/directtohome-companies-dth-linear-tv-ott-tata-play-sun-direct-dish-tv-bharti-telemedia-rural-india-pay-tv-doordarshan-11757046240129.html
+- Stock to watch: Freshworks share price to be in focus on Monday after THIS step by Girish Mathrubootham
+  Girish Mathrubootham, co-founder of Freshworks has stepped down as the executive
+  🔗 https://www.livemint.com/market/stock-market-news/stock-to-watch-freshworks-share-price-to-be-in-focus-on-monday-after-this-step-by-girish-mathrubootham-11757128063066.html
 
-- Colombia Resumes Talks With Venezuela to Plug Gas Shortfall
-  Colombia has restarted talks to import natural gas from neighboring Venezuela. The
-  🔗 https://www.livemint.com/companies/news/colombia-resumes-talks-with-venezuela-to-plug-gas-shortfall-11757110174557.html
+- Bull vs bear: Can GST reform bring the Indian stock market out of the league of worst performers in global markets?
+  After a brief rally following GST reforms, the Indian stock market faced profit-
+  🔗 https://www.livemint.com/market/stock-market-news/bull-vs-bear-can-gst-reform-bring-the-indian-stock-market-out-of-the-league-of-worst-performers-in-global-markets-11757131603406.html
 
-- Nvidia says GAIN AI Act would restrict competition, likens it to AI Diffusion Rule
-  Nvidia says GAIN AI Act would restrict competition, lik
-  🔗 https://www.livemint.com/companies/news/nvidia-says-gain-ai-act-would-restrict-competition-likens-it-to-ai-diffusion-rule-11757109751447.html
+- Is the Indian stock market open or closed on Monday after the declaration of a public holiday in Mumbai?
+  The Maharashtra state government in Mumbai City and suburbs announced a public holiday on Monday.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-is-indian-stock-market-open-or-closed-on-monday-after-declaration-of-a-public-holiday-in-mumbai-11757125611457.html
 
-- The holy grail of 13–14% CAGR: Too ambitious or realistic for Indian stock market investors?
-  Long-term investors in the Indian stock market can realistically expect a 13-14% CAGR. However, market volatility may challenge
-  🔗 https://www.livemint.com/market/stock-market-news/the-holy-grail-of-13-14-cagr-of-nifty-50-too-ambitious-or-realistic-for-indian-stock-market-investors-11757079137797.html
+- RIC to BRICS: Can emerging R-Block trump US tariffs by fueling momentum for dedollarisation? EXPLAINED
+  BRICS aims to reduce reliance on the US dollar through local currency settlements and discussions
+  🔗 https://www.livemint.com/market/stock-market-news/ric-to-brics-inr-vs-usd-can-emerging-r-block-trump-us-tariffs-by-fueling-momentum-for-dedollarisation-explained-11757122304917.html
 
-- Munis Rise as Bonds Rally on Job Data Cementing Rate-Cut Bets
-   weaker-than-expected job growth raised expectations that the Federal Reserve will start lowering interest rates this
-  🔗 https://www.livemint.com/market/stock-market-news/munis-rise-as-bonds-rally-on-job-data-cementing-rate-cut-bets-11757109629033.html
+- OpenAI restructures its ‘Model Behaviour’ team to rework how ChatGPT interacts with users: Report
+  OpenAI is restructuring its Model Behaviour team into the Post Training division to enhance AI user interactions. The team will report to Max Schwarzer and focus on AI personality development.
+  🔗 https://www.livemint.com/technology/tech-news/openai-restructures-its-model-behaviour-team-to-rework-how-chatgpt-interacts-with-users-report-11757137308834.html
 
-- Cattle futures dip on profit-taking, lower beef prices
-  Cattle futures
-  🔗 https://www.livemint.com/market/commodities/cattle-futures-dip-on-profit-taking-lower-beef-prices-11757107639312.html
+- iPhone 17, 17 Air, 17 Pro, 17 Pro Max India prices tipped ahead of Apple's ‘Awe Dropping’ event: What to expect
+  Apple is expected to launch the iPhone 17 series at its ‘Awe Dropping’ event on 9 Sept in Cupertino. Leaks hint at stable US pricing for base models, with the Pro likely to rise. In
+  🔗 https://www.livemint.com/technology/gadgets/iphone-17-17-air-17-pro-17-pro-max-india-prices-tipped-ahead-of-apples-awe-dropping-event-what-to-expect-11757132873966.html
 
-- Wall Street indexes end lower as jobs data fuels economic worries
-  Wall Street indexes end lower as jobs data fuels
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-indexes-end-lower-as-jobs-data-fuels-economic-worries-11757106129844.html
+- Apple’s Awe Dropping Event: iPhone 17 series, Watch Ulta 3 and AirPods Pro 3 expected
+  Apple is expected to unveil a new iPhone series at an event on 9 September. The iPhone 17 series could include a slim new iPhone 17 Air. Also expected: Apple Watch Ultra 3, Series 11, Watch SE, AirP
+  🔗 https://www.livemint.com/technology/gadgets/apples-awe-dropping-event-iphone-17-series-watch-ulta-3-and-airpods-pro-3-expected-11757126431935.html
 
-- Canadian dollar lags G10 peers as jobs data lifts rate cut bets
-  Canadian dollar lags G10 peers as jobs data lifts
-  🔗 https://www.livemint.com/market/stock-market-news/canadian-dollar-lags-g10-peers-as-jobs-data-lifts-rate-cut-bets-11757105463892.html
+- Anthropic settles, Apple sued: Tech giant faces lawsuit over AI copyright dispute
+  Apple faces a lawsuit from authors Grady Hendrix and Jennifer Roberson. They claim the company used their copyrighted books without permission. This case is part of a broader trend of legal actions against tech firms
+  🔗 https://www.livemint.com/technology/tech-news/anthropic-settles-apple-sued-tech-giant-faces-lawsuit-over-ai-copyright-dispute-tim-cook-11757122635374.html
 
-- AI giant Anthropic to pay $1.5 bn over pirated books
-   AI giant Anthropic to
-  🔗 https://www.livemint.com/technology/tech-news/ai-giant-anthropic-to-pay-1-5-bn-over-pirated-books-11757104616241.html
+- Anthropic faces cost of AI training data piracy, agrees to pay $1.5B to 7M authors
+  Anthropic will pay at least $1.5bn to settle copyright lawsuit over claims it used pirated books to train AI. The deal, covering up to 7m works, is the first major AI
+  🔗 https://www.livemint.com/technology/tech-news/anthropic-faces-cost-of-ai-training-data-piracy-agrees-to-pay-1-5b-to-7m-authors-11757120515461.html
 
-- Married woman’s 20+ hours weekly with ChatGPT turn into a ‘dominant AI boyfriend’ saga—Here's what happened
-  A 28-year-old married woman developed an intimate relationship with the AI tool ChatGPT. She spent over 20 hours weekly interacting with her AI boyfriend. This included discussing
-  🔗 https://www.livemint.com/technology/married-woman-s-20-hours-weekly-with-chatgpt-turn-into-a-dominant-ai-boyfriend-saga-heres-what-happened-11757092462061.html
+- Earnings recovery to drive market momentum: Mayuresh Joshi
+  GST rationalization is expected to boost volumes and margins from Q3, benefiting India Inc. Metals led sectoral gains, supported by potential US rate cuts and improved India-China ties. Despite positive indicators, markets remain cautious,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/earnings-recovery-to-drive-market-momentum-mayuresh-joshi/articleshow/123730778.cms
 
-- Google fined $3.5 billion by EU for anti-competitive adtech practices
-  The EU also asked Google to stop favoring
-  🔗 https://www.livemint.com/technology/tech-news/google-fined-3-5-billion-by-eu-for-anti-competitive-adtech-practices-11757086767252.html
+- Weakness in Bank Nifty holding back market rally: Rajesh Palviya
+  Nifty tested 25,000 but could not surpass it. Banking stocks are a drag. Rajesh Palviya suggests automobile, FMCG, metals, and new-age stocks are worth watching.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/weakness-in-bank-nifty-holding-back-market-rally-rajesh-palviya/articleshow/123730755.cms
 
-- Europe bets on supercomputer to catch up in AI race
-  Europe bets on supercomputer
-  🔗 https://www.livemint.com/technology/tech-news/europe-bets-on-supercomputer-to-catch-up-in-ai-race-11757079778846.html
+- The Golden Thumb Rule | For Gen Z investors, time in the market beats timing the market, says Kaustubh Belapurkar
+  Kaustubh Belapurkar advises investors to focus on diversification. Staying invested in well-managed strategies, even through market cycles, is crucial for long-term success.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/the-golden-thumb-rule-for-gen-z-investors-time-in-the-market-beats-timing-the-market-says-kaustubh-belapurkar/articleshow/123730705.cms
 
-- Score up to 25% off on iPad: Top 10 picks with modern design, tech and features for every day work and entertainment
-  Apple iPad remains one of the best tablets, known for performance and sleek design. Current Apple iPad offers provide value-packed choices
-  🔗 https://www.livemint.com/technology/gadgets/score-up-to-25-off-on-ipad-top-10-picks-with-modern-design-tech-and-features-for-every-day-work-and-entertainment-11757073620189.html
+- IPO Calendar: Urban Company to lead Rs 2,700 crore worth offers in a busy week
+  Urban Company, Dev Accelerator, and Shringar House of Mangalsutra launch their IPOs. collectively aiming to raise over Rs 2,700 crore. Urban Company's Rs 1,900 crore tech IPO is
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ipo-calendar-urban-company-to-lead-rs-2700-crore-worth-offers-in-a-busy-week/articleshow/123730502.cms
 
-- Will FPIs campaign to unnerve DIIs or vice versa? Amid foreign exodus, Nilesh Shah says stay focused on these 2 things
-  Despite foreign outflows, domestic resilience, strong GDP growth, and GST reforms support Indian markets. Kotak AMC’s Nilesh Shah urges investors to focus on growth
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/will-fpis-campaign-to-unnerve-diis-or-vice-versa-amid-foreign-exodus-nilesh-shah-says-stay-focused-on-these-2-things/articleshow/123722437.cms
+- ICICI Bank among Motilal Oswal’s top 5 stock picks with upside potential of up to 26%
+  Motilal Oswal has picked its top 5 bets on a fundamental basis for a horizon of 1 year, with an upside potential
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-among-motilal-oswals-top-5-stock-picks-with-upside-potential-of-up-to-26/slideshow/123730373.cms
 
-- REITs, InvITs AUM crosses Rs 9 lakh cr in 9yrs; may touch Rs 25 lakh cr by 2030: Industry bodies
-  Real Estate Investment Trusts (REITs) are becoming popular in India. Their combined assets under management have crossed Rs 9 lakh crore in the last nine years.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/reits-invits-aum-crosses-rs-9-lakh-cr-in-9yrs-may-touch-rs-25-lakh-cr-by-2030-industry-bodies/articleshow/123722387.cms
+- Trump Asked If He Is Ready To Reset Relations With India. His Response - NDTV
+  Trump Asked If He Is Ready To Reset Relations With India
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQng4NFBRRE1XYlVYQ0ZqNTlvYkYzazdGX051dWJseDU2NDFxMmprR2tCMFhYTmRGYkdTOVVSRnpRVzN4ZXZGb0VRcEVhNmpKQmxFV0RVWFhncUhIQlhnUUNOcDdSbERxME04b05hREF0d0VqY3QzYVlnYmYxSlNncTE3dW1oMWZkYTA1VmN3T1B0SzJZaHFZcWlDOW5WOTNCalhPNFRVOGFRUHJxY2pr0gG3AUFVX3lxTFB4YW42Q2IxWEo3MHZpMVRya0V1ZE00ZmliUWhiYlJQSThqMUkzcmFod01rRDVvaFcyZW5uNWxYRnREN3NzbGlfNkVSUlhsZGdZdVYyNWtQTWxFaEpsMVhibzlGanNMU0ljX3psREl3NVI1RnpkT3NRVkhyNnFCcWR0Sm5uaW5yRzRzUkF4azd5dFQ5Znl6cVpJd0NqQWRlVHFWYjRpTTE3d3hoU19wSUpXWjFSMlpPbw?oc=5
 
-- Colive partners with Sattva Group, Bain Capital to set up $ 100mn fund to build rental homes
-  Co-living space provider Colive has set up a USD 100 million platform in partnership with Bain Capital and
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/colive-partners-with-sattva-group-bain-capital-to-set-up-100mn-fund-to-build-rental-homes/articleshow/123722330.cms
-
-- Euro zone bond yields lag US Treasuries after US economic data
-  The spread between German and U.S. borrowing costs is at its lowest level since early April. Euro zone government bond yields lagged behind
-  🔗 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-lag-us-treasuries-after-us-economic-data/articleshow/123722272.cms
-
-- Dollar falls sharply after jobs data misses expectations
-  The U.S. dollar fell sharply against major peers on Friday after crucial monthly jobs data. American employers hired fewer workers than expected, which likely guarantees a Federal Reserve interest rate cut. Labor Department data showed that nonfarm payrolls increased
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-falls-sharply-after-jobs-data-misses-expectations/articleshow/123722236.cms
-
-- "India Will Say Sorry In 2 Months": Top US Official's Big Claim On Tariffs - NDTV
-  "India Will Say Sorry In 2 months": Top US Official
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1N3cVFmM2k5WmlQTFVEeHBPb3lQUHBob1AySDZENUdUOXdQYlRBSnpacVFsbzVuZFg1amxmWldEZDdraEtQLTVkSEFNdmxTSUcxYmFRXzYwMGF1Z0xOWG1IYTY2X3ZHZWx6NVZibDFHNDU2UTdGWmw4MW9EWUtFRkM3OGF5eXg2WXRZVGpXTUl2TEJHdFdIdGtCbUg0WkJYbEc4dF8wM1pXakhsRVE5MU1UMVZfcTZ3RHR5ODI3MWtsR3dXOHBSLVp4Y9IB0wFBVV95cUxOX25iTHgxSy1PaVNXZnZiWUduanc1LS1UY2FJeklVeFpqU2dOd1RCREhnd3ZSdE1WdDM5R05iQkZBaERhc0ZDNnExVVRtVEJLWVU0WlV2WXRKSE5yUWtVRjlmR2ZTY2NRUGJVRzFYOHhDTTBpNzVTOG9zTTRhNGRzMFhPSFNLbEdCWVUyXzFxVVFQelVmM3hDUDlFS0xaSmpkcTExNG9VeUpfTWR4QklNMmE5MEhBUWtxQ2pHVUJMUVludnJ4bC1BV3YxQVJtcDhod2hn?oc=5
+- Trump says he’ll ‘always be friends’ with Modi; ‘nothing to worry’ about India-U.S. ties - The Hindu
+  Trump says he’ll ‘always be friends’
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTN3OUdhNi1tTnYweHlMUG9fbWNVRkJNcldLVVBrbE1KcGVhT2k1NFlLMUhBX2U3M1JzMTR3OW54VS1oVENEejdsYUlkRk5SbnA3ME5ZUVJOUHpFR2xMUnhnT2hBN2hKTUYyZV9HN0t5VjBib2FwbV9lNHVHaFhYNEJvbGxWTTFkYXlaa1pYcF9QN1hhcURVUUJOOXI2b19jM1FSblIzQk5kSnVIbFNUdEc5dlBxUXlTcEpvbXBlUF94X1BfYUYtVnNCV3c3dTNBWUt1ek5uS0tXMzFq0gHjAUFVX3lxTFB1WnlUTnZVWGc0UEFXVGZESm9yQ1Y1V2I4MjduTzFFbF81ckFFZDFlbk81SVlzMEI3aml5Mm1jTDRRYmo1MXFOYzBYN3gwcW1QRHBQMWtvQ1RoV1lwU2dhT2stcHZnbTY2RHBhUEwxVFdBOXQxXzBVaGZHRllsWmFoSkFYY0VXMlFoUnhnaWxKb1A0Um9DYkF2alhwWXB0U2tzMC10ZFBzUzlqQ2VHWjFsbGNiMkJTNS1GaS1ZdWlqQ1JfYndBcFhhbGxMV28wN2NWNTU1Vk55Zi1KQVBlcDBMeGNj?oc=5
 
 - 'India will say sorry and make a deal': US commerce secretary Howard Lutnick - The Times of India
   'India will say sorry and make a deal': US commerce secretary Howard
   🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTGN5OE9LN21MRk5yQ2hHalRzdnM4MDdSQ0l5UjRHREdaSnBWUzZwSi0wUUNPVmc3cHVUa25wSjFYUnRUOWR1Qk1FQmRQSWU5YV9NenN2bDFIdHpJNWhsbzNJNXlrZGo3U1NsZ3lOREtHMGxIdmwyQWpnSzA5a2hQd01BNThxV1c3N25Ud1I4MHhkRldCSnZIbkdoNi1NMGlwSFJpUE9kdE9CMjBUMVlWMG1wMzVQbl96WHMzcTBzVGhuVm5yQ2FidzY3dnhWWDF4U0pTaXRhN0RKSExlM0NhNHJfenlnQUpncWZqcnIyZnPSAfYBQVVfeXFMUHg3MTZKa0pZVmFCR0ZSUTMwclo0MjJUcnVWT1NkQWlyX2hhMzFjR0x1TkNsRkd4c3pPYWVXR1k5TDd4Rk1QWkJqWW56eG9DV2dzNmJwY1hxX1ViMElCMlJ6dVAwdW9obmpodHY4Nmw4MTRDUEJyUVdiSWdqLVNMZVhyd2hGdVh2YWl1aXlhdktTTXY1a2RnMElfcTNmZmFVUkpxeUMySEdMY0FOZU9YaV9LZWVLWU93T0cyMFVEUTJhWkhFMW9JX1dlMmd2R3FEbWdhWFBRS1hHcHRaX0Iyc3NxZ3BTRk5CVnJicjdHOTg1eld3YVFR?oc=5
 
-- CJI: Top court proactively responded to complex 21st century challenges - The Indian Express
-  The Indian Express is an award-winning Indian
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNLVhQSlBLeW5YempKQUcydDFpRmpYT19DV1hUdjNxbXBNMHVfaFBmTFE2RExQVWpCcFBGTGpraVhNM2xVQ2wtX0pVN2dUY0NrdU52cmNRVWJWOGRIYjJQRTJIZHI5eXZpemJGSkpjY0NaT2MzVVUxZmNXREJYbUM0cHYtdUpoT3E1RDFiSnBoYlluU2o1RUpnMEdJOGl3SnVYdy16LXktUnBlQWJGV1pfbTJzdklNdUU1QkpxatIBwwFBVV95cUxQV19WbDIzNUt4elZOTDRjQ2RnMHgtcHdhUVBvUjJmYmIwUzJUMTJNXzduWEhqS1U5T0gzSDdfV0QxTWJXeEx4dW5rYkpZYU5DdjFlTmJxZC1QZ3hhS3g0b1A2WHpHQWUxeHZZdGxkdTQ3Q2kzTVpSWVBmaU14SU5ydmJtYzBjSV9zd0pfOVZqTVJhUEpKTl9ybW9haEQyNzlRNmlPM3VMc3pkelUtcERIZVRxSGc5UVhjMnlRWmhObnhDb3c?oc=5
+- India going to be at the table in a month or two 'saying sorry': US Commerce Secretary on trade deal | Latest News India - Hindustan Times
+  India going to be at the table in a month or two 'saying sorry': US Commerce Secretary on trade deal
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZXhGcWlaSk83eC0wNXZYUnJDUHlkY3V4SXhXY20zQVZuQ2FkMlcyZHQ0TGR3UUFHdW9TcWg0Z2dCRjdCS0Vmd0xvdGR0UWlEMFZySHl6aE1odmp2Vi1yejBZM3pBYUdLNkhmY0dLOVdlT2U1TWdqdk9WY1BJQS1uWmphVFBWZzhPX1htdHNxeHZDd2tBeVNlcDYzX0hEZVl6NjMxNnVjZ1E3OVQ3Wk5aZkJlTndPUVlmQV9RVEdBdkk3d2FoVmZ1QTl5aWhnamtEMTh1N3p5MWV3eVNSNGQwODRlb2VweHRsR2FsRzFlLXR6QdIB9wFBVV95cUxQSGFyY0RuT2xVVEVUSUR3ckU1cWsxcHNRd1k4b3FkOWVaUi1MYlhBbjV6QzIxbGgwd2RrYXRWOVdPVndTc0tBcUFpMDVEX3EzRVNKdG9iVG4zVTdqUkhMa0NzRm53V0xsU09rTVdvZU9WZ184MF9Ed0dyMEVRWEl5c3ktY0JIREdDYkFyUjU3VGVEOENMVGh6VGVBYVFHdExiRW56dDRpSGpYcUYyTVVuVXJpVUwzbGtqdzM5eENfVGNFSG51Y1JkTXlxUlJUUTdOTVBtMjByMmgzUGRIdXFGc1BQdmRzeEJCNmZJeEtLek4wek00SmU0?oc=5
 
-- As India chases fugitives, UK team assesses Tihar facilities - Hindustan Times
-  Hindustan Times: UK team assess
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGR4Q2VmVDZHOUtkRXVVR09aZ2I0bzI2U2RzRTYxTjRDQVdjZENNNFRjclYtTmNOUzdjOHNPNXYyOGw3Q3BfMDJxZVhmblJsRWtGN0NQNjJDRTlmakdjYmR3cU4tcmd5YTlYSjZZQWUzR2doTktabHdMc3RMZFVscGFYQXk4Nl95QjFEWEltQXQtcFcxSWNoM2ZYbFd1c1hQZGNfc3VHSWVMaGpiWGo1R2lyRi11NklZc0lnam0yRQ?oc=5
+- Will always be friends: Trump backtracks from 'lost India to China' remark - India Today
+  " target="_blank" id=5
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdDIzME9jSFpUeWlXbWxEaEFnVG1XVG1jVDFIeDBmRVhXa1MySUx4R2xVME1IVTRISV9XcmJGNXJRQ1hqek1FYWdHQ3p0eUVnSXY2LWg4LUhaOHVVSFhmdFRGSjBiX0RNMGNwUXMzelF2d1ZIYUhocU1MZElfLVBTLWVvcWQ3UVQwMzhXTElBUDhaZmhReFdhbjN4OHZxdkhpRkZsSFpvV25ZUkt5S3pyVDBxRFF4dnRIOWNBQ0IxM3dSS2QtaHhzV3p4ZXE1WDV6aG0tME5JdXJpWTBUY082UtIB5gFBVV95cUxQVVR5NVB2YWFtMnBpY1NHUFFfakljemtYaUJQb3NOdEp1SmdSbVZCQ0NfTHJDMTNieDFKajUwcFNBU2VYcHhRODhVQk83MEJDc0dORm1IdUJqQm9Zc3BWREp2cUtPdERLZmhHblpOMWNnMm5ZeTIzTExMODVNMkdGNTUyV250QkV4MXQwSnpwYnBtc2VqTmlnV2g1a001bTQ2QWJITHk2dVBkc2VTakVTT1FBZ056emZYRFE1VXV0U0t1X1o5Z0dISVBnTmE3TzllYVBlOGh1Z3NBTWd4bjI1MFJHTk04dw?oc=5
 
-- Donald Trump says ‘We have lost India and Russia to deepest, darkest China’ - The Hindu
-  Donald Trump says ‘We have lost India and Russia to
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY05hazJNTHd4RHB4czdQRkdUUW1UOWJEaVpGek5BSkUyT1lHQ2RDSGRQUkFTSXVoUXdPOWNseUpCYTFtSmVyQUNIVFotOUhXQWppVEtTVEFKbXlUSjItbnJGWXZGUUs1RGFFai1aX2dIb0xGLUQxRnQwQnV4dlhieE1zUWhTSDlsNWdCSkZpODljc1B1azlSNUtmNEt1dG1jRUg1T1NxOHVXdE4tWHZnTU52X19SdHZudEZHM3VVdWtmYXZxQ1800gHOAUFVX3lxTFB6VDVxVTZhNUlBaElfc01PWnYwTndFSUoyZUtCckNUN1NlNERDZ1p0V3YxdUNFRXdrRTNnQm5lVmpqWTY1Y1B3ZDUtSXkxUlFXWkRfeUJ1d1RJeFY0WWUwOTRrRWp4cmZWNU9WVXhIUzFnbXVKckxWSXltSmgwUTloV1BDQUtraDNuMXZId1dxQkJjT0k5RVhYRUN0akpNT0dIdlc2Z05VZjdVQUF0VE9kY0VPWDhYQkRuMkF1N0hxbEV5elhzejItWW1RTmdn?oc=5
+- Trump Asked If He Is Ready To Reset Relations With India. His Response - NDTV
+  Trump Asked If He Is Ready To Reset Relations With India
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQng4NFBRRE1XYlVYQ0ZqNTlvYkYzazdGX051dWJseDU2NDFxMmprR2tCMFhYTmRGYkdTOVVSRnpRVzN4ZXZGb0VRcEVhNmpKQmxFV0RVWFhncUhIQlhnUUNOcDdSbERxME04b05hREF0d0VqY3QzYVlnYmYxSlNncTE3dW1oMWZkYTA1VmN3T1B0SzJZaHFZcWlDOW5WOTNCalhPNFRVOGFRUHJxY2pr0gG3AUFVX3lxTFB4YW42Q2IxWEo3MHZpMVRya0V1ZE00ZmliUWhiYlJQSThqMUkzcmFod01rRDVvaFcyZW5uNWxYRnREN3NzbGlfNkVSUlhsZGdZdVYyNWtQTWxFaEpsMVhibzlGanNMU0ljX3psREl3NVI1RnpkT3NRVkhyNnFCcWR0Sm5uaW5yRzRzUkF4azd5dFQ5Znl6cVpJd0NqQWRlVHFWYjRpTTE3d3hoU19wSUpXWjFSMlpPbw?oc=5
 
-- "India Will Say Sorry In 2 Months": Top US Official's Big Claim On Tariffs - NDTV
-  "India Will Say Sorry In 2 months": Top US Official
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1N3cVFmM2k5WmlQTFVEeHBPb3lQUHBob1AySDZENUdUOXdQYlRBSnpacVFsbzVuZFg1amxmWldEZDdraEtQLTVkSEFNdmxTSUcxYmFRXzYwMGF1Z0xOWG1IYTY2X3ZHZWx6NVZibDFHNDU2UTdGWmw4MW9EWUtFRkM3OGF5eXg2WXRZVGpXTUl2TEJHdFdIdGtCbUg0WkJYbEc4dF8wM1pXakhsRVE5MU1UMVZfcTZ3RHR5ODI3MWtsR3dXOHBSLVp4Y9IB0wFBVV95cUxOX25iTHgxSy1PaVNXZnZiWUduanc1LS1UY2FJeklVeFpqU2dOd1RCREhnd3ZSdE1WdDM5R05iQkZBaERhc0ZDNnExVVRtVEJLWVU0WlV2WXRKSE5yUWtVRjlmR2ZTY2NRUGJVRzFYOHhDTTBpNzVTOG9zTTRhNGRzMFhPSFNLbEdCWVUyXzFxVVFQelVmM3hDUDlFS0xaSmpkcTExNG9VeUpfTWR4QklNMmE5MEhBUWtxQ2pHVUJMUVludnJ4bC1BV3YxQVJtcDhod2hn?oc=5
-
-- 'India will say sorry and make a deal': US commerce secretary Howard Lutnick - The Times of India
-  'India will say sorry and make a deal': US commerce secretary Howard
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTGN5OE9LN21MRk5yQ2hHalRzdnM4MDdSQ0l5UjRHREdaSnBWUzZwSi0wUUNPVmc3cHVUa25wSjFYUnRUOWR1Qk1FQmRQSWU5YV9NenN2bDFIdHpJNWhsbzNJNXlrZGo3U1NsZ3lOREtHMGxIdmwyQWpnSzA5a2hQd01BNThxV1c3N25Ud1I4MHhkRldCSnZIbkdoNi1NMGlwSFJpUE9kdE9CMjBUMVlWMG1wMzVQbl96WHMzcTBzVGhuVm5yQ2FidzY3dnhWWDF4U0pTaXRhN0RKSExlM0NhNHJfenlnQUpncWZqcnIyZnPSAfYBQVVfeXFMUHg3MTZKa0pZVmFCR0ZSUTMwclo0MjJUcnVWT1NkQWlyX2hhMzFjR0x1TkNsRkd4c3pPYWVXR1k5TDd4Rk1QWkJqWW56eG9DV2dzNmJwY1hxX1ViMElCMlJ6dVAwdW9obmpodHY4Nmw4MTRDUEJyUVdiSWdqLVNMZVhyd2hGdVh2YWl1aXlhdktTTXY1a2RnMElfcTNmZmFVUkpxeUMySEdMY0FOZU9YaV9LZWVLWU93T0cyMFVEUTJhWkhFMW9JX1dlMmd2R3FEbWdhWFBRS1hHcHRaX0Iyc3NxZ3BTRk5CVnJicjdHOTg1eld3YVFR?oc=5
-
-- CJI: Top court proactively responded to complex 21st century challenges - The Indian Express
-  The Indian Express is an award-winning Indian
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNLVhQSlBLeW5YempKQUcydDFpRmpYT19DV1hUdjNxbXBNMHVfaFBmTFE2RExQVWpCcFBGTGpraVhNM2xVQ2wtX0pVN2dUY0NrdU52cmNRVWJWOGRIYjJQRTJIZHI5eXZpemJGSkpjY0NaT2MzVVUxZmNXREJYbUM0cHYtdUpoT3E1RDFiSnBoYlluU2o1RUpnMEdJOGl3SnVYdy16LXktUnBlQWJGV1pfbTJzdklNdUU1QkpxatIBwwFBVV95cUxQV19WbDIzNUt4elZOTDRjQ2RnMHgtcHdhUVBvUjJmYmIwUzJUMTJNXzduWEhqS1U5T0gzSDdfV0QxTWJXeEx4dW5rYkpZYU5DdjFlTmJxZC1QZ3hhS3g0b1A2WHpHQWUxeHZZdGxkdTQ3Q2kzTVpSWVBmaU14SU5ydmJtYzBjSV9zd0pfOVZqTVJhUEpKTl9ybW9haEQyNzlRNmlPM3VMc3pkelUtcERIZVRxSGc5UVhjMnlRWmhObnhDb3c?oc=5
-
-- As India chases fugitives, UK team assesses Tihar facilities - Hindustan Times
-  Hindustan Times: UK team assess
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGR4Q2VmVDZHOUtkRXVVR09aZ2I0bzI2U2RzRTYxTjRDQVdjZENNNFRjclYtTmNOUzdjOHNPNXYyOGw3Q3BfMDJxZVhmblJsRWtGN0NQNjJDRTlmakdjYmR3cU4tcmd5YTlYSjZZQWUzR2doTktabHdMc3RMZFVscGFYQXk4Nl95QjFEWEltQXQtcFcxSWNoM2ZYbFd1c1hQZGNfc3VHSWVMaGpiWGo1R2lyRi11NklZc0lnam0yRQ?oc=5
-
-- Donald Trump says ‘We have lost India and Russia to deepest, darkest China’ - The Hindu
-  Donald Trump says ‘We have lost India and Russia to
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY05hazJNTHd4RHB4czdQRkdUUW1UOWJEaVpGek5BSkUyT1lHQ2RDSGRQUkFTSXVoUXdPOWNseUpCYTFtSmVyQUNIVFotOUhXQWppVEtTVEFKbXlUSjItbnJGWXZGUUs1RGFFai1aX2dIb0xGLUQxRnQwQnV4dlhieE1zUWhTSDlsNWdCSkZpODljc1B1azlSNUtmNEt1dG1jRUg1T1NxOHVXdE4tWHZnTU52X19SdHZudEZHM3VVdWtmYXZxQ1800gHOAUFVX3lxTFB6VDVxVTZhNUlBaElfc01PWnYwTndFSUoyZUtCckNUN1NlNERDZ1p0V3YxdUNFRXdrRTNnQm5lVmpqWTY1Y1B3ZDUtSXkxUlFXWkRfeUJ1d1RJeFY0WWUwOTRrRWp4cmZWNU9WVXhIUzFnbXVKckxWSXltSmgwUTloV1BDQUtraDNuMXZId1dxQkJjT0k5RVhYRUN0akpNT0dIdlc2Z05VZjdVQUF0VE9kY0VPWDhYQkRuMkF1N0hxbEV5elhzejItWW1RTmdn?oc=5
-
-- "India Will Say Sorry In 2 Months": Top US Official's Big Claim On Tariffs - NDTV
-  "India Will Say Sorry In 2 months": Top US Official
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1N3cVFmM2k5WmlQTFVEeHBPb3lQUHBob1AySDZENUdUOXdQYlRBSnpacVFsbzVuZFg1amxmWldEZDdraEtQLTVkSEFNdmxTSUcxYmFRXzYwMGF1Z0xOWG1IYTY2X3ZHZWx6NVZibDFHNDU2UTdGWmw4MW9EWUtFRkM3OGF5eXg2WXRZVGpXTUl2TEJHdFdIdGtCbUg0WkJYbEc4dF8wM1pXakhsRVE5MU1UMVZfcTZ3RHR5ODI3MWtsR3dXOHBSLVp4Y9IB0wFBVV95cUxOX25iTHgxSy1PaVNXZnZiWUduanc1LS1UY2FJeklVeFpqU2dOd1RCREhnd3ZSdE1WdDM5R05iQkZBaERhc0ZDNnExVVRtVEJLWVU0WlV2WXRKSE5yUWtVRjlmR2ZTY2NRUGJVRzFYOHhDTTBpNzVTOG9zTTRhNGRzMFhPSFNLbEdCWVUyXzFxVVFQelVmM3hDUDlFS0xaSmpkcTExNG9VeUpfTWR4QklNMmE5MEhBUWtxQ2pHVUJMUVludnJ4bC1BV3YxQVJtcDhod2hn?oc=5
+- Trump says he’ll ‘always be friends’ with Modi; ‘nothing to worry’ about India-U.S. ties - The Hindu
+  Trump says he’ll ‘always be friends’
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTN3OUdhNi1tTnYweHlMUG9fbWNVRkJNcldLVVBrbE1KcGVhT2k1NFlLMUhBX2U3M1JzMTR3OW54VS1oVENEejdsYUlkRk5SbnA3ME5ZUVJOUHpFR2xMUnhnT2hBN2hKTUYyZV9HN0t5VjBib2FwbV9lNHVHaFhYNEJvbGxWTTFkYXlaa1pYcF9QN1hhcURVUUJOOXI2b19jM1FSblIzQk5kSnVIbFNUdEc5dlBxUXlTcEpvbXBlUF94X1BfYUYtVnNCV3c3dTNBWUt1ek5uS0tXMzFq0gHjAUFVX3lxTFB1WnlUTnZVWGc0UEFXVGZESm9yQ1Y1V2I4MjduTzFFbF81ckFFZDFlbk81SVlzMEI3aml5Mm1jTDRRYmo1MXFOYzBYN3gwcW1QRHBQMWtvQ1RoV1lwU2dhT2stcHZnbTY2RHBhUEwxVFdBOXQxXzBVaGZHRllsWmFoSkFYY0VXMlFoUnhnaWxKb1A0Um9DYkF2alhwWXB0U2tzMC10ZFBzUzlqQ2VHWjFsbGNiMkJTNS1GaS1ZdWlqQ1JfYndBcFhhbGxMV28wN2NWNTU1Vk55Zi1KQVBlcDBMeGNj?oc=5
 
 - 'India will say sorry and make a deal': US commerce secretary Howard Lutnick - The Times of India
   'India will say sorry and make a deal': US commerce secretary Howard
   🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTGN5OE9LN21MRk5yQ2hHalRzdnM4MDdSQ0l5UjRHREdaSnBWUzZwSi0wUUNPVmc3cHVUa25wSjFYUnRUOWR1Qk1FQmRQSWU5YV9NenN2bDFIdHpJNWhsbzNJNXlrZGo3U1NsZ3lOREtHMGxIdmwyQWpnSzA5a2hQd01BNThxV1c3N25Ud1I4MHhkRldCSnZIbkdoNi1NMGlwSFJpUE9kdE9CMjBUMVlWMG1wMzVQbl96WHMzcTBzVGhuVm5yQ2FidzY3dnhWWDF4U0pTaXRhN0RKSExlM0NhNHJfenlnQUpncWZqcnIyZnPSAfYBQVVfeXFMUHg3MTZKa0pZVmFCR0ZSUTMwclo0MjJUcnVWT1NkQWlyX2hhMzFjR0x1TkNsRkd4c3pPYWVXR1k5TDd4Rk1QWkJqWW56eG9DV2dzNmJwY1hxX1ViMElCMlJ6dVAwdW9obmpodHY4Nmw4MTRDUEJyUVdiSWdqLVNMZVhyd2hGdVh2YWl1aXlhdktTTXY1a2RnMElfcTNmZmFVUkpxeUMySEdMY0FOZU9YaV9LZWVLWU93T0cyMFVEUTJhWkhFMW9JX1dlMmd2R3FEbWdhWFBRS1hHcHRaX0Iyc3NxZ3BTRk5CVnJicjdHOTg1eld3YVFR?oc=5
 
-- CJI: Top court proactively responded to complex 21st century challenges - The Indian Express
-  The Indian Express is an award-winning Indian
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNLVhQSlBLeW5YempKQUcydDFpRmpYT19DV1hUdjNxbXBNMHVfaFBmTFE2RExQVWpCcFBGTGpraVhNM2xVQ2wtX0pVN2dUY0NrdU52cmNRVWJWOGRIYjJQRTJIZHI5eXZpemJGSkpjY0NaT2MzVVUxZmNXREJYbUM0cHYtdUpoT3E1RDFiSnBoYlluU2o1RUpnMEdJOGl3SnVYdy16LXktUnBlQWJGV1pfbTJzdklNdUU1QkpxatIBwwFBVV95cUxQV19WbDIzNUt4elZOTDRjQ2RnMHgtcHdhUVBvUjJmYmIwUzJUMTJNXzduWEhqS1U5T0gzSDdfV0QxTWJXeEx4dW5rYkpZYU5DdjFlTmJxZC1QZ3hhS3g0b1A2WHpHQWUxeHZZdGxkdTQ3Q2kzTVpSWVBmaU14SU5ydmJtYzBjSV9zd0pfOVZqTVJhUEpKTl9ybW9haEQyNzlRNmlPM3VMc3pkelUtcERIZVRxSGc5UVhjMnlRWmhObnhDb3c?oc=5
+- India going to be at the table in a month or two 'saying sorry': US Commerce Secretary on trade deal | Latest News India - Hindustan Times
+  India going to be at the table in a month or two 'saying sorry': US Commerce Secretary on trade deal
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZXhGcWlaSk83eC0wNXZYUnJDUHlkY3V4SXhXY20zQVZuQ2FkMlcyZHQ0TGR3UUFHdW9TcWg0Z2dCRjdCS0Vmd0xvdGR0UWlEMFZySHl6aE1odmp2Vi1yejBZM3pBYUdLNkhmY0dLOVdlT2U1TWdqdk9WY1BJQS1uWmphVFBWZzhPX1htdHNxeHZDd2tBeVNlcDYzX0hEZVl6NjMxNnVjZ1E3OVQ3Wk5aZkJlTndPUVlmQV9RVEdBdkk3d2FoVmZ1QTl5aWhnamtEMTh1N3p5MWV3eVNSNGQwODRlb2VweHRsR2FsRzFlLXR6QdIB9wFBVV95cUxQSGFyY0RuT2xVVEVUSUR3ckU1cWsxcHNRd1k4b3FkOWVaUi1MYlhBbjV6QzIxbGgwd2RrYXRWOVdPVndTc0tBcUFpMDVEX3EzRVNKdG9iVG4zVTdqUkhMa0NzRm53V0xsU09rTVdvZU9WZ184MF9Ed0dyMEVRWEl5c3ktY0JIREdDYkFyUjU3VGVEOENMVGh6VGVBYVFHdExiRW56dDRpSGpYcUYyTVVuVXJpVUwzbGtqdzM5eENfVGNFSG51Y1JkTXlxUlJUUTdOTVBtMjByMmgzUGRIdXFGc1BQdmRzeEJCNmZJeEtLek4wek00SmU0?oc=5
 
-- As India chases fugitives, UK team assesses Tihar facilities - Hindustan Times
-  Hindustan Times: UK team assess
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGR4Q2VmVDZHOUtkRXVVR09aZ2I0bzI2U2RzRTYxTjRDQVdjZENNNFRjclYtTmNOUzdjOHNPNXYyOGw3Q3BfMDJxZVhmblJsRWtGN0NQNjJDRTlmakdjYmR3cU4tcmd5YTlYSjZZQWUzR2doTktabHdMc3RMZFVscGFYQXk4Nl95QjFEWEltQXQtcFcxSWNoM2ZYbFd1c1hQZGNfc3VHSWVMaGpiWGo1R2lyRi11NklZc0lnam0yRQ?oc=5
+- Will always be friends: Trump backtracks from 'lost India to China' remark - India Today
+  " target="_blank" id=5
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdDIzME9jSFpUeWlXbWxEaEFnVG1XVG1jVDFIeDBmRVhXa1MySUx4R2xVME1IVTRISV9XcmJGNXJRQ1hqek1FYWdHQ3p0eUVnSXY2LWg4LUhaOHVVSFhmdFRGSjBiX0RNMGNwUXMzelF2d1ZIYUhocU1MZElfLVBTLWVvcWQ3UVQwMzhXTElBUDhaZmhReFdhbjN4OHZxdkhpRkZsSFpvV25ZUkt5S3pyVDBxRFF4dnRIOWNBQ0IxM3dSS2QtaHhzV3p4ZXE1WDV6aG0tME5JdXJpWTBUY082UtIB5gFBVV95cUxQVVR5NVB2YWFtMnBpY1NHUFFfakljemtYaUJQb3NOdEp1SmdSbVZCQ0NfTHJDMTNieDFKajUwcFNBU2VYcHhRODhVQk83MEJDc0dORm1IdUJqQm9Zc3BWREp2cUtPdERLZmhHblpOMWNnMm5ZeTIzTExMODVNMkdGNTUyV250QkV4MXQwSnpwYnBtc2VqTmlnV2g1a001bTQ2QWJITHk2dVBkc2VTakVTT1FBZ056emZYRFE1VXV0U0t1X1o5Z0dISVBnTmE3TzllYVBlOGh1Z3NBTWd4bjI1MFJHTk04dw?oc=5
 
-- Donald Trump says ‘We have lost India and Russia to deepest, darkest China’ - The Hindu
-  Donald Trump says ‘We have lost India and Russia to
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY05hazJNTHd4RHB4czdQRkdUUW1UOWJEaVpGek5BSkUyT1lHQ2RDSGRQUkFTSXVoUXdPOWNseUpCYTFtSmVyQUNIVFotOUhXQWppVEtTVEFKbXlUSjItbnJGWXZGUUs1RGFFai1aX2dIb0xGLUQxRnQwQnV4dlhieE1zUWhTSDlsNWdCSkZpODljc1B1azlSNUtmNEt1dG1jRUg1T1NxOHVXdE4tWHZnTU52X19SdHZudEZHM3VVdWtmYXZxQ1800gHOAUFVX3lxTFB6VDVxVTZhNUlBaElfc01PWnYwTndFSUoyZUtCckNUN1NlNERDZ1p0V3YxdUNFRXdrRTNnQm5lVmpqWTY1Y1B3ZDUtSXkxUlFXWkRfeUJ1d1RJeFY0WWUwOTRrRWp4cmZWNU9WVXhIUzFnbXVKckxWSXltSmgwUTloV1BDQUtraDNuMXZId1dxQkJjT0k5RVhYRUN0akpNT0dIdlc2Z05VZjdVQUF0VE9kY0VPWDhYQkRuMkF1N0hxbEV5elhzejItWW1RTmdn?oc=5
+- Trump Asked If He Is Ready To Reset Relations With India. His Response - NDTV
+  Trump Asked If He Is Ready To Reset Relations With India
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQng4NFBRRE1XYlVYQ0ZqNTlvYkYzazdGX051dWJseDU2NDFxMmprR2tCMFhYTmRGYkdTOVVSRnpRVzN4ZXZGb0VRcEVhNmpKQmxFV0RVWFhncUhIQlhnUUNOcDdSbERxME04b05hREF0d0VqY3QzYVlnYmYxSlNncTE3dW1oMWZkYTA1VmN3T1B0SzJZaHFZcWlDOW5WOTNCalhPNFRVOGFRUHJxY2pr0gG3AUFVX3lxTFB4YW42Q2IxWEo3MHZpMVRya0V1ZE00ZmliUWhiYlJQSThqMUkzcmFod01rRDVvaFcyZW5uNWxYRnREN3NzbGlfNkVSUlhsZGdZdVYyNWtQTWxFaEpsMVhibzlGanNMU0ljX3psREl3NVI1RnpkT3NRVkhyNnFCcWR0Sm5uaW5yRzRzUkF4azd5dFQ5Znl6cVpJd0NqQWRlVHFWYjRpTTE3d3hoU19wSUpXWjFSMlpPbw?oc=5
 
-- "India Will Say Sorry In 2 Months": Top US Official's Big Claim On Tariffs - NDTV
-  "India Will Say Sorry In 2 months": Top US Official
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1N3cVFmM2k5WmlQTFVEeHBPb3lQUHBob1AySDZENUdUOXdQYlRBSnpacVFsbzVuZFg1amxmWldEZDdraEtQLTVkSEFNdmxTSUcxYmFRXzYwMGF1Z0xOWG1IYTY2X3ZHZWx6NVZibDFHNDU2UTdGWmw4MW9EWUtFRkM3OGF5eXg2WXRZVGpXTUl2TEJHdFdIdGtCbUg0WkJYbEc4dF8wM1pXakhsRVE5MU1UMVZfcTZ3RHR5ODI3MWtsR3dXOHBSLVp4Y9IB0wFBVV95cUxOX25iTHgxSy1PaVNXZnZiWUduanc1LS1UY2FJeklVeFpqU2dOd1RCREhnd3ZSdE1WdDM5R05iQkZBaERhc0ZDNnExVVRtVEJLWVU0WlV2WXRKSE5yUWtVRjlmR2ZTY2NRUGJVRzFYOHhDTTBpNzVTOG9zTTRhNGRzMFhPSFNLbEdCWVUyXzFxVVFQelVmM3hDUDlFS0xaSmpkcTExNG9VeUpfTWR4QklNMmE5MEhBUWtxQ2pHVUJMUVludnJ4bC1BV3YxQVJtcDhod2hn?oc=5
+- Trump says he’ll ‘always be friends’ with Modi; ‘nothing to worry’ about India-U.S. ties - The Hindu
+  Trump says he’ll ‘always be friends’
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTN3OUdhNi1tTnYweHlMUG9fbWNVRkJNcldLVVBrbE1KcGVhT2k1NFlLMUhBX2U3M1JzMTR3OW54VS1oVENEejdsYUlkRk5SbnA3ME5ZUVJOUHpFR2xMUnhnT2hBN2hKTUYyZV9HN0t5VjBib2FwbV9lNHVHaFhYNEJvbGxWTTFkYXlaa1pYcF9QN1hhcURVUUJOOXI2b19jM1FSblIzQk5kSnVIbFNUdEc5dlBxUXlTcEpvbXBlUF94X1BfYUYtVnNCV3c3dTNBWUt1ek5uS0tXMzFq0gHjAUFVX3lxTFB1WnlUTnZVWGc0UEFXVGZESm9yQ1Y1V2I4MjduTzFFbF81ckFFZDFlbk81SVlzMEI3aml5Mm1jTDRRYmo1MXFOYzBYN3gwcW1QRHBQMWtvQ1RoV1lwU2dhT2stcHZnbTY2RHBhUEwxVFdBOXQxXzBVaGZHRllsWmFoSkFYY0VXMlFoUnhnaWxKb1A0Um9DYkF2alhwWXB0U2tzMC10ZFBzUzlqQ2VHWjFsbGNiMkJTNS1GaS1ZdWlqQ1JfYndBcFhhbGxMV28wN2NWNTU1Vk55Zi1KQVBlcDBMeGNj?oc=5
 
 - 'India will say sorry and make a deal': US commerce secretary Howard Lutnick - The Times of India
   'India will say sorry and make a deal': US commerce secretary Howard
   🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTGN5OE9LN21MRk5yQ2hHalRzdnM4MDdSQ0l5UjRHREdaSnBWUzZwSi0wUUNPVmc3cHVUa25wSjFYUnRUOWR1Qk1FQmRQSWU5YV9NenN2bDFIdHpJNWhsbzNJNXlrZGo3U1NsZ3lOREtHMGxIdmwyQWpnSzA5a2hQd01BNThxV1c3N25Ud1I4MHhkRldCSnZIbkdoNi1NMGlwSFJpUE9kdE9CMjBUMVlWMG1wMzVQbl96WHMzcTBzVGhuVm5yQ2FidzY3dnhWWDF4U0pTaXRhN0RKSExlM0NhNHJfenlnQUpncWZqcnIyZnPSAfYBQVVfeXFMUHg3MTZKa0pZVmFCR0ZSUTMwclo0MjJUcnVWT1NkQWlyX2hhMzFjR0x1TkNsRkd4c3pPYWVXR1k5TDd4Rk1QWkJqWW56eG9DV2dzNmJwY1hxX1ViMElCMlJ6dVAwdW9obmpodHY4Nmw4MTRDUEJyUVdiSWdqLVNMZVhyd2hGdVh2YWl1aXlhdktTTXY1a2RnMElfcTNmZmFVUkpxeUMySEdMY0FOZU9YaV9LZWVLWU93T0cyMFVEUTJhWkhFMW9JX1dlMmd2R3FEbWdhWFBRS1hHcHRaX0Iyc3NxZ3BTRk5CVnJicjdHOTg1eld3YVFR?oc=5
 
-- CJI: Top court proactively responded to complex 21st century challenges - The Indian Express
-  The Indian Express is an award-winning Indian
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNLVhQSlBLeW5YempKQUcydDFpRmpYT19DV1hUdjNxbXBNMHVfaFBmTFE2RExQVWpCcFBGTGpraVhNM2xVQ2wtX0pVN2dUY0NrdU52cmNRVWJWOGRIYjJQRTJIZHI5eXZpemJGSkpjY0NaT2MzVVUxZmNXREJYbUM0cHYtdUpoT3E1RDFiSnBoYlluU2o1RUpnMEdJOGl3SnVYdy16LXktUnBlQWJGV1pfbTJzdklNdUU1QkpxatIBwwFBVV95cUxQV19WbDIzNUt4elZOTDRjQ2RnMHgtcHdhUVBvUjJmYmIwUzJUMTJNXzduWEhqS1U5T0gzSDdfV0QxTWJXeEx4dW5rYkpZYU5DdjFlTmJxZC1QZ3hhS3g0b1A2WHpHQWUxeHZZdGxkdTQ3Q2kzTVpSWVBmaU14SU5ydmJtYzBjSV9zd0pfOVZqTVJhUEpKTl9ybW9haEQyNzlRNmlPM3VMc3pkelUtcERIZVRxSGc5UVhjMnlRWmhObnhDb3c?oc=5
+- India going to be at the table in a month or two 'saying sorry': US Commerce Secretary on trade deal | Latest News India - Hindustan Times
+  India going to be at the table in a month or two 'saying sorry': US Commerce Secretary on trade deal
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZXhGcWlaSk83eC0wNXZYUnJDUHlkY3V4SXhXY20zQVZuQ2FkMlcyZHQ0TGR3UUFHdW9TcWg0Z2dCRjdCS0Vmd0xvdGR0UWlEMFZySHl6aE1odmp2Vi1yejBZM3pBYUdLNkhmY0dLOVdlT2U1TWdqdk9WY1BJQS1uWmphVFBWZzhPX1htdHNxeHZDd2tBeVNlcDYzX0hEZVl6NjMxNnVjZ1E3OVQ3Wk5aZkJlTndPUVlmQV9RVEdBdkk3d2FoVmZ1QTl5aWhnamtEMTh1N3p5MWV3eVNSNGQwODRlb2VweHRsR2FsRzFlLXR6QdIB9wFBVV95cUxQSGFyY0RuT2xVVEVUSUR3ckU1cWsxcHNRd1k4b3FkOWVaUi1MYlhBbjV6QzIxbGgwd2RrYXRWOVdPVndTc0tBcUFpMDVEX3EzRVNKdG9iVG4zVTdqUkhMa0NzRm53V0xsU09rTVdvZU9WZ184MF9Ed0dyMEVRWEl5c3ktY0JIREdDYkFyUjU3VGVEOENMVGh6VGVBYVFHdExiRW56dDRpSGpYcUYyTVVuVXJpVUwzbGtqdzM5eENfVGNFSG51Y1JkTXlxUlJUUTdOTVBtMjByMmgzUGRIdXFGc1BQdmRzeEJCNmZJeEtLek4wek00SmU0?oc=5
 
-- As India chases fugitives, UK team assesses Tihar facilities - Hindustan Times
-  Hindustan Times: UK team assess
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGR4Q2VmVDZHOUtkRXVVR09aZ2I0bzI2U2RzRTYxTjRDQVdjZENNNFRjclYtTmNOUzdjOHNPNXYyOGw3Q3BfMDJxZVhmblJsRWtGN0NQNjJDRTlmakdjYmR3cU4tcmd5YTlYSjZZQWUzR2doTktabHdMc3RMZFVscGFYQXk4Nl95QjFEWEltQXQtcFcxSWNoM2ZYbFd1c1hQZGNfc3VHSWVMaGpiWGo1R2lyRi11NklZc0lnam0yRQ?oc=5
+- Will always be friends: Trump backtracks from 'lost India to China' remark - India Today
+  " target="_blank" id=5
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdDIzME9jSFpUeWlXbWxEaEFnVG1XVG1jVDFIeDBmRVhXa1MySUx4R2xVME1IVTRISV9XcmJGNXJRQ1hqek1FYWdHQ3p0eUVnSXY2LWg4LUhaOHVVSFhmdFRGSjBiX0RNMGNwUXMzelF2d1ZIYUhocU1MZElfLVBTLWVvcWQ3UVQwMzhXTElBUDhaZmhReFdhbjN4OHZxdkhpRkZsSFpvV25ZUkt5S3pyVDBxRFF4dnRIOWNBQ0IxM3dSS2QtaHhzV3p4ZXE1WDV6aG0tME5JdXJpWTBUY082UtIB5gFBVV95cUxQVVR5NVB2YWFtMnBpY1NHUFFfakljemtYaUJQb3NOdEp1SmdSbVZCQ0NfTHJDMTNieDFKajUwcFNBU2VYcHhRODhVQk83MEJDc0dORm1IdUJqQm9Zc3BWREp2cUtPdERLZmhHblpOMWNnMm5ZeTIzTExMODVNMkdGNTUyV250QkV4MXQwSnpwYnBtc2VqTmlnV2g1a001bTQ2QWJITHk2dVBkc2VTakVTT1FBZ056emZYRFE1VXV0U0t1X1o5Z0dISVBnTmE3TzllYVBlOGh1Z3NBTWd4bjI1MFJHTk04dw?oc=5
 
-- Donald Trump says ‘We have lost India and Russia to deepest, darkest China’ - The Hindu
-  Donald Trump says ‘We have lost India and Russia to
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY05hazJNTHd4RHB4czdQRkdUUW1UOWJEaVpGek5BSkUyT1lHQ2RDSGRQUkFTSXVoUXdPOWNseUpCYTFtSmVyQUNIVFotOUhXQWppVEtTVEFKbXlUSjItbnJGWXZGUUs1RGFFai1aX2dIb0xGLUQxRnQwQnV4dlhieE1zUWhTSDlsNWdCSkZpODljc1B1azlSNUtmNEt1dG1jRUg1T1NxOHVXdE4tWHZnTU52X19SdHZudEZHM3VVdWtmYXZxQ1800gHOAUFVX3lxTFB6VDVxVTZhNUlBaElfc01PWnYwTndFSUoyZUtCckNUN1NlNERDZ1p0V3YxdUNFRXdrRTNnQm5lVmpqWTY1Y1B3ZDUtSXkxUlFXWkRfeUJ1d1RJeFY0WWUwOTRrRWp4cmZWNU9WVXhIUzFnbXVKckxWSXltSmgwUTloV1BDQUtraDNuMXZId1dxQkJjT0k5RVhYRUN0akpNT0dIdlc2Z05VZjdVQUF0VE9kY0VPWDhYQkRuMkF1N0hxbEV5elhzejItWW1RTmdn?oc=5
+- Trump Asked If He Is Ready To Reset Relations With India. His Response - NDTV
+  Trump Asked If He Is Ready To Reset Relations With India
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQng4NFBRRE1XYlVYQ0ZqNTlvYkYzazdGX051dWJseDU2NDFxMmprR2tCMFhYTmRGYkdTOVVSRnpRVzN4ZXZGb0VRcEVhNmpKQmxFV0RVWFhncUhIQlhnUUNOcDdSbERxME04b05hREF0d0VqY3QzYVlnYmYxSlNncTE3dW1oMWZkYTA1VmN3T1B0SzJZaHFZcWlDOW5WOTNCalhPNFRVOGFRUHJxY2pr0gG3AUFVX3lxTFB4YW42Q2IxWEo3MHZpMVRya0V1ZE00ZmliUWhiYlJQSThqMUkzcmFod01rRDVvaFcyZW5uNWxYRnREN3NzbGlfNkVSUlhsZGdZdVYyNWtQTWxFaEpsMVhibzlGanNMU0ljX3psREl3NVI1RnpkT3NRVkhyNnFCcWR0Sm5uaW5yRzRzUkF4azd5dFQ5Znl6cVpJd0NqQWRlVHFWYjRpTTE3d3hoU19wSUpXWjFSMlpPbw?oc=5
+
+- Trump says he’ll ‘always be friends’ with Modi; ‘nothing to worry’ about India-U.S. ties - The Hindu
+  Trump says he’ll ‘always be friends’
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTN3OUdhNi1tTnYweHlMUG9fbWNVRkJNcldLVVBrbE1KcGVhT2k1NFlLMUhBX2U3M1JzMTR3OW54VS1oVENEejdsYUlkRk5SbnA3ME5ZUVJOUHpFR2xMUnhnT2hBN2hKTUYyZV9HN0t5VjBib2FwbV9lNHVHaFhYNEJvbGxWTTFkYXlaa1pYcF9QN1hhcURVUUJOOXI2b19jM1FSblIzQk5kSnVIbFNUdEc5dlBxUXlTcEpvbXBlUF94X1BfYUYtVnNCV3c3dTNBWUt1ek5uS0tXMzFq0gHjAUFVX3lxTFB1WnlUTnZVWGc0UEFXVGZESm9yQ1Y1V2I4MjduTzFFbF81ckFFZDFlbk81SVlzMEI3aml5Mm1jTDRRYmo1MXFOYzBYN3gwcW1QRHBQMWtvQ1RoV1lwU2dhT2stcHZnbTY2RHBhUEwxVFdBOXQxXzBVaGZHRllsWmFoSkFYY0VXMlFoUnhnaWxKb1A0Um9DYkF2alhwWXB0U2tzMC10ZFBzUzlqQ2VHWjFsbGNiMkJTNS1GaS1ZdWlqQ1JfYndBcFhhbGxMV28wN2NWNTU1Vk55Zi1KQVBlcDBMeGNj?oc=5
+
+- 'India will say sorry and make a deal': US commerce secretary Howard Lutnick - The Times of India
+  'India will say sorry and make a deal': US commerce secretary Howard
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTGN5OE9LN21MRk5yQ2hHalRzdnM4MDdSQ0l5UjRHREdaSnBWUzZwSi0wUUNPVmc3cHVUa25wSjFYUnRUOWR1Qk1FQmRQSWU5YV9NenN2bDFIdHpJNWhsbzNJNXlrZGo3U1NsZ3lOREtHMGxIdmwyQWpnSzA5a2hQd01BNThxV1c3N25Ud1I4MHhkRldCSnZIbkdoNi1NMGlwSFJpUE9kdE9CMjBUMVlWMG1wMzVQbl96WHMzcTBzVGhuVm5yQ2FidzY3dnhWWDF4U0pTaXRhN0RKSExlM0NhNHJfenlnQUpncWZqcnIyZnPSAfYBQVVfeXFMUHg3MTZKa0pZVmFCR0ZSUTMwclo0MjJUcnVWT1NkQWlyX2hhMzFjR0x1TkNsRkd4c3pPYWVXR1k5TDd4Rk1QWkJqWW56eG9DV2dzNmJwY1hxX1ViMElCMlJ6dVAwdW9obmpodHY4Nmw4MTRDUEJyUVdiSWdqLVNMZVhyd2hGdVh2YWl1aXlhdktTTXY1a2RnMElfcTNmZmFVUkpxeUMySEdMY0FOZU9YaV9LZWVLWU93T0cyMFVEUTJhWkhFMW9JX1dlMmd2R3FEbWdhWFBRS1hHcHRaX0Iyc3NxZ3BTRk5CVnJicjdHOTg1eld3YVFR?oc=5
+
+- India going to be at the table in a month or two 'saying sorry': US Commerce Secretary on trade deal | Latest News India - Hindustan Times
+  India going to be at the table in a month or two 'saying sorry': US Commerce Secretary on trade deal
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZXhGcWlaSk83eC0wNXZYUnJDUHlkY3V4SXhXY20zQVZuQ2FkMlcyZHQ0TGR3UUFHdW9TcWg0Z2dCRjdCS0Vmd0xvdGR0UWlEMFZySHl6aE1odmp2Vi1yejBZM3pBYUdLNkhmY0dLOVdlT2U1TWdqdk9WY1BJQS1uWmphVFBWZzhPX1htdHNxeHZDd2tBeVNlcDYzX0hEZVl6NjMxNnVjZ1E3OVQ3Wk5aZkJlTndPUVlmQV9RVEdBdkk3d2FoVmZ1QTl5aWhnamtEMTh1N3p5MWV3eVNSNGQwODRlb2VweHRsR2FsRzFlLXR6QdIB9wFBVV95cUxQSGFyY0RuT2xVVEVUSUR3ckU1cWsxcHNRd1k4b3FkOWVaUi1MYlhBbjV6QzIxbGgwd2RrYXRWOVdPVndTc0tBcUFpMDVEX3EzRVNKdG9iVG4zVTdqUkhMa0NzRm53V0xsU09rTVdvZU9WZ184MF9Ed0dyMEVRWEl5c3ktY0JIREdDYkFyUjU3VGVEOENMVGh6VGVBYVFHdExiRW56dDRpSGpYcUYyTVVuVXJpVUwzbGtqdzM5eENfVGNFSG51Y1JkTXlxUlJUUTdOTVBtMjByMmgzUGRIdXFGc1BQdmRzeEJCNmZJeEtLek4wek00SmU0?oc=5
+
+- Will always be friends: Trump backtracks from 'lost India to China' remark - India Today
+  " target="_blank" id=5
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdDIzME9jSFpUeWlXbWxEaEFnVG1XVG1jVDFIeDBmRVhXa1MySUx4R2xVME1IVTRISV9XcmJGNXJRQ1hqek1FYWdHQ3p0eUVnSXY2LWg4LUhaOHVVSFhmdFRGSjBiX0RNMGNwUXMzelF2d1ZIYUhocU1MZElfLVBTLWVvcWQ3UVQwMzhXTElBUDhaZmhReFdhbjN4OHZxdkhpRkZsSFpvV25ZUkt5S3pyVDBxRFF4dnRIOWNBQ0IxM3dSS2QtaHhzV3p4ZXE1WDV6aG0tME5JdXJpWTBUY082UtIB5gFBVV95cUxQVVR5NVB2YWFtMnBpY1NHUFFfakljemtYaUJQb3NOdEp1SmdSbVZCQ0NfTHJDMTNieDFKajUwcFNBU2VYcHhRODhVQk83MEJDc0dORm1IdUJqQm9Zc3BWREp2cUtPdERLZmhHblpOMWNnMm5ZeTIzTExMODVNMkdGNTUyV250QkV4MXQwSnpwYnBtc2VqTmlnV2g1a001bTQ2QWJITHk2dVBkc2VTakVTT1FBZ056emZYRFE1VXV0U0t1X1o5Z0dISVBnTmE3TzllYVBlOGh1Z3NBTWd4bjI1MFJHTk04dw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-06 01:08:22 UTC_
+_Last updated: 2025-09-06 06:24:07 UTC_
