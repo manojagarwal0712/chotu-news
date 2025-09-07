@@ -1,5 +1,13 @@
 # 📰 Daily News Summaries
 
+- Why the outstretched hand to DC, why all fingers are crossed in Delhi
+  
+  🔗 https://indianexpress.com/article/india/why-the-outstretched-hand-to-dc-why-all-fingers-are-crossed-in-delhi-10234680/
+
+- Near Corbett, another tiger success story plays out: 29 more big cats since 2022
+  
+  🔗 https://indianexpress.com/article/india/near-corbett-another-tiger-success-story-plays-out-29-more-big-cats-since-2022-10234623/
+
 - Tripura trying to ramp up solar-energy production to meet future power demands: Power Minister Ratan Lal Nath
   
   🔗 https://indianexpress.com/article/india/tripura-solar-energy-production-future-power-demands-ratan-lal-nath-10234425/
@@ -11,14 +19,6 @@
 - GST rejig in sync with PM Modi’s ‘perform, reform & transform’ vision: Vaishnaw
   
   🔗 https://indianexpress.com/article/india/gst-rejig-in-sync-with-pm-modis-perform-reform-transform-vision-vaishnaw-10234384/
-
-- Jammu Floods 2025: Railways to run Katra–Sangaldan special trains for stranded passengers – check timetable, stoppages
-  
-  🔗 https://indianexpress.com/article/india/jammu-floods-2025-railways-to-run-katra-sangaldan-special-trains-10234323/
-
-- Valley simmers day after plaque with Ashoka emblem vandalised at Hazratbal shrine
-  
-  🔗 https://indianexpress.com/article/india/valley-simmers-plaque-ashoka-emblem-vandalised-hazratbal-shrine-10234312/
 
 - Apple iPhone 17 series: What to expect at the September 9 ‘Awe Dropping’ event
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/google-pixel-10-pro-xl-review-10233451/
 
+- Air Canada’s Cabin Crew Members Vote to Reject Pay Package
+  Almost all of Air Canada's more than 10,000 flight attendants voted to reject the company's contract offer. The vote
+  🔗 https://www.livemint.com/companies/news/air-canada-s-cabin-crew-members-vote-to-reject-pay-package-11757190683391.html
+
 - Adani Power, Druk Green sign deal for 570 MW Wangchhu hydro project in Bhutan worth  ₹6,000 crore — Here's all we know
   Adani Power and Druk Green Power will develop the Wangchhu hydroelectric project in Bhutan under a BOOT model. Construction is set
   🔗 https://www.livemint.com/companies/news/adani-power-druk-green-deal-bhutan-570-mw-wangchhu-hydro-project-rs-6-000-crore-boot-model-construction-2026-see-details-11757177031606.html
@@ -56,9 +60,9 @@
   OpenAI still
   🔗 https://www.livemint.com/companies/news/openai-steps-on-microsoft-s-toes-again-it-s-about-linkedin-and-ai-chips-this-time-11757156811986.html
 
-- Bernstein cautions Indian digital creators on possible re-entry of Chinese firms
-  Chinese tech giants could gain renewed access to Indian consumers. Signs of an improvement in India-China relations have been
-  🔗 https://www.livemint.com/companies/news/bernstein-cautions-indian-digital-creators-on-possible-re-entry-of-chinese-firms-11757155164880.html
+- Stock to buy: Anand Rathi predicts ArisInfra Solutions' shares to rise 15% in one month. Here's why
+  Brokerage firm Anand Rathi predicts a 15% upside in the shares of ArisInfra Solutions. The construction materials provider's shares closed
+  🔗 https://www.livemint.com/market/stock-market-news/stock-to-buy-anand-rathi-predicts-arisinfra-solutions-shares-to-rise-15-in-one-month-heres-why-11757179933613.html
 
 - Dividend stocks: Mazagon Dock Shipbuilders, GRSE to Bharat Dynamics — 5 defence stocks to trade ex-dividend this month
   Apollo Micro Systems, Cochin Shipyard, Garden Reach Shipbuilders, Mazagon Dock Shipbuilders
@@ -75,10 +79,6 @@
 - Penny stock to be in focus on Monday after hitting upper circuit for 25 days in a row
   Sellwin Traders shares will be in focus of the market investors on Monday, 8 September 2025. The stock hit its upper circuit for 25 sessions in a row. Shares of the company has gained
   🔗 https://www.livemint.com/market/stock-market-news/penny-stock-to-be-in-focus-on-monday-after-hitting-upper-circuit-for-25-days-in-a-row-sellwin-traders-shares-11757155141293.html
-
-- Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
-  Mehul Kothari of Anand Rathi recommends three shares to buy or sell.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11757153007481.html
 
 - ChatGPT users can now branch conversations without losing original threads: How the new feature works
   OpenAI has introduced a new feature in ChatGPT that allows users to branch conversations and explore multiple directions. This update, now available to web users
@@ -99,6 +99,26 @@
 - Sam Altman's OpenAI restructures its ‘Model Behaviour’ team to rework how ChatGPT interacts with users: Report
   OpenAI is restructuring its Model Behaviour team into the Post Training division to enhance AI user interactions. The team will report to Max Schwarzer and focus on AI personality development.
   🔗 https://www.livemint.com/technology/tech-news/openai-restructures-its-model-behaviour-team-to-rework-how-chatgpt-interacts-with-users-report-11757137308834.html
+
+- Markets News, Sep. 5, 2025: Stocks Slip After Hitting New Highs Following Jobs Report; Treasury Yields Hit 5-Month Low Amid Rate-Cut Hopes - Investopedia
+  <ol><li><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFA5RmxISVJvOV8wSFdZMEdYSFFpMVRqU2FmTjRsdkhFQXJWX0FLYW5wSkN6dUVEZElieVhZUC13TTRtWks3Sm9wdk8tZ0cwSEtKRFhqQjYxS21vV0pQSHNmdlN1WjNvdzQ4em
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFA5RmxISVJvOV8wSFdZMEdYSFFpMVRqU2FmTjRsdkhFQXJWX0FLYW5wSkN6dUVEZElieVhZUC13TTRtWks3Sm9wdk8tZ0cwSEtKRFhqQjYxS21vV0pQSHNmdlN1WjNvdzQ4empqZUVFbw?oc=5
+
+- Stock market news: BSE, NSE to conduct mock trading session on Saturday. Time, other details - Mint
+  Stock market news: BSE, NSE to conduct mock trading
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMmRvUFhzUUhQdnpYX3pTQjlObnR0aDZGRG9YNy1nelV5bWhoaWdIamRMS0V4T1pabjVCS294cExwa1RjcWZSTTBmU1lYUlJCdUVOQ0xIWHZ5d2lUWEZrUi1rNlBFYzB4RVdvUnRYLXZJLVB5VTRyQVZTb3BCcTVVNnpwMXplR1F4aXZTaU9wb1pQdllnVHY5QktwRm9JMlVJR09TRU9Lckg3U3lUX25JdlJCcGloZnNuY0Nna2tWQnFjRVV0MklESFphd1ZvaWNaM2I2YlBReHd3MHdfcXJ6UlpkN2hQaEdBTW5pQzBCc9IB9AFBVV95cUxONEJyQjRMMGNCaVZCVmprM0ZBWm9wajJXR01vcVZNNHExd00zOTdQVi1seGU4RkpoelNVdXQ4TndEdGhkR1BkUzdxZ05YM25pSlJVVXk2aDlBUUdBMzNNeDV4TFpva2plbnpvZGxXN0VOQnVXNlFUaWltNHdieEl0bXAyemxLTGtpZW8zSElyanpXdlJSbXVJaFNtNHY2a0ZieGVHWWJ0dTNFTll1cm1CaGxPaWhzek01aUtCYi1YMlRQQm1qcHFBNkZkM2xVdjdmV3FsMW00U1gxLUZrMVdvNXNET04teXJ2SjcyUjBfdWMtZ1Q0?oc=5
+
+- Daily Voice: No US trade deal, no rally? Why Indian markets are watching Washington, says Vipul Bhowar - Moneycontrol
+  The Indian markets are watching Washington, says Vipul Bhowar.
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbUZVZnBOXzhaa1RCRnR2VVZfSnk3TFlQUmVMXzFxS0xURklaSXJRcjZLWmJTeFo4VER3Q0p0MmNWZ1RvRW4tNmg4MHhCS1VaUlR3OVExazVyQzVjTmFieTl2NzJkU3dSZUR0NVo1cW51UjJNc3M4Y19MX2lTZ1lMWVVLdjg2NFBkT0pwSjd0OUJCdWg2cl9nMS1fSmpUSkZuTjZfbnRONTE2emxMLUI3UmNtOXFXOUZJQ2h2Z0VISUctcFU0NEpPSU5FSlg0c1M2NmZHRzdVLUM5UmlTdElNQmhDTV9KWmZOQ2hkUVRPTVRxV2JQZ3fSAfsBQVVfeXFMTmpReFYtajB1MUVGNkNsQnprT2hQUEMxbDJtckJ2S1JFdTBPR1JfckxkbDFJRUZ5Unc5WkRYWHNZT3RoLWpXSUZ0bjJXQWlFUVRJeENhMW5Nc1NfZ2VfellhUWdaS3NJZFdxdTdIU0xtclZjM0M0aElsVzRBeXRzcGJpelBUalNDbDZDbEI1WWxjZzl5YXh2RWhJaU1GVlo5RE5LaS1SeFQtM2JNQ0RVUWxQX21ma0J2NFpZTWZ2QXNueklPNmt6WE44Wjd3X1ZCdU1mc1VYOWtxdjkxbFlOVzBlWXFRMFRHdlNabmtCbFkxTEl4ZWZrMVpFU00?oc=5
+
+- Explained: Why stock markets are down despite GST 2.0 reforms - India Today
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaUNJNU1UQTRhbkpGQjJta2xqUzB6b0swMENJcjRIM253OUUzQkRzYi02eDFpcHh0T1RmbzdVWUhTbmVuUnpySXpaTmItS291UnRwcmhCWUVNZF9IcjJ2d0tMMmwtTHNjQ0
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaUNJNU1UQTRhbkpGQjJta2xqUzB6b0swMENJcjRIM253OUUzQkRzYi02eDFpcHh0T1RmbzdVWUhTbmVuUnpySXpaTmItS291UnRwcmhCWUVNZF9IcjJ2d0tMMmwtTHNjQ0tfRkp6RmhNS1h4UW54M0hHNHp3YWVwZ1FKOTdwMGxkMkY4b0dLOXVubklOWGJydmdSYlJMWGxjX085UGVEaHc5U3VxbVNLVDYwalYwa3JCZGY2QjhBVnZlMDlpbGQ1c0t0a0NxV3RrNUZzRlNFakhFX0kxd2l1bNIB5gFBVV95cUxPTGp5dlczMHFCc254SXJQNVJ5bDJYNjNwbWxCdWIyVkJtdUVxdVVDVk80QmRfLU9IdzRpckl4TWpKMm16S1EyVDZVYi1sV1U2cHA3T0NNVzFvRXozUTFFRF9UMWlFcU5mT1UzdDVlYXdBa2tSRkhRNnVvcldUSmlJam9FR3NxNDR4eEFneGhlWklhckJFN3I4TGVCUDhqM1A0NlBWQ2FUUm52SlBuYXRIaVp6bmU5TWVSMUY5U0tEbXBlZjNrNDJ2OTBYNzRDTkU3RXZLQ3JnazRaSG1SQmhNMDV4TmJCZw?oc=5
+
+- Markets on edge as Modi-Trump positive exchange lifts sentiment: Pankaj Tibrewal - CNBC TV18
+  " target="_blank">Markets on
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMl8yU19OVkpDQkNvUElsZkxSdDU1cnBwNWVmcjVDTThGMWtyZ0F6c2M2LWpzdWFBa1JnMjNNNElQQUFjNzJvRXM1aDRsdElCWUJxZGZIYzBYYmVDdks2Sk82ajlMcmN5UTBVWU5JZ3lGN2hqZFJZU1g2dDdqeS1aMXFsODVUZzA0QXMwejBTdHBmdnBTWnp4NlMzOFFCeXJGRXUtMVJFSEZGa3o3aU15T0g3amxGSTNBLXlWaGExZ0jSAcYBQVVfeXFMTkF5MnlXTi1LZlE4RVhFMWpsYnhMb2ljeVZheUlQMEI1QWZ1bmtxRGs5Z2toZlM3MVE1X05YUThlMnpOY29YRUE5QlJ4YkxERVVZa2MxTkxCOGpOM3JtUHF3REZlR1JuT2JocVFJMjBTT2V3UFlZeUVzSE9mZWVpdjFGQTUyNldVa1ppV3VCU1ZGNlR2Uzh0aFFfSVJYQ2RLc0VKWkVXMi1JSURNUU84bl85MVVtY3Zkc1BTbXgtVVJzY2Zub2lB?oc=5
 
 - F&amp;O Talk| Nifty stages pullback but lacks conviction; trend hinges on banking, IT revival: Sudeep Shah
   Indian equity benchmarks closed the week positively due to strong economic data and policy reforms. Nifty faces resistance at 24950-25000 and support at 24550-24500. Bank Nifty is underperforming, with resistance
@@ -124,61 +144,109 @@
   Trump Asked If He Is Ready To Reset Relations With India
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQng4NFBRRE1XYlVYQ0ZqNTlvYkYzazdGX051dWJseDU2NDFxMmprR2tCMFhYTmRGYkdTOVVSRnpRVzN4ZXZGb0VRcEVhNmpKQmxFV0RVWFhncUhIQlhnUUNOcDdSbERxME04b05hREF0d0VqY3QzYVlnYmYxSlNncTE3dW1oMWZkYTA1VmN3T1B0SzJZaHFZcWlDOW5WOTNCalhPNFRVOGFRUHJxY2pr0gG3AUFVX3lxTFB4YW42Q2IxWEo3MHZpMVRya0V1ZE00ZmliUWhiYlJQSThqMUkzcmFod01rRDVvaFcyZW5uNWxYRnREN3NzbGlfNkVSUlhsZGdZdVYyNWtQTWxFaEpsMVhibzlGanNMU0ljX3psREl3NVI1RnpkT3NRVkhyNnFCcWR0Sm5uaW5yRzRzUkF4azd5dFQ5Znl6cVpJd0NqQWRlVHFWYjRpTTE3d3hoU19wSUpXWjFSMlpPbw?oc=5
 
-- Trump says he’ll ‘always be friends’ with Modi; ‘nothing to worry’ about India-U.S. ties - The Hindu
-  Trump says he’ll ‘always be friends’
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTN3OUdhNi1tTnYweHlMUG9fbWNVRkJNcldLVVBrbE1KcGVhT2k1NFlLMUhBX2U3M1JzMTR3OW54VS1oVENEejdsYUlkRk5SbnA3ME5ZUVJOUHpFR2xMUnhnT2hBN2hKTUYyZV9HN0t5VjBib2FwbV9lNHVHaFhYNEJvbGxWTTFkYXlaa1pYcF9QN1hhcURVUUJOOXI2b19jM1FSblIzQk5kSnVIbFNUdEc5dlBxUXlTcEpvbXBlUF94X1BfYUYtVnNCV3c3dTNBWUt1ek5uS0tXMzFq0gHjAUFVX3lxTFB1WnlUTnZVWGc0UEFXVGZESm9yQ1Y1V2I4MjduTzFFbF81ckFFZDFlbk81SVlzMEI3aml5Mm1jTDRRYmo1MXFOYzBYN3gwcW1QRHBQMWtvQ1RoV1lwU2dhT2stcHZnbTY2RHBhUEwxVFdBOXQxXzBVaGZHRllsWmFoSkFYY0VXMlFoUnhnaWxKb1A0Um9DYkF2alhwWXB0U2tzMC10ZFBzUzlqQ2VHWjFsbGNiMkJTNS1GaS1ZdWlqQ1JfYndBcFhhbGxMV28wN2NWNTU1Vk55Zi1KQVBlcDBMeGNj?oc=5
+- Donald Trump says ‘We have lost India and Russia to deepest, darkest China’ - The Hindu
+  Donald Trump says ‘We have lost India and Russia to
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY05hazJNTHd4RHB4czdQRkdUUW1UOWJEaVpGek5BSkUyT1lHQ2RDSGRQUkFTSXVoUXdPOWNseUpCYTFtSmVyQUNIVFotOUhXQWppVEtTVEFKbXlUSjItbnJGWXZGUUs1RGFFai1aX2dIb0xGLUQxRnQwQnV4dlhieE1zUWhTSDlsNWdCSkZpODljc1B1azlSNUtmNEt1dG1jRUg1T1NxOHVXdE4tWHZnTU52X19SdHZudEZHM3VVdWtmYXZxQ1800gHOAUFVX3lxTFB6VDVxVTZhNUlBaElfc01PWnYwTndFSUoyZUtCckNUN1NlNERDZ1p0V3YxdUNFRXdrRTNnQm5lVmpqWTY1Y1B3ZDUtSXkxUlFXWkRfeUJ1d1RJeFY0WWUwOTRrRWp4cmZWNU9WVXhIUzFnbXVKckxWSXltSmgwUTloV1BDQUtraDNuMXZId1dxQkJjT0k5RVhYRUN0akpNT0dIdlc2Z05VZjdVQUF0VE9kY0VPWDhYQkRuMkF1N0hxbEV5elhzejItWW1RTmdn?oc=5
+
+- Pan-India SIR exercise will be spread over a month - Times of India
+  Pan-India SIR exercise will be spread
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkRvV2JCWDVUbVA1QjQyRXFteExFOTBfS05NdnNSNmNrXzN5OGxIQmhqR3d3Mm5WVWdQYWFsT212UXNSaVd3Nm1jUGlqdzdLbjFWRlBtUlFUdE1YZlZzZ3RKeUlXZjJYUVQ3V0RPVkpVc1RGWXZ5UXd5WkpVTUM4Mk1YZTlrZ255ZUJlTkU3QUxMYjY0THVWZmVILTNlaENnZnNrNlluSWRDRFEtdkpnT2hqLUd4c2lsUkHSAb8BQVVfeXFMTkFfSUs1UV9pbzJpRld5Vk5aS1Z2dFR1dWVSTkhMbFktZGMtenIwaEkwVHYyY3doYkc0VmtMU2l0cEFISFV1VzFPZ0tMVWhqMm5xbWxwUEdKMlpLa3NPQ3pIVExiRzNTVUhRYWxjY1RES1BQUHpxRHZSZ01xVkg0bXBqMVhMTDJXQVR0NC0tRDhMM1VSV0YzdWhjdHNtY016d0YwYzc2LWY1ZHotNXJWb2pqQ0gtbGZvaGVYRFdieU0?oc=5
+
+- Modi, Trump have always been good friends, says EAM - Times of India
+  Modi, Trump have always been good friends
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX0xKenp6b2ExWkM0VUsxM0czX25xczlFVWVONm1HUktNWFB0dC1YemdBeGlRclZWczZYczVtaTdidmVkM3hkcWxtTFF5N0lVV0p2bEVObVMxbDB1cVI4a1dGVG51VkhwUW1Kb1BVTm9EV1JMbFUzNEdUZi1Gam1YZTB3RFZNenVsRWtNZlVKbjA3bWJ4Tl8wRzZfbV9Ud2lnYm9BZHdUSDktY2F1WlVKRTBFNHpwa1NS0gG-AUFVX3lxTE5LaElpRUZ4a0dkbDVKSWJsRWgzX2Z3OEdtQ1hPcXJ6MEJYcTFjb2hoZy1zYjB3eC1EUG5zSGptcTRVcDc5U1djQy1DeDBqUGJlUzNXWk9GWGJ3LVpDWGVwckJZaTRsbzlaVUlpN2hLX0xnT3NIbHZqT1cyd2xVdzJtNzhWQ2Q4VnRfRmdnVVRzMmZ2V2NlNHN3bVBkRDcxeUhBQ1hPNHFZeFJOTGVqRWxlcU9VMG1iQlJ6RnNTd1E?oc=5
 
 - ‘India not a weak country that need crutches’: Ex-envoy Jawed Ashraf's strong message amid Trump's tariffs | Latest News India - Hindustan Times
   India not a weak country that need crutches, says ex-envoy Jawed Ash
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMlFhaGlsSnNpQTRyUUhyb2xiTHNtSTIwdjIzYzkydzVwRVlwZXFjWC1MSkVWQUlidzJRZzltVHdjZXIybVYtQlpWWDRJS0VrS1Z2X2RuQ3FxUG9RTjNmRl9kakI3VHV3OGpMeVlHT2p0N3QzYV9zckJ6YTJlbHM0X0h0NHE5YVZfaDJQRFprdElseXdTZUZkWWhTSmFpSzIxZk5JUnNmM050V0NMZzl2WkRfM3FUOXA4V09yOXZpc3dwTU1wcHVFT3VyRjBtSlZmNmR0djR2d2kydFM4YUQ4MjV5ODNBUXdNM003X0ZpUGMxYXhtalpOMWxuTnVIQdIBgwJBVV95cUxNaXpraVF5TkQwVDZCSzJrdnhjZ29fMUU2S2w5bGtYSzkxZlFZS25IeUNDQ2FLZGdkMlRadE16U01iM2Zkc0xlVWQzTzBWdnY4cF9CZjlVMmFaQVN6TFFndlAyaEl4TEx5ZFdveFBMQ3htUmxGaFhjUm1NZzZaenJTcW5zOEd6elV0NE5qY2tMdGI3UFN1bF84djUwVU13TllRQ25oQWFaMHhuMWg3NjlTeDY3eEdvUlVnZjA5Vkk2RGMxREF6b2xuc2hkWS1tMTMyaVNLcjJ0VnVaUzRCd3hvSmk2VUxNMFdXa3Z1NFUtc2ozX2REMXQtRjNQNC13bEFQVWxV?oc=5
-
-- ‘Challenge of US tariffs offers opportunity for reforms, deregulation’ - The Indian Express
-  ‘Challenge of US tariffs offers opportunity
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNUU5zOE0tWC10aUZDWkVJb1IySHk5b2tZVVU3WEFlc1V3NUF2ZzhRM2FXdnFhNmhWQTZ5WENkcFMxWG1xcVpaTjlwVDJyX0hqRXV6MGxLcUVPN0YycURaVDNncUt1MVVFeGJORTR3VElsVUdZeVdxb09mNTBVOG5QRU9SNVgtZUZUM0FSWWYwUUFkVFlLNnVvTGNWblN2ZkVDV1hqQTFxamN1NlZYemU4WGUtOFVrcHRZV1hLZ0QzOWJiRWE0N19N0gHOAUFVX3lxTE9Vd2h4TXFRaFZqYlEyUW50THQ1SjQzNjFiajJ2RHUwdFU4VXE2Ykx1cDRDekRadWE5eC1YY0t5THBQVDZTTDBBd3p6NXdRU0hDbjl0UGlPOGlheDRsaWpkdzhLZTZqODRtbWM3SmZjTDVDZDNvOXBQcTRLMElpOVl4V2ZlRm1OS0lJc2Y5eEJROXZ2SEl2bnJLUUJHa1lCX2wyazNZcWEyaWlUY2tnejdQS3VybHhJdmdJc1gzM25jWXZPa2dhcThwbl8tWk1B?oc=5
-
-- Omar Abdullah's Party Seeks J&K Waqf Chief's Sacking After Hazratbal Vandalism - NDTV
-  Omar Abdullah's Party Seeks J&
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOV1JhcGJoR2E3LWNSVGxGMW1CcmZVSF9HMDhfeE9FeURxaFpHZl9kSTY2ckE3R3c3THZ1cVA3MEpjejJhazF6Z0lJaGU5QXlHSjFGci1VZW1qd0gxME9OdWk0dUdpUTVuQkdFdHdad2pZdlRwcFo3WE9HenI1R1JvR200eUZzUkNRS25aM3kzMGhkNDJKeUpmUGZwN3FuQU5UV0s1UHRrZGc0aGZuU29DeTNscGtDUDjSAb8BQVVfeXFMTzhYeFFiQzZOZVBIRnBnYjNXVDFvX1dRUTkwNGQ0c29qMURySGE3dHpMVjY0Z2tJQlJUMXlpY1pET1RJaHlEMzFWa3pfQ0tBTXFsd212WEhacHFtTkVtOXJZS1k2OXIweGd3dDRFMUg5V1RRTWN6N08tSWs4SkdvZzVmNWg5bHpjbENEVDExYXFYaFZqaUJ1M0lHM21zeUphM1VLcDhmSDhsV1pTZ0JqSW01SHJSTWM1WG1IUXYwdlk?oc=5
 
 - Trump Asked If He Is Ready To Reset Relations With India. His Response - NDTV
   Trump Asked If He Is Ready To Reset Relations With India
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQng4NFBRRE1XYlVYQ0ZqNTlvYkYzazdGX051dWJseDU2NDFxMmprR2tCMFhYTmRGYkdTOVVSRnpRVzN4ZXZGb0VRcEVhNmpKQmxFV0RVWFhncUhIQlhnUUNOcDdSbERxME04b05hREF0d0VqY3QzYVlnYmYxSlNncTE3dW1oMWZkYTA1VmN3T1B0SzJZaHFZcWlDOW5WOTNCalhPNFRVOGFRUHJxY2pr0gG3AUFVX3lxTFB4YW42Q2IxWEo3MHZpMVRya0V1ZE00ZmliUWhiYlJQSThqMUkzcmFod01rRDVvaFcyZW5uNWxYRnREN3NzbGlfNkVSUlhsZGdZdVYyNWtQTWxFaEpsMVhibzlGanNMU0ljX3psREl3NVI1RnpkT3NRVkhyNnFCcWR0Sm5uaW5yRzRzUkF4azd5dFQ5Znl6cVpJd0NqQWRlVHFWYjRpTTE3d3hoU19wSUpXWjFSMlpPbw?oc=5
 
-- Trump says he’ll ‘always be friends’ with Modi; ‘nothing to worry’ about India-U.S. ties - The Hindu
-  Trump says he’ll ‘always be friends’
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTN3OUdhNi1tTnYweHlMUG9fbWNVRkJNcldLVVBrbE1KcGVhT2k1NFlLMUhBX2U3M1JzMTR3OW54VS1oVENEejdsYUlkRk5SbnA3ME5ZUVJOUHpFR2xMUnhnT2hBN2hKTUYyZV9HN0t5VjBib2FwbV9lNHVHaFhYNEJvbGxWTTFkYXlaa1pYcF9QN1hhcURVUUJOOXI2b19jM1FSblIzQk5kSnVIbFNUdEc5dlBxUXlTcEpvbXBlUF94X1BfYUYtVnNCV3c3dTNBWUt1ek5uS0tXMzFq0gHjAUFVX3lxTFB1WnlUTnZVWGc0UEFXVGZESm9yQ1Y1V2I4MjduTzFFbF81ckFFZDFlbk81SVlzMEI3aml5Mm1jTDRRYmo1MXFOYzBYN3gwcW1QRHBQMWtvQ1RoV1lwU2dhT2stcHZnbTY2RHBhUEwxVFdBOXQxXzBVaGZHRllsWmFoSkFYY0VXMlFoUnhnaWxKb1A0Um9DYkF2alhwWXB0U2tzMC10ZFBzUzlqQ2VHWjFsbGNiMkJTNS1GaS1ZdWlqQ1JfYndBcFhhbGxMV28wN2NWNTU1Vk55Zi1KQVBlcDBMeGNj?oc=5
+- Donald Trump says ‘We have lost India and Russia to deepest, darkest China’ - The Hindu
+  Donald Trump says ‘We have lost India and Russia to
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY05hazJNTHd4RHB4czdQRkdUUW1UOWJEaVpGek5BSkUyT1lHQ2RDSGRQUkFTSXVoUXdPOWNseUpCYTFtSmVyQUNIVFotOUhXQWppVEtTVEFKbXlUSjItbnJGWXZGUUs1RGFFai1aX2dIb0xGLUQxRnQwQnV4dlhieE1zUWhTSDlsNWdCSkZpODljc1B1azlSNUtmNEt1dG1jRUg1T1NxOHVXdE4tWHZnTU52X19SdHZudEZHM3VVdWtmYXZxQ1800gHOAUFVX3lxTFB6VDVxVTZhNUlBaElfc01PWnYwTndFSUoyZUtCckNUN1NlNERDZ1p0V3YxdUNFRXdrRTNnQm5lVmpqWTY1Y1B3ZDUtSXkxUlFXWkRfeUJ1d1RJeFY0WWUwOTRrRWp4cmZWNU9WVXhIUzFnbXVKckxWSXltSmgwUTloV1BDQUtraDNuMXZId1dxQkJjT0k5RVhYRUN0akpNT0dIdlc2Z05VZjdVQUF0VE9kY0VPWDhYQkRuMkF1N0hxbEV5elhzejItWW1RTmdn?oc=5
+
+- Pan-India SIR exercise will be spread over a month - Times of India
+  Pan-India SIR exercise will be spread
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkRvV2JCWDVUbVA1QjQyRXFteExFOTBfS05NdnNSNmNrXzN5OGxIQmhqR3d3Mm5WVWdQYWFsT212UXNSaVd3Nm1jUGlqdzdLbjFWRlBtUlFUdE1YZlZzZ3RKeUlXZjJYUVQ3V0RPVkpVc1RGWXZ5UXd5WkpVTUM4Mk1YZTlrZ255ZUJlTkU3QUxMYjY0THVWZmVILTNlaENnZnNrNlluSWRDRFEtdkpnT2hqLUd4c2lsUkHSAb8BQVVfeXFMTkFfSUs1UV9pbzJpRld5Vk5aS1Z2dFR1dWVSTkhMbFktZGMtenIwaEkwVHYyY3doYkc0VmtMU2l0cEFISFV1VzFPZ0tMVWhqMm5xbWxwUEdKMlpLa3NPQ3pIVExiRzNTVUhRYWxjY1RES1BQUHpxRHZSZ01xVkg0bXBqMVhMTDJXQVR0NC0tRDhMM1VSV0YzdWhjdHNtY016d0YwYzc2LWY1ZHotNXJWb2pqQ0gtbGZvaGVYRFdieU0?oc=5
+
+- Modi, Trump have always been good friends, says EAM - Times of India
+  Modi, Trump have always been good friends
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX0xKenp6b2ExWkM0VUsxM0czX25xczlFVWVONm1HUktNWFB0dC1YemdBeGlRclZWczZYczVtaTdidmVkM3hkcWxtTFF5N0lVV0p2bEVObVMxbDB1cVI4a1dGVG51VkhwUW1Kb1BVTm9EV1JMbFUzNEdUZi1Gam1YZTB3RFZNenVsRWtNZlVKbjA3bWJ4Tl8wRzZfbV9Ud2lnYm9BZHdUSDktY2F1WlVKRTBFNHpwa1NS0gG-AUFVX3lxTE5LaElpRUZ4a0dkbDVKSWJsRWgzX2Z3OEdtQ1hPcXJ6MEJYcTFjb2hoZy1zYjB3eC1EUG5zSGptcTRVcDc5U1djQy1DeDBqUGJlUzNXWk9GWGJ3LVpDWGVwckJZaTRsbzlaVUlpN2hLX0xnT3NIbHZqT1cyd2xVdzJtNzhWQ2Q4VnRfRmdnVVRzMmZ2V2NlNHN3bVBkRDcxeUhBQ1hPNHFZeFJOTGVqRWxlcU9VMG1iQlJ6RnNTd1E?oc=5
 
 - ‘India not a weak country that need crutches’: Ex-envoy Jawed Ashraf's strong message amid Trump's tariffs | Latest News India - Hindustan Times
   India not a weak country that need crutches, says ex-envoy Jawed Ash
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMlFhaGlsSnNpQTRyUUhyb2xiTHNtSTIwdjIzYzkydzVwRVlwZXFjWC1MSkVWQUlidzJRZzltVHdjZXIybVYtQlpWWDRJS0VrS1Z2X2RuQ3FxUG9RTjNmRl9kakI3VHV3OGpMeVlHT2p0N3QzYV9zckJ6YTJlbHM0X0h0NHE5YVZfaDJQRFprdElseXdTZUZkWWhTSmFpSzIxZk5JUnNmM050V0NMZzl2WkRfM3FUOXA4V09yOXZpc3dwTU1wcHVFT3VyRjBtSlZmNmR0djR2d2kydFM4YUQ4MjV5ODNBUXdNM003X0ZpUGMxYXhtalpOMWxuTnVIQdIBgwJBVV95cUxNaXpraVF5TkQwVDZCSzJrdnhjZ29fMUU2S2w5bGtYSzkxZlFZS25IeUNDQ2FLZGdkMlRadE16U01iM2Zkc0xlVWQzTzBWdnY4cF9CZjlVMmFaQVN6TFFndlAyaEl4TEx5ZFdveFBMQ3htUmxGaFhjUm1NZzZaenJTcW5zOEd6elV0NE5qY2tMdGI3UFN1bF84djUwVU13TllRQ25oQWFaMHhuMWg3NjlTeDY3eEdvUlVnZjA5Vkk2RGMxREF6b2xuc2hkWS1tMTMyaVNLcjJ0VnVaUzRCd3hvSmk2VUxNMFdXa3Z1NFUtc2ozX2REMXQtRjNQNC13bEFQVWxV?oc=5
-
-- ‘Challenge of US tariffs offers opportunity for reforms, deregulation’ - The Indian Express
-  ‘Challenge of US tariffs offers opportunity
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNUU5zOE0tWC10aUZDWkVJb1IySHk5b2tZVVU3WEFlc1V3NUF2ZzhRM2FXdnFhNmhWQTZ5WENkcFMxWG1xcVpaTjlwVDJyX0hqRXV6MGxLcUVPN0YycURaVDNncUt1MVVFeGJORTR3VElsVUdZeVdxb09mNTBVOG5QRU9SNVgtZUZUM0FSWWYwUUFkVFlLNnVvTGNWblN2ZkVDV1hqQTFxamN1NlZYemU4WGUtOFVrcHRZV1hLZ0QzOWJiRWE0N19N0gHOAUFVX3lxTE9Vd2h4TXFRaFZqYlEyUW50THQ1SjQzNjFiajJ2RHUwdFU4VXE2Ykx1cDRDekRadWE5eC1YY0t5THBQVDZTTDBBd3p6NXdRU0hDbjl0UGlPOGlheDRsaWpkdzhLZTZqODRtbWM3SmZjTDVDZDNvOXBQcTRLMElpOVl4V2ZlRm1OS0lJc2Y5eEJROXZ2SEl2bnJLUUJHa1lCX2wyazNZcWEyaWlUY2tnejdQS3VybHhJdmdJc1gzM25jWXZPa2dhcThwbl8tWk1B?oc=5
-
-- Omar Abdullah's Party Seeks J&K Waqf Chief's Sacking After Hazratbal Vandalism - NDTV
-  Omar Abdullah's Party Seeks J&
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOV1JhcGJoR2E3LWNSVGxGMW1CcmZVSF9HMDhfeE9FeURxaFpHZl9kSTY2ckE3R3c3THZ1cVA3MEpjejJhazF6Z0lJaGU5QXlHSjFGci1VZW1qd0gxME9OdWk0dUdpUTVuQkdFdHdad2pZdlRwcFo3WE9HenI1R1JvR200eUZzUkNRS25aM3kzMGhkNDJKeUpmUGZwN3FuQU5UV0s1UHRrZGc0aGZuU29DeTNscGtDUDjSAb8BQVVfeXFMTzhYeFFiQzZOZVBIRnBnYjNXVDFvX1dRUTkwNGQ0c29qMURySGE3dHpMVjY0Z2tJQlJUMXlpY1pET1RJaHlEMzFWa3pfQ0tBTXFsd212WEhacHFtTkVtOXJZS1k2OXIweGd3dDRFMUg5V1RRTWN6N08tSWs4SkdvZzVmNWg5bHpjbENEVDExYXFYaFZqaUJ1M0lHM21zeUphM1VLcDhmSDhsV1pTZ0JqSW01SHJSTWM1WG1IUXYwdlk?oc=5
 
 - Trump Asked If He Is Ready To Reset Relations With India. His Response - NDTV
   Trump Asked If He Is Ready To Reset Relations With India
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQng4NFBRRE1XYlVYQ0ZqNTlvYkYzazdGX051dWJseDU2NDFxMmprR2tCMFhYTmRGYkdTOVVSRnpRVzN4ZXZGb0VRcEVhNmpKQmxFV0RVWFhncUhIQlhnUUNOcDdSbERxME04b05hREF0d0VqY3QzYVlnYmYxSlNncTE3dW1oMWZkYTA1VmN3T1B0SzJZaHFZcWlDOW5WOTNCalhPNFRVOGFRUHJxY2pr0gG3AUFVX3lxTFB4YW42Q2IxWEo3MHZpMVRya0V1ZE00ZmliUWhiYlJQSThqMUkzcmFod01rRDVvaFcyZW5uNWxYRnREN3NzbGlfNkVSUlhsZGdZdVYyNWtQTWxFaEpsMVhibzlGanNMU0ljX3psREl3NVI1RnpkT3NRVkhyNnFCcWR0Sm5uaW5yRzRzUkF4azd5dFQ5Znl6cVpJd0NqQWRlVHFWYjRpTTE3d3hoU19wSUpXWjFSMlpPbw?oc=5
 
-- Trump says he’ll ‘always be friends’ with Modi; ‘nothing to worry’ about India-U.S. ties - The Hindu
-  Trump says he’ll ‘always be friends’
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTN3OUdhNi1tTnYweHlMUG9fbWNVRkJNcldLVVBrbE1KcGVhT2k1NFlLMUhBX2U3M1JzMTR3OW54VS1oVENEejdsYUlkRk5SbnA3ME5ZUVJOUHpFR2xMUnhnT2hBN2hKTUYyZV9HN0t5VjBib2FwbV9lNHVHaFhYNEJvbGxWTTFkYXlaa1pYcF9QN1hhcURVUUJOOXI2b19jM1FSblIzQk5kSnVIbFNUdEc5dlBxUXlTcEpvbXBlUF94X1BfYUYtVnNCV3c3dTNBWUt1ek5uS0tXMzFq0gHjAUFVX3lxTFB1WnlUTnZVWGc0UEFXVGZESm9yQ1Y1V2I4MjduTzFFbF81ckFFZDFlbk81SVlzMEI3aml5Mm1jTDRRYmo1MXFOYzBYN3gwcW1QRHBQMWtvQ1RoV1lwU2dhT2stcHZnbTY2RHBhUEwxVFdBOXQxXzBVaGZHRllsWmFoSkFYY0VXMlFoUnhnaWxKb1A0Um9DYkF2alhwWXB0U2tzMC10ZFBzUzlqQ2VHWjFsbGNiMkJTNS1GaS1ZdWlqQ1JfYndBcFhhbGxMV28wN2NWNTU1Vk55Zi1KQVBlcDBMeGNj?oc=5
+- Donald Trump says ‘We have lost India and Russia to deepest, darkest China’ - The Hindu
+  Donald Trump says ‘We have lost India and Russia to
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY05hazJNTHd4RHB4czdQRkdUUW1UOWJEaVpGek5BSkUyT1lHQ2RDSGRQUkFTSXVoUXdPOWNseUpCYTFtSmVyQUNIVFotOUhXQWppVEtTVEFKbXlUSjItbnJGWXZGUUs1RGFFai1aX2dIb0xGLUQxRnQwQnV4dlhieE1zUWhTSDlsNWdCSkZpODljc1B1azlSNUtmNEt1dG1jRUg1T1NxOHVXdE4tWHZnTU52X19SdHZudEZHM3VVdWtmYXZxQ1800gHOAUFVX3lxTFB6VDVxVTZhNUlBaElfc01PWnYwTndFSUoyZUtCckNUN1NlNERDZ1p0V3YxdUNFRXdrRTNnQm5lVmpqWTY1Y1B3ZDUtSXkxUlFXWkRfeUJ1d1RJeFY0WWUwOTRrRWp4cmZWNU9WVXhIUzFnbXVKckxWSXltSmgwUTloV1BDQUtraDNuMXZId1dxQkJjT0k5RVhYRUN0akpNT0dIdlc2Z05VZjdVQUF0VE9kY0VPWDhYQkRuMkF1N0hxbEV5elhzejItWW1RTmdn?oc=5
+
+- Pan-India SIR exercise will be spread over a month - Times of India
+  Pan-India SIR exercise will be spread
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkRvV2JCWDVUbVA1QjQyRXFteExFOTBfS05NdnNSNmNrXzN5OGxIQmhqR3d3Mm5WVWdQYWFsT212UXNSaVd3Nm1jUGlqdzdLbjFWRlBtUlFUdE1YZlZzZ3RKeUlXZjJYUVQ3V0RPVkpVc1RGWXZ5UXd5WkpVTUM4Mk1YZTlrZ255ZUJlTkU3QUxMYjY0THVWZmVILTNlaENnZnNrNlluSWRDRFEtdkpnT2hqLUd4c2lsUkHSAb8BQVVfeXFMTkFfSUs1UV9pbzJpRld5Vk5aS1Z2dFR1dWVSTkhMbFktZGMtenIwaEkwVHYyY3doYkc0VmtMU2l0cEFISFV1VzFPZ0tMVWhqMm5xbWxwUEdKMlpLa3NPQ3pIVExiRzNTVUhRYWxjY1RES1BQUHpxRHZSZ01xVkg0bXBqMVhMTDJXQVR0NC0tRDhMM1VSV0YzdWhjdHNtY016d0YwYzc2LWY1ZHotNXJWb2pqQ0gtbGZvaGVYRFdieU0?oc=5
+
+- Modi, Trump have always been good friends, says EAM - Times of India
+  Modi, Trump have always been good friends
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX0xKenp6b2ExWkM0VUsxM0czX25xczlFVWVONm1HUktNWFB0dC1YemdBeGlRclZWczZYczVtaTdidmVkM3hkcWxtTFF5N0lVV0p2bEVObVMxbDB1cVI4a1dGVG51VkhwUW1Kb1BVTm9EV1JMbFUzNEdUZi1Gam1YZTB3RFZNenVsRWtNZlVKbjA3bWJ4Tl8wRzZfbV9Ud2lnYm9BZHdUSDktY2F1WlVKRTBFNHpwa1NS0gG-AUFVX3lxTE5LaElpRUZ4a0dkbDVKSWJsRWgzX2Z3OEdtQ1hPcXJ6MEJYcTFjb2hoZy1zYjB3eC1EUG5zSGptcTRVcDc5U1djQy1DeDBqUGJlUzNXWk9GWGJ3LVpDWGVwckJZaTRsbzlaVUlpN2hLX0xnT3NIbHZqT1cyd2xVdzJtNzhWQ2Q4VnRfRmdnVVRzMmZ2V2NlNHN3bVBkRDcxeUhBQ1hPNHFZeFJOTGVqRWxlcU9VMG1iQlJ6RnNTd1E?oc=5
 
 - ‘India not a weak country that need crutches’: Ex-envoy Jawed Ashraf's strong message amid Trump's tariffs | Latest News India - Hindustan Times
   India not a weak country that need crutches, says ex-envoy Jawed Ash
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMlFhaGlsSnNpQTRyUUhyb2xiTHNtSTIwdjIzYzkydzVwRVlwZXFjWC1MSkVWQUlidzJRZzltVHdjZXIybVYtQlpWWDRJS0VrS1Z2X2RuQ3FxUG9RTjNmRl9kakI3VHV3OGpMeVlHT2p0N3QzYV9zckJ6YTJlbHM0X0h0NHE5YVZfaDJQRFprdElseXdTZUZkWWhTSmFpSzIxZk5JUnNmM050V0NMZzl2WkRfM3FUOXA4V09yOXZpc3dwTU1wcHVFT3VyRjBtSlZmNmR0djR2d2kydFM4YUQ4MjV5ODNBUXdNM003X0ZpUGMxYXhtalpOMWxuTnVIQdIBgwJBVV95cUxNaXpraVF5TkQwVDZCSzJrdnhjZ29fMUU2S2w5bGtYSzkxZlFZS25IeUNDQ2FLZGdkMlRadE16U01iM2Zkc0xlVWQzTzBWdnY4cF9CZjlVMmFaQVN6TFFndlAyaEl4TEx5ZFdveFBMQ3htUmxGaFhjUm1NZzZaenJTcW5zOEd6elV0NE5qY2tMdGI3UFN1bF84djUwVU13TllRQ25oQWFaMHhuMWg3NjlTeDY3eEdvUlVnZjA5Vkk2RGMxREF6b2xuc2hkWS1tMTMyaVNLcjJ0VnVaUzRCd3hvSmk2VUxNMFdXa3Z1NFUtc2ozX2REMXQtRjNQNC13bEFQVWxV?oc=5
 
-- ‘Challenge of US tariffs offers opportunity for reforms, deregulation’ - The Indian Express
-  ‘Challenge of US tariffs offers opportunity
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNUU5zOE0tWC10aUZDWkVJb1IySHk5b2tZVVU3WEFlc1V3NUF2ZzhRM2FXdnFhNmhWQTZ5WENkcFMxWG1xcVpaTjlwVDJyX0hqRXV6MGxLcUVPN0YycURaVDNncUt1MVVFeGJORTR3VElsVUdZeVdxb09mNTBVOG5QRU9SNVgtZUZUM0FSWWYwUUFkVFlLNnVvTGNWblN2ZkVDV1hqQTFxamN1NlZYemU4WGUtOFVrcHRZV1hLZ0QzOWJiRWE0N19N0gHOAUFVX3lxTE9Vd2h4TXFRaFZqYlEyUW50THQ1SjQzNjFiajJ2RHUwdFU4VXE2Ykx1cDRDekRadWE5eC1YY0t5THBQVDZTTDBBd3p6NXdRU0hDbjl0UGlPOGlheDRsaWpkdzhLZTZqODRtbWM3SmZjTDVDZDNvOXBQcTRLMElpOVl4V2ZlRm1OS0lJc2Y5eEJROXZ2SEl2bnJLUUJHa1lCX2wyazNZcWEyaWlUY2tnejdQS3VybHhJdmdJc1gzM25jWXZPa2dhcThwbl8tWk1B?oc=5
+- Trump Asked If He Is Ready To Reset Relations With India. His Response - NDTV
+  Trump Asked If He Is Ready To Reset Relations With India
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQng4NFBRRE1XYlVYQ0ZqNTlvYkYzazdGX051dWJseDU2NDFxMmprR2tCMFhYTmRGYkdTOVVSRnpRVzN4ZXZGb0VRcEVhNmpKQmxFV0RVWFhncUhIQlhnUUNOcDdSbERxME04b05hREF0d0VqY3QzYVlnYmYxSlNncTE3dW1oMWZkYTA1VmN3T1B0SzJZaHFZcWlDOW5WOTNCalhPNFRVOGFRUHJxY2pr0gG3AUFVX3lxTFB4YW42Q2IxWEo3MHZpMVRya0V1ZE00ZmliUWhiYlJQSThqMUkzcmFod01rRDVvaFcyZW5uNWxYRnREN3NzbGlfNkVSUlhsZGdZdVYyNWtQTWxFaEpsMVhibzlGanNMU0ljX3psREl3NVI1RnpkT3NRVkhyNnFCcWR0Sm5uaW5yRzRzUkF4azd5dFQ5Znl6cVpJd0NqQWRlVHFWYjRpTTE3d3hoU19wSUpXWjFSMlpPbw?oc=5
 
-- Omar Abdullah's Party Seeks J&K Waqf Chief's Sacking After Hazratbal Vandalism - NDTV
-  Omar Abdullah's Party Seeks J&
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOV1JhcGJoR2E3LWNSVGxGMW1CcmZVSF9HMDhfeE9FeURxaFpHZl9kSTY2ckE3R3c3THZ1cVA3MEpjejJhazF6Z0lJaGU5QXlHSjFGci1VZW1qd0gxME9OdWk0dUdpUTVuQkdFdHdad2pZdlRwcFo3WE9HenI1R1JvR200eUZzUkNRS25aM3kzMGhkNDJKeUpmUGZwN3FuQU5UV0s1UHRrZGc0aGZuU29DeTNscGtDUDjSAb8BQVVfeXFMTzhYeFFiQzZOZVBIRnBnYjNXVDFvX1dRUTkwNGQ0c29qMURySGE3dHpMVjY0Z2tJQlJUMXlpY1pET1RJaHlEMzFWa3pfQ0tBTXFsd212WEhacHFtTkVtOXJZS1k2OXIweGd3dDRFMUg5V1RRTWN6N08tSWs4SkdvZzVmNWg5bHpjbENEVDExYXFYaFZqaUJ1M0lHM21zeUphM1VLcDhmSDhsV1pTZ0JqSW01SHJSTWM1WG1IUXYwdlk?oc=5
+- Donald Trump says ‘We have lost India and Russia to deepest, darkest China’ - The Hindu
+  Donald Trump says ‘We have lost India and Russia to
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY05hazJNTHd4RHB4czdQRkdUUW1UOWJEaVpGek5BSkUyT1lHQ2RDSGRQUkFTSXVoUXdPOWNseUpCYTFtSmVyQUNIVFotOUhXQWppVEtTVEFKbXlUSjItbnJGWXZGUUs1RGFFai1aX2dIb0xGLUQxRnQwQnV4dlhieE1zUWhTSDlsNWdCSkZpODljc1B1azlSNUtmNEt1dG1jRUg1T1NxOHVXdE4tWHZnTU52X19SdHZudEZHM3VVdWtmYXZxQ1800gHOAUFVX3lxTFB6VDVxVTZhNUlBaElfc01PWnYwTndFSUoyZUtCckNUN1NlNERDZ1p0V3YxdUNFRXdrRTNnQm5lVmpqWTY1Y1B3ZDUtSXkxUlFXWkRfeUJ1d1RJeFY0WWUwOTRrRWp4cmZWNU9WVXhIUzFnbXVKckxWSXltSmgwUTloV1BDQUtraDNuMXZId1dxQkJjT0k5RVhYRUN0akpNT0dIdlc2Z05VZjdVQUF0VE9kY0VPWDhYQkRuMkF1N0hxbEV5elhzejItWW1RTmdn?oc=5
+
+- Pan-India SIR exercise will be spread over a month - Times of India
+  Pan-India SIR exercise will be spread
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkRvV2JCWDVUbVA1QjQyRXFteExFOTBfS05NdnNSNmNrXzN5OGxIQmhqR3d3Mm5WVWdQYWFsT212UXNSaVd3Nm1jUGlqdzdLbjFWRlBtUlFUdE1YZlZzZ3RKeUlXZjJYUVQ3V0RPVkpVc1RGWXZ5UXd5WkpVTUM4Mk1YZTlrZ255ZUJlTkU3QUxMYjY0THVWZmVILTNlaENnZnNrNlluSWRDRFEtdkpnT2hqLUd4c2lsUkHSAb8BQVVfeXFMTkFfSUs1UV9pbzJpRld5Vk5aS1Z2dFR1dWVSTkhMbFktZGMtenIwaEkwVHYyY3doYkc0VmtMU2l0cEFISFV1VzFPZ0tMVWhqMm5xbWxwUEdKMlpLa3NPQ3pIVExiRzNTVUhRYWxjY1RES1BQUHpxRHZSZ01xVkg0bXBqMVhMTDJXQVR0NC0tRDhMM1VSV0YzdWhjdHNtY016d0YwYzc2LWY1ZHotNXJWb2pqQ0gtbGZvaGVYRFdieU0?oc=5
+
+- Modi, Trump have always been good friends, says EAM - Times of India
+  Modi, Trump have always been good friends
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX0xKenp6b2ExWkM0VUsxM0czX25xczlFVWVONm1HUktNWFB0dC1YemdBeGlRclZWczZYczVtaTdidmVkM3hkcWxtTFF5N0lVV0p2bEVObVMxbDB1cVI4a1dGVG51VkhwUW1Kb1BVTm9EV1JMbFUzNEdUZi1Gam1YZTB3RFZNenVsRWtNZlVKbjA3bWJ4Tl8wRzZfbV9Ud2lnYm9BZHdUSDktY2F1WlVKRTBFNHpwa1NS0gG-AUFVX3lxTE5LaElpRUZ4a0dkbDVKSWJsRWgzX2Z3OEdtQ1hPcXJ6MEJYcTFjb2hoZy1zYjB3eC1EUG5zSGptcTRVcDc5U1djQy1DeDBqUGJlUzNXWk9GWGJ3LVpDWGVwckJZaTRsbzlaVUlpN2hLX0xnT3NIbHZqT1cyd2xVdzJtNzhWQ2Q4VnRfRmdnVVRzMmZ2V2NlNHN3bVBkRDcxeUhBQ1hPNHFZeFJOTGVqRWxlcU9VMG1iQlJ6RnNTd1E?oc=5
+
+- ‘India not a weak country that need crutches’: Ex-envoy Jawed Ashraf's strong message amid Trump's tariffs | Latest News India - Hindustan Times
+  India not a weak country that need crutches, says ex-envoy Jawed Ash
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMlFhaGlsSnNpQTRyUUhyb2xiTHNtSTIwdjIzYzkydzVwRVlwZXFjWC1MSkVWQUlidzJRZzltVHdjZXIybVYtQlpWWDRJS0VrS1Z2X2RuQ3FxUG9RTjNmRl9kakI3VHV3OGpMeVlHT2p0N3QzYV9zckJ6YTJlbHM0X0h0NHE5YVZfaDJQRFprdElseXdTZUZkWWhTSmFpSzIxZk5JUnNmM050V0NMZzl2WkRfM3FUOXA4V09yOXZpc3dwTU1wcHVFT3VyRjBtSlZmNmR0djR2d2kydFM4YUQ4MjV5ODNBUXdNM003X0ZpUGMxYXhtalpOMWxuTnVIQdIBgwJBVV95cUxNaXpraVF5TkQwVDZCSzJrdnhjZ29fMUU2S2w5bGtYSzkxZlFZS25IeUNDQ2FLZGdkMlRadE16U01iM2Zkc0xlVWQzTzBWdnY4cF9CZjlVMmFaQVN6TFFndlAyaEl4TEx5ZFdveFBMQ3htUmxGaFhjUm1NZzZaenJTcW5zOEd6elV0NE5qY2tMdGI3UFN1bF84djUwVU13TllRQ25oQWFaMHhuMWg3NjlTeDY3eEdvUlVnZjA5Vkk2RGMxREF6b2xuc2hkWS1tMTMyaVNLcjJ0VnVaUzRCd3hvSmk2VUxNMFdXa3Z1NFUtc2ozX2REMXQtRjNQNC13bEFQVWxV?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-06 18:21:54 UTC_
+_Last updated: 2025-09-07 01:15:38 UTC_
