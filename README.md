@@ -1,164 +1,224 @@
 # 📰 Daily News Summaries
 
-- Steve Waugh takes guard for ties between India and Australia: ‘Foundation is cricket’
+- ‘Personal space, adequate light, ventilation and storage’: India assures Belgium on Mehul Choksi if extradited
   
-  🔗 https://indianexpress.com/article/india/steve-waugh-takes-guard-for-ties-between-india-and-australia-foundation-is-cricket-10236403/
+  🔗 https://indianexpress.com/article/india/personal-space-adequate-light-ventilation-india-assures-belgium-mehul-choksi-if-extradited-10236837/
 
-- Census 2027: Enumerators to use own smartphones to collect data
+- First church in India dedicated to teen saint Carlo Acutis consecrated in Kerala’s Palikkara
   
-  🔗 https://indianexpress.com/article/india/census-2027-enumerators-to-use-own-smartphones-to-collect-data-10236385/
+  🔗 https://indianexpress.com/article/india/first-church-india-teen-saint-carlo-acutis-consecrated-kerala-palikkara-10236829/
 
-- Opposition V-P nominee to MPs: Vote in favour of country, not party
+- Before Modi’s Manipur visit, MLAs told to ensure their areas remain calm, tentative itinerary shared
   
-  🔗 https://indianexpress.com/article/india/opposition-v-p-nominee-to-mps-vote-in-favour-of-country-not-party-10236322/
+  🔗 https://indianexpress.com/article/india/before-modis-manipur-visit-mlas-told-to-ensure-their-areas-remain-calm-tentative-itinerary-shared-10236834/
 
-- Navarro slams Musk as X fact-checks post attacking India over Russian oil
+- News Today Live Updates, 8 September | ‘Russian economy will be in full collapse’: US official hints at additional tariffs on countries purchasing oil from Moscow
   
-  🔗 https://indianexpress.com/article/india/navarro-slams-musk-as-x-fact-checks-post-attacking-india-over-russian-oil-10236379/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-09-08-2025-news-headlines-10236488/
 
-- Advanced radars along northern and western borders to boost drone shield
+- Army officer injured, militant killed in gunfight in South Kashmir’s Kulgam
   
-  🔗 https://indianexpress.com/article/india/advanced-radars-along-northern-and-western-borders-to-boost-drone-shield-10236378/
+  🔗 https://indianexpress.com/article/india/army-officer-injured-militant-killed-in-gunfight-in-south-kashmirs-kulgam-10236703/
+
+- Apple Watch Series 11, Apple Watch Ultra 3, Apple Watch SE, AirPods Pro 3: Everything you can expect
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-watch-series-11-airpods-pro-3-everything-expected-10234215/
+
+- The spectacular comeback tour of a crypto overlord
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/the-spectacular-comeback-tour-of-a-crypto-overlord-10236620/
+
+- AI shakes up the call center industry, but some tasks are still better left to the humans
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-shakes-up-the-call-center-industry-but-some-tasks-are-still-better-left-to-the-humans-10236604/
+
+- US probes malware email targeting trade talks with China: Report
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/us-probes-malware-email-targeting-trade-talks-with-china-report-10236591/
 
 - Apple ‘Awe Dropping’ event in September 2025: Full list of Apple products expected to be launched
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-awe-dropping-event-september-2025-full-list-of-products-expected-10234113/
 
-- Fifty per cent off: OnePlus Buds Pro 2: Super Pro-level buds just got super affordable too
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/fifty-per-cent-off-oneplus-buds-pro-2-10235527/
+- ChrysCapital bets  ₹1,100 cr on ILJIN Electronics as India's EMS market surges
+  ILJIN’s first institutional fundraise will back scale, tech and acquisitions. India pushes to cut electronics
+  🔗 https://www.livemint.com/companies/chryscapital-bets-1-100-cr-on-iljin-electronics-as-indias-ems-market-surges-11757307036491.html
 
-- Why EU fined Google $3.5B in adtech antitrust probe and what it means for other cases
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/why-eu-fined-google-adtech-antitrust-probe-10235511/
+- Stellantis' policy is that we don’t build plants around policies alone: India MD
+  An EU-India FTA could help bring in more models. Stellantis India MD Shailesh Hazela talks about identifying the right
+  🔗 https://www.livemint.com/companies/stellantis-policy-is-that-we-don-t-build-plants-around-policies-alone-india-md-11757308747546.html
 
-- OpenAI’s ChatGPT now lets you branch conversations into multiple threads: Here’s how to use it
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-chatgpt-branch-conversations-how-to-use-it-10235328/
+- Chinas e-commerce companies are getting singed by a price war
+  China's e-commerce companies are
+  🔗 https://www.livemint.com/companies/news/chinas-e-commerce-companies-are-getting-singed-by-a-price-war-11757309758508.html
 
-- Apple sees record $9 billion sales in India as iPhone 17 launch nears: Report
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-sees-record-9-billion-sales-in-india-as-iphone-17-launch-nears-report-10234946/
+- Ritesh Agarwal-led OYO renames corporate entity to ‘Prism’ ahead of IPO; details here
+  OYO's parent company, Oravel Stays, has rebranded as Prism to unify its diverse businesses. Founder Ritesh Agarwal mentioned that the new identity aims
+  🔗 https://www.livemint.com/companies/news/ritesh-agarwal-led-oyo-renames-corporate-entity-to-prism-ahead-of-ipo-details-here-11757292105018.html
 
 - Now Sun Pharma, Lupin work on anti-obesity pill to cut costs, address jab aversion
   Sun Pharma and Lupin pursue regulatory approval for oral
   🔗 https://www.livemint.com/companies/now-sun-pharma-lupin-work-on-anti-obesity-pill-to-cut-costs-address-jab-aversion-11757239385114.html
 
-- Why the Middle East is becoming the first halt for Indian startups’ global ambitions
-   Founders across the ecosystem are finding that the region’s appetite for new technology is picking up.
-  🔗 https://www.livemint.com/companies/start-ups/middle-east-indian-startups-mena-region-protectt-kluisz-ai-doqfy-ringg-ai-dubai-uae-qatar-technology-investments-11757170422307.html
+- TBO Tek share price soars over 9% after Jefferies hikes target price, up 28% in six sessions
+  The stock gained 28% this month, driven by TBO's $125 million acquisition of Classic Vacations. TBO Tek's share price surged 9.4
+  🔗 https://www.livemint.com/market/stock-market-news/tbo-tek-share-price-soars-over-9-after-jefferies-hikes-target-price-up-28-in-six-sessions-11757311193728.html
 
-- Cognizant moves Supreme Court in Atyati logo trademark battle
-  Cognizant has been battling a case concerning its hexagonal logo. Bengaluru-based
-  🔗 https://www.livemint.com/companies/cognizant-supreme-court-case-cognizant-logo-trademark-dispute-bombay-high-court-cognizant-logo-ban-cognizant-vs-atyati-11757219879752.html
+- Swiggy, Eternal in Focus: Nomura predicts strong growth in food delivery business, sees up to 25% upside potential
+  Nomura has initiated a 'buy' rating for Swiggy. The brokerage increased the target price for Eternal, anticipating strong growth in the food delivery sector.
+  🔗 https://www.livemint.com/market/stock-market-news/swiggy-eternal-in-focus-nomura-predicts-strong-growth-in-food-delivery-business-sees-up-to-25-upside-potential-11757310812344.html
 
-- Volkswagen eyes India as potential market for small-EV cars. Here's what VW Group CEO said
-  European auto giant, Volkswagen is looking at India as a potential market for its affordable small electric car segment. Volkswagen is currently in works with partners on how to introduce them in the nation.
-  🔗 https://www.livemint.com/companies/people/volkswagen-eyes-india-as-potential-market-for-small-ev-cars-heres-what-vw-group-ceo-oliver-blume-said-11757259567942.html
+- Vinay Rajani of HDFC Securities suggests these stocks to buy for short-term
+  Nifty 50 and Sensex started the week positively due to strong global cues and investor enthusiasm. Nifty rose by 80.35 points, while Sensex climbed 244.66 points.
+  🔗 https://www.livemint.com/market/stock-market-news/vinay-rajani-of-hdfc-securities-suggests-these-stocks-to-buy-for-shortterm-11757310605076.html
 
-- ‘Over 1,200 departures every single day’: Air India CEO Campbell Wilson says incidence rate entirely normal
-  Air India CEO said airlines routinely face a mix of controllable and uncontrollable operational scenarios.
-  🔗 https://www.livemint.com/companies/news/over-1-200-departures-every-single-day-air-india-ceo-campbell-wilson-says-incidence-rate-entirely-normal-11757258499236.html
+- Vedanta share price: Nuvama sees over 35% upside on THIS Anil Agarwal-owned metal stock
+  Vedanta shares have remained largely in red in last one year. Mining giant stock has descended less than a per cent in six months
+  🔗 https://www.livemint.com/market/stock-market-news/vedanta-share-price-nuvama-sees-over-35-upside-on-this-anil-agarwal-owned-metal-stock-11757308949035.html
 
-- Global Markets Today: Nikkei 225, Kospi trade higher on Japan's PM resignation, China trade data
-  Japan’s Nikkei 225 gained 0.95 per cent after Prime Minister Shigeru Ishiba stepped down on Sunday. South Korea
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-trade-higher-on-japans-pm-resignation-china-trade-data-11757292199501.html
+- Stock to buy: Samvardhana Motherson shares rally over 4%; analysts predict more upside ahead
+  Samvardhana Motherson shares have remained under pressure over the past year, slipping more than 21 per cent. It touched a 52-week low of  ₹71.57 on April 7, 2025, after scaling a
+  🔗 https://www.livemint.com/market/stock-market-news/stock-to-buy-samvardhana-motherson-shares-rally-over-4-analysts-predict-more-upside-ahead-11757310284449.html
 
-- Stock market today: Trade setup for Nifty 50, US Fed rate cut to India-US trade deal; 9 stocks to buy or sell on Monday
-  For Nifty-50, the resistance is seen in the 24,950–25,000 zone, while support lies around 24,550–24,500.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-us-fed-rate-cut-to-india-us-trade-deal-9-stocks-to-buy-or-sell-on-monday-11757233029963.html
+- How to create AI-powered videos with audio using Grok Imagine – Elon Musk demonstrates with a prompt
+  Elon Musk reveals updates on his AI platform, Grok. The enhancements allow for interactive content creation.
+  🔗 https://www.livemint.com/technology/tech-news/how-to-create-ai-powered-videos-with-audio-using-grok-imagine-elon-musk-demonstrates-11757309969889.html
 
-- Stock recommendations for 8 September from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 5 September. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-stock-recommendations-8-september-marketsmith-india-dixon-technologies-sensex-nifty-lemon-tree-hotels-l-11757250179552.html
+- AI's hidden cost: Data centres could push 11-fold rise in water consumption by 2028, says report
+  A Morgan Stanley report says AI data centres will increase global water usage to approximately 1,068 billion litres annually by 2028. The impact is concentrated in areas already facing water scarcity.
+  🔗 https://www.livemint.com/technology/tech-news/ais-hidden-cost-data-centres-could-push-11-fold-rise-in-water-consumption-by-2028-says-report-11757302069125.html
 
-- Realty launches to improve, but pricier homes may dampen demand
-  Price hikes have aided the realisations of developers. But they are expected to worsen
-  🔗 https://www.livemint.com/market/mark-to-market/realty-launches-dlf-brigade-godrej-new-project-india-real-estate-market-outlook-fy26-11757223774815.html
+- OpenAI admits GPT-5 hallucinates: ‘Even advanced AI models can produce confidently wrong answers’–Here's why
+  OpenAI explains persistent ‘hallucinations’ in AI. The issue stems from training and accuracy-focused evaluations that reward guessing. reforming benchmarks to value
+  🔗 https://www.livemint.com/technology/tech-news/openai-admits-gpt-5-hallucinates-even-advanced-ai-models-can-produce-confidently-wrong-answers-heres-why-11757305341278.html
 
-- Stocks to trade today: Trade Brains Portal recommends two stocks for 8 September
-  Discover the top stock picks by market experts at Trade Brains Portal for Monday
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-trade-trade-brains-portal-two-stocks-to-buy-8-september-bajaj-auto-crompton-greaves-11757081772187.html
+- Apple eyes China launch for Apple Intelligence with iPhone 17 series event on September 9: Report
+  Apple is preparing to launch Apple Intelligence in China by late 2025. Regulatory hurdles forced a partnership with Alibaba, sparking US security concerns.
+  🔗 https://www.livemint.com/technology/tech-news/apple-eyes-china-launch-for-apple-intelligence-with-iphone-17-series-event-on-september-9-report-11757299734064.html
 
-- Oppo F31 5G series confirmed to launch in India on 15 September: Expected price, specs and all you need to know
-  Oppo F31 series 5G will launch in India on 15 September. The company could introduce three phones in this lineup which could include the
-  🔗 https://www.livemint.com/technology/gadgets/oppo-f31-5g-series-confirmed-to-launch-in-india-on-15-september-expected-price-specs-and-all-you-need-to-know-11757259018499.html
+- Apple 'Awe Dropping' Event on September 9: When, where and how to watch livestream
+  Apple will host its Awe Dropping Event on 9 Sept at 10 AM PT (10.30 PM IST) expectedly unveiling the iPhone 17 line-up, ultra-thin iPhone
+  🔗 https://www.livemint.com/technology/tech-news/apple-awe-dropping-event-on-september-9-when-where-and-how-to-watch-livestream-iphone-17-17-pro-pro-max-11757295884661.html
 
-- Can you trick an AI into breaking its rules? Study says yes—with these persuasion tactics
-  A University of Pennsylvania study reveals that psychological persuasion techniques can effectively prompt AI chat
-  🔗 https://www.livemint.com/technology/tech-news/can-you-trick-an-ai-into-breaking-its-rules-study-says-yes-with-these-persuasion-tactics-11757256177081.html
+- Indian stock market: 15 things that changed for market over weekend- Gift Nifty, Nikkei rally, US jobs data to gold rate - Mint
+  Indian stock market: 15 things that changed for market over weekend- Gift Nifty, Nikke
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQT1JIQ0w1Z09WU2QyZF9UVjBGTUZfT2k5ZE5OQU5TZ0YweTlOMzVhTC1VdUU5dF9FMThKaDFPdDdLWlgxZ3U4YnR3NXRDZEtUeHBnTjhJUFE4R0Itb2R5X29pcU5zYTJ5MDhrSHQyUm9xTDJpTFRaYmJzOEJ6dTVFUHl5RXpUTXJyM05FSE14U0hwc3h2MkhIcTlpTVJuSlhYbW5hZmg3ME12X2tsZGJ3VjRsMGlSQUJtWkpERUJHMVVRMkNlYm1PenNZT0E3NFIyNFJsYXRTaW4yOHZHNlM3ZERmN1Rnd1pDYWRpbmlyQ0VIRzgyTC1KdHNaeHJuSE9ISFNqSVB2TkVQWXltLUpqMV9ZSXHSAZoCQVVfeXFMT3g2QV9YdGhTOWFqQVA0S0NTZmFSdDdFUUN3WlB6NEdNR0otNmZFeEcxRzk2OVdibFhsRVdiemdzNjRtRzZTa3NLSkgtOHpOYzlLUWF4aExMYlc5QUxQMjJzb04zcHpobm8zMi04c3FNS1pLTFlGWHlWSXhPbU1uNEdNa2xfZDFLak1oazJwQVI3N3M5WmJ0V1p4eFk1TUxtTjhsaXNUd2RTU1Z2NW85Y19xVE5RbFh1cW1TMHA0TV9UbUtGcFdWR18zWDFJUDJZZ2l6ZmxyYmUzSUxaWHVsdzd3MmkyUFoxSUkxeE9UNjJSODZkM1BHYTNQU1RUbTE5NXBYTnNJZ1lxREhBVEdvQ3B5WDlUSUZ1SlFn?oc=5
 
-- Apple faces copyright lawsuit over training Apple Intelligence AI on pirated books: What we know so far
-  Authors Grady Hendrix and Jennifer Roberson have filed a lawsuit against Apple. They claim the company unlawfully used their copyrighted books to train its AI models.
-  🔗 https://www.livemint.com/technology/tech-news/apple-faces-copyright-lawsuit-over-training-apple-intelligence-ai-on-pirated-books-what-we-know-so-far-11757251724012.html
+- Global trends, trading cues, inflation likely to steer markets this week - Business Standard
+  Global trends, trading cues, inflation likely to steer
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbUl5LVA3RXBQQnozVWQ1cnJ5amlDZnlYT2FWeG9SbUdMS01zUVgxMmFGMlBKTzhvRjBTZkYzOW1ucFNUM0ZuRGd1eFhFSTNVMENJZXcwbG5kT2g4MEg1Zm9SbEIwNl9FTFB2YUhyWlBRbmlEM2Y4clpjek55eTNjY01iODVzOVlSTG5ReWpJc20wY0w2UlRCb2J6N19iYi1TRVFGNGtTZkNrZzZ4MzF3Y2RRUk00T0RtQndkaXlJcnFON3MzdS1ET1AyUWp1TURUMGVn0gHYAUFVX3lxTFBqMm9kNjNybU9La0RLQ1BvSjF2eDhZSDZlS1ZQQlAwS2ZzQlRYUmwwQ3dSN0N5MVJWb1p0WDN4MjhwamRGZmFRZXdYM1JwQUNHT3NKbzFyWno3b1VSVFVpaEh3Y0J3eG5yME9aYmxTczlHMEIzRy1kZzRaTUNWR2JvaThPZUJHTWZUT0FFLUNiRzFkdGtlaWhhdGMyaVRpRGM2U1dlRmZZUTU3QURWVVNvLWRxNVhpMzhieW9MdEtUT3A1VmgtNzFTQzc4eFZpZzdHSGFMY2w4MQ?oc=5
 
-- iPhone 17 Air launching on 9 September: India price, display, processor and what to expect
-  Apple's iPhone 17 Air will debut on September 9. It features a 6.6-inch 120
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17-air-launching-on-9-september-india-price-display-processor-and-what-to-expect-11757249259463.html
+- Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times
+  Ahead of Market: 10 things that will decide stock market action
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOY2FnRnhHQS1DZ0RBVjdnRGVSVnQtT1ZQMFlfamlpV1FTZ1o5YVZIWFFkTG9SMUJhX3JzbmxmbnFEWjZWdFpYTkJvYmdpLVgwTTB1dUFEanM3aWdzSHMxUzQ4VjNOcnNvbGtoUUJvdVRrNmJ2VktYSlZzNW0zanlQREtIZnlRRlZzbmNLXzliMGxTM3huNUhvbXlmU3FlRjI1UW10UFZhaG1ybExXaXV5XzN0cUptWEhKemRzUlQzeGxiTHl5OVpOOFQxdHZzVnVZM2NDTlhmd291TGp3ZzdBQU5n0gHnAUFVX3lxTFBvenVxWm1JUVh4bVYydkJVaWJmLXFsRy1oZVVMNmZKS2I5dENCNC0yVU5vN2ZtYXk1bVVzSG9TOGlscU51dktPcTJnS1NBMTdNZ0dZd0x1QjdhcGc1Q2V5b2pkbTN4Wlg5WURmZDBLSmplV0RRUVExZFk1V2RVMlV3cEtJMkRjcjZEZ01Vb0Jvakw5SUVlejFlV1VuMDEyQXZJU09BQlJVYmxEVWdWRUF6emd2Y0RpeU5qdXFHVjNDbUdHVDc2elMwdTdad1VhdGZXZWw1QmsxNXVVbHNpX0M3dWdQRHJWUQ?oc=5
 
-- Apple AirPods Pro 3 may steal the spotlight with surprise debut at iPhone 17 launch event: Here's what to expect
-  Apple is expected to launch the AirPods Pro 3 at the the company's ‘Awe Dropping’ event on 9 September alongside the iPhone 17 series.
-  🔗 https://www.livemint.com/technology/gadgets/apple-airpods-pro-3-may-steal-the-spotlight-with-surprise-debut-at-iphone-17-launch-event-heres-what-to-expect-11757247656394.html
+- Markets set for a slow & stead uphill trek - Deccan Herald
+  Deccan Herald: Markets set for
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQU3pUaW5SR19oeURVQVFwaFBfRkptMDdUOWktNUhQOERIazNfaWUwTFlyQU5NdjlYV0Q5MVBPcjc5X1BCaXlFQ3QyVW0wdmItMTBzc3E5YXF2VEluRmdGVUpVRjZraTZVSWZ1Um8wUnlkSDVUOFppbkdXRi1RWVBYSzJET1RvX25FbV90V2E4VDdVLWxSUDc3cTBB?oc=5
 
-- Banks' lending to brokers surged on rising market activity
-  Institutional lending to stockbrokers witnessed a significant surge of 28% in FY25. Punjab National Bank experienced the most substantial growth. ICICI Bank remained the leading lender.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/banks-lending-to-brokers-surged-on-rising-market-activity/articleshow/123755115.cms
+- PPFAS’s Rajeev Thakkar: Shakeout needed for next leg up, sideways markets offer breather - Moneycontrol
+  Moneycontrol.com is an online news service
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbHpGMVZEN3BYSWlfemVkb1o1OFU2VDM5cnl2Q25TZEdVWTNaS2hlbFpzYlVxcGh2N1VFa0R4bGpsZFkxRFJTbUZ6MjlSemdGRFhEV29IbFk4N2lqT1ZDaXlkOE16dThxYV8xU2UwUk81ZFEzdzZFNlc2MEpUdVpVcVJTNE5tN0I1d0pSM2VJZVJxMFlXeVRHY3hjSkRkZllBTDRWbmhzNk9tbFl6a1BXRDZJTjA4dnRuS1V6Zl9hNmRCcGtjUlo0WGRpQ3c3d18zb1ZSR21CcFZ2VFhLQi02MUF2OFdEaWRYd1FTODV6bXhZaXZOR21TOXhxRFdiZ9IBgwJBVV95cUxPWDlfRllHWjl4QmZpbGtnMmNXN2xveE9NZ2U5QVRLLTI2MElJZ3hibjdsUWc5eDlSaEZ3S01EX09valJzcy1zNTJ5MVhIZEtrMnRtSUJGZUlWQXBHdHg0TmRPQ1JSek5TcjdDLU9pNWNiNGxrbmtvT2ZCWXg2WmtSd3ZSVFM4R2ptdDBncnU3eEV6MDI1UzBkUTVpTXJUb25fcXlPQjRkcU5US2FIRnh1T0s2MHVxSFphX0xUS2w2RGl2SHdLaDRoUHJFXzRHcmdxaTlBc3EzWndsN25ycXo3dDdQaUtfMFJIaXdTTTRPcFJKTjlqb1pEY3RIM0tDRFlyYVg4?oc=5
 
-- Volatility risks rise in Japan with the exit of PM Ishiba
-  Japanese markets brace for instability as Prime Minister Ishiba's departure looms. Uncertainty surrounds the fiscal policies of potential successors and the Bank of Japan's rate hike trajectory. Concerns over rising JGB yields could spill over into global debt
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/volatility-risks-rise-in-japan-with-the-exit-of-pm-ishiba/articleshow/123755099.cms
+- Netweb Technologies shares rally 50% in 6 days to hit record high. Here are 4 reasons why
+  Netweb Technologies shares surged 50% in six sessions to hit a record high. The stock has nearly doubled in the past six months.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/netweb-technologies-shares-rally-50-in-6-days-to-hit-record-high-here-are-4-reasons-why/articleshow/123759121.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  Nifty may rise towards 25,150-25,250 if it decisively surpasses 24,750, with support at 24,500. Equity indices remained flat, buoyed by positive global cues and auto stock
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/123749101.cms
+- Japan's stressed bond market, stocks brace for PM Ishiba exit reaction
+  Japan's stressed government bond market and soaring stocks are set for more volatility on Monday after the resignation of
+  🔗 https://economictimes.indiatimes.com/markets/bonds/japans-stressed-bond-market-stocks-brace-for-pm-ishiba-exit-reaction/articleshow/123758924.cms
 
-- Supreet Chemicals files Rs 499 crore IPO with SEBI
-  Supreet Chemicals, based in Gujarat, plans to launch an IPO. The company intends to use the funds to establish a new manufacturing facility. Part of the proceeds will also be used to repay existing loans.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/supreet-chemicals-files-rs-499-crore-ipo-with-sebi/articleshow/123755049.cms
+- MosChip Tech shares jump 8%, extend winning streak to 7 days. What’s driving the rally?
+  MosChip Technologies shares hit their 52-week high on Monday. Government focus on boosting India’s semiconductor sector has fuelled investor optimism.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/moschip-tech-shares-jump-8-extend-winning-streak-to-7-days-whats-driving-the-rally/articleshow/123758736.cms
 
-- Stocks in news: Hyundai India, Vedanta, Adani Power, Tata Motors, Aurobindo Pharma
-  Hyundai India will reduce prices following GST reforms. Adani Power will develop a hydroelectric project in Bhutan. Vedanta's bid for Jaiprakash Associates includes a staggered payment plan.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hyundai-india-vedanta-adani-power-tata-motors-aurobindo-pharma/articleshow/123749047.cms
+- ECB faces new challenges as France crisis looms
+  The European Central Bank is expected to hold its deposit rate at 2% as inflation stabilizes. Analysts expect limited policy shifts, with Lagarde cautious on future guidance.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ecb-faces-new-challenges-as-france-crisis-looms/slideshow/123758660.cms
+
+- Market analysts warn of Yen and bond volatility
+  Japanese Prime Minister Shigeru Ishiba resigned, triggering political uncertainty. Analysts highlight fiscal policy risks, bond yield pressures, and potential delays in Bank of Japan tightening.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-analysts-warn-of-yen-and-bond-volatility/slideshow/123758237.cms
+
+- What Elon Musk said after Trump aide Peter Navarro's anti-India post was fact-checked on X | World News - Hindustan Times
+  What Elon Musk said after Trump aide Peter Navarro's anti-India post was fact
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYnp4QVdsamFaNHZfcXZTQ3hpc2V5NERBT05wU3UyYUpnWVd4N0lfTEJLdTNKaVctdnc3d0xMd1dzclBDaFRnMHVFZGw3Wjd6UGFrYkZ6RktXcnlmS19zQk81QVh4dGE5b1BkTkJaRkI5VDFhSjluWmVzWTdNbWpKbHF1OXkzem0xbTNZNk1wWHR2N2VqaVNqTFVkeGRjb0FLaXNpZ0VGYnZkWGVEOFhNdWhLSUVucEROaHB5ZEhPeDlINTdrbDFMQ0pWTnQwUXd5VmstLWs1RDdNcGZxbGZiTVdMblRocUnSAewBQVVfeXFMT2hWS2k3Nk1NZndPUzZUcUZwMGpBN2VzdXRmbllJdktjWE9YMEVnREI3X1p2MTNwcHNjS3c3TV9uM3l4c21rQldzeFM0V25fams3QzBVUEJCWFU5TjNpUWNBSGxuanZkVUk4VmFLdEwtYVozRmkxaXZnWmdlOUhHQ1N3dnZmNkE0cnZvUTRZQjFwa0U2djlNS0tUVFowcldHNjZoeVJnUThPSWx0NG52Y1oyS0w3TG1lcTA2X256UkxKNjFEeXpzb0FjT25NQ0NNMlFHck5McVN3RDhKbExqM0lCdGZsR3ZPOWxJRHc?oc=5
+
+- "You Hear All Sides": Musk After X Fact-Checks Trump Aide's Anti-India Post - NDTV
+  "You Hear All Sides": Musk After X
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxPejNiT0xBdE5oZWZlcXFWUkJ1UUtPaFZDSC1Td1VwWHF4VDBvSXcwLXUtVXBXRFJHSC1HZWh6SVdBdWllWDJaQXl0YXFFM0RkMllMakk3ZVhLV3F3NWlBaTZLdVlFOGx1Q0UwZm1hZFpXSXl1VnR0REpsR0dKaHNfTU1pV2F0THNXY2xKNkU4dERTbHFMZ3FEQmUyVEdBSWUzNC14ZElCcHhwTGJtS3BpZllJdlhWRDlINDhYcWg3dUNwa3RsRVdHaENQNzV1em9Ya1NkZVByYWtCODdva1JkU2Rpc3BmNmZqdmk5ZEU0OW5lMWtodC1zQU1OSkV5RkdHRGNCRkZmWW1Ia2hWZHpB0gGXAkFVX3lxTE5laU1Kd0lrUWZaLVZrRVl3WloxbnpINlh4ZlZKZjdjZ2VMb0lURXZybUM0WGVkZFJRUnVTcWozZWhBUGxndmlNVF9HdWo3UThDSHhMMEhsT1M3aDd0aFc5MDRYQXlnN1dBa085RnZ4aGgwaENYM2FtN2k5dm9pNTQ4OUlqZ0pQZjJKY1VKWmpNOXhqeW9BTllRTEFQbDU2QkFyUFNEUXJtT1hJYzhSZU5OVUFtVGE5dUt3bFZPX00xQ2FjYWtwa0VGQXdUUTNMdkVxVm8ySWgxVXBxUURCZDY4dHhsU1gtTWFlZ21FLU5JemdXem5iUnRoUHFfWURfRi03dzNyM0d5U2NMdWlWVWdYUUlWWG5qbw?oc=5
+
+- 'Crap note': Peter Navarro attacks Musk’s X feature; accuses India of buying Russian oil solely to profit - Times of India
+  'Crap note': Peter Navarro attacks Musk’s X feature; accuses
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPMHozVEtCcGc4WFp1R1o3TnNtNmxxN3VrSU1EdTBvb0owd2FNN1ZHRUMzd01PNmduR2ZYWDUzejJDNWRPVjR1dmozSEtra0ZtSU1HWjcwa2NLSVVneDlYNXJ5VmFaNFVnbUgxczVwTUxHdGdDVHR5R1pQM0pmRnFfcFFRcVM0WjZJOUpMU1NHWHNlTE5DSVpGUFB0ZnZpY2FMNzZ5Nk5zOVVNMUQ5QnFMOXBRSWVxeHFXV2lYUWRQWWhuV0VBbjNVTTZEU3lVRzhMbnJOa0xCRzI0RjU0aWViTlljRVZrLVNFQko0VTlDekFiQlMzWGhlcnJ4VDc0emhq0gGGAkFVX3lxTFBQVk5DU0FldXFqcWU3YjJ5cTVId3B3MF9aZEFzUE8wOUFiYkRQRzdrNEVnV3Nyb3JKbHB5dEswQzIxMGZiSXlkNU0wNFBZQUVpYUo0V1RVdFZoRUZ5Ul90SDdFdjJCSjlrWHFnSEduc1NkOUdJU3BOelVab3dueU5xSXRlN1VVRjVKYXdUNmctZktHVDdTODF3M1M1eHVyMl85eC1aU1lSNzZNVGtQczR3NFZWZE4ydmswNDRGWHp2RGNkRFY2UmN2SXpudUdKMGdTVi1DQXhuTzM1SV9ndnF5LWtQNlpQOGZsTnNtMG1lbGVablotbE13dWdwMWhwQVJZT2FZdUE?oc=5
+
+- "Realised He Was Wrong About India": Ex-Diplomat As Trump Shifts Tone - NDTV
+  "Realised He Was Wrong About India":
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNUGRtN0FNcEhVem9YdTc3UklFV3k4Q0QxMkEydEVUZ2I4Wm13M2EzYjdCTnYwamlkLVVBQTdVQTlmVDZWVEY3VWFBbE9zR1FWeFBfVzUxV0d5ckw4cGVaUlhWTjQzQzVfRE4zU1lhZ0VNMWptTEJnV0xoRURUbGdnbmtINFl1M1JvZmxXdmwtOEdCMDhtcVRKNm9ERDJuSTJMc0FTR1EyR0p6VENRb3FORTJCQ29tNVdlQnhpSFVId9IBxwFBVV95cUxQQkMxNkdWVmNVOFFNSGZlTEdfc1MyTmNiOUFoX0ZYaXAwX1FmX3h1enVaVTdtQmY5RnU2Vkh2MXRXMXNSa2FZRlg1OUc2ZWV5Z054SUZOSVVNNk1JVldpaGZnb0pPUVlDbm1OTnJqNXpfTDFBRTc5S0VSaW1kYS1hUjRjWmZKNm5YNVJVT19aYmdOY0IyX0JDV2tEMVBTbFZfaEpvUThOLW80b1dHYXpFS0k2alFkb0YwcC1iLWZVTXlNUDNuWFM0?oc=5
 
 - ‘Trump realising he was wrong when…’: Ex-diplomat on US President's softened tone towards India, PM Modi | Watch | Latest News India - Hindustan Times
   ‘Trump realising he was wrong when…’: Ex-diplomat on US President
   🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU19EOW03c0gwYmpBVXkwUzVhSVVBOFJlZ014X1M2bzNacERFY0dmSFM3S3B2NGdRS2ZORno4aENobkZ3LU1OV0U3SlVJU1l6dG5OYTAwbGpaVTZkTkpHNTBocEVtcEMyZ2dMckdrVXN5bTVhWmlEMjZidDNwZTJlSzNIQ2p3UnBWUnQ5Smh1dDR0Szh5QlE3dGtoRlVva1ZsajdIaFZTaF8wZkt6SmJxcnd1RkRMOHJfRnN4UTNocVBfVGV3cnZlX3JkeFEtNUc5aVNlYURnMk1uWWd6SUtoZ1RjTEVMbEtNamNBS0F0M1FiM0XSAfgBQVVfeXFMUHNiVHBoaEhlN3QybXNTeEdoZjk4dW1xOHJ2bXJVOXdPSmNjZ29IYUcyLUktdFptd0dPRHZNRzViOEJveU1VRzVORDlKOHczLUVMdGFoZkJnWVMyc25RY0o4dzU5UXVUQXAzeHZZNkZoMEJaRFllM0VXRWJGa2NwZjk5OFI0ZnNWYW1CdFZMOHkxaVd0NE41MU15Q25Mb0tBcDhYRG85blpjUTNnd3dYblpBd0pHWGdwMFZPeXMzYWRWZUVocUl3QXNoeThFd1d0ZHFEcThkQmdGRXc0UHhPdkNFV3d3ZzJBaHoxaXBsVGZ5em5aNTlmM2o?oc=5
 
-- Trump Asked If He Is Ready To Reset Relations With India. His Response - NDTV
-  Trump Asked If He Is Ready To Reset Relations With India
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQng4NFBRRE1XYlVYQ0ZqNTlvYkYzazdGX051dWJseDU2NDFxMmprR2tCMFhYTmRGYkdTOVVSRnpRVzN4ZXZGb0VRcEVhNmpKQmxFV0RVWFhncUhIQlhnUUNOcDdSbERxME04b05hREF0d0VqY3QzYVlnYmYxSlNncTE3dW1oMWZkYTA1VmN3T1B0SzJZaHFZcWlDOW5WOTNCalhPNFRVOGFRUHJxY2pr0gG3AUFVX3lxTFB4YW42Q2IxWEo3MHZpMVRya0V1ZE00ZmliUWhiYlJQSThqMUkzcmFod01rRDVvaFcyZW5uNWxYRnREN3NzbGlfNkVSUlhsZGdZdVYyNWtQTWxFaEpsMVhibzlGanNMU0ljX3psREl3NVI1RnpkT3NRVkhyNnFCcWR0Sm5uaW5yRzRzUkF4azd5dFQ5Znl6cVpJd0NqQWRlVHFWYjRpTTE3d3hoU19wSUpXWjFSMlpPbw?oc=5
+- What Elon Musk said after Trump aide Peter Navarro's anti-India post was fact-checked on X | World News - Hindustan Times
+  What Elon Musk said after Trump aide Peter Navarro's anti-India post was fact
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYnp4QVdsamFaNHZfcXZTQ3hpc2V5NERBT05wU3UyYUpnWVd4N0lfTEJLdTNKaVctdnc3d0xMd1dzclBDaFRnMHVFZGw3Wjd6UGFrYkZ6RktXcnlmS19zQk81QVh4dGE5b1BkTkJaRkI5VDFhSjluWmVzWTdNbWpKbHF1OXkzem0xbTNZNk1wWHR2N2VqaVNqTFVkeGRjb0FLaXNpZ0VGYnZkWGVEOFhNdWhLSUVucEROaHB5ZEhPeDlINTdrbDFMQ0pWTnQwUXd5VmstLWs1RDdNcGZxbGZiTVdMblRocUnSAewBQVVfeXFMT2hWS2k3Nk1NZndPUzZUcUZwMGpBN2VzdXRmbllJdktjWE9YMEVnREI3X1p2MTNwcHNjS3c3TV9uM3l4c21rQldzeFM0V25fams3QzBVUEJCWFU5TjNpUWNBSGxuanZkVUk4VmFLdEwtYVozRmkxaXZnWmdlOUhHQ1N3dnZmNkE0cnZvUTRZQjFwa0U2djlNS0tUVFowcldHNjZoeVJnUThPSWx0NG52Y1oyS0w3TG1lcTA2X256UkxKNjFEeXpzb0FjT25NQ0NNMlFHck5McVN3RDhKbExqM0lCdGZsR3ZPOWxJRHc?oc=5
 
-- Political lobbyist Jason Miller meets Trump amid tensions in India-U.S. relations - The Hindu
-  Political lobbyist Jason Miller meets Trump amid tensions in India
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbUoxX044QlljMUlUU3h6WlhCSEpQVVNYeFdta3B4eFZnNHhxLXVVS2lpVnFyaFZzRjJObzlaNklXbm9Zdy1CNFR2RTNidDNpMmxNOTlzbDk2UjcyU0VocURoNkxvOWhKUW10N0VfTkFmMVI1WkpWVVUwZ0lJNS1tSEZmTmIxeVNUeVJvWXBFM0lSUkN3NTZfSjNTQTl3MWR5QUJpVkV0aGJlVUl2MWpBQlNOWWpKeVc3X3FaZU5GMzJiZEVoRVZsX004N0RTTGk30gHXAUFVX3lxTFA3T1dyWWJUUlZHYlY3WmJoQ2lNcmZQUnRfUzhMVE9uTGhBaGU4aTVFRGdYSVNDZUVDdl80aS02cHpoZFB2dkVIR1RyS2R3dm9DclpNdVB1US0zcC1pT2ttWVNrTWVEZXZ3YmVOMWlOcWNScDB2Rm8wazZVYXdYYVdwNUZWQVZUQU1nYlJRLThwa1dDTzNGNWUzYktsaDFuT0F0TmpGZUJRb2dtMWxTNlhvVnpCVEtiN3I4UEExcE1iZUJPVTBhRFB2czVCRUJneXhJRng2a1dV?oc=5
+- "You Hear All Sides": Musk After X Fact-Checks Trump Aide's Anti-India Post - NDTV
+  "You Hear All Sides": Musk After X
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxPejNiT0xBdE5oZWZlcXFWUkJ1UUtPaFZDSC1Td1VwWHF4VDBvSXcwLXUtVXBXRFJHSC1HZWh6SVdBdWllWDJaQXl0YXFFM0RkMllMakk3ZVhLV3F3NWlBaTZLdVlFOGx1Q0UwZm1hZFpXSXl1VnR0REpsR0dKaHNfTU1pV2F0THNXY2xKNkU4dERTbHFMZ3FEQmUyVEdBSWUzNC14ZElCcHhwTGJtS3BpZllJdlhWRDlINDhYcWg3dUNwa3RsRVdHaENQNzV1em9Ya1NkZVByYWtCODdva1JkU2Rpc3BmNmZqdmk5ZEU0OW5lMWtodC1zQU1OSkV5RkdHRGNCRkZmWW1Ia2hWZHpB0gGXAkFVX3lxTE5laU1Kd0lrUWZaLVZrRVl3WloxbnpINlh4ZlZKZjdjZ2VMb0lURXZybUM0WGVkZFJRUnVTcWozZWhBUGxndmlNVF9HdWo3UThDSHhMMEhsT1M3aDd0aFc5MDRYQXlnN1dBa085RnZ4aGgwaENYM2FtN2k5dm9pNTQ4OUlqZ0pQZjJKY1VKWmpNOXhqeW9BTllRTEFQbDU2QkFyUFNEUXJtT1hJYzhSZU5OVUFtVGE5dUt3bFZPX00xQ2FjYWtwa0VGQXdUUTNMdkVxVm8ySWgxVXBxUURCZDY4dHhsU1gtTWFlZ21FLU5JemdXem5iUnRoUHFfWURfRi03dzNyM0d5U2NMdWlWVWdYUUlWWG5qbw?oc=5
 
-- India, EU Working To Seal Free Trade Agreement By December: Report - NDTV
-  India, EU Working To Seal Free Trade Agreement
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVd0UFJ1ZWlZbjMzeVVROFV6TkxYZkJ5UnhLVzdNcmxFX0RaR3B1UW9VbTRLcUZlOUJ6ODFSRGs2RGczNHd3aEZXdzJBc3ZMOThkWmVDWTNVMEVwVnY4OWd0VHZ1dXFVRzFVVjR6TDlXbkJ5eEFaa3B1RzlXRElpTzlvZk9Oa2laMXJybUJ6ajhWRnBERFcyZC1TWXdtXzZ4OC1OUUhnd9IBrwFBVV95cUxQTzRCUDdPempMWDQ5T0pFRGJ2cU5tV3ZLVmh2cXhSS0tGMUg4b0p5RzhQNExtd2FQQW5hNzY1aHN2Z1lQdkdqX0F2SkN1eGowMzdOZHdvOUoxdUZvMUhySUtSbGI3alRjR1hIWHAzeWRrdmNzQ0dKSHF6d0JuUmlpRlpnaHJZM1liVW9JVXZObHlmNDlvWUhkY1BINzFqX0F1RVVDaWpNcl9mamx6OHRr?oc=5
+- 'Crap note': Peter Navarro attacks Musk’s X feature; accuses India of buying Russian oil solely to profit - Times of India
+  'Crap note': Peter Navarro attacks Musk’s X feature; accuses
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPMHozVEtCcGc4WFp1R1o3TnNtNmxxN3VrSU1EdTBvb0owd2FNN1ZHRUMzd01PNmduR2ZYWDUzejJDNWRPVjR1dmozSEtra0ZtSU1HWjcwa2NLSVVneDlYNXJ5VmFaNFVnbUgxczVwTUxHdGdDVHR5R1pQM0pmRnFfcFFRcVM0WjZJOUpMU1NHWHNlTE5DSVpGUFB0ZnZpY2FMNzZ5Nk5zOVVNMUQ5QnFMOXBRSWVxeHFXV2lYUWRQWWhuV0VBbjNVTTZEU3lVRzhMbnJOa0xCRzI0RjU0aWViTlljRVZrLVNFQko0VTlDekFiQlMzWGhlcnJ4VDc0emhq0gGGAkFVX3lxTFBQVk5DU0FldXFqcWU3YjJ5cTVId3B3MF9aZEFzUE8wOUFiYkRQRzdrNEVnV3Nyb3JKbHB5dEswQzIxMGZiSXlkNU0wNFBZQUVpYUo0V1RVdFZoRUZ5Ul90SDdFdjJCSjlrWHFnSEduc1NkOUdJU3BOelVab3dueU5xSXRlN1VVRjVKYXdUNmctZktHVDdTODF3M1M1eHVyMl85eC1aU1lSNzZNVGtQczR3NFZWZE4ydmswNDRGWHp2RGNkRFY2UmN2SXpudUdKMGdTVi1DQXhuTzM1SV9ndnF5LWtQNlpQOGZsTnNtMG1lbGVablotbE13dWdwMWhwQVJZT2FZdUE?oc=5
 
-- India, EU eye headway as free trade agreement talks advance today | Latest News India - Hindustan Times
-  India, EU eye headway as free trade agreement talks advance today.
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNaThqYzYzcGp3QWYwVDVOUHhvbExLcTA3Si10TDcyamZFc00tLWRZaXZDUkJzQzNLSTg5NUNYejREVER6Q0tHVjdkb2UxT2ZHV1d0eUpZQ1dOMmZvZGZ2ZWpKSTNXczRtc2hJdEw4NHpTQVlMb0Z0ZDdCRnZDOFZiNUZMcmtKSUg5N0E2Z0ZJd2QwUkdLaUtnZG5yZTNfcG5yNHY1Q2k3bVhieGU5cHNz0gG0AUFVX3lxTE9zMndEdlRxb0NiT2MwWWtEM1NHcUdtUkJJMzFDczFPbDY5X054cmdTaEhKOFV1QnhDb0dmM1Izb2I5cTFndk1uVV8zSVB4a1BmSThqaVF1cWExQXQyOXgwZm1EemxoUl9yaHVyaGhmYU9jeUdqV3V6eXBOVWxkZkZ5dGRMX0VxZWU1NjZCSGhsVExQc2tFZ3VOaXJxNnNSWU1zWk5kZ21tYTNyNGh6a0tzWmpraw?oc=5
+- "Realised He Was Wrong About India": Ex-Diplomat As Trump Shifts Tone - NDTV
+  "Realised He Was Wrong About India":
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNUGRtN0FNcEhVem9YdTc3UklFV3k4Q0QxMkEydEVUZ2I4Wm13M2EzYjdCTnYwamlkLVVBQTdVQTlmVDZWVEY3VWFBbE9zR1FWeFBfVzUxV0d5ckw4cGVaUlhWTjQzQzVfRE4zU1lhZ0VNMWptTEJnV0xoRURUbGdnbmtINFl1M1JvZmxXdmwtOEdCMDhtcVRKNm9ERDJuSTJMc0FTR1EyR0p6VENRb3FORTJCQ29tNVdlQnhpSFVId9IBxwFBVV95cUxQQkMxNkdWVmNVOFFNSGZlTEdfc1MyTmNiOUFoX0ZYaXAwX1FmX3h1enVaVTdtQmY5RnU2Vkh2MXRXMXNSa2FZRlg1OUc2ZWV5Z054SUZOSVVNNk1JVldpaGZnb0pPUVlDbm1OTnJqNXpfTDFBRTc5S0VSaW1kYS1hUjRjWmZKNm5YNVJVT19aYmdOY0IyX0JDV2tEMVBTbFZfaEpvUThOLW80b1dHYXpFS0k2alFkb0YwcC1iLWZVTXlNUDNuWFM0?oc=5
 
 - ‘Trump realising he was wrong when…’: Ex-diplomat on US President's softened tone towards India, PM Modi | Watch | Latest News India - Hindustan Times
   ‘Trump realising he was wrong when…’: Ex-diplomat on US President
   🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU19EOW03c0gwYmpBVXkwUzVhSVVBOFJlZ014X1M2bzNacERFY0dmSFM3S3B2NGdRS2ZORno4aENobkZ3LU1OV0U3SlVJU1l6dG5OYTAwbGpaVTZkTkpHNTBocEVtcEMyZ2dMckdrVXN5bTVhWmlEMjZidDNwZTJlSzNIQ2p3UnBWUnQ5Smh1dDR0Szh5QlE3dGtoRlVva1ZsajdIaFZTaF8wZkt6SmJxcnd1RkRMOHJfRnN4UTNocVBfVGV3cnZlX3JkeFEtNUc5aVNlYURnMk1uWWd6SUtoZ1RjTEVMbEtNamNBS0F0M1FiM0XSAfgBQVVfeXFMUHNiVHBoaEhlN3QybXNTeEdoZjk4dW1xOHJ2bXJVOXdPSmNjZ29IYUcyLUktdFptd0dPRHZNRzViOEJveU1VRzVORDlKOHczLUVMdGFoZkJnWVMyc25RY0o4dzU5UXVUQXAzeHZZNkZoMEJaRFllM0VXRWJGa2NwZjk5OFI0ZnNWYW1CdFZMOHkxaVd0NE41MU15Q25Mb0tBcDhYRG85blpjUTNnd3dYblpBd0pHWGdwMFZPeXMzYWRWZUVocUl3QXNoeThFd1d0ZHFEcThkQmdGRXc0UHhPdkNFV3d3ZzJBaHoxaXBsVGZ5em5aNTlmM2o?oc=5
 
-- Trump Asked If He Is Ready To Reset Relations With India. His Response - NDTV
-  Trump Asked If He Is Ready To Reset Relations With India
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQng4NFBRRE1XYlVYQ0ZqNTlvYkYzazdGX051dWJseDU2NDFxMmprR2tCMFhYTmRGYkdTOVVSRnpRVzN4ZXZGb0VRcEVhNmpKQmxFV0RVWFhncUhIQlhnUUNOcDdSbERxME04b05hREF0d0VqY3QzYVlnYmYxSlNncTE3dW1oMWZkYTA1VmN3T1B0SzJZaHFZcWlDOW5WOTNCalhPNFRVOGFRUHJxY2pr0gG3AUFVX3lxTFB4YW42Q2IxWEo3MHZpMVRya0V1ZE00ZmliUWhiYlJQSThqMUkzcmFod01rRDVvaFcyZW5uNWxYRnREN3NzbGlfNkVSUlhsZGdZdVYyNWtQTWxFaEpsMVhibzlGanNMU0ljX3psREl3NVI1RnpkT3NRVkhyNnFCcWR0Sm5uaW5yRzRzUkF4azd5dFQ5Znl6cVpJd0NqQWRlVHFWYjRpTTE3d3hoU19wSUpXWjFSMlpPbw?oc=5
+- What Elon Musk said after Trump aide Peter Navarro's anti-India post was fact-checked on X | World News - Hindustan Times
+  What Elon Musk said after Trump aide Peter Navarro's anti-India post was fact
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYnp4QVdsamFaNHZfcXZTQ3hpc2V5NERBT05wU3UyYUpnWVd4N0lfTEJLdTNKaVctdnc3d0xMd1dzclBDaFRnMHVFZGw3Wjd6UGFrYkZ6RktXcnlmS19zQk81QVh4dGE5b1BkTkJaRkI5VDFhSjluWmVzWTdNbWpKbHF1OXkzem0xbTNZNk1wWHR2N2VqaVNqTFVkeGRjb0FLaXNpZ0VGYnZkWGVEOFhNdWhLSUVucEROaHB5ZEhPeDlINTdrbDFMQ0pWTnQwUXd5VmstLWs1RDdNcGZxbGZiTVdMblRocUnSAewBQVVfeXFMT2hWS2k3Nk1NZndPUzZUcUZwMGpBN2VzdXRmbllJdktjWE9YMEVnREI3X1p2MTNwcHNjS3c3TV9uM3l4c21rQldzeFM0V25fams3QzBVUEJCWFU5TjNpUWNBSGxuanZkVUk4VmFLdEwtYVozRmkxaXZnWmdlOUhHQ1N3dnZmNkE0cnZvUTRZQjFwa0U2djlNS0tUVFowcldHNjZoeVJnUThPSWx0NG52Y1oyS0w3TG1lcTA2X256UkxKNjFEeXpzb0FjT25NQ0NNMlFHck5McVN3RDhKbExqM0lCdGZsR3ZPOWxJRHc?oc=5
 
-- Political lobbyist Jason Miller meets Trump amid tensions in India-U.S. relations - The Hindu
-  Political lobbyist Jason Miller meets Trump amid tensions in India
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbUoxX044QlljMUlUU3h6WlhCSEpQVVNYeFdta3B4eFZnNHhxLXVVS2lpVnFyaFZzRjJObzlaNklXbm9Zdy1CNFR2RTNidDNpMmxNOTlzbDk2UjcyU0VocURoNkxvOWhKUW10N0VfTkFmMVI1WkpWVVUwZ0lJNS1tSEZmTmIxeVNUeVJvWXBFM0lSUkN3NTZfSjNTQTl3MWR5QUJpVkV0aGJlVUl2MWpBQlNOWWpKeVc3X3FaZU5GMzJiZEVoRVZsX004N0RTTGk30gHXAUFVX3lxTFA3T1dyWWJUUlZHYlY3WmJoQ2lNcmZQUnRfUzhMVE9uTGhBaGU4aTVFRGdYSVNDZUVDdl80aS02cHpoZFB2dkVIR1RyS2R3dm9DclpNdVB1US0zcC1pT2ttWVNrTWVEZXZ3YmVOMWlOcWNScDB2Rm8wazZVYXdYYVdwNUZWQVZUQU1nYlJRLThwa1dDTzNGNWUzYktsaDFuT0F0TmpGZUJRb2dtMWxTNlhvVnpCVEtiN3I4UEExcE1iZUJPVTBhRFB2czVCRUJneXhJRng2a1dV?oc=5
+- "You Hear All Sides": Musk After X Fact-Checks Trump Aide's Anti-India Post - NDTV
+  "You Hear All Sides": Musk After X
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxPejNiT0xBdE5oZWZlcXFWUkJ1UUtPaFZDSC1Td1VwWHF4VDBvSXcwLXUtVXBXRFJHSC1HZWh6SVdBdWllWDJaQXl0YXFFM0RkMllMakk3ZVhLV3F3NWlBaTZLdVlFOGx1Q0UwZm1hZFpXSXl1VnR0REpsR0dKaHNfTU1pV2F0THNXY2xKNkU4dERTbHFMZ3FEQmUyVEdBSWUzNC14ZElCcHhwTGJtS3BpZllJdlhWRDlINDhYcWg3dUNwa3RsRVdHaENQNzV1em9Ya1NkZVByYWtCODdva1JkU2Rpc3BmNmZqdmk5ZEU0OW5lMWtodC1zQU1OSkV5RkdHRGNCRkZmWW1Ia2hWZHpB0gGXAkFVX3lxTE5laU1Kd0lrUWZaLVZrRVl3WloxbnpINlh4ZlZKZjdjZ2VMb0lURXZybUM0WGVkZFJRUnVTcWozZWhBUGxndmlNVF9HdWo3UThDSHhMMEhsT1M3aDd0aFc5MDRYQXlnN1dBa085RnZ4aGgwaENYM2FtN2k5dm9pNTQ4OUlqZ0pQZjJKY1VKWmpNOXhqeW9BTllRTEFQbDU2QkFyUFNEUXJtT1hJYzhSZU5OVUFtVGE5dUt3bFZPX00xQ2FjYWtwa0VGQXdUUTNMdkVxVm8ySWgxVXBxUURCZDY4dHhsU1gtTWFlZ21FLU5JemdXem5iUnRoUHFfWURfRi03dzNyM0d5U2NMdWlWVWdYUUlWWG5qbw?oc=5
 
-- India, EU Working To Seal Free Trade Agreement By December: Report - NDTV
-  India, EU Working To Seal Free Trade Agreement
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVd0UFJ1ZWlZbjMzeVVROFV6TkxYZkJ5UnhLVzdNcmxFX0RaR3B1UW9VbTRLcUZlOUJ6ODFSRGs2RGczNHd3aEZXdzJBc3ZMOThkWmVDWTNVMEVwVnY4OWd0VHZ1dXFVRzFVVjR6TDlXbkJ5eEFaa3B1RzlXRElpTzlvZk9Oa2laMXJybUJ6ajhWRnBERFcyZC1TWXdtXzZ4OC1OUUhnd9IBrwFBVV95cUxQTzRCUDdPempMWDQ5T0pFRGJ2cU5tV3ZLVmh2cXhSS0tGMUg4b0p5RzhQNExtd2FQQW5hNzY1aHN2Z1lQdkdqX0F2SkN1eGowMzdOZHdvOUoxdUZvMUhySUtSbGI3alRjR1hIWHAzeWRrdmNzQ0dKSHF6d0JuUmlpRlpnaHJZM1liVW9JVXZObHlmNDlvWUhkY1BINzFqX0F1RVVDaWpNcl9mamx6OHRr?oc=5
+- 'Crap note': Peter Navarro attacks Musk’s X feature; accuses India of buying Russian oil solely to profit - Times of India
+  'Crap note': Peter Navarro attacks Musk’s X feature; accuses
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPMHozVEtCcGc4WFp1R1o3TnNtNmxxN3VrSU1EdTBvb0owd2FNN1ZHRUMzd01PNmduR2ZYWDUzejJDNWRPVjR1dmozSEtra0ZtSU1HWjcwa2NLSVVneDlYNXJ5VmFaNFVnbUgxczVwTUxHdGdDVHR5R1pQM0pmRnFfcFFRcVM0WjZJOUpMU1NHWHNlTE5DSVpGUFB0ZnZpY2FMNzZ5Nk5zOVVNMUQ5QnFMOXBRSWVxeHFXV2lYUWRQWWhuV0VBbjNVTTZEU3lVRzhMbnJOa0xCRzI0RjU0aWViTlljRVZrLVNFQko0VTlDekFiQlMzWGhlcnJ4VDc0emhq0gGGAkFVX3lxTFBQVk5DU0FldXFqcWU3YjJ5cTVId3B3MF9aZEFzUE8wOUFiYkRQRzdrNEVnV3Nyb3JKbHB5dEswQzIxMGZiSXlkNU0wNFBZQUVpYUo0V1RVdFZoRUZ5Ul90SDdFdjJCSjlrWHFnSEduc1NkOUdJU3BOelVab3dueU5xSXRlN1VVRjVKYXdUNmctZktHVDdTODF3M1M1eHVyMl85eC1aU1lSNzZNVGtQczR3NFZWZE4ydmswNDRGWHp2RGNkRFY2UmN2SXpudUdKMGdTVi1DQXhuTzM1SV9ndnF5LWtQNlpQOGZsTnNtMG1lbGVablotbE13dWdwMWhwQVJZT2FZdUE?oc=5
 
-- India, EU eye headway as free trade agreement talks advance today | Latest News India - Hindustan Times
-  India, EU eye headway as free trade agreement talks advance today.
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNaThqYzYzcGp3QWYwVDVOUHhvbExLcTA3Si10TDcyamZFc00tLWRZaXZDUkJzQzNLSTg5NUNYejREVER6Q0tHVjdkb2UxT2ZHV1d0eUpZQ1dOMmZvZGZ2ZWpKSTNXczRtc2hJdEw4NHpTQVlMb0Z0ZDdCRnZDOFZiNUZMcmtKSUg5N0E2Z0ZJd2QwUkdLaUtnZG5yZTNfcG5yNHY1Q2k3bVhieGU5cHNz0gG0AUFVX3lxTE9zMndEdlRxb0NiT2MwWWtEM1NHcUdtUkJJMzFDczFPbDY5X054cmdTaEhKOFV1QnhDb0dmM1Izb2I5cTFndk1uVV8zSVB4a1BmSThqaVF1cWExQXQyOXgwZm1EemxoUl9yaHVyaGhmYU9jeUdqV3V6eXBOVWxkZkZ5dGRMX0VxZWU1NjZCSGhsVExQc2tFZ3VOaXJxNnNSWU1zWk5kZ21tYTNyNGh6a0tzWmpraw?oc=5
+- "Realised He Was Wrong About India": Ex-Diplomat As Trump Shifts Tone - NDTV
+  "Realised He Was Wrong About India":
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNUGRtN0FNcEhVem9YdTc3UklFV3k4Q0QxMkEydEVUZ2I4Wm13M2EzYjdCTnYwamlkLVVBQTdVQTlmVDZWVEY3VWFBbE9zR1FWeFBfVzUxV0d5ckw4cGVaUlhWTjQzQzVfRE4zU1lhZ0VNMWptTEJnV0xoRURUbGdnbmtINFl1M1JvZmxXdmwtOEdCMDhtcVRKNm9ERDJuSTJMc0FTR1EyR0p6VENRb3FORTJCQ29tNVdlQnhpSFVId9IBxwFBVV95cUxQQkMxNkdWVmNVOFFNSGZlTEdfc1MyTmNiOUFoX0ZYaXAwX1FmX3h1enVaVTdtQmY5RnU2Vkh2MXRXMXNSa2FZRlg1OUc2ZWV5Z054SUZOSVVNNk1JVldpaGZnb0pPUVlDbm1OTnJqNXpfTDFBRTc5S0VSaW1kYS1hUjRjWmZKNm5YNVJVT19aYmdOY0IyX0JDV2tEMVBTbFZfaEpvUThOLW80b1dHYXpFS0k2alFkb0YwcC1iLWZVTXlNUDNuWFM0?oc=5
+
+- ‘Trump realising he was wrong when…’: Ex-diplomat on US President's softened tone towards India, PM Modi | Watch | Latest News India - Hindustan Times
+  ‘Trump realising he was wrong when…’: Ex-diplomat on US President
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU19EOW03c0gwYmpBVXkwUzVhSVVBOFJlZ014X1M2bzNacERFY0dmSFM3S3B2NGdRS2ZORno4aENobkZ3LU1OV0U3SlVJU1l6dG5OYTAwbGpaVTZkTkpHNTBocEVtcEMyZ2dMckdrVXN5bTVhWmlEMjZidDNwZTJlSzNIQ2p3UnBWUnQ5Smh1dDR0Szh5QlE3dGtoRlVva1ZsajdIaFZTaF8wZkt6SmJxcnd1RkRMOHJfRnN4UTNocVBfVGV3cnZlX3JkeFEtNUc5aVNlYURnMk1uWWd6SUtoZ1RjTEVMbEtNamNBS0F0M1FiM0XSAfgBQVVfeXFMUHNiVHBoaEhlN3QybXNTeEdoZjk4dW1xOHJ2bXJVOXdPSmNjZ29IYUcyLUktdFptd0dPRHZNRzViOEJveU1VRzVORDlKOHczLUVMdGFoZkJnWVMyc25RY0o4dzU5UXVUQXAzeHZZNkZoMEJaRFllM0VXRWJGa2NwZjk5OFI0ZnNWYW1CdFZMOHkxaVd0NE41MU15Q25Mb0tBcDhYRG85blpjUTNnd3dYblpBd0pHWGdwMFZPeXMzYWRWZUVocUl3QXNoeThFd1d0ZHFEcThkQmdGRXc0UHhPdkNFV3d3ZzJBaHoxaXBsVGZ5em5aNTlmM2o?oc=5
+
+- What Elon Musk said after Trump aide Peter Navarro's anti-India post was fact-checked on X | World News - Hindustan Times
+  What Elon Musk said after Trump aide Peter Navarro's anti-India post was fact
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYnp4QVdsamFaNHZfcXZTQ3hpc2V5NERBT05wU3UyYUpnWVd4N0lfTEJLdTNKaVctdnc3d0xMd1dzclBDaFRnMHVFZGw3Wjd6UGFrYkZ6RktXcnlmS19zQk81QVh4dGE5b1BkTkJaRkI5VDFhSjluWmVzWTdNbWpKbHF1OXkzem0xbTNZNk1wWHR2N2VqaVNqTFVkeGRjb0FLaXNpZ0VGYnZkWGVEOFhNdWhLSUVucEROaHB5ZEhPeDlINTdrbDFMQ0pWTnQwUXd5VmstLWs1RDdNcGZxbGZiTVdMblRocUnSAewBQVVfeXFMT2hWS2k3Nk1NZndPUzZUcUZwMGpBN2VzdXRmbllJdktjWE9YMEVnREI3X1p2MTNwcHNjS3c3TV9uM3l4c21rQldzeFM0V25fams3QzBVUEJCWFU5TjNpUWNBSGxuanZkVUk4VmFLdEwtYVozRmkxaXZnWmdlOUhHQ1N3dnZmNkE0cnZvUTRZQjFwa0U2djlNS0tUVFowcldHNjZoeVJnUThPSWx0NG52Y1oyS0w3TG1lcTA2X256UkxKNjFEeXpzb0FjT25NQ0NNMlFHck5McVN3RDhKbExqM0lCdGZsR3ZPOWxJRHc?oc=5
+
+- "You Hear All Sides": Musk After X Fact-Checks Trump Aide's Anti-India Post - NDTV
+  "You Hear All Sides": Musk After X
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxPejNiT0xBdE5oZWZlcXFWUkJ1UUtPaFZDSC1Td1VwWHF4VDBvSXcwLXUtVXBXRFJHSC1HZWh6SVdBdWllWDJaQXl0YXFFM0RkMllMakk3ZVhLV3F3NWlBaTZLdVlFOGx1Q0UwZm1hZFpXSXl1VnR0REpsR0dKaHNfTU1pV2F0THNXY2xKNkU4dERTbHFMZ3FEQmUyVEdBSWUzNC14ZElCcHhwTGJtS3BpZllJdlhWRDlINDhYcWg3dUNwa3RsRVdHaENQNzV1em9Ya1NkZVByYWtCODdva1JkU2Rpc3BmNmZqdmk5ZEU0OW5lMWtodC1zQU1OSkV5RkdHRGNCRkZmWW1Ia2hWZHpB0gGXAkFVX3lxTE5laU1Kd0lrUWZaLVZrRVl3WloxbnpINlh4ZlZKZjdjZ2VMb0lURXZybUM0WGVkZFJRUnVTcWozZWhBUGxndmlNVF9HdWo3UThDSHhMMEhsT1M3aDd0aFc5MDRYQXlnN1dBa085RnZ4aGgwaENYM2FtN2k5dm9pNTQ4OUlqZ0pQZjJKY1VKWmpNOXhqeW9BTllRTEFQbDU2QkFyUFNEUXJtT1hJYzhSZU5OVUFtVGE5dUt3bFZPX00xQ2FjYWtwa0VGQXdUUTNMdkVxVm8ySWgxVXBxUURCZDY4dHhsU1gtTWFlZ21FLU5JemdXem5iUnRoUHFfWURfRi03dzNyM0d5U2NMdWlWVWdYUUlWWG5qbw?oc=5
+
+- 'Crap note': Peter Navarro attacks Musk’s X feature; accuses India of buying Russian oil solely to profit - Times of India
+  'Crap note': Peter Navarro attacks Musk’s X feature; accuses
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPMHozVEtCcGc4WFp1R1o3TnNtNmxxN3VrSU1EdTBvb0owd2FNN1ZHRUMzd01PNmduR2ZYWDUzejJDNWRPVjR1dmozSEtra0ZtSU1HWjcwa2NLSVVneDlYNXJ5VmFaNFVnbUgxczVwTUxHdGdDVHR5R1pQM0pmRnFfcFFRcVM0WjZJOUpMU1NHWHNlTE5DSVpGUFB0ZnZpY2FMNzZ5Nk5zOVVNMUQ5QnFMOXBRSWVxeHFXV2lYUWRQWWhuV0VBbjNVTTZEU3lVRzhMbnJOa0xCRzI0RjU0aWViTlljRVZrLVNFQko0VTlDekFiQlMzWGhlcnJ4VDc0emhq0gGGAkFVX3lxTFBQVk5DU0FldXFqcWU3YjJ5cTVId3B3MF9aZEFzUE8wOUFiYkRQRzdrNEVnV3Nyb3JKbHB5dEswQzIxMGZiSXlkNU0wNFBZQUVpYUo0V1RVdFZoRUZ5Ul90SDdFdjJCSjlrWHFnSEduc1NkOUdJU3BOelVab3dueU5xSXRlN1VVRjVKYXdUNmctZktHVDdTODF3M1M1eHVyMl85eC1aU1lSNzZNVGtQczR3NFZWZE4ydmswNDRGWHp2RGNkRFY2UmN2SXpudUdKMGdTVi1DQXhuTzM1SV9ndnF5LWtQNlpQOGZsTnNtMG1lbGVablotbE13dWdwMWhwQVJZT2FZdUE?oc=5
+
+- "Realised He Was Wrong About India": Ex-Diplomat As Trump Shifts Tone - NDTV
+  "Realised He Was Wrong About India":
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNUGRtN0FNcEhVem9YdTc3UklFV3k4Q0QxMkEydEVUZ2I4Wm13M2EzYjdCTnYwamlkLVVBQTdVQTlmVDZWVEY3VWFBbE9zR1FWeFBfVzUxV0d5ckw4cGVaUlhWTjQzQzVfRE4zU1lhZ0VNMWptTEJnV0xoRURUbGdnbmtINFl1M1JvZmxXdmwtOEdCMDhtcVRKNm9ERDJuSTJMc0FTR1EyR0p6VENRb3FORTJCQ29tNVdlQnhpSFVId9IBxwFBVV95cUxQQkMxNkdWVmNVOFFNSGZlTEdfc1MyTmNiOUFoX0ZYaXAwX1FmX3h1enVaVTdtQmY5RnU2Vkh2MXRXMXNSa2FZRlg1OUc2ZWV5Z054SUZOSVVNNk1JVldpaGZnb0pPUVlDbm1OTnJqNXpfTDFBRTc5S0VSaW1kYS1hUjRjWmZKNm5YNVJVT19aYmdOY0IyX0JDV2tEMVBTbFZfaEpvUThOLW80b1dHYXpFS0k2alFkb0YwcC1iLWZVTXlNUDNuWFM0?oc=5
+
+- ‘Trump realising he was wrong when…’: Ex-diplomat on US President's softened tone towards India, PM Modi | Watch | Latest News India - Hindustan Times
+  ‘Trump realising he was wrong when…’: Ex-diplomat on US President
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU19EOW03c0gwYmpBVXkwUzVhSVVBOFJlZ014X1M2bzNacERFY0dmSFM3S3B2NGdRS2ZORno4aENobkZ3LU1OV0U3SlVJU1l6dG5OYTAwbGpaVTZkTkpHNTBocEVtcEMyZ2dMckdrVXN5bTVhWmlEMjZidDNwZTJlSzNIQ2p3UnBWUnQ5Smh1dDR0Szh5QlE3dGtoRlVva1ZsajdIaFZTaF8wZkt6SmJxcnd1RkRMOHJfRnN4UTNocVBfVGV3cnZlX3JkeFEtNUc5aVNlYURnMk1uWWd6SUtoZ1RjTEVMbEtNamNBS0F0M1FiM0XSAfgBQVVfeXFMUHNiVHBoaEhlN3QybXNTeEdoZjk4dW1xOHJ2bXJVOXdPSmNjZ29IYUcyLUktdFptd0dPRHZNRzViOEJveU1VRzVORDlKOHczLUVMdGFoZkJnWVMyc25RY0o4dzU5UXVUQXAzeHZZNkZoMEJaRFllM0VXRWJGa2NwZjk5OFI0ZnNWYW1CdFZMOHkxaVd0NE41MU15Q25Mb0tBcDhYRG85blpjUTNnd3dYblpBd0pHWGdwMFZPeXMzYWRWZUVocUl3QXNoeThFd1d0ZHFEcThkQmdGRXc0UHhPdkNFV3d3ZzJBaHoxaXBsVGZ5em5aNTlmM2o?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-08 01:13:20 UTC_
+_Last updated: 2025-09-08 06:28:27 UTC_
