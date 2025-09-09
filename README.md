@@ -1,204 +1,204 @@
 # 📰 Daily News Summaries
 
-- ‘Land-for-jobs’: Lalu Yadav asks Delhi HC to quash 2022 CBI case
+- Gold Today Rate, September 9: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/land-for-jobs-lalu-yadav-asks-delhi-hc-to-quash-2022-cbi-case-10238498/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-september-9-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10238910/
 
-- Welcome Indian firms, expect fair environment for ours: China envoy
+- Jagdeep Dhankar has maintained uncharacteristic silence, nation waits for him to speak out: Congress
   
-  🔗 https://indianexpress.com/article/india/welcome-indian-firms-expect-fair-environment-for-ours-china-envoy-10238459/
+  🔗 https://indianexpress.com/article/india/jagdeep-dhankar-uncharacteristic-silence-congress-india-10238734/
 
-- AAP J&K MLA Mehraj Malik arrest: Opposition questions use of PSA, BJP alleges he  is a ‘repeat offender’
+- Telangana High Court asks state police to submit action report on spy camera circular
   
-  🔗 https://indianexpress.com/article/india/aap-jk-mla-mehraj-malik-arrest-opposition-questions-use-of-psa-bjp-alleges-he-is-a-repeat-offender-10238494/
+  🔗 https://indianexpress.com/article/india/telangana-high-court-police-submit-action-report-spy-camera-circular-10238827/
 
-- Centre panel gives nod to assess impact of rock phosphate mine on bustard habitat
+- Three BJP leaders in Manipur join Congress
   
-  🔗 https://indianexpress.com/article/india/centre-panel-gives-nod-to-assess-impact-of-rock-phosphate-mine-on-bustard-habitat-10238478/
+  🔗 https://indianexpress.com/article/india/three-bjp-leaders-manipur-join-congress-10238737/
 
-- At BRICS, Jaishankar red-flags ‘linking of trade measures to non-trade matters’
+- News Today Live Updates, 9 September | Punjab chief secy steps in as minister Aman Arora’s vehicle denied entry to CM’s residence ahead of Cabinet meeting
   
-  🔗 https://indianexpress.com/article/india/at-brics-jaishankar-red-flags-linking-of-trade-measures-to-non-trade-matters-10238422/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-09-09-2025-news-headlines-10238577/
 
-- Google Meet down for over 15,000 users, Downdetector shows
+- Google Search’s AI Mode expands to Hindi and four more languages
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-meet-down-for-over-15000-users-downdetector-shows-10238252/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-search-ai-mode-hindi-support-rolling-out-now-10238867/
 
-- Amazon Great Indian Festival 2025 starts September 23: Deals on phones, flights, and more
+- iPhone buyers in India prefer non-Pro models and 128GB storage: Croma report
   
-  🔗 https://indianexpress.com/article/technology/amazon-great-indian-festival-2025-starts-september-23-deals-on-phones-flights-and-more-10238033/
+  🔗 https://indianexpress.com/article/technology/iphone-buyers-in-india-prefer-non-pro-models-and-128gb-storage-croma-report-10238944/
 
-- OpenAI’s fix for hallucinations? Incentivising AI models to say ‘I don’t know’
+- Intel announces key executive shake-up, says products chief Holthaus will exit
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-fix-hallucinations-incentivising-ai-models-10237849/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/intel-announces-key-executive-shake-up-says-products-chief-holthaus-will-exit-10238770/
 
-- Apple iPhone 17 Launch Event 2025 Live Streaming: How to watch Apple September keynote event live stream in India
+- SpaceX buys wireless spectrum from EchoStar in $17 billion deal
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-iphone-17-launch-how-to-watch-live-stream-in-india-10237526/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spacex-buys-wireless-spectrum-from-echostar-in-17-billion-deal-10238767/
 
-- OnePlus Nord Buds 3r review: Rich audio, great battery life
+- Chinese robotics firm Unitree eyeing $7 billion IPO valuation
   
-  🔗 https://indianexpress.com/article/technology/tech-reviews/oneplus-nord-buds-3r-review-audio-battery-life-10237275/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/chinese-robotics-firm-unitree-eyeing-7-billion-ipo-valuation-10238757/
 
-- Cookware startups stir competition pot with safe materials, smart supply chains
-  Indian households are turning away from Teflon-coated, non-stick cooking utensils. New-age startups like Cumin
-  🔗 https://www.livemint.com/companies/start-ups/cookware-startups-disrupt-kitchenware-market-with-patented-innovations-cumin-co-the-indus-valley-nestasia-11757328969265.html
+- Life insurance companies dismiss GST exemption concerns, see limited impact on input tax credit: Report
+  Life insurance companies have dismissed concerns over the impact of Goods and Services Tax (GST) exemption on input tax credit.
+  🔗 https://www.livemint.com/companies/news/life-insurance-companies-dismiss-gst-exemption-concerns-see-limited-impact-on-input-tax-credit-report-11757397746855.html
 
-- Pret A Manger Writes Down Sandwich Chain’s Value as Costs Soar
-  Pret A Manger Ltd. swung to a loss after writing down the value of the British sandwich chain by more than half a billion
-  🔗 https://www.livemint.com/companies/company-results/pret-a-manger-writes-down-sandwich-chain-s-value-as-costs-soar-11757374462918.html
+- US proposes new annual approval system for Samsung, SK Hynix semiconductor equipment shipments to China
+  The U.S. Department of Commerce is considering a new system of granting annual approvals for semiconductor equipment shipments to Chinese factories operated by Samsung Electronics Co. and SK Hynix Inc.
+  🔗 https://www.livemint.com/companies/news/us-proposes-new-annual-approval-system-for-samsung-sk-hynix-semiconductor-equipment-shipments-to-china-11757397082812.html
 
-- Strathcona Raises MEG Bid to Block Deal Made With Cenovus
-  Strathcona Resources Ltd. increased its bid for oil sands producer MEG Energy Corp. seeking to break up the
-  🔗 https://www.livemint.com/companies/company-results/strathcona-raises-meg-bid-to-block-deal-made-with-cenovus-11757371929489.html
+- UK-Backed Lender Calls on Funds to Champion Defense Investment
+  UK pension funds should be proud to declare investments in defense companies. Political climate has changed and reputational risks are diminishing, British Business Bank
+  🔗 https://www.livemint.com/companies/news/ukbacked-lender-calls-on-funds-to-champion-defense-investment-11757395817092.html
 
-- Goldman CEO Solomon Says Rates Aren’t Too Restrictive in Contrast With Trump
-  Goldman Sachs CEO says there's no need for the Federal Reserve to rapidly cut interest rates. David Solomon diverges from the Trump administration’s pressure
-  🔗 https://www.livemint.com/companies/news/goldman-ceo-solomon-says-rates-aren-t-too-restrictive-in-contrast-with-trump-11757366317464.html
+- Inside the Murdoch family deal ending billionaire media dynasty succession fight: 3 key things to know
+  Lachlan Murdoch has secured control of the Murdoch media empire. His siblings will receive $1.1 billion each for their shares. A new family trust will be established, granting Lach
+  🔗 https://www.livemint.com/companies/news/inside-murdoch-family-deal-ending-billionaire-media-dynasty-succession-fight-3-things-lachlan-murdoch-rupert-murdoch-11757386719719.html
 
-- Epstein Letter Allegedly From Trump Released by House Democrats
-  House Democrats released an alleged birthday note that they said Donald Trump sent to Jeffrey Epstein.
-  🔗 https://www.livemint.com/companies/news/epstein-letter-allegedly-from-trump-released-by-house-democrats-11757364443926.html
+- Who is Lachlan Murdoch? All about Rupert Murdoch’s son, who won succession battle for Fox News and WSJ
+  Lachlan Murdoch has secured control of the family media empire. His siblings will each receive $1.1 billion.
+  🔗 https://www.livemint.com/companies/people/who-is-lachlan-murdoch-all-about-rupert-murdoch-s-son-who-won-succession-battle-for-fox-news-and-wsj-11757379752950.html
 
-- Global Markets Today: Nikkei 225 hits fresh high of 44,000, Kospi continues to trade high for second day
-  Japan's Nikkei 225 surged 0.9 per cent to a record high crossing 44,000. South Korea's Kospi advanced 0.35 per cent
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-hits-fresh-high-of-44-000-kospi-continues-to-trade-high-for-second-day-11757378570077.html
+- Penny stock under  ₹5 rises for 43rd consecutive session, surges over 150% in less than 3 months. Do you own?
+  A penny stock under  ₹5 has been on a solid bull run since July this year. It has surged over 150 per cent in less than three
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-5-avance-tech-up-for-43rd-consecutive-session-surges-over-150-in-less-than-3-months-do-you-own-11757397814012.html
 
-- Stock market today: Trade setup for Nifty 50, US Fed rate cut to India-US trade deal; 7 stocks to buy or sell on Tuesday
-  The short-term outlook for Nifty would remain volatile. A fresh uptrend rally is possible only after crossing the 24,900 level. Above this, it
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-us-fed-rate-cut-to-india-us-trade-deal-7-stocks-to-buy-or-sell-on-tuesday-11757327733642.html
+- Auto stocks add $33 billion in market cap in less than a month boosted by GST rate cut
+  BSE Ltd.’s measure of 20 auto firms has added about $33 billion in market value since Aug. 15. Prime Minister Narendra Modi first announced the plan to lower goods
+  🔗 https://www.livemint.com/market/stock-market-news/auto-stocks-add-33-billion-in-market-cap-in-less-than-a-month-boosted-by-gst-rate-cut-11757396953725.html
 
-- Amanta Healthcare IPO listing date today. GMP, experts signal muted debut of shares in stock market today
-  Amanta Healthcare IPO listing date is today, September 9. Equity shares will be listed on both the stock exchanges, BSE and NSE.
-  🔗 https://www.livemint.com/market/ipo/amanta-healthcare-ipo-listing-date-today-gmp-experts-signal-muted-debut-of-shares-in-stock-market-today-11757378325264.html
+- US critical minerals list expands ahead of possible tariffs: Andy Home
+  US critical minerals list expands ahead of possible
+  🔗 https://www.livemint.com/market/stock-market-news/us-critical-minerals-list-expands-ahead-of-possible-tariffs-andy-home-11757397693954.html
 
-- Stocks to buy today: Ankush Bajaj's top three recommendations for 9 September
-  Market expert Ankush Bajaj recommends three stocks to buy today, Tuesday, 9 September.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-today-ankush-bajajs-top-three-recommendations-for-9-september-sensex-nifty-ashok-leyland-kaynes-muthoot-11757340243616.html
+- Oil Climbs in Risk-On Mood as Traders Weigh Saudi Price Cuts
+  Saudi Arabia trimmed pricing for most of its grades. Oil edged higher alongside equity markets.
+  🔗 https://www.livemint.com/market/stock-market-news/oil-climbs-in-risk-on-mood-as-traders-weigh-saudi-price-cuts-11757397691785.html
 
-- Stock recommendations for 9 September from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 9 September. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-stock-recommendations-9-september-marketsmith-india-swaraj-engines-sarda-energy-11757335838325.html
+- 6350% rally in five years! Multibagger small-cap stock jumps 3%; here's why
+  The small-cap stock has remained largely negative in short-term. The scrip has descended 34.
+  🔗 https://www.livemint.com/market/stock-market-news/6350-rally-in-five-years-multibagger-small-cap-stock-eraaya-lifespaces-jumps-3-heres-why-11757394358521.html
+
+- Sam Altman says ‘real people have picked up quirks of LLM-speak’ as AI Twitter and Reddit ‘feel fake’
+  OpenAI CEO Sam Altman has highlighted concerns over AI-generated content. He noted humans are adopting ‘LLM-speak’, making AI-focused
+  🔗 https://www.livemint.com/technology/tech-news/sam-altman-openai-ceo-says-real-people-have-picked-up-quirks-of-llm-speak-as-ai-twitter-and-reddit-feel-fake-11757394109020.html
+
+- iPhone 17, 17 Air, 17 Pro, 17 Pro Max last-minute leaks recall ahead of Apple's Awe Dropping Event tonight
+  Apple could unveil the iPhone 17 line-up at its ‘Awe Dropping’ event on 9 September. Updates may include a larger display
+  🔗 https://www.livemint.com/technology/gadgets/iphone-17-17-air-17-pro-17-pro-max-last-minute-leaks-recall-ahead-of-apples-awe-dropping-event-tonight-11757386196466.html
+
+- Apple ‘Awe Dropping’ Event: When and where to watch livestream in Canada, UK, US, Australia and China
+  Apple Event 2025: Apple’s Awe-Dropping Event takes place on 9 Sept. Livestream timings: US 10 a.m. PDT / 1 p.M. EDT; Canada 2 p.m AD
+  🔗 https://www.livemint.com/technology/gadgets/apple-awe-dropping-event-when-and-where-to-watch-livestream-in-canada-uk-us-australia-and-china-iphone-17-launch-11757383034482.html
+
+- Apple ‘Awe Dropping’ Event tonight: Where to watch livestream in India and what to expect
+  Apple’s ‘Awe Dropping’ event kicks off tonight at 10:30 PM IST. Expected launches include the iPhone 17 range with a new Air model. Apple Watch Series 11, Ultra 3,
+  🔗 https://www.livemint.com/technology/tech-news/apple-awe-dropping-event-tonight-where-to-watch-livestream-in-india-and-what-to-expect-11757381212956.html
 
 - Discord restores services after major outage affected 90,000 users in US
    Discord is back online after a major outage left tens of thousands unable to connect. Nearly 94,000
   🔗 https://www.livemint.com/technology/apps/discord-restores-services-after-major-outage-affected-90-000-users-in-us-11757376374733.html
 
-- $20-billion chip incentives with design, component focus on track for end-2025
-  Design-linked incentives are expected to increase 5x to  ₹5,000 crore in ISM 2.0. Budget approvals for it are
-  🔗 https://www.livemint.com/technology/semicondustor-ai-chips-incentives-design-component-fab-tata-electronics-eu-chips-act-murugappa-11757329666705.html
+- MosChip Technologies shares slide 10% after rallying 59% in 7 days. Should you buy the dip?
+  MosChip Technologies shares tumbled 10% on Tuesday following a 59% rally in seven sessions. Technical indicators suggest overbought conditions, analysts say. Long-term investors can consider using short-
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/moschip-technologies-shares-slide-10-after-rallying-59-in-7-days-should-you-buy-the-dip/articleshow/123779769.cms
 
-- Judge skewers $1.5B Anthropic settlement with authors in pirated books case over AI training
-  Judge skewers $1.5B Anthrop
-  🔗 https://www.livemint.com/technology/tech-news/judge-skewers-1-5b-anthropic-settlement-with-authors-in-pirated-books-case-over-ai-training-11757367464772.html
+- From cement to solar: How GST 2.0 could reprice Adani stocks
+  The Goods and Services Tax reforms are set to benefit Adani Group companies. Tax rate cuts on cement and renewable energy equipment are expected. Ambuja Cements and ACC could see stronger demand.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/from-cement-to-solar-how-gst-2-0-could-reprice-adani-stocks/articleshow/123779601.cms
 
-- 'Stress wasn’t sustainable’: 33 year old ex-Deloitte consultant explains why she left tech job for jewellery business
-  Former Deloitte consultant Jessica Yen shifted to entrepreneurship. Yen
-  🔗 https://www.livemint.com/technology/tech-news/stress-wasn-t-sustainable-33-year-old-ex-deloitte-consultant-explains-why-she-left-tech-job-for-jewellery-business-11757351982633.html
+- Sundaram Home enters Karnataka; eyes Rs 60 cr disbursements under EB segment
+  Sundaram Home Finance expands into Karnataka, targeting Tier II and III towns with 8-10 new branches. The company aims to disburse Rs 60 crore in the first year, focusing on small business loans and affordable housing finance.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sundaram-home-enters-karnataka-eyes-rs-60-cr-disbursements-under-eb-segment/articleshow/123779522.cms
 
-- OpenAI is making a full-length AI movie, and it’s set to debut at Cannes
-  The animated film 'Critterz', created with OpenAI's resources, follows forest creatures on an adventure. The project aims to prove AI's capability in film production,
-  🔗 https://www.livemint.com/technology/tech-news/openai-is-making-a-full-length-ai-movie-critterz-and-it-s-set-to-debut-at-cannes-11757346256354.html
+- Permira, Blackstone take $525 million minority stake in Dubai's Property Finder
+  Permira and Blackstone Inc. are acquiring a $525 million minority stake in Property Finder. General Atlantic, an existing investor, will partially exit but remain a significant shareholder.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/permira-blackstone-take-525-million-minority-stake-in-dubais-property-finder/articleshow/123779473.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  Investors awaiting key inflation data from India and the US. These figures are expected to influence the US Federal Reserve's monetary policy decisions.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/123770188.cms
+- Bank Indonesia buys longer-dated government bonds to stabilise market, traders say
+  Bank Indonesia bought longer-dated government bonds. They also intervened in the foreign exchange market. This was to ensure the Rupiah's exchange rate aligned with fundamentals.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/bank-indonesia-buys-longer-dated-government-bonds-to-stabilise-market-traders-say/articleshow/123779400.cms
 
-- Stocks in news: Infosys, Hero MotoCorp, Coal India, Hudco, Voltamp Transformers
-  Infosys will consider a buyback on September 11. Hudco is set to fund Nagpur Metro with Rs 11,300 crore. TVS Motor will pass on GST cut benefits. PCBL Chemical plans a capacity boost.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hero-motocorp-coal-india-hudco-voltamp-transformers/articleshow/123770140.cms
-
-- Analysts question Vedanta–JAL deal over lack of synergy
-  Analysts believe Jaiprakash Associates' businesses lack synergy with Vedanta. Vedanta's acquisition of the debt-laden firm for ₹17,000 crore has been met with shareholder skepticism.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/analysts-question-vedantajal-deal-over-lack-of-synergy/articleshow/123775947.cms
-
-- Is Inox Wind positioned to deliver long-term gains after recent surge?
-  Inox Wind shares have surged following positive Q1 results and an upgraded credit rating. The company anticipates faster project execution and has increased its margin guidance for FY24.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/is-inox-wind-positioned-to-deliver-long-term-gains-after-recent-surge/articleshow/123775921.cms
-
-- Ujjivan plans to raise Rs 2,000 crore via QIP route
-  Ujjivan Small Finance Bank plans to raise ₹2,000 crore through a qualified institutional placement. The bank has applied for a universal banking license and anticipates a decision by December.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ujjivan-plans-to-raise-rs-2000-crore-via-qip-route/articleshow/123775909.cms
-
-- "You Hear All Sides": Musk After X Fact-Checks Trump Aide's Anti-India Post - NDTV
-  "You Hear All Sides": Musk After X
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxPejNiT0xBdE5oZWZlcXFWUkJ1UUtPaFZDSC1Td1VwWHF4VDBvSXcwLXUtVXBXRFJHSC1HZWh6SVdBdWllWDJaQXl0YXFFM0RkMllMakk3ZVhLV3F3NWlBaTZLdVlFOGx1Q0UwZm1hZFpXSXl1VnR0REpsR0dKaHNfTU1pV2F0THNXY2xKNkU4dERTbHFMZ3FEQmUyVEdBSWUzNC14ZElCcHhwTGJtS3BpZllJdlhWRDlINDhYcWg3dUNwa3RsRVdHaENQNzV1em9Ya1NkZVByYWtCODdva1JkU2Rpc3BmNmZqdmk5ZEU0OW5lMWtodC1zQU1OSkV5RkdHRGNCRkZmWW1Ia2hWZHpB0gGXAkFVX3lxTE5laU1Kd0lrUWZaLVZrRVl3WloxbnpINlh4ZlZKZjdjZ2VMb0lURXZybUM0WGVkZFJRUnVTcWozZWhBUGxndmlNVF9HdWo3UThDSHhMMEhsT1M3aDd0aFc5MDRYQXlnN1dBa085RnZ4aGgwaENYM2FtN2k5dm9pNTQ4OUlqZ0pQZjJKY1VKWmpNOXhqeW9BTllRTEFQbDU2QkFyUFNEUXJtT1hJYzhSZU5OVUFtVGE5dUt3bFZPX00xQ2FjYWtwa0VGQXdUUTNMdkVxVm8ySWgxVXBxUURCZDY4dHhsU1gtTWFlZ21FLU5JemdXem5iUnRoUHFfWURfRi03dzNyM0d5U2NMdWlWVWdYUUlWWG5qbw?oc=5
+- PM Modi Casts 1st Vote As Polling Begins For New Vice President - NDTV
+  PM Modi Casts 1st Vote As Polling
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDgwQXcyNzI1ZEZzRHptaUpXeENLVjk0OVNVTmo3TERRTWNsUHpzS3hwQ19vWlNnYTV4T3l2dWZWR0NLdnRDM1hzeV9oc2ozaVlhaFRXdWRHSlFyaHR5bU5wVWZmSXppZml2VjQxUEtsQ0JocmV2UWNkMkR0QVR1OTcwSWVSaF9WSGZWdE9RVlNnaTJ3Vkx2U3E4Nk9CZUk1RDBjQTIxUW1vbi1rZDhvVlNoWUhodw?oc=5
 
 - Why foreign investors are not bullish on India - The Indian Express
   The Indian Express asked why foreign investors are
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNOC1aRlRtY2ZLVlVHWDVnWmNuTHVFV2lsZE5KVWZsdXBteVFwdlRzZVNZRFFLeW1CV2NNMzV2YmJZMUYwc3o5clhQZWtYUF9taXhtR1YyMm1ISG1NUEpjUUswMThDb1dMZ2x2M2I2d2VDclhMSHI3dzdIM0NzamZVdFkwcHhNdXZYc1JfRXlBRUlnY182SDE4cG53Mk5HeFpjb1JiOU9YMzFXZXRjTnlLZV9ac3cyU1YwS3k2cdIBwwFBVV95cUxPYUlxMlpSS0J2WkF2dGV4elZ3c1NQZEI3VFQ0T3N5eXF3RWpfV0Y0Q1c0ZDlibml5VjhJNkJ6OHBFbzlrUTVzUlR1SWo1U1ZGNEw0NFZhTGNQT3l1VE5oMDZOR2J2SkdtSzNyaXJudXViQTVCbzU0ZjZyaktGZmhvQVZlYjA4X2hna0tBOWw1ZDJqRUFzUXQ3YTlMME5wdTJPRnM4d0JrNzZrZ2ZJU1ZrejUyQU5Ia1laU21yZHhmdWlpZVE?oc=5
 
-- HC: Treat arrest, even without exchange of fire, as encounter - The Times of India
-  The Times of India published a story on the arrest of
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPY05DNi1QbEJjV1VpYmRmbmg4UnN6TVBRcDhSNlgtRjlfTlBQbnZaUlNPWE5BSUxYSHBweHB0dEZjazYxR0IxclMxTTJuX1laYlBtQ29fV3lYUEg3c05zVDE5SWRJbll1T3drOHctX3hBZk9oT1lKVVJYWUY0eUp6UVNZeVFoS1ZPRDVVZ2ZfamJSdGpNTmxFczY4eWlPRFNRdF9HS3dRMlNMeC1PUndvWFUtdnBCNVdPNHE1VmFHY0xoOHpm0gHKAUFVX3lxTE0xWm52ZEZ2dmdUM0JMX1Z5SjZwcHN0bEptYm5PN0lNYVVNN1UyQUxCVUFiT3FGRS1RRVVGSVVWWmJieWhJWXBmUy1oVkc2eDdCNURFZnpOcFZzX3FjMFFPRUVpTkkyOUItb2czNVJmbFNqc3ZrTFhoZktCQXBXaW5CdE5tV3JEME9QSHFSdFJQQm9nRzNMaVBYbTVfcWEzX1R5MVpkVGJhU2FZTmRoaVhxNHpDb00tNlhGbFl3aDlEekthTWRIWlc1VUE?oc=5
+- More Peter Navarro posts flagged on X as his India tirade continues - Hindustan Times
+  More Peter Navarro posts flagged on X as his India
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNNWh5TXB4TV8zQUFWWDY3NlVoTzJ3aVVzOTlyYm5sb3BTNTRwZFhhSkRHQVk1X3VLS3J3UmxWSS0yRW82ZXBVM256c21lNmhEZG1EaFViR0ZqUnZVVFJuTU1QWFhxSHZOWm1zcHlyc2pHNm96MDZscXJzWVQzZEQ3TFM4VjI3Y2VScTFtLXFZUTFqS2FFRU5VTFBLSmVoOFUtOGx1OFZ6bjhSVzNXbXJ2WGhtTFlsRXo0ZmVBTkxDMVlObDJkZU1UZkJn?oc=5
 
-- 'Vampires sucking blood dry': Peter Navarro hits out at India, China and BRICS | Latest News India - Hindustan Times
-  'Vampires sucking blood dry': Peter Navarro hits out at India, China
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcWxzYjlFaVo3d3pFdF9LaGVIX01ORHFNLVpmSmVnNUFvc2pVXzNnMk5sNEcxMGI2M0p4Nl9EOWpqMUJCOGs2MGVUQjhIblBZamZpbHBpR3F2d3RLMjNOcktYY1JoaDVyT1REcHcyUGdhTXZUV3l6d0p3TFAzUU9VaGFWQkVRVlVSSXFiM1YyYXJVbTVCSDQxYlZaUWRWbjZRcGF0NnBVWXBiQUtOMVZVNjRjZkstT3hZbEhSNGRLRU5JU3RsLVNhMWpWZGZBOGR3RWtDdnBVcDgtRG9MS0HSAeMBQVVfeXFMT3FETmYzZUxJczA5RkRMR0piSUlpYXBVazlwQUU4QThwdGRHVGVqbU55bEs2aXJQenhaVkVULWFKVzVFLWh6Tm1SdDJ1elM2WHg0NTg1ZFYxQURXc29KUEpKZjAyVEFjbExLZzhjVWdLS1JJMlJtYndHQkNDSkNVM000MjVEQmFyWG0tX3hpQ0NMa3l0WUxSTk5jX2FXWEVTcE5pTlE4TEQ0bFMzb1VLcDBGU0dFd05VYWhRdmxXbF9Ed3M0S2RGb2Via3pWdlZKWjBtSVJubDduWmt5cEc4ZmtKanM?oc=5
+- Mauritius PM To Visit India From September 9 To 16, Will Meet PM Modi In Varanasi - News18
+  Mauritius PM To Visit India From September 9 To 16,
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWVMteVcyRFh5MUpsRzMxR2kwc3J4WW14NTBBcHdaR3RaeFJqYWh5bVlnYWMyX3ZMSjZ5bUJlSHdIWFg5aFhhUUhWaUdtc2F6dlZqU0hpVDRweGlWbEhjX3AzQnlEUnhxX2xUaFpoTnBvQllyX2ozblVreUpnNzdJeFFVejRucWdtQjUxTWVpZ3FuY2t6TUtULTJjWFJkYkk3UDZVMld3RzRJaGRVUVluaE5BNEdScXR4bnlrLWZLWC1tVjhtQ1RIVktDUnNBd2Z6MHEwOTZGaHQtckVwcEHSAeMBQVVfeXFMTUJkTkxyalh1LVhHM2JMWnM2X1dDZkduWE9nRkxzYVB1ZmlBV0I3RTBiZkpvUkpjSzhHRmtFMU1NZkVRYUpRN25hRW1Wb0o4TnNpQmVJM2xZaUpNX2F2d0c2Rjd0MHRkSEdRaVJUNGI4ODFyb2M1MVlfcVE2Vkc2Mklvam5lTm9DNXVINjlVNDNHVUl2azR4d1dMM2pDRnVvQU5QelczcWV4eU5vcWkzX1ZwTWUycFpsaUtGbXkwWURkT1ZsT1dIQTI3SV9HeW5VUS1yeUdQNEc3LW5ndW9WOTE5NTA?oc=5
 
-- Israel, India sign investment deal as Smotrich welcomed in New Delhi - Al Jazeera
-  Israel, India sign investment deal as Smotrich
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbGJnOUZfZnl2aWlRT1czbmlMNy03cGltU0ZvY0JOWG0xWmZ3YXdaSXdNb3RCbS1OU0lZbWctbW85TERqQ2tXQnFUamNFNVJWV3dkbDRQaVc0VjRjRDF4T3JpUFVhWWU1RW94V1RPZTJURDlXUTZaNUNTQW5HczhwX1B2N1p4WnRrMnd4R3lZWmlNRFExaDB3V3B2RF83YlJBZVByTGx1Q2V2U0nSAbABQVVfeXFMT0dlY0ZLTWtrYl9MSUlCQTJEMFNyQlJGSjdRbFNhOWRxQ2dJdHV6cUYtdTVoN1ZDSC1pd2Z3Z2toRlk0c1BTMjhVU3Z6M1NfZEtJSk0zUlR0WVhpOGRMal84ck43Qk5yWkhoR3RtcHdZUGcyR2p5OWJvQnZGSGFGY2xmUE15TjJIRzhZSVdjRWQwTEVpQ253TldUN3BXRndlV0wyZGc1OXdmU05yQWRtRGc?oc=5
+- India's literacy rate rose to 80.9% in 2023–24: Education Minister Dharmendra Pradhan - India Today
+  India's literacy rate rose to 80.9% in
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR2xHRlB6M25qT1pLUkQ2cXZiY0RZZnl2aEFOM3RZSldVR0txMjJuNG82WEg5YmxHUVlRbFpxUDJJOEtKVUE0WXBHTExLWEpqLXdTMHdzQUlacnVValN1OXVLQ3FKQm5DbnZucmFneGtRQ3M0UGVDN05sdDc1MlVnOHVRU0ZwWm1KUDN1amxVYzFvTXhFd2luWUVnUVBKTWd2MU4za01QTUw3YTBlTWdyVUZkaTM3Tml2Zk5oVDBYMnZ1V2pudGtlYnk0a3dlNm5yZmFBRF9IWTh5MFJEVTRyNUhUVjE3WU5rV3liOG1R0gHuAUFVX3lxTE9HbEdGUHozbmpPWktSRDZxdmJjRFlmeXZoQU4zdFlKV1VHS3EyMm40bzZYSDlibEdRWVFsWnFQMkk4S0pVQTRZcEdMTEtYSmotd1Mwd3NBSVpydVVqU3U5dUtDcUpCbkNudm5yYWd4a1FDczRQZUM3Tmx0NzUyVWc4dVFTRnBabUpQM3VqbFVjMW9NeEV3aW5ZRWdRUEpNZ3YxTjNrTVBNTDdhMGVNZ3JVRmRpMzdOaXZmTmhUMFgydnVXam50a2VieTRrd2U2bnJmYUFEX0hZOHkwUkRVNHI1SFRWMTdZTmtXeWI4bVE?oc=5
 
-- "You Hear All Sides": Musk After X Fact-Checks Trump Aide's Anti-India Post - NDTV
-  "You Hear All Sides": Musk After X
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxPejNiT0xBdE5oZWZlcXFWUkJ1UUtPaFZDSC1Td1VwWHF4VDBvSXcwLXUtVXBXRFJHSC1HZWh6SVdBdWllWDJaQXl0YXFFM0RkMllMakk3ZVhLV3F3NWlBaTZLdVlFOGx1Q0UwZm1hZFpXSXl1VnR0REpsR0dKaHNfTU1pV2F0THNXY2xKNkU4dERTbHFMZ3FEQmUyVEdBSWUzNC14ZElCcHhwTGJtS3BpZllJdlhWRDlINDhYcWg3dUNwa3RsRVdHaENQNzV1em9Ya1NkZVByYWtCODdva1JkU2Rpc3BmNmZqdmk5ZEU0OW5lMWtodC1zQU1OSkV5RkdHRGNCRkZmWW1Ia2hWZHpB0gGXAkFVX3lxTE5laU1Kd0lrUWZaLVZrRVl3WloxbnpINlh4ZlZKZjdjZ2VMb0lURXZybUM0WGVkZFJRUnVTcWozZWhBUGxndmlNVF9HdWo3UThDSHhMMEhsT1M3aDd0aFc5MDRYQXlnN1dBa085RnZ4aGgwaENYM2FtN2k5dm9pNTQ4OUlqZ0pQZjJKY1VKWmpNOXhqeW9BTllRTEFQbDU2QkFyUFNEUXJtT1hJYzhSZU5OVUFtVGE5dUt3bFZPX00xQ2FjYWtwa0VGQXdUUTNMdkVxVm8ySWgxVXBxUURCZDY4dHhsU1gtTWFlZ21FLU5JemdXem5iUnRoUHFfWURfRi03dzNyM0d5U2NMdWlWVWdYUUlWWG5qbw?oc=5
-
-- Why foreign investors are not bullish on India - The Indian Express
-  The Indian Express asked why foreign investors are
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNOC1aRlRtY2ZLVlVHWDVnWmNuTHVFV2lsZE5KVWZsdXBteVFwdlRzZVNZRFFLeW1CV2NNMzV2YmJZMUYwc3o5clhQZWtYUF9taXhtR1YyMm1ISG1NUEpjUUswMThDb1dMZ2x2M2I2d2VDclhMSHI3dzdIM0NzamZVdFkwcHhNdXZYc1JfRXlBRUlnY182SDE4cG53Mk5HeFpjb1JiOU9YMzFXZXRjTnlLZV9ac3cyU1YwS3k2cdIBwwFBVV95cUxPYUlxMlpSS0J2WkF2dGV4elZ3c1NQZEI3VFQ0T3N5eXF3RWpfV0Y0Q1c0ZDlibml5VjhJNkJ6OHBFbzlrUTVzUlR1SWo1U1ZGNEw0NFZhTGNQT3l1VE5oMDZOR2J2SkdtSzNyaXJudXViQTVCbzU0ZjZyaktGZmhvQVZlYjA4X2hna0tBOWw1ZDJqRUFzUXQ3YTlMME5wdTJPRnM4d0JrNzZrZ2ZJU1ZrejUyQU5Ia1laU21yZHhmdWlpZVE?oc=5
-
-- HC: Treat arrest, even without exchange of fire, as encounter - The Times of India
-  The Times of India published a story on the arrest of
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPY05DNi1QbEJjV1VpYmRmbmg4UnN6TVBRcDhSNlgtRjlfTlBQbnZaUlNPWE5BSUxYSHBweHB0dEZjazYxR0IxclMxTTJuX1laYlBtQ29fV3lYUEg3c05zVDE5SWRJbll1T3drOHctX3hBZk9oT1lKVVJYWUY0eUp6UVNZeVFoS1ZPRDVVZ2ZfamJSdGpNTmxFczY4eWlPRFNRdF9HS3dRMlNMeC1PUndvWFUtdnBCNVdPNHE1VmFHY0xoOHpm0gHKAUFVX3lxTE0xWm52ZEZ2dmdUM0JMX1Z5SjZwcHN0bEptYm5PN0lNYVVNN1UyQUxCVUFiT3FGRS1RRVVGSVVWWmJieWhJWXBmUy1oVkc2eDdCNURFZnpOcFZzX3FjMFFPRUVpTkkyOUItb2czNVJmbFNqc3ZrTFhoZktCQXBXaW5CdE5tV3JEME9QSHFSdFJQQm9nRzNMaVBYbTVfcWEzX1R5MVpkVGJhU2FZTmRoaVhxNHpDb00tNlhGbFl3aDlEekthTWRIWlc1VUE?oc=5
-
-- 'Vampires sucking blood dry': Peter Navarro hits out at India, China and BRICS | Latest News India - Hindustan Times
-  'Vampires sucking blood dry': Peter Navarro hits out at India, China
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcWxzYjlFaVo3d3pFdF9LaGVIX01ORHFNLVpmSmVnNUFvc2pVXzNnMk5sNEcxMGI2M0p4Nl9EOWpqMUJCOGs2MGVUQjhIblBZamZpbHBpR3F2d3RLMjNOcktYY1JoaDVyT1REcHcyUGdhTXZUV3l6d0p3TFAzUU9VaGFWQkVRVlVSSXFiM1YyYXJVbTVCSDQxYlZaUWRWbjZRcGF0NnBVWXBiQUtOMVZVNjRjZkstT3hZbEhSNGRLRU5JU3RsLVNhMWpWZGZBOGR3RWtDdnBVcDgtRG9MS0HSAeMBQVVfeXFMT3FETmYzZUxJczA5RkRMR0piSUlpYXBVazlwQUU4QThwdGRHVGVqbU55bEs2aXJQenhaVkVULWFKVzVFLWh6Tm1SdDJ1elM2WHg0NTg1ZFYxQURXc29KUEpKZjAyVEFjbExLZzhjVWdLS1JJMlJtYndHQkNDSkNVM000MjVEQmFyWG0tX3hpQ0NMa3l0WUxSTk5jX2FXWEVTcE5pTlE4TEQ0bFMzb1VLcDBGU0dFd05VYWhRdmxXbF9Ed3M0S2RGb2Via3pWdlZKWjBtSVJubDduWmt5cEc4ZmtKanM?oc=5
-
-- Israel, India sign investment deal as Smotrich welcomed in New Delhi - Al Jazeera
-  Israel, India sign investment deal as Smotrich
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbGJnOUZfZnl2aWlRT1czbmlMNy03cGltU0ZvY0JOWG0xWmZ3YXdaSXdNb3RCbS1OU0lZbWctbW85TERqQ2tXQnFUamNFNVJWV3dkbDRQaVc0VjRjRDF4T3JpUFVhWWU1RW94V1RPZTJURDlXUTZaNUNTQW5HczhwX1B2N1p4WnRrMnd4R3lZWmlNRFExaDB3V3B2RF83YlJBZVByTGx1Q2V2U0nSAbABQVVfeXFMT0dlY0ZLTWtrYl9MSUlCQTJEMFNyQlJGSjdRbFNhOWRxQ2dJdHV6cUYtdTVoN1ZDSC1pd2Z3Z2toRlk0c1BTMjhVU3Z6M1NfZEtJSk0zUlR0WVhpOGRMal84ck43Qk5yWkhoR3RtcHdZUGcyR2p5OWJvQnZGSGFGY2xmUE15TjJIRzhZSVdjRWQwTEVpQ253TldUN3BXRndlV0wyZGc1OXdmU05yQWRtRGc?oc=5
-
-- "You Hear All Sides": Musk After X Fact-Checks Trump Aide's Anti-India Post - NDTV
-  "You Hear All Sides": Musk After X
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxPejNiT0xBdE5oZWZlcXFWUkJ1UUtPaFZDSC1Td1VwWHF4VDBvSXcwLXUtVXBXRFJHSC1HZWh6SVdBdWllWDJaQXl0YXFFM0RkMllMakk3ZVhLV3F3NWlBaTZLdVlFOGx1Q0UwZm1hZFpXSXl1VnR0REpsR0dKaHNfTU1pV2F0THNXY2xKNkU4dERTbHFMZ3FEQmUyVEdBSWUzNC14ZElCcHhwTGJtS3BpZllJdlhWRDlINDhYcWg3dUNwa3RsRVdHaENQNzV1em9Ya1NkZVByYWtCODdva1JkU2Rpc3BmNmZqdmk5ZEU0OW5lMWtodC1zQU1OSkV5RkdHRGNCRkZmWW1Ia2hWZHpB0gGXAkFVX3lxTE5laU1Kd0lrUWZaLVZrRVl3WloxbnpINlh4ZlZKZjdjZ2VMb0lURXZybUM0WGVkZFJRUnVTcWozZWhBUGxndmlNVF9HdWo3UThDSHhMMEhsT1M3aDd0aFc5MDRYQXlnN1dBa085RnZ4aGgwaENYM2FtN2k5dm9pNTQ4OUlqZ0pQZjJKY1VKWmpNOXhqeW9BTllRTEFQbDU2QkFyUFNEUXJtT1hJYzhSZU5OVUFtVGE5dUt3bFZPX00xQ2FjYWtwa0VGQXdUUTNMdkVxVm8ySWgxVXBxUURCZDY4dHhsU1gtTWFlZ21FLU5JemdXem5iUnRoUHFfWURfRi03dzNyM0d5U2NMdWlWVWdYUUlWWG5qbw?oc=5
+- PM Modi Casts 1st Vote As Polling Begins For New Vice President - NDTV
+  PM Modi Casts 1st Vote As Polling
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDgwQXcyNzI1ZEZzRHptaUpXeENLVjk0OVNVTmo3TERRTWNsUHpzS3hwQ19vWlNnYTV4T3l2dWZWR0NLdnRDM1hzeV9oc2ozaVlhaFRXdWRHSlFyaHR5bU5wVWZmSXppZml2VjQxUEtsQ0JocmV2UWNkMkR0QVR1OTcwSWVSaF9WSGZWdE9RVlNnaTJ3Vkx2U3E4Nk9CZUk1RDBjQTIxUW1vbi1rZDhvVlNoWUhodw?oc=5
 
 - Why foreign investors are not bullish on India - The Indian Express
   The Indian Express asked why foreign investors are
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNOC1aRlRtY2ZLVlVHWDVnWmNuTHVFV2lsZE5KVWZsdXBteVFwdlRzZVNZRFFLeW1CV2NNMzV2YmJZMUYwc3o5clhQZWtYUF9taXhtR1YyMm1ISG1NUEpjUUswMThDb1dMZ2x2M2I2d2VDclhMSHI3dzdIM0NzamZVdFkwcHhNdXZYc1JfRXlBRUlnY182SDE4cG53Mk5HeFpjb1JiOU9YMzFXZXRjTnlLZV9ac3cyU1YwS3k2cdIBwwFBVV95cUxPYUlxMlpSS0J2WkF2dGV4elZ3c1NQZEI3VFQ0T3N5eXF3RWpfV0Y0Q1c0ZDlibml5VjhJNkJ6OHBFbzlrUTVzUlR1SWo1U1ZGNEw0NFZhTGNQT3l1VE5oMDZOR2J2SkdtSzNyaXJudXViQTVCbzU0ZjZyaktGZmhvQVZlYjA4X2hna0tBOWw1ZDJqRUFzUXQ3YTlMME5wdTJPRnM4d0JrNzZrZ2ZJU1ZrejUyQU5Ia1laU21yZHhmdWlpZVE?oc=5
 
-- HC: Treat arrest, even without exchange of fire, as encounter - The Times of India
-  The Times of India published a story on the arrest of
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPY05DNi1QbEJjV1VpYmRmbmg4UnN6TVBRcDhSNlgtRjlfTlBQbnZaUlNPWE5BSUxYSHBweHB0dEZjazYxR0IxclMxTTJuX1laYlBtQ29fV3lYUEg3c05zVDE5SWRJbll1T3drOHctX3hBZk9oT1lKVVJYWUY0eUp6UVNZeVFoS1ZPRDVVZ2ZfamJSdGpNTmxFczY4eWlPRFNRdF9HS3dRMlNMeC1PUndvWFUtdnBCNVdPNHE1VmFHY0xoOHpm0gHKAUFVX3lxTE0xWm52ZEZ2dmdUM0JMX1Z5SjZwcHN0bEptYm5PN0lNYVVNN1UyQUxCVUFiT3FGRS1RRVVGSVVWWmJieWhJWXBmUy1oVkc2eDdCNURFZnpOcFZzX3FjMFFPRUVpTkkyOUItb2czNVJmbFNqc3ZrTFhoZktCQXBXaW5CdE5tV3JEME9QSHFSdFJQQm9nRzNMaVBYbTVfcWEzX1R5MVpkVGJhU2FZTmRoaVhxNHpDb00tNlhGbFl3aDlEekthTWRIWlc1VUE?oc=5
+- More Peter Navarro posts flagged on X as his India tirade continues - Hindustan Times
+  More Peter Navarro posts flagged on X as his India
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNNWh5TXB4TV8zQUFWWDY3NlVoTzJ3aVVzOTlyYm5sb3BTNTRwZFhhSkRHQVk1X3VLS3J3UmxWSS0yRW82ZXBVM256c21lNmhEZG1EaFViR0ZqUnZVVFJuTU1QWFhxSHZOWm1zcHlyc2pHNm96MDZscXJzWVQzZEQ3TFM4VjI3Y2VScTFtLXFZUTFqS2FFRU5VTFBLSmVoOFUtOGx1OFZ6bjhSVzNXbXJ2WGhtTFlsRXo0ZmVBTkxDMVlObDJkZU1UZkJn?oc=5
 
-- 'Vampires sucking blood dry': Peter Navarro hits out at India, China and BRICS | Latest News India - Hindustan Times
-  'Vampires sucking blood dry': Peter Navarro hits out at India, China
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcWxzYjlFaVo3d3pFdF9LaGVIX01ORHFNLVpmSmVnNUFvc2pVXzNnMk5sNEcxMGI2M0p4Nl9EOWpqMUJCOGs2MGVUQjhIblBZamZpbHBpR3F2d3RLMjNOcktYY1JoaDVyT1REcHcyUGdhTXZUV3l6d0p3TFAzUU9VaGFWQkVRVlVSSXFiM1YyYXJVbTVCSDQxYlZaUWRWbjZRcGF0NnBVWXBiQUtOMVZVNjRjZkstT3hZbEhSNGRLRU5JU3RsLVNhMWpWZGZBOGR3RWtDdnBVcDgtRG9MS0HSAeMBQVVfeXFMT3FETmYzZUxJczA5RkRMR0piSUlpYXBVazlwQUU4QThwdGRHVGVqbU55bEs2aXJQenhaVkVULWFKVzVFLWh6Tm1SdDJ1elM2WHg0NTg1ZFYxQURXc29KUEpKZjAyVEFjbExLZzhjVWdLS1JJMlJtYndHQkNDSkNVM000MjVEQmFyWG0tX3hpQ0NMa3l0WUxSTk5jX2FXWEVTcE5pTlE4TEQ0bFMzb1VLcDBGU0dFd05VYWhRdmxXbF9Ed3M0S2RGb2Via3pWdlZKWjBtSVJubDduWmt5cEc4ZmtKanM?oc=5
+- Mauritius PM To Visit India From September 9 To 16, Will Meet PM Modi In Varanasi - News18
+  Mauritius PM To Visit India From September 9 To 16,
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWVMteVcyRFh5MUpsRzMxR2kwc3J4WW14NTBBcHdaR3RaeFJqYWh5bVlnYWMyX3ZMSjZ5bUJlSHdIWFg5aFhhUUhWaUdtc2F6dlZqU0hpVDRweGlWbEhjX3AzQnlEUnhxX2xUaFpoTnBvQllyX2ozblVreUpnNzdJeFFVejRucWdtQjUxTWVpZ3FuY2t6TUtULTJjWFJkYkk3UDZVMld3RzRJaGRVUVluaE5BNEdScXR4bnlrLWZLWC1tVjhtQ1RIVktDUnNBd2Z6MHEwOTZGaHQtckVwcEHSAeMBQVVfeXFMTUJkTkxyalh1LVhHM2JMWnM2X1dDZkduWE9nRkxzYVB1ZmlBV0I3RTBiZkpvUkpjSzhHRmtFMU1NZkVRYUpRN25hRW1Wb0o4TnNpQmVJM2xZaUpNX2F2d0c2Rjd0MHRkSEdRaVJUNGI4ODFyb2M1MVlfcVE2Vkc2Mklvam5lTm9DNXVINjlVNDNHVUl2azR4d1dMM2pDRnVvQU5QelczcWV4eU5vcWkzX1ZwTWUycFpsaUtGbXkwWURkT1ZsT1dIQTI3SV9HeW5VUS1yeUdQNEc3LW5ndW9WOTE5NTA?oc=5
 
-- Israel, India sign investment deal as Smotrich welcomed in New Delhi - Al Jazeera
-  Israel, India sign investment deal as Smotrich
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbGJnOUZfZnl2aWlRT1czbmlMNy03cGltU0ZvY0JOWG0xWmZ3YXdaSXdNb3RCbS1OU0lZbWctbW85TERqQ2tXQnFUamNFNVJWV3dkbDRQaVc0VjRjRDF4T3JpUFVhWWU1RW94V1RPZTJURDlXUTZaNUNTQW5HczhwX1B2N1p4WnRrMnd4R3lZWmlNRFExaDB3V3B2RF83YlJBZVByTGx1Q2V2U0nSAbABQVVfeXFMT0dlY0ZLTWtrYl9MSUlCQTJEMFNyQlJGSjdRbFNhOWRxQ2dJdHV6cUYtdTVoN1ZDSC1pd2Z3Z2toRlk0c1BTMjhVU3Z6M1NfZEtJSk0zUlR0WVhpOGRMal84ck43Qk5yWkhoR3RtcHdZUGcyR2p5OWJvQnZGSGFGY2xmUE15TjJIRzhZSVdjRWQwTEVpQ253TldUN3BXRndlV0wyZGc1OXdmU05yQWRtRGc?oc=5
+- India's literacy rate rose to 80.9% in 2023–24: Education Minister Dharmendra Pradhan - India Today
+  India's literacy rate rose to 80.9% in
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR2xHRlB6M25qT1pLUkQ2cXZiY0RZZnl2aEFOM3RZSldVR0txMjJuNG82WEg5YmxHUVlRbFpxUDJJOEtKVUE0WXBHTExLWEpqLXdTMHdzQUlacnVValN1OXVLQ3FKQm5DbnZucmFneGtRQ3M0UGVDN05sdDc1MlVnOHVRU0ZwWm1KUDN1amxVYzFvTXhFd2luWUVnUVBKTWd2MU4za01QTUw3YTBlTWdyVUZkaTM3Tml2Zk5oVDBYMnZ1V2pudGtlYnk0a3dlNm5yZmFBRF9IWTh5MFJEVTRyNUhUVjE3WU5rV3liOG1R0gHuAUFVX3lxTE9HbEdGUHozbmpPWktSRDZxdmJjRFlmeXZoQU4zdFlKV1VHS3EyMm40bzZYSDlibEdRWVFsWnFQMkk4S0pVQTRZcEdMTEtYSmotd1Mwd3NBSVpydVVqU3U5dUtDcUpCbkNudm5yYWd4a1FDczRQZUM3Tmx0NzUyVWc4dVFTRnBabUpQM3VqbFVjMW9NeEV3aW5ZRWdRUEpNZ3YxTjNrTVBNTDdhMGVNZ3JVRmRpMzdOaXZmTmhUMFgydnVXam50a2VieTRrd2U2bnJmYUFEX0hZOHkwUkRVNHI1SFRWMTdZTmtXeWI4bVE?oc=5
 
-- "You Hear All Sides": Musk After X Fact-Checks Trump Aide's Anti-India Post - NDTV
-  "You Hear All Sides": Musk After X
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxPejNiT0xBdE5oZWZlcXFWUkJ1UUtPaFZDSC1Td1VwWHF4VDBvSXcwLXUtVXBXRFJHSC1HZWh6SVdBdWllWDJaQXl0YXFFM0RkMllMakk3ZVhLV3F3NWlBaTZLdVlFOGx1Q0UwZm1hZFpXSXl1VnR0REpsR0dKaHNfTU1pV2F0THNXY2xKNkU4dERTbHFMZ3FEQmUyVEdBSWUzNC14ZElCcHhwTGJtS3BpZllJdlhWRDlINDhYcWg3dUNwa3RsRVdHaENQNzV1em9Ya1NkZVByYWtCODdva1JkU2Rpc3BmNmZqdmk5ZEU0OW5lMWtodC1zQU1OSkV5RkdHRGNCRkZmWW1Ia2hWZHpB0gGXAkFVX3lxTE5laU1Kd0lrUWZaLVZrRVl3WloxbnpINlh4ZlZKZjdjZ2VMb0lURXZybUM0WGVkZFJRUnVTcWozZWhBUGxndmlNVF9HdWo3UThDSHhMMEhsT1M3aDd0aFc5MDRYQXlnN1dBa085RnZ4aGgwaENYM2FtN2k5dm9pNTQ4OUlqZ0pQZjJKY1VKWmpNOXhqeW9BTllRTEFQbDU2QkFyUFNEUXJtT1hJYzhSZU5OVUFtVGE5dUt3bFZPX00xQ2FjYWtwa0VGQXdUUTNMdkVxVm8ySWgxVXBxUURCZDY4dHhsU1gtTWFlZ21FLU5JemdXem5iUnRoUHFfWURfRi03dzNyM0d5U2NMdWlWVWdYUUlWWG5qbw?oc=5
+- PM Modi Casts 1st Vote As Polling Begins For New Vice President - NDTV
+  PM Modi Casts 1st Vote As Polling
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDgwQXcyNzI1ZEZzRHptaUpXeENLVjk0OVNVTmo3TERRTWNsUHpzS3hwQ19vWlNnYTV4T3l2dWZWR0NLdnRDM1hzeV9oc2ozaVlhaFRXdWRHSlFyaHR5bU5wVWZmSXppZml2VjQxUEtsQ0JocmV2UWNkMkR0QVR1OTcwSWVSaF9WSGZWdE9RVlNnaTJ3Vkx2U3E4Nk9CZUk1RDBjQTIxUW1vbi1rZDhvVlNoWUhodw?oc=5
 
 - Why foreign investors are not bullish on India - The Indian Express
   The Indian Express asked why foreign investors are
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNOC1aRlRtY2ZLVlVHWDVnWmNuTHVFV2lsZE5KVWZsdXBteVFwdlRzZVNZRFFLeW1CV2NNMzV2YmJZMUYwc3o5clhQZWtYUF9taXhtR1YyMm1ISG1NUEpjUUswMThDb1dMZ2x2M2I2d2VDclhMSHI3dzdIM0NzamZVdFkwcHhNdXZYc1JfRXlBRUlnY182SDE4cG53Mk5HeFpjb1JiOU9YMzFXZXRjTnlLZV9ac3cyU1YwS3k2cdIBwwFBVV95cUxPYUlxMlpSS0J2WkF2dGV4elZ3c1NQZEI3VFQ0T3N5eXF3RWpfV0Y0Q1c0ZDlibml5VjhJNkJ6OHBFbzlrUTVzUlR1SWo1U1ZGNEw0NFZhTGNQT3l1VE5oMDZOR2J2SkdtSzNyaXJudXViQTVCbzU0ZjZyaktGZmhvQVZlYjA4X2hna0tBOWw1ZDJqRUFzUXQ3YTlMME5wdTJPRnM4d0JrNzZrZ2ZJU1ZrejUyQU5Ia1laU21yZHhmdWlpZVE?oc=5
 
-- HC: Treat arrest, even without exchange of fire, as encounter - The Times of India
-  The Times of India published a story on the arrest of
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPY05DNi1QbEJjV1VpYmRmbmg4UnN6TVBRcDhSNlgtRjlfTlBQbnZaUlNPWE5BSUxYSHBweHB0dEZjazYxR0IxclMxTTJuX1laYlBtQ29fV3lYUEg3c05zVDE5SWRJbll1T3drOHctX3hBZk9oT1lKVVJYWUY0eUp6UVNZeVFoS1ZPRDVVZ2ZfamJSdGpNTmxFczY4eWlPRFNRdF9HS3dRMlNMeC1PUndvWFUtdnBCNVdPNHE1VmFHY0xoOHpm0gHKAUFVX3lxTE0xWm52ZEZ2dmdUM0JMX1Z5SjZwcHN0bEptYm5PN0lNYVVNN1UyQUxCVUFiT3FGRS1RRVVGSVVWWmJieWhJWXBmUy1oVkc2eDdCNURFZnpOcFZzX3FjMFFPRUVpTkkyOUItb2czNVJmbFNqc3ZrTFhoZktCQXBXaW5CdE5tV3JEME9QSHFSdFJQQm9nRzNMaVBYbTVfcWEzX1R5MVpkVGJhU2FZTmRoaVhxNHpDb00tNlhGbFl3aDlEekthTWRIWlc1VUE?oc=5
+- More Peter Navarro posts flagged on X as his India tirade continues - Hindustan Times
+  More Peter Navarro posts flagged on X as his India
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNNWh5TXB4TV8zQUFWWDY3NlVoTzJ3aVVzOTlyYm5sb3BTNTRwZFhhSkRHQVk1X3VLS3J3UmxWSS0yRW82ZXBVM256c21lNmhEZG1EaFViR0ZqUnZVVFJuTU1QWFhxSHZOWm1zcHlyc2pHNm96MDZscXJzWVQzZEQ3TFM4VjI3Y2VScTFtLXFZUTFqS2FFRU5VTFBLSmVoOFUtOGx1OFZ6bjhSVzNXbXJ2WGhtTFlsRXo0ZmVBTkxDMVlObDJkZU1UZkJn?oc=5
 
-- 'Vampires sucking blood dry': Peter Navarro hits out at India, China and BRICS | Latest News India - Hindustan Times
-  'Vampires sucking blood dry': Peter Navarro hits out at India, China
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcWxzYjlFaVo3d3pFdF9LaGVIX01ORHFNLVpmSmVnNUFvc2pVXzNnMk5sNEcxMGI2M0p4Nl9EOWpqMUJCOGs2MGVUQjhIblBZamZpbHBpR3F2d3RLMjNOcktYY1JoaDVyT1REcHcyUGdhTXZUV3l6d0p3TFAzUU9VaGFWQkVRVlVSSXFiM1YyYXJVbTVCSDQxYlZaUWRWbjZRcGF0NnBVWXBiQUtOMVZVNjRjZkstT3hZbEhSNGRLRU5JU3RsLVNhMWpWZGZBOGR3RWtDdnBVcDgtRG9MS0HSAeMBQVVfeXFMT3FETmYzZUxJczA5RkRMR0piSUlpYXBVazlwQUU4QThwdGRHVGVqbU55bEs2aXJQenhaVkVULWFKVzVFLWh6Tm1SdDJ1elM2WHg0NTg1ZFYxQURXc29KUEpKZjAyVEFjbExLZzhjVWdLS1JJMlJtYndHQkNDSkNVM000MjVEQmFyWG0tX3hpQ0NMa3l0WUxSTk5jX2FXWEVTcE5pTlE4TEQ0bFMzb1VLcDBGU0dFd05VYWhRdmxXbF9Ed3M0S2RGb2Via3pWdlZKWjBtSVJubDduWmt5cEc4ZmtKanM?oc=5
+- Mauritius PM To Visit India From September 9 To 16, Will Meet PM Modi In Varanasi - News18
+  Mauritius PM To Visit India From September 9 To 16,
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWVMteVcyRFh5MUpsRzMxR2kwc3J4WW14NTBBcHdaR3RaeFJqYWh5bVlnYWMyX3ZMSjZ5bUJlSHdIWFg5aFhhUUhWaUdtc2F6dlZqU0hpVDRweGlWbEhjX3AzQnlEUnhxX2xUaFpoTnBvQllyX2ozblVreUpnNzdJeFFVejRucWdtQjUxTWVpZ3FuY2t6TUtULTJjWFJkYkk3UDZVMld3RzRJaGRVUVluaE5BNEdScXR4bnlrLWZLWC1tVjhtQ1RIVktDUnNBd2Z6MHEwOTZGaHQtckVwcEHSAeMBQVVfeXFMTUJkTkxyalh1LVhHM2JMWnM2X1dDZkduWE9nRkxzYVB1ZmlBV0I3RTBiZkpvUkpjSzhHRmtFMU1NZkVRYUpRN25hRW1Wb0o4TnNpQmVJM2xZaUpNX2F2d0c2Rjd0MHRkSEdRaVJUNGI4ODFyb2M1MVlfcVE2Vkc2Mklvam5lTm9DNXVINjlVNDNHVUl2azR4d1dMM2pDRnVvQU5QelczcWV4eU5vcWkzX1ZwTWUycFpsaUtGbXkwWURkT1ZsT1dIQTI3SV9HeW5VUS1yeUdQNEc3LW5ndW9WOTE5NTA?oc=5
 
-- Israel, India sign investment deal as Smotrich welcomed in New Delhi - Al Jazeera
-  Israel, India sign investment deal as Smotrich
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbGJnOUZfZnl2aWlRT1czbmlMNy03cGltU0ZvY0JOWG0xWmZ3YXdaSXdNb3RCbS1OU0lZbWctbW85TERqQ2tXQnFUamNFNVJWV3dkbDRQaVc0VjRjRDF4T3JpUFVhWWU1RW94V1RPZTJURDlXUTZaNUNTQW5HczhwX1B2N1p4WnRrMnd4R3lZWmlNRFExaDB3V3B2RF83YlJBZVByTGx1Q2V2U0nSAbABQVVfeXFMT0dlY0ZLTWtrYl9MSUlCQTJEMFNyQlJGSjdRbFNhOWRxQ2dJdHV6cUYtdTVoN1ZDSC1pd2Z3Z2toRlk0c1BTMjhVU3Z6M1NfZEtJSk0zUlR0WVhpOGRMal84ck43Qk5yWkhoR3RtcHdZUGcyR2p5OWJvQnZGSGFGY2xmUE15TjJIRzhZSVdjRWQwTEVpQ253TldUN3BXRndlV0wyZGc1OXdmU05yQWRtRGc?oc=5
+- India's literacy rate rose to 80.9% in 2023–24: Education Minister Dharmendra Pradhan - India Today
+  India's literacy rate rose to 80.9% in
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR2xHRlB6M25qT1pLUkQ2cXZiY0RZZnl2aEFOM3RZSldVR0txMjJuNG82WEg5YmxHUVlRbFpxUDJJOEtKVUE0WXBHTExLWEpqLXdTMHdzQUlacnVValN1OXVLQ3FKQm5DbnZucmFneGtRQ3M0UGVDN05sdDc1MlVnOHVRU0ZwWm1KUDN1amxVYzFvTXhFd2luWUVnUVBKTWd2MU4za01QTUw3YTBlTWdyVUZkaTM3Tml2Zk5oVDBYMnZ1V2pudGtlYnk0a3dlNm5yZmFBRF9IWTh5MFJEVTRyNUhUVjE3WU5rV3liOG1R0gHuAUFVX3lxTE9HbEdGUHozbmpPWktSRDZxdmJjRFlmeXZoQU4zdFlKV1VHS3EyMm40bzZYSDlibEdRWVFsWnFQMkk4S0pVQTRZcEdMTEtYSmotd1Mwd3NBSVpydVVqU3U5dUtDcUpCbkNudm5yYWd4a1FDczRQZUM3Tmx0NzUyVWc4dVFTRnBabUpQM3VqbFVjMW9NeEV3aW5ZRWdRUEpNZ3YxTjNrTVBNTDdhMGVNZ3JVRmRpMzdOaXZmTmhUMFgydnVXam50a2VieTRrd2U2bnJmYUFEX0hZOHkwUkRVNHI1SFRWMTdZTmtXeWI4bVE?oc=5
+
+- PM Modi Casts 1st Vote As Polling Begins For New Vice President - NDTV
+  PM Modi Casts 1st Vote As Polling
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDgwQXcyNzI1ZEZzRHptaUpXeENLVjk0OVNVTmo3TERRTWNsUHpzS3hwQ19vWlNnYTV4T3l2dWZWR0NLdnRDM1hzeV9oc2ozaVlhaFRXdWRHSlFyaHR5bU5wVWZmSXppZml2VjQxUEtsQ0JocmV2UWNkMkR0QVR1OTcwSWVSaF9WSGZWdE9RVlNnaTJ3Vkx2U3E4Nk9CZUk1RDBjQTIxUW1vbi1rZDhvVlNoWUhodw?oc=5
+
+- Why foreign investors are not bullish on India - The Indian Express
+  The Indian Express asked why foreign investors are
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNOC1aRlRtY2ZLVlVHWDVnWmNuTHVFV2lsZE5KVWZsdXBteVFwdlRzZVNZRFFLeW1CV2NNMzV2YmJZMUYwc3o5clhQZWtYUF9taXhtR1YyMm1ISG1NUEpjUUswMThDb1dMZ2x2M2I2d2VDclhMSHI3dzdIM0NzamZVdFkwcHhNdXZYc1JfRXlBRUlnY182SDE4cG53Mk5HeFpjb1JiOU9YMzFXZXRjTnlLZV9ac3cyU1YwS3k2cdIBwwFBVV95cUxPYUlxMlpSS0J2WkF2dGV4elZ3c1NQZEI3VFQ0T3N5eXF3RWpfV0Y0Q1c0ZDlibml5VjhJNkJ6OHBFbzlrUTVzUlR1SWo1U1ZGNEw0NFZhTGNQT3l1VE5oMDZOR2J2SkdtSzNyaXJudXViQTVCbzU0ZjZyaktGZmhvQVZlYjA4X2hna0tBOWw1ZDJqRUFzUXQ3YTlMME5wdTJPRnM4d0JrNzZrZ2ZJU1ZrejUyQU5Ia1laU21yZHhmdWlpZVE?oc=5
+
+- More Peter Navarro posts flagged on X as his India tirade continues - Hindustan Times
+  More Peter Navarro posts flagged on X as his India
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNNWh5TXB4TV8zQUFWWDY3NlVoTzJ3aVVzOTlyYm5sb3BTNTRwZFhhSkRHQVk1X3VLS3J3UmxWSS0yRW82ZXBVM256c21lNmhEZG1EaFViR0ZqUnZVVFJuTU1QWFhxSHZOWm1zcHlyc2pHNm96MDZscXJzWVQzZEQ3TFM4VjI3Y2VScTFtLXFZUTFqS2FFRU5VTFBLSmVoOFUtOGx1OFZ6bjhSVzNXbXJ2WGhtTFlsRXo0ZmVBTkxDMVlObDJkZU1UZkJn?oc=5
+
+- Mauritius PM To Visit India From September 9 To 16, Will Meet PM Modi In Varanasi - News18
+  Mauritius PM To Visit India From September 9 To 16,
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWVMteVcyRFh5MUpsRzMxR2kwc3J4WW14NTBBcHdaR3RaeFJqYWh5bVlnYWMyX3ZMSjZ5bUJlSHdIWFg5aFhhUUhWaUdtc2F6dlZqU0hpVDRweGlWbEhjX3AzQnlEUnhxX2xUaFpoTnBvQllyX2ozblVreUpnNzdJeFFVejRucWdtQjUxTWVpZ3FuY2t6TUtULTJjWFJkYkk3UDZVMld3RzRJaGRVUVluaE5BNEdScXR4bnlrLWZLWC1tVjhtQ1RIVktDUnNBd2Z6MHEwOTZGaHQtckVwcEHSAeMBQVVfeXFMTUJkTkxyalh1LVhHM2JMWnM2X1dDZkduWE9nRkxzYVB1ZmlBV0I3RTBiZkpvUkpjSzhHRmtFMU1NZkVRYUpRN25hRW1Wb0o4TnNpQmVJM2xZaUpNX2F2d0c2Rjd0MHRkSEdRaVJUNGI4ODFyb2M1MVlfcVE2Vkc2Mklvam5lTm9DNXVINjlVNDNHVUl2azR4d1dMM2pDRnVvQU5QelczcWV4eU5vcWkzX1ZwTWUycFpsaUtGbXkwWURkT1ZsT1dIQTI3SV9HeW5VUS1yeUdQNEc3LW5ndW9WOTE5NTA?oc=5
+
+- India's literacy rate rose to 80.9% in 2023–24: Education Minister Dharmendra Pradhan - India Today
+  India's literacy rate rose to 80.9% in
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR2xHRlB6M25qT1pLUkQ2cXZiY0RZZnl2aEFOM3RZSldVR0txMjJuNG82WEg5YmxHUVlRbFpxUDJJOEtKVUE0WXBHTExLWEpqLXdTMHdzQUlacnVValN1OXVLQ3FKQm5DbnZucmFneGtRQ3M0UGVDN05sdDc1MlVnOHVRU0ZwWm1KUDN1amxVYzFvTXhFd2luWUVnUVBKTWd2MU4za01QTUw3YTBlTWdyVUZkaTM3Tml2Zk5oVDBYMnZ1V2pudGtlYnk0a3dlNm5yZmFBRF9IWTh5MFJEVTRyNUhUVjE3WU5rV3liOG1R0gHuAUFVX3lxTE9HbEdGUHozbmpPWktSRDZxdmJjRFlmeXZoQU4zdFlKV1VHS3EyMm40bzZYSDlibEdRWVFsWnFQMkk4S0pVQTRZcEdMTEtYSmotd1Mwd3NBSVpydVVqU3U5dUtDcUpCbkNudm5yYWd4a1FDczRQZUM3Tmx0NzUyVWc4dVFTRnBabUpQM3VqbFVjMW9NeEV3aW5ZRWdRUEpNZ3YxTjNrTVBNTDdhMGVNZ3JVRmRpMzdOaXZmTmhUMFgydnVXam50a2VieTRrd2U2bnJmYUFEX0hZOHkwUkRVNHI1SFRWMTdZTmtXeWI4bVE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-09 01:11:46 UTC_
+_Last updated: 2025-09-09 06:27:37 UTC_
