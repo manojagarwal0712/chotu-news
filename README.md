@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Thaw in India-Canada ties: New envoys likely to take charge next week
+- ‘Larger conspiracy, nefarious activities’: SIT formed after Himanta claims on Gaurav Gogoi’s Pakistan links submits report
   
-  🔗 https://indianexpress.com/article/india/thaw-india-canada-ties-new-envoys-likely-take-charge-next-week-10241862/
+  🔗 https://indianexpress.com/article/india/sit-formed-after-himanta-claims-on-gaurav-gogois-pakistan-links-submits-report-10242431/
 
-- ‘No idea what awaits us’: Amid Nepal crisis, hundreds of Kailash Mansarovar pilgrims stuck in Tibet seek MEA help to return
+- Gyan Bharatam Mission: Manuscript heritage conference begins tomorrow
   
-  🔗 https://indianexpress.com/article/india/nepal-crisis-hundreds-kailash-mansarovar-pilgrims-stuck-tibet-mea-help-10241795/
+  🔗 https://indianexpress.com/article/india/gyan-bharatam-mission-manuscript-heritage-conference-begins-tomorrow-10242257/
 
-- This village in UP’s Sambhal hasn’t observed ‘shradh’ in 100 years over a ‘curse’
+- At SCO-RATS meet, India calls for punishing sponsors of Pahalgam terror attack
   
-  🔗 https://indianexpress.com/article/india/this-village-in-ups-sambhal-hasnt-observed-shradh-in-100-years-over-a-curse-10241548/
+  🔗 https://indianexpress.com/article/india/sco-rats-meet-india-pahalgam-terror-attack-10242255/
 
-- She came for tuition this morning, can’t go back: At Nepal border, confusion and closed doors amid Gen Z protest
+- Black-flag protest against Tripura CPM leader Jitendra Chaudhury over ‘disrespect’ to traditional headgear
   
-  🔗 https://indianexpress.com/article/india/tuition-morning-cant-go-back-nepal-border-confusion-closed-doors-gen-z-protest-10241485/
+  🔗 https://indianexpress.com/article/india/black-flag-protest-against-tripura-cpm-leader-jitendra-chaudhury-over-disrespect-traditional-headgear-10242173/
 
-- Hythro Power bank fraud case: ED conducts raids in Chennai, Bengaluru, Delhi
+- Presidential reference: SC says ‘not fair’ after Centre claims 90% bills cleared in a month since 1970
   
-  🔗 https://indianexpress.com/article/india/hythro-power-bank-fraud-case-ed-conducts-raids-chennai-bengaluru-delhi-10241449/
+  🔗 https://indianexpress.com/article/india/presidential-reference-sc-not-fair-centre-claims-bills-cleared-in-month-1970-10242204/
+
+- New findings by NASA Mars rover provide strongest hints yet of potential signs of ancient life
+  
+  🔗 https://indianexpress.com/article/technology/science/nasa-mars-rover-new-findings-signs-ancient-life-10242436/
+
+- Google rolls out affordable AI Plus plan offering access to Gemini 2.5 Pro
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-rolls-out-affordable-ai-plus-plan-offering-access-to-gemini-2-5-pro-10242207/
+
+- Why the iPhone Air could be a confusing choice for Indian customers
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/why-iphone-air-could-be-confusing-choice-indian-customers-10242110/
 
 - Speed of light: The cosmic limit that shapes our universe
   
@@ -28,57 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/india-resists-full-crypto-framework-fears-systemic-risks-10241905/
 
-- NASA to unveil new Perseverance Mars tonight: How to watch it live
-  
-  🔗 https://indianexpress.com/article/technology/science/nasa-to-unveil-new-perseverance-mars-tonight-how-to-watch-it-live-10241834/
+- Cenovus CEO Says He’s ‘Closing the Door’ on Higher MEG Offer
+  Cenovus Energy Inc.’s top executive said the company doesn’t plan to increase its takeover offer for
+  🔗 https://www.livemint.com/companies/news/cenovus-ceo-says-he-s-closing-the-door-on-higher-meg-offer-11757518994836.html
 
-- iPhone 17 Pro vs iPhone 16 Pro: What’s new in Apple’s latest Pro iPhone?
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/apple-iphone-17-pro-vs-16-pro-specs-design-camera-battery-price-india-10241197/
+- Raymond open to acquisitions, bets on real estate for next growth phase
+  Raymond Group, a diversified conglomerate, plans to pursue acquisition opportunities as it expands operations. With zero debt and strong cash flow, the company aims for 15% annual
+  🔗 https://www.livemint.com/companies/raymond-group-expansion-gautam-singhania-real-estate-projects-textile-business-realty-sales-growth-11757513927487.html
 
-- ‘AI adoption will happen much faster than the adoption of personal computers’: Hao Yang, VP and Head of AI, Splunk on how enterprises are adopting AI agents
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/future-of-enterprise-ai-adoption-splunk-hao-yang-10241726/
+- Elon Musk loses world's richest person title as Oracle's Larry Ellison overtakes Tesla CEO. Check their net worth
+  Oracle's Larry Ellison became the world's richest person on Wednesday. He crossed billionaire Elon Musk with a single-day net worth
+  🔗 https://www.livemint.com/companies/people/oracles-larry-ellison-tops-elon-musk-to-become-worlds-richest-person-gains-101-billion-net-worth-in-a-day-11757518371633.html
 
-- Layoffs News: Wegovy maker Novo Nordisk to cut 9,000 jobs across the globe: Here's why
-  Novo Nordisk used to be Europe's most valuable company listed on markets. Danish pharmaceutical giant is looking to revive
-  🔗 https://www.livemint.com/companies/news/layoffs-news-wegovy-maker-novo-nordisk-to-cut-9-000-jobs-across-the-globe-heres-why-11757500425040.html
+- Performance stds framework for airports seeks to have balance between rebates, incentives: AERA
+  AERA's framework for airports seeks to
+  🔗 https://www.livemint.com/companies/news/performance-stds-framework-for-airports-seeks-to-have-balance-between-rebates-incentives-aera-11757517595595.html
 
-- Indian airlines cancel Kathmandu flights for second day
-  Indian airlines cancel
-  🔗 https://www.livemint.com/companies/news/indian-airlines-cancel-kathmandu-flights-for-second-day-11757503110091.html
+- National Test House to focus on AI-driven testing facilities: Pralhad Joshi
+  National Test House to focus on
+  🔗 https://www.livemint.com/companies/news/national-test-house-to-focus-on-ai-driven-testing-facilities-pralhad-joshi-11757516870310.html
 
-- Corporates may return to banks for credit due to hardening of bond yields: SBI official
-  Corporates may return to banks for credit due
-  🔗 https://www.livemint.com/companies/news/corporates-may-return-to-banks-for-credit-due-to-hardening-of-bond-yields-sbi-official-11757501960155.html
+- Klarna share price jumps 43% after strong IPO debut on Wall Street — Check details here
+  Klarna share price jumped 43% on Wednesday, 10 September 2025, after a strong IPO debut on Wall Street. Shares of the company hit an intraday high of
+  🔗 https://www.livemint.com/market/stock-market-news/klarna-share-price-jumps-43-after-strong-ipo-debut-on-wall-street-check-details-here-11757524545656.html
 
-- Karisma Kapoor vs Priya Kapur: Inside the feud over Sunjay Kapur’s estate
-  Tensions between Karisma Kapoor and Priya Kapur have escalated into a legal battle over the late Sunjay Kapur’s
-  🔗 https://www.livemint.com/companies/news/karisma-kapoor-sona-comstar-priya-kapur-sunjay-kapur-estate-death-will-rani-kapur-11757484211085.html
+- Debt MFs see outflows in August as investors stay cautious after GST cuts
+  Investor caution followed the GST cut announcement, which raised concerns about
+  🔗 https://www.livemint.com/market/debt-mutual-funds-outflow-gst-cut-impact-mutual-fund-inflows-india-government-borrowing-11757509891169.html
 
-- CVC Capital to exit Healthcare Global via  ₹550 crore block deal
-  CVC initially acquired a 31% stake in HCG in 2020 for  �
-  🔗 https://www.livemint.com/companies/news/cvc-capital-to-exit-healthcare-global-via-rs-550-crore-block-deal-11757496240367.html
+- Gold Rises Near Record as US PPI Underpins Fed Rate Cut Bets
+  Gold advanced as a surprise pullback in US inflation underpinned bets that the Federal Reserve will lower
+  🔗 https://www.livemint.com/market/commodities/gold-rises-near-record-as-us-ppi-underpins-fed-rate-cut-bets-11757520331820.html
 
-- Equity MF inflows slip 22 pc in Aug to  ₹33,430 cr on weak NFOs, global jitters
-   Equity MF inflows slip 22 pc in Aug to 
-  🔗 https://www.livemint.com/market/stock-market-news/equity-mf-inflows-slip-22-pc-in-aug-to-rs-33-430-cr-on-weak-nfos-global-jitters-11757506562196.html
+- Global shares gain, tame US inflation boosts Fed rate cut hopes
+  Global shares gain, tame US inflation boosts Fed
+  🔗 https://www.livemint.com/market/stock-market-news/global-shares-gain-tame-us-inflation-boosts-fed-rate-cut-hopes-11757518816295.html
 
-- Dev Accelerator IPO sees strong demand on Day 1, subscribed 5.34 times on robust retail, NII interest
-  Dev Accelerator's IPO has garnered strong interest, oversubscribed by 5.34 times on Day 1. Retail bids at 19.60 times. The company aims to raise 
-  🔗 https://www.livemint.com/market/ipo/dev-accelerator-ipo-sees-strong-demand-on-day-1-subscribed-5-34-times-on-robust-retail-nii-interest-11757505753250.html
+- Wall Street today: S&amp;P 500, Nasdaq rise after soft PPI inflation data, Oracle rallies 35% on AI deals
+  The S&amp;amp;P 500 rose 0.4%, the Dow Jones Industrial Average was down
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-today-s-p-500-nasdaq-rise-after-soft-ppi-inflation-data-oracle-rallies-35-on-ai-deals-11757514266456.html
 
-- Urban Company IPO fully booked hours after opening for bidding; ends with 3.13 times subscription
-  Urban Company IPO fully booked hours after opening for bidding
-  🔗 https://www.livemint.com/market/ipo/urban-company-ipo-fully-booked-hours-after-opening-for-bidding-ends-with-3-13-times-subscription-11757505897396.html
-
-- Zerodha's Nithin Kamath shares simple hack to save tax, avoid impulse selling: ‘Best returns were on stocks that...’
-  Nithin Kamath, co-founder and CEO of discount broking platform Zerodha, shared a powerful insight from his own investing journey. He shed
-  🔗 https://www.livemint.com/market/stock-market-news/zerodhas-nithin-kamath-shares-simple-hack-to-save-tax-avoid-impulse-selling-best-returns-were-on-stocks-that-11757504629178.html
-
-- Is Delhivery’s stock surge backed by fundamentals or just market frenzy?
-  Costs are coming down, profits have appeared for the first time, and some parts of the business are improving
-  🔗 https://www.livemint.com/market/mark-to-market/delhivery-stock-performance-earnings-financials-analysis-logistics-ecom-express-fy25-profit-11757500314355.html
+- iOS 26 rolls out on September 15: Everything you need to know about what’s new in the update
+  Apple iOS 26 will arrive on September 15, with smarter AI tools,
+  🔗 https://www.livemint.com/technology/tech-news/apple-announces-ios-26-launch-date-here-s-when-it-arrives-on-your-iphone-new-features-and-more-11757511251010.html
 
 - India eyes advanced 5-7 nm chips as semiconductor mission enters next phase: Additional Secy MeitY
   India is taking its semiconductor mission to an advanced level. Plans to move from 28-nanometre fabs towards the manufacturing of advanced 5
@@ -96,109 +100,105 @@
   The iPhone 17 Pro and Google’s Pixel 10 Pro bring fresh flagship competition in 2025. Apple stresses durability and on-device privacy, Google focuses on updates and computational imaging.
   🔗 https://www.livemint.com/technology/gadgets/apple-iphone-17-pro-vs-google-pixel-10-pro-price-display-camera-and-more-compared-11757496641153.html
 
-- 10 top-rated hard disks for ample storage starting at just  ₹1399: Top picks with durability and high speed
-  The 10 top-rated hard disks offer reliability, speed, and durability. Portable hard disks and external hard disks make file storage and
-  🔗 https://www.livemint.com/technology/gadgets/10-top-rated-hard-disks-for-ample-storage-starting-at-just-rs-1399-top-picks-with-durability-and-high-speed-11757402315971.html
+- Swedish BNPL player Klarna raises 1.37 billion in largest IPO of US in 2025
+  The Swedish buy-now-pay-later company Klarna made its highly anticipated public debut on the New York Stock Exchange Wednesday
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/swedish-bnpl-player-klarna-raises-1-37-billion-in-largest-ipo-of-us-in-2025/articleshow/123812935.cms
 
-- Bitcoin hovers around $111K, Ethereum at $4,314. Here is what experts say
-  Bitcoin traded nearly flat around $111,500, consolidating in one of its tightest ranges in months. Analysts expect a sharp
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-hovers-around-111k-ethereum-at-4314-here-is-what-experts-say/articleshow/123809236.cms
+- Rs 6,256-crore Kotak Bank block deal: BlackRock, BofA, Nomura among marquee buyers as SMBC exits
+  Sumitomo Mitsui Banking Corporation divested its 1.65% stake in Kotak Mahindra Bank. Shares sold at Rs 1,940.8 apiece to various domestic and foreign investors
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/smbc-sells-over-3-crore-shares-of-kotak-mahindra-for-rs-6256-crore-blackrock-goldman-sachs-among-buyers/articleshow/123812896.cms
 
-- Nifty could touch 29,000 going ahead if earnings growth sustains: Sanjay H Parekh
-  Sanjay H Parekh of Sohum Asset Managers expects short-term weakness in Indian equities. He remains bullish long-term
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-could-touch-29000-going-ahead-if-earnings-growth-sustains-sanjay-h-parekh/articleshow/123808818.cms
+- Trump Media and Technology seeks SEC approval for five new ETFs
+  Trump Media and Technology Group announced the filing for five new exchange-traded funds.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/trump-media-and-technology-seeks-sec-approval-for-five-new-etfs/articleshow/123812850.cms
 
-- Pace Digitek gets SEBI nod for IPO
-  The funds will boost Pace Digitek's battery energy storage systems. A portion of the proceeds will fund a project with MSEDCL.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/pace-digitek-gets-sebi-nod-for-ipo/articleshow/123808448.cms
+- Ahead of Market: 10 things that will decide stock market action on Thursday
+  Nifty and Sensex closed higher, driven by optimism over India–US trade talks, potential GST cuts, and expectations of a U
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/123812646.cms
 
-- BEL dividend payment date announced; stock rises 5%. Check details
-  Bharat Electronics Ltd declared Rs 0.90 dividend per share, payable September 23. Strong Q1FY26 results, 25%
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bel-dividend-payment-date-announced-stock-rises-5-check-details/articleshow/123808153.cms
+- Market Trading Guide: Buy HAL, Waaree Energies and 3 stocks on Thursday for short term gains up to 12%
+  Nifty extended gains for the sixth session, supported by IT and financial stocks. Analysts see bullish momentum with Nifty above 21EMA. Experts recommend HAL,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-hal-waaree-energies-and-3-stocks-on-thursday-for-short-term-gains-up-to-12/slideshow/123812594.cms
 
-- Zerodha’s Nithin Kamath shares how a behavioural hack kept him from trading his investments
-  A secondary offline demat account helps investors separate long-term and short-term holdings, avoid impulsive trading, and optimize tax management. Recently launched on Zerodha’s Kite app, this feature
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zerodhas-nithin-kamath-shares-how-a-behavioural-hack-kept-him-from-trading-his-investments/articleshow/123808167.cms
-
-- "Keep Them On": Trump Asks EU To Slap Tariffs Of Up To 100% On India, China - NDTV
-  "Keep Them On": Trump Asks EU To Slap Tariffs
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWF3NDRVR2M3VkhoeFFwdlE1bFNhUWI5aTI4bFpNdUFGazZzcEFMOUo5QjVnRi1UX1RYSmZueDlvaTF2VmpNQTZQS2NNb0dUelhRNDNVTXZ6T0JSeG8ySjBCWV8wRkJnTVlRTENMM0kybDMzSFVKcXNLUG5tZW5wcnozY3kxTkVrbUFaOC02SWtnT3Q2T0RrT2hqdVc4NWpQNWVXenRPMFJPMm5WRFhJM0lROEk0TjhWdGJ0bzk2akYxNHVDMzVleFFLYm9TRU3SAdcBQVVfeXFMT2pSZ0QzUWZlaGlNWkVXRzBORy14S2NRQkxzcUZEbkxFbFRvRkhaVk5oQW5qSlFpc3NUYzZOTWRVS2Vwb1EwYmtwTE12Uy15UF9aVE5WbWkyV3lodXRLUXBFd1pubHlabWVTY0xpQXhYdkM4d1NvQk12NXJndzRPdUVxdnhsbm1VaV9zQnJRZmpJNHBmM3BWWC0tNktrdGNvdnVFcWhOMkhYNWZCZ1lNRGRqS3dNVkdaaE11bUZDa3dRQjNVZVFncG5Yd0pLNWNBUjVIeVgyUDg?oc=5
+- "Pleased To Announce That India, US Are...": Trump On 'Trade Barriers' - NDTV
+  "Pleased To Announce That India, US
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmNhZV9WTTBCcG5aNnQxd3NDRl9JWGtFUzQ5cXBmeVNEVGJtZ0p1eUV5dHJLUHJKUzFNV3lPTFFpeEN6NE9oS3BDclNielBEeHMzWWlZa2IwOVZVbk9uQVVVa1ZPa0x0cnZ4cW9hT3REblpHU0NQbHFMYTNNczVZd1NQazJJSWZueDY4WlJRb2todTQ3Q2lkM3luc0Y2ZEpHaWZROVI2TC0xLXpKd0JQck9CUdIBuwFBVV95cUxQOHplLWRvUDdES1dCRHAzdmxyZ3ZFQTdxY1ZoOURoRUZGNkpydThGdmlaY096cjBDRllsVU9ITnZjamdfYnJXRWVQemYzUU84LUdaaVRvUzZYRGlQSy1oMzRZcEZuT3R3TUt6NHZwNUdudS0yMmY0X29jT1EtbFJaMndDRzN4cWpSZ3Rhc2hlWnVsZUs2R1FxZHZLZUlEZnBBWTkxYzlTaGtKaUpQcE1NQmVnMzFuMUVCdmhB?oc=5
 
 - Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
   The Hindu reports that India-U.S. trade
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
 
-- Travel Smart: Save More By Exploring India’s Lesser-Known Destinations - News18
-  Travel Smart: Save More By Expl
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGNibHdwdVJ1akRVdHdBNHZ0VlVmYnI5QmVEUmpyWk1hc3Y5NldnVmFNRnE1M3dQRG9ranRva2I1NjZTQ2ZKdlFCV0J1eEdwdVZpSGVzblNPWFhndmczOGhSa2VUMGxQUDY1Mi1WNkt3UnRVUmtad0NDX3k5VVROSmZibW9memdRZ04zX3F0ekhiZnFJUHRRaS00N0xpVDAtYUdfNFNJRkQzT3lqZXF5R1ZDb1ZwaXppalHSAb8BQVVfeXFMUF9xLUNqaUZyYzI1MTNzOFBwMkM2elNta01DcXVkU1VQVmFNVjR0bFhJZmRfVEotbllFLTF1azg3SzF2WHgwSUM3dURtSE1fbW5rOUhUSUNnaXJUOXRJcW1KN3FOeklfOFJRSUVVZUVCUGtNMXE1c1loQzhpSE04M09adXpaUjFfRmlMdnR0dUFpUmVwTlFWZjVvYjF2cm9aR0sxcFZ6YkJ1ajlmczZ2STlIR1lkeEVRMnA5eGlIR2c?oc=5
+- Air India, IndiGo To Operate Special Flights From Delhi To Kathmandu Amid Nepal Unrest - News18
+  Air India, IndiGo To Operate Special Flights
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVpTYlF5RFh0b2JwdFlaVmtpVHkwQlYyR2R2VGZQeWFlcWNxQ0pXR2pQNnkxZDFCMWtqaS12MEd3NDc4UGN5TG5tRWZpQmJEYTZjSERJX3dNaFFNOFlRYWN1ZzVRcDV0S0pGZ2lHZUcxRGVtYVpldy1XNk9abm9XSFhRa3BCZEtOV0NweS1sLXFQSS05ZjdRQWE0dDYzOXRIZTVOdlNxNzBqUFpGWlBqdHVUYm5hclYxbVhUS19zOUFhY2Jq0gHKAUFVX3lxTE1adXBaam9aNDUweHd5Sl9HMkx1T01UdGx5UVBiaXk2UUhQeXJGemZjaFhJaXFKUDhCLTdkMzVXQ1VJelBTcmQxS0NSbF9JaFNnSnJkUVMwWDIyYUZidkdjbnpwYTVBUzNaazNKSmFuMWN1bzA4MTNjSGNHVFpCQXBRNWVSTUhYbVNobWtLeFp6Nk5JLV9nUTVWMExkaDNSZzhIcXU2TDJ4WWVmNUZvVGtTN1NCTEtsemt2cktwdVZSQ0hSd09TMDZsdWc?oc=5
 
-- India eyes advanced 5-7 nm chips as semiconductor mission enters next phase: Additional Secy MeitY - Mint
-  India eyes advanced 5-7 nm chips as semiconductor mission enters
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTnFnQmlvcGpfM1prMGFVYXMwZll6VktaSjI2V04zdUxGSVNFUjVudWhweHVnSkVIcTNPZWM2SWM3aDNGYUtJMkIweFdXR1JBRjljS1h6MXdzeFpfbDVfUjFLbUEzNVc4b2hEcUxYLXdISEMtT2lTZjl3d1E0dXFWbURyOXZySGc3UGZQRG9MYWNvVDllaG9YdENEUUFMMmtuVmNXZl83R2tOTGdxWmVhNmFxamM2Y1owMGVaanloX0FUMXhEcDRrT3RXNzRiRFRfakpHb1NkdkZRamFnQVNlSDJhZDNWdGxfd3kwZ0JXcTZHaUZIVVHSAfsBQVVfeXFMTnNMNkF0T1FzNEd4bDlBMFViWHdyV1FLWlMxb0hEeXRxVUc3dnpiWXM5VHZUMmJkRlZ4QTBBd1laTklkU1FPNXlTLXRfM29vTThTUXhkci16YXNYT3BSdDFmR1dyRFNYMFBPRkVjM1BJa0taUFRGWllzSHBjQTJFejUwNW1nam9pQ2FYSmVidTBuOHk1ekh3Q2lZV0dpbVRKVHNZSFRlR3IyNWRyeXl2RmdGcHk1RXVaYzlkMFpvQUIwcEd0SzFQYnAzZmdRc3VnLW9xTUJGQlhyNGQxNEZJRHdJeC1Qd2l5NzFtNWJtM3hlamJFMnEtR1ZLb1k?oc=5
+- Leaders in Nepal, India call for engagement to prevent isolation of Nepal - The Hindu
+  Leaders in Nepal, India call for engagement to prevent
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ3Z2Tm1TcDYwZHdRYTNBUHhPaWpodi1YUng5aWFHbXhfdlFuVkJxTmhLZmhPMUR5UHRmVWhKMHF4SlNnREhqb2dZZVhRX0FFVTJOb1ZtRTJaNVgzSEVYQjNIMzRYRW0tUXhUa2FCa2E1QWltRWpObkkyeHRVMnVSMTNRWDRETlpMZ3kxZXpldXVobTc1ZDVxRm1ZSTNfVkVaUW1wYUJYQV9sOFI2VW9ZalRtM0RkX3JyTG5tZHRIWUQyUDFMWnNZX0g5bTgtcjg0cGfSAdgBQVVfeXFMTkpHaUZVYTFERjVteUl0cUtMTzcxQmJvenNNUFBPMjRtcVc1X0RaQ3BIV3RMdU14cDBtMG5WdWRlNUt1QTBmVjBTODhZVmw3RGtRdWtSOVAtTVMyNXk3SXBjYTF0cXc3UUJYX2N4WklPNlAtaFJ6dFJjcUI1eTBxaVdpWXFpdzI1RVAwRGoycmtpQmhVWUZKVFdGU1VYcmtMQXZhTU9ldFAxRHNPOEJKN01hMzYtcWZranhyaTZhOUtjQU1BcWRfVklOY3lCMkYyYllQRmszVzEz?oc=5
 
-- Pakistani national illegally staying in India deported from Hyderabad after serving jail term - The Hindu
-  Pakistani national illegally staying in India deported from Hyderabad after
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeEZwaUNaWVR0Q0VrNUszdkV0ZkFkZm1XY1AwaFNMa2NSVjBCUWpDS0dMRUJLRGlDZFRDeW5vUVVYSlFfdGY4YjBOeHNzZlYwOTNtRFJzR2E2SVczMDE4TEdqQWNVTHVILWE2U0NqSENPY1o3d1NfZFR4Y01aMDhDUHNyMF80MmEtaEg0Qlp0ZE5yMnROY2czSzFWLUJBYmIyWWUxZTF6TFE0LUtTMmROQ0xVTmlIZk51ZlIyOGJNQVpVV0F6RUFDZlg3NE1VVWtUT0FnUDNIRkhoOEtYOGtoZE5XOUhadFdIOUhGdGo2cmVCZ9IB-AFBVV95cUxPVF9jUFkxeEFHbVFRRDZUWVZpMXVCRThYYTFlMnZQUWxQR3BSeEstZzc0M28zRHlCamtsRGJDODEyLUNJM3FyS3UtNjhReWtyQjVBbnZ1NTJlM1dLVFdDOWJIYmpDUHAtX0dhZU93cDFaOUw1czdWaV85SkdqVFBXLUw1VDJKbUs1LVYzLU03a1NYTGh2VncteTV2X3NZUUl1WjhSQ05kTTNTWWxYd3ZfdnpwV2k2ZHZRcVJWYjJ3enJ4YWV1bnRBa1cxZ3picWN0Zk44eDVrdlBXcURRZjQxNnIxX1hjUUZCU2V6c0xrNlZQa1BWSjRtVQ?oc=5
+- News Today Live Updates, 10 September | Three former top FBI officials sue Kash Patel for ‘firing them to keep his job’ - The Indian Express
+  The Indian Express reports that Kash Patel is suing three former top FBI officials for ‘firing them to keep
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcGlMMWVtclJWWFhxUGNkU2lWaFNRSk5CbkcydTJHQWpSMTVTOXhFTy1KSlBuZjNSSDB0WF83TDZ6UzREZl9rMVFOUWNtN3E2UkJOYlVjemVHTlJXNE8tM2luTFJRdUhZc096ZWUxVHkxYnNpaHo1dVVuT2U5V1owcEkxX0ctaWVpRDBQaEVuN1dXSXJqRVA0eWZ6N2ZWV0NYX25YTjk0aWxFcVFFUWM1YjhReWxGUnZwTFU4X0JoVHFXTEZrdUpQX29XRFlyZzdmX1h2Xy1kdktFS1Rla0dyMm5VUzkxN1lI?oc=5
 
-- "Keep Them On": Trump Asks EU To Slap Tariffs Of Up To 100% On India, China - NDTV
-  "Keep Them On": Trump Asks EU To Slap Tariffs
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWF3NDRVR2M3VkhoeFFwdlE1bFNhUWI5aTI4bFpNdUFGazZzcEFMOUo5QjVnRi1UX1RYSmZueDlvaTF2VmpNQTZQS2NNb0dUelhRNDNVTXZ6T0JSeG8ySjBCWV8wRkJnTVlRTENMM0kybDMzSFVKcXNLUG5tZW5wcnozY3kxTkVrbUFaOC02SWtnT3Q2T0RrT2hqdVc4NWpQNWVXenRPMFJPMm5WRFhJM0lROEk0TjhWdGJ0bzk2akYxNHVDMzVleFFLYm9TRU3SAdcBQVVfeXFMT2pSZ0QzUWZlaGlNWkVXRzBORy14S2NRQkxzcUZEbkxFbFRvRkhaVk5oQW5qSlFpc3NUYzZOTWRVS2Vwb1EwYmtwTE12Uy15UF9aVE5WbWkyV3lodXRLUXBFd1pubHlabWVTY0xpQXhYdkM4d1NvQk12NXJndzRPdUVxdnhsbm1VaV9zQnJRZmpJNHBmM3BWWC0tNktrdGNvdnVFcWhOMkhYNWZCZ1lNRGRqS3dNVkdaaE11bUZDa3dRQjNVZVFncG5Yd0pLNWNBUjVIeVgyUDg?oc=5
-
-- Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
-  The Hindu reports that India-U.S. trade
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
-
-- Travel Smart: Save More By Exploring India’s Lesser-Known Destinations - News18
-  Travel Smart: Save More By Expl
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGNibHdwdVJ1akRVdHdBNHZ0VlVmYnI5QmVEUmpyWk1hc3Y5NldnVmFNRnE1M3dQRG9ranRva2I1NjZTQ2ZKdlFCV0J1eEdwdVZpSGVzblNPWFhndmczOGhSa2VUMGxQUDY1Mi1WNkt3UnRVUmtad0NDX3k5VVROSmZibW9memdRZ04zX3F0ekhiZnFJUHRRaS00N0xpVDAtYUdfNFNJRkQzT3lqZXF5R1ZDb1ZwaXppalHSAb8BQVVfeXFMUF9xLUNqaUZyYzI1MTNzOFBwMkM2elNta01DcXVkU1VQVmFNVjR0bFhJZmRfVEotbllFLTF1azg3SzF2WHgwSUM3dURtSE1fbW5rOUhUSUNnaXJUOXRJcW1KN3FOeklfOFJRSUVVZUVCUGtNMXE1c1loQzhpSE04M09adXpaUjFfRmlMdnR0dUFpUmVwTlFWZjVvYjF2cm9aR0sxcFZ6YkJ1ajlmczZ2STlIR1lkeEVRMnA5eGlIR2c?oc=5
-
-- India eyes advanced 5-7 nm chips as semiconductor mission enters next phase: Additional Secy MeitY - Mint
-  India eyes advanced 5-7 nm chips as semiconductor mission enters
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTnFnQmlvcGpfM1prMGFVYXMwZll6VktaSjI2V04zdUxGSVNFUjVudWhweHVnSkVIcTNPZWM2SWM3aDNGYUtJMkIweFdXR1JBRjljS1h6MXdzeFpfbDVfUjFLbUEzNVc4b2hEcUxYLXdISEMtT2lTZjl3d1E0dXFWbURyOXZySGc3UGZQRG9MYWNvVDllaG9YdENEUUFMMmtuVmNXZl83R2tOTGdxWmVhNmFxamM2Y1owMGVaanloX0FUMXhEcDRrT3RXNzRiRFRfakpHb1NkdkZRamFnQVNlSDJhZDNWdGxfd3kwZ0JXcTZHaUZIVVHSAfsBQVVfeXFMTnNMNkF0T1FzNEd4bDlBMFViWHdyV1FLWlMxb0hEeXRxVUc3dnpiWXM5VHZUMmJkRlZ4QTBBd1laTklkU1FPNXlTLXRfM29vTThTUXhkci16YXNYT3BSdDFmR1dyRFNYMFBPRkVjM1BJa0taUFRGWllzSHBjQTJFejUwNW1nam9pQ2FYSmVidTBuOHk1ekh3Q2lZV0dpbVRKVHNZSFRlR3IyNWRyeXl2RmdGcHk1RXVaYzlkMFpvQUIwcEd0SzFQYnAzZmdRc3VnLW9xTUJGQlhyNGQxNEZJRHdJeC1Qd2l5NzFtNWJtM3hlamJFMnEtR1ZLb1k?oc=5
-
-- Pakistani national illegally staying in India deported from Hyderabad after serving jail term - The Hindu
-  Pakistani national illegally staying in India deported from Hyderabad after
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeEZwaUNaWVR0Q0VrNUszdkV0ZkFkZm1XY1AwaFNMa2NSVjBCUWpDS0dMRUJLRGlDZFRDeW5vUVVYSlFfdGY4YjBOeHNzZlYwOTNtRFJzR2E2SVczMDE4TEdqQWNVTHVILWE2U0NqSENPY1o3d1NfZFR4Y01aMDhDUHNyMF80MmEtaEg0Qlp0ZE5yMnROY2czSzFWLUJBYmIyWWUxZTF6TFE0LUtTMmROQ0xVTmlIZk51ZlIyOGJNQVpVV0F6RUFDZlg3NE1VVWtUT0FnUDNIRkhoOEtYOGtoZE5XOUhadFdIOUhGdGo2cmVCZ9IB-AFBVV95cUxPVF9jUFkxeEFHbVFRRDZUWVZpMXVCRThYYTFlMnZQUWxQR3BSeEstZzc0M28zRHlCamtsRGJDODEyLUNJM3FyS3UtNjhReWtyQjVBbnZ1NTJlM1dLVFdDOWJIYmpDUHAtX0dhZU93cDFaOUw1czdWaV85SkdqVFBXLUw1VDJKbUs1LVYzLU03a1NYTGh2VncteTV2X3NZUUl1WjhSQ05kTTNTWWxYd3ZfdnpwV2k2ZHZRcVJWYjJ3enJ4YWV1bnRBa1cxZ3picWN0Zk44eDVrdlBXcURRZjQxNnIxX1hjUUZCU2V6c0xrNlZQa1BWSjRtVQ?oc=5
-
-- "Keep Them On": Trump Asks EU To Slap Tariffs Of Up To 100% On India, China - NDTV
-  "Keep Them On": Trump Asks EU To Slap Tariffs
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWF3NDRVR2M3VkhoeFFwdlE1bFNhUWI5aTI4bFpNdUFGazZzcEFMOUo5QjVnRi1UX1RYSmZueDlvaTF2VmpNQTZQS2NNb0dUelhRNDNVTXZ6T0JSeG8ySjBCWV8wRkJnTVlRTENMM0kybDMzSFVKcXNLUG5tZW5wcnozY3kxTkVrbUFaOC02SWtnT3Q2T0RrT2hqdVc4NWpQNWVXenRPMFJPMm5WRFhJM0lROEk0TjhWdGJ0bzk2akYxNHVDMzVleFFLYm9TRU3SAdcBQVVfeXFMT2pSZ0QzUWZlaGlNWkVXRzBORy14S2NRQkxzcUZEbkxFbFRvRkhaVk5oQW5qSlFpc3NUYzZOTWRVS2Vwb1EwYmtwTE12Uy15UF9aVE5WbWkyV3lodXRLUXBFd1pubHlabWVTY0xpQXhYdkM4d1NvQk12NXJndzRPdUVxdnhsbm1VaV9zQnJRZmpJNHBmM3BWWC0tNktrdGNvdnVFcWhOMkhYNWZCZ1lNRGRqS3dNVkdaaE11bUZDa3dRQjNVZVFncG5Yd0pLNWNBUjVIeVgyUDg?oc=5
+- "Pleased To Announce That India, US Are...": Trump On 'Trade Barriers' - NDTV
+  "Pleased To Announce That India, US
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmNhZV9WTTBCcG5aNnQxd3NDRl9JWGtFUzQ5cXBmeVNEVGJtZ0p1eUV5dHJLUHJKUzFNV3lPTFFpeEN6NE9oS3BDclNielBEeHMzWWlZa2IwOVZVbk9uQVVVa1ZPa0x0cnZ4cW9hT3REblpHU0NQbHFMYTNNczVZd1NQazJJSWZueDY4WlJRb2todTQ3Q2lkM3luc0Y2ZEpHaWZROVI2TC0xLXpKd0JQck9CUdIBuwFBVV95cUxQOHplLWRvUDdES1dCRHAzdmxyZ3ZFQTdxY1ZoOURoRUZGNkpydThGdmlaY096cjBDRllsVU9ITnZjamdfYnJXRWVQemYzUU84LUdaaVRvUzZYRGlQSy1oMzRZcEZuT3R3TUt6NHZwNUdudS0yMmY0X29jT1EtbFJaMndDRzN4cWpSZ3Rhc2hlWnVsZUs2R1FxZHZLZUlEZnBBWTkxYzlTaGtKaUpQcE1NQmVnMzFuMUVCdmhB?oc=5
 
 - Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
   The Hindu reports that India-U.S. trade
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
 
-- Travel Smart: Save More By Exploring India’s Lesser-Known Destinations - News18
-  Travel Smart: Save More By Expl
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGNibHdwdVJ1akRVdHdBNHZ0VlVmYnI5QmVEUmpyWk1hc3Y5NldnVmFNRnE1M3dQRG9ranRva2I1NjZTQ2ZKdlFCV0J1eEdwdVZpSGVzblNPWFhndmczOGhSa2VUMGxQUDY1Mi1WNkt3UnRVUmtad0NDX3k5VVROSmZibW9memdRZ04zX3F0ekhiZnFJUHRRaS00N0xpVDAtYUdfNFNJRkQzT3lqZXF5R1ZDb1ZwaXppalHSAb8BQVVfeXFMUF9xLUNqaUZyYzI1MTNzOFBwMkM2elNta01DcXVkU1VQVmFNVjR0bFhJZmRfVEotbllFLTF1azg3SzF2WHgwSUM3dURtSE1fbW5rOUhUSUNnaXJUOXRJcW1KN3FOeklfOFJRSUVVZUVCUGtNMXE1c1loQzhpSE04M09adXpaUjFfRmlMdnR0dUFpUmVwTlFWZjVvYjF2cm9aR0sxcFZ6YkJ1ajlmczZ2STlIR1lkeEVRMnA5eGlIR2c?oc=5
+- Air India, IndiGo To Operate Special Flights From Delhi To Kathmandu Amid Nepal Unrest - News18
+  Air India, IndiGo To Operate Special Flights
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVpTYlF5RFh0b2JwdFlaVmtpVHkwQlYyR2R2VGZQeWFlcWNxQ0pXR2pQNnkxZDFCMWtqaS12MEd3NDc4UGN5TG5tRWZpQmJEYTZjSERJX3dNaFFNOFlRYWN1ZzVRcDV0S0pGZ2lHZUcxRGVtYVpldy1XNk9abm9XSFhRa3BCZEtOV0NweS1sLXFQSS05ZjdRQWE0dDYzOXRIZTVOdlNxNzBqUFpGWlBqdHVUYm5hclYxbVhUS19zOUFhY2Jq0gHKAUFVX3lxTE1adXBaam9aNDUweHd5Sl9HMkx1T01UdGx5UVBiaXk2UUhQeXJGemZjaFhJaXFKUDhCLTdkMzVXQ1VJelBTcmQxS0NSbF9JaFNnSnJkUVMwWDIyYUZidkdjbnpwYTVBUzNaazNKSmFuMWN1bzA4MTNjSGNHVFpCQXBRNWVSTUhYbVNobWtLeFp6Nk5JLV9nUTVWMExkaDNSZzhIcXU2TDJ4WWVmNUZvVGtTN1NCTEtsemt2cktwdVZSQ0hSd09TMDZsdWc?oc=5
 
-- India eyes advanced 5-7 nm chips as semiconductor mission enters next phase: Additional Secy MeitY - Mint
-  India eyes advanced 5-7 nm chips as semiconductor mission enters
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTnFnQmlvcGpfM1prMGFVYXMwZll6VktaSjI2V04zdUxGSVNFUjVudWhweHVnSkVIcTNPZWM2SWM3aDNGYUtJMkIweFdXR1JBRjljS1h6MXdzeFpfbDVfUjFLbUEzNVc4b2hEcUxYLXdISEMtT2lTZjl3d1E0dXFWbURyOXZySGc3UGZQRG9MYWNvVDllaG9YdENEUUFMMmtuVmNXZl83R2tOTGdxWmVhNmFxamM2Y1owMGVaanloX0FUMXhEcDRrT3RXNzRiRFRfakpHb1NkdkZRamFnQVNlSDJhZDNWdGxfd3kwZ0JXcTZHaUZIVVHSAfsBQVVfeXFMTnNMNkF0T1FzNEd4bDlBMFViWHdyV1FLWlMxb0hEeXRxVUc3dnpiWXM5VHZUMmJkRlZ4QTBBd1laTklkU1FPNXlTLXRfM29vTThTUXhkci16YXNYT3BSdDFmR1dyRFNYMFBPRkVjM1BJa0taUFRGWllzSHBjQTJFejUwNW1nam9pQ2FYSmVidTBuOHk1ekh3Q2lZV0dpbVRKVHNZSFRlR3IyNWRyeXl2RmdGcHk1RXVaYzlkMFpvQUIwcEd0SzFQYnAzZmdRc3VnLW9xTUJGQlhyNGQxNEZJRHdJeC1Qd2l5NzFtNWJtM3hlamJFMnEtR1ZLb1k?oc=5
+- Leaders in Nepal, India call for engagement to prevent isolation of Nepal - The Hindu
+  Leaders in Nepal, India call for engagement to prevent
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ3Z2Tm1TcDYwZHdRYTNBUHhPaWpodi1YUng5aWFHbXhfdlFuVkJxTmhLZmhPMUR5UHRmVWhKMHF4SlNnREhqb2dZZVhRX0FFVTJOb1ZtRTJaNVgzSEVYQjNIMzRYRW0tUXhUa2FCa2E1QWltRWpObkkyeHRVMnVSMTNRWDRETlpMZ3kxZXpldXVobTc1ZDVxRm1ZSTNfVkVaUW1wYUJYQV9sOFI2VW9ZalRtM0RkX3JyTG5tZHRIWUQyUDFMWnNZX0g5bTgtcjg0cGfSAdgBQVVfeXFMTkpHaUZVYTFERjVteUl0cUtMTzcxQmJvenNNUFBPMjRtcVc1X0RaQ3BIV3RMdU14cDBtMG5WdWRlNUt1QTBmVjBTODhZVmw3RGtRdWtSOVAtTVMyNXk3SXBjYTF0cXc3UUJYX2N4WklPNlAtaFJ6dFJjcUI1eTBxaVdpWXFpdzI1RVAwRGoycmtpQmhVWUZKVFdGU1VYcmtMQXZhTU9ldFAxRHNPOEJKN01hMzYtcWZranhyaTZhOUtjQU1BcWRfVklOY3lCMkYyYllQRmszVzEz?oc=5
 
-- Pakistani national illegally staying in India deported from Hyderabad after serving jail term - The Hindu
-  Pakistani national illegally staying in India deported from Hyderabad after
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeEZwaUNaWVR0Q0VrNUszdkV0ZkFkZm1XY1AwaFNMa2NSVjBCUWpDS0dMRUJLRGlDZFRDeW5vUVVYSlFfdGY4YjBOeHNzZlYwOTNtRFJzR2E2SVczMDE4TEdqQWNVTHVILWE2U0NqSENPY1o3d1NfZFR4Y01aMDhDUHNyMF80MmEtaEg0Qlp0ZE5yMnROY2czSzFWLUJBYmIyWWUxZTF6TFE0LUtTMmROQ0xVTmlIZk51ZlIyOGJNQVpVV0F6RUFDZlg3NE1VVWtUT0FnUDNIRkhoOEtYOGtoZE5XOUhadFdIOUhGdGo2cmVCZ9IB-AFBVV95cUxPVF9jUFkxeEFHbVFRRDZUWVZpMXVCRThYYTFlMnZQUWxQR3BSeEstZzc0M28zRHlCamtsRGJDODEyLUNJM3FyS3UtNjhReWtyQjVBbnZ1NTJlM1dLVFdDOWJIYmpDUHAtX0dhZU93cDFaOUw1czdWaV85SkdqVFBXLUw1VDJKbUs1LVYzLU03a1NYTGh2VncteTV2X3NZUUl1WjhSQ05kTTNTWWxYd3ZfdnpwV2k2ZHZRcVJWYjJ3enJ4YWV1bnRBa1cxZ3picWN0Zk44eDVrdlBXcURRZjQxNnIxX1hjUUZCU2V6c0xrNlZQa1BWSjRtVQ?oc=5
+- News Today Live Updates, 10 September | Three former top FBI officials sue Kash Patel for ‘firing them to keep his job’ - The Indian Express
+  The Indian Express reports that Kash Patel is suing three former top FBI officials for ‘firing them to keep
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcGlMMWVtclJWWFhxUGNkU2lWaFNRSk5CbkcydTJHQWpSMTVTOXhFTy1KSlBuZjNSSDB0WF83TDZ6UzREZl9rMVFOUWNtN3E2UkJOYlVjemVHTlJXNE8tM2luTFJRdUhZc096ZWUxVHkxYnNpaHo1dVVuT2U5V1owcEkxX0ctaWVpRDBQaEVuN1dXSXJqRVA0eWZ6N2ZWV0NYX25YTjk0aWxFcVFFUWM1YjhReWxGUnZwTFU4X0JoVHFXTEZrdUpQX29XRFlyZzdmX1h2Xy1kdktFS1Rla0dyMm5VUzkxN1lI?oc=5
 
-- "Keep Them On": Trump Asks EU To Slap Tariffs Of Up To 100% On India, China - NDTV
-  "Keep Them On": Trump Asks EU To Slap Tariffs
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWF3NDRVR2M3VkhoeFFwdlE1bFNhUWI5aTI4bFpNdUFGazZzcEFMOUo5QjVnRi1UX1RYSmZueDlvaTF2VmpNQTZQS2NNb0dUelhRNDNVTXZ6T0JSeG8ySjBCWV8wRkJnTVlRTENMM0kybDMzSFVKcXNLUG5tZW5wcnozY3kxTkVrbUFaOC02SWtnT3Q2T0RrT2hqdVc4NWpQNWVXenRPMFJPMm5WRFhJM0lROEk0TjhWdGJ0bzk2akYxNHVDMzVleFFLYm9TRU3SAdcBQVVfeXFMT2pSZ0QzUWZlaGlNWkVXRzBORy14S2NRQkxzcUZEbkxFbFRvRkhaVk5oQW5qSlFpc3NUYzZOTWRVS2Vwb1EwYmtwTE12Uy15UF9aVE5WbWkyV3lodXRLUXBFd1pubHlabWVTY0xpQXhYdkM4d1NvQk12NXJndzRPdUVxdnhsbm1VaV9zQnJRZmpJNHBmM3BWWC0tNktrdGNvdnVFcWhOMkhYNWZCZ1lNRGRqS3dNVkdaaE11bUZDa3dRQjNVZVFncG5Yd0pLNWNBUjVIeVgyUDg?oc=5
+- "Pleased To Announce That India, US Are...": Trump On 'Trade Barriers' - NDTV
+  "Pleased To Announce That India, US
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmNhZV9WTTBCcG5aNnQxd3NDRl9JWGtFUzQ5cXBmeVNEVGJtZ0p1eUV5dHJLUHJKUzFNV3lPTFFpeEN6NE9oS3BDclNielBEeHMzWWlZa2IwOVZVbk9uQVVVa1ZPa0x0cnZ4cW9hT3REblpHU0NQbHFMYTNNczVZd1NQazJJSWZueDY4WlJRb2todTQ3Q2lkM3luc0Y2ZEpHaWZROVI2TC0xLXpKd0JQck9CUdIBuwFBVV95cUxQOHplLWRvUDdES1dCRHAzdmxyZ3ZFQTdxY1ZoOURoRUZGNkpydThGdmlaY096cjBDRllsVU9ITnZjamdfYnJXRWVQemYzUU84LUdaaVRvUzZYRGlQSy1oMzRZcEZuT3R3TUt6NHZwNUdudS0yMmY0X29jT1EtbFJaMndDRzN4cWpSZ3Rhc2hlWnVsZUs2R1FxZHZLZUlEZnBBWTkxYzlTaGtKaUpQcE1NQmVnMzFuMUVCdmhB?oc=5
 
 - Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
   The Hindu reports that India-U.S. trade
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
 
-- Travel Smart: Save More By Exploring India’s Lesser-Known Destinations - News18
-  Travel Smart: Save More By Expl
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGNibHdwdVJ1akRVdHdBNHZ0VlVmYnI5QmVEUmpyWk1hc3Y5NldnVmFNRnE1M3dQRG9ranRva2I1NjZTQ2ZKdlFCV0J1eEdwdVZpSGVzblNPWFhndmczOGhSa2VUMGxQUDY1Mi1WNkt3UnRVUmtad0NDX3k5VVROSmZibW9memdRZ04zX3F0ekhiZnFJUHRRaS00N0xpVDAtYUdfNFNJRkQzT3lqZXF5R1ZDb1ZwaXppalHSAb8BQVVfeXFMUF9xLUNqaUZyYzI1MTNzOFBwMkM2elNta01DcXVkU1VQVmFNVjR0bFhJZmRfVEotbllFLTF1azg3SzF2WHgwSUM3dURtSE1fbW5rOUhUSUNnaXJUOXRJcW1KN3FOeklfOFJRSUVVZUVCUGtNMXE1c1loQzhpSE04M09adXpaUjFfRmlMdnR0dUFpUmVwTlFWZjVvYjF2cm9aR0sxcFZ6YkJ1ajlmczZ2STlIR1lkeEVRMnA5eGlIR2c?oc=5
+- Air India, IndiGo To Operate Special Flights From Delhi To Kathmandu Amid Nepal Unrest - News18
+  Air India, IndiGo To Operate Special Flights
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVpTYlF5RFh0b2JwdFlaVmtpVHkwQlYyR2R2VGZQeWFlcWNxQ0pXR2pQNnkxZDFCMWtqaS12MEd3NDc4UGN5TG5tRWZpQmJEYTZjSERJX3dNaFFNOFlRYWN1ZzVRcDV0S0pGZ2lHZUcxRGVtYVpldy1XNk9abm9XSFhRa3BCZEtOV0NweS1sLXFQSS05ZjdRQWE0dDYzOXRIZTVOdlNxNzBqUFpGWlBqdHVUYm5hclYxbVhUS19zOUFhY2Jq0gHKAUFVX3lxTE1adXBaam9aNDUweHd5Sl9HMkx1T01UdGx5UVBiaXk2UUhQeXJGemZjaFhJaXFKUDhCLTdkMzVXQ1VJelBTcmQxS0NSbF9JaFNnSnJkUVMwWDIyYUZidkdjbnpwYTVBUzNaazNKSmFuMWN1bzA4MTNjSGNHVFpCQXBRNWVSTUhYbVNobWtLeFp6Nk5JLV9nUTVWMExkaDNSZzhIcXU2TDJ4WWVmNUZvVGtTN1NCTEtsemt2cktwdVZSQ0hSd09TMDZsdWc?oc=5
 
-- India eyes advanced 5-7 nm chips as semiconductor mission enters next phase: Additional Secy MeitY - Mint
-  India eyes advanced 5-7 nm chips as semiconductor mission enters
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTnFnQmlvcGpfM1prMGFVYXMwZll6VktaSjI2V04zdUxGSVNFUjVudWhweHVnSkVIcTNPZWM2SWM3aDNGYUtJMkIweFdXR1JBRjljS1h6MXdzeFpfbDVfUjFLbUEzNVc4b2hEcUxYLXdISEMtT2lTZjl3d1E0dXFWbURyOXZySGc3UGZQRG9MYWNvVDllaG9YdENEUUFMMmtuVmNXZl83R2tOTGdxWmVhNmFxamM2Y1owMGVaanloX0FUMXhEcDRrT3RXNzRiRFRfakpHb1NkdkZRamFnQVNlSDJhZDNWdGxfd3kwZ0JXcTZHaUZIVVHSAfsBQVVfeXFMTnNMNkF0T1FzNEd4bDlBMFViWHdyV1FLWlMxb0hEeXRxVUc3dnpiWXM5VHZUMmJkRlZ4QTBBd1laTklkU1FPNXlTLXRfM29vTThTUXhkci16YXNYT3BSdDFmR1dyRFNYMFBPRkVjM1BJa0taUFRGWllzSHBjQTJFejUwNW1nam9pQ2FYSmVidTBuOHk1ekh3Q2lZV0dpbVRKVHNZSFRlR3IyNWRyeXl2RmdGcHk1RXVaYzlkMFpvQUIwcEd0SzFQYnAzZmdRc3VnLW9xTUJGQlhyNGQxNEZJRHdJeC1Qd2l5NzFtNWJtM3hlamJFMnEtR1ZLb1k?oc=5
+- Leaders in Nepal, India call for engagement to prevent isolation of Nepal - The Hindu
+  Leaders in Nepal, India call for engagement to prevent
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ3Z2Tm1TcDYwZHdRYTNBUHhPaWpodi1YUng5aWFHbXhfdlFuVkJxTmhLZmhPMUR5UHRmVWhKMHF4SlNnREhqb2dZZVhRX0FFVTJOb1ZtRTJaNVgzSEVYQjNIMzRYRW0tUXhUa2FCa2E1QWltRWpObkkyeHRVMnVSMTNRWDRETlpMZ3kxZXpldXVobTc1ZDVxRm1ZSTNfVkVaUW1wYUJYQV9sOFI2VW9ZalRtM0RkX3JyTG5tZHRIWUQyUDFMWnNZX0g5bTgtcjg0cGfSAdgBQVVfeXFMTkpHaUZVYTFERjVteUl0cUtMTzcxQmJvenNNUFBPMjRtcVc1X0RaQ3BIV3RMdU14cDBtMG5WdWRlNUt1QTBmVjBTODhZVmw3RGtRdWtSOVAtTVMyNXk3SXBjYTF0cXc3UUJYX2N4WklPNlAtaFJ6dFJjcUI1eTBxaVdpWXFpdzI1RVAwRGoycmtpQmhVWUZKVFdGU1VYcmtMQXZhTU9ldFAxRHNPOEJKN01hMzYtcWZranhyaTZhOUtjQU1BcWRfVklOY3lCMkYyYllQRmszVzEz?oc=5
 
-- Pakistani national illegally staying in India deported from Hyderabad after serving jail term - The Hindu
-  Pakistani national illegally staying in India deported from Hyderabad after
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeEZwaUNaWVR0Q0VrNUszdkV0ZkFkZm1XY1AwaFNMa2NSVjBCUWpDS0dMRUJLRGlDZFRDeW5vUVVYSlFfdGY4YjBOeHNzZlYwOTNtRFJzR2E2SVczMDE4TEdqQWNVTHVILWE2U0NqSENPY1o3d1NfZFR4Y01aMDhDUHNyMF80MmEtaEg0Qlp0ZE5yMnROY2czSzFWLUJBYmIyWWUxZTF6TFE0LUtTMmROQ0xVTmlIZk51ZlIyOGJNQVpVV0F6RUFDZlg3NE1VVWtUT0FnUDNIRkhoOEtYOGtoZE5XOUhadFdIOUhGdGo2cmVCZ9IB-AFBVV95cUxPVF9jUFkxeEFHbVFRRDZUWVZpMXVCRThYYTFlMnZQUWxQR3BSeEstZzc0M28zRHlCamtsRGJDODEyLUNJM3FyS3UtNjhReWtyQjVBbnZ1NTJlM1dLVFdDOWJIYmpDUHAtX0dhZU93cDFaOUw1czdWaV85SkdqVFBXLUw1VDJKbUs1LVYzLU03a1NYTGh2VncteTV2X3NZUUl1WjhSQ05kTTNTWWxYd3ZfdnpwV2k2ZHZRcVJWYjJ3enJ4YWV1bnRBa1cxZ3picWN0Zk44eDVrdlBXcURRZjQxNnIxX1hjUUZCU2V6c0xrNlZQa1BWSjRtVQ?oc=5
+- News Today Live Updates, 10 September | Three former top FBI officials sue Kash Patel for ‘firing them to keep his job’ - The Indian Express
+  The Indian Express reports that Kash Patel is suing three former top FBI officials for ‘firing them to keep
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcGlMMWVtclJWWFhxUGNkU2lWaFNRSk5CbkcydTJHQWpSMTVTOXhFTy1KSlBuZjNSSDB0WF83TDZ6UzREZl9rMVFOUWNtN3E2UkJOYlVjemVHTlJXNE8tM2luTFJRdUhZc096ZWUxVHkxYnNpaHo1dVVuT2U5V1owcEkxX0ctaWVpRDBQaEVuN1dXSXJqRVA0eWZ6N2ZWV0NYX25YTjk0aWxFcVFFUWM1YjhReWxGUnZwTFU4X0JoVHFXTEZrdUpQX29XRFlyZzdmX1h2Xy1kdktFS1Rla0dyMm5VUzkxN1lI?oc=5
+
+- "Pleased To Announce That India, US Are...": Trump On 'Trade Barriers' - NDTV
+  "Pleased To Announce That India, US
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmNhZV9WTTBCcG5aNnQxd3NDRl9JWGtFUzQ5cXBmeVNEVGJtZ0p1eUV5dHJLUHJKUzFNV3lPTFFpeEN6NE9oS3BDclNielBEeHMzWWlZa2IwOVZVbk9uQVVVa1ZPa0x0cnZ4cW9hT3REblpHU0NQbHFMYTNNczVZd1NQazJJSWZueDY4WlJRb2todTQ3Q2lkM3luc0Y2ZEpHaWZROVI2TC0xLXpKd0JQck9CUdIBuwFBVV95cUxQOHplLWRvUDdES1dCRHAzdmxyZ3ZFQTdxY1ZoOURoRUZGNkpydThGdmlaY096cjBDRllsVU9ITnZjamdfYnJXRWVQemYzUU84LUdaaVRvUzZYRGlQSy1oMzRZcEZuT3R3TUt6NHZwNUdudS0yMmY0X29jT1EtbFJaMndDRzN4cWpSZ3Rhc2hlWnVsZUs2R1FxZHZLZUlEZnBBWTkxYzlTaGtKaUpQcE1NQmVnMzFuMUVCdmhB?oc=5
+
+- Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
+  The Hindu reports that India-U.S. trade
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
+
+- Air India, IndiGo To Operate Special Flights From Delhi To Kathmandu Amid Nepal Unrest - News18
+  Air India, IndiGo To Operate Special Flights
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVpTYlF5RFh0b2JwdFlaVmtpVHkwQlYyR2R2VGZQeWFlcWNxQ0pXR2pQNnkxZDFCMWtqaS12MEd3NDc4UGN5TG5tRWZpQmJEYTZjSERJX3dNaFFNOFlRYWN1ZzVRcDV0S0pGZ2lHZUcxRGVtYVpldy1XNk9abm9XSFhRa3BCZEtOV0NweS1sLXFQSS05ZjdRQWE0dDYzOXRIZTVOdlNxNzBqUFpGWlBqdHVUYm5hclYxbVhUS19zOUFhY2Jq0gHKAUFVX3lxTE1adXBaam9aNDUweHd5Sl9HMkx1T01UdGx5UVBiaXk2UUhQeXJGemZjaFhJaXFKUDhCLTdkMzVXQ1VJelBTcmQxS0NSbF9JaFNnSnJkUVMwWDIyYUZidkdjbnpwYTVBUzNaazNKSmFuMWN1bzA4MTNjSGNHVFpCQXBRNWVSTUhYbVNobWtLeFp6Nk5JLV9nUTVWMExkaDNSZzhIcXU2TDJ4WWVmNUZvVGtTN1NCTEtsemt2cktwdVZSQ0hSd09TMDZsdWc?oc=5
+
+- Leaders in Nepal, India call for engagement to prevent isolation of Nepal - The Hindu
+  Leaders in Nepal, India call for engagement to prevent
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ3Z2Tm1TcDYwZHdRYTNBUHhPaWpodi1YUng5aWFHbXhfdlFuVkJxTmhLZmhPMUR5UHRmVWhKMHF4SlNnREhqb2dZZVhRX0FFVTJOb1ZtRTJaNVgzSEVYQjNIMzRYRW0tUXhUa2FCa2E1QWltRWpObkkyeHRVMnVSMTNRWDRETlpMZ3kxZXpldXVobTc1ZDVxRm1ZSTNfVkVaUW1wYUJYQV9sOFI2VW9ZalRtM0RkX3JyTG5tZHRIWUQyUDFMWnNZX0g5bTgtcjg0cGfSAdgBQVVfeXFMTkpHaUZVYTFERjVteUl0cUtMTzcxQmJvenNNUFBPMjRtcVc1X0RaQ3BIV3RMdU14cDBtMG5WdWRlNUt1QTBmVjBTODhZVmw3RGtRdWtSOVAtTVMyNXk3SXBjYTF0cXc3UUJYX2N4WklPNlAtaFJ6dFJjcUI1eTBxaVdpWXFpdzI1RVAwRGoycmtpQmhVWUZKVFdGU1VYcmtMQXZhTU9ldFAxRHNPOEJKN01hMzYtcWZranhyaTZhOUtjQU1BcWRfVklOY3lCMkYyYllQRmszVzEz?oc=5
+
+- News Today Live Updates, 10 September | Three former top FBI officials sue Kash Patel for ‘firing them to keep his job’ - The Indian Express
+  The Indian Express reports that Kash Patel is suing three former top FBI officials for ‘firing them to keep
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcGlMMWVtclJWWFhxUGNkU2lWaFNRSk5CbkcydTJHQWpSMTVTOXhFTy1KSlBuZjNSSDB0WF83TDZ6UzREZl9rMVFOUWNtN3E2UkJOYlVjemVHTlJXNE8tM2luTFJRdUhZc096ZWUxVHkxYnNpaHo1dVVuT2U5V1owcEkxX0ctaWVpRDBQaEVuN1dXSXJqRVA0eWZ6N2ZWV0NYX25YTjk0aWxFcVFFUWM1YjhReWxGUnZwTFU4X0JoVHFXTEZrdUpQX29XRFlyZzdmX1h2Xy1kdktFS1Rla0dyMm5VUzkxN1lI?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-10 12:33:33 UTC_
+_Last updated: 2025-09-10 18:25:22 UTC_
