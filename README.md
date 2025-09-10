@@ -1,184 +1,232 @@
 # 📰 Daily News Summaries
 
-- EC top brass brainstorms with state poll machinery on pan-India SIR preparedness
+- Thaw in India-Canada ties: New envoys likely to take charge next week
   
-  🔗 https://indianexpress.com/article/india/ec-top-brass-brainstorms-state-poll-machinery-pan-india-sir-preparedness-10241114/
+  🔗 https://indianexpress.com/article/india/thaw-india-canada-ties-new-envoys-likely-take-charge-next-week-10241862/
 
-- India explores rare-earth deal with Myanmar after Chinese curb
+- ‘No idea what awaits us’: Amid Nepal crisis, hundreds of Kailash Mansarovar pilgrims stuck in Tibet seek MEA help to return
   
-  🔗 https://indianexpress.com/article/india/india-rare-earth-deal-myanmar-chinese-curb-10241055/
+  🔗 https://indianexpress.com/article/india/nepal-crisis-hundreds-kailash-mansarovar-pilgrims-stuck-tibet-mea-help-10241795/
 
-- Gold Today Rate, September 10: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- This village in UP’s Sambhal hasn’t observed ‘shradh’ in 100 years over a ‘curse’
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-september-10-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10240786/
+  🔗 https://indianexpress.com/article/india/this-village-in-ups-sambhal-hasnt-observed-shradh-in-100-years-over-a-curse-10241548/
 
-- News Today Live Updates, 10 September | South Korea sends plane to US to bring back workers detained in immigration raid
+- She came for tuition this morning, can’t go back: At Nepal border, confusion and closed doors amid Gen Z protest
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-09-10-2025-news-headlines-10240743/
+  🔗 https://indianexpress.com/article/india/tuition-morning-cant-go-back-nepal-border-confusion-closed-doors-gen-z-protest-10241485/
 
-- Her ASP husband was killed by Maoists 2 months ago; now Chhattisgarh woman is posted as DySP
+- Hythro Power bank fraud case: ED conducts raids in Chennai, Bengaluru, Delhi
   
-  🔗 https://indianexpress.com/article/india/her-asp-husband-was-killed-by-maoists-2-months-ago-now-chhattisgarh-woman-is-posted-as-dysp-10240512/
+  🔗 https://indianexpress.com/article/india/hythro-power-bank-fraud-case-ed-conducts-raids-chennai-bengaluru-delhi-10241449/
 
-- Apple iPhone 17 series: Price in India compared to the US, Dubai, Vietnam and other regions
+- Speed of light: The cosmic limit that shapes our universe
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-iphone-17-series-price-india-us-dubai-10240972/
+  🔗 https://indianexpress.com/article/technology/science/speed-of-light-the-cosmic-limit-that-shapes-our-universe-10241972/
 
-- Slim iPhone Air could be a design win for Apple: Reports
+- India resists full crypto framework, fears systemic risks
   
-  🔗 https://indianexpress.com/article/technology/slim-iphone-air-could-be-a-design-win-for-apple-reports-10240950/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/india-resists-full-crypto-framework-fears-systemic-risks-10241905/
 
-- 5 things no one told you about the latest Apple Event announcements
+- NASA to unveil new Perseverance Mars tonight: How to watch it live
   
-  🔗 https://indianexpress.com/article/technology/opinion-technology/5-things-no-one-told-you-about-the-latest-apple-event-announcements-10240674/
+  🔗 https://indianexpress.com/article/technology/science/nasa-to-unveil-new-perseverance-mars-tonight-how-to-watch-it-live-10241834/
 
-- iPhone Air, Apple Watch Ultra 3, AirPods Pro 3, and more: Everything revealed at Apple Event 2025
+- iPhone 17 Pro vs iPhone 16 Pro: What’s new in Apple’s latest Pro iPhone?
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-air-watch-ultra-3-everything-announced-apple-event-2025-10240532/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/apple-iphone-17-pro-vs-16-pro-specs-design-camera-battery-price-india-10241197/
 
-- Apple unveils Watch Series 11, SE 2 and Ultra 3: A look at what’s different
+- ‘AI adoption will happen much faster than the adoption of personal computers’: Hao Yang, VP and Head of AI, Splunk on how enterprises are adopting AI agents
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-unveils-watch-series-11-se-2-and-ultra-3-a-look-at-whats-different-10240503/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/future-of-enterprise-ai-adoption-splunk-hao-yang-10241726/
 
-- Robinhood launches social media network for investors
-  Robinhood aims to transform its customers into a tight knit community with Robinhood’s social platform as their
-  🔗 https://www.livemint.com/companies/robinhood-launches-social-media-network-for-investors-11757482328902.html
+- Layoffs News: Wegovy maker Novo Nordisk to cut 9,000 jobs across the globe: Here's why
+  Novo Nordisk used to be Europe's most valuable company listed on markets. Danish pharmaceutical giant is looking to revive
+  🔗 https://www.livemint.com/companies/news/layoffs-news-wegovy-maker-novo-nordisk-to-cut-9-000-jobs-across-the-globe-heres-why-11757500425040.html
 
-- Banker Talent War Spurs CICC to Add New Paths for Promotion
-  China International Capital Corp. has created new layers of job titles for senior investment bankers. The move comes as it tries to retain talent amid a
-  🔗 https://www.livemint.com/companies/news/banker-talent-war-spurs-cicc-to-add-new-paths-for-promotion-11757473250623.html
+- Indian airlines cancel Kathmandu flights for second day
+  Indian airlines cancel
+  🔗 https://www.livemint.com/companies/news/indian-airlines-cancel-kathmandu-flights-for-second-day-11757503110091.html
 
-- End of WFH? Microsoft makes work-from-office mandatory for three days a week starting next year
-  Microsoft employees will be required to work from the office at least three days a week starting next year. The policy will be implemented in phases, beginning with the employees near Redmond in Washington.
-  🔗 https://www.livemint.com/companies/news/end-of-remote-era-microsoft-makes-work-from-office-mandatory-for-three-days-a-week-starting-next-year-11757470599422.html
+- Corporates may return to banks for credit due to hardening of bond yields: SBI official
+  Corporates may return to banks for credit due
+  🔗 https://www.livemint.com/companies/news/corporates-may-return-to-banks-for-credit-due-to-hardening-of-bond-yields-sbi-official-11757501960155.html
 
-- JPMorgan, Fifth Third Among Banks Facing Losses Tied to Tricolor
-  JPMorgan Chase &amp; Co., Fifth Third Bancorp and Barclays Plc are among banks bracing for potentially hundreds of millions of dollars in combined losses.
-  🔗 https://www.livemint.com/companies/company-results/jpmorgan-fifth-third-among-banks-facing-losses-tied-to-tricolor-11757470534768.html
+- Karisma Kapoor vs Priya Kapur: Inside the feud over Sunjay Kapur’s estate
+  Tensions between Karisma Kapoor and Priya Kapur have escalated into a legal battle over the late Sunjay Kapur’s
+  🔗 https://www.livemint.com/companies/news/karisma-kapoor-sona-comstar-priya-kapur-sunjay-kapur-estate-death-will-rani-kapur-11757484211085.html
 
-- Hong Kong Property Woes Weigh on Schroders as Banks Seize Assets
-  Schroders is the latest global asset manager to be caught up in
-  🔗 https://www.livemint.com/companies/news/hong-kong-property-woes-weigh-on-schroders-as-banks-seize-assets-11757468659223.html
+- CVC Capital to exit Healthcare Global via  ₹550 crore block deal
+  CVC initially acquired a 31% stake in HCG in 2020 for  �
+  🔗 https://www.livemint.com/companies/news/cvc-capital-to-exit-healthcare-global-via-rs-550-crore-block-deal-11757496240367.html
 
-- Vigor Plast IPO share allotment in focus today; GMP, how to check status in 5 steps
-  Vigor Plast India's IPO concluded with nearly 4 times subscription. The allotment is expected on September 10, with shares credited to accounts on September 11 and listing on NSE SM
-  🔗 https://www.livemint.com/market/ipo/vigor-plast-ipo-share-allotment-in-focus-today-gmp-how-to-check-status-in-5-steps-11757483603712.html
+- Equity MF inflows slip 22 pc in Aug to  ₹33,430 cr on weak NFOs, global jitters
+   Equity MF inflows slip 22 pc in Aug to 
+  🔗 https://www.livemint.com/market/stock-market-news/equity-mf-inflows-slip-22-pc-in-aug-to-rs-33-430-cr-on-weak-nfos-global-jitters-11757506562196.html
 
-- Small-cap stock under  ₹50 jumps after acquisition of AI-driven defence solutions company
-  Small-cap stock under  ₹50 gained during the intraday trades on Wednesday after it announced acquisition of AI
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-jumps-after-acquisition-of-ai-driven-defence-solutions-company-11757482311650.html
+- Dev Accelerator IPO sees strong demand on Day 1, subscribed 5.34 times on robust retail, NII interest
+  Dev Accelerator's IPO has garnered strong interest, oversubscribed by 5.34 times on Day 1. Retail bids at 19.60 times. The company aims to raise 
+  🔗 https://www.livemint.com/market/ipo/dev-accelerator-ipo-sees-strong-demand-on-day-1-subscribed-5-34-times-on-robust-retail-nii-interest-11757505753250.html
 
-- PSU defence stock HAL share price jumps on signing technology transfer agreement with ISRO, IN-SPACe & NSIL
-  HAL share price has remained flat in one month and has fallen 12% in three months. The PSU defence stock has rallied 32% in six months and has gained 8% on a YTD basis. Over the past one year,
-  🔗 https://www.livemint.com/market/stock-market-news/psu-defence-stock-hal-share-price-jumps-on-signing-technology-transfer-agreement-with-isro-in-space-nsil-11757484497854.html
+- Urban Company IPO fully booked hours after opening for bidding; ends with 3.13 times subscription
+  Urban Company IPO fully booked hours after opening for bidding
+  🔗 https://www.livemint.com/market/ipo/urban-company-ipo-fully-booked-hours-after-opening-for-bidding-ends-with-3-13-times-subscription-11757505897396.html
 
-- Vikram Solar share price pops 13% after company reports 484% jump in Q1 net profit
-  Vikram Solar's shares surged 13.3% to  ₹407.95 following a strong quarterly performance. The company is expanding its capacity to meet growing demand
-  🔗 https://www.livemint.com/market/stock-market-news/vikram-solar-share-price-pops-13-after-company-reports-484-jump-in-q1-net-profit-11757483929394.html
+- Zerodha's Nithin Kamath shares simple hack to save tax, avoid impulse selling: ‘Best returns were on stocks that...’
+  Nithin Kamath, co-founder and CEO of discount broking platform Zerodha, shared a powerful insight from his own investing journey. He shed
+  🔗 https://www.livemint.com/market/stock-market-news/zerodhas-nithin-kamath-shares-simple-hack-to-save-tax-avoid-impulse-selling-best-returns-were-on-stocks-that-11757504629178.html
 
-- What the bond market is signalling about rate cuts
-  The gap between India’s 10-year government bond yield and the repo rate is at 96 basis points. Experts attribute two reasons for this widening spread.
-  🔗 https://www.livemint.com/market/bonds/bond-market-limited-room-rate-cuts-benchmark-yield-repo-rate-mpc-rbi-11757406364355.html
+- Is Delhivery’s stock surge backed by fundamentals or just market frenzy?
+  Costs are coming down, profits have appeared for the first time, and some parts of the business are improving
+  🔗 https://www.livemint.com/market/mark-to-market/delhivery-stock-performance-earnings-financials-analysis-logistics-ecom-express-fy25-profit-11757500314355.html
 
-- iPhone 17 Pro launch sparks mixed reactions: Netizens call it “Ugliest iPhone ever” – “Steve Jobs would’ve fired all”
-  Apple unveiled iPhone 17 series, Apple Watch Ultra 3, Series 11, Watch SE 3, and AirPods Pro 3. Reactions are mixed—Sam Altman praised the iPhone, while some netizens criticised design
-  🔗 https://www.livemint.com/technology/tech-news/iphone-17-pro-launch-sparks-mixed-reactions-netizens-call-it-ugliest-iphone-ever-steve-jobs-would-ve-fired-all-11757474819761.html
+- India eyes advanced 5-7 nm chips as semiconductor mission enters next phase: Additional Secy MeitY
+  India is taking its semiconductor mission to an advanced level. Plans to move from 28-nanometre fabs towards the manufacturing of advanced 5
+  🔗 https://www.livemint.com/technology/tech-news/india-eyes-advanced-5-7-nm-chips-as-semiconductor-mission-enters-next-phase-additional-secy-meity-11757506864810.html
 
-- iPhone 17 launch to boost Apple India sales, prices largely steady despite US tariff squeeze
-  Apple projected a tariff impact of $1.1 billion for this quarter. Management has not indicated any price hike due to higher import duty costs. Tuesday’s launch, too,
-  🔗 https://www.livemint.com/technology/iphone-17-india-launch-iphone-17-price-in-india-iphone-17-pro-price-in-india-iphone-17-air-price-11757473647555.html
+- Nearly half of Indian enterprises polled embedded AI into biz strategies: Study
+  Nearly half of Indian enterprises polled embedded
+  🔗 https://www.livemint.com/technology/tech-news/nearly-half-of-indian-enterprises-polled-embedded-ai-into-biz-strategies-study-11757499780122.html
 
-- Best laptops under 40000 in September 2025: Lightweight, powerful, and budget-friendly
-  Discover the best laptops under 40,000 this September 2025. They're perfect for work, study, and entertainment.
-  🔗 https://www.livemint.com/technology/gadgets/best-laptops-under-40000-in-september-2025-lightweight-powerful-and-budgetfriendly-11757416556073.html
+- Mint Explainer | iPhone Air: Are size-zero phones making a comeback?
+  Apple’s new iPhone Air marks a return to ultra-thin smartphones, with a sleek 5.6mm build and premium finish. The launch raises a key question: can
+  🔗 https://www.livemint.com/technology/iphone-air-size-zero-phones-comeback-11757492684810.html
 
-- Sam Altman on iPhone 17 series: ‘First upgrade I’ve wanted in a while’, backs replacing Siri with ChatGPT Voice
-  OpenAI CEO Sam Altman praised the iPhone 17, hinting that he could choose the Air model. Altman backed calls for Siri to be replaced with ChatGPT voice.
-  🔗 https://www.livemint.com/technology/tech-news/sam-altman-on-iphone-17-series-first-upgrade-wanted-in-a-while-backs-idea-of-replacing-siri-with-chatgpt-voice-11757471182754.html
+- Apple iPhone 17 Pro vs Google Pixel 10 Pro: Price, display, camera and more compared
+  The iPhone 17 Pro and Google’s Pixel 10 Pro bring fresh flagship competition in 2025. Apple stresses durability and on-device privacy, Google focuses on updates and computational imaging.
+  🔗 https://www.livemint.com/technology/gadgets/apple-iphone-17-pro-vs-google-pixel-10-pro-price-display-camera-and-more-compared-11757496641153.html
 
-- iPhone 17 vs Samsung Galaxy S25: Price, display, camera, battery and more compared
-  Apple launched the iPhone 17 with design changes, brighter display, and upgraded cameras. Samsung banks on the Galaxy S25 with AI-driven features and enhanced security.
-  🔗 https://www.livemint.com/technology/tech-news/iphone-17-vs-samsung-galaxy-s25-price-display-camera-battery-and-more-compared-11757468280801.html
+- 10 top-rated hard disks for ample storage starting at just  ₹1399: Top picks with durability and high speed
+  The 10 top-rated hard disks offer reliability, speed, and durability. Portable hard disks and external hard disks make file storage and
+  🔗 https://www.livemint.com/technology/gadgets/10-top-rated-hard-disks-for-ample-storage-starting-at-just-rs-1399-top-picks-with-durability-and-high-speed-11757402315971.html
 
-- Not a market to go bargain-hunting; earnings to drive market recovery, says InCred’s Aditya Sood
-  Despite recent flat returns, potential US Federal Reserve rate cuts and a favorable bond spread create a supportive environment. Sood is cautiously optimistic, favoring healthcare, rural-focused consumer stocks, and select IT firms like Infosys for steady comp
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/not-a-market-to-go-bargain-hunting-earnings-to-drive-market-recovery-says-increds-aditya-sood/articleshow/123801708.cms
+- Bitcoin hovers around $111K, Ethereum at $4,314. Here is what experts say
+  Bitcoin traded nearly flat around $111,500, consolidating in one of its tightest ranges in months. Analysts expect a sharp
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-hovers-around-111k-ethereum-at-4314-here-is-what-experts-say/articleshow/123809236.cms
 
-- IT stocks rally up to 8%: Here’s what is fueling the surge
-  Nifty IT index posts gains for the second straight session. Broad-based buying lifted both large- and mid-cap stocks.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-rally-up-to-8-heres-what-is-fueling-the-surge/articleshow/123801466.cms
+- Nifty could touch 29,000 going ahead if earnings growth sustains: Sanjay H Parekh
+  Sanjay H Parekh of Sohum Asset Managers expects short-term weakness in Indian equities. He remains bullish long-term
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-could-touch-29000-going-ahead-if-earnings-growth-sustains-sanjay-h-parekh/articleshow/123808818.cms
 
-- An Oracle may displace Elon Musk as the world's richest billionaire
-  Ellison's fortune is heavily tied to Oracle, whose stock has risen 45% this year. Tesla shares have fallen 14%, trimming Musk’s wealth.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/an-oracle-may-displace-elon-musk-as-the-worlds-richest-billionaire/articleshow/123801297.cms
+- Pace Digitek gets SEBI nod for IPO
+  The funds will boost Pace Digitek's battery energy storage systems. A portion of the proceeds will fund a project with MSEDCL.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/pace-digitek-gets-sebi-nod-for-ipo/articleshow/123808448.cms
 
-- MTAR Technologies shares jump 4% on Rs 386 crore clean energy order from Bloom Energy
-  MTAR Technologies shares rose sharply after the company secured Rs 386 crore in clean energy orders from Bloom Energy. The deals, valid till June and March 2026, are expected to
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mtar-technologies-shares-jump-4-on-rs-386-crore-clean-energy-order-from-bloom-energy/articleshow/123801158.cms
+- BEL dividend payment date announced; stock rises 5%. Check details
+  Bharat Electronics Ltd declared Rs 0.90 dividend per share, payable September 23. Strong Q1FY26 results, 25%
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bel-dividend-payment-date-announced-stock-rises-5-check-details/articleshow/123808153.cms
 
-- Manish Chokhani on global reset, AI mania and India’s market puzzle
-  Global capital flows are changing due to AI, geopolitics, and hard assets. Money is flowing back to the US, impacting India's foreign investment. Indian markets remain strong due to retail inflows.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/manish-chokhani-on-global-reset-ai-mania-and-indias-market-puzzle/articleshow/123801027.cms
+- Zerodha’s Nithin Kamath shares how a behavioural hack kept him from trading his investments
+  A secondary offline demat account helps investors separate long-term and short-term holdings, avoid impulsive trading, and optimize tax management. Recently launched on Zerodha’s Kite app, this feature
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zerodhas-nithin-kamath-shares-how-a-behavioural-hack-kept-him-from-trading-his-investments/articleshow/123808167.cms
 
-- "Pleased To Announce That India, US Are...": Trump On 'Trade Barriers' - NDTV
-  "Pleased To Announce That India, US
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmNhZV9WTTBCcG5aNnQxd3NDRl9JWGtFUzQ5cXBmeVNEVGJtZ0p1eUV5dHJLUHJKUzFNV3lPTFFpeEN6NE9oS3BDclNielBEeHMzWWlZa2IwOVZVbk9uQVVVa1ZPa0x0cnZ4cW9hT3REblpHU0NQbHFMYTNNczVZd1NQazJJSWZueDY4WlJRb2todTQ3Q2lkM3luc0Y2ZEpHaWZROVI2TC0xLXpKd0JQck9CUdIBuwFBVV95cUxQOHplLWRvUDdES1dCRHAzdmxyZ3ZFQTdxY1ZoOURoRUZGNkpydThGdmlaY096cjBDRllsVU9ITnZjamdfYnJXRWVQemYzUU84LUdaaVRvUzZYRGlQSy1oMzRZcEZuT3R3TUt6NHZwNUdudS0yMmY0X29jT1EtbFJaMndDRzN4cWpSZ3Rhc2hlWnVsZUs2R1FxZHZLZUlEZnBBWTkxYzlTaGtKaUpQcE1NQmVnMzFuMUVCdmhB?oc=5
-
-- Trump aide Peter Navarro warns India amid tariff row, says 'won't end well' | Latest News India - Hindustan Times
-  The row between India and the U.S. has been going on for months
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmpQamp5LUpMSUtFUnhDX1NfOHlUUUtjbW5NQXVvSXpXSWozT2xVOFZ2M29BU3dNYW9BT1lHbkhtZU1TOXpDNTVTajdYX2tzcHNRdnFCTzhZa0FDMFVXNU9uQkUtcTRWaGFhcjNPZVNoNVRjQWZ5T3VoUHJZckVjM3dhOExxc3BHc3FhRElqVFZtQ0dYdDA5cTYxbXg1RnZFcmlXUlI3UVc0Q21hWmx2dFExQTFJMVdmVjNaSHFDVHVEVTNULWQyOUJFTVNiaDTSAdQBQVVfeXFMT1psSXhkMHd0QmpQTW1QOWp4MzhMQ1liYVhHX0Q3RURuRGFGLTlLdXltTmZ0b09qc05mb0xrb0pVNVZLV0dzUzljeFhMcWotcVdxdVRScEI2MjREbTgwVVFTYjhFNTFyS21DLWZtSHBadVJtVUY5ZXdETVBTWUQ4NHNKeHVUV21kSlczZnJKdDU4RnBlU2I5cGlkLUdhU2FDOGN6Wl9GR1dXVGt4TUR5WU11R1poVHp5bWN0SGUzSmU1amROQUR6WHNPbzVBQWV5NjZyMWk?oc=5
-
-- Breaking News Live Updates: PM Modi responds to Donald Trump; both express confidence on India-US trade talks - Times of India
-  PM Modi responds to Donald Trump; both express confidence on India-US trade talks.
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHpZTFo1XzNoaU1uUHhtSG5rOTN3NmZOcDA1TUZmUDFnZVhlaHVqWVQyd0VqX2hGc19SSUhHVlp2ZEdQaEhlTkdPaE5iTHdsMG1jMUZ2RkZhVzltVzFzTHdYT2FNTUhUM3pFR3duallUZUprV0pncG91MmFPSGJuNXZ4ZjcxN19FZjZ0amlVdFM2SURJUDRNVHkyTlTSAaIBQVVfeXFMT2JtSGoxUWUxdk5QMGZMUjFsSzc5XzBRNzZ1aHNONFVwSV9CMmxWQXQ3aGVlazAyX2hlbE9qQ3BXODFYY05zV1AxN0kzTW9fZV9temNXRmxzR2VFcVE1S0dVX0xRdlhRRW4taFBfYlFTTWhQMFJKaTFxQXZ6Mm1pUTZKYVRvVU1fLWZOcjl1UnFnaFVxZWc0a0dfRi1KbHIzRnB3?oc=5
-
-- Squatting vs. sitting toilets in India and their impact on gut health, backed by science - Times of India
-  Squatting vs. sitting toilets in India and their impact on gut health
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQdjdpNzlHY2FGbHB5Vmw1SmVtVExUSTJuS1NBRTNhb1BLMURxY3UwUDkwSlRKMU1jU0FjazJGeFJIVkhJVmpvSUM4ZnFibERhN3BKcmJWWkkwTGpJMmZQc09XYzd1UEQxOFJGTkdlQWhJYjRHRnZVVjNmdVlRNDMyRldhcWlJcGE5c3Z2VTd0Z2V5WThibEl3SXpmSTkzRFFOUG43M0hGWnRJSDdqSG05eExPLXRzLWFMVnBaN3MwTVhmV2s5Y1g2blNlb0t6d2tKX3Y0ckkwTFJod0F2N2tfNkE2dk80cGZkblBPQkk1RzlWdkd4RklUZWEwVkdqMGxGQ243WE1lTzdyTlh0T0ZDOVAwamPSAZoCQVVfeXFMT0lUTEtOYnV4TkRKWlZZdk82VDJqR2xPZnlnMjNBZTR6TjVFazlBak1YSTNYSktpbWxSX25SbjJsd2ROMHpjdzFKbEJzZHhxdmNfMXJpeUdPdjNXb1hBRk42dlE2b3JBYjA2V3ExQmIyaGdGa29nbjBHeVlZREFTWlVHVHlXRDN0S1NSdXNxbTNsQmUxTU9kZ1RQNklUYzZPTi15N0N6SFBSeHJNZy1fZmM3S1c1X1ZXZDE3RkRTUXpFWFJMRDVrWDJYYlh6bnZfckd5T1h2RkczQlotSnQzREVBTjJCOXZTR3dkSW9zMzVLalZhRnduenA3WlJSREdPTDkwRURwRERIVVdEa3dGYktGYXo5QnVJMFV3?oc=5
+- "Keep Them On": Trump Asks EU To Slap Tariffs Of Up To 100% On India, China - NDTV
+  "Keep Them On": Trump Asks EU To Slap Tariffs
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWF3NDRVR2M3VkhoeFFwdlE1bFNhUWI5aTI4bFpNdUFGazZzcEFMOUo5QjVnRi1UX1RYSmZueDlvaTF2VmpNQTZQS2NNb0dUelhRNDNVTXZ6T0JSeG8ySjBCWV8wRkJnTVlRTENMM0kybDMzSFVKcXNLUG5tZW5wcnozY3kxTkVrbUFaOC02SWtnT3Q2T0RrT2hqdVc4NWpQNWVXenRPMFJPMm5WRFhJM0lROEk0TjhWdGJ0bzk2akYxNHVDMzVleFFLYm9TRU3SAdcBQVVfeXFMT2pSZ0QzUWZlaGlNWkVXRzBORy14S2NRQkxzcUZEbkxFbFRvRkhaVk5oQW5qSlFpc3NUYzZOTWRVS2Vwb1EwYmtwTE12Uy15UF9aVE5WbWkyV3lodXRLUXBFd1pubHlabWVTY0xpQXhYdkM4d1NvQk12NXJndzRPdUVxdnhsbm1VaV9zQnJRZmpJNHBmM3BWWC0tNktrdGNvdnVFcWhOMkhYNWZCZ1lNRGRqS3dNVkdaaE11bUZDa3dRQjNVZVFncG5Yd0pLNWNBUjVIeVgyUDg?oc=5
 
 - Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
   The Hindu reports that India-U.S. trade
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
 
-- "Pleased To Announce That India, US Are...": Trump On 'Trade Barriers' - NDTV
-  "Pleased To Announce That India, US
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmNhZV9WTTBCcG5aNnQxd3NDRl9JWGtFUzQ5cXBmeVNEVGJtZ0p1eUV5dHJLUHJKUzFNV3lPTFFpeEN6NE9oS3BDclNielBEeHMzWWlZa2IwOVZVbk9uQVVVa1ZPa0x0cnZ4cW9hT3REblpHU0NQbHFMYTNNczVZd1NQazJJSWZueDY4WlJRb2todTQ3Q2lkM3luc0Y2ZEpHaWZROVI2TC0xLXpKd0JQck9CUdIBuwFBVV95cUxQOHplLWRvUDdES1dCRHAzdmxyZ3ZFQTdxY1ZoOURoRUZGNkpydThGdmlaY096cjBDRllsVU9ITnZjamdfYnJXRWVQemYzUU84LUdaaVRvUzZYRGlQSy1oMzRZcEZuT3R3TUt6NHZwNUdudS0yMmY0X29jT1EtbFJaMndDRzN4cWpSZ3Rhc2hlWnVsZUs2R1FxZHZLZUlEZnBBWTkxYzlTaGtKaUpQcE1NQmVnMzFuMUVCdmhB?oc=5
+- Travel Smart: Save More By Exploring India’s Lesser-Known Destinations - News18
+  Travel Smart: Save More By Expl
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGNibHdwdVJ1akRVdHdBNHZ0VlVmYnI5QmVEUmpyWk1hc3Y5NldnVmFNRnE1M3dQRG9ranRva2I1NjZTQ2ZKdlFCV0J1eEdwdVZpSGVzblNPWFhndmczOGhSa2VUMGxQUDY1Mi1WNkt3UnRVUmtad0NDX3k5VVROSmZibW9memdRZ04zX3F0ekhiZnFJUHRRaS00N0xpVDAtYUdfNFNJRkQzT3lqZXF5R1ZDb1ZwaXppalHSAb8BQVVfeXFMUF9xLUNqaUZyYzI1MTNzOFBwMkM2elNta01DcXVkU1VQVmFNVjR0bFhJZmRfVEotbllFLTF1azg3SzF2WHgwSUM3dURtSE1fbW5rOUhUSUNnaXJUOXRJcW1KN3FOeklfOFJRSUVVZUVCUGtNMXE1c1loQzhpSE04M09adXpaUjFfRmlMdnR0dUFpUmVwTlFWZjVvYjF2cm9aR0sxcFZ6YkJ1ajlmczZ2STlIR1lkeEVRMnA5eGlIR2c?oc=5
 
-- Trump aide Peter Navarro warns India amid tariff row, says 'won't end well' | Latest News India - Hindustan Times
-  The row between India and the U.S. has been going on for months
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmpQamp5LUpMSUtFUnhDX1NfOHlUUUtjbW5NQXVvSXpXSWozT2xVOFZ2M29BU3dNYW9BT1lHbkhtZU1TOXpDNTVTajdYX2tzcHNRdnFCTzhZa0FDMFVXNU9uQkUtcTRWaGFhcjNPZVNoNVRjQWZ5T3VoUHJZckVjM3dhOExxc3BHc3FhRElqVFZtQ0dYdDA5cTYxbXg1RnZFcmlXUlI3UVc0Q21hWmx2dFExQTFJMVdmVjNaSHFDVHVEVTNULWQyOUJFTVNiaDTSAdQBQVVfeXFMT1psSXhkMHd0QmpQTW1QOWp4MzhMQ1liYVhHX0Q3RURuRGFGLTlLdXltTmZ0b09qc05mb0xrb0pVNVZLV0dzUzljeFhMcWotcVdxdVRScEI2MjREbTgwVVFTYjhFNTFyS21DLWZtSHBadVJtVUY5ZXdETVBTWUQ4NHNKeHVUV21kSlczZnJKdDU4RnBlU2I5cGlkLUdhU2FDOGN6Wl9GR1dXVGt4TUR5WU11R1poVHp5bWN0SGUzSmU1amROQUR6WHNPbzVBQWV5NjZyMWk?oc=5
+- India eyes advanced 5-7 nm chips as semiconductor mission enters next phase: Additional Secy MeitY - Mint
+  India eyes advanced 5-7 nm chips as semiconductor mission enters
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTnFnQmlvcGpfM1prMGFVYXMwZll6VktaSjI2V04zdUxGSVNFUjVudWhweHVnSkVIcTNPZWM2SWM3aDNGYUtJMkIweFdXR1JBRjljS1h6MXdzeFpfbDVfUjFLbUEzNVc4b2hEcUxYLXdISEMtT2lTZjl3d1E0dXFWbURyOXZySGc3UGZQRG9MYWNvVDllaG9YdENEUUFMMmtuVmNXZl83R2tOTGdxWmVhNmFxamM2Y1owMGVaanloX0FUMXhEcDRrT3RXNzRiRFRfakpHb1NkdkZRamFnQVNlSDJhZDNWdGxfd3kwZ0JXcTZHaUZIVVHSAfsBQVVfeXFMTnNMNkF0T1FzNEd4bDlBMFViWHdyV1FLWlMxb0hEeXRxVUc3dnpiWXM5VHZUMmJkRlZ4QTBBd1laTklkU1FPNXlTLXRfM29vTThTUXhkci16YXNYT3BSdDFmR1dyRFNYMFBPRkVjM1BJa0taUFRGWllzSHBjQTJFejUwNW1nam9pQ2FYSmVidTBuOHk1ekh3Q2lZV0dpbVRKVHNZSFRlR3IyNWRyeXl2RmdGcHk1RXVaYzlkMFpvQUIwcEd0SzFQYnAzZmdRc3VnLW9xTUJGQlhyNGQxNEZJRHdJeC1Qd2l5NzFtNWJtM3hlamJFMnEtR1ZLb1k?oc=5
 
-- Breaking News Live Updates: PM Modi responds to Donald Trump; both express confidence on India-US trade talks - Times of India
-  PM Modi responds to Donald Trump; both express confidence on India-US trade talks.
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHpZTFo1XzNoaU1uUHhtSG5rOTN3NmZOcDA1TUZmUDFnZVhlaHVqWVQyd0VqX2hGc19SSUhHVlp2ZEdQaEhlTkdPaE5iTHdsMG1jMUZ2RkZhVzltVzFzTHdYT2FNTUhUM3pFR3duallUZUprV0pncG91MmFPSGJuNXZ4ZjcxN19FZjZ0amlVdFM2SURJUDRNVHkyTlTSAaIBQVVfeXFMT2JtSGoxUWUxdk5QMGZMUjFsSzc5XzBRNzZ1aHNONFVwSV9CMmxWQXQ3aGVlazAyX2hlbE9qQ3BXODFYY05zV1AxN0kzTW9fZV9temNXRmxzR2VFcVE1S0dVX0xRdlhRRW4taFBfYlFTTWhQMFJKaTFxQXZ6Mm1pUTZKYVRvVU1fLWZOcjl1UnFnaFVxZWc0a0dfRi1KbHIzRnB3?oc=5
+- Pakistani national illegally staying in India deported from Hyderabad after serving jail term - The Hindu
+  Pakistani national illegally staying in India deported from Hyderabad after
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeEZwaUNaWVR0Q0VrNUszdkV0ZkFkZm1XY1AwaFNMa2NSVjBCUWpDS0dMRUJLRGlDZFRDeW5vUVVYSlFfdGY4YjBOeHNzZlYwOTNtRFJzR2E2SVczMDE4TEdqQWNVTHVILWE2U0NqSENPY1o3d1NfZFR4Y01aMDhDUHNyMF80MmEtaEg0Qlp0ZE5yMnROY2czSzFWLUJBYmIyWWUxZTF6TFE0LUtTMmROQ0xVTmlIZk51ZlIyOGJNQVpVV0F6RUFDZlg3NE1VVWtUT0FnUDNIRkhoOEtYOGtoZE5XOUhadFdIOUhGdGo2cmVCZ9IB-AFBVV95cUxPVF9jUFkxeEFHbVFRRDZUWVZpMXVCRThYYTFlMnZQUWxQR3BSeEstZzc0M28zRHlCamtsRGJDODEyLUNJM3FyS3UtNjhReWtyQjVBbnZ1NTJlM1dLVFdDOWJIYmpDUHAtX0dhZU93cDFaOUw1czdWaV85SkdqVFBXLUw1VDJKbUs1LVYzLU03a1NYTGh2VncteTV2X3NZUUl1WjhSQ05kTTNTWWxYd3ZfdnpwV2k2ZHZRcVJWYjJ3enJ4YWV1bnRBa1cxZ3picWN0Zk44eDVrdlBXcURRZjQxNnIxX1hjUUZCU2V6c0xrNlZQa1BWSjRtVQ?oc=5
 
-- Squatting vs. sitting toilets in India and their impact on gut health, backed by science - Times of India
-  Squatting vs. sitting toilets in India and their impact on gut health
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQdjdpNzlHY2FGbHB5Vmw1SmVtVExUSTJuS1NBRTNhb1BLMURxY3UwUDkwSlRKMU1jU0FjazJGeFJIVkhJVmpvSUM4ZnFibERhN3BKcmJWWkkwTGpJMmZQc09XYzd1UEQxOFJGTkdlQWhJYjRHRnZVVjNmdVlRNDMyRldhcWlJcGE5c3Z2VTd0Z2V5WThibEl3SXpmSTkzRFFOUG43M0hGWnRJSDdqSG05eExPLXRzLWFMVnBaN3MwTVhmV2s5Y1g2blNlb0t6d2tKX3Y0ckkwTFJod0F2N2tfNkE2dk80cGZkblBPQkk1RzlWdkd4RklUZWEwVkdqMGxGQ243WE1lTzdyTlh0T0ZDOVAwamPSAZoCQVVfeXFMT0lUTEtOYnV4TkRKWlZZdk82VDJqR2xPZnlnMjNBZTR6TjVFazlBak1YSTNYSktpbWxSX25SbjJsd2ROMHpjdzFKbEJzZHhxdmNfMXJpeUdPdjNXb1hBRk42dlE2b3JBYjA2V3ExQmIyaGdGa29nbjBHeVlZREFTWlVHVHlXRDN0S1NSdXNxbTNsQmUxTU9kZ1RQNklUYzZPTi15N0N6SFBSeHJNZy1fZmM3S1c1X1ZXZDE3RkRTUXpFWFJMRDVrWDJYYlh6bnZfckd5T1h2RkczQlotSnQzREVBTjJCOXZTR3dkSW9zMzVLalZhRnduenA3WlJSREdPTDkwRURwRERIVVdEa3dGYktGYXo5QnVJMFV3?oc=5
-
-- Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
-  The Hindu reports that India-U.S. trade
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
-
-- "Pleased To Announce That India, US Are...": Trump On 'Trade Barriers' - NDTV
-  "Pleased To Announce That India, US
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmNhZV9WTTBCcG5aNnQxd3NDRl9JWGtFUzQ5cXBmeVNEVGJtZ0p1eUV5dHJLUHJKUzFNV3lPTFFpeEN6NE9oS3BDclNielBEeHMzWWlZa2IwOVZVbk9uQVVVa1ZPa0x0cnZ4cW9hT3REblpHU0NQbHFMYTNNczVZd1NQazJJSWZueDY4WlJRb2todTQ3Q2lkM3luc0Y2ZEpHaWZROVI2TC0xLXpKd0JQck9CUdIBuwFBVV95cUxQOHplLWRvUDdES1dCRHAzdmxyZ3ZFQTdxY1ZoOURoRUZGNkpydThGdmlaY096cjBDRllsVU9ITnZjamdfYnJXRWVQemYzUU84LUdaaVRvUzZYRGlQSy1oMzRZcEZuT3R3TUt6NHZwNUdudS0yMmY0X29jT1EtbFJaMndDRzN4cWpSZ3Rhc2hlWnVsZUs2R1FxZHZLZUlEZnBBWTkxYzlTaGtKaUpQcE1NQmVnMzFuMUVCdmhB?oc=5
-
-- Trump aide Peter Navarro warns India amid tariff row, says 'won't end well' | Latest News India - Hindustan Times
-  The row between India and the U.S. has been going on for months
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmpQamp5LUpMSUtFUnhDX1NfOHlUUUtjbW5NQXVvSXpXSWozT2xVOFZ2M29BU3dNYW9BT1lHbkhtZU1TOXpDNTVTajdYX2tzcHNRdnFCTzhZa0FDMFVXNU9uQkUtcTRWaGFhcjNPZVNoNVRjQWZ5T3VoUHJZckVjM3dhOExxc3BHc3FhRElqVFZtQ0dYdDA5cTYxbXg1RnZFcmlXUlI3UVc0Q21hWmx2dFExQTFJMVdmVjNaSHFDVHVEVTNULWQyOUJFTVNiaDTSAdQBQVVfeXFMT1psSXhkMHd0QmpQTW1QOWp4MzhMQ1liYVhHX0Q3RURuRGFGLTlLdXltTmZ0b09qc05mb0xrb0pVNVZLV0dzUzljeFhMcWotcVdxdVRScEI2MjREbTgwVVFTYjhFNTFyS21DLWZtSHBadVJtVUY5ZXdETVBTWUQ4NHNKeHVUV21kSlczZnJKdDU4RnBlU2I5cGlkLUdhU2FDOGN6Wl9GR1dXVGt4TUR5WU11R1poVHp5bWN0SGUzSmU1amROQUR6WHNPbzVBQWV5NjZyMWk?oc=5
-
-- Breaking News Live Updates: PM Modi responds to Donald Trump; both express confidence on India-US trade talks - Times of India
-  PM Modi responds to Donald Trump; both express confidence on India-US trade talks.
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHpZTFo1XzNoaU1uUHhtSG5rOTN3NmZOcDA1TUZmUDFnZVhlaHVqWVQyd0VqX2hGc19SSUhHVlp2ZEdQaEhlTkdPaE5iTHdsMG1jMUZ2RkZhVzltVzFzTHdYT2FNTUhUM3pFR3duallUZUprV0pncG91MmFPSGJuNXZ4ZjcxN19FZjZ0amlVdFM2SURJUDRNVHkyTlTSAaIBQVVfeXFMT2JtSGoxUWUxdk5QMGZMUjFsSzc5XzBRNzZ1aHNONFVwSV9CMmxWQXQ3aGVlazAyX2hlbE9qQ3BXODFYY05zV1AxN0kzTW9fZV9temNXRmxzR2VFcVE1S0dVX0xRdlhRRW4taFBfYlFTTWhQMFJKaTFxQXZ6Mm1pUTZKYVRvVU1fLWZOcjl1UnFnaFVxZWc0a0dfRi1KbHIzRnB3?oc=5
-
-- Squatting vs. sitting toilets in India and their impact on gut health, backed by science - Times of India
-  Squatting vs. sitting toilets in India and their impact on gut health
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQdjdpNzlHY2FGbHB5Vmw1SmVtVExUSTJuS1NBRTNhb1BLMURxY3UwUDkwSlRKMU1jU0FjazJGeFJIVkhJVmpvSUM4ZnFibERhN3BKcmJWWkkwTGpJMmZQc09XYzd1UEQxOFJGTkdlQWhJYjRHRnZVVjNmdVlRNDMyRldhcWlJcGE5c3Z2VTd0Z2V5WThibEl3SXpmSTkzRFFOUG43M0hGWnRJSDdqSG05eExPLXRzLWFMVnBaN3MwTVhmV2s5Y1g2blNlb0t6d2tKX3Y0ckkwTFJod0F2N2tfNkE2dk80cGZkblBPQkk1RzlWdkd4RklUZWEwVkdqMGxGQ243WE1lTzdyTlh0T0ZDOVAwamPSAZoCQVVfeXFMT0lUTEtOYnV4TkRKWlZZdk82VDJqR2xPZnlnMjNBZTR6TjVFazlBak1YSTNYSktpbWxSX25SbjJsd2ROMHpjdzFKbEJzZHhxdmNfMXJpeUdPdjNXb1hBRk42dlE2b3JBYjA2V3ExQmIyaGdGa29nbjBHeVlZREFTWlVHVHlXRDN0S1NSdXNxbTNsQmUxTU9kZ1RQNklUYzZPTi15N0N6SFBSeHJNZy1fZmM3S1c1X1ZXZDE3RkRTUXpFWFJMRDVrWDJYYlh6bnZfckd5T1h2RkczQlotSnQzREVBTjJCOXZTR3dkSW9zMzVLalZhRnduenA3WlJSREdPTDkwRURwRERIVVdEa3dGYktGYXo5QnVJMFV3?oc=5
+- "Keep Them On": Trump Asks EU To Slap Tariffs Of Up To 100% On India, China - NDTV
+  "Keep Them On": Trump Asks EU To Slap Tariffs
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWF3NDRVR2M3VkhoeFFwdlE1bFNhUWI5aTI4bFpNdUFGazZzcEFMOUo5QjVnRi1UX1RYSmZueDlvaTF2VmpNQTZQS2NNb0dUelhRNDNVTXZ6T0JSeG8ySjBCWV8wRkJnTVlRTENMM0kybDMzSFVKcXNLUG5tZW5wcnozY3kxTkVrbUFaOC02SWtnT3Q2T0RrT2hqdVc4NWpQNWVXenRPMFJPMm5WRFhJM0lROEk0TjhWdGJ0bzk2akYxNHVDMzVleFFLYm9TRU3SAdcBQVVfeXFMT2pSZ0QzUWZlaGlNWkVXRzBORy14S2NRQkxzcUZEbkxFbFRvRkhaVk5oQW5qSlFpc3NUYzZOTWRVS2Vwb1EwYmtwTE12Uy15UF9aVE5WbWkyV3lodXRLUXBFd1pubHlabWVTY0xpQXhYdkM4d1NvQk12NXJndzRPdUVxdnhsbm1VaV9zQnJRZmpJNHBmM3BWWC0tNktrdGNvdnVFcWhOMkhYNWZCZ1lNRGRqS3dNVkdaaE11bUZDa3dRQjNVZVFncG5Yd0pLNWNBUjVIeVgyUDg?oc=5
 
 - Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
   The Hindu reports that India-U.S. trade
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
 
+- Travel Smart: Save More By Exploring India’s Lesser-Known Destinations - News18
+  Travel Smart: Save More By Expl
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGNibHdwdVJ1akRVdHdBNHZ0VlVmYnI5QmVEUmpyWk1hc3Y5NldnVmFNRnE1M3dQRG9ranRva2I1NjZTQ2ZKdlFCV0J1eEdwdVZpSGVzblNPWFhndmczOGhSa2VUMGxQUDY1Mi1WNkt3UnRVUmtad0NDX3k5VVROSmZibW9memdRZ04zX3F0ekhiZnFJUHRRaS00N0xpVDAtYUdfNFNJRkQzT3lqZXF5R1ZDb1ZwaXppalHSAb8BQVVfeXFMUF9xLUNqaUZyYzI1MTNzOFBwMkM2elNta01DcXVkU1VQVmFNVjR0bFhJZmRfVEotbllFLTF1azg3SzF2WHgwSUM3dURtSE1fbW5rOUhUSUNnaXJUOXRJcW1KN3FOeklfOFJRSUVVZUVCUGtNMXE1c1loQzhpSE04M09adXpaUjFfRmlMdnR0dUFpUmVwTlFWZjVvYjF2cm9aR0sxcFZ6YkJ1ajlmczZ2STlIR1lkeEVRMnA5eGlIR2c?oc=5
 
-_Last updated: 2025-09-10 06:26:30 UTC_
+- India eyes advanced 5-7 nm chips as semiconductor mission enters next phase: Additional Secy MeitY - Mint
+  India eyes advanced 5-7 nm chips as semiconductor mission enters
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTnFnQmlvcGpfM1prMGFVYXMwZll6VktaSjI2V04zdUxGSVNFUjVudWhweHVnSkVIcTNPZWM2SWM3aDNGYUtJMkIweFdXR1JBRjljS1h6MXdzeFpfbDVfUjFLbUEzNVc4b2hEcUxYLXdISEMtT2lTZjl3d1E0dXFWbURyOXZySGc3UGZQRG9MYWNvVDllaG9YdENEUUFMMmtuVmNXZl83R2tOTGdxWmVhNmFxamM2Y1owMGVaanloX0FUMXhEcDRrT3RXNzRiRFRfakpHb1NkdkZRamFnQVNlSDJhZDNWdGxfd3kwZ0JXcTZHaUZIVVHSAfsBQVVfeXFMTnNMNkF0T1FzNEd4bDlBMFViWHdyV1FLWlMxb0hEeXRxVUc3dnpiWXM5VHZUMmJkRlZ4QTBBd1laTklkU1FPNXlTLXRfM29vTThTUXhkci16YXNYT3BSdDFmR1dyRFNYMFBPRkVjM1BJa0taUFRGWllzSHBjQTJFejUwNW1nam9pQ2FYSmVidTBuOHk1ekh3Q2lZV0dpbVRKVHNZSFRlR3IyNWRyeXl2RmdGcHk1RXVaYzlkMFpvQUIwcEd0SzFQYnAzZmdRc3VnLW9xTUJGQlhyNGQxNEZJRHdJeC1Qd2l5NzFtNWJtM3hlamJFMnEtR1ZLb1k?oc=5
+
+- Pakistani national illegally staying in India deported from Hyderabad after serving jail term - The Hindu
+  Pakistani national illegally staying in India deported from Hyderabad after
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeEZwaUNaWVR0Q0VrNUszdkV0ZkFkZm1XY1AwaFNMa2NSVjBCUWpDS0dMRUJLRGlDZFRDeW5vUVVYSlFfdGY4YjBOeHNzZlYwOTNtRFJzR2E2SVczMDE4TEdqQWNVTHVILWE2U0NqSENPY1o3d1NfZFR4Y01aMDhDUHNyMF80MmEtaEg0Qlp0ZE5yMnROY2czSzFWLUJBYmIyWWUxZTF6TFE0LUtTMmROQ0xVTmlIZk51ZlIyOGJNQVpVV0F6RUFDZlg3NE1VVWtUT0FnUDNIRkhoOEtYOGtoZE5XOUhadFdIOUhGdGo2cmVCZ9IB-AFBVV95cUxPVF9jUFkxeEFHbVFRRDZUWVZpMXVCRThYYTFlMnZQUWxQR3BSeEstZzc0M28zRHlCamtsRGJDODEyLUNJM3FyS3UtNjhReWtyQjVBbnZ1NTJlM1dLVFdDOWJIYmpDUHAtX0dhZU93cDFaOUw1czdWaV85SkdqVFBXLUw1VDJKbUs1LVYzLU03a1NYTGh2VncteTV2X3NZUUl1WjhSQ05kTTNTWWxYd3ZfdnpwV2k2ZHZRcVJWYjJ3enJ4YWV1bnRBa1cxZ3picWN0Zk44eDVrdlBXcURRZjQxNnIxX1hjUUZCU2V6c0xrNlZQa1BWSjRtVQ?oc=5
+
+- "Keep Them On": Trump Asks EU To Slap Tariffs Of Up To 100% On India, China - NDTV
+  "Keep Them On": Trump Asks EU To Slap Tariffs
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWF3NDRVR2M3VkhoeFFwdlE1bFNhUWI5aTI4bFpNdUFGazZzcEFMOUo5QjVnRi1UX1RYSmZueDlvaTF2VmpNQTZQS2NNb0dUelhRNDNVTXZ6T0JSeG8ySjBCWV8wRkJnTVlRTENMM0kybDMzSFVKcXNLUG5tZW5wcnozY3kxTkVrbUFaOC02SWtnT3Q2T0RrT2hqdVc4NWpQNWVXenRPMFJPMm5WRFhJM0lROEk0TjhWdGJ0bzk2akYxNHVDMzVleFFLYm9TRU3SAdcBQVVfeXFMT2pSZ0QzUWZlaGlNWkVXRzBORy14S2NRQkxzcUZEbkxFbFRvRkhaVk5oQW5qSlFpc3NUYzZOTWRVS2Vwb1EwYmtwTE12Uy15UF9aVE5WbWkyV3lodXRLUXBFd1pubHlabWVTY0xpQXhYdkM4d1NvQk12NXJndzRPdUVxdnhsbm1VaV9zQnJRZmpJNHBmM3BWWC0tNktrdGNvdnVFcWhOMkhYNWZCZ1lNRGRqS3dNVkdaaE11bUZDa3dRQjNVZVFncG5Yd0pLNWNBUjVIeVgyUDg?oc=5
+
+- Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
+  The Hindu reports that India-U.S. trade
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
+
+- Travel Smart: Save More By Exploring India’s Lesser-Known Destinations - News18
+  Travel Smart: Save More By Expl
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGNibHdwdVJ1akRVdHdBNHZ0VlVmYnI5QmVEUmpyWk1hc3Y5NldnVmFNRnE1M3dQRG9ranRva2I1NjZTQ2ZKdlFCV0J1eEdwdVZpSGVzblNPWFhndmczOGhSa2VUMGxQUDY1Mi1WNkt3UnRVUmtad0NDX3k5VVROSmZibW9memdRZ04zX3F0ekhiZnFJUHRRaS00N0xpVDAtYUdfNFNJRkQzT3lqZXF5R1ZDb1ZwaXppalHSAb8BQVVfeXFMUF9xLUNqaUZyYzI1MTNzOFBwMkM2elNta01DcXVkU1VQVmFNVjR0bFhJZmRfVEotbllFLTF1azg3SzF2WHgwSUM3dURtSE1fbW5rOUhUSUNnaXJUOXRJcW1KN3FOeklfOFJRSUVVZUVCUGtNMXE1c1loQzhpSE04M09adXpaUjFfRmlMdnR0dUFpUmVwTlFWZjVvYjF2cm9aR0sxcFZ6YkJ1ajlmczZ2STlIR1lkeEVRMnA5eGlIR2c?oc=5
+
+- India eyes advanced 5-7 nm chips as semiconductor mission enters next phase: Additional Secy MeitY - Mint
+  India eyes advanced 5-7 nm chips as semiconductor mission enters
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTnFnQmlvcGpfM1prMGFVYXMwZll6VktaSjI2V04zdUxGSVNFUjVudWhweHVnSkVIcTNPZWM2SWM3aDNGYUtJMkIweFdXR1JBRjljS1h6MXdzeFpfbDVfUjFLbUEzNVc4b2hEcUxYLXdISEMtT2lTZjl3d1E0dXFWbURyOXZySGc3UGZQRG9MYWNvVDllaG9YdENEUUFMMmtuVmNXZl83R2tOTGdxWmVhNmFxamM2Y1owMGVaanloX0FUMXhEcDRrT3RXNzRiRFRfakpHb1NkdkZRamFnQVNlSDJhZDNWdGxfd3kwZ0JXcTZHaUZIVVHSAfsBQVVfeXFMTnNMNkF0T1FzNEd4bDlBMFViWHdyV1FLWlMxb0hEeXRxVUc3dnpiWXM5VHZUMmJkRlZ4QTBBd1laTklkU1FPNXlTLXRfM29vTThTUXhkci16YXNYT3BSdDFmR1dyRFNYMFBPRkVjM1BJa0taUFRGWllzSHBjQTJFejUwNW1nam9pQ2FYSmVidTBuOHk1ekh3Q2lZV0dpbVRKVHNZSFRlR3IyNWRyeXl2RmdGcHk1RXVaYzlkMFpvQUIwcEd0SzFQYnAzZmdRc3VnLW9xTUJGQlhyNGQxNEZJRHdJeC1Qd2l5NzFtNWJtM3hlamJFMnEtR1ZLb1k?oc=5
+
+- Pakistani national illegally staying in India deported from Hyderabad after serving jail term - The Hindu
+  Pakistani national illegally staying in India deported from Hyderabad after
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeEZwaUNaWVR0Q0VrNUszdkV0ZkFkZm1XY1AwaFNMa2NSVjBCUWpDS0dMRUJLRGlDZFRDeW5vUVVYSlFfdGY4YjBOeHNzZlYwOTNtRFJzR2E2SVczMDE4TEdqQWNVTHVILWE2U0NqSENPY1o3d1NfZFR4Y01aMDhDUHNyMF80MmEtaEg0Qlp0ZE5yMnROY2czSzFWLUJBYmIyWWUxZTF6TFE0LUtTMmROQ0xVTmlIZk51ZlIyOGJNQVpVV0F6RUFDZlg3NE1VVWtUT0FnUDNIRkhoOEtYOGtoZE5XOUhadFdIOUhGdGo2cmVCZ9IB-AFBVV95cUxPVF9jUFkxeEFHbVFRRDZUWVZpMXVCRThYYTFlMnZQUWxQR3BSeEstZzc0M28zRHlCamtsRGJDODEyLUNJM3FyS3UtNjhReWtyQjVBbnZ1NTJlM1dLVFdDOWJIYmpDUHAtX0dhZU93cDFaOUw1czdWaV85SkdqVFBXLUw1VDJKbUs1LVYzLU03a1NYTGh2VncteTV2X3NZUUl1WjhSQ05kTTNTWWxYd3ZfdnpwV2k2ZHZRcVJWYjJ3enJ4YWV1bnRBa1cxZ3picWN0Zk44eDVrdlBXcURRZjQxNnIxX1hjUUZCU2V6c0xrNlZQa1BWSjRtVQ?oc=5
+
+- "Keep Them On": Trump Asks EU To Slap Tariffs Of Up To 100% On India, China - NDTV
+  "Keep Them On": Trump Asks EU To Slap Tariffs
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWF3NDRVR2M3VkhoeFFwdlE1bFNhUWI5aTI4bFpNdUFGazZzcEFMOUo5QjVnRi1UX1RYSmZueDlvaTF2VmpNQTZQS2NNb0dUelhRNDNVTXZ6T0JSeG8ySjBCWV8wRkJnTVlRTENMM0kybDMzSFVKcXNLUG5tZW5wcnozY3kxTkVrbUFaOC02SWtnT3Q2T0RrT2hqdVc4NWpQNWVXenRPMFJPMm5WRFhJM0lROEk0TjhWdGJ0bzk2akYxNHVDMzVleFFLYm9TRU3SAdcBQVVfeXFMT2pSZ0QzUWZlaGlNWkVXRzBORy14S2NRQkxzcUZEbkxFbFRvRkhaVk5oQW5qSlFpc3NUYzZOTWRVS2Vwb1EwYmtwTE12Uy15UF9aVE5WbWkyV3lodXRLUXBFd1pubHlabWVTY0xpQXhYdkM4d1NvQk12NXJndzRPdUVxdnhsbm1VaV9zQnJRZmpJNHBmM3BWWC0tNktrdGNvdnVFcWhOMkhYNWZCZ1lNRGRqS3dNVkdaaE11bUZDa3dRQjNVZVFncG5Yd0pLNWNBUjVIeVgyUDg?oc=5
+
+- Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
+  The Hindu reports that India-U.S. trade
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
+
+- Travel Smart: Save More By Exploring India’s Lesser-Known Destinations - News18
+  Travel Smart: Save More By Expl
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGNibHdwdVJ1akRVdHdBNHZ0VlVmYnI5QmVEUmpyWk1hc3Y5NldnVmFNRnE1M3dQRG9ranRva2I1NjZTQ2ZKdlFCV0J1eEdwdVZpSGVzblNPWFhndmczOGhSa2VUMGxQUDY1Mi1WNkt3UnRVUmtad0NDX3k5VVROSmZibW9memdRZ04zX3F0ekhiZnFJUHRRaS00N0xpVDAtYUdfNFNJRkQzT3lqZXF5R1ZDb1ZwaXppalHSAb8BQVVfeXFMUF9xLUNqaUZyYzI1MTNzOFBwMkM2elNta01DcXVkU1VQVmFNVjR0bFhJZmRfVEotbllFLTF1azg3SzF2WHgwSUM3dURtSE1fbW5rOUhUSUNnaXJUOXRJcW1KN3FOeklfOFJRSUVVZUVCUGtNMXE1c1loQzhpSE04M09adXpaUjFfRmlMdnR0dUFpUmVwTlFWZjVvYjF2cm9aR0sxcFZ6YkJ1ajlmczZ2STlIR1lkeEVRMnA5eGlIR2c?oc=5
+
+- India eyes advanced 5-7 nm chips as semiconductor mission enters next phase: Additional Secy MeitY - Mint
+  India eyes advanced 5-7 nm chips as semiconductor mission enters
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTnFnQmlvcGpfM1prMGFVYXMwZll6VktaSjI2V04zdUxGSVNFUjVudWhweHVnSkVIcTNPZWM2SWM3aDNGYUtJMkIweFdXR1JBRjljS1h6MXdzeFpfbDVfUjFLbUEzNVc4b2hEcUxYLXdISEMtT2lTZjl3d1E0dXFWbURyOXZySGc3UGZQRG9MYWNvVDllaG9YdENEUUFMMmtuVmNXZl83R2tOTGdxWmVhNmFxamM2Y1owMGVaanloX0FUMXhEcDRrT3RXNzRiRFRfakpHb1NkdkZRamFnQVNlSDJhZDNWdGxfd3kwZ0JXcTZHaUZIVVHSAfsBQVVfeXFMTnNMNkF0T1FzNEd4bDlBMFViWHdyV1FLWlMxb0hEeXRxVUc3dnpiWXM5VHZUMmJkRlZ4QTBBd1laTklkU1FPNXlTLXRfM29vTThTUXhkci16YXNYT3BSdDFmR1dyRFNYMFBPRkVjM1BJa0taUFRGWllzSHBjQTJFejUwNW1nam9pQ2FYSmVidTBuOHk1ekh3Q2lZV0dpbVRKVHNZSFRlR3IyNWRyeXl2RmdGcHk1RXVaYzlkMFpvQUIwcEd0SzFQYnAzZmdRc3VnLW9xTUJGQlhyNGQxNEZJRHdJeC1Qd2l5NzFtNWJtM3hlamJFMnEtR1ZLb1k?oc=5
+
+- Pakistani national illegally staying in India deported from Hyderabad after serving jail term - The Hindu
+  Pakistani national illegally staying in India deported from Hyderabad after
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeEZwaUNaWVR0Q0VrNUszdkV0ZkFkZm1XY1AwaFNMa2NSVjBCUWpDS0dMRUJLRGlDZFRDeW5vUVVYSlFfdGY4YjBOeHNzZlYwOTNtRFJzR2E2SVczMDE4TEdqQWNVTHVILWE2U0NqSENPY1o3d1NfZFR4Y01aMDhDUHNyMF80MmEtaEg0Qlp0ZE5yMnROY2czSzFWLUJBYmIyWWUxZTF6TFE0LUtTMmROQ0xVTmlIZk51ZlIyOGJNQVpVV0F6RUFDZlg3NE1VVWtUT0FnUDNIRkhoOEtYOGtoZE5XOUhadFdIOUhGdGo2cmVCZ9IB-AFBVV95cUxPVF9jUFkxeEFHbVFRRDZUWVZpMXVCRThYYTFlMnZQUWxQR3BSeEstZzc0M28zRHlCamtsRGJDODEyLUNJM3FyS3UtNjhReWtyQjVBbnZ1NTJlM1dLVFdDOWJIYmpDUHAtX0dhZU93cDFaOUw1czdWaV85SkdqVFBXLUw1VDJKbUs1LVYzLU03a1NYTGh2VncteTV2X3NZUUl1WjhSQ05kTTNTWWxYd3ZfdnpwV2k2ZHZRcVJWYjJ3enJ4YWV1bnRBa1cxZ3picWN0Zk44eDVrdlBXcURRZjQxNnIxX1hjUUZCU2V6c0xrNlZQa1BWSjRtVQ?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+
+
+_Last updated: 2025-09-10 12:33:33 UTC_
