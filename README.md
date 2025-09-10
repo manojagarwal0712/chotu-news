@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- After SC prod, Election Commission to Bihar CEO: Use Aadhaar as ID in addition to list of 11
+- EC top brass brainstorms with state poll machinery on pan-India SIR preparedness
   
-  🔗 https://indianexpress.com/article/india/after-sc-prod-election-commission-to-bihar-ceo-use-aadhaar-as-id-in-addition-to-list-of-11-10240614/
+  🔗 https://indianexpress.com/article/india/ec-top-brass-brainstorms-state-poll-machinery-pan-india-sir-preparedness-10241114/
 
-- ‘Suspected foreigners’ in Assam will have 10 days to prove they are citizens; DCs will take final call
+- India explores rare-earth deal with Myanmar after Chinese curb
   
-  🔗 https://indianexpress.com/article/india/suspected-foreigners-in-assam-will-have-10-days-to-prove-they-are-citizens-dcs-will-take-final-call-10240629/
+  🔗 https://indianexpress.com/article/india/india-rare-earth-deal-myanmar-chinese-curb-10241055/
 
-- V-P poll result: Better than expected, says BJP; Congress sees moral victory
+- Gold Today Rate, September 10: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/v-p-poll-result-better-than-expected-says-bjp-congress-sees-moral-victory-10240570/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-september-10-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10240786/
 
-- Supreme Court underlines ‘reasonable time’ for nod to Bills, flags ‘risk’ in fixing time limit
+- News Today Live Updates, 10 September | South Korea sends plane to US to bring back workers detained in immigration raid
   
-  🔗 https://indianexpress.com/article/india/supreme-court-underlines-reasonable-time-for-nod-to-bills-flags-risk-in-fixing-time-limit-10240638/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-09-10-2025-news-headlines-10240743/
 
-- Liked by colleagues & rivals, Radhakrishnan brings in a reputation for moderation
+- Her ASP husband was killed by Maoists 2 months ago; now Chhattisgarh woman is posted as DySP
   
-  🔗 https://indianexpress.com/article/india/liked-by-colleagues-rivals-radhakrishnan-brings-in-a-reputation-for-moderation-10240573/
+  🔗 https://indianexpress.com/article/india/her-asp-husband-was-killed-by-maoists-2-months-ago-now-chhattisgarh-woman-is-posted-as-dysp-10240512/
+
+- Apple iPhone 17 series: Price in India compared to the US, Dubai, Vietnam and other regions
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-iphone-17-series-price-india-us-dubai-10240972/
+
+- Slim iPhone Air could be a design win for Apple: Reports
+  
+  🔗 https://indianexpress.com/article/technology/slim-iphone-air-could-be-a-design-win-for-apple-reports-10240950/
 
 - 5 things no one told you about the latest Apple Event announcements
   
@@ -32,141 +40,145 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-unveils-watch-series-11-se-2-and-ultra-3-a-look-at-whats-different-10240503/
 
-- “India is one of our top growth markets”: Cisco’s top exec on driving Splunk adoption and putting agentic AI at the core of its strategy
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/india-is-one-of-our-top-growth-markets-ciscos-top-exec-on-driving-splunk-adoption-and-putting-agentic-ai-at-the-core-of-its-strategy-10240440/
+- Robinhood launches social media network for investors
+  Robinhood aims to transform its customers into a tight knit community with Robinhood’s social platform as their
+  🔗 https://www.livemint.com/companies/robinhood-launches-social-media-network-for-investors-11757482328902.html
 
-- iPhone 17 Pro and iPhone 17 Pro Max: Apple’s most powerful smartphones yet
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-17-pro-and-iphone-17-pro-max-apples-most-powerful-smartphones-yet-10240453/
+- Banker Talent War Spurs CICC to Add New Paths for Promotion
+  China International Capital Corp. has created new layers of job titles for senior investment bankers. The move comes as it tries to retain talent amid a
+  🔗 https://www.livemint.com/companies/news/banker-talent-war-spurs-cicc-to-add-new-paths-for-promotion-11757473250623.html
 
-- NAB to Cut 410 Support Roles, Shift Some Bank Work to India
-  National Australia Bank Ltd. is cutting 410 jobs within its technology and enterprise operations division. The bank is the nation�
-  🔗 https://www.livemint.com/companies/news/nab-to-cut-410-support-roles-shift-some-bank-work-to-india-11757466068512.html
+- End of WFH? Microsoft makes work-from-office mandatory for three days a week starting next year
+  Microsoft employees will be required to work from the office at least three days a week starting next year. The policy will be implemented in phases, beginning with the employees near Redmond in Washington.
+  🔗 https://www.livemint.com/companies/news/end-of-remote-era-microsoft-makes-work-from-office-mandatory-for-three-days-a-week-starting-next-year-11757470599422.html
 
-- Gifting companies plan to hitch growth ride with Swiggy, Blinkit
-  Swiggy has launched 'Giftables', its instant gifting service in Bengaluru. Swiggy is taking cue from bigger peer Blinkit to capture festive
-  🔗 https://www.livemint.com/companies/news/archies-swiggy-blinkit-gifting-quick-commerce-retail-fmcg-11757336262966.html
+- JPMorgan, Fifth Third Among Banks Facing Losses Tied to Tricolor
+  JPMorgan Chase &amp; Co., Fifth Third Bancorp and Barclays Plc are among banks bracing for potentially hundreds of millions of dollars in combined losses.
+  🔗 https://www.livemint.com/companies/company-results/jpmorgan-fifth-third-among-banks-facing-losses-tied-to-tricolor-11757470534768.html
 
-- India's renewables space has more scope for platform assets, Brookfield's Nawal Saini
-  Brookfield announced Evren two years ago. Evren is a joint venture with Axis Energy to develop wind and solar projects in India.
-  🔗 https://www.livemint.com/companies/india-renewable-energy-platform-assets-brookfield-nawal-saini-axis-energy-green-mobility-power-evren-11757047594964.html
+- Hong Kong Property Woes Weigh on Schroders as Banks Seize Assets
+  Schroders is the latest global asset manager to be caught up in
+  🔗 https://www.livemint.com/companies/news/hong-kong-property-woes-weigh-on-schroders-as-banks-seize-assets-11757468659223.html
 
-- Indian VC firms pivot to specialty healthtech, betting on AI and IP
-  Venture capital investors are shifting focus from digital pharmacies like PharmEasy to niche healthtech startups. Investors are
-  🔗 https://www.livemint.com/companies/start-ups/healthtech-vcs-pivot-ai-specialty-startups-11757314156816.html
+- Vigor Plast IPO share allotment in focus today; GMP, how to check status in 5 steps
+  Vigor Plast India's IPO concluded with nearly 4 times subscription. The allotment is expected on September 10, with shares credited to accounts on September 11 and listing on NSE SM
+  🔗 https://www.livemint.com/market/ipo/vigor-plast-ipo-share-allotment-in-focus-today-gmp-how-to-check-status-in-5-steps-11757483603712.html
 
-- Baker’s Dozen on the block just as India’s bakery market heats up
-  The Baker’s Dozen, backed by Wipro Consumer Care and Fireside Ventures, has hired JM Financial to explore a  ₹500-600 crore sale. The move
-  🔗 https://www.livemint.com/companies/start-ups/bakers-dozen-sale-india-bakery-market-boom-11757398285026.html
+- Small-cap stock under  ₹50 jumps after acquisition of AI-driven defence solutions company
+  Small-cap stock under  ₹50 gained during the intraday trades on Wednesday after it announced acquisition of AI
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-jumps-after-acquisition-of-ai-driven-defence-solutions-company-11757482311650.html
 
-- Global Markets Today: Nikkei 225, Kospi trade higher ahead of China's inflation data
-  Japan's Nikkei 225 index began the session up 0.2 per cent. South Korea’s Kospi gained 0.76 per cent
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-trade-higher-ahead-of-chinas-inflation-data-11757465193435.html
+- PSU defence stock HAL share price jumps on signing technology transfer agreement with ISRO, IN-SPACe & NSIL
+  HAL share price has remained flat in one month and has fallen 12% in three months. The PSU defence stock has rallied 32% in six months and has gained 8% on a YTD basis. Over the past one year,
+  🔗 https://www.livemint.com/market/stock-market-news/psu-defence-stock-hal-share-price-jumps-on-signing-technology-transfer-agreement-with-isro-in-space-nsil-11757484497854.html
 
-- Stock market today: Trade setup for Nifty 50, US Fed rate cut, India-US trade deal; 8 stocks to buy or sell on Wednesday
-  The underlying trend of Nifty remains positive with choppy movement. Important resistance zone for the benchmark Nifty index is around 24900-25000 levels. Im
-  🔗 https://www.livemint.com/market/stock-market-today-trade-setup-for-nifty-50-us-fed-rate-cut-india-us-trade-deal-8-stocks-to-buy-or-sell-on-wednesday-11757414293405.html
+- Vikram Solar share price pops 13% after company reports 484% jump in Q1 net profit
+  Vikram Solar's shares surged 13.3% to  ₹407.95 following a strong quarterly performance. The company is expanding its capacity to meet growing demand
+  🔗 https://www.livemint.com/market/stock-market-news/vikram-solar-share-price-pops-13-after-company-reports-484-jump-in-q1-net-profit-11757483929394.html
 
-- Shringar House of Mangalsutra IPO Day 1: Issue opens today. GMP, subscription status, other key details
-  Shringar House of Mangalsutra IPO opens for subscription from September 10 to 12. The funds will support working capital and corporate needs.
-  🔗 https://www.livemint.com/market/ipo/shringar-house-of-mangalsutra-ipo-gmp-shringar-house-of-mangalsutra-ipo-review-shringar-house-of-mangalsutra-ipo-detail-11757434360229.html
+- What the bond market is signalling about rate cuts
+  The gap between India’s 10-year government bond yield and the repo rate is at 96 basis points. Experts attribute two reasons for this widening spread.
+  🔗 https://www.livemint.com/market/bonds/bond-market-limited-room-rate-cuts-benchmark-yield-repo-rate-mpc-rbi-11757406364355.html
 
-- Stocks to buy: Raja Venkatraman's top picks for 10 September
-  Market expert Raja Venkatraman shares his top three stocks to buy for today, 10 September.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-picks-10-september-sensex-nifty-bank-nifty-11757421868243.html
+- iPhone 17 Pro launch sparks mixed reactions: Netizens call it “Ugliest iPhone ever” – “Steve Jobs would’ve fired all”
+  Apple unveiled iPhone 17 series, Apple Watch Ultra 3, Series 11, Watch SE 3, and AirPods Pro 3. Reactions are mixed—Sam Altman praised the iPhone, while some netizens criticised design
+  🔗 https://www.livemint.com/technology/tech-news/iphone-17-pro-launch-sparks-mixed-reactions-netizens-call-it-ugliest-iphone-ever-steve-jobs-would-ve-fired-all-11757474819761.html
 
-- Rely on others for stock tips? Here’s how to find promising long-term investments yourself.
-  The stock market generally rewards those who stick to the rules of long-term investing. These rules also allow an investor to sleep peacefully at night,
-  🔗 https://www.livemint.com/market/stock-market-news/how-to-pick-stocks-long-term-investing-india-stock-market-for-beginners-fundamental-analysis-dividend-stocks-debt-11757417046146.html
+- iPhone 17 launch to boost Apple India sales, prices largely steady despite US tariff squeeze
+  Apple projected a tariff impact of $1.1 billion for this quarter. Management has not indicated any price hike due to higher import duty costs. Tuesday’s launch, too,
+  🔗 https://www.livemint.com/technology/iphone-17-india-launch-iphone-17-price-in-india-iphone-17-pro-price-in-india-iphone-17-air-price-11757473647555.html
 
-- iPhone 17 Pro, Apple Watch Ultra 3, AirPods Pro 3 and more: Everything Apple announced at Awe Dropping Event
-  Apple unveiled the iPhone 17 series, iPhone Air, Apple Watch Ultra 3, SE 3, Series 11, and AirPods Pro 3. Highlights include advanced health tracking,
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17-pro-apple-watch-ultra-3-airpods-pro-3-and-more-everything-apple-announced-at-awe-dropping-event-11757446238328.html
+- Best laptops under 40000 in September 2025: Lightweight, powerful, and budget-friendly
+  Discover the best laptops under 40,000 this September 2025. They're perfect for work, study, and entertainment.
+  🔗 https://www.livemint.com/technology/gadgets/best-laptops-under-40000-in-september-2025-lightweight-powerful-and-budgetfriendly-11757416556073.html
 
-- Apple unveils Final Cut Camera 2.0 at iPhone 17 launch: ProRes RAW, genlock – here's what's new
-  Final Cut Camera 2.0 also allows users to capture horizontal or vertical orientation without rotating their
-  🔗 https://www.livemint.com/technology/apple-unveils-final-cut-camera-2-0-at-iphone-17-launch-prores-raw-genlock-heres-whats-new-11757447608903.html
+- Sam Altman on iPhone 17 series: ‘First upgrade I’ve wanted in a while’, backs replacing Siri with ChatGPT Voice
+  OpenAI CEO Sam Altman praised the iPhone 17, hinting that he could choose the Air model. Altman backed calls for Siri to be replaced with ChatGPT voice.
+  🔗 https://www.livemint.com/technology/tech-news/sam-altman-on-iphone-17-series-first-upgrade-wanted-in-a-while-backs-idea-of-replacing-siri-with-chatgpt-voice-11757471182754.html
 
-- iPhone 17, iPhone Air, iPhone 17 Pro and Pro Max launched in India: Price, sale date and all you need to know
-  Apple has launched the iPhone 17 series in India. The series includes iPhone 17, iPhone Air, iPhone 17 Pro, and iPhone17 Pro Max. Prices range from 
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17-iphone-air-iphone-17-pro-and-pro-max-launched-in-india-check-price-specs-and-more-11757444364269.html
+- iPhone 17 vs Samsung Galaxy S25: Price, display, camera, battery and more compared
+  Apple launched the iPhone 17 with design changes, brighter display, and upgraded cameras. Samsung banks on the Galaxy S25 with AI-driven features and enhanced security.
+  🔗 https://www.livemint.com/technology/tech-news/iphone-17-vs-samsung-galaxy-s25-price-display-camera-battery-and-more-compared-11757468280801.html
 
-- AirPods Pro 3: Heart-rate monitor, live translation– What’s inside Apple’s 'smartest' earbuds yet?
-  Apple Inc. launched AirPods Pro 3, featuring health-tracking, enhanced noise cancellation, among
-  🔗 https://www.livemint.com/technology/gadgets/airpods-pro-3-heart-rate-monitor-live-translation-what-s-inside-apple-s-smartest-earbuds-yet-11757441481047.html
+- Not a market to go bargain-hunting; earnings to drive market recovery, says InCred’s Aditya Sood
+  Despite recent flat returns, potential US Federal Reserve rate cuts and a favorable bond spread create a supportive environment. Sood is cautiously optimistic, favoring healthcare, rural-focused consumer stocks, and select IT firms like Infosys for steady comp
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/not-a-market-to-go-bargain-hunting-earnings-to-drive-market-recovery-says-increds-aditya-sood/articleshow/123801708.cms
 
-- iPhone 17 Pro, iPhone 17 Pro Max with A19 Pro chipset and iOS 26 launched: Price, specs, features and more
-  Apple launches iPhone 17 Pro and iPhone 17 Max at its Awe Dropping event. The Pro models feature the A19 Pro processor and iOS 26.
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17-pro-iphone-17-pro-max-with-a19-pro-chipset-and-ios-26-launched-price-specs-features-and-more-11757441054309.html
+- IT stocks rally up to 8%: Here’s what is fueling the surge
+  Nifty IT index posts gains for the second straight session. Broad-based buying lifted both large- and mid-cap stocks.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-rally-up-to-8-heres-what-is-fueling-the-surge/articleshow/123801466.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  Indian equity markets closed higher on Tuesday, propelled by gains in IT, pharma, and FMCG sectors. Technically, Nifty maintained its position above key EMAs, suggesting a continued short-term uptrend.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/123790452.cms
+- An Oracle may displace Elon Musk as the world's richest billionaire
+  Ellison's fortune is heavily tied to Oracle, whose stock has risen 45% this year. Tesla shares have fallen 14%, trimming Musk’s wealth.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/an-oracle-may-displace-elon-musk-as-the-worlds-richest-billionaire/articleshow/123801297.cms
 
-- Stocks in news: Vodafone Idea, Kotak Bank, Bajaj Auto, Blue Jet, Bikaji Foods
-  Prakash Industries declared a dividend, while Blue Jet Healthcare's promoter will sell shares via OFS. Sumitomo Mitsui plans to sell its stake in Kotak Mahindra Bank, and Bajaj Auto will pass on
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vodafone-idea-kotak-bank-bajaj-auto-blue-jet-bikaji-foods/articleshow/123790383.cms
+- MTAR Technologies shares jump 4% on Rs 386 crore clean energy order from Bloom Energy
+  MTAR Technologies shares rose sharply after the company secured Rs 386 crore in clean energy orders from Bloom Energy. The deals, valid till June and March 2026, are expected to
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mtar-technologies-shares-jump-4-on-rs-386-crore-clean-energy-order-from-bloom-energy/articleshow/123801158.cms
 
-- Will Urban Company’s IPO deliver returns despite rich valuations?
-  The IPO is suitable for investors with high-risk tolerance. Urban Company plans to raise ⁹472 crore through fresh equity and ₹1,428 crore via offer for sale.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/will-urban-companys-ipo-deliver-returns-despite-rich-valuations/articleshow/123797325.cms
+- Manish Chokhani on global reset, AI mania and India’s market puzzle
+  Global capital flows are changing due to AI, geopolitics, and hard assets. Money is flowing back to the US, impacting India's foreign investment. Indian markets remain strong due to retail inflows.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/manish-chokhani-on-global-reset-ai-mania-and-indias-market-puzzle/articleshow/123801027.cms
 
-- SAT asks Sebi to explain why it withheld documents from Jane Street
-  The Securities Appellate Tribunal (SAT) has directed SEBI to explain why it withheld documents from Jane Street. SAT has also halted in-person hearings in the case
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sat-asks-sebi-to-explain-why-it-withheld-documents-in-jane-street-case/articleshow/123797286.cms
-
-- Will Infosys' share buyback boost investor confidence?
-  Infosys shares surged 5% following the buyback declaration. This marks the IT firm's fifth buyback, aiming to counter a 20% stock decline this year.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/will-infosys-share-buyback-boost-investor-confidence/articleshow/123797239.cms
-
-- "Won't End Well For India": Trump Aide Doubles Down On 'Tariff Maharaja' Jab - NDTV
-  "Won't End Well For India": Trump A
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ2lZb1RGd3JHOWNUeGtVRnEzWnQtZXpiTHZiSzRQRlkxTnAtbmx4eFg1LTVoV2pUZ2I3dmF3eUh4YlBsWnN4WW1jRG5XcWxaLXo1dk9CcHVwNWVjMWNwZ0tZYTFTNGNHby1icVc4WjI4M2VCdFpxeS10ZUFvUmFhZllkakh3WUlBQ3N4dm9hQTdzcS1IWmwwYUpaVnVTTkU2Q21OcXZEeWhQY1FzZkRKNUZCamo5MFhGUTVIcnNLS3N4OThUeDNZck9uQdIB0wFBVV95cUxOcTRMSHdhTmlmbkdJeTZLQlNBZjFKWU1pWFMtNzVrb1dfOVczVHYzaTM1NmdfSnNGblNhQ3FsZFN3N0FEaTlnaGY2djFJTzJmWFU0SldOQlZsTURxV0JLWk8xTElZaExNX0VLTDB5R0JvYnlyLUpSdGR4TFF2WVptQ2hXT2ZPb1ZJRHA5Smp1MDZCWXdBVElWWUNNbTk1NFdfYU1iSDZUSWFHX2xtNUZyWkFxdHd5WE5WNk12ekNZVm84M0tNSGphLXh6dTRBbk9Hb0Zn?oc=5
+- "Pleased To Announce That India, US Are...": Trump On 'Trade Barriers' - NDTV
+  "Pleased To Announce That India, US
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmNhZV9WTTBCcG5aNnQxd3NDRl9JWGtFUzQ5cXBmeVNEVGJtZ0p1eUV5dHJLUHJKUzFNV3lPTFFpeEN6NE9oS3BDclNielBEeHMzWWlZa2IwOVZVbk9uQVVVa1ZPa0x0cnZ4cW9hT3REblpHU0NQbHFMYTNNczVZd1NQazJJSWZueDY4WlJRb2todTQ3Q2lkM3luc0Y2ZEpHaWZROVI2TC0xLXpKd0JQck9CUdIBuwFBVV95cUxQOHplLWRvUDdES1dCRHAzdmxyZ3ZFQTdxY1ZoOURoRUZGNkpydThGdmlaY096cjBDRllsVU9ITnZjamdfYnJXRWVQemYzUU84LUdaaVRvUzZYRGlQSy1oMzRZcEZuT3R3TUt6NHZwNUdudS0yMmY0X29jT1EtbFJaMndDRzN4cWpSZ3Rhc2hlWnVsZUs2R1FxZHZLZUlEZnBBWTkxYzlTaGtKaUpQcE1NQmVnMzFuMUVCdmhB?oc=5
 
 - Trump aide Peter Navarro warns India amid tariff row, says 'won't end well' | Latest News India - Hindustan Times
   The row between India and the U.S. has been going on for months
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmpQamp5LUpMSUtFUnhDX1NfOHlUUUtjbW5NQXVvSXpXSWozT2xVOFZ2M29BU3dNYW9BT1lHbkhtZU1TOXpDNTVTajdYX2tzcHNRdnFCTzhZa0FDMFVXNU9uQkUtcTRWaGFhcjNPZVNoNVRjQWZ5T3VoUHJZckVjM3dhOExxc3BHc3FhRElqVFZtQ0dYdDA5cTYxbXg1RnZFcmlXUlI3UVc0Q21hWmx2dFExQTFJMVdmVjNaSHFDVHVEVTNULWQyOUJFTVNiaDTSAdQBQVVfeXFMT1psSXhkMHd0QmpQTW1QOWp4MzhMQ1liYVhHX0Q3RURuRGFGLTlLdXltTmZ0b09qc05mb0xrb0pVNVZLV0dzUzljeFhMcWotcVdxdVRScEI2MjREbTgwVVFTYjhFNTFyS21DLWZtSHBadVJtVUY5ZXdETVBTWUQ4NHNKeHVUV21kSlczZnJKdDU4RnBlU2I5cGlkLUdhU2FDOGN6Wl9GR1dXVGt4TUR5WU11R1poVHp5bWN0SGUzSmU1amROQUR6WHNPbzVBQWV5NjZyMWk?oc=5
 
-- Top news headlines for school assembly: September 9 - India Today
-  The article is based on India Today
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxObVA2d2xZbW9RUGVVSTJBamxQVW0zWnFodXN1U1ZVRy1CYzczN2JyZVJpYl9fa1B5YTJCVXQtdzdwX3BFUlg5S0NxemRkbmFiUEJRbGJXX2E4RFRjMlF0UkNYa0toSWZEQ0ZRSWowbzZXdk42eTF0R2tyeTVSQ093NVFmMmtZZFNRSTd4a3A3d0NrNkx6UmlaYmJvd0hMTlpqX09UWDZWVVlsOGxnNjY2S29wRHlqMklWZFVvMzdVNNIBxAFBVV95cUxPQlAxYmw1R3JySnA3Y0M5b1lqTFJ3V1Q5amVWN2Z2YmRwSlg3ajVaYmFTZVF4U1p0bEpjQjZSYndwRmMyc2pXcDNrS1hrWFBFSFhvMll2VXBZcGZxejVBT2tqU0ZTUnJISGI2a21WMnlQT0MtR1NYbnRWTnFtb2RiSjN4a1dESXRneVlWZGpvSmNvXzAxdUgzWnBKUENrUjZzaFVZNmx0LVVpRnFYdHlBLXp4eFloN0VBVC1Zb2hqV0Mtdk4t?oc=5
+- Breaking News Live Updates: PM Modi responds to Donald Trump; both express confidence on India-US trade talks - Times of India
+  PM Modi responds to Donald Trump; both express confidence on India-US trade talks.
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHpZTFo1XzNoaU1uUHhtSG5rOTN3NmZOcDA1TUZmUDFnZVhlaHVqWVQyd0VqX2hGc19SSUhHVlp2ZEdQaEhlTkdPaE5iTHdsMG1jMUZ2RkZhVzltVzFzTHdYT2FNTUhUM3pFR3duallUZUprV0pncG91MmFPSGJuNXZ4ZjcxN19FZjZ0amlVdFM2SURJUDRNVHkyTlTSAaIBQVVfeXFMT2JtSGoxUWUxdk5QMGZMUjFsSzc5XzBRNzZ1aHNONFVwSV9CMmxWQXQ3aGVlazAyX2hlbE9qQ3BXODFYY05zV1AxN0kzTW9fZV9temNXRmxzR2VFcVE1S0dVX0xRdlhRRW4taFBfYlFTTWhQMFJKaTFxQXZ6Mm1pUTZKYVRvVU1fLWZOcjl1UnFnaFVxZWc0a0dfRi1KbHIzRnB3?oc=5
 
-- NAB to Cut 410 Support Roles, Shift Some Bank Work to India - Mint
-  NAB to Cut 410 Support Roles, Shift
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPTElUMkFoNVZvWUhGeElmSmg0OHdHa0VwaEh4a3hPaVgyYXZyQm05SzJid0JjZ011blhaNWhwQ2gzR01pTndwbjhjNkp4RDVrbC1IbUtvTVVRcE1TQU1WQm1YMTBtVmduZ0c5a0puZFM5YVliYlRtbFc2eG1udUJCQVNDNDM1aUFLcVFzRTBhUFBUTkhnQk5MajFCaUk3b2R1c20ycDg5OGhXWFFPbG1IaWFDQ3JPQmZ3SnfSAb8BQVVfeXFMT3YtQ05PM3dERUY2ZS1PZDhxX3BXVlFWVmp6LXVXTkFDV1dKODBRU3N3bzFkSGJoR0xkQkpfcWxfUTZuNVF0ZTRfaGNnYm9ucGxob0hLcnA0STc4TWV4WlF2ZFBfMXplODhRdnlJNjVqbk9ldUtDZWFXZUpsZmo4MnNpbGFROHVMT2ZTdjliQ1lvTU5vZDYyN2NqTDNnT292czg3M2NqTG1zVnpCMnlUWWtuZms4SDJmUWdncm9MYU0?oc=5
+- Squatting vs. sitting toilets in India and their impact on gut health, backed by science - Times of India
+  Squatting vs. sitting toilets in India and their impact on gut health
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQdjdpNzlHY2FGbHB5Vmw1SmVtVExUSTJuS1NBRTNhb1BLMURxY3UwUDkwSlRKMU1jU0FjazJGeFJIVkhJVmpvSUM4ZnFibERhN3BKcmJWWkkwTGpJMmZQc09XYzd1UEQxOFJGTkdlQWhJYjRHRnZVVjNmdVlRNDMyRldhcWlJcGE5c3Z2VTd0Z2V5WThibEl3SXpmSTkzRFFOUG43M0hGWnRJSDdqSG05eExPLXRzLWFMVnBaN3MwTVhmV2s5Y1g2blNlb0t6d2tKX3Y0ckkwTFJod0F2N2tfNkE2dk80cGZkblBPQkk1RzlWdkd4RklUZWEwVkdqMGxGQ243WE1lTzdyTlh0T0ZDOVAwamPSAZoCQVVfeXFMT0lUTEtOYnV4TkRKWlZZdk82VDJqR2xPZnlnMjNBZTR6TjVFazlBak1YSTNYSktpbWxSX25SbjJsd2ROMHpjdzFKbEJzZHhxdmNfMXJpeUdPdjNXb1hBRk42dlE2b3JBYjA2V3ExQmIyaGdGa29nbjBHeVlZREFTWlVHVHlXRDN0S1NSdXNxbTNsQmUxTU9kZ1RQNklUYzZPTi15N0N6SFBSeHJNZy1fZmM3S1c1X1ZXZDE3RkRTUXpFWFJMRDVrWDJYYlh6bnZfckd5T1h2RkczQlotSnQzREVBTjJCOXZTR3dkSW9zMzVLalZhRnduenA3WlJSREdPTDkwRURwRERIVVdEa3dGYktGYXo5QnVJMFV3?oc=5
 
-- Naga Body Blocks Manipur Highways, Asks Centre To Stop Border Fencing - NDTV
-  Naga Body Blocks Manipur Highways,
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNMDdyMkVPX0ZqWlJCa20tVlRQMWYxaHRwdzdrS0hEUXg0UE9FcW9LTzNSb1RJM2dGZm11bWFfVDdmaHZIaWwyTGJUS0laRUNMVjBzajRsWnQ5RmNseWNXSHRWMGxrbXotVmhJNzNab2RWTVU3VmdCMzF6QzBaX2dicGJ3X3FQUjI0ZnpiQWZzTzJmVEdDd2ktcW41ZGJWMzlLdEs2VFJ0ZEt2MVVQ0gG0AUFVX3lxTE16NFo3VVRkRXR3Z01zV2ZlZjVoXzZ5b0gxY2hGV1FjRVhSSVRSMEszSXQ1ODdiN0xGLXFTU2dmdHloVk9Fa09XQ0VVZzkyRGtZaW5FbThqMUxrUENPSFVoWTNjMzE0MHg5Q190MEFiNV9ZbGNmeFA4S1FUVl9GU1RjeTIwYVBCUDVNaHN0WkhRQ1lOMi1ZTzR6Qk14bVU3NG1ubnBVYUc1R1FQM0p0cmo3aUxTcQ?oc=5
+- Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
+  The Hindu reports that India-U.S. trade
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- "Pleased To Announce That India, US Are...": Trump On 'Trade Barriers' - NDTV
+  "Pleased To Announce That India, US
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmNhZV9WTTBCcG5aNnQxd3NDRl9JWGtFUzQ5cXBmeVNEVGJtZ0p1eUV5dHJLUHJKUzFNV3lPTFFpeEN6NE9oS3BDclNielBEeHMzWWlZa2IwOVZVbk9uQVVVa1ZPa0x0cnZ4cW9hT3REblpHU0NQbHFMYTNNczVZd1NQazJJSWZueDY4WlJRb2todTQ3Q2lkM3luc0Y2ZEpHaWZROVI2TC0xLXpKd0JQck9CUdIBuwFBVV95cUxQOHplLWRvUDdES1dCRHAzdmxyZ3ZFQTdxY1ZoOURoRUZGNkpydThGdmlaY096cjBDRllsVU9ITnZjamdfYnJXRWVQemYzUU84LUdaaVRvUzZYRGlQSy1oMzRZcEZuT3R3TUt6NHZwNUdudS0yMmY0X29jT1EtbFJaMndDRzN4cWpSZ3Rhc2hlWnVsZUs2R1FxZHZLZUlEZnBBWTkxYzlTaGtKaUpQcE1NQmVnMzFuMUVCdmhB?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Trump aide Peter Navarro warns India amid tariff row, says 'won't end well' | Latest News India - Hindustan Times
+  The row between India and the U.S. has been going on for months
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmpQamp5LUpMSUtFUnhDX1NfOHlUUUtjbW5NQXVvSXpXSWozT2xVOFZ2M29BU3dNYW9BT1lHbkhtZU1TOXpDNTVTajdYX2tzcHNRdnFCTzhZa0FDMFVXNU9uQkUtcTRWaGFhcjNPZVNoNVRjQWZ5T3VoUHJZckVjM3dhOExxc3BHc3FhRElqVFZtQ0dYdDA5cTYxbXg1RnZFcmlXUlI3UVc0Q21hWmx2dFExQTFJMVdmVjNaSHFDVHVEVTNULWQyOUJFTVNiaDTSAdQBQVVfeXFMT1psSXhkMHd0QmpQTW1QOWp4MzhMQ1liYVhHX0Q3RURuRGFGLTlLdXltTmZ0b09qc05mb0xrb0pVNVZLV0dzUzljeFhMcWotcVdxdVRScEI2MjREbTgwVVFTYjhFNTFyS21DLWZtSHBadVJtVUY5ZXdETVBTWUQ4NHNKeHVUV21kSlczZnJKdDU4RnBlU2I5cGlkLUdhU2FDOGN6Wl9GR1dXVGt4TUR5WU11R1poVHp5bWN0SGUzSmU1amROQUR6WHNPbzVBQWV5NjZyMWk?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Breaking News Live Updates: PM Modi responds to Donald Trump; both express confidence on India-US trade talks - Times of India
+  PM Modi responds to Donald Trump; both express confidence on India-US trade talks.
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHpZTFo1XzNoaU1uUHhtSG5rOTN3NmZOcDA1TUZmUDFnZVhlaHVqWVQyd0VqX2hGc19SSUhHVlp2ZEdQaEhlTkdPaE5iTHdsMG1jMUZ2RkZhVzltVzFzTHdYT2FNTUhUM3pFR3duallUZUprV0pncG91MmFPSGJuNXZ4ZjcxN19FZjZ0amlVdFM2SURJUDRNVHkyTlTSAaIBQVVfeXFMT2JtSGoxUWUxdk5QMGZMUjFsSzc5XzBRNzZ1aHNONFVwSV9CMmxWQXQ3aGVlazAyX2hlbE9qQ3BXODFYY05zV1AxN0kzTW9fZV9temNXRmxzR2VFcVE1S0dVX0xRdlhRRW4taFBfYlFTTWhQMFJKaTFxQXZ6Mm1pUTZKYVRvVU1fLWZOcjl1UnFnaFVxZWc0a0dfRi1KbHIzRnB3?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Squatting vs. sitting toilets in India and their impact on gut health, backed by science - Times of India
+  Squatting vs. sitting toilets in India and their impact on gut health
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQdjdpNzlHY2FGbHB5Vmw1SmVtVExUSTJuS1NBRTNhb1BLMURxY3UwUDkwSlRKMU1jU0FjazJGeFJIVkhJVmpvSUM4ZnFibERhN3BKcmJWWkkwTGpJMmZQc09XYzd1UEQxOFJGTkdlQWhJYjRHRnZVVjNmdVlRNDMyRldhcWlJcGE5c3Z2VTd0Z2V5WThibEl3SXpmSTkzRFFOUG43M0hGWnRJSDdqSG05eExPLXRzLWFMVnBaN3MwTVhmV2s5Y1g2blNlb0t6d2tKX3Y0ckkwTFJod0F2N2tfNkE2dk80cGZkblBPQkk1RzlWdkd4RklUZWEwVkdqMGxGQ243WE1lTzdyTlh0T0ZDOVAwamPSAZoCQVVfeXFMT0lUTEtOYnV4TkRKWlZZdk82VDJqR2xPZnlnMjNBZTR6TjVFazlBak1YSTNYSktpbWxSX25SbjJsd2ROMHpjdzFKbEJzZHhxdmNfMXJpeUdPdjNXb1hBRk42dlE2b3JBYjA2V3ExQmIyaGdGa29nbjBHeVlZREFTWlVHVHlXRDN0S1NSdXNxbTNsQmUxTU9kZ1RQNklUYzZPTi15N0N6SFBSeHJNZy1fZmM3S1c1X1ZXZDE3RkRTUXpFWFJMRDVrWDJYYlh6bnZfckd5T1h2RkczQlotSnQzREVBTjJCOXZTR3dkSW9zMzVLalZhRnduenA3WlJSREdPTDkwRURwRERIVVdEa3dGYktGYXo5QnVJMFV3?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
+  The Hindu reports that India-U.S. trade
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- "Pleased To Announce That India, US Are...": Trump On 'Trade Barriers' - NDTV
+  "Pleased To Announce That India, US
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmNhZV9WTTBCcG5aNnQxd3NDRl9JWGtFUzQ5cXBmeVNEVGJtZ0p1eUV5dHJLUHJKUzFNV3lPTFFpeEN6NE9oS3BDclNielBEeHMzWWlZa2IwOVZVbk9uQVVVa1ZPa0x0cnZ4cW9hT3REblpHU0NQbHFMYTNNczVZd1NQazJJSWZueDY4WlJRb2todTQ3Q2lkM3luc0Y2ZEpHaWZROVI2TC0xLXpKd0JQck9CUdIBuwFBVV95cUxQOHplLWRvUDdES1dCRHAzdmxyZ3ZFQTdxY1ZoOURoRUZGNkpydThGdmlaY096cjBDRllsVU9ITnZjamdfYnJXRWVQemYzUU84LUdaaVRvUzZYRGlQSy1oMzRZcEZuT3R3TUt6NHZwNUdudS0yMmY0X29jT1EtbFJaMndDRzN4cWpSZ3Rhc2hlWnVsZUs2R1FxZHZLZUlEZnBBWTkxYzlTaGtKaUpQcE1NQmVnMzFuMUVCdmhB?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Trump aide Peter Navarro warns India amid tariff row, says 'won't end well' | Latest News India - Hindustan Times
+  The row between India and the U.S. has been going on for months
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmpQamp5LUpMSUtFUnhDX1NfOHlUUUtjbW5NQXVvSXpXSWozT2xVOFZ2M29BU3dNYW9BT1lHbkhtZU1TOXpDNTVTajdYX2tzcHNRdnFCTzhZa0FDMFVXNU9uQkUtcTRWaGFhcjNPZVNoNVRjQWZ5T3VoUHJZckVjM3dhOExxc3BHc3FhRElqVFZtQ0dYdDA5cTYxbXg1RnZFcmlXUlI3UVc0Q21hWmx2dFExQTFJMVdmVjNaSHFDVHVEVTNULWQyOUJFTVNiaDTSAdQBQVVfeXFMT1psSXhkMHd0QmpQTW1QOWp4MzhMQ1liYVhHX0Q3RURuRGFGLTlLdXltTmZ0b09qc05mb0xrb0pVNVZLV0dzUzljeFhMcWotcVdxdVRScEI2MjREbTgwVVFTYjhFNTFyS21DLWZtSHBadVJtVUY5ZXdETVBTWUQ4NHNKeHVUV21kSlczZnJKdDU4RnBlU2I5cGlkLUdhU2FDOGN6Wl9GR1dXVGt4TUR5WU11R1poVHp5bWN0SGUzSmU1amROQUR6WHNPbzVBQWV5NjZyMWk?oc=5
+
+- Breaking News Live Updates: PM Modi responds to Donald Trump; both express confidence on India-US trade talks - Times of India
+  PM Modi responds to Donald Trump; both express confidence on India-US trade talks.
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHpZTFo1XzNoaU1uUHhtSG5rOTN3NmZOcDA1TUZmUDFnZVhlaHVqWVQyd0VqX2hGc19SSUhHVlp2ZEdQaEhlTkdPaE5iTHdsMG1jMUZ2RkZhVzltVzFzTHdYT2FNTUhUM3pFR3duallUZUprV0pncG91MmFPSGJuNXZ4ZjcxN19FZjZ0amlVdFM2SURJUDRNVHkyTlTSAaIBQVVfeXFMT2JtSGoxUWUxdk5QMGZMUjFsSzc5XzBRNzZ1aHNONFVwSV9CMmxWQXQ3aGVlazAyX2hlbE9qQ3BXODFYY05zV1AxN0kzTW9fZV9temNXRmxzR2VFcVE1S0dVX0xRdlhRRW4taFBfYlFTTWhQMFJKaTFxQXZ6Mm1pUTZKYVRvVU1fLWZOcjl1UnFnaFVxZWc0a0dfRi1KbHIzRnB3?oc=5
+
+- Squatting vs. sitting toilets in India and their impact on gut health, backed by science - Times of India
+  Squatting vs. sitting toilets in India and their impact on gut health
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQdjdpNzlHY2FGbHB5Vmw1SmVtVExUSTJuS1NBRTNhb1BLMURxY3UwUDkwSlRKMU1jU0FjazJGeFJIVkhJVmpvSUM4ZnFibERhN3BKcmJWWkkwTGpJMmZQc09XYzd1UEQxOFJGTkdlQWhJYjRHRnZVVjNmdVlRNDMyRldhcWlJcGE5c3Z2VTd0Z2V5WThibEl3SXpmSTkzRFFOUG43M0hGWnRJSDdqSG05eExPLXRzLWFMVnBaN3MwTVhmV2s5Y1g2blNlb0t6d2tKX3Y0ckkwTFJod0F2N2tfNkE2dk80cGZkblBPQkk1RzlWdkd4RklUZWEwVkdqMGxGQ243WE1lTzdyTlh0T0ZDOVAwamPSAZoCQVVfeXFMT0lUTEtOYnV4TkRKWlZZdk82VDJqR2xPZnlnMjNBZTR6TjVFazlBak1YSTNYSktpbWxSX25SbjJsd2ROMHpjdzFKbEJzZHhxdmNfMXJpeUdPdjNXb1hBRk42dlE2b3JBYjA2V3ExQmIyaGdGa29nbjBHeVlZREFTWlVHVHlXRDN0S1NSdXNxbTNsQmUxTU9kZ1RQNklUYzZPTi15N0N6SFBSeHJNZy1fZmM3S1c1X1ZXZDE3RkRTUXpFWFJMRDVrWDJYYlh6bnZfckd5T1h2RkczQlotSnQzREVBTjJCOXZTR3dkSW9zMzVLalZhRnduenA3WlJSREdPTDkwRURwRERIVVdEa3dGYktGYXo5QnVJMFV3?oc=5
+
+- Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
+  The Hindu reports that India-U.S. trade
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
 
 
-_Last updated: 2025-09-10 01:09:24 UTC_
+_Last updated: 2025-09-10 06:26:30 UTC_
