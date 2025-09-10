@@ -1,124 +1,124 @@
 # 📰 Daily News Summaries
 
-- In Delhi, TIPRA Motha’s Pradyot says Tripura tribals willing to give Centre ‘last chance’ on ‘constitutional solution’
+- After SC prod, Election Commission to Bihar CEO: Use Aadhaar as ID in addition to list of 11
   
-  🔗 https://indianexpress.com/article/india/in-delhi-tipra-mothas-pradyot-says-tripura-tribals-willing-to-give-centre-last-chance-on-constitutional-solution-10240332/
+  🔗 https://indianexpress.com/article/india/after-sc-prod-election-commission-to-bihar-ceo-use-aadhaar-as-id-in-addition-to-list-of-11-10240614/
 
-- New Holland to build 2nd tractor plant in India
+- ‘Suspected foreigners’ in Assam will have 10 days to prove they are citizens; DCs will take final call
   
-  🔗 https://indianexpress.com/article/india/new-holland-to-build-2nd-tractor-plant-in-india-10240329/
+  🔗 https://indianexpress.com/article/india/suspected-foreigners-in-assam-will-have-10-days-to-prove-they-are-citizens-dcs-will-take-final-call-10240629/
 
-- PM’s healing touch for Himachal baby flood survivor: ‘Call me, if you face any problem’
+- V-P poll result: Better than expected, says BJP; Congress sees moral victory
   
-  🔗 https://indianexpress.com/article/india/pms-healing-touch-for-himachal-baby-flood-survivor-call-me-if-you-face-any-problem-10240279/
+  🔗 https://indianexpress.com/article/india/v-p-poll-result-better-than-expected-says-bjp-congress-sees-moral-victory-10240570/
 
-- Ear on ground, eye on young leaders, India ‘closely’ watching Nepal
+- Supreme Court underlines ‘reasonable time’ for nod to Bills, flags ‘risk’ in fixing time limit
   
-  🔗 https://indianexpress.com/article/india/ear-on-ground-eye-on-young-leaders-india-closely-watching-nepal-10240260/
+  🔗 https://indianexpress.com/article/india/supreme-court-underlines-reasonable-time-for-nod-to-bills-flags-risk-in-fixing-time-limit-10240638/
 
-- ‘Violence in Nepal is heart-rending’: PM Modi expresses concern as KP Sharma Oli resigns
+- Liked by colleagues & rivals, Radhakrishnan brings in a reputation for moderation
   
-  🔗 https://indianexpress.com/article/india/violence-in-nepal-is-heart-rending-pm-modi-expresses-concern-as-kp-sharma-oli-resigns-10240215/
+  🔗 https://indianexpress.com/article/india/liked-by-colleagues-rivals-radhakrishnan-brings-in-a-reputation-for-moderation-10240573/
 
-- Apple goes heavy on design change with the thinnest iPhone ever
+- 5 things no one told you about the latest Apple Event announcements
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-goes-heavy-on-design-change-with-the-thinnest-iphone-ever-10240369/
+  🔗 https://indianexpress.com/article/technology/opinion-technology/5-things-no-one-told-you-about-the-latest-apple-event-announcements-10240674/
 
-- Apple launches AirPods Pro 3 with heart rate sensor, improved battery life for $249
+- iPhone Air, Apple Watch Ultra 3, AirPods Pro 3, and more: Everything revealed at Apple Event 2025
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-airpods-pro-3-design-features-battery-life-price-availability-10240304/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-air-watch-ultra-3-everything-announced-apple-event-2025-10240532/
 
-- Google introduces new interactive learning tools for NotebookLM
+- Apple unveils Watch Series 11, SE 2 and Ultra 3: A look at what’s different
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-introduces-new-interactive-learning-tools-for-notebooklm-10239683/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-unveils-watch-series-11-se-2-and-ultra-3-a-look-at-whats-different-10240503/
 
-- AI chip powered by light promises drastic energy savings, 100x efficiency
+- “India is one of our top growth markets”: Cisco’s top exec on driving Splunk adoption and putting agentic AI at the core of its strategy
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/researchers-develop-ai-chip-powered-by-light-100-times-more-efficient-10239550/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/india-is-one-of-our-top-growth-markets-ciscos-top-exec-on-driving-splunk-adoption-and-putting-agentic-ai-at-the-core-of-its-strategy-10240440/
 
-- iOS 26: Release timeline, compatible iPhones, features, and everything you need to know
+- iPhone 17 Pro and iPhone 17 Pro Max: Apple’s most powerful smartphones yet
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-ios-26-liquid-glass-features-supported-iphone-features-10239090/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-17-pro-and-iphone-17-pro-max-apples-most-powerful-smartphones-yet-10240453/
 
-- Need big bang reforms, GST cuts alone won't stimulate demand: Jamshyd Godrej
-  India needs ‘big bang reforms’ for demand to grow, Godrej says.
-  🔗 https://www.livemint.com/companies/jamshyd-godrej-big-bang-reforms-needed-gst-cuts-not-enough-11757428820475.html
+- NAB to Cut 410 Support Roles, Shift Some Bank Work to India
+  National Australia Bank Ltd. is cutting 410 jobs within its technology and enterprise operations division. The bank is the nation�
+  🔗 https://www.livemint.com/companies/news/nab-to-cut-410-support-roles-shift-some-bank-work-to-india-11757466068512.html
 
-- Amid iPhone 17 series launch, how US tariffs and Trump's ‘Make in US’ demand could jack Apple phone prices to  ₹3 lakh
-  The upcoming Apple iPhones could face pressure from Donald Trump's tariffs. We look at scenarios where prices could jump if tariffs are passed down.
-  🔗 https://www.livemint.com/companies/news/apple-iphone-17-launch-how-us-tariffs-donald-trump-make-in-us-demand-could-increase-phone-prices-to-rs-3-lakh-customers-11757411369008.html
+- Gifting companies plan to hitch growth ride with Swiggy, Blinkit
+  Swiggy has launched 'Giftables', its instant gifting service in Bengaluru. Swiggy is taking cue from bigger peer Blinkit to capture festive
+  🔗 https://www.livemint.com/companies/news/archies-swiggy-blinkit-gifting-quick-commerce-retail-fmcg-11757336262966.html
 
-- Vodafone Idea moves Supreme Court against additional  ₹9,450 cr AGR dues demand
-  Vodafone Idea has moved the Supreme Court challenging DoT’s fresh  �
-  🔗 https://www.livemint.com/companies/vodafone-idea-supreme-court-challenge-agr-dues-rs9450cr-demand-11757424733766.html
+- India's renewables space has more scope for platform assets, Brookfield's Nawal Saini
+  Brookfield announced Evren two years ago. Evren is a joint venture with Axis Energy to develop wind and solar projects in India.
+  🔗 https://www.livemint.com/companies/india-renewable-energy-platform-assets-brookfield-nawal-saini-axis-energy-green-mobility-power-evren-11757047594964.html
 
-- Godrej Interio aims to double sales by 2028 with fresh brand identity, expansion
-  Godrej Interio will open 500 new stores in the next three years to reach 1,500 outlets and revamp its existing network.
-  🔗 https://www.livemint.com/companies/godrej-interio-revitalizes-legacy-business-to-take-on-ikea-online-rivals-fresh-brand-identity-11757415374368.html
+- Indian VC firms pivot to specialty healthtech, betting on AI and IP
+  Venture capital investors are shifting focus from digital pharmacies like PharmEasy to niche healthtech startups. Investors are
+  🔗 https://www.livemint.com/companies/start-ups/healthtech-vcs-pivot-ai-specialty-startups-11757314156816.html
 
-- E-commerce helping MSMEs, small sellers tap customers across geographies, says report
-  E-commerce helping MSME
-  🔗 https://www.livemint.com/companies/news/ecommerce-helping-msmes-small-sellers-tap-customers-across-geographies-says-report-11757419807646.html
+- Baker’s Dozen on the block just as India’s bakery market heats up
+  The Baker’s Dozen, backed by Wipro Consumer Care and Fireside Ventures, has hired JM Financial to explore a  ₹500-600 crore sale. The move
+  🔗 https://www.livemint.com/companies/start-ups/bakers-dozen-sale-india-bakery-market-boom-11757398285026.html
 
-- Urban Company IPO: Firm raises  ₹854 crore from anchor investors ahead of public issue — Details here
-  Home services firm Urban Company raised  ₹854 crore from anchor investors. The IPO is expected to open for public bidding on 10 September 2025.
-  🔗 https://www.livemint.com/market/ipo/urban-company-ipo-firm-raises-rs-854-crore-from-anchor-investors-ahead-of-public-issue-details-here-11757437110950.html
+- Global Markets Today: Nikkei 225, Kospi trade higher ahead of China's inflation data
+  Japan's Nikkei 225 index began the session up 0.2 per cent. South Korea’s Kospi gained 0.76 per cent
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-trade-higher-ahead-of-chinas-inflation-data-11757465193435.html
 
-- Dev Accelerator raises  ₹63 crore from anchor investors ahead of IPO
-  The IPO aims to raise  ₹143 crore and will be managed by Pantomath Capital Advisors Private Limited. The IPO is scheduled for public subscription from September 10 to
-  🔗 https://www.livemint.com/market/ipo/dev-accelerator-raises-rs-63-crore-from-anchor-investors-ahead-of-ipo-11757431569212.html
+- Stock market today: Trade setup for Nifty 50, US Fed rate cut, India-US trade deal; 8 stocks to buy or sell on Wednesday
+  The underlying trend of Nifty remains positive with choppy movement. Important resistance zone for the benchmark Nifty index is around 24900-25000 levels. Im
+  🔗 https://www.livemint.com/market/stock-market-today-trade-setup-for-nifty-50-us-fed-rate-cut-india-us-trade-deal-8-stocks-to-buy-or-sell-on-wednesday-11757414293405.html
 
-- Shringar House of Mangalsutra raises  ₹120.18 crore from anchor investors
-  Shringar House of Mangalsutra raised  ₹120.18 crore from anchor investors. IPO opens on September 10, 2025. The company allocated 72.84 lakh shares at
-  🔗 https://www.livemint.com/market/ipo/shringar-house-of-mangalsutra-raises-rs-120-18-crore-from-anchor-investors-11757430402629.html
+- Shringar House of Mangalsutra IPO Day 1: Issue opens today. GMP, subscription status, other key details
+  Shringar House of Mangalsutra IPO opens for subscription from September 10 to 12. The funds will support working capital and corporate needs.
+  🔗 https://www.livemint.com/market/ipo/shringar-house-of-mangalsutra-ipo-gmp-shringar-house-of-mangalsutra-ipo-review-shringar-house-of-mangalsutra-ipo-detail-11757434360229.html
 
-- Apple stock trades flat as investors await the launch of the new iPhone 17 launch
-  The tech giant is set to unveil the iPhone 17 lineup at its annual September event, scheduled to take place at its corporate headquarters in Cupertino, California. The event will
-  🔗 https://www.livemint.com/market/stock-market-news/apple-stock-trades-flat-as-investors-await-the-launch-of-the-new-iphone-17-launch-11757426288808.html
+- Stocks to buy: Raja Venkatraman's top picks for 10 September
+  Market expert Raja Venkatraman shares his top three stocks to buy for today, 10 September.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-picks-10-september-sensex-nifty-bank-nifty-11757421868243.html
 
-- Wall Street Today: Dow, Nasdaq, S&P 500 open higher; Apple stock slides 0.69% ahead of mega event today
-  The US market indices, Dow, Nasdaq, and the S&amp;P 500, opened higher on Tuesday as investors remained cautious of the employment data
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-today-dow-nasdaq-s-p-500-open-higher-apple-stock-slides-0-69-ahead-of-mega-event-today-11757425989071.html
+- Rely on others for stock tips? Here’s how to find promising long-term investments yourself.
+  The stock market generally rewards those who stick to the rules of long-term investing. These rules also allow an investor to sleep peacefully at night,
+  🔗 https://www.livemint.com/market/stock-market-news/how-to-pick-stocks-long-term-investing-india-stock-market-for-beginners-fundamental-analysis-dividend-stocks-debt-11757417046146.html
+
+- iPhone 17 Pro, Apple Watch Ultra 3, AirPods Pro 3 and more: Everything Apple announced at Awe Dropping Event
+  Apple unveiled the iPhone 17 series, iPhone Air, Apple Watch Ultra 3, SE 3, Series 11, and AirPods Pro 3. Highlights include advanced health tracking,
+  🔗 https://www.livemint.com/technology/gadgets/iphone-17-pro-apple-watch-ultra-3-airpods-pro-3-and-more-everything-apple-announced-at-awe-dropping-event-11757446238328.html
+
+- Apple unveils Final Cut Camera 2.0 at iPhone 17 launch: ProRes RAW, genlock – here's what's new
+  Final Cut Camera 2.0 also allows users to capture horizontal or vertical orientation without rotating their
+  🔗 https://www.livemint.com/technology/apple-unveils-final-cut-camera-2-0-at-iphone-17-launch-prores-raw-genlock-heres-whats-new-11757447608903.html
+
+- iPhone 17, iPhone Air, iPhone 17 Pro and Pro Max launched in India: Price, sale date and all you need to know
+  Apple has launched the iPhone 17 series in India. The series includes iPhone 17, iPhone Air, iPhone 17 Pro, and iPhone17 Pro Max. Prices range from 
+  🔗 https://www.livemint.com/technology/gadgets/iphone-17-iphone-air-iphone-17-pro-and-pro-max-launched-in-india-check-price-specs-and-more-11757444364269.html
+
+- AirPods Pro 3: Heart-rate monitor, live translation– What’s inside Apple’s 'smartest' earbuds yet?
+  Apple Inc. launched AirPods Pro 3, featuring health-tracking, enhanced noise cancellation, among
+  🔗 https://www.livemint.com/technology/gadgets/airpods-pro-3-heart-rate-monitor-live-translation-what-s-inside-apple-s-smartest-earbuds-yet-11757441481047.html
 
 - iPhone 17 Pro, iPhone 17 Pro Max with A19 Pro chipset and iOS 26 launched: Price, specs, features and more
   Apple launches iPhone 17 Pro and iPhone 17 Max at its Awe Dropping event. The Pro models feature the A19 Pro processor and iOS 26.
   🔗 https://www.livemint.com/technology/gadgets/iphone-17-pro-iphone-17-pro-max-with-a19-pro-chipset-and-ios-26-launched-price-specs-features-and-more-11757441054309.html
 
-- iPhone 17 Air with 5.6mm thickness and A19 Pro chip launched: Price, specifications and more
-  The iPhone 17 Air is 5.6mm thick and has a 6.6-inch Super Retina XDR
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17-air-with-5-6mm-thickness-and-a19-pro-chip-launched-price-specifications-and-more-11757440114952.html
+- Pre-market action: Here's the trade setup for today's session
+  Indian equity markets closed higher on Tuesday, propelled by gains in IT, pharma, and FMCG sectors. Technically, Nifty maintained its position above key EMAs, suggesting a continued short-term uptrend.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/123790452.cms
 
-- iPhone 17 with Ceramic Shield 2 display and A19 chipset launched: Price, features, specs
-  The iPhone 17 features the A19 chipset and Apple Intelligence. It runs on iOS 26, offering visual intelligence, live translation, and a ceramic shield
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17-with-ceramic-shield-2-display-and-a19-chipset-launched-price-features-specs-11757439268032.html
+- Stocks in news: Vodafone Idea, Kotak Bank, Bajaj Auto, Blue Jet, Bikaji Foods
+  Prakash Industries declared a dividend, while Blue Jet Healthcare's promoter will sell shares via OFS. Sumitomo Mitsui plans to sell its stake in Kotak Mahindra Bank, and Bajaj Auto will pass on
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vodafone-idea-kotak-bank-bajaj-auto-blue-jet-bikaji-foods/articleshow/123790383.cms
 
-- Want to get Amazon Prime? A major feature is changing in October — and the new rules may surprise you
-  The new Amazon Family model allows benefit sharing only within the same household. Amazon will stop shared Prime memberships across different addresses from October
-  🔗 https://www.livemint.com/technology/want-to-get-amazon-prime-a-major-feature-is-changing-in-october-and-the-new-rules-may-surprise-you-11757438405373.html
+- Will Urban Company’s IPO deliver returns despite rich valuations?
+  The IPO is suitable for investors with high-risk tolerance. Urban Company plans to raise ⁹472 crore through fresh equity and ₹1,428 crore via offer for sale.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/will-urban-companys-ipo-deliver-returns-despite-rich-valuations/articleshow/123797325.cms
 
-- Apple Watch Ultra 3, Series 11, and Watch SE 3 launched: Price, features, specs and more
-  Apple has unveiled the Watch 11 series, Apple Watch SE 3, and Watch Ultra. Featuring 5G technology and WatchOS 26, the watches offer extensive health
-  🔗 https://www.livemint.com/technology/gadgets/apple-watch-ultra-series-11-and-watch-se-3-launched-price-features-specs-and-more-11757438439901.html
+- SAT asks Sebi to explain why it withheld documents from Jane Street
+  The Securities Appellate Tribunal (SAT) has directed SEBI to explain why it withheld documents from Jane Street. SAT has also halted in-person hearings in the case
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sat-asks-sebi-to-explain-why-it-withheld-documents-in-jane-street-case/articleshow/123797286.cms
 
-- Urban Company raises Rs 854 crore from anchor investors ahead of IPO
-  Urban Company garnered Rs 854 crore from anchor investors before its IPO, which opens tomorrow. The IPO allocated 8.29 crore shares at Rs 103 apiece to prominent investors like SBI Fund and Goldman Sachs.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/urban-company-raises-rs-854-crore-from-anchor-investors-ahead-of-ipo/articleshow/123791084.cms
-
-- 630% in 5 years: Citigroup, UTI MF, others buy the dip in this smallcap via Rs 360-crore bulk deal
-  Citigroup purchased 57,000 shares of Voltamp Transformers in a bulk deal on Tuesday. Other institutional investors such as Aditya Birla Sun Life and others acquired equity
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/630-in-5-years-citigroup-uti-mf-others-buy-the-dip-in-this-smallcap-via-rs-360-crore-bulk-deal/articleshow/123790615.cms
-
-- Rupee closes at 88.10 against US dollar, before briefly recovering to 87.95, a key resistance level
-  The Indian rupee began on a high note, peaking at 87.95 per dollar. This fluctuation was driven by imp
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-88-10-against-us-dollar-before-briefly-recovering-to-87-95-a-key-resistance-level/articleshow/123790303.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Indian markets ended higher as Infosys’ share buyback announcement boosted IT stocks. Expectations of a U.S. Fed rate cut further lifted investor sentiment.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/123790262.cms
-
-- Market Trading Guide: Buy Adani Ports,  Dr Reddy’s and 5 smallcap stocks on Wednesday for short term gains up to 11%
-  Indian equity benchmarks closed higher, led by IT and pharma gains. Analysts project a near-term move towards 25,000. Seven stock recommendations highlight
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-adani-ports-dr-reddys-and-5-smallcap-stocks-on-wednesday-for-short-term-gains-up-to-11/slideshow/123790046.cms
+- Will Infosys' share buyback boost investor confidence?
+  Infosys shares surged 5% following the buyback declaration. This marks the IT firm's fifth buyback, aiming to counter a 20% stock decline this year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/will-infosys-share-buyback-boost-investor-confidence/articleshow/123797239.cms
 
 - "Won't End Well For India": Trump Aide Doubles Down On 'Tariff Maharaja' Jab - NDTV
   "Won't End Well For India": Trump A
@@ -128,77 +128,17 @@
   The row between India and the U.S. has been going on for months
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmpQamp5LUpMSUtFUnhDX1NfOHlUUUtjbW5NQXVvSXpXSWozT2xVOFZ2M29BU3dNYW9BT1lHbkhtZU1TOXpDNTVTajdYX2tzcHNRdnFCTzhZa0FDMFVXNU9uQkUtcTRWaGFhcjNPZVNoNVRjQWZ5T3VoUHJZckVjM3dhOExxc3BHc3FhRElqVFZtQ0dYdDA5cTYxbXg1RnZFcmlXUlI3UVc0Q21hWmx2dFExQTFJMVdmVjNaSHFDVHVEVTNULWQyOUJFTVNiaDTSAdQBQVVfeXFMT1psSXhkMHd0QmpQTW1QOWp4MzhMQ1liYVhHX0Q3RURuRGFGLTlLdXltTmZ0b09qc05mb0xrb0pVNVZLV0dzUzljeFhMcWotcVdxdVRScEI2MjREbTgwVVFTYjhFNTFyS21DLWZtSHBadVJtVUY5ZXdETVBTWUQ4NHNKeHVUV21kSlczZnJKdDU4RnBlU2I5cGlkLUdhU2FDOGN6Wl9GR1dXVGt4TUR5WU11R1poVHp5bWN0SGUzSmU1amROQUR6WHNPbzVBQWV5NjZyMWk?oc=5
 
-- News Today Live Updates, 9 September | In Delhi, TIPRA Motha’s Pradyot says Tripura tribals willing to give Centre ‘last chance’ on ‘constitutional solution’ - The Indian Express
-  Tripura tribals willing to give Centre 'last chance' on ‘constitutional solution’
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZWw2VW1wUUctWmpoMk84c3FlSGgza01ydFQ5Z21CblNYeDhUTWxxZTB5Wko5VEpTVUw2Z1R0NWdmczNwRlZJeS16NE5fOGJUdUs4eXp6dDFPbjRVN3FNX0U0OTF5UjhoOTNhanhtN2dURy10UWQyR0JvaVI3YWtNbUZncXhJcGZBNHhwUUVtcmxIODg1T3FVZng3Vkl3UDlqOXJkRnNYNWxTT0RXUTRMS2ZJVkh3RU5MN3lnUnBTMDdvczBtN3BtUkYtdzVlenFtSnN5a29ldzc1SkdmV3hnMFlmeTZLem4w0gHvAUFVX3lxTFAxcS1IUjBfeDFtdG42dTA5RHRqQ1h4N1FHbFRiX3NoVHNuWDlXOVdKZTdTMjlRNE1ETGt3eFlMeXdKbWpQRG5TUklTN0tOZkhTa3VJRTdUQlhidnJxWldWY0RhRnlrMFVRd1lKMVFxcmpFQ1B1ZGt4bHZkQUpaaUFpM3lHc3p5LWRGVnJjdVRocFhKQ1hpLXZqenVNNEFXV3JTSFlya2ZOZUtORnlWdVU2NVdRVzNRQXpvMjJ6MWNDME1vbTZmYTgwWERhbkhLLWx6WllLSVp3bUdwdDJvODR0YlFhRDFjbmpEemhaVnF3?oc=5
+- Top news headlines for school assembly: September 9 - India Today
+  The article is based on India Today
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxObVA2d2xZbW9RUGVVSTJBamxQVW0zWnFodXN1U1ZVRy1CYzczN2JyZVJpYl9fa1B5YTJCVXQtdzdwX3BFUlg5S0NxemRkbmFiUEJRbGJXX2E4RFRjMlF0UkNYa0toSWZEQ0ZRSWowbzZXdk42eTF0R2tyeTVSQ093NVFmMmtZZFNRSTd4a3A3d0NrNkx6UmlaYmJvd0hMTlpqX09UWDZWVVlsOGxnNjY2S29wRHlqMklWZFVvMzdVNNIBxAFBVV95cUxPQlAxYmw1R3JySnA3Y0M5b1lqTFJ3V1Q5amVWN2Z2YmRwSlg3ajVaYmFTZVF4U1p0bEpjQjZSYndwRmMyc2pXcDNrS1hrWFBFSFhvMll2VXBZcGZxejVBT2tqU0ZTUnJISGI2a21WMnlQT0MtR1NYbnRWTnFtb2RiSjN4a1dESXRneVlWZGpvSmNvXzAxdUgzWnBKUENrUjZzaFVZNmx0LVVpRnFYdHlBLXp4eFloN0VBVC1Zb2hqV0Mtdk4t?oc=5
 
-- 99% railway network electrified - Times of India
-  99% railway network
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnBSeVVxU0w1UnQ1eWlIeFl3Nld2NzFlNVFfN2RoRW9TSHVEaG1LVVRQWHZtclBMMUFQSXdBLVo4di1xVTFPSDVSNHZNUjJrMVl1RUFpdUVVRXRMb2FhbEpOSlpLU2ZtSmx0bVFIamJrTWFzcWRyWmYxZF9NWDkzNUc5NHVfTWF6TG5uS1U3VzdtTkJLNWZkbWVkS05YbjjSAaQBQVVfeXFMUC0yQXRCM1VfSVhKNDIxTW80eGxvNnNtMWI3OVF3YkJzOFdWaEpvQk9OVmNHMXJPOEw5RU5xb3RqcmllOVJwRW5Ua0dkREJoQjE0ekwzLV9ZM1lOaHJnN29Wa0VBamtrSEJwYWQtNlV3cGVxMHNONGdvNHg3aU5EbHVWdkFkS29NakgwSUtHQ3VkMlQ4MXZOOFppOG5QSmFVeU9hLTE?oc=5
+- NAB to Cut 410 Support Roles, Shift Some Bank Work to India - Mint
+  NAB to Cut 410 Support Roles, Shift
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPTElUMkFoNVZvWUhGeElmSmg0OHdHa0VwaEh4a3hPaVgyYXZyQm05SzJid0JjZ011blhaNWhwQ2gzR01pTndwbjhjNkp4RDVrbC1IbUtvTVVRcE1TQU1WQm1YMTBtVmduZ0c5a0puZFM5YVliYlRtbFc2eG1udUJCQVNDNDM1aUFLcVFzRTBhUFBUTkhnQk5MajFCaUk3b2R1c20ycDg5OGhXWFFPbG1IaWFDQ3JPQmZ3SnfSAb8BQVVfeXFMT3YtQ05PM3dERUY2ZS1PZDhxX3BXVlFWVmp6LXVXTkFDV1dKODBRU3N3bzFkSGJoR0xkQkpfcWxfUTZuNVF0ZTRfaGNnYm9ucGxob0hLcnA0STc4TWV4WlF2ZFBfMXplODhRdnlJNjVqbk9ldUtDZWFXZUpsZmo4MnNpbGFROHVMT2ZTdjliQ1lvTU5vZDYyN2NqTDNnT292czg3M2NqTG1zVnpCMnlUWWtuZms4SDJmUWdncm9MYU0?oc=5
 
-- ‘Stability Is Of Utmost Importance’: PM Modi Charis CCS On Nepal Crisis, Appeals For Peace - News18
-  ‘Stability Is Of Utmost Importance’:
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY0JGZUxIcms0QVZLNjBvbzQ5WndPYXdBLWZNOXNPYlhVdGJ3eEctSUVhQzRjeTd2RVR4WURwRW1UWGJXUUp6c1ZjZnJLY0NxWkticThRWTAwVmVJMncxVldKTjEzUno4UDNFNkU4X3RyM3Y4bG9jeGw5dVV3Y3J0T0FUeXRWZV92YVNiYmpiRGVhdE9sY1lPSG5FSTBuWUhiUDhhaTVvelZZblY3MEpaUUFFYjFWNlI4UEhYMExZVmNhYzVDTjdj0gHMAUFVX3lxTE9ZaDg5MFUtb1pOQnlHTVJKZHpyM2hGYjM0Y1ZRR0VvM2hubmhrVmRHazM0eE50RFZ0aEtDZjJFNUVfM3IzeV9qaV94WFQya3dZaVRXOXljLVpDNWdFWHNYOFF6eHpUYWVtMVhDSl80V1RIVjdKX1Bua1BXZVA4Qm1GU2JFMW9xUWdOd2lnZ1llSEFYMm5NQTBrVXA4Z3UtTW9uZ1F0WEo1bUNycXZGMXljNGJ6MjZOZXltamlzd1BfdWV1allUMmJLbThQMg?oc=5
-
-- "Won't End Well For India": Trump Aide Doubles Down On 'Tariff Maharaja' Jab - NDTV
-  "Won't End Well For India": Trump A
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ2lZb1RGd3JHOWNUeGtVRnEzWnQtZXpiTHZiSzRQRlkxTnAtbmx4eFg1LTVoV2pUZ2I3dmF3eUh4YlBsWnN4WW1jRG5XcWxaLXo1dk9CcHVwNWVjMWNwZ0tZYTFTNGNHby1icVc4WjI4M2VCdFpxeS10ZUFvUmFhZllkakh3WUlBQ3N4dm9hQTdzcS1IWmwwYUpaVnVTTkU2Q21OcXZEeWhQY1FzZkRKNUZCamo5MFhGUTVIcnNLS3N4OThUeDNZck9uQdIB0wFBVV95cUxOcTRMSHdhTmlmbkdJeTZLQlNBZjFKWU1pWFMtNzVrb1dfOVczVHYzaTM1NmdfSnNGblNhQ3FsZFN3N0FEaTlnaGY2djFJTzJmWFU0SldOQlZsTURxV0JLWk8xTElZaExNX0VLTDB5R0JvYnlyLUpSdGR4TFF2WVptQ2hXT2ZPb1ZJRHA5Smp1MDZCWXdBVElWWUNNbTk1NFdfYU1iSDZUSWFHX2xtNUZyWkFxdHd5WE5WNk12ekNZVm84M0tNSGphLXh6dTRBbk9Hb0Zn?oc=5
-
-- Trump aide Peter Navarro warns India amid tariff row, says 'won't end well' | Latest News India - Hindustan Times
-  The row between India and the U.S. has been going on for months
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmpQamp5LUpMSUtFUnhDX1NfOHlUUUtjbW5NQXVvSXpXSWozT2xVOFZ2M29BU3dNYW9BT1lHbkhtZU1TOXpDNTVTajdYX2tzcHNRdnFCTzhZa0FDMFVXNU9uQkUtcTRWaGFhcjNPZVNoNVRjQWZ5T3VoUHJZckVjM3dhOExxc3BHc3FhRElqVFZtQ0dYdDA5cTYxbXg1RnZFcmlXUlI3UVc0Q21hWmx2dFExQTFJMVdmVjNaSHFDVHVEVTNULWQyOUJFTVNiaDTSAdQBQVVfeXFMT1psSXhkMHd0QmpQTW1QOWp4MzhMQ1liYVhHX0Q3RURuRGFGLTlLdXltTmZ0b09qc05mb0xrb0pVNVZLV0dzUzljeFhMcWotcVdxdVRScEI2MjREbTgwVVFTYjhFNTFyS21DLWZtSHBadVJtVUY5ZXdETVBTWUQ4NHNKeHVUV21kSlczZnJKdDU4RnBlU2I5cGlkLUdhU2FDOGN6Wl9GR1dXVGt4TUR5WU11R1poVHp5bWN0SGUzSmU1amROQUR6WHNPbzVBQWV5NjZyMWk?oc=5
-
-- News Today Live Updates, 9 September | In Delhi, TIPRA Motha’s Pradyot says Tripura tribals willing to give Centre ‘last chance’ on ‘constitutional solution’ - The Indian Express
-  Tripura tribals willing to give Centre 'last chance' on ‘constitutional solution’
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZWw2VW1wUUctWmpoMk84c3FlSGgza01ydFQ5Z21CblNYeDhUTWxxZTB5Wko5VEpTVUw2Z1R0NWdmczNwRlZJeS16NE5fOGJUdUs4eXp6dDFPbjRVN3FNX0U0OTF5UjhoOTNhanhtN2dURy10UWQyR0JvaVI3YWtNbUZncXhJcGZBNHhwUUVtcmxIODg1T3FVZng3Vkl3UDlqOXJkRnNYNWxTT0RXUTRMS2ZJVkh3RU5MN3lnUnBTMDdvczBtN3BtUkYtdzVlenFtSnN5a29ldzc1SkdmV3hnMFlmeTZLem4w0gHvAUFVX3lxTFAxcS1IUjBfeDFtdG42dTA5RHRqQ1h4N1FHbFRiX3NoVHNuWDlXOVdKZTdTMjlRNE1ETGt3eFlMeXdKbWpQRG5TUklTN0tOZkhTa3VJRTdUQlhidnJxWldWY0RhRnlrMFVRd1lKMVFxcmpFQ1B1ZGt4bHZkQUpaaUFpM3lHc3p5LWRGVnJjdVRocFhKQ1hpLXZqenVNNEFXV3JTSFlya2ZOZUtORnlWdVU2NVdRVzNRQXpvMjJ6MWNDME1vbTZmYTgwWERhbkhLLWx6WllLSVp3bUdwdDJvODR0YlFhRDFjbmpEemhaVnF3?oc=5
-
-- 99% railway network electrified - Times of India
-  99% railway network
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnBSeVVxU0w1UnQ1eWlIeFl3Nld2NzFlNVFfN2RoRW9TSHVEaG1LVVRQWHZtclBMMUFQSXdBLVo4di1xVTFPSDVSNHZNUjJrMVl1RUFpdUVVRXRMb2FhbEpOSlpLU2ZtSmx0bVFIamJrTWFzcWRyWmYxZF9NWDkzNUc5NHVfTWF6TG5uS1U3VzdtTkJLNWZkbWVkS05YbjjSAaQBQVVfeXFMUC0yQXRCM1VfSVhKNDIxTW80eGxvNnNtMWI3OVF3YkJzOFdWaEpvQk9OVmNHMXJPOEw5RU5xb3RqcmllOVJwRW5Ua0dkREJoQjE0ekwzLV9ZM1lOaHJnN29Wa0VBamtrSEJwYWQtNlV3cGVxMHNONGdvNHg3aU5EbHVWdkFkS29NakgwSUtHQ3VkMlQ4MXZOOFppOG5QSmFVeU9hLTE?oc=5
-
-- ‘Stability Is Of Utmost Importance’: PM Modi Charis CCS On Nepal Crisis, Appeals For Peace - News18
-  ‘Stability Is Of Utmost Importance’:
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY0JGZUxIcms0QVZLNjBvbzQ5WndPYXdBLWZNOXNPYlhVdGJ3eEctSUVhQzRjeTd2RVR4WURwRW1UWGJXUUp6c1ZjZnJLY0NxWkticThRWTAwVmVJMncxVldKTjEzUno4UDNFNkU4X3RyM3Y4bG9jeGw5dVV3Y3J0T0FUeXRWZV92YVNiYmpiRGVhdE9sY1lPSG5FSTBuWUhiUDhhaTVvelZZblY3MEpaUUFFYjFWNlI4UEhYMExZVmNhYzVDTjdj0gHMAUFVX3lxTE9ZaDg5MFUtb1pOQnlHTVJKZHpyM2hGYjM0Y1ZRR0VvM2hubmhrVmRHazM0eE50RFZ0aEtDZjJFNUVfM3IzeV9qaV94WFQya3dZaVRXOXljLVpDNWdFWHNYOFF6eHpUYWVtMVhDSl80V1RIVjdKX1Bua1BXZVA4Qm1GU2JFMW9xUWdOd2lnZ1llSEFYMm5NQTBrVXA4Z3UtTW9uZ1F0WEo1bUNycXZGMXljNGJ6MjZOZXltamlzd1BfdWV1allUMmJLbThQMg?oc=5
-
-- "Won't End Well For India": Trump Aide Doubles Down On 'Tariff Maharaja' Jab - NDTV
-  "Won't End Well For India": Trump A
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ2lZb1RGd3JHOWNUeGtVRnEzWnQtZXpiTHZiSzRQRlkxTnAtbmx4eFg1LTVoV2pUZ2I3dmF3eUh4YlBsWnN4WW1jRG5XcWxaLXo1dk9CcHVwNWVjMWNwZ0tZYTFTNGNHby1icVc4WjI4M2VCdFpxeS10ZUFvUmFhZllkakh3WUlBQ3N4dm9hQTdzcS1IWmwwYUpaVnVTTkU2Q21OcXZEeWhQY1FzZkRKNUZCamo5MFhGUTVIcnNLS3N4OThUeDNZck9uQdIB0wFBVV95cUxOcTRMSHdhTmlmbkdJeTZLQlNBZjFKWU1pWFMtNzVrb1dfOVczVHYzaTM1NmdfSnNGblNhQ3FsZFN3N0FEaTlnaGY2djFJTzJmWFU0SldOQlZsTURxV0JLWk8xTElZaExNX0VLTDB5R0JvYnlyLUpSdGR4TFF2WVptQ2hXT2ZPb1ZJRHA5Smp1MDZCWXdBVElWWUNNbTk1NFdfYU1iSDZUSWFHX2xtNUZyWkFxdHd5WE5WNk12ekNZVm84M0tNSGphLXh6dTRBbk9Hb0Zn?oc=5
-
-- Trump aide Peter Navarro warns India amid tariff row, says 'won't end well' | Latest News India - Hindustan Times
-  The row between India and the U.S. has been going on for months
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmpQamp5LUpMSUtFUnhDX1NfOHlUUUtjbW5NQXVvSXpXSWozT2xVOFZ2M29BU3dNYW9BT1lHbkhtZU1TOXpDNTVTajdYX2tzcHNRdnFCTzhZa0FDMFVXNU9uQkUtcTRWaGFhcjNPZVNoNVRjQWZ5T3VoUHJZckVjM3dhOExxc3BHc3FhRElqVFZtQ0dYdDA5cTYxbXg1RnZFcmlXUlI3UVc0Q21hWmx2dFExQTFJMVdmVjNaSHFDVHVEVTNULWQyOUJFTVNiaDTSAdQBQVVfeXFMT1psSXhkMHd0QmpQTW1QOWp4MzhMQ1liYVhHX0Q3RURuRGFGLTlLdXltTmZ0b09qc05mb0xrb0pVNVZLV0dzUzljeFhMcWotcVdxdVRScEI2MjREbTgwVVFTYjhFNTFyS21DLWZtSHBadVJtVUY5ZXdETVBTWUQ4NHNKeHVUV21kSlczZnJKdDU4RnBlU2I5cGlkLUdhU2FDOGN6Wl9GR1dXVGt4TUR5WU11R1poVHp5bWN0SGUzSmU1amROQUR6WHNPbzVBQWV5NjZyMWk?oc=5
-
-- News Today Live Updates, 9 September | In Delhi, TIPRA Motha’s Pradyot says Tripura tribals willing to give Centre ‘last chance’ on ‘constitutional solution’ - The Indian Express
-  Tripura tribals willing to give Centre 'last chance' on ‘constitutional solution’
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZWw2VW1wUUctWmpoMk84c3FlSGgza01ydFQ5Z21CblNYeDhUTWxxZTB5Wko5VEpTVUw2Z1R0NWdmczNwRlZJeS16NE5fOGJUdUs4eXp6dDFPbjRVN3FNX0U0OTF5UjhoOTNhanhtN2dURy10UWQyR0JvaVI3YWtNbUZncXhJcGZBNHhwUUVtcmxIODg1T3FVZng3Vkl3UDlqOXJkRnNYNWxTT0RXUTRMS2ZJVkh3RU5MN3lnUnBTMDdvczBtN3BtUkYtdzVlenFtSnN5a29ldzc1SkdmV3hnMFlmeTZLem4w0gHvAUFVX3lxTFAxcS1IUjBfeDFtdG42dTA5RHRqQ1h4N1FHbFRiX3NoVHNuWDlXOVdKZTdTMjlRNE1ETGt3eFlMeXdKbWpQRG5TUklTN0tOZkhTa3VJRTdUQlhidnJxWldWY0RhRnlrMFVRd1lKMVFxcmpFQ1B1ZGt4bHZkQUpaaUFpM3lHc3p5LWRGVnJjdVRocFhKQ1hpLXZqenVNNEFXV3JTSFlya2ZOZUtORnlWdVU2NVdRVzNRQXpvMjJ6MWNDME1vbTZmYTgwWERhbkhLLWx6WllLSVp3bUdwdDJvODR0YlFhRDFjbmpEemhaVnF3?oc=5
-
-- 99% railway network electrified - Times of India
-  99% railway network
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnBSeVVxU0w1UnQ1eWlIeFl3Nld2NzFlNVFfN2RoRW9TSHVEaG1LVVRQWHZtclBMMUFQSXdBLVo4di1xVTFPSDVSNHZNUjJrMVl1RUFpdUVVRXRMb2FhbEpOSlpLU2ZtSmx0bVFIamJrTWFzcWRyWmYxZF9NWDkzNUc5NHVfTWF6TG5uS1U3VzdtTkJLNWZkbWVkS05YbjjSAaQBQVVfeXFMUC0yQXRCM1VfSVhKNDIxTW80eGxvNnNtMWI3OVF3YkJzOFdWaEpvQk9OVmNHMXJPOEw5RU5xb3RqcmllOVJwRW5Ua0dkREJoQjE0ekwzLV9ZM1lOaHJnN29Wa0VBamtrSEJwYWQtNlV3cGVxMHNONGdvNHg3aU5EbHVWdkFkS29NakgwSUtHQ3VkMlQ4MXZOOFppOG5QSmFVeU9hLTE?oc=5
-
-- ‘Stability Is Of Utmost Importance’: PM Modi Charis CCS On Nepal Crisis, Appeals For Peace - News18
-  ‘Stability Is Of Utmost Importance’:
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY0JGZUxIcms0QVZLNjBvbzQ5WndPYXdBLWZNOXNPYlhVdGJ3eEctSUVhQzRjeTd2RVR4WURwRW1UWGJXUUp6c1ZjZnJLY0NxWkticThRWTAwVmVJMncxVldKTjEzUno4UDNFNkU4X3RyM3Y4bG9jeGw5dVV3Y3J0T0FUeXRWZV92YVNiYmpiRGVhdE9sY1lPSG5FSTBuWUhiUDhhaTVvelZZblY3MEpaUUFFYjFWNlI4UEhYMExZVmNhYzVDTjdj0gHMAUFVX3lxTE9ZaDg5MFUtb1pOQnlHTVJKZHpyM2hGYjM0Y1ZRR0VvM2hubmhrVmRHazM0eE50RFZ0aEtDZjJFNUVfM3IzeV9qaV94WFQya3dZaVRXOXljLVpDNWdFWHNYOFF6eHpUYWVtMVhDSl80V1RIVjdKX1Bua1BXZVA4Qm1GU2JFMW9xUWdOd2lnZ1llSEFYMm5NQTBrVXA4Z3UtTW9uZ1F0WEo1bUNycXZGMXljNGJ6MjZOZXltamlzd1BfdWV1allUMmJLbThQMg?oc=5
-
-- "Won't End Well For India": Trump Aide Doubles Down On 'Tariff Maharaja' Jab - NDTV
-  "Won't End Well For India": Trump A
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ2lZb1RGd3JHOWNUeGtVRnEzWnQtZXpiTHZiSzRQRlkxTnAtbmx4eFg1LTVoV2pUZ2I3dmF3eUh4YlBsWnN4WW1jRG5XcWxaLXo1dk9CcHVwNWVjMWNwZ0tZYTFTNGNHby1icVc4WjI4M2VCdFpxeS10ZUFvUmFhZllkakh3WUlBQ3N4dm9hQTdzcS1IWmwwYUpaVnVTTkU2Q21OcXZEeWhQY1FzZkRKNUZCamo5MFhGUTVIcnNLS3N4OThUeDNZck9uQdIB0wFBVV95cUxOcTRMSHdhTmlmbkdJeTZLQlNBZjFKWU1pWFMtNzVrb1dfOVczVHYzaTM1NmdfSnNGblNhQ3FsZFN3N0FEaTlnaGY2djFJTzJmWFU0SldOQlZsTURxV0JLWk8xTElZaExNX0VLTDB5R0JvYnlyLUpSdGR4TFF2WVptQ2hXT2ZPb1ZJRHA5Smp1MDZCWXdBVElWWUNNbTk1NFdfYU1iSDZUSWFHX2xtNUZyWkFxdHd5WE5WNk12ekNZVm84M0tNSGphLXh6dTRBbk9Hb0Zn?oc=5
-
-- Trump aide Peter Navarro warns India amid tariff row, says 'won't end well' | Latest News India - Hindustan Times
-  The row between India and the U.S. has been going on for months
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmpQamp5LUpMSUtFUnhDX1NfOHlUUUtjbW5NQXVvSXpXSWozT2xVOFZ2M29BU3dNYW9BT1lHbkhtZU1TOXpDNTVTajdYX2tzcHNRdnFCTzhZa0FDMFVXNU9uQkUtcTRWaGFhcjNPZVNoNVRjQWZ5T3VoUHJZckVjM3dhOExxc3BHc3FhRElqVFZtQ0dYdDA5cTYxbXg1RnZFcmlXUlI3UVc0Q21hWmx2dFExQTFJMVdmVjNaSHFDVHVEVTNULWQyOUJFTVNiaDTSAdQBQVVfeXFMT1psSXhkMHd0QmpQTW1QOWp4MzhMQ1liYVhHX0Q3RURuRGFGLTlLdXltTmZ0b09qc05mb0xrb0pVNVZLV0dzUzljeFhMcWotcVdxdVRScEI2MjREbTgwVVFTYjhFNTFyS21DLWZtSHBadVJtVUY5ZXdETVBTWUQ4NHNKeHVUV21kSlczZnJKdDU4RnBlU2I5cGlkLUdhU2FDOGN6Wl9GR1dXVGt4TUR5WU11R1poVHp5bWN0SGUzSmU1amROQUR6WHNPbzVBQWV5NjZyMWk?oc=5
-
-- News Today Live Updates, 9 September | In Delhi, TIPRA Motha’s Pradyot says Tripura tribals willing to give Centre ‘last chance’ on ‘constitutional solution’ - The Indian Express
-  Tripura tribals willing to give Centre 'last chance' on ‘constitutional solution’
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZWw2VW1wUUctWmpoMk84c3FlSGgza01ydFQ5Z21CblNYeDhUTWxxZTB5Wko5VEpTVUw2Z1R0NWdmczNwRlZJeS16NE5fOGJUdUs4eXp6dDFPbjRVN3FNX0U0OTF5UjhoOTNhanhtN2dURy10UWQyR0JvaVI3YWtNbUZncXhJcGZBNHhwUUVtcmxIODg1T3FVZng3Vkl3UDlqOXJkRnNYNWxTT0RXUTRMS2ZJVkh3RU5MN3lnUnBTMDdvczBtN3BtUkYtdzVlenFtSnN5a29ldzc1SkdmV3hnMFlmeTZLem4w0gHvAUFVX3lxTFAxcS1IUjBfeDFtdG42dTA5RHRqQ1h4N1FHbFRiX3NoVHNuWDlXOVdKZTdTMjlRNE1ETGt3eFlMeXdKbWpQRG5TUklTN0tOZkhTa3VJRTdUQlhidnJxWldWY0RhRnlrMFVRd1lKMVFxcmpFQ1B1ZGt4bHZkQUpaaUFpM3lHc3p5LWRGVnJjdVRocFhKQ1hpLXZqenVNNEFXV3JTSFlya2ZOZUtORnlWdVU2NVdRVzNRQXpvMjJ6MWNDME1vbTZmYTgwWERhbkhLLWx6WllLSVp3bUdwdDJvODR0YlFhRDFjbmpEemhaVnF3?oc=5
-
-- 99% railway network electrified - Times of India
-  99% railway network
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnBSeVVxU0w1UnQ1eWlIeFl3Nld2NzFlNVFfN2RoRW9TSHVEaG1LVVRQWHZtclBMMUFQSXdBLVo4di1xVTFPSDVSNHZNUjJrMVl1RUFpdUVVRXRMb2FhbEpOSlpLU2ZtSmx0bVFIamJrTWFzcWRyWmYxZF9NWDkzNUc5NHVfTWF6TG5uS1U3VzdtTkJLNWZkbWVkS05YbjjSAaQBQVVfeXFMUC0yQXRCM1VfSVhKNDIxTW80eGxvNnNtMWI3OVF3YkJzOFdWaEpvQk9OVmNHMXJPOEw5RU5xb3RqcmllOVJwRW5Ua0dkREJoQjE0ekwzLV9ZM1lOaHJnN29Wa0VBamtrSEJwYWQtNlV3cGVxMHNONGdvNHg3aU5EbHVWdkFkS29NakgwSUtHQ3VkMlQ4MXZOOFppOG5QSmFVeU9hLTE?oc=5
-
-- ‘Stability Is Of Utmost Importance’: PM Modi Charis CCS On Nepal Crisis, Appeals For Peace - News18
-  ‘Stability Is Of Utmost Importance’:
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY0JGZUxIcms0QVZLNjBvbzQ5WndPYXdBLWZNOXNPYlhVdGJ3eEctSUVhQzRjeTd2RVR4WURwRW1UWGJXUUp6c1ZjZnJLY0NxWkticThRWTAwVmVJMncxVldKTjEzUno4UDNFNkU4X3RyM3Y4bG9jeGw5dVV3Y3J0T0FUeXRWZV92YVNiYmpiRGVhdE9sY1lPSG5FSTBuWUhiUDhhaTVvelZZblY3MEpaUUFFYjFWNlI4UEhYMExZVmNhYzVDTjdj0gHMAUFVX3lxTE9ZaDg5MFUtb1pOQnlHTVJKZHpyM2hGYjM0Y1ZRR0VvM2hubmhrVmRHazM0eE50RFZ0aEtDZjJFNUVfM3IzeV9qaV94WFQya3dZaVRXOXljLVpDNWdFWHNYOFF6eHpUYWVtMVhDSl80V1RIVjdKX1Bua1BXZVA4Qm1GU2JFMW9xUWdOd2lnZ1llSEFYMm5NQTBrVXA4Z3UtTW9uZ1F0WEo1bUNycXZGMXljNGJ6MjZOZXltamlzd1BfdWV1allUMmJLbThQMg?oc=5
+- Naga Body Blocks Manipur Highways, Asks Centre To Stop Border Fencing - NDTV
+  Naga Body Blocks Manipur Highways,
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNMDdyMkVPX0ZqWlJCa20tVlRQMWYxaHRwdzdrS0hEUXg0UE9FcW9LTzNSb1RJM2dGZm11bWFfVDdmaHZIaWwyTGJUS0laRUNMVjBzajRsWnQ5RmNseWNXSHRWMGxrbXotVmhJNzNab2RWTVU3VmdCMzF6QzBaX2dicGJ3X3FQUjI0ZnpiQWZzTzJmVEdDd2ktcW41ZGJWMzlLdEs2VFJ0ZEt2MVVQ0gG0AUFVX3lxTE16NFo3VVRkRXR3Z01zV2ZlZjVoXzZ5b0gxY2hGV1FjRVhSSVRSMEszSXQ1ODdiN0xGLXFTU2dmdHloVk9Fa09XQ0VVZzkyRGtZaW5FbThqMUxrUENPSFVoWTNjMzE0MHg5Q190MEFiNV9ZbGNmeFA4S1FUVl9GU1RjeTIwYVBCUDVNaHN0WkhRQ1lOMi1ZTzR6Qk14bVU3NG1ubnBVYUc1R1FQM0p0cmo3aUxTcQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-09 18:22:59 UTC_
+_Last updated: 2025-09-10 01:09:24 UTC_
