@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- To curb ‘fake news’, panel backs mandatory fact-check mechanism
+- What is the urgency? SC refuses urgent listing of plea against India-Pakistan cricket match
   
-  🔗 https://indianexpress.com/article/india/to-curb-fake-news-panel-backs-mandatory-fact-check-mechanism-10242846/
+  🔗 https://indianexpress.com/article/india/sc-refuses-urgent-listing-india-pakistan-cricket-match-10243244/
 
-- PM Modi, Meloni discuss Ukraine war
+- RJD leader and property dealer Rajkumar Yadav shot dead in Patna
   
-  🔗 https://indianexpress.com/article/india/pm-modi-meloni-discuss-ukraine-war-10242842/
+  🔗 https://indianexpress.com/article/india/rjd-leader-property-dealer-rajkumar-yadav-shot-dead-patna-10243228/
 
-- Ministry to invite public objections, reconsider Sariska boundary alteration plan
+- Gold Today Rate, September 11: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/ministry-to-invite-public-objections-reconsider-sariska-boundary-alteration-plan-10242750/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-september-11-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10243099/
 
-- Pan-India SIR: Focus on matching rolls to last revision, EC tells CEOs
+- ‘Fraught with danger’: India advises citizens against offers to join Russian Army, seeks release of nationals
   
-  🔗 https://indianexpress.com/article/india/pan-india-sir-focus-on-matching-rolls-to-last-revision-ec-tells-ceos-10242741/
+  🔗 https://indianexpress.com/article/india/mea-indian-nationals-russian-army-recruited-10243149/
 
-- Presidential reference hearing: How is it ‘false alarm’ when Bills kept pending for 4 years, SC asks Centre
+- ‘He uses that language only when the poor go unheard’: Doda MLA Mehraj Malik’s father on his arrest under PSA
   
-  🔗 https://indianexpress.com/article/india/presidential-reference-hearing-how-is-it-false-alarm-when-bills-kept-pending-for-4-years-sc-asks-centre-10242823/
+  🔗 https://indianexpress.com/article/india/doda-mla-mehraj-maliks-father-on-his-arrest-under-psa-10243126/
+
+- Spotify introduces highest audio quality yet: Lossless streaming now rolling out
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spotify-lossless-audio-quality-how-to-enable-supported-countries-10243134/
+
+- Amazon developing consumer AR glasses to rival Meta: Reports
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-developing-consumer-ar-glasses-to-rival-meta-reports-10243120/
+
+- Meta, TikTok win challenge against EU tech fees, forcing regulators to recalculate
+  
+  🔗 https://indianexpress.com/article/technology/meta-tiktok-win-challenge-against-eu-tech-fees-forcing-regulators-to-recalculate-10243101/
 
 - New findings by NASA Mars rover provide strongest hints yet of potential signs of ancient life
   
@@ -28,197 +40,185 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-rolls-out-affordable-ai-plus-plan-offering-access-to-gemini-2-5-pro-10242207/
 
-- Why the iPhone Air could be a confusing choice for Indian customers
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/why-iphone-air-could-be-confusing-choice-indian-customers-10242110/
+- Hyundai Motor to pay USD 1.8 bn in bonuses to Korean employees despite U.S. tariff headwinds
+  Hyundai Motor reached an agreement with its union in Korea to distribute over 2 trillion won ($1.80 billion) in bonuses in 2025. The automaker faces growing challenges from high U.S. tariffs.
+  🔗 https://www.livemint.com/companies/news/hyundai-motor-to-pay-usd-1-8-bn-in-bonuses-to-korean-employees-despite-u-s-tariff-headwinds-11757570487070.html
 
-- Speed of light: The cosmic limit that shapes our universe
-  
-  🔗 https://indianexpress.com/article/technology/science/speed-of-light-the-cosmic-limit-that-shapes-our-universe-10241972/
+- Meet the Indian sibling duo behind Koyal, an AI-enabled platform that converts audio into a full movie
+  Mehul and Gauri Agarwal transformed the landscape of filmmaking with Koyal. Koyal converts audio into cinematic videos, enabling creators to
+  🔗 https://www.livemint.com/companies/people/meet-the-indian-sibling-duo-behind-koyal-a-platform-that-converts-audio-into-a-full-movie-11757566190497.html
 
-- India resists full crypto framework, fears systemic risks
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/india-resists-full-crypto-framework-fears-systemic-risks-10241905/
+- Singapore-bound Air India passengers face tough time at Delhi airport
+  Singapore-bound Air
+  🔗 https://www.livemint.com/companies/news/singaporebound-air-india-passengers-face-tough-time-at-delhi-airport-11757562573344.html
 
-- Only 60% of plastic waste generated is recycled: Bisleri
-  Bisleri reports India consumes 13 million tonnes of plastic annually, with 60% recycled. Their 'Bottles for Change
-  🔗 https://www.livemint.com/companies/bisleri-plastic-recycling-india-plastic-waste-management-india-pet-bottle-recycling-plastic-pollution-india-11757075685754.html
+- Oracle CEO Safra Catz's net worth rises $412 million in a day as stock hits record highs
+  Catz’s net worth surged by about $412 million during the first six hours of trading on Wednesday. Cat
+  🔗 https://www.livemint.com/companies/people/oracle-ceo-safra-catzs-net-worth-rises-412-million-in-a-day-as-stock-hits-record-highs-11757561344698.html
 
-- Elliott says Kansai Electric can become more attractive by selling non-core assets
-  Elliott says Kansai Electric can become
-  🔗 https://www.livemint.com/companies/news/elliott-says-kansai-electric-can-become-more-attractive-by-selling-non-core-assets-11757547434730.html
+- Tata aims to roll out India-made chips by mid-2027, but rare-earths crisis could derail plan
+  Tata Electronics faces more potential delays if India is unable to secure ample supplies of rare earth and critical elements by
+  🔗 https://www.livemint.com/companies/news/tata-electronics-tata-semiconductor-rare-earths-dholera-gujarat-india-semiconductor-mission-semiconductor-chip-fab-11757512147829.html
 
-- Deutsche Bank Distressed Desk Nets $100 Million on EchoStar Bets
-  Deutsche Bank AG’s US distressed-products desk notched more than $100 million in profit this year.
-  🔗 https://www.livemint.com/companies/company-results/deutsche-bank-distressed-desk-nets-100-million-on-echostar-bets-11757536269796.html
+- Small-cap stock under  ₹20 jumps 5% despite range-bound trend on Dalal Street; here's why
+  Small-cap stock under  ₹
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-20-jumps-5-despite-range-bound-trend-on-dalal-street-heres-why-11757565969528.html
 
-- Anglo-Teck Vancouver Headquarters Is a ‘Perpetual’ Commitment
-  Teck Resources Ltd. and Anglo American Plc’s plan to headquarter their merged company in Canada
-  🔗 https://www.livemint.com/companies/news/angloteck-vancouver-headquarters-is-a-perpetual-commitment-11757536087795.html
+- Morgan Stanley bullish on Aditya Birla retail plays; upgrades ABFRL, sees 44% upside
+  Morgan Stanley has turned upbeat on two key Aditya Birla Group retail companies.
+  🔗 https://www.livemint.com/market/stock-market-news/morgan-stanley-bullish-on-aditya-birla-retail-plays-upgrades-abfrl-sees-44-upside-11757568964614.html
 
-- Judge Blocking Lisa Cook’s Ouster Not Deterred by Rulings on Past Trump Firings
-  The US judge who blocked the ouster of Federal Reserve Governor Lisa Cook joined the growing chorus of her lower court colleagues to reject the idea that the Supreme Court’s recent
-  🔗 https://www.livemint.com/companies/news/judge-blocking-lisa-cook-s-ouster-not-deterred-by-rulings-on-past-trump-firings-11757535965710.html
+- IPO GMPs: Urban Company vs Dev Accelerator vs Shringar House of Mangalsutra — what grey market signals?
+  Three mainboard IPOs were fully subscribed on their first day. Dev Accelerator leads with a grey market premium of  ₹8. Urban Company and Shringar
+  🔗 https://www.livemint.com/market/ipo-gmps-urban-company-ipo-gmp-dev-accelerator-ipo-gmp-shringar-house-of-mangalsutra-ipo-gmp-dev-accelerator-ipo-11757568147896.html
 
-- Global Markets Today: Nikkei 225, Kospi trade mixed on Fed rate cut hopes
-  In Japan, the Nikkei 225 gained 0.23 per cent in early trade. South Korea’s Kospi rose 0.67 per
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-trade-mixed-on-fed-rate-cut-hopes-11757551636608.html
+- China’s Steel Mills Squeezed as Demand Shows Signs of Softening
+  Iron ore’s rally is clashing with sluggish Chinese steel demand. mills squeezed even as the nation�
+  🔗 https://www.livemint.com/market/commodities/chinas-steel-mills-squeezed-as-demand-shows-signs-of-softening-11757568494285.html
 
-- Oracle share price jumps 36%, posts biggest one-day gain since 1992, adds $244 billion in market value
-  Oracle's share price surged 36%, reaching $328.33, its largest single-day gain since 1992. The market capitalization rose to $922 billion,
-  🔗 https://www.livemint.com/market/stock-market-news/oracle-share-price-jumps-36-posts-biggest-one-day-gain-since-1992-adds-244-billion-in-market-value-11757552250532.html
+- SpiceJet share price jumps 5% on $89.5 million liquidity boost. Details here
+  SpiceJet share price jumped over 5 per cent in intraday trade on the BSE on Thursday, September 11, in a lacklustre market.
+  🔗 https://www.livemint.com/market/stock-market-news/spicejet-share-price-jumps-5-on-89-5-million-liquidity-boost-details-here-11757566178776.html
 
-- Stock market today: Trade setup for Nifty 50, global markets, India-US trade deal; 8 stocks to buy or sell on Thursday
-  The Nifty-50 index could gradually move towards the 25,200–25,500 range.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-global-markets-india-us-trade-deal-8-stocks-to-buy-or-sell-on-thursday-11757503322750.html
+- BGMI 4.0 Update: Krafton rolls out Spooky Soiree with new modes, weapons, features on Android — how to install
+  Krafton has released the Spooky Soiree update for Battlegrounds Mobile India on September 11, 2025. It
+  🔗 https://www.livemint.com/technology/bgmi-4-0-update-krafton-rolls-out-battlegrounds-mobile-india-spooky-soiree-on-android-devices-11757560223533.html
 
-- US Fed rate cut hopes, India–US trade talks boost IT stocks; Infosys, Tech Mahindra among top picks
-  Indian IT stocks are experiencing a rally driven by improved sector prospects and expectations of US interest rate cuts. Analysts suggest major players like Infosys and Tech Mahindra will
-  🔗 https://www.livemint.com/market/stock-market-news/us-fed-rate-cut-hopes-india-us-trade-talks-boost-it-stocks-infosys-tech-mahindra-among-top-picks-11757521302590.html
+- 2 channel soundbars with sleek build and immersive sound performance:Top 8 picks for enhanced audio clarity
+  2 channel soundbars offer sharp dialogue and richer bass. Perfect for those who want the best soundbar
+  🔗 https://www.livemint.com/technology/gadgets/2-channel-soundbars-with-sleek-build-and-immersive-sound-performance-top-8-picks-for-enhanced-audio-clarity-11757500525028.html
 
-- Stocks to buy: Raja Venkatraman's top picks for 11 September
-  Market expert Raja Venkatraman shares his top three stocks to buy for today, 11 September.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-picks-11-september-sensex-nifty-bank-nifty-zydus-wellness-chalet-hotels-shoppers-stop-11757504492814.html
+- Spotify launches Lossless Listening feature for premium users — What is it, how to activate and more
+  Spotify's Lossless Listening feature allows premium users to stream music in high-resolution 24-bit/44.1 kHz FLAC format. The feature is rolling out in over
+  🔗 https://www.livemint.com/technology/spotify-launches-lossless-listening-feature-for-premium-users-what-is-it-how-to-activate-and-more-11757554428562.html
+
+- US Senator Ted Cruz proposes AI 'sandbox' to ease tech regulations: How will it spur innovation &amp; impact state bans
+  Senator Ted Cruz proposed a 'sandbox' bill allowing AI companies to apply for regulatory exemptions. The bill would let agencies consider applications for two-year exemptions
+  🔗 https://www.livemint.com/technology/tech-news/us-senator-cruz-proposes-ai-sandbox-to-ease-tech-regulations-how-will-it-spur-innovation-impact-state-bans-11757553337315.html
 
 - iOS 26 rolls out on September 15: Everything you need to know about what’s new in the update
   Apple iOS 26 will arrive on September 15, with smarter AI tools,
   🔗 https://www.livemint.com/technology/tech-news/apple-announces-ios-26-launch-date-here-s-when-it-arrives-on-your-iphone-new-features-and-more-11757511251010.html
 
-- India eyes advanced 5-7 nm chips as semiconductor mission enters next phase: Additional Secy MeitY
-  India is taking its semiconductor mission to an advanced level. Plans to move from 28-nanometre fabs towards the manufacturing of advanced 5
-  🔗 https://www.livemint.com/technology/tech-news/india-eyes-advanced-5-7-nm-chips-as-semiconductor-mission-enters-next-phase-additional-secy-meity-11757506864810.html
+- Stock Market LIVE Updates: Sensex flat, Nifty holds 24,950; PSU banks, energy stocks shine - Moneycontrol
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQjQtMzRHSE5vWTU0MHZ1a3V0QmI1MFc2R1Zzczd5U2hRQWVENHlyR0o2dTJFbGVuZmpMU04wMzJGQkFXTE5QenNNUExIdW16NEVMYVYxeWxYRTFvaEhxdnNhdzVFWkU5ZF
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQjQtMzRHSE5vWTU0MHZ1a3V0QmI1MFc2R1Zzczd5U2hRQWVENHlyR0o2dTJFbGVuZmpMU04wMzJGQkFXTE5QenNNUExIdW16NEVMYVYxeWxYRTFvaEhxdnNhdzVFWkU5ZF94RTNJcWhyZlkwUmN1TTJZMTVHNDlIejF6alp5eVR3Nk8zU0k3WUx0ajl2UlY1VWlZZnNHLXE3U2kzdXZoWk9tR1B0dW9mTnZqV0VyOTJRNFlIdU05VGQtWWdzclFwOXdTR25keC1GT25tbDRWNmxnSHk0SkdBaXpTY0pPTHI1WTFxQw?oc=5
 
-- Nearly half of Indian enterprises polled embedded AI into biz strategies: Study
-  Nearly half of Indian enterprises polled embedded
-  🔗 https://www.livemint.com/technology/tech-news/nearly-half-of-indian-enterprises-polled-embedded-ai-into-biz-strategies-study-11757499780122.html
+- India Plans to Retain Market Borrowing Target After Tax Cuts - Bloomberg
+  India Plans to Retain Market Borrow
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdzBTYTlyRTlFMGdpWXZjSG05XzdPQzl6VFVMWEdLcjVGZzcta1Y4THp2aDNTZFMxSHc2QUZEYmdvbVZpREFDSFU5akdYelkxUkxkaXg4RTRPeUpRS0ZnYXRRVE9OSFVkd3VhVjFQRkctMXBWdHc1UFNuNFVUdEI3aXVtYkpwVEw3RXQzQmV2ekxtZngtX0dHZ09UV2tGdXh1bkt1d2xScTdjVExqbVZaVw?oc=5
 
-- Mint Explainer | iPhone Air: Are size-zero phones making a comeback?
-  Apple’s new iPhone Air marks a return to ultra-thin smartphones, with a sleek 5.6mm build and premium finish. The launch raises a key question: can
-  🔗 https://www.livemint.com/technology/iphone-air-size-zero-phones-comeback-11757492684810.html
-
-- Apple iPhone 17 Pro vs Google Pixel 10 Pro: Price, display, camera and more compared
-  The iPhone 17 Pro and Google’s Pixel 10 Pro bring fresh flagship competition in 2025. Apple stresses durability and on-device privacy, Google focuses on updates and computational imaging.
-  🔗 https://www.livemint.com/technology/gadgets/apple-iphone-17-pro-vs-google-pixel-10-pro-price-display-camera-and-more-compared-11757496641153.html
-
-- Markets News, Sep. 10, 2025: S&P 500, Nasdaq Hit Closing Highs, Dow Falls Ahead of Key Inflation Data - Investopedia
-  The S&amp;P 500, Nasdaq Hit New Records on PPI Inflation Data. Oracle Soars 35% — Live Updates.
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE81YUFIRTRkQXEweVFhT2U4LV9pb1EtaTF6ZkEwY1ZsVzF2TEJSQ216ZzZ5dHdzaHpUc2x1VlBGS3h3U255dnJmbmR4ZURHWlY5V2JON25Bd3lMX2JJYjNwUE1LQjBZX0RfYXdHV3dWVQ?oc=5
-
-- Stock Market Highlights: Sensex settles 324 pts higher, Nifty above 24,950; BEL rises 4%, HCL Tech 2% - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaVVtUi1GRUxDUFFwMTJjOFljMFR3bkQ3MlY5MUk2VDN5cFZfSnE0RGZBaV9ZYXZCNWNEUFMyQ2d2QlZ2UFRrLTk0MG1hUHZuU0g2YmdHMzBDWjl0YWhnRGhNeEwyOVh5OW
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaVVtUi1GRUxDUFFwMTJjOFljMFR3bkQ3MlY5MUk2VDN5cFZfSnE0RGZBaV9ZYXZCNWNEUFMyQ2d2QlZ2UFRrLTk0MG1hUHZuU0g2YmdHMzBDWjl0YWhnRGhNeEwyOVh5OWFPbW1PQXZQcV90ODg1OGRiWUpvVDdhbW9UblBoY2pYY0ZrdGpRMlI4TWZVMWxMQ3Y5UUoxZGUxNzlpdkRjeXNwXzMtN2JhdWtFUC0wN1B1cmlrZGV4MzZXTkYzMzFOejlzSnQ4SE9fYU1ENm5yYjdKd9IB3wFBVV95cUxQQ2JHdFlvTWhtRU4tZVR0R3Q2ZXFyNElmaDhtNnozQ3kwMkJPa0FaVUhuSVVMYTRqZkRkNTRiSGNsazNoVDA2NGt4aVlvOUd2eXotemR2X3JwaVE3bjBGQjFpVHNaZlgtTS1kMXNUOHZLX0h4MHpkOHVOdVJ5amtBeDRYd2tZRTdQQ1dHbFJLR1lYa243SGZtSWI0Rm44X3dzWENVT25vanJiZDVmc2Z4c0swaGVhMjVnNDl5LWt0RlpyMGdaLU1HWGNRUFVsNDZCVWVncjJYOFhFbFdzdjc0?oc=5
-
-- Asia markets open mixed after Wall Street gains on positive inflation data - CNBC
-  Asia markets open mixed after Wall Street gains on positive
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzItcDhzOXFzem1IVXZONmRLZlIxUG1FX1VBRVlLc3ZqUlpIV3I4Wk5YVEUwQndrRlJPenF2NHNFUkpOQVJVdWh6WG4wQlpUS3BkWUFyQWZhVzlBQ2xRMmNFUVZDcS1MQzJONXkweGhiRjFKbXRkY3NpRDZ2cDdiUFRzck1BZ1RsLTFxVnNZUHBPU3ZHM2tWcVduVTkwV2hUa01ZNXNlU3XSAa4BQVVfeXFMUC1wM08waVlnY1NTTlM5N19FYUtXYWktUjlwSHlsS1BZS1BuMElYQlEta2d4TzlTU1o4Y3JEZHU2X2FMbG1mdEdvTEFJRkNPUUg1eGlpQ2lEYzcxVll1aU12SUZOZnhCbVRqdVY2al9kQWRvQUpRUFhCM1hwa0pLTWFTek9qbEcxTHExSnZJeklJMHd2aFo2cXdNdmZUcVBoaUFQMmJ0UDVLWS0xVkpn?oc=5
+- SpiceJet shares rise 5% as Carlyle settlement unlocks $89.5-mn liquidity - Business Standard
+  SpiceJet shares rise 5% as Carly
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxObTdvNl9JRW5LUllfWElrUy0taW5Ya2xDczl0ZTBOTm1UZmw3azF3MTVid1luOW1OQS1YdXViSXprLVBCXzJyUE9mLVVTNEJZWHZoSVJ2MVpSNFpOWXdLcnZEeC1FZ1BNa0lJZy1ROEhxOEFvUk8wVW1xMEQyWWs2d09lMlM1V0h6UXFhLWFWQ3k0X0k4NHFUb0ZYck5SVHNkT29xMHVLTFZvTGxPWXBWeU5fNm9Bamo3SHh6TUIzTHA2c05GcmlQbU41SWZJbjVoeFlsaFQ5bVczd9IB3wFBVV95cUxOSHN5OGZLN1B5X0NBWVJfOVJ5SVQzNGVjMS1sNjJyTVNSd3FLZUVnRlBzeG5jNDBGd0xpTmlaUnlTWkR1bXBJV3I1QWd3Zms2MFd1Wm9mYzlkMFlVdkVDQWVEYTZTeHEtb19yQktDcTZMWWszTGszRjg1X2VVNTR4SUpaUmxPQ3UzM2pnT3dVQlp5b2hnaGZIOHQ2bjJNUjFkMHdEbEJ3eFZIS1l6VFloSHI0VTBEZXdBazRIcFJCeG1HMkZmcmUxcW1tNnQ1cXBNTHA3ckdabHN4UjFkNldn?oc=5
 
 - Gulf markets dip amid rising geopolitical tensions; Saudi Arabia and UAE stocks fall the most - Times of India
   Gulf markets dip amid rising geopolitical tensions. Saudi Arabia and UAE stocks fall
   🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNQWdSdnRBS2R6Qk5WQW5IQTR2cnd5djM5cmptQmpWWU8wOVlNNFBCSkU0TVh0Z0l6Ynl0eVhSWmYtbThCTU1iV3F1WUJ3R1dzems0dFItWHFhYkRIT01pYklXc2tfRkpIUl85T09zQVdKWnFnRnR2bFhqTlBhQ2taRkVVdVh6RE85LXpOUllaQUJTR0N3ajZ1Z1BqOG1jLUtjMmQtX2llcTZ4azFiNVB5LUdiQ3d4MVVFZ0pURm4tbnNacFlnSFFpZ3VZVEZuVXl3bDRLWkFSRmRxVjF3RU41aVhVdU9xZ3lXYTZPN3lkNmpRZ29fX054MU44NGFmMDRiYWfSAYcCQVVfeXFMTzdLbjRfa2V6Z04tQVZvMnkzTkwyLXdjcUxjQXlrN3hUa3EwWTREMGdrNHJZSlpoc0ZsVnRnd09FRGNGSWFObVFYVUpQR3QtV3R6R25Rd1VBZHVsY1I3dDhCWjJ4bHRBVnRDWXZSWXJRTTVTTVFGRGdMLWtQWTc5U1hCMElkVWNaR0pqWTdIa3htOVQ0V2NDRkEzbldYNVQyN3dZNWFMeVg5U3V4WU15eDE4YURyNTdYMzJYaS1nTVBLWE1sTF9yd193dWhzcmt1V1NuX1hsMjlDZURfa09HU1QyVFh0LWJDNm9NQldIdE55T0dQZG5Ta0pBT2dTdFhIS1dELW9mRUk?oc=5
 
-- US dollar mixed, markets eye Fed cuts after soft inflation data - Reuters
-  US dollar mixed, markets eye Fed cuts after
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOeE01NDNOUl8tMFdBaFRBUzRlU0FkalFRWlo3YXgzaklPZTVsMF9aVWFOdTFOZTN5NTB2WDJ1TGw4dXZWWExBYnJFSFNSR3U3V1lEZXFtM0VpU25IRlNmbjlERmVJNmV3WGFGOEYtamVtWHAwV2p5ZXpiWFZwZ1JLQ0JicWQ2TEx3TjlnVjZWRnJha0pMVGlTYWthd1JLTFNFdG02WkVGYWJTVVVwMW5USnJQNGdtcVU?oc=5
+- Markets News, Sep. 10, 2025: S&P 500, Nasdaq Hit Closing Highs, Dow Falls Ahead of Key Inflation Data - Investopedia
+  Markets News, Sep. 10, 2025: S&amp;P 500
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE81YUFIRTRkQXEweVFhT2U4LV9pb1EtaTF6ZkEwY1ZsVzF2TEJSQ216ZzZ5dHdzaHpUc2x1VlBGS3h3U255dnJmbmR4ZURHWlY5V2JON25Bd3lMX2JJYjNwUE1LQjBZX0RfYXdHV3dWVQ?oc=5
 
-- Asian shares steady as US stocks climb on Fed rate cut hopes
-  US futures saw slight gains as the S&amp;P 500 reached a new record. Asian equities displayed mixed performance following Wall Street's rally.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-shares-steady-as-us-stocks-climb-into-cpi/articleshow/123819531.cms
+- SpiceJet shares snap 6-day losing streak. What’s behind the surge today?
+  SpiceJet shares surged 5% to Rs 34.85, ending a six-day losing streak. The airline reached a financial settlement with Carlyle Aviation Partners. The deal provides $79.6 million for engine maintenance, $9
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/spicejet-shares-snap-6-day-losing-streak-whats-behind-the-surge-today/articleshow/123823203.cms
 
-- IT stocks surge as Trump signals progress in US-India trade talks
-  IT stocks surged following positive comments from Donald Trump regarding US-India trade negotiations. Optimism surrounding a possible US Federal Reserve rate cut and Infosys' share buyback further fueled the rally. Investors are anticipating more buybacks
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-surge-as-trump-signals-progress-in-us-india-trade-talks/articleshow/123819481.cms
+- BEML shares rise 2% on reports of upgradation from Miniratna to Navratna status
+  State-run equipment maker may be upgraded from Miniratna to Navratna, granting greater financial and operational freedom. The stock trades above key SMAs
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/beml-shares-rise-2-on-reports-of-upgradation-from-miniratna-to-navratna-status/articleshow/123823036.cms
 
-- Stocks in news: Infosys, ZEE, Tata Motors, Tata Motors, Vedanta, Kotak Mahindra Bank
-  Indian markets showed positive momentum on Wednesday. Infosys will consider a share buyback. IDBI Bank seeks insolvency against ZEE. Tata Motors faced a cyber incident at Jaguar Land Rover.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-zee-tata-motors-tata-motors-vedanta-kotak-mahindra-bank/articleshow/123812826.cms
+- Rupee falls 5 paise to 88.16 against US dollar in early trade
+  The Indian rupee weakened slightly to 88.16 against the US dollar. The rupee is expected to fluctuate between 87.50 and 88.40 in the near term.
+  🔗 https://economictimes.indiatimes.com/markets/forex/rupee-falls-5-paise-to-88-16-against-us-dollar-in-early-trade/articleshow/123823030.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  Technical analysis suggests continued upward momentum if the index sustains above 24,750-24,820. FIIs were net sellers, DIIs were significant buyers, and the rupee remained stable amid trade uncertainties.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/123812892.cms
+- India bonds inch higher as traders eye US, domestic inflation data
+  Indian government bonds experienced a slight increase in early trading. Traders are closely watching U.S. and Indian inflation data releases.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-higher-as-traders-eye-us-domestic-inflation-data/articleshow/123822819.cms
 
-- Will RBI’s policy moves help calm India’s bond market turbulence?
-  Analysts anticipate that benign inflation, resilient fiscal footing, and potential RBI action to address market dislocations will revive demand. Experts suggest that strategic policy interventions and upcoming key events could further soften yields.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/will-rbis-policy-moves-help-calm-indias-bond-market-turbulence/articleshow/123819378.cms
+- LIC shares fall 15% in a year, over 70% of portfolio stocks fall up to 70%
+  LIC is facing a challenging year, with its shares down 15% and over 70% of its portfolio stocks in the red. Despite the overall slump, select holdings like Tourism Finance Corporation and Laur
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lic-shares-fall-15-in-a-year-over-70-of-portfolio-stocks-fall-up-to-70/articleshow/123822766.cms
 
-- Trump lobbies EU for 100% tariffs on China and India to pressure Putin - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZF
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZFRhUEVSRGdDX3FNN0paSG5tVXpfcXB5SEVaMnFFVlhKOGgwQXItYVlEUFh4ZnplTWU5ZjFyVHYxU2U3OVNjbC1qNTR6cTc0TEtKQlF0SnRoNVIw?oc=5
+- Can Help With Racism, Xenophobia: India Jabs Switzerland Over Minority Remark - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWY3MlJQRk5VUXkyd1dhbDcwNXlwMTJnUkZaQjZmQmZqWk9CTE00Wjk5N2MyWXY4Z3Eyc0c1M0REdEYwWEVrQlk3ZnhlVVEwclR1Rmp6NzFBaXlrdU1RcDg0ZHNCNkp4NnJDVjRfTW5ESjR2dXBOT2xzZmpxUHBZb1JhMmhZTU1oclhPZXRLMzh1ZlFGNWFpbVkyN3pDSHQtUkFZYWpLNUlKSkswUGRtbGk1LUt0d9IBvgFBVV95cUxOQnJpQmxjNUFveE55eVRfQmR6Z2lIUDVnUXVEcFpGYlREVVlGQ1JyS2tKS0Zsc2ZtTndOZDVIUVBrLVlMdjJDR095SXRubUh1bVVxZFhzY0pyQUdyOGJzNTVVRV9NTUxNbkMza3NZUWphWFB3OGVIV05RNGxLbm9YclVZdnRrZlFCQlB0RmNjU3ZTMnYyS1pabk9mM0NRb09oVmVkY1AwVDFYVGJGd1lGYUVUeTlaZVdBYUVWM1FB?oc=5
 
-- India-Nepal Border On Alert, Army Deployed At Embassy In Kathmandu - NDTV
-  India-Nepal Border On Alert
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTU4dVNCUkt3UE1sWFk0R1BqMEd1a1B2MWtjcUZqemllVk42SndOdEllTUxfYTAxMDZSdjBwam1XSnNhSzdaT2J2S2ZZd0pyWTJzRVQtYXh1Z3VIdzdnNlpBNmUtV2xXQnlpSEE1S0xHNVRocHBuZFc3WjZueUloVnN3RUlaaE5KN2ZjcndOM2t3MmlIcDlGOW5XZDl5OFBvZjR2V1lOMlVURmhyeGU4YkxYMGg0S1dDZDJiRUxJX091T0gxcWhTeDJfUW_SAdQBQVVfeXFMUHR6MU5qNG1QY29mYTNUMEIwUjV3QUFuYmxaU01WZnR6WTRJb0swWDFSTkJZYlZQZWpPOW9Zd0pPVTBQeVZMQWpXY25YRVg2akgxYldXRFI5eGZkNkJub2JlNkFlM3BoWDJDVG1tSHgzRmdPX1RXcTc0TzFuaW5SMV90OFBnTWlQVzkzSE12ZU1LaU8ydnZoZ2p3SWJ3NDhCQ0JpT3RsQzBGU3hIUlBiU0tzSkYxSUE3bUNJeUJlMlo5NHkzblVCQ2FqQjNieEFWYkxESVU?oc=5
+- At UNHRC, India criticizes Switzerland for ‘ill-informed’ remarks, offers help on domestic challenges - Times of India
+  At UNHRC, India criticizes Switzerland for ‘ill
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMnMwTVpmazZoWVJBc0xfQXo2LU9qeWNSVmQwX1hCM0JSX1dPbkxHd3dEcUpLWWdNQXJna21IUzVhRmU3a1FZc19fNlpQWUF6YXE1MTZyUFJNSUR4elB4VGtnZk9yTXZybVRkNXBHSHBYaURKN05LeU9iRW1nQVhDS2oyWHpqWmhDUGFLQm0wQzlsMTRpMHlHTVBCU05SbWNKbElSdWFEUVdRclRad1IyajlMTmkwUE1OM3otNE1oYXFsV0hPODV0VmVxUFlZU0hVdk9YZ1Zmc9IB3AFBVV95cUxQX1ZBN09Qa2NvMHJ2U1pfbFhKMTRabVcwSE8tWUZCYUxBRlpzZkprZWRWbEVUSFJvb0tsYklDdGtQRGN5UlR2SmlqNEFmNGpWdVUySDJOTHZCUnFwbWVnREZhc2dWZUtURGVMVzBCQUlET2hVUkp2OVNkdHJ2TlhNbHNXVjd5RUlVQko0bVRGMHRaMTRpM2dsWmR5bFI1SjJLNWRpSFc2cUQ4dTZLT2RpWlgwYVNJcmVSemhSMGtkcV8xR3lKNkJOa1ByTzRabGRxMjRvYmxhN1NIbmRT?oc=5
 
-- "Not Sparing Tourists": Indian Woman's Call For Help From Violence-Hit Nepal - NDTV
-  "Not Sparing Tourists": Indian Woman
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQWVRqWDB0QUlUT2syUVhVOVdoanBtQjdmWm5rZGtkTlpIZkx3VTBBdmRRM2RaN0ZDQzc2cTE1WWZiT1JnMW54X0czUVhtYU9DbURocERfYWpoSnA3cDBhamtiWGpvMkh5eloyX0diUjc0alo2N2NPUmZpSVUxYzZUM081d19wbGZuUWpaakVVUGFFSDlvWDlPVXVzQUFDdTFHdHIzYWFHMUdqWF9VSFotQW9lX3Y3S1E0R19tZnVGT1pVbFVXOE8zVnZvTHhaMzlob0Uyd0VsOWgtR0J1eEZqNjVXSm8zeHdEZ2JrWjVtWnRsZ3pURHpGRkYtdTk1cHN6ZklaQ2J1WVNxNk5JZGfSAZYCQVVfeXFMUEI2empnVUZTTjlQbGNJTjN2bndvazd4SVQwZlU5TmxRZjRwME5zZGdwNlhzazhzeHVKdmkta0lvRjQ0OHRhdTdkVkY2UEpjMjExZ2k4am5UdzAwVUpLekh0RF9UX3dveHQwdGE0b3FFUjNIdjhkbi01d2hFN3Q1eFptRTh1MUhuSDV0ajlxeVJwNTdhcy1zY0E1eTdqUzV5OC0wbEkwTFVPWmZRVzBVd1pfMTlscHkwRHA0eDJBOWFoYmdqajVqRXk4OTFXQ2gyN2tmSWV6VVMwa0UyLWxPeHg2ck9DcklBU2pTcmtYaUxUbzlOR1MzVjBpTjYtMW8tS0g3VnYwY1VTaVo3ZjZtcGxpOG9VRVE?oc=5
+- Switzerland's worry for Indian minorities gets a response, with an offer for lessons in pluralism | Latest News India - Hindustan Times
+  Switzerland's worry for Indian minorities gets a response, with an offer for lessons in plural
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdU9MZHJJRjVsRENvT0RoRTBvYnhkNkx3elhqc2lQNGZIZmdBeE9iRktLcV9YTjVvcllWX1k2OWlzbXIzaWo0M2lmUnVvVmVEak5TcGkwZm9QVGk4UFdqSi1uUmhIRTJ3bXNmSWEwT3lEeTlfN0hfQ19nM2RvdGk0MVY4SVBlM1lIMHU2OEFucFl0TEJmUjlzdThvZTMtdkNSQlQ5a2syLU1NT1V0cUl5dDQyWjJxZDQxSlBJUjE2Rko4c2cwZnJxcm84MzBINF9fQmRtcHd0cUtDWjZ4Tld1ajhhUXZWNjZsUmpNTDlXUdIB9AFBVV95cUxNbGowclRxaWFZcE9ublJ0bDlaTk9BcWlUZ0tEQzZSVUd2SWRMWWJ0ZW9jSGJWSzdHWTc1dFk4RXdNZXhnQWNQNURkM1RrU1VKb3pCeWI5QVkzeDVtUDJ0U0hoNzRWODVaTTE3Mk1fQ0ZpVXl6bTZPWmxNSXgtZDVqRDJORHpCZFdpR3hqMkQ2eDFyYUdIWkwwSDBJcXdoRU1lajMwdEViU3FOQVh3TUFiemcyMTlLVXROd1E4N2lLUnZhcFJORG1jQkNfUTFyMEx4bTJ0MG5NXzN2bFJGRXZPcmdzMFVkZFI3cFY1YXFEakFqT3lV?oc=5
 
-- Nepal turmoil adds strain to India's neighbourhood diplomacy - BBC
-  Nepal turmoil adds strain
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MckhxQjlOLTNqRkNhOUdESHM4ZkYybHB3ZktYT0tIVDJoLXF0U3BoYWc3OUFpY3F5dUdrbzhpdlZEdkE1eWJyY3pTcElWbmlTdUx5VkFZZzlXUdIBX0FVX3lxTE1acWVueWdJYWtybEpOcFRUM0NKcHByTzJxT0ZoY1U2T084bk9DSFhoWHRQWFpYY3dPMWdDNzNzbmhXQVREOUVyZWY3azlTbk95MjRlQjlvcUVwbWk2czBV?oc=5
-
-- US Fed rate cut hopes, India–US trade talks boost IT stocks; Infosys, Tech Mahindra among top picks - Mint
-  " target="_blank">US Fed rate cut hopes, India–
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdVp2MWNtaWFMdVVsZERNd2JteUJlNXVPcGlUWGcxV1hjY3VUcEc3cjRqbTE3Y1drQzExSHBKbE1IMG1pRmJmSVIzV01GX0RDLVhvWXVZTi1weldXem4zMjJHcVVIazhIQXMxTkczZ0xCclZYZHJkc1Jmby16UjlLZ3FhWU8wNzRqcU1YT0o4LW85U19FV0dwR2k2U3JkQmVpelhCVmpPQVN6MXl6U2VFaEZ1ejlPdXNhNW9uanptLUF2Z2FDMDlUUTNpald0OUFuRXp2cDRZRGVpSG9nSmo1bEM4SnBjTDlCNkxGMHVsRGFqTlVuMWhYZ0JR0gH_AUFVX3lxTE9HckhzNWRUd2trMVdQSkNRTEY5V2VTMnROSXdfbTllSXlxNWpNckhJLUR5cUU0MkJLUlZYLVllcWUwcWhxaUc0anU0YWFuLWJQUm9xUlQ1U2J6V0hyOEVNU3VLQXVNbUctazY5bDRFZnpNQ1BXVzZpQ2dDNUVhTTFXdHppbjdtR1IyNTNxUkxROU4yektMUmFzSGVOVGk4cUZ1UThBT0NsUE1tc2VZeThBZjZnT3NWdnN0WEFvYS1ocTRqeG93emxLand3ajBpTFpNREFDX3ZrN3o4VG43SEw3QjNQdHM5eERZNWY0TExqU093VW1zay1XSHRHUG5zbw?oc=5
+- Donald Trump tariffs spark alarm over India-U.S. ties, calls for unity - The Hindu
+  The Hindu reports that the U.S.
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUVfX1FPRWNycW1MWE1JT2Z0OFlOVkJiVGJlb3lxdGJ4elk1anBiS2hsTFdwQUlhcE9zbkNMNFMwemZRN1JuTWQzbklwVElLdVVNRjZPWjVOSlotUWx0Vnc4MElmMEU0dnlBSVdWYjg2UFVTaldiZ0U4RnpiSWFsMXRtYVRxRnJSOXlOVnZfNl9xbG1IMHFZXzIzN3lWV2ZtZzZFQVRtQXQ0bE9OLTc0RnZZVWNzQWthZnRacFhMVjQwcnZvVnJTbXRYY9IB0gFBVV95cUxNb0VObUw5RWR2WlZrUTRtYU9STFRPS1liSlhNWWEteWMyUGJVVHVkYm90c0o1ZWVkOEZyTGZfVWFyMTdScERPSS04NmtvODM1dmZyc2l4UFhTM0RVakpwdWVCdHptZDJiY2dhRUxseU9OV2xlajdxTUxReldpTHRWNXdzRUtFZGV4MVNOQTlJbnpTdE1LRDJGYmxmWjAxeWlJM01fdklOeHk1cF9sRm9FT0NLbTloMEVBZGY1TDl0SkJPTFY0ZVFqRXFKUUZNT0JBNVE?oc=5
 
 - Trump lobbies EU for 100% tariffs on China and India to pressure Putin - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZF
+  Trump lobbies EU for 100% tariffs on China and
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZFRhUEVSRGdDX3FNN0paSG5tVXpfcXB5SEVaMnFFVlhKOGgwQXItYVlEUFh4ZnplTWU5ZjFyVHYxU2U3OVNjbC1qNTR6cTc0TEtKQlF0SnRoNVIw?oc=5
 
-- India-Nepal Border On Alert, Army Deployed At Embassy In Kathmandu - NDTV
-  India-Nepal Border On Alert
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTU4dVNCUkt3UE1sWFk0R1BqMEd1a1B2MWtjcUZqemllVk42SndOdEllTUxfYTAxMDZSdjBwam1XSnNhSzdaT2J2S2ZZd0pyWTJzRVQtYXh1Z3VIdzdnNlpBNmUtV2xXQnlpSEE1S0xHNVRocHBuZFc3WjZueUloVnN3RUlaaE5KN2ZjcndOM2t3MmlIcDlGOW5XZDl5OFBvZjR2V1lOMlVURmhyeGU4YkxYMGg0S1dDZDJiRUxJX091T0gxcWhTeDJfUW_SAdQBQVVfeXFMUHR6MU5qNG1QY29mYTNUMEIwUjV3QUFuYmxaU01WZnR6WTRJb0swWDFSTkJZYlZQZWpPOW9Zd0pPVTBQeVZMQWpXY25YRVg2akgxYldXRFI5eGZkNkJub2JlNkFlM3BoWDJDVG1tSHgzRmdPX1RXcTc0TzFuaW5SMV90OFBnTWlQVzkzSE12ZU1LaU8ydnZoZ2p3SWJ3NDhCQ0JpT3RsQzBGU3hIUlBiU0tzSkYxSUE3bUNJeUJlMlo5NHkzblVCQ2FqQjNieEFWYkxESVU?oc=5
+- Can Help With Racism, Xenophobia: India Jabs Switzerland Over Minority Remark - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWY3MlJQRk5VUXkyd1dhbDcwNXlwMTJnUkZaQjZmQmZqWk9CTE00Wjk5N2MyWXY4Z3Eyc0c1M0REdEYwWEVrQlk3ZnhlVVEwclR1Rmp6NzFBaXlrdU1RcDg0ZHNCNkp4NnJDVjRfTW5ESjR2dXBOT2xzZmpxUHBZb1JhMmhZTU1oclhPZXRLMzh1ZlFGNWFpbVkyN3pDSHQtUkFZYWpLNUlKSkswUGRtbGk1LUt0d9IBvgFBVV95cUxOQnJpQmxjNUFveE55eVRfQmR6Z2lIUDVnUXVEcFpGYlREVVlGQ1JyS2tKS0Zsc2ZtTndOZDVIUVBrLVlMdjJDR095SXRubUh1bVVxZFhzY0pyQUdyOGJzNTVVRV9NTUxNbkMza3NZUWphWFB3OGVIV05RNGxLbm9YclVZdnRrZlFCQlB0RmNjU3ZTMnYyS1pabk9mM0NRb09oVmVkY1AwVDFYVGJGd1lGYUVUeTlaZVdBYUVWM1FB?oc=5
 
-- "Not Sparing Tourists": Indian Woman's Call For Help From Violence-Hit Nepal - NDTV
-  "Not Sparing Tourists": Indian Woman
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQWVRqWDB0QUlUT2syUVhVOVdoanBtQjdmWm5rZGtkTlpIZkx3VTBBdmRRM2RaN0ZDQzc2cTE1WWZiT1JnMW54X0czUVhtYU9DbURocERfYWpoSnA3cDBhamtiWGpvMkh5eloyX0diUjc0alo2N2NPUmZpSVUxYzZUM081d19wbGZuUWpaakVVUGFFSDlvWDlPVXVzQUFDdTFHdHIzYWFHMUdqWF9VSFotQW9lX3Y3S1E0R19tZnVGT1pVbFVXOE8zVnZvTHhaMzlob0Uyd0VsOWgtR0J1eEZqNjVXSm8zeHdEZ2JrWjVtWnRsZ3pURHpGRkYtdTk1cHN6ZklaQ2J1WVNxNk5JZGfSAZYCQVVfeXFMUEI2empnVUZTTjlQbGNJTjN2bndvazd4SVQwZlU5TmxRZjRwME5zZGdwNlhzazhzeHVKdmkta0lvRjQ0OHRhdTdkVkY2UEpjMjExZ2k4am5UdzAwVUpLekh0RF9UX3dveHQwdGE0b3FFUjNIdjhkbi01d2hFN3Q1eFptRTh1MUhuSDV0ajlxeVJwNTdhcy1zY0E1eTdqUzV5OC0wbEkwTFVPWmZRVzBVd1pfMTlscHkwRHA0eDJBOWFoYmdqajVqRXk4OTFXQ2gyN2tmSWV6VVMwa0UyLWxPeHg2ck9DcklBU2pTcmtYaUxUbzlOR1MzVjBpTjYtMW8tS0g3VnYwY1VTaVo3ZjZtcGxpOG9VRVE?oc=5
+- At UNHRC, India criticizes Switzerland for ‘ill-informed’ remarks, offers help on domestic challenges - Times of India
+  At UNHRC, India criticizes Switzerland for ‘ill
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMnMwTVpmazZoWVJBc0xfQXo2LU9qeWNSVmQwX1hCM0JSX1dPbkxHd3dEcUpLWWdNQXJna21IUzVhRmU3a1FZc19fNlpQWUF6YXE1MTZyUFJNSUR4elB4VGtnZk9yTXZybVRkNXBHSHBYaURKN05LeU9iRW1nQVhDS2oyWHpqWmhDUGFLQm0wQzlsMTRpMHlHTVBCU05SbWNKbElSdWFEUVdRclRad1IyajlMTmkwUE1OM3otNE1oYXFsV0hPODV0VmVxUFlZU0hVdk9YZ1Zmc9IB3AFBVV95cUxQX1ZBN09Qa2NvMHJ2U1pfbFhKMTRabVcwSE8tWUZCYUxBRlpzZkprZWRWbEVUSFJvb0tsYklDdGtQRGN5UlR2SmlqNEFmNGpWdVUySDJOTHZCUnFwbWVnREZhc2dWZUtURGVMVzBCQUlET2hVUkp2OVNkdHJ2TlhNbHNXVjd5RUlVQko0bVRGMHRaMTRpM2dsWmR5bFI1SjJLNWRpSFc2cUQ4dTZLT2RpWlgwYVNJcmVSemhSMGtkcV8xR3lKNkJOa1ByTzRabGRxMjRvYmxhN1NIbmRT?oc=5
 
-- Nepal turmoil adds strain to India's neighbourhood diplomacy - BBC
-  Nepal turmoil adds strain
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MckhxQjlOLTNqRkNhOUdESHM4ZkYybHB3ZktYT0tIVDJoLXF0U3BoYWc3OUFpY3F5dUdrbzhpdlZEdkE1eWJyY3pTcElWbmlTdUx5VkFZZzlXUdIBX0FVX3lxTE1acWVueWdJYWtybEpOcFRUM0NKcHByTzJxT0ZoY1U2T084bk9DSFhoWHRQWFpYY3dPMWdDNzNzbmhXQVREOUVyZWY3azlTbk95MjRlQjlvcUVwbWk2czBV?oc=5
+- Switzerland's worry for Indian minorities gets a response, with an offer for lessons in pluralism | Latest News India - Hindustan Times
+  Switzerland's worry for Indian minorities gets a response, with an offer for lessons in plural
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdU9MZHJJRjVsRENvT0RoRTBvYnhkNkx3elhqc2lQNGZIZmdBeE9iRktLcV9YTjVvcllWX1k2OWlzbXIzaWo0M2lmUnVvVmVEak5TcGkwZm9QVGk4UFdqSi1uUmhIRTJ3bXNmSWEwT3lEeTlfN0hfQ19nM2RvdGk0MVY4SVBlM1lIMHU2OEFucFl0TEJmUjlzdThvZTMtdkNSQlQ5a2syLU1NT1V0cUl5dDQyWjJxZDQxSlBJUjE2Rko4c2cwZnJxcm84MzBINF9fQmRtcHd0cUtDWjZ4Tld1ajhhUXZWNjZsUmpNTDlXUdIB9AFBVV95cUxNbGowclRxaWFZcE9ublJ0bDlaTk9BcWlUZ0tEQzZSVUd2SWRMWWJ0ZW9jSGJWSzdHWTc1dFk4RXdNZXhnQWNQNURkM1RrU1VKb3pCeWI5QVkzeDVtUDJ0U0hoNzRWODVaTTE3Mk1fQ0ZpVXl6bTZPWmxNSXgtZDVqRDJORHpCZFdpR3hqMkQ2eDFyYUdIWkwwSDBJcXdoRU1lajMwdEViU3FOQVh3TUFiemcyMTlLVXROd1E4N2lLUnZhcFJORG1jQkNfUTFyMEx4bTJ0MG5NXzN2bFJGRXZPcmdzMFVkZFI3cFY1YXFEakFqT3lV?oc=5
 
-- US Fed rate cut hopes, India–US trade talks boost IT stocks; Infosys, Tech Mahindra among top picks - Mint
-  " target="_blank">US Fed rate cut hopes, India–
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdVp2MWNtaWFMdVVsZERNd2JteUJlNXVPcGlUWGcxV1hjY3VUcEc3cjRqbTE3Y1drQzExSHBKbE1IMG1pRmJmSVIzV01GX0RDLVhvWXVZTi1weldXem4zMjJHcVVIazhIQXMxTkczZ0xCclZYZHJkc1Jmby16UjlLZ3FhWU8wNzRqcU1YT0o4LW85U19FV0dwR2k2U3JkQmVpelhCVmpPQVN6MXl6U2VFaEZ1ejlPdXNhNW9uanptLUF2Z2FDMDlUUTNpald0OUFuRXp2cDRZRGVpSG9nSmo1bEM4SnBjTDlCNkxGMHVsRGFqTlVuMWhYZ0JR0gH_AUFVX3lxTE9HckhzNWRUd2trMVdQSkNRTEY5V2VTMnROSXdfbTllSXlxNWpNckhJLUR5cUU0MkJLUlZYLVllcWUwcWhxaUc0anU0YWFuLWJQUm9xUlQ1U2J6V0hyOEVNU3VLQXVNbUctazY5bDRFZnpNQ1BXVzZpQ2dDNUVhTTFXdHppbjdtR1IyNTNxUkxROU4yektMUmFzSGVOVGk4cUZ1UThBT0NsUE1tc2VZeThBZjZnT3NWdnN0WEFvYS1ocTRqeG93emxLand3ajBpTFpNREFDX3ZrN3o4VG43SEw3QjNQdHM5eERZNWY0TExqU093VW1zay1XSHRHUG5zbw?oc=5
+- Donald Trump tariffs spark alarm over India-U.S. ties, calls for unity - The Hindu
+  The Hindu reports that the U.S.
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUVfX1FPRWNycW1MWE1JT2Z0OFlOVkJiVGJlb3lxdGJ4elk1anBiS2hsTFdwQUlhcE9zbkNMNFMwemZRN1JuTWQzbklwVElLdVVNRjZPWjVOSlotUWx0Vnc4MElmMEU0dnlBSVdWYjg2UFVTaldiZ0U4RnpiSWFsMXRtYVRxRnJSOXlOVnZfNl9xbG1IMHFZXzIzN3lWV2ZtZzZFQVRtQXQ0bE9OLTc0RnZZVWNzQWthZnRacFhMVjQwcnZvVnJTbXRYY9IB0gFBVV95cUxNb0VObUw5RWR2WlZrUTRtYU9STFRPS1liSlhNWWEteWMyUGJVVHVkYm90c0o1ZWVkOEZyTGZfVWFyMTdScERPSS04NmtvODM1dmZyc2l4UFhTM0RVakpwdWVCdHptZDJiY2dhRUxseU9OV2xlajdxTUxReldpTHRWNXdzRUtFZGV4MVNOQTlJbnpTdE1LRDJGYmxmWjAxeWlJM01fdklOeHk1cF9sRm9FT0NLbTloMEVBZGY1TDl0SkJPTFY0ZVFqRXFKUUZNT0JBNVE?oc=5
 
 - Trump lobbies EU for 100% tariffs on China and India to pressure Putin - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZF
+  Trump lobbies EU for 100% tariffs on China and
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZFRhUEVSRGdDX3FNN0paSG5tVXpfcXB5SEVaMnFFVlhKOGgwQXItYVlEUFh4ZnplTWU5ZjFyVHYxU2U3OVNjbC1qNTR6cTc0TEtKQlF0SnRoNVIw?oc=5
 
-- India-Nepal Border On Alert, Army Deployed At Embassy In Kathmandu - NDTV
-  India-Nepal Border On Alert
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTU4dVNCUkt3UE1sWFk0R1BqMEd1a1B2MWtjcUZqemllVk42SndOdEllTUxfYTAxMDZSdjBwam1XSnNhSzdaT2J2S2ZZd0pyWTJzRVQtYXh1Z3VIdzdnNlpBNmUtV2xXQnlpSEE1S0xHNVRocHBuZFc3WjZueUloVnN3RUlaaE5KN2ZjcndOM2t3MmlIcDlGOW5XZDl5OFBvZjR2V1lOMlVURmhyeGU4YkxYMGg0S1dDZDJiRUxJX091T0gxcWhTeDJfUW_SAdQBQVVfeXFMUHR6MU5qNG1QY29mYTNUMEIwUjV3QUFuYmxaU01WZnR6WTRJb0swWDFSTkJZYlZQZWpPOW9Zd0pPVTBQeVZMQWpXY25YRVg2akgxYldXRFI5eGZkNkJub2JlNkFlM3BoWDJDVG1tSHgzRmdPX1RXcTc0TzFuaW5SMV90OFBnTWlQVzkzSE12ZU1LaU8ydnZoZ2p3SWJ3NDhCQ0JpT3RsQzBGU3hIUlBiU0tzSkYxSUE3bUNJeUJlMlo5NHkzblVCQ2FqQjNieEFWYkxESVU?oc=5
+- Can Help With Racism, Xenophobia: India Jabs Switzerland Over Minority Remark - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWY3MlJQRk5VUXkyd1dhbDcwNXlwMTJnUkZaQjZmQmZqWk9CTE00Wjk5N2MyWXY4Z3Eyc0c1M0REdEYwWEVrQlk3ZnhlVVEwclR1Rmp6NzFBaXlrdU1RcDg0ZHNCNkp4NnJDVjRfTW5ESjR2dXBOT2xzZmpxUHBZb1JhMmhZTU1oclhPZXRLMzh1ZlFGNWFpbVkyN3pDSHQtUkFZYWpLNUlKSkswUGRtbGk1LUt0d9IBvgFBVV95cUxOQnJpQmxjNUFveE55eVRfQmR6Z2lIUDVnUXVEcFpGYlREVVlGQ1JyS2tKS0Zsc2ZtTndOZDVIUVBrLVlMdjJDR095SXRubUh1bVVxZFhzY0pyQUdyOGJzNTVVRV9NTUxNbkMza3NZUWphWFB3OGVIV05RNGxLbm9YclVZdnRrZlFCQlB0RmNjU3ZTMnYyS1pabk9mM0NRb09oVmVkY1AwVDFYVGJGd1lGYUVUeTlaZVdBYUVWM1FB?oc=5
 
-- "Not Sparing Tourists": Indian Woman's Call For Help From Violence-Hit Nepal - NDTV
-  "Not Sparing Tourists": Indian Woman
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQWVRqWDB0QUlUT2syUVhVOVdoanBtQjdmWm5rZGtkTlpIZkx3VTBBdmRRM2RaN0ZDQzc2cTE1WWZiT1JnMW54X0czUVhtYU9DbURocERfYWpoSnA3cDBhamtiWGpvMkh5eloyX0diUjc0alo2N2NPUmZpSVUxYzZUM081d19wbGZuUWpaakVVUGFFSDlvWDlPVXVzQUFDdTFHdHIzYWFHMUdqWF9VSFotQW9lX3Y3S1E0R19tZnVGT1pVbFVXOE8zVnZvTHhaMzlob0Uyd0VsOWgtR0J1eEZqNjVXSm8zeHdEZ2JrWjVtWnRsZ3pURHpGRkYtdTk1cHN6ZklaQ2J1WVNxNk5JZGfSAZYCQVVfeXFMUEI2empnVUZTTjlQbGNJTjN2bndvazd4SVQwZlU5TmxRZjRwME5zZGdwNlhzazhzeHVKdmkta0lvRjQ0OHRhdTdkVkY2UEpjMjExZ2k4am5UdzAwVUpLekh0RF9UX3dveHQwdGE0b3FFUjNIdjhkbi01d2hFN3Q1eFptRTh1MUhuSDV0ajlxeVJwNTdhcy1zY0E1eTdqUzV5OC0wbEkwTFVPWmZRVzBVd1pfMTlscHkwRHA0eDJBOWFoYmdqajVqRXk4OTFXQ2gyN2tmSWV6VVMwa0UyLWxPeHg2ck9DcklBU2pTcmtYaUxUbzlOR1MzVjBpTjYtMW8tS0g3VnYwY1VTaVo3ZjZtcGxpOG9VRVE?oc=5
+- At UNHRC, India criticizes Switzerland for ‘ill-informed’ remarks, offers help on domestic challenges - Times of India
+  At UNHRC, India criticizes Switzerland for ‘ill
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMnMwTVpmazZoWVJBc0xfQXo2LU9qeWNSVmQwX1hCM0JSX1dPbkxHd3dEcUpLWWdNQXJna21IUzVhRmU3a1FZc19fNlpQWUF6YXE1MTZyUFJNSUR4elB4VGtnZk9yTXZybVRkNXBHSHBYaURKN05LeU9iRW1nQVhDS2oyWHpqWmhDUGFLQm0wQzlsMTRpMHlHTVBCU05SbWNKbElSdWFEUVdRclRad1IyajlMTmkwUE1OM3otNE1oYXFsV0hPODV0VmVxUFlZU0hVdk9YZ1Zmc9IB3AFBVV95cUxQX1ZBN09Qa2NvMHJ2U1pfbFhKMTRabVcwSE8tWUZCYUxBRlpzZkprZWRWbEVUSFJvb0tsYklDdGtQRGN5UlR2SmlqNEFmNGpWdVUySDJOTHZCUnFwbWVnREZhc2dWZUtURGVMVzBCQUlET2hVUkp2OVNkdHJ2TlhNbHNXVjd5RUlVQko0bVRGMHRaMTRpM2dsWmR5bFI1SjJLNWRpSFc2cUQ4dTZLT2RpWlgwYVNJcmVSemhSMGtkcV8xR3lKNkJOa1ByTzRabGRxMjRvYmxhN1NIbmRT?oc=5
 
-- Nepal turmoil adds strain to India's neighbourhood diplomacy - BBC
-  Nepal turmoil adds strain
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MckhxQjlOLTNqRkNhOUdESHM4ZkYybHB3ZktYT0tIVDJoLXF0U3BoYWc3OUFpY3F5dUdrbzhpdlZEdkE1eWJyY3pTcElWbmlTdUx5VkFZZzlXUdIBX0FVX3lxTE1acWVueWdJYWtybEpOcFRUM0NKcHByTzJxT0ZoY1U2T084bk9DSFhoWHRQWFpYY3dPMWdDNzNzbmhXQVREOUVyZWY3azlTbk95MjRlQjlvcUVwbWk2czBV?oc=5
+- Switzerland's worry for Indian minorities gets a response, with an offer for lessons in pluralism | Latest News India - Hindustan Times
+  Switzerland's worry for Indian minorities gets a response, with an offer for lessons in plural
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdU9MZHJJRjVsRENvT0RoRTBvYnhkNkx3elhqc2lQNGZIZmdBeE9iRktLcV9YTjVvcllWX1k2OWlzbXIzaWo0M2lmUnVvVmVEak5TcGkwZm9QVGk4UFdqSi1uUmhIRTJ3bXNmSWEwT3lEeTlfN0hfQ19nM2RvdGk0MVY4SVBlM1lIMHU2OEFucFl0TEJmUjlzdThvZTMtdkNSQlQ5a2syLU1NT1V0cUl5dDQyWjJxZDQxSlBJUjE2Rko4c2cwZnJxcm84MzBINF9fQmRtcHd0cUtDWjZ4Tld1ajhhUXZWNjZsUmpNTDlXUdIB9AFBVV95cUxNbGowclRxaWFZcE9ublJ0bDlaTk9BcWlUZ0tEQzZSVUd2SWRMWWJ0ZW9jSGJWSzdHWTc1dFk4RXdNZXhnQWNQNURkM1RrU1VKb3pCeWI5QVkzeDVtUDJ0U0hoNzRWODVaTTE3Mk1fQ0ZpVXl6bTZPWmxNSXgtZDVqRDJORHpCZFdpR3hqMkQ2eDFyYUdIWkwwSDBJcXdoRU1lajMwdEViU3FOQVh3TUFiemcyMTlLVXROd1E4N2lLUnZhcFJORG1jQkNfUTFyMEx4bTJ0MG5NXzN2bFJGRXZPcmdzMFVkZFI3cFY1YXFEakFqT3lV?oc=5
 
-- US Fed rate cut hopes, India–US trade talks boost IT stocks; Infosys, Tech Mahindra among top picks - Mint
-  " target="_blank">US Fed rate cut hopes, India–
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdVp2MWNtaWFMdVVsZERNd2JteUJlNXVPcGlUWGcxV1hjY3VUcEc3cjRqbTE3Y1drQzExSHBKbE1IMG1pRmJmSVIzV01GX0RDLVhvWXVZTi1weldXem4zMjJHcVVIazhIQXMxTkczZ0xCclZYZHJkc1Jmby16UjlLZ3FhWU8wNzRqcU1YT0o4LW85U19FV0dwR2k2U3JkQmVpelhCVmpPQVN6MXl6U2VFaEZ1ejlPdXNhNW9uanptLUF2Z2FDMDlUUTNpald0OUFuRXp2cDRZRGVpSG9nSmo1bEM4SnBjTDlCNkxGMHVsRGFqTlVuMWhYZ0JR0gH_AUFVX3lxTE9HckhzNWRUd2trMVdQSkNRTEY5V2VTMnROSXdfbTllSXlxNWpNckhJLUR5cUU0MkJLUlZYLVllcWUwcWhxaUc0anU0YWFuLWJQUm9xUlQ1U2J6V0hyOEVNU3VLQXVNbUctazY5bDRFZnpNQ1BXVzZpQ2dDNUVhTTFXdHppbjdtR1IyNTNxUkxROU4yektMUmFzSGVOVGk4cUZ1UThBT0NsUE1tc2VZeThBZjZnT3NWdnN0WEFvYS1ocTRqeG93emxLand3ajBpTFpNREFDX3ZrN3o4VG43SEw3QjNQdHM5eERZNWY0TExqU093VW1zay1XSHRHUG5zbw?oc=5
+- Donald Trump tariffs spark alarm over India-U.S. ties, calls for unity - The Hindu
+  The Hindu reports that the U.S.
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUVfX1FPRWNycW1MWE1JT2Z0OFlOVkJiVGJlb3lxdGJ4elk1anBiS2hsTFdwQUlhcE9zbkNMNFMwemZRN1JuTWQzbklwVElLdVVNRjZPWjVOSlotUWx0Vnc4MElmMEU0dnlBSVdWYjg2UFVTaldiZ0U4RnpiSWFsMXRtYVRxRnJSOXlOVnZfNl9xbG1IMHFZXzIzN3lWV2ZtZzZFQVRtQXQ0bE9OLTc0RnZZVWNzQWthZnRacFhMVjQwcnZvVnJTbXRYY9IB0gFBVV95cUxNb0VObUw5RWR2WlZrUTRtYU9STFRPS1liSlhNWWEteWMyUGJVVHVkYm90c0o1ZWVkOEZyTGZfVWFyMTdScERPSS04NmtvODM1dmZyc2l4UFhTM0RVakpwdWVCdHptZDJiY2dhRUxseU9OV2xlajdxTUxReldpTHRWNXdzRUtFZGV4MVNOQTlJbnpTdE1LRDJGYmxmWjAxeWlJM01fdklOeHk1cF9sRm9FT0NLbTloMEVBZGY1TDl0SkJPTFY0ZVFqRXFKUUZNT0JBNVE?oc=5
 
 - Trump lobbies EU for 100% tariffs on China and India to pressure Putin - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZF
+  Trump lobbies EU for 100% tariffs on China and
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZFRhUEVSRGdDX3FNN0paSG5tVXpfcXB5SEVaMnFFVlhKOGgwQXItYVlEUFh4ZnplTWU5ZjFyVHYxU2U3OVNjbC1qNTR6cTc0TEtKQlF0SnRoNVIw?oc=5
 
-- India-Nepal Border On Alert, Army Deployed At Embassy In Kathmandu - NDTV
-  India-Nepal Border On Alert
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTU4dVNCUkt3UE1sWFk0R1BqMEd1a1B2MWtjcUZqemllVk42SndOdEllTUxfYTAxMDZSdjBwam1XSnNhSzdaT2J2S2ZZd0pyWTJzRVQtYXh1Z3VIdzdnNlpBNmUtV2xXQnlpSEE1S0xHNVRocHBuZFc3WjZueUloVnN3RUlaaE5KN2ZjcndOM2t3MmlIcDlGOW5XZDl5OFBvZjR2V1lOMlVURmhyeGU4YkxYMGg0S1dDZDJiRUxJX091T0gxcWhTeDJfUW_SAdQBQVVfeXFMUHR6MU5qNG1QY29mYTNUMEIwUjV3QUFuYmxaU01WZnR6WTRJb0swWDFSTkJZYlZQZWpPOW9Zd0pPVTBQeVZMQWpXY25YRVg2akgxYldXRFI5eGZkNkJub2JlNkFlM3BoWDJDVG1tSHgzRmdPX1RXcTc0TzFuaW5SMV90OFBnTWlQVzkzSE12ZU1LaU8ydnZoZ2p3SWJ3NDhCQ0JpT3RsQzBGU3hIUlBiU0tzSkYxSUE3bUNJeUJlMlo5NHkzblVCQ2FqQjNieEFWYkxESVU?oc=5
+- Can Help With Racism, Xenophobia: India Jabs Switzerland Over Minority Remark - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWY3MlJQRk5VUXkyd1dhbDcwNXlwMTJnUkZaQjZmQmZqWk9CTE00Wjk5N2MyWXY4Z3Eyc0c1M0REdEYwWEVrQlk3ZnhlVVEwclR1Rmp6NzFBaXlrdU1RcDg0ZHNCNkp4NnJDVjRfTW5ESjR2dXBOT2xzZmpxUHBZb1JhMmhZTU1oclhPZXRLMzh1ZlFGNWFpbVkyN3pDSHQtUkFZYWpLNUlKSkswUGRtbGk1LUt0d9IBvgFBVV95cUxOQnJpQmxjNUFveE55eVRfQmR6Z2lIUDVnUXVEcFpGYlREVVlGQ1JyS2tKS0Zsc2ZtTndOZDVIUVBrLVlMdjJDR095SXRubUh1bVVxZFhzY0pyQUdyOGJzNTVVRV9NTUxNbkMza3NZUWphWFB3OGVIV05RNGxLbm9YclVZdnRrZlFCQlB0RmNjU3ZTMnYyS1pabk9mM0NRb09oVmVkY1AwVDFYVGJGd1lGYUVUeTlaZVdBYUVWM1FB?oc=5
 
-- "Not Sparing Tourists": Indian Woman's Call For Help From Violence-Hit Nepal - NDTV
-  "Not Sparing Tourists": Indian Woman
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQWVRqWDB0QUlUT2syUVhVOVdoanBtQjdmWm5rZGtkTlpIZkx3VTBBdmRRM2RaN0ZDQzc2cTE1WWZiT1JnMW54X0czUVhtYU9DbURocERfYWpoSnA3cDBhamtiWGpvMkh5eloyX0diUjc0alo2N2NPUmZpSVUxYzZUM081d19wbGZuUWpaakVVUGFFSDlvWDlPVXVzQUFDdTFHdHIzYWFHMUdqWF9VSFotQW9lX3Y3S1E0R19tZnVGT1pVbFVXOE8zVnZvTHhaMzlob0Uyd0VsOWgtR0J1eEZqNjVXSm8zeHdEZ2JrWjVtWnRsZ3pURHpGRkYtdTk1cHN6ZklaQ2J1WVNxNk5JZGfSAZYCQVVfeXFMUEI2empnVUZTTjlQbGNJTjN2bndvazd4SVQwZlU5TmxRZjRwME5zZGdwNlhzazhzeHVKdmkta0lvRjQ0OHRhdTdkVkY2UEpjMjExZ2k4am5UdzAwVUpLekh0RF9UX3dveHQwdGE0b3FFUjNIdjhkbi01d2hFN3Q1eFptRTh1MUhuSDV0ajlxeVJwNTdhcy1zY0E1eTdqUzV5OC0wbEkwTFVPWmZRVzBVd1pfMTlscHkwRHA0eDJBOWFoYmdqajVqRXk4OTFXQ2gyN2tmSWV6VVMwa0UyLWxPeHg2ck9DcklBU2pTcmtYaUxUbzlOR1MzVjBpTjYtMW8tS0g3VnYwY1VTaVo3ZjZtcGxpOG9VRVE?oc=5
+- At UNHRC, India criticizes Switzerland for ‘ill-informed’ remarks, offers help on domestic challenges - Times of India
+  At UNHRC, India criticizes Switzerland for ‘ill
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMnMwTVpmazZoWVJBc0xfQXo2LU9qeWNSVmQwX1hCM0JSX1dPbkxHd3dEcUpLWWdNQXJna21IUzVhRmU3a1FZc19fNlpQWUF6YXE1MTZyUFJNSUR4elB4VGtnZk9yTXZybVRkNXBHSHBYaURKN05LeU9iRW1nQVhDS2oyWHpqWmhDUGFLQm0wQzlsMTRpMHlHTVBCU05SbWNKbElSdWFEUVdRclRad1IyajlMTmkwUE1OM3otNE1oYXFsV0hPODV0VmVxUFlZU0hVdk9YZ1Zmc9IB3AFBVV95cUxQX1ZBN09Qa2NvMHJ2U1pfbFhKMTRabVcwSE8tWUZCYUxBRlpzZkprZWRWbEVUSFJvb0tsYklDdGtQRGN5UlR2SmlqNEFmNGpWdVUySDJOTHZCUnFwbWVnREZhc2dWZUtURGVMVzBCQUlET2hVUkp2OVNkdHJ2TlhNbHNXVjd5RUlVQko0bVRGMHRaMTRpM2dsWmR5bFI1SjJLNWRpSFc2cUQ4dTZLT2RpWlgwYVNJcmVSemhSMGtkcV8xR3lKNkJOa1ByTzRabGRxMjRvYmxhN1NIbmRT?oc=5
 
-- Nepal turmoil adds strain to India's neighbourhood diplomacy - BBC
-  Nepal turmoil adds strain
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MckhxQjlOLTNqRkNhOUdESHM4ZkYybHB3ZktYT0tIVDJoLXF0U3BoYWc3OUFpY3F5dUdrbzhpdlZEdkE1eWJyY3pTcElWbmlTdUx5VkFZZzlXUdIBX0FVX3lxTE1acWVueWdJYWtybEpOcFRUM0NKcHByTzJxT0ZoY1U2T084bk9DSFhoWHRQWFpYY3dPMWdDNzNzbmhXQVREOUVyZWY3azlTbk95MjRlQjlvcUVwbWk2czBV?oc=5
+- Switzerland's worry for Indian minorities gets a response, with an offer for lessons in pluralism | Latest News India - Hindustan Times
+  Switzerland's worry for Indian minorities gets a response, with an offer for lessons in plural
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdU9MZHJJRjVsRENvT0RoRTBvYnhkNkx3elhqc2lQNGZIZmdBeE9iRktLcV9YTjVvcllWX1k2OWlzbXIzaWo0M2lmUnVvVmVEak5TcGkwZm9QVGk4UFdqSi1uUmhIRTJ3bXNmSWEwT3lEeTlfN0hfQ19nM2RvdGk0MVY4SVBlM1lIMHU2OEFucFl0TEJmUjlzdThvZTMtdkNSQlQ5a2syLU1NT1V0cUl5dDQyWjJxZDQxSlBJUjE2Rko4c2cwZnJxcm84MzBINF9fQmRtcHd0cUtDWjZ4Tld1ajhhUXZWNjZsUmpNTDlXUdIB9AFBVV95cUxNbGowclRxaWFZcE9ublJ0bDlaTk9BcWlUZ0tEQzZSVUd2SWRMWWJ0ZW9jSGJWSzdHWTc1dFk4RXdNZXhnQWNQNURkM1RrU1VKb3pCeWI5QVkzeDVtUDJ0U0hoNzRWODVaTTE3Mk1fQ0ZpVXl6bTZPWmxNSXgtZDVqRDJORHpCZFdpR3hqMkQ2eDFyYUdIWkwwSDBJcXdoRU1lajMwdEViU3FOQVh3TUFiemcyMTlLVXROd1E4N2lLUnZhcFJORG1jQkNfUTFyMEx4bTJ0MG5NXzN2bFJGRXZPcmdzMFVkZFI3cFY1YXFEakFqT3lV?oc=5
 
-- US Fed rate cut hopes, India–US trade talks boost IT stocks; Infosys, Tech Mahindra among top picks - Mint
-  " target="_blank">US Fed rate cut hopes, India–
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdVp2MWNtaWFMdVVsZERNd2JteUJlNXVPcGlUWGcxV1hjY3VUcEc3cjRqbTE3Y1drQzExSHBKbE1IMG1pRmJmSVIzV01GX0RDLVhvWXVZTi1weldXem4zMjJHcVVIazhIQXMxTkczZ0xCclZYZHJkc1Jmby16UjlLZ3FhWU8wNzRqcU1YT0o4LW85U19FV0dwR2k2U3JkQmVpelhCVmpPQVN6MXl6U2VFaEZ1ejlPdXNhNW9uanptLUF2Z2FDMDlUUTNpald0OUFuRXp2cDRZRGVpSG9nSmo1bEM4SnBjTDlCNkxGMHVsRGFqTlVuMWhYZ0JR0gH_AUFVX3lxTE9HckhzNWRUd2trMVdQSkNRTEY5V2VTMnROSXdfbTllSXlxNWpNckhJLUR5cUU0MkJLUlZYLVllcWUwcWhxaUc0anU0YWFuLWJQUm9xUlQ1U2J6V0hyOEVNU3VLQXVNbUctazY5bDRFZnpNQ1BXVzZpQ2dDNUVhTTFXdHppbjdtR1IyNTNxUkxROU4yektMUmFzSGVOVGk4cUZ1UThBT0NsUE1tc2VZeThBZjZnT3NWdnN0WEFvYS1ocTRqeG93emxLand3ajBpTFpNREFDX3ZrN3o4VG43SEw3QjNQdHM5eERZNWY0TExqU093VW1zay1XSHRHUG5zbw?oc=5
+- Donald Trump tariffs spark alarm over India-U.S. ties, calls for unity - The Hindu
+  The Hindu reports that the U.S.
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUVfX1FPRWNycW1MWE1JT2Z0OFlOVkJiVGJlb3lxdGJ4elk1anBiS2hsTFdwQUlhcE9zbkNMNFMwemZRN1JuTWQzbklwVElLdVVNRjZPWjVOSlotUWx0Vnc4MElmMEU0dnlBSVdWYjg2UFVTaldiZ0U4RnpiSWFsMXRtYVRxRnJSOXlOVnZfNl9xbG1IMHFZXzIzN3lWV2ZtZzZFQVRtQXQ0bE9OLTc0RnZZVWNzQWthZnRacFhMVjQwcnZvVnJTbXRYY9IB0gFBVV95cUxNb0VObUw5RWR2WlZrUTRtYU9STFRPS1liSlhNWWEteWMyUGJVVHVkYm90c0o1ZWVkOEZyTGZfVWFyMTdScERPSS04NmtvODM1dmZyc2l4UFhTM0RVakpwdWVCdHptZDJiY2dhRUxseU9OV2xlajdxTUxReldpTHRWNXdzRUtFZGV4MVNOQTlJbnpTdE1LRDJGYmxmWjAxeWlJM01fdklOeHk1cF9sRm9FT0NLbTloMEVBZGY1TDl0SkJPTFY0ZVFqRXFKUUZNT0JBNVE?oc=5
+
+- Trump lobbies EU for 100% tariffs on China and India to pressure Putin - BBC
+  Trump lobbies EU for 100% tariffs on China and
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZFRhUEVSRGdDX3FNN0paSG5tVXpfcXB5SEVaMnFFVlhKOGgwQXItYVlEUFh4ZnplTWU5ZjFyVHYxU2U3OVNjbC1qNTR6cTc0TEtKQlF0SnRoNVIw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-11 01:10:43 UTC_
+_Last updated: 2025-09-11 06:27:17 UTC_
