@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- ‘Larger conspiracy, nefarious activities’: SIT formed after Himanta claims on Gaurav Gogoi’s Pakistan links submits report
+- To curb ‘fake news’, panel backs mandatory fact-check mechanism
   
-  🔗 https://indianexpress.com/article/india/sit-formed-after-himanta-claims-on-gaurav-gogois-pakistan-links-submits-report-10242431/
+  🔗 https://indianexpress.com/article/india/to-curb-fake-news-panel-backs-mandatory-fact-check-mechanism-10242846/
 
-- Gyan Bharatam Mission: Manuscript heritage conference begins tomorrow
+- PM Modi, Meloni discuss Ukraine war
   
-  🔗 https://indianexpress.com/article/india/gyan-bharatam-mission-manuscript-heritage-conference-begins-tomorrow-10242257/
+  🔗 https://indianexpress.com/article/india/pm-modi-meloni-discuss-ukraine-war-10242842/
 
-- At SCO-RATS meet, India calls for punishing sponsors of Pahalgam terror attack
+- Ministry to invite public objections, reconsider Sariska boundary alteration plan
   
-  🔗 https://indianexpress.com/article/india/sco-rats-meet-india-pahalgam-terror-attack-10242255/
+  🔗 https://indianexpress.com/article/india/ministry-to-invite-public-objections-reconsider-sariska-boundary-alteration-plan-10242750/
 
-- Black-flag protest against Tripura CPM leader Jitendra Chaudhury over ‘disrespect’ to traditional headgear
+- Pan-India SIR: Focus on matching rolls to last revision, EC tells CEOs
   
-  🔗 https://indianexpress.com/article/india/black-flag-protest-against-tripura-cpm-leader-jitendra-chaudhury-over-disrespect-traditional-headgear-10242173/
+  🔗 https://indianexpress.com/article/india/pan-india-sir-focus-on-matching-rolls-to-last-revision-ec-tells-ceos-10242741/
 
-- Presidential reference: SC says ‘not fair’ after Centre claims 90% bills cleared in a month since 1970
+- Presidential reference hearing: How is it ‘false alarm’ when Bills kept pending for 4 years, SC asks Centre
   
-  🔗 https://indianexpress.com/article/india/presidential-reference-sc-not-fair-centre-claims-bills-cleared-in-month-1970-10242204/
+  🔗 https://indianexpress.com/article/india/presidential-reference-hearing-how-is-it-false-alarm-when-bills-kept-pending-for-4-years-sc-asks-centre-10242823/
 
 - New findings by NASA Mars rover provide strongest hints yet of potential signs of ancient life
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/india-resists-full-crypto-framework-fears-systemic-risks-10241905/
 
-- Cenovus CEO Says He’s ‘Closing the Door’ on Higher MEG Offer
-  Cenovus Energy Inc.’s top executive said the company doesn’t plan to increase its takeover offer for
-  🔗 https://www.livemint.com/companies/news/cenovus-ceo-says-he-s-closing-the-door-on-higher-meg-offer-11757518994836.html
+- Only 60% of plastic waste generated is recycled: Bisleri
+  Bisleri reports India consumes 13 million tonnes of plastic annually, with 60% recycled. Their 'Bottles for Change
+  🔗 https://www.livemint.com/companies/bisleri-plastic-recycling-india-plastic-waste-management-india-pet-bottle-recycling-plastic-pollution-india-11757075685754.html
 
-- Raymond open to acquisitions, bets on real estate for next growth phase
-  Raymond Group, a diversified conglomerate, plans to pursue acquisition opportunities as it expands operations. With zero debt and strong cash flow, the company aims for 15% annual
-  🔗 https://www.livemint.com/companies/raymond-group-expansion-gautam-singhania-real-estate-projects-textile-business-realty-sales-growth-11757513927487.html
+- Elliott says Kansai Electric can become more attractive by selling non-core assets
+  Elliott says Kansai Electric can become
+  🔗 https://www.livemint.com/companies/news/elliott-says-kansai-electric-can-become-more-attractive-by-selling-non-core-assets-11757547434730.html
 
-- Elon Musk loses world's richest person title as Oracle's Larry Ellison overtakes Tesla CEO. Check their net worth
-  Oracle's Larry Ellison became the world's richest person on Wednesday. He crossed billionaire Elon Musk with a single-day net worth
-  🔗 https://www.livemint.com/companies/people/oracles-larry-ellison-tops-elon-musk-to-become-worlds-richest-person-gains-101-billion-net-worth-in-a-day-11757518371633.html
+- Deutsche Bank Distressed Desk Nets $100 Million on EchoStar Bets
+  Deutsche Bank AG’s US distressed-products desk notched more than $100 million in profit this year.
+  🔗 https://www.livemint.com/companies/company-results/deutsche-bank-distressed-desk-nets-100-million-on-echostar-bets-11757536269796.html
 
-- Performance stds framework for airports seeks to have balance between rebates, incentives: AERA
-  AERA's framework for airports seeks to
-  🔗 https://www.livemint.com/companies/news/performance-stds-framework-for-airports-seeks-to-have-balance-between-rebates-incentives-aera-11757517595595.html
+- Anglo-Teck Vancouver Headquarters Is a ‘Perpetual’ Commitment
+  Teck Resources Ltd. and Anglo American Plc’s plan to headquarter their merged company in Canada
+  🔗 https://www.livemint.com/companies/news/angloteck-vancouver-headquarters-is-a-perpetual-commitment-11757536087795.html
 
-- National Test House to focus on AI-driven testing facilities: Pralhad Joshi
-  National Test House to focus on
-  🔗 https://www.livemint.com/companies/news/national-test-house-to-focus-on-ai-driven-testing-facilities-pralhad-joshi-11757516870310.html
+- Judge Blocking Lisa Cook’s Ouster Not Deterred by Rulings on Past Trump Firings
+  The US judge who blocked the ouster of Federal Reserve Governor Lisa Cook joined the growing chorus of her lower court colleagues to reject the idea that the Supreme Court’s recent
+  🔗 https://www.livemint.com/companies/news/judge-blocking-lisa-cook-s-ouster-not-deterred-by-rulings-on-past-trump-firings-11757535965710.html
 
-- Klarna share price jumps 43% after strong IPO debut on Wall Street — Check details here
-  Klarna share price jumped 43% on Wednesday, 10 September 2025, after a strong IPO debut on Wall Street. Shares of the company hit an intraday high of
-  🔗 https://www.livemint.com/market/stock-market-news/klarna-share-price-jumps-43-after-strong-ipo-debut-on-wall-street-check-details-here-11757524545656.html
+- Global Markets Today: Nikkei 225, Kospi trade mixed on Fed rate cut hopes
+  In Japan, the Nikkei 225 gained 0.23 per cent in early trade. South Korea’s Kospi rose 0.67 per
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-trade-mixed-on-fed-rate-cut-hopes-11757551636608.html
 
-- Debt MFs see outflows in August as investors stay cautious after GST cuts
-  Investor caution followed the GST cut announcement, which raised concerns about
-  🔗 https://www.livemint.com/market/debt-mutual-funds-outflow-gst-cut-impact-mutual-fund-inflows-india-government-borrowing-11757509891169.html
+- Oracle share price jumps 36%, posts biggest one-day gain since 1992, adds $244 billion in market value
+  Oracle's share price surged 36%, reaching $328.33, its largest single-day gain since 1992. The market capitalization rose to $922 billion,
+  🔗 https://www.livemint.com/market/stock-market-news/oracle-share-price-jumps-36-posts-biggest-one-day-gain-since-1992-adds-244-billion-in-market-value-11757552250532.html
 
-- Gold Rises Near Record as US PPI Underpins Fed Rate Cut Bets
-  Gold advanced as a surprise pullback in US inflation underpinned bets that the Federal Reserve will lower
-  🔗 https://www.livemint.com/market/commodities/gold-rises-near-record-as-us-ppi-underpins-fed-rate-cut-bets-11757520331820.html
+- Stock market today: Trade setup for Nifty 50, global markets, India-US trade deal; 8 stocks to buy or sell on Thursday
+  The Nifty-50 index could gradually move towards the 25,200–25,500 range.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-global-markets-india-us-trade-deal-8-stocks-to-buy-or-sell-on-thursday-11757503322750.html
 
-- Global shares gain, tame US inflation boosts Fed rate cut hopes
-  Global shares gain, tame US inflation boosts Fed
-  🔗 https://www.livemint.com/market/stock-market-news/global-shares-gain-tame-us-inflation-boosts-fed-rate-cut-hopes-11757518816295.html
+- US Fed rate cut hopes, India–US trade talks boost IT stocks; Infosys, Tech Mahindra among top picks
+  Indian IT stocks are experiencing a rally driven by improved sector prospects and expectations of US interest rate cuts. Analysts suggest major players like Infosys and Tech Mahindra will
+  🔗 https://www.livemint.com/market/stock-market-news/us-fed-rate-cut-hopes-india-us-trade-talks-boost-it-stocks-infosys-tech-mahindra-among-top-picks-11757521302590.html
 
-- Wall Street today: S&amp;P 500, Nasdaq rise after soft PPI inflation data, Oracle rallies 35% on AI deals
-  The S&amp;amp;P 500 rose 0.4%, the Dow Jones Industrial Average was down
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-today-s-p-500-nasdaq-rise-after-soft-ppi-inflation-data-oracle-rallies-35-on-ai-deals-11757514266456.html
+- Stocks to buy: Raja Venkatraman's top picks for 11 September
+  Market expert Raja Venkatraman shares his top three stocks to buy for today, 11 September.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-picks-11-september-sensex-nifty-bank-nifty-zydus-wellness-chalet-hotels-shoppers-stop-11757504492814.html
 
 - iOS 26 rolls out on September 15: Everything you need to know about what’s new in the update
   Apple iOS 26 will arrive on September 15, with smarter AI tools,
@@ -100,105 +100,125 @@
   The iPhone 17 Pro and Google’s Pixel 10 Pro bring fresh flagship competition in 2025. Apple stresses durability and on-device privacy, Google focuses on updates and computational imaging.
   🔗 https://www.livemint.com/technology/gadgets/apple-iphone-17-pro-vs-google-pixel-10-pro-price-display-camera-and-more-compared-11757496641153.html
 
-- Swedish BNPL player Klarna raises 1.37 billion in largest IPO of US in 2025
-  The Swedish buy-now-pay-later company Klarna made its highly anticipated public debut on the New York Stock Exchange Wednesday
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/swedish-bnpl-player-klarna-raises-1-37-billion-in-largest-ipo-of-us-in-2025/articleshow/123812935.cms
+- Markets News, Sep. 10, 2025: S&P 500, Nasdaq Hit Closing Highs, Dow Falls Ahead of Key Inflation Data - Investopedia
+  The S&amp;P 500, Nasdaq Hit New Records on PPI Inflation Data. Oracle Soars 35% — Live Updates.
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE81YUFIRTRkQXEweVFhT2U4LV9pb1EtaTF6ZkEwY1ZsVzF2TEJSQ216ZzZ5dHdzaHpUc2x1VlBGS3h3U255dnJmbmR4ZURHWlY5V2JON25Bd3lMX2JJYjNwUE1LQjBZX0RfYXdHV3dWVQ?oc=5
 
-- Rs 6,256-crore Kotak Bank block deal: BlackRock, BofA, Nomura among marquee buyers as SMBC exits
-  Sumitomo Mitsui Banking Corporation divested its 1.65% stake in Kotak Mahindra Bank. Shares sold at Rs 1,940.8 apiece to various domestic and foreign investors
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/smbc-sells-over-3-crore-shares-of-kotak-mahindra-for-rs-6256-crore-blackrock-goldman-sachs-among-buyers/articleshow/123812896.cms
+- Stock Market Highlights: Sensex settles 324 pts higher, Nifty above 24,950; BEL rises 4%, HCL Tech 2% - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaVVtUi1GRUxDUFFwMTJjOFljMFR3bkQ3MlY5MUk2VDN5cFZfSnE0RGZBaV9ZYXZCNWNEUFMyQ2d2QlZ2UFRrLTk0MG1hUHZuU0g2YmdHMzBDWjl0YWhnRGhNeEwyOVh5OW
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaVVtUi1GRUxDUFFwMTJjOFljMFR3bkQ3MlY5MUk2VDN5cFZfSnE0RGZBaV9ZYXZCNWNEUFMyQ2d2QlZ2UFRrLTk0MG1hUHZuU0g2YmdHMzBDWjl0YWhnRGhNeEwyOVh5OWFPbW1PQXZQcV90ODg1OGRiWUpvVDdhbW9UblBoY2pYY0ZrdGpRMlI4TWZVMWxMQ3Y5UUoxZGUxNzlpdkRjeXNwXzMtN2JhdWtFUC0wN1B1cmlrZGV4MzZXTkYzMzFOejlzSnQ4SE9fYU1ENm5yYjdKd9IB3wFBVV95cUxQQ2JHdFlvTWhtRU4tZVR0R3Q2ZXFyNElmaDhtNnozQ3kwMkJPa0FaVUhuSVVMYTRqZkRkNTRiSGNsazNoVDA2NGt4aVlvOUd2eXotemR2X3JwaVE3bjBGQjFpVHNaZlgtTS1kMXNUOHZLX0h4MHpkOHVOdVJ5amtBeDRYd2tZRTdQQ1dHbFJLR1lYa243SGZtSWI0Rm44X3dzWENVT25vanJiZDVmc2Z4c0swaGVhMjVnNDl5LWt0RlpyMGdaLU1HWGNRUFVsNDZCVWVncjJYOFhFbFdzdjc0?oc=5
 
-- Trump Media and Technology seeks SEC approval for five new ETFs
-  Trump Media and Technology Group announced the filing for five new exchange-traded funds.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/trump-media-and-technology-seeks-sec-approval-for-five-new-etfs/articleshow/123812850.cms
+- Asia markets open mixed after Wall Street gains on positive inflation data - CNBC
+  Asia markets open mixed after Wall Street gains on positive
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzItcDhzOXFzem1IVXZONmRLZlIxUG1FX1VBRVlLc3ZqUlpIV3I4Wk5YVEUwQndrRlJPenF2NHNFUkpOQVJVdWh6WG4wQlpUS3BkWUFyQWZhVzlBQ2xRMmNFUVZDcS1MQzJONXkweGhiRjFKbXRkY3NpRDZ2cDdiUFRzck1BZ1RsLTFxVnNZUHBPU3ZHM2tWcVduVTkwV2hUa01ZNXNlU3XSAa4BQVVfeXFMUC1wM08waVlnY1NTTlM5N19FYUtXYWktUjlwSHlsS1BZS1BuMElYQlEta2d4TzlTU1o4Y3JEZHU2X2FMbG1mdEdvTEFJRkNPUUg1eGlpQ2lEYzcxVll1aU12SUZOZnhCbVRqdVY2al9kQWRvQUpRUFhCM1hwa0pLTWFTek9qbEcxTHExSnZJeklJMHd2aFo2cXdNdmZUcVBoaUFQMmJ0UDVLWS0xVkpn?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Thursday
-  Nifty and Sensex closed higher, driven by optimism over India–US trade talks, potential GST cuts, and expectations of a U
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/123812646.cms
+- Gulf markets dip amid rising geopolitical tensions; Saudi Arabia and UAE stocks fall the most - Times of India
+  Gulf markets dip amid rising geopolitical tensions. Saudi Arabia and UAE stocks fall
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNQWdSdnRBS2R6Qk5WQW5IQTR2cnd5djM5cmptQmpWWU8wOVlNNFBCSkU0TVh0Z0l6Ynl0eVhSWmYtbThCTU1iV3F1WUJ3R1dzems0dFItWHFhYkRIT01pYklXc2tfRkpIUl85T09zQVdKWnFnRnR2bFhqTlBhQ2taRkVVdVh6RE85LXpOUllaQUJTR0N3ajZ1Z1BqOG1jLUtjMmQtX2llcTZ4azFiNVB5LUdiQ3d4MVVFZ0pURm4tbnNacFlnSFFpZ3VZVEZuVXl3bDRLWkFSRmRxVjF3RU41aVhVdU9xZ3lXYTZPN3lkNmpRZ29fX054MU44NGFmMDRiYWfSAYcCQVVfeXFMTzdLbjRfa2V6Z04tQVZvMnkzTkwyLXdjcUxjQXlrN3hUa3EwWTREMGdrNHJZSlpoc0ZsVnRnd09FRGNGSWFObVFYVUpQR3QtV3R6R25Rd1VBZHVsY1I3dDhCWjJ4bHRBVnRDWXZSWXJRTTVTTVFGRGdMLWtQWTc5U1hCMElkVWNaR0pqWTdIa3htOVQ0V2NDRkEzbldYNVQyN3dZNWFMeVg5U3V4WU15eDE4YURyNTdYMzJYaS1nTVBLWE1sTF9yd193dWhzcmt1V1NuX1hsMjlDZURfa09HU1QyVFh0LWJDNm9NQldIdE55T0dQZG5Ta0pBT2dTdFhIS1dELW9mRUk?oc=5
 
-- Market Trading Guide: Buy HAL, Waaree Energies and 3 stocks on Thursday for short term gains up to 12%
-  Nifty extended gains for the sixth session, supported by IT and financial stocks. Analysts see bullish momentum with Nifty above 21EMA. Experts recommend HAL,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-hal-waaree-energies-and-3-stocks-on-thursday-for-short-term-gains-up-to-12/slideshow/123812594.cms
+- US dollar mixed, markets eye Fed cuts after soft inflation data - Reuters
+  US dollar mixed, markets eye Fed cuts after
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOeE01NDNOUl8tMFdBaFRBUzRlU0FkalFRWlo3YXgzaklPZTVsMF9aVWFOdTFOZTN5NTB2WDJ1TGw4dXZWWExBYnJFSFNSR3U3V1lEZXFtM0VpU25IRlNmbjlERmVJNmV3WGFGOEYtamVtWHAwV2p5ZXpiWFZwZ1JLQ0JicWQ2TEx3TjlnVjZWRnJha0pMVGlTYWthd1JLTFNFdG02WkVGYWJTVVVwMW5USnJQNGdtcVU?oc=5
 
-- "Pleased To Announce That India, US Are...": Trump On 'Trade Barriers' - NDTV
-  "Pleased To Announce That India, US
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmNhZV9WTTBCcG5aNnQxd3NDRl9JWGtFUzQ5cXBmeVNEVGJtZ0p1eUV5dHJLUHJKUzFNV3lPTFFpeEN6NE9oS3BDclNielBEeHMzWWlZa2IwOVZVbk9uQVVVa1ZPa0x0cnZ4cW9hT3REblpHU0NQbHFMYTNNczVZd1NQazJJSWZueDY4WlJRb2todTQ3Q2lkM3luc0Y2ZEpHaWZROVI2TC0xLXpKd0JQck9CUdIBuwFBVV95cUxQOHplLWRvUDdES1dCRHAzdmxyZ3ZFQTdxY1ZoOURoRUZGNkpydThGdmlaY096cjBDRllsVU9ITnZjamdfYnJXRWVQemYzUU84LUdaaVRvUzZYRGlQSy1oMzRZcEZuT3R3TUt6NHZwNUdudS0yMmY0X29jT1EtbFJaMndDRzN4cWpSZ3Rhc2hlWnVsZUs2R1FxZHZLZUlEZnBBWTkxYzlTaGtKaUpQcE1NQmVnMzFuMUVCdmhB?oc=5
+- Asian shares steady as US stocks climb on Fed rate cut hopes
+  US futures saw slight gains as the S&amp;P 500 reached a new record. Asian equities displayed mixed performance following Wall Street's rally.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-shares-steady-as-us-stocks-climb-into-cpi/articleshow/123819531.cms
 
-- Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
-  The Hindu reports that India-U.S. trade
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
+- IT stocks surge as Trump signals progress in US-India trade talks
+  IT stocks surged following positive comments from Donald Trump regarding US-India trade negotiations. Optimism surrounding a possible US Federal Reserve rate cut and Infosys' share buyback further fueled the rally. Investors are anticipating more buybacks
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-surge-as-trump-signals-progress-in-us-india-trade-talks/articleshow/123819481.cms
 
-- Air India, IndiGo To Operate Special Flights From Delhi To Kathmandu Amid Nepal Unrest - News18
-  Air India, IndiGo To Operate Special Flights
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVpTYlF5RFh0b2JwdFlaVmtpVHkwQlYyR2R2VGZQeWFlcWNxQ0pXR2pQNnkxZDFCMWtqaS12MEd3NDc4UGN5TG5tRWZpQmJEYTZjSERJX3dNaFFNOFlRYWN1ZzVRcDV0S0pGZ2lHZUcxRGVtYVpldy1XNk9abm9XSFhRa3BCZEtOV0NweS1sLXFQSS05ZjdRQWE0dDYzOXRIZTVOdlNxNzBqUFpGWlBqdHVUYm5hclYxbVhUS19zOUFhY2Jq0gHKAUFVX3lxTE1adXBaam9aNDUweHd5Sl9HMkx1T01UdGx5UVBiaXk2UUhQeXJGemZjaFhJaXFKUDhCLTdkMzVXQ1VJelBTcmQxS0NSbF9JaFNnSnJkUVMwWDIyYUZidkdjbnpwYTVBUzNaazNKSmFuMWN1bzA4MTNjSGNHVFpCQXBRNWVSTUhYbVNobWtLeFp6Nk5JLV9nUTVWMExkaDNSZzhIcXU2TDJ4WWVmNUZvVGtTN1NCTEtsemt2cktwdVZSQ0hSd09TMDZsdWc?oc=5
+- Stocks in news: Infosys, ZEE, Tata Motors, Tata Motors, Vedanta, Kotak Mahindra Bank
+  Indian markets showed positive momentum on Wednesday. Infosys will consider a share buyback. IDBI Bank seeks insolvency against ZEE. Tata Motors faced a cyber incident at Jaguar Land Rover.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-zee-tata-motors-tata-motors-vedanta-kotak-mahindra-bank/articleshow/123812826.cms
 
-- Leaders in Nepal, India call for engagement to prevent isolation of Nepal - The Hindu
-  Leaders in Nepal, India call for engagement to prevent
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ3Z2Tm1TcDYwZHdRYTNBUHhPaWpodi1YUng5aWFHbXhfdlFuVkJxTmhLZmhPMUR5UHRmVWhKMHF4SlNnREhqb2dZZVhRX0FFVTJOb1ZtRTJaNVgzSEVYQjNIMzRYRW0tUXhUa2FCa2E1QWltRWpObkkyeHRVMnVSMTNRWDRETlpMZ3kxZXpldXVobTc1ZDVxRm1ZSTNfVkVaUW1wYUJYQV9sOFI2VW9ZalRtM0RkX3JyTG5tZHRIWUQyUDFMWnNZX0g5bTgtcjg0cGfSAdgBQVVfeXFMTkpHaUZVYTFERjVteUl0cUtMTzcxQmJvenNNUFBPMjRtcVc1X0RaQ3BIV3RMdU14cDBtMG5WdWRlNUt1QTBmVjBTODhZVmw3RGtRdWtSOVAtTVMyNXk3SXBjYTF0cXc3UUJYX2N4WklPNlAtaFJ6dFJjcUI1eTBxaVdpWXFpdzI1RVAwRGoycmtpQmhVWUZKVFdGU1VYcmtMQXZhTU9ldFAxRHNPOEJKN01hMzYtcWZranhyaTZhOUtjQU1BcWRfVklOY3lCMkYyYllQRmszVzEz?oc=5
+- Pre-market action: Here's the trade setup for today's session
+  Technical analysis suggests continued upward momentum if the index sustains above 24,750-24,820. FIIs were net sellers, DIIs were significant buyers, and the rupee remained stable amid trade uncertainties.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/123812892.cms
 
-- News Today Live Updates, 10 September | Three former top FBI officials sue Kash Patel for ‘firing them to keep his job’ - The Indian Express
-  The Indian Express reports that Kash Patel is suing three former top FBI officials for ‘firing them to keep
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcGlMMWVtclJWWFhxUGNkU2lWaFNRSk5CbkcydTJHQWpSMTVTOXhFTy1KSlBuZjNSSDB0WF83TDZ6UzREZl9rMVFOUWNtN3E2UkJOYlVjemVHTlJXNE8tM2luTFJRdUhZc096ZWUxVHkxYnNpaHo1dVVuT2U5V1owcEkxX0ctaWVpRDBQaEVuN1dXSXJqRVA0eWZ6N2ZWV0NYX25YTjk0aWxFcVFFUWM1YjhReWxGUnZwTFU4X0JoVHFXTEZrdUpQX29XRFlyZzdmX1h2Xy1kdktFS1Rla0dyMm5VUzkxN1lI?oc=5
+- Will RBI’s policy moves help calm India’s bond market turbulence?
+  Analysts anticipate that benign inflation, resilient fiscal footing, and potential RBI action to address market dislocations will revive demand. Experts suggest that strategic policy interventions and upcoming key events could further soften yields.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/will-rbis-policy-moves-help-calm-indias-bond-market-turbulence/articleshow/123819378.cms
 
-- "Pleased To Announce That India, US Are...": Trump On 'Trade Barriers' - NDTV
-  "Pleased To Announce That India, US
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmNhZV9WTTBCcG5aNnQxd3NDRl9JWGtFUzQ5cXBmeVNEVGJtZ0p1eUV5dHJLUHJKUzFNV3lPTFFpeEN6NE9oS3BDclNielBEeHMzWWlZa2IwOVZVbk9uQVVVa1ZPa0x0cnZ4cW9hT3REblpHU0NQbHFMYTNNczVZd1NQazJJSWZueDY4WlJRb2todTQ3Q2lkM3luc0Y2ZEpHaWZROVI2TC0xLXpKd0JQck9CUdIBuwFBVV95cUxQOHplLWRvUDdES1dCRHAzdmxyZ3ZFQTdxY1ZoOURoRUZGNkpydThGdmlaY096cjBDRllsVU9ITnZjamdfYnJXRWVQemYzUU84LUdaaVRvUzZYRGlQSy1oMzRZcEZuT3R3TUt6NHZwNUdudS0yMmY0X29jT1EtbFJaMndDRzN4cWpSZ3Rhc2hlWnVsZUs2R1FxZHZLZUlEZnBBWTkxYzlTaGtKaUpQcE1NQmVnMzFuMUVCdmhB?oc=5
+- Trump lobbies EU for 100% tariffs on China and India to pressure Putin - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZF
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZFRhUEVSRGdDX3FNN0paSG5tVXpfcXB5SEVaMnFFVlhKOGgwQXItYVlEUFh4ZnplTWU5ZjFyVHYxU2U3OVNjbC1qNTR6cTc0TEtKQlF0SnRoNVIw?oc=5
 
-- Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
-  The Hindu reports that India-U.S. trade
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
+- India-Nepal Border On Alert, Army Deployed At Embassy In Kathmandu - NDTV
+  India-Nepal Border On Alert
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTU4dVNCUkt3UE1sWFk0R1BqMEd1a1B2MWtjcUZqemllVk42SndOdEllTUxfYTAxMDZSdjBwam1XSnNhSzdaT2J2S2ZZd0pyWTJzRVQtYXh1Z3VIdzdnNlpBNmUtV2xXQnlpSEE1S0xHNVRocHBuZFc3WjZueUloVnN3RUlaaE5KN2ZjcndOM2t3MmlIcDlGOW5XZDl5OFBvZjR2V1lOMlVURmhyeGU4YkxYMGg0S1dDZDJiRUxJX091T0gxcWhTeDJfUW_SAdQBQVVfeXFMUHR6MU5qNG1QY29mYTNUMEIwUjV3QUFuYmxaU01WZnR6WTRJb0swWDFSTkJZYlZQZWpPOW9Zd0pPVTBQeVZMQWpXY25YRVg2akgxYldXRFI5eGZkNkJub2JlNkFlM3BoWDJDVG1tSHgzRmdPX1RXcTc0TzFuaW5SMV90OFBnTWlQVzkzSE12ZU1LaU8ydnZoZ2p3SWJ3NDhCQ0JpT3RsQzBGU3hIUlBiU0tzSkYxSUE3bUNJeUJlMlo5NHkzblVCQ2FqQjNieEFWYkxESVU?oc=5
 
-- Air India, IndiGo To Operate Special Flights From Delhi To Kathmandu Amid Nepal Unrest - News18
-  Air India, IndiGo To Operate Special Flights
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVpTYlF5RFh0b2JwdFlaVmtpVHkwQlYyR2R2VGZQeWFlcWNxQ0pXR2pQNnkxZDFCMWtqaS12MEd3NDc4UGN5TG5tRWZpQmJEYTZjSERJX3dNaFFNOFlRYWN1ZzVRcDV0S0pGZ2lHZUcxRGVtYVpldy1XNk9abm9XSFhRa3BCZEtOV0NweS1sLXFQSS05ZjdRQWE0dDYzOXRIZTVOdlNxNzBqUFpGWlBqdHVUYm5hclYxbVhUS19zOUFhY2Jq0gHKAUFVX3lxTE1adXBaam9aNDUweHd5Sl9HMkx1T01UdGx5UVBiaXk2UUhQeXJGemZjaFhJaXFKUDhCLTdkMzVXQ1VJelBTcmQxS0NSbF9JaFNnSnJkUVMwWDIyYUZidkdjbnpwYTVBUzNaazNKSmFuMWN1bzA4MTNjSGNHVFpCQXBRNWVSTUhYbVNobWtLeFp6Nk5JLV9nUTVWMExkaDNSZzhIcXU2TDJ4WWVmNUZvVGtTN1NCTEtsemt2cktwdVZSQ0hSd09TMDZsdWc?oc=5
+- "Not Sparing Tourists": Indian Woman's Call For Help From Violence-Hit Nepal - NDTV
+  "Not Sparing Tourists": Indian Woman
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQWVRqWDB0QUlUT2syUVhVOVdoanBtQjdmWm5rZGtkTlpIZkx3VTBBdmRRM2RaN0ZDQzc2cTE1WWZiT1JnMW54X0czUVhtYU9DbURocERfYWpoSnA3cDBhamtiWGpvMkh5eloyX0diUjc0alo2N2NPUmZpSVUxYzZUM081d19wbGZuUWpaakVVUGFFSDlvWDlPVXVzQUFDdTFHdHIzYWFHMUdqWF9VSFotQW9lX3Y3S1E0R19tZnVGT1pVbFVXOE8zVnZvTHhaMzlob0Uyd0VsOWgtR0J1eEZqNjVXSm8zeHdEZ2JrWjVtWnRsZ3pURHpGRkYtdTk1cHN6ZklaQ2J1WVNxNk5JZGfSAZYCQVVfeXFMUEI2empnVUZTTjlQbGNJTjN2bndvazd4SVQwZlU5TmxRZjRwME5zZGdwNlhzazhzeHVKdmkta0lvRjQ0OHRhdTdkVkY2UEpjMjExZ2k4am5UdzAwVUpLekh0RF9UX3dveHQwdGE0b3FFUjNIdjhkbi01d2hFN3Q1eFptRTh1MUhuSDV0ajlxeVJwNTdhcy1zY0E1eTdqUzV5OC0wbEkwTFVPWmZRVzBVd1pfMTlscHkwRHA0eDJBOWFoYmdqajVqRXk4OTFXQ2gyN2tmSWV6VVMwa0UyLWxPeHg2ck9DcklBU2pTcmtYaUxUbzlOR1MzVjBpTjYtMW8tS0g3VnYwY1VTaVo3ZjZtcGxpOG9VRVE?oc=5
 
-- Leaders in Nepal, India call for engagement to prevent isolation of Nepal - The Hindu
-  Leaders in Nepal, India call for engagement to prevent
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ3Z2Tm1TcDYwZHdRYTNBUHhPaWpodi1YUng5aWFHbXhfdlFuVkJxTmhLZmhPMUR5UHRmVWhKMHF4SlNnREhqb2dZZVhRX0FFVTJOb1ZtRTJaNVgzSEVYQjNIMzRYRW0tUXhUa2FCa2E1QWltRWpObkkyeHRVMnVSMTNRWDRETlpMZ3kxZXpldXVobTc1ZDVxRm1ZSTNfVkVaUW1wYUJYQV9sOFI2VW9ZalRtM0RkX3JyTG5tZHRIWUQyUDFMWnNZX0g5bTgtcjg0cGfSAdgBQVVfeXFMTkpHaUZVYTFERjVteUl0cUtMTzcxQmJvenNNUFBPMjRtcVc1X0RaQ3BIV3RMdU14cDBtMG5WdWRlNUt1QTBmVjBTODhZVmw3RGtRdWtSOVAtTVMyNXk3SXBjYTF0cXc3UUJYX2N4WklPNlAtaFJ6dFJjcUI1eTBxaVdpWXFpdzI1RVAwRGoycmtpQmhVWUZKVFdGU1VYcmtMQXZhTU9ldFAxRHNPOEJKN01hMzYtcWZranhyaTZhOUtjQU1BcWRfVklOY3lCMkYyYllQRmszVzEz?oc=5
+- Nepal turmoil adds strain to India's neighbourhood diplomacy - BBC
+  Nepal turmoil adds strain
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MckhxQjlOLTNqRkNhOUdESHM4ZkYybHB3ZktYT0tIVDJoLXF0U3BoYWc3OUFpY3F5dUdrbzhpdlZEdkE1eWJyY3pTcElWbmlTdUx5VkFZZzlXUdIBX0FVX3lxTE1acWVueWdJYWtybEpOcFRUM0NKcHByTzJxT0ZoY1U2T084bk9DSFhoWHRQWFpYY3dPMWdDNzNzbmhXQVREOUVyZWY3azlTbk95MjRlQjlvcUVwbWk2czBV?oc=5
 
-- News Today Live Updates, 10 September | Three former top FBI officials sue Kash Patel for ‘firing them to keep his job’ - The Indian Express
-  The Indian Express reports that Kash Patel is suing three former top FBI officials for ‘firing them to keep
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcGlMMWVtclJWWFhxUGNkU2lWaFNRSk5CbkcydTJHQWpSMTVTOXhFTy1KSlBuZjNSSDB0WF83TDZ6UzREZl9rMVFOUWNtN3E2UkJOYlVjemVHTlJXNE8tM2luTFJRdUhZc096ZWUxVHkxYnNpaHo1dVVuT2U5V1owcEkxX0ctaWVpRDBQaEVuN1dXSXJqRVA0eWZ6N2ZWV0NYX25YTjk0aWxFcVFFUWM1YjhReWxGUnZwTFU4X0JoVHFXTEZrdUpQX29XRFlyZzdmX1h2Xy1kdktFS1Rla0dyMm5VUzkxN1lI?oc=5
+- US Fed rate cut hopes, India–US trade talks boost IT stocks; Infosys, Tech Mahindra among top picks - Mint
+  " target="_blank">US Fed rate cut hopes, India–
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdVp2MWNtaWFMdVVsZERNd2JteUJlNXVPcGlUWGcxV1hjY3VUcEc3cjRqbTE3Y1drQzExSHBKbE1IMG1pRmJmSVIzV01GX0RDLVhvWXVZTi1weldXem4zMjJHcVVIazhIQXMxTkczZ0xCclZYZHJkc1Jmby16UjlLZ3FhWU8wNzRqcU1YT0o4LW85U19FV0dwR2k2U3JkQmVpelhCVmpPQVN6MXl6U2VFaEZ1ejlPdXNhNW9uanptLUF2Z2FDMDlUUTNpald0OUFuRXp2cDRZRGVpSG9nSmo1bEM4SnBjTDlCNkxGMHVsRGFqTlVuMWhYZ0JR0gH_AUFVX3lxTE9HckhzNWRUd2trMVdQSkNRTEY5V2VTMnROSXdfbTllSXlxNWpNckhJLUR5cUU0MkJLUlZYLVllcWUwcWhxaUc0anU0YWFuLWJQUm9xUlQ1U2J6V0hyOEVNU3VLQXVNbUctazY5bDRFZnpNQ1BXVzZpQ2dDNUVhTTFXdHppbjdtR1IyNTNxUkxROU4yektMUmFzSGVOVGk4cUZ1UThBT0NsUE1tc2VZeThBZjZnT3NWdnN0WEFvYS1ocTRqeG93emxLand3ajBpTFpNREFDX3ZrN3o4VG43SEw3QjNQdHM5eERZNWY0TExqU093VW1zay1XSHRHUG5zbw?oc=5
 
-- "Pleased To Announce That India, US Are...": Trump On 'Trade Barriers' - NDTV
-  "Pleased To Announce That India, US
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmNhZV9WTTBCcG5aNnQxd3NDRl9JWGtFUzQ5cXBmeVNEVGJtZ0p1eUV5dHJLUHJKUzFNV3lPTFFpeEN6NE9oS3BDclNielBEeHMzWWlZa2IwOVZVbk9uQVVVa1ZPa0x0cnZ4cW9hT3REblpHU0NQbHFMYTNNczVZd1NQazJJSWZueDY4WlJRb2todTQ3Q2lkM3luc0Y2ZEpHaWZROVI2TC0xLXpKd0JQck9CUdIBuwFBVV95cUxQOHplLWRvUDdES1dCRHAzdmxyZ3ZFQTdxY1ZoOURoRUZGNkpydThGdmlaY096cjBDRllsVU9ITnZjamdfYnJXRWVQemYzUU84LUdaaVRvUzZYRGlQSy1oMzRZcEZuT3R3TUt6NHZwNUdudS0yMmY0X29jT1EtbFJaMndDRzN4cWpSZ3Rhc2hlWnVsZUs2R1FxZHZLZUlEZnBBWTkxYzlTaGtKaUpQcE1NQmVnMzFuMUVCdmhB?oc=5
+- Trump lobbies EU for 100% tariffs on China and India to pressure Putin - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZF
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZFRhUEVSRGdDX3FNN0paSG5tVXpfcXB5SEVaMnFFVlhKOGgwQXItYVlEUFh4ZnplTWU5ZjFyVHYxU2U3OVNjbC1qNTR6cTc0TEtKQlF0SnRoNVIw?oc=5
 
-- Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
-  The Hindu reports that India-U.S. trade
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
+- India-Nepal Border On Alert, Army Deployed At Embassy In Kathmandu - NDTV
+  India-Nepal Border On Alert
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTU4dVNCUkt3UE1sWFk0R1BqMEd1a1B2MWtjcUZqemllVk42SndOdEllTUxfYTAxMDZSdjBwam1XSnNhSzdaT2J2S2ZZd0pyWTJzRVQtYXh1Z3VIdzdnNlpBNmUtV2xXQnlpSEE1S0xHNVRocHBuZFc3WjZueUloVnN3RUlaaE5KN2ZjcndOM2t3MmlIcDlGOW5XZDl5OFBvZjR2V1lOMlVURmhyeGU4YkxYMGg0S1dDZDJiRUxJX091T0gxcWhTeDJfUW_SAdQBQVVfeXFMUHR6MU5qNG1QY29mYTNUMEIwUjV3QUFuYmxaU01WZnR6WTRJb0swWDFSTkJZYlZQZWpPOW9Zd0pPVTBQeVZMQWpXY25YRVg2akgxYldXRFI5eGZkNkJub2JlNkFlM3BoWDJDVG1tSHgzRmdPX1RXcTc0TzFuaW5SMV90OFBnTWlQVzkzSE12ZU1LaU8ydnZoZ2p3SWJ3NDhCQ0JpT3RsQzBGU3hIUlBiU0tzSkYxSUE3bUNJeUJlMlo5NHkzblVCQ2FqQjNieEFWYkxESVU?oc=5
 
-- Air India, IndiGo To Operate Special Flights From Delhi To Kathmandu Amid Nepal Unrest - News18
-  Air India, IndiGo To Operate Special Flights
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVpTYlF5RFh0b2JwdFlaVmtpVHkwQlYyR2R2VGZQeWFlcWNxQ0pXR2pQNnkxZDFCMWtqaS12MEd3NDc4UGN5TG5tRWZpQmJEYTZjSERJX3dNaFFNOFlRYWN1ZzVRcDV0S0pGZ2lHZUcxRGVtYVpldy1XNk9abm9XSFhRa3BCZEtOV0NweS1sLXFQSS05ZjdRQWE0dDYzOXRIZTVOdlNxNzBqUFpGWlBqdHVUYm5hclYxbVhUS19zOUFhY2Jq0gHKAUFVX3lxTE1adXBaam9aNDUweHd5Sl9HMkx1T01UdGx5UVBiaXk2UUhQeXJGemZjaFhJaXFKUDhCLTdkMzVXQ1VJelBTcmQxS0NSbF9JaFNnSnJkUVMwWDIyYUZidkdjbnpwYTVBUzNaazNKSmFuMWN1bzA4MTNjSGNHVFpCQXBRNWVSTUhYbVNobWtLeFp6Nk5JLV9nUTVWMExkaDNSZzhIcXU2TDJ4WWVmNUZvVGtTN1NCTEtsemt2cktwdVZSQ0hSd09TMDZsdWc?oc=5
+- "Not Sparing Tourists": Indian Woman's Call For Help From Violence-Hit Nepal - NDTV
+  "Not Sparing Tourists": Indian Woman
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQWVRqWDB0QUlUT2syUVhVOVdoanBtQjdmWm5rZGtkTlpIZkx3VTBBdmRRM2RaN0ZDQzc2cTE1WWZiT1JnMW54X0czUVhtYU9DbURocERfYWpoSnA3cDBhamtiWGpvMkh5eloyX0diUjc0alo2N2NPUmZpSVUxYzZUM081d19wbGZuUWpaakVVUGFFSDlvWDlPVXVzQUFDdTFHdHIzYWFHMUdqWF9VSFotQW9lX3Y3S1E0R19tZnVGT1pVbFVXOE8zVnZvTHhaMzlob0Uyd0VsOWgtR0J1eEZqNjVXSm8zeHdEZ2JrWjVtWnRsZ3pURHpGRkYtdTk1cHN6ZklaQ2J1WVNxNk5JZGfSAZYCQVVfeXFMUEI2empnVUZTTjlQbGNJTjN2bndvazd4SVQwZlU5TmxRZjRwME5zZGdwNlhzazhzeHVKdmkta0lvRjQ0OHRhdTdkVkY2UEpjMjExZ2k4am5UdzAwVUpLekh0RF9UX3dveHQwdGE0b3FFUjNIdjhkbi01d2hFN3Q1eFptRTh1MUhuSDV0ajlxeVJwNTdhcy1zY0E1eTdqUzV5OC0wbEkwTFVPWmZRVzBVd1pfMTlscHkwRHA0eDJBOWFoYmdqajVqRXk4OTFXQ2gyN2tmSWV6VVMwa0UyLWxPeHg2ck9DcklBU2pTcmtYaUxUbzlOR1MzVjBpTjYtMW8tS0g3VnYwY1VTaVo3ZjZtcGxpOG9VRVE?oc=5
 
-- Leaders in Nepal, India call for engagement to prevent isolation of Nepal - The Hindu
-  Leaders in Nepal, India call for engagement to prevent
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ3Z2Tm1TcDYwZHdRYTNBUHhPaWpodi1YUng5aWFHbXhfdlFuVkJxTmhLZmhPMUR5UHRmVWhKMHF4SlNnREhqb2dZZVhRX0FFVTJOb1ZtRTJaNVgzSEVYQjNIMzRYRW0tUXhUa2FCa2E1QWltRWpObkkyeHRVMnVSMTNRWDRETlpMZ3kxZXpldXVobTc1ZDVxRm1ZSTNfVkVaUW1wYUJYQV9sOFI2VW9ZalRtM0RkX3JyTG5tZHRIWUQyUDFMWnNZX0g5bTgtcjg0cGfSAdgBQVVfeXFMTkpHaUZVYTFERjVteUl0cUtMTzcxQmJvenNNUFBPMjRtcVc1X0RaQ3BIV3RMdU14cDBtMG5WdWRlNUt1QTBmVjBTODhZVmw3RGtRdWtSOVAtTVMyNXk3SXBjYTF0cXc3UUJYX2N4WklPNlAtaFJ6dFJjcUI1eTBxaVdpWXFpdzI1RVAwRGoycmtpQmhVWUZKVFdGU1VYcmtMQXZhTU9ldFAxRHNPOEJKN01hMzYtcWZranhyaTZhOUtjQU1BcWRfVklOY3lCMkYyYllQRmszVzEz?oc=5
+- Nepal turmoil adds strain to India's neighbourhood diplomacy - BBC
+  Nepal turmoil adds strain
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MckhxQjlOLTNqRkNhOUdESHM4ZkYybHB3ZktYT0tIVDJoLXF0U3BoYWc3OUFpY3F5dUdrbzhpdlZEdkE1eWJyY3pTcElWbmlTdUx5VkFZZzlXUdIBX0FVX3lxTE1acWVueWdJYWtybEpOcFRUM0NKcHByTzJxT0ZoY1U2T084bk9DSFhoWHRQWFpYY3dPMWdDNzNzbmhXQVREOUVyZWY3azlTbk95MjRlQjlvcUVwbWk2czBV?oc=5
 
-- News Today Live Updates, 10 September | Three former top FBI officials sue Kash Patel for ‘firing them to keep his job’ - The Indian Express
-  The Indian Express reports that Kash Patel is suing three former top FBI officials for ‘firing them to keep
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcGlMMWVtclJWWFhxUGNkU2lWaFNRSk5CbkcydTJHQWpSMTVTOXhFTy1KSlBuZjNSSDB0WF83TDZ6UzREZl9rMVFOUWNtN3E2UkJOYlVjemVHTlJXNE8tM2luTFJRdUhZc096ZWUxVHkxYnNpaHo1dVVuT2U5V1owcEkxX0ctaWVpRDBQaEVuN1dXSXJqRVA0eWZ6N2ZWV0NYX25YTjk0aWxFcVFFUWM1YjhReWxGUnZwTFU4X0JoVHFXTEZrdUpQX29XRFlyZzdmX1h2Xy1kdktFS1Rla0dyMm5VUzkxN1lI?oc=5
+- US Fed rate cut hopes, India–US trade talks boost IT stocks; Infosys, Tech Mahindra among top picks - Mint
+  " target="_blank">US Fed rate cut hopes, India–
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdVp2MWNtaWFMdVVsZERNd2JteUJlNXVPcGlUWGcxV1hjY3VUcEc3cjRqbTE3Y1drQzExSHBKbE1IMG1pRmJmSVIzV01GX0RDLVhvWXVZTi1weldXem4zMjJHcVVIazhIQXMxTkczZ0xCclZYZHJkc1Jmby16UjlLZ3FhWU8wNzRqcU1YT0o4LW85U19FV0dwR2k2U3JkQmVpelhCVmpPQVN6MXl6U2VFaEZ1ejlPdXNhNW9uanptLUF2Z2FDMDlUUTNpald0OUFuRXp2cDRZRGVpSG9nSmo1bEM4SnBjTDlCNkxGMHVsRGFqTlVuMWhYZ0JR0gH_AUFVX3lxTE9HckhzNWRUd2trMVdQSkNRTEY5V2VTMnROSXdfbTllSXlxNWpNckhJLUR5cUU0MkJLUlZYLVllcWUwcWhxaUc0anU0YWFuLWJQUm9xUlQ1U2J6V0hyOEVNU3VLQXVNbUctazY5bDRFZnpNQ1BXVzZpQ2dDNUVhTTFXdHppbjdtR1IyNTNxUkxROU4yektMUmFzSGVOVGk4cUZ1UThBT0NsUE1tc2VZeThBZjZnT3NWdnN0WEFvYS1ocTRqeG93emxLand3ajBpTFpNREFDX3ZrN3o4VG43SEw3QjNQdHM5eERZNWY0TExqU093VW1zay1XSHRHUG5zbw?oc=5
 
-- "Pleased To Announce That India, US Are...": Trump On 'Trade Barriers' - NDTV
-  "Pleased To Announce That India, US
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmNhZV9WTTBCcG5aNnQxd3NDRl9JWGtFUzQ5cXBmeVNEVGJtZ0p1eUV5dHJLUHJKUzFNV3lPTFFpeEN6NE9oS3BDclNielBEeHMzWWlZa2IwOVZVbk9uQVVVa1ZPa0x0cnZ4cW9hT3REblpHU0NQbHFMYTNNczVZd1NQazJJSWZueDY4WlJRb2todTQ3Q2lkM3luc0Y2ZEpHaWZROVI2TC0xLXpKd0JQck9CUdIBuwFBVV95cUxQOHplLWRvUDdES1dCRHAzdmxyZ3ZFQTdxY1ZoOURoRUZGNkpydThGdmlaY096cjBDRllsVU9ITnZjamdfYnJXRWVQemYzUU84LUdaaVRvUzZYRGlQSy1oMzRZcEZuT3R3TUt6NHZwNUdudS0yMmY0X29jT1EtbFJaMndDRzN4cWpSZ3Rhc2hlWnVsZUs2R1FxZHZLZUlEZnBBWTkxYzlTaGtKaUpQcE1NQmVnMzFuMUVCdmhB?oc=5
+- Trump lobbies EU for 100% tariffs on China and India to pressure Putin - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZF
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZFRhUEVSRGdDX3FNN0paSG5tVXpfcXB5SEVaMnFFVlhKOGgwQXItYVlEUFh4ZnplTWU5ZjFyVHYxU2U3OVNjbC1qNTR6cTc0TEtKQlF0SnRoNVIw?oc=5
 
-- Trump says India-U.S. trade talks continue as Modi expresses eagerness for discussion - The Hindu
-  The Hindu reports that India-U.S. trade
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlljTEt6a195TDZpdWRQa25RTkd1V1lDUVdJYkdTNlBia25JcWoyZzZFZkdmcWZxU2tVWkt3RW0yeEZHa0VQeVozWURZa1JBbVR5YVZxR3piZFNPTTdOdHRVVHVJeVdFZS0xanlnb0syaVprYUpGeklOZzdjTmZrNGxiUFpQT2Q0emdDdm1iODBuNTQ2TVE3Q3lMWWlVeWhSVG5DZU1STmtqSEpSRHlZNlZkUUQ5U2M5RmV3amZld253RmpXV08yc1V5eFNOTFU4WEZ4VG1lcGsySmvSAeIBQVVfeXFMTUJjQnA1VUJNT2sySzJMTVRsdjRqTXlOcjNSSG1ia3N2WkNRYmNobUQ2VFZxQTJoZTNMS2pOaFVJc1VvU0VQeXdPbzZodnRFUXdYR2lfWnhuQnVrTjRPUkZzTnhCVnZhMVZqYVZWTDNSeVdUeG1NQnc3SE1acDZmbFBlOVZmbGs1WkxaZndnbWNMQXJaOWNoeUxLUFR5YUk3ZE90Q25VUzlhUDFtd21CRUIwQVgxMk1mUWs3X0pGdXRreXlyb3dXNXdWNWtSd201ZktYZnFicGpvQXJvd3RRRFRDdw?oc=5
+- India-Nepal Border On Alert, Army Deployed At Embassy In Kathmandu - NDTV
+  India-Nepal Border On Alert
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTU4dVNCUkt3UE1sWFk0R1BqMEd1a1B2MWtjcUZqemllVk42SndOdEllTUxfYTAxMDZSdjBwam1XSnNhSzdaT2J2S2ZZd0pyWTJzRVQtYXh1Z3VIdzdnNlpBNmUtV2xXQnlpSEE1S0xHNVRocHBuZFc3WjZueUloVnN3RUlaaE5KN2ZjcndOM2t3MmlIcDlGOW5XZDl5OFBvZjR2V1lOMlVURmhyeGU4YkxYMGg0S1dDZDJiRUxJX091T0gxcWhTeDJfUW_SAdQBQVVfeXFMUHR6MU5qNG1QY29mYTNUMEIwUjV3QUFuYmxaU01WZnR6WTRJb0swWDFSTkJZYlZQZWpPOW9Zd0pPVTBQeVZMQWpXY25YRVg2akgxYldXRFI5eGZkNkJub2JlNkFlM3BoWDJDVG1tSHgzRmdPX1RXcTc0TzFuaW5SMV90OFBnTWlQVzkzSE12ZU1LaU8ydnZoZ2p3SWJ3NDhCQ0JpT3RsQzBGU3hIUlBiU0tzSkYxSUE3bUNJeUJlMlo5NHkzblVCQ2FqQjNieEFWYkxESVU?oc=5
 
-- Air India, IndiGo To Operate Special Flights From Delhi To Kathmandu Amid Nepal Unrest - News18
-  Air India, IndiGo To Operate Special Flights
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVpTYlF5RFh0b2JwdFlaVmtpVHkwQlYyR2R2VGZQeWFlcWNxQ0pXR2pQNnkxZDFCMWtqaS12MEd3NDc4UGN5TG5tRWZpQmJEYTZjSERJX3dNaFFNOFlRYWN1ZzVRcDV0S0pGZ2lHZUcxRGVtYVpldy1XNk9abm9XSFhRa3BCZEtOV0NweS1sLXFQSS05ZjdRQWE0dDYzOXRIZTVOdlNxNzBqUFpGWlBqdHVUYm5hclYxbVhUS19zOUFhY2Jq0gHKAUFVX3lxTE1adXBaam9aNDUweHd5Sl9HMkx1T01UdGx5UVBiaXk2UUhQeXJGemZjaFhJaXFKUDhCLTdkMzVXQ1VJelBTcmQxS0NSbF9JaFNnSnJkUVMwWDIyYUZidkdjbnpwYTVBUzNaazNKSmFuMWN1bzA4MTNjSGNHVFpCQXBRNWVSTUhYbVNobWtLeFp6Nk5JLV9nUTVWMExkaDNSZzhIcXU2TDJ4WWVmNUZvVGtTN1NCTEtsemt2cktwdVZSQ0hSd09TMDZsdWc?oc=5
+- "Not Sparing Tourists": Indian Woman's Call For Help From Violence-Hit Nepal - NDTV
+  "Not Sparing Tourists": Indian Woman
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQWVRqWDB0QUlUT2syUVhVOVdoanBtQjdmWm5rZGtkTlpIZkx3VTBBdmRRM2RaN0ZDQzc2cTE1WWZiT1JnMW54X0czUVhtYU9DbURocERfYWpoSnA3cDBhamtiWGpvMkh5eloyX0diUjc0alo2N2NPUmZpSVUxYzZUM081d19wbGZuUWpaakVVUGFFSDlvWDlPVXVzQUFDdTFHdHIzYWFHMUdqWF9VSFotQW9lX3Y3S1E0R19tZnVGT1pVbFVXOE8zVnZvTHhaMzlob0Uyd0VsOWgtR0J1eEZqNjVXSm8zeHdEZ2JrWjVtWnRsZ3pURHpGRkYtdTk1cHN6ZklaQ2J1WVNxNk5JZGfSAZYCQVVfeXFMUEI2empnVUZTTjlQbGNJTjN2bndvazd4SVQwZlU5TmxRZjRwME5zZGdwNlhzazhzeHVKdmkta0lvRjQ0OHRhdTdkVkY2UEpjMjExZ2k4am5UdzAwVUpLekh0RF9UX3dveHQwdGE0b3FFUjNIdjhkbi01d2hFN3Q1eFptRTh1MUhuSDV0ajlxeVJwNTdhcy1zY0E1eTdqUzV5OC0wbEkwTFVPWmZRVzBVd1pfMTlscHkwRHA0eDJBOWFoYmdqajVqRXk4OTFXQ2gyN2tmSWV6VVMwa0UyLWxPeHg2ck9DcklBU2pTcmtYaUxUbzlOR1MzVjBpTjYtMW8tS0g3VnYwY1VTaVo3ZjZtcGxpOG9VRVE?oc=5
 
-- Leaders in Nepal, India call for engagement to prevent isolation of Nepal - The Hindu
-  Leaders in Nepal, India call for engagement to prevent
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ3Z2Tm1TcDYwZHdRYTNBUHhPaWpodi1YUng5aWFHbXhfdlFuVkJxTmhLZmhPMUR5UHRmVWhKMHF4SlNnREhqb2dZZVhRX0FFVTJOb1ZtRTJaNVgzSEVYQjNIMzRYRW0tUXhUa2FCa2E1QWltRWpObkkyeHRVMnVSMTNRWDRETlpMZ3kxZXpldXVobTc1ZDVxRm1ZSTNfVkVaUW1wYUJYQV9sOFI2VW9ZalRtM0RkX3JyTG5tZHRIWUQyUDFMWnNZX0g5bTgtcjg0cGfSAdgBQVVfeXFMTkpHaUZVYTFERjVteUl0cUtMTzcxQmJvenNNUFBPMjRtcVc1X0RaQ3BIV3RMdU14cDBtMG5WdWRlNUt1QTBmVjBTODhZVmw3RGtRdWtSOVAtTVMyNXk3SXBjYTF0cXc3UUJYX2N4WklPNlAtaFJ6dFJjcUI1eTBxaVdpWXFpdzI1RVAwRGoycmtpQmhVWUZKVFdGU1VYcmtMQXZhTU9ldFAxRHNPOEJKN01hMzYtcWZranhyaTZhOUtjQU1BcWRfVklOY3lCMkYyYllQRmszVzEz?oc=5
+- Nepal turmoil adds strain to India's neighbourhood diplomacy - BBC
+  Nepal turmoil adds strain
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MckhxQjlOLTNqRkNhOUdESHM4ZkYybHB3ZktYT0tIVDJoLXF0U3BoYWc3OUFpY3F5dUdrbzhpdlZEdkE1eWJyY3pTcElWbmlTdUx5VkFZZzlXUdIBX0FVX3lxTE1acWVueWdJYWtybEpOcFRUM0NKcHByTzJxT0ZoY1U2T084bk9DSFhoWHRQWFpYY3dPMWdDNzNzbmhXQVREOUVyZWY3azlTbk95MjRlQjlvcUVwbWk2czBV?oc=5
 
-- News Today Live Updates, 10 September | Three former top FBI officials sue Kash Patel for ‘firing them to keep his job’ - The Indian Express
-  The Indian Express reports that Kash Patel is suing three former top FBI officials for ‘firing them to keep
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcGlMMWVtclJWWFhxUGNkU2lWaFNRSk5CbkcydTJHQWpSMTVTOXhFTy1KSlBuZjNSSDB0WF83TDZ6UzREZl9rMVFOUWNtN3E2UkJOYlVjemVHTlJXNE8tM2luTFJRdUhZc096ZWUxVHkxYnNpaHo1dVVuT2U5V1owcEkxX0ctaWVpRDBQaEVuN1dXSXJqRVA0eWZ6N2ZWV0NYX25YTjk0aWxFcVFFUWM1YjhReWxGUnZwTFU4X0JoVHFXTEZrdUpQX29XRFlyZzdmX1h2Xy1kdktFS1Rla0dyMm5VUzkxN1lI?oc=5
+- US Fed rate cut hopes, India–US trade talks boost IT stocks; Infosys, Tech Mahindra among top picks - Mint
+  " target="_blank">US Fed rate cut hopes, India–
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdVp2MWNtaWFMdVVsZERNd2JteUJlNXVPcGlUWGcxV1hjY3VUcEc3cjRqbTE3Y1drQzExSHBKbE1IMG1pRmJmSVIzV01GX0RDLVhvWXVZTi1weldXem4zMjJHcVVIazhIQXMxTkczZ0xCclZYZHJkc1Jmby16UjlLZ3FhWU8wNzRqcU1YT0o4LW85U19FV0dwR2k2U3JkQmVpelhCVmpPQVN6MXl6U2VFaEZ1ejlPdXNhNW9uanptLUF2Z2FDMDlUUTNpald0OUFuRXp2cDRZRGVpSG9nSmo1bEM4SnBjTDlCNkxGMHVsRGFqTlVuMWhYZ0JR0gH_AUFVX3lxTE9HckhzNWRUd2trMVdQSkNRTEY5V2VTMnROSXdfbTllSXlxNWpNckhJLUR5cUU0MkJLUlZYLVllcWUwcWhxaUc0anU0YWFuLWJQUm9xUlQ1U2J6V0hyOEVNU3VLQXVNbUctazY5bDRFZnpNQ1BXVzZpQ2dDNUVhTTFXdHppbjdtR1IyNTNxUkxROU4yektMUmFzSGVOVGk4cUZ1UThBT0NsUE1tc2VZeThBZjZnT3NWdnN0WEFvYS1ocTRqeG93emxLand3ajBpTFpNREFDX3ZrN3o4VG43SEw3QjNQdHM5eERZNWY0TExqU093VW1zay1XSHRHUG5zbw?oc=5
+
+- Trump lobbies EU for 100% tariffs on China and India to pressure Putin - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZF
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUS02RGRyWno0RDNpQ1NLY19vSW9lYzhTdGVnZHJUeGRpdFZGSXFHRm1BZXVJRExIa0hFUjRranZCSUNxOFRCN0dtRV93WE5tb2JlUHdieHVyUdIBX0FVX3lxTE1QUWhrZFRhUEVSRGdDX3FNN0paSG5tVXpfcXB5SEVaMnFFVlhKOGgwQXItYVlEUFh4ZnplTWU5ZjFyVHYxU2U3OVNjbC1qNTR6cTc0TEtKQlF0SnRoNVIw?oc=5
+
+- India-Nepal Border On Alert, Army Deployed At Embassy In Kathmandu - NDTV
+  India-Nepal Border On Alert
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTU4dVNCUkt3UE1sWFk0R1BqMEd1a1B2MWtjcUZqemllVk42SndOdEllTUxfYTAxMDZSdjBwam1XSnNhSzdaT2J2S2ZZd0pyWTJzRVQtYXh1Z3VIdzdnNlpBNmUtV2xXQnlpSEE1S0xHNVRocHBuZFc3WjZueUloVnN3RUlaaE5KN2ZjcndOM2t3MmlIcDlGOW5XZDl5OFBvZjR2V1lOMlVURmhyeGU4YkxYMGg0S1dDZDJiRUxJX091T0gxcWhTeDJfUW_SAdQBQVVfeXFMUHR6MU5qNG1QY29mYTNUMEIwUjV3QUFuYmxaU01WZnR6WTRJb0swWDFSTkJZYlZQZWpPOW9Zd0pPVTBQeVZMQWpXY25YRVg2akgxYldXRFI5eGZkNkJub2JlNkFlM3BoWDJDVG1tSHgzRmdPX1RXcTc0TzFuaW5SMV90OFBnTWlQVzkzSE12ZU1LaU8ydnZoZ2p3SWJ3NDhCQ0JpT3RsQzBGU3hIUlBiU0tzSkYxSUE3bUNJeUJlMlo5NHkzblVCQ2FqQjNieEFWYkxESVU?oc=5
+
+- "Not Sparing Tourists": Indian Woman's Call For Help From Violence-Hit Nepal - NDTV
+  "Not Sparing Tourists": Indian Woman
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQWVRqWDB0QUlUT2syUVhVOVdoanBtQjdmWm5rZGtkTlpIZkx3VTBBdmRRM2RaN0ZDQzc2cTE1WWZiT1JnMW54X0czUVhtYU9DbURocERfYWpoSnA3cDBhamtiWGpvMkh5eloyX0diUjc0alo2N2NPUmZpSVUxYzZUM081d19wbGZuUWpaakVVUGFFSDlvWDlPVXVzQUFDdTFHdHIzYWFHMUdqWF9VSFotQW9lX3Y3S1E0R19tZnVGT1pVbFVXOE8zVnZvTHhaMzlob0Uyd0VsOWgtR0J1eEZqNjVXSm8zeHdEZ2JrWjVtWnRsZ3pURHpGRkYtdTk1cHN6ZklaQ2J1WVNxNk5JZGfSAZYCQVVfeXFMUEI2empnVUZTTjlQbGNJTjN2bndvazd4SVQwZlU5TmxRZjRwME5zZGdwNlhzazhzeHVKdmkta0lvRjQ0OHRhdTdkVkY2UEpjMjExZ2k4am5UdzAwVUpLekh0RF9UX3dveHQwdGE0b3FFUjNIdjhkbi01d2hFN3Q1eFptRTh1MUhuSDV0ajlxeVJwNTdhcy1zY0E1eTdqUzV5OC0wbEkwTFVPWmZRVzBVd1pfMTlscHkwRHA0eDJBOWFoYmdqajVqRXk4OTFXQ2gyN2tmSWV6VVMwa0UyLWxPeHg2ck9DcklBU2pTcmtYaUxUbzlOR1MzVjBpTjYtMW8tS0g3VnYwY1VTaVo3ZjZtcGxpOG9VRVE?oc=5
+
+- Nepal turmoil adds strain to India's neighbourhood diplomacy - BBC
+  Nepal turmoil adds strain
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MckhxQjlOLTNqRkNhOUdESHM4ZkYybHB3ZktYT0tIVDJoLXF0U3BoYWc3OUFpY3F5dUdrbzhpdlZEdkE1eWJyY3pTcElWbmlTdUx5VkFZZzlXUdIBX0FVX3lxTE1acWVueWdJYWtybEpOcFRUM0NKcHByTzJxT0ZoY1U2T084bk9DSFhoWHRQWFpYY3dPMWdDNzNzbmhXQVREOUVyZWY3azlTbk95MjRlQjlvcUVwbWk2czBV?oc=5
+
+- US Fed rate cut hopes, India–US trade talks boost IT stocks; Infosys, Tech Mahindra among top picks - Mint
+  " target="_blank">US Fed rate cut hopes, India–
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdVp2MWNtaWFMdVVsZERNd2JteUJlNXVPcGlUWGcxV1hjY3VUcEc3cjRqbTE3Y1drQzExSHBKbE1IMG1pRmJmSVIzV01GX0RDLVhvWXVZTi1weldXem4zMjJHcVVIazhIQXMxTkczZ0xCclZYZHJkc1Jmby16UjlLZ3FhWU8wNzRqcU1YT0o4LW85U19FV0dwR2k2U3JkQmVpelhCVmpPQVN6MXl6U2VFaEZ1ejlPdXNhNW9uanptLUF2Z2FDMDlUUTNpald0OUFuRXp2cDRZRGVpSG9nSmo1bEM4SnBjTDlCNkxGMHVsRGFqTlVuMWhYZ0JR0gH_AUFVX3lxTE9HckhzNWRUd2trMVdQSkNRTEY5V2VTMnROSXdfbTllSXlxNWpNckhJLUR5cUU0MkJLUlZYLVllcWUwcWhxaUc0anU0YWFuLWJQUm9xUlQ1U2J6V0hyOEVNU3VLQXVNbUctazY5bDRFZnpNQ1BXVzZpQ2dDNUVhTTFXdHppbjdtR1IyNTNxUkxROU4yektMUmFzSGVOVGk4cUZ1UThBT0NsUE1tc2VZeThBZjZnT3NWdnN0WEFvYS1ocTRqeG93emxLand3ajBpTFpNREFDX3ZrN3o4VG43SEw3QjNQdHM5eERZNWY0TExqU093VW1zay1XSHRHUG5zbw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-10 18:25:22 UTC_
+_Last updated: 2025-09-11 01:10:43 UTC_
