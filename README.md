@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Six months after SC order, demolition of Ajmer’s Seven Wonders Park begins
+- Haridwar teacher ‘presses 7-year-old’s face with shoe while another beats him with stick’ for taking 2 days’ leave
   
-  🔗 https://indianexpress.com/article/india/ajmer-seven-wonders-park-begins-demolition-sc-order-10245975/
+  🔗 https://indianexpress.com/article/india/haridwar-teacher-presses-7-year-olds-face-with-shoe-while-another-beats-him-with-stick-for-taking-2-days-leave-10246671/
 
-- Festival Special Train 2025: Central Railway adds 182 more special trains; total now 1,126 – Full list, routes, stoppages, timings
+- Tripura to become self-sufficient in potato production by 2028-29: Agriculture Minister Ratan Lal Nath
   
-  🔗 https://indianexpress.com/article/india/festival-special-train-2025-central-railway-to-run-1126-special-trains-10245919/
+  🔗 https://indianexpress.com/article/india/tripura-self-sufficient-potato-production-minister-ratan-lal-nath-10246625/
 
-- CBSE says entry can be marked ‘REFUSED’ if parents deny consent, eases APAAR ID rule for board students
+- After Vantara visit, SIT submits ‘sealed’ report to Supreme Court
   
-  🔗 https://indianexpress.com/article/india/cbse-says-entry-can-be-marked-refused-if-parents-deny-consent-eases-apaar-id-rule-for-board-students-10245850/
+  🔗 https://indianexpress.com/article/india/vantara-visit-sit-sealed-report-to-sc-10246595/
 
-- Sairang to Guwahati train ticket booking begins; check route, travel time, stoppages, timings
+- SC bats for protection of homebuyers: ‘Plight of tax-paying citizens paints disheartening picture’
   
-  🔗 https://indianexpress.com/article/india/sairang-guwahati-train-ticket-booking-begins-travel-time-stops-time-table-10245753/
+  🔗 https://indianexpress.com/article/india/sc-protection-of-homebuyers-tax-paying-citizens-disheartening-picture-10246490/
 
-- ‘Can’t have special treatment for Delhi’: SC says firecracker ban policy should apply across India
+- Jammu: Markets open, vehicles return to roads as curb lift briefly in Doda
   
-  🔗 https://indianexpress.com/article/india/special-treatment-delhi-firecracker-ban-policy-apply-across-india-10245712/
+  🔗 https://indianexpress.com/article/india/jammu-markets-open-vehicles-return-to-roads-as-curb-lift-briefly-in-doda-10246457/
+
+- Meet Diella from Albania, the world’s first AI-made minister
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meet-diella-from-albania-the-worlds-first-ai-made-minister-10246223/
+
+- Adobe’s AI agents and platform now available for businesses
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/adobes-ai-agents-and-platform-now-available-for-businesses-10246060/
 
 - Samsung unveils Galaxy Buds3 FE with AI interpreter, enhanced noise cancellation
   
@@ -32,193 +40,105 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/coin-sale-scam-in-india-how-to-stay-safe-10245720/
 
-- 97% Indians watch Reels daily: Meta study reveals how short-form videos are overtaking TVs
-  
-  🔗 https://indianexpress.com/article/technology/social/meta-reels-india-most-watched-short-form-video-platform-10245428/
+- Zepto, PhysicsWallah, BharatPe on the fast-track? THESE 10 startups reached $1 billion unicorn status in record 3 years
+  The ‘Unicorn and Future Unicorn Report 2025’ by ASK Private Wealth and Hurun India listed 73 firms in 2025. Of these, we take a look at the top 10
+  🔗 https://www.livemint.com/companies/start-ups/zepto-physicswallah-bharatpe-on-the-fast-track-these-10-startups-reached-1-billion-unicorn-status-in-record-3-years-11757693737746.html
 
-- Apple opens pre-orders for the iPhone 17 lineup and new wearables
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-opens-pre-orders-for-the-iphone-17-lineup-and-new-wearables-10245498/
+- Sebi to introduce threshold-based framework to determine materiality of related party transactions
+  Sebi to introduce threshold-
+  🔗 https://www.livemint.com/companies/news/sebi-to-introduce-threshold-based-framework-to-determine-materiality-of-related-party-transactions-11757695030378.html
 
-- Infosys’s share buyback: A playbook for Indian IT firms to catch up with AI?
-  Infosys’s  ₹18,000-crore buyback boosted shares and signaled a playbook Indian IT giants may follow to reassure investors. But as
-  🔗 https://www.livemint.com/companies/infosys-buyback-vs-ai-investments-indian-it-11757665290743.html
+- Apollo Hospitals to up stake in retail health subsidiary for  ₹1,254 crore
+  Apollo Hospitals will acquire a 31% stake in its subsidiary Apollo Health from the International Finance Corporation. This acquisition is part of a strategy to enhance flexibility and returns, focusing on growth areas like
+  🔗 https://www.livemint.com/companies/apollo-hospitals-acquires-apollo-health-for-1254-crore-11757690536113.html
 
-- Indian-origin Baiju Bhatt joins Forbes' youngest US billionaires list: Check his net worth
-  With a net worth of $6.9 billion, Bhatt is also
-  🔗 https://www.livemint.com/companies/people/indianorigin-baiju-bhatt-joins-forbes-youngest-us-billionaires-list-check-his-net-worth-11757671736227.html
+- Tesla stock is on a tear. Where it goes next.
+  Tesla stock has more room to run,
+  🔗 https://www.livemint.com/companies/tesla-stock-is-on-a-tear-where-it-goes-next-11757690760675.html
 
-- Giorgio Armani's Will: Italian designer leaves 15% stake in firm to LVMH, EssilorLuxottica, and L’Oréal — What we know
-  Giorgio Armani left his billion-dollar fashion company to his foundation, family members and ‘right hand man’ Leo Dell�
-  🔗 https://www.livemint.com/companies/people/giorgio-armanis-will-italian-designer-leaves-15-stake-in-firm-to-lvmh-essilorluxottica-and-l-or-al-what-we-know-11757667334058.html
+- GST fraud: ED claims MNCs benefitted from fake ITC worth crores
+   ED claims MNCs benef
+  🔗 https://www.livemint.com/companies/news/gst-fraud-ed-claims-mncs-benefitted-from-fake-itc-worth-crores-11757689707565.html
 
-- What Oyo’s FY25 numbers show
-  The hospitality company reported its first full-year profit in FY
-  🔗 https://www.livemint.com/companies/oyo-fy25-financial-results-oyo-annual-report-fy25-oyo-profit-and-loss-fy25-oyo-ipo-2025-11757418074326.html
+- Small-cap stock to be in focus on Monday; here's why
+  Basilic Fly Studio shares will be in focus on Monday after the company raised  ₹85
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-basilic-fly-studio-shares-to-be-in-focus-on-monday-heres-why-11757697843319.html
 
-- Citigroup Hires Banking Veteran Li Shan for Key Role in Asia
-  Citigroup Inc. named veteran Chinese dealmaker Li Shan to a key position in
-  🔗 https://www.livemint.com/companies/news/citigroup-hires-banking-veteran-li-shan-for-key-role-in-asia-11757665553146.html
+- US dollar rises on positioning moves, but outlook remains bearish
+  U.S. dollar
+  🔗 https://www.livemint.com/market/stock-market-news/us-dollar-rises-on-positioning-moves-but-outlook-remains-bearish-11757694961306.html
 
-- Oil Demand Monitor Warns Output Boom May Strain China’s Stockpiling
-  The global oil market faces an ‘untenable’ surplus of about 3 million barrels a day. China’s recent
-  🔗 https://www.livemint.com/market/stock-market-news/oil-demand-monitor-warns-output-boom-may-strain-china-s-stockpiling-11757680141053.html
+- Sebi approves to classify REITs as equity, aims to widen ‘strategic investor’ definition — Details here
+  Sebi approved the classification of the regulated asset class, Real Estate Investment Trusts (REITs), as
+  🔗 https://www.livemint.com/market/stock-market-news/sebi-approves-to-classify-reits-as-equity-aims-to-widen-strategic-investor-definition-details-here-11757693076210.html
 
-- Dev Accelerator IPO closes with 63.97 times subscription — GMP jumps to 20%. Check details
-  Dev Accelerator's IPO closed with strong demand, being oversubscribed 63.97 times. The retail portion saw a massive 164.71 times subscription. The company aims to raise
-  🔗 https://www.livemint.com/market/ipo/dev-accelerator-ipo-closes-with-63-97-times-subscription-gmp-jumps-to-20-check-details-11757678214471.html
+- Stocks stays close to record highs; dollar and bond yields turn higher
+  Stocks stay close to record highs
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-stays-close-to-record-highs-dollar-and-bond-yields-turn-higher-11757691705561.html
 
-- Nifty 50 ends above 25,100: Has the Indian stock market started discounting an India-US trade deal, earnings recovery?
-  The Nifty 50 index closed above 25,100 for the first time since July. Analysts suggest a cautious 'sell on rise' strategy as the market awaits key cataly
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-ends-above-25-100-has-the-indian-stock-market-started-discounting-an-india-us-trade-deal-earnings-recovery-11757674191851.html
+- US Funding Markets Enter New Era of Volatility Amid Rising Costs
+  US funding markets have been awash with easily accessible and cheap cash for nearly two decades. US funding markets appear to be entering a new phase of higher
+  🔗 https://www.livemint.com/market/stock-market-news/us-funding-markets-enter-new-era-of-volatility-amid-rising-costs-11757691581358.html
 
-- Tata Capital IPO: Unlisted shares slide 36% from peak — Can high valuations vs peers trigger further fall?
-  Tata Capital plans a $2 billion IPO following central bank approval. But faces a 36% drop in unlisted shares amid concerns of overvaluation against peers.
-  🔗 https://www.livemint.com/market/ipo/tata-capital-ipo-likely-next-month-can-its-high-valuation-vs-peers-trigger-a-further-fall-in-unlisted-shares-11757674911363.html
+- How to turn your Nano Banana generated 3D models into videos for free? Check our step-by-step guide
+  Gemini Nano Banana model can generate 3D models and other effects using real-life images. In order
+  🔗 https://www.livemint.com/technology/tech-news/how-to-turn-your-nano-banana-generated-3d-models-into-videos-for-free-check-our-step-by-step-guide-11757698427374.html
 
-- SBI Mutual Fund raises stake in this auto component stock to 7.55%. Details here
-  SBI Mutual Fund acquired 10,814 shares of Sundram Fasteners, raising its total to 1,58,71,914 shares. The company reported a record net profit of
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-mutual-fund-raises-stake-in-this-auto-component-stock-sundram-fasteners-to-7-55-details-here-11757674200726.html
+- How to create 3D figurines of yourself with Nano Banana with help from ChatGPT and Qwen? Check our step by step guide
+  Gemini 2.5 has gained popularity for transforming images into 3D models. Users can enhance output using AI chatbots like ChatGPT and Qwen.
+  🔗 https://www.livemint.com/technology/tech-news/how-to-create-3d-figurines-of-yourself-with-nano-banana-with-help-from-chatgpt-and-qwen-check-our-step-by-step-guide-11757693594023.html
 
-- iPhone 17 pre-booking starts today: India &amp; US price, time, where to buy and more
-  The iPhone 17 series goes on pre-orders starting today and sales commencing on September 19. The new models, including the iPhone 17 and iPhone 17 Pro, are available for
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17-pre-booking-starts-today-india-us-price-time-where-to-buy-and-more-11757675637577.html
+- Nano Banana: How to better blend subject and background in photos? Trick revealed
+  Nano Banana, integrated into Google’s Gemini app, allows users to edit photos easily. A new technique involves using a green screen for better background
+  🔗 https://www.livemint.com/technology/nano-banana-how-to-better-blend-subject-and-background-in-photos-trick-revealed-11757683021096.html
 
-- How many images can you generate using Gemini Nano Banana? Check daily limit for free, Pro and Ultra users
-  Google has updated its policy on image generation limits for its Gemini model. Now states 'basic access' for free users
-  🔗 https://www.livemint.com/technology/tech-news/how-many-images-can-you-generate-using-gemini-nano-banana-check-daily-limit-for-free-pro-and-ultra-users-11757672514496.html
+- Forget 3D models! Nano Banana can create these 7 mind-bending effects with your photos
+  Gemini's Nano Banana is a 3D figurine that can be used in a variety of ways. Check out 7 practical ways you
+  🔗 https://www.livemint.com/technology/tech-news/forget-3d-figurines-7-mind-bending-things-gemini-nano-banana-can-do-with-your-photos-11757686291495.html
 
-- Is Nano Banana best for creating 3D models? We tested it against ChatGPT, Grok and Qwen
-  We pitted Gemini Nano Banana against top three free AI image generators: ChatGPT, Qwen and Grok.
-  🔗 https://www.livemint.com/technology/tech-news/is-gemini-nano-banana-overhyped-we-tested-it-against-three-free-ai-rivals-to-see-who-rules-viral-3d-model-chatgpt-qwen-11757666887207.html
+- Tencent Hires OpenAI Researcher as China Steps Up Talent Search
+  Tencent has recruited a prominent artificial intelligence researcher from OpenAI. It is one of the most high-profile defections from the US AI
+  🔗 https://www.livemint.com/technology/tech-news/tencent-hires-openai-researcher-as-china-steps-up-talent-search-11757689035858.html
 
-- Nano banana: How to create 3D models – is Google Gemini safe for image generation? Key FAQs answered
-  The Nano Banana trend is a viral social media craze where users use Google’s Gemini AI to turn photos of themselves, celebrities, pets, or superheroes
-  🔗 https://www.livemint.com/technology/nano-banana-trend-how-to-create-3d-models-is-google-gemini-safe-for-image-generation-key-faqs-answered-11757662238991.html
+- Sebi board meeting: 10 key takeaways from IPO reforms to mutual fund regulation tweaks
+  The Securities and Exchange Board of India approved reforms. Real Estate Investment Trusts now have equity status. Exit load for mutual funds is reduced. There are changes to related party transactions.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-board-meeting-10-key-takeaways-from-ipo-reforms-to-mutual-fund-regulation-tweaks/articleshow/123855828.cms
 
-- 8 best laptops under  ₹60000 in Sep 2025 that you should consider to keep up with your work and entertainment needs
-  The best laptops under  ₹60,000 in 2025 can be a challenge. To simplify your decision, we've done the research for you, highlighting the top contenders
-  🔗 https://www.livemint.com/technology/gadgets/8-best-laptops-under-rs-60000-in-sep-2025-that-you-should-consider-to-keep-up-with-your-work-and-entertainment-needs-11757602789002.html
+- Bajaj Housing Finance to breathe easy after Sebi relaxes public shareholding rule
+  Sebi has eased minimum public shareholding norms for large companies. This gives Bajaj Housing Finance more time to dilute promoter stakes. Firms between �
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bajaj-housing-finance-to-breathe-easy-after-sebi-relaxes-public-shareholding-rule/articleshow/123855137.cms
 
-- Wall Street Cheers Signs Fed-Rate Cut a Done Deal: Markets Wrap - Bloomberg.com
-  Wall Street Cheers Signs Fed-Rate Cut
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOMFg5Tl9zNWhZcFNFekVwSUNJWW8tblBZa1F1ODFONmNSUkc5WHJtVGFjeURnc2pXUThHZnVXeGJicnpDMFM1MHNCUmt6TkFSWFM4dUgtdkl6NlZxYXVuOTVqeUd1UW40U0t2OGdpWEZoMG5NTkctYy1TUU1CUnpIM3FsdzBhdTVOdzhkTnhIRDlzSXdH?oc=5
+- Sebi board meeting: REITs get equity status, move set to boost mutual fund investments
+  Sebi has reclassified Real Estate Investment Trusts (REITs) as equity. The move aligns with global best practices and boosts liquidity, growth,
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sebi-board-meeting-reits-get-equity-status-move-set-to-boost-mutual-fund-investments/articleshow/123855028.cms
 
-- Stocks Dip From Highs as Traders Turn Cautious: Markets Wrap - Bloomberg.com
-  Stocks Dip From Highs as Trad
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOVWtva3VXWG1iSnFUWGVZU093TktFelQwVkR4VlJIa0NxRFU3Sl8wbXVGSjJpM1MzMEZ5azNsUFU1RHpDQ2VDcG8wMldLa0syZm9RN1oyT05fR19FUmNJendYTVZONHlzN3lXNmtxcUdjTXVocHhKdndCNFJVcVlTOW1HV29xb1NvR0ptT1ZsVDlpV0py?oc=5
+- Sebi chief Tuhin Kanta Pandey has some positive news for lakhs of investors awaiting NSE IPO
+  Sebi chief Tuhin Kanta Pandey confirmed NSE’s IPO no-objection certificate (NOC) will be
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-chief-tuhin-kanta-pandey-has-some-positive-news-for-lakhs-of-investors-awaiting-nse-ipo/articleshow/123854697.cms
 
-- Stock Market Today: Dow Futures Slip; Confidence Data Due — Live Updates - The Wall Street Journal
-  Stock Market Today: Dow Futures Slip; Confidence Data Due
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQSXNZZ212WEtmcjlvQTQzV1pBWkVXODRWQ3k4TTlRd2VjNVRzeWRtOVBfZEU2a1M2MXlyVGFuLWlCZnBHeEhWNUxNQzJQZ25FV29DeEVKNGZVc0IyZVY5MUhBTGl0Wi15WTJUNGIxOVo2NkJTY2ROZUFhSTEzbENHOW5pQ2FKUUk?oc=5
+- Sebi widens IPO anchor book to include insurers and pension funds, raises reservation to 40%
+  Sebi has expanded IPO anchor investor participation to include insurance and pension funds alongside mutual funds. It has also raised anchor quota to 40% and merging
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-widens-ipo-anchor-book-to-include-insurers-and-pension-funds-raises-reservation-to-40/articleshow/123854571.cms
 
-- Closing Bell: Nifty above 25,100, Sensex rises 356 pts; auto, metals shine, FMCG a drag - Moneycontrol
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUzV4aWxKeGFqSUgtM1d5aWxTdExIYmFGVWtZMEtRYzMwNHlaRmc1akJldnk4OU5SY05PUVFZWnEwM3pXdGRwT0c2aU1hQkVaejRFNEhxbmUxZkdtRTlYU3lUV0gyMFZQRk
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUzV4aWxKeGFqSUgtM1d5aWxTdExIYmFGVWtZMEtRYzMwNHlaRmc1akJldnk4OU5SY05PUVFZWnEwM3pXdGRwT0c2aU1hQkVaejRFNEhxbmUxZkdtRTlYU3lUV0gyMFZQRklmMmNaMF9GenlCYmVzUWUzWE15ZGVqaXYyZWJWazRnRngwdTBfWXA3LWRUcjJuRGFLMDUwLUZ5blhDSU0wVlZjOHZoeFJZdlFxT2VrNWh2M2drQXYzem5UcmtfX3Z6eFY0dmRXNVJTSFl3T0ZqVUZ3VmJFSkgyWVk2WmVNRXJDbjQ4RQ?oc=5
+- ‘China used weapons to melt Indian soldiers’: US senator Bill Hagerty bizarre claim on Galwan clash | Latest News India - Hindustan Times
+  ‘China used weapons to melt Indian soldiers’: US senator Bill Hagerty bizarre
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX3gtMlc2dXVtSHFVYnNVTng0ZHlqZjZ4UkgwaERQNEpTUk1QQXpENktMUFk2MlYxVUExWkdmVC1UMmJHZjNrbVZiQkV1Q0hQOVRrQzZxVHhoOW5SQjJ6NDNvT21aYWZNOHZSbnBaNWY3NV9tQ0ZLSXJqZGN2TXlzMGp4YktPS0pxN0xGYnh4UlQteFZ1bWJOd3ZyOVVnY1kteHBMWGxSOGlCZWhhd05sNzJoQnpsVHZCTWJHV2NtSkEyQVJvZWtrX2hHSFdwLVcxOWlQbndVTGNUS0ZJbTRNeDZ0Zko5RUZaT2s1R0hua0_SAfYBQVVfeXFMTm9Sd1FJRUtZOVR1QnFlVTJwZEh1WTFLTVFPbEpxTWpDZnViVkNTUGFfODc4UjBkZGxxaEpHNEpDdEE5RGNkaUdIc3hRbjlzc2RvQkMtR3E1TDBnYXBZdVpGNU9IZDNwTzRxeXpPMDl0Z1lEQVNtTzFBbHN5LUNsZGZmd3ZCWXF1UUFrOUN6cUxudGVkdi1yMHEzVHBCcG5aandLWEpwZ3dwSGVGTVhJZjFxck1vWVZUN3R0Nmd2Vk5RV0tNUG1GUVpkR3pfam9hYmkxYnlDckg3N3E4Mm9oX3pIbWMybXh1cE9DMk53cWNnRE5uYkJR?oc=5
 
-- Asian markets ride the Fed easing cycle to record peaks - Reuters
-  Asian markets ride the Fed easing cycle to
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWG94YU5Ha3ZqZEEtTUJpQ3U2SXVKemdCMGZpYXVnS1VIeDJTNjlDOERMVlVCZlpyRXh5S2EtQXdkMUFEeXZVQ3dtRnhBZVlnS2lHNzhMc1ZWbXdsZlhBT2E0bl9jX0hpdk5HdVU2MDZxM0RRM0U1RjU3WTdoVW8?oc=5
+- Donald Trump tariffs spark alarm over India-U.S. ties, calls for unity - The Hindu
+  The Hindu reports that the U.S.
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUVfX1FPRWNycW1MWE1JT2Z0OFlOVkJiVGJlb3lxdGJ4elk1anBiS2hsTFdwQUlhcE9zbkNMNFMwemZRN1JuTWQzbklwVElLdVVNRjZPWjVOSlotUWx0Vnc4MElmMEU0dnlBSVdWYjg2UFVTaldiZ0U4RnpiSWFsMXRtYVRxRnJSOXlOVnZfNl9xbG1IMHFZXzIzN3lWV2ZtZzZFQVRtQXQ0bE9OLTc0RnZZVWNzQWthZnRacFhMVjQwcnZvVnJTbXRYY9IB0gFBVV95cUxNb0VObUw5RWR2WlZrUTRtYU9STFRPS1liSlhNWWEteWMyUGJVVHVkYm90c0o1ZWVkOEZyTGZfVWFyMTdScERPSS04NmtvODM1dmZyc2l4UFhTM0RVakpwdWVCdHptZDJiY2dhRUxseU9OV2xlajdxTUxReldpTHRWNXdzRUtFZGV4MVNOQTlJbnpTdE1LRDJGYmxmWjAxeWlJM01fdklOeHk1cF9sRm9FT0NLbTloMEVBZGY1TDl0SkJPTFY0ZVFqRXFKUUZNT0JBNVE?oc=5
 
-- Wall Street Cheers Signs Fed-Rate Cut a Done Deal: Markets Wrap - Bloomberg.com
-  Wall Street Cheers Signs Fed-Rate Cut
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOMFg5Tl9zNWhZcFNFekVwSUNJWW8tblBZa1F1ODFONmNSUkc5WHJtVGFjeURnc2pXUThHZnVXeGJicnpDMFM1MHNCUmt6TkFSWFM4dUgtdkl6NlZxYXVuOTVqeUd1UW40U0t2OGdpWEZoMG5NTkctYy1TUU1CUnpIM3FsdzBhdTVOdzhkTnhIRDlzSXdH?oc=5
+- T.N. government sets up helpline to aid people stranded in violence-hit Nepal - The Hindu
+  T.N. government sets up helpline to
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa1ROUU1rc3VQdWxNWUxfN1ZGSEgyX0dVOGpoWmtKOW5uN0Q1cWtDeTB3Zkc1LU1OLTZibDFrbTBXRTltdHJHRWNQMnhvX0NsaFFEbUx6WjhBZkFFN3M5LXJnVUROQ3NEZi1tdmFTM0RZTjRqakFUdm1vSVFjYS1Oa0hBc1I1d2hoSHN0NmJyZU9jcTdlQjg4NWxpLTJHa2tmWWxiWnQ0LVJqVUJ5ZjU5SllnMDZfbWhhemNETC1nMjhUWEwwXzRKcUZpUUxNZ3ItYjVVNjNQcndZdHBZVlHSAeQBQVVfeXFMTm9sMzN5RU44NTIwYVpuWmJQYm1hbXRRREJGcm1tUXZ3WFZ4anRseFlUMTNnR0ExTVUxaDNtQXRxWDd4a2V1b3l6dmxPakRlLVZyOHNTMFFTQnlFWmZQMnhURDV4ekRfM0pXNjc0a3lYaXVSdDJNd3V2Umt3Z1A0Tkc2NWRGYUkyZnFHaW94bldYZEtaalhYSm1oa1BodVp1STJ3Z1NJN1JDNjh3Z25ma182Y2ZYRE54Y1JDakNEUHc3ekE4Ql9HbHdMS29SdGV4c0FqTDltcGg1U2tUVVljZ1VLWWhI?oc=5
 
-- Stocks Dip From Highs as Traders Turn Cautious: Markets Wrap - Bloomberg.com
-  Stocks Dip From Highs as Trad
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOVWtva3VXWG1iSnFUWGVZU093TktFelQwVkR4VlJIa0NxRFU3Sl8wbXVGSjJpM1MzMEZ5azNsUFU1RHpDQ2VDcG8wMldLa0syZm9RN1oyT05fR19FUmNJendYTVZONHlzN3lXNmtxcUdjTXVocHhKdndCNFJVcVlTOW1HV29xb1NvR0ptT1ZsVDlpV0py?oc=5
+- "That's A Big Deal. It Caused Rift With India": Trump On 50% India Tariffs - NDTV
+  "That's A Big Deal. It Caused Rift With
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUhuVU9Bc1g3aG9NcDRjNjg5UlpPLTBTTl9OQnEtOVFkRkdwUE8zaTJiaDZiU1ptRkR1aVg5elpJS2x2cGF6cHlzWkRVdnV6N0JLLS1YS2JfVkJ0WjVIU3pHNERYMUk3TFg5SERfSm82aVNvSXg5T0UtQnQ2MVZZRXdBLXhQUDlBRFh3Z3ZNdTdfMUdrM29Pdk1PZlpvZENRR0hnOdIBrAFBVV95cUxPWUtYaWM2MnI2QjdCUW9fdVBhSzFHSm1VWF84UUlZMkhXYnQyMGlkQW44U1F1dHlnU0NsN0otV3Q0T1lVVFZkb1hRZjJvVTVxN28tbjAtSHVGTWdQOXFpMm94d1BvN3E3eXVOUE1CbmNseV9pUmd0c3d3LUdCTWFpejh2eVNIcGlxVWt1TWhybzA4elVIQjhTZTZBckY1V015WGk5NllhaU9mN0x2?oc=5
 
-- Stock Market Today: Dow Futures Slip; Confidence Data Due — Live Updates - The Wall Street Journal
-  Stock Market Today: Dow Futures Slip; Confidence Data Due
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQSXNZZ212WEtmcjlvQTQzV1pBWkVXODRWQ3k4TTlRd2VjNVRzeWRtOVBfZEU2a1M2MXlyVGFuLWlCZnBHeEhWNUxNQzJQZ25FV29DeEVKNGZVc0IyZVY5MUhBTGl0Wi15WTJUNGIxOVo2NkJTY2ROZUFhSTEzbENHOW5pQ2FKUUk?oc=5
-
-- Closing Bell: Nifty above 25,100, Sensex rises 356 pts; auto, metals shine, FMCG a drag - Moneycontrol
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUzV4aWxKeGFqSUgtM1d5aWxTdExIYmFGVWtZMEtRYzMwNHlaRmc1akJldnk4OU5SY05PUVFZWnEwM3pXdGRwT0c2aU1hQkVaejRFNEhxbmUxZkdtRTlYU3lUV0gyMFZQRk
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUzV4aWxKeGFqSUgtM1d5aWxTdExIYmFGVWtZMEtRYzMwNHlaRmc1akJldnk4OU5SY05PUVFZWnEwM3pXdGRwT0c2aU1hQkVaejRFNEhxbmUxZkdtRTlYU3lUV0gyMFZQRklmMmNaMF9GenlCYmVzUWUzWE15ZGVqaXYyZWJWazRnRngwdTBfWXA3LWRUcjJuRGFLMDUwLUZ5blhDSU0wVlZjOHZoeFJZdlFxT2VrNWh2M2drQXYzem5UcmtfX3Z6eFY0dmRXNVJTSFl3T0ZqVUZ3VmJFSkgyWVk2WmVNRXJDbjQ4RQ?oc=5
-
-- Asian markets ride the Fed easing cycle to record peaks - Reuters
-  Asian markets ride the Fed easing cycle to
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWG94YU5Ha3ZqZEEtTUJpQ3U2SXVKemdCMGZpYXVnS1VIeDJTNjlDOERMVlVCZlpyRXh5S2EtQXdkMUFEeXZVQ3dtRnhBZVlnS2lHNzhMc1ZWbXdsZlhBT2E0bl9jX0hpdk5HdVU2MDZxM0RRM0U1RjU3WTdoVW8?oc=5
-
-- Trump's envoy pick cites India's middle class, says want New Delhi to buy our oil - India Today
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFh2Y1BYWEE2OS05NkNRd1A4SWRRNVZDSDhiMm1hMkNHWFhnUzl5blF6Q0FvX3A0Q01YVExFQk4yb1k0Q0dpRFpVVlViN0V2TFN1OGtsRkhuem9lbUV6Z3pwLXJGa2hLLW
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFh2Y1BYWEE2OS05NkNRd1A4SWRRNVZDSDhiMm1hMkNHWFhnUzl5blF6Q0FvX3A0Q01YVExFQk4yb1k0Q0dpRFpVVlViN0V2TFN1OGtsRkhuem9lbUV6Z3pwLXJGa2hLLW5JTW5abldVQmg5LVd0cG5fV3BhaEFKa3o5dTBnc0JLMC1WOUpVbzE0ajlVMVdhVXNiWEZXY2gxbmxzUzJyM0pYUzFSanJ3elhQWHRhM3RwbEJWZFI4VG9DS0JhZWw2THoyRmJZa2p1bU9iUk0tSDJfZGt2dE4xONIB5gFBVV95cUxPczNudk80ekVSYzRldUd6ZmRmTDBFM2M4d1Q0aWFsUUFLaXdOb24tcUV3cGR4OWJ6QTRTT0JVWVBzY1NIblcwUnJGVjZXRHF4dGNxNkFnNXpVTmoxR0FtSVhkWFFHVURSRVBZaENnamZaNDhQTzRzVENldnBFMXRBcWl4ZnR4bUZpV1NKSFJIcXdVWDBDdEdwRGRwYUFZc211d21ZNnAzZk5PWWFWelZpRmMzcXhSVnhsQi1xYWpSVm5CZ0lFQlp1MWNtanR4aGRKWXU3RnMycVpfOGRDeEJadEo5dGhzUQ?oc=5
-
-- India's IT Sector Nervous As US Proposes 25% Outsourcing Tax - NDTV
-  India's IT Sector Nervous As
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTY3YjhBSFhhamFEOW40ZEhkNHVOd1o5V3FUeEdObDBwSnFrZlVYaGNfUFFxdmJkbElJWXkzNWVuUUdkU1RheDY4WDlkUmljMDB2ekgwaE9qdDhJeWw3RVJoX0VYZ1ROeHVXR0prTk5JaGVRVVhrdm9haWFyZFZzTHBucmNxTzlZSmM1YXpNbWVOVmVhUnA2b0lWaUxWUHI0M042allKZENhV1nSAbMBQVVfeXFMTUt4b3c1eF9FYkhhZkdVUE1VMWRWLTVFZTlxVi1vb0Roc3E3ajNadGdnbno1dTZmOS13dnQxTWdCVmc3d2Y4MnIxMnFHeXVHRnpGUzF5YmxtbDVMUk1IT2NWRENSTHFXNHkyX051RUhTdmw5YXQ2WGllV1ZOWlJIbkpDZnRoZXZsOGd1SDB3NnJoTjZScXF6elpzbklTeEgzNGpJYUlRaEZsTjZjelZZZ05EWWc?oc=5
-
-- India Vs Pakistan, Asia Cup 2025: Tickets Still Unsold As Organisers Slash Prices - News18
-  India vs Pakistan Asia Cup 2025 tickets still unsold.
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzU1VkdtU2cxSmdvTEhRQjZ5OFpTSkg3VWllMlRjVjc0aHdVMUJmM3RRNHJEcTd2Z3ZrNEZMZFUySGh3QUEyN19mY3BlVFNUT1pNWHJKUXZ6bmt4UXRzZ21TWWJaUDBQNmVRSGhjQksyQ2tJT2ZJV2RkUDRWdGNYWllzYVlZTGRpRnZ0Q1dieXlybUNoVnlUZVZJcTJqZGZWZmNoekVvX21TOGNpaFVTanJiWkt1bThrVElISVR0THXSAcYBQVVfeXFMTl90OXNlZmN0YWRiQ1BTV3YxVmxRanVkbFBRODViM0ZucUNOaF9mc3QxYVZHSERNR3poNGdqc1pXbmNGU2hfSGdJdkQwNV9IYnA2WlZIbXp4T3FKMTc4d28zd1ZIVDdjRHFHV01WM2RqcW9XT28zYUNENW9NZFpJZVFvTEU1cEo0TExYMEFaeWxtYjFfTlBjdXMyRmpIRG51eXVlY1NScWJZOU5vR2tMZWljWU1jVUh5cjJHcGhjSmpTSFhhS3BR?oc=5
-
-- Are IPL 2025 runners-up Punjab Kings boycotting India vs Pakistan in Asia Cup? Viral post sparks social media buzz - Mint
-  Are IPL 2025 runners-up Punjab Kings boycotting India vs Pakistan in Asia Cup
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxPVHB6MkZEWjVZaVRoYm5JUkIwM2IwRDhBZE1TVDNhMHRId1RfYVZRdzJoZ252NGF1cW1ZMG9Dd3NaeVRhR00zTXQ4bk9EZHdwMFRpWDFXTjZXSkZNbkdkQkJ3YVZpbU5ZV0doXy1iQ0pjOWRHRnk2RGNHWkk1RmZ2NVFHRTJWTjNmWUNucExvQWgwMGJydG9BZUt2SmdnVXV0cFpodFFsYjFmdkdMNUZkRk5qZmJzVW8zWEFKYVBqUDZaRUgzQV9HamREVGx1NW5YbmxOMUh6LUNINUhiNVlzdUZDTjllQlBMSmc2blVMamVlcHdtTDdwR3d5VWJSTXlkbVlmelVLSDZsZ9IBjwJBVV95cUxPMzYxdnpsN2tCTkNQUUN4UHg0TE9kdldpWDhRUmpPbEsxRGRLdEpSbUF3UDdHOHFGNmFadno3MVZvUi0yWi0yWTVmNFU5R0Fwc2VYWGV6LUpmaDRyc2lUb0h1Y3Roem5xZE45TWVtVEx0VzNjS2xnRDBvNEtOUVl2azZWM0dNQUY2b2otNFNSQVFpbEZWMTRCbDVBMXVwNlBMQmJIOTYzNElVcDhlYlZ1c3hLZ1dKYXJLNnNzUkVRb0ZWeTI3cjFiU3Z3RU1tMl9PNTdocUY3MF9wMmExVlR6LUNhRk9ib1AtNWZIMGRVd2tsdi0tUUpFck1YY0xQT3k2bXE5UU5NOGcxSC1NR1FV?oc=5
-
-- When Pakistan's Javed Miandad lost his cool with India wicketkeeper - watch video - Times of India
-  When Pakistan's Javed Miandad lost his cool with India
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZ0xNRnZjOGdsYUlkbGsxS0xkSFNmZkViTlhNbElmdXByTWRUQjU1TUFMaDkyWmVkVzZBbGZlU282b2RvZmJBRTJqenk5RkxZWjNPcjBYdTlsa3VrS2pUd2hiVkNPZklNTl85enpLZ0k2b18wT0ZZN0lOVXVBaTdSU3Q4UmhTWW84OXhOUFlCUUdkaW9uVzVRbHJueUVyekJnU1JRR2lpM1dzdkdaMEVrUXBUZ3E4OTRzakVQdkFGa0VXaW1TQjBtZWlCVVYyQktqSlRjV3JfaWMzY21QQTh0UGJGRG94WEdpaGY1ME0tWEVmZ9IB9wFBVV95cUxQUTR4M21vXzRMUk9ZSGZCYVZ4R0FPdkpiRnpZWkx4cldtN3gtNGt1dkVlUVl5UVJSZlNlLWpKSDRkTGR0U0loR2hYMm5sLWlQNV85dkF2ellmbS1qWlMtZ0FCODR5WWF0WHdyVkQyaUE5eDZIZ05RN2VKSjZEbjlxM0YyaGRIUnJWQnhWVmZQc0RrOExEZmoxT0ZMRG1EUVpwSFIzcWh3Q0FzLWNPbW9oMWZnQjlRalZ6QTdMUjQ1Y0JLczdoQ2NHbEtFbXJzblBrWkdtNDFRYmZJYTVSemNVNXVxY1FReW0wZll2RThrdHZaVVpiaHd3?oc=5
-
-- Trump's envoy pick cites India's middle class, says want New Delhi to buy our oil - India Today
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFh2Y1BYWEE2OS05NkNRd1A4SWRRNVZDSDhiMm1hMkNHWFhnUzl5blF6Q0FvX3A0Q01YVExFQk4yb1k0Q0dpRFpVVlViN0V2TFN1OGtsRkhuem9lbUV6Z3pwLXJGa2hLLW
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFh2Y1BYWEE2OS05NkNRd1A4SWRRNVZDSDhiMm1hMkNHWFhnUzl5blF6Q0FvX3A0Q01YVExFQk4yb1k0Q0dpRFpVVlViN0V2TFN1OGtsRkhuem9lbUV6Z3pwLXJGa2hLLW5JTW5abldVQmg5LVd0cG5fV3BhaEFKa3o5dTBnc0JLMC1WOUpVbzE0ajlVMVdhVXNiWEZXY2gxbmxzUzJyM0pYUzFSanJ3elhQWHRhM3RwbEJWZFI4VG9DS0JhZWw2THoyRmJZa2p1bU9iUk0tSDJfZGt2dE4xONIB5gFBVV95cUxPczNudk80ekVSYzRldUd6ZmRmTDBFM2M4d1Q0aWFsUUFLaXdOb24tcUV3cGR4OWJ6QTRTT0JVWVBzY1NIblcwUnJGVjZXRHF4dGNxNkFnNXpVTmoxR0FtSVhkWFFHVURSRVBZaENnamZaNDhQTzRzVENldnBFMXRBcWl4ZnR4bUZpV1NKSFJIcXdVWDBDdEdwRGRwYUFZc211d21ZNnAzZk5PWWFWelZpRmMzcXhSVnhsQi1xYWpSVm5CZ0lFQlp1MWNtanR4aGRKWXU3RnMycVpfOGRDeEJadEo5dGhzUQ?oc=5
-
-- India's IT Sector Nervous As US Proposes 25% Outsourcing Tax - NDTV
-  India's IT Sector Nervous As
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTY3YjhBSFhhamFEOW40ZEhkNHVOd1o5V3FUeEdObDBwSnFrZlVYaGNfUFFxdmJkbElJWXkzNWVuUUdkU1RheDY4WDlkUmljMDB2ekgwaE9qdDhJeWw3RVJoX0VYZ1ROeHVXR0prTk5JaGVRVVhrdm9haWFyZFZzTHBucmNxTzlZSmM1YXpNbWVOVmVhUnA2b0lWaUxWUHI0M042allKZENhV1nSAbMBQVVfeXFMTUt4b3c1eF9FYkhhZkdVUE1VMWRWLTVFZTlxVi1vb0Roc3E3ajNadGdnbno1dTZmOS13dnQxTWdCVmc3d2Y4MnIxMnFHeXVHRnpGUzF5YmxtbDVMUk1IT2NWRENSTHFXNHkyX051RUhTdmw5YXQ2WGllV1ZOWlJIbkpDZnRoZXZsOGd1SDB3NnJoTjZScXF6elpzbklTeEgzNGpJYUlRaEZsTjZjelZZZ05EWWc?oc=5
-
-- India Vs Pakistan, Asia Cup 2025: Tickets Still Unsold As Organisers Slash Prices - News18
-  India vs Pakistan Asia Cup 2025 tickets still unsold.
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzU1VkdtU2cxSmdvTEhRQjZ5OFpTSkg3VWllMlRjVjc0aHdVMUJmM3RRNHJEcTd2Z3ZrNEZMZFUySGh3QUEyN19mY3BlVFNUT1pNWHJKUXZ6bmt4UXRzZ21TWWJaUDBQNmVRSGhjQksyQ2tJT2ZJV2RkUDRWdGNYWllzYVlZTGRpRnZ0Q1dieXlybUNoVnlUZVZJcTJqZGZWZmNoekVvX21TOGNpaFVTanJiWkt1bThrVElISVR0THXSAcYBQVVfeXFMTl90OXNlZmN0YWRiQ1BTV3YxVmxRanVkbFBRODViM0ZucUNOaF9mc3QxYVZHSERNR3poNGdqc1pXbmNGU2hfSGdJdkQwNV9IYnA2WlZIbXp4T3FKMTc4d28zd1ZIVDdjRHFHV01WM2RqcW9XT28zYUNENW9NZFpJZVFvTEU1cEo0TExYMEFaeWxtYjFfTlBjdXMyRmpIRG51eXVlY1NScWJZOU5vR2tMZWljWU1jVUh5cjJHcGhjSmpTSFhhS3BR?oc=5
-
-- Are IPL 2025 runners-up Punjab Kings boycotting India vs Pakistan in Asia Cup? Viral post sparks social media buzz - Mint
-  Are IPL 2025 runners-up Punjab Kings boycotting India vs Pakistan in Asia Cup
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxPVHB6MkZEWjVZaVRoYm5JUkIwM2IwRDhBZE1TVDNhMHRId1RfYVZRdzJoZ252NGF1cW1ZMG9Dd3NaeVRhR00zTXQ4bk9EZHdwMFRpWDFXTjZXSkZNbkdkQkJ3YVZpbU5ZV0doXy1iQ0pjOWRHRnk2RGNHWkk1RmZ2NVFHRTJWTjNmWUNucExvQWgwMGJydG9BZUt2SmdnVXV0cFpodFFsYjFmdkdMNUZkRk5qZmJzVW8zWEFKYVBqUDZaRUgzQV9HamREVGx1NW5YbmxOMUh6LUNINUhiNVlzdUZDTjllQlBMSmc2blVMamVlcHdtTDdwR3d5VWJSTXlkbVlmelVLSDZsZ9IBjwJBVV95cUxPMzYxdnpsN2tCTkNQUUN4UHg0TE9kdldpWDhRUmpPbEsxRGRLdEpSbUF3UDdHOHFGNmFadno3MVZvUi0yWi0yWTVmNFU5R0Fwc2VYWGV6LUpmaDRyc2lUb0h1Y3Roem5xZE45TWVtVEx0VzNjS2xnRDBvNEtOUVl2azZWM0dNQUY2b2otNFNSQVFpbEZWMTRCbDVBMXVwNlBMQmJIOTYzNElVcDhlYlZ1c3hLZ1dKYXJLNnNzUkVRb0ZWeTI3cjFiU3Z3RU1tMl9PNTdocUY3MF9wMmExVlR6LUNhRk9ib1AtNWZIMGRVd2tsdi0tUUpFck1YY0xQT3k2bXE5UU5NOGcxSC1NR1FV?oc=5
-
-- When Pakistan's Javed Miandad lost his cool with India wicketkeeper - watch video - Times of India
-  When Pakistan's Javed Miandad lost his cool with India
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZ0xNRnZjOGdsYUlkbGsxS0xkSFNmZkViTlhNbElmdXByTWRUQjU1TUFMaDkyWmVkVzZBbGZlU282b2RvZmJBRTJqenk5RkxZWjNPcjBYdTlsa3VrS2pUd2hiVkNPZklNTl85enpLZ0k2b18wT0ZZN0lOVXVBaTdSU3Q4UmhTWW84OXhOUFlCUUdkaW9uVzVRbHJueUVyekJnU1JRR2lpM1dzdkdaMEVrUXBUZ3E4OTRzakVQdkFGa0VXaW1TQjBtZWlCVVYyQktqSlRjV3JfaWMzY21QQTh0UGJGRG94WEdpaGY1ME0tWEVmZ9IB9wFBVV95cUxQUTR4M21vXzRMUk9ZSGZCYVZ4R0FPdkpiRnpZWkx4cldtN3gtNGt1dkVlUVl5UVJSZlNlLWpKSDRkTGR0U0loR2hYMm5sLWlQNV85dkF2ellmbS1qWlMtZ0FCODR5WWF0WHdyVkQyaUE5eDZIZ05RN2VKSjZEbjlxM0YyaGRIUnJWQnhWVmZQc0RrOExEZmoxT0ZMRG1EUVpwSFIzcWh3Q0FzLWNPbW9oMWZnQjlRalZ6QTdMUjQ1Y0JLczdoQ2NHbEtFbXJzblBrWkdtNDFRYmZJYTVSemNVNXVxY1FReW0wZll2RThrdHZaVVpiaHd3?oc=5
-
-- Trump's envoy pick cites India's middle class, says want New Delhi to buy our oil - India Today
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFh2Y1BYWEE2OS05NkNRd1A4SWRRNVZDSDhiMm1hMkNHWFhnUzl5blF6Q0FvX3A0Q01YVExFQk4yb1k0Q0dpRFpVVlViN0V2TFN1OGtsRkhuem9lbUV6Z3pwLXJGa2hLLW
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFh2Y1BYWEE2OS05NkNRd1A4SWRRNVZDSDhiMm1hMkNHWFhnUzl5blF6Q0FvX3A0Q01YVExFQk4yb1k0Q0dpRFpVVlViN0V2TFN1OGtsRkhuem9lbUV6Z3pwLXJGa2hLLW5JTW5abldVQmg5LVd0cG5fV3BhaEFKa3o5dTBnc0JLMC1WOUpVbzE0ajlVMVdhVXNiWEZXY2gxbmxzUzJyM0pYUzFSanJ3elhQWHRhM3RwbEJWZFI4VG9DS0JhZWw2THoyRmJZa2p1bU9iUk0tSDJfZGt2dE4xONIB5gFBVV95cUxPczNudk80ekVSYzRldUd6ZmRmTDBFM2M4d1Q0aWFsUUFLaXdOb24tcUV3cGR4OWJ6QTRTT0JVWVBzY1NIblcwUnJGVjZXRHF4dGNxNkFnNXpVTmoxR0FtSVhkWFFHVURSRVBZaENnamZaNDhQTzRzVENldnBFMXRBcWl4ZnR4bUZpV1NKSFJIcXdVWDBDdEdwRGRwYUFZc211d21ZNnAzZk5PWWFWelZpRmMzcXhSVnhsQi1xYWpSVm5CZ0lFQlp1MWNtanR4aGRKWXU3RnMycVpfOGRDeEJadEo5dGhzUQ?oc=5
-
-- India's IT Sector Nervous As US Proposes 25% Outsourcing Tax - NDTV
-  India's IT Sector Nervous As
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTY3YjhBSFhhamFEOW40ZEhkNHVOd1o5V3FUeEdObDBwSnFrZlVYaGNfUFFxdmJkbElJWXkzNWVuUUdkU1RheDY4WDlkUmljMDB2ekgwaE9qdDhJeWw3RVJoX0VYZ1ROeHVXR0prTk5JaGVRVVhrdm9haWFyZFZzTHBucmNxTzlZSmM1YXpNbWVOVmVhUnA2b0lWaUxWUHI0M042allKZENhV1nSAbMBQVVfeXFMTUt4b3c1eF9FYkhhZkdVUE1VMWRWLTVFZTlxVi1vb0Roc3E3ajNadGdnbno1dTZmOS13dnQxTWdCVmc3d2Y4MnIxMnFHeXVHRnpGUzF5YmxtbDVMUk1IT2NWRENSTHFXNHkyX051RUhTdmw5YXQ2WGllV1ZOWlJIbkpDZnRoZXZsOGd1SDB3NnJoTjZScXF6elpzbklTeEgzNGpJYUlRaEZsTjZjelZZZ05EWWc?oc=5
-
-- India Vs Pakistan, Asia Cup 2025: Tickets Still Unsold As Organisers Slash Prices - News18
-  India vs Pakistan Asia Cup 2025 tickets still unsold.
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzU1VkdtU2cxSmdvTEhRQjZ5OFpTSkg3VWllMlRjVjc0aHdVMUJmM3RRNHJEcTd2Z3ZrNEZMZFUySGh3QUEyN19mY3BlVFNUT1pNWHJKUXZ6bmt4UXRzZ21TWWJaUDBQNmVRSGhjQksyQ2tJT2ZJV2RkUDRWdGNYWllzYVlZTGRpRnZ0Q1dieXlybUNoVnlUZVZJcTJqZGZWZmNoekVvX21TOGNpaFVTanJiWkt1bThrVElISVR0THXSAcYBQVVfeXFMTl90OXNlZmN0YWRiQ1BTV3YxVmxRanVkbFBRODViM0ZucUNOaF9mc3QxYVZHSERNR3poNGdqc1pXbmNGU2hfSGdJdkQwNV9IYnA2WlZIbXp4T3FKMTc4d28zd1ZIVDdjRHFHV01WM2RqcW9XT28zYUNENW9NZFpJZVFvTEU1cEo0TExYMEFaeWxtYjFfTlBjdXMyRmpIRG51eXVlY1NScWJZOU5vR2tMZWljWU1jVUh5cjJHcGhjSmpTSFhhS3BR?oc=5
-
-- Are IPL 2025 runners-up Punjab Kings boycotting India vs Pakistan in Asia Cup? Viral post sparks social media buzz - Mint
-  Are IPL 2025 runners-up Punjab Kings boycotting India vs Pakistan in Asia Cup
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxPVHB6MkZEWjVZaVRoYm5JUkIwM2IwRDhBZE1TVDNhMHRId1RfYVZRdzJoZ252NGF1cW1ZMG9Dd3NaeVRhR00zTXQ4bk9EZHdwMFRpWDFXTjZXSkZNbkdkQkJ3YVZpbU5ZV0doXy1iQ0pjOWRHRnk2RGNHWkk1RmZ2NVFHRTJWTjNmWUNucExvQWgwMGJydG9BZUt2SmdnVXV0cFpodFFsYjFmdkdMNUZkRk5qZmJzVW8zWEFKYVBqUDZaRUgzQV9HamREVGx1NW5YbmxOMUh6LUNINUhiNVlzdUZDTjllQlBMSmc2blVMamVlcHdtTDdwR3d5VWJSTXlkbVlmelVLSDZsZ9IBjwJBVV95cUxPMzYxdnpsN2tCTkNQUUN4UHg0TE9kdldpWDhRUmpPbEsxRGRLdEpSbUF3UDdHOHFGNmFadno3MVZvUi0yWi0yWTVmNFU5R0Fwc2VYWGV6LUpmaDRyc2lUb0h1Y3Roem5xZE45TWVtVEx0VzNjS2xnRDBvNEtOUVl2azZWM0dNQUY2b2otNFNSQVFpbEZWMTRCbDVBMXVwNlBMQmJIOTYzNElVcDhlYlZ1c3hLZ1dKYXJLNnNzUkVRb0ZWeTI3cjFiU3Z3RU1tMl9PNTdocUY3MF9wMmExVlR6LUNhRk9ib1AtNWZIMGRVd2tsdi0tUUpFck1YY0xQT3k2bXE5UU5NOGcxSC1NR1FV?oc=5
-
-- When Pakistan's Javed Miandad lost his cool with India wicketkeeper - watch video - Times of India
-  When Pakistan's Javed Miandad lost his cool with India
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZ0xNRnZjOGdsYUlkbGsxS0xkSFNmZkViTlhNbElmdXByTWRUQjU1TUFMaDkyWmVkVzZBbGZlU282b2RvZmJBRTJqenk5RkxZWjNPcjBYdTlsa3VrS2pUd2hiVkNPZklNTl85enpLZ0k2b18wT0ZZN0lOVXVBaTdSU3Q4UmhTWW84OXhOUFlCUUdkaW9uVzVRbHJueUVyekJnU1JRR2lpM1dzdkdaMEVrUXBUZ3E4OTRzakVQdkFGa0VXaW1TQjBtZWlCVVYyQktqSlRjV3JfaWMzY21QQTh0UGJGRG94WEdpaGY1ME0tWEVmZ9IB9wFBVV95cUxQUTR4M21vXzRMUk9ZSGZCYVZ4R0FPdkpiRnpZWkx4cldtN3gtNGt1dkVlUVl5UVJSZlNlLWpKSDRkTGR0U0loR2hYMm5sLWlQNV85dkF2ellmbS1qWlMtZ0FCODR5WWF0WHdyVkQyaUE5eDZIZ05RN2VKSjZEbjlxM0YyaGRIUnJWQnhWVmZQc0RrOExEZmoxT0ZMRG1EUVpwSFIzcWh3Q0FzLWNPbW9oMWZnQjlRalZ6QTdMUjQ1Y0JLczdoQ2NHbEtFbXJzblBrWkdtNDFRYmZJYTVSemNVNXVxY1FReW0wZll2RThrdHZaVVpiaHd3?oc=5
-
-- Trump's envoy pick cites India's middle class, says want New Delhi to buy our oil - India Today
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFh2Y1BYWEE2OS05NkNRd1A4SWRRNVZDSDhiMm1hMkNHWFhnUzl5blF6Q0FvX3A0Q01YVExFQk4yb1k0Q0dpRFpVVlViN0V2TFN1OGtsRkhuem9lbUV6Z3pwLXJGa2hLLW
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFh2Y1BYWEE2OS05NkNRd1A4SWRRNVZDSDhiMm1hMkNHWFhnUzl5blF6Q0FvX3A0Q01YVExFQk4yb1k0Q0dpRFpVVlViN0V2TFN1OGtsRkhuem9lbUV6Z3pwLXJGa2hLLW5JTW5abldVQmg5LVd0cG5fV3BhaEFKa3o5dTBnc0JLMC1WOUpVbzE0ajlVMVdhVXNiWEZXY2gxbmxzUzJyM0pYUzFSanJ3elhQWHRhM3RwbEJWZFI4VG9DS0JhZWw2THoyRmJZa2p1bU9iUk0tSDJfZGt2dE4xONIB5gFBVV95cUxPczNudk80ekVSYzRldUd6ZmRmTDBFM2M4d1Q0aWFsUUFLaXdOb24tcUV3cGR4OWJ6QTRTT0JVWVBzY1NIblcwUnJGVjZXRHF4dGNxNkFnNXpVTmoxR0FtSVhkWFFHVURSRVBZaENnamZaNDhQTzRzVENldnBFMXRBcWl4ZnR4bUZpV1NKSFJIcXdVWDBDdEdwRGRwYUFZc211d21ZNnAzZk5PWWFWelZpRmMzcXhSVnhsQi1xYWpSVm5CZ0lFQlp1MWNtanR4aGRKWXU3RnMycVpfOGRDeEJadEo5dGhzUQ?oc=5
-
-- India's IT Sector Nervous As US Proposes 25% Outsourcing Tax - NDTV
-  India's IT Sector Nervous As
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTY3YjhBSFhhamFEOW40ZEhkNHVOd1o5V3FUeEdObDBwSnFrZlVYaGNfUFFxdmJkbElJWXkzNWVuUUdkU1RheDY4WDlkUmljMDB2ekgwaE9qdDhJeWw3RVJoX0VYZ1ROeHVXR0prTk5JaGVRVVhrdm9haWFyZFZzTHBucmNxTzlZSmM1YXpNbWVOVmVhUnA2b0lWaUxWUHI0M042allKZENhV1nSAbMBQVVfeXFMTUt4b3c1eF9FYkhhZkdVUE1VMWRWLTVFZTlxVi1vb0Roc3E3ajNadGdnbno1dTZmOS13dnQxTWdCVmc3d2Y4MnIxMnFHeXVHRnpGUzF5YmxtbDVMUk1IT2NWRENSTHFXNHkyX051RUhTdmw5YXQ2WGllV1ZOWlJIbkpDZnRoZXZsOGd1SDB3NnJoTjZScXF6elpzbklTeEgzNGpJYUlRaEZsTjZjelZZZ05EWWc?oc=5
-
-- India Vs Pakistan, Asia Cup 2025: Tickets Still Unsold As Organisers Slash Prices - News18
-  India vs Pakistan Asia Cup 2025 tickets still unsold.
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzU1VkdtU2cxSmdvTEhRQjZ5OFpTSkg3VWllMlRjVjc0aHdVMUJmM3RRNHJEcTd2Z3ZrNEZMZFUySGh3QUEyN19mY3BlVFNUT1pNWHJKUXZ6bmt4UXRzZ21TWWJaUDBQNmVRSGhjQksyQ2tJT2ZJV2RkUDRWdGNYWllzYVlZTGRpRnZ0Q1dieXlybUNoVnlUZVZJcTJqZGZWZmNoekVvX21TOGNpaFVTanJiWkt1bThrVElISVR0THXSAcYBQVVfeXFMTl90OXNlZmN0YWRiQ1BTV3YxVmxRanVkbFBRODViM0ZucUNOaF9mc3QxYVZHSERNR3poNGdqc1pXbmNGU2hfSGdJdkQwNV9IYnA2WlZIbXp4T3FKMTc4d28zd1ZIVDdjRHFHV01WM2RqcW9XT28zYUNENW9NZFpJZVFvTEU1cEo0TExYMEFaeWxtYjFfTlBjdXMyRmpIRG51eXVlY1NScWJZOU5vR2tMZWljWU1jVUh5cjJHcGhjSmpTSFhhS3BR?oc=5
-
-- Are IPL 2025 runners-up Punjab Kings boycotting India vs Pakistan in Asia Cup? Viral post sparks social media buzz - Mint
-  Are IPL 2025 runners-up Punjab Kings boycotting India vs Pakistan in Asia Cup
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxPVHB6MkZEWjVZaVRoYm5JUkIwM2IwRDhBZE1TVDNhMHRId1RfYVZRdzJoZ252NGF1cW1ZMG9Dd3NaeVRhR00zTXQ4bk9EZHdwMFRpWDFXTjZXSkZNbkdkQkJ3YVZpbU5ZV0doXy1iQ0pjOWRHRnk2RGNHWkk1RmZ2NVFHRTJWTjNmWUNucExvQWgwMGJydG9BZUt2SmdnVXV0cFpodFFsYjFmdkdMNUZkRk5qZmJzVW8zWEFKYVBqUDZaRUgzQV9HamREVGx1NW5YbmxOMUh6LUNINUhiNVlzdUZDTjllQlBMSmc2blVMamVlcHdtTDdwR3d5VWJSTXlkbVlmelVLSDZsZ9IBjwJBVV95cUxPMzYxdnpsN2tCTkNQUUN4UHg0TE9kdldpWDhRUmpPbEsxRGRLdEpSbUF3UDdHOHFGNmFadno3MVZvUi0yWi0yWTVmNFU5R0Fwc2VYWGV6LUpmaDRyc2lUb0h1Y3Roem5xZE45TWVtVEx0VzNjS2xnRDBvNEtOUVl2azZWM0dNQUY2b2otNFNSQVFpbEZWMTRCbDVBMXVwNlBMQmJIOTYzNElVcDhlYlZ1c3hLZ1dKYXJLNnNzUkVRb0ZWeTI3cjFiU3Z3RU1tMl9PNTdocUY3MF9wMmExVlR6LUNhRk9ib1AtNWZIMGRVd2tsdi0tUUpFck1YY0xQT3k2bXE5UU5NOGcxSC1NR1FV?oc=5
-
-- When Pakistan's Javed Miandad lost his cool with India wicketkeeper - watch video - Times of India
-  When Pakistan's Javed Miandad lost his cool with India
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZ0xNRnZjOGdsYUlkbGsxS0xkSFNmZkViTlhNbElmdXByTWRUQjU1TUFMaDkyWmVkVzZBbGZlU282b2RvZmJBRTJqenk5RkxZWjNPcjBYdTlsa3VrS2pUd2hiVkNPZklNTl85enpLZ0k2b18wT0ZZN0lOVXVBaTdSU3Q4UmhTWW84OXhOUFlCUUdkaW9uVzVRbHJueUVyekJnU1JRR2lpM1dzdkdaMEVrUXBUZ3E4OTRzakVQdkFGa0VXaW1TQjBtZWlCVVYyQktqSlRjV3JfaWMzY21QQTh0UGJGRG94WEdpaGY1ME0tWEVmZ9IB9wFBVV95cUxQUTR4M21vXzRMUk9ZSGZCYVZ4R0FPdkpiRnpZWkx4cldtN3gtNGt1dkVlUVl5UVJSZlNlLWpKSDRkTGR0U0loR2hYMm5sLWlQNV85dkF2ellmbS1qWlMtZ0FCODR5WWF0WHdyVkQyaUE5eDZIZ05RN2VKSjZEbjlxM0YyaGRIUnJWQnhWVmZQc0RrOExEZmoxT0ZMRG1EUVpwSFIzcWh3Q0FzLWNPbW9oMWZnQjlRalZ6QTdMUjQ1Y0JLczdoQ2NHbEtFbXJzblBrWkdtNDFRYmZJYTVSemNVNXVxY1FReW0wZll2RThrdHZaVVpiaHd3?oc=5
+- India announces $680 million to boost Mauritius infrastructure - Times of India
+  India announces $680 million to boost Maurit
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTGs2SElDaFRrR1M2Yl9HekZTUjB4elFoWWctOWNpZTNrTmJmaEFTQXpSYkpQN081TG0xQ1ptWWRKRzk2OHFMTWF3LW1YX3N3SGg3OHNtSk5vZ0FfLVpQalFua1BOWi16SGpyNWlwOWRFQlloNjdadDRDdkhUYmoyRU9UblBQM05oYzZRcWtjSnRKdWFWcVZQOFBuNFlRUE9DQ19ZTWRGTldyTzdwUXdfTFU0bFR0TTJkeU9tWkU2S2NmRW1OSUh3d9IBzgFBVV95cUxQVWpMWmFDbXc1al83NEt2RXlyYTNNbkJjeXN6U1FoUFF1YTRsMmZCaUNWVlVQRDVJM09OSUtSb0J4YWhONk44S3dIRTZDMlZiLXRUa2txVURERmx2ZWZZUngtRm11dmI0U08tV0szUVlKanNSeEZDMlZBUXZxMzhSR2FYbU54XzUzcXZVcGFOUGpzdElLY2h2bDlSS0N1VDBiZ1NVLWFORmV6RW9HaWI5VHQ2b2RZVTdCMXFoVExTUTJZTXQzbzFwNnl3UkVzZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-12 12:32:33 UTC_
+_Last updated: 2025-09-12 18:22:23 UTC_
