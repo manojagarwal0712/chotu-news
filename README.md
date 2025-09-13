@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Amid rising man-animal conflict, Kerala Cabinet proposes key changes to Wildlife Protection Act
+- ‘One Village, One Library’: Gadchiroli Police transform Maoist stronghold with 72nd library
   
-  🔗 https://indianexpress.com/article/india/amid-rising-man-animal-conflict-kerala-cabinet-proposes-changes-wildlife-protection-act-10247910/
+  🔗 https://indianexpress.com/article/india/one-village-one-library-gadchiroli-police-transform-maoist-stronghold-with-72nd-library-10248304/
 
-- ‘Clear signal of a new dawn’: From Manipur, PM Modi hails Nepal’s youth, congratulates Sushila Karki
+- IAS officer Shilpa Shinde appointed new CMD of WAPCOS
   
-  🔗 https://indianexpress.com/article/india/new-dawn-manipur-pm-modi-nepal-youth-sushila-karki-10247843/
+  🔗 https://indianexpress.com/article/india/ias-officer-shilpa-shinde-new-wapcos-cmd-10248281/
 
-- EC asserts authority over SIR timing, tells SC it has ‘complete discretion’ on electoral roll revisions
+- Lok Sabha Speaker Om Birla calls for end to legislative deadlocks at Bengaluru conference
   
-  🔗 https://indianexpress.com/article/india/ec-asserts-authority-over-sir-timing-tells-sc-it-has-complete-discretion-on-electoral-roll-revisions-10247799/
+  🔗 https://indianexpress.com/article/india/lok-sabha-speaker-om-birla-calls-for-end-to-legislative-deadlocks-at-bengaluru-conference-10248200/
 
-- Jogbani-Erode Amrit Bharat Express train: Check route, travel time, stoppages, timings
+- Key message in Modi’s two speeches, 60 kilometres apart: Future belongs to Manipur, can’t let past bury it
   
-  🔗 https://indianexpress.com/article/india/jogbani-erode-amrit-bharat-express-check-route-travel-time-stoppages-timings-10247594/
+  🔗 https://indianexpress.com/article/india/key-message-modi-two-speeches-60-km-apart-future-belongs-to-manipur-10248198/
 
-- Jogbani-Danapur Vande Bharat train: Check route, travel time, stoppages, timings, ticket price
+- ‘Unauthorised’ houses of two accused in Bhopal college rape case demolished
   
-  🔗 https://indianexpress.com/article/india/jogbani-danapur-vande-bharat-train-route-travel-time-stops-ticket-price-10247524/
+  🔗 https://indianexpress.com/article/india/unauthorised-houses-of-two-accused-in-bhopal-college-rape-case-demolished-10248110/
+
+- Musk’s xAI lays off hundreds of data annotators, Business Insider reports
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/musks-xai-lays-off-hundreds-of-data-annotators-business-insider-reports-10248039/
+
+- Amazon Great Indian Festival 2025 early deals: 5 best offers live now
+  
+  🔗 https://indianexpress.com/article/technology/amazon-great-indian-festival-2025-early-deals-5-best-offers-live-now-10247933/
+
+- OpenAI launches ‘Grove’ programme to mentor AI Entrepreneurs
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-launches-grove-programme-to-mentor-ai-entrepreneurs-10247983/
 
 - This lesser known Google Play Store trick can save you hours
   
@@ -27,18 +39,6 @@
 - Sony ULT Field 5 Review: Thumping bass and premium design for music lovers
   
   🔗 https://indianexpress.com/article/technology/tech-reviews/sony-ult-field-5-review-10247612/
-
-- 5 compact mirrorless cameras for travel and vlogging in 2025
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/5-compact-mirrorless-cameras-for-travel-and-vlogging-in-2025-10247604/
-
-- WhatsApp is testing threaded replies for chats: Here’s what it looks like
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-new-feature-chat-thread-10247361/
-
-- In the iPhone Air, indicators that Apple is rising up to the foldable challenge
-  
-  🔗 https://indianexpress.com/article/technology/opinion-technology/in-the-iphone-air-indicators-that-apple-is-rising-up-to-the-foldable-challenge-10247301/
 
 - Young and rich: From Oyo's Agarwal to Zepto's Palicha-Vohra duo — meet India's 2025 top 10 unicorn founders under 35
   ASK Private Wealth and Hurun India's unicorn report lists 73 startups for 2025, along with 150 potential future unicorns. We take a look at
@@ -60,25 +60,25 @@
   Ahmed Shahrour was informed of his suspension after posting on Slack. He criticised Project Nimbus, a $1.2 billion contract with the Israeli government.
   🔗 https://www.livemint.com/companies/news/amazon-suspends-palestinian-engineer-after-criticism-over-israel-ties-he-says-i-am-left-with-no-choice-but-to-resist-11757725213503.html
 
+- Dividend Stocks: IGL, Dixon Tech, Mazagon Dock, among others to trade ex-dividend next week — Check details here
+  Indraprastha Gas (IGL), Dixon Tech, Mazagon Dock, Aarti Pharmalabs, Panasonic Energy India, and Honda India Power
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-igl-dixon-tech-mazagon-dock-among-others-to-trade-ex-dividend-next-week-check-details-here-11757771567737.html
+
+- 250% rally in six months! Small-cap multibagger stock hits upper circuit for 65 days in a row
+  Shares have hit upper circuit for 65 days in a row and the warrants conversion move.
+  🔗 https://www.livemint.com/market/stock-market-news/250-rally-in-six-months-small-cap-multibagger-stock-hits-upper-circuit-for-65-days-in-a-row-11757766099572.html
+
 - Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
   Mehul Kothari of Anand Rathi recommends three shares to buy or sell. Mangalore Refinery and Petro
   🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11757756998532.html
 
-- What does Trump's visit to India mean for the Indian stock market? 20 stocks to benefit
+- What does Trump's likely visit to India mean for the Indian stock market? 20 stocks to benefit
   Trump's potential visit to India in November 2025, hinted by his
   🔗 https://www.livemint.com/market/stock-market-news/what-does-trumps-visit-to-india-mean-for-the-indian-stock-market-20-stocks-to-benefit-11757755286716.html
 
 - Upcoming IPO: Modern Diagnostic &amp; Research Centre gets BSE nod to file DRHP for SME IPO
   Modern Diagnostic &amp;amp; Research Centre Limited has gained BSE approval to file draft papers for an IPO
   🔗 https://www.livemint.com/market/ipo/upcoming-ipo-modern-diagnostic-research-centre-gets-bse-nod-to-file-drhp-for-sme-ipo-11757751144769.html
-
-- US Fed rate cut, India-US trade deal to Trump's visit to India: Five triggers that may dominate Indian stock market next
-  US Fed rate cut, Donald Trump's visit to India, India-US trade deal, and FII trade pattern may dominate Dalal Street next
-  🔗 https://www.livemint.com/market/stock-market-news/us-fed-rate-cut-india-us-trade-deal-to-trumps-visit-to-india-five-triggers-that-may-dominate-indian-stock-market-next-11757750789452.html
-
-- LIC-owned NBFC stock to be in focus on Monday; here's why
-  Paisalo Digital's shares are in focus as the FCCB Committee meets on September 17 to discuss equity share allotment. The promoter
-  🔗 https://www.livemint.com/market/stock-market-news/licowned-nbfc-stock-to-be-in-focus-on-monday-heres-why-11757745249799.html
 
 - Setback for Apple? Key AI head executive Robby Walker could leave amid delays to Siri upgrade
   Robby Walker is reportedly set to leave next month after over a decade at the company. His exit follows delays in Apple’s AI rollout and a string of departures to Meta.
@@ -100,26 +100,6 @@
   Amazfit smartwatches are on sale at up to 65% off. Choose from fitness
   🔗 https://www.livemint.com/technology/gadgets/massive-price-drop-on-amazfit-smartwatches-on-amazon-with-up-to-65-off-11757671670362.html
 
-- Markets News, Sep. 12, 2025: Dow Slips as Nasdaq Closes at Fresh Record; Tesla Leads Tech Stocks Higher - Investopedia
-  <ol><li><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBfSXFEa3dmSGNxNlJXbHRvMTF2LUUtODBKMFE2TzBhMWx5SGFUY2NrSFM0RFN1anNYVGZwQ2RXcWtHTlF1aFNUa2liTk5qUFMzVVpaR2J1YWdYakhoUEwzZEdWZFJicHRLQU
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBfSXFEa3dmSGNxNlJXbHRvMTF2LUUtODBKMFE2TzBhMWx5SGFUY2NrSFM0RFN1anNYVGZwQ2RXcWtHTlF1aFNUa2liTk5qUFMzVVpaR2J1YWdYakhoUEwzZEdWZFJicHRLQUdsRXBZQQ?oc=5
-
-- US Funding Markets Enter New Era of Volatility Amid Rising Costs - Mint
-  US Funding Markets Enter New Era of Volatility
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPZmlpWHY1U3pFRHdLb2hGX2RNblQyU1U0RDBTLXN6NGN2N0UzLXhmVW1nSEdURmhhem1aYXFqTTIzejBUVlBHcFQ3aWVoR19nZDJxalJaWnNJUG1iWWt1YTZLTHplMU1JcVl2TVJxRk1MMkI1WTRBdU1jQ0otbVZaNjlGa3diOVU5U3FHcWtiM0xjUTJPQVdET3N0M1MwSmFiamVSNVcwR0J1T3JEd29TR0hBZEpJMjl6RDJxUnRTbnloWHNhUTdvZGxEM25ad1XSAdQBQVVfeXFMTUJKdERJejNNaG5xZUU5RGNpOUxWQzBmUWRaOEc2STVFN3JzVUJVLTZNZHN0X29hdkFua0hVRENGNVoyQklSbnBVNjVGNkJxUjJYOF9zaHVwS0UyNWVwdjNmekVsdFdtQ1RzUkRZSy12N3J4bzdfRFhBMldVSnB3dmRiVmxZem9nUk9GMzBZUTVoOHE1Y1pZSmt2Q0lRUFFPNXNPZ1RBeU9IOHROYk0xbUV1VTRGTE5LT0RPVkVIdVlQRkV0OExTR3ZoTFFTRUlldTF4cDQ?oc=5
-
-- Indian markets eye rally on GST cuts, trade hopes & AI, defence boom: Ajay Bagga - The Economic Times
-  Indian markets eye rally on GST cuts, trade hopes & AI, defence boom
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZzIyQldCWkVVZmdZSHhzVmFqRWVHbm52aHZBc0thdmwxZHNTejZsV29MYVlZZllmS0VwV1JwQ2pvcWRTbHNTMVN6R0JHUDRPdkhPRDVaQWpUcm0tcFRHWGh2RzNPVDQwYU9YQUozMWxacUtUVGJmWVBzbk1UczBJdVFnay1TRWhIeGFPRG5wSGpZRmZMNXZGNTRpcXByWllodFlzLTc2a2hOYWFHTnB6MDNFN2k4ajJBMUMxT19YWXpHM3lzSFpId0xzMGRsQnpLaHI2Y082VEh5MnE3dW9rRGt3UdIB6AFBVV95cUxPRGVKczVjUDEtMnV3OEVYaDA4RnJ5emFKUmM1UlpEYjl6RWFqTDRwenFWNkkyUUxuMno1ZVpHVWstX0FiOUxmb3RXWHZKVHFkaFhUYWJ0Nkd6YnN5Ti1kblFoY3I0ZWJLbl9DNk1RcDdQRlFnZ1dtTEktQVhVN3RqZDZMS19rZ0tRSHNWdUJyeS1ubkk3ZC1BdjhNTkpUeG5najNyWkw3b0F6S3VCMnpCRVM2Y0RoT0ZwYm42b2ctSVR4VWt4TWRNbUZaNmQ3OHBnbU1EbFRXNVNJQWtUTE8wMkVLQVpNNFBV?oc=5
-
-- Markets eye Fed rate cut as gold stays near all-time high - Reuters
-  Markets eye Fed rate cut as gold stays
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGZtTDJ5RlFjSHp2S0lkeGI5Sk80c0pDNFJkSnBqUjNuLUdCRURab05wRndiekZ0NW81ZUFReFIxZjZYN09DUXdkSFlxLU5mT25CM0NIOEctbWZ2OUE5WWRYQjFDLU1XZFZCYS1SRGttRkJWZ19jV19zZXJNZXNmWExOVWt3cHFlMlYtb3M4Sm9TbXN1SGhSSS1mVTlyRno1S0xRMw?oc=5
-
-- Daily Voice: Fed rate cut, not India–US trade deal, may drive market rally, says this portfolio manager - Moneycontrol
-  Moneycontrol.com is a money management firm based in New York. It
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOC1ZVk4xWlJ1NDNYN1pqRndfZFg1WDlucU5qYWpfbW9wSl9HZkFCSU9ONTlybXowalRMZFlPV2lOOFVYU3hsdnhodk40U2p3cmpQQ3B2YjJKNTkzVXF6d09CTnNEcHRDaFFYazg0NE1CWTFJR1RaWWVaNUxuWTdQUkFFNHh2Mm1PcnlLMHlzWmJTa0V1b2dwOUtrREFVa0M1Nzh1NjI1YWNCcXBELTVYRk9LUFVJOUJYb1JJRk5mWFRTREk3Tzl5ZUFpV2QzRGlEQURINXRCcE5fd29YV1F4MVpzNWNod19JRTdkaXZZZjQwZFBDWmM40gH8AUFVX3lxTE5BS0QyYU9xd2xjMGJtZlNQam1qLTRVT1RyODBraDRiSTl0c2V4MWxIeU5LZDhGVUF1UExON1NyaWZzVGVXbERCTXVHTV9pYmRpZjVRbkpXdS1BeExaSXd3NWNDQjZNTU01enQxUkFESUgweVowemRIR0Y2S0dEemlyaGJXV05LdWFfRDA2U2NvXzB6TWNmOUZZRGRfQUF3UWt0NFB4NUNnTERSVk9jQXVLdl9ISUF4QjQ4ZVZfWVRkdU11WnlKbnVPX2p1ZEtiblZPVTR1VjA2d1ZMQWd2MElYbkJaamJUcy1uVUxla256aFFrS1hRYTJDbHk3ag?oc=5
-
 - Indian markets eye rally on GST cuts, trade hopes &amp; AI, defence boom: Ajay Bagga
   Indian markets ended the week strongly, driven by GST cuts, hopes of US tariff concessions, and earnings recovery. Ajay Bagga highlights global liquidity, Fed rate cut expectations
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-markets-eye-rally-on-gst-cuts-trade-hopes-ai-defence-boom-ajay-bagga/articleshow/123869035.cms
@@ -140,85 +120,65 @@
   Sebi has cancelled the registration of Shilpa Garg’s Highlight Investment Research for fraud and mis-selling. Garg promised astronomical returns
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/invest-rs-30000-get-assured-rs-24-lakh-daily-an-offer-that-got-an-investment-advisor-barred-by-sebi/articleshow/123867523.cms
 
-- High Political Pitch, Boycott Calls Ahead Of India vs Pak Asia Cup Face-Off - NDTV
-  .com: India vs Pak Asia Cup 2014
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTBDS2ZEb3B4ZWZrQkFiVTVOeno0b2o4S210WDYzM0k5bU1ORDV3b282Vm51dnN0RUFNZVVqeFliSmpWUkh4bHlZdDlLN05LU2FoWFJZNzU3dnBoT1gwVVQyYU9fYnZYb3VidDR0SFB5dEotNWozTGZOMjZIMXVOWEFMMjl0c2ItRUp0dmVlQ1BMb0lMd1FtRUl0S1VyWVpaX2Nxb0tYMXc1OU4zcjZyQ3FyanNJdk8wbXM40gHDAUFVX3lxTE9sRjI0cDBFTkVfT19yMmdTVklhSkV0UUFoYVBCbmlSUEdkOXZfLWhxSGJSZk1UeDE0YjFqeS1rNF9MS3d3VHV6RG5RMFNBRHJPbkFONTdEc0pROF92N2FsXzItejNyYzgyNU0wQmJkTkljdVMtTW5iY2JKcVlNVHBaOE9uWC1kbFZMczVWWTlfc3pWd240c3VEcnRMR2hDVUVWSnpHTDdpWTg5NlZJT2dJbzNDUS0zSVcwSVUxb3BBc0ZWVQ?oc=5
+- After IPL franchise, now PSL team boycotts India vs Pakistan in tit-for-tat move - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWlHRjgtTk1fMFkycjhCUmdEa294bjZvSWl2ZWNNZmZjUFRsdEhVdVdUMThzWkk3VFhsOEh4WlFfZUhHYWxsU3pQUTlLbHByRFczUl9zckF5UGhJbFBhc1lyXzhaRGlTRF
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWlHRjgtTk1fMFkycjhCUmdEa294bjZvSWl2ZWNNZmZjUFRsdEhVdVdUMThzWkk3VFhsOEh4WlFfZUhHYWxsU3pQUTlLbHByRFczUl9zckF5UGhJbFBhc1lyXzhaRGlTRFpGZWkzYXpoTHEtdkp1ekt0SWcxSU9NZUdJVDYwUVBLX01DdzJsaFdxbEZiTHpPOTh1aTNZZ3Y5ZFpVaWhJa2R0aTUwWmU5RlF5MWZaRUxaYXh6dndCRzVCNkRydWxwSlNEbWYyMS00VGdXbDk1S2kxa3JyUXJJYmdhQ1J2X3NsdXZpZS1EQ2N0M0XSAfgBQVVfeXFMTUtMaXVoWTBQZ3NaUnBZOUU0dF9jUnJZZVozNFcyYjlDSnl1WVgyekJQbURTYWxPVHVEa0FiNnVCaTQ1TEU2LUdwdkUtZEM1TzVQVDVhc2FHb1VaUTA4c0ZSMzNGV0g2X0FrdWMzN1pHdnF2S3k2X1lPVXRsUWNraXhTMm9ObzU0bWN6ZU52T2dXVl9XMHFYSVpvNFRtUDZHVWR5SlRYcmxMby1pUjVKWkJUVVFralFrbFhrYlZBbHl3MjNPZnpvaTQ4UEdROWF4d0d4RUluYjBJc2wtZTc5bDZlSDA5R3pvWEx3RzNqWnc2Z2FTeE9Gamw?oc=5
 
-- PM Modi's first reaction as Sushila Karki becomes Nepal’s interim Prime Minister: ‘India remains…’ | Latest News India - Hindustan Times
-  PM Modi's first reaction as Sushila Karki becomes Nepal’s
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxORnhIMDhkdnEtUGt5NzFwUEl2OU4xbW05NjBVZHpzcUthVHR1NFRTSVF5T1paNW50N29qekR3dkFMbkdEZWxzYUNMUXhzelU4bEo4T2dWSS1ZLWdRbHVOR1Vtc0lNQkY1d1FYdkRaS0tWUTI0eS1GRFJ0WmZzRHcyRkp5V08yTHdEWjJfNnR1TmF5NkpmdmhlbnFHYnZia0ItbUVlVmNSSmRveUlkZVVLSzJUdzctUkhXUHlaM1YwbmlpX1RPb0xpNDRkSFBfN3BSaUJrU2NBNmlrN1VNTDNJZV95My1GdGxQVFY1bNIB8gFBVV95cUxQNU1YN2gtX2R0ekJUem5vV211UHotZ2EwMDYyaDUtbzlGT1dGY0p3bWpwMUFzRnQ3WnFWVC00amZJRGFQNy0wczg2dWRWWmxzWkNENjROcklfa0s0a3hGUF83VDRPUktiTWV4QmxxMWdOSGhjMlJwMUZQNmozVWJTejVLZFpoYzZpckZwRzR5X3pldGRObnMtUURHX0RmZjVPcnFUUm9OdEd4a1dRb1hTczQ2YzQ0RzZhMHY1NEVhUUxyRGlzNkpka0FTbkpLMkZVbnlhQ2NnSjR4bmlScGN4TjJmY0dqZTY2SXB1MFZHR0YwUQ?oc=5
+- What does Trump's likely visit to India mean for the Indian stock market? 20 stocks to benefit - Mint
+  What does Trump's likely visit to India mean for the Indian stock market?
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNWJSWGlWQWxGWlRibzJYNXY2TUd1VUFUYUJWQ0VuRU1zczB6NnQ3SkJHWkNZRVRXWjVkRno1Q24tYndXMlJ5N2NvbVZaZTg2M29ZWVZNNkpKa2xJYXpJV2F6QzU3VFR4dG00aXdDNGw0M2tIR3Z0N1JjU2JueGU3Z2FMcF9SVWFlT1FTWWc4dnhuM2hnWmxQOHV4cDBfTUJkNVp1Wk9EekYxdE42Z2dCcTFxMjdnQjlJYlRoX0pVaVN2Y1lGbnk5T3pnQnBoclJ2LUloUDdnRTgyTGRpVExGbnhoV0lyZEM3SUc00gHwAUFVX3lxTFBLTmxETmRmdmk3MWRnVDdiaURDby0xSERuYmc2d3p3MnVFU3NtZWdmUzhVRGFKd1NJZ3dzal9OYlBkTnhVSzZ3UFY5b2dWM0s2TzdFM1k3Nkt0bGJESEVZTHpOb2M4Y2RzaDBjMGhNU3FpV0x3TXhPa2RWak4xdnJnWlVSY3NhZzRoSmVPeEJQQWhneEZtNWlCekVoY0JOLUY4UHdOaFVWTWczelVJN2s0ZXdvZ0JteGNrNnU4UTZBSmQwc0ZQQkJKSzIwbkkybXN0UVpSeWtuaDd2UFQydm5Lc0RHMkdYRWxhNmFFVDVfVQ?oc=5
 
-- Evening news wrap: PM Modi visits Manipur, meets violence victims; 19 students killed in Myanmar airstrik - Times of India
-  Evening news wrap: PM Modi visits Manipur, meets violence victims; 19
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNQnhkSlpLbGJCRzZkdnI3ODBlREFsdDZfb2V0aERCeGo5UGlac052bjN3ZUEzR0c1RHltZlhHSUhIa1NJaVVMNnE3VWM5dzlRSERvN0FyOU9EQWx1bjJPSHNBS2YyNXo4Yml3VlBkMlQ0bk13X3FwYk5wZHlqMDY0VFRqejJzRnNjS3QzaTVBMXBzM3dyWmU4bkstbkUydDhlXzJIUzlzRHdkSmN6YjlSNmdVMUdvbE1HNzU2eXlGeW4xeHdQeGxZWFdwT3JBbUJSeE53LW9DTmo2UHJYVVBhQnFZRWtjVlNHeGZJeDdZT0xFZEVQa3JkQmtNSHNWVGNyNG1FSXk5MNIBjAJBVV95cUxQbm41b0w2Mm11YkNOMHplU2hpa0ozQUl5SjdkZi10R284VGtXUDJ0VWpLV3VBTzZCSmk2ZEh4d0c0UTE1Z2dOVFF2VGVvVjZ2clZRVUlYZy1HZ3ZRS1FqYkp5cC1Hb0twbW1yOTAwX3RNRENFQTJOcWVCZ2ZMdnM2cjFaT0pMLUtvNXZ0ekc1eG0ydGh3NlBtQnQ4Nk1rUVQ2QkZsRzdGcFM5VkltdzVOWXpTc1NiWmczTUF4Mi1jTVdHZ19HVVpEQU9GSlZXaUl0VnFYS3p3dmIxRms2OVZORk9rT0NBcjZ1S2hpbk1aRWNxUnp6T2s0azFyZ0xEVW9tdmQ5WkVUMTRFY01i?oc=5
+- "That's A Big Deal. It Caused Rift With India": Trump On 50% India Tariffs - NDTV
+  "That's A Big Deal. It Caused Rift With
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUhuVU9Bc1g3aG9NcDRjNjg5UlpPLTBTTl9OQnEtOVFkRkdwUE8zaTJiaDZiU1ptRkR1aVg5elpJS2x2cGF6cHlzWkRVdnV6N0JLLS1YS2JfVkJ0WjVIU3pHNERYMUk3TFg5SERfSm82aVNvSXg5T0UtQnQ2MVZZRXdBLXhQUDlBRFh3Z3ZNdTdfMUdrM29Pdk1PZlpvZENRR0hnOdIBrAFBVV95cUxPWUtYaWM2MnI2QjdCUW9fdVBhSzFHSm1VWF84UUlZMkhXYnQyMGlkQW44U1F1dHlnU0NsN0otV3Q0T1lVVFZkb1hRZjJvVTVxN28tbjAtSHVGTWdQOXFpMm94d1BvN3E3eXVOUE1CbmNseV9pUmd0c3d3LUdCTWFpejh2eVNIcGlxVWt1TWhybzA4elVIQjhTZTZBckY1V015WGk5NllhaU9mN0x2?oc=5
 
-- Saim Ayub Hits Back On India-Pakistan Questions: 'I Do Not Remember...' - News18
-  Saim Ayub hits back on India-
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxObjN4eURGMTlOTjFhaDV5anJXMnRHM3BCY3pKRjM4LW1xc2dXX2R3ZFdYLUxWQVVvX1Y4TkFKSlpKdUV4Tm5RM3F0V2dlOVdzQ2VoOWh4c200eHk3UTB2YlNHelAwS3VNbS1Zdm0zSUE4b2Y2bXRteWYzOVBhdmFhWTlhUVdCOEFGRUpSbG1IZ3NUQUlKZU9oeEFTRlkxX2dpbDZFYkdxcV9FWG5YcjdzVWFTN2PSAboBQVVfeXFMTk5peVkyQXNpT2lUamw3UldKbWJqOHQ5Y1E0bzM0em5lVmFjMnZjT2VQU1ZPamxiMHlFekg2THNlc1gzQjRuazAzMnZrM0RlWldDRHEtYl9vZ1ZzXzgxQ1ZHd3JYdTUxdktCU1laRTlaSUt5MmFZUWJVWW0yckVyUThsdzBFcWF2Zm1IX1NqRVg1TFFfU0ZkV25kb2s0Nkx5VXFXUTZzS3h6LS1zYWgxTDd6RUNSa1BPLW5n?oc=5
+- ‘Causes rift with India': Trump recasts Russia-linked tariffs, points at Europe | Latest News India - Hindustan Times
+  ‘Causes rift with India': Trump recasts Russia-linked
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWUFkMml6LUdvNmpURUFCVDBJNGh5TnpmVFBpT0d1QTJoWWdRWDdGRjRhX2VwVlhnRlRWZzJKSXlvZWdJMXZOcnlnVjZEWFpCZ25lU3JFQXY1djJjY0JkelRnWVhHRXZFT1BLRTJyeFRGTVI1WS1hOHo4TnFMTFg4M3hPT183WGVQTXdoc2ljaHVUODJHbVU4S19tdnBLQ19qUGlRNXphbXU2REYtY2pFTXlBazF1UkpCcEE4Z2pBSXQ2ZTN5U3VuNHhLZXlXWlNYVkptZDhTQTNRelo3NkdRZVlraEx4M0tRSlVGcVB30gHzAUFVX3lxTE9KM1NOSGRoSzZzdFBDMDNCOUl4elNPUVo3QVM0alprTFRNTXlBZXhPcHJmcTNZNlRMcWhPaEZyTzQyQUFTUmdGaS1SUWJ0VXlLWVVuWGU4RjA0Ri1zNXIzSHotVFVhb0tQOVZxRnlYWTU3LTFhalZQN2pDYmxQZzVIZy1SQVF1ZFJHWUxieFBSbGVVcjJab1hEcW04NWZQaXpnakMtbHh2YkNURi05Ull4VmVDYUJ6VXNLaXp1OGppM0pabmk3U2JpbXFTcDFYMHg5c1lVcUN0V0hLd1dFcUVsVkJsZjhVWnBkWFJvcDktV0c1dw?oc=5
 
-- IMD warns of heavy rain in Arunachal from Sunday | Latest News India - Hindustan Times
-  IMD warns of heavy rain in Arunachal from
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNajlnbDR1ZDBxTk13cW1lT0pzNE1lSHRuTXhJcDY1c2tHZDZWdVBLRFFZbi1oRXJRRm9iUFpZMzg4VmtMNWJ5ampOQkN5SjJ5SHVTLUZldVNtamFQcDE0NEd6UnhmR1NiZmRMZ1dPbm1RdFQxZzVNRHlBcUVnZU93UlBCX0V1U0NYYUFlXzV4Zm1memNHMW13RTM1X2RJWWl0SWRSS1dERHktT0pQbDJONtIBtgFBVV95cUxQNUJhZld3d08waV9wdzE1Z3c0ODhvS1VWX0kxblg1Z3U2OTVFcDB5NHdzUEZtZGJ0TGpVM3dWM0tRQ2lOd1JLWlo3R0NDVFJ0ZUtKT0ZpTzdfcXFTeXdrX0NEVjNmSjBIdXplNDVGWVNNUkhYdEszcER5bnhDbm9jcWxDUmlMU0k4Q1ZqWG9RRnI2Rl85LUsxZ2phQ3N3X203dXV5SXRtSTFMblJGX2szWGZGUXRJdw?oc=5
+- India has more female pilots than any other western nation: Union minister Scindia | Latest News India - Hindustan Times
+  India has more female pilots than any other western nation.
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUGV3YjZSeWlJMi1LMm5FZWhCNEJ2YmFDaXlpRG85X2dkTVNFUjZTRGNmRE5pSWJ0MHg5OG1UVV9RRWxPVlEyNTJXTk85NjZibHp5eVZWNGdlRGpKa3phS0Q1MGhMSmw4Ylp1eVFlVHQ2LVdIZmw3STFRVWlYTXZhRUpTQVJsalV1eGJlS25iU0hWM3Frb1pjWTZXNHQyMVZmcWx4VkFIUXpnYXcxZnZHaUZzeFZucEpSa1doVVE4VUV0eDdZbTROUHpzMkdlek4tLVRvWER0Ri1TbEdz0gHiAUFVX3lxTE5TVTByeHpiZGwwbnRROW45cDZnUDFpUW8xeDlNLXZxSWg4eGI4VmxHd1RIdkhzSThIcUNEeGNIaUUzalctTU51Rk1pNEZQN0NZODB1Y0FFR29CWTNlM3FhcGdLN3dhZGcwbGl2TlRGMWRDaUpIWXhjVU1ZZGh2ZHcycF84czMyLWZ4WEVqNW5vMkpheVVzN05qY0FYZ2Z0NmZqNkZxX3M0ZGRiZzZ6Mm82a2U2aTRDckhld1BiVTBSU2RsTUFhZkN6WGJfQ0xOMnpmZEt5ZFRiNm0tazNXTVVqbVE?oc=5
 
-- High Political Pitch, Boycott Calls Ahead Of India vs Pak Asia Cup Face-Off - NDTV
-  .com: India vs Pak Asia Cup 2014
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTBDS2ZEb3B4ZWZrQkFiVTVOeno0b2o4S210WDYzM0k5bU1ORDV3b282Vm51dnN0RUFNZVVqeFliSmpWUkh4bHlZdDlLN05LU2FoWFJZNzU3dnBoT1gwVVQyYU9fYnZYb3VidDR0SFB5dEotNWozTGZOMjZIMXVOWEFMMjl0c2ItRUp0dmVlQ1BMb0lMd1FtRUl0S1VyWVpaX2Nxb0tYMXc1OU4zcjZyQ3FyanNJdk8wbXM40gHDAUFVX3lxTE9sRjI0cDBFTkVfT19yMmdTVklhSkV0UUFoYVBCbmlSUEdkOXZfLWhxSGJSZk1UeDE0YjFqeS1rNF9MS3d3VHV6RG5RMFNBRHJPbkFONTdEc0pROF92N2FsXzItejNyYzgyNU0wQmJkTkljdVMtTW5iY2JKcVlNVHBaOE9uWC1kbFZMczVWWTlfc3pWd240c3VEcnRMR2hDVUVWSnpHTDdpWTg5NlZJT2dJbzNDUS0zSVcwSVUxb3BBc0ZWVQ?oc=5
+- After IPL franchise, now PSL team boycotts India vs Pakistan in tit-for-tat move - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWlHRjgtTk1fMFkycjhCUmdEa294bjZvSWl2ZWNNZmZjUFRsdEhVdVdUMThzWkk3VFhsOEh4WlFfZUhHYWxsU3pQUTlLbHByRFczUl9zckF5UGhJbFBhc1lyXzhaRGlTRF
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWlHRjgtTk1fMFkycjhCUmdEa294bjZvSWl2ZWNNZmZjUFRsdEhVdVdUMThzWkk3VFhsOEh4WlFfZUhHYWxsU3pQUTlLbHByRFczUl9zckF5UGhJbFBhc1lyXzhaRGlTRFpGZWkzYXpoTHEtdkp1ekt0SWcxSU9NZUdJVDYwUVBLX01DdzJsaFdxbEZiTHpPOTh1aTNZZ3Y5ZFpVaWhJa2R0aTUwWmU5RlF5MWZaRUxaYXh6dndCRzVCNkRydWxwSlNEbWYyMS00VGdXbDk1S2kxa3JyUXJJYmdhQ1J2X3NsdXZpZS1EQ2N0M0XSAfgBQVVfeXFMTUtMaXVoWTBQZ3NaUnBZOUU0dF9jUnJZZVozNFcyYjlDSnl1WVgyekJQbURTYWxPVHVEa0FiNnVCaTQ1TEU2LUdwdkUtZEM1TzVQVDVhc2FHb1VaUTA4c0ZSMzNGV0g2X0FrdWMzN1pHdnF2S3k2X1lPVXRsUWNraXhTMm9ObzU0bWN6ZU52T2dXVl9XMHFYSVpvNFRtUDZHVWR5SlRYcmxMby1pUjVKWkJUVVFralFrbFhrYlZBbHl3MjNPZnpvaTQ4UEdROWF4d0d4RUluYjBJc2wtZTc5bDZlSDA5R3pvWEx3RzNqWnc2Z2FTeE9Gamw?oc=5
 
-- PM Modi's first reaction as Sushila Karki becomes Nepal’s interim Prime Minister: ‘India remains…’ | Latest News India - Hindustan Times
-  PM Modi's first reaction as Sushila Karki becomes Nepal’s
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxORnhIMDhkdnEtUGt5NzFwUEl2OU4xbW05NjBVZHpzcUthVHR1NFRTSVF5T1paNW50N29qekR3dkFMbkdEZWxzYUNMUXhzelU4bEo4T2dWSS1ZLWdRbHVOR1Vtc0lNQkY1d1FYdkRaS0tWUTI0eS1GRFJ0WmZzRHcyRkp5V08yTHdEWjJfNnR1TmF5NkpmdmhlbnFHYnZia0ItbUVlVmNSSmRveUlkZVVLSzJUdzctUkhXUHlaM1YwbmlpX1RPb0xpNDRkSFBfN3BSaUJrU2NBNmlrN1VNTDNJZV95My1GdGxQVFY1bNIB8gFBVV95cUxQNU1YN2gtX2R0ekJUem5vV211UHotZ2EwMDYyaDUtbzlGT1dGY0p3bWpwMUFzRnQ3WnFWVC00amZJRGFQNy0wczg2dWRWWmxzWkNENjROcklfa0s0a3hGUF83VDRPUktiTWV4QmxxMWdOSGhjMlJwMUZQNmozVWJTejVLZFpoYzZpckZwRzR5X3pldGRObnMtUURHX0RmZjVPcnFUUm9OdEd4a1dRb1hTczQ2YzQ0RzZhMHY1NEVhUUxyRGlzNkpka0FTbkpLMkZVbnlhQ2NnSjR4bmlScGN4TjJmY0dqZTY2SXB1MFZHR0YwUQ?oc=5
+- What does Trump's likely visit to India mean for the Indian stock market? 20 stocks to benefit - Mint
+  What does Trump's likely visit to India mean for the Indian stock market?
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNWJSWGlWQWxGWlRibzJYNXY2TUd1VUFUYUJWQ0VuRU1zczB6NnQ3SkJHWkNZRVRXWjVkRno1Q24tYndXMlJ5N2NvbVZaZTg2M29ZWVZNNkpKa2xJYXpJV2F6QzU3VFR4dG00aXdDNGw0M2tIR3Z0N1JjU2JueGU3Z2FMcF9SVWFlT1FTWWc4dnhuM2hnWmxQOHV4cDBfTUJkNVp1Wk9EekYxdE42Z2dCcTFxMjdnQjlJYlRoX0pVaVN2Y1lGbnk5T3pnQnBoclJ2LUloUDdnRTgyTGRpVExGbnhoV0lyZEM3SUc00gHwAUFVX3lxTFBLTmxETmRmdmk3MWRnVDdiaURDby0xSERuYmc2d3p3MnVFU3NtZWdmUzhVRGFKd1NJZ3dzal9OYlBkTnhVSzZ3UFY5b2dWM0s2TzdFM1k3Nkt0bGJESEVZTHpOb2M4Y2RzaDBjMGhNU3FpV0x3TXhPa2RWak4xdnJnWlVSY3NhZzRoSmVPeEJQQWhneEZtNWlCekVoY0JOLUY4UHdOaFVWTWczelVJN2s0ZXdvZ0JteGNrNnU4UTZBSmQwc0ZQQkJKSzIwbkkybXN0UVpSeWtuaDd2UFQydm5Lc0RHMkdYRWxhNmFFVDVfVQ?oc=5
 
-- Evening news wrap: PM Modi visits Manipur, meets violence victims; 19 students killed in Myanmar airstrik - Times of India
-  Evening news wrap: PM Modi visits Manipur, meets violence victims; 19
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNQnhkSlpLbGJCRzZkdnI3ODBlREFsdDZfb2V0aERCeGo5UGlac052bjN3ZUEzR0c1RHltZlhHSUhIa1NJaVVMNnE3VWM5dzlRSERvN0FyOU9EQWx1bjJPSHNBS2YyNXo4Yml3VlBkMlQ0bk13X3FwYk5wZHlqMDY0VFRqejJzRnNjS3QzaTVBMXBzM3dyWmU4bkstbkUydDhlXzJIUzlzRHdkSmN6YjlSNmdVMUdvbE1HNzU2eXlGeW4xeHdQeGxZWFdwT3JBbUJSeE53LW9DTmo2UHJYVVBhQnFZRWtjVlNHeGZJeDdZT0xFZEVQa3JkQmtNSHNWVGNyNG1FSXk5MNIBjAJBVV95cUxQbm41b0w2Mm11YkNOMHplU2hpa0ozQUl5SjdkZi10R284VGtXUDJ0VWpLV3VBTzZCSmk2ZEh4d0c0UTE1Z2dOVFF2VGVvVjZ2clZRVUlYZy1HZ3ZRS1FqYkp5cC1Hb0twbW1yOTAwX3RNRENFQTJOcWVCZ2ZMdnM2cjFaT0pMLUtvNXZ0ekc1eG0ydGh3NlBtQnQ4Nk1rUVQ2QkZsRzdGcFM5VkltdzVOWXpTc1NiWmczTUF4Mi1jTVdHZ19HVVpEQU9GSlZXaUl0VnFYS3p3dmIxRms2OVZORk9rT0NBcjZ1S2hpbk1aRWNxUnp6T2s0azFyZ0xEVW9tdmQ5WkVUMTRFY01i?oc=5
+- "That's A Big Deal. It Caused Rift With India": Trump On 50% India Tariffs - NDTV
+  "That's A Big Deal. It Caused Rift With
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUhuVU9Bc1g3aG9NcDRjNjg5UlpPLTBTTl9OQnEtOVFkRkdwUE8zaTJiaDZiU1ptRkR1aVg5elpJS2x2cGF6cHlzWkRVdnV6N0JLLS1YS2JfVkJ0WjVIU3pHNERYMUk3TFg5SERfSm82aVNvSXg5T0UtQnQ2MVZZRXdBLXhQUDlBRFh3Z3ZNdTdfMUdrM29Pdk1PZlpvZENRR0hnOdIBrAFBVV95cUxPWUtYaWM2MnI2QjdCUW9fdVBhSzFHSm1VWF84UUlZMkhXYnQyMGlkQW44U1F1dHlnU0NsN0otV3Q0T1lVVFZkb1hRZjJvVTVxN28tbjAtSHVGTWdQOXFpMm94d1BvN3E3eXVOUE1CbmNseV9pUmd0c3d3LUdCTWFpejh2eVNIcGlxVWt1TWhybzA4elVIQjhTZTZBckY1V015WGk5NllhaU9mN0x2?oc=5
 
-- Saim Ayub Hits Back On India-Pakistan Questions: 'I Do Not Remember...' - News18
-  Saim Ayub hits back on India-
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxObjN4eURGMTlOTjFhaDV5anJXMnRHM3BCY3pKRjM4LW1xc2dXX2R3ZFdYLUxWQVVvX1Y4TkFKSlpKdUV4Tm5RM3F0V2dlOVdzQ2VoOWh4c200eHk3UTB2YlNHelAwS3VNbS1Zdm0zSUE4b2Y2bXRteWYzOVBhdmFhWTlhUVdCOEFGRUpSbG1IZ3NUQUlKZU9oeEFTRlkxX2dpbDZFYkdxcV9FWG5YcjdzVWFTN2PSAboBQVVfeXFMTk5peVkyQXNpT2lUamw3UldKbWJqOHQ5Y1E0bzM0em5lVmFjMnZjT2VQU1ZPamxiMHlFekg2THNlc1gzQjRuazAzMnZrM0RlWldDRHEtYl9vZ1ZzXzgxQ1ZHd3JYdTUxdktCU1laRTlaSUt5MmFZUWJVWW0yckVyUThsdzBFcWF2Zm1IX1NqRVg1TFFfU0ZkV25kb2s0Nkx5VXFXUTZzS3h6LS1zYWgxTDd6RUNSa1BPLW5n?oc=5
+- ‘Causes rift with India': Trump recasts Russia-linked tariffs, points at Europe | Latest News India - Hindustan Times
+  ‘Causes rift with India': Trump recasts Russia-linked
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWUFkMml6LUdvNmpURUFCVDBJNGh5TnpmVFBpT0d1QTJoWWdRWDdGRjRhX2VwVlhnRlRWZzJKSXlvZWdJMXZOcnlnVjZEWFpCZ25lU3JFQXY1djJjY0JkelRnWVhHRXZFT1BLRTJyeFRGTVI1WS1hOHo4TnFMTFg4M3hPT183WGVQTXdoc2ljaHVUODJHbVU4S19tdnBLQ19qUGlRNXphbXU2REYtY2pFTXlBazF1UkpCcEE4Z2pBSXQ2ZTN5U3VuNHhLZXlXWlNYVkptZDhTQTNRelo3NkdRZVlraEx4M0tRSlVGcVB30gHzAUFVX3lxTE9KM1NOSGRoSzZzdFBDMDNCOUl4elNPUVo3QVM0alprTFRNTXlBZXhPcHJmcTNZNlRMcWhPaEZyTzQyQUFTUmdGaS1SUWJ0VXlLWVVuWGU4RjA0Ri1zNXIzSHotVFVhb0tQOVZxRnlYWTU3LTFhalZQN2pDYmxQZzVIZy1SQVF1ZFJHWUxieFBSbGVVcjJab1hEcW04NWZQaXpnakMtbHh2YkNURi05Ull4VmVDYUJ6VXNLaXp1OGppM0pabmk3U2JpbXFTcDFYMHg5c1lVcUN0V0hLd1dFcUVsVkJsZjhVWnBkWFJvcDktV0c1dw?oc=5
 
-- IMD warns of heavy rain in Arunachal from Sunday | Latest News India - Hindustan Times
-  IMD warns of heavy rain in Arunachal from
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNajlnbDR1ZDBxTk13cW1lT0pzNE1lSHRuTXhJcDY1c2tHZDZWdVBLRFFZbi1oRXJRRm9iUFpZMzg4VmtMNWJ5ampOQkN5SjJ5SHVTLUZldVNtamFQcDE0NEd6UnhmR1NiZmRMZ1dPbm1RdFQxZzVNRHlBcUVnZU93UlBCX0V1U0NYYUFlXzV4Zm1memNHMW13RTM1X2RJWWl0SWRSS1dERHktT0pQbDJONtIBtgFBVV95cUxQNUJhZld3d08waV9wdzE1Z3c0ODhvS1VWX0kxblg1Z3U2OTVFcDB5NHdzUEZtZGJ0TGpVM3dWM0tRQ2lOd1JLWlo3R0NDVFJ0ZUtKT0ZpTzdfcXFTeXdrX0NEVjNmSjBIdXplNDVGWVNNUkhYdEszcER5bnhDbm9jcWxDUmlMU0k4Q1ZqWG9RRnI2Rl85LUsxZ2phQ3N3X203dXV5SXRtSTFMblJGX2szWGZGUXRJdw?oc=5
+- India has more female pilots than any other western nation: Union minister Scindia | Latest News India - Hindustan Times
+  India has more female pilots than any other western nation.
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUGV3YjZSeWlJMi1LMm5FZWhCNEJ2YmFDaXlpRG85X2dkTVNFUjZTRGNmRE5pSWJ0MHg5OG1UVV9RRWxPVlEyNTJXTk85NjZibHp5eVZWNGdlRGpKa3phS0Q1MGhMSmw4Ylp1eVFlVHQ2LVdIZmw3STFRVWlYTXZhRUpTQVJsalV1eGJlS25iU0hWM3Frb1pjWTZXNHQyMVZmcWx4VkFIUXpnYXcxZnZHaUZzeFZucEpSa1doVVE4VUV0eDdZbTROUHpzMkdlek4tLVRvWER0Ri1TbEdz0gHiAUFVX3lxTE5TVTByeHpiZGwwbnRROW45cDZnUDFpUW8xeDlNLXZxSWg4eGI4VmxHd1RIdkhzSThIcUNEeGNIaUUzalctTU51Rk1pNEZQN0NZODB1Y0FFR29CWTNlM3FhcGdLN3dhZGcwbGl2TlRGMWRDaUpIWXhjVU1ZZGh2ZHcycF84czMyLWZ4WEVqNW5vMkpheVVzN05qY0FYZ2Z0NmZqNkZxX3M0ZGRiZzZ6Mm82a2U2aTRDckhld1BiVTBSU2RsTUFhZkN6WGJfQ0xOMnpmZEt5ZFRiNm0tazNXTVVqbVE?oc=5
 
-- High Political Pitch, Boycott Calls Ahead Of India vs Pak Asia Cup Face-Off - NDTV
-  .com: India vs Pak Asia Cup 2014
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTBDS2ZEb3B4ZWZrQkFiVTVOeno0b2o4S210WDYzM0k5bU1ORDV3b282Vm51dnN0RUFNZVVqeFliSmpWUkh4bHlZdDlLN05LU2FoWFJZNzU3dnBoT1gwVVQyYU9fYnZYb3VidDR0SFB5dEotNWozTGZOMjZIMXVOWEFMMjl0c2ItRUp0dmVlQ1BMb0lMd1FtRUl0S1VyWVpaX2Nxb0tYMXc1OU4zcjZyQ3FyanNJdk8wbXM40gHDAUFVX3lxTE9sRjI0cDBFTkVfT19yMmdTVklhSkV0UUFoYVBCbmlSUEdkOXZfLWhxSGJSZk1UeDE0YjFqeS1rNF9MS3d3VHV6RG5RMFNBRHJPbkFONTdEc0pROF92N2FsXzItejNyYzgyNU0wQmJkTkljdVMtTW5iY2JKcVlNVHBaOE9uWC1kbFZMczVWWTlfc3pWd240c3VEcnRMR2hDVUVWSnpHTDdpWTg5NlZJT2dJbzNDUS0zSVcwSVUxb3BBc0ZWVQ?oc=5
+- After IPL franchise, now PSL team boycotts India vs Pakistan in tit-for-tat move - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWlHRjgtTk1fMFkycjhCUmdEa294bjZvSWl2ZWNNZmZjUFRsdEhVdVdUMThzWkk3VFhsOEh4WlFfZUhHYWxsU3pQUTlLbHByRFczUl9zckF5UGhJbFBhc1lyXzhaRGlTRF
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWlHRjgtTk1fMFkycjhCUmdEa294bjZvSWl2ZWNNZmZjUFRsdEhVdVdUMThzWkk3VFhsOEh4WlFfZUhHYWxsU3pQUTlLbHByRFczUl9zckF5UGhJbFBhc1lyXzhaRGlTRFpGZWkzYXpoTHEtdkp1ekt0SWcxSU9NZUdJVDYwUVBLX01DdzJsaFdxbEZiTHpPOTh1aTNZZ3Y5ZFpVaWhJa2R0aTUwWmU5RlF5MWZaRUxaYXh6dndCRzVCNkRydWxwSlNEbWYyMS00VGdXbDk1S2kxa3JyUXJJYmdhQ1J2X3NsdXZpZS1EQ2N0M0XSAfgBQVVfeXFMTUtMaXVoWTBQZ3NaUnBZOUU0dF9jUnJZZVozNFcyYjlDSnl1WVgyekJQbURTYWxPVHVEa0FiNnVCaTQ1TEU2LUdwdkUtZEM1TzVQVDVhc2FHb1VaUTA4c0ZSMzNGV0g2X0FrdWMzN1pHdnF2S3k2X1lPVXRsUWNraXhTMm9ObzU0bWN6ZU52T2dXVl9XMHFYSVpvNFRtUDZHVWR5SlRYcmxMby1pUjVKWkJUVVFralFrbFhrYlZBbHl3MjNPZnpvaTQ4UEdROWF4d0d4RUluYjBJc2wtZTc5bDZlSDA5R3pvWEx3RzNqWnc2Z2FTeE9Gamw?oc=5
 
-- PM Modi's first reaction as Sushila Karki becomes Nepal’s interim Prime Minister: ‘India remains…’ | Latest News India - Hindustan Times
-  PM Modi's first reaction as Sushila Karki becomes Nepal’s
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxORnhIMDhkdnEtUGt5NzFwUEl2OU4xbW05NjBVZHpzcUthVHR1NFRTSVF5T1paNW50N29qekR3dkFMbkdEZWxzYUNMUXhzelU4bEo4T2dWSS1ZLWdRbHVOR1Vtc0lNQkY1d1FYdkRaS0tWUTI0eS1GRFJ0WmZzRHcyRkp5V08yTHdEWjJfNnR1TmF5NkpmdmhlbnFHYnZia0ItbUVlVmNSSmRveUlkZVVLSzJUdzctUkhXUHlaM1YwbmlpX1RPb0xpNDRkSFBfN3BSaUJrU2NBNmlrN1VNTDNJZV95My1GdGxQVFY1bNIB8gFBVV95cUxQNU1YN2gtX2R0ekJUem5vV211UHotZ2EwMDYyaDUtbzlGT1dGY0p3bWpwMUFzRnQ3WnFWVC00amZJRGFQNy0wczg2dWRWWmxzWkNENjROcklfa0s0a3hGUF83VDRPUktiTWV4QmxxMWdOSGhjMlJwMUZQNmozVWJTejVLZFpoYzZpckZwRzR5X3pldGRObnMtUURHX0RmZjVPcnFUUm9OdEd4a1dRb1hTczQ2YzQ0RzZhMHY1NEVhUUxyRGlzNkpka0FTbkpLMkZVbnlhQ2NnSjR4bmlScGN4TjJmY0dqZTY2SXB1MFZHR0YwUQ?oc=5
+- What does Trump's likely visit to India mean for the Indian stock market? 20 stocks to benefit - Mint
+  What does Trump's likely visit to India mean for the Indian stock market?
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNWJSWGlWQWxGWlRibzJYNXY2TUd1VUFUYUJWQ0VuRU1zczB6NnQ3SkJHWkNZRVRXWjVkRno1Q24tYndXMlJ5N2NvbVZaZTg2M29ZWVZNNkpKa2xJYXpJV2F6QzU3VFR4dG00aXdDNGw0M2tIR3Z0N1JjU2JueGU3Z2FMcF9SVWFlT1FTWWc4dnhuM2hnWmxQOHV4cDBfTUJkNVp1Wk9EekYxdE42Z2dCcTFxMjdnQjlJYlRoX0pVaVN2Y1lGbnk5T3pnQnBoclJ2LUloUDdnRTgyTGRpVExGbnhoV0lyZEM3SUc00gHwAUFVX3lxTFBLTmxETmRmdmk3MWRnVDdiaURDby0xSERuYmc2d3p3MnVFU3NtZWdmUzhVRGFKd1NJZ3dzal9OYlBkTnhVSzZ3UFY5b2dWM0s2TzdFM1k3Nkt0bGJESEVZTHpOb2M4Y2RzaDBjMGhNU3FpV0x3TXhPa2RWak4xdnJnWlVSY3NhZzRoSmVPeEJQQWhneEZtNWlCekVoY0JOLUY4UHdOaFVWTWczelVJN2s0ZXdvZ0JteGNrNnU4UTZBSmQwc0ZQQkJKSzIwbkkybXN0UVpSeWtuaDd2UFQydm5Lc0RHMkdYRWxhNmFFVDVfVQ?oc=5
 
-- Evening news wrap: PM Modi visits Manipur, meets violence victims; 19 students killed in Myanmar airstrik - Times of India
-  Evening news wrap: PM Modi visits Manipur, meets violence victims; 19
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNQnhkSlpLbGJCRzZkdnI3ODBlREFsdDZfb2V0aERCeGo5UGlac052bjN3ZUEzR0c1RHltZlhHSUhIa1NJaVVMNnE3VWM5dzlRSERvN0FyOU9EQWx1bjJPSHNBS2YyNXo4Yml3VlBkMlQ0bk13X3FwYk5wZHlqMDY0VFRqejJzRnNjS3QzaTVBMXBzM3dyWmU4bkstbkUydDhlXzJIUzlzRHdkSmN6YjlSNmdVMUdvbE1HNzU2eXlGeW4xeHdQeGxZWFdwT3JBbUJSeE53LW9DTmo2UHJYVVBhQnFZRWtjVlNHeGZJeDdZT0xFZEVQa3JkQmtNSHNWVGNyNG1FSXk5MNIBjAJBVV95cUxQbm41b0w2Mm11YkNOMHplU2hpa0ozQUl5SjdkZi10R284VGtXUDJ0VWpLV3VBTzZCSmk2ZEh4d0c0UTE1Z2dOVFF2VGVvVjZ2clZRVUlYZy1HZ3ZRS1FqYkp5cC1Hb0twbW1yOTAwX3RNRENFQTJOcWVCZ2ZMdnM2cjFaT0pMLUtvNXZ0ekc1eG0ydGh3NlBtQnQ4Nk1rUVQ2QkZsRzdGcFM5VkltdzVOWXpTc1NiWmczTUF4Mi1jTVdHZ19HVVpEQU9GSlZXaUl0VnFYS3p3dmIxRms2OVZORk9rT0NBcjZ1S2hpbk1aRWNxUnp6T2s0azFyZ0xEVW9tdmQ5WkVUMTRFY01i?oc=5
+- "That's A Big Deal. It Caused Rift With India": Trump On 50% India Tariffs - NDTV
+  "That's A Big Deal. It Caused Rift With
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUhuVU9Bc1g3aG9NcDRjNjg5UlpPLTBTTl9OQnEtOVFkRkdwUE8zaTJiaDZiU1ptRkR1aVg5elpJS2x2cGF6cHlzWkRVdnV6N0JLLS1YS2JfVkJ0WjVIU3pHNERYMUk3TFg5SERfSm82aVNvSXg5T0UtQnQ2MVZZRXdBLXhQUDlBRFh3Z3ZNdTdfMUdrM29Pdk1PZlpvZENRR0hnOdIBrAFBVV95cUxPWUtYaWM2MnI2QjdCUW9fdVBhSzFHSm1VWF84UUlZMkhXYnQyMGlkQW44U1F1dHlnU0NsN0otV3Q0T1lVVFZkb1hRZjJvVTVxN28tbjAtSHVGTWdQOXFpMm94d1BvN3E3eXVOUE1CbmNseV9pUmd0c3d3LUdCTWFpejh2eVNIcGlxVWt1TWhybzA4elVIQjhTZTZBckY1V015WGk5NllhaU9mN0x2?oc=5
 
-- Saim Ayub Hits Back On India-Pakistan Questions: 'I Do Not Remember...' - News18
-  Saim Ayub hits back on India-
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxObjN4eURGMTlOTjFhaDV5anJXMnRHM3BCY3pKRjM4LW1xc2dXX2R3ZFdYLUxWQVVvX1Y4TkFKSlpKdUV4Tm5RM3F0V2dlOVdzQ2VoOWh4c200eHk3UTB2YlNHelAwS3VNbS1Zdm0zSUE4b2Y2bXRteWYzOVBhdmFhWTlhUVdCOEFGRUpSbG1IZ3NUQUlKZU9oeEFTRlkxX2dpbDZFYkdxcV9FWG5YcjdzVWFTN2PSAboBQVVfeXFMTk5peVkyQXNpT2lUamw3UldKbWJqOHQ5Y1E0bzM0em5lVmFjMnZjT2VQU1ZPamxiMHlFekg2THNlc1gzQjRuazAzMnZrM0RlWldDRHEtYl9vZ1ZzXzgxQ1ZHd3JYdTUxdktCU1laRTlaSUt5MmFZUWJVWW0yckVyUThsdzBFcWF2Zm1IX1NqRVg1TFFfU0ZkV25kb2s0Nkx5VXFXUTZzS3h6LS1zYWgxTDd6RUNSa1BPLW5n?oc=5
+- ‘Causes rift with India': Trump recasts Russia-linked tariffs, points at Europe | Latest News India - Hindustan Times
+  ‘Causes rift with India': Trump recasts Russia-linked
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWUFkMml6LUdvNmpURUFCVDBJNGh5TnpmVFBpT0d1QTJoWWdRWDdGRjRhX2VwVlhnRlRWZzJKSXlvZWdJMXZOcnlnVjZEWFpCZ25lU3JFQXY1djJjY0JkelRnWVhHRXZFT1BLRTJyeFRGTVI1WS1hOHo4TnFMTFg4M3hPT183WGVQTXdoc2ljaHVUODJHbVU4S19tdnBLQ19qUGlRNXphbXU2REYtY2pFTXlBazF1UkpCcEE4Z2pBSXQ2ZTN5U3VuNHhLZXlXWlNYVkptZDhTQTNRelo3NkdRZVlraEx4M0tRSlVGcVB30gHzAUFVX3lxTE9KM1NOSGRoSzZzdFBDMDNCOUl4elNPUVo3QVM0alprTFRNTXlBZXhPcHJmcTNZNlRMcWhPaEZyTzQyQUFTUmdGaS1SUWJ0VXlLWVVuWGU4RjA0Ri1zNXIzSHotVFVhb0tQOVZxRnlYWTU3LTFhalZQN2pDYmxQZzVIZy1SQVF1ZFJHWUxieFBSbGVVcjJab1hEcW04NWZQaXpnakMtbHh2YkNURi05Ull4VmVDYUJ6VXNLaXp1OGppM0pabmk3U2JpbXFTcDFYMHg5c1lVcUN0V0hLd1dFcUVsVkJsZjhVWnBkWFJvcDktV0c1dw?oc=5
 
-- IMD warns of heavy rain in Arunachal from Sunday | Latest News India - Hindustan Times
-  IMD warns of heavy rain in Arunachal from
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNajlnbDR1ZDBxTk13cW1lT0pzNE1lSHRuTXhJcDY1c2tHZDZWdVBLRFFZbi1oRXJRRm9iUFpZMzg4VmtMNWJ5ampOQkN5SjJ5SHVTLUZldVNtamFQcDE0NEd6UnhmR1NiZmRMZ1dPbm1RdFQxZzVNRHlBcUVnZU93UlBCX0V1U0NYYUFlXzV4Zm1memNHMW13RTM1X2RJWWl0SWRSS1dERHktT0pQbDJONtIBtgFBVV95cUxQNUJhZld3d08waV9wdzE1Z3c0ODhvS1VWX0kxblg1Z3U2OTVFcDB5NHdzUEZtZGJ0TGpVM3dWM0tRQ2lOd1JLWlo3R0NDVFJ0ZUtKT0ZpTzdfcXFTeXdrX0NEVjNmSjBIdXplNDVGWVNNUkhYdEszcER5bnhDbm9jcWxDUmlMU0k4Q1ZqWG9RRnI2Rl85LUsxZ2phQ3N3X203dXV5SXRtSTFMblJGX2szWGZGUXRJdw?oc=5
-
-- High Political Pitch, Boycott Calls Ahead Of India vs Pak Asia Cup Face-Off - NDTV
-  .com: India vs Pak Asia Cup 2014
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTBDS2ZEb3B4ZWZrQkFiVTVOeno0b2o4S210WDYzM0k5bU1ORDV3b282Vm51dnN0RUFNZVVqeFliSmpWUkh4bHlZdDlLN05LU2FoWFJZNzU3dnBoT1gwVVQyYU9fYnZYb3VidDR0SFB5dEotNWozTGZOMjZIMXVOWEFMMjl0c2ItRUp0dmVlQ1BMb0lMd1FtRUl0S1VyWVpaX2Nxb0tYMXc1OU4zcjZyQ3FyanNJdk8wbXM40gHDAUFVX3lxTE9sRjI0cDBFTkVfT19yMmdTVklhSkV0UUFoYVBCbmlSUEdkOXZfLWhxSGJSZk1UeDE0YjFqeS1rNF9MS3d3VHV6RG5RMFNBRHJPbkFONTdEc0pROF92N2FsXzItejNyYzgyNU0wQmJkTkljdVMtTW5iY2JKcVlNVHBaOE9uWC1kbFZMczVWWTlfc3pWd240c3VEcnRMR2hDVUVWSnpHTDdpWTg5NlZJT2dJbzNDUS0zSVcwSVUxb3BBc0ZWVQ?oc=5
-
-- PM Modi's first reaction as Sushila Karki becomes Nepal’s interim Prime Minister: ‘India remains…’ | Latest News India - Hindustan Times
-  PM Modi's first reaction as Sushila Karki becomes Nepal’s
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxORnhIMDhkdnEtUGt5NzFwUEl2OU4xbW05NjBVZHpzcUthVHR1NFRTSVF5T1paNW50N29qekR3dkFMbkdEZWxzYUNMUXhzelU4bEo4T2dWSS1ZLWdRbHVOR1Vtc0lNQkY1d1FYdkRaS0tWUTI0eS1GRFJ0WmZzRHcyRkp5V08yTHdEWjJfNnR1TmF5NkpmdmhlbnFHYnZia0ItbUVlVmNSSmRveUlkZVVLSzJUdzctUkhXUHlaM1YwbmlpX1RPb0xpNDRkSFBfN3BSaUJrU2NBNmlrN1VNTDNJZV95My1GdGxQVFY1bNIB8gFBVV95cUxQNU1YN2gtX2R0ekJUem5vV211UHotZ2EwMDYyaDUtbzlGT1dGY0p3bWpwMUFzRnQ3WnFWVC00amZJRGFQNy0wczg2dWRWWmxzWkNENjROcklfa0s0a3hGUF83VDRPUktiTWV4QmxxMWdOSGhjMlJwMUZQNmozVWJTejVLZFpoYzZpckZwRzR5X3pldGRObnMtUURHX0RmZjVPcnFUUm9OdEd4a1dRb1hTczQ2YzQ0RzZhMHY1NEVhUUxyRGlzNkpka0FTbkpLMkZVbnlhQ2NnSjR4bmlScGN4TjJmY0dqZTY2SXB1MFZHR0YwUQ?oc=5
-
-- Evening news wrap: PM Modi visits Manipur, meets violence victims; 19 students killed in Myanmar airstrik - Times of India
-  Evening news wrap: PM Modi visits Manipur, meets violence victims; 19
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNQnhkSlpLbGJCRzZkdnI3ODBlREFsdDZfb2V0aERCeGo5UGlac052bjN3ZUEzR0c1RHltZlhHSUhIa1NJaVVMNnE3VWM5dzlRSERvN0FyOU9EQWx1bjJPSHNBS2YyNXo4Yml3VlBkMlQ0bk13X3FwYk5wZHlqMDY0VFRqejJzRnNjS3QzaTVBMXBzM3dyWmU4bkstbkUydDhlXzJIUzlzRHdkSmN6YjlSNmdVMUdvbE1HNzU2eXlGeW4xeHdQeGxZWFdwT3JBbUJSeE53LW9DTmo2UHJYVVBhQnFZRWtjVlNHeGZJeDdZT0xFZEVQa3JkQmtNSHNWVGNyNG1FSXk5MNIBjAJBVV95cUxQbm41b0w2Mm11YkNOMHplU2hpa0ozQUl5SjdkZi10R284VGtXUDJ0VWpLV3VBTzZCSmk2ZEh4d0c0UTE1Z2dOVFF2VGVvVjZ2clZRVUlYZy1HZ3ZRS1FqYkp5cC1Hb0twbW1yOTAwX3RNRENFQTJOcWVCZ2ZMdnM2cjFaT0pMLUtvNXZ0ekc1eG0ydGh3NlBtQnQ4Nk1rUVQ2QkZsRzdGcFM5VkltdzVOWXpTc1NiWmczTUF4Mi1jTVdHZ19HVVpEQU9GSlZXaUl0VnFYS3p3dmIxRms2OVZORk9rT0NBcjZ1S2hpbk1aRWNxUnp6T2s0azFyZ0xEVW9tdmQ5WkVUMTRFY01i?oc=5
-
-- Saim Ayub Hits Back On India-Pakistan Questions: 'I Do Not Remember...' - News18
-  Saim Ayub hits back on India-
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxObjN4eURGMTlOTjFhaDV5anJXMnRHM3BCY3pKRjM4LW1xc2dXX2R3ZFdYLUxWQVVvX1Y4TkFKSlpKdUV4Tm5RM3F0V2dlOVdzQ2VoOWh4c200eHk3UTB2YlNHelAwS3VNbS1Zdm0zSUE4b2Y2bXRteWYzOVBhdmFhWTlhUVdCOEFGRUpSbG1IZ3NUQUlKZU9oeEFTRlkxX2dpbDZFYkdxcV9FWG5YcjdzVWFTN2PSAboBQVVfeXFMTk5peVkyQXNpT2lUamw3UldKbWJqOHQ5Y1E0bzM0em5lVmFjMnZjT2VQU1ZPamxiMHlFekg2THNlc1gzQjRuazAzMnZrM0RlWldDRHEtYl9vZ1ZzXzgxQ1ZHd3JYdTUxdktCU1laRTlaSUt5MmFZUWJVWW0yckVyUThsdzBFcWF2Zm1IX1NqRVg1TFFfU0ZkV25kb2s0Nkx5VXFXUTZzS3h6LS1zYWgxTDd6RUNSa1BPLW5n?oc=5
-
-- IMD warns of heavy rain in Arunachal from Sunday | Latest News India - Hindustan Times
-  IMD warns of heavy rain in Arunachal from
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNajlnbDR1ZDBxTk13cW1lT0pzNE1lSHRuTXhJcDY1c2tHZDZWdVBLRFFZbi1oRXJRRm9iUFpZMzg4VmtMNWJ5ampOQkN5SjJ5SHVTLUZldVNtamFQcDE0NEd6UnhmR1NiZmRMZ1dPbm1RdFQxZzVNRHlBcUVnZU93UlBCX0V1U0NYYUFlXzV4Zm1memNHMW13RTM1X2RJWWl0SWRSS1dERHktT0pQbDJONtIBtgFBVV95cUxQNUJhZld3d08waV9wdzE1Z3c0ODhvS1VWX0kxblg1Z3U2OTVFcDB5NHdzUEZtZGJ0TGpVM3dWM0tRQ2lOd1JLWlo3R0NDVFJ0ZUtKT0ZpTzdfcXFTeXdrX0NEVjNmSjBIdXplNDVGWVNNUkhYdEszcER5bnhDbm9jcWxDUmlMU0k4Q1ZqWG9RRnI2Rl85LUsxZ2phQ3N3X203dXV5SXRtSTFMblJGX2szWGZGUXRJdw?oc=5
+- India has more female pilots than any other western nation: Union minister Scindia | Latest News India - Hindustan Times
+  India has more female pilots than any other western nation.
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUGV3YjZSeWlJMi1LMm5FZWhCNEJ2YmFDaXlpRG85X2dkTVNFUjZTRGNmRE5pSWJ0MHg5OG1UVV9RRWxPVlEyNTJXTk85NjZibHp5eVZWNGdlRGpKa3phS0Q1MGhMSmw4Ylp1eVFlVHQ2LVdIZmw3STFRVWlYTXZhRUpTQVJsalV1eGJlS25iU0hWM3Frb1pjWTZXNHQyMVZmcWx4VkFIUXpnYXcxZnZHaUZzeFZucEpSa1doVVE4VUV0eDdZbTROUHpzMkdlek4tLVRvWER0Ri1TbEdz0gHiAUFVX3lxTE5TVTByeHpiZGwwbnRROW45cDZnUDFpUW8xeDlNLXZxSWg4eGI4VmxHd1RIdkhzSThIcUNEeGNIaUUzalctTU51Rk1pNEZQN0NZODB1Y0FFR29CWTNlM3FhcGdLN3dhZGcwbGl2TlRGMWRDaUpIWXhjVU1ZZGh2ZHcycF84czMyLWZ4WEVqNW5vMkpheVVzN05qY0FYZ2Z0NmZqNkZxX3M0ZGRiZzZ6Mm82a2U2aTRDckhld1BiVTBSU2RsTUFhZkN6WGJfQ0xOMnpmZEt5ZFRiNm0tazNXTVVqbVE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,13 +200,5 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
-
-
-_Last updated: 2025-09-13 12:30:51 UTC_
+_Last updated: 2025-09-13 18:22:44 UTC_
