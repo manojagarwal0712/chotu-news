@@ -1,30 +1,30 @@
 # 📰 Daily News Summaries
 
-- Earthquake of 5.8 magnitude jolts Assam’s Udalguri: IMD
+- India-Pakistan match is like rubbing salt on wounds, says widow of Pahalgam terror attack victim from Odisha
   
-  🔗 https://indianexpress.com/article/india/earthquake-assam-udalguri-10249595/
+  🔗 https://indianexpress.com/article/india/india-pakistan-match-is-like-rubbing-salt-on-wounds-says-widow-of-pahalgam-terror-attack-victim-from-odisha-10249924/
 
-- IndiGo flight with MP Dimple Yadav aborts take-off at Lucknow airport after technical snag
+- Day after PM Modi’s visit to the town, Manipur’s Churachandpur sees violent protest
   
-  🔗 https://indianexpress.com/article/india/indigo-flight-with-mp-dimple-yadav-aborts-take-off-at-lucknow-airport-after-technical-snag-10249466/
+  🔗 https://indianexpress.com/article/india/modi-visit-town-manipur-churachandpur-violent-protest-10249852/
 
-- ITR Filing 2025 Last Date LIVE Updates: Last date tomorrow; tax dept offers 24×7 helpdesk
+- Dock pay of lawmakers who don’t attend Assembly: Andhra Speaker’s suggestion to Birla
   
-  🔗 https://indianexpress.com/article/india/itr-filing-2025-last-date-due-date-extension-live-updates-income-tax-return-process-penalty-and-latest-news-10249219/
+  🔗 https://indianexpress.com/article/india/andhra-assembly-speaker-om-birla-dock-lawmakers-pay-10249825/
 
-- Amit Khare appointed Secretary to Vice-President Radhakrishnan
+- Kailash Satyarthi calls for integrating compassion in climate action
   
-  🔗 https://indianexpress.com/article/india/amit-khare-secretary-vice-president-radhakrishnan-10249413/
+  🔗 https://indianexpress.com/article/india/kailash-satyarthi-calls-for-integrating-compassion-in-climate-action-10249769/
 
-- ‘Not a single sale in days’: Nepal unrest dims festive hopes for businesses in Bihar border town
+- Seven of two families killed as car falls off Ring Road in Jaipur
   
-  🔗 https://indianexpress.com/article/india/nepal-unrest-dims-festive-hopes-for-businesses-bihar-border-town-10249231/
+  🔗 https://indianexpress.com/article/india/seven-of-two-families-killed-as-car-falls-off-ring-road-in-jaipur-10249782/
 
 - Under a thousand: Six super affordable accessories for your iPhone
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/under-a-thousand-six-super-affordable-accessories-iphone-10249554/
 
-- Asia Cup 2025 India vs Pakistan live streaming: How to watch the match online via Airtel, Jio, Vodafone
+- Asia Cup 2025 India vs Pakistan live cricket streaming: How to watch the match online via Airtel, Jio, Vodafone
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/india-vs-pakistan-ind-vs-pak-live-cricket-score-streaming-online-free-how-to-watch-live-match-on-jio-hotstar-airtel-vodafone-10249075/
 
@@ -40,25 +40,33 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/ais-prophet-of-doom-wants-to-shut-it-all-down-10248757/
 
-- India-Pakistan cricket clash puts SonyLIV streaming gamble to the test
-  SonyLIV is streaming the Asia Cup for the first time, betting $170 million on cricket to lift subscribers and ad revenues. But the India-Pakistan clash comes amid boycott calls,
-  🔗 https://www.livemint.com/companies/asia-cup-2025-india-pakistan-sonyliv-cricket-revenue-11757822862521.html
+- FMCG majors roll out trade notices ahead of GST rate cut on household essentials
+  India’s top FMCG firms including HUL, P&amp;amp;G, L
+  🔗 https://www.livemint.com/companies/fmcg-trade-notices-gst-rate-cut-household-essentials-hul-p-g-l-or-al-himalaya-11757865358124.html
 
-- Eka Mobility to pump in  ₹800 cr to boost electric bus capacity, delivery
-  The investment in Eka, the electric bus maker promoted by India's Pinnacle Industries and backed by Japan’s Mitsui Corporation and
-  🔗 https://www.livemint.com/companies/news/eka-mobility-to-pump-in-800-cr-to-boost-electric-bus-capacity-delivery-11757839978813.html
+- CEO Warren Harris banks on AI as Tata Tech chases lofty $1 bn revenue target
+  The company had a revenue of $611 million in FY25, with a net profit margin of 13.1%. The company will need to grow at a compounded annual growth
+  🔗 https://www.livemint.com/companies/tata-technologies-1-billion-revenue-target-ai-strategy-warren-harris-11757853964635.html
 
-- We are in the best position to guide customers to invest responsibly: HDFC Securities' Puneeth Bekal
-  HDFC Securities is leveraging research, snackable content, and social media to
-  🔗 https://www.livemint.com/companies/hdfc-securities-customers-invest-puneeth-bekal-marketing-advertising-sebi-markets-youtube-instagram-11757836605732.html
+- How a European quantum-computing startup plans to take on IBM and Google
+   IQM raised more than $300 million in a recent funding round
+  🔗 https://www.livemint.com/companies/how-a-european-quantum-computing-startup-plans-to-take-on-ibm-and-google-11757859992597.html
 
-- Why ‘congratulations to the marketing team’ stings meme marketers
-  A social media campaign that goes viral on its own is every marketer's
-  🔗 https://www.livemint.com/companies/meme-marketing-social-media-advertising-twitter-brands-whatsapp-influencer-11757685043414.html
+- Tata International to invest $100 million in JVs with Japanese and Swiss firms
+  Tata International, the unlisted trading company under the Tata umbrella, is making a measured move to
+  🔗 https://www.livemint.com/companies/tata-international-jv-mitsubishi-mercuria-energy-metals-freight-agricultural-commodities-construction-tata-sons-11757850525999.html
 
-- UBS Met With US Officials as Bank Weighs Strategy Options: NYP
-  UBS Group AG executives recently met with officials from President Donald Trump’s administration as they evaluate a potential strategy shift.
-  🔗 https://www.livemint.com/companies/news/ubs-met-with-us-officials-as-bank-weighs-strategy-options-nyp-11757846334134.html
+- Ikea India to open 3-4 small city stores, shifting focus from large outlets
+  Ikea plans to open three small city stores in India within 10 months. The CEO, Patrik Antoni, emphasized the shift to smaller
+  🔗 https://www.livemint.com/companies/news/ikea-india-small-format-city-stores-large-outlets-ceo-patrik-antoni-retail-omni-channel-strategy-ingka-group-11757835172445.html
+
+- Wall Street week ahead: Spotlight on Federal Reserve’s seventh interest rate decision of 2025
+  The US central bank is widely expected to reduce interest rates due to a
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-spotlight-on-federal-reserve-s-seventh-interest-rate-decision-of-2025-11757857203207.html
+
+- Wall St Week Ahead-Investors seek Feds view of shaky labor market as rate cut looms
+  
+  🔗 https://www.livemint.com/market/stock-market-news/wall-st-week-ahead-investors-seek-feds-view-of-shaky-labor-market-as-rate-cut-looms-11757854964227.html
 
 - Tariff tensions, Jane Street ban drag trading volumes in August
    equity cash turnover declined 19% on NSE, steepest in 17 months. Options premium volumes fell 10% as high-frequency traders pulled back
@@ -72,13 +80,13 @@
   The smallcap stock rallied after the GST Council’s decision to reduce Goods &amp;amp; Services Tax (
   🔗 https://www.livemint.com/market/stock-market-news/mic-electronics-shares-rise-50-in-one-month-more-steam-left-11757840802854.html
 
-- 265% rally in six months! Penny stock hits upper circuit on 28 days in a row
-  The penny stock has given multibagger returns in last six months by surging over 265 per cent. However, the stock has
-  🔗 https://www.livemint.com/market/stock-market-news/265-rally-in-six-months-penny-stock-hits-upper-circuit-on-28-days-in-a-row-11757834430144.html
+- Nano Banana trend: Facing image and sizing issues? Check step-by-step guide to fix aspect ratio when creating images
+  The Nano Banana AI trend has surged, with users creating images on Google Gemini. A workaround using transparent PNGs allows for custom aspect ratios.
+  🔗 https://www.livemint.com/technology/nano-banana-trend-facing-image-and-sizing-issues-check-step-by-step-guide-to-fix-aspect-ratio-when-creating-images-11757856281303.html
 
-- Maruti Suzuki, Bajaj Auto to Ashok Leyland: Is it wise to buy auto stocks amid India-US trade deal, US Fed rate cut buzz
-  Anuj Gupta of Ya Wealth recommended investors to keep a track on Eicher Motors, Tata Motors, TVS Motor, Bajaj Auto
-  🔗 https://www.livemint.com/market/stock-market-news/maruti-suzuki-bajaj-auto-to-ashok-leyland-is-it-wise-to-buy-auto-stocks-amid-india-us-trade-deal-us-fed-rate-cut-buzz-11757830836824.html
+- Nano Banana AI Trend: 10 hidden tricks and prompts you need to know today
+  Nano Banana is Google DeepMind's latest AI-powered image
+  🔗 https://www.livemint.com/technology/tech-news/nano-banana-ai-trend-google-gemini-10-hidden-nano-banana-tricks-and-prompts-you-need-to-know-today-11757856024076.html
 
 - Amid Nano-Banana trend, Google Gemini replaces ChatGPT in top apps months after Ghibli took internet by storm
   Google Gemini has replaced OpenAI's ChatGPT as the top-ranked app on the Apple App Store. This comes after the Ghibli trend took the internet by storm a few months ago.
@@ -92,33 +100,25 @@
   Google’s Nano Banana AI lets users transform selfies into hyper-realistic 3D figurines. Powered by Gemini 2.5, it enables AI-driven cosplay and
   🔗 https://www.livemint.com/technology/tech-news/nano-banana-ai-trend-how-to-create-3d-anime-and-movie-characters-from-your-photo-with-google-gemini-11757836535776.html
 
-- Gemini AI saree photos: Best prompts to get a vintage Bollywood vibe
-   Instagram’s new viral trend uses Gemini AI to turn photos into vintage saree portraits.
-  🔗 https://www.livemint.com/technology/gemini-ai-red-saree-photos-prompts-for-ai-image-generator-11757835330645.html
-
-- Elon Musk’s xAI lays off 500 jobs amid strategy shift to Specialist AI tutors: Report
-  Elon Musk’s xAI has reportedly laid off around 500 data annotation staff. Affected employees will likely retain salaries until contract end or
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-s-xai-lays-off-500-jobs-amid-strategy-shift-to-specialist-ai-tutors-report-11757834657615.html
-
-- Politics Drive Investment Divide in Southeast Asia’s Top Markets - Bloomberg.com
-  Politics Drive Investment Divide in Southeast Asia
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5LTGpwY0huYnh2MUJLQkxjWjRpU1JUVDU2bGlwRGxSNW9MVnR0VG9VSGxuSGJNYTJDd2tOMF9zSVlxazRSU0RBQjFNdFlKeDIwNVhfM0dma0xWdGFSV2RBU2owS3Z2dmRCZlQxOEo1Rk1vQl9FWWxITVlsQUdhTnBwLXU3SnRFb1R2a0lXYk5WNTVGOEVCdDJzRV9Kb3BLTnNuWEtiWmgtTFJUY1lrNmN2STdIQQ?oc=5
+- Markets this week: Fed policy outcome, US–India trade talks to guide sentiment; inflation, FII flows in f - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxQZE5sTlVhV1lDaHBXSjRfcXEtSk5EUWo1Q19EcTk0Y3ozRjlmenJ4RnJHeVhKeTJjMlpza2c5S3ZJV0dZeFZKZHpTQU1SYVhiUXQxUzVGTWx5LXVOcFpZcU1RSUtqQTR1Tn
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxQZE5sTlVhV1lDaHBXSjRfcXEtSk5EUWo1Q19EcTk0Y3ozRjlmenJ4RnJHeVhKeTJjMlpza2c5S3ZJV0dZeFZKZHpTQU1SYVhiUXQxUzVGTWx5LXVOcFpZcU1RSUtqQTR1TnVBWElnNk1CTXpDQl95NlBLY01HSnBualItM2VHaUl4dzMxUjk2dFBBR2hUS1h2c0V3aDlsYmFQdHZaMHhRdFFQNEJDMW5CWVdLZkdCc3dlZ3l4SS1rb0RBVGxhLTNKLWIxR1R4TEM5RXVDNi1qS0x5bXRpTGhtZHZYN3ZjaGhuUnRmblNfNlBWY2ttTFFiWTJvd05QMGJiVW1nN1U3UlhQMDM5azNteG1faWtiSU1lZHfSAZ8CQVVfeXFMT3NEM0txbFFfOG44Z0lHRTlLVmRCcERBTnkza29ZMTEzTjJUZGZNREM5bDlIMG5zNUVhM3QwY19teGQ1NGVScU51OFA2T1d2QVVEX0E5dGV3TFJOR3daVmYxdkRUWXJOelhaV3dxckhWLU13dFBTNWM4bk9lSzZfRHNEUWRXNEdOQWt3OVhzNVVjckkwRlJVSmNxZjJPSzQ2TF8zYkluNWl2OF82XzItdTZCZDFfUjdxVk5ESEJpUzVoLU5McmlUcTcxN3YtYm5fNTJmeXlLblN6Tk5aRzdEZU1tVjJlcWVCaF9YQzd0YUloV3BZS0RxbVR5Rko5b1lLZlE4TllWaVZLNThKQmNqRE5rY08xLTJEdl9mNDFITGM?oc=5
 
 - Markets News, Sep. 12, 2025: Dow Slips as Nasdaq Closes at Fresh Record; Tesla Leads Tech Stocks Higher - Investopedia
   The Dow closed at a fresh record high on Tuesday. The Nasdaq closed at
   🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBfSXFEa3dmSGNxNlJXbHRvMTF2LUUtODBKMFE2TzBhMWx5SGFUY2NrSFM0RFN1anNYVGZwQ2RXcWtHTlF1aFNUa2liTk5qUFMzVVpaR2J1YWdYakhoUEwzZEdWZFJicHRLQUdsRXBZQQ?oc=5
 
-- Tariff tensions, Jane Street ban drag trading volumes in August | Stock Market News - Mint
-  " target="_blank">Tariff tensions, Jane
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOQm5TSk95ZURiSWNhaEFzNVNNYnhkbjBYTC1pVVJFcFFjNERnTmh1TXJlRkpuNjdPYTRHWG82eWdObXBmZl9lS0ZGOUU1VGRGazVBLTRmQ2s4X3Rhb2NpblExQmlYYjZwU3lJRDFPWFN0TWY0emVSeWtnTG9iaHkzRnZqTnNLbUVHUWp5X3BGVFpYdFU0MkY2WG5DQUhtbm5tUG9Rdmp2aXlNcUFMSndz0gG0AUFVX3lxTE5waThWa0FWWXc2NUtFTG1uWldmd28teHFCOUVxNURpTEtMQWt6REdaZWEzUTU5Mlc5ZTBOQjRmZE82ZXFqVXBpREtqZFpmc2hlWnNUUDdVQVBDanYwcTlLdUFXTVVHRkNDNktHdHVkaXFuUVBmUnBzOGI5UThfVkloNV9sS2ppTHp6QlZKQnVqME51ZEpHc0Z3YnMwX0JIaUoyemxPb2c0emFUaERNTldzZ1A2VQ?oc=5
+- Relaxed IPO rules, wider market funnel - The Economic Times
+  The Economic Times reports that
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPSE1qaVFsVVVLWi1FTTU3bjlFbmFZczlISnJKNWo3VkRyZmFJaG53ZDlOa2ROdXdPbXN1WE81Vl9LOVBOLWdSOHNRRWNqQjZ3QlptcmthVHpaSndyQktueTF1SW5WeTVjV1p1TW1DWlZWeVQxLUpQREE2MUo2c1NUVEtIS2R5cEZ5aHZkaGNNdkpENVlmYXhKV0p6Z05PSVc1b1QyU2l2UUotbFROQnpxVFZoMTBOUVg4bFI3MDZ30gG3AUFVX3lxTE1CRnRoVE03TU1QNnd2R0luREdjNGUtMmdSTmFwZ0UtekJfQ3VJZVZYQy0zQy1JTmdfdlQ4cTJZVVBuOXhWMXU5RnJUWU1RQkVNQTNmNkg5R2VoU3RDTzJRZ051ZGk5YlVBUmdhZkJ0VmdLUG1HN1dJaFFPU3ExbWtJQzlSQ243SFlUZUZvTTljYTRtdFR4b2tRMkwyZXRYUGpqdTNRcmhfZmZ4a25wRG9OeExlUE1XTQ?oc=5
 
-- 5 hot stock ideas for this week: Cochin Shipyard, Railtel, Datamatics & more - The Economic Times
-  5 hot stock ideas for this week: Cochin Shipyard,
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYmFKWkJJMlFNRHRwc05VSElaVHVSWUtZVm0yY3VyUGZnMGlaeE9MZzZZcl9DOUFSdkg4cTZKLTNvclhvVTF1ZzBkcF9CajJrLVVPZ1U4MVNJUnF4ckhONFNGeFdxVXowb09wV3VBcV9HMFdkbUd1VWV0UGpnZVIxNVNlOWZFX1NyZ2hNXzVqTWFvZTlxdk9hSWZmUHpFVkF4b3V0SlNnWjNzZVk1Nk9GVi1iZGtBcUE2dFMwY1ZUQVNrQThob0VhSHVocTNBb0d2a2ZZSVJEWmJCR0twclRaelNUaXFoWVZsS0RGYm9SSHM?oc=5
+- Politics Drive Investment Divide in Southeast Asia’s Top Markets - Bloomberg.com
+  Politics Drive Investment Divide in Southeast Asia
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5LTGpwY0huYnh2MUJLQkxjWjRpU1JUVDU2bGlwRGxSNW9MVnR0VG9VSGxuSGJNYTJDd2tOMF9zSVlxazRSU0RBQjFNdFlKeDIwNVhfM0dma0xWdGFSV2RBU2owS3Z2dmRCZlQxOEo1Rk1vQl9FWWxITVlsQUdhTnBwLXU3SnRFb1R2a0lXYk5WNTVGOEVCdDJzRV9Kb3BLTnNuWEtiWmgtTFJUY1lrNmN2STdIQQ?oc=5
 
-- Markets this week: Fed policy outcome, US–India trade talks to guide sentiment; inflation, FII flows in f - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxQZE5sTlVhV1lDaHBXSjRfcXEtSk5EUWo1Q19EcTk0Y3ozRjlmenJ4RnJHeVhKeTJjMlpza2c5S3ZJV0dZeFZKZHpTQU1SYVhiUXQxUzVGTWx5LXVOcFpZcU1RSUtqQTR1Tn
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxQZE5sTlVhV1lDaHBXSjRfcXEtSk5EUWo1Q19EcTk0Y3ozRjlmenJ4RnJHeVhKeTJjMlpza2c5S3ZJV0dZeFZKZHpTQU1SYVhiUXQxUzVGTWx5LXVOcFpZcU1RSUtqQTR1TnVBWElnNk1CTXpDQl95NlBLY01HSnBualItM2VHaUl4dzMxUjk2dFBBR2hUS1h2c0V3aDlsYmFQdHZaMHhRdFFQNEJDMW5CWVdLZkdCc3dlZ3l4SS1rb0RBVGxhLTNKLWIxR1R4TEM5RXVDNi1qS0x5bXRpTGhtZHZYN3ZjaGhuUnRmblNfNlBWY2ttTFFiWTJvd05QMGJiVW1nN1U3UlhQMDM5azNteG1faWtiSU1lZHfSAZ8CQVVfeXFMT3NEM0txbFFfOG44Z0lHRTlLVmRCcERBTnkza29ZMTEzTjJUZGZNREM5bDlIMG5zNUVhM3QwY19teGQ1NGVScU51OFA2T1d2QVVEX0E5dGV3TFJOR3daVmYxdkRUWXJOelhaV3dxckhWLU13dFBTNWM4bk9lSzZfRHNEUWRXNEdOQWt3OVhzNVVjckkwRlJVSmNxZjJPSzQ2TF8zYkluNWl2OF82XzItdTZCZDFfUjdxVk5ESEJpUzVoLU5McmlUcTcxN3YtYm5fNTJmeXlLblN6Tk5aRzdEZU1tVjJlcWVCaF9YQzd0YUloV3BZS0RxbVR5Rko5b1lLZlE4TllWaVZLNThKQmNqRE5rY08xLTJEdl9mNDFITGM?oc=5
+- Markets eye Fed rate cut as gold stays near all-time high - Reuters
+  Markets eye Fed rate cut as gold stays
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGZtTDJ5RlFjSHp2S0lkeGI5Sk80c0pDNFJkSnBqUjNuLUdCRURab05wRndiekZ0NW81ZUFReFIxZjZYN09DUXdkSFlxLU5mT25CM0NIOEctbWZ2OUE5WWRYQjFDLU1XZFZCYS1SRGttRkJWZ19jV19zZXJNZXNmWExOVWt3cHFlMlYtb3M4Sm9TbXN1SGhSSS1mVTlyRno1S0xRMw?oc=5
 
 - Warren Buffett’s cautionary tale: Why investors still chase ‘oil in hell’
   Warren Buffett often recalls Benjamin Graham’s parable of ‘oil discovered in hell’ to illustrate herd-driven investing. The tale highlights how fear of missing out and
@@ -148,9 +148,69 @@
   "That's A Big Deal. It Caused Rift With
   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUhuVU9Bc1g3aG9NcDRjNjg5UlpPLTBTTl9OQnEtOVFkRkdwUE8zaTJiaDZiU1ptRkR1aVg5elpJS2x2cGF6cHlzWkRVdnV6N0JLLS1YS2JfVkJ0WjVIU3pHNERYMUk3TFg5SERfSm82aVNvSXg5T0UtQnQ2MVZZRXdBLXhQUDlBRFh3Z3ZNdTdfMUdrM29Pdk1PZlpvZENRR0hnOdIBrAFBVV95cUxPWUtYaWM2MnI2QjdCUW9fdVBhSzFHSm1VWF84UUlZMkhXYnQyMGlkQW44U1F1dHlnU0NsN0otV3Q0T1lVVFZkb1hRZjJvVTVxN28tbjAtSHVGTWdQOXFpMm94d1BvN3E3eXVOUE1CbmNseV9pUmd0c3d3LUdCTWFpejh2eVNIcGlxVWt1TWhybzA4elVIQjhTZTZBckY1V015WGk5NllhaU9mN0x2?oc=5
 
-- What does Trump's likely visit to India mean for the Indian stock market? 20 stocks to benefit - Mint
-  What does Trump's likely visit to India mean for the Indian stock market?
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNWJSWGlWQWxGWlRibzJYNXY2TUd1VUFUYUJWQ0VuRU1zczB6NnQ3SkJHWkNZRVRXWjVkRno1Q24tYndXMlJ5N2NvbVZaZTg2M29ZWVZNNkpKa2xJYXpJV2F6QzU3VFR4dG00aXdDNGw0M2tIR3Z0N1JjU2JueGU3Z2FMcF9SVWFlT1FTWWc4dnhuM2hnWmxQOHV4cDBfTUJkNVp1Wk9EekYxdE42Z2dCcTFxMjdnQjlJYlRoX0pVaVN2Y1lGbnk5T3pnQnBoclJ2LUloUDdnRTgyTGRpVExGbnhoV0lyZEM3SUc00gHwAUFVX3lxTFBLTmxETmRmdmk3MWRnVDdiaURDby0xSERuYmc2d3p3MnVFU3NtZWdmUzhVRGFKd1NJZ3dzal9OYlBkTnhVSzZ3UFY5b2dWM0s2TzdFM1k3Nkt0bGJESEVZTHpOb2M4Y2RzaDBjMGhNU3FpV0x3TXhPa2RWak4xdnJnWlVSY3NhZzRoSmVPeEJQQWhneEZtNWlCekVoY0JOLUY4UHdOaFVWTWczelVJN2s0ZXdvZ0JteGNrNnU4UTZBSmQwc0ZQQkJKSzIwbkkybXN0UVpSeWtuaDd2UFQydm5Lc0RHMkdYRWxhNmFFVDVfVQ?oc=5
+- ‘Causes rift with India': Trump recasts Russia-linked tariffs, points at Europe | Latest News India - Hindustan Times
+  ‘Causes rift with India': Trump recasts Russia-linked
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWUFkMml6LUdvNmpURUFCVDBJNGh5TnpmVFBpT0d1QTJoWWdRWDdGRjRhX2VwVlhnRlRWZzJKSXlvZWdJMXZOcnlnVjZEWFpCZ25lU3JFQXY1djJjY0JkelRnWVhHRXZFT1BLRTJyeFRGTVI1WS1hOHo4TnFMTFg4M3hPT183WGVQTXdoc2ljaHVUODJHbVU4S19tdnBLQ19qUGlRNXphbXU2REYtY2pFTXlBazF1UkpCcEE4Z2pBSXQ2ZTN5U3VuNHhLZXlXWlNYVkptZDhTQTNRelo3NkdRZVlraEx4M0tRSlVGcVB30gHzAUFVX3lxTE9KM1NOSGRoSzZzdFBDMDNCOUl4elNPUVo3QVM0alprTFRNTXlBZXhPcHJmcTNZNlRMcWhPaEZyTzQyQUFTUmdGaS1SUWJ0VXlLWVVuWGU4RjA0Ri1zNXIzSHotVFVhb0tQOVZxRnlYWTU3LTFhalZQN2pDYmxQZzVIZy1SQVF1ZFJHWUxieFBSbGVVcjJab1hEcW04NWZQaXpnakMtbHh2YkNURi05Ull4VmVDYUJ6VXNLaXp1OGppM0pabmk3U2JpbXFTcDFYMHg5c1lVcUN0V0hLd1dFcUVsVkJsZjhVWnBkWFJvcDktV0c1dw?oc=5
+
+- India, Pakistan to face off today: Asia Cup match fuels controversy | Here's why | Latest News India - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQaHRZRTJGTnBpdVRFYnJEWWRRXzF3QTJBWklOZksxR0x5Mm1kb2Q4Rml2WmxSNm9lYWIwbVo3VTZGT0J4eGJFNkFYb3lKek5ROGdJSEJzTDNONmIzRzhpYU5mcmtxbkhUb3
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaHRZRTJGTnBpdVRFYnJEWWRRXzF3QTJBWklOZksxR0x5Mm1kb2Q4Rml2WmxSNm9lYWIwbVo3VTZGT0J4eGJFNkFYb3lKek5ROGdJSEJzTDNONmIzRzhpYU5mcmtxbkhUb3JVRVBmSDFQQjJ1LVpiR1FIVHhxY00wWnlqM2RUaGFETTQ3TUJSWFdhVTZyV1BKSjRYS01ZQldtT251WHRzUUZYWGN5NEktM1RkeTdzMHo4SkdveU5GbE5KUnU0UlM2STJDR0fSAdIBQVVfeXFMUGJsSDJoY0hpeE1qMHhYTDFUOEFwQk1laDB0YTdIQ3lIVmNma2IzbkJvSU8tWUZERWtpeEllNll3eFV2ZU9TUl9wNjZidVJsZG1nOFNGQUNuMlBBd3hFMERKOEdINUVqbnVLWWpsWFdDRkNpQnV1SHljS2xoc05waGlVYm1lTkhTQ1NMZENyU2Z3WnFRUWVjWHZPVjlzMUROWHVLbVN0RXVRYi1VV2lLWEhqb2RqWlZ6MHQ4YTVRa1pGOG8yZUlwWExNbUtzVmItdWJn?oc=5
+
+- 5.8 Earthquake Jolts Assam's Guwahati, Tremors Felt In North Bengal, Bhutan - NDTV
+  5.8 Earthquake Jolts Assam's
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPVTZuOGhKVWQzNEpuakJMZUo4Zk9uUUVLRVpLNUNKbUpYYVp6dFliNzdmMnpLamp4MWZtNzFCZlNsd0pwSzl6U0pkVzVDQklqQ3l0YmZ1QzYwV281TmRNRGVWdURFVWI3aTkyOHdaLTlfclpTVEEweWRHU3ZrLXVoLWV3ZDhGdjg4Ui13azkwZC1fdm8xbXlmQUpZRGM2NWJGY0dsNE80T3ZHeW450gG0AUFVX3lxTE1VRVB3SC0zMU9HbHI5bjVwUl96UXBTMGtKS2FiWHBRbTZreFljOTJNX1hNak1IWXpiLWs3bFc3bFRZaXBNbHU3Y1FsTUUwM21XN0EzS3g0dmpGR2pBTC00b1hzeVRxUE9BelExekJMZ0h1a1FrLTlCRm9kTk1IczNNOFpoZ3RuTUJXTE5EOWpkdFQ1aWl5aWZWU0lHbkxBUmxXTk9GYkt4WWtDZnlnT1RqdG9CMg?oc=5
+
+- India spared, China the new villain in Trump's latest tariff post - India Today
+  India spared, China the new villain in Trump's
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxOTFVQVHVZTVBfUTFWNURMMFM3N01lOHp4OGMzV0pZTk40cTU2UGloSzlXZDl3Z2NxcDUxbVpETWpTai1vQlFuNlVqNkwyWGZpQmszdFJ6dERLQmdFZjdyaXduMUNBZzhkbDk3NHFkd0hRSHhXN0JYWEZrM2dYUmh4Ni1CQnhCUXhvekZOamVsUFk5R2N0eHJVNi1maHhPcmYxS0F0MkZHMHJ4S21SOEZLb2xZMHpKLU43WS1nX3pVUzBqajcyV09FcHh3azZHam5IajZHLUFrMW5fV1VISGs2XzhVcWh3Vm9wSVJOZUVVbUFfUGJlZDFuTmN5allwRG1rTEdWa0tR0gGLAkFVX3lxTE5JREE3XzJHVVRib19KOE9WUmNleExNTTlFQzJlaWFNN1FLY0dvNGNkNi1ZVVhVeGpDQU9sOU84bTVXdy15eHhuMEFpQ0RNYWNjRFB4MzcxSTVTN01WdnUyRjdhWEYwRUU1Rk5lNm91QzA1X091c2VIbXpQN01WckN1Nk1xQktKZWViMWt3RGJVZzd5SlNiTEF6dTlMWEFkXzdtcm9WSTJjbksyY2J2dFNCZVlMVUFjT2xkdW9QRDhFVzVIbjFHbnpYZ29nQk9XeWxtWjRnVXpnMW5GNTBjelc2TnJUTWoxaVkyb0g5eEU3dUZPUERiMngwWFE4akF4SFM3dHpLcDhtbmU4RQ?oc=5
+
+- "That's A Big Deal. It Caused Rift With India": Trump On 50% India Tariffs - NDTV
+  "That's A Big Deal. It Caused Rift With
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUhuVU9Bc1g3aG9NcDRjNjg5UlpPLTBTTl9OQnEtOVFkRkdwUE8zaTJiaDZiU1ptRkR1aVg5elpJS2x2cGF6cHlzWkRVdnV6N0JLLS1YS2JfVkJ0WjVIU3pHNERYMUk3TFg5SERfSm82aVNvSXg5T0UtQnQ2MVZZRXdBLXhQUDlBRFh3Z3ZNdTdfMUdrM29Pdk1PZlpvZENRR0hnOdIBrAFBVV95cUxPWUtYaWM2MnI2QjdCUW9fdVBhSzFHSm1VWF84UUlZMkhXYnQyMGlkQW44U1F1dHlnU0NsN0otV3Q0T1lVVFZkb1hRZjJvVTVxN28tbjAtSHVGTWdQOXFpMm94d1BvN3E3eXVOUE1CbmNseV9pUmd0c3d3LUdCTWFpejh2eVNIcGlxVWt1TWhybzA4elVIQjhTZTZBckY1V015WGk5NllhaU9mN0x2?oc=5
+
+- ‘Causes rift with India': Trump recasts Russia-linked tariffs, points at Europe | Latest News India - Hindustan Times
+  ‘Causes rift with India': Trump recasts Russia-linked
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWUFkMml6LUdvNmpURUFCVDBJNGh5TnpmVFBpT0d1QTJoWWdRWDdGRjRhX2VwVlhnRlRWZzJKSXlvZWdJMXZOcnlnVjZEWFpCZ25lU3JFQXY1djJjY0JkelRnWVhHRXZFT1BLRTJyeFRGTVI1WS1hOHo4TnFMTFg4M3hPT183WGVQTXdoc2ljaHVUODJHbVU4S19tdnBLQ19qUGlRNXphbXU2REYtY2pFTXlBazF1UkpCcEE4Z2pBSXQ2ZTN5U3VuNHhLZXlXWlNYVkptZDhTQTNRelo3NkdRZVlraEx4M0tRSlVGcVB30gHzAUFVX3lxTE9KM1NOSGRoSzZzdFBDMDNCOUl4elNPUVo3QVM0alprTFRNTXlBZXhPcHJmcTNZNlRMcWhPaEZyTzQyQUFTUmdGaS1SUWJ0VXlLWVVuWGU4RjA0Ri1zNXIzSHotVFVhb0tQOVZxRnlYWTU3LTFhalZQN2pDYmxQZzVIZy1SQVF1ZFJHWUxieFBSbGVVcjJab1hEcW04NWZQaXpnakMtbHh2YkNURi05Ull4VmVDYUJ6VXNLaXp1OGppM0pabmk3U2JpbXFTcDFYMHg5c1lVcUN0V0hLd1dFcUVsVkJsZjhVWnBkWFJvcDktV0c1dw?oc=5
+
+- India, Pakistan to face off today: Asia Cup match fuels controversy | Here's why | Latest News India - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQaHRZRTJGTnBpdVRFYnJEWWRRXzF3QTJBWklOZksxR0x5Mm1kb2Q4Rml2WmxSNm9lYWIwbVo3VTZGT0J4eGJFNkFYb3lKek5ROGdJSEJzTDNONmIzRzhpYU5mcmtxbkhUb3
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaHRZRTJGTnBpdVRFYnJEWWRRXzF3QTJBWklOZksxR0x5Mm1kb2Q4Rml2WmxSNm9lYWIwbVo3VTZGT0J4eGJFNkFYb3lKek5ROGdJSEJzTDNONmIzRzhpYU5mcmtxbkhUb3JVRVBmSDFQQjJ1LVpiR1FIVHhxY00wWnlqM2RUaGFETTQ3TUJSWFdhVTZyV1BKSjRYS01ZQldtT251WHRzUUZYWGN5NEktM1RkeTdzMHo4SkdveU5GbE5KUnU0UlM2STJDR0fSAdIBQVVfeXFMUGJsSDJoY0hpeE1qMHhYTDFUOEFwQk1laDB0YTdIQ3lIVmNma2IzbkJvSU8tWUZERWtpeEllNll3eFV2ZU9TUl9wNjZidVJsZG1nOFNGQUNuMlBBd3hFMERKOEdINUVqbnVLWWpsWFdDRkNpQnV1SHljS2xoc05waGlVYm1lTkhTQ1NMZENyU2Z3WnFRUWVjWHZPVjlzMUROWHVLbVN0RXVRYi1VV2lLWEhqb2RqWlZ6MHQ4YTVRa1pGOG8yZUlwWExNbUtzVmItdWJn?oc=5
+
+- 5.8 Earthquake Jolts Assam's Guwahati, Tremors Felt In North Bengal, Bhutan - NDTV
+  5.8 Earthquake Jolts Assam's
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPVTZuOGhKVWQzNEpuakJMZUo4Zk9uUUVLRVpLNUNKbUpYYVp6dFliNzdmMnpLamp4MWZtNzFCZlNsd0pwSzl6U0pkVzVDQklqQ3l0YmZ1QzYwV281TmRNRGVWdURFVWI3aTkyOHdaLTlfclpTVEEweWRHU3ZrLXVoLWV3ZDhGdjg4Ui13azkwZC1fdm8xbXlmQUpZRGM2NWJGY0dsNE80T3ZHeW450gG0AUFVX3lxTE1VRVB3SC0zMU9HbHI5bjVwUl96UXBTMGtKS2FiWHBRbTZreFljOTJNX1hNak1IWXpiLWs3bFc3bFRZaXBNbHU3Y1FsTUUwM21XN0EzS3g0dmpGR2pBTC00b1hzeVRxUE9BelExekJMZ0h1a1FrLTlCRm9kTk1IczNNOFpoZ3RuTUJXTE5EOWpkdFQ1aWl5aWZWU0lHbkxBUmxXTk9GYkt4WWtDZnlnT1RqdG9CMg?oc=5
+
+- India spared, China the new villain in Trump's latest tariff post - India Today
+  India spared, China the new villain in Trump's
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxOTFVQVHVZTVBfUTFWNURMMFM3N01lOHp4OGMzV0pZTk40cTU2UGloSzlXZDl3Z2NxcDUxbVpETWpTai1vQlFuNlVqNkwyWGZpQmszdFJ6dERLQmdFZjdyaXduMUNBZzhkbDk3NHFkd0hRSHhXN0JYWEZrM2dYUmh4Ni1CQnhCUXhvekZOamVsUFk5R2N0eHJVNi1maHhPcmYxS0F0MkZHMHJ4S21SOEZLb2xZMHpKLU43WS1nX3pVUzBqajcyV09FcHh3azZHam5IajZHLUFrMW5fV1VISGs2XzhVcWh3Vm9wSVJOZUVVbUFfUGJlZDFuTmN5allwRG1rTEdWa0tR0gGLAkFVX3lxTE5JREE3XzJHVVRib19KOE9WUmNleExNTTlFQzJlaWFNN1FLY0dvNGNkNi1ZVVhVeGpDQU9sOU84bTVXdy15eHhuMEFpQ0RNYWNjRFB4MzcxSTVTN01WdnUyRjdhWEYwRUU1Rk5lNm91QzA1X091c2VIbXpQN01WckN1Nk1xQktKZWViMWt3RGJVZzd5SlNiTEF6dTlMWEFkXzdtcm9WSTJjbksyY2J2dFNCZVlMVUFjT2xkdW9QRDhFVzVIbjFHbnpYZ29nQk9XeWxtWjRnVXpnMW5GNTBjelc2TnJUTWoxaVkyb0g5eEU3dUZPUERiMngwWFE4akF4SFM3dHpLcDhtbmU4RQ?oc=5
+
+- "That's A Big Deal. It Caused Rift With India": Trump On 50% India Tariffs - NDTV
+  "That's A Big Deal. It Caused Rift With
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUhuVU9Bc1g3aG9NcDRjNjg5UlpPLTBTTl9OQnEtOVFkRkdwUE8zaTJiaDZiU1ptRkR1aVg5elpJS2x2cGF6cHlzWkRVdnV6N0JLLS1YS2JfVkJ0WjVIU3pHNERYMUk3TFg5SERfSm82aVNvSXg5T0UtQnQ2MVZZRXdBLXhQUDlBRFh3Z3ZNdTdfMUdrM29Pdk1PZlpvZENRR0hnOdIBrAFBVV95cUxPWUtYaWM2MnI2QjdCUW9fdVBhSzFHSm1VWF84UUlZMkhXYnQyMGlkQW44U1F1dHlnU0NsN0otV3Q0T1lVVFZkb1hRZjJvVTVxN28tbjAtSHVGTWdQOXFpMm94d1BvN3E3eXVOUE1CbmNseV9pUmd0c3d3LUdCTWFpejh2eVNIcGlxVWt1TWhybzA4elVIQjhTZTZBckY1V015WGk5NllhaU9mN0x2?oc=5
+
+- ‘Causes rift with India': Trump recasts Russia-linked tariffs, points at Europe | Latest News India - Hindustan Times
+  ‘Causes rift with India': Trump recasts Russia-linked
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWUFkMml6LUdvNmpURUFCVDBJNGh5TnpmVFBpT0d1QTJoWWdRWDdGRjRhX2VwVlhnRlRWZzJKSXlvZWdJMXZOcnlnVjZEWFpCZ25lU3JFQXY1djJjY0JkelRnWVhHRXZFT1BLRTJyeFRGTVI1WS1hOHo4TnFMTFg4M3hPT183WGVQTXdoc2ljaHVUODJHbVU4S19tdnBLQ19qUGlRNXphbXU2REYtY2pFTXlBazF1UkpCcEE4Z2pBSXQ2ZTN5U3VuNHhLZXlXWlNYVkptZDhTQTNRelo3NkdRZVlraEx4M0tRSlVGcVB30gHzAUFVX3lxTE9KM1NOSGRoSzZzdFBDMDNCOUl4elNPUVo3QVM0alprTFRNTXlBZXhPcHJmcTNZNlRMcWhPaEZyTzQyQUFTUmdGaS1SUWJ0VXlLWVVuWGU4RjA0Ri1zNXIzSHotVFVhb0tQOVZxRnlYWTU3LTFhalZQN2pDYmxQZzVIZy1SQVF1ZFJHWUxieFBSbGVVcjJab1hEcW04NWZQaXpnakMtbHh2YkNURi05Ull4VmVDYUJ6VXNLaXp1OGppM0pabmk3U2JpbXFTcDFYMHg5c1lVcUN0V0hLd1dFcUVsVkJsZjhVWnBkWFJvcDktV0c1dw?oc=5
+
+- India, Pakistan to face off today: Asia Cup match fuels controversy | Here's why | Latest News India - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQaHRZRTJGTnBpdVRFYnJEWWRRXzF3QTJBWklOZksxR0x5Mm1kb2Q4Rml2WmxSNm9lYWIwbVo3VTZGT0J4eGJFNkFYb3lKek5ROGdJSEJzTDNONmIzRzhpYU5mcmtxbkhUb3
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaHRZRTJGTnBpdVRFYnJEWWRRXzF3QTJBWklOZksxR0x5Mm1kb2Q4Rml2WmxSNm9lYWIwbVo3VTZGT0J4eGJFNkFYb3lKek5ROGdJSEJzTDNONmIzRzhpYU5mcmtxbkhUb3JVRVBmSDFQQjJ1LVpiR1FIVHhxY00wWnlqM2RUaGFETTQ3TUJSWFdhVTZyV1BKSjRYS01ZQldtT251WHRzUUZYWGN5NEktM1RkeTdzMHo4SkdveU5GbE5KUnU0UlM2STJDR0fSAdIBQVVfeXFMUGJsSDJoY0hpeE1qMHhYTDFUOEFwQk1laDB0YTdIQ3lIVmNma2IzbkJvSU8tWUZERWtpeEllNll3eFV2ZU9TUl9wNjZidVJsZG1nOFNGQUNuMlBBd3hFMERKOEdINUVqbnVLWWpsWFdDRkNpQnV1SHljS2xoc05waGlVYm1lTkhTQ1NMZENyU2Z3WnFRUWVjWHZPVjlzMUROWHVLbVN0RXVRYi1VV2lLWEhqb2RqWlZ6MHQ4YTVRa1pGOG8yZUlwWExNbUtzVmItdWJn?oc=5
+
+- 5.8 Earthquake Jolts Assam's Guwahati, Tremors Felt In North Bengal, Bhutan - NDTV
+  5.8 Earthquake Jolts Assam's
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPVTZuOGhKVWQzNEpuakJMZUo4Zk9uUUVLRVpLNUNKbUpYYVp6dFliNzdmMnpLamp4MWZtNzFCZlNsd0pwSzl6U0pkVzVDQklqQ3l0YmZ1QzYwV281TmRNRGVWdURFVWI3aTkyOHdaLTlfclpTVEEweWRHU3ZrLXVoLWV3ZDhGdjg4Ui13azkwZC1fdm8xbXlmQUpZRGM2NWJGY0dsNE80T3ZHeW450gG0AUFVX3lxTE1VRVB3SC0zMU9HbHI5bjVwUl96UXBTMGtKS2FiWHBRbTZreFljOTJNX1hNak1IWXpiLWs3bFc3bFRZaXBNbHU3Y1FsTUUwM21XN0EzS3g0dmpGR2pBTC00b1hzeVRxUE9BelExekJMZ0h1a1FrLTlCRm9kTk1IczNNOFpoZ3RuTUJXTE5EOWpkdFQ1aWl5aWZWU0lHbkxBUmxXTk9GYkt4WWtDZnlnT1RqdG9CMg?oc=5
+
+- India spared, China the new villain in Trump's latest tariff post - India Today
+  India spared, China the new villain in Trump's
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxOTFVQVHVZTVBfUTFWNURMMFM3N01lOHp4OGMzV0pZTk40cTU2UGloSzlXZDl3Z2NxcDUxbVpETWpTai1vQlFuNlVqNkwyWGZpQmszdFJ6dERLQmdFZjdyaXduMUNBZzhkbDk3NHFkd0hRSHhXN0JYWEZrM2dYUmh4Ni1CQnhCUXhvekZOamVsUFk5R2N0eHJVNi1maHhPcmYxS0F0MkZHMHJ4S21SOEZLb2xZMHpKLU43WS1nX3pVUzBqajcyV09FcHh3azZHam5IajZHLUFrMW5fV1VISGs2XzhVcWh3Vm9wSVJOZUVVbUFfUGJlZDFuTmN5allwRG1rTEdWa0tR0gGLAkFVX3lxTE5JREE3XzJHVVRib19KOE9WUmNleExNTTlFQzJlaWFNN1FLY0dvNGNkNi1ZVVhVeGpDQU9sOU84bTVXdy15eHhuMEFpQ0RNYWNjRFB4MzcxSTVTN01WdnUyRjdhWEYwRUU1Rk5lNm91QzA1X091c2VIbXpQN01WckN1Nk1xQktKZWViMWt3RGJVZzd5SlNiTEF6dTlMWEFkXzdtcm9WSTJjbksyY2J2dFNCZVlMVUFjT2xkdW9QRDhFVzVIbjFHbnpYZ29nQk9XeWxtWjRnVXpnMW5GNTBjelc2TnJUTWoxaVkyb0g5eEU3dUZPUERiMngwWFE4akF4SFM3dHpLcDhtbmU4RQ?oc=5
+
+- "That's A Big Deal. It Caused Rift With India": Trump On 50% India Tariffs - NDTV
+  "That's A Big Deal. It Caused Rift With
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUhuVU9Bc1g3aG9NcDRjNjg5UlpPLTBTTl9OQnEtOVFkRkdwUE8zaTJiaDZiU1ptRkR1aVg5elpJS2x2cGF6cHlzWkRVdnV6N0JLLS1YS2JfVkJ0WjVIU3pHNERYMUk3TFg5SERfSm82aVNvSXg5T0UtQnQ2MVZZRXdBLXhQUDlBRFh3Z3ZNdTdfMUdrM29Pdk1PZlpvZENRR0hnOdIBrAFBVV95cUxPWUtYaWM2MnI2QjdCUW9fdVBhSzFHSm1VWF84UUlZMkhXYnQyMGlkQW44U1F1dHlnU0NsN0otV3Q0T1lVVFZkb1hRZjJvVTVxN28tbjAtSHVGTWdQOXFpMm94d1BvN3E3eXVOUE1CbmNseV9pUmd0c3d3LUdCTWFpejh2eVNIcGlxVWt1TWhybzA4elVIQjhTZTZBckY1V015WGk5NllhaU9mN0x2?oc=5
+
+- ‘Causes rift with India': Trump recasts Russia-linked tariffs, points at Europe | Latest News India - Hindustan Times
+  ‘Causes rift with India': Trump recasts Russia-linked
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWUFkMml6LUdvNmpURUFCVDBJNGh5TnpmVFBpT0d1QTJoWWdRWDdGRjRhX2VwVlhnRlRWZzJKSXlvZWdJMXZOcnlnVjZEWFpCZ25lU3JFQXY1djJjY0JkelRnWVhHRXZFT1BLRTJyeFRGTVI1WS1hOHo4TnFMTFg4M3hPT183WGVQTXdoc2ljaHVUODJHbVU4S19tdnBLQ19qUGlRNXphbXU2REYtY2pFTXlBazF1UkpCcEE4Z2pBSXQ2ZTN5U3VuNHhLZXlXWlNYVkptZDhTQTNRelo3NkdRZVlraEx4M0tRSlVGcVB30gHzAUFVX3lxTE9KM1NOSGRoSzZzdFBDMDNCOUl4elNPUVo3QVM0alprTFRNTXlBZXhPcHJmcTNZNlRMcWhPaEZyTzQyQUFTUmdGaS1SUWJ0VXlLWVVuWGU4RjA0Ri1zNXIzSHotVFVhb0tQOVZxRnlYWTU3LTFhalZQN2pDYmxQZzVIZy1SQVF1ZFJHWUxieFBSbGVVcjJab1hEcW04NWZQaXpnakMtbHh2YkNURi05Ull4VmVDYUJ6VXNLaXp1OGppM0pabmk3U2JpbXFTcDFYMHg5c1lVcUN0V0hLd1dFcUVsVkJsZjhVWnBkWFJvcDktV0c1dw?oc=5
 
 - India, Pakistan to face off today: Asia Cup match fuels controversy | Here's why | Latest News India - Hindustan Times
   <ol><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQaHRZRTJGTnBpdVRFYnJEWWRRXzF3QTJBWklOZksxR0x5Mm1kb2Q4Rml2WmxSNm9lYWIwbVo3VTZGT0J4eGJFNkFYb3lKek5ROGdJSEJzTDNONmIzRzhpYU5mcmtxbkhUb3
@@ -180,13 +240,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Accenture to Train 700,000 Staffers to Use Agentic AI Technology - Bloomberg.com
+  Accenture to Train 700,000 Staff
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1VlamNWWVAtZmJ4ZVVQN3NEazlvVlZHNnc5THdNQzZQc1lsUExpMXVBR3ZBeXQ0TXZrOF8tMVROOTFrQWVpcERLUm1kNmtiaVllYnhGa0dMU1Vlci1Db2hrM2dpOG5yS3diMm95Q2tmMHo1QWIyQXNBOGhYaTBGa1lSamV1N3Q1VUNmVVdMLXcxU1haMGNjMkR1anBadFdzb2JKQ2xGTWwxYlNxOERUWnI2NHhQQQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- IndiaAI Mission runs into challenges in building indigenous technology - Business Standard
+  IndiaAI Mission runs into challenges in
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTE5kbGkzaUtoOFRoVldoTXI0VTBiSGVsYWJXTUlfQVN1d2JJOWd0MWw2WUJjMU1QMEtXRVE1bzhaQzcwc2c2Z3NrUlpjeDBRLUV6ck9OVTJWTnRMMmVNcnNJc2tmT1JYZVZRMF9DUnA5cWZKZ3ZVeXlFbHY0a3gtUFJkM2Vma0FodmdZR3ppa1YzZWlZLXhTNXU4eXYyMERQTDUxVHp3bVQwT2s3bUJiWHpmRnVOY2FTZnJVemZSaVpKeklHdlNzWjV1R3pha1Jkbm82S2p5REhLd1lsMGfSAeMBQVVfeXFMUFN5a2lLVjZCd0Fyb0V5TzZjYy1jNzNkb2FVMWZGS3ZoMFc1cjhZTDUzaWk3dnoxWm1KaFJ0Z2RyZENPX3FKdHhEdEs2TWNVTHBibndWLVk0LTJnODA4THRmWWhDMnBGRkVEQVRMdjhwQVVNZE9CbzNhZ2dTOEl3TlRGMmZsRVpwLUgwT0VUb2xpaVhGc0hwUERYN215VUVaZnZ6YzZuQXoxOHRSLWxtQjJGQ21xdWhONlNLQVJKZGZGUlk0b0JDM0dEcFdpSFRZNjRGZGlaNnJhUnNFUnBUQ3FnbGs?oc=5
+
+- Making the case for a third AI technology stack - Brookings
+  Making the case for a third AI
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRlNBSjdHd0xJcXFYeTc3LUFLbEFYMUFIYUhiSG5TeXlzZFY4anBoRjdEOFBfV1pCVlFUbWdnYWRlaHdxLUh1LUtPdmxPNktsSFZ4TlVBTHZNcWxpRkk2XzNoN0x0WWNBZVg0YlN0cDg0dGdKVFk5U1pta3ZZcFNnU0JGRUpLT3RqUm9n?oc=5
+
+- Billion-dollar coffins? New technology could make oceans transparent and Aukus submarines vulnerable - The Guardian
+  The Guardian reports that Aukus submarines could be
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQa3BUNm5oektkYllMaE5tTWJKeW9MbHI1YzFLclR0Q3ZlSFhOUU00THFSbmMxQktqbURMSkJiRFRJekZvcWRwc08tX05DZXZHX1NMZzZXaFozakVUc0VEY3ZPM2lrYXRKMDZsZ2kyTWxaNFRIWUJBVXJPMzlGOUM2YzF0TjNOd0xfRzNCN2dXcC1mcTRyUUpUd0l6ay1BbDc1UHNYMGNHbGpKVjRQ?oc=5
+
+- Bose CEO Maier highlights Mangaluru’s emergence as a promising technology hub - The Hindu
+  Bose CEO Maier highlights Mangaluru�
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONi1qeHl4cFR0ZGFCSVFQaWJsXzJZMml0aTBIUzFERXk2VHRGVWxRQkZDV3NJd0pLRGswUEFqaWh0ejdTQ19TOHdPTElnUUsyaFhLYlg4aXJ3VE9RdWRCOHdROHo0TTBmSVU3M2dfMUpkOHZzTnlvUWNtd09qZUdWbUMwb1BjMHJkSHBlWk80YUtYVWNHMHhLSHgtZUcwRlk0TjlMRDU1Q2l4dG1TTU1OcGNacG5EM1U5YnZFMTJ1LXllZk1LQ1FXbkFubjdxUkU0aFJ4RjQ2TVNfTkXSAeIBQVVfeXFMTms0TC1LdmVheU1HQ1ZRSjBFTzByMWNyNHUtaFV5bEFTN1ZXeEJjWFoyN0FpQUtId0ZwMlRUcnpGOEplamFHV3EzQ0RtbTRXbDByc0RoRDhmV0dkanZiSU8yRmlRTWctallReTBaSS1jbHhtTHF5Ylp0YVYtNUdPVnZKdUFGaWNoMDdUblJYNHNkQjVBUjUyYXZtMnpQVHgwUC1KdWR2STkxOW4tTjh2aEZBX3EtRmlDdkhqRElTMF9sMUpXcmRCdXdKRFBYNXVKbjN6T0xTdlNBQkZ2ZWtNcTlYZw?oc=5
 
 
-_Last updated: 2025-09-14 12:28:43 UTC_
+_Last updated: 2025-09-14 18:22:37 UTC_
