@@ -1,44 +1,48 @@
 # 📰 Daily News Summaries
 
-- Fiscal first-half end nears, 6 agri schemes announced in Budget yet to hit ground
+- Flash floods, landslides in parts of Manipur following torrential rain
   
-  🔗 https://indianexpress.com/article/india/fiscal-first-half-end-nears-6-agri-schemes-announced-in-budget-yet-to-hit-ground-10248612/
+  🔗 https://indianexpress.com/article/india/flash-floods-landslides-in-parts-of-manipur-following-torrential-rain-10248938/
 
-- India raises racial attacks issue with Ireland human rights body
+- Amit Shah’s appeal on Hindi Diwas: Respect all Indian languages
   
-  🔗 https://indianexpress.com/article/india/india-raises-racial-attacks-issue-with-ireland-human-rights-body-10248607/
+  🔗 https://indianexpress.com/article/india/amit-shah-hindi-diwas-indian-languages-10248935/
 
-- Displaced people struggle for land rights amid anti-Maoist ops in Chhattisgarh
+- Justice M Sundar new chief justice of Manipur HC
   
-  🔗 https://indianexpress.com/article/india/displaced-people-struggle-for-land-rights-amid-anti-maoist-ops-in-chhattisgarh-10248472/
+  🔗 https://indianexpress.com/article/india/justice-m-sundar-new-chief-justice-manipur-hc-10248926/
 
-- Solving Crime: How a ‘beer party’ in a police station nailed a British woman’s rapist in Bengaluru
+- Naxalite killed in encounter with security forces in Jharkhand’s Palamu
   
-  🔗 https://indianexpress.com/article/india/solving-crime-how-a-beer-party-in-a-police-station-nailed-a-british-womans-rapist-in-bengaluru-10248449/
+  🔗 https://indianexpress.com/article/india/naxalite-killed-encounter-security-forces-jharkhand-palamu-10248900/
 
-- ‘Now I have to conduct his last rites’: Dallas beheading victim’s ageing mother
+- PM Modi Assam Visit Live Updates: His ‘entire day devoted to development of Assam’, Modi set to unveil projects worth Rs 18,530 crore
   
-  🔗 https://indianexpress.com/article/india/now-i-have-to-conduct-his-last-rites-dallas-beheading-victims-ageing-mother-10248410/
+  🔗 https://indianexpress.com/article/india/pm-modi-assam-kolkata-visit-live-updates-10248806/
 
-- Musk’s xAI lays off hundreds of data annotators, Business Insider reports
+- Nintendo’s Virtual Boy comeback puts focus back on VR… no one saw it coming
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/nintendos-virtual-boy-comeback-focus-back-on-vr-10248778/
+
+- AI’s Prophet of Doom wants to shut it all down
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ais-prophet-of-doom-wants-to-shut-it-all-down-10248757/
+
+- UK, US to sign multibillion-dollar tech deal during Trump’s visit
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/uk-us-to-sign-multibillion-dollar-tech-deal-during-trumps-visit-10248752/
+
+- Rolling Stone, Billboard owner Penske sues Google over AI overviews
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/rolling-stone-billboard-owner-penske-sues-google-over-ai-overviews-10248746/
+
+- Musk’s xAI lays off hundreds of data annotators: Report
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/musks-xai-lays-off-hundreds-of-data-annotators-business-insider-reports-10248039/
 
-- Amazon Great Indian Festival 2025 early deals: 5 best offers live now
-  
-  🔗 https://indianexpress.com/article/technology/amazon-great-indian-festival-2025-early-deals-5-best-offers-live-now-10247933/
-
-- OpenAI launches ‘Grove’ programme to mentor AI Entrepreneurs
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-launches-grove-programme-to-mentor-ai-entrepreneurs-10247983/
-
-- This lesser known Google Play Store trick can save you hours
-  
-  🔗 https://indianexpress.com/article/technology/techook/this-lesser-known-google-play-store-trick-can-save-you-hours-10247620/
-
-- Sony ULT Field 5 Review: Thumping bass and premium design for music lovers
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/sony-ult-field-5-review-10247612/
+- Australia to Invest $8 Billion in Aukus Defense Hub Near Perth
+  Australia will spend A$12 billion ($8 billion) on a defense hub to build naval ships and dock nuclear submarines, Prime Minister Anthony Albanese will announce Sunday
+  🔗 https://www.livemint.com/companies/news/australia-to-invest-8-billion-in-aukus-defense-hub-near-perth-11757817722708.html
 
 - Young and rich: From Oyo's Agarwal to Zepto's Palicha-Vohra duo — meet India's 2025 top 10 unicorn founders under 35
   ASK Private Wealth and Hurun India's unicorn report lists 73 startups for 2025, along with 150 potential future unicorns. We take a look at
@@ -56,109 +60,145 @@
   Hindustan Unilever Ltd has reduced prices on popular products like Dove shampoo and Kissan Jam. This follows the government's directive to pass on GST cut benefits.
   🔗 https://www.livemint.com/companies/dove-shampoo-kissan-jam-horlicks-lux-and-lifebuoy-soaps-getting-cheaper-hul-slashes-prices-amid-gst-reforms-11757747051900.html
 
-- Amazon suspends Palestinian engineer after criticism over Israel ties, he says, ‘I am left with no choice but to resist’
-  Ahmed Shahrour was informed of his suspension after posting on Slack. He criticised Project Nimbus, a $1.2 billion contract with the Israeli government.
-  🔗 https://www.livemint.com/companies/news/amazon-suspends-palestinian-engineer-after-criticism-over-israel-ties-he-says-i-am-left-with-no-choice-but-to-resist-11757725213503.html
+- Upcoming IPOs: Euro Pratik Sales IPO, VMS TMT IPO among public issues to open next week; check full list here
+  Last week, the market witness opening of Urban Company IPO, Shringar House of Mangalsutra IPO and
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-euro-pratik-sales-ipo-vms-tmt-ipo-among-public-issues-to-open-next-week-check-full-list-here-11757822818982.html
 
-- Politics Drive Investment Divide in Southeast Asia’s Top Markets
-  Political upheaval is driving a split in Southeast Asia’s financial landscape. Investors bet that the worst may finally be over in
-  🔗 https://www.livemint.com/market/stock-market-news/politics-drive-investment-divide-in-southeast-asia-s-top-markets-11757810482226.html
+- South Korean chip stocks rally on strong U.S. tech momentum
+  South Korean semiconductor stocks rose Friday morning, buoyed by strong momentum in U.S. tech stocks.
+  🔗 https://www.livemint.com/market/stock-market-news/south-korean-chip-stocks-rally-on-strong-u-s-tech-momentum-11757827315387.html
 
-- Global 36-Hour Interest-Rate Spree Heralds First US Cut of 2025
-  The first US interest rate cut since President Donald Trump took office for a second term is likely to seize the spotlight in a week that will determine policy settings for half of
-  🔗 https://www.livemint.com/market/stock-market-news/global-36-hour-interest-rate-spree-heralds-first-us-cut-of-2025-11757794809547.html
+- Stocks to buy under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday — 15 September 2025
+  Sumeet Bagadia has recommended three stocks to buy on Monday, September 14. Shriram Properties, Snowman
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-15-september-2025-11757820036254.html
 
-- Warner Bros. Brings Big Win for Fallen Angel Debt: Credit Weekly
-  Warner Bros. Discovery Inc.’s junk bonds surged this week. Big gains to investors that bet on the company when its future looked comparatively bleak. More such opportunities
-  🔗 https://www.livemint.com/market/stock-market-news/warner-bros-brings-big-win-for-fallen-angel-debt-credit-weekly-11757788779629.html
+- Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying SBI, BEL shares tomorrow - 15 September 2025
+  Sensex rose 355.97 points to 81,904.70, while Nifty 50 rose by 108.50 points to 25,114. Dharmesh Shah recommend buying SBI and BEL.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-sbi-bel-shares-tomorrow-15-september-2025-11757699360334.html
 
-- Dividend Stocks: IGL, Dixon Tech, Mazagon Dock, among others to trade ex-dividend next week — Check details here
-  Indraprastha Gas (IGL), Dixon Tech, Mazagon Dock, Aarti Pharmalabs, Panasonic Energy India, and Honda India Power
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-igl-dixon-tech-mazagon-dock-among-others-to-trade-ex-dividend-next-week-check-details-here-11757771567737.html
+- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday - 15 September 2025
+  Ganesh Dongre of Anand Rathi recommends three stocks to
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-15-september-2025-11757818292620.html
 
-- 250% rally in six months! Small-cap multibagger stock hits upper circuit for 65 days in a row
-  Shares have hit upper circuit for 65 days in a row and the warrants conversion move.
-  🔗 https://www.livemint.com/market/stock-market-news/250-rally-in-six-months-small-cap-multibagger-stock-hits-upper-circuit-for-65-days-in-a-row-11757766099572.html
+- Google Gemini vs ChatGPT: I tested who creates better 90’s retro-style “Nano Banana” AI portraits?
+  The internet is trending with vintage-style AI portraits. We compared Gemini and ChatGPT using the same 90’s retro prompts.
+  🔗 https://www.livemint.com/technology/tech-news/google-gemini-vs-chatgpt-i-tested-who-creates-better-90-s-retro-style-nano-banana-ai-portraits-11757827155187.html
 
-- Setback for Apple? Key AI head executive Robby Walker could leave amid delays to Siri upgrade
-  Robby Walker is reportedly set to leave next month after over a decade at the company. His exit follows delays in Apple’s AI rollout and a string of departures to Meta.
-  🔗 https://www.livemint.com/technology/tech-news/setback-for-apple-key-ai-head-executive-robby-walker-could-leave-amid-delays-to-siri-upgrade-11757754547707.html
+- iPhone 18 series leaks: Smaller Dynamic Island and no under-screen Face ID tipped
+  Leaks from Weibo’s Instant Digital hint the feature may debut in iPhone 19 Pro. With the iPhone 18 a year away, leaks and speculation are expected to continue.
+  🔗 https://www.livemint.com/technology/tech-news/iphone-18-series-leaks-smaller-dynamic-island-and-no-under-screen-face-id-tipped-11757821497713.html
 
-- Forget 3D figure, 10 Nano Banana Pro prompts to catch onto the viral AI trend on Google Gemini
-  The viral Nano Banana AI trend on Google Gemini is turning photos into quirky artworks. From pastel kawaii and anime heroes to cyberpunk avatars and plush toy styles, here are 10 creative
-  🔗 https://www.livemint.com/technology/tech-news/forget-3d-figure-10-nano-banana-pro-prompts-to-catch-onto-the-viral-ai-trend-on-google-gemini-11757749216734.html
+- Forget Nano Banana! 15 Vintage retro-style AI portrait prompts to catch viral Instagram trend with Google Gemini
+  Google Gemini lets users create retro-style portraits. Here is a step-by-step guide and 15 prompts for creating vintage portraits.
+  🔗 https://www.livemint.com/technology/tech-news/forget-nano-banana-15-vintage-retro-style-ai-portrait-prompts-to-catch-viral-instagram-trend-with-google-gemini-11757816485076.html
 
-- Apple Watch Series 9-11 and Ultra models to alert users of high blood pressure, receive FDA approval
-  The FDA has approved Apple’s new hypertension detection feature for Apple Watch Series 9, 10, 11, Ultra 2, and Ultra 3. Using the optical heart sensor, it passively monitors
-  🔗 https://www.livemint.com/technology/tech-news/apple-watch-series-9-11-and-ultra-models-to-alert-users-of-high-blood-pressure-receive-fda-approval-11757742979357.html
+- Amazon Great Indian Festival Early Deals are LIVE: Up to 40% off on the best gaming laptops from top brands
+  Amazon Great Indian Festival Early Deals are LIVE, offering up to 40% off on gaming laptops. Explore the best
+  🔗 https://www.livemint.com/technology/gadgets/amazon-great-indian-festival-early-deals-are-live-up-to-40-off-on-the-best-gaming-laptops-from-top-brands-11757679040416.html
 
-- Malicious prompts could exploit ChatGPT to steal data from your private emails, claims researcher
-  A malicious calendar invite could trick the AI into leaking emails and calendar data. An X user demonstrated a security flaw in ChatGPT’s new MCP tools.
-  🔗 https://www.livemint.com/technology/tech-news/malicious-prompts-could-exploit-chatgpt-to-steal-data-from-your-private-emails-claims-researcher-11757741894304.html
-
-- Massive price drop on Amazfit smartwatches on Amazon with up to 65% off
-  Amazfit smartwatches are on sale at up to 65% off. Choose from fitness
-  🔗 https://www.livemint.com/technology/gadgets/massive-price-drop-on-amazfit-smartwatches-on-amazon-with-up-to-65-off-11757671670362.html
-
-- Indian markets eye rally on GST cuts, trade hopes & AI, defence boom: Ajay Bagga - The Economic Times
-  Indian markets eye rally on GST cuts, trade hopes & AI, defence boom
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZzIyQldCWkVVZmdZSHhzVmFqRWVHbm52aHZBc0thdmwxZHNTejZsV29MYVlZZllmS0VwV1JwQ2pvcWRTbHNTMVN6R0JHUDRPdkhPRDVaQWpUcm0tcFRHWGh2RzNPVDQwYU9YQUozMWxacUtUVGJmWVBzbk1UczBJdVFnay1TRWhIeGFPRG5wSGpZRmZMNXZGNTRpcXByWllodFlzLTc2a2hOYWFHTnB6MDNFN2k4ajJBMUMxT19YWXpHM3lzSFpId0xzMGRsQnpLaHI2Y082VEh5MnE3dW9rRGt3UdIB6AFBVV95cUxPRGVKczVjUDEtMnV3OEVYaDA4RnJ5emFKUmM1UlpEYjl6RWFqTDRwenFWNkkyUUxuMno1ZVpHVWstX0FiOUxmb3RXWHZKVHFkaFhUYWJ0Nkd6YnN5Ti1kblFoY3I0ZWJLbl9DNk1RcDdQRlFnZ1dtTEktQVhVN3RqZDZMS19rZ0tRSHNWdUJyeS1ubkk3ZC1BdjhNTkpUeG5najNyWkw3b0F6S3VCMnpCRVM2Y0RoT0ZwYm42b2ctSVR4VWt4TWRNbUZaNmQ3OHBnbU1EbFRXNVNJQWtUTE8wMkVLQVpNNFBV?oc=5
-
-- Markets News, Sep. 12, 2025: Dow Slips as Nasdaq Closes at Fresh Record; Tesla Leads Tech Stocks Higher - Investopedia
-  The Dow closed at a fresh record high on Tuesday. The Nasdaq closed at
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBfSXFEa3dmSGNxNlJXbHRvMTF2LUUtODBKMFE2TzBhMWx5SGFUY2NrSFM0RFN1anNYVGZwQ2RXcWtHTlF1aFNUa2liTk5qUFMzVVpaR2J1YWdYakhoUEwzZEdWZFJicHRLQUdsRXBZQQ?oc=5
-
-- Stock Buyer Fatigue Kicks In as Bond Yields Rise: Markets Wrap - Bloomberg.com
-  Stock Buyer Fatigue Kicks In as
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOVWtva3VXWG1iSnFUWGVZU093TktFelQwVkR4VlJIa0NxRFU3Sl8wbXVGSjJpM1MzMEZ5azNsUFU1RHpDQ2VDcG8wMldLa0syZm9RN1oyT05fR19FUmNJendYTVZONHlzN3lXNmtxcUdjTXVocHhKdndCNFJVcVlTOW1HV29xb1NvR0ptT1ZsVDlpV0py?oc=5
-
-- Global markets today: Why S&P 500, Nasdaq hit record high? Explained with top 5 reasons - Mint
-  The S&amp;P 500 and Nasdaq hit record highs
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxQN2dIX1ZobkhtR0JFbTJZallJSVYtZU5JSkNiZzY0eWNVSVlJZml5VHpLZG5HSzlDZ2FpVHhSQ1RUVnNIMXN4UEloS1dPc0ZRaHd6MzFvamVZNTZvbkpxMWNBY2Q5aEFaVmowTXFRYm53alVsMzVyMGgwbXF0YVE4NTZjd08yMVlFTG5tOVJta0ZmQW5oTmNRWTI4aVRMczVlbUViT1BPMzdGNkdjdm1iVmN2aVF3eUM4dFM5M3Z3dmpISzJlbW1IeWlkMmFOcDhHUVBwY3NuY29GQnhyeVN5ZEtraVVHeHRIYzI3ekc4S20zNGI2MzVVUFNnVC1KcUYxRXFlUi13a3phZ1RkY1NVZ3Rn0gGXAkFVX3lxTE5EUUVrVmlxSjhPY3d2VFBwekJoZ3RWWFdyb2NqT1JvU3o3Sml0d0dXMUN0LU9yUDBVT0hVS0pHYkJ4ZW56eWRPSnFNWW54RjhkUG9YQWRjWV9YTHJZbG9fZFItUnh3cVF5bXc3eGloU2xub1p5U0p1d1J2TXpUQ3R2cDVJUWk4WEFicG4tV0prbUoxWjVTZ0tTTVdVODlrM3F2RldLNUliSl9XX1FBMEppc3VGVTkwWFhreHJKZVhGODA2cGtIaGttYVNlUUUtVmdCRldjZXlZZ3N5OHBJc2U1VG1RWC0tOEwtTjlzNmhoY3Z0Z2FUM2NqRFpWa0JORFpCUUpJelVxWkM5aFlwNGs4VW5NbktSWQ?oc=5
+- Google Gemini Nano Banana AI saree trend goes viral on Instagram — step-by-step guide to create it
+  Instagram’s latest craze, the Vintage Saree AI trend, transforms regular photos into 90s Bollywood-style posters. Using Google’
+  🔗 https://www.livemint.com/technology/google-gemini-nano-banana-ai-saree-trend-goes-viral-on-instagram-step-by-step-guide-to-create-it-11757814743593.html
 
 - Politics Drive Investment Divide in Southeast Asia’s Top Markets - Mint
   Politics Drive Investment Divide in Southeast Asia
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNRHVCM0pjV1VRT2FkakMwYXNIeGluclVDY29pZHYwM2llcUUycE5UZkJDV1Q2MGlpV2ZzbThBZkJJeTI4OTVoc1loRlpCM191SGtxMV9XRnFqTWZ6dWdvYUhpTm9HLW9iaDJmakRuV2ktR1FEenAzVTZ6WXRrZnBJVWpMZjkxYThZYzVGRG1QdzhtRWhuV3BFc003d0tyLUZVa2VPcVlBR0FUZFBGeEpGVjlJUmVfX2pHOEtZS3Z1QkxiMF90eG5sdUF4S1l0enfSAdQBQVVfeXFMT0laamJTZHBQRFRxUDN4NkRma3hsS2xWa2NWSG4tcE1KME9fbWJPbzdqR3czQ1RUUTdNS25FU2JWRjlNM2hBaW9JQndscTRGWkpSS0NxODFMMi02Z2o3b3dYTnBqQ1NKU2lFQXVDcWQwN3Z5T0VkSWtSbWJNMF9aUEdZQnEtY3F4WnE5RGN0UnJZdkZWSUt5bmlGMXBheGFfV2JFbEpJZV9pTG12RnRleDU4TWo1NFdUQnhqVlBtbXVfamdtb0RKQkM0TkhzZ0hYSTdXVjg?oc=5
 
-- Indian markets eye rally on GST cuts, trade hopes &amp; AI, defence boom: Ajay Bagga
-  Indian markets ended the week strongly, driven by GST cuts, hopes of US tariff concessions, and earnings recovery. Ajay Bagga highlights global liquidity, Fed rate cut expectations
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-markets-eye-rally-on-gst-cuts-trade-hopes-ai-defence-boom-ajay-bagga/articleshow/123869035.cms
+- Markets News, Sep. 12, 2025: Dow Slips as Nasdaq Closes at Fresh Record; Tesla Leads Tech Stocks Higher - Investopedia
+  The Dow closed at a fresh record high on Tuesday. The Nasdaq closed at
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBfSXFEa3dmSGNxNlJXbHRvMTF2LUUtODBKMFE2TzBhMWx5SGFUY2NrSFM0RFN1anNYVGZwQ2RXcWtHTlF1aFNUa2liTk5qUFMzVVpaR2J1YWdYakhoUEwzZEdWZFJicHRLQUdsRXBZQQ?oc=5
 
-- FIIs sell Rs 10,782 crore worth of Indian equities in September, so far. Can GST reform, GDP numbers change tide?
-  Despite Rs 10,782 crore worth of FII selling in September, Nifty has held firm for eight straight sessions. Analysts say improving macro signals, policy reforms, and potential Fed
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-rs-10782-crore-worth-of-indian-equities-in-september-so-far-can-gst-reform-gdp-numbers-change-tide/articleshow/123868541.cms
+- 9 Penny stocks jumped up to 50% in 2 Weeks. Did you catch the rally? - The Economic Times
+  9 Penny stocks jumped up to 50% in 2 Weeks. Did you catch
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTG1VN2NzLWJqdzhjaW9CNlFsTUttbmtWQ0RhcmprUzNFT0VfUUdLLXo2VmxfR3VMSFAxQUh3eE1VR2Rkc1VGVUltcUk0dThvSHFTRlNqTzVnUDFrdkNpTUNuNTU1NG5ndl9Ja1R0WFpwZnNQQk1uc3JpZWNUQU9ZZ0gtdE81SDhfWnhvSU12YkNRYzlLb25Rdkk2ZXJUaG4tQW9Xb0FTb0dXbFNfY0VwTWI2a2lHQjVJVW1jOTNabjR5Q2FRbWhxQVg1OUtQUENDWEsxZ0tOZ0IwZkpaV19iYWc1QlV3T3c?oc=5
 
-- Nifty seen heading to 25,300 as metals, midcap IT lead: Axis Securities' Rajesh Palviya
-  Nifty targeting 25,300 and Bank Nifty aiming for 55,200. Midcap IT stocks, Hindustan Zinc, and National Aluminium are also expected to perform well. Samvardhana Motherson and Baj
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-seen-heading-to-25300-as-metals-midcap-it-lead-axis-securities-rajesh-palviya/articleshow/123868517.cms
+- South Korean chip stocks rally on strong U.S. tech momentum - Mint
+  South Korean chip stocks rally on strong U
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQLUtWUlhlNk9PaXlKR05mSjh3NEJjdEVuM19Sam5qQUtfQUdyNXV2THFscm9hdFVUOE42eDR5NmdJQ0FvNFA4ZExFMWxtTWVMd3hBMkk2WFQ0TF9feGkxN1FTV1RIQ2xrWWtzWktZbFRkYy1ueE9uODJycU1lVjBpM2t2ZGJPSlRGMEFuVi1sYmx5VTR5bmV2YlA1bDZqV1Bnb0FIX0xLTHJUR0VRczZ2ZXh3bk9iQ2YwTlFwcjBJY0NiVG1uRU1N0gHMAUFVX3lxTFAyWUxZaV9RMlFaMXc1U1RNVVgtamFzSnlTNTFWSng3VXZZSVFOaDdXWV9ieDE0ZXdBdTJTYzUxT1RHeVRBMmRYVWlqUVRrcS1NTHBLcHNoZDZVZS1BbGRlUTJtTS1KanRvMXRfeUNGQlZ0YW52UTNNRWdIaGxYaFYtTFZWek5Sci1oWHJ2VXJ3NDN2TmdjakV5cjVocjdfa0NTSmZFSmxJYUVod0hQX3hYRFBqQkxEa1lpaTFjWVNQUThNMzhNNG54RmVxag?oc=5
 
-- F&amp;O Talk| Nifty closes at 8-week high, bulls to now eye 25,500–25,700 levels: Sudeep Shah
-  Indian equities closed the week higher as GST reforms, strong domestic demand, and softer US inflation boosted sentiment. Nifty and Sensex gained over 1.5%,
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-closes-at-8-week-high-bulls-to-now-eye-2550025700-levels-sudeep-shah/articleshow/123868255.cms
+- Rs 32,000 crore festive IPO boom? LG Electronics, Tata Capital to test investor appetite this Diwali - The Economic Times
+  The Economic Times reported that the IPO market in India is expected to see a boom
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPMW9KNmEyRHQtVm1NeWVjQS16TjNCTHFUblZyMWJQbDhBQWViRW5tS05XcDBZbGhoR2hZVzJSSGpaOXVyUW5Bbmdac2N6dlQ4eXJvNFI5VC1HcUpSSlNXbVRHNXlpa0Y5RTgyQjZCa0RrbHlWOFRTY0w0Sm5nVTNyalZOVWljOTBXbzFyVjBUVnFhRDM1NU1YMzFXTjBhUDIzTE80RzduTEI3UEJ5RmhTeUV2RERyN1dWVElRR2tpd2xFamRqMUdaZDBiN0J4TmlSZjRCZjJJMHJlLTZDZjU1Z0d4MkhBTnJPMmFaSll6T3JkUFVCbndsMEZEdVlmcmZQQ2JUeVZ30gGGAkFVX3lxTE8xb0o2YTJEdC1WbU15ZWNBLXpOM0JMcVRuVnIxYlBsOEFBZWJFbm1LTldwMFlsaGhHaFlXMlJIalo5dXJRbkFuZ1pzY3p2VDh5cm80UjlULUdxSlJKU1dtVEc1eWlrRjlFODJCNkJrRGtseVY4VFNjTDRKbmdVM3JqVk5VaWM5MFdvMXJWMFRWcWFEMzU1TVgzMVdOMGFQMjNMTzRHN25MQjdQQnlGaFN5RXZERHI3V1ZUSVFHa2l3bEVqZGoxR1pkMGI3QnhOaVJmNEJmMkkwcmUtNkNmNTVnR3gySEFOck8yYVpKWXpPcmRQVUJud2wwRkR1WWZyZlBDYlR5Vnc?oc=5
 
-- Invest Rs 30,000, get assured Rs 24 lakh daily: An offer that got an investment advisor barred by Sebi
-  Sebi has cancelled the registration of Shilpa Garg’s Highlight Investment Research for fraud and mis-selling. Garg promised astronomical returns
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/invest-rs-30000-get-assured-rs-24-lakh-daily-an-offer-that-got-an-investment-advisor-barred-by-sebi/articleshow/123867523.cms
+- Adani Power shares up 8% in 2 weeks. Should you buy before the stock split clock runs out?
+  Adani Power shares have gained 23% this year, driven by new project wins, regulatory approvals, and an upcoming stock split. Analysts see strong momentum with upside toward Rs 700–730.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-power-shares-up-8-in-2-weeks-should-you-buy-before-the-stock-split-clock-runs-out/articleshow/123879130.cms
 
-- After IPL franchise, now PSL team boycotts India vs Pakistan in tit-for-tat move - The Times of India
-  After IPL franchise, now PSL team boycotts India vs Pakistan
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWlHRjgtTk1fMFkycjhCUmdEa294bjZvSWl2ZWNNZmZjUFRsdEhVdVdUMThzWkk3VFhsOEh4WlFfZUhHYWxsU3pQUTlLbHByRFczUl9zckF5UGhJbFBhc1lyXzhaRGlTRFpGZWkzYXpoTHEtdkp1ekt0SWcxSU9NZUdJVDYwUVBLX01DdzJsaFdxbEZiTHpPOTh1aTNZZ3Y5ZFpVaWhJa2R0aTUwWmU5RlF5MWZaRUxaYXh6dndCRzVCNkRydWxwSlNEbWYyMS00VGdXbDk1S2kxa3JyUXJJYmdhQ1J2X3NsdXZpZS1EQ2N0M0XSAfgBQVVfeXFMTUtMaXVoWTBQZ3NaUnBZOUU0dF9jUnJZZVozNFcyYjlDSnl1WVgyekJQbURTYWxPVHVEa0FiNnVCaTQ1TEU2LUdwdkUtZEM1TzVQVDVhc2FHb1VaUTA4c0ZSMzNGV0g2X0FrdWMzN1pHdnF2S3k2X1lPVXRsUWNraXhTMm9ObzU0bWN6ZU52T2dXVl9XMHFYSVpvNFRtUDZHVWR5SlRYcmxMby1pUjVKWkJUVVFralFrbFhrYlZBbHl3MjNPZnpvaTQ4UEdROWF4d0d4RUluYjBJc2wtZTc5bDZlSDA5R3pvWEx3RzNqWnc2Z2FTeE9Gamw?oc=5
+- ​9 penny stocks jumped up to 50% in two weeks. Did you catch the rally?
+  Eight penny stocks gained 25–52% over two weeks, identified for low market capitalization,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/9-penny-stocks-jumped-up-to-50-in-two-weeks-did-you-catch-the-rally/slideshow/123879080.cms
 
-- High Political Pitch, Boycott Calls Ahead Of India-Pak Asia Cup Face-Off - NDTV
-  India and Pakistan to play each other in the
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTBDS2ZEb3B4ZWZrQkFiVTVOeno0b2o4S210WDYzM0k5bU1ORDV3b282Vm51dnN0RUFNZVVqeFliSmpWUkh4bHlZdDlLN05LU2FoWFJZNzU3dnBoT1gwVVQyYU9fYnZYb3VidDR0SFB5dEotNWozTGZOMjZIMXVOWEFMMjl0c2ItRUp0dmVlQ1BMb0lMd1FtRUl0S1VyWVpaX2Nxb0tYMXc1OU4zcjZyQ3FyanNJdk8wbXM40gHDAUFVX3lxTE9sRjI0cDBFTkVfT19yMmdTVklhSkV0UUFoYVBCbmlSUEdkOXZfLWhxSGJSZk1UeDE0YjFqeS1rNF9MS3d3VHV6RG5RMFNBRHJPbkFONTdEc0pROF92N2FsXzItejNyYzgyNU0wQmJkTkljdVMtTW5iY2JKcVlNVHBaOE9uWC1kbFZMczVWWTlfc3pWd240c3VEcnRMR2hDVUVWSnpHTDdpWTg5NlZJT2dJbzNDUS0zSVcwSVUxb3BBc0ZWVQ?oc=5
+- IPO rush: Over a dozen cos eye Rs 10,000 cr amid policy push, favourable liquidity
+  Over a dozen companies are gearing up to launch their IPOs over the next two to three weeks. They are aiming to raise nearly Rs 10,000 crore, buoyed by supportive policy measures
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-over-a-dozen-cos-eye-rs-10000-cr-amid-policy-push-favourable-liquidity/articleshow/123878944.cms
 
-- Multinational contests like Indo-Pak cricket are ‘compulsion’: Thakur | Hindustan Times - Hindustan Times
-  " target="_blank">Multinational contests
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTUpIQ3ZkV0lPWVZFblN3SUxSNUN1b3MxUG95Rm5KNDFJN21SNFZLaTlwWGt6SFZSZUVMbFZGWlNCYzNqVkhRM3VmWFpUYmFXUHRqajh6MUZhYTdvVklnY1dBN1RlQjJpbU80T3RYamY1dnE5X1lzRnRmSkZiQi1SQ3psTHpWaGhpSVVjZUtENEZMc3J6em5PNk8wd3Z6eGhJdHRJbXdkbTlybG1WNE1LenBUSjNjWllDelk3Sk5GOGZSd0tYU1gyMjBub0h3TnJO0gHWAUFVX3lxTE95b010RXpaaE5JSDVUVXpZMU9WY2hxR0d0TFRlby1uTndBX2lROFVqT2pPal8waXduTlVCbUdvYmVKTTUyTzE1WlVmNEk1SnRzUzRGX3JEcDZBc09YbC1XMGxtQUlBdm9Xa3lwMVFpVTVSWmdmMHhQWEFyRFZHR2VwRWFoQ2xEOHJwS1dvYjk4cHM3Y1A0STdtNXFncmU1bllYYWVUb0RoaTdNWjFkOGIyWUNoY0pXX0dNbk1QWnpMWDhFaEFBS1NPZHRWc0xDTDhLc3V4ZWc?oc=5
+- Rs 32,000 crore festive IPO boom? LG Electronics, Tata Capital to test investor appetite this Diwali
+  Tata Capital’s Rs 17,000-crore issue and LG Electronics’ Rs 15,000,000 debut, together worth Rs 32,000 crore,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rs-32000-crore-festive-ipo-boom-lg-electronics-tata-capital-to-test-investor-appetite-this-diwali/articleshow/123878702.cms
 
-- The Metre-Gauge Mosaic - The Times of India
-  The Times of India
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNRjNaWmtMakIybVlvZXo5T3JiWDdYTGw1LXg2clYyTWtFYW9SeXdkaG1jWVlFVWZlVFZBTGw0RkJzZW5NSDk5RC15VUJFVzBCQlNacy1sUXBfVzFLczdsMnlTRHZhNTJtbFVYaXVQbHdPMmVYaU5UcnJMbjVEZHBDNWZIX0hRNmpZM1U1MktWXzNJNU9Dd1Jwa3JHNUNPd9IBowFBVV95cUxNWWxZX2FUM2tpMnA4RndFRGFvME1VZVU1UWJtalVwc1VhVzdMYzNpSjBVdG9QdTNMRWpvYTM3ajV4dDRQMU1fTWxpdHY3aVRfeWhraTBDUmdjQ0hHeEpZZHV6eTNxMXN0OTJaZDFZNnhFUVJuaXViUHByZnlhMTJSWExkZjJmc1NBdnRKNTBEa1RxaGRyMjZ4dkQ2LWlmS1dKMWow?oc=5
+- GST 2.0 and ripple effect on luxury, investments, and wealth planning
+  GST 2.0 simplifies India’s indirect tax regime with two core rates of 5% and 18%, plus a 40% de-merit slab. The reform aims to boost compliance, influence
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gst-2-0-and-ripple-effect-on-luxury-investments-and-wealth-planning/articleshow/123878639.cms
 
-- ‘Causes rift with India': Trump recasts Russia-linked tariffs, points at Europe | Latest News India - Hindustan Times
-  ‘Causes rift with India': Trump recasts Russia-linked
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWUFkMml6LUdvNmpURUFCVDBJNGh5TnpmVFBpT0d1QTJoWWdRWDdGRjRhX2VwVlhnRlRWZzJKSXlvZWdJMXZOcnlnVjZEWFpCZ25lU3JFQXY1djJjY0JkelRnWVhHRXZFT1BLRTJyeFRGTVI1WS1hOHo4TnFMTFg4M3hPT183WGVQTXdoc2ljaHVUODJHbVU4S19tdnBLQ19qUGlRNXphbXU2REYtY2pFTXlBazF1UkpCcEE4Z2pBSXQ2ZTN5U3VuNHhLZXlXWlNYVkptZDhTQTNRelo3NkdRZVlraEx4M0tRSlVGcVB30gHzAUFVX3lxTE9KM1NOSGRoSzZzdFBDMDNCOUl4elNPUVo3QVM0alprTFRNTXlBZXhPcHJmcTNZNlRMcWhPaEZyTzQyQUFTUmdGaS1SUWJ0VXlLWVVuWGU4RjA0Ri1zNXIzSHotVFVhb0tQOVZxRnlYWTU3LTFhalZQN2pDYmxQZzVIZy1SQVF1ZFJHWUxieFBSbGVVcjJab1hEcW04NWZQaXpnakMtbHh2YkNURi05Ull4VmVDYUJ6VXNLaXp1OGppM0pabmk3U2JpbXFTcDFYMHg5c1lVcUN0V0hLd1dFcUVsVkJsZjhVWnBkWFJvcDktV0c1dw?oc=5
+- "That's A Big Deal. It Caused Rift With India": Trump On 50% India Tariffs - NDTV
+  "That's A Big Deal. It Caused Rift With
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUhuVU9Bc1g3aG9NcDRjNjg5UlpPLTBTTl9OQnEtOVFkRkdwUE8zaTJiaDZiU1ptRkR1aVg5elpJS2x2cGF6cHlzWkRVdnV6N0JLLS1YS2JfVkJ0WjVIU3pHNERYMUk3TFg5SERfSm82aVNvSXg5T0UtQnQ2MVZZRXdBLXhQUDlBRFh3Z3ZNdTdfMUdrM29Pdk1PZlpvZENRR0hnOdIBrAFBVV95cUxPWUtYaWM2MnI2QjdCUW9fdVBhSzFHSm1VWF84UUlZMkhXYnQyMGlkQW44U1F1dHlnU0NsN0otV3Q0T1lVVFZkb1hRZjJvVTVxN28tbjAtSHVGTWdQOXFpMm94d1BvN3E3eXVOUE1CbmNseV9pUmd0c3d3LUdCTWFpejh2eVNIcGlxVWt1TWhybzA4elVIQjhTZTZBckY1V015WGk5NllhaU9mN0x2?oc=5
+
+- India spared, China the new villain in Trump's latest tariff post - India Today
+  India spared, China the new villain in Trump's
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxOTFVQVHVZTVBfUTFWNURMMFM3N01lOHp4OGMzV0pZTk40cTU2UGloSzlXZDl3Z2NxcDUxbVpETWpTai1vQlFuNlVqNkwyWGZpQmszdFJ6dERLQmdFZjdyaXduMUNBZzhkbDk3NHFkd0hRSHhXN0JYWEZrM2dYUmh4Ni1CQnhCUXhvekZOamVsUFk5R2N0eHJVNi1maHhPcmYxS0F0MkZHMHJ4S21SOEZLb2xZMHpKLU43WS1nX3pVUzBqajcyV09FcHh3azZHam5IajZHLUFrMW5fV1VISGs2XzhVcWh3Vm9wSVJOZUVVbUFfUGJlZDFuTmN5allwRG1rTEdWa0tR0gGLAkFVX3lxTE5JREE3XzJHVVRib19KOE9WUmNleExNTTlFQzJlaWFNN1FLY0dvNGNkNi1ZVVhVeGpDQU9sOU84bTVXdy15eHhuMEFpQ0RNYWNjRFB4MzcxSTVTN01WdnUyRjdhWEYwRUU1Rk5lNm91QzA1X091c2VIbXpQN01WckN1Nk1xQktKZWViMWt3RGJVZzd5SlNiTEF6dTlMWEFkXzdtcm9WSTJjbksyY2J2dFNCZVlMVUFjT2xkdW9QRDhFVzVIbjFHbnpYZ29nQk9XeWxtWjRnVXpnMW5GNTBjelc2TnJUTWoxaVkyb0g5eEU3dUZPUERiMngwWFE4akF4SFM3dHpLcDhtbmU4RQ?oc=5
+
+- What does Trump's likely visit to India mean for the Indian stock market? 20 stocks to benefit - Mint
+  What does Trump's likely visit to India mean for the Indian stock market?
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNWJSWGlWQWxGWlRibzJYNXY2TUd1VUFUYUJWQ0VuRU1zczB6NnQ3SkJHWkNZRVRXWjVkRno1Q24tYndXMlJ5N2NvbVZaZTg2M29ZWVZNNkpKa2xJYXpJV2F6QzU3VFR4dG00aXdDNGw0M2tIR3Z0N1JjU2JueGU3Z2FMcF9SVWFlT1FTWWc4dnhuM2hnWmxQOHV4cDBfTUJkNVp1Wk9EekYxdE42Z2dCcTFxMjdnQjlJYlRoX0pVaVN2Y1lGbnk5T3pnQnBoclJ2LUloUDdnRTgyTGRpVExGbnhoV0lyZEM3SUc00gHwAUFVX3lxTFBLTmxETmRmdmk3MWRnVDdiaURDby0xSERuYmc2d3p3MnVFU3NtZWdmUzhVRGFKd1NJZ3dzal9OYlBkTnhVSzZ3UFY5b2dWM0s2TzdFM1k3Nkt0bGJESEVZTHpOb2M4Y2RzaDBjMGhNU3FpV0x3TXhPa2RWak4xdnJnWlVSY3NhZzRoSmVPeEJQQWhneEZtNWlCekVoY0JOLUY4UHdOaFVWTWczelVJN2s0ZXdvZ0JteGNrNnU4UTZBSmQwc0ZQQkJKSzIwbkkybXN0UVpSeWtuaDd2UFQydm5Lc0RHMkdYRWxhNmFFVDVfVQ?oc=5
+
+- ‘Deeply insensitive’: Political tempers rise, boycott calls grow over India-Pakistan Asia Cup face-off | Latest News India - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRE81cFlxZ2I5NzFDV3VWaWtqc0ZyQ0dvRnoyWnNVRVA4VXVIVjZkRENUS3ZBZVBhZ29nN0JYSnV2eHNDcS1rZHBROGFzSmlfMHVCT1dodm1jc19hWW5ubDZRdUhqajh4VU
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRE81cFlxZ2I5NzFDV3VWaWtqc0ZyQ0dvRnoyWnNVRVA4VXVIVjZkRENUS3ZBZVBhZ29nN0JYSnV2eHNDcS1rZHBROGFzSmlfMHVCT1dodm1jc19hWW5ubDZRdUhqajh4VU1hZGxKSmdjUUNDNjZfYkt1aGJLS25fdWxIeGE0ZllWOTVIM2NuT253Tlh4eGtKUUxWS3R4VUdNeFhOZWZSUnM2MmF4U3BES1Q2SmgydVEwSTlxXzA3eG15T0ozRzREVmxZUVRQVy1YUVZscWNNeTNnRGJYWl8yQUxtYmt4QVNfcGxfMnFCNjRPcDDSAfgBQVVfeXFMTnhvNXZoZWl3RkJGV3U4QW42YjlZTXU1SGhtM0xTRF9Tejd3WXlSd010LVRYUlJjMHZoM0dZUlJ4UllQSWNNbWtLZmU3UE13eEdhTU1nQUhubDJpbnBXSnlIMjlmQnQ0WXE1emFQS0dEMmdOTngwWE1XUFNBVUgxT1RFdmtZUjRrS29wUE9VVXpsNzR3bEo1c2U1aDdUMWFsbTk0WUM0YUlRbTJtb2p1RTQ0RHk4Y3FXTW1fYXpBLTZMakNTOVl1YWhMV3dNQlctLTQ5VTBfVW1XQTRfWVJ3M2UtVnUwMnBvMjktYkREVWxBa25Yb0NtYm8?oc=5
+
+- Multiple blows, assault: Indian-origin man kills mother over TV remote dispute, sentenced to life in UK | Latest News India - Hindustan Times
+  Indian-origin man kills mother over TV remote dispute, sentenced to life in UK.
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVDFTa3NFaFNPSEhwYWwxUEx6ejMwZ2VUaUpCNHRhWnpBWnZmY2Jvd29tTkNlbTRWYXoxdXJManRQMDd3WTEtM1E1MzJkNGRMVjVsUkQ1NDg1S09YN1A0aHF1c2I3VG5lUTJRenpvaWFKZDAwbnhSMmNzTzE0UW5ZTnpxNzVuNzM5eFplT1dscGJERS1YaFJqcnVKTjYyZ1ZHTXk5TGsyTGFMZEJ4Y0pqMjZSNmZYS0NQU0I0ZzJfYlN0ZjIzeDd4VVpDUUhOc1VqZFN1dGNHeEIxbWlyUkJBUTRDSEpIUmtyLTl6UEdIUDFQb1JlQ2fSAfsBQVVfeXFMTkJwWXdKY0VtWThEV3VPTXkxbHpVV0xyby1xT1NhdU1mek9naVVJaVQwcDktSFZtRXdrVEtvQmtFb1JJNDQtalBScU1xT0wyLTMyT2QwczlHTS1mdnQzRTRWSmRHS0FoNVdpUlkzb29jai0zemJDejFhR0I5T25XT1hXeTlYeVoxQmNwUHNyME4xb3F3UmdCQWR1QWdvcnBmTGExRGtNbXNHVmg1U0pLT2otYWxrbURzMlVfcnFwRjdsVnV5ZVhYZWFOSXQ4ZkRmck5aeTZUWnUxZDZWU0lLTHFEeTdpUzRXOXlEUFRpSWtWX09feHo5bTdMd1E?oc=5
+
+- "That's A Big Deal. It Caused Rift With India": Trump On 50% India Tariffs - NDTV
+  "That's A Big Deal. It Caused Rift With
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUhuVU9Bc1g3aG9NcDRjNjg5UlpPLTBTTl9OQnEtOVFkRkdwUE8zaTJiaDZiU1ptRkR1aVg5elpJS2x2cGF6cHlzWkRVdnV6N0JLLS1YS2JfVkJ0WjVIU3pHNERYMUk3TFg5SERfSm82aVNvSXg5T0UtQnQ2MVZZRXdBLXhQUDlBRFh3Z3ZNdTdfMUdrM29Pdk1PZlpvZENRR0hnOdIBrAFBVV95cUxPWUtYaWM2MnI2QjdCUW9fdVBhSzFHSm1VWF84UUlZMkhXYnQyMGlkQW44U1F1dHlnU0NsN0otV3Q0T1lVVFZkb1hRZjJvVTVxN28tbjAtSHVGTWdQOXFpMm94d1BvN3E3eXVOUE1CbmNseV9pUmd0c3d3LUdCTWFpejh2eVNIcGlxVWt1TWhybzA4elVIQjhTZTZBckY1V015WGk5NllhaU9mN0x2?oc=5
+
+- India spared, China the new villain in Trump's latest tariff post - India Today
+  India spared, China the new villain in Trump's
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxOTFVQVHVZTVBfUTFWNURMMFM3N01lOHp4OGMzV0pZTk40cTU2UGloSzlXZDl3Z2NxcDUxbVpETWpTai1vQlFuNlVqNkwyWGZpQmszdFJ6dERLQmdFZjdyaXduMUNBZzhkbDk3NHFkd0hRSHhXN0JYWEZrM2dYUmh4Ni1CQnhCUXhvekZOamVsUFk5R2N0eHJVNi1maHhPcmYxS0F0MkZHMHJ4S21SOEZLb2xZMHpKLU43WS1nX3pVUzBqajcyV09FcHh3azZHam5IajZHLUFrMW5fV1VISGs2XzhVcWh3Vm9wSVJOZUVVbUFfUGJlZDFuTmN5allwRG1rTEdWa0tR0gGLAkFVX3lxTE5JREE3XzJHVVRib19KOE9WUmNleExNTTlFQzJlaWFNN1FLY0dvNGNkNi1ZVVhVeGpDQU9sOU84bTVXdy15eHhuMEFpQ0RNYWNjRFB4MzcxSTVTN01WdnUyRjdhWEYwRUU1Rk5lNm91QzA1X091c2VIbXpQN01WckN1Nk1xQktKZWViMWt3RGJVZzd5SlNiTEF6dTlMWEFkXzdtcm9WSTJjbksyY2J2dFNCZVlMVUFjT2xkdW9QRDhFVzVIbjFHbnpYZ29nQk9XeWxtWjRnVXpnMW5GNTBjelc2TnJUTWoxaVkyb0g5eEU3dUZPUERiMngwWFE4akF4SFM3dHpLcDhtbmU4RQ?oc=5
+
+- What does Trump's likely visit to India mean for the Indian stock market? 20 stocks to benefit - Mint
+  What does Trump's likely visit to India mean for the Indian stock market?
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNWJSWGlWQWxGWlRibzJYNXY2TUd1VUFUYUJWQ0VuRU1zczB6NnQ3SkJHWkNZRVRXWjVkRno1Q24tYndXMlJ5N2NvbVZaZTg2M29ZWVZNNkpKa2xJYXpJV2F6QzU3VFR4dG00aXdDNGw0M2tIR3Z0N1JjU2JueGU3Z2FMcF9SVWFlT1FTWWc4dnhuM2hnWmxQOHV4cDBfTUJkNVp1Wk9EekYxdE42Z2dCcTFxMjdnQjlJYlRoX0pVaVN2Y1lGbnk5T3pnQnBoclJ2LUloUDdnRTgyTGRpVExGbnhoV0lyZEM3SUc00gHwAUFVX3lxTFBLTmxETmRmdmk3MWRnVDdiaURDby0xSERuYmc2d3p3MnVFU3NtZWdmUzhVRGFKd1NJZ3dzal9OYlBkTnhVSzZ3UFY5b2dWM0s2TzdFM1k3Nkt0bGJESEVZTHpOb2M4Y2RzaDBjMGhNU3FpV0x3TXhPa2RWak4xdnJnWlVSY3NhZzRoSmVPeEJQQWhneEZtNWlCekVoY0JOLUY4UHdOaFVWTWczelVJN2s0ZXdvZ0JteGNrNnU4UTZBSmQwc0ZQQkJKSzIwbkkybXN0UVpSeWtuaDd2UFQydm5Lc0RHMkdYRWxhNmFFVDVfVQ?oc=5
+
+- ‘Deeply insensitive’: Political tempers rise, boycott calls grow over India-Pakistan Asia Cup face-off | Latest News India - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRE81cFlxZ2I5NzFDV3VWaWtqc0ZyQ0dvRnoyWnNVRVA4VXVIVjZkRENUS3ZBZVBhZ29nN0JYSnV2eHNDcS1rZHBROGFzSmlfMHVCT1dodm1jc19hWW5ubDZRdUhqajh4VU
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRE81cFlxZ2I5NzFDV3VWaWtqc0ZyQ0dvRnoyWnNVRVA4VXVIVjZkRENUS3ZBZVBhZ29nN0JYSnV2eHNDcS1rZHBROGFzSmlfMHVCT1dodm1jc19hWW5ubDZRdUhqajh4VU1hZGxKSmdjUUNDNjZfYkt1aGJLS25fdWxIeGE0ZllWOTVIM2NuT253Tlh4eGtKUUxWS3R4VUdNeFhOZWZSUnM2MmF4U3BES1Q2SmgydVEwSTlxXzA3eG15T0ozRzREVmxZUVRQVy1YUVZscWNNeTNnRGJYWl8yQUxtYmt4QVNfcGxfMnFCNjRPcDDSAfgBQVVfeXFMTnhvNXZoZWl3RkJGV3U4QW42YjlZTXU1SGhtM0xTRF9Tejd3WXlSd010LVRYUlJjMHZoM0dZUlJ4UllQSWNNbWtLZmU3UE13eEdhTU1nQUhubDJpbnBXSnlIMjlmQnQ0WXE1emFQS0dEMmdOTngwWE1XUFNBVUgxT1RFdmtZUjRrS29wUE9VVXpsNzR3bEo1c2U1aDdUMWFsbTk0WUM0YUlRbTJtb2p1RTQ0RHk4Y3FXTW1fYXpBLTZMakNTOVl1YWhMV3dNQlctLTQ5VTBfVW1XQTRfWVJ3M2UtVnUwMnBvMjktYkREVWxBa25Yb0NtYm8?oc=5
+
+- Multiple blows, assault: Indian-origin man kills mother over TV remote dispute, sentenced to life in UK | Latest News India - Hindustan Times
+  Indian-origin man kills mother over TV remote dispute, sentenced to life in UK.
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVDFTa3NFaFNPSEhwYWwxUEx6ejMwZ2VUaUpCNHRhWnpBWnZmY2Jvd29tTkNlbTRWYXoxdXJManRQMDd3WTEtM1E1MzJkNGRMVjVsUkQ1NDg1S09YN1A0aHF1c2I3VG5lUTJRenpvaWFKZDAwbnhSMmNzTzE0UW5ZTnpxNzVuNzM5eFplT1dscGJERS1YaFJqcnVKTjYyZ1ZHTXk5TGsyTGFMZEJ4Y0pqMjZSNmZYS0NQU0I0ZzJfYlN0ZjIzeDd4VVpDUUhOc1VqZFN1dGNHeEIxbWlyUkJBUTRDSEpIUmtyLTl6UEdIUDFQb1JlQ2fSAfsBQVVfeXFMTkJwWXdKY0VtWThEV3VPTXkxbHpVV0xyby1xT1NhdU1mek9naVVJaVQwcDktSFZtRXdrVEtvQmtFb1JJNDQtalBScU1xT0wyLTMyT2QwczlHTS1mdnQzRTRWSmRHS0FoNVdpUlkzb29jai0zemJDejFhR0I5T25XT1hXeTlYeVoxQmNwUHNyME4xb3F3UmdCQWR1QWdvcnBmTGExRGtNbXNHVmg1U0pLT2otYWxrbURzMlVfcnFwRjdsVnV5ZVhYZWFOSXQ4ZkRmck5aeTZUWnUxZDZWU0lLTHFEeTdpUzRXOXlEUFRpSWtWX09feHo5bTdMd1E?oc=5
+
+- "That's A Big Deal. It Caused Rift With India": Trump On 50% India Tariffs - NDTV
+  "That's A Big Deal. It Caused Rift With
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUhuVU9Bc1g3aG9NcDRjNjg5UlpPLTBTTl9OQnEtOVFkRkdwUE8zaTJiaDZiU1ptRkR1aVg5elpJS2x2cGF6cHlzWkRVdnV6N0JLLS1YS2JfVkJ0WjVIU3pHNERYMUk3TFg5SERfSm82aVNvSXg5T0UtQnQ2MVZZRXdBLXhQUDlBRFh3Z3ZNdTdfMUdrM29Pdk1PZlpvZENRR0hnOdIBrAFBVV95cUxPWUtYaWM2MnI2QjdCUW9fdVBhSzFHSm1VWF84UUlZMkhXYnQyMGlkQW44U1F1dHlnU0NsN0otV3Q0T1lVVFZkb1hRZjJvVTVxN28tbjAtSHVGTWdQOXFpMm94d1BvN3E3eXVOUE1CbmNseV9pUmd0c3d3LUdCTWFpejh2eVNIcGlxVWt1TWhybzA4elVIQjhTZTZBckY1V015WGk5NllhaU9mN0x2?oc=5
+
+- India spared, China the new villain in Trump's latest tariff post - India Today
+  India spared, China the new villain in Trump's
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxOTFVQVHVZTVBfUTFWNURMMFM3N01lOHp4OGMzV0pZTk40cTU2UGloSzlXZDl3Z2NxcDUxbVpETWpTai1vQlFuNlVqNkwyWGZpQmszdFJ6dERLQmdFZjdyaXduMUNBZzhkbDk3NHFkd0hRSHhXN0JYWEZrM2dYUmh4Ni1CQnhCUXhvekZOamVsUFk5R2N0eHJVNi1maHhPcmYxS0F0MkZHMHJ4S21SOEZLb2xZMHpKLU43WS1nX3pVUzBqajcyV09FcHh3azZHam5IajZHLUFrMW5fV1VISGs2XzhVcWh3Vm9wSVJOZUVVbUFfUGJlZDFuTmN5allwRG1rTEdWa0tR0gGLAkFVX3lxTE5JREE3XzJHVVRib19KOE9WUmNleExNTTlFQzJlaWFNN1FLY0dvNGNkNi1ZVVhVeGpDQU9sOU84bTVXdy15eHhuMEFpQ0RNYWNjRFB4MzcxSTVTN01WdnUyRjdhWEYwRUU1Rk5lNm91QzA1X091c2VIbXpQN01WckN1Nk1xQktKZWViMWt3RGJVZzd5SlNiTEF6dTlMWEFkXzdtcm9WSTJjbksyY2J2dFNCZVlMVUFjT2xkdW9QRDhFVzVIbjFHbnpYZ29nQk9XeWxtWjRnVXpnMW5GNTBjelc2TnJUTWoxaVkyb0g5eEU3dUZPUERiMngwWFE4akF4SFM3dHpLcDhtbmU4RQ?oc=5
+
+- What does Trump's likely visit to India mean for the Indian stock market? 20 stocks to benefit - Mint
+  What does Trump's likely visit to India mean for the Indian stock market?
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNWJSWGlWQWxGWlRibzJYNXY2TUd1VUFUYUJWQ0VuRU1zczB6NnQ3SkJHWkNZRVRXWjVkRno1Q24tYndXMlJ5N2NvbVZaZTg2M29ZWVZNNkpKa2xJYXpJV2F6QzU3VFR4dG00aXdDNGw0M2tIR3Z0N1JjU2JueGU3Z2FMcF9SVWFlT1FTWWc4dnhuM2hnWmxQOHV4cDBfTUJkNVp1Wk9EekYxdE42Z2dCcTFxMjdnQjlJYlRoX0pVaVN2Y1lGbnk5T3pnQnBoclJ2LUloUDdnRTgyTGRpVExGbnhoV0lyZEM3SUc00gHwAUFVX3lxTFBLTmxETmRmdmk3MWRnVDdiaURDby0xSERuYmc2d3p3MnVFU3NtZWdmUzhVRGFKd1NJZ3dzal9OYlBkTnhVSzZ3UFY5b2dWM0s2TzdFM1k3Nkt0bGJESEVZTHpOb2M4Y2RzaDBjMGhNU3FpV0x3TXhPa2RWak4xdnJnWlVSY3NhZzRoSmVPeEJQQWhneEZtNWlCekVoY0JOLUY4UHdOaFVWTWczelVJN2s0ZXdvZ0JteGNrNnU4UTZBSmQwc0ZQQkJKSzIwbkkybXN0UVpSeWtuaDd2UFQydm5Lc0RHMkdYRWxhNmFFVDVfVQ?oc=5
+
+- ‘Deeply insensitive’: Political tempers rise, boycott calls grow over India-Pakistan Asia Cup face-off | Latest News India - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRE81cFlxZ2I5NzFDV3VWaWtqc0ZyQ0dvRnoyWnNVRVA4VXVIVjZkRENUS3ZBZVBhZ29nN0JYSnV2eHNDcS1rZHBROGFzSmlfMHVCT1dodm1jc19hWW5ubDZRdUhqajh4VU
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRE81cFlxZ2I5NzFDV3VWaWtqc0ZyQ0dvRnoyWnNVRVA4VXVIVjZkRENUS3ZBZVBhZ29nN0JYSnV2eHNDcS1rZHBROGFzSmlfMHVCT1dodm1jc19hWW5ubDZRdUhqajh4VU1hZGxKSmdjUUNDNjZfYkt1aGJLS25fdWxIeGE0ZllWOTVIM2NuT253Tlh4eGtKUUxWS3R4VUdNeFhOZWZSUnM2MmF4U3BES1Q2SmgydVEwSTlxXzA3eG15T0ozRzREVmxZUVRQVy1YUVZscWNNeTNnRGJYWl8yQUxtYmt4QVNfcGxfMnFCNjRPcDDSAfgBQVVfeXFMTnhvNXZoZWl3RkJGV3U4QW42YjlZTXU1SGhtM0xTRF9Tejd3WXlSd010LVRYUlJjMHZoM0dZUlJ4UllQSWNNbWtLZmU3UE13eEdhTU1nQUhubDJpbnBXSnlIMjlmQnQ0WXE1emFQS0dEMmdOTngwWE1XUFNBVUgxT1RFdmtZUjRrS29wUE9VVXpsNzR3bEo1c2U1aDdUMWFsbTk0WUM0YUlRbTJtb2p1RTQ0RHk4Y3FXTW1fYXpBLTZMakNTOVl1YWhMV3dNQlctLTQ5VTBfVW1XQTRfWVJ3M2UtVnUwMnBvMjktYkREVWxBa25Yb0NtYm8?oc=5
+
+- Multiple blows, assault: Indian-origin man kills mother over TV remote dispute, sentenced to life in UK | Latest News India - Hindustan Times
+  Indian-origin man kills mother over TV remote dispute, sentenced to life in UK.
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVDFTa3NFaFNPSEhwYWwxUEx6ejMwZ2VUaUpCNHRhWnpBWnZmY2Jvd29tTkNlbTRWYXoxdXJManRQMDd3WTEtM1E1MzJkNGRMVjVsUkQ1NDg1S09YN1A0aHF1c2I3VG5lUTJRenpvaWFKZDAwbnhSMmNzTzE0UW5ZTnpxNzVuNzM5eFplT1dscGJERS1YaFJqcnVKTjYyZ1ZHTXk5TGsyTGFMZEJ4Y0pqMjZSNmZYS0NQU0I0ZzJfYlN0ZjIzeDd4VVpDUUhOc1VqZFN1dGNHeEIxbWlyUkJBUTRDSEpIUmtyLTl6UEdIUDFQb1JlQ2fSAfsBQVVfeXFMTkJwWXdKY0VtWThEV3VPTXkxbHpVV0xyby1xT1NhdU1mek9naVVJaVQwcDktSFZtRXdrVEtvQmtFb1JJNDQtalBScU1xT0wyLTMyT2QwczlHTS1mdnQzRTRWSmRHS0FoNVdpUlkzb29jai0zemJDejFhR0I5T25XT1hXeTlYeVoxQmNwUHNyME4xb3F3UmdCQWR1QWdvcnBmTGExRGtNbXNHVmg1U0pLT2otYWxrbURzMlVfcnFwRjdsVnV5ZVhYZWFOSXQ4ZkRmck5aeTZUWnUxZDZWU0lLTHFEeTdpUzRXOXlEUFRpSWtWX09feHo5bTdMd1E?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -180,13 +220,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Technology law professor’s ChatGPT experiment leaves him with a ‘shiver down his spine’; scholar shares un - The Economic Times
+  The Economic Times published an article on ChatGPT on Tuesday. The article
+  🔗 https://news.google.com/rss/articles/CBMirgJBVV95cUxQLVpMS2xXeWpXcGR4bnlfMnkyYUNFMkxRTHBuRkpTTUtQSHJpLWVyOVJHTXVzRjJLMGdvWWoxUkQ0MGlMRmpXblVMRER2a0NFejducmgwczBodVBvZURvVGlUcVdtekJkYTg3VWxzSWN4OV85ZDh6ZU9PUndORk11QlFpajhWSlhRRTdTTXZqbGE4VUQ0ZmQxOVkwVlZvV1lQZzROZklscnZXUml2V1d0RklKNUl6X1FiQ21RNlJrYlFtYjl5cHVLTl93b0FaOHJhZUJacmRiMWhOd05peGZIYVlfQ3VXRFZWaEpwNTU2VlhEX0FqcHM1SDB5R29XdXJxZklPMnVUaHAyN1RvOW1INDQ3NFFxQjdBRzVwUURTZjltYS1JMDlHckNJbTBqZ9IBswJBVV95cUxNX2VQUG5CaG9saGNQNnVpU1k0a3hIZzQzREFCTWdOYUFKaTVYbVZrWXpiVnpQVTcwVVlQNzc3amVNVFpGaUdNWkl6a0VXVjV3c3h6bmwzajh1NGNhTE13ZFVzbkFvZ2dKeUZqUGhGOGI1NUNQd2ZZR0lsMnIta19KdWtLdmZNb211Mmk4VHZkeFB6aDJCaVpIS0MzRTkydnFBTTAyYklfdTJTQWRKZFRJOGdZNVhDYVh6Ti12OGJDMTdhT2FkS3EwOWxESEhleWRlTGR6Q3hOdWJkeXVsNlNENGxHQ19RelBWelcwTjZDamh1anlsZHBvUVhYWHZnZzllUVk2VXM4OFRXUDRETEJPNk84TkliYlZZX3d2YWlJOEJFQ0xXLXVnR2ZjTEZYOWtJQnhN?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Making the case for a third AI technology stack - Brookings
+  Making the case for a third AI
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRlNBSjdHd0xJcXFYeTc3LUFLbEFYMUFIYUhiSG5TeXlzZFY4anBoRjdEOFBfV1pCVlFUbWdnYWRlaHdxLUh1LUtPdmxPNktsSFZ4TlVBTHZNcWxpRkk2XzNoN0x0WWNBZVg0YlN0cDg0dGdKVFk5U1pta3ZZcFNnU0JGRUpLT3RqUm9n?oc=5
+
+- The ‘people, process and technology’ triangle is key to AI success - Computer Weekly
+  The ‘people, process and technology’
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3AzVVlNRTZlUXBaLWlYUjI4dHJGU1pNMzktb2JvY1dQMVBRSk1aQzBKUURiQk9HTUdZVk9wa0hUY3BwSkk5NGpYeUdYNGt3ZnZQRzRkQzdhSE1mN3BDNjJka0Fpdzc3dXpDRmhfRmkzc0FYYUVoTW1CQThRZFVFTGtqWUtfLTlBYUVndTRja0V5cjExa0R3d09rNDVJNXc3YURNaw?oc=5
+
+- OpenAI launches ‘Grove’ programme to mentor AI Entrepreneurs - The Indian Express
+  OpenAI launches ‘Grove�
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOFJWS3oteWJOemZTNFNobUpHSjcyUzRNYXpOOUFtd3lwZXBCT3lyYUdJS3JsblY3bE80Z3Z0aV9FdWlZRVY5SlFZc0YyU0RZbFduWE54dkdqcmZTRnNLQUJzb3pkaEd1b2NGVUVzcVh6UXNaTEhzYzkzcWZLOWU5cHh0WkllcDhlSWtYWlRtV1JkWnpJb0NzY2RGMkI5dHV3d0VRWGpEbzJBRzNZUmFUVFlIWDdRUnF3YnJuVEtmTFEwS1RjdEMtNk9SSUtseGJ2eTVF0gHaAUFVX3lxTE9YRlQwLWFPTlFQdlVuLU9ESHdvMXF4VFl1ZnZCSUE5S1YycXk5S1pDUnJvUUVCSXBrVXdJRC1wRTJHQU5uVk9LM0RSNlFDYVFXM29yb1BrbzE4cWNqQ2tBUDA4dHVCUFlxRld2N1RQMlBWRjdpUHMySVExOVJzTk5zMm1GNWh4VmJsaXdueVFNVVBFZkFfanlYRE5DVHJJSzNuNmtHbV9IS2otSHZhTWNsNjFsTDNtbzRyYlFRcUh0aWwxSFF6NGE0ZGExM2N3LXNkeU1ON2RFUTF3?oc=5
+
+- AI And (Dis)Ability: Unlocking Human Potential With Technology - Forbes
+  Forbes: AI And (
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVRPQWJjOW4tZ1VMZVRRM1Q1WnFqNThlc1FTN0MwU0labXQwSzd0VEtRNm5wN0hINUwzMVMwaEszdGhQcjlVWDhiQ0JfMHljZ3FqQmZBMkoyRXBYZFYwRHJ0WDMwam1qVk5BV1dBN25QSEt2RGs0UkpOR2p1cFZTNlA4dElFNXVlRkFOLUc0WTJvZVdyaXMxeU4zRmpMWFgtRm9wemkzczFadXhVZGYwOXR1cGJkS0U?oc=5
 
 
-_Last updated: 2025-09-14 01:13:58 UTC_
+_Last updated: 2025-09-14 06:24:22 UTC_
