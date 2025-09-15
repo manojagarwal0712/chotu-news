@@ -1,232 +1,184 @@
 # 📰 Daily News Summaries
 
-- Maharashtra villages protest upcoming Adani cement plant
+- ITR Filing 2025: Last Date, Due Date Extension, Process, Penalty and Latest Income Tax Return Updates
   
-  🔗 https://indianexpress.com/article/india/maharashtra-villages-protest-upcoming-adani-cement-plant-10250219/
+  🔗 https://indianexpress.com/article/india/itr-filing-2025-last-date-extension-process-penalty-latest-income-tax-return-updates-10250635/
 
-- Opposition parties slam Govt over India-Pak match, call it insult to Pahalgam victims
+- Waqf Amendment Bill 2025 News LIVE Updates: Supreme Court stays provision requiring 5 years of Islamic practice to create waqf
   
-  🔗 https://indianexpress.com/article/india/opposition-parties-slam-govt-over-india-pak-match-call-it-insult-to-pahalgam-victims-10250213/
+  🔗 https://indianexpress.com/article/india/supreme-court-waqf-amendment-act-live-updates-10250660/
 
-- Rajnath Singh approves new manual to streamline revenue procurement, boost self-reliance
+- SC on Waqf Amendment Act: Waqf by user to be registered; stay on clause that creator has to be practising Islam for 5 yrs
   
-  🔗 https://indianexpress.com/article/india/rajnath-singh-approves-new-manual-to-streamline-revenue-procurement-boost-self-reliance-10250225/
+  🔗 https://indianexpress.com/article/india/supreme-court-hearing-pleas-validity-waqf-amendment-act-2025-10250560/
 
-- Constraints in new Finance office, Budget press to go modern, lighter
+- Young Kerala couple’s twisted ‘revenge plan’: Send a friendly invite, then dish out brutal torture
   
-  🔗 https://indianexpress.com/article/india/constraints-in-new-finance-office-budget-press-to-go-modern-lighter-10250191/
+  🔗 https://indianexpress.com/article/india/young-kerala-couples-twisted-revenge-plan-10250589/
 
-- For SOP, Amit Shah asks police research dept to study past protests, funding
+- Gold Today Rate, September 15: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/for-sop-amit-shah-asks-police-research-dept-to-study-past-protests-funding-10250206/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-september-15-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10250437/
 
-- How do AI models generate videos? - MIT Technology Review
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnl1UXhqcjZEYUE1dElJQzNfbEVteDFpM2NSWkxyWnVsQ2xQelVwTVFseEhpV2NGX1E2UXZqaFBwWTZsak5SaVBKVF93S3ZtUjdpZGZfOTZ3bVk1RFlsUW9ndWt6Vm9FTmRiakF5UUpNd2RqQ2VobG9DdmdDUS12akpaWkx1Vy1YRnZ0Q2Fn0gGTAUFVX3lxTE1UQ3FxTzNuT0dIX1F2MUV1d0NpeTFhY3ZtczFJQm1NTjR6QkRLcjhlNnByNUlpdDkyVlFCM3FvVFJuV19XcTJrTFp2S1VpcU11ai1UYktHUmpwclVuQUp0d0tTWVlPa0VSNVN2bHNGTEM1N29qbV9Zd2d6MzFrLTBEa0tsSVN3QTc4TWJCSTN0cG1HWQ?oc=5
+- The rise of AI tools forces schools to reconsider what counts as cheating
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/the-rise-of-ai-tools-forces-schools-to-reconsider-what-counts-as-cheating-10250631/
 
-- The ‘people, process and technology’ triangle is key to AI success - Computer Weekly
-  The ‘people, process and technology’
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3AzVVlNRTZlUXBaLWlYUjI4dHJGU1pNMzktb2JvY1dQMVBRSk1aQzBKUURiQk9HTUdZVk9wa0hUY3BwSkk5NGpYeUdYNGt3ZnZQRzRkQzdhSE1mN3BDNjJka0Fpdzc3dXpDRmhfRmkzc0FYYUVoTW1CQThRZFVFTGtqWUtfLTlBYUVndTRja0V5cjExa0R3d09rNDVJNXc3YURNaw?oc=5
+- China launches probes targeting US semiconductors ahead of Madrid trade talks
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/china-launches-probes-targeting-us-semiconductors-ahead-of-madrid-trade-talks-10250613/
 
-- Billion-dollar coffins? New technology could make oceans transparent and Aukus submarines vulnerable - The Guardian
-  The Guardian reports that Aukus submarines could be
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQa3BUNm5oektkYllMaE5tTWJKeW9MbHI1YzFLclR0Q3ZlSFhOUU00THFSbmMxQktqbURMSkJiRFRJekZvcWRwc08tX05DZXZHX1NMZzZXaFozakVUc0VEY3ZPM2lrYXRKMDZsZ2kyTWxaNFRIWUJBVXJPMzlGOUM2YzF0TjNOd0xfRzNCN2dXcC1mcTRyUUpUd0l6ay1BbDc1UHNYMGNHbGpKVjRQ?oc=5
+- Trump seen again pushing deadline on TikTok sale or divestment
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/trump-seen-again-pushing-deadline-on-tiktok-sale-or-divestment-10250607/
 
-- Bose CEO Maier highlights Mangaluru’s emergence as a promising technology hub - The Hindu
-  Bose CEO Maier highlights Mangaluru�
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxONi1qeHl4cFR0ZGFCSVFQaWJsXzJZMml0aTBIUzFERXk2VHRGVWxRQkZDV3NJd0pLRGswUEFqaWh0ejdTQ19TOHdPTElnUUsyaFhLYlg4aXJ3VE9RdWRCOHdROHo0TTBmSVU3M2dfMUpkOHZzTnlvUWNtd09qZUdWbUMwb1BjMHJkSHBlWk80YUtYVWNHMHhLSHgtZUcwRlk0TjlMRDU1Q2l4dG1TTU1OcGNacG5EM1U5YnZFMTJ1LXllZk1LQ1FXbkFubjdxUkU0aFJ4RjQ2TVNfTkXSAeIBQVVfeXFMTms0TC1LdmVheU1HQ1ZRSjBFTzByMWNyNHUtaFV5bEFTN1ZXeEJjWFoyN0FpQUtId0ZwMlRUcnpGOEplamFHV3EzQ0RtbTRXbDByc0RoRDhmV0dkanZiSU8yRmlRTWctallReTBaSS1jbHhtTHF5Ylp0YVYtNUdPVnZKdUFGaWNoMDdUblJYNHNkQjVBUjUyYXZtMnpQVHgwUC1KdWR2STkxOW4tTjh2aEZBX3EtRmlDdkhqRElTMF9sMUpXcmRCdXdKRFBYNXVKbjN6T0xTdlNBQkZ2ZWtNcTlYZw?oc=5
+- Under a thousand: Six super affordable accessories for your iPhone
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/under-a-thousand-six-super-affordable-accessories-iphone-10249554/
 
-- UK and US to sign technology agreement during Trump's state visit - India Today
-  UK and US to sign technology agreement during Trump's
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNY2lJMExjNDRyZVBFVUpDM3lkQkxJTUsyOUw5Y3VaU3ZiRkxZNVo0OGg5VTBoM3hzQ21kTS1aZVY3RDRlN04xM0hMVXk5NTRwSUcyWTBzdmV3M0s0dmdqeVpQY3U2MEJHeGpyd0R5cjJMdEphUTNOb0VLVThaS2NTODlSSFduaFJBZWlsSFVyVnJlYXpidElwMVRTc3N1UDdLem5mdXN6NVRaeThobmtXSS1SVWdDNEFYTGVyR3h4VGhQVlQ10gHKAUFVX3lxTE14eEFmSXd6Z2x6VG9ZcTRGQzVqWkE2bWxEeG5ZRGdTMnhOX0dnaURJN3lHTm11d3F6R21pVlgtanBtYlIyd1Q3djZwX0pOSEhWZnBPcXdhVmZOakNWeEE5QTlrMTBBa2ZQNS16c0Zsb1lPZjdsWWpGd1RqUUF0Skp4NG1UX3FyYjlnZmdmX251cEswdnZYR28zYnFrTmxUSFNSTk5MLVBiWkQ5b09sajFJcUtadzBpdVNmeC1GUGV5X0w2Tm5meDBMMlE?oc=5
+- Asia Cup 2025 India vs Pakistan: How to watch the match online via Airtel, Jio, Vodafone
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/india-vs-pakistan-ind-vs-pak-live-cricket-score-streaming-online-free-how-to-watch-live-match-on-jio-hotstar-airtel-vodafone-10249075/
 
-- Trump tariffs: Country of 1.4 billion won’t buy US corn, says Howard Lutnick; warns India will face ‘tough time’ - Mint
-  The White House has imposed tariffs on $2 billion worth of Indian imports. India
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxOMHM1d3pTV0VfYjQzSDliMV9GXzhkU3VGTFVKb0VScWVIM2NRbngxM2djY0lhWlZsMHM5eV84ZkNrUE13QnpsZGhvb3VNaHQzUUd4UGw1bEJSUnJvMFI4MVFEaDl6NHI0ZjVGMnh3aGFKel9NM0JadUVWc2gzUmpNTmsyTUVQYThWWlFySDlYemNpYkpTWmFjRkRKVG1LN1B0RnBnR0plQXJOY3VtSGFvcGlsNC1uUEhSTHl2MHdXZ1RMdkdZdzIydUJPb09jaUdITkRoQTZHLXI3bkVFZ1ZVT0p4dU5FNzl4SUZvTHNUUUpqZ2o3SjBYQmlFaENZdGt5N1MtRG9jdTNfZ9IBjwJBVV95cUxOWWFJLXJRUy1QYkw4N09hTWZSXzVNUDlFQ3AtbmhoUDdhVXhBZzZ6elh6VVN4bHRaNHdfdlVSQk0zdUVqbThHQmVNenMwYzh6Wnh4VndOMEU4UWxNR1pIMFlDaDZ5VFR2bmdYZmhzREVDbHNtQmtWTjlJa3QyWEkxdjBEYjFpQl8tSWRhZDlncmk5UWZ1WjMxY29uOFl2N0pxVEVJTllCQ3ZValVSVTBNSmxickJjM21LdXhXaVByTUoxZkxaZk5POV8zSkxGdHhTYURWd3RXeDUzZWEzS0pVRUotMEdxX3M0dWQ1Qi1ya2JEYm1aSGdfekR4bEZZUmFZU2RfUy1OZE1FUU1UbnNj?oc=5
+- Boutique Investment Bank BDA Cuts Jobs in China on M&A Woes
+  BDA Partners has cut some investment bankers in Shanghai to cope with intensifying competition in China and uncertainty over deals.
+  🔗 https://www.livemint.com/companies/news/boutique-investment-bank-bda-cuts-jobs-in-china-on-m-a-woes-11757909201245.html
 
-- US Will Sort Out India Deal After It Stops Buying Russia Oil: Top US Official - NDTV
-  US Will Sort Out India Deal After It Stops Buying Russia
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPM211cTFWdXVqQXBqb3pVQXNZeDRtTUtDWFVUUWJBc1ZaVEJYeHdNY3lvMG95ODlvWk5LbmtCQkNuZUtjMklyNWdaVDdSQlZSTmF2TFl4M05MeXN5cTRObTRtVHlDY0NndmRobmRwMkxBdFc3NDZuaS1YQzRKZ3Vkb3FMbDlEcXlWeVBMYnZLRjh4N0swOWJfV3oyalJoTENSVHVBM014ZGJTN1RFZW8zejlmeXBwd9IBvgFBVV95cUxNcHpUUW9DZmFRTDRNSGJDSTVXRm1KWEs3eGhEa1RTcmJKNTYxd1R3eV85RS0ySi04cmZCMWt1YWsxU2RRVFRwM21pMFRGLU1NbmFsNWk4eEUzRS1qMDNfUzJ6QXA1ZFlRQXJZcXdoN1N6eld2dFpiV3ZUMjk3dm5sb3dQVWNUYnFFVTNVMGdkMW1lTmx2c2F6SEQ5aEhiN3QwSlROQ01weWhYMTJIZGo3dWpyRjdTSHQydmFxNGJn?oc=5
+- GST a short-term fix? Why UBS thinks India’s real boost is still coming
+  UBS Securities’ Gautam Chhaochharia expects the latest GST cuts to boost India’s consumption in the short run. But he ca
+  🔗 https://www.livemint.com/companies/people/gautam-chhaochharia-ubs-securities-gst-tax-cuts-markets-domestic-consumption-monetary-policy-11757677054806.html
 
-- Corn in USA: Howard Lutnick says buy it or else... - Times of India
-  " target="_blank">Corn in USA
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc0RpeUJOeTJVc2pwZ21hMnptcmtzWE1xMF9taHMxc2dZcmk2Z0ZwUlJMTnQzSjVmeGRUaXR5VldmNjc0YV9wTU9pVWltajZPQnc4RVR5SHJpc21DTnJuSVVMbWh5UE1pZmF2eElsaVRVS190ak55YUdXbS1MTmF0Z2pseEx4RGhkRlRzMHZpTzA2cXdzRGxXTTFEVzF6TV9WMWdmTkhVTy1SM2UxaWJ3UmdXQmtLYTk3UjNXTXRSa3RQc0VzSHpMQTUyWjNTTHRXaldJ0gHYAUFVX3lxTE1aTVN0TTd3U2ZVOEp0TEpWc09fU3ctMEt4d3plNnRDOEttQk5qNjZ6QklITVU0ME9kaktJWWxvNzhXN2RFVU4wOWRtZlQyMXlfcHRnUi00RFBHOWR0MXJoYTNxckZRR1FIMnNZaFZVX1N4a1piNDZhNG5ZcEMyNllveFRFdG4wM3lpVmNGQ0tGMk1OY2FhRENxMzZRWVh5N0hwY1dKSi1wYm5PQU5aclBmM1NzZ3IxbUYxWnpUQ0dmZEN5Tkh0UTZBYlNxSmVFOEN2ckRJNlBsSw?oc=5
+- Tesla’s $1 trillion gamble on Elon Musk — explained in 5 charts
+  Elon Musk could potentially become the world’s first trillionaire. But only if Tesla survives its bold and risky
+  🔗 https://www.livemint.com/companies/in-charts-elon-musk-s-1-trillion-payout-tied-to-bold-bets-and-big-risks-11757850673349.html
 
-- India-Pakistan match draws ire: Opposition terms it betrayal to martyrs; government says 'two separate is - Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxQT1BheG94bnItYmNBc1ZVSGNJN3FLMG9RQWdSa2tTS0R3S0xrc3F3VW5YVVlqY2plZURkcC1neWVwQW8wak8xSVU5SWRJbkx0eGRfRktJVmxabjh3Z25jSjFjV1VLTXdyVl
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxQT1BheG94bnItYmNBc1ZVSGNJN3FLMG9RQWdSa2tTS0R3S0xrc3F3VW5YVVlqY2plZURkcC1neWVwQW8wak8xSVU5SWRJbkx0eGRfRktJVmxabjh3Z25jSjFjV1VLTXdyVlBNbHd0TTB5eFFsVlZyLXAzNUJ3Z0xlRDFrVTlMbkxRakxEenVuUUIxZU4tNjZjcUxlU3dsVjVOZE90bzQxUzI2VGlVbTRSZ2E4Xzg1MjJqLU1xbGJyYUhTaVhhTW15Y3hWVkp4TE9VYmVfcWxFRDdkUG4zSVNOZ2E3TFBJVzRnaERLSmlOd2twREdKMWFOSlpwQ2VVMU10VkRsUdIBigJBVV95cUxPWERhWUpSM1ZndlVPRjhkUEpZWFI4eDFRdTRRZGJKT2Y4UEZnQXB2alVpM1MwVTVRY2xNeklxRE12VkRjbzh3cVFwWjdNNHhHSVhTRWFSb3QzS0t2RFVNTm92MHJuWENjcV9RYjR6T21nMFFpMGhMT1p1eXd4eFRvRTJnUU1TbU9yX283QmNYRFVFWGxMVjlLQ3lHSWV4OFhhR1ktd0xWOV90OWhVR0lDaXBNR3BYWTJiRGRzTTFEOXM3aDdkdy0xRnE1a3FaRkFJUmFvdkFOQmY1RWRJQUxIeU5WLTBLTTlPNzZwUVFDZkdUQ2hMcE1lZklSa3VRcFR0ckp2VDh2eEJDdw?oc=5
+- How a Noel Tata plan for Tata Sons fizzled
+  Noel, the new chair of Tata Trusts, envisioned a new structure for Tata Sons. But the trustees weren't kicked about the proposal. When it comes to another term for chairman Chandrase
+  🔗 https://www.livemint.com/companies/noel-tata-plan-for-tata-sons-tata-trusts-tata-sons-aviation-digital-semiconductors-tvs-motor-11757857782649.html
 
-- Is that ‘Made in India’ product truly Indian? Govt plans to verify | Today News - Mint
-  Is that ‘Made in India’ product truly Indian?
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMEJFOFU5Nk1yRmNPWU9GdDZ2WjFRYlA1Vk15ZDNNbGtieTVqRUJnZllEUW1xenpkYTBtSmQzaGZxTkRpbTJKM01LbTNBbldQQnlfV2RxZHlVUjdFYUNMb3VobGt6bmxHVV9ySGwyeDg3OWQ4czgxT24teVNUaU5ZT0NKNUNkeFVWWi1rSWphc3lFN1BSeEhrbkV4TEJINFhIdUdzMVZWclNKOVZrVHFHUHhIeG5vVnhCajdHclg0SWUySU9JX3BZU1BacGZWLUlBeVpJUHhPcDNPakFzR29MY1VubVNJNERNQko3RTNtX0N6ekpkbUJPeDNBOVpGZ9IBgwJBVV95cUxNVEtpMFVFM1ZFVk5UYTF6YThQQThjUHR6UmV6WWtCOE1veFE5TmZKc295aWVybmpLc0hKYmY5V1kxelFaaV9RUnJFNEdRc1VnbjhOSTJ6NS1oTTlEM09PM2J0LWRyN3ZzYzBrWjlNSU5YT3dmMFN3VzJqWUI4Rm5JWmx3ZEd1bUpBWm13VG9ISHZULXJWYnNKYVNZR0JGdy1RMDVHTVRKaWdYU3dzMU02bzlWZGVCcDNWcWh3RFROUXd4X3NXcWsxT21DeEZoeVNSOU1lOV9FZ1hkRDVrckdOZEE5U0dFcGM5TllOaWw1RVNDZTZFS3ZyXzN2b1JLMzF3SkNv?oc=5
+- FMCG majors roll out trade notices ahead of GST rate cut on household essentials
+  India’s top FMCG firms including HUL, P&amp;amp;G, L
+  🔗 https://www.livemint.com/companies/fmcg-trade-notices-gst-rate-cut-household-essentials-hul-p-g-l-or-al-himalaya-11757865358124.html
 
-- Global Markets Today: Kospi, Australia's S&amp;P 200 trade mixed on US-China talks in Spain
-  Australia's S&amp;amp;P/ASX 200 slipped 0.75 per cent at the open. South Korea's Kospi gained 0.67 per cent to hit
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-kospi-australias-s-p-200-trade-mixed-on-us-china-talks-in-spain-11757896883931.html
+- Small-cap stock below  ₹25 hits 5% upper circuit on  ₹360 crore order win
+   STL Networks’ stock surged after securing a  ₹360 crore deal with PowerGrid Teleservices for a Tier III data center. The company will
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-below-rs-25-hits-5-upper-circuit-on-rs-360-crore-order-win-11757915756062.html
 
-- Stock market today: Trade setup for Nifty 50, global markets, India-US trade deal; 8 stocks to buy or sell on Monday
-  For Nifty, the 25150–25200 zone will act as a near-term resistance. A sustained move above 25200 could trigger a sharp rally towards 25500, and eventually
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-global-markets-india-us-trade-deal-8-stocks-to-buy-or-sell-on-monday-11757854578745.html
+- Divi’s, Cohance, Sai Life among Jefferies’ top picks in pharma sector; Laurus Labs rated underperform
+  India's CRDMO sector is set for growth in the next 3-5 years. Four stocks including Divi's Labs, Sai Life are expected to gain 17-30%. Concerns
+  🔗 https://www.livemint.com/market/stock-market-news/divis-cohance-sai-life-among-jefferies-top-picks-in-pharma-sector-laurus-labs-rated-underperform-11757916385418.html
 
-- Stock recommendations for 15 September from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 15 September. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-15-september-marketsmith-india-sensex-nifty-updates-trading-outlook-11757756749413.html
+- Bonus shares, dividend to share buyback: Income tax return rule you must know during ITR filing
+  Today marks the final day for filing ITR for AY 2025-26. Investors must declare all income, including dividends and share
+  🔗 https://www.livemint.com/market/stock-market-news/bonus-shares-dividend-to-share-buyback-income-tax-return-rule-you-must-know-during-itr-filing-11757915879735.html
 
-- Stocks to buy: Raja Venkatraman's top picks for 15 September
-  Market expert Raja Venkatraman shares his top three stock to buy today, 15 September.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatramans-top-picks-15-september-nifty-sensex-updates-11757747317840.html
+- Dev Accelerator IPO allotment date likely today. Check latest GMP, steps to know share allotment status online
+  Dev Accelerator IPO allotment date is likely today, 15 September 2025. IPO listing date is September 17.
+  🔗 https://www.livemint.com/market/ipo/dev-accelerator-ipo-allotment-date-likely-today-check-latest-gmp-steps-to-know-share-allotment-status-online-11757915708617.html
 
-- Why stock prices of mutual fund service providers are on a decline
-   mutual fund service providers Cams and KFin have dropped over 24% YTD due to
-  🔗 https://www.livemint.com/market/stock-market-news/stock-prices-mutual-fund-service-providers-cams-kfin-technologies-amc-computer-age-management-services-shares-11757832046727.html
+- Servotech Power Systems share price: EV stock jumps 4% after pact with Enovra Energy for solar &amp; EV charger business
+  Servotech Power Systems share price: EV stock jumps 4% after pact with
+  🔗 https://www.livemint.com/market/stock-market-news/servotech-power-systems-share-price-ev-stock-jumps-4-after-pact-with-enovra-energy-for-solar-ev-charger-business-11757916191351.html
+
+- Starlink down: Elon Musk’s internet service hit by major US outage, ‘Team is investigating’
+  Starlink, the satellite internet service by SpaceX, faced a global
+  🔗 https://www.livemint.com/technology/tech-news/starlink-down-elon-musks-company-reacts-to-outage-says-our-team-is-investigating-11757911581013.html
+
+- Apple plans 10 more product launches after iPhone 17 series debut; M5 MacBooks, AirTag 2 and more tipped: Report
+  Apple is reportedly gearing up to release 10 more devices, with half expected by the end of 2025. Expected products include M5 iPad Pro, Vision Pro, AirTag 2 and HomePod mini.
+  🔗 https://www.livemint.com/technology/tech-news/apple-plans-10-more-product-launches-after-iphone-17-series-debut-m5-macbooks-airtag-2-and-more-tipped-report-11757910808671.html
+
+- 10 Nano Banana AI image styles you can create with Gemini, reveals Google
+  Gemini AI can create everything from retro gaming characters to superhero comic-style stories. Google's blog post cites 10 examples of how users can
+  🔗 https://www.livemint.com/technology/tech-news/10-nano-banana-ai-image-styles-you-can-create-with-gemini-reveals-google-11757901409485.html
+
+- Apple iOS 26 launches on September 15: Eligible devices, Liquid Glass design, AI upgrade and more
+  Apple will release iOS 26 on 15 September 2025. It will bring a new ‘Liquid Glass’ design, AI-powered features like ‘Live Translation’ and
+  🔗 https://www.livemint.com/technology/gadgets/ios-26-arrives-on-september-15-eligible-devices-liquid-glass-design-intelligence-upgrade-and-more-11757898193865.html
 
 - Nano Banana trend: Facing image and sizing issues? Check step-by-step guide to fix aspect ratio when creating images
   The Nano Banana AI trend has surged, with users creating images on Google Gemini. A workaround using transparent PNGs allows for custom aspect ratios.
   🔗 https://www.livemint.com/technology/nano-banana-trend-facing-image-and-sizing-issues-check-step-by-step-guide-to-fix-aspect-ratio-when-creating-images-11757856281303.html
 
-- Nano Banana AI Trend: 10 hidden tricks and prompts you need to know today
-  Nano Banana is Google DeepMind's latest AI-powered image
-  🔗 https://www.livemint.com/technology/tech-news/nano-banana-ai-trend-google-gemini-10-hidden-nano-banana-tricks-and-prompts-you-need-to-know-today-11757856024076.html
+- Stock Market LIVE Updates: Sensex flat, Nifty slips below 25,100; India VIX jumps 3% - Moneycontrol
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLS1iN21rWHRsY3M3Z0ZFT3ZaNEhHTDZPcjhlVUdvcHRxc0pqb0VRa3U0UTNzZkV0bVp2N2NfOXU1ZHd1WjZTd3VHNlJQbnRFNHRUb0I2ZHNENnkzRnEwWjBwcU9LWDF0SX
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLS1iN21rWHRsY3M3Z0ZFT3ZaNEhHTDZPcjhlVUdvcHRxc0pqb0VRa3U0UTNzZkV0bVp2N2NfOXU1ZHd1WjZTd3VHNlJQbnRFNHRUb0I2ZHNENnkzRnEwWjBwcU9LWDF0SXpnWXRhOUduUW1jQ1BrcWlrd1piOVhUa1QwdEtsekxZQXVxb1ctZ0YzQzJiZ0J0RkxlaGZyQUZsY09JaFJMcDJ3elpsbUNQMW0xZVdGMlZuMk9ucF9DelBIanh4WWJ2ZkVtVkRVdFF6aW5kT0VZX2g2bWxSYXFVUVlIR2NWZ3pKQ2Y0QQ?oc=5
 
-- Amid Nano-Banana trend, Google Gemini replaces ChatGPT in top apps months after Ghibli took internet by storm
-  Google Gemini has replaced OpenAI's ChatGPT as the top-ranked app on the Apple App Store. This comes after the Ghibli trend took the internet by storm a few months ago.
-  🔗 https://www.livemint.com/technology/amid-nano-banana-trend-google-gemini-replaces-chatgpt-in-top-apps-months-after-ghibli-took-internet-by-storm-11757846584207.html
+- Stocks Hold Near Record as Focus Turns to Fed Meet: Markets Wrap - Bloomberg.com
+  Stocks Hold Near Record as Focus Turns to Fed
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNOHBad3ZFcGtfZDNhdzVSelpLbXh6OFJCUkNja1R0UmcwdElwWkFoNEdlVlNLTnpVc0NPSGczNHFKZ0FVMTJpMjhZb0tfRnRSdUpmOF90Mk53QnRYQ0R4MmxXblk4ODE0VXE0cGcyRWQ1cGRXbWQzeXVpOEppdHdldGs5bC04Y1FlWlJQSlc4MTAybzU5bEt1cjVvVmNTa0oxN0NxSFNnRnAyZkxwR01WREpQamk?oc=5
 
-- Apple CEO Tim Cook says iPhone Air offers “Pro performance in a smaller package”
-  Apple CEO Tim Cook visited Corning’s factory in Kentucky, highlighting the iPhone 17 Pro, iPhone Air, and AirPods’ live translation. He explained the Air’
-  🔗 https://www.livemint.com/technology/tech-news/apple-ceo-tim-cook-says-iphone-air-offers-pro-performance-in-a-smaller-package-11757841473307.html
+- Dollar eases ahead of central bank bonanza, eyes on Fed - Mint
+  The dollar has risen against the euro and
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYnV5YW1MVmRMSUo2MWstdTdydUM5ZGxSY3E3NEhneDZPNHhBb3NTbWZHRXZOOGRnNUZEVlh3b1M0SWtHWlRBWl93SV9pSlU3RkNvcUV4T2UzNDIxRWlCWlowLTZ2V3FoTWVUUWE1Z0pmZUNDQWdVZE1kMldZYVpHeVJOelFwMlZrYlp4c2wyS1BxZVd4QkMwT3FHNnl4TlQwRE5WMDUxc0tpMmp5REs1Z3pQQ2hsenYybjhQLUt0bEprd9IBxwFBVV95cUxNZzVYSjJwSnhUWkwzRVRyZDZvb0YyNkZwTzNlbXFxT0JISmhrNnY1YWYtSWtRTlNsLUUwSjdPbE4yLTRnZ2NGRzZMNWVFLTJSOHcwQVpwclVzd1JSdWc5RlNPZUUzOEktMDNCUHF6bHRRSTItdnZKTW9PUEtWbm5wSjJnTjJHTjlaSnZRUDhYUHFybDlzb3Y5dFYzazRfMkd4V3RSVlNRNzBFRUZreS03MVBiWWtGMzFkR1JMbHBTRkJhTjFMZ3pJ?oc=5
 
-- Nano Banana AI trend: How to create 3D, anime and movie characters from your photo with Google Gemini
-  Google’s Nano Banana AI lets users transform selfies into hyper-realistic 3D figurines. Powered by Gemini 2.5, it enables AI-driven cosplay and
-  🔗 https://www.livemint.com/technology/tech-news/nano-banana-ai-trend-how-to-create-3d-anime-and-movie-characters-from-your-photo-with-google-gemini-11757836535776.html
+- South Korea's Kospi index hits record high after government scraps tax-hike plan - CNBC
+  South Korea's Kospi index hits record high
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOVXVmSmlwUkRnbkJjNDNoY1prcVVIRHF2WUs4LTRmMnJtZUdESHlkSXlHeXM5dUEtLTJKd2NiY1lPOVloLThxYnZzbHA3Mm9BNE5iTlN1LU1LX2FEeDB6S3c2THpzb2ljUmJvUjhEbW02dVFqcEtoa2NRMEQzdWhBbnBiQks5VUxBSlZuazBiVXJKUdIBlwFBVV95cUxQVU9XalNwVTk5a0tIelFteUdMckc1ZU95cnVHcTZfVjdsakFwVHRfQzdrTTFldUpGanVweC1tbVY2ajJQbE5HbEpaUC1zU2JuOGRJaWNBdnljWGhzbEdkS2dSUGpPMHVmWEZKd2p6cnBoQ2lvQ2NEQ2I3Nnh0RmhaVWJ6ZDE0QUpJMnZjRmtNZWd3TFJUbHBn?oc=5
 
-- Markets Gear Up for Series of Fed Cuts With Bullish Bets at Risk - Bloomberg.com
-  Markets Gear Up for Series of Fed Cuts With
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUVFoRnpDMk1Ha3VlQk9jMUVFQ0lReVJRTWxEUXJ5SGN5Tm43WElhcjVXWW5Yb0sxeUFvQS1DVUhQN0VPZEtuMEYzaTNlM3plUnAwNnp6WHViNExvV0RfNEUxeHdtVm4wS1lTOTU1QVhmbUJEMHA2OXpOZmx4THNUYUJaWDFIRTlmSkZTb0swalZ1Vlg5Qk04MTRGcS1ZeXlVUVY2QkVnZTlMZnhKQUx5dGZ1aHRoUQ?oc=5
+- Strategies for emerging markets at a time when protectionism is rising - The Indian Express
+  The Indian Express is a leading English-language newspaper.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVZUVGhqRGo3SGZlT0RoWmVrd05CNlhXbXlUMlBkMzJ1cjdjSEtMV3FKaUFMc1h6SGRXdGJLdkR3ZV91amJvd3JHQ2xRSmJ0YmF5aHZaQ3pPbjRLZVRwNWNLMWRyRmd6aFk1M19Vc3lOZTZHSXNINGFlMHAzSks2cDlMV3o4VDRkZWNlSGFibHpvUUVjdG5IWnFLMzUzTnV3TmpuUGVrUkhPLXJuZmt2aWZrQW1lUUZDdzZxbWVYTUVTWVB4S2hQVVhn0gHQAUFVX3lxTE8tVFBEYWtpSnFSQVB2SE43c1VPWEE2ZkwwWUo3Y0IzUDB0MXNneEUtTXFrYUctTy1xRmt5TmpwN1NxXzVJMG1wUTFSOERJd0JUMG5KdzdvcTllWWxWeWY5MkNYZk8tRVU5Q2M2cllaakhIZDB3Y2ZFTk5VU0NGVzNTeldndVEtd0VjYmhtYURYU210VGMwZWRGZjl3dGVhQ19Sczh0NGNmSUR5YkpxYXlvZExnZFIxZm9CVDk5eUxYRnBzT0VwWW5ESXNsU0xaVjg?oc=5
 
-- Markets this week: Fed policy outcome, US–India trade talks to guide sentiment; inflation, FII flows in f - Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxQZE5sTlVhV1lDaHBXSjRfcXEtSk5EUWo1Q19EcTk0Y3ozRjlmenJ4RnJHeVhKeTJjMlpza2c5S3ZJV0dZeFZKZHpTQU1SYVhiUXQxUzVGTWx5LXVOcFpZcU1RSUtqQTR1Tn
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxQZE5sTlVhV1lDaHBXSjRfcXEtSk5EUWo1Q19EcTk0Y3ozRjlmenJ4RnJHeVhKeTJjMlpza2c5S3ZJV0dZeFZKZHpTQU1SYVhiUXQxUzVGTWx5LXVOcFpZcU1RSUtqQTR1TnVBWElnNk1CTXpDQl95NlBLY01HSnBualItM2VHaUl4dzMxUjk2dFBBR2hUS1h2c0V3aDlsYmFQdHZaMHhRdFFQNEJDMW5CWVdLZkdCc3dlZ3l4SS1rb0RBVGxhLTNKLWIxR1R4TEM5RXVDNi1qS0x5bXRpTGhtZHZYN3ZjaGhuUnRmblNfNlBWY2ttTFFiWTJvd05QMGJiVW1nN1U3UlhQMDM5azNteG1faWtiSU1lZHfSAZ8CQVVfeXFMT3NEM0txbFFfOG44Z0lHRTlLVmRCcERBTnkza29ZMTEzTjJUZGZNREM5bDlIMG5zNUVhM3QwY19teGQ1NGVScU51OFA2T1d2QVVEX0E5dGV3TFJOR3daVmYxdkRUWXJOelhaV3dxckhWLU13dFBTNWM4bk9lSzZfRHNEUWRXNEdOQWt3OVhzNVVjckkwRlJVSmNxZjJPSzQ2TF8zYkluNWl2OF82XzItdTZCZDFfUjdxVk5ESEJpUzVoLU5McmlUcTcxN3YtYm5fNTJmeXlLblN6Tk5aRzdEZU1tVjJlcWVCaF9YQzd0YUloV3BZS0RxbVR5Rko5b1lLZlE4TllWaVZLNThKQmNqRE5rY08xLTJEdl9mNDFITGM?oc=5
+- LIC MF’s Toshniwal backs IT, banks, retail NBFCs; cautions on FMCG and staples
+  Jaiprakash Toshniwal of LIC MF Asset Management sees a positive turn for Indian stocks. Festive demand and a resilient economy are key factors. He favors IT, banking and retail NBFCs.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lic-mfs-toshniwal-backs-it-banks-retail-nbfcs-cautions-on-fmcg-and-staples/articleshow/123893526.cms
 
-- Stock market today: Trade setup for Nifty 50, global markets, India-US trade deal; 8 stocks to buy or sell on Monday - Mint
-  The Nifty 50 is expected to open at 9,000 on Monday. The Sensex is
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOeFgwX182ekhpQ1cwY3UyT0xmaGxDeDlrTnVBRnJOZVRYSWc5dDJxdFBiM2pOdHdWSHQwNDhjUEJxUG9KZEZDazJDRTBuYTNMbG5YSmFXTy03U2gzSTFoc2xBV3hXUF9MaUFCNXk3R0ZZUExsYlV0SWxOTnpPM18ydFdscWVhcVJNX3l1OXBrYkRQa3lndThOcmxVRXBqRkJaZ1N4SXN2RU9RZ21yc1FQOFM1aWprT2FaT0poSXVTRGt6QjBxSVVPclZVZDRrX2F1ak1WODI1Zm5rNkZVemNBUTVvVWNqMUpha2p3Mmh0NEFXTWZoTVBzbVd2dHFWS1VhWWhOeU1zUXktRXNyRlU40gGUAkFVX3lxTE54b0JkTGYzWmhPdy02bDdfY1FobjBITnZvZGRRSFF3bDR5OU80YXBUclFoUGZNc09NZGtySkVjNVJzYThWY2gyajZDNjhicGU5c3JDUkFMYUxRTFc2cFdPaUU4V3Rpb0JJdFVsSmxqSW9Wd2NnZXR1bFdUTjNERjZuMGQ0Q1ZnTG40QXY1WVhMajRwVThXbjFYanZ3UzNrcXMtRGVORVR5QS00aE9wMFlEVWE1NTZTQnVxejdWZEpmd2ItX0p1djE4aEFleEVSZVFDcWJ5WDN4TlB4dHFfNFVFVlFOMlhvb19HNmNEZEVMZjRkMktwZGpFVVdSeVpMcmdlSkVNbVhvU2h1WUdHdV9leGh2cw?oc=5
+- Classification of REITs as equity to boost investment in Indian real estate: Industry
+  SEBI's decision to classify REITs as 'equity' for mutual fund investments is a progressive step to broaden investor participation. The move is expected to boost real estate investment and encourage more REIT listings.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/classification-of-reits-as-equity-to-boost-investment-in-indian-real-estate-industry/articleshow/123893454.cms
 
-- IPOs are booming in the U.S. and Asia. Is Europe falling behind? - CNBC
-  IPOs are booming in the U.S.
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNdGlfejNiRVB1NExlcWdZY1BWZGQyb3lkOU41MEl6dWtvYVBRR0xRZDNDQ09fUWJuUnVUSURpLXRFTHdqS2hWU1ZXRExMbFdsbkFYWDk2VjEyajNOd3lHX09SbUNqSjZ5c2lQSGV6NkktVGpBd0xDOWhmQ3k3czRxNkNWekxsUFlFTnEtNW5jMFl1MDhVQzduRTM5YWJkZw?oc=5
+- India bond yields track US peers higher before Fed policy meet
+  Indian government bond yields edged higher, mirroring U.S. Treasury yields and oil price increases. Traders are cautiously awaiting commentary from Fed Chair Jerome Powell. Market participants also await cues on the Reserve Bank of India's rate easing trajectory
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bond-yields-track-us-peers-higher-before-fed-policy-meet/articleshow/123893379.cms
 
-- Global Markets Today: Kospi, Australia's S&P 200 trade mixed on US-China talks in Spain - Mint
-  Global Markets Today: Kospi, Australia's S&
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNalloa0RwemdoS0hSQTlxZ0tGYmRIMmdwSTlMNkgxLW03YjlFXzJSVEFFRTNNRThwenQwd1Ribk9OS05JOTdVSDZSckV5RXBTZUJRQTJuV2FiZmhNYUJTcmFVeHZPSTVlNU9za1BPX1E4SE8zaTlHaEoxeUhyRmNuZTl6N213dGhJTkQ2ZkxvdjliX18xR3ZzQ3BnaEVqdE9QR0YxMUVpcjh3ZXo4dkJURXY4YTBGeFJudk9xcjhiazlpOXFrX2tLbDEzZk9oTU1iaW5hb1dVZE9QQmxqTEsyNlpQVVdReDY5UVHSAe8BQVVfeXFMUF92VWpONnI5UTU0aDBBbGZ1OFNZRFJIYzYwUG84N0o2WjFqUS1lVFJLY2tCYWhKcExoVFNFM0VBTzUtNXdEV0tCRllXUm5pTVFVd3E5SGNZRVJ2N3VrMjB5M0pGajlDdUpEM1JCbEI4aDZXUjVtdXh3VXpUaXVTazBRazEzYjZEOUNnMmJZQ05jMjRVSFBTVVRmbndoM1E0NWZKSGM3QTRCNXVoaTI5VWhiblV3TWJxQkVMbmE4UGtjSDVwR2ZMTm9EeEY1TllDeXBSQlJ4RGRZTkxuTFVqaUlfOXVaaUNqUEx0N3JPWUE?oc=5
+- IPO-bound OYO’s unlisted shares jump 26% in a month, beating listed peers. Time to buy?
+  Oyo's unlisted shares have surged 26% in the past month amid IPO buzz. This surge is attributed to robust Q1 earnings, potential bonus shares, and aggressive expansion. While analysts are divided on valuation, some anticipate continued revenue
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-bound-oyos-unlisted-shares-jump-26-in-a-month-beating-listed-peers-time-to-buy/articleshow/123893317.cms
 
-- Asia stocks cautious as markets anticipate potential rate cut from US Fed
-  Asian stocks begin cautiously as markets anticipate potential rate cuts from the U.S. Federal Reserve and possibly the Bank of Canada. Investors are closely watching the Fed's future guidance amid economic concerns and President Trump's criticism. China's economic data
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asia-stocks-cautious-as-markets-anticipate-potential-rate-cut-from-us-fed/articleshow/123889700.cms
-
-- Yuan’s gradual advance may offer boost to emerging currencies
-  China's shift towards yuan appreciation is poised to boost emerging-market currencies. The yuan's influence as a regional anchor and its impact on trade flows extend beyond Asia.
-  🔗 https://economictimes.indiatimes.com/markets/forex/yuans-gradual-advance-may-offer-boost-to-emerging-currencies/articleshow/123889650.cms
-
-- Pre-market action: Here's the trade setup for today's session
-  Nifty extended its winning streak for the eighth consecutive session, fueled by global market optimism and hopes for a US Fed rate cut. FIIs and DIIs were net buyers, while the Indian rupee recovered.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/123884308.cms
-
-- Stocks in news: GMR Airports, RailTel, Adani Power, Dr Reddy's, Bajaj Housing Finance
-  Diamond Power secured a Rs 236 crore order from Adani Energy. RailTel received a Rs 209 crore order. GMR Airports reported a passenger traffic decline.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-gmr-airports-railtel-adani-power-dr-reddys-bajaj-housing-finance/articleshow/123884279.cms
-
-- India Inc veers away from debt market as bond yields harden
-  Indian companies and financial institutions significantly reduced their short-term borrowing from the debt market in August. This decline is attributed to hardening bond yields, which made debt market financing more expensive.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-inc-veers-away-from-debt-market-as-bond-yields-harden/articleshow/123889614.cms
+- What Sebi chief's weekly expiry remark means for BSE. Explained with 5 scenarios
+  SEBI’s board didn’t announce changes to derivative contracts but plans to release a consultation paper soon. Potential tweaks, such as altering expiries
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/what-sebi-chiefs-weekly-expiry-remark-means-for-bse-explained-with-5-scenarios/articleshow/123893248.cms
 
 - Trump tariffs: Country of 1.4 billion won’t buy US corn, says Howard Lutnick; warns India will face ‘tough time’ - Mint
   The White House has imposed tariffs on $2 billion worth of Indian imports. India
   🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxOMHM1d3pTV0VfYjQzSDliMV9GXzhkU3VGTFVKb0VScWVIM2NRbngxM2djY0lhWlZsMHM5eV84ZkNrUE13QnpsZGhvb3VNaHQzUUd4UGw1bEJSUnJvMFI4MVFEaDl6NHI0ZjVGMnh3aGFKel9NM0JadUVWc2gzUmpNTmsyTUVQYThWWlFySDlYemNpYkpTWmFjRkRKVG1LN1B0RnBnR0plQXJOY3VtSGFvcGlsNC1uUEhSTHl2MHdXZ1RMdkdZdzIydUJPb09jaUdITkRoQTZHLXI3bkVFZ1ZVT0p4dU5FNzl4SUZvTHNUUUpqZ2o3SjBYQmlFaENZdGt5N1MtRG9jdTNfZ9IBjwJBVV95cUxOWWFJLXJRUy1QYkw4N09hTWZSXzVNUDlFQ3AtbmhoUDdhVXhBZzZ6elh6VVN4bHRaNHdfdlVSQk0zdUVqbThHQmVNenMwYzh6Wnh4VndOMEU4UWxNR1pIMFlDaDZ5VFR2bmdYZmhzREVDbHNtQmtWTjlJa3QyWEkxdjBEYjFpQl8tSWRhZDlncmk5UWZ1WjMxY29uOFl2N0pxVEVJTllCQ3ZValVSVTBNSmxickJjM21LdXhXaVByTUoxZkxaZk5POV8zSkxGdHhTYURWd3RXeDUzZWEzS0pVRUotMEdxX3M0dWQ1Qi1ya2JEYm1aSGdfekR4bEZZUmFZU2RfUy1OZE1FUU1UbnNj?oc=5
 
-- US Will Sort Out India Deal After It Stops Buying Russia Oil: Top US Official - NDTV
-  US Will Sort Out India Deal After It Stops Buying Russia
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPM211cTFWdXVqQXBqb3pVQXNZeDRtTUtDWFVUUWJBc1ZaVEJYeHdNY3lvMG95ODlvWk5LbmtCQkNuZUtjMklyNWdaVDdSQlZSTmF2TFl4M05MeXN5cTRObTRtVHlDY0NndmRobmRwMkxBdFc3NDZuaS1YQzRKZ3Vkb3FMbDlEcXlWeVBMYnZLRjh4N0swOWJfV3oyalJoTENSVHVBM014ZGJTN1RFZW8zejlmeXBwd9IBvgFBVV95cUxNcHpUUW9DZmFRTDRNSGJDSTVXRm1KWEs3eGhEa1RTcmJKNTYxd1R3eV85RS0ySi04cmZCMWt1YWsxU2RRVFRwM21pMFRGLU1NbmFsNWk4eEUzRS1qMDNfUzJ6QXA1ZFlRQXJZcXdoN1N6eld2dFpiV3ZUMjk3dm5sb3dQVWNUYnFFVTNVMGdkMW1lTmx2c2F6SEQ5aEhiN3QwSlROQ01weWhYMTJIZGo3dWpyRjdTSHQydmFxNGJn?oc=5
+- "Attempts To Harm Ties With India Will Fail": Russia Amid Trump's Tariffs - NDTV
+  "Attempts To Harm Ties With India Will Fail
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSnp4cVVtZG5VWDd3MHBjMW8wNGpPeEx3eC0wZXlNR2xNSjNOQzBtWUQ3NGxOd2pLS0NUcmFVRllKMGdteE9wX3JyaVBhLTZRbDhpSTVDMmZoY3R3cDhiWEpPX0VpOVVQa1pOMkgyQ21EdzFBWU5PSVRmLXBpTG1yMUx0UXM0cFNoNlUzOXhJekxuMjB6S1V0RzYxQmNhZno3cWpZSWRiTXljZDJVTndxWHBIbFpzeG91Sk9naHBYaEdXanUzeW1fcUxOMUpKaGJqdTdEcEY5M0RzYXVaeFlfWEVidEVFb3E1QTZpenJuWFY4VGtqb0HSAf4BQVVfeXFMT3Nqa1IyVU5QU2xXY2ItSFloWDFtTUNLSnpWcEUzQXRBTDlTbW03U2UzTENhajVpeTUzS095NloyNFVwVXY2WVUzTG1pYTVQVERyc0NKSEt0aE01ZkxRRF83c21pNzVQYm1MUE4xVFlrdU1hZnMzN1VQLVlDemVzVGRmSWZGUGFLTEFYT3EtbE9EdmpobWxCU0p6UTF2WkVzWEdTdFp3alBoTEYzQUVYOXNUTWU5M0U3clgzbTVva2tlMXNUUDhQa3FpZ0RiTWdENk5YQUJfVHBUUVktZDR4ajdoeFNMUU5VU1puSGVhUm5kTXRQNXNwNzFNdTA3OHc?oc=5
 
 - Corn in USA: Howard Lutnick says buy it or else... - Times of India
   " target="_blank">Corn in USA
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc0RpeUJOeTJVc2pwZ21hMnptcmtzWE1xMF9taHMxc2dZcmk2Z0ZwUlJMTnQzSjVmeGRUaXR5VldmNjc0YV9wTU9pVWltajZPQnc4RVR5SHJpc21DTnJuSVVMbWh5UE1pZmF2eElsaVRVS190ak55YUdXbS1MTmF0Z2pseEx4RGhkRlRzMHZpTzA2cXdzRGxXTTFEVzF6TV9WMWdmTkhVTy1SM2UxaWJ3UmdXQmtLYTk3UjNXTXRSa3RQc0VzSHpMQTUyWjNTTHRXaldJ0gHYAUFVX3lxTE1aTVN0TTd3U2ZVOEp0TEpWc09fU3ctMEt4d3plNnRDOEttQk5qNjZ6QklITVU0ME9kaktJWWxvNzhXN2RFVU4wOWRtZlQyMXlfcHRnUi00RFBHOWR0MXJoYTNxckZRR1FIMnNZaFZVX1N4a1piNDZhNG5ZcEMyNllveFRFdG4wM3lpVmNGQ0tGMk1OY2FhRENxMzZRWVh5N0hwY1dKSi1wYm5PQU5aclBmM1NzZ3IxbUYxWnpUQ0dmZEN5Tkh0UTZBYlNxSmVFOEN2ckRJNlBsSw?oc=5
 
-- India-Pakistan match draws ire: Opposition terms it betrayal to martyrs; government says 'two separate is - Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxQT1BheG94bnItYmNBc1ZVSGNJN3FLMG9RQWdSa2tTS0R3S0xrc3F3VW5YVVlqY2plZURkcC1neWVwQW8wak8xSVU5SWRJbkx0eGRfRktJVmxabjh3Z25jSjFjV1VLTXdyVl
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxQT1BheG94bnItYmNBc1ZVSGNJN3FLMG9RQWdSa2tTS0R3S0xrc3F3VW5YVVlqY2plZURkcC1neWVwQW8wak8xSVU5SWRJbkx0eGRfRktJVmxabjh3Z25jSjFjV1VLTXdyVlBNbHd0TTB5eFFsVlZyLXAzNUJ3Z0xlRDFrVTlMbkxRakxEenVuUUIxZU4tNjZjcUxlU3dsVjVOZE90bzQxUzI2VGlVbTRSZ2E4Xzg1MjJqLU1xbGJyYUhTaVhhTW15Y3hWVkp4TE9VYmVfcWxFRDdkUG4zSVNOZ2E3TFBJVzRnaERLSmlOd2twREdKMWFOSlpwQ2VVMU10VkRsUdIBigJBVV95cUxPWERhWUpSM1ZndlVPRjhkUEpZWFI4eDFRdTRRZGJKT2Y4UEZnQXB2alVpM1MwVTVRY2xNeklxRE12VkRjbzh3cVFwWjdNNHhHSVhTRWFSb3QzS0t2RFVNTm92MHJuWENjcV9RYjR6T21nMFFpMGhMT1p1eXd4eFRvRTJnUU1TbU9yX283QmNYRFVFWGxMVjlLQ3lHSWV4OFhhR1ktd0xWOV90OWhVR0lDaXBNR3BYWTJiRGRzTTFEOXM3aDdkdy0xRnE1a3FaRkFJUmFvdkFOQmY1RWRJQUxIeU5WLTBLTTlPNzZwUVFDZkdUQ2hMcE1lZklSa3VRcFR0ckp2VDh2eEJDdw?oc=5
+- Drama in Dubai! India refuse to shake hands with Pakistan after Asia Cup win; Pak coach gets pissed off - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMilgJBVV95cUxOdTU1Ums2RHF5ZjNfQmNxY085THdaaTVZTmJSMm9PdjY2b0pYZUstbXVic0dfQzY0a0dNUzAzZUhxVDNnZmNEZWI2R3BZbEM4ZFNTc1hFZ3g2Y2lpZ0hmT1Y4c01ndTVueE
+  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxOdTU1Ums2RHF5ZjNfQmNxY085THdaaTVZTmJSMm9PdjY2b0pYZUstbXVic0dfQzY0a0dNUzAzZUhxVDNnZmNEZWI2R3BZbEM4ZFNTc1hFZ3g2Y2lpZ0hmT1Y4c01ndTVueEZmY0xSdHY1cUs0dFJLT3NYcV91MnFZSl9pemhjTlNXeDBrWW5nYkRMa29BODhQMTg4Z1Y5VEFCTXdEY1RtWnZ6RDJxT3R4U3RNS1RUbHZObEdPazB5bXFSckM0WV9IY2sxcHNic0lZVW9yQUJ5OURMNFN4bjdwRVBpSWhhMjRDQUxiM2NZSUNSakxnTzhqQ2RXQ25jdkg1cFMzME0xT2hOMDd4dzJUNFotU0tRZ9IBmwJBVV95cUxOSVNWZmNaWnFfaXQycEJmanJ1ck41eDVicVIxNkhFa1M1emZqeVoyZkdGMzNrV2NjMDBPMVg3YW5jSlFNc0FyVzl5WmNGbzhUN0FkeUlmR3M2WF82SUZRMzlVV1VDV1Y4ZzdMZVYtcFozZ1NZVzRtcTZma0tKUUFmQnpYZ3VkS1RPSWxMLVJKNVdsdGlVS2h2QUFSRTVOUWV0dUFCY1ppd0VnRzdiZ3RsTkZwV21lVnhXT0RoVzd6cHZIeklfcWRjTjdqcS1vODZGN0wxV09ENk00UzVDV1hFQ1BSY1BPZ1FQNFZLUmkweEFCM0UzN1ptTm5oMEJBWFlKS2owcTFoTG9CWURCUnF3R1duSHlZNUF2VTBV?oc=5
 
-- Is that ‘Made in India’ product truly Indian? Govt plans to verify | Today News - Mint
-  Is that ‘Made in India’ product truly Indian?
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMEJFOFU5Nk1yRmNPWU9GdDZ2WjFRYlA1Vk15ZDNNbGtieTVqRUJnZllEUW1xenpkYTBtSmQzaGZxTkRpbTJKM01LbTNBbldQQnlfV2RxZHlVUjdFYUNMb3VobGt6bmxHVV9ySGwyeDg3OWQ4czgxT24teVNUaU5ZT0NKNUNkeFVWWi1rSWphc3lFN1BSeEhrbkV4TEJINFhIdUdzMVZWclNKOVZrVHFHUHhIeG5vVnhCajdHclg0SWUySU9JX3BZU1BacGZWLUlBeVpJUHhPcDNPakFzR29MY1VubVNJNERNQko3RTNtX0N6ekpkbUJPeDNBOVpGZ9IBgwJBVV95cUxNVEtpMFVFM1ZFVk5UYTF6YThQQThjUHR6UmV6WWtCOE1veFE5TmZKc295aWVybmpLc0hKYmY5V1kxelFaaV9RUnJFNEdRc1VnbjhOSTJ6NS1oTTlEM09PM2J0LWRyN3ZzYzBrWjlNSU5YT3dmMFN3VzJqWUI4Rm5JWmx3ZEd1bUpBWm13VG9ISHZULXJWYnNKYVNZR0JGdy1RMDVHTVRKaWdYU3dzMU02bzlWZGVCcDNWcWh3RFROUXd4X3NXcWsxT21DeEZoeVNSOU1lOV9FZ1hkRDVrckdOZEE5U0dFcGM5TllOaWw1RVNDZTZFS3ZyXzN2b1JLMzF3SkNv?oc=5
+- 'Message To Pakistan Was Clear Without Boycott': Pahalgam Victim's Father On India's Victory - News18
+  'Message To Pakistan Was Clear Without Boycott': P
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM2lsUjBLVDk3R1hxWmlQT3hVcDV2Qm5USTl0bU5TVDRKQUpDZHRjNnMtQlkwaFI5RWx6YjBNcmdVUHlRc1QybTVNQkNtNFVjN3FEMzU5VUY0dWMyV1pCNmExRDFZa2RLQ19wbG9mOXZGb1hoSUZNZ0xOdmRFcFRhYktQQmpTQ29iVzQwd0FBem1USjlrS2hfSVFZMnNJdVFPZHNqcS1xbWFaRXc5REdiNHFDRDNZQ3Bkd3pPdS12Zi1rT1hadGxGMdIBzgFBVV95cUxPVGhleU90QzZ1TWZNbGNhOHZMbm1rVTdYTGFWeFd5bUppWkRhVE1teHRMTk8wbU9feEhjU29OVXRRdVhuWmRiY2FGcTNWLWJoa0NFNkwwSGYzRjRpQXhtdy1tVXJlNWNrUlVSV1FNVnBLcl96YzIxSmRtRTdMYnpyUTdiOWphVFd3Y3pQbnpfSnVFbXhDOFg5NjNlQ29vaTlOVHM1R0lWUGcxSWJjRHNFV0hfbUczbWJTamJFQlI4Q2VDU3lTWDJVOU50VTRPdw?oc=5
 
 - Trump tariffs: Country of 1.4 billion won’t buy US corn, says Howard Lutnick; warns India will face ‘tough time’ - Mint
   The White House has imposed tariffs on $2 billion worth of Indian imports. India
   🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxOMHM1d3pTV0VfYjQzSDliMV9GXzhkU3VGTFVKb0VScWVIM2NRbngxM2djY0lhWlZsMHM5eV84ZkNrUE13QnpsZGhvb3VNaHQzUUd4UGw1bEJSUnJvMFI4MVFEaDl6NHI0ZjVGMnh3aGFKel9NM0JadUVWc2gzUmpNTmsyTUVQYThWWlFySDlYemNpYkpTWmFjRkRKVG1LN1B0RnBnR0plQXJOY3VtSGFvcGlsNC1uUEhSTHl2MHdXZ1RMdkdZdzIydUJPb09jaUdITkRoQTZHLXI3bkVFZ1ZVT0p4dU5FNzl4SUZvTHNUUUpqZ2o3SjBYQmlFaENZdGt5N1MtRG9jdTNfZ9IBjwJBVV95cUxOWWFJLXJRUy1QYkw4N09hTWZSXzVNUDlFQ3AtbmhoUDdhVXhBZzZ6elh6VVN4bHRaNHdfdlVSQk0zdUVqbThHQmVNenMwYzh6Wnh4VndOMEU4UWxNR1pIMFlDaDZ5VFR2bmdYZmhzREVDbHNtQmtWTjlJa3QyWEkxdjBEYjFpQl8tSWRhZDlncmk5UWZ1WjMxY29uOFl2N0pxVEVJTllCQ3ZValVSVTBNSmxickJjM21LdXhXaVByTUoxZkxaZk5POV8zSkxGdHhTYURWd3RXeDUzZWEzS0pVRUotMEdxX3M0dWQ1Qi1ya2JEYm1aSGdfekR4bEZZUmFZU2RfUy1OZE1FUU1UbnNj?oc=5
 
-- US Will Sort Out India Deal After It Stops Buying Russia Oil: Top US Official - NDTV
-  US Will Sort Out India Deal After It Stops Buying Russia
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPM211cTFWdXVqQXBqb3pVQXNZeDRtTUtDWFVUUWJBc1ZaVEJYeHdNY3lvMG95ODlvWk5LbmtCQkNuZUtjMklyNWdaVDdSQlZSTmF2TFl4M05MeXN5cTRObTRtVHlDY0NndmRobmRwMkxBdFc3NDZuaS1YQzRKZ3Vkb3FMbDlEcXlWeVBMYnZLRjh4N0swOWJfV3oyalJoTENSVHVBM014ZGJTN1RFZW8zejlmeXBwd9IBvgFBVV95cUxNcHpUUW9DZmFRTDRNSGJDSTVXRm1KWEs3eGhEa1RTcmJKNTYxd1R3eV85RS0ySi04cmZCMWt1YWsxU2RRVFRwM21pMFRGLU1NbmFsNWk4eEUzRS1qMDNfUzJ6QXA1ZFlRQXJZcXdoN1N6eld2dFpiV3ZUMjk3dm5sb3dQVWNUYnFFVTNVMGdkMW1lTmx2c2F6SEQ5aEhiN3QwSlROQ01weWhYMTJIZGo3dWpyRjdTSHQydmFxNGJn?oc=5
+- "Attempts To Harm Ties With India Will Fail": Russia Amid Trump's Tariffs - NDTV
+  "Attempts To Harm Ties With India Will Fail
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSnp4cVVtZG5VWDd3MHBjMW8wNGpPeEx3eC0wZXlNR2xNSjNOQzBtWUQ3NGxOd2pLS0NUcmFVRllKMGdteE9wX3JyaVBhLTZRbDhpSTVDMmZoY3R3cDhiWEpPX0VpOVVQa1pOMkgyQ21EdzFBWU5PSVRmLXBpTG1yMUx0UXM0cFNoNlUzOXhJekxuMjB6S1V0RzYxQmNhZno3cWpZSWRiTXljZDJVTndxWHBIbFpzeG91Sk9naHBYaEdXanUzeW1fcUxOMUpKaGJqdTdEcEY5M0RzYXVaeFlfWEVidEVFb3E1QTZpenJuWFY4VGtqb0HSAf4BQVVfeXFMT3Nqa1IyVU5QU2xXY2ItSFloWDFtTUNLSnpWcEUzQXRBTDlTbW03U2UzTENhajVpeTUzS095NloyNFVwVXY2WVUzTG1pYTVQVERyc0NKSEt0aE01ZkxRRF83c21pNzVQYm1MUE4xVFlrdU1hZnMzN1VQLVlDemVzVGRmSWZGUGFLTEFYT3EtbE9EdmpobWxCU0p6UTF2WkVzWEdTdFp3alBoTEYzQUVYOXNUTWU5M0U3clgzbTVva2tlMXNUUDhQa3FpZ0RiTWdENk5YQUJfVHBUUVktZDR4ajdoeFNMUU5VU1puSGVhUm5kTXRQNXNwNzFNdTA3OHc?oc=5
 
 - Corn in USA: Howard Lutnick says buy it or else... - Times of India
   " target="_blank">Corn in USA
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc0RpeUJOeTJVc2pwZ21hMnptcmtzWE1xMF9taHMxc2dZcmk2Z0ZwUlJMTnQzSjVmeGRUaXR5VldmNjc0YV9wTU9pVWltajZPQnc4RVR5SHJpc21DTnJuSVVMbWh5UE1pZmF2eElsaVRVS190ak55YUdXbS1MTmF0Z2pseEx4RGhkRlRzMHZpTzA2cXdzRGxXTTFEVzF6TV9WMWdmTkhVTy1SM2UxaWJ3UmdXQmtLYTk3UjNXTXRSa3RQc0VzSHpMQTUyWjNTTHRXaldJ0gHYAUFVX3lxTE1aTVN0TTd3U2ZVOEp0TEpWc09fU3ctMEt4d3plNnRDOEttQk5qNjZ6QklITVU0ME9kaktJWWxvNzhXN2RFVU4wOWRtZlQyMXlfcHRnUi00RFBHOWR0MXJoYTNxckZRR1FIMnNZaFZVX1N4a1piNDZhNG5ZcEMyNllveFRFdG4wM3lpVmNGQ0tGMk1OY2FhRENxMzZRWVh5N0hwY1dKSi1wYm5PQU5aclBmM1NzZ3IxbUYxWnpUQ0dmZEN5Tkh0UTZBYlNxSmVFOEN2ckRJNlBsSw?oc=5
 
-- India-Pakistan match draws ire: Opposition terms it betrayal to martyrs; government says 'two separate is - Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxQT1BheG94bnItYmNBc1ZVSGNJN3FLMG9RQWdSa2tTS0R3S0xrc3F3VW5YVVlqY2plZURkcC1neWVwQW8wak8xSVU5SWRJbkx0eGRfRktJVmxabjh3Z25jSjFjV1VLTXdyVl
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxQT1BheG94bnItYmNBc1ZVSGNJN3FLMG9RQWdSa2tTS0R3S0xrc3F3VW5YVVlqY2plZURkcC1neWVwQW8wak8xSVU5SWRJbkx0eGRfRktJVmxabjh3Z25jSjFjV1VLTXdyVlBNbHd0TTB5eFFsVlZyLXAzNUJ3Z0xlRDFrVTlMbkxRakxEenVuUUIxZU4tNjZjcUxlU3dsVjVOZE90bzQxUzI2VGlVbTRSZ2E4Xzg1MjJqLU1xbGJyYUhTaVhhTW15Y3hWVkp4TE9VYmVfcWxFRDdkUG4zSVNOZ2E3TFBJVzRnaERLSmlOd2twREdKMWFOSlpwQ2VVMU10VkRsUdIBigJBVV95cUxPWERhWUpSM1ZndlVPRjhkUEpZWFI4eDFRdTRRZGJKT2Y4UEZnQXB2alVpM1MwVTVRY2xNeklxRE12VkRjbzh3cVFwWjdNNHhHSVhTRWFSb3QzS0t2RFVNTm92MHJuWENjcV9RYjR6T21nMFFpMGhMT1p1eXd4eFRvRTJnUU1TbU9yX283QmNYRFVFWGxMVjlLQ3lHSWV4OFhhR1ktd0xWOV90OWhVR0lDaXBNR3BYWTJiRGRzTTFEOXM3aDdkdy0xRnE1a3FaRkFJUmFvdkFOQmY1RWRJQUxIeU5WLTBLTTlPNzZwUVFDZkdUQ2hMcE1lZklSa3VRcFR0ckp2VDh2eEJDdw?oc=5
+- Drama in Dubai! India refuse to shake hands with Pakistan after Asia Cup win; Pak coach gets pissed off - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMilgJBVV95cUxOdTU1Ums2RHF5ZjNfQmNxY085THdaaTVZTmJSMm9PdjY2b0pYZUstbXVic0dfQzY0a0dNUzAzZUhxVDNnZmNEZWI2R3BZbEM4ZFNTc1hFZ3g2Y2lpZ0hmT1Y4c01ndTVueE
+  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxOdTU1Ums2RHF5ZjNfQmNxY085THdaaTVZTmJSMm9PdjY2b0pYZUstbXVic0dfQzY0a0dNUzAzZUhxVDNnZmNEZWI2R3BZbEM4ZFNTc1hFZ3g2Y2lpZ0hmT1Y4c01ndTVueEZmY0xSdHY1cUs0dFJLT3NYcV91MnFZSl9pemhjTlNXeDBrWW5nYkRMa29BODhQMTg4Z1Y5VEFCTXdEY1RtWnZ6RDJxT3R4U3RNS1RUbHZObEdPazB5bXFSckM0WV9IY2sxcHNic0lZVW9yQUJ5OURMNFN4bjdwRVBpSWhhMjRDQUxiM2NZSUNSakxnTzhqQ2RXQ25jdkg1cFMzME0xT2hOMDd4dzJUNFotU0tRZ9IBmwJBVV95cUxOSVNWZmNaWnFfaXQycEJmanJ1ck41eDVicVIxNkhFa1M1emZqeVoyZkdGMzNrV2NjMDBPMVg3YW5jSlFNc0FyVzl5WmNGbzhUN0FkeUlmR3M2WF82SUZRMzlVV1VDV1Y4ZzdMZVYtcFozZ1NZVzRtcTZma0tKUUFmQnpYZ3VkS1RPSWxMLVJKNVdsdGlVS2h2QUFSRTVOUWV0dUFCY1ppd0VnRzdiZ3RsTkZwV21lVnhXT0RoVzd6cHZIeklfcWRjTjdqcS1vODZGN0wxV09ENk00UzVDV1hFQ1BSY1BPZ1FQNFZLUmkweEFCM0UzN1ptTm5oMEJBWFlKS2owcTFoTG9CWURCUnF3R1duSHlZNUF2VTBV?oc=5
 
-- Is that ‘Made in India’ product truly Indian? Govt plans to verify | Today News - Mint
-  Is that ‘Made in India’ product truly Indian?
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMEJFOFU5Nk1yRmNPWU9GdDZ2WjFRYlA1Vk15ZDNNbGtieTVqRUJnZllEUW1xenpkYTBtSmQzaGZxTkRpbTJKM01LbTNBbldQQnlfV2RxZHlVUjdFYUNMb3VobGt6bmxHVV9ySGwyeDg3OWQ4czgxT24teVNUaU5ZT0NKNUNkeFVWWi1rSWphc3lFN1BSeEhrbkV4TEJINFhIdUdzMVZWclNKOVZrVHFHUHhIeG5vVnhCajdHclg0SWUySU9JX3BZU1BacGZWLUlBeVpJUHhPcDNPakFzR29MY1VubVNJNERNQko3RTNtX0N6ekpkbUJPeDNBOVpGZ9IBgwJBVV95cUxNVEtpMFVFM1ZFVk5UYTF6YThQQThjUHR6UmV6WWtCOE1veFE5TmZKc295aWVybmpLc0hKYmY5V1kxelFaaV9RUnJFNEdRc1VnbjhOSTJ6NS1oTTlEM09PM2J0LWRyN3ZzYzBrWjlNSU5YT3dmMFN3VzJqWUI4Rm5JWmx3ZEd1bUpBWm13VG9ISHZULXJWYnNKYVNZR0JGdy1RMDVHTVRKaWdYU3dzMU02bzlWZGVCcDNWcWh3RFROUXd4X3NXcWsxT21DeEZoeVNSOU1lOV9FZ1hkRDVrckdOZEE5U0dFcGM5TllOaWw1RVNDZTZFS3ZyXzN2b1JLMzF3SkNv?oc=5
-
-- Trump tariffs: Country of 1.4 billion won’t buy US corn, says Howard Lutnick; warns India will face ‘tough time’ - Mint
-  The White House has imposed tariffs on $2 billion worth of Indian imports. India
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxOMHM1d3pTV0VfYjQzSDliMV9GXzhkU3VGTFVKb0VScWVIM2NRbngxM2djY0lhWlZsMHM5eV84ZkNrUE13QnpsZGhvb3VNaHQzUUd4UGw1bEJSUnJvMFI4MVFEaDl6NHI0ZjVGMnh3aGFKel9NM0JadUVWc2gzUmpNTmsyTUVQYThWWlFySDlYemNpYkpTWmFjRkRKVG1LN1B0RnBnR0plQXJOY3VtSGFvcGlsNC1uUEhSTHl2MHdXZ1RMdkdZdzIydUJPb09jaUdITkRoQTZHLXI3bkVFZ1ZVT0p4dU5FNzl4SUZvTHNUUUpqZ2o3SjBYQmlFaENZdGt5N1MtRG9jdTNfZ9IBjwJBVV95cUxOWWFJLXJRUy1QYkw4N09hTWZSXzVNUDlFQ3AtbmhoUDdhVXhBZzZ6elh6VVN4bHRaNHdfdlVSQk0zdUVqbThHQmVNenMwYzh6Wnh4VndOMEU4UWxNR1pIMFlDaDZ5VFR2bmdYZmhzREVDbHNtQmtWTjlJa3QyWEkxdjBEYjFpQl8tSWRhZDlncmk5UWZ1WjMxY29uOFl2N0pxVEVJTllCQ3ZValVSVTBNSmxickJjM21LdXhXaVByTUoxZkxaZk5POV8zSkxGdHhTYURWd3RXeDUzZWEzS0pVRUotMEdxX3M0dWQ1Qi1ya2JEYm1aSGdfekR4bEZZUmFZU2RfUy1OZE1FUU1UbnNj?oc=5
-
-- US Will Sort Out India Deal After It Stops Buying Russia Oil: Top US Official - NDTV
-  US Will Sort Out India Deal After It Stops Buying Russia
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPM211cTFWdXVqQXBqb3pVQXNZeDRtTUtDWFVUUWJBc1ZaVEJYeHdNY3lvMG95ODlvWk5LbmtCQkNuZUtjMklyNWdaVDdSQlZSTmF2TFl4M05MeXN5cTRObTRtVHlDY0NndmRobmRwMkxBdFc3NDZuaS1YQzRKZ3Vkb3FMbDlEcXlWeVBMYnZLRjh4N0swOWJfV3oyalJoTENSVHVBM014ZGJTN1RFZW8zejlmeXBwd9IBvgFBVV95cUxNcHpUUW9DZmFRTDRNSGJDSTVXRm1KWEs3eGhEa1RTcmJKNTYxd1R3eV85RS0ySi04cmZCMWt1YWsxU2RRVFRwM21pMFRGLU1NbmFsNWk4eEUzRS1qMDNfUzJ6QXA1ZFlRQXJZcXdoN1N6eld2dFpiV3ZUMjk3dm5sb3dQVWNUYnFFVTNVMGdkMW1lTmx2c2F6SEQ5aEhiN3QwSlROQ01weWhYMTJIZGo3dWpyRjdTSHQydmFxNGJn?oc=5
-
-- Corn in USA: Howard Lutnick says buy it or else... - Times of India
-  " target="_blank">Corn in USA
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc0RpeUJOeTJVc2pwZ21hMnptcmtzWE1xMF9taHMxc2dZcmk2Z0ZwUlJMTnQzSjVmeGRUaXR5VldmNjc0YV9wTU9pVWltajZPQnc4RVR5SHJpc21DTnJuSVVMbWh5UE1pZmF2eElsaVRVS190ak55YUdXbS1MTmF0Z2pseEx4RGhkRlRzMHZpTzA2cXdzRGxXTTFEVzF6TV9WMWdmTkhVTy1SM2UxaWJ3UmdXQmtLYTk3UjNXTXRSa3RQc0VzSHpMQTUyWjNTTHRXaldJ0gHYAUFVX3lxTE1aTVN0TTd3U2ZVOEp0TEpWc09fU3ctMEt4d3plNnRDOEttQk5qNjZ6QklITVU0ME9kaktJWWxvNzhXN2RFVU4wOWRtZlQyMXlfcHRnUi00RFBHOWR0MXJoYTNxckZRR1FIMnNZaFZVX1N4a1piNDZhNG5ZcEMyNllveFRFdG4wM3lpVmNGQ0tGMk1OY2FhRENxMzZRWVh5N0hwY1dKSi1wYm5PQU5aclBmM1NzZ3IxbUYxWnpUQ0dmZEN5Tkh0UTZBYlNxSmVFOEN2ckRJNlBsSw?oc=5
-
-- India-Pakistan match draws ire: Opposition terms it betrayal to martyrs; government says 'two separate is - Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxQT1BheG94bnItYmNBc1ZVSGNJN3FLMG9RQWdSa2tTS0R3S0xrc3F3VW5YVVlqY2plZURkcC1neWVwQW8wak8xSVU5SWRJbkx0eGRfRktJVmxabjh3Z25jSjFjV1VLTXdyVl
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxQT1BheG94bnItYmNBc1ZVSGNJN3FLMG9RQWdSa2tTS0R3S0xrc3F3VW5YVVlqY2plZURkcC1neWVwQW8wak8xSVU5SWRJbkx0eGRfRktJVmxabjh3Z25jSjFjV1VLTXdyVlBNbHd0TTB5eFFsVlZyLXAzNUJ3Z0xlRDFrVTlMbkxRakxEenVuUUIxZU4tNjZjcUxlU3dsVjVOZE90bzQxUzI2VGlVbTRSZ2E4Xzg1MjJqLU1xbGJyYUhTaVhhTW15Y3hWVkp4TE9VYmVfcWxFRDdkUG4zSVNOZ2E3TFBJVzRnaERLSmlOd2twREdKMWFOSlpwQ2VVMU10VkRsUdIBigJBVV95cUxPWERhWUpSM1ZndlVPRjhkUEpZWFI4eDFRdTRRZGJKT2Y4UEZnQXB2alVpM1MwVTVRY2xNeklxRE12VkRjbzh3cVFwWjdNNHhHSVhTRWFSb3QzS0t2RFVNTm92MHJuWENjcV9RYjR6T21nMFFpMGhMT1p1eXd4eFRvRTJnUU1TbU9yX283QmNYRFVFWGxMVjlLQ3lHSWV4OFhhR1ktd0xWOV90OWhVR0lDaXBNR3BYWTJiRGRzTTFEOXM3aDdkdy0xRnE1a3FaRkFJUmFvdkFOQmY1RWRJQUxIeU5WLTBLTTlPNzZwUVFDZkdUQ2hMcE1lZklSa3VRcFR0ckp2VDh2eEJDdw?oc=5
-
-- Is that ‘Made in India’ product truly Indian? Govt plans to verify | Today News - Mint
-  Is that ‘Made in India’ product truly Indian?
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMEJFOFU5Nk1yRmNPWU9GdDZ2WjFRYlA1Vk15ZDNNbGtieTVqRUJnZllEUW1xenpkYTBtSmQzaGZxTkRpbTJKM01LbTNBbldQQnlfV2RxZHlVUjdFYUNMb3VobGt6bmxHVV9ySGwyeDg3OWQ4czgxT24teVNUaU5ZT0NKNUNkeFVWWi1rSWphc3lFN1BSeEhrbkV4TEJINFhIdUdzMVZWclNKOVZrVHFHUHhIeG5vVnhCajdHclg0SWUySU9JX3BZU1BacGZWLUlBeVpJUHhPcDNPakFzR29MY1VubVNJNERNQko3RTNtX0N6ekpkbUJPeDNBOVpGZ9IBgwJBVV95cUxNVEtpMFVFM1ZFVk5UYTF6YThQQThjUHR6UmV6WWtCOE1veFE5TmZKc295aWVybmpLc0hKYmY5V1kxelFaaV9RUnJFNEdRc1VnbjhOSTJ6NS1oTTlEM09PM2J0LWRyN3ZzYzBrWjlNSU5YT3dmMFN3VzJqWUI4Rm5JWmx3ZEd1bUpBWm13VG9ISHZULXJWYnNKYVNZR0JGdy1RMDVHTVRKaWdYU3dzMU02bzlWZGVCcDNWcWh3RFROUXd4X3NXcWsxT21DeEZoeVNSOU1lOV9FZ1hkRDVrckdOZEE5U0dFcGM5TllOaWw1RVNDZTZFS3ZyXzN2b1JLMzF3SkNv?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- 'Message To Pakistan Was Clear Without Boycott': Pahalgam Victim's Father On India's Victory - News18
+  'Message To Pakistan Was Clear Without Boycott': P
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM2lsUjBLVDk3R1hxWmlQT3hVcDV2Qm5USTl0bU5TVDRKQUpDZHRjNnMtQlkwaFI5RWx6YjBNcmdVUHlRc1QybTVNQkNtNFVjN3FEMzU5VUY0dWMyV1pCNmExRDFZa2RLQ19wbG9mOXZGb1hoSUZNZ0xOdmRFcFRhYktQQmpTQ29iVzQwd0FBem1USjlrS2hfSVFZMnNJdVFPZHNqcS1xbWFaRXc5REdiNHFDRDNZQ3Bkd3pPdS12Zi1rT1hadGxGMdIBzgFBVV95cUxPVGhleU90QzZ1TWZNbGNhOHZMbm1rVTdYTGFWeFd5bUppWkRhVE1teHRMTk8wbU9feEhjU29OVXRRdVhuWmRiY2FGcTNWLWJoa0NFNkwwSGYzRjRpQXhtdy1tVXJlNWNrUlVSV1FNVnBLcl96YzIxSmRtRTdMYnpyUTdiOWphVFd3Y3pQbnpfSnVFbXhDOFg5NjNlQ29vaTlOVHM1R0lWUGcxSWJjRHNFV0hfbUczbWJTamJFQlI4Q2VDU3lTWDJVOU50VTRPdw?oc=5
 
 
-_Last updated: 2025-09-15 01:15:17 UTC_
+_Last updated: 2025-09-15 06:28:04 UTC_
