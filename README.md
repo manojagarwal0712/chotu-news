@@ -1,224 +1,252 @@
 # 📰 Daily News Summaries
 
-- If only all cases are settled so expeditiously: Ramesh’s dig after SC closes case against Vantara
+- Photographed with Himanta, now facing his ire: Who is Nupur Bora, raided Assam bureaucrat?
   
-  🔗 https://indianexpress.com/article/india/congress-ramesh-dig-vantara-case-sc-10252741/
+  🔗 https://indianexpress.com/article/india/who-is-nupur-bora-assam-bureaucrat-raided-rs-92-lakh-cash-and-gold-found-10253268/
 
-- Dehradun Cloudburst News Live Updates: 5 people swept away as heavy rains batter district; CM Dhami monitors relief efforts
+- ‘SEC has failed to take prompt action’: Supreme Court orders Maharashtra to hold local body polls by January 2026
   
-  🔗 https://indianexpress.com/article/india/uttarakhand-dehradun-cloudburst-live-updates-tamsa-river-flood-news-10252733/
+  🔗 https://indianexpress.com/article/india/sc-maharashtra-local-body-polls-january-2026-10253310/
 
-- Heavy rain triggers landslides in Dehradun amid red alert; at least 5 swept away as rivers swell
+- Wayanad landslide victims to get new houses by January, says Kerala CM
   
-  🔗 https://indianexpress.com/article/india/heavy-rain-triggers-landslides-in-dehradun-amid-red-alert-at-least-5-swept-away-as-rivers-swell-10252662/
+  🔗 https://indianexpress.com/article/india/wayanad-landslide-victims-to-get-new-houses-by-january-says-kerala-cm-10253259/
 
-- Gold Today Rate, September 16: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- Elgar Parishad case: SC grants 6 weeks’ interim bail to accused Mahesh Raut on medical grounds
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-september-16-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10252635/
+  🔗 https://indianexpress.com/article/india/elgar-parishad-case-sc-grants-6-weeks-interim-bail-to-accused-mahesh-raut-on-medical-grounds-10253102/
 
-- News Today Live Updates, 16 September | Dehradun Cloudburst News Live Updates: 5 people swept away as heavy rains batter district; CM Dhami monitors relief efforts
+- ‘Rs 92 lakh and gold found’ during raids at ACS officer Nupur Bora’s house, Himanta says she profited from sale of ‘Hindu’s lands to Muslims’
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-09-16-2025-news-headlines-10252471/
+  🔗 https://indianexpress.com/article/india/gold-raids-acs-officers-house-himanta-profited-from-sale-hindus-muslims-10252981/
 
-- Microsoft’s new Xbox app for Windows 11 and handhelds puts all your PC games in one place
+- OpenAI study on ChatGPT usage trends: 24% messages seek info, majority of chats personal
   
-  🔗 https://indianexpress.com/article/technology/gaming/microsoft-xbox-app-windows-handheld-steam-gog-epic-games-10252680/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-study-chatgpt-usage-trends-key-insights-data-10253385/
 
-- Online marketplace Fiverr to lay off 30% of workforce in AI push
+- Samsung launches One UI 8 with multimodal AI for a range of devices to improve capabilities
   
-  🔗 https://indianexpress.com/article/technology/online-marketplace-fiverr-to-lay-off-30-of-workforce-in-ai-push-10252685/
+  🔗 https://indianexpress.com/article/technology/samsung-launches-one-ui-8-with-multimodal-ai-for-a-range-of-devices-to-improve-capabilities-10253339/
 
-- What hurdles lie ahead for any US-China TikTok deal?
+- Spotify lifts major restrictions for free users: Play, search and share any track
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/what-hurdles-lie-ahead-for-any-us-china-tiktok-deal-10252648/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spotify-free-features-play-search-share-any-music-song-10253108/
 
-- Mark Zuckerberg is making a bold bet on smart glasses as the next big thing in tech… that vision starts becoming reality this week
+- ‘Password resets cost businesses more than they realise’: Zoho exec on ROI of going passwordless
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/mark-zuckerberg-smart-glasses-meta-connect-2025-10252605/
+  🔗 https://indianexpress.com/article/technology/passwordless-authentication-india-fido-market-growth-zoho-10253213/
 
-- China says preliminary probe shows Nvidia violated anti-monopoly law
+- GPT 5 Codex gets new updates and can now review codes
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/china-says-preliminary-probe-shows-nvidia-violated-anti-monopoly-law-10251375/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/gpt-5-codex-gets-new-updates-and-can-now-review-codes-10253154/
 
-- Westbridge Capital pumps in  ₹637 crore in Tamil Nadu-based KPN Farm Fresh
-  Westbridge Capital invests over  ₹600 crore in KPN Farm Fresh to boost expansion, omnichannel
-  🔗 https://www.livemint.com/companies/start-ups/westbridge-capital-pumps-in-rs-637-crore-in-tamil-nadu-based-kpn-farm-fresh-11757990918418.html
+- Vedanta's ambitious five-way split set to miss extended deadline. Group still sees progress
+  Vedanta Resources CEO Deshnee Naidoo says there has been progress. Vedanta is set to miss its extended September-end deadline to split the India unit.
+  🔗 https://www.livemint.com/companies/vedanta-demerger-delay-five-way-split-2025-target-anil-agarwal-deshnee-naidoo-11758013007946.html
 
-- Who is Deedy Das? Kolkata-born ‘AI Startup Whisperer’ becomes Partner at Menlo Ventures
-  Kolkata-born technologist and ‘AI startup whisperer’ Deedy Das
-  🔗 https://www.livemint.com/companies/people/who-is-deedy-das-kolkata-born-ai-startup-whisperer-venture-capitalist-becomes-partner-at-menlo-ventures-google-facebook-11757989501293.html
+- US bank Truist plans GCC in Hyderabad, Infosys likely to bid
+  US-headquartered Truist Financial plans to set up a tech centre in Hyderabad. Infosys, a Truist vendor, is likely to bid for the contract pegged at least $250 million. The centre aims to hire 3
+  🔗 https://www.livemint.com/companies/truist-gcc-financial-services-it-tech-centre-hyderabad-employment-in-tech-sector-hiring-in-india-hcl-wipro-infosys-11758010661437.html
 
-- Bill Ackman’s net worth doubles to $9.2 billion in 2025 as Pershing Square scores big gains | How rich is he now?
-  Bill Ackman’s net worth has soared to $9.2 billion in 2025, driven by Pershing Square
-  🔗 https://www.livemint.com/companies/people/bill-ackman-s-net-worth-doubles-to-9-2-billion-in-2025-as-pershing-square-scores-big-gains-from-fannie-mae-and-freddie-11757984899173.html
+- Why Swiggy is cancelling its Rapido ride
+  Swiggy's high cash burn and losses are one reason for the company
+  🔗 https://www.livemint.com/companies/swiggy-rapido-stake-sale-food-delivery-prosus-quick-commerce-instamart-zepto-11758009573473.html
 
-- Apollo Says Bank Tie-Ups Crucial for High-Grade Private Credit
-  Private credit’s effort to finance investment-grade companies is going to come down to its partnerships with
-  🔗 https://www.livemint.com/companies/news/apollo-says-bank-tie-ups-crucial-for-high-grade-private-credit-11757978307202.html
+- Unilever appoints Indian-origin Srinivas Phatak as new CFO: Here's how much salary he will get
+  Srinivas Phatak had been serving as acting CFO at the Anglo-Dutch consumer goods company since March.
+  🔗 https://www.livemint.com/companies/news/unilever-appoints-indian-origin-srinivas-phatak-as-new-cfo-heres-how-much-salary-he-will-get-11758010072213.html
 
-- EOW records Raj Kundras statement in alleged  ₹60 crore cheating case
-  Mumbai Police's Economic Offences Wing (EOW) recorded Bollywood actor Shilpa Shetty's husband Raj
-  🔗 https://www.livemint.com/companies/news/eow-records-raj-kundras-statement-in-alleged-rs-60-crore-cheating-case-11757975481787.html
+- Mother Dairy reduces prices: UHT Milk cheaper by  ₹2, ghee down by  ₹30 after GST cut | Full List here
+  Mother Dairy has reduced prices for milk, paneer, butter, ghee, and cheese after GST revisions.
+  🔗 https://www.livemint.com/companies/news/mother-dairy-cuts-prices-milk-cheaper-by-2-paneer-down-by-6-ghee-down-by-30-after-gst-rate-revision-11758008461533.html
 
-- Nifty 50 reclaims 25,100: Is the Indian stock market on the cusp of a breakout?
-  After a year of underperformance, the Indian stock market shows signs of revival. With promising earnings growth in sectors like automobiles and a strong macroeconomic backdrop, the N
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-reclaims-25-100-is-the-indian-stock-market-on-the-cusp-of-a-breakout-11758002256638.html
+- Sebi's 'SWAGAT' reform offers 10-year licence, faster access to woo foreign funds
+  The market regulator has overhauled foreign investor rules, offering longer registration, unified routes,
+  🔗 https://www.livemint.com/market/sebi-new-fpi-inflows-foreign-portfolio-investor-rules-funds-swagat-fi-reforms-rbi-11758015869473.html
 
-- GST rate cut to India-UK trade deal - 5 key factors that will drive auto sector growth in FY26
-  The recent GST restructuring is seen as a catalyst for auto sales recovery. Small cars, two-wheelers, and three- wheelers have moved to the lower 18% slab.
-  🔗 https://www.livemint.com/market/stock-market-news/gst-rate-cut-to-india-uk-trade-deal-5-key-factors-that-will-drive-auto-sector-growth-in-fy26-m-m-tata-motors-maruti-11758001891142.html
+- Expert view: Baroda BNP Paribas MF CIO on Indian stock market outlook, Fed rate cut and more
+  Sanjay Chawla, CIO of Baroda BNP Paribas Mutual Fund, shares his perspective on the Indian stock market's potential. He highlights key factors driving market trends,
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-baroda-bnp-paribas-mf-cio-on-indian-stock-market-outlook-fed-rate-cut-and-more-11758022565817.html
 
-- Eternal share price jumps 70% from 52-week low, market cap now ahead of Titan. Can it go past HAL, Bajaj Finserv?
-  Eternal, the parent company of Zomato, has surpassed Tata Motors and Titan in market capitalisation. Despite a 90% YoY drop in Q1 net profit, revenue
-  🔗 https://www.livemint.com/market/stock-market-news/eternal-share-price-jumps-70-from-52-week-low-market-cap-now-ahead-of-d-street-biggies-titan-tata-motors-11758001045759.html
+- Euro Pratik Sales IPO subscribed 0.46x on Day 1; NII portion fully subscribed
+  Euro Pratik Sales' IPO saw a subscription of 0.46 times on its first day. The company seeks to raise  ₹451.31 crore, with shares expected to list
+  🔗 https://www.livemint.com/market/ipo/euro-pratik-sales-ipo-subscribed-0-46x-on-day-1-nii-portion-fully-subscribed-11758022082183.html
 
-- VMS TMT IPO opens on Wednesday: GMP, financial performance among 10 key details you must know about the mainboard issue
-  The IPO will open for subscription on Wednesday, September 17, and conclude on Friday, September 19. The IPO is entirely a fresh issue of 1.5 crore shares.
-  🔗 https://www.livemint.com/market/ipo/vms-tmt-ipo-opens-on-wednesday-gmp-financial-performance-among-10-key-details-you-must-know-about-the-mainboard-issue-11757997921574.html
+- Maruti Suzuki share price jumps 35% in FY26 so far. Is it still a stock to buy?
+  Maruti Suzuki's stock has seen impressive gains, rising over 35% in FY26. Experts weigh in on whether this trend will continue or if caution is warranted.
+  🔗 https://www.livemint.com/market/stock-market-news/maruti-suzuki-share-price-jumps-35-in-fy26-so-far-is-it-still-a-stock-to-buy-11758019720387.html
 
-- GK Energy IPO price band set at  ₹143 to  ₹153 per share; issue to open on Friday — Check details here
-  GK Energy IPO will open on September 19. The company plans to raise  ₹464 crore to support its operations.
-  🔗 https://www.livemint.com/market/ipo/gk-energy-ipo-price-band-set-at-rs-143-to-rs-153-per-share-issue-to-open-on-friday-check-details-here-11758000831982.html
+- Global bond yields hit new highs, yet markets stay calm; all eyes on US Fed
+  Bond yield in the US has been high due to quantitative tightening, which reduces the demand for bonds, especially for long-term dated securities. Hence, not only rate cuts but
+  🔗 https://www.livemint.com/market/bonds/global-bond-yields-hit-new-highs-yet-markets-stay-calm-all-eyes-on-us-fed-11758020629836.html
 
-- OpenAI rolls out GPT‑5 Codex: New coding abilities, availability, and who can use it
-  OpenAI has launched GPT-5 Codex, an AI model built for software development. It can write, debug, and review code, working interactively or independently on long tasks. Available across Codex
-  🔗 https://www.livemint.com/technology/tech-news/openai-rolls-out-gpt-5-codex-new-coding-abilities-availability-and-who-can-use-it-11758001089826.html
+- Kering data breach: Gucci and Balenciaga owner confirms hack, says no financial data leaked
+  Luxury brand owner Keringa SA reported a data breach linked to Shiny Hunters. The group claims to possess 7.4 million email addresses and has attempted ransom negotiations. Kering
+  🔗 https://www.livemint.com/technology/tech-news/kering-data-breach-gucci-and-balenciaga-owner-confirms-hack-says-no-financial-data-leaked-11758022321489.html
 
-- Gemini Nano Banana saree portraits: ‘AI trends are fun, but your facial data might not be safe,’ warn experts
-   cybersecurity experts warn that uploading facial images poses privacy risks. Here is what Google says about the AI-generation policies.
-  🔗 https://www.livemint.com/technology/tech-news/gemini-nano-banana-saree-portraits-ai-trends-are-fun-but-your-facial-data-might-not-be-safe-warn-experts-11757991984311.html
+- Saree look to Polaroid selfies with celebrities: 10 wild Gemini Nano Banana prompts you must try
+  Tap into the new Gemini Nano Banana image generation trend
+  🔗 https://www.livemint.com/technology/tech-news/saree-look-to-polaroid-selfies-with-celebrities-10-wild-gemini-nano-banana-prompts-you-must-try-11758018431803.html
 
-- Forget viral saree AI trend: How to create ‘Hug my younger self’ images with Gemini Nano Banana
-  Google Gemini Nano Banana's latest Instagram trend has gone viral. Use these prompts to create an AI-generated image of your present self
-  🔗 https://www.livemint.com/technology/tech-news/forget-viral-saree-ai-trend-how-to-create-hug-my-younger-self-images-using-gemini-nano-banana-11757989429223.html
+- Zoom CEO agrees with Bill Gates and Jensen Huang, says AI will soon make three-day week a reality
+  Zoom CEO argues that AI advancements may lead to shorter workweeks. While he notes potential job losses, he also points to new opportunities in AI.
+  🔗 https://www.livemint.com/technology/tech-news/zoom-ceo-agrees-with-bill-gates-and-jensen-huang-says-ai-will-soon-make-three-day-week-a-reality-11758015858026.html
 
-- Hong Kong Set to Detail Tech Hub Plans to Bolster AI Ambition
-  Hong Kong leader John Lee is expected to announce that the city is speeding up the development of a cross-border tech hub with China.
-  🔗 https://www.livemint.com/technology/tech-news/hong-kong-set-to-detail-tech-hub-plans-to-bolster-ai-ambition-11757986259520.html
+- From sarees to vintage charm: 5 Must-try AI prompts for retro couple portraits with Gemini Nano Banana
+  The Gemini Nano Banana trend is taking over Instagram and X. Users create AI-generated retro saree portraits, nostalgic edits, and even selfies with celebrities like Shah Rukh Khan
+  🔗 https://www.livemint.com/technology/tech-news/from-sarees-to-vintage-charm-5-ai-prompts-to-create-couple-portraits-with-gemini-nano-banana-viral-aesthetic-vibes-11758012215232.html
 
-- Apple rolls out iOS 18.7 as an alternative to iOS 26: What you need to know
-  Apple has rolled out iOS 26 with its new ‘Liquid Glass’ feature. iOS 18.7 supports iPhones from 2018 onwards, while iOS 26 excludes the Xs,
-  🔗 https://www.livemint.com/technology/tech-news/apple-reportedly-rolls-out-ios-18-7-as-an-alternative-to-ios-26-what-you-need-to-know-11757984122779.html
+- AI meets bollywood: Shah Rukh Khan selfies go viral with Google's Gemini Nano Banana trend
+  Google's Gemini Nano Banana AI is fueling a new social media trend: celebrity selfies. Several social media users have shared an AI-generated photo with Shah Rukh Khan.
+  🔗 https://www.livemint.com/technology/tech-news/ai-meets-bollywood-shah-rukh-khan-selfies-go-viral-with-googles-gemini-nano-banana-trend-11758005021743.html
+
+- Stocks Rise With Consumers in Focus Before Fed: Markets Wrap - Bloomberg.com
+  Stocks Rise With Consumers in Focus Before
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXlMdkRKdHBWS091dGlBS294LTFjVm03THFta3BzVnhFTWNucFdwOUhYRmVmVldveV8yaHdRUll6R0N3eTdMZHVlX0pPMW9rVElUUmpBVUlOZ09feXh1R1hvd0ltVmVoSXdpUC1oUkR6RC0tdjZOTGdLR2Rzemg5VElobDIwTEtIbi1xa21uaWtFaHl2ZUgxZXVlSm95bFJZZVJsRHF4SUhZUjV4dHRpVm1Wdw?oc=5
 
 - Stock Market News, Sept. 15, 2025: U.S. Reaches Outline of TikTok Deal; S&P 500 Hits Record - The Wall Street Journal
   The Wall Street Journal published a story on the U.S. stock market. The
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPbFFjMXNnYVU0Z3VmUHRiTWx6eWdhZGV0cDJkN2RmWGplYzA1NS1kWmhMT2FLaGJTQ3NZOU4yZVNDMFpQSWdmSm5lZXJTMkNSWXpZcFVwMjBiZ1hpeFNTTU4tTjZ1SEhVYW9uYXdfQVoxQXdiTmdtZ2ROVWhISmFSRVllMUM3STQ?oc=5
 
-- Asian Stocks Gain at Open After Wall Street Rally: Markets Wrap - Bloomberg.com
-  Asian Stocks Gain at Open After Wall Street
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXlMdkRKdHBWS091dGlBS294LTFjVm03THFta3BzVnhFTWNucFdwOUhYRmVmVldveV8yaHdRUll6R0N3eTdMZHVlX0pPMW9rVElUUmpBVUlOZ09feXh1R1hvd0ltVmVoSXdpUC1oUkR6RC0tdjZOTGdLR2Rzemg5VElobDIwTEtIbi1xa21uaWtFaHl2ZUgxZXVlSm95bFJZZVJsRHF4SUhZUjV4dHRpVm1Wdw?oc=5
+- Stock Market Today: Dow Futures Waver; Dollar Weakens; Gold Hits Record — Live Updates - The Wall Street Journal
+  Stock Market Today: Dow Futures Waver; Dollar Weakens; Gold
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQdktIMzJhcGd2MEJfSUtidndIalRqamQ0UUpZOGhOSTlWWEg4bnNjUDBLLUtMOEZqeGtveE9IRUpHcTBDMmtZVU05OWZVV0ZOSEF2TklKNWxPbHk4QW42d01RZGtmT0NXdF9VY3I3LWVjYkRsTFc1aXJtd0N4NW1JbkFtc1U1VEU?oc=5
 
-- Nifty 50 reclaims 25,100: Is the Indian stock market on the cusp of a breakout? - Mint
-  Nifty 50 reclaims 25,100: Is the Indian stock
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZlZQVnZ1Y3RVNnUta2tHMENyLVQzdWdrLVZtQ29LSmNObjhzR1pWV29xTWI4dVd0ZDdnT2FqamIzYkxMTllXTE1td29oVzBxaGFJQzRIbHU3cWVSY083M0Ewc1VhR2E0a1p4cGRIbzVyWUdJSjl5VEJnVzJ2ZkZfNU9jQm5QU0pGcTVoUlVMVkw3TDgwTXNFb0xGTndLZ0FZMnEtU1dxZ052emNDa0V2aEZQRjBtdFFJSHNkaTN5RVRlY081VFh4YjBQMXNRdUliZ1NjeUs0MFhqNER6NExxbdIB5gFBVV95cUxPeDI3dG1OOFhJOURKYlBfVE1Gdlp3c1NYVVg1bTdFSklZeERzSC1WQUZ0dnN3dlA5Zm5xQ2pIcWFvTXVhMnJHek5tNC1lOEp0dHBNeWc0TDVWTE1FVWdmakpsZzFMUDRkaWs3eHYxU0tuVWEwdjdDOGQwbVVHS09ydEZtalA4eGF1NVdsNy1pc3BHcXN2bFJ5bEFmVmgzNVRyQWxNQmxwWDg5TmhkLTVIWElENHhfUE5icU1wenVrcVVTMUx3THRvX3UwYTNsNG9uUmlrdWxXVzI3dGpVWnM5Q1FFLV8tdw?oc=5
+- Expert view: Baroda BNP Paribas MF CIO on Indian stock market outlook, Fed rate cut and more - Mint
+  " target="_blank">Expert view: Baroda BNP
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOM3dUOXNhZXc5UWpWUVZYcWlidU5HUjlBYm1IQVZDM29zemVsb1VkWmtJbDNCUXZqYndXcF9iN3NNanNRcTF3YmNXdnJPc0RwU1U5RFNEc3czOUJmbndsUi04blhWUG5zamRQVnd0UkxzYTZkd25KZDE0SGl2aUp2OFBjcnhVMlNPbi1vTVJ1ZEhBckd0TldyOWVFUEVTQzJPNnZ4QndqY0JWem1mZFliWXdBMFJ4QUZVdDRteldXa05KMnN4MTBpTWNUNjQyLURPVkpjN3piTXlSSFpqV25UYzNzUElYQzRIMU5lTy1PdTRxZ9IB9wFBVV95cUxQNkRSSTliaDBvZkJCakZBaUZfOFltbEM3czZHS3A3WEVFSmxEcUZlMzROa1NZWnNmaGRYOXlmX25hWlBpR1U2QnpCX3Bud0lBeDgtSG9ob2FUUnUtRE1yREZHLUlGcHlwaVg3X3JtYXM0M2RiRjRFYmxGdGF4Z3VuQmYzbUFVdU1udXlaSUZHdFdqWW5JWWdqRlduOFRCX3dHY1o5UnRDckh2ZVF0RUQ4c25NZVZDOV8tdkhzSVkyTkppMEJNVVhVRWZzc1o5Sk9QSF96WXpIb29RT1RTa2RnRVZqU0lEU2lXcDNhN2t3bnVtRVd5eW5R?oc=5
 
-- Consumption, chemicals, and cement to drive market in 2025: Daljeet Kohli - The Economic Times
-  The Economic Times: Cement consumption, chemicals,
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVkFEZk02T1g2M083dWg1X2ZZd0lJYk9GQjc4UE9UYmE0TFdxU1NScDRweGkxTHlyUFdLbFpaOVdsUUEtY01PSzNFcDlOSFVFY2tvM1JyY2UwZkF1Ym16VmU3Tlh2VnR0NHhNaEd2WHc1aGVWYXZBNWo4bjJkTG5xQ1owLUoyZW1VMHZoOGNRNGlFUWVuVXFxamNFclhuNnpNZUpSWUxLdWhnUnNQbUUxUFV4SWtTRnViUXNsa1M4ZFowSU40QTU0NEJuWVhwUXhEZ1paaXpqa1VkOXduOXoyTjV30gHiAUFVX3lxTE5WQURmTTZPWDYzTzd1aDVfZll3SUliT0ZCNzhQT1RiYTRMV3FTU1JwNHB4aTFMeXJQV0tsWlo5V2xRQS1jTU9LM0VwOU5IVUVja28zUnJjZTBmQXVibXpWZTdOWHZWdHQ0eE1oR3ZYdzVoZVZhdkE1ajhuMmRMbnFDWjAtSjJlbVUwdmg4Y1E0aUVRZW5VcXFqY0VyWG42ek1lSlJZTEt1aGdSc1BtRTFQVXhJa1NGdWJRc2xrUzhkWjBJTjRBNTQ0Qm5ZWHBReERnWlppemprVWQ5d245ejJONXc?oc=5
+- Stock Market Highlights: Sensex resumes winning run after 1-day break, rallies 595 pts; Nifty tops 25,200 - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaXd0bGFic0d0Q3doeTl0V2JKWVhqQzFWTVU5X3pDWm1RYV9mMWxqOTN6cnRsQUNXUE1mVEdoTUoyNGJNTUgwRUJIQlN4Y0xKZ1ltVk00RXdGTVZaOTFyYWlCd3hNVHQ3YU
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaXd0bGFic0d0Q3doeTl0V2JKWVhqQzFWTVU5X3pDWm1RYV9mMWxqOTN6cnRsQUNXUE1mVEdoTUoyNGJNTUgwRUJIQlN4Y0xKZ1ltVk00RXdGTVZaOTFyYWlCd3hNVHQ3YUtyc0pZUjJ2eHplbWtDMmtGZm1PdWZEVHRxVzVPbW5xSldrbWxVWUZpUGJCcXc3WWhEVTBxa3RtYThFUklXUHZKVkVTWC1VbWZTeFR6RDBMVngxalNUOGd1cFdOVXJONkJBRGVNUU5PbG9SSEE2VVNVUdIB3wFBVV95cUxQUHlkRU1iZnBFaTdlblkyd0RXZmRXekdqSWtvRUJmcVk3QVB1d01zTTdtX3R4cjlYOUs1Z1l3RHQ5NVMtdlVBRWtWY0lEbmc5RldLTEhyeWhiTmd1aWVkNkZjQk5TMHVtdGJocmNKZC1RSzNrd1J2VUl2WDVvaFZCaWlqQzNyeGJTMnRvSWg3eDB1aGFEclZyVHRPNlk0b21pS0p5YjhkUU9aLWN2VG5IUWdIMTRwVXpnVUYtZnB3MnBjR2s1aWRGcEVfY3VjQUh4dVZNQU9iQkxva1BmTGpv?oc=5
 
-- Amber Enterprises hits record high on healthy outlook; zooms 82% in 1 year - Business Standard
-  Amber Enterprises hits record high on healthy outlook; zooms
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdlBmS0lHN0NGcG02b2h6aWdFWGR2RWFrOGNqN2tya2k3V1NNSjhJYjl0ek9nQTR0N21RMkl5Z2hBNVRNYkpKQ09PNXRjYjVHcnZCYXMtcUVuQUtHN3BVYVp2MnRHVExRX1JNUjNjdjVmRGh1YmJMTXI4WDEzN1ZmUGJjM21GTzFNTkVGLXdqWHBQaGI3Sl80RmFiNTkwRHl5UTRoWHhJX21LMzY3ZE41N0lYbThWZk1Mc2l5M1hsZW43dzU5RjBwUkZRMkI5ekVleFhmV09R0gHbAUFVX3lxTFB1dmdKdHlTSkgwT1hSbVFSbTFvYjl6bnlnMGtqdUstbDFwcUhIZGQyUS1POTRHNzVNTXhjZkFpUW1oM2JuRnBQVlBuSk1XSms0aHBtSHdWSWNUQnd1Mm9YSmp3UVNrVTdRTk5FM1BxaFdwREVEbXczcDFGbk1sR2swU3BhQmxHVEVzZEYtcTlzd1UxYnNJMHc5bHRFR2lldjJLVEtzeGVLQ29Ed0FxTGZUelhpLXVmdkFzaVVLMjl6SmdpMDVEa2JTbkZJUl9IZkFCSmZucWtnUGFrMA?oc=5
+- Hyundai Motor among 6 stocks that hit 52-week high; rally up to 20% in a month
+  On Tuesday, the benchmark Sensex climbed by around 595 points to close at 82,380. Eicher Motors, Maruti Suzuki India, and Hyundai Motor India led the gains.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hyundai-motor-among-6-stocks-that-hit-52-week-high-rally-up-to-20-in-a-month/slideshow/123923233.cms
 
-- Anant Raj shares gain 14% in 2 days on data centre tax exemption buzz
-  Shares of Anant Raj surged 14.4% to Rs 610 on the BSE, fueled by optimism over government plans to offer up to 20-year tax exemptions for data centre developers. The incentives, linked to capacity, energy efficiency
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/anant-raj-shares-gain-14-in-2-days-on-data-centre-tax-exemption-buzz/articleshow/123915146.cms
+- LIC raises stake in this IT stock despite a 10% drop this year
+  LIC has raised its stake in Tech Mahindra to 10.84% despite a 10% YTD stock decline.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lic-raises-stake-in-this-it-stock-despite-a-10-drop-this-year/articleshow/123923118.cms
 
-- Vodafone Idea shares slide 4% as investors brace for Supreme Court hearing this week
-  Shares of Vodafone Idea fell nearly 4% to Rs 7.85 on BSE. The stock had surged almost 7% a day earlier, reflecting volatility amid the telecom operator’s ongoing legal and financial challenges.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-shares-slide-4-as-investors-brace-for-supreme-court-hearing-this-week/articleshow/123915109.cms
+- Gainers &amp; Losers: Redington, Godfrey Phillips among 6 major movers on Tuesday
+  Key movers included Redington, Godfrey Phillips, Nirman Agri, Anant Raj, Vodafone Idea, and JBM
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-redington-godfrey-phillips-among-6-major-movers-on-tuesday/slideshow/123922915.cms
 
-- US banks borrow $1.5 billion from Fed amid tax and treasury deadlines
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-banks-borrow-1-5-billion-from-fed-amid-tax-and-treasury-deadlines/slideshow/123915011.cms
+- Sebi extends settlement window till Oct 16 for stock brokers in algo trading case
+   Markets regulator Sebi on Tuesday extended the deadline for the settlement scheme to October 16.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-extends-settlement-window-till-oct-16-for-stock-brokers-in-algo-trading-case/articleshow/123922842.cms
 
-- United Spirits, Bajaj Housing among 9 stocks where brokerage firms recently initiated coverage
-  Brokerage firms have initiated coverage on nine stocks. Jefferies is optimistic about Radico Khaitan, United Spirits, and Allied Blenders. Motilal Oswal is neutral on Bajaj Housing Finance but positive on Ellen
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/united-spirits-bajaj-housing-among-9-stocks-where-brokerage-firms-recently-initiated-coverage/slideshow/123914869.cms
+- Euro zone bond yields edge higher before Fed meeting
+  Euro zone government bond yields edged up on Tuesday. Investors stayed on the sidelines ahead of a Federal Reserve policy meeting.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/euro-zone-bond-yields-edge-higher-before-fed-meeting/articleshow/123922723.cms
 
-- Under your radar? 5 penny stocks with over 15% FII investment
-  Penny stocks have garnered significant interest from foreign institutional investors (FIIs), with ownership stakes exceeding 15%. While many of these companies have faced challenges, including negative one-year returns, the substantial foreign backing suggests potential for future growth.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/under-your-radar-5-penny-stocks-with-over-15-fii-investment/slideshow/123914693.cms
-
-- "India Coming To The Table": Top Trump Aide Ahead Of Trade Talks - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTk43Ty1NeEwyU2ItUkhaa1gxU05tN0xTMVpERElNdHNkS2NKd2E0ZjliYkZzRW5oM01scGVqYjJEQnoyYk10Qm1MVkpNSmFsU1lyc2Q5MlZRemlQX2s3X1BtM1Z3bVI5T1
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTk43Ty1NeEwyU2ItUkhaa1gxU05tN0xTMVpERElNdHNkS2NKd2E0ZjliYkZzRW5oM01scGVqYjJEQnoyYk10Qm1MVkpNSmFsU1lyc2Q5MlZRemlQX2s3X1BtM1Z3bVI5T1F0T1BHenRRMjdYanlvYV9GYzZuRHA1bmQ4WWNKOFhkRmdPQS1wMl8xaXc0MHJOaFZ0VnQtanhQM2FfZmU0Q2prclR2MWZaNkRWMnNfcUFfN1lJdmkwMEhEc1Z6UlpnVXQ5NmZrN1B4ZVI1aDhPcXJxdnRhTlVIRGpyNnlvZ9IB7gFBVV95cUxNdUVyYTc2OUsxa2hnUFA4REZZZzBZSFVXZXdZNXhsVjZWc2h4N0owNlNjbElIVkxOQi1HeVVBT2JsdVNVN2MxNS1aRnF1aFJuZmh0SHVYMG5OZFZtLWVlaTkwTTFBaElMWEE4MWstUm9velJWb2JXWDA3dTRFTWxxc2pLNm5WV000UExIT3JsdUVpRmtHT01MUTZmekZxNlpJQ05TRzVIWTJhaUpFdHZBTVdpNUwySkY2dldHdUtuU3YtZXptRmhHVEgwTUtlQnRYOFJqaTJZNERjNXA3WFRqOGhVNHE5VE9LU1ZIVDRn?oc=5
+- Trump's tariffs: India-US seek breakthrough in day-long trade talks - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oaU40VENvQVAxaU1PMXl2WG4tUmlqbHlWaGE2bkNNNlk2UDZsY0VfdDR2NGMxVE9zN1pKelZyckxacE5sdXF5Z2M3Y2kwTmdDanMydjU5MF9xQdIBX0FVX3lxTE5Bd1E4S3
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oaU40VENvQVAxaU1PMXl2WG4tUmlqbHlWaGE2bkNNNlk2UDZsY0VfdDR2NGMxVE9zN1pKelZyckxacE5sdXF5Z2M3Y2kwTmdDanMydjU5MF9xQdIBX0FVX3lxTE5Bd1E4S3pRdER1NzhnV0VUbXVFaXFwcHlSQUFRTms1QXVLdml5NldLTVhmMDdZQ0E5RF95a0Z2UVozSW1Zb2hpdzdvMUlzaEt5akd6QmtRQy1KWE14MFJJ?oc=5
 
 - ‘This can’t be…': Asaduddin Owaisi's first reaction to India's Asia Cup victory against Pakistan | Latest News India - Hindustan Times
   ‘This can’t be…': Asaduddin Owaisi's
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR1BDblg5d0E4cXplZTE3am1YeDRwTmdLTk5kUW41Y19Xdm9zQnJZLXZ0cFJ4VWNkSUJWSVpkRWxSb2xZM1lpU1hzVF9nTkg2OEtWSlc4eE5JSTdLRzNGdFhENm83LThPeEFSaWZxVmhkRlZQSEJZY21fbEE2d1NXdDFWSlV5dEhyNEU3RF9QeTZnOEl1eGNnRTBSY2xsX2x5dU1taVlnTVpFcXUyc2liVVRTNEFZc3VGRndWZ2oxbjVzS3lxYldORUIzMmR3LVZPdEpudVI0MWw4ZzVoUHpnNVNNNVlFNXVv0gHuAUFVX3lxTE9BVnNlbzIzTUlNZU9mMnBoUjRFbmJVd1dIamNFZEtmRFFKR1lxaGRJWUptZzNsQ3pGYk1OZFdneEVuT21OLWo4eWZRekJQd0pqRWprLWRMRC1Rb21MSmFPd3ZFNC1rb1ZnVURpNkh2dmJhaHJvOGhXSnZlZ1NEODdjcFFFbTdpR3VPVWNWZDRpR3B3eTVZSGtTaHA1bFRsRWZMUzhtTDVCRmdCT29xZm9PdjVyTlNIVkFWR0Z4Tzg1dU5hMXdZZWNxYWFEZHZRal8xTmt5Y2hpSUlSRWI0X1dBZGZIWGc0RW1SNGxwOWc?oc=5
 
-- India Crush Pakistan In Asia Cup, Manipur Peace Talks, ITR Filing Deadline And More - The Times of India
-  India Crush Pakistan In Asia Cup, Manipur Peace Talks, ITR F
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcWZiSUtEN1drSHlCdTZKNF9OM0NvUWVnaTdpQk5fS0NjSFRvVnZsdHMxejBfTWJlelFaX092RTRtcFRkZm9scVhfMk1PcTlaazZPMDNDU0FCRHFibzh2UmtGZ05sX0VxYWkwSmpGdVR3TklONHZZSzNqU1R5RU1KU0FEeXBLQldDQlBCNnk2LTVSWnBaMGZYYjdSbmNITHhhUjN5dHc2c0lqbEY5Qk5wYVFwWVRya004eFZLby10Nm1xbXI3NF9ZaTlSd0NPeWJ4eXNpeG91aHBUUjctUVlha0x0eENEX2V4bWFfTlVTSdIB9AFBVV95cUxPcnpQZk9KSVhualFjd1NRcXdJdTZ2RkhaZ1BUbFNzRVpMcm9Lb1czOEdyR21NV3ZjS2pIdWphZjR6UHNaTkpRRWVOMHRGMjZlZjFhZGRKTEtoNVlnZWE5SEtBV09TSGZ6UnkxRkxnVTlTMzRubEVJNDE4cG9WTVZxeE9zOEVGa3A5c28ycnBwLU13NU9LTTdic2Z4aVYxVlhUbVpLOHVyZ1J5WHJncjBONzJZbHNTWHhJa2toOVk3eTA1c0tEVzMtb29IYml4OWVrWHkwVjN1OWJBdXJaYWV5TlZOVWJZTEI3d2FyVVZ4d1pCbDd1?oc=5
-
 - Field and fraternity: On the India-Pakistan Asia Cup match - The Hindu
   The Hindu has a special coverage of the
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2lFY2s3eWo3TG1uQnEzeHV6cV9UME55R3RtRHBycTZaRG0zeUFGT0UxZnI3T0RhWDRHY0FCWG8zZGo2Z3RQamVHQUMtY01wZ21WRDhpbHk3dWpBc2ptUVdTYU1mZ29xTGJ1c0U1ZnVyQjd2QkVTN09QZ2lMQXZnLXR0aVZ1WFlHTVNxbmV1eDBvOURWSmF2b2EwT1dRWHNfV2N3NDFDNzVXemJqbWlnOHhGSmdzNXJXZGRqadIBwwFBVV95cUxOTXlBdlE1QzVvR3RlOHZSams1czI5V05Ya1AxRUthSVcxaXgxa1RLd3JFNGtPdW15bWNOOTY4ZU9uRTl3SWZzNEhMWXU0dkw1Y01rSTJyaXI4QWdaYUpwR2tZQ1d3MWJmeE9TWTI4N2NCQmhvcTgxQmQ1UEVtVE5XOFZ3MzRhbWZkS2htV0QtTi1XSU1uRlpjcmY2OFo5LVJxSjYteTU1dGJ5Vm9ITGh1a1pDTEhUeU5GcVdGV1NXZEpJc3c?oc=5
 
-- 'Venomous': Arundhati Roy Faces Internet Criticism For Shocking India-Pakistan Analogy - News18
-  'Venomous' Arund
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSl93Yzk1RUJva2d2MGpteUE1QWZDbFEzUHpMd1VHVWtWSXBpMWlaRk9OdjZIbllfOGpVV3drM1JhUjNEaU82azlxRkRobDVZMnJBeEFtRmlWU1RSenFyNGFFVTlYUGVxcDRXWmlWeUE4Mlo5ZWZKLU1uTzdOTFVnRG02bDJXWlVSY0c1S3dzOVRWSDAzMzFfZjkxRXl6UVk2T3NNZ2N2bkd5ZUVEYzJLcHdzc1ZETFROQzlrMjlRYnJvR0xMNmJ2Qy1QZURpeFphTHdTRmVhRlNFa0HSAeABQVVfeXFMT3FPMFRfMjdlSXVVM3daUlQ2aGhTaGF0bE0zZlBMNFlhS3NUa21USDRfUTBYNnB2SGN5Z1V2ZDBVOGlDWDRJbWRRS0s0TjNOTW1HWHd1RzRTZmNmLXpyVWlxRmRjU1Q2RE9QWkZvOXdEcUdYTjQ3RFFoVkEyRnlsS2VZZThHYlk5UEtOajdZSzJJdVpIVzdTWllxUEo1c01XaUxYdDVIVFRGT1pBczRVRE1ST3A3U1VIRllWbl9FY09XT2JSZDFTa0R0V3NBb0h3aU1hUFV5T2N1bkFGbXdtS3g?oc=5
+- Handshake row: ICC rejects PCB's demand to remove match referee Andy Pycroft from Asia Cup - The Times of India
+  The Times of India reported that Andy Pycroft will not be taking part in the
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTDd2b1Q0Wk9KZ2RkNUtKVVg2X2k4RFo2ZF9PYXBmbktsYUlLbHl4VmhYX3g3YkFsMXpVOHhTUnhKTlNUM1g4blJxOUZtSm1KVGg3TFdZLTNpN2RVTUhTTlg4ZVZqVXlBREVhVS1Ha1haVmplRHoyZURDNHY0bUREWFJKZnRsaUwxSzNHWkhTSDI2Q3FFZzdETEhMTE4wRGI2VDVFRnRuV3dqTmRNQWNBdkYyXzBZZFNSZjVyLUpBWTNzTnBFOHBtVkdJUkZ2TUNQaVVKQVJQeWVHTmxSQXFOSzRMczNRSnJQV2QtMENUdnBDZ9IB9wFBVV95cUxOd1NhUjExRVpISFdtRVJEYzRaODlDdkdhZWVhM0Y5cEFaVVZ6Q1ZjeUdjUmFGV2h3b0RIZG9oenRXeS1lVi1QU1RTcDdUdVNFNTRWQnBCbG9qMFBacEdMTjB2bnNVdjBEWFhaMDlCMTUzZTlrdloyREhObVhMQWh2SGp5NlB5RzRDcTBvUzRCeHRIWXRmRXpTVkJhbHo0Wm4wQ2Nnc3h5Wkw3LS14LWtSUmpFcHRvMmt4X2NicG9sMkdGckJVa2ZfQXFubjJxNEJuSVhjdkdFU1ZRN2hLTGxxSEtSX0dlV0NiVjJHcERHQjYydHk2a3Uw?oc=5
 
-- "India Coming To The Table": Top Trump Aide Ahead Of Trade Talks - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTk43Ty1NeEwyU2ItUkhaa1gxU05tN0xTMVpERElNdHNkS2NKd2E0ZjliYkZzRW5oM01scGVqYjJEQnoyYk10Qm1MVkpNSmFsU1lyc2Q5MlZRemlQX2s3X1BtM1Z3bVI5T1
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTk43Ty1NeEwyU2ItUkhaa1gxU05tN0xTMVpERElNdHNkS2NKd2E0ZjliYkZzRW5oM01scGVqYjJEQnoyYk10Qm1MVkpNSmFsU1lyc2Q5MlZRemlQX2s3X1BtM1Z3bVI5T1F0T1BHenRRMjdYanlvYV9GYzZuRHA1bmQ4WWNKOFhkRmdPQS1wMl8xaXc0MHJOaFZ0VnQtanhQM2FfZmU0Q2prclR2MWZaNkRWMnNfcUFfN1lJdmkwMEhEc1Z6UlpnVXQ5NmZrN1B4ZVI1aDhPcXJxdnRhTlVIRGpyNnlvZ9IB7gFBVV95cUxNdUVyYTc2OUsxa2hnUFA4REZZZzBZSFVXZXdZNXhsVjZWc2h4N0owNlNjbElIVkxOQi1HeVVBT2JsdVNVN2MxNS1aRnF1aFJuZmh0SHVYMG5OZFZtLWVlaTkwTTFBaElMWEE4MWstUm9velJWb2JXWDA3dTRFTWxxc2pLNm5WV000UExIT3JsdUVpRmtHT01MUTZmekZxNlpJQ05TRzVIWTJhaUpFdHZBTVdpNUwySkY2dldHdUtuU3YtZXptRmhHVEgwTUtlQnRYOFJqaTJZNERjNXA3WFRqOGhVNHE5VE9LU1ZIVDRn?oc=5
+- Breaking news live: SC orders Maharashtra local body polls by January, 2026 - The Times of India
+  The Times of India reports that the Supreme Court has ordered Maharashtra local
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYmU4MnJ2cTFydXhxSG53Y0tnWkc0Q0xURnhmVWs3dmR2VVR2ZWJSOUJpTXU3aUZsbUhRNmV4YnFiWkFGSTB5OXRZLVRQNzdyVFhWUzBhaUxXbkVsd3pkZHI3RVgxZlZDYmczWGVzUnFTSTVvSnZiMUxjeDVKWTVsY3RzY3ZmbE1SbjVxTk5oNXJpc1dxbW50bkxWc1V5NGVhbDlrRWJJclVlQzJQblc4MkRTYjlER3BrSkZna1hIaS1SNEdMcjR3a1pWd0hLNzJ1UjRCZG5R0gHbAUFVX3lxTE11VEN1dGpJR1h3SHJpeV9JZzZNa0luUDdxY2RqRmlSQm5UWFl1VjFoRXJWYi1pYXZfMGM3dTZQLVJHZ0xDYVRrMk5Rb29wOHJCeU1NVWJHdGZYS3pwUWtvZ1ZfYW1XVXFVUW1lQWo3OFc1MFlIeU1YNFpvMGdzUGpwQnBhZmxZVFU0OGEycXhNWGxadEZhQmktLXd6S2pqYzJQS19wVkRJRHR4aFoxV3ZoZ1dUVm5TN2xnVXRlbFpZOUpFMHd0bHI2YnF1SHBHMkJERW1yaUxiM0FtMA?oc=5
+
+- Trump's tariffs: India-US seek breakthrough in day-long trade talks - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oaU40VENvQVAxaU1PMXl2WG4tUmlqbHlWaGE2bkNNNlk2UDZsY0VfdDR2NGMxVE9zN1pKelZyckxacE5sdXF5Z2M3Y2kwTmdDanMydjU5MF9xQdIBX0FVX3lxTE5Bd1E4S3
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oaU40VENvQVAxaU1PMXl2WG4tUmlqbHlWaGE2bkNNNlk2UDZsY0VfdDR2NGMxVE9zN1pKelZyckxacE5sdXF5Z2M3Y2kwTmdDanMydjU5MF9xQdIBX0FVX3lxTE5Bd1E4S3pRdER1NzhnV0VUbXVFaXFwcHlSQUFRTms1QXVLdml5NldLTVhmMDdZQ0E5RF95a0Z2UVozSW1Zb2hpdzdvMUlzaEt5akd6QmtRQy1KWE14MFJJ?oc=5
 
 - ‘This can’t be…': Asaduddin Owaisi's first reaction to India's Asia Cup victory against Pakistan | Latest News India - Hindustan Times
   ‘This can’t be…': Asaduddin Owaisi's
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR1BDblg5d0E4cXplZTE3am1YeDRwTmdLTk5kUW41Y19Xdm9zQnJZLXZ0cFJ4VWNkSUJWSVpkRWxSb2xZM1lpU1hzVF9nTkg2OEtWSlc4eE5JSTdLRzNGdFhENm83LThPeEFSaWZxVmhkRlZQSEJZY21fbEE2d1NXdDFWSlV5dEhyNEU3RF9QeTZnOEl1eGNnRTBSY2xsX2x5dU1taVlnTVpFcXUyc2liVVRTNEFZc3VGRndWZ2oxbjVzS3lxYldORUIzMmR3LVZPdEpudVI0MWw4ZzVoUHpnNVNNNVlFNXVv0gHuAUFVX3lxTE9BVnNlbzIzTUlNZU9mMnBoUjRFbmJVd1dIamNFZEtmRFFKR1lxaGRJWUptZzNsQ3pGYk1OZFdneEVuT21OLWo4eWZRekJQd0pqRWprLWRMRC1Rb21MSmFPd3ZFNC1rb1ZnVURpNkh2dmJhaHJvOGhXSnZlZ1NEODdjcFFFbTdpR3VPVWNWZDRpR3B3eTVZSGtTaHA1bFRsRWZMUzhtTDVCRmdCT29xZm9PdjVyTlNIVkFWR0Z4Tzg1dU5hMXdZZWNxYWFEZHZRal8xTmt5Y2hpSUlSRWI0X1dBZGZIWGc0RW1SNGxwOWc?oc=5
 
-- India Crush Pakistan In Asia Cup, Manipur Peace Talks, ITR Filing Deadline And More - The Times of India
-  India Crush Pakistan In Asia Cup, Manipur Peace Talks, ITR F
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcWZiSUtEN1drSHlCdTZKNF9OM0NvUWVnaTdpQk5fS0NjSFRvVnZsdHMxejBfTWJlelFaX092RTRtcFRkZm9scVhfMk1PcTlaazZPMDNDU0FCRHFibzh2UmtGZ05sX0VxYWkwSmpGdVR3TklONHZZSzNqU1R5RU1KU0FEeXBLQldDQlBCNnk2LTVSWnBaMGZYYjdSbmNITHhhUjN5dHc2c0lqbEY5Qk5wYVFwWVRya004eFZLby10Nm1xbXI3NF9ZaTlSd0NPeWJ4eXNpeG91aHBUUjctUVlha0x0eENEX2V4bWFfTlVTSdIB9AFBVV95cUxPcnpQZk9KSVhualFjd1NRcXdJdTZ2RkhaZ1BUbFNzRVpMcm9Lb1czOEdyR21NV3ZjS2pIdWphZjR6UHNaTkpRRWVOMHRGMjZlZjFhZGRKTEtoNVlnZWE5SEtBV09TSGZ6UnkxRkxnVTlTMzRubEVJNDE4cG9WTVZxeE9zOEVGa3A5c28ycnBwLU13NU9LTTdic2Z4aVYxVlhUbVpLOHVyZ1J5WHJncjBONzJZbHNTWHhJa2toOVk3eTA1c0tEVzMtb29IYml4OWVrWHkwVjN1OWJBdXJaYWV5TlZOVWJZTEI3d2FyVVZ4d1pCbDd1?oc=5
-
 - Field and fraternity: On the India-Pakistan Asia Cup match - The Hindu
   The Hindu has a special coverage of the
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2lFY2s3eWo3TG1uQnEzeHV6cV9UME55R3RtRHBycTZaRG0zeUFGT0UxZnI3T0RhWDRHY0FCWG8zZGo2Z3RQamVHQUMtY01wZ21WRDhpbHk3dWpBc2ptUVdTYU1mZ29xTGJ1c0U1ZnVyQjd2QkVTN09QZ2lMQXZnLXR0aVZ1WFlHTVNxbmV1eDBvOURWSmF2b2EwT1dRWHNfV2N3NDFDNzVXemJqbWlnOHhGSmdzNXJXZGRqadIBwwFBVV95cUxOTXlBdlE1QzVvR3RlOHZSams1czI5V05Ya1AxRUthSVcxaXgxa1RLd3JFNGtPdW15bWNOOTY4ZU9uRTl3SWZzNEhMWXU0dkw1Y01rSTJyaXI4QWdaYUpwR2tZQ1d3MWJmeE9TWTI4N2NCQmhvcTgxQmQ1UEVtVE5XOFZ3MzRhbWZkS2htV0QtTi1XSU1uRlpjcmY2OFo5LVJxSjYteTU1dGJ5Vm9ITGh1a1pDTEhUeU5GcVdGV1NXZEpJc3c?oc=5
 
-- 'Venomous': Arundhati Roy Faces Internet Criticism For Shocking India-Pakistan Analogy - News18
-  'Venomous' Arund
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSl93Yzk1RUJva2d2MGpteUE1QWZDbFEzUHpMd1VHVWtWSXBpMWlaRk9OdjZIbllfOGpVV3drM1JhUjNEaU82azlxRkRobDVZMnJBeEFtRmlWU1RSenFyNGFFVTlYUGVxcDRXWmlWeUE4Mlo5ZWZKLU1uTzdOTFVnRG02bDJXWlVSY0c1S3dzOVRWSDAzMzFfZjkxRXl6UVk2T3NNZ2N2bkd5ZUVEYzJLcHdzc1ZETFROQzlrMjlRYnJvR0xMNmJ2Qy1QZURpeFphTHdTRmVhRlNFa0HSAeABQVVfeXFMT3FPMFRfMjdlSXVVM3daUlQ2aGhTaGF0bE0zZlBMNFlhS3NUa21USDRfUTBYNnB2SGN5Z1V2ZDBVOGlDWDRJbWRRS0s0TjNOTW1HWHd1RzRTZmNmLXpyVWlxRmRjU1Q2RE9QWkZvOXdEcUdYTjQ3RFFoVkEyRnlsS2VZZThHYlk5UEtOajdZSzJJdVpIVzdTWllxUEo1c01XaUxYdDVIVFRGT1pBczRVRE1ST3A3U1VIRllWbl9FY09XT2JSZDFTa0R0V3NBb0h3aU1hUFV5T2N1bkFGbXdtS3g?oc=5
+- Handshake row: ICC rejects PCB's demand to remove match referee Andy Pycroft from Asia Cup - The Times of India
+  The Times of India reported that Andy Pycroft will not be taking part in the
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTDd2b1Q0Wk9KZ2RkNUtKVVg2X2k4RFo2ZF9PYXBmbktsYUlLbHl4VmhYX3g3YkFsMXpVOHhTUnhKTlNUM1g4blJxOUZtSm1KVGg3TFdZLTNpN2RVTUhTTlg4ZVZqVXlBREVhVS1Ha1haVmplRHoyZURDNHY0bUREWFJKZnRsaUwxSzNHWkhTSDI2Q3FFZzdETEhMTE4wRGI2VDVFRnRuV3dqTmRNQWNBdkYyXzBZZFNSZjVyLUpBWTNzTnBFOHBtVkdJUkZ2TUNQaVVKQVJQeWVHTmxSQXFOSzRMczNRSnJQV2QtMENUdnBDZ9IB9wFBVV95cUxOd1NhUjExRVpISFdtRVJEYzRaODlDdkdhZWVhM0Y5cEFaVVZ6Q1ZjeUdjUmFGV2h3b0RIZG9oenRXeS1lVi1QU1RTcDdUdVNFNTRWQnBCbG9qMFBacEdMTjB2bnNVdjBEWFhaMDlCMTUzZTlrdloyREhObVhMQWh2SGp5NlB5RzRDcTBvUzRCeHRIWXRmRXpTVkJhbHo0Wm4wQ2Nnc3h5Wkw3LS14LWtSUmpFcHRvMmt4X2NicG9sMkdGckJVa2ZfQXFubjJxNEJuSVhjdkdFU1ZRN2hLTGxxSEtSX0dlV0NiVjJHcERHQjYydHk2a3Uw?oc=5
 
-- "India Coming To The Table": Top Trump Aide Ahead Of Trade Talks - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTk43Ty1NeEwyU2ItUkhaa1gxU05tN0xTMVpERElNdHNkS2NKd2E0ZjliYkZzRW5oM01scGVqYjJEQnoyYk10Qm1MVkpNSmFsU1lyc2Q5MlZRemlQX2s3X1BtM1Z3bVI5T1
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTk43Ty1NeEwyU2ItUkhaa1gxU05tN0xTMVpERElNdHNkS2NKd2E0ZjliYkZzRW5oM01scGVqYjJEQnoyYk10Qm1MVkpNSmFsU1lyc2Q5MlZRemlQX2s3X1BtM1Z3bVI5T1F0T1BHenRRMjdYanlvYV9GYzZuRHA1bmQ4WWNKOFhkRmdPQS1wMl8xaXc0MHJOaFZ0VnQtanhQM2FfZmU0Q2prclR2MWZaNkRWMnNfcUFfN1lJdmkwMEhEc1Z6UlpnVXQ5NmZrN1B4ZVI1aDhPcXJxdnRhTlVIRGpyNnlvZ9IB7gFBVV95cUxNdUVyYTc2OUsxa2hnUFA4REZZZzBZSFVXZXdZNXhsVjZWc2h4N0owNlNjbElIVkxOQi1HeVVBT2JsdVNVN2MxNS1aRnF1aFJuZmh0SHVYMG5OZFZtLWVlaTkwTTFBaElMWEE4MWstUm9velJWb2JXWDA3dTRFTWxxc2pLNm5WV000UExIT3JsdUVpRmtHT01MUTZmekZxNlpJQ05TRzVIWTJhaUpFdHZBTVdpNUwySkY2dldHdUtuU3YtZXptRmhHVEgwTUtlQnRYOFJqaTJZNERjNXA3WFRqOGhVNHE5VE9LU1ZIVDRn?oc=5
+- Breaking news live: SC orders Maharashtra local body polls by January, 2026 - The Times of India
+  The Times of India reports that the Supreme Court has ordered Maharashtra local
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYmU4MnJ2cTFydXhxSG53Y0tnWkc0Q0xURnhmVWs3dmR2VVR2ZWJSOUJpTXU3aUZsbUhRNmV4YnFiWkFGSTB5OXRZLVRQNzdyVFhWUzBhaUxXbkVsd3pkZHI3RVgxZlZDYmczWGVzUnFTSTVvSnZiMUxjeDVKWTVsY3RzY3ZmbE1SbjVxTk5oNXJpc1dxbW50bkxWc1V5NGVhbDlrRWJJclVlQzJQblc4MkRTYjlER3BrSkZna1hIaS1SNEdMcjR3a1pWd0hLNzJ1UjRCZG5R0gHbAUFVX3lxTE11VEN1dGpJR1h3SHJpeV9JZzZNa0luUDdxY2RqRmlSQm5UWFl1VjFoRXJWYi1pYXZfMGM3dTZQLVJHZ0xDYVRrMk5Rb29wOHJCeU1NVWJHdGZYS3pwUWtvZ1ZfYW1XVXFVUW1lQWo3OFc1MFlIeU1YNFpvMGdzUGpwQnBhZmxZVFU0OGEycXhNWGxadEZhQmktLXd6S2pqYzJQS19wVkRJRHR4aFoxV3ZoZ1dUVm5TN2xnVXRlbFpZOUpFMHd0bHI2YnF1SHBHMkJERW1yaUxiM0FtMA?oc=5
+
+- Trump's tariffs: India-US seek breakthrough in day-long trade talks - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oaU40VENvQVAxaU1PMXl2WG4tUmlqbHlWaGE2bkNNNlk2UDZsY0VfdDR2NGMxVE9zN1pKelZyckxacE5sdXF5Z2M3Y2kwTmdDanMydjU5MF9xQdIBX0FVX3lxTE5Bd1E4S3
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oaU40VENvQVAxaU1PMXl2WG4tUmlqbHlWaGE2bkNNNlk2UDZsY0VfdDR2NGMxVE9zN1pKelZyckxacE5sdXF5Z2M3Y2kwTmdDanMydjU5MF9xQdIBX0FVX3lxTE5Bd1E4S3pRdER1NzhnV0VUbXVFaXFwcHlSQUFRTms1QXVLdml5NldLTVhmMDdZQ0E5RF95a0Z2UVozSW1Zb2hpdzdvMUlzaEt5akd6QmtRQy1KWE14MFJJ?oc=5
 
 - ‘This can’t be…': Asaduddin Owaisi's first reaction to India's Asia Cup victory against Pakistan | Latest News India - Hindustan Times
   ‘This can’t be…': Asaduddin Owaisi's
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR1BDblg5d0E4cXplZTE3am1YeDRwTmdLTk5kUW41Y19Xdm9zQnJZLXZ0cFJ4VWNkSUJWSVpkRWxSb2xZM1lpU1hzVF9nTkg2OEtWSlc4eE5JSTdLRzNGdFhENm83LThPeEFSaWZxVmhkRlZQSEJZY21fbEE2d1NXdDFWSlV5dEhyNEU3RF9QeTZnOEl1eGNnRTBSY2xsX2x5dU1taVlnTVpFcXUyc2liVVRTNEFZc3VGRndWZ2oxbjVzS3lxYldORUIzMmR3LVZPdEpudVI0MWw4ZzVoUHpnNVNNNVlFNXVv0gHuAUFVX3lxTE9BVnNlbzIzTUlNZU9mMnBoUjRFbmJVd1dIamNFZEtmRFFKR1lxaGRJWUptZzNsQ3pGYk1OZFdneEVuT21OLWo4eWZRekJQd0pqRWprLWRMRC1Rb21MSmFPd3ZFNC1rb1ZnVURpNkh2dmJhaHJvOGhXSnZlZ1NEODdjcFFFbTdpR3VPVWNWZDRpR3B3eTVZSGtTaHA1bFRsRWZMUzhtTDVCRmdCT29xZm9PdjVyTlNIVkFWR0Z4Tzg1dU5hMXdZZWNxYWFEZHZRal8xTmt5Y2hpSUlSRWI0X1dBZGZIWGc0RW1SNGxwOWc?oc=5
 
-- India Crush Pakistan In Asia Cup, Manipur Peace Talks, ITR Filing Deadline And More - The Times of India
-  India Crush Pakistan In Asia Cup, Manipur Peace Talks, ITR F
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcWZiSUtEN1drSHlCdTZKNF9OM0NvUWVnaTdpQk5fS0NjSFRvVnZsdHMxejBfTWJlelFaX092RTRtcFRkZm9scVhfMk1PcTlaazZPMDNDU0FCRHFibzh2UmtGZ05sX0VxYWkwSmpGdVR3TklONHZZSzNqU1R5RU1KU0FEeXBLQldDQlBCNnk2LTVSWnBaMGZYYjdSbmNITHhhUjN5dHc2c0lqbEY5Qk5wYVFwWVRya004eFZLby10Nm1xbXI3NF9ZaTlSd0NPeWJ4eXNpeG91aHBUUjctUVlha0x0eENEX2V4bWFfTlVTSdIB9AFBVV95cUxPcnpQZk9KSVhualFjd1NRcXdJdTZ2RkhaZ1BUbFNzRVpMcm9Lb1czOEdyR21NV3ZjS2pIdWphZjR6UHNaTkpRRWVOMHRGMjZlZjFhZGRKTEtoNVlnZWE5SEtBV09TSGZ6UnkxRkxnVTlTMzRubEVJNDE4cG9WTVZxeE9zOEVGa3A5c28ycnBwLU13NU9LTTdic2Z4aVYxVlhUbVpLOHVyZ1J5WHJncjBONzJZbHNTWHhJa2toOVk3eTA1c0tEVzMtb29IYml4OWVrWHkwVjN1OWJBdXJaYWV5TlZOVWJZTEI3d2FyVVZ4d1pCbDd1?oc=5
+- Field and fraternity: On the India-Pakistan Asia Cup match - The Hindu
+  The Hindu has a special coverage of the
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2lFY2s3eWo3TG1uQnEzeHV6cV9UME55R3RtRHBycTZaRG0zeUFGT0UxZnI3T0RhWDRHY0FCWG8zZGo2Z3RQamVHQUMtY01wZ21WRDhpbHk3dWpBc2ptUVdTYU1mZ29xTGJ1c0U1ZnVyQjd2QkVTN09QZ2lMQXZnLXR0aVZ1WFlHTVNxbmV1eDBvOURWSmF2b2EwT1dRWHNfV2N3NDFDNzVXemJqbWlnOHhGSmdzNXJXZGRqadIBwwFBVV95cUxOTXlBdlE1QzVvR3RlOHZSams1czI5V05Ya1AxRUthSVcxaXgxa1RLd3JFNGtPdW15bWNOOTY4ZU9uRTl3SWZzNEhMWXU0dkw1Y01rSTJyaXI4QWdaYUpwR2tZQ1d3MWJmeE9TWTI4N2NCQmhvcTgxQmQ1UEVtVE5XOFZ3MzRhbWZkS2htV0QtTi1XSU1uRlpjcmY2OFo5LVJxSjYteTU1dGJ5Vm9ITGh1a1pDTEhUeU5GcVdGV1NXZEpJc3c?oc=5
+
+- Handshake row: ICC rejects PCB's demand to remove match referee Andy Pycroft from Asia Cup - The Times of India
+  The Times of India reported that Andy Pycroft will not be taking part in the
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTDd2b1Q0Wk9KZ2RkNUtKVVg2X2k4RFo2ZF9PYXBmbktsYUlLbHl4VmhYX3g3YkFsMXpVOHhTUnhKTlNUM1g4blJxOUZtSm1KVGg3TFdZLTNpN2RVTUhTTlg4ZVZqVXlBREVhVS1Ha1haVmplRHoyZURDNHY0bUREWFJKZnRsaUwxSzNHWkhTSDI2Q3FFZzdETEhMTE4wRGI2VDVFRnRuV3dqTmRNQWNBdkYyXzBZZFNSZjVyLUpBWTNzTnBFOHBtVkdJUkZ2TUNQaVVKQVJQeWVHTmxSQXFOSzRMczNRSnJQV2QtMENUdnBDZ9IB9wFBVV95cUxOd1NhUjExRVpISFdtRVJEYzRaODlDdkdhZWVhM0Y5cEFaVVZ6Q1ZjeUdjUmFGV2h3b0RIZG9oenRXeS1lVi1QU1RTcDdUdVNFNTRWQnBCbG9qMFBacEdMTjB2bnNVdjBEWFhaMDlCMTUzZTlrdloyREhObVhMQWh2SGp5NlB5RzRDcTBvUzRCeHRIWXRmRXpTVkJhbHo0Wm4wQ2Nnc3h5Wkw3LS14LWtSUmpFcHRvMmt4X2NicG9sMkdGckJVa2ZfQXFubjJxNEJuSVhjdkdFU1ZRN2hLTGxxSEtSX0dlV0NiVjJHcERHQjYydHk2a3Uw?oc=5
+
+- Breaking news live: SC orders Maharashtra local body polls by January, 2026 - The Times of India
+  The Times of India reports that the Supreme Court has ordered Maharashtra local
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYmU4MnJ2cTFydXhxSG53Y0tnWkc0Q0xURnhmVWs3dmR2VVR2ZWJSOUJpTXU3aUZsbUhRNmV4YnFiWkFGSTB5OXRZLVRQNzdyVFhWUzBhaUxXbkVsd3pkZHI3RVgxZlZDYmczWGVzUnFTSTVvSnZiMUxjeDVKWTVsY3RzY3ZmbE1SbjVxTk5oNXJpc1dxbW50bkxWc1V5NGVhbDlrRWJJclVlQzJQblc4MkRTYjlER3BrSkZna1hIaS1SNEdMcjR3a1pWd0hLNzJ1UjRCZG5R0gHbAUFVX3lxTE11VEN1dGpJR1h3SHJpeV9JZzZNa0luUDdxY2RqRmlSQm5UWFl1VjFoRXJWYi1pYXZfMGM3dTZQLVJHZ0xDYVRrMk5Rb29wOHJCeU1NVWJHdGZYS3pwUWtvZ1ZfYW1XVXFVUW1lQWo3OFc1MFlIeU1YNFpvMGdzUGpwQnBhZmxZVFU0OGEycXhNWGxadEZhQmktLXd6S2pqYzJQS19wVkRJRHR4aFoxV3ZoZ1dUVm5TN2xnVXRlbFpZOUpFMHd0bHI2YnF1SHBHMkJERW1yaUxiM0FtMA?oc=5
+
+- Trump's tariffs: India-US seek breakthrough in day-long trade talks - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oaU40VENvQVAxaU1PMXl2WG4tUmlqbHlWaGE2bkNNNlk2UDZsY0VfdDR2NGMxVE9zN1pKelZyckxacE5sdXF5Z2M3Y2kwTmdDanMydjU5MF9xQdIBX0FVX3lxTE5Bd1E4S3
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oaU40VENvQVAxaU1PMXl2WG4tUmlqbHlWaGE2bkNNNlk2UDZsY0VfdDR2NGMxVE9zN1pKelZyckxacE5sdXF5Z2M3Y2kwTmdDanMydjU5MF9xQdIBX0FVX3lxTE5Bd1E4S3pRdER1NzhnV0VUbXVFaXFwcHlSQUFRTms1QXVLdml5NldLTVhmMDdZQ0E5RF95a0Z2UVozSW1Zb2hpdzdvMUlzaEt5akd6QmtRQy1KWE14MFJJ?oc=5
+
+- ‘This can’t be…': Asaduddin Owaisi's first reaction to India's Asia Cup victory against Pakistan | Latest News India - Hindustan Times
+  ‘This can’t be…': Asaduddin Owaisi's
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR1BDblg5d0E4cXplZTE3am1YeDRwTmdLTk5kUW41Y19Xdm9zQnJZLXZ0cFJ4VWNkSUJWSVpkRWxSb2xZM1lpU1hzVF9nTkg2OEtWSlc4eE5JSTdLRzNGdFhENm83LThPeEFSaWZxVmhkRlZQSEJZY21fbEE2d1NXdDFWSlV5dEhyNEU3RF9QeTZnOEl1eGNnRTBSY2xsX2x5dU1taVlnTVpFcXUyc2liVVRTNEFZc3VGRndWZ2oxbjVzS3lxYldORUIzMmR3LVZPdEpudVI0MWw4ZzVoUHpnNVNNNVlFNXVv0gHuAUFVX3lxTE9BVnNlbzIzTUlNZU9mMnBoUjRFbmJVd1dIamNFZEtmRFFKR1lxaGRJWUptZzNsQ3pGYk1OZFdneEVuT21OLWo4eWZRekJQd0pqRWprLWRMRC1Rb21MSmFPd3ZFNC1rb1ZnVURpNkh2dmJhaHJvOGhXSnZlZ1NEODdjcFFFbTdpR3VPVWNWZDRpR3B3eTVZSGtTaHA1bFRsRWZMUzhtTDVCRmdCT29xZm9PdjVyTlNIVkFWR0Z4Tzg1dU5hMXdZZWNxYWFEZHZRal8xTmt5Y2hpSUlSRWI0X1dBZGZIWGc0RW1SNGxwOWc?oc=5
 
 - Field and fraternity: On the India-Pakistan Asia Cup match - The Hindu
   The Hindu has a special coverage of the
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2lFY2s3eWo3TG1uQnEzeHV6cV9UME55R3RtRHBycTZaRG0zeUFGT0UxZnI3T0RhWDRHY0FCWG8zZGo2Z3RQamVHQUMtY01wZ21WRDhpbHk3dWpBc2ptUVdTYU1mZ29xTGJ1c0U1ZnVyQjd2QkVTN09QZ2lMQXZnLXR0aVZ1WFlHTVNxbmV1eDBvOURWSmF2b2EwT1dRWHNfV2N3NDFDNzVXemJqbWlnOHhGSmdzNXJXZGRqadIBwwFBVV95cUxOTXlBdlE1QzVvR3RlOHZSams1czI5V05Ya1AxRUthSVcxaXgxa1RLd3JFNGtPdW15bWNOOTY4ZU9uRTl3SWZzNEhMWXU0dkw1Y01rSTJyaXI4QWdaYUpwR2tZQ1d3MWJmeE9TWTI4N2NCQmhvcTgxQmQ1UEVtVE5XOFZ3MzRhbWZkS2htV0QtTi1XSU1uRlpjcmY2OFo5LVJxSjYteTU1dGJ5Vm9ITGh1a1pDTEhUeU5GcVdGV1NXZEpJc3c?oc=5
 
-- 'Venomous': Arundhati Roy Faces Internet Criticism For Shocking India-Pakistan Analogy - News18
-  'Venomous' Arund
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSl93Yzk1RUJva2d2MGpteUE1QWZDbFEzUHpMd1VHVWtWSXBpMWlaRk9OdjZIbllfOGpVV3drM1JhUjNEaU82azlxRkRobDVZMnJBeEFtRmlWU1RSenFyNGFFVTlYUGVxcDRXWmlWeUE4Mlo5ZWZKLU1uTzdOTFVnRG02bDJXWlVSY0c1S3dzOVRWSDAzMzFfZjkxRXl6UVk2T3NNZ2N2bkd5ZUVEYzJLcHdzc1ZETFROQzlrMjlRYnJvR0xMNmJ2Qy1QZURpeFphTHdTRmVhRlNFa0HSAeABQVVfeXFMT3FPMFRfMjdlSXVVM3daUlQ2aGhTaGF0bE0zZlBMNFlhS3NUa21USDRfUTBYNnB2SGN5Z1V2ZDBVOGlDWDRJbWRRS0s0TjNOTW1HWHd1RzRTZmNmLXpyVWlxRmRjU1Q2RE9QWkZvOXdEcUdYTjQ3RFFoVkEyRnlsS2VZZThHYlk5UEtOajdZSzJJdVpIVzdTWllxUEo1c01XaUxYdDVIVFRGT1pBczRVRE1ST3A3U1VIRllWbl9FY09XT2JSZDFTa0R0V3NBb0h3aU1hUFV5T2N1bkFGbXdtS3g?oc=5
+- Handshake row: ICC rejects PCB's demand to remove match referee Andy Pycroft from Asia Cup - The Times of India
+  The Times of India reported that Andy Pycroft will not be taking part in the
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTDd2b1Q0Wk9KZ2RkNUtKVVg2X2k4RFo2ZF9PYXBmbktsYUlLbHl4VmhYX3g3YkFsMXpVOHhTUnhKTlNUM1g4blJxOUZtSm1KVGg3TFdZLTNpN2RVTUhTTlg4ZVZqVXlBREVhVS1Ha1haVmplRHoyZURDNHY0bUREWFJKZnRsaUwxSzNHWkhTSDI2Q3FFZzdETEhMTE4wRGI2VDVFRnRuV3dqTmRNQWNBdkYyXzBZZFNSZjVyLUpBWTNzTnBFOHBtVkdJUkZ2TUNQaVVKQVJQeWVHTmxSQXFOSzRMczNRSnJQV2QtMENUdnBDZ9IB9wFBVV95cUxOd1NhUjExRVpISFdtRVJEYzRaODlDdkdhZWVhM0Y5cEFaVVZ6Q1ZjeUdjUmFGV2h3b0RIZG9oenRXeS1lVi1QU1RTcDdUdVNFNTRWQnBCbG9qMFBacEdMTjB2bnNVdjBEWFhaMDlCMTUzZTlrdloyREhObVhMQWh2SGp5NlB5RzRDcTBvUzRCeHRIWXRmRXpTVkJhbHo0Wm4wQ2Nnc3h5Wkw3LS14LWtSUmpFcHRvMmt4X2NicG9sMkdGckJVa2ZfQXFubjJxNEJuSVhjdkdFU1ZRN2hLTGxxSEtSX0dlV0NiVjJHcERHQjYydHk2a3Uw?oc=5
 
-- AI, aesthetics, and anxiety: How technology is reshaping our mental health and social media patterns? - Moneycontrol
-  Moneycontrol.com: How technology is reshaping our mental health
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeHlldTc1TlBmYUtXWTBicFpKX24xanVia1dXLUZuYndqYkJKSXY4NWpFZnB0N1VpQ0FhQW02dmtxU1F6Z3FLRzlXRkJPdnJGakxfOGdwVzBnTUNBQVZLTDJZblc1cC1xekZSd2VRN243LW5oenlKRk5QNW9xMG5HaDhzY1pjbVZlXzBXWkNRZ0ZQVFRNUzIya1lBSnJBeGEtUmlEaDhSSDYzSnVfRnYwNmV5bEg3ck1fdFg3UEJyQlVpbFhkS09UU1pvX3l5emk1M3p2MFJpc0hEdmw5WmZxN1BBdXozSmh0cUNsdkU0V0NjRnRlRk1CVjJ6SdIBgAJBVV95cUxPQ1I2WnZ2TjJra3labldpLWRUeFFibHo5MWFZcVFWeHpvYjd1S1lyaENwN3ZpXzVKNlAza0F4b0JLdVNKZ2ltMU43QVFlaWoxQXJyREY1RDZKYlZaVzlhYXdVLXNnejktNk5yNUZmSFhHX3NJaHBGanJmV1JFbXdwR2U1dFhxZlJBMXBGcWd1bmpOMjdKWkFRSy1FUE0xWmtlQ2MwaVdSYlVPRDNxM2V4dGx6WFpBaHd1QzcyRTNORXByQ2ZwZ2t4OVp0ZVFfRV9pUW02ZzN0bW8yc2V2eFFqWG1qT2FYQWpxc3FscFlKRmMtcGRnRF9YTklUeFg2Z0tv?oc=5
+- Breaking news live: SC orders Maharashtra local body polls by January, 2026 - The Times of India
+  The Times of India reports that the Supreme Court has ordered Maharashtra local
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYmU4MnJ2cTFydXhxSG53Y0tnWkc0Q0xURnhmVWs3dmR2VVR2ZWJSOUJpTXU3aUZsbUhRNmV4YnFiWkFGSTB5OXRZLVRQNzdyVFhWUzBhaUxXbkVsd3pkZHI3RVgxZlZDYmczWGVzUnFTSTVvSnZiMUxjeDVKWTVsY3RzY3ZmbE1SbjVxTk5oNXJpc1dxbW50bkxWc1V5NGVhbDlrRWJJclVlQzJQblc4MkRTYjlER3BrSkZna1hIaS1SNEdMcjR3a1pWd0hLNzJ1UjRCZG5R0gHbAUFVX3lxTE11VEN1dGpJR1h3SHJpeV9JZzZNa0luUDdxY2RqRmlSQm5UWFl1VjFoRXJWYi1pYXZfMGM3dTZQLVJHZ0xDYVRrMk5Rb29wOHJCeU1NVWJHdGZYS3pwUWtvZ1ZfYW1XVXFVUW1lQWo3OFc1MFlIeU1YNFpvMGdzUGpwQnBhZmxZVFU0OGEycXhNWGxadEZhQmktLXd6S2pqYzJQS19wVkRJRHR4aFoxV3ZoZ1dUVm5TN2xnVXRlbFpZOUpFMHd0bHI2YnF1SHBHMkJERW1yaUxiM0FtMA?oc=5
 
-- Nirmala Sitharaman says regulations should foster technology innovations, not wipe them out - The Hindu
-  Nirmala Sitharaman says regulations should foster technology
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYWNLdGFNTTFuczNMZnBoV1JtRUtHTHFpUFhDTFhiZ1ptUk1JdEF5QnBCOHB3R2lMYkJyVUYyZG0zNG14cUllTWh4c2dJSkcwTWQ3ckZHaWNXdmw3aWhNeXVuN3o2dHVYZk5LVDlMZGxqZ1hNQXhUWm5qNXk1M2NxVE9ZN2tEU0NIVXZiTllJN19FSDlKME5kTlVGWEZFZFVOUk5fV0trcTZhY2NkcmJZZ2JBTU10dFFYNWQ4WlI2d2tLU01tNGpTNHBDLXgweEtDY1dVdldjM3BhbHBHV3NZUnVyZWRKMDBS0gHvAUFVX3lxTE1FT1BxQVRndmtzcGdBRlViZFc2Tjk0Y0N0UXc5TDBnRUVXZ0p6VnZHSUNwcXE4WVp6V3hqdzRqSGZPNm9RNjZPbk5PczdTd3l6dVd1NkdaMmxVRS1kanpoaExDRGxZNThMMm9fVG5icEdtSGNnWHVhRm9od3dkZDFsc3FpLTVnSHhvTC1wbjBFM3FWbHVVREUzUnl1RmNyTGJud0hmT285bXN0YmR3MEhPb0FkYmZTQ2tBaHo0aVJEWjl4M2VYd1FzWC12SlZFQ2dPYkNuLU1YdGdFQXYxdkpxZzY4MkFCdFBOWkxXM2Uw?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- 3I/ATLAS and Oumuamua: Comets or Alien Technology? - orfonline.org
-  3I/ATL
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQOUNzal9ZNXFBMUl4RGgtSWFubkRqY1owYnZDQlFhbE5VOWRyV1ZiQXdYVGo0REd6MlZSX3ZVT2RBUHNjMXcxbWZWLVZROGtfdVR4N3BCSTJidUczM1g3Rkk4bXVGdEY1YWNrdHR6em0zZm1RN0JHQUl3OEJxLTFfZFFVMjZUVkh0X3QzYUVyaS0?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Billion-dollar coffins? New technology could make oceans transparent and Aukus submarines vulnerable - The Guardian
-  The Guardian reports that Aukus submarines could be
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQa3BUNm5oektkYllMaE5tTWJKeW9MbHI1YzFLclR0Q3ZlSFhOUU00THFSbmMxQktqbURMSkJiRFRJekZvcWRwc08tX05DZXZHX1NMZzZXaFozakVUc0VEY3ZPM2lrYXRKMDZsZ2kyTWxaNFRIWUJBVXJPMzlGOUM2YzF0TjNOd0xfRzNCN2dXcC1mcTRyUUpUd0l6ay1BbDc1UHNYMGNHbGpKVjRQ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- IZMO surges on breakthrough in high-power motor control technology - Business Standard
-  "IZMO surges on breakthrough
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWkxDS2lFUVVSNFk3d0NpZVpqWmJlNWllZldiQkZDMjlHWDc1Z291RXJEX3JoT0dtaDdpeTJ4VmNWWGl5VWFxY0puZHREQW9Rd1pvaDR4M3lBV1k3cnE1SkdNbldaR2NKWDB6cDJZUDZkUGxXZ2gyZmlqS0ZlWjJ1dTU1U1VvMWk3UE15azBsNkx5R2JKZGhlZzQtOXV5cktTQV81X3FPR3JQLWVpQUNjUFBkUFhwYmZKcFNYSWptZXF1TVhldzRvalNCT3Z2SGI1cFM2b01YeEJvc0cwOXR2QjBR0gHnAUFVX3lxTE5fM19xSTAwMDk5LXplN2NfQkdweWs1M1BEbXN4V09ZVkZzZ190OUkwSjB4OHRYQ1F4RkVaSmo5cTVXR3VEX2lCbUZSS3ZvbkdSVmlaOTdzZHNpMnQ5eEJUc1RjTDV6Y2hTNXZuX0daS1gwS2l2N25VcDBKZmtTUWJJUlYwNHpDMk1WTnlkeWhmaXc3aS0xVTljUF9VYVgxOE13OFMwY2lrQXRMQlNpOHNLRkhpcjRVZmk1b3hyQTVQOUdXaWRZSVpnOGJfTE83OVQyWHdkTWdNLW0yeENTQk4xanh2eV9LVQ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-16 06:27:01 UTC_
+_Last updated: 2025-09-16 12:35:40 UTC_
