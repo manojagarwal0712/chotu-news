@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- PM Modi thanks Trump for birthday wishes, assures to deepen India-US ties
+- Pakistan Deputy PM Ishaq Dar: Rubio told us India says talks with Islamabad a bilateral issue
   
-  🔗 https://indianexpress.com/article/india/pm-modi-thanks-trump-for-birthday-wishes-assures-to-deepen-india-us-ties-10254035/
+  🔗 https://indianexpress.com/article/india/pakistan-deputy-pm-ishaq-dar-rubio-told-us-india-says-talks-with-islamabad-a-bilateral-issue-10254220/
 
-- NIA conducts searches in 8 states over ISIS-linked terror module
+- Masood Azhar’s kin ‘torn into pieces’ in May 7 Indian strikes: Jaish commander
   
-  🔗 https://indianexpress.com/article/india/nia-conducts-searches-in-8-states-over-isis-linked-terror-module-10253957/
+  🔗 https://indianexpress.com/article/india/masood-azhars-kin-torn-into-pieces-in-may-7-indian-strikes-jaish-commander-10254295/
 
-- 8 of 12 Meghalaya ministers replaced in major Cabinet rejig
+- Supreme Court seeks states’ reply on pleas for stay on anti-conversion laws
   
-  🔗 https://indianexpress.com/article/india/8-of-12-meghalaya-ministers-replaced-in-major-cabinet-rejig-10253914/
+  🔗 https://indianexpress.com/article/india/supreme-court-seeks-states-reply-on-pleas-for-stay-on-anti-conversion-laws-10254210/
 
-- Tripura to have single-window service centres called Aadi Seva Kendra in all tribal-dominated villages
+- Sarnath on UNESCO radar, ASI prepares to install ‘corrected’ plaque to show local role
   
-  🔗 https://indianexpress.com/article/india/tripura-single-window-service-centres-aadi-seva-kendra-tribal-areas-10253874/
+  🔗 https://indianexpress.com/article/india/sarnath-on-unesco-radar-asi-prepares-to-install-corrected-plaque-to-show-local-role-10254258/
 
-- 15 killed, 16 missing in Uttarakhand after cloudburst triggers landslides, floods
+- India-US joint exercise concludes in Alaska: ‘Hallmark of growing military interaction’
   
-  🔗 https://indianexpress.com/article/india/uttarakhand-cloudburst-landslides-floods-killed-missing-10253722/
+  🔗 https://indianexpress.com/article/india/india-us-joint-exercise-concludes-in-alaska-hallmark-of-growing-military-interaction-10254291/
 
 - Newton’s apple to Einstein’s spacetime: How gravity still puzzles us
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-study-chatgpt-usage-trends-key-insights-data-10253385/
 
-- Authorities Raid Swiss Trader in Probe Linked to Russian Gold
-  Swiss authorities raided the local office of metals trader Open Mineral AG last Thursday. They are investigating potential sanctions breaches relating to its trading in Russian gold.
-  🔗 https://www.livemint.com/companies/news/authorities-raid-swiss-trader-in-probe-linked-to-russian-gold-11758045161796.html
+- Unilever's Magnum looks to scoop out a Diwali 'ice cream moment'
+  Unilever's Magnum Ice Cream Co looks to enhance ice cream consumption in India during festivals such as Diwali. CEO Peter ter Kulve highlights the growth potential
+  🔗 https://www.livemint.com/companies/unilever-magnum-ice-cream-kwality-wall-peter-ter-kulve-cadbury-fmcg-retail-11758026046527.html
 
-- Anglo, Teck Need to Prove More Merger Benefits to Canada, Minister Says
-  Canada's industry minister will meet with the companies' chief executive officers next week. Anglo American Plc and Teck Resources Ltd. haven't done enough yet to show the
-  🔗 https://www.livemint.com/companies/news/anglo-teck-need-to-prove-more-merger-benefits-to-canada-minister-says-11758045037404.html
+- Airtel plays wait and watch on AGR dues even as rival Vodafone Idea moves Supreme Court
+  Multiple executives aware of the development say Airtel is cautious of locking horns with the government. Such petitions by telecom operators
+  🔗 https://www.livemint.com/companies/bharti-airtel-vodafone-idea-agr-dispute-dot-supreme-court-telecom-spectrum-licence-11758020271561.html
 
-- Ex-Astros GM Who Left Baseball for Soccer Eyes Europe Expansion
-  Jeff Luhnow was fired as general manager of the Houston Astros amid a sign-stealing scandal. Luh
-  🔗 https://www.livemint.com/companies/news/exastros-gm-who-left-baseball-for-soccer-eyes-europe-expansion-11758044735466.html
+- Bankrupt Fintech Cuts Deal Over Hard-to-Get Private Firm Shares
+  Linqto Inc. agreed to a deal to repay customers who were wrongly promised that they could get
+  🔗 https://www.livemint.com/companies/news/bankrupt-fintech-cuts-deal-over-hard-to-get-private-firm-shares-11758063332972.html
 
-- CEO sacked over alleged affair with ex-Chief HR: Super Retail ousts Anthony Heraghty over ‘new information’
-  Super Retail Group has dismissed CEO Anthony Heraghty after new information about an alleged
-  🔗 https://www.livemint.com/companies/news/ceo-sacked-over-alleged-affair-with-ex-chief-hr-super-retail-ousts-anthony-heraghty-over-new-information-11758040906194.html
+- Nestlé Chairman Paul Bulcke resigns after CEO Laurent Freixe's dismissal over ‘undisclosed relationship’
+  Paul Bulcke's departure follows the recent dismissal of CEO Laurent Freixe. Pablo Isla will take over as chairman, effective October 1.
+  🔗 https://www.livemint.com/companies/news/nestl-chairman-paul-bulcke-resigns-after-ceo-laurent-freixes-dismissal-over-undisclosed-relationship-11758049573238.html
 
-- Dye & Durham Shares Sink as Filing Delay Threatens Turnaround
-  Dye &amp; Durham’s shares plunged after the legal software provider said it will miss the deadline for submitting its annual report.
-  🔗 https://www.livemint.com/companies/news/dye-durham-shares-sink-as-filing-delay-threatens-turnaround-11758042680235.html
+- Ford layoffs: Automaker plans to slash nearly 1,000 jobs amid lower demand for EVs
+  Ford plans to cut up to 1,000 jobs at its Cologne electric auto plant. Company previously announced a reduction of 4,000 positions in Europe.
+  🔗 https://www.livemint.com/companies/news/ford-layoffs-automaker-plans-to-slash-nearly-1-000-jobs-amid-lower-demand-for-evs-11758047306515.html
 
-- Ukraine Claims Strike on Russia’s Saratov Crude Oil Refinery
-  Ukraine attacked the Saratov crude-oil refinery in Russia’s Volga region overnight
-  🔗 https://www.livemint.com/market/commodities/ukraine-claims-strike-on-russia-s-saratov-crude-oil-refinery-11758046551278.html
+- Australian shares dip as banks, miners weigh ahead of key jobs data
+  Australian shares dip as banks, miners
+  🔗 https://www.livemint.com/market/stock-market-news/australian-shares-dip-as-banks-miners-weigh-ahead-of-key-jobs-data-11758070926794.html
 
-- Urban Company IPO to list on Wednesday; GMP indicates bumper listing – price and key details inside
-  Urban Company is set to debut on September 17 with a strong grey market premium of  ₹53. The IPO received stellar response, with a subscription rate of 109 times.
-  🔗 https://www.livemint.com/market/ipo/urban-company-ipo-to-list-on-wednesday-gmp-indicates-bumper-listing-price-and-key-details-inside-11758041351763.html
+- Global Markets Today: Nikkei 225, Kospi trade lower ahead of US Fed meeting
+  Japan’s Nikkei 225 slipped 0.3 per cent, while the Topix declined 0.65 per cent.
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-trade-lower-ahead-of-us-fed-meeting-11758069857069.html
 
-- Canadian dollar hits a two-week high against downtrodden U.S. counterpart
-  Canadian dollar hits a two-week
-  🔗 https://www.livemint.com/market/stock-market-news/canadian-dollar-hits-a-two-week-high-against-downtrodden-u-s-counterpart-11758040978156.html
+- Narendra Modi turns 75 today: Sensex, Nifty surge up to 240% under PM's 11-year tenure; small-caps shine most
+  Nifty and Sensex indices have nearly quadrupled since Modi's first term began in 2014.
+  🔗 https://www.livemint.com/market/stock-market-news/narendra-modi-birthday-turns-75-today-sensex-nifty-surge-up-to-240-under-pms-11-year-tenure-small-caps-shine-most-11758022806716.html
 
-- Coffee Nears Record as Speculators Buy on Brazil Crop Fears
-  Coffee futures hovered near an all-time high in choppy trading. Speculators bet on fears that
-  🔗 https://www.livemint.com/market/commodities/coffee-nears-record-as-speculators-buy-on-brazil-crop-fears-11758040798159.html
+- Stock market today: Trade setup for Nifty 50, US Fed meeting, India-US trade deal; 8 stocks to buy or sell on Wednesday
+  As long as the Nifty is trading above 25,100 the bullish sentiment is likely to continue and index could move up to 25,400, said experts. On the flip side, below 25
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-us-fed-meeting-india-us-trade-deal-8-stocks-to-buy-or-sell-on-wednesday-11758020946176.html
 
-- World shares edge lower, US yields drop as investors await Fed
-  World shares edge lower, US yields
-  🔗 https://www.livemint.com/market/stock-market-news/world-shares-edge-lower-us-yields-drop-as-investors-await-fed-11758037082756.html
+- Urban Company IPO listing date today. GMP, experts signal strong debut of shares on Dalal Street
+  Urban Company IPO listing date is today, 17 September 2025. The stock will be listed on both the stock exchanges, BSE and NSE.
+  🔗 https://www.livemint.com/market/ipo/urban-company-ipo-listing-date-today-gmp-experts-signal-strong-debut-of-shares-on-dalal-street-11758042273608.html
 
 - Nano Banana Saree trend: 5 tips to keep in my mind to craft the perfect prompt for Gemini
   Take a look at these top 5 tips in order to improve your prompts given to Gemini. If you are using
@@ -100,113 +100,105 @@
   Amazon Great Indian Festival early deals are here, offering huge discounts on laptops. You can save up to 60% on a wide range of models from various brands.
   🔗 https://www.livemint.com/technology/gadgets/amazon-great-indian-festival-early-deals-are-live-on-laptops-up-to-60-off-on-them-from-dell-hp-asus-acer-and-more-11758024833187.html
 
-- Stock broking platform Groww files updated draft papers for IPO
-  Groww, an Indian stock broking firm, has filed updated draft documents for its IPO. The company has benefited from increased financial literacy and digital onboarding.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/stock-broking-platform-groww-files-updated-draft-papers-for-ipo/articleshow/123926728.cms
+- Hexaware Tech rises on likely US rate cut, weak rupee
+  Hexaware Technologies' stock has recently seen gains, driven by a weaker rupee and anticipated US interest rate cuts. Despite a modest revenue growth in the June quarter due to client spending reductions, the company is improving
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hexaware-tech-rises-on-likely-us-rate-cut-weak-rupee/articleshow/123932909.cms
 
-- Euro hits 4-year high as US dollar sinks ahead of Fed rate decision
-  The dollar fell across the board on Tuesday, sinking to four-year low against the euro. Investors firmed bets
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/euro-hits-4-year-high-as-us-dollar-sinks-ahead-of-fed-rate-decision/articleshow/123926115.cms
+- Pre-market action: Here's the trade setup for today's session
+  Indian equity markets saw gains on Tuesday. Analysts foresee a gradual market rise. Immediate support is at 25,050.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/123926132.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Indian markets closed higher on Tuesday as Sensex jumped 595 points. Nifty crossed 25,239, led by auto gains, optimism over US trade talks,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/123925868.cms
+- ESAF SFB plans Rs 300-500 crore capital infusion
+  ESAF Small Finance Bank is set to raise ₹300-500 crore in tier-1 capital. The bank aims to bolster its capital adequacy ratio and fund expansion plans.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/esaf-sfb-plans-rs-300-500-crore-capital-infusion/articleshow/123932894.cms
 
-- Market Trading Guide: HUDCO, GMR Airports and 2 smallcap stocks to buy on Wednesday for up to 15% upside
-  Nifty resumed gains with strong buying in auto, IT, and banks. Analysts see bullish momentum toward 25,500. Experts recommend stocks like HUDCO, Fin
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-hudco-gmr-airports-and-2-smallcap-stocks-to-buy-on-wednesday-for-up-to-15-upside/slideshow/123925626.cms
+- Banks to lend more to the rich to push mortgage growth
+  Banks are strategically targeting the luxury housing market to boost mortgage growth. Banks view these high-end loans as opportunities to establish long-term relationships and cross-sell other financial products.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/banks-to-lend-more-to-the-rich-to-push-mortgage-growth/articleshow/123932877.cms
 
-- Gold breaches $3,700/oz-mark to hit fresh record as investors await Fed rate decision
-  Safe-haven demand, central bank buying, and geopolitical uncertainty contributed to the rally. While silver hit a multi-year high, platinum and palladium experienced slight declines.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/gold-surges-through-3700/oz-to-hit-record-high/articleshow/123925153.cms
-
-- India, US Hold Trade Talks, Both Sides Describe Them As "Positive" - NDTV
-  India, US Hold Trade Talks, Both S
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxObzQ0VGVKbW9Yc2xHNC1KQVhGb2RSd0toOHRrM3NocU95ZllDYXZ1UFFza3BYZ2VsU1ctcGFoenlMWE9aNkNUUzlsWU12MjZDVk53Zm05bXpuSlVNQXljQVpqeGpRUUZ6Yk5rTS1WeTd2emMwTXpkNkJUbUVWUHljaVh1RlRLb1NuSUQwX19lRUxfRkJmXzBsSy1tUEdkQllCd1FmcWNqYk5ycnZoc01uXzZYY3BybEFjVHF5ejd30gHGAUFVX3lxTE81Y3N4Q0prUzV5QUxDMHlaZVotcTRvVEVtWmlRZktyRl85WktTaVBucFFXVmtqNThIYURTUmtCQTNZV0ZWRzlqcERDY19vaU83MGhBZzhtaHlhbUY0d1o4VXptRmhBUUIwcmgwZDdTeVNrZnBqcmVEOFhTa1dwVTNVYzZnenM0X29fdkh2OG1xVHdwb2pHTXI1OXJtbUZLNGxmVHJGdTVfOGFCUkxJbFU3ellIN2ZnNHd2MHU1aHlwVnlYTC1JZw?oc=5
-
-- 'India coming to the table': Navarro's latest as trade talks resume with US | Latest News India - Hindustan Times
-  'India coming to the table': Navarro's latest as trade talks resume with
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPUjM0MmlXQUtyWml6N1IzRTFRTzdRUUlaMHRJbGVuRXlPbDJYbEY5cTBFWDJLTFMwVlh5VzJNdEt1bm9nS2c1bHg2UjMtZ2lTdkhPOURtUllRd3RKMFA0VlBGT1RSLUEtSXRjN3J2TUhfTEZueGE0TXFMWjhQcF94enRjZjQzb0M3bFRQYy1BVnZSeGxSVVJ2V1BCdExOb255WV9mMnJoVFVOLUtqN05RVnVyMWlaQ0pwbGFpWDk4ZHZYdy1tWjZFOGZkVC1jQjVPLUlEeTg4SGdPQ2pETGh2MnlmMkY0emFaYVgxTGFVZkZ5UndGX2FuRkhrbnRLc1ln0gGGAkFVX3lxTE9yd2hyYWdkOXRzLVJ5NS1VRmsyaUFhXy1kMWhOeDRjdFNzYzlPSTBYZnU2X2o0LXdJbUozOERIczZnOC1ETEltczlKWUw5STVOUWJsS1BZWkptZ2VBU1FDTjdQYzhiUG5PY1pSSmZUSDVuM0k3NEhhcnlFcTJDN3J6dVRNZ2R3NkJmeHNxc05rZ3VjWHZGY3dPaklIdTBETklmMkpxZFJXQ19zUDZ1Tjk2TnFOclByZXVPeUxTYXgzYU1sYkFwUFBCQURvYVVkd0JJOE03UjFXWkFiWXg5eEZsMTdnUFVpV2V6c09CRk1BMDc0YjZ4ZnZXQm5iQlNFZU9GSHRSdmc?oc=5
-
-- PM Modi gets birthday call from Trump, both leaders affirm to take India-US ties to 'new heights' - India TV News
-  PM Modi gets birthday call from Trump, both leaders affirm to take India-US ties
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxONExHOVhRVUxzVWxTQWN2Y1hlNUlBVjZ6WXJNZjdsaGh2T0VJSmZUaXBvaGIzbWlPT3hnQ0lfV1RkR2ZodzVieU95alpkZEU3Tm04bFRYbWhkUHBjbjdKalBGUlRlMm5MYXdacnB0M0I5NVd5dDZoeHpOcm9QLVlHdTdQck5heDlaSWNuYWdOenpTaTRpY1VfTWVkTFNGUnU2UlVNWjNKR2RGQlIyYm1GUk1VVkh0bVh2bW0zU084X0diWDVqOFNzY9IBzgFBVV95cUxPY0FJVHFSLUs2THVFOGFRa0pFVjRESl9uOENzM0JQbDEyUkR1Z085UHlOM0d3QkkzWTNRYjdFQWZZNVNkaDlqYk1JYWNuZzBRQmhGTk11NzBnWTRCSk0yb0Y1SFp4NEFaTVVQMG1YTzkzNHNfYk8ydW8xU2g3RndpSzZJMGlDUkZ6MnJ2dnYyNnk4U1g3a1phaXFqQUdyOXN3TW10bWdFVllVVmV2el9tV19RT3N6bXVNaXhxNFdBUnFYMWliZjNIRmZtb09mUQ?oc=5
-
-- U.S. President Trump dials PM Modi, greets him on birthday - The Hindu
-  The Hindu reports that President Trump called PM
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2lJdlBMQm8tajdUN01GWThnb1dGdjZmTjRpV1ZmLXdwcGhpMmpsM3pBcmJWME90Unl5Y2FmUy1MS3NnUnN5dHdBbHZiZXNjWEtNQ0p5ZlBXS2RvN1o2VThEdTdLWmx3aHpFQlZJT0hFYnd3T0V0Sjg0T1pwUG9xZlJEekdRdWNiaGVUS1pfcFBzYjNnWWNIbXJRUkN4WkJWMm5KN0xYN0FCZzRkOVg2bnpGOFPSAbsBQVVfeXFMTWxEWmZQa2dJd21wMnduWXhBZW14TXJVZktWTWJ5Q3Y0Zzg4alg4S2RodnE4R0lJN1hzWFJaLWt3MW1iNW1KMmFCaEJGemV3eWFLYkhKZ1hsbmpFYllyM29qQUdIT3kydGVuYVJSQWwwbnd3My1kdG1NRFlDekRwR1BGeEE3cWIwQUs5UWFwaEQzY2JoX0xITUVPUEMyM2xybVJtSGJLajZKNjhWc0k2ZHJtNE0tM0RIUVhscw?oc=5
-
-- Hands Tied, Andhra Woman Assaulted By Husband With Belt, Kicks - NDTV
-  A woman in Andhra Pradesh, India
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOWml4YXZabkpYeU5sblBIZ0hRZVcxNVFaR2xHY1JKTzB1Y3lVbkIwUnFiOWdvNjZIRTg4Nm1YM1RvTzlCbWdPbkI4djdSNlRYSWNuajc2LTRkVjhvUURfSEhLa0lmZC1hdG1BY0F0RXl6OENOYklhMDI2bVZCZlFtVVhhdzBuXzRPVlAzUnp1ZDFNdmFxNDhZem9TQUxjUk1CLXfSAaoBQVVfeXFMTmU5YUhSLVFoanQ0U3FDS2xCSF9jOGxWXzJ3Rnl4SnhIMWNLZzR1SmFtOWQ5eklUQjJMaTdremVPZzNIdzZMUDdjRnF3NHhNelVjYWdMaVFFU1Jfd3lyMTIxNFpPeEk4bGVCQkhMZnlMSlhpcEtwWnBWRkFjVE5aS0pDeXJFUXdxb19HQW5ha3BnUjNWVzh1bnB2QVdxSlFRRVU0YUZ0QU9mMnc?oc=5
+- Is the rally in small-cap solvent extraction stocks sustainable?
+  Small-cap solvent extraction companies have seen significant gains due to high edible oil demand, ethanol blending, and supportive policies. However, analysts now advise caution, noting that valuations may be exceeding fundamentals.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/is-the-rally-in-small-cap-solvent-extraction-stocks-sustainable/articleshow/123932839.cms
 
 - India, US Hold Trade Talks, Both Sides Describe Them As "Positive" - NDTV
   India, US Hold Trade Talks, Both S
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxObzQ0VGVKbW9Yc2xHNC1KQVhGb2RSd0toOHRrM3NocU95ZllDYXZ1UFFza3BYZ2VsU1ctcGFoenlMWE9aNkNUUzlsWU12MjZDVk53Zm05bXpuSlVNQXljQVpqeGpRUUZ6Yk5rTS1WeTd2emMwTXpkNkJUbUVWUHljaVh1RlRLb1NuSUQwX19lRUxfRkJmXzBsSy1tUEdkQllCd1FmcWNqYk5ycnZoc01uXzZYY3BybEFjVHF5ejd30gHGAUFVX3lxTE81Y3N4Q0prUzV5QUxDMHlaZVotcTRvVEVtWmlRZktyRl85WktTaVBucFFXVmtqNThIYURTUmtCQTNZV0ZWRzlqcERDY19vaU83MGhBZzhtaHlhbUY0d1o4VXptRmhBUUIwcmgwZDdTeVNrZnBqcmVEOFhTa1dwVTNVYzZnenM0X29fdkh2OG1xVHdwb2pHTXI1OXJtbUZLNGxmVHJGdTVfOGFCUkxJbFU3ellIN2ZnNHd2MHU1aHlwVnlYTC1JZw?oc=5
 
-- 'India coming to the table': Navarro's latest as trade talks resume with US | Latest News India - Hindustan Times
-  'India coming to the table': Navarro's latest as trade talks resume with
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPUjM0MmlXQUtyWml6N1IzRTFRTzdRUUlaMHRJbGVuRXlPbDJYbEY5cTBFWDJLTFMwVlh5VzJNdEt1bm9nS2c1bHg2UjMtZ2lTdkhPOURtUllRd3RKMFA0VlBGT1RSLUEtSXRjN3J2TUhfTEZueGE0TXFMWjhQcF94enRjZjQzb0M3bFRQYy1BVnZSeGxSVVJ2V1BCdExOb255WV9mMnJoVFVOLUtqN05RVnVyMWlaQ0pwbGFpWDk4ZHZYdy1tWjZFOGZkVC1jQjVPLUlEeTg4SGdPQ2pETGh2MnlmMkY0emFaYVgxTGFVZkZ5UndGX2FuRkhrbnRLc1ln0gGGAkFVX3lxTE9yd2hyYWdkOXRzLVJ5NS1VRmsyaUFhXy1kMWhOeDRjdFNzYzlPSTBYZnU2X2o0LXdJbUozOERIczZnOC1ETEltczlKWUw5STVOUWJsS1BZWkptZ2VBU1FDTjdQYzhiUG5PY1pSSmZUSDVuM0k3NEhhcnlFcTJDN3J6dVRNZ2R3NkJmeHNxc05rZ3VjWHZGY3dPaklIdTBETklmMkpxZFJXQ19zUDZ1Tjk2TnFOclByZXVPeUxTYXgzYU1sYkFwUFBCQURvYVVkd0JJOE03UjFXWkFiWXg5eEZsMTdnUFVpV2V6c09CRk1BMDc0YjZ4ZnZXQm5iQlNFZU9GSHRSdmc?oc=5
+- ‘This can’t be…': Asaduddin Owaisi's first reaction to India's Asia Cup victory against Pakistan | Latest News India - Hindustan Times
+  ‘This can’t be…': Asaduddin Owaisi's
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR1BDblg5d0E4cXplZTE3am1YeDRwTmdLTk5kUW41Y19Xdm9zQnJZLXZ0cFJ4VWNkSUJWSVpkRWxSb2xZM1lpU1hzVF9nTkg2OEtWSlc4eE5JSTdLRzNGdFhENm83LThPeEFSaWZxVmhkRlZQSEJZY21fbEE2d1NXdDFWSlV5dEhyNEU3RF9QeTZnOEl1eGNnRTBSY2xsX2x5dU1taVlnTVpFcXUyc2liVVRTNEFZc3VGRndWZ2oxbjVzS3lxYldORUIzMmR3LVZPdEpudVI0MWw4ZzVoUHpnNVNNNVlFNXVv0gHuAUFVX3lxTE9BVnNlbzIzTUlNZU9mMnBoUjRFbmJVd1dIamNFZEtmRFFKR1lxaGRJWUptZzNsQ3pGYk1OZFdneEVuT21OLWo4eWZRekJQd0pqRWprLWRMRC1Rb21MSmFPd3ZFNC1rb1ZnVURpNkh2dmJhaHJvOGhXSnZlZ1NEODdjcFFFbTdpR3VPVWNWZDRpR3B3eTVZSGtTaHA1bFRsRWZMUzhtTDVCRmdCT29xZm9PdjVyTlNIVkFWR0Z4Tzg1dU5hMXdZZWNxYWFEZHZRal8xTmt5Y2hpSUlSRWI0X1dBZGZIWGc0RW1SNGxwOWc?oc=5
 
-- PM Modi gets birthday call from Trump, both leaders affirm to take India-US ties to 'new heights' - India TV News
-  PM Modi gets birthday call from Trump, both leaders affirm to take India-US ties
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxONExHOVhRVUxzVWxTQWN2Y1hlNUlBVjZ6WXJNZjdsaGh2T0VJSmZUaXBvaGIzbWlPT3hnQ0lfV1RkR2ZodzVieU95alpkZEU3Tm04bFRYbWhkUHBjbjdKalBGUlRlMm5MYXdacnB0M0I5NVd5dDZoeHpOcm9QLVlHdTdQck5heDlaSWNuYWdOenpTaTRpY1VfTWVkTFNGUnU2UlVNWjNKR2RGQlIyYm1GUk1VVkh0bVh2bW0zU084X0diWDVqOFNzY9IBzgFBVV95cUxPY0FJVHFSLUs2THVFOGFRa0pFVjRESl9uOENzM0JQbDEyUkR1Z085UHlOM0d3QkkzWTNRYjdFQWZZNVNkaDlqYk1JYWNuZzBRQmhGTk11NzBnWTRCSk0yb0Y1SFp4NEFaTVVQMG1YTzkzNHNfYk8ydW8xU2g3RndpSzZJMGlDUkZ6MnJ2dnYyNnk4U1g3a1phaXFqQUdyOXN3TW10bWdFVllVVmV2el9tV19RT3N6bXVNaXhxNFdBUnFYMWliZjNIRmZtb09mUQ?oc=5
+- SC seeks states' replies on anti-conversion laws - The Times of India
+  The Times of India published a story on
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNczkzU1pUUjVnM1dVd2VtaXNlN051UGt5b25UVHUweURvbnZQQVhPS1gwTGJQYkxYNllzb3pJM2w0ZTlyOFhsSFE5T0R3c2tIa1ZCaWpRa1YyOUZ6UWZ3M2JhVWcwRUpYdjRGZjNWU1RsU3BZbm1ZNEpvcHk0YVJLWlk4RVZCOHFCNXpvcXIxYzhEUTFkTG5ORmZjZHNabU94OTMzMk9oVW1xM2Q5YmFiNmpmejdvZ9IBuwFBVV95cUxOM0x1S1RrX1JxRW8tWWJJSlJpcEZ6SkMzNW9ia3QwemRuakNaZlBlQ2o2N0l5SnU2TEFFS0xxMURfRWU5UG9USUpCazR0U0h0enJ2cVdFTENHcE5QWkNPWnRrQjhnZ1lyeG5oeXBXLUJUc3lZbzVVWXljczRSazBfZmNJX2lyR182TzZpbldzZ0JzQXdCa2xQdThXT0pwMjNNM3FKTVJYOV9wWUV2WVRGc2dHUVU4MkpzMi04?oc=5
 
-- U.S. President Trump dials PM Modi, greets him on birthday - The Hindu
-  The Hindu reports that President Trump called PM
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2lJdlBMQm8tajdUN01GWThnb1dGdjZmTjRpV1ZmLXdwcGhpMmpsM3pBcmJWME90Unl5Y2FmUy1MS3NnUnN5dHdBbHZiZXNjWEtNQ0p5ZlBXS2RvN1o2VThEdTdLWmx3aHpFQlZJT0hFYnd3T0V0Sjg0T1pwUG9xZlJEekdRdWNiaGVUS1pfcFBzYjNnWWNIbXJRUkN4WkJWMm5KN0xYN0FCZzRkOVg2bnpGOFPSAbsBQVVfeXFMTWxEWmZQa2dJd21wMnduWXhBZW14TXJVZktWTWJ5Q3Y0Zzg4alg4S2RodnE4R0lJN1hzWFJaLWt3MW1iNW1KMmFCaEJGemV3eWFLYkhKZ1hsbmpFYllyM29qQUdIT3kydGVuYVJSQWwwbnd3My1kdG1NRFlDekRwR1BGeEE3cWIwQUs5UWFwaEQzY2JoX0xITUVPUEMyM2xybVJtSGJLajZKNjhWc0k2ZHJtNE0tM0RIUVhscw?oc=5
+- Be ready to deal with 'invisible challenges', Rajnath tells forces - The Times of India
+  The Times of India reported that Rajnath Singh
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPUGE0VTRib3hYaGpkVUFkMkh0NThXbzJjdFpONUNTQVJBWmRJRWdoWEpyM3RUQlo3UjB1VWNPMzFsSm9OUjJRMzkyYTRIV0NOUTFTMWpVVlk2OTVWUWFYVmhIMVZSWE5hcHBKV3NheGNuaHJSWUxKay1nVE9JRGI4ME5oREE1MWY2ODFIeDhXejA5R005Qjk4cHJFTUhtT05hVTlGS3ZRRTJBeHBaaTY4MHRrZGFPSHFzcUh1X1o0N3JITW9LeDYzZWZnNNIB0AFBVV95cUxQeFc1UEZfNEJ3SDEtSldTc1RnZkJtUUxQZEk5clM4SW1kd2Q4YzdOekl5azdGTlk4OFhVZ0lJeFc2aWNKN1dQQ1hZV1lfbzh4QVpwZWZqUm1MSV9KTTFMVEtWSVU5OXJhZVdQZEwtTWEwWkhIc2d0Wm5VQUxLTlFXVlBBcU5uUVlXYUxFTlo4bWJCNnNYSENVWkl4RU5BUU9TdURHTmVSaFZhQ2dJbXBOM2h2UWlwV3ZFamR4bm9fVnZub0x4VWZlNzNWVzJXSzVB?oc=5
 
-- Hands Tied, Andhra Woman Assaulted By Husband With Belt, Kicks - NDTV
-  A woman in Andhra Pradesh, India
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOWml4YXZabkpYeU5sblBIZ0hRZVcxNVFaR2xHY1JKTzB1Y3lVbkIwUnFiOWdvNjZIRTg4Nm1YM1RvTzlCbWdPbkI4djdSNlRYSWNuajc2LTRkVjhvUURfSEhLa0lmZC1hdG1BY0F0RXl6OENOYklhMDI2bVZCZlFtVVhhdzBuXzRPVlAzUnp1ZDFNdmFxNDhZem9TQUxjUk1CLXfSAaoBQVVfeXFMTmU5YUhSLVFoanQ0U3FDS2xCSF9jOGxWXzJ3Rnl4SnhIMWNLZzR1SmFtOWQ5eklUQjJMaTdremVPZzNIdzZMUDdjRnF3NHhNelVjYWdMaVFFU1Jfd3lyMTIxNFpPeEk4bGVCQkhMZnlMSlhpcEtwWnBWRkFjVE5aS0pDeXJFUXdxb19HQW5ha3BnUjNWVzh1bnB2QVdxSlFRRVU0YUZ0QU9mMnc?oc=5
+- India rejected 3rd-party role to end conflict: Pakistan - The Times of India
+  India rejected 3rd-party role to end
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS1MVEFsdm11dGNyUzdvX1NuQkljeXdJeUJneGszdnpCdjdvWXM0cnRGYnlfNlJkc21MM1JaZmdDckdsejFfR0pRMTIwMnN6MlpiRGxEQlJNaFY0WmExNHp4U0phNjgxN2JRRXNQM3ByZ2ptdWZxYmY0Tng1REo5VDA2LU00SGJNdWUzLUV2WS0wb25zMS1hRjc5WjhKb3dNRi1YSEhYY0RhdXpBcjFHRFpIQ2hnb0laUFVYQmE4c9IBxAFBVV95cUxQLWxUOE1ianZwVkVCMEdmT201VE15Y2drSk5sUE9nSVZlY0o3Ul9rMks0SU16NjdkSGdJMEZxNVJFZHFpOEs4aE5TZ0VUVEtEYjc1YUN6WkZFSzVvSzZJLVVWV215UVRPSnpNVGRNZ1h4WU9Ld1hkamlNN1luUlFWdTRUZFBtVmNmZHRyOU91emkwcU50Q05HV19yS18wR1k1YU9yS3ZPNGZiSGhVRmdnc3JBdE42bkdaRm5nanJneXZob01W?oc=5
 
 - India, US Hold Trade Talks, Both Sides Describe Them As "Positive" - NDTV
   India, US Hold Trade Talks, Both S
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxObzQ0VGVKbW9Yc2xHNC1KQVhGb2RSd0toOHRrM3NocU95ZllDYXZ1UFFza3BYZ2VsU1ctcGFoenlMWE9aNkNUUzlsWU12MjZDVk53Zm05bXpuSlVNQXljQVpqeGpRUUZ6Yk5rTS1WeTd2emMwTXpkNkJUbUVWUHljaVh1RlRLb1NuSUQwX19lRUxfRkJmXzBsSy1tUEdkQllCd1FmcWNqYk5ycnZoc01uXzZYY3BybEFjVHF5ejd30gHGAUFVX3lxTE81Y3N4Q0prUzV5QUxDMHlaZVotcTRvVEVtWmlRZktyRl85WktTaVBucFFXVmtqNThIYURTUmtCQTNZV0ZWRzlqcERDY19vaU83MGhBZzhtaHlhbUY0d1o4VXptRmhBUUIwcmgwZDdTeVNrZnBqcmVEOFhTa1dwVTNVYzZnenM0X29fdkh2OG1xVHdwb2pHTXI1OXJtbUZLNGxmVHJGdTVfOGFCUkxJbFU3ellIN2ZnNHd2MHU1aHlwVnlYTC1JZw?oc=5
 
-- 'India coming to the table': Navarro's latest as trade talks resume with US | Latest News India - Hindustan Times
-  'India coming to the table': Navarro's latest as trade talks resume with
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPUjM0MmlXQUtyWml6N1IzRTFRTzdRUUlaMHRJbGVuRXlPbDJYbEY5cTBFWDJLTFMwVlh5VzJNdEt1bm9nS2c1bHg2UjMtZ2lTdkhPOURtUllRd3RKMFA0VlBGT1RSLUEtSXRjN3J2TUhfTEZueGE0TXFMWjhQcF94enRjZjQzb0M3bFRQYy1BVnZSeGxSVVJ2V1BCdExOb255WV9mMnJoVFVOLUtqN05RVnVyMWlaQ0pwbGFpWDk4ZHZYdy1tWjZFOGZkVC1jQjVPLUlEeTg4SGdPQ2pETGh2MnlmMkY0emFaYVgxTGFVZkZ5UndGX2FuRkhrbnRLc1ln0gGGAkFVX3lxTE9yd2hyYWdkOXRzLVJ5NS1VRmsyaUFhXy1kMWhOeDRjdFNzYzlPSTBYZnU2X2o0LXdJbUozOERIczZnOC1ETEltczlKWUw5STVOUWJsS1BZWkptZ2VBU1FDTjdQYzhiUG5PY1pSSmZUSDVuM0k3NEhhcnlFcTJDN3J6dVRNZ2R3NkJmeHNxc05rZ3VjWHZGY3dPaklIdTBETklmMkpxZFJXQ19zUDZ1Tjk2TnFOclByZXVPeUxTYXgzYU1sYkFwUFBCQURvYVVkd0JJOE03UjFXWkFiWXg5eEZsMTdnUFVpV2V6c09CRk1BMDc0YjZ4ZnZXQm5iQlNFZU9GSHRSdmc?oc=5
+- ‘This can’t be…': Asaduddin Owaisi's first reaction to India's Asia Cup victory against Pakistan | Latest News India - Hindustan Times
+  ‘This can’t be…': Asaduddin Owaisi's
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR1BDblg5d0E4cXplZTE3am1YeDRwTmdLTk5kUW41Y19Xdm9zQnJZLXZ0cFJ4VWNkSUJWSVpkRWxSb2xZM1lpU1hzVF9nTkg2OEtWSlc4eE5JSTdLRzNGdFhENm83LThPeEFSaWZxVmhkRlZQSEJZY21fbEE2d1NXdDFWSlV5dEhyNEU3RF9QeTZnOEl1eGNnRTBSY2xsX2x5dU1taVlnTVpFcXUyc2liVVRTNEFZc3VGRndWZ2oxbjVzS3lxYldORUIzMmR3LVZPdEpudVI0MWw4ZzVoUHpnNVNNNVlFNXVv0gHuAUFVX3lxTE9BVnNlbzIzTUlNZU9mMnBoUjRFbmJVd1dIamNFZEtmRFFKR1lxaGRJWUptZzNsQ3pGYk1OZFdneEVuT21OLWo4eWZRekJQd0pqRWprLWRMRC1Rb21MSmFPd3ZFNC1rb1ZnVURpNkh2dmJhaHJvOGhXSnZlZ1NEODdjcFFFbTdpR3VPVWNWZDRpR3B3eTVZSGtTaHA1bFRsRWZMUzhtTDVCRmdCT29xZm9PdjVyTlNIVkFWR0Z4Tzg1dU5hMXdZZWNxYWFEZHZRal8xTmt5Y2hpSUlSRWI0X1dBZGZIWGc0RW1SNGxwOWc?oc=5
 
-- PM Modi gets birthday call from Trump, both leaders affirm to take India-US ties to 'new heights' - India TV News
-  PM Modi gets birthday call from Trump, both leaders affirm to take India-US ties
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxONExHOVhRVUxzVWxTQWN2Y1hlNUlBVjZ6WXJNZjdsaGh2T0VJSmZUaXBvaGIzbWlPT3hnQ0lfV1RkR2ZodzVieU95alpkZEU3Tm04bFRYbWhkUHBjbjdKalBGUlRlMm5MYXdacnB0M0I5NVd5dDZoeHpOcm9QLVlHdTdQck5heDlaSWNuYWdOenpTaTRpY1VfTWVkTFNGUnU2UlVNWjNKR2RGQlIyYm1GUk1VVkh0bVh2bW0zU084X0diWDVqOFNzY9IBzgFBVV95cUxPY0FJVHFSLUs2THVFOGFRa0pFVjRESl9uOENzM0JQbDEyUkR1Z085UHlOM0d3QkkzWTNRYjdFQWZZNVNkaDlqYk1JYWNuZzBRQmhGTk11NzBnWTRCSk0yb0Y1SFp4NEFaTVVQMG1YTzkzNHNfYk8ydW8xU2g3RndpSzZJMGlDUkZ6MnJ2dnYyNnk4U1g3a1phaXFqQUdyOXN3TW10bWdFVllVVmV2el9tV19RT3N6bXVNaXhxNFdBUnFYMWliZjNIRmZtb09mUQ?oc=5
+- SC seeks states' replies on anti-conversion laws - The Times of India
+  The Times of India published a story on
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNczkzU1pUUjVnM1dVd2VtaXNlN051UGt5b25UVHUweURvbnZQQVhPS1gwTGJQYkxYNllzb3pJM2w0ZTlyOFhsSFE5T0R3c2tIa1ZCaWpRa1YyOUZ6UWZ3M2JhVWcwRUpYdjRGZjNWU1RsU3BZbm1ZNEpvcHk0YVJLWlk4RVZCOHFCNXpvcXIxYzhEUTFkTG5ORmZjZHNabU94OTMzMk9oVW1xM2Q5YmFiNmpmejdvZ9IBuwFBVV95cUxOM0x1S1RrX1JxRW8tWWJJSlJpcEZ6SkMzNW9ia3QwemRuakNaZlBlQ2o2N0l5SnU2TEFFS0xxMURfRWU5UG9USUpCazR0U0h0enJ2cVdFTENHcE5QWkNPWnRrQjhnZ1lyeG5oeXBXLUJUc3lZbzVVWXljczRSazBfZmNJX2lyR182TzZpbldzZ0JzQXdCa2xQdThXT0pwMjNNM3FKTVJYOV9wWUV2WVRGc2dHUVU4MkpzMi04?oc=5
 
-- U.S. President Trump dials PM Modi, greets him on birthday - The Hindu
-  The Hindu reports that President Trump called PM
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2lJdlBMQm8tajdUN01GWThnb1dGdjZmTjRpV1ZmLXdwcGhpMmpsM3pBcmJWME90Unl5Y2FmUy1MS3NnUnN5dHdBbHZiZXNjWEtNQ0p5ZlBXS2RvN1o2VThEdTdLWmx3aHpFQlZJT0hFYnd3T0V0Sjg0T1pwUG9xZlJEekdRdWNiaGVUS1pfcFBzYjNnWWNIbXJRUkN4WkJWMm5KN0xYN0FCZzRkOVg2bnpGOFPSAbsBQVVfeXFMTWxEWmZQa2dJd21wMnduWXhBZW14TXJVZktWTWJ5Q3Y0Zzg4alg4S2RodnE4R0lJN1hzWFJaLWt3MW1iNW1KMmFCaEJGemV3eWFLYkhKZ1hsbmpFYllyM29qQUdIT3kydGVuYVJSQWwwbnd3My1kdG1NRFlDekRwR1BGeEE3cWIwQUs5UWFwaEQzY2JoX0xITUVPUEMyM2xybVJtSGJLajZKNjhWc0k2ZHJtNE0tM0RIUVhscw?oc=5
+- Be ready to deal with 'invisible challenges', Rajnath tells forces - The Times of India
+  The Times of India reported that Rajnath Singh
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPUGE0VTRib3hYaGpkVUFkMkh0NThXbzJjdFpONUNTQVJBWmRJRWdoWEpyM3RUQlo3UjB1VWNPMzFsSm9OUjJRMzkyYTRIV0NOUTFTMWpVVlk2OTVWUWFYVmhIMVZSWE5hcHBKV3NheGNuaHJSWUxKay1nVE9JRGI4ME5oREE1MWY2ODFIeDhXejA5R005Qjk4cHJFTUhtT05hVTlGS3ZRRTJBeHBaaTY4MHRrZGFPSHFzcUh1X1o0N3JITW9LeDYzZWZnNNIB0AFBVV95cUxQeFc1UEZfNEJ3SDEtSldTc1RnZkJtUUxQZEk5clM4SW1kd2Q4YzdOekl5azdGTlk4OFhVZ0lJeFc2aWNKN1dQQ1hZV1lfbzh4QVpwZWZqUm1MSV9KTTFMVEtWSVU5OXJhZVdQZEwtTWEwWkhIc2d0Wm5VQUxLTlFXVlBBcU5uUVlXYUxFTlo4bWJCNnNYSENVWkl4RU5BUU9TdURHTmVSaFZhQ2dJbXBOM2h2UWlwV3ZFamR4bm9fVnZub0x4VWZlNzNWVzJXSzVB?oc=5
 
-- Hands Tied, Andhra Woman Assaulted By Husband With Belt, Kicks - NDTV
-  A woman in Andhra Pradesh, India
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOWml4YXZabkpYeU5sblBIZ0hRZVcxNVFaR2xHY1JKTzB1Y3lVbkIwUnFiOWdvNjZIRTg4Nm1YM1RvTzlCbWdPbkI4djdSNlRYSWNuajc2LTRkVjhvUURfSEhLa0lmZC1hdG1BY0F0RXl6OENOYklhMDI2bVZCZlFtVVhhdzBuXzRPVlAzUnp1ZDFNdmFxNDhZem9TQUxjUk1CLXfSAaoBQVVfeXFMTmU5YUhSLVFoanQ0U3FDS2xCSF9jOGxWXzJ3Rnl4SnhIMWNLZzR1SmFtOWQ5eklUQjJMaTdremVPZzNIdzZMUDdjRnF3NHhNelVjYWdMaVFFU1Jfd3lyMTIxNFpPeEk4bGVCQkhMZnlMSlhpcEtwWnBWRkFjVE5aS0pDeXJFUXdxb19HQW5ha3BnUjNWVzh1bnB2QVdxSlFRRVU0YUZ0QU9mMnc?oc=5
+- India rejected 3rd-party role to end conflict: Pakistan - The Times of India
+  India rejected 3rd-party role to end
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS1MVEFsdm11dGNyUzdvX1NuQkljeXdJeUJneGszdnpCdjdvWXM0cnRGYnlfNlJkc21MM1JaZmdDckdsejFfR0pRMTIwMnN6MlpiRGxEQlJNaFY0WmExNHp4U0phNjgxN2JRRXNQM3ByZ2ptdWZxYmY0Tng1REo5VDA2LU00SGJNdWUzLUV2WS0wb25zMS1hRjc5WjhKb3dNRi1YSEhYY0RhdXpBcjFHRFpIQ2hnb0laUFVYQmE4c9IBxAFBVV95cUxQLWxUOE1ianZwVkVCMEdmT201VE15Y2drSk5sUE9nSVZlY0o3Ul9rMks0SU16NjdkSGdJMEZxNVJFZHFpOEs4aE5TZ0VUVEtEYjc1YUN6WkZFSzVvSzZJLVVWV215UVRPSnpNVGRNZ1h4WU9Ld1hkamlNN1luUlFWdTRUZFBtVmNmZHRyOU91emkwcU50Q05HV19yS18wR1k1YU9yS3ZPNGZiSGhVRmdnc3JBdE42bkdaRm5nanJneXZob01W?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- India, US Hold Trade Talks, Both Sides Describe Them As "Positive" - NDTV
+  India, US Hold Trade Talks, Both S
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxObzQ0VGVKbW9Yc2xHNC1KQVhGb2RSd0toOHRrM3NocU95ZllDYXZ1UFFza3BYZ2VsU1ctcGFoenlMWE9aNkNUUzlsWU12MjZDVk53Zm05bXpuSlVNQXljQVpqeGpRUUZ6Yk5rTS1WeTd2emMwTXpkNkJUbUVWUHljaVh1RlRLb1NuSUQwX19lRUxfRkJmXzBsSy1tUEdkQllCd1FmcWNqYk5ycnZoc01uXzZYY3BybEFjVHF5ejd30gHGAUFVX3lxTE81Y3N4Q0prUzV5QUxDMHlaZVotcTRvVEVtWmlRZktyRl85WktTaVBucFFXVmtqNThIYURTUmtCQTNZV0ZWRzlqcERDY19vaU83MGhBZzhtaHlhbUY0d1o4VXptRmhBUUIwcmgwZDdTeVNrZnBqcmVEOFhTa1dwVTNVYzZnenM0X29fdkh2OG1xVHdwb2pHTXI1OXJtbUZLNGxmVHJGdTVfOGFCUkxJbFU3ellIN2ZnNHd2MHU1aHlwVnlYTC1JZw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- ‘This can’t be…': Asaduddin Owaisi's first reaction to India's Asia Cup victory against Pakistan | Latest News India - Hindustan Times
+  ‘This can’t be…': Asaduddin Owaisi's
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR1BDblg5d0E4cXplZTE3am1YeDRwTmdLTk5kUW41Y19Xdm9zQnJZLXZ0cFJ4VWNkSUJWSVpkRWxSb2xZM1lpU1hzVF9nTkg2OEtWSlc4eE5JSTdLRzNGdFhENm83LThPeEFSaWZxVmhkRlZQSEJZY21fbEE2d1NXdDFWSlV5dEhyNEU3RF9QeTZnOEl1eGNnRTBSY2xsX2x5dU1taVlnTVpFcXUyc2liVVRTNEFZc3VGRndWZ2oxbjVzS3lxYldORUIzMmR3LVZPdEpudVI0MWw4ZzVoUHpnNVNNNVlFNXVv0gHuAUFVX3lxTE9BVnNlbzIzTUlNZU9mMnBoUjRFbmJVd1dIamNFZEtmRFFKR1lxaGRJWUptZzNsQ3pGYk1OZFdneEVuT21OLWo4eWZRekJQd0pqRWprLWRMRC1Rb21MSmFPd3ZFNC1rb1ZnVURpNkh2dmJhaHJvOGhXSnZlZ1NEODdjcFFFbTdpR3VPVWNWZDRpR3B3eTVZSGtTaHA1bFRsRWZMUzhtTDVCRmdCT29xZm9PdjVyTlNIVkFWR0Z4Tzg1dU5hMXdZZWNxYWFEZHZRal8xTmt5Y2hpSUlSRWI0X1dBZGZIWGc0RW1SNGxwOWc?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- SC seeks states' replies on anti-conversion laws - The Times of India
+  The Times of India published a story on
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNczkzU1pUUjVnM1dVd2VtaXNlN051UGt5b25UVHUweURvbnZQQVhPS1gwTGJQYkxYNllzb3pJM2w0ZTlyOFhsSFE5T0R3c2tIa1ZCaWpRa1YyOUZ6UWZ3M2JhVWcwRUpYdjRGZjNWU1RsU3BZbm1ZNEpvcHk0YVJLWlk4RVZCOHFCNXpvcXIxYzhEUTFkTG5ORmZjZHNabU94OTMzMk9oVW1xM2Q5YmFiNmpmejdvZ9IBuwFBVV95cUxOM0x1S1RrX1JxRW8tWWJJSlJpcEZ6SkMzNW9ia3QwemRuakNaZlBlQ2o2N0l5SnU2TEFFS0xxMURfRWU5UG9USUpCazR0U0h0enJ2cVdFTENHcE5QWkNPWnRrQjhnZ1lyeG5oeXBXLUJUc3lZbzVVWXljczRSazBfZmNJX2lyR182TzZpbldzZ0JzQXdCa2xQdThXT0pwMjNNM3FKTVJYOV9wWUV2WVRGc2dHUVU4MkpzMi04?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Be ready to deal with 'invisible challenges', Rajnath tells forces - The Times of India
+  The Times of India reported that Rajnath Singh
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPUGE0VTRib3hYaGpkVUFkMkh0NThXbzJjdFpONUNTQVJBWmRJRWdoWEpyM3RUQlo3UjB1VWNPMzFsSm9OUjJRMzkyYTRIV0NOUTFTMWpVVlk2OTVWUWFYVmhIMVZSWE5hcHBKV3NheGNuaHJSWUxKay1nVE9JRGI4ME5oREE1MWY2ODFIeDhXejA5R005Qjk4cHJFTUhtT05hVTlGS3ZRRTJBeHBaaTY4MHRrZGFPSHFzcUh1X1o0N3JITW9LeDYzZWZnNNIB0AFBVV95cUxQeFc1UEZfNEJ3SDEtSldTc1RnZkJtUUxQZEk5clM4SW1kd2Q4YzdOekl5azdGTlk4OFhVZ0lJeFc2aWNKN1dQQ1hZV1lfbzh4QVpwZWZqUm1MSV9KTTFMVEtWSVU5OXJhZVdQZEwtTWEwWkhIc2d0Wm5VQUxLTlFXVlBBcU5uUVlXYUxFTlo4bWJCNnNYSENVWkl4RU5BUU9TdURHTmVSaFZhQ2dJbXBOM2h2UWlwV3ZFamR4bm9fVnZub0x4VWZlNzNWVzJXSzVB?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- India rejected 3rd-party role to end conflict: Pakistan - The Times of India
+  India rejected 3rd-party role to end
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS1MVEFsdm11dGNyUzdvX1NuQkljeXdJeUJneGszdnpCdjdvWXM0cnRGYnlfNlJkc21MM1JaZmdDckdsejFfR0pRMTIwMnN6MlpiRGxEQlJNaFY0WmExNHp4U0phNjgxN2JRRXNQM3ByZ2ptdWZxYmY0Tng1REo5VDA2LU00SGJNdWUzLUV2WS0wb25zMS1hRjc5WjhKb3dNRi1YSEhYY0RhdXpBcjFHRFpIQ2hnb0laUFVYQmE4c9IBxAFBVV95cUxQLWxUOE1ianZwVkVCMEdmT201VE15Y2drSk5sUE9nSVZlY0o3Ul9rMks0SU16NjdkSGdJMEZxNVJFZHFpOEs4aE5TZ0VUVEtEYjc1YUN6WkZFSzVvSzZJLVVWV215UVRPSnpNVGRNZ1h4WU9Ld1hkamlNN1luUlFWdTRUZFBtVmNmZHRyOU91emkwcU50Q05HV19yS18wR1k1YU9yS3ZPNGZiSGhVRmdnc3JBdE42bkdaRm5nanJneXZob01W?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- India, US Hold Trade Talks, Both Sides Describe Them As "Positive" - NDTV
+  India, US Hold Trade Talks, Both S
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxObzQ0VGVKbW9Yc2xHNC1KQVhGb2RSd0toOHRrM3NocU95ZllDYXZ1UFFza3BYZ2VsU1ctcGFoenlMWE9aNkNUUzlsWU12MjZDVk53Zm05bXpuSlVNQXljQVpqeGpRUUZ6Yk5rTS1WeTd2emMwTXpkNkJUbUVWUHljaVh1RlRLb1NuSUQwX19lRUxfRkJmXzBsSy1tUEdkQllCd1FmcWNqYk5ycnZoc01uXzZYY3BybEFjVHF5ejd30gHGAUFVX3lxTE81Y3N4Q0prUzV5QUxDMHlaZVotcTRvVEVtWmlRZktyRl85WktTaVBucFFXVmtqNThIYURTUmtCQTNZV0ZWRzlqcERDY19vaU83MGhBZzhtaHlhbUY0d1o4VXptRmhBUUIwcmgwZDdTeVNrZnBqcmVEOFhTa1dwVTNVYzZnenM0X29fdkh2OG1xVHdwb2pHTXI1OXJtbUZLNGxmVHJGdTVfOGFCUkxJbFU3ellIN2ZnNHd2MHU1aHlwVnlYTC1JZw?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- ‘This can’t be…': Asaduddin Owaisi's first reaction to India's Asia Cup victory against Pakistan | Latest News India - Hindustan Times
+  ‘This can’t be…': Asaduddin Owaisi's
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR1BDblg5d0E4cXplZTE3am1YeDRwTmdLTk5kUW41Y19Xdm9zQnJZLXZ0cFJ4VWNkSUJWSVpkRWxSb2xZM1lpU1hzVF9nTkg2OEtWSlc4eE5JSTdLRzNGdFhENm83LThPeEFSaWZxVmhkRlZQSEJZY21fbEE2d1NXdDFWSlV5dEhyNEU3RF9QeTZnOEl1eGNnRTBSY2xsX2x5dU1taVlnTVpFcXUyc2liVVRTNEFZc3VGRndWZ2oxbjVzS3lxYldORUIzMmR3LVZPdEpudVI0MWw4ZzVoUHpnNVNNNVlFNXVv0gHuAUFVX3lxTE9BVnNlbzIzTUlNZU9mMnBoUjRFbmJVd1dIamNFZEtmRFFKR1lxaGRJWUptZzNsQ3pGYk1OZFdneEVuT21OLWo4eWZRekJQd0pqRWprLWRMRC1Rb21MSmFPd3ZFNC1rb1ZnVURpNkh2dmJhaHJvOGhXSnZlZ1NEODdjcFFFbTdpR3VPVWNWZDRpR3B3eTVZSGtTaHA1bFRsRWZMUzhtTDVCRmdCT29xZm9PdjVyTlNIVkFWR0Z4Tzg1dU5hMXdZZWNxYWFEZHZRal8xTmt5Y2hpSUlSRWI0X1dBZGZIWGc0RW1SNGxwOWc?oc=5
+
+- SC seeks states' replies on anti-conversion laws - The Times of India
+  The Times of India published a story on
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNczkzU1pUUjVnM1dVd2VtaXNlN051UGt5b25UVHUweURvbnZQQVhPS1gwTGJQYkxYNllzb3pJM2w0ZTlyOFhsSFE5T0R3c2tIa1ZCaWpRa1YyOUZ6UWZ3M2JhVWcwRUpYdjRGZjNWU1RsU3BZbm1ZNEpvcHk0YVJLWlk4RVZCOHFCNXpvcXIxYzhEUTFkTG5ORmZjZHNabU94OTMzMk9oVW1xM2Q5YmFiNmpmejdvZ9IBuwFBVV95cUxOM0x1S1RrX1JxRW8tWWJJSlJpcEZ6SkMzNW9ia3QwemRuakNaZlBlQ2o2N0l5SnU2TEFFS0xxMURfRWU5UG9USUpCazR0U0h0enJ2cVdFTENHcE5QWkNPWnRrQjhnZ1lyeG5oeXBXLUJUc3lZbzVVWXljczRSazBfZmNJX2lyR182TzZpbldzZ0JzQXdCa2xQdThXT0pwMjNNM3FKTVJYOV9wWUV2WVRGc2dHUVU4MkpzMi04?oc=5
+
+- Be ready to deal with 'invisible challenges', Rajnath tells forces - The Times of India
+  The Times of India reported that Rajnath Singh
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPUGE0VTRib3hYaGpkVUFkMkh0NThXbzJjdFpONUNTQVJBWmRJRWdoWEpyM3RUQlo3UjB1VWNPMzFsSm9OUjJRMzkyYTRIV0NOUTFTMWpVVlk2OTVWUWFYVmhIMVZSWE5hcHBKV3NheGNuaHJSWUxKay1nVE9JRGI4ME5oREE1MWY2ODFIeDhXejA5R005Qjk4cHJFTUhtT05hVTlGS3ZRRTJBeHBaaTY4MHRrZGFPSHFzcUh1X1o0N3JITW9LeDYzZWZnNNIB0AFBVV95cUxQeFc1UEZfNEJ3SDEtSldTc1RnZkJtUUxQZEk5clM4SW1kd2Q4YzdOekl5azdGTlk4OFhVZ0lJeFc2aWNKN1dQQ1hZV1lfbzh4QVpwZWZqUm1MSV9KTTFMVEtWSVU5OXJhZVdQZEwtTWEwWkhIc2d0Wm5VQUxLTlFXVlBBcU5uUVlXYUxFTlo4bWJCNnNYSENVWkl4RU5BUU9TdURHTmVSaFZhQ2dJbXBOM2h2UWlwV3ZFamR4bm9fVnZub0x4VWZlNzNWVzJXSzVB?oc=5
+
+- India rejected 3rd-party role to end conflict: Pakistan - The Times of India
+  India rejected 3rd-party role to end
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS1MVEFsdm11dGNyUzdvX1NuQkljeXdJeUJneGszdnpCdjdvWXM0cnRGYnlfNlJkc21MM1JaZmdDckdsejFfR0pRMTIwMnN6MlpiRGxEQlJNaFY0WmExNHp4U0phNjgxN2JRRXNQM3ByZ2ptdWZxYmY0Tng1REo5VDA2LU00SGJNdWUzLUV2WS0wb25zMS1hRjc5WjhKb3dNRi1YSEhYY0RhdXpBcjFHRFpIQ2hnb0laUFVYQmE4c9IBxAFBVV95cUxQLWxUOE1ianZwVkVCMEdmT201VE15Y2drSk5sUE9nSVZlY0o3Ul9rMks0SU16NjdkSGdJMEZxNVJFZHFpOEs4aE5TZ0VUVEtEYjc1YUN6WkZFSzVvSzZJLVVWV215UVRPSnpNVGRNZ1h4WU9Ld1hkamlNN1luUlFWdTRUZFBtVmNmZHRyOU91emkwcU50Q05HV19yS18wR1k1YU9yS3ZPNGZiSGhVRmdnc3JBdE42bkdaRm5nanJneXZob01W?oc=5
 
 
-_Last updated: 2025-09-16 18:25:45 UTC_
+_Last updated: 2025-09-17 01:08:39 UTC_
