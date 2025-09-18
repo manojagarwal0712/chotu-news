@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Senior advocate withdraws from defending detained AAP MLA Mehraj Malik: ‘His utterances are…’
+- Trump administration withdraws sanctions waiver to Chabahar port | What it means for India
   
-  🔗 https://indianexpress.com/article/india/aap-mla-mehraj-malik-detained-advocate-withdraws-10257649/
+  🔗 https://indianexpress.com/article/india/trump-administration-withdraws-sanctions-waiver-chabahar-port-india-impact-10258113/
 
-- US revoked visas of Indian business executives over link to fentanyl trade: Embassy
+- Tripura CM reviews preparations for PM Modi’s visit on Sept 22, police plan tight security
   
-  🔗 https://indianexpress.com/article/india/us-revoked-visas-indian-business-executives-link-fentanyl-trade-10257620/
+  🔗 https://indianexpress.com/article/india/tripura-cm-reviews-preparations-pm-modi-visit-on-sept-22-10258064/
 
-- Vaishno Devi pilgrimage, suspended after landslide killed 34, resumes in J&K
+- ‘Explicitly promotes fear, hatred’ – Congress files complaint against Assam BJP’s ‘polarising’ AI video
   
-  🔗 https://indianexpress.com/article/india/vaishno-devi-pilgrimage-suspended-after-landslide-killed-34-resumes-in-jk-10257340/
+  🔗 https://indianexpress.com/article/india/explicitly-promotes-fear-hatred-congress-files-complaint-against-bjps-polarising-ai-video-10257973/
 
-- ‘I respect all religions’: CJI Gavai on critical social media posts over his comments in Khajuraho case
+- Gold chain, pants, shirts & more: Congress seeks recovery of ‘stolen items’ during Odisha Assembly scuffle
   
-  🔗 https://indianexpress.com/article/india/cji-gavai-critical-social-media-posts-khajuraho-case-10257543/
+  🔗 https://indianexpress.com/article/india/congress-seeks-recovery-of-stolen-items-during-odisha-assembly-scuffle-10257905/
 
-- ‘Trying to create situation like Bangladesh, Nepal’: BJP hits back at Rahul Gandhi with ‘infiltrator-first politics’ jibe
+- After Rs 232 cr scam, Airport Authority Manager accused of diverting Rs 18 cr to personal accounts: CBI
   
-  🔗 https://indianexpress.com/article/india/trying-create-situation-bangladesh-nepal-bjp-hits-back-rahul-gandhi-infiltrator-first-politics-jibe-10257485/
+  🔗 https://indianexpress.com/article/india/siphoning-rs-232-crore-aai-senior-manager-diverting-rs-18-cr-cbi-10257847/
+
+- ‘We back genuine AI startups, not wrappers’: Google accelerator programme lead
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/back-genuine-ai-startups-not-wrappers-google-accelerator-exec-10257719/
+
+- OnePlus announces festive deals: From OnePlus 13 to Nord 5, a look at best offers
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/oneplus-announces-festive-deals-from-oneplus-13-to-nord-5-a-look-at-best-offers-10257742/
+
+- iOS 26: Top 8 features to make your iPhone efficient and more aesthetic
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ios-26-top-8-features-to-make-your-iphone-efficient-and-more-aesthetic-10257693/
 
 - Ray-Ban Meta Gen 2 vs Oakley Meta Vanguard: Specs and features at a glance
   
@@ -28,157 +40,225 @@
   
   🔗 https://indianexpress.com/article/technology/lumio-announces-great-indian-festival-deals-on-vision-smart-tv-and-vision-arc-10257341/
 
-- One UI 8 release schedule revealed: Is your Samsung phone and tablet on the list?
+- GST rate cuts: FMCG giant ITC to pass on ‘full benefit’ to customers across portfolio — Details here
+  ITC will pass on the full benefit to its customers across the firm's portfolio range. The new rates will be effective from 22 September 2025.
+  🔗 https://www.livemint.com/companies/news/gst-rate-cuts-fmcg-giant-itc-to-pass-on-full-benefit-to-customers-across-portfolio-details-here-11758214576603.html
+
+- Mediobanca CEO Nagel Quits After Monte Paschi Takes Control
+  Mediobanca Spa Chief Executive Officer Alberto Nagel is resigning along with some other members of the lender’s board. Banca Monte dei Paschi di
+  🔗 https://www.livemint.com/companies/news/mediobanca-ceo-nagel-quits-after-monte-paschi-takes-control-11758215820470.html
+
+- Teck Deal With Anglo Faces Indigenous Challenge on Smelter Plan
+  Indigenous group vows to bring political and legal challenges against Teck Resources Ltd.’s merger with Anglo American Plc. Teck and Anglo American
+  🔗 https://www.livemint.com/companies/news/teck-deal-with-anglo-faces-indigenous-challenge-on-smelter-plan-11758215155495.html
+
+- Abu Dhabi’s Multibillion-Dollar Energy Push Faces Early Stumbles
+  Abu Dhabi launched high-profile energy investment firm XRG a year ago. Biggest effort yet fell apart this week and another deal hangs in the balance.
+  🔗 https://www.livemint.com/companies/news/abu-dhabi-s-multibillion-dollar-energy-push-faces-early-stumbles-11758212548095.html
+
+- Intels tumultuous journey from Silicon Valley stalwart to AI straggler
+  Intel's tumultuous journey
+  🔗 https://www.livemint.com/companies/news/intels-tumultuous-journey-from-silicon-valley-stalwart-to-ai-straggler-11758212486199.html
+
+- Oil prices dip as US economic concerns outweigh Fed rate cut
+  Oil prices dip as US economic
+  🔗 https://www.livemint.com/market/stock-market-news/oil-prices-dip-as-us-economic-concerns-outweigh-fed-rate-cut-11758217458828.html
+
+- Russell 2000 reaches record high as rate-cut hopes lift US small caps
+  Russell 2000 reaches record high as rate
+  🔗 https://www.livemint.com/market/stock-market-news/russell-2000-reaches-record-high-as-rate-cut-hopes-lift-us-small-caps-11758216850633.html
+
+- Canadian dollar weakens as investors unravel central bank rate signals
+  Canadian dollar weakens as investors unravel
+  🔗 https://www.livemint.com/market/stock-market-news/canadian-dollar-weakens-as-investors-unravel-central-bank-rate-signals-11758216427188.html
+
+- Warren Seeks Details on Binance Compliance With 2023 Settlement
+  Senator Elizabeth Warren is pressing the Justice Department on whether the world’s biggest crypto exchange, Binance Holdings Ltd., is adher
+  🔗 https://www.livemint.com/market/cryptocurrency/warren-seeks-details-on-binance-compliance-with-2023-settlement-11758214304758.html
+
+- World shares hit new record highs, dollar gains buoyed by Fed rate cut
+  World shares hit new record highs, dollar
+  🔗 https://www.livemint.com/market/stock-market-news/world-shares-hit-new-record-highs-dollar-gains-buoyed-by-fed-rate-cut-11758211392000.html
+
+- What price will iPhone 17, 17 Pro, Pro Max and Air sell for in India? Bank offers, cashback deals explained
+  Apple's iPhone 17 series launches in India tomorrow, featuring iOS 26 and advanced AI capabilities. Prices range from  �
+  🔗 https://www.livemint.com/technology/gadgets/what-price-will-iphone-17-17-pro-pro-max-and-air-sell-for-in-india-bank-offers-cashback-deals-explained-11758216028094.html
+
+- Google Adds Gemini to Chrome After Dodging Forced Sale
+  Google is incorporating its Gemini artificial intelligence model throughout the Chrome browser. The move comes two weeks after dodging an antitrust
+  🔗 https://www.livemint.com/technology/tech-news/google-adds-gemini-to-chrome-after-dodging-forced-sale-11758216181771.html
+
+- Gemini Nano Banana AI: After Saree trend, try these 5 Google-approved prompts to transform your profile picture
+  The Nano Banana model from Google's Gemini app allows users to transform images with simple prompts. Gaining traction on social media, it offers unique features like converting selfies into vintage looks.
+  🔗 https://www.livemint.com/technology/tech-news/gemini-nano-banana-ai-after-saree-trend-try-these-5-google-approved-prompts-to-tranform-your-profile-picture-11758207123079.html
+
+- Apple admits iPhone 17 Pro Max and iPhone Air hit by ‘very rare’ camera bug ahead of first sale
+  A camera bug has been confirmed on the iPhone 17 Pro Max and iPhone Air. Apple is promising a fix in an upcoming software update.
+  🔗 https://www.livemint.com/technology/tech-news/apple-admits-iphone-17-pro-max-and-iphone-air-hit-by-very-rare-camera-bug-ahead-of-first-sale-11758198648532.html
+
+- iPhone users say iOS 26's Liquid Glass makes them feel dizzy: here's how to fix it
+  Apple's iOS 26 update faced user complaints about battery drainage, performance, and visual issues with Dark Mode. Users suggest colorful wallpapers or disabling Dark Mode as potential fixes.
+  🔗 https://www.livemint.com/technology/tech-news/iphone-users-say-ios-26-makes-them-feel-dizzy-heres-how-to-fix-it-11758193286354.html
+
+- Stocks Get Technology Boost as Intel Surges 25%: Markets Wrap - Bloomberg.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPcndTeTJGczJqLVJObE1YWEFTLUdZaWdTRE8zU3BZT1NTNDctUTM4VjdIdnhxWUlSRDJhbGcwYXJhbHN5Z1V4Q3dkRnpvc0t1NURGcmUwSHFZcnN0TzZZQUhyQkotUkVOT2V1OWIzTC1VLUY0X0tZVVFpeDhBNDBlc1k2Ul84MFBfSVp4Wlc0WWpwbmFv?oc=5
+
+- US markets take a pause after a record rally ahead of Fed rate decision - CNBC TV18
+  US markets take a pause after a record rally ahead of Fed rate
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaXlTZUhEeUlUbWJtVEVtTHV2dUpWdDBIdEN6T2RjOW9oVm4yMG9MYm8tNEg2SzdKdmh2Q3dtWE9WLTU0bVRJOF81N1Byc2w0NVRzaG1JVnY1dWRvd05hdjJLcWpESzRfa0xRS3J4WE9TUE5KXzlVbzZGc1FQRlJnUVViUllDZk5hUDRYaWZORzBNZURTaXFWa3NqVEJ3N2IzYnNpMW0ySW5WcU1zV0tkQUJFMk1sQnhZY041VWY4ZkZxdTRKM0t1TdIBzgFBVV95cUxNMDdpYzJnQ3A3MEZETzVHSVZ5cW5MX3JqM3FtajM0aXhWTC1PM0RpUGdaR0loeVZ1azJvMkFGTy1USzhyaDJZU294V3lKQll6d2NsUTBNanctTnVBR2FXUVY5VjhGa1dzeWdwYlRtTUNYc3hqaXZWNjdNaFNSSXNPQzhEZzM0bExOQlJXaUVtRUFRdThzMTJPNzJzUnBJVXBXUzdTMmI4WExEUzl3NndfWU4ycmpybFRMSTltbTdROUxmeVBhWVJ4TUxsRlk1Zw?oc=5
+
+- Stocks surge a day after Fed rate cut, small-cap benchmark on pace for a record close: Live updates - CNBC
+  Small-cap benchmark on pace for a record close: Live updates.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE51QlQ3My1aSE9Vcy04T3plUkJpNHVtXzdYNlJtZmZvVnl0bG9VdzRMYVJZWmV0WDhIZUdjbTV5bnFQb0ZlMmFVUUozUGVBSWtMSUVEWWxQWGkwUzJ6WE0yRHE4ekRDMU5RV20tS2JJc3dDMUI4blUw0gF8QVVfeXFMTnlzb2txVGF4NURPTno3eE9SZnltN2ZsS1Z4WTVTT0ZZT0JKOG10ZXlBcFdCUkZPSDVqb1pYVjJGb083ZDl0dktRSFA0aG8zcUQ4VnMxOUZZR3YwVExBaTMyQV9YZ0diaHlNQjZFb0NTek96LWlrdFlnVkQzYw?oc=5
+
+- Closing Bell: Market extends winning streak to third day; Nifty above 25,400, Sensex up 350 points - Moneycontrol
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWlZmUnBKaGoxRHhQVTk1RXZ3eGlxSkx0anVrVUtLTmU5M2FOdDdZV3VicUlERjlsVFp6anNlMHZPTERrY0hYMjNwRWx6YVBlYm8yTUU3Y3pDMDBCMVhEbVlWdlU4eXVBc3
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWlZmUnBKaGoxRHhQVTk1RXZ3eGlxSkx0anVrVUtLTmU5M2FOdDdZV3VicUlERjlsVFp6anNlMHZPTERrY0hYMjNwRWx6YVBlYm8yTUU3Y3pDMDBCMVhEbVlWdlU4eXVBc3NSUHVjb3c3Q2UtVmgwbUxEd1JXNzlLMFJBU2ZpS0pFVWRabl9ocFl1RWpmYjEwaVBjejFQNHJqLVlYWjdOd085TkxwMC1pSlAtSXllU3dfQVBLV25veGNrTlRsOV9rUzlLTnJLMW5UV200RU9Td3FzSVRRdlZQbHJxeEwyTkVibWt0Qg?oc=5
+
+- JK Tyre has diverted exports to US from India to other markets: MD Anshuman Singhania - The Hindu
+  JK Tyre has diverted exports to US from India to other markets
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPa3pvZjcxUW91b3dlM0FEZkpQRklUREE3WVc5ZG5ja2RvUzc3aGVvb3MwU3Q2Rl9CQmJtakpuUHo5bFRIRUdfb2hnRzRsYmdLY2dQLUxLaC1VWms3ZEhaYkd0RG9RejJDMGxMdUliYjFoSHdqdk9QRDkzTXUzcEtMSUFacnJaX2ZPZFlYd3BkT2hiSlRvb1ByaGVZalRTb1JWNUJVNGJFVVNuaG1uMW4tS0ZxUVQzX09vbjRpRjFzVEo1clFmQTRGYWtEVm5IMGphNFdwS2wyUVRaWlRYYUpSSlRVUEIwZHh6bWfSAfABQVVfeXFMT3Q3S19fazg4X19sX0FlbXh3S044LU1zcjVPWTExZGI3MW1OVHItN3g0aW9ObmlYUXRadlhBVWxtOFBPOXhEcmVBWkwtRU1lMm9kQXJvVGc5N1p3U1NlbG5rUld4blhfWm1ZdnQ5elh1ZDkzelotUGdtT3NOOW5NLTl0WDlGOEJqRExVdmpia2tRdDJRcDNOd2ptRHI2MlJaN2hFa09KRUN4czJzNml1VnItS3hNSV93a1RmTktEbVo5a3dMU0MzN2JHS0lxZzVEWWRIaHowVmE3REZiX2w3VTl1Z0haRk1MS2xaNE1XMWhv?oc=5
+
+- ET Market Watch: Nifty above 25,400, Sensex at 83,000; IT &amp; pharma stocks surge after Fed rate cut
   
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-one-ui-8-update-release-schedule-galaxy-s-a-series-tab-10256956/
+  🔗 https://economictimes.indiatimes.com/markets/stocks/etmarkets-podcast/et-market-watch-nifty-above-25400-sensex-at-83000-it-pharma-stocks-surge-after-fed-rate-cut/podcast/123980980.cms
 
-- Nothing to roll out Nothing OS 4.0: A look at the Android 16-based update, features, and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nothing-to-roll-out-nothing-os-4-0-a-look-at-the-android-16-based-update-features-and-more-10257114/
+- GK Energy raises Rs 139 crore from anchor investors ahead of IPO
+  GK Energy raised Rs 139 crore from anchor investors, including Pinebridge, Prashant Jain's 3P India Equity Fund. Strong institutional interest and robust FY25
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/gk-energy-raises-rs-139-crore-from-anchor-investors-ahead-of-ipo/articleshow/123980339.cms
 
-- Google Discover now shows Instagram posts, YouTube Shorts and more on your feed
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-discover-instagram-youtube-shorts-x-posts-follow-button-10256757/
+- Ahead of Market: 10 things that will decide stock market action on Friday
+  Sensex rose 320 points and Nifty 93, marking a third straight gain. Fed’s 25 bps rate cut,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/123979889.cms
 
-- Nvidia to invest $5 billion in Intel for AI infrastructure and PCs
-  N Nvidia to invest $5 billion in Intel; companies
-  🔗 https://www.livemint.com/companies/news/nvidia-to-invest-5-billion-in-intel-for-ai-infrastructure-and-pcs-11758196573246.html
+- Explained: No RPT violations, no fund diversion. What Sebi’s key findings in Adani–Hindenburg case reveal
+  Sebi dismissed allegations that Adani Group used Adicorp to route funds in violation of related-party norms. The regulator
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/explained-no-rpt-violations-no-fund-diversion-what-sebis-key-findings-in-adanihindenburg-case-reveal/articleshow/123979778.cms
 
-- Why don’t independent directors call out red flags when they quit?
-  Most independent directors offer inadequate explanations in their resignation letters. Only 22 of them cited red flags while resigning in
-  🔗 https://www.livemint.com/companies/people/corporate-governance-issues-irregularities-independent-directors-disagreements-with-management-resignations-krbl-gensol-11758107231577.html
-
-- Weaker Rules Give US Banks Edge, Deutsche Bank CFO Says
-  Deutsche Bank AG warned that a broad rollback of financial regulations in the US will give
-  🔗 https://www.livemint.com/companies/news/weaker-rules-give-us-banks-edge-deutsche-bank-cfo-says-11758189961741.html
-
-- Deutsche Bank Sees Higher Than Expected Bond Trading Revenue
-  Deutsche Bank AG is on track to report higher revenue from trading fixed income and currencies in the third quarter. Chief Financial Officer James von
-  🔗 https://www.livemint.com/companies/company-results/deutsche-bank-sees-higher-than-expected-bond-trading-revenue-11758188144595.html
-
-- Online Gaming Bill fallout: Gameskraft axes 120 jobs, says regulations ‘left us with no choice’
-  Bengaluru-based online gaming firm Gamescraft said in a statement
-  🔗 https://www.livemint.com/companies/news/online-gaming-bill-fallout-gameskraft-axes-120-jobs-says-regulations-left-us-with-no-choice-11758185350819.html
-
-- US Fed starts easing path, other major central banks on hold
-  US Fed starts easing path, other
-  🔗 https://www.livemint.com/market/stock-market-news/us-fed-starts-easing-path-other-major-central-banks-on-hold-11758197704865.html
-
-- Euro Pratik Sales IPO sees 1.34 times bids at the end of third and final day. Check GMP and other details
-  Euro Pratik Sales IPO concluded with 1.34 times bids. Allotment is expected on September 19, while listing occurs on September 23.
-  🔗 https://www.livemint.com/market/ipo/euro-pratik-sales-ipo-sees-1-34-bids-at-the-end-of-third-and-final-day-check-gmp-and-other-details-11758196406908.html
-
-- Gold vs sovereign gold bond vs gold ETF: Which is better after US Fed rate cut? Explained
-  Gold prices retracted from all-time highs following the US Fed rate cut. However, with many modes of investment in gold available, analysts highlight the best mode.
-  🔗 https://www.livemint.com/market/commodities/gold-bond-vs-sovereign-gold-bond-which-is-better-after-us-fed-rate-cut-explained-11758195797083.html
-
-- Indian, Japanese firms lead corporate turnarounds
-  In a world where corporate earnings are under pressure, Indian companies
-  🔗 https://www.livemint.com/market/indian-japanese-firms-corporate-china-turnarounds-it-us-investors-infra-auto-healthcare-capital-goods-construction-11758191709201.html
-
-- Will US Fed rate cut drive FIIs back to the Indian stock market?
-   speculations have risen that this will attract foreign institutional investors back to the Indian stock market. The US Federal Reserve has hinted at additional rate cuts.
-  🔗 https://www.livemint.com/market/stock-market-news/will-us-fed-rate-cut-drive-fiis-back-to-the-indian-stock-market-11758191700971.html
-
-- Meta Ray-Ban 2nd Gen glasses launched: 5 big upgrades you need to know
-  The new Ray-Ban (2nd Gen) glasses from Meta offer improved video quality, longer battery life, and features like Conversation focus and live translation. Priced at $379, they come
-  🔗 https://www.livemint.com/technology/tech-news/meta-ray-ban-2nd-gen-glasses-launched-5-big-upgrades-you-need-to-know-11758194955790.html
-
-- Meta AI glasses launch marred by multiple demo failures, Mark Zuckerberg left red-faced: ‘I don’t know what happened’
-  The launch of Meta Ray Ban glasses was overshadowed by technical failures. CEO Mark Zuckerberg blamed connectivity issues for the mishaps.
-  🔗 https://www.livemint.com/technology/tech-news/meta-ai-glasses-launch-marred-by-multiple-demo-failures-mark-zuckerberg-left-red-faced-i-don-t-know-what-happened-11758189979967.html
-
-- OnePlus announces offers for upcoming festive days: OnePlus 13, OnePus 13s, OnePlus Pad Go and more discounted
-  OnePlus announces festive offers starting September 22. Offers extend to tablets and earphones across various retailers. The OnePlus 13 will sell for  ₹57,749
-  🔗 https://www.livemint.com/technology/tech-news/oneplus-announces-offers-for-upcoming-festive-days-oneplus-13-onepus-13s-oneplus-pad-go-and-more-discounted-11758185918598.html
-
-- Retro red saree AI pictures: Transform your selfie into Bollywood style with these simple prompts
-  A new AI trend lets users turn selfies into vintage Bollywood-style posters. Google Gemini’s
-  🔗 https://www.livemint.com/technology/retro-red-saree-ai-picture-couple-selfie-bollywood-style-gemini-prompts-11758184231192.html
-
-- Having trouble with Apple software? Be aware of 5 drawbacks of newly launched iOS 26
-  Apple's new iOS 26 updates have led to user complaints about faster battery drainage due to the new update, keyboard misalignment,
-  🔗 https://www.livemint.com/technology/tech-news/ios-26-newly-launched-software-trouble-5-drawbacks-technology-india-sale-sept-19-apple-watch-iphone-17-air-pro-pro-max-11758184017180.html
-
-- Smallcap multibagger defence stock surges 20% after Rs 95-crore BrahMos order win
-  Jaykay Enterprises surged 20% after subsidiary Allen Reinforced Plastics secured a Rs 94.45 crore order from BrahMos Aerospace. The diversified group also advanced in healthcare with a CSIO technology transfer for 3
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/smallcap-multibagger-defence-stock-surges-20-after-rs-95-crore-brahmos-order-win/articleshow/123976024.cms
-
-- Wall Street poised to open at record levels following the Fed's first rate cut of 2025
-  Wall Street poised to open at record highs Thursday following the Federal Reserve's first interest rate cut in
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/wall-street-poised-to-open-at-record-levels-following-the-feds-first-rate-cut-of-2025/articleshow/123975817.cms
-
-- Gainers &amp; Losers: Poonawalla Fincorp, Dev Accelerator, and Biocon among 7 major movers on Thursday. Here’s why
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-losers-poonawalla-fincorp-dev-accelerator-and-biocon-among-7-major-movers-on-thursday-heres-why/slideshow/123975510.cms
-
-- Banking, old sectors ‘cheap but risky,’ new-age companies offer better returns: Ajay Srivastava
-  Growth, differentiation, and tech-driven businesses are key for long-term alpha creation. Ajay Srivastava highlights opportunities in autos, engineering, healthcare, and new-age firms.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/banking-old-sectors-cheap-but-risky-new-age-companies-offer-better-returns-ajay-srivastava/articleshow/123974603.cms
-
-- Bank of England holds main UK interest rate at 4% with inflation above target
-  The Bank of England maintains interest rates at 4%. Inflation in the UK remains almost double the target. Another rate cut is possible in November.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bank-of-england-holds-main-uk-interest-rate-at-4-with-inflation-above-target/articleshow/123974308.cms
-
-- Trump's 25% penal tariff on India may be withdrawn after November: Chief Economic Adviser | Latest News India - Hindustan Times
-  Trump's 25% penal tariff on India may be withdrawn after November: Chief Economic Adviser
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxObUp0cFF4MEp3NzZyNkppamV6QkROWVZ2V0RYYmxBSjBQbjdzbnZfSXkxNTVUOU5BTjdpUm14dElVbmtXUFloS2FmVDl1dDlXYW5mTUZka1hjbVl3SnpRWm05cExPcnJtT05OZm9ZVU9ZTkVUN19IM0o4dlFfaXloVDVCVy1ha1V0XzMyN0NtTWlaUWdtWXlPMjhNRVVMdmRGWk9lTURtRXRxelltSlZib3B0MGtpV3k3Z0xHTjdQeG9KVUZtUHEzSkc3SVAwTXNGSlRJVWU2RUFJeWZxV0IzUHF6WGpOSnk3RXlTYmd5aEdYT1ZIMUxSMHpaUnhfd9IBgwJBVV95cUxOSnJuTTd4X1kyZnJCeXUtX01ORlg5SXdhTHEtZlJ3UndpeFJ4NTlCZXFIaTBlbjE3T2dqVGFjY0JzQ3dmVXVkTlVNeHMxaGxuV0V4NzhmZTE5bkg3WmVMWFBYTUlsQ0xoSTFjdlVYOHlXeHJNeDBSdHFDTkFRZHpVaHJCU3NhYktSdWVGa1d2SHlFT1ZHQ21pNWRndGxMOXg5X0RyRUp0RUZRazdlTWpJWk9pcnJ1LWxrVEE5cC1NUjM3U0ZzOHcwYm5ydGNrRXBYQ3pmWXlpVWdVNnZGcVVCOWk3Z2JGY19ub00ta0NmQ2RLeWxyX3o2aV9xeFpzdW5YZDAw?oc=5
-
-- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
-  US May Remove 25% Penal Tariff On India After
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
+- Market Trading Guide: Axis Bank, Ashok Leyland among 4 stocks to buy on Friday for up to 11% upside
+  Indian indices extended gains on Thursday, led by IT and pharma stocks. Nifty supported by dovish Fed cues. Analysts recommend buy-on
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-axis-bank-ashok-leyland-among-4-stocks-to-buy-on-friday-for-up-to-11-upside/slideshow/123979447.cms
 
 - U.S. may ease India tariffs, India's chief economic adviser says - Reuters
-  U.S. may ease India tariffs
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1BGU0JpSlh0enZpSkk3b1dqUDFVSFlhcEFESzVqS05OUFpjQnlwRlpNc1pUa1o3Z1ViSG40aUw5UGRCZFBaaGVtMXpO?oc=5
 
-- "India Said It Is Bilateral Issue": Pak Minister On US Attempt At Mediation - NDTV
-  "India Said It Is Bilateral Issue": Pak Minister
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmNPQTV2dUROVHllbVBpVTZUVm5ZeUkxajdPcDRiNnNVekNZbHp1OXkyRkcxRk5OVElwQ25ucWZxZFF1RVZLdmtiR1lEQ0JBbmVrcDd3eHNNSTl3T3NscndjZnQ5QzloZlZfeW16Q3VlRjN5UF9JLWZhZUhfUXVLcnhPbDJoaVRQLXhPTVpPZHJxZ3V0SDlXWXhKNkdXUV9uV3lrdmtOOHMzd9IBsgFBVV95cUxOODV3T0Fyd0d4SHhoUWItVG5QWnFIZGdXZ0FnMFZSZXdtUHdsNkRxdEJMX3N6UVdoRGVrQUthMGNMV0RTb3VmczJSVGgxUjk4VldSX3R5LVB2VkR1QlpxUnFWSW9PWWVDNmVob0NfUmpLNE15WTZPdXdHS1M1dEg2YTItODRwU0JET1h3X3ZJbDF6b2l3TUJ0SHZOMVpMZW4yblh6SEZoRExBZFU1YU5XUXp3?oc=5
+- Ponguleti wonders whether KTR will be in India at all by next elections - The Hindu
+  Ponguleti wonders whether KTR will be in India
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOTZubWFWc0g3VnY5Zm1HTHc2N1Y3d0Q2MjdVbXgxM2thR0xGMjdFNmNuWmphUzliS3pZYTRTaFV1eGNPbXp2WHFKdDVORXdrZ1JnX0VoWGU0dzBHLW9hLWJHaElscnkyUi10YzY3TXIyeVF0U1I1YktMQzRwMDFWZV9Dc3B6NnE4b1ZyOUg3NXNnbEk0bUtWQzBtWl94MlVROWhaWkVOdXBCNTAzc1ZjVlh0WTRMM1owOGowZm0yaHlZQmQyb1NNX25IeUI1OGgtSzdCUHZjZ9IB3gFBVV95cUxNdHlIbUFickN2OFcwWGk3ZWJQbTJNT0pHZ1dDLXBoSUVDSkVic3VMWkYzaDdEbnhXQTcxUEZkaUJLYTlfNmdST28zNHhlQjFRdDM0T0V2aWswSG16ZFh1bVRnX1M0aTVLenlSSUx4d1Y0dTRtbWVGME41SXV3R0xYalVNR3VPa2pFT0duR1dFQW93VUJLMFRIdnhyaHBuU0RHSHdPQkRYRWlOUUF4bG1DU01faEtZazZWandISU9QbUFtNkxBaWl1Z19MczhoR291ZHJQRDVKeDVoM3lLdVE?oc=5
 
-- India rejected 3rd-party role to end conflict: Pakistan - Times of India
-  India rejected 3rd-party role to
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS1MVEFsdm11dGNyUzdvX1NuQkljeXdJeUJneGszdnpCdjdvWXM0cnRGYnlfNlJkc21MM1JaZmdDckdsejFfR0pRMTIwMnN6MlpiRGxEQlJNaFY0WmExNHp4U0phNjgxN2JRRXNQM3ByZ2ptdWZxYmY0Tng1REo5VDA2LU00SGJNdWUzLUV2WS0wb25zMS1hRjc5WjhKb3dNRi1YSEhYY0RhdXpBcjFHRFpIQ2hnb0laUFVYQmE4c9IBxAFBVV95cUxQLWxUOE1ianZwVkVCMEdmT201VE15Y2drSk5sUE9nSVZlY0o3Ul9rMks0SU16NjdkSGdJMEZxNVJFZHFpOEs4aE5TZ0VUVEtEYjc1YUN6WkZFSzVvSzZJLVVWV215UVRPSnpNVGRNZ1h4WU9Ld1hkamlNN1luUlFWdTRUZFBtVmNmZHRyOU91emkwcU50Q05HV19yS18wR1k1YU9yS3ZPNGZiSGhVRmdnc3JBdE42bkdaRm5nanJneXZob01W?oc=5
+- Adani Group Conclusively Vindicated: Mahesh Jethmalani On SEBI Clean Chit - NDTV
+  Adani Group Conclusively Vindicated
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXltUDJ6bkJvUl85ODQ5VW5kdkpobm1iSHAyYk4wTmVyYWRXTHZPRUUzcGhCdy01N1kxWU80UmhldFNZSnpyaVloVXprT0pscEtWdWdNbTl0cFRxSU5hQW1XV1dYWjFnRF92NlRVenZsM1dyS29qZ2hfcTk4by1hUEtGMmZGM013WlRlbTJCb2g0eHFDNmZ2bGdkbGkzM2ZHVHBRWXVrc2w0bnJISjBDSnln0gG6AUFVX3lxTFAxYUJ1RmFyal8yZHBqUXBobmxzQWplTXNhSHVfNjdUTDVBRTdzZElBUEhiS2g4cGxJTjNhWnNWWFpWMm1WMzNHa2ljd1U1Z1hSdk5PY0xVX2hjSnpIa2thVlVzOUJJd1lVc1JjaVo2YUNWaWxwNFF4ZVAtY2tkNklmWHFBZC1TbzYyc2FQdUJqYWludnB3R3p1YzhFWXJLYVNrSFNQUDAyNnViMWRfbWN3SmZ5a0E5YmI2UQ?oc=5
 
-- Trump's 25% penal tariff on India may be withdrawn after November: Chief Economic Adviser | Latest News India - Hindustan Times
-  Trump's 25% penal tariff on India may be withdrawn after November: Chief Economic Adviser
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxObUp0cFF4MEp3NzZyNkppamV6QkROWVZ2V0RYYmxBSjBQbjdzbnZfSXkxNTVUOU5BTjdpUm14dElVbmtXUFloS2FmVDl1dDlXYW5mTUZka1hjbVl3SnpRWm05cExPcnJtT05OZm9ZVU9ZTkVUN19IM0o4dlFfaXloVDVCVy1ha1V0XzMyN0NtTWlaUWdtWXlPMjhNRVVMdmRGWk9lTURtRXRxelltSlZib3B0MGtpV3k3Z0xHTjdQeG9KVUZtUHEzSkc3SVAwTXNGSlRJVWU2RUFJeWZxV0IzUHF6WGpOSnk3RXlTYmd5aEdYT1ZIMUxSMHpaUnhfd9IBgwJBVV95cUxOSnJuTTd4X1kyZnJCeXUtX01ORlg5SXdhTHEtZlJ3UndpeFJ4NTlCZXFIaTBlbjE3T2dqVGFjY0JzQ3dmVXVkTlVNeHMxaGxuV0V4NzhmZTE5bkg3WmVMWFBYTUlsQ0xoSTFjdlVYOHlXeHJNeDBSdHFDTkFRZHpVaHJCU3NhYktSdWVGa1d2SHlFT1ZHQ21pNWRndGxMOXg5X0RyRUp0RUZRazdlTWpJWk9pcnJ1LWxrVEE5cC1NUjM3U0ZzOHcwYm5ydGNrRXBYQ3pmWXlpVWdVNnZGcVVCOWk3Z2JGY19ub00ta0NmQ2RLeWxyX3o2aV9xeFpzdW5YZDAw?oc=5
+- US revokes visas for Indian executives over fentanyl allegations - Al Jazeera
+  Al Jazeera reports that Indian officials have been
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGRLdDNVU2V4ano2QlViWkJHQWpwRVNVRUtYOUJtTTc5d0JTZFFSTkkxU0hiM3dMSk1mS2dwS3B5N2lieFpUbnpOY3lTVDBMaXc1Z050aXJON2xfUE4tc0FXUEp0QVlxMTBEZVZpSU1aTnRRSzZvZDg3NmRmRG0xMVRsLThoNkVnU1JySkpxT2pXNGdVMGxVWlplTkUzVlJJbFZvR1NPeFnSAa4BQVVfeXFMT01IZFdKc2tTd19DcU5RV05ld0tKRlJPRGlTclpDdl9lblp5b0lhQmdNRzNiS2xueE1pZkNQZFBQTGducHFjZmhObVUzdnNBT0J3dEFoRVRYcENpal96eXIxREM0MHMtLVU1MlpXYkppaERNR3BFY1hPbjdQUU51Mk9qbmpYOGFYN3VkRXlFWHNVWVR2YUowTnBpYmtOQVJXZzhRXzNwU2xsSDJyc3Nn?oc=5
 
-- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
-  US May Remove 25% Penal Tariff On India After
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
+- No Visas For Indian Businesspersons, Family With Drug Trafficking Links: US - NDTV
+  No Visas For Indian Businesspersons,
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3I5ek5zS0dlX3lSclRab1lEQlFzSEYzRGp2Ulp5eFB2Z3A3eGZFMS1QYmJWOW9yWHo2VmdteFlRVUZsX3MzRjYyai1YdFI1R1JHS2FneUJvTDU3UlhTdmdqNUdMZWtGQlZQVHlPa29IcnliZWFuaGllVm1oRUZmR2JuMzJ1ZE5ubzh4MWR2OHFoUndTUXFQM1FrcEFCUFhuTFpNUFhnVGtjLVNyMW1QOWpB0gG6AUFVX3lxTE1tUEZvNG1uZGdjNzhkSm5fbG1vdHQwTFFla2doY3dBREE4WkExajQweFpHLUdkTWZodmVlWXR2bXlHNURxNnZzWHdxZmVFVXRaQkNkR1g1Rjd4TTFadTc1bkhvS25CTkpLdGdOTjZmQXlyWDM4MWlROFRrbUM4ZUZiMnhTbnYybm1xM2pOZUdWSHI1OEtZYVpQTDJfbjNNWGlIb1N3Y2RxbVN2WnFVd1NkQ1haeUlDZmw0Zw?oc=5
 
 - U.S. may ease India tariffs, India's chief economic adviser says - Reuters
-  U.S. may ease India tariffs
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1BGU0JpSlh0enZpSkk3b1dqUDFVSFlhcEFESzVqS05OUFpjQnlwRlpNc1pUa1o3Z1ViSG40aUw5UGRCZFBaaGVtMXpO?oc=5
 
-- "India Said It Is Bilateral Issue": Pak Minister On US Attempt At Mediation - NDTV
-  "India Said It Is Bilateral Issue": Pak Minister
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmNPQTV2dUROVHllbVBpVTZUVm5ZeUkxajdPcDRiNnNVekNZbHp1OXkyRkcxRk5OVElwQ25ucWZxZFF1RVZLdmtiR1lEQ0JBbmVrcDd3eHNNSTl3T3NscndjZnQ5QzloZlZfeW16Q3VlRjN5UF9JLWZhZUhfUXVLcnhPbDJoaVRQLXhPTVpPZHJxZ3V0SDlXWXhKNkdXUV9uV3lrdmtOOHMzd9IBsgFBVV95cUxOODV3T0Fyd0d4SHhoUWItVG5QWnFIZGdXZ0FnMFZSZXdtUHdsNkRxdEJMX3N6UVdoRGVrQUthMGNMV0RTb3VmczJSVGgxUjk4VldSX3R5LVB2VkR1QlpxUnFWSW9PWWVDNmVob0NfUmpLNE15WTZPdXdHS1M1dEg2YTItODRwU0JET1h3X3ZJbDF6b2l3TUJ0SHZOMVpMZW4yblh6SEZoRExBZFU1YU5XUXp3?oc=5
+- Ponguleti wonders whether KTR will be in India at all by next elections - The Hindu
+  Ponguleti wonders whether KTR will be in India
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOTZubWFWc0g3VnY5Zm1HTHc2N1Y3d0Q2MjdVbXgxM2thR0xGMjdFNmNuWmphUzliS3pZYTRTaFV1eGNPbXp2WHFKdDVORXdrZ1JnX0VoWGU0dzBHLW9hLWJHaElscnkyUi10YzY3TXIyeVF0U1I1YktMQzRwMDFWZV9Dc3B6NnE4b1ZyOUg3NXNnbEk0bUtWQzBtWl94MlVROWhaWkVOdXBCNTAzc1ZjVlh0WTRMM1owOGowZm0yaHlZQmQyb1NNX25IeUI1OGgtSzdCUHZjZ9IB3gFBVV95cUxNdHlIbUFickN2OFcwWGk3ZWJQbTJNT0pHZ1dDLXBoSUVDSkVic3VMWkYzaDdEbnhXQTcxUEZkaUJLYTlfNmdST28zNHhlQjFRdDM0T0V2aWswSG16ZFh1bVRnX1M0aTVLenlSSUx4d1Y0dTRtbWVGME41SXV3R0xYalVNR3VPa2pFT0duR1dFQW93VUJLMFRIdnhyaHBuU0RHSHdPQkRYRWlOUUF4bG1DU01faEtZazZWandISU9QbUFtNkxBaWl1Z19MczhoR291ZHJQRDVKeDVoM3lLdVE?oc=5
 
-- India rejected 3rd-party role to end conflict: Pakistan - Times of India
-  India rejected 3rd-party role to
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS1MVEFsdm11dGNyUzdvX1NuQkljeXdJeUJneGszdnpCdjdvWXM0cnRGYnlfNlJkc21MM1JaZmdDckdsejFfR0pRMTIwMnN6MlpiRGxEQlJNaFY0WmExNHp4U0phNjgxN2JRRXNQM3ByZ2ptdWZxYmY0Tng1REo5VDA2LU00SGJNdWUzLUV2WS0wb25zMS1hRjc5WjhKb3dNRi1YSEhYY0RhdXpBcjFHRFpIQ2hnb0laUFVYQmE4c9IBxAFBVV95cUxQLWxUOE1ianZwVkVCMEdmT201VE15Y2drSk5sUE9nSVZlY0o3Ul9rMks0SU16NjdkSGdJMEZxNVJFZHFpOEs4aE5TZ0VUVEtEYjc1YUN6WkZFSzVvSzZJLVVWV215UVRPSnpNVGRNZ1h4WU9Ld1hkamlNN1luUlFWdTRUZFBtVmNmZHRyOU91emkwcU50Q05HV19yS18wR1k1YU9yS3ZPNGZiSGhVRmdnc3JBdE42bkdaRm5nanJneXZob01W?oc=5
+- Adani Group Conclusively Vindicated: Mahesh Jethmalani On SEBI Clean Chit - NDTV
+  Adani Group Conclusively Vindicated
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXltUDJ6bkJvUl85ODQ5VW5kdkpobm1iSHAyYk4wTmVyYWRXTHZPRUUzcGhCdy01N1kxWU80UmhldFNZSnpyaVloVXprT0pscEtWdWdNbTl0cFRxSU5hQW1XV1dYWjFnRF92NlRVenZsM1dyS29qZ2hfcTk4by1hUEtGMmZGM013WlRlbTJCb2g0eHFDNmZ2bGdkbGkzM2ZHVHBRWXVrc2w0bnJISjBDSnln0gG6AUFVX3lxTFAxYUJ1RmFyal8yZHBqUXBobmxzQWplTXNhSHVfNjdUTDVBRTdzZElBUEhiS2g4cGxJTjNhWnNWWFpWMm1WMzNHa2ljd1U1Z1hSdk5PY0xVX2hjSnpIa2thVlVzOUJJd1lVc1JjaVo2YUNWaWxwNFF4ZVAtY2tkNklmWHFBZC1TbzYyc2FQdUJqYWludnB3R3p1YzhFWXJLYVNrSFNQUDAyNnViMWRfbWN3SmZ5a0E5YmI2UQ?oc=5
 
-- Trump's 25% penal tariff on India may be withdrawn after November: Chief Economic Adviser | Latest News India - Hindustan Times
-  Trump's 25% penal tariff on India may be withdrawn after November: Chief Economic Adviser
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxObUp0cFF4MEp3NzZyNkppamV6QkROWVZ2V0RYYmxBSjBQbjdzbnZfSXkxNTVUOU5BTjdpUm14dElVbmtXUFloS2FmVDl1dDlXYW5mTUZka1hjbVl3SnpRWm05cExPcnJtT05OZm9ZVU9ZTkVUN19IM0o4dlFfaXloVDVCVy1ha1V0XzMyN0NtTWlaUWdtWXlPMjhNRVVMdmRGWk9lTURtRXRxelltSlZib3B0MGtpV3k3Z0xHTjdQeG9KVUZtUHEzSkc3SVAwTXNGSlRJVWU2RUFJeWZxV0IzUHF6WGpOSnk3RXlTYmd5aEdYT1ZIMUxSMHpaUnhfd9IBgwJBVV95cUxOSnJuTTd4X1kyZnJCeXUtX01ORlg5SXdhTHEtZlJ3UndpeFJ4NTlCZXFIaTBlbjE3T2dqVGFjY0JzQ3dmVXVkTlVNeHMxaGxuV0V4NzhmZTE5bkg3WmVMWFBYTUlsQ0xoSTFjdlVYOHlXeHJNeDBSdHFDTkFRZHpVaHJCU3NhYktSdWVGa1d2SHlFT1ZHQ21pNWRndGxMOXg5X0RyRUp0RUZRazdlTWpJWk9pcnJ1LWxrVEE5cC1NUjM3U0ZzOHcwYm5ydGNrRXBYQ3pmWXlpVWdVNnZGcVVCOWk3Z2JGY19ub00ta0NmQ2RLeWxyX3o2aV9xeFpzdW5YZDAw?oc=5
+- US revokes visas for Indian executives over fentanyl allegations - Al Jazeera
+  Al Jazeera reports that Indian officials have been
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGRLdDNVU2V4ano2QlViWkJHQWpwRVNVRUtYOUJtTTc5d0JTZFFSTkkxU0hiM3dMSk1mS2dwS3B5N2lieFpUbnpOY3lTVDBMaXc1Z050aXJON2xfUE4tc0FXUEp0QVlxMTBEZVZpSU1aTnRRSzZvZDg3NmRmRG0xMVRsLThoNkVnU1JySkpxT2pXNGdVMGxVWlplTkUzVlJJbFZvR1NPeFnSAa4BQVVfeXFMT01IZFdKc2tTd19DcU5RV05ld0tKRlJPRGlTclpDdl9lblp5b0lhQmdNRzNiS2xueE1pZkNQZFBQTGducHFjZmhObVUzdnNBT0J3dEFoRVRYcENpal96eXIxREM0MHMtLVU1MlpXYkppaERNR3BFY1hPbjdQUU51Mk9qbmpYOGFYN3VkRXlFWHNVWVR2YUowTnBpYmtOQVJXZzhRXzNwU2xsSDJyc3Nn?oc=5
 
-- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
-  US May Remove 25% Penal Tariff On India After
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
+- No Visas For Indian Businesspersons, Family With Drug Trafficking Links: US - NDTV
+  No Visas For Indian Businesspersons,
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3I5ek5zS0dlX3lSclRab1lEQlFzSEYzRGp2Ulp5eFB2Z3A3eGZFMS1QYmJWOW9yWHo2VmdteFlRVUZsX3MzRjYyai1YdFI1R1JHS2FneUJvTDU3UlhTdmdqNUdMZWtGQlZQVHlPa29IcnliZWFuaGllVm1oRUZmR2JuMzJ1ZE5ubzh4MWR2OHFoUndTUXFQM1FrcEFCUFhuTFpNUFhnVGtjLVNyMW1QOWpB0gG6AUFVX3lxTE1tUEZvNG1uZGdjNzhkSm5fbG1vdHQwTFFla2doY3dBREE4WkExajQweFpHLUdkTWZodmVlWXR2bXlHNURxNnZzWHdxZmVFVXRaQkNkR1g1Rjd4TTFadTc1bkhvS25CTkpLdGdOTjZmQXlyWDM4MWlROFRrbUM4ZUZiMnhTbnYybm1xM2pOZUdWSHI1OEtZYVpQTDJfbjNNWGlIb1N3Y2RxbVN2WnFVd1NkQ1haeUlDZmw0Zw?oc=5
 
 - U.S. may ease India tariffs, India's chief economic adviser says - Reuters
-  U.S. may ease India tariffs
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1BGU0JpSlh0enZpSkk3b1dqUDFVSFlhcEFESzVqS05OUFpjQnlwRlpNc1pUa1o3Z1ViSG40aUw5UGRCZFBaaGVtMXpO?oc=5
 
-- "India Said It Is Bilateral Issue": Pak Minister On US Attempt At Mediation - NDTV
-  "India Said It Is Bilateral Issue": Pak Minister
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmNPQTV2dUROVHllbVBpVTZUVm5ZeUkxajdPcDRiNnNVekNZbHp1OXkyRkcxRk5OVElwQ25ucWZxZFF1RVZLdmtiR1lEQ0JBbmVrcDd3eHNNSTl3T3NscndjZnQ5QzloZlZfeW16Q3VlRjN5UF9JLWZhZUhfUXVLcnhPbDJoaVRQLXhPTVpPZHJxZ3V0SDlXWXhKNkdXUV9uV3lrdmtOOHMzd9IBsgFBVV95cUxOODV3T0Fyd0d4SHhoUWItVG5QWnFIZGdXZ0FnMFZSZXdtUHdsNkRxdEJMX3N6UVdoRGVrQUthMGNMV0RTb3VmczJSVGgxUjk4VldSX3R5LVB2VkR1QlpxUnFWSW9PWWVDNmVob0NfUmpLNE15WTZPdXdHS1M1dEg2YTItODRwU0JET1h3X3ZJbDF6b2l3TUJ0SHZOMVpMZW4yblh6SEZoRExBZFU1YU5XUXp3?oc=5
+- Ponguleti wonders whether KTR will be in India at all by next elections - The Hindu
+  Ponguleti wonders whether KTR will be in India
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOTZubWFWc0g3VnY5Zm1HTHc2N1Y3d0Q2MjdVbXgxM2thR0xGMjdFNmNuWmphUzliS3pZYTRTaFV1eGNPbXp2WHFKdDVORXdrZ1JnX0VoWGU0dzBHLW9hLWJHaElscnkyUi10YzY3TXIyeVF0U1I1YktMQzRwMDFWZV9Dc3B6NnE4b1ZyOUg3NXNnbEk0bUtWQzBtWl94MlVROWhaWkVOdXBCNTAzc1ZjVlh0WTRMM1owOGowZm0yaHlZQmQyb1NNX25IeUI1OGgtSzdCUHZjZ9IB3gFBVV95cUxNdHlIbUFickN2OFcwWGk3ZWJQbTJNT0pHZ1dDLXBoSUVDSkVic3VMWkYzaDdEbnhXQTcxUEZkaUJLYTlfNmdST28zNHhlQjFRdDM0T0V2aWswSG16ZFh1bVRnX1M0aTVLenlSSUx4d1Y0dTRtbWVGME41SXV3R0xYalVNR3VPa2pFT0duR1dFQW93VUJLMFRIdnhyaHBuU0RHSHdPQkRYRWlOUUF4bG1DU01faEtZazZWandISU9QbUFtNkxBaWl1Z19MczhoR291ZHJQRDVKeDVoM3lLdVE?oc=5
 
-- India rejected 3rd-party role to end conflict: Pakistan - Times of India
-  India rejected 3rd-party role to
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS1MVEFsdm11dGNyUzdvX1NuQkljeXdJeUJneGszdnpCdjdvWXM0cnRGYnlfNlJkc21MM1JaZmdDckdsejFfR0pRMTIwMnN6MlpiRGxEQlJNaFY0WmExNHp4U0phNjgxN2JRRXNQM3ByZ2ptdWZxYmY0Tng1REo5VDA2LU00SGJNdWUzLUV2WS0wb25zMS1hRjc5WjhKb3dNRi1YSEhYY0RhdXpBcjFHRFpIQ2hnb0laUFVYQmE4c9IBxAFBVV95cUxQLWxUOE1ianZwVkVCMEdmT201VE15Y2drSk5sUE9nSVZlY0o3Ul9rMks0SU16NjdkSGdJMEZxNVJFZHFpOEs4aE5TZ0VUVEtEYjc1YUN6WkZFSzVvSzZJLVVWV215UVRPSnpNVGRNZ1h4WU9Ld1hkamlNN1luUlFWdTRUZFBtVmNmZHRyOU91emkwcU50Q05HV19yS18wR1k1YU9yS3ZPNGZiSGhVRmdnc3JBdE42bkdaRm5nanJneXZob01W?oc=5
+- Adani Group Conclusively Vindicated: Mahesh Jethmalani On SEBI Clean Chit - NDTV
+  Adani Group Conclusively Vindicated
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXltUDJ6bkJvUl85ODQ5VW5kdkpobm1iSHAyYk4wTmVyYWRXTHZPRUUzcGhCdy01N1kxWU80UmhldFNZSnpyaVloVXprT0pscEtWdWdNbTl0cFRxSU5hQW1XV1dYWjFnRF92NlRVenZsM1dyS29qZ2hfcTk4by1hUEtGMmZGM013WlRlbTJCb2g0eHFDNmZ2bGdkbGkzM2ZHVHBRWXVrc2w0bnJISjBDSnln0gG6AUFVX3lxTFAxYUJ1RmFyal8yZHBqUXBobmxzQWplTXNhSHVfNjdUTDVBRTdzZElBUEhiS2g4cGxJTjNhWnNWWFpWMm1WMzNHa2ljd1U1Z1hSdk5PY0xVX2hjSnpIa2thVlVzOUJJd1lVc1JjaVo2YUNWaWxwNFF4ZVAtY2tkNklmWHFBZC1TbzYyc2FQdUJqYWludnB3R3p1YzhFWXJLYVNrSFNQUDAyNnViMWRfbWN3SmZ5a0E5YmI2UQ?oc=5
+
+- US revokes visas for Indian executives over fentanyl allegations - Al Jazeera
+  Al Jazeera reports that Indian officials have been
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGRLdDNVU2V4ano2QlViWkJHQWpwRVNVRUtYOUJtTTc5d0JTZFFSTkkxU0hiM3dMSk1mS2dwS3B5N2lieFpUbnpOY3lTVDBMaXc1Z050aXJON2xfUE4tc0FXUEp0QVlxMTBEZVZpSU1aTnRRSzZvZDg3NmRmRG0xMVRsLThoNkVnU1JySkpxT2pXNGdVMGxVWlplTkUzVlJJbFZvR1NPeFnSAa4BQVVfeXFMT01IZFdKc2tTd19DcU5RV05ld0tKRlJPRGlTclpDdl9lblp5b0lhQmdNRzNiS2xueE1pZkNQZFBQTGducHFjZmhObVUzdnNBT0J3dEFoRVRYcENpal96eXIxREM0MHMtLVU1MlpXYkppaERNR3BFY1hPbjdQUU51Mk9qbmpYOGFYN3VkRXlFWHNVWVR2YUowTnBpYmtOQVJXZzhRXzNwU2xsSDJyc3Nn?oc=5
+
+- No Visas For Indian Businesspersons, Family With Drug Trafficking Links: US - NDTV
+  No Visas For Indian Businesspersons,
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3I5ek5zS0dlX3lSclRab1lEQlFzSEYzRGp2Ulp5eFB2Z3A3eGZFMS1QYmJWOW9yWHo2VmdteFlRVUZsX3MzRjYyai1YdFI1R1JHS2FneUJvTDU3UlhTdmdqNUdMZWtGQlZQVHlPa29IcnliZWFuaGllVm1oRUZmR2JuMzJ1ZE5ubzh4MWR2OHFoUndTUXFQM1FrcEFCUFhuTFpNUFhnVGtjLVNyMW1QOWpB0gG6AUFVX3lxTE1tUEZvNG1uZGdjNzhkSm5fbG1vdHQwTFFla2doY3dBREE4WkExajQweFpHLUdkTWZodmVlWXR2bXlHNURxNnZzWHdxZmVFVXRaQkNkR1g1Rjd4TTFadTc1bkhvS25CTkpLdGdOTjZmQXlyWDM4MWlROFRrbUM4ZUZiMnhTbnYybm1xM2pOZUdWSHI1OEtZYVpQTDJfbjNNWGlIb1N3Y2RxbVN2WnFVd1NkQ1haeUlDZmw0Zw?oc=5
+
+- U.S. may ease India tariffs, India's chief economic adviser says - Reuters
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1BGU0JpSlh0enZpSkk3b1dqUDFVSFlhcEFESzVqS05OUFpjQnlwRlpNc1pUa1o3Z1ViSG40aUw5UGRCZFBaaGVtMXpO?oc=5
+
+- Ponguleti wonders whether KTR will be in India at all by next elections - The Hindu
+  Ponguleti wonders whether KTR will be in India
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOTZubWFWc0g3VnY5Zm1HTHc2N1Y3d0Q2MjdVbXgxM2thR0xGMjdFNmNuWmphUzliS3pZYTRTaFV1eGNPbXp2WHFKdDVORXdrZ1JnX0VoWGU0dzBHLW9hLWJHaElscnkyUi10YzY3TXIyeVF0U1I1YktMQzRwMDFWZV9Dc3B6NnE4b1ZyOUg3NXNnbEk0bUtWQzBtWl94MlVROWhaWkVOdXBCNTAzc1ZjVlh0WTRMM1owOGowZm0yaHlZQmQyb1NNX25IeUI1OGgtSzdCUHZjZ9IB3gFBVV95cUxNdHlIbUFickN2OFcwWGk3ZWJQbTJNT0pHZ1dDLXBoSUVDSkVic3VMWkYzaDdEbnhXQTcxUEZkaUJLYTlfNmdST28zNHhlQjFRdDM0T0V2aWswSG16ZFh1bVRnX1M0aTVLenlSSUx4d1Y0dTRtbWVGME41SXV3R0xYalVNR3VPa2pFT0duR1dFQW93VUJLMFRIdnhyaHBuU0RHSHdPQkRYRWlOUUF4bG1DU01faEtZazZWandISU9QbUFtNkxBaWl1Z19MczhoR291ZHJQRDVKeDVoM3lLdVE?oc=5
+
+- Adani Group Conclusively Vindicated: Mahesh Jethmalani On SEBI Clean Chit - NDTV
+  Adani Group Conclusively Vindicated
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXltUDJ6bkJvUl85ODQ5VW5kdkpobm1iSHAyYk4wTmVyYWRXTHZPRUUzcGhCdy01N1kxWU80UmhldFNZSnpyaVloVXprT0pscEtWdWdNbTl0cFRxSU5hQW1XV1dYWjFnRF92NlRVenZsM1dyS29qZ2hfcTk4by1hUEtGMmZGM013WlRlbTJCb2g0eHFDNmZ2bGdkbGkzM2ZHVHBRWXVrc2w0bnJISjBDSnln0gG6AUFVX3lxTFAxYUJ1RmFyal8yZHBqUXBobmxzQWplTXNhSHVfNjdUTDVBRTdzZElBUEhiS2g4cGxJTjNhWnNWWFpWMm1WMzNHa2ljd1U1Z1hSdk5PY0xVX2hjSnpIa2thVlVzOUJJd1lVc1JjaVo2YUNWaWxwNFF4ZVAtY2tkNklmWHFBZC1TbzYyc2FQdUJqYWludnB3R3p1YzhFWXJLYVNrSFNQUDAyNnViMWRfbWN3SmZ5a0E5YmI2UQ?oc=5
+
+- US revokes visas for Indian executives over fentanyl allegations - Al Jazeera
+  Al Jazeera reports that Indian officials have been
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGRLdDNVU2V4ano2QlViWkJHQWpwRVNVRUtYOUJtTTc5d0JTZFFSTkkxU0hiM3dMSk1mS2dwS3B5N2lieFpUbnpOY3lTVDBMaXc1Z050aXJON2xfUE4tc0FXUEp0QVlxMTBEZVZpSU1aTnRRSzZvZDg3NmRmRG0xMVRsLThoNkVnU1JySkpxT2pXNGdVMGxVWlplTkUzVlJJbFZvR1NPeFnSAa4BQVVfeXFMT01IZFdKc2tTd19DcU5RV05ld0tKRlJPRGlTclpDdl9lblp5b0lhQmdNRzNiS2xueE1pZkNQZFBQTGducHFjZmhObVUzdnNBT0J3dEFoRVRYcENpal96eXIxREM0MHMtLVU1MlpXYkppaERNR3BFY1hPbjdQUU51Mk9qbmpYOGFYN3VkRXlFWHNVWVR2YUowTnBpYmtOQVJXZzhRXzNwU2xsSDJyc3Nn?oc=5
+
+- No Visas For Indian Businesspersons, Family With Drug Trafficking Links: US - NDTV
+  No Visas For Indian Businesspersons,
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3I5ek5zS0dlX3lSclRab1lEQlFzSEYzRGp2Ulp5eFB2Z3A3eGZFMS1QYmJWOW9yWHo2VmdteFlRVUZsX3MzRjYyai1YdFI1R1JHS2FneUJvTDU3UlhTdmdqNUdMZWtGQlZQVHlPa29IcnliZWFuaGllVm1oRUZmR2JuMzJ1ZE5ubzh4MWR2OHFoUndTUXFQM1FrcEFCUFhuTFpNUFhnVGtjLVNyMW1QOWpB0gG6AUFVX3lxTE1tUEZvNG1uZGdjNzhkSm5fbG1vdHQwTFFla2doY3dBREE4WkExajQweFpHLUdkTWZodmVlWXR2bXlHNURxNnZzWHdxZmVFVXRaQkNkR1g1Rjd4TTFadTc1bkhvS25CTkpLdGdOTjZmQXlyWDM4MWlROFRrbUM4ZUZiMnhTbnYybm1xM2pOZUdWSHI1OEtZYVpQTDJfbjNNWGlIb1N3Y2RxbVN2WnFVd1NkQ1haeUlDZmw0Zw?oc=5
+
+- U.S. may ease India tariffs, India's chief economic adviser says - Reuters
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1BGU0JpSlh0enZpSkk3b1dqUDFVSFlhcEFESzVqS05OUFpjQnlwRlpNc1pUa1o3Z1ViSG40aUw5UGRCZFBaaGVtMXpO?oc=5
+
+- Ponguleti wonders whether KTR will be in India at all by next elections - The Hindu
+  Ponguleti wonders whether KTR will be in India
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOTZubWFWc0g3VnY5Zm1HTHc2N1Y3d0Q2MjdVbXgxM2thR0xGMjdFNmNuWmphUzliS3pZYTRTaFV1eGNPbXp2WHFKdDVORXdrZ1JnX0VoWGU0dzBHLW9hLWJHaElscnkyUi10YzY3TXIyeVF0U1I1YktMQzRwMDFWZV9Dc3B6NnE4b1ZyOUg3NXNnbEk0bUtWQzBtWl94MlVROWhaWkVOdXBCNTAzc1ZjVlh0WTRMM1owOGowZm0yaHlZQmQyb1NNX25IeUI1OGgtSzdCUHZjZ9IB3gFBVV95cUxNdHlIbUFickN2OFcwWGk3ZWJQbTJNT0pHZ1dDLXBoSUVDSkVic3VMWkYzaDdEbnhXQTcxUEZkaUJLYTlfNmdST28zNHhlQjFRdDM0T0V2aWswSG16ZFh1bVRnX1M0aTVLenlSSUx4d1Y0dTRtbWVGME41SXV3R0xYalVNR3VPa2pFT0duR1dFQW93VUJLMFRIdnhyaHBuU0RHSHdPQkRYRWlOUUF4bG1DU01faEtZazZWandISU9QbUFtNkxBaWl1Z19MczhoR291ZHJQRDVKeDVoM3lLdVE?oc=5
+
+- Adani Group Conclusively Vindicated: Mahesh Jethmalani On SEBI Clean Chit - NDTV
+  Adani Group Conclusively Vindicated
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXltUDJ6bkJvUl85ODQ5VW5kdkpobm1iSHAyYk4wTmVyYWRXTHZPRUUzcGhCdy01N1kxWU80UmhldFNZSnpyaVloVXprT0pscEtWdWdNbTl0cFRxSU5hQW1XV1dYWjFnRF92NlRVenZsM1dyS29qZ2hfcTk4by1hUEtGMmZGM013WlRlbTJCb2g0eHFDNmZ2bGdkbGkzM2ZHVHBRWXVrc2w0bnJISjBDSnln0gG6AUFVX3lxTFAxYUJ1RmFyal8yZHBqUXBobmxzQWplTXNhSHVfNjdUTDVBRTdzZElBUEhiS2g4cGxJTjNhWnNWWFpWMm1WMzNHa2ljd1U1Z1hSdk5PY0xVX2hjSnpIa2thVlVzOUJJd1lVc1JjaVo2YUNWaWxwNFF4ZVAtY2tkNklmWHFBZC1TbzYyc2FQdUJqYWludnB3R3p1YzhFWXJLYVNrSFNQUDAyNnViMWRfbWN3SmZ5a0E5YmI2UQ?oc=5
+
+- US revokes visas for Indian executives over fentanyl allegations - Al Jazeera
+  Al Jazeera reports that Indian officials have been
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGRLdDNVU2V4ano2QlViWkJHQWpwRVNVRUtYOUJtTTc5d0JTZFFSTkkxU0hiM3dMSk1mS2dwS3B5N2lieFpUbnpOY3lTVDBMaXc1Z050aXJON2xfUE4tc0FXUEp0QVlxMTBEZVZpSU1aTnRRSzZvZDg3NmRmRG0xMVRsLThoNkVnU1JySkpxT2pXNGdVMGxVWlplTkUzVlJJbFZvR1NPeFnSAa4BQVVfeXFMT01IZFdKc2tTd19DcU5RV05ld0tKRlJPRGlTclpDdl9lblp5b0lhQmdNRzNiS2xueE1pZkNQZFBQTGducHFjZmhObVUzdnNBT0J3dEFoRVRYcENpal96eXIxREM0MHMtLVU1MlpXYkppaERNR3BFY1hPbjdQUU51Mk9qbmpYOGFYN3VkRXlFWHNVWVR2YUowTnBpYmtOQVJXZzhRXzNwU2xsSDJyc3Nn?oc=5
+
+- No Visas For Indian Businesspersons, Family With Drug Trafficking Links: US - NDTV
+  No Visas For Indian Businesspersons,
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3I5ek5zS0dlX3lSclRab1lEQlFzSEYzRGp2Ulp5eFB2Z3A3eGZFMS1QYmJWOW9yWHo2VmdteFlRVUZsX3MzRjYyai1YdFI1R1JHS2FneUJvTDU3UlhTdmdqNUdMZWtGQlZQVHlPa29IcnliZWFuaGllVm1oRUZmR2JuMzJ1ZE5ubzh4MWR2OHFoUndTUXFQM1FrcEFCUFhuTFpNUFhnVGtjLVNyMW1QOWpB0gG6AUFVX3lxTE1tUEZvNG1uZGdjNzhkSm5fbG1vdHQwTFFla2doY3dBREE4WkExajQweFpHLUdkTWZodmVlWXR2bXlHNURxNnZzWHdxZmVFVXRaQkNkR1g1Rjd4TTFadTc1bkhvS25CTkpLdGdOTjZmQXlyWDM4MWlROFRrbUM4ZUZiMnhTbnYybm1xM2pOZUdWSHI1OEtZYVpQTDJfbjNNWGlIb1N3Y2RxbVN2WnFVd1NkQ1haeUlDZmw0Zw?oc=5
+
+- What is new in UK-US tech deal and what will it mean for the British economy? - The Guardian
+  The Guardian reports on the UK-U.S. tech deal
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQSzk4V1RnRS1pbGQwbHp5T3ltX0pNYlo5dDdYdVRYcXdmektYdWNrRzh1VlpwWVFOWVMtTkRPU2JkQkRWOEtGUFJlRzFjX3hwMl95TjlxdHRzenFaMnRNSkkyUlpjMk9EcGE4LTlmblRJVHgtbXBLMDJmME0tamVxS1QwWXB5ZGdacEg3NldtbjJQc2xQeGFvcDhkOWNUVnpjbkNfbnItR2pKdm5fdS1peGg0SFhNZw?oc=5
+
+- Nokia announces changes to its leadership team and the creation of Technology and AI and Corporate Development Organizations - Nokia
+  Nokia announces changes to its leadership team and the creation of Technology and AI and
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxObks0dktNaE54d01sUkw3QkJNbkd1dzZIc3h0RXJLb2ZVS3plTVkzQlhsUkdXUG5qa3lpTHNLZnNFeXZqSk0zRUZRRFlrRDN6TEVHYnB6X3ZUenN1RnM0c0k4bElTYmJpSUpKbG9GUnRwY2pST0YzSURaWkxYRmQtaVF4QjF4eWdqUVk1ZXo1NDNjQVFsUVpaeHREZDlZYkk4QWN0dHB5UkR0RnBtelY0NF9NczF4NU1Hb0hiOUJnZkJOM1JIM29KaURWNndMakIydFJCcWs3Q2FJOEVhd012eVk4N19QUlp4NkNISA?oc=5
+
+- A future-ready disaster management in the Himalaya requires a massive technology scale-up - The Indian Express
+  A future-ready disaster management in the Himalaya requires a
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxONXdEMGxLS2hiN0RSM2pIc1lvcGxrZC1WMUVWMDlzMTlTQzVlcmd1NXBWVnRuZ09oUUhxVHJyZTFDVkdXa3Fub2RCemFJNGtLdndiTEsxNXR2cUtzOVJ3SmtvN01RS2N0aC01WXE1US1qWUxpOHFSSy1IaWh5RzlDUzhUUTFiZzZnS3J6VXkybW80ZUJfOHNMV2ZpeWxqajgtOEJGdkQ3eHhxc0RNQmd6akx6dGtfMFl1Tl9ycTZB0gHEAUFVX3lxTE9qeWgyWFI1dW9aU21FLXBjbHNYZFdZcFF5aFlQTUpxSkcxS0dBWTJ2bm52UFR4MTY2X2R3SUdYMkhkM1Q2QW5WZ0U2RG1UVkQ2YW1oMjdTUThUSkV3LWdFYTBxdlc5MS1LSzZFNUZGMXh6cDdxWEpmSTRCWHg0YkRJUmNreFdKN1phbzVCMHh3OXdrVl90RVJtS1ZoWWJIZUNTWVRHWkNXeHh1MDRFelpQZFRTbENpRDY4VURNUi02amhxOG8?oc=5
+
+- China's DeepSeek that 'shocked' America and US technology companies reveals actual cost of training AI mo - The Times of India
+  China's DeepSeek that 'shocked' America and US technology companies reveals actual
+  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxPRERsczF1OVVBNDZ5dnR3REVTTjA3UERpV1J2TDFEZkc1cUs1bXFjcWVIS0k4RjkweFo2YWhMNlNfekV3TndMbWtuRzdYVjcxd3VlYjFHSTE2eWxDRTg1Q3BLX205cEhtSjVsNnBEX2YxOFVZb3ltOHNxVEpoRWdrcUhoNGhNR01DdWRHU2ZWeXN5MUFCcFFKYnhIdXhlUGNKUk5EMmNBUW5yWDlyTVlqUXFvaGJNWVdkX0E5NklzRmZLc2NqLXIxek16TXZaVnptRS05U2laSkduODFxbWgtSjlWR0hMcUxhOGlKRUpRN1pFdFNpSWVVb2R6UnVUaUxBV0NsRGcxOVJ6cHFGejNZOTFnVUMwdWvSAZwCQVVfeXFMT0Q5U0FlN3lXZ01IMWlVV2c5T29jdThRR1NQUU51MHIxV3hTcDhWd0NGZXVyLUJWRFlEbWRtcjFoNUhCNWRHMWVkU0ZGZWx6ajZPb0NBZTB5aDg0TXk2aWZ2T1lDUUJFTG9WREEyVTNESUUya1ZJWDRITE1RVFc3N18yeFJIR3Q1SnNGQVZ4LXRzWTRCb2dHalRDSmozTkV3VXZQaFZDd1dmd3NuYVBXd0EwWnVsSmRVTUdWeWdoeUFFTVF0M3ZpYlR6R1BWMy1qb3dxSlROWXBIYmpucWhfeWxQR1I0cFduVm05MTBNU1JwSkp4ZVRXZnpJd1dYLTdZUGRQWi1iaWxuZ19jeC1hdjE4dXpKVllmWWVFb2I?oc=5
+
+- India looks at technology collaborations with US, Norway others in geothermal space: MNRE Secy - Mint
+  India looks at technology collaborations with US, Norway others in ge
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaDA5WmdIc216ZjVwQVM5UVl6OFhDOE9fN0NrMUlubTlKNG9ac094VF85VXB0XzA2MzBlc2NlbnMzN0VRMHc1SDREVTNfS1JEdFhYbU42RmM1cFpYY0h0Ukx2M1N2aHFJX29JSDIxUUlST0pEWGVhR3VwQUdZSV9rNE5ZaUZ6cGRlbVduLVJRVmN2eHkwRWJFdzU0NXowdmNhRU1WcDhVSWYxbTUwRk5jUDF2akhzb3lxQjRtOWhtSHJ5Qk94dTRmQXc2QTZfMkhJZ244QlBXdHBCZy1RaWFmUC1tTkliZzdrREVGZkJ6TdIB9AFBVV95cUxNWHU4UC1ScURMQUtoYkc2M0draU9heDk5cHZ6MzNQMk9XMGFHTFJjYjZkbXN1YzRzVnJRWENxU1hHb3FIdkxkcnVQMFpkSVRvcTN5N3RmMV82bkpibnJmSmczT280VDVQSGMxZXRwVFVrS0RIMjY2SVlWNUhCbGx3bFE1NHlHSDZ2VERzRk5rT0d2aUZXZGoxSXk0eTVENGY1NVpGZGZra3ZfM0ZkeFE3ZTBqVlk3aFFRSHNXbjdhZHNrNU55aDhoZUI4XzhVUU9JYXhaNFFwc0ZCSTM1a3ZPOVhMN2ZQT3VXNF82NTk3NFdfN2ZL?oc=5
 
 
-_Last updated: 2025-09-18 12:33:34 UTC_
+_Last updated: 2025-09-18 18:26:25 UTC_
