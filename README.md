@@ -1,232 +1,184 @@
 # 📰 Daily News Summaries
 
-- Gold Today Rate, September 18: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- Senior advocate withdraws from defending detained AAP MLA Mehraj Malik: ‘His utterances are…’
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-september-18-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10256618/
+  🔗 https://indianexpress.com/article/india/aap-mla-mehraj-malik-detained-advocate-withdraws-10257649/
 
-- At least 12 people missing as buildings collapse in heavy rain in Uttarakhand’s Chamoli, rescue ops underway
+- US revoked visas of Indian business executives over link to fentanyl trade: Embassy
   
-  🔗 https://indianexpress.com/article/india/uttarakhand-rains-chamoli-rescue-ops-buildings-collapse-10256880/
+  🔗 https://indianexpress.com/article/india/us-revoked-visas-indian-business-executives-link-fentanyl-trade-10257620/
 
-- How hunt for missing Odisha woman cop led to hidden marriage, buried body
+- Vaishno Devi pilgrimage, suspended after landslide killed 34, resumes in J&K
   
-  🔗 https://indianexpress.com/article/india/how-hunt-for-missing-odisha-woman-cop-led-to-hidden-marriage-buried-body-10256380/
+  🔗 https://indianexpress.com/article/india/vaishno-devi-pilgrimage-suspended-after-landslide-killed-34-resumes-in-jk-10257340/
 
-- Rahul Gandhi Press Conference Live Updates: ‘CEC is protecting people who have destroyed Indian democracy’, claims Congress leader
+- ‘I respect all religions’: CJI Gavai on critical social media posts over his comments in Khajuraho case
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-press-conference-live-updates-congress-vote-chori-10256775/
+  🔗 https://indianexpress.com/article/india/cji-gavai-critical-social-media-posts-khajuraho-case-10257543/
 
-- India reacts to Saudi Arabia-Pakistan defence pact: ‘Will study implications, committed to protecting national interests’
+- ‘Trying to create situation like Bangladesh, Nepal’: BJP hits back at Rahul Gandhi with ‘infiltrator-first politics’ jibe
   
-  🔗 https://indianexpress.com/article/india/india-reacts-saudi-arabia-pakistan-defence-pact-study-implications-national-interests-10256843/
+  🔗 https://indianexpress.com/article/india/trying-create-situation-bangladesh-nepal-bjp-hits-back-rahul-gandhi-infiltrator-first-politics-jibe-10257485/
+
+- Ray-Ban Meta Gen 2 vs Oakley Meta Vanguard: Specs and features at a glance
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ray-ban-meta-gen-2-vs-oakley-meta-vanguard-specs-and-features-at-a-glance-10257345/
+
+- Lumio announces Great Indian Festival deals on Vision Smart TV and Vision Arc
+  
+  🔗 https://indianexpress.com/article/technology/lumio-announces-great-indian-festival-deals-on-vision-smart-tv-and-vision-arc-10257341/
+
+- One UI 8 release schedule revealed: Is your Samsung phone and tablet on the list?
+  
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-one-ui-8-update-release-schedule-galaxy-s-a-series-tab-10256956/
+
+- Nothing to roll out Nothing OS 4.0: A look at the Android 16-based update, features, and more
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/nothing-to-roll-out-nothing-os-4-0-a-look-at-the-android-16-based-update-features-and-more-10257114/
 
 - Google Discover now shows Instagram posts, YouTube Shorts and more on your feed
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/google-discover-instagram-youtube-shorts-x-posts-follow-button-10256757/
 
-- Italy enacts AI law covering privacy, oversight and child access
+- Nvidia to invest $5 billion in Intel for AI infrastructure and PCs
+  N Nvidia to invest $5 billion in Intel; companies
+  🔗 https://www.livemint.com/companies/news/nvidia-to-invest-5-billion-in-intel-for-ai-infrastructure-and-pcs-11758196573246.html
+
+- Why don’t independent directors call out red flags when they quit?
+  Most independent directors offer inadequate explanations in their resignation letters. Only 22 of them cited red flags while resigning in
+  🔗 https://www.livemint.com/companies/people/corporate-governance-issues-irregularities-independent-directors-disagreements-with-management-resignations-krbl-gensol-11758107231577.html
+
+- Weaker Rules Give US Banks Edge, Deutsche Bank CFO Says
+  Deutsche Bank AG warned that a broad rollback of financial regulations in the US will give
+  🔗 https://www.livemint.com/companies/news/weaker-rules-give-us-banks-edge-deutsche-bank-cfo-says-11758189961741.html
+
+- Deutsche Bank Sees Higher Than Expected Bond Trading Revenue
+  Deutsche Bank AG is on track to report higher revenue from trading fixed income and currencies in the third quarter. Chief Financial Officer James von
+  🔗 https://www.livemint.com/companies/company-results/deutsche-bank-sees-higher-than-expected-bond-trading-revenue-11758188144595.html
+
+- Online Gaming Bill fallout: Gameskraft axes 120 jobs, says regulations ‘left us with no choice’
+  Bengaluru-based online gaming firm Gamescraft said in a statement
+  🔗 https://www.livemint.com/companies/news/online-gaming-bill-fallout-gameskraft-axes-120-jobs-says-regulations-left-us-with-no-choice-11758185350819.html
+
+- US Fed starts easing path, other major central banks on hold
+  US Fed starts easing path, other
+  🔗 https://www.livemint.com/market/stock-market-news/us-fed-starts-easing-path-other-major-central-banks-on-hold-11758197704865.html
+
+- Euro Pratik Sales IPO sees 1.34 times bids at the end of third and final day. Check GMP and other details
+  Euro Pratik Sales IPO concluded with 1.34 times bids. Allotment is expected on September 19, while listing occurs on September 23.
+  🔗 https://www.livemint.com/market/ipo/euro-pratik-sales-ipo-sees-1-34-bids-at-the-end-of-third-and-final-day-check-gmp-and-other-details-11758196406908.html
+
+- Gold vs sovereign gold bond vs gold ETF: Which is better after US Fed rate cut? Explained
+  Gold prices retracted from all-time highs following the US Fed rate cut. However, with many modes of investment in gold available, analysts highlight the best mode.
+  🔗 https://www.livemint.com/market/commodities/gold-bond-vs-sovereign-gold-bond-which-is-better-after-us-fed-rate-cut-explained-11758195797083.html
+
+- Indian, Japanese firms lead corporate turnarounds
+  In a world where corporate earnings are under pressure, Indian companies
+  🔗 https://www.livemint.com/market/indian-japanese-firms-corporate-china-turnarounds-it-us-investors-infra-auto-healthcare-capital-goods-construction-11758191709201.html
+
+- Will US Fed rate cut drive FIIs back to the Indian stock market?
+   speculations have risen that this will attract foreign institutional investors back to the Indian stock market. The US Federal Reserve has hinted at additional rate cuts.
+  🔗 https://www.livemint.com/market/stock-market-news/will-us-fed-rate-cut-drive-fiis-back-to-the-indian-stock-market-11758191700971.html
+
+- Meta Ray-Ban 2nd Gen glasses launched: 5 big upgrades you need to know
+  The new Ray-Ban (2nd Gen) glasses from Meta offer improved video quality, longer battery life, and features like Conversation focus and live translation. Priced at $379, they come
+  🔗 https://www.livemint.com/technology/tech-news/meta-ray-ban-2nd-gen-glasses-launched-5-big-upgrades-you-need-to-know-11758194955790.html
+
+- Meta AI glasses launch marred by multiple demo failures, Mark Zuckerberg left red-faced: ‘I don’t know what happened’
+  The launch of Meta Ray Ban glasses was overshadowed by technical failures. CEO Mark Zuckerberg blamed connectivity issues for the mishaps.
+  🔗 https://www.livemint.com/technology/tech-news/meta-ai-glasses-launch-marred-by-multiple-demo-failures-mark-zuckerberg-left-red-faced-i-don-t-know-what-happened-11758189979967.html
+
+- OnePlus announces offers for upcoming festive days: OnePlus 13, OnePus 13s, OnePlus Pad Go and more discounted
+  OnePlus announces festive offers starting September 22. Offers extend to tablets and earphones across various retailers. The OnePlus 13 will sell for  ₹57,749
+  🔗 https://www.livemint.com/technology/tech-news/oneplus-announces-offers-for-upcoming-festive-days-oneplus-13-onepus-13s-oneplus-pad-go-and-more-discounted-11758185918598.html
+
+- Retro red saree AI pictures: Transform your selfie into Bollywood style with these simple prompts
+  A new AI trend lets users turn selfies into vintage Bollywood-style posters. Google Gemini’s
+  🔗 https://www.livemint.com/technology/retro-red-saree-ai-picture-couple-selfie-bollywood-style-gemini-prompts-11758184231192.html
+
+- Having trouble with Apple software? Be aware of 5 drawbacks of newly launched iOS 26
+  Apple's new iOS 26 updates have led to user complaints about faster battery drainage due to the new update, keyboard misalignment,
+  🔗 https://www.livemint.com/technology/tech-news/ios-26-newly-launched-software-trouble-5-drawbacks-technology-india-sale-sept-19-apple-watch-iphone-17-air-pro-pro-max-11758184017180.html
+
+- Smallcap multibagger defence stock surges 20% after Rs 95-crore BrahMos order win
+  Jaykay Enterprises surged 20% after subsidiary Allen Reinforced Plastics secured a Rs 94.45 crore order from BrahMos Aerospace. The diversified group also advanced in healthcare with a CSIO technology transfer for 3
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/smallcap-multibagger-defence-stock-surges-20-after-rs-95-crore-brahmos-order-win/articleshow/123976024.cms
+
+- Wall Street poised to open at record levels following the Fed's first rate cut of 2025
+  Wall Street poised to open at record highs Thursday following the Federal Reserve's first interest rate cut in
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/wall-street-poised-to-open-at-record-levels-following-the-feds-first-rate-cut-of-2025/articleshow/123975817.cms
+
+- Gainers &amp; Losers: Poonawalla Fincorp, Dev Accelerator, and Biocon among 7 major movers on Thursday. Here’s why
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/italy-enacts-ai-law-covering-privacy-oversight-and-child-access-10256906/
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-losers-poonawalla-fincorp-dev-accelerator-and-biocon-among-7-major-movers-on-thursday-heres-why/slideshow/123975510.cms
 
-- Amazon violated online shopper protection law, US judge rules ahead of Prime signup trial
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-violated-online-shopper-protection-law-us-judge-rules-ahead-of-prime-signup-trial-10256894/
+- Banking, old sectors ‘cheap but risky,’ new-age companies offer better returns: Ajay Srivastava
+  Growth, differentiation, and tech-driven businesses are key for long-term alpha creation. Ajay Srivastava highlights opportunities in autos, engineering, healthcare, and new-age firms.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/banking-old-sectors-cheap-but-risky-new-age-companies-offer-better-returns-ajay-srivastava/articleshow/123974603.cms
 
-- Moody’s flags risk in Oracle’s $300 billion of recently signed AI contracts
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/moodys-flags-risk-in-oracles-300-billion-of-recently-signed-ai-contracts-10256883/
+- Bank of England holds main UK interest rate at 4% with inflation above target
+  The Bank of England maintains interest rates at 4%. Inflation in the UK remains almost double the target. Another rate cut is possible in November.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bank-of-england-holds-main-uk-interest-rate-at-4-with-inflation-above-target/articleshow/123974308.cms
 
-- Huawei unveils chipmaking, computing power plans for the first time
-  
-  🔗 https://indianexpress.com/article/technology/huawei-unveils-chipmaking-computing-power-plans-for-the-first-time-10256817/
+- Trump's 25% penal tariff on India may be withdrawn after November: Chief Economic Adviser | Latest News India - Hindustan Times
+  Trump's 25% penal tariff on India may be withdrawn after November: Chief Economic Adviser
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxObUp0cFF4MEp3NzZyNkppamV6QkROWVZ2V0RYYmxBSjBQbjdzbnZfSXkxNTVUOU5BTjdpUm14dElVbmtXUFloS2FmVDl1dDlXYW5mTUZka1hjbVl3SnpRWm05cExPcnJtT05OZm9ZVU9ZTkVUN19IM0o4dlFfaXloVDVCVy1ha1V0XzMyN0NtTWlaUWdtWXlPMjhNRVVMdmRGWk9lTURtRXRxelltSlZib3B0MGtpV3k3Z0xHTjdQeG9KVUZtUHEzSkc3SVAwTXNGSlRJVWU2RUFJeWZxV0IzUHF6WGpOSnk3RXlTYmd5aEdYT1ZIMUxSMHpaUnhfd9IBgwJBVV95cUxOSnJuTTd4X1kyZnJCeXUtX01ORlg5SXdhTHEtZlJ3UndpeFJ4NTlCZXFIaTBlbjE3T2dqVGFjY0JzQ3dmVXVkTlVNeHMxaGxuV0V4NzhmZTE5bkg3WmVMWFBYTUlsQ0xoSTFjdlVYOHlXeHJNeDBSdHFDTkFRZHpVaHJCU3NhYktSdWVGa1d2SHlFT1ZHQ21pNWRndGxMOXg5X0RyRUp0RUZRazdlTWpJWk9pcnJ1LWxrVEE5cC1NUjM3U0ZzOHcwYm5ydGNrRXBYQ3pmWXlpVWdVNnZGcVVCOWk3Z2JGY19ub00ta0NmQ2RLeWxyX3o2aV9xeFpzdW5YZDAw?oc=5
 
-- In five years, independent directors' fees have doubled. This is how.
-  Strong profit growth, more board meetings, regulatory mandates, global benchmarking and a push for better governance are
-  🔗 https://www.livemint.com/companies/average-pay-of-independent-directors-doubles-over-five-years-in-nifty50-companies-11758105041840.html
+- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
+  US May Remove 25% Penal Tariff On India After
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
 
-- Veritas-Backed Anthology Mulls Creditor Takeover via Bankruptcy
-  Anthology Inc. is laying the groundwork for a potential Chapter 11 bankruptcy. Some secured lenders would take control of the troubled education-software
-  🔗 https://www.livemint.com/companies/news/veritasbacked-anthology-mulls-creditor-takeover-via-bankruptcy-11758154052261.html
+- U.S. may ease India tariffs, India's chief economic adviser says - Reuters
+  U.S. may ease India tariffs
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1BGU0JpSlh0enZpSkk3b1dqUDFVSFlhcEFESzVqS05OUFpjQnlwRlpNc1pUa1o3Z1ViSG40aUw5UGRCZFBaaGVtMXpO?oc=5
 
-- A House of Cards: How a web of deceit undid unicorn Gameskraft
-  The situation has drawn parallels to the Satyam scandal, highlighting governance failures and audit deficiencies as independent directors resign. Gameskraft Technologies faces serious allegations of financial
-  🔗 https://www.livemint.com/companies/gameskraft-fraud-case-ramesh-prabhu-scam-financial-audit-failure-real-money-gaming-ban-india-11758116339702.html
+- "India Said It Is Bilateral Issue": Pak Minister On US Attempt At Mediation - NDTV
+  "India Said It Is Bilateral Issue": Pak Minister
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmNPQTV2dUROVHllbVBpVTZUVm5ZeUkxajdPcDRiNnNVekNZbHp1OXkyRkcxRk5OVElwQ25ucWZxZFF1RVZLdmtiR1lEQ0JBbmVrcDd3eHNNSTl3T3NscndjZnQ5QzloZlZfeW16Q3VlRjN5UF9JLWZhZUhfUXVLcnhPbDJoaVRQLXhPTVpPZHJxZ3V0SDlXWXhKNkdXUV9uV3lrdmtOOHMzd9IBsgFBVV95cUxOODV3T0Fyd0d4SHhoUWItVG5QWnFIZGdXZ0FnMFZSZXdtUHdsNkRxdEJMX3N6UVdoRGVrQUthMGNMV0RTb3VmczJSVGgxUjk4VldSX3R5LVB2VkR1QlpxUnFWSW9PWWVDNmVob0NfUmpLNE15WTZPdXdHS1M1dEg2YTItODRwU0JET1h3X3ZJbDF6b2l3TUJ0SHZOMVpMZW4yblh6SEZoRExBZFU1YU5XUXp3?oc=5
 
-- FDA proposes ban on Orange B, a food dye not used for decades
-  FDA proposes ban on Orange B,
-  🔗 https://www.livemint.com/companies/news/fda-proposes-ban-on-orange-b-a-food-dye-not-used-for-decades-11758131041000.html
+- India rejected 3rd-party role to end conflict: Pakistan - Times of India
+  India rejected 3rd-party role to
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS1MVEFsdm11dGNyUzdvX1NuQkljeXdJeUJneGszdnpCdjdvWXM0cnRGYnlfNlJkc21MM1JaZmdDckdsejFfR0pRMTIwMnN6MlpiRGxEQlJNaFY0WmExNHp4U0phNjgxN2JRRXNQM3ByZ2ptdWZxYmY0Tng1REo5VDA2LU00SGJNdWUzLUV2WS0wb25zMS1hRjc5WjhKb3dNRi1YSEhYY0RhdXpBcjFHRFpIQ2hnb0laUFVYQmE4c9IBxAFBVV95cUxQLWxUOE1ianZwVkVCMEdmT201VE15Y2drSk5sUE9nSVZlY0o3Ul9rMks0SU16NjdkSGdJMEZxNVJFZHFpOEs4aE5TZ0VUVEtEYjc1YUN6WkZFSzVvSzZJLVVWV215UVRPSnpNVGRNZ1h4WU9Ld1hkamlNN1luUlFWdTRUZFBtVmNmZHRyOU91emkwcU50Q05HV19yS18wR1k1YU9yS3ZPNGZiSGhVRmdnc3JBdE42bkdaRm5nanJneXZob01W?oc=5
 
-- Rick Rieder Overhauls BlackRock Bond Team as HPS Clout Grows
-  BlackRock Inc. is revamping its massive fixed-income division around new investment strategies and artificial intelligence. The unit’s leveraged finance
-  🔗 https://www.livemint.com/companies/news/rick-rieder-overhauls-blackrock-bond-team-as-hps-clout-grows-11758129407592.html
+- Trump's 25% penal tariff on India may be withdrawn after November: Chief Economic Adviser | Latest News India - Hindustan Times
+  Trump's 25% penal tariff on India may be withdrawn after November: Chief Economic Adviser
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxObUp0cFF4MEp3NzZyNkppamV6QkROWVZ2V0RYYmxBSjBQbjdzbnZfSXkxNTVUOU5BTjdpUm14dElVbmtXUFloS2FmVDl1dDlXYW5mTUZka1hjbVl3SnpRWm05cExPcnJtT05OZm9ZVU9ZTkVUN19IM0o4dlFfaXloVDVCVy1ha1V0XzMyN0NtTWlaUWdtWXlPMjhNRVVMdmRGWk9lTURtRXRxelltSlZib3B0MGtpV3k3Z0xHTjdQeG9KVUZtUHEzSkc3SVAwTXNGSlRJVWU2RUFJeWZxV0IzUHF6WGpOSnk3RXlTYmd5aEdYT1ZIMUxSMHpaUnhfd9IBgwJBVV95cUxOSnJuTTd4X1kyZnJCeXUtX01ORlg5SXdhTHEtZlJ3UndpeFJ4NTlCZXFIaTBlbjE3T2dqVGFjY0JzQ3dmVXVkTlVNeHMxaGxuV0V4NzhmZTE5bkg3WmVMWFBYTUlsQ0xoSTFjdlVYOHlXeHJNeDBSdHFDTkFRZHpVaHJCU3NhYktSdWVGa1d2SHlFT1ZHQ21pNWRndGxMOXg5X0RyRUp0RUZRazdlTWpJWk9pcnJ1LWxrVEE5cC1NUjM3U0ZzOHcwYm5ydGNrRXBYQ3pmWXlpVWdVNnZGcVVCOWk3Z2JGY19ub00ta0NmQ2RLeWxyX3o2aV9xeFpzdW5YZDAw?oc=5
 
-- Cochin Shipyard share price rises 2% after winning  ₹200 crore contract from ONGC
-  Cochin Shipyard shares have given significant returns to both its long-term and short-term investors. The stock has given whopping 44 per cent returns in six months
-  🔗 https://www.livemint.com/market/stock-market-news/cochin-shipyard-share-price-rises-2-after-winning-200-crore-contract-from-ongc-11758173878190.html
+- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
+  US May Remove 25% Penal Tariff On India After
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
 
-- Pakistan stock market: KSE-100 index jumps nearly 1% amid Pakistan-Saudi Arabia defence deal, up 96% in a year
-  September marks the fifth consecutive month of gains for the KSE 100 index. It comes on the back of a nearly 7% rise seen in August.
-  🔗 https://www.livemint.com/market/stock-market-news/pakistan-stock-market-kse-100-index-jumps-nearly-1-amid-pakistan-saudi-arabia-defence-deal-up-96-in-a-year-11758174409328.html
+- U.S. may ease India tariffs, India's chief economic adviser says - Reuters
+  U.S. may ease India tariffs
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1BGU0JpSlh0enZpSkk3b1dqUDFVSFlhcEFESzVqS05OUFpjQnlwRlpNc1pUa1o3Z1ViSG40aUw5UGRCZFBaaGVtMXpO?oc=5
 
-- Multibagger stock that has turned  ₹1 lakh to  ₹1.32 crore in one year hits upper circuit
-  The tobacco firm's stock surged 1606.85% year-to-date and 16757.14% over three
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-stock-that-has-turned-rs-1-lakh-to-rs-1-32-crore-in-one-year-hits-upper-circuit-11758171738218.html
+- "India Said It Is Bilateral Issue": Pak Minister On US Attempt At Mediation - NDTV
+  "India Said It Is Bilateral Issue": Pak Minister
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmNPQTV2dUROVHllbVBpVTZUVm5ZeUkxajdPcDRiNnNVekNZbHp1OXkyRkcxRk5OVElwQ25ucWZxZFF1RVZLdmtiR1lEQ0JBbmVrcDd3eHNNSTl3T3NscndjZnQ5QzloZlZfeW16Q3VlRjN5UF9JLWZhZUhfUXVLcnhPbDJoaVRQLXhPTVpPZHJxZ3V0SDlXWXhKNkdXUV9uV3lrdmtOOHMzd9IBsgFBVV95cUxOODV3T0Fyd0d4SHhoUWItVG5QWnFIZGdXZ0FnMFZSZXdtUHdsNkRxdEJMX3N6UVdoRGVrQUthMGNMV0RTb3VmczJSVGgxUjk4VldSX3R5LVB2VkR1QlpxUnFWSW9PWWVDNmVob0NfUmpLNE15WTZPdXdHS1M1dEg2YTItODRwU0JET1h3X3ZJbDF6b2l3TUJ0SHZOMVpMZW4yblh6SEZoRExBZFU1YU5XUXp3?oc=5
 
-- Bitcoin rises above $1,18,000 after US Fed rate cut. Can it move past $1,20,000 in near term?
-  Bitcoin gained marginally up to rise above $1,18,000 mark on Thursday, September 18. US
-  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-rises-above-1-18-000-after-us-fed-rate-cut-can-it-move-past-1-20-000-in-nearterm-11758169818098.html
+- India rejected 3rd-party role to end conflict: Pakistan - Times of India
+  India rejected 3rd-party role to
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS1MVEFsdm11dGNyUzdvX1NuQkljeXdJeUJneGszdnpCdjdvWXM0cnRGYnlfNlJkc21MM1JaZmdDckdsejFfR0pRMTIwMnN6MlpiRGxEQlJNaFY0WmExNHp4U0phNjgxN2JRRXNQM3ByZ2ptdWZxYmY0Tng1REo5VDA2LU00SGJNdWUzLUV2WS0wb25zMS1hRjc5WjhKb3dNRi1YSEhYY0RhdXpBcjFHRFpIQ2hnb0laUFVYQmE4c9IBxAFBVV95cUxQLWxUOE1ianZwVkVCMEdmT201VE15Y2drSk5sUE9nSVZlY0o3Ul9rMks0SU16NjdkSGdJMEZxNVJFZHFpOEs4aE5TZ0VUVEtEYjc1YUN6WkZFSzVvSzZJLVVWV215UVRPSnpNVGRNZ1h4WU9Ld1hkamlNN1luUlFWdTRUZFBtVmNmZHRyOU91emkwcU50Q05HV19yS18wR1k1YU9yS3ZPNGZiSGhVRmdnc3JBdE42bkdaRm5nanJneXZob01W?oc=5
 
-- Era of IT, banks over, says Jefferies’ Christopher Wood; highlights these sectors as next promising themes
-  IT services firms continue to make conceptual sense for long-term portfolios. Wood flagged key risks weighing on the sector, including 50% tariffs.
-  🔗 https://www.livemint.com/market/stock-market-news/era-of-it-banks-over-says-jefferies-christopher-wood-highlights-these-sectors-as-next-promising-themes-11758172507532.html
+- Trump's 25% penal tariff on India may be withdrawn after November: Chief Economic Adviser | Latest News India - Hindustan Times
+  Trump's 25% penal tariff on India may be withdrawn after November: Chief Economic Adviser
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxObUp0cFF4MEp3NzZyNkppamV6QkROWVZ2V0RYYmxBSjBQbjdzbnZfSXkxNTVUOU5BTjdpUm14dElVbmtXUFloS2FmVDl1dDlXYW5mTUZka1hjbVl3SnpRWm05cExPcnJtT05OZm9ZVU9ZTkVUN19IM0o4dlFfaXloVDVCVy1ha1V0XzMyN0NtTWlaUWdtWXlPMjhNRVVMdmRGWk9lTURtRXRxelltSlZib3B0MGtpV3k3Z0xHTjdQeG9KVUZtUHEzSkc3SVAwTXNGSlRJVWU2RUFJeWZxV0IzUHF6WGpOSnk3RXlTYmd5aEdYT1ZIMUxSMHpaUnhfd9IBgwJBVV95cUxOSnJuTTd4X1kyZnJCeXUtX01ORlg5SXdhTHEtZlJ3UndpeFJ4NTlCZXFIaTBlbjE3T2dqVGFjY0JzQ3dmVXVkTlVNeHMxaGxuV0V4NzhmZTE5bkg3WmVMWFBYTUlsQ0xoSTFjdlVYOHlXeHJNeDBSdHFDTkFRZHpVaHJCU3NhYktSdWVGa1d2SHlFT1ZHQ21pNWRndGxMOXg5X0RyRUp0RUZRazdlTWpJWk9pcnJ1LWxrVEE5cC1NUjM3U0ZzOHcwYm5ydGNrRXBYQ3pmWXlpVWdVNnZGcVVCOWk3Z2JGY19ub00ta0NmQ2RLeWxyX3o2aV9xeFpzdW5YZDAw?oc=5
 
-- Meta launches new smart glasses with built-in screen: Check price, specifications and other details here
-  The Meta Ray-Ban Display smart glasses have a built-in screen to show messages
-  🔗 https://www.livemint.com/technology/gadgets/meta-glasses-ray-ban-display-smart-with-built-built-in-screen-799-price-specifications-text-video-photos-details-here-11758159107368.html
+- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
+  US May Remove 25% Penal Tariff On India After
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
 
-- Judge dismisses Indigenous Amazon tribes lawsuit against the New York Times and TMZ
-  Judge dismisses Indigenous Amazon tribe's lawsuit
-  🔗 https://www.livemint.com/technology/tech-news/judge-dismisses-indigenous-amazon-tribes-lawsuit-against-the-new-york-times-and-tmz-11758154052562.html
+- U.S. may ease India tariffs, India's chief economic adviser says - Reuters
+  U.S. may ease India tariffs
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1BGU0JpSlh0enZpSkk3b1dqUDFVSFlhcEFESzVqS05OUFpjQnlwRlpNc1pUa1o3Z1ViSG40aUw5UGRCZFBaaGVtMXpO?oc=5
 
-- Factbox-Groups that have bid for TikTok or expressed interest
-  Factbox:G
-  🔗 https://www.livemint.com/technology/tech-news/factboxgroups-that-have-bid-for-tiktok-or-expressed-interest-11758133471353.html
+- "India Said It Is Bilateral Issue": Pak Minister On US Attempt At Mediation - NDTV
+  "India Said It Is Bilateral Issue": Pak Minister
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmNPQTV2dUROVHllbVBpVTZUVm5ZeUkxajdPcDRiNnNVekNZbHp1OXkyRkcxRk5OVElwQ25ucWZxZFF1RVZLdmtiR1lEQ0JBbmVrcDd3eHNNSTl3T3NscndjZnQ5QzloZlZfeW16Q3VlRjN5UF9JLWZhZUhfUXVLcnhPbDJoaVRQLXhPTVpPZHJxZ3V0SDlXWXhKNkdXUV9uV3lrdmtOOHMzd9IBsgFBVV95cUxOODV3T0Fyd0d4SHhoUWItVG5QWnFIZGdXZ0FnMFZSZXdtUHdsNkRxdEJMX3N6UVdoRGVrQUthMGNMV0RTb3VmczJSVGgxUjk4VldSX3R5LVB2VkR1QlpxUnFWSW9PWWVDNmVob0NfUmpLNE15WTZPdXdHS1M1dEg2YTItODRwU0JET1h3X3ZJbDF6b2l3TUJ0SHZOMVpMZW4yblh6SEZoRExBZFU1YU5XUXp3?oc=5
 
-- iOS 26 is here: 5 new features to set up on your iPhone right away
-  iOS 26 introduces key features such as spam filtering for calls and messages, an intelligent Adaptive Power battery saver, interactive screenshot capabilities, and a Liquid
-  🔗 https://www.livemint.com/technology/tech-news/ios-26-is-here-5-new-features-to-set-up-on-your-iphone-right-away-11758125901897.html
-
-- Italy enacts AI law covering privacy, oversight and child access
-  Italy enacts AI law
-  🔗 https://www.livemint.com/technology/tech-news/italy-enacts-ai-law-covering-privacy-oversight-and-child-access-11758130800001.html
-
-- Forget gold or even silver. Platinum is outperforming both with 57% rally in 2025
-  Platinum is emerging as a top performer in 2025, with prices soaring nearly 57% year-to-date. A significant market deficit, driven by declining mine output in South Africa, fuels this rally.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/forget-gold-or-even-silver-platinum-is-outperforming-both-with-57-rally-in-2025/articleshow/123966066.cms
-
-- A Rs 5 lakh crore data centre play sparks a multibagger chase on D-Street. Where should investors look?
-  India's data center capacity is projected to quintuple by 2030, driven by surging internet traffic, AI adoption, and data localization. This expansion requires substantial investment, potentially reaching $30 billion in facility capex.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/a-rs-5-lakh-crore-data-centre-play-sparks-a-multibagger-chase-on-d-street-where-should-investors-look/articleshow/123965948.cms
-
-- Bitcoin rallies to $117K, moves higher despite initial volatility post US Fed cut
-  Bitcoin rallied nearly 1% to $117,484 as the crypto market digested the US Fed’s 25-basis-point rate cut. Bitcoin tested resistance
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bitcoin-rallies-to-117k-moves-higher-despite-initial-volatility-post-us-fed-cut/articleshow/123965880.cms
-
-- Vinay Jaising highlights NBFCs and capex plays as key investment opportunities
-  Market expert Vinay Jaising highlights NBFCs and capex-driven infrastructure stocks as key investment opportunities. He advises selective exposure to metals and caution on private banks.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vinay-jaising-highlights-nbfcs-and-capex-plays-as-key-investment-opportunities/articleshow/123965807.cms
-
-- Rail stocks surge up to 16% in a month. Short bounce-back or meaningful rally?
-  Rail stocks have seen gains recently. Some experts believe it's a short-term bounce due to previous underperformance. Concerns remain about execution delays and high valuations. Government spending direction is also a factor.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rail-stocks-surge-up-to-16-in-a-month-short-bounce-back-or-meaningful-rally/articleshow/123965748.cms
-
-- What Rahul Gandhi, BJP leaders said on PM Narendra Modi's 75th birthday: 'Stood with…' | Latest News India - Hindustan Times
-  " target="_blank">What Rahul Gandhi, BJP leaders said on PM Narendra
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTk80dUQwSkxOamphYVZUQy04Z2FVdkNsa3BNM2VTcHZ2TDlrQnc4TllscVZnSDhXSEZwNHF6ZnBGUXdlaFVFd0Q2aDNqX0NRQzAyX29BakczVEhodk04dWpoUmFDbVpEMG9JZkZfUmRtN21ENE12cDhDaVFFNFNBblJqaHdjODdSZEw1d0JidDRwQVQ5N3VlNWc2b2F5dVVuc0Jock9vcjIzWmJLeDlaMHVLeENPcThIdXE0VURkdkkwOW9ibWZvZnUyaWpfVTlESlhsQ1ViaTNpZld5Y05BUnB0VWowZjA3YnN1d9IB8gFBVV95cUxNTkp0ZGc4bXIxNEVCREgtdVlscUNGS3BHRWtjMmtfcmdUQzVxUnlFV3hpdXIwT1otSUVPZWExVUdFWHlyMEkzR1BjWUZJUGxIbHB3Q2d3eVZqdWxrN2lNMzQzREtqT2sycFJCWmdIdlppSWRiZWhFWEh4TDlNSHV0Z0RPS0NzUHJRUGNDMkRUTHFEQmhvMWpRY1drVjV1bHZoaDJOaWp3Vzc2RFdoN0dJT1R3SGNZQ21naDk5WWdKdDZpSlF2VFNFcHQ2ZzFvajFRZDlwNTF0cUFmZzNrQ25QOVI5WHdBWTQxcW1iNDVFVGZpUQ?oc=5
-
-- 'My Friend Narendra...': Decoding Donald Trump's Midnight Birthday Wish For PM - NDTV
-  'My Friend Narendra...': Decoding Donald
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOXhzeDJmaDRiRXJNNUxSUDRJSF9OdVZJS0xBV2lhNVI0cTE5Y2drM0Y4Njd5UW5QYWpydUFwT3VZWUllOVQwSW1uallKMkVjX2htSjhodFAwWG95SGotakMzVUt4WWNlX1JLTjN6MS13dk1SakJjQ2Zqck9nZjB2Si1NRlY3ZHJCbldUOHY3TU5RVF9nRGtSeUdwWkFDUW9Va3Q3UUhuTEtud1hBakJrLTJ0WmsxaW5KMnN5R0E1SjZCa2MzaGtyVG9NdUZKUnJ2d3AtWm45S280Uk9sYWlSQlpuaHJzbG1SZndYRWViWVkzb1lFRWoyOTdkYUxZaUXSAYcCQVVfeXFMT1NWQzFkSnVHbXBxNDR0dUhZMEFraC1SRjhHTGExS0xNZlR1ZE5YaXozb09CY0ZCS0NjMnprc1EyWGZWWUhLeEY1dDN3eFc0SGs1UnFiTW1RR0ItdEFONV9XbV9OUlJlR3lzMTctR1NjNU4xNTk4TVhlaUZ5N3JYcUphQmxLVE44VkdpR2FDci10V2ZzNlRjcGJpbHl0bkJhZFQxRXZKRnRyVDhJUmtublZlSmlhVERsaldiY0RQNkN3bVVSUC1uUUQyY3VhclZLcDBKUmdKMHFLZENNNEdyVWdramxoVjhyb09FRHRGNEVyOEtvNG43Sms2Zm95ckJVc09LUjZIQWs?oc=5
-
-- Top news of the day on September 17, 2025 - The Hindu
-  Top news of the day on September 17
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2dpOFRPVXJwamp1S25DR0ZtMUt5V3VhbWlUbDl2SER3QThYMGN2TThBZzFENlZILVNCLUhtQlMxbHd6bzk1WkluYnVPMFlVbC1DQXVUdWZ5ZkoyYU5UWHlNWDBwdTN2c2hGZzZ4bVRybVNMTkRRWVUwN2dhSnVHbzVYamktaE40ZC1YcENMYTFRWTBJ0gGbAUFVX3lxTE1BM245SzVDcHNSTUVUM2l6V3EzcS1RaWxZbnZGaWk5amt0czI0bFBIQ2xvWlRaVlE0aGxoclhWRXVZaWgyZmw1OEUxTkNUdDBHQ0VQVnhfQUhoWGpoN3JFc2Y0QXVadnNQRmlqRWZhRW5XcmtFd05FWXRBMnVvUlgyUjNXNWhJNEJlTGl3blFJOUplcFk1cmdsdlpJ?oc=5
-
-- ‘Venomous, anti-Hindu’: Arundhati Roy's India-Pakistan analogy draws strong backlash | Latest News India - Hindustan Times
-  Arundhati Roy's India-Pakistan analogy draws
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZThRUUhLU3RTU3hldHp0M1h6YnEtbmFtNVZ5SjBqN2taRzhEZFB4cVo0elp6YXFtZ19Yb0xlS3l4QklNcTVWcGc0NEJocVl3VU9PYUkzbWZJXzh6eWtGLXhkN3R5QzE5b0ZpM2ZDSHB3R1ZkekFRSVFqYlNQdE1CWFNTNEFuUlIwLXFva255NG9wR0pLdGpiMGpsNTRJeE9YQnBzc3p6YWFxRWdfMlJ5YTA0UmYzMmZXVWpTU2ZtRWtmNEF1dFd1QjFwSmliU3ZuTWprcWU3NU1BX05SNy1mZzI2ZS0zd9IB6wFBVV95cUxQdnJOVjI0Rm5MNnRmU0JwVXZKY3Z1eklWSlN0ZmhOUnlESU9IRTA5WU5HRHZKQWhfejZFWDJzSTFlUzRxWXBtWmhrUzlPdGFMWlBWYkstcDdWaVEwUGdRT0pBQVV1RHRrZFdLaXdTZG81eWl3RWF0b1BEdU1US3p4UDJYVmJPRHMyZ2l1cTBtbmF4S0toOFg0VlFJZnNMZGtpQzl0emU2b3pGN0hocmNlM3FjTzhOb1RJTkFaR01LcEYyT2ZGb1JjNDlFcnlBMmlZLU1QLVpYV3l5dzg1d3hCMFRRbWVmR1h1WGNn?oc=5
-
-- "Any Aggression Against Either Country...": Key Clause In Pak-Saudi Pact - NDTV
-  "Any Aggression Against Either Country..."
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQTC1POG1PcUFtSnV0c2NQaEFkd1NBbnd3UTYzaXNlcnNHQ3lianAwMzJZUXBvNUFUT2NjVlg4NF9pcHBQeVlWWFEzbm1WUlNUTFV6dlRJcU5EV1d1a3UtNXVLelhza0sza3A3dnQyQ2J1a1N6X2ZlNVlodm5VRmxzbjF0eFZ6OVAtbldWTzdxSFBoV0Y1T0Q3Um9QRVdMWF9aeTRydmxYMk40SkEtSDV4RUpKWDVoMWlGcnJBVWlDNXJwOXJU0gHMAUFVX3lxTE5oQlp6Rk1INnNva2VFSUtGdm9sbnEzbXE5enU1SFlvQnVJbFpTQkNPNERfZTRhRWdGN05TWDZYV1VBMDJFay1aYnZldlMxNEp4WG9Tc0hDczVvbktINk5Hc3d2ejVtUWZYWkc0cms4b0xicWVQY2xUcFV3Y09NQTg4SFpSTjMyQ1p2VWh6a1k4TGZKZUVDMFNqaUpPdVlKZ1RzOFJsZFlFMlVua0NvOHFETFU5YnI2bGd1YmI2czFjRGhxUU9UaHJISnlhUA?oc=5
-
-- What Rahul Gandhi, BJP leaders said on PM Narendra Modi's 75th birthday: 'Stood with…' | Latest News India - Hindustan Times
-  " target="_blank">What Rahul Gandhi, BJP leaders said on PM Narendra
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTk80dUQwSkxOamphYVZUQy04Z2FVdkNsa3BNM2VTcHZ2TDlrQnc4TllscVZnSDhXSEZwNHF6ZnBGUXdlaFVFd0Q2aDNqX0NRQzAyX29BakczVEhodk04dWpoUmFDbVpEMG9JZkZfUmRtN21ENE12cDhDaVFFNFNBblJqaHdjODdSZEw1d0JidDRwQVQ5N3VlNWc2b2F5dVVuc0Jock9vcjIzWmJLeDlaMHVLeENPcThIdXE0VURkdkkwOW9ibWZvZnUyaWpfVTlESlhsQ1ViaTNpZld5Y05BUnB0VWowZjA3YnN1d9IB8gFBVV95cUxNTkp0ZGc4bXIxNEVCREgtdVlscUNGS3BHRWtjMmtfcmdUQzVxUnlFV3hpdXIwT1otSUVPZWExVUdFWHlyMEkzR1BjWUZJUGxIbHB3Q2d3eVZqdWxrN2lNMzQzREtqT2sycFJCWmdIdlppSWRiZWhFWEh4TDlNSHV0Z0RPS0NzUHJRUGNDMkRUTHFEQmhvMWpRY1drVjV1bHZoaDJOaWp3Vzc2RFdoN0dJT1R3SGNZQ21naDk5WWdKdDZpSlF2VFNFcHQ2ZzFvajFRZDlwNTF0cUFmZzNrQ25QOVI5WHdBWTQxcW1iNDVFVGZpUQ?oc=5
-
-- 'My Friend Narendra...': Decoding Donald Trump's Midnight Birthday Wish For PM - NDTV
-  'My Friend Narendra...': Decoding Donald
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOXhzeDJmaDRiRXJNNUxSUDRJSF9OdVZJS0xBV2lhNVI0cTE5Y2drM0Y4Njd5UW5QYWpydUFwT3VZWUllOVQwSW1uallKMkVjX2htSjhodFAwWG95SGotakMzVUt4WWNlX1JLTjN6MS13dk1SakJjQ2Zqck9nZjB2Si1NRlY3ZHJCbldUOHY3TU5RVF9nRGtSeUdwWkFDUW9Va3Q3UUhuTEtud1hBakJrLTJ0WmsxaW5KMnN5R0E1SjZCa2MzaGtyVG9NdUZKUnJ2d3AtWm45S280Uk9sYWlSQlpuaHJzbG1SZndYRWViWVkzb1lFRWoyOTdkYUxZaUXSAYcCQVVfeXFMT1NWQzFkSnVHbXBxNDR0dUhZMEFraC1SRjhHTGExS0xNZlR1ZE5YaXozb09CY0ZCS0NjMnprc1EyWGZWWUhLeEY1dDN3eFc0SGs1UnFiTW1RR0ItdEFONV9XbV9OUlJlR3lzMTctR1NjNU4xNTk4TVhlaUZ5N3JYcUphQmxLVE44VkdpR2FDci10V2ZzNlRjcGJpbHl0bkJhZFQxRXZKRnRyVDhJUmtublZlSmlhVERsaldiY0RQNkN3bVVSUC1uUUQyY3VhclZLcDBKUmdKMHFLZENNNEdyVWdramxoVjhyb09FRHRGNEVyOEtvNG43Sms2Zm95ckJVc09LUjZIQWs?oc=5
-
-- Top news of the day on September 17, 2025 - The Hindu
-  Top news of the day on September 17
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2dpOFRPVXJwamp1S25DR0ZtMUt5V3VhbWlUbDl2SER3QThYMGN2TThBZzFENlZILVNCLUhtQlMxbHd6bzk1WkluYnVPMFlVbC1DQXVUdWZ5ZkoyYU5UWHlNWDBwdTN2c2hGZzZ4bVRybVNMTkRRWVUwN2dhSnVHbzVYamktaE40ZC1YcENMYTFRWTBJ0gGbAUFVX3lxTE1BM245SzVDcHNSTUVUM2l6V3EzcS1RaWxZbnZGaWk5amt0czI0bFBIQ2xvWlRaVlE0aGxoclhWRXVZaWgyZmw1OEUxTkNUdDBHQ0VQVnhfQUhoWGpoN3JFc2Y0QXVadnNQRmlqRWZhRW5XcmtFd05FWXRBMnVvUlgyUjNXNWhJNEJlTGl3blFJOUplcFk1cmdsdlpJ?oc=5
-
-- ‘Venomous, anti-Hindu’: Arundhati Roy's India-Pakistan analogy draws strong backlash | Latest News India - Hindustan Times
-  Arundhati Roy's India-Pakistan analogy draws
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZThRUUhLU3RTU3hldHp0M1h6YnEtbmFtNVZ5SjBqN2taRzhEZFB4cVo0elp6YXFtZ19Yb0xlS3l4QklNcTVWcGc0NEJocVl3VU9PYUkzbWZJXzh6eWtGLXhkN3R5QzE5b0ZpM2ZDSHB3R1ZkekFRSVFqYlNQdE1CWFNTNEFuUlIwLXFva255NG9wR0pLdGpiMGpsNTRJeE9YQnBzc3p6YWFxRWdfMlJ5YTA0UmYzMmZXVWpTU2ZtRWtmNEF1dFd1QjFwSmliU3ZuTWprcWU3NU1BX05SNy1mZzI2ZS0zd9IB6wFBVV95cUxQdnJOVjI0Rm5MNnRmU0JwVXZKY3Z1eklWSlN0ZmhOUnlESU9IRTA5WU5HRHZKQWhfejZFWDJzSTFlUzRxWXBtWmhrUzlPdGFMWlBWYkstcDdWaVEwUGdRT0pBQVV1RHRrZFdLaXdTZG81eWl3RWF0b1BEdU1US3p4UDJYVmJPRHMyZ2l1cTBtbmF4S0toOFg0VlFJZnNMZGtpQzl0emU2b3pGN0hocmNlM3FjTzhOb1RJTkFaR01LcEYyT2ZGb1JjNDlFcnlBMmlZLU1QLVpYV3l5dzg1d3hCMFRRbWVmR1h1WGNn?oc=5
-
-- "Any Aggression Against Either Country...": Key Clause In Pak-Saudi Pact - NDTV
-  "Any Aggression Against Either Country..."
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQTC1POG1PcUFtSnV0c2NQaEFkd1NBbnd3UTYzaXNlcnNHQ3lianAwMzJZUXBvNUFUT2NjVlg4NF9pcHBQeVlWWFEzbm1WUlNUTFV6dlRJcU5EV1d1a3UtNXVLelhza0sza3A3dnQyQ2J1a1N6X2ZlNVlodm5VRmxzbjF0eFZ6OVAtbldWTzdxSFBoV0Y1T0Q3Um9QRVdMWF9aeTRydmxYMk40SkEtSDV4RUpKWDVoMWlGcnJBVWlDNXJwOXJU0gHMAUFVX3lxTE5oQlp6Rk1INnNva2VFSUtGdm9sbnEzbXE5enU1SFlvQnVJbFpTQkNPNERfZTRhRWdGN05TWDZYV1VBMDJFay1aYnZldlMxNEp4WG9Tc0hDczVvbktINk5Hc3d2ejVtUWZYWkc0cms4b0xicWVQY2xUcFV3Y09NQTg4SFpSTjMyQ1p2VWh6a1k4TGZKZUVDMFNqaUpPdVlKZ1RzOFJsZFlFMlVua0NvOHFETFU5YnI2bGd1YmI2czFjRGhxUU9UaHJISnlhUA?oc=5
-
-- What Rahul Gandhi, BJP leaders said on PM Narendra Modi's 75th birthday: 'Stood with…' | Latest News India - Hindustan Times
-  " target="_blank">What Rahul Gandhi, BJP leaders said on PM Narendra
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTk80dUQwSkxOamphYVZUQy04Z2FVdkNsa3BNM2VTcHZ2TDlrQnc4TllscVZnSDhXSEZwNHF6ZnBGUXdlaFVFd0Q2aDNqX0NRQzAyX29BakczVEhodk04dWpoUmFDbVpEMG9JZkZfUmRtN21ENE12cDhDaVFFNFNBblJqaHdjODdSZEw1d0JidDRwQVQ5N3VlNWc2b2F5dVVuc0Jock9vcjIzWmJLeDlaMHVLeENPcThIdXE0VURkdkkwOW9ibWZvZnUyaWpfVTlESlhsQ1ViaTNpZld5Y05BUnB0VWowZjA3YnN1d9IB8gFBVV95cUxNTkp0ZGc4bXIxNEVCREgtdVlscUNGS3BHRWtjMmtfcmdUQzVxUnlFV3hpdXIwT1otSUVPZWExVUdFWHlyMEkzR1BjWUZJUGxIbHB3Q2d3eVZqdWxrN2lNMzQzREtqT2sycFJCWmdIdlppSWRiZWhFWEh4TDlNSHV0Z0RPS0NzUHJRUGNDMkRUTHFEQmhvMWpRY1drVjV1bHZoaDJOaWp3Vzc2RFdoN0dJT1R3SGNZQ21naDk5WWdKdDZpSlF2VFNFcHQ2ZzFvajFRZDlwNTF0cUFmZzNrQ25QOVI5WHdBWTQxcW1iNDVFVGZpUQ?oc=5
-
-- 'My Friend Narendra...': Decoding Donald Trump's Midnight Birthday Wish For PM - NDTV
-  'My Friend Narendra...': Decoding Donald
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOXhzeDJmaDRiRXJNNUxSUDRJSF9OdVZJS0xBV2lhNVI0cTE5Y2drM0Y4Njd5UW5QYWpydUFwT3VZWUllOVQwSW1uallKMkVjX2htSjhodFAwWG95SGotakMzVUt4WWNlX1JLTjN6MS13dk1SakJjQ2Zqck9nZjB2Si1NRlY3ZHJCbldUOHY3TU5RVF9nRGtSeUdwWkFDUW9Va3Q3UUhuTEtud1hBakJrLTJ0WmsxaW5KMnN5R0E1SjZCa2MzaGtyVG9NdUZKUnJ2d3AtWm45S280Uk9sYWlSQlpuaHJzbG1SZndYRWViWVkzb1lFRWoyOTdkYUxZaUXSAYcCQVVfeXFMT1NWQzFkSnVHbXBxNDR0dUhZMEFraC1SRjhHTGExS0xNZlR1ZE5YaXozb09CY0ZCS0NjMnprc1EyWGZWWUhLeEY1dDN3eFc0SGs1UnFiTW1RR0ItdEFONV9XbV9OUlJlR3lzMTctR1NjNU4xNTk4TVhlaUZ5N3JYcUphQmxLVE44VkdpR2FDci10V2ZzNlRjcGJpbHl0bkJhZFQxRXZKRnRyVDhJUmtublZlSmlhVERsaldiY0RQNkN3bVVSUC1uUUQyY3VhclZLcDBKUmdKMHFLZENNNEdyVWdramxoVjhyb09FRHRGNEVyOEtvNG43Sms2Zm95ckJVc09LUjZIQWs?oc=5
-
-- Top news of the day on September 17, 2025 - The Hindu
-  Top news of the day on September 17
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2dpOFRPVXJwamp1S25DR0ZtMUt5V3VhbWlUbDl2SER3QThYMGN2TThBZzFENlZILVNCLUhtQlMxbHd6bzk1WkluYnVPMFlVbC1DQXVUdWZ5ZkoyYU5UWHlNWDBwdTN2c2hGZzZ4bVRybVNMTkRRWVUwN2dhSnVHbzVYamktaE40ZC1YcENMYTFRWTBJ0gGbAUFVX3lxTE1BM245SzVDcHNSTUVUM2l6V3EzcS1RaWxZbnZGaWk5amt0czI0bFBIQ2xvWlRaVlE0aGxoclhWRXVZaWgyZmw1OEUxTkNUdDBHQ0VQVnhfQUhoWGpoN3JFc2Y0QXVadnNQRmlqRWZhRW5XcmtFd05FWXRBMnVvUlgyUjNXNWhJNEJlTGl3blFJOUplcFk1cmdsdlpJ?oc=5
-
-- ‘Venomous, anti-Hindu’: Arundhati Roy's India-Pakistan analogy draws strong backlash | Latest News India - Hindustan Times
-  Arundhati Roy's India-Pakistan analogy draws
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZThRUUhLU3RTU3hldHp0M1h6YnEtbmFtNVZ5SjBqN2taRzhEZFB4cVo0elp6YXFtZ19Yb0xlS3l4QklNcTVWcGc0NEJocVl3VU9PYUkzbWZJXzh6eWtGLXhkN3R5QzE5b0ZpM2ZDSHB3R1ZkekFRSVFqYlNQdE1CWFNTNEFuUlIwLXFva255NG9wR0pLdGpiMGpsNTRJeE9YQnBzc3p6YWFxRWdfMlJ5YTA0UmYzMmZXVWpTU2ZtRWtmNEF1dFd1QjFwSmliU3ZuTWprcWU3NU1BX05SNy1mZzI2ZS0zd9IB6wFBVV95cUxQdnJOVjI0Rm5MNnRmU0JwVXZKY3Z1eklWSlN0ZmhOUnlESU9IRTA5WU5HRHZKQWhfejZFWDJzSTFlUzRxWXBtWmhrUzlPdGFMWlBWYkstcDdWaVEwUGdRT0pBQVV1RHRrZFdLaXdTZG81eWl3RWF0b1BEdU1US3p4UDJYVmJPRHMyZ2l1cTBtbmF4S0toOFg0VlFJZnNMZGtpQzl0emU2b3pGN0hocmNlM3FjTzhOb1RJTkFaR01LcEYyT2ZGb1JjNDlFcnlBMmlZLU1QLVpYV3l5dzg1d3hCMFRRbWVmR1h1WGNn?oc=5
-
-- "Any Aggression Against Either Country...": Key Clause In Pak-Saudi Pact - NDTV
-  "Any Aggression Against Either Country..."
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQTC1POG1PcUFtSnV0c2NQaEFkd1NBbnd3UTYzaXNlcnNHQ3lianAwMzJZUXBvNUFUT2NjVlg4NF9pcHBQeVlWWFEzbm1WUlNUTFV6dlRJcU5EV1d1a3UtNXVLelhza0sza3A3dnQyQ2J1a1N6X2ZlNVlodm5VRmxzbjF0eFZ6OVAtbldWTzdxSFBoV0Y1T0Q3Um9QRVdMWF9aeTRydmxYMk40SkEtSDV4RUpKWDVoMWlGcnJBVWlDNXJwOXJU0gHMAUFVX3lxTE5oQlp6Rk1INnNva2VFSUtGdm9sbnEzbXE5enU1SFlvQnVJbFpTQkNPNERfZTRhRWdGN05TWDZYV1VBMDJFay1aYnZldlMxNEp4WG9Tc0hDczVvbktINk5Hc3d2ejVtUWZYWkc0cms4b0xicWVQY2xUcFV3Y09NQTg4SFpSTjMyQ1p2VWh6a1k4TGZKZUVDMFNqaUpPdVlKZ1RzOFJsZFlFMlVua0NvOHFETFU5YnI2bGd1YmI2czFjRGhxUU9UaHJISnlhUA?oc=5
-
-- What Rahul Gandhi, BJP leaders said on PM Narendra Modi's 75th birthday: 'Stood with…' | Latest News India - Hindustan Times
-  " target="_blank">What Rahul Gandhi, BJP leaders said on PM Narendra
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTk80dUQwSkxOamphYVZUQy04Z2FVdkNsa3BNM2VTcHZ2TDlrQnc4TllscVZnSDhXSEZwNHF6ZnBGUXdlaFVFd0Q2aDNqX0NRQzAyX29BakczVEhodk04dWpoUmFDbVpEMG9JZkZfUmRtN21ENE12cDhDaVFFNFNBblJqaHdjODdSZEw1d0JidDRwQVQ5N3VlNWc2b2F5dVVuc0Jock9vcjIzWmJLeDlaMHVLeENPcThIdXE0VURkdkkwOW9ibWZvZnUyaWpfVTlESlhsQ1ViaTNpZld5Y05BUnB0VWowZjA3YnN1d9IB8gFBVV95cUxNTkp0ZGc4bXIxNEVCREgtdVlscUNGS3BHRWtjMmtfcmdUQzVxUnlFV3hpdXIwT1otSUVPZWExVUdFWHlyMEkzR1BjWUZJUGxIbHB3Q2d3eVZqdWxrN2lNMzQzREtqT2sycFJCWmdIdlppSWRiZWhFWEh4TDlNSHV0Z0RPS0NzUHJRUGNDMkRUTHFEQmhvMWpRY1drVjV1bHZoaDJOaWp3Vzc2RFdoN0dJT1R3SGNZQ21naDk5WWdKdDZpSlF2VFNFcHQ2ZzFvajFRZDlwNTF0cUFmZzNrQ25QOVI5WHdBWTQxcW1iNDVFVGZpUQ?oc=5
-
-- 'My Friend Narendra...': Decoding Donald Trump's Midnight Birthday Wish For PM - NDTV
-  'My Friend Narendra...': Decoding Donald
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOXhzeDJmaDRiRXJNNUxSUDRJSF9OdVZJS0xBV2lhNVI0cTE5Y2drM0Y4Njd5UW5QYWpydUFwT3VZWUllOVQwSW1uallKMkVjX2htSjhodFAwWG95SGotakMzVUt4WWNlX1JLTjN6MS13dk1SakJjQ2Zqck9nZjB2Si1NRlY3ZHJCbldUOHY3TU5RVF9nRGtSeUdwWkFDUW9Va3Q3UUhuTEtud1hBakJrLTJ0WmsxaW5KMnN5R0E1SjZCa2MzaGtyVG9NdUZKUnJ2d3AtWm45S280Uk9sYWlSQlpuaHJzbG1SZndYRWViWVkzb1lFRWoyOTdkYUxZaUXSAYcCQVVfeXFMT1NWQzFkSnVHbXBxNDR0dUhZMEFraC1SRjhHTGExS0xNZlR1ZE5YaXozb09CY0ZCS0NjMnprc1EyWGZWWUhLeEY1dDN3eFc0SGs1UnFiTW1RR0ItdEFONV9XbV9OUlJlR3lzMTctR1NjNU4xNTk4TVhlaUZ5N3JYcUphQmxLVE44VkdpR2FDci10V2ZzNlRjcGJpbHl0bkJhZFQxRXZKRnRyVDhJUmtublZlSmlhVERsaldiY0RQNkN3bVVSUC1uUUQyY3VhclZLcDBKUmdKMHFLZENNNEdyVWdramxoVjhyb09FRHRGNEVyOEtvNG43Sms2Zm95ckJVc09LUjZIQWs?oc=5
-
-- Top news of the day on September 17, 2025 - The Hindu
-  Top news of the day on September 17
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2dpOFRPVXJwamp1S25DR0ZtMUt5V3VhbWlUbDl2SER3QThYMGN2TThBZzFENlZILVNCLUhtQlMxbHd6bzk1WkluYnVPMFlVbC1DQXVUdWZ5ZkoyYU5UWHlNWDBwdTN2c2hGZzZ4bVRybVNMTkRRWVUwN2dhSnVHbzVYamktaE40ZC1YcENMYTFRWTBJ0gGbAUFVX3lxTE1BM245SzVDcHNSTUVUM2l6V3EzcS1RaWxZbnZGaWk5amt0czI0bFBIQ2xvWlRaVlE0aGxoclhWRXVZaWgyZmw1OEUxTkNUdDBHQ0VQVnhfQUhoWGpoN3JFc2Y0QXVadnNQRmlqRWZhRW5XcmtFd05FWXRBMnVvUlgyUjNXNWhJNEJlTGl3blFJOUplcFk1cmdsdlpJ?oc=5
-
-- ‘Venomous, anti-Hindu’: Arundhati Roy's India-Pakistan analogy draws strong backlash | Latest News India - Hindustan Times
-  Arundhati Roy's India-Pakistan analogy draws
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZThRUUhLU3RTU3hldHp0M1h6YnEtbmFtNVZ5SjBqN2taRzhEZFB4cVo0elp6YXFtZ19Yb0xlS3l4QklNcTVWcGc0NEJocVl3VU9PYUkzbWZJXzh6eWtGLXhkN3R5QzE5b0ZpM2ZDSHB3R1ZkekFRSVFqYlNQdE1CWFNTNEFuUlIwLXFva255NG9wR0pLdGpiMGpsNTRJeE9YQnBzc3p6YWFxRWdfMlJ5YTA0UmYzMmZXVWpTU2ZtRWtmNEF1dFd1QjFwSmliU3ZuTWprcWU3NU1BX05SNy1mZzI2ZS0zd9IB6wFBVV95cUxQdnJOVjI0Rm5MNnRmU0JwVXZKY3Z1eklWSlN0ZmhOUnlESU9IRTA5WU5HRHZKQWhfejZFWDJzSTFlUzRxWXBtWmhrUzlPdGFMWlBWYkstcDdWaVEwUGdRT0pBQVV1RHRrZFdLaXdTZG81eWl3RWF0b1BEdU1US3p4UDJYVmJPRHMyZ2l1cTBtbmF4S0toOFg0VlFJZnNMZGtpQzl0emU2b3pGN0hocmNlM3FjTzhOb1RJTkFaR01LcEYyT2ZGb1JjNDlFcnlBMmlZLU1QLVpYV3l5dzg1d3hCMFRRbWVmR1h1WGNn?oc=5
-
-- "Any Aggression Against Either Country...": Key Clause In Pak-Saudi Pact - NDTV
-  "Any Aggression Against Either Country..."
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQTC1POG1PcUFtSnV0c2NQaEFkd1NBbnd3UTYzaXNlcnNHQ3lianAwMzJZUXBvNUFUT2NjVlg4NF9pcHBQeVlWWFEzbm1WUlNUTFV6dlRJcU5EV1d1a3UtNXVLelhza0sza3A3dnQyQ2J1a1N6X2ZlNVlodm5VRmxzbjF0eFZ6OVAtbldWTzdxSFBoV0Y1T0Q3Um9QRVdMWF9aeTRydmxYMk40SkEtSDV4RUpKWDVoMWlGcnJBVWlDNXJwOXJU0gHMAUFVX3lxTE5oQlp6Rk1INnNva2VFSUtGdm9sbnEzbXE5enU1SFlvQnVJbFpTQkNPNERfZTRhRWdGN05TWDZYV1VBMDJFay1aYnZldlMxNEp4WG9Tc0hDczVvbktINk5Hc3d2ejVtUWZYWkc0cms4b0xicWVQY2xUcFV3Y09NQTg4SFpSTjMyQ1p2VWh6a1k4TGZKZUVDMFNqaUpPdVlKZ1RzOFJsZFlFMlVua0NvOHFETFU5YnI2bGd1YmI2czFjRGhxUU9UaHJISnlhUA?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- India rejected 3rd-party role to end conflict: Pakistan - Times of India
+  India rejected 3rd-party role to
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS1MVEFsdm11dGNyUzdvX1NuQkljeXdJeUJneGszdnpCdjdvWXM0cnRGYnlfNlJkc21MM1JaZmdDckdsejFfR0pRMTIwMnN6MlpiRGxEQlJNaFY0WmExNHp4U0phNjgxN2JRRXNQM3ByZ2ptdWZxYmY0Tng1REo5VDA2LU00SGJNdWUzLUV2WS0wb25zMS1hRjc5WjhKb3dNRi1YSEhYY0RhdXpBcjFHRFpIQ2hnb0laUFVYQmE4c9IBxAFBVV95cUxQLWxUOE1ianZwVkVCMEdmT201VE15Y2drSk5sUE9nSVZlY0o3Ul9rMks0SU16NjdkSGdJMEZxNVJFZHFpOEs4aE5TZ0VUVEtEYjc1YUN6WkZFSzVvSzZJLVVWV215UVRPSnpNVGRNZ1h4WU9Ld1hkamlNN1luUlFWdTRUZFBtVmNmZHRyOU91emkwcU50Q05HV19yS18wR1k1YU9yS3ZPNGZiSGhVRmdnc3JBdE42bkdaRm5nanJneXZob01W?oc=5
 
 
-_Last updated: 2025-09-18 06:26:18 UTC_
+_Last updated: 2025-09-18 12:33:34 UTC_
