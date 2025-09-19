@@ -1,224 +1,164 @@
 # 📰 Daily News Summaries
 
-- ‘He complained of racial discrimination and hate… His mother has completely shut down’: Family of Indian techie shot dead by police in California
+- Building cadre of master trainers, connecting with survivors – how Rajasthan govt plans to tackle gender-based violence
   
-  🔗 https://indianexpress.com/article/india/mohammed-nizamuddin-india-techie-shot-dead-us-10258879/
+  🔗 https://indianexpress.com/article/india/rajasthan-government-gender-based-violence-training-programme-10259648/
 
-- Gold Today Rate, September 19: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- Zubeen Garg, Assamese superstar and voice of a generation, dies in Singapore scuba diving accident
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-september-19-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10258751/
+  🔗 https://indianexpress.com/article/india/zubeen-garg-assamese-singer-dies-in-singapore-scuba-diving-accident-10259381/
 
-- News Today Live Updates, 19 September | Panic in UP’s Barabanki: Villagers confuse planes for drones, flood helplines
+- Rajasthan to get 2 new Vande Bharat trains next week; check routes
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-09-19-2025-news-headlines-10258549/
+  🔗 https://indianexpress.com/article/india/rajasthan-to-get-2-new-vande-bharat-trains-next-week-check-routes-10259238/
 
-- ‘Maoists have only 3 options — surrender, get arrested or get killed’: Jharkhand police chief interview
+- ‘Will raise Tiprasa Accord, illegal immigration in ongoing Tripura Assembly session’: TIPRA Motha minister Animesh Debbarma
   
-  🔗 https://indianexpress.com/article/india/maoists-have-only-3-options-surrender-get-arrested-or-get-killed-jharkhand-police-chief-interview-10258305/
+  🔗 https://indianexpress.com/article/india/will-raise-tiprasa-accord-illegal-immigration-in-ongoing-tripura-assembly-session-tipra-motha-minister-animesh-debbarma-10259221/
 
-- Searching for life in buried houses: Sub-inspector recounts rescue op in landslide-hit Uttarakhand villages
+- India’s 26th Rajdhani Express train begins commercial run – check route, travel time, stoppages, ticket price
   
-  🔗 https://indianexpress.com/article/india/searching-for-life-in-buried-houses-sub-inspector-recounts-rescue-op-in-landslide-hit-uttarakhand-villages-10258304/
+  🔗 https://indianexpress.com/article/india/india-26th-rajdhani-express-train-commence-commercial-run-route-stops-ticket-price-10257843/
 
-- Why Meta’s new Ray-Ban Display smart glasses are Apple’s biggest threat
+- OM SYSTEM, formerly Olympus, unveils camera and lens in India: Check details
   
-  🔗 https://indianexpress.com/article/technology/opinion-technology/why-metas-new-ray-ban-display-smart-glasses-are-apples-biggest-threat-10258812/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/om-system-formerly-olympus-unveils-camera-and-lens-in-india-check-details-10259654/
 
-- China’s Huawei hypes up chip and computing power plans in fresh challenge to Nvidia
+- SAP launches Sovereign Cloud in India to enable local data storage, boost AI development
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/chinas-huawei-hypes-up-chip-and-computing-power-plans-in-fresh-challenge-to-nvidia-10258762/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/sap-launches-sovereign-cloud-india-data-sovereignty-ai-development-10259525/
 
-- China’s DeepSeek says its hit AI model cost just $294,000 to train
+- Oppo Reno 14 review: An almost perfect midranger
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/chinas-deepseek-says-its-hit-ai-model-cost-just-294000-to-train-10258731/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/oppo-reno-14-review-10255605/
 
-- Nvidia takes $5 billion stake in Intel, offers chip tech in new lifeline to struggling chipmaker
+- A code, a click, a hack: Inside the WhatsApp fraud that trapped Kannada actors Upendra and Priyanka
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nvidia-takes-5-billion-stake-in-intel-offers-chip-tech-in-new-lifeline-to-struggling-chipmaker-10258727/
+  🔗 https://indianexpress.com/article/technology/inside-the-whatsapp-fraud-that-trapped-kannada-actors-upendra-and-priyanka-10259438/
 
-- ‘Seeing many light wrappers pose as AI solutions’: Google India startup accelerator lead
+- iPhone 16 Pro under Rs 75,000? Flipkart to offer biggest-ever price drop on iPhone 16 series
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/back-genuine-ai-startups-not-wrappers-google-accelerator-exec-10257719/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-16-pro-iphone-16-to-get-the-biggest-price-drop-yet-10259426/
 
-- Supreme Court defers hearing Vodafone’s plea against new  ₹9,450 cr demand after govt seeks more time
-  The outcome could decide whether India’s third-largest carrier gets breathing space to survive. Vodafone Idea has challenged the government
-  🔗 https://www.livemint.com/companies/news/vodafone-idea-supreme-court-agr-dues-9450-crore-demand-11758255591033.html
+- Amazon India's big play is now ads, and q-comm the new billboard
+  Amazon India's advertising revenue is growing faster than its e-commerce business. Despite this, competitors like Blinkit and Zepto are ahead in quick commerce.
+  🔗 https://www.livemint.com/companies/amazon-india-online-retail-marketplace-quick-commerce-advertisements-ads-revenue-11758192324454.html
 
-- SoftBank Vision Fund Layoffs: Company to slash 20% jobs as founder Masayoshi Son makes big AI bets
-  The Vision Fund layoffs is part of years of cutbacks as the unit lost its importance. Masayoshi
-  🔗 https://www.livemint.com/companies/news/softbank-vision-fund-layoffs-company-to-slash-20-jobs-as-founder-masayoshi-son-makes-big-ai-bets-11758250428958.html
+- Patanjali vs Dabur over Chyawanprash: Delhi HC warns Baba Ramdev-led firm —we won't allow ‘aaltu faaltu appeals'
+  The Delhi HC warns Patanjali that in case the court finds its plea to be a luxury litigation
+  🔗 https://www.livemint.com/companies/news/patanjali-vs-dabur-over-chyawanprash-ad-delhi-hc-warns-baba-ramdev-led-firm-we-wont-allow-aaltu-faaltu-appeals-11758273263100.html
 
-- Jimmy Kimmel controversy: Will Disney revive ABC's late-night show? Report hints at key meet
-  Jimmy Kimmel Live! was unexpectedly pulled off air by Disney following host Jimmy Kimmel's comments on Charlie Kirk, who was recently killed
-  🔗 https://www.livemint.com/companies/news/jimmy-kimmel-controversy-will-disney-bring-the-late-night-show-back-on-air-report-hints-at-key-meet-11758243836477.html
+- Nvidia likely to invest $500 million in self-driving startup Wayve amid UK-US technology deal — Details here
+  Big tech firm, Nvidia, is likely to invest $500 million in self-driving startup Wayve. UK-US technology deal seeks to boost
+  🔗 https://www.livemint.com/companies/news/nvidia-likely-to-invest-500-million-in-self-driving-startup-wayve-amid-uk-us-technology-deal-details-here-11758273787611.html
 
-- BlackBuck CEO says company not moving out of Bengaluru after heated debate over ‘pothole’ post
-  BlackBuck CEO Rajesh Yabaji has clarified that his company is not moving out of Bengaluru, but is relocating parts of
-  🔗 https://www.livemint.com/companies/people/blackbuck-ceo-says-company-not-moving-out-of-bengaluru-after-heated-debate-over-pothole-post-11758242605051.html
+- The mystery of Nvidia’s underperforming stock
+  . Shares have been lagging behind other AI
+  🔗 https://www.livemint.com/companies/the-mystery-of-nvidia-s-underperforming-stock-11758276890512.html
 
-- District by Zomato focused on acquiring users, pilots in the ‘going out’ business
-  Zomato is running experiments such as offline shopping coupons and salon deals. The company is running tentpole concerts and events to acquire new customers.
-  🔗 https://www.livemint.com/companies/district-by-zomato-eternal-district-app-online-event-ticketing-india-quick-commerce-growth-11758203072988.html
+- Urban Company CEO bets on ‘instant’ home services after strong IPO round. Here's why
+  Urban Company CEO Abhiraj Singh Bhal announced that the brand aims to expand its ‘instant’ home service offerings after a strong IPO round on the Indian stock
+  🔗 https://www.livemint.com/companies/news/urban-company-ceo-bets-on-instant-home-services-after-strong-ipo-round-heres-why-11758271093429.html
 
-- EPack Prefab Technologies IPO price band fixed at  ₹194-204; issue to open next week on Sept 24
-  EPack Prefab Technologies IPO is priced at  ₹194-204 per share. The offer is slated to open on September
-  🔗 https://www.livemint.com/market/ipo/epack-prefab-technologies-ipo-price-band-fixed-at-rs-194-204-issue-to-open-next-week-on-sept-24-11758262286947.html
+- What should be your debt investment strategy as the US Fed, RBI cut rates?
+  Experts suggest focusing on gilt and corporate bond funds for potential capital appreciation, while considering individual risk and investment profiles.
+  🔗 https://www.livemint.com/market/stock-market-news/what-should-be-your-debt-investment-strategy-as-the-us-fed-rbi-cut-rates-11758280623618.html
 
-- 86,000% rally in five years! Multibagger small-cap stock jumps 5% despite stock market sell-off
-  The benchmark indices, Sensex and Nifty 50, were trading nearly half a percent lower. Investors remained cautious amid uncertainty over US tariffs.
-  🔗 https://www.livemint.com/market/stock-market-news/86000-rally-in-five-years-multibagger-small-cap-stock-integrated-industries-jumps-5-despite-stock-market-selloff-11758260963200.html
+- Wall Street futures steady as markets digest central bank moves
+  
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-futures-steady-as-markets-digest-central-bank-moves-11758282909732.html
 
-- Solarworld Energy Solutions IPO: From business overview, financials to key risks— 10 key things to know from RHP
-  Solarworld Energy Solutions is set to launch its IPO. Discover the key details and risks investors should consider
-  🔗 https://www.livemint.com/market/ipo/solarworld-energy-solutions-ipo-from-business-overview-financials-to-key-risks-10-key-things-to-know-from-rhp-11758254625334.html
+- VMS TMT IPO ends third and final day with 102 times bids; GMP signals 11% listing gains — Details here
+  VMS TMT IPO received an overwhelming response, closing the third day with 102.26 times subscription. Shares are set to list on BSE and NSE on September 23, with a grey market premium
+  🔗 https://www.livemint.com/market/stock-market-news/vms-tmt-ipo-ends-third-and-final-day-with-102-times-bids-gmp-signals-11-listing-gains-details-here-11758282538136.html
 
-- Small-cap stock under  ₹20 jumps 3% despite weak trends on Dalal Street
-  Small-cap stock under  �
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-20-jumps-3-despite-weak-trends-on-dalal-street-11758259751858.html
+- Saatvik Green Energy IPO booked 59% on first day of bidding process; check latest GMP
+  Saatvik Green Energy IPO opened on September 19, experiencing low demand with only 0.59 times subscription by the first day. Shares are expected to list on September 26 with an estimated gain of 8
+  🔗 https://www.livemint.com/market/ipo/saatvik-green-energy-ipo-booked-59-on-first-day-of-bidding-process-check-latest-gmp-11758282240370.html
 
-- iPhone 17 India launch today: Why is Redington share price skyrocketing over 9%?
-  Redington Ltd., a key iPhone distributor in India, saw its shares rise over 9% on September 19 following the iPhone 17 launch. The company reported a 12% growth in net profit
-  🔗 https://www.livemint.com/market/stock-market-news/iphone-17-india-launch-today-why-is-redington-share-price-skyrocketing-8-today-11758258185655.html
+- London stocks set for weekly decline as investors weigh central bank moves
+  London stocks set for weekly decline as
+  🔗 https://www.livemint.com/market/stock-market-news/london-stocks-set-for-weekly-decline-as-investors-weigh-central-bank-moves-11758281384443.html
 
-- Mark Zuckerberg blames Wi-Fi after new Meta Ray Ban smart glasses fail to vow amid multiple glitches during demo | Watch
-  Zuckerberg blamed poor Wi-Fi for the blunder. He also noted the irony of connectivity letting him down at a tech event.
-  🔗 https://www.livemint.com/technology/gadgets/mark-zuckerberg-ceo-blames-wifi-meta-ray-ban-display-smart-glasses-demo-failure-tech-issue-ai-gestures-watch-viral-video-11758256022701.html
+- iPhone 17 Review: Apple’s most balanced flagship yet
+  Phone 17 review: A refined flagship with A19 chip, 6.3-inch OLED
+  🔗 https://www.livemint.com/technology/iphone-17-review-apple-s-most-balanced-flagship-yet-11758276885730.html
 
-- Skip the long queues! Blinkit, 4 other platforms to deliver iPhone 17, 17 Pro, Air, and Max to your doorstep
-  The iPhone 17 series is now available for sale in India. In case you want to skip the long queues outside the physical retail stores of Apple, here are five online platforms including Blinkit, Instamart and
-  🔗 https://www.livemint.com/technology/gadgets/skip-the-long-queues-5-platforms-to-deliver-iphone-17-17-pro-air-max-at-your-doorsteps-11758257270155.html
+- Apple iPhone 17 series goes on sale in India: US, Canada and Hong Kong offer cheaper deals - Global price comparison
+  Apple's iPhone 17 series is now on sale in India. Prices are higher than in the US, where models are cheaper. Buyers can compare global rates and consider importing from the US.
+  🔗 https://www.livemint.com/technology/gadgets/iphone-17-series-goes-on-sale-in-india-us-canada-and-hong-kong-offer-cheaper-deals-global-price-comparison-11758274762838.html
 
-- Diwali sales hike for Apple? iPhone sales could exceed 50 lakh units in Q3 amid iPhone 17 series launch, says report
-  Initial pre-bookings for the iPhone 17 series in India show the launch is far surpassing last year's iPhone 16. IDC analysts predict that total Apple shipments in Q3 of FY 2025
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17-series-high-demand-india-pre-orders-apple-sales-could-exceed-50-lakh-units-q3-2025-diwali-tech-experts-report-11758252491449.html
+- 10 best tablets for productivity for students with the latest features and more: Top picks with modern design and featur
+  The 10 best tablets for productivity for students provide smooth multitasking and reliable battery life.
+  🔗 https://www.livemint.com/technology/gadgets/10-best-tablets-for-productivity-for-students-with-the-latest-features-and-more-top-picks-with-modern-design-and-featur-11758184579382.html
 
-- Countdown to the Amazon Great Indian Festival begins: Deals on the best printers with up to 40% off on top brands
-  The Amazon Great Indian Festival 2025 is the perfect chance to get reliable printers. If you’ve been thinking
-  🔗 https://www.livemint.com/technology/gadgets/countdown-to-the-amazon-great-indian-festival-begins-deals-on-the-best-printers-with-up-to-40-off-on-top-brands-11758111046426.html
+- Primebook 2 Pro, Primebook 2 Pro Max with Full HD IPS display launched in India, price starts at  ₹17,990
+  The Primebook 2 Pro and 2 Max are aimed at students and freelancers. They run on Prime OS 3.0, feature dual microphones, a backlit keyboard,
+  🔗 https://www.livemint.com/technology/tech-news/primbook-2-pro-primebook-2-pro-max-with-helio-g99-processor-full-hd-ips-display-launched-in-india-price-specs-and-mo-11758270149801.html
 
-- Samsung Galaxy S24 Ultra slashed by up to  ₹60,000 during Amazon Great Indian Festival sale
-  The Samsung Galaxy S24 Ultra 12GB RAM and 256GB storage received a massive price cut with no-cost EMI options. The flagship smartphone features Snapdragon 8 Gen 3 chipset, 200MP camera,
-  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-s24-ultra-slashed-by-up-to-rs-60-000-during-amazon-great-indian-festival-sale-11758250517274.html
-
-- Gold takes a breather as markets weigh Fed's policy stance - Reuters
-  Gold takes a breather as markets weigh
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTNLekQwS2ducTZ4LTY3Q2xtRXEyeDN2NXB6TUlvbFdxQUZ6eTJpR2Q4bmp4V2tpNVlBLTNiMF9BSHhGcTlBblY5WkNFSmVUcm53MUJxZFFlcVVXWEdBbDlwVk5WMktEczlha0FNcDJrV0NQNVJybXZEZHVjeE5GY2s4WWlhMFV5RnpNLVN3czhqWktlaDdJMXEySTY0T01MN3c?oc=5
+- iPhone 17 Air or Android flagship? Samsung Galaxy S25 Edge, Pixel 10 Pro and other alternatives in similar price range
+  Apple’s iPhone 17 Air starts at  ₹1,19,900 in India with a single 48MP camera. Here are five Android alternatives like Pixel 10 Pro, Samsung Galaxy S25 Edge, and
+  🔗 https://www.livemint.com/technology/gadgets/iphone-17-air-or-android-flagship-samsung-galaxy-s25-edge-pixel-10-pro-and-other-alternatives-in-similar-price-range-11758267675327.html
 
 - S&P 500, Nasdaq, Dow and Russell 2000 Hit Records: Markets Wrap - Bloomberg.com
-  The Dow, Nasdaq and Russell 2000 hit
+  The Dow Futures Waver; Nvidia's Intel Bet; Xi-Trump Call Expected — Live Updates.
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPcndTeTJGczJqLVJObE1YWEFTLUdZaWdTRE8zU3BZT1NTNDctUTM4VjdIdnhxWUlSRDJhbGcwYXJhbHN5Z1V4Q3dkRnpvc0t1NURGcmUwSHFZcnN0TzZZQUhyQkotUkVOT2V1OWIzTC1VLUY0X0tZVVFpeDhBNDBlc1k2Ul84MFBfSVp4Wlc0WWpwbmFv?oc=5
 
-- Markets News, Sep. 18, 2025: S&P 500, Dow, Nasdaq Hit Record Highs as Tech Stocks Surge; Intel Jumps as Nvidia to Invest $5 Billion - Investopedia
-  Markets News, Sep. 18, 2025: S&amp;P 500, Dow, Nasdaq Hit
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE5yeW1faGRMV3hkWldFakpoWmlMellUN1dGMGxsYUdFelNnc0txa3M1RDVPcEZlV3U0UWEwY3JjU3o4Wm05V3draGdGOEtkSUttdWpOUUVjXzFfbHltbERoTFZtZFJyZ3JoaDVuMFZzaw?oc=5
+- Wall Street futures steady as markets digest central bank moves - Mint
+  Wall Street futures steady as markets digest central
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbEktbG5tYWUwdnRpV3RHUFFkZjBqSFJWMmNGcU5oemswMjl1b2g0WF9nTEZ0bUtIY3dyRWdRR3N1Q3F4bXFtZWNNN1RBZTk5SndRQWZxdFFqU3dob0otYUlaek1yVjVtZVhVbXRfUTFpQlFBazNVMEM2bjIxZnBUMGJDazRqZzk5XzZJaHM3MmMtblcwVlFzOTBESXhrU2IzbHpOVkZlR3dicWhVMG95dDJZdDR0Yk5aU1lfMy1jVmpVdXFUU053NzVGZE9FQQ?oc=5
 
-- Wall St mixed as markets await Feds rate decision - Mint
-  Wall St mixed as markets await F
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1BYbThJeDE5SWRDZ2M5UnQxTVBRR1FtazN6dGNoczVieVN1QW9SRG55Tjl2bkxwdk15bkRXeUcwNWlzNW1ON0x2Si12LUxiRnVnRGpPb2RQUmkyQTNscklFanJEMGVvdVgyR25vNDF1WWszQWtXcEZkQkFXQUhFeDB2YzZQazlSZ1VEZFNRY0pzTTJsdXJieDMzbzF1V29GRTc0MVJrTWo0U3IwWHk3RTZZVXpyQWZXTzJj0gHAAUFVX3lxTFBhVS1TOXhaSjQ1Z1FTYi1iTkxTb1BFYXR4OFJXeWRwUHMyemozVjNiWDVXMXg1MnhfQzRydENndE5LbjUyMTV1a0dDNTNpNXU4SzdfN3QxSHV6bkl2X1o5R3ZSUFJHQzZnSjJKdnhHd1k3d0I5cGJzTU4wWVFybS0tLWVGT2h6RHhUbE1EZlh1cXotanA4MTBMa3JDNnRyZGdwRVZJWlJDdVo0N29ZaVF4VnJ2VGdQNThzc2syV25QVw?oc=5
+- CNBC investigates Walmart's Marketplace, Colbert backs Kimmel and more in Morning Squawk - CNBC
+  CNBC investigates Walmart's Marketplace. Colbert backs Kimmel
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNUgzZHFOdkotQ1dZWWRoRW9oUk56aEZ1R0ZWQVNqT3BwMERwZ0t6Q1BSbkFHZ3AtSFZvODhTS2dveDMzQkFGZmNKYlpDSEc0X0dFZHFISVQxbDVUQ2lUVDkwXzNLdk0tRGQwSzBfWmMxZUFDXzl1bUlYUGlvWFdEeTFmcHYzRE5JZ2Y40gGQAUFVX3lxTE1PSmdJSU5zR1Vfd1ZIZ3FxRTV4RWtzelR2N2N3aTBleXh0eU9QdmZaNVQxamlfYUhmS1FPZnBSV0FHQWI0dS1vb1Fyd3VGbkFoOTNzNnMyUERoVTZrc0N4SVltY2hHS3prZVdXRHcwaVlQbGIweTh0Y2tqcVoyLTZPY1BZTUN3UkpkdXQ3LUJQaA?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market LIVE Updates: Sensex tumbles 500 pts, Nifty below 25,300; Adani Gr... - The Economic Times
+- Stock Market Highlights: Sensex breaks 3-day winning streak, settles 387 pts lower; Nifty below 25,350 - The Economic Times
   <ol><li><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb0RMLU1mTi1uTU9iZEppRm5zd2dqMElVM3hVdUkwQjVFcDFsaGtwaVNOT2RoRU1YWUp5UFZpbFhKRW1velJDTlVkc3JUTnd0SjFlajR6eTd5T3VhNGRKVUN3QTYzbXlVUD
   🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb0RMLU1mTi1uTU9iZEppRm5zd2dqMElVM3hVdUkwQjVFcDFsaGtwaVNOT2RoRU1YWUp5UFZpbFhKRW1velJDTlVkc3JUTnd0SjFlajR6eTd5T3VhNGRKVUN3QTYzbXlVUDlsYVVWYVRHUXlwakUtMTMtUnBaVENBa2pFOUwzQVVZUEtKNDFSbGV2WTRiUWxUbHVldEJnbFlPQThOWkcwdmNZRFdMT3VoYjJNRVFIbG1fNlVnckVBOVlCV3Y2Nk80MWFzcVlwcDNVUC0zclBPRUF2d9IB3wFBVV95cUxQU1JnZ2hHWEt5d2YzNUhDeTgxS29SdFA1SW5EWmdVejVOSVprQUFwYl9kUGF0SkpsR0w0OEZtMjBtRldUeDlKNzd5Y1V5aUpUaDB0VG9EbE9xUmxWb1g5bGFELUpwMkRTUVJ1TDVESGdERzdkNUk0cGdGVXM0bkNNdHdmbGliSVJuMzNJQ1o3MmpXY2poZTkyQVJPQnRxa1F4azBpbVpwVHEzakVPdllBOFFZdmFQcGlOSmdxS0t3SlJUU0l1akd2djIwMGJ0bWV3RGl2djBFQlV0bm4xVVhn?oc=5
 
-- Rs 46,000 crore rally! What Sebi slamming the door on Hindenburg means for Adani investors
-  The verdict has sparked a strong market reaction, with the group’s combined market capitalization surging over Rs 46,000 crore to Rs 13.8 lakh crore. Individual stocks jumped up to 10%, marking the end of a regulatory
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rs-46000-crore-rally-what-sebi-slamming-the-door-on-hindenburg-means-for-adani-investors/articleshow/123991448.cms
+- Stock markets steady on SIP flows: Jefferies says mutual fund inflows preventing crash; stocks seen tradi - The Times of India
+  Stock markets steady on SIP flows: Jefferies says mutual fund inflows preventing crash
+  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNT2dTM3pDQ3Y2Z1UwbW9YX2pIdnlNZm4wbzVNWnpha2dIRThQbTFyR1huYzF2WmNxMTVvRDFKY2oxUWVGOEVTRFUxazN4Y05ocUJNYXdGVU1TUU91MEJLaG5reVhxQm1XSXRBb3BuaFRUQ29UVHRUb3c2RWd3NGNEdEZLbF9MaDhUQUN4M01CQTBqTWtmLVNqWF9aSXllSWdlMGFfcTVxVnZLQzFpbEZFemFwa2NDOWJVSDlpUnJrX0hRMVJabTBTZl9ndmUyYWhBSHpXenlidzI4dm9ZRGdzWVYzZjZYMEMyLTQzSmJXS3N3eUoybXpudHZqeXV4X040Z3VnemlLdEE0YUxuLTVTcGZtTWcwWFIwY0JUSERGNndBTHNtSW9V0gGsAkFVX3lxTE5DdURISkVsd0FXUl9mWmZDZzJlcTllQ3lnUkh2YlA2VEJZWnB4STFLNGJKdndsRVVra2I1WU5ZSktiZmlPdlRqcXY1cUxzOEFUam5PSzNaNU53ak1kUDdRR3p0SVZaNFQ5dW5peUl4SVJSWEhxTi0tT3ZKNDBKN3BsMWlDcUpVOFVSNzBrNlVZSzlOMFJ6OUJvOGhORXJGQnZMVS1nR29TZlRPUDIwck05elJCQ0NYX2lOczhmTVI1dXQ5bVZmUGswM1c1QnVDZ0gyWUVNUkNqaE1xWGNoc0p5V0ROUE0yNEc5b2E3OWhiU3NXZWh6bmpXX3A5YW1TaTFDRlVKOHUwalh5ZmxmNFpoMGEyR24tRFdnazlQU3Q0allVZG9RdjdxSndGMw?oc=5
 
-- VMS TMT IPO Day 3: GMP at 15%, Subscribed 21.75 times; Should You Apply? Check key details
-  VMS TMT's Rs 149 crore IPO closed with strong oversubscription, driven by retail and non-institutional investors. The company plans to use the raised funds to reduce borrowings and for general corporate purposes.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/vms-tmt-ipo-day-3-gmp-at-15-subscribed-21-75-times-should-you-apply-check-key-details/articleshow/123991246.cms
+- India 10-year bond sees second weekly fall on Fed letdown
+  Indian government bonds fell for a second consecutive week. hawkish commentary from the U.S. central bank pushed up Treasury yields.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-sees-second-weekly-fall-on-fed-letdown/articleshow/123998578.cms
 
-- iValue Infosolutions IPO Day 2: Issue booked 37% so far; GMP slips to 5%. Should you bid or skip?
-  iValue Infosolutions’ Rs 560 crore IPO is 37% subscribed on Day 2, with retail investors at 59% and NIIs at 33%. The OFS includes 1.87 crore shares priced at
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ivalue-infosolutions-ipo-day-2-issue-booked-37-so-far-gmp-slips-to-5-should-you-bid-or-skip/articleshow/123990969.cms
+- Adani Power, Ashok Leyland and 5 other stocks hit 52-week highs and rallied up to 18% in a month
+  Sensex dropped 387 points to 82,626 on Friday. Seven BSE 200 stocks hit fresh 52-week highs, signaling strong momentum.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-power-ashok-leyland-and-5-other-stocks-hit-52-week-highs-and-rallied-up-to-18-in-a-month/slideshow/123998444.cms
 
-- Bloomberg seeks investor feedback on including India in global bond index, document shows
-  Bloomberg Index Services is gauging investor sentiment regarding the inclusion of Indian government bonds in its global aggregate index. India could attain a 0.7% weightage, becoming the ninth largest in the index.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/bloomberg-seeks-investor-feedback-on-including-india-in-global-bond-index-document-shows/articleshow/123990838.cms
+- Vodafone Idea among 7 midcap stocks with high EV to Market cap ratios
+  Several NSE midcap companies, including Vodafone Idea and HPCL, show high EV/MCAP
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-among-7-midcap-stocks-with-high-ev-to-market-cap-ratios/slideshow/123997713.cms
 
-- JSW Energy shares up 3%, rise for 2nd straight session: Here’s why
-  JSW Energy shares surged following the announcement of JSW Neo Energy's acquisition of Tidong Power Generation for Rs 39 crore. GE Power's boiler business demerger into JSW Energy, with a share exchange ratio
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jsw-energy-shares-up-3-rise-for-2nd-straight-session-heres-why/articleshow/123990833.cms
+- Sebi, RBI in talks to boost trading in corporate bond index derivatives
+  Sebi whole-time member Ananth Narayan G said on Friday. Sebi and the Reserve Bank of India are in discussions on corporate bond index derivatives
+  🔗 https://economictimes.indiatimes.com/markets/bonds/sebi-rbi-in-talks-to-boost-trading-in-corporate-bond-index-derivatives/articleshow/123997416.cms
 
-- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
-  US May Remove 25% Penal Tariff On India After
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
+- Gainers &amp; Losers: Adani Power, Urban Company and Paytm among 6 major movers on Friday.
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-losers-adani-power-urban-company-and-paytm-among-6-major-movers-on-friday-/slideshow/123997174.cms
 
-- Russia's strong message to US over Trump tariffs: 'Threats to India, China won't work' | Latest News India - Hindustan Times
-  Russia's strong message to US over Trump tariffs: 'Threats to India,
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaUxydExtMUJ0bGcwdG43NEV0X2lkc3dvMl8xOXctNkp5MEs0djE1YjFJMjNDNVdPOXl2YzVDczJLVzBGN1gxZndQeU92OGFGdXI5S3ZvUTdrMGlIcXpKeXNXZnZZTGdVLWJQV1Z1VWNBb3ZsVjRXQnl6RzBSbGRYWXQ2QXZZX3otbU1URUtRNkM5VG9CblUzanM4d3VPQUdsdmI2Nko2MUFFcHNNblhBblZZMk5ZRC1BSnpyTWpzdHJiUGtBUEVrMnpIWFFYdV9wNGdEcDZWQm8ybVXSAeABQVVfeXFMTm1kQjBlZF9TZmZUY1RJZmxQZVVJWTVZTkkybXBwX1pjaDZlZkNVUkFTaXhuZV9FY2VZUDdhNUtmTXRkTmJJbGU5MFBLM0dvUUZLdUpPN21NVFBabjZOTERUM2NVYVFsdVU4V3Fya3NrWk5oVGZzaEtxa3BVNGpfaG5NdWxJM1dCM0ZZbUVIckV5eGJUVVNzdUs0SmRwVFgzUmRub2R1WEdEbEM2RVJSS0N1WVVTeG10Z2sxSFc4ZEJiVVZxTGhjUjFxc0xVVUEwMlJ5SzlqcWdfVmlkM29fN0M?oc=5
+- U.S. President Donald Trump on his relationship with India and Prime Minister Narendra Modi - The Hindu
+  U.S. President Donald Trump on his relationship with India and
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQSFRndEhjbUZxTng1RkFkN193UTRpMklTRE9ONC1rR1djWjh1cWxuVUVzZ1dkTEU3bzJMbTFSTzdWOGpzS0hiOWtENlVZMEcwbGUxNEUyS090cDhBQ00tY2dpN2VkeUQ3TkxHTWM1cHpydG5jUjhKbUNBc3VaenJoWFFRR1RGMUVGSmM5SHRpbmp3cWpVTXNRQzFyNHFidW1kWTZvVlpJZW5nSWxPYmdUUWhaVGdkVllwampremxycnREWVF3S1Yw0gHOAUFVX3lxTFBKR1VwXzJwVzVKbXlaWWpablhOV0FCY3hrRzZsSF82TENITWJMcGRDN0U4Tl9GRUJEeVZtekVja2JWVmpuS05HaU0tZ0FJeGhBVE4xMkE3MWYtWnNqMEE1OUpnUzlXeFpvckUtUUtYSE16WmFUa3Z6a29VdS1YNkhmejZkRVdqZUF5aGlNUVVxUEF4djFYdGZLOFhzbDFnS2JlTzBMcTZMSGppWTlEaDZ3TlVSTkthVF9GalFwMUxmY29rQzRVN0I4c1F4UFh3?oc=5
 
-- Nirav Modi's extradition to India delayed again? UK court accepts plea to ‘reopen’ case, says report - Mint
-  Nirav Modi's extradition to India delayed again? UK court accepts
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaHgzY2Y0ZjZOUm5PTURORUxMUmdDSnVDVC1YSU5rU1YtVTdWSktjTm5QbnMzbzZVWVUwQ1lzbm1mMzRZRDFSNmRRejNaLWduRnhfaDVZRnU0UTVJaUROOTE4QUdyQ0M2NDQ1bGVsZ25XelQ4Snl6R3NVRENlXzU1d004RVc5WWJhOXdDQ0Q3X0ZZS2laNWxBV2Z1Vm9SdGhxa0o5SzI1ZlpVSkZqa0dPWnZ6NGFqMGQxSTBSN1ZpeWV3RlNRdEx2Q0E3VTAtbGg5TDNXUzlhMlF0Rk1NRGJiX0VvSGg3Z9IB6wFBVV95cUxPRUY4UGZaN3lyMVFpcTA4TkMtS0kyc3MyVVBudDN0Y1lZRGxTTTFDeW5hSlhoVk1icEMtTi1pTkRWLWNGcWxiRmdXRXUtSllrVUJkaDFwZExNYUc5ZDNkYmxYbmJ2aVVCN3hNYnpzSzdpbE9kZkZHNVNtVTBFRmFHblB2RHFDVnF0Q3l2MVA0U2VtWFpiZkE0S0VFdDlUVTNwUXhpVkpJYndFM1Rwa3dwclJPU3JGazJrd1VNc1BYLW44dXBSZk1nR1hEZW83Mm9DSEVSU2htTlJ3SmNKTEthN2VqaDBsRWFEdTkw?oc=5
+- 'Close To India... Sanctioned Them': Amid Bonhomie, Trump's Mixed Messaging - NDTV
+  'Close To India... Sanctioned
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQejhkZm1wTzhGR0tvLVdZT2syR0NsekFhWE1sbmhPTUo4M2ZpemU3UnhXMkpDOWgxdHVjRDhnQVRJZnhaazBzbU5pVld4ZWdpbHJaTHM5MG1abVZrYzVlM0g4TGwwZ2UxY0lMbmVnQ1dxX2NVd3U4eXRVeGpxRUR0a1d6TDk3X1R2OG1wbjlydmJXaWx2VnppLXVlWnBJLUtZajZrM21Da0J0Z1dKbkhxZnJNZG4wZjBsMVdMTTU4R2xEZXBvTW9YNXZWcFVFLXVsc0hjX0VNWUtOcmRFUFN3WTNpZUhPZzBsbXJWODN30gH2AUFVX3lxTFBORnpqMkc1MmZLZ2Z4bnJfUVZSUWhGMFNQMjdOZlk0SnFEdV9NY3F4Q1l6eDhQYUpUNTlqWDNKOWhUUE9HdDNaclRPTy1YZHlTYWhtTm9IVnI4cV9KaUtXSUxJNVJaZ0RRMDNtdzBXdVNtSmNZYkxLRmJlUjFuRjQxNjBYSE9UQXNKY1U5eUVFZnNKc0NYYmFxbWlpTTZlUHVEWEV2MU9DU0tYVjlkbDhyQjB0YzU3SHNrM2FEOUlhR1hCeUkxUVZMUUw1ZHVUcWdNcUN2Y2JBdzVYUGRWZzZoeXpydFFUS3lBVnRpNDdCdGtWV3MxUQ?oc=5
 
-- Mumbai queues up for iPhone 17 before sunrise, huge crowd at Bandra Apple store | Video | Latest News India - Hindustan Times
-  Mumbai queues up for iPhone 17 before sunrise, huge crowd at Bandra Apple store.
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPckRDbW1OY0pYdUZ3YUZYRkVnb1lUQnJqbXUyV2JGNTFiczVTSFRaNGppOHBMdEx5RmNxRnVscGh2Q01FX1Z2NUt6aXk0ajNxZlJlRkwzZloya1JYQWRSTzVhaDNWRDZBS0x1TXMzQUV2bVBWY1p4WXE4V2pjeE9Rb05KbzFacnpuWklRX2Y3VUg5MkRxWVNMV0c3UEZ6TURKWEIxcm16T21hUWZ0QW9KVHR6eEJNd0NxNDUyWDlfSUdtU3k5eUhYWUgyR0tnSk0tVGhPRzFJZzlnTVJtYzJzRnB6UGc1QdIB6wFBVV95cUxOd0VJUS1QNlQ5cEtUR3o5X2Z1Y1Z3YTB0ay1pZVBsZnZPVmpPN3p4a1dUcV9LTkE4aElsZmcxbGhkM21lMThsQXpBMk1BMUlCVzdhUXZ6c1VrdEUzVFhGajZyc1FYX2NPNHNzbS1lRm9LamIzT0lNekI0VFNtYnM5c0dNUGlBV0ZIclBjLUJhRjVCWXRYdmx1TVZMY2lmRVpGMEwtU0xsTjBLTG1uc2lXVWFlSjNwSHU1cUxvMm9yb2J0VC1LTjltdlRHWGVUaURYSHhuaEZkOXd3NG1HU05oV3ZNenhXWUo4Z3Rn?oc=5
+- In First Foreign Outreach, Nepal Interim PM Sushila Karki To Speak With PM Modi On Thursday - NDTV
+  Nepal Interim PM Sushila Karki To Speak
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNU2x2VXVlWW9FYU5wanljNjN4SEFaN21EUmFmX003T0dyUlFMaTJyVjRxYnJ1OXg5b2Z1NkhJUmgwaVM5Qm4yamp5U2RQVkxjX0d1WmlVajRyamVOOXNqZU1TUU5lZ0RBNFhfYlhleGk2OXVUNFdMWUx0cURQc0xIdmV4NG9uemRfRE02cE5jbjl4SmtodV95aWRUZDJQbWhHWmRQR2ZTNUh0emw1Mm5jX243NmtBUzlHUHJfbU5nTjN0TGFHSUd4aUt30gHSAUFVX3lxTE5jaFdOXzVuTk0zaWxTQ3ZEN2RvT2JNYzBJNkFrQVVnNFBBdFJYdlJVeVdjTXUyeWpTTEp4bElsalhHYmhqSHFvWkp2cGVudmxLSXdoRmsyd3FwbFZmYnR0RXhzMDlubTROME1SYW1fNnNkRGZRY0JUN0txMnhFWFIxUHI1ZHJKRDJfX1JkYktJWmJvczRreVVkMy1ka1lnbGlFUDgtX2ZFYzJrR0xjNVp1WnhVeVBZdE9NdjZ1RHhfemY2aGlfVGJjdG5feWVadE5Kdw?oc=5
 
-- Apple iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max and iPhone Air goes sale in India today: India Pricing, - Times of India
-  Apple iPhone 17, iPhone 17 Pro, iPhone17 Pro Max and iPhone Air goes sale in India today
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNWTVsZDZid1VHZFF0d29GTlBCY3BhMktsRVVzdVpPd1VYY1NSZDhUOEZJTTlDWUFjcWJ3MHJhNzhCa29fMjRMalZDbklZcDZHakRKUWpaMGNncVRWemNMQndub2tWa1d4LWRvVHlhRVhtd1AxTDNXc2pMUkhVazB4NnZGaENIemNiYy1uQW9QRjNfajhGeVBWZmFHck1ZcnNYd1JsVkRyTUlaT251S1ZHR0NYel9CaTVVN3hXaVdQT1NSN2lzb2J1cjNHekpleGN6alRudnZxa1RlblB1Q09FZHVzdG9aZTVTckx6bV9HV2NkZ0NFMm8tYVR3NjN0b1N3cDR5OWEwUnBYSmVWSmM0TDhodkFlOUZhRVV2MExTUXBaVkxoMENN0gGsAkFVX3lxTFB1YVQ4MEt3c0xhQkdzNVBKLVdCbzlZVWhJWHI5ZGJqdlFwb1R2RkxCY0hxY3p0R2tiTHdBWWgtbjFEVHozWjh4TllucUQ2SEEyNEdVZ0ZFc2dTQzl0ZTcyMXNhVlpYNGR6VWdEc3dCNV96QmZFZmtjakh4QlF1LXVFT0lyUW0xRF9FajJrTmxScy0tcjZlQ2ZXTUhINXNfb2xmbkR2c25WS0lRWHFuUGpVbmxKanRIOUM0TXA4Rm5WbWs5b1A4MTVZZlg2bnVkNWpaN3AxTmJIOHhjZVlscDhwR3JsMjhjc2tSYmlHTGxOX1dlTXJZbGJSdEhEN1RaVEVFbVgwYkNyMG9UN0VYUEVQeUlpcUV4T2g4SHVHZVZGOEVIUVRRMHpCUUdVcw?oc=5
+- Saudi-Pak defence pact: India says will protect national interest - The Times of India
+  The Times of India says the pact will protect national
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOUWJ1VllLV1RrTkt1dVU0TnU4Ql83blhEZm42UWtrOEdQZmdFMHhyZ0g5RzNaUG9vdHl3NFZRQ19fR0dvNFMxUTZGZEhHU0tkQzRwMWlkXzNCZmt4MEdPOUNTdFBzVHVEN0JqM05MTHM4Tm5KeFFIemhXcEp3ZDRtSmJ0TWFGenZSb3FOeXBNRnpyQzNLc2dkQ0UyeTBiOHZrNWl1d1MyMjQzVUh4SVBWU2R1RGpyWjY2REEzNFptd3kyd3YtZUhpdEVSTULSAdIBQVVfeXFMT0o1RmJNSVg4cGdqQk54aWRIcGVHNnhZcktUSUs4dXg2T3lYZ0NIZEVjVGJmSVFQa1N3QjY3WTRvYVlSbXprLXpZbFBXZGhRLTBzRHRhWVZYRk5BcTNJUU9PLTNkd1d0RG12RE9xbUtvN0R3ZVBOdVI2UE56YTJXdS1EOGJrc2k4VHdTTTQ0TmZPMl9acWVzVFI3OV9mVUE3cGlpc3VWaWY1VXRsUlp0OXN4c0FGUUNLTUI2RmFBVGpUc2podVVjWS1hT3JZOUMwV2FR?oc=5
 
-- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
-  US May Remove 25% Penal Tariff On India After
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
-
-- Russia's strong message to US over Trump tariffs: 'Threats to India, China won't work' | Latest News India - Hindustan Times
-  Russia's strong message to US over Trump tariffs: 'Threats to India,
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaUxydExtMUJ0bGcwdG43NEV0X2lkc3dvMl8xOXctNkp5MEs0djE1YjFJMjNDNVdPOXl2YzVDczJLVzBGN1gxZndQeU92OGFGdXI5S3ZvUTdrMGlIcXpKeXNXZnZZTGdVLWJQV1Z1VWNBb3ZsVjRXQnl6RzBSbGRYWXQ2QXZZX3otbU1URUtRNkM5VG9CblUzanM4d3VPQUdsdmI2Nko2MUFFcHNNblhBblZZMk5ZRC1BSnpyTWpzdHJiUGtBUEVrMnpIWFFYdV9wNGdEcDZWQm8ybVXSAeABQVVfeXFMTm1kQjBlZF9TZmZUY1RJZmxQZVVJWTVZTkkybXBwX1pjaDZlZkNVUkFTaXhuZV9FY2VZUDdhNUtmTXRkTmJJbGU5MFBLM0dvUUZLdUpPN21NVFBabjZOTERUM2NVYVFsdVU4V3Fya3NrWk5oVGZzaEtxa3BVNGpfaG5NdWxJM1dCM0ZZbUVIckV5eGJUVVNzdUs0SmRwVFgzUmRub2R1WEdEbEM2RVJSS0N1WVVTeG10Z2sxSFc4ZEJiVVZxTGhjUjFxc0xVVUEwMlJ5SzlqcWdfVmlkM29fN0M?oc=5
-
-- Nirav Modi's extradition to India delayed again? UK court accepts plea to ‘reopen’ case, says report - Mint
-  Nirav Modi's extradition to India delayed again? UK court accepts
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaHgzY2Y0ZjZOUm5PTURORUxMUmdDSnVDVC1YSU5rU1YtVTdWSktjTm5QbnMzbzZVWVUwQ1lzbm1mMzRZRDFSNmRRejNaLWduRnhfaDVZRnU0UTVJaUROOTE4QUdyQ0M2NDQ1bGVsZ25XelQ4Snl6R3NVRENlXzU1d004RVc5WWJhOXdDQ0Q3X0ZZS2laNWxBV2Z1Vm9SdGhxa0o5SzI1ZlpVSkZqa0dPWnZ6NGFqMGQxSTBSN1ZpeWV3RlNRdEx2Q0E3VTAtbGg5TDNXUzlhMlF0Rk1NRGJiX0VvSGg3Z9IB6wFBVV95cUxPRUY4UGZaN3lyMVFpcTA4TkMtS0kyc3MyVVBudDN0Y1lZRGxTTTFDeW5hSlhoVk1icEMtTi1pTkRWLWNGcWxiRmdXRXUtSllrVUJkaDFwZExNYUc5ZDNkYmxYbmJ2aVVCN3hNYnpzSzdpbE9kZkZHNVNtVTBFRmFHblB2RHFDVnF0Q3l2MVA0U2VtWFpiZkE0S0VFdDlUVTNwUXhpVkpJYndFM1Rwa3dwclJPU3JGazJrd1VNc1BYLW44dXBSZk1nR1hEZW83Mm9DSEVSU2htTlJ3SmNKTEthN2VqaDBsRWFEdTkw?oc=5
-
-- Mumbai queues up for iPhone 17 before sunrise, huge crowd at Bandra Apple store | Video | Latest News India - Hindustan Times
-  Mumbai queues up for iPhone 17 before sunrise, huge crowd at Bandra Apple store.
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPckRDbW1OY0pYdUZ3YUZYRkVnb1lUQnJqbXUyV2JGNTFiczVTSFRaNGppOHBMdEx5RmNxRnVscGh2Q01FX1Z2NUt6aXk0ajNxZlJlRkwzZloya1JYQWRSTzVhaDNWRDZBS0x1TXMzQUV2bVBWY1p4WXE4V2pjeE9Rb05KbzFacnpuWklRX2Y3VUg5MkRxWVNMV0c3UEZ6TURKWEIxcm16T21hUWZ0QW9KVHR6eEJNd0NxNDUyWDlfSUdtU3k5eUhYWUgyR0tnSk0tVGhPRzFJZzlnTVJtYzJzRnB6UGc1QdIB6wFBVV95cUxOd0VJUS1QNlQ5cEtUR3o5X2Z1Y1Z3YTB0ay1pZVBsZnZPVmpPN3p4a1dUcV9LTkE4aElsZmcxbGhkM21lMThsQXpBMk1BMUlCVzdhUXZ6c1VrdEUzVFhGajZyc1FYX2NPNHNzbS1lRm9LamIzT0lNekI0VFNtYnM5c0dNUGlBV0ZIclBjLUJhRjVCWXRYdmx1TVZMY2lmRVpGMEwtU0xsTjBLTG1uc2lXVWFlSjNwSHU1cUxvMm9yb2J0VC1LTjltdlRHWGVUaURYSHhuaEZkOXd3NG1HU05oV3ZNenhXWUo4Z3Rn?oc=5
-
-- Apple iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max and iPhone Air goes sale in India today: India Pricing, - Times of India
-  Apple iPhone 17, iPhone 17 Pro, iPhone17 Pro Max and iPhone Air goes sale in India today
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNWTVsZDZid1VHZFF0d29GTlBCY3BhMktsRVVzdVpPd1VYY1NSZDhUOEZJTTlDWUFjcWJ3MHJhNzhCa29fMjRMalZDbklZcDZHakRKUWpaMGNncVRWemNMQndub2tWa1d4LWRvVHlhRVhtd1AxTDNXc2pMUkhVazB4NnZGaENIemNiYy1uQW9QRjNfajhGeVBWZmFHck1ZcnNYd1JsVkRyTUlaT251S1ZHR0NYel9CaTVVN3hXaVdQT1NSN2lzb2J1cjNHekpleGN6alRudnZxa1RlblB1Q09FZHVzdG9aZTVTckx6bV9HV2NkZ0NFMm8tYVR3NjN0b1N3cDR5OWEwUnBYSmVWSmM0TDhodkFlOUZhRVV2MExTUXBaVkxoMENN0gGsAkFVX3lxTFB1YVQ4MEt3c0xhQkdzNVBKLVdCbzlZVWhJWHI5ZGJqdlFwb1R2RkxCY0hxY3p0R2tiTHdBWWgtbjFEVHozWjh4TllucUQ2SEEyNEdVZ0ZFc2dTQzl0ZTcyMXNhVlpYNGR6VWdEc3dCNV96QmZFZmtjakh4QlF1LXVFT0lyUW0xRF9FajJrTmxScy0tcjZlQ2ZXTUhINXNfb2xmbkR2c25WS0lRWHFuUGpVbmxKanRIOUM0TXA4Rm5WbWs5b1A4MTVZZlg2bnVkNWpaN3AxTmJIOHhjZVlscDhwR3JsMjhjc2tSYmlHTGxOX1dlTXJZbGJSdEhEN1RaVEVFbVgwYkNyMG9UN0VYUEVQeUlpcUV4T2g4SHVHZVZGOEVIUVRRMHpCUUdVcw?oc=5
-
-- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
-  US May Remove 25% Penal Tariff On India After
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
-
-- Russia's strong message to US over Trump tariffs: 'Threats to India, China won't work' | Latest News India - Hindustan Times
-  Russia's strong message to US over Trump tariffs: 'Threats to India,
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaUxydExtMUJ0bGcwdG43NEV0X2lkc3dvMl8xOXctNkp5MEs0djE1YjFJMjNDNVdPOXl2YzVDczJLVzBGN1gxZndQeU92OGFGdXI5S3ZvUTdrMGlIcXpKeXNXZnZZTGdVLWJQV1Z1VWNBb3ZsVjRXQnl6RzBSbGRYWXQ2QXZZX3otbU1URUtRNkM5VG9CblUzanM4d3VPQUdsdmI2Nko2MUFFcHNNblhBblZZMk5ZRC1BSnpyTWpzdHJiUGtBUEVrMnpIWFFYdV9wNGdEcDZWQm8ybVXSAeABQVVfeXFMTm1kQjBlZF9TZmZUY1RJZmxQZVVJWTVZTkkybXBwX1pjaDZlZkNVUkFTaXhuZV9FY2VZUDdhNUtmTXRkTmJJbGU5MFBLM0dvUUZLdUpPN21NVFBabjZOTERUM2NVYVFsdVU4V3Fya3NrWk5oVGZzaEtxa3BVNGpfaG5NdWxJM1dCM0ZZbUVIckV5eGJUVVNzdUs0SmRwVFgzUmRub2R1WEdEbEM2RVJSS0N1WVVTeG10Z2sxSFc4ZEJiVVZxTGhjUjFxc0xVVUEwMlJ5SzlqcWdfVmlkM29fN0M?oc=5
-
-- Nirav Modi's extradition to India delayed again? UK court accepts plea to ‘reopen’ case, says report - Mint
-  Nirav Modi's extradition to India delayed again? UK court accepts
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaHgzY2Y0ZjZOUm5PTURORUxMUmdDSnVDVC1YSU5rU1YtVTdWSktjTm5QbnMzbzZVWVUwQ1lzbm1mMzRZRDFSNmRRejNaLWduRnhfaDVZRnU0UTVJaUROOTE4QUdyQ0M2NDQ1bGVsZ25XelQ4Snl6R3NVRENlXzU1d004RVc5WWJhOXdDQ0Q3X0ZZS2laNWxBV2Z1Vm9SdGhxa0o5SzI1ZlpVSkZqa0dPWnZ6NGFqMGQxSTBSN1ZpeWV3RlNRdEx2Q0E3VTAtbGg5TDNXUzlhMlF0Rk1NRGJiX0VvSGg3Z9IB6wFBVV95cUxPRUY4UGZaN3lyMVFpcTA4TkMtS0kyc3MyVVBudDN0Y1lZRGxTTTFDeW5hSlhoVk1icEMtTi1pTkRWLWNGcWxiRmdXRXUtSllrVUJkaDFwZExNYUc5ZDNkYmxYbmJ2aVVCN3hNYnpzSzdpbE9kZkZHNVNtVTBFRmFHblB2RHFDVnF0Q3l2MVA0U2VtWFpiZkE0S0VFdDlUVTNwUXhpVkpJYndFM1Rwa3dwclJPU3JGazJrd1VNc1BYLW44dXBSZk1nR1hEZW83Mm9DSEVSU2htTlJ3SmNKTEthN2VqaDBsRWFEdTkw?oc=5
-
-- Mumbai queues up for iPhone 17 before sunrise, huge crowd at Bandra Apple store | Video | Latest News India - Hindustan Times
-  Mumbai queues up for iPhone 17 before sunrise, huge crowd at Bandra Apple store.
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPckRDbW1OY0pYdUZ3YUZYRkVnb1lUQnJqbXUyV2JGNTFiczVTSFRaNGppOHBMdEx5RmNxRnVscGh2Q01FX1Z2NUt6aXk0ajNxZlJlRkwzZloya1JYQWRSTzVhaDNWRDZBS0x1TXMzQUV2bVBWY1p4WXE4V2pjeE9Rb05KbzFacnpuWklRX2Y3VUg5MkRxWVNMV0c3UEZ6TURKWEIxcm16T21hUWZ0QW9KVHR6eEJNd0NxNDUyWDlfSUdtU3k5eUhYWUgyR0tnSk0tVGhPRzFJZzlnTVJtYzJzRnB6UGc1QdIB6wFBVV95cUxOd0VJUS1QNlQ5cEtUR3o5X2Z1Y1Z3YTB0ay1pZVBsZnZPVmpPN3p4a1dUcV9LTkE4aElsZmcxbGhkM21lMThsQXpBMk1BMUlCVzdhUXZ6c1VrdEUzVFhGajZyc1FYX2NPNHNzbS1lRm9LamIzT0lNekI0VFNtYnM5c0dNUGlBV0ZIclBjLUJhRjVCWXRYdmx1TVZMY2lmRVpGMEwtU0xsTjBLTG1uc2lXVWFlSjNwSHU1cUxvMm9yb2J0VC1LTjltdlRHWGVUaURYSHhuaEZkOXd3NG1HU05oV3ZNenhXWUo4Z3Rn?oc=5
-
-- Apple iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max and iPhone Air goes sale in India today: India Pricing, - Times of India
-  Apple iPhone 17, iPhone 17 Pro, iPhone17 Pro Max and iPhone Air goes sale in India today
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNWTVsZDZid1VHZFF0d29GTlBCY3BhMktsRVVzdVpPd1VYY1NSZDhUOEZJTTlDWUFjcWJ3MHJhNzhCa29fMjRMalZDbklZcDZHakRKUWpaMGNncVRWemNMQndub2tWa1d4LWRvVHlhRVhtd1AxTDNXc2pMUkhVazB4NnZGaENIemNiYy1uQW9QRjNfajhGeVBWZmFHck1ZcnNYd1JsVkRyTUlaT251S1ZHR0NYel9CaTVVN3hXaVdQT1NSN2lzb2J1cjNHekpleGN6alRudnZxa1RlblB1Q09FZHVzdG9aZTVTckx6bV9HV2NkZ0NFMm8tYVR3NjN0b1N3cDR5OWEwUnBYSmVWSmM0TDhodkFlOUZhRVV2MExTUXBaVkxoMENN0gGsAkFVX3lxTFB1YVQ4MEt3c0xhQkdzNVBKLVdCbzlZVWhJWHI5ZGJqdlFwb1R2RkxCY0hxY3p0R2tiTHdBWWgtbjFEVHozWjh4TllucUQ2SEEyNEdVZ0ZFc2dTQzl0ZTcyMXNhVlpYNGR6VWdEc3dCNV96QmZFZmtjakh4QlF1LXVFT0lyUW0xRF9FajJrTmxScy0tcjZlQ2ZXTUhINXNfb2xmbkR2c25WS0lRWHFuUGpVbmxKanRIOUM0TXA4Rm5WbWs5b1A4MTVZZlg2bnVkNWpaN3AxTmJIOHhjZVlscDhwR3JsMjhjc2tSYmlHTGxOX1dlTXJZbGJSdEhEN1RaVEVFbVgwYkNyMG9UN0VYUEVQeUlpcUV4T2g4SHVHZVZGOEVIUVRRMHpCUUdVcw?oc=5
-
-- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
-  US May Remove 25% Penal Tariff On India After
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
-
-- Russia's strong message to US over Trump tariffs: 'Threats to India, China won't work' | Latest News India - Hindustan Times
-  Russia's strong message to US over Trump tariffs: 'Threats to India,
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaUxydExtMUJ0bGcwdG43NEV0X2lkc3dvMl8xOXctNkp5MEs0djE1YjFJMjNDNVdPOXl2YzVDczJLVzBGN1gxZndQeU92OGFGdXI5S3ZvUTdrMGlIcXpKeXNXZnZZTGdVLWJQV1Z1VWNBb3ZsVjRXQnl6RzBSbGRYWXQ2QXZZX3otbU1URUtRNkM5VG9CblUzanM4d3VPQUdsdmI2Nko2MUFFcHNNblhBblZZMk5ZRC1BSnpyTWpzdHJiUGtBUEVrMnpIWFFYdV9wNGdEcDZWQm8ybVXSAeABQVVfeXFMTm1kQjBlZF9TZmZUY1RJZmxQZVVJWTVZTkkybXBwX1pjaDZlZkNVUkFTaXhuZV9FY2VZUDdhNUtmTXRkTmJJbGU5MFBLM0dvUUZLdUpPN21NVFBabjZOTERUM2NVYVFsdVU4V3Fya3NrWk5oVGZzaEtxa3BVNGpfaG5NdWxJM1dCM0ZZbUVIckV5eGJUVVNzdUs0SmRwVFgzUmRub2R1WEdEbEM2RVJSS0N1WVVTeG10Z2sxSFc4ZEJiVVZxTGhjUjFxc0xVVUEwMlJ5SzlqcWdfVmlkM29fN0M?oc=5
-
-- Nirav Modi's extradition to India delayed again? UK court accepts plea to ‘reopen’ case, says report - Mint
-  Nirav Modi's extradition to India delayed again? UK court accepts
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaHgzY2Y0ZjZOUm5PTURORUxMUmdDSnVDVC1YSU5rU1YtVTdWSktjTm5QbnMzbzZVWVUwQ1lzbm1mMzRZRDFSNmRRejNaLWduRnhfaDVZRnU0UTVJaUROOTE4QUdyQ0M2NDQ1bGVsZ25XelQ4Snl6R3NVRENlXzU1d004RVc5WWJhOXdDQ0Q3X0ZZS2laNWxBV2Z1Vm9SdGhxa0o5SzI1ZlpVSkZqa0dPWnZ6NGFqMGQxSTBSN1ZpeWV3RlNRdEx2Q0E3VTAtbGg5TDNXUzlhMlF0Rk1NRGJiX0VvSGg3Z9IB6wFBVV95cUxPRUY4UGZaN3lyMVFpcTA4TkMtS0kyc3MyVVBudDN0Y1lZRGxTTTFDeW5hSlhoVk1icEMtTi1pTkRWLWNGcWxiRmdXRXUtSllrVUJkaDFwZExNYUc5ZDNkYmxYbmJ2aVVCN3hNYnpzSzdpbE9kZkZHNVNtVTBFRmFHblB2RHFDVnF0Q3l2MVA0U2VtWFpiZkE0S0VFdDlUVTNwUXhpVkpJYndFM1Rwa3dwclJPU3JGazJrd1VNc1BYLW44dXBSZk1nR1hEZW83Mm9DSEVSU2htTlJ3SmNKTEthN2VqaDBsRWFEdTkw?oc=5
-
-- Mumbai queues up for iPhone 17 before sunrise, huge crowd at Bandra Apple store | Video | Latest News India - Hindustan Times
-  Mumbai queues up for iPhone 17 before sunrise, huge crowd at Bandra Apple store.
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPckRDbW1OY0pYdUZ3YUZYRkVnb1lUQnJqbXUyV2JGNTFiczVTSFRaNGppOHBMdEx5RmNxRnVscGh2Q01FX1Z2NUt6aXk0ajNxZlJlRkwzZloya1JYQWRSTzVhaDNWRDZBS0x1TXMzQUV2bVBWY1p4WXE4V2pjeE9Rb05KbzFacnpuWklRX2Y3VUg5MkRxWVNMV0c3UEZ6TURKWEIxcm16T21hUWZ0QW9KVHR6eEJNd0NxNDUyWDlfSUdtU3k5eUhYWUgyR0tnSk0tVGhPRzFJZzlnTVJtYzJzRnB6UGc1QdIB6wFBVV95cUxOd0VJUS1QNlQ5cEtUR3o5X2Z1Y1Z3YTB0ay1pZVBsZnZPVmpPN3p4a1dUcV9LTkE4aElsZmcxbGhkM21lMThsQXpBMk1BMUlCVzdhUXZ6c1VrdEUzVFhGajZyc1FYX2NPNHNzbS1lRm9LamIzT0lNekI0VFNtYnM5c0dNUGlBV0ZIclBjLUJhRjVCWXRYdmx1TVZMY2lmRVpGMEwtU0xsTjBLTG1uc2lXVWFlSjNwSHU1cUxvMm9yb2J0VC1LTjltdlRHWGVUaURYSHhuaEZkOXd3NG1HU05oV3ZNenhXWUo4Z3Rn?oc=5
-
-- Apple iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max and iPhone Air goes sale in India today: India Pricing, - Times of India
-  Apple iPhone 17, iPhone 17 Pro, iPhone17 Pro Max and iPhone Air goes sale in India today
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNWTVsZDZid1VHZFF0d29GTlBCY3BhMktsRVVzdVpPd1VYY1NSZDhUOEZJTTlDWUFjcWJ3MHJhNzhCa29fMjRMalZDbklZcDZHakRKUWpaMGNncVRWemNMQndub2tWa1d4LWRvVHlhRVhtd1AxTDNXc2pMUkhVazB4NnZGaENIemNiYy1uQW9QRjNfajhGeVBWZmFHck1ZcnNYd1JsVkRyTUlaT251S1ZHR0NYel9CaTVVN3hXaVdQT1NSN2lzb2J1cjNHekpleGN6alRudnZxa1RlblB1Q09FZHVzdG9aZTVTckx6bV9HV2NkZ0NFMm8tYVR3NjN0b1N3cDR5OWEwUnBYSmVWSmM0TDhodkFlOUZhRVV2MExTUXBaVkxoMENN0gGsAkFVX3lxTFB1YVQ4MEt3c0xhQkdzNVBKLVdCbzlZVWhJWHI5ZGJqdlFwb1R2RkxCY0hxY3p0R2tiTHdBWWgtbjFEVHozWjh4TllucUQ2SEEyNEdVZ0ZFc2dTQzl0ZTcyMXNhVlpYNGR6VWdEc3dCNV96QmZFZmtjakh4QlF1LXVFT0lyUW0xRF9FajJrTmxScy0tcjZlQ2ZXTUhINXNfb2xmbkR2c25WS0lRWHFuUGpVbmxKanRIOUM0TXA4Rm5WbWs5b1A4MTVZZlg2bnVkNWpaN3AxTmJIOHhjZVlscDhwR3JsMjhjc2tSYmlHTGxOX1dlTXJZbGJSdEhEN1RaVEVFbVgwYkNyMG9UN0VYUEVQeUlpcUV4T2g4SHVHZVZGOEVIUVRRMHpCUUdVcw?oc=5
+- "Any Aggression Against Either Country...": Key Clause In Pak-Saudi Pact - NDTV
+  "Any Aggression Against Either Country..."
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQTC1POG1PcUFtSnV0c2NQaEFkd1NBbnd3UTYzaXNlcnNHQ3lianAwMzJZUXBvNUFUT2NjVlg4NF9pcHBQeVlWWFEzbm1WUlNUTFV6dlRJcU5EV1d1a3UtNXVLelhza0sza3A3dnQyQ2J1a1N6X2ZlNVlodm5VRmxzbjF0eFZ6OVAtbldWTzdxSFBoV0Y1T0Q3Um9QRVdMWF9aeTRydmxYMk40SkEtSDV4RUpKWDVoMWlGcnJBVWlDNXJwOXJU0gHMAUFVX3lxTE5oQlp6Rk1INnNva2VFSUtGdm9sbnEzbXE5enU1SFlvQnVJbFpTQkNPNERfZTRhRWdGN05TWDZYV1VBMDJFay1aYnZldlMxNEp4WG9Tc0hDczVvbktINk5Hc3d2ejVtUWZYWkc0cms4b0xicWVQY2xUcFV3Y09NQTg4SFpSTjMyQ1p2VWh6a1k4TGZKZUVDMFNqaUpPdVlKZ1RzOFJsZFlFMlVua0NvOHFETFU5YnI2bGd1YmI2czFjRGhxUU9UaHJISnlhUA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-19 06:27:17 UTC_
+_Last updated: 2025-09-19 12:33:55 UTC_
