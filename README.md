@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Building cadre of master trainers, connecting with survivors – how Rajasthan govt plans to tackle gender-based violence
+- Tripura Assembly lauds PM Narendra Modi, Defence Minister Rajnath Singh, Armed Forces for ‘Operation Sindoor’
   
-  🔗 https://indianexpress.com/article/india/rajasthan-government-gender-based-violence-training-programme-10259648/
+  🔗 https://indianexpress.com/article/india/tripura-assembly-pm-modi-rajnath-singh-operation-sindoor-10260113/
 
-- Zubeen Garg, Assamese superstar and voice of a generation, dies in Singapore scuba diving accident
+- Drones alone not enough, Armed Forces must balance manned-unmanned systems: IAF chief
   
-  🔗 https://indianexpress.com/article/india/zubeen-garg-assamese-singer-dies-in-singapore-scuba-diving-accident-10259381/
+  🔗 https://indianexpress.com/article/india/drones-alone-not-enough-armed-forces-iaf-chief-10260109/
 
-- Rajasthan to get 2 new Vande Bharat trains next week; check routes
+- Rajasthan HC orders education boards to ensure students don’t skip school to attend coaching
   
-  🔗 https://indianexpress.com/article/india/rajasthan-to-get-2-new-vande-bharat-trains-next-week-check-routes-10259238/
+  🔗 https://indianexpress.com/article/india/rajasthan-hc-education-boards-students-dont-skip-school-attend-coaching-10260035/
 
-- ‘Will raise Tiprasa Accord, illegal immigration in ongoing Tripura Assembly session’: TIPRA Motha minister Animesh Debbarma
+- ‘India expects Riyadh to keep mutual interests in mind’: MEA on Saudi-Pakistan defence pact
   
-  🔗 https://indianexpress.com/article/india/will-raise-tiprasa-accord-illegal-immigration-in-ongoing-tripura-assembly-session-tipra-motha-minister-animesh-debbarma-10259221/
+  🔗 https://indianexpress.com/article/india/india-riyadh-keep-mutual-interests-mind-mea-saudi-pakistan-defence-pact-10259912/
 
-- India’s 26th Rajdhani Express train begins commercial run – check route, travel time, stoppages, ticket price
+- 2 Assam Rifles personnel killed, 5 injured in Manipur ambush
   
-  🔗 https://indianexpress.com/article/india/india-26th-rajdhani-express-train-commence-commercial-run-route-stops-ticket-price-10257843/
+  🔗 https://indianexpress.com/article/india/2-assam-rifles-personnel-killed-in-manipur-ambush-10259913/
+
+- 87% find AI-aided shopping faster, yet 88% continue to choose cash on delivery: Report
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/87-find-ai-shopping-faster-yet-88-continue-to-choose-cash-on-delivery-report-10260004/
+
+- Scientists create world’s 1st functioning AI-designed viral genome
+  
+  🔗 https://indianexpress.com/article/technology/science/scientists-create-worlds-1st-functioning-ai-designed-viral-genome-10259754/
+
+- Asteroid KY26 smaller and faster than believed, posing new challenge for Japan’s Hayabusa2 mission
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/asteroid-ky26-smaller-and-faster-than-believed-posing-new-challenge-for-japans-hayabusa2-mission-10259712/
 
 - OM SYSTEM, formerly Olympus, unveils camera and lens in India: Check details
   
@@ -28,57 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/sap-launches-sovereign-cloud-india-data-sovereignty-ai-development-10259525/
 
-- Oppo Reno 14 review: An almost perfect midranger
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/oppo-reno-14-review-10255605/
+- EU Queries Italy’s Sicily Bridge Plan Over Environmental Issues
+  The long-delayed plan for a landmark €13.5 billion ($15.9 billion) bridge linking Sicily to the mainland is facing scrutiny from the
+  🔗 https://www.livemint.com/companies/news/eu-queries-italy-s-sicily-bridge-plan-over-environmental-issues-11758305166082.html
 
-- A code, a click, a hack: Inside the WhatsApp fraud that trapped Kannada actors Upendra and Priyanka
-  
-  🔗 https://indianexpress.com/article/technology/inside-the-whatsapp-fraud-that-trapped-kannada-actors-upendra-and-priyanka-10259438/
+- Meta Pushes Into Power Trading as AI Sends Demand Soaring
+   Meta Platforms Inc. is moving to break into the wholesale power-trading business.
+  🔗 https://www.livemint.com/companies/news/meta-pushes-into-power-trading-as-ai-sends-demand-soaring-11758303699139.html
 
-- iPhone 16 Pro under Rs 75,000? Flipkart to offer biggest-ever price drop on iPhone 16 series
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-16-pro-iphone-16-to-get-the-biggest-price-drop-yet-10259426/
+- Layoff shock: PWC culls jobs of 60 partners and 1,500 staff in this region — check details
+  Big Four accountancy firm began to cut jobs after a fallout with Saudi Arabia
+  🔗 https://www.livemint.com/companies/news/layoff-shock-pwc-culls-jobs-of-60-partners-and-1-500-staff-in-this-region-check-details-11758301842685.html
 
-- Amazon India's big play is now ads, and q-comm the new billboard
-  Amazon India's advertising revenue is growing faster than its e-commerce business. Despite this, competitors like Blinkit and Zepto are ahead in quick commerce.
-  🔗 https://www.livemint.com/companies/amazon-india-online-retail-marketplace-quick-commerce-advertisements-ads-revenue-11758192324454.html
+- Citi Hires Cboe’s Inzirillo for Execution in Equities Trading
+  Citigroup hired Adam Inzirillo, data head at Cboe Global Markets Inc., to oversee work on the bank's equities and futures
+  🔗 https://www.livemint.com/companies/news/citi-hires-cboe-s-inzirillo-for-execution-in-equities-trading-11758301324132.html
 
-- Patanjali vs Dabur over Chyawanprash: Delhi HC warns Baba Ramdev-led firm —we won't allow ‘aaltu faaltu appeals'
-  The Delhi HC warns Patanjali that in case the court finds its plea to be a luxury litigation
-  🔗 https://www.livemint.com/companies/news/patanjali-vs-dabur-over-chyawanprash-ad-delhi-hc-warns-baba-ramdev-led-firm-we-wont-allow-aaltu-faaltu-appeals-11758273263100.html
+- UAE firms keen to invest in Indian infra, banking, startups, logistics sectors: Piyush Goyal
+  UAE firms keen to invest in Indian inf
+  🔗 https://www.livemint.com/companies/news/uae-firms-keen-to-invest-in-indian-infra-banking-startups-logistics-sectors-piyush-goyal-11758300097282.html
 
-- Nvidia likely to invest $500 million in self-driving startup Wayve amid UK-US technology deal — Details here
-  Big tech firm, Nvidia, is likely to invest $500 million in self-driving startup Wayve. UK-US technology deal seeks to boost
-  🔗 https://www.livemint.com/companies/news/nvidia-likely-to-invest-500-million-in-self-driving-startup-wayve-amid-uk-us-technology-deal-details-here-11758273787611.html
+- European Stocks Edge Lower as Focus Remains on Rates, Growth
+  European stocks dipped, with investors looking ahead to a slew of economic data.
+  🔗 https://www.livemint.com/market/stock-market-news/european-stocks-edge-lower-as-focus-remains-on-rates-growth-11758303152246.html
 
-- The mystery of Nvidia’s underperforming stock
-  . Shares have been lagging behind other AI
-  🔗 https://www.livemint.com/companies/the-mystery-of-nvidia-s-underperforming-stock-11758276890512.html
+- US drillers add oil and gas rigs for third week in a row, Baker Hughes says
+  US drillers add oil and gas rigs for third week in
+  🔗 https://www.livemint.com/market/stock-market-news/us-drillers-add-oil-and-gas-rigs-for-third-week-in-a-row-baker-hughes-says-11758301688496.html
 
-- Urban Company CEO bets on ‘instant’ home services after strong IPO round. Here's why
-  Urban Company CEO Abhiraj Singh Bhal announced that the brand aims to expand its ‘instant’ home service offerings after a strong IPO round on the Indian stock
-  🔗 https://www.livemint.com/companies/news/urban-company-ceo-bets-on-instant-home-services-after-strong-ipo-round-heres-why-11758271093429.html
+- Gold drifts higher with spotlight on Fed policy path
+  Gold drifts higher
+  🔗 https://www.livemint.com/market/commodities/gold-drifts-higher-with-spotlight-on-fed-policy-path-11758300530209.html
 
-- What should be your debt investment strategy as the US Fed, RBI cut rates?
-  Experts suggest focusing on gilt and corporate bond funds for potential capital appreciation, while considering individual risk and investment profiles.
-  🔗 https://www.livemint.com/market/stock-market-news/what-should-be-your-debt-investment-strategy-as-the-us-fed-rbi-cut-rates-11758280623618.html
+- Risky Biotech Stocks’ Recovery Hinges on Deeper Fed Rate Cuts
+  The prospect of further interest-rate cuts from the Federal Reserve is giving diehard believers in the biotechnology sector reason
+  🔗 https://www.livemint.com/market/stock-market-news/risky-biotech-stocks-recovery-hinges-on-deeper-fed-rate-cuts-11758300466827.html
 
-- Wall Street futures steady as markets digest central bank moves
-  
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-futures-steady-as-markets-digest-central-bank-moves-11758282909732.html
+- Infosys sets board meeting date to declare Q2 Results 2025, interim dividend for FY26
+  Infosys announced that the company will hold its board meeting for the July-September quarter to declare its results on this date in October 2025. Shares ended flat
+  🔗 https://www.livemint.com/market/stock-market-news/infosys-sets-board-meeting-date-to-declare-q2-results-2025-interim-dividend-for-fy26-11758300193733.html
 
-- VMS TMT IPO ends third and final day with 102 times bids; GMP signals 11% listing gains — Details here
-  VMS TMT IPO received an overwhelming response, closing the third day with 102.26 times subscription. Shares are set to list on BSE and NSE on September 23, with a grey market premium
-  🔗 https://www.livemint.com/market/stock-market-news/vms-tmt-ipo-ends-third-and-final-day-with-102-times-bids-gmp-signals-11-listing-gains-details-here-11758282538136.html
-
-- Saatvik Green Energy IPO booked 59% on first day of bidding process; check latest GMP
-  Saatvik Green Energy IPO opened on September 19, experiencing low demand with only 0.59 times subscription by the first day. Shares are expected to list on September 26 with an estimated gain of 8
-  🔗 https://www.livemint.com/market/ipo/saatvik-green-energy-ipo-booked-59-on-first-day-of-bidding-process-check-latest-gmp-11758282240370.html
-
-- London stocks set for weekly decline as investors weigh central bank moves
-  London stocks set for weekly decline as
-  🔗 https://www.livemint.com/market/stock-market-news/london-stocks-set-for-weekly-decline-as-investors-weigh-central-bank-moves-11758281384443.html
+- Musk’s Neuralink Plans Speech Trial, Nonmedical Brain Implant
+  Elon Musk’s brain implant company plans to launch a clinical trial in the US in October. Neuralink Corp. plans to use its device to translate thoughts
+  🔗 https://www.livemint.com/technology/tech-news/musks-neuralink-plans-speech-trial-nonmedical-brain-implant-11758301808652.html
 
 - iPhone 17 Review: Apple’s most balanced flagship yet
   Phone 17 review: A refined flagship with A19 chip, 6.3-inch OLED
@@ -96,49 +100,45 @@
   The Primebook 2 Pro and 2 Max are aimed at students and freelancers. They run on Prime OS 3.0, feature dual microphones, a backlit keyboard,
   🔗 https://www.livemint.com/technology/tech-news/primbook-2-pro-primebook-2-pro-max-with-helio-g99-processor-full-hd-ips-display-launched-in-india-price-specs-and-mo-11758270149801.html
 
-- iPhone 17 Air or Android flagship? Samsung Galaxy S25 Edge, Pixel 10 Pro and other alternatives in similar price range
-  Apple’s iPhone 17 Air starts at  ₹1,19,900 in India with a single 48MP camera. Here are five Android alternatives like Pixel 10 Pro, Samsung Galaxy S25 Edge, and
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17-air-or-android-flagship-samsung-galaxy-s25-edge-pixel-10-pro-and-other-alternatives-in-similar-price-range-11758267675327.html
+- Stock market today: Dow, S&P 500, Nasdaq hit records as rate-cut relief, Nvidia's Intel bet lift markets - Yahoo Finance
+  Dow, S&amp;P 500, Nasdaq hit records as rate-cut relief, Nvidia's Intel bet lift markets.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa2otQUJIZkxidkl5bV9GVFhlMThNYi0zNmR0VnJQdHVzS1EzNHhWN0dCZ2p3a0xYdEFrRENBRUZmNGZjenFfbThTU3Nuazk0bmc4b2duU0t6LUVGSDU0dUthTkxJR3VCQUJuZVRKUzRuXy1NUGNUSlRzN2drOTR0ZXEyQkMySmhobHFMa3ZldW52ZUNhY29qZWluVDBOWkhRUXlxVC1XNkVJVm5jd0t0cXRnYkc5TEZneXN1WnBGZXFrRGpndERpVmhRd0ExdWkyVWRuQkZNWlE?oc=5
 
-- S&P 500, Nasdaq, Dow and Russell 2000 Hit Records: Markets Wrap - Bloomberg.com
-  The Dow Futures Waver; Nvidia's Intel Bet; Xi-Trump Call Expected — Live Updates.
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPcndTeTJGczJqLVJObE1YWEFTLUdZaWdTRE8zU3BZT1NTNDctUTM4VjdIdnhxWUlSRDJhbGcwYXJhbHN5Z1V4Q3dkRnpvc0t1NURGcmUwSHFZcnN0TzZZQUhyQkotUkVOT2V1OWIzTC1VLUY0X0tZVVFpeDhBNDBlc1k2Ul84MFBfSVp4Wlc0WWpwbmFv?oc=5
+- After The Rate Cut: Investing Beyond U.S. Markets - J.P. Morgan
+  J.P. Morgan: Invest
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTkdFLV9LUWdfdE5mYlN4UkxBNHUzZVRzYVFIcDFFSndJQ2NNT2FENnZBZk1LdG05dm1vYkJaQzV2YmNVeW9tbkNLZkJ3ZGVZdGVqTFNEQzVIczdzSVl5LW9kaUJnVjd2aE9UdXRJVE9SbjMzSVFRdGxacGVqa3hhQnVlMUFMRnZmaC16ZHV5T3NKWWZuUnlXTk9wcFY3dklnS2xvMGpnZ0pCU0t0TklfX01IcFAzZ2o1anBJZUFIQnZVX1k?oc=5
 
-- Wall Street futures steady as markets digest central bank moves - Mint
-  Wall Street futures steady as markets digest central
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbEktbG5tYWUwdnRpV3RHUFFkZjBqSFJWMmNGcU5oemswMjl1b2g0WF9nTEZ0bUtIY3dyRWdRR3N1Q3F4bXFtZWNNN1RBZTk5SndRQWZxdFFqU3dob0otYUlaek1yVjVtZVhVbXRfUTFpQlFBazNVMEM2bjIxZnBUMGJDazRqZzk5XzZJaHM3MmMtblcwVlFzOTBESXhrU2IzbHpOVkZlR3dicWhVMG95dDJZdDR0Yk5aU1lfMy1jVmpVdXFUU053NzVGZE9FQQ?oc=5
+- European Stocks Edge Lower as Focus Remains on Rates, Growth - Mint
+  European Stocks Edge Lower as Focus Rem
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUW9QQXlmemMzS0xwTFo5NGVnLWRxazBSTGd0VXV0czNiaU1QVHZuUTBKSmhBOUZ6UmxiWUV0Y1ZJOGNsY1puaFFQeFJtS0VIZi1zUjJsUVB6TE1NdFFpM2ZkbzA5bi14NEpxWG95Wk1XXzY1UW43S3hBT3FlRkp1Q3JfTktfS25yZHoybjlramY0ZFBNT2VMX0RmVmVjSm5xY2FOdndhazNfOGNLSmloemtHUjNoelhfZ1FCNVlSV3NWN0JiWkhMRdIBzgFBVV95cUxNYzltanB2RWw5Zl9ERjk2LUdQUldEaDloOHpMRWxtTmxJYkFkU3o2Y19pak13dFBjb0UwcUhJTUpnaGY0c2Nxek1Vei1ySFhHRG9BVlp3TEh2UTk1R1ZQeG00Wi0weXlKNDh3dngtMW9fUnQ0aEVGVHVfb3BSbnBYbXFCU1R0TVFZaW5GcV95WkF0eFpEbFQwektyTFZTYW9USFY2SFJva0IyTU9IRkNYWXRNVHROcWlmVjdNMmlQNGY1cVV6TkR0X0lOT1lhQQ?oc=5
 
-- CNBC investigates Walmart's Marketplace, Colbert backs Kimmel and more in Morning Squawk - CNBC
-  CNBC investigates Walmart's Marketplace. Colbert backs Kimmel
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNUgzZHFOdkotQ1dZWWRoRW9oUk56aEZ1R0ZWQVNqT3BwMERwZ0t6Q1BSbkFHZ3AtSFZvODhTS2dveDMzQkFGZmNKYlpDSEc0X0dFZHFISVQxbDVUQ2lUVDkwXzNLdk0tRGQwSzBfWmMxZUFDXzl1bUlYUGlvWFdEeTFmcHYzRE5JZ2Y40gGQAUFVX3lxTE1PSmdJSU5zR1Vfd1ZIZ3FxRTV4RWtzelR2N2N3aTBleXh0eU9QdmZaNVQxamlfYUhmS1FPZnBSV0FHQWI0dS1vb1Fyd3VGbkFoOTNzNnMyUERoVTZrc0N4SVltY2hHS3prZVdXRHcwaVlQbGIweTh0Y2tqcVoyLTZPY1BZTUN3UkpkdXQ3LUJQaA?oc=5
+- Gold drifts higher with spotlight on Fed policy path - Mint
+  The Fed is expected to announce a
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPMW5IbHdkX2Eta2VhNFR6aUVhXzlYbV9pancxbzExSlRwdUJjWmdrNXRRRUMwbUlHdHpRY0UzMDdzMHNNc0Z4YjVpN1NWSjVZeG5HXzRad2tYaldodmFHZkhLb3FpZ0ZPbFYyRjdRb1VmdHJHWGdkVGlHN1J4QkEzUVBHZUNfOVRLbXl0amtDbWlFakFkc0ViLWw0bUQ0elAwanJZNGpfbkhDV0o5eG90WG83MnM1V2fSAbwBQVVfeXFMT1p4dGp4MGxieWRIamVCQlBya0I2US1DZTVJQXJJZGVPUTViY0hGcVQxZHYtREE5RTBQWDh5U0d5SGl1TGN5LTFtRUdIb3A5WTNCSzV5UVVJVWMtZ204aWFwVUk0M0xlTTJLSjJ1M09Ubk1FWmstbE9qM3pOZlY5TjhpUWpHYWhOUm5ybTdPdkpnejFUVGpJdFZyQjBJNktxTzExMVN2X25iaUQzZHNYWDhrSFFucmN1Y2xyY0E?oc=5
 
-- Stock Market Highlights: Sensex breaks 3-day winning streak, settles 387 pts lower; Nifty below 25,350 - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb0RMLU1mTi1uTU9iZEppRm5zd2dqMElVM3hVdUkwQjVFcDFsaGtwaVNOT2RoRU1YWUp5UFZpbFhKRW1velJDTlVkc3JUTnd0SjFlajR6eTd5T3VhNGRKVUN3QTYzbXlVUD
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb0RMLU1mTi1uTU9iZEppRm5zd2dqMElVM3hVdUkwQjVFcDFsaGtwaVNOT2RoRU1YWUp5UFZpbFhKRW1velJDTlVkc3JUTnd0SjFlajR6eTd5T3VhNGRKVUN3QTYzbXlVUDlsYVVWYVRHUXlwakUtMTMtUnBaVENBa2pFOUwzQVVZUEtKNDFSbGV2WTRiUWxUbHVldEJnbFlPQThOWkcwdmNZRFdMT3VoYjJNRVFIbG1fNlVnckVBOVlCV3Y2Nk80MWFzcVlwcDNVUC0zclBPRUF2d9IB3wFBVV95cUxQU1JnZ2hHWEt5d2YzNUhDeTgxS29SdFA1SW5EWmdVejVOSVprQUFwYl9kUGF0SkpsR0w0OEZtMjBtRldUeDlKNzd5Y1V5aUpUaDB0VG9EbE9xUmxWb1g5bGFELUpwMkRTUVJ1TDVESGdERzdkNUk0cGdGVXM0bkNNdHdmbGliSVJuMzNJQ1o3MmpXY2poZTkyQVJPQnRxa1F4azBpbVpwVHEzakVPdllBOFFZdmFQcGlOSmdxS0t3SlJUU0l1akd2djIwMGJ0bWV3RGl2djBFQlV0bm4xVVhn?oc=5
-
-- Stock markets steady on SIP flows: Jefferies says mutual fund inflows preventing crash; stocks seen tradi - The Times of India
-  Stock markets steady on SIP flows: Jefferies says mutual fund inflows preventing crash
+- Stock markets steady on SIP flows: Jefferies says mutual fund inflows preventing crash; stocks seen tradi - Times of India
+  Stock markets steady on SIP flows: Jefferies says mutual fund inflows preventing
   🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNT2dTM3pDQ3Y2Z1UwbW9YX2pIdnlNZm4wbzVNWnpha2dIRThQbTFyR1huYzF2WmNxMTVvRDFKY2oxUWVGOEVTRFUxazN4Y05ocUJNYXdGVU1TUU91MEJLaG5reVhxQm1XSXRBb3BuaFRUQ29UVHRUb3c2RWd3NGNEdEZLbF9MaDhUQUN4M01CQTBqTWtmLVNqWF9aSXllSWdlMGFfcTVxVnZLQzFpbEZFemFwa2NDOWJVSDlpUnJrX0hRMVJabTBTZl9ndmUyYWhBSHpXenlidzI4dm9ZRGdzWVYzZjZYMEMyLTQzSmJXS3N3eUoybXpudHZqeXV4X040Z3VnemlLdEE0YUxuLTVTcGZtTWcwWFIwY0JUSERGNndBTHNtSW9V0gGsAkFVX3lxTE5DdURISkVsd0FXUl9mWmZDZzJlcTllQ3lnUkh2YlA2VEJZWnB4STFLNGJKdndsRVVra2I1WU5ZSktiZmlPdlRqcXY1cUxzOEFUam5PSzNaNU53ak1kUDdRR3p0SVZaNFQ5dW5peUl4SVJSWEhxTi0tT3ZKNDBKN3BsMWlDcUpVOFVSNzBrNlVZSzlOMFJ6OUJvOGhORXJGQnZMVS1nR29TZlRPUDIwck05elJCQ0NYX2lOczhmTVI1dXQ5bVZmUGswM1c1QnVDZ0gyWUVNUkNqaE1xWGNoc0p5V0ROUE0yNEc5b2E3OWhiU3NXZWh6bmpXX3A5YW1TaTFDRlVKOHUwalh5ZmxmNFpoMGEyR24tRFdnazlQU3Q0allVZG9RdjdxSndGMw?oc=5
 
-- India 10-year bond sees second weekly fall on Fed letdown
-  Indian government bonds fell for a second consecutive week. hawkish commentary from the U.S. central bank pushed up Treasury yields.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-sees-second-weekly-fall-on-fed-letdown/articleshow/123998578.cms
+- Force Motors bulk deal: BNP Paribas sells shares worth Rs 122 crore in multibagger stock
+  BNP Paribas sold 65,610 Force Motors shares worth Rs 122 crore via a bulk deal at a 2%
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/force-motors-bulk-deal-bnp-paribas-sells-shares-worth-rs-122-crore-in-multibagger-stock/articleshow/124001999.cms
 
-- Adani Power, Ashok Leyland and 5 other stocks hit 52-week highs and rallied up to 18% in a month
-  Sensex dropped 387 points to 82,626 on Friday. Seven BSE 200 stocks hit fresh 52-week highs, signaling strong momentum.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-power-ashok-leyland-and-5-other-stocks-hit-52-week-highs-and-rallied-up-to-18-in-a-month/slideshow/123998444.cms
+- Ashish Kacholia invests in Ganesh Consumer's Rs 122 crore anchor round ahead of IPO
+  Ganesh Consumer Products raised Rs 122 crore from anchor investors. Marquee domestic and global funds subscribed shares at Rs 322 per share.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ashish-kacholia-invests-in-ganesh-consumers-rs-122-crore-anchor-round-ahead-of-ipo/articleshow/124001970.cms
 
-- Vodafone Idea among 7 midcap stocks with high EV to Market cap ratios
-  Several NSE midcap companies, including Vodafone Idea and HPCL, show high EV/MCAP
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-among-7-midcap-stocks-with-high-ev-to-market-cap-ratios/slideshow/123997713.cms
+- Norges Bank adds multibagger Cartrade Tech, 2 more smallcaps in Rs 209 crore worth bulk deals
+  Norway’s sovereign wealth fund, via Norges Bank, purchased shares worth Rs 209 crore in Cartrade Tech, Aart
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/norges-bank-adds-multibagger-cartrade-tech-2-more-smallcaps-in-rs-209-crore-worth-bulk-deals/articleshow/124001494.cms
 
-- Sebi, RBI in talks to boost trading in corporate bond index derivatives
-  Sebi whole-time member Ananth Narayan G said on Friday. Sebi and the Reserve Bank of India are in discussions on corporate bond index derivatives
-  🔗 https://economictimes.indiatimes.com/markets/bonds/sebi-rbi-in-talks-to-boost-trading-in-corporate-bond-index-derivatives/articleshow/123997416.cms
+- Ahead of IPO, Ganesh Consumer Products raises Rs 122 cr from anchor investors
+  Ganesh Consumer Products Ltd, a key player in packaged food products in eastern India, has raised over Rs 122 crore from anchor investors.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ahead-of-ipo-ganesh-consumer-products-raises-rs-122-cr-from-anchor-investors/articleshow/124001435.cms
 
-- Gainers &amp; Losers: Adani Power, Urban Company and Paytm among 6 major movers on Friday.
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-losers-adani-power-urban-company-and-paytm-among-6-major-movers-on-friday-/slideshow/123997174.cms
+- Sebi proposes regular updates of NAVs by AIFs in depository systems
+  Sebi proposed that AIFs should regularly update the net asset value (NAVs) of their units in the depository
+  🔗 https://economictimes.indiatimes.com/markets/aif-pms/sebi-proposes-regular-updates-of-navs-by-aifs-in-depository-systems/articleshow/124001380.cms
 
 - U.S. President Donald Trump on his relationship with India and Prime Minister Narendra Modi - The Hindu
   U.S. President Donald Trump on his relationship with India and
@@ -148,17 +148,57 @@
   'Close To India... Sanctioned
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQejhkZm1wTzhGR0tvLVdZT2syR0NsekFhWE1sbmhPTUo4M2ZpemU3UnhXMkpDOWgxdHVjRDhnQVRJZnhaazBzbU5pVld4ZWdpbHJaTHM5MG1abVZrYzVlM0g4TGwwZ2UxY0lMbmVnQ1dxX2NVd3U4eXRVeGpxRUR0a1d6TDk3X1R2OG1wbjlydmJXaWx2VnppLXVlWnBJLUtZajZrM21Da0J0Z1dKbkhxZnJNZG4wZjBsMVdMTTU4R2xEZXBvTW9YNXZWcFVFLXVsc0hjX0VNWUtOcmRFUFN3WTNpZUhPZzBsbXJWODN30gH2AUFVX3lxTFBORnpqMkc1MmZLZ2Z4bnJfUVZSUWhGMFNQMjdOZlk0SnFEdV9NY3F4Q1l6eDhQYUpUNTlqWDNKOWhUUE9HdDNaclRPTy1YZHlTYWhtTm9IVnI4cV9KaUtXSUxJNVJaZ0RRMDNtdzBXdVNtSmNZYkxLRmJlUjFuRjQxNjBYSE9UQXNKY1U5eUVFZnNKc0NYYmFxbWlpTTZlUHVEWEV2MU9DU0tYVjlkbDhyQjB0YzU3SHNrM2FEOUlhR1hCeUkxUVZMUUw1ZHVUcWdNcUN2Y2JBdzVYUGRWZzZoeXpydFFUS3lBVnRpNDdCdGtWV3MxUQ?oc=5
 
-- In First Foreign Outreach, Nepal Interim PM Sushila Karki To Speak With PM Modi On Thursday - NDTV
-  Nepal Interim PM Sushila Karki To Speak
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNU2x2VXVlWW9FYU5wanljNjN4SEFaN21EUmFmX003T0dyUlFMaTJyVjRxYnJ1OXg5b2Z1NkhJUmgwaVM5Qm4yamp5U2RQVkxjX0d1WmlVajRyamVOOXNqZU1TUU5lZ0RBNFhfYlhleGk2OXVUNFdMWUx0cURQc0xIdmV4NG9uemRfRE02cE5jbjl4SmtodV95aWRUZDJQbWhHWmRQR2ZTNUh0emw1Mm5jX243NmtBUzlHUHJfbU5nTjN0TGFHSUd4aUt30gHSAUFVX3lxTE5jaFdOXzVuTk0zaWxTQ3ZEN2RvT2JNYzBJNkFrQVVnNFBBdFJYdlJVeVdjTXUyeWpTTEp4bElsalhHYmhqSHFvWkp2cGVudmxLSXdoRmsyd3FwbFZmYnR0RXhzMDlubTROME1SYW1fNnNkRGZRY0JUN0txMnhFWFIxUHI1ZHJKRDJfX1JkYktJWmJvczRreVVkMy1ka1lnbGlFUDgtX2ZFYzJrR0xjNVp1WnhVeVBZdE9NdjZ1RHhfemY2aGlfVGJjdG5feWVadE5Kdw?oc=5
+- Modi could've avoided embarrassing Trump on India-Pak claim, but...: Top political scientist Ian Bremmer | Latest News India - Hindustan Times
+  Modi could've avoided embarrassing Trump on India-Pak claim, but...: Top
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNeGI4RDJiVjFNbDd4cnFBSmtzUjgzQVZweXVhb0F3SGJBWGJwTGtqRTA5eF9odnNZUU1nZXJQbHRZRTViM2l3TWhUVnZDU2UyOGNnZ0dSTmVoVkVrZGR2cWlEV1NKLWkteDVDNW5FM0Q4QkpjZ1FjVkhaMTJYZlA4OFhNT18wR3dhY05PNUY3NzBPOV9yZGJNeTVzRUdMd0l5VWhRZTJSWmM0TUNDdGJNaHEtcjZ5RW53VWZoSXA5NEZLYlZTYl8wV2ZaaEXSAdIBQVVfeXFMUDBPNV8wdHBXREZsQ295dWkxZnAwMllYbTZ4cUNvY1NWTmdPNlJFZnpNcVdld1ZtWnM5WkRMQ2V4NnYxOWFjYlFPeUphemw1T2ptRl9HYWk4Vl9SQ0dWZ3Q2RHNTbXZDNlZiMmc3ODlDa3BPbUN3d3VwVUJzVHVaakVqTUtXSUdoZ3NXT0ppd3ZZUnRCbzF6NnhkeFU1MHRsbWFmNmpHdDhXZ2x0NS1hTFZGa1g2VmhwNndIX3M4NVBKNWFZZWlIdUlmUTA4dkdRaXlB?oc=5
 
-- Saudi-Pak defence pact: India says will protect national interest - The Times of India
-  The Times of India says the pact will protect national
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOUWJ1VllLV1RrTkt1dVU0TnU4Ql83blhEZm42UWtrOEdQZmdFMHhyZ0g5RzNaUG9vdHl3NFZRQ19fR0dvNFMxUTZGZEhHU0tkQzRwMWlkXzNCZmt4MEdPOUNTdFBzVHVEN0JqM05MTHM4Tm5KeFFIemhXcEp3ZDRtSmJ0TWFGenZSb3FOeXBNRnpyQzNLc2dkQ0UyeTBiOHZrNWl1d1MyMjQzVUh4SVBWU2R1RGpyWjY2REEzNFptd3kyd3YtZUhpdEVSTULSAdIBQVVfeXFMT0o1RmJNSVg4cGdqQk54aWRIcGVHNnhZcktUSUs4dXg2T3lYZ0NIZEVjVGJmSVFQa1N3QjY3WTRvYVlSbXprLXpZbFBXZGhRLTBzRHRhWVZYRk5BcTNJUU9PLTNkd1d0RG12RE9xbUtvN0R3ZVBOdVI2UE56YTJXdS1EOGJrc2k4VHdTTTQ0TmZPMl9acWVzVFI3OV9mVUE3cGlpc3VWaWY1VXRsUlp0OXN4c0FGUUNLTUI2RmFBVGpUc2podVVjWS1hT3JZOUMwV2FR?oc=5
+- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
+  US May Remove 25% Penal Tariff On India After
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
 
-- "Any Aggression Against Either Country...": Key Clause In Pak-Saudi Pact - NDTV
-  "Any Aggression Against Either Country..."
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQTC1POG1PcUFtSnV0c2NQaEFkd1NBbnd3UTYzaXNlcnNHQ3lianAwMzJZUXBvNUFUT2NjVlg4NF9pcHBQeVlWWFEzbm1WUlNUTFV6dlRJcU5EV1d1a3UtNXVLelhza0sza3A3dnQyQ2J1a1N6X2ZlNVlodm5VRmxzbjF0eFZ6OVAtbldWTzdxSFBoV0Y1T0Q3Um9QRVdMWF9aeTRydmxYMk40SkEtSDV4RUpKWDVoMWlGcnJBVWlDNXJwOXJU0gHMAUFVX3lxTE5oQlp6Rk1INnNva2VFSUtGdm9sbnEzbXE5enU1SFlvQnVJbFpTQkNPNERfZTRhRWdGN05TWDZYV1VBMDJFay1aYnZldlMxNEp4WG9Tc0hDczVvbktINk5Hc3d2ejVtUWZYWkc0cms4b0xicWVQY2xUcFV3Y09NQTg4SFpSTjMyQ1p2VWh6a1k4TGZKZUVDMFNqaUpPdVlKZ1RzOFJsZFlFMlVua0NvOHFETFU5YnI2bGd1YmI2czFjRGhxUU9UaHJISnlhUA?oc=5
+- India-US trade deal talks back on track! Piyush Goyal expected to visit America; ‘may be in the next few - Times of India
+  India-US trade deal talks back on track! Piyush Goyal expected to visit America
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQeVpGX0tFbTZFaF9xTk5ibnBnTFJwdS1NSlVvaHZrekdqTUpodVB6OXBxQXVmSk5SR0FJYV9UTjZUei13dWtzcnFsSzZiOW81QUQyak9oWGxRWFJRMnAwbVg3dC0tR0Jld1Z5QzFiSU9EX0RFeURsbmtMQWxSWnZDbVpmTGZ4Z01mX2V4dXJRRnJVcHpOQTNlU0lTdmNwTTBIZGtKc01vRHFMMlRWaks1V2t3bnpPLUFTOUFPT0ZMRm05bTk3cGk3aGZMLWJOSXNQZzg2TnBNM3ZVdVRBLS1aaDBoTm1DWEFxWkxqUVJfZ0NibXRid3MzSnhMVElobG93Uy1EMktvVzFDVDZERW8waGpJVjJuRVJ2a2VsUNIBogJBVV95cUxOREI2U3dUMElTejFaeTZQZDg3bEozQnJUVUxreVA4SlJmVDlGZE1EQW1oZk1SVGEtekh4d0oyd0NzWm93SG5xdmI5TGNKeDhfaVNNOHpDUHlYQVBvdF9LajFmeEZKenhPS0kzQldtSEhyNnhxTG5VVlBfU2k3eUgwelF0ME9pR05nSWE5SmRfanNWSGJYREFmRzVpUjZTY3poRkpZUURRZGFJU3hMay1zU0w2YWlPS2RsS3ZGeXdKTVd2MWl1NjZTZno4RnlJYnlWaXY0R1oyRFo4TGxkTXBNX0JXVjVVN2hGcmJ3OVQwdzdGVkxDbGhnRTZlaFRvM0lCX0x0RFN0Z1M0M2pfTVpabFd3STNYbW93V0Q0Yk1fa1BSUQ?oc=5
+
+- U.S. President Donald Trump on his relationship with India and Prime Minister Narendra Modi - The Hindu
+  U.S. President Donald Trump on his relationship with India and
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQSFRndEhjbUZxTng1RkFkN193UTRpMklTRE9ONC1rR1djWjh1cWxuVUVzZ1dkTEU3bzJMbTFSTzdWOGpzS0hiOWtENlVZMEcwbGUxNEUyS090cDhBQ00tY2dpN2VkeUQ3TkxHTWM1cHpydG5jUjhKbUNBc3VaenJoWFFRR1RGMUVGSmM5SHRpbmp3cWpVTXNRQzFyNHFidW1kWTZvVlpJZW5nSWxPYmdUUWhaVGdkVllwampremxycnREWVF3S1Yw0gHOAUFVX3lxTFBKR1VwXzJwVzVKbXlaWWpablhOV0FCY3hrRzZsSF82TENITWJMcGRDN0U4Tl9GRUJEeVZtekVja2JWVmpuS05HaU0tZ0FJeGhBVE4xMkE3MWYtWnNqMEE1OUpnUzlXeFpvckUtUUtYSE16WmFUa3Z6a29VdS1YNkhmejZkRVdqZUF5aGlNUVVxUEF4djFYdGZLOFhzbDFnS2JlTzBMcTZMSGppWTlEaDZ3TlVSTkthVF9GalFwMUxmY29rQzRVN0I4c1F4UFh3?oc=5
+
+- 'Close To India... Sanctioned Them': Amid Bonhomie, Trump's Mixed Messaging - NDTV
+  'Close To India... Sanctioned
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQejhkZm1wTzhGR0tvLVdZT2syR0NsekFhWE1sbmhPTUo4M2ZpemU3UnhXMkpDOWgxdHVjRDhnQVRJZnhaazBzbU5pVld4ZWdpbHJaTHM5MG1abVZrYzVlM0g4TGwwZ2UxY0lMbmVnQ1dxX2NVd3U4eXRVeGpxRUR0a1d6TDk3X1R2OG1wbjlydmJXaWx2VnppLXVlWnBJLUtZajZrM21Da0J0Z1dKbkhxZnJNZG4wZjBsMVdMTTU4R2xEZXBvTW9YNXZWcFVFLXVsc0hjX0VNWUtOcmRFUFN3WTNpZUhPZzBsbXJWODN30gH2AUFVX3lxTFBORnpqMkc1MmZLZ2Z4bnJfUVZSUWhGMFNQMjdOZlk0SnFEdV9NY3F4Q1l6eDhQYUpUNTlqWDNKOWhUUE9HdDNaclRPTy1YZHlTYWhtTm9IVnI4cV9KaUtXSUxJNVJaZ0RRMDNtdzBXdVNtSmNZYkxLRmJlUjFuRjQxNjBYSE9UQXNKY1U5eUVFZnNKc0NYYmFxbWlpTTZlUHVEWEV2MU9DU0tYVjlkbDhyQjB0YzU3SHNrM2FEOUlhR1hCeUkxUVZMUUw1ZHVUcWdNcUN2Y2JBdzVYUGRWZzZoeXpydFFUS3lBVnRpNDdCdGtWV3MxUQ?oc=5
+
+- Modi could've avoided embarrassing Trump on India-Pak claim, but...: Top political scientist Ian Bremmer | Latest News India - Hindustan Times
+  Modi could've avoided embarrassing Trump on India-Pak claim, but...: Top
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNeGI4RDJiVjFNbDd4cnFBSmtzUjgzQVZweXVhb0F3SGJBWGJwTGtqRTA5eF9odnNZUU1nZXJQbHRZRTViM2l3TWhUVnZDU2UyOGNnZ0dSTmVoVkVrZGR2cWlEV1NKLWkteDVDNW5FM0Q4QkpjZ1FjVkhaMTJYZlA4OFhNT18wR3dhY05PNUY3NzBPOV9yZGJNeTVzRUdMd0l5VWhRZTJSWmM0TUNDdGJNaHEtcjZ5RW53VWZoSXA5NEZLYlZTYl8wV2ZaaEXSAdIBQVVfeXFMUDBPNV8wdHBXREZsQ295dWkxZnAwMllYbTZ4cUNvY1NWTmdPNlJFZnpNcVdld1ZtWnM5WkRMQ2V4NnYxOWFjYlFPeUphemw1T2ptRl9HYWk4Vl9SQ0dWZ3Q2RHNTbXZDNlZiMmc3ODlDa3BPbUN3d3VwVUJzVHVaakVqTUtXSUdoZ3NXT0ppd3ZZUnRCbzF6NnhkeFU1MHRsbWFmNmpHdDhXZ2x0NS1hTFZGa1g2VmhwNndIX3M4NVBKNWFZZWlIdUlmUTA4dkdRaXlB?oc=5
+
+- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
+  US May Remove 25% Penal Tariff On India After
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
+
+- India-US trade deal talks back on track! Piyush Goyal expected to visit America; ‘may be in the next few - Times of India
+  India-US trade deal talks back on track! Piyush Goyal expected to visit America
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQeVpGX0tFbTZFaF9xTk5ibnBnTFJwdS1NSlVvaHZrekdqTUpodVB6OXBxQXVmSk5SR0FJYV9UTjZUei13dWtzcnFsSzZiOW81QUQyak9oWGxRWFJRMnAwbVg3dC0tR0Jld1Z5QzFiSU9EX0RFeURsbmtMQWxSWnZDbVpmTGZ4Z01mX2V4dXJRRnJVcHpOQTNlU0lTdmNwTTBIZGtKc01vRHFMMlRWaks1V2t3bnpPLUFTOUFPT0ZMRm05bTk3cGk3aGZMLWJOSXNQZzg2TnBNM3ZVdVRBLS1aaDBoTm1DWEFxWkxqUVJfZ0NibXRid3MzSnhMVElobG93Uy1EMktvVzFDVDZERW8waGpJVjJuRVJ2a2VsUNIBogJBVV95cUxOREI2U3dUMElTejFaeTZQZDg3bEozQnJUVUxreVA4SlJmVDlGZE1EQW1oZk1SVGEtekh4d0oyd0NzWm93SG5xdmI5TGNKeDhfaVNNOHpDUHlYQVBvdF9LajFmeEZKenhPS0kzQldtSEhyNnhxTG5VVlBfU2k3eUgwelF0ME9pR05nSWE5SmRfanNWSGJYREFmRzVpUjZTY3poRkpZUURRZGFJU3hMay1zU0w2YWlPS2RsS3ZGeXdKTVd2MWl1NjZTZno4RnlJYnlWaXY0R1oyRFo4TGxkTXBNX0JXVjVVN2hGcmJ3OVQwdzdGVkxDbGhnRTZlaFRvM0lCX0x0RFN0Z1M0M2pfTVpabFd3STNYbW93V0Q0Yk1fa1BSUQ?oc=5
+
+- U.S. President Donald Trump on his relationship with India and Prime Minister Narendra Modi - The Hindu
+  U.S. President Donald Trump on his relationship with India and
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQSFRndEhjbUZxTng1RkFkN193UTRpMklTRE9ONC1rR1djWjh1cWxuVUVzZ1dkTEU3bzJMbTFSTzdWOGpzS0hiOWtENlVZMEcwbGUxNEUyS090cDhBQ00tY2dpN2VkeUQ3TkxHTWM1cHpydG5jUjhKbUNBc3VaenJoWFFRR1RGMUVGSmM5SHRpbmp3cWpVTXNRQzFyNHFidW1kWTZvVlpJZW5nSWxPYmdUUWhaVGdkVllwampremxycnREWVF3S1Yw0gHOAUFVX3lxTFBKR1VwXzJwVzVKbXlaWWpablhOV0FCY3hrRzZsSF82TENITWJMcGRDN0U4Tl9GRUJEeVZtekVja2JWVmpuS05HaU0tZ0FJeGhBVE4xMkE3MWYtWnNqMEE1OUpnUzlXeFpvckUtUUtYSE16WmFUa3Z6a29VdS1YNkhmejZkRVdqZUF5aGlNUVVxUEF4djFYdGZLOFhzbDFnS2JlTzBMcTZMSGppWTlEaDZ3TlVSTkthVF9GalFwMUxmY29rQzRVN0I4c1F4UFh3?oc=5
+
+- 'Close To India... Sanctioned Them': Amid Bonhomie, Trump's Mixed Messaging - NDTV
+  'Close To India... Sanctioned
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQejhkZm1wTzhGR0tvLVdZT2syR0NsekFhWE1sbmhPTUo4M2ZpemU3UnhXMkpDOWgxdHVjRDhnQVRJZnhaazBzbU5pVld4ZWdpbHJaTHM5MG1abVZrYzVlM0g4TGwwZ2UxY0lMbmVnQ1dxX2NVd3U4eXRVeGpxRUR0a1d6TDk3X1R2OG1wbjlydmJXaWx2VnppLXVlWnBJLUtZajZrM21Da0J0Z1dKbkhxZnJNZG4wZjBsMVdMTTU4R2xEZXBvTW9YNXZWcFVFLXVsc0hjX0VNWUtOcmRFUFN3WTNpZUhPZzBsbXJWODN30gH2AUFVX3lxTFBORnpqMkc1MmZLZ2Z4bnJfUVZSUWhGMFNQMjdOZlk0SnFEdV9NY3F4Q1l6eDhQYUpUNTlqWDNKOWhUUE9HdDNaclRPTy1YZHlTYWhtTm9IVnI4cV9KaUtXSUxJNVJaZ0RRMDNtdzBXdVNtSmNZYkxLRmJlUjFuRjQxNjBYSE9UQXNKY1U5eUVFZnNKc0NYYmFxbWlpTTZlUHVEWEV2MU9DU0tYVjlkbDhyQjB0YzU3SHNrM2FEOUlhR1hCeUkxUVZMUUw1ZHVUcWdNcUN2Y2JBdzVYUGRWZzZoeXpydFFUS3lBVnRpNDdCdGtWV3MxUQ?oc=5
+
+- Modi could've avoided embarrassing Trump on India-Pak claim, but...: Top political scientist Ian Bremmer | Latest News India - Hindustan Times
+  Modi could've avoided embarrassing Trump on India-Pak claim, but...: Top
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNeGI4RDJiVjFNbDd4cnFBSmtzUjgzQVZweXVhb0F3SGJBWGJwTGtqRTA5eF9odnNZUU1nZXJQbHRZRTViM2l3TWhUVnZDU2UyOGNnZ0dSTmVoVkVrZGR2cWlEV1NKLWkteDVDNW5FM0Q4QkpjZ1FjVkhaMTJYZlA4OFhNT18wR3dhY05PNUY3NzBPOV9yZGJNeTVzRUdMd0l5VWhRZTJSWmM0TUNDdGJNaHEtcjZ5RW53VWZoSXA5NEZLYlZTYl8wV2ZaaEXSAdIBQVVfeXFMUDBPNV8wdHBXREZsQ295dWkxZnAwMllYbTZ4cUNvY1NWTmdPNlJFZnpNcVdld1ZtWnM5WkRMQ2V4NnYxOWFjYlFPeUphemw1T2ptRl9HYWk4Vl9SQ0dWZ3Q2RHNTbXZDNlZiMmc3ODlDa3BPbUN3d3VwVUJzVHVaakVqTUtXSUdoZ3NXT0ppd3ZZUnRCbzF6NnhkeFU1MHRsbWFmNmpHdDhXZ2x0NS1hTFZGa1g2VmhwNndIX3M4NVBKNWFZZWlIdUlmUTA4dkdRaXlB?oc=5
+
+- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
+  US May Remove 25% Penal Tariff On India After
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
+
+- India-US trade deal talks back on track! Piyush Goyal expected to visit America; ‘may be in the next few - Times of India
+  India-US trade deal talks back on track! Piyush Goyal expected to visit America
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQeVpGX0tFbTZFaF9xTk5ibnBnTFJwdS1NSlVvaHZrekdqTUpodVB6OXBxQXVmSk5SR0FJYV9UTjZUei13dWtzcnFsSzZiOW81QUQyak9oWGxRWFJRMnAwbVg3dC0tR0Jld1Z5QzFiSU9EX0RFeURsbmtMQWxSWnZDbVpmTGZ4Z01mX2V4dXJRRnJVcHpOQTNlU0lTdmNwTTBIZGtKc01vRHFMMlRWaks1V2t3bnpPLUFTOUFPT0ZMRm05bTk3cGk3aGZMLWJOSXNQZzg2TnBNM3ZVdVRBLS1aaDBoTm1DWEFxWkxqUVJfZ0NibXRid3MzSnhMVElobG93Uy1EMktvVzFDVDZERW8waGpJVjJuRVJ2a2VsUNIBogJBVV95cUxOREI2U3dUMElTejFaeTZQZDg3bEozQnJUVUxreVA4SlJmVDlGZE1EQW1oZk1SVGEtekh4d0oyd0NzWm93SG5xdmI5TGNKeDhfaVNNOHpDUHlYQVBvdF9LajFmeEZKenhPS0kzQldtSEhyNnhxTG5VVlBfU2k3eUgwelF0ME9pR05nSWE5SmRfanNWSGJYREFmRzVpUjZTY3poRkpZUURRZGFJU3hMay1zU0w2YWlPS2RsS3ZGeXdKTVd2MWl1NjZTZno4RnlJYnlWaXY0R1oyRFo4TGxkTXBNX0JXVjVVN2hGcmJ3OVQwdzdGVkxDbGhnRTZlaFRvM0lCX0x0RFN0Z1M0M2pfTVpabFd3STNYbW93V0Q0Yk1fa1BSUQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-19 12:33:55 UTC_
+_Last updated: 2025-09-19 18:24:44 UTC_
