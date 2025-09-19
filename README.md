@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- BJP MP Anil Baluni narrowly evades landslide in Uttarakhand
+  
+  🔗 https://indianexpress.com/article/india/bjp-mp-anil-baluni-narrowly-evades-landslide-in-uttarakhand-10258408/
+
+- Fresh FIR against AAI manager held for fraud
+  
+  🔗 https://indianexpress.com/article/india/fresh-fir-against-aai-manager-held-for-fraud-10258401/
+
+- Meghalaya university built on forest land, says SC committee after Assam CM targets USMT
+  
+  🔗 https://indianexpress.com/article/india/meghalaya-university-built-on-forest-land-says-sc-committee-after-assam-cm-targets-usmt-10258378/
+
 - Trump administration withdraws sanctions waiver to Chabahar port | What it means for India
   
   🔗 https://indianexpress.com/article/india/trump-administration-withdraws-sanctions-waiver-chabahar-port-india-impact-10258113/
@@ -7,18 +19,6 @@
 - Tripura CM reviews preparations for PM Modi’s visit on Sept 22, police plan tight security
   
   🔗 https://indianexpress.com/article/india/tripura-cm-reviews-preparations-pm-modi-visit-on-sept-22-10258064/
-
-- ‘Explicitly promotes fear, hatred’ – Congress files complaint against Assam BJP’s ‘polarising’ AI video
-  
-  🔗 https://indianexpress.com/article/india/explicitly-promotes-fear-hatred-congress-files-complaint-against-bjps-polarising-ai-video-10257973/
-
-- Gold chain, pants, shirts & more: Congress seeks recovery of ‘stolen items’ during Odisha Assembly scuffle
-  
-  🔗 https://indianexpress.com/article/india/congress-seeks-recovery-of-stolen-items-during-odisha-assembly-scuffle-10257905/
-
-- After Rs 232 cr scam, Airport Authority Manager accused of diverting Rs 18 cr to personal accounts: CBI
-  
-  🔗 https://indianexpress.com/article/india/siphoning-rs-232-crore-aai-senior-manager-diverting-rs-18-cr-cbi-10257847/
 
 - ‘We back genuine AI startups, not wrappers’: Google accelerator programme lead
   
@@ -40,25 +40,37 @@
   
   🔗 https://indianexpress.com/article/technology/lumio-announces-great-indian-festival-deals-on-vision-smart-tv-and-vision-arc-10257341/
 
-- GST rate cuts: FMCG giant ITC to pass on ‘full benefit’ to customers across portfolio — Details here
-  ITC will pass on the full benefit to its customers across the firm's portfolio range. The new rates will be effective from 22 September 2025.
-  🔗 https://www.livemint.com/companies/news/gst-rate-cuts-fmcg-giant-itc-to-pass-on-full-benefit-to-customers-across-portfolio-details-here-11758214576603.html
+- BlackBuck CEO says company not moving out of Bengaluru after heated debate over ‘pothole’ post
+  BlackBuck CEO Rajesh Yabaji has clarified that his company is not moving out of Bengaluru, but is relocating parts of
+  🔗 https://www.livemint.com/companies/people/blackbuck-ceo-says-company-not-moving-out-of-bengaluru-after-heated-debate-over-pothole-post-11758242605051.html
 
-- Mediobanca CEO Nagel Quits After Monte Paschi Takes Control
-  Mediobanca Spa Chief Executive Officer Alberto Nagel is resigning along with some other members of the lender’s board. Banca Monte dei Paschi di
-  🔗 https://www.livemint.com/companies/news/mediobanca-ceo-nagel-quits-after-monte-paschi-takes-control-11758215820470.html
+- District by Zomato focused on acquiring users, pilots in the ‘going out’ business
+  Zomato is running experiments such as offline shopping coupons and salon deals. The company is running tentpole concerts and events to acquire new customers.
+  🔗 https://www.livemint.com/companies/district-by-zomato-eternal-district-app-online-event-ticketing-india-quick-commerce-growth-11758203072988.html
 
-- Teck Deal With Anglo Faces Indigenous Challenge on Smelter Plan
-  Indigenous group vows to bring political and legal challenges against Teck Resources Ltd.’s merger with Anglo American Plc. Teck and Anglo American
-  🔗 https://www.livemint.com/companies/news/teck-deal-with-anglo-faces-indigenous-challenge-on-smelter-plan-11758215155495.html
+- BluSmart seeks to salvage over 4,000 cabs leased from Gensol amid bankruptcy
+  BluSmart is trying to ensure that Gensol does not reassign the leases unilaterally to other ride-hailing companies.
+  🔗 https://www.livemint.com/companies/blusmart-seeks-to-salvage-over-4-000-cabs-leased-from-gensol-amid-bankruptcy-11758195112404.html
 
-- Abu Dhabi’s Multibillion-Dollar Energy Push Faces Early Stumbles
-  Abu Dhabi launched high-profile energy investment firm XRG a year ago. Biggest effort yet fell apart this week and another deal hangs in the balance.
-  🔗 https://www.livemint.com/companies/news/abu-dhabi-s-multibillion-dollar-energy-push-faces-early-stumbles-11758212548095.html
+- Calories per rupee: Why pizza is a winner in India’s fast-food race
+  Pizza delivers the best ‘calories per rupee’ for Indian foodies, report says.
+  🔗 https://www.livemint.com/companies/calories-per-rupee-pizza-india-fast-food-market-11758175816533.html
 
-- Intels tumultuous journey from Silicon Valley stalwart to AI straggler
-  Intel's tumultuous journey
-  🔗 https://www.livemint.com/companies/news/intels-tumultuous-journey-from-silicon-valley-stalwart-to-ai-straggler-11758212486199.html
+- Blackstone eyes Zelestra's India ops in $421 mn deal
+  Zelestra India has an operational capacity of 600 megawatt (MW) The green energy platform is targeting 8.6GW capacity by
+  🔗 https://www.livemint.com/companies/blackstone-eyes-zelestras-india-ops-in-421-mn-deal-11758194818209.html
+
+- Stock market today: Trade setup for Nifty 50, US Fed rate cut, India-US trade deal; 8 stocks to buy or sell on Friday
+  For Nifty the support is placed at 25,300 and 25,150. A decisive move above this level could trigger a rally towards 26,000.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-us-fed-rate-cut-india-us-trade-deal-8-stocks-to-buy-or-sell-on-friday-11758193787602.html
+
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 19 September 2025
+  Sumeet Bagadia recommends five breakout stocks to buy today. Zen Technologies Limited,
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-19-september-2025-11758213800432.html
+
+- Stock recommendations for 19 September from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 19 September. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-best-stock-recommendations-marketsmith-india-sensex-nifty-bank-of-baroda-laurus-labs-11758198719327.html
 
 - Oil prices dip as US economic concerns outweigh Fed rate cut
   Oil prices dip as US economic
@@ -67,18 +79,6 @@
 - Russell 2000 reaches record high as rate-cut hopes lift US small caps
   Russell 2000 reaches record high as rate
   🔗 https://www.livemint.com/market/stock-market-news/russell-2000-reaches-record-high-as-rate-cut-hopes-lift-us-small-caps-11758216850633.html
-
-- Canadian dollar weakens as investors unravel central bank rate signals
-  Canadian dollar weakens as investors unravel
-  🔗 https://www.livemint.com/market/stock-market-news/canadian-dollar-weakens-as-investors-unravel-central-bank-rate-signals-11758216427188.html
-
-- Warren Seeks Details on Binance Compliance With 2023 Settlement
-  Senator Elizabeth Warren is pressing the Justice Department on whether the world’s biggest crypto exchange, Binance Holdings Ltd., is adher
-  🔗 https://www.livemint.com/market/cryptocurrency/warren-seeks-details-on-binance-compliance-with-2023-settlement-11758214304758.html
-
-- World shares hit new record highs, dollar gains buoyed by Fed rate cut
-  World shares hit new record highs, dollar
-  🔗 https://www.livemint.com/market/stock-market-news/world-shares-hit-new-record-highs-dollar-gains-buoyed-by-fed-rate-cut-11758211392000.html
 
 - What price will iPhone 17, 17 Pro, Pro Max and Air sell for in India? Bank offers, cashback deals explained
   Apple's iPhone 17 series launches in India tomorrow, featuring iOS 26 and advanced AI capabilities. Prices range from  �
@@ -100,165 +100,153 @@
   Apple's iOS 26 update faced user complaints about battery drainage, performance, and visual issues with Dark Mode. Users suggest colorful wallpapers or disabling Dark Mode as potential fixes.
   🔗 https://www.livemint.com/technology/tech-news/iphone-users-say-ios-26-makes-them-feel-dizzy-heres-how-to-fix-it-11758193286354.html
 
-- Stocks Get Technology Boost as Intel Surges 25%: Markets Wrap - Bloomberg.com
-  &nbsp;&n
+- S&P 500, Nasdaq, Dow and Russell 2000 Hit Records: Markets Wrap - Bloomberg.com
+  The Dow, Nasdaq and Russell 2000 hit
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPcndTeTJGczJqLVJObE1YWEFTLUdZaWdTRE8zU3BZT1NTNDctUTM4VjdIdnhxWUlSRDJhbGcwYXJhbHN5Z1V4Q3dkRnpvc0t1NURGcmUwSHFZcnN0TzZZQUhyQkotUkVOT2V1OWIzTC1VLUY0X0tZVVFpeDhBNDBlc1k2Ul84MFBfSVp4Wlc0WWpwbmFv?oc=5
 
-- US markets take a pause after a record rally ahead of Fed rate decision - CNBC TV18
-  US markets take a pause after a record rally ahead of Fed rate
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaXlTZUhEeUlUbWJtVEVtTHV2dUpWdDBIdEN6T2RjOW9oVm4yMG9MYm8tNEg2SzdKdmh2Q3dtWE9WLTU0bVRJOF81N1Byc2w0NVRzaG1JVnY1dWRvd05hdjJLcWpESzRfa0xRS3J4WE9TUE5KXzlVbzZGc1FQRlJnUVViUllDZk5hUDRYaWZORzBNZURTaXFWa3NqVEJ3N2IzYnNpMW0ySW5WcU1zV0tkQUJFMk1sQnhZY041VWY4ZkZxdTRKM0t1TdIBzgFBVV95cUxNMDdpYzJnQ3A3MEZETzVHSVZ5cW5MX3JqM3FtajM0aXhWTC1PM0RpUGdaR0loeVZ1azJvMkFGTy1USzhyaDJZU294V3lKQll6d2NsUTBNanctTnVBR2FXUVY5VjhGa1dzeWdwYlRtTUNYc3hqaXZWNjdNaFNSSXNPQzhEZzM0bExOQlJXaUVtRUFRdThzMTJPNzJzUnBJVXBXUzdTMmI4WExEUzl3NndfWU4ycmpybFRMSTltbTdROUxmeVBhWVJ4TUxsRlk1Zw?oc=5
+- Stock Market Today: Dow, Nasdaq Rise After Fed Rate Cut; Intel Shares Surge on Nvidia Deal — Live Updates - The Wall Street Journal
+  The Wall Street Journal reports that Intel is in talks to buy the chipmaker.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNc0gxYktVeXd2eG93aDFBSnNtQkk1d1YtaWJVQmVRTjBSUjh2VFVDNllEbHlIVUdIakNCSmJxZXVOV2FGdnpfVXhFb3dRV1NuMTJUajMyUXZHODU0RDN2ZmVoQktOMzZyajRxSHZTM0ctMmotMmk5ZXpUNnZEZXFMT0E0Z0hlNEE?oc=5
 
-- Stocks surge a day after Fed rate cut, small-cap benchmark on pace for a record close: Live updates - CNBC
-  Small-cap benchmark on pace for a record close: Live updates.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE51QlQ3My1aSE9Vcy04T3plUkJpNHVtXzdYNlJtZmZvVnl0bG9VdzRMYVJZWmV0WDhIZUdjbTV5bnFQb0ZlMmFVUUozUGVBSWtMSUVEWWxQWGkwUzJ6WE0yRHE4ekRDMU5RV20tS2JJc3dDMUI4blUw0gF8QVVfeXFMTnlzb2txVGF4NURPTno3eE9SZnltN2ZsS1Z4WTVTT0ZZT0JKOG10ZXlBcFdCUkZPSDVqb1pYVjJGb083ZDl0dktRSFA0aG8zcUQ4VnMxOUZZR3YwVExBaTMyQV9YZ0diaHlNQjZFb0NTek96LWlrdFlnVkQzYw?oc=5
+- Stock futures are little changed after market rallies to all-time highs: Live updates - CNBC
+  Stock futures are little changed after market rallies to all-
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1LSzNPSTB1RzZJbGNta3YxOUZFNElQWmJrUHdPTk5RZFJSMHlvMlZDVHdhNXB6ZWdIejVzVmUyTmZqNE5LZGE4RVpPbnVXLW9FOEdqaVVmc3JXeHVwY3BkNFF5RE5MaF96aElmbVBmMS1QMHNuMTVv0gF8QVVfeXFMUEdWYjRkQmc5OERMLWRoMnRjQ2VqUkdhOG5odnRBRDdXRG9TMHFVTnlEX1pZUHNBV2M0RDh5b25PUlBHNFctdGkyaF9XaDNwa1hBeXp3UFFvSlY5NTZvRnFVYm1hamtta3J0QmtHLTNjR2tjNXFrcmdUVUN6TQ?oc=5
 
-- Closing Bell: Market extends winning streak to third day; Nifty above 25,400, Sensex up 350 points - Moneycontrol
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWlZmUnBKaGoxRHhQVTk1RXZ3eGlxSkx0anVrVUtLTmU5M2FOdDdZV3VicUlERjlsVFp6anNlMHZPTERrY0hYMjNwRWx6YVBlYm8yTUU3Y3pDMDBCMVhEbVlWdlU4eXVBc3
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWlZmUnBKaGoxRHhQVTk1RXZ3eGlxSkx0anVrVUtLTmU5M2FOdDdZV3VicUlERjlsVFp6anNlMHZPTERrY0hYMjNwRWx6YVBlYm8yTUU3Y3pDMDBCMVhEbVlWdlU4eXVBc3NSUHVjb3c3Q2UtVmgwbUxEd1JXNzlLMFJBU2ZpS0pFVWRabl9ocFl1RWpmYjEwaVBjejFQNHJqLVlYWjdOd085TkxwMC1pSlAtSXllU3dfQVBLV25veGNrTlRsOV9rUzlLTnJLMW5UV200RU9Td3FzSVRRdlZQbHJxeEwyTkVibWt0Qg?oc=5
+- Asia-Pacific markets set for higher open as investors await Bank of Japan decision - CNBC
+  Asia-Pacific markets set for higher open as investors await
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPUEdHaWdEd3BaSzhxNmM2OUpjeFBpSFNjeVRmakZtQldNUC1UelJsTGFJazR6UTFpeXRsNUJ3d1lEWFhWQWUyQU9oM3piTGVlaTFiRHh2dVFWOEIwTjNQVnprcWpqOC1uejZvaW9xLU9pckhZX1VjZUFyclZ2aTVuQ2RMeU9PQUt2S25zdVhYUHhPZw?oc=5
 
-- JK Tyre has diverted exports to US from India to other markets: MD Anshuman Singhania - The Hindu
-  JK Tyre has diverted exports to US from India to other markets
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPa3pvZjcxUW91b3dlM0FEZkpQRklUREE3WVc5ZG5ja2RvUzc3aGVvb3MwU3Q2Rl9CQmJtakpuUHo5bFRIRUdfb2hnRzRsYmdLY2dQLUxLaC1VWms3ZEhaYkd0RG9RejJDMGxMdUliYjFoSHdqdk9QRDkzTXUzcEtMSUFacnJaX2ZPZFlYd3BkT2hiSlRvb1ByaGVZalRTb1JWNUJVNGJFVVNuaG1uMW4tS0ZxUVQzX09vbjRpRjFzVEo1clFmQTRGYWtEVm5IMGphNFdwS2wyUVRaWlRYYUpSSlRVUEIwZHh6bWfSAfABQVVfeXFMT3Q3S19fazg4X19sX0FlbXh3S044LU1zcjVPWTExZGI3MW1OVHItN3g0aW9ObmlYUXRadlhBVWxtOFBPOXhEcmVBWkwtRU1lMm9kQXJvVGc5N1p3U1NlbG5rUld4blhfWm1ZdnQ5elh1ZDkzelotUGdtT3NOOW5NLTl0WDlGOEJqRExVdmpia2tRdDJRcDNOd2ptRHI2MlJaN2hFa09KRUN4czJzNml1VnItS3hNSV93a1RmTktEbVo5a3dMU0MzN2JHS0lxZzVEWWRIaHowVmE3REZiX2w3VTl1Z0haRk1MS2xaNE1XMWhv?oc=5
+- Chaos in Hyderabad markets over rollout of new GST prices - The Hindu
+  The Hindu reports on the chaos in Hyderabad
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSGFYWEViRms5Qy12UWlZbXBaeUp3MjdkZ0dXVjZTRmxDNXRsRTZBd0o0T21YMUJpQ055akcwTXdHcHFhZUZNQUJzeHdnYk9naVkwOTBMQ2VndnR5UmVfMlFPai1tZXZCS3Z6NXZmM0ctLU44YlVSSDlhbW9LRVpYNm1TOVBVdzNPWlE1N1NCRnk0dERsSUZ4V3NsUDdhQkM2S1lHZTBUTHcxczdoQzVySE8tN1o2MVRJVllFWXlOVklyUdIByAFBVV95cUxNaXY4alA0NmJ6Nlp5S3lxLVU3a3ZuQ09jbUVZTzFqaGJkMHh4NzNQSWs5TElfUWd3U0VsaGZBUEhzMXpMUHYyOHZEMVVJeEpCTFdFZzdXZUUyVm0zVmhsS1d6RFpMYURLNS1OQnE3bzZQYW1YVllQSFJJTnM2Z3RHdGZrUHZ6LXh5TlhSN3RMRFNkN0NubjZvWTgxVG11b0ZjR0k4SGJ6clhXekFXamg0eHdVVWxGZTJhNWdKOE5rRGEyLU0yeFdnSw?oc=5
 
-- ET Market Watch: Nifty above 25,400, Sensex at 83,000; IT &amp; pharma stocks surge after Fed rate cut
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/etmarkets-podcast/et-market-watch-nifty-above-25400-sensex-at-83000-it-pharma-stocks-surge-after-fed-rate-cut/podcast/123980980.cms
+- Pre-market action: Here's the trade setup for today's session
+  Nifty gained for the third consecutive session following the US Fed rate cut and indications of further reductions. Analysts anticipate a continued upward trend, influenced by tariff-related developments.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/123980806.cms
 
-- GK Energy raises Rs 139 crore from anchor investors ahead of IPO
-  GK Energy raised Rs 139 crore from anchor investors, including Pinebridge, Prashant Jain's 3P India Equity Fund. Strong institutional interest and robust FY25
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/gk-energy-raises-rs-139-crore-from-anchor-investors-ahead-of-ipo/articleshow/123980339.cms
+- Sebi promotes broadened investor participation in infrastructure sector for enhanced liquidity
+  SEBI is looking to attract a wider range of investors to the infrastructure sector. Chairman Tuhin Kanta Pandey highlighted the need for expedited asset monetisation by state governments.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-promotes-broadened-investor-participation-in-infrastructure-sector-for-enhanced-liquidity/articleshow/123987431.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Friday
-  Sensex rose 320 points and Nifty 93, marking a third straight gain. Fed’s 25 bps rate cut,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/123979889.cms
+- Stocks in news: Adani Enterprises, Adani Power, Vedanta, Texmaco Rail, Oil India
+  Adani Group stocks are in focus as Sebi dismissed allegations in the Hindenburg case. Indian Hotels clarified its leasehold rights for The Pierre hotel. Oil India anticipates the restart of a Mozambique LNG project by year
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-adani-enterprises-adani-power-vedanta-texmaco-rail-oil-india/articleshow/123980753.cms
 
-- Explained: No RPT violations, no fund diversion. What Sebi’s key findings in Adani–Hindenburg case reveal
-  Sebi dismissed allegations that Adani Group used Adicorp to route funds in violation of related-party norms. The regulator
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/explained-no-rpt-violations-no-fund-diversion-what-sebis-key-findings-in-adanihindenburg-case-reveal/articleshow/123979778.cms
+- NaBFID needs to make ambitious projects bankable: DFS secretary
+  NaBFID is urged to enhance expertise and systems for long-term infrastructure viability. Focus should be on urban infrastructure and water, developing standards and engaging with states.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nabfid-needs-to-make-ambitious-projects-bankable-dfs-secretary/articleshow/123987404.cms
 
-- Market Trading Guide: Axis Bank, Ashok Leyland among 4 stocks to buy on Friday for up to 11% upside
-  Indian indices extended gains on Thursday, led by IT and pharma stocks. Nifty supported by dovish Fed cues. Analysts recommend buy-on
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-axis-bank-ashok-leyland-among-4-stocks-to-buy-on-friday-for-up-to-11-upside/slideshow/123979447.cms
+- Motilal Oswal settles case with Sebi,  pays Rs 34.85 lakh as settlement charges
+  Motilal Oswal Financial Services settled a case of suspected front-running by the Chaturvedi Group. The regulator alleged the firm failed to maintain proper order records.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-settles-case-with-sebi-pays-rs-34-85-lakh-as-settlement-charges/articleshow/123987376.cms
 
 - U.S. may ease India tariffs, India's chief economic adviser says - Reuters
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1
+  U.S. may ease India tariffs
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1BGU0JpSlh0enZpSkk3b1dqUDFVSFlhcEFESzVqS05OUFpjQnlwRlpNc1pUa1o3Z1ViSG40aUw5UGRCZFBaaGVtMXpO?oc=5
 
-- Ponguleti wonders whether KTR will be in India at all by next elections - The Hindu
-  Ponguleti wonders whether KTR will be in India
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOTZubWFWc0g3VnY5Zm1HTHc2N1Y3d0Q2MjdVbXgxM2thR0xGMjdFNmNuWmphUzliS3pZYTRTaFV1eGNPbXp2WHFKdDVORXdrZ1JnX0VoWGU0dzBHLW9hLWJHaElscnkyUi10YzY3TXIyeVF0U1I1YktMQzRwMDFWZV9Dc3B6NnE4b1ZyOUg3NXNnbEk0bUtWQzBtWl94MlVROWhaWkVOdXBCNTAzc1ZjVlh0WTRMM1owOGowZm0yaHlZQmQyb1NNX25IeUI1OGgtSzdCUHZjZ9IB3gFBVV95cUxNdHlIbUFickN2OFcwWGk3ZWJQbTJNT0pHZ1dDLXBoSUVDSkVic3VMWkYzaDdEbnhXQTcxUEZkaUJLYTlfNmdST28zNHhlQjFRdDM0T0V2aWswSG16ZFh1bVRnX1M0aTVLenlSSUx4d1Y0dTRtbWVGME41SXV3R0xYalVNR3VPa2pFT0duR1dFQW93VUJLMFRIdnhyaHBuU0RHSHdPQkRYRWlOUUF4bG1DU01faEtZazZWandISU9QbUFtNkxBaWl1Z19MczhoR291ZHJQRDVKeDVoM3lLdVE?oc=5
+- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
+  US May Remove 25% Penal Tariff On India After
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
 
-- Adani Group Conclusively Vindicated: Mahesh Jethmalani On SEBI Clean Chit - NDTV
-  Adani Group Conclusively Vindicated
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXltUDJ6bkJvUl85ODQ5VW5kdkpobm1iSHAyYk4wTmVyYWRXTHZPRUUzcGhCdy01N1kxWU80UmhldFNZSnpyaVloVXprT0pscEtWdWdNbTl0cFRxSU5hQW1XV1dYWjFnRF92NlRVenZsM1dyS29qZ2hfcTk4by1hUEtGMmZGM013WlRlbTJCb2g0eHFDNmZ2bGdkbGkzM2ZHVHBRWXVrc2w0bnJISjBDSnln0gG6AUFVX3lxTFAxYUJ1RmFyal8yZHBqUXBobmxzQWplTXNhSHVfNjdUTDVBRTdzZElBUEhiS2g4cGxJTjNhWnNWWFpWMm1WMzNHa2ljd1U1Z1hSdk5PY0xVX2hjSnpIa2thVlVzOUJJd1lVc1JjaVo2YUNWaWxwNFF4ZVAtY2tkNklmWHFBZC1TbzYyc2FQdUJqYWludnB3R3p1YzhFWXJLYVNrSFNQUDAyNnViMWRfbWN3SmZ5a0E5YmI2UQ?oc=5
+- Russia's strong message to US over Trump tariffs: 'Threats to India, China won't work' | Latest News India - Hindustan Times
+  Russia's strong message to US over Trump tariffs: 'Threats to India,
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaUxydExtMUJ0bGcwdG43NEV0X2lkc3dvMl8xOXctNkp5MEs0djE1YjFJMjNDNVdPOXl2YzVDczJLVzBGN1gxZndQeU92OGFGdXI5S3ZvUTdrMGlIcXpKeXNXZnZZTGdVLWJQV1Z1VWNBb3ZsVjRXQnl6RzBSbGRYWXQ2QXZZX3otbU1URUtRNkM5VG9CblUzanM4d3VPQUdsdmI2Nko2MUFFcHNNblhBblZZMk5ZRC1BSnpyTWpzdHJiUGtBUEVrMnpIWFFYdV9wNGdEcDZWQm8ybVXSAeABQVVfeXFMTm1kQjBlZF9TZmZUY1RJZmxQZVVJWTVZTkkybXBwX1pjaDZlZkNVUkFTaXhuZV9FY2VZUDdhNUtmTXRkTmJJbGU5MFBLM0dvUUZLdUpPN21NVFBabjZOTERUM2NVYVFsdVU4V3Fya3NrWk5oVGZzaEtxa3BVNGpfaG5NdWxJM1dCM0ZZbUVIckV5eGJUVVNzdUs0SmRwVFgzUmRub2R1WEdEbEM2RVJSS0N1WVVTeG10Z2sxSFc4ZEJiVVZxTGhjUjFxc0xVVUEwMlJ5SzlqcWdfVmlkM29fN0M?oc=5
 
 - US revokes visas for Indian executives over fentanyl allegations - Al Jazeera
   Al Jazeera reports that Indian officials have been
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGRLdDNVU2V4ano2QlViWkJHQWpwRVNVRUtYOUJtTTc5d0JTZFFSTkkxU0hiM3dMSk1mS2dwS3B5N2lieFpUbnpOY3lTVDBMaXc1Z050aXJON2xfUE4tc0FXUEp0QVlxMTBEZVZpSU1aTnRRSzZvZDg3NmRmRG0xMVRsLThoNkVnU1JySkpxT2pXNGdVMGxVWlplTkUzVlJJbFZvR1NPeFnSAa4BQVVfeXFMT01IZFdKc2tTd19DcU5RV05ld0tKRlJPRGlTclpDdl9lblp5b0lhQmdNRzNiS2xueE1pZkNQZFBQTGducHFjZmhObVUzdnNBT0J3dEFoRVRYcENpal96eXIxREM0MHMtLVU1MlpXYkppaERNR3BFY1hPbjdQUU51Mk9qbmpYOGFYN3VkRXlFWHNVWVR2YUowTnBpYmtOQVJXZzhRXzNwU2xsSDJyc3Nn?oc=5
 
-- No Visas For Indian Businesspersons, Family With Drug Trafficking Links: US - NDTV
-  No Visas For Indian Businesspersons,
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3I5ek5zS0dlX3lSclRab1lEQlFzSEYzRGp2Ulp5eFB2Z3A3eGZFMS1QYmJWOW9yWHo2VmdteFlRVUZsX3MzRjYyai1YdFI1R1JHS2FneUJvTDU3UlhTdmdqNUdMZWtGQlZQVHlPa29IcnliZWFuaGllVm1oRUZmR2JuMzJ1ZE5ubzh4MWR2OHFoUndTUXFQM1FrcEFCUFhuTFpNUFhnVGtjLVNyMW1QOWpB0gG6AUFVX3lxTE1tUEZvNG1uZGdjNzhkSm5fbG1vdHQwTFFla2doY3dBREE4WkExajQweFpHLUdkTWZodmVlWXR2bXlHNURxNnZzWHdxZmVFVXRaQkNkR1g1Rjd4TTFadTc1bkhvS25CTkpLdGdOTjZmQXlyWDM4MWlROFRrbUM4ZUZiMnhTbnYybm1xM2pOZUdWSHI1OEtZYVpQTDJfbjNNWGlIb1N3Y2RxbVN2WnFVd1NkQ1haeUlDZmw0Zw?oc=5
+- US revokes, denies visas of Indian business executives over fentanyl precursor trafficking | Latest News India - Hindustan Times
+  US revokes, denies visas of Indian business executives over fentanyl precursor trafficking.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUGlwYU9Ma25LT2FuWmUySjNXYmU5dkl4SndJWnptZGNOcjRFX0FXczM3OWJaQy03VnRwSlhDUkdlNFlsSk0yeFZEUzlFcDc5VThUTkE4c211UVRJbnRFWlVoNFBtYzQ3Z0drRkpYRWttV2t6TWROaVJWSTlmdERsWU5MUnVtNldkNktETnc2SXFNSFhncGRSZHR5Y3hsNkNZYWVDaGlmc001M3l0OEZ3WWxQckJNX1MyMWVaSlVQVmJJM3ZGczliRVdncTVrZEhEZUpvRE5xTmFVRU9saktZ0gHkAUFVX3lxTFBVNlg1cDVBUjh4LXVWYXI3MU93NWNZRUpBNjFrbC1STHlseVFST2tydGxPaFhSSTJ2ZW5KYlE5ZHlUa2lnVVpWUXl6MndYQlJRWGc0c1RCLWhXRlVCNDR5cG5FdjN3ekY2S2ZkVTZtYnpMcDdkcWhtSFFDTUNRWjA2c0tOUno3WjF4d3F6dENkQzAzNm5adjN0a2taOVd4c0RtaGlpZ2RWWklNdXBWX0pZTXlFaDZDZ3owMFA1QnR4RXpsM0VpNVJyUFV0c3Q3ZVNMajRpam1lRlNyanUtQjBtdGpYeg?oc=5
 
 - U.S. may ease India tariffs, India's chief economic adviser says - Reuters
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1
+  U.S. may ease India tariffs
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1BGU0JpSlh0enZpSkk3b1dqUDFVSFlhcEFESzVqS05OUFpjQnlwRlpNc1pUa1o3Z1ViSG40aUw5UGRCZFBaaGVtMXpO?oc=5
 
-- Ponguleti wonders whether KTR will be in India at all by next elections - The Hindu
-  Ponguleti wonders whether KTR will be in India
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOTZubWFWc0g3VnY5Zm1HTHc2N1Y3d0Q2MjdVbXgxM2thR0xGMjdFNmNuWmphUzliS3pZYTRTaFV1eGNPbXp2WHFKdDVORXdrZ1JnX0VoWGU0dzBHLW9hLWJHaElscnkyUi10YzY3TXIyeVF0U1I1YktMQzRwMDFWZV9Dc3B6NnE4b1ZyOUg3NXNnbEk0bUtWQzBtWl94MlVROWhaWkVOdXBCNTAzc1ZjVlh0WTRMM1owOGowZm0yaHlZQmQyb1NNX25IeUI1OGgtSzdCUHZjZ9IB3gFBVV95cUxNdHlIbUFickN2OFcwWGk3ZWJQbTJNT0pHZ1dDLXBoSUVDSkVic3VMWkYzaDdEbnhXQTcxUEZkaUJLYTlfNmdST28zNHhlQjFRdDM0T0V2aWswSG16ZFh1bVRnX1M0aTVLenlSSUx4d1Y0dTRtbWVGME41SXV3R0xYalVNR3VPa2pFT0duR1dFQW93VUJLMFRIdnhyaHBuU0RHSHdPQkRYRWlOUUF4bG1DU01faEtZazZWandISU9QbUFtNkxBaWl1Z19MczhoR291ZHJQRDVKeDVoM3lLdVE?oc=5
+- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
+  US May Remove 25% Penal Tariff On India After
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
 
-- Adani Group Conclusively Vindicated: Mahesh Jethmalani On SEBI Clean Chit - NDTV
-  Adani Group Conclusively Vindicated
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXltUDJ6bkJvUl85ODQ5VW5kdkpobm1iSHAyYk4wTmVyYWRXTHZPRUUzcGhCdy01N1kxWU80UmhldFNZSnpyaVloVXprT0pscEtWdWdNbTl0cFRxSU5hQW1XV1dYWjFnRF92NlRVenZsM1dyS29qZ2hfcTk4by1hUEtGMmZGM013WlRlbTJCb2g0eHFDNmZ2bGdkbGkzM2ZHVHBRWXVrc2w0bnJISjBDSnln0gG6AUFVX3lxTFAxYUJ1RmFyal8yZHBqUXBobmxzQWplTXNhSHVfNjdUTDVBRTdzZElBUEhiS2g4cGxJTjNhWnNWWFpWMm1WMzNHa2ljd1U1Z1hSdk5PY0xVX2hjSnpIa2thVlVzOUJJd1lVc1JjaVo2YUNWaWxwNFF4ZVAtY2tkNklmWHFBZC1TbzYyc2FQdUJqYWludnB3R3p1YzhFWXJLYVNrSFNQUDAyNnViMWRfbWN3SmZ5a0E5YmI2UQ?oc=5
+- Russia's strong message to US over Trump tariffs: 'Threats to India, China won't work' | Latest News India - Hindustan Times
+  Russia's strong message to US over Trump tariffs: 'Threats to India,
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaUxydExtMUJ0bGcwdG43NEV0X2lkc3dvMl8xOXctNkp5MEs0djE1YjFJMjNDNVdPOXl2YzVDczJLVzBGN1gxZndQeU92OGFGdXI5S3ZvUTdrMGlIcXpKeXNXZnZZTGdVLWJQV1Z1VWNBb3ZsVjRXQnl6RzBSbGRYWXQ2QXZZX3otbU1URUtRNkM5VG9CblUzanM4d3VPQUdsdmI2Nko2MUFFcHNNblhBblZZMk5ZRC1BSnpyTWpzdHJiUGtBUEVrMnpIWFFYdV9wNGdEcDZWQm8ybVXSAeABQVVfeXFMTm1kQjBlZF9TZmZUY1RJZmxQZVVJWTVZTkkybXBwX1pjaDZlZkNVUkFTaXhuZV9FY2VZUDdhNUtmTXRkTmJJbGU5MFBLM0dvUUZLdUpPN21NVFBabjZOTERUM2NVYVFsdVU4V3Fya3NrWk5oVGZzaEtxa3BVNGpfaG5NdWxJM1dCM0ZZbUVIckV5eGJUVVNzdUs0SmRwVFgzUmRub2R1WEdEbEM2RVJSS0N1WVVTeG10Z2sxSFc4ZEJiVVZxTGhjUjFxc0xVVUEwMlJ5SzlqcWdfVmlkM29fN0M?oc=5
 
 - US revokes visas for Indian executives over fentanyl allegations - Al Jazeera
   Al Jazeera reports that Indian officials have been
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGRLdDNVU2V4ano2QlViWkJHQWpwRVNVRUtYOUJtTTc5d0JTZFFSTkkxU0hiM3dMSk1mS2dwS3B5N2lieFpUbnpOY3lTVDBMaXc1Z050aXJON2xfUE4tc0FXUEp0QVlxMTBEZVZpSU1aTnRRSzZvZDg3NmRmRG0xMVRsLThoNkVnU1JySkpxT2pXNGdVMGxVWlplTkUzVlJJbFZvR1NPeFnSAa4BQVVfeXFMT01IZFdKc2tTd19DcU5RV05ld0tKRlJPRGlTclpDdl9lblp5b0lhQmdNRzNiS2xueE1pZkNQZFBQTGducHFjZmhObVUzdnNBT0J3dEFoRVRYcENpal96eXIxREM0MHMtLVU1MlpXYkppaERNR3BFY1hPbjdQUU51Mk9qbmpYOGFYN3VkRXlFWHNVWVR2YUowTnBpYmtOQVJXZzhRXzNwU2xsSDJyc3Nn?oc=5
 
-- No Visas For Indian Businesspersons, Family With Drug Trafficking Links: US - NDTV
-  No Visas For Indian Businesspersons,
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3I5ek5zS0dlX3lSclRab1lEQlFzSEYzRGp2Ulp5eFB2Z3A3eGZFMS1QYmJWOW9yWHo2VmdteFlRVUZsX3MzRjYyai1YdFI1R1JHS2FneUJvTDU3UlhTdmdqNUdMZWtGQlZQVHlPa29IcnliZWFuaGllVm1oRUZmR2JuMzJ1ZE5ubzh4MWR2OHFoUndTUXFQM1FrcEFCUFhuTFpNUFhnVGtjLVNyMW1QOWpB0gG6AUFVX3lxTE1tUEZvNG1uZGdjNzhkSm5fbG1vdHQwTFFla2doY3dBREE4WkExajQweFpHLUdkTWZodmVlWXR2bXlHNURxNnZzWHdxZmVFVXRaQkNkR1g1Rjd4TTFadTc1bkhvS25CTkpLdGdOTjZmQXlyWDM4MWlROFRrbUM4ZUZiMnhTbnYybm1xM2pOZUdWSHI1OEtZYVpQTDJfbjNNWGlIb1N3Y2RxbVN2WnFVd1NkQ1haeUlDZmw0Zw?oc=5
+- US revokes, denies visas of Indian business executives over fentanyl precursor trafficking | Latest News India - Hindustan Times
+  US revokes, denies visas of Indian business executives over fentanyl precursor trafficking.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUGlwYU9Ma25LT2FuWmUySjNXYmU5dkl4SndJWnptZGNOcjRFX0FXczM3OWJaQy03VnRwSlhDUkdlNFlsSk0yeFZEUzlFcDc5VThUTkE4c211UVRJbnRFWlVoNFBtYzQ3Z0drRkpYRWttV2t6TWROaVJWSTlmdERsWU5MUnVtNldkNktETnc2SXFNSFhncGRSZHR5Y3hsNkNZYWVDaGlmc001M3l0OEZ3WWxQckJNX1MyMWVaSlVQVmJJM3ZGczliRVdncTVrZEhEZUpvRE5xTmFVRU9saktZ0gHkAUFVX3lxTFBVNlg1cDVBUjh4LXVWYXI3MU93NWNZRUpBNjFrbC1STHlseVFST2tydGxPaFhSSTJ2ZW5KYlE5ZHlUa2lnVVpWUXl6MndYQlJRWGc0c1RCLWhXRlVCNDR5cG5FdjN3ekY2S2ZkVTZtYnpMcDdkcWhtSFFDTUNRWjA2c0tOUno3WjF4d3F6dENkQzAzNm5adjN0a2taOVd4c0RtaGlpZ2RWWklNdXBWX0pZTXlFaDZDZ3owMFA1QnR4RXpsM0VpNVJyUFV0c3Q3ZVNMajRpam1lRlNyanUtQjBtdGpYeg?oc=5
 
 - U.S. may ease India tariffs, India's chief economic adviser says - Reuters
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1
+  U.S. may ease India tariffs
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1BGU0JpSlh0enZpSkk3b1dqUDFVSFlhcEFESzVqS05OUFpjQnlwRlpNc1pUa1o3Z1ViSG40aUw5UGRCZFBaaGVtMXpO?oc=5
 
-- Ponguleti wonders whether KTR will be in India at all by next elections - The Hindu
-  Ponguleti wonders whether KTR will be in India
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOTZubWFWc0g3VnY5Zm1HTHc2N1Y3d0Q2MjdVbXgxM2thR0xGMjdFNmNuWmphUzliS3pZYTRTaFV1eGNPbXp2WHFKdDVORXdrZ1JnX0VoWGU0dzBHLW9hLWJHaElscnkyUi10YzY3TXIyeVF0U1I1YktMQzRwMDFWZV9Dc3B6NnE4b1ZyOUg3NXNnbEk0bUtWQzBtWl94MlVROWhaWkVOdXBCNTAzc1ZjVlh0WTRMM1owOGowZm0yaHlZQmQyb1NNX25IeUI1OGgtSzdCUHZjZ9IB3gFBVV95cUxNdHlIbUFickN2OFcwWGk3ZWJQbTJNT0pHZ1dDLXBoSUVDSkVic3VMWkYzaDdEbnhXQTcxUEZkaUJLYTlfNmdST28zNHhlQjFRdDM0T0V2aWswSG16ZFh1bVRnX1M0aTVLenlSSUx4d1Y0dTRtbWVGME41SXV3R0xYalVNR3VPa2pFT0duR1dFQW93VUJLMFRIdnhyaHBuU0RHSHdPQkRYRWlOUUF4bG1DU01faEtZazZWandISU9QbUFtNkxBaWl1Z19MczhoR291ZHJQRDVKeDVoM3lLdVE?oc=5
+- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
+  US May Remove 25% Penal Tariff On India After
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
 
-- Adani Group Conclusively Vindicated: Mahesh Jethmalani On SEBI Clean Chit - NDTV
-  Adani Group Conclusively Vindicated
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXltUDJ6bkJvUl85ODQ5VW5kdkpobm1iSHAyYk4wTmVyYWRXTHZPRUUzcGhCdy01N1kxWU80UmhldFNZSnpyaVloVXprT0pscEtWdWdNbTl0cFRxSU5hQW1XV1dYWjFnRF92NlRVenZsM1dyS29qZ2hfcTk4by1hUEtGMmZGM013WlRlbTJCb2g0eHFDNmZ2bGdkbGkzM2ZHVHBRWXVrc2w0bnJISjBDSnln0gG6AUFVX3lxTFAxYUJ1RmFyal8yZHBqUXBobmxzQWplTXNhSHVfNjdUTDVBRTdzZElBUEhiS2g4cGxJTjNhWnNWWFpWMm1WMzNHa2ljd1U1Z1hSdk5PY0xVX2hjSnpIa2thVlVzOUJJd1lVc1JjaVo2YUNWaWxwNFF4ZVAtY2tkNklmWHFBZC1TbzYyc2FQdUJqYWludnB3R3p1YzhFWXJLYVNrSFNQUDAyNnViMWRfbWN3SmZ5a0E5YmI2UQ?oc=5
+- Russia's strong message to US over Trump tariffs: 'Threats to India, China won't work' | Latest News India - Hindustan Times
+  Russia's strong message to US over Trump tariffs: 'Threats to India,
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaUxydExtMUJ0bGcwdG43NEV0X2lkc3dvMl8xOXctNkp5MEs0djE1YjFJMjNDNVdPOXl2YzVDczJLVzBGN1gxZndQeU92OGFGdXI5S3ZvUTdrMGlIcXpKeXNXZnZZTGdVLWJQV1Z1VWNBb3ZsVjRXQnl6RzBSbGRYWXQ2QXZZX3otbU1URUtRNkM5VG9CblUzanM4d3VPQUdsdmI2Nko2MUFFcHNNblhBblZZMk5ZRC1BSnpyTWpzdHJiUGtBUEVrMnpIWFFYdV9wNGdEcDZWQm8ybVXSAeABQVVfeXFMTm1kQjBlZF9TZmZUY1RJZmxQZVVJWTVZTkkybXBwX1pjaDZlZkNVUkFTaXhuZV9FY2VZUDdhNUtmTXRkTmJJbGU5MFBLM0dvUUZLdUpPN21NVFBabjZOTERUM2NVYVFsdVU4V3Fya3NrWk5oVGZzaEtxa3BVNGpfaG5NdWxJM1dCM0ZZbUVIckV5eGJUVVNzdUs0SmRwVFgzUmRub2R1WEdEbEM2RVJSS0N1WVVTeG10Z2sxSFc4ZEJiVVZxTGhjUjFxc0xVVUEwMlJ5SzlqcWdfVmlkM29fN0M?oc=5
 
 - US revokes visas for Indian executives over fentanyl allegations - Al Jazeera
   Al Jazeera reports that Indian officials have been
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGRLdDNVU2V4ano2QlViWkJHQWpwRVNVRUtYOUJtTTc5d0JTZFFSTkkxU0hiM3dMSk1mS2dwS3B5N2lieFpUbnpOY3lTVDBMaXc1Z050aXJON2xfUE4tc0FXUEp0QVlxMTBEZVZpSU1aTnRRSzZvZDg3NmRmRG0xMVRsLThoNkVnU1JySkpxT2pXNGdVMGxVWlplTkUzVlJJbFZvR1NPeFnSAa4BQVVfeXFMT01IZFdKc2tTd19DcU5RV05ld0tKRlJPRGlTclpDdl9lblp5b0lhQmdNRzNiS2xueE1pZkNQZFBQTGducHFjZmhObVUzdnNBT0J3dEFoRVRYcENpal96eXIxREM0MHMtLVU1MlpXYkppaERNR3BFY1hPbjdQUU51Mk9qbmpYOGFYN3VkRXlFWHNVWVR2YUowTnBpYmtOQVJXZzhRXzNwU2xsSDJyc3Nn?oc=5
 
-- No Visas For Indian Businesspersons, Family With Drug Trafficking Links: US - NDTV
-  No Visas For Indian Businesspersons,
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3I5ek5zS0dlX3lSclRab1lEQlFzSEYzRGp2Ulp5eFB2Z3A3eGZFMS1QYmJWOW9yWHo2VmdteFlRVUZsX3MzRjYyai1YdFI1R1JHS2FneUJvTDU3UlhTdmdqNUdMZWtGQlZQVHlPa29IcnliZWFuaGllVm1oRUZmR2JuMzJ1ZE5ubzh4MWR2OHFoUndTUXFQM1FrcEFCUFhuTFpNUFhnVGtjLVNyMW1QOWpB0gG6AUFVX3lxTE1tUEZvNG1uZGdjNzhkSm5fbG1vdHQwTFFla2doY3dBREE4WkExajQweFpHLUdkTWZodmVlWXR2bXlHNURxNnZzWHdxZmVFVXRaQkNkR1g1Rjd4TTFadTc1bkhvS25CTkpLdGdOTjZmQXlyWDM4MWlROFRrbUM4ZUZiMnhTbnYybm1xM2pOZUdWSHI1OEtZYVpQTDJfbjNNWGlIb1N3Y2RxbVN2WnFVd1NkQ1haeUlDZmw0Zw?oc=5
+- US revokes, denies visas of Indian business executives over fentanyl precursor trafficking | Latest News India - Hindustan Times
+  US revokes, denies visas of Indian business executives over fentanyl precursor trafficking.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUGlwYU9Ma25LT2FuWmUySjNXYmU5dkl4SndJWnptZGNOcjRFX0FXczM3OWJaQy03VnRwSlhDUkdlNFlsSk0yeFZEUzlFcDc5VThUTkE4c211UVRJbnRFWlVoNFBtYzQ3Z0drRkpYRWttV2t6TWROaVJWSTlmdERsWU5MUnVtNldkNktETnc2SXFNSFhncGRSZHR5Y3hsNkNZYWVDaGlmc001M3l0OEZ3WWxQckJNX1MyMWVaSlVQVmJJM3ZGczliRVdncTVrZEhEZUpvRE5xTmFVRU9saktZ0gHkAUFVX3lxTFBVNlg1cDVBUjh4LXVWYXI3MU93NWNZRUpBNjFrbC1STHlseVFST2tydGxPaFhSSTJ2ZW5KYlE5ZHlUa2lnVVpWUXl6MndYQlJRWGc0c1RCLWhXRlVCNDR5cG5FdjN3ekY2S2ZkVTZtYnpMcDdkcWhtSFFDTUNRWjA2c0tOUno3WjF4d3F6dENkQzAzNm5adjN0a2taOVd4c0RtaGlpZ2RWWklNdXBWX0pZTXlFaDZDZ3owMFA1QnR4RXpsM0VpNVJyUFV0c3Q3ZVNMajRpam1lRlNyanUtQjBtdGpYeg?oc=5
 
 - U.S. may ease India tariffs, India's chief economic adviser says - Reuters
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1
+  U.S. may ease India tariffs
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1BGU0JpSlh0enZpSkk3b1dqUDFVSFlhcEFESzVqS05OUFpjQnlwRlpNc1pUa1o3Z1ViSG40aUw5UGRCZFBaaGVtMXpO?oc=5
 
-- Ponguleti wonders whether KTR will be in India at all by next elections - The Hindu
-  Ponguleti wonders whether KTR will be in India
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOTZubWFWc0g3VnY5Zm1HTHc2N1Y3d0Q2MjdVbXgxM2thR0xGMjdFNmNuWmphUzliS3pZYTRTaFV1eGNPbXp2WHFKdDVORXdrZ1JnX0VoWGU0dzBHLW9hLWJHaElscnkyUi10YzY3TXIyeVF0U1I1YktMQzRwMDFWZV9Dc3B6NnE4b1ZyOUg3NXNnbEk0bUtWQzBtWl94MlVROWhaWkVOdXBCNTAzc1ZjVlh0WTRMM1owOGowZm0yaHlZQmQyb1NNX25IeUI1OGgtSzdCUHZjZ9IB3gFBVV95cUxNdHlIbUFickN2OFcwWGk3ZWJQbTJNT0pHZ1dDLXBoSUVDSkVic3VMWkYzaDdEbnhXQTcxUEZkaUJLYTlfNmdST28zNHhlQjFRdDM0T0V2aWswSG16ZFh1bVRnX1M0aTVLenlSSUx4d1Y0dTRtbWVGME41SXV3R0xYalVNR3VPa2pFT0duR1dFQW93VUJLMFRIdnhyaHBuU0RHSHdPQkRYRWlOUUF4bG1DU01faEtZazZWandISU9QbUFtNkxBaWl1Z19MczhoR291ZHJQRDVKeDVoM3lLdVE?oc=5
+- US May Remove 25% Penal Tariff On India After November 30: Top Official - NDTV
+  US May Remove 25% Penal Tariff On India After
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmF0WXcxOEhSNWVQRUpXZE1xcmhHTHFncndIdzdGWEphdTFpRVQtLW9GcHNYVkhXcW1ZakFReFRJVDVjSDhPU3VZNDBIV3JTN0tnVVE4empMWFYzZDduVVkwenBEZ3F4ZzVMZ1FCSElEYndPbVJjcnVTOXFvLURRejBMeWlta1lQY3ZRODBEa2RqUXpCcGtOUUgzY1Ezd0YzdjgyeXNENXRZcVc4b0JKUWRsWW1zb2xfc1JxOUZRQ3VUTlFEM2lObVY4Q1dsaS15eWtSWExxc19oRGM50gHkAUFVX3lxTE5FYTRIT3l5dmVXN3lWSGEzRmM5bDdXaGRDU3VEU0g2XzJQbk02ZEFJNWRZaVMwc1hSTmlhdHF5YjR0RkJRc0p5bEJ4cmhzQmJ6UG9nVU9hczJHNlFSeEhzY2lzLW01OXlNQVg5QnlKZnlJQUJCMzF4UEIxOG00SXh4WUd6Nzk1ZjNEbGJEM3ZfZ2ZETHFXYjFld0k4N1ltaHduempjUUhTSHUwT1l0VlU3ZldmVE1kd2RRa0k0WUY4TWZoU2FMTXl3aTFkRnFPN2xoSFBBOEV6c0d2QnVYOWRqWjcxbQ?oc=5
 
-- Adani Group Conclusively Vindicated: Mahesh Jethmalani On SEBI Clean Chit - NDTV
-  Adani Group Conclusively Vindicated
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXltUDJ6bkJvUl85ODQ5VW5kdkpobm1iSHAyYk4wTmVyYWRXTHZPRUUzcGhCdy01N1kxWU80UmhldFNZSnpyaVloVXprT0pscEtWdWdNbTl0cFRxSU5hQW1XV1dYWjFnRF92NlRVenZsM1dyS29qZ2hfcTk4by1hUEtGMmZGM013WlRlbTJCb2g0eHFDNmZ2bGdkbGkzM2ZHVHBRWXVrc2w0bnJISjBDSnln0gG6AUFVX3lxTFAxYUJ1RmFyal8yZHBqUXBobmxzQWplTXNhSHVfNjdUTDVBRTdzZElBUEhiS2g4cGxJTjNhWnNWWFpWMm1WMzNHa2ljd1U1Z1hSdk5PY0xVX2hjSnpIa2thVlVzOUJJd1lVc1JjaVo2YUNWaWxwNFF4ZVAtY2tkNklmWHFBZC1TbzYyc2FQdUJqYWludnB3R3p1YzhFWXJLYVNrSFNQUDAyNnViMWRfbWN3SmZ5a0E5YmI2UQ?oc=5
+- Russia's strong message to US over Trump tariffs: 'Threats to India, China won't work' | Latest News India - Hindustan Times
+  Russia's strong message to US over Trump tariffs: 'Threats to India,
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaUxydExtMUJ0bGcwdG43NEV0X2lkc3dvMl8xOXctNkp5MEs0djE1YjFJMjNDNVdPOXl2YzVDczJLVzBGN1gxZndQeU92OGFGdXI5S3ZvUTdrMGlIcXpKeXNXZnZZTGdVLWJQV1Z1VWNBb3ZsVjRXQnl6RzBSbGRYWXQ2QXZZX3otbU1URUtRNkM5VG9CblUzanM4d3VPQUdsdmI2Nko2MUFFcHNNblhBblZZMk5ZRC1BSnpyTWpzdHJiUGtBUEVrMnpIWFFYdV9wNGdEcDZWQm8ybVXSAeABQVVfeXFMTm1kQjBlZF9TZmZUY1RJZmxQZVVJWTVZTkkybXBwX1pjaDZlZkNVUkFTaXhuZV9FY2VZUDdhNUtmTXRkTmJJbGU5MFBLM0dvUUZLdUpPN21NVFBabjZOTERUM2NVYVFsdVU4V3Fya3NrWk5oVGZzaEtxa3BVNGpfaG5NdWxJM1dCM0ZZbUVIckV5eGJUVVNzdUs0SmRwVFgzUmRub2R1WEdEbEM2RVJSS0N1WVVTeG10Z2sxSFc4ZEJiVVZxTGhjUjFxc0xVVUEwMlJ5SzlqcWdfVmlkM29fN0M?oc=5
 
 - US revokes visas for Indian executives over fentanyl allegations - Al Jazeera
   Al Jazeera reports that Indian officials have been
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGRLdDNVU2V4ano2QlViWkJHQWpwRVNVRUtYOUJtTTc5d0JTZFFSTkkxU0hiM3dMSk1mS2dwS3B5N2lieFpUbnpOY3lTVDBMaXc1Z050aXJON2xfUE4tc0FXUEp0QVlxMTBEZVZpSU1aTnRRSzZvZDg3NmRmRG0xMVRsLThoNkVnU1JySkpxT2pXNGdVMGxVWlplTkUzVlJJbFZvR1NPeFnSAa4BQVVfeXFMT01IZFdKc2tTd19DcU5RV05ld0tKRlJPRGlTclpDdl9lblp5b0lhQmdNRzNiS2xueE1pZkNQZFBQTGducHFjZmhObVUzdnNBT0J3dEFoRVRYcENpal96eXIxREM0MHMtLVU1MlpXYkppaERNR3BFY1hPbjdQUU51Mk9qbmpYOGFYN3VkRXlFWHNVWVR2YUowTnBpYmtOQVJXZzhRXzNwU2xsSDJyc3Nn?oc=5
 
-- No Visas For Indian Businesspersons, Family With Drug Trafficking Links: US - NDTV
-  No Visas For Indian Businesspersons,
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3I5ek5zS0dlX3lSclRab1lEQlFzSEYzRGp2Ulp5eFB2Z3A3eGZFMS1QYmJWOW9yWHo2VmdteFlRVUZsX3MzRjYyai1YdFI1R1JHS2FneUJvTDU3UlhTdmdqNUdMZWtGQlZQVHlPa29IcnliZWFuaGllVm1oRUZmR2JuMzJ1ZE5ubzh4MWR2OHFoUndTUXFQM1FrcEFCUFhuTFpNUFhnVGtjLVNyMW1QOWpB0gG6AUFVX3lxTE1tUEZvNG1uZGdjNzhkSm5fbG1vdHQwTFFla2doY3dBREE4WkExajQweFpHLUdkTWZodmVlWXR2bXlHNURxNnZzWHdxZmVFVXRaQkNkR1g1Rjd4TTFadTc1bkhvS25CTkpLdGdOTjZmQXlyWDM4MWlROFRrbUM4ZUZiMnhTbnYybm1xM2pOZUdWSHI1OEtZYVpQTDJfbjNNWGlIb1N3Y2RxbVN2WnFVd1NkQ1haeUlDZmw0Zw?oc=5
+- US revokes, denies visas of Indian business executives over fentanyl precursor trafficking | Latest News India - Hindustan Times
+  US revokes, denies visas of Indian business executives over fentanyl precursor trafficking.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUGlwYU9Ma25LT2FuWmUySjNXYmU5dkl4SndJWnptZGNOcjRFX0FXczM3OWJaQy03VnRwSlhDUkdlNFlsSk0yeFZEUzlFcDc5VThUTkE4c211UVRJbnRFWlVoNFBtYzQ3Z0drRkpYRWttV2t6TWROaVJWSTlmdERsWU5MUnVtNldkNktETnc2SXFNSFhncGRSZHR5Y3hsNkNZYWVDaGlmc001M3l0OEZ3WWxQckJNX1MyMWVaSlVQVmJJM3ZGczliRVdncTVrZEhEZUpvRE5xTmFVRU9saktZ0gHkAUFVX3lxTFBVNlg1cDVBUjh4LXVWYXI3MU93NWNZRUpBNjFrbC1STHlseVFST2tydGxPaFhSSTJ2ZW5KYlE5ZHlUa2lnVVpWUXl6MndYQlJRWGc0c1RCLWhXRlVCNDR5cG5FdjN3ekY2S2ZkVTZtYnpMcDdkcWhtSFFDTUNRWjA2c0tOUno3WjF4d3F6dENkQzAzNm5adjN0a2taOVd4c0RtaGlpZ2RWWklNdXBWX0pZTXlFaDZDZ3owMFA1QnR4RXpsM0VpNVJyUFV0c3Q3ZVNMajRpam1lRlNyanUtQjBtdGpYeg?oc=5
 
-- U.S. may ease India tariffs, India's chief economic adviser says - Reuters
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTV4QXBYSFJ6NUJMMGhaZUxWZmU3SUFIZTRmenN2VGxfX0JtSkMyYTZ1TG5rTDNBUHI2Ykcwdk5PZlpoVnp4UFNoTklNYUpNUUkzSWs2MWFUdjJlQmhkX0tTZUs2MTVIc1BGU0JpSlh0enZpSkk3b1dqUDFVSFlhcEFESzVqS05OUFpjQnlwRlpNc1pUa1o3Z1ViSG40aUw5UGRCZFBaaGVtMXpO?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Ponguleti wonders whether KTR will be in India at all by next elections - The Hindu
-  Ponguleti wonders whether KTR will be in India
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOTZubWFWc0g3VnY5Zm1HTHc2N1Y3d0Q2MjdVbXgxM2thR0xGMjdFNmNuWmphUzliS3pZYTRTaFV1eGNPbXp2WHFKdDVORXdrZ1JnX0VoWGU0dzBHLW9hLWJHaElscnkyUi10YzY3TXIyeVF0U1I1YktMQzRwMDFWZV9Dc3B6NnE4b1ZyOUg3NXNnbEk0bUtWQzBtWl94MlVROWhaWkVOdXBCNTAzc1ZjVlh0WTRMM1owOGowZm0yaHlZQmQyb1NNX25IeUI1OGgtSzdCUHZjZ9IB3gFBVV95cUxNdHlIbUFickN2OFcwWGk3ZWJQbTJNT0pHZ1dDLXBoSUVDSkVic3VMWkYzaDdEbnhXQTcxUEZkaUJLYTlfNmdST28zNHhlQjFRdDM0T0V2aWswSG16ZFh1bVRnX1M0aTVLenlSSUx4d1Y0dTRtbWVGME41SXV3R0xYalVNR3VPa2pFT0duR1dFQW93VUJLMFRIdnhyaHBuU0RHSHdPQkRYRWlOUUF4bG1DU01faEtZazZWandISU9QbUFtNkxBaWl1Z19MczhoR291ZHJQRDVKeDVoM3lLdVE?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Adani Group Conclusively Vindicated: Mahesh Jethmalani On SEBI Clean Chit - NDTV
-  Adani Group Conclusively Vindicated
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXltUDJ6bkJvUl85ODQ5VW5kdkpobm1iSHAyYk4wTmVyYWRXTHZPRUUzcGhCdy01N1kxWU80UmhldFNZSnpyaVloVXprT0pscEtWdWdNbTl0cFRxSU5hQW1XV1dYWjFnRF92NlRVenZsM1dyS29qZ2hfcTk4by1hUEtGMmZGM013WlRlbTJCb2g0eHFDNmZ2bGdkbGkzM2ZHVHBRWXVrc2w0bnJISjBDSnln0gG6AUFVX3lxTFAxYUJ1RmFyal8yZHBqUXBobmxzQWplTXNhSHVfNjdUTDVBRTdzZElBUEhiS2g4cGxJTjNhWnNWWFpWMm1WMzNHa2ljd1U1Z1hSdk5PY0xVX2hjSnpIa2thVlVzOUJJd1lVc1JjaVo2YUNWaWxwNFF4ZVAtY2tkNklmWHFBZC1TbzYyc2FQdUJqYWludnB3R3p1YzhFWXJLYVNrSFNQUDAyNnViMWRfbWN3SmZ5a0E5YmI2UQ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- US revokes visas for Indian executives over fentanyl allegations - Al Jazeera
-  Al Jazeera reports that Indian officials have been
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGRLdDNVU2V4ano2QlViWkJHQWpwRVNVRUtYOUJtTTc5d0JTZFFSTkkxU0hiM3dMSk1mS2dwS3B5N2lieFpUbnpOY3lTVDBMaXc1Z050aXJON2xfUE4tc0FXUEp0QVlxMTBEZVZpSU1aTnRRSzZvZDg3NmRmRG0xMVRsLThoNkVnU1JySkpxT2pXNGdVMGxVWlplTkUzVlJJbFZvR1NPeFnSAa4BQVVfeXFMT01IZFdKc2tTd19DcU5RV05ld0tKRlJPRGlTclpDdl9lblp5b0lhQmdNRzNiS2xueE1pZkNQZFBQTGducHFjZmhObVUzdnNBT0J3dEFoRVRYcENpal96eXIxREM0MHMtLVU1MlpXYkppaERNR3BFY1hPbjdQUU51Mk9qbmpYOGFYN3VkRXlFWHNVWVR2YUowTnBpYmtOQVJXZzhRXzNwU2xsSDJyc3Nn?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- No Visas For Indian Businesspersons, Family With Drug Trafficking Links: US - NDTV
-  No Visas For Indian Businesspersons,
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3I5ek5zS0dlX3lSclRab1lEQlFzSEYzRGp2Ulp5eFB2Z3A3eGZFMS1QYmJWOW9yWHo2VmdteFlRVUZsX3MzRjYyai1YdFI1R1JHS2FneUJvTDU3UlhTdmdqNUdMZWtGQlZQVHlPa29IcnliZWFuaGllVm1oRUZmR2JuMzJ1ZE5ubzh4MWR2OHFoUndTUXFQM1FrcEFCUFhuTFpNUFhnVGtjLVNyMW1QOWpB0gG6AUFVX3lxTE1tUEZvNG1uZGdjNzhkSm5fbG1vdHQwTFFla2doY3dBREE4WkExajQweFpHLUdkTWZodmVlWXR2bXlHNURxNnZzWHdxZmVFVXRaQkNkR1g1Rjd4TTFadTc1bkhvS25CTkpLdGdOTjZmQXlyWDM4MWlROFRrbUM4ZUZiMnhTbnYybm1xM2pOZUdWSHI1OEtZYVpQTDJfbjNNWGlIb1N3Y2RxbVN2WnFVd1NkQ1haeUlDZmw0Zw?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- What is new in UK-US tech deal and what will it mean for the British economy? - The Guardian
-  The Guardian reports on the UK-U.S. tech deal
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQSzk4V1RnRS1pbGQwbHp5T3ltX0pNYlo5dDdYdVRYcXdmektYdWNrRzh1VlpwWVFOWVMtTkRPU2JkQkRWOEtGUFJlRzFjX3hwMl95TjlxdHRzenFaMnRNSkkyUlpjMk9EcGE4LTlmblRJVHgtbXBLMDJmME0tamVxS1QwWXB5ZGdacEg3NldtbjJQc2xQeGFvcDhkOWNUVnpjbkNfbnItR2pKdm5fdS1peGg0SFhNZw?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Nokia announces changes to its leadership team and the creation of Technology and AI and Corporate Development Organizations - Nokia
-  Nokia announces changes to its leadership team and the creation of Technology and AI and
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxObks0dktNaE54d01sUkw3QkJNbkd1dzZIc3h0RXJLb2ZVS3plTVkzQlhsUkdXUG5qa3lpTHNLZnNFeXZqSk0zRUZRRFlrRDN6TEVHYnB6X3ZUenN1RnM0c0k4bElTYmJpSUpKbG9GUnRwY2pST0YzSURaWkxYRmQtaVF4QjF4eWdqUVk1ZXo1NDNjQVFsUVpaeHREZDlZYkk4QWN0dHB5UkR0RnBtelY0NF9NczF4NU1Hb0hiOUJnZkJOM1JIM29KaURWNndMakIydFJCcWs3Q2FJOEVhd012eVk4N19QUlp4NkNISA?oc=5
-
-- A future-ready disaster management in the Himalaya requires a massive technology scale-up - The Indian Express
-  A future-ready disaster management in the Himalaya requires a
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxONXdEMGxLS2hiN0RSM2pIc1lvcGxrZC1WMUVWMDlzMTlTQzVlcmd1NXBWVnRuZ09oUUhxVHJyZTFDVkdXa3Fub2RCemFJNGtLdndiTEsxNXR2cUtzOVJ3SmtvN01RS2N0aC01WXE1US1qWUxpOHFSSy1IaWh5RzlDUzhUUTFiZzZnS3J6VXkybW80ZUJfOHNMV2ZpeWxqajgtOEJGdkQ3eHhxc0RNQmd6akx6dGtfMFl1Tl9ycTZB0gHEAUFVX3lxTE9qeWgyWFI1dW9aU21FLXBjbHNYZFdZcFF5aFlQTUpxSkcxS0dBWTJ2bm52UFR4MTY2X2R3SUdYMkhkM1Q2QW5WZ0U2RG1UVkQ2YW1oMjdTUThUSkV3LWdFYTBxdlc5MS1LSzZFNUZGMXh6cDdxWEpmSTRCWHg0YkRJUmNreFdKN1phbzVCMHh3OXdrVl90RVJtS1ZoWWJIZUNTWVRHWkNXeHh1MDRFelpQZFRTbENpRDY4VURNUi02amhxOG8?oc=5
-
-- China's DeepSeek that 'shocked' America and US technology companies reveals actual cost of training AI mo - The Times of India
-  China's DeepSeek that 'shocked' America and US technology companies reveals actual
-  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxPRERsczF1OVVBNDZ5dnR3REVTTjA3UERpV1J2TDFEZkc1cUs1bXFjcWVIS0k4RjkweFo2YWhMNlNfekV3TndMbWtuRzdYVjcxd3VlYjFHSTE2eWxDRTg1Q3BLX205cEhtSjVsNnBEX2YxOFVZb3ltOHNxVEpoRWdrcUhoNGhNR01DdWRHU2ZWeXN5MUFCcFFKYnhIdXhlUGNKUk5EMmNBUW5yWDlyTVlqUXFvaGJNWVdkX0E5NklzRmZLc2NqLXIxek16TXZaVnptRS05U2laSkduODFxbWgtSjlWR0hMcUxhOGlKRUpRN1pFdFNpSWVVb2R6UnVUaUxBV0NsRGcxOVJ6cHFGejNZOTFnVUMwdWvSAZwCQVVfeXFMT0Q5U0FlN3lXZ01IMWlVV2c5T29jdThRR1NQUU51MHIxV3hTcDhWd0NGZXVyLUJWRFlEbWRtcjFoNUhCNWRHMWVkU0ZGZWx6ajZPb0NBZTB5aDg0TXk2aWZ2T1lDUUJFTG9WREEyVTNESUUya1ZJWDRITE1RVFc3N18yeFJIR3Q1SnNGQVZ4LXRzWTRCb2dHalRDSmozTkV3VXZQaFZDd1dmd3NuYVBXd0EwWnVsSmRVTUdWeWdoeUFFTVF0M3ZpYlR6R1BWMy1qb3dxSlROWXBIYmpucWhfeWxQR1I0cFduVm05MTBNU1JwSkp4ZVRXZnpJd1dYLTdZUGRQWi1iaWxuZ19jeC1hdjE4dXpKVllmWWVFb2I?oc=5
-
-- India looks at technology collaborations with US, Norway others in geothermal space: MNRE Secy - Mint
-  India looks at technology collaborations with US, Norway others in ge
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaDA5WmdIc216ZjVwQVM5UVl6OFhDOE9fN0NrMUlubTlKNG9ac094VF85VXB0XzA2MzBlc2NlbnMzN0VRMHc1SDREVTNfS1JEdFhYbU42RmM1cFpYY0h0Ukx2M1N2aHFJX29JSDIxUUlST0pEWGVhR3VwQUdZSV9rNE5ZaUZ6cGRlbVduLVJRVmN2eHkwRWJFdzU0NXowdmNhRU1WcDhVSWYxbTUwRk5jUDF2akhzb3lxQjRtOWhtSHJ5Qk94dTRmQXc2QTZfMkhJZ244QlBXdHBCZy1RaWFmUC1tTkliZzdrREVGZkJ6TdIB9AFBVV95cUxNWHU4UC1ScURMQUtoYkc2M0draU9heDk5cHZ6MzNQMk9XMGFHTFJjYjZkbXN1YzRzVnJRWENxU1hHb3FIdkxkcnVQMFpkSVRvcTN5N3RmMV82bkpibnJmSmczT280VDVQSGMxZXRwVFVrS0RIMjY2SVlWNUhCbGx3bFE1NHlHSDZ2VERzRk5rT0d2aUZXZGoxSXk0eTVENGY1NVpGZGZra3ZfM0ZkeFE3ZTBqVlk3aFFRSHNXbjdhZHNrNU55aDhoZUI4XzhVUU9JYXhaNFFwc0ZCSTM1a3ZPOVhMN2ZQT3VXNF82NTk3NFdfN2ZL?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-18 18:26:25 UTC_
+_Last updated: 2025-09-19 01:11:17 UTC_
