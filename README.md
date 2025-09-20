@@ -1,224 +1,164 @@
 # 📰 Daily News Summaries
 
-- Global Ayyappa Sangamam at Pamba: why this river basin’s religious and cultural significance extends beyond Sabarimala
+- Rail Neer gets cheaper: Railways cuts MRP after GST reduction – check revised rates
   
-  🔗 https://indianexpress.com/article/india/global-ayyappa-sangamam-at-pamba-river-basins-religious-cultural-significance-sabarimala-10260821/
+  🔗 https://indianexpress.com/article/india/rail-neer-gets-cheaper-railways-cuts-mrp-after-gst-reduction-check-revised-rates-10261412/
 
-- Ex-Odisha MLA George Tirkey dies at 67
+- Partial solar eclipse 2025 on September 21: Surya grahan date, time, and will it be visible in India?
   
-  🔗 https://indianexpress.com/article/india/ex-odisha-mla-george-tirkey-dies-67-10260705/
+  🔗 https://indianexpress.com/article/india/partial-solar-eclipse-2025-september-21-surya-grahan-date-time-visible-in-india-10261482/
 
-- Trump hikes H-1B visa fees to $100,000 a year in massive immigration overhaul
+- Exclusive | Amit Shah pushes for speedy extradition of Indian fugitives, CBI told to frame SOP, coordinate with IB, NIA
   
-  🔗 https://indianexpress.com/article/india/donald-trump-h-1b-visa-fees-massive-immigration-overhaul-10260612/
+  🔗 https://indianexpress.com/article/india/exclusive-amit-shah-pushes-for-speedy-extradition-of-indian-fugitives-cbi-told-to-frame-sop-coordinate-with-ib-nia-10261477/
 
-- Tripura Assembly session: Govt, Opposition exchange barbs over faculty strength in colleges
+- EC not providing information to Karnataka CID about ”vote chori”: Rahul Gandhi
   
-  🔗 https://indianexpress.com/article/india/tripura-assembly-session-govt-opposition-faculty-colleges-10260611/
+  🔗 https://indianexpress.com/article/india/ec-not-providing-information-to-karnataka-cid-about-vote-chori-rahul-gandhi-10261390/
 
-- Assault on Goa activist triggers protests across Panaji, Chief Minister assures police protection
+- UP police crackdown on cattle smuggling ops: 30 arrested, 33 cops transferred
   
-  🔗 https://indianexpress.com/article/india/assault-on-goa-activist-triggers-protests-across-panaji-chief-minister-assures-police-protection-10260288/
+  🔗 https://indianexpress.com/article/india/up-police-gorakhpur-cattle-smuggling-30-arrested-33-cops-transferred-10261369/
 
-- Comcast plans to cut jobs at its biggest unit, housing broadband and pay TV, to centralize operations, source says
+- OpenAI’s hardware push may include a Humane-like pin and smart wearables
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/comcast-plans-to-cut-jobs-at-its-biggest-unit-housing-broadband-and-pay-tv-to-centralize-operations-source-says-10260686/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-hardware-products-pin-smart-wearables-eyewear-10261033/
 
-- Oracle eyes $20 billion AI cloud computing deal with Meta, source says
+- OpenAI targets Apple talent, suppliers as it gears up for hardware launch
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/oracle-eyes-20-billion-ai-cloud-computing-deal-with-meta-source-says-10260643/
+  🔗 https://indianexpress.com/article/technology/openai-targets-apple-talent-suppliers-as-it-gears-up-for-hardware-launch-10261272/
 
-- Tech is important, but trust is key when working with rural communities: Veena Srinivasan, Founder, WELL Labs
+- Xiaomi 17 Pro tipped for late September launch; to feature second screen, triple 50MP cameras
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-is-important-but-trust-is-key-when-working-with-rural-communities-veena-srinivasan-founder-well-labs-10259768/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/xiaomi-17-pro-tipped-for-late-september-launch-to-feature-second-screen-triple-50mp-cameras-10261212/
 
-- Echelon rechargeable keyboard and mouse review: Value for money access to your Mac
+- Elon Musk’s Neuralink plans brain implant trial for speech impairments
   
-  🔗 https://indianexpress.com/article/technology/tech-reviews/echelon-keyboard-mouse-review-10260564/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/elon-musks-neuralink-plans-brain-implant-trial-for-speech-impairments-10261205/
 
-- 87% find AI-aided shopping faster, yet 88% continue to choose cash on delivery: Report
+- Under Rs 10,000: Top 5 smartphones from Motorola, iQoo, Redmi, Poco and Lava
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/87-find-ai-shopping-faster-yet-88-continue-to-choose-cash-on-delivery-report-10260004/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/under-rs-10000-top-5-smartphones-from-motorola-iqoo-redmi-poco-and-lava-10261042/
+
+- H-1B visa fee hike: Nasscom issues first statement, says Sept 21 timeline for implementation a concern
+  Industry body NASSCOM said that Trump's one-day deadline for the visa fee hikes is set to create uncertainty amongst the businesses, professionals, and students.
+  🔗 https://www.livemint.com/companies/news/h1b-visa-fee-hike-nasscom-issues-first-statement-sept-21-timeline-for-implementation-a-concern-indian-tech-companies-11758362879231.html
+
+- Novartis has stockpiles to withstand potential Trump tariffs, CEO says
+  Novartis has stockp
+  🔗 https://www.livemint.com/companies/news/novartis-has-stockpiles-to-withstand-potential-trump-tariffs-ceo-says-11758362345962.html
+
+- Edelweiss’ Radhika Gupta reacts to Donald Trump's H-1B visa fee hike: ‘I wouldn’t want to go back…’
+  Radhika Gupta reacted to Donald Trump's H-1B visa fee hike to $100,000 per year. She shared her experience working in the United States.
+  🔗 https://www.livemint.com/companies/news/edelweiss-radhika-gupta-reacts-to-donald-trumps-h-1b-visa-fee-hike-i-wouldn-t-want-to-go-back-11758357366140.html
+
+- Tech Pledges From Trump’s UK Visit Will Test Strained Power Grid
+  Microsoft Corp. and OpenAI are among the US firms that have in recent days pledged to invest £31 billion ($41.8 billion) into artificial intelligence projects in Britain. Industry experts say the commitment could be undermined by the
+  🔗 https://www.livemint.com/companies/company-results/tech-pledges-from-trump-s-uk-visit-will-test-strained-power-grid-11758353090730.html
 
 - Three Die in Australia After Optus Emergency Calls Fail
   Optus, the Australian unit of Singapore Telecommunications Ltd., is facing multiple investigations and potential penalties. A technical failure disrupted
   🔗 https://www.livemint.com/companies/news/three-die-in-australia-after-optus-emergency-calls-fail-11758346935780.html
 
-- This Indian IT giant beats Microsoft, Meta and Google in 2025 H-1B visa race
-  CS is the 2nd-largest H-1B visa beneficiary in 2025 after Amazon. Trump’s $100
-  🔗 https://www.livemint.com/companies/this-indian-it-giant-beats-microsoft-meta-and-google-in-2025-h-1b-visa-race-11758344422268.html
+- Gautam Adani's net worth jumps  ₹299 crore in a day after SEBI's clearance from Hindenburg Research allegations
+  Adani Group market cap surged  ₹699 crore
+  🔗 https://www.livemint.com/market/stock-market-news/gautam-adanis-net-worth-jumps-rs-299-crore-in-a-day-after-sebis-clearance-from-hindenburg-research-allegations-11758363251258.html
 
-- Troubled Auto-Parts Firm First Brands Goes Quiet as Loans Plunge
-  Creditors to First Brands Group are tallying paper losses in the billions of dollars. They are trying to assess the widening
-  🔗 https://www.livemint.com/companies/company-results/troubled-auto-parts-firm-first-brands-goes-quiet-as-loans-plunge-11758341556031.html
+- Stocks to buy under  ₹200: Mehul Kothari recommends three shares to buy or sell despite Trump's H-1B Visa fee increase
+   Mehul Kothari recommends three shares to buy or sell despite Trump's H-1B Visa fee increase
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-recommends-three-shares-to-buy-or-sell-despite-trumps-h-1b-visa-fee-increase-11758357426939.html
 
-- Microsoft asks H1-B, H4 visa holders to return to US by tomorrow after Trump H-1B visa order
-  JP Morgan has also asked its H-1B visa holders to avoid international travel and remain in the US until further guidance. The announcements come hours after US President Donald Trump issued a
-  🔗 https://www.livemint.com/companies/news/microsoft-asks-h1-b-h4-visa-holders-to-return-to-us-by-tomorrow-20-september-after-trump-h-1b-visa-100000-fees-order-11758339898997.html
+- Trump H-1B visa fee increase: TCS, Wipro, Cognizant, NVIDIA to Tesla — how India-US tech stocks may react on Monday?
+  President Trump has signed a proclamation to raise H-1B visa fees to $100,000 annually.
+  🔗 https://www.livemint.com/market/stock-market-news/trump-h-1-b-visa-fee-increase-tcs-wipro-cognizant-nvidia-to-tesla-how-india-us-tech-stocks-may-react-on-monday-11758353907004.html
 
-- AI chipmaker SandLogic eyes $30-40 million fundraise at $200 million valuation
-  Bengaluru-based start-
-  🔗 https://www.livemint.com/companies/start-ups/sandlogic-funding-indian-semiconductor-start-ups-artificial-intelligence-applications-11758283515241.html
+- Indian Pharmaceutical Market clocks 8% growth in August: Report
+  The Indian Pharmaceutical Market (IPM) registered an 8.1 per cent year-on-year growth in August 2025. This comes after a 7.1% growth in July and aligns closely with the overall 8 per cent growth
+  🔗 https://www.livemint.com/market/stock-market-news/indian-pharmaceutical-market-clocks-8-growth-in-august-report-11758353939525.html
 
 - Why are FPIs selling shares and buying IPOs in the Indian stock market? EXPLAINED
   FPIs sold  ₹2,27,500 crore in Indian stocks in
   🔗 https://www.livemint.com/market/stock-market-news/why-are-fpis-selling-shares-and-buying-ipos-in-the-indian-stock-market-explained-11758346171665.html
 
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 22 September 2025
-  Sumeet Bagadia recommends three stocks to buy on Monday.
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-22-september-2025-11758340848200.html
+- Chinese authorities increase scrutiny on social media platforms Kuaishou and Weibo: Here's what happened
+  China’s internet regulator has ordered Kuaishou and Weibo to take corrective action, citing repeated content oversight failures.
+  🔗 https://www.livemint.com/technology/tech-news/chinese-authorities-increase-scrutiny-on-social-media-platforms-kuaishou-and-weibo-heres-what-happened-11758360246990.html
 
-- Infosys share buyback: Reward or a trap for fresh buyers? EXPLAINED with stock outlook, income tax compliance
-  Retail investors may face low acceptance ratios for tendered shares. Infosys announced a share buyback worth  ₹18,000 crore, which led
-  🔗 https://www.livemint.com/market/stock-market-news/infosys-share-buyback-reward-or-a-trap-for-fresh-buyers-explained-with-stock-outlook-income-tax-compliance-11758335715504.html
+- Elon Musk confirms X’s feed to go fully AI: Users can customise via Grok by year-end
+  Elon Musk announced that X's algorithm will be fully AI-powered by November. The platform will allow users to adjust their feeds dynamically and move away from mainstream content.
+  🔗 https://www.livemint.com/technology/tech-news/elon-musk-confirms-x-s-feed-to-go-fully-ai-users-can-customise-via-grok-by-yearend-11758358381621.html
 
-- Gold rates today under pressure after US Fed rate cut. Will it fall further?
-  Gold prices faced profit-booking following the US Fed's rate cut and a stronger US dollar. After pe
-  🔗 https://www.livemint.com/market/commodities/gold-rates-today-under-pressure-after-us-fed-rate-cut-is-it-the-right-time-to-buy-gold-or-prices-will-fall-further-11758331906975.html
+- From Flipkart Minutes to BigBasket: Top quick delivery platforms offering iPhone 17 series at your doorstep
+  Apple's iPhone 17 series launched in India on 19 September. Quick commerce services like Blinkit, Flipkart Minutes, BigBasket and others offer instant home delivery of the devices within minutes
+  🔗 https://www.livemint.com/technology/gadgets/from-flipkart-minutes-to-bigbasket-top-quick-delivery-platforms-offering-iphone-17-series-at-your-doorstep-11758351650387.html
 
-- VMS TMT IPO allotment date in focus. GMP, steps to check share allotment status online
-  Investors can check VMS TMT IPO allotment status online through the websites of BSE, NSE, and the IPO regist
-  🔗 https://www.livemint.com/market/ipo/vms-tmt-ipo-allotment-date-in-focus-gmp-steps-to-check-share-allotment-status-online-11758273639270.html
+- Lagging on Apple iOS 26? How to restore your iPhone to iOS 18.6.2 interface
+  Apple's iOS 26 introduces a new Liquid Glass interface but users report lags and glitches. Those dissatisfied can downgrade to iOS 18.6.2
+  🔗 https://www.livemint.com/technology/tech-news/lagging-on-apple-ios-26-how-to-restore-your-iphone-to-ios-18-6-2-interface-11758349378237.html
 
 - Amazon India Festival Sale 2025 starts September 23: Top deals on smartphones, banks offers and more
   Amazon India’s Great Indian Festival 2025 starts on 23 Sept. Prices are mostly inclusive of offers, with options like no-cost EMI, instant bank discounts, coupons, and exchange
   🔗 https://www.livemint.com/technology/gadgets/amazon-india-festival-sale-2025-starts-september-23-top-deals-on-smartphones-banks-offers-and-more-11758340522346.html
 
-- Anthropic CEO Dario Amodei: 25% Chance AI could be catastrophic, 75% chance it could thrive
-  Anthropic CEO Dario Amodei warned that AI carries a 25% risk of catastrophic outcomes. He highlighted threats to societal systems, job displacement, and geopolitical risks.
-  🔗 https://www.livemint.com/technology/tech-news/anthropic-ceo-dario-amodei-25-chance-ai-could-be-catastrophic-75-chance-it-could-thrive-11758336199739.html
+- F&amp;O Talk | Nifty heading towards 26k? Crucial breakout may boost sentiment: Sudeep Shah
+  Indian equities marked a third consecutive week of gains, fueled by optimism surrounding India-US trade talks. Analyst Sudeep Shah anticipates a brief market pause before a potential rally towards 25,750-26,000 for the N
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-heading-towards-26k-crucial-breakout-may-boost-sentiment-sudeep-shah/articleshow/124014163.cms
 
-- Apple iPhone 17 backlash: China fans reportedly spot scratches despite high demand in Asia
-  Social media posts on Weibo went viral, highlighting durability concerns and potential shipping delays. Apple’s iPhone 17 launch faces early backlash in China.
-  🔗 https://www.livemint.com/technology/tech-news/apple-iphone-17-backlash-china-fans-reportedly-spot-scratches-despite-high-demand-in-asia-11758333676428.html
+- Too much weight on too few stocks? Gurmeet Chadha suggests broader metrics for index composition
+  Gurmeet Chadha proposes incorporating GDP representation alongside free-float market cap. He highlighted that HDFC and ICICI constitute a significant portion of Bank Nifty.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/too-much-weight-on-too-few-stocks-gurmeet-chadha-suggests-broader-metrics-for-index-composition/articleshow/124013580.cms
 
-- Apple iPhone 18 Pro series may retain display sizes as iPhone 17 Pro, add transparent panel: Report
-  Apple’s iPhone 18 Pro and Pro Max are expected in 2026. They may retain the iPhone 17 Pro design with 6.3-inch and 6.9-inch displays. A new
-  🔗 https://www.livemint.com/technology/tech-news/apple-iphone-18-pro-series-may-retain-display-sizes-as-iphone-17-pro-add-transparent-panel-report-11758330185791.html
+- What’s behind Warren Buffett’s car philosophy? Here’s why the billionaire refuses to buy a new one
+  Warren Buffett still drives his 2014 Cadillac XTS at 94. Buffett prioritizes utility over luxury, valuing his time more than a new car.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/whats-behind-warren-buffetts-car-philosophy-heres-why-the-billionaire-refuses-to-buy-a-new-one/articleshow/124013527.cms
 
-- Only 3 days to go for Amazon Great Indian Festival Sale 2025: Grab early laptop deals now
-  Early laptop deals are already live on Apple, HP, Dell, Lenovo, Asus, and Acer. Perfect time
-  🔗 https://www.livemint.com/technology/gadgets/only-3-days-to-go-for-amazon-great-indian-festival-sale-2025-grab-early-laptop-deals-now-11758189994360.html
+- A lost year for Indian equities: Sensex delivers 0% returns in 12 months, leaves investors empty-handed
+  Indian equities have underperformed in the last year, with the Sensex posting a -0.7% return. Weak corporate earnings, persistent foreign investor selling, and high
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/a-lost-year-for-indian-equities-sensex-delivers-0-returns-in-12-months-leaves-investors-empty-handed/articleshow/124012743.cms
 
-- Dow, S&P 500 close at fresh records, log big gains for the week after Fed rate cut: Live updates - CNBC
-  Dow, S&amp;P 500 close at fresh records, log big gains
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1LSzNPSTB1RzZJbGNta3YxOUZFNElQWmJrUHdPTk5RZFJSMHlvMlZDVHdhNXB6ZWdIejVzVmUyTmZqNE5LZGE4RVpPbnVXLW9FOEdqaVVmc3JXeHVwY3BkNFF5RE5MaF96aElmbVBmMS1QMHNuMTVv0gF8QVVfeXFMUEdWYjRkQmc5OERMLWRoMnRjQ2VqUkdhOG5odnRBRDdXRG9TMHFVTnlEX1pZUHNBV2M0RDh5b25PUlBHNFctdGkyaF9XaDNwa1hBeXp3UFFvSlY5NTZvRnFVYm1hamtta3J0QmtHLTNjR2tjNXFrcmdUVUN6TQ?oc=5
+- Building a robust corporate bond market key to India’s growth: SEBI, PFRDA, IFSCA, and ASSOCHAM officials
+  India's corporate bond market is gaining prominence as a vital source for funding national growth. SEBI emphasizes the need for efficiency and transparency. Pension funds are crucial for infrastructure projects.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/building-a-robust-corporate-bond-market-key-to-indias-growth-sebi-pfrda-ifsca-and-assocham-officials/articleshow/124012685.cms
 
-- Markets hit record highs as ‘Fomo’ infects investors - Financial Times
-  Markets hit record highs as �
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE53T291dm10TzZaN3JrLURUcDY4NTUtb1ZYNklwQXdHeF9rSUZOazFaY3NvaFNTWUhoY2lDeWpENE1ZX2tCTWZWT2UzMzdtY0JqMndOblpxQkFYQUxMRjY3bGVnZ2lnZ0drbGcwZ0pRWmw?oc=5
-
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 22 September 2025 - Mint
-  Sumeet Bagadia recommends three stocks to buy on Monday — 22
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQThyaDdsMmZ5d083a3RvRlAzbnIzOVgxejNiWTloZnlHV2VqTUZfMVIyc3E3MEtob2F4OTBObGhxOVEta1hmWU9NQmpaaVhTUG04b0txU0toNUJkZktENlVrMnJNQkx2dEhMWmZwcUc4c0xLWGJfRUFMbmtIRmdCakpiU3BSS2prcUtqT1dXOEtjbTFqUmZiTHdRZWNEUnZQYk9CMzRaSXNkdjF5UTY2WHRYcG5GNVJHWDNZck8yVEE4QWFTdmlhZ1BfWEg5aHFseWFCRHhPYlY3Qk1YSTl1WWUzaTduLXVpanZF0gHwAUFVX3lxTE1idHYyU0p6WUZjbDZwYi1mRWlNVTdlUlJRNXlsdWRhd25WVXl1dGdpamVaLWtPdGNfNklSY3NaUC1aQ3RzZzB1MWk1aGh0aElKMXRWZjBsUE94bHpFbmJtcG5iZmZESE1TbkZ1Ukl5TUJjZlpzQ0tjZ095NDhGTnhWdlRIeWVjellaNVE1dFRzekZGaWdwR1NDdW5VRVpPSmx2c2xkbDFlbVdOaEFLTGJSdXJjMHFaemRCSFlzUnB5dGRqVjYwek5vc2Vxd2ZhMVpwSGFGVW9SSmw3LXlaZFppcm83QWVBR3dHRzhMYlB4RA?oc=5
-
-- Nifty 50, Sensex today: What to expect from Indian stock market in trade on September 19 after global markets rally - Mint
-  <ol><li><a href="https://news.google.com/rss/articles/CBMikAJBVV95cUxOblpRS1NXZEpmaGFNSm0tdGljZHNRdXBPVmRVdTBTZlpFc29qS091X1hxc0dLOVRhWXYtTWF6YURlM1F4YXZKWHBpRmxPLXo5Ul9aTTVMTHJwdGFHY3lGaDRteTQ4Y0VEbl
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxOblpRS1NXZEpmaGFNSm0tdGljZHNRdXBPVmRVdTBTZlpFc29qS091X1hxc0dLOVRhWXYtTWF6YURlM1F4YXZKWHBpRmxPLXo5Ul9aTTVMTHJwdGFHY3lGaDRteTQ4Y0VEbl8xdjVLcDBJMUxDN01kWkMtN3IzMjZSMjZzZkZtbEx4NURDcTEyWkJqSWI4dGI5bGg4XzZja3B4bFBNUUxueV95SjBqR0pVRE1xcjNPQzRnQTVleUVfY25zUHZVNGdQWnVGck9KejQ5ZXV0bkRJMEVUdHZKQUpHNThZaWYwTDBDOTJONkpaTU5BX3JFSUE3NXE0VnpTR2JjTDdpaUM4UXRCLVNfQlRFR9IBlgJBVV95cUxPUnRYb1RRNzlpYVM4T1pGZUlZZ3Z4TVo0c2RJNjFOb1Ruam53RngzVHI5a1FDcFZzaC1vb3oyb3pBa19NZ3ZVSHpqc0dYVUcxS0ZxeXhXZ3ppZkdQYk1wTENOWFVBVElMeHoxdmZuNTJpUzV2eXhYbW5HSVBVOEMzSUV0RmpCS3o1U1pXYVJsSkxlcHMyUzJGVVY0eXRid3pUakVqZU9lR0JWeThOQk1kTDJtZ1NoUjZWTUkwM1F0WmNNUUlINUlENWp0SGE2V1NvRmhWamNhZFo1b3hISGpTMTdRZGNGVFk4anQ5WF92NGZBMGVCZVplQThjZjdXTkNQRElKUmEwWjMxRENYRGFaa1FMalhFdw?oc=5
-
-- Markets ride on momentum, but GST effect already priced in: Sudip Bandyopadhyay - The Economic Times
-  The Economic Times: Markets ride on momentum, but GST
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOS00yX243UnFtdmFaUWptRmxPSnhGNC1RWllLQ0Nqc2t5b1ZQdE5UTmNmVDBFSGpha1A1VmVCTENjd3hwUzhVVUp2eHdKYk9TaVNXQmR2SWZpM2NCLXJZdmc5dWcxczd1aUJFcjdZYzg5MWtRckJacDZRMkVsNV8tLXFJNGZwc0ROYUxOZVQ2N2JKM05YeUF4cE5KSEtwbzNoTWMwMGdJMXZfaVhCMkM4dHhKajl0cFIydVhMWldwR2xZWEVaVmlXVDVaYUlhT2MxRnROZkhvM2E3X200N19jSThmcDRzZ9IB6wFBVV95cUxNUzNlZ3BzMzdETFdIVWZJcVcweTdCWFA5dUJ0VW5vTDdwWVM4bEpTVGs4OGRtNkpKcXQ5Qkhjb1o0Wkc0bmlQNE9fMUlsUFM5T2FhZnZ5U19BRWdQZ3h3bC1oWU5tYnByS2c4ZnlqeVE4UFd5clZkYVFJT21CZG5lel9TY3FGZmVPTHVXbDdSU3hZVmlhZy04emRFOHdoOXlTQVEwUGM0bUxsLUxBakVKaHY0M0VuS2R4eDZsVmE4UlliYU9lM0xNU0doUjBaMU52TzhjX3FyZ1dJMFpIM0R3VkkwSTV1UWRSTHVz?oc=5
-
-- Rs 6,300 crore on offer! Investors brace for IPO storm with 25 new issues opening next week
-  The Indian primary market is set for a busy week with around 25 mainboard and SME IPOs launching. Several companies like Epack Prefab, Jain Resource Recycling, and Anand Rathi Share are planning to raise
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/rs-6300-crore-on-offer-investors-brace-for-ipo-storm-with-25-new-issues-opening-next-week/articleshow/124011256.cms
-
-- After over 100 times subscription, VMS TMT IPO allotment expected soon: Here’s how to check status
-  VMS TMT is finalizing its share allotment today for its Rs 148.5 crore IPO. Retail investors bid nearly 48 times, while non-institutional investors bid 227 times. The IPO's grey market premium suggests a potential
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/after-over-100-times-subscription-vms-tmt-ipo-allotment-expected-soon-heres-how-to-check-status/articleshow/124011190.cms
-
-- Markets ride on momentum, but GST effect already priced in: Sudip Bandyopadhyay
-  Indian equities had a strong week, boosted by global and local factors. The Goods and Services Tax regime change is expected to further boost sales. Sudip Bandyopadhyay suggests caution regarding GST-specific gains.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/markets-ride-on-momentum-but-gst-effect-already-priced-in-sudip-bandyopadhyay/articleshow/124011109.cms
-
-- Trading in Piramal Enterprises shares suspends from September 23 following merger with Piramal Finance
-  The NSE will suspend trading of Piramal Enterprises Ltd (PEL) shares effective September 23, 2025. CFO Upma Goel will resign by September 30. This merger, driven by RBI regulations and strategic benefits, consolid
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/trading-in-piramal-enterprises-shares-suspends-from-september-23-following-merger-with-piramal-finance/articleshow/124010903.cms
-
-- From Crash to Comeback: 9 small-caps surge 40–80% in 3 months after H1CY25 slump
-  In less than three months, nine of those beaten-down counters staged a remarkable comeback.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/from-crash-to-comeback-9-small-caps-surge-4080-in-3-months-after-h1cy25-slump/slideshow/124010753.cms
-
-- "Huge Loss": US Threw Away India Ties For Tariff Policy, Says Ex US NSA Susan Rice - NDTV
-  "Huge Loss": US Threw Away India Ties For Tar
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGhjRFJ6YUJKZHpUX3JRbkRsY1NqTElaOThsNTIwQXpXTm14c3E1aEZmMFNUcVRoWXhETDhISmpRanRYb29kbjNzNHNpc1BLN0s3QXhCYWwwTGxsVmUzSXpUV0laQ1FKaFZVeUlBci0wWGtiU0c2bGF5X0hhdjN0VHN1Y293dU91T3lQeTFjUmtzNjM1aEhMazhUZ0YwcHFoS0xkN1o0NG02WHFGLXdDWWJnS1BvclVVb3fSAcIBQVVfeXFMTUw4SjdwcEcyZHFMMzZySnhGcUVPb0E0QXItQ3BwUW5pMUFQVzJULVNjRnpoSlFOM1lyZDk5UWlObERsWTNmYXBOdlBtUGdhSVdPcWZoVjBELUZGeFF4NEJhc2Flcm5SbzVSZERVQ3NnMzduV3R6Z3p1SGVsNk1GQ1JyUTcwR0VoUjkyXzBUb3JkUXZuSEN0dy1KM2JpNzVjdlpiQTdvMi1ndXFIT3c0RUNIQldzTUhiaWRob0lUaE5FZ0E?oc=5
+- Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is War With India - NDTV
+  Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFA3V0NDeDhaMlItR0ZrdEptOXJXTXRLRnc2SFRzQ2s5Z1BTRVczdmpxY2dsbHk1VzVlSXVySG82TzNQeS1zUXhQYXg0OWFndnFTQVptSVdtc0E4QmRpVWE0ZGNrTUJkbWNDVGoxNVJNakFHOHJtcmJuNTNkWFpjV0EwRm1VTlRrcUNxa00zWURaMDd3ZUxYbTU0dFNVLUx1R0N6WUhXbWNMSEYtSmhzLTFGcGl5UVhsbnRJTEdBTXB0VXB5aThZREw4ZDkwWGxYOTBTbUJGNFZIMGd6Tjc2ZjA4Q2lQcGR0WTBuekN1aTRPQ2k1MG9NblFNaWhpZGxDMUV2R9IBjAJBVV95cUxOWUlJcVNLTFh6b3VjMUtPVnYxdVFUSnIwazV5ZGRCb1E2dDdWYVAtS1dmUzZxLXgzVUc0aHZNOHhoOXo3cFZtTmxxTTJYS3lpQ3JrdnF4RGN4dkdWd0kxOF85YVV5aENmeXdOR3VESGlxZ3ViTnRlNEtXZFdGUmpGWGZJbURDV0VEMFBwWTRxSXdZck5qc1oxMXB1N3U0dmwyX0lSTENoTElDZkYyRTZIN2FES1NvRDdKbHd0alZFTWhCMlN6V0h1LXV1Tmx4Sllrc19FcG5VbGtXbmd6QnNlVHk5OVlhVGNJaU9EVXQzMWRBU0ZoVEl3ZEdDRVplekd0M1A3MmtiVnFlalBu?oc=5
 
 - India reacts to Pakistan, Saudi Arabia defence agreement: ‘We expect that…’ | Latest News India - Hindustan Times
   India reacts to Pakistan, Saudi Arabia defence agreement: ‘We expect
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXA2SWNCU1Jwd1lYRm1lZjI4UVlsNWRvMEZ4Z1NUeklVbkVSbm9ZcDFQX3FkTDU5WmtqOTg5Ymw0S1pRaGJsRkZMTlpxanlGa1U4WFFTWV9KZDQ2VlJ1N0phRWF0NERoY2RqM0s0SnVEMVBRdHh3QnFfeFZVWEk0MFhrQTQ5czRmWlJYUi1hbG5BeE1BbEtTTUc4eXhmdUlNdW5hbkRjYUtfSzJtRGtINmc5RURJWDhuMnNuU2pTd2VOdXU3WUNpTUlEU3V5QdIB0wFBVV95cUxNd09RSjNOUml0bXhyOGlFOUl3RU16YXZNcDJFLUZvZ0Qyb05Ic1ROOE9HWmVMRktUcUJtbjc3YjQ1SWlPT2ZBYnl5RVZOb1gyZkR1RnlkZmJhLXF3OUVRNElUMEd6N1R4aVNGNkU5OENRWmJqQjdwWXViOEpraFRrV29Xak0wWmU1cjl3dG9MTXlQaDVvWjRqWTROUFpmVUtkUk54RlZzVHVQOXFEWERRMllSU20xQ1dLMVRFNjBaaGZ1ODhYUkV3NC1BWWZ1WUVXMGhv?oc=5
 
-- Central Indian state secures record-low price for solar-plus-storage power project - Mint
-  Central Indian state secures record-low
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTnRXLTlEMkZ1Nk11YkhNTjRFTWo4LTdiSENYaTFrXzVDbndtRmhvSUNxd2dMTVlZLWhCTk1sWXdkYVkyUFV2QXdNNmtxR2xSSkVDU0VoQ1RXeTVBLVplUEZsQUFXOXFXdW5jU29PY1luUVU5N1J3ZDZSbktQUEtxd3plWmNkQ1NGeU05QjdJZDU2U01Felk0dEVZcmRGbEx6R1dBWUZfZGdnTDh6OGZJQTFoSlB1OWNIbHRGQ2RIdmVlaG1udUgydUpCMjNlbXRsSjd4VdIB2gFBVV95cUxON2VoV1c4TlhZLWZCUE16Sk9zbzh0dVg4Sks3c2NUc3pveVo0dHJlbzdwN0Ywb1FReHR1SzhVaXl5bW9fYjJHSm1iU3p4V0ZmOVZFSEVqYTB6WFpydXhTR1NCSHN4SkNwRjRhVm9Va29aNzFwTkpsWmJWaEFoSS1PTkd5TW1wOUZjdXdsMlpFUGxuZzNGN3RhWVk5TUUtbTNFWEFBeDlWTHpSbEpCZVA2OHpDdFZzek5MN3dsallqazlFSDJNMTVOVUYyeXJNZER6Ulg5cjlOZ3lPQQ?oc=5
+- H-1B fee hike: Indians stand to lose the most, says visa consultant as Trump slaps $100,000 fee - Mint
+  H-1B fee hike: Indians stand to lose the most, says
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTFFfc2M4RFRSM1VNcmhYQV9JLURtdEUzcjZNQ2NsYmlnamgzRVplaXRpU2Jjd0NtRFRjMnVPZURKUWFYYnI5eE9vUG1TZk14MFJKWlp1b1l5WU9DMWkya2I4QkdWejNJRkpxbTdzQ2F2N2Q4ZFV4Y2tFN0lQNHExelRiNC1BQ2hWZGFrNHlrX3ozcUJOTV93bS1PSlFDOF9yTHl2Vkc2a3o3azN4UjhtU1JJck5FWUxxdGc3NVBUN3kteHRaanZiWUNiWk1VVnY2ZUMwWmhCb0plMEpLdUQ5Rnh6SUpEZzjSAewBQVVfeXFMTmdFc3ZkZ3dzSHNhZXh0UzhBaU1vdHdxSzZyTTNrQ3ZoVGVTUmhMSXZ2Y3hWcjRuSW44WkNFNlJDemNpdDlVVEdOVXJfTmJtUWdzbkhTNkhMOGY3VmUxbW1DelpZWjRZYkd1Qjl5OW1DYmVvLUNpblliM25EdVAwVGdKTUVWZEM3b3Q0LTl0MWwxOXR5SHFHQ0dTNnR4MGNxVzR5TlpfQ3B0TEZmaWpPZlBZUHVJRFI0cVN0VmsySUFKUEI0amlyX21PRG5uQkw5Q29GUUNrVDhhUFI5aUlyRGkxSkt2QnhUMDJoMHU?oc=5
 
-- Soldier Killed In Encounter With Terrorists In J&K's Udhampur - NDTV
-  Soldier killed in Encounter With Terror
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOcHJES2JFdzY3MEJmUDBIcjQxcGVnSFAybHpReTI1anZVcG1tWjNNVFZ6dTEwTTE1XzQxY1ZiQmpCSUlIa0lRdk5PX0FBeUxocC14S3h2ekJvRUhHLVVFLU1vTzhXR2VTOXVxMGJ3NF96Q1Jha3ZWRUlNSi1IVHNUeGhCLTlzWURrejZJSzJRMFZRanFGajF3MWFYVE10R1UyaGFXRGNoc3oxR1VBako5a3ZvSlLSAbwBQVVfeXFMTkl6aWpNaGNCVWxyWWlNbjNHUHFXTllKRG5GQVREZmtPOWRTZGlwVnA3bVRzd2l0T3FJTTNoWG1pT0lydVd1cElSb2VTQV9XU0hncDdJTE5tTUhCN1lOczRJSGpsZTlRbng1WExvdFg4a0pmVk82WXlFM053LWFIRDFUYVVfeGlnUUJCaFpNVnVJM2lUbWdoZGhCOHVtdDVWRUV5dzZ0THFOUFB1VWNSdnlGYzdpYXVrUUpoLVc?oc=5
+- India To Boost Crypto Transparency With CARF By 2027, Experts Say It Will Simplify Reporting - News18
+  India To Boost Crypto Transparency With CARF By 2027. Experts
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeVBqb0JYWk5EblRGbTZ4RTBMUGFwS3F0SkRQRzI2bUdxQVdmd2lERlZTMmlaSFBsT3FoWFFsZUdhN2UzY2ZLc2RqLWJkZHZVbm1JMldQZnl3QnAxVlhkTXlTWUJZeGUwZkFHMWd6UFp6bVRWelZwZW9wODl2Vm4tMXJ2WkRLWG5abGx1VkFlSXc5bEhibG9lai1nMnJQanNMNmpiYjFFV19XQVlsWC1uOFV5Mm1LNjgzTmQ5bjFURmdQNU5BWVE3OHVoN19mMF9VckE3SHBDeDJ0OEdtcEVSQ3ZiaWc0dURiVkY2YdIB8gFBVV95cUxQTWc3WWRQQlMxYTZRb3JLdUs3MUV6cmM3UGhqc2M2WGZSdjZLZnBqX1RCR0JFNjhRd2FGVFFpVVJMN0Y4V1JLZnpBS2FGc2N3dlhJekxSTWVnUzJDSFZSbnJHM3ZPSGhrWkwwSnNDWHBFeFBXOEVFTFVuSkQzYWg5UGlDT2pKOHJnYjdCcFNBeEpXQUpMcVIyRlBLbHZ2N2tPWHpsN3lpeU1CeVlzMlJGZUtHMU1vNWdDXzIwVHpEaDBtOUo4QnRKOXBpUlBaVFBhbllmRWZuNHFEYmRtSE9BN19lUk8wZGxqTzNoT2U4TFNNUQ?oc=5
 
-- Indian trio in Australia U19 team reflects on cricketing, life journey Down Under - Mint
-  Indian trio in Australia U19 team reflects on cricketing
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa3pSSDJDcnVsazd4UVd3U2FfcElHZThVOVJNa2M3SjY3T1F2VDJGcWFBbVpaTjZ0Vnk5eFdkdjZTWEdsODBqY3pNWHdzeEhDelEzRUNXbGIyLV9VM29MelhVY2hhU3o0eE5lX3hpWmI1M3k1TlNfVWswWmtCVUt4YXRITldxYUZZWk1WM19OY3R4RzBPbUVBZ1ZFbTdRSGRyZGtHb3B3aDFVeGNsY2xTRk9ubXpRLUU4OEQ4RHRpTE1NOXNXZVdwRFZaZjZhQTJsSkRLVUd2LTRWbl9IcHfSAeMBQVVfeXFMT0lvMnRrQjZNWUdSc2RieGQ4dXgycFk1LUdaM2htUmo5aUkyaHpoSGx2YUVGMmhUQjRNUTRnZF94UmVqRkVFQ2pCS25EWktzU0JZZnRydGk5OHNlZS1wRUh0M2FaSXh6UU9Pb0dUamQ2aExQcVozU2xVc0V1a2RyQXVjUEo4cXM1dGtxZE96T1BUVHNFTW4zMUs2eEJmOHVWUnVyaE5vRlIwOXJaYk51ejdwYjFHTmduOHRGRmQyLU5odjlSX1hHNmlSODluRUtxekVKUnVVTFYxeTc0OWFySlE2Vk0?oc=5
+- Youth Of India Will Decide Future Of World: Poonam Mahajan To NDTV - NDTV
+  Poonam Mahajan is the son of
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVldfVVFpcHd3NE1VWE9PN3BDOUcxM3A4cmtyeFRhYlJtdWJ1NFUtU2FudU9IM0dCQ2pDM0JOZFNoNVZGdzF3ZVc2RmRxdGZmeHQwSENmWVZXUDRkWE91Ym5mVXdlRm9qQXE2MEI5c2FxWFFoSmQxaDEwbFc1b28zY1BQQWo4azhYdnV3VHprOHROcEc3azJnUjRhTzJycHYwQXpNYlVQVGJLMEVpTjlHdTRjWm5IVm9ZUzZrdnpKV2VPQdIBygFBVV95cUxQRUgwSm41NmxGYXlqNmw2U2FrUlMxRzdiVkVrZlQ1Z1F3XzhtenpacUkyQ0ZaQWd5RXptQmlqMXFPRnN6TDQ2b0x0c2tva3lZbFJaZHNmMGgzbkNJUklBTDlacHRoR05WclR1UDF5S0lUTHNGUEtjMGRHa0pMeUpvMWtDMjlQUHFBQWt5RlVnN2cxUGpCQ2xaalhQa3hsTk5oYUFnWGdFVEVZU1lwdnQzbGxoTFNndWJFUUNpVTFsNXV5NHpmazN0RzVB?oc=5
 
-- "Huge Loss": US Threw Away India Ties For Tariff Policy, Says Ex US NSA Susan Rice - NDTV
-  "Huge Loss": US Threw Away India Ties For Tar
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGhjRFJ6YUJKZHpUX3JRbkRsY1NqTElaOThsNTIwQXpXTm14c3E1aEZmMFNUcVRoWXhETDhISmpRanRYb29kbjNzNHNpc1BLN0s3QXhCYWwwTGxsVmUzSXpUV0laQ1FKaFZVeUlBci0wWGtiU0c2bGF5X0hhdjN0VHN1Y293dU91T3lQeTFjUmtzNjM1aEhMazhUZ0YwcHFoS0xkN1o0NG02WHFGLXdDWWJnS1BvclVVb3fSAcIBQVVfeXFMTUw4SjdwcEcyZHFMMzZySnhGcUVPb0E0QXItQ3BwUW5pMUFQVzJULVNjRnpoSlFOM1lyZDk5UWlObERsWTNmYXBOdlBtUGdhSVdPcWZoVjBELUZGeFF4NEJhc2Flcm5SbzVSZERVQ3NnMzduV3R6Z3p1SGVsNk1GQ1JyUTcwR0VoUjkyXzBUb3JkUXZuSEN0dy1KM2JpNzVjdlpiQTdvMi1ndXFIT3c0RUNIQldzTUhiaWRob0lUaE5FZ0E?oc=5
-
-- India reacts to Pakistan, Saudi Arabia defence agreement: ‘We expect that…’ | Latest News India - Hindustan Times
-  India reacts to Pakistan, Saudi Arabia defence agreement: ‘We expect
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXA2SWNCU1Jwd1lYRm1lZjI4UVlsNWRvMEZ4Z1NUeklVbkVSbm9ZcDFQX3FkTDU5WmtqOTg5Ymw0S1pRaGJsRkZMTlpxanlGa1U4WFFTWV9KZDQ2VlJ1N0phRWF0NERoY2RqM0s0SnVEMVBRdHh3QnFfeFZVWEk0MFhrQTQ5czRmWlJYUi1hbG5BeE1BbEtTTUc4eXhmdUlNdW5hbkRjYUtfSzJtRGtINmc5RURJWDhuMnNuU2pTd2VOdXU3WUNpTUlEU3V5QdIB0wFBVV95cUxNd09RSjNOUml0bXhyOGlFOUl3RU16YXZNcDJFLUZvZ0Qyb05Ic1ROOE9HWmVMRktUcUJtbjc3YjQ1SWlPT2ZBYnl5RVZOb1gyZkR1RnlkZmJhLXF3OUVRNElUMEd6N1R4aVNGNkU5OENRWmJqQjdwWXViOEpraFRrV29Xak0wWmU1cjl3dG9MTXlQaDVvWjRqWTROUFpmVUtkUk54RlZzVHVQOXFEWERRMllSU20xQ1dLMVRFNjBaaGZ1ODhYUkV3NC1BWWZ1WUVXMGhv?oc=5
-
-- Central Indian state secures record-low price for solar-plus-storage power project - Mint
-  Central Indian state secures record-low
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTnRXLTlEMkZ1Nk11YkhNTjRFTWo4LTdiSENYaTFrXzVDbndtRmhvSUNxd2dMTVlZLWhCTk1sWXdkYVkyUFV2QXdNNmtxR2xSSkVDU0VoQ1RXeTVBLVplUEZsQUFXOXFXdW5jU29PY1luUVU5N1J3ZDZSbktQUEtxd3plWmNkQ1NGeU05QjdJZDU2U01Felk0dEVZcmRGbEx6R1dBWUZfZGdnTDh6OGZJQTFoSlB1OWNIbHRGQ2RIdmVlaG1udUgydUpCMjNlbXRsSjd4VdIB2gFBVV95cUxON2VoV1c4TlhZLWZCUE16Sk9zbzh0dVg4Sks3c2NUc3pveVo0dHJlbzdwN0Ywb1FReHR1SzhVaXl5bW9fYjJHSm1iU3p4V0ZmOVZFSEVqYTB6WFpydXhTR1NCSHN4SkNwRjRhVm9Va29aNzFwTkpsWmJWaEFoSS1PTkd5TW1wOUZjdXdsMlpFUGxuZzNGN3RhWVk5TUUtbTNFWEFBeDlWTHpSbEpCZVA2OHpDdFZzek5MN3dsallqazlFSDJNMTVOVUYyeXJNZER6Ulg5cjlOZ3lPQQ?oc=5
-
-- Soldier Killed In Encounter With Terrorists In J&K's Udhampur - NDTV
-  Soldier killed in Encounter With Terror
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOcHJES2JFdzY3MEJmUDBIcjQxcGVnSFAybHpReTI1anZVcG1tWjNNVFZ6dTEwTTE1XzQxY1ZiQmpCSUlIa0lRdk5PX0FBeUxocC14S3h2ekJvRUhHLVVFLU1vTzhXR2VTOXVxMGJ3NF96Q1Jha3ZWRUlNSi1IVHNUeGhCLTlzWURrejZJSzJRMFZRanFGajF3MWFYVE10R1UyaGFXRGNoc3oxR1VBako5a3ZvSlLSAbwBQVVfeXFMTkl6aWpNaGNCVWxyWWlNbjNHUHFXTllKRG5GQVREZmtPOWRTZGlwVnA3bVRzd2l0T3FJTTNoWG1pT0lydVd1cElSb2VTQV9XU0hncDdJTE5tTUhCN1lOczRJSGpsZTlRbng1WExvdFg4a0pmVk82WXlFM053LWFIRDFUYVVfeGlnUUJCaFpNVnVJM2lUbWdoZGhCOHVtdDVWRUV5dzZ0THFOUFB1VWNSdnlGYzdpYXVrUUpoLVc?oc=5
-
-- Indian trio in Australia U19 team reflects on cricketing, life journey Down Under - Mint
-  Indian trio in Australia U19 team reflects on cricketing
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa3pSSDJDcnVsazd4UVd3U2FfcElHZThVOVJNa2M3SjY3T1F2VDJGcWFBbVpaTjZ0Vnk5eFdkdjZTWEdsODBqY3pNWHdzeEhDelEzRUNXbGIyLV9VM29MelhVY2hhU3o0eE5lX3hpWmI1M3k1TlNfVWswWmtCVUt4YXRITldxYUZZWk1WM19OY3R4RzBPbUVBZ1ZFbTdRSGRyZGtHb3B3aDFVeGNsY2xTRk9ubXpRLUU4OEQ4RHRpTE1NOXNXZVdwRFZaZjZhQTJsSkRLVUd2LTRWbl9IcHfSAeMBQVVfeXFMT0lvMnRrQjZNWUdSc2RieGQ4dXgycFk1LUdaM2htUmo5aUkyaHpoSGx2YUVGMmhUQjRNUTRnZF94UmVqRkVFQ2pCS25EWktzU0JZZnRydGk5OHNlZS1wRUh0M2FaSXh6UU9Pb0dUamQ2aExQcVozU2xVc0V1a2RyQXVjUEo4cXM1dGtxZE96T1BUVHNFTW4zMUs2eEJmOHVWUnVyaE5vRlIwOXJaYk51ejdwYjFHTmduOHRGRmQyLU5odjlSX1hHNmlSODluRUtxekVKUnVVTFYxeTc0OWFySlE2Vk0?oc=5
-
-- "Huge Loss": US Threw Away India Ties For Tariff Policy, Says Ex US NSA Susan Rice - NDTV
-  "Huge Loss": US Threw Away India Ties For Tar
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGhjRFJ6YUJKZHpUX3JRbkRsY1NqTElaOThsNTIwQXpXTm14c3E1aEZmMFNUcVRoWXhETDhISmpRanRYb29kbjNzNHNpc1BLN0s3QXhCYWwwTGxsVmUzSXpUV0laQ1FKaFZVeUlBci0wWGtiU0c2bGF5X0hhdjN0VHN1Y293dU91T3lQeTFjUmtzNjM1aEhMazhUZ0YwcHFoS0xkN1o0NG02WHFGLXdDWWJnS1BvclVVb3fSAcIBQVVfeXFMTUw4SjdwcEcyZHFMMzZySnhGcUVPb0E0QXItQ3BwUW5pMUFQVzJULVNjRnpoSlFOM1lyZDk5UWlObERsWTNmYXBOdlBtUGdhSVdPcWZoVjBELUZGeFF4NEJhc2Flcm5SbzVSZERVQ3NnMzduV3R6Z3p1SGVsNk1GQ1JyUTcwR0VoUjkyXzBUb3JkUXZuSEN0dy1KM2JpNzVjdlpiQTdvMi1ndXFIT3c0RUNIQldzTUhiaWRob0lUaE5FZ0E?oc=5
+- Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is War With India - NDTV
+  Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFA3V0NDeDhaMlItR0ZrdEptOXJXTXRLRnc2SFRzQ2s5Z1BTRVczdmpxY2dsbHk1VzVlSXVySG82TzNQeS1zUXhQYXg0OWFndnFTQVptSVdtc0E4QmRpVWE0ZGNrTUJkbWNDVGoxNVJNakFHOHJtcmJuNTNkWFpjV0EwRm1VTlRrcUNxa00zWURaMDd3ZUxYbTU0dFNVLUx1R0N6WUhXbWNMSEYtSmhzLTFGcGl5UVhsbnRJTEdBTXB0VXB5aThZREw4ZDkwWGxYOTBTbUJGNFZIMGd6Tjc2ZjA4Q2lQcGR0WTBuekN1aTRPQ2k1MG9NblFNaWhpZGxDMUV2R9IBjAJBVV95cUxOWUlJcVNLTFh6b3VjMUtPVnYxdVFUSnIwazV5ZGRCb1E2dDdWYVAtS1dmUzZxLXgzVUc0aHZNOHhoOXo3cFZtTmxxTTJYS3lpQ3JrdnF4RGN4dkdWd0kxOF85YVV5aENmeXdOR3VESGlxZ3ViTnRlNEtXZFdGUmpGWGZJbURDV0VEMFBwWTRxSXdZck5qc1oxMXB1N3U0dmwyX0lSTENoTElDZkYyRTZIN2FES1NvRDdKbHd0alZFTWhCMlN6V0h1LXV1Tmx4Sllrc19FcG5VbGtXbmd6QnNlVHk5OVlhVGNJaU9EVXQzMWRBU0ZoVEl3ZEdDRVplekd0M1A3MmtiVnFlalBu?oc=5
 
 - India reacts to Pakistan, Saudi Arabia defence agreement: ‘We expect that…’ | Latest News India - Hindustan Times
   India reacts to Pakistan, Saudi Arabia defence agreement: ‘We expect
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXA2SWNCU1Jwd1lYRm1lZjI4UVlsNWRvMEZ4Z1NUeklVbkVSbm9ZcDFQX3FkTDU5WmtqOTg5Ymw0S1pRaGJsRkZMTlpxanlGa1U4WFFTWV9KZDQ2VlJ1N0phRWF0NERoY2RqM0s0SnVEMVBRdHh3QnFfeFZVWEk0MFhrQTQ5czRmWlJYUi1hbG5BeE1BbEtTTUc4eXhmdUlNdW5hbkRjYUtfSzJtRGtINmc5RURJWDhuMnNuU2pTd2VOdXU3WUNpTUlEU3V5QdIB0wFBVV95cUxNd09RSjNOUml0bXhyOGlFOUl3RU16YXZNcDJFLUZvZ0Qyb05Ic1ROOE9HWmVMRktUcUJtbjc3YjQ1SWlPT2ZBYnl5RVZOb1gyZkR1RnlkZmJhLXF3OUVRNElUMEd6N1R4aVNGNkU5OENRWmJqQjdwWXViOEpraFRrV29Xak0wWmU1cjl3dG9MTXlQaDVvWjRqWTROUFpmVUtkUk54RlZzVHVQOXFEWERRMllSU20xQ1dLMVRFNjBaaGZ1ODhYUkV3NC1BWWZ1WUVXMGhv?oc=5
 
-- Central Indian state secures record-low price for solar-plus-storage power project - Mint
-  Central Indian state secures record-low
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTnRXLTlEMkZ1Nk11YkhNTjRFTWo4LTdiSENYaTFrXzVDbndtRmhvSUNxd2dMTVlZLWhCTk1sWXdkYVkyUFV2QXdNNmtxR2xSSkVDU0VoQ1RXeTVBLVplUEZsQUFXOXFXdW5jU29PY1luUVU5N1J3ZDZSbktQUEtxd3plWmNkQ1NGeU05QjdJZDU2U01Felk0dEVZcmRGbEx6R1dBWUZfZGdnTDh6OGZJQTFoSlB1OWNIbHRGQ2RIdmVlaG1udUgydUpCMjNlbXRsSjd4VdIB2gFBVV95cUxON2VoV1c4TlhZLWZCUE16Sk9zbzh0dVg4Sks3c2NUc3pveVo0dHJlbzdwN0Ywb1FReHR1SzhVaXl5bW9fYjJHSm1iU3p4V0ZmOVZFSEVqYTB6WFpydXhTR1NCSHN4SkNwRjRhVm9Va29aNzFwTkpsWmJWaEFoSS1PTkd5TW1wOUZjdXdsMlpFUGxuZzNGN3RhWVk5TUUtbTNFWEFBeDlWTHpSbEpCZVA2OHpDdFZzek5MN3dsallqazlFSDJNMTVOVUYyeXJNZER6Ulg5cjlOZ3lPQQ?oc=5
+- H-1B fee hike: Indians stand to lose the most, says visa consultant as Trump slaps $100,000 fee - Mint
+  H-1B fee hike: Indians stand to lose the most, says
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTFFfc2M4RFRSM1VNcmhYQV9JLURtdEUzcjZNQ2NsYmlnamgzRVplaXRpU2Jjd0NtRFRjMnVPZURKUWFYYnI5eE9vUG1TZk14MFJKWlp1b1l5WU9DMWkya2I4QkdWejNJRkpxbTdzQ2F2N2Q4ZFV4Y2tFN0lQNHExelRiNC1BQ2hWZGFrNHlrX3ozcUJOTV93bS1PSlFDOF9yTHl2Vkc2a3o3azN4UjhtU1JJck5FWUxxdGc3NVBUN3kteHRaanZiWUNiWk1VVnY2ZUMwWmhCb0plMEpLdUQ5Rnh6SUpEZzjSAewBQVVfeXFMTmdFc3ZkZ3dzSHNhZXh0UzhBaU1vdHdxSzZyTTNrQ3ZoVGVTUmhMSXZ2Y3hWcjRuSW44WkNFNlJDemNpdDlVVEdOVXJfTmJtUWdzbkhTNkhMOGY3VmUxbW1DelpZWjRZYkd1Qjl5OW1DYmVvLUNpblliM25EdVAwVGdKTUVWZEM3b3Q0LTl0MWwxOXR5SHFHQ0dTNnR4MGNxVzR5TlpfQ3B0TEZmaWpPZlBZUHVJRFI0cVN0VmsySUFKUEI0amlyX21PRG5uQkw5Q29GUUNrVDhhUFI5aUlyRGkxSkt2QnhUMDJoMHU?oc=5
 
-- Soldier Killed In Encounter With Terrorists In J&K's Udhampur - NDTV
-  Soldier killed in Encounter With Terror
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOcHJES2JFdzY3MEJmUDBIcjQxcGVnSFAybHpReTI1anZVcG1tWjNNVFZ6dTEwTTE1XzQxY1ZiQmpCSUlIa0lRdk5PX0FBeUxocC14S3h2ekJvRUhHLVVFLU1vTzhXR2VTOXVxMGJ3NF96Q1Jha3ZWRUlNSi1IVHNUeGhCLTlzWURrejZJSzJRMFZRanFGajF3MWFYVE10R1UyaGFXRGNoc3oxR1VBako5a3ZvSlLSAbwBQVVfeXFMTkl6aWpNaGNCVWxyWWlNbjNHUHFXTllKRG5GQVREZmtPOWRTZGlwVnA3bVRzd2l0T3FJTTNoWG1pT0lydVd1cElSb2VTQV9XU0hncDdJTE5tTUhCN1lOczRJSGpsZTlRbng1WExvdFg4a0pmVk82WXlFM053LWFIRDFUYVVfeGlnUUJCaFpNVnVJM2lUbWdoZGhCOHVtdDVWRUV5dzZ0THFOUFB1VWNSdnlGYzdpYXVrUUpoLVc?oc=5
+- India To Boost Crypto Transparency With CARF By 2027, Experts Say It Will Simplify Reporting - News18
+  India To Boost Crypto Transparency With CARF By 2027. Experts
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeVBqb0JYWk5EblRGbTZ4RTBMUGFwS3F0SkRQRzI2bUdxQVdmd2lERlZTMmlaSFBsT3FoWFFsZUdhN2UzY2ZLc2RqLWJkZHZVbm1JMldQZnl3QnAxVlhkTXlTWUJZeGUwZkFHMWd6UFp6bVRWelZwZW9wODl2Vm4tMXJ2WkRLWG5abGx1VkFlSXc5bEhibG9lai1nMnJQanNMNmpiYjFFV19XQVlsWC1uOFV5Mm1LNjgzTmQ5bjFURmdQNU5BWVE3OHVoN19mMF9VckE3SHBDeDJ0OEdtcEVSQ3ZiaWc0dURiVkY2YdIB8gFBVV95cUxQTWc3WWRQQlMxYTZRb3JLdUs3MUV6cmM3UGhqc2M2WGZSdjZLZnBqX1RCR0JFNjhRd2FGVFFpVVJMN0Y4V1JLZnpBS2FGc2N3dlhJekxSTWVnUzJDSFZSbnJHM3ZPSGhrWkwwSnNDWHBFeFBXOEVFTFVuSkQzYWg5UGlDT2pKOHJnYjdCcFNBeEpXQUpMcVIyRlBLbHZ2N2tPWHpsN3lpeU1CeVlzMlJGZUtHMU1vNWdDXzIwVHpEaDBtOUo4QnRKOXBpUlBaVFBhbllmRWZuNHFEYmRtSE9BN19lUk8wZGxqTzNoT2U4TFNNUQ?oc=5
 
-- Indian trio in Australia U19 team reflects on cricketing, life journey Down Under - Mint
-  Indian trio in Australia U19 team reflects on cricketing
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa3pSSDJDcnVsazd4UVd3U2FfcElHZThVOVJNa2M3SjY3T1F2VDJGcWFBbVpaTjZ0Vnk5eFdkdjZTWEdsODBqY3pNWHdzeEhDelEzRUNXbGIyLV9VM29MelhVY2hhU3o0eE5lX3hpWmI1M3k1TlNfVWswWmtCVUt4YXRITldxYUZZWk1WM19OY3R4RzBPbUVBZ1ZFbTdRSGRyZGtHb3B3aDFVeGNsY2xTRk9ubXpRLUU4OEQ4RHRpTE1NOXNXZVdwRFZaZjZhQTJsSkRLVUd2LTRWbl9IcHfSAeMBQVVfeXFMT0lvMnRrQjZNWUdSc2RieGQ4dXgycFk1LUdaM2htUmo5aUkyaHpoSGx2YUVGMmhUQjRNUTRnZF94UmVqRkVFQ2pCS25EWktzU0JZZnRydGk5OHNlZS1wRUh0M2FaSXh6UU9Pb0dUamQ2aExQcVozU2xVc0V1a2RyQXVjUEo4cXM1dGtxZE96T1BUVHNFTW4zMUs2eEJmOHVWUnVyaE5vRlIwOXJaYk51ejdwYjFHTmduOHRGRmQyLU5odjlSX1hHNmlSODluRUtxekVKUnVVTFYxeTc0OWFySlE2Vk0?oc=5
-
-- "Huge Loss": US Threw Away India Ties For Tariff Policy, Says Ex US NSA Susan Rice - NDTV
-  "Huge Loss": US Threw Away India Ties For Tar
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGhjRFJ6YUJKZHpUX3JRbkRsY1NqTElaOThsNTIwQXpXTm14c3E1aEZmMFNUcVRoWXhETDhISmpRanRYb29kbjNzNHNpc1BLN0s3QXhCYWwwTGxsVmUzSXpUV0laQ1FKaFZVeUlBci0wWGtiU0c2bGF5X0hhdjN0VHN1Y293dU91T3lQeTFjUmtzNjM1aEhMazhUZ0YwcHFoS0xkN1o0NG02WHFGLXdDWWJnS1BvclVVb3fSAcIBQVVfeXFMTUw4SjdwcEcyZHFMMzZySnhGcUVPb0E0QXItQ3BwUW5pMUFQVzJULVNjRnpoSlFOM1lyZDk5UWlObERsWTNmYXBOdlBtUGdhSVdPcWZoVjBELUZGeFF4NEJhc2Flcm5SbzVSZERVQ3NnMzduV3R6Z3p1SGVsNk1GQ1JyUTcwR0VoUjkyXzBUb3JkUXZuSEN0dy1KM2JpNzVjdlpiQTdvMi1ndXFIT3c0RUNIQldzTUhiaWRob0lUaE5FZ0E?oc=5
-
-- India reacts to Pakistan, Saudi Arabia defence agreement: ‘We expect that…’ | Latest News India - Hindustan Times
-  India reacts to Pakistan, Saudi Arabia defence agreement: ‘We expect
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXA2SWNCU1Jwd1lYRm1lZjI4UVlsNWRvMEZ4Z1NUeklVbkVSbm9ZcDFQX3FkTDU5WmtqOTg5Ymw0S1pRaGJsRkZMTlpxanlGa1U4WFFTWV9KZDQ2VlJ1N0phRWF0NERoY2RqM0s0SnVEMVBRdHh3QnFfeFZVWEk0MFhrQTQ5czRmWlJYUi1hbG5BeE1BbEtTTUc4eXhmdUlNdW5hbkRjYUtfSzJtRGtINmc5RURJWDhuMnNuU2pTd2VOdXU3WUNpTUlEU3V5QdIB0wFBVV95cUxNd09RSjNOUml0bXhyOGlFOUl3RU16YXZNcDJFLUZvZ0Qyb05Ic1ROOE9HWmVMRktUcUJtbjc3YjQ1SWlPT2ZBYnl5RVZOb1gyZkR1RnlkZmJhLXF3OUVRNElUMEd6N1R4aVNGNkU5OENRWmJqQjdwWXViOEpraFRrV29Xak0wWmU1cjl3dG9MTXlQaDVvWjRqWTROUFpmVUtkUk54RlZzVHVQOXFEWERRMllSU20xQ1dLMVRFNjBaaGZ1ODhYUkV3NC1BWWZ1WUVXMGhv?oc=5
-
-- Central Indian state secures record-low price for solar-plus-storage power project - Mint
-  Central Indian state secures record-low
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTnRXLTlEMkZ1Nk11YkhNTjRFTWo4LTdiSENYaTFrXzVDbndtRmhvSUNxd2dMTVlZLWhCTk1sWXdkYVkyUFV2QXdNNmtxR2xSSkVDU0VoQ1RXeTVBLVplUEZsQUFXOXFXdW5jU29PY1luUVU5N1J3ZDZSbktQUEtxd3plWmNkQ1NGeU05QjdJZDU2U01Felk0dEVZcmRGbEx6R1dBWUZfZGdnTDh6OGZJQTFoSlB1OWNIbHRGQ2RIdmVlaG1udUgydUpCMjNlbXRsSjd4VdIB2gFBVV95cUxON2VoV1c4TlhZLWZCUE16Sk9zbzh0dVg4Sks3c2NUc3pveVo0dHJlbzdwN0Ywb1FReHR1SzhVaXl5bW9fYjJHSm1iU3p4V0ZmOVZFSEVqYTB6WFpydXhTR1NCSHN4SkNwRjRhVm9Va29aNzFwTkpsWmJWaEFoSS1PTkd5TW1wOUZjdXdsMlpFUGxuZzNGN3RhWVk5TUUtbTNFWEFBeDlWTHpSbEpCZVA2OHpDdFZzek5MN3dsallqazlFSDJNMTVOVUYyeXJNZER6Ulg5cjlOZ3lPQQ?oc=5
-
-- Soldier Killed In Encounter With Terrorists In J&K's Udhampur - NDTV
-  Soldier killed in Encounter With Terror
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOcHJES2JFdzY3MEJmUDBIcjQxcGVnSFAybHpReTI1anZVcG1tWjNNVFZ6dTEwTTE1XzQxY1ZiQmpCSUlIa0lRdk5PX0FBeUxocC14S3h2ekJvRUhHLVVFLU1vTzhXR2VTOXVxMGJ3NF96Q1Jha3ZWRUlNSi1IVHNUeGhCLTlzWURrejZJSzJRMFZRanFGajF3MWFYVE10R1UyaGFXRGNoc3oxR1VBako5a3ZvSlLSAbwBQVVfeXFMTkl6aWpNaGNCVWxyWWlNbjNHUHFXTllKRG5GQVREZmtPOWRTZGlwVnA3bVRzd2l0T3FJTTNoWG1pT0lydVd1cElSb2VTQV9XU0hncDdJTE5tTUhCN1lOczRJSGpsZTlRbng1WExvdFg4a0pmVk82WXlFM053LWFIRDFUYVVfeGlnUUJCaFpNVnVJM2lUbWdoZGhCOHVtdDVWRUV5dzZ0THFOUFB1VWNSdnlGYzdpYXVrUUpoLVc?oc=5
-
-- Indian trio in Australia U19 team reflects on cricketing, life journey Down Under - Mint
-  Indian trio in Australia U19 team reflects on cricketing
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa3pSSDJDcnVsazd4UVd3U2FfcElHZThVOVJNa2M3SjY3T1F2VDJGcWFBbVpaTjZ0Vnk5eFdkdjZTWEdsODBqY3pNWHdzeEhDelEzRUNXbGIyLV9VM29MelhVY2hhU3o0eE5lX3hpWmI1M3k1TlNfVWswWmtCVUt4YXRITldxYUZZWk1WM19OY3R4RzBPbUVBZ1ZFbTdRSGRyZGtHb3B3aDFVeGNsY2xTRk9ubXpRLUU4OEQ4RHRpTE1NOXNXZVdwRFZaZjZhQTJsSkRLVUd2LTRWbl9IcHfSAeMBQVVfeXFMT0lvMnRrQjZNWUdSc2RieGQ4dXgycFk1LUdaM2htUmo5aUkyaHpoSGx2YUVGMmhUQjRNUTRnZF94UmVqRkVFQ2pCS25EWktzU0JZZnRydGk5OHNlZS1wRUh0M2FaSXh6UU9Pb0dUamQ2aExQcVozU2xVc0V1a2RyQXVjUEo4cXM1dGtxZE96T1BUVHNFTW4zMUs2eEJmOHVWUnVyaE5vRlIwOXJaYk51ejdwYjFHTmduOHRGRmQyLU5odjlSX1hHNmlSODluRUtxekVKUnVVTFYxeTc0OWFySlE2Vk0?oc=5
+- Youth Of India Will Decide Future Of World: Poonam Mahajan To NDTV - NDTV
+  Poonam Mahajan is the son of
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVldfVVFpcHd3NE1VWE9PN3BDOUcxM3A4cmtyeFRhYlJtdWJ1NFUtU2FudU9IM0dCQ2pDM0JOZFNoNVZGdzF3ZVc2RmRxdGZmeHQwSENmWVZXUDRkWE91Ym5mVXdlRm9qQXE2MEI5c2FxWFFoSmQxaDEwbFc1b28zY1BQQWo4azhYdnV3VHprOHROcEc3azJnUjRhTzJycHYwQXpNYlVQVGJLMEVpTjlHdTRjWm5IVm9ZUzZrdnpKV2VPQdIBygFBVV95cUxQRUgwSm41NmxGYXlqNmw2U2FrUlMxRzdiVkVrZlQ1Z1F3XzhtenpacUkyQ0ZaQWd5RXptQmlqMXFPRnN6TDQ2b0x0c2tva3lZbFJaZHNmMGgzbkNJUklBTDlacHRoR05WclR1UDF5S0lUTHNGUEtjMGRHa0pMeUpvMWtDMjlQUHFBQWt5RlVnN2cxUGpCQ2xaalhQa3hsTk5oYUFnWGdFVEVZU1lwdnQzbGxoTFNndWJFUUNpVTFsNXV5NHpmazN0RzVB?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-20 06:25:07 UTC_
+_Last updated: 2025-09-20 12:30:44 UTC_
