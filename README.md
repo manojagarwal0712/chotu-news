@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Dhami visits Chamoli, hands over Rs 5 lakh ex gratia each to kin of deceased
+- PM Modi Speech Today Live Updates: On eve of GST 2.0 launch, PM Narendra Modi to address nation at 5 pm
   
-  🔗 https://indianexpress.com/article/india/dhami-visits-chamoli-hands-over-rs-5-lakh-ex-gratia-each-to-kin-of-deceased-10262072/
+  🔗 https://indianexpress.com/article/india/pm-modi-address-nation-today-5pm-live-updates-september-21-sunday-latest-news-h1b-gst-10262408/
 
-- Rs 5L ex gratia each for kin of 2 jawans killed in Manipur
+- News Today Live Updates, 21 September | PM Modi Speech Today Live Updates: On eve of GST 2.0 launch, PM Narendra Modi to address nation at 5 pm
   
-  🔗 https://indianexpress.com/article/india/rs-5l-ex-gratia-each-for-kin-of-2-jawans-killed-in-manipur-10262053/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-09-21-2025-news-headlines-10262135/
 
-- Engaged with 7 PMs, RSS: Malik to court as NIA seeks death in 2016 terror funding case
+- Police station in J’khand’s Ranchi district vandalised, officer injured in mob attack
   
-  🔗 https://indianexpress.com/article/india/engaged-with-7-pms-rss-malik-to-court-as-nia-seeks-death-in-2016-terror-funding-case-10262060/
+  🔗 https://indianexpress.com/article/india/police-station-jharkhand-ranchi-vandalised-officer-injured-mob-attack-10262272/
 
-- Uttarakhand SSSC exam today: Paper leak accused, aide held for promising success in govt job test, demanding Rs 15 lakh
+- Solar Eclipse 2025 Today Live Updates: Will the last eclipse of the year be visible in India?
   
-  🔗 https://indianexpress.com/article/india/uttarakhand-sssc-exam-today-paper-leak-accused-aide-held-for-promising-success-in-govt-job-test-demanding-rs-15-lakh-10262040/
+  🔗 https://indianexpress.com/article/india/solar-eclipse-2025-time-live-updates-surya-grahan-september-latest-news-online-10262220/
 
-- Huge fee can potentially kill H-1B, but Delhi keeps its fingers crossed
+- Three die of electrocution during kabaddi match in Chhattisgarh’s Kondagaon
   
-  🔗 https://indianexpress.com/article/india/huge-fee-can-potentially-kill-h-1b-but-delhi-keeps-its-fingers-crossed-10262037/
+  🔗 https://indianexpress.com/article/india/three-die-electrocution-kabaddi-match-chhattisgarh-kondagaon-10262257/
+
+- Google is testing new Gboard features: AI writing tools, flick keys, and more
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-gboard-android-ai-writing-tools-flick-keys-rounded-keys-10262271/
 
 - Trump to impose $100,000 fee per year for H-1B visas, in blow to tech
   
@@ -36,11 +40,15 @@
   
   🔗 https://indianexpress.com/article/technology/openai-targets-apple-talent-suppliers-as-it-gears-up-for-hardware-launch-10261272/
 
-- Xiaomi 17 Pro tipped for late September launch; to feature second screen, triple 50MP cameras
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/xiaomi-17-pro-tipped-for-late-september-launch-to-feature-second-screen-triple-50mp-cameras-10261212/
+- VinFast may appoint an Indian to lead the charge in Indian market
+  VinFast Asia chief executive officer Pham Sanh Chau has so far been spearheading the strategy in India. The company has
+  🔗 https://www.livemint.com/companies/news/vinfast-india-ceo-tapan-ghosh-hyundai-vinfast-vf6-vf7-launch-india-vinfast-vs-tata-mahindra-evs-11758424884116.html
 
-- Gautam Adani, wife offers prayers at Ahmedabad's Jain temple after Sebi dismisses Hindenburg charges | Watch video
+- IREF chief welcomes Piyush Goyals remarks ahead of Bharat International Rice Conference 2025
+  Prem Garg, National President of the Indian Rice Exporters Federation (IREF), welcomed Commerce and Industry Minister Piyush Goyal's remarks on the upcoming Bharat
+  🔗 https://www.livemint.com/companies/company-results/iref-chief-welcomes-piyush-goyals-remarks-ahead-of-bharat-international-rice-conference-2025-11758429824320.html
+
+- Gautam Adani, wife offer prayers at Ahmedabad's Jain temple after Sebi dismisses Hindenburg charges | Watch video
   Gautam Adani and his wife offered their prayers at a Jain temple in Ahmedabad, Gujarat, after Sebi dismissed Hindenburg charges on the conglomerate. Ad
   🔗 https://www.livemint.com/companies/people/gautam-adani-wife-offers-prayers-at-ahmedabads-jain-temple-after-sebi-dismisses-hindenburg-charges-watch-video-11758383050181.html
 
@@ -52,53 +60,45 @@
   A federal prosecutor in Virginia is resigning from his post after being told by Trump administration officials that he’d be removed for not bringing mortgage fraud charges against New York Attorney General Let
   🔗 https://www.livemint.com/companies/news/us-attorney-on-james-mortgage-probe-resigning-under-pressure-11758375726348.html
 
-- Will anyone pay $100,000 H-1B visa fee? Here's what ex-Infosys CFO Mohandas Pai says
-  Ex-Infosys CFO Mohandas Pai expects that Trump's decision to increase the H-1B visa fees to $100,000 annually will likely
-  🔗 https://www.livemint.com/companies/news/will-anyone-pay-100-000-h-1b-visa-fee-heres-what-ex-infosys-cfo-mohandas-pai-says-11758371112438.html
+- Tsunami of IPOs! Anand Rathi IPO, Jaro Institute IPO among 28 new public issues to open next week; check full list here
+  Anand Rathi IPO, Jaro Institute IPO among 28 new
+  🔗 https://www.livemint.com/market/ipo/tsunami-of-ipos-anand-rathi-ipo-jaro-institute-ipo-among-28-new-public-issues-to-open-next-week-check-full-list-here-11758432395017.html
 
-- H-1B visa fee hike: Who will pay $1,00,000 visa fee, employee or employer? Here's all you need to know
-  Since January, Trump has intensified crack down on immigration. His latest proclamation raises H-1B visa fees to $100
-  🔗 https://www.livemint.com/companies/news/h1b-visa-fee-hike-who-will-pay-1-00-000-visa-fee-employee-or-employer-heres-all-you-need-to-know-11758368548697.html
+- Mcap of seven of top-10 most valued firms jumps by  ₹1.18 lakh crore; SBI, Airtel biggest winners
+  The market valuation of seven of the top-10 most valued firms combined, jumped by  ₹1,18,328.29 crore
+  🔗 https://www.livemint.com/market/stock-market-news/mcap-of-seven-of-top-10-most-valued-firms-jumps-by-rs-1-18-lakh-crore-sbi-airtel-biggest-winners-stock-markets-news-11758432164666.html
 
-- Chinese Savers Have $23 Trillion And Few Options Beyond Stocks
-  Chinese households are tiptoeing back into equities, driven in part
-  🔗 https://www.livemint.com/market/stock-market-news/chinese-savers-have-23-trillion-and-few-options-beyond-stocks-11758414000238.html
+- Stocks to buy under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday — 22 September 2025
+  Sumeet Bagadia has recommended three stocks to buy on Monday, September 22. VIP Clothing, Aarey Drugs
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-22-september-2025-11758425832152.html
 
-- Dividend Stocks: Bajaj Holdings, BEML, Paisalo Digital, among others to trade ex-dividend next week; Full list here
-  Bajaj Holdings, BEML, Paisalo Digital, Divyashakti, Gujarat Fluorochemicals, Gujarat Intru
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-bajaj-holdings-beml-paisalo-digital-among-others-to-trade-ex-dividend-next-week-full-list-here-11758376316548.html
+- Buy or sell: Ganesh Dongre of Anand Rathi recommends three shares to buy on Monday - 22 September 2025
+  Ganesh Dongre of Anand Rathi recommends three stocks to buy
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-shares-to-buy-on-monday-22-september-2025-11758424309572.html
 
-- ‘Hedge America’ Threatens $1 Trillion Drag on the Sinking Dollar
-  It turns out that all the “Sell America�
-  🔗 https://www.livemint.com/market/stock-market-news/hedge-america-threatens-1-trillion-drag-on-the-sinking-dollar-11758375482189.html
+- Trump's H-1B visa fee hike to GST 2.0: These five factors to dominate Indian stock market next week
+  The Sensex closed at 82,626.23, down 388 points or 0.47 per cent. The N
+  🔗 https://www.livemint.com/market/stock-market-news/trumps-h-1b-visa-fee-hike-to-gst-2-0-these-five-factors-to-dominate-indian-stock-market-next-week-11758420479661.html
 
-- Over 45 BSE small-cap stocks log double-digit gains last week; Banco Products tops the list
-  47 small-cap stocks from the BSE Small-cap index rallied between 10% and 35.2%. Banco Products led the pack after surging 35. 2% to  ₹835.6 apiece
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-gains-for-third-week-over-45-bse-small-cap-stocks-log-double-digit-gains-11758373044256.html
+- How Apple built the super-thin iPhone Air: Teardown report reveals details
+  iFixit finds iPhone Air has a unique camera plateau and simplified internal layout. Findings indicate shift towards more user-friendly iPhone maintenance. iPhone Air is 5.6
+  🔗 https://www.livemint.com/technology/tech-news/how-apple-built-the-super-thin-iphone-air-teardown-report-reveals-details-11758428324668.html
 
-- Gautam Adani's net worth jumps  ₹299 crore in a day after SEBI's clearance from Hindenburg Research allegations
-  Adani Group market cap surged  ₹699 crore
-  🔗 https://www.livemint.com/market/stock-market-news/gautam-adanis-net-worth-jumps-rs-299-crore-in-a-day-after-sebis-clearance-from-hindenburg-research-allegations-11758363251258.html
+- TikTok ban avoided as US firms prepare to take control of app’s algorithm: What to know
+  The White House confirmed an agreement allowing American companies to control TikTok's algorithm and operations. Oracle will manage data and security, with US representatives holding a majority on the governing
+  🔗 https://www.livemint.com/technology/tech-news/tiktok-ban-avoided-as-us-firms-prepare-to-take-control-of-app-s-algorithm-what-to-know-11758420411350.html
 
-- Chatbots Are Hurting Our Kids. Here’s What We Can Do.
-  Teenagers have expanded their digital repertoire. While many of us are still
-  🔗 https://www.livemint.com/technology/tech-news/chatbots-are-hurting-our-kids-here-s-what-we-can-do-11758380148218.html
+- Apple iPhone 17 Pro Max outperforms Samsung Galaxy S25 Ultra in real-world battery test: Report
+  The iPhone 17 Pro Max tops battery life tests, lasting 13 hours in real-world use, outperforming Samsung’s Galaxy S25 Ultra. UK models have a slightly smaller battery than
+  🔗 https://www.livemint.com/technology/gadgets/apple-iphone-17-pro-max-outperforms-samsung-galaxy-s25-ultra-in-real-world-battery-test-report-11758423008502.html
 
-- Flipkart Big Billion Days pre deals are LIVE on laptops! Up to 58% off on all types of laptops from Dell, HP, and more
-   Flipkart Big Billion Days 2025 pre deals are live! Get up to 58% off on all types of laptops from student to professional, gaming to business all will be on sale. All brands are offering great discounts with additional bank offers
-  🔗 https://www.livemint.com/technology/gadgets/flipkart-big-billion-days-pre-deals-are-live-on-laptops-up-to-58-off-on-all-types-of-laptops-from-dell-hp-and-more-11758272401244.html
+- Flipkart Big Billion Days starts September 23: Top smartphone deals, early access rewards and more
+  Flipkart's Big Billion Days 2025 sale will feature 10-minute doorstep delivery through Flipkart Minutes. Beginning September 23, 2025, it will cover 19 cities, offering
+  🔗 https://www.livemint.com/technology/tech-news/flipkart-big-billion-days-sale-promises-10-minute-doorstep-delivery-top-smartphone-deals-early-access-rewards-and-more-11758419451010.html
 
-- Chinese authorities increase scrutiny on social media platforms Kuaishou and Weibo: Here's what happened
-  China’s internet regulator has ordered Kuaishou and Weibo to take corrective action, citing repeated content oversight failures.
-  🔗 https://www.livemint.com/technology/tech-news/chinese-authorities-increase-scrutiny-on-social-media-platforms-kuaishou-and-weibo-heres-what-happened-11758360246990.html
-
-- Elon Musk confirms X’s feed to go fully AI: Users can customise via Grok by year-end
-  Elon Musk announced that X's algorithm will be fully AI-powered by November. The platform will allow users to adjust their feeds dynamically and move away from mainstream content.
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-confirms-x-s-feed-to-go-fully-ai-users-can-customise-via-grok-by-yearend-11758358381621.html
-
-- From Flipkart Minutes to BigBasket: Top quick delivery platforms offering iPhone 17 series at your doorstep
-  Apple's iPhone 17 series launched in India on 19 September. Quick commerce services like Blinkit, Flipkart Minutes, BigBasket and others offer instant home delivery of the devices within minutes
-  🔗 https://www.livemint.com/technology/gadgets/from-flipkart-minutes-to-bigbasket-top-quick-delivery-platforms-offering-iphone-17-series-at-your-doorstep-11758351650387.html
+- Amazon Great Indian Festival: Up to 65% off on pre-deals on the best tablets with big displays and fast processors
+  Amazon sale 2025 brings early pre-deals on the best tablets. Buyers can plan ahead and choose devices
+  🔗 https://www.livemint.com/technology/gadgets/amazon-great-indian-festival-up-to-65-off-on-pre-deals-on-the-best-tablets-with-big-displays-and-fast-processors-11758279424534.html
 
 - Dow, S&P 500 close at fresh records, log big gains for the week after Fed rate cut: Live updates - CNBC
   Dow, S&amp;P 500 close at fresh records, log big gains
@@ -108,57 +108,57 @@
   Markets hit record highs as �
   🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE53T291dm10TzZaN3JrLURUcDY4NTUtb1ZYNklwQXdHeF9rSUZOazFaY3NvaFNTWUhoY2lDeWpENE1ZX2tCTWZWT2UzMzdtY0JqMndOblpxQkFYQUxMRjY3bGVnZ2lnZ0drbGcwZ0pRWmw?oc=5
 
-- State plans to revamp 50 markets to boost trade - Times of India
-  State plans to revamp 50 markets to boost
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYm1nQXJlazI0UkNqSjA5ejVzVm5SQlR6Wm5BUUxaWVIteF9CNk1IcVo3U1l2RjctZjdiVWdhTXZ5dm1HMEkxRE8xb3FPR05mblBrXzZxOTNGbUFja3lIYTZiZDZQT2FTSkNFTTh4MGJaSjVndllDQ0N6Q2loWkVuZkFtWVRRS1ZZQmhsdWk3LVBvOXZCak85bTdHc1htcDRlS2JZd2Y1UTUtMGEyeW5qWW1UYk5rMzZLTHEzNVVNSUjSAcYBQVVfeXFMTUJZLTRFQVRRdDA4S29sc3VyamlkMm82emE1dmZIVGVINmk2SUcwaUg3VTdJekRMYXZ3ak51NWhya2JUMEZQRmZ4Vmk2a1A3ckJnOXRQWk05aFlEMFB2XzUwazFuWXdDcmhzSmJYdUUzYkQ1UllZTFJmS3pQM01Cc00zLURzXzl0TVkwS0w3Yi1TczVfM0J6a3plaGRZanpValdleDQ4UHhqUnF6OVhWdDlKY19UWFZ2TmFUaEVKQkJlVUtSVjln?oc=5
+- Tsunami of IPOs! Anand Rathi IPO, Jaro Institute IPO among 28 new public issues to open next week; check full list here - Mint
+  Anand Rathi IPO, Jaro Institute IPO among 28 new public issues to open next week.
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOTXdFOXJYN2M3eWJuakJtSmRLWmM1blVuVDZ3Z3hKOFNYTk1ld1BiY3pkcWk1S1c2N1pLanN4TU0xVTVfRDR4NTFDUkkzWW9Ccm1JSHFEV0lONnhtQXRxai10WEFfQVgwQUVBUEU4SEZXQzZzOGp4WW1iUkRHSEJ5enZxcko1M3NQZTBCRUFLTmFKaGNsZ0RvVHJoXzZicFpUcUVyT3pVY0hEcERKTHp2bjNZYllYVDh0QWVyZWNJUUhJLTRnMFNmOHA4RUFLcFZGNDhQS3RVM014ZnpRUXZjQVBqOUlwenVmUEtwTEVSSERiSFRkTXAxY0drR2J1dVVFTVHSAYcCQVVfeXFMTm4yNFBvTnoxMVpCRzBSU0kzVldXa0M3RUN0b29qMkExdUZEYnN1NXdlc3lwR1l0SHlkcmpoMFpwUG13RTEwaEJaclc1MGpFM3NLbWlCVVFGQTJoMFFXREhDdEtoTW9MV2R3YW9GZWdFVnBZVjVaQmRFb0o3NGI2Q2JqWlVkdGwwMzh0c2hENS1LOUFfNG10UWZwcDRtODlhb1Y5Q3JmaGJDZ0ZSbFZfbjBMZG45Wl8tcG52Sjh5ZDZBQ0NaWlMwVy04X3FQYmx1V1dSaXB3SjVPc2JRaUN0Vm9jVW13U1RQOXRTRFZnMklzeHhZVl9qNklEcEhXdFoya2RCUWRQT1k?oc=5
 
-- IT stocks set to take a hit as markets open for the week - CNBC TV18
-  IT stocks set to take a hit as markets open for the
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOGVGMERuNUd2RnZGc3pqU0VmUllwWWlPT2Rjb29GMVdJeU5SSEw4b3g5Y0dNMEVLcUhtNGkyNHhuMDh1T1ZPcnVqZG82bkhkNjg5RE10d0xiYXJjLVFqTjRDaV9KZndBVldveEZhRjJ5bzZJeEhLZ3pJZWJaeW5vcXZwY3Z1dEhTUGtSb09YWS1EWE5lUndxbWlhem9QOXlpQXVzUE9hLTQ1Z9IBrwFBVV95cUxNYXFNNVBteE9FTGZUMnNOdUxpclo3YkRxVHVHZnZnXzlkQ013aUNGMzV1VWdWMlBFRFUyN3BXeXFLd1JfMjdPLXJDazVGVDdROVE0Y0JmVjZHeEdIekVGbmxLN1dwMjBlRVhybHR3bmM3ZjVPSzFOdHBlQjg0R3VyekpmQWlfa2xzRHRybFBxVFNyT3E3RHlqa3drQ3BPSlNyLUN1N1pXWWNqdFkyU2lz?oc=5
+- Mcap of seven of top-10 most valued firms jumps by Rs 1.18 lakh cr; SBI, Airtel biggest winners - The Economic Times
+  Mcap of seven of top-10 most valued firms jumps by Rs 1.18 lakh
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNMWd1T0p0eXJXdm9LVU5qTUVIUlZhSjIzc3JHUHVMV2ZkaURrbXV2blg1N0xzNUNwc0lBUzJLUzJRMjlCS0oyem9UZElleXlHdmtqdV9VSWZqU2t4ZTR2RV92UHpPWlpkaVcySlI4SmdYMEhpeGlmU0VJamgwX24wUzd4TE12anB3c1hrRGlVU3FJNnNtNXlydWtTU2ZjT2Vfdm5pNFIzdXZMbzVFSFhBRHZER1lnX21jMWZqMG5XN0ZNTERnTUFKTU1UbGdsQ1VOY3hrSVN0elJvUEhXVTV5MHR3bm5SRWJOV1ZIc2JuU1FrUmhSaTdVMmdpUlhIZDFX0gGAAkFVX3lxTE0xZ3VPSnR5cld2b0tVTmpNRUhSVmFKMjNzckdQdUxXZmRpRGttdXZuWDU3THM1Q3BzSUFTMktTMlEyOUJLSjJ6b1RkSWV5eUd2a2p1X1VJZmpTa3hlNHZFX3ZQek9aWmRpVzJKUjhKZ1gwSGl4aWZTRUlqaDBfbjBTN3hMTXZqcHdzWGtEaVVTcUk2c201eXJ1a1NTZmNPZV92bmk0UjN1dkxvNUVIWEFEdkRHWWdfbWMxZmowblc3Rk1MRGdNQUpNTVRsZ2xDVU5jeGtJU3R6Um9QSFdVNXkwdHdublJFYk5XVkhzYm5TUWtSaFJpN1UyZ2lSWEhkMVc?oc=5
 
-- After The Rate Cut: Investing Beyond U.S. Markets - J.P. Morgan
-  J.P. Morgan: Invest
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTkdFLV9LUWdfdE5mYlN4UkxBNHUzZVRzYVFIcDFFSndJQ2NNT2FENnZBZk1LdG05dm1vYkJaQzV2YmNVeW9tbkNLZkJ3ZGVZdGVqTFNEQzVIczdzSVl5LW9kaUJnVjd2aE9UdXRJVE9SbjMzSVFRdGxacGVqa3hhQnVlMUFMRnZmaC16ZHV5T3NKWWZuUnlXTk9wcFY3dklnS2xvMGpnZ0pCU0t0TklfX01IcFAzZ2o1anBJZUFIQnZVX1k?oc=5
+- Top 19 high-conviction stocks from Choice Broking offer up to 35% upside - The Economic Times
+  Top 19 high-conviction stocks from Choice Broking offer
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOenh4ZmdNTGpaSERUUlN6RFRGXzdleHdoSFJLTHA0TGk0NWRlZ1BtMnVJVUlqQ2hIWEhVU2FCUTNVall5Z2lmVkJNbEpYaERTd1FpNFRXT1F2dXFlM2RXa0Y0bTlGSUdySmlvZkdOemtvMEpqUktZQUs2bkJvYk12NkpWWmxNM0R4cGtiYUszQ0RCTnJmS0VPYWJ4WVBnQ3J5dWFxRTJVY1RNb3RwVTdfb1FZVmVKV3lVWS0xWkxGMERmR3M3bTVrYklvTEJ6UWszUnRmQVJzSzBfUUtaN1NPQlN1WjlfOFJ1VERORksweDZxdWJJLU9XQg?oc=5
 
-- F&amp;O Talk | Nifty heading towards 26k? Crucial breakout may boost sentiment: Sudeep Shah
-  Indian equities marked a third consecutive week of gains, fueled by optimism surrounding India-US trade talks. Analyst Sudeep Shah anticipates a brief market pause before a potential rally towards 25,750-26,000 for the N
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-heading-towards-26k-crucial-breakout-may-boost-sentiment-sudeep-shah/articleshow/124014163.cms
+- Piramal Enterprises sets record date for merger; shareholders to get Piramal Finance shares
+  PEL shareholders will receive PFL shares on a 1:1 basis. PEL shares will cease trading from the record date. The merger consolidates the group’s financial services operations.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/piramal-enterprises-sets-record-date-for-merger-shareholders-to-get-piramal-finance-shares/articleshow/124024458.cms
 
-- Too much weight on too few stocks? Gurmeet Chadha suggests broader metrics for index composition
-  Gurmeet Chadha proposes incorporating GDP representation alongside free-float market cap. He highlighted that HDFC and ICICI constitute a significant portion of Bank Nifty.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/too-much-weight-on-too-few-stocks-gurmeet-chadha-suggests-broader-metrics-for-index-composition/articleshow/124013580.cms
+- Mcap of seven of top-10 most valued firms jumps by Rs 1.18 lakh cr; SBI, Airtel biggest winners
+  The combined market valuation of seven of the top-10 most valued firms jumped by Rs 1,18,328.29 crore last week. State Bank of India and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-seven-of-top-10-most-valued-firms-jumps-by-rs-1-18-lakh-cr-sbi-airtel-biggest-winners/articleshow/124024393.cms
 
-- What’s behind Warren Buffett’s car philosophy? Here’s why the billionaire refuses to buy a new one
-  Warren Buffett still drives his 2014 Cadillac XTS at 94. Buffett prioritizes utility over luxury, valuing his time more than a new car.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/whats-behind-warren-buffetts-car-philosophy-heres-why-the-billionaire-refuses-to-buy-a-new-one/articleshow/124013527.cms
+- 7 penny stocks surge up to 55% in just 5 days. Did you invest in any?
+  Seven penny stocks have posted impressive gains, rising between 25
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/7-penny-stocks-surge-up-to-55-in-just-5-days-did-you-invest-in-any/slideshow/124024240.cms
 
-- A lost year for Indian equities: Sensex delivers 0% returns in 12 months, leaves investors empty-handed
-  Indian equities have underperformed in the last year, with Sensex posting a -0.7% return. Weak corporate earnings, persistent foreign investor selling, and high
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/a-lost-year-for-indian-equities-sensex-delivers-0-returns-in-12-months-leaves-investors-empty-handed/articleshow/124012743.cms
+- Top 19 high-conviction stocks from Choice Broking offer up to 35% upside
+  Choice Broking has identified 19 high-conviction investment ideas across nine sectors.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/top-19-high-conviction-stocks-from-choice-broking-offer-up-to-35-upside/slideshow/124024067.cms
 
-- Building a robust corporate bond market key to India’s growth: SEBI, PFRDA, IFSCA, and ASSOCHAM officials
-  India's corporate bond market is gaining prominence as a vital source for funding national growth. SEBI emphasizes the need for efficiency and transparency. Pension funds are crucial for infrastructure projects.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/building-a-robust-corporate-bond-market-key-to-indias-growth-sebi-pfrda-ifsca-and-assocham-officials/articleshow/124012685.cms
+- $100,000 H-1B visa fee among 7 key factors that will steer D-Street this week
+   markets brace for impact of US President Trump’s $100,000 annual H-1B visa fee. FIIs remain cautious amid currency volatility, DIIs are supporting stability. Technical indicators suggest a positive bias, though short-
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/trumps-100000-h-1b-visa-fee-among-7-key-triggers-for-d-st-this-week/articleshow/124023729.cms
 
-- "Likely To Have Humanitarian Consequences": India On Trump Hiking H-1B Visa Fee - NDTV
-  "Likely To Have Humanitarian Consequences
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOZmY3MnZaZHVLbG05SWZiaGpHbldnb0oxR1VwdE9DTURhRUp0UkJhcUpsdFZZSXJ5d0dzS0Rvd25wekJNNHAyTzhfcWY3c1NVUTdSaXRJUDcwblpMUF9XMVVUTER5RkxkbjlNY0dULTVmNlczbkhnWldpNE1fdGxqVDU3SFN5azBoRUhacXU1RXFkeldTZ24xRzVHV1A3d0JRd2lwS0hJZnZ2NDZMeUdndjEwUGZyZG_SAb8BQVVfeXFMTkFiOElVVF82OEJHZnl1cGhUTGdOVzhOVGh3a04yZ3czRnVWZlNKVEYxTjRzM3I0ZHdFT2NlWGZVeEdHYzNQc200aDRUb1BaM3diSG5aLXExOGVPTHoxUlAyLTk5UkJZRlF3YmlHdVJwbkZBUVM3WkpBOHJjX2tvT2Q3NmFBaC1IbDVHV0VmS3pocFNyU1Zia2swaG1Sb2l0LUV3YUNOY1JkbV9MaW1nZlpyZnJiRDFLUEdaSVVQaDg?oc=5
+- Embassy on alert: India issues emergency number after Trump's H-1B fee order; tech industry braces for fallout - The Times of India
+  The Times of India reports on the fallout from President Trump's H-1B order.
+  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxQaVZuUVhPWFRzd3kxbTVaTFBwdW94M1lSN1lzaU82YnYySEdqMUVEdWpkaEM1WHZmbkcwaFdzNUNQMXRuSkZNaVllRjV1ZUFaYzJoVkd1VWxjaktQYURMLWEtVXoyM2E5enBDM25fcHNpYmwyaTRSb2xNMUZfbXJ0S1V6aURiaHB6dEMyajIwV245bXVjcTNpdFloUUpvY2d5YjRjUlpNZTRqU3l6LUo1dmFPalZXUW41Z1h0RXVDakYxS0ctakcwUl81ckxwWm8td3NBeGc4ZF9pVU04QnZsdzdQRXR5a3A0WFhzWF9KSElSNDFTblVUakQ3RVBRTUhOUG96Y194VWlOSTNfQ2dGYlZQZU1aa0U?oc=5
 
-- India-US airports in turmoil? Flight fares surge after Trump's surprising H-1B visa move; ‘Extremely bad situation’ | Hindustan Times - Hindustan Times
-  India-US airports in turmoil? Flight fares surge after Trump's surprising H-1B
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQVldhN2s2ZUZKcHFkMU55QThkSnVpazhBYUVtdVVFbDdRUm9PalRYeUUyYmFZX2NOSlhzSjQ1TUN2cHVkS1hPYWhMVTNwRlNMYzVPTWFKNTJ5WUVDeFZ6aERTTkczN0hXUmo3TzFlWlhUdFhmTG1KWUJUTkpIbmJUeDZOVUV6VTZqenF1Y0ZNbTM2ZGctQjBhMGtlQzcxQzFIdXRHMWxYUHA0NEJBcW16aFZ4R28xRVBaYjVLUkNpLTB6a3loVmlkdFdLeUgxVEI1a1pmVnZTZXItWVM4ampMbjA1QW9GN1JBSmlCcmhxM040QTVoQzk2VW50SHFxNHpSVjBReXgyalplel9R0gGSAkFVX3lxTE9iU245TzNFR0d5a0lYY0VBVThGQUcxOThFN2dNM20td09ROFJlcWN5TGlRdnc0bXNZMEhGRDBtV2pDWDE5UEdmVVhCSENhTkQwQmF2Q255eDZlamZZZkFKSkxTQnpCT2xEaUxHV2huQnJwM1hSM2NiSzNMMU1PS0p5ZnpmbUhWWlZTbWxDNEpub2VUTU56M2wtZHZFWkd2TXV1YUVVdEVMOWRDMXVqVldJQ2lkTFo3RmRvc0QtRFpNdnBQdXVYMGlPLThmU0Jmc1hyLWtqQ2wzR1h2S1hPZkNsdWJyRzVrT3prOVM4blplaFREaXVmVkFwRzVzbnQ3bjY3MzhWR1NEd3JXTk9Ya2k4dGc?oc=5
+- Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is War With India - NDTV
+  Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFA3V0NDeDhaMlItR0ZrdEptOXJXTXRLRnc2SFRzQ2s5Z1BTRVczdmpxY2dsbHk1VzVlSXVySG82TzNQeS1zUXhQYXg0OWFndnFTQVptSVdtc0E4QmRpVWE0ZGNrTUJkbWNDVGoxNVJNakFHOHJtcmJuNTNkWFpjV0EwRm1VTlRrcUNxa00zWURaMDd3ZUxYbTU0dFNVLUx1R0N6WUhXbWNMSEYtSmhzLTFGcGl5UVhsbnRJTEdBTXB0VXB5aThZREw4ZDkwWGxYOTBTbUJGNFZIMGd6Tjc2ZjA4Q2lQcGR0WTBuekN1aTRPQ2k1MG9NblFNaWhpZGxDMUV2R9IBjAJBVV95cUxOWUlJcVNLTFh6b3VjMUtPVnYxdVFUSnIwazV5ZGRCb1E2dDdWYVAtS1dmUzZxLXgzVUc0aHZNOHhoOXo3cFZtTmxxTTJYS3lpQ3JrdnF4RGN4dkdWd0kxOF85YVV5aENmeXdOR3VESGlxZ3ViTnRlNEtXZFdGUmpGWGZJbURDV0VEMFBwWTRxSXdZck5qc1oxMXB1N3U0dmwyX0lSTENoTElDZkYyRTZIN2FES1NvRDdKbHd0alZFTWhCMlN6V0h1LXV1Tmx4Sllrc19FcG5VbGtXbmd6QnNlVHk5OVlhVGNJaU9EVXQzMWRBU0ZoVEl3ZEdDRVplekd0M1A3MmtiVnFlalBu?oc=5
 
-- Hardik Pandya: The man Pakistan fears the most - Times of India
-  Hardik Pandya: The man Pakistan
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPdC15RWw3eWxzQTl6ZEtrMEViNy1xZEduUGNFd2UwaklNdTZIbWVkNWQ3dHZ1QnZNaVhHZldCSHd5MklqYjF1VTNhZXMxRXJwcU9BRmc1LWdkb2hEVTFYMUhXci1vU0ppMTB3R2dRWEcxUkI4RGRmcUdFSndsVldIMlZWbUg5ZU5oVkRBZGJlZXpsZ3FjWjBEeFkzcjZsUjZpelgtNnprM3EzWXNYLTZCc2hVUW0yR29TS2gzNWNPMTcxdjRYRG53UjJxa9IB0AFBVV95cUxPR3NlOHNUNDZyczc0WnItWEZXVXVod0hfcGNhVThVYkdZeEptLVhpejFyVVpVcXYxYmxLSGFsWjFQNHEtYjR6a0ttSnZaU091dlFaYjdoYzNqMVBnWWdmamhOSFFKM2JzNksxVW1MOEVWV2dUT204V3pMdDNaaHlHbDRneHhrTmVMYmFNVXhCQ2pBbG1FRFRaS0ZJN1lOZUNQc2N1dHBBdmVUeTFERmw4U2R5blB1THpTeDQ4TW9oZXBGQVVyU2RWU2lOem5haVlJ?oc=5
+- Declared ‘stateless,’ litigant approaches Madras High Court 34 years after being born, raised in India by Sri Lankan parents - The Hindu
+  'Stateless' litigant approaches Madras High Court 34 years after being born,
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNSC1rbnhYNjgwTVBvNnYxODAwU2RnMlA3bWhpX0g1QUNnekR0NDZNQV9QOGY5Ym43R3Zmc2Rqd2FfSXF6QVdVZVBLRnpxSDU0X0VjVG9sd0R2cU5tcEwzNEtFczRtQWVJcTVnQ3BjMnpLTWQ2WEpGREEyRWZEMUxhQmU4QnRZNk1yN05ILTd6cFhwaWRtTXZiRGdNQ00ydXJzS29vRmU5WWlZS0V5Zmo4ZGZGRm1LUHFxNFp6RGlvbHgxb3o5clNvNzM5V016TFl6STlKeFF3eFpxN3VOVjQ2ZUpTc0pLT29RZDJBQXBFdFViTkg4Y2l5ODJnRmhaekJCV2VoTS1nOEMtRl9KRFZUcW1kUU4xVUQxNmfSAaACQVVfeXFMT21FejdXalQyaVJrUWN4dEtpSUxMdFBmbWpzc0pqcmxxd3RrUjBzQlV0Y1FaT013dWlCQ0FhN19VcTBCYU5FUHNxcDZGMGxVSWdfRmhNbUtrdzBJWmlYa1ZGT0hRbTIzM2RvS0JOUUF1dkhmekRiWTJRRXFWZ2lyRVVpMngxbFlEckJPQ19CaDN4am1PanAxY2hYbTNjcXRVMWRCc3V3Sjhsenpnd2pVY2dWQlV4YmFObUVaelRnTVFrTWIzelJFel9DcVdNejRkbHp1aC1URHowTng5NXYtQk43VTdaMk1WQzRpNGhPSk4tRGtSVmEwT3FWUU96YjhOQVgwTTdzb0NQLXVuR2ZsOFpEU0RGd0wtM3FHX3pTR1E5?oc=5
 
-- 28 Firms Keen To Tie Up For AMCA Stealth Fighter Project, Says HAL Chairman - News18
-  28 Firms Keen To Tie Up For AMCA Stealth Fighter
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQWmIwZ2h0LTYwRi1qdHRLU0pEOUJpV0Q2TS1UcUt6RUtDMEJmMnVNOE1JRkNuYUVuRDdFYkVtMVdfTDY2U0JOc29wUmZUYU5relRJdXJOSk9ZMEs4SWs4SmRNNjhVS3ZfYkFaTHZ1S0M1YXAzRUdNRFZZdVJOMTE4bGR1R3dNX0ptU0xicTRWdXFkOXRONHhQUW1pTWktZGVUaWRJQ1pkMHQtMnBQMzJfR21KZGZHTUHSAbwBQVVfeXFMTjF1a1NCVlRmYmQwWVlKU01TeTVtMDRJQ1ZYVk52dkhweldfamx6U2ZsdWVqNHFGbzFpdVU1ck4wcmFDbV9RbmlfdzBfd1Boc2hMQkl6N0dGQTJTVGRfUVNhT0loZ2p0RTNHQkQxaDF0UVZORHZMdWNFWjRuem84OUlIZzZfSFprWk1DX09DNC1JTVlMQ3hHREE5alhKSEtqNnUyN0pxVEZCZ21EQlhpLTFNZTRSajN0b2U2T1E?oc=5
+- Trump’s H-1B visa order: Airfares soar as Indian professionals scramble to return to US | Latest News India - Hindustan Times
+  Hindustan Times: Airfares soar as Indian professionals scramble to return to US
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdlJzSEQ4ZURTcldXVzVRLUR2N0hwengyZS1HMmtJa1RhN1VUbHJtcG9CZE9CTWl5TDdTR1RXV0hZUThUdWdIb25waTZyYlNqeGxvUmJYZVY3Y09HX1pUNnM2bEZLeHJ6dHN3WTZCYXhmNTJEU2ZER29ub0s3N0hfdXp1NEtqUndGN1A0UUxKbVdEYWJ3TjBHU0pMdmdCNjlKMzZSX2VLN3hCbG1fb18yYnhnd0hUZjhWVHNNWGFTVHBuTXFEQTEwX1pfSVgzRXR1c20tU3FYSHMxbjlkMkxXNDVn0gHnAUFVX3lxTE52WURORVgzWGh0ZWVEcnFDZ2NwX0RJRWJoNGQ5aVV0OVM4cWV3R2JVQWdPNEtwTnB0a3dOaUY4NkVjczk3bjZXNUFVa3EyRVJMOUtjYW00R28wRHFtRXp5YmRwYTJJcThKYkFLVU1rdFUtcWFjQWlVUmJTeEZnaGVnMmNWTnlnVTlaQnZZeFU0NmpUVDBUSkl6NEVPZDBaWUJiZHVyTjJVVklVQWV6TTVIN2lqRlpUNXcwSEhkZG5FbUdfeXlxRTRjc2F4cmJOYTlteHJLZk5GT1FjWlRoa0hBajFseHJvRQ?oc=5
 
-- Lt Gen Adosh Kumar calls for ‘quantum leap’ in India’s kinetic & non-kinetic military abilities | Hindustan Times - Hindustan Times
-  Lt Gen Adosh Kumar calls for ‘quantum leap’ in India�
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRHVVeU1RTHE2UW9lcmRjLXNOZUVEbXNUV2VPTzBPSFBKSjFXUkZ4WnJqd3JXRkE1YmN3ck1kZEtkNWc1SXZEcVV3em84M2R3T0g3ZUJzazdaVVM1d1ZnYWtfNldWOE56OVczdmZnTXZKMXRMbUMzVDRabWp0YnZEdERuNmk1NkVzSFJwUW1TelJVS2UwalpDZ0Vyb1otM1k3UGZOVTllSkVzSm02Y0l0VWpzejFOd0FGR3IyWmpxS1BoYkNrdm9mRXZMb0h4NDNidURTeGE0QU9XU2FLTEtVMzNhQUFOa1JqZE52S3RNTV9Wd9IB9wFBVV95cUxOZ19pZ1NaTzhZeVFvVGdoYWd6SG5LUS1yalJaRG1ORW5LYVE3LW54SDA3TEUzTUQ2cW1VZ2paZm0xNFFtM1FyNGE0QkhwRDZYZ2hBMXo2UHE2eVhRTm9mdXZ5ZVlMVndCTW1QTzJmQjd0aldfSjRYZmlUZ212UnhhQ213bDRncFJHMTRUSnItTDRvRXZfbFNiUHB2Ti1ZRFgyUFBTcy1hdzIzWl9lNHVPdnR1bmwzRVJxM3Z6d0FHTlBSSlJSTkhMN0ZMRTItdUNBc3lZYk9Iby1iRTlvYmljbUJIYkZOMmhvZDJMcERJMFcya3dvTnhr?oc=5
+- PM Modi Speech Today Live Updates: On eve of GST 2.0 launch, PM Narendra Modi to address nation at 5 pm - The Indian Express
+  PM Modi Speech Today Live Updates: On eve of GST 2.0 launch, PM Narendra Modi to address
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOelR3cXE1Y29EdVVQRFZBYVJDZnZEQktnTUhrbS1SVl9QRlludmFWS2pMcFdmZndnV0FTdWtjZXZRR2h2V0k0ZlBJd3lxWjU2bmRaUVZmeG8yUG5rSmNwcHdYa0pCeEplQ09RT3JrcFl5Q0NLOUVOWlRuY0Zub0hXWXhXdkpoMHRyWng5Y1BUTGJXZk41SnR5a3k2SzA4dTZac1pXZHJrakVwS3k5ZWRNZjhFNlhkSlVmTjVIWWFLTV9EbElnOVZJTjRoR3ZQb0NyUTY5cTEzTdIB1wFBVV95cUxOelR3cXE1Y29EdVVQRFZBYVJDZnZEQktnTUhrbS1SVl9QRlludmFWS2pMcFdmZndnV0FTdWtjZXZRR2h2V0k0ZlBJd3lxWjU2bmRaUVZmeG8yUG5rSmNwcHdYa0pCeEplQ09RT3JrcFl5Q0NLOUVOWlRuY0Zub0hXWXhXdkpoMHRyWng5Y1BUTGJXZk41SnR5a3k2SzA4dTZac1pXZHJrakVwS3k5ZWRNZjhFNlhkSlVmTjVIWWFLTV9EbElnOVZJTjRoR3ZQb0NyUTY5cTEzTQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-21 01:15:57 UTC_
+_Last updated: 2025-09-21 06:24:55 UTC_
