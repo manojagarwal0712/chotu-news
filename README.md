@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Tripura Civil Society to hold 12-hr statewide strike on Oct 13 over ‘non-implementation’ of Tiprasa Accord, other demands
+- Dhami visits Chamoli, hands over Rs 5 lakh ex gratia each to kin of deceased
   
-  🔗 https://indianexpress.com/article/india/tripura-civil-society-to-hold-12-hr-statewide-strike-on-oct-13-10261817/
+  🔗 https://indianexpress.com/article/india/dhami-visits-chamoli-hands-over-rs-5-lakh-ex-gratia-each-to-kin-of-deceased-10262072/
 
-- Amid BJP opposition, Kerala govt-backed Ayyappa Sangamam gets Yogi stamp of approval
+- Rs 5L ex gratia each for kin of 2 jawans killed in Manipur
   
-  🔗 https://indianexpress.com/article/india/bjp-opposition-kerala-govt-ayyappa-sangamam-yogi-adityanath-10261762/
+  🔗 https://indianexpress.com/article/india/rs-5l-ex-gratia-each-for-kin-of-2-jawans-killed-in-manipur-10262053/
 
-- 5 stories you must read today, September 20: From Allahabad HC’s caste ban to Mohanlal’s Dadasaheb Phalke Award and more
+- Engaged with 7 PMs, RSS: Malik to court as NIA seeks death in 2016 terror funding case
   
-  🔗 https://indianexpress.com/article/india/express-catch-up-5-stories-you-must-read-today-september-20-10261657/
+  🔗 https://indianexpress.com/article/india/engaged-with-7-pms-rss-malik-to-court-as-nia-seeks-death-in-2016-terror-funding-case-10262060/
 
-- A knife, a garden hose, and a plan – how two jailbirds flew out of Jaipur Central Jail
+- Uttarakhand SSSC exam today: Paper leak accused, aide held for promising success in govt job test, demanding Rs 15 lakh
   
-  🔗 https://indianexpress.com/article/india/a-knife-a-garden-hose-and-a-plan-how-two-jailbirds-flew-out-of-jaipur-central-jail-10261671/
+  🔗 https://indianexpress.com/article/india/uttarakhand-sssc-exam-today-paper-leak-accused-aide-held-for-promising-success-in-govt-job-test-demanding-rs-15-lakh-10262040/
 
-- ‘Intoxicated’ trainee constable fires at senior colleague Umaria
+- Huge fee can potentially kill H-1B, but Delhi keeps its fingers crossed
   
-  🔗 https://indianexpress.com/article/india/intoxicated-trainee-constable-fires-at-senior-colleague-umaria-10261564/
+  🔗 https://indianexpress.com/article/india/huge-fee-can-potentially-kill-h-1b-but-delhi-keeps-its-fingers-crossed-10262037/
 
 - Trump to impose $100,000 fee per year for H-1B visas, in blow to tech
   
@@ -60,6 +60,10 @@
   Since January, Trump has intensified crack down on immigration. His latest proclamation raises H-1B visa fees to $100
   🔗 https://www.livemint.com/companies/news/h1b-visa-fee-hike-who-will-pay-1-00-000-visa-fee-employee-or-employer-heres-all-you-need-to-know-11758368548697.html
 
+- Chinese Savers Have $23 Trillion And Few Options Beyond Stocks
+  Chinese households are tiptoeing back into equities, driven in part
+  🔗 https://www.livemint.com/market/stock-market-news/chinese-savers-have-23-trillion-and-few-options-beyond-stocks-11758414000238.html
+
 - Dividend Stocks: Bajaj Holdings, BEML, Paisalo Digital, among others to trade ex-dividend next week; Full list here
   Bajaj Holdings, BEML, Paisalo Digital, Divyashakti, Gujarat Fluorochemicals, Gujarat Intru
   🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-bajaj-holdings-beml-paisalo-digital-among-others-to-trade-ex-dividend-next-week-full-list-here-11758376316548.html
@@ -75,10 +79,6 @@
 - Gautam Adani's net worth jumps  ₹299 crore in a day after SEBI's clearance from Hindenburg Research allegations
   Adani Group market cap surged  ₹699 crore
   🔗 https://www.livemint.com/market/stock-market-news/gautam-adanis-net-worth-jumps-rs-299-crore-in-a-day-after-sebis-clearance-from-hindenburg-research-allegations-11758363251258.html
-
-- Stocks to buy under  ₹200: Mehul Kothari recommends three shares to buy or sell despite Trump's H-1B Visa fee increase
-   Mehul Kothari recommends three shares to buy or sell despite Trump's H-1B Visa fee increase
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-recommends-three-shares-to-buy-or-sell-despite-trumps-h-1b-visa-fee-increase-11758357426939.html
 
 - Chatbots Are Hurting Our Kids. Here’s What We Can Do.
   Teenagers have expanded their digital repertoire. While many of us are still
@@ -100,6 +100,26 @@
   Apple's iPhone 17 series launched in India on 19 September. Quick commerce services like Blinkit, Flipkart Minutes, BigBasket and others offer instant home delivery of the devices within minutes
   🔗 https://www.livemint.com/technology/gadgets/from-flipkart-minutes-to-bigbasket-top-quick-delivery-platforms-offering-iphone-17-series-at-your-doorstep-11758351650387.html
 
+- Dow, S&P 500 close at fresh records, log big gains for the week after Fed rate cut: Live updates - CNBC
+  Dow, S&amp;P 500 close at fresh records, log big gains
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1LSzNPSTB1RzZJbGNta3YxOUZFNElQWmJrUHdPTk5RZFJSMHlvMlZDVHdhNXB6ZWdIejVzVmUyTmZqNE5LZGE4RVpPbnVXLW9FOEdqaVVmc3JXeHVwY3BkNFF5RE5MaF96aElmbVBmMS1QMHNuMTVv0gF8QVVfeXFMUEdWYjRkQmc5OERMLWRoMnRjQ2VqUkdhOG5odnRBRDdXRG9TMHFVTnlEX1pZUHNBV2M0RDh5b25PUlBHNFctdGkyaF9XaDNwa1hBeXp3UFFvSlY5NTZvRnFVYm1hamtta3J0QmtHLTNjR2tjNXFrcmdUVUN6TQ?oc=5
+
+- Markets hit record highs as ‘Fomo’ infects investors - Financial Times
+  Markets hit record highs as �
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE53T291dm10TzZaN3JrLURUcDY4NTUtb1ZYNklwQXdHeF9rSUZOazFaY3NvaFNTWUhoY2lDeWpENE1ZX2tCTWZWT2UzMzdtY0JqMndOblpxQkFYQUxMRjY3bGVnZ2lnZ0drbGcwZ0pRWmw?oc=5
+
+- State plans to revamp 50 markets to boost trade - Times of India
+  State plans to revamp 50 markets to boost
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYm1nQXJlazI0UkNqSjA5ejVzVm5SQlR6Wm5BUUxaWVIteF9CNk1IcVo3U1l2RjctZjdiVWdhTXZ5dm1HMEkxRE8xb3FPR05mblBrXzZxOTNGbUFja3lIYTZiZDZQT2FTSkNFTTh4MGJaSjVndllDQ0N6Q2loWkVuZkFtWVRRS1ZZQmhsdWk3LVBvOXZCak85bTdHc1htcDRlS2JZd2Y1UTUtMGEyeW5qWW1UYk5rMzZLTHEzNVVNSUjSAcYBQVVfeXFMTUJZLTRFQVRRdDA4S29sc3VyamlkMm82emE1dmZIVGVINmk2SUcwaUg3VTdJekRMYXZ3ak51NWhya2JUMEZQRmZ4Vmk2a1A3ckJnOXRQWk05aFlEMFB2XzUwazFuWXdDcmhzSmJYdUUzYkQ1UllZTFJmS3pQM01Cc00zLURzXzl0TVkwS0w3Yi1TczVfM0J6a3plaGRZanpValdleDQ4UHhqUnF6OVhWdDlKY19UWFZ2TmFUaEVKQkJlVUtSVjln?oc=5
+
+- IT stocks set to take a hit as markets open for the week - CNBC TV18
+  IT stocks set to take a hit as markets open for the
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOGVGMERuNUd2RnZGc3pqU0VmUllwWWlPT2Rjb29GMVdJeU5SSEw4b3g5Y0dNMEVLcUhtNGkyNHhuMDh1T1ZPcnVqZG82bkhkNjg5RE10d0xiYXJjLVFqTjRDaV9KZndBVldveEZhRjJ5bzZJeEhLZ3pJZWJaeW5vcXZwY3Z1dEhTUGtSb09YWS1EWE5lUndxbWlhem9QOXlpQXVzUE9hLTQ1Z9IBrwFBVV95cUxNYXFNNVBteE9FTGZUMnNOdUxpclo3YkRxVHVHZnZnXzlkQ013aUNGMzV1VWdWMlBFRFUyN3BXeXFLd1JfMjdPLXJDazVGVDdROVE0Y0JmVjZHeEdIekVGbmxLN1dwMjBlRVhybHR3bmM3ZjVPSzFOdHBlQjg0R3VyekpmQWlfa2xzRHRybFBxVFNyT3E3RHlqa3drQ3BPSlNyLUN1N1pXWWNqdFkyU2lz?oc=5
+
+- After The Rate Cut: Investing Beyond U.S. Markets - J.P. Morgan
+  J.P. Morgan: Invest
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTkdFLV9LUWdfdE5mYlN4UkxBNHUzZVRzYVFIcDFFSndJQ2NNT2FENnZBZk1LdG05dm1vYkJaQzV2YmNVeW9tbkNLZkJ3ZGVZdGVqTFNEQzVIczdzSVl5LW9kaUJnVjd2aE9UdXRJVE9SbjMzSVFRdGxacGVqa3hhQnVlMUFMRnZmaC16ZHV5T3NKWWZuUnlXTk9wcFY3dklnS2xvMGpnZ0pCU0t0TklfX01IcFAzZ2o1anBJZUFIQnZVX1k?oc=5
+
 - F&amp;O Talk | Nifty heading towards 26k? Crucial breakout may boost sentiment: Sudeep Shah
   Indian equities marked a third consecutive week of gains, fueled by optimism surrounding India-US trade talks. Analyst Sudeep Shah anticipates a brief market pause before a potential rally towards 25,750-26,000 for the N
   🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-heading-towards-26k-crucial-breakout-may-boost-sentiment-sudeep-shah/articleshow/124014163.cms
@@ -120,85 +140,53 @@
   India's corporate bond market is gaining prominence as a vital source for funding national growth. SEBI emphasizes the need for efficiency and transparency. Pension funds are crucial for infrastructure projects.
   🔗 https://economictimes.indiatimes.com/markets/bonds/building-a-robust-corporate-bond-market-key-to-indias-growth-sebi-pfrda-ifsca-and-assocham-officials/articleshow/124012685.cms
 
-- 'Humanitarian consequences': India reacts to US H-1B visa fee hike; maps way forward - Times of India
-  'Humanitarian consequences': India reacts to US H-1B
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcnVtNldZZEwwMTdrRFZWU0d2N19QdURNaHlHUFplSV9jQ1BMVV9hN05fWGowZHhHbnNsbENHTnZSUzRnSDc4Sl9hRXItdkJYX1FzWnltSXNtS0lFYjF0TTRhcjlWbTZGRy1QNXRFZWhXdExOa1NrT1RaY3NUaTlCaFFwZTZWNVFkV1lJaXhiRzNGNjJGOUI4SHZJQzdjajBWUEhyMGp3dXRBRjhfVHlFYzVZbW1VY0pLNTJzaGlzaUhOZW9YNDdKNmFKb1BzV1ZwMzNDclVtWkV6U0lrM2dHa25kOFlUT3RkM2Etc3NkWXgzYWYzb0JiMVR30gH_AUFVX3lxTE9TVVI0SzNhZ1czUmtVWmoxWHFYUXBDX3FqZFN4X3NMTHZnbE5sVHdONnFaZ1hkSEM3WktWaFh1N2ZXaFhFbGlPdDdPUGNyVnpXRlJUdmxTc1lleHRhTG5xdGc2OEdZajFQaFFlaXpOLUxzZjBTai0welFHbUFoeFBldmlzemF6N2FLODlTYnIzdklhMGRNQnkzdEI0dmo0ZG5zZHZRU2dCN0RQSkJuc3RCMUk1bXVxeU8yc2dRMEc0eHpka0VrdUVtdkV0ZVN1elZOV19UbE5rNnNpSllpTHdKdDNFQW5fY2w4OGI1VXlVMXYxWHYwZWM5bjExQmpnQQ?oc=5
+- "Likely To Have Humanitarian Consequences": India On Trump Hiking H-1B Visa Fee - NDTV
+  "Likely To Have Humanitarian Consequences
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOZmY3MnZaZHVLbG05SWZiaGpHbldnb0oxR1VwdE9DTURhRUp0UkJhcUpsdFZZSXJ5d0dzS0Rvd25wekJNNHAyTzhfcWY3c1NVUTdSaXRJUDcwblpMUF9XMVVUTER5RkxkbjlNY0dULTVmNlczbkhnWldpNE1fdGxqVDU3SFN5azBoRUhacXU1RXFkeldTZ24xRzVHV1A3d0JRd2lwS0hJZnZ2NDZMeUdndjEwUGZyZG_SAb8BQVVfeXFMTkFiOElVVF82OEJHZnl1cGhUTGdOVzhOVGh3a04yZ3czRnVWZlNKVEYxTjRzM3I0ZHdFT2NlWGZVeEdHYzNQc200aDRUb1BaM3diSG5aLXExOGVPTHoxUlAyLTk5UkJZRlF3YmlHdVJwbkZBUVM3WkpBOHJjX2tvT2Q3NmFBaC1IbDVHV0VmS3pocFNyU1Zia2swaG1Sb2l0LUV3YUNOY1JkbV9MaW1nZlpyZnJiRDFLUEdaSVVQaDg?oc=5
 
-- Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is War With India - NDTV
-  Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFA3V0NDeDhaMlItR0ZrdEptOXJXTXRLRnc2SFRzQ2s5Z1BTRVczdmpxY2dsbHk1VzVlSXVySG82TzNQeS1zUXhQYXg0OWFndnFTQVptSVdtc0E4QmRpVWE0ZGNrTUJkbWNDVGoxNVJNakFHOHJtcmJuNTNkWFpjV0EwRm1VTlRrcUNxa00zWURaMDd3ZUxYbTU0dFNVLUx1R0N6WUhXbWNMSEYtSmhzLTFGcGl5UVhsbnRJTEdBTXB0VXB5aThZREw4ZDkwWGxYOTBTbUJGNFZIMGd6Tjc2ZjA4Q2lQcGR0WTBuekN1aTRPQ2k1MG9NblFNaWhpZGxDMUV2R9IBjAJBVV95cUxOWUlJcVNLTFh6b3VjMUtPVnYxdVFUSnIwazV5ZGRCb1E2dDdWYVAtS1dmUzZxLXgzVUc0aHZNOHhoOXo3cFZtTmxxTTJYS3lpQ3JrdnF4RGN4dkdWd0kxOF85YVV5aENmeXdOR3VESGlxZ3ViTnRlNEtXZFdGUmpGWGZJbURDV0VEMFBwWTRxSXdZck5qc1oxMXB1N3U0dmwyX0lSTENoTElDZkYyRTZIN2FES1NvRDdKbHd0alZFTWhCMlN6V0h1LXV1Tmx4Sllrc19FcG5VbGtXbmd6QnNlVHk5OVlhVGNJaU9EVXQzMWRBU0ZoVEl3ZEdDRVplekd0M1A3MmtiVnFlalBu?oc=5
+- India-US airports in turmoil? Flight fares surge after Trump's surprising H-1B visa move; ‘Extremely bad situation’ | Hindustan Times - Hindustan Times
+  India-US airports in turmoil? Flight fares surge after Trump's surprising H-1B
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQVldhN2s2ZUZKcHFkMU55QThkSnVpazhBYUVtdVVFbDdRUm9PalRYeUUyYmFZX2NOSlhzSjQ1TUN2cHVkS1hPYWhMVTNwRlNMYzVPTWFKNTJ5WUVDeFZ6aERTTkczN0hXUmo3TzFlWlhUdFhmTG1KWUJUTkpIbmJUeDZOVUV6VTZqenF1Y0ZNbTM2ZGctQjBhMGtlQzcxQzFIdXRHMWxYUHA0NEJBcW16aFZ4R28xRVBaYjVLUkNpLTB6a3loVmlkdFdLeUgxVEI1a1pmVnZTZXItWVM4ampMbjA1QW9GN1JBSmlCcmhxM040QTVoQzk2VW50SHFxNHpSVjBReXgyalplel9R0gGSAkFVX3lxTE9iU245TzNFR0d5a0lYY0VBVThGQUcxOThFN2dNM20td09ROFJlcWN5TGlRdnc0bXNZMEhGRDBtV2pDWDE5UEdmVVhCSENhTkQwQmF2Q255eDZlamZZZkFKSkxTQnpCT2xEaUxHV2huQnJwM1hSM2NiSzNMMU1PS0p5ZnpmbUhWWlZTbWxDNEpub2VUTU56M2wtZHZFWkd2TXV1YUVVdEVMOWRDMXVqVldJQ2lkTFo3RmRvc0QtRFpNdnBQdXVYMGlPLThmU0Jmc1hyLWtqQ2wzR1h2S1hPZkNsdWJyRzVrT3prOVM4blplaFREaXVmVkFwRzVzbnQ3bjY3MzhWR1NEd3JXTk9Ya2k4dGc?oc=5
 
-- Sunil Gavaskar blasts Pakistan for no press-conference stance in Asia Cup; Indian legends suggests ‘a point could be…’ - Mint
-  Sunil Gavaskar blasts Pakistan for no press-conference stance in Asia
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxOM0R5aGRwZjQ5U1JPV2NvVTlaNE5TeHJldnAySVh6ZXJHeDFyOExwcTZwazlnV2xqTVZuTXNqU3g0ZENoWFlVbTk3ZDltUzY1V3lFU2xrWk9IRngtRHZzSy1iRXpKREY2NUFGVnVzOHh0V29wMHcyOGNETGJpeURYMVFzS3pibGoyVkF3ZGQ1aUNydmVHOVBlUm4tZ0szRXhZeXE4WlEwOUVCdzJXQVFBS0dpSHI5TlhIU1E2Vkw1TVFzUW5LYkRWTEgwOUJWX1VlWGhvWU1wV25OVWZYZm9PR000bkJQUVR4aW91UnJIWUlfMERuVnR3allSTVBEd2VyaGxKZHdnYk4wcW_SAZACQVVfeXFMT2pVbEM4X1U2R2tTeE9EZ0wwUm5JYkViTE5EcFlJaHBSYWszby1ZUTUycWc4dElpTlZhWnZWQVl5NmlBb0ZZc1RiMG1BTUNyRktVTmJvblFCZnRmXzY5WW1GZVN4emlJYXFFa082T2FRMUpyUFBwLVMwSzZ4RVZwMXRlTG93TVp3SEZkT3BPanQxNUhxWDBXejhYTnU3Rmw4R08yZHBIalQ3a0IxQlRacnpGTlFwWFBQUHFROGh2MTllWVNId2xDSkgteWVVMVRfSjhHd01MNldDSXN0bExuMzYyZG1MLUNSZjV1WkhmR3lIUDBreEdBQkdDbl9ISzI0MXNzSUdxZkpQaW5zZjd5TXY?oc=5
+- Hardik Pandya: The man Pakistan fears the most - Times of India
+  Hardik Pandya: The man Pakistan
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPdC15RWw3eWxzQTl6ZEtrMEViNy1xZEduUGNFd2UwaklNdTZIbWVkNWQ3dHZ1QnZNaVhHZldCSHd5MklqYjF1VTNhZXMxRXJwcU9BRmc1LWdkb2hEVTFYMUhXci1vU0ppMTB3R2dRWEcxUkI4RGRmcUdFSndsVldIMlZWbUg5ZU5oVkRBZGJlZXpsZ3FjWjBEeFkzcjZsUjZpelgtNnprM3EzWXNYLTZCc2hVUW0yR29TS2gzNWNPMTcxdjRYRG53UjJxa9IB0AFBVV95cUxPR3NlOHNUNDZyczc0WnItWEZXVXVod0hfcGNhVThVYkdZeEptLVhpejFyVVpVcXYxYmxLSGFsWjFQNHEtYjR6a0ttSnZaU091dlFaYjdoYzNqMVBnWWdmamhOSFFKM2JzNksxVW1MOEVWV2dUT204V3pMdDNaaHlHbDRneHhrTmVMYmFNVXhCQ2pBbG1FRFRaS0ZJN1lOZUNQc2N1dHBBdmVUeTFERmw4U2R5blB1THpTeDQ4TW9oZXBGQVVyU2RWU2lOem5haVlJ?oc=5
 
-- ‘Our only real enemy is…’: PM Modi's big remark amid tariff, H-1B visa concerns | Latest News India - Hindustan Times
-  ‘Our only real enemy is…’: PM Modi's big remark amid
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2ljckNkVDhEeWNrZnlpSFNVRjZvWEZXTmFxYWZDX1Q2Yk03X2VZV1VHZ09BVnZQZTR2ejBkdU45c2sxSGpwWTFYV1JvbER0WTh1RkRnZ2dvSTYxcTRsMTZtNDJmYjZMUGZxNDBCM0diTG10Zk1ER0k0eGNuRmwzWFNqOFkzWGVQZWpyM3RkZGZNTnNwVncwQy1oSVp0Y1dtWW85YXFjaTRVeDRzaFdrakVWS2luN0JLZG5vSFJlellVYl8wd1R4c01JeHViQUZWOWfSAdcBQVVfeXFMTmNHSWxlbVpudlBUOEJWdHFGRUlsNXZOUVZGU19vMjA2bThQU0NHOVROSnBRam5LdHRYMGVzOU5ESnVWYTdIUElkaU5VWFZsdEk0UUJlUm1NYnNwWWR4dmQwU0pib2Q5d0l0eGZ2aC1Zd01fSGtNQlRLbWlpbEgyM1FCQnVvdGFvWXNpYkZuTmY0Q2kxUVhaQnJ3RDUxMlV2dlpWTmFGRlNPUWlSMEl5Qms2T3h3SnZNR1Q5dEctMDBXRTVhc09QNExkVUdMV3lWMWp0Sk1DTmM?oc=5
+- 28 Firms Keen To Tie Up For AMCA Stealth Fighter Project, Says HAL Chairman - News18
+  28 Firms Keen To Tie Up For AMCA Stealth Fighter
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQWmIwZ2h0LTYwRi1qdHRLU0pEOUJpV0Q2TS1UcUt6RUtDMEJmMnVNOE1JRkNuYUVuRDdFYkVtMVdfTDY2U0JOc29wUmZUYU5relRJdXJOSk9ZMEs4SWs4SmRNNjhVS3ZfYkFaTHZ1S0M1YXAzRUdNRFZZdVJOMTE4bGR1R3dNX0ptU0xicTRWdXFkOXRONHhQUW1pTWktZGVUaWRJQ1pkMHQtMnBQMzJfR21KZGZHTUHSAbwBQVVfeXFMTjF1a1NCVlRmYmQwWVlKU01TeTVtMDRJQ1ZYVk52dkhweldfamx6U2ZsdWVqNHFGbzFpdVU1ck4wcmFDbV9RbmlfdzBfd1Boc2hMQkl6N0dGQTJTVGRfUVNhT0loZ2p0RTNHQkQxaDF0UVZORHZMdWNFWjRuem84OUlIZzZfSFprWk1DX09DNC1JTVlMQ3hHREE5alhKSEtqNnUyN0pxVEZCZ21EQlhpLTFNZTRSajN0b2U2T1E?oc=5
 
-- Why India shouldn’t be worried by Saudi-Pak deal - The Indian Express
-  The Indian Express reported that the deal was
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1N2SVEyR0FMeG5jR2JMUVFNcWw2WFZzcTV2MGd1ZG1mYVZCazRRTFpaOXRsYXdzODJXMkVCb2VMeFdfZEdaenlEbm4xbWNSeHRNTWN5cHFaMVdPMDlRQ2JTTmtlUU5QVVRscGxySnREaG05OGdwQkFvT19VN2wwdWpuYmVPWVNtTmJGLXczb1VNeER4QkNCZmVVeU92d0dNbDNB0gGqAUFVX3lxTE1SQXFiTXh4aHlmXzFGWnFpcjBiMDNrY1o3S3M0Zkd5TTY4Z1Q4MkF5aU1UWnRDZHU2aDd3TFZSSEVfcjhwS2pHcXRfZklMcGVyMkEzRFRaYVJkZExhU2hCZVBoSjRSTmtFS2o1TDRpeTBIZjNZVnFaYXZsdDNMRnBLa3RaQmE5ZEpyQkYtbHdCRG9HUkRmSEFDN3IyZUFTR3FUNjdSNk5CejJn?oc=5
+- Lt Gen Adosh Kumar calls for ‘quantum leap’ in India’s kinetic & non-kinetic military abilities | Hindustan Times - Hindustan Times
+  Lt Gen Adosh Kumar calls for ‘quantum leap’ in India�
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRHVVeU1RTHE2UW9lcmRjLXNOZUVEbXNUV2VPTzBPSFBKSjFXUkZ4WnJqd3JXRkE1YmN3ck1kZEtkNWc1SXZEcVV3em84M2R3T0g3ZUJzazdaVVM1d1ZnYWtfNldWOE56OVczdmZnTXZKMXRMbUMzVDRabWp0YnZEdERuNmk1NkVzSFJwUW1TelJVS2UwalpDZ0Vyb1otM1k3UGZOVTllSkVzSm02Y0l0VWpzejFOd0FGR3IyWmpxS1BoYkNrdm9mRXZMb0h4NDNidURTeGE0QU9XU2FLTEtVMzNhQUFOa1JqZE52S3RNTV9Wd9IB9wFBVV95cUxOZ19pZ1NaTzhZeVFvVGdoYWd6SG5LUS1yalJaRG1ORW5LYVE3LW54SDA3TEUzTUQ2cW1VZ2paZm0xNFFtM1FyNGE0QkhwRDZYZ2hBMXo2UHE2eVhRTm9mdXZ5ZVlMVndCTW1QTzJmQjd0aldfSjRYZmlUZ212UnhhQ213bDRncFJHMTRUSnItTDRvRXZfbFNiUHB2Ti1ZRFgyUFBTcy1hdzIzWl9lNHVPdnR1bmwzRVJxM3Z6d0FHTlBSSlJSTkhMN0ZMRTItdUNBc3lZYk9Iby1iRTlvYmljbUJIYkZOMmhvZDJMcERJMFcya3dvTnhr?oc=5
 
-- 'Humanitarian consequences': India reacts to US H-1B visa fee hike; maps way forward - Times of India
-  'Humanitarian consequences': India reacts to US H-1B
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcnVtNldZZEwwMTdrRFZWU0d2N19QdURNaHlHUFplSV9jQ1BMVV9hN05fWGowZHhHbnNsbENHTnZSUzRnSDc4Sl9hRXItdkJYX1FzWnltSXNtS0lFYjF0TTRhcjlWbTZGRy1QNXRFZWhXdExOa1NrT1RaY3NUaTlCaFFwZTZWNVFkV1lJaXhiRzNGNjJGOUI4SHZJQzdjajBWUEhyMGp3dXRBRjhfVHlFYzVZbW1VY0pLNTJzaGlzaUhOZW9YNDdKNmFKb1BzV1ZwMzNDclVtWkV6U0lrM2dHa25kOFlUT3RkM2Etc3NkWXgzYWYzb0JiMVR30gH_AUFVX3lxTE9TVVI0SzNhZ1czUmtVWmoxWHFYUXBDX3FqZFN4X3NMTHZnbE5sVHdONnFaZ1hkSEM3WktWaFh1N2ZXaFhFbGlPdDdPUGNyVnpXRlJUdmxTc1lleHRhTG5xdGc2OEdZajFQaFFlaXpOLUxzZjBTai0welFHbUFoeFBldmlzemF6N2FLODlTYnIzdklhMGRNQnkzdEI0dmo0ZG5zZHZRU2dCN0RQSkJuc3RCMUk1bXVxeU8yc2dRMEc0eHpka0VrdUVtdkV0ZVN1elZOV19UbE5rNnNpSllpTHdKdDNFQW5fY2w4OGI1VXlVMXYxWHYwZWM5bjExQmpnQQ?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is War With India - NDTV
-  Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFA3V0NDeDhaMlItR0ZrdEptOXJXTXRLRnc2SFRzQ2s5Z1BTRVczdmpxY2dsbHk1VzVlSXVySG82TzNQeS1zUXhQYXg0OWFndnFTQVptSVdtc0E4QmRpVWE0ZGNrTUJkbWNDVGoxNVJNakFHOHJtcmJuNTNkWFpjV0EwRm1VTlRrcUNxa00zWURaMDd3ZUxYbTU0dFNVLUx1R0N6WUhXbWNMSEYtSmhzLTFGcGl5UVhsbnRJTEdBTXB0VXB5aThZREw4ZDkwWGxYOTBTbUJGNFZIMGd6Tjc2ZjA4Q2lQcGR0WTBuekN1aTRPQ2k1MG9NblFNaWhpZGxDMUV2R9IBjAJBVV95cUxOWUlJcVNLTFh6b3VjMUtPVnYxdVFUSnIwazV5ZGRCb1E2dDdWYVAtS1dmUzZxLXgzVUc0aHZNOHhoOXo3cFZtTmxxTTJYS3lpQ3JrdnF4RGN4dkdWd0kxOF85YVV5aENmeXdOR3VESGlxZ3ViTnRlNEtXZFdGUmpGWGZJbURDV0VEMFBwWTRxSXdZck5qc1oxMXB1N3U0dmwyX0lSTENoTElDZkYyRTZIN2FES1NvRDdKbHd0alZFTWhCMlN6V0h1LXV1Tmx4Sllrc19FcG5VbGtXbmd6QnNlVHk5OVlhVGNJaU9EVXQzMWRBU0ZoVEl3ZEdDRVplekd0M1A3MmtiVnFlalBu?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Sunil Gavaskar blasts Pakistan for no press-conference stance in Asia Cup; Indian legends suggests ‘a point could be…’ - Mint
-  Sunil Gavaskar blasts Pakistan for no press-conference stance in Asia
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxOM0R5aGRwZjQ5U1JPV2NvVTlaNE5TeHJldnAySVh6ZXJHeDFyOExwcTZwazlnV2xqTVZuTXNqU3g0ZENoWFlVbTk3ZDltUzY1V3lFU2xrWk9IRngtRHZzSy1iRXpKREY2NUFGVnVzOHh0V29wMHcyOGNETGJpeURYMVFzS3pibGoyVkF3ZGQ1aUNydmVHOVBlUm4tZ0szRXhZeXE4WlEwOUVCdzJXQVFBS0dpSHI5TlhIU1E2Vkw1TVFzUW5LYkRWTEgwOUJWX1VlWGhvWU1wV25OVWZYZm9PR000bkJQUVR4aW91UnJIWUlfMERuVnR3allSTVBEd2VyaGxKZHdnYk4wcW_SAZACQVVfeXFMT2pVbEM4X1U2R2tTeE9EZ0wwUm5JYkViTE5EcFlJaHBSYWszby1ZUTUycWc4dElpTlZhWnZWQVl5NmlBb0ZZc1RiMG1BTUNyRktVTmJvblFCZnRmXzY5WW1GZVN4emlJYXFFa082T2FRMUpyUFBwLVMwSzZ4RVZwMXRlTG93TVp3SEZkT3BPanQxNUhxWDBXejhYTnU3Rmw4R08yZHBIalQ3a0IxQlRacnpGTlFwWFBQUHFROGh2MTllWVNId2xDSkgteWVVMVRfSjhHd01MNldDSXN0bExuMzYyZG1MLUNSZjV1WkhmR3lIUDBreEdBQkdDbl9ISzI0MXNzSUdxZkpQaW5zZjd5TXY?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- ‘Our only real enemy is…’: PM Modi's big remark amid tariff, H-1B visa concerns | Latest News India - Hindustan Times
-  ‘Our only real enemy is…’: PM Modi's big remark amid
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2ljckNkVDhEeWNrZnlpSFNVRjZvWEZXTmFxYWZDX1Q2Yk03X2VZV1VHZ09BVnZQZTR2ejBkdU45c2sxSGpwWTFYV1JvbER0WTh1RkRnZ2dvSTYxcTRsMTZtNDJmYjZMUGZxNDBCM0diTG10Zk1ER0k0eGNuRmwzWFNqOFkzWGVQZWpyM3RkZGZNTnNwVncwQy1oSVp0Y1dtWW85YXFjaTRVeDRzaFdrakVWS2luN0JLZG5vSFJlellVYl8wd1R4c01JeHViQUZWOWfSAdcBQVVfeXFMTmNHSWxlbVpudlBUOEJWdHFGRUlsNXZOUVZGU19vMjA2bThQU0NHOVROSnBRam5LdHRYMGVzOU5ESnVWYTdIUElkaU5VWFZsdEk0UUJlUm1NYnNwWWR4dmQwU0pib2Q5d0l0eGZ2aC1Zd01fSGtNQlRLbWlpbEgyM1FCQnVvdGFvWXNpYkZuTmY0Q2kxUVhaQnJ3RDUxMlV2dlpWTmFGRlNPUWlSMEl5Qms2T3h3SnZNR1Q5dEctMDBXRTVhc09QNExkVUdMV3lWMWp0Sk1DTmM?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Why India shouldn’t be worried by Saudi-Pak deal - The Indian Express
-  The Indian Express reported that the deal was
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1N2SVEyR0FMeG5jR2JMUVFNcWw2WFZzcTV2MGd1ZG1mYVZCazRRTFpaOXRsYXdzODJXMkVCb2VMeFdfZEdaenlEbm4xbWNSeHRNTWN5cHFaMVdPMDlRQ2JTTmtlUU5QVVRscGxySnREaG05OGdwQkFvT19VN2wwdWpuYmVPWVNtTmJGLXczb1VNeER4QkNCZmVVeU92d0dNbDNB0gGqAUFVX3lxTE1SQXFiTXh4aHlmXzFGWnFpcjBiMDNrY1o3S3M0Zkd5TTY4Z1Q4MkF5aU1UWnRDZHU2aDd3TFZSSEVfcjhwS2pHcXRfZklMcGVyMkEzRFRaYVJkZExhU2hCZVBoSjRSTmtFS2o1TDRpeTBIZjNZVnFaYXZsdDNMRnBLa3RaQmE5ZEpyQkYtbHdCRG9HUkRmSEFDN3IyZUFTR3FUNjdSNk5CejJn?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- 'Humanitarian consequences': India reacts to US H-1B visa fee hike; maps way forward - Times of India
-  'Humanitarian consequences': India reacts to US H-1B
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcnVtNldZZEwwMTdrRFZWU0d2N19QdURNaHlHUFplSV9jQ1BMVV9hN05fWGowZHhHbnNsbENHTnZSUzRnSDc4Sl9hRXItdkJYX1FzWnltSXNtS0lFYjF0TTRhcjlWbTZGRy1QNXRFZWhXdExOa1NrT1RaY3NUaTlCaFFwZTZWNVFkV1lJaXhiRzNGNjJGOUI4SHZJQzdjajBWUEhyMGp3dXRBRjhfVHlFYzVZbW1VY0pLNTJzaGlzaUhOZW9YNDdKNmFKb1BzV1ZwMzNDclVtWkV6U0lrM2dHa25kOFlUT3RkM2Etc3NkWXgzYWYzb0JiMVR30gH_AUFVX3lxTE9TVVI0SzNhZ1czUmtVWmoxWHFYUXBDX3FqZFN4X3NMTHZnbE5sVHdONnFaZ1hkSEM3WktWaFh1N2ZXaFhFbGlPdDdPUGNyVnpXRlJUdmxTc1lleHRhTG5xdGc2OEdZajFQaFFlaXpOLUxzZjBTai0welFHbUFoeFBldmlzemF6N2FLODlTYnIzdklhMGRNQnkzdEI0dmo0ZG5zZHZRU2dCN0RQSkJuc3RCMUk1bXVxeU8yc2dRMEc0eHpka0VrdUVtdkV0ZVN1elZOV19UbE5rNnNpSllpTHdKdDNFQW5fY2w4OGI1VXlVMXYxWHYwZWM5bjExQmpnQQ?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is War With India - NDTV
-  Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFA3V0NDeDhaMlItR0ZrdEptOXJXTXRLRnc2SFRzQ2s5Z1BTRVczdmpxY2dsbHk1VzVlSXVySG82TzNQeS1zUXhQYXg0OWFndnFTQVptSVdtc0E4QmRpVWE0ZGNrTUJkbWNDVGoxNVJNakFHOHJtcmJuNTNkWFpjV0EwRm1VTlRrcUNxa00zWURaMDd3ZUxYbTU0dFNVLUx1R0N6WUhXbWNMSEYtSmhzLTFGcGl5UVhsbnRJTEdBTXB0VXB5aThZREw4ZDkwWGxYOTBTbUJGNFZIMGd6Tjc2ZjA4Q2lQcGR0WTBuekN1aTRPQ2k1MG9NblFNaWhpZGxDMUV2R9IBjAJBVV95cUxOWUlJcVNLTFh6b3VjMUtPVnYxdVFUSnIwazV5ZGRCb1E2dDdWYVAtS1dmUzZxLXgzVUc0aHZNOHhoOXo3cFZtTmxxTTJYS3lpQ3JrdnF4RGN4dkdWd0kxOF85YVV5aENmeXdOR3VESGlxZ3ViTnRlNEtXZFdGUmpGWGZJbURDV0VEMFBwWTRxSXdZck5qc1oxMXB1N3U0dmwyX0lSTENoTElDZkYyRTZIN2FES1NvRDdKbHd0alZFTWhCMlN6V0h1LXV1Tmx4Sllrc19FcG5VbGtXbmd6QnNlVHk5OVlhVGNJaU9EVXQzMWRBU0ZoVEl3ZEdDRVplekd0M1A3MmtiVnFlalBu?oc=5
-
-- Sunil Gavaskar blasts Pakistan for no press-conference stance in Asia Cup; Indian legends suggests ‘a point could be…’ - Mint
-  Sunil Gavaskar blasts Pakistan for no press-conference stance in Asia
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxOM0R5aGRwZjQ5U1JPV2NvVTlaNE5TeHJldnAySVh6ZXJHeDFyOExwcTZwazlnV2xqTVZuTXNqU3g0ZENoWFlVbTk3ZDltUzY1V3lFU2xrWk9IRngtRHZzSy1iRXpKREY2NUFGVnVzOHh0V29wMHcyOGNETGJpeURYMVFzS3pibGoyVkF3ZGQ1aUNydmVHOVBlUm4tZ0szRXhZeXE4WlEwOUVCdzJXQVFBS0dpSHI5TlhIU1E2Vkw1TVFzUW5LYkRWTEgwOUJWX1VlWGhvWU1wV25OVWZYZm9PR000bkJQUVR4aW91UnJIWUlfMERuVnR3allSTVBEd2VyaGxKZHdnYk4wcW_SAZACQVVfeXFMT2pVbEM4X1U2R2tTeE9EZ0wwUm5JYkViTE5EcFlJaHBSYWszby1ZUTUycWc4dElpTlZhWnZWQVl5NmlBb0ZZc1RiMG1BTUNyRktVTmJvblFCZnRmXzY5WW1GZVN4emlJYXFFa082T2FRMUpyUFBwLVMwSzZ4RVZwMXRlTG93TVp3SEZkT3BPanQxNUhxWDBXejhYTnU3Rmw4R08yZHBIalQ3a0IxQlRacnpGTlFwWFBQUHFROGh2MTllWVNId2xDSkgteWVVMVRfSjhHd01MNldDSXN0bExuMzYyZG1MLUNSZjV1WkhmR3lIUDBreEdBQkdDbl9ISzI0MXNzSUdxZkpQaW5zZjd5TXY?oc=5
-
-- ‘Our only real enemy is…’: PM Modi's big remark amid tariff, H-1B visa concerns | Latest News India - Hindustan Times
-  ‘Our only real enemy is…’: PM Modi's big remark amid
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2ljckNkVDhEeWNrZnlpSFNVRjZvWEZXTmFxYWZDX1Q2Yk03X2VZV1VHZ09BVnZQZTR2ejBkdU45c2sxSGpwWTFYV1JvbER0WTh1RkRnZ2dvSTYxcTRsMTZtNDJmYjZMUGZxNDBCM0diTG10Zk1ER0k0eGNuRmwzWFNqOFkzWGVQZWpyM3RkZGZNTnNwVncwQy1oSVp0Y1dtWW85YXFjaTRVeDRzaFdrakVWS2luN0JLZG5vSFJlellVYl8wd1R4c01JeHViQUZWOWfSAdcBQVVfeXFMTmNHSWxlbVpudlBUOEJWdHFGRUlsNXZOUVZGU19vMjA2bThQU0NHOVROSnBRam5LdHRYMGVzOU5ESnVWYTdIUElkaU5VWFZsdEk0UUJlUm1NYnNwWWR4dmQwU0pib2Q5d0l0eGZ2aC1Zd01fSGtNQlRLbWlpbEgyM1FCQnVvdGFvWXNpYkZuTmY0Q2kxUVhaQnJ3RDUxMlV2dlpWTmFGRlNPUWlSMEl5Qms2T3h3SnZNR1Q5dEctMDBXRTVhc09QNExkVUdMV3lWMWp0Sk1DTmM?oc=5
-
-- Why India shouldn’t be worried by Saudi-Pak deal - The Indian Express
-  The Indian Express reported that the deal was
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1N2SVEyR0FMeG5jR2JMUVFNcWw2WFZzcTV2MGd1ZG1mYVZCazRRTFpaOXRsYXdzODJXMkVCb2VMeFdfZEdaenlEbm4xbWNSeHRNTWN5cHFaMVdPMDlRQ2JTTmtlUU5QVVRscGxySnREaG05OGdwQkFvT19VN2wwdWpuYmVPWVNtTmJGLXczb1VNeER4QkNCZmVVeU92d0dNbDNB0gGqAUFVX3lxTE1SQXFiTXh4aHlmXzFGWnFpcjBiMDNrY1o3S3M0Zkd5TTY4Z1Q4MkF5aU1UWnRDZHU2aDd3TFZSSEVfcjhwS2pHcXRfZklMcGVyMkEzRFRaYVJkZExhU2hCZVBoSjRSTmtFS2o1TDRpeTBIZjNZVnFaYXZsdDNMRnBLa3RaQmE5ZEpyQkYtbHdCRG9HUkRmSEFDN3IyZUFTR3FUNjdSNk5CejJn?oc=5
-
-- 'Humanitarian consequences': India reacts to US H-1B visa fee hike; maps way forward - Times of India
-  'Humanitarian consequences': India reacts to US H-1B
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcnVtNldZZEwwMTdrRFZWU0d2N19QdURNaHlHUFplSV9jQ1BMVV9hN05fWGowZHhHbnNsbENHTnZSUzRnSDc4Sl9hRXItdkJYX1FzWnltSXNtS0lFYjF0TTRhcjlWbTZGRy1QNXRFZWhXdExOa1NrT1RaY3NUaTlCaFFwZTZWNVFkV1lJaXhiRzNGNjJGOUI4SHZJQzdjajBWUEhyMGp3dXRBRjhfVHlFYzVZbW1VY0pLNTJzaGlzaUhOZW9YNDdKNmFKb1BzV1ZwMzNDclVtWkV6U0lrM2dHa25kOFlUT3RkM2Etc3NkWXgzYWYzb0JiMVR30gH_AUFVX3lxTE9TVVI0SzNhZ1czUmtVWmoxWHFYUXBDX3FqZFN4X3NMTHZnbE5sVHdONnFaZ1hkSEM3WktWaFh1N2ZXaFhFbGlPdDdPUGNyVnpXRlJUdmxTc1lleHRhTG5xdGc2OEdZajFQaFFlaXpOLUxzZjBTai0welFHbUFoeFBldmlzemF6N2FLODlTYnIzdklhMGRNQnkzdEI0dmo0ZG5zZHZRU2dCN0RQSkJuc3RCMUk1bXVxeU8yc2dRMEc0eHpka0VrdUVtdkV0ZVN1elZOV19UbE5rNnNpSllpTHdKdDNFQW5fY2w4OGI1VXlVMXYxWHYwZWM5bjExQmpnQQ?oc=5
-
-- Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is War With India - NDTV
-  Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFA3V0NDeDhaMlItR0ZrdEptOXJXTXRLRnc2SFRzQ2s5Z1BTRVczdmpxY2dsbHk1VzVlSXVySG82TzNQeS1zUXhQYXg0OWFndnFTQVptSVdtc0E4QmRpVWE0ZGNrTUJkbWNDVGoxNVJNakFHOHJtcmJuNTNkWFpjV0EwRm1VTlRrcUNxa00zWURaMDd3ZUxYbTU0dFNVLUx1R0N6WUhXbWNMSEYtSmhzLTFGcGl5UVhsbnRJTEdBTXB0VXB5aThZREw4ZDkwWGxYOTBTbUJGNFZIMGd6Tjc2ZjA4Q2lQcGR0WTBuekN1aTRPQ2k1MG9NblFNaWhpZGxDMUV2R9IBjAJBVV95cUxOWUlJcVNLTFh6b3VjMUtPVnYxdVFUSnIwazV5ZGRCb1E2dDdWYVAtS1dmUzZxLXgzVUc0aHZNOHhoOXo3cFZtTmxxTTJYS3lpQ3JrdnF4RGN4dkdWd0kxOF85YVV5aENmeXdOR3VESGlxZ3ViTnRlNEtXZFdGUmpGWGZJbURDV0VEMFBwWTRxSXdZck5qc1oxMXB1N3U0dmwyX0lSTENoTElDZkYyRTZIN2FES1NvRDdKbHd0alZFTWhCMlN6V0h1LXV1Tmx4Sllrc19FcG5VbGtXbmd6QnNlVHk5OVlhVGNJaU9EVXQzMWRBU0ZoVEl3ZEdDRVplekd0M1A3MmtiVnFlalBu?oc=5
-
-- Sunil Gavaskar blasts Pakistan for no press-conference stance in Asia Cup; Indian legends suggests ‘a point could be…’ - Mint
-  Sunil Gavaskar blasts Pakistan for no press-conference stance in Asia
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxOM0R5aGRwZjQ5U1JPV2NvVTlaNE5TeHJldnAySVh6ZXJHeDFyOExwcTZwazlnV2xqTVZuTXNqU3g0ZENoWFlVbTk3ZDltUzY1V3lFU2xrWk9IRngtRHZzSy1iRXpKREY2NUFGVnVzOHh0V29wMHcyOGNETGJpeURYMVFzS3pibGoyVkF3ZGQ1aUNydmVHOVBlUm4tZ0szRXhZeXE4WlEwOUVCdzJXQVFBS0dpSHI5TlhIU1E2Vkw1TVFzUW5LYkRWTEgwOUJWX1VlWGhvWU1wV25OVWZYZm9PR000bkJQUVR4aW91UnJIWUlfMERuVnR3allSTVBEd2VyaGxKZHdnYk4wcW_SAZACQVVfeXFMT2pVbEM4X1U2R2tTeE9EZ0wwUm5JYkViTE5EcFlJaHBSYWszby1ZUTUycWc4dElpTlZhWnZWQVl5NmlBb0ZZc1RiMG1BTUNyRktVTmJvblFCZnRmXzY5WW1GZVN4emlJYXFFa082T2FRMUpyUFBwLVMwSzZ4RVZwMXRlTG93TVp3SEZkT3BPanQxNUhxWDBXejhYTnU3Rmw4R08yZHBIalQ3a0IxQlRacnpGTlFwWFBQUHFROGh2MTllWVNId2xDSkgteWVVMVRfSjhHd01MNldDSXN0bExuMzYyZG1MLUNSZjV1WkhmR3lIUDBreEdBQkdDbl9ISzI0MXNzSUdxZkpQaW5zZjd5TXY?oc=5
-
-- ‘Our only real enemy is…’: PM Modi's big remark amid tariff, H-1B visa concerns | Latest News India - Hindustan Times
-  ‘Our only real enemy is…’: PM Modi's big remark amid
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2ljckNkVDhEeWNrZnlpSFNVRjZvWEZXTmFxYWZDX1Q2Yk03X2VZV1VHZ09BVnZQZTR2ejBkdU45c2sxSGpwWTFYV1JvbER0WTh1RkRnZ2dvSTYxcTRsMTZtNDJmYjZMUGZxNDBCM0diTG10Zk1ER0k0eGNuRmwzWFNqOFkzWGVQZWpyM3RkZGZNTnNwVncwQy1oSVp0Y1dtWW85YXFjaTRVeDRzaFdrakVWS2luN0JLZG5vSFJlellVYl8wd1R4c01JeHViQUZWOWfSAdcBQVVfeXFMTmNHSWxlbVpudlBUOEJWdHFGRUlsNXZOUVZGU19vMjA2bThQU0NHOVROSnBRam5LdHRYMGVzOU5ESnVWYTdIUElkaU5VWFZsdEk0UUJlUm1NYnNwWWR4dmQwU0pib2Q5d0l0eGZ2aC1Zd01fSGtNQlRLbWlpbEgyM1FCQnVvdGFvWXNpYkZuTmY0Q2kxUVhaQnJ3RDUxMlV2dlpWTmFGRlNPUWlSMEl5Qms2T3h3SnZNR1Q5dEctMDBXRTVhc09QNExkVUdMV3lWMWp0Sk1DTmM?oc=5
-
-- Why India shouldn’t be worried by Saudi-Pak deal - The Indian Express
-  The Indian Express reported that the deal was
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1N2SVEyR0FMeG5jR2JMUVFNcWw2WFZzcTV2MGd1ZG1mYVZCazRRTFpaOXRsYXdzODJXMkVCb2VMeFdfZEdaenlEbm4xbWNSeHRNTWN5cHFaMVdPMDlRQ2JTTmtlUU5QVVRscGxySnREaG05OGdwQkFvT19VN2wwdWpuYmVPWVNtTmJGLXczb1VNeER4QkNCZmVVeU92d0dNbDNB0gGqAUFVX3lxTE1SQXFiTXh4aHlmXzFGWnFpcjBiMDNrY1o3S3M0Zkd5TTY4Z1Q4MkF5aU1UWnRDZHU2aDd3TFZSSEVfcjhwS2pHcXRfZklMcGVyMkEzRFRaYVJkZExhU2hCZVBoSjRSTmtFS2o1TDRpeTBIZjNZVnFaYXZsdDNMRnBLa3RaQmE5ZEpyQkYtbHdCRG9HUkRmSEFDN3IyZUFTR3FUNjdSNk5CejJn?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-20 18:22:21 UTC_
+_Last updated: 2025-09-21 01:15:57 UTC_
