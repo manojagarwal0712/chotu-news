@@ -1,26 +1,26 @@
 # 📰 Daily News Summaries
 
-- Monsoon withdrawal from more areas of north and northwest India this week, says IMD
+- Saving festival is band-aid after inflicting deep wounds: Opposition targets PM Modi after address to nation on GST reform
   
-  🔗 https://indianexpress.com/article/india/monsoon-withdrawal-from-more-areas-of-north-and-northwest-india-this-week-says-imd-10263113/
+  🔗 https://indianexpress.com/article/india/saving-festival-band-aid-deep-wounds-opposition-pm-modi-gst-bachat-utsav-10263414/
 
-- After Delhi, Kochi Metro plans to launch freight services on its network
+- 2-year-old toddler dies after falling into an open drain in Giridih, he was out shopping with his parents
   
-  🔗 https://indianexpress.com/article/india/after-delhi-kochi-metro-plans-to-launch-freight-services-on-its-network-10262760/
+  🔗 https://indianexpress.com/article/india/2-year-old-toddler-death-open-drain-giridih-ranchi-jharkhand-10263305/
 
-- Don’t attach third-party property without due process: Telangana High Court to cooperative officials
+- 5 stories you must read today, September 21: From PM Modi’s Swadeshi call to 3 countries recognising Palestine as state and more
   
-  🔗 https://indianexpress.com/article/india/third-party-property-due-process-telangana-high-court-cooperative-officials-10262755/
+  🔗 https://indianexpress.com/article/india/5-stories-you-must-read-today-september-21-10263245/
 
-- Japan’s Shinkansen E-10 trains to run on Mumbai-Ahmedabad Bullet train corridor
+- Protests in Dehradun as elevated corridor project raises more concerns following last week’s rain disaster
   
-  🔗 https://indianexpress.com/article/india/japans-shinkansen-e-10-trains-to-run-on-mumbai-ahmedabad-bullet-train-corridor-10261764/
+  🔗 https://indianexpress.com/article/india/protests-in-dehradun-as-elevated-corridor-project-raises-more-concerns-following-last-weeks-rain-disaster-10263251/
 
-- Quoting Nehru and Castro, Kerala CPM leader denounces ‘malicious campaign’ against her on social media
+- Unprecedented scenes in Guwahati as lakhs bid farewell to Assam’s icon: ‘No one can be like Zubeen da’
   
-  🔗 https://indianexpress.com/article/india/nehru-castro-kerala-cpm-leader-denounces-malicious-campaign-social-media-10262653/
+  🔗 https://indianexpress.com/article/india/zubeen-garg-death-farewell-guwahati-assam-10263255/
 
-- Asia Cup 2025, India vs Pakistan live match streaming online: How to watch match live stream on Airtel, Jio, Vodafone
+- Asia Cup 2025, India vs Pakistan Live match streaming online: How to watch match live on Airtel, Jio, and Vodafone
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/asia-cup-2025-india-vs-pakistan-live-match-streaming-online-how-to-watch-match-live-stream-on-airtel-jio-vodafone-10262956/
 
@@ -40,25 +40,29 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/trump-to-impose-100000-fee-per-year-for-h-1b-visas-in-blow-to-tech-10261641/
 
-- This FCC Commissioner’s Warnings Finally Have an Audience
-  Anna M. Gomez, the only Democratic appointee on the commission
-  🔗 https://www.livemint.com/companies/news/this-fcc-commissioner-s-warnings-finally-have-an-audience-11758457211464.html
+- Trump Suggests Murdochs Will Have Role in New TikTok Management
+  President Donald Trump suggested that Fox Corp. Chairman Lachlan Murdoch and his father Rupert Murdoch are involved in the US takeover of
+  🔗 https://www.livemint.com/companies/news/trump-suggests-murdochs-will-have-role-in-new-tiktok-management-11758470944937.html
 
-- CII unveils model policy to expand Global Capability Centres beyond metros
-  The model framework calls for state governments to establish dedicated state-level facilitation cells to streamline approvals and design sharper fiscal incentives.
-  🔗 https://www.livemint.com/companies/cii-gcc-model-policy-global-capability-centres-india-digital-infrastructure-gcc-innovation-hubs-11758438631217.html
+- Baba Ramdev's Patanjali Foods lowers MRPs of products after GST reforms  — check new prices
+  Patanjali Foods Ltd is reducing retail prices across its product range following the GST Council's tax cuts. The revised prices will take effect from September 22, 2025
+  🔗 https://www.livemint.com/companies/news/patanjali-foods-lowers-mrps-of-products-check-new-prices-11758463255503.html
 
-- India has not significantly advanced its CBAM preparedness: GTRI
-  India has not significantly
-  🔗 https://www.livemint.com/companies/news/india-has-not-significantly-advanced-its-cbam-preparedness-gtri-11758450913282.html
+- Industry leaders urge single-window clearance for GCCs, startups amid US H1B visa policy changes
+  Indian industry executives have called for the introduction of a single-window clearance system for Global Capability Centres (GCCs), startups, and research organisations.
+  🔗 https://www.livemint.com/companies/news/industry-leaders-urge-single-window-clearance-for-gccs-startups-amid-us-h1b-visa-policy-changes-11758467371179.html
 
-- Optus CEO Pledges to Make Changes After Emergency Call Failure
-  Australian phone company Optus will implement any recommendations from an independent review. The emergency call outage resulted in at least two deaths.
-  🔗 https://www.livemint.com/companies/news/optus-ceo-pledges-to-make-changes-after-emergency-call-failure-11758450370859.html
+- Theobroma buyout spurs ChrysCapital’s $200 mn foray into India’s desserts market
+  The private equity firm mopped up an 85% stake in the desserts chain last month, marking its first buy
+  🔗 https://www.livemint.com/companies/chryscap-desserts-platform-theobroma-deal-kkr-temasek-mad-over-donuts-wow-momo-food-services-market-in-india-11758437538988.html
 
-- H-1B visa rules: Will Trump's $100,000 visa fee hike boost remote hiring, what does it mean for Indian workers?
-  The increase in H-1B visa fees to $100,000 may prompt companies to favour remote hiring, particularly from India. This trend
-  🔗 https://www.livemint.com/companies/news/h1b-visa-rules-will-trumps-100-000-visa-fee-hike-boost-remote-hiring-what-does-it-mean-for-indian-workers-11758385610376.html
+- Investment surge expected in India's AI sector, says WestBridge's Rishit Desai
+  India’s AI startups could raise $100 million within a year
+  🔗 https://www.livemint.com/companies/investment-surge-expected-india-ai-sector-westbridge-capital-rishit-desai-startups-11758430312627.html
+
+- Wall Street week ahead: Investors’ focus on PCE inflation, home sales, Q2 GDP, Jerome Powell’s speech
+  Market participants will be keeping a close eye on the Fed speakers' comments and the incoming economic data. The US central bank had indicated that more rate reductions could follow later in the year
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-investors-focus-on-pce-inflation-home-sales-q2-gdp-jerome-powell-s-speech-11758477381766.html
 
 - AI boom,  upcoming IPOs to drive Indian investors toward US markets: Neev Finance founders
   As Artificial Intelligence (AI) continues to reshape global markets, more high-value AI firms gear up for IPOs. Indian investors -- particularly the mass affluent -- are increasingly eyeing the US for the next
@@ -76,49 +80,25 @@
   India's stock market indices fell on Friday due to profit-taking in financial and IT shares. The Nifty 50 and Sensex dropped, but strong global cues and trade negotiations with the US
   🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-sbi-l-t-shares-tomorrow-22-september-2025-11758387374576.html
 
-- Nifty 50 gives zero returns in one year! Is the Indian stock market still overvalued?
-  The Nifty 50 has delivered negligible returns over the past year. This raises concerns
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-gives-zero-returns-in-one-year-is-the-indian-stock-market-still-overvalued-11758440672763.html
+- Flipkart Amazon 2025 sale: Best TWS you can buy under  ₹5,000 right now ft. OnePlus Buds 4, Realme Air 7 Pro and more
+  As Diwali sales on Amazon and Flipkart near, consumers can find great deals on TWS earphones. Among the top deals
+  🔗 https://www.livemint.com/technology/gadgets/flipkart-amazon-2025-sale-best-tws-you-can-buy-under-rs-5-000-right-now-ft-oneplus-buds-4-realme-air-7-pro-and-more-11758472969076.html
 
-- OpenAI taps Apple supply chain, plans to launch first ChatGPT-powered device by 2027: Report
-  OpenAI is recruiting talent from Apple's hardware teams. It is working with Luxshare for manufacturing a hardware based device
-  🔗 https://www.livemint.com/technology/tech-news/openai-taps-apple-supply-chain-plans-to-launch-first-chatgpt-powered-device-by-2027-report-11758453401461.html
+- Amazon Flipkart 2025 sale: iPhone 16 to OnePlus 13 - Top deals on smartphones you shouldn't miss
+  Amazon and Flipkart sales are starting soon. Among the top deals are iPhone 16, OnePlus 13, and Galaxy S24.
+  🔗 https://www.livemint.com/technology/gadgets/amazon-flipkart-2025-sale-iphone-16-to-oneplus-13-top-deals-on-smartphones-you-shouldnt-miss-11758468865663.html
 
-- Gemini Nano Banana: Create your perfect dandiya nights look this Navratri - Check step-by-step guide
-  Gemini Nano Banana is now being used to craft the perfect Dandiya Night look. Check out our guide
-  🔗 https://www.livemint.com/technology/tech-news/gemini-nano-banana-create-your-perfect-dandiya-nights-look-this-navratri-check-step-by-step-guide-11758447654506.html
+- Gemini Nano Banana trend: Use these 5 prompts to click magical selfies with your favourite Harry Potter character
+  Users can create vintage Polaroid-style selfies with Harry Potter characters. Google's Gemini 2
+  🔗 https://www.livemint.com/technology/tech-news/nano-banana-trend-use-these-5-simple-nano-banana-prompts-5-gemini-prompts-to-click-magical-selfies-with-your-favourite-11758461248975.html
 
-- Mint Explainer: How cyber attacks on JLR, European airports hurt India
-  A cyberattack on a software platform disrupted operations at major airports across Europe. Another at Tata Motors-owned Jaguar Land Rover hit manufacturing activities globally. Who is behind these attacks, how did they
-  🔗 https://www.livemint.com/technology/cyber-attack-european-airports-jaguar-land-rover-tata-motors-airport-software-cyber-breach-11758443208394.html
+- 5 laptops under  ₹60000 that are high value for money
+  Want a laptop under  ₹60,000 but can't decide
+  🔗 https://www.livemint.com/technology/gadgets/5-laptops-under-rs-60000-that-are-high-value-for-money-11758464344406.html
 
-- Amazon Great Indian Festival: iPhone 15 to be available below  ₹45,000. Here's how
-  The iPhone 15 will be available for under  ₹45,000 during Amazon's Big Billion Days sale. Originally launched at  ⁹
-  🔗 https://www.livemint.com/technology/tech-news/amazon-great-indian-festival-iphone-15-to-be-available-below-rs-45-000-heres-how-11758443890776.html
-
-- Huawei launches DeepSeek-R1-Safe to block politically sensitive AI content: How it works
-  DeepSeek-R1-Safe is designed to block politically sensitive content. Developed with Zhejiang University and trained on 1,000 Ascend
-  🔗 https://www.livemint.com/technology/tech-news/huawei-launches-deepseek-r1-safe-to-block-politically-sensitive-ai-content-how-it-works-11758444376509.html
-
-- Markets brace for volatility as key global and domestic triggers line up this week: Experts - Mint
-  Markets brace for volatility as key global and domestic triggers line up
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcXdQYUlYeWN3LUM5b21sMERqbHIxaldPcVo4MUJ5ckh2Tm5VZllSQVUxLXBVTkt3UXdueTlLU0FvbE1YRHBLdnlXV0x3dG5UXzY3eUtEdUwwNmNSMUF6M0dnWW5jYVhPeUZybWttcHNUNGp6MnZZUzhfMTNlS25CXzRtLUQwcDVHNk1ReW5KYkdpRi1Sb3UzMFVPRGVqRWw5djk4dEl3emdqbHhFN3hiY3Z0VmtyYkFGbUJDOGxhaS1xamF2eU5nLXJQVmlmSnZaYWZGV0xMbHAxNE03WG9tVkxTU0JQWjBIdjBEcUJDM09UUdIB9wFBVV95cUxQQzRlYUJ5UzlOMER5T0pwQnpoNEI2cDd4am5Jam5nVmlYeVVVUHk1aE5YUFNJMURKQnJDaDBIcWpoS0NtaFRCeWVDa1huS05FZl9sN0oxZlV3X1JhRUNMY0Etc1REbGxjemdyeVY4WWVwd081YTBza0FCNkJhTGgtQ0x3TG9uT3BablVjeUdqWUJNRmZtcmh0OUhtdjRHX3ljeWxDNVUwQzU3dHRidmNBUXg2cVhGS25RNnJBd2RVMmZfT1RTVzRTdl9JSktLSGxmODZGV3dJdWE0UldYTHdZb2Z0ZXZhcDk0ZUduRlcxZ3gwQThBd3RJ?oc=5
-
-- Markets hit record highs as ‘Fomo’ infects investors - Financial Times
-  Markets hit record highs as �
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE53T291dm10TzZaN3JrLURUcDY4NTUtb1ZYNklwQXdHeF9rSUZOazFaY3NvaFNTWUhoY2lDeWpENE1ZX2tCTWZWT2UzMzdtY0JqMndOblpxQkFYQUxMRjY3bGVnZ2lnZ0drbGcwZ0pRWmw?oc=5
-
-- Ahead of Market: 10 things that will decide D-Street action on Monday - The Economic Times
-  Ahead of Market: 10 things that will decide D-
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdWswRG5qSzQ0WThlWFBVdS1ZQlVFaXczSDE0QkliT0cxYktfcHZWa2wybHM1cDVIcWRjR3BaNzhucGY5X05vZl9IMmZncUpOdDFkdDFPcmhPcXVQQ2c4RDZVUm4xaEtwTXZycjE4TXl1OVFLRlFSN21WU1p4SkhoNzE4TUVYUW5IaS1iM3RyTzZ6QUt1ZExDRE5VR3dDbl9Ya2Y5a2RpektiMGZsMG50d0gzUXFVXzVvbXFjYUw3QUJEYUZ4a0hMRTlRaDhDRlIwSHdiempQdW4td9IB3wFBVV95cUxQeWVFWkstX09DY01aa3BqUEQ3dnNmOGlIYzFHQ2pLUHUtUUxhbWctS0hYcHVmVVRfTXcxeWFDM1MzLVlKY1N2VmRuMHR3Z0pSLTMxT1V4N3NRdXlLODk3eVMxNGRUR0ZGWExULURsTnhIck1MdWcyZWhSYk9LZFFxRFJsVnhtYmR1R3dBckRQWG5vRFJ5OThvdExlUXF2Sm9RbmpxXy12cUpKcjRVLVlnV19ZdGNYb2ZabFgxVUhWZ3dsRjh3MmZDU1ZKWDR2VGNZWl80RDJvOU96OTFCaXZN?oc=5
-
-- Russia-Ukraine war, volatile coal markets driving up electricity costs in India: study - The Hindu
-  Russia-Ukraine war, volatile coal markets driving up electricity
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNRDdLYmU3WkpqVzZiWDVMdlJiSkk4S21vNmhmTXF4SlVuWkJwaHBsMWNFU1lydk5mb0U0czNnWmREdHlRRmNucmJaSi1EUjVoVlFKSUpnRkQ5OGZYNk5qOUlMd1p2d1c1Y0x6MUpSTjB2Rzk2MUFjMHNZVlgxTkxFRF9pSGhDdG1JRlpPY0c4MW16dURLajNmNUFUalBHMkJyM3p5RWVPZ1pqQmwyQTVLblRxNjhTZ3RpcmN0T3lXdDltTWM3bzRIZ0hsczZ5d9IB1AFBVV95cUxPRHc5cll5bEhUMm43anFjSnlPMnBmaC1haVJGeTA1XzVQY1pQS0RaOUZ4cndzbHdwVHhwZExYcHJvTkY2WDlBWGpfWFpvWFBabmEwTVlpV3p5YktycE1rUjJQTEJJWjAtNElTUTNkMzE4QWtUZU9CcVI3cFgtSkVnVkNJWFZtbklCQmM0TlZNeHF2ZllEWUc3UWdyRVd6NDR1NDNUVVFHd2E0RVVqREcxWkRPMnFxQVA0aDBUNk81U05Gc2xpbnNHYm5Rb2JVeVBFdDBuRA?oc=5
-
-- State plans to revamp 50 markets to boost trade - The Times of India
-  State plans to revamp 50 markets to boost trade
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYm1nQXJlazI0UkNqSjA5ejVzVm5SQlR6Wm5BUUxaWVIteF9CNk1IcVo3U1l2RjctZjdiVWdhTXZ5dm1HMEkxRE8xb3FPR05mblBrXzZxOTNGbUFja3lIYTZiZDZQT2FTSkNFTTh4MGJaSjVndllDQ0N6Q2loWkVuZkFtWVRRS1ZZQmhsdWk3LVBvOXZCak85bTdHc1htcDRlS2JZd2Y1UTUtMGEyeW5qWW1UYk5rMzZLTHEzNVVNSUjSAcYBQVVfeXFMTUJZLTRFQVRRdDA4S29sc3VyamlkMm82emE1dmZIVGVINmk2SUcwaUg3VTdJekRMYXZ3ak51NWhya2JUMEZQRmZ4Vmk2a1A3ckJnOXRQWk05aFlEMFB2XzUwazFuWXdDcmhzSmJYdUUzYkQ1UllZTFJmS3pQM01Cc00zLURzXzl0TVkwS0w3Yi1TczVfM0J6a3plaGRZanpValdleDQ4UHhqUnF6OVhWdDlKY19UWFZ2TmFUaEVKQkJlVUtSVjln?oc=5
+- Mark Zuckerberg agrees with Sam Altman on possible AI bubble, explains reason behind Meta's aggressive investments
+   Meta CEO Mark Zuckerberg acknowledges the possibility of an AI bubble, likening it to past bubbles. However, he emphasized the need for
+  🔗 https://www.livemint.com/technology/tech-news/mark-zuckerberg-agrees-with-sam-altman-on-impending-ai-bubble-but-justifies-metas-spending-if-we-end-up-misspending-11758456182356.html
 
 - Laser Power and Infra set to file draft papers in Sep; eyes Rs 1,500-crore IPO
   Laser Power and Infra Ltd gearing up to file its preliminary papers this month with markets regulator Sebi. Cable and conductor manufacturer expected to raise anywhere between Rs 1,200 crore andRs 1,500
@@ -144,89 +124,101 @@
   Prime Minister Narendra Modi will address the nation today at 5 pm.
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ0xRVDNtN0VWWTd4YXUwdDRaY01tMVB2OTZxWFNNcDBSVWN6aklwb0ZpcFc5N0N6bWh4T25GUnFPWlMxUExDNmxFR0QwQzRLUVhsdnZkR3V2dkUyRy1pQXZKbEpjcWhQQ3I2T2pGNE5aTTFiMDFlSVJpdXdFWHhTUU02Sk1FSktMSk5hMHFfenBiSkhLSkZzbnBrOW9NWXdGQ3RhWHlSeTE3Q3puUnZJWmJVcTNheFRibVdvd096XzFkS0RrcmREdWFfcTU5NVJVTkdtUm9R0gHbAUFVX3lxTE14NEtXZUpVbEZZMmtjNTBVYl9KekhxV2hVa2RHemZOYzhwMVdGMzNyTk1heFhZVXlncXRFYnN5SzlQNjZrbWExN2NlTEFwY2ljMkZhYWdOVDJHQU05SEl2MTg0S3RhZWZpcUR5bU9PY2VURTdkU0cwYkJ0bzRCMGpmZzlURFF2bU9OVHJMQ3FubGEtVHFlczZCNUpZaU8zTU5DZGtGUnR4WGdBRGdiVWs2Y1Q0YTFkRWQybVdsU2pqcGg5dlV0NXA2eUZ6QXctQnd4dDZlTkdxOEt4QQ?oc=5
 
-- Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is War With India - NDTV
-  Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFA3V0NDeDhaMlItR0ZrdEptOXJXTXRLRnc2SFRzQ2s5Z1BTRVczdmpxY2dsbHk1VzVlSXVySG82TzNQeS1zUXhQYXg0OWFndnFTQVptSVdtc0E4QmRpVWE0ZGNrTUJkbWNDVGoxNVJNakFHOHJtcmJuNTNkWFpjV0EwRm1VTlRrcUNxa00zWURaMDd3ZUxYbTU0dFNVLUx1R0N6WUhXbWNMSEYtSmhzLTFGcGl5UVhsbnRJTEdBTXB0VXB5aThZREw4ZDkwWGxYOTBTbUJGNFZIMGd6Tjc2ZjA4Q2lQcGR0WTBuekN1aTRPQ2k1MG9NblFNaWhpZGxDMUV2R9IBjAJBVV95cUxOWUlJcVNLTFh6b3VjMUtPVnYxdVFUSnIwazV5ZGRCb1E2dDdWYVAtS1dmUzZxLXgzVUc0aHZNOHhoOXo3cFZtTmxxTTJYS3lpQ3JrdnF4RGN4dkdWd0kxOF85YVV5aENmeXdOR3VESGlxZ3ViTnRlNEtXZFdGUmpGWGZJbURDV0VEMFBwWTRxSXdZck5qc1oxMXB1N3U0dmwyX0lSTENoTElDZkYyRTZIN2FES1NvRDdKbHd0alZFTWhCMlN6V0h1LXV1Tmx4Sllrc19FcG5VbGtXbmd6QnNlVHk5OVlhVGNJaU9EVXQzMWRBU0ZoVEl3ZEdDRVplekd0M1A3MmtiVnFlalBu?oc=5
+- PM Modi To Address Nation Shortly. Suspense Over Subject - NDTV
+  PM Modi To Address Nation Shortly.
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxPdkF0ajNDdG9nQ0dIc1VoMlpGUUo2NWhLYl9NSm5zYmtmdDlUOUZ2VDQxYWdPVERhU2FJYWhvZWF1MEhxeUJOSzZ6SDRPNUx2N2RxdS1zeEdZcFJKTWtPUkpUVVUtN0t6QkZ1TnpmaFowRktIMGRxLXFVTjdXV1ZlWjlNN1BFZ9IBjgFBVV95cUxNbFVPeG1zdkY5emcxdFdwQVVhQmhVd2hDcm5RVFpCNUM3ckFCUXhhdjltODQ4M0dNdWFSNW96ZVFRLXVPUlVQMEZ1S1RzbUZHLVV1STlhYzlwSkVkdExsY05BSm9KWDg0blkza09DWld0dTNrVmkta2NtRmJYaE5HWTk2M0FUYTh6S1QybEtn?oc=5
 
-- PM Modi on 'Made in India', tax reforms, and next steps for India | Top quotes | Latest News India - Hindustan Times
-  PM Modi on 'Made in India', tax reforms and next steps for India.
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSDhITUhWVWJpMUNqVkVKVnNjUFNsR1VoOFNiTzZqVFIyOU9Wdy1ZbUNScFFJLVFvejRKbXlwMEJkeHo0TzdJM3hrdTJBT1V6aHNqQzRXemhRblkxaFdnNmRsUXJmc3hvdDZZV2g1SWZIMFBnMmd6ZE1QM1pvejZ5TXA4TXBkYjVpLUZkd3I1cWVZaThPQ200SjlfVUNvdllobkJ2QXduQURJOHJhdzlTUkhpZ0lwWmRkbnk1ZHRoMG45QdIBxwFBVV95cUxOZ1BMbndFdEh3bXFVVFBlLWdmMTFjUkVoYlBHVW5tLTJ1S1JTNEI3U3FxNXhyYWIyMlczVEg5ZGFLXzBib3NOZzZrRE03d0EzRGhJSXExR3NZZVkxbHBfc200UENYZ1VMWFZrR2R0T3JHVFMzQ3NNLUdKbEREcGZQMkwzUm9rNkNkZWVKT0ROdXBmMVBnTTgwVlNvUHVQMnlVOFVyTHNVaklpaDZBUW11WnRYbEhabjMwNmhmZjhRVFViV3B1ZVJR?oc=5
+- CM Yogi Adityanath calls for public suggestions for Vision 2047 in Uttar Pradesh | Latest News India - Hindustan Times
+  CM Yogi Adityanath calls for public suggestions for Vision 2047 in
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZzFHOGJwellYY1FsdnQ2Q0JkTmQxT3d1M0pHMDF4NnB4cm5jeUlLR0RGdFVUM3JwRDJlTUpHNG5veHAyLWg3OUNnTWdWamh4RzA2eHJrTDlVZjY0cVVfMFVFZEhCV1kxOVVqdHNkTDlVRlZmUzJ1bl9PWVYxdEpkWDg0WDFESzFFck55QjNTVGtTLWVnUHJpZjVWUEpFTE9sb0N5NTE4YWJIbVFaX3JxVUN6T3R3X3ZRUFJZdWFQd0d5b0JDYU1YaEdwUmw5N2NBQWMtcmpxRTNfQUHSAeABQVVfeXFMT3hVR0NjZmVKcktHcUhCQnhES19fRUVfOEhHYU1kRzRvZndBeUhXcC1tVTQ5TUlwbXRKcUpoNC1zYUJSN29GNEpLZ1VidHRsbWF5VHE3a0tHT3N1RFdOMEVKVmlnWEhsWkp6bGdpVmJFV3BoNFYwTmZvTTd0WDMyandqekVwYVNWMk5YdXZJVEM0czhHNUpqVXRTTmRpbm52ZzVBazIyWUlOT0h4enNWZ3Rjck9HOWE1TkI2TzJLX0FBUDFXWWhDd2NSek5VLThmZ2xMNlZkN2NHVWVYcDdJYnM?oc=5
 
-- Next-gen GST reforms to accelerate India's growth, says PM Modi; highlights importance of 'atmanirbharta' - India TV News
-  Next-gen GST reforms to accelerate India's growth, says PM Modi
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQenotaHFqeV9PYTZMaFU0MjdTbmZMb2hsRDZBXzRzalNtOXRnTG5BUjBOU3dyelJpd2NkVXIxVHk2RVdnM0VOY3duRTRzME8wdE81eTQ3eGozaXZ1eGU4cHFfckpTcWYySzd4dEd1LTJZM1prR2JLTzM5ZndaU1FMRzNSSFhYZ2hEUVFtZmdzSm1ESWFqMkszTXBIOS1CWWxYZmxZSktuMHJ2TXZqa0NpLVpEdHpmWUQ3M0dHcDJITnNQUkx3aXU5dVNjdVE0ZUVNMm03RVVqMFVSZWVaaEhfYUk3U1U0MjJnNV80RnRFaWzSAfYBQVVfeXFMTUtLTm9hOW81a2VBWUdjWTZNcnB1TUlLajdNNjI1Y2xEQnp5VldYN0FrOHJEbjdwR3R2YmVpQUx5ckI3S3Y1cVExcUNsSW5mQ2g4V280aUo5OVYtTDZsWnFLUFJvMHJXOUl6U2E3MGstSUVZS3NQSTNsTDVmWlBoZ1JUSDJmWldKZzl4VHhScmpUUmhtelNZVmlwblRfZnB2X2wzSzlwek9YamtMUkJKZHZ0dGtPTWdZUlFpOENqT1IzX2ZYTWtuWWZoWEVGRVdsOUd0UjJzRFZBdExldlFadXhhT0phb1RmYjFPQWtORkJIUkE0WTVB?oc=5
+- RSS Chief Mohan Bhagwat Says ‘India Must Not Proceed Blindly’ Amid US Trade & Visa Strains - News18
+  RSS Chief Mohan Bhagwat says ‘India Must Not
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxONVhTTHpfTnNlZnBHUVhRSDBiVUY4Y0RVWUlUWUdFVkkxcm5LeFp4ZC1HRUppemg1ektlYmRFclZGeVF1REV1TUlzX2l5aE16NDE1Z2d5a0kxV2FUbDBqR19ILXk1cFFnUzNoLU1ZbFViYnZCdC1ZQ0xIOEtuUXJhR0o2QUcxS0MtMnd0RFVKX2FwYnllTGdudFFaekRLek5mTDJXLWNqM1E2a0I0YXdXYUlETHdVMWNMU3VpREQ0RnNGaW1aakJB0gHMAUFVX3lxTFB2OVV1SzJtV1QxSENpSGU1ZnJ2NGVBenBCTDRTaXgtS3Rqd1psRkwzaTM3akxpTHRlcWpfdW1mbnExb2ZvWENVclVlVzF2SlZ1eUdWQVhESUJfVDNDR0RiZjlMSDl1elNVc3FPeXB4NEdZSWxOS0tlU1psSGRJY3lqdUkzbVdaeTNFRnZpemxTWnctYUVPLXBxdTBDODBxTmk1YVNpU1pkRXdYSG5qYlpQMWZtVEZBcmdqWVBfWXRzZjhYY25nRFBvYlZ5UA?oc=5
 
-- PM Modi's Big message to states: Accelerate manufacturing, create conducive environment for investment - Mint
-  PM Modi's Big message to states: Accelerate manufacturing
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVVo1c0RXaUZHUGdxaG5Nd05uMWhmbUhIOVJlTmt3QVpWdkU0RnMxSy0zWkVNS1R5cEJTNThEZ0F5dXlaZGs5b19fQk1xcHA5UnYtVjFoYTV2aUliT3NhdEVVSlBfcnY4WHFfRWFUQ2Q3bi1ZM3JNbVdsS0ZvM3U1bVBad2RmRm1sLXBWWm5wQWR5Q2ZRTHY0YW5FWHFZXzBtUzFxYzFIcGlVWllqMV9ESXE0VUt0M3huZ1F4NHlRQVM1Q0ZOb2l2cHRJR1p2aDZwRmdvWW5KVlVhRi1iNC1oZ3l5WE1ORGZkRDlz0gHwAUFVX3lxTE4zX29XM1hCWnlZYlRUVVAtd1ZyTE5SSi1zbGJHZkFCY1lwdlVyRWpTX1VIZGtxRjdRV2pPNEREQzduREhPaXBpX2pVR3lqNFFoVGN6amxDNVN2Q2ZHbjZrTTJHUVpnUXcxSVdRb0FVVmNCRFQ3VFIybFhLSmpCMEpJSWRzR2tFZTZGaHdPVF9iR1UyRHh1M0VkazZHd24tQlhnRWZjQVNyeC1NSzdwWVpXQzVqZXRCaFZwU3ZPcjRjR1E4NjJXTnZUc3RmNHQydXBFTnFmVkF0TFlMdDVNZERIaHZwY2hyaFJtZ2hkN2xnNA?oc=5
-
-- Breaking News Live: Prime Minister Narendra Modi will address the nation today at 5 pm - The Times of India
-  Prime Minister Narendra Modi will address the nation today at 5 pm.
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ0xRVDNtN0VWWTd4YXUwdDRaY01tMVB2OTZxWFNNcDBSVWN6aklwb0ZpcFc5N0N6bWh4T25GUnFPWlMxUExDNmxFR0QwQzRLUVhsdnZkR3V2dkUyRy1pQXZKbEpjcWhQQ3I2T2pGNE5aTTFiMDFlSVJpdXdFWHhTUU02Sk1FSktMSk5hMHFfenBiSkhLSkZzbnBrOW9NWXdGQ3RhWHlSeTE3Q3puUnZJWmJVcTNheFRibVdvd096XzFkS0RrcmREdWFfcTU5NVJVTkdtUm9R0gHbAUFVX3lxTE14NEtXZUpVbEZZMmtjNTBVYl9KekhxV2hVa2RHemZOYzhwMVdGMzNyTk1heFhZVXlncXRFYnN5SzlQNjZrbWExN2NlTEFwY2ljMkZhYWdOVDJHQU05SEl2MTg0S3RhZWZpcUR5bU9PY2VURTdkU0cwYkJ0bzRCMGpmZzlURFF2bU9OVHJMQ3FubGEtVHFlczZCNUpZaU8zTU5DZGtGUnR4WGdBRGdiVWs2Y1Q0YTFkRWQybVdsU2pqcGg5dlV0NXA2eUZ6QXctQnd4dDZlTkdxOEt4QQ?oc=5
-
-- Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is War With India - NDTV
-  Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFA3V0NDeDhaMlItR0ZrdEptOXJXTXRLRnc2SFRzQ2s5Z1BTRVczdmpxY2dsbHk1VzVlSXVySG82TzNQeS1zUXhQYXg0OWFndnFTQVptSVdtc0E4QmRpVWE0ZGNrTUJkbWNDVGoxNVJNakFHOHJtcmJuNTNkWFpjV0EwRm1VTlRrcUNxa00zWURaMDd3ZUxYbTU0dFNVLUx1R0N6WUhXbWNMSEYtSmhzLTFGcGl5UVhsbnRJTEdBTXB0VXB5aThZREw4ZDkwWGxYOTBTbUJGNFZIMGd6Tjc2ZjA4Q2lQcGR0WTBuekN1aTRPQ2k1MG9NblFNaWhpZGxDMUV2R9IBjAJBVV95cUxOWUlJcVNLTFh6b3VjMUtPVnYxdVFUSnIwazV5ZGRCb1E2dDdWYVAtS1dmUzZxLXgzVUc0aHZNOHhoOXo3cFZtTmxxTTJYS3lpQ3JrdnF4RGN4dkdWd0kxOF85YVV5aENmeXdOR3VESGlxZ3ViTnRlNEtXZFdGUmpGWGZJbURDV0VEMFBwWTRxSXdZck5qc1oxMXB1N3U0dmwyX0lSTENoTElDZkYyRTZIN2FES1NvRDdKbHd0alZFTWhCMlN6V0h1LXV1Tmx4Sllrc19FcG5VbGtXbmd6QnNlVHk5OVlhVGNJaU9EVXQzMWRBU0ZoVEl3ZEdDRVplekd0M1A3MmtiVnFlalBu?oc=5
-
-- PM Modi on 'Made in India', tax reforms, and next steps for India | Top quotes | Latest News India - Hindustan Times
-  PM Modi on 'Made in India', tax reforms and next steps for India.
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSDhITUhWVWJpMUNqVkVKVnNjUFNsR1VoOFNiTzZqVFIyOU9Wdy1ZbUNScFFJLVFvejRKbXlwMEJkeHo0TzdJM3hrdTJBT1V6aHNqQzRXemhRblkxaFdnNmRsUXJmc3hvdDZZV2g1SWZIMFBnMmd6ZE1QM1pvejZ5TXA4TXBkYjVpLUZkd3I1cWVZaThPQ200SjlfVUNvdllobkJ2QXduQURJOHJhdzlTUkhpZ0lwWmRkbnk1ZHRoMG45QdIBxwFBVV95cUxOZ1BMbndFdEh3bXFVVFBlLWdmMTFjUkVoYlBHVW5tLTJ1S1JTNEI3U3FxNXhyYWIyMlczVEg5ZGFLXzBib3NOZzZrRE03d0EzRGhJSXExR3NZZVkxbHBfc200UENYZ1VMWFZrR2R0T3JHVFMzQ3NNLUdKbEREcGZQMkwzUm9rNkNkZWVKT0ROdXBmMVBnTTgwVlNvUHVQMnlVOFVyTHNVaklpaDZBUW11WnRYbEhabjMwNmhmZjhRVFViV3B1ZVJR?oc=5
-
-- Next-gen GST reforms to accelerate India's growth, says PM Modi; highlights importance of 'atmanirbharta' - India TV News
-  Next-gen GST reforms to accelerate India's growth, says PM Modi
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQenotaHFqeV9PYTZMaFU0MjdTbmZMb2hsRDZBXzRzalNtOXRnTG5BUjBOU3dyelJpd2NkVXIxVHk2RVdnM0VOY3duRTRzME8wdE81eTQ3eGozaXZ1eGU4cHFfckpTcWYySzd4dEd1LTJZM1prR2JLTzM5ZndaU1FMRzNSSFhYZ2hEUVFtZmdzSm1ESWFqMkszTXBIOS1CWWxYZmxZSktuMHJ2TXZqa0NpLVpEdHpmWUQ3M0dHcDJITnNQUkx3aXU5dVNjdVE0ZUVNMm03RVVqMFVSZWVaaEhfYUk3U1U0MjJnNV80RnRFaWzSAfYBQVVfeXFMTUtLTm9hOW81a2VBWUdjWTZNcnB1TUlLajdNNjI1Y2xEQnp5VldYN0FrOHJEbjdwR3R2YmVpQUx5ckI3S3Y1cVExcUNsSW5mQ2g4V280aUo5OVYtTDZsWnFLUFJvMHJXOUl6U2E3MGstSUVZS3NQSTNsTDVmWlBoZ1JUSDJmWldKZzl4VHhScmpUUmhtelNZVmlwblRfZnB2X2wzSzlwek9YamtMUkJKZHZ0dGtPTWdZUlFpOENqT1IzX2ZYTWtuWWZoWEVGRVdsOUd0UjJzRFZBdExldlFadXhhT0phb1RmYjFPQWtORkJIUkE0WTVB?oc=5
-
-- PM Modi's Big message to states: Accelerate manufacturing, create conducive environment for investment - Mint
-  PM Modi's Big message to states: Accelerate manufacturing
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVVo1c0RXaUZHUGdxaG5Nd05uMWhmbUhIOVJlTmt3QVpWdkU0RnMxSy0zWkVNS1R5cEJTNThEZ0F5dXlaZGs5b19fQk1xcHA5UnYtVjFoYTV2aUliT3NhdEVVSlBfcnY4WHFfRWFUQ2Q3bi1ZM3JNbVdsS0ZvM3U1bVBad2RmRm1sLXBWWm5wQWR5Q2ZRTHY0YW5FWHFZXzBtUzFxYzFIcGlVWllqMV9ESXE0VUt0M3huZ1F4NHlRQVM1Q0ZOb2l2cHRJR1p2aDZwRmdvWW5KVlVhRi1iNC1oZ3l5WE1ORGZkRDlz0gHwAUFVX3lxTE4zX29XM1hCWnlZYlRUVVAtd1ZyTE5SSi1zbGJHZkFCY1lwdlVyRWpTX1VIZGtxRjdRV2pPNEREQzduREhPaXBpX2pVR3lqNFFoVGN6amxDNVN2Q2ZHbjZrTTJHUVpnUXcxSVdRb0FVVmNCRFQ3VFIybFhLSmpCMEpJSWRzR2tFZTZGaHdPVF9iR1UyRHh1M0VkazZHd24tQlhnRWZjQVNyeC1NSzdwWVpXQzVqZXRCaFZwU3ZPcjRjR1E4NjJXTnZUc3RmNHQydXBFTnFmVkF0TFlMdDVNZERIaHZwY2hyaFJtZ2hkN2xnNA?oc=5
+- NDTV Explains What Gets Cheaper Under GST 2.0 Reforms - NDTV
+  NDTV Explains What Gets Che
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxONGVVRThURU1LekQ5ekRTRDI2ZS16MFV2Q2dSVVlCXzNHQ0FuS0NUcFRpSTRWbFBaMllhZ193dDNGRks3RU15c2hXZjRlZ3ZsNmxGY01XSzZyMkNjd2lNamwxMF95S1hvT0hBNzVlQnpCTkZjY2x1Vl8yTW40aWxSRXRwTktyUVRrdmtqZU1oMzU1OTNiRDZZMNIBoAFBVV95cUxNRXJZM3lmdnBodnhSS25WN2NFTGlmUzh1LXphZU03Mkg0cFpYcVVjdzUydGxaNncyODJXUTVOMzNrbHpaV3I4NGU5dVdKZmhUQzN3RWtKaHNVbEtJUDFZQUo1aUNNbEdGbjFQM1V3M0Z3bHJwdUhLMHppWnVYdHU4M2lzMWRjVEg4MjR3Vkh3V2pFeXhVbTFCNWhVNlUwUXJS?oc=5
 
 - Breaking News Live: Prime Minister Narendra Modi will address the nation today at 5 pm - The Times of India
   Prime Minister Narendra Modi will address the nation today at 5 pm.
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ0xRVDNtN0VWWTd4YXUwdDRaY01tMVB2OTZxWFNNcDBSVWN6aklwb0ZpcFc5N0N6bWh4T25GUnFPWlMxUExDNmxFR0QwQzRLUVhsdnZkR3V2dkUyRy1pQXZKbEpjcWhQQ3I2T2pGNE5aTTFiMDFlSVJpdXdFWHhTUU02Sk1FSktMSk5hMHFfenBiSkhLSkZzbnBrOW9NWXdGQ3RhWHlSeTE3Q3puUnZJWmJVcTNheFRibVdvd096XzFkS0RrcmREdWFfcTU5NVJVTkdtUm9R0gHbAUFVX3lxTE14NEtXZUpVbEZZMmtjNTBVYl9KekhxV2hVa2RHemZOYzhwMVdGMzNyTk1heFhZVXlncXRFYnN5SzlQNjZrbWExN2NlTEFwY2ljMkZhYWdOVDJHQU05SEl2MTg0S3RhZWZpcUR5bU9PY2VURTdkU0cwYkJ0bzRCMGpmZzlURFF2bU9OVHJMQ3FubGEtVHFlczZCNUpZaU8zTU5DZGtGUnR4WGdBRGdiVWs2Y1Q0YTFkRWQybVdsU2pqcGg5dlV0NXA2eUZ6QXctQnd4dDZlTkdxOEt4QQ?oc=5
 
-- Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is War With India - NDTV
-  Pakistan Minister On Whether Saudi Arabia Will Get Involved If There Is
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFA3V0NDeDhaMlItR0ZrdEptOXJXTXRLRnc2SFRzQ2s5Z1BTRVczdmpxY2dsbHk1VzVlSXVySG82TzNQeS1zUXhQYXg0OWFndnFTQVptSVdtc0E4QmRpVWE0ZGNrTUJkbWNDVGoxNVJNakFHOHJtcmJuNTNkWFpjV0EwRm1VTlRrcUNxa00zWURaMDd3ZUxYbTU0dFNVLUx1R0N6WUhXbWNMSEYtSmhzLTFGcGl5UVhsbnRJTEdBTXB0VXB5aThZREw4ZDkwWGxYOTBTbUJGNFZIMGd6Tjc2ZjA4Q2lQcGR0WTBuekN1aTRPQ2k1MG9NblFNaWhpZGxDMUV2R9IBjAJBVV95cUxOWUlJcVNLTFh6b3VjMUtPVnYxdVFUSnIwazV5ZGRCb1E2dDdWYVAtS1dmUzZxLXgzVUc0aHZNOHhoOXo3cFZtTmxxTTJYS3lpQ3JrdnF4RGN4dkdWd0kxOF85YVV5aENmeXdOR3VESGlxZ3ViTnRlNEtXZFdGUmpGWGZJbURDV0VEMFBwWTRxSXdZck5qc1oxMXB1N3U0dmwyX0lSTENoTElDZkYyRTZIN2FES1NvRDdKbHd0alZFTWhCMlN6V0h1LXV1Tmx4Sllrc19FcG5VbGtXbmd6QnNlVHk5OVlhVGNJaU9EVXQzMWRBU0ZoVEl3ZEdDRVplekd0M1A3MmtiVnFlalBu?oc=5
+- PM Modi To Address Nation Shortly. Suspense Over Subject - NDTV
+  PM Modi To Address Nation Shortly.
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxPdkF0ajNDdG9nQ0dIc1VoMlpGUUo2NWhLYl9NSm5zYmtmdDlUOUZ2VDQxYWdPVERhU2FJYWhvZWF1MEhxeUJOSzZ6SDRPNUx2N2RxdS1zeEdZcFJKTWtPUkpUVVUtN0t6QkZ1TnpmaFowRktIMGRxLXFVTjdXV1ZlWjlNN1BFZ9IBjgFBVV95cUxNbFVPeG1zdkY5emcxdFdwQVVhQmhVd2hDcm5RVFpCNUM3ckFCUXhhdjltODQ4M0dNdWFSNW96ZVFRLXVPUlVQMEZ1S1RzbUZHLVV1STlhYzlwSkVkdExsY05BSm9KWDg0blkza09DWld0dTNrVmkta2NtRmJYaE5HWTk2M0FUYTh6S1QybEtn?oc=5
 
-- PM Modi on 'Made in India', tax reforms, and next steps for India | Top quotes | Latest News India - Hindustan Times
-  PM Modi on 'Made in India', tax reforms and next steps for India.
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSDhITUhWVWJpMUNqVkVKVnNjUFNsR1VoOFNiTzZqVFIyOU9Wdy1ZbUNScFFJLVFvejRKbXlwMEJkeHo0TzdJM3hrdTJBT1V6aHNqQzRXemhRblkxaFdnNmRsUXJmc3hvdDZZV2g1SWZIMFBnMmd6ZE1QM1pvejZ5TXA4TXBkYjVpLUZkd3I1cWVZaThPQ200SjlfVUNvdllobkJ2QXduQURJOHJhdzlTUkhpZ0lwWmRkbnk1ZHRoMG45QdIBxwFBVV95cUxOZ1BMbndFdEh3bXFVVFBlLWdmMTFjUkVoYlBHVW5tLTJ1S1JTNEI3U3FxNXhyYWIyMlczVEg5ZGFLXzBib3NOZzZrRE03d0EzRGhJSXExR3NZZVkxbHBfc200UENYZ1VMWFZrR2R0T3JHVFMzQ3NNLUdKbEREcGZQMkwzUm9rNkNkZWVKT0ROdXBmMVBnTTgwVlNvUHVQMnlVOFVyTHNVaklpaDZBUW11WnRYbEhabjMwNmhmZjhRVFViV3B1ZVJR?oc=5
+- CM Yogi Adityanath calls for public suggestions for Vision 2047 in Uttar Pradesh | Latest News India - Hindustan Times
+  CM Yogi Adityanath calls for public suggestions for Vision 2047 in
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZzFHOGJwellYY1FsdnQ2Q0JkTmQxT3d1M0pHMDF4NnB4cm5jeUlLR0RGdFVUM3JwRDJlTUpHNG5veHAyLWg3OUNnTWdWamh4RzA2eHJrTDlVZjY0cVVfMFVFZEhCV1kxOVVqdHNkTDlVRlZmUzJ1bl9PWVYxdEpkWDg0WDFESzFFck55QjNTVGtTLWVnUHJpZjVWUEpFTE9sb0N5NTE4YWJIbVFaX3JxVUN6T3R3X3ZRUFJZdWFQd0d5b0JDYU1YaEdwUmw5N2NBQWMtcmpxRTNfQUHSAeABQVVfeXFMT3hVR0NjZmVKcktHcUhCQnhES19fRUVfOEhHYU1kRzRvZndBeUhXcC1tVTQ5TUlwbXRKcUpoNC1zYUJSN29GNEpLZ1VidHRsbWF5VHE3a0tHT3N1RFdOMEVKVmlnWEhsWkp6bGdpVmJFV3BoNFYwTmZvTTd0WDMyandqekVwYVNWMk5YdXZJVEM0czhHNUpqVXRTTmRpbm52ZzVBazIyWUlOT0h4enNWZ3Rjck9HOWE1TkI2TzJLX0FBUDFXWWhDd2NSek5VLThmZ2xMNlZkN2NHVWVYcDdJYnM?oc=5
 
-- Next-gen GST reforms to accelerate India's growth, says PM Modi; highlights importance of 'atmanirbharta' - India TV News
-  Next-gen GST reforms to accelerate India's growth, says PM Modi
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQenotaHFqeV9PYTZMaFU0MjdTbmZMb2hsRDZBXzRzalNtOXRnTG5BUjBOU3dyelJpd2NkVXIxVHk2RVdnM0VOY3duRTRzME8wdE81eTQ3eGozaXZ1eGU4cHFfckpTcWYySzd4dEd1LTJZM1prR2JLTzM5ZndaU1FMRzNSSFhYZ2hEUVFtZmdzSm1ESWFqMkszTXBIOS1CWWxYZmxZSktuMHJ2TXZqa0NpLVpEdHpmWUQ3M0dHcDJITnNQUkx3aXU5dVNjdVE0ZUVNMm03RVVqMFVSZWVaaEhfYUk3U1U0MjJnNV80RnRFaWzSAfYBQVVfeXFMTUtLTm9hOW81a2VBWUdjWTZNcnB1TUlLajdNNjI1Y2xEQnp5VldYN0FrOHJEbjdwR3R2YmVpQUx5ckI3S3Y1cVExcUNsSW5mQ2g4V280aUo5OVYtTDZsWnFLUFJvMHJXOUl6U2E3MGstSUVZS3NQSTNsTDVmWlBoZ1JUSDJmWldKZzl4VHhScmpUUmhtelNZVmlwblRfZnB2X2wzSzlwek9YamtMUkJKZHZ0dGtPTWdZUlFpOENqT1IzX2ZYTWtuWWZoWEVGRVdsOUd0UjJzRFZBdExldlFadXhhT0phb1RmYjFPQWtORkJIUkE0WTVB?oc=5
+- RSS Chief Mohan Bhagwat Says ‘India Must Not Proceed Blindly’ Amid US Trade & Visa Strains - News18
+  RSS Chief Mohan Bhagwat says ‘India Must Not
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxONVhTTHpfTnNlZnBHUVhRSDBiVUY4Y0RVWUlUWUdFVkkxcm5LeFp4ZC1HRUppemg1ektlYmRFclZGeVF1REV1TUlzX2l5aE16NDE1Z2d5a0kxV2FUbDBqR19ILXk1cFFnUzNoLU1ZbFViYnZCdC1ZQ0xIOEtuUXJhR0o2QUcxS0MtMnd0RFVKX2FwYnllTGdudFFaekRLek5mTDJXLWNqM1E2a0I0YXdXYUlETHdVMWNMU3VpREQ0RnNGaW1aakJB0gHMAUFVX3lxTFB2OVV1SzJtV1QxSENpSGU1ZnJ2NGVBenBCTDRTaXgtS3Rqd1psRkwzaTM3akxpTHRlcWpfdW1mbnExb2ZvWENVclVlVzF2SlZ1eUdWQVhESUJfVDNDR0RiZjlMSDl1elNVc3FPeXB4NEdZSWxOS0tlU1psSGRJY3lqdUkzbVdaeTNFRnZpemxTWnctYUVPLXBxdTBDODBxTmk1YVNpU1pkRXdYSG5qYlpQMWZtVEZBcmdqWVBfWXRzZjhYY25nRFBvYlZ5UA?oc=5
 
-- PM Modi's Big message to states: Accelerate manufacturing, create conducive environment for investment - Mint
-  PM Modi's Big message to states: Accelerate manufacturing
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVVo1c0RXaUZHUGdxaG5Nd05uMWhmbUhIOVJlTmt3QVpWdkU0RnMxSy0zWkVNS1R5cEJTNThEZ0F5dXlaZGs5b19fQk1xcHA5UnYtVjFoYTV2aUliT3NhdEVVSlBfcnY4WHFfRWFUQ2Q3bi1ZM3JNbVdsS0ZvM3U1bVBad2RmRm1sLXBWWm5wQWR5Q2ZRTHY0YW5FWHFZXzBtUzFxYzFIcGlVWllqMV9ESXE0VUt0M3huZ1F4NHlRQVM1Q0ZOb2l2cHRJR1p2aDZwRmdvWW5KVlVhRi1iNC1oZ3l5WE1ORGZkRDlz0gHwAUFVX3lxTE4zX29XM1hCWnlZYlRUVVAtd1ZyTE5SSi1zbGJHZkFCY1lwdlVyRWpTX1VIZGtxRjdRV2pPNEREQzduREhPaXBpX2pVR3lqNFFoVGN6amxDNVN2Q2ZHbjZrTTJHUVpnUXcxSVdRb0FVVmNCRFQ3VFIybFhLSmpCMEpJSWRzR2tFZTZGaHdPVF9iR1UyRHh1M0VkazZHd24tQlhnRWZjQVNyeC1NSzdwWVpXQzVqZXRCaFZwU3ZPcjRjR1E4NjJXTnZUc3RmNHQydXBFTnFmVkF0TFlMdDVNZERIaHZwY2hyaFJtZ2hkN2xnNA?oc=5
+- NDTV Explains What Gets Cheaper Under GST 2.0 Reforms - NDTV
+  NDTV Explains What Gets Che
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxONGVVRThURU1LekQ5ekRTRDI2ZS16MFV2Q2dSVVlCXzNHQ0FuS0NUcFRpSTRWbFBaMllhZ193dDNGRks3RU15c2hXZjRlZ3ZsNmxGY01XSzZyMkNjd2lNamwxMF95S1hvT0hBNzVlQnpCTkZjY2x1Vl8yTW40aWxSRXRwTktyUVRrdmtqZU1oMzU1OTNiRDZZMNIBoAFBVV95cUxNRXJZM3lmdnBodnhSS25WN2NFTGlmUzh1LXphZU03Mkg0cFpYcVVjdzUydGxaNncyODJXUTVOMzNrbHpaV3I4NGU5dVdKZmhUQzN3RWtKaHNVbEtJUDFZQUo1aUNNbEdGbjFQM1V3M0Z3bHJwdUhLMHppWnVYdHU4M2lzMWRjVEg4MjR3Vkh3V2pFeXhVbTFCNWhVNlUwUXJS?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Breaking News Live: Prime Minister Narendra Modi will address the nation today at 5 pm - The Times of India
+  Prime Minister Narendra Modi will address the nation today at 5 pm.
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ0xRVDNtN0VWWTd4YXUwdDRaY01tMVB2OTZxWFNNcDBSVWN6aklwb0ZpcFc5N0N6bWh4T25GUnFPWlMxUExDNmxFR0QwQzRLUVhsdnZkR3V2dkUyRy1pQXZKbEpjcWhQQ3I2T2pGNE5aTTFiMDFlSVJpdXdFWHhTUU02Sk1FSktMSk5hMHFfenBiSkhLSkZzbnBrOW9NWXdGQ3RhWHlSeTE3Q3puUnZJWmJVcTNheFRibVdvd096XzFkS0RrcmREdWFfcTU5NVJVTkdtUm9R0gHbAUFVX3lxTE14NEtXZUpVbEZZMmtjNTBVYl9KekhxV2hVa2RHemZOYzhwMVdGMzNyTk1heFhZVXlncXRFYnN5SzlQNjZrbWExN2NlTEFwY2ljMkZhYWdOVDJHQU05SEl2MTg0S3RhZWZpcUR5bU9PY2VURTdkU0cwYkJ0bzRCMGpmZzlURFF2bU9OVHJMQ3FubGEtVHFlczZCNUpZaU8zTU5DZGtGUnR4WGdBRGdiVWs2Y1Q0YTFkRWQybVdsU2pqcGg5dlV0NXA2eUZ6QXctQnd4dDZlTkdxOEt4QQ?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- PM Modi To Address Nation Shortly. Suspense Over Subject - NDTV
+  PM Modi To Address Nation Shortly.
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxPdkF0ajNDdG9nQ0dIc1VoMlpGUUo2NWhLYl9NSm5zYmtmdDlUOUZ2VDQxYWdPVERhU2FJYWhvZWF1MEhxeUJOSzZ6SDRPNUx2N2RxdS1zeEdZcFJKTWtPUkpUVVUtN0t6QkZ1TnpmaFowRktIMGRxLXFVTjdXV1ZlWjlNN1BFZ9IBjgFBVV95cUxNbFVPeG1zdkY5emcxdFdwQVVhQmhVd2hDcm5RVFpCNUM3ckFCUXhhdjltODQ4M0dNdWFSNW96ZVFRLXVPUlVQMEZ1S1RzbUZHLVV1STlhYzlwSkVkdExsY05BSm9KWDg0blkza09DWld0dTNrVmkta2NtRmJYaE5HWTk2M0FUYTh6S1QybEtn?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- CM Yogi Adityanath calls for public suggestions for Vision 2047 in Uttar Pradesh | Latest News India - Hindustan Times
+  CM Yogi Adityanath calls for public suggestions for Vision 2047 in
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZzFHOGJwellYY1FsdnQ2Q0JkTmQxT3d1M0pHMDF4NnB4cm5jeUlLR0RGdFVUM3JwRDJlTUpHNG5veHAyLWg3OUNnTWdWamh4RzA2eHJrTDlVZjY0cVVfMFVFZEhCV1kxOVVqdHNkTDlVRlZmUzJ1bl9PWVYxdEpkWDg0WDFESzFFck55QjNTVGtTLWVnUHJpZjVWUEpFTE9sb0N5NTE4YWJIbVFaX3JxVUN6T3R3X3ZRUFJZdWFQd0d5b0JDYU1YaEdwUmw5N2NBQWMtcmpxRTNfQUHSAeABQVVfeXFMT3hVR0NjZmVKcktHcUhCQnhES19fRUVfOEhHYU1kRzRvZndBeUhXcC1tVTQ5TUlwbXRKcUpoNC1zYUJSN29GNEpLZ1VidHRsbWF5VHE3a0tHT3N1RFdOMEVKVmlnWEhsWkp6bGdpVmJFV3BoNFYwTmZvTTd0WDMyandqekVwYVNWMk5YdXZJVEM0czhHNUpqVXRTTmRpbm52ZzVBazIyWUlOT0h4enNWZ3Rjck9HOWE1TkI2TzJLX0FBUDFXWWhDd2NSek5VLThmZ2xMNlZkN2NHVWVYcDdJYnM?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- RSS Chief Mohan Bhagwat Says ‘India Must Not Proceed Blindly’ Amid US Trade & Visa Strains - News18
+  RSS Chief Mohan Bhagwat says ‘India Must Not
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxONVhTTHpfTnNlZnBHUVhRSDBiVUY4Y0RVWUlUWUdFVkkxcm5LeFp4ZC1HRUppemg1ektlYmRFclZGeVF1REV1TUlzX2l5aE16NDE1Z2d5a0kxV2FUbDBqR19ILXk1cFFnUzNoLU1ZbFViYnZCdC1ZQ0xIOEtuUXJhR0o2QUcxS0MtMnd0RFVKX2FwYnllTGdudFFaekRLek5mTDJXLWNqM1E2a0I0YXdXYUlETHdVMWNMU3VpREQ0RnNGaW1aakJB0gHMAUFVX3lxTFB2OVV1SzJtV1QxSENpSGU1ZnJ2NGVBenBCTDRTaXgtS3Rqd1psRkwzaTM3akxpTHRlcWpfdW1mbnExb2ZvWENVclVlVzF2SlZ1eUdWQVhESUJfVDNDR0RiZjlMSDl1elNVc3FPeXB4NEdZSWxOS0tlU1psSGRJY3lqdUkzbVdaeTNFRnZpemxTWnctYUVPLXBxdTBDODBxTmk1YVNpU1pkRXdYSG5qYlpQMWZtVEZBcmdqWVBfWXRzZjhYY25nRFBvYlZ5UA?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- NDTV Explains What Gets Cheaper Under GST 2.0 Reforms - NDTV
+  NDTV Explains What Gets Che
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxONGVVRThURU1LekQ5ekRTRDI2ZS16MFV2Q2dSVVlCXzNHQ0FuS0NUcFRpSTRWbFBaMllhZ193dDNGRks3RU15c2hXZjRlZ3ZsNmxGY01XSzZyMkNjd2lNamwxMF95S1hvT0hBNzVlQnpCTkZjY2x1Vl8yTW40aWxSRXRwTktyUVRrdmtqZU1oMzU1OTNiRDZZMNIBoAFBVV95cUxNRXJZM3lmdnBodnhSS25WN2NFTGlmUzh1LXphZU03Mkg0cFpYcVVjdzUydGxaNncyODJXUTVOMzNrbHpaV3I4NGU5dVdKZmhUQzN3RWtKaHNVbEtJUDFZQUo1aUNNbEdGbjFQM1V3M0Z3bHJwdUhLMHppWnVYdHU4M2lzMWRjVEg4MjR3Vkh3V2pFeXhVbTFCNWhVNlUwUXJS?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Breaking News Live: Prime Minister Narendra Modi will address the nation today at 5 pm - The Times of India
+  Prime Minister Narendra Modi will address the nation today at 5 pm.
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ0xRVDNtN0VWWTd4YXUwdDRaY01tMVB2OTZxWFNNcDBSVWN6aklwb0ZpcFc5N0N6bWh4T25GUnFPWlMxUExDNmxFR0QwQzRLUVhsdnZkR3V2dkUyRy1pQXZKbEpjcWhQQ3I2T2pGNE5aTTFiMDFlSVJpdXdFWHhTUU02Sk1FSktMSk5hMHFfenBiSkhLSkZzbnBrOW9NWXdGQ3RhWHlSeTE3Q3puUnZJWmJVcTNheFRibVdvd096XzFkS0RrcmREdWFfcTU5NVJVTkdtUm9R0gHbAUFVX3lxTE14NEtXZUpVbEZZMmtjNTBVYl9KekhxV2hVa2RHemZOYzhwMVdGMzNyTk1heFhZVXlncXRFYnN5SzlQNjZrbWExN2NlTEFwY2ljMkZhYWdOVDJHQU05SEl2MTg0S3RhZWZpcUR5bU9PY2VURTdkU0cwYkJ0bzRCMGpmZzlURFF2bU9OVHJMQ3FubGEtVHFlczZCNUpZaU8zTU5DZGtGUnR4WGdBRGdiVWs2Y1Q0YTFkRWQybVdsU2pqcGg5dlV0NXA2eUZ6QXctQnd4dDZlTkdxOEt4QQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- PM Modi To Address Nation Shortly. Suspense Over Subject - NDTV
+  PM Modi To Address Nation Shortly.
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxPdkF0ajNDdG9nQ0dIc1VoMlpGUUo2NWhLYl9NSm5zYmtmdDlUOUZ2VDQxYWdPVERhU2FJYWhvZWF1MEhxeUJOSzZ6SDRPNUx2N2RxdS1zeEdZcFJKTWtPUkpUVVUtN0t6QkZ1TnpmaFowRktIMGRxLXFVTjdXV1ZlWjlNN1BFZ9IBjgFBVV95cUxNbFVPeG1zdkY5emcxdFdwQVVhQmhVd2hDcm5RVFpCNUM3ckFCUXhhdjltODQ4M0dNdWFSNW96ZVFRLXVPUlVQMEZ1S1RzbUZHLVV1STlhYzlwSkVkdExsY05BSm9KWDg0blkza09DWld0dTNrVmkta2NtRmJYaE5HWTk2M0FUYTh6S1QybEtn?oc=5
+
+- CM Yogi Adityanath calls for public suggestions for Vision 2047 in Uttar Pradesh | Latest News India - Hindustan Times
+  CM Yogi Adityanath calls for public suggestions for Vision 2047 in
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZzFHOGJwellYY1FsdnQ2Q0JkTmQxT3d1M0pHMDF4NnB4cm5jeUlLR0RGdFVUM3JwRDJlTUpHNG5veHAyLWg3OUNnTWdWamh4RzA2eHJrTDlVZjY0cVVfMFVFZEhCV1kxOVVqdHNkTDlVRlZmUzJ1bl9PWVYxdEpkWDg0WDFESzFFck55QjNTVGtTLWVnUHJpZjVWUEpFTE9sb0N5NTE4YWJIbVFaX3JxVUN6T3R3X3ZRUFJZdWFQd0d5b0JDYU1YaEdwUmw5N2NBQWMtcmpxRTNfQUHSAeABQVVfeXFMT3hVR0NjZmVKcktHcUhCQnhES19fRUVfOEhHYU1kRzRvZndBeUhXcC1tVTQ5TUlwbXRKcUpoNC1zYUJSN29GNEpLZ1VidHRsbWF5VHE3a0tHT3N1RFdOMEVKVmlnWEhsWkp6bGdpVmJFV3BoNFYwTmZvTTd0WDMyandqekVwYVNWMk5YdXZJVEM0czhHNUpqVXRTTmRpbm52ZzVBazIyWUlOT0h4enNWZ3Rjck9HOWE1TkI2TzJLX0FBUDFXWWhDd2NSek5VLThmZ2xMNlZkN2NHVWVYcDdJYnM?oc=5
+
+- RSS Chief Mohan Bhagwat Says ‘India Must Not Proceed Blindly’ Amid US Trade & Visa Strains - News18
+  RSS Chief Mohan Bhagwat says ‘India Must Not
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxONVhTTHpfTnNlZnBHUVhRSDBiVUY4Y0RVWUlUWUdFVkkxcm5LeFp4ZC1HRUppemg1ektlYmRFclZGeVF1REV1TUlzX2l5aE16NDE1Z2d5a0kxV2FUbDBqR19ILXk1cFFnUzNoLU1ZbFViYnZCdC1ZQ0xIOEtuUXJhR0o2QUcxS0MtMnd0RFVKX2FwYnllTGdudFFaekRLek5mTDJXLWNqM1E2a0I0YXdXYUlETHdVMWNMU3VpREQ0RnNGaW1aakJB0gHMAUFVX3lxTFB2OVV1SzJtV1QxSENpSGU1ZnJ2NGVBenBCTDRTaXgtS3Rqd1psRkwzaTM3akxpTHRlcWpfdW1mbnExb2ZvWENVclVlVzF2SlZ1eUdWQVhESUJfVDNDR0RiZjlMSDl1elNVc3FPeXB4NEdZSWxOS0tlU1psSGRJY3lqdUkzbVdaeTNFRnZpemxTWnctYUVPLXBxdTBDODBxTmk1YVNpU1pkRXdYSG5qYlpQMWZtVEZBcmdqWVBfWXRzZjhYY25nRFBvYlZ5UA?oc=5
+
+- NDTV Explains What Gets Cheaper Under GST 2.0 Reforms - NDTV
+  NDTV Explains What Gets Che
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxONGVVRThURU1LekQ5ekRTRDI2ZS16MFV2Q2dSVVlCXzNHQ0FuS0NUcFRpSTRWbFBaMllhZ193dDNGRks3RU15c2hXZjRlZ3ZsNmxGY01XSzZyMkNjd2lNamwxMF95S1hvT0hBNzVlQnpCTkZjY2x1Vl8yTW40aWxSRXRwTktyUVRrdmtqZU1oMzU1OTNiRDZZMNIBoAFBVV95cUxNRXJZM3lmdnBodnhSS25WN2NFTGlmUzh1LXphZU03Mkg0cFpYcVVjdzUydGxaNncyODJXUTVOMzNrbHpaV3I4NGU5dVdKZmhUQzN3RWtKaHNVbEtJUDFZQUo1aUNNbEdGbjFQM1V3M0Z3bHJwdUhLMHppWnVYdHU4M2lzMWRjVEg4MjR3Vkh3V2pFeXhVbTFCNWhVNlUwUXJS?oc=5
+
+- T.N. company says it has developed water-to-hydrogen technology - The Hindu
+  T.N. company says it
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQVWF0Y3ZYN1JEZ2FNLUxaWXZJX3I2Zy1QVDl4YXRHZFR0YXBZb21OclJrWHFSaklqNDAxcUdYVmNrd1M0R0p4SXAzT3ZWRGozY2pPS3h3VW04ZmY2WXNZM2ktUFgyX0JwR2lOQ1lVREIyQjFUNFJVY2tSY1VSODRQd3hQRnVab2hvVVE5MmdHdmx6U2M2dEVraHlpUGlUUXdHZlZ6X2hHSG11bjFEbnR6SmlfVHdqOFhjeXZXRXp1LVkzUXBPbDIzWnAzTdIB0gFBVV95cUxObVVUUnJ4cGkyUkYxeWtBSEQ4dERIYWZ0TjV1UThiRW5xVm9EdGZVb3pvOWtTcVRBOURjRFEyV0tvUnV6NHNlek56TTk3azBMOGNyR3RFRmpQTmZ5UW5NYTAtQmhJaWs1Q3Rwek9TRVducHZROU9mM0FhWkQ5X2ZURWo1TWhsMEVtd1owVjBqdEprRjcyWnFhS1ZrWXRpcTQ4NjJmWVlsclcydGs4aUI3QWgybi12ZXhKcDI2ZTMybFktSGZDTEx1QTkxRzJoeHhQNmc?oc=5
+
+- IIT-Indore develops low-cost metal 3D printing technology - The Times of India
+  IIT-Indore develops low-
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNd3lpUXNQRlh6THZicjFxUG5JUTVyN2sxWGRFMFlITml5bHdHSTl2UTRsQW5KdjlVWTkxVUhzanU3X0FTMklPNWFBS1BzaWszSFFMeHl6OEhXZHcwTERLSjhHMHR0X0NsNXZsSHRCU184VGI3NVVvYXhqbzV5RW1hSU1mWmIyZ3VYZjFmOE1YZTlyb2pwQWNNSWRTN2N6ckEyQ3g3a25XVmpTOXJaaHltUUNZdVRDQl9FbHNPQlpfc1hsZFdhZ3l6UWl6Y9IB0AFBVV95cUxQcUQtYi1QSHd6ZmRFbW9uRnFzOUFQTHpMYTlEaVhpWXRhbnFnbC1ReXNzRGg5N3BfTDdQbHNxeFBURV9mb2ZnNHJ6ZzdpN0dmS21kbHR3QWdIZUN6YXg5UEVnMTU4c0Y3MmZnZWhCTUx2ZFFzWk1HazFtdjEtN3hvS3dqNXNRTUdfRWdVcnczeUZXQmFpWTU4WTN1cDM4MENUSFdmWFRWdkhMaEN1ZENmZHJPZVNNUzlEc2VUUWx3Vmhpek5Hd1RSQjBvLTR1X1JI?oc=5
+
+- Nvidia just spent over $900 million to hire Enfabrica CEO, license AI startup's technology - CNBC
+  Nvidia just spent over $900 million to hire Enfab
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3BoUHVnNmhCSjQ2azUxRGZQZjktR0dWajVvdEE4R0lYcEF5N3Nra0Mta3pPZ2xiVUhNcXVRTHZxTnZER215c0RtSUZ1UzYtVXZWZnRoS1RaQlRsSVc2MVQ0MVJ2aHlQUUhOVVNWaHotaUNIUkVFSFRlVFNUck9mZG4wNWtleGgtYWZGVjlTWEY4bl9IendyV0NlbmY0aEhvTTRDRmltQ1jSAa4BQVVfeXFMUFQwa2xCMlBpV3l3alpnOGotdjI1b2RwQXZOb1BFRF8yVUVvS1FaQU5iZE5VQmd1djZqQ0tfWDJfTklFNU1sUk0tTVpmYjl0MGtyb0Z1LWhxSkx6Mkd6U05pLVc3bnpvQlRmY0puVldheXJVdTF2SHFyUlFtM3BrLXVxcGtrbTAxZmhoQzFFVzVpclpFa0RNcTJwYlN1OEkxVkdNdW9QTFV6X2o5VTV3?oc=5
+
+- Samsung Galaxy phones and watches may soon help detect Alzheimer’s in its early stages - The Indian Express
+  Samsung Galaxy phones and watches may soon help detect Alzheimer's in its early
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZlVfODRDemhpQURkMjBWN2FQYnpRLWxmeUwtN1hCYmVQZW5LWTlRZGRHSVItUU41TTdDU2NfY09BVEVSZkFtM1hEcDZVTW01aFMxQnZNUHp5RUZIaXJQdzQ1TTNJRm1pSy1RNko1bW9UeGNwOXpRdk02Y29adlN2UjhMTUlCUllmOElNRXZYdWpmUHZpN1REVVNicDZ0aTh2cHZaczh0OVAyWEpOd1kyWFhNUFRfcjctTDE4VmFLLXY2ZHRiTG5yT0lHRzVNa0lY0gHXAUFVX3lxTE5HRVUyaEpnVlZUSlVpVGxqNndodnA0VW5OU2F3M0xFaDMwYzIwQ1ZVUmxHMDRDcEhwaHFhaGxnRXZ3ZVBDbVNNZ3pCWVo3UmtVa1NRR0U5Q0FqY1pzbGd4cmtzdUM5VEd4bmNMRGQ1a0xXYldzMGJhYmY0dE5Md0FLUk5zWXBTTUN1eFY0a2dScVFiOFVlekduaWVtR1dEZUJDLU9CVEF3Rjh5UmhSOXZ5R3BfQVdGa0QyUzVTRmpRS3d6VFhwSmpXVkZMT1liSmN2a0RuWWdz?oc=5
+
+- From passion to profession: Building a career in organic farming - India Today
+  India Today is a leading news website. It
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUzM1TGlBNHNhRWd6V250OTJRaUstRFpEcHBhbHo0WWh0VS1KYWZqQWJSVndidzhjeG04Mm5ReUxYMnJkN1hKeVJILTZaenNrZ2xGLU5PM2dnZmhELWxqWkthQWZvRVktSV94UklJeVY2Q2FOMXdnR0Z5MjN6M0FZQXhuelRGRjFPZ2ltNDFJVTNVNlJRWUppX1paVDEybm02MlQ3NllpOG9fajg2WlBrZll3X3E5WGtZalpmS1VVei1Sa3hnbFVUY3F1R0pNR2hkejlzUEc3YUlkLTZtS0x0M3JfUFczNFB5X2hLMUFwR2Y5N1IwSm5CZGViWdIBgAJBVV95cUxPY0J0YXJSWVppQVlMZUx5dFhNVFJlM0RnbS1HNlhZYXhtTXZMMmJDRnR4cUlBVGs4UmtPWUNEWl9VR09XekgtQmNCbXp0RU1NUU1YazlQRWhibThiOVhsUWlrUzVKbFV6VXBWMHpoRHBDQVpNLUIyWlRNVHhaOHVPazhTWXZZZU9TcGk3TDd6eDdjWURDOXhJRDNiSjNZUy14QV9adVdWdnNqLUJFbHY3NkNYNm1BZHVqYnVJVUhvT1NKeDJYOWJ1N3JWRG5hZUxlYVBhalZrTUxtQjFNWEo2RG9NTDVVeHJjTUI3SXllMkVSc3RDUWVnUWh4VHJaUC1X?oc=5
 
 
-_Last updated: 2025-09-21 12:31:03 UTC_
+_Last updated: 2025-09-21 18:23:24 UTC_
