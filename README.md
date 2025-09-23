@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Why no FIR, asks Madhya Pradesh HC about Indore’s ‘rodent attack’ case
+- ELSA 3 sinking affected marine life, water quality along south-east Arabian Sea: Report
   
-  🔗 https://indianexpress.com/article/india/why-no-fir-asks-madhya-pradesh-hc-about-indores-rodent-attack-case-10265439/
+  🔗 https://indianexpress.com/article/india/elsa-3-sinking-affected-marine-life-water-quality-along-south-east-arabian-sea-report-10265522/
 
-- Petitioners challenge socio-economic survey in Karnataka HC, claiming it violates Aadhaar Act and exceeds state authority
+- 13-yr-old Afghan stowaway lands at Delhi airport, sent back
   
-  🔗 https://indianexpress.com/article/india/petitioners-challenge-socio-economic-survey-in-karnataka-hc-claiming-it-violates-aadhaar-act-and-exceeds-state-authority-10265394/
+  🔗 https://indianexpress.com/article/india/13-yr-old-afghan-stowaway-lands-at-delhi-airport-sent-back-10265513/
 
-- Custodial torture of 2 Punjab labourers: CJM orders Kathua SSP to register FIR
+- BJP says reduced GST rates will boost GDP, employment
   
-  🔗 https://indianexpress.com/article/india/police-claims-of-innocence-cant-be-accepted-at-this-state-kathua-court-orders-fir-in-custodial-torture-case-10265171/
+  🔗 https://indianexpress.com/article/india/bjp-says-reduced-gst-rates-will-boost-gdp-employment-10265671/
 
-- EAM Jaishankar and US Secretary of State Rubio hold bilateral discussions in New York
+- Zubeen Garg death: Assam govt orders second autopsy citing ‘public demand’, though CM says he is not in favour
   
-  🔗 https://indianexpress.com/article/india/eam-jaishankar-and-us-secretary-of-state-rubio-hold-bilateral-discussions-in-new-york-10265236/
+  🔗 https://indianexpress.com/article/india/zubeen-garg-death-assam-govt-orders-second-autopsy-citing-public-demand-though-cm-says-he-is-not-in-favour-10265510/
 
-- Terrorist sightings spark off massive searches in Kathua
+- Elections every 4-5 months makes Union govt hesitant to undertake reforms: Panagariya
   
-  🔗 https://indianexpress.com/article/india/terrorist-sightings-massive-searches-kathua-10265210/
+  🔗 https://indianexpress.com/article/india/elections-every-4-5-months-makes-union-govt-hesitant-to-undertake-reforms-panagariya-10265501/
 
 - Nvidia to invest $100 billion in OpenAI as AI datacenter competition intensifies
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-16-under-rs-55k-iphone-16-pro-under-rs-90k-flipkart-big-billion-days-2025-makes-apple-devices-cheaper-10264727/
 
+- Startups and VCs race to digitize India's growing army of mutual fund distributors
+  Mutual fund agents are seeking tracking tools to scale faster and meet the
+  🔗 https://www.livemint.com/companies/start-ups/startups-vcs-digitize-mutual-fund-distributors-assetplus-zfunds-wealthy-sip-upi-payments-groww-cred-wealth-management-11758537124390.html
+
+- IPO-bound Tata Capital plans to raise share of used vehicle loans. Here's why
+  Tata Motors Finance merged into Tata Capital about four months ago to simplify business, achieve scale and exploit synergies. But all has not gone as planned. That has prompted Tata
+  🔗 https://www.livemint.com/companies/ipobound-tata-capital-tame-credit-costs-in-merged-tata-motors-finance-vehicle-loan-business-focus-on-used-vehicle-loans-11758534855737.html
+
 - Google faces US federal court trial over ‘harmful conduct’ allegations. Can tech giant avoid a business shake-up?
   Google is set to face a US federal court trial in Virginia over allegations that it used its monopolistic power in the
   🔗 https://www.livemint.com/companies/news/google-faces-us-federal-court-antitrust-trial-over-harmful-conduct-allegations-can-it-avoid-a-business-shakeup-11758557498698.html
@@ -52,93 +60,65 @@
   More companies
   🔗 https://www.livemint.com/companies/company-results/factboxmore-companies-adopt-co-ceo-structure-11758557521310.html
 
-- Five facts about Oracles co-CEOs Clay Magouyrk and Mike Sicilia
-  Oracle co-CEOs are
-  🔗 https://www.livemint.com/companies/news/five-facts-about-oracles-co-ceos-clay-magouyrk-and-mike-sicilia-11758557025993.html
+- Global Markets Today: Kospi, Australia's ASX trade higher tracking Wall Street gains
+  Australia’s S&amp;amp;P/ASX 200 edged up 0.17 per cent. South
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-kospi-australias-asx-trade-higher-tracking-wall-street-gains-11758588349471.html
 
-- Discovery Bank to Grow South Africa Loans in Bid to Boost Profit
-  South Africa's newest bank is planning to almost double the number of customers and boost its lending book. It seeks to lift profit to 3 billion rand
-  🔗 https://www.livemint.com/companies/news/discovery-bank-to-grow-south-africa-loans-in-bid-to-boost-profit-11758555008573.html
+- Solarworld Energy Solutions IPO Day 1:Issue opens today; check GMP, subscription status, review, more. Should you apply?
+  Solarworld Energy Solutions IPO opens on September 23. Company plans to use funds to expand its solar manufacturing capabilities in Madhya Pradesh.
+  🔗 https://www.livemint.com/market/ipo/solarworld-energy-solutions-ipo-gmp-solarworld-energy-ipo-review-solarworld-energy-ipo-gmp-solarworld-energy-ipo-detail-11758559980123.html
 
-- Wall St lifted by tech stocks; Fed officials cast doubts on further rate cuts
-  Wall St lifted by tech stocks; Fed officials cast doubts on
-  🔗 https://www.livemint.com/market/stock-market-news/wall-st-lifted-by-tech-stocks-fed-officials-cast-doubts-on-further-rate-cuts-11758560153133.html
+- Stock market today: Trade setup for Nifty 50, New GST rates to US-India trade talks; 8 stocks to buy or sell on Tuesday
+  Analysts predict further declines for Nifty 50 if it sustains below 25,150
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-new-gst-rates-us-india-trade-talks-8-stocks-to-buy-or-sell-on-tuesday-11758555799741.html
 
-- Vanguard bullish on US credit despite tariff risks still on the horizon
-  Vanguard bullish on US credit despite
-  🔗 https://www.livemint.com/market/stock-market-news/vanguard-bullish-on-us-credit-despite-tariff-risks-still-on-the-horizon-11758559176103.html
+- Euro Pratik Sales IPO listing date today. GMP, experts signal muted debut of shares in stock market today
+  Euro Pratik Sales IPO listing date is 23 September 2025. Euro Pr atik Sales shares will be listed on both the stock exchanges, BSE and NSE.
+  🔗 https://www.livemint.com/market/ipo/euro-pratik-sales-ipo-listing-date-today-gmp-experts-signal-muted-debut-of-shares-in-stock-market-today-11758560597867.html
 
-- Gold hits fresh record high as investors eye further rate cuts
-  Gold hits fresh record high as investors eye
-  🔗 https://www.livemint.com/market/commodities/gold-hits-fresh-record-high-as-investors-eye-further-rate-cuts-11758557396229.html
+- Recommended stocks to buy on 23 September—top stock picks from market experts
+  Experts share their top stock picks to capitalise on the momentum in
+  🔗 https://www.livemint.com/market/stock-market-news/recommended-stocks-to-buy-on-23-september-top-stock-picks-from-market-experts-11758554022052.html
 
-- Cryptocurrencies crash: Traders lose $1.5 billion in bullish bets; Ether and Bitcoin tumble —check updates
-  The cryptocurrency market experienced a sharp decline on Monday, with traders losing over $1.5 billion in
-  🔗 https://www.livemint.com/market/cryptocurrency/cryptocurrencies-crash-traders-lose-1-5-billion-in-bullish-bets-ether-and-bitcoin-tumble-check-updates-11758551711282.html
+- Amazon Great Indian Festival Sale is now LIVE on Apple products: Buy iPad, Airpods, MacBook on discounted prices
+  Shop Apple products during the Amazon Great Indian Festival Sale. Get iPhones, iPads, Air
+  🔗 https://www.livemint.com/technology/amazon-great-indian-festival-sale-is-now-live-on-apple-products-buy-ipad-airpods-macbook-on-discounted-prices-11758576837839.html
 
-- Jaro Institute of Technology Management and Research raises  ₹135 crore from anchor investors ahead of IPO
-  The issue is set to open for bidding tomorrow, September 19, and will remain open until Tuesday, September 23. The IPO comprises a fresh issue of 0.19 crore shares and an offer for sale of
-  🔗 https://www.livemint.com/market/ipo/jaro-institute-of-technology-management-and-research-raises-rs-135-crore-from-anchor-investors-ahead-of-ipo-11758556694943.html
+- Amazon Great Indian Festival Sale is Live for All! Huge discounts on gadgets, appliances and more from top brands
+  Amazon Great Indian Festival Sale is live! Grab massive discounts up to 65% on laptops, home appliances, kitchen appliances and more.
+  🔗 https://www.livemint.com/technology/gadgets/amazon-great-indian-festival-sale-is-live-for-all-huge-discounts-on-gadgets-appliances-and-more-from-top-brands-11758554401644.html
 
-- T.N. company says it has developed water-to-hydrogen technology - The Hindu
-  T.N. company says it
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQVWF0Y3ZYN1JEZ2FNLUxaWXZJX3I2Zy1QVDl4YXRHZFR0YXBZb21OclJrWHFSaklqNDAxcUdYVmNrd1M0R0p4SXAzT3ZWRGozY2pPS3h3VW04ZmY2WXNZM2ktUFgyX0JwR2lOQ1lVREIyQjFUNFJVY2tSY1VSODRQd3hQRnVab2hvVVE5MmdHdmx6U2M2dEVraHlpUGlUUXdHZlZ6X2hHSG11bjFEbnR6SmlfVHdqOFhjeXZXRXp1LVkzUXBPbDIzWnAzTdIB0gFBVV95cUxObVVUUnJ4cGkyUkYxeWtBSEQ4dERIYWZ0TjV1UThiRW5xVm9EdGZVb3pvOWtTcVRBOURjRFEyV0tvUnV6NHNlek56TTk3azBMOGNyR3RFRmpQTmZ5UW5NYTAtQmhJaWs1Q3Rwek9TRVducHZROU9mM0FhWkQ5X2ZURWo1TWhsMEVtd1owVjBqdEprRjcyWnFhS1ZrWXRpcTQ4NjJmWVlsclcydGs4aUI3QWgybi12ZXhKcDI2ZTMybFktSGZDTEx1QTkxRzJoeHhQNmc?oc=5
+- What is Zoho? Indian productivity platform Ashwini Vaishnaw now uses instead of Microsoft and Google
+  Union Minister Ashwini Vaishnaw advocates for Zoho to promote Indian products. Zoho offers over 55 cloud-based solutions and emphasizes user data privacy.
+  🔗 https://www.livemint.com/technology/tech-news/what-is-zoho-indian-productivity-platform-ashwini-vaishnaw-now-uses-instead-of-microsoft-and-google-11758548751161.html
 
-- PM launches ship technology centre at Vizag IMU campus - Times of India
-  PM launches ship technology centre at Vizag IM
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNUzZ0eVNYYUptOGJFOFJFckh5ZkJpbDdPT3RzUmVQRFpTblBOZGRTamNWSk1xeEwza05GT1JfX2ZjUE5lX3NxUDI5RmZuc0dKcEs5cXdzNnNRbmxsanNQd2Z0VlU1aHctdEpWanZzdzRxUDR3X0UzQk9NWFlMNEhOaFZ3YUhRYWZsbnhZcE5HU2JuSDdOcWIxYXV0NERUc2VDSi01dDd1ZnpQS01vdWRrUVhaLXpqVVBOOHQxT1lDcDBvSC0yRFlYdXMwNVTSAdIBQVVfeXFMTmJHb0pZSHpIUkJrT28zdVBZRURJNGg3eExCU3NQZ0RNcWRvcmY1cEpIU1BLODZiTF9ZcGdyR2ZzZzVGaEZnc0lla1l0NmxPS1c4UU1QMldNQmpiYmdFSE91Q2RyRi01YTdMZ0NmM0pneDdpOTIzRHZHUEhuMXcySlVuS2FTSDBqTXNfenM4QkNKYmxPTjdWcUpMZEFUa2F1VnFYQ3Y1M0JzeERxTW5tWkI0Mjd3OUJnNnFmNjBZSFRTczJXekprSTRaR1pIQTY1VkxR?oc=5
+- Oppo Find X9 series with Dimensity 9500 processor, ColorOS 16 to launch on 16 October: What to expect?
+  Oppo will launch its Find X9 and X9 Pro models on October 16 in China. Both models feature MediaTek's Dimensity 9500 processor and ColorOS 16 UI.
+  🔗 https://www.livemint.com/technology/gadgets/oppo-find-x9-series-with-dimensity-9500-processor-coloros-16-to-launch-on-16-october-what-to-expect-11758555017539.html
 
-- Nissan showcases assisted driving system using UK startup Wayve's technology - Reuters
-  Nissan showcases assisted driving system using UK
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaGh1OV9qQlBoTnhQRl9YdDFfTEUxakFjY3pfLXU4b3VRTVZMVGdKVFRBMGtlUl83YlA4WVZlck5HYVpabnM3OGtGZFRqWVdZMk9OTmRhWUktcDNKOHdQZTYybzluU3IyX1EwV3ZDRzZQX0xQdmtONlRDTVR1eVhJT2NZU1FjTjhOYTM2UVFzTUZhRFhESlJGUFJZWlc3c2o2dk1RLVRoRnNONmxFUVVLa25faHF1c2p0bnN1TGdqbkN3REpiY3ZDODY5UnVrVnJrejJ4Q2tnS0I?oc=5
+- OnePlus 15 live image leak shows bold new design, confirmed to come with Android 16
+  The upcoming OnePlus 15 is expected to showcase a new design and color. It may feature Snapdragon 8 Gen 5, a 6.78-inch display, 7,000mAh
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-15-live-image-leak-shows-bold-new-design-confirmed-to-come-with-android-16-11758534355040.html
 
-- Nissan joins race for fully autonomous cars with new technology push - India TV News
-  India TV News: Nissan joins race for fully autonomous cars
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxORExFNzNveUtZWkJnZnFJV3FHYUhrVml2ODR3aXNXaS1HN052Q2hyMGwtcWRwc0NmWWdRbXExZV85bU1tTC10WjV0VHU3dzhWMnZhOVc3MG42R1RlVjVtOUFDN0xwenFNbHdROVFaRFRza1dTQXV2aGpTTEphX2NwcGVKd2didVNGV0J4dXBFWlNjbVR1Y1F4WDQ1eHNTRWxHMWdJN0hzREJjWmJfLWJ6ZF9RdWd2VVktRlJ5QdIBwgFBVV95cUxOVXpIT3dQdURuZVY0SFhiZlNYZFpmN1BobldrTHdENUREcG0xWWpFWk1QQ2RhYnF3dnVVWWFQNmJrWlRRblVHakVwZC10UzNKY3lZdU80U1hMZy1lSUtWYlA4U05zQzZGT3ViSklyYzdsenFlMW14T2ZaOG9LbnBGZkRsS2tVLUJiVzhVWlFuLWEwRkxGbXhaLUFlR1dCT3Nhc1R3NWgteVBnUnZhYVJwbUtkQXJRUWRySWRQVmJSREdiUQ?oc=5
+- Pre-market action: Here's the trade setup for today's session
+  Indian equities experienced a downturn on Monday. Investors are closely watching Piyush Goyal's upcoming US visit for trade negotiations. Technically, the Nifty's 25,000 level is crucial.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124054817.cms
 
-- Call For Papers For 2nd Edition NLIU Journal Of Law & Technology, NLIU Bhopal - Live Law
-  Call For Papers For 2nd Edition NLIU Journal Of Law &
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOEdxSGFiNWxvNXV6RVI4enUzODl1ZjlFZTliaGpZcUItd1pzS1I4eFROYWs3NEp5OE1PNGpCM2dpLTNnaVRSbGFHX3FRYXpxb0R3RTZmRzdweTNUeThGb0FwMXhuYVY3NmdVMVFLSDJhZWhodTFWZHRFOGlyT3o3RTV4aElXTUM2WEp4RmpWZzBhbmhPUkJZbEliWDB3b0tCa3JHbWE0MjZqd2ViNlVlTW4yOG04bHpzZXlKZ2NJS0dIOEhJSHVkWjJqTTBoYjVrNGo2UdIB2gFBVV95cUxNVHJtQlV2Sm1uMEJrSFh1cGdDVVhkVEZMcU8zNlRleFd0Tzl4TlBIdm5YbnhaOTZuTHlQUnU1eVVPUWk4cmdHenYtVGc5dllNc3dnZmwtNVFGVFE4WTAwTGVHLURkWEktcVVfWWdqSURrY1NyU3NCZmZHdjBrN01CZFVtMUUzYVkwcnBpT2xoX0NnQ0dHNDJEUzVOYmFPSk5xUm1ocjU3NkVrQkM3OFZWVDFzbGdqbTlUaFBtWXoxd3lrbnE0Y1hnVGxhcUE0RDYtY2M2a2tZMUdzZw?oc=5
+- Stocks in news: TCS, Vedanta, IndusInd Bank, Brigade Enterprises, Kfin Technologies
+  Vedanta's contract extension for a key oil and gas block was rejected. IndusInd Bank appointed a new CFO. Brigade Enterprises secured a residential project. KEC International won new orders.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-vedanta-indusind-bank-brigade-enterprises-kfin-technologies/articleshow/124054721.cms
 
-- Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia surges on OpenAI deal - Yahoo Finance
-  The tech giant has agreed to buy AI company OpenAI.
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb09HTHB0RlJVMW5PNlM1eDd3cVpwU3laSHNUV0d2X1hiZ2c1dU1SMENkWTRaRzRTSUhGU3lJWmwtRGdSRk0yYlljZXZCOEhLU0xjWXhXVENsVThPRkVXTlZOZ1ladjMyWE41OFNNTFlNd1Y2M0g3TExLbU5GUVRjTUk4VTAwbnd5U1JpdjJGS2ZzeGtTYjJ0TDViSDlYTFQxV1p5MFN2OEM5MnpYNEY2MXVWMnBxNlZCVXQ2S0xwSFN4eFNySVNqNHBLcE5xSWt0Z0oyVTdR?oc=5
+- Will Anand Rathi's IPO deliver long-term value to investors?
+  Anand Rathi Share &amp; Stock Brokers is set to launch an IPO. The firm's active clients have increased significantly. Revenue has nearly doubled in recent years.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/will-anand-rathis-ipo-deliver-long-term-value-to-investors/articleshow/124058817.cms
 
-- S&P 500 scales to fresh record high as new week of trading begins: Live updates - CNBC
-  S&amp;P 500 scales to fresh record high as new
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE00OG9RY2lYZmU5aHNFX04tcnNWVjVJN2k2ekExN1ZqOUkxNXFOSEJ1RjVSRlhuTEFsMS04STlFM3gyeldfRV9XLUVWcEljT0YydXlqdWprWnE2b0tZN0VoVk5GTEw5R09nQVl3Y1YzZ1FsUWQ1a2kw0gF8QVVfeXFMTWRMd0YxTWRBREpMOXN0dVZtS3VxemFoU1FvRkU0YktMblU1b0tQNDNtbndHTWt4SlI2TkdKZkdTUDdQRFplMWpfWE9VT19yeGduWHp2UVo5c3NEd00yNXVjb19QSHI1UEFsWkE3bV9RQVNpR1h6SzR5c3JoQw?oc=5
+- Is Seshaasai IPO a risky bet for investors amidst declining revenue?
+  Seshaasai Technologies, a payment card fulfillment provider, is launching an IPO to raise ₹480 crore for debt repayment and expansion. While revenue dipped slightly in FY25 due to the absence of a large renewal
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/is-seshaasai-ipo-a-risky-bet-for-investors-amidst-declining-revenue/articleshow/124058775.cms
 
-- Stock Market Today: Dow, Nasdaq Rise; Gold Prices Hit Record; Nvidia, OpenAI in Focus — Live Updates - The Wall Street Journal
-  Stock Market Today: Dow, Nasdaq Rise; Gold Prices Hit Record. Nvidia, Open
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOaURDVERHTzZCdFVtZ0FiMHpqeks2VTBVY3puVlBUY3hEQmJDbDBwUTVaWG82LXRIbUdsRGU2MEtoTWdpMVU0eVJrZG01N2EydFZOVF9YakJJTERNclhNeDJVSlNGVllwdG9oT1dvODlzS1F6c05Wanh1VkZwV2VyR2ZXUjhubXM?oc=5
-
-- Stock Market Highlights: Sensex settles 466 pts lower; Nifty below 25,250; TCS, Infy drop 3% each - The Economic Times
-  Stock Market Highlights: Sensex settles 466 pts lower; Nifty below 25
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSTgwb0w4X1VFbjhkOUlZaFRCYW1XOTUyeXo5RDF1S280MTdLNlowX2EwMnljOHM4ZjBYcEdZS1NkVjhwVXhJbHZlNG56MDhXRHdlWWxQTWZ5OGNpMEI1OWN0SGhadWx2SWVsRmp2aktRbGVyWWZjbkQxN2ZnemdydzZQeHk5WWpmYjg3NTI2bnU3NFk1UVo2bWtyUmF2NDMxejRiRDdQOE9TNTBKODhMVGN5bVkxSnhiSUFLTXVWbHMyczhUMFpiQmFBSVdSWWREc18zU0FqZC0tQQ?oc=5
-
-- US markets today: Wall Street slips after record highs; Pfizer-Metsera deal sparks pharma gains - Times of India
-  The Times of India is a leading newspaper in India. It was founded
-  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxQMXQyNkUzUUpvUGN5WEZqa0x3Ty11Q3hWalpzU0c4YkdoeUIxbXFGeEk1QTNWdUZxZ2NzeEk2YmxKejVwX21GMl9nMGdpV3pZNXpHVjc5YjJZSEUwcENLa1Roa2tOOFg0YjBwN1VvcXFacWxTR25fc2w4UkxRbWo4aS1namhWLXAydWF5OHBqMzJCMlFzYUpab1lxVGpnLXYxWTRKMnZ0VVVVeDhpRmY3YVAxeGxuT25IZGxFcGw5M1BiQnlveFBtNkx5dDg1UlI5TkNhRHNMclBBQTBON3QtNVY0NHFYM01IVzZlX3hTLTdLLTg2UlpqZ2Jram9JNWZRTGR6ekgzcDkyb0ozN29iQ0Z0LVNKQdIBmwJBVV95cUxPZTdZMVhJc2FEM3JOVjAzc3dZYWg4MFdXUDVEazZEMnhtenpJdmpGY3lvZnpPczRNbHo1dTcySWIxMXI1cTdsdXV1TUNQZjZqd3VaUVRVTU1aVzREWVhqcmcycTRQQTdTYlRRTzJlNnhRWFVXbGZVcmw4aVlTYUkyenhMVXAyM01KbzNIcHhDRGJ0Tm4tQ0xzMTF2ZGpWSWVNRlREOW1yY3pja182ZEZlZnViZWltWlNid0RkaEZSYXdtS19uSzZzaFBaQWgwUlY0ZDJENjVDcHVPUW9NOUxWRExNcG5pY0M3blJjTS1CRV9hRTF6TFJjUkl4QnVsZlpPcFhjSGg4dFl1UHRlZHZ1SXdieHc2RnVkTk5z?oc=5
-
-- Anand Rathi Share and Stock Brokers IPO: Co raises Rs 220 crore from anchor investors
-  Anand Rathi Share and Stock Brokers raised Rs 220.49 crore from anchor investors. Shares command a 7.5% grey market premium, indicating strong listing
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/anand-rathi-share-and-stock-brokers-ipo-co-raises-rs-220-crore-from-anchor-investors/articleshow/124053076.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Indian markets ended lower as IT stocks slumped after the U.S. raised H-1B visa costs to $100,000. Analysts say the
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/124052827.cms
-
-- Market Trading Guide: Naukri, Borosil Renewables among 4 stocks to buy on Tuesday for up to 10% gains
-  Analysts term the correction healthy, with key support at 25,050. Experts recommend buying Muthoot Finance, Naukri, Borosil Renewables, and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-naukri-borosil-renewables-among-4-stocks-to-buy-on-tuesday-for-up-to-10-gains/slideshow/124052772.cms
-
-- Bharat Coking Coal, Aequs get Sebi nod to launch IPOs
-  Sebi has approved IPOs of Bharat Coking Coal, a Coal India subsidiary, and aerospace-to-consumer precision manufacturer Aeq
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/bharat-coking-coal-aequs-get-sebi-nod-to-launch-ipos/articleshow/124052455.cms
-
-- India equities well-positioned, but returns to moderate; Nifty target at 26,500: Sanjay Mookim
-  JPMorgan's Sanjay Mookim expects India’s equity market to deliver moderate but steady returns. He favours financials, consumption, real estate,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/india-equities-well-positioned-but-returns-to-moderate-nifty-target-at-26500-sanjay-mookim/articleshow/124051974.cms
+- How will Trump's $100,000 H-1B levy impact Indian IT earnings?
+  Brokerages anticipate a limited impact on Indian IT companies' earnings due to Donald Trump's $100,000 H-1B levy. Nomura, Kotak, and BofA suggest accumulating large-cap stocks
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/how-will-trumps-100000-h-1b-levy-impact-indian-it-earnings/articleshow/124058717.cms
 
 - "India's Time To Flex Diplomatic Muscle": US Lawmaker Amid Trade Talks - NDTV
   "India's Time To Flex Diplomatic Muscle
@@ -148,37 +128,17 @@
   Rs 70,000 crore schemes to regain India
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPamJJTERBX0hHRFpjd3RvanN3MF9xMWlVeTBJSDAtYlFVLU5ueENDaUNxOTFSQVVuTWp6THdLaG5UdWxSLUZFaGM5c2tNdUtpdWk5UHhuNWtQaWNyaWdlQ3hLY0RUTzQxUEpPTnpIM2xDNzFJX1o3YXAxUGV4VENGM0twN1RnUERuLWJJSGU0Y0ZVeGFXWDlYaHNySzV1SkE4LWNFZEgyX1VNbW9CcVNiOFB6eWJBQklFMzFGRGhCUdIBxAFBVV95cUxOTExFM1l2aUt3czhxa0oydE9TUl9uNGFWampXdFJhdTZNNmVZcmh0UzQwSzA4V19TdEhSNVhzM1Y3UjI2ajBoa3hhLWpIbWNWZm1NX1BOUWR3dUhicktsUktWY0ZoRHV4WW5zLXhVMmNGSkNGQnZXZ0diRmZ2TE8zVVFOUzE5Q3dXT3ZZSGh1d3Nrd0lTNXZKeWMxcXJyU2dqUFFIS0FkZnpYb20xTWRCVzBnUzFjNmlMa29Wdy1RZXZWWnEz?oc=5
 
-- India, France review cooperation on civil nuclear energy | Latest News India - Hindustan Times
-  India, France review cooperation on civil nuclear energy.
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVpWZWpLVjVlcWd3aDdLdXROQXJWaE1CcXNhbXRFNGJvdDFtVkQtSzJqaUNYOC1sUXhZMHZQMGdHbEgyR3dsbnVmSm1DZHVzTFBxLWZGRGIxQk0ydF9FSm9GWFFham14VjEwNXdfa0M4MGw5RnBicUZXazNaaTBOMFZIdXVsQjNKcDd2Q0FjdmRnNi1JR3k2aTkxdFdiV0tlbjdsZDZNUmR6NGFRQmtrbE9mX1VWOEhGT0HSAb8BQVVfeXFMTUdhNi1VbGFEa2hvM1Bzc2Z4Nmx4M2VVTnV0b19sT29VcHN0MHZSdTFvRWhLNEZaanpJUHQ0aGJOTnRfaHQyalJLcXRadEMxdUs3UTZSUW5zTEV4WDBIUWN1RjI3WUg2ckVmMUNfNTBlei00bjk0MDdiUzctcVp4cUpwTnAzM0V3eV9VajhqZzYzQW80MWxaUUdONEw5alBuQkNHS3dwWDVoVnhQNmNYVG1OWGhUTGt2QlotcDEyZ1E?oc=5
+- Time has come to decriminalise defamation: SC | Latest News India - Hindustan Times
+  Time has come to decriminalise defamation: SC |
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXJQRW1va295bjlMWGg4X3lrd2JnX3MySEY4azBHTXJCb190Ukt0NXJHRzV3U3JPSk1HQzE2N3JLUGpSVUs5OFJSQ2FKQ1FiNFN4RU5nTHl3NmhQcUs2OXZpVWRmbHU5SlpRQ3ZKZDBTdEZJMlpsR1BFMnUwYWpvcm05akpQMnk5LVRxdzNzQ3k4WkJ6THlMRHFVcy1QOUxVSEdJYjVVUFJud9IBrwFBVV95cUxQcTdydEp3dzVmSlZtODhsanBNY21IZTB1a2h6enJzWTJKNmdWdjY2ZVhWWTAtNjk1aEVXUXBoU3FibnN0Nlg2ZkpLRm1IQlBJNjZBeTVyVU51OFh1cENBRG10NFhlOVBFZ1hPYmtCZTF0YmhzVWk2a2o4aWJRaEtPU2stRWJ1M0k2Q1BZWi1yNk5LT2Z0UzRsM01LblpybkpRTjduTy1raE96RlJ1Y1c4?oc=5
 
-- How should India respond to Trump's H-1B crackdown? Experts debate on Rajdeep Sardesai's show - India Today - India Today
-  How should India respond to Trump's H-1B crackdown? Experts debate on
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTGIwc0RlVU1QUmthcF9maDFRajloQ2thNkMza3RtQ3FEYUxRUjkyZm15TTVfMHhCMWNWeDFJbWRfUnd2dGtnbGVCaFg4dVlDS1pCR2VMUkFLY2tmZGZzeTBJMkdYeFdqbXUtR1hMOEFJTGlHN3ZvN0hBVVczNVRfU190S3Y4NHgyeWpodnJuQ3F2aENhajE5TzZmWnlrekhYa2dJS0l2RXBnVGhMdFZWcm1sTkZENVllRUs4eDlwSEpQM2xaZWFTWmV0SFo4YXFVTTdHMnB1N24xU0VaUmNUZFNUdFlsaHVzOGpQZHd4X1cza3dr0gH6AUFVX3lxTE82U0J1eUNGR045UkJub21fMVF0RDRiS0o1Tk5qSUpiRmdDenBaYXVmRjBiOXhQZUE0R1RHYnFUNEtjVm9UWEJvQmlydjBGQjJaN3ZKbnlmQzgzWEY5UEh5TVFGVWJ4c1Q0QmpXem5YMG12QUQ4VEY3UFRpeU15eXRKempUX3lFVnRFUmN6My10dWNuZU5abndMSWdDaUstSGYtNWpLajZFWlhzemhQS2xlcmJaYUhPVWZZWjJNbWtDNUUxNUxXcEJidXBBZ2lPMEFXandSMzFrOVRoUkVUdm40WUZkNGd1MDlsd3NsZEVzRjVmWXoyWTFiTVE?oc=5
+- Stock recommendations for 23 September from MarketSmith India | Stock Market News - Mint
+  Stock recommendations for 23 September from MarketSmith India.
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQZl84ZjVqMnpDY1ZyX0J2eDJSV1JsdV8xdGh1eENlSDdFbGUtaUpsTFEtMTd2dktZeURsWVNGby00Y3ZwdGxUY2JwOEg5cUpRUElMNlgtYlVzb0d6dkNNSnFTYm5BZU5ZMGMtV3g3Q0tyY0NqenNLeVhySm5yd1pJWUVOYVBES3R6eHpMSlZEUmllMDdSdVFESjU0cHdYY19TdWtxVUNxb1BBaGNreTFpc1NKaDM1WGJWNFAxbkt3Zm9QNm1oVEx3SEpNb1I3TzNoTF9wbVVoT0pqeTdCQ0pUZnpUS2dzbl9zZWhhbWhIYVoxdnZlc2x0Nnp3YmM0anhvWVE2S0lJT1lxcE1PRFJGeC03N2LSAZoCQVVfeXFMTzFHVG5DVXVrQmttdk5fMHZwRlJSQjdaeVF0Z3RHYXQxOWlEbTVFeFU2UTRCU2FGWkZtb0FKT3laaGhmRjhTcVRNQWFud0x4aXV1V0dNRkRpTjVVdmVNd1A5N1FjWGdhbGhtdVhtbkY5OUI2UmRDTUJ0OTVMbXRlendDb3NxQ2JuMHVrWlhzR2o4Zk1TbGVpQW9MNlNqWXVsM1U5ZWJxb0pubHcwOGlrSzBnVEFnM0R0ZnpDY0xMQVQ0NVBxSEpMcGJxWEZNcldHNHZXOEFxSy1keFdEblVvbGwwc2Y3TnpCLUFRRXVPbVRkYi1VejdNaWFxLXBzRDFleGwtS2hUVTNwVUZvdHJXQTRYbkxfZ2d1X0pR?oc=5
 
-- 'PM Modi Gave India’s Foreign Policy A Spine': Amit Shah's Dig At Jawaharlal Nehru - News18
-  'PM Modi Gave India’s Foreign Policy A
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjBrWDhmRDRuQ3NIb3NuT25GSENmdjltckRHLTk3clVHU1pPczhOQnFnU0pYV09mckpvb2dUcUdzc1piaE1NcWFCejl2S1l0UktRbTNqTEl3bzliUmtnUHREUGJUMHVNWHRpRFY2anI5dThER1h0S0l3NGpWQWsxdHJXNnVUOHlzN3puTGt6ek1Uc3ZhTk11a3JmSDRMTlE4SElza2RTdzhUaFVqUG4yTDJZRmtWbkJuYVA40gHAAUFVX3lxTE1BeldOclFSM2Q3Z1FKaUI5Vk41YnpLQVRiY0xpWTVKbkpkaGFjSGdlTHdXVVRIalFaTElhblpiYlhKMTFGamo5M2VVWDFQWnZoTG9vZkhQX3RBZlZnVElvdzFXdlRueEQtRTFrVmNTRFA4Wk10V29FZ3BfUW5rRFFYNlpOZnZnS20xUTR0QjIxTmhGUVRGVTRZTVZtNU9wMVVNSHV5TFFOVjNJa21PZVdhaUlZNk9qMXF0aTBSLThGdA?oc=5
-
-- "India's Time To Flex Diplomatic Muscle": US Lawmaker Amid Trade Talks - NDTV
-  "India's Time To Flex Diplomatic Muscle
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbDR4NlZrZlVrTDExWWwyNk9BcGpuUGJPcDd2eFBIY3pMQ1BqalpUYW5kTzNlZ2Y4RFVETGJXVGU4N2lXMTJ0S3VpZ0M3Yjk5OGhIMFl3c3d3Vzc3YU5JdEFTWFlKNTVmUFNaTUpnNjB5Y0dzaGJtRUd2Y2I5NTAyM29XVDZIT1NQMjZiVmcxa3RaMnNWMDhTZ3hBZWE4NjhpczVLMkhlSU9Jd9IBsgFBVV95cUxPbnhnR0ZISFhWcW90V2dVaGpWWWtEdkhWS09kQlB3NHliSUx2N0hwM3ZUOHBMRzRWSmRBd3dZeEIxR0YzQTVublFFNGNuMTc5SmZWVmptY3RXWUdTNlk4dmdFSU1tenBXeDZ5VXVhQ3hJYjl6aFRtVUlXVmVuRUN3NHRQWDNvTU9GQTBwMldvN2hlV3VkUmpmdHZjM09Gc0hNWWt4dFgtS3RESDk4dW1VNGl3?oc=5
-
-- Rs 70,000 crore schemes to regain India's maritime power - Times of India
-  Rs 70,000 crore schemes to regain India
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPamJJTERBX0hHRFpjd3RvanN3MF9xMWlVeTBJSDAtYlFVLU5ueENDaUNxOTFSQVVuTWp6THdLaG5UdWxSLUZFaGM5c2tNdUtpdWk5UHhuNWtQaWNyaWdlQ3hLY0RUTzQxUEpPTnpIM2xDNzFJX1o3YXAxUGV4VENGM0twN1RnUERuLWJJSGU0Y0ZVeGFXWDlYaHNySzV1SkE4LWNFZEgyX1VNbW9CcVNiOFB6eWJBQklFMzFGRGhCUdIBxAFBVV95cUxOTExFM1l2aUt3czhxa0oydE9TUl9uNGFWampXdFJhdTZNNmVZcmh0UzQwSzA4V19TdEhSNVhzM1Y3UjI2ajBoa3hhLWpIbWNWZm1NX1BOUWR3dUhicktsUktWY0ZoRHV4WW5zLXhVMmNGSkNGQnZXZ0diRmZ2TE8zVVFOUzE5Q3dXT3ZZSGh1d3Nrd0lTNXZKeWMxcXJyU2dqUFFIS0FkZnpYb20xTWRCVzBnUzFjNmlMa29Wdy1RZXZWWnEz?oc=5
-
-- India, France review cooperation on civil nuclear energy | Latest News India - Hindustan Times
-  India, France review cooperation on civil nuclear energy.
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVpWZWpLVjVlcWd3aDdLdXROQXJWaE1CcXNhbXRFNGJvdDFtVkQtSzJqaUNYOC1sUXhZMHZQMGdHbEgyR3dsbnVmSm1DZHVzTFBxLWZGRGIxQk0ydF9FSm9GWFFham14VjEwNXdfa0M4MGw5RnBicUZXazNaaTBOMFZIdXVsQjNKcDd2Q0FjdmRnNi1JR3k2aTkxdFdiV0tlbjdsZDZNUmR6NGFRQmtrbE9mX1VWOEhGT0HSAb8BQVVfeXFMTUdhNi1VbGFEa2hvM1Bzc2Z4Nmx4M2VVTnV0b19sT29VcHN0MHZSdTFvRWhLNEZaanpJUHQ0aGJOTnRfaHQyalJLcXRadEMxdUs3UTZSUW5zTEV4WDBIUWN1RjI3WUg2ckVmMUNfNTBlei00bjk0MDdiUzctcVp4cUpwTnAzM0V3eV9VajhqZzYzQW80MWxaUUdONEw5alBuQkNHS3dwWDVoVnhQNmNYVG1OWGhUTGt2QlotcDEyZ1E?oc=5
-
-- How should India respond to Trump's H-1B crackdown? Experts debate on Rajdeep Sardesai's show - India Today - India Today
-  How should India respond to Trump's H-1B crackdown? Experts debate on
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTGIwc0RlVU1QUmthcF9maDFRajloQ2thNkMza3RtQ3FEYUxRUjkyZm15TTVfMHhCMWNWeDFJbWRfUnd2dGtnbGVCaFg4dVlDS1pCR2VMUkFLY2tmZGZzeTBJMkdYeFdqbXUtR1hMOEFJTGlHN3ZvN0hBVVczNVRfU190S3Y4NHgyeWpodnJuQ3F2aENhajE5TzZmWnlrekhYa2dJS0l2RXBnVGhMdFZWcm1sTkZENVllRUs4eDlwSEpQM2xaZWFTWmV0SFo4YXFVTTdHMnB1N24xU0VaUmNUZFNUdFlsaHVzOGpQZHd4X1cza3dr0gH6AUFVX3lxTE82U0J1eUNGR045UkJub21fMVF0RDRiS0o1Tk5qSUpiRmdDenBaYXVmRjBiOXhQZUE0R1RHYnFUNEtjVm9UWEJvQmlydjBGQjJaN3ZKbnlmQzgzWEY5UEh5TVFGVWJ4c1Q0QmpXem5YMG12QUQ4VEY3UFRpeU15eXRKempUX3lFVnRFUmN6My10dWNuZU5abndMSWdDaUstSGYtNWpLajZFWlhzemhQS2xlcmJaYUhPVWZZWjJNbWtDNUUxNUxXcEJidXBBZ2lPMEFXandSMzFrOVRoUkVUdm40WUZkNGd1MDlsd3NsZEVzRjVmWXoyWTFiTVE?oc=5
-
-- 'PM Modi Gave India’s Foreign Policy A Spine': Amit Shah's Dig At Jawaharlal Nehru - News18
-  'PM Modi Gave India’s Foreign Policy A
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjBrWDhmRDRuQ3NIb3NuT25GSENmdjltckRHLTk3clVHU1pPczhOQnFnU0pYV09mckpvb2dUcUdzc1piaE1NcWFCejl2S1l0UktRbTNqTEl3bzliUmtnUHREUGJUMHVNWHRpRFY2anI5dThER1h0S0l3NGpWQWsxdHJXNnVUOHlzN3puTGt6ek1Uc3ZhTk11a3JmSDRMTlE4SElza2RTdzhUaFVqUG4yTDJZRmtWbkJuYVA40gHAAUFVX3lxTE1BeldOclFSM2Q3Z1FKaUI5Vk41YnpLQVRiY0xpWTVKbkpkaGFjSGdlTHdXVVRIalFaTElhblpiYlhKMTFGamo5M2VVWDFQWnZoTG9vZkhQX3RBZlZnVElvdzFXdlRueEQtRTFrVmNTRFA4Wk10V29FZ3BfUW5rRFFYNlpOZnZnS20xUTR0QjIxTmhGUVRGVTRZTVZtNU9wMVVNSHV5TFFOVjNJa21PZVdhaUlZNk9qMXF0aTBSLThGdA?oc=5
+- Monsoon likely to withdraw from Delhi by Thursday, says IMD - The Indian Express
+  Monsoon likely to withdraw from Delhi by Thursday,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPMDlJaENVd09iajRxN0tzNGJrX3RnQl84U0Y2cW1oNzAzYVc4MExrbGNUYVF4QTV0RVZLQm1OeFNNY3VRdVBPSHJfazVBM0pkd2RCNGpwaFdPbEdOemtKZjRnYkloSUNGeEVPZ2RNazROcEd0OF9QWW5OSURXbzhTQjBJdmFvU1VsOVBpZ3BJcGs1YU5iYi0wb2VjaEFjZGJCblJjdTJEV0Z3aW9VQnk3OTFiRGwxQXAxWnJ1ctIBvAFBVV95cUxPMDlJaENVd09iajRxN0tzNGJrX3RnQl84U0Y2cW1oNzAzYVc4MExrbGNUYVF4QTV0RVZLQm1OeFNNY3VRdVBPSHJfazVBM0pkd2RCNGpwaFdPbEdOemtKZjRnYkloSUNGeEVPZ2RNazROcEd0OF9QWW5OSURXbzhTQjBJdmFvU1VsOVBpZ3BJcGs1YU5iYi0wb2VjaEFjZGJCblJjdTJEV0Z3aW9VQnk3OTFiRGwxQXAxWnJ1cg?oc=5
 
 - "India's Time To Flex Diplomatic Muscle": US Lawmaker Amid Trade Talks - NDTV
   "India's Time To Flex Diplomatic Muscle
@@ -188,17 +148,17 @@
   Rs 70,000 crore schemes to regain India
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPamJJTERBX0hHRFpjd3RvanN3MF9xMWlVeTBJSDAtYlFVLU5ueENDaUNxOTFSQVVuTWp6THdLaG5UdWxSLUZFaGM5c2tNdUtpdWk5UHhuNWtQaWNyaWdlQ3hLY0RUTzQxUEpPTnpIM2xDNzFJX1o3YXAxUGV4VENGM0twN1RnUERuLWJJSGU0Y0ZVeGFXWDlYaHNySzV1SkE4LWNFZEgyX1VNbW9CcVNiOFB6eWJBQklFMzFGRGhCUdIBxAFBVV95cUxOTExFM1l2aUt3czhxa0oydE9TUl9uNGFWampXdFJhdTZNNmVZcmh0UzQwSzA4V19TdEhSNVhzM1Y3UjI2ajBoa3hhLWpIbWNWZm1NX1BOUWR3dUhicktsUktWY0ZoRHV4WW5zLXhVMmNGSkNGQnZXZ0diRmZ2TE8zVVFOUzE5Q3dXT3ZZSGh1d3Nrd0lTNXZKeWMxcXJyU2dqUFFIS0FkZnpYb20xTWRCVzBnUzFjNmlMa29Wdy1RZXZWWnEz?oc=5
 
-- India, France review cooperation on civil nuclear energy | Latest News India - Hindustan Times
-  India, France review cooperation on civil nuclear energy.
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVpWZWpLVjVlcWd3aDdLdXROQXJWaE1CcXNhbXRFNGJvdDFtVkQtSzJqaUNYOC1sUXhZMHZQMGdHbEgyR3dsbnVmSm1DZHVzTFBxLWZGRGIxQk0ydF9FSm9GWFFham14VjEwNXdfa0M4MGw5RnBicUZXazNaaTBOMFZIdXVsQjNKcDd2Q0FjdmRnNi1JR3k2aTkxdFdiV0tlbjdsZDZNUmR6NGFRQmtrbE9mX1VWOEhGT0HSAb8BQVVfeXFMTUdhNi1VbGFEa2hvM1Bzc2Z4Nmx4M2VVTnV0b19sT29VcHN0MHZSdTFvRWhLNEZaanpJUHQ0aGJOTnRfaHQyalJLcXRadEMxdUs3UTZSUW5zTEV4WDBIUWN1RjI3WUg2ckVmMUNfNTBlei00bjk0MDdiUzctcVp4cUpwTnAzM0V3eV9VajhqZzYzQW80MWxaUUdONEw5alBuQkNHS3dwWDVoVnhQNmNYVG1OWGhUTGt2QlotcDEyZ1E?oc=5
+- Time has come to decriminalise defamation: SC | Latest News India - Hindustan Times
+  Time has come to decriminalise defamation: SC |
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXJQRW1va295bjlMWGg4X3lrd2JnX3MySEY4azBHTXJCb190Ukt0NXJHRzV3U3JPSk1HQzE2N3JLUGpSVUs5OFJSQ2FKQ1FiNFN4RU5nTHl3NmhQcUs2OXZpVWRmbHU5SlpRQ3ZKZDBTdEZJMlpsR1BFMnUwYWpvcm05akpQMnk5LVRxdzNzQ3k4WkJ6THlMRHFVcy1QOUxVSEdJYjVVUFJud9IBrwFBVV95cUxQcTdydEp3dzVmSlZtODhsanBNY21IZTB1a2h6enJzWTJKNmdWdjY2ZVhWWTAtNjk1aEVXUXBoU3FibnN0Nlg2ZkpLRm1IQlBJNjZBeTVyVU51OFh1cENBRG10NFhlOVBFZ1hPYmtCZTF0YmhzVWk2a2o4aWJRaEtPU2stRWJ1M0k2Q1BZWi1yNk5LT2Z0UzRsM01LblpybkpRTjduTy1raE96RlJ1Y1c4?oc=5
 
-- How should India respond to Trump's H-1B crackdown? Experts debate on Rajdeep Sardesai's show - India Today - India Today
-  How should India respond to Trump's H-1B crackdown? Experts debate on
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTGIwc0RlVU1QUmthcF9maDFRajloQ2thNkMza3RtQ3FEYUxRUjkyZm15TTVfMHhCMWNWeDFJbWRfUnd2dGtnbGVCaFg4dVlDS1pCR2VMUkFLY2tmZGZzeTBJMkdYeFdqbXUtR1hMOEFJTGlHN3ZvN0hBVVczNVRfU190S3Y4NHgyeWpodnJuQ3F2aENhajE5TzZmWnlrekhYa2dJS0l2RXBnVGhMdFZWcm1sTkZENVllRUs4eDlwSEpQM2xaZWFTWmV0SFo4YXFVTTdHMnB1N24xU0VaUmNUZFNUdFlsaHVzOGpQZHd4X1cza3dr0gH6AUFVX3lxTE82U0J1eUNGR045UkJub21fMVF0RDRiS0o1Tk5qSUpiRmdDenBaYXVmRjBiOXhQZUE0R1RHYnFUNEtjVm9UWEJvQmlydjBGQjJaN3ZKbnlmQzgzWEY5UEh5TVFGVWJ4c1Q0QmpXem5YMG12QUQ4VEY3UFRpeU15eXRKempUX3lFVnRFUmN6My10dWNuZU5abndMSWdDaUstSGYtNWpLajZFWlhzemhQS2xlcmJaYUhPVWZZWjJNbWtDNUUxNUxXcEJidXBBZ2lPMEFXandSMzFrOVRoUkVUdm40WUZkNGd1MDlsd3NsZEVzRjVmWXoyWTFiTVE?oc=5
+- Stock recommendations for 23 September from MarketSmith India | Stock Market News - Mint
+  Stock recommendations for 23 September from MarketSmith India.
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQZl84ZjVqMnpDY1ZyX0J2eDJSV1JsdV8xdGh1eENlSDdFbGUtaUpsTFEtMTd2dktZeURsWVNGby00Y3ZwdGxUY2JwOEg5cUpRUElMNlgtYlVzb0d6dkNNSnFTYm5BZU5ZMGMtV3g3Q0tyY0NqenNLeVhySm5yd1pJWUVOYVBES3R6eHpMSlZEUmllMDdSdVFESjU0cHdYY19TdWtxVUNxb1BBaGNreTFpc1NKaDM1WGJWNFAxbkt3Zm9QNm1oVEx3SEpNb1I3TzNoTF9wbVVoT0pqeTdCQ0pUZnpUS2dzbl9zZWhhbWhIYVoxdnZlc2x0Nnp3YmM0anhvWVE2S0lJT1lxcE1PRFJGeC03N2LSAZoCQVVfeXFMTzFHVG5DVXVrQmttdk5fMHZwRlJSQjdaeVF0Z3RHYXQxOWlEbTVFeFU2UTRCU2FGWkZtb0FKT3laaGhmRjhTcVRNQWFud0x4aXV1V0dNRkRpTjVVdmVNd1A5N1FjWGdhbGhtdVhtbkY5OUI2UmRDTUJ0OTVMbXRlendDb3NxQ2JuMHVrWlhzR2o4Zk1TbGVpQW9MNlNqWXVsM1U5ZWJxb0pubHcwOGlrSzBnVEFnM0R0ZnpDY0xMQVQ0NVBxSEpMcGJxWEZNcldHNHZXOEFxSy1keFdEblVvbGwwc2Y3TnpCLUFRRXVPbVRkYi1VejdNaWFxLXBzRDFleGwtS2hUVTNwVUZvdHJXQTRYbkxfZ2d1X0pR?oc=5
 
-- 'PM Modi Gave India’s Foreign Policy A Spine': Amit Shah's Dig At Jawaharlal Nehru - News18
-  'PM Modi Gave India’s Foreign Policy A
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjBrWDhmRDRuQ3NIb3NuT25GSENmdjltckRHLTk3clVHU1pPczhOQnFnU0pYV09mckpvb2dUcUdzc1piaE1NcWFCejl2S1l0UktRbTNqTEl3bzliUmtnUHREUGJUMHVNWHRpRFY2anI5dThER1h0S0l3NGpWQWsxdHJXNnVUOHlzN3puTGt6ek1Uc3ZhTk11a3JmSDRMTlE4SElza2RTdzhUaFVqUG4yTDJZRmtWbkJuYVA40gHAAUFVX3lxTE1BeldOclFSM2Q3Z1FKaUI5Vk41YnpLQVRiY0xpWTVKbkpkaGFjSGdlTHdXVVRIalFaTElhblpiYlhKMTFGamo5M2VVWDFQWnZoTG9vZkhQX3RBZlZnVElvdzFXdlRueEQtRTFrVmNTRFA4Wk10V29FZ3BfUW5rRFFYNlpOZnZnS20xUTR0QjIxTmhGUVRGVTRZTVZtNU9wMVVNSHV5TFFOVjNJa21PZVdhaUlZNk9qMXF0aTBSLThGdA?oc=5
+- Monsoon likely to withdraw from Delhi by Thursday, says IMD - The Indian Express
+  Monsoon likely to withdraw from Delhi by Thursday,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPMDlJaENVd09iajRxN0tzNGJrX3RnQl84U0Y2cW1oNzAzYVc4MExrbGNUYVF4QTV0RVZLQm1OeFNNY3VRdVBPSHJfazVBM0pkd2RCNGpwaFdPbEdOemtKZjRnYkloSUNGeEVPZ2RNazROcEd0OF9QWW5OSURXbzhTQjBJdmFvU1VsOVBpZ3BJcGs1YU5iYi0wb2VjaEFjZGJCblJjdTJEV0Z3aW9VQnk3OTFiRGwxQXAxWnJ1ctIBvAFBVV95cUxPMDlJaENVd09iajRxN0tzNGJrX3RnQl84U0Y2cW1oNzAzYVc4MExrbGNUYVF4QTV0RVZLQm1OeFNNY3VRdVBPSHJfazVBM0pkd2RCNGpwaFdPbEdOemtKZjRnYkloSUNGeEVPZ2RNazROcEd0OF9QWW5OSURXbzhTQjBJdmFvU1VsOVBpZ3BJcGs1YU5iYi0wb2VjaEFjZGJCblJjdTJEV0Z3aW9VQnk3OTFiRGwxQXAxWnJ1cg?oc=5
 
 - "India's Time To Flex Diplomatic Muscle": US Lawmaker Amid Trade Talks - NDTV
   "India's Time To Flex Diplomatic Muscle
@@ -208,17 +168,37 @@
   Rs 70,000 crore schemes to regain India
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPamJJTERBX0hHRFpjd3RvanN3MF9xMWlVeTBJSDAtYlFVLU5ueENDaUNxOTFSQVVuTWp6THdLaG5UdWxSLUZFaGM5c2tNdUtpdWk5UHhuNWtQaWNyaWdlQ3hLY0RUTzQxUEpPTnpIM2xDNzFJX1o3YXAxUGV4VENGM0twN1RnUERuLWJJSGU0Y0ZVeGFXWDlYaHNySzV1SkE4LWNFZEgyX1VNbW9CcVNiOFB6eWJBQklFMzFGRGhCUdIBxAFBVV95cUxOTExFM1l2aUt3czhxa0oydE9TUl9uNGFWampXdFJhdTZNNmVZcmh0UzQwSzA4V19TdEhSNVhzM1Y3UjI2ajBoa3hhLWpIbWNWZm1NX1BOUWR3dUhicktsUktWY0ZoRHV4WW5zLXhVMmNGSkNGQnZXZ0diRmZ2TE8zVVFOUzE5Q3dXT3ZZSGh1d3Nrd0lTNXZKeWMxcXJyU2dqUFFIS0FkZnpYb20xTWRCVzBnUzFjNmlMa29Wdy1RZXZWWnEz?oc=5
 
-- India, France review cooperation on civil nuclear energy | Latest News India - Hindustan Times
-  India, France review cooperation on civil nuclear energy.
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVpWZWpLVjVlcWd3aDdLdXROQXJWaE1CcXNhbXRFNGJvdDFtVkQtSzJqaUNYOC1sUXhZMHZQMGdHbEgyR3dsbnVmSm1DZHVzTFBxLWZGRGIxQk0ydF9FSm9GWFFham14VjEwNXdfa0M4MGw5RnBicUZXazNaaTBOMFZIdXVsQjNKcDd2Q0FjdmRnNi1JR3k2aTkxdFdiV0tlbjdsZDZNUmR6NGFRQmtrbE9mX1VWOEhGT0HSAb8BQVVfeXFMTUdhNi1VbGFEa2hvM1Bzc2Z4Nmx4M2VVTnV0b19sT29VcHN0MHZSdTFvRWhLNEZaanpJUHQ0aGJOTnRfaHQyalJLcXRadEMxdUs3UTZSUW5zTEV4WDBIUWN1RjI3WUg2ckVmMUNfNTBlei00bjk0MDdiUzctcVp4cUpwTnAzM0V3eV9VajhqZzYzQW80MWxaUUdONEw5alBuQkNHS3dwWDVoVnhQNmNYVG1OWGhUTGt2QlotcDEyZ1E?oc=5
+- Time has come to decriminalise defamation: SC | Latest News India - Hindustan Times
+  Time has come to decriminalise defamation: SC |
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXJQRW1va295bjlMWGg4X3lrd2JnX3MySEY4azBHTXJCb190Ukt0NXJHRzV3U3JPSk1HQzE2N3JLUGpSVUs5OFJSQ2FKQ1FiNFN4RU5nTHl3NmhQcUs2OXZpVWRmbHU5SlpRQ3ZKZDBTdEZJMlpsR1BFMnUwYWpvcm05akpQMnk5LVRxdzNzQ3k4WkJ6THlMRHFVcy1QOUxVSEdJYjVVUFJud9IBrwFBVV95cUxQcTdydEp3dzVmSlZtODhsanBNY21IZTB1a2h6enJzWTJKNmdWdjY2ZVhWWTAtNjk1aEVXUXBoU3FibnN0Nlg2ZkpLRm1IQlBJNjZBeTVyVU51OFh1cENBRG10NFhlOVBFZ1hPYmtCZTF0YmhzVWk2a2o4aWJRaEtPU2stRWJ1M0k2Q1BZWi1yNk5LT2Z0UzRsM01LblpybkpRTjduTy1raE96RlJ1Y1c4?oc=5
 
-- How should India respond to Trump's H-1B crackdown? Experts debate on Rajdeep Sardesai's show - India Today - India Today
-  How should India respond to Trump's H-1B crackdown? Experts debate on
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTGIwc0RlVU1QUmthcF9maDFRajloQ2thNkMza3RtQ3FEYUxRUjkyZm15TTVfMHhCMWNWeDFJbWRfUnd2dGtnbGVCaFg4dVlDS1pCR2VMUkFLY2tmZGZzeTBJMkdYeFdqbXUtR1hMOEFJTGlHN3ZvN0hBVVczNVRfU190S3Y4NHgyeWpodnJuQ3F2aENhajE5TzZmWnlrekhYa2dJS0l2RXBnVGhMdFZWcm1sTkZENVllRUs4eDlwSEpQM2xaZWFTWmV0SFo4YXFVTTdHMnB1N24xU0VaUmNUZFNUdFlsaHVzOGpQZHd4X1cza3dr0gH6AUFVX3lxTE82U0J1eUNGR045UkJub21fMVF0RDRiS0o1Tk5qSUpiRmdDenBaYXVmRjBiOXhQZUE0R1RHYnFUNEtjVm9UWEJvQmlydjBGQjJaN3ZKbnlmQzgzWEY5UEh5TVFGVWJ4c1Q0QmpXem5YMG12QUQ4VEY3UFRpeU15eXRKempUX3lFVnRFUmN6My10dWNuZU5abndMSWdDaUstSGYtNWpLajZFWlhzemhQS2xlcmJaYUhPVWZZWjJNbWtDNUUxNUxXcEJidXBBZ2lPMEFXandSMzFrOVRoUkVUdm40WUZkNGd1MDlsd3NsZEVzRjVmWXoyWTFiTVE?oc=5
+- Stock recommendations for 23 September from MarketSmith India | Stock Market News - Mint
+  Stock recommendations for 23 September from MarketSmith India.
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQZl84ZjVqMnpDY1ZyX0J2eDJSV1JsdV8xdGh1eENlSDdFbGUtaUpsTFEtMTd2dktZeURsWVNGby00Y3ZwdGxUY2JwOEg5cUpRUElMNlgtYlVzb0d6dkNNSnFTYm5BZU5ZMGMtV3g3Q0tyY0NqenNLeVhySm5yd1pJWUVOYVBES3R6eHpMSlZEUmllMDdSdVFESjU0cHdYY19TdWtxVUNxb1BBaGNreTFpc1NKaDM1WGJWNFAxbkt3Zm9QNm1oVEx3SEpNb1I3TzNoTF9wbVVoT0pqeTdCQ0pUZnpUS2dzbl9zZWhhbWhIYVoxdnZlc2x0Nnp3YmM0anhvWVE2S0lJT1lxcE1PRFJGeC03N2LSAZoCQVVfeXFMTzFHVG5DVXVrQmttdk5fMHZwRlJSQjdaeVF0Z3RHYXQxOWlEbTVFeFU2UTRCU2FGWkZtb0FKT3laaGhmRjhTcVRNQWFud0x4aXV1V0dNRkRpTjVVdmVNd1A5N1FjWGdhbGhtdVhtbkY5OUI2UmRDTUJ0OTVMbXRlendDb3NxQ2JuMHVrWlhzR2o4Zk1TbGVpQW9MNlNqWXVsM1U5ZWJxb0pubHcwOGlrSzBnVEFnM0R0ZnpDY0xMQVQ0NVBxSEpMcGJxWEZNcldHNHZXOEFxSy1keFdEblVvbGwwc2Y3TnpCLUFRRXVPbVRkYi1VejdNaWFxLXBzRDFleGwtS2hUVTNwVUZvdHJXQTRYbkxfZ2d1X0pR?oc=5
 
-- 'PM Modi Gave India’s Foreign Policy A Spine': Amit Shah's Dig At Jawaharlal Nehru - News18
-  'PM Modi Gave India’s Foreign Policy A
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjBrWDhmRDRuQ3NIb3NuT25GSENmdjltckRHLTk3clVHU1pPczhOQnFnU0pYV09mckpvb2dUcUdzc1piaE1NcWFCejl2S1l0UktRbTNqTEl3bzliUmtnUHREUGJUMHVNWHRpRFY2anI5dThER1h0S0l3NGpWQWsxdHJXNnVUOHlzN3puTGt6ek1Uc3ZhTk11a3JmSDRMTlE4SElza2RTdzhUaFVqUG4yTDJZRmtWbkJuYVA40gHAAUFVX3lxTE1BeldOclFSM2Q3Z1FKaUI5Vk41YnpLQVRiY0xpWTVKbkpkaGFjSGdlTHdXVVRIalFaTElhblpiYlhKMTFGamo5M2VVWDFQWnZoTG9vZkhQX3RBZlZnVElvdzFXdlRueEQtRTFrVmNTRFA4Wk10V29FZ3BfUW5rRFFYNlpOZnZnS20xUTR0QjIxTmhGUVRGVTRZTVZtNU9wMVVNSHV5TFFOVjNJa21PZVdhaUlZNk9qMXF0aTBSLThGdA?oc=5
+- Monsoon likely to withdraw from Delhi by Thursday, says IMD - The Indian Express
+  Monsoon likely to withdraw from Delhi by Thursday,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPMDlJaENVd09iajRxN0tzNGJrX3RnQl84U0Y2cW1oNzAzYVc4MExrbGNUYVF4QTV0RVZLQm1OeFNNY3VRdVBPSHJfazVBM0pkd2RCNGpwaFdPbEdOemtKZjRnYkloSUNGeEVPZ2RNazROcEd0OF9QWW5OSURXbzhTQjBJdmFvU1VsOVBpZ3BJcGs1YU5iYi0wb2VjaEFjZGJCblJjdTJEV0Z3aW9VQnk3OTFiRGwxQXAxWnJ1ctIBvAFBVV95cUxPMDlJaENVd09iajRxN0tzNGJrX3RnQl84U0Y2cW1oNzAzYVc4MExrbGNUYVF4QTV0RVZLQm1OeFNNY3VRdVBPSHJfazVBM0pkd2RCNGpwaFdPbEdOemtKZjRnYkloSUNGeEVPZ2RNazROcEd0OF9QWW5OSURXbzhTQjBJdmFvU1VsOVBpZ3BJcGs1YU5iYi0wb2VjaEFjZGJCblJjdTJEV0Z3aW9VQnk3OTFiRGwxQXAxWnJ1cg?oc=5
+
+- "India's Time To Flex Diplomatic Muscle": US Lawmaker Amid Trade Talks - NDTV
+  "India's Time To Flex Diplomatic Muscle
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbDR4NlZrZlVrTDExWWwyNk9BcGpuUGJPcDd2eFBIY3pMQ1BqalpUYW5kTzNlZ2Y4RFVETGJXVGU4N2lXMTJ0S3VpZ0M3Yjk5OGhIMFl3c3d3Vzc3YU5JdEFTWFlKNTVmUFNaTUpnNjB5Y0dzaGJtRUd2Y2I5NTAyM29XVDZIT1NQMjZiVmcxa3RaMnNWMDhTZ3hBZWE4NjhpczVLMkhlSU9Jd9IBsgFBVV95cUxPbnhnR0ZISFhWcW90V2dVaGpWWWtEdkhWS09kQlB3NHliSUx2N0hwM3ZUOHBMRzRWSmRBd3dZeEIxR0YzQTVublFFNGNuMTc5SmZWVmptY3RXWUdTNlk4dmdFSU1tenBXeDZ5VXVhQ3hJYjl6aFRtVUlXVmVuRUN3NHRQWDNvTU9GQTBwMldvN2hlV3VkUmpmdHZjM09Gc0hNWWt4dFgtS3RESDk4dW1VNGl3?oc=5
+
+- Rs 70,000 crore schemes to regain India's maritime power - Times of India
+  Rs 70,000 crore schemes to regain India
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPamJJTERBX0hHRFpjd3RvanN3MF9xMWlVeTBJSDAtYlFVLU5ueENDaUNxOTFSQVVuTWp6THdLaG5UdWxSLUZFaGM5c2tNdUtpdWk5UHhuNWtQaWNyaWdlQ3hLY0RUTzQxUEpPTnpIM2xDNzFJX1o3YXAxUGV4VENGM0twN1RnUERuLWJJSGU0Y0ZVeGFXWDlYaHNySzV1SkE4LWNFZEgyX1VNbW9CcVNiOFB6eWJBQklFMzFGRGhCUdIBxAFBVV95cUxOTExFM1l2aUt3czhxa0oydE9TUl9uNGFWampXdFJhdTZNNmVZcmh0UzQwSzA4V19TdEhSNVhzM1Y3UjI2ajBoa3hhLWpIbWNWZm1NX1BOUWR3dUhicktsUktWY0ZoRHV4WW5zLXhVMmNGSkNGQnZXZ0diRmZ2TE8zVVFOUzE5Q3dXT3ZZSGh1d3Nrd0lTNXZKeWMxcXJyU2dqUFFIS0FkZnpYb20xTWRCVzBnUzFjNmlMa29Wdy1RZXZWWnEz?oc=5
+
+- Time has come to decriminalise defamation: SC | Latest News India - Hindustan Times
+  Time has come to decriminalise defamation: SC |
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXJQRW1va295bjlMWGg4X3lrd2JnX3MySEY4azBHTXJCb190Ukt0NXJHRzV3U3JPSk1HQzE2N3JLUGpSVUs5OFJSQ2FKQ1FiNFN4RU5nTHl3NmhQcUs2OXZpVWRmbHU5SlpRQ3ZKZDBTdEZJMlpsR1BFMnUwYWpvcm05akpQMnk5LVRxdzNzQ3k4WkJ6THlMRHFVcy1QOUxVSEdJYjVVUFJud9IBrwFBVV95cUxQcTdydEp3dzVmSlZtODhsanBNY21IZTB1a2h6enJzWTJKNmdWdjY2ZVhWWTAtNjk1aEVXUXBoU3FibnN0Nlg2ZkpLRm1IQlBJNjZBeTVyVU51OFh1cENBRG10NFhlOVBFZ1hPYmtCZTF0YmhzVWk2a2o4aWJRaEtPU2stRWJ1M0k2Q1BZWi1yNk5LT2Z0UzRsM01LblpybkpRTjduTy1raE96RlJ1Y1c4?oc=5
+
+- Stock recommendations for 23 September from MarketSmith India | Stock Market News - Mint
+  Stock recommendations for 23 September from MarketSmith India.
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQZl84ZjVqMnpDY1ZyX0J2eDJSV1JsdV8xdGh1eENlSDdFbGUtaUpsTFEtMTd2dktZeURsWVNGby00Y3ZwdGxUY2JwOEg5cUpRUElMNlgtYlVzb0d6dkNNSnFTYm5BZU5ZMGMtV3g3Q0tyY0NqenNLeVhySm5yd1pJWUVOYVBES3R6eHpMSlZEUmllMDdSdVFESjU0cHdYY19TdWtxVUNxb1BBaGNreTFpc1NKaDM1WGJWNFAxbkt3Zm9QNm1oVEx3SEpNb1I3TzNoTF9wbVVoT0pqeTdCQ0pUZnpUS2dzbl9zZWhhbWhIYVoxdnZlc2x0Nnp3YmM0anhvWVE2S0lJT1lxcE1PRFJGeC03N2LSAZoCQVVfeXFMTzFHVG5DVXVrQmttdk5fMHZwRlJSQjdaeVF0Z3RHYXQxOWlEbTVFeFU2UTRCU2FGWkZtb0FKT3laaGhmRjhTcVRNQWFud0x4aXV1V0dNRkRpTjVVdmVNd1A5N1FjWGdhbGhtdVhtbkY5OUI2UmRDTUJ0OTVMbXRlendDb3NxQ2JuMHVrWlhzR2o4Zk1TbGVpQW9MNlNqWXVsM1U5ZWJxb0pubHcwOGlrSzBnVEFnM0R0ZnpDY0xMQVQ0NVBxSEpMcGJxWEZNcldHNHZXOEFxSy1keFdEblVvbGwwc2Y3TnpCLUFRRXVPbVRkYi1VejdNaWFxLXBzRDFleGwtS2hUVTNwVUZvdHJXQTRYbkxfZ2d1X0pR?oc=5
+
+- Monsoon likely to withdraw from Delhi by Thursday, says IMD - The Indian Express
+  Monsoon likely to withdraw from Delhi by Thursday,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPMDlJaENVd09iajRxN0tzNGJrX3RnQl84U0Y2cW1oNzAzYVc4MExrbGNUYVF4QTV0RVZLQm1OeFNNY3VRdVBPSHJfazVBM0pkd2RCNGpwaFdPbEdOemtKZjRnYkloSUNGeEVPZ2RNazROcEd0OF9QWW5OSURXbzhTQjBJdmFvU1VsOVBpZ3BJcGs1YU5iYi0wb2VjaEFjZGJCblJjdTJEV0Z3aW9VQnk3OTFiRGwxQXAxWnJ1ctIBvAFBVV95cUxPMDlJaENVd09iajRxN0tzNGJrX3RnQl84U0Y2cW1oNzAzYVc4MExrbGNUYVF4QTV0RVZLQm1OeFNNY3VRdVBPSHJfazVBM0pkd2RCNGpwaFdPbEdOemtKZjRnYkloSUNGeEVPZ2RNazROcEd0OF9QWW5OSURXbzhTQjBJdmFvU1VsOVBpZ3BJcGs1YU5iYi0wb2VjaEFjZGJCblJjdTJEV0Z3aW9VQnk3OTFiRGwxQXAxWnJ1cg?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-22 18:25:39 UTC_
+_Last updated: 2025-09-23 01:08:50 UTC_
