@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- India relationship critical, says US; talks on, both sides look at window for Modi-Trump meeting
+- ‘Bombing their own people’: India slams Pakistan at UNHRC over Khyber Pakhtunkhwa blast
   
-  🔗 https://indianexpress.com/article/india/india-relationship-critical-says-us-talks-on-both-sides-look-at-window-for-modi-trump-meeting-10267543/
+  🔗 https://indianexpress.com/article/india/bombing-their-own-people-india-pakistan-unhrc-khyber-pakhtunkhwa-blast-10267848/
 
-- Row over UP’s Barawafat posters singes Uttarakhand neighbourhood, police crack down on protest, use facial recognition software to trace participants
+- India to release updated climate action plan ahead of COP30 meet in Brazil
   
-  🔗 https://indianexpress.com/article/india/row-over-up-posters-singes-uttarakhand-neighbourhood-police-crack-down-on-protest-10267673/
+  🔗 https://indianexpress.com/article/india/india-updated-climate-action-plan-cop30-meet-brazil-10267831/
 
-- Punjab: Rajpura-Mohali rail link gets Centre nod
+- News Today Live Updates, 24 September | Four mountaineers scale Manirang Peak in Himachal, revive hopes for adventure tourism
   
-  🔗 https://indianexpress.com/article/india/punjab-rajpura-mohali-rail-link-gets-centre-nod-10267656/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-09-24-2025-news-headlines-10267754/
 
-- Govt goes ‘vocal for local’ with Buildathon 2025 for school students
+- 2 key Maoists gunned down in Chhattisgarh were involved in 129 killings, police say
   
-  🔗 https://indianexpress.com/article/india/govt-goes-vocal-for-local-with-buildathon-2025-for-school-students-10267653/
+  🔗 https://indianexpress.com/article/india/2-key-maoists-gunned-down-in-chhattisgarh-were-involved-in-129-killings-police-say-10267575/
 
-- Expert committee nod for 2,200-MW Oju hydel project near China border
+- High Court judge questioned trial court counterpart in Madhya Pradesh, his colleagues call remarks ‘uncalled for’
   
-  🔗 https://indianexpress.com/article/india/expert-committee-nod-for-2200-mw-oju-hydel-project-near-china-border-10267650/
+  🔗 https://indianexpress.com/article/india/high-court-judges-remarks-on-trial-court-counterpart-chilling-uncalled-for-madhya-pradesh-hc-bench-says-10267572/
+
+- Alibaba launches Qwen3-Max AI model with more than 1 trillion parameters
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/alibaba-launches-qwen3-max-ai-model-with-more-than-1-trillion-parameters-10267964/
+
+- OpenAI, Oracle, SoftBank plan five new AI data centers for $500 billion Stargate project
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-oracle-softbank-plan-five-new-ai-data-centers-for-500-billion-stargate-project-10267948/
 
 - Perplexity introduces Email Assistant for Max subscribers: Here is what it can do
   
@@ -32,13 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-gearing-up-for-foldable-iphones-what-we-know-so-far-10266669/
 
-- More questions than answers in Nvidia’s $100 billion OpenAI deal
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/more-questions-than-answers-in-nvidias-100-billion-openai-deal-10266666/
+- The AI Threat to Europes Most Valuable Software Company
+  SAP has to pivot
+  🔗 https://www.livemint.com/companies/company-results/the-ai-threat-to-europes-most-valuable-software-company-11758687665872.html
 
-- Amazon Great Indian Festival 2025: Top 5 laptops under Rs 50,000
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-great-indian-festival-2025-top-5-laptops-under-rs-50000-10266637/
+- India’s Top Utility Considers Bulk Purchase of Nuclear Reactors
+  NTPC Ltd. has sought the government’s approval to bulk purchase nuclear reactors. The move is part of a wider national effort to expand atomic energy capacity
+  🔗 https://www.livemint.com/companies/news/indias-top-utility-considers-bulk-purchase-of-nuclear-reactors-11758678088423.html
 
 - Hong Kong Bankers Pack Luxury Hotels Near Offices for Typhoon Trading
   Hong Kong bankers and traders hunkered down at home or booked hotels near the office. Super Typhoon Rag
@@ -52,33 +60,29 @@
   The Trusts expressed frustration that the Trusts' three nominees on the Tata Sons board had failed to apprise them about several important developments. The philanthropic entities own a 65.
   🔗 https://www.livemint.com/companies/inside-the-faultlines-at-tata-trusts-noel-tata-ratan-tata-vijay-singh-tata-sons-11758627722384.html
 
-- Ex-Trader Sues TD Bank Over One-Year Non-Compete Agreement
-  A former Toronto-Dominion Bank credit trader who resigned in August sued to have his one-year non-competition agreement declared un
-  🔗 https://www.livemint.com/companies/company-results/extrader-sues-td-bank-over-one-year-non-compete-agreement-11758664665258.html
+- Rupee pinned near record low; holds ground on central bank support
+  Rupee pinned near record low;
+  🔗 https://www.livemint.com/market/stock-market-news/rupee-pinned-near-record-low-holds-ground-on-central-bank-support-11758693485413.html
 
-- Billionaire Salinas Briefly Threatened With Arrest in AT&T Suit
-  Mexican billionaire Ricardo Salinas has posted a $25 million bond to avoid arrest in the US over an alleged debt
-  🔗 https://www.livemint.com/companies/news/billionaire-salinas-briefly-threatened-with-arrest-in-at-t-suit-11758658041728.html
+- Hindalco share price: Emkay upgrades rating to ‘Buy’, raises target price; sees 20% upside. Here’s why
+  Hindalco share price has gained 6% in one month and has rallied over 11% in three months. In the past one year, Hindalco shares have risen by just 4%, while it has jumped 56% in two years
+  🔗 https://www.livemint.com/market/stock-market-news/hindalco-share-price-emkay-upgrades-rating-to-buy-raises-target-price-sees-20-upside-here-s-why-11758692231243.html
 
-- Stock market today: Trade setup for Nifty 50, Trump's tariffs, H-1B visa fee hike; 8 stocks to buy or sell on Wednesday
-  Analysts suggest strong support levels for Nifty 50. Several stocks, including Usha Martin and Ash
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-trump-tariff-h-1b-visa-fee-hike-8-stocks-to-buy-or-sell-on-wednesday-11758644102145.html
+- Seshaasai Technologies IPO day 2: GMP, subscription status, review, other key details. Apply or not?
+  Seshaasai Technologies, a leader in payment solutions, has garnered attention with its IPO. With strong financials and growth potential, experts are weighing in on whether to subscribe
+  🔗 https://www.livemint.com/market/ipo/seshaasai-technologies-ipo-day-2-gmp-subscription-status-review-other-key-details-apply-or-not-11758689643002.html
 
-- Global Markets Today: Nikkei 225, Kospi fall after US Fed Chair says ‘stocks are overvalued’
-  Australia's S&amp;amp;P/ASX 200 dropped 0.61 per cent
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-fall-after-us-fed-chair-says-stocks-are-overvalued-11758674268884.html
+- PSU bank stocks jump up to 4% — SBI, Indian Bank, Canara Bank shares at 52-week high: What's behind the rally?
+  The public sector bank stocks defied the sombre market mood and rallied in trade on Wednesday, September 24. Media reports suggested that the government is considering a proposal
+  🔗 https://www.livemint.com/market/stock-market-news/psu-bank-stocks-jump-up-to-4-sbi-indian-bank-canara-bank-shares-at-52-week-high-whats-behind-the-rally-11758691875789.html
 
-- VMS TMT IPO listing date today. GMP, experts signal listing with modest premium in stock market today
-  VMS TMT IPO listing date is September 24. Shares will be listed on both the stock exchanges, BSE and NSE.
-  🔗 https://www.livemint.com/market/ipo/vms-tmt-ipo-listing-date-today-gmp-experts-signal-listing-with-modest-premium-in-stock-market-today-11758647762610.html
+- BMW Ventures IPO Day 1: Check subscription status, latest GMP. Apply or not?
+  BMW Ventures' IPO opens on September 24, aiming to raise  ₹231.66 crore. Retail investors must apply for at least 151 shares, totaling 
+  🔗 https://www.livemint.com/market/ipo/bmw-ventures-ipo-day-1-check-subscription-status-latest-gmp-apply-or-not-11758683348345.html
 
-- GK Energy IPO allotment date likely today. GMP, steps to check share allotment status online
-  GK Energy IPO allotment date is likely today, 24 September 2025. Investors can check GK Energy's IPO status online through the websites of BSE and NSE.
-  🔗 https://www.livemint.com/market/ipo/gk-energy-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-online-11758647299284.html
-
-- Saatvik Green Energy IPO allotment date in focus today. Latest GMP, steps to check share allotment status online
-  Saatvik Green Energy IPO allotment will be finalised today, September 24. Investors can check their allotment status on Kfin Technologies Ltd. Refunds for non-allocation
-  🔗 https://www.livemint.com/market/ipo/saatvik-green-energy-ipo-gmp-saatvik-green-energy-ipo-allotment-status-saatvik-green-energy-ipo-review-saatvik-ipo-11758648088316.html
+- In just one year, Google turns AI setbacks into dominance
+  In just one year,
+  🔗 https://www.livemint.com/technology/tech-news/in-just-one-year-google-turns-ai-setbacks-into-dominance-11758677301989.html
 
 - Google Play Store is adding a Gemini- powered ‘Sidekick’ to provide you real-time help during games
   The Google Play Store is set for a significant overhaul with AI features. Notable updates include the Sidekick overlay for real-time assistance and the new You tab.
@@ -96,109 +100,85 @@
   Small amounts of fluid passed through channels etched on chips can save
   🔗 https://www.livemint.com/technology/tech-news/microsoft-is-turning-to-the-field-of-microfluidics-to-cool-down-ai-chips-11758640881395.html
 
-- Will access to AI become a fundamental human right? Sam Altman says ‘Everyone will want…’
-  OpenAI CEO Sam Altman proposed that access to advanced AI systems may become a fundamental human right in the future. The statement by Altman comes shortly after Nvidia
-  🔗 https://www.livemint.com/technology/tech-news/will-access-to-ai-become-a-fundamental-human-right-sam-altman-says-everyone-will-want-11758637275174.html
+- Bitcoin remains range-bound at $112K, experts say market looks for hints on further rate cuts
+  Bitcoin is range-bound at $112,218, while Ethereum trades around $4,140. Optimism is fueled by new wallets accumulating 73,702 BTC. Analysts indicate a macro bullish structure with room for upward momentum.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-remains-range-bound-at-112k-experts-say-market-looks-for-hints-on-further-rate-cuts/articleshow/124084713.cms
 
-- JM Financial, Group firms settle case over NCDs
-   JM Financial, along with JM Financial Services and JM Financial Products, settled with SEBI for ₹1.9 crore over securities law violations. They also face a three-month debarment from debt security distribution and IPO financing
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jm-financial-group-firms-settle-case-over-ncds/articleshow/124080849.cms
+- Tata Investment Corp shares surge 17% in 2 sessions, hit 52-week high. What’s fuelling the rally?
+  Tata Investment Corporation shares rose 5% to a 52-week high of ₹8,544 after announcing a 1:10 stock split. The stock has gained 17% in two sessions, following
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-investment-corp-shares-surge-17-in-2-sessions-hit-52-week-high-whats-fuelling-the-rally/articleshow/124084649.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  Analysts anticipate market firmness, driven by GST reforms and festive demand. FIIs net sold shares, while DIIs were net buyers, and the rupee weakened against the US dollar.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124074890.cms
+- GK Energy IPO allotment: How to check status as GMP signals 21% listing gain
+  GK Energy IPO allotment will be finalised on Wednesday. Rs 464-crore issue was subscribed 93.58 times. Retail, NII, and QIB categories saw
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/gk-energy-ipo-allotment-how-to-check-status-as-gmp-signals-21-listing-gain/articleshow/124084592.cms
 
-- Stocks in news: Mazagon Dock, Swiggy, Tata Motors, Indian Hotels, YES Bank
-   Markets experienced a slight dip amid volatility on expiry day. Optimism from GST reforms and festive demand is countered by external pressures. Mazagon Dock, Indian Hotels, YES Bank, Tata Motors, Puravankara, and Sw
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-mazagon-dock-swiggy-tata-motors-indian-hotels-yes-bank/articleshow/124074849.cms
+- Anand Rathi Share IPO Day 2: Issue subscribed 50%. Check GMP, key details; should you bid?
+  Anand Rathi Share IPO reached 50% subscription on Day 2, with a grey market premium of around 8%. The Rs 745-crore fresh issue has drawn strong retail and NII interest.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/anand-rathi-share-ipo-day-2-issue-subscribed-50-check-gmp-key-details-should-you-bid/articleshow/124084550.cms
 
-- Can Jain Resource Recycling IPO deliver long-term gains for investors?
-  Jain Resource Recycling, a non-ferrous metal company, is set to launch an IPO. The company aims to raise ₹500 crore through fresh equity. It will use the funds to repay debt and cover
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/can-jain-resource-recycling-ipo-deliver-long-term-gains-for-investors/articleshow/124080818.cms
+- Seshaasai Technologies IPO Day 2: GMP at 18% – Check subscription status and key highlights
+  Seshaasai Technologies’ IPO enters its second day with 99% subscription on Day 1. GMP stands at Rs 75, indicating an 18% listing upside. The company leads India’s
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/seshaasai-technologies-ipo-day-2-gmp-at-18-check-subscription-status-and-key-highlights/articleshow/124084497.cms
 
-- India may raise foreign investment limit in PSU banks
-  India is planning to allow more foreign investment in Public Sector Banks. The government will keep at least 51% stake. The goal is to make them globally competitive.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/india-may-raise-foreign-investment-limit-in-psu-banks/articleshow/124080934.cms
+- India close partner of US, but Trump imposed additional tariff for purchasing Russian oil: US State Secy R - The Economic Times
+  India close partner of US, but Trump imposed additional tariff for purchasing Russian oil.
+  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxQcUxqanpVSkZpeEs2azBRcmVXMk5XdG1hU0RoRHkzVlpqU0ZXZE4xTkxKck9hU0Z1TzFYd3BTQTFZWjNwWDJYVHNEQXJ0ZFBMV1dWTjZoMnhiYWR2R1Q1SUFMTjJLbXpxblppSVN4WUxJcUlDWUpxUHdlUENDQkU0a3JZMDZtTl9ZN0ZxeEVIMkNwcmQ4QkZGTzlZQWt4eGhPN2daVkFZVzFidEhFVFNHM0UtMXJXZ0pOR0VYbXJvc1M1bXVEeTYyeVM1bUxaRzNROFM1NkRESFlxVTlrRDR5N21IT05ORlI0a1JtVlFFLVhReHA3TW5iVTJ1TEticUpXUUR4aGloZHdWRkFnOVNOejdUVURfQ2dL0gGeAkFVX3lxTE8yR0I1X2FzTUtFbFkwRmpHNlZhVnFxUDgweU1DZ0VTOG9WbEhYdDdXRHNzZlpTN0QtMHFxcWM4YTNXMEcxTnZ3dlo0YjJlX29zbUhzc2pacWxGUExPcVVveVpQTVVoVDRGbWFGbnJZeVFNSm9rQkU4dkZNN3pxdDBmRVVVX19CMS1MQm1jVF91THhVSTZxN2tLdHZoQklRWkNCbzJ5LTdwNjcwWVhuZ29OTk52azJ1R05ZN3F2bHlsaVBJRnBlRjdYd0Y0ZXNGd2xEUUx0d2FrVEw2YWcwX0dEZjN3SFYwU3RQMnhZWktkeE1Ra2ZUai1FNGY2dldSQmh0TDNjWG1mQkl1Y1BLbEswWnJycDVqV2lVZkxsVFE?oc=5
 
-- Trump at UNGA: US president targets India repeatedly in rambling speech, makes outrageous 'war' and 'peac - Times of India
-  The Times of India reported that the US president made the remarks at UNGA.
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQU3BwU0VKVFpmLTR3emRRek9YV1p6cm1DaW1SbWJTT2MxeVhJWGtCdnFOeTgwNnVuY3lHbWFpTDZnQmJrVUxVdDJWRTNqeUpwQ3lEbXA5WHFSOHRncC1jX1d3SFlPazFoNWI1T0dnbGdjVmxvTW1NeUhsUVVJellzUmN5d3JWX1NydTVrTGhXSnpRY195bzJyWkNnd21yY3RrUHZacUwzYXo5RWRtS1ZrajhfQ3pDeDN6Y3MzQVZXQ2pNMEJlRGlJdzZDZEM3b3prR0VOc1puU01nTXRqU0U5UktLYmpPTXQ2NDJsWC0zZUZ3QUptLVFuckIxRUgxTm9pWHllRmJySDEwTzTSAZACQVVfeXFMT3lnZzNmMkhJY2VUQ0JZM0VQU0tzMXdNRVhpTmhhTGpBa1dXLUtpSVJLRW5RRnR6TmRKeHhxa0xHM1IyeFhFRUh1ajJnNkxTZ1BDTExXY2FXcE12VWd1RkNaM0dqeXFVQlBMYThDS0tiU09TSjdFZVA0SGZSUEtHcmJkQ0dGTWtEb1RPT1VrQkV6WEZWUUtnSU5pYXNHc0JHNFl1SWRKNXV6VHV2cURXekU1OEYzaDMtQVFNYTlfUENqNGRBNmlobFFEMG8tSTFXYlJFLXVCTk5wMG1aSWdPakEtRVdhb3VJUUZNN2JLclFOMnU4dGo3cTRDd0VreXVqeGhWMHZEWG0tMVdzVERQbmg?oc=5
+- India close partner of U.S., but Trump imposed additional tariff for purchasing Russian oil: Rubio - The Hindu
+  India close partner of U.S., but Trump imposed additional tariff for
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPelU3VVEzTzRoNmtHYzJta3lONmJPMEZhSWs3RTZkR040N2xjRllLaTNKWTdCS0pubWdVY3puSzFPMWEzZmVnR0tna0dqc1hLRHc1SUYySklwTk94VW9NQkNmdGNaNk5FNDNubjJFR0xhVDZQRjJyNEhBWUhYanVWbDBDa3dNbDhNcjBmVVdmQkF6c1FVdXNBWkwtVExiUXh3Ti1WbGotbmdmbHY5aElJNlFKWEZqeHdvMDNZU1ZmUnZmM0Q5czVDRGZldWNjVE9waVNkNlgycEpUMXQzMlYtN1pzZmRGd2Z30gHvAUFVX3lxTE8zQ290ZDFBS01INkZVX2xMVjdzakN1R2YtNHhrQ3lveF9DSWRMWkM1UXRRWU8tcnVUdzI1ejYtb1JvSUx4VUpRR051eDg5cXJ1c21pb1g1VnExaFVCUkJQcFFLR0FZYlIxWWQ0N193eWtuTFU0VUtxU0dtS3JJWDlyN2VMeHFQSFlyMWNkRy0zY0NYWWNHR05mejFCSkZQWU8tM083QWxMRmhfTGhmYTN2Z01CeW1qSHdIZFVFaTdRQld6bXRYal9qdHJra1Q5S2JRWlFKNmNlT1kzNlVuYWVrMFBZem5TZkQ0Z2RSSlFJ?oc=5
 
-- Trump Repeats Claim He Ended 7 Wars, Including India-Pak, In UN Speech - NDTV
-  Trump Repeats Claim He Ended 7 Wars, Including
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDZjSE43cnhJb01jcEhOMVE1TTRkUmxlMUtNWjM0M29sNzJXVFFDcDlTOGVHdUlnUFJyREVZQjhwR0JPNzhlZlJXbjJUVnlWeTdBbkU3R1hUUjZ3X0pUbzVYSS1ZUi1TZ3cxa0trWl9JUWsxRS1LNGZTcWd2cDg2ZnVDcV9TZVdpblpSVEprMTRjb3B0M3h2SFdjUE8ycDUyQVpRUUItU3A4UGYw0gG0AUFVX3lxTE9lWl96YlZXUkJjQ244LU1ReVM5cUxhVmx3Q2thVndhckdBOWdEMTZBRzN6cVFFUjdBSjhJZ0hWSjdLMG5qOER6TkR0WllvTXg4amdfQ1pzeG5vbi14WWFGR0stR2NyNGtMM0JmQldYSXZ6a1Z3OER4WEtqbHJkcndBdlluanNLUFFqN1FPTFBNb21TcUQtS3QtcVlHSlp1VFowSEltTktHN045c3hpRVhZbEljZg?oc=5
-
-- Russian oil, 'war' with Pakistan: How Trump attacked India at UN general assembly | Latest News India - Hindustan Times
-  The Indian government is considering a ban on imports of Russian-made crude oil.
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbU95RUFUSXJmVXhiT3BXWjkxUEdweFRCWXhMRGR2N2RtZU1ySmpWQTZLZlNqeW9OZmduWWRGQ3JudUszWHR4OW9MMmU3RzBwREJhNnJoc1BsZFA0S0lfcnd5bzNaZmVBbnJvLXUzbUY5Vk1jOEJPLWR5cHBqRVRoUXRnY0FQbS12ZWN4ajFGSG5rMXJOckdvVzZzNEpXMVNvcVJDOUp2SE0xTlhOTUs0WWJmTlJDY0NVRVNXLS1HY2tIZUpTOVMzdzF4SGNVOVpjLWRHZjJPbnctQmo1aDRCMklEMTBtd9IB6wFBVV95cUxQUWY3NU54eDRKVXFBbGQxendrZzFXd1ZvNlpHM3l1dy1qNllKSElhX2c0bTViSWYzMi1IZFZxZC1UV090TFhkQWp6c1I1SFVnSjEtbE1peTI3UzZMU3JibWNTWE1PbHRKSVVfdF9BZmZGRFVuWmpjMTZTYjN0dUJ0WGt3Rmx5MTlUSll6cWhIZEVScDNENGxQNjdYc29mZzg1b1N1RWFIS2ZKMHdLYTVRUWtpWXBDNWtLNnNTOVZON2lEenBNRXBidVVSbDhBalZfc2NHUDNwdGhzdEt4aDlIdGU2SzhUSmpRcm84?oc=5
-
-- "Treating India Right": Pak Minister's Shocker On Haris Rauf's '6-0' Gesture - NDTV
-  "Treating India Right": Pak Minister's
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1ZrYTRzLXRWSWVVMFhRRGVXSmMzdnlTVkl4M0ZlZHNfRzlKZFJmalYxektWSHl6Y0oybWxBTlJrSmVWUXdHUjFuSXhYOXFwLUE0NEpWbEZlMmNFNGM1eUhxU0JkZ1I1dkF2YVRoZmg3ODh0allfMUFZWUUyX1lMOEhMQnYtV1AxMVFGc1VZUWxnV1RhVXp6WGtuMlRIaV9yOF8tZzBWNnV0eVdVUXdQalc5UEVSem9wOXdDd0lPcTlDMGp1NWhtall2ZVTSAdQBQVVfeXFMTkN6V0NJQzFncGJxOUtIWWZnb3VYNzkyZDRJMU9uMmcyMXdILWpqdzNmNjVmOTJKRGJtdHRMclZxZl9VcUhzME8zcjZpallnVlJ4Nkg1MW9LbGZKazBCcEdWRjM5ZTI2YUN4Y0VTNjBCc2dnV1Flek5WakdkamR6QVlTNjUzaUxHQWdsbUhwSFIzVWdYZ21idDVyTEFVdGY0dEgzNkVpc1lYWFZQTFdzY3hwNTRNXzdQVVFKM2s5X1owTmlLcmg1cm5hQ2lNQmpkTVJzR2w?oc=5
-
-- Another storm brews! Pakistan women’s cricketer copies Haris Rauf's '6-0' celebration - Times of India
-  The Pakistan women’s cricketer
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSnBJVGFOdUhXUjg2QWlmR3JidUtOcWZoSjlETFZseVJxVUtrOFhNMW9uR2NXVzFvblBuV0VGVTd1Q2JSUU5HMy0xNmJXOXdMdWk3eEs0VDRyaThnOVdLcjNvUVhXd1E3T1puaWttNjgwcTNHUXdNMTNIbVFfY2h6bHNEVkJuVkdDbkpVUk1saFY1RUU3SnVCTGtkZHl1ZDhFMlY5Y3NEaFB6cWRISDRZNXRyb2dLZTNMdk9qVkcyMXdiaEU2WXF3cGZ4eGxXSkYzLWd3UFJaelo2SzRuVTdxRG4zbTFTanhrSWtpT0Q3VlpLYl95aXdPQ1Fn0gH_AUFVX3lxTE85Z0RWcTJtaGhMUnI0ODV6bjNwcGhJYmM1dFR0TWtiYWNqNGNvUF8yaE54YmRSVEJ1RkVhdENIeF9RMHNWajNfbm44UUVQSEtsVHpvZlI1MUVDU1VkSWpkTnRtejJ2RVp2UTRnN1Etdjl5b1drV2c1ajV6ck1kM0h2ZEU3QXFsanczOHlFM3paWHdRRl9IRnhFLU5vb2xweUhoNDNCVk9KcDQwU1c1TFVoV283MU5MMi1Jdm9PRVJnd2plS09jXzFLU1hfeDVRcFptZ3BRR0xvQkprSGtPNDFuSDVjSmJCQVYtaW1QWWR6TnM2d2R5R2RNTXQ2STZKSQ?oc=5
+- Marco Rubio Hopes To 'Fix' 25% Tariffs On India Over Russian Oil - NDTV
+  Marco Rubio Hopes To 'Fix' 25%
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQZkNnR2lBOHhManFZWVhGVUgyZGVKWjJhMDdwbHphbFF5WXh5NDFLSWZVZ1JNS0FtZjBMQ0ZTYmkzUnBzb0drWW4zRGN2RzJNMXAyVlBsSzFyWFN5VHp0T05BUUJROFRpcWVjMXNhYm1LSmxHRzBJb0luc3h6Ni0xbWd4X2xyU2hkbm9EMlFWUW9QN2dYVHAxRDctRkNHSHdUWTE00gGrAUFVX3lxTE41c0hXRElGdmJlWHhYOEdQY2lyWXl0VzFjQVd0dHJGRHBlMkhlZUFSSzEwaHkxZzlHZWlDRTlhdHRzb21kTFl4LTdSQlhXVHpUQ2FmaUkwTnhoaEtZaUV2X0Y3SkhSRTdETEpUM3B4NmRGMUxmQmZ3UXJEdDl5MEhvOFJ6Z1YwMjVJZWdoY05OZmNlTk5meHdYSmd3TUx2WTNURlktbTlBYmw5TQ?oc=5
 
 - Trump at UNGA: US president targets India repeatedly in rambling speech, makes outrageous 'war' and 'peac - Times of India
   The Times of India reported that the US president made the remarks at UNGA.
   🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQU3BwU0VKVFpmLTR3emRRek9YV1p6cm1DaW1SbWJTT2MxeVhJWGtCdnFOeTgwNnVuY3lHbWFpTDZnQmJrVUxVdDJWRTNqeUpwQ3lEbXA5WHFSOHRncC1jX1d3SFlPazFoNWI1T0dnbGdjVmxvTW1NeUhsUVVJellzUmN5d3JWX1NydTVrTGhXSnpRY195bzJyWkNnd21yY3RrUHZacUwzYXo5RWRtS1ZrajhfQ3pDeDN6Y3MzQVZXQ2pNMEJlRGlJdzZDZEM3b3prR0VOc1puU01nTXRqU0U5UktLYmpPTXQ2NDJsWC0zZUZ3QUptLVFuckIxRUgxTm9pWHllRmJySDEwTzTSAZACQVVfeXFMT3lnZzNmMkhJY2VUQ0JZM0VQU0tzMXdNRVhpTmhhTGpBa1dXLUtpSVJLRW5RRnR6TmRKeHhxa0xHM1IyeFhFRUh1ajJnNkxTZ1BDTExXY2FXcE12VWd1RkNaM0dqeXFVQlBMYThDS0tiU09TSjdFZVA0SGZSUEtHcmJkQ0dGTWtEb1RPT1VrQkV6WEZWUUtnSU5pYXNHc0JHNFl1SWRKNXV6VHV2cURXekU1OEYzaDMtQVFNYTlfUENqNGRBNmlobFFEMG8tSTFXYlJFLXVCTk5wMG1aSWdPakEtRVdhb3VJUUZNN2JLclFOMnU4dGo3cTRDd0VreXVqeGhWMHZEWG0tMVdzVERQbmg?oc=5
 
-- Trump Repeats Claim He Ended 7 Wars, Including India-Pak, In UN Speech - NDTV
-  Trump Repeats Claim He Ended 7 Wars, Including
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDZjSE43cnhJb01jcEhOMVE1TTRkUmxlMUtNWjM0M29sNzJXVFFDcDlTOGVHdUlnUFJyREVZQjhwR0JPNzhlZlJXbjJUVnlWeTdBbkU3R1hUUjZ3X0pUbzVYSS1ZUi1TZ3cxa0trWl9JUWsxRS1LNGZTcWd2cDg2ZnVDcV9TZVdpblpSVEprMTRjb3B0M3h2SFdjUE8ycDUyQVpRUUItU3A4UGYw0gG0AUFVX3lxTE9lWl96YlZXUkJjQ244LU1ReVM5cUxhVmx3Q2thVndhckdBOWdEMTZBRzN6cVFFUjdBSjhJZ0hWSjdLMG5qOER6TkR0WllvTXg4amdfQ1pzeG5vbi14WWFGR0stR2NyNGtMM0JmQldYSXZ6a1Z3OER4WEtqbHJkcndBdlluanNLUFFqN1FPTFBNb21TcUQtS3QtcVlHSlp1VFowSEltTktHN045c3hpRVhZbEljZg?oc=5
+- Leadership decapitation plunges Maoism into a deeper crisis | Latest News India - Hindustan Times
+  Leadership decapitation plunges Maoism into a deeper
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPUjFhQnFSQVRWRzBpWGNUQXpxUUJDRFExVi1aWnhlQ2tWWXZ1RjdPcl9DeWdBMkxyN3lXZEU3eUFKdV9kUE5JOS1ReDNFclRiWHdndFJUM1ppYXZvNHI4Z1Z1V1lmbl9MaWV4UWhzT2VDS0JvYUhCWHp4em84aE9IMXRaU1lSa0ktdUstdklBYzhKRnhjeG5JRFlNWW0tMjZ1UkdoRF8yUkFYTC1QT0gyR0RKVnBPd01WSk9tN3dGNNIBxAFBVV95cUxPY1h5RUE4YzhFTFdVQW5Ra1o1MVU4SFdvanJQYmlreEtuelo0WTllRERYRzI0dlVXd2NSWnRiZ0tVeVlxT3BfQkNXd2h0UWcyWDdIUjFMQjltb2lSVmhPNEctMTdWVW9QeWp3Z2RxWTA2Z012ZWk1SGZMaWptaUdmUER3Y3E1RzBFcDR2TXlDc041VVVPOFgzVllYV1c0c2c4X0xzbzNCOU1CWWJpaWE0UkpxSVZ4c0w1aFpaY3RiYnZqc1NK?oc=5
 
-- Russian oil, 'war' with Pakistan: How Trump attacked India at UN general assembly | Latest News India - Hindustan Times
-  The Indian government is considering a ban on imports of Russian-made crude oil.
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbU95RUFUSXJmVXhiT3BXWjkxUEdweFRCWXhMRGR2N2RtZU1ySmpWQTZLZlNqeW9OZmduWWRGQ3JudUszWHR4OW9MMmU3RzBwREJhNnJoc1BsZFA0S0lfcnd5bzNaZmVBbnJvLXUzbUY5Vk1jOEJPLWR5cHBqRVRoUXRnY0FQbS12ZWN4ajFGSG5rMXJOckdvVzZzNEpXMVNvcVJDOUp2SE0xTlhOTUs0WWJmTlJDY0NVRVNXLS1HY2tIZUpTOVMzdzF4SGNVOVpjLWRHZjJPbnctQmo1aDRCMklEMTBtd9IB6wFBVV95cUxQUWY3NU54eDRKVXFBbGQxendrZzFXd1ZvNlpHM3l1dy1qNllKSElhX2c0bTViSWYzMi1IZFZxZC1UV090TFhkQWp6c1I1SFVnSjEtbE1peTI3UzZMU3JibWNTWE1PbHRKSVVfdF9BZmZGRFVuWmpjMTZTYjN0dUJ0WGt3Rmx5MTlUSll6cWhIZEVScDNENGxQNjdYc29mZzg1b1N1RWFIS2ZKMHdLYTVRUWtpWXBDNWtLNnNTOVZON2lEenBNRXBidVVSbDhBalZfc2NHUDNwdGhzdEt4aDlIdGU2SzhUSmpRcm84?oc=5
+- India close partner of US, but Trump imposed additional tariff for purchasing Russian oil: US State Secy R - The Economic Times
+  India close partner of US, but Trump imposed additional tariff for purchasing Russian oil.
+  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxQcUxqanpVSkZpeEs2azBRcmVXMk5XdG1hU0RoRHkzVlpqU0ZXZE4xTkxKck9hU0Z1TzFYd3BTQTFZWjNwWDJYVHNEQXJ0ZFBMV1dWTjZoMnhiYWR2R1Q1SUFMTjJLbXpxblppSVN4WUxJcUlDWUpxUHdlUENDQkU0a3JZMDZtTl9ZN0ZxeEVIMkNwcmQ4QkZGTzlZQWt4eGhPN2daVkFZVzFidEhFVFNHM0UtMXJXZ0pOR0VYbXJvc1M1bXVEeTYyeVM1bUxaRzNROFM1NkRESFlxVTlrRDR5N21IT05ORlI0a1JtVlFFLVhReHA3TW5iVTJ1TEticUpXUUR4aGloZHdWRkFnOVNOejdUVURfQ2dL0gGeAkFVX3lxTE8yR0I1X2FzTUtFbFkwRmpHNlZhVnFxUDgweU1DZ0VTOG9WbEhYdDdXRHNzZlpTN0QtMHFxcWM4YTNXMEcxTnZ3dlo0YjJlX29zbUhzc2pacWxGUExPcVVveVpQTVVoVDRGbWFGbnJZeVFNSm9rQkU4dkZNN3pxdDBmRVVVX19CMS1MQm1jVF91THhVSTZxN2tLdHZoQklRWkNCbzJ5LTdwNjcwWVhuZ29OTk52azJ1R05ZN3F2bHlsaVBJRnBlRjdYd0Y0ZXNGd2xEUUx0d2FrVEw2YWcwX0dEZjN3SFYwU3RQMnhZWktkeE1Ra2ZUai1FNGY2dldSQmh0TDNjWG1mQkl1Y1BLbEswWnJycDVqV2lVZkxsVFE?oc=5
 
-- "Treating India Right": Pak Minister's Shocker On Haris Rauf's '6-0' Gesture - NDTV
-  "Treating India Right": Pak Minister's
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1ZrYTRzLXRWSWVVMFhRRGVXSmMzdnlTVkl4M0ZlZHNfRzlKZFJmalYxektWSHl6Y0oybWxBTlJrSmVWUXdHUjFuSXhYOXFwLUE0NEpWbEZlMmNFNGM1eUhxU0JkZ1I1dkF2YVRoZmg3ODh0allfMUFZWUUyX1lMOEhMQnYtV1AxMVFGc1VZUWxnV1RhVXp6WGtuMlRIaV9yOF8tZzBWNnV0eVdVUXdQalc5UEVSem9wOXdDd0lPcTlDMGp1NWhtall2ZVTSAdQBQVVfeXFMTkN6V0NJQzFncGJxOUtIWWZnb3VYNzkyZDRJMU9uMmcyMXdILWpqdzNmNjVmOTJKRGJtdHRMclZxZl9VcUhzME8zcjZpallnVlJ4Nkg1MW9LbGZKazBCcEdWRjM5ZTI2YUN4Y0VTNjBCc2dnV1Flek5WakdkamR6QVlTNjUzaUxHQWdsbUhwSFIzVWdYZ21idDVyTEFVdGY0dEgzNkVpc1lYWFZQTFdzY3hwNTRNXzdQVVFKM2s5X1owTmlLcmg1cm5hQ2lNQmpkTVJzR2w?oc=5
+- India close partner of U.S., but Trump imposed additional tariff for purchasing Russian oil: Rubio - The Hindu
+  India close partner of U.S., but Trump imposed additional tariff for
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPelU3VVEzTzRoNmtHYzJta3lONmJPMEZhSWs3RTZkR040N2xjRllLaTNKWTdCS0pubWdVY3puSzFPMWEzZmVnR0tna0dqc1hLRHc1SUYySklwTk94VW9NQkNmdGNaNk5FNDNubjJFR0xhVDZQRjJyNEhBWUhYanVWbDBDa3dNbDhNcjBmVVdmQkF6c1FVdXNBWkwtVExiUXh3Ti1WbGotbmdmbHY5aElJNlFKWEZqeHdvMDNZU1ZmUnZmM0Q5czVDRGZldWNjVE9waVNkNlgycEpUMXQzMlYtN1pzZmRGd2Z30gHvAUFVX3lxTE8zQ290ZDFBS01INkZVX2xMVjdzakN1R2YtNHhrQ3lveF9DSWRMWkM1UXRRWU8tcnVUdzI1ejYtb1JvSUx4VUpRR051eDg5cXJ1c21pb1g1VnExaFVCUkJQcFFLR0FZYlIxWWQ0N193eWtuTFU0VUtxU0dtS3JJWDlyN2VMeHFQSFlyMWNkRy0zY0NYWWNHR05mejFCSkZQWU8tM083QWxMRmhfTGhmYTN2Z01CeW1qSHdIZFVFaTdRQld6bXRYal9qdHJra1Q5S2JRWlFKNmNlT1kzNlVuYWVrMFBZem5TZkQ0Z2RSSlFJ?oc=5
 
-- Another storm brews! Pakistan women’s cricketer copies Haris Rauf's '6-0' celebration - Times of India
-  The Pakistan women’s cricketer
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSnBJVGFOdUhXUjg2QWlmR3JidUtOcWZoSjlETFZseVJxVUtrOFhNMW9uR2NXVzFvblBuV0VGVTd1Q2JSUU5HMy0xNmJXOXdMdWk3eEs0VDRyaThnOVdLcjNvUVhXd1E3T1puaWttNjgwcTNHUXdNMTNIbVFfY2h6bHNEVkJuVkdDbkpVUk1saFY1RUU3SnVCTGtkZHl1ZDhFMlY5Y3NEaFB6cWRISDRZNXRyb2dLZTNMdk9qVkcyMXdiaEU2WXF3cGZ4eGxXSkYzLWd3UFJaelo2SzRuVTdxRG4zbTFTanhrSWtpT0Q3VlpLYl95aXdPQ1Fn0gH_AUFVX3lxTE85Z0RWcTJtaGhMUnI0ODV6bjNwcGhJYmM1dFR0TWtiYWNqNGNvUF8yaE54YmRSVEJ1RkVhdENIeF9RMHNWajNfbm44UUVQSEtsVHpvZlI1MUVDU1VkSWpkTnRtejJ2RVp2UTRnN1Etdjl5b1drV2c1ajV6ck1kM0h2ZEU3QXFsanczOHlFM3paWHdRRl9IRnhFLU5vb2xweUhoNDNCVk9KcDQwU1c1TFVoV283MU5MMi1Jdm9PRVJnd2plS09jXzFLU1hfeDVRcFptZ3BRR0xvQkprSGtPNDFuSDVjSmJCQVYtaW1QWWR6TnM2d2R5R2RNTXQ2STZKSQ?oc=5
-
-- Trump at UNGA: US president targets India repeatedly in rambling speech, makes outrageous 'war' and 'peac - Times of India
-  The Times of India reported that the US president made the remarks at UNGA.
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQU3BwU0VKVFpmLTR3emRRek9YV1p6cm1DaW1SbWJTT2MxeVhJWGtCdnFOeTgwNnVuY3lHbWFpTDZnQmJrVUxVdDJWRTNqeUpwQ3lEbXA5WHFSOHRncC1jX1d3SFlPazFoNWI1T0dnbGdjVmxvTW1NeUhsUVVJellzUmN5d3JWX1NydTVrTGhXSnpRY195bzJyWkNnd21yY3RrUHZacUwzYXo5RWRtS1ZrajhfQ3pDeDN6Y3MzQVZXQ2pNMEJlRGlJdzZDZEM3b3prR0VOc1puU01nTXRqU0U5UktLYmpPTXQ2NDJsWC0zZUZ3QUptLVFuckIxRUgxTm9pWHllRmJySDEwTzTSAZACQVVfeXFMT3lnZzNmMkhJY2VUQ0JZM0VQU0tzMXdNRVhpTmhhTGpBa1dXLUtpSVJLRW5RRnR6TmRKeHhxa0xHM1IyeFhFRUh1ajJnNkxTZ1BDTExXY2FXcE12VWd1RkNaM0dqeXFVQlBMYThDS0tiU09TSjdFZVA0SGZSUEtHcmJkQ0dGTWtEb1RPT1VrQkV6WEZWUUtnSU5pYXNHc0JHNFl1SWRKNXV6VHV2cURXekU1OEYzaDMtQVFNYTlfUENqNGRBNmlobFFEMG8tSTFXYlJFLXVCTk5wMG1aSWdPakEtRVdhb3VJUUZNN2JLclFOMnU4dGo3cTRDd0VreXVqeGhWMHZEWG0tMVdzVERQbmg?oc=5
-
-- Trump Repeats Claim He Ended 7 Wars, Including India-Pak, In UN Speech - NDTV
-  Trump Repeats Claim He Ended 7 Wars, Including
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDZjSE43cnhJb01jcEhOMVE1TTRkUmxlMUtNWjM0M29sNzJXVFFDcDlTOGVHdUlnUFJyREVZQjhwR0JPNzhlZlJXbjJUVnlWeTdBbkU3R1hUUjZ3X0pUbzVYSS1ZUi1TZ3cxa0trWl9JUWsxRS1LNGZTcWd2cDg2ZnVDcV9TZVdpblpSVEprMTRjb3B0M3h2SFdjUE8ycDUyQVpRUUItU3A4UGYw0gG0AUFVX3lxTE9lWl96YlZXUkJjQ244LU1ReVM5cUxhVmx3Q2thVndhckdBOWdEMTZBRzN6cVFFUjdBSjhJZ0hWSjdLMG5qOER6TkR0WllvTXg4amdfQ1pzeG5vbi14WWFGR0stR2NyNGtMM0JmQldYSXZ6a1Z3OER4WEtqbHJkcndBdlluanNLUFFqN1FPTFBNb21TcUQtS3QtcVlHSlp1VFowSEltTktHN045c3hpRVhZbEljZg?oc=5
-
-- Russian oil, 'war' with Pakistan: How Trump attacked India at UN general assembly | Latest News India - Hindustan Times
-  The Indian government is considering a ban on imports of Russian-made crude oil.
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbU95RUFUSXJmVXhiT3BXWjkxUEdweFRCWXhMRGR2N2RtZU1ySmpWQTZLZlNqeW9OZmduWWRGQ3JudUszWHR4OW9MMmU3RzBwREJhNnJoc1BsZFA0S0lfcnd5bzNaZmVBbnJvLXUzbUY5Vk1jOEJPLWR5cHBqRVRoUXRnY0FQbS12ZWN4ajFGSG5rMXJOckdvVzZzNEpXMVNvcVJDOUp2SE0xTlhOTUs0WWJmTlJDY0NVRVNXLS1HY2tIZUpTOVMzdzF4SGNVOVpjLWRHZjJPbnctQmo1aDRCMklEMTBtd9IB6wFBVV95cUxQUWY3NU54eDRKVXFBbGQxendrZzFXd1ZvNlpHM3l1dy1qNllKSElhX2c0bTViSWYzMi1IZFZxZC1UV090TFhkQWp6c1I1SFVnSjEtbE1peTI3UzZMU3JibWNTWE1PbHRKSVVfdF9BZmZGRFVuWmpjMTZTYjN0dUJ0WGt3Rmx5MTlUSll6cWhIZEVScDNENGxQNjdYc29mZzg1b1N1RWFIS2ZKMHdLYTVRUWtpWXBDNWtLNnNTOVZON2lEenBNRXBidVVSbDhBalZfc2NHUDNwdGhzdEt4aDlIdGU2SzhUSmpRcm84?oc=5
-
-- "Treating India Right": Pak Minister's Shocker On Haris Rauf's '6-0' Gesture - NDTV
-  "Treating India Right": Pak Minister's
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1ZrYTRzLXRWSWVVMFhRRGVXSmMzdnlTVkl4M0ZlZHNfRzlKZFJmalYxektWSHl6Y0oybWxBTlJrSmVWUXdHUjFuSXhYOXFwLUE0NEpWbEZlMmNFNGM1eUhxU0JkZ1I1dkF2YVRoZmg3ODh0allfMUFZWUUyX1lMOEhMQnYtV1AxMVFGc1VZUWxnV1RhVXp6WGtuMlRIaV9yOF8tZzBWNnV0eVdVUXdQalc5UEVSem9wOXdDd0lPcTlDMGp1NWhtall2ZVTSAdQBQVVfeXFMTkN6V0NJQzFncGJxOUtIWWZnb3VYNzkyZDRJMU9uMmcyMXdILWpqdzNmNjVmOTJKRGJtdHRMclZxZl9VcUhzME8zcjZpallnVlJ4Nkg1MW9LbGZKazBCcEdWRjM5ZTI2YUN4Y0VTNjBCc2dnV1Flek5WakdkamR6QVlTNjUzaUxHQWdsbUhwSFIzVWdYZ21idDVyTEFVdGY0dEgzNkVpc1lYWFZQTFdzY3hwNTRNXzdQVVFKM2s5X1owTmlLcmg1cm5hQ2lNQmpkTVJzR2w?oc=5
-
-- Another storm brews! Pakistan women’s cricketer copies Haris Rauf's '6-0' celebration - Times of India
-  The Pakistan women’s cricketer
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSnBJVGFOdUhXUjg2QWlmR3JidUtOcWZoSjlETFZseVJxVUtrOFhNMW9uR2NXVzFvblBuV0VGVTd1Q2JSUU5HMy0xNmJXOXdMdWk3eEs0VDRyaThnOVdLcjNvUVhXd1E3T1puaWttNjgwcTNHUXdNMTNIbVFfY2h6bHNEVkJuVkdDbkpVUk1saFY1RUU3SnVCTGtkZHl1ZDhFMlY5Y3NEaFB6cWRISDRZNXRyb2dLZTNMdk9qVkcyMXdiaEU2WXF3cGZ4eGxXSkYzLWd3UFJaelo2SzRuVTdxRG4zbTFTanhrSWtpT0Q3VlpLYl95aXdPQ1Fn0gH_AUFVX3lxTE85Z0RWcTJtaGhMUnI0ODV6bjNwcGhJYmM1dFR0TWtiYWNqNGNvUF8yaE54YmRSVEJ1RkVhdENIeF9RMHNWajNfbm44UUVQSEtsVHpvZlI1MUVDU1VkSWpkTnRtejJ2RVp2UTRnN1Etdjl5b1drV2c1ajV6ck1kM0h2ZEU3QXFsanczOHlFM3paWHdRRl9IRnhFLU5vb2xweUhoNDNCVk9KcDQwU1c1TFVoV283MU5MMi1Jdm9PRVJnd2plS09jXzFLU1hfeDVRcFptZ3BRR0xvQkprSGtPNDFuSDVjSmJCQVYtaW1QWWR6TnM2d2R5R2RNTXQ2STZKSQ?oc=5
+- Marco Rubio Hopes To 'Fix' 25% Tariffs On India Over Russian Oil - NDTV
+  Marco Rubio Hopes To 'Fix' 25%
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQZkNnR2lBOHhManFZWVhGVUgyZGVKWjJhMDdwbHphbFF5WXh5NDFLSWZVZ1JNS0FtZjBMQ0ZTYmkzUnBzb0drWW4zRGN2RzJNMXAyVlBsSzFyWFN5VHp0T05BUUJROFRpcWVjMXNhYm1LSmxHRzBJb0luc3h6Ni0xbWd4X2xyU2hkbm9EMlFWUW9QN2dYVHAxRDctRkNHSHdUWTE00gGrAUFVX3lxTE41c0hXRElGdmJlWHhYOEdQY2lyWXl0VzFjQVd0dHJGRHBlMkhlZUFSSzEwaHkxZzlHZWlDRTlhdHRzb21kTFl4LTdSQlhXVHpUQ2FmaUkwTnhoaEtZaUV2X0Y3SkhSRTdETEpUM3B4NmRGMUxmQmZ3UXJEdDl5MEhvOFJ6Z1YwMjVJZWdoY05OZmNlTk5meHdYSmd3TUx2WTNURlktbTlBYmw5TQ?oc=5
 
 - Trump at UNGA: US president targets India repeatedly in rambling speech, makes outrageous 'war' and 'peac - Times of India
   The Times of India reported that the US president made the remarks at UNGA.
   🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQU3BwU0VKVFpmLTR3emRRek9YV1p6cm1DaW1SbWJTT2MxeVhJWGtCdnFOeTgwNnVuY3lHbWFpTDZnQmJrVUxVdDJWRTNqeUpwQ3lEbXA5WHFSOHRncC1jX1d3SFlPazFoNWI1T0dnbGdjVmxvTW1NeUhsUVVJellzUmN5d3JWX1NydTVrTGhXSnpRY195bzJyWkNnd21yY3RrUHZacUwzYXo5RWRtS1ZrajhfQ3pDeDN6Y3MzQVZXQ2pNMEJlRGlJdzZDZEM3b3prR0VOc1puU01nTXRqU0U5UktLYmpPTXQ2NDJsWC0zZUZ3QUptLVFuckIxRUgxTm9pWHllRmJySDEwTzTSAZACQVVfeXFMT3lnZzNmMkhJY2VUQ0JZM0VQU0tzMXdNRVhpTmhhTGpBa1dXLUtpSVJLRW5RRnR6TmRKeHhxa0xHM1IyeFhFRUh1ajJnNkxTZ1BDTExXY2FXcE12VWd1RkNaM0dqeXFVQlBMYThDS0tiU09TSjdFZVA0SGZSUEtHcmJkQ0dGTWtEb1RPT1VrQkV6WEZWUUtnSU5pYXNHc0JHNFl1SWRKNXV6VHV2cURXekU1OEYzaDMtQVFNYTlfUENqNGRBNmlobFFEMG8tSTFXYlJFLXVCTk5wMG1aSWdPakEtRVdhb3VJUUZNN2JLclFOMnU4dGo3cTRDd0VreXVqeGhWMHZEWG0tMVdzVERQbmg?oc=5
 
-- Trump Repeats Claim He Ended 7 Wars, Including India-Pak, In UN Speech - NDTV
-  Trump Repeats Claim He Ended 7 Wars, Including
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDZjSE43cnhJb01jcEhOMVE1TTRkUmxlMUtNWjM0M29sNzJXVFFDcDlTOGVHdUlnUFJyREVZQjhwR0JPNzhlZlJXbjJUVnlWeTdBbkU3R1hUUjZ3X0pUbzVYSS1ZUi1TZ3cxa0trWl9JUWsxRS1LNGZTcWd2cDg2ZnVDcV9TZVdpblpSVEprMTRjb3B0M3h2SFdjUE8ycDUyQVpRUUItU3A4UGYw0gG0AUFVX3lxTE9lWl96YlZXUkJjQ244LU1ReVM5cUxhVmx3Q2thVndhckdBOWdEMTZBRzN6cVFFUjdBSjhJZ0hWSjdLMG5qOER6TkR0WllvTXg4amdfQ1pzeG5vbi14WWFGR0stR2NyNGtMM0JmQldYSXZ6a1Z3OER4WEtqbHJkcndBdlluanNLUFFqN1FPTFBNb21TcUQtS3QtcVlHSlp1VFowSEltTktHN045c3hpRVhZbEljZg?oc=5
+- Leadership decapitation plunges Maoism into a deeper crisis | Latest News India - Hindustan Times
+  Leadership decapitation plunges Maoism into a deeper
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPUjFhQnFSQVRWRzBpWGNUQXpxUUJDRFExVi1aWnhlQ2tWWXZ1RjdPcl9DeWdBMkxyN3lXZEU3eUFKdV9kUE5JOS1ReDNFclRiWHdndFJUM1ppYXZvNHI4Z1Z1V1lmbl9MaWV4UWhzT2VDS0JvYUhCWHp4em84aE9IMXRaU1lSa0ktdUstdklBYzhKRnhjeG5JRFlNWW0tMjZ1UkdoRF8yUkFYTC1QT0gyR0RKVnBPd01WSk9tN3dGNNIBxAFBVV95cUxPY1h5RUE4YzhFTFdVQW5Ra1o1MVU4SFdvanJQYmlreEtuelo0WTllRERYRzI0dlVXd2NSWnRiZ0tVeVlxT3BfQkNXd2h0UWcyWDdIUjFMQjltb2lSVmhPNEctMTdWVW9QeWp3Z2RxWTA2Z012ZWk1SGZMaWptaUdmUER3Y3E1RzBFcDR2TXlDc041VVVPOFgzVllYV1c0c2c4X0xzbzNCOU1CWWJpaWE0UkpxSVZ4c0w1aFpaY3RiYnZqc1NK?oc=5
 
-- Russian oil, 'war' with Pakistan: How Trump attacked India at UN general assembly | Latest News India - Hindustan Times
-  The Indian government is considering a ban on imports of Russian-made crude oil.
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbU95RUFUSXJmVXhiT3BXWjkxUEdweFRCWXhMRGR2N2RtZU1ySmpWQTZLZlNqeW9OZmduWWRGQ3JudUszWHR4OW9MMmU3RzBwREJhNnJoc1BsZFA0S0lfcnd5bzNaZmVBbnJvLXUzbUY5Vk1jOEJPLWR5cHBqRVRoUXRnY0FQbS12ZWN4ajFGSG5rMXJOckdvVzZzNEpXMVNvcVJDOUp2SE0xTlhOTUs0WWJmTlJDY0NVRVNXLS1HY2tIZUpTOVMzdzF4SGNVOVpjLWRHZjJPbnctQmo1aDRCMklEMTBtd9IB6wFBVV95cUxQUWY3NU54eDRKVXFBbGQxendrZzFXd1ZvNlpHM3l1dy1qNllKSElhX2c0bTViSWYzMi1IZFZxZC1UV090TFhkQWp6c1I1SFVnSjEtbE1peTI3UzZMU3JibWNTWE1PbHRKSVVfdF9BZmZGRFVuWmpjMTZTYjN0dUJ0WGt3Rmx5MTlUSll6cWhIZEVScDNENGxQNjdYc29mZzg1b1N1RWFIS2ZKMHdLYTVRUWtpWXBDNWtLNnNTOVZON2lEenBNRXBidVVSbDhBalZfc2NHUDNwdGhzdEt4aDlIdGU2SzhUSmpRcm84?oc=5
+- India close partner of US, but Trump imposed additional tariff for purchasing Russian oil: US State Secy R - The Economic Times
+  India close partner of US, but Trump imposed additional tariff for purchasing Russian oil.
+  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxQcUxqanpVSkZpeEs2azBRcmVXMk5XdG1hU0RoRHkzVlpqU0ZXZE4xTkxKck9hU0Z1TzFYd3BTQTFZWjNwWDJYVHNEQXJ0ZFBMV1dWTjZoMnhiYWR2R1Q1SUFMTjJLbXpxblppSVN4WUxJcUlDWUpxUHdlUENDQkU0a3JZMDZtTl9ZN0ZxeEVIMkNwcmQ4QkZGTzlZQWt4eGhPN2daVkFZVzFidEhFVFNHM0UtMXJXZ0pOR0VYbXJvc1M1bXVEeTYyeVM1bUxaRzNROFM1NkRESFlxVTlrRDR5N21IT05ORlI0a1JtVlFFLVhReHA3TW5iVTJ1TEticUpXUUR4aGloZHdWRkFnOVNOejdUVURfQ2dL0gGeAkFVX3lxTE8yR0I1X2FzTUtFbFkwRmpHNlZhVnFxUDgweU1DZ0VTOG9WbEhYdDdXRHNzZlpTN0QtMHFxcWM4YTNXMEcxTnZ3dlo0YjJlX29zbUhzc2pacWxGUExPcVVveVpQTVVoVDRGbWFGbnJZeVFNSm9rQkU4dkZNN3pxdDBmRVVVX19CMS1MQm1jVF91THhVSTZxN2tLdHZoQklRWkNCbzJ5LTdwNjcwWVhuZ29OTk52azJ1R05ZN3F2bHlsaVBJRnBlRjdYd0Y0ZXNGd2xEUUx0d2FrVEw2YWcwX0dEZjN3SFYwU3RQMnhZWktkeE1Ra2ZUai1FNGY2dldSQmh0TDNjWG1mQkl1Y1BLbEswWnJycDVqV2lVZkxsVFE?oc=5
 
-- "Treating India Right": Pak Minister's Shocker On Haris Rauf's '6-0' Gesture - NDTV
-  "Treating India Right": Pak Minister's
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1ZrYTRzLXRWSWVVMFhRRGVXSmMzdnlTVkl4M0ZlZHNfRzlKZFJmalYxektWSHl6Y0oybWxBTlJrSmVWUXdHUjFuSXhYOXFwLUE0NEpWbEZlMmNFNGM1eUhxU0JkZ1I1dkF2YVRoZmg3ODh0allfMUFZWUUyX1lMOEhMQnYtV1AxMVFGc1VZUWxnV1RhVXp6WGtuMlRIaV9yOF8tZzBWNnV0eVdVUXdQalc5UEVSem9wOXdDd0lPcTlDMGp1NWhtall2ZVTSAdQBQVVfeXFMTkN6V0NJQzFncGJxOUtIWWZnb3VYNzkyZDRJMU9uMmcyMXdILWpqdzNmNjVmOTJKRGJtdHRMclZxZl9VcUhzME8zcjZpallnVlJ4Nkg1MW9LbGZKazBCcEdWRjM5ZTI2YUN4Y0VTNjBCc2dnV1Flek5WakdkamR6QVlTNjUzaUxHQWdsbUhwSFIzVWdYZ21idDVyTEFVdGY0dEgzNkVpc1lYWFZQTFdzY3hwNTRNXzdQVVFKM2s5X1owTmlLcmg1cm5hQ2lNQmpkTVJzR2w?oc=5
+- India close partner of U.S., but Trump imposed additional tariff for purchasing Russian oil: Rubio - The Hindu
+  India close partner of U.S., but Trump imposed additional tariff for
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPelU3VVEzTzRoNmtHYzJta3lONmJPMEZhSWs3RTZkR040N2xjRllLaTNKWTdCS0pubWdVY3puSzFPMWEzZmVnR0tna0dqc1hLRHc1SUYySklwTk94VW9NQkNmdGNaNk5FNDNubjJFR0xhVDZQRjJyNEhBWUhYanVWbDBDa3dNbDhNcjBmVVdmQkF6c1FVdXNBWkwtVExiUXh3Ti1WbGotbmdmbHY5aElJNlFKWEZqeHdvMDNZU1ZmUnZmM0Q5czVDRGZldWNjVE9waVNkNlgycEpUMXQzMlYtN1pzZmRGd2Z30gHvAUFVX3lxTE8zQ290ZDFBS01INkZVX2xMVjdzakN1R2YtNHhrQ3lveF9DSWRMWkM1UXRRWU8tcnVUdzI1ejYtb1JvSUx4VUpRR051eDg5cXJ1c21pb1g1VnExaFVCUkJQcFFLR0FZYlIxWWQ0N193eWtuTFU0VUtxU0dtS3JJWDlyN2VMeHFQSFlyMWNkRy0zY0NYWWNHR05mejFCSkZQWU8tM083QWxMRmhfTGhmYTN2Z01CeW1qSHdIZFVFaTdRQld6bXRYal9qdHJra1Q5S2JRWlFKNmNlT1kzNlVuYWVrMFBZem5TZkQ0Z2RSSlFJ?oc=5
 
-- Another storm brews! Pakistan women’s cricketer copies Haris Rauf's '6-0' celebration - Times of India
-  The Pakistan women’s cricketer
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSnBJVGFOdUhXUjg2QWlmR3JidUtOcWZoSjlETFZseVJxVUtrOFhNMW9uR2NXVzFvblBuV0VGVTd1Q2JSUU5HMy0xNmJXOXdMdWk3eEs0VDRyaThnOVdLcjNvUVhXd1E3T1puaWttNjgwcTNHUXdNMTNIbVFfY2h6bHNEVkJuVkdDbkpVUk1saFY1RUU3SnVCTGtkZHl1ZDhFMlY5Y3NEaFB6cWRISDRZNXRyb2dLZTNMdk9qVkcyMXdiaEU2WXF3cGZ4eGxXSkYzLWd3UFJaelo2SzRuVTdxRG4zbTFTanhrSWtpT0Q3VlpLYl95aXdPQ1Fn0gH_AUFVX3lxTE85Z0RWcTJtaGhMUnI0ODV6bjNwcGhJYmM1dFR0TWtiYWNqNGNvUF8yaE54YmRSVEJ1RkVhdENIeF9RMHNWajNfbm44UUVQSEtsVHpvZlI1MUVDU1VkSWpkTnRtejJ2RVp2UTRnN1Etdjl5b1drV2c1ajV6ck1kM0h2ZEU3QXFsanczOHlFM3paWHdRRl9IRnhFLU5vb2xweUhoNDNCVk9KcDQwU1c1TFVoV283MU5MMi1Jdm9PRVJnd2plS09jXzFLU1hfeDVRcFptZ3BRR0xvQkprSGtPNDFuSDVjSmJCQVYtaW1QWWR6TnM2d2R5R2RNTXQ2STZKSQ?oc=5
+- Marco Rubio Hopes To 'Fix' 25% Tariffs On India Over Russian Oil - NDTV
+  Marco Rubio Hopes To 'Fix' 25%
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQZkNnR2lBOHhManFZWVhGVUgyZGVKWjJhMDdwbHphbFF5WXh5NDFLSWZVZ1JNS0FtZjBMQ0ZTYmkzUnBzb0drWW4zRGN2RzJNMXAyVlBsSzFyWFN5VHp0T05BUUJROFRpcWVjMXNhYm1LSmxHRzBJb0luc3h6Ni0xbWd4X2xyU2hkbm9EMlFWUW9QN2dYVHAxRDctRkNHSHdUWTE00gGrAUFVX3lxTE41c0hXRElGdmJlWHhYOEdQY2lyWXl0VzFjQVd0dHJGRHBlMkhlZUFSSzEwaHkxZzlHZWlDRTlhdHRzb21kTFl4LTdSQlhXVHpUQ2FmaUkwTnhoaEtZaUV2X0Y3SkhSRTdETEpUM3B4NmRGMUxmQmZ3UXJEdDl5MEhvOFJ6Z1YwMjVJZWdoY05OZmNlTk5meHdYSmd3TUx2WTNURlktbTlBYmw5TQ?oc=5
+
+- Trump at UNGA: US president targets India repeatedly in rambling speech, makes outrageous 'war' and 'peac - Times of India
+  The Times of India reported that the US president made the remarks at UNGA.
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQU3BwU0VKVFpmLTR3emRRek9YV1p6cm1DaW1SbWJTT2MxeVhJWGtCdnFOeTgwNnVuY3lHbWFpTDZnQmJrVUxVdDJWRTNqeUpwQ3lEbXA5WHFSOHRncC1jX1d3SFlPazFoNWI1T0dnbGdjVmxvTW1NeUhsUVVJellzUmN5d3JWX1NydTVrTGhXSnpRY195bzJyWkNnd21yY3RrUHZacUwzYXo5RWRtS1ZrajhfQ3pDeDN6Y3MzQVZXQ2pNMEJlRGlJdzZDZEM3b3prR0VOc1puU01nTXRqU0U5UktLYmpPTXQ2NDJsWC0zZUZ3QUptLVFuckIxRUgxTm9pWHllRmJySDEwTzTSAZACQVVfeXFMT3lnZzNmMkhJY2VUQ0JZM0VQU0tzMXdNRVhpTmhhTGpBa1dXLUtpSVJLRW5RRnR6TmRKeHhxa0xHM1IyeFhFRUh1ajJnNkxTZ1BDTExXY2FXcE12VWd1RkNaM0dqeXFVQlBMYThDS0tiU09TSjdFZVA0SGZSUEtHcmJkQ0dGTWtEb1RPT1VrQkV6WEZWUUtnSU5pYXNHc0JHNFl1SWRKNXV6VHV2cURXekU1OEYzaDMtQVFNYTlfUENqNGRBNmlobFFEMG8tSTFXYlJFLXVCTk5wMG1aSWdPakEtRVdhb3VJUUZNN2JLclFOMnU4dGo3cTRDd0VreXVqeGhWMHZEWG0tMVdzVERQbmg?oc=5
+
+- Leadership decapitation plunges Maoism into a deeper crisis | Latest News India - Hindustan Times
+  Leadership decapitation plunges Maoism into a deeper
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPUjFhQnFSQVRWRzBpWGNUQXpxUUJDRFExVi1aWnhlQ2tWWXZ1RjdPcl9DeWdBMkxyN3lXZEU3eUFKdV9kUE5JOS1ReDNFclRiWHdndFJUM1ppYXZvNHI4Z1Z1V1lmbl9MaWV4UWhzT2VDS0JvYUhCWHp4em84aE9IMXRaU1lSa0ktdUstdklBYzhKRnhjeG5JRFlNWW0tMjZ1UkdoRF8yUkFYTC1QT0gyR0RKVnBPd01WSk9tN3dGNNIBxAFBVV95cUxPY1h5RUE4YzhFTFdVQW5Ra1o1MVU4SFdvanJQYmlreEtuelo0WTllRERYRzI0dlVXd2NSWnRiZ0tVeVlxT3BfQkNXd2h0UWcyWDdIUjFMQjltb2lSVmhPNEctMTdWVW9QeWp3Z2RxWTA2Z012ZWk1SGZMaWptaUdmUER3Y3E1RzBFcDR2TXlDc041VVVPOFgzVllYV1c0c2c4X0xzbzNCOU1CWWJpaWE0UkpxSVZ4c0w1aFpaY3RiYnZqc1NK?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-24 01:10:21 UTC_
+_Last updated: 2025-09-24 06:26:58 UTC_
