@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Over 2,700 drug peddlers arrested, 285 drug consumers held: Tripura CM Saha
+- India relationship critical, says US; talks on, both sides look at window for Modi-Trump meeting
   
-  🔗 https://indianexpress.com/article/india/over-2700-drug-peddlers-arrested-285-drug-consumers-held-tripura-cm-saha-10267289/
+  🔗 https://indianexpress.com/article/india/india-relationship-critical-says-us-talks-on-both-sides-look-at-window-for-modi-trump-meeting-10267543/
 
-- Tharoor blames MAGA politics for Trump’s H-1B visa hike, questions Navarro’s ‘extremely offensive’ comments
+- Row over UP’s Barawafat posters singes Uttarakhand neighbourhood, police crack down on protest, use facial recognition software to trace participants
   
-  🔗 https://indianexpress.com/article/india/shashi-tharoor-h1b-visa-hike-trump-10267005/
+  🔗 https://indianexpress.com/article/india/row-over-up-posters-singes-uttarakhand-neighbourhood-police-crack-down-on-protest-10267673/
 
-- Trump at UNGA | US President hits out at China and India as ‘main funders’ of Ukraine war
+- Punjab: Rajpura-Mohali rail link gets Centre nod
   
-  🔗 https://indianexpress.com/article/india/trump-unga-us-president-hits-out-at-china-india-as-main-funders-ukraine-war-10267077/
+  🔗 https://indianexpress.com/article/india/punjab-rajpura-mohali-rail-link-gets-centre-nod-10267656/
 
-- ED widens action against AAP’s Satyendar Jain, attaches assets worth Rs 7.44 crore
+- Govt goes ‘vocal for local’ with Buildathon 2025 for school students
   
-  🔗 https://indianexpress.com/article/india/ed-aap-satyendar-jain-assets-10267059/
+  🔗 https://indianexpress.com/article/india/govt-goes-vocal-for-local-with-buildathon-2025-for-school-students-10267653/
 
-- GST reforms created festive atmosphere, market upbeat: BJP
+- Expert committee nod for 2,200-MW Oju hydel project near China border
   
-  🔗 https://indianexpress.com/article/india/gst-reforms-festive-atmosphere-market-bjp-10266920/
+  🔗 https://indianexpress.com/article/india/expert-committee-nod-for-2200-mw-oju-hydel-project-near-china-border-10267650/
 
 - Perplexity introduces Email Assistant for Max subscribers: Here is what it can do
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-great-indian-festival-2025-top-5-laptops-under-rs-50000-10266637/
 
-- Small, mid-sized IT firms shrug off impact of US visa fee hike on business
-  Tata Consultancy Services Ltd, Infosys Ltd, HCL Technologies Ltd, Wipro Ltd and Tech Mahindra
-  🔗 https://www.livemint.com/companies/it-services-software-companies-h-1b-visa-trump-tcs-tech-mahindra-infosys-wipro-fee-hike-us-citizenship-sonata-software-11758637016287.html
+- Hong Kong Bankers Pack Luxury Hotels Near Offices for Typhoon Trading
+  Hong Kong bankers and traders hunkered down at home or booked hotels near the office. Super Typhoon Rag
+  🔗 https://www.livemint.com/companies/news/hong-kong-bankers-pack-luxury-hotels-near-offices-for-typhoon-trading-11758675607096.html
 
-- GST cut: Some FMCG companies increase pack sizes, others reduce prices
-  Earlier this month, the government moved to rational
-  🔗 https://www.livemint.com/companies/gst-cut-fmcg-companies-pack-sizes-reduce-prices-hindustan-unilever-bikaji-foods-coca-cola-reliance-consumer-parle-11758642874051.html
+- Disney+ and Hulu subscription prices hike: Here's how much you need to pay from October 21
+  Disney+ ad-supported plans will rise by $2 to $11.99. Hulu and ESPN Select will also see price hikes on the same day.
+  🔗 https://www.livemint.com/companies/news/disney-and-hulu-subscription-prices-hike-heres-how-much-you-need-to-pay-from-october-21-11758673367918.html
 
-- South Africa And China Businesses Ink Pact to Boost Trade
-  China called for deeper trade and investment ties with South Africa. China pledged to accelerate cooperation in
-  🔗 https://www.livemint.com/companies/news/south-africa-and-china-businesses-ink-pact-to-boost-trade-11758644002544.html
+- Vijay Singh’s forced exit at Tata Sons bares a deep divide at Tata Trusts
+  The Trusts expressed frustration that the Trusts' three nominees on the Tata Sons board had failed to apprise them about several important developments. The philanthropic entities own a 65.
+  🔗 https://www.livemint.com/companies/inside-the-faultlines-at-tata-trusts-noel-tata-ratan-tata-vijay-singh-tata-sons-11758627722384.html
 
-- Patanjali-Dabur legal wrangle: Delhi HC orders Baba Ramdev's company to modify chyawanprash ad targeting rival
-  The Delhi High Court ordered Patanjali Ayurved to modify its ad disparaging Dabur's ch
-  🔗 https://www.livemint.com/companies/news/patanjalidabur-legal-wrangle-delhi-hc-orders-baba-ramdevs-company-to-modify-chyawanprash-ad-targeting-rival-11758638658322.html
+- Ex-Trader Sues TD Bank Over One-Year Non-Compete Agreement
+  A former Toronto-Dominion Bank credit trader who resigned in August sued to have his one-year non-competition agreement declared un
+  🔗 https://www.livemint.com/companies/company-results/extrader-sues-td-bank-over-one-year-non-compete-agreement-11758664665258.html
 
-- GST 2.0: FMCG companies expect magical price points for products to restore within 2 months
-  FMCG companies expect magical price points for products
-  🔗 https://www.livemint.com/companies/news/gst-2-0-fmcg-companies-expect-magical-price-points-for-products-to-restore-within-2-months-11758643695894.html
+- Billionaire Salinas Briefly Threatened With Arrest in AT&T Suit
+  Mexican billionaire Ricardo Salinas has posted a $25 million bond to avoid arrest in the US over an alleged debt
+  🔗 https://www.livemint.com/companies/news/billionaire-salinas-briefly-threatened-with-arrest-in-at-t-suit-11758658041728.html
 
-- EPack Prefab Tech raises  ₹151.2 crore from anchor investors ahead of IPO. Check details
-  EPack Prefab Tech garners
-  🔗 https://www.livemint.com/market/ipo/epack-prefab-tech-raises-rs-151-2-crore-from-anchor-investors-ahead-of-ipo-check-details-11758649340099.html
+- Stock market today: Trade setup for Nifty 50, Trump's tariffs, H-1B visa fee hike; 8 stocks to buy or sell on Wednesday
+  Analysts suggest strong support levels for Nifty 50. Several stocks, including Usha Martin and Ash
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-trump-tariff-h-1b-visa-fee-hike-8-stocks-to-buy-or-sell-on-wednesday-11758644102145.html
 
-- Morgan Stanley partners with Zerohash to launch cryptocurrency trading on E*Trade by 2026
-  Morgan Stanley plans to launch cryptocurrency trading on E*Trade in early 2026. Clients will trade Bitcoin, Ether, and Solana.
-  🔗 https://www.livemint.com/market/cryptocurrency/morgan-stanley-partners-with-zerohash-to-launch-cryptocurrency-trading-on-e-trade-by-2026-11758647172294.html
+- Global Markets Today: Nikkei 225, Kospi fall after US Fed Chair says ‘stocks are overvalued’
+  Australia's S&amp;amp;P/ASX 200 dropped 0.61 per cent
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-fall-after-us-fed-chair-says-stocks-are-overvalued-11758674268884.html
 
-- Jerome Powell Speech Today LIVE: US Fed Chairman warns of inflation risks if rate cuts are ‘too aggressive’
-  Jerome Powell said that if the Fed cuts rates ‘too aggressively’ then it poses inflation risks in the economy. Powell addressed an event in Rhode Island on September 23.
-  🔗 https://www.livemint.com/market/stock-market-news/jerome-powell-speech-today-live-us-fed-chairman-to-speak-at-rhode-island-after-first-rate-cut-of-2025-federal-reserve-11758644285744.html
+- VMS TMT IPO listing date today. GMP, experts signal listing with modest premium in stock market today
+  VMS TMT IPO listing date is September 24. Shares will be listed on both the stock exchanges, BSE and NSE.
+  🔗 https://www.livemint.com/market/ipo/vms-tmt-ipo-listing-date-today-gmp-experts-signal-listing-with-modest-premium-in-stock-market-today-11758647762610.html
 
-- Emerging FX Trim Losses as Brazil’s Real Jumps on Trump Comments
-  Developing currencies pared losses as world leaders including US President Trump speak at the United Nations’ General Assembly. traders react to mixed messages from
-  🔗 https://www.livemint.com/market/stock-market-news/emerging-fx-trim-losses-as-brazil-s-real-jumps-on-trump-comments-11758644308799.html
+- GK Energy IPO allotment date likely today. GMP, steps to check share allotment status online
+  GK Energy IPO allotment date is likely today, 24 September 2025. Investors can check GK Energy's IPO status online through the websites of BSE and NSE.
+  🔗 https://www.livemint.com/market/ipo/gk-energy-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-online-11758647299284.html
 
-- Wall Street mixed ahead of Powells comments; Dow hits record high
-  Wall Street mixed ahead of Powell's comments;
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-mixed-ahead-of-powells-comments-dow-hits-record-high-11758643453630.html
+- Saatvik Green Energy IPO allotment date in focus today. Latest GMP, steps to check share allotment status online
+  Saatvik Green Energy IPO allotment will be finalised today, September 24. Investors can check their allotment status on Kfin Technologies Ltd. Refunds for non-allocation
+  🔗 https://www.livemint.com/market/ipo/saatvik-green-energy-ipo-gmp-saatvik-green-energy-ipo-allotment-status-saatvik-green-energy-ipo-review-saatvik-ipo-11758648088316.html
 
 - Google Play Store is adding a Gemini- powered ‘Sidekick’ to provide you real-time help during games
   The Google Play Store is set for a significant overhaul with AI features. Notable updates include the Sidekick overlay for real-time assistance and the new You tab.
@@ -100,105 +100,105 @@
   OpenAI CEO Sam Altman proposed that access to advanced AI systems may become a fundamental human right in the future. The statement by Altman comes shortly after Nvidia
   🔗 https://www.livemint.com/technology/tech-news/will-access-to-ai-become-a-fundamental-human-right-sam-altman-says-everyone-will-want-11758637275174.html
 
-- Jerome Powell signals US Federal Reserve to move slowly on interest rate cuts
-  Jerome Powell, Federal Reserve Chair, indicated a careful strategy for upcoming interest rate reductions. Stephen Miran suggested a significant rate cut. Michelle Bowman also supported faster cuts due to cooling inflation and a weakening job market.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jerome-powell-signals-us-federal-reserve-to-move-slowly-on-interest-rate-cuts/articleshow/124074937.cms
+- JM Financial, Group firms settle case over NCDs
+   JM Financial, along with JM Financial Services and JM Financial Products, settled with SEBI for ₹1.9 crore over securities law violations. They also face a three-month debarment from debt security distribution and IPO financing
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jm-financial-group-firms-settle-case-over-ncds/articleshow/124080849.cms
 
-- Morgan Stanley, Citigroup invest in Epack Prefab Technologies' anchor round; co raises Rs 151 crore ahead of IPO
-  Epack Prefab Technologies garnered Rs 151 crore from anchor investors, including Whiteoak Capital and Morgan Stanley Asia. The company finalized the allocation of 74.11 lakh shares at Rs 204 per share.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/morgan-stanley-citigroup-invest-in-epack-prefab-technologies-anchor-round-co-raises-rs-180-crore-ahead-of-ipo/articleshow/124074693.cms
+- Pre-market action: Here's the trade setup for today's session
+  Analysts anticipate market firmness, driven by GST reforms and festive demand. FIIs net sold shares, while DIIs were net buyers, and the rupee weakened against the US dollar.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124074890.cms
 
-- Rupee hits record low at 88.79 per dollar
-  The Indian rupee hit a record low of 88.7975 per dollar, pressured by higher US visa fees, tariffs,
-  🔗 https://economictimes.indiatimes.com/markets/forex/rupee-hits-record-low-at-88-79-per-dollar/articleshow/124074492.cms
+- Stocks in news: Mazagon Dock, Swiggy, Tata Motors, Indian Hotels, YES Bank
+   Markets experienced a slight dip amid volatility on expiry day. Optimism from GST reforms and festive demand is countered by external pressures. Mazagon Dock, Indian Hotels, YES Bank, Tata Motors, Puravankara, and Sw
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-mazagon-dock-swiggy-tata-motors-indian-hotels-yes-bank/articleshow/124074849.cms
 
-- Individual pays Rs 39 lakh to settle insider trading violation case with Sebi
-  An individual on Tuesday settled with market regulator Sebi a case of alleged violation of insider trading norms after paying
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/individual-pays-rs-39-lakh-to-settle-insider-trading-violation-case-with-sebi/articleshow/124074394.cms
+- Can Jain Resource Recycling IPO deliver long-term gains for investors?
+  Jain Resource Recycling, a non-ferrous metal company, is set to launch an IPO. The company aims to raise ₹500 crore through fresh equity. It will use the funds to repay debt and cover
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/can-jain-resource-recycling-ipo-deliver-long-term-gains-for-investors/articleshow/124080818.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  The Indian market ended lower on Tuesday, falling for a third consecutive session. Losses fueled by worries over a steep increase in U.S. H-1B
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/124074380.cms
+- India may raise foreign investment limit in PSU banks
+  India is planning to allow more foreign investment in Public Sector Banks. The government will keep at least 51% stake. The goal is to make them globally competitive.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/india-may-raise-foreign-investment-limit-in-psu-banks/articleshow/124080934.cms
 
-- "Only If Pak Army Chief Can Bat": Imran Khan On How To Beat India - NDTV
-  "Only If Pak Army Chief Can Bat": Imran Khan On
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNQXBYY1Z3MU01S3hYVWhRaWtIZE5MTGdpcjloNzJmVEhKMF9uTkpoa1VlQTBERl9QdGtIX3hCVHdDQTE1ODBFekU2Zmk0RHpoVThuN3lvMGh4cGFwYVA5dF9DaU1DNktPV01NbmoyX3lKa1ZYSlUyX1Rxd1JiOE9DTDItNkNwekpLUFZDZm5naThySUxGYUloeUxqRHZ3ZDFpNW5jWdIBrAFBVV95cUxOOGZ1UEZqVjdseTJ3YlhlWFdEeWxLN0JGbFZuVEdyTFprdkRZRWh5ZHIxcXZvUWp5M2VzU1JrVDhRT0stcHdVcTFtQktvTWdWWFFfWXlSbXhEOGRMbThzQVc2UEg1d3FRTjc5TDhwc0hETkR0VHNHVlg1UkduTm9kQkRtLUxKaTlLM3NtSEQtSEt5RDBxX0ZHTWg1eTlISVRvOThha1U4b2tFOUJt?oc=5
-
-- Trump at UNGA: US president targets India repeatedly in rambling speech, makes outrageous 'war' and 'peac - The Times of India
+- Trump at UNGA: US president targets India repeatedly in rambling speech, makes outrageous 'war' and 'peac - Times of India
   The Times of India reported that the US president made the remarks at UNGA.
   🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQU3BwU0VKVFpmLTR3emRRek9YV1p6cm1DaW1SbWJTT2MxeVhJWGtCdnFOeTgwNnVuY3lHbWFpTDZnQmJrVUxVdDJWRTNqeUpwQ3lEbXA5WHFSOHRncC1jX1d3SFlPazFoNWI1T0dnbGdjVmxvTW1NeUhsUVVJellzUmN5d3JWX1NydTVrTGhXSnpRY195bzJyWkNnd21yY3RrUHZacUwzYXo5RWRtS1ZrajhfQ3pDeDN6Y3MzQVZXQ2pNMEJlRGlJdzZDZEM3b3prR0VOc1puU01nTXRqU0U5UktLYmpPTXQ2NDJsWC0zZUZ3QUptLVFuckIxRUgxTm9pWHllRmJySDEwTzTSAZACQVVfeXFMT3lnZzNmMkhJY2VUQ0JZM0VQU0tzMXdNRVhpTmhhTGpBa1dXLUtpSVJLRW5RRnR6TmRKeHhxa0xHM1IyeFhFRUh1ajJnNkxTZ1BDTExXY2FXcE12VWd1RkNaM0dqeXFVQlBMYThDS0tiU09TSjdFZVA0SGZSUEtHcmJkQ0dGTWtEb1RPT1VrQkV6WEZWUUtnSU5pYXNHc0JHNFl1SWRKNXV6VHV2cURXekU1OEYzaDMtQVFNYTlfUENqNGRBNmlobFFEMG8tSTFXYlJFLXVCTk5wMG1aSWdPakEtRVdhb3VJUUZNN2JLclFOMnU4dGo3cTRDd0VreXVqeGhWMHZEWG0tMVdzVERQbmg?oc=5
 
-- 'We should not allow boundary...': Chinese Ambassador Feihong says ready to advance friendly exchanges with India - Mint
-  'We should not allow boundary...': Chinese Ambassador Feihong says
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNREhwVzlPTmZFdlBpYnBjdTkyZk1EeVNJUkZDUmpSRFVDcDdXamNrS0dSSC1XdWJVZ19LeU1odjZucm05YmhKNVRfRHVaSHN3OG5GblpHSDQyX2tiUzRoaklLUjQ0MGw4bXUtV2x1ZUhPZlRQenNvSkdoSHY1Y2ZyRHhfRVdHZlhSQTVrVGtwTm5hcy02MkNqREZPcWx6cGVhZmNzOWFnZEozbGVPeGlkXzI4aWtyTVR4MVhFOExRQnlUWldGVWRmTmozQzM4dDJvN2tmeHFrSWlqa1dpYmtlWWZtVFFOZW5WaF9uNm1VM2cxMmVlNGfSAfsBQVVfeXFMTlJaZDVZSFN2UnU3YTJOOWdfRFpYampRa0c1V2gxcTh3Rkl1N0IzYXBRMVZWa1NtbmZDeDgyalFKaEpoUlJrOHJiME1oay02cVgzbUhtY3hyYTJqNVlISV9keUdlWUp0eFN3MXJwY2FqMWRtNU1xZWswXzdHQXljYUR6eExKcTk2UEZUdlA1Mkhsc3NGbG5SUHZBNElLRFNZM0VjVlZtYnRDWUwzajM2eTF5aDdWSWd6SFkzWVJNeTVlSnRfLURJQ0VWY0hHR1dIdVcwMmRxN2hWcDhPcU1NeUhTcFBabWZ6eE5RSjh0cy1UYmpaalJmSHhVQU0?oc=5
+- Trump Repeats Claim He Ended 7 Wars, Including India-Pak, In UN Speech - NDTV
+  Trump Repeats Claim He Ended 7 Wars, Including
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDZjSE43cnhJb01jcEhOMVE1TTRkUmxlMUtNWjM0M29sNzJXVFFDcDlTOGVHdUlnUFJyREVZQjhwR0JPNzhlZlJXbjJUVnlWeTdBbkU3R1hUUjZ3X0pUbzVYSS1ZUi1TZ3cxa0trWl9JUWsxRS1LNGZTcWd2cDg2ZnVDcV9TZVdpblpSVEprMTRjb3B0M3h2SFdjUE8ycDUyQVpRUUItU3A4UGYw0gG0AUFVX3lxTE9lWl96YlZXUkJjQ244LU1ReVM5cUxhVmx3Q2thVndhckdBOWdEMTZBRzN6cVFFUjdBSjhJZ0hWSjdLMG5qOER6TkR0WllvTXg4amdfQ1pzeG5vbi14WWFGR0stR2NyNGtMM0JmQldYSXZ6a1Z3OER4WEtqbHJkcndBdlluanNLUFFqN1FPTFBNb21TcUQtS3QtcVlHSlp1VFowSEltTktHN045c3hpRVhZbEljZg?oc=5
 
-- India-US trade deal: India to make a case for IT workers after H-1B visa row | Business News - Hindustan Times
-  India to make a case for IT workers after H-1B visa row.
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWDE2WkVMQmFJTTBianduaW1QcGpXU1huQkJ4UjNrN2ROcDNjYmJMSGNBcU5hWU9ZS2doNGh5djJ6YTc0WUhnenRScmxXSVBBVVl2bDk2Y19MOE1KZGdVZ3k3N0c1eVNMOWVrWVVGSHdWeXB3MVpMVnhiS1NoaktEZ042VjF5N1ZWcnJ3MFhPZ3AyMmVsTW4wWTd5ckJwclN4RDl0Uk9iODFGRmtPSEJZRXVSdXFObmxsenVOcTJRTTNwa3dJZHRaN3ZDM1BhdDVX0gHWAUFVX3lxTE9acmJNcEZLVE50ZktuMldUdnJ0Ykl2WjVzc3psV0txUkM0Y0JhNVJmLWV4NmRiRy1ocjVhM1RCdjl5ZUFsY1lPZkprNVJqTjltQzdaM1JVNGNKS2VGRmdDQXB5T0RnXzNFR2ZhQnQ0dHI4bGYtM0JIaHdycUxYNUotbzdSUFlybkRBRm9GMnhlaUFBclFYdmhUdXJIcHlZWHoyWkt0NWZnUnpUdDk3SzZ5T3M2TFNrV19heElpbk5USk9reFhHVVRrMVBJZ0JUN1NaZTFmNWc?oc=5
+- Russian oil, 'war' with Pakistan: How Trump attacked India at UN general assembly | Latest News India - Hindustan Times
+  The Indian government is considering a ban on imports of Russian-made crude oil.
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbU95RUFUSXJmVXhiT3BXWjkxUEdweFRCWXhMRGR2N2RtZU1ySmpWQTZLZlNqeW9OZmduWWRGQ3JudUszWHR4OW9MMmU3RzBwREJhNnJoc1BsZFA0S0lfcnd5bzNaZmVBbnJvLXUzbUY5Vk1jOEJPLWR5cHBqRVRoUXRnY0FQbS12ZWN4ajFGSG5rMXJOckdvVzZzNEpXMVNvcVJDOUp2SE0xTlhOTUs0WWJmTlJDY0NVRVNXLS1HY2tIZUpTOVMzdzF4SGNVOVpjLWRHZjJPbnctQmo1aDRCMklEMTBtd9IB6wFBVV95cUxQUWY3NU54eDRKVXFBbGQxendrZzFXd1ZvNlpHM3l1dy1qNllKSElhX2c0bTViSWYzMi1IZFZxZC1UV090TFhkQWp6c1I1SFVnSjEtbE1peTI3UzZMU3JibWNTWE1PbHRKSVVfdF9BZmZGRFVuWmpjMTZTYjN0dUJ0WGt3Rmx5MTlUSll6cWhIZEVScDNENGxQNjdYc29mZzg1b1N1RWFIS2ZKMHdLYTVRUWtpWXBDNWtLNnNTOVZON2lEenBNRXBidVVSbDhBalZfc2NHUDNwdGhzdEt4aDlIdGU2SzhUSmpRcm84?oc=5
 
-- News Today Live Updates, 23 September | Mumbai: Banker duped of Rs 17.9 crore after buying art claimed to be owned by maharaja - The Indian Express
-  Banker duped of Rs 17.9 crore after buying art claimed to be owned by maharaja.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTUZ5RC10ajhTUVZvVzY4U3hWVTdCTW5rVl90QjdxMEdkVGtMUWthNFdfM21XUF9CZnlYaGNLMlptT0NPQlV6cC1uTUpWRE5SaDU0elNqc0hWT3J0RDhBVDM1M1BiNHVaUXV3dkM4NEZ5d3FySmJ5dnd4aHpiSDFoLWMxbW10R3NzS2pMLXpGRTRyZl96Zmt5M213M2lrSlN1cGpVVEpEeXBrZ2dsT2FhbWFKTGpnUGxHSHd1YWY4YkhHd3NUN2pRdExVM21vVThyeGVTaDFhdElYN1NuMnBXSF9uYkdiOElz0gHvAUFVX3lxTFBrbEsxOXBLRG1FRkg4NFZTRkZqYmp1V3VCRFlNdjNCSGs3djdTcE05LWlXWkx0RFg2Y1JiUkhMNW5tM0x4SHZURXJzWHpNZFd2eU1XeTN3aGN1ZDl3YWozckVQRmViNU5KazhnaURST1NsTlFyM1lqSUVDdWk4RHF5UVhzc0Z2ZjdPYTJiUmRTSkZwajFsVDRaQWFWeEZacmhvX1lvbVdSM1RUVHRfTXlMOVBLUFlVY01GZll6SVFqODYxeG1vQ2lxTGFpVkpONnh2cXg0WFAwblFPMkdqcnowam1QWmlGRmVxcDJETkN3?oc=5
+- "Treating India Right": Pak Minister's Shocker On Haris Rauf's '6-0' Gesture - NDTV
+  "Treating India Right": Pak Minister's
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1ZrYTRzLXRWSWVVMFhRRGVXSmMzdnlTVkl4M0ZlZHNfRzlKZFJmalYxektWSHl6Y0oybWxBTlJrSmVWUXdHUjFuSXhYOXFwLUE0NEpWbEZlMmNFNGM1eUhxU0JkZ1I1dkF2YVRoZmg3ODh0allfMUFZWUUyX1lMOEhMQnYtV1AxMVFGc1VZUWxnV1RhVXp6WGtuMlRIaV9yOF8tZzBWNnV0eVdVUXdQalc5UEVSem9wOXdDd0lPcTlDMGp1NWhtall2ZVTSAdQBQVVfeXFMTkN6V0NJQzFncGJxOUtIWWZnb3VYNzkyZDRJMU9uMmcyMXdILWpqdzNmNjVmOTJKRGJtdHRMclZxZl9VcUhzME8zcjZpallnVlJ4Nkg1MW9LbGZKazBCcEdWRjM5ZTI2YUN4Y0VTNjBCc2dnV1Flek5WakdkamR6QVlTNjUzaUxHQWdsbUhwSFIzVWdYZ21idDVyTEFVdGY0dEgzNkVpc1lYWFZQTFdzY3hwNTRNXzdQVVFKM2s5X1owTmlLcmg1cm5hQ2lNQmpkTVJzR2w?oc=5
 
-- "Only If Pak Army Chief Can Bat": Imran Khan On How To Beat India - NDTV
-  "Only If Pak Army Chief Can Bat": Imran Khan On
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNQXBYY1Z3MU01S3hYVWhRaWtIZE5MTGdpcjloNzJmVEhKMF9uTkpoa1VlQTBERl9QdGtIX3hCVHdDQTE1ODBFekU2Zmk0RHpoVThuN3lvMGh4cGFwYVA5dF9DaU1DNktPV01NbmoyX3lKa1ZYSlUyX1Rxd1JiOE9DTDItNkNwekpLUFZDZm5naThySUxGYUloeUxqRHZ3ZDFpNW5jWdIBrAFBVV95cUxOOGZ1UEZqVjdseTJ3YlhlWFdEeWxLN0JGbFZuVEdyTFprdkRZRWh5ZHIxcXZvUWp5M2VzU1JrVDhRT0stcHdVcTFtQktvTWdWWFFfWXlSbXhEOGRMbThzQVc2UEg1d3FRTjc5TDhwc0hETkR0VHNHVlg1UkduTm9kQkRtLUxKaTlLM3NtSEQtSEt5RDBxX0ZHTWg1eTlISVRvOThha1U4b2tFOUJt?oc=5
+- Another storm brews! Pakistan women’s cricketer copies Haris Rauf's '6-0' celebration - Times of India
+  The Pakistan women’s cricketer
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSnBJVGFOdUhXUjg2QWlmR3JidUtOcWZoSjlETFZseVJxVUtrOFhNMW9uR2NXVzFvblBuV0VGVTd1Q2JSUU5HMy0xNmJXOXdMdWk3eEs0VDRyaThnOVdLcjNvUVhXd1E3T1puaWttNjgwcTNHUXdNMTNIbVFfY2h6bHNEVkJuVkdDbkpVUk1saFY1RUU3SnVCTGtkZHl1ZDhFMlY5Y3NEaFB6cWRISDRZNXRyb2dLZTNMdk9qVkcyMXdiaEU2WXF3cGZ4eGxXSkYzLWd3UFJaelo2SzRuVTdxRG4zbTFTanhrSWtpT0Q3VlpLYl95aXdPQ1Fn0gH_AUFVX3lxTE85Z0RWcTJtaGhMUnI0ODV6bjNwcGhJYmM1dFR0TWtiYWNqNGNvUF8yaE54YmRSVEJ1RkVhdENIeF9RMHNWajNfbm44UUVQSEtsVHpvZlI1MUVDU1VkSWpkTnRtejJ2RVp2UTRnN1Etdjl5b1drV2c1ajV6ck1kM0h2ZEU3QXFsanczOHlFM3paWHdRRl9IRnhFLU5vb2xweUhoNDNCVk9KcDQwU1c1TFVoV283MU5MMi1Jdm9PRVJnd2plS09jXzFLU1hfeDVRcFptZ3BRR0xvQkprSGtPNDFuSDVjSmJCQVYtaW1QWWR6TnM2d2R5R2RNTXQ2STZKSQ?oc=5
 
-- Trump at UNGA: US president targets India repeatedly in rambling speech, makes outrageous 'war' and 'peac - The Times of India
+- Trump at UNGA: US president targets India repeatedly in rambling speech, makes outrageous 'war' and 'peac - Times of India
   The Times of India reported that the US president made the remarks at UNGA.
   🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQU3BwU0VKVFpmLTR3emRRek9YV1p6cm1DaW1SbWJTT2MxeVhJWGtCdnFOeTgwNnVuY3lHbWFpTDZnQmJrVUxVdDJWRTNqeUpwQ3lEbXA5WHFSOHRncC1jX1d3SFlPazFoNWI1T0dnbGdjVmxvTW1NeUhsUVVJellzUmN5d3JWX1NydTVrTGhXSnpRY195bzJyWkNnd21yY3RrUHZacUwzYXo5RWRtS1ZrajhfQ3pDeDN6Y3MzQVZXQ2pNMEJlRGlJdzZDZEM3b3prR0VOc1puU01nTXRqU0U5UktLYmpPTXQ2NDJsWC0zZUZ3QUptLVFuckIxRUgxTm9pWHllRmJySDEwTzTSAZACQVVfeXFMT3lnZzNmMkhJY2VUQ0JZM0VQU0tzMXdNRVhpTmhhTGpBa1dXLUtpSVJLRW5RRnR6TmRKeHhxa0xHM1IyeFhFRUh1ajJnNkxTZ1BDTExXY2FXcE12VWd1RkNaM0dqeXFVQlBMYThDS0tiU09TSjdFZVA0SGZSUEtHcmJkQ0dGTWtEb1RPT1VrQkV6WEZWUUtnSU5pYXNHc0JHNFl1SWRKNXV6VHV2cURXekU1OEYzaDMtQVFNYTlfUENqNGRBNmlobFFEMG8tSTFXYlJFLXVCTk5wMG1aSWdPakEtRVdhb3VJUUZNN2JLclFOMnU4dGo3cTRDd0VreXVqeGhWMHZEWG0tMVdzVERQbmg?oc=5
 
-- 'We should not allow boundary...': Chinese Ambassador Feihong says ready to advance friendly exchanges with India - Mint
-  'We should not allow boundary...': Chinese Ambassador Feihong says
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNREhwVzlPTmZFdlBpYnBjdTkyZk1EeVNJUkZDUmpSRFVDcDdXamNrS0dSSC1XdWJVZ19LeU1odjZucm05YmhKNVRfRHVaSHN3OG5GblpHSDQyX2tiUzRoaklLUjQ0MGw4bXUtV2x1ZUhPZlRQenNvSkdoSHY1Y2ZyRHhfRVdHZlhSQTVrVGtwTm5hcy02MkNqREZPcWx6cGVhZmNzOWFnZEozbGVPeGlkXzI4aWtyTVR4MVhFOExRQnlUWldGVWRmTmozQzM4dDJvN2tmeHFrSWlqa1dpYmtlWWZtVFFOZW5WaF9uNm1VM2cxMmVlNGfSAfsBQVVfeXFMTlJaZDVZSFN2UnU3YTJOOWdfRFpYampRa0c1V2gxcTh3Rkl1N0IzYXBRMVZWa1NtbmZDeDgyalFKaEpoUlJrOHJiME1oay02cVgzbUhtY3hyYTJqNVlISV9keUdlWUp0eFN3MXJwY2FqMWRtNU1xZWswXzdHQXljYUR6eExKcTk2UEZUdlA1Mkhsc3NGbG5SUHZBNElLRFNZM0VjVlZtYnRDWUwzajM2eTF5aDdWSWd6SFkzWVJNeTVlSnRfLURJQ0VWY0hHR1dIdVcwMmRxN2hWcDhPcU1NeUhTcFBabWZ6eE5RSjh0cy1UYmpaalJmSHhVQU0?oc=5
+- Trump Repeats Claim He Ended 7 Wars, Including India-Pak, In UN Speech - NDTV
+  Trump Repeats Claim He Ended 7 Wars, Including
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDZjSE43cnhJb01jcEhOMVE1TTRkUmxlMUtNWjM0M29sNzJXVFFDcDlTOGVHdUlnUFJyREVZQjhwR0JPNzhlZlJXbjJUVnlWeTdBbkU3R1hUUjZ3X0pUbzVYSS1ZUi1TZ3cxa0trWl9JUWsxRS1LNGZTcWd2cDg2ZnVDcV9TZVdpblpSVEprMTRjb3B0M3h2SFdjUE8ycDUyQVpRUUItU3A4UGYw0gG0AUFVX3lxTE9lWl96YlZXUkJjQ244LU1ReVM5cUxhVmx3Q2thVndhckdBOWdEMTZBRzN6cVFFUjdBSjhJZ0hWSjdLMG5qOER6TkR0WllvTXg4amdfQ1pzeG5vbi14WWFGR0stR2NyNGtMM0JmQldYSXZ6a1Z3OER4WEtqbHJkcndBdlluanNLUFFqN1FPTFBNb21TcUQtS3QtcVlHSlp1VFowSEltTktHN045c3hpRVhZbEljZg?oc=5
 
-- India-US trade deal: India to make a case for IT workers after H-1B visa row | Business News - Hindustan Times
-  India to make a case for IT workers after H-1B visa row.
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWDE2WkVMQmFJTTBianduaW1QcGpXU1huQkJ4UjNrN2ROcDNjYmJMSGNBcU5hWU9ZS2doNGh5djJ6YTc0WUhnenRScmxXSVBBVVl2bDk2Y19MOE1KZGdVZ3k3N0c1eVNMOWVrWVVGSHdWeXB3MVpMVnhiS1NoaktEZ042VjF5N1ZWcnJ3MFhPZ3AyMmVsTW4wWTd5ckJwclN4RDl0Uk9iODFGRmtPSEJZRXVSdXFObmxsenVOcTJRTTNwa3dJZHRaN3ZDM1BhdDVX0gHWAUFVX3lxTE9acmJNcEZLVE50ZktuMldUdnJ0Ykl2WjVzc3psV0txUkM0Y0JhNVJmLWV4NmRiRy1ocjVhM1RCdjl5ZUFsY1lPZkprNVJqTjltQzdaM1JVNGNKS2VGRmdDQXB5T0RnXzNFR2ZhQnQ0dHI4bGYtM0JIaHdycUxYNUotbzdSUFlybkRBRm9GMnhlaUFBclFYdmhUdXJIcHlZWHoyWkt0NWZnUnpUdDk3SzZ5T3M2TFNrV19heElpbk5USk9reFhHVVRrMVBJZ0JUN1NaZTFmNWc?oc=5
+- Russian oil, 'war' with Pakistan: How Trump attacked India at UN general assembly | Latest News India - Hindustan Times
+  The Indian government is considering a ban on imports of Russian-made crude oil.
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbU95RUFUSXJmVXhiT3BXWjkxUEdweFRCWXhMRGR2N2RtZU1ySmpWQTZLZlNqeW9OZmduWWRGQ3JudUszWHR4OW9MMmU3RzBwREJhNnJoc1BsZFA0S0lfcnd5bzNaZmVBbnJvLXUzbUY5Vk1jOEJPLWR5cHBqRVRoUXRnY0FQbS12ZWN4ajFGSG5rMXJOckdvVzZzNEpXMVNvcVJDOUp2SE0xTlhOTUs0WWJmTlJDY0NVRVNXLS1HY2tIZUpTOVMzdzF4SGNVOVpjLWRHZjJPbnctQmo1aDRCMklEMTBtd9IB6wFBVV95cUxQUWY3NU54eDRKVXFBbGQxendrZzFXd1ZvNlpHM3l1dy1qNllKSElhX2c0bTViSWYzMi1IZFZxZC1UV090TFhkQWp6c1I1SFVnSjEtbE1peTI3UzZMU3JibWNTWE1PbHRKSVVfdF9BZmZGRFVuWmpjMTZTYjN0dUJ0WGt3Rmx5MTlUSll6cWhIZEVScDNENGxQNjdYc29mZzg1b1N1RWFIS2ZKMHdLYTVRUWtpWXBDNWtLNnNTOVZON2lEenBNRXBidVVSbDhBalZfc2NHUDNwdGhzdEt4aDlIdGU2SzhUSmpRcm84?oc=5
 
-- News Today Live Updates, 23 September | Mumbai: Banker duped of Rs 17.9 crore after buying art claimed to be owned by maharaja - The Indian Express
-  Banker duped of Rs 17.9 crore after buying art claimed to be owned by maharaja.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTUZ5RC10ajhTUVZvVzY4U3hWVTdCTW5rVl90QjdxMEdkVGtMUWthNFdfM21XUF9CZnlYaGNLMlptT0NPQlV6cC1uTUpWRE5SaDU0elNqc0hWT3J0RDhBVDM1M1BiNHVaUXV3dkM4NEZ5d3FySmJ5dnd4aHpiSDFoLWMxbW10R3NzS2pMLXpGRTRyZl96Zmt5M213M2lrSlN1cGpVVEpEeXBrZ2dsT2FhbWFKTGpnUGxHSHd1YWY4YkhHd3NUN2pRdExVM21vVThyeGVTaDFhdElYN1NuMnBXSF9uYkdiOElz0gHvAUFVX3lxTFBrbEsxOXBLRG1FRkg4NFZTRkZqYmp1V3VCRFlNdjNCSGs3djdTcE05LWlXWkx0RFg2Y1JiUkhMNW5tM0x4SHZURXJzWHpNZFd2eU1XeTN3aGN1ZDl3YWozckVQRmViNU5KazhnaURST1NsTlFyM1lqSUVDdWk4RHF5UVhzc0Z2ZjdPYTJiUmRTSkZwajFsVDRaQWFWeEZacmhvX1lvbVdSM1RUVHRfTXlMOVBLUFlVY01GZll6SVFqODYxeG1vQ2lxTGFpVkpONnh2cXg0WFAwblFPMkdqcnowam1QWmlGRmVxcDJETkN3?oc=5
+- "Treating India Right": Pak Minister's Shocker On Haris Rauf's '6-0' Gesture - NDTV
+  "Treating India Right": Pak Minister's
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1ZrYTRzLXRWSWVVMFhRRGVXSmMzdnlTVkl4M0ZlZHNfRzlKZFJmalYxektWSHl6Y0oybWxBTlJrSmVWUXdHUjFuSXhYOXFwLUE0NEpWbEZlMmNFNGM1eUhxU0JkZ1I1dkF2YVRoZmg3ODh0allfMUFZWUUyX1lMOEhMQnYtV1AxMVFGc1VZUWxnV1RhVXp6WGtuMlRIaV9yOF8tZzBWNnV0eVdVUXdQalc5UEVSem9wOXdDd0lPcTlDMGp1NWhtall2ZVTSAdQBQVVfeXFMTkN6V0NJQzFncGJxOUtIWWZnb3VYNzkyZDRJMU9uMmcyMXdILWpqdzNmNjVmOTJKRGJtdHRMclZxZl9VcUhzME8zcjZpallnVlJ4Nkg1MW9LbGZKazBCcEdWRjM5ZTI2YUN4Y0VTNjBCc2dnV1Flek5WakdkamR6QVlTNjUzaUxHQWdsbUhwSFIzVWdYZ21idDVyTEFVdGY0dEgzNkVpc1lYWFZQTFdzY3hwNTRNXzdQVVFKM2s5X1owTmlLcmg1cm5hQ2lNQmpkTVJzR2w?oc=5
 
-- "Only If Pak Army Chief Can Bat": Imran Khan On How To Beat India - NDTV
-  "Only If Pak Army Chief Can Bat": Imran Khan On
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNQXBYY1Z3MU01S3hYVWhRaWtIZE5MTGdpcjloNzJmVEhKMF9uTkpoa1VlQTBERl9QdGtIX3hCVHdDQTE1ODBFekU2Zmk0RHpoVThuN3lvMGh4cGFwYVA5dF9DaU1DNktPV01NbmoyX3lKa1ZYSlUyX1Rxd1JiOE9DTDItNkNwekpLUFZDZm5naThySUxGYUloeUxqRHZ3ZDFpNW5jWdIBrAFBVV95cUxOOGZ1UEZqVjdseTJ3YlhlWFdEeWxLN0JGbFZuVEdyTFprdkRZRWh5ZHIxcXZvUWp5M2VzU1JrVDhRT0stcHdVcTFtQktvTWdWWFFfWXlSbXhEOGRMbThzQVc2UEg1d3FRTjc5TDhwc0hETkR0VHNHVlg1UkduTm9kQkRtLUxKaTlLM3NtSEQtSEt5RDBxX0ZHTWg1eTlISVRvOThha1U4b2tFOUJt?oc=5
+- Another storm brews! Pakistan women’s cricketer copies Haris Rauf's '6-0' celebration - Times of India
+  The Pakistan women’s cricketer
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSnBJVGFOdUhXUjg2QWlmR3JidUtOcWZoSjlETFZseVJxVUtrOFhNMW9uR2NXVzFvblBuV0VGVTd1Q2JSUU5HMy0xNmJXOXdMdWk3eEs0VDRyaThnOVdLcjNvUVhXd1E3T1puaWttNjgwcTNHUXdNMTNIbVFfY2h6bHNEVkJuVkdDbkpVUk1saFY1RUU3SnVCTGtkZHl1ZDhFMlY5Y3NEaFB6cWRISDRZNXRyb2dLZTNMdk9qVkcyMXdiaEU2WXF3cGZ4eGxXSkYzLWd3UFJaelo2SzRuVTdxRG4zbTFTanhrSWtpT0Q3VlpLYl95aXdPQ1Fn0gH_AUFVX3lxTE85Z0RWcTJtaGhMUnI0ODV6bjNwcGhJYmM1dFR0TWtiYWNqNGNvUF8yaE54YmRSVEJ1RkVhdENIeF9RMHNWajNfbm44UUVQSEtsVHpvZlI1MUVDU1VkSWpkTnRtejJ2RVp2UTRnN1Etdjl5b1drV2c1ajV6ck1kM0h2ZEU3QXFsanczOHlFM3paWHdRRl9IRnhFLU5vb2xweUhoNDNCVk9KcDQwU1c1TFVoV283MU5MMi1Jdm9PRVJnd2plS09jXzFLU1hfeDVRcFptZ3BRR0xvQkprSGtPNDFuSDVjSmJCQVYtaW1QWWR6TnM2d2R5R2RNTXQ2STZKSQ?oc=5
 
-- Trump at UNGA: US president targets India repeatedly in rambling speech, makes outrageous 'war' and 'peac - The Times of India
+- Trump at UNGA: US president targets India repeatedly in rambling speech, makes outrageous 'war' and 'peac - Times of India
   The Times of India reported that the US president made the remarks at UNGA.
   🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQU3BwU0VKVFpmLTR3emRRek9YV1p6cm1DaW1SbWJTT2MxeVhJWGtCdnFOeTgwNnVuY3lHbWFpTDZnQmJrVUxVdDJWRTNqeUpwQ3lEbXA5WHFSOHRncC1jX1d3SFlPazFoNWI1T0dnbGdjVmxvTW1NeUhsUVVJellzUmN5d3JWX1NydTVrTGhXSnpRY195bzJyWkNnd21yY3RrUHZacUwzYXo5RWRtS1ZrajhfQ3pDeDN6Y3MzQVZXQ2pNMEJlRGlJdzZDZEM3b3prR0VOc1puU01nTXRqU0U5UktLYmpPTXQ2NDJsWC0zZUZ3QUptLVFuckIxRUgxTm9pWHllRmJySDEwTzTSAZACQVVfeXFMT3lnZzNmMkhJY2VUQ0JZM0VQU0tzMXdNRVhpTmhhTGpBa1dXLUtpSVJLRW5RRnR6TmRKeHhxa0xHM1IyeFhFRUh1ajJnNkxTZ1BDTExXY2FXcE12VWd1RkNaM0dqeXFVQlBMYThDS0tiU09TSjdFZVA0SGZSUEtHcmJkQ0dGTWtEb1RPT1VrQkV6WEZWUUtnSU5pYXNHc0JHNFl1SWRKNXV6VHV2cURXekU1OEYzaDMtQVFNYTlfUENqNGRBNmlobFFEMG8tSTFXYlJFLXVCTk5wMG1aSWdPakEtRVdhb3VJUUZNN2JLclFOMnU4dGo3cTRDd0VreXVqeGhWMHZEWG0tMVdzVERQbmg?oc=5
 
-- 'We should not allow boundary...': Chinese Ambassador Feihong says ready to advance friendly exchanges with India - Mint
-  'We should not allow boundary...': Chinese Ambassador Feihong says
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNREhwVzlPTmZFdlBpYnBjdTkyZk1EeVNJUkZDUmpSRFVDcDdXamNrS0dSSC1XdWJVZ19LeU1odjZucm05YmhKNVRfRHVaSHN3OG5GblpHSDQyX2tiUzRoaklLUjQ0MGw4bXUtV2x1ZUhPZlRQenNvSkdoSHY1Y2ZyRHhfRVdHZlhSQTVrVGtwTm5hcy02MkNqREZPcWx6cGVhZmNzOWFnZEozbGVPeGlkXzI4aWtyTVR4MVhFOExRQnlUWldGVWRmTmozQzM4dDJvN2tmeHFrSWlqa1dpYmtlWWZtVFFOZW5WaF9uNm1VM2cxMmVlNGfSAfsBQVVfeXFMTlJaZDVZSFN2UnU3YTJOOWdfRFpYampRa0c1V2gxcTh3Rkl1N0IzYXBRMVZWa1NtbmZDeDgyalFKaEpoUlJrOHJiME1oay02cVgzbUhtY3hyYTJqNVlISV9keUdlWUp0eFN3MXJwY2FqMWRtNU1xZWswXzdHQXljYUR6eExKcTk2UEZUdlA1Mkhsc3NGbG5SUHZBNElLRFNZM0VjVlZtYnRDWUwzajM2eTF5aDdWSWd6SFkzWVJNeTVlSnRfLURJQ0VWY0hHR1dIdVcwMmRxN2hWcDhPcU1NeUhTcFBabWZ6eE5RSjh0cy1UYmpaalJmSHhVQU0?oc=5
+- Trump Repeats Claim He Ended 7 Wars, Including India-Pak, In UN Speech - NDTV
+  Trump Repeats Claim He Ended 7 Wars, Including
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDZjSE43cnhJb01jcEhOMVE1TTRkUmxlMUtNWjM0M29sNzJXVFFDcDlTOGVHdUlnUFJyREVZQjhwR0JPNzhlZlJXbjJUVnlWeTdBbkU3R1hUUjZ3X0pUbzVYSS1ZUi1TZ3cxa0trWl9JUWsxRS1LNGZTcWd2cDg2ZnVDcV9TZVdpblpSVEprMTRjb3B0M3h2SFdjUE8ycDUyQVpRUUItU3A4UGYw0gG0AUFVX3lxTE9lWl96YlZXUkJjQ244LU1ReVM5cUxhVmx3Q2thVndhckdBOWdEMTZBRzN6cVFFUjdBSjhJZ0hWSjdLMG5qOER6TkR0WllvTXg4amdfQ1pzeG5vbi14WWFGR0stR2NyNGtMM0JmQldYSXZ6a1Z3OER4WEtqbHJkcndBdlluanNLUFFqN1FPTFBNb21TcUQtS3QtcVlHSlp1VFowSEltTktHN045c3hpRVhZbEljZg?oc=5
 
-- India-US trade deal: India to make a case for IT workers after H-1B visa row | Business News - Hindustan Times
-  India to make a case for IT workers after H-1B visa row.
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWDE2WkVMQmFJTTBianduaW1QcGpXU1huQkJ4UjNrN2ROcDNjYmJMSGNBcU5hWU9ZS2doNGh5djJ6YTc0WUhnenRScmxXSVBBVVl2bDk2Y19MOE1KZGdVZ3k3N0c1eVNMOWVrWVVGSHdWeXB3MVpMVnhiS1NoaktEZ042VjF5N1ZWcnJ3MFhPZ3AyMmVsTW4wWTd5ckJwclN4RDl0Uk9iODFGRmtPSEJZRXVSdXFObmxsenVOcTJRTTNwa3dJZHRaN3ZDM1BhdDVX0gHWAUFVX3lxTE9acmJNcEZLVE50ZktuMldUdnJ0Ykl2WjVzc3psV0txUkM0Y0JhNVJmLWV4NmRiRy1ocjVhM1RCdjl5ZUFsY1lPZkprNVJqTjltQzdaM1JVNGNKS2VGRmdDQXB5T0RnXzNFR2ZhQnQ0dHI4bGYtM0JIaHdycUxYNUotbzdSUFlybkRBRm9GMnhlaUFBclFYdmhUdXJIcHlZWHoyWkt0NWZnUnpUdDk3SzZ5T3M2TFNrV19heElpbk5USk9reFhHVVRrMVBJZ0JUN1NaZTFmNWc?oc=5
+- Russian oil, 'war' with Pakistan: How Trump attacked India at UN general assembly | Latest News India - Hindustan Times
+  The Indian government is considering a ban on imports of Russian-made crude oil.
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbU95RUFUSXJmVXhiT3BXWjkxUEdweFRCWXhMRGR2N2RtZU1ySmpWQTZLZlNqeW9OZmduWWRGQ3JudUszWHR4OW9MMmU3RzBwREJhNnJoc1BsZFA0S0lfcnd5bzNaZmVBbnJvLXUzbUY5Vk1jOEJPLWR5cHBqRVRoUXRnY0FQbS12ZWN4ajFGSG5rMXJOckdvVzZzNEpXMVNvcVJDOUp2SE0xTlhOTUs0WWJmTlJDY0NVRVNXLS1HY2tIZUpTOVMzdzF4SGNVOVpjLWRHZjJPbnctQmo1aDRCMklEMTBtd9IB6wFBVV95cUxQUWY3NU54eDRKVXFBbGQxendrZzFXd1ZvNlpHM3l1dy1qNllKSElhX2c0bTViSWYzMi1IZFZxZC1UV090TFhkQWp6c1I1SFVnSjEtbE1peTI3UzZMU3JibWNTWE1PbHRKSVVfdF9BZmZGRFVuWmpjMTZTYjN0dUJ0WGt3Rmx5MTlUSll6cWhIZEVScDNENGxQNjdYc29mZzg1b1N1RWFIS2ZKMHdLYTVRUWtpWXBDNWtLNnNTOVZON2lEenBNRXBidVVSbDhBalZfc2NHUDNwdGhzdEt4aDlIdGU2SzhUSmpRcm84?oc=5
 
-- News Today Live Updates, 23 September | Mumbai: Banker duped of Rs 17.9 crore after buying art claimed to be owned by maharaja - The Indian Express
-  Banker duped of Rs 17.9 crore after buying art claimed to be owned by maharaja.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTUZ5RC10ajhTUVZvVzY4U3hWVTdCTW5rVl90QjdxMEdkVGtMUWthNFdfM21XUF9CZnlYaGNLMlptT0NPQlV6cC1uTUpWRE5SaDU0elNqc0hWT3J0RDhBVDM1M1BiNHVaUXV3dkM4NEZ5d3FySmJ5dnd4aHpiSDFoLWMxbW10R3NzS2pMLXpGRTRyZl96Zmt5M213M2lrSlN1cGpVVEpEeXBrZ2dsT2FhbWFKTGpnUGxHSHd1YWY4YkhHd3NUN2pRdExVM21vVThyeGVTaDFhdElYN1NuMnBXSF9uYkdiOElz0gHvAUFVX3lxTFBrbEsxOXBLRG1FRkg4NFZTRkZqYmp1V3VCRFlNdjNCSGs3djdTcE05LWlXWkx0RFg2Y1JiUkhMNW5tM0x4SHZURXJzWHpNZFd2eU1XeTN3aGN1ZDl3YWozckVQRmViNU5KazhnaURST1NsTlFyM1lqSUVDdWk4RHF5UVhzc0Z2ZjdPYTJiUmRTSkZwajFsVDRaQWFWeEZacmhvX1lvbVdSM1RUVHRfTXlMOVBLUFlVY01GZll6SVFqODYxeG1vQ2lxTGFpVkpONnh2cXg0WFAwblFPMkdqcnowam1QWmlGRmVxcDJETkN3?oc=5
+- "Treating India Right": Pak Minister's Shocker On Haris Rauf's '6-0' Gesture - NDTV
+  "Treating India Right": Pak Minister's
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1ZrYTRzLXRWSWVVMFhRRGVXSmMzdnlTVkl4M0ZlZHNfRzlKZFJmalYxektWSHl6Y0oybWxBTlJrSmVWUXdHUjFuSXhYOXFwLUE0NEpWbEZlMmNFNGM1eUhxU0JkZ1I1dkF2YVRoZmg3ODh0allfMUFZWUUyX1lMOEhMQnYtV1AxMVFGc1VZUWxnV1RhVXp6WGtuMlRIaV9yOF8tZzBWNnV0eVdVUXdQalc5UEVSem9wOXdDd0lPcTlDMGp1NWhtall2ZVTSAdQBQVVfeXFMTkN6V0NJQzFncGJxOUtIWWZnb3VYNzkyZDRJMU9uMmcyMXdILWpqdzNmNjVmOTJKRGJtdHRMclZxZl9VcUhzME8zcjZpallnVlJ4Nkg1MW9LbGZKazBCcEdWRjM5ZTI2YUN4Y0VTNjBCc2dnV1Flek5WakdkamR6QVlTNjUzaUxHQWdsbUhwSFIzVWdYZ21idDVyTEFVdGY0dEgzNkVpc1lYWFZQTFdzY3hwNTRNXzdQVVFKM2s5X1owTmlLcmg1cm5hQ2lNQmpkTVJzR2w?oc=5
 
-- "Only If Pak Army Chief Can Bat": Imran Khan On How To Beat India - NDTV
-  "Only If Pak Army Chief Can Bat": Imran Khan On
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNQXBYY1Z3MU01S3hYVWhRaWtIZE5MTGdpcjloNzJmVEhKMF9uTkpoa1VlQTBERl9QdGtIX3hCVHdDQTE1ODBFekU2Zmk0RHpoVThuN3lvMGh4cGFwYVA5dF9DaU1DNktPV01NbmoyX3lKa1ZYSlUyX1Rxd1JiOE9DTDItNkNwekpLUFZDZm5naThySUxGYUloeUxqRHZ3ZDFpNW5jWdIBrAFBVV95cUxOOGZ1UEZqVjdseTJ3YlhlWFdEeWxLN0JGbFZuVEdyTFprdkRZRWh5ZHIxcXZvUWp5M2VzU1JrVDhRT0stcHdVcTFtQktvTWdWWFFfWXlSbXhEOGRMbThzQVc2UEg1d3FRTjc5TDhwc0hETkR0VHNHVlg1UkduTm9kQkRtLUxKaTlLM3NtSEQtSEt5RDBxX0ZHTWg1eTlISVRvOThha1U4b2tFOUJt?oc=5
+- Another storm brews! Pakistan women’s cricketer copies Haris Rauf's '6-0' celebration - Times of India
+  The Pakistan women’s cricketer
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSnBJVGFOdUhXUjg2QWlmR3JidUtOcWZoSjlETFZseVJxVUtrOFhNMW9uR2NXVzFvblBuV0VGVTd1Q2JSUU5HMy0xNmJXOXdMdWk3eEs0VDRyaThnOVdLcjNvUVhXd1E3T1puaWttNjgwcTNHUXdNMTNIbVFfY2h6bHNEVkJuVkdDbkpVUk1saFY1RUU3SnVCTGtkZHl1ZDhFMlY5Y3NEaFB6cWRISDRZNXRyb2dLZTNMdk9qVkcyMXdiaEU2WXF3cGZ4eGxXSkYzLWd3UFJaelo2SzRuVTdxRG4zbTFTanhrSWtpT0Q3VlpLYl95aXdPQ1Fn0gH_AUFVX3lxTE85Z0RWcTJtaGhMUnI0ODV6bjNwcGhJYmM1dFR0TWtiYWNqNGNvUF8yaE54YmRSVEJ1RkVhdENIeF9RMHNWajNfbm44UUVQSEtsVHpvZlI1MUVDU1VkSWpkTnRtejJ2RVp2UTRnN1Etdjl5b1drV2c1ajV6ck1kM0h2ZEU3QXFsanczOHlFM3paWHdRRl9IRnhFLU5vb2xweUhoNDNCVk9KcDQwU1c1TFVoV283MU5MMi1Jdm9PRVJnd2plS09jXzFLU1hfeDVRcFptZ3BRR0xvQkprSGtPNDFuSDVjSmJCQVYtaW1QWWR6TnM2d2R5R2RNTXQ2STZKSQ?oc=5
 
-- Trump at UNGA: US president targets India repeatedly in rambling speech, makes outrageous 'war' and 'peac - The Times of India
+- Trump at UNGA: US president targets India repeatedly in rambling speech, makes outrageous 'war' and 'peac - Times of India
   The Times of India reported that the US president made the remarks at UNGA.
   🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQU3BwU0VKVFpmLTR3emRRek9YV1p6cm1DaW1SbWJTT2MxeVhJWGtCdnFOeTgwNnVuY3lHbWFpTDZnQmJrVUxVdDJWRTNqeUpwQ3lEbXA5WHFSOHRncC1jX1d3SFlPazFoNWI1T0dnbGdjVmxvTW1NeUhsUVVJellzUmN5d3JWX1NydTVrTGhXSnpRY195bzJyWkNnd21yY3RrUHZacUwzYXo5RWRtS1ZrajhfQ3pDeDN6Y3MzQVZXQ2pNMEJlRGlJdzZDZEM3b3prR0VOc1puU01nTXRqU0U5UktLYmpPTXQ2NDJsWC0zZUZ3QUptLVFuckIxRUgxTm9pWHllRmJySDEwTzTSAZACQVVfeXFMT3lnZzNmMkhJY2VUQ0JZM0VQU0tzMXdNRVhpTmhhTGpBa1dXLUtpSVJLRW5RRnR6TmRKeHhxa0xHM1IyeFhFRUh1ajJnNkxTZ1BDTExXY2FXcE12VWd1RkNaM0dqeXFVQlBMYThDS0tiU09TSjdFZVA0SGZSUEtHcmJkQ0dGTWtEb1RPT1VrQkV6WEZWUUtnSU5pYXNHc0JHNFl1SWRKNXV6VHV2cURXekU1OEYzaDMtQVFNYTlfUENqNGRBNmlobFFEMG8tSTFXYlJFLXVCTk5wMG1aSWdPakEtRVdhb3VJUUZNN2JLclFOMnU4dGo3cTRDd0VreXVqeGhWMHZEWG0tMVdzVERQbmg?oc=5
 
-- 'We should not allow boundary...': Chinese Ambassador Feihong says ready to advance friendly exchanges with India - Mint
-  'We should not allow boundary...': Chinese Ambassador Feihong says
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNREhwVzlPTmZFdlBpYnBjdTkyZk1EeVNJUkZDUmpSRFVDcDdXamNrS0dSSC1XdWJVZ19LeU1odjZucm05YmhKNVRfRHVaSHN3OG5GblpHSDQyX2tiUzRoaklLUjQ0MGw4bXUtV2x1ZUhPZlRQenNvSkdoSHY1Y2ZyRHhfRVdHZlhSQTVrVGtwTm5hcy02MkNqREZPcWx6cGVhZmNzOWFnZEozbGVPeGlkXzI4aWtyTVR4MVhFOExRQnlUWldGVWRmTmozQzM4dDJvN2tmeHFrSWlqa1dpYmtlWWZtVFFOZW5WaF9uNm1VM2cxMmVlNGfSAfsBQVVfeXFMTlJaZDVZSFN2UnU3YTJOOWdfRFpYampRa0c1V2gxcTh3Rkl1N0IzYXBRMVZWa1NtbmZDeDgyalFKaEpoUlJrOHJiME1oay02cVgzbUhtY3hyYTJqNVlISV9keUdlWUp0eFN3MXJwY2FqMWRtNU1xZWswXzdHQXljYUR6eExKcTk2UEZUdlA1Mkhsc3NGbG5SUHZBNElLRFNZM0VjVlZtYnRDWUwzajM2eTF5aDdWSWd6SFkzWVJNeTVlSnRfLURJQ0VWY0hHR1dIdVcwMmRxN2hWcDhPcU1NeUhTcFBabWZ6eE5RSjh0cy1UYmpaalJmSHhVQU0?oc=5
+- Trump Repeats Claim He Ended 7 Wars, Including India-Pak, In UN Speech - NDTV
+  Trump Repeats Claim He Ended 7 Wars, Including
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDZjSE43cnhJb01jcEhOMVE1TTRkUmxlMUtNWjM0M29sNzJXVFFDcDlTOGVHdUlnUFJyREVZQjhwR0JPNzhlZlJXbjJUVnlWeTdBbkU3R1hUUjZ3X0pUbzVYSS1ZUi1TZ3cxa0trWl9JUWsxRS1LNGZTcWd2cDg2ZnVDcV9TZVdpblpSVEprMTRjb3B0M3h2SFdjUE8ycDUyQVpRUUItU3A4UGYw0gG0AUFVX3lxTE9lWl96YlZXUkJjQ244LU1ReVM5cUxhVmx3Q2thVndhckdBOWdEMTZBRzN6cVFFUjdBSjhJZ0hWSjdLMG5qOER6TkR0WllvTXg4amdfQ1pzeG5vbi14WWFGR0stR2NyNGtMM0JmQldYSXZ6a1Z3OER4WEtqbHJkcndBdlluanNLUFFqN1FPTFBNb21TcUQtS3QtcVlHSlp1VFowSEltTktHN045c3hpRVhZbEljZg?oc=5
 
-- India-US trade deal: India to make a case for IT workers after H-1B visa row | Business News - Hindustan Times
-  India to make a case for IT workers after H-1B visa row.
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWDE2WkVMQmFJTTBianduaW1QcGpXU1huQkJ4UjNrN2ROcDNjYmJMSGNBcU5hWU9ZS2doNGh5djJ6YTc0WUhnenRScmxXSVBBVVl2bDk2Y19MOE1KZGdVZ3k3N0c1eVNMOWVrWVVGSHdWeXB3MVpMVnhiS1NoaktEZ042VjF5N1ZWcnJ3MFhPZ3AyMmVsTW4wWTd5ckJwclN4RDl0Uk9iODFGRmtPSEJZRXVSdXFObmxsenVOcTJRTTNwa3dJZHRaN3ZDM1BhdDVX0gHWAUFVX3lxTE9acmJNcEZLVE50ZktuMldUdnJ0Ykl2WjVzc3psV0txUkM0Y0JhNVJmLWV4NmRiRy1ocjVhM1RCdjl5ZUFsY1lPZkprNVJqTjltQzdaM1JVNGNKS2VGRmdDQXB5T0RnXzNFR2ZhQnQ0dHI4bGYtM0JIaHdycUxYNUotbzdSUFlybkRBRm9GMnhlaUFBclFYdmhUdXJIcHlZWHoyWkt0NWZnUnpUdDk3SzZ5T3M2TFNrV19heElpbk5USk9reFhHVVRrMVBJZ0JUN1NaZTFmNWc?oc=5
+- Russian oil, 'war' with Pakistan: How Trump attacked India at UN general assembly | Latest News India - Hindustan Times
+  The Indian government is considering a ban on imports of Russian-made crude oil.
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbU95RUFUSXJmVXhiT3BXWjkxUEdweFRCWXhMRGR2N2RtZU1ySmpWQTZLZlNqeW9OZmduWWRGQ3JudUszWHR4OW9MMmU3RzBwREJhNnJoc1BsZFA0S0lfcnd5bzNaZmVBbnJvLXUzbUY5Vk1jOEJPLWR5cHBqRVRoUXRnY0FQbS12ZWN4ajFGSG5rMXJOckdvVzZzNEpXMVNvcVJDOUp2SE0xTlhOTUs0WWJmTlJDY0NVRVNXLS1HY2tIZUpTOVMzdzF4SGNVOVpjLWRHZjJPbnctQmo1aDRCMklEMTBtd9IB6wFBVV95cUxQUWY3NU54eDRKVXFBbGQxendrZzFXd1ZvNlpHM3l1dy1qNllKSElhX2c0bTViSWYzMi1IZFZxZC1UV090TFhkQWp6c1I1SFVnSjEtbE1peTI3UzZMU3JibWNTWE1PbHRKSVVfdF9BZmZGRFVuWmpjMTZTYjN0dUJ0WGt3Rmx5MTlUSll6cWhIZEVScDNENGxQNjdYc29mZzg1b1N1RWFIS2ZKMHdLYTVRUWtpWXBDNWtLNnNTOVZON2lEenBNRXBidVVSbDhBalZfc2NHUDNwdGhzdEt4aDlIdGU2SzhUSmpRcm84?oc=5
 
-- News Today Live Updates, 23 September | Mumbai: Banker duped of Rs 17.9 crore after buying art claimed to be owned by maharaja - The Indian Express
-  Banker duped of Rs 17.9 crore after buying art claimed to be owned by maharaja.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTUZ5RC10ajhTUVZvVzY4U3hWVTdCTW5rVl90QjdxMEdkVGtMUWthNFdfM21XUF9CZnlYaGNLMlptT0NPQlV6cC1uTUpWRE5SaDU0elNqc0hWT3J0RDhBVDM1M1BiNHVaUXV3dkM4NEZ5d3FySmJ5dnd4aHpiSDFoLWMxbW10R3NzS2pMLXpGRTRyZl96Zmt5M213M2lrSlN1cGpVVEpEeXBrZ2dsT2FhbWFKTGpnUGxHSHd1YWY4YkhHd3NUN2pRdExVM21vVThyeGVTaDFhdElYN1NuMnBXSF9uYkdiOElz0gHvAUFVX3lxTFBrbEsxOXBLRG1FRkg4NFZTRkZqYmp1V3VCRFlNdjNCSGs3djdTcE05LWlXWkx0RFg2Y1JiUkhMNW5tM0x4SHZURXJzWHpNZFd2eU1XeTN3aGN1ZDl3YWozckVQRmViNU5KazhnaURST1NsTlFyM1lqSUVDdWk4RHF5UVhzc0Z2ZjdPYTJiUmRTSkZwajFsVDRaQWFWeEZacmhvX1lvbVdSM1RUVHRfTXlMOVBLUFlVY01GZll6SVFqODYxeG1vQ2lxTGFpVkpONnh2cXg0WFAwblFPMkdqcnowam1QWmlGRmVxcDJETkN3?oc=5
+- "Treating India Right": Pak Minister's Shocker On Haris Rauf's '6-0' Gesture - NDTV
+  "Treating India Right": Pak Minister's
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1ZrYTRzLXRWSWVVMFhRRGVXSmMzdnlTVkl4M0ZlZHNfRzlKZFJmalYxektWSHl6Y0oybWxBTlJrSmVWUXdHUjFuSXhYOXFwLUE0NEpWbEZlMmNFNGM1eUhxU0JkZ1I1dkF2YVRoZmg3ODh0allfMUFZWUUyX1lMOEhMQnYtV1AxMVFGc1VZUWxnV1RhVXp6WGtuMlRIaV9yOF8tZzBWNnV0eVdVUXdQalc5UEVSem9wOXdDd0lPcTlDMGp1NWhtall2ZVTSAdQBQVVfeXFMTkN6V0NJQzFncGJxOUtIWWZnb3VYNzkyZDRJMU9uMmcyMXdILWpqdzNmNjVmOTJKRGJtdHRMclZxZl9VcUhzME8zcjZpallnVlJ4Nkg1MW9LbGZKazBCcEdWRjM5ZTI2YUN4Y0VTNjBCc2dnV1Flek5WakdkamR6QVlTNjUzaUxHQWdsbUhwSFIzVWdYZ21idDVyTEFVdGY0dEgzNkVpc1lYWFZQTFdzY3hwNTRNXzdQVVFKM2s5X1owTmlLcmg1cm5hQ2lNQmpkTVJzR2w?oc=5
+
+- Another storm brews! Pakistan women’s cricketer copies Haris Rauf's '6-0' celebration - Times of India
+  The Pakistan women’s cricketer
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSnBJVGFOdUhXUjg2QWlmR3JidUtOcWZoSjlETFZseVJxVUtrOFhNMW9uR2NXVzFvblBuV0VGVTd1Q2JSUU5HMy0xNmJXOXdMdWk3eEs0VDRyaThnOVdLcjNvUVhXd1E3T1puaWttNjgwcTNHUXdNMTNIbVFfY2h6bHNEVkJuVkdDbkpVUk1saFY1RUU3SnVCTGtkZHl1ZDhFMlY5Y3NEaFB6cWRISDRZNXRyb2dLZTNMdk9qVkcyMXdiaEU2WXF3cGZ4eGxXSkYzLWd3UFJaelo2SzRuVTdxRG4zbTFTanhrSWtpT0Q3VlpLYl95aXdPQ1Fn0gH_AUFVX3lxTE85Z0RWcTJtaGhMUnI0ODV6bjNwcGhJYmM1dFR0TWtiYWNqNGNvUF8yaE54YmRSVEJ1RkVhdENIeF9RMHNWajNfbm44UUVQSEtsVHpvZlI1MUVDU1VkSWpkTnRtejJ2RVp2UTRnN1Etdjl5b1drV2c1ajV6ck1kM0h2ZEU3QXFsanczOHlFM3paWHdRRl9IRnhFLU5vb2xweUhoNDNCVk9KcDQwU1c1TFVoV283MU5MMi1Jdm9PRVJnd2plS09jXzFLU1hfeDVRcFptZ3BRR0xvQkprSGtPNDFuSDVjSmJCQVYtaW1QWWR6TnM2d2R5R2RNTXQ2STZKSQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-23 18:26:45 UTC_
+_Last updated: 2025-09-24 01:10:21 UTC_
