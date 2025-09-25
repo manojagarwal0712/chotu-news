@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
-- India test-fires Agni-Prime missile from rail-based mobile platform
+- Indian Railways Round Trip Scheme: Over 9,000 tickets booked via IRCTC, RailOne app
   
-  🔗 https://indianexpress.com/article/india/india-test-fires-agni-prime-missile-rail-based-mobile-platform-10270078/
+  🔗 https://indianexpress.com/article/india/indian-railways-round-trip-scheme-over-9000-tickets-booked-irctc-railconnect-railone-app-10270861/
 
-- News Today Live Updates, 25 September | Mumbai man held for trying to kill his live-in partner by giving her pills, and her son by strangulation
+- How did Israeli drug dealer get Aadhaar card? High Court asks UIDAI to let police access documents
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-09-25-2025-news-headlines-10269940/
+  🔗 https://indianexpress.com/article/india/israeli-drug-dealer-aadhaar-card-high-court-uidai-police-10270986/
 
-- Chhattisgarh ex-CM Baghel’s son Chaitanya, already in jail, held again in liquor scam
+- ‘Phones snatched, beaten, trapped’: How 13 Jharkhand workers ‘escaped’ bonded labour in Andhra Pradesh
   
-  🔗 https://indianexpress.com/article/india/chhattisgarh-ex-cm-baghels-son-chaitanya-already-in-jail-held-again-in-liquor-scam-10269750/
+  🔗 https://indianexpress.com/article/india/jharkhand-workers-escaped-labour-andhra-pradesh-phone-snatched-beaten-trapped-10270750/
 
-- Graves dug up for occult ritual, ex-convict arrested in Madhya Pradesh; cops say he wanted to ‘increase his power’
+- 25 Bangladeshi immigrants held for illegal stay in India, 23 from Kanpur Dehat
   
-  🔗 https://indianexpress.com/article/india/graves-dug-up-for-occult-ritual-ex-convict-arrested-in-madhya-pradesh-cops-say-he-wanted-to-increase-his-power-10269745/
+  🔗 https://indianexpress.com/article/india/bangladeshi-immigrants-held-for-illegal-stay-in-india-kanpur-dehat-10270757/
 
-- Stumped by ‘unnecessary’ C-sections, Andhra plans puts the spotlight on 104 hospitals, ‘greedy doctors’
+- After protests and deaths, the crackdown: 50 people picked up, Congress councillor booked in Leh
   
-  🔗 https://indianexpress.com/article/india/stumped-by-unnecessary-c-sections-andhra-plans-puts-the-spotlight-on-104-hospitals-greedy-doctors-10269744/
+  🔗 https://indianexpress.com/article/india/ladakh-protests-crackdown-50-people-picked-congress-councillor-booked-in-leh-10270758/
+
+- Qualcomm announces Snapdragon 8 Elite Gen 5 with big CPU, GPU and AI upgrades
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/qualcomm-announces-snapdragon-8-elite-gen-5-heres-how-it-fares-against-the-snapdragon-8-elite-10270894/
+
+- MacBook Air M4 with over Rs 15K discount: From Amazon to Vijay Sales, top deals
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/macbook-air-m4-with-over-rs-15k-discount-from-amazon-to-vijay-sales-10270815/
+
+- Google Photos brings natural language editing to Android: Here’s how to use it
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-photos-gemini-ai-help-me-edit-image-editing-10270718/
+
+- Apple addresses iPhone 17 ‘scratchgate’ controversy: Here’s what happened
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-iphone-17-pro-max-air-scratchgate-10270186/
 
 - Microsoft brings Anthropic AI models to 365 Copilot, diversifies beyond OpenAI
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-brings-anthropic-ai-models-to-365-copilot-diversifies-beyond-openai-10270330/
 
-- TSMC, chip design software firms tap AI to help chips use less energy
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/tsmc-chip-design-software-firms-tap-ai-to-help-chips-use-less-energy-10270300/
+- Paper industry warns of price rise for consumers due to GST hike
+  Paper industry warns of price rise for
+  🔗 https://www.livemint.com/companies/news/paper-industry-warns-of-price-rise-for-consumers-due-to-gst-hike-11758803092133.html
 
-- 4 key takeaways from Qualcomm’s Snapdragon Summit in Hawaii: New smartphone and laptop Chips, 6G, and Google’s PC comeback
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/4-key-takeaways-from-qualcomms-snapdragon-summit-in-hawaii-new-chips-6g-and-googles-pc-10270076/
+- StanC to not add branches in India, consolidating them to be large format ones: CEO
+  StanC to not add branches in India, consolid
+  🔗 https://www.livemint.com/companies/news/stanc-to-not-add-branches-in-india-consolidating-them-to-be-large-format-ones-ceo-11758802053427.html
 
-- As Qualcomm unveils new AI Chips for smartphones and laptops, CEO Cristiano Amon sets course to make company an ecosystem player
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/as-qualcomm-unveils-new-ai-chips-for-smartphones-and-laptops-ceo-cristiano-amon-sets-course-to-make-company-an-ecosystem-player-10269689/
+- Galliani turns down Monza presidency as club is sold to US fund
+  Galliani turns down Monza presidency
+  🔗 https://www.livemint.com/companies/news/galliani-turns-down-monza-presidency-as-club-is-sold-to-us-fund-11758801317466.html
 
-- Google teases Android-ChromeOS Merger, signalling big push into the PC market
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-teases-android-chromeos-merger-signalling-big-push-into-the-pc-market-10269626/
+- After Trump’s shock move, companies may pass 30–70% of H-1B visa fee hike to clients, says Crisil
+  Increase in H-1B visa fees to $100,000 is projected to have a minimal effect on Indian IT companies, as operating margins will fall slightly. However, these companies plan to pass on costs to their
+  🔗 https://www.livemint.com/companies/news/after-trump-s-shock-move-companies-may-pass-30-70-of-h-1b-visa-fee-hike-to-clients-says-crisil-11758789606010.html
 
-- H-1B visa: Amid chaos on $100,000 fee hike, Bill Gates' old video goes viral — ‘15 IITians helped strengthen Microsoft’
-  The video assumes significance as tech companies scramble to find solutions to Trump's new H-1B visa rules. The new rules require tech professionals from foreign countries to pay
-  🔗 https://www.livemint.com/companies/people/h1b-visa-amid-chaos-on-100-000-fee-hike-bill-gates-old-video-goes-viral-15-iitians-helped-strengthen-microsoft-11758777039886.html
+- GeM releases detailed Vigilance Week guide to strengthen transparency in procurement
+  Vigilance Awareness Week will educate buyers and sellers on the dos and don'ts of public procurement to ensure transparency and compliance with rules.
+  🔗 https://www.livemint.com/companies/news/gem-releases-detailed-vigilance-week-guide-to-strengthen-transparency-in-procurement-11758793509983.html
 
-- Louisianas $3B power upgrade for Meta project raises questions about who should foot the bill
-  Louisiana's $3B power upgrade for Meta
-  🔗 https://www.livemint.com/companies/news/louisianas-3b-power-upgrade-for-meta-project-raises-questions-about-who-should-foot-the-bill-11758773335327.html
+- Jinkushal Industries IPO: Issue sees strong demand on Day 1, subscribed 2.3 times on robust retail, NII interest
+  Jinkushal Industries' IPO received strong demand, oversubscribed at 2.29 times on Day 1. Retail investors subscribed 3.28 times, with total bids
+  🔗 https://www.livemint.com/market/ipo/jinkushal-industries-ipo-issue-sees-strong-demand-on-day-1-subscribed-2-3-times-on-robust-retail-nii-interest-11758802288838.html
 
-- H-1B visas matter to JPMorgan: CEO Jamie Dimon explains, ‘US needs to remain attractive…’ — here’s why
-  JPMorgan Chase CEO Jamie Dimon stresses the importance of merit-based immigration. US-based firms may
-  🔗 https://www.livemint.com/companies/news/h1b-visas-matter-to-jpmorgan-ceo-jamie-dimon-explains-us-needs-to-remain-attractive-here-s-why-11758768847840.html
+- Mahindra &amp; Mahindra announces board meeting date for Q2 results 2025. Details here
+  Mahindra and Mahindra will hold a board meeting on November 4, 2025, to
+  🔗 https://www.livemint.com/market/stock-market-news/mahindra-mahindra-announces-board-meeting-date-for-q2-results-2025-details-here-11758802377369.html
 
-- HSBC Asks Hang Seng Bank to Clean Up Bad Hong Kong Property Debt
-  HSBC Holdings Plc has taken the unusual step of getting directly involved in pushing its Hong Kong subsidiary, Hang Seng Bank Ltd., to offload portfolios of bad real estate
-  🔗 https://www.livemint.com/companies/news/hsbc-asks-hang-seng-bank-to-clean-up-bad-hong-kong-property-debt-11758762049895.html
+- IT stocks continue to reel under pressure for 4th day on H-1B visa fee concerns
+  IT stocks continue to reel under pressure for 4th
+  🔗 https://www.livemint.com/market/stock-market-news/it-stocks-continue-to-reel-under-pressure-for-4th-day-on-h-1b-visa-fee-concerns-11758800403265.html
 
-- Goldman Has ‘Serious Doubts’ First Brands Will Avoid Bankruptcy
-  Analysts on a Goldman Sachs Group trading desk have told clients they have “serious doubts” that the auto-
-  🔗 https://www.livemint.com/companies/news/goldman-has-serious-doubts-first-brands-will-avoid-bankruptcy-11758748608808.html
+- Accenture Q4 revenue rises 7%, tops estimates on AI-led demand surge
+  Accenture's financial results show a 7% year-over-year revenue increase to $17.6 billion. The company predicts 2-5% revenue
+  🔗 https://www.livemint.com/market/stock-market-news/accenture-q4-revenue-rises-7-tops-estimates-on-ai-led-demand-surge-11758798624680.html
 
-- Hindustan Copper share price near 52-week high. Set for best month since December 2023
-  London Metal Exchange's copper price reached a 15-month high amid Freeport-McMoRan's production issues. Hindustan Copper's stock rose 7
-  🔗 https://www.livemint.com/market/stock-market-news/hindustan-copper-share-price-near-52-week-high-set-for-best-month-since-december-2023-11758780328580.html
+- Lockheed Martin, Northrop Grumman to General Dynamics: US defence stocks to be in focus today
+  US defense stocks gained attention following Trump's support for Ukraine. Redwire Corp and Northrop Grumman
+  🔗 https://www.livemint.com/market/stock-market-news/lockheed-martin-northrop-grumman-to-general-dynamics-us-defence-stocks-to-be-in-focus-today-11758797343005.html
 
-- Penny stock under  ₹5 sets board meeting date to consider interim dividend for FY26
-   Sacheta Metals share price rallied 22% in one month and has gained 17% in three months. Over the past six months, the penny stock has surged 35%, while it has fallen 13% on a year-to-
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-5-sacheta-metals-share-price-sets-board-meeting-date-to-consider-interim-dividend-in-fy26-11758779578412.html
+- Apple breaks silence on iPhone 17 Pro Max ‘scratchgate’ controversy: Here's what company said
+  Reports of scratches and marks emerged soon after launch. Apple explained these imperfections as material transfer from MagSafe stands and defended the anodization process.
+  🔗 https://www.livemint.com/technology/tech-news/apple-breaks-silence-on-iphone-17-pro-max-scratchgate-controversy-heres-what-company-said-11758798441958.html
 
-- Mint Explainer | Sensex@94,000: Why HSBC is bullish on Indian equities
-  HSBC has turned bullish on India, upgrading equities to ‘overweight’ and setting a Sensex target of 94,000 by 2026. With cooling
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-94000-hsbc-overweight-india-equities-11758772583898.html
+- Spotify moves to tackle AI abuse with transparency measures
+   Spotify moves to tackle
+  🔗 https://www.livemint.com/technology/tech-news/spotify-moves-to-tackle-ai-abuse-with-transparency-measures-11758801686107.html
 
-- Tata Motors share price slumps 4% amid reports flag potential £2 billion cyberattack hit for JLR
-  Tata Motors shares fell 4% amid reports that Jaguar Land Rover faces £2 billion losses from a cyberattack. The company had not secured cyber insurance and plays a crucial role in Tata's
-  🔗 https://www.livemint.com/market/stock-market-news/tata-motors-share-price-slumps-4-amid-reports-of-potential-2-billion-cyberattack-hit-for-jlr-11758777987371.html
+- Amazon Great Indian Festival: Up to 45% off on AI powered laptop from top brands like HP, Lenovo and others
+  The Amazon Great Indian Festival sale 2025 is aimed at making technology more intelligent and affordable. From gaming to creativity, AI powered laptops enhance every
+  🔗 https://www.livemint.com/technology/gadgets/amazon-great-indian-festival-up-to-45-off-on-ai-powered-laptop-from-top-brands-like-hp-lenovo-and-others-11758799077448.html
 
-- Fineotex Chemical surges 17% as board to mull dividend, stock split, bonus issue. Do you own this Ashish Kacholia stock?
-  Small-cap stock Fineotex Chemical surged nearly 17% in Thursday's trading session. Company announced a board meeting to consider a host of corporate actions like interim
-  🔗 https://www.livemint.com/market/stock-market-news/fineotex-chemical-surges-17-as-board-to-mull-dividend-stock-split-bonus-issue-do-you-own-this-ashish-kacholia-stock-11758775689112.html
+- Google reveals new retro baby selfie trend as Nano Banan hits over 5 billion images in under a month
+  Google's Gemini 2.5 Flash Image model has generated over 5 billion images in under a month.
+  🔗 https://www.livemint.com/technology/tech-news/google-reveals-new-retro-baby-selfie-trend-as-nano-banan-hits-over-5-billion-images-in-under-a-month-11758791730108.html
 
-- TSMC, chip design software firms tap AI to help chips use less energy
-  TSMC, chip design software firms tap AI
-  🔗 https://www.livemint.com/technology/tech-news/tsmc-chip-design-software-firms-tap-ai-to-help-chips-use-less-energy-11758762537980.html
+- India to partially unlock faster Wi-Fi that PlayStation Pro, smart glasses need
+   Licence-free use of a portion of the key 6GHz spectrum has been delayed. As proposed in draft rules, the government will first allow lower signal strength under
+  🔗 https://www.livemint.com/technology/sony-playstation-pro-apple-meta-smart-glasses-wifi-spectrum-signal-gadgets-india-11758698438594.html
 
-- Marvel’s Wolverine to launch on PlayStation 5: Release schedule, characters, price, and other details
-  Insomniac Games’ Marvel’s Wolverine launches on PS5 in Fall 2026. Featuring brutal combat
-  🔗 https://www.livemint.com/technology/marvels-wolverine-to-launch-on-playstation-5-release-schedule-characters-price-and-other-details-11758761473414.html
+- Stock market today: Nasdaq, S&P 500 futures pop while Dow holds steady as Alibaba spreads AI cheer - Yahoo Finance
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOUtJV2NtNmZrVnhkaTl2OXE1bTQ2emdVc1Q4SUJUODlJdGpUbjBLY2RNRHdIOHRIdXBCcDV4bVAtLVJiNnkyekRBN2dQektXZW1GbVZRODJEUDRNRXlockZUSldzY09wd3
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOUtJV2NtNmZrVnhkaTl2OXE1bTQ2emdVc1Q4SUJUODlJdGpUbjBLY2RNRHdIOHRIdXBCcDV4bVAtLVJiNnkyekRBN2dQektXZW1GbVZRODJEUDRNRXlockZUSldzY09wd3h1dm43eXdVMHFIeXFqU3gyM0VybmlTZGVZcGZfbFpMNzl5UGkwSHUwa3dIQ0lscGxObFlmbGd0V1JkUU5ld19Wc1JVb0h0WkNuVjJkNG1NWmVuQVN6aHBkenliaXFSdVpVTEh3RGpRREFyd08td0p1dG5GRmNr?oc=5
 
-- Price drop on iPad models during Amazon Great Indian Festival Sale
-  Shop iPads at unbeatable discounts during Amazon Great Indian Festival Sale 2025. Get top deals on iPad Air, iPad Pro,
-  🔗 https://www.livemint.com/technology/gadgets/price-drop-on-ipad-models-during-amazon-great-indian-festival-sale-11758742775793.html
+- Stock Market Highlights: Sensex extends slide to 5th day, ends 556 pts lower; Nifty below 24,900; Trent d... - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN0Y5a29Tcm1QUzdQWGFUU2t0WEpXYUNXSS1Ed096QjZwaTNzRU0zbndWWFNQSTFfYkdGRXlHVU90YnI4WnE0M3QyLXZvZVVlMklSSFhxbDJpbVY1dDNua1YyWVJNdXZlbj
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN0Y5a29Tcm1QUzdQWGFUU2t0WEpXYUNXSS1Ed096QjZwaTNzRU0zbndWWFNQSTFfYkdGRXlHVU90YnI4WnE0M3QyLXZvZVVlMklSSFhxbDJpbVY1dDNua1YyWVJNdXZlbjlfaWRpYnIyVEFEYWNlS2NIOWRfZjQxODhvZzliX0JCUU9NWUdVTldsODVXUnl2bFBiYnVhWEk0SWJoa0NuQXdULU1fNkNDd3Q5clMzNklGc3NKTHVfeXR2QVJsRmxBR0R1UnhxOHl0VGxlUlNJUTJ0Z9IB3wFBVV95cUxQS2Z5WVNhQmZHVWttcW1hQzhGUFJNUXZSNFYweGhNclh2WjNZM0xFZmlqYWpQNVZCcHJDYTcxZkdDOU9uR3F0eGl0MFlmRkdvbUxhSDUwTG5NU3V3Sldoc0M4N281RExtMGx5ZGZHS2JONnVqaF9WdFJoWDdwcjZpVi1BejdmOWg0WjVqNHpWN1RTTzdEanFsUnk2UEZ5UWVNaV9DbTFfZDg4QUVMRVJhMDFldG5qQUpMT3BLdng0YmVkZVBfR0ZnN2g1YkswMmEyQWx2Z0kzbzdjZ3VMM0dZ?oc=5
 
-- Microsoft looks beyond OpenAI, adds support for Anthropic's AI models in Microsoft 365 Copilot
-  Microsoft has announced the inclusion of Anthropic's AI models in Microsoft 365 Copilot. This initiative aims to leverage the best AI capabilities across the industry.
-  🔗 https://www.livemint.com/technology/tech-news/microsoft-looks-beyond-openai-adds-support-for-anthropics-ai-models-in-microsoft-365-copilot-11758734028113.html
+- Saudi Stock Market Reforms Seen Boosting Flows to Smaller Names - Bloomberg.com
+  Saudi Stock Market Reforms Seen Boosting
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPMzEtaWdWcFpialNQUmZSTzNWczA1dnFwU0VhWE9fOF8xSmxoaHloY3lxZFRBQkx4ZzF2dU9MZFNyZjE3OWU1cjFNTVpfYmVScnFSOWdsSVFiOTZpazkwb0VHOUlydmFjZDJrWGszWkluYkNoYTVWVG56ZXMyTjRXcHBpQTB5bDBkUUJuSUdSZFlZbkpCdGtoLXF4T0tORmZmTlN6TjRxSV9ndlpoT2VRcGpXUHY?oc=5
 
-- Android PC is coming: Google confirms new project as Qualcomm CEO calls it ‘incredible’
-  Google has confirmed its plans to bring an Android powered
-  🔗 https://www.livemint.com/technology/tech-news/android-pc-is-coming-google-confirms-new-project-as-qualcomm-ceo-calls-it-incredible-11758730619196.html
+- Japanese markets close at record highs amid mixed trading in Asia-Pacific - CNBC
+  Japanese markets close at record highs amid mixed trading
+  🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BOFBsZ2h5N1NHTXQzT09UMlQ5NFpmZV82M25mRFlHY19zRElvYzljWEcwZFhTX1BCZGJkdkVKQS1XWlozbF9Qc0NxU3hhckoyVzA4OWhEbTN3am04RGfSAWNBVV95cUxNaVBFczRvNUwwbkxHaEkzNHVheTB4YVhkdlpDem1LMGlDSVBTU3NoS0FJTS1mUUhzdDNmSzZWUmdiODhtd3lmMHpNVFgybEc3RzFBV2xod2dubTRlaUJ6bjJSUzQ?oc=5
 
-- Stock Market LIVE Updates: Nifty at 25,000, Sensex down 130 pts; auto, IT, realty down - Moneycontrol
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNWVaT1V0UE5NYXlTbDI4MFpUR1ZXdFBTOXVhMUpWcjVRTjk1LWt1MHN1MkpSU0RpOEY3OXNGdm5hR1FIVklrSzZrOHJTVnNXeGc3WmpkWk4xRFhYTkh2bWlPM0dYQWtmcW
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNWVaT1V0UE5NYXlTbDI4MFpUR1ZXdFBTOXVhMUpWcjVRTjk1LWt1MHN1MkpSU0RpOEY3OXNGdm5hR1FIVklrSzZrOHJTVnNXeGc3WmpkWk4xRFhYTkh2bWlPM0dYQWtmcWgwTUZYV3JsYnJOTFd4TDVjUHRUTkI3ZllFT1lyNGlIQURncEhmeWFQLW1zaENSWVhqYVN4MmRTak9NRlNpRGFGWGVENEhiUl9zSUhNNDh6QTNQVjNwanVrSHRJb2F4U2ZsRExXdFpvSTBua3g5aFM5WGVGVko0bXJFNUM5SnhoOXZaMNIB8gFBVV95cUxPMjhRYWVHNjFYZ3VZZW95M2NzX3RBbEthUTBMRkVlU0ZKQWZxTW9ZcVlMb1NJUlBMTGJ1ZXUycXFXbUxmanpPb1VXcVR3Zm12QUk3QktiSkduWFNDUkI4YnlHem1oTGNBLU5XQmN3VUhTS0NhcGtxdkduYmNkLV9ZNENETHVabXllT0VaY2M5YjIzVl8zOER6S095TGoxZVdNSmhLTzB5dEJUN1NpTFBfamIybXRYcWV6aUVNcG5WaFhONmVCcGpqNHBubnZtYlJFckZYWEE3R3FBWVlVTThLanNfT3BuYmVSZGJhRkkyd2ZmZw?oc=5
+- Gold slips from record peak; markets eye US economic data - Reuters
+  Gold slips from record peak; markets eye
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPYnVNSmhrMFB2TTFoZlBKVUw0R19qSUR1bm9yb253X1NWbDRSYTlBUnpaX09Cbm5mREpqcXRSZ1M2QzJtd3pXSzlsdjdvdllJWVBXT1NscW1uRXNteHRXOEZIQXg2QjBoX1hNSHd0SDZFa1FBV0luWGFLODRJRkpvMzZ3cThkemE1TE1qZmN1RmZ2VDJZMHZQNk9RcV9BUUp5aldPRHItWW15c2FnUTNfM0g5YW1jdG8?oc=5
 
-- Wall Street Says ‘Timeout Called’ as Rally Wanes: Markets Wrap - Bloomberg.com
-  Wall Street Says ‘Timeout Called�
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGdrQjBLSGN0MFNpcHFGUTI2eWxYUVUtZWtsRm5xM3BSMEZ2TTdveGNPaDlTa1ZlaUtESmNjNGNQdjlMX2RfU1lFbHE3QnpnQ2FQZWpCYVk4cVRtMnduemxrZFQ3Q3ZMZTU4UEZreEZvYXFianVYNmJOMWlHb1hRaE93b2lLQkE3R1ZkTU93V1Zpc0Jn?oc=5
+- Red Flags? DIIs reduce stakes in these 8 major stocks
+  Domestic Institutional Investors (DIIs) trimmed stakes in several Nifty500 companies during Q1FY26. Key names with reduced holdings include Cohance
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/red-flags-diis-reduce-stakes-in-these-8-major-stocks/slideshow/124118245.cms
 
-- Sensex declines 300 pts from day's high, Nifty below 25,000: Persistent FII outflows among key factors... - Moneycontrol
-  Sensex declines 300 pts from day's high, Nifty below 25
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPR0tRZFM3UHF2RzlyYlkybmE0ZjYxZkFZMjUzVnJGWDhhZURObENtODB1SjVZV3FRaDNUZWY0QjJtLU1yb1cxQTdhLTFjU1dReGVuY0xBNms5SFdQX2RWczdIX2dWMFZGaGluRFdwOGQ5U1ZaQ1RMMGJWZFpsX1A5UEdGeTVpZHRyb2t6ZlpGc3FFeTBQLUtPdWwyZFZYSmo5cG1mc3hiUjg3YjhLdWp3bVpvdnp0d04wS25BdGVMLU82SG9VaWdRS09oamd0RjRlajdZeTROWEt3TDNQYkxva2lxYW1GZktHSE5YTHJWQ3ZfTnJCWktwdmJOMzVreVVIa2k2ZDZBZnJ0M1g5MlhqdNIBlgJBVV95cUxOaGVVX3JYWENBUzc0dzZFQ01TV1VTeURYYXN4QzZrOGRWaUpuQUVQY0ZLNUNhaXFWd1Bhd3hzUkVDTzhWZ012bTdUREtqYVNQNnhVdHN5VHQ2ZGhZamVHWTZPdlRHYWROX1pHdy1tUzBldmVRclFSbEhuekwtRlZ5ZXp2VmZvbjNaVGZqSGRPOE1qbTUwNWxuQzEzWDNtbjd6X3FXZXNnMGwyUWtuUm5aeU1sYV93RFFmMEpMZWZycVdtQVEzZzk1TDBldERHNHlhT0lRSlhTeFFGZ0ZiOGFFRjY4UzJmYXFETHJhSV93NEJqZnA0eDZJZk5oRlpiNjJ1UUJHYm9fQ1BVQmpmWGZRX0owLUZ5UQ?oc=5
+- TCS, United Breweries, and 5 other stocks hit 52-week lows; Slip up to 12% in a month
+  Seven BSE 500 stocks, including TCS, Praj Industries, and United Breweries, hit fresh 52-week
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tcs-united-breweries-and-5-other-stocks-hit-52-week-lows-slip-up-to-12-in-a-month/slideshow/124117797.cms
 
-- Global shifts, domestic pressures: Anurag Singh on market trends and investment strategies - The Economic Times
-  The Economic Times reports on global shifts, domestic pressures and investment
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYWVhdVYwUzhOOFhORF9lOS1nbzRNdkc1Z05pcFQ1U2U0dDRoV2FfOGh2ekc4eEQ3V3BiZDdhQmVCMUo5S2hZU20yV25TUVI1cWFJSUJ6MUMtUnBPODNtMng3WnRBV2RqWWk2TUROVkRod2xhOURKMFlqQjZCQ1VJdi1OTDVyZWo5cGQ3T2hKSUZqalBkd2NEWUd5NjloMzdWNmc0aGJiNjhZNmJTWHM3WUI1dnIyNDNfaGdSWDVycFRvSWpGWno1ZFN6SEdoeW1weVJxMl94eG1BcWtpT2NRMFNYUHZ0UXpSZ1QxbG9kQkF4SVps0gH6AUFVX3lxTE50cmZRNnJBQ0V4T05GNmY1eENVNko0UkZUZDZiUVl4WUVmb29GLTNhR25UQkJyRHdvc0Y2VTNIZ0VpclVOUFE1S01DMXJzbGlCOE5TQmx5eHlXZlJQWmpIN1pQTWFGQWdiTkxQb1hBZ1c4ZmJzRHVhYlVZRUZWTjEydFFUR0Zibk9scXNaWHRCcHMwQXVOSWVKeHBVelFKa0tSZmg5ak8zY1BRVjhlaWdzZHpsSWZ2TzVTcGxHQ3RsTmwyeGhPSFJ2YTBSUFF6NlRmZ3hOWG13ZTRlZFlzTjNnakdSZXA5U09NWmRObXRZeTBiQl9DdlRtc2c?oc=5
+- HAL shares rise 2% as Ministry of Defence inks Rs 62,370 crore deal for 97 Tejas Mk-1A jets
+  HAL surged after securing a Rs 62,370 crore contract from the Ministry of Defence to supply 97 Tejas Mk-1A fighter jets.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hal-shares-rise-2-as-ministry-of-defence-inks-rs-62370-crore-deal-for-97-tejas-mk-1a-jets/articleshow/124117276.cms
 
-- Investors turn bullish on Indian stocks after a year of underperformance - CNBC
-  Investors turn bullish on Indian stocks after a
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQckpySjlaak16b2NlY3U4NEZuQngya2kwVzhWdml0NkQ5WThUTzdONFdXejlValFpbVlGUm5fWDF3b25ZNlU2TjdCMmxOc1VGeDdESFlUUUVHMDg5Xy1vS2F6eF9Fc3ExZmhNRXdNbzc0M25iamtMNzRIU3dLS3lkTVAxbzBtS0hQWWtqZEdIV21mbk03SGs2Q2RCQktobDBOSHcyU1V3eHRXNEdtYTliYUFGWWxqcHAx?oc=5
+- NSE crosses 12 crore investors, women account for one in four
+  NSE’s investor base crossed 12 crore, with women representing one-fourth and nearly 40% under 30. SIP inflows, indirect participation, and investor education programs surged. N
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-crosses-12-crore-investors-women-account-for-one-in-four/articleshow/124116156.cms
 
-- Global shifts, domestic pressures: Anurag Singh on market trends and investment strategies
-  Anurag Singh expresses optimism about the US market due to deregulation, tax cuts, and potentially beneficial tariffs. He advises caution regarding India, citing high valuations, currency depreciation, and the impact of capital gains tax on foreign investors.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/global-shifts-domestic-pressures-anurag-singh-on-market-trends-and-investment-strategies/articleshow/124106441.cms
+- Accenture Q4 revenue rises 7% on higher AI demand, above estimates
+  Akcenture announced its fourth-quarter revenue. The revenue surpassed Wall Street estimates. This was driven by strong demand for AI consulting.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/accenture-q4-revenue-rises-7-on-higher-ai-demand-above-estimates/articleshow/124115796.cms
 
-- BMW Ventures IPO Day 2:  Issue subscribed 14% so far. Check GMP, Key details, and Is it worth applying?
-  BMW Ventures’ Rs 231.66 crore IPO saw a muted response on Day 2, subscribed 14% overall. Retail and NII segments showed limited interest, while QIBs were fully subscribed. The
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/bmw-ventures-ipo-day-2-issue-subscribed14-so-far-check-gmp-key-details-and-is-it-worth-applying/articleshow/124106385.cms
-
-- Ganesh Consumer Products IPO allotment today: Check status, GMP, and other details
-  The allotment for Ganesh Consumer Products’ IPO will be finalised today. The issue, which ran from September 22–24, received an overall subscription of 2.68 times.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ganesh-consumer-products-ipo-allotment-today-check-status-gmp-and-other-details/articleshow/124106333.cms
-
-- SBI could receive $466 million in passive inflows if FII limit is raised
-  State Bank of India could attract up to $466 million in passive inflows if foreign investment limit for public-sector banks is raised from 20% to 26%. The move would allow higher MSCI index weightings.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sbi-could-receive-466-million-in-passive-inflows-if-fii-limit-is-raised/articleshow/124106279.cms
-
-- GST cuts to boost consumer durables, affordable housing could gain later: Sunil Subramaniam
-  The upcoming festive season is likely to drive purchases of cars and appliances. GST cuts on textiles and footwear may offer some relief. Affordable housing could revive in the next 6–12 months.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/gst-cuts-to-boost-consumer-durables-affordable-housing-could-gain-later-sunil-subramaniam/articleshow/124106046.cms
-
-- Don't want to punish India, but…: US Energy Secretary on Russian oil imports - India Today
-  India Today reports that India is considering a ban on
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxORzBhX3BoTDNfQU1ldVgtalM5eF9vS0dBNEpENnhZVWlBejZ2R1hYemN3WF84c05LaVNFRExIMHh1bmxUNzBiS2VQa1czVGFXcW5PU3VnbENTcVpEUmtDeVpINUR6WlVsUVlsRzFDMVlPaTBPbzl3M1ZOM0s3MXFDRUxJTjUzVm1PUG9GSHNlazB3czZzR3pkb1EtLUdfN3FXRmJlaHAxQ3JkNjlTSmtGNk1lSWxaMHBfeWpmcmQwSdIBxAFBVV95cUxNQWtuYWdoYU9TYnFsbUYtWGFORkJtYXhDVV95NHBGbF95clppZFB3WHJ6WXBnWjh3b2U1MEQwSUlJLVA1VlVjV011NEN4Nm5FTTY2ZnQzbmpQV2ZWS0EwNjBEUXVZSUNKRXVnbHU5X0lTTEpleVVBUUNBQWgtd21XUUhrRktxU2UwX1gwem05bUVWTlBjTTJSWVUzdUFGaHA3UmtHdGNuR2Q3ekFkQ1Z4eEUyMXpTMGpNeHBvMUc0d19GQV94?oc=5
+- US seeks deeper trade, energy ties with awesome ally India: Energy Secretary Wright - Mint
+  US seeks deeper trade, energy ties with awesome ally India
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY0ZHMWI0TWJNWDc4aXZzZG03MUF1NTB3a0YxS3Zla2pFVFMyNmlZUUhNVGg2UjV3VUd1RW5vejlqNkMxREtXU3JubkJ0SHp3OEdvRnlmaGZ1RkxiU2dVejZyRjJqMW1JQTRiNDBNUWxKMU04XzhTMi1xTFFSV1RSOHZvT3h6bDZ2X3phOUhzQ3gtamJRbkFodmJmMGJUaFk0M09rZ1pwaGEzVVFpXzNDU3JkYkFSSk1jT1RJWWx5cFE0ZkQxV0sxbG9sLUxsME0wVEczdjZR0gHbAUFVX3lxTE9abzB3eVJzVVBEWVVfZEpRaU9ybHFKRXZqRG9JbFlsY1RTN1ptU09KSTg4U21UUE5pelNadENWT0REdGpiNTNvZ19SVm4yNGNXbjJYaXI4czRqY3ptVUh6em9UNHJCV3VCajJXWXRkY3NlUmw0UDhWemtiejlHU1VPYkMwbFpCREJKLWF4Q0tETTd5bEJPOUtkb1pORmdfSUJFZmdaaThyTnhGZTM0LUtoUUhQa0NCUXN1cTJCaVVLMy1Tb2U3Z194UGVSNEprTnhzdGdGRThXbWhhZw?oc=5
 
 - Trump Aide's "Don't Want To Punish India" Remark And A Crude Suggestion - NDTV
-  Trump Aide's "Don't Want To Pun
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGxsMDNtYmNvMUJ2R3lmRFRPbUh0SGkzdFNUSDVDc2RZV2pfZ0NEQTg0aWt2WXA3OEV3NGdyQWVZbFZQU0g4RlRFZ3NKLUdqYUZRV003Sk9hOUJGWFZSLWRVeHlud3lvYmZYWkhhN1dna0h3OThWWlE1NXdDQmFrMjlWcVo3WmJYT2JxYThoQ29vVXRYTnlEY3FhZUJhZVlRTl9ZSXp0ZjFfRW8?oc=5
+  Aide to President Donald Trump says he doesn't
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGxsMDNtYmNvMUJ2R3lmRFRPbUh0SGkzdFNUSDVDc2RZV2pfZ0NEQTg0aWt2WXA3OEV3NGdyQWVZbFZQU0g4RlRFZ3NKLUdqYUZRV003Sk9hOUJGWFZSLWRVeHlud3lvYmZYWkhhN1dna0h3OThWWlE1NXdDQmFrMjlWcVo3WmJYT2JxYThoQ29vVXRYTnlEY3FhZUJhZVlRTl9ZSXp0ZjFfRW_SAbMBQVVfeXFMT3hnUzRjQ05nN0tpb3ZMLU1wZUpLc1ZGbW41ZFg2NkN1dDM3c3hDRUE0bEpLR2Q0U1pFZm1tbVRvZ1VGRmFGX0pHTDFhcVd4UDJkMjhEUlhUZklxWlNBeWVLeU81VndUNW9DWkprQzJWMThtczZSTll0QXJnMm1YYk5GVTRaMjVpZnpEaFlSRVhXeldUVzdPZVBreUhQczFadFJxQW1HcEttSGNnSTY1cHg1NUE?oc=5
 
 - ‘Can buy from any nation, not Russia’: US energy secretary on India's oil purchase, tariffs | World News - Hindustan Times
   ‘Can buy from any nation, not Russia’: US energy secretary on
   🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxQRTZ3ZG1iZG1LQ2s2cmdPYVAwMDV5MUFqU3hqWkVXOERmcUU0ZVg3RjE5R3cxYWxlSGJmaEdiNEN1YzdvQWx1Z1pJdGtaUWgtcUszRjlCalN6b0M1elUxYjkxQUNiUFp1aWJhRWstcFdPdlBrN3BrZXJqSzBjTFVJYW5iN2JGMmFXekZuazJ3WVcydmh5d2R3X0FsMGZPakUtYl83YS1XUEVvYXNJdGR3M2gwbzFvQU9lQXhiMXo0cHRpSldlNTBKd0Rvb3pFWGE2MWMwQlZCWVBrOUFCMkJST3d0MFlEMGJzOHRtZjN2YkFZU0R0UXpUT2pEWEZJT3kzSGw2X9IBigJBVV95cUxNNDlpV0o5QlgyLVlzMmY0NjYtUEtRMl9sZ01CMi1UR0Z5VVl2blpLM2N4S0VLTC1GcWEzOXJkRk9vbEZrd0E0WDk5Wjk1WGFYM0ZoN0hHWHMtTE9MRU1PLU1naWh0TjZfTkJWUUNialI4TnR0UjdKVC1WdnRhaTd3SnIzMWtXT3JKQ00zcVRibWlJUHBYbm1PTWVwajlDSEZBWlhhck9GeUNyTlVyV0pQNmw3NGxua3d2OEtOMmFmb1BfVHhjT2pkRDFiWG5pWU03MjZ0aE50M0VsWXViOXdBRldjT2YyS2FscFNQQVZtaDlfc3o0QXJIdEFTYk1zQmdCVi1UYWFzX0pRZw?oc=5
 
-- Asia Cup: No handshakes between India and Bangladesh players? Pic from Dubai reveals the truth - Times of India
-  Asia Cup: No handshakes between India and Bangladesh players? Pic from
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNR0ZYNjRtMFk3ZGZKbEFMSTE5amhJZUVDcFpCb3QxYU81YTJuTHBRb3RhbDhJaF85MWNpTDY5SGgwaU50bW5yLWtja2p6VW0xMFQ3Y0M3bEd0c1FSeEhJUzM4Mi1sWVlzcG1XUzIyY2gzX0Z0S3RXQi1aUHNJaldSclUxSFZ4d1FqcHBuVmI5S0VQTUhPZWFoMjY3X29JT2picGYwaDZzMmFKd2swLXE5RXFfYzFEbWtYSVNVcHZXR1hoTWhMUUg5aVg5a1ZkNk92RnZvNklVTmJXSVpxTFA2ZmNlVzFkUjFGT3ZEaEc3TWpnX21YUjVEQXU4ZVBuUlJPbldfdHBlODRmQdIBjwJBVV95cUxNeHFwbExpUmV5WHU5Q3BIQ1dvQ3kzQ1JrVVJlWmxnMm9zS2lLdWFMMlNSUUlBYUl3MWNkUFNsUWdaU05PbU5tRG9JX29IX2MwWVNnUVlObUZhalVGTWYwOEJjenJHRzBlY3NudjNjWGhZOWwydHRhWlBjbEZ3WHJ0QlA1NmVUWVY2dWJIdTVnTURpNFBpZ3Q4QjRXWUFvT054UF9laENudmhqZjVWWnFFdHJrYTJXZnRFbWxPdFZWbU1fM0dET18wZTNzbGQxOE4yRFpjU09lT3dNVXdlMTRfTDNvYnVQVlJkaEVQaGtnYzgzSUJJaWt2MHYyWVBoQTZqZHhELS1kNFBiaXZJdVpn?oc=5
+- India Must Become Self-Reliant, Russia Our Time-Tested Partner: PM Modi - NDTV
+  India Must Become Self-Reliant,
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWZ1djJIbTluRERVSkVvUUxwQ0hhbW9hMko1SnRVYVFoM1paaTFQUlhBMGVkeFhvZVBkZXI3eGI0TlJNUTVGTzY4Q1NQblI0MVJ2NWRmZW1mQ283d1I4Vlo4S3M4ZkdhSkV4bWxGQWZKS05XNUEtNFRrUTQ0aGFlSnRWcTRROG1Hb3F4MlNNYlFBaUFUZ2w4LXYxVFQ0cnJHd0RzbDMzY0lJbjBhQWhRWldHelfSAbwBQVVfeXFMTUhfSWx6akJnME42eUhoQ1YtQmhFUUZkZW9laVJnSHU4WFotUWI2anBlV1pBOGNCamF6WGhQaExPblI4cDlEX1ctWTRrVDkxeHFZOElRSzFHYkRoa0kxRFQ4cW5RLXIyY0g3MkRhU3h1V0pjVUpwRlN5N2pWQWhWV0h2YnpjWGZ6cUl6Wm5jNHNUWHZWU3lTX0RmY2pEakVxWVR0aDRhUzlrTmpsNHZzalMzMmNIa0Q4Wld5dEw?oc=5
 
-- India news live updates: Country must become self-reliant, every product that can be made in India should be made here, says PM Modi - The Economic Times
-  India news live updates: Country must become self-reliant. Every product that can be made in India should be
-  🔗 https://news.google.com/rss/articles/CBMizwJBVV95cUxNcmZLVnhNWVBLU09DSi1YMS11cHd1UVFpVWhDbll4cHhCOUJRTnRPNDhIdGxFaEgyRGxVN1dkRG9aM3MzUmgzLTFOcHU1bzZqVkRsM1k4UWNGQzlWbGZPekViV0VnaVZacFhIVlo5MHJoVkR0ai0xVTk4Q0dINlNxVU5oN3k0d2dnSFRibktEeUh4dzN0ODhjckpTTFJkWHBVV3RwQWI5OC14NFJFQ3ZJRXVYbEwyY0hwSGlIQVpNeTFoeW9LMGlUUXVNekFqU1BYaTdOYmUzMExrRHN1VHI1OVh4SWQ4OTZjbDM3NHB5SmxKa2FGdEV1MDFSWDU2dDEzdXoyTXpodkNVZDVlRG84ejhRdHJjZk94dVEyMWNoT0hUMWRqdXVrbW9nVkdKNDFBazJaaVk4Y2d1VThEXzN1dlJXTmg1engtZlVSYWlEdw?oc=5
+- PM Modi, Trump Share 'Very, Very Positive Relationship': US Official - NDTV
+  PM Modi, Trump Share 'Very,
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQUjdrcnEyZ3NuOVNZcHdockJzbjRVaGlXaTJZZ3RGV0JKaTNlUlc2SFRLV2pzZVpFQkVlY0RKTDF6cTFQZEFpZjdJRUs5MDZ5bkJOYjROcGxmZHFETXVnbHdvb2hrNzF5SkhGeVhnc1pYWmJfYW5aVm1BQ2tSb09WR1VUaGNtZjZHNGN1Rk1DM2llbEU1RWw4WlVvTmV5dF80MFI1S0VWUlhyY010REI1dS13QWR2ZUx3VnhHZlhrOGUtVHJsOWxN0gHPAUFVX3lxTFBtaVFkZXQ3UnJubllITnVDN2NOd25OR3FzYjA3RHBfU2NfOFF4WjJna19iMkx2S0ZXVElaVTZFdG83ZDhQTm9Bc1l3ekg3SjdpMjNuQnF1WVdGYXV1eTVEaTFkXzJ5SHVMUmNMWGxwSWQ1ZHh6aEQ4N0NIZ1E4N01oY0hjVVFCbTE5SG55dkpGLXdZeHlzTDlDV09VWlpxZUJHcERUU3RQMzZXQTZVeTR2d2RlV3dnQzZTUlJwNTZoNmJrVE9BVHVtZ0tpLVBLOA?oc=5
 
-- Don't want to punish India, but…: US Energy Secretary on Russian oil imports - India Today
-  India Today reports that India is considering a ban on
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxORzBhX3BoTDNfQU1ldVgtalM5eF9vS0dBNEpENnhZVWlBejZ2R1hYemN3WF84c05LaVNFRExIMHh1bmxUNzBiS2VQa1czVGFXcW5PU3VnbENTcVpEUmtDeVpINUR6WlVsUVlsRzFDMVlPaTBPbzl3M1ZOM0s3MXFDRUxJTjUzVm1PUG9GSHNlazB3czZzR3pkb1EtLUdfN3FXRmJlaHAxQ3JkNjlTSmtGNk1lSWxaMHBfeWpmcmQwSdIBxAFBVV95cUxNQWtuYWdoYU9TYnFsbUYtWGFORkJtYXhDVV95NHBGbF95clppZFB3WHJ6WXBnWjh3b2U1MEQwSUlJLVA1VlVjV011NEN4Nm5FTTY2ZnQzbmpQV2ZWS0EwNjBEUXVZSUNKRXVnbHU5X0lTTEpleVVBUUNBQWgtd21XUUhrRktxU2UwX1gwem05bUVWTlBjTTJSWVUzdUFGaHA3UmtHdGNuR2Q3ekFkQ1Z4eEUyMXpTMGpNeHBvMUc0d19GQV94?oc=5
+- US seeks deeper trade, energy ties with awesome ally India: Energy Secretary Wright - Mint
+  US seeks deeper trade, energy ties with awesome ally India
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY0ZHMWI0TWJNWDc4aXZzZG03MUF1NTB3a0YxS3Zla2pFVFMyNmlZUUhNVGg2UjV3VUd1RW5vejlqNkMxREtXU3JubkJ0SHp3OEdvRnlmaGZ1RkxiU2dVejZyRjJqMW1JQTRiNDBNUWxKMU04XzhTMi1xTFFSV1RSOHZvT3h6bDZ2X3phOUhzQ3gtamJRbkFodmJmMGJUaFk0M09rZ1pwaGEzVVFpXzNDU3JkYkFSSk1jT1RJWWx5cFE0ZkQxV0sxbG9sLUxsME0wVEczdjZR0gHbAUFVX3lxTE9abzB3eVJzVVBEWVVfZEpRaU9ybHFKRXZqRG9JbFlsY1RTN1ptU09KSTg4U21UUE5pelNadENWT0REdGpiNTNvZ19SVm4yNGNXbjJYaXI4czRqY3ptVUh6em9UNHJCV3VCajJXWXRkY3NlUmw0UDhWemtiejlHU1VPYkMwbFpCREJKLWF4Q0tETTd5bEJPOUtkb1pORmdfSUJFZmdaaThyTnhGZTM0LUtoUUhQa0NCUXN1cTJCaVVLMy1Tb2U3Z194UGVSNEprTnhzdGdGRThXbWhhZw?oc=5
 
 - Trump Aide's "Don't Want To Punish India" Remark And A Crude Suggestion - NDTV
-  Trump Aide's "Don't Want To Pun
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGxsMDNtYmNvMUJ2R3lmRFRPbUh0SGkzdFNUSDVDc2RZV2pfZ0NEQTg0aWt2WXA3OEV3NGdyQWVZbFZQU0g4RlRFZ3NKLUdqYUZRV003Sk9hOUJGWFZSLWRVeHlud3lvYmZYWkhhN1dna0h3OThWWlE1NXdDQmFrMjlWcVo3WmJYT2JxYThoQ29vVXRYTnlEY3FhZUJhZVlRTl9ZSXp0ZjFfRW8?oc=5
+  Aide to President Donald Trump says he doesn't
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGxsMDNtYmNvMUJ2R3lmRFRPbUh0SGkzdFNUSDVDc2RZV2pfZ0NEQTg0aWt2WXA3OEV3NGdyQWVZbFZQU0g4RlRFZ3NKLUdqYUZRV003Sk9hOUJGWFZSLWRVeHlud3lvYmZYWkhhN1dna0h3OThWWlE1NXdDQmFrMjlWcVo3WmJYT2JxYThoQ29vVXRYTnlEY3FhZUJhZVlRTl9ZSXp0ZjFfRW_SAbMBQVVfeXFMT3hnUzRjQ05nN0tpb3ZMLU1wZUpLc1ZGbW41ZFg2NkN1dDM3c3hDRUE0bEpLR2Q0U1pFZm1tbVRvZ1VGRmFGX0pHTDFhcVd4UDJkMjhEUlhUZklxWlNBeWVLeU81VndUNW9DWkprQzJWMThtczZSTll0QXJnMm1YYk5GVTRaMjVpZnpEaFlSRVhXeldUVzdPZVBreUhQczFadFJxQW1HcEttSGNnSTY1cHg1NUE?oc=5
 
 - ‘Can buy from any nation, not Russia’: US energy secretary on India's oil purchase, tariffs | World News - Hindustan Times
   ‘Can buy from any nation, not Russia’: US energy secretary on
   🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxQRTZ3ZG1iZG1LQ2s2cmdPYVAwMDV5MUFqU3hqWkVXOERmcUU0ZVg3RjE5R3cxYWxlSGJmaEdiNEN1YzdvQWx1Z1pJdGtaUWgtcUszRjlCalN6b0M1elUxYjkxQUNiUFp1aWJhRWstcFdPdlBrN3BrZXJqSzBjTFVJYW5iN2JGMmFXekZuazJ3WVcydmh5d2R3X0FsMGZPakUtYl83YS1XUEVvYXNJdGR3M2gwbzFvQU9lQXhiMXo0cHRpSldlNTBKd0Rvb3pFWGE2MWMwQlZCWVBrOUFCMkJST3d0MFlEMGJzOHRtZjN2YkFZU0R0UXpUT2pEWEZJT3kzSGw2X9IBigJBVV95cUxNNDlpV0o5QlgyLVlzMmY0NjYtUEtRMl9sZ01CMi1UR0Z5VVl2blpLM2N4S0VLTC1GcWEzOXJkRk9vbEZrd0E0WDk5Wjk1WGFYM0ZoN0hHWHMtTE9MRU1PLU1naWh0TjZfTkJWUUNialI4TnR0UjdKVC1WdnRhaTd3SnIzMWtXT3JKQ00zcVRibWlJUHBYbm1PTWVwajlDSEZBWlhhck9GeUNyTlVyV0pQNmw3NGxua3d2OEtOMmFmb1BfVHhjT2pkRDFiWG5pWU03MjZ0aE50M0VsWXViOXdBRldjT2YyS2FscFNQQVZtaDlfc3o0QXJIdEFTYk1zQmdCVi1UYWFzX0pRZw?oc=5
 
-- Asia Cup: No handshakes between India and Bangladesh players? Pic from Dubai reveals the truth - Times of India
-  Asia Cup: No handshakes between India and Bangladesh players? Pic from
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNR0ZYNjRtMFk3ZGZKbEFMSTE5amhJZUVDcFpCb3QxYU81YTJuTHBRb3RhbDhJaF85MWNpTDY5SGgwaU50bW5yLWtja2p6VW0xMFQ3Y0M3bEd0c1FSeEhJUzM4Mi1sWVlzcG1XUzIyY2gzX0Z0S3RXQi1aUHNJaldSclUxSFZ4d1FqcHBuVmI5S0VQTUhPZWFoMjY3X29JT2picGYwaDZzMmFKd2swLXE5RXFfYzFEbWtYSVNVcHZXR1hoTWhMUUg5aVg5a1ZkNk92RnZvNklVTmJXSVpxTFA2ZmNlVzFkUjFGT3ZEaEc3TWpnX21YUjVEQXU4ZVBuUlJPbldfdHBlODRmQdIBjwJBVV95cUxNeHFwbExpUmV5WHU5Q3BIQ1dvQ3kzQ1JrVVJlWmxnMm9zS2lLdWFMMlNSUUlBYUl3MWNkUFNsUWdaU05PbU5tRG9JX29IX2MwWVNnUVlObUZhalVGTWYwOEJjenJHRzBlY3NudjNjWGhZOWwydHRhWlBjbEZ3WHJ0QlA1NmVUWVY2dWJIdTVnTURpNFBpZ3Q4QjRXWUFvT054UF9laENudmhqZjVWWnFFdHJrYTJXZnRFbWxPdFZWbU1fM0dET18wZTNzbGQxOE4yRFpjU09lT3dNVXdlMTRfTDNvYnVQVlJkaEVQaGtnYzgzSUJJaWt2MHYyWVBoQTZqZHhELS1kNFBiaXZJdVpn?oc=5
+- India Must Become Self-Reliant, Russia Our Time-Tested Partner: PM Modi - NDTV
+  India Must Become Self-Reliant,
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWZ1djJIbTluRERVSkVvUUxwQ0hhbW9hMko1SnRVYVFoM1paaTFQUlhBMGVkeFhvZVBkZXI3eGI0TlJNUTVGTzY4Q1NQblI0MVJ2NWRmZW1mQ283d1I4Vlo4S3M4ZkdhSkV4bWxGQWZKS05XNUEtNFRrUTQ0aGFlSnRWcTRROG1Hb3F4MlNNYlFBaUFUZ2w4LXYxVFQ0cnJHd0RzbDMzY0lJbjBhQWhRWldHelfSAbwBQVVfeXFMTUhfSWx6akJnME42eUhoQ1YtQmhFUUZkZW9laVJnSHU4WFotUWI2anBlV1pBOGNCamF6WGhQaExPblI4cDlEX1ctWTRrVDkxeHFZOElRSzFHYkRoa0kxRFQ4cW5RLXIyY0g3MkRhU3h1V0pjVUpwRlN5N2pWQWhWV0h2YnpjWGZ6cUl6Wm5jNHNUWHZWU3lTX0RmY2pEakVxWVR0aDRhUzlrTmpsNHZzalMzMmNIa0Q4Wld5dEw?oc=5
 
-- India news live updates: Country must become self-reliant, every product that can be made in India should be made here, says PM Modi - The Economic Times
-  India news live updates: Country must become self-reliant. Every product that can be made in India should be
-  🔗 https://news.google.com/rss/articles/CBMizwJBVV95cUxNcmZLVnhNWVBLU09DSi1YMS11cHd1UVFpVWhDbll4cHhCOUJRTnRPNDhIdGxFaEgyRGxVN1dkRG9aM3MzUmgzLTFOcHU1bzZqVkRsM1k4UWNGQzlWbGZPekViV0VnaVZacFhIVlo5MHJoVkR0ai0xVTk4Q0dINlNxVU5oN3k0d2dnSFRibktEeUh4dzN0ODhjckpTTFJkWHBVV3RwQWI5OC14NFJFQ3ZJRXVYbEwyY0hwSGlIQVpNeTFoeW9LMGlUUXVNekFqU1BYaTdOYmUzMExrRHN1VHI1OVh4SWQ4OTZjbDM3NHB5SmxKa2FGdEV1MDFSWDU2dDEzdXoyTXpodkNVZDVlRG84ejhRdHJjZk94dVEyMWNoT0hUMWRqdXVrbW9nVkdKNDFBazJaaVk4Y2d1VThEXzN1dlJXTmg1engtZlVSYWlEdw?oc=5
+- PM Modi, Trump Share 'Very, Very Positive Relationship': US Official - NDTV
+  PM Modi, Trump Share 'Very,
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQUjdrcnEyZ3NuOVNZcHdockJzbjRVaGlXaTJZZ3RGV0JKaTNlUlc2SFRLV2pzZVpFQkVlY0RKTDF6cTFQZEFpZjdJRUs5MDZ5bkJOYjROcGxmZHFETXVnbHdvb2hrNzF5SkhGeVhnc1pYWmJfYW5aVm1BQ2tSb09WR1VUaGNtZjZHNGN1Rk1DM2llbEU1RWw4WlVvTmV5dF80MFI1S0VWUlhyY010REI1dS13QWR2ZUx3VnhHZlhrOGUtVHJsOWxN0gHPAUFVX3lxTFBtaVFkZXQ3UnJubllITnVDN2NOd25OR3FzYjA3RHBfU2NfOFF4WjJna19iMkx2S0ZXVElaVTZFdG83ZDhQTm9Bc1l3ekg3SjdpMjNuQnF1WVdGYXV1eTVEaTFkXzJ5SHVMUmNMWGxwSWQ1ZHh6aEQ4N0NIZ1E4N01oY0hjVVFCbTE5SG55dkpGLXdZeHlzTDlDV09VWlpxZUJHcERUU3RQMzZXQTZVeTR2d2RlV3dnQzZTUlJwNTZoNmJrVE9BVHVtZ0tpLVBLOA?oc=5
 
-- Don't want to punish India, but…: US Energy Secretary on Russian oil imports - India Today
-  India Today reports that India is considering a ban on
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxORzBhX3BoTDNfQU1ldVgtalM5eF9vS0dBNEpENnhZVWlBejZ2R1hYemN3WF84c05LaVNFRExIMHh1bmxUNzBiS2VQa1czVGFXcW5PU3VnbENTcVpEUmtDeVpINUR6WlVsUVlsRzFDMVlPaTBPbzl3M1ZOM0s3MXFDRUxJTjUzVm1PUG9GSHNlazB3czZzR3pkb1EtLUdfN3FXRmJlaHAxQ3JkNjlTSmtGNk1lSWxaMHBfeWpmcmQwSdIBxAFBVV95cUxNQWtuYWdoYU9TYnFsbUYtWGFORkJtYXhDVV95NHBGbF95clppZFB3WHJ6WXBnWjh3b2U1MEQwSUlJLVA1VlVjV011NEN4Nm5FTTY2ZnQzbmpQV2ZWS0EwNjBEUXVZSUNKRXVnbHU5X0lTTEpleVVBUUNBQWgtd21XUUhrRktxU2UwX1gwem05bUVWTlBjTTJSWVUzdUFGaHA3UmtHdGNuR2Q3ekFkQ1Z4eEUyMXpTMGpNeHBvMUc0d19GQV94?oc=5
+- US seeks deeper trade, energy ties with awesome ally India: Energy Secretary Wright - Mint
+  US seeks deeper trade, energy ties with awesome ally India
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY0ZHMWI0TWJNWDc4aXZzZG03MUF1NTB3a0YxS3Zla2pFVFMyNmlZUUhNVGg2UjV3VUd1RW5vejlqNkMxREtXU3JubkJ0SHp3OEdvRnlmaGZ1RkxiU2dVejZyRjJqMW1JQTRiNDBNUWxKMU04XzhTMi1xTFFSV1RSOHZvT3h6bDZ2X3phOUhzQ3gtamJRbkFodmJmMGJUaFk0M09rZ1pwaGEzVVFpXzNDU3JkYkFSSk1jT1RJWWx5cFE0ZkQxV0sxbG9sLUxsME0wVEczdjZR0gHbAUFVX3lxTE9abzB3eVJzVVBEWVVfZEpRaU9ybHFKRXZqRG9JbFlsY1RTN1ptU09KSTg4U21UUE5pelNadENWT0REdGpiNTNvZ19SVm4yNGNXbjJYaXI4czRqY3ptVUh6em9UNHJCV3VCajJXWXRkY3NlUmw0UDhWemtiejlHU1VPYkMwbFpCREJKLWF4Q0tETTd5bEJPOUtkb1pORmdfSUJFZmdaaThyTnhGZTM0LUtoUUhQa0NCUXN1cTJCaVVLMy1Tb2U3Z194UGVSNEprTnhzdGdGRThXbWhhZw?oc=5
 
 - Trump Aide's "Don't Want To Punish India" Remark And A Crude Suggestion - NDTV
-  Trump Aide's "Don't Want To Pun
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGxsMDNtYmNvMUJ2R3lmRFRPbUh0SGkzdFNUSDVDc2RZV2pfZ0NEQTg0aWt2WXA3OEV3NGdyQWVZbFZQU0g4RlRFZ3NKLUdqYUZRV003Sk9hOUJGWFZSLWRVeHlud3lvYmZYWkhhN1dna0h3OThWWlE1NXdDQmFrMjlWcVo3WmJYT2JxYThoQ29vVXRYTnlEY3FhZUJhZVlRTl9ZSXp0ZjFfRW8?oc=5
+  Aide to President Donald Trump says he doesn't
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGxsMDNtYmNvMUJ2R3lmRFRPbUh0SGkzdFNUSDVDc2RZV2pfZ0NEQTg0aWt2WXA3OEV3NGdyQWVZbFZQU0g4RlRFZ3NKLUdqYUZRV003Sk9hOUJGWFZSLWRVeHlud3lvYmZYWkhhN1dna0h3OThWWlE1NXdDQmFrMjlWcVo3WmJYT2JxYThoQ29vVXRYTnlEY3FhZUJhZVlRTl9ZSXp0ZjFfRW_SAbMBQVVfeXFMT3hnUzRjQ05nN0tpb3ZMLU1wZUpLc1ZGbW41ZFg2NkN1dDM3c3hDRUE0bEpLR2Q0U1pFZm1tbVRvZ1VGRmFGX0pHTDFhcVd4UDJkMjhEUlhUZklxWlNBeWVLeU81VndUNW9DWkprQzJWMThtczZSTll0QXJnMm1YYk5GVTRaMjVpZnpEaFlSRVhXeldUVzdPZVBreUhQczFadFJxQW1HcEttSGNnSTY1cHg1NUE?oc=5
 
 - ‘Can buy from any nation, not Russia’: US energy secretary on India's oil purchase, tariffs | World News - Hindustan Times
   ‘Can buy from any nation, not Russia’: US energy secretary on
   🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxQRTZ3ZG1iZG1LQ2s2cmdPYVAwMDV5MUFqU3hqWkVXOERmcUU0ZVg3RjE5R3cxYWxlSGJmaEdiNEN1YzdvQWx1Z1pJdGtaUWgtcUszRjlCalN6b0M1elUxYjkxQUNiUFp1aWJhRWstcFdPdlBrN3BrZXJqSzBjTFVJYW5iN2JGMmFXekZuazJ3WVcydmh5d2R3X0FsMGZPakUtYl83YS1XUEVvYXNJdGR3M2gwbzFvQU9lQXhiMXo0cHRpSldlNTBKd0Rvb3pFWGE2MWMwQlZCWVBrOUFCMkJST3d0MFlEMGJzOHRtZjN2YkFZU0R0UXpUT2pEWEZJT3kzSGw2X9IBigJBVV95cUxNNDlpV0o5QlgyLVlzMmY0NjYtUEtRMl9sZ01CMi1UR0Z5VVl2blpLM2N4S0VLTC1GcWEzOXJkRk9vbEZrd0E0WDk5Wjk1WGFYM0ZoN0hHWHMtTE9MRU1PLU1naWh0TjZfTkJWUUNialI4TnR0UjdKVC1WdnRhaTd3SnIzMWtXT3JKQ00zcVRibWlJUHBYbm1PTWVwajlDSEZBWlhhck9GeUNyTlVyV0pQNmw3NGxua3d2OEtOMmFmb1BfVHhjT2pkRDFiWG5pWU03MjZ0aE50M0VsWXViOXdBRldjT2YyS2FscFNQQVZtaDlfc3o0QXJIdEFTYk1zQmdCVi1UYWFzX0pRZw?oc=5
 
-- Asia Cup: No handshakes between India and Bangladesh players? Pic from Dubai reveals the truth - Times of India
-  Asia Cup: No handshakes between India and Bangladesh players? Pic from
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNR0ZYNjRtMFk3ZGZKbEFMSTE5amhJZUVDcFpCb3QxYU81YTJuTHBRb3RhbDhJaF85MWNpTDY5SGgwaU50bW5yLWtja2p6VW0xMFQ3Y0M3bEd0c1FSeEhJUzM4Mi1sWVlzcG1XUzIyY2gzX0Z0S3RXQi1aUHNJaldSclUxSFZ4d1FqcHBuVmI5S0VQTUhPZWFoMjY3X29JT2picGYwaDZzMmFKd2swLXE5RXFfYzFEbWtYSVNVcHZXR1hoTWhMUUg5aVg5a1ZkNk92RnZvNklVTmJXSVpxTFA2ZmNlVzFkUjFGT3ZEaEc3TWpnX21YUjVEQXU4ZVBuUlJPbldfdHBlODRmQdIBjwJBVV95cUxNeHFwbExpUmV5WHU5Q3BIQ1dvQ3kzQ1JrVVJlWmxnMm9zS2lLdWFMMlNSUUlBYUl3MWNkUFNsUWdaU05PbU5tRG9JX29IX2MwWVNnUVlObUZhalVGTWYwOEJjenJHRzBlY3NudjNjWGhZOWwydHRhWlBjbEZ3WHJ0QlA1NmVUWVY2dWJIdTVnTURpNFBpZ3Q4QjRXWUFvT054UF9laENudmhqZjVWWnFFdHJrYTJXZnRFbWxPdFZWbU1fM0dET18wZTNzbGQxOE4yRFpjU09lT3dNVXdlMTRfTDNvYnVQVlJkaEVQaGtnYzgzSUJJaWt2MHYyWVBoQTZqZHhELS1kNFBiaXZJdVpn?oc=5
+- India Must Become Self-Reliant, Russia Our Time-Tested Partner: PM Modi - NDTV
+  India Must Become Self-Reliant,
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWZ1djJIbTluRERVSkVvUUxwQ0hhbW9hMko1SnRVYVFoM1paaTFQUlhBMGVkeFhvZVBkZXI3eGI0TlJNUTVGTzY4Q1NQblI0MVJ2NWRmZW1mQ283d1I4Vlo4S3M4ZkdhSkV4bWxGQWZKS05XNUEtNFRrUTQ0aGFlSnRWcTRROG1Hb3F4MlNNYlFBaUFUZ2w4LXYxVFQ0cnJHd0RzbDMzY0lJbjBhQWhRWldHelfSAbwBQVVfeXFMTUhfSWx6akJnME42eUhoQ1YtQmhFUUZkZW9laVJnSHU4WFotUWI2anBlV1pBOGNCamF6WGhQaExPblI4cDlEX1ctWTRrVDkxeHFZOElRSzFHYkRoa0kxRFQ4cW5RLXIyY0g3MkRhU3h1V0pjVUpwRlN5N2pWQWhWV0h2YnpjWGZ6cUl6Wm5jNHNUWHZWU3lTX0RmY2pEakVxWVR0aDRhUzlrTmpsNHZzalMzMmNIa0Q4Wld5dEw?oc=5
 
-- India news live updates: Country must become self-reliant, every product that can be made in India should be made here, says PM Modi - The Economic Times
-  India news live updates: Country must become self-reliant. Every product that can be made in India should be
-  🔗 https://news.google.com/rss/articles/CBMizwJBVV95cUxNcmZLVnhNWVBLU09DSi1YMS11cHd1UVFpVWhDbll4cHhCOUJRTnRPNDhIdGxFaEgyRGxVN1dkRG9aM3MzUmgzLTFOcHU1bzZqVkRsM1k4UWNGQzlWbGZPekViV0VnaVZacFhIVlo5MHJoVkR0ai0xVTk4Q0dINlNxVU5oN3k0d2dnSFRibktEeUh4dzN0ODhjckpTTFJkWHBVV3RwQWI5OC14NFJFQ3ZJRXVYbEwyY0hwSGlIQVpNeTFoeW9LMGlUUXVNekFqU1BYaTdOYmUzMExrRHN1VHI1OVh4SWQ4OTZjbDM3NHB5SmxKa2FGdEV1MDFSWDU2dDEzdXoyTXpodkNVZDVlRG84ejhRdHJjZk94dVEyMWNoT0hUMWRqdXVrbW9nVkdKNDFBazJaaVk4Y2d1VThEXzN1dlJXTmg1engtZlVSYWlEdw?oc=5
+- PM Modi, Trump Share 'Very, Very Positive Relationship': US Official - NDTV
+  PM Modi, Trump Share 'Very,
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQUjdrcnEyZ3NuOVNZcHdockJzbjRVaGlXaTJZZ3RGV0JKaTNlUlc2SFRLV2pzZVpFQkVlY0RKTDF6cTFQZEFpZjdJRUs5MDZ5bkJOYjROcGxmZHFETXVnbHdvb2hrNzF5SkhGeVhnc1pYWmJfYW5aVm1BQ2tSb09WR1VUaGNtZjZHNGN1Rk1DM2llbEU1RWw4WlVvTmV5dF80MFI1S0VWUlhyY010REI1dS13QWR2ZUx3VnhHZlhrOGUtVHJsOWxN0gHPAUFVX3lxTFBtaVFkZXQ3UnJubllITnVDN2NOd25OR3FzYjA3RHBfU2NfOFF4WjJna19iMkx2S0ZXVElaVTZFdG83ZDhQTm9Bc1l3ekg3SjdpMjNuQnF1WVdGYXV1eTVEaTFkXzJ5SHVMUmNMWGxwSWQ1ZHh6aEQ4N0NIZ1E4N01oY0hjVVFCbTE5SG55dkpGLXdZeHlzTDlDV09VWlpxZUJHcERUU3RQMzZXQTZVeTR2d2RlV3dnQzZTUlJwNTZoNmJrVE9BVHVtZ0tpLVBLOA?oc=5
 
-- Don't want to punish India, but…: US Energy Secretary on Russian oil imports - India Today
-  India Today reports that India is considering a ban on
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxORzBhX3BoTDNfQU1ldVgtalM5eF9vS0dBNEpENnhZVWlBejZ2R1hYemN3WF84c05LaVNFRExIMHh1bmxUNzBiS2VQa1czVGFXcW5PU3VnbENTcVpEUmtDeVpINUR6WlVsUVlsRzFDMVlPaTBPbzl3M1ZOM0s3MXFDRUxJTjUzVm1PUG9GSHNlazB3czZzR3pkb1EtLUdfN3FXRmJlaHAxQ3JkNjlTSmtGNk1lSWxaMHBfeWpmcmQwSdIBxAFBVV95cUxNQWtuYWdoYU9TYnFsbUYtWGFORkJtYXhDVV95NHBGbF95clppZFB3WHJ6WXBnWjh3b2U1MEQwSUlJLVA1VlVjV011NEN4Nm5FTTY2ZnQzbmpQV2ZWS0EwNjBEUXVZSUNKRXVnbHU5X0lTTEpleVVBUUNBQWgtd21XUUhrRktxU2UwX1gwem05bUVWTlBjTTJSWVUzdUFGaHA3UmtHdGNuR2Q3ekFkQ1Z4eEUyMXpTMGpNeHBvMUc0d19GQV94?oc=5
+- US seeks deeper trade, energy ties with awesome ally India: Energy Secretary Wright - Mint
+  US seeks deeper trade, energy ties with awesome ally India
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY0ZHMWI0TWJNWDc4aXZzZG03MUF1NTB3a0YxS3Zla2pFVFMyNmlZUUhNVGg2UjV3VUd1RW5vejlqNkMxREtXU3JubkJ0SHp3OEdvRnlmaGZ1RkxiU2dVejZyRjJqMW1JQTRiNDBNUWxKMU04XzhTMi1xTFFSV1RSOHZvT3h6bDZ2X3phOUhzQ3gtamJRbkFodmJmMGJUaFk0M09rZ1pwaGEzVVFpXzNDU3JkYkFSSk1jT1RJWWx5cFE0ZkQxV0sxbG9sLUxsME0wVEczdjZR0gHbAUFVX3lxTE9abzB3eVJzVVBEWVVfZEpRaU9ybHFKRXZqRG9JbFlsY1RTN1ptU09KSTg4U21UUE5pelNadENWT0REdGpiNTNvZ19SVm4yNGNXbjJYaXI4czRqY3ptVUh6em9UNHJCV3VCajJXWXRkY3NlUmw0UDhWemtiejlHU1VPYkMwbFpCREJKLWF4Q0tETTd5bEJPOUtkb1pORmdfSUJFZmdaaThyTnhGZTM0LUtoUUhQa0NCUXN1cTJCaVVLMy1Tb2U3Z194UGVSNEprTnhzdGdGRThXbWhhZw?oc=5
 
 - Trump Aide's "Don't Want To Punish India" Remark And A Crude Suggestion - NDTV
-  Trump Aide's "Don't Want To Pun
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGxsMDNtYmNvMUJ2R3lmRFRPbUh0SGkzdFNUSDVDc2RZV2pfZ0NEQTg0aWt2WXA3OEV3NGdyQWVZbFZQU0g4RlRFZ3NKLUdqYUZRV003Sk9hOUJGWFZSLWRVeHlud3lvYmZYWkhhN1dna0h3OThWWlE1NXdDQmFrMjlWcVo3WmJYT2JxYThoQ29vVXRYTnlEY3FhZUJhZVlRTl9ZSXp0ZjFfRW8?oc=5
+  Aide to President Donald Trump says he doesn't
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGxsMDNtYmNvMUJ2R3lmRFRPbUh0SGkzdFNUSDVDc2RZV2pfZ0NEQTg0aWt2WXA3OEV3NGdyQWVZbFZQU0g4RlRFZ3NKLUdqYUZRV003Sk9hOUJGWFZSLWRVeHlud3lvYmZYWkhhN1dna0h3OThWWlE1NXdDQmFrMjlWcVo3WmJYT2JxYThoQ29vVXRYTnlEY3FhZUJhZVlRTl9ZSXp0ZjFfRW_SAbMBQVVfeXFMT3hnUzRjQ05nN0tpb3ZMLU1wZUpLc1ZGbW41ZFg2NkN1dDM3c3hDRUE0bEpLR2Q0U1pFZm1tbVRvZ1VGRmFGX0pHTDFhcVd4UDJkMjhEUlhUZklxWlNBeWVLeU81VndUNW9DWkprQzJWMThtczZSTll0QXJnMm1YYk5GVTRaMjVpZnpEaFlSRVhXeldUVzdPZVBreUhQczFadFJxQW1HcEttSGNnSTY1cHg1NUE?oc=5
 
 - ‘Can buy from any nation, not Russia’: US energy secretary on India's oil purchase, tariffs | World News - Hindustan Times
   ‘Can buy from any nation, not Russia’: US energy secretary on
   🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxQRTZ3ZG1iZG1LQ2s2cmdPYVAwMDV5MUFqU3hqWkVXOERmcUU0ZVg3RjE5R3cxYWxlSGJmaEdiNEN1YzdvQWx1Z1pJdGtaUWgtcUszRjlCalN6b0M1elUxYjkxQUNiUFp1aWJhRWstcFdPdlBrN3BrZXJqSzBjTFVJYW5iN2JGMmFXekZuazJ3WVcydmh5d2R3X0FsMGZPakUtYl83YS1XUEVvYXNJdGR3M2gwbzFvQU9lQXhiMXo0cHRpSldlNTBKd0Rvb3pFWGE2MWMwQlZCWVBrOUFCMkJST3d0MFlEMGJzOHRtZjN2YkFZU0R0UXpUT2pEWEZJT3kzSGw2X9IBigJBVV95cUxNNDlpV0o5QlgyLVlzMmY0NjYtUEtRMl9sZ01CMi1UR0Z5VVl2blpLM2N4S0VLTC1GcWEzOXJkRk9vbEZrd0E0WDk5Wjk1WGFYM0ZoN0hHWHMtTE9MRU1PLU1naWh0TjZfTkJWUUNialI4TnR0UjdKVC1WdnRhaTd3SnIzMWtXT3JKQ00zcVRibWlJUHBYbm1PTWVwajlDSEZBWlhhck9GeUNyTlVyV0pQNmw3NGxua3d2OEtOMmFmb1BfVHhjT2pkRDFiWG5pWU03MjZ0aE50M0VsWXViOXdBRldjT2YyS2FscFNQQVZtaDlfc3o0QXJIdEFTYk1zQmdCVi1UYWFzX0pRZw?oc=5
 
-- Asia Cup: No handshakes between India and Bangladesh players? Pic from Dubai reveals the truth - Times of India
-  Asia Cup: No handshakes between India and Bangladesh players? Pic from
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNR0ZYNjRtMFk3ZGZKbEFMSTE5amhJZUVDcFpCb3QxYU81YTJuTHBRb3RhbDhJaF85MWNpTDY5SGgwaU50bW5yLWtja2p6VW0xMFQ3Y0M3bEd0c1FSeEhJUzM4Mi1sWVlzcG1XUzIyY2gzX0Z0S3RXQi1aUHNJaldSclUxSFZ4d1FqcHBuVmI5S0VQTUhPZWFoMjY3X29JT2picGYwaDZzMmFKd2swLXE5RXFfYzFEbWtYSVNVcHZXR1hoTWhMUUg5aVg5a1ZkNk92RnZvNklVTmJXSVpxTFA2ZmNlVzFkUjFGT3ZEaEc3TWpnX21YUjVEQXU4ZVBuUlJPbldfdHBlODRmQdIBjwJBVV95cUxNeHFwbExpUmV5WHU5Q3BIQ1dvQ3kzQ1JrVVJlWmxnMm9zS2lLdWFMMlNSUUlBYUl3MWNkUFNsUWdaU05PbU5tRG9JX29IX2MwWVNnUVlObUZhalVGTWYwOEJjenJHRzBlY3NudjNjWGhZOWwydHRhWlBjbEZ3WHJ0QlA1NmVUWVY2dWJIdTVnTURpNFBpZ3Q4QjRXWUFvT054UF9laENudmhqZjVWWnFFdHJrYTJXZnRFbWxPdFZWbU1fM0dET18wZTNzbGQxOE4yRFpjU09lT3dNVXdlMTRfTDNvYnVQVlJkaEVQaGtnYzgzSUJJaWt2MHYyWVBoQTZqZHhELS1kNFBiaXZJdVpn?oc=5
+- India Must Become Self-Reliant, Russia Our Time-Tested Partner: PM Modi - NDTV
+  India Must Become Self-Reliant,
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWZ1djJIbTluRERVSkVvUUxwQ0hhbW9hMko1SnRVYVFoM1paaTFQUlhBMGVkeFhvZVBkZXI3eGI0TlJNUTVGTzY4Q1NQblI0MVJ2NWRmZW1mQ283d1I4Vlo4S3M4ZkdhSkV4bWxGQWZKS05XNUEtNFRrUTQ0aGFlSnRWcTRROG1Hb3F4MlNNYlFBaUFUZ2w4LXYxVFQ0cnJHd0RzbDMzY0lJbjBhQWhRWldHelfSAbwBQVVfeXFMTUhfSWx6akJnME42eUhoQ1YtQmhFUUZkZW9laVJnSHU4WFotUWI2anBlV1pBOGNCamF6WGhQaExPblI4cDlEX1ctWTRrVDkxeHFZOElRSzFHYkRoa0kxRFQ4cW5RLXIyY0g3MkRhU3h1V0pjVUpwRlN5N2pWQWhWV0h2YnpjWGZ6cUl6Wm5jNHNUWHZWU3lTX0RmY2pEakVxWVR0aDRhUzlrTmpsNHZzalMzMmNIa0Q4Wld5dEw?oc=5
 
-- India news live updates: Country must become self-reliant, every product that can be made in India should be made here, says PM Modi - The Economic Times
-  India news live updates: Country must become self-reliant. Every product that can be made in India should be
-  🔗 https://news.google.com/rss/articles/CBMizwJBVV95cUxNcmZLVnhNWVBLU09DSi1YMS11cHd1UVFpVWhDbll4cHhCOUJRTnRPNDhIdGxFaEgyRGxVN1dkRG9aM3MzUmgzLTFOcHU1bzZqVkRsM1k4UWNGQzlWbGZPekViV0VnaVZacFhIVlo5MHJoVkR0ai0xVTk4Q0dINlNxVU5oN3k0d2dnSFRibktEeUh4dzN0ODhjckpTTFJkWHBVV3RwQWI5OC14NFJFQ3ZJRXVYbEwyY0hwSGlIQVpNeTFoeW9LMGlUUXVNekFqU1BYaTdOYmUzMExrRHN1VHI1OVh4SWQ4OTZjbDM3NHB5SmxKa2FGdEV1MDFSWDU2dDEzdXoyTXpodkNVZDVlRG84ejhRdHJjZk94dVEyMWNoT0hUMWRqdXVrbW9nVkdKNDFBazJaaVk4Y2d1VThEXzN1dlJXTmg1engtZlVSYWlEdw?oc=5
+- PM Modi, Trump Share 'Very, Very Positive Relationship': US Official - NDTV
+  PM Modi, Trump Share 'Very,
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQUjdrcnEyZ3NuOVNZcHdockJzbjRVaGlXaTJZZ3RGV0JKaTNlUlc2SFRLV2pzZVpFQkVlY0RKTDF6cTFQZEFpZjdJRUs5MDZ5bkJOYjROcGxmZHFETXVnbHdvb2hrNzF5SkhGeVhnc1pYWmJfYW5aVm1BQ2tSb09WR1VUaGNtZjZHNGN1Rk1DM2llbEU1RWw4WlVvTmV5dF80MFI1S0VWUlhyY010REI1dS13QWR2ZUx3VnhHZlhrOGUtVHJsOWxN0gHPAUFVX3lxTFBtaVFkZXQ3UnJubllITnVDN2NOd25OR3FzYjA3RHBfU2NfOFF4WjJna19iMkx2S0ZXVElaVTZFdG83ZDhQTm9Bc1l3ekg3SjdpMjNuQnF1WVdGYXV1eTVEaTFkXzJ5SHVMUmNMWGxwSWQ1ZHh6aEQ4N0NIZ1E4N01oY0hjVVFCbTE5SG55dkpGLXdZeHlzTDlDV09VWlpxZUJHcERUU3RQMzZXQTZVeTR2d2RlV3dnQzZTUlJwNTZoNmJrVE9BVHVtZ0tpLVBLOA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-25 06:27:50 UTC_
+_Last updated: 2025-09-25 12:35:06 UTC_
