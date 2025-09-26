@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Threatening development cannot facilitate peace: Jaishankar at G20
+- Exclusive: Amit Shah asks MHA to recommend action on lesser-known messaging apps like Zangi, BiP used by terror groups
   
-  🔗 https://indianexpress.com/article/india/threatening-development-cannot-facilitate-peace-jaishankar-at-g20-10271752/
+  🔗 https://indianexpress.com/article/india/amit-shah-mha-action-lesser-known-messaging-apps-zangi-bip-terror-groups-10272271/
 
-- Of 4 who died in Leh, 3 in early 20s: ‘They had multiple bullet wounds on torso and head’
+- Kharge, Rahul Gandhi pay tribute to Manmohan Singh on his birth anniversary
   
-  🔗 https://indianexpress.com/article/india/of-4-who-died-in-leh-3-in-early-20s-they-had-multiple-bullet-wounds-on-torso-and-head-10271711/
+  🔗 https://indianexpress.com/article/india/kharge-rahul-gandhi-pay-tribute-manmohan-singh-birth-anniversary-10272159/
 
-- Banks should work to be in global top 10, fund small & medium firms: Amit Shah
+- Akhilesh holds meetings, SP seeks to plug the gaps ahead of SIR in Uttar Pradesh
   
-  🔗 https://indianexpress.com/article/india/financial-express-best-banks-awards-banks-should-work-to-be-in-global-top-10-fund-small-medium-firms-amit-shah-10271670/
+  🔗 https://indianexpress.com/article/india/akhilesh-meetings-sp-seeks-gaps-sir-uttar-pradesh-10272093/
 
-- PM Modi says investors prefer India for diversity, demand & scale
+- Gold Today Rate, September 26: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/pm-modi-says-investors-prefer-india-for-diversity-demand-scale-10271755/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-september-26-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10272057/
 
-- After acquittal in Malegaon case, Lt Col Prasad Purohit promoted to Colonel
+- Ladakh Today News LIVE Updates: Centre sends special envoy to Leh to restore peace; LG chairs security meet
   
-  🔗 https://indianexpress.com/article/india/after-acquittal-in-malegaon-case-lt-col-prasad-purohit-promoted-to-colonel-10271714/
+  🔗 https://indianexpress.com/article/india/ladakh-protest-news-live-updates-leh-statehood-peace-meet-wangchuk-strike-10271980/
+
+- Google likely to be hit with first EU antitrust fine under new EU law, sources say
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-likely-to-be-hit-with-first-eu-antitrust-fine-under-new-eu-law-sources-say-10272215/
+
+- The inside story behind the Snapdragon 8 Elite Gen 5, Qualcomm’s newest flagship mobile platform
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/the-inside-story-behind-the-snapdragon-8-elite-gen-5-qualcomms-newest-flagship-mobile-platform-10271959/
 
 - Adobe’s Firefly Boards now available worldwide, adds 2 new AI video models
   
@@ -32,113 +40,165 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/swiggy-rolls-out-new-features-for-food-on-train-offering-quick-delivery-on-trains-10271233/
 
-- Google announces Mixboard, a new mood board for brainstorming and planning
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-announces-mixboard-a-new-mood-board-for-brainstorming-and-planning-10271135/
+- Fire at JSW Steel plant in Maharashtra's Palghar; no casualty
+  A fire broke out at a plant of the JSW Steel company in
+  🔗 https://www.livemint.com/companies/jsw-steel-s-19-700-crore-acquisition-of-bhushan-power-and-steel-approved-by-supreme-court-11758864717862.html
 
-- Qualcomm announces Snapdragon 8 Elite Gen 5 with big CPU, GPU and AI upgrades
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/qualcomm-announces-snapdragon-8-elite-gen-5-heres-how-it-fares-against-the-snapdragon-8-elite-10270894/
+- Accel-backed edtech unicorn Vedantu raises $11 mn in internal round, larger secondary round to follow
+  The fresh capital will be deployed by Vedantu towards category expansion, both organic and inorganic, alongside investments in technology
+  🔗 https://www.livemint.com/companies/edtech-vedantu-fundraise-2025-accel-backed-unicorn-ai-in-edtech-11758861029752.html
 
-- Stock market today: Dow, S&P 500, Nasdaq slide for 3rd day as Wall Street slump continues - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq slide for 3
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcmg2NGU3ODhRanJZNXFLODAxdDZFZTJxalR6ZFB3RDQ2V2YxdTlrbTZ0RmVWM0dwT2Z4RWdlemh1OGJwal9UakRMYW95RXplUG5NSFFJZ0VJS05XMFlycnlZRXIzbE5jZnhmdlRBQ0tVRmpyXzRGdnAtWnpyUS1xek9mSk5SVEhrXzVvRkxrSThWSjJRalY4VTExUXBjbC1VdXdXZXdwdC1Rb19PcThGQm9qTWZBRzJ0REN0N1JhNHhabzJLbWxpMTRTazB5OWJYbVE?oc=5
+- Coal India announces reward of  ₹1.03 lakh for non-executive workers ahead of festival season
+  Coal India announces reward of  �
+  🔗 https://www.livemint.com/companies/news/coal-india-announces-reward-of-rs-1-03-lakh-for-non-executive-workers-ahead-of-festival-season-11758862842969.html
 
-- Stocks close lower for a third day as once-hot AI play Oracle falls, yields increase - CNBC
-  Stocks close lower for a third day as once-hot AI
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB0MUF4VHpvVUhlVVFrYWk2RGhmV1paX0pRTkhsRFpKTFVBNEptOTloYnp1T1FPSnNnS3Y3aUs0XzhWODk5WnlEanhNYnFFQ2ZJbHhla3duSGdoRVNCdTZYX2VxSXhMczR6TEo5RXAtYlV5Z3NxWTRr0gF8QVVfeXFMUEtNcHQyR1h2ZUFwWnNzQkIxV29wVkNtSGlkUjVYQ3d2UW10NE93S0tUR0J2LUNIejh3dmJKTERtaFRycTcwejBkOFZEOWJiaDVIOEdEYThudmlDc3phVHFYclJxVFUxTXNBNlU1Um4yOTJERXBDZUwzSkFKNg?oc=5
+- Mauritius President Names Thakoor as Central Bank Governor
+  The Mauritian government appointed a new governor and second deputy of the central bank. The changes are aimed at bringing an end to
+  🔗 https://www.livemint.com/companies/news/mauritius-president-names-thakoor-as-central-bank-governor-11758861811450.html
 
-- Chennai’s residential market shows signs of positive growth - The Hindu
-  Chennai’s residential
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPNWVqY1lBRUFOemNucTB5U1RSNXFoNVhjNXVxNUlwd1RWUUlMMnBab0ZfT09sOEhDR0xPOHJ5LVdkLWZaUHF6ck9PY0lES08yQkZxWFd0NmgzRkc1S2xPOGQtcEFrNEt2QzhSWHk0Tk10TEpSR1VFblA0STBuVS00M0taU3k1OHZoaEtRZnJ4dXNnMV9EM2hVdFlwUnRuNW41ZXFtbDBJREJ1M0dZY19Ud1NPbkJHdnZvekhCQ0hZYzY2Q3lKYkxj0gHOAUFVX3lxTE5EU09yTmFwYkZzLWdCdGxiZjI0eTh3T3d4ZE1nNEc5emp2b1lsbm5NYUpURXExTHFOeF9vUGJyUjlxeVNjbG5XUVJEa3oxa183WEdrbW9BRE81aWhDZmtTTEc5SDlKNUxPNU5jYm9jTThHRmcwOHpMZ2k4akUzZk1wb1JfZHQzZFMxdjhwQVFPZDgzQWVpZ3BmbFlBQm5xM2kzZzhRZUhhZ0NHVFBlbnJ0WDN0ZWlja2tCeGpWdTRubG1XWjc4anIxZ18taVZn?oc=5
+- The accelerator that hit the brakes: Why are Y Combinator's India startup picks shrinking
+  Of the 213 India-linked startups backed since YC’s first local cohort in summer 2012, only about 20 have gone on to raise a Series A funding or beyond. So
+  🔗 https://www.livemint.com/companies/y-combinator-startup-accelerator-vc-funding-unicorn-11758786539408.html
 
-- Stock market today: Trade setup for Nifty 50, Accenture Q4 results to H-1B visa fee concerns; 8 stocks to buy or sell - Mint
-  Stock market today: Trade setup for Nifty 50, Accenture Q4 results to H-1
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxQa09wSWNRMm01c1RfV2I1amY5OWxVR3QzOHJzdFlNcHY5S3BxSWtJaEhsYUVELVpWM1U5N09tMFJ3VmFNNE9qUGxzNXJUVlNwZWxsYWdfNjhfOWVuY1N2THIwODJPZGRQTXkzLW1BOGU3d3dyS00tWEtKTHZRRG1TMzdwdzJCVGdoVE1hMWg0cVpVM0ZUTFljN1VfM1dlZ1BTZ0tuLWEyUXM2VHFHUFMxeUNuY2lWNDRTcE02WFNGSGd1NWNUeXpYcXRIOVRhVU8xc1FhUnZRN28ySGQ1VF8yZ2xDeXNzTTRJNGdWQzhQX3RDVmt5MTJ4THBFQy0zdVRFdmdNTDRFRWoweU1mTTluVXln0gGXAkFVX3lxTE9iWW1xWGZhTEVvQjRyR2paOWtsaTVUOERtU0Y0eDhabk9PLVRiY2RFeWpic3lCVTNFMENrdmtzY3NHRThiemJpUVUwQnF6UE1NRVRiSmxkQWFGc0RBeUhHN3paZnZUbmtiMFNCV0tNSmt4OXg0QVprdXhiRmY3ZkRoLUFHSnhEQzR6dUp6Ql9DSTNnU2dNNkZtTFJJQUxtd25kckNLRHNKVzNvLW1GZThhQXlpa25EZktGQjdRV3dlNFhnTmpuY01OcWhTSFMtSFl4YXZsa1pDZnZrcHhXaC1WWU8zUS1TeXZ1bG42SmRrcU5YU3J1d3N1aGdyZWJzUXhuaHZReE5wX0dEWExMbGFPRXVHbGVmMA?oc=5
+- Shares to buy or sell: Chandan Taparia recommends three stocks to buy and sell today - 26 September 2025
+  Chandan Taparia has recommended three stocks to buy today, 26 September 2025. Taparia recommends buying Bharat Electronics, S
+  🔗 https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-recommends-three-stocks-to-buy-and-sell-today-26-september-2025-bel-rbl-bank-sbi-11758866656689.html
 
-- Could SEBI's potential clampdown on weekly contracts disrupt India's derivatives market? - The Economic Times
-  Could SEBI's potential clampdown on weekly contracts disrupt
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUWh2MVkwTEhPc1FtelVwNW44WnUtZXpHek5SZENSM3o1NF9GZ3BpbHdLQ0h5N1BmSXZyQ2ZwdGltb2RZYmF3RGhrTFZmc3ZEemowX3ozX014Z01NSkUwbGVILU9xVEYwRlZxWk5Sa1otQzF2RnRZdGxsSmwwdUx1YWZSWkt4clF2VVVxQjdrbG1QMEFZUE5aX0o1bnFvWFZUczVWWUhvOExmazRrV2VwbEgtQk81eE1FWGtzYThMSFlZZzk5TmxBSTVQRWFrbDcxTWo2T3ozUER1bHQ2aTZwQ250ckZqZG53M0tGXzdvVkLSAfYBQVVfeXFMTl91QW9QNkpnbXJRVVo1NS15b3hkSG10ek5DOURoNkxEX1dkUXY5RHdZMjlOSjh2azZxdTBSeWlnU2c1cUJHV0ZGVjhyVUNmMk1XZy0wZER1cUdmbjV0cjY5OUpzdmtwSl9hc0ZnalMxcml4aUxqTDdVNEtmdnlLTnA1TFYxQ082M0RNaTg3MHZMcWVjMFh6eTdCODVwSTliV3lzQ3FiV2h3NzExendhMlNPTVpRdGEzaWhTRHFkWDhMeTFNT3JqNlhlcXAwZV8yZFZPQjYyeDRuQ2laM0FPUkdfM092ZzVQODdVaHB2bDFLTzBpWFZ3?oc=5
+- Nuvama to BEL- Prashanth Tapse of Mehta Equities suggests stocks to buy in the short term
+  Nifty 50 and BSE Sensex fell 0.50%, marking six consecutive days of losses. Traders are advised to remain cautious amidst weak momentum and bearish
+  🔗 https://www.livemint.com/market/stock-market-news/nuvama-to-bel-prashanth-tapse-of-mehta-equities-suggests-stocks-to-buy-in-the-short-term-11758865290071.html
 
-- Microsoft blocks Israel’s use of its technology in mass surveillance of Palestinians - The Guardian
-  Microsoft blocks Israel’s use of its technology in
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd2xNUnhRbDBFWS1Db3ZTa0pPTDBoaXloN2tQTVlhSmJnTU9ueHRBZm1wWERUNmdGblBpa251Z0QxbENKMWg1SEhrN2R2MGJ6OE5JN3FScV9CamEwbTNUQ3g1YkllMHZsaFlFN2dLWWFGbUstbW0za0xWeDBRcF8xeFBvc3pmZEd1c1VaRGh6ZEw1VGNDZk5oNGJzcXc2cmJ1VElEZ2Jyd2YyTWRwT1VmWEVxcTdRdndxZEJzUFFqQVhTazN0Qk50ZQ?oc=5
+- TCS, Infosys to Wipro: IT stocks slump after Accenture results, Nifty IT dips 7.4% in six days amid H-1B visa fee hike
+  Indian IT companies, including TCS and Infosys, have seen declines for six consecutive days after Accenture's results and rising H-1B visa fees. The Nifty IT index fell
+  🔗 https://www.livemint.com/market/stock-market-news/tcs-infosys-to-wipro-it-stocks-slump-after-accenture-results-nifty-it-dips-7-4-in-six-days-after-h-1b-visa-fee-hike-11758863488803.html
 
-- Microsoft blocks Israel's access to its technology for mass surveillance in Gaza: Report - Mint
-  Microsoft blocks Israel's access to its technology for mass surveillance
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWWs4U0ZUb0hJN3FneTBBQldJYmhvNTdqSmFyYWs1YTFGUUhQcEtCdk1KQTE5ZkpvUVRHMmpYcW9veVZ0QkJsaWRhcjBKTWM3YkxhemxuWk9hdS1pYnFWNFQyV3g1c2xOWkFZLU94Um8zS2dIMGxNVks2TFhpaDN3d3JacXdIaUQtM3pvY3NCdV80Z0VueHA2aUxWckh6QVo1cjhhQl9tNGNxNFkzSklrcmVxSUEtcDluNV9mMWlXU09qQXJheFkyMG9vTHJlM0VxUXlfNHFWR2dKd9IB3wFBVV95cUxNX1hFMUxseTJzaUViUWF1REE3bGVzQlhVRlphbjhmVzl2RlFsZHBENjB6ckdzV3I0WVV3T3RyNlhyUTRkaTZhSGtOcXh4VkV0d3hVZWlMSDQ3SHNnc1dMMEU3SU43NjNRVEIyT1ZFd0JhRjNOOGF5THRCalBhbDUxVkpBY1BXWTJtTGVaZ3hOdmxlVWF4cE9uOHVTWjY3Y0RxNEdqQkFtbnN2VjNhQjVXOHgzUUtOcldodkNlT0JhdmdUUnNfUDJ2X1ZQZ3JrOEVBcnZ3TlRDQlVDSTF5VFlF?oc=5
+- Solarworld Energy Solutions IPO Allotment LIVE Updates: GMP, step-by-step guide to check allotment status online
+  Solarworld Energy Solutions IPO allotment date likely today. IPO GMP remains strong at  ₹52 per share, or nearly 15%
+  🔗 https://www.livemint.com/market/ipo/solarworld-energy-solutions-ipo-allotment-live-updates-solarworld-energy-solutions-ipo-gmp-today-ipo-allotment-status-11758863800496.html
 
-- Microsoft Blocks Israel’s Use Of Its Technology For Mass Surveillance Of Palestinians - News18
-  Microsoft blocks Israel’s Use Of Its Technology
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQMGl2N2UwT3gydHVka0lSZkpqMEM5ams0V2NQSm16d01LRHZWTUloN1VFV01ydE1xTl9IN0FvNmdXY01Jc00yNzhXSTRWaU0zSzhxZkFnYnlOM3dQbE9QSkVCNWc4Q0hEaXNYaFJ5QUl1LU1SaUk4RXBrZEl5allCbkJtaGRQcmRwaGtDdkZiZHhGbmhzXzVidHZFZVFRWnZUd1lUN00teTYxZEszemlXa3lvLWRqWkNUNzVvdm5WNWp3WUV5Qm1vNHpHd9IB0AFBVV95cUxQczQzeHJzZjczMzdIcVVLTFlIZEdydEhjTWFoeEJpM0ZKeGdtQUtVSGVCVHJjb0JkVkx5bGROSlg5SGhoUXpyZ0JJdnZiVzNjRFFjUEhhbVd2QWhUUzBQakVUcjBiWV8tSEl5M1VtU2NNcTdtVWlVbmRCU0h4cVB4V2VoRFE1OExTZzBIUWhsbUpTdGxXOGpDT290V3p4djJqYWpSZEdweDNudFdYUkoyWVhpV3NZWldQWEc4RGxSbUFiN0NKSVRodUtXdkppY2xJ?oc=5
+- Indian shares slide in broad-based sell-off led by pharma, IT stocks
+  Indian shares slide in broad-based
+  🔗 https://www.livemint.com/market/stock-market-news/indian-shares-slide-in-broad-based-sell-off-led-by-pharma-it-stocks-11758862842236.html
 
-- Dental Technology Innovation Hub launched at MAIDS - Times of India
-  Dental Technology Innovation Hub launched at
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUxLalEwMWRzTXRYV3Q0ck9IM19KVGFISFZOb3BQZFRBdWp5Sm11ejhxYnJMWXhTdzJzYmZIQ3B4OUdfUnh2Rk1yYTRrNlUwZTJ4LVNRYnJlOVNqZThaM2E4T1NkS20wQXhGcUl5a3c0R01EMzhOQUU0RWJlS0dYRHd1bWprWU53enBJZW1IUVpkaWVmQ1VXTWpkZDJIWUhabFhSQ2hWc2FKYUNid1NnWGRhZ2tVSmRrNFBVcDU3QjPSAcYBQVVfeXFMTTB1d040Z2VBVTlydUlhNXU3UWg0UmotLVI2YmVVSWdma29VTTk4REpOSDFXRW5IQmF2MnNKZWNXQ2ZrWTdIVzlxMXFXMnpXOV9xeWtnWXJEcmlpSXJLRmRaOWw2V25YXzdHR2ozWHVHNVF4RzgtSFlsdmY1Ym9MN0drWWNfcDF0V2ozcG9wLVYzZTljS3I0ODJxM3hlUUFYakptSEVIbzBLLUVTNkdCVGl0Sk5qS0RxOTNlMUcwejkzZ0toS1RB?oc=5
+- Forza Horizon 6 confirmed for Japan, first on Xbox Series X|S and PC: Release time, pre-orders and more
+  Microsoft and Playground Games have announced Forza Horizon 6. Launching in 2026 on Xbox Series X|S and PC via Game Pass. Post-launch PS5 release.
+  🔗 https://www.livemint.com/technology/tech-news/forza-horizon-6-confirmed-for-japan-first-on-xbox-series-x-s-and-pc-release-time-pre-orders-and-more-11758861593462.html
 
-- Regulating AI hastens the Antichrist, says Palantir’s Peter Thiel - The Times
-  Regulating AI hastens the Antich
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnpsalFPY0lBNHZzNUx1d0RwV096NG9ORXppZG9tQms2SEJ5UU5QOEZ1Mm5vN1dzcU1xak1RU0dPWGdTUWt3T2F3Zm5mOWJFZmFrWmFDY09WcHNENXEwZEE0NHBsR2staEMzZTJmS25PYVJDRHFpaVdiNUNIOHVURGJVVVdrMF9JajQzN2ZOYWRzSDlwS1ktR1RmaTk1OGIzaWstYjlnTFJyYTQ1VGZkZnhfT3JHd1BFMnZ5WEVxNlhMM3lM?oc=5
+- UK Seeks AI Rules to Spur Health-Care Overhaul, Protect Patients
+  The UK is pushing ahead on regulations for artificial intelligence in health care. The UK is creating a national commission to help the country attract health
+  🔗 https://www.livemint.com/technology/tech-news/uk-seeks-ai-rules-to-spur-health-care-overhaul-protect-patients-11758860713694.html
 
-- Stock market today: Dow, S&P 500, Nasdaq slide for 3rd day as Wall Street slump continues - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq slide for 3
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcmg2NGU3ODhRanJZNXFLODAxdDZFZTJxalR6ZFB3RDQ2V2YxdTlrbTZ0RmVWM0dwT2Z4RWdlemh1OGJwal9UakRMYW95RXplUG5NSFFJZ0VJS05XMFlycnlZRXIzbE5jZnhmdlRBQ0tVRmpyXzRGdnAtWnpyUS1xek9mSk5SVEhrXzVvRkxrSThWSjJRalY4VTExUXBjbC1VdXdXZXdwdC1Rb19PcThGQm9qTWZBRzJ0REN0N1JhNHhabzJLbWxpMTRTazB5OWJYbVE?oc=5
+- xAI secures government contract: Elon Musk's firm offers Grok AI to agencies for 42 cents, cheaper than ChatGPT
+   xAI will supply its Grok chatbot to US federal agencies under a GSA deal until March 2027. Agencies can
+  🔗 https://www.livemint.com/technology/tech-news/xai-secures-government-contract-elon-musks-firm-offers-grok-ai-to-agencies-for-42-cents-cheaper-than-chatgpt-11758859591200.html
 
-- Stocks close lower for a third day as once-hot AI play Oracle falls, yields increase - CNBC
-  Stocks close lower for a third day as once-hot AI
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB0MUF4VHpvVUhlVVFrYWk2RGhmV1paX0pRTkhsRFpKTFVBNEptOTloYnp1T1FPSnNnS3Y3aUs0XzhWODk5WnlEanhNYnFFQ2ZJbHhla3duSGdoRVNCdTZYX2VxSXhMczR6TEo5RXAtYlV5Z3NxWTRr0gF8QVVfeXFMUEtNcHQyR1h2ZUFwWnNzQkIxV29wVkNtSGlkUjVYQ3d2UW10NE93S0tUR0J2LUNIejh3dmJKTERtaFRycTcwejBkOFZEOWJiaDVIOEdEYThudmlDc3phVHFYclJxVFUxTXNBNlU1Um4yOTJERXBDZUwzSkFKNg?oc=5
+- iQOO 15 could debut in India soon, confirms CEO Nipun Marya: Expected specifications, features and more
+  iQOO 15 is set to launch in China in October with Snapdragon 8 Elite Gen 5. iQOO India CEO Nipun Marya, has teased the chipset details of the handset on his official
+  🔗 https://www.livemint.com/technology/gadgets/iqoo-15-could-debut-in-india-soon-confirms-ceo-nipun-marya-expected-specifications-features-and-more-11758851793233.html
 
-- Chennai’s residential market shows signs of positive growth - The Hindu
-  Chennai’s residential
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPNWVqY1lBRUFOemNucTB5U1RSNXFoNVhjNXVxNUlwd1RWUUlMMnBab0ZfT09sOEhDR0xPOHJ5LVdkLWZaUHF6ck9PY0lES08yQkZxWFd0NmgzRkc1S2xPOGQtcEFrNEt2QzhSWHk0Tk10TEpSR1VFblA0STBuVS00M0taU3k1OHZoaEtRZnJ4dXNnMV9EM2hVdFlwUnRuNW41ZXFtbDBJREJ1M0dZY19Ud1NPbkJHdnZvekhCQ0hZYzY2Q3lKYkxj0gHOAUFVX3lxTE5EU09yTmFwYkZzLWdCdGxiZjI0eTh3T3d4ZE1nNEc5emp2b1lsbm5NYUpURXExTHFOeF9vUGJyUjlxeVNjbG5XUVJEa3oxa183WEdrbW9BRE81aWhDZmtTTEc5SDlKNUxPNU5jYm9jTThHRmcwOHpMZ2k4akUzZk1wb1JfZHQzZFMxdjhwQVFPZDgzQWVpZ3BmbFlBQm5xM2kzZzhRZUhhZ0NHVFBlbnJ0WDN0ZWlja2tCeGpWdTRubG1XWjc4anIxZ18taVZn?oc=5
+- Amazon Great Indian Festival: Price Drop on the best noise cancelling earbuds with modern designs and features
+  Save up to 80% on the best noise cancelling earbuds during Amazon Great Indian Festival 2025. Explore top
+  🔗 https://www.livemint.com/technology/gadgets/amazon-great-indian-festival-price-drop-on-the-best-noise-cancelling-earbuds-with-modern-designs-and-features-11758810532683.html
 
-- Stock market today: Trade setup for Nifty 50, Accenture Q4 results to H-1B visa fee concerns; 8 stocks to buy or sell - Mint
-  Stock market today: Trade setup for Nifty 50, Accenture Q4 results to H-1
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxQa09wSWNRMm01c1RfV2I1amY5OWxVR3QzOHJzdFlNcHY5S3BxSWtJaEhsYUVELVpWM1U5N09tMFJ3VmFNNE9qUGxzNXJUVlNwZWxsYWdfNjhfOWVuY1N2THIwODJPZGRQTXkzLW1BOGU3d3dyS00tWEtKTHZRRG1TMzdwdzJCVGdoVE1hMWg0cVpVM0ZUTFljN1VfM1dlZ1BTZ0tuLWEyUXM2VHFHUFMxeUNuY2lWNDRTcE02WFNGSGd1NWNUeXpYcXRIOVRhVU8xc1FhUnZRN28ySGQ1VF8yZ2xDeXNzTTRJNGdWQzhQX3RDVmt5MTJ4THBFQy0zdVRFdmdNTDRFRWoweU1mTTluVXln0gGXAkFVX3lxTE9iWW1xWGZhTEVvQjRyR2paOWtsaTVUOERtU0Y0eDhabk9PLVRiY2RFeWpic3lCVTNFMENrdmtzY3NHRThiemJpUVUwQnF6UE1NRVRiSmxkQWFGc0RBeUhHN3paZnZUbmtiMFNCV0tNSmt4OXg0QVprdXhiRmY3ZkRoLUFHSnhEQzR6dUp6Ql9DSTNnU2dNNkZtTFJJQUxtd25kckNLRHNKVzNvLW1GZThhQXlpa25EZktGQjdRV3dlNFhnTmpuY01OcWhTSFMtSFl4YXZsa1pDZnZrcHhXaC1WWU8zUS1TeXZ1bG42SmRrcU5YU3J1d3N1aGdyZWJzUXhuaHZReE5wX0dEWExMbGFPRXVHbGVmMA?oc=5
+- Indian 10-year bond yield at 6.50%; debt auction cutoffs key
+  Indian government bond yields experienced a slight increase as markets anticipated new debt supply. The auction results are expected to influence market sentiment for the second half of the fiscal year.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-10-year-bond-yield-at-6-50-debt-auction-cutoffs-key/articleshow/124147792.cms
 
-- Could SEBI's potential clampdown on weekly contracts disrupt India's derivatives market? - The Economic Times
-  Could SEBI's potential clampdown on weekly contracts disrupt
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUWh2MVkwTEhPc1FtelVwNW44WnUtZXpHek5SZENSM3o1NF9GZ3BpbHdLQ0h5N1BmSXZyQ2ZwdGltb2RZYmF3RGhrTFZmc3ZEemowX3ozX014Z01NSkUwbGVILU9xVEYwRlZxWk5Sa1otQzF2RnRZdGxsSmwwdUx1YWZSWkt4clF2VVVxQjdrbG1QMEFZUE5aX0o1bnFvWFZUczVWWUhvOExmazRrV2VwbEgtQk81eE1FWGtzYThMSFlZZzk5TmxBSTVQRWFrbDcxTWo2T3ozUER1bHQ2aTZwQ250ckZqZG53M0tGXzdvVkLSAfYBQVVfeXFMTl91QW9QNkpnbXJRVVo1NS15b3hkSG10ek5DOURoNkxEX1dkUXY5RHdZMjlOSjh2azZxdTBSeWlnU2c1cUJHV0ZGVjhyVUNmMk1XZy0wZER1cUdmbjV0cjY5OUpzdmtwSl9hc0ZnalMxcml4aUxqTDdVNEtmdnlLTnA1TFYxQ082M0RNaTg3MHZMcWVjMFh6eTdCODVwSTliV3lzQ3FiV2h3NzExendhMlNPTVpRdGEzaWhTRHFkWDhMeTFNT3JqNlhlcXAwZV8yZFZPQjYyeDRuQ2laM0FPUkdfM092ZzVQODdVaHB2bDFLTzBpWFZ3?oc=5
+- GK Energy shares rally 7% after D-Street debut, IPO investors see 15% gains
+  GK Energy shares climbed 6.6% to ₹175.95
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gk-energy-shares-rally-7-after-d-street-debut-ipo-investors-see-15-gains/articleshow/124147706.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  Indian stock markets saw a fifth day of losses. Nifty dipped below 25,000. Foreign fund outflows and US visa concerns impacted sentiment.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124125306.cms
+- Japanese stocks on track for 11th straight year of seasonal September outflows
+  Foreign investors continued their selling spree of Japanese equities for the second consecutive week. Japanese investors increased their holdings of foreign long-term bonds, marking the fourth consecutive week of net purchases.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/japanese-stocks-on-track-for-11th-straight-year-of-seasonal-september-outflows/articleshow/124147425.cms
 
-- Stocks in news: Infosys, TCS, RIL, NTPC, BHEL, Maruti Suzuki
-  Reliance Consumer Products and Coca-Cola bottlers pledged ₹65,000 crore to boost food processing. NTPC will commence operations at its Nokh Solar Project, while ABB India invests �
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-tcs-ril-ntpc-bhel-maruti-suzuki/articleshow/124125200.cms
+- Jinkushal Industries IPO Day 2: Check GMP, subscription status and other key details
+  Jinkushal Industries' Rs 116.15-crore IPO saw strong investor demand, being fully subscribed on its first day. Retail and NII categories showed robust interest, while QIB interest was
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jinkushal-industries-ipo-day-2-check-gmp-subscription-status-and-other-key-details/articleshow/124147357.cms
 
-- India's REITs surge as SEBI reclassification attracts investor attention
-  SEBI's reclassification of REITs as equity instruments is attracting increased investor interest. This shift is occurring partly at the expense of listed property developers.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-reits-surge-as-sebi-reclassification-attracts-investor-attention/articleshow/124138970.cms
+- Tariffs, tech and market turbulence: Peter Cardillo on what’s driving Wall Street
+  U.S. markets are navigating a complex landscape of new tariffs, a thriving AI sector, and revised economic data. Peter Cardillo suggests the announced pharmaceutical tariffs are a negotiation tactic. He cautions against overemphasizing strong GDP
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/tariffs-tech-and-market-turbulence-peter-cardillo-on-whats-driving-wall-street/articleshow/124147200.cms
 
-- Capital market payments via UPI down 22%
-  UPI transactions for capital market investments experienced a 22% year-on-year decline in volume from June to August. This drop occurred as investors became cautious ahead of the new UPI payment framework aimed at curbing fraud.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/capital-market-payments-via-upi-down-22/articleshow/124138900.cms
+- Trump Declares 100% Tariff On Pharma Imports From October 1, India May Be Hit - NDTV
+  Trump Declares 100% Tariff On Pharma Imports From
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSWoxcTZiYi0xWkdYYlJlaHVtSmZwU1RWdUpWWU1kS0s3RkxjcVhaWGNmdHBUSmlpTS02ZG5pWlBwcFB3UFFYUDlRaGNzRlRnWnVBa2tLNnprZTNJSTFWWUVUdGtiUEpWOHdidUtfQ19fbEdJbjZSbWF4dUcxZF9JTzdGU0F5TXlwTi0zbHRzNHFEekRORGZQeVdTTjAyQ2Y3UVhET1ZLNGZDTjTSAbMBQVVfeXFMT2FHT1FZZl8xd295WnF0aXpPZTExeDZ2WmhrYTE0a2tWczFxNTlCRndjY1dPZkRCNFpjM1hoM2JPVjdtTDZvSXQ5eTRNdFYxWFJjeXdPU2x1T3hMS29TTi1OSXNPNlI1cm90UkxpV05XU1lFelN6YlBEdVJsZHNGQjlJNkw3RUdhVUoyOFp2LUVHbFBsaEUzUGloWmRJMTg0aGVzQ0JYVU9Ua1ZYbFRiZi1RQVU?oc=5
 
-- Could SEBI's potential clampdown on weekly contracts disrupt India's derivatives market?
-  The Securities and Exchange Board of India is considering potential curbs. This follows concerns about speculation by individual traders. Restrictions could impact market liquidity and trading volumes.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/could-sebis-potential-clampdown-on-weekly-contracts-disrupt-indias-derivatives-market/articleshow/124138696.cms
+- Donald Trump’s drug tariff spares generics, but India braces for fallout - The Hindu
+  Donald Trump’s drug tariff spares gener
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOSjI0OU00WTRwc2pXTkFUVzRuWlNUQkN2emxzT0U4a3VzVW5iUTZoam1vMmEtYUtyc2hMTFpEVkYwemg4aE9xTkZXUUZFV0J5V29rX3dOSlh0VkE5V1g5bXczZ3NEVy1YLUphSDFId0x5YUFLbTJNemxPSHlFSU5WMWl5TmlIYkRvSDg1aC1IX2l2ek9YVVUyTGVWdkFhUDE3eUVlZXY1TVlhdUpYbGpHM1NEVk1UOFd3SXF0WEZVbWNHUDRrcXBieElHc00xczjSAdYBQVVfeXFMTjJOS1JwSS1GRWNmNmVRUnNxY3ZneHAxNEZVUy1sQzctWWsySWZGSThDdjFNTjdzYUdYMHBMNXFWR1dQalpoX2JMaVktS19PM2tZa1Mza3RVaFpYN0c5LVl2eUU0eTNXSmQ5cUcxTWtLWkJDTWpLb3g4MjlUbUdmM0JiYjNrSHQtVnN0Y0t1clNWcjNXRDJZUWR2SVlGNGF3dnpIcWZXT0o5U0NiWUdmZERuZFhEQnFid3lYak95UFFmd250YTMwOVNuWmFCRnNvRDNfVGJIdw?oc=5
 
-- Indian Woman Deported From US, Was Denied Bed At Detention Centre: Lawyer - NDTV
-  Indian Woman Deported From US, Was Denied
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNVk9UZ0QwbmFqVFZxYWx1U1hxZDdwVE9CZXNreUc3eThpRzF3UDZKMV90VVZhVHh5Ni1WZUZlZXlZMU9NdmlXc1RlR3N0VnlkMFlsOVNvRVl2U3NLMTFKeXRHaG5sYjZadUpzU2ZkTkt3dEdFNTlkcnNjTVhqb296SnctZzNQWmJPMUhPLXJ6X1dKcEEtMzd5UW5qV1dCUHc1d2hzdlpITW5JcUN2YlZ2bVhWONIBuwFBVV95cUxNUXUzZnVONjdCSEs1SEZvVHRMdnRQZnY2M1Rmd0FTdXNfWDVhTVZFUlctTFVkZ3Ayc0dFUU84UXV6ZUdZNDh1WHZRdXBRVjJsNjdjYVZibGU1U3RON1h0b1JVbmtZaHhMcFYxZ1FnQWVEVTRzRmFpNVY4MkZ6alBEU0Rsc3pfX3pXaGZ1bFRtdzU5bGxKZDYtdW54SzJpYVRXeVRjQkhzMGVaaHFVTXpHaUQ0YlNfWEQ2c2M0?oc=5
+- Supreme Court clears Rs 20,000-crore JSW acquisition deal for Bhushan Steel - India Today
+  The Supreme Court clears Rs 20,000-cro
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPeWdvOFdaMUNZZ3J0UEt4UmdCNDlvR0dKZU5XUTJQTDdaanNkUmxQSTZ4b3QzMDNDb0NJR3B0Ul8xNWdPeWJPcUJ6eFFaMWxLVkFfTzV2Ymx3SE9VSVlFRkNZZXFDd2RWdEhnTHNSSU5KVklhVTRPMmxRcV9YeS15V2JneDc5Y0h1eV9UdWNsTzNwWmgxMm5mSW55dERUTFJ2ZFN2NURBQlRibnpVX1VldW0tRncwU2dVUmhKdlBLa0ptTjN0MGVjWVc5bFNFdW5ORDRqbjJBQ2VwcHhUYk5xMVFBOXU4VGl0OFBWM2RIYkUxTnY2RGg5bl9uNllfOTJXSkHSAYcCQVVfeXFMTzNuYnJQc241UnRNcnZaUEtxNG5OUk9Ud3h2T2RsdVBfUllGNjlrVXV3ZXcxamN2Y2w4UVczbVY0ZDRqZmREOUhHcFotQkdCLXBFbjFuOV9xOU90STR1SjVaazd6V0hhX1ZlUzB3MjZCY2JKRXhfM2hSVTB6dVNzV1hTTVBwYkJMZDFQQlQxOTZRRmdOOEI0YkQ5NURteWYtQmxBV3Y0ZFpWMEtRenNYd2x5S3hQOUpBYXRuMFdpSVVDak9ySFZVRjhGbkdMaHFGdkY3RG5GMzg4bnIzWkNFT2NkeWZlVnFJUUtzdFdMSjU4LUdKa3dZNGx6SDJQS1FrbnNzNERsa2M?oc=5
 
-- Centre Plans Big Indus Gift For North India Ahead Of 2029 Elections - NDTV
-  Centre Plans Big Indus Gift For North India
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ21ra245bzdJS2w5b1B3R3NxNF9GdjY1MndwWGw4RzFiZGVJQnhLTS1XT0xHdGl1SFI0Rjl0bWhZY3ctUlctSXRqOGVhX2xoSW45OXpsMWFaYkJJSk1BTmRsaDg5dWpSbVVtRGJuZW82X21BWEowa2JEU2hTTE5ib2hER0pyc05CU2ZFeG01cTVxWjdIU3hmYU85RVA4MGVxTkdZTDAzcHEwd2fSAbMBQVVfeXFMUEtsMFVjcUl3TjlzRVBESTJnUVBKZDBhZzVjbEcySXVudGdsNnlFYVEyZXI5Ymxyelc4TlA1Y1RzTFYxTFVNTE9mRlJoNU5EVXZOQndpZmgtdE1tTl9KX0QyWm5hc2o3YXI4T3p6LXJlUWJQNENrSng4MnQ5NU1pcjdyaGhHNnVZNHBVQ1J4U3c2WDZBamRfT2RGTXVEclFqdHRLdzd6U2xtb2hkYVkxeUlfY1k?oc=5
+- 1971 war impact - MiG‑21: India’s first supersonic fighter jet retires - The Economic Times
+  The MiG‑21 was India's first su
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0JvY2FzZEc1ZFB6azBzU1d0eExPLXgyeDJtb2dodm83ZEM5Nm51WEVIbi1JUFhFNmJ3cW1PR2hGSHJyalY5RkdfY0M1a002dTNnTDNmTjQ2em9tUEZ5Nzg4RkFBYURhTk5ncGhTLVBSQjV5UmlCMWc3ODJHMFNQOXZVRi1mU3RudDM4RVpONWxXc3haVEhIRExVYmJjZHVud3Y2bkNYVnlCWWt3b3NMVG1IN05pMW5kSjI0M2Y3NnRMc0FfNXZuMnQ0U3IzRFNBTkJZ?oc=5
 
-- Trump announces 100% tariff on pharma products, Indian drugmakers likely to be hit - Hindustan Times
-  Trump announces 100% tariff on pharma products, Indian drug
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZWxGRGtEYV9nSHB0M3g4d3pNbjhlR0N6dExGazdWMERvdmo5NVR4ckoxY2d3QXFHenZMSU9XaUtURmIwMjJ1QXd5YTU0VDN1SGhtcFJpMkk5S3AzQ1hxWXQwd1NhQWoxejF0WklBMEZhVFE3Rm9YZzlhT2p1WVVYQXVEbEN1SFBVcHlYenc4eEtHS09pWVhxb2ljd1lJczRyX1d5OHEzanVUdjZPVVBNa3NXNTJFbHdPdVFQcVhWWENlWTduV1BXcnI3YmRIVGUyMElTZDFxcmlMa1U?oc=5
+- Donald Trump hosts Pak PM Shehbaz Sharif, Asim Munir at White House amid tariff concerns with India | World News - Hindustan Times
+  Donald Trump hosts Pak PM Shehbaz Sharif, Asim Munir at White House amid
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQmxyeWlNbHRUbVFHbnJuMTQ1ZXRNOWVoMktQT0tNYXlBS25iejFvWThXdFpCeS1mYkNGUk4xdFY1TEtzYkZmRVp6SERlaGR0Rl83Nk1RRFdjLUllclVWTkozeWRNVHJjQnJRUGJLWFk0WVZfWnk0NzM4eE1Xb1FqekFxZGgwTER1MmxPZlpnRU91cVluZlBDU1dFSHhRb0NHeURIZ3ZWUlM1TDBlN1BIUThpZ0dwWE9YYjl2UXM4dGNpNDNuYnBJSlZBTE9ZN0ZoaDROTWxWbGxvYnFfTEEwU09TRGVYSmlkVDRKeklTTdIB9AFBVV95cUxPLXZSdVhnTVcwdUVUdDVlMjdYTHhqa2c4a3U5X1VVZDZGSkFlN2JSZU5kcVlENjBqaW5EZ1hLenFITTlDWGI3OHMxekJKS3Vpa0VETHdwbFp3ZnRraEZJbEEzdWtOM3JTb295Q3JCTWt1b1htVGJpbmhlUVdKUG1OQ0hOQzY3Z3dsdmx5WjJjTjNEZU1oOTVURHVqUVIydXAwX21UeUd4MUhOU25rUUJVeEdxeEd0ZzExNlJKUGl1QkJQbnMzQ2F1WlpjTzFfRTBFOGRaSGVCMDR0cG43VkZYYTMyNll4SjRKSlVIUnJ5UGlFc09Y?oc=5
 
-- School dropout rates halved in 2 years, says govt report - Times of India
-  School dropout rates halved in 2 years,
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxORWRaUXJhcWc1MDFocWowSVdGYXUzZlgxWklZbFdEZnpLTHZPM2VrajZmcUE2dmEyRzJ0dXZtQk1JaWVRTHkxYVpudUgtNUVNMkdNMGp2bkVUdjdWVUtfNDdJa3FLNl9VZmZZNXZIMk14QjZYd0puZmRaV0hnZ3FnOU1oN3p1V3dkZ0dGSTJ1X1ZEQjJfaW92dFlNNC1laG5OT054Mnd3YVNEQmhBTDRuSjRrUnVIMlJlYjNDd2pCNzHSAcYBQVVfeXFMTmE5UV9RbzdBLWZJX3NDZWhCOHYwQUozNkRnNlBDS3JKTHpqWE9IWEF2S0hzM1ItT1FrNHBzdmtpRnJUcTdyNGpmOGhzUmVoaVRWNjByZ0JWS0NIZjZoTUg4aUlKLXNHQzJ4ZkJGQzFRV0NzTlFJM3l0MzJtRExhZDJyMXBzU0J2ME1lazNEOFVITWZ4SDZXRXFKcUFRdGl1RDNGc1FhMktEQl9iclRXTkFEeW1Gb09XUFBpSVF6UjMwWXBSNmp3?oc=5
+- Trump Declares 100% Tariff On Pharma Imports From October 1, India May Be Hit - NDTV
+  Trump Declares 100% Tariff On Pharma Imports From
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSWoxcTZiYi0xWkdYYlJlaHVtSmZwU1RWdUpWWU1kS0s3RkxjcVhaWGNmdHBUSmlpTS02ZG5pWlBwcFB3UFFYUDlRaGNzRlRnWnVBa2tLNnprZTNJSTFWWUVUdGtiUEpWOHdidUtfQ19fbEdJbjZSbWF4dUcxZF9JTzdGU0F5TXlwTi0zbHRzNHFEekRORGZQeVdTTjAyQ2Y3UVhET1ZLNGZDTjTSAbMBQVVfeXFMT2FHT1FZZl8xd295WnF0aXpPZTExeDZ2WmhrYTE0a2tWczFxNTlCRndjY1dPZkRCNFpjM1hoM2JPVjdtTDZvSXQ5eTRNdFYxWFJjeXdPU2x1T3hMS29TTi1OSXNPNlI1cm90UkxpV05XU1lFelN6YlBEdVJsZHNGQjlJNkw3RUdhVUoyOFp2LUVHbFBsaEUzUGloWmRJMTg0aGVzQ0JYVU9Ua1ZYbFRiZi1RQVU?oc=5
 
-- ‘We’ll Come Back On Sunday’: Salman Ali Agha Challenges India, Says Pakistan Can Beat Anyone’ - News18
-  ‘We’ll Come Back On Sunday’:
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLVNxdnZLMTJiUzBwSFB1NmVnRDZ4bjF5MHhMQ1J4OU1rLXptRFNJU0NTRjlmdFZqeXQ5RUU5VFYzb0k5YUg1c2c3NU5kZmtjemRYbWZ0TjR1b3dhQkNpNk1tZVh3NFFlSlJycXdRLWdCcG5tOElqR0FOejlvYjNRV0MzZ19HMXFvMFdXVWszb0IwSXhWU29rRWNKaWtNVzZhcW5VWW16RHJ3aEQ1dkItd3RHcjA4Z3JQTlNtaHlxbFh4VzF4UVVDc1lBdnM4SGQ0QmfSAdcBQVVfeXFMTWZUdDFkc0YzM282cHljSXNxSEUtYjJ4cWxZNzFvUWVIR0w3LWY5VGp3ZDMxU2Zfd3R2MUVxQkRjU3Zyel9RcVlUazFpQVF6MXBXMGhfM3haVXVLZm1UNWc3eE9Ebkp2RGdJU2llZzk4d1o1V19GeEY1S0dkTURNOUxldFZUSDNLYWJmeDNIRWpnMjdpcG9zYTNMNmJKeElycnljYkJRX0Fma3JGd3RObTFKUzNXdTlzU1pPT01Yck9DV2ZlTUNzajNIRXNrSWlXc3JFRUtrRGs?oc=5
+- Donald Trump’s drug tariff spares generics, but India braces for fallout - The Hindu
+  Donald Trump’s drug tariff spares gener
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOSjI0OU00WTRwc2pXTkFUVzRuWlNUQkN2emxzT0U4a3VzVW5iUTZoam1vMmEtYUtyc2hMTFpEVkYwemg4aE9xTkZXUUZFV0J5V29rX3dOSlh0VkE5V1g5bXczZ3NEVy1YLUphSDFId0x5YUFLbTJNemxPSHlFSU5WMWl5TmlIYkRvSDg1aC1IX2l2ek9YVVUyTGVWdkFhUDE3eUVlZXY1TVlhdUpYbGpHM1NEVk1UOFd3SXF0WEZVbWNHUDRrcXBieElHc00xczjSAdYBQVVfeXFMTjJOS1JwSS1GRWNmNmVRUnNxY3ZneHAxNEZVUy1sQzctWWsySWZGSThDdjFNTjdzYUdYMHBMNXFWR1dQalpoX2JMaVktS19PM2tZa1Mza3RVaFpYN0c5LVl2eUU0eTNXSmQ5cUcxTWtLWkJDTWpLb3g4MjlUbUdmM0JiYjNrSHQtVnN0Y0t1clNWcjNXRDJZUWR2SVlGNGF3dnpIcWZXT0o5U0NiWUdmZERuZFhEQnFid3lYak95UFFmd250YTMwOVNuWmFCRnNvRDNfVGJIdw?oc=5
+
+- Supreme Court clears Rs 20,000-crore JSW acquisition deal for Bhushan Steel - India Today
+  The Supreme Court clears Rs 20,000-cro
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPeWdvOFdaMUNZZ3J0UEt4UmdCNDlvR0dKZU5XUTJQTDdaanNkUmxQSTZ4b3QzMDNDb0NJR3B0Ul8xNWdPeWJPcUJ6eFFaMWxLVkFfTzV2Ymx3SE9VSVlFRkNZZXFDd2RWdEhnTHNSSU5KVklhVTRPMmxRcV9YeS15V2JneDc5Y0h1eV9UdWNsTzNwWmgxMm5mSW55dERUTFJ2ZFN2NURBQlRibnpVX1VldW0tRncwU2dVUmhKdlBLa0ptTjN0MGVjWVc5bFNFdW5ORDRqbjJBQ2VwcHhUYk5xMVFBOXU4VGl0OFBWM2RIYkUxTnY2RGg5bl9uNllfOTJXSkHSAYcCQVVfeXFMTzNuYnJQc241UnRNcnZaUEtxNG5OUk9Ud3h2T2RsdVBfUllGNjlrVXV3ZXcxamN2Y2w4UVczbVY0ZDRqZmREOUhHcFotQkdCLXBFbjFuOV9xOU90STR1SjVaazd6V0hhX1ZlUzB3MjZCY2JKRXhfM2hSVTB6dVNzV1hTTVBwYkJMZDFQQlQxOTZRRmdOOEI0YkQ5NURteWYtQmxBV3Y0ZFpWMEtRenNYd2x5S3hQOUpBYXRuMFdpSVVDak9ySFZVRjhGbkdMaHFGdkY3RG5GMzg4bnIzWkNFT2NkeWZlVnFJUUtzdFdMSjU4LUdKa3dZNGx6SDJQS1FrbnNzNERsa2M?oc=5
+
+- 1971 war impact - MiG‑21: India’s first supersonic fighter jet retires - The Economic Times
+  The MiG‑21 was India's first su
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0JvY2FzZEc1ZFB6azBzU1d0eExPLXgyeDJtb2dodm83ZEM5Nm51WEVIbi1JUFhFNmJ3cW1PR2hGSHJyalY5RkdfY0M1a002dTNnTDNmTjQ2em9tUEZ5Nzg4RkFBYURhTk5ncGhTLVBSQjV5UmlCMWc3ODJHMFNQOXZVRi1mU3RudDM4RVpONWxXc3haVEhIRExVYmJjZHVud3Y2bkNYVnlCWWt3b3NMVG1IN05pMW5kSjI0M2Y3NnRMc0FfNXZuMnQ0U3IzRFNBTkJZ?oc=5
+
+- Donald Trump hosts Pak PM Shehbaz Sharif, Asim Munir at White House amid tariff concerns with India | World News - Hindustan Times
+  Donald Trump hosts Pak PM Shehbaz Sharif, Asim Munir at White House amid
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQmxyeWlNbHRUbVFHbnJuMTQ1ZXRNOWVoMktQT0tNYXlBS25iejFvWThXdFpCeS1mYkNGUk4xdFY1TEtzYkZmRVp6SERlaGR0Rl83Nk1RRFdjLUllclVWTkozeWRNVHJjQnJRUGJLWFk0WVZfWnk0NzM4eE1Xb1FqekFxZGgwTER1MmxPZlpnRU91cVluZlBDU1dFSHhRb0NHeURIZ3ZWUlM1TDBlN1BIUThpZ0dwWE9YYjl2UXM4dGNpNDNuYnBJSlZBTE9ZN0ZoaDROTWxWbGxvYnFfTEEwU09TRGVYSmlkVDRKeklTTdIB9AFBVV95cUxPLXZSdVhnTVcwdUVUdDVlMjdYTHhqa2c4a3U5X1VVZDZGSkFlN2JSZU5kcVlENjBqaW5EZ1hLenFITTlDWGI3OHMxekJKS3Vpa0VETHdwbFp3ZnRraEZJbEEzdWtOM3JTb295Q3JCTWt1b1htVGJpbmhlUVdKUG1OQ0hOQzY3Z3dsdmx5WjJjTjNEZU1oOTVURHVqUVIydXAwX21UeUd4MUhOU25rUUJVeEdxeEd0ZzExNlJKUGl1QkJQbnMzQ2F1WlpjTzFfRTBFOGRaSGVCMDR0cG43VkZYYTMyNll4SjRKSlVIUnJ5UGlFc09Y?oc=5
+
+- Trump Declares 100% Tariff On Pharma Imports From October 1, India May Be Hit - NDTV
+  Trump Declares 100% Tariff On Pharma Imports From
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSWoxcTZiYi0xWkdYYlJlaHVtSmZwU1RWdUpWWU1kS0s3RkxjcVhaWGNmdHBUSmlpTS02ZG5pWlBwcFB3UFFYUDlRaGNzRlRnWnVBa2tLNnprZTNJSTFWWUVUdGtiUEpWOHdidUtfQ19fbEdJbjZSbWF4dUcxZF9JTzdGU0F5TXlwTi0zbHRzNHFEekRORGZQeVdTTjAyQ2Y3UVhET1ZLNGZDTjTSAbMBQVVfeXFMT2FHT1FZZl8xd295WnF0aXpPZTExeDZ2WmhrYTE0a2tWczFxNTlCRndjY1dPZkRCNFpjM1hoM2JPVjdtTDZvSXQ5eTRNdFYxWFJjeXdPU2x1T3hMS29TTi1OSXNPNlI1cm90UkxpV05XU1lFelN6YlBEdVJsZHNGQjlJNkw3RUdhVUoyOFp2LUVHbFBsaEUzUGloWmRJMTg0aGVzQ0JYVU9Ua1ZYbFRiZi1RQVU?oc=5
+
+- Donald Trump’s drug tariff spares generics, but India braces for fallout - The Hindu
+  Donald Trump’s drug tariff spares gener
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOSjI0OU00WTRwc2pXTkFUVzRuWlNUQkN2emxzT0U4a3VzVW5iUTZoam1vMmEtYUtyc2hMTFpEVkYwemg4aE9xTkZXUUZFV0J5V29rX3dOSlh0VkE5V1g5bXczZ3NEVy1YLUphSDFId0x5YUFLbTJNemxPSHlFSU5WMWl5TmlIYkRvSDg1aC1IX2l2ek9YVVUyTGVWdkFhUDE3eUVlZXY1TVlhdUpYbGpHM1NEVk1UOFd3SXF0WEZVbWNHUDRrcXBieElHc00xczjSAdYBQVVfeXFMTjJOS1JwSS1GRWNmNmVRUnNxY3ZneHAxNEZVUy1sQzctWWsySWZGSThDdjFNTjdzYUdYMHBMNXFWR1dQalpoX2JMaVktS19PM2tZa1Mza3RVaFpYN0c5LVl2eUU0eTNXSmQ5cUcxTWtLWkJDTWpLb3g4MjlUbUdmM0JiYjNrSHQtVnN0Y0t1clNWcjNXRDJZUWR2SVlGNGF3dnpIcWZXT0o5U0NiWUdmZERuZFhEQnFid3lYak95UFFmd250YTMwOVNuWmFCRnNvRDNfVGJIdw?oc=5
+
+- Supreme Court clears Rs 20,000-crore JSW acquisition deal for Bhushan Steel - India Today
+  The Supreme Court clears Rs 20,000-cro
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPeWdvOFdaMUNZZ3J0UEt4UmdCNDlvR0dKZU5XUTJQTDdaanNkUmxQSTZ4b3QzMDNDb0NJR3B0Ul8xNWdPeWJPcUJ6eFFaMWxLVkFfTzV2Ymx3SE9VSVlFRkNZZXFDd2RWdEhnTHNSSU5KVklhVTRPMmxRcV9YeS15V2JneDc5Y0h1eV9UdWNsTzNwWmgxMm5mSW55dERUTFJ2ZFN2NURBQlRibnpVX1VldW0tRncwU2dVUmhKdlBLa0ptTjN0MGVjWVc5bFNFdW5ORDRqbjJBQ2VwcHhUYk5xMVFBOXU4VGl0OFBWM2RIYkUxTnY2RGg5bl9uNllfOTJXSkHSAYcCQVVfeXFMTzNuYnJQc241UnRNcnZaUEtxNG5OUk9Ud3h2T2RsdVBfUllGNjlrVXV3ZXcxamN2Y2w4UVczbVY0ZDRqZmREOUhHcFotQkdCLXBFbjFuOV9xOU90STR1SjVaazd6V0hhX1ZlUzB3MjZCY2JKRXhfM2hSVTB6dVNzV1hTTVBwYkJMZDFQQlQxOTZRRmdOOEI0YkQ5NURteWYtQmxBV3Y0ZFpWMEtRenNYd2x5S3hQOUpBYXRuMFdpSVVDak9ySFZVRjhGbkdMaHFGdkY3RG5GMzg4bnIzWkNFT2NkeWZlVnFJUUtzdFdMSjU4LUdKa3dZNGx6SDJQS1FrbnNzNERsa2M?oc=5
+
+- 1971 war impact - MiG‑21: India’s first supersonic fighter jet retires - The Economic Times
+  The MiG‑21 was India's first su
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0JvY2FzZEc1ZFB6azBzU1d0eExPLXgyeDJtb2dodm83ZEM5Nm51WEVIbi1JUFhFNmJ3cW1PR2hGSHJyalY5RkdfY0M1a002dTNnTDNmTjQ2em9tUEZ5Nzg4RkFBYURhTk5ncGhTLVBSQjV5UmlCMWc3ODJHMFNQOXZVRi1mU3RudDM4RVpONWxXc3haVEhIRExVYmJjZHVud3Y2bkNYVnlCWWt3b3NMVG1IN05pMW5kSjI0M2Y3NnRMc0FfNXZuMnQ0U3IzRFNBTkJZ?oc=5
+
+- Donald Trump hosts Pak PM Shehbaz Sharif, Asim Munir at White House amid tariff concerns with India | World News - Hindustan Times
+  Donald Trump hosts Pak PM Shehbaz Sharif, Asim Munir at White House amid
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQmxyeWlNbHRUbVFHbnJuMTQ1ZXRNOWVoMktQT0tNYXlBS25iejFvWThXdFpCeS1mYkNGUk4xdFY1TEtzYkZmRVp6SERlaGR0Rl83Nk1RRFdjLUllclVWTkozeWRNVHJjQnJRUGJLWFk0WVZfWnk0NzM4eE1Xb1FqekFxZGgwTER1MmxPZlpnRU91cVluZlBDU1dFSHhRb0NHeURIZ3ZWUlM1TDBlN1BIUThpZ0dwWE9YYjl2UXM4dGNpNDNuYnBJSlZBTE9ZN0ZoaDROTWxWbGxvYnFfTEEwU09TRGVYSmlkVDRKeklTTdIB9AFBVV95cUxPLXZSdVhnTVcwdUVUdDVlMjdYTHhqa2c4a3U5X1VVZDZGSkFlN2JSZU5kcVlENjBqaW5EZ1hLenFITTlDWGI3OHMxekJKS3Vpa0VETHdwbFp3ZnRraEZJbEEzdWtOM3JTb295Q3JCTWt1b1htVGJpbmhlUVdKUG1OQ0hOQzY3Z3dsdmx5WjJjTjNEZU1oOTVURHVqUVIydXAwX21UeUd4MUhOU25rUUJVeEdxeEd0ZzExNlJKUGl1QkJQbnMzQ2F1WlpjTzFfRTBFOGRaSGVCMDR0cG43VkZYYTMyNll4SjRKSlVIUnJ5UGlFc09Y?oc=5
+
+- Trump Declares 100% Tariff On Pharma Imports From October 1, India May Be Hit - NDTV
+  Trump Declares 100% Tariff On Pharma Imports From
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSWoxcTZiYi0xWkdYYlJlaHVtSmZwU1RWdUpWWU1kS0s3RkxjcVhaWGNmdHBUSmlpTS02ZG5pWlBwcFB3UFFYUDlRaGNzRlRnWnVBa2tLNnprZTNJSTFWWUVUdGtiUEpWOHdidUtfQ19fbEdJbjZSbWF4dUcxZF9JTzdGU0F5TXlwTi0zbHRzNHFEekRORGZQeVdTTjAyQ2Y3UVhET1ZLNGZDTjTSAbMBQVVfeXFMT2FHT1FZZl8xd295WnF0aXpPZTExeDZ2WmhrYTE0a2tWczFxNTlCRndjY1dPZkRCNFpjM1hoM2JPVjdtTDZvSXQ5eTRNdFYxWFJjeXdPU2x1T3hMS29TTi1OSXNPNlI1cm90UkxpV05XU1lFelN6YlBEdVJsZHNGQjlJNkw3RUdhVUoyOFp2LUVHbFBsaEUzUGloWmRJMTg0aGVzQ0JYVU9Ua1ZYbFRiZi1RQVU?oc=5
+
+- Donald Trump’s drug tariff spares generics, but India braces for fallout - The Hindu
+  Donald Trump’s drug tariff spares gener
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOSjI0OU00WTRwc2pXTkFUVzRuWlNUQkN2emxzT0U4a3VzVW5iUTZoam1vMmEtYUtyc2hMTFpEVkYwemg4aE9xTkZXUUZFV0J5V29rX3dOSlh0VkE5V1g5bXczZ3NEVy1YLUphSDFId0x5YUFLbTJNemxPSHlFSU5WMWl5TmlIYkRvSDg1aC1IX2l2ek9YVVUyTGVWdkFhUDE3eUVlZXY1TVlhdUpYbGpHM1NEVk1UOFd3SXF0WEZVbWNHUDRrcXBieElHc00xczjSAdYBQVVfeXFMTjJOS1JwSS1GRWNmNmVRUnNxY3ZneHAxNEZVUy1sQzctWWsySWZGSThDdjFNTjdzYUdYMHBMNXFWR1dQalpoX2JMaVktS19PM2tZa1Mza3RVaFpYN0c5LVl2eUU0eTNXSmQ5cUcxTWtLWkJDTWpLb3g4MjlUbUdmM0JiYjNrSHQtVnN0Y0t1clNWcjNXRDJZUWR2SVlGNGF3dnpIcWZXT0o5U0NiWUdmZERuZFhEQnFid3lYak95UFFmd250YTMwOVNuWmFCRnNvRDNfVGJIdw?oc=5
+
+- Supreme Court clears Rs 20,000-crore JSW acquisition deal for Bhushan Steel - India Today
+  The Supreme Court clears Rs 20,000-cro
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPeWdvOFdaMUNZZ3J0UEt4UmdCNDlvR0dKZU5XUTJQTDdaanNkUmxQSTZ4b3QzMDNDb0NJR3B0Ul8xNWdPeWJPcUJ6eFFaMWxLVkFfTzV2Ymx3SE9VSVlFRkNZZXFDd2RWdEhnTHNSSU5KVklhVTRPMmxRcV9YeS15V2JneDc5Y0h1eV9UdWNsTzNwWmgxMm5mSW55dERUTFJ2ZFN2NURBQlRibnpVX1VldW0tRncwU2dVUmhKdlBLa0ptTjN0MGVjWVc5bFNFdW5ORDRqbjJBQ2VwcHhUYk5xMVFBOXU4VGl0OFBWM2RIYkUxTnY2RGg5bl9uNllfOTJXSkHSAYcCQVVfeXFMTzNuYnJQc241UnRNcnZaUEtxNG5OUk9Ud3h2T2RsdVBfUllGNjlrVXV3ZXcxamN2Y2w4UVczbVY0ZDRqZmREOUhHcFotQkdCLXBFbjFuOV9xOU90STR1SjVaazd6V0hhX1ZlUzB3MjZCY2JKRXhfM2hSVTB6dVNzV1hTTVBwYkJMZDFQQlQxOTZRRmdOOEI0YkQ5NURteWYtQmxBV3Y0ZFpWMEtRenNYd2x5S3hQOUpBYXRuMFdpSVVDak9ySFZVRjhGbkdMaHFGdkY3RG5GMzg4bnIzWkNFT2NkeWZlVnFJUUtzdFdMSjU4LUdKa3dZNGx6SDJQS1FrbnNzNERsa2M?oc=5
+
+- 1971 war impact - MiG‑21: India’s first supersonic fighter jet retires - The Economic Times
+  The MiG‑21 was India's first su
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0JvY2FzZEc1ZFB6azBzU1d0eExPLXgyeDJtb2dodm83ZEM5Nm51WEVIbi1JUFhFNmJ3cW1PR2hGSHJyalY5RkdfY0M1a002dTNnTDNmTjQ2em9tUEZ5Nzg4RkFBYURhTk5ncGhTLVBSQjV5UmlCMWc3ODJHMFNQOXZVRi1mU3RudDM4RVpONWxXc3haVEhIRExVYmJjZHVud3Y2bkNYVnlCWWt3b3NMVG1IN05pMW5kSjI0M2Y3NnRMc0FfNXZuMnQ0U3IzRFNBTkJZ?oc=5
+
+- Donald Trump hosts Pak PM Shehbaz Sharif, Asim Munir at White House amid tariff concerns with India | World News - Hindustan Times
+  Donald Trump hosts Pak PM Shehbaz Sharif, Asim Munir at White House amid
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQmxyeWlNbHRUbVFHbnJuMTQ1ZXRNOWVoMktQT0tNYXlBS25iejFvWThXdFpCeS1mYkNGUk4xdFY1TEtzYkZmRVp6SERlaGR0Rl83Nk1RRFdjLUllclVWTkozeWRNVHJjQnJRUGJLWFk0WVZfWnk0NzM4eE1Xb1FqekFxZGgwTER1MmxPZlpnRU91cVluZlBDU1dFSHhRb0NHeURIZ3ZWUlM1TDBlN1BIUThpZ0dwWE9YYjl2UXM4dGNpNDNuYnBJSlZBTE9ZN0ZoaDROTWxWbGxvYnFfTEEwU09TRGVYSmlkVDRKeklTTdIB9AFBVV95cUxPLXZSdVhnTVcwdUVUdDVlMjdYTHhqa2c4a3U5X1VVZDZGSkFlN2JSZU5kcVlENjBqaW5EZ1hLenFITTlDWGI3OHMxekJKS3Vpa0VETHdwbFp3ZnRraEZJbEEzdWtOM3JTb295Q3JCTWt1b1htVGJpbmhlUVdKUG1OQ0hOQzY3Z3dsdmx5WjJjTjNEZU1oOTVURHVqUVIydXAwX21UeUd4MUhOU25rUUJVeEdxeEd0ZzExNlJKUGl1QkJQbnMzQ2F1WlpjTzFfRTBFOGRaSGVCMDR0cG43VkZYYTMyNll4SjRKSlVIUnJ5UGlFc09Y?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-26 01:09:26 UTC_
+_Last updated: 2025-09-26 06:26:37 UTC_
