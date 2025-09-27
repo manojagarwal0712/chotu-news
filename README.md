@@ -1,244 +1,232 @@
 # 📰 Daily News Summaries
 
-- Gauhati University to rename Centre for Performing Arts after singer Zubeen Garg
+- Pakistani ‘person of interest’ arrested recently was in touch with Sonam Wangchuk, sending reports across border, claims Ladakh DGP
   
-  🔗 https://indianexpress.com/article/india/gauhati-university-to-rename-centre-for-performing-arts-after-singer-zubeen-garg-10274272/
+  🔗 https://indianexpress.com/article/india/pakistani-person-interest-arrested-in-touch-sonam-wangchuk-sending-reports-border-ladakh-dgp-10275052/
 
-- Rahul Gandhi embarks on 4-nation South America visit
+- After lawyer ‘threatened’ court during hearing, Jharkhand HC takes a stern view, Bar Council chief intervenes
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-4-nation-south-america-visit-10274226/
+  🔗 https://indianexpress.com/article/india/after-lawyer-threatened-court-jharkhand-hc-bar-council-chief-10275053/
 
-- Vatican-themed Durga Puja pandal irks BJP, VHP in Jharkhand: ‘Probe who funded this?’
+- On support to CPM over Sabarimala, influential Nair outfit clears the air: ‘We have no politics, govt has changed its approach’
   
-  🔗 https://indianexpress.com/article/india/vatican-themed-durga-puja-pandal-sparks-controversy-in-jharkhand-10273915/
+  🔗 https://indianexpress.com/article/india/support-cpm-sabarimala-nair-outfit-kerala-10274998/
 
-- News Today Live Updates, 27 September | Around Town: How a 10th pass Sindhi compounder built Bandra’s famous and celebrity-approved Elco Pani Puri Centre
+- Ahead of Bihar polls, Railways decides to begin construction of Sultanganj-Katoria rail line
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-09-27-2025-news-headlines-10274030/
+  🔗 https://indianexpress.com/article/india/ahead-of-bihar-polls-railways-decides-to-begin-construction-of-sultanganj-katoria-rail-line-10274928/
 
-- These 12 tourist destinations are open again in J&K as post-Pahalgam curbs are lifted
+- Tripura woman uses derogatory words against Agartala Mayor on social media, booked
   
-  🔗 https://indianexpress.com/article/india/12-more-tourist-destinations-reopened-in-j-k-after-lt-governor-reviews-post-pahalgam-security-situation-10273942/
+  🔗 https://indianexpress.com/article/india/tripura-woman-abused-mayor-booked-10274809/
 
-- ByteDance expected to maintain big role in new US TikTok, sources say
+- Google Nano Banana trends: From Garba outfits to photobooth-style images, and more
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/bytedance-expected-to-maintain-big-role-in-new-us-tiktok-sources-say-10274201/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/3-google-nano-banana-trends-creating-your-garba-look-headshot-for-work-or-photobooth-style-images-10274909/
 
-- This laptop can run for a full week on a single charge
+- Scientists unveil Flagship 2, the largest universe simulation ever with 3.4 billion galaxies
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/this-laptop-can-run-for-a-full-week-on-a-single-charge-10273257/
+  🔗 https://indianexpress.com/article/technology/science/euclid-flagship-2-universe-simulation-3-4-billion-galaxy-10274725/
 
-- Xiaomi 17 series with Snapdragon 8 Elite Gen 5 announced: Check price, specs and other details
+- Sam Altman claims AGI will take over 40% of tasks in the near future
   
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/xiaomi-17-pro-max-specs-features-price-india-launch-10272415/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/agi-ai-sam-altman-job-impact-sam-altman-openai-ceo-10274497/
 
-- Forza Horizon 6 to release in 2026, will be based in Japan
+- Skullcandy unveils Uproar TWS with quad microphones and ENC at Rs 2,499
   
-  🔗 https://indianexpress.com/article/technology/gaming/forza-horizon-6-to-release-in-2026-will-be-based-in-japan-10272893/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/skullcandy-unveils-uproar-tws-with-quad-microphones-and-enc-at-rs-2499-10274659/
 
-- One wrong call: How fake helpline numbers are scamming people out of their money
+- Jio’s 5 most affordable plans under Rs 350: Here’s all you need to know
   
-  🔗 https://indianexpress.com/article/technology/one-wrong-call-how-fake-helpline-numbers-are-scamming-people-out-of-their-money-10272641/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/jios-5-most-affordable-plans-under-rs-350-heres-all-you-need-to-know-10274513/
 
-- ByteDance could still keep 50% profit after selling majority share in TikTok US deal | 5 points
-   ByteDance is expected to retain about 50 per cent of the US operation's profits after selling majority ownership.
-  🔗 https://www.livemint.com/companies/news/bytedance-still-get-around-50-percent-profit-selling-majority-share-donald-trump-tiktok-us-deal-license-revenue-5-points-11758937846876.html
+- "Destroyed Runways Look Like Victory?" India Mocks Shehbaz Sharif's Claim - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWW
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWWI0OFdsR2JYanRaWXRvampHVURQTVJ1TUkwUWhWTHhtdTl6b2tnMFA0SjBQX2tldTgyUi1MNmw3NTJodjFKejlJc1k1OUln0gG3AUFVX3lxTFBTM3h1RWwwN1VHRVoxcG1nX2c1aTV5RDlUN3ROQTBiMnY4MlN2V0VxVHBsU0ZXZWV3Ny1GR0N0Vk01bU1RbXNFT0M0ZkM2WHBVYXUyeDN6aUcwT1pza2c2RENTbERzcXd4cGh1Q1QwdTUtOGdQREVGNlNGZDgwTm5hUGFKd3M2bnQ5YzZpTXNCcGhCdnA1dGxWd0g1TUNhY3A0WkUwYVBpT3dZVWZIU19DZ0Z6Wk9vRQ?oc=5
 
-- Boeing agrees to pay $50,000 to settle lawsuit over 2024 suicide of whistle blower: What we know
-  Boeing has agreed to settle a wrongful death lawsuit with the family of quality inspector and whistle blower John Barnett. Barnett died by suicide in 2024.
-  🔗 https://www.livemint.com/companies/news/boeing-agrees-to-pay-usd-50000-settle-lawsuit-2024-suicide-whistle-blower-quality-inspector-details-see-claim-legal-fees-11758937793922.html
+- 'Unwarranted': India pulls up Turkey's Erdogan over UN speech; what triggered row? - The Times of India
+  'Unwarranted': India pulls up Turkey's Erdogan over UN
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUURFcC1HNHdZR2RqcVIyWGs5Z2x4SmM3TS1Zc1VpUUFBNnJGN1hfUnVYRmZFR3UxLUZBRmx3Yk5TN1p0NXY0dEIzcUFyeWdvemJ0Qm1jX1lhSnVhY2lOSGU5c2pReFdEeVI1UFUxU2IybGE2NXQ3V1RpUFFTdEJ0YlJXcUJfWVRNRmlnSWFZWklzcTFhS0ZsczVHZ1MyUFRsR3hvb0tFWlFBTm1RU2owNnNKaUwzcVFjLTdyVGdUek1oZjR6VnktbFlWTnprWERCWHlDSkp6cjJ3T2FhQ2RUb21Ba3RkWm5kREpLTVcyeV9TN044bUR4UzhtMnJQUdIBgwJBVV95cUxNYjUzTFFScV81cUszd01RNjVaRzJtQUZSd2lWMmNWdEQ3NnQ3Y1h5b3J2Y1c5NjR2SUpGc2MwdzZjTkZCM1hhOFlhbVlQeDhpTW96R2MxVlFzWGZQd0Y0N1RFZV92LVFSN0xyMUxBUVp3RERGQWZhb3pOUnFITkxOMTYzcDdZVkZoc0hIRFJqOGJrNjVOeFd2azZHd1diTDBkdW92aVgtbU0yeFByRXdOZWhXMkVNMG5MdkU0ZmdXb05jOEdtUmVJbE84cjE1cTJBSy1JWG80c3c1WWxmTGFPWUlKRXZaVVVNZ1FZSGtDeUZrNzZsQ3NacXdFMjRBR25ZbFR3?oc=5
 
-- What to know about the stricter rules coming to noncitizen truck drivers after fatal Florida crash
-  Trucks will have to stop for noncitizen
-  🔗 https://www.livemint.com/companies/news/what-to-know-about-the-stricter-rules-coming-to-noncitizen-truck-drivers-after-fatal-florida-crash-11758934822681.html
+- "This Is Zubeen's Assam, Won't Allow It To Become Nepal": Himanta Sarma - NDTV
+  "This Is Zubeen's Assam,
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTm9Ca2otRVhYQUgyQVJnbjNWbDVWaWxiMEJ1dG1ycHd6dGd4akZ1N2xpX2JPQzBjUkpVN09yOGNlZ1RVWHlUaGpodFI3QWFYcGhlX0FVOHVFbGEtYmdjM2NDaVlFcEFrdnZCM1A2bFJKUUdEVTlmM0w2cExqeGduVGUzS1gtSUhsSHNuQUlSU2ZIUnhkemNIMml2dkxLQU9JY21wZ1FkVWHSAbABQVVfeXFMUHo2QzVhS1NaRGFib3ByV0N1Mmx1eTQ4blh3U1JPdmdQbjNvRGxMSGFURVlGS24zYXpuTXpzcmxVQmQ5VlZuTkpjVi0xTEF3MW1UMFZUSFAtanAyRGVtem9yd0tSNnJ0NWxrNzBWN0JGOXpqc3BQOTRDYnhjN2t0dUFuZHNMdXdONmFQSGprN3JDRVpNdVdXSlZyZXJ0MlFPbnVsaS1DNmdOOFZzbEZFVHI?oc=5
 
-- Tata Motors names Shailesh Chandra as new CEO amid JLR hacking; who is he?
-  Shailesh Chandra and Dhiman Gupta's leadership announcement comes at a time when Tata Motors is faced with disruptions at Jaguar Land
-  🔗 https://www.livemint.com/companies/people/tata-motors-names-shailesh-chandra-as-new-ceo-amid-jlr-hacking-who-is-he-cfo-dhiman-gupta-11758933888263.html
+- Pakistani military pleaded for cessation of fighting during Operation Sindoor: India exercises Right of Reply at UNGA - The Hindu
+  Pakistani military pleaded for cessation of fighting during Operation Sindoor. India exercises Right
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxObG1VNnhWQng0UzE5Z0tWV2REdVU3a3pDT09rTzZLY3ZsQkJ6U2h1LVFxN2VJY1NXN09rSEd4elJlSnNvOW5qNTNkUkFKZnFRWXkyUE1rQXQ1UkxHQlI1S3hidS1hbGRlY2lodEJZRGlMQUQ2ZENUS1RWNVE3UkRMMm8wX1NsenJieWRJQUs2cnpJdGdDdU1CM2xlaGFSal84YUZMQzBscnQ0Rk1Xb2lwalRERnJpY2VSMzdqc1JyblFYaTVrX0ZSQVFMS3NuMExkd0syY2kxc3lody12UmlYMC1HRVNESzdVMXB6enZCcTVjcnpOWTJrWmdRbDlpOHFobnJVWVdR0gGMAkFVX3lxTE5CbnNMTGMyZGRwM05qbmVocXJjbUt1RmgzRllpcFM5N3Q5NFZZMHJwN0NaMXptWFdKeHFkdGFwUGJoM3pNdmhOLVV1S1FodjZkX2ZueFBSeDNGQ2VSdkZwMHFjTmxkeEhKcHd6LVR4TmJscmdPaTVlVHA0enp4NDZ0dnpUVGtmU2hHY245cnZyY0otOC1GUFotclYzaGpKVzhmTGxhRlBZb0ppbXhBTGlyZGdITTFid0drbFZuMTRNRnAtLU1rUndobG9iU05tZVhaeUMwcTBrSFYtWU9nc2NjbVlRUVRXQjNSdm1fNURXVk9kaHF4cXk4TEY1Sk50N0dfQkFCNUdFTTJKaWo?oc=5
 
-- PTC stake sale saga: NTPC’s buyout plan hits an NHPC wall
-  NTPC made a bid to buy out the company’s co-promoters but hit a wall. NHPC, which had earlier attempted a similar buyout but dropped the plan
-  🔗 https://www.livemint.com/companies/ptc-india-ntpc-buyout-plan-hits-nhpc-wall-ptc-promoters-stake-thermal-power-11758859701128.html
-
-- Sunsky Logistics IPO: BSE SME IPO opens soon — Price band, date, other details you should know
-  Sunsky Logistics provides third-party logistics services, including freight forwarding, customs clearance, door-to-door delivery, inland
-  🔗 https://www.livemint.com/market/ipo/sunsky-logistics-ipo-bse-sme-ipo-opens-soon-price-band-date-other-details-you-should-know-11758948336551.html
-
-- Stock market this week: Top gainers and losers driving Nifty and Sensex
-  A comprehensive recap of the week ending September 26, 2025. Highlights the biggest market movers, top news events,
-  🔗 https://www.livemint.com/market/stock-market-news/weekend-wrap-september-26-stock-market-bse-nse-top-gainers-and-losers-mutual-funds-ipo-nfo-nifty50-elss-11758277313707.html
-
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 29 September 2025
-  Sumeet Bagadia recommends three stocks to buy on Monday.
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-29-september-2025-11758948898283.html
-
-- Upcoming NSE SME IPO: Munish Forge IPO opens next week; Price, date, other details in 10 points
-  Munish Forge Ltd, which will float the NSE SME IPO next week, acts as a key supplier to the Indian Army. It makes battle tank
-  🔗 https://www.livemint.com/market/ipo/upcoming-nse-sme-ipo-munish-forge-ipo-opens-next-week-price-date-other-details-in-10-points-11758944265534.html
-
-- BSE share price tanks 30% from record high. Is the bottom around or more pain ahead?
-  BSE share price has been nosediving after climbing to a new
-  🔗 https://www.livemint.com/market/stock-market-news/bse-share-price-tanks-30-from-record-high-is-the-bottom-around-or-more-pain-ahead-11758943663685.html
-
-- Untold story of Google’s green ‘L’ – A 27-year-old design blunder or hidden genius?
-  Google celebrates its 27th birthday with a special Doodle featuring its first 1998 logo. In this article, we decode the idea behind the different colours chosen in the logo.
-  🔗 https://www.livemint.com/technology/tech-news/google-turns-27-why-the-l-in-the-original-logo-is-green-the-story-behind-the-colours-11758952076092.html
-
-- Apple tests next-gen Siri with ChatGPT-like app to improve user experience: Report
-  Apple is reportedly developing an internal iPhone app called Veritas. The app could enable efficient testing of features, supporting complex conversations and interactions.
-  🔗 https://www.livemint.com/technology/tech-news/apple-tests-next-gen-siri-with-chatgpt-like-app-to-improve-user-experience-report-11758947688120.html
-
-- Hackers are flooding the internet with fake FIFA 2026 sites – Here’s what to watch out for
-  Over 4,300 fake domains mimicking FIFA and host cities. Check Point Research warns of phishing, fake ticket sites, botnet abuse, and counterfeit merchandise.
-  🔗 https://www.livemint.com/technology/tech-news/hackers-are-flooding-the-internet-with-fake-fifa-2026-sites-here-s-what-to-watch-out-for-11758941422649.html
-
-- Happy birthday to Google… 27 today? Check out the nostalgic logo
-  Google turns 27 today, celebrating with special offers on Pixel devices. September 4 also holds significance in the company's history
-  🔗 https://www.livemint.com/technology/happy-birthday-to-google-27-today-check-out-the-nostalgic-logo-11758936875125.html
-
-- Poco F8 Ultra leak: Snapdragon 8 Elite Gen 5 SoC, 7000mAh battery and 100W fast charging tipped
-  Fresh leaks of Poco F8 Ultra have surfaced online. Leaks indicate a 120Hz LTPO OLED display, 50MP quad-camera system, ultrasonic fingerprint sensor, and IP69
-  🔗 https://www.livemint.com/technology/tech-news/poco-f8-ultra-leak-snapdragon-8-elite-gen-5-7-000mah-battery-and-100w-fast-charging-expected-11758936316568.html
-
-- Stock Market News Sept. 26, 2025: Dow Rises After Trump Unveils New Tariffs - The Wall Street Journal
-  The Wall Street Journal published a story on September 26, 2025,
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPNnhBV0VqUGY3TThiTjRoTURfQTJlRFl6TFpXYU5ZLUFDRE9jOGhQTFljamZzU1pIOGxVTDR0U3plSWNBLVB6eGVNTDhockc0STROUm1OMkhqQWhkZGdyUXhLcVA1QVpPZmM4ajFPQlZSelh5UjMyLUJtX2VTOGZGcUVPei02aVU?oc=5
+- News Today Live Updates, 27 September | Pakistani ‘person of interest’ arrested recently was in touch with Sonam Wangchuk, sending reports across border, claims Ladakh DGP - The Indian Express
+  Pakistani ‘person of interest’ arrested recently was in touch with Sonam Wangchuk, sending reports across border, claims
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaWIyaF9UXzZpdTVVTkNCUi1YeWlNOFl5eThEVGtKY3VpRDZBcFBRSTJNZ3Z4dU9HUzFDLWk4M2h3SnVnYTZWQlNCVE5Nd3A3X1NaLVd3R0FhZ0dXVWd3WDhjU2V3UWlXaDhoNGJEZE5QR3dIRkNDTzdwcTBoSWNWLUJ4S3dycVBQOVJ3N0ZTb3JJemdxek5LaEdWOXp2RkJGN1NoMWNNMHAxXzB1WE9YQnZsWGtMLWMxUEhWX1c0YW0zajFxdTZNQmh3UUstTk5tdWtfMThkZkFhYm9JSGcwbDBmV0p5Y19a0gHvAUFVX3lxTE9PRWVLTHMzcmdvSl9ubGt2Zk9PTHBfYXhBUW5ZeEhqWThRQWFTc3ppTE1hRUtfd3lOUDlLNVdzVG54ck56Qm9reHJPR3hZX3ctYnk0UVFjTWRVTWk1R21zVVdZeS1XU3VEVXR6cW5RZ2Y2b3BkUkEwczNyMk8xQUowRkJQUW55Z3FQN2ZodUdZUlpnYmlLaHBPVUhHRUpCYTFqYnBrLXNnS1REZjNqRjViY2dDc0VFaEp6cW1KLUhXcWhuSm5FZ3E1dXcyc1BEV3dZMXU5bkFidHpMdHpYSVg5Wm5SdTNLcDZ3UzQ0YzNZ?oc=5
 
 - Stocks close higher Friday after in-line inflation data, but S&P 500 snaps 3-week winning streak - CNBC
   Stocks close higher Friday after in-line inflation data, but
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBjaUJvZVVRd3R6azFXQ3hNY1dWMzIwU2JwX2UxMl96LWtrWWNmTHFoUVVxbW43MDZRZXFrOTVLajdyWm5jbWRPbHNHRFlqNU9iVVlIcFlEelZSWC00ellOdmZDd3FpaVJqaU1RY29yTWFOdENiSUEw0gF8QVVfeXFMT0tTdHEtMy1EdWwtUFVDdUhnWkphUFZLdEVoX2c2N2hVcHI5QkRCTkZDdzZBUV90TTJPRGF3LUhhWHBBSWtldU9kazc4ejdzY1hNUHVEMjJGZzQ0RWFhaHFna2lsdFM1SjJjVkZWLU8wakZsN1hzenM4c01qQg?oc=5
 
-- Stock market this week: Top gainers and losers driving Nifty and Sensex - Mint
-  Stock market this week: Top gainers and losers
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxNTC1LcjdxdEl3RGFHcURRWThpZkxZWTJ2NTMyei1xT1Y5QVFjeXhIM2FIUHljTHJaLVhtNjlBVzVXRmswcUo3VjVsYUhsVy1UZ3pCMGktQUIta21UOTNDWkZJRzJpQ1ctTHBwT2hJX3ZNdlN0V0U3QlI2ejRxRkdjMFFOZWlKVmxvbWs1Y1dVTVZ6QUlzUU5VbExDb1hGZU1SMDhTdkxCNGdHZkJYakJDeEx6b252SjZqWGVqRWVJNmNhMnh5MEh5dExoMG5hQ0Z0aEJiSEZrUW9VanhGYWZ2MlhOT2tKdUV3RENJSTYzelNmcnJadHU1M1p2MXpDV3VmNjFr0gGIAkFVX3lxTFBTdDRQbXVWRGt3NjN2cEpWLTNrN1VRdzRNY2VYWGhLdlJtYmpaallwNEFJNEVkTkVPaWExdTFCRFJEM0xISVVGc0VrRkpGS2pHWUVIOWdzSUhUcUdlcmZNb1J6Nm9Ec1VUY1hLVkZ2cUN5LUpMZmtVUG5rd0R1RGwyZUwxaEY3MXhsc1dSLVA3OWlyUWNsVVRzd1FCVW5GRGFNTHo3cE1ZdmUtRkg0RDQ0MW9JMjI1am1la0Q1MlJaRllhdjZxSy16cUxkUkIwUEdSQ1g2bWdQZjQ3VGR5NW9OeXFBTTVVLWI2LS1MbllIakVtRy1BSHROOTRlaHdxeXFheUJBdGgwYw?oc=5
+- Stock Market News Sept. 26, 2025: Dow Rises After Trump Unveils New Tariffs - The Wall Street Journal
+  The Wall Street Journal published a story on September 26, 2025,
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPNnhBV0VqUGY3TThiTjRoTURfQTJlRFl6TFpXYU5ZLUFDRE9jOGhQTFljamZzU1pIOGxVTDR0U3plSWNBLVB6eGVNTDhockc0STROUm1OMkhqQWhkZGdyUXhLcVA1QVpPZmM4ajFPQlZSelh5UjMyLUJtX2VTOGZGcUVPei02aVU?oc=5
 
-- Don't allocate more than 8-10% to gold and silver now: Marcellus’ Krishnan VR explains why - The Economic Times
-  Don't allocate more than 8-10% to gold and silver now,
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbFFuSTRRNzJNYUVsM3hTNTdUVjhCZEd0eE9NZ1oyM05Kd1ZzMk5zdU9kVUxnV3R0WkYzZFllN3c3MXF1b29CTnFlVFRrSE9nNm42MFhzWW5Rc2VCM3VoWVJDYUpQOWZqS0x1VjNzTFpRSDNQSk12dVREekp1bXM3V1VJWVZ3U3dKY3RZOVh1LVRCWEZZQ0FqSHBhVXVQT0VCRWRVcGhJTDFGcjFoYXMxU25Lay0yRHBwbFBlbndvVElaSVJNSUZjVVMyUkxNM1JUeVZGWDNyZjRTOUVLdDRkTnBMUms3RGVyT3VlczZKcDVzNWQyekNZ0gH3AUFVX3lxTFBsUW5JNFE3Mk1hRWwzeFM1N1RWOEJkR3R4T01nWjIzTkp3VnMyTnN1T2RVTGdXdHRaRjNkWWU3dzcxcXVvb0JOcWVUVGtIT2c2bjYwWHNZblFzZUIzdWhZUkNhSlA5ZmpLTHVWM3NMWlFIM1BKTXZ1VER6SnVtczdXVUlZVndTd0pjdFk5WHUtVEJYRllDQWpIcGFVdVBPRUJFZFVwaElMMUZyMWhhczFTbktrLTJEcHBsUGVud29USVpJUk1JRmNVUzJSTE0zUlR5VkZYM3JmNFM5RUt0NGROcExSazdEZXJPdWVzNkpwNXM1ZDJ6Q1k?oc=5
+- Nifty, Bank Nifty face pressure; Rajesh Palviya warns IT may weaken further - The Economic Times
+  The Economic Times: Nifty, Bank Nifty face pressure
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdGhzOXlUNFRjd3dkWkh4ZURZTmpmbm10Njc5VWhfbGNsUkRvUGNSVl9lMTV5MjBUR1FORzNlb2xBb0lwTGZ1RzI2QldvYzdQNFZoR0hBNDdybEV4a1VTN0tXQ1dMTVQ2VWJ0QXFqRlFybXJMNURiSWYtSEszbk1BRFl5OFBaX18xT09mZ0ZNZ3ktOXpTbE0xeEd2dWdXWTRYaEw4YUFsQW91bHVoRzd0Vm9WM19CZHR3emJzeWdEbnFNUnJsQWJQLUVpVG1LQ1NXcDRPSzYzSjVqV05hcWt5b05pcjhYUdIB5gFBVV95cUxQdGhzOXlUNFRjd3dkWkh4ZURZTmpmbm10Njc5VWhfbGNsUkRvUGNSVl9lMTV5MjBUR1FORzNlb2xBb0lwTGZ1RzI2QldvYzdQNFZoR0hBNDdybEV4a1VTN0tXQ1dMTVQ2VWJ0QXFqRlFybXJMNURiSWYtSEszbk1BRFl5OFBaX18xT09mZ0ZNZ3ktOXpTbE0xeEd2dWdXWTRYaEw4YUFsQW91bHVoRzd0Vm9WM19CZHR3emJzeWdEbnFNUnJsQWJQLUVpVG1LQ1NXcDRPSzYzSjVqV05hcWt5b05pcjhYUQ?oc=5
 
 - Stock Buyers Step In as Data Keep Fed Bets in Play: Markets Wrap - Bloomberg.com
   Stock Buyers Step In as Data Keep Fed Bets
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0FVSXVDMXlMYVZ0QTVLb2wxd05uTVFBMWlXUzRlVWRiWnlONUE3VHdEODRhZ0ZLQnZ0MEJVYnhVOVBFNXlrN2RkaE9KTzZDQzREQnBvVjcwSTBkX0ZTZG1RMmk3QnlwUExVMlNLdng5QVl6RFFKSWtDMjJReXFqVkNqWWxJNEJiVUY4X3lqNE5wR2Rf?oc=5
 
-- Nifty drain jewels? TCS, Infosys, DMart among 5 biggies with zero returns in last four years
-  Once market favourites, TCS, Infosys, DMart, Asian Paints and H
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-drain-jewels-tcs-infosys-dmart-among-5-biggies-with-zero-returns-in-last-four-years/slideshow/124177350.cms
+- Double-Fomo driving US markets - Financial Times
+  Double-F
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE9Pb0RFQ3R6RGJGOWxPNC1HaUNibDIyN3Q0T2N3bHNmYVBRZmlTNzNkMk9Ic3J3Q1ZhUF9rWGZvQ3dUSHJ1QVpDT0ZDM0ZSLXhMLWI3UG1jalNBdDFTVVlYdThjTi1OeDNFLWRLT1lVSVI?oc=5
 
-- Smart picks: 5 IPOs that could offer up to 20% returns next week
-  A handful of IPOs lined up for debut next week are indicating potential double-digit returns. Some are tipped
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/smart-picks-5-ipos-that-could-offer-up-to-20-returns-next-week/slideshow/124177271.cms
+- OnePlus Buds 3r Review: Budget TWS that punches above its weight
+  The OnePlus Nord Buds 3r offer decent sound quality, a comfortable fit, and a long battery life of over 40 hours. Priced under  ₹1,500, they
+  🔗 https://www.livemint.com/technology/tech-reviews/oneplus-buds-3r-review-budget-tws-that-punches-above-its-weight-11758974303201.html
 
-- Don't allocate more than 8-10% to gold and silver now: Marcellus’ Krishnan VR explains why
-  Krishnan VR of Marcellus Investment Managers advises limiting gold and silver allocation to 8–10% despite record returns. He stresses equities as core,
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/dont-allocate-more-than-8-10-to-gold-and-silver-now-marcellus-krishnan-vr-explains-why/articleshow/124177212.cms
+- Google DeepMind introduces Gemini Robotics 1.5 – WATCH robots plan, analyse, and act
+  Google DeepMind has launched two Gemini Robotics AI models. ER 1.5 plans tasks using reasoning and tools, while 1. 5 executes actions from visual input and instructions.
+  🔗 https://www.livemint.com/technology/tech-news/google-deepmind-introduces-gemini-robotics-1-5-watch-robots-plan-analyse-and-act-11758964754961.html
 
-- European shares recover from three-week lows, but weekly momentum fizzles
-  European stocks rebounded Friday, with the STOXX 600 gaining 0.8%. Steel producers surged on reports of potential EU tariffs against Chinese imports. Healthcare stocks ended flat despite new US drug tariffs.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/european-shares-recover-from-three-week-lows-but-weekly-momentum-fizzles/articleshow/124176499.cms
+- 5 gaming laptops for beginners that come under budget
+  Explore 5 gaming laptops under budget with dedicated GPUs, high refresh rate displays &amp;amp; SSD
+  🔗 https://www.livemint.com/technology/gadgets/5-gaming-laptops-for-beginners-that-come-under-budget-11758960223138.html
 
-- Quick Medicine Delivery Co Plazza Raises $1.4 m in Round led by All In Capital
-  Plazza plans to expand its product categories and increase its store footprint in Bengaluru. It will also offer healthy snacks and baby care products.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/quick-medicine-delivery-co-plazza-raises-1-4-m-in-round-led-by-all-in-capital/articleshow/124176439.cms
+- iPhone 14 Pro, 13 Pro Max and 12 Pro lead refurbished market as 3 in 5 buyers pick Apple: Report
+  Apple continues to lead India’s refurbished smartphone market with a 62.9% share. Three in five buyers prefer iPhones, especially iPhone 14 Pro, 13 Pro Max, and 12 Pro.
+  🔗 https://www.livemint.com/technology/tech-news/iphone-14-pro-13-pro-max-and-12-pro-lead-refurbished-market-as-3-in-5-buyers-pick-apple-report-11758959371963.html
 
-- India slams Shehbaz Sharif's UNGA speech: 'No shame… Pakistan sheltered Osama bin Laden' | Latest News India - Hindustan Times
-  India slams Shehbaz Sharif's UNGA speech: 'No shame…
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVZHOG1xQWJwaVNmN3lmVVAzR3dpYkd1N1FoZk9DRFZnVVRVVTR5Ykx1WUl6R25oZlRrSEZ2ZmN5cEt3VGxYMDROOHpTR3FyMFpwS2FNdkNVMjlqcDN5dndkeE9SUkVaQ3FKVlRhbm5sN2pUZXdrZHpMYUhJVFpWNlUtWFBJeHFVSS12QzE1THRLWEJ2bTNRaDZFTlpOYWpqUTc3YklSa3JpbzFQOWdIMi1TNXFfcTJ1Qy1YZlRWVV92WDlJR2FkQ3VyMkVRMlJ5d1YtbHJKaXhySVdIdGo40gHkAUFVX3lxTE54REJLazVoV1UyOFNkVDdENzFEdU5GVXhCak9uaXRUY052SWNLdHlWbVNvMEhJS2hCeGJ4QTZGLXp5Q3A4c1dMUDFsTUcydWNWck82MXJjdHltYlRjLVRTU0VoV2gtVDdkeWtUSlMwdnZXSDNneUZ6RGs2LWJoZmppMXhuRm1zbDBLS21xVl9aRWRFQklEWmg2MUFZSkYzVklQQW1OQVBRTGlaRmxtX0xjcl9EWUxzZGdOcTFGcmdYLUYxenh2U05reFVZdm5udm9TUzFQUkZLLUZZNGJyQjZjUnVhMg?oc=5
+- Facebook and Instagram to get paid ad-free option in the UK: Pricing, features, details
+  Facebook and Instagram will soon offer paid ad-free versions on the web and mobile apps in the UK. Users over 18 can subscribe or continue using the free ad-supported
+  🔗 https://www.livemint.com/technology/tech-news/facebook-and-instagram-to-get-paid-ad-free-option-in-the-uk-pricing-features-details-11758955578829.html
 
-- Pakistani PM Shehbaz Sharif appeals for India talks in UNGA address, hails Trump role in mediation - The Hindu
-  Pakistani PM Shehbaz Sharif appeals for India talks in UNGA
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOU3lYNUdfeW9tZTd6Y0pwcnd2ZXlfOHIwR0JIamxkbEtmNy1ZOEZaanpwc3pCbXN6Q09xR1BiQmZfYkx6VDRFbG1MNTh4Q2xrUHFmc2p1bmhUbWVGcHdSWGxGQlVCRDRObFp2aE9zUFlKWHZjMXBxNzY0T1V4em1NR2lwT2c4dGtVM0dwZTBUNWVlcHhvZ0d2U3VrbDdzQy1HLW1GcTl0aTkyWXFYR3ZDXzhKN0VUcUM3di1tV21CbHNmcllablB0MEphelJuR3ZuekVfTkVfYV9laU1oRzEw0gHmAUFVX3lxTE4zVHFaZmx2ak5VZjFsNEFJN2c2RFN2MmJFTjRZZnFZTklTaU4wWnMwMGtxUV8zN0Nab1NCNW12dWw1ckgtalBwemwyWGZ0UzFMZWYyNWNYbjRSSkdfNkg4WmxISFMtWXVqaEp3aUgyWjgzUGhEdkJJUldHSmVaWDNKYWw2bGlzVy1nSmk1QTlQWjY4UWk5UUVNbzlWam5tblYwdkdfWTN1ZGxpajRkWDlDX2o4U2J1a2xjTU9iZ05FNk80RUEtME5nZHR0OFJ3ZFhSeTdKeWxScWtfQmh4bDJrc2E4RnhB?oc=5
+- Behari Lal Engineering,  CSM Technologies file draft papers with Sebi to launch IPOs
+  Behari Lal Engineering and CSM Technologies have filed draft papers with Sebi for their IPOs. Behari Lal seeks to raise Rs 110 crore via fresh issue and OFS, while CSM
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/behari-lal-engineering-csm-technologies-file-drhps-with-sebi-to-launch-ipo/articleshow/124181443.cms
 
-- India tears into Pakistan PM Shehbaz Sharif's UN speech. What did he say? ‘Hindutva-driven extremism…’ | Latest News India - Hindustan Times
-  India tears into Pakistan PM Shehbaz Sharif's UN speech. What did he say
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcURXOE5iVEdidFE5MTFUQ0lIX19ISDZSVDdkTzd0WmF5ZzNBaG95SnA5SlhvcmlRWjFXdURQMDh4QlpkenJCbS1Va1A5NGFnSXdGZWszNWFzLW42THJabWdjUXI5TGdQVUFzWTlRRmdsWW1VRnM4Z1RGN3BlSWxVbFoyYjE3bENKVnNuVHJnNjhXVnp0MjVJNjIwRk1fc0YtWG9ZWnp1Z1BSOGRpZ1hFZmVXaEdCN2F4akp6YkRRaWlnQ0RaNU5ickVQeGthVVZPdmhhUDZ1ZkxqaklLX3kzX2hpYlc3ZjBIaEM4NGtTaETSAfYBQVVfeXFMTkx5bDdYcjBnSW5Bc2d0aE42ZDhuMDd1Tk81dFBTTDRTSGsya2NvRXpfcldrWFVwYjJ0ZFRCVHVILTJPQ2tXLVdrQXNjRVNEdHU3VXZZWmlSdFpHTVQtMFd2NFIzTVF0aGdmU1NOUTRWVlBzazZ2NHhDQWkwZEJBWjRWNEY0R3gwZTlBZUlFN3k0OTlDN1owU0NER1p5cFJyVmd5c2JNUV9TaHFSUGQtazdhdXJaanFnc2M0WTZJVWNUVGdleDR2ejF4eWRSajViWHR3MVl5NVZra0Y3R0haV2dqR1R6d3dSWGViQk50N1Y3aTNSNElB?oc=5
+- Nifty, Bank Nifty face pressure; Rajesh Palviya warns IT may weaken further
+  Rajesh Palviya of Axis Securities sees Nifty and Bank Nifty under pressure. He expects IT stocks to remain weak and advises selective trades
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-bank-nifty-face-pressure-rajesh-palviya-warns-it-may-weaken-further/articleshow/124180611.cms
 
-- 'Unwarranted': India pulls up Turkey's Erdogan over UN speech; what triggered row? - The Times of India
-  'Unwarranted': India pulls up Turkey's Erdogan over UN
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUURFcC1HNHdZR2RqcVIyWGs5Z2x4SmM3TS1Zc1VpUUFBNnJGN1hfUnVYRmZFR3UxLUZBRmx3Yk5TN1p0NXY0dEIzcUFyeWdvemJ0Qm1jX1lhSnVhY2lOSGU5c2pReFdEeVI1UFUxU2IybGE2NXQ3V1RpUFFTdEJ0YlJXcUJfWVRNRmlnSWFZWklzcTFhS0ZsczVHZ1MyUFRsR3hvb0tFWlFBTm1RU2owNnNKaUwzcVFjLTdyVGdUek1oZjR6VnktbFlWTnprWERCWHlDSkp6cjJ3T2FhQ2RUb21Ba3RkWm5kREpLTVcyeV9TN044bUR4UzhtMnJQUdIBgwJBVV95cUxNYjUzTFFScV81cUszd01RNjVaRzJtQUZSd2lWMmNWdEQ3NnQ3Y1h5b3J2Y1c5NjR2SUpGc2MwdzZjTkZCM1hhOFlhbVlQeDhpTW96R2MxVlFzWGZQd0Y0N1RFZV92LVFSN0xyMUxBUVp3RERGQWZhb3pOUnFITkxOMTYzcDdZVkZoc0hIRFJqOGJrNjVOeFd2azZHd1diTDBkdW92aVgtbU0yeFByRXdOZWhXMkVNMG5MdkU0ZmdXb05jOEdtUmVJbE84cjE1cTJBSy1JWG80c3c1WWxmTGFPWUlKRXZaVVVNZ1FZSGtDeUZrNzZsQ3NacXdFMjRBR25ZbFR3?oc=5
+- F&amp;O Talk| Nifty slides nearly 3% to erase 60% of 3-week gains; 6 red sessions push index near 24,400. Is 24k next? Sudeep Shah explains
+  Indian equity markets witnessed a sharp 2.5% plunge this week, ending a three-week rally. Global trade tensions, H-1B visa concerns, and FII selling fueled the downturn, severely impacting IT stocks.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-slides-nearly-3-to-erase-60-of-3-week-gains-6-red-sessions-push-index-near-24400-is-24k-next-sudeep-shah-explains/articleshow/124180040.cms
 
-- ‘Babbar Khalsa International terrorist Pindi extradited from Abu Dhabi to India,’ says Punjab DGP - The Hindu
-  Babbar Khalsa International terrorist Pindi extradited from
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxORXA0R3M5c3ZXbHR5RERyZnZ5eTJfYXN3NlV2bFFpV1hvQkRnS3lZeHoxTXAxbmk1VlI3d0xrNFF1TjE3TjI5eG9nMWRDc3VIXzVDYWo1dkNZVHdySWdVbVZQOE5OeTNKUmRuTWNQOTBVUmN2a0JpSGV0TU1HZFNxby1sZ25DMkN5M01GdXdQWE8tNWtOS2JxbGxNTnhJc3N4UmRzSENOSWVkeGdSaUktUWQtaUZxQmdEQWotRy1paWxVeGZZdUs2NHp1cnMwcDdMX3ZRMUJoNlRrRk5MREpwTlYyTEtDejRp0gHvAUFVX3lxTE1PdjZkdzVGUmdzYnc2aFJXZU9SbjhVS19oTzY2UGZERTVKUzhOYWpHZ0k3VEFveDFsLVVOcWFyaE5IeGRLZDdONk1JS284Si01dzJuRXNjbjhFNFgxR2FZOVpQdE9ZYmZwWnE5dENFanQxWXhUM2JWc21iSjd6MTZRcE1XM29RZ3NJX0wyb1FodE9UOG4ybFY3OExmWEdlMTNWNFg4bmNLbi1nb1dyNzl6VVkzMVBEZlk4c2hSWk80a2hTZ3p1SG5hNWV3d3c0eGdKQW8tbWFIQjZpMktQM09Lcm0wSjVpTlJydmhXT2Jj?oc=5
+- Market outlook cautious as FIIs, global risks keep investors on edge: Sunil Subramaniam
+  Short-term focus is on consumer sectors, while long-term opportunities lie in real estate, industrials, and PSU banks. Market direction remains uncertain amid
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-outlook-cautious-as-fiis-global-risks-keep-investors-on-edge-sunil-subramaniam/articleshow/124179612.cms
 
-- India slams Shehbaz Sharif's UNGA speech: 'No shame… Pakistan sheltered Osama bin Laden' | Latest News India - Hindustan Times
-  India slams Shehbaz Sharif's UNGA speech: 'No shame…
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVZHOG1xQWJwaVNmN3lmVVAzR3dpYkd1N1FoZk9DRFZnVVRVVTR5Ykx1WUl6R25oZlRrSEZ2ZmN5cEt3VGxYMDROOHpTR3FyMFpwS2FNdkNVMjlqcDN5dndkeE9SUkVaQ3FKVlRhbm5sN2pUZXdrZHpMYUhJVFpWNlUtWFBJeHFVSS12QzE1THRLWEJ2bTNRaDZFTlpOYWpqUTc3YklSa3JpbzFQOWdIMi1TNXFfcTJ1Qy1YZlRWVV92WDlJR2FkQ3VyMkVRMlJ5d1YtbHJKaXhySVdIdGo40gHkAUFVX3lxTE54REJLazVoV1UyOFNkVDdENzFEdU5GVXhCak9uaXRUY052SWNLdHlWbVNvMEhJS2hCeGJ4QTZGLXp5Q3A4c1dMUDFsTUcydWNWck82MXJjdHltYlRjLVRTU0VoV2gtVDdkeWtUSlMwdnZXSDNneUZ6RGs2LWJoZmppMXhuRm1zbDBLS21xVl9aRWRFQklEWmg2MUFZSkYzVklQQW1OQVBRTGlaRmxtX0xjcl9EWUxzZGdOcTFGcmdYLUYxenh2U05reFVZdm5udm9TUzFQUkZLLUZZNGJyQjZjUnVhMg?oc=5
+- HSBC picks 11 stocks to ride FII return after 12-month absence. Do you own any?
+  HSBC names 11 Indian stocks to watch as foreign institutional investors eye a comeback after a 12-month hiatus. Potential
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hsbc-picks-11-stocks-to-ride-fii-return-after-12-month-absence-do-you-own-any/slideshow/124179582.cms
 
-- Pakistani PM Shehbaz Sharif appeals for India talks in UNGA address, hails Trump role in mediation - The Hindu
-  Pakistani PM Shehbaz Sharif appeals for India talks in UNGA
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOU3lYNUdfeW9tZTd6Y0pwcnd2ZXlfOHIwR0JIamxkbEtmNy1ZOEZaanpwc3pCbXN6Q09xR1BiQmZfYkx6VDRFbG1MNTh4Q2xrUHFmc2p1bmhUbWVGcHdSWGxGQlVCRDRObFp2aE9zUFlKWHZjMXBxNzY0T1V4em1NR2lwT2c4dGtVM0dwZTBUNWVlcHhvZ0d2U3VrbDdzQy1HLW1GcTl0aTkyWXFYR3ZDXzhKN0VUcUM3di1tV21CbHNmcllablB0MEphelJuR3ZuekVfTkVfYV9laU1oRzEw0gHmAUFVX3lxTE4zVHFaZmx2ak5VZjFsNEFJN2c2RFN2MmJFTjRZZnFZTklTaU4wWnMwMGtxUV8zN0Nab1NCNW12dWw1ckgtalBwemwyWGZ0UzFMZWYyNWNYbjRSSkdfNkg4WmxISFMtWXVqaEp3aUgyWjgzUGhEdkJJUldHSmVaWDNKYWw2bGlzVy1nSmk1QTlQWjY4UWk5UUVNbzlWam5tblYwdkdfWTN1ZGxpajRkWDlDX2o4U2J1a2xjTU9iZ05FNk80RUEtME5nZHR0OFJ3ZFhSeTdKeWxScWtfQmh4bDJrc2E4RnhB?oc=5
-
-- India tears into Pakistan PM Shehbaz Sharif's UN speech. What did he say? ‘Hindutva-driven extremism…’ | Latest News India - Hindustan Times
-  India tears into Pakistan PM Shehbaz Sharif's UN speech. What did he say
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcURXOE5iVEdidFE5MTFUQ0lIX19ISDZSVDdkTzd0WmF5ZzNBaG95SnA5SlhvcmlRWjFXdURQMDh4QlpkenJCbS1Va1A5NGFnSXdGZWszNWFzLW42THJabWdjUXI5TGdQVUFzWTlRRmdsWW1VRnM4Z1RGN3BlSWxVbFoyYjE3bENKVnNuVHJnNjhXVnp0MjVJNjIwRk1fc0YtWG9ZWnp1Z1BSOGRpZ1hFZmVXaEdCN2F4akp6YkRRaWlnQ0RaNU5ickVQeGthVVZPdmhhUDZ1ZkxqaklLX3kzX2hpYlc3ZjBIaEM4NGtTaETSAfYBQVVfeXFMTkx5bDdYcjBnSW5Bc2d0aE42ZDhuMDd1Tk81dFBTTDRTSGsya2NvRXpfcldrWFVwYjJ0ZFRCVHVILTJPQ2tXLVdrQXNjRVNEdHU3VXZZWmlSdFpHTVQtMFd2NFIzTVF0aGdmU1NOUTRWVlBzazZ2NHhDQWkwZEJBWjRWNEY0R3gwZTlBZUlFN3k0OTlDN1owU0NER1p5cFJyVmd5c2JNUV9TaHFSUGQtazdhdXJaanFnc2M0WTZJVWNUVGdleDR2ejF4eWRSajViWHR3MVl5NVZra0Y3R0haV2dqR1R6d3dSWGViQk50N1Y3aTNSNElB?oc=5
+- "Destroyed Runways Look Like Victory?" India Mocks Shehbaz Sharif's Claim - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWW
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWWI0OFdsR2JYanRaWXRvampHVURQTVJ1TUkwUWhWTHhtdTl6b2tnMFA0SjBQX2tldTgyUi1MNmw3NTJodjFKejlJc1k1OUln0gG3AUFVX3lxTFBTM3h1RWwwN1VHRVoxcG1nX2c1aTV5RDlUN3ROQTBiMnY4MlN2V0VxVHBsU0ZXZWV3Ny1GR0N0Vk01bU1RbXNFT0M0ZkM2WHBVYXUyeDN6aUcwT1pza2c2RENTbERzcXd4cGh1Q1QwdTUtOGdQREVGNlNGZDgwTm5hUGFKd3M2bnQ5YzZpTXNCcGhCdnA1dGxWd0g1TUNhY3A0WkUwYVBpT3dZVWZIU19DZ0Z6Wk9vRQ?oc=5
 
 - 'Unwarranted': India pulls up Turkey's Erdogan over UN speech; what triggered row? - The Times of India
   'Unwarranted': India pulls up Turkey's Erdogan over UN
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUURFcC1HNHdZR2RqcVIyWGs5Z2x4SmM3TS1Zc1VpUUFBNnJGN1hfUnVYRmZFR3UxLUZBRmx3Yk5TN1p0NXY0dEIzcUFyeWdvemJ0Qm1jX1lhSnVhY2lOSGU5c2pReFdEeVI1UFUxU2IybGE2NXQ3V1RpUFFTdEJ0YlJXcUJfWVRNRmlnSWFZWklzcTFhS0ZsczVHZ1MyUFRsR3hvb0tFWlFBTm1RU2owNnNKaUwzcVFjLTdyVGdUek1oZjR6VnktbFlWTnprWERCWHlDSkp6cjJ3T2FhQ2RUb21Ba3RkWm5kREpLTVcyeV9TN044bUR4UzhtMnJQUdIBgwJBVV95cUxNYjUzTFFScV81cUszd01RNjVaRzJtQUZSd2lWMmNWdEQ3NnQ3Y1h5b3J2Y1c5NjR2SUpGc2MwdzZjTkZCM1hhOFlhbVlQeDhpTW96R2MxVlFzWGZQd0Y0N1RFZV92LVFSN0xyMUxBUVp3RERGQWZhb3pOUnFITkxOMTYzcDdZVkZoc0hIRFJqOGJrNjVOeFd2azZHd1diTDBkdW92aVgtbU0yeFByRXdOZWhXMkVNMG5MdkU0ZmdXb05jOEdtUmVJbE84cjE1cTJBSy1JWG80c3c1WWxmTGFPWUlKRXZaVVVNZ1FZSGtDeUZrNzZsQ3NacXdFMjRBR25ZbFR3?oc=5
 
-- ‘Babbar Khalsa International terrorist Pindi extradited from Abu Dhabi to India,’ says Punjab DGP - The Hindu
-  Babbar Khalsa International terrorist Pindi extradited from
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxORXA0R3M5c3ZXbHR5RERyZnZ5eTJfYXN3NlV2bFFpV1hvQkRnS3lZeHoxTXAxbmk1VlI3d0xrNFF1TjE3TjI5eG9nMWRDc3VIXzVDYWo1dkNZVHdySWdVbVZQOE5OeTNKUmRuTWNQOTBVUmN2a0JpSGV0TU1HZFNxby1sZ25DMkN5M01GdXdQWE8tNWtOS2JxbGxNTnhJc3N4UmRzSENOSWVkeGdSaUktUWQtaUZxQmdEQWotRy1paWxVeGZZdUs2NHp1cnMwcDdMX3ZRMUJoNlRrRk5MREpwTlYyTEtDejRp0gHvAUFVX3lxTE1PdjZkdzVGUmdzYnc2aFJXZU9SbjhVS19oTzY2UGZERTVKUzhOYWpHZ0k3VEFveDFsLVVOcWFyaE5IeGRLZDdONk1JS284Si01dzJuRXNjbjhFNFgxR2FZOVpQdE9ZYmZwWnE5dENFanQxWXhUM2JWc21iSjd6MTZRcE1XM29RZ3NJX0wyb1FodE9UOG4ybFY3OExmWEdlMTNWNFg4bmNLbi1nb1dyNzl6VVkzMVBEZlk4c2hSWk80a2hTZ3p1SG5hNWV3d3c0eGdKQW8tbWFIQjZpMktQM09Lcm0wSjVpTlJydmhXT2Jj?oc=5
+- "This Is Zubeen's Assam, Won't Allow It To Become Nepal": Himanta Sarma - NDTV
+  "This Is Zubeen's Assam,
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTm9Ca2otRVhYQUgyQVJnbjNWbDVWaWxiMEJ1dG1ycHd6dGd4akZ1N2xpX2JPQzBjUkpVN09yOGNlZ1RVWHlUaGpodFI3QWFYcGhlX0FVOHVFbGEtYmdjM2NDaVlFcEFrdnZCM1A2bFJKUUdEVTlmM0w2cExqeGduVGUzS1gtSUhsSHNuQUlSU2ZIUnhkemNIMml2dkxLQU9JY21wZ1FkVWHSAbABQVVfeXFMUHo2QzVhS1NaRGFib3ByV0N1Mmx1eTQ4blh3U1JPdmdQbjNvRGxMSGFURVlGS24zYXpuTXpzcmxVQmQ5VlZuTkpjVi0xTEF3MW1UMFZUSFAtanAyRGVtem9yd0tSNnJ0NWxrNzBWN0JGOXpqc3BQOTRDYnhjN2t0dUFuZHNMdXdONmFQSGprN3JDRVpNdVdXSlZyZXJ0MlFPbnVsaS1DNmdOOFZzbEZFVHI?oc=5
 
-- India slams Shehbaz Sharif's UNGA speech: 'No shame… Pakistan sheltered Osama bin Laden' | Latest News India - Hindustan Times
-  India slams Shehbaz Sharif's UNGA speech: 'No shame…
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVZHOG1xQWJwaVNmN3lmVVAzR3dpYkd1N1FoZk9DRFZnVVRVVTR5Ykx1WUl6R25oZlRrSEZ2ZmN5cEt3VGxYMDROOHpTR3FyMFpwS2FNdkNVMjlqcDN5dndkeE9SUkVaQ3FKVlRhbm5sN2pUZXdrZHpMYUhJVFpWNlUtWFBJeHFVSS12QzE1THRLWEJ2bTNRaDZFTlpOYWpqUTc3YklSa3JpbzFQOWdIMi1TNXFfcTJ1Qy1YZlRWVV92WDlJR2FkQ3VyMkVRMlJ5d1YtbHJKaXhySVdIdGo40gHkAUFVX3lxTE54REJLazVoV1UyOFNkVDdENzFEdU5GVXhCak9uaXRUY052SWNLdHlWbVNvMEhJS2hCeGJ4QTZGLXp5Q3A4c1dMUDFsTUcydWNWck82MXJjdHltYlRjLVRTU0VoV2gtVDdkeWtUSlMwdnZXSDNneUZ6RGs2LWJoZmppMXhuRm1zbDBLS21xVl9aRWRFQklEWmg2MUFZSkYzVklQQW1OQVBRTGlaRmxtX0xjcl9EWUxzZGdOcTFGcmdYLUYxenh2U05reFVZdm5udm9TUzFQUkZLLUZZNGJyQjZjUnVhMg?oc=5
+- Pakistani military pleaded for cessation of fighting during Operation Sindoor: India exercises Right of Reply at UNGA - The Hindu
+  Pakistani military pleaded for cessation of fighting during Operation Sindoor. India exercises Right
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxObG1VNnhWQng0UzE5Z0tWV2REdVU3a3pDT09rTzZLY3ZsQkJ6U2h1LVFxN2VJY1NXN09rSEd4elJlSnNvOW5qNTNkUkFKZnFRWXkyUE1rQXQ1UkxHQlI1S3hidS1hbGRlY2lodEJZRGlMQUQ2ZENUS1RWNVE3UkRMMm8wX1NsenJieWRJQUs2cnpJdGdDdU1CM2xlaGFSal84YUZMQzBscnQ0Rk1Xb2lwalRERnJpY2VSMzdqc1JyblFYaTVrX0ZSQVFMS3NuMExkd0syY2kxc3lody12UmlYMC1HRVNESzdVMXB6enZCcTVjcnpOWTJrWmdRbDlpOHFobnJVWVdR0gGMAkFVX3lxTE5CbnNMTGMyZGRwM05qbmVocXJjbUt1RmgzRllpcFM5N3Q5NFZZMHJwN0NaMXptWFdKeHFkdGFwUGJoM3pNdmhOLVV1S1FodjZkX2ZueFBSeDNGQ2VSdkZwMHFjTmxkeEhKcHd6LVR4TmJscmdPaTVlVHA0enp4NDZ0dnpUVGtmU2hHY245cnZyY0otOC1GUFotclYzaGpKVzhmTGxhRlBZb0ppbXhBTGlyZGdITTFid0drbFZuMTRNRnAtLU1rUndobG9iU05tZVhaeUMwcTBrSFYtWU9nc2NjbVlRUVRXQjNSdm1fNURXVk9kaHF4cXk4TEY1Sk50N0dfQkFCNUdFTTJKaWo?oc=5
 
-- Pakistani PM Shehbaz Sharif appeals for India talks in UNGA address, hails Trump role in mediation - The Hindu
-  Pakistani PM Shehbaz Sharif appeals for India talks in UNGA
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOU3lYNUdfeW9tZTd6Y0pwcnd2ZXlfOHIwR0JIamxkbEtmNy1ZOEZaanpwc3pCbXN6Q09xR1BiQmZfYkx6VDRFbG1MNTh4Q2xrUHFmc2p1bmhUbWVGcHdSWGxGQlVCRDRObFp2aE9zUFlKWHZjMXBxNzY0T1V4em1NR2lwT2c4dGtVM0dwZTBUNWVlcHhvZ0d2U3VrbDdzQy1HLW1GcTl0aTkyWXFYR3ZDXzhKN0VUcUM3di1tV21CbHNmcllablB0MEphelJuR3ZuekVfTkVfYV9laU1oRzEw0gHmAUFVX3lxTE4zVHFaZmx2ak5VZjFsNEFJN2c2RFN2MmJFTjRZZnFZTklTaU4wWnMwMGtxUV8zN0Nab1NCNW12dWw1ckgtalBwemwyWGZ0UzFMZWYyNWNYbjRSSkdfNkg4WmxISFMtWXVqaEp3aUgyWjgzUGhEdkJJUldHSmVaWDNKYWw2bGlzVy1nSmk1QTlQWjY4UWk5UUVNbzlWam5tblYwdkdfWTN1ZGxpajRkWDlDX2o4U2J1a2xjTU9iZ05FNk80RUEtME5nZHR0OFJ3ZFhSeTdKeWxScWtfQmh4bDJrc2E4RnhB?oc=5
+- News Today Live Updates, 27 September | Pakistani ‘person of interest’ arrested recently was in touch with Sonam Wangchuk, sending reports across border, claims Ladakh DGP - The Indian Express
+  Pakistani ‘person of interest’ arrested recently was in touch with Sonam Wangchuk, sending reports across border, claims
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaWIyaF9UXzZpdTVVTkNCUi1YeWlNOFl5eThEVGtKY3VpRDZBcFBRSTJNZ3Z4dU9HUzFDLWk4M2h3SnVnYTZWQlNCVE5Nd3A3X1NaLVd3R0FhZ0dXVWd3WDhjU2V3UWlXaDhoNGJEZE5QR3dIRkNDTzdwcTBoSWNWLUJ4S3dycVBQOVJ3N0ZTb3JJemdxek5LaEdWOXp2RkJGN1NoMWNNMHAxXzB1WE9YQnZsWGtMLWMxUEhWX1c0YW0zajFxdTZNQmh3UUstTk5tdWtfMThkZkFhYm9JSGcwbDBmV0p5Y19a0gHvAUFVX3lxTE9PRWVLTHMzcmdvSl9ubGt2Zk9PTHBfYXhBUW5ZeEhqWThRQWFTc3ppTE1hRUtfd3lOUDlLNVdzVG54ck56Qm9reHJPR3hZX3ctYnk0UVFjTWRVTWk1R21zVVdZeS1XU3VEVXR6cW5RZ2Y2b3BkUkEwczNyMk8xQUowRkJQUW55Z3FQN2ZodUdZUlpnYmlLaHBPVUhHRUpCYTFqYnBrLXNnS1REZjNqRjViY2dDc0VFaEp6cW1KLUhXcWhuSm5FZ3E1dXcyc1BEV3dZMXU5bkFidHpMdHpYSVg5Wm5SdTNLcDZ3UzQ0YzNZ?oc=5
 
-- India tears into Pakistan PM Shehbaz Sharif's UN speech. What did he say? ‘Hindutva-driven extremism…’ | Latest News India - Hindustan Times
-  India tears into Pakistan PM Shehbaz Sharif's UN speech. What did he say
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcURXOE5iVEdidFE5MTFUQ0lIX19ISDZSVDdkTzd0WmF5ZzNBaG95SnA5SlhvcmlRWjFXdURQMDh4QlpkenJCbS1Va1A5NGFnSXdGZWszNWFzLW42THJabWdjUXI5TGdQVUFzWTlRRmdsWW1VRnM4Z1RGN3BlSWxVbFoyYjE3bENKVnNuVHJnNjhXVnp0MjVJNjIwRk1fc0YtWG9ZWnp1Z1BSOGRpZ1hFZmVXaEdCN2F4akp6YkRRaWlnQ0RaNU5ickVQeGthVVZPdmhhUDZ1ZkxqaklLX3kzX2hpYlc3ZjBIaEM4NGtTaETSAfYBQVVfeXFMTkx5bDdYcjBnSW5Bc2d0aE42ZDhuMDd1Tk81dFBTTDRTSGsya2NvRXpfcldrWFVwYjJ0ZFRCVHVILTJPQ2tXLVdrQXNjRVNEdHU3VXZZWmlSdFpHTVQtMFd2NFIzTVF0aGdmU1NOUTRWVlBzazZ2NHhDQWkwZEJBWjRWNEY0R3gwZTlBZUlFN3k0OTlDN1owU0NER1p5cFJyVmd5c2JNUV9TaHFSUGQtazdhdXJaanFnc2M0WTZJVWNUVGdleDR2ejF4eWRSajViWHR3MVl5NVZra0Y3R0haV2dqR1R6d3dSWGViQk50N1Y3aTNSNElB?oc=5
-
-- 'Unwarranted': India pulls up Turkey's Erdogan over UN speech; what triggered row? - The Times of India
-  'Unwarranted': India pulls up Turkey's Erdogan over UN
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUURFcC1HNHdZR2RqcVIyWGs5Z2x4SmM3TS1Zc1VpUUFBNnJGN1hfUnVYRmZFR3UxLUZBRmx3Yk5TN1p0NXY0dEIzcUFyeWdvemJ0Qm1jX1lhSnVhY2lOSGU5c2pReFdEeVI1UFUxU2IybGE2NXQ3V1RpUFFTdEJ0YlJXcUJfWVRNRmlnSWFZWklzcTFhS0ZsczVHZ1MyUFRsR3hvb0tFWlFBTm1RU2owNnNKaUwzcVFjLTdyVGdUek1oZjR6VnktbFlWTnprWERCWHlDSkp6cjJ3T2FhQ2RUb21Ba3RkWm5kREpLTVcyeV9TN044bUR4UzhtMnJQUdIBgwJBVV95cUxNYjUzTFFScV81cUszd01RNjVaRzJtQUZSd2lWMmNWdEQ3NnQ3Y1h5b3J2Y1c5NjR2SUpGc2MwdzZjTkZCM1hhOFlhbVlQeDhpTW96R2MxVlFzWGZQd0Y0N1RFZV92LVFSN0xyMUxBUVp3RERGQWZhb3pOUnFITkxOMTYzcDdZVkZoc0hIRFJqOGJrNjVOeFd2azZHd1diTDBkdW92aVgtbU0yeFByRXdOZWhXMkVNMG5MdkU0ZmdXb05jOEdtUmVJbE84cjE1cTJBSy1JWG80c3c1WWxmTGFPWUlKRXZaVVVNZ1FZSGtDeUZrNzZsQ3NacXdFMjRBR25ZbFR3?oc=5
-
-- ‘Babbar Khalsa International terrorist Pindi extradited from Abu Dhabi to India,’ says Punjab DGP - The Hindu
-  Babbar Khalsa International terrorist Pindi extradited from
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxORXA0R3M5c3ZXbHR5RERyZnZ5eTJfYXN3NlV2bFFpV1hvQkRnS3lZeHoxTXAxbmk1VlI3d0xrNFF1TjE3TjI5eG9nMWRDc3VIXzVDYWo1dkNZVHdySWdVbVZQOE5OeTNKUmRuTWNQOTBVUmN2a0JpSGV0TU1HZFNxby1sZ25DMkN5M01GdXdQWE8tNWtOS2JxbGxNTnhJc3N4UmRzSENOSWVkeGdSaUktUWQtaUZxQmdEQWotRy1paWxVeGZZdUs2NHp1cnMwcDdMX3ZRMUJoNlRrRk5MREpwTlYyTEtDejRp0gHvAUFVX3lxTE1PdjZkdzVGUmdzYnc2aFJXZU9SbjhVS19oTzY2UGZERTVKUzhOYWpHZ0k3VEFveDFsLVVOcWFyaE5IeGRLZDdONk1JS284Si01dzJuRXNjbjhFNFgxR2FZOVpQdE9ZYmZwWnE5dENFanQxWXhUM2JWc21iSjd6MTZRcE1XM29RZ3NJX0wyb1FodE9UOG4ybFY3OExmWEdlMTNWNFg4bmNLbi1nb1dyNzl6VVkzMVBEZlk4c2hSWk80a2hTZ3p1SG5hNWV3d3c0eGdKQW8tbWFIQjZpMktQM09Lcm0wSjVpTlJydmhXT2Jj?oc=5
-
-- India slams Shehbaz Sharif's UNGA speech: 'No shame… Pakistan sheltered Osama bin Laden' | Latest News India - Hindustan Times
-  India slams Shehbaz Sharif's UNGA speech: 'No shame…
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVZHOG1xQWJwaVNmN3lmVVAzR3dpYkd1N1FoZk9DRFZnVVRVVTR5Ykx1WUl6R25oZlRrSEZ2ZmN5cEt3VGxYMDROOHpTR3FyMFpwS2FNdkNVMjlqcDN5dndkeE9SUkVaQ3FKVlRhbm5sN2pUZXdrZHpMYUhJVFpWNlUtWFBJeHFVSS12QzE1THRLWEJ2bTNRaDZFTlpOYWpqUTc3YklSa3JpbzFQOWdIMi1TNXFfcTJ1Qy1YZlRWVV92WDlJR2FkQ3VyMkVRMlJ5d1YtbHJKaXhySVdIdGo40gHkAUFVX3lxTE54REJLazVoV1UyOFNkVDdENzFEdU5GVXhCak9uaXRUY052SWNLdHlWbVNvMEhJS2hCeGJ4QTZGLXp5Q3A4c1dMUDFsTUcydWNWck82MXJjdHltYlRjLVRTU0VoV2gtVDdkeWtUSlMwdnZXSDNneUZ6RGs2LWJoZmppMXhuRm1zbDBLS21xVl9aRWRFQklEWmg2MUFZSkYzVklQQW1OQVBRTGlaRmxtX0xjcl9EWUxzZGdOcTFGcmdYLUYxenh2U05reFVZdm5udm9TUzFQUkZLLUZZNGJyQjZjUnVhMg?oc=5
-
-- Pakistani PM Shehbaz Sharif appeals for India talks in UNGA address, hails Trump role in mediation - The Hindu
-  Pakistani PM Shehbaz Sharif appeals for India talks in UNGA
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOU3lYNUdfeW9tZTd6Y0pwcnd2ZXlfOHIwR0JIamxkbEtmNy1ZOEZaanpwc3pCbXN6Q09xR1BiQmZfYkx6VDRFbG1MNTh4Q2xrUHFmc2p1bmhUbWVGcHdSWGxGQlVCRDRObFp2aE9zUFlKWHZjMXBxNzY0T1V4em1NR2lwT2c4dGtVM0dwZTBUNWVlcHhvZ0d2U3VrbDdzQy1HLW1GcTl0aTkyWXFYR3ZDXzhKN0VUcUM3di1tV21CbHNmcllablB0MEphelJuR3ZuekVfTkVfYV9laU1oRzEw0gHmAUFVX3lxTE4zVHFaZmx2ak5VZjFsNEFJN2c2RFN2MmJFTjRZZnFZTklTaU4wWnMwMGtxUV8zN0Nab1NCNW12dWw1ckgtalBwemwyWGZ0UzFMZWYyNWNYbjRSSkdfNkg4WmxISFMtWXVqaEp3aUgyWjgzUGhEdkJJUldHSmVaWDNKYWw2bGlzVy1nSmk1QTlQWjY4UWk5UUVNbzlWam5tblYwdkdfWTN1ZGxpajRkWDlDX2o4U2J1a2xjTU9iZ05FNk80RUEtME5nZHR0OFJ3ZFhSeTdKeWxScWtfQmh4bDJrc2E4RnhB?oc=5
-
-- India tears into Pakistan PM Shehbaz Sharif's UN speech. What did he say? ‘Hindutva-driven extremism…’ | Latest News India - Hindustan Times
-  India tears into Pakistan PM Shehbaz Sharif's UN speech. What did he say
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcURXOE5iVEdidFE5MTFUQ0lIX19ISDZSVDdkTzd0WmF5ZzNBaG95SnA5SlhvcmlRWjFXdURQMDh4QlpkenJCbS1Va1A5NGFnSXdGZWszNWFzLW42THJabWdjUXI5TGdQVUFzWTlRRmdsWW1VRnM4Z1RGN3BlSWxVbFoyYjE3bENKVnNuVHJnNjhXVnp0MjVJNjIwRk1fc0YtWG9ZWnp1Z1BSOGRpZ1hFZmVXaEdCN2F4akp6YkRRaWlnQ0RaNU5ickVQeGthVVZPdmhhUDZ1ZkxqaklLX3kzX2hpYlc3ZjBIaEM4NGtTaETSAfYBQVVfeXFMTkx5bDdYcjBnSW5Bc2d0aE42ZDhuMDd1Tk81dFBTTDRTSGsya2NvRXpfcldrWFVwYjJ0ZFRCVHVILTJPQ2tXLVdrQXNjRVNEdHU3VXZZWmlSdFpHTVQtMFd2NFIzTVF0aGdmU1NOUTRWVlBzazZ2NHhDQWkwZEJBWjRWNEY0R3gwZTlBZUlFN3k0OTlDN1owU0NER1p5cFJyVmd5c2JNUV9TaHFSUGQtazdhdXJaanFnc2M0WTZJVWNUVGdleDR2ejF4eWRSajViWHR3MVl5NVZra0Y3R0haV2dqR1R6d3dSWGViQk50N1Y3aTNSNElB?oc=5
+- "Destroyed Runways Look Like Victory?" India Mocks Shehbaz Sharif's Claim - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWW
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWWI0OFdsR2JYanRaWXRvampHVURQTVJ1TUkwUWhWTHhtdTl6b2tnMFA0SjBQX2tldTgyUi1MNmw3NTJodjFKejlJc1k1OUln0gG3AUFVX3lxTFBTM3h1RWwwN1VHRVoxcG1nX2c1aTV5RDlUN3ROQTBiMnY4MlN2V0VxVHBsU0ZXZWV3Ny1GR0N0Vk01bU1RbXNFT0M0ZkM2WHBVYXUyeDN6aUcwT1pza2c2RENTbERzcXd4cGh1Q1QwdTUtOGdQREVGNlNGZDgwTm5hUGFKd3M2bnQ5YzZpTXNCcGhCdnA1dGxWd0g1TUNhY3A0WkUwYVBpT3dZVWZIU19DZ0Z6Wk9vRQ?oc=5
 
 - 'Unwarranted': India pulls up Turkey's Erdogan over UN speech; what triggered row? - The Times of India
   'Unwarranted': India pulls up Turkey's Erdogan over UN
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUURFcC1HNHdZR2RqcVIyWGs5Z2x4SmM3TS1Zc1VpUUFBNnJGN1hfUnVYRmZFR3UxLUZBRmx3Yk5TN1p0NXY0dEIzcUFyeWdvemJ0Qm1jX1lhSnVhY2lOSGU5c2pReFdEeVI1UFUxU2IybGE2NXQ3V1RpUFFTdEJ0YlJXcUJfWVRNRmlnSWFZWklzcTFhS0ZsczVHZ1MyUFRsR3hvb0tFWlFBTm1RU2owNnNKaUwzcVFjLTdyVGdUek1oZjR6VnktbFlWTnprWERCWHlDSkp6cjJ3T2FhQ2RUb21Ba3RkWm5kREpLTVcyeV9TN044bUR4UzhtMnJQUdIBgwJBVV95cUxNYjUzTFFScV81cUszd01RNjVaRzJtQUZSd2lWMmNWdEQ3NnQ3Y1h5b3J2Y1c5NjR2SUpGc2MwdzZjTkZCM1hhOFlhbVlQeDhpTW96R2MxVlFzWGZQd0Y0N1RFZV92LVFSN0xyMUxBUVp3RERGQWZhb3pOUnFITkxOMTYzcDdZVkZoc0hIRFJqOGJrNjVOeFd2azZHd1diTDBkdW92aVgtbU0yeFByRXdOZWhXMkVNMG5MdkU0ZmdXb05jOEdtUmVJbE84cjE1cTJBSy1JWG80c3c1WWxmTGFPWUlKRXZaVVVNZ1FZSGtDeUZrNzZsQ3NacXdFMjRBR25ZbFR3?oc=5
 
-- ‘Babbar Khalsa International terrorist Pindi extradited from Abu Dhabi to India,’ says Punjab DGP - The Hindu
-  Babbar Khalsa International terrorist Pindi extradited from
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxORXA0R3M5c3ZXbHR5RERyZnZ5eTJfYXN3NlV2bFFpV1hvQkRnS3lZeHoxTXAxbmk1VlI3d0xrNFF1TjE3TjI5eG9nMWRDc3VIXzVDYWo1dkNZVHdySWdVbVZQOE5OeTNKUmRuTWNQOTBVUmN2a0JpSGV0TU1HZFNxby1sZ25DMkN5M01GdXdQWE8tNWtOS2JxbGxNTnhJc3N4UmRzSENOSWVkeGdSaUktUWQtaUZxQmdEQWotRy1paWxVeGZZdUs2NHp1cnMwcDdMX3ZRMUJoNlRrRk5MREpwTlYyTEtDejRp0gHvAUFVX3lxTE1PdjZkdzVGUmdzYnc2aFJXZU9SbjhVS19oTzY2UGZERTVKUzhOYWpHZ0k3VEFveDFsLVVOcWFyaE5IeGRLZDdONk1JS284Si01dzJuRXNjbjhFNFgxR2FZOVpQdE9ZYmZwWnE5dENFanQxWXhUM2JWc21iSjd6MTZRcE1XM29RZ3NJX0wyb1FodE9UOG4ybFY3OExmWEdlMTNWNFg4bmNLbi1nb1dyNzl6VVkzMVBEZlk4c2hSWk80a2hTZ3p1SG5hNWV3d3c0eGdKQW8tbWFIQjZpMktQM09Lcm0wSjVpTlJydmhXT2Jj?oc=5
+- "This Is Zubeen's Assam, Won't Allow It To Become Nepal": Himanta Sarma - NDTV
+  "This Is Zubeen's Assam,
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTm9Ca2otRVhYQUgyQVJnbjNWbDVWaWxiMEJ1dG1ycHd6dGd4akZ1N2xpX2JPQzBjUkpVN09yOGNlZ1RVWHlUaGpodFI3QWFYcGhlX0FVOHVFbGEtYmdjM2NDaVlFcEFrdnZCM1A2bFJKUUdEVTlmM0w2cExqeGduVGUzS1gtSUhsSHNuQUlSU2ZIUnhkemNIMml2dkxLQU9JY21wZ1FkVWHSAbABQVVfeXFMUHo2QzVhS1NaRGFib3ByV0N1Mmx1eTQ4blh3U1JPdmdQbjNvRGxMSGFURVlGS24zYXpuTXpzcmxVQmQ5VlZuTkpjVi0xTEF3MW1UMFZUSFAtanAyRGVtem9yd0tSNnJ0NWxrNzBWN0JGOXpqc3BQOTRDYnhjN2t0dUFuZHNMdXdONmFQSGprN3JDRVpNdVdXSlZyZXJ0MlFPbnVsaS1DNmdOOFZzbEZFVHI?oc=5
 
-- India slams Shehbaz Sharif's UNGA speech: 'No shame… Pakistan sheltered Osama bin Laden' | Latest News India - Hindustan Times
-  India slams Shehbaz Sharif's UNGA speech: 'No shame…
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVZHOG1xQWJwaVNmN3lmVVAzR3dpYkd1N1FoZk9DRFZnVVRVVTR5Ykx1WUl6R25oZlRrSEZ2ZmN5cEt3VGxYMDROOHpTR3FyMFpwS2FNdkNVMjlqcDN5dndkeE9SUkVaQ3FKVlRhbm5sN2pUZXdrZHpMYUhJVFpWNlUtWFBJeHFVSS12QzE1THRLWEJ2bTNRaDZFTlpOYWpqUTc3YklSa3JpbzFQOWdIMi1TNXFfcTJ1Qy1YZlRWVV92WDlJR2FkQ3VyMkVRMlJ5d1YtbHJKaXhySVdIdGo40gHkAUFVX3lxTE54REJLazVoV1UyOFNkVDdENzFEdU5GVXhCak9uaXRUY052SWNLdHlWbVNvMEhJS2hCeGJ4QTZGLXp5Q3A4c1dMUDFsTUcydWNWck82MXJjdHltYlRjLVRTU0VoV2gtVDdkeWtUSlMwdnZXSDNneUZ6RGs2LWJoZmppMXhuRm1zbDBLS21xVl9aRWRFQklEWmg2MUFZSkYzVklQQW1OQVBRTGlaRmxtX0xjcl9EWUxzZGdOcTFGcmdYLUYxenh2U05reFVZdm5udm9TUzFQUkZLLUZZNGJyQjZjUnVhMg?oc=5
+- Pakistani military pleaded for cessation of fighting during Operation Sindoor: India exercises Right of Reply at UNGA - The Hindu
+  Pakistani military pleaded for cessation of fighting during Operation Sindoor. India exercises Right
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxObG1VNnhWQng0UzE5Z0tWV2REdVU3a3pDT09rTzZLY3ZsQkJ6U2h1LVFxN2VJY1NXN09rSEd4elJlSnNvOW5qNTNkUkFKZnFRWXkyUE1rQXQ1UkxHQlI1S3hidS1hbGRlY2lodEJZRGlMQUQ2ZENUS1RWNVE3UkRMMm8wX1NsenJieWRJQUs2cnpJdGdDdU1CM2xlaGFSal84YUZMQzBscnQ0Rk1Xb2lwalRERnJpY2VSMzdqc1JyblFYaTVrX0ZSQVFMS3NuMExkd0syY2kxc3lody12UmlYMC1HRVNESzdVMXB6enZCcTVjcnpOWTJrWmdRbDlpOHFobnJVWVdR0gGMAkFVX3lxTE5CbnNMTGMyZGRwM05qbmVocXJjbUt1RmgzRllpcFM5N3Q5NFZZMHJwN0NaMXptWFdKeHFkdGFwUGJoM3pNdmhOLVV1S1FodjZkX2ZueFBSeDNGQ2VSdkZwMHFjTmxkeEhKcHd6LVR4TmJscmdPaTVlVHA0enp4NDZ0dnpUVGtmU2hHY245cnZyY0otOC1GUFotclYzaGpKVzhmTGxhRlBZb0ppbXhBTGlyZGdITTFid0drbFZuMTRNRnAtLU1rUndobG9iU05tZVhaeUMwcTBrSFYtWU9nc2NjbVlRUVRXQjNSdm1fNURXVk9kaHF4cXk4TEY1Sk50N0dfQkFCNUdFTTJKaWo?oc=5
 
-- Pakistani PM Shehbaz Sharif appeals for India talks in UNGA address, hails Trump role in mediation - The Hindu
-  Pakistani PM Shehbaz Sharif appeals for India talks in UNGA
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOU3lYNUdfeW9tZTd6Y0pwcnd2ZXlfOHIwR0JIamxkbEtmNy1ZOEZaanpwc3pCbXN6Q09xR1BiQmZfYkx6VDRFbG1MNTh4Q2xrUHFmc2p1bmhUbWVGcHdSWGxGQlVCRDRObFp2aE9zUFlKWHZjMXBxNzY0T1V4em1NR2lwT2c4dGtVM0dwZTBUNWVlcHhvZ0d2U3VrbDdzQy1HLW1GcTl0aTkyWXFYR3ZDXzhKN0VUcUM3di1tV21CbHNmcllablB0MEphelJuR3ZuekVfTkVfYV9laU1oRzEw0gHmAUFVX3lxTE4zVHFaZmx2ak5VZjFsNEFJN2c2RFN2MmJFTjRZZnFZTklTaU4wWnMwMGtxUV8zN0Nab1NCNW12dWw1ckgtalBwemwyWGZ0UzFMZWYyNWNYbjRSSkdfNkg4WmxISFMtWXVqaEp3aUgyWjgzUGhEdkJJUldHSmVaWDNKYWw2bGlzVy1nSmk1QTlQWjY4UWk5UUVNbzlWam5tblYwdkdfWTN1ZGxpajRkWDlDX2o4U2J1a2xjTU9iZ05FNk80RUEtME5nZHR0OFJ3ZFhSeTdKeWxScWtfQmh4bDJrc2E4RnhB?oc=5
+- News Today Live Updates, 27 September | Pakistani ‘person of interest’ arrested recently was in touch with Sonam Wangchuk, sending reports across border, claims Ladakh DGP - The Indian Express
+  Pakistani ‘person of interest’ arrested recently was in touch with Sonam Wangchuk, sending reports across border, claims
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaWIyaF9UXzZpdTVVTkNCUi1YeWlNOFl5eThEVGtKY3VpRDZBcFBRSTJNZ3Z4dU9HUzFDLWk4M2h3SnVnYTZWQlNCVE5Nd3A3X1NaLVd3R0FhZ0dXVWd3WDhjU2V3UWlXaDhoNGJEZE5QR3dIRkNDTzdwcTBoSWNWLUJ4S3dycVBQOVJ3N0ZTb3JJemdxek5LaEdWOXp2RkJGN1NoMWNNMHAxXzB1WE9YQnZsWGtMLWMxUEhWX1c0YW0zajFxdTZNQmh3UUstTk5tdWtfMThkZkFhYm9JSGcwbDBmV0p5Y19a0gHvAUFVX3lxTE9PRWVLTHMzcmdvSl9ubGt2Zk9PTHBfYXhBUW5ZeEhqWThRQWFTc3ppTE1hRUtfd3lOUDlLNVdzVG54ck56Qm9reHJPR3hZX3ctYnk0UVFjTWRVTWk1R21zVVdZeS1XU3VEVXR6cW5RZ2Y2b3BkUkEwczNyMk8xQUowRkJQUW55Z3FQN2ZodUdZUlpnYmlLaHBPVUhHRUpCYTFqYnBrLXNnS1REZjNqRjViY2dDc0VFaEp6cW1KLUhXcWhuSm5FZ3E1dXcyc1BEV3dZMXU5bkFidHpMdHpYSVg5Wm5SdTNLcDZ3UzQ0YzNZ?oc=5
 
-- India tears into Pakistan PM Shehbaz Sharif's UN speech. What did he say? ‘Hindutva-driven extremism…’ | Latest News India - Hindustan Times
-  India tears into Pakistan PM Shehbaz Sharif's UN speech. What did he say
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcURXOE5iVEdidFE5MTFUQ0lIX19ISDZSVDdkTzd0WmF5ZzNBaG95SnA5SlhvcmlRWjFXdURQMDh4QlpkenJCbS1Va1A5NGFnSXdGZWszNWFzLW42THJabWdjUXI5TGdQVUFzWTlRRmdsWW1VRnM4Z1RGN3BlSWxVbFoyYjE3bENKVnNuVHJnNjhXVnp0MjVJNjIwRk1fc0YtWG9ZWnp1Z1BSOGRpZ1hFZmVXaEdCN2F4akp6YkRRaWlnQ0RaNU5ickVQeGthVVZPdmhhUDZ1ZkxqaklLX3kzX2hpYlc3ZjBIaEM4NGtTaETSAfYBQVVfeXFMTkx5bDdYcjBnSW5Bc2d0aE42ZDhuMDd1Tk81dFBTTDRTSGsya2NvRXpfcldrWFVwYjJ0ZFRCVHVILTJPQ2tXLVdrQXNjRVNEdHU3VXZZWmlSdFpHTVQtMFd2NFIzTVF0aGdmU1NOUTRWVlBzazZ2NHhDQWkwZEJBWjRWNEY0R3gwZTlBZUlFN3k0OTlDN1owU0NER1p5cFJyVmd5c2JNUV9TaHFSUGQtazdhdXJaanFnc2M0WTZJVWNUVGdleDR2ejF4eWRSajViWHR3MVl5NVZra0Y3R0haV2dqR1R6d3dSWGViQk50N1Y3aTNSNElB?oc=5
+- "Destroyed Runways Look Like Victory?" India Mocks Shehbaz Sharif's Claim - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWW
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWWI0OFdsR2JYanRaWXRvampHVURQTVJ1TUkwUWhWTHhtdTl6b2tnMFA0SjBQX2tldTgyUi1MNmw3NTJodjFKejlJc1k1OUln0gG3AUFVX3lxTFBTM3h1RWwwN1VHRVoxcG1nX2c1aTV5RDlUN3ROQTBiMnY4MlN2V0VxVHBsU0ZXZWV3Ny1GR0N0Vk01bU1RbXNFT0M0ZkM2WHBVYXUyeDN6aUcwT1pza2c2RENTbERzcXd4cGh1Q1QwdTUtOGdQREVGNlNGZDgwTm5hUGFKd3M2bnQ5YzZpTXNCcGhCdnA1dGxWd0g1TUNhY3A0WkUwYVBpT3dZVWZIU19DZ0Z6Wk9vRQ?oc=5
 
 - 'Unwarranted': India pulls up Turkey's Erdogan over UN speech; what triggered row? - The Times of India
   'Unwarranted': India pulls up Turkey's Erdogan over UN
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUURFcC1HNHdZR2RqcVIyWGs5Z2x4SmM3TS1Zc1VpUUFBNnJGN1hfUnVYRmZFR3UxLUZBRmx3Yk5TN1p0NXY0dEIzcUFyeWdvemJ0Qm1jX1lhSnVhY2lOSGU5c2pReFdEeVI1UFUxU2IybGE2NXQ3V1RpUFFTdEJ0YlJXcUJfWVRNRmlnSWFZWklzcTFhS0ZsczVHZ1MyUFRsR3hvb0tFWlFBTm1RU2owNnNKaUwzcVFjLTdyVGdUek1oZjR6VnktbFlWTnprWERCWHlDSkp6cjJ3T2FhQ2RUb21Ba3RkWm5kREpLTVcyeV9TN044bUR4UzhtMnJQUdIBgwJBVV95cUxNYjUzTFFScV81cUszd01RNjVaRzJtQUZSd2lWMmNWdEQ3NnQ3Y1h5b3J2Y1c5NjR2SUpGc2MwdzZjTkZCM1hhOFlhbVlQeDhpTW96R2MxVlFzWGZQd0Y0N1RFZV92LVFSN0xyMUxBUVp3RERGQWZhb3pOUnFITkxOMTYzcDdZVkZoc0hIRFJqOGJrNjVOeFd2azZHd1diTDBkdW92aVgtbU0yeFByRXdOZWhXMkVNMG5MdkU0ZmdXb05jOEdtUmVJbE84cjE1cTJBSy1JWG80c3c1WWxmTGFPWUlKRXZaVVVNZ1FZSGtDeUZrNzZsQ3NacXdFMjRBR25ZbFR3?oc=5
 
-- ‘Babbar Khalsa International terrorist Pindi extradited from Abu Dhabi to India,’ says Punjab DGP - The Hindu
-  Babbar Khalsa International terrorist Pindi extradited from
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxORXA0R3M5c3ZXbHR5RERyZnZ5eTJfYXN3NlV2bFFpV1hvQkRnS3lZeHoxTXAxbmk1VlI3d0xrNFF1TjE3TjI5eG9nMWRDc3VIXzVDYWo1dkNZVHdySWdVbVZQOE5OeTNKUmRuTWNQOTBVUmN2a0JpSGV0TU1HZFNxby1sZ25DMkN5M01GdXdQWE8tNWtOS2JxbGxNTnhJc3N4UmRzSENOSWVkeGdSaUktUWQtaUZxQmdEQWotRy1paWxVeGZZdUs2NHp1cnMwcDdMX3ZRMUJoNlRrRk5MREpwTlYyTEtDejRp0gHvAUFVX3lxTE1PdjZkdzVGUmdzYnc2aFJXZU9SbjhVS19oTzY2UGZERTVKUzhOYWpHZ0k3VEFveDFsLVVOcWFyaE5IeGRLZDdONk1JS284Si01dzJuRXNjbjhFNFgxR2FZOVpQdE9ZYmZwWnE5dENFanQxWXhUM2JWc21iSjd6MTZRcE1XM29RZ3NJX0wyb1FodE9UOG4ybFY3OExmWEdlMTNWNFg4bmNLbi1nb1dyNzl6VVkzMVBEZlk4c2hSWk80a2hTZ3p1SG5hNWV3d3c0eGdKQW8tbWFIQjZpMktQM09Lcm0wSjVpTlJydmhXT2Jj?oc=5
+- "This Is Zubeen's Assam, Won't Allow It To Become Nepal": Himanta Sarma - NDTV
+  "This Is Zubeen's Assam,
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTm9Ca2otRVhYQUgyQVJnbjNWbDVWaWxiMEJ1dG1ycHd6dGd4akZ1N2xpX2JPQzBjUkpVN09yOGNlZ1RVWHlUaGpodFI3QWFYcGhlX0FVOHVFbGEtYmdjM2NDaVlFcEFrdnZCM1A2bFJKUUdEVTlmM0w2cExqeGduVGUzS1gtSUhsSHNuQUlSU2ZIUnhkemNIMml2dkxLQU9JY21wZ1FkVWHSAbABQVVfeXFMUHo2QzVhS1NaRGFib3ByV0N1Mmx1eTQ4blh3U1JPdmdQbjNvRGxMSGFURVlGS24zYXpuTXpzcmxVQmQ5VlZuTkpjVi0xTEF3MW1UMFZUSFAtanAyRGVtem9yd0tSNnJ0NWxrNzBWN0JGOXpqc3BQOTRDYnhjN2t0dUFuZHNMdXdONmFQSGprN3JDRVpNdVdXSlZyZXJ0MlFPbnVsaS1DNmdOOFZzbEZFVHI?oc=5
+
+- Pakistani military pleaded for cessation of fighting during Operation Sindoor: India exercises Right of Reply at UNGA - The Hindu
+  Pakistani military pleaded for cessation of fighting during Operation Sindoor. India exercises Right
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxObG1VNnhWQng0UzE5Z0tWV2REdVU3a3pDT09rTzZLY3ZsQkJ6U2h1LVFxN2VJY1NXN09rSEd4elJlSnNvOW5qNTNkUkFKZnFRWXkyUE1rQXQ1UkxHQlI1S3hidS1hbGRlY2lodEJZRGlMQUQ2ZENUS1RWNVE3UkRMMm8wX1NsenJieWRJQUs2cnpJdGdDdU1CM2xlaGFSal84YUZMQzBscnQ0Rk1Xb2lwalRERnJpY2VSMzdqc1JyblFYaTVrX0ZSQVFMS3NuMExkd0syY2kxc3lody12UmlYMC1HRVNESzdVMXB6enZCcTVjcnpOWTJrWmdRbDlpOHFobnJVWVdR0gGMAkFVX3lxTE5CbnNMTGMyZGRwM05qbmVocXJjbUt1RmgzRllpcFM5N3Q5NFZZMHJwN0NaMXptWFdKeHFkdGFwUGJoM3pNdmhOLVV1S1FodjZkX2ZueFBSeDNGQ2VSdkZwMHFjTmxkeEhKcHd6LVR4TmJscmdPaTVlVHA0enp4NDZ0dnpUVGtmU2hHY245cnZyY0otOC1GUFotclYzaGpKVzhmTGxhRlBZb0ppbXhBTGlyZGdITTFid0drbFZuMTRNRnAtLU1rUndobG9iU05tZVhaeUMwcTBrSFYtWU9nc2NjbVlRUVRXQjNSdm1fNURXVk9kaHF4cXk4TEY1Sk50N0dfQkFCNUdFTTJKaWo?oc=5
+
+- News Today Live Updates, 27 September | Pakistani ‘person of interest’ arrested recently was in touch with Sonam Wangchuk, sending reports across border, claims Ladakh DGP - The Indian Express
+  Pakistani ‘person of interest’ arrested recently was in touch with Sonam Wangchuk, sending reports across border, claims
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaWIyaF9UXzZpdTVVTkNCUi1YeWlNOFl5eThEVGtKY3VpRDZBcFBRSTJNZ3Z4dU9HUzFDLWk4M2h3SnVnYTZWQlNCVE5Nd3A3X1NaLVd3R0FhZ0dXVWd3WDhjU2V3UWlXaDhoNGJEZE5QR3dIRkNDTzdwcTBoSWNWLUJ4S3dycVBQOVJ3N0ZTb3JJemdxek5LaEdWOXp2RkJGN1NoMWNNMHAxXzB1WE9YQnZsWGtMLWMxUEhWX1c0YW0zajFxdTZNQmh3UUstTk5tdWtfMThkZkFhYm9JSGcwbDBmV0p5Y19a0gHvAUFVX3lxTE9PRWVLTHMzcmdvSl9ubGt2Zk9PTHBfYXhBUW5ZeEhqWThRQWFTc3ppTE1hRUtfd3lOUDlLNVdzVG54ck56Qm9reHJPR3hZX3ctYnk0UVFjTWRVTWk1R21zVVdZeS1XU3VEVXR6cW5RZ2Y2b3BkUkEwczNyMk8xQUowRkJQUW55Z3FQN2ZodUdZUlpnYmlLaHBPVUhHRUpCYTFqYnBrLXNnS1REZjNqRjViY2dDc0VFaEp6cW1KLUhXcWhuSm5FZ3E1dXcyc1BEV3dZMXU5bkFidHpMdHpYSVg5Wm5SdTNLcDZ3UzQ0YzNZ?oc=5
+
+- "Destroyed Runways Look Like Victory?" India Mocks Shehbaz Sharif's Claim - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWW
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWWI0OFdsR2JYanRaWXRvampHVURQTVJ1TUkwUWhWTHhtdTl6b2tnMFA0SjBQX2tldTgyUi1MNmw3NTJodjFKejlJc1k1OUln0gG3AUFVX3lxTFBTM3h1RWwwN1VHRVoxcG1nX2c1aTV5RDlUN3ROQTBiMnY4MlN2V0VxVHBsU0ZXZWV3Ny1GR0N0Vk01bU1RbXNFT0M0ZkM2WHBVYXUyeDN6aUcwT1pza2c2RENTbERzcXd4cGh1Q1QwdTUtOGdQREVGNlNGZDgwTm5hUGFKd3M2bnQ5YzZpTXNCcGhCdnA1dGxWd0g1TUNhY3A0WkUwYVBpT3dZVWZIU19DZ0Z6Wk9vRQ?oc=5
+
+- 'Unwarranted': India pulls up Turkey's Erdogan over UN speech; what triggered row? - The Times of India
+  'Unwarranted': India pulls up Turkey's Erdogan over UN
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUURFcC1HNHdZR2RqcVIyWGs5Z2x4SmM3TS1Zc1VpUUFBNnJGN1hfUnVYRmZFR3UxLUZBRmx3Yk5TN1p0NXY0dEIzcUFyeWdvemJ0Qm1jX1lhSnVhY2lOSGU5c2pReFdEeVI1UFUxU2IybGE2NXQ3V1RpUFFTdEJ0YlJXcUJfWVRNRmlnSWFZWklzcTFhS0ZsczVHZ1MyUFRsR3hvb0tFWlFBTm1RU2owNnNKaUwzcVFjLTdyVGdUek1oZjR6VnktbFlWTnprWERCWHlDSkp6cjJ3T2FhQ2RUb21Ba3RkWm5kREpLTVcyeV9TN044bUR4UzhtMnJQUdIBgwJBVV95cUxNYjUzTFFScV81cUszd01RNjVaRzJtQUZSd2lWMmNWdEQ3NnQ3Y1h5b3J2Y1c5NjR2SUpGc2MwdzZjTkZCM1hhOFlhbVlQeDhpTW96R2MxVlFzWGZQd0Y0N1RFZV92LVFSN0xyMUxBUVp3RERGQWZhb3pOUnFITkxOMTYzcDdZVkZoc0hIRFJqOGJrNjVOeFd2azZHd1diTDBkdW92aVgtbU0yeFByRXdOZWhXMkVNMG5MdkU0ZmdXb05jOEdtUmVJbE84cjE1cTJBSy1JWG80c3c1WWxmTGFPWUlKRXZaVVVNZ1FZSGtDeUZrNzZsQ3NacXdFMjRBR25ZbFR3?oc=5
+
+- "This Is Zubeen's Assam, Won't Allow It To Become Nepal": Himanta Sarma - NDTV
+  "This Is Zubeen's Assam,
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTm9Ca2otRVhYQUgyQVJnbjNWbDVWaWxiMEJ1dG1ycHd6dGd4akZ1N2xpX2JPQzBjUkpVN09yOGNlZ1RVWHlUaGpodFI3QWFYcGhlX0FVOHVFbGEtYmdjM2NDaVlFcEFrdnZCM1A2bFJKUUdEVTlmM0w2cExqeGduVGUzS1gtSUhsSHNuQUlSU2ZIUnhkemNIMml2dkxLQU9JY21wZ1FkVWHSAbABQVVfeXFMUHo2QzVhS1NaRGFib3ByV0N1Mmx1eTQ4blh3U1JPdmdQbjNvRGxMSGFURVlGS24zYXpuTXpzcmxVQmQ5VlZuTkpjVi0xTEF3MW1UMFZUSFAtanAyRGVtem9yd0tSNnJ0NWxrNzBWN0JGOXpqc3BQOTRDYnhjN2t0dUFuZHNMdXdONmFQSGprN3JDRVpNdVdXSlZyZXJ0MlFPbnVsaS1DNmdOOFZzbEZFVHI?oc=5
+
+- Pakistani military pleaded for cessation of fighting during Operation Sindoor: India exercises Right of Reply at UNGA - The Hindu
+  Pakistani military pleaded for cessation of fighting during Operation Sindoor. India exercises Right
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxObG1VNnhWQng0UzE5Z0tWV2REdVU3a3pDT09rTzZLY3ZsQkJ6U2h1LVFxN2VJY1NXN09rSEd4elJlSnNvOW5qNTNkUkFKZnFRWXkyUE1rQXQ1UkxHQlI1S3hidS1hbGRlY2lodEJZRGlMQUQ2ZENUS1RWNVE3UkRMMm8wX1NsenJieWRJQUs2cnpJdGdDdU1CM2xlaGFSal84YUZMQzBscnQ0Rk1Xb2lwalRERnJpY2VSMzdqc1JyblFYaTVrX0ZSQVFMS3NuMExkd0syY2kxc3lody12UmlYMC1HRVNESzdVMXB6enZCcTVjcnpOWTJrWmdRbDlpOHFobnJVWVdR0gGMAkFVX3lxTE5CbnNMTGMyZGRwM05qbmVocXJjbUt1RmgzRllpcFM5N3Q5NFZZMHJwN0NaMXptWFdKeHFkdGFwUGJoM3pNdmhOLVV1S1FodjZkX2ZueFBSeDNGQ2VSdkZwMHFjTmxkeEhKcHd6LVR4TmJscmdPaTVlVHA0enp4NDZ0dnpUVGtmU2hHY245cnZyY0otOC1GUFotclYzaGpKVzhmTGxhRlBZb0ppbXhBTGlyZGdITTFid0drbFZuMTRNRnAtLU1rUndobG9iU05tZVhaeUMwcTBrSFYtWU9nc2NjbVlRUVRXQjNSdm1fNURXVk9kaHF4cXk4TEY1Sk50N0dfQkFCNUdFTTJKaWo?oc=5
+
+- News Today Live Updates, 27 September | Pakistani ‘person of interest’ arrested recently was in touch with Sonam Wangchuk, sending reports across border, claims Ladakh DGP - The Indian Express
+  Pakistani ‘person of interest’ arrested recently was in touch with Sonam Wangchuk, sending reports across border, claims
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaWIyaF9UXzZpdTVVTkNCUi1YeWlNOFl5eThEVGtKY3VpRDZBcFBRSTJNZ3Z4dU9HUzFDLWk4M2h3SnVnYTZWQlNCVE5Nd3A3X1NaLVd3R0FhZ0dXVWd3WDhjU2V3UWlXaDhoNGJEZE5QR3dIRkNDTzdwcTBoSWNWLUJ4S3dycVBQOVJ3N0ZTb3JJemdxek5LaEdWOXp2RkJGN1NoMWNNMHAxXzB1WE9YQnZsWGtMLWMxUEhWX1c0YW0zajFxdTZNQmh3UUstTk5tdWtfMThkZkFhYm9JSGcwbDBmV0p5Y19a0gHvAUFVX3lxTE9PRWVLTHMzcmdvSl9ubGt2Zk9PTHBfYXhBUW5ZeEhqWThRQWFTc3ppTE1hRUtfd3lOUDlLNVdzVG54ck56Qm9reHJPR3hZX3ctYnk0UVFjTWRVTWk1R21zVVdZeS1XU3VEVXR6cW5RZ2Y2b3BkUkEwczNyMk8xQUowRkJQUW55Z3FQN2ZodUdZUlpnYmlLaHBPVUhHRUpCYTFqYnBrLXNnS1REZjNqRjViY2dDc0VFaEp6cW1KLUhXcWhuSm5FZ3E1dXcyc1BEV3dZMXU5bkFidHpMdHpYSVg5Wm5SdTNLcDZ3UzQ0YzNZ?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-27 06:24:36 UTC_
+_Last updated: 2025-09-27 12:30:05 UTC_
