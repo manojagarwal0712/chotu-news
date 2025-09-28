@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- ‘In turbulent world,’ Jaishankar bats for BRICS to champion peace, diplomacy
+- About 1,500 people shifted to relief camps in Hyderabad after heavy rain
   
-  🔗 https://indianexpress.com/article/india/turbulent-world-brics-champion-peace-diplomacy-s-jaishankar-brics-10275218/
+  🔗 https://indianexpress.com/article/india/about-1500-people-shifted-to-relief-camps-in-hyderabad-after-heavy-rain-10275722/
 
-- Student’s ‘suicide’ at Nalanda engineering college leads to clashes, FIR
+- Flag-in ceremony for 14 women mountaineers at ITBP HQ
   
-  🔗 https://indianexpress.com/article/india/students-suicide-at-nalanda-engineering-college-leads-to-clashes-fir-10275435/
+  🔗 https://indianexpress.com/article/india/flag-in-ceremony-for-14-women-mountaineers-at-itbp-hq-10275723/
 
-- Himachal Health Minister postpones London, France exposure visit after Opp flags son’s name in delegation
+- ‘A cost burden’: Hotel body flags cuts in GST rates, calls for ITC restoration
   
-  🔗 https://indianexpress.com/article/india/himachal-health-minister-postpones-london-france-exposure-visit-after-opp-flags-sons-name-in-delegation-10275466/
+  🔗 https://indianexpress.com/article/india/a-cost-burden-hotel-body-flags-cuts-in-gst-rates-calls-for-itc-restoration-10275716/
 
-- ‘Police please help’: What happened at Vijay’s rally that left 35 dead | All you need to know
+- Deep state runs US, Pakistan hybrid regime based on consensus, says Khawaja Asif
   
-  🔗 https://indianexpress.com/article/india/vijay-rally-death-all-you-need-to-know-modi-stalin-amit-shah-karur-10275380/
+  🔗 https://indianexpress.com/article/india/deep-state-runs-us-pakistan-hybrid-regime-based-on-consensus-says-khawaja-asif-10275715/
 
-- Tripura issues over 40,000 unique ID cards for specially-abled persons
+- Terror attacks traced to that one country: Jaishankar targets Pakistan at UN General Assembly
   
-  🔗 https://indianexpress.com/article/india/tripura-issues-over-40000-unique-id-cards-for-specially-abled-persons-10275427/
+  🔗 https://indianexpress.com/article/india/terror-attacks-traced-to-that-one-country-jaishankar-targets-pakistan-at-un-general-assembly-10275579/
 
 - AI ‘workslop’ may be destroying your productivity, suggests new Harvard study
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/skullcandy-unveils-uproar-tws-with-quad-microphones-and-enc-at-rs-2499-10274659/
 
+- For Gen Z and millennials, gold buys must feel ‘worth their money’: WGC
+  22-karat gold prices breached  ₹1,00,
+  🔗 https://www.livemint.com/companies/people/world-gold-council-interview-sales-marketing-advertisement-gen-z-millennials-gold-prices-demand-11758798898288.html
+
+- Jaguar Land Rover Gets UK Guarantee for £1.5 Billion Loan
+  Jaguar Land Rover will get backing from the UK government for a £1.5 billion ($2 billion) loan. The loan is aimed at easing the strain
+  🔗 https://www.livemint.com/companies/company-results/jaguar-land-rover-gets-uk-guarantee-for-1-5-billion-loan-11759010776087.html
+
 - Listeria found in Walmart, Trader Joes meals may be linked to deadly outbreak
   Listeria found in Walmart, Trader
   🔗 https://www.livemint.com/companies/news/listeria-found-in-walmart-trader-joes-meals-may-be-linked-to-deadly-outbreak-11758989461236.html
@@ -52,13 +60,9 @@
   The first section of Surat to Bilimora will become operational in 2027. Vaish
   🔗 https://www.livemint.com/companies/news/suratbilimora-section-of-bullet-train-project-to-become-operational-in-2027-ashwini-vaishnaw-11758967807040.html
 
-- Cement firms were strategically trying to pocket GST benefit meant for consumers: Yes Securities
-  Cement companies are strategically attempting to pocket the GST benefit intended for consumers, says
-  🔗 https://www.livemint.com/companies/news/cement-firms-were-strategically-trying-to-pocket-gst-benefit-meant-for-consumers-yes-securities-11758961710108.html
-
-- Mumbai airport witnesses arrival of over 5 million international passengers in 8 months
-  Chhatrapati Shivaji Maharaj International Airport welcomed over 5 million international passengers between January 2025 and August 2025. Over the past three years, international arrivals at the airport have grown at a compound annual growth rate (CAG
-  🔗 https://www.livemint.com/companies/company-results/mumbai-airport-witnesses-arrival-of-over-5-million-international-passengers-in-8-months-11758961650360.html
+- Dividend, bonus, stock split: Glenmark Pharma to trade ex-dividend, Paushak to trade ex-bonus next week; Full list
+  Glenmark Pharma stock will trade ex-dividend on Monday, 29 September 2025. Several
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-bonus-stock-split-glenmark-pharma-to-trade-ex-dividend-paushak-to-trade-ex-bonus-next-week-full-list-11759001602206.html
 
 - Penny stock under Re 1 hits upper circuit for sixteenth straight session. Do you own?
   Dharan Infra shares hit their upper circuit for the sixteenth straight session on the Indian stock market. Shares are trading 31.91% higher in the last one-month
@@ -75,10 +79,6 @@
 - Emerging Assets Post Worst Week in Two Months on Fed, Tariffs
   The gauge for emerging-market currencies and stocks declined, posting the worst week since August 1.
   🔗 https://www.livemint.com/market/stock-market-news/emerging-assets-post-worst-week-in-two-months-on-fed-tariffs-11758971380112.html
-
-- Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
-  Mehul Kothari of Anand Rathi recommends thee shares to buy or sell. SeQuent
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11758967725362.html
 
 - You can't miss these 5 Windows laptop deals during Amazon Great Indian Festival: Enjoy up to 45% off
   Amazon Great Indian Festival is offering some of the best deals of the season on a range of Windows laptops. Enjoy additional  ₹10,000 instant bank discount, and
@@ -100,25 +100,25 @@
   Apple continues to lead India’s refurbished smartphone market with a 62.9% share. Three in five buyers prefer iPhones, especially iPhone 14 Pro, 13 Pro Max, and 12 Pro.
   🔗 https://www.livemint.com/technology/tech-news/iphone-14-pro-13-pro-max-and-12-pro-lead-refurbished-market-as-3-in-5-buyers-pick-apple-report-11758959371963.html
 
-- Stock market today: Dow, S&P 500, Nasdaq futures fall after back-to-back losses, jobless claims dip - Yahoo Finance
-  Stock market today: Dow, S&amp;P 500, Nas
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQjhpZGF2RFNndkVLcmUtTmhrT3QxWkwyYkJfREZ6aDhiRURhUHVUVlNkaUFyWFpGSDRaaTl1czY3MnpYODh0dFNLT2FPSmJRb3JOU0otV0JMaHFqeEdidE9EcUhNMUIwTW5DWUhDRzlKaUpseFlydTEwOGNMWjNBUThCZjYweUNYUnJNWWxpVkVXaDZQdmFsQzlxUlhsU1lLV1hNckNseU9sTWhSaEpoRzI2bXlwbFRJYURpY3B0dXB1NGlZSVZrQkVXeTlEUG1FZER3X3QtWVR1Q2V5VlE?oc=5
-
-- Stock market today: Dow, S&P 500, Nasdaq fall after back-to-back losses, jobless claims dip - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq fall
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc1YxbWRGb1Bab09jZGR6V2JzM3dYUjl0YVRzQkxDYjdhak80YmQtWk1rVURvS0F3bGhZc05WR1ktR2VxUlVna3lRS0dkb0JOdXNjT0c4aExJR0hpekpUQVo5amg5SmVKeWlELXNuSkFCRGJldmppMXU1aEdFanhHQThDejZPN1NNRzFtTnZoRGFXQS1xaFBJVVpRLTM5SnVtTWV4RmpWN3BhTUNfTmtCcU5EQXpieTlENFI3QVFWUFVUNVFaSDZ4bnVHSGpiZGc5WHNn?oc=5
-
 - Stock Market News Sept. 26, 2025: Dow Rises After Trump Unveils New Tariffs - The Wall Street Journal
   The Wall Street Journal published a story on September 26, 2025,
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPNnhBV0VqUGY3TThiTjRoTURfQTJlRFl6TFpXYU5ZLUFDRE9jOGhQTFljamZzU1pIOGxVTDR0U3plSWNBLVB6eGVNTDhockc0STROUm1OMkhqQWhkZGdyUXhLcVA1QVpPZmM4ajFPQlZSelh5UjMyLUJtX2VTOGZGcUVPei02aVU?oc=5
 
-- Stock market crash today: Trump tariffs, FII selling drag Sensex 733 pts down, Nifty near 24,650 - Business Standard
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxOdGplaEpFRVF4ZDNoYk9UNEFZR2ZtX1FFaUwxRU5SYXdEYTRwbElWYWdnc2dnWXdSVXZtOHBjdU1zeUdpY3dsczhTRVNkdGpaN0F2RGRMMVBna25EekRvOXZWUUdFclFNWm
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxOdGplaEpFRVF4ZDNoYk9UNEFZR2ZtX1FFaUwxRU5SYXdEYTRwbElWYWdnc2dnWXdSVXZtOHBjdU1zeUdpY3dsczhTRVNkdGpaN0F2RGRMMVBna25EekRvOXZWUUdFclFNWmdqZGYycUwwVW5IVDRBM3JsbUhOalI2Q3BsVjR2ZDBWRVVYMnEtUFpMRXI4TDd1aXBXNVNnOXduSEdYTWxDaXhtMGZFVkJsQTRNbjVKVi03YlJibUtWMUJqUG9HczZrR0Y5emhtTFhSOW93V19CN2NhSURiT2Z6My1xOUVaY0VsMEJIbWhRM2pUZFdWS21rb2NYbm9hby1pa3J1WUdR?oc=5
+- The resilient stock market may be keeping the economy out of a recession. Why that's a bad thing - CNBC
+  The resilient stock market may be keeping the economy out of a recession. Why that
+  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE53ckxzeV9MQTYzeS1iZ0t2RGJHVzdTYUZfY2gzbS1wR2RNU2JEN2VUa3ZoeTdnQW1POHV6eDd0V21mY3VyMlM0RzhXOW4yd2JjMDBNMWNoWlFsTjhfX3pheEJSYVNsOUVrbFYwTUdKQW9XNUVITXhXX3RweFdrQdIBgwFBVV95cUxNYTdfcFpQSW4wbk1XMmE5ZmNGYUhnRGYtZmROeTZUcWg1NTdBMzNQcnJKX1NRS0VNbEp1YngwY2dZRHBBWDlQc042X2VEVzhNREVVcHRHLVhCbFJ2RmxncXByUUc4OVdxMVB5SkpBWldza2laQUdpcS1wOURvWWZOa080MA?oc=5
 
-- Bengaluru vs Mumbai Micro-Markets: Where Should You Invest in 2025? - Trade Brains
-  Bengaluru vs Mumbai Micro-Mark
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNN3JRQjRGMHVJd0kwRGRnTmhXZkFLQ1lnd19tRTBUNXFlNmZUOWF5RlRTUnF4NGRqTVNtbmdSTmdHWkEzMTRoRmlPUzdiZ3RZTER2V2FHeFQ4d0x5WjFBYmg4d2dCQ2c0cFAwMWZlcGdibFprdjZIQVNFRDVDSHhoR0FMb0ZMSHdUcUk2NXdxd1hxRUJNYWc?oc=5
+- Chandigarh markets mobilise for festive season traffic management - The Times of India
+  Chandigarh markets mobilise for
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRkZuNlpXcXFRREhyRHJlY0RLRGNUekl3dWtQVlhiVlhKLUotNU43eDg5b3R3aTJid1duMWJHajVkNEFjMWpwZjFVWDBfY0Y0a0NkYXFrc1piWUpCdmN0YWRvV210Mlo2NUg5RUNiSkxmdzZ4dmVqLXR6SkRKWTdBYzloTGVvVjVGeUdvcTI0WHZWRHNnbkhNQlhhaFZqVkpiWndyNkYxdWVIV2lUTE9mLVQ0YnBGb3hCY0RqUGM4Vlcyek9lSHVBX0hkeDYxdXpmMUlEM2tkajVHRjA?oc=5
+
+- Bombay Coated and Special Steels plans to tap capital markets, files IPO papers to fund debt reduction - Moneycontrol
+  Bombay Coated and Special Steels plans to tap capital markets, files
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRk03UmlkRDJGTjlab1RDYjhHNjZNSGdoY2t5dnIzM21HNmxHeFJvMk05Ni1KVUF1NWtkNGNWVjl6OGxQdFRKS19HVGhWSGEtVXRUNUdTYTZDTzc4REV6ZHFSdzFsdjBPc3QxVHV3S3pLMXZYZDQ3RjctSWpVbU5OOWFFR1Jxbnh2blJUWnZsVmhQcHoyaXJ1V05UM2Q3ZzR3YmJjZ3p4WC12S2dkQ3l4SWlkSHFwQ1lVU2hUV0lKeDZvZ0NEVkxXdkozVUZGRkNSei1aZWNnNHBuRDFtSy1Qbjd1RFllVjhKbVBpdXo2THRjRGE40gH6AUFVX3lxTE4xbG0tZzBYcDB6a1o0UlFYOFp0T3IxcWFuU3hoOVdYWENNdFZTdkVRZUJ4VGQxQjdlSUZBRDZtNC1Wdm1CUW5laEFwMGpYZXNoTDMtRHpLa1NEalUwXzlIZmduQm1wMjRHTEd3V1BjQ1JPSXlLTm43ZVdJMjVPNGxuLV82U0QxSkpNZXlEUFVOb0sza3BEV2RTQ2hvZ1FScWFobHpfemRNSFo5OV9mQjdVT1dYNWl4S3dmMmNHR05OWlozeW5IR1l1N2tBb2Jwbzl2YloydmlRUWw1MkhhSmFHZERfVjF4UXQxcmRha28xU2tBTHAtQ29xOFE?oc=5
+
+- Stock Buyers Step In as Data Keep Fed Bets in Play: Markets Wrap - Bloomberg.com
+  Stock Buyers Step In as Data Keep Fed Bets
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0FVSXVDMXlMYVZ0QTVLb2wxd05uTVFBMWlXUzRlVWRiWnlONUE3VHdEODRhZ0ZLQnZ0MEJVYnhVOVBFNXlrN2RkaE9KTzZDQzREQnBvVjcwSTBkX0ZTZG1RMmk3QnlwUExVMlNLdng5QVl6RFFKSWtDMjJReXFqVkNqWWxJNEJiVUY4X3lqNE5wR2Rf?oc=5
 
 - Macro the Mightiest: ET Prime Special Series - Part 2 (A): Inflation, a misunderstood phenomenon
   This series aims to treat macroeconomics as a toolkit, not a lecture. Yes, it is long read; maybe boring. So why read it? Because what finally matters to the stock market is a company’s earnings
@@ -144,81 +144,81 @@
   <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWW
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWWI0OFdsR2JYanRaWXRvampHVURQTVJ1TUkwUWhWTHhtdTl6b2tnMFA0SjBQX2tldTgyUi1MNmw3NTJodjFKejlJc1k1OUln0gG3AUFVX3lxTFBTM3h1RWwwN1VHRVoxcG1nX2c1aTV5RDlUN3ROQTBiMnY4MlN2V0VxVHBsU0ZXZWV3Ny1GR0N0Vk01bU1RbXNFT0M0ZkM2WHBVYXUyeDN6aUcwT1pza2c2RENTbERzcXd4cGh1Q1QwdTUtOGdQREVGNlNGZDgwTm5hUGFKd3M2bnQ5YzZpTXNCcGhCdnA1dGxWd0g1TUNhY3A0WkUwYVBpT3dZVWZIU19DZ0Z6Wk9vRQ?oc=5
 
-- 'Epicentre of global terror': Jaishankar flags Pakistan as ‘that one country’ at UNGA | Latest News India - Hindustan Times
-  'Epicentre of global terror': Jaishankar flags Pakistan as �
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTm1HVVZHQlUyelB1dXJldG50Q1VvTmdzeG5LeFp1QjByamNmazB3Tmxzb2FZam5ERUlsLUlBcjBtTnNDZjJEd29lSGlrcmc3MEVicjJid01ObFZwaFFHSHNqOHE5a0R6X0xsRmpHRGgzNmRMQmpXa3EyamUxYUpGOW1wSkdDd0dmaEFNRnFDM2QxelFneTdJM3IwN3UxYWlKV2xFYUpXSnBQb2tUcGxyX05scy0zWlJMWmJjWDZRS2xRLTB0WnY0UGMxSWxoQ2pPbWx2TDdEclpWNTDSAeABQVVfeXFMUE1Gb0R5VmRiWHRjMXdSXzc5ZnVmZlJ1Y0FYSjNOTGdWQkxMTXZvQ0JEbnJVa01wZVVJa0ppcmxraExaVlQ1UE9sZXhUMlNaekZrdTVTdnFUZEVVX2NsSUFiOTVFaTVUYXJGbW5yVFJ4bk92YTVqTC1EMHJYVzl6RGhCN3R1bmJ2cWthaU5QQ1NlQzB3YWl6OUFWTTEtaGdJYnJaR2l6Q25QZk1uRTVoRGlla2QtUjJ1M05wTDJ6OVhVRWNUSmxybVFEVzhDTnJOcy1tTTNQeldOeG5nWnIxRm4?oc=5
+- Pakistani military pleaded for cessation of fighting during Operation Sindoor: India exercises Right of Reply at UNGA - The Hindu
+  Pakistani military pleaded for cessation of fighting during Operation Sindoor. India exercises Right
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxObG1VNnhWQng0UzE5Z0tWV2REdVU3a3pDT09rTzZLY3ZsQkJ6U2h1LVFxN2VJY1NXN09rSEd4elJlSnNvOW5qNTNkUkFKZnFRWXkyUE1rQXQ1UkxHQlI1S3hidS1hbGRlY2lodEJZRGlMQUQ2ZENUS1RWNVE3UkRMMm8wX1NsenJieWRJQUs2cnpJdGdDdU1CM2xlaGFSal84YUZMQzBscnQ0Rk1Xb2lwalRERnJpY2VSMzdqc1JyblFYaTVrX0ZSQVFMS3NuMExkd0syY2kxc3lody12UmlYMC1HRVNESzdVMXB6enZCcTVjcnpOWTJrWmdRbDlpOHFobnJVWVdR0gGMAkFVX3lxTE5CbnNMTGMyZGRwM05qbmVocXJjbUt1RmgzRllpcFM5N3Q5NFZZMHJwN0NaMXptWFdKeHFkdGFwUGJoM3pNdmhOLVV1S1FodjZkX2ZueFBSeDNGQ2VSdkZwMHFjTmxkeEhKcHd6LVR4TmJscmdPaTVlVHA0enp4NDZ0dnpUVGtmU2hHY245cnZyY0otOC1GUFotclYzaGpKVzhmTGxhRlBZb0ppbXhBTGlyZGdITTFid0drbFZuMTRNRnAtLU1rUndobG9iU05tZVhaeUMwcTBrSFYtWU9nc2NjbVlRUVRXQjNSdm1fNURXVk9kaHF4cXk4TEY1Sk50N0dfQkFCNUdFTTJKaWo?oc=5
 
-- News Today Live Updates, 27 September | Trump says he’ll send troops to Portland, Oregon, to handle ‘domestic terrorists’ - The Indian Express
-  The Indian Express reports that Donald Trump is considering sending troops to Portland, Oregon, to handle �
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaWIyaF9UXzZpdTVVTkNCUi1YeWlNOFl5eThEVGtKY3VpRDZBcFBRSTJNZ3Z4dU9HUzFDLWk4M2h3SnVnYTZWQlNCVE5Nd3A3X1NaLVd3R0FhZ0dXVWd3WDhjU2V3UWlXaDhoNGJEZE5QR3dIRkNDTzdwcTBoSWNWLUJ4S3dycVBQOVJ3N0ZTb3JJemdxek5LaEdWOXp2RkJGN1NoMWNNMHAxXzB1WE9YQnZsWGtMLWMxUEhWX1c0YW0zajFxdTZNQmh3UUstTk5tdWtfMThkZkFhYm9JSGcwbDBmV0p5Y19a0gHvAUFVX3lxTE9PRWVLTHMzcmdvSl9ubGt2Zk9PTHBfYXhBUW5ZeEhqWThRQWFTc3ppTE1hRUtfd3lOUDlLNVdzVG54ck56Qm9reHJPR3hZX3ctYnk0UVFjTWRVTWk1R21zVVdZeS1XU3VEVXR6cW5RZ2Y2b3BkUkEwczNyMk8xQUowRkJQUW55Z3FQN2ZodUdZUlpnYmlLaHBPVUhHRUpCYTFqYnBrLXNnS1REZjNqRjViY2dDc0VFaEp6cW1KLUhXcWhuSm5FZ3E1dXcyc1BEV3dZMXU5bkFidHpMdHpYSVg5Wm5SdTNLcDZ3UzQ0YzNZ?oc=5
+- Did basmati kill basmati? - The Times of India
+  The Times of India asked
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkktaldqU2JFTnNHNTFVNFREdWxlNS1XV2I1RXRXZUtYRDVaVW5LZjhxRzl3RDIxRzFWRUc4M1J3YWgyd1VsMGFnRW85ZkVzc1B0c0lqdUpkb3AzeVdoXzVEazgxTlBpRnVxeDBudDR4cXJOMm5HSk9UY3labmtITzgxQW5lU0xjdDZyelQzV2pRWFJkakhv0gGcAUFVX3lxTE9CYXlOT0pqakxzQmQ4Rnp1T0lqU1NDYm5kQ0JRaWlBOERUTktER3JJbkM0RGtaR3FsWVd3VWVxZWlpUnNCMTVqT0tZS0ZnUjFVbUFqeVAzNXNxM3hRck4zT3ZuLWdwNmZ0bjZLTi05MkNuN2Rya2ZUbEduR2VVMWVRV3d1cDllTzNoOURGVG1wbl96bTFjUzJkTkNQeg?oc=5
 
-- Trump Tariff News Highlights: Thaw ahead? India, US to push for ‘mutually beneficial’ pact amid 250% pharma levies - Mint
-  The US and India are pushing for ‘mutually beneficial’ pact
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPeTJEcFdZNi1pN2QyQTNFWmVoUEJUTkFRZW5abnpla3ViandMZTlNSGFTVjFSdnJFNC1lVGRIcFpyLU5fN2k4X201bC1IVHNXczRwblNVSWh0dHlJdlF4TXoyMS1HS1VaTS0wbVlCa0JSSkU2M2Z2Y1BuWlZyVFhOODBMdzBoOGNOTkx2ajNYVjlycVo0SmdDZGE3S01HUVNsR2JGbk80cV95cmJiM3Nod2N0cTdZaWRYRnFmRjFDaS1LbktZSndRWWtlM1A2RXhvMFpfZ1lHTUJUOWRYM1d3SkVSbmdzdlZEYzYxREV2eWYwOEpsa0ZBWHBjbkhsV1lKMl9mbERR0gGLAkFVX3lxTFBYM2RoVmdWVXdxQXkzYm9Td3k2ZEIyUklsaVhaSmRmTVpZWWt4OUd2RjAzSFBZTVVmQUlnYlV0c0RWTEt1eExFTTlTRUgyWG5qbDNDNW4xaGxkdzc3RmdLcDNvSXF3V0VsaXdnUU8xNXNpbjRhZi1WMWk5enFHeXpwQk5PSm1XQURlWm1HOHJGN0tSR3R6ZVNuYnBQS3pyX1cwLUpvNFpfczhtLXhIUTVMOHhTWkZudXBBODFIcDBUeVBIYzVCaEZ4VEpraWxtSi1HdzEyRmw0bnZsUmJROG1kQ19yam1yRkdkSG5NZXlTUlcxLVJzeEZDV25MNzY1dE1XNUtPYzJLZ0VWSQ?oc=5
+- 'India has self-respect': Russian foreign minister amid oil trade, Trump tariffs | Latest News India - Hindustan Times
+  'India has self-respect': Russian foreign minister amid oil trade,
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQUhXQl9yWUFSMTRZZmJQUmZhUWwzMVN3akR5ODZuR1lieGNqSmVWaTY1dWxnemNFdTdtS1gzWTRSS3RZWnNRMnA1UWY3N3NwMmY0Qlk1VkJZUEF0MlJIbC1GRnR2RFFVN01ZX0YtS0h6OGg1Y1hmNjdTeUxEU3dkdUtlaXpjVXBJbUYwVWNaQk5ubmFmV19GVlhNMjNaTFRub1RMcmxNZnpERExkdnQtQU5sc2FVbWo4T0tXaWhjaHh1N3VmUDhocm91QnhTRjdRUGZjOFZKZjMxWGVUWFJUeVVWbG1tRi1GdVM2QzBoYkk3UVRFMXhfamh5QlnSAYICQVVfeXFMTWxLWlNVNnM5bk1Sc0F2WFN2bThyUzN3a1hXamgzSi1KNWNBT2x6cU5aZUhnNE1Oc2xxVXRvcDRPRXBBMXB1T2hwMlU4UXd4THN2dTFjbTk0akFOWnBCdVFKb2ZxZzI2QnNBQjhvZi1ndWNNMUF6MDlpXzZneWdOTWNjTS1tNVNaU19Rdmh0OWRCOXhkdEs1SWRjWlJVeElHX3o4MGNfR1lJakhUVFJCVi03Z3JPZUtVcmpPU1BNaEw3WFJDUUVUZFI0LXcxMzhIUU1fajR4NnkxOW54SDdVMW1SOFFtVS1qQnVjNWx4c0hxcFlLSDZpbU1lUVJvMmlWRXZn?oc=5
 
-- Trump Declares 100% Tariff On Pharma Imports From October 1, India May Be Hit - NDTV
-  Trump Declares 100% Tariff On Pharma Imports From
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSWoxcTZiYi0xWkdYYlJlaHVtSmZwU1RWdUpWWU1kS0s3RkxjcVhaWGNmdHBUSmlpTS02ZG5pWlBwcFB3UFFYUDlRaGNzRlRnWnVBa2tLNnprZTNJSTFWWUVUdGtiUEpWOHdidUtfQ19fbEdJbjZSbWF4dUcxZF9JTzdGU0F5TXlwTi0zbHRzNHFEekRORGZQeVdTTjAyQ2Y3UVhET1ZLNGZDTjTSAbMBQVVfeXFMT2FHT1FZZl8xd295WnF0aXpPZTExeDZ2WmhrYTE0a2tWczFxNTlCRndjY1dPZkRCNFpjM1hoM2JPVjdtTDZvSXQ5eTRNdFYxWFJjeXdPU2x1T3hMS29TTi1OSXNPNlI1cm90UkxpV05XU1lFelN6YlBEdVJsZHNGQjlJNkw3RUdhVUoyOFp2LUVHbFBsaEUzUGloWmRJMTg0aGVzQ0JYVU9Ua1ZYbFRiZi1RQVU?oc=5
-
-- "Destroyed Runways Look Like Victory?" India Mocks Shehbaz Sharif's Claim - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWW
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWWI0OFdsR2JYanRaWXRvampHVURQTVJ1TUkwUWhWTHhtdTl6b2tnMFA0SjBQX2tldTgyUi1MNmw3NTJodjFKejlJc1k1OUln0gG3AUFVX3lxTFBTM3h1RWwwN1VHRVoxcG1nX2c1aTV5RDlUN3ROQTBiMnY4MlN2V0VxVHBsU0ZXZWV3Ny1GR0N0Vk01bU1RbXNFT0M0ZkM2WHBVYXUyeDN6aUcwT1pza2c2RENTbERzcXd4cGh1Q1QwdTUtOGdQREVGNlNGZDgwTm5hUGFKd3M2bnQ5YzZpTXNCcGhCdnA1dGxWd0g1TUNhY3A0WkUwYVBpT3dZVWZIU19DZ0Z6Wk9vRQ?oc=5
-
-- 'Epicentre of global terror': Jaishankar flags Pakistan as ‘that one country’ at UNGA | Latest News India - Hindustan Times
-  'Epicentre of global terror': Jaishankar flags Pakistan as �
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTm1HVVZHQlUyelB1dXJldG50Q1VvTmdzeG5LeFp1QjByamNmazB3Tmxzb2FZam5ERUlsLUlBcjBtTnNDZjJEd29lSGlrcmc3MEVicjJid01ObFZwaFFHSHNqOHE5a0R6X0xsRmpHRGgzNmRMQmpXa3EyamUxYUpGOW1wSkdDd0dmaEFNRnFDM2QxelFneTdJM3IwN3UxYWlKV2xFYUpXSnBQb2tUcGxyX05scy0zWlJMWmJjWDZRS2xRLTB0WnY0UGMxSWxoQ2pPbWx2TDdEclpWNTDSAeABQVVfeXFMUE1Gb0R5VmRiWHRjMXdSXzc5ZnVmZlJ1Y0FYSjNOTGdWQkxMTXZvQ0JEbnJVa01wZVVJa0ppcmxraExaVlQ1UE9sZXhUMlNaekZrdTVTdnFUZEVVX2NsSUFiOTVFaTVUYXJGbW5yVFJ4bk92YTVqTC1EMHJYVzl6RGhCN3R1bmJ2cWthaU5QQ1NlQzB3YWl6OUFWTTEtaGdJYnJaR2l6Q25QZk1uRTVoRGlla2QtUjJ1M05wTDJ6OVhVRWNUSmxybVFEVzhDTnJOcy1tTTNQeldOeG5nWnIxRm4?oc=5
-
-- News Today Live Updates, 27 September | Trump says he’ll send troops to Portland, Oregon, to handle ‘domestic terrorists’ - The Indian Express
-  The Indian Express reports that Donald Trump is considering sending troops to Portland, Oregon, to handle �
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaWIyaF9UXzZpdTVVTkNCUi1YeWlNOFl5eThEVGtKY3VpRDZBcFBRSTJNZ3Z4dU9HUzFDLWk4M2h3SnVnYTZWQlNCVE5Nd3A3X1NaLVd3R0FhZ0dXVWd3WDhjU2V3UWlXaDhoNGJEZE5QR3dIRkNDTzdwcTBoSWNWLUJ4S3dycVBQOVJ3N0ZTb3JJemdxek5LaEdWOXp2RkJGN1NoMWNNMHAxXzB1WE9YQnZsWGtMLWMxUEhWX1c0YW0zajFxdTZNQmh3UUstTk5tdWtfMThkZkFhYm9JSGcwbDBmV0p5Y19a0gHvAUFVX3lxTE9PRWVLTHMzcmdvSl9ubGt2Zk9PTHBfYXhBUW5ZeEhqWThRQWFTc3ppTE1hRUtfd3lOUDlLNVdzVG54ck56Qm9reHJPR3hZX3ctYnk0UVFjTWRVTWk1R21zVVdZeS1XU3VEVXR6cW5RZ2Y2b3BkUkEwczNyMk8xQUowRkJQUW55Z3FQN2ZodUdZUlpnYmlLaHBPVUhHRUpCYTFqYnBrLXNnS1REZjNqRjViY2dDc0VFaEp6cW1KLUhXcWhuSm5FZ3E1dXcyc1BEV3dZMXU5bkFidHpMdHpYSVg5Wm5SdTNLcDZ3UzQ0YzNZ?oc=5
-
-- Trump Tariff News Highlights: Thaw ahead? India, US to push for ‘mutually beneficial’ pact amid 250% pharma levies - Mint
-  The US and India are pushing for ‘mutually beneficial’ pact
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPeTJEcFdZNi1pN2QyQTNFWmVoUEJUTkFRZW5abnpla3ViandMZTlNSGFTVjFSdnJFNC1lVGRIcFpyLU5fN2k4X201bC1IVHNXczRwblNVSWh0dHlJdlF4TXoyMS1HS1VaTS0wbVlCa0JSSkU2M2Z2Y1BuWlZyVFhOODBMdzBoOGNOTkx2ajNYVjlycVo0SmdDZGE3S01HUVNsR2JGbk80cV95cmJiM3Nod2N0cTdZaWRYRnFmRjFDaS1LbktZSndRWWtlM1A2RXhvMFpfZ1lHTUJUOWRYM1d3SkVSbmdzdlZEYzYxREV2eWYwOEpsa0ZBWHBjbkhsV1lKMl9mbERR0gGLAkFVX3lxTFBYM2RoVmdWVXdxQXkzYm9Td3k2ZEIyUklsaVhaSmRmTVpZWWt4OUd2RjAzSFBZTVVmQUlnYlV0c0RWTEt1eExFTTlTRUgyWG5qbDNDNW4xaGxkdzc3RmdLcDNvSXF3V0VsaXdnUU8xNXNpbjRhZi1WMWk5enFHeXpwQk5PSm1XQURlWm1HOHJGN0tSR3R6ZVNuYnBQS3pyX1cwLUpvNFpfczhtLXhIUTVMOHhTWkZudXBBODFIcDBUeVBIYzVCaEZ4VEpraWxtSi1HdzEyRmw0bnZsUmJROG1kQ19yam1yRkdkSG5NZXlTUlcxLVJzeEZDV25MNzY1dE1XNUtPYzJLZ0VWSQ?oc=5
-
-- Trump Declares 100% Tariff On Pharma Imports From October 1, India May Be Hit - NDTV
-  Trump Declares 100% Tariff On Pharma Imports From
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSWoxcTZiYi0xWkdYYlJlaHVtSmZwU1RWdUpWWU1kS0s3RkxjcVhaWGNmdHBUSmlpTS02ZG5pWlBwcFB3UFFYUDlRaGNzRlRnWnVBa2tLNnprZTNJSTFWWUVUdGtiUEpWOHdidUtfQ19fbEdJbjZSbWF4dUcxZF9JTzdGU0F5TXlwTi0zbHRzNHFEekRORGZQeVdTTjAyQ2Y3UVhET1ZLNGZDTjTSAbMBQVVfeXFMT2FHT1FZZl8xd295WnF0aXpPZTExeDZ2WmhrYTE0a2tWczFxNTlCRndjY1dPZkRCNFpjM1hoM2JPVjdtTDZvSXQ5eTRNdFYxWFJjeXdPU2x1T3hMS29TTi1OSXNPNlI1cm90UkxpV05XU1lFelN6YlBEdVJsZHNGQjlJNkw3RUdhVUoyOFp2LUVHbFBsaEUzUGloWmRJMTg0aGVzQ0JYVU9Ua1ZYbFRiZi1RQVU?oc=5
+- India's 'swadeshi' 4G push: PM Modi launches BSNL's indigenous services - Here's all you need to know - The Times of India
+  India's 'swadeshi' 4G push: PM Modi launches BSNL's
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNb1ZPekRycTVJTEdUZzYxNG9JT2t3YUVETkk4aFc0bExmdTEwMHJGeEZtVFdldVdWSHNqcUtyYnhhVEZhYXlqZGZSR1hLTTJGZlR5UVkzOUNyd3NFSDl4OUlJRlpPYjVQeTgwMVE2TC1kdkJ6U21zWUVlZy10UXBkeVoyLUZlZnZraldkc29mdzktWXBJa2wzS2pqbjJfUGhTdU1GX3l3T2Jtd3V2cWxlWUJ3QXozNHpmaF91QW9leVBUVTc4bmx1Tk14RW8zY2l5OXhQeEZoYXg3REx0ZzlVX2FEbmVCVGYtNjFLR2FDblF6WlM3QVVnSGJkSUEwTW9yWV9mb1d6dmNjcknSAZACQVVfeXFMT1dzZ0ZCMnlXalI3YjBid1lVS1JrYVZmaUVSYW5zYm95M3VRYjBWZkxUeW0xNTJZVk5RQXotWXJuUVUyT2F4Y3hrak16ZDE4b05zSThJVW9XVG9NbHRWQ0JyTWY5UHUwSmFkXzd1emR1bDRQclg3SzdXOTBqMkVjQkxmdFN5LVRzZ0FyeEtESlBSU1BzYnJUTzhEQURKYjRQNHdrc3N1bW9EWUhwdmpFRVM5OEgyUE9XamVvZmxFWHY1S3gyQlg0VlI2YzNCX2h2bEdZTlhXZ0tFX2d2WF9LZkZqY2NFWEJiYzNTN0JBT3Fxck5uQjdPYWRKUC03Y0g3bXlpR0E3aXBLaUhZdm9JU1I?oc=5
 
 - "Destroyed Runways Look Like Victory?" India Mocks Shehbaz Sharif's Claim - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWW
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWWI0OFdsR2JYanRaWXRvampHVURQTVJ1TUkwUWhWTHhtdTl6b2tnMFA0SjBQX2tldTgyUi1MNmw3NTJodjFKejlJc1k1OUln0gG3AUFVX3lxTFBTM3h1RWwwN1VHRVoxcG1nX2c1aTV5RDlUN3ROQTBiMnY4MlN2V0VxVHBsU0ZXZWV3Ny1GR0N0Vk01bU1RbXNFT0M0ZkM2WHBVYXUyeDN6aUcwT1pza2c2RENTbERzcXd4cGh1Q1QwdTUtOGdQREVGNlNGZDgwTm5hUGFKd3M2bnQ5YzZpTXNCcGhCdnA1dGxWd0g1TUNhY3A0WkUwYVBpT3dZVWZIU19DZ0Z6Wk9vRQ?oc=5
 
-- 'Epicentre of global terror': Jaishankar flags Pakistan as ‘that one country’ at UNGA | Latest News India - Hindustan Times
-  'Epicentre of global terror': Jaishankar flags Pakistan as �
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTm1HVVZHQlUyelB1dXJldG50Q1VvTmdzeG5LeFp1QjByamNmazB3Tmxzb2FZam5ERUlsLUlBcjBtTnNDZjJEd29lSGlrcmc3MEVicjJid01ObFZwaFFHSHNqOHE5a0R6X0xsRmpHRGgzNmRMQmpXa3EyamUxYUpGOW1wSkdDd0dmaEFNRnFDM2QxelFneTdJM3IwN3UxYWlKV2xFYUpXSnBQb2tUcGxyX05scy0zWlJMWmJjWDZRS2xRLTB0WnY0UGMxSWxoQ2pPbWx2TDdEclpWNTDSAeABQVVfeXFMUE1Gb0R5VmRiWHRjMXdSXzc5ZnVmZlJ1Y0FYSjNOTGdWQkxMTXZvQ0JEbnJVa01wZVVJa0ppcmxraExaVlQ1UE9sZXhUMlNaekZrdTVTdnFUZEVVX2NsSUFiOTVFaTVUYXJGbW5yVFJ4bk92YTVqTC1EMHJYVzl6RGhCN3R1bmJ2cWthaU5QQ1NlQzB3YWl6OUFWTTEtaGdJYnJaR2l6Q25QZk1uRTVoRGlla2QtUjJ1M05wTDJ6OVhVRWNUSmxybVFEVzhDTnJOcy1tTTNQeldOeG5nWnIxRm4?oc=5
+- Pakistani military pleaded for cessation of fighting during Operation Sindoor: India exercises Right of Reply at UNGA - The Hindu
+  Pakistani military pleaded for cessation of fighting during Operation Sindoor. India exercises Right
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxObG1VNnhWQng0UzE5Z0tWV2REdVU3a3pDT09rTzZLY3ZsQkJ6U2h1LVFxN2VJY1NXN09rSEd4elJlSnNvOW5qNTNkUkFKZnFRWXkyUE1rQXQ1UkxHQlI1S3hidS1hbGRlY2lodEJZRGlMQUQ2ZENUS1RWNVE3UkRMMm8wX1NsenJieWRJQUs2cnpJdGdDdU1CM2xlaGFSal84YUZMQzBscnQ0Rk1Xb2lwalRERnJpY2VSMzdqc1JyblFYaTVrX0ZSQVFMS3NuMExkd0syY2kxc3lody12UmlYMC1HRVNESzdVMXB6enZCcTVjcnpOWTJrWmdRbDlpOHFobnJVWVdR0gGMAkFVX3lxTE5CbnNMTGMyZGRwM05qbmVocXJjbUt1RmgzRllpcFM5N3Q5NFZZMHJwN0NaMXptWFdKeHFkdGFwUGJoM3pNdmhOLVV1S1FodjZkX2ZueFBSeDNGQ2VSdkZwMHFjTmxkeEhKcHd6LVR4TmJscmdPaTVlVHA0enp4NDZ0dnpUVGtmU2hHY245cnZyY0otOC1GUFotclYzaGpKVzhmTGxhRlBZb0ppbXhBTGlyZGdITTFid0drbFZuMTRNRnAtLU1rUndobG9iU05tZVhaeUMwcTBrSFYtWU9nc2NjbVlRUVRXQjNSdm1fNURXVk9kaHF4cXk4TEY1Sk50N0dfQkFCNUdFTTJKaWo?oc=5
 
-- News Today Live Updates, 27 September | Trump says he’ll send troops to Portland, Oregon, to handle ‘domestic terrorists’ - The Indian Express
-  The Indian Express reports that Donald Trump is considering sending troops to Portland, Oregon, to handle �
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaWIyaF9UXzZpdTVVTkNCUi1YeWlNOFl5eThEVGtKY3VpRDZBcFBRSTJNZ3Z4dU9HUzFDLWk4M2h3SnVnYTZWQlNCVE5Nd3A3X1NaLVd3R0FhZ0dXVWd3WDhjU2V3UWlXaDhoNGJEZE5QR3dIRkNDTzdwcTBoSWNWLUJ4S3dycVBQOVJ3N0ZTb3JJemdxek5LaEdWOXp2RkJGN1NoMWNNMHAxXzB1WE9YQnZsWGtMLWMxUEhWX1c0YW0zajFxdTZNQmh3UUstTk5tdWtfMThkZkFhYm9JSGcwbDBmV0p5Y19a0gHvAUFVX3lxTE9PRWVLTHMzcmdvSl9ubGt2Zk9PTHBfYXhBUW5ZeEhqWThRQWFTc3ppTE1hRUtfd3lOUDlLNVdzVG54ck56Qm9reHJPR3hZX3ctYnk0UVFjTWRVTWk1R21zVVdZeS1XU3VEVXR6cW5RZ2Y2b3BkUkEwczNyMk8xQUowRkJQUW55Z3FQN2ZodUdZUlpnYmlLaHBPVUhHRUpCYTFqYnBrLXNnS1REZjNqRjViY2dDc0VFaEp6cW1KLUhXcWhuSm5FZ3E1dXcyc1BEV3dZMXU5bkFidHpMdHpYSVg5Wm5SdTNLcDZ3UzQ0YzNZ?oc=5
+- Did basmati kill basmati? - The Times of India
+  The Times of India asked
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkktaldqU2JFTnNHNTFVNFREdWxlNS1XV2I1RXRXZUtYRDVaVW5LZjhxRzl3RDIxRzFWRUc4M1J3YWgyd1VsMGFnRW85ZkVzc1B0c0lqdUpkb3AzeVdoXzVEazgxTlBpRnVxeDBudDR4cXJOMm5HSk9UY3labmtITzgxQW5lU0xjdDZyelQzV2pRWFJkakhv0gGcAUFVX3lxTE9CYXlOT0pqakxzQmQ4Rnp1T0lqU1NDYm5kQ0JRaWlBOERUTktER3JJbkM0RGtaR3FsWVd3VWVxZWlpUnNCMTVqT0tZS0ZnUjFVbUFqeVAzNXNxM3hRck4zT3ZuLWdwNmZ0bjZLTi05MkNuN2Rya2ZUbEduR2VVMWVRV3d1cDllTzNoOURGVG1wbl96bTFjUzJkTkNQeg?oc=5
 
-- Trump Tariff News Highlights: Thaw ahead? India, US to push for ‘mutually beneficial’ pact amid 250% pharma levies - Mint
-  The US and India are pushing for ‘mutually beneficial’ pact
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPeTJEcFdZNi1pN2QyQTNFWmVoUEJUTkFRZW5abnpla3ViandMZTlNSGFTVjFSdnJFNC1lVGRIcFpyLU5fN2k4X201bC1IVHNXczRwblNVSWh0dHlJdlF4TXoyMS1HS1VaTS0wbVlCa0JSSkU2M2Z2Y1BuWlZyVFhOODBMdzBoOGNOTkx2ajNYVjlycVo0SmdDZGE3S01HUVNsR2JGbk80cV95cmJiM3Nod2N0cTdZaWRYRnFmRjFDaS1LbktZSndRWWtlM1A2RXhvMFpfZ1lHTUJUOWRYM1d3SkVSbmdzdlZEYzYxREV2eWYwOEpsa0ZBWHBjbkhsV1lKMl9mbERR0gGLAkFVX3lxTFBYM2RoVmdWVXdxQXkzYm9Td3k2ZEIyUklsaVhaSmRmTVpZWWt4OUd2RjAzSFBZTVVmQUlnYlV0c0RWTEt1eExFTTlTRUgyWG5qbDNDNW4xaGxkdzc3RmdLcDNvSXF3V0VsaXdnUU8xNXNpbjRhZi1WMWk5enFHeXpwQk5PSm1XQURlWm1HOHJGN0tSR3R6ZVNuYnBQS3pyX1cwLUpvNFpfczhtLXhIUTVMOHhTWkZudXBBODFIcDBUeVBIYzVCaEZ4VEpraWxtSi1HdzEyRmw0bnZsUmJROG1kQ19yam1yRkdkSG5NZXlTUlcxLVJzeEZDV25MNzY1dE1XNUtPYzJLZ0VWSQ?oc=5
+- 'India has self-respect': Russian foreign minister amid oil trade, Trump tariffs | Latest News India - Hindustan Times
+  'India has self-respect': Russian foreign minister amid oil trade,
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQUhXQl9yWUFSMTRZZmJQUmZhUWwzMVN3akR5ODZuR1lieGNqSmVWaTY1dWxnemNFdTdtS1gzWTRSS3RZWnNRMnA1UWY3N3NwMmY0Qlk1VkJZUEF0MlJIbC1GRnR2RFFVN01ZX0YtS0h6OGg1Y1hmNjdTeUxEU3dkdUtlaXpjVXBJbUYwVWNaQk5ubmFmV19GVlhNMjNaTFRub1RMcmxNZnpERExkdnQtQU5sc2FVbWo4T0tXaWhjaHh1N3VmUDhocm91QnhTRjdRUGZjOFZKZjMxWGVUWFJUeVVWbG1tRi1GdVM2QzBoYkk3UVRFMXhfamh5QlnSAYICQVVfeXFMTWxLWlNVNnM5bk1Sc0F2WFN2bThyUzN3a1hXamgzSi1KNWNBT2x6cU5aZUhnNE1Oc2xxVXRvcDRPRXBBMXB1T2hwMlU4UXd4THN2dTFjbTk0akFOWnBCdVFKb2ZxZzI2QnNBQjhvZi1ndWNNMUF6MDlpXzZneWdOTWNjTS1tNVNaU19Rdmh0OWRCOXhkdEs1SWRjWlJVeElHX3o4MGNfR1lJakhUVFJCVi03Z3JPZUtVcmpPU1BNaEw3WFJDUUVUZFI0LXcxMzhIUU1fajR4NnkxOW54SDdVMW1SOFFtVS1qQnVjNWx4c0hxcFlLSDZpbU1lUVJvMmlWRXZn?oc=5
 
-- Trump Declares 100% Tariff On Pharma Imports From October 1, India May Be Hit - NDTV
-  Trump Declares 100% Tariff On Pharma Imports From
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSWoxcTZiYi0xWkdYYlJlaHVtSmZwU1RWdUpWWU1kS0s3RkxjcVhaWGNmdHBUSmlpTS02ZG5pWlBwcFB3UFFYUDlRaGNzRlRnWnVBa2tLNnprZTNJSTFWWUVUdGtiUEpWOHdidUtfQ19fbEdJbjZSbWF4dUcxZF9JTzdGU0F5TXlwTi0zbHRzNHFEekRORGZQeVdTTjAyQ2Y3UVhET1ZLNGZDTjTSAbMBQVVfeXFMT2FHT1FZZl8xd295WnF0aXpPZTExeDZ2WmhrYTE0a2tWczFxNTlCRndjY1dPZkRCNFpjM1hoM2JPVjdtTDZvSXQ5eTRNdFYxWFJjeXdPU2x1T3hMS29TTi1OSXNPNlI1cm90UkxpV05XU1lFelN6YlBEdVJsZHNGQjlJNkw3RUdhVUoyOFp2LUVHbFBsaEUzUGloWmRJMTg0aGVzQ0JYVU9Ua1ZYbFRiZi1RQVU?oc=5
+- India's 'swadeshi' 4G push: PM Modi launches BSNL's indigenous services - Here's all you need to know - The Times of India
+  India's 'swadeshi' 4G push: PM Modi launches BSNL's
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNb1ZPekRycTVJTEdUZzYxNG9JT2t3YUVETkk4aFc0bExmdTEwMHJGeEZtVFdldVdWSHNqcUtyYnhhVEZhYXlqZGZSR1hLTTJGZlR5UVkzOUNyd3NFSDl4OUlJRlpPYjVQeTgwMVE2TC1kdkJ6U21zWUVlZy10UXBkeVoyLUZlZnZraldkc29mdzktWXBJa2wzS2pqbjJfUGhTdU1GX3l3T2Jtd3V2cWxlWUJ3QXozNHpmaF91QW9leVBUVTc4bmx1Tk14RW8zY2l5OXhQeEZoYXg3REx0ZzlVX2FEbmVCVGYtNjFLR2FDblF6WlM3QVVnSGJkSUEwTW9yWV9mb1d6dmNjcknSAZACQVVfeXFMT1dzZ0ZCMnlXalI3YjBid1lVS1JrYVZmaUVSYW5zYm95M3VRYjBWZkxUeW0xNTJZVk5RQXotWXJuUVUyT2F4Y3hrak16ZDE4b05zSThJVW9XVG9NbHRWQ0JyTWY5UHUwSmFkXzd1emR1bDRQclg3SzdXOTBqMkVjQkxmdFN5LVRzZ0FyeEtESlBSU1BzYnJUTzhEQURKYjRQNHdrc3N1bW9EWUhwdmpFRVM5OEgyUE9XamVvZmxFWHY1S3gyQlg0VlI2YzNCX2h2bEdZTlhXZ0tFX2d2WF9LZkZqY2NFWEJiYzNTN0JBT3Fxck5uQjdPYWRKUC03Y0g3bXlpR0E3aXBLaUhZdm9JU1I?oc=5
 
 - "Destroyed Runways Look Like Victory?" India Mocks Shehbaz Sharif's Claim - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWW
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWWI0OFdsR2JYanRaWXRvampHVURQTVJ1TUkwUWhWTHhtdTl6b2tnMFA0SjBQX2tldTgyUi1MNmw3NTJodjFKejlJc1k1OUln0gG3AUFVX3lxTFBTM3h1RWwwN1VHRVoxcG1nX2c1aTV5RDlUN3ROQTBiMnY4MlN2V0VxVHBsU0ZXZWV3Ny1GR0N0Vk01bU1RbXNFT0M0ZkM2WHBVYXUyeDN6aUcwT1pza2c2RENTbERzcXd4cGh1Q1QwdTUtOGdQREVGNlNGZDgwTm5hUGFKd3M2bnQ5YzZpTXNCcGhCdnA1dGxWd0g1TUNhY3A0WkUwYVBpT3dZVWZIU19DZ0Z6Wk9vRQ?oc=5
 
-- 'Epicentre of global terror': Jaishankar flags Pakistan as ‘that one country’ at UNGA | Latest News India - Hindustan Times
-  'Epicentre of global terror': Jaishankar flags Pakistan as �
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTm1HVVZHQlUyelB1dXJldG50Q1VvTmdzeG5LeFp1QjByamNmazB3Tmxzb2FZam5ERUlsLUlBcjBtTnNDZjJEd29lSGlrcmc3MEVicjJid01ObFZwaFFHSHNqOHE5a0R6X0xsRmpHRGgzNmRMQmpXa3EyamUxYUpGOW1wSkdDd0dmaEFNRnFDM2QxelFneTdJM3IwN3UxYWlKV2xFYUpXSnBQb2tUcGxyX05scy0zWlJMWmJjWDZRS2xRLTB0WnY0UGMxSWxoQ2pPbWx2TDdEclpWNTDSAeABQVVfeXFMUE1Gb0R5VmRiWHRjMXdSXzc5ZnVmZlJ1Y0FYSjNOTGdWQkxMTXZvQ0JEbnJVa01wZVVJa0ppcmxraExaVlQ1UE9sZXhUMlNaekZrdTVTdnFUZEVVX2NsSUFiOTVFaTVUYXJGbW5yVFJ4bk92YTVqTC1EMHJYVzl6RGhCN3R1bmJ2cWthaU5QQ1NlQzB3YWl6OUFWTTEtaGdJYnJaR2l6Q25QZk1uRTVoRGlla2QtUjJ1M05wTDJ6OVhVRWNUSmxybVFEVzhDTnJOcy1tTTNQeldOeG5nWnIxRm4?oc=5
+- Pakistani military pleaded for cessation of fighting during Operation Sindoor: India exercises Right of Reply at UNGA - The Hindu
+  Pakistani military pleaded for cessation of fighting during Operation Sindoor. India exercises Right
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxObG1VNnhWQng0UzE5Z0tWV2REdVU3a3pDT09rTzZLY3ZsQkJ6U2h1LVFxN2VJY1NXN09rSEd4elJlSnNvOW5qNTNkUkFKZnFRWXkyUE1rQXQ1UkxHQlI1S3hidS1hbGRlY2lodEJZRGlMQUQ2ZENUS1RWNVE3UkRMMm8wX1NsenJieWRJQUs2cnpJdGdDdU1CM2xlaGFSal84YUZMQzBscnQ0Rk1Xb2lwalRERnJpY2VSMzdqc1JyblFYaTVrX0ZSQVFMS3NuMExkd0syY2kxc3lody12UmlYMC1HRVNESzdVMXB6enZCcTVjcnpOWTJrWmdRbDlpOHFobnJVWVdR0gGMAkFVX3lxTE5CbnNMTGMyZGRwM05qbmVocXJjbUt1RmgzRllpcFM5N3Q5NFZZMHJwN0NaMXptWFdKeHFkdGFwUGJoM3pNdmhOLVV1S1FodjZkX2ZueFBSeDNGQ2VSdkZwMHFjTmxkeEhKcHd6LVR4TmJscmdPaTVlVHA0enp4NDZ0dnpUVGtmU2hHY245cnZyY0otOC1GUFotclYzaGpKVzhmTGxhRlBZb0ppbXhBTGlyZGdITTFid0drbFZuMTRNRnAtLU1rUndobG9iU05tZVhaeUMwcTBrSFYtWU9nc2NjbVlRUVRXQjNSdm1fNURXVk9kaHF4cXk4TEY1Sk50N0dfQkFCNUdFTTJKaWo?oc=5
 
-- News Today Live Updates, 27 September | Trump says he’ll send troops to Portland, Oregon, to handle ‘domestic terrorists’ - The Indian Express
-  The Indian Express reports that Donald Trump is considering sending troops to Portland, Oregon, to handle �
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaWIyaF9UXzZpdTVVTkNCUi1YeWlNOFl5eThEVGtKY3VpRDZBcFBRSTJNZ3Z4dU9HUzFDLWk4M2h3SnVnYTZWQlNCVE5Nd3A3X1NaLVd3R0FhZ0dXVWd3WDhjU2V3UWlXaDhoNGJEZE5QR3dIRkNDTzdwcTBoSWNWLUJ4S3dycVBQOVJ3N0ZTb3JJemdxek5LaEdWOXp2RkJGN1NoMWNNMHAxXzB1WE9YQnZsWGtMLWMxUEhWX1c0YW0zajFxdTZNQmh3UUstTk5tdWtfMThkZkFhYm9JSGcwbDBmV0p5Y19a0gHvAUFVX3lxTE9PRWVLTHMzcmdvSl9ubGt2Zk9PTHBfYXhBUW5ZeEhqWThRQWFTc3ppTE1hRUtfd3lOUDlLNVdzVG54ck56Qm9reHJPR3hZX3ctYnk0UVFjTWRVTWk1R21zVVdZeS1XU3VEVXR6cW5RZ2Y2b3BkUkEwczNyMk8xQUowRkJQUW55Z3FQN2ZodUdZUlpnYmlLaHBPVUhHRUpCYTFqYnBrLXNnS1REZjNqRjViY2dDc0VFaEp6cW1KLUhXcWhuSm5FZ3E1dXcyc1BEV3dZMXU5bkFidHpMdHpYSVg5Wm5SdTNLcDZ3UzQ0YzNZ?oc=5
+- Did basmati kill basmati? - The Times of India
+  The Times of India asked
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkktaldqU2JFTnNHNTFVNFREdWxlNS1XV2I1RXRXZUtYRDVaVW5LZjhxRzl3RDIxRzFWRUc4M1J3YWgyd1VsMGFnRW85ZkVzc1B0c0lqdUpkb3AzeVdoXzVEazgxTlBpRnVxeDBudDR4cXJOMm5HSk9UY3labmtITzgxQW5lU0xjdDZyelQzV2pRWFJkakhv0gGcAUFVX3lxTE9CYXlOT0pqakxzQmQ4Rnp1T0lqU1NDYm5kQ0JRaWlBOERUTktER3JJbkM0RGtaR3FsWVd3VWVxZWlpUnNCMTVqT0tZS0ZnUjFVbUFqeVAzNXNxM3hRck4zT3ZuLWdwNmZ0bjZLTi05MkNuN2Rya2ZUbEduR2VVMWVRV3d1cDllTzNoOURGVG1wbl96bTFjUzJkTkNQeg?oc=5
 
-- Trump Tariff News Highlights: Thaw ahead? India, US to push for ‘mutually beneficial’ pact amid 250% pharma levies - Mint
-  The US and India are pushing for ‘mutually beneficial’ pact
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPeTJEcFdZNi1pN2QyQTNFWmVoUEJUTkFRZW5abnpla3ViandMZTlNSGFTVjFSdnJFNC1lVGRIcFpyLU5fN2k4X201bC1IVHNXczRwblNVSWh0dHlJdlF4TXoyMS1HS1VaTS0wbVlCa0JSSkU2M2Z2Y1BuWlZyVFhOODBMdzBoOGNOTkx2ajNYVjlycVo0SmdDZGE3S01HUVNsR2JGbk80cV95cmJiM3Nod2N0cTdZaWRYRnFmRjFDaS1LbktZSndRWWtlM1A2RXhvMFpfZ1lHTUJUOWRYM1d3SkVSbmdzdlZEYzYxREV2eWYwOEpsa0ZBWHBjbkhsV1lKMl9mbERR0gGLAkFVX3lxTFBYM2RoVmdWVXdxQXkzYm9Td3k2ZEIyUklsaVhaSmRmTVpZWWt4OUd2RjAzSFBZTVVmQUlnYlV0c0RWTEt1eExFTTlTRUgyWG5qbDNDNW4xaGxkdzc3RmdLcDNvSXF3V0VsaXdnUU8xNXNpbjRhZi1WMWk5enFHeXpwQk5PSm1XQURlWm1HOHJGN0tSR3R6ZVNuYnBQS3pyX1cwLUpvNFpfczhtLXhIUTVMOHhTWkZudXBBODFIcDBUeVBIYzVCaEZ4VEpraWxtSi1HdzEyRmw0bnZsUmJROG1kQ19yam1yRkdkSG5NZXlTUlcxLVJzeEZDV25MNzY1dE1XNUtPYzJLZ0VWSQ?oc=5
+- 'India has self-respect': Russian foreign minister amid oil trade, Trump tariffs | Latest News India - Hindustan Times
+  'India has self-respect': Russian foreign minister amid oil trade,
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQUhXQl9yWUFSMTRZZmJQUmZhUWwzMVN3akR5ODZuR1lieGNqSmVWaTY1dWxnemNFdTdtS1gzWTRSS3RZWnNRMnA1UWY3N3NwMmY0Qlk1VkJZUEF0MlJIbC1GRnR2RFFVN01ZX0YtS0h6OGg1Y1hmNjdTeUxEU3dkdUtlaXpjVXBJbUYwVWNaQk5ubmFmV19GVlhNMjNaTFRub1RMcmxNZnpERExkdnQtQU5sc2FVbWo4T0tXaWhjaHh1N3VmUDhocm91QnhTRjdRUGZjOFZKZjMxWGVUWFJUeVVWbG1tRi1GdVM2QzBoYkk3UVRFMXhfamh5QlnSAYICQVVfeXFMTWxLWlNVNnM5bk1Sc0F2WFN2bThyUzN3a1hXamgzSi1KNWNBT2x6cU5aZUhnNE1Oc2xxVXRvcDRPRXBBMXB1T2hwMlU4UXd4THN2dTFjbTk0akFOWnBCdVFKb2ZxZzI2QnNBQjhvZi1ndWNNMUF6MDlpXzZneWdOTWNjTS1tNVNaU19Rdmh0OWRCOXhkdEs1SWRjWlJVeElHX3o4MGNfR1lJakhUVFJCVi03Z3JPZUtVcmpPU1BNaEw3WFJDUUVUZFI0LXcxMzhIUU1fajR4NnkxOW54SDdVMW1SOFFtVS1qQnVjNWx4c0hxcFlLSDZpbU1lUVJvMmlWRXZn?oc=5
 
-- Trump Declares 100% Tariff On Pharma Imports From October 1, India May Be Hit - NDTV
-  Trump Declares 100% Tariff On Pharma Imports From
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSWoxcTZiYi0xWkdYYlJlaHVtSmZwU1RWdUpWWU1kS0s3RkxjcVhaWGNmdHBUSmlpTS02ZG5pWlBwcFB3UFFYUDlRaGNzRlRnWnVBa2tLNnprZTNJSTFWWUVUdGtiUEpWOHdidUtfQ19fbEdJbjZSbWF4dUcxZF9JTzdGU0F5TXlwTi0zbHRzNHFEekRORGZQeVdTTjAyQ2Y3UVhET1ZLNGZDTjTSAbMBQVVfeXFMT2FHT1FZZl8xd295WnF0aXpPZTExeDZ2WmhrYTE0a2tWczFxNTlCRndjY1dPZkRCNFpjM1hoM2JPVjdtTDZvSXQ5eTRNdFYxWFJjeXdPU2x1T3hMS29TTi1OSXNPNlI1cm90UkxpV05XU1lFelN6YlBEdVJsZHNGQjlJNkw3RUdhVUoyOFp2LUVHbFBsaEUzUGloWmRJMTg0aGVzQ0JYVU9Ua1ZYbFRiZi1RQVU?oc=5
+- India's 'swadeshi' 4G push: PM Modi launches BSNL's indigenous services - Here's all you need to know - The Times of India
+  India's 'swadeshi' 4G push: PM Modi launches BSNL's
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNb1ZPekRycTVJTEdUZzYxNG9JT2t3YUVETkk4aFc0bExmdTEwMHJGeEZtVFdldVdWSHNqcUtyYnhhVEZhYXlqZGZSR1hLTTJGZlR5UVkzOUNyd3NFSDl4OUlJRlpPYjVQeTgwMVE2TC1kdkJ6U21zWUVlZy10UXBkeVoyLUZlZnZraldkc29mdzktWXBJa2wzS2pqbjJfUGhTdU1GX3l3T2Jtd3V2cWxlWUJ3QXozNHpmaF91QW9leVBUVTc4bmx1Tk14RW8zY2l5OXhQeEZoYXg3REx0ZzlVX2FEbmVCVGYtNjFLR2FDblF6WlM3QVVnSGJkSUEwTW9yWV9mb1d6dmNjcknSAZACQVVfeXFMT1dzZ0ZCMnlXalI3YjBid1lVS1JrYVZmaUVSYW5zYm95M3VRYjBWZkxUeW0xNTJZVk5RQXotWXJuUVUyT2F4Y3hrak16ZDE4b05zSThJVW9XVG9NbHRWQ0JyTWY5UHUwSmFkXzd1emR1bDRQclg3SzdXOTBqMkVjQkxmdFN5LVRzZ0FyeEtESlBSU1BzYnJUTzhEQURKYjRQNHdrc3N1bW9EWUhwdmpFRVM5OEgyUE9XamVvZmxFWHY1S3gyQlg0VlI2YzNCX2h2bEdZTlhXZ0tFX2d2WF9LZkZqY2NFWEJiYzNTN0JBT3Fxck5uQjdPYWRKUC03Y0g3bXlpR0E3aXBLaUhZdm9JU1I?oc=5
+
+- "Destroyed Runways Look Like Victory?" India Mocks Shehbaz Sharif's Claim - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWW
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHJCR1JodVdEd3lFX1drYV9rQ1BGQUJjYXZueUhHLXlkbFk3aTA0NmJHRG50d1BoRXktajBNMHJUQWM0ZkxzTDhxUGF6bHk0bjl6OTlraTZlUUkyQnNBWl9ya0QwMTFWWWI0OFdsR2JYanRaWXRvampHVURQTVJ1TUkwUWhWTHhtdTl6b2tnMFA0SjBQX2tldTgyUi1MNmw3NTJodjFKejlJc1k1OUln0gG3AUFVX3lxTFBTM3h1RWwwN1VHRVoxcG1nX2c1aTV5RDlUN3ROQTBiMnY4MlN2V0VxVHBsU0ZXZWV3Ny1GR0N0Vk01bU1RbXNFT0M0ZkM2WHBVYXUyeDN6aUcwT1pza2c2RENTbERzcXd4cGh1Q1QwdTUtOGdQREVGNlNGZDgwTm5hUGFKd3M2bnQ5YzZpTXNCcGhCdnA1dGxWd0g1TUNhY3A0WkUwYVBpT3dZVWZIU19DZ0Z6Wk9vRQ?oc=5
+
+- Pakistani military pleaded for cessation of fighting during Operation Sindoor: India exercises Right of Reply at UNGA - The Hindu
+  Pakistani military pleaded for cessation of fighting during Operation Sindoor. India exercises Right
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxObG1VNnhWQng0UzE5Z0tWV2REdVU3a3pDT09rTzZLY3ZsQkJ6U2h1LVFxN2VJY1NXN09rSEd4elJlSnNvOW5qNTNkUkFKZnFRWXkyUE1rQXQ1UkxHQlI1S3hidS1hbGRlY2lodEJZRGlMQUQ2ZENUS1RWNVE3UkRMMm8wX1NsenJieWRJQUs2cnpJdGdDdU1CM2xlaGFSal84YUZMQzBscnQ0Rk1Xb2lwalRERnJpY2VSMzdqc1JyblFYaTVrX0ZSQVFMS3NuMExkd0syY2kxc3lody12UmlYMC1HRVNESzdVMXB6enZCcTVjcnpOWTJrWmdRbDlpOHFobnJVWVdR0gGMAkFVX3lxTE5CbnNMTGMyZGRwM05qbmVocXJjbUt1RmgzRllpcFM5N3Q5NFZZMHJwN0NaMXptWFdKeHFkdGFwUGJoM3pNdmhOLVV1S1FodjZkX2ZueFBSeDNGQ2VSdkZwMHFjTmxkeEhKcHd6LVR4TmJscmdPaTVlVHA0enp4NDZ0dnpUVGtmU2hHY245cnZyY0otOC1GUFotclYzaGpKVzhmTGxhRlBZb0ppbXhBTGlyZGdITTFid0drbFZuMTRNRnAtLU1rUndobG9iU05tZVhaeUMwcTBrSFYtWU9nc2NjbVlRUVRXQjNSdm1fNURXVk9kaHF4cXk4TEY1Sk50N0dfQkFCNUdFTTJKaWo?oc=5
+
+- Did basmati kill basmati? - The Times of India
+  The Times of India asked
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkktaldqU2JFTnNHNTFVNFREdWxlNS1XV2I1RXRXZUtYRDVaVW5LZjhxRzl3RDIxRzFWRUc4M1J3YWgyd1VsMGFnRW85ZkVzc1B0c0lqdUpkb3AzeVdoXzVEazgxTlBpRnVxeDBudDR4cXJOMm5HSk9UY3labmtITzgxQW5lU0xjdDZyelQzV2pRWFJkakhv0gGcAUFVX3lxTE9CYXlOT0pqakxzQmQ4Rnp1T0lqU1NDYm5kQ0JRaWlBOERUTktER3JJbkM0RGtaR3FsWVd3VWVxZWlpUnNCMTVqT0tZS0ZnUjFVbUFqeVAzNXNxM3hRck4zT3ZuLWdwNmZ0bjZLTi05MkNuN2Rya2ZUbEduR2VVMWVRV3d1cDllTzNoOURGVG1wbl96bTFjUzJkTkNQeg?oc=5
+
+- 'India has self-respect': Russian foreign minister amid oil trade, Trump tariffs | Latest News India - Hindustan Times
+  'India has self-respect': Russian foreign minister amid oil trade,
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQUhXQl9yWUFSMTRZZmJQUmZhUWwzMVN3akR5ODZuR1lieGNqSmVWaTY1dWxnemNFdTdtS1gzWTRSS3RZWnNRMnA1UWY3N3NwMmY0Qlk1VkJZUEF0MlJIbC1GRnR2RFFVN01ZX0YtS0h6OGg1Y1hmNjdTeUxEU3dkdUtlaXpjVXBJbUYwVWNaQk5ubmFmV19GVlhNMjNaTFRub1RMcmxNZnpERExkdnQtQU5sc2FVbWo4T0tXaWhjaHh1N3VmUDhocm91QnhTRjdRUGZjOFZKZjMxWGVUWFJUeVVWbG1tRi1GdVM2QzBoYkk3UVRFMXhfamh5QlnSAYICQVVfeXFMTWxLWlNVNnM5bk1Sc0F2WFN2bThyUzN3a1hXamgzSi1KNWNBT2x6cU5aZUhnNE1Oc2xxVXRvcDRPRXBBMXB1T2hwMlU4UXd4THN2dTFjbTk0akFOWnBCdVFKb2ZxZzI2QnNBQjhvZi1ndWNNMUF6MDlpXzZneWdOTWNjTS1tNVNaU19Rdmh0OWRCOXhkdEs1SWRjWlJVeElHX3o4MGNfR1lJakhUVFJCVi03Z3JPZUtVcmpPU1BNaEw3WFJDUUVUZFI0LXcxMzhIUU1fajR4NnkxOW54SDdVMW1SOFFtVS1qQnVjNWx4c0hxcFlLSDZpbU1lUVJvMmlWRXZn?oc=5
+
+- India's 'swadeshi' 4G push: PM Modi launches BSNL's indigenous services - Here's all you need to know - The Times of India
+  India's 'swadeshi' 4G push: PM Modi launches BSNL's
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNb1ZPekRycTVJTEdUZzYxNG9JT2t3YUVETkk4aFc0bExmdTEwMHJGeEZtVFdldVdWSHNqcUtyYnhhVEZhYXlqZGZSR1hLTTJGZlR5UVkzOUNyd3NFSDl4OUlJRlpPYjVQeTgwMVE2TC1kdkJ6U21zWUVlZy10UXBkeVoyLUZlZnZraldkc29mdzktWXBJa2wzS2pqbjJfUGhTdU1GX3l3T2Jtd3V2cWxlWUJ3QXozNHpmaF91QW9leVBUVTc4bmx1Tk14RW8zY2l5OXhQeEZoYXg3REx0ZzlVX2FEbmVCVGYtNjFLR2FDblF6WlM3QVVnSGJkSUEwTW9yWV9mb1d6dmNjcknSAZACQVVfeXFMT1dzZ0ZCMnlXalI3YjBid1lVS1JrYVZmaUVSYW5zYm95M3VRYjBWZkxUeW0xNTJZVk5RQXotWXJuUVUyT2F4Y3hrak16ZDE4b05zSThJVW9XVG9NbHRWQ0JyTWY5UHUwSmFkXzd1emR1bDRQclg3SzdXOTBqMkVjQkxmdFN5LVRzZ0FyeEtESlBSU1BzYnJUTzhEQURKYjRQNHdrc3N1bW9EWUhwdmpFRVM5OEgyUE9XamVvZmxFWHY1S3gyQlg0VlI2YzNCX2h2bEdZTlhXZ0tFX2d2WF9LZkZqY2NFWEJiYzNTN0JBT3Fxck5uQjdPYWRKUC03Y0g3bXlpR0E3aXBLaUhZdm9JU1I?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-27 18:23:20 UTC_
+_Last updated: 2025-09-28 01:17:21 UTC_
