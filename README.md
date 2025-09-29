@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Himachal showcases horticultural excellence at World Food India
+- Modi writes foreword to Giorgia Meloni’s memoir, calls the book her ‘Mann Ki Baat’
   
-  🔗 https://indianexpress.com/article/india/himachal-showcases-horticultural-excellence-at-world-food-india-10277109/
+  🔗 https://indianexpress.com/article/india/modi-writes-foreword-to-giorgia-melonis-memoir-calls-the-book-her-mann-ki-baat-10277385/
 
-- ARTRAC marks its 35th Raising Day with band display, ‘Run for Excellence’ in Shimla
+- Among Leh victims, 20-year-old who grew up in shelter home
   
-  🔗 https://indianexpress.com/article/india/artrac-marks-its-35th-raising-day-with-band-display-run-for-excellence-in-shimla-10277063/
+  🔗 https://indianexpress.com/article/india/among-leh-victims-20-year-old-who-grew-up-in-shelter-home-10277263/
 
-- Centre tweaks norms on Hindi competency for Eklavya residential school staff exam
+- Congress writes to Amit Shah over BJP panelist’s ‘death threat’ to Rahul Gandhi
   
-  🔗 https://indianexpress.com/article/india/centre-norms-hindi-competency-eklavua-residential-school-staff-exam-10276975/
+  🔗 https://indianexpress.com/article/india/congress-writes-to-amit-shah-over-bjp-panelists-death-threat-to-rahul-gandhi-10277281/
 
-- Energy Minister of newly-formed Nepal Govt to visit India in October
+- CBI books 2 doctors for duping AIIMS in Rishikesh
   
-  🔗 https://indianexpress.com/article/india/energy-minister-of-newly-formed-nepal-govt-to-visit-india-in-october-10276970/
+  🔗 https://indianexpress.com/article/india/cbi-books-2-doctors-for-duping-aiims-in-rishikesh-10277257/
 
-- 5 stories you must read today, Sep 28: From Vijay rally stampede to India’s response to Pak at UN and more
+- After Trump action, Canadian PM Mark Carney says proposal on H-1B soon
   
-  🔗 https://indianexpress.com/article/india/express-catch-up-sep-28-vijay-rally-stampede-india-vs-pakistan-asia-cup-10276930/
+  🔗 https://indianexpress.com/article/india/after-trump-action-canadian-pm-mark-carney-says-proposal-on-h-1b-soon-10277201/
 
 - Zoho’s Arattai: Can India’s homegrown messaging app rival WhatsApp?
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/how-to-move-your-music-library-to-another-streaming-platform-10276053/
 
+- Trump’s visa fee hike is not the only worry. Hostility mounts for Indian IT in US
+  Two senators targeted TCS and Cognizant over layoffs and hiring practices. A third senator is pushing for a reform of the H-1
+  🔗 https://www.livemint.com/companies/tcs-cognizant-pulled-up-by-us-lawmakers-hire-act-h-1b-visa-reform-11759053915235.html
+
 - Trucks, three-wheelers and more: How Murugappa is riding the electric revolution
   The Murugappa Group has quickly expanded its presence in the electric space in nearly all commercial segments. Within a matter of three years, the
   🔗 https://www.livemint.com/companies/murugappa-ev-business-montra-electric-vehicles-lithium-ion-battery-india-11759059621382.html
@@ -56,169 +60,165 @@
   Denmark bans the use of civilian drones for five days next week. It is stepping up security ahead
   🔗 https://www.livemint.com/companies/news/denmark-bans-civilian-drones-ahead-of-eu-leaders-visit-11759065374111.html
 
-- India emerges as the most-preferred market for expansion among APAC-based 3PL firms
-  Around 80 per cent of the third-party logistics (3PL) players in India are planning to expand their portfolio by over 10 per cent in the next two to five years.
-  🔗 https://www.livemint.com/companies/company-results/india-emerges-as-the-most-preferred-market-for-expansion-among-apac-based-3pl-firms-11759064344057.html
+- Global Markets Today: Nikkei 225, Kospi trade mixed ahead of Australia central bank policy meeting
+  Australia's S&amp;amp;P/ASX 200 gained 0.43 per cent.
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-trade-mixed-ahead-of-australia-central-bank-policy-meeting-11759106720217.html
 
-- Wall Street week ahead: Focus on non-farm payrolls, S&amp;P manufacturing PMI, Nike earnings
-   traders will be closely monitoring releases covering S&amp;amp;P final services PMI, consumer confidence figures
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-focus-on-non-farm-payrolls-s-p-manufacturing-pmi-nike-earnings-11759079848805.html
+- Tata Capital IPO: Price band set at  ₹310-326 per share; check key dates, issue details, more
+  The IPO aims to enhance Tier-1 capital, with listing expected on October 13. Tata Capital IPO price band is set between  ₹310 and  �
+  🔗 https://www.livemint.com/market/ipo/tata-capital-ipo-gmp-tata-capital-ipo-price-tata-capital-ipo-details-tata-capital-ipo-date-tata-capital-ipo-price-band-11759081239514.html
 
-- 350% rally in 3.5 years! Multibagger stock to be in focus on Monday; here's why
-  Krishival Foods shares will be in the focus of stock market investors. Stock has gained over 51% in the last one-year
-  🔗 https://www.livemint.com/market/stock-market-news/350-rally-in-3-5-years-multibagger-stock-krishival-foods-shares-to-be-in-focus-on-monday-heres-why-11759074478244.html
+- Atlanta Electricals IPO listing date today: Here’s what GMP, experts signal on share debut
+  The shares are expected to trade at a premium due to strong demand. Estimates suggest a listing price of  ₹864, which is 14.59% above the IPO price.
+  🔗 https://www.livemint.com/market/ipo/atlanta-electricals-ipo-gmp-atlanta-electricals-ipo-listing-date-atlanta-electricals-ipo-allotment-status-atlanta-11759079014179.html
 
-- Chatterbox IPO: Check GMP, subscription status, other details of BSE SME IPO in 10 points
-  Indian influencer marketing platform Chatterbox IPO is set to witness the final day of public bidding on Monday, 29 September 2025. The public issue will be listed on the BSE SME Index
-  🔗 https://www.livemint.com/market/ipo/chatterbox-ipo-check-gmp-subscription-status-other-details-of-bse-sme-ipo-in-10-points-11759064839484.html
+- Stock market today: Trade setup for Nifty 50, India US trade deal to Trump tariffs; 8 stocks to buy or sell
+  Nifty 50 fell 0.95% to 24,654.7, while Sensex dropped 0.9% to 80,426.46. Overall weekly loss of 2.7%.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-india-us-trade-deal-to-trump-tariffs-8-stocks-to-buy-or-sell-11759073065461.html
 
-- Indian bullion lobby pitches for local gold on exchanges, ETFs
-  Exchanges use imported gold and silver bars approved by the London Bullion Market Association
-  🔗 https://www.livemint.com/market/ibja-asks-regulators-to-make-exchanges-etfs-accept-india-made-gold-silver-bars-11759047509009.html
+- Ganesh Consumer Products IPO listing date today. GMP, experts signal muted debut of shares in stock market today
+  Ganesh Consumer Products IPO GMP today is showing a muted trend. Analysts also expect a muted debut of shares on BSE and NSE today.
+  🔗 https://www.livemint.com/market/ipo/ganesh-consumer-products-ipo-listing-date-today-gmp-experts-signal-muted-debut-of-shares-in-stock-market-today-11759105558944.html
 
-- Ashish Kacholia portfolio stock declares 4:1 bonus shares, 1:2 stock split, 40% dividend; do you own?
-  Fineotex Chemical announced bonus shares, a stock split, and a 40% dividend issue. Shares of the company closed 2.35% higher last week
-  🔗 https://www.livemint.com/market/stock-market-news/ashish-kacholia-portfolio-stock-fineotex-chemical-declares-4-1-bonus-shares-1-2-stock-split-80-dividend-do-you-own-11759068891367.html
+- Amazon Great Indian Festival brings price drop on HP laptops; Choose from these top 8 options before stocks exhaust
+  Grab top HP laptops at big discounts during Amazon Great Indian Festival 2025.
+  🔗 https://www.livemint.com/technology/gadgets/amazon-great-indian-festival-brings-price-drop-on-hp-laptops-choose-from-these-top-8-options-before-stocks-exhaust-11759091175751.html
+
+- India mulls pre-emptive guardrails for big tech in its digital competition law
+  India is moving towards a standalone digital competition law with upfront rules for big tech. A market study is being commissioned to inform the new law, which seeks to protect competition.
+  🔗 https://www.livemint.com/technology/india-digital-competition-law-digital-markets-act-india-big-tech-regulation-11759042302307.html
 
 - Denmark reports new drone sightings at armed forces locations. NATO boosts Baltic Sea vigilance
   Denmark reports new drone sightings at armed forces
   🔗 https://www.livemint.com/technology/tech-news/denmark-reports-new-drone-sightings-at-armed-forces-locations-nato-boosts-baltic-sea-vigilance-11759074829905.html
 
 - 10 Laser printers for fast and easy printing at home: Top picks from Canon, HP and others
-  These best laser printers support Wi-Fi, mobile printing to deliver consistent, high-quality results.
+  Laser printers deliver sharp text, fast speeds, and low per-page costs. Durable, efficient, and reliable,
   🔗 https://www.livemint.com/technology/gadgets/laser-printers-for-fast-and-easy-printing-at-home-top-10-picks-top-10-picks-from-canon-hp-and-others-11759060668247.html
 
 - Android may finally catch up to Apple with seamless cross-device handoff feature: Here's how it works
   Google is reportedly developing a Handoff-like feature for Android. This feature, found in Android 16's settings, includes notification syncing and file sharing. It may debut with the Android
   🔗 https://www.livemint.com/technology/tech-news/android-may-finally-catch-up-to-apple-with-seamless-cross-device-handoff-feature-heres-how-it-works-google-11759057989352.html
 
-- These 10 Intel laptop deals are too good to skip during Amazon Great Indian Festival 2025
-  Shop now or regret later! Amazon Great Indian Festival deals on Intel laptops from HP, Asus and other top brands.
-  🔗 https://www.livemint.com/technology/gadgets/these-10-intel-laptop-deals-are-too-good-to-skip-during-amazon-great-indian-festival-2025-11759044728563.html
-
-- YouTube Music tests AI hosts to share trivia while you listen to songs
-  YouTube Music has introduced AI Hosts through its YouTube Labs initiative. The feature is currently available to a limited group of US users.
-  🔗 https://www.livemint.com/technology/tech-news/youtube-music-tests-ai-hosts-to-share-trivia-while-you-listen-to-songs-11759051559802.html
-
-- 'Need to fix India': US says New Delhi must open its markets, react correctly to America - Business Today
-  'Need to fix India': US says New Delhi must open its markets.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcTVfUlpvbG4wcTJ0cjJyay1vNmJ2SmZCcXpNOGNhOHgyMWpIUlJJRi1kYVJiUXAtb25SQ0FteUI4VmdsOWlMM1JDdzM0YzJPWVRQUVdhZGw5VTU4a2VHWThXdEZ1aGRCeWk2LXJON1hja3RhLTJ2Qy1lSDZXcl9KNE9rZF81S1FPTWt3MWN4MGJ4RVF3NGpTMGlHbDVjT2F1U0ZkNFgwRHZHSFNyQjB1YnQ5NTkyU1pUN3M2TktwUXRVejVXcG5mTXlET3FLbF85NlZRNG5uT3lqQ1dZMVRJQkw2djdZaXR30gHuAUFVX3lxTE1rMEtoWDRLTXZnRDRzT2dKUk9LbU5yS1FHc09HYjFZY0Vzdk9HeExaVzA2dTloVU4zWVZOelNJbm9TTUxtdEhQNnBPOWJWaHBhWG1YYmdUUmJkNlRxd2F2ZnRmTEFzYldyQWJhdERkYWF0YzBrekVqVmhvY2xyVzJGc0N5VW1hbUFJMkZjNUxFXzNUSC0wazVoNVBRcVFOWlBqVUlrYVlQYjhIckp4eVJ2V3NEMmJQeHlzZFhoS21wdTl4bUhFUlJiN1ZkbTVsdThFYUFYcFNxOUtEVHE4MXhGZ2k5aks1RFZRQ3h4NWc?oc=5
+- How Bear Markets Work - A Wealth of Common Sense
+  A Wealth of Common Sense.
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE9WS3dyRDA5MlV0bmFaNWx1dUZDYlgyejBMS0o2YWZiRFVMQXdIQzV2cm8ySjRhR0xDTzBtdzFFbm03SFJHTXM2cFlTaWZrSHZGSlhLejNpY19jQ3Nlc2g0YlJnX0xZSFRiSVNsUk01VDc?oc=5
 
 - Stock Market News Sept. 26, 2025: Dow Rises After Trump Unveils New Tariffs - The Wall Street Journal
   The Wall Street Journal published a story on September 26, 2025,
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPNnhBV0VqUGY3TThiTjRoTURfQTJlRFl6TFpXYU5ZLUFDRE9jOGhQTFljamZzU1pIOGxVTDR0U3plSWNBLVB6eGVNTDhockc0STROUm1OMkhqQWhkZGdyUXhLcVA1QVpPZmM4ajFPQlZSelh5UjMyLUJtX2VTOGZGcUVPei02aVU?oc=5
 
-- India breaks into top-10 branded residency markets - The Economic Times
-  India breaks into top-10 branded
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRFJwcHFRLS1mNndHeXpheHVRVjZIVmEwZHRNcGUxVXJBS0JNUk5uVmpXRjFRbS1ON3NBUy1kRFFUUDc4V0wzNjNjVXd6YWRVYktEYlNUV2YtZWRsSV9JRXVLb3pvQTktdGI4VzZOY3ZNbEJjbHN3clo3N1M1LTN5MWFuYlZIcF85cG9wU2xTdlBfeDVGZ2lNOGJwZWVkMjRjTVZpanZKUWJKQ3JJTmNsa2o1Sl9PNWkyeXpZamVXYXJqSmhMQno4NGc4b1ltZ2xTSmppR1VBYkhJOXpH0gHiAUFVX3lxTE1pbkhZRzFIOWE5eThfXzA4alYwUzk2bHpXTHBSSk1jU2xTNlhuN25TSFA3R3NLN2xfRXpuV1huTXFJeUdKVmRPWU9lSnZxT01lS0ZDTGN6Q19Gc3pTUkdxXzVfVTVaMlQ0dHJmVW5ra0pvem4zYmllNEJ5Sk5aeHlXaE5SUDhFbzUwcXdvSTlQd2Y2dlNSTERqX25SWTNhb1dQd2xyOFBoaERRTWhHSW82d3JHVDlUMTJjXzdVZlZpNVhyZ3lRbFJ6MnU1LU1JZ0xXVGhvQ2FpbzhibHlXLXZ4cWc?oc=5
+- Asia markets set for mostly higher open; Australia central bank starts two-day policy meeting - CNBC
+  Asia markets set for mostly higher open; Australia central bank starts
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPTUhFck9wSHhlSTJXNkE3R1FhdzBfWHpjYkZHbUlIRk1oTEFxbHlZclF2bm1PMUt5cUhjc1Y3NTEzR2xFVUg1TTBySG1DWmc1cXJEeGxMbE9Gc01zSHZDVDJxM2lBaTZCLTc3MWNjR1ZsbXZPVFRmamhBOGx2ZHd0Y1pJUlJuNmRwSXfSAY8BQVVfeXFMTTgzWno5RUppbTFuZWx2YWtIRTB5eWk0RGRmc2pZVHp4X3BySndEVnlfcTZWVHRlUm9nNUlxQVlXN0VseVV6bEFoSkpfUW9ybkdRUDQwLWY5XzlNN1JpeWlRcDJUb1M0NS1RTjJUTkdOTE9EbTVrWW5lXzZWVnI4UWFjWVJkWkNiX3NoZkRNXzA?oc=5
 
-- What To Expect in Markets This Week: September Jobs Report, Fed Speakers, Earnings From Nike, Carnival - Investopedia
-  What To Expect in Markets This Week: September Jobs Report, Fed Spe
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaGROY2VUZ3BiYlIwdlJyTk5ocXhyWERVMWI0aTU4Z2IyTXFyZkdoenBIdVVFTktBZ3VTS3Y2WU1SdXp1aHcyZnZQLTY1V2xSVGpCWktqSGNJaWVRV2liRklHSWtKN2c0bzJmX1ZYQ2ZPZ0Y2SjJXQnRNN3ZCel9jN3pjaE1UbjlfODA1UXRSQXZYZkxrZU04Vk1BWDlsd0pwUm12MW5LVEdEWFNvUzBHTHc5a1FORzUyT0QxWGZ2LUMzYXNZSHd3VDdELTYyMVdTMXc?oc=5
+- Global Markets Today: Nikkei 225, Kospi trade mixed ahead of Australia central bank policy meeting - Mint
+  Global Markets Today: Nikkei 225, Kospi trade
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSlVkd0Yzc2NUTHlwbGR4TDhVYXE1OTJUeUNLQnJuWW9jQkhLbGFyeXJjVF9NSzE0aUJ2SktZWG9uZDI5a1VhdlhTbFlKSEF1MmFNWTdpX1psNnRNaEVoNEJJTEVtNkhVV0RVdDgzUHJDbWUzUk96RVhYbE5sMC1NOHZTM3VtVHdGc0RzOVI0RUMydDg1elFteGhOYUpmRlgzT0lKTkRnYTR2dDBOXzRLYUlYajkxeDYzQmNyY1BRU3dZenI5WjYtRmZ6QU53Vm8yc1BJRUpIczl3ODl6b3RkcjNqcGd4SFZuTjdyWWRRcm15OTF5ZXNaa0lB0gH_AUFVX3lxTE04bnhBckgzYjhxYUVyOXZWSEM5QjN0cWtXd3gyMGw5ZmdRRmtudUZfclZaX3ZjXzE1cXl2NEFkaG1FU2FPSGVBY0ZVZXRpWjEzbWlrZ2RJOXpXVFZoalZRNVQtam5VZWp2dWlLOHA0cWtET01rY2p6QWt5b3ZqS2VaVVhKRXpvRi16bk5iSzBmbnc2blJJMHduRDRxRU11SFFLVUZaN1ZZVUhjR3k1QlJlODBGSUZRMGVSZm9sWWlMMGFfWGNXX0xManZ0aENJWEwtcFc3OC1JUVNBMWRFV1pRUFIyUm8xZ25jRzROZEJZNFJJb1E5NTlweFB6MVlZUQ?oc=5
 
-- RBI Policy & Trade Drive Markets in Short Week - Rediff MoneyWiz
-  RBI Policy & Trade Drive Markets in
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOVE52b1Z6V3J5QnVIOXhuYlhRMTVEWGF5dTRid253RVpKSm1jNzFoMTE3UEYyaGtCTzJiYVJveGhQQzJqcFYwZkdNYV9mbWxtTF9la0R2SkoxeFVJbFozM3IweHRzcnlPWWVFLWVzZkEwckFzTGJwb3Zxb2dkT0doVUx3b3JkdHYzV29oVWpKQlpsRWFrYkpFSDZJckXSAaIBQVVfeXFMTWVDdjQ4emFoZjFTQnhwRExNZTREenlvZEo2WTU0OVVLWFpZbmVKQWZneTlJTU80SFFfZmI0b3dKaEk3RklxZnM1NnM4M1Y5SGVyaWhrdGlJdXd1ZUNjWWg2WTl6UF9POUcteVZVblNpVFdLUUJJZXpmMjVvdmJoVUlLWGVOSlFmdHQ5T2N0cmFHbmxPTmM3b3R1clVycmFrTGVR?oc=5
+- Oil Falls on Signs OPEC+ Set to Raise Output Again in November - Bloomberg.com
+  Oil Falls on Signs OPEC+ Set to Raise Output
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeU4zSDBRREJIeWlNQ2JUTWdhQlZqRGlSa1BQLWhGYS0wN0NNeFdZVGNKUFZBcVZsSk1Dd21hQWdpa2tHcjgwTE4xMVRkX1JYRmNicEItVjl3bFFYSEtVbVF6WllpazBCWElZVEdIcl9KU0I4M2hxcUhJQjNJZEtQb2g4Sl9INWl5OGNhcUd5aEVvNV9yT0RRd3hQWTJtbVE?oc=5
 
-- Laser Power &amp; Infra, Indo MIM files draft papers with Sebi for IPOs
-   Indo MIM and Laser Power &amp; Infra have filed draft papers with Sebi for IPOs worth over Rs 2,200 crore. Proceeds will primarily go toward
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/laser-power-infra-indo-mim-files-draft-papers-with-sebi-for-ipos/articleshow/124194261.cms
+- Legacy microloan stress still a worry for Small Finance Banks
+  Microfinance business is significantly impacting small finance banks like ESAF, Suryoday, and Utkarsh. Nearly a fifth of their microloan books under severe stress.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/legacy-microloan-stress-still-a-worry-for-small-finance-banks/articleshow/124202733.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  Indian equities posted their steepest weekly fall in seven months. Sensex and Nifty extended losses amid U.S. visa curbs and drug tariffs. Analysts flagged key support at 24,500, with volatility expected around
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/124193884.cms
+- Sept-end listing deadline looms large for Tata Sons
+  India's central bank has set a September 30 deadline for Tata Sons, the holding company of the Tata Group, to list publicly. The group, however, argues it's not ready and has sought deregistration.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sept-end-listing-deadline-looms-large-for-tata-sons/articleshow/124202691.cms
 
-- IndusInd Bank, Wipro, Infosys, TCS are Emkay’s preferred picks amid volatility. Here’s why
-  Emkay Global has identified a clutch of value and quality stocks it believes could outperform in the months ahead
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indusind-bank-wipro-infosys-tcs-are-emkays-preferred-picks-amid-volatility-heres-why/articleshow/124193765.cms
+- Pre-market action: Here's the trade setup for today's session
+  The upcoming week is data-heavy, with RBI policy and derivatives expiry expected to fuel volatility. FIIs net sold shares, while the rupee rebounded from its all-time low.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124196602.cms
 
-- PayNearby plans to tap IPO market in next financial year to fuel expansion
-  PayNearby is planning an initial public offering (IPO) in the next financial
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/paynearby-plans-to-tap-ipo-market-in-next-financial-year-to-fuel-expansion/articleshow/124193701.cms
+- Stocks in news: Tata Motors, Waaree Energies, HDFC Bank, Anant Raj, Oil India
+  Nifty approaches key support levels, prompting analysts to advise caution. Waaree Energies confirmed its expansion plans despite a US tariff probe. HDFC Bank's Dubai branch faced client onboarding restrictions.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-motors-waaree-energies-hdfc-bank-anant-raj-oil-india/articleshow/124196542.cms
 
-- BYD sees Warren Buffett exit as routine, investors react with caution
-  Warren Buffett’s Berkshire Hathaway has fully sold its 17-year stake in Chinese electric-vehicle
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/byd-sees-warren-buffett-exit-as-routine-investors-react-with-caution/articleshow/124193391.cms
+- Valuations remain elevated, retail investors urged to stay disciplined
+  High valuations and foreign outflows impacted performance. Domestic investors, however, showed strong support. Households now own more of the market. Caution is advised due to current valuations.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/valuations-remain-elevated-retail-investors-urged-to-stay-disciplined/articleshow/124202642.cms
 
-- Trump aide says India ‘a country that US needs to fix’ amid tariff row | Latest News India - Hindustan Times
-  The row between India and the U.S. has been going on for months.
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3BuOWlrakwxT2U5b2VLVkhhcnQzTHkxczRzNXZOMEsyeTNvRmZDUmM4VWl3YnpzLVhsajdGWkNXSVZuRVc3Y3FZY1lvSDUtWWZYNHc0OHhLWFNWeHdBZ21UR2RSb3g1RjhOQ2xiS1dua211RGdsdkNxYTA3ZFV5TnAyT1J1eHNOV2ZoRFB5QndoSnVRaGVYVnlObmM0SllpcC1GSGZnSHhIc3hmcmt4LTgtanB0MGoyeEo4YUlZNGtJcFlGTlJGU1lxMNIB0AFBVV95cUxPSEx4dlZTQ0N4TTZfZTJZdHRFcU5VOWRPeU5hdnl2dmFmdkk3aDBTQXJ6SDFkNUJpVkpUcGp4Y3NEajdfYlB0ak80MndUc1VDdGhHcGJxc2h6NGROcmxDcFA2eXNfaFl5R2l5am5neXpNQTFRMXZsQ19jNDc1N2xzSHRyOC1kTGlPSFZDOFBNMFluaGRjbjhldGdDRHloUTh3aVZuLVJLSWRpX3ZENW9lQldLdjFENUtXSVFseVRtcDUwYk1UU3VtT3JxemY5NjN5?oc=5
+- "Operation Sindoor On Field": PM Modi After India Beat Pak In Asia Cup Final - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eG
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eGtxcGF4NU4wdE5OdFItYlA3c0tHejQ1ajNldjRtTFlpdDItdDdMTHNsb0U0bUJlZC10dlFPN3NacWkzS0JXN1VLc1JHeDhyaEhhOHJmaVNUaUxDY2ltQXV6ei03VGh4YkItTHNNUzdVYVNzQzBB0gHeAUFVX3lxTE5RZ1NlcTlHN0EzdzdrVlRSRlRRMlZlcTFHSExDbGlHZ3I1TzQ5azU2cDRwRllRVThVSjhiWVU1bXdHbU00ejl1UHlnMFo1WGJLdVQyczRYeXhFOE1ESm93TnlaVHIzaFVudE13ekx3QlNBeTBvUmI3eGlROS1qUlVTN0h5aEdwa1ZZRUdQeTEtSXFremNYWUpzRTlmd2MtemVGYXFNQ2VDNEY1dEhhZ1F2V0dPMWFiLWpRRU15UmVyNXEtUUFobmxlNTJxaWYzYy1BZmhWTDhneWVYMWw5QQ?oc=5
 
-- 'US Will Have To Fix India': Top Trump Aide Amid Tariff Tensions - NDTV
-  'US Will Have To Fix India': Top Trump
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQbEVUZTZwNHZhTlhWd2NvcWU0WXROQ3hsd2ItRE5nOEV6LWd5ME1FTkZlaDNIM0hnWkdZQlVHSkdud0RJSGtCU2UwWWFtbkZ0b2ZVM2xKTnU5SmtBVUJkdVRKcFk4Q0NJWVpSeGRTWHcxdHJFMFVsWWkyTnR1WlF0S0JSQUdnUlU0QmtOeXFZR2RCUUtPYzk4bEZaVHVoczh2Szc4N3NYcUxTS1VQVzBPclEzM05WanfSAb8BQVVfeXFMTVJzTzcwbEV2bERyR29tX25QYnJmUkhEUFNyZHZVLVMyams2R0o4d2sxV0JRY0hzVGE4Y1VsNnYxQXl2WU9sYUw1SjN5SmRVVkZiMkpuQko5aUZfS3BxcUxOa21GeHVEWG1uRmlBV25jT042SVBpTHc3TU5tWUJYREkxLVJORm9FYXVrME8yMTBqVXdUdndNRlozODB5dnZib2RRWmsxV1IycVM3YmhIMUI2Vm5OQmxCbDBmeTZ1Vm8?oc=5
-
-- Trump Tariff News Highlights: Thaw ahead? India, US to push for ‘mutually beneficial’ pact amid 250% pharma levies - Mint
-  The US and India are pushing for ‘mutually beneficial’ pact
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPeTJEcFdZNi1pN2QyQTNFWmVoUEJUTkFRZW5abnpla3ViandMZTlNSGFTVjFSdnJFNC1lVGRIcFpyLU5fN2k4X201bC1IVHNXczRwblNVSWh0dHlJdlF4TXoyMS1HS1VaTS0wbVlCa0JSSkU2M2Z2Y1BuWlZyVFhOODBMdzBoOGNOTkx2ajNYVjlycVo0SmdDZGE3S01HUVNsR2JGbk80cV95cmJiM3Nod2N0cTdZaWRYRnFmRjFDaS1LbktZSndRWWtlM1A2RXhvMFpfZ1lHTUJUOWRYM1d3SkVSbmdzdlZEYzYxREV2eWYwOEpsa0ZBWHBjbkhsV1lKMl9mbERR0gGLAkFVX3lxTFBYM2RoVmdWVXdxQXkzYm9Td3k2ZEIyUklsaVhaSmRmTVpZWWt4OUd2RjAzSFBZTVVmQUlnYlV0c0RWTEt1eExFTTlTRUgyWG5qbDNDNW4xaGxkdzc3RmdLcDNvSXF3V0VsaXdnUU8xNXNpbjRhZi1WMWk5enFHeXpwQk5PSm1XQURlWm1HOHJGN0tSR3R6ZVNuYnBQS3pyX1cwLUpvNFpfczhtLXhIUTVMOHhTWkZudXBBODFIcDBUeVBIYzVCaEZ4VEpraWxtSi1HdzEyRmw0bnZsUmJROG1kQ19yam1yRkdkSG5NZXlTUlcxLVJzeEZDV25MNzY1dE1XNUtPYzJLZ0VWSQ?oc=5
-
-- Pakistani military pleaded for cessation of fighting during Operation Sindoor: India exercises Right of Reply at UNGA - The Hindu
-  Pakistani military pleaded for cessation of fighting during Operation Sindoor. India exercises Right
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxObG1VNnhWQng0UzE5Z0tWV2REdVU3a3pDT09rTzZLY3ZsQkJ6U2h1LVFxN2VJY1NXN09rSEd4elJlSnNvOW5qNTNkUkFKZnFRWXkyUE1rQXQ1UkxHQlI1S3hidS1hbGRlY2lodEJZRGlMQUQ2ZENUS1RWNVE3UkRMMm8wX1NsenJieWRJQUs2cnpJdGdDdU1CM2xlaGFSal84YUZMQzBscnQ0Rk1Xb2lwalRERnJpY2VSMzdqc1JyblFYaTVrX0ZSQVFMS3NuMExkd0syY2kxc3lody12UmlYMC1HRVNESzdVMXB6enZCcTVjcnpOWTJrWmdRbDlpOHFobnJVWVdR0gGMAkFVX3lxTE5CbnNMTGMyZGRwM05qbmVocXJjbUt1RmgzRllpcFM5N3Q5NFZZMHJwN0NaMXptWFdKeHFkdGFwUGJoM3pNdmhOLVV1S1FodjZkX2ZueFBSeDNGQ2VSdkZwMHFjTmxkeEhKcHd6LVR4TmJscmdPaTVlVHA0enp4NDZ0dnpUVGtmU2hHY245cnZyY0otOC1GUFotclYzaGpKVzhmTGxhRlBZb0ppbXhBTGlyZGdITTFid0drbFZuMTRNRnAtLU1rUndobG9iU05tZVhaeUMwcTBrSFYtWU9nc2NjbVlRUVRXQjNSdm1fNURXVk9kaHF4cXk4TEY1Sk50N0dfQkFCNUdFTTJKaWo?oc=5
-
-- Himachal showcases horticultural excellence at World Food India - The Indian Express
-  Himachal showcases horticultural
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVVWcjdCRVB1LXNOTDV2Tl9aSzlRZTM4UVRTV0o3cS1CSW5STjAzaFBQdmxqbVk2cWxkSlBNOWtFRnM1cXJKR05qdlRwYW1fbmVKWV9US0RrU1VsQ0lqam1pU1ZFNDA0XzBGOXBkdjFMUkt1VnFCbWlTNWE3clU4STJLLWQ1d3NlLVg4cy02QkxTeG9OMlJ1MTRmWFV1dmRPaGFqZmxRaGVXWkdwV2FnUnpQa9IBugFBVV95cUxPaDU3N2Y5YkJRVU5OUnVQSVpkR2FVZXYzdDY5RFFPQ01IOWpTQ2VlZTdub0xmTFdHMVI4ZWFZanNyeURQNHQzMm93QjdhSHJIY2lGa1dycmYxd2tDVC1qcU5zZ2dhaUxUcVdWelZFZmZOZW15RlhzcUQ5Rm9fQXhvenEtQk5CdjhuSkhmb2hZYzJaUXROV1dLbm5hS1JENjN6SmxPR19Zblo0R0tRTkRXLU9HT3I5eTNhalE?oc=5
-
-- Trump aide says India ‘a country that US needs to fix’ amid tariff row | Latest News India - Hindustan Times
-  The row between India and the U.S. has been going on for months.
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3BuOWlrakwxT2U5b2VLVkhhcnQzTHkxczRzNXZOMEsyeTNvRmZDUmM4VWl3YnpzLVhsajdGWkNXSVZuRVc3Y3FZY1lvSDUtWWZYNHc0OHhLWFNWeHdBZ21UR2RSb3g1RjhOQ2xiS1dua211RGdsdkNxYTA3ZFV5TnAyT1J1eHNOV2ZoRFB5QndoSnVRaGVYVnlObmM0SllpcC1GSGZnSHhIc3hmcmt4LTgtanB0MGoyeEo4YUlZNGtJcFlGTlJGU1lxMNIB0AFBVV95cUxPSEx4dlZTQ0N4TTZfZTJZdHRFcU5VOWRPeU5hdnl2dmFmdkk3aDBTQXJ6SDFkNUJpVkpUcGp4Y3NEajdfYlB0ak80MndUc1VDdGhHcGJxc2h6NGROcmxDcFA2eXNfaFl5R2l5am5neXpNQTFRMXZsQ19jNDc1N2xzSHRyOC1kTGlPSFZDOFBNMFluaGRjbjhldGdDRHloUTh3aVZuLVJLSWRpX3ZENW9lQldLdjFENUtXSVFseVRtcDUwYk1UU3VtT3JxemY5NjN5?oc=5
+- ‘We have to fix India’: Howard Lutnick says New Delhi must ‘open market, stop harming’ America - financialexpress.com
+  ‘We have to fix India’: Howard Lutnick
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS09CLTV0QzhNUHpyc2FjUE91UUF2emFVY0c5SzlRbU05Z3pJcXY5YWNMUUpoYW1maGlhU1piUEdjS1dsV0tsUUtiREMzRVJ2MHdCRzJYSFYzTEtDVDI0bFFOX0E4MDdmdGJDcWE3T0ZIZU9JZjAzRDUxX2VPMDdrQXFtbUhVM1RIbF8yaHV5TkpFa19IVjJWQThxUlA4TXJ0T2cwenNHU3B6VVR0M3FfWUtKLUlDQWlfUTQyMmFzOEc2VnFKMTdDVFMxNXlPX1FjTXh2RHBZRWh1V0ZpOVBwaWpNdw?oc=5
 
 - 'US Will Have To Fix India': Top Trump Aide Amid Tariff Tensions - NDTV
   'US Will Have To Fix India': Top Trump
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQbEVUZTZwNHZhTlhWd2NvcWU0WXROQ3hsd2ItRE5nOEV6LWd5ME1FTkZlaDNIM0hnWkdZQlVHSkdud0RJSGtCU2UwWWFtbkZ0b2ZVM2xKTnU5SmtBVUJkdVRKcFk4Q0NJWVpSeGRTWHcxdHJFMFVsWWkyTnR1WlF0S0JSQUdnUlU0QmtOeXFZR2RCUUtPYzk4bEZaVHVoczh2Szc4N3NYcUxTS1VQVzBPclEzM05WanfSAb8BQVVfeXFMTVJzTzcwbEV2bERyR29tX25QYnJmUkhEUFNyZHZVLVMyams2R0o4d2sxV0JRY0hzVGE4Y1VsNnYxQXl2WU9sYUw1SjN5SmRVVkZiMkpuQko5aUZfS3BxcUxOa21GeHVEWG1uRmlBV25jT042SVBpTHc3TU5tWUJYREkxLVJORm9FYXVrME8yMTBqVXdUdndNRlozODB5dnZib2RRWmsxV1IycVM3YmhIMUI2Vm5OQmxCbDBmeTZ1Vm8?oc=5
 
-- Trump Tariff News Highlights: Thaw ahead? India, US to push for ‘mutually beneficial’ pact amid 250% pharma levies - Mint
-  The US and India are pushing for ‘mutually beneficial’ pact
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPeTJEcFdZNi1pN2QyQTNFWmVoUEJUTkFRZW5abnpla3ViandMZTlNSGFTVjFSdnJFNC1lVGRIcFpyLU5fN2k4X201bC1IVHNXczRwblNVSWh0dHlJdlF4TXoyMS1HS1VaTS0wbVlCa0JSSkU2M2Z2Y1BuWlZyVFhOODBMdzBoOGNOTkx2ajNYVjlycVo0SmdDZGE3S01HUVNsR2JGbk80cV95cmJiM3Nod2N0cTdZaWRYRnFmRjFDaS1LbktZSndRWWtlM1A2RXhvMFpfZ1lHTUJUOWRYM1d3SkVSbmdzdlZEYzYxREV2eWYwOEpsa0ZBWHBjbkhsV1lKMl9mbERR0gGLAkFVX3lxTFBYM2RoVmdWVXdxQXkzYm9Td3k2ZEIyUklsaVhaSmRmTVpZWWt4OUd2RjAzSFBZTVVmQUlnYlV0c0RWTEt1eExFTTlTRUgyWG5qbDNDNW4xaGxkdzc3RmdLcDNvSXF3V0VsaXdnUU8xNXNpbjRhZi1WMWk5enFHeXpwQk5PSm1XQURlWm1HOHJGN0tSR3R6ZVNuYnBQS3pyX1cwLUpvNFpfczhtLXhIUTVMOHhTWkZudXBBODFIcDBUeVBIYzVCaEZ4VEpraWxtSi1HdzEyRmw0bnZsUmJROG1kQ19yam1yRkdkSG5NZXlTUlcxLVJzeEZDV25MNzY1dE1XNUtPYzJLZ0VWSQ?oc=5
-
-- Pakistani military pleaded for cessation of fighting during Operation Sindoor: India exercises Right of Reply at UNGA - The Hindu
-  Pakistani military pleaded for cessation of fighting during Operation Sindoor. India exercises Right
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxObG1VNnhWQng0UzE5Z0tWV2REdVU3a3pDT09rTzZLY3ZsQkJ6U2h1LVFxN2VJY1NXN09rSEd4elJlSnNvOW5qNTNkUkFKZnFRWXkyUE1rQXQ1UkxHQlI1S3hidS1hbGRlY2lodEJZRGlMQUQ2ZENUS1RWNVE3UkRMMm8wX1NsenJieWRJQUs2cnpJdGdDdU1CM2xlaGFSal84YUZMQzBscnQ0Rk1Xb2lwalRERnJpY2VSMzdqc1JyblFYaTVrX0ZSQVFMS3NuMExkd0syY2kxc3lody12UmlYMC1HRVNESzdVMXB6enZCcTVjcnpOWTJrWmdRbDlpOHFobnJVWVdR0gGMAkFVX3lxTE5CbnNMTGMyZGRwM05qbmVocXJjbUt1RmgzRllpcFM5N3Q5NFZZMHJwN0NaMXptWFdKeHFkdGFwUGJoM3pNdmhOLVV1S1FodjZkX2ZueFBSeDNGQ2VSdkZwMHFjTmxkeEhKcHd6LVR4TmJscmdPaTVlVHA0enp4NDZ0dnpUVGtmU2hHY245cnZyY0otOC1GUFotclYzaGpKVzhmTGxhRlBZb0ppbXhBTGlyZGdITTFid0drbFZuMTRNRnAtLU1rUndobG9iU05tZVhaeUMwcTBrSFYtWU9nc2NjbVlRUVRXQjNSdm1fNURXVk9kaHF4cXk4TEY1Sk50N0dfQkFCNUdFTTJKaWo?oc=5
-
-- Himachal showcases horticultural excellence at World Food India - The Indian Express
-  Himachal showcases horticultural
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVVWcjdCRVB1LXNOTDV2Tl9aSzlRZTM4UVRTV0o3cS1CSW5STjAzaFBQdmxqbVk2cWxkSlBNOWtFRnM1cXJKR05qdlRwYW1fbmVKWV9US0RrU1VsQ0lqam1pU1ZFNDA0XzBGOXBkdjFMUkt1VnFCbWlTNWE3clU4STJLLWQ1d3NlLVg4cy02QkxTeG9OMlJ1MTRmWFV1dmRPaGFqZmxRaGVXWkdwV2FnUnpQa9IBugFBVV95cUxPaDU3N2Y5YkJRVU5OUnVQSVpkR2FVZXYzdDY5RFFPQ01IOWpTQ2VlZTdub0xmTFdHMVI4ZWFZanNyeURQNHQzMm93QjdhSHJIY2lGa1dycmYxd2tDVC1qcU5zZ2dhaUxUcVdWelZFZmZOZW15RlhzcUQ5Rm9fQXhvenEtQk5CdjhuSkhmb2hZYzJaUXROV1dLbm5hS1JENjN6SmxPR19Zblo0R0tRTkRXLU9HT3I5eTNhalE?oc=5
-
 - Trump aide says India ‘a country that US needs to fix’ amid tariff row | Latest News India - Hindustan Times
   The row between India and the U.S. has been going on for months.
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3BuOWlrakwxT2U5b2VLVkhhcnQzTHkxczRzNXZOMEsyeTNvRmZDUmM4VWl3YnpzLVhsajdGWkNXSVZuRVc3Y3FZY1lvSDUtWWZYNHc0OHhLWFNWeHdBZ21UR2RSb3g1RjhOQ2xiS1dua211RGdsdkNxYTA3ZFV5TnAyT1J1eHNOV2ZoRFB5QndoSnVRaGVYVnlObmM0SllpcC1GSGZnSHhIc3hmcmt4LTgtanB0MGoyeEo4YUlZNGtJcFlGTlJGU1lxMNIB0AFBVV95cUxPSEx4dlZTQ0N4TTZfZTJZdHRFcU5VOWRPeU5hdnl2dmFmdkk3aDBTQXJ6SDFkNUJpVkpUcGp4Y3NEajdfYlB0ak80MndUc1VDdGhHcGJxc2h6NGROcmxDcFA2eXNfaFl5R2l5am5neXpNQTFRMXZsQ19jNDc1N2xzSHRyOC1kTGlPSFZDOFBNMFluaGRjbjhldGdDRHloUTh3aVZuLVJLSWRpX3ZENW9lQldLdjFENUtXSVFseVRtcDUwYk1UU3VtT3JxemY5NjN5?oc=5
+
+- Rupee beset by a trifecta of troubles. Will the slide to new lows continue? | Today News - Mint
+  Rupee beset by a trifecta of troubles. Will the
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbElXeWRzVXpaMW93MktCNFpKOVdxRGdUTzBiOFBqSlRuU2I1VDVmN2hncHNLSGRQQnNHWDdyU2FXbDRBR3dlRXdCVnpMMmM4YzA0UmJNMDROX3lKZzNyNGxraFJlTVd1ekpQek5rbUZMMUprREhZb1Z6OWhORGRSR2Q3bTM1Y2ZfRlEtb1lULW5aMHgzVncweFZ5Tm81enpiSU1xa3FSbzEyZzlRazhpT1JlanA2ZE5XMmVzUFlKNHVaajQ5NVkwWnM5WWFuWmlOWXFlSUtIcnJJZzJ6QXo3Q1RXSXRSMi110gHuAUFVX3lxTE14cld2Vm1aWjdYNTNNY3BITjdRODRlaFRIN1NzZFJQVVJjMkN6RmlEeG03eWlucG4ycnZ4X051NzJoN3ZhaEx1Z2p4UWp3Z3Q3YWxtLU1ENVFTbjFqTVhaTlV6Vmdka09VdU1pd3BDQW1tVHhqbjNjMHFHUl9DVXdqNWlKM0hxQ01sWGpseHhrZEg2aFRvemw5d08zZEhBRzlLZldtNUM4cXc3TmFCM2xucDVwWkN1ZWFDUzRhZlplMVlhNmxVT0tScThVeThBTmYwOHdhMElNSUV0ZHFiV3dCUWk2SWRla1JrMUtIbkE?oc=5
+
+- "Operation Sindoor On Field": PM Modi After India Beat Pak In Asia Cup Final - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eG
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eGtxcGF4NU4wdE5OdFItYlA3c0tHejQ1ajNldjRtTFlpdDItdDdMTHNsb0U0bUJlZC10dlFPN3NacWkzS0JXN1VLc1JHeDhyaEhhOHJmaVNUaUxDY2ltQXV6ei03VGh4YkItTHNNUzdVYVNzQzBB0gHeAUFVX3lxTE5RZ1NlcTlHN0EzdzdrVlRSRlRRMlZlcTFHSExDbGlHZ3I1TzQ5azU2cDRwRllRVThVSjhiWVU1bXdHbU00ejl1UHlnMFo1WGJLdVQyczRYeXhFOE1ESm93TnlaVHIzaFVudE13ekx3QlNBeTBvUmI3eGlROS1qUlVTN0h5aEdwa1ZZRUdQeTEtSXFremNYWUpzRTlmd2MtemVGYXFNQ2VDNEY1dEhhZ1F2V0dPMWFiLWpRRU15UmVyNXEtUUFobmxlNTJxaWYzYy1BZmhWTDhneWVYMWw5QQ?oc=5
+
+- ‘We have to fix India’: Howard Lutnick says New Delhi must ‘open market, stop harming’ America - financialexpress.com
+  ‘We have to fix India’: Howard Lutnick
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS09CLTV0QzhNUHpyc2FjUE91UUF2emFVY0c5SzlRbU05Z3pJcXY5YWNMUUpoYW1maGlhU1piUEdjS1dsV0tsUUtiREMzRVJ2MHdCRzJYSFYzTEtDVDI0bFFOX0E4MDdmdGJDcWE3T0ZIZU9JZjAzRDUxX2VPMDdrQXFtbUhVM1RIbF8yaHV5TkpFa19IVjJWQThxUlA4TXJ0T2cwenNHU3B6VVR0M3FfWUtKLUlDQWlfUTQyMmFzOEc2VnFKMTdDVFMxNXlPX1FjTXh2RHBZRWh1V0ZpOVBwaWpNdw?oc=5
 
 - 'US Will Have To Fix India': Top Trump Aide Amid Tariff Tensions - NDTV
   'US Will Have To Fix India': Top Trump
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQbEVUZTZwNHZhTlhWd2NvcWU0WXROQ3hsd2ItRE5nOEV6LWd5ME1FTkZlaDNIM0hnWkdZQlVHSkdud0RJSGtCU2UwWWFtbkZ0b2ZVM2xKTnU5SmtBVUJkdVRKcFk4Q0NJWVpSeGRTWHcxdHJFMFVsWWkyTnR1WlF0S0JSQUdnUlU0QmtOeXFZR2RCUUtPYzk4bEZaVHVoczh2Szc4N3NYcUxTS1VQVzBPclEzM05WanfSAb8BQVVfeXFMTVJzTzcwbEV2bERyR29tX25QYnJmUkhEUFNyZHZVLVMyams2R0o4d2sxV0JRY0hzVGE4Y1VsNnYxQXl2WU9sYUw1SjN5SmRVVkZiMkpuQko5aUZfS3BxcUxOa21GeHVEWG1uRmlBV25jT042SVBpTHc3TU5tWUJYREkxLVJORm9FYXVrME8yMTBqVXdUdndNRlozODB5dnZib2RRWmsxV1IycVM3YmhIMUI2Vm5OQmxCbDBmeTZ1Vm8?oc=5
 
-- Trump Tariff News Highlights: Thaw ahead? India, US to push for ‘mutually beneficial’ pact amid 250% pharma levies - Mint
-  The US and India are pushing for ‘mutually beneficial’ pact
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPeTJEcFdZNi1pN2QyQTNFWmVoUEJUTkFRZW5abnpla3ViandMZTlNSGFTVjFSdnJFNC1lVGRIcFpyLU5fN2k4X201bC1IVHNXczRwblNVSWh0dHlJdlF4TXoyMS1HS1VaTS0wbVlCa0JSSkU2M2Z2Y1BuWlZyVFhOODBMdzBoOGNOTkx2ajNYVjlycVo0SmdDZGE3S01HUVNsR2JGbk80cV95cmJiM3Nod2N0cTdZaWRYRnFmRjFDaS1LbktZSndRWWtlM1A2RXhvMFpfZ1lHTUJUOWRYM1d3SkVSbmdzdlZEYzYxREV2eWYwOEpsa0ZBWHBjbkhsV1lKMl9mbERR0gGLAkFVX3lxTFBYM2RoVmdWVXdxQXkzYm9Td3k2ZEIyUklsaVhaSmRmTVpZWWt4OUd2RjAzSFBZTVVmQUlnYlV0c0RWTEt1eExFTTlTRUgyWG5qbDNDNW4xaGxkdzc3RmdLcDNvSXF3V0VsaXdnUU8xNXNpbjRhZi1WMWk5enFHeXpwQk5PSm1XQURlWm1HOHJGN0tSR3R6ZVNuYnBQS3pyX1cwLUpvNFpfczhtLXhIUTVMOHhTWkZudXBBODFIcDBUeVBIYzVCaEZ4VEpraWxtSi1HdzEyRmw0bnZsUmJROG1kQ19yam1yRkdkSG5NZXlTUlcxLVJzeEZDV25MNzY1dE1XNUtPYzJLZ0VWSQ?oc=5
-
-- Pakistani military pleaded for cessation of fighting during Operation Sindoor: India exercises Right of Reply at UNGA - The Hindu
-  Pakistani military pleaded for cessation of fighting during Operation Sindoor. India exercises Right
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxObG1VNnhWQng0UzE5Z0tWV2REdVU3a3pDT09rTzZLY3ZsQkJ6U2h1LVFxN2VJY1NXN09rSEd4elJlSnNvOW5qNTNkUkFKZnFRWXkyUE1rQXQ1UkxHQlI1S3hidS1hbGRlY2lodEJZRGlMQUQ2ZENUS1RWNVE3UkRMMm8wX1NsenJieWRJQUs2cnpJdGdDdU1CM2xlaGFSal84YUZMQzBscnQ0Rk1Xb2lwalRERnJpY2VSMzdqc1JyblFYaTVrX0ZSQVFMS3NuMExkd0syY2kxc3lody12UmlYMC1HRVNESzdVMXB6enZCcTVjcnpOWTJrWmdRbDlpOHFobnJVWVdR0gGMAkFVX3lxTE5CbnNMTGMyZGRwM05qbmVocXJjbUt1RmgzRllpcFM5N3Q5NFZZMHJwN0NaMXptWFdKeHFkdGFwUGJoM3pNdmhOLVV1S1FodjZkX2ZueFBSeDNGQ2VSdkZwMHFjTmxkeEhKcHd6LVR4TmJscmdPaTVlVHA0enp4NDZ0dnpUVGtmU2hHY245cnZyY0otOC1GUFotclYzaGpKVzhmTGxhRlBZb0ppbXhBTGlyZGdITTFid0drbFZuMTRNRnAtLU1rUndobG9iU05tZVhaeUMwcTBrSFYtWU9nc2NjbVlRUVRXQjNSdm1fNURXVk9kaHF4cXk4TEY1Sk50N0dfQkFCNUdFTTJKaWo?oc=5
-
-- Himachal showcases horticultural excellence at World Food India - The Indian Express
-  Himachal showcases horticultural
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVVWcjdCRVB1LXNOTDV2Tl9aSzlRZTM4UVRTV0o3cS1CSW5STjAzaFBQdmxqbVk2cWxkSlBNOWtFRnM1cXJKR05qdlRwYW1fbmVKWV9US0RrU1VsQ0lqam1pU1ZFNDA0XzBGOXBkdjFMUkt1VnFCbWlTNWE3clU4STJLLWQ1d3NlLVg4cy02QkxTeG9OMlJ1MTRmWFV1dmRPaGFqZmxRaGVXWkdwV2FnUnpQa9IBugFBVV95cUxPaDU3N2Y5YkJRVU5OUnVQSVpkR2FVZXYzdDY5RFFPQ01IOWpTQ2VlZTdub0xmTFdHMVI4ZWFZanNyeURQNHQzMm93QjdhSHJIY2lGa1dycmYxd2tDVC1qcU5zZ2dhaUxUcVdWelZFZmZOZW15RlhzcUQ5Rm9fQXhvenEtQk5CdjhuSkhmb2hZYzJaUXROV1dLbm5hS1JENjN6SmxPR19Zblo0R0tRTkRXLU9HT3I5eTNhalE?oc=5
-
 - Trump aide says India ‘a country that US needs to fix’ amid tariff row | Latest News India - Hindustan Times
   The row between India and the U.S. has been going on for months.
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3BuOWlrakwxT2U5b2VLVkhhcnQzTHkxczRzNXZOMEsyeTNvRmZDUmM4VWl3YnpzLVhsajdGWkNXSVZuRVc3Y3FZY1lvSDUtWWZYNHc0OHhLWFNWeHdBZ21UR2RSb3g1RjhOQ2xiS1dua211RGdsdkNxYTA3ZFV5TnAyT1J1eHNOV2ZoRFB5QndoSnVRaGVYVnlObmM0SllpcC1GSGZnSHhIc3hmcmt4LTgtanB0MGoyeEo4YUlZNGtJcFlGTlJGU1lxMNIB0AFBVV95cUxPSEx4dlZTQ0N4TTZfZTJZdHRFcU5VOWRPeU5hdnl2dmFmdkk3aDBTQXJ6SDFkNUJpVkpUcGp4Y3NEajdfYlB0ak80MndUc1VDdGhHcGJxc2h6NGROcmxDcFA2eXNfaFl5R2l5am5neXpNQTFRMXZsQ19jNDc1N2xzSHRyOC1kTGlPSFZDOFBNMFluaGRjbjhldGdDRHloUTh3aVZuLVJLSWRpX3ZENW9lQldLdjFENUtXSVFseVRtcDUwYk1UU3VtT3JxemY5NjN5?oc=5
+
+- Rupee beset by a trifecta of troubles. Will the slide to new lows continue? | Today News - Mint
+  Rupee beset by a trifecta of troubles. Will the
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbElXeWRzVXpaMW93MktCNFpKOVdxRGdUTzBiOFBqSlRuU2I1VDVmN2hncHNLSGRQQnNHWDdyU2FXbDRBR3dlRXdCVnpMMmM4YzA0UmJNMDROX3lKZzNyNGxraFJlTVd1ekpQek5rbUZMMUprREhZb1Z6OWhORGRSR2Q3bTM1Y2ZfRlEtb1lULW5aMHgzVncweFZ5Tm81enpiSU1xa3FSbzEyZzlRazhpT1JlanA2ZE5XMmVzUFlKNHVaajQ5NVkwWnM5WWFuWmlOWXFlSUtIcnJJZzJ6QXo3Q1RXSXRSMi110gHuAUFVX3lxTE14cld2Vm1aWjdYNTNNY3BITjdRODRlaFRIN1NzZFJQVVJjMkN6RmlEeG03eWlucG4ycnZ4X051NzJoN3ZhaEx1Z2p4UWp3Z3Q3YWxtLU1ENVFTbjFqTVhaTlV6Vmdka09VdU1pd3BDQW1tVHhqbjNjMHFHUl9DVXdqNWlKM0hxQ01sWGpseHhrZEg2aFRvemw5d08zZEhBRzlLZldtNUM4cXc3TmFCM2xucDVwWkN1ZWFDUzRhZlplMVlhNmxVT0tScThVeThBTmYwOHdhMElNSUV0ZHFiV3dCUWk2SWRla1JrMUtIbkE?oc=5
+
+- "Operation Sindoor On Field": PM Modi After India Beat Pak In Asia Cup Final - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eG
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eGtxcGF4NU4wdE5OdFItYlA3c0tHejQ1ajNldjRtTFlpdDItdDdMTHNsb0U0bUJlZC10dlFPN3NacWkzS0JXN1VLc1JHeDhyaEhhOHJmaVNUaUxDY2ltQXV6ei03VGh4YkItTHNNUzdVYVNzQzBB0gHeAUFVX3lxTE5RZ1NlcTlHN0EzdzdrVlRSRlRRMlZlcTFHSExDbGlHZ3I1TzQ5azU2cDRwRllRVThVSjhiWVU1bXdHbU00ejl1UHlnMFo1WGJLdVQyczRYeXhFOE1ESm93TnlaVHIzaFVudE13ekx3QlNBeTBvUmI3eGlROS1qUlVTN0h5aEdwa1ZZRUdQeTEtSXFremNYWUpzRTlmd2MtemVGYXFNQ2VDNEY1dEhhZ1F2V0dPMWFiLWpRRU15UmVyNXEtUUFobmxlNTJxaWYzYy1BZmhWTDhneWVYMWw5QQ?oc=5
+
+- ‘We have to fix India’: Howard Lutnick says New Delhi must ‘open market, stop harming’ America - financialexpress.com
+  ‘We have to fix India’: Howard Lutnick
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS09CLTV0QzhNUHpyc2FjUE91UUF2emFVY0c5SzlRbU05Z3pJcXY5YWNMUUpoYW1maGlhU1piUEdjS1dsV0tsUUtiREMzRVJ2MHdCRzJYSFYzTEtDVDI0bFFOX0E4MDdmdGJDcWE3T0ZIZU9JZjAzRDUxX2VPMDdrQXFtbUhVM1RIbF8yaHV5TkpFa19IVjJWQThxUlA4TXJ0T2cwenNHU3B6VVR0M3FfWUtKLUlDQWlfUTQyMmFzOEc2VnFKMTdDVFMxNXlPX1FjTXh2RHBZRWh1V0ZpOVBwaWpNdw?oc=5
 
 - 'US Will Have To Fix India': Top Trump Aide Amid Tariff Tensions - NDTV
   'US Will Have To Fix India': Top Trump
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQbEVUZTZwNHZhTlhWd2NvcWU0WXROQ3hsd2ItRE5nOEV6LWd5ME1FTkZlaDNIM0hnWkdZQlVHSkdud0RJSGtCU2UwWWFtbkZ0b2ZVM2xKTnU5SmtBVUJkdVRKcFk4Q0NJWVpSeGRTWHcxdHJFMFVsWWkyTnR1WlF0S0JSQUdnUlU0QmtOeXFZR2RCUUtPYzk4bEZaVHVoczh2Szc4N3NYcUxTS1VQVzBPclEzM05WanfSAb8BQVVfeXFMTVJzTzcwbEV2bERyR29tX25QYnJmUkhEUFNyZHZVLVMyams2R0o4d2sxV0JRY0hzVGE4Y1VsNnYxQXl2WU9sYUw1SjN5SmRVVkZiMkpuQko5aUZfS3BxcUxOa21GeHVEWG1uRmlBV25jT042SVBpTHc3TU5tWUJYREkxLVJORm9FYXVrME8yMTBqVXdUdndNRlozODB5dnZib2RRWmsxV1IycVM3YmhIMUI2Vm5OQmxCbDBmeTZ1Vm8?oc=5
 
-- Trump Tariff News Highlights: Thaw ahead? India, US to push for ‘mutually beneficial’ pact amid 250% pharma levies - Mint
-  The US and India are pushing for ‘mutually beneficial’ pact
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPeTJEcFdZNi1pN2QyQTNFWmVoUEJUTkFRZW5abnpla3ViandMZTlNSGFTVjFSdnJFNC1lVGRIcFpyLU5fN2k4X201bC1IVHNXczRwblNVSWh0dHlJdlF4TXoyMS1HS1VaTS0wbVlCa0JSSkU2M2Z2Y1BuWlZyVFhOODBMdzBoOGNOTkx2ajNYVjlycVo0SmdDZGE3S01HUVNsR2JGbk80cV95cmJiM3Nod2N0cTdZaWRYRnFmRjFDaS1LbktZSndRWWtlM1A2RXhvMFpfZ1lHTUJUOWRYM1d3SkVSbmdzdlZEYzYxREV2eWYwOEpsa0ZBWHBjbkhsV1lKMl9mbERR0gGLAkFVX3lxTFBYM2RoVmdWVXdxQXkzYm9Td3k2ZEIyUklsaVhaSmRmTVpZWWt4OUd2RjAzSFBZTVVmQUlnYlV0c0RWTEt1eExFTTlTRUgyWG5qbDNDNW4xaGxkdzc3RmdLcDNvSXF3V0VsaXdnUU8xNXNpbjRhZi1WMWk5enFHeXpwQk5PSm1XQURlWm1HOHJGN0tSR3R6ZVNuYnBQS3pyX1cwLUpvNFpfczhtLXhIUTVMOHhTWkZudXBBODFIcDBUeVBIYzVCaEZ4VEpraWxtSi1HdzEyRmw0bnZsUmJROG1kQ19yam1yRkdkSG5NZXlTUlcxLVJzeEZDV25MNzY1dE1XNUtPYzJLZ0VWSQ?oc=5
+- Trump aide says India ‘a country that US needs to fix’ amid tariff row | Latest News India - Hindustan Times
+  The row between India and the U.S. has been going on for months.
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3BuOWlrakwxT2U5b2VLVkhhcnQzTHkxczRzNXZOMEsyeTNvRmZDUmM4VWl3YnpzLVhsajdGWkNXSVZuRVc3Y3FZY1lvSDUtWWZYNHc0OHhLWFNWeHdBZ21UR2RSb3g1RjhOQ2xiS1dua211RGdsdkNxYTA3ZFV5TnAyT1J1eHNOV2ZoRFB5QndoSnVRaGVYVnlObmM0SllpcC1GSGZnSHhIc3hmcmt4LTgtanB0MGoyeEo4YUlZNGtJcFlGTlJGU1lxMNIB0AFBVV95cUxPSEx4dlZTQ0N4TTZfZTJZdHRFcU5VOWRPeU5hdnl2dmFmdkk3aDBTQXJ6SDFkNUJpVkpUcGp4Y3NEajdfYlB0ak80MndUc1VDdGhHcGJxc2h6NGROcmxDcFA2eXNfaFl5R2l5am5neXpNQTFRMXZsQ19jNDc1N2xzSHRyOC1kTGlPSFZDOFBNMFluaGRjbjhldGdDRHloUTh3aVZuLVJLSWRpX3ZENW9lQldLdjFENUtXSVFseVRtcDUwYk1UU3VtT3JxemY5NjN5?oc=5
 
-- Pakistani military pleaded for cessation of fighting during Operation Sindoor: India exercises Right of Reply at UNGA - The Hindu
-  Pakistani military pleaded for cessation of fighting during Operation Sindoor. India exercises Right
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxObG1VNnhWQng0UzE5Z0tWV2REdVU3a3pDT09rTzZLY3ZsQkJ6U2h1LVFxN2VJY1NXN09rSEd4elJlSnNvOW5qNTNkUkFKZnFRWXkyUE1rQXQ1UkxHQlI1S3hidS1hbGRlY2lodEJZRGlMQUQ2ZENUS1RWNVE3UkRMMm8wX1NsenJieWRJQUs2cnpJdGdDdU1CM2xlaGFSal84YUZMQzBscnQ0Rk1Xb2lwalRERnJpY2VSMzdqc1JyblFYaTVrX0ZSQVFMS3NuMExkd0syY2kxc3lody12UmlYMC1HRVNESzdVMXB6enZCcTVjcnpOWTJrWmdRbDlpOHFobnJVWVdR0gGMAkFVX3lxTE5CbnNMTGMyZGRwM05qbmVocXJjbUt1RmgzRllpcFM5N3Q5NFZZMHJwN0NaMXptWFdKeHFkdGFwUGJoM3pNdmhOLVV1S1FodjZkX2ZueFBSeDNGQ2VSdkZwMHFjTmxkeEhKcHd6LVR4TmJscmdPaTVlVHA0enp4NDZ0dnpUVGtmU2hHY245cnZyY0otOC1GUFotclYzaGpKVzhmTGxhRlBZb0ppbXhBTGlyZGdITTFid0drbFZuMTRNRnAtLU1rUndobG9iU05tZVhaeUMwcTBrSFYtWU9nc2NjbVlRUVRXQjNSdm1fNURXVk9kaHF4cXk4TEY1Sk50N0dfQkFCNUdFTTJKaWo?oc=5
+- Rupee beset by a trifecta of troubles. Will the slide to new lows continue? | Today News - Mint
+  Rupee beset by a trifecta of troubles. Will the
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbElXeWRzVXpaMW93MktCNFpKOVdxRGdUTzBiOFBqSlRuU2I1VDVmN2hncHNLSGRQQnNHWDdyU2FXbDRBR3dlRXdCVnpMMmM4YzA0UmJNMDROX3lKZzNyNGxraFJlTVd1ekpQek5rbUZMMUprREhZb1Z6OWhORGRSR2Q3bTM1Y2ZfRlEtb1lULW5aMHgzVncweFZ5Tm81enpiSU1xa3FSbzEyZzlRazhpT1JlanA2ZE5XMmVzUFlKNHVaajQ5NVkwWnM5WWFuWmlOWXFlSUtIcnJJZzJ6QXo3Q1RXSXRSMi110gHuAUFVX3lxTE14cld2Vm1aWjdYNTNNY3BITjdRODRlaFRIN1NzZFJQVVJjMkN6RmlEeG03eWlucG4ycnZ4X051NzJoN3ZhaEx1Z2p4UWp3Z3Q3YWxtLU1ENVFTbjFqTVhaTlV6Vmdka09VdU1pd3BDQW1tVHhqbjNjMHFHUl9DVXdqNWlKM0hxQ01sWGpseHhrZEg2aFRvemw5d08zZEhBRzlLZldtNUM4cXc3TmFCM2xucDVwWkN1ZWFDUzRhZlplMVlhNmxVT0tScThVeThBTmYwOHdhMElNSUV0ZHFiV3dCUWk2SWRla1JrMUtIbkE?oc=5
 
-- Himachal showcases horticultural excellence at World Food India - The Indian Express
-  Himachal showcases horticultural
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVVWcjdCRVB1LXNOTDV2Tl9aSzlRZTM4UVRTV0o3cS1CSW5STjAzaFBQdmxqbVk2cWxkSlBNOWtFRnM1cXJKR05qdlRwYW1fbmVKWV9US0RrU1VsQ0lqam1pU1ZFNDA0XzBGOXBkdjFMUkt1VnFCbWlTNWE3clU4STJLLWQ1d3NlLVg4cy02QkxTeG9OMlJ1MTRmWFV1dmRPaGFqZmxRaGVXWkdwV2FnUnpQa9IBugFBVV95cUxPaDU3N2Y5YkJRVU5OUnVQSVpkR2FVZXYzdDY5RFFPQ01IOWpTQ2VlZTdub0xmTFdHMVI4ZWFZanNyeURQNHQzMm93QjdhSHJIY2lGa1dycmYxd2tDVC1qcU5zZ2dhaUxUcVdWelZFZmZOZW15RlhzcUQ5Rm9fQXhvenEtQk5CdjhuSkhmb2hZYzJaUXROV1dLbm5hS1JENjN6SmxPR19Zblo0R0tRTkRXLU9HT3I5eTNhalE?oc=5
+- "Operation Sindoor On Field": PM Modi After India Beat Pak In Asia Cup Final - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eG
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eGtxcGF4NU4wdE5OdFItYlA3c0tHejQ1ajNldjRtTFlpdDItdDdMTHNsb0U0bUJlZC10dlFPN3NacWkzS0JXN1VLc1JHeDhyaEhhOHJmaVNUaUxDY2ltQXV6ei03VGh4YkItTHNNUzdVYVNzQzBB0gHeAUFVX3lxTE5RZ1NlcTlHN0EzdzdrVlRSRlRRMlZlcTFHSExDbGlHZ3I1TzQ5azU2cDRwRllRVThVSjhiWVU1bXdHbU00ejl1UHlnMFo1WGJLdVQyczRYeXhFOE1ESm93TnlaVHIzaFVudE13ekx3QlNBeTBvUmI3eGlROS1qUlVTN0h5aEdwa1ZZRUdQeTEtSXFremNYWUpzRTlmd2MtemVGYXFNQ2VDNEY1dEhhZ1F2V0dPMWFiLWpRRU15UmVyNXEtUUFobmxlNTJxaWYzYy1BZmhWTDhneWVYMWw5QQ?oc=5
+
+- ‘We have to fix India’: Howard Lutnick says New Delhi must ‘open market, stop harming’ America - financialexpress.com
+  ‘We have to fix India’: Howard Lutnick
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS09CLTV0QzhNUHpyc2FjUE91UUF2emFVY0c5SzlRbU05Z3pJcXY5YWNMUUpoYW1maGlhU1piUEdjS1dsV0tsUUtiREMzRVJ2MHdCRzJYSFYzTEtDVDI0bFFOX0E4MDdmdGJDcWE3T0ZIZU9JZjAzRDUxX2VPMDdrQXFtbUhVM1RIbF8yaHV5TkpFa19IVjJWQThxUlA4TXJ0T2cwenNHU3B6VVR0M3FfWUtKLUlDQWlfUTQyMmFzOEc2VnFKMTdDVFMxNXlPX1FjTXh2RHBZRWh1V0ZpOVBwaWpNdw?oc=5
+
+- 'US Will Have To Fix India': Top Trump Aide Amid Tariff Tensions - NDTV
+  'US Will Have To Fix India': Top Trump
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQbEVUZTZwNHZhTlhWd2NvcWU0WXROQ3hsd2ItRE5nOEV6LWd5ME1FTkZlaDNIM0hnWkdZQlVHSkdud0RJSGtCU2UwWWFtbkZ0b2ZVM2xKTnU5SmtBVUJkdVRKcFk4Q0NJWVpSeGRTWHcxdHJFMFVsWWkyTnR1WlF0S0JSQUdnUlU0QmtOeXFZR2RCUUtPYzk4bEZaVHVoczh2Szc4N3NYcUxTS1VQVzBPclEzM05WanfSAb8BQVVfeXFMTVJzTzcwbEV2bERyR29tX25QYnJmUkhEUFNyZHZVLVMyams2R0o4d2sxV0JRY0hzVGE4Y1VsNnYxQXl2WU9sYUw1SjN5SmRVVkZiMkpuQko5aUZfS3BxcUxOa21GeHVEWG1uRmlBV25jT042SVBpTHc3TU5tWUJYREkxLVJORm9FYXVrME8yMTBqVXdUdndNRlozODB5dnZib2RRWmsxV1IycVM3YmhIMUI2Vm5OQmxCbDBmeTZ1Vm8?oc=5
+
+- Trump aide says India ‘a country that US needs to fix’ amid tariff row | Latest News India - Hindustan Times
+  The row between India and the U.S. has been going on for months.
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3BuOWlrakwxT2U5b2VLVkhhcnQzTHkxczRzNXZOMEsyeTNvRmZDUmM4VWl3YnpzLVhsajdGWkNXSVZuRVc3Y3FZY1lvSDUtWWZYNHc0OHhLWFNWeHdBZ21UR2RSb3g1RjhOQ2xiS1dua211RGdsdkNxYTA3ZFV5TnAyT1J1eHNOV2ZoRFB5QndoSnVRaGVYVnlObmM0SllpcC1GSGZnSHhIc3hmcmt4LTgtanB0MGoyeEo4YUlZNGtJcFlGTlJGU1lxMNIB0AFBVV95cUxPSEx4dlZTQ0N4TTZfZTJZdHRFcU5VOWRPeU5hdnl2dmFmdkk3aDBTQXJ6SDFkNUJpVkpUcGp4Y3NEajdfYlB0ak80MndUc1VDdGhHcGJxc2h6NGROcmxDcFA2eXNfaFl5R2l5am5neXpNQTFRMXZsQ19jNDc1N2xzSHRyOC1kTGlPSFZDOFBNMFluaGRjbjhldGdDRHloUTh3aVZuLVJLSWRpX3ZENW9lQldLdjFENUtXSVFseVRtcDUwYk1UU3VtT3JxemY5NjN5?oc=5
+
+- Rupee beset by a trifecta of troubles. Will the slide to new lows continue? | Today News - Mint
+  Rupee beset by a trifecta of troubles. Will the
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbElXeWRzVXpaMW93MktCNFpKOVdxRGdUTzBiOFBqSlRuU2I1VDVmN2hncHNLSGRQQnNHWDdyU2FXbDRBR3dlRXdCVnpMMmM4YzA0UmJNMDROX3lKZzNyNGxraFJlTVd1ekpQek5rbUZMMUprREhZb1Z6OWhORGRSR2Q3bTM1Y2ZfRlEtb1lULW5aMHgzVncweFZ5Tm81enpiSU1xa3FSbzEyZzlRazhpT1JlanA2ZE5XMmVzUFlKNHVaajQ5NVkwWnM5WWFuWmlOWXFlSUtIcnJJZzJ6QXo3Q1RXSXRSMi110gHuAUFVX3lxTE14cld2Vm1aWjdYNTNNY3BITjdRODRlaFRIN1NzZFJQVVJjMkN6RmlEeG03eWlucG4ycnZ4X051NzJoN3ZhaEx1Z2p4UWp3Z3Q3YWxtLU1ENVFTbjFqTVhaTlV6Vmdka09VdU1pd3BDQW1tVHhqbjNjMHFHUl9DVXdqNWlKM0hxQ01sWGpseHhrZEg2aFRvemw5d08zZEhBRzlLZldtNUM4cXc3TmFCM2xucDVwWkN1ZWFDUzRhZlplMVlhNmxVT0tScThVeThBTmYwOHdhMElNSUV0ZHFiV3dCUWk2SWRla1JrMUtIbkE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-28 18:23:37 UTC_
+_Last updated: 2025-09-29 01:12:45 UTC_
