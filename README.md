@@ -1,204 +1,172 @@
 # 📰 Daily News Summaries
 
-- Gold Today Rate, September 29: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- India’s first bullet train to cut Mumbai-Surat travel time to just 60 minutes
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-september-29-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10277634/
+  🔗 https://indianexpress.com/article/india/indias-first-bullet-train-to-cut-mumbai-surat-travel-time-to-just-60-minutes-10278188/
 
-- Congress leader Rahul Gandhi calls Tamil Nadu CM Stalin, actor Vijay over Karur stampede
+- IIS officer Manisha Verma takes charge as Press Secretary to President Droupadi Murmu
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-calls-stalin-tvk-vijay-karur-stampede-10277604/
+  🔗 https://indianexpress.com/article/india/iis-officer-manisha-verma-new-press-secretary-to-droupadi-murmu-10278330/
 
-- Bank Holidays in India 2025: Are banks open or closed today on Monday, September 29? Check city-wise list
+- 41 minors died by suicide in 4 years after internet abuse, says Kerala Chief Minister Vijayan
   
-  🔗 https://indianexpress.com/article/india/maha-saptami-durga-puja-bank-holiday-september-29-2025-10277479/
+  🔗 https://indianexpress.com/article/india/minors-died-suicide-kerala-chief-minister-vijayan-10278248/
 
-- ‘He was anxious after his story’: Uttarakhand journalist’s body found in river days after he went missing, family alleges foul play
+- Zubeen Garg death probe: Assam wants to invoke mutual assistance treaty with Singapore
   
-  🔗 https://indianexpress.com/article/india/uttarakhand-journalists-body-found-in-river-days-after-he-went-missing-family-alleges-foul-play-10277195/
+  🔗 https://indianexpress.com/article/india/zubeen-garg-death-probe-treaty-with-singapore-10278178/
 
-- Zubeen Garg’s family seeks questioning of ‘entire team at Singapore’, files complaint with CID
+- Uttar Pradesh to get 15th Vande Bharat train soon – Check route
   
-  🔗 https://indianexpress.com/article/india/zubeen-gargs-family-seeks-questioning-of-entire-team-at-singapore-files-complaint-with-cid-10277186/
+  🔗 https://indianexpress.com/article/india/uttar-pradesh-to-get-15th-vande-bharat-train-soon-check-route-10278014/
 
-- Ex-Google CEO Eric Schmidt warns US tech workers: Competing with China’s may mean sacrificing work-life balance
+- iPhone 17 users say Apple Intelligence not working, Genmoji and Image Playground broken
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/ex-google-ceo-eric-schmidt-warns-us-tech-workers-competing-with-chinas-may-mean-sacrificing-work-life-balance-10277582/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-17-series-apple-intelligence-not-working-bug-10278124/
 
-- Zoho’s Arattai: Can India’s homegrown messaging app rival WhatsApp?
+- With ‘Veritas’, Apple finally takes step to make Siri ‘intelligent’
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/zohos-arattai-can-indias-homegrown-messaging-app-rival-whatsapp-10276570/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/with-veritas-apple-finally-takes-step-to-make-siri-more-intelligent-1027235-10278235/
 
-- Under Rs 2,000: Best TWS earbuds with ANC and top features
+- Sony WH-1000XM6 wireless headphones now available in India for Rs 39,990
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/under-rs-2000-best-tws-earbuds-with-anc-and-top-features-10276358/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-wh-1000xm6-wireless-headphones-now-available-in-india-for-rs-39990-10277915/
 
-- There are more robots working in China than the rest of the world combined
+- NASA considers nuking asteroid 2024 YR4 to save the Moon from impact
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/there-are-more-robots-working-in-china-than-the-rest-of-the-world-combined-10276203/
+  🔗 https://indianexpress.com/article/technology/science/nasa-asteroid-2024-yr4-nuclear-bomb-save-moon-10277750/
 
-- Asia Cup 2025 Final, India vs Pakistan Match Live Cricket Streaming: How to watch the IND vs PAK match online on Airtel, Jio, Vodafone
+- Musk’s X to appeal Indian court ruling on secretive content removal system
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/ndia-vs-pakistan-asia-cup-2025-final-live-cricket-score-streaming-online-free-how-to-watch-live-ind-pak-match-on-jio-hotstar-airtel-vodafone-10276096/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/musks-x-to-appeal-indian-court-ruling-on-secretive-content-removal-system-10277885/
 
-- Interview: Ashish Dhawan of TCF on India’s CSR growth, education innovations, and building enduring impact
-  Corporate Social Responsibility (CSR) in India is projected to reach  ₹1.25 lakh crore annually by 2035. Founder-CEO of the TCF Ash
-  🔗 https://www.livemint.com/companies/news/interview-ashish-dhawan-of-tcf-on-india-s-csr-growth-education-innovations-and-building-enduring-impact-11759122718589.html
+- Tata Motors-owned Jaguar Land Rover to resume production after cyberattack with $2B UK government support
+  The UK government has extended a $2 billion loan guarantee to support the recovery efforts of Britain's largest carmaker. Tata Motors-owned Jaguar Land Rover will resume car manufacturing in a controlled
+  🔗 https://www.livemint.com/companies/news/tata-motors-owned-jaguar-land-rover-to-resume-production-after-cyberattack-with-2b-uk-government-support-11759140999160.html
 
-- Trump’s visa fee hike is not the only worry. Hostility mounts for Indian IT in US
-  Two senators targeted TCS and Cognizant over layoffs and hiring practices. A third senator is pushing for a reform of the H-1
-  🔗 https://www.livemint.com/companies/tcs-cognizant-pulled-up-by-us-lawmakers-hire-act-h-1b-visa-reform-11759053915235.html
+- Tata Communications wins ‘multi-crore’ contract to develop digital infrastructure for GSTAT — details here
+  Tata Communications has secured a multi-crore contract to build a digital infrastructure from GSTAT. The contract will enhance transparency and efficiency
+  🔗 https://www.livemint.com/companies/news/tata-communications-wins-multi-crore-contract-to-develop-digital-infrastructure-for-gstat-details-here-11759136600021.html
 
-- Trucks, three-wheelers and more: How Murugappa is riding the electric revolution
-  The Murugappa Group has quickly expanded its presence in the electric space in nearly all commercial segments. Within a matter of three years, the
-  🔗 https://www.livemint.com/companies/murugappa-ev-business-montra-electric-vehicles-lithium-ion-battery-india-11759059621382.html
+- TD’s US Investment-Banking Ambitions Risk Leaving Canada Behind
+   TD Securities managing directors gathered at the Encore hotel overlooking Boston Harbor in June.
+  🔗 https://www.livemint.com/companies/news/tds-us-investment-banking-ambitions-risk-leaving-canada-behind-11759144842150.html
 
-- Quorum Club to invest  ₹500-600 crore, bets on luxury lifestyle play with Bengaluru launch
-  The luxury members-only club is rebranding, changing its name to Q Collective. It is evaluating new locations
-  🔗 https://www.livemint.com/companies/quorum-club-expansion-bengaluru-luxury-club-indian-hospitality-investments-11759031338796.html
+- Pizza to coffee: Why global food brands can’t ignore India's hungry consumers
+  US-based soft serve inventor Carvel and pizza brand Papa John’s are either mulling or have already entered India in the past 6
+  🔗 https://www.livemint.com/companies/why-global-food-brands-can-t-ignore-india-11759130653480.html
 
-- Exclusive: Why Fabindia was sued by founders of its subsidiary Biome
-  Shantanu and Sania Arora Jain allege Fabindia, which has a controlling stake in their firm Biome Life Sciences, breached the exit clause in their shareholder
-  🔗 https://www.livemint.com/companies/fabindia-sued-by-subsidiary-over-exit-clause-11759038140113.html
+- Layoff news: Lufthansa plans to cut 4,000 jobs by 2030 amid AI push, says profit outlook strong
+  Lufthansa plans to cut 4,000 administrative jobs in Germany by 2030. Company says profit outlook and demand are predicted to be strong in years ahead.
+  🔗 https://www.livemint.com/companies/news/layoff-news-lufthansa-plans-4000-job-cuts-germany-administrative-by-2030-amid-ai-push-digital-says-profit-outlook-strong-11759136505118.html
 
-- Penny stock below  ₹10 considers Singapore-based firms' proposal for 25% stake acquisition. Details here
-  Welcure Drugs &amp; Pharmaceuticals has received a letter of intent from Singapore's Telexcell to acquire a 25% stake. While the proposal shows potential growth,
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-below-10-welcure-drugs-considers-singapore-based-firms-proposal-for-25-stake-acquisition-details-here-11759125133126.html
+- Anand Rathi IPO to list on Tuesday; GMP indicates modest listing – price and key details inside
+  Anand Rathi Share and Stock Brokers' IPO was oversubscribed by over 20 times. The shares are expected to list at  ₹441, reflecting a grey market
+  🔗 https://www.livemint.com/market/stock-market-news/anand-rathi-ipo-to-list-on-tuesday-gmp-indicates-modest-listing-price-and-key-details-inside-11759147654616.html
 
-- Azad Engineering share price rallies 4.5% on signing  ₹651 crore contract with Mitsubishi Heavy Industries
-  Azad Engineering's stock increased 4.5% to  ₹1626. The total contract value with MH
-  🔗 https://www.livemint.com/market/stock-market-news/azad-engineering-share-price-rallies-4-5-on-signing-rs-651-crore-contract-with-mitsubishi-heavy-industries-11759124704693.html
+- Mint Explainer | How Sebi uncovered a  ₹430 crore fraud and saw through a ‘kidnap ransom’ claim
+  Sebi's probe found over 85% of company's sales were fictitious. Promoters offloaded
+  🔗 https://www.livemint.com/market/sebi-uncovered-manish-shah-fraud-kidnap-ransom-claim-sssl-seacoast-shipping-services-11759135487789.html
 
-- Wockhardt, Sun Pharma, Lupin, Alembic Pharma, other pharma stocks rebound up to 10% after clarification on Trump Tariffs
-  Shares of Wockhardt rallied over 10%, leading the recovery in the sector. Bajaj Healthcare, Supriya Lifescience, Alembic
-  🔗 https://www.livemint.com/market/stock-market-news/wockhardt-sun-pharma-lupin-alembic-pharma-other-pharma-stocks-rebound-up-to-10-after-clarification-on-trump-tariffs-11759124861814.html
+- Expert view: Jimeet Modi of SAMCO Group on key risks for the Indian stock market, Nifty 50 outlook, RBI MPC and more
+  Jimeet Modi of SAMCO Group discusses the Indian stock market's muted performance, external and internal risks, and the potential
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-jimeet-modi-of-samco-group-on-key-risks-for-the-indian-stock-market-nifty-50-outlook-rbi-mpc-and-more-11759144350199.html
 
-- Seshaasai Technologies IPO GMP in focus ahead of listing; here's what grey market signals
-  Seshaasai Technologies' IPO is set for a healthy debut on September 30. The IPO was oversubscribed 69.64 times, raising  �
-  🔗 https://www.livemint.com/market/ipo/seshaasai-technologies-ipo-gmp-in-focus-ahead-of-listing-heres-what-grey-market-signals-11759123928947.html
+- Circuit-to-circuit penny stock under  ₹5 hits upper circuit for 53 days in a row. Do you own?
+  Avance Technologies' stock hit a 52-week high with a 2 percent upper circuit for the 53rd consecutive session. The stock has surged 434 percent from its April low and has gained 210 percent in three months.
+  🔗 https://www.livemint.com/market/stock-market-news/circuittocircuit-penny-stock-under-rs-5-avance-technologies-hits-upper-circuit-for-53-days-in-a-row-do-you-own-11759143044279.html
 
-- Penny stock below  ₹10 jumps 4% as company declares date to consider dividend, Q2 results
-  Julien Agro Infratech share price increased by over 4% after announcing a board meeting on October 21, 2025. The company also declared a bonus share issue of 1:10, with a record date of
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-below-rs-10-julien-agro-infratech-jumps-4-after-firm-declares-date-to-consider-dividend-q2-results-11759123649305.html
+- Specialty chemical companies have no near-term respite amid tariff woes
+  Weak demand, geopolitical headwinds, and US tariffs are keeping specialty chemical companies under pressure in H1FY26
+  🔗 https://www.livemint.com/market/mark-to-market/specialty-chemical-companies-h1fy26-tepid-finish-us-tariffs-geopolitical-headwinds-11759139018993.html
+
+- OnePlus 15's first review is out even before launch: How does it compare to iPhone 17 Pro Max?
+  The OnePlus 15 was unveiled at the Snapdragon Summit. The device features Snapdragon 8 Elite Gen 5, a 165Hz display, and a new camera design.
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-15s-first-review-is-out-even-before-launch-how-does-it-compare-to-iphone-17-pro-max-11759063054814.html
+
+- Ad-free streaming gets cheaper: YouTube Premium Lite arrives in India - Pricing, benefits and more
+  YouTube has launched its Premium Lite subscription in India for Rs. 89 per month. It offers an ad-
+  🔗 https://www.livemint.com/technology/tech-news/adfree-streaming-gets-cheaper-youtube-premium-lite-arrives-in-india-pricing-benefits-and-more-11759138061445.html
+
+- Sony WH-1000XM6 headphones with 12-mic noise cancellation system launched in India: Price, features, availability
+  Sony India has launched the WH-1000XM6 headphones. The device boasts 12 microphones, fast charging, and supports High-Resolution
+  🔗 https://www.livemint.com/technology/gadgets/sony-wh-1000xm6-headphones-with-12-mic-noise-cancellation-system-launched-in-india-price-features-availability-11759132838385.html
+
+- Arattai tops App Store social networking chart: What Zoho’s messaging platform offers, is it free| FAQs Explained
+  Arattai, developed by Zoho, has surged to the top of the App Store’s Social Networking category. The Swadeshi app is emerging as a strong Indian alternative
+  🔗 https://www.livemint.com/technology/apps/arattai-tops-app-store-social-networking-chart-what-zoho-s-messaging-platform-offers-is-it-free-faqs-explained-11759127740250.html
 
 - 8 ChatGPT prompts that could help you master a new language in 30 days, reveals AI expert
-  ChatGPT can teach you a new language in 30 days. Check out the eight prompts covering vocabulary, grammar, speaking and listening.
+  ChatGPT is being hailed as a personal language coach. A viral post claimed it can help users master a new language in 30 days. Here are eight AI prompts that cover vocabulary and grammar.
   🔗 https://www.livemint.com/technology/tech-news/8-chatgpt-prompts-that-could-help-you-master-a-new-language-in-30-days-reveals-ai-expert-11759122124403.html
 
-- After Aravind Srinivas, Radhika Gupta congratulates Zoho, wishes for ‘emergence of truly world class Indian brands’
-  Perplexity CEO Aravind Srinivas and Edelweiss MF Chief
-  🔗 https://www.livemint.com/technology/tech-news/radhika-gupta-congratulate-zoho-arattai-message-app-wish-emerge-world-class-indian-brands-sridhar-vembu-aravind-srinivas-11759119375833.html
+- Stock market today: Dow, S&P 500, Nasdaq futures climb with government shutdown in focus - Yahoo Finance
+  Stock market today: Dow, S&amp;P 500,
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxObHJZT3F1bnNWVzJtUXV6d1lXZ2NyZlJqNnVsSXBZTXhVWkJqVzBJZUE3bWVPcDV5UHJTbjFWTVpRRTUtV29NakJ0TkNYd2tvRElrc2xPZkFFYnFLWkV0VHFRNUxybmFYY21JX3UwMTVrU2QxZUliWnBTSUxZVjV6QVJ6UWlqdzV3R3k0SG1sUmVFY1l1Tmw5MmRXZkpsWEtWSFR3ZXVKeXNBRFBBeE55QzBtMF9qd194dUZNRC15VF9wYnBiWnRCNmFuZ21wMHpQ?oc=5
 
-- Apple MacBook Pro 2025–2026 to feature M5 chips, complete overhaul expected by next year: Mark Gurman
-  The next-generation MacBook Pro models are anticipated to launch between late 2025 and early 2026. Major design changes, including OLED displays and cellular connectivity,
-  🔗 https://www.livemint.com/technology/tech-news/apple-macbook-pro-2025-2026-to-feature-m5-chips-complete-overhaul-expected-by-next-year-mark-gurman-11759118538072.html
+- NFPs ahead this week as possible U.S. shutdown looms - what’s moving markets - Investing.com
+  NFPs ahead this week as possible U.S
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUWl4bGd1WUY1RjBmWHZvSHEzSmVxVFdFSC16NHc2SWFkR3B2TEUza0x4LW1vMkQ1cnpmMGdibk9FVFBhaE9JTHVxWk44LU5NVHNSSDRPbFdXWExpdXM5RXA2WWFQZ3RJRWp2bnNRdFB0US1VU2NPVkZQaHZTb01heDVRM1lLQlAwN1hlcFJIVDJZMHo4WExWWUNoUnJ5M3MtWXk0S3Zvc3VIWnZySDkwaUhzVF8xbUV6Zk9j?oc=5
 
-- ‘Congrats to Zoho!’ — Aravind Srinivas reacts as Arattai jumps from 3,000 to 350,000 sign-ups within days of launch
-  Aravind Srinivas, CEO of Perplexity AI, has praised Zoho’s homegrown messaging app Arattai, an instant messaging
-  🔗 https://www.livemint.com/technology/tech-news/arattai-sees-3-000-to-350-000-sign-ups-a-day-could-zohos-messaging-platform-be-india-s-whatsapp-rival-11759114648416.html
+- Gold punches through $3,800 an ounce as risk of US shutdown rattles markets - Financial Times
+  Gold punches through $3,800 an ounce as risk of
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5xX01zelVGRjZWQThseHlMOGZYWHJfVW1ldlBhQWxDLUNRZXNTdFRSN1MwaE9lUGV1MHltaVladTlKS0F1QnFhSDlvLV84aVNKUVVvQWZUN0NhcFE2M09FckJHbk95U2ZGaC1vZHRoTVo?oc=5
 
-- OnePlus 15 5G leaks: Expected price in India, global release schedule, and what to expect
-  The smartphone is expected to feature a new design, a 6.82-inch AMOLED display, a triple 50MP camera, and a Snapdragon 8 Elite Gen 5 processor.
-  🔗 https://www.livemint.com/technology/tech-news/oneplus-15-5g-leaks-expected-price-in-india-global-release-schedule-and-what-to-expect-11759109404553.html
-
-- Oil Drops as OPEC+ Seen Increasing Output Again: Markets Wrap - Bloomberg.com
-  Oil drops as OPEC+ Seen Increasing Output
+- Stocks Extend September Rally as Gold Tops $3,800: Markets Wrap - Bloomberg.com
+  Stocks Extend September Rally as Gold T
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPelBoMTRwc0RfY2VBQ1RxOVFyZVJuZHNzbW9UY0QwUEIyNHdBTmVuNGk5bHo2aVRmRENzMWZvb1I2Rm9NeWhWaWVacFZqa1hFRnRBZnZTTmhKSlFJa2RYejU2VGNGamdUeGFzajg1VWlkT3VMNld6Z0RpcndldkdHdlliTjd4TkNXZHRraEhHblZDMWE3QXUtWUFVblNqWnFFSk1aTnIyNm1pWDBKaGJv?oc=5
 
-- Global Markets Today: Nikkei 225, Kospi trade mixed ahead of Australia central bank policy meeting - Mint
-  Global Markets Today: Nikkei 225, Kospi trade
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSlVkd0Yzc2NUTHlwbGR4TDhVYXE1OTJUeUNLQnJuWW9jQkhLbGFyeXJjVF9NSzE0aUJ2SktZWG9uZDI5a1VhdlhTbFlKSEF1MmFNWTdpX1psNnRNaEVoNEJJTEVtNkhVV0RVdDgzUHJDbWUzUk96RVhYbE5sMC1NOHZTM3VtVHdGc0RzOVI0RUMydDg1elFteGhOYUpmRlgzT0lKTkRnYTR2dDBOXzRLYUlYajkxeDYzQmNyY1BRU3dZenI5WjYtRmZ6QU53Vm8yc1BJRUpIczl3ODl6b3RkcjNqcGd4SFZuTjdyWWRRcm15OTF5ZXNaa0lB0gH_AUFVX3lxTE04bnhBckgzYjhxYUVyOXZWSEM5QjN0cWtXd3gyMGw5ZmdRRmtudUZfclZaX3ZjXzE1cXl2NEFkaG1FU2FPSGVBY0ZVZXRpWjEzbWlrZ2RJOXpXVFZoalZRNVQtam5VZWp2dWlLOHA0cWtET01rY2p6QWt5b3ZqS2VaVVhKRXpvRi16bk5iSzBmbnc2blJJMHduRDRxRU11SFFLVUZaN1ZZVUhjR3k1QlJlODBGSUZRMGVSZm9sWWlMMGFfWGNXX0xManZ0aENJWEwtcFc3OC1JUVNBMWRFV1pRUFIyUm8xZ25jRzROZEJZNFJJb1E5NTlweFB6MVlZUQ?oc=5
+- Expert view: Jimeet Modi of SAMCO Group on key risks for the Indian stock market, Nifty 50 outlook, RBI MPC and more - Mint
+  Jimeet Modi of SAMCO Group on key risks for the Indian stock market. Nifty 50
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxQNTJ3Nkc0V0FVYVN5dHhPamhKMnMtUGpEaGctSWd1cTZpbXRtYTF3MTVuVThxQ0FqSFBwcldYN2FGbmdUUVExdzQwZ3UxQ1ZNalR5MFI4eEF1UmJYME41NnFQRDNWMkl0SzIyMUZWSGlKaW1FMXFldldmemJpTzVWaFc5OFlkVmw5UTJac1FmSGhxTkRTdUcxMkRDNGd6QmlZZ2tUVGEwZDlEelpSUTByZU1OT014RV9BX0ZJR09YRjBfYklKUGVvMF90MG95bXhvTFVMNkNldzFjcUNFNHhPRTU4OXpEb2RXVzBpYkxlSXdLUFpyMURHaURHUUpzNXR6VDMzelR4TDR4MUxLV1BtONIBlgJBVV95cUxQeXhsekhPTGlzSnkwTUpBTWdwMm9EQklENFotYm1IM0YtTG5mcVBCVkwzN0JwY0RrbWU4M2RENUZtcGlpRTJiZ1ZuX2hSWkxLaFItYWpUYUxsVHZjSzRpNGwwNGpPUFA5dWVmc1c1R3dGU1pQNTlJT0taRmV1OG1CWHlSX2xvYTBodzJISm5CSFhUQ2swUDZiSXpoaUdWWUg0VjZMMDVKQ3BhUXRIZDgweFBXdy1SeDFRSHQxX2hybnVXVldMc3ZFd2U1bkkwTXVPTG1CMlRHR3ZWNzVGRF9ZZ19ZQ0UxbHEwdEFUMzdrZGxDVFU0RkVTMG02d1dBSlJ4V0lRaElUemNkNWQxaE1ZNDhTcjk1dw?oc=5
 
-- Market correction opens opportunities in domestic sectors: Pankaj Pandey - The Economic Times
-  Market correction opens opportunities in domestic sectors: P
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUmJFVkZuRkNHZVlQTTdXLXlwQ2QtQ3hnQXBoVVV4cng4R0RTNUNYcFVSM0pIZGhWWDVQbk5rWVhPWlI5eXY1X1JXRFh3S3pwZ0QwZ0ZkSm1qY3J0R2lLVWk1SjNERVB2SXVYRENneUV2MV9OSUVHVWw0VGQ2TWNOZXBGZjJDV3FJNmkzSlNCY05LUW96UnhIblJneld6cFdyOGlOQlJfbmZjWE1heHVVSnBYYVZRSC1ZTG9CaU1LUXV1OXNQNTMtZVV0ZlNZYkczSHVocU5VNE9RZnlQc0FpY1NQTdIB4wFBVV95cUxPUmJFVkZuRkNHZVlQTTdXLXlwQ2QtQ3hnQXBoVVV4cng4R0RTNUNYcFVSM0pIZGhWWDVQbk5rWVhPWlI5eXY1X1JXRFh3S3pwZ0QwZ0ZkSm1qY3J0R2lLVWk1SjNERVB2SXVYRENneUV2MV9OSUVHVWw0VGQ2TWNOZXBGZjJDV3FJNmkzSlNCY05LUW96UnhIblJneld6cFdyOGlOQlJfbmZjWE1heHVVSnBYYVZRSC1ZTG9CaU1LUXV1OXNQNTMtZVV0ZlNZYkczSHVocU5VNE9RZnlQc0FpY1NQTQ?oc=5
+- India benchmark bonds fall on supply reshuffle before RBI policy
+   Benchmark Indian government bonds fell on Monday. Increase in the share of their issuance in New Delhi's fiscal second half borrowing plan.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-benchmark-bonds-fall-on-supply-reshuffle-before-rbi-policy/articleshow/124213240.cms
 
-- Stock Market LIVE Updates: GIFT Nifty hints a strong start; US markets gain, Asia down - Moneycontrol
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaDRpc3hqVjdsaVl0dXMzbV82X1pZb2tITmUyVkJYRkFqa1E2TWE2eS1FQlh4aFpXUjczTDJPWFZvS1h2NXkxNHMtY24zWkFsYmpZTUdRek5aR2RnUUV1Q0NyMUh1MURld3
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaDRpc3hqVjdsaVl0dXMzbV82X1pZb2tITmUyVkJYRkFqa1E2TWE2eS1FQlh4aFpXUjczTDJPWFZvS1h2NXkxNHMtY24zWkFsYmpZTUdRek5aR2RnUUV1Q0NyMUh1MURld3Vqa1U5VDF2cng2djBiOXNaZjFwd1FzMjQ2aTNtQ09zak9aTllYcm1ibDZWMWdHYjJ0aEQ3YVowRlNCM1dGM01LX1Blbm5EbTFtZ0JmVHhmRGtmTUlGUWZ6SXhuOXhFa3Fwd1JUWGpDbk5JRnZCVDRHOE43ajJ1MtIB5gFBVV95cUxPbnF4SWN2OXZRSXExZjZIWnM5REZQY0NOR0JLZ3dfdXp1WlhhX1NyMEMyVnAzVnVaWkV6TURxTDVfWi0zdmo3RGJZdEFRUVFOdExJM2d5WjBuSnh6c21NQUZxNk9wRmw4QXM5N1JfOXUwNlhQVWQ4R1pCVnN5cG5GaVMxRzhiQXI1RGt4V1g3bE1OejRHYU0yYXNJakdWTjU0YnUzNEsyWVMwTDBVajhJZmpLUzRFaWtNVlRUVlVPQ2lxMlZDX0MwSDJ0UDVOVzZ3ZGczcEVnSFlLaGhaTU5SWFd5Y3pXZw?oc=5
+- Gainers &amp; Losers: Wockhardt,Vodafone Idea among 6 top movers on Monday. Here’s why
+  Indian markets extended losses as Nifty and Sensex closed lower. Wockhardt surged, Vascon Engineers hit upper circuit, Reliance
+  🔗 https://economictimes.indiatimes.com/markets/web-stories/gainers-amp-losers-wockhardtvodafone-idea-among-6-top-movers-on-monday-heres-why/slideshow/124213063.cms
 
-- Asian stocks today: Markets mostly in green following US gains; HSI jumps over 350 points, Shenzhen up 1. - Times of India
-  Asian stocks today: Markets mostly in green following US gains; HSI jumps over 350 points
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxNZlBFWDU4ZFQxTml6YUVnX0VBaFZrelpzdDdyOWdGcEVaMHZWT0IwWDV2NlFUQkI0cjhMZnVYU1d5U3lLMFZCSDRjSnp3RFdLWEhYbUMydnFkLWxLWGRUTFBNYWxGVTRIZzNlZU0wOVpDaGVxNmNkVHZwbE1ydzZHSmJlVFVBZEVFdFFmRHhhSTZ1WC1uM0psY1NSMDZLdXVMQ1lkaWxHU3dJeXdsazdya3pFWjlOWXJsOUlhOGVZanZxbUtTazRjbUxweXpwb2RySWI5bG5zRXlROFlTRUFVVVgxbnZ3Wl9jb2dGMHRiM3VoVDBLSm43UzNjLVQ5RjM4TFd3QmZqdWllVFFzSWQtQ19zNHZRS3lPYjY0c3ZGaEtTYkha0gGqAkFVX3lxTFBva3lXbEx2bjlIN2Y2UnhMdFdrdzlBY2ZWWEhUTFpINjNfcE9XdU82VXZiVm9pa3dDM09jclh0QjhCNi1LWDV6clVOM21veEFWV2F2YVZ3MGVFZXRLbnZTbS1sdm5ORnZxdlAxSTFidDZqb3dPOG1nOGlEc09xOVBPVGhYVDE4TmFBcnFURWRjTVRDZTRHQ3kyUzRTUHlSZEFFemgyZXB6UU04MzRiajdqSGRib2R4Mm5PcFZLZVI1cW5maUFOdWdFN3JZblVHdHQwV1hfR28xRUJXZi1WbE1PdTZBMzBERENFWjk2WE9TdHdrRFE3LUU1RVpiYXk1NWFHQUNob0czTEdFZ05OdlJYRW4zVHpTSjRCUlBHV2xvdzNUTGZCaUhRMlE?oc=5
+- Sunteck Realty aims Rs 20k cr revenue from 2 new ultra-luxury housing projects in Mumbai, Dubai
+  Sunteck Realty Ltd will launch two new ultra-luxury housing projects in Mumbai and Dubai by June next year.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sunteck-realty-aims-rs-20k-cr-revenue-from-2-new-ultra-luxury-housing-projects-in-mumbai-dubai/articleshow/124212474.cms
 
-- How silver dethroned gold in 2025’s race for returns and why investors are rushing in
-  Silver has emerged as the top-performing precious metal of 2025. Its rally pushed prices to an all-time high of Rs 1,44,179/kg
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/how-silver-dethroned-gold-in-2025s-race-for-returns-and-why-investors-are-rushing-in/articleshow/124206519.cms
+- Dar Global to launch a $1 billion project in Saudi Arabia in a deal with Trump Organization
+  Dar Global, a London-listed luxury real estate developer, said on Monday that it plans to launch a Trump Plaza in the Saudi Red Sea city of Jeddah. It is the second collaboration with the
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dar-global-to-launch-a-1-billion-project-in-saudi-arabia-in-a-deal-with-trump-organization/articleshow/124212407.cms
 
-- Market correction opens opportunities in domestic sectors: Pankaj Pandey
-  Pankaj Pandey suggests domestic-oriented sectors like auto, capital goods, and cement offer attractive risk-reward. While exporters face headwinds, select food FMCG companies and auto
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/market-correction-opens-opportunities-in-domestic-sectors-pankaj-pandey/articleshow/124206394.cms
+- Euro zone yields fall before key US, euro zone data; Spanish sovereign gets two upgrades
+  Euro zone government bond yields dipped on Monday ahead of key data releases. Spanish yields edged down after the country received two sovereign ratings upgrades on Friday.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/euro-zone-yields-fall-before-key-us-euro-zone-data-spanish-sovereign-gets-two-upgrades/articleshow/124212357.cms
 
-- RBI poised to hold rates at 5.50% amid mixed signals
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-poised-to-hold-rates-at-5-50-amid-mixed-signals/slideshow/124206298.cms
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Bitcoin trades at $111K, Ethereum at $4,120 amid massive whale accumulation
-  Bitcoin traded around $111K on Monday, driven by strong whale accumulation. Experts say BTC’s dip below key averages is a short-term cleansing
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-at-111k-ethereum-at-4120-amid-massive-whale-accumulation/articleshow/124205923.cms
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- India's 10-yr bond yield holds firm ahead of quarter-end buying, RBI policy decision
-  India's 10-year bond yield remained stable Monday, as selling pressure from the government's revised borrowing plan was balanced by quarter-end buying. While most expect rates to hold, some economists and firms anticipate a 25 basis-point cut
-  🔗 https://economictimes.indiatimes.com/markets/bonds/indias-10-yr-bond-yield-holds-firm-ahead-of-quarter-end-buying-rbi-policy-decision/articleshow/124205810.cms
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- "Operation Sindoor On Field": PM Modi After India Beat Pak In Asia Cup Final - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eG
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eGtxcGF4NU4wdE5OdFItYlA3c0tHejQ1ajNldjRtTFlpdDItdDdMTHNsb0U0bUJlZC10dlFPN3NacWkzS0JXN1VLc1JHeDhyaEhhOHJmaVNUaUxDY2ltQXV6ei03VGh4YkItTHNNUzdVYVNzQzBB0gHeAUFVX3lxTE5RZ1NlcTlHN0EzdzdrVlRSRlRRMlZlcTFHSExDbGlHZ3I1TzQ5azU2cDRwRllRVThVSjhiWVU1bXdHbU00ejl1UHlnMFo1WGJLdVQyczRYeXhFOE1ESm93TnlaVHIzaFVudE13ekx3QlNBeTBvUmI3eGlROS1qUlVTN0h5aEdwa1ZZRUdQeTEtSXFremNYWUpzRTlmd2MtemVGYXFNQ2VDNEY1dEhhZ1F2V0dPMWFiLWpRRU15UmVyNXEtUUFobmxlNTJxaWYzYy1BZmhWTDhneWVYMWw5QQ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Corrigendum - Times of India
-  
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxNLVAxZklLV09KTXdkRTRSQXc5TGNlTkljLTNRUzJfNVlsMF9zU240M09ndTdHU3VpSG5uQ3hleHM1SUloY1Fsa1YtT3FRUW5nTXZwMEZCTEZtclhCT3VHdUtUQVROUVFySjFvUmdvVjh3d191Q3FwaFdyajFZUzVfRlNMT0hqd9IBiwFBVV95cUxQcmV2UURqRk9BRnRrYjRGeG8tMGhLcTZlWWtXQzYyZTRzdjE1RDNwNm5CNkhXMnBUMklFVWpsbzE3aHMxRGVTY1Fva0VaaUwydksxYVdnSEFCWXB1YUJFcjdVd29DSWQwQy14aDZ0dWJ2Q2Q4RDY5YTFHOFRESGdrWXM5czZLWjdmQXZn?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- NRI couple apologises for kissing at Garba event, leaves India after video goes viral - Mint
-  NRI couple apologises for kissing at Garba event,
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWXNPdUlDNkFZb25tMkZMbHVWeU1xVVVfcUd5M0xHTG9GVVVfM1M0eHhfNm9Ec1hCcDdDZTJOY2xlV252bUhBWERXZm4ya1FmSEtnNk5LYVRuTThDbU1GNGtsU0hVQ0otc2RPOGRLOVNSQk1NR3JkWUZHRHRzUGF6S2kzdTAzT1JXSjFteTNHRWlUalhvOUs5Y21kLW5MdlFLMDF1Mi1zdnc0aHZDVTRTUkZuc3o3SzVuM2NaVVdUVDZDemN6UU9RNjJkaHlFamhDdE1Md1cxTdIB3AFBVV95cUxNa1hScURuUXVrWUxXSzRyOGFwS2ctcnctUkJxTmZOMUxhRmh5UUMtVmtMMGF4aEQwTDkxT3pHY09YRjJicXJ1V21nak5rYzNoaG8zcVAtWnY5UWtTdmhBT1FQVjBNQ1l6NWVkM1JoRjVYR1pyd1JhRlF3aEMwdHdEcEFySU9GMklFTWFMd1ppejd2VWlEeHFVbjNjeHQ5Y044MUZXRWc5Z2FEV2l3cFRNbks4d3RkZW1SdURSWVltRDVTbUw1VHlPTU85TEFabzdFblZvbFoyel9ncXk0?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- India talks prevention. Now let recovery be visible | Latest News India - Hindustan Times
-  India talks prevention. Now let recovery be visible | Latest
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNOTU0V1hPR2xPVFFoNTZkd2J3U2FDOEpaZER0OHRzNlBZb1FWNENLejVuSVdNNzBhamQ1N0V3QUdMcFlGUGJ2Vjk0NVA2VlRpTTVqQ2hvOGlSZHNFTzJQNGMxMnZYVi15a3F4VEZ6WnItdU9adjJoeDdDYWxKV0FZemgtVk92dkVHX05nSUc4aGEzc2hwQ3RYcUlqV1hGV2ZaNFhMX3BZbUJEWGZobTF6dlREQdIBuAFBVV95cUxPc1doWWFMMTRadHA0aHFQcjhzVWRsYVowWkVFVEgzSV9qUURPemxUallESDdYSC0zTzczY245d0NhUkNKSmMyOUk4TlRNUkFVejJMUGU1c0t6VXdtLXZTVWR2WFVNd05aTGFUcWNqWWc1V2lYMm44cE1Ubk9OLXFQbDJKM2FuTHpna1ZFdnUxYTBHU21icDh3dExuSmFfVEluNmg0T240eTMtNTB5MF9Qd2ZSU3ZEWUlI?oc=5
-
-- ‘Clog the toilet’ trolls hit Indian visa holders rushing to U.S. - The Hindu
-  'Clog the toilet' trolls hit Indian visa
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS09SV1pzYWRneGhiWGQ1Z21qcURuemRmY01Ld2pkVU91TGhaUU84eFhKOGxSWGF4TXBXQmVTQ1FQV25mOWVoY1VreFMyRXpQUnVLS1h0UmRxT0xHdjktX0hzU3BKX0FKYzJtUl9ORTZxYk9rYUtmRnB6T2Y0anZua2VrZldwUEQzQURhdlhJRE1jbzdsS3VqS0JIXzZTeUN1b2V3ZkJudFJMX2FSNXVSemxuV25KX0dPWExJR1ljbVJLZ9IByAFBVV95cUxNX3o2RUExQnZyb1pOVnFFVFdZN2Zlbk4zTzN5THRCa256REx5UDZ2OFdjbWRjVDhJYUFCQkJYejlKNGZuS25Nb0pHNTktYXFaSkRfdGZQUWNaWWNCUVF0Rm9uSUttclQ0ZF9tbUNic2JEYWtkeUR1SHY2dmJ1X0d4TU1DQ0VqdHpTa1U0M0x0c1ZKN1ZvTVRlMVo1QmNKbnQ4SWRHR2pxTVQ3dmdybDVCQ0FIQW11c203d3Z2Z0FvU1MwUm5xcVdTVQ?oc=5
-
-- "Operation Sindoor On Field": PM Modi After India Beat Pak In Asia Cup Final - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eG
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eGtxcGF4NU4wdE5OdFItYlA3c0tHejQ1ajNldjRtTFlpdDItdDdMTHNsb0U0bUJlZC10dlFPN3NacWkzS0JXN1VLc1JHeDhyaEhhOHJmaVNUaUxDY2ltQXV6ei03VGh4YkItTHNNUzdVYVNzQzBB0gHeAUFVX3lxTE5RZ1NlcTlHN0EzdzdrVlRSRlRRMlZlcTFHSExDbGlHZ3I1TzQ5azU2cDRwRllRVThVSjhiWVU1bXdHbU00ejl1UHlnMFo1WGJLdVQyczRYeXhFOE1ESm93TnlaVHIzaFVudE13ekx3QlNBeTBvUmI3eGlROS1qUlVTN0h5aEdwa1ZZRUdQeTEtSXFremNYWUpzRTlmd2MtemVGYXFNQ2VDNEY1dEhhZ1F2V0dPMWFiLWpRRU15UmVyNXEtUUFobmxlNTJxaWYzYy1BZmhWTDhneWVYMWw5QQ?oc=5
-
-- Corrigendum - Times of India
-  
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxNLVAxZklLV09KTXdkRTRSQXc5TGNlTkljLTNRUzJfNVlsMF9zU240M09ndTdHU3VpSG5uQ3hleHM1SUloY1Fsa1YtT3FRUW5nTXZwMEZCTEZtclhCT3VHdUtUQVROUVFySjFvUmdvVjh3d191Q3FwaFdyajFZUzVfRlNMT0hqd9IBiwFBVV95cUxQcmV2UURqRk9BRnRrYjRGeG8tMGhLcTZlWWtXQzYyZTRzdjE1RDNwNm5CNkhXMnBUMklFVWpsbzE3aHMxRGVTY1Fva0VaaUwydksxYVdnSEFCWXB1YUJFcjdVd29DSWQwQy14aDZ0dWJ2Q2Q4RDY5YTFHOFRESGdrWXM5czZLWjdmQXZn?oc=5
-
-- NRI couple apologises for kissing at Garba event, leaves India after video goes viral - Mint
-  NRI couple apologises for kissing at Garba event,
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWXNPdUlDNkFZb25tMkZMbHVWeU1xVVVfcUd5M0xHTG9GVVVfM1M0eHhfNm9Ec1hCcDdDZTJOY2xlV252bUhBWERXZm4ya1FmSEtnNk5LYVRuTThDbU1GNGtsU0hVQ0otc2RPOGRLOVNSQk1NR3JkWUZHRHRzUGF6S2kzdTAzT1JXSjFteTNHRWlUalhvOUs5Y21kLW5MdlFLMDF1Mi1zdnc0aHZDVTRTUkZuc3o3SzVuM2NaVVdUVDZDemN6UU9RNjJkaHlFamhDdE1Md1cxTdIB3AFBVV95cUxNa1hScURuUXVrWUxXSzRyOGFwS2ctcnctUkJxTmZOMUxhRmh5UUMtVmtMMGF4aEQwTDkxT3pHY09YRjJicXJ1V21nak5rYzNoaG8zcVAtWnY5UWtTdmhBT1FQVjBNQ1l6NWVkM1JoRjVYR1pyd1JhRlF3aEMwdHdEcEFySU9GMklFTWFMd1ppejd2VWlEeHFVbjNjeHQ5Y044MUZXRWc5Z2FEV2l3cFRNbks4d3RkZW1SdURSWVltRDVTbUw1VHlPTU85TEFabzdFblZvbFoyel9ncXk0?oc=5
-
-- India talks prevention. Now let recovery be visible | Latest News India - Hindustan Times
-  India talks prevention. Now let recovery be visible | Latest
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNOTU0V1hPR2xPVFFoNTZkd2J3U2FDOEpaZER0OHRzNlBZb1FWNENLejVuSVdNNzBhamQ1N0V3QUdMcFlGUGJ2Vjk0NVA2VlRpTTVqQ2hvOGlSZHNFTzJQNGMxMnZYVi15a3F4VEZ6WnItdU9adjJoeDdDYWxKV0FZemgtVk92dkVHX05nSUc4aGEzc2hwQ3RYcUlqV1hGV2ZaNFhMX3BZbUJEWGZobTF6dlREQdIBuAFBVV95cUxPc1doWWFMMTRadHA0aHFQcjhzVWRsYVowWkVFVEgzSV9qUURPemxUallESDdYSC0zTzczY245d0NhUkNKSmMyOUk4TlRNUkFVejJMUGU1c0t6VXdtLXZTVWR2WFVNd05aTGFUcWNqWWc1V2lYMm44cE1Ubk9OLXFQbDJKM2FuTHpna1ZFdnUxYTBHU21icDh3dExuSmFfVEluNmg0T240eTMtNTB5MF9Qd2ZSU3ZEWUlI?oc=5
-
-- ‘Clog the toilet’ trolls hit Indian visa holders rushing to U.S. - The Hindu
-  'Clog the toilet' trolls hit Indian visa
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS09SV1pzYWRneGhiWGQ1Z21qcURuemRmY01Ld2pkVU91TGhaUU84eFhKOGxSWGF4TXBXQmVTQ1FQV25mOWVoY1VreFMyRXpQUnVLS1h0UmRxT0xHdjktX0hzU3BKX0FKYzJtUl9ORTZxYk9rYUtmRnB6T2Y0anZua2VrZldwUEQzQURhdlhJRE1jbzdsS3VqS0JIXzZTeUN1b2V3ZkJudFJMX2FSNXVSemxuV25KX0dPWExJR1ljbVJLZ9IByAFBVV95cUxNX3o2RUExQnZyb1pOVnFFVFdZN2Zlbk4zTzN5THRCa256REx5UDZ2OFdjbWRjVDhJYUFCQkJYejlKNGZuS25Nb0pHNTktYXFaSkRfdGZQUWNaWWNCUVF0Rm9uSUttclQ0ZF9tbUNic2JEYWtkeUR1SHY2dmJ1X0d4TU1DQ0VqdHpTa1U0M0x0c1ZKN1ZvTVRlMVo1QmNKbnQ4SWRHR2pxTVQ3dmdybDVCQ0FIQW11c203d3Z2Z0FvU1MwUm5xcVdTVQ?oc=5
-
-- "Operation Sindoor On Field": PM Modi After India Beat Pak In Asia Cup Final - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eG
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eGtxcGF4NU4wdE5OdFItYlA3c0tHejQ1ajNldjRtTFlpdDItdDdMTHNsb0U0bUJlZC10dlFPN3NacWkzS0JXN1VLc1JHeDhyaEhhOHJmaVNUaUxDY2ltQXV6ei03VGh4YkItTHNNUzdVYVNzQzBB0gHeAUFVX3lxTE5RZ1NlcTlHN0EzdzdrVlRSRlRRMlZlcTFHSExDbGlHZ3I1TzQ5azU2cDRwRllRVThVSjhiWVU1bXdHbU00ejl1UHlnMFo1WGJLdVQyczRYeXhFOE1ESm93TnlaVHIzaFVudE13ekx3QlNBeTBvUmI3eGlROS1qUlVTN0h5aEdwa1ZZRUdQeTEtSXFremNYWUpzRTlmd2MtemVGYXFNQ2VDNEY1dEhhZ1F2V0dPMWFiLWpRRU15UmVyNXEtUUFobmxlNTJxaWYzYy1BZmhWTDhneWVYMWw5QQ?oc=5
-
-- Corrigendum - Times of India
-  
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxNLVAxZklLV09KTXdkRTRSQXc5TGNlTkljLTNRUzJfNVlsMF9zU240M09ndTdHU3VpSG5uQ3hleHM1SUloY1Fsa1YtT3FRUW5nTXZwMEZCTEZtclhCT3VHdUtUQVROUVFySjFvUmdvVjh3d191Q3FwaFdyajFZUzVfRlNMT0hqd9IBiwFBVV95cUxQcmV2UURqRk9BRnRrYjRGeG8tMGhLcTZlWWtXQzYyZTRzdjE1RDNwNm5CNkhXMnBUMklFVWpsbzE3aHMxRGVTY1Fva0VaaUwydksxYVdnSEFCWXB1YUJFcjdVd29DSWQwQy14aDZ0dWJ2Q2Q4RDY5YTFHOFRESGdrWXM5czZLWjdmQXZn?oc=5
-
-- NRI couple apologises for kissing at Garba event, leaves India after video goes viral - Mint
-  NRI couple apologises for kissing at Garba event,
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWXNPdUlDNkFZb25tMkZMbHVWeU1xVVVfcUd5M0xHTG9GVVVfM1M0eHhfNm9Ec1hCcDdDZTJOY2xlV252bUhBWERXZm4ya1FmSEtnNk5LYVRuTThDbU1GNGtsU0hVQ0otc2RPOGRLOVNSQk1NR3JkWUZHRHRzUGF6S2kzdTAzT1JXSjFteTNHRWlUalhvOUs5Y21kLW5MdlFLMDF1Mi1zdnc0aHZDVTRTUkZuc3o3SzVuM2NaVVdUVDZDemN6UU9RNjJkaHlFamhDdE1Md1cxTdIB3AFBVV95cUxNa1hScURuUXVrWUxXSzRyOGFwS2ctcnctUkJxTmZOMUxhRmh5UUMtVmtMMGF4aEQwTDkxT3pHY09YRjJicXJ1V21nak5rYzNoaG8zcVAtWnY5UWtTdmhBT1FQVjBNQ1l6NWVkM1JoRjVYR1pyd1JhRlF3aEMwdHdEcEFySU9GMklFTWFMd1ppejd2VWlEeHFVbjNjeHQ5Y044MUZXRWc5Z2FEV2l3cFRNbks4d3RkZW1SdURSWVltRDVTbUw1VHlPTU85TEFabzdFblZvbFoyel9ncXk0?oc=5
-
-- India talks prevention. Now let recovery be visible | Latest News India - Hindustan Times
-  India talks prevention. Now let recovery be visible | Latest
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNOTU0V1hPR2xPVFFoNTZkd2J3U2FDOEpaZER0OHRzNlBZb1FWNENLejVuSVdNNzBhamQ1N0V3QUdMcFlGUGJ2Vjk0NVA2VlRpTTVqQ2hvOGlSZHNFTzJQNGMxMnZYVi15a3F4VEZ6WnItdU9adjJoeDdDYWxKV0FZemgtVk92dkVHX05nSUc4aGEzc2hwQ3RYcUlqV1hGV2ZaNFhMX3BZbUJEWGZobTF6dlREQdIBuAFBVV95cUxPc1doWWFMMTRadHA0aHFQcjhzVWRsYVowWkVFVEgzSV9qUURPemxUallESDdYSC0zTzczY245d0NhUkNKSmMyOUk4TlRNUkFVejJMUGU1c0t6VXdtLXZTVWR2WFVNd05aTGFUcWNqWWc1V2lYMm44cE1Ubk9OLXFQbDJKM2FuTHpna1ZFdnUxYTBHU21icDh3dExuSmFfVEluNmg0T240eTMtNTB5MF9Qd2ZSU3ZEWUlI?oc=5
-
-- ‘Clog the toilet’ trolls hit Indian visa holders rushing to U.S. - The Hindu
-  'Clog the toilet' trolls hit Indian visa
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS09SV1pzYWRneGhiWGQ1Z21qcURuemRmY01Ld2pkVU91TGhaUU84eFhKOGxSWGF4TXBXQmVTQ1FQV25mOWVoY1VreFMyRXpQUnVLS1h0UmRxT0xHdjktX0hzU3BKX0FKYzJtUl9ORTZxYk9rYUtmRnB6T2Y0anZua2VrZldwUEQzQURhdlhJRE1jbzdsS3VqS0JIXzZTeUN1b2V3ZkJudFJMX2FSNXVSemxuV25KX0dPWExJR1ljbVJLZ9IByAFBVV95cUxNX3o2RUExQnZyb1pOVnFFVFdZN2Zlbk4zTzN5THRCa256REx5UDZ2OFdjbWRjVDhJYUFCQkJYejlKNGZuS25Nb0pHNTktYXFaSkRfdGZQUWNaWWNCUVF0Rm9uSUttclQ0ZF9tbUNic2JEYWtkeUR1SHY2dmJ1X0d4TU1DQ0VqdHpTa1U0M0x0c1ZKN1ZvTVRlMVo1QmNKbnQ4SWRHR2pxTVQ3dmdybDVCQ0FIQW11c203d3Z2Z0FvU1MwUm5xcVdTVQ?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-09-29 06:28:29 UTC_
+_Last updated: 2025-09-29 12:34:57 UTC_
