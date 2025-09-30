@@ -1,44 +1,12 @@
 # 📰 Daily News Summaries
 
-- Sahara Group seeks SC nod to sell its assets to Adani Properties, raise money to refund investors
-  
-  🔗 https://indianexpress.com/article/india/sahara-group-seeks-sc-nod-to-sell-its-assets-to-adani-propoerties-raise-money-to-refund-investors-10278991/
+- Trump's visa storm masked TCS's AI woes. They are back in focus
+  TCS has had two bosses for its AI business in a little more than two years. Siva Ganesan, TCS's former AI unit head, quit earlier this month.
+  🔗 https://www.livemint.com/companies/tcss-former-ai-boss-quits-reflects-uncertain-ai-path-amid-h-1b-visa-hit-scrutiny-11758784475323.html
 
-- Warfare now measured in hours and seconds, not months, says Rajnath Singh
-  
-  🔗 https://indianexpress.com/article/india/warfare-now-measured-in-hours-and-seconds-not-months-says-rajnath-singh-10278980/
-
-- Political slugfest over Asia Cup final: BJP says Congress in ‘comatose state’ after India win; Opp party hits back — learn not to announce ceasefire near victory
-  
-  🔗 https://indianexpress.com/article/india/asia-cup-final-bjp-congress-india-win-10278905/
-
-- Increased working hours, night shifts allowed for women — Odisha’s big push for ease of doing business
-  
-  🔗 https://indianexpress.com/article/india/working-hours-night-shifts-women-odisha-ease-of-doing-business-10278686/
-
-- Uttarakhand paper leak protests called off after CM Dhami meets job aspirants, promises CBI probe
-  
-  🔗 https://indianexpress.com/article/india/uttarakhand-paper-leak-protests-called-off-after-cm-dhami-meets-job-aspirants-promises-cbi-probe-10278671/
-
-- iPhone 17 review: Apple finally brings Pro-level power to its regular phone
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/apple-iphone-17-review-price-specifications-features-10278418/
-
-- iPhone 17 users say Apple Intelligence not working, Genmoji and Image Playground broken
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-17-series-apple-intelligence-not-working-bug-10278124/
-
-- With ‘Veritas’, Apple finally takes step to make Siri ‘intelligent’
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/with-veritas-apple-finally-takes-step-to-make-siri-more-intelligent-1027235-10278235/
-
-- Sony WH-1000XM6 wireless headphones now available in India for Rs 39,990
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-wh-1000xm6-wireless-headphones-now-available-in-india-for-rs-39990-10277915/
-
-- NASA considers nuking asteroid 2024 YR4 to save the Moon from impact
-  
-  🔗 https://indianexpress.com/article/technology/science/nasa-asteroid-2024-yr4-nuclear-bomb-save-moon-10277750/
+- Deloitte UK Readies Job Cuts, Raises Partner Salaries by 4%
+  Deloitte LLP is set to cut jobs at its UK business. Company weather
+  🔗 https://www.livemint.com/companies/news/deloitte-uk-readies-job-cuts-raises-partner-salaries-by-4-11759190290434.html
 
 - Bulge-Brackets Goldman and JPMorgan Land Biggest LBO Ever
   The biggest buyout on record was negotiated by two
@@ -52,33 +20,37 @@
   CSX Corp. appointed Steve Angel as CEO following Joe Hinrichs' sudden departure.
   🔗 https://www.livemint.com/companies/news/csx-appoints-steve-angel-as-new-ceo-following-joe-hinrichs-abrupt-departure-details-here-11759162866476.html
 
-- US Hits Sanctioned Firms’ Subsidiaries, Drawing Chinese Rebuke
-  The Trump administration is dramatically expanding US sanctions to capture subsidiaries of blacklisted companies. The crackdown drew a swift rebuke from China, where key tech giants are already
-  🔗 https://www.livemint.com/companies/news/us-hits-sanctioned-firms-subsidiaries-drawing-chinese-rebuke-11759167323451.html
+- Global Markets Today: Nikkei 225, Kospi continue to trade mixed ahead of Australia central bank policy meeting
+  Australia's S&amp;amp;P/ASX 200 inched up 0.1 per cent
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-continue-to-trade-mixed-ahead-of-australia-central-bank-policy-meeting-11759193253745.html
 
-- TCS layoffs: Panic grips employees amid ‘forced resignations’, report reveals unseen ‘human suffering’
-  Employees report an environment of fear with ongoing layoffs affecting teams. Allegations include a 'fluidity list' for potential layoffs, causing uncertainty and forced resignations. Some employees
-  🔗 https://www.livemint.com/companies/news/tcs-layoffs-panic-grips-employees-amid-forced-resignations-report-reveals-unseen-human-suffering-11759158406914.html
+- Trualt Bioenergy IPO allotment date likely today. GMP, steps to check share allotment status online
+  Trualt Bioenergy IPO allotment date is likely today, 30 September 2025. Bigshare Services Pvt. Ltd. is the Urban Company IPO registrar.
+  🔗 https://www.livemint.com/market/ipo/trualt-bioenergy-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-online-11759160890577.html
 
-- ‘Questionable, Incomplete’: Wall Street Rejects Miran’s Fed Call
-  Federal Reserve Governor Stephen Miran may still hope to persuade his central bank colleagues that there’
-  🔗 https://www.livemint.com/market/stock-market-news/questionable-incomplete-wall-street-rejects-miran-s-fed-call-11759165565141.html
+- Seshaasai Technologies IPO listing date today. GMP hints at nearly 10% potential listing gain
+  Seshaasai Technologies is debuting on the stock market on September 30. The IPO was heavily subscribed, attracting strong interest from QIBs and retail investors.
+  🔗 https://www.livemint.com/market/ipo/seshaasai-technologies-ipo-listing-date-today-gmp-hints-at-nearly-10-potential-listing-gain-11759144144655.html
 
-- Your Guide to Bond Investing: Insights from Vishal Goenka
-  IndiaBonds CEO Vishal Goenka highlights the significance of bond investing for achieving financial goals. He advises specific allocations for various investment horizons and discusses
-  🔗 https://www.livemint.com/market/bonds/your-guide-to-bond-investing-insights-from-vishal-goenka-11759163940376.html
+- Jinkushal Industries IPO allotment to be finalised today: Check steps to track status and latest GMP
+  Jinkushal Industries IPO closed for bidding on Monday, September 29, garnering massive bids. The allotment for an IPO is finalised a day after the end of
+  🔗 https://www.livemint.com/market/ipo/jinkushal-industries-ipo-allotment-to-be-finalised-today-check-steps-to-track-status-and-latest-gmp-11759146017379.html
 
-- BlackRock’s IBIT Surpasses Deribit as Top Bitcoin Options Venue
-  BlackRock Inc.’s iShares Bitcoin Trust has overtaken Coinbase Global Inc.'s Deribit platform as the largest venue for Bitcoin options.
-  🔗 https://www.livemint.com/market/cryptocurrency/blackrocks-ibit-surpasses-deribit-as-top-bitcoin-options-venue-11759164220217.html
+- Jaro Institute IPO listing date today: GMP, experts signal debut of shares with a modest premium
+  Jaro Institute IPO listing is set for today at 10:00 IST on BSE and NSE. The IPO was oversubscribed 22.06 times, with a grey market premium of
+  🔗 https://www.livemint.com/market/ipo/jaro-institute-ipo-gmp-jaro-institute-ipo-listing-date-jaro-institute-ipo-allotment-jaro-institute-ipo-subscription-11759168246870.html
 
-- Copper gains on weaker dollar and supply concerns
-  Copper gains on weaker
-  🔗 https://www.livemint.com/market/commodities/copper-gains-on-weaker-dollar-and-supply-concerns-11759163428998.html
+- California enacts AI safety law targeting tech giants
+  California enacts
+  🔗 https://www.livemint.com/technology/tech-news/california-enacts-ai-safety-law-targeting-tech-giants-11759182204722.html
 
-- EA Stock Price: Electronic Arts climbs 5% on being acquired for $52.5 billion by private equity firms
-  Silver Lake Partners, Saudi Arabia’s sovereign wealth fund PIF,
-  🔗 https://www.livemint.com/market/stock-market-news/electronic-arts-climbs-5-on-being-acquired-for-52-5-billion-by-private-equity-firms-11759162992892.html
+- Creator says AI actress is piece of art after backlash
+  Artificial intelligence created by
+  🔗 https://www.livemint.com/technology/tech-news/creator-says-ai-actress-is-piece-of-art-after-backlash-11759180932564.html
+
+- Which ChatGPT features are restricted under parental controls introduced by OpenAI?
+  OpenAI launched parental controls for ChatGPT, allowing parents to connect accounts with their teens for enhanced safety.
+  🔗 https://www.livemint.com/technology/which-chatgpt-features-are-restricted-under-parental-controls-introduced-by-openai-11759172816780.html
 
 - AI is transforming how software engineers do their jobs. Just dont call it vibe-coding
    AI is transforming how software engineers do their jobs
@@ -88,137 +60,85 @@
   Amazon is discontinuing the Prime Invitee program on October 1. Instead, users can utilize Amazon Family, which requires all members to live at the same address.
   🔗 https://www.livemint.com/technology/tech-news/amazon-is-pulling-the-plug-on-16-year-old-prime-feature-this-week-heres-whats-changing-11759165066512.html
 
-- Microsoft debuts ‘vibe working’ with Agent Mode, Office Agent launch in Microsoft 365 Copilot
-  The new Agent Mode from Microsoft enhances Excel and Word. It allows users to create documents through natural language prompts. It offers functionalities like output evaluation
-  🔗 https://www.livemint.com/technology/tech-news/microsoft-debuts-vibe-working-with-agent-mode-office-agent-launch-in-microsoft-365-copilot-excel-powerpoint-word-11759159575715.html
+- Gold and silver hit record highs amid global safe-haven demand
+  Gold and silver prices reached new highs in India on Monday. Experts predict a time correction before further upward rally. Demand is expected to rise during Dussehra.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-and-silver-hit-record-highs-amid-global-safe-haven-demand/articleshow/124223238.cms
 
-- OpenAI adds parental controls to ChatGPT after teen suicide lawsuit: How to use, features and more
-  OpenAI has launched parental controls for ChatGPT. Parents can manage settings like usage hours, content restrictions, and receive alerts if their child shows signs
-  🔗 https://www.livemint.com/technology/tech-news/openai-adds-parental-controls-to-chatgpt-after-teen-suicide-lawsuit-how-to-use-features-and-more-11759155433039.html
+- Why is Tata Capital pricing its IPO far below unlisted levels?
+  Tata Capital's IPO is priced at ₹310-326 per share, a significant discount to its unlisted market price. This has disappointed investors who bought unlisted shares at much higher valuations.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/primed-for-biggest-ipo-of-year-tata-capital-springs-price-surprise/articleshow/124223210.cms
 
-- Emerging market debt database run by development banks turns to AI to fine-tune risk
-  Emerging market debt database run by development banks
-  🔗 https://www.livemint.com/technology/tech-news/emerging-market-debt-database-run-by-development-banks-turns-to-ai-to-fine-tune-risk-11759155168808.html
+- Pre-market action: Here's the trade setup for today's session
+  Foreign portfolio investors net sold shares worth Rs 2,831 crore. The rupee hit an all-time closing low of 88.79 against the US dollar.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124217445.cms
 
-- Stock Market Today: Nasdaq Rises; Government Shutdown Looms - The Wall Street Journal
-  A possible risk to markets from a shutdown getting chatter on trading floors. Dow, S&amp;P 500, Nasdaq futures climb with government shutdown.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPcnh0N0RjX2hwd0R0UmQzdjJQMXVlUlRDM1haME4xVjkwZkE3VVI5dmYtNlhYallIQkRlWVU5SWRuaGJGenNLOFNpMlVMMzVNYzlFRHBYUWJiUldxdWhXT1dqbEdaaEktTjE5eXNldzdkUnNLa090dGV4NmlGSVpyWWtRU3E0Vms?oc=5
+- Stocks in news: L&amp;T, M&amp;M, Tata Motors, Reliance Power, BEL
+  L&amp;T secured a $700 million facility. Premier Energies won $19.95 million solar contracts. Reliance Power sold Indonesian coal entities. BEL secured Rs 1092 crore orders.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-lt-mm-tata-motors-reliance-power-bel/articleshow/124217150.cms
 
-- Appetite for emerging markets has returned, says EMQQ founder - CNBC
-  Appetite for emerging markets has
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOZXd1TnpHQ2FWekNtWHJlYlpMb3hnZkNJNV9EM0NJLTJZVC13aTV6YU1VdVp4UW5mdUxDem50UXlEdGxUY0J6aVNrTXEwdDBFSDlIbFZWbGpWZnRZTEt5djhuU29lUnJRVG8wQ1NWVllmN1lZZF96Vmc3aU5WX0VjZ0RLSWlvR2x0QkF2OTZ3UnoyOE1vTXI5SUZPc2JOOE14?oc=5
-
-- Odds of a government shutdown rise to 70% in prediction markets - CNBC
-  Odds of a government shutdown rise to 70
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdEZnZEZSXzBxT2lvZmROYW1laDFFUnpmYzdlY0NVSy02M0dxUkQ3WS14SVBWMU5Zckt5TUVQUm5lYk9oREdJVEhtVnlZVGtVMG5JekpGZ3ltN2xBdlR2cnIwRVR6WWdEMHoxSndDS19ERW11UW5YOUYwYjlCSmFBZHJMQm1qRFY2ZTd0YjFBYW1QQkdBdGs5aEtHSGk4UjRPcS1mOC1yNmtPZ9IBrwFBVV95cUxOUVZId0RnamN2Z1BpbjJ4MGJ5QnUzZHJwNXZYUG9yOVZ6c3JEdXRpTWMzbk5FSHpMNXQ3SXJOZklsOHFYWTF1Q1EyekdITkdCbG1MSWVFQ0FzREJYV2NRcENNbmZGT2JnamRncmVxLWhNUWdYbGdkaEsyMWUtNEY2WnZlVlJpeFlocmVWdFY0dFFHQzg5QmVPX1FHTnRlYlZNMWkxNGQ5WTg3RE4wLXp3?oc=5
-
-- Gold punches through $3,800 an ounce as risk of US shutdown rattles markets - Financial Times
-  Gold punches through $3,800 an ounce as risk of
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5xX01zelVGRjZWQThseHlMOGZYWHJfVW1ldlBhQWxDLUNRZXNTdFRSN1MwaE9lUGV1MHltaVladTlKS0F1QnFhSDlvLV84aVNKUVVvQWZUN0NhcFE2M09FckJHbk95U2ZGaC1vZHRoTVo?oc=5
-
-- Stock Market Highlights: Sensex falls for 7th day, settles 61 pts lower; Nifty flat on selloff in IT, aut... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxNenBTU3VJcXk1MHFFYXAtaEFIbGtsTE9pc2VRVDhpSFV0aTBZTFV1WHJiTjdfOGFWVlhmcjdPR1FBVDFIVjNIN1JtdmRaSzhFc0Z3Tk9aRnE3SDloZDZ1dVFZbF9zenozaF
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNenBTU3VJcXk1MHFFYXAtaEFIbGtsTE9pc2VRVDhpSFV0aTBZTFV1WHJiTjdfOGFWVlhmcjdPR1FBVDFIVjNIN1JtdmRaSzhFc0Z3Tk9aRnE3SDloZDZ1dVFZbF9zenozaFlLc3g5UnI4eHFxZXdOWFdRSzI5QlNZcVVQZHVqbDVGOXBNMUFiQVYyak5ETjhjN1ZpY0FIaUtaX1ZWNTdtZWVuRGdEUWpFaUxkaklIZU9DTEdlMmh4eWpUVlZza3daZjlfTE84NTB2aUY0bGdMU005Z9IB3wFBVV95cUxNYVF2NmxfR2RtRTNmaW5kZERHTEpyekdtNG9FbWlPQ0c5dEdpNW1rMDdfZTA5NGVQTG9mSGhYVWNxbDN5X1ZEYnNTU1NadnJHVWFFQ2Rua1NtNEdadElyMlQ4Z0ZlYmFRT3lQMHlHbUhkYVRIZEx2RFJJTzE4TkM0bWEyWVpDdEVGZDFLNmJ0R1Flbk8tamtYclZRUkNZeVRYSHdWbTFvU1NjNnhpQXpfVHRKWC1yX2NUVHoyaVIzVHJJV3dsa0k5WFBpZ3RiNk9ZYUZyNmd1TWpCdUVWUV9z?oc=5
-
-- Avenue Supermarts raises Rs 100 crore short term debt; opens new store in Delhi
-  Avenue Supermarts raised Rs 100 crore in short-term debt via commercial paper. Retail chain opened its 431st store in New Delhi, further expanding its footprint.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-raises-rs-100-crore-short-term-debt-opens-new-store-in-delhi/articleshow/124217420.cms
-
-- Motilal Oswal MF buys Bharat Forge's shares worth nearly Rs 378 crore
-  Motilal Oswal Mutual Fund acquired Bharat Forge shares worth nearly Rs 378 crore. Amansa Capital purchased Aether Industries shares for Rs 94 crore. Goldman Sachs India Equity Portfolio offloaded its stake in
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-mf-buys-bharat-forges-shares-worth-nearly-rs-378-crore/articleshow/124217302.cms
-
-- BNP Paribas acquires Rs 1,806 crore worth stakes in Nifty stocks Hero MotoCorp and IndusInd Bank via bulk deals
-  BNP Paribas made substantial bulk deal investments, acquiring stakes worth Rs 1,806 crore in Hero MotoCorp and IndusInd Bank. Simultaneously, it was a net seller in Max Healthcare Institute
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bnp-paribas-acquires-rs-1806-crore-worth-stakes-in-nifty-stocks-hero-motocorp-and-indusind-bank-via-bulk-deals/articleshow/124217010.cms
-
-- Sebi issues administrative warning to Godrej Agrovet for delayed disclosures in Astec Lifesciences acquisition
-  Godrej Agrovet received an administrative warning from SEBI for delayed disclosures on shareholding changes in Astec Lifesciences. The regulator cautioned
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-issues-administrative-warning-to-godrej-agrovet-for-delayed-disclosures-in-astec-lifesciences-acquisition/articleshow/124216721.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Nifty and Sensex ended lower for the seventh consecutive session. Analysts flagged consolidation possibilities with 24,400–24,500 support and 24,800–25,000
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/124216421.cms
-
-- ‘Operation Sindoor on games field’: PM Modi congratulates Team India on Asia Cup victory | Latest News India - Hindustan Times
-  ‘Operation Sindoor on games field’: PM Modi congratulates Team India
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQWp3X3RMQUZ2YUxWVzFSVzB6dmZCeDhtREl0R1ZMcHVhX1k1M0g3TldZSEU0RE5BU1ZmUlVmSHlxMktURnFfWGZKSXJaRTNuU3JHQ2hVYmZqOG1JcXRmWlctM3lpRmpFXy1pczVNRXAwM2xIVXcteG0xekkyeEczWjRXeUVXc0VXTEF5NUtlMGQ3ZENKaktGMlRlWEVjb0lXeTBVbzlPWlI1Wks1c3U4b3I3VkdJTVNtVmFVYWYzS1V5S042QjBYRmpBOEhlUWE2NlFaTThuVWFTVUQyTC1pb0tpdUU1UlnSAewBQVVfeXFMTjA1b09VTnlzNU5lT3ZNNXFyM1R0RWQxYjZweXhBV2NpWUNCd2ZTbjJld3B3QkU5VUExVnZ3dUprb0NTOUpoRDJ3RFhJZENQZ1FYZ3p4aEVzSVBXaDZNNXBTTVpZTVJ6NFVkaXYxd3ZUeS1lMGptamN6cTY3cU1YVkxHLU9fT3ZZMG9HTnZYSnVxWjh4WWVxT245WUVaTV9uSVZSSjdES0RCTEZsY3FfT3BuNldwN250NV9LZVh0Sy1kb1BJSWFHSnJYQ2d4ZXRzRjhlcVdWSGtxZTBzdzhoNXNza2V6RkhNRDV5b2s?oc=5
-
-- 'When Close To Victory, Good Captains...': Congress' Asia Cup Note For PM Modi - NDTV
-  'When Close To Victory, Good Captains...':
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGdBZlAzcWEzRWdhQzFrX2VDd1FyYTBLb1NFQjRpMWtua2U2TThzbnRwY3RsYi1UTFNzQkxLNzZFdGx6djRpQnU4TXBHSFloZE9lblpleEVDaElJbE9ldnBvTTZNajhWSDBncmFhZHFIRldOTDRUc1llb0I5el9xNkFURE5kUUREdVlWYTNkUmE4d0hhUVBRa1NVOU9uNFByeEJSNW9oVkllNDd4X1dj0gG3AUFVX3lxTFBoUXFTTld0VjgzeFdMbDMyVkVBVmtkb1FCRDFqaGxfR3owenZYcm1vOFRPUkliY2stSjRsMGpxVmRNTDQxOUhMQWFzaDJMWjZaZmNfWUlhQUl6UGNqYWh6T0swbm56M3VLcTdRY21jU1pKX3dzME5XSFFOQ29RWGkyMVBzb19LcThsSmRpd2cyTHZrM1owSmk0WVNUR2FVaHh4ZjZvcGRuWHBCdUJKTVZUMlNZY2pLSQ?oc=5
+- SBI sees major growth in credit card business as HDFC Bank holds the top spot
+  HDFC Bank maintained its dominant position in both card issuance and transaction value. SBI's credit card business experienced a significant post-Covid surge, driven by its youth-focused expansion.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sbi-sees-major-growth-in-credit-card-business-as-hdfc-bank-holds-the-top-spot/articleshow/124223165.cms
 
 - 'If Operation Sindoor was ongoing ... ': Congress slams PM Modi's post after India's Asia Cup win; row ov - The Times of India
   'If Operation Sindoor was ongoing ... ': Congress slams PM Modi's post after India's Asia
   🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNVGhReWlsTlR2NVNiYzA4WG5CZmthd09EUDBvelVKTWtxSGprSm1NSWpmWThhUkEzU0VvWnpkM2VpTDAweUh1eE9FLVZKcVdmaWFOVzhxR0ZfakFtN05MNVFjQnNRQ1ZNam45YzRuQzllYmJTLTFmY01yZ3RGNEFaRkQxOF9XUERUSjkxYkVINVJ5S0VhSy1tLXI3N1pvMGhmWUx5b1hjczJXQWc2NFdHdmRLWF9xbE1nVjB0UjNsaWZyUmtqM0tMQmFWYkhNR09jYm1JVDJ6VW1QNHE2LVpDT2tQdlFjQ0V0Vk03eWcyWV9qalZ6TlFnazktMkgwcDNhZDRDWE40OFdaZ9IBjwJBVV95cUxNSWZhcElZcDRSRERBUVlyYkoxLXYtWXVteGlxM09IbXN6ZUw3Z0JuVklrX2ZCalhqZlZ3aW0tVmpkbl9LaXJWdGRrd3NfU2RFdERWbnlLczVoc3VISUhmbTQtd0x6MzhlazRQcHBHeWtWYjVpZ1hpQU9GLWhxN0VTUWVBcHNucXNtZFJiUExjYkRFdzh2aHN5UzJqV010ODdHbHdGMkhzVFRaMm1lSmtqRExKTFV6T0pZTVRYZWxsVHhfSjhOUzJlU3BERDRaUk1qeVdkeE1Od1pCR1JrNlZxU1NZMGZsbHJNWnd6N2dRN1JCMlcwenBuNEw4SXByTHFlUk1IM2tkc1FKcHRLakRn?oc=5
 
-- 'This will haunt them': Shoaib Malik says India will regret not accepting Asia Cup trophy from Mohsin Naq - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxOcDhkOGRuaUl3RU8wNWk2VEhGc0VzbEpXUGV5M2dlVVUyTFRQcVRUR0E0Z2FlWEJ3QjNxdFNLTTlYZHI5VXNObWJzbm9CRkFSTEJjRDZicUJqd3pnZmdhZHViOXNacXVxbn
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxOcDhkOGRuaUl3RU8wNWk2VEhGc0VzbEpXUGV5M2dlVVUyTFRQcVRUR0E0Z2FlWEJ3QjNxdFNLTTlYZHI5VXNObWJzbm9CRkFSTEJjRDZicUJqd3pnZmdhZHViOXNacXVxbnhUUWdfVmxKdXNYQzRzYThUdmVIOVVHVURSeXFyLW5KUGUzc2xuMW5yNHcyWFZpVUUzZXNoX2tlQk9BTjN6MzZER2pjNFVtbEgyQ21Sa1hrY3hFS2x5V05MZUZfNTUtVnRxb0RNQVk2ZVJyT2NYVUNZQTdZamxxZlFkUDd6amxpNTN1QVE5Z0dqX2l0bUlZbTJyeDRLUDlISlhRZ3ZUdTlUNDhfbktPeXFEaUlneGlQVWfSAZ8CQVVfeXFMTUg5THVMb1NEalh4ZTU1ZzgxVzQzeU9fd3FIZUozaHQtWHJlVGJVQmtDN3daaXlhSnJDeG1OaUxvdXJkMHM4Rk05YVRTRDB5M3llYkVWQjdVLVlZOE1ERW81M25wQ3p4RFlxWFlkTUxEM21ac1J3MFZFNmEtUU1sOU54eklIM21QUHA0cFBleUhGOUFlVk56eVp6ZWhqTmVwNHZUM2FORXlYR25TM3l5dTJMVW9oNGZnVmFfRENiN2o3NGxQelJqZ1BEV1p2WmdrZHVZMzdTcEJmVnZfaURuWnE5Y2drLVVvdl9KWEVSSGFJd1dNeGFjTEt4UE5kR1h3LTNNdTU0ZUtUVUJFWHN2bTR1d3hGd2djblpZLUdsdEE?oc=5
-
-- Canada Declares Lawrence Bishnoi Gang Terror Group Amid Reset In India Ties - NDTV
-  Canada Declares Lawrence Bishnoi Gang Terror
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPelBHaXF0T2hNcmhtY3F5RUVuY09lTlRZYnJNV28ySTNmakJKSFJXZHFRb1lLWUpfa0pubEVKMXRvMWk5VktweWxXVy0xUGJYQ0F1NEh4OXVWV3dEcThCcTY2RXF6elE0MktpcGxTejdQVkpveDNFYUxrdDhqRnRUUmRscFBreFJBSFJWbERGNXdzRm1sUFFKc1VjQ2Z4QjV6Q3Q1ZjhhOFBZVVZlZjUxNWNPUHNXd9IBvgFBVV95cUxPRUZ5aXcwXzdmM1lqbTFXY3BMRXNldGdwRGNONmpVZFVXMFpoVkl2QVc4SFVtWG5zeTJJUVllT01CYnZtNTRVdDVaMWFJcGpRWlRhRjR6WnMyTzlMYzhpTE9xdXBOdFF2b05KY1FNRDdzeEhEbVJ0d1lRYU9mWl8zZVNzOGxTMUZ2cHpQSjdfMHdjTE1YTi12R3RaWmhWY1FEUktFdzVqa3g0eE1qelliQ0JOMVhvamZRUkxjdjhR?oc=5
+- "Operation Sindoor On Field": PM Modi After India Beat Pak In Asia Cup Final - NDTV
+  "Operation Sindoor On Field": PM Modi After India Beat
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eGtxcGF4NU4wdE5OdFItYlA3c0tHejQ1ajNldjRtTFlpdDItdDdMTHNsb0U0bUJlZC10dlFPN3NacWkzS0JXN1VLc1JHeDhyaEhhOHJmaVNUaUxDY2ltQXV6ei03VGh4YkItTHNNUzdVYVNzQzBB0gHeAUFVX3lxTE5RZ1NlcTlHN0EzdzdrVlRSRlRRMlZlcTFHSExDbGlHZ3I1TzQ5azU2cDRwRllRVThVSjhiWVU1bXdHbU00ejl1UHlnMFo1WGJLdVQyczRYeXhFOE1ESm93TnlaVHIzaFVudE13ekx3QlNBeTBvUmI3eGlROS1qUlVTN0h5aEdwa1ZZRUdQeTEtSXFremNYWUpzRTlmd2MtemVGYXFNQ2VDNEY1dEhhZ1F2V0dPMWFiLWpRRU15UmVyNXEtUUFobmxlNTJxaWYzYy1BZmhWTDhneWVYMWw5QQ?oc=5
 
 - ‘Operation Sindoor on games field’: PM Modi congratulates Team India on Asia Cup victory | Latest News India - Hindustan Times
   ‘Operation Sindoor on games field’: PM Modi congratulates Team India
   🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQWp3X3RMQUZ2YUxWVzFSVzB6dmZCeDhtREl0R1ZMcHVhX1k1M0g3TldZSEU0RE5BU1ZmUlVmSHlxMktURnFfWGZKSXJaRTNuU3JHQ2hVYmZqOG1JcXRmWlctM3lpRmpFXy1pczVNRXAwM2xIVXcteG0xekkyeEczWjRXeUVXc0VXTEF5NUtlMGQ3ZENKaktGMlRlWEVjb0lXeTBVbzlPWlI1Wks1c3U4b3I3VkdJTVNtVmFVYWYzS1V5S042QjBYRmpBOEhlUWE2NlFaTThuVWFTVUQyTC1pb0tpdUU1UlnSAewBQVVfeXFMTjA1b09VTnlzNU5lT3ZNNXFyM1R0RWQxYjZweXhBV2NpWUNCd2ZTbjJld3B3QkU5VUExVnZ3dUprb0NTOUpoRDJ3RFhJZENQZ1FYZ3p4aEVzSVBXaDZNNXBTTVpZTVJ6NFVkaXYxd3ZUeS1lMGptamN6cTY3cU1YVkxHLU9fT3ZZMG9HTnZYSnVxWjh4WWVxT245WUVaTV9uSVZSSjdES0RCTEZsY3FfT3BuNldwN250NV9LZVh0Sy1kb1BJSWFHSnJYQ2d4ZXRzRjhlcVdWSGtxZTBzdzhoNXNza2V6RkhNRDV5b2s?oc=5
 
-- 'When Close To Victory, Good Captains...': Congress' Asia Cup Note For PM Modi - NDTV
-  'When Close To Victory, Good Captains...':
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGdBZlAzcWEzRWdhQzFrX2VDd1FyYTBLb1NFQjRpMWtua2U2TThzbnRwY3RsYi1UTFNzQkxLNzZFdGx6djRpQnU4TXBHSFloZE9lblpleEVDaElJbE9ldnBvTTZNajhWSDBncmFhZHFIRldOTDRUc1llb0I5el9xNkFURE5kUUREdVlWYTNkUmE4d0hhUVBRa1NVOU9uNFByeEJSNW9oVkllNDd4X1dj0gG3AUFVX3lxTFBoUXFTTld0VjgzeFdMbDMyVkVBVmtkb1FCRDFqaGxfR3owenZYcm1vOFRPUkliY2stSjRsMGpxVmRNTDQxOUhMQWFzaDJMWjZaZmNfWUlhQUl6UGNqYWh6T0swbm56M3VLcTdRY21jU1pKX3dzME5XSFFOQ29RWGkyMVBzb19LcThsSmRpd2cyTHZrM1owSmk0WVNUR2FVaHh4ZjZvcGRuWHBCdUJKTVZUMlNZY2pLSQ?oc=5
+- "Pak Deserves This Punishment": Kiren Rijiju On Jasprit Bumrah's Mimicry - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdXRnWmtMcm1neFhvNW9lVm9Iam0yZEhHcmpib3M5Q294YkE4NHVYYWJuNWFGakt2TmZ5d0NTUjd2RFo4eElIQ282V1A5aHM0bE5UNXV3bFpIRW9MQVpzVTJzeDU4bkJRRj
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdXRnWmtMcm1neFhvNW9lVm9Iam0yZEhHcmpib3M5Q294YkE4NHVYYWJuNWFGakt2TmZ5d0NTUjd2RFo4eElIQ282V1A5aHM0bE5UNXV3bFpIRW9MQVpzVTJzeDU4bkJRRjZYbDR3SXFXVmMzbGdXc25Ham1vMFNOOFlDaUdrTTU5MGp4SFZPQXlZcVRPbVc5VnI5dUlUQWlxNnZzNlF4TnJ6dEYyS0NEMWpzRUhOWTFDdU9qZjVkSkZVbkVlcUxKMmdUM2YzZ0FOOGt2Z3lhVVBpbkVGbDQteWN2MU50QdIB7gFBVV95cUxQbFhMSEFicWNLWXgxMTRxVjlIYW9xMEJST2Z2YWhzak9EcDNmRm9zNU1JdjhmdEtrZlBuTTMyR0RZS1ZValgyZkhnT1dYNjQySGtKbE45cmZkb1NnYU1hdmFjUkVmUFlpajZkWWZpT29lSHFnU2pVY1B2MUdhN2NEMWEtWVE2ZUdwOV82RFdhQm9ZUHUtSmQ3MzE3cTlaVGdUYkpEUnQ5N2FhZjV0R1NUT2U3ZExNWkVuNDRPcGI2UTJBNnhoRDVUZ3FWRk44a0tUb2EtdXdndHBxdGRJam4zQ1JWSGpILVlDY3RwM2JR?oc=5
+
+- SIR over, electoral roll for Bihar to be published today - The Indian Express
+  The electoral roll for Bihar to be published today.
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkxkVjh6NTFPN3AyLVM3ai04OUpwVjJzU0UzMllxa3B0VUlXaUZpcm5oc2NPcFFJR05FcFFVa1JFeGFPNTNDb3ZoaHRfZWMxa01VTm5xRGIzcElTWFR6N0x1MndQeGpSR1BZTjNvckNoT0RtWDB6YkF0RFZFdGVNSW9zMDJ2VnA3S3BZc1pSTzZiam1xN1NfZi04Y1BrMmtLU0M1aWloakbSAa8BQVVfeXFMTWItRUxERGc0dm9yZ0JZdm1xOTBYTjlSSThkYjlGOVBUOEV4Rnd1ekFHRDRPeERlRV9OaVpZSFpjT2FWdEdRRklSU0xwNnU1alNBZlVpc2lGTmZNWTdnTTBCUXF1YlN2ejJ5dVJZYXFtVGZQVFNFTjRRcTY4WEZVOGV0ZTFSYTlseXQ1SG1xQzBVOXdfZDFFWGJ6STRGdVhTRi1velF2U1hTZWZQM0R2VQ?oc=5
 
 - 'If Operation Sindoor was ongoing ... ': Congress slams PM Modi's post after India's Asia Cup win; row ov - The Times of India
   'If Operation Sindoor was ongoing ... ': Congress slams PM Modi's post after India's Asia
   🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNVGhReWlsTlR2NVNiYzA4WG5CZmthd09EUDBvelVKTWtxSGprSm1NSWpmWThhUkEzU0VvWnpkM2VpTDAweUh1eE9FLVZKcVdmaWFOVzhxR0ZfakFtN05MNVFjQnNRQ1ZNam45YzRuQzllYmJTLTFmY01yZ3RGNEFaRkQxOF9XUERUSjkxYkVINVJ5S0VhSy1tLXI3N1pvMGhmWUx5b1hjczJXQWc2NFdHdmRLWF9xbE1nVjB0UjNsaWZyUmtqM0tMQmFWYkhNR09jYm1JVDJ6VW1QNHE2LVpDT2tQdlFjQ0V0Vk03eWcyWV9qalZ6TlFnazktMkgwcDNhZDRDWE40OFdaZ9IBjwJBVV95cUxNSWZhcElZcDRSRERBUVlyYkoxLXYtWXVteGlxM09IbXN6ZUw3Z0JuVklrX2ZCalhqZlZ3aW0tVmpkbl9LaXJWdGRrd3NfU2RFdERWbnlLczVoc3VISUhmbTQtd0x6MzhlazRQcHBHeWtWYjVpZ1hpQU9GLWhxN0VTUWVBcHNucXNtZFJiUExjYkRFdzh2aHN5UzJqV010ODdHbHdGMkhzVFRaMm1lSmtqRExKTFV6T0pZTVRYZWxsVHhfSjhOUzJlU3BERDRaUk1qeVdkeE1Od1pCR1JrNlZxU1NZMGZsbHJNWnd6N2dRN1JCMlcwenBuNEw4SXByTHFlUk1IM2tkc1FKcHRLakRn?oc=5
 
-- 'This will haunt them': Shoaib Malik says India will regret not accepting Asia Cup trophy from Mohsin Naq - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxOcDhkOGRuaUl3RU8wNWk2VEhGc0VzbEpXUGV5M2dlVVUyTFRQcVRUR0E0Z2FlWEJ3QjNxdFNLTTlYZHI5VXNObWJzbm9CRkFSTEJjRDZicUJqd3pnZmdhZHViOXNacXVxbn
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxOcDhkOGRuaUl3RU8wNWk2VEhGc0VzbEpXUGV5M2dlVVUyTFRQcVRUR0E0Z2FlWEJ3QjNxdFNLTTlYZHI5VXNObWJzbm9CRkFSTEJjRDZicUJqd3pnZmdhZHViOXNacXVxbnhUUWdfVmxKdXNYQzRzYThUdmVIOVVHVURSeXFyLW5KUGUzc2xuMW5yNHcyWFZpVUUzZXNoX2tlQk9BTjN6MzZER2pjNFVtbEgyQ21Sa1hrY3hFS2x5V05MZUZfNTUtVnRxb0RNQVk2ZVJyT2NYVUNZQTdZamxxZlFkUDd6amxpNTN1QVE5Z0dqX2l0bUlZbTJyeDRLUDlISlhRZ3ZUdTlUNDhfbktPeXFEaUlneGlQVWfSAZ8CQVVfeXFMTUg5THVMb1NEalh4ZTU1ZzgxVzQzeU9fd3FIZUozaHQtWHJlVGJVQmtDN3daaXlhSnJDeG1OaUxvdXJkMHM4Rk05YVRTRDB5M3llYkVWQjdVLVlZOE1ERW81M25wQ3p4RFlxWFlkTUxEM21ac1J3MFZFNmEtUU1sOU54eklIM21QUHA0cFBleUhGOUFlVk56eVp6ZWhqTmVwNHZUM2FORXlYR25TM3l5dTJMVW9oNGZnVmFfRENiN2o3NGxQelJqZ1BEV1p2WmdrZHVZMzdTcEJmVnZfaURuWnE5Y2drLVVvdl9KWEVSSGFJd1dNeGFjTEt4UE5kR1h3LTNNdTU0ZUtUVUJFWHN2bTR1d3hGd2djblpZLUdsdEE?oc=5
-
-- Canada Declares Lawrence Bishnoi Gang Terror Group Amid Reset In India Ties - NDTV
-  Canada Declares Lawrence Bishnoi Gang Terror
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPelBHaXF0T2hNcmhtY3F5RUVuY09lTlRZYnJNV28ySTNmakJKSFJXZHFRb1lLWUpfa0pubEVKMXRvMWk5VktweWxXVy0xUGJYQ0F1NEh4OXVWV3dEcThCcTY2RXF6elE0MktpcGxTejdQVkpveDNFYUxrdDhqRnRUUmRscFBreFJBSFJWbERGNXdzRm1sUFFKc1VjQ2Z4QjV6Q3Q1ZjhhOFBZVVZlZjUxNWNPUHNXd9IBvgFBVV95cUxPRUZ5aXcwXzdmM1lqbTFXY3BMRXNldGdwRGNONmpVZFVXMFpoVkl2QVc4SFVtWG5zeTJJUVllT01CYnZtNTRVdDVaMWFJcGpRWlRhRjR6WnMyTzlMYzhpTE9xdXBOdFF2b05KY1FNRDdzeEhEbVJ0d1lRYU9mWl8zZVNzOGxTMUZ2cHpQSjdfMHdjTE1YTi12R3RaWmhWY1FEUktFdzVqa3g0eE1qelliQ0JOMVhvamZRUkxjdjhR?oc=5
+- "Operation Sindoor On Field": PM Modi After India Beat Pak In Asia Cup Final - NDTV
+  "Operation Sindoor On Field": PM Modi After India Beat
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eGtxcGF4NU4wdE5OdFItYlA3c0tHejQ1ajNldjRtTFlpdDItdDdMTHNsb0U0bUJlZC10dlFPN3NacWkzS0JXN1VLc1JHeDhyaEhhOHJmaVNUaUxDY2ltQXV6ei03VGh4YkItTHNNUzdVYVNzQzBB0gHeAUFVX3lxTE5RZ1NlcTlHN0EzdzdrVlRSRlRRMlZlcTFHSExDbGlHZ3I1TzQ5azU2cDRwRllRVThVSjhiWVU1bXdHbU00ejl1UHlnMFo1WGJLdVQyczRYeXhFOE1ESm93TnlaVHIzaFVudE13ekx3QlNBeTBvUmI3eGlROS1qUlVTN0h5aEdwa1ZZRUdQeTEtSXFremNYWUpzRTlmd2MtemVGYXFNQ2VDNEY1dEhhZ1F2V0dPMWFiLWpRRU15UmVyNXEtUUFobmxlNTJxaWYzYy1BZmhWTDhneWVYMWw5QQ?oc=5
 
 - ‘Operation Sindoor on games field’: PM Modi congratulates Team India on Asia Cup victory | Latest News India - Hindustan Times
   ‘Operation Sindoor on games field’: PM Modi congratulates Team India
   🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQWp3X3RMQUZ2YUxWVzFSVzB6dmZCeDhtREl0R1ZMcHVhX1k1M0g3TldZSEU0RE5BU1ZmUlVmSHlxMktURnFfWGZKSXJaRTNuU3JHQ2hVYmZqOG1JcXRmWlctM3lpRmpFXy1pczVNRXAwM2xIVXcteG0xekkyeEczWjRXeUVXc0VXTEF5NUtlMGQ3ZENKaktGMlRlWEVjb0lXeTBVbzlPWlI1Wks1c3U4b3I3VkdJTVNtVmFVYWYzS1V5S042QjBYRmpBOEhlUWE2NlFaTThuVWFTVUQyTC1pb0tpdUU1UlnSAewBQVVfeXFMTjA1b09VTnlzNU5lT3ZNNXFyM1R0RWQxYjZweXhBV2NpWUNCd2ZTbjJld3B3QkU5VUExVnZ3dUprb0NTOUpoRDJ3RFhJZENQZ1FYZ3p4aEVzSVBXaDZNNXBTTVpZTVJ6NFVkaXYxd3ZUeS1lMGptamN6cTY3cU1YVkxHLU9fT3ZZMG9HTnZYSnVxWjh4WWVxT245WUVaTV9uSVZSSjdES0RCTEZsY3FfT3BuNldwN250NV9LZVh0Sy1kb1BJSWFHSnJYQ2d4ZXRzRjhlcVdWSGtxZTBzdzhoNXNza2V6RkhNRDV5b2s?oc=5
 
-- 'When Close To Victory, Good Captains...': Congress' Asia Cup Note For PM Modi - NDTV
-  'When Close To Victory, Good Captains...':
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGdBZlAzcWEzRWdhQzFrX2VDd1FyYTBLb1NFQjRpMWtua2U2TThzbnRwY3RsYi1UTFNzQkxLNzZFdGx6djRpQnU4TXBHSFloZE9lblpleEVDaElJbE9ldnBvTTZNajhWSDBncmFhZHFIRldOTDRUc1llb0I5el9xNkFURE5kUUREdVlWYTNkUmE4d0hhUVBRa1NVOU9uNFByeEJSNW9oVkllNDd4X1dj0gG3AUFVX3lxTFBoUXFTTld0VjgzeFdMbDMyVkVBVmtkb1FCRDFqaGxfR3owenZYcm1vOFRPUkliY2stSjRsMGpxVmRNTDQxOUhMQWFzaDJMWjZaZmNfWUlhQUl6UGNqYWh6T0swbm56M3VLcTdRY21jU1pKX3dzME5XSFFOQ29RWGkyMVBzb19LcThsSmRpd2cyTHZrM1owSmk0WVNUR2FVaHh4ZjZvcGRuWHBCdUJKTVZUMlNZY2pLSQ?oc=5
+- "Pak Deserves This Punishment": Kiren Rijiju On Jasprit Bumrah's Mimicry - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdXRnWmtMcm1neFhvNW9lVm9Iam0yZEhHcmpib3M5Q294YkE4NHVYYWJuNWFGakt2TmZ5d0NTUjd2RFo4eElIQ282V1A5aHM0bE5UNXV3bFpIRW9MQVpzVTJzeDU4bkJRRj
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdXRnWmtMcm1neFhvNW9lVm9Iam0yZEhHcmpib3M5Q294YkE4NHVYYWJuNWFGakt2TmZ5d0NTUjd2RFo4eElIQ282V1A5aHM0bE5UNXV3bFpIRW9MQVpzVTJzeDU4bkJRRjZYbDR3SXFXVmMzbGdXc25Ham1vMFNOOFlDaUdrTTU5MGp4SFZPQXlZcVRPbVc5VnI5dUlUQWlxNnZzNlF4TnJ6dEYyS0NEMWpzRUhOWTFDdU9qZjVkSkZVbkVlcUxKMmdUM2YzZ0FOOGt2Z3lhVVBpbkVGbDQteWN2MU50QdIB7gFBVV95cUxQbFhMSEFicWNLWXgxMTRxVjlIYW9xMEJST2Z2YWhzak9EcDNmRm9zNU1JdjhmdEtrZlBuTTMyR0RZS1ZValgyZkhnT1dYNjQySGtKbE45cmZkb1NnYU1hdmFjUkVmUFlpajZkWWZpT29lSHFnU2pVY1B2MUdhN2NEMWEtWVE2ZUdwOV82RFdhQm9ZUHUtSmQ3MzE3cTlaVGdUYkpEUnQ5N2FhZjV0R1NUT2U3ZExNWkVuNDRPcGI2UTJBNnhoRDVUZ3FWRk44a0tUb2EtdXdndHBxdGRJam4zQ1JWSGpILVlDY3RwM2JR?oc=5
+
+- SIR over, electoral roll for Bihar to be published today - The Indian Express
+  The electoral roll for Bihar to be published today.
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkxkVjh6NTFPN3AyLVM3ai04OUpwVjJzU0UzMllxa3B0VUlXaUZpcm5oc2NPcFFJR05FcFFVa1JFeGFPNTNDb3ZoaHRfZWMxa01VTm5xRGIzcElTWFR6N0x1MndQeGpSR1BZTjNvckNoT0RtWDB6YkF0RFZFdGVNSW9zMDJ2VnA3S3BZc1pSTzZiam1xN1NfZi04Y1BrMmtLU0M1aWloakbSAa8BQVVfeXFMTWItRUxERGc0dm9yZ0JZdm1xOTBYTjlSSThkYjlGOVBUOEV4Rnd1ekFHRDRPeERlRV9OaVpZSFpjT2FWdEdRRklSU0xwNnU1alNBZlVpc2lGTmZNWTdnTTBCUXF1YlN2ejJ5dVJZYXFtVGZQVFNFTjRRcTY4WEZVOGV0ZTFSYTlseXQ1SG1xQzBVOXdfZDFFWGJ6STRGdVhTRi1velF2U1hTZWZQM0R2VQ?oc=5
 
 - 'If Operation Sindoor was ongoing ... ': Congress slams PM Modi's post after India's Asia Cup win; row ov - The Times of India
   'If Operation Sindoor was ongoing ... ': Congress slams PM Modi's post after India's Asia
   🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNVGhReWlsTlR2NVNiYzA4WG5CZmthd09EUDBvelVKTWtxSGprSm1NSWpmWThhUkEzU0VvWnpkM2VpTDAweUh1eE9FLVZKcVdmaWFOVzhxR0ZfakFtN05MNVFjQnNRQ1ZNam45YzRuQzllYmJTLTFmY01yZ3RGNEFaRkQxOF9XUERUSjkxYkVINVJ5S0VhSy1tLXI3N1pvMGhmWUx5b1hjczJXQWc2NFdHdmRLWF9xbE1nVjB0UjNsaWZyUmtqM0tMQmFWYkhNR09jYm1JVDJ6VW1QNHE2LVpDT2tQdlFjQ0V0Vk03eWcyWV9qalZ6TlFnazktMkgwcDNhZDRDWE40OFdaZ9IBjwJBVV95cUxNSWZhcElZcDRSRERBUVlyYkoxLXYtWXVteGlxM09IbXN6ZUw3Z0JuVklrX2ZCalhqZlZ3aW0tVmpkbl9LaXJWdGRrd3NfU2RFdERWbnlLczVoc3VISUhmbTQtd0x6MzhlazRQcHBHeWtWYjVpZ1hpQU9GLWhxN0VTUWVBcHNucXNtZFJiUExjYkRFdzh2aHN5UzJqV010ODdHbHdGMkhzVFRaMm1lSmtqRExKTFV6T0pZTVRYZWxsVHhfSjhOUzJlU3BERDRaUk1qeVdkeE1Od1pCR1JrNlZxU1NZMGZsbHJNWnd6N2dRN1JCMlcwenBuNEw4SXByTHFlUk1IM2tkc1FKcHRLakRn?oc=5
 
-- 'This will haunt them': Shoaib Malik says India will regret not accepting Asia Cup trophy from Mohsin Naq - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxOcDhkOGRuaUl3RU8wNWk2VEhGc0VzbEpXUGV5M2dlVVUyTFRQcVRUR0E0Z2FlWEJ3QjNxdFNLTTlYZHI5VXNObWJzbm9CRkFSTEJjRDZicUJqd3pnZmdhZHViOXNacXVxbn
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxOcDhkOGRuaUl3RU8wNWk2VEhGc0VzbEpXUGV5M2dlVVUyTFRQcVRUR0E0Z2FlWEJ3QjNxdFNLTTlYZHI5VXNObWJzbm9CRkFSTEJjRDZicUJqd3pnZmdhZHViOXNacXVxbnhUUWdfVmxKdXNYQzRzYThUdmVIOVVHVURSeXFyLW5KUGUzc2xuMW5yNHcyWFZpVUUzZXNoX2tlQk9BTjN6MzZER2pjNFVtbEgyQ21Sa1hrY3hFS2x5V05MZUZfNTUtVnRxb0RNQVk2ZVJyT2NYVUNZQTdZamxxZlFkUDd6amxpNTN1QVE5Z0dqX2l0bUlZbTJyeDRLUDlISlhRZ3ZUdTlUNDhfbktPeXFEaUlneGlQVWfSAZ8CQVVfeXFMTUg5THVMb1NEalh4ZTU1ZzgxVzQzeU9fd3FIZUozaHQtWHJlVGJVQmtDN3daaXlhSnJDeG1OaUxvdXJkMHM4Rk05YVRTRDB5M3llYkVWQjdVLVlZOE1ERW81M25wQ3p4RFlxWFlkTUxEM21ac1J3MFZFNmEtUU1sOU54eklIM21QUHA0cFBleUhGOUFlVk56eVp6ZWhqTmVwNHZUM2FORXlYR25TM3l5dTJMVW9oNGZnVmFfRENiN2o3NGxQelJqZ1BEV1p2WmdrZHVZMzdTcEJmVnZfaURuWnE5Y2drLVVvdl9KWEVSSGFJd1dNeGFjTEt4UE5kR1h3LTNNdTU0ZUtUVUJFWHN2bTR1d3hGd2djblpZLUdsdEE?oc=5
-
-- Canada Declares Lawrence Bishnoi Gang Terror Group Amid Reset In India Ties - NDTV
-  Canada Declares Lawrence Bishnoi Gang Terror
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPelBHaXF0T2hNcmhtY3F5RUVuY09lTlRZYnJNV28ySTNmakJKSFJXZHFRb1lLWUpfa0pubEVKMXRvMWk5VktweWxXVy0xUGJYQ0F1NEh4OXVWV3dEcThCcTY2RXF6elE0MktpcGxTejdQVkpveDNFYUxrdDhqRnRUUmRscFBreFJBSFJWbERGNXdzRm1sUFFKc1VjQ2Z4QjV6Q3Q1ZjhhOFBZVVZlZjUxNWNPUHNXd9IBvgFBVV95cUxPRUZ5aXcwXzdmM1lqbTFXY3BMRXNldGdwRGNONmpVZFVXMFpoVkl2QVc4SFVtWG5zeTJJUVllT01CYnZtNTRVdDVaMWFJcGpRWlRhRjR6WnMyTzlMYzhpTE9xdXBOdFF2b05KY1FNRDdzeEhEbVJ0d1lRYU9mWl8zZVNzOGxTMUZ2cHpQSjdfMHdjTE1YTi12R3RaWmhWY1FEUktFdzVqa3g0eE1qelliQ0JOMVhvamZRUkxjdjhR?oc=5
+- "Operation Sindoor On Field": PM Modi After India Beat Pak In Asia Cup Final - NDTV
+  "Operation Sindoor On Field": PM Modi After India Beat
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eGtxcGF4NU4wdE5OdFItYlA3c0tHejQ1ajNldjRtTFlpdDItdDdMTHNsb0U0bUJlZC10dlFPN3NacWkzS0JXN1VLc1JHeDhyaEhhOHJmaVNUaUxDY2ltQXV6ei03VGh4YkItTHNNUzdVYVNzQzBB0gHeAUFVX3lxTE5RZ1NlcTlHN0EzdzdrVlRSRlRRMlZlcTFHSExDbGlHZ3I1TzQ5azU2cDRwRllRVThVSjhiWVU1bXdHbU00ejl1UHlnMFo1WGJLdVQyczRYeXhFOE1ESm93TnlaVHIzaFVudE13ekx3QlNBeTBvUmI3eGlROS1qUlVTN0h5aEdwa1ZZRUdQeTEtSXFremNYWUpzRTlmd2MtemVGYXFNQ2VDNEY1dEhhZ1F2V0dPMWFiLWpRRU15UmVyNXEtUUFobmxlNTJxaWYzYy1BZmhWTDhneWVYMWw5QQ?oc=5
 
 - ‘Operation Sindoor on games field’: PM Modi congratulates Team India on Asia Cup victory | Latest News India - Hindustan Times
   ‘Operation Sindoor on games field’: PM Modi congratulates Team India
   🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQWp3X3RMQUZ2YUxWVzFSVzB6dmZCeDhtREl0R1ZMcHVhX1k1M0g3TldZSEU0RE5BU1ZmUlVmSHlxMktURnFfWGZKSXJaRTNuU3JHQ2hVYmZqOG1JcXRmWlctM3lpRmpFXy1pczVNRXAwM2xIVXcteG0xekkyeEczWjRXeUVXc0VXTEF5NUtlMGQ3ZENKaktGMlRlWEVjb0lXeTBVbzlPWlI1Wks1c3U4b3I3VkdJTVNtVmFVYWYzS1V5S042QjBYRmpBOEhlUWE2NlFaTThuVWFTVUQyTC1pb0tpdUU1UlnSAewBQVVfeXFMTjA1b09VTnlzNU5lT3ZNNXFyM1R0RWQxYjZweXhBV2NpWUNCd2ZTbjJld3B3QkU5VUExVnZ3dUprb0NTOUpoRDJ3RFhJZENQZ1FYZ3p4aEVzSVBXaDZNNXBTTVpZTVJ6NFVkaXYxd3ZUeS1lMGptamN6cTY3cU1YVkxHLU9fT3ZZMG9HTnZYSnVxWjh4WWVxT245WUVaTV9uSVZSSjdES0RCTEZsY3FfT3BuNldwN250NV9LZVh0Sy1kb1BJSWFHSnJYQ2d4ZXRzRjhlcVdWSGtxZTBzdzhoNXNza2V6RkhNRDV5b2s?oc=5
 
-- 'When Close To Victory, Good Captains...': Congress' Asia Cup Note For PM Modi - NDTV
-  'When Close To Victory, Good Captains...':
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGdBZlAzcWEzRWdhQzFrX2VDd1FyYTBLb1NFQjRpMWtua2U2TThzbnRwY3RsYi1UTFNzQkxLNzZFdGx6djRpQnU4TXBHSFloZE9lblpleEVDaElJbE9ldnBvTTZNajhWSDBncmFhZHFIRldOTDRUc1llb0I5el9xNkFURE5kUUREdVlWYTNkUmE4d0hhUVBRa1NVOU9uNFByeEJSNW9oVkllNDd4X1dj0gG3AUFVX3lxTFBoUXFTTld0VjgzeFdMbDMyVkVBVmtkb1FCRDFqaGxfR3owenZYcm1vOFRPUkliY2stSjRsMGpxVmRNTDQxOUhMQWFzaDJMWjZaZmNfWUlhQUl6UGNqYWh6T0swbm56M3VLcTdRY21jU1pKX3dzME5XSFFOQ29RWGkyMVBzb19LcThsSmRpd2cyTHZrM1owSmk0WVNUR2FVaHh4ZjZvcGRuWHBCdUJKTVZUMlNZY2pLSQ?oc=5
+- "Pak Deserves This Punishment": Kiren Rijiju On Jasprit Bumrah's Mimicry - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdXRnWmtMcm1neFhvNW9lVm9Iam0yZEhHcmpib3M5Q294YkE4NHVYYWJuNWFGakt2TmZ5d0NTUjd2RFo4eElIQ282V1A5aHM0bE5UNXV3bFpIRW9MQVpzVTJzeDU4bkJRRj
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdXRnWmtMcm1neFhvNW9lVm9Iam0yZEhHcmpib3M5Q294YkE4NHVYYWJuNWFGakt2TmZ5d0NTUjd2RFo4eElIQ282V1A5aHM0bE5UNXV3bFpIRW9MQVpzVTJzeDU4bkJRRjZYbDR3SXFXVmMzbGdXc25Ham1vMFNOOFlDaUdrTTU5MGp4SFZPQXlZcVRPbVc5VnI5dUlUQWlxNnZzNlF4TnJ6dEYyS0NEMWpzRUhOWTFDdU9qZjVkSkZVbkVlcUxKMmdUM2YzZ0FOOGt2Z3lhVVBpbkVGbDQteWN2MU50QdIB7gFBVV95cUxQbFhMSEFicWNLWXgxMTRxVjlIYW9xMEJST2Z2YWhzak9EcDNmRm9zNU1JdjhmdEtrZlBuTTMyR0RZS1ZValgyZkhnT1dYNjQySGtKbE45cmZkb1NnYU1hdmFjUkVmUFlpajZkWWZpT29lSHFnU2pVY1B2MUdhN2NEMWEtWVE2ZUdwOV82RFdhQm9ZUHUtSmQ3MzE3cTlaVGdUYkpEUnQ5N2FhZjV0R1NUT2U3ZExNWkVuNDRPcGI2UTJBNnhoRDVUZ3FWRk44a0tUb2EtdXdndHBxdGRJam4zQ1JWSGpILVlDY3RwM2JR?oc=5
 
-- 'If Operation Sindoor was ongoing ... ': Congress slams PM Modi's post after India's Asia Cup win; row ov - The Times of India
-  'If Operation Sindoor was ongoing ... ': Congress slams PM Modi's post after India's Asia
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNVGhReWlsTlR2NVNiYzA4WG5CZmthd09EUDBvelVKTWtxSGprSm1NSWpmWThhUkEzU0VvWnpkM2VpTDAweUh1eE9FLVZKcVdmaWFOVzhxR0ZfakFtN05MNVFjQnNRQ1ZNam45YzRuQzllYmJTLTFmY01yZ3RGNEFaRkQxOF9XUERUSjkxYkVINVJ5S0VhSy1tLXI3N1pvMGhmWUx5b1hjczJXQWc2NFdHdmRLWF9xbE1nVjB0UjNsaWZyUmtqM0tMQmFWYkhNR09jYm1JVDJ6VW1QNHE2LVpDT2tQdlFjQ0V0Vk03eWcyWV9qalZ6TlFnazktMkgwcDNhZDRDWE40OFdaZ9IBjwJBVV95cUxNSWZhcElZcDRSRERBUVlyYkoxLXYtWXVteGlxM09IbXN6ZUw3Z0JuVklrX2ZCalhqZlZ3aW0tVmpkbl9LaXJWdGRrd3NfU2RFdERWbnlLczVoc3VISUhmbTQtd0x6MzhlazRQcHBHeWtWYjVpZ1hpQU9GLWhxN0VTUWVBcHNucXNtZFJiUExjYkRFdzh2aHN5UzJqV010ODdHbHdGMkhzVFRaMm1lSmtqRExKTFV6T0pZTVRYZWxsVHhfSjhOUzJlU3BERDRaUk1qeVdkeE1Od1pCR1JrNlZxU1NZMGZsbHJNWnd6N2dRN1JCMlcwenBuNEw4SXByTHFlUk1IM2tkc1FKcHRLakRn?oc=5
-
-- 'This will haunt them': Shoaib Malik says India will regret not accepting Asia Cup trophy from Mohsin Naq - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxOcDhkOGRuaUl3RU8wNWk2VEhGc0VzbEpXUGV5M2dlVVUyTFRQcVRUR0E0Z2FlWEJ3QjNxdFNLTTlYZHI5VXNObWJzbm9CRkFSTEJjRDZicUJqd3pnZmdhZHViOXNacXVxbn
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxOcDhkOGRuaUl3RU8wNWk2VEhGc0VzbEpXUGV5M2dlVVUyTFRQcVRUR0E0Z2FlWEJ3QjNxdFNLTTlYZHI5VXNObWJzbm9CRkFSTEJjRDZicUJqd3pnZmdhZHViOXNacXVxbnhUUWdfVmxKdXNYQzRzYThUdmVIOVVHVURSeXFyLW5KUGUzc2xuMW5yNHcyWFZpVUUzZXNoX2tlQk9BTjN6MzZER2pjNFVtbEgyQ21Sa1hrY3hFS2x5V05MZUZfNTUtVnRxb0RNQVk2ZVJyT2NYVUNZQTdZamxxZlFkUDd6amxpNTN1QVE5Z0dqX2l0bUlZbTJyeDRLUDlISlhRZ3ZUdTlUNDhfbktPeXFEaUlneGlQVWfSAZ8CQVVfeXFMTUg5THVMb1NEalh4ZTU1ZzgxVzQzeU9fd3FIZUozaHQtWHJlVGJVQmtDN3daaXlhSnJDeG1OaUxvdXJkMHM4Rk05YVRTRDB5M3llYkVWQjdVLVlZOE1ERW81M25wQ3p4RFlxWFlkTUxEM21ac1J3MFZFNmEtUU1sOU54eklIM21QUHA0cFBleUhGOUFlVk56eVp6ZWhqTmVwNHZUM2FORXlYR25TM3l5dTJMVW9oNGZnVmFfRENiN2o3NGxQelJqZ1BEV1p2WmdrZHVZMzdTcEJmVnZfaURuWnE5Y2drLVVvdl9KWEVSSGFJd1dNeGFjTEt4UE5kR1h3LTNNdTU0ZUtUVUJFWHN2bTR1d3hGd2djblpZLUdsdEE?oc=5
-
-- Canada Declares Lawrence Bishnoi Gang Terror Group Amid Reset In India Ties - NDTV
-  Canada Declares Lawrence Bishnoi Gang Terror
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPelBHaXF0T2hNcmhtY3F5RUVuY09lTlRZYnJNV28ySTNmakJKSFJXZHFRb1lLWUpfa0pubEVKMXRvMWk5VktweWxXVy0xUGJYQ0F1NEh4OXVWV3dEcThCcTY2RXF6elE0MktpcGxTejdQVkpveDNFYUxrdDhqRnRUUmRscFBreFJBSFJWbERGNXdzRm1sUFFKc1VjQ2Z4QjV6Q3Q1ZjhhOFBZVVZlZjUxNWNPUHNXd9IBvgFBVV95cUxPRUZ5aXcwXzdmM1lqbTFXY3BMRXNldGdwRGNONmpVZFVXMFpoVkl2QVc4SFVtWG5zeTJJUVllT01CYnZtNTRVdDVaMWFJcGpRWlRhRjR6WnMyTzlMYzhpTE9xdXBOdFF2b05KY1FNRDdzeEhEbVJ0d1lRYU9mWl8zZVNzOGxTMUZ2cHpQSjdfMHdjTE1YTi12R3RaWmhWY1FEUktFdzVqa3g0eE1qelliQ0JOMVhvamZRUkxjdjhR?oc=5
+- SIR over, electoral roll for Bihar to be published today - The Indian Express
+  The electoral roll for Bihar to be published today.
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkxkVjh6NTFPN3AyLVM3ai04OUpwVjJzU0UzMllxa3B0VUlXaUZpcm5oc2NPcFFJR05FcFFVa1JFeGFPNTNDb3ZoaHRfZWMxa01VTm5xRGIzcElTWFR6N0x1MndQeGpSR1BZTjNvckNoT0RtWDB6YkF0RFZFdGVNSW9zMDJ2VnA3S3BZc1pSTzZiam1xN1NfZi04Y1BrMmtLU0M1aWloakbSAa8BQVVfeXFMTWItRUxERGc0dm9yZ0JZdm1xOTBYTjlSSThkYjlGOVBUOEV4Rnd1ekFHRDRPeERlRV9OaVpZSFpjT2FWdEdRRklSU0xwNnU1alNBZlVpc2lGTmZNWTdnTTBCUXF1YlN2ejJ5dVJZYXFtVGZQVFNFTjRRcTY4WEZVOGV0ZTFSYTlseXQ1SG1xQzBVOXdfZDFFWGJ6STRGdVhTRi1velF2U1hTZWZQM0R2VQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,13 +160,5 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
-
-
-_Last updated: 2025-09-29 18:26:51 UTC_
+_Last updated: 2025-09-30 01:11:14 UTC_
