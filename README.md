@@ -1,184 +1,184 @@
 # 📰 Daily News Summaries
 
-- Central Railway pilots optical ground wire technology to improve connectivity and operations
+- Monkeys out of protected list, wildlife dept seeks funds from Shimla MC for sterilization drive
   
-  🔗 https://indianexpress.com/article/india/central-railway-pilots-optical-ground-wire-technology-to-improve-connectivity-and-operations-10280354/
+  🔗 https://indianexpress.com/article/india/monkeys-out-of-protected-list-wildlife-dept-seeks-funds-from-shimla-mc-for-sterilization-drive-10280904/
 
-- Bihar SIR 2025: Election Commission releases final voter list for 2025 Assembly election
+- Jharkhand appoints senior IAS officer Avinash Kumar as new Chief Secretary
   
-  🔗 https://indianexpress.com/article/india/bihar-sir-list-election-commission-10280260/
+  🔗 https://indianexpress.com/article/india/jharkhand-appoints-senior-ias-officer-avinash-kumar-as-new-chief-secretary-10280905/
 
-- Stalin’s caution in sparing Vijay backfires, actor issues challenge to CM: ‘Do whatever you want to do with me’
+- Karnataka DyCM Shivakumar says 13,000 potholes filled in Bengaluru, announces Rs 1,100-crore plan to upgrade roads
   
-  🔗 https://indianexpress.com/article/india/vijay-statement-karur-stampede-tvk-10280216/
+  🔗 https://indianexpress.com/article/india/karnataka-dycm-shivakumar-says-13000-potholes-filled-in-bengaluru-announces-rs-1100-crore-plan-to-upgrade-roads-10280884/
 
-- ‘He praised Modi’s mission in Pak conference’: Wangchuk’s wife hits out at Centre, says ‘every allegation wrong’
+- From Vijay’s claims of political conspiracy to demand for SC-monitored probe: The latest in Karur stampede case
   
-  🔗 https://indianexpress.com/article/india/sonam-wangchuk-wife-allegation-pakistan-links-10280022/
+  🔗 https://indianexpress.com/article/india/vk-chief-vijay-rally-karur-stampede-deaths-arrests-all-you-need-to-know-10280519/
 
-- Stampede at Vijay rally: As criticism and conspiracy theories mount, Tamil Nadu police arrest YouTuber, book several others for online posts
+- Thankful to PM Modi for supporting Trump’s Gaza peace plan, India can play key role rebuilding: Isreali envoy Reuven Azar
   
-  🔗 https://indianexpress.com/article/india/stampede-vijay-rally-criticism-conspiracy-theories-tamil-nadu-youtuber-online-posts-10280001/
+  🔗 https://indianexpress.com/article/india/pm-modi-trump-gaza-peace-plan-india-isreali-envoy-reuven-azar-10280609/
+
+- Opera launches Neon AI browser to join agentic web browsing race
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/opera-launches-neon-ai-browser-to-join-agentic-web-browsing-race-10280542/
+
+- OpenAI may introduce streaming platform similar to TikTok with AI-generated content
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-may-introduce-streaming-platform-similar-to-tiktok-with-ai-generated-content-10280526/
+
+- Spotify founder Daniel Ek to step back from CEO role to focus on platform’s ‘long arc’
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spotify-founder-daniel-ek-to-step-back-from-ceo-role-to-focus-on-platforms-long-arc-10280483/
+
+- I played RidePods, a free iPhone racing game you steer with AirPods
+  
+  🔗 https://indianexpress.com/article/technology/free-iphone-racing-game-ridepods-airpods-10280426/
 
 - ChatGPT unveils ‘Instant Checkout’ feature, simplifying purchases within chats
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/chatgpt-unveils-instant-checkout-feature-simplifying-purchases-within-chats-10280211/
 
-- Hydrogen revolution: How the clean fuel could power our future
-  
-  🔗 https://indianexpress.com/article/technology/science/hydrogen-revolution-how-the-clean-fuel-could-power-our-future-10280134/
+- Jindal Power receives CCI approval to acquire Jaiprakash Associates
+  Jindal Power gets CC
+  🔗 https://www.livemint.com/companies/news/jindal-power-receives-cci-approval-to-acquire-jaiprakash-associates-11759252926836.html
 
-- WhatsApp users can now share Live or Motion photos, creative AI features and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-users-can-now-share-live-or-motion-photos-creative-ai-features-and-more-10280095/
+- TCS to lay off 30,000 employees? Here's what the IT major has to say amid job cut reports
+  CSC announced a 2% reduction in its workforce, resulting in approximately 12,000 job cuts. A new report suggested that actual layoffs could reach 30,000.
+  🔗 https://www.livemint.com/companies/news/tcs-to-lay-off-30-000-employees-heres-what-the-it-major-has-to-say-amid-job-cut-reports-11759246942679.html
 
-- Apple brings on-device AI to apps with Foundation Models framework
-  
-  🔗 https://indianexpress.com/article/technology/apple-brings-on-device-ai-to-apps-with-foundation-models-framework-10280053/
+- Poonawalla may acquire IPL team Royal Challengers Bengaluru at $1-1.2 bn valuation
+  This year, RCB won its maiden men's IPL title. Influencer agency Qoruz estimates that the win made the franchise the
+  🔗 https://www.livemint.com/companies/adar-poonawalla-eyeing-royal-challengers-bengaluru-rcb-ipl-franchise-buy-11759239915746.html
 
-- SanDisk unveils Creator Series with the aim of empowering next-gen content creators
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/sandisk-unveils-creator-series-with-the-aim-of-empowering-next-gen-content-creators-10279868/
+- E-commerce under watch: Are GST cuts really reaching shoppers?
+  In cases where the grievance is about consumers not getting price relief due to sellers not lowering price in line with new GST rates, the government may be able to point out the aberration to the company. But what if prices don’
+  🔗 https://www.livemint.com/companies/gst-rate-cut-e-commerce-platforms-amazon-flipkart-bachat-utsav-11759240458574.html
 
-- Freeport Will Divest 12% of Local Arm to Indonesia, CNBC Says
-  Freeport-McMoRan Inc. has agreed to divest a 12% share in its Indonesian unit to the government for free.
-  🔗 https://www.livemint.com/companies/company-results/freeport-will-divest-12-of-local-arm-to-indonesia-cnbc-says-11759232710004.html
+- Italian Tile Maker Pitches Debt Haircut as Performance Slows
+  Family-owned Italian ceramic-tile maker is asking its bank lenders to accept a steep writedown.
+  🔗 https://www.livemint.com/companies/news/italian-tile-maker-pitches-debt-haircut-as-performance-slows-11759246573984.html
 
-- Mint Explainer: Can Zoho’s Arattai break the WhatsApp-Telegram duopoly in India?
-  Zoho Corp's Arattai, an alternative to the global messaging giants, is topping App Store charts. But it will need a lot more than a viral moment to become a true homegrown
-  🔗 https://www.livemint.com/companies/news/zoho-apple-app-store-arattai-whatsapp-telegram-india-us-tariffs-sridhar-vembu-11759226869317.html
+- Israeli Stocks Rise to Record After Trump Unveils Gaza Plan
+  Israeli stocks rose to a record high, cementing their fifth successive quarterly rally. Investors bet that a 20-point plan agreed to by Prime Minister Benjamin Netanyahu and US President Donald Trump
+  🔗 https://www.livemint.com/market/stock-market-news/israeli-stocks-rise-to-record-after-trump-unveils-gaza-plan-11759247066909.html
 
-- Wolfspeed shares rally after chipmaker exits Chapter 11 bankruptcy
-  Wolfspeed shares rally
-  🔗 https://www.livemint.com/companies/news/wolfspeed-shares-rally-after-chipmaker-exits-chapter-11-bankruptcy-11759231860045.html
+- Oil slips as OPEC  plan adds to expectations of supply surplus
+  Oil slips as OPEC  plan
+  🔗 https://www.livemint.com/market/commodities/oil-slips-as-opec-plan-adds-to-expectations-of-supply-surplus-11759247066451.html
 
-- Mint Explainer: Tata Steel goes Dutch with Netherlands govt to cut emissions. What does it mean?
-  Tata Steel has signed a non-binding agreement with the Netherlands government to cut emissions at its plant in IJmuiden. The project will cost €4 -6.5 billion in total, according to the government
-  🔗 https://www.livemint.com/companies/news/tata-steel-nederland-netherlands-carbon-emissions-dutch-us-tariffs-manufacturing-job-cuts-layoffs-11759215368821.html
+- Gold hovers near record high on US government shutdown fears, soft jobs data
+  Gold hovers near record high on US
+  🔗 https://www.livemint.com/market/commodities/gold-hovers-near-record-high-on-us-government-shutdown-fears-soft-jobs-data-11759246759367.html
 
-- PSBs should consider shared technology to achieve economies of scale: RBI Dy Guv
-  . PSBs should consider shared technology
-  🔗 https://www.livemint.com/companies/news/psbs-should-consider-shared-technology-to-achieve-economies-of-scale-rbi-dy-guv-11759229841526.html
+- Sebi survey finds nearly 10 pc of Indian households invest in securities
+  Sebi survey finds nearly 10
+  🔗 https://www.livemint.com/market/stock-market-news/sebi-survey-finds-nearly-10-pc-of-indian-households-invest-in-securities-11759246449623.html
 
-- Gold ETFs, physical gold and gold mutual funds: Which will add more shine to your portfolio? Differences explained
-  Gold investment options, such as ETFs, physical gold, and mutual funds, differ in ownership, costs, taxation, and liquidity
-  🔗 https://www.livemint.com/market/commodities/gold-etfs-physical-gold-and-gold-mutual-funds-which-will-add-more-shine-to-your-portfolio-differences-explained-11759230687975.html
+- Rupee falls 5 paise to fresh low of 88.80 against US dollar
+  Rupee falls 5 paise to
+  🔗 https://www.livemint.com/market/stock-market-news/rupee-falls-5-paise-to-fresh-low-of-88-80-against-us-dollar-11759243103595.html
 
-- Wolfspeed shares jump over 50% on pre-market Wall Street session as chipmaker exits Chapter 11 bankruptcy proceedings
-  US-based chipmaker exited from its Chapter 11 bankruptcy proceedings. Shares of the firm have given 1,613.18% gains in the last one-month period.
-  🔗 https://www.livemint.com/market/stock-market-news/wolfspeed-shares-jump-over-50-on-pre-market-wall-street-session-chipmaker-exits-chapter-11-bankruptcy-proceedings-11759232269586.html
+- OpenAI launches Sora 2 model with a new Instagram-like app for creating, and sharing AI videos
+  Sora 2 is an advanced text-to-video model competing with Google's Veo-3.
+  🔗 https://www.livemint.com/technology/tech-news/openai-launches-sora-2-model-along-with-new-instagram-like-app-for-creating-and-sharing-ai-videos-11759253470498.html
 
-- Blue Jet Healthcare investors await margin recovery amid rosy growth prospects
-  Margins could well recover ahead, but investors
-  🔗 https://www.livemint.com/market/mark-to-market/blue-jet-healthcare-investors-stock-margin-recovery-growth-prospects-share-price-future-outlook-business-strategy-11759224159483.html
+- Apple's first foldable iPhone teased by Samsung, launch date almost revealed
+  Samsung confirms it is preparing to mass produce an 8.6 inch OLED display for a North American client. Likely Apple's foldable iPhone
+  🔗 https://www.livemint.com/technology/tech-news/apples-first-foldable-iphone-teased-by-samsung-launch-date-almost-revealed-11759250807145.html
 
-- Top Gainers &amp; Losers on Sep 30: Tata Investment Corp, OLA, Sammaan Capital, Indian Bank, PNB among top gainers today
-  The Nifty 50 declined by 0.01%, while the S&amp;amp;P BSE Sensex dropped 0.12%. Sector performances varied, with Nifty PSU Bank gaining 1.
-  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-sep-30-tata-investment-corp-ola-sammaan-capital-indian-bank-pnb-among-top-gainers-today-11759226700419.html
+- iQOO 15 key specifications leaked ahead of launch: Here's what to expect
+  The iQOO 15 will debut in China next month. It is tipped to feature a 6.85-inch 2K
+  🔗 https://www.livemint.com/technology/gadgets/iqoo-15-key-specifications-leaked-ahead-of-launch-heres-what-to-expect-11759237724516.html
 
-- Sensex, Nifty 50 fall for 8th consecutive session— 10 key highlights from Indian stock market today
-  The Sensex closed 97 points, or 0.12 per cent, lower at 80,267.62. The Nifty 50 settled at 24
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-nifty-50-fall-for-8th-consecutive-session-10-key-highlights-from-indian-stock-market-today-11759226160252.html
+- 'Grokipedia': Elon Musk says xAI is working on a Wikipedia rival powered by AI
+  Elon Musk has announced that xAI is creating Grokipedia, an AI-driven alternative to Wikipedia
+  🔗 https://www.livemint.com/technology/tech-news/grokipedia-elon-musk-says-xai-is-working-on-a-wikipedia-rival-powered-by-ai-11759239787876.html
 
-- Arattai takes on WhatsApp: 5 areas where Zoho's app beats Meta’s messaging giant
-  Zoho's Arratai app is emerging as a competitor to WhatsApp. The app has garnered significant attention for its capabilities and lack of ads.
-  🔗 https://www.livemint.com/technology/tech-news/arattai-takes-on-whatsapp-5-areas-where-zohos-app-beats-meta-s-messaging-giant-11759229371351.html
+- How to use tech in the garden and still keep your serenity
+  How to use tech in the garden
+  🔗 https://www.livemint.com/technology/tech-news/how-to-use-tech-in-the-garden-and-still-keep-your-serenity-11759240049498.html
 
-- Google Nano Banana trend: 50 AI prompts to transform men’s selfies into retro-golden Durga Puja portraits
-  A viral Durga Puja trend is sweeping social media as young Indians use Google’s Gemini AI to transform selfies into retro golden festival portraits.
-  🔗 https://www.livemint.com/technology/tech-news/google-nano-banana-trend-50-ai-prompts-to-transform-men-s-selfies-into-viral-retro-golden-durga-puja-portraits-11759224456140.html
+- Aequs IPO: Precision component maker to raise up to Rs 720 crore via issue of fresh shares
+  Aequs Limited, a precision component manufacturer for aerospace and consumer sectors, files updated draft prospectus with Sebi for an IPO to
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/aequs-ipo-precision-component-maker-to-raise-up-to-rs-720-crore-via-issue-of-fresh-shares/articleshow/124239056.cms
 
-- Opera launches AI-powered Neon browser to take on ChatGPT Agent - Perplexity's Comet
-  Neon is an AI-powered browser that allows users to create apps using natural language prompts. Initially unveiled in May, it is now available through an invite system for $
-  🔗 https://www.livemint.com/technology/tech-news/opera-launches-ai-powered-neon-browser-to-take-on-chatgpt-agent-perplexitys-comet-11759222222056.html
+- Sebi, stock exchanges waive fines, penalties on Unitech
+  Sebi, NSE, and BSE have waived fines on Unitech for past non-compliances. Unitech
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-stock-exchanges-waive-fines-penalties-on-unitech/articleshow/124239015.cms
 
-- Sridhar Vembu says Zoho will make Arattai interoperable like UPI: ‘Do not want to be a monopoly ever’
-  Sridhar Vembu wants Arattai to be ‘interoperable like UPI and email’ and not closed like WhatsApp. “We do not want to be a monopoly
-  🔗 https://www.livemint.com/technology/tech-news/sridhar-vembu-zoho-will-make-arattai-message-app-interoperable-like-upi-dont-want-monopoly-ever-make-in-india-for-world-11759219994937.html
+- Pakistan's KSE 100 index rallies 8,000 points in 6 unbeaten sessions. 2 reasons why
+  Pakistan’s KSE 100 index surged nearly 8,000 points in six sessions. The index hit a 52-week high amid improving US
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pakistans-kse-100-index-rallies-8000-points-in-6-unbeaten-sessions-2-reasons-why/articleshow/124238924.cms
 
-- Sridhar Vembu clears air on Zoho's Arattai data privacy: ‘Made in India, made for the world!’
-  Zoho Corp founder and Chief Scientist Sridhar Vembu clarifies that all products, including Arattai,
-  🔗 https://www.livemint.com/technology/tech-news/made-in-india-made-for-the-world-zoho-chief-sridhar-vembu-clears-air-on-arattais-data-privacy-11759218735278.html
+- Ahead of Market: 10 things that will decide stock market action on Wednesday
+  Nifty and Sensex slipped for the eighth straight session on Tuesday. Analysts flagged a bearish setup with resistance near 24,800 and immediate support at 24,500.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/124238471.cms
 
-- Trump's tariffs on foreign films akin to 'watching a train wreck in slow motion': Capitalmind's Deepak Shenoy
-  US President Donald Trump’s 100% tariff on foreign films rattled Hollywood-linked stocks. The move underscores escalating protectionist trade actions impacting multiple global industries.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/trumps-tariffs-on-foreign-films-akin-to-watching-a-train-wreck-in-slow-motion-capitalminds-deepak-shenoy/articleshow/124235240.cms
+- Florintree-backed Seshaasai shares list at 3% premium over IPO price
+  Seshaasai Technologies debuted on BSE at ₹436, a 3.07% premium over its IPO price. Founders retain 80
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/florintree-backed-seshaasai-shares-list-at-3-premium-over-ipo-price/articleshow/124238162.cms
 
-- After 40% hit from F&amp;O curbs, Zerodha's Nithin Kamath warns of brokerage pivot if weekly options expiry ends
-  Zerodha warns that regulatory moves, especially a potential ban on weekly options, could force a shift in its brokerage model. Founder Nithin Kamath cites falling revenues and rising costs.
-  🔗 https://economictimes.indiatimes.com/markets/options/after-40-hit-from-fo-curbs-nithin-kamath-warns-of-brokerage-pivot-if-weekly-options-expiry-ends/articleshow/124234630.cms
+- US Firms To Consider Shifting Work To India As Trump Hikes H-1B Visa Fee - NDTV
+  US Firms To Consider Shifting Work To India As Trump
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOWmtYN1FVQkFMRlpBd1YwQ0tmbVV2dk5IcGpwNG1fUFlpRUlpb29ESzdfUzVZVVBaSmJCVkJDWnlMemZySFpQdTdVelZfS1lfazdiRm82RC1xZmQ5UEhzNzdTWnhWS0JtblIyN0NQSnVDdGpZMms1SktzNjRPZnN0YU9JUS1wQzBnYjZNczBKRkVRbDk5Q1ljNF9MQ3FRS095N1VqUExPdTBFRGJFd3U1QXRR0gG6AUFVX3lxTE1GalMxODZDd19NVGZ0WmRNRVRKb2Z3RmpTQmJkdW1Md1hCM09OMXFkWVgydnRVZnZ2ZlFLVl9pNDI2Sy1oV2swWTB6LTR5aGJtMU5PcE5TY2hibFBFcE54QnZXVk95TTVaWXUtTDIydDJoYWZPX3BpeHBmdlFmMmJDTnlPYjFKVWZmajhCZVl0ZEdobU5OS2RrMkJDaWR6bXNDUGtwZGpnMVlhRFo0ZW5tWDctVld5ZmZvdw?oc=5
 
-- Tata Investment and eight other stocks hit fresh 52-week high; rally up to 65% in a month
-  Nine stocks in the BSE 1000 index hit 52-week highs, defying a Sensex dip of nearly 97 points. Tata Investment and Netweb Technologies led with gains of up to 65% over the past month
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-investment-and-eight-other-stocks-hit-fresh-52-week-high-rally-up-to-65-in-a-month/slideshow/124234527.cms
+- Asim Munir said I saved millions in India-Pak conflict, it was beautiful: Trump - India Today
+  Asim Munir said I saved millions in India-Pak
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcFJzY0QtZUVnMFpGY1k5YlB4Y21pdk5aRENKU2pnSDBoM1lDOTUwYTJHN0tDUWhJaEJBcjBxYkZPN2k0NzlKN24tTi1fNVRveXI5UkZ6dXBpZmh0cnNRenpWcDZFZlFoOW9uQzBRVU10cGw5WTQ2MGJMOFBPRUlaSlV4eGs3dW1IWkE0clJGM3R6MGhZX1FzZnpTNmFzQkRPa080THhMWmlERGc3UkVkLWdNcVB2MHJZWFVEMkxYMVRVdkk2RXZuemlOSFlCSUV5NnBVQ2pGT3RJZ9IB3wFBVV95cUxNV3locjhBSHpBdTlEek1Xdklna3lpNGU5QVc5MGc3LVRLdU94NDk3RnpFcXhZYnhFSVBuc0VJclVxc1FDanRKWXhHVXRPRWw2Y0dzUDlFZ3pod1RwQVJZWDBkdC1zdmVJSFAtWl9tcUZMZ0lRSzBpcjVETEpNem5MaEZMdnFXNEFMaDM3VlZ6a3p6QlNXbGpfRGJXcExOZHVjRDNGZHhFcUs1U0ZfWWlzWmtNMUoxSTZqbWxPTENoQjVDMlU0T0phel80bU9EWmZrNWZTekNpaVlhckYtRzZJ?oc=5
 
-- Euro Bund yields on track for first monthly drop since April
-  Bund yields are set for their first monthly drop since April. Market focus remains on potential ECB rate cuts and widening yield curve spreads. French budget deficit targets also draw attention.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/bund-yields-on-track-for-first-monthly-drop-since-april/articleshow/124233982.cms
+- Donald Trump vs Bollywood: How new US tariffs will impact Indian films | Latest News India - Hindustan Times
+  Donald Trump vs Bollywood: How new US tariffs will impact Indian films.
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQa0RNYkdfaExlZ2txd1IzYjRBaWdESEszQWRtOFgyQzBLUjZxU1ZpUC12b2hYT0FfUG5oWXdFdUJXajhsVUw5dHZ5MXh5azVZZ2tSNS1KTjRIM0xLYW94eERiVVBPX2NQZjFvRXYtODAxUGszNE9PcjROeXNIaklDOEo2bXMweU5DeWpick8xUEQ5MTAyd1B0Vm1nYy1uMFJTTWVsOXhNZUROT1JrbE41NS03TUt0SFQ0cVEyM3hLRlB2bjVSTmxjbjA3emRGWXR2LXhkQUxBcG1JTjZQUzVyV3VoSEo3QdIB6wFBVV95cUxOTjhUNHZac21Zd1FhYmQ2QVJvY0Q0WEdqZlVHLTRlSEhaVGYwcTVER3VYOENiYkpyZmdwNTNJQ3JyY19pNHpxaXRNbHFlOG9BM3FpcF9zWkFIS2lEcmdCbW1ITDlJY1FNblpOM2tmTGtuYzhoZzJtRnZ6TEgya0lSRG9ycDlZanh3Sm5Pb3FRR1pfZnNSU0RHbzUyT2JWU1FQZVZlcFBjZXZsRW9MZDd2bUh4UzJGbnp3Zk9FLUhLc19ISDY5N0MxWFBDUGtibFZqS25TTW41QWRXZzB2ZW51Rmg2MVBjaVBiM2hj?oc=5
 
-- Virupaksha Organics files draft papers with Sebi for Rs 740 crore IPO
-  Virupaksha Organics has filed preliminary papers with capital markets regulator Sebi to raise
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/virupaksha-organics-files-draft-papers-with-sebi-for-rs-740-crore-ipo/articleshow/124233940.cms
+- Immigration gets faster with e-arrival cards from October 1 - The Times of India
+  Immigration gets faster with e-arrival cards
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPQV9ob0cyYlZGZUNiNmtBRmExZVRIZG5IbEtfQUcyQXZsejJsMkZqZlFLSFRnLXBZcXBWb1NWUXN5bWcwMDdpVFhGME11eXNhcXNadWZpREgtZllyMnJ4ZzQ4ZW16eVB2dUFEdG5HZmdhWDQydUdoWWJkalFVQ1JOQ3gtcXJTOUowNVhVaWtoenBtZEd0SzZKWVNEdTYwS3V4NllvRnJOTEtvZXNBYjJFQnJnZkc5Ymc5SWFpdWZ3VjdSZEtqMHfSAcsBQVVfeXFMTWRqcjRKVDFDVWhFcF9BQ3F0Qm1FQ0VwbVM5cFNILWRONlhENmM2SVhuZzNTenRZUU1SZGR5Q1R3NDRzWjlYMEota040VzZEWHBhM0VoWEhzZ1hvMkZhYldhRndhLTBzaXptdVNaSk4xOEVHSlJURXRrNHo0NXNsU3NpMXFfQ01zX3N4VVNXU3hqWmhPSms4ZFNtX01CMFd6V0dhMWxkR244VFVudU5yZkpuN3dDWDRfRlRjYWJkcGoxM3BjYi1vaDI4blk?oc=5
 
-- 'Indian, Not British, Soldiers Liberated Us': Mayor Of Israel's Haifa - NDTV
-  'Indian, Not British, Soldiers Liber
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQc1kyX05LY25SNER0dU9idzF0b3gyT21hUDgxN21VUFRrY2hvcnQxclBkU0VuSm9xMENBRXFxUkNSZzEyS3JoN0NuN1BXdFZaeVIzamRoS0k2S1RZb3FwWU1nRy1tZU9iUHFocW9wcERmZHRyUEtpczY0TlRXenZtNmNqWUhILTZ3cjc5Sm9leUpRZjBob245VTNZRGJ1d0pBTzEtRE5n0gGuAUFVX3lxTE8zd0w3Wmd4V2ZMUDE1NFBUT2JjOGJmRWtfaWFCcjNsMzNWNFJ4M2ZwbzRYMFc5Z0tCZzZMazAzam9rVURsTkplcjB3cVVndExJUGVNWTFLdGRPUjN3RW1DS2ZmZm8zVXdNanVPYnVBUTVHVTN4TmtkVXJyQnRzMFVBVFRCdXcwOWQ4dGllQ1ZYX2JDN0MzcHhuczQ1ZDdHMnRjYVdMSV9iUzdLUDlwQQ?oc=5
+- India got 8% more monsoon rain this year - The Hindu
+  India got 8% more monsoon
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOZUdPaERUeS1VSTlOZk9POXQxMW5DNk05UjRGV0tITVVFUDh5OTU0dE0tNDZpd0RHQ2ExUnFZcnFtZVluYzVwNTB1MW5KaHhxX2Y4ZFdIYnZfQzhwQ29pV1otaTBGb1dWMTNha1gyWUtTUVB1eUVXaVB4bElQRldvNC04MEFzSER3ZUVhRTQyckJyVDBhVjdGTGRraEZ2dmVCRGxzQ1hwMWdYTjE4Sk5pR0FzbFhPeU3SAb4BQVVfeXFMTnUxNUJrbklXaHI2TkZlUlZINlFsUTdxZDJOSVQwNlNsSFRDZ0Zpb0hqb2lTc0RqbEdOZ1pwSWlLWFZpLXZLc3NzNmJZaHkzUnRfZTVDT1lBb1JQeC1xU0ZZSjNxcGJCSnVXS09OeER1XzZkbnZqN0NQVW5QQzYwekh4VWY1LUpfQ1RlT3JLX25RcllqUDN0SFd1N3VRZ0pubFhDWG5uTVpsSHQxUlFsUDZYay1UajZvSGpSRXJhUQ?oc=5
 
-- Pakistan told to 'never play against India' after Asia Cup presentation ceremony row: 'This cheap behaviour...' | Cricket - Hindustan Times
-  Pakistan told to 'never play against India' after Asia Cup presentation ceremony row. '
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNakVzclA5OVFBUFJHMWtGLXpIanI2TUE3OXpOTkJ2STVXSUFpaTQ2aDc1THBncUc1SHYxZVIwVmlfM0ZXdFhpTXNGNFQxSC10MEFkUWY3V05SUVNXcVNZQk5GN0hneU9nYklfNVNjQjN3cjdYb1N6SkF3bk9fYlNUQ3NuQmNPazR5T1lJeFI3MVNxV3JaaFAyUmpoN3R4bjVlTHB3VTBHN25yRWlRbGx1ek5FTlNlRVNFTDJVWGE1anZNZ2JKb3JRMk9td2FOLXJQTXJQYmFCT2pqWThNV2wxdG1zNlFfRGdoUEJMWk5CQUhFYldVUUp1STBB0gH_AUFVX3lxTFBmLWgwcEhaS0w2Ml9tZjN6OFFxcDI0ZG5kWXNMZzhvc19rSVI3TVBTVzA5NmQyLWpCeEFjYk1zVVMwcldPeG9FQWg0eUtETmd2SHZnUlFEZlV5RnVoLUVXRXhRM3NIM1dsczlSSWZ0ZDljbDRHNHBvRTZBcG9DSVVoQWU2ZHhnZEZacGJLcjdpcW9mTGs4QXVlZHpTY01EVHFKcnotS1Z6Y3R6alRhOEFwRXdIZ1lrLUJSb3prLVA5V2RDNXdCSHVoYzlFZm5nbVhLbWNYRzlheHZvdUVWc3pNRWlYUnVpNm10Sl9XdmJsMzFYbFZURzhwVkhOUVdpWQ?oc=5
+- US Firms To Consider Shifting Work To India As Trump Hikes H-1B Visa Fee - NDTV
+  US Firms To Consider Shifting Work To India As Trump
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOWmtYN1FVQkFMRlpBd1YwQ0tmbVV2dk5IcGpwNG1fUFlpRUlpb29ESzdfUzVZVVBaSmJCVkJDWnlMemZySFpQdTdVelZfS1lfazdiRm82RC1xZmQ5UEhzNzdTWnhWS0JtblIyN0NQSnVDdGpZMms1SktzNjRPZnN0YU9JUS1wQzBnYjZNczBKRkVRbDk5Q1ljNF9MQ3FRS095N1VqUExPdTBFRGJFd3U1QXRR0gG6AUFVX3lxTE1GalMxODZDd19NVGZ0WmRNRVRKb2Z3RmpTQmJkdW1Md1hCM09OMXFkWVgydnRVZnZ2ZlFLVl9pNDI2Sy1oV2swWTB6LTR5aGJtMU5PcE5TY2hibFBFcE54QnZXVk95TTVaWXUtTDIydDJoYWZPX3BpeHBmdlFmMmJDTnlPYjFKVWZmajhCZVl0ZEdobU5OS2RrMkJDaWR6bXNDUGtwZGpnMVlhRFo0ZW5tWDctVld5ZmZvdw?oc=5
 
-- Why did India refuse to accept the Asia Cup trophy after beating Pakistan? - Al Jazeera
-  Why did India refuse to accept the Asia Cup trophy after beating
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXpXckt0UnBTNFhpQVBpcUVxc1o0SmotRXZVNmxpaGpiZEhNX3hGSTFPTTA0aC1oZFlTSHdKRGdFazNHNFBROWhTVk5SQkc2alVyS21uOWtOS0VzZmJaSTZLaWZlUlZtdDlIMDBiMnhNWnhtU3V4Z2FOaWJzZjMwVzRHaWRxUGhaZFA1Qm1xNmw4d1ZTME5DbEVlNWc5Qmx0Mm9CS2VWNzFUTzF5RmNVRnYwbzDSAboBQVVfeXFMTUYxaExkclpBV1NNUENCdzItYWlkMTdJLU9CeHBRTkFqalNhU28zN1VyS3hCZ2ZtY255eVNGS0VqaUFrSzB3MGpwSm5sS0l5NXRQYTI3NlNzVnRsSTJDTjk1Z2p6a05Cc2ZEY2NoczNsbm1KMEo0bkF5OWE1UWN0T01qS0RDVnZHUHlnVTRKSnJjSVdfY1lMZkp5ZGdQRENPRlRJaTlSQVgya3otci1QV2U3M0JjNDJFQmdn?oc=5
+- Asim Munir said I saved millions in India-Pak conflict, it was beautiful: Trump - India Today
+  Asim Munir said I saved millions in India-Pak
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcFJzY0QtZUVnMFpGY1k5YlB4Y21pdk5aRENKU2pnSDBoM1lDOTUwYTJHN0tDUWhJaEJBcjBxYkZPN2k0NzlKN24tTi1fNVRveXI5UkZ6dXBpZmh0cnNRenpWcDZFZlFoOW9uQzBRVU10cGw5WTQ2MGJMOFBPRUlaSlV4eGs3dW1IWkE0clJGM3R6MGhZX1FzZnpTNmFzQkRPa080THhMWmlERGc3UkVkLWdNcVB2MHJZWFVEMkxYMVRVdkk2RXZuemlOSFlCSUV5NnBVQ2pGT3RJZ9IB3wFBVV95cUxNV3locjhBSHpBdTlEek1Xdklna3lpNGU5QVc5MGc3LVRLdU94NDk3RnpFcXhZYnhFSVBuc0VJclVxc1FDanRKWXhHVXRPRWw2Y0dzUDlFZ3pod1RwQVJZWDBkdC1zdmVJSFAtWl9tcUZMZ0lRSzBpcjVETEpNem5MaEZMdnFXNEFMaDM3VlZ6a3p6QlNXbGpfRGJXcExOZHVjRDNGZHhFcUs1U0ZfWWlzWmtNMUoxSTZqbWxPTENoQjVDMlU0T0phel80bU9EWmZrNWZTekNpaVlhckYtRzZJ?oc=5
 
-- ‘Pakistan sent a team of kids…’ - Kuldeep Yadav's coach reveals chats with India spinner after Asia Cup 2025 triumph - Mint
-  'Pakistan sent a team of kids…’ - Kuldeep Yadav's coach
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPN2ZxbVhiT3UxTnVGY1ZfMUNuWEJyWmNwaHEwNExaQkhuZlAzZjI0akt1a08wYm43eXNsRG1NWnR6ZXI5ckhXaldySi1Mc3U4S3p2NVUxcDdicmYtUXdYLTI3SGtvdkt6bjY5Z0FaazZDRDBNNWlWOW5NQ2dLZ3pqaFhnZ3FmUk5wS1ZmQzRiZ0JmVU52a1FYQThOS01iM0hoZmZ6OFJ1TDBTWFZWVjJKYjNOTXd3WktnU1pEc3BJM0o0RVM0RVkxU3hIZG1HMFZMZzNkdGY3ZC1FRkk3SmtSdTFORGszVWpNWjVoR3pneXY5dzRGMS1CaTVheTRsbjBva2VkdkdR0gGLAkFVX3lxTE5NTzY1dDJTcHhwUkJHTF9lWUNKay0wSXRrNFQwbDBCdVllUXdUMUJXMFF0akdfZmFpTmZWYXdvaUo2ZTM5NUJBb25CWVNYUXMzR0RHQmdaY0h2eHdCTWs3blV3UFEtZWZCVzMzNTRnSGdXN29XOUp1U3FxbXdiN2EyQnE4NVJwNmFKdWpLMmZ1aUx2Z184elZmaHhPOWRub1hDbzBMMS1MeEtrWlV3QThmMEZDQ3BBZXczM1NoZE14WFI4Uy04VjgzQmpJUUVMblVSMlVfc3B0RUJpM3FRd1B3SzhNMm82Slh0WXZYd0NmSW8wVEZNYmZmYXMyc1hmS252MHl4UmVnWDVEUQ?oc=5
+- Donald Trump vs Bollywood: How new US tariffs will impact Indian films | Latest News India - Hindustan Times
+  Donald Trump vs Bollywood: How new US tariffs will impact Indian films.
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQa0RNYkdfaExlZ2txd1IzYjRBaWdESEszQWRtOFgyQzBLUjZxU1ZpUC12b2hYT0FfUG5oWXdFdUJXajhsVUw5dHZ5MXh5azVZZ2tSNS1KTjRIM0xLYW94eERiVVBPX2NQZjFvRXYtODAxUGszNE9PcjROeXNIaklDOEo2bXMweU5DeWpick8xUEQ5MTAyd1B0Vm1nYy1uMFJTTWVsOXhNZUROT1JrbE41NS03TUt0SFQ0cVEyM3hLRlB2bjVSTmxjbjA3emRGWXR2LXhkQUxBcG1JTjZQUzVyV3VoSEo3QdIB6wFBVV95cUxOTjhUNHZac21Zd1FhYmQ2QVJvY0Q0WEdqZlVHLTRlSEhaVGYwcTVER3VYOENiYkpyZmdwNTNJQ3JyY19pNHpxaXRNbHFlOG9BM3FpcF9zWkFIS2lEcmdCbW1ITDlJY1FNblpOM2tmTGtuYzhoZzJtRnZ6TEgya0lSRG9ycDlZanh3Sm5Pb3FRR1pfZnNSU0RHbzUyT2JWU1FQZVZlcFBjZXZsRW9MZDd2bUh4UzJGbnp3Zk9FLUhLc19ISDY5N0MxWFBDUGtibFZqS25TTW41QWRXZzB2ZW51Rmg2MVBjaVBiM2hj?oc=5
 
-- Sounding the alarm: EVs in India to get a compulsory pedestrian warning system from 2026. Everything you must know - Mint
-  The government is planning to introduce a compulsory pedestrian warning system in India by 2026.
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRkpwVFptRGN2cmRNTU41VTNtSE9VYjIwWW9EeDRjOGxHdTF0QWFqVU1mLVJIamJELWRMYXZ0QmpPUHFUVmZzZ1ktX2JfSXh0UkZfZnB4ajhwd1ItU0s2ZDJpMURqMjZyclpGZ2lESFJGd1JNeUJ4VHJ4dXp1d3dyODQ2ci1vN1ZYTkpJN2xnOTNfOUNucDgxaVduZlhMYnBQT1c2bGgwXzBfVzg2cXhIaVRRcXRTV0hYbUVsckNSaE1vYVp2NDhGMHRIWlJ5M2ZxRmNoTi1mMXdZazBCaEcwN1NxMkVCcW95UGFhZVNzS09XZktIU2pN0gH8AUFVX3lxTE0yemgxcnpEV3p0a3RYdnVGbXdteVhkMEpOTUxUQmhSeUNVMU9qYVJfWXhxSG40WVMtSnZMX2xWU255NEUxenVOYkNlSEh3UnNidFQ5NUFKZWo3SDRIRVM2ZXVuckRNZjNmTVRRdmRMZHFNcDdNV3owTzNLMnhGZXBRbjVMbmdOaFpHYXh5NTVHWUZnWGdCdVlsUjIwbEpNRklmZEhCSjRzZTcwRHFsdzJmeG90VGRId3FxRjVEWWFSSU5BQWdVcVh1RDZtZUN0dlJtbE83d2ExQV8tSjJRSmFzel9UZEtmUnRPUDZ2SG1HUmhmbnRrdm5NQXNUcQ?oc=5
+- Immigration gets faster with e-arrival cards from October 1 - The Times of India
+  Immigration gets faster with e-arrival cards
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPQV9ob0cyYlZGZUNiNmtBRmExZVRIZG5IbEtfQUcyQXZsejJsMkZqZlFLSFRnLXBZcXBWb1NWUXN5bWcwMDdpVFhGME11eXNhcXNadWZpREgtZllyMnJ4ZzQ4ZW16eVB2dUFEdG5HZmdhWDQydUdoWWJkalFVQ1JOQ3gtcXJTOUowNVhVaWtoenBtZEd0SzZKWVNEdTYwS3V4NllvRnJOTEtvZXNBYjJFQnJnZkc5Ymc5SWFpdWZ3VjdSZEtqMHfSAcsBQVVfeXFMTWRqcjRKVDFDVWhFcF9BQ3F0Qm1FQ0VwbVM5cFNILWRONlhENmM2SVhuZzNTenRZUU1SZGR5Q1R3NDRzWjlYMEota040VzZEWHBhM0VoWEhzZ1hvMkZhYldhRndhLTBzaXptdVNaSk4xOEVHSlJURXRrNHo0NXNsU3NpMXFfQ01zX3N4VVNXU3hqWmhPSms4ZFNtX01CMFd6V0dhMWxkR244VFVudU5yZkpuN3dDWDRfRlRjYWJkcGoxM3BjYi1vaDI4blk?oc=5
 
-- 'Indian, Not British, Soldiers Liberated Us': Mayor Of Israel's Haifa - NDTV
-  'Indian, Not British, Soldiers Liber
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQc1kyX05LY25SNER0dU9idzF0b3gyT21hUDgxN21VUFRrY2hvcnQxclBkU0VuSm9xMENBRXFxUkNSZzEyS3JoN0NuN1BXdFZaeVIzamRoS0k2S1RZb3FwWU1nRy1tZU9iUHFocW9wcERmZHRyUEtpczY0TlRXenZtNmNqWUhILTZ3cjc5Sm9leUpRZjBob245VTNZRGJ1d0pBTzEtRE5n0gGuAUFVX3lxTE8zd0w3Wmd4V2ZMUDE1NFBUT2JjOGJmRWtfaWFCcjNsMzNWNFJ4M2ZwbzRYMFc5Z0tCZzZMazAzam9rVURsTkplcjB3cVVndExJUGVNWTFLdGRPUjN3RW1DS2ZmZm8zVXdNanVPYnVBUTVHVTN4TmtkVXJyQnRzMFVBVFRCdXcwOWQ4dGllQ1ZYX2JDN0MzcHhuczQ1ZDdHMnRjYVdMSV9iUzdLUDlwQQ?oc=5
+- India got 8% more monsoon rain this year - The Hindu
+  India got 8% more monsoon
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOZUdPaERUeS1VSTlOZk9POXQxMW5DNk05UjRGV0tITVVFUDh5OTU0dE0tNDZpd0RHQ2ExUnFZcnFtZVluYzVwNTB1MW5KaHhxX2Y4ZFdIYnZfQzhwQ29pV1otaTBGb1dWMTNha1gyWUtTUVB1eUVXaVB4bElQRldvNC04MEFzSER3ZUVhRTQyckJyVDBhVjdGTGRraEZ2dmVCRGxzQ1hwMWdYTjE4Sk5pR0FzbFhPeU3SAb4BQVVfeXFMTnUxNUJrbklXaHI2TkZlUlZINlFsUTdxZDJOSVQwNlNsSFRDZ0Zpb0hqb2lTc0RqbEdOZ1pwSWlLWFZpLXZLc3NzNmJZaHkzUnRfZTVDT1lBb1JQeC1xU0ZZSjNxcGJCSnVXS09OeER1XzZkbnZqN0NQVW5QQzYwekh4VWY1LUpfQ1RlT3JLX25RcllqUDN0SFd1N3VRZ0pubFhDWG5uTVpsSHQxUlFsUDZYay1UajZvSGpSRXJhUQ?oc=5
 
-- Pakistan told to 'never play against India' after Asia Cup presentation ceremony row: 'This cheap behaviour...' | Cricket - Hindustan Times
-  Pakistan told to 'never play against India' after Asia Cup presentation ceremony row. '
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNakVzclA5OVFBUFJHMWtGLXpIanI2TUE3OXpOTkJ2STVXSUFpaTQ2aDc1THBncUc1SHYxZVIwVmlfM0ZXdFhpTXNGNFQxSC10MEFkUWY3V05SUVNXcVNZQk5GN0hneU9nYklfNVNjQjN3cjdYb1N6SkF3bk9fYlNUQ3NuQmNPazR5T1lJeFI3MVNxV3JaaFAyUmpoN3R4bjVlTHB3VTBHN25yRWlRbGx1ek5FTlNlRVNFTDJVWGE1anZNZ2JKb3JRMk9td2FOLXJQTXJQYmFCT2pqWThNV2wxdG1zNlFfRGdoUEJMWk5CQUhFYldVUUp1STBB0gH_AUFVX3lxTFBmLWgwcEhaS0w2Ml9tZjN6OFFxcDI0ZG5kWXNMZzhvc19rSVI3TVBTVzA5NmQyLWpCeEFjYk1zVVMwcldPeG9FQWg0eUtETmd2SHZnUlFEZlV5RnVoLUVXRXhRM3NIM1dsczlSSWZ0ZDljbDRHNHBvRTZBcG9DSVVoQWU2ZHhnZEZacGJLcjdpcW9mTGs4QXVlZHpTY01EVHFKcnotS1Z6Y3R6alRhOEFwRXdIZ1lrLUJSb3prLVA5V2RDNXdCSHVoYzlFZm5nbVhLbWNYRzlheHZvdUVWc3pNRWlYUnVpNm10Sl9XdmJsMzFYbFZURzhwVkhOUVdpWQ?oc=5
+- US Firms To Consider Shifting Work To India As Trump Hikes H-1B Visa Fee - NDTV
+  US Firms To Consider Shifting Work To India As Trump
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOWmtYN1FVQkFMRlpBd1YwQ0tmbVV2dk5IcGpwNG1fUFlpRUlpb29ESzdfUzVZVVBaSmJCVkJDWnlMemZySFpQdTdVelZfS1lfazdiRm82RC1xZmQ5UEhzNzdTWnhWS0JtblIyN0NQSnVDdGpZMms1SktzNjRPZnN0YU9JUS1wQzBnYjZNczBKRkVRbDk5Q1ljNF9MQ3FRS095N1VqUExPdTBFRGJFd3U1QXRR0gG6AUFVX3lxTE1GalMxODZDd19NVGZ0WmRNRVRKb2Z3RmpTQmJkdW1Md1hCM09OMXFkWVgydnRVZnZ2ZlFLVl9pNDI2Sy1oV2swWTB6LTR5aGJtMU5PcE5TY2hibFBFcE54QnZXVk95TTVaWXUtTDIydDJoYWZPX3BpeHBmdlFmMmJDTnlPYjFKVWZmajhCZVl0ZEdobU5OS2RrMkJDaWR6bXNDUGtwZGpnMVlhRFo0ZW5tWDctVld5ZmZvdw?oc=5
 
-- Why did India refuse to accept the Asia Cup trophy after beating Pakistan? - Al Jazeera
-  Why did India refuse to accept the Asia Cup trophy after beating
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXpXckt0UnBTNFhpQVBpcUVxc1o0SmotRXZVNmxpaGpiZEhNX3hGSTFPTTA0aC1oZFlTSHdKRGdFazNHNFBROWhTVk5SQkc2alVyS21uOWtOS0VzZmJaSTZLaWZlUlZtdDlIMDBiMnhNWnhtU3V4Z2FOaWJzZjMwVzRHaWRxUGhaZFA1Qm1xNmw4d1ZTME5DbEVlNWc5Qmx0Mm9CS2VWNzFUTzF5RmNVRnYwbzDSAboBQVVfeXFMTUYxaExkclpBV1NNUENCdzItYWlkMTdJLU9CeHBRTkFqalNhU28zN1VyS3hCZ2ZtY255eVNGS0VqaUFrSzB3MGpwSm5sS0l5NXRQYTI3NlNzVnRsSTJDTjk1Z2p6a05Cc2ZEY2NoczNsbm1KMEo0bkF5OWE1UWN0T01qS0RDVnZHUHlnVTRKSnJjSVdfY1lMZkp5ZGdQRENPRlRJaTlSQVgya3otci1QV2U3M0JjNDJFQmdn?oc=5
+- Asim Munir said I saved millions in India-Pak conflict, it was beautiful: Trump - India Today
+  Asim Munir said I saved millions in India-Pak
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcFJzY0QtZUVnMFpGY1k5YlB4Y21pdk5aRENKU2pnSDBoM1lDOTUwYTJHN0tDUWhJaEJBcjBxYkZPN2k0NzlKN24tTi1fNVRveXI5UkZ6dXBpZmh0cnNRenpWcDZFZlFoOW9uQzBRVU10cGw5WTQ2MGJMOFBPRUlaSlV4eGs3dW1IWkE0clJGM3R6MGhZX1FzZnpTNmFzQkRPa080THhMWmlERGc3UkVkLWdNcVB2MHJZWFVEMkxYMVRVdkk2RXZuemlOSFlCSUV5NnBVQ2pGT3RJZ9IB3wFBVV95cUxNV3locjhBSHpBdTlEek1Xdklna3lpNGU5QVc5MGc3LVRLdU94NDk3RnpFcXhZYnhFSVBuc0VJclVxc1FDanRKWXhHVXRPRWw2Y0dzUDlFZ3pod1RwQVJZWDBkdC1zdmVJSFAtWl9tcUZMZ0lRSzBpcjVETEpNem5MaEZMdnFXNEFMaDM3VlZ6a3p6QlNXbGpfRGJXcExOZHVjRDNGZHhFcUs1U0ZfWWlzWmtNMUoxSTZqbWxPTENoQjVDMlU0T0phel80bU9EWmZrNWZTekNpaVlhckYtRzZJ?oc=5
 
-- ‘Pakistan sent a team of kids…’ - Kuldeep Yadav's coach reveals chats with India spinner after Asia Cup 2025 triumph - Mint
-  'Pakistan sent a team of kids…’ - Kuldeep Yadav's coach
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPN2ZxbVhiT3UxTnVGY1ZfMUNuWEJyWmNwaHEwNExaQkhuZlAzZjI0akt1a08wYm43eXNsRG1NWnR6ZXI5ckhXaldySi1Mc3U4S3p2NVUxcDdicmYtUXdYLTI3SGtvdkt6bjY5Z0FaazZDRDBNNWlWOW5NQ2dLZ3pqaFhnZ3FmUk5wS1ZmQzRiZ0JmVU52a1FYQThOS01iM0hoZmZ6OFJ1TDBTWFZWVjJKYjNOTXd3WktnU1pEc3BJM0o0RVM0RVkxU3hIZG1HMFZMZzNkdGY3ZC1FRkk3SmtSdTFORGszVWpNWjVoR3pneXY5dzRGMS1CaTVheTRsbjBva2VkdkdR0gGLAkFVX3lxTE5NTzY1dDJTcHhwUkJHTF9lWUNKay0wSXRrNFQwbDBCdVllUXdUMUJXMFF0akdfZmFpTmZWYXdvaUo2ZTM5NUJBb25CWVNYUXMzR0RHQmdaY0h2eHdCTWs3blV3UFEtZWZCVzMzNTRnSGdXN29XOUp1U3FxbXdiN2EyQnE4NVJwNmFKdWpLMmZ1aUx2Z184elZmaHhPOWRub1hDbzBMMS1MeEtrWlV3QThmMEZDQ3BBZXczM1NoZE14WFI4Uy04VjgzQmpJUUVMblVSMlVfc3B0RUJpM3FRd1B3SzhNMm82Slh0WXZYd0NmSW8wVEZNYmZmYXMyc1hmS252MHl4UmVnWDVEUQ?oc=5
+- Donald Trump vs Bollywood: How new US tariffs will impact Indian films | Latest News India - Hindustan Times
+  Donald Trump vs Bollywood: How new US tariffs will impact Indian films.
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQa0RNYkdfaExlZ2txd1IzYjRBaWdESEszQWRtOFgyQzBLUjZxU1ZpUC12b2hYT0FfUG5oWXdFdUJXajhsVUw5dHZ5MXh5azVZZ2tSNS1KTjRIM0xLYW94eERiVVBPX2NQZjFvRXYtODAxUGszNE9PcjROeXNIaklDOEo2bXMweU5DeWpick8xUEQ5MTAyd1B0Vm1nYy1uMFJTTWVsOXhNZUROT1JrbE41NS03TUt0SFQ0cVEyM3hLRlB2bjVSTmxjbjA3emRGWXR2LXhkQUxBcG1JTjZQUzVyV3VoSEo3QdIB6wFBVV95cUxOTjhUNHZac21Zd1FhYmQ2QVJvY0Q0WEdqZlVHLTRlSEhaVGYwcTVER3VYOENiYkpyZmdwNTNJQ3JyY19pNHpxaXRNbHFlOG9BM3FpcF9zWkFIS2lEcmdCbW1ITDlJY1FNblpOM2tmTGtuYzhoZzJtRnZ6TEgya0lSRG9ycDlZanh3Sm5Pb3FRR1pfZnNSU0RHbzUyT2JWU1FQZVZlcFBjZXZsRW9MZDd2bUh4UzJGbnp3Zk9FLUhLc19ISDY5N0MxWFBDUGtibFZqS25TTW41QWRXZzB2ZW51Rmg2MVBjaVBiM2hj?oc=5
 
-- Sounding the alarm: EVs in India to get a compulsory pedestrian warning system from 2026. Everything you must know - Mint
-  The government is planning to introduce a compulsory pedestrian warning system in India by 2026.
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRkpwVFptRGN2cmRNTU41VTNtSE9VYjIwWW9EeDRjOGxHdTF0QWFqVU1mLVJIamJELWRMYXZ0QmpPUHFUVmZzZ1ktX2JfSXh0UkZfZnB4ajhwd1ItU0s2ZDJpMURqMjZyclpGZ2lESFJGd1JNeUJ4VHJ4dXp1d3dyODQ2ci1vN1ZYTkpJN2xnOTNfOUNucDgxaVduZlhMYnBQT1c2bGgwXzBfVzg2cXhIaVRRcXRTV0hYbUVsckNSaE1vYVp2NDhGMHRIWlJ5M2ZxRmNoTi1mMXdZazBCaEcwN1NxMkVCcW95UGFhZVNzS09XZktIU2pN0gH8AUFVX3lxTE0yemgxcnpEV3p0a3RYdnVGbXdteVhkMEpOTUxUQmhSeUNVMU9qYVJfWXhxSG40WVMtSnZMX2xWU255NEUxenVOYkNlSEh3UnNidFQ5NUFKZWo3SDRIRVM2ZXVuckRNZjNmTVRRdmRMZHFNcDdNV3owTzNLMnhGZXBRbjVMbmdOaFpHYXh5NTVHWUZnWGdCdVlsUjIwbEpNRklmZEhCSjRzZTcwRHFsdzJmeG90VGRId3FxRjVEWWFSSU5BQWdVcVh1RDZtZUN0dlJtbE83d2ExQV8tSjJRSmFzel9UZEtmUnRPUDZ2SG1HUmhmbnRrdm5NQXNUcQ?oc=5
+- Immigration gets faster with e-arrival cards from October 1 - The Times of India
+  Immigration gets faster with e-arrival cards
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPQV9ob0cyYlZGZUNiNmtBRmExZVRIZG5IbEtfQUcyQXZsejJsMkZqZlFLSFRnLXBZcXBWb1NWUXN5bWcwMDdpVFhGME11eXNhcXNadWZpREgtZllyMnJ4ZzQ4ZW16eVB2dUFEdG5HZmdhWDQydUdoWWJkalFVQ1JOQ3gtcXJTOUowNVhVaWtoenBtZEd0SzZKWVNEdTYwS3V4NllvRnJOTEtvZXNBYjJFQnJnZkc5Ymc5SWFpdWZ3VjdSZEtqMHfSAcsBQVVfeXFMTWRqcjRKVDFDVWhFcF9BQ3F0Qm1FQ0VwbVM5cFNILWRONlhENmM2SVhuZzNTenRZUU1SZGR5Q1R3NDRzWjlYMEota040VzZEWHBhM0VoWEhzZ1hvMkZhYldhRndhLTBzaXptdVNaSk4xOEVHSlJURXRrNHo0NXNsU3NpMXFfQ01zX3N4VVNXU3hqWmhPSms4ZFNtX01CMFd6V0dhMWxkR244VFVudU5yZkpuN3dDWDRfRlRjYWJkcGoxM3BjYi1vaDI4blk?oc=5
 
-- 'Indian, Not British, Soldiers Liberated Us': Mayor Of Israel's Haifa - NDTV
-  'Indian, Not British, Soldiers Liber
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQc1kyX05LY25SNER0dU9idzF0b3gyT21hUDgxN21VUFRrY2hvcnQxclBkU0VuSm9xMENBRXFxUkNSZzEyS3JoN0NuN1BXdFZaeVIzamRoS0k2S1RZb3FwWU1nRy1tZU9iUHFocW9wcERmZHRyUEtpczY0TlRXenZtNmNqWUhILTZ3cjc5Sm9leUpRZjBob245VTNZRGJ1d0pBTzEtRE5n0gGuAUFVX3lxTE8zd0w3Wmd4V2ZMUDE1NFBUT2JjOGJmRWtfaWFCcjNsMzNWNFJ4M2ZwbzRYMFc5Z0tCZzZMazAzam9rVURsTkplcjB3cVVndExJUGVNWTFLdGRPUjN3RW1DS2ZmZm8zVXdNanVPYnVBUTVHVTN4TmtkVXJyQnRzMFVBVFRCdXcwOWQ4dGllQ1ZYX2JDN0MzcHhuczQ1ZDdHMnRjYVdMSV9iUzdLUDlwQQ?oc=5
-
-- Pakistan told to 'never play against India' after Asia Cup presentation ceremony row: 'This cheap behaviour...' | Cricket - Hindustan Times
-  Pakistan told to 'never play against India' after Asia Cup presentation ceremony row. '
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNakVzclA5OVFBUFJHMWtGLXpIanI2TUE3OXpOTkJ2STVXSUFpaTQ2aDc1THBncUc1SHYxZVIwVmlfM0ZXdFhpTXNGNFQxSC10MEFkUWY3V05SUVNXcVNZQk5GN0hneU9nYklfNVNjQjN3cjdYb1N6SkF3bk9fYlNUQ3NuQmNPazR5T1lJeFI3MVNxV3JaaFAyUmpoN3R4bjVlTHB3VTBHN25yRWlRbGx1ek5FTlNlRVNFTDJVWGE1anZNZ2JKb3JRMk9td2FOLXJQTXJQYmFCT2pqWThNV2wxdG1zNlFfRGdoUEJMWk5CQUhFYldVUUp1STBB0gH_AUFVX3lxTFBmLWgwcEhaS0w2Ml9tZjN6OFFxcDI0ZG5kWXNMZzhvc19rSVI3TVBTVzA5NmQyLWpCeEFjYk1zVVMwcldPeG9FQWg0eUtETmd2SHZnUlFEZlV5RnVoLUVXRXhRM3NIM1dsczlSSWZ0ZDljbDRHNHBvRTZBcG9DSVVoQWU2ZHhnZEZacGJLcjdpcW9mTGs4QXVlZHpTY01EVHFKcnotS1Z6Y3R6alRhOEFwRXdIZ1lrLUJSb3prLVA5V2RDNXdCSHVoYzlFZm5nbVhLbWNYRzlheHZvdUVWc3pNRWlYUnVpNm10Sl9XdmJsMzFYbFZURzhwVkhOUVdpWQ?oc=5
-
-- Why did India refuse to accept the Asia Cup trophy after beating Pakistan? - Al Jazeera
-  Why did India refuse to accept the Asia Cup trophy after beating
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXpXckt0UnBTNFhpQVBpcUVxc1o0SmotRXZVNmxpaGpiZEhNX3hGSTFPTTA0aC1oZFlTSHdKRGdFazNHNFBROWhTVk5SQkc2alVyS21uOWtOS0VzZmJaSTZLaWZlUlZtdDlIMDBiMnhNWnhtU3V4Z2FOaWJzZjMwVzRHaWRxUGhaZFA1Qm1xNmw4d1ZTME5DbEVlNWc5Qmx0Mm9CS2VWNzFUTzF5RmNVRnYwbzDSAboBQVVfeXFMTUYxaExkclpBV1NNUENCdzItYWlkMTdJLU9CeHBRTkFqalNhU28zN1VyS3hCZ2ZtY255eVNGS0VqaUFrSzB3MGpwSm5sS0l5NXRQYTI3NlNzVnRsSTJDTjk1Z2p6a05Cc2ZEY2NoczNsbm1KMEo0bkF5OWE1UWN0T01qS0RDVnZHUHlnVTRKSnJjSVdfY1lMZkp5ZGdQRENPRlRJaTlSQVgya3otci1QV2U3M0JjNDJFQmdn?oc=5
-
-- ‘Pakistan sent a team of kids…’ - Kuldeep Yadav's coach reveals chats with India spinner after Asia Cup 2025 triumph - Mint
-  'Pakistan sent a team of kids…’ - Kuldeep Yadav's coach
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPN2ZxbVhiT3UxTnVGY1ZfMUNuWEJyWmNwaHEwNExaQkhuZlAzZjI0akt1a08wYm43eXNsRG1NWnR6ZXI5ckhXaldySi1Mc3U4S3p2NVUxcDdicmYtUXdYLTI3SGtvdkt6bjY5Z0FaazZDRDBNNWlWOW5NQ2dLZ3pqaFhnZ3FmUk5wS1ZmQzRiZ0JmVU52a1FYQThOS01iM0hoZmZ6OFJ1TDBTWFZWVjJKYjNOTXd3WktnU1pEc3BJM0o0RVM0RVkxU3hIZG1HMFZMZzNkdGY3ZC1FRkk3SmtSdTFORGszVWpNWjVoR3pneXY5dzRGMS1CaTVheTRsbjBva2VkdkdR0gGLAkFVX3lxTE5NTzY1dDJTcHhwUkJHTF9lWUNKay0wSXRrNFQwbDBCdVllUXdUMUJXMFF0akdfZmFpTmZWYXdvaUo2ZTM5NUJBb25CWVNYUXMzR0RHQmdaY0h2eHdCTWs3blV3UFEtZWZCVzMzNTRnSGdXN29XOUp1U3FxbXdiN2EyQnE4NVJwNmFKdWpLMmZ1aUx2Z184elZmaHhPOWRub1hDbzBMMS1MeEtrWlV3QThmMEZDQ3BBZXczM1NoZE14WFI4Uy04VjgzQmpJUUVMblVSMlVfc3B0RUJpM3FRd1B3SzhNMm82Slh0WXZYd0NmSW8wVEZNYmZmYXMyc1hmS252MHl4UmVnWDVEUQ?oc=5
-
-- Sounding the alarm: EVs in India to get a compulsory pedestrian warning system from 2026. Everything you must know - Mint
-  The government is planning to introduce a compulsory pedestrian warning system in India by 2026.
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRkpwVFptRGN2cmRNTU41VTNtSE9VYjIwWW9EeDRjOGxHdTF0QWFqVU1mLVJIamJELWRMYXZ0QmpPUHFUVmZzZ1ktX2JfSXh0UkZfZnB4ajhwd1ItU0s2ZDJpMURqMjZyclpGZ2lESFJGd1JNeUJ4VHJ4dXp1d3dyODQ2ci1vN1ZYTkpJN2xnOTNfOUNucDgxaVduZlhMYnBQT1c2bGgwXzBfVzg2cXhIaVRRcXRTV0hYbUVsckNSaE1vYVp2NDhGMHRIWlJ5M2ZxRmNoTi1mMXdZazBCaEcwN1NxMkVCcW95UGFhZVNzS09XZktIU2pN0gH8AUFVX3lxTE0yemgxcnpEV3p0a3RYdnVGbXdteVhkMEpOTUxUQmhSeUNVMU9qYVJfWXhxSG40WVMtSnZMX2xWU255NEUxenVOYkNlSEh3UnNidFQ5NUFKZWo3SDRIRVM2ZXVuckRNZjNmTVRRdmRMZHFNcDdNV3owTzNLMnhGZXBRbjVMbmdOaFpHYXh5NTVHWUZnWGdCdVlsUjIwbEpNRklmZEhCSjRzZTcwRHFsdzJmeG90VGRId3FxRjVEWWFSSU5BQWdVcVh1RDZtZUN0dlJtbE83d2ExQV8tSjJRSmFzel9UZEtmUnRPUDZ2SG1HUmhmbnRrdm5NQXNUcQ?oc=5
+- India got 8% more monsoon rain this year - The Hindu
+  India got 8% more monsoon
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOZUdPaERUeS1VSTlOZk9POXQxMW5DNk05UjRGV0tITVVFUDh5OTU0dE0tNDZpd0RHQ2ExUnFZcnFtZVluYzVwNTB1MW5KaHhxX2Y4ZFdIYnZfQzhwQ29pV1otaTBGb1dWMTNha1gyWUtTUVB1eUVXaVB4bElQRldvNC04MEFzSER3ZUVhRTQyckJyVDBhVjdGTGRraEZ2dmVCRGxzQ1hwMWdYTjE4Sk5pR0FzbFhPeU3SAb4BQVVfeXFMTnUxNUJrbklXaHI2TkZlUlZINlFsUTdxZDJOSVQwNlNsSFRDZ0Zpb0hqb2lTc0RqbEdOZ1pwSWlLWFZpLXZLc3NzNmJZaHkzUnRfZTVDT1lBb1JQeC1xU0ZZSjNxcGJCSnVXS09OeER1XzZkbnZqN0NQVW5QQzYwekh4VWY1LUpfQ1RlT3JLX25RcllqUDN0SFd1N3VRZ0pubFhDWG5uTVpsSHQxUlFsUDZYay1UajZvSGpSRXJhUQ?oc=5
 
 
-_Last updated: 2025-09-30 12:35:08 UTC_
+_Last updated: 2025-09-30 18:23:50 UTC_
