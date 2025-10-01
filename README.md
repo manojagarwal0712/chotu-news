@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
-- "Most Beautiful": Trump Says Asim Munir Praised Him For India-Pakistan Truce - NDTV
-  "Most Beautiful": Trump Says Asim Mun
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmVUM2pHN3pMTXhDRDlCeVR3bUhHamR0cG9vdnVRR05aRFNWTjVfb0NlemNCMEdKUlRvX3pGZkE0OURNZmZoLW1WUFhyNmtmMGNtcjlmMlI1ZWM2NEhoRWlRLWVQTERHaEhXcGZsLVhzU2lKLUdMR1RRNzZtYjczT3UtdUdvOS1PLTZkbE9kU0MxZnJGOXVUMmlwQ2dvWlVCdEVDZnRlTFh5ZjNIOTRxMm9qS3hrZ9IBvgFBVV95cUxQOVJsMDFuU3ZOREFDbjhrMTN3Z0ZadVZGYzR0ZllONno2VmNOYnluUHVsM21MUERmekl6OWZsa2RJVVp1cWRkMlk0aVZDWkhHVVZJNFlnSE5idHQtQkctVzdmclNOSXB3WmdQbGZMR3dXbmZRelBfbkVJUkd6SHgxaExUNE9WTmJrQjRVOVRlQTNEdTc5clhmZ1FyeVVUSEFvbk1nVFhKSWxSZ0lCXy1tb3FPN1BMc2o0Vl9IRUN3?oc=5
+- Sonam Wangchuk is not a terrorist, says Rajasthan MP after being turned away from Jodhpur prison gate
+  
+  🔗 https://indianexpress.com/article/india/amra-ram-sonam-wangchuk-not-terrorist-rajastha-jodhpur-prison-gate-10282355/
 
-- Trump shares his ‘favourite word in the dictionary’, carries meaning for India - Hindustan Times
-  Trump shares his ‘favourite word in the
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPMmZXeHVWc3hoVEpHWFJ4clZjRlZjcUxIU2hyWHFReWE1dVNlcWN0U00yVzF5SndOSjY0clVyc0toWWY3RHM3SWZYaE0tNWRLa3FzSC1FQkY4ZElZMGN0M25EWThOODV5S1dUTmV0a0VVZUFQWmNZS1JyZFZOaDE0WDFoZUlQQ1hpdWFETjFrSXdEVjh2TXRPRFhLLTVwZFB1cXo2RlNud1FEak54RUtSU1lkUlFUVzNBcWY2ZWtBRGxYNkJzdDJOLVFtZDRVVGplUV84dzBhOFBuM0RmN0plTUlFZnRlUUNBVE83N202eTY0ZmZrY1NxaHhCbDVHNE5Fd3YxcHhn?oc=5
+- Rajesh Agrawal takes charge as Commerce Secretary
+  
+  🔗 https://indianexpress.com/article/india/rajesh-agrawal-takes-charge-as-commerce-secretary-10282315/
 
-- ‘Most beautiful thing’: US President Donald Trump claims Asim Munir thanked him for India-Pakistan truce - Mint
-  ‘Most beautiful thing’: US President Donald Trump claims
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSFJWdjJyRldMMmI5TkdDbGpfeWFvLUZ4NUxKdGJqaGZ6WFBxbFJPemo5UVhtUDlaa0JrU0RDWC1TWUstZHFsRFlyWWZPQmM3dlB0LTU0RXRCSkRPRHcxSG5xdHMwR3pGSnp6RVB3V3hiRzdYTThXNW8yLWt4MzNsUHpVTjFJeGRmcmIwa2E3R3lnaWVYRGNNOGt0TmxNdVY4ZlVYOVQtc1k2dzdQSkdscmJ3RWVRcXZLMWluN1BybjdOWFdsU2pzelM5ZW1JVUdIOGxidXdqMTIwX2wyWG93dlNrb2pkN0ZSTXdLWF9n0gHzAUFVX3lxTE9wZnp0ME9KRVd0SGtua1BXZ3ROR1lkbVFqMXg0c3BlX2tZMXFRVHY4LUZBclZncjduQkpNZlQ2UmdpR1dXWUw4NnpFQ09mMENmRUlIaU4tRmtjTHdLSE96dWlCQzZWbmx3dV9QbmlIWld2NlNZV0NDcXlSWGFoclhodFdBZVdNal9VVTZrMVoxLWxoMnA5TEJTQjZvd3pCMTZVcWVJeDJLZFVEYUdNQzlFR0N5amxEUUU0cGNiR0p3aGx3bGZoZVFrdG1LRURvQXVUcG1saFpFemtYdGMweE51Wjg3NktSRFFaazhSYWo1dHd4dw?oc=5
+- Manipur risks losing entire generation to prolonged conflict: child rights panel chief Keisam Pradipkumar
+  
+  🔗 https://indianexpress.com/article/india/manipur-generation-conflict-child-rights-panel-chief-keisam-pradipkumar-10282201/
 
-- Pakistan told to 'never play against India' after Asia Cup presentation ceremony row: 'This cheap behaviour...' | Cricket - Hindustan Times
-  Pakistan told to 'never play against India' after Asia Cup presentation ceremony row. '
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNakVzclA5OVFBUFJHMWtGLXpIanI2TUE3OXpOTkJ2STVXSUFpaTQ2aDc1THBncUc1SHYxZVIwVmlfM0ZXdFhpTXNGNFQxSC10MEFkUWY3V05SUVNXcVNZQk5GN0hneU9nYklfNVNjQjN3cjdYb1N6SkF3bk9fYlNUQ3NuQmNPazR5T1lJeFI3MVNxV3JaaFAyUmpoN3R4bjVlTHB3VTBHN25yRWlRbGx1ek5FTlNlRVNFTDJVWGE1anZNZ2JKb3JRMk9td2FOLXJQTXJQYmFCT2pqWThNV2wxdG1zNlFfRGdoUEJMWk5CQUhFYldVUUp1STBB0gH_AUFVX3lxTFBmLWgwcEhaS0w2Ml9tZjN6OFFxcDI0ZG5kWXNMZzhvc19rSVI3TVBTVzA5NmQyLWpCeEFjYk1zVVMwcldPeG9FQWg0eUtETmd2SHZnUlFEZlV5RnVoLUVXRXhRM3NIM1dsczlSSWZ0ZDljbDRHNHBvRTZBcG9DSVVoQWU2ZHhnZEZacGJLcjdpcW9mTGs4QXVlZHpTY01EVHFKcnotS1Z6Y3R6alRhOEFwRXdIZ1lrLUJSb3prLVA5V2RDNXdCSHVoYzlFZm5nbVhLbWNYRzlheHZvdUVWc3pNRWlYUnVpNm10Sl9XdmJsMzFYbFZURzhwVkhOUVdpWQ?oc=5
+- EXCLUSIVE | Latest chapter in Maoist letter war: Sonu, outfit’s ideological head, says he has leadership’s backing on ‘cessation of armed struggle’
+  
+  🔗 https://indianexpress.com/article/india/cpim-maoist-letter-war-sonu-armed-struggle-10282171/
 
-- Why did India refuse to accept the Asia Cup trophy after beating Pakistan? - Al Jazeera
-  Why did India refuse to accept the Asia Cup trophy after beating
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXpXckt0UnBTNFhpQVBpcUVxc1o0SmotRXZVNmxpaGpiZEhNX3hGSTFPTTA0aC1oZFlTSHdKRGdFazNHNFBROWhTVk5SQkc2alVyS21uOWtOS0VzZmJaSTZLaWZlUlZtdDlIMDBiMnhNWnhtU3V4Z2FOaWJzZjMwVzRHaWRxUGhaZFA1Qm1xNmw4d1ZTME5DbEVlNWc5Qmx0Mm9CS2VWNzFUTzF5RmNVRnYwbzDSAboBQVVfeXFMTUYxaExkclpBV1NNUENCdzItYWlkMTdJLU9CeHBRTkFqalNhU28zN1VyS3hCZ2ZtY255eVNGS0VqaUFrSzB3MGpwSm5sS0l5NXRQYTI3NlNzVnRsSTJDTjk1Z2p6a05Cc2ZEY2NoczNsbm1KMEo0bkF5OWE1UWN0T01qS0RDVnZHUHlnVTRKSnJjSVdfY1lMZkp5ZGdQRENPRlRJaTlSQVgya3otci1QV2U3M0JjNDJFQmdn?oc=5
+- Cabinet hikes wheat MSP by Rs 160/qtl to Rs 2,585
+  
+  🔗 https://indianexpress.com/article/india/cabinet-hikes-wheat-msp-by-rs-160-qtl-to-rs-2585-10282117/
 
-- boAt elevates COO Gaurav Nayyar as CEO
-  Imagine Marketing appoints Gaurav Nayyar as its new CEO. He succeeds co-founder Sameer Mehta, who
-  🔗 https://www.livemint.com/companies/people/boat-elevates-coo-gaurav-nayyar-as-ceo-audio-co-founder-sameer-mehta-executive-director-role-company-appointment-news-11759297470310.html
+- Spooked by AI, Bollywood stars drag Google into fight for ‘personality rights’
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spooked-by-ai-bollywood-stars-drag-google-into-fight-for-personality-rights-10282106/
 
-- Pocket FM taps Goldman Sachs to raise up to $150 million for global expansion, AI push
-  The audio streaming platform has formally begun its $100-150 million fundraise with the appointment of Goldman Sachs. Pocket FM is looking to strengthen
-  🔗 https://www.livemint.com/companies/news/pocket-fm-funding-goldman-sachs-global-expansion-ai-artificial-intelligence-audio-streaming-11759286424297.html
+- Adobe Premiere launches free mobile app for iPhone with pro-level editing tools
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/adobe-premiere-launches-free-mobile-app-for-iphone-10282073/
 
-- L&amp;T Technology Services secures $100 million multi-year deal
-   LTTS will set-up a Center of Excellence (CoE) to support the client in accelerating innovation, simpl
-  🔗 https://www.livemint.com/companies/news/lt-technology-services-secures-100-million-multi-year-deal-11759294904842.html
+- vivo opens OriginOS 6 Preview Program for X200 Pro and iQOO 13 users in India
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/vivo-opens-originos-6-preview-program-for-x200-pro-and-iqoo-13-users-in-india-10282012/
 
-- India extends timeline to roll out algo trading rules for retail investors (Sept 30)
-  India extends timeline to roll out algo trading
-  🔗 https://www.livemint.com/companies/company-results/india-extends-timeline-to-roll-out-algo-trading-rules-for-retail-investors-sept-30-11759295106678.html
+- Beats unveils Powerbeats Fit with 30 hours of battery life for Rs 24900
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/beats-unveils-powerbeats-fit-with-30-hours-of-battery-life-for-rs-24900-10281821/
 
-- Singapore Stops 1MDB Liquidators from Suing StanChart, BSI Bank
-  Singapore's High Court has stopped foreign liquidators from suing Standard Chartered Plc and BSI Bank Ltd. The
-  🔗 https://www.livemint.com/companies/news/singapore-stops-1mdb-liquidators-from-suing-stanchart-bsi-bank-11759293888071.html
+- Croma announces blockbuster festive discounts across TVs, smartphones, laptops, and more
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/croma-announces-blockbuster-festive-discounts-across-tvs-smartphones-laptops-and-more-10281584/
 
-- Hindustan Zinc to Bharti Airtel- Jay Thakkar suggests three stocks to buy or sell for short-term in F&amp;O segment
-  The Nifty 50 and Sensex saw increases, while bank shares benefited from relaxed lending rules. Analysts suggest buying Hindustan Zinc and Bank of Baroda futures, while recommending selling
-  🔗 https://www.livemint.com/market/stock-market-news/hindustan-zinc-to-bharti-airtel-jay-thakkar-suggests-three-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11759298294299.html
+- Hurun India Rich List 2025: At 44, HCL's Roshni Nadar Malhotra becomes India’s richest woman, features among top 3
+  Roshni Nadar took over as the chairperson of HCL Technologies from
+  🔗 https://www.livemint.com/companies/people/hurun-india-rich-list-2025-at-44-hcls-roshni-nadar-malhotra-becomes-india-s-richest-woman-features-among-top-3-11759316486142.html
 
-- Sensex jumps over 400 points after RBI keeps rates unchanged. Why is the Indian stock market rising? EXPLAINED
-  Indian stock market saw strong buying across segments after the RBI's MPC decided to maintain the repo rate and policy stance unchanged for the second consecutive meeting.
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-jumps-over-400-points-nifty-50-after-rbi-keeps-rates-unchanged-why-is-the-indian-stock-market-rising-explained-11759297821138.html
+- Who is Vis Raghavan? Indian- born banker emerges as key contender for Citi's CEO position
+  Vis Raghavan, 58, oversees global banking operations and strategic initiatives of
+  🔗 https://www.livemint.com/companies/people/who-is-vis-raghavan-indian-born-banker-emerges-as-key-contender-for-citis-ceo-position-11759308324357.html
 
-- Most Indians sit out, finfluencers rule the 10% who dare to play the stock market, says Sebi survey
-  Sebi investor survey reveals 62% of investors act on finfluencer advice. 93% rating them as highly credible, highlighting
-  🔗 https://www.livemint.com/market/stock-market-news/most-indians-sit-out-finfluencers-rule-the-10-who-dare-to-play-the-stock-market-says-sebi-survey-11759247015233.html
+- Tata Sons listing: RBI keeps its options open
+  The RBI had mandated a public listing of Tata Sons by 30 September 2025.
+  🔗 https://www.livemint.com/companies/news/tata-sons-listing-rbi-upper-layer-nbfc-tata-trusts-tata-capital-ipo-11759315226919.html
 
-- 'Very wrong decision...': Mohandas Pai questions RBI for not cutting rates amid falling inflation
-  TV Mohandas Pai criticises the RBI's decision to keep the repo rate unchanged at 5.5%. He warns that this could lead India toward a rent-seeking economy
-  🔗 https://www.livemint.com/market/stock-market-news/very-wrong-decision-mohandas-pai-questions-rbi-outcome-to-not-cut-rates-amid-falling-inflation-11759296945651.html
+- Ahead of IPO, LG India banks on domestic demand, premium portfolio and export hub ambition
+  The IPO will see the South Korean parent firm sell about 15% of its stake in its Indian arm. Since no new equity will be issued, the subsidiary will not receive any
+  🔗 https://www.livemint.com/companies/news/lg-electronics-india-ipo-public-issue-banks-on-domestic-demand-premium-portfolio-export-hub-ambition-11759305494331.html
 
-- Rate-sensitive stocks rise after RBI keeps repo rate unchanged; bank, financial services sectors lead gains
-  Rate-sensitive sectors rose after the RBI held the repo rate at 5.5%. The central bank revised FY26 GDP growth to 6.8% and inflation to 2
-  🔗 https://www.livemint.com/market/stock-market-news/ratesensitive-stocks-rise-after-rbi-keeps-repo-rate-unchanged-bank-financial-services-sectors-lead-gains-11759296397747.html
+- India central bank allows banks to fund acquisitions, lend more for IPOs
+  India central bank allows banks to fund
+  🔗 https://www.livemint.com/companies/india-central-bank-allows-banks-to-fund-acquisitions-lend-more-for-ipos-11759313856397.html
+
+- Tata Capital IPO: 10 key risks you should know about before investing in  ₹15,512 crore issue
+  Tata Capital's IPO opens for bidding on October 6, aiming to raise  ₹15,512 crore through a mix of fresh issues and an offer for sale. The price band is set
+  🔗 https://www.livemint.com/market/ipo/tata-capital-ipo-10-key-risks-you-should-know-about-before-investing-in-rs-15-511-crore-issue-11759307817807.html
+
+- Top Gainers &amp; Losers on Oct 01: Netweb Tech, Tata Motors, Adani Power, Vodafone Idea, Trent among top gainers
+  The Indian stock market rebounded on October 1, with key indexes gaining nearly 1%. The rally, driven by banking stocks, followed RBI's measures to boost liquidity. Nifty Media surged 3.79%,
+  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-oct-01-netweb-tech-tata-motors-adani-power-vodafone-idea-cochin-shipyard-among-top-gain-11759311903914.html
+
+- Stock market today: 118 stocks hit 52-week lows, 150 stocks at 52-week high as Nifty 50, Sensex end nearly 1% higher
+  Sensex rose by 715.7 points and Nifty 50 by 0.92%, aided by the RBI maintaining the repo rate at 5.50%. 150 stocks reached 52-week highs
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-118-stocks-hit-52-week-lows-150-stocks-at-52-week-high-as-nifty-50-sensex-end-nearly-1-higher-11759312913413.html
+
+- Sensex snaps 8-day losing streak, investors earn  ₹4 lakh crore in a day— 10 key highlights from Indian stock market
+  The Sensex ended the day 716 points, or 0.89 per cent, higher at 80,983.31.
+  🔗 https://www.livemint.com/market/stock-market-news/sensex-snaps-8-day-losing-streak-investors-earn-4-lakh-crore-in-a-day-10-key-highlights-from-indian-stock-market-11759311932239.html
+
+- This small-cap, agri stock jumps 80% YTD; do you own?
+  GRM Overseas has experienced an impressive 80% rise in stock value this year. With major investors increasing their stakes and promising financial results, the company is well-positioned for future growth
+  🔗 https://www.livemint.com/market/stock-market-news/this-small-cap-agri-stock-grm-overseas-jumps-80-ytd-do-you-own-11759304500500.html
+
+- ‘Cancel Netflix’: Elon Musk issues urgent warning to parents
+  Elon Musk has called on parents to cancel their subscriptions for the sake of children's health.
+  🔗 https://www.livemint.com/technology/tech-news/cancel-netflix-elon-musk-issues-urgent-warning-to-parents-11759309338711.html
+
+- Meet Dot, the autonomous delivery robot launched by US food delivery app DoorDash: Here's all we know
+  US food delivery platform DoorDash unveiled its autonomous delivery robot, called Dot. Dot can carry around 14 kg and travel
+  🔗 https://www.livemint.com/technology/tech-news/doordash-launches-dot-commercial-autonomous-delivery-robot-food-app-features-travel-speed-efficiency-smart-us-tech-news-11759303348576.html
+
+- Engineers are chasing  ₹30 lakh offers—but not from startups
+  New breed of recruiters swooping on elite technology schools. Companies looking for talent in chip design, 5G/6G, and quantum computing.
+  🔗 https://www.livemint.com/technology/tech-news/ai-chips-nvidia-intel-engineering-colleges-it-jobs-placements-recruitment-bits-pilani-iit-11759217345473.html
 
 - Flying Emirates? You will not be allowed to use power banks from today: Here are the new rules
   Emirates has also banned passengers from charging their power banks while on board. Passengers will be allowed to carry
   🔗 https://www.livemint.com/technology/tech-news/flying-emirates-ban-power-bank-you-will-not-be-allowed-to-use-power-banks-from-today-here-are-the-new-rules-11759295523490.html
 
-- As Zoho's indigenous messaging app Arattai gains steam, privacy conscious users point out this WhatsApp feature it lacks
-  Zoho Corp's homegrown messaging app Arattai has exploded in popularity. Some privacy conscious users have now pointed out that it lacks a very important feature for chats.
+- As Zoho's indigenous messaging app Arattai gains steam, privacy-conscious users point out this WhatsApp feature it lacks
+  Zoho Corp's homegrown messaging app Arattai has exploded in popularity. Some privacy-conscious users have now pointed out that it lacks a very important feature for chats.
   🔗 https://www.livemint.com/technology/tech-news/zoho-indigenous-message-arattai-popular-privacy-conscious-users-point-lacks-whatsapp-end-to-end-encryption-chats-feature-11759291828787.html
 
-- OpenAI launches Sora 2 model with a new Instagram-like app for creating, and sharing AI videos
-  Sora 2 is an advanced text-to-video model competing with Google's Veo-3.
-  🔗 https://www.livemint.com/technology/tech-news/openai-launches-sora-2-model-along-with-new-instagram-like-app-for-creating-and-sharing-ai-videos-11759253470498.html
+- Stocks Fall as US Shutdown Fuels Gold’s Rally: Markets Wrap - Bloomberg.com
+  U.S. government shuts down, Nike earnings, TrumpRX and more in Morning Squawk.
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPLTVUTk1QakRkSkl2SWEzYUo0V1RwRlhLdVlld2UxMjRWVUhNS0lNcW84a2FvMlZJX2ZMM1gxOXl4Zmx4WjdUTnpBNjBxdFp1bGxTSE0weVppd3IyYjRSbElZWFhYR2FPUnNlVkZDV0l1ZmtKcHJiRXAxQlljbkxVNEkycTZrLTI3VU41Rnd1TlhLcTBm?oc=5
 
-- Apple's first foldable iPhone teased by Samsung, launch date almost revealed
-  Samsung confirms it is preparing to mass produce an 8.6 inch OLED display for a North American client. Likely Apple's foldable iPhone
-  🔗 https://www.livemint.com/technology/tech-news/apples-first-foldable-iphone-teased-by-samsung-launch-date-almost-revealed-11759250807145.html
+- Top 5 mistakes investors make in volatile markets - The Economic Times
+  Top 5 mistakes investors make in volatile markets
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOUlvTUR4aW1iMExWUmM0NVM1YlQtYTdRUlJsbGhGWUFBcnhrcnZuRkxpMWtJU2wtZzdQcDg0S0l2cUVQV0ZJLTNQSldkQWlVOUp3R2R6YUEzOG51Z1g2OHlPVVZ1V1VDcGJncGJqdUFRU0l4cFIzMDd0TDlrM2tQN3JvQXIzTEkxSE5Nc3A4dXo2SGFmQmpzWDNYaUl1MDQ2T25NbkRJWTgwc1AyM2VNYUFnLWJ2ek9QOHhCMnNNQ2pnZw?oc=5
 
-- iQOO 15 key specifications leaked ahead of launch: Here's what to expect
-  The iQOO 15 will debut in China next month. It is tipped to feature a 6.85-inch 2K
-  🔗 https://www.livemint.com/technology/gadgets/iqoo-15-key-specifications-leaked-ahead-of-launch-heres-what-to-expect-11759237724516.html
+- Stock markets extend morning gains post RBI policy; sensex jumps nearly 600 points - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcnFHM2syQkRSNmRVUlVmNHg0QmhjemtqZDlYTGp5LWphTkR5N1RLckZvQVY0UmFwUUhjbnVTOS1rYm1kUWx3eC0zckYtRzEwdGJ1emJNNXA3ZmNwYk9KaV94VGctaklVbk
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcnFHM2syQkRSNmRVUlVmNHg0QmhjemtqZDlYTGp5LWphTkR5N1RLckZvQVY0UmFwUUhjbnVTOS1rYm1kUWx3eC0zckYtRzEwdGJ1emJNNXA3ZmNwYk9KaV94VGctaklVbkNrUFRUd0IydjhsMGp3UmJpYUM2cWhWbVF2Z21ucVd5c0xzSGRMOU1GVThJNDRPSHVYakVrN0lXTVcxMGEzWEx4YWRwZVNKSE10T2pVNVpNYkdWcW4yTHJRVkJsMnJDRGFYXzFfcmVEZlFsQlYwRFFLQnPSAeIBQVVfeXFMTmw1TXhuQVNkdzhTM1NlcGhlYXZxdGE4d0FtbThsX0o5NlBYaXNpdmNRRmZIc25TaElMY0hvRUxvUEtWMUxMNGwxcWFrenZ5dkU4SDIzRUhjZktLUGFFa0N6TTRSdkJlWU02NTU4QURFSTB6N1pPcjZaUWJ4T3JCMk1ERXl0d0xCTDBqekMxUUpWSnEwZGNfX1c1a2pkVnoxOC16RmxVdmVCOThINkZkd0RmaTRDUzl6YllZS0ZvaFBuVzlNWURvbUpyaVVyWWUyTmx2VFNaVFJnYjlvajZaT2xWZw?oc=5
 
-- Stock Market News Sept. 30, 2025: Stocks Advance as Shutdown Deadline Nears - The Wall Street Journal
-  The Wall Street Journal reports that stocks will rise as the U.S. government shutdown nears its end.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOZG8zWDJCSXB6LUVTVjlqUVZOZGVCQkhINFMxb0ZJQzlLQTRXUmVYOXhpc3c2Z1ZWWnIwYVAzdnF5LUZpdDA1bnZNOFFUYWk5SmhiRFQ2ckRjaDFXOXVETi1zYXNHTWtkX3NwRDhtNUg5RmU1YThvZnhtZEZCVWJ3U3haYnpHYjg?oc=5
+- FPI exits from Indian markets hit all-time high on tariff and earnings fears - CNBC TV18
+  FPI exits from Indian markets hit all-time high on
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2ZZZWNmb0I0LWRHZjJPLVg5ZFRyakRxMTNfM1llT0pQSkpRM2R3ckZDYXVBbjU4aDZyMjFHWVNXcmtvNVhLc2VPTGpCZF9panh2bUVJNVg2cE1vQ19tTzRmUWp4Uzl4ZUxPR3RlRm9KbDlmYklHb0hyNndkSTNWUmlpZUcyQ05uQW1QaFl6WlZDX2hHTzNjcFI5bzM0SWtRUzBaa1RlVkxhYjRQOUEyVFZDbGk3U241QnIxTzJR0gHDAUFVX3lxTFBMdW5talJtdUpaM2tUS0duWGNYTzF5T0xGWEdxVFZBU3lfdjYzNTREcVFTLU1vWVlueWRzcjhOX29jSENVZmxVU21ma0FuYjBhcVNXSGFnU0p4QkpvMlhxN294VkstNjFnUUUyakU2d2FwdGVDNDNRY1QzamFycG9oR3BUU2tMUnJacG0tSl9UVXJwNzgySC1MN0JnT09HVm5ITDUzRFUtRUVvOTBYQWJaOXBSY2VPbTBxSTlnbXl2Z0pySQ?oc=5
 
-- RBI unveils market-friendly measures: Higher lending limits against shares, IPOs, may roll back 2016 curbs - Moneycontrol
-  RBI unveils market-friendly measures: Higher lending limits against
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZHdCTXZ1MmVNMThIdHdCNHV6R05tb18ycEl5dTZucnl6MWdWd2YzMnlMcE5ibkFGWTcwb2pOWjNxb2FxcHc1dmNNaWpxNDhiLUR1MW5Jc1dWVWZZdDlnOHpQblgyM0FRMzZsUjFNbGRDek9BZzhUY1lYZWlnRTRvRjYxcXhnN3VEbV9TU29KRjBLeUdhaGxnYS1RUWV0UnJVRUl6b0llVjd2bHNnMDRXUV9QaGxkVUpQaHQxMVFQYThlbVAtVGFtelVxUVNrSkpWNnd2NWlSOFJMQ25BckV1aTlfV0RPVV9nY0xBbXB5S2x5NS05eWlrMHktV3rSAYICQVVfeXFMT2ZKbDF4SXZaOTlxdk5tNWRCQWF0NERDb3BzX2VEY3NVZVB5NVk1VTRheW5nb3dRb0xwZV9IVEZIVVV4TDhWdWprUkpFYTQ2QmpzejJ0UUJKbjMxS3Y2bjgxbThERlVlaU13ZFYxZTZrcUZWckU0T2FURlR5a1o3QnkyN0o0NHR6U203T3pYT0M5VFJnblNSX0QwRnRnLVJ5SkJUaXFoaVpveXVWNExFOVhQX19RRFEwenYxZ1pJRTRWdXhHeEkwemhXMjFweEU4aXdfWVdqLTNCTVI3MVJGZUNpQjNmWkM1bFRTZG41QmlYQUFlaHJJMElEN082R0xYUS1R?oc=5
+- Emerging markets are finally rallying - Financial Times
+  Emerging markets are
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE9sRk9UZjFZVmpmMEprbkRkZWdJYTRIQW8zeWJrcnczYkFqcFFhVmtNdzRtakg1Tk9uclBBeVU0RlZDaFJGUUx2N3VEb0NoRTl1WGxZVWd6NjE2N0VQOEV3QUxZSDNPUWZrQkhnZnJoYVg?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market LIVE Updates: Sensex surges over 550 pts after RBI MPC maintains s... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV1hlSFhmd2FrU0YxMTh4UkxKYzRGcURwajVyd3dYMFVzTGZwZlJ2TFRIOFhVOEg4TUdaek9DRUJJQ0trangyNWMwM2FOM2JUVlJQSndEN3NETjBfTlhXV3ZkTGZMVGtpdT
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV1hlSFhmd2FrU0YxMTh4UkxKYzRGcURwajVyd3dYMFVzTGZwZlJ2TFRIOFhVOEg4TUdaek9DRUJJQ0trangyNWMwM2FOM2JUVlJQSndEN3NETjBfTlhXV3ZkTGZMVGtpdThmTmlnNmI0YjRzQ3dSWTJQV2ljbzUydkNqZlc1UjQzR3pEMkZYZ0kyRUFFV2oxM3Z2SUNzQWkteG5WTjVSbjhaeWd0TTM5YjVLa3JCOW9UNEd3bUpvVUprX2YzSTV1Y0twWWhraHdBZDBzNkFac9IB3AFBVV95cUxNSHN6aVNWVXdPeFhmVnR6YnplVl9vNGl1R1BhaEZ1MzhJRUc5V1FaTWpJYkozTl96ZjVlTjZsME5tQngtZlU1RWxRX1hkR2hXQW9xWUE5Ums3SFRjWnp0LTR6NTVSYVpITjVxanFmcXUtelh4UlVoelRkS01MRlRfdGFpNFBWRDlXQVhuZ1dJY1FhamZ2MFdsZ0NqTi1rR0dHWkJtTnk1RWtEb0VZZGtPNXhUZERkRjlVZVJYbnN4bG9oZmhJWTQtUDBUd1M5ejVscXBCMV9LbjdpUGp0?oc=5
+- BSE NSE Holiday: Is the stock market shut or open on October 2 for Gandhi Jayanti, Dussehra?
+  Indian equity markets will remain closed on October 2 for Dussehra and Gandhi Jayanti. October sees three additional trading holidays, including Di
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bse-nse-holiday-is-the-stock-market-shut-or-open-on-october-2-for-gandhi-jayanti-dussehra/articleshow/124259180.cms
 
-- Most Indians sit out, finfluencers rule the 10% who dare to play the stock market, says Sebi survey - Mint
-  Most Indians sit out, finfluencers rule the 10% who dare to play
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOWNvSFIwaEpJd0ZjVlUtRUV2THZJRjB4al90cHR2eTBaSktiZUhYR1YtYmxnTlFXOHFqUU9HRGtTQzNLQ0hhZ2xnUG52bkl5TV8xM3VYbzZkS1Nud3BLbmhITDRBc1NITDhOa3dMV1FvTHR2WVpEYjNyT09PZTZYREt3SmpEeGRpc01lc1RpekE1N084NGtjTW1SbFhsTDUwVnEzZEhDUWN0Zi1qTWZfamJjYzZJaEJRdHF5UW9OUlliX3BDYU15dkZsT0NVMmlXMTlpcWdXWkh2NlU5X284REg0dUZXMnZ6LWk4MTFKdVZJdmRlQTYtLXBR?oc=5
+- As gold, silver soar, Gurmeet Chadha warns investors: ‘Don’t get carried away’. Here’s why
+  Gold and silver have surged to multi‑year highs, driven by geopolitical tensions, potential U.S. rate cuts, and a weakening rupee. Experts advise cautious exposure of 5–10% in portfolios
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/as-gold-silver-soar-gurmeet-chadha-warns-investors-dont-get-carried-away-heres-why/articleshow/124258746.cms
 
-- Crowds throng Bengaluru markets for festival shopping, ash gourd prices rise - Times of India
-  Crowds throng Bengaluru markets for festival shopping
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTkhWWEkzdUs1cUNHOFBoQWR0Y1Z4dm40QWZoOEE0bDdJTkdJZldEcldQU0ExSER6MXlWNU1UcmtvSjZ2dER6V0EwNk40Mk8wSWRMYVNGX0FSMzF5UEpzb0lFazJtSmdvNzNVWXcyQUltcFNCS3lrWXBfNldoSzJxcmhXVHFPdExVM29jeTVsV09UZGhyUnN4ai1lWGxPbFZpTF9EcmFqZ3pLVkJOSEowYlhjLWpqbi1MbnJrZzZmRXVQTDViVUxJR3JXRUNuNzV5RWU2WmZScUI2bzEwbEtLcmNxYzlDdDDSAewBQVVfeXFMTjJjZldJRnl6TmdCUndjdXpfTHJXMEM5NlpLUGFUVnV3bTNOdWJXRjBnZFp2SWxCdThUMFczRW5JcnhScWxkSVZNYmszcVFBdmI4VmdlcU1mNW1pZFpORy11eU0tWmp0bkM0VktkYmtzdnM2ZlpXRVBsZG55RkJJNlhpbTdTRWlzOXFLQ2xLWTRHbzVwUWVfZWhNclhVdGh0SjEzMUl6dEdzbFdxOThzMzhTTndhdUdRZXF0cjlPRk5PRDZmSjhyekFQb1UxUzBMSmIxbzJUU0c1UEVmMEV5cE42WHZMX2V4TFU4Y1M?oc=5
+- Tata Investment, RBL Bank and 4 other stocks hit 52-week high; rally up to 55% in a month
+  Tata Investment, RBL Bank and four other stocks from the BSE 500 index hit 52-week highs. The Sensex rose 716 points to 80,983, with Tata Investment gaining 55% in
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-investment-rbl-bank-and-4-other-stocks-hit-52-week-high-rally-up-to-55-in-a-month/slideshow/124258669.cms
 
-- RBI hikes limit for loan against shares to Rs 1 crore, IPO financing to Rs 25 lakh
-  Loan against shares ceiling hiked from Rs 20 lakh to Rs 1 crore, and IPO financing limit increased to Rs 25 lakh. Governor Sanjay Malhotra said these measures, part of five steps to
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-hikes-limit-for-loan-against-shares-to-rs-1-crore-ipo-financing-to-rs-25-lakh/articleshow/124249397.cms
+- Nithin Kamath weighs in again on Zerodha strategy if weekly options scrapped
+  Zerodha co-founder and CEO Nithin Kamath struck a calm note amid speculation that regulators may curb or even scrap
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-weighs-in-again-on-zerodha-strategy-if-weekly-options-scrapped/articleshow/124257304.cms
 
-- Fabtech Technologies IPO, OM Freight Forwarders IPO – Day 3: Check GMP, subscription status, and key details
-  Fabtech Technologies and OM Freight Forwarders are in their third day of IPO bidding. By Day 2, Fabtech achieved full subscription, while OM Freights Forwarders saw 2.23 times oversubscription
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/fabtech-technologies-ipo-om-freight-forwarders-ipo-day-3-check-gmp-subscription-status-and-key-details/articleshow/124249330.cms
+- ​How to calculate the sales to cash flow ratio
+  The Sales to Cash Flow Ratio measures how efficiently a company converts sales into operating cash. Ratios near 1 indicate balance, above 1 shows strong
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/how-to-calculate-the-sales-to-cash-flow-ratio/slideshow/124257475.cms
 
-- RBI MPC Outcome: PSU bank stocks slide up to 1.5% after RBI holds rates steady at 5.5%
-  Nifty PSU Bank index slipped 0.78% to 7,468, with Indian Bank, Canara Bank, and PNB among the top decliners. SBI and Bank of Baroda also dipped, despite RBI raising FY26
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-mpc-outcome-psu-bank-stocks-slide-up-to-1-5-after-rbi-holds-rates-steady-at-5-5/articleshow/124249257.cms
-
-- Netweb Technologies shares surge 13% to record high, rally 170% in 6 months! Here’s why
-  Shares of Netweb Technologies surged to a record Rs 4,108 on the NSE, up 13%. The stock's momentum is driven by India’s digital infrastructure growth, AI adoption, data localisation policies.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/netweb-technologies-shares-surge-13-to-record-high-rally-170-in-6-months-heres-why/articleshow/124248957.cms
-
-- Anand Rathi Share and Stock Brokers shares rally 13% from IPO price in 2 days as investor demand stays strong
-  Anand Rathi shares surged up to 12.7% driven by strong retail participation and positive market sentiment. Intraday gains of
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/anand-rathi-share-and-stock-brokers-shares-rally-13-from-ipo-price-in-2-days-as-investor-demand-stays-strong/articleshow/124248898.cms
-
-- "Most Beautiful": Trump Says Asim Munir Praised Him For India-Pakistan Truce - NDTV
-  "Most Beautiful": Trump Says Asim Mun
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmVUM2pHN3pMTXhDRDlCeVR3bUhHamR0cG9vdnVRR05aRFNWTjVfb0NlemNCMEdKUlRvX3pGZkE0OURNZmZoLW1WUFhyNmtmMGNtcjlmMlI1ZWM2NEhoRWlRLWVQTERHaEhXcGZsLVhzU2lKLUdMR1RRNzZtYjczT3UtdUdvOS1PLTZkbE9kU0MxZnJGOXVUMmlwQ2dvWlVCdEVDZnRlTFh5ZjNIOTRxMm9qS3hrZ9IBvgFBVV95cUxQOVJsMDFuU3ZOREFDbjhrMTN3Z0ZadVZGYzR0ZllONno2VmNOYnluUHVsM21MUERmekl6OWZsa2RJVVp1cWRkMlk0aVZDWkhHVVZJNFlnSE5idHQtQkctVzdmclNOSXB3WmdQbGZMR3dXbmZRelBfbkVJUkd6SHgxaExUNE9WTmJrQjRVOVRlQTNEdTc5clhmZ1FyeVVUSEFvbk1nVFhKSWxSZ0lCXy1tb3FPN1BMc2o0Vl9IRUN3?oc=5
+- '7 Jets Were Shot Down': Trump Repeats Claim That He "Settled" India-Pak War - NDTV
+  '7 Jets Were Shot Down': Trump Repeats Claim
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFEycHVFX2c4N3pFUHltSkRuMXhOWExieDl3MVJ6dkVaVUY0ZjJaWENub2JOUndQLTd5bFRnUUM3dnBzWl85UUFqSVp4V3prZ3JHb0hOT2lFSjRjMjh6VEdaenBvZ3EycHpkMUxrc2kxaW45NjhVUzRUVjFMY2ZBVjR1U3E2dDF6YmZnUm44NEdJdW84TUFNdGpDeVFiWkhDU1N2TmNyMFV5T3hl0gG0AUFVX3lxTFBYT0ZHNEhxSlMwYU5rNHQ2Y3dkci1FekRoZkkwcGRjbmp1M25nZ3VaMHF3UDdiR3FZaUhzeUotellycTA3OVFENEZQRDVKV0NpUkNvOUFfZURMMVBwR2NucU1NNHMxdHJkUzVPQlVGZl8xallhSDdGY3c3NUtrQmI3Z3pKNlBlNlVwQTNTc0lVR1dEVnZrczhzMlh0U2JZQlNfalg1MGN2YWh3b2JWNW0wajdkUw?oc=5
 
 - Trump shares his ‘favourite word in the dictionary’, carries meaning for India - Hindustan Times
   Trump shares his ‘favourite word in the
   🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPMmZXeHVWc3hoVEpHWFJ4clZjRlZjcUxIU2hyWHFReWE1dVNlcWN0U00yVzF5SndOSjY0clVyc0toWWY3RHM3SWZYaE0tNWRLa3FzSC1FQkY4ZElZMGN0M25EWThOODV5S1dUTmV0a0VVZUFQWmNZS1JyZFZOaDE0WDFoZUlQQ1hpdWFETjFrSXdEVjh2TXRPRFhLLTVwZFB1cXo2RlNud1FEak54RUtSU1lkUlFUVzNBcWY2ZWtBRGxYNkJzdDJOLVFtZDRVVGplUV84dzBhOFBuM0RmN0plTUlFZnRlUUNBVE83N202eTY0ZmZrY1NxaHhCbDVHNE5Fd3YxcHhn?oc=5
 
-- ‘Most beautiful thing’: US President Donald Trump claims Asim Munir thanked him for India-Pakistan truce - Mint
-  ‘Most beautiful thing’: US President Donald Trump claims
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSFJWdjJyRldMMmI5TkdDbGpfeWFvLUZ4NUxKdGJqaGZ6WFBxbFJPemo5UVhtUDlaa0JrU0RDWC1TWUstZHFsRFlyWWZPQmM3dlB0LTU0RXRCSkRPRHcxSG5xdHMwR3pGSnp6RVB3V3hiRzdYTThXNW8yLWt4MzNsUHpVTjFJeGRmcmIwa2E3R3lnaWVYRGNNOGt0TmxNdVY4ZlVYOVQtc1k2dzdQSkdscmJ3RWVRcXZLMWluN1BybjdOWFdsU2pzelM5ZW1JVUdIOGxidXdqMTIwX2wyWG93dlNrb2pkN0ZSTXdLWF9n0gHzAUFVX3lxTE9wZnp0ME9KRVd0SGtua1BXZ3ROR1lkbVFqMXg0c3BlX2tZMXFRVHY4LUZBclZncjduQkpNZlQ2UmdpR1dXWUw4NnpFQ09mMENmRUlIaU4tRmtjTHdLSE96dWlCQzZWbmx3dV9QbmlIWld2NlNZV0NDcXlSWGFoclhodFdBZVdNal9VVTZrMVoxLWxoMnA5TEJTQjZvd3pCMTZVcWVJeDJLZFVEYUdNQzlFR0N5amxEUUU0cGNiR0p3aGx3bGZoZVFrdG1LRURvQXVUcG1saFpFemtYdGMweE51Wjg3NktSRFFaazhSYWo1dHd4dw?oc=5
+- India's trade deal with four European nations comes into effect - BBC
+  India's trade deal with four European nations
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDOVBwUjJNbjdNVWtLRERGMVNaTHFzZnU4OHo1Q19KWDVQMHpibEJIdTNwbUdHcUxxa3VqbnBoNHJ4RUhMczIxc2puLVBfWXhiMzdTbzN4M2lxZ9IBX0FVX3lxTE5BVFo0ZkVHbHA0cG9QSGVTRnVEUDlSYXIydUpqajN2N2ZkQl93TTE4U0N4ZG5hUFJJdFlTSEF0cUg1S0JlMHJHOXN0aC1Oa2F5Ulo4cEE2WVFSNU4yaFVB?oc=5
 
-- Pakistan told to 'never play against India' after Asia Cup presentation ceremony row: 'This cheap behaviour...' | Cricket - Hindustan Times
-  Pakistan told to 'never play against India' after Asia Cup presentation ceremony row. '
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNakVzclA5OVFBUFJHMWtGLXpIanI2TUE3OXpOTkJ2STVXSUFpaTQ2aDc1THBncUc1SHYxZVIwVmlfM0ZXdFhpTXNGNFQxSC10MEFkUWY3V05SUVNXcVNZQk5GN0hneU9nYklfNVNjQjN3cjdYb1N6SkF3bk9fYlNUQ3NuQmNPazR5T1lJeFI3MVNxV3JaaFAyUmpoN3R4bjVlTHB3VTBHN25yRWlRbGx1ek5FTlNlRVNFTDJVWGE1anZNZ2JKb3JRMk9td2FOLXJQTXJQYmFCT2pqWThNV2wxdG1zNlFfRGdoUEJMWk5CQUhFYldVUUp1STBB0gH_AUFVX3lxTFBmLWgwcEhaS0w2Ml9tZjN6OFFxcDI0ZG5kWXNMZzhvc19rSVI3TVBTVzA5NmQyLWpCeEFjYk1zVVMwcldPeG9FQWg0eUtETmd2SHZnUlFEZlV5RnVoLUVXRXhRM3NIM1dsczlSSWZ0ZDljbDRHNHBvRTZBcG9DSVVoQWU2ZHhnZEZacGJLcjdpcW9mTGs4QXVlZHpTY01EVHFKcnotS1Z6Y3R6alRhOEFwRXdIZ1lrLUJSb3prLVA5V2RDNXdCSHVoYzlFZm5nbVhLbWNYRzlheHZvdUVWc3pNRWlYUnVpNm10Sl9XdmJsMzFYbFZURzhwVkhOUVdpWQ?oc=5
+- Rajesh Agrawal takes charge as Commerce Secretary - The Indian Express
+  Rajesh Agrawal takes
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPb0NDVHhrYnFQMTNPUEkxbXVXTTh0RUFtTmJMQVRsa2FQNXl2MmsxbTZZb29yRklSYU42V09hbFRoZkZoT3pvdTY5aThLSThrczc1dlNzS0tvNW1lZUMzRDc3cHkyN0szbXdUcnNSNWczOG1aTkF4dE1CNXA1c0lKcWVkQ3lVZFNsdlJyNi02eEpEemtyVjNXdkxsQk9SRmFM0gGnAUFVX3lxTE1ib240dWFsMndFY2h2TUdSanFyMm9jamNENHRhdGtac1duQVFCZU80NUVuU0VnazVSY2dxeFVNQTdOWEpKTlVFVDRENHFHNEJCT0V6QzhYbGxVdThockRsYXQ2Y19yaVBrdDg0TFdjMzN2eG9pQ2pMa2dkY1ptUjJjWHFHM0NSSTU2UVZDS3FFX1dONDd5NW1aNUdsTnRWTy0zQjBSd3dV?oc=5
 
-- Why did India refuse to accept the Asia Cup trophy after beating Pakistan? - Al Jazeera
-  Why did India refuse to accept the Asia Cup trophy after beating
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXpXckt0UnBTNFhpQVBpcUVxc1o0SmotRXZVNmxpaGpiZEhNX3hGSTFPTTA0aC1oZFlTSHdKRGdFazNHNFBROWhTVk5SQkc2alVyS21uOWtOS0VzZmJaSTZLaWZlUlZtdDlIMDBiMnhNWnhtU3V4Z2FOaWJzZjMwVzRHaWRxUGhaZFA1Qm1xNmw4d1ZTME5DbEVlNWc5Qmx0Mm9CS2VWNzFUTzF5RmNVRnYwbzDSAboBQVVfeXFMTUYxaExkclpBV1NNUENCdzItYWlkMTdJLU9CeHBRTkFqalNhU28zN1VyS3hCZ2ZtY255eVNGS0VqaUFrSzB3MGpwSm5sS0l5NXRQYTI3NlNzVnRsSTJDTjk1Z2p6a05Cc2ZEY2NoczNsbm1KMEo0bkF5OWE1UWN0T01qS0RDVnZHUHlnVTRKSnJjSVdfY1lMZkp5ZGdQRENPRlRJaTlSQVgya3otci1QV2U3M0JjNDJFQmdn?oc=5
+- "Operation Sindoor On Field": PM Modi After India Beat Pak In Asia Cup Final - NDTV
+  "Operation Sindoor On Field": PM Modi After India Beat
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eGtxcGF4NU4wdE5OdFItYlA3c0tHejQ1ajNldjRtTFlpdDItdDdMTHNsb0U0bUJlZC10dlFPN3NacWkzS0JXN1VLc1JHeDhyaEhhOHJmaVNUaUxDY2ltQXV6ei03VGh4YkItTHNNUzdVYVNzQzBB0gHeAUFVX3lxTE5RZ1NlcTlHN0EzdzdrVlRSRlRRMlZlcTFHSExDbGlHZ3I1TzQ5azU2cDRwRllRVThVSjhiWVU1bXdHbU00ejl1UHlnMFo1WGJLdVQyczRYeXhFOE1ESm93TnlaVHIzaFVudE13ekx3QlNBeTBvUmI3eGlROS1qUlVTN0h5aEdwa1ZZRUdQeTEtSXFremNYWUpzRTlmd2MtemVGYXFNQ2VDNEY1dEhhZ1F2V0dPMWFiLWpRRU15UmVyNXEtUUFobmxlNTJxaWYzYy1BZmhWTDhneWVYMWw5QQ?oc=5
 
-- "Most Beautiful": Trump Says Asim Munir Praised Him For India-Pakistan Truce - NDTV
-  "Most Beautiful": Trump Says Asim Mun
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmVUM2pHN3pMTXhDRDlCeVR3bUhHamR0cG9vdnVRR05aRFNWTjVfb0NlemNCMEdKUlRvX3pGZkE0OURNZmZoLW1WUFhyNmtmMGNtcjlmMlI1ZWM2NEhoRWlRLWVQTERHaEhXcGZsLVhzU2lKLUdMR1RRNzZtYjczT3UtdUdvOS1PLTZkbE9kU0MxZnJGOXVUMmlwQ2dvWlVCdEVDZnRlTFh5ZjNIOTRxMm9qS3hrZ9IBvgFBVV95cUxQOVJsMDFuU3ZOREFDbjhrMTN3Z0ZadVZGYzR0ZllONno2VmNOYnluUHVsM21MUERmekl6OWZsa2RJVVp1cWRkMlk0aVZDWkhHVVZJNFlnSE5idHQtQkctVzdmclNOSXB3WmdQbGZMR3dXbmZRelBfbkVJUkd6SHgxaExUNE9WTmJrQjRVOVRlQTNEdTc5clhmZ1FyeVVUSEFvbk1nVFhKSWxSZ0lCXy1tb3FPN1BMc2o0Vl9IRUN3?oc=5
-
-- Trump shares his ‘favourite word in the dictionary’, carries meaning for India - Hindustan Times
-  Trump shares his ‘favourite word in the
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPMmZXeHVWc3hoVEpHWFJ4clZjRlZjcUxIU2hyWHFReWE1dVNlcWN0U00yVzF5SndOSjY0clVyc0toWWY3RHM3SWZYaE0tNWRLa3FzSC1FQkY4ZElZMGN0M25EWThOODV5S1dUTmV0a0VVZUFQWmNZS1JyZFZOaDE0WDFoZUlQQ1hpdWFETjFrSXdEVjh2TXRPRFhLLTVwZFB1cXo2RlNud1FEak54RUtSU1lkUlFUVzNBcWY2ZWtBRGxYNkJzdDJOLVFtZDRVVGplUV84dzBhOFBuM0RmN0plTUlFZnRlUUNBVE83N202eTY0ZmZrY1NxaHhCbDVHNE5Fd3YxcHhn?oc=5
-
-- ‘Most beautiful thing’: US President Donald Trump claims Asim Munir thanked him for India-Pakistan truce - Mint
-  ‘Most beautiful thing’: US President Donald Trump claims
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSFJWdjJyRldMMmI5TkdDbGpfeWFvLUZ4NUxKdGJqaGZ6WFBxbFJPemo5UVhtUDlaa0JrU0RDWC1TWUstZHFsRFlyWWZPQmM3dlB0LTU0RXRCSkRPRHcxSG5xdHMwR3pGSnp6RVB3V3hiRzdYTThXNW8yLWt4MzNsUHpVTjFJeGRmcmIwa2E3R3lnaWVYRGNNOGt0TmxNdVY4ZlVYOVQtc1k2dzdQSkdscmJ3RWVRcXZLMWluN1BybjdOWFdsU2pzelM5ZW1JVUdIOGxidXdqMTIwX2wyWG93dlNrb2pkN0ZSTXdLWF9n0gHzAUFVX3lxTE9wZnp0ME9KRVd0SGtua1BXZ3ROR1lkbVFqMXg0c3BlX2tZMXFRVHY4LUZBclZncjduQkpNZlQ2UmdpR1dXWUw4NnpFQ09mMENmRUlIaU4tRmtjTHdLSE96dWlCQzZWbmx3dV9QbmlIWld2NlNZV0NDcXlSWGFoclhodFdBZVdNal9VVTZrMVoxLWxoMnA5TEJTQjZvd3pCMTZVcWVJeDJLZFVEYUdNQzlFR0N5amxEUUU0cGNiR0p3aGx3bGZoZVFrdG1LRURvQXVUcG1saFpFemtYdGMweE51Wjg3NktSRFFaazhSYWo1dHd4dw?oc=5
-
-- Pakistan told to 'never play against India' after Asia Cup presentation ceremony row: 'This cheap behaviour...' | Cricket - Hindustan Times
-  Pakistan told to 'never play against India' after Asia Cup presentation ceremony row. '
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNakVzclA5OVFBUFJHMWtGLXpIanI2TUE3OXpOTkJ2STVXSUFpaTQ2aDc1THBncUc1SHYxZVIwVmlfM0ZXdFhpTXNGNFQxSC10MEFkUWY3V05SUVNXcVNZQk5GN0hneU9nYklfNVNjQjN3cjdYb1N6SkF3bk9fYlNUQ3NuQmNPazR5T1lJeFI3MVNxV3JaaFAyUmpoN3R4bjVlTHB3VTBHN25yRWlRbGx1ek5FTlNlRVNFTDJVWGE1anZNZ2JKb3JRMk9td2FOLXJQTXJQYmFCT2pqWThNV2wxdG1zNlFfRGdoUEJMWk5CQUhFYldVUUp1STBB0gH_AUFVX3lxTFBmLWgwcEhaS0w2Ml9tZjN6OFFxcDI0ZG5kWXNMZzhvc19rSVI3TVBTVzA5NmQyLWpCeEFjYk1zVVMwcldPeG9FQWg0eUtETmd2SHZnUlFEZlV5RnVoLUVXRXhRM3NIM1dsczlSSWZ0ZDljbDRHNHBvRTZBcG9DSVVoQWU2ZHhnZEZacGJLcjdpcW9mTGs4QXVlZHpTY01EVHFKcnotS1Z6Y3R6alRhOEFwRXdIZ1lrLUJSb3prLVA5V2RDNXdCSHVoYzlFZm5nbVhLbWNYRzlheHZvdUVWc3pNRWlYUnVpNm10Sl9XdmJsMzFYbFZURzhwVkhOUVdpWQ?oc=5
-
-- Why did India refuse to accept the Asia Cup trophy after beating Pakistan? - Al Jazeera
-  Why did India refuse to accept the Asia Cup trophy after beating
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXpXckt0UnBTNFhpQVBpcUVxc1o0SmotRXZVNmxpaGpiZEhNX3hGSTFPTTA0aC1oZFlTSHdKRGdFazNHNFBROWhTVk5SQkc2alVyS21uOWtOS0VzZmJaSTZLaWZlUlZtdDlIMDBiMnhNWnhtU3V4Z2FOaWJzZjMwVzRHaWRxUGhaZFA1Qm1xNmw4d1ZTME5DbEVlNWc5Qmx0Mm9CS2VWNzFUTzF5RmNVRnYwbzDSAboBQVVfeXFMTUYxaExkclpBV1NNUENCdzItYWlkMTdJLU9CeHBRTkFqalNhU28zN1VyS3hCZ2ZtY255eVNGS0VqaUFrSzB3MGpwSm5sS0l5NXRQYTI3NlNzVnRsSTJDTjk1Z2p6a05Cc2ZEY2NoczNsbm1KMEo0bkF5OWE1UWN0T01qS0RDVnZHUHlnVTRKSnJjSVdfY1lMZkp5ZGdQRENPRlRJaTlSQVgya3otci1QV2U3M0JjNDJFQmdn?oc=5
-
-- "Most Beautiful": Trump Says Asim Munir Praised Him For India-Pakistan Truce - NDTV
-  "Most Beautiful": Trump Says Asim Mun
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmVUM2pHN3pMTXhDRDlCeVR3bUhHamR0cG9vdnVRR05aRFNWTjVfb0NlemNCMEdKUlRvX3pGZkE0OURNZmZoLW1WUFhyNmtmMGNtcjlmMlI1ZWM2NEhoRWlRLWVQTERHaEhXcGZsLVhzU2lKLUdMR1RRNzZtYjczT3UtdUdvOS1PLTZkbE9kU0MxZnJGOXVUMmlwQ2dvWlVCdEVDZnRlTFh5ZjNIOTRxMm9qS3hrZ9IBvgFBVV95cUxQOVJsMDFuU3ZOREFDbjhrMTN3Z0ZadVZGYzR0ZllONno2VmNOYnluUHVsM21MUERmekl6OWZsa2RJVVp1cWRkMlk0aVZDWkhHVVZJNFlnSE5idHQtQkctVzdmclNOSXB3WmdQbGZMR3dXbmZRelBfbkVJUkd6SHgxaExUNE9WTmJrQjRVOVRlQTNEdTc5clhmZ1FyeVVUSEFvbk1nVFhKSWxSZ0lCXy1tb3FPN1BMc2o0Vl9IRUN3?oc=5
+- '7 Jets Were Shot Down': Trump Repeats Claim That He "Settled" India-Pak War - NDTV
+  '7 Jets Were Shot Down': Trump Repeats Claim
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFEycHVFX2c4N3pFUHltSkRuMXhOWExieDl3MVJ6dkVaVUY0ZjJaWENub2JOUndQLTd5bFRnUUM3dnBzWl85UUFqSVp4V3prZ3JHb0hOT2lFSjRjMjh6VEdaenBvZ3EycHpkMUxrc2kxaW45NjhVUzRUVjFMY2ZBVjR1U3E2dDF6YmZnUm44NEdJdW84TUFNdGpDeVFiWkhDU1N2TmNyMFV5T3hl0gG0AUFVX3lxTFBYT0ZHNEhxSlMwYU5rNHQ2Y3dkci1FekRoZkkwcGRjbmp1M25nZ3VaMHF3UDdiR3FZaUhzeUotellycTA3OVFENEZQRDVKV0NpUkNvOUFfZURMMVBwR2NucU1NNHMxdHJkUzVPQlVGZl8xallhSDdGY3c3NUtrQmI3Z3pKNlBlNlVwQTNTc0lVR1dEVnZrczhzMlh0U2JZQlNfalg1MGN2YWh3b2JWNW0wajdkUw?oc=5
 
 - Trump shares his ‘favourite word in the dictionary’, carries meaning for India - Hindustan Times
   Trump shares his ‘favourite word in the
   🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPMmZXeHVWc3hoVEpHWFJ4clZjRlZjcUxIU2hyWHFReWE1dVNlcWN0U00yVzF5SndOSjY0clVyc0toWWY3RHM3SWZYaE0tNWRLa3FzSC1FQkY4ZElZMGN0M25EWThOODV5S1dUTmV0a0VVZUFQWmNZS1JyZFZOaDE0WDFoZUlQQ1hpdWFETjFrSXdEVjh2TXRPRFhLLTVwZFB1cXo2RlNud1FEak54RUtSU1lkUlFUVzNBcWY2ZWtBRGxYNkJzdDJOLVFtZDRVVGplUV84dzBhOFBuM0RmN0plTUlFZnRlUUNBVE83N202eTY0ZmZrY1NxaHhCbDVHNE5Fd3YxcHhn?oc=5
 
-- ‘Most beautiful thing’: US President Donald Trump claims Asim Munir thanked him for India-Pakistan truce - Mint
-  ‘Most beautiful thing’: US President Donald Trump claims
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSFJWdjJyRldMMmI5TkdDbGpfeWFvLUZ4NUxKdGJqaGZ6WFBxbFJPemo5UVhtUDlaa0JrU0RDWC1TWUstZHFsRFlyWWZPQmM3dlB0LTU0RXRCSkRPRHcxSG5xdHMwR3pGSnp6RVB3V3hiRzdYTThXNW8yLWt4MzNsUHpVTjFJeGRmcmIwa2E3R3lnaWVYRGNNOGt0TmxNdVY4ZlVYOVQtc1k2dzdQSkdscmJ3RWVRcXZLMWluN1BybjdOWFdsU2pzelM5ZW1JVUdIOGxidXdqMTIwX2wyWG93dlNrb2pkN0ZSTXdLWF9n0gHzAUFVX3lxTE9wZnp0ME9KRVd0SGtua1BXZ3ROR1lkbVFqMXg0c3BlX2tZMXFRVHY4LUZBclZncjduQkpNZlQ2UmdpR1dXWUw4NnpFQ09mMENmRUlIaU4tRmtjTHdLSE96dWlCQzZWbmx3dV9QbmlIWld2NlNZV0NDcXlSWGFoclhodFdBZVdNal9VVTZrMVoxLWxoMnA5TEJTQjZvd3pCMTZVcWVJeDJLZFVEYUdNQzlFR0N5amxEUUU0cGNiR0p3aGx3bGZoZVFrdG1LRURvQXVUcG1saFpFemtYdGMweE51Wjg3NktSRFFaazhSYWo1dHd4dw?oc=5
+- India's trade deal with four European nations comes into effect - BBC
+  India's trade deal with four European nations
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDOVBwUjJNbjdNVWtLRERGMVNaTHFzZnU4OHo1Q19KWDVQMHpibEJIdTNwbUdHcUxxa3VqbnBoNHJ4RUhMczIxc2puLVBfWXhiMzdTbzN4M2lxZ9IBX0FVX3lxTE5BVFo0ZkVHbHA0cG9QSGVTRnVEUDlSYXIydUpqajN2N2ZkQl93TTE4U0N4ZG5hUFJJdFlTSEF0cUg1S0JlMHJHOXN0aC1Oa2F5Ulo4cEE2WVFSNU4yaFVB?oc=5
 
-- Pakistan told to 'never play against India' after Asia Cup presentation ceremony row: 'This cheap behaviour...' | Cricket - Hindustan Times
-  Pakistan told to 'never play against India' after Asia Cup presentation ceremony row. '
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNakVzclA5OVFBUFJHMWtGLXpIanI2TUE3OXpOTkJ2STVXSUFpaTQ2aDc1THBncUc1SHYxZVIwVmlfM0ZXdFhpTXNGNFQxSC10MEFkUWY3V05SUVNXcVNZQk5GN0hneU9nYklfNVNjQjN3cjdYb1N6SkF3bk9fYlNUQ3NuQmNPazR5T1lJeFI3MVNxV3JaaFAyUmpoN3R4bjVlTHB3VTBHN25yRWlRbGx1ek5FTlNlRVNFTDJVWGE1anZNZ2JKb3JRMk9td2FOLXJQTXJQYmFCT2pqWThNV2wxdG1zNlFfRGdoUEJMWk5CQUhFYldVUUp1STBB0gH_AUFVX3lxTFBmLWgwcEhaS0w2Ml9tZjN6OFFxcDI0ZG5kWXNMZzhvc19rSVI3TVBTVzA5NmQyLWpCeEFjYk1zVVMwcldPeG9FQWg0eUtETmd2SHZnUlFEZlV5RnVoLUVXRXhRM3NIM1dsczlSSWZ0ZDljbDRHNHBvRTZBcG9DSVVoQWU2ZHhnZEZacGJLcjdpcW9mTGs4QXVlZHpTY01EVHFKcnotS1Z6Y3R6alRhOEFwRXdIZ1lrLUJSb3prLVA5V2RDNXdCSHVoYzlFZm5nbVhLbWNYRzlheHZvdUVWc3pNRWlYUnVpNm10Sl9XdmJsMzFYbFZURzhwVkhOUVdpWQ?oc=5
+- Rajesh Agrawal takes charge as Commerce Secretary - The Indian Express
+  Rajesh Agrawal takes
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPb0NDVHhrYnFQMTNPUEkxbXVXTTh0RUFtTmJMQVRsa2FQNXl2MmsxbTZZb29yRklSYU42V09hbFRoZkZoT3pvdTY5aThLSThrczc1dlNzS0tvNW1lZUMzRDc3cHkyN0szbXdUcnNSNWczOG1aTkF4dE1CNXA1c0lKcWVkQ3lVZFNsdlJyNi02eEpEemtyVjNXdkxsQk9SRmFM0gGnAUFVX3lxTE1ib240dWFsMndFY2h2TUdSanFyMm9jamNENHRhdGtac1duQVFCZU80NUVuU0VnazVSY2dxeFVNQTdOWEpKTlVFVDRENHFHNEJCT0V6QzhYbGxVdThockRsYXQ2Y19yaVBrdDg0TFdjMzN2eG9pQ2pMa2dkY1ptUjJjWHFHM0NSSTU2UVZDS3FFX1dONDd5NW1aNUdsTnRWTy0zQjBSd3dV?oc=5
 
-- Why did India refuse to accept the Asia Cup trophy after beating Pakistan? - Al Jazeera
-  Why did India refuse to accept the Asia Cup trophy after beating
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXpXckt0UnBTNFhpQVBpcUVxc1o0SmotRXZVNmxpaGpiZEhNX3hGSTFPTTA0aC1oZFlTSHdKRGdFazNHNFBROWhTVk5SQkc2alVyS21uOWtOS0VzZmJaSTZLaWZlUlZtdDlIMDBiMnhNWnhtU3V4Z2FOaWJzZjMwVzRHaWRxUGhaZFA1Qm1xNmw4d1ZTME5DbEVlNWc5Qmx0Mm9CS2VWNzFUTzF5RmNVRnYwbzDSAboBQVVfeXFMTUYxaExkclpBV1NNUENCdzItYWlkMTdJLU9CeHBRTkFqalNhU28zN1VyS3hCZ2ZtY255eVNGS0VqaUFrSzB3MGpwSm5sS0l5NXRQYTI3NlNzVnRsSTJDTjk1Z2p6a05Cc2ZEY2NoczNsbm1KMEo0bkF5OWE1UWN0T01qS0RDVnZHUHlnVTRKSnJjSVdfY1lMZkp5ZGdQRENPRlRJaTlSQVgya3otci1QV2U3M0JjNDJFQmdn?oc=5
+- "Operation Sindoor On Field": PM Modi After India Beat Pak In Asia Cup Final - NDTV
+  "Operation Sindoor On Field": PM Modi After India Beat
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eGtxcGF4NU4wdE5OdFItYlA3c0tHejQ1ajNldjRtTFlpdDItdDdMTHNsb0U0bUJlZC10dlFPN3NacWkzS0JXN1VLc1JHeDhyaEhhOHJmaVNUaUxDY2ltQXV6ei03VGh4YkItTHNNUzdVYVNzQzBB0gHeAUFVX3lxTE5RZ1NlcTlHN0EzdzdrVlRSRlRRMlZlcTFHSExDbGlHZ3I1TzQ5azU2cDRwRllRVThVSjhiWVU1bXdHbU00ejl1UHlnMFo1WGJLdVQyczRYeXhFOE1ESm93TnlaVHIzaFVudE13ekx3QlNBeTBvUmI3eGlROS1qUlVTN0h5aEdwa1ZZRUdQeTEtSXFremNYWUpzRTlmd2MtemVGYXFNQ2VDNEY1dEhhZ1F2V0dPMWFiLWpRRU15UmVyNXEtUUFobmxlNTJxaWYzYy1BZmhWTDhneWVYMWw5QQ?oc=5
 
-- "Most Beautiful": Trump Says Asim Munir Praised Him For India-Pakistan Truce - NDTV
-  "Most Beautiful": Trump Says Asim Mun
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmVUM2pHN3pMTXhDRDlCeVR3bUhHamR0cG9vdnVRR05aRFNWTjVfb0NlemNCMEdKUlRvX3pGZkE0OURNZmZoLW1WUFhyNmtmMGNtcjlmMlI1ZWM2NEhoRWlRLWVQTERHaEhXcGZsLVhzU2lKLUdMR1RRNzZtYjczT3UtdUdvOS1PLTZkbE9kU0MxZnJGOXVUMmlwQ2dvWlVCdEVDZnRlTFh5ZjNIOTRxMm9qS3hrZ9IBvgFBVV95cUxQOVJsMDFuU3ZOREFDbjhrMTN3Z0ZadVZGYzR0ZllONno2VmNOYnluUHVsM21MUERmekl6OWZsa2RJVVp1cWRkMlk0aVZDWkhHVVZJNFlnSE5idHQtQkctVzdmclNOSXB3WmdQbGZMR3dXbmZRelBfbkVJUkd6SHgxaExUNE9WTmJrQjRVOVRlQTNEdTc5clhmZ1FyeVVUSEFvbk1nVFhKSWxSZ0lCXy1tb3FPN1BMc2o0Vl9IRUN3?oc=5
+- '7 Jets Were Shot Down': Trump Repeats Claim That He "Settled" India-Pak War - NDTV
+  '7 Jets Were Shot Down': Trump Repeats Claim
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFEycHVFX2c4N3pFUHltSkRuMXhOWExieDl3MVJ6dkVaVUY0ZjJaWENub2JOUndQLTd5bFRnUUM3dnBzWl85UUFqSVp4V3prZ3JHb0hOT2lFSjRjMjh6VEdaenBvZ3EycHpkMUxrc2kxaW45NjhVUzRUVjFMY2ZBVjR1U3E2dDF6YmZnUm44NEdJdW84TUFNdGpDeVFiWkhDU1N2TmNyMFV5T3hl0gG0AUFVX3lxTFBYT0ZHNEhxSlMwYU5rNHQ2Y3dkci1FekRoZkkwcGRjbmp1M25nZ3VaMHF3UDdiR3FZaUhzeUotellycTA3OVFENEZQRDVKV0NpUkNvOUFfZURMMVBwR2NucU1NNHMxdHJkUzVPQlVGZl8xallhSDdGY3c3NUtrQmI3Z3pKNlBlNlVwQTNTc0lVR1dEVnZrczhzMlh0U2JZQlNfalg1MGN2YWh3b2JWNW0wajdkUw?oc=5
 
 - Trump shares his ‘favourite word in the dictionary’, carries meaning for India - Hindustan Times
   Trump shares his ‘favourite word in the
   🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPMmZXeHVWc3hoVEpHWFJ4clZjRlZjcUxIU2hyWHFReWE1dVNlcWN0U00yVzF5SndOSjY0clVyc0toWWY3RHM3SWZYaE0tNWRLa3FzSC1FQkY4ZElZMGN0M25EWThOODV5S1dUTmV0a0VVZUFQWmNZS1JyZFZOaDE0WDFoZUlQQ1hpdWFETjFrSXdEVjh2TXRPRFhLLTVwZFB1cXo2RlNud1FEak54RUtSU1lkUlFUVzNBcWY2ZWtBRGxYNkJzdDJOLVFtZDRVVGplUV84dzBhOFBuM0RmN0plTUlFZnRlUUNBVE83N202eTY0ZmZrY1NxaHhCbDVHNE5Fd3YxcHhn?oc=5
 
-- ‘Most beautiful thing’: US President Donald Trump claims Asim Munir thanked him for India-Pakistan truce - Mint
-  ‘Most beautiful thing’: US President Donald Trump claims
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSFJWdjJyRldMMmI5TkdDbGpfeWFvLUZ4NUxKdGJqaGZ6WFBxbFJPemo5UVhtUDlaa0JrU0RDWC1TWUstZHFsRFlyWWZPQmM3dlB0LTU0RXRCSkRPRHcxSG5xdHMwR3pGSnp6RVB3V3hiRzdYTThXNW8yLWt4MzNsUHpVTjFJeGRmcmIwa2E3R3lnaWVYRGNNOGt0TmxNdVY4ZlVYOVQtc1k2dzdQSkdscmJ3RWVRcXZLMWluN1BybjdOWFdsU2pzelM5ZW1JVUdIOGxidXdqMTIwX2wyWG93dlNrb2pkN0ZSTXdLWF9n0gHzAUFVX3lxTE9wZnp0ME9KRVd0SGtua1BXZ3ROR1lkbVFqMXg0c3BlX2tZMXFRVHY4LUZBclZncjduQkpNZlQ2UmdpR1dXWUw4NnpFQ09mMENmRUlIaU4tRmtjTHdLSE96dWlCQzZWbmx3dV9QbmlIWld2NlNZV0NDcXlSWGFoclhodFdBZVdNal9VVTZrMVoxLWxoMnA5TEJTQjZvd3pCMTZVcWVJeDJLZFVEYUdNQzlFR0N5amxEUUU0cGNiR0p3aGx3bGZoZVFrdG1LRURvQXVUcG1saFpFemtYdGMweE51Wjg3NktSRFFaazhSYWo1dHd4dw?oc=5
+- India's trade deal with four European nations comes into effect - BBC
+  India's trade deal with four European nations
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDOVBwUjJNbjdNVWtLRERGMVNaTHFzZnU4OHo1Q19KWDVQMHpibEJIdTNwbUdHcUxxa3VqbnBoNHJ4RUhMczIxc2puLVBfWXhiMzdTbzN4M2lxZ9IBX0FVX3lxTE5BVFo0ZkVHbHA0cG9QSGVTRnVEUDlSYXIydUpqajN2N2ZkQl93TTE4U0N4ZG5hUFJJdFlTSEF0cUg1S0JlMHJHOXN0aC1Oa2F5Ulo4cEE2WVFSNU4yaFVB?oc=5
 
-- Pakistan told to 'never play against India' after Asia Cup presentation ceremony row: 'This cheap behaviour...' | Cricket - Hindustan Times
-  Pakistan told to 'never play against India' after Asia Cup presentation ceremony row. '
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNakVzclA5OVFBUFJHMWtGLXpIanI2TUE3OXpOTkJ2STVXSUFpaTQ2aDc1THBncUc1SHYxZVIwVmlfM0ZXdFhpTXNGNFQxSC10MEFkUWY3V05SUVNXcVNZQk5GN0hneU9nYklfNVNjQjN3cjdYb1N6SkF3bk9fYlNUQ3NuQmNPazR5T1lJeFI3MVNxV3JaaFAyUmpoN3R4bjVlTHB3VTBHN25yRWlRbGx1ek5FTlNlRVNFTDJVWGE1anZNZ2JKb3JRMk9td2FOLXJQTXJQYmFCT2pqWThNV2wxdG1zNlFfRGdoUEJMWk5CQUhFYldVUUp1STBB0gH_AUFVX3lxTFBmLWgwcEhaS0w2Ml9tZjN6OFFxcDI0ZG5kWXNMZzhvc19rSVI3TVBTVzA5NmQyLWpCeEFjYk1zVVMwcldPeG9FQWg0eUtETmd2SHZnUlFEZlV5RnVoLUVXRXhRM3NIM1dsczlSSWZ0ZDljbDRHNHBvRTZBcG9DSVVoQWU2ZHhnZEZacGJLcjdpcW9mTGs4QXVlZHpTY01EVHFKcnotS1Z6Y3R6alRhOEFwRXdIZ1lrLUJSb3prLVA5V2RDNXdCSHVoYzlFZm5nbVhLbWNYRzlheHZvdUVWc3pNRWlYUnVpNm10Sl9XdmJsMzFYbFZURzhwVkhOUVdpWQ?oc=5
+- Rajesh Agrawal takes charge as Commerce Secretary - The Indian Express
+  Rajesh Agrawal takes
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPb0NDVHhrYnFQMTNPUEkxbXVXTTh0RUFtTmJMQVRsa2FQNXl2MmsxbTZZb29yRklSYU42V09hbFRoZkZoT3pvdTY5aThLSThrczc1dlNzS0tvNW1lZUMzRDc3cHkyN0szbXdUcnNSNWczOG1aTkF4dE1CNXA1c0lKcWVkQ3lVZFNsdlJyNi02eEpEemtyVjNXdkxsQk9SRmFM0gGnAUFVX3lxTE1ib240dWFsMndFY2h2TUdSanFyMm9jamNENHRhdGtac1duQVFCZU80NUVuU0VnazVSY2dxeFVNQTdOWEpKTlVFVDRENHFHNEJCT0V6QzhYbGxVdThockRsYXQ2Y19yaVBrdDg0TFdjMzN2eG9pQ2pMa2dkY1ptUjJjWHFHM0NSSTU2UVZDS3FFX1dONDd5NW1aNUdsTnRWTy0zQjBSd3dV?oc=5
 
-- Why did India refuse to accept the Asia Cup trophy after beating Pakistan? - Al Jazeera
-  Why did India refuse to accept the Asia Cup trophy after beating
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXpXckt0UnBTNFhpQVBpcUVxc1o0SmotRXZVNmxpaGpiZEhNX3hGSTFPTTA0aC1oZFlTSHdKRGdFazNHNFBROWhTVk5SQkc2alVyS21uOWtOS0VzZmJaSTZLaWZlUlZtdDlIMDBiMnhNWnhtU3V4Z2FOaWJzZjMwVzRHaWRxUGhaZFA1Qm1xNmw4d1ZTME5DbEVlNWc5Qmx0Mm9CS2VWNzFUTzF5RmNVRnYwbzDSAboBQVVfeXFMTUYxaExkclpBV1NNUENCdzItYWlkMTdJLU9CeHBRTkFqalNhU28zN1VyS3hCZ2ZtY255eVNGS0VqaUFrSzB3MGpwSm5sS0l5NXRQYTI3NlNzVnRsSTJDTjk1Z2p6a05Cc2ZEY2NoczNsbm1KMEo0bkF5OWE1UWN0T01qS0RDVnZHUHlnVTRKSnJjSVdfY1lMZkp5ZGdQRENPRlRJaTlSQVgya3otci1QV2U3M0JjNDJFQmdn?oc=5
+- "Operation Sindoor On Field": PM Modi After India Beat Pak In Asia Cup Final - NDTV
+  "Operation Sindoor On Field": PM Modi After India Beat
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eGtxcGF4NU4wdE5OdFItYlA3c0tHejQ1ajNldjRtTFlpdDItdDdMTHNsb0U0bUJlZC10dlFPN3NacWkzS0JXN1VLc1JHeDhyaEhhOHJmaVNUaUxDY2ltQXV6ei03VGh4YkItTHNNUzdVYVNzQzBB0gHeAUFVX3lxTE5RZ1NlcTlHN0EzdzdrVlRSRlRRMlZlcTFHSExDbGlHZ3I1TzQ5azU2cDRwRllRVThVSjhiWVU1bXdHbU00ejl1UHlnMFo1WGJLdVQyczRYeXhFOE1ESm93TnlaVHIzaFVudE13ekx3QlNBeTBvUmI3eGlROS1qUlVTN0h5aEdwa1ZZRUdQeTEtSXFremNYWUpzRTlmd2MtemVGYXFNQ2VDNEY1dEhhZ1F2V0dPMWFiLWpRRU15UmVyNXEtUUFobmxlNTJxaWYzYy1BZmhWTDhneWVYMWw5QQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- '7 Jets Were Shot Down': Trump Repeats Claim That He "Settled" India-Pak War - NDTV
+  '7 Jets Were Shot Down': Trump Repeats Claim
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFEycHVFX2c4N3pFUHltSkRuMXhOWExieDl3MVJ6dkVaVUY0ZjJaWENub2JOUndQLTd5bFRnUUM3dnBzWl85UUFqSVp4V3prZ3JHb0hOT2lFSjRjMjh6VEdaenBvZ3EycHpkMUxrc2kxaW45NjhVUzRUVjFMY2ZBVjR1U3E2dDF6YmZnUm44NEdJdW84TUFNdGpDeVFiWkhDU1N2TmNyMFV5T3hl0gG0AUFVX3lxTFBYT0ZHNEhxSlMwYU5rNHQ2Y3dkci1FekRoZkkwcGRjbmp1M25nZ3VaMHF3UDdiR3FZaUhzeUotellycTA3OVFENEZQRDVKV0NpUkNvOUFfZURMMVBwR2NucU1NNHMxdHJkUzVPQlVGZl8xallhSDdGY3c3NUtrQmI3Z3pKNlBlNlVwQTNTc0lVR1dEVnZrczhzMlh0U2JZQlNfalg1MGN2YWh3b2JWNW0wajdkUw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Trump shares his ‘favourite word in the dictionary’, carries meaning for India - Hindustan Times
+  Trump shares his ‘favourite word in the
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPMmZXeHVWc3hoVEpHWFJ4clZjRlZjcUxIU2hyWHFReWE1dVNlcWN0U00yVzF5SndOSjY0clVyc0toWWY3RHM3SWZYaE0tNWRLa3FzSC1FQkY4ZElZMGN0M25EWThOODV5S1dUTmV0a0VVZUFQWmNZS1JyZFZOaDE0WDFoZUlQQ1hpdWFETjFrSXdEVjh2TXRPRFhLLTVwZFB1cXo2RlNud1FEak54RUtSU1lkUlFUVzNBcWY2ZWtBRGxYNkJzdDJOLVFtZDRVVGplUV84dzBhOFBuM0RmN0plTUlFZnRlUUNBVE83N202eTY0ZmZrY1NxaHhCbDVHNE5Fd3YxcHhn?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- India's trade deal with four European nations comes into effect - BBC
+  India's trade deal with four European nations
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDOVBwUjJNbjdNVWtLRERGMVNaTHFzZnU4OHo1Q19KWDVQMHpibEJIdTNwbUdHcUxxa3VqbnBoNHJ4RUhMczIxc2puLVBfWXhiMzdTbzN4M2lxZ9IBX0FVX3lxTE5BVFo0ZkVHbHA0cG9QSGVTRnVEUDlSYXIydUpqajN2N2ZkQl93TTE4U0N4ZG5hUFJJdFlTSEF0cUg1S0JlMHJHOXN0aC1Oa2F5Ulo4cEE2WVFSNU4yaFVB?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Rajesh Agrawal takes charge as Commerce Secretary - The Indian Express
+  Rajesh Agrawal takes
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPb0NDVHhrYnFQMTNPUEkxbXVXTTh0RUFtTmJMQVRsa2FQNXl2MmsxbTZZb29yRklSYU42V09hbFRoZkZoT3pvdTY5aThLSThrczc1dlNzS0tvNW1lZUMzRDc3cHkyN0szbXdUcnNSNWczOG1aTkF4dE1CNXA1c0lKcWVkQ3lVZFNsdlJyNi02eEpEemtyVjNXdkxsQk9SRmFM0gGnAUFVX3lxTE1ib240dWFsMndFY2h2TUdSanFyMm9jamNENHRhdGtac1duQVFCZU80NUVuU0VnazVSY2dxeFVNQTdOWEpKTlVFVDRENHFHNEJCT0V6QzhYbGxVdThockRsYXQ2Y19yaVBrdDg0TFdjMzN2eG9pQ2pMa2dkY1ptUjJjWHFHM0NSSTU2UVZDS3FFX1dONDd5NW1aNUdsTnRWTy0zQjBSd3dV?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- "Operation Sindoor On Field": PM Modi After India Beat Pak In Asia Cup Final - NDTV
+  "Operation Sindoor On Field": PM Modi After India Beat
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeVMyTmFwVTFXa1NUWjVuX2tXamZ3MXBDU0xIbDlGQnI1VXVBOFpuSEMzbjhwUVoxVXBXSldoSmJqOFlMTEUta1ZGN3ZJQnNTWktQTnBXazJNQ0VUMW5QcTZKSjIySVF4eGtxcGF4NU4wdE5OdFItYlA3c0tHejQ1ajNldjRtTFlpdDItdDdMTHNsb0U0bUJlZC10dlFPN3NacWkzS0JXN1VLc1JHeDhyaEhhOHJmaVNUaUxDY2ltQXV6ei03VGh4YkItTHNNUzdVYVNzQzBB0gHeAUFVX3lxTE5RZ1NlcTlHN0EzdzdrVlRSRlRRMlZlcTFHSExDbGlHZ3I1TzQ5azU2cDRwRllRVThVSjhiWVU1bXdHbU00ejl1UHlnMFo1WGJLdVQyczRYeXhFOE1ESm93TnlaVHIzaFVudE13ekx3QlNBeTBvUmI3eGlROS1qUlVTN0h5aEdwa1ZZRUdQeTEtSXFremNYWUpzRTlmd2MtemVGYXFNQ2VDNEY1dEhhZ1F2V0dPMWFiLWpRRU15UmVyNXEtUUFobmxlNTJxaWYzYy1BZmhWTDhneWVYMWw5QQ?oc=5
 
 
-_Last updated: 2025-10-01 06:27:23 UTC_
+_Last updated: 2025-10-01 12:36:13 UTC_
