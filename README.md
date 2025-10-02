@@ -1,172 +1,184 @@
 # 📰 Daily News Summaries
 
-- PM Modi speaks to Cong leader Mallikarjun Kharge, wishes him speedy recovery
+- Magisterial inquiry ordered into Leh violence that killed four
   
-  🔗 https://indianexpress.com/article/india/pm-modi-speaks-kharge-wishes-him-speedy-recovery-10283462/
+  🔗 https://indianexpress.com/article/india/magisterial-inquiry-ordered-into-leh-violence-that-killed-four-10283857/
 
-- ‘Deeply ironical’: India slams Pakistan at UNHRC over its ‘human rights criticism of India’
+- Bihar surpasses Maharashtra, joins UP on top in Vande Bharat train count – Full list
   
-  🔗 https://indianexpress.com/article/india/india-slams-pakistan-unhrc-geneva-human-rights-criticism-10283350/
+  🔗 https://indianexpress.com/article/india/bihar-surpasses-maharashtra-joins-up-on-top-in-vande-bharat-train-count-full-list-10264411/
 
-- RSS chief Mohan Bhagwat hails Operation Sindoor, says Pahalgam attack ‘revealed India’s true friends’
+- Madhya Pradesh teacher couple arrested for abandoning newborn ‘for fear of losing govt job’
   
-  🔗 https://indianexpress.com/article/india/rss-mohan-bhagwat-vijayadashmi-speech-op-sindoor-pahalgam-10283348/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-teacher-couple-arrested-abandoning-newborn-govt-job-10283775/
 
-- Gold Today Rate, October 2: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- Delhi to Kolkata: India’s first assured transit time container train starts operations, promises delivery in 120 hours – check details
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-october-2-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10283341/
+  🔗 https://indianexpress.com/article/india/india-first-assured-transit-time-container-train-delhi-kolkata-delivery-120-hours-10283648/
 
-- News Today Live Updates, 2 October | PM Modi speaks to Kharge, wishes him speedy recovery
+- Wintrack, importer of personal massagers, quits India citing harassment and corruption at Chennai Customs; dept hits back
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-10-02-2025-news-headlines-10283125/
+  🔗 https://indianexpress.com/article/india/wintrack-quits-india-citing-harassment-corruption-chennai-customs-10283638/
+
+- Zoho’s Arattai: How to install it and five features that stand out
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/zohos-arattai-how-to-install-it-and-five-features-that-stand-out-10283975/
+
+- Google AI Mode now lets you search with pictures and get visual inspiration
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-ai-mode-now-lets-you-search-with-pictures-and-get-visual-inspiration-10283856/
+
+- Samsung may revive the Galaxy S26 Plus after poor Galaxy S25 Edge sales: Report
+  
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-may-revive-the-galaxy-s26-plus-after-poor-galaxy-s25-edge-sales-report-10283629/
+
+- Big Instagram update? Meta testing Reels as default tab on app
+  
+  🔗 https://indianexpress.com/article/technology/social/big-instagram-update-meta-testing-reels-as-default-tab-on-app-10283187/
 
 - Apple halts Vision Pro overhaul to focus on AI glasses: Report
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-halts-vision-pro-overhaul-to-focus-on-ai-glasses-report-10283263/
 
-- Spotify founder Daniel Ek’s next act: long bets in European defence, health
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/spotify-founder-daniel-eks-next-act-long-bets-in-european-defence-health-10283247/
+- Commerzbank Accuses Ex-Analyst of ‘Wholly Bogus’ Sex Assault Claims
+  Ex-Commerzbank AG analyst made up “wholly bogus’ sexual harassment allegations against a colleague, lawyers for the bank alleged.
+  🔗 https://www.livemint.com/companies/company-results/commerzbank-accuses-ex-analyst-of-wholly-bogus-sex-assault-claims-11759407230679.html
 
-- Meta to use AI chats to personalize content and ads from December
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-to-use-ai-chats-to-personalize-content-and-ads-from-december-10283242/
+- From gourmet fruits to artisanal breads, instant grocery delivery is going luxe
+  The shift reflects quick-commerce platforms' push to chart a viable path to
+  🔗 https://www.livemint.com/companies/start-ups/quick-commerce-premium-groceries-profitability-zomato-blinkit-swiggy-instamart-11759298512171.html
 
-- Qualcomm shifts chips to newer Arm tech as competition with Apple, MediaTek heats up
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/qualcomm-shifts-chips-to-newer-arm-tech-as-competition-with-apple-mediatek-heats-up-10283229/
+- Turkey Anticipates Manageable Fine to Settle Halkbank-US Dispute
+  Turkey anticipates settling a long-running dispute with the US administration over sanctions busting allegations against state lender.
+  🔗 https://www.livemint.com/companies/company-results/turkey-anticipates-manageable-fine-to-settle-halkbank-us-dispute-11759399939620.html
 
-- Meta to use AI chats to personalise content and ads from December
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-to-use-ai-chats-to-personalize-content-and-ads-from-december-10282485/
+- Ex-SocGen Banker, Traders Facing Insider Trial Over €18 Million Gains
+  An ex-Societe Generale SA banker and a group of traders are suspected of making about €18 million ($21.1 million) from an insider tip on a US stock.
+  🔗 https://www.livemint.com/companies/company-results/exsocgen-banker-traders-facing-insider-trial-over-18-million-gains-11759396895208.html
 
-- Sam Altman's OpenAI beats Elon Musk's SpaceX as ChatGPT-maker's valuation reaches $500 billion
-  The $500 billion valuation of OpenAI was reached after a deal in which current and former employees sold roughly $6.
-  🔗 https://www.livemint.com/companies/news/sam-altmans-openai-beats-elon-musks-spacex-as-chatgpt-makers-valuation-reaches-500-billion-11759383107149.html
+- Banks likely to report soft Q2 performance amid NIM pressures and higher credit costs: Axis Securities
+  Banks are expected to report another soft performance, according to a report by Axis Securities.
+  🔗 https://www.livemint.com/companies/company-results/banks-likely-to-report-soft-q2-performance-amid-nim-pressures-and-higher-credit-costs-axis-securities-11759395429095.html
 
-- Not Satya Nadella, this CEO is the richest Indian professional manager; has nearly 10x more net worth than Sundar Pichai
-  Jayshree Ullal of Arista Networks has also topped the list of the wealthiest Indian woman in the list. Radha Vem
-  🔗 https://www.livemint.com/companies/people/not-satya-nadella-jayshree-ullal-ceo-is-the-richest-indian-professional-manager-nearly-10x-more-net-worth-sundar-pichai-11759379434390.html
+- Adani Group stocks shine in volatile September; four rally up to 20%, with Adani Power leading gains
+  September brought significant gains for most Adani Group stocks. Adani Power leading at a 20.41% increase. Investor confidence surged after
+  🔗 https://www.livemint.com/market/stock-market-news/adani-group-stocks-shine-in-volatile-september-four-rally-up-to-20-with-adani-power-leading-gains-11759405841789.html
 
-- Google layoffs: Tech giant fires 100 employees amid AI push — Here's what we know
-  Google lays off 100 employees amid AI
-  🔗 https://www.livemint.com/companies/news/google-layoffs-tech-giant-fires-100-employees-amid-ai-push-heres-what-we-know-11759381872000.html
+- Why do many Indians stay clear of stock markets? A Sebi survey has the answer
+  Sebi's report finds low awareness of grievance channels and ineffective outreach are pushing investors out of the market. Despite the SCORES platform's high user satisfaction,
+  🔗 https://www.livemint.com/market/stock-markets-sebi-survey-investors-financial-loss-grievance-redressal-mechanism-swachh-bharat-mission-11759393371984.html
 
-- Elon Musk creates history! Tesla boss becomes first person ever to hit net worth of $500 billion
-  As of 7:17pm, Elon Musk's net worth stood at $499.1 billion. As per Bloomberg Billionaires Index, the net worth of Elon
-  🔗 https://www.livemint.com/companies/people/elon-musk-creates-history-tesla-boss-becomes-first-person-ever-to-hit-net-worth-500-billion-forbes-real-time-billionaire-11759369466270.html
+- WeWork India IPO: Weak profits, strong cash flows—should you buy at a premium?
+  Despite steady losses, WeWork is generating cash. Investors must weigh whether
+  🔗 https://www.livemint.com/market/ipo/wework-india-ipo-embassy-group-investment-analysis-growth-prospects-11759393739169.html
 
-- Kotak PE arm plans $2 bn fund amid rising private credit demand
-  The asset manager is in talks with global investors, including sovereign wealth funds and pension funds
-  🔗 https://www.livemint.com/companies/kotak-pe-arm-plans-2-bn-fund-private-credit-demand-investors-wealth-pension-funds-investments-11759301168993.html
+- What could fuel the Indian stock market’s next bull run? Here are four key drivers
+  Indian stocks gained momentum as the RBI expressed confidence in the economic outlook and announced liquidity measures. While the market initially reacted positively, future performance hinges on multiple factors, including trade,
+  🔗 https://www.livemint.com/market/stock-market-news/what-could-fuel-the-indian-stock-market-s-next-bull-run-here-are-four-key-drivers-11759397713621.html
 
-- Glottis IPO allotment to be finalised tomorrow. Here's GMP, how to check status
-  Glottis IPO had opened for subscription on September 29 and closed on October 1. The allotment of Gl
-  🔗 https://www.livemint.com/market/glottis-ipo-allotment-to-be-finalised-tomorrow-heres-gmp-how-to-check-status-11759382075700.html
+- Stocks to buy for long term: From Adani Enterprises, Adani Power to Paytm— Vinit Bolinjkar of Ventura picks 10 shares
+  In a lacklustre market year, expert Vinit Bolinjkar highlights 10 stocks poised for significant long
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-long-term-from-adani-enterprises-adani-power-to-paytm-vinit-bolinjkar-of-ventura-picks-10-shares-11759397571174.html
 
-- From infrastructure, metals to renewable energy: Sectors that will drive Indian stock market’s next rally
-  Indian equities ended September positively, with the Nifty 50 up 0.75%. Despite earlier losses and mixed sector performances, analysts suggest sectors like metals, healthcare,
-  🔗 https://www.livemint.com/market/stock-market-news/from-infrastructure-metals-to-renewable-energy-sectors-that-will-drive-indian-stock-market-s-next-rally-11759382893970.html
+- Morgan Stanley’s Tech Boss Says AI Coding Has ‘Profound’ Impact
+  Morgan Stanley’s use of artificial intelligence has already changed how coders do their jobs. It is having ‘a pretty profound impact’ on
+  🔗 https://www.livemint.com/technology/tech-news/morgan-stanley-s-tech-boss-says-ai-coding-has-profound-impact-11759405774776.html
 
-- From GMDC, Delhivery to L&amp;T Finance— THESE 22 Nifty 500 stocks gained over 50% in H1FY26 despite stock market volatility
-  22 companies in the Nifty 500 index achieved remarkable gains exceeding 50% in the first half of FY26. With policy support and anticipated earnings growth, analysts are optimistic about a market revival
-  🔗 https://www.livemint.com/market/stock-market-news/gmdc-delhivery-to-l-t-finance-these-22-nifty-500-stocks-gained-50-in-h1fy26-amid-indian-stock-market-volatility-11759376895502.html
+- Price drop on boAt soundbars with up to 80% off during Amazon Great Indian Festival 2025 – Cinematic sound on budget
+  Price drop on boAt soundbars with up to 80% off during the Amazon Great Indian Festival 2025. Known for punchy bass and a bold look, prices
+  🔗 https://www.livemint.com/technology/gadgets/price-drop-on-boat-soundbars-with-up-to-80-off-during-amazon-great-indian-festival-2025-cinematic-sound-on-budget-11759326160696.html
 
-- Fabtech Technologies IPO allotment to be finalised tomorrow. Here's GMP, how to check status
-  Fabtech Technologies initial public offering (IPO) had opened for
-  🔗 https://www.livemint.com/market/ipo/fabtech-technologies-ipo-allotment-to-be-finalised-tomorrow-heres-gmp-how-to-check-status-11759378025846.html
+- Does Instagram spy on private conversations with your phone mic? Company says…
+  Instagram CEO Adam Mosseri refuted claims that the platform listens to users' conversations. He explained that perceived connections between discussions and ads are often due to prior
+  🔗 https://www.livemint.com/technology/tech-news/does-instagram-spy-on-private-conversations-with-your-phone-mic-company-head-adam-mosseri-says-11759401077327.html
 
-- Stocks to buy for short term: From HAL to SBI— Ajit Mishra of Religare Broking recommends THESE 3 shares
-  Ajit Mishra of Religare Broking shares insights on three stocks to consider for short-term gains. Discover which sectors and stocks are poised
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-hal-sbi-jindal-steel-ajit-mishra-of-religare-broking-recommends-these-3-shares-11759373688133.html
+- Meta will soon use your AI chat interactions to target ads and content and users can't opt out
+   Meta will begin displaying ads and personalized content based on user interactions with its generative AI tools starting December 16. Users will be notified by October 7 but cannot opt out.
+  🔗 https://www.livemint.com/technology/gadgets/meta-will-soon-use-your-ai-chat-interactions-to-target-ads-and-content-and-users-cant-opt-out-11759394884290.html
 
-- Amazon Great Indian Festival brings unbeatable offers on gaming consoles: Up to 75% off top picks for gaming enthusiasts
-  Explore massive discounts on gaming consoles and handheld gaming consoles. Amazon Great Indian Festival 2025 offers something exciting for casual players, retro
-  🔗 https://www.livemint.com/technology/gadgets/amazon-great-indian-festival-brings-unbeatable-offers-on-gaming-consoles-up-to-75-off-top-picks-for-gaming-enthusiasts-11759242384452.html
+- Amazon Great Indian Festival: Lowest ever prices on the best selling headphones with advanced audio features
+  Amazon Great Indian Festival 2025 offers best selling headphones at lowest prices. Features superior sound, comfort, and
+  🔗 https://www.livemint.com/technology/gadgets/amazon-great-indian-festival-lowest-ever-prices-on-the-best-selling-headphones-with-advanced-audio-features-11759318106118.html
 
-- Xbox Game Pass Ultimate gets steep 50% hike as Microsoft reworks subscription plans
-  Microsoft has increased the price of its Xbox Game Pass Ultimate subscription by 50%. The company also rebranded some Game Pass plans, emphasizing their commitment to
-  🔗 https://www.livemint.com/technology/tech-news/xbox-game-pass-ultimate-gets-steep-50-hike-as-microsoft-reworks-subscription-plans-11759337121945.html
+- Zerodha co-founder Nithin Kamath welcomes RBI’s move to raise share-backed loan limit to Rs 1 crore
+  Zerodha CEO Nithin Kamath welcomed the RBI's decision to raise the loan against shares (LAS) limit from Rs 20 lakh to Rs 1 crore. He believes this 'good change' will
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zerodha-co-founder-nithin-kamath-welcomes-rbis-move-to-raise-share-backed-loan-limit-to-rs-1-crore/articleshow/124273735.cms
 
-- Mystery drone sightings reported over critical infrastructure in northern Germany
-  Mystery drone sightings reported
-  🔗 https://www.livemint.com/technology/tech-news/mystery-drone-sightings-reported-over-critical-infrastructure-in-northern-germany-11759332610856.html
+- Market trading guide: Buy Hindustan Zinc, Fortis Health and 2 more stocks for up to 9% gains
+  India’s benchmark indices, the Nifty and Sensex, ended
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-hindustan-zinc-fortis-health-and-2-more-stocks-for-up-to-9-gains/slideshow/124272959.cms
 
-- OpenAI signs deal with Samsung, SK Hynix to source memory chips for Stargate project
-  OpenAI has partnered with Samsung and SK under the Stargate initiative to enhance AI infrastructure in Korea. This collaboration aims to double the production of advanced memory chips and improve data center capacity
-  🔗 https://www.livemint.com/technology/tech-news/openai-signs-deal-with-samsung-sk-hynix-to-source-memory-chips-for-stargate-project-11759329858830.html
+- Axis Securities gives Nifty target of 25,500, names Bharti Airtel and Lupin among top 15 picks
+   Axis Securities’ small-cap top picks include Mahanagar Gas, Kirloskar Brothers, Sansera Engineering, and Kalpataru Projects. The brokerage noted September’s market volatility after a strong May–August 2025
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/axis-securities-gives-nifty-target-of-25500-names-bharti-airtel-and-lupin-among-top-15-picks/articleshow/124272808.cms
 
-- Apple adds iPhone 11 Pro Max and Apple Watch Series 3 to ‘Vintage’ list: What does it mean for you?
-  Apple has added the iPhone 11 Pro Max and Apple Watch Series 3 to its Vintage list. Vintage products are no longer sold for 5-7 years, with limited repair options as
-  🔗 https://www.livemint.com/technology/gadgets/apple-adds-iphone-11-pro-max-and-apple-watch-series-3-to-vintage-list-what-does-it-mean-for-you-11759328521295.html
+- WeWork India IPO: Can investors tag along India's booming Rs 50,000 crore flex space market?
+  WeWork India has reported a strong turnaround, posting Rs 1,949 crore in revenue and Rs 128 crore net profit in FY25. Backed by its scale, brand, and enterprise-focused strategy, the firm is well-position
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/wework-india-ipo-can-investors-tag-along-indias-booming-rs-50000-crore-flex-space-market/articleshow/124271754.cms
 
-- Stocks Rise for Fourth Day; Treasuries Rally: Markets Wrap - Bloomberg.com
-  A U.S. government shutdown could impact global markets. Wall Street Journal: S&amp;P 500 Rises to Record After Government Shuts Down.
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPLTVUTk1QakRkSkl2SWEzYUo0V1RwRlhLdVlld2UxMjRWVUhNS0lNcW84a2FvMlZJX2ZMM1gxOXl4Zmx4WjdUTnpBNjBxdFp1bGxTSE0weVppd3IyYjRSbElZWFhYR2FPUnNlVkZDV0l1ZmtKcHJiRXAxQlljbkxVNEkycTZrLTI3VU41Rnd1TlhLcTBm?oc=5
+- Vedanta, Coal India among top 10 stocks in FY 25 with highest dividend yields
+  Top 10 dividend-yielding Indian stocks for FY25 include Premco Global, Vedanta, MSTC, and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vedanta-coal-india-among-top-10-stocks-in-fy-25-with-highest-dividend-yields/slideshow/124271767.cms
 
-- From GMDC, Delhivery to L&T Finance— THESE 22 Nifty 500 stocks gained over 50% in H1FY26 despite stock market volatility - Mint
-  The 22 Nifty 500 stocks gained over 50% in H1FY26 despite stock market
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxNamVMTkhwRGRQa29rcGRXSWR0eFRIdjVGUThzbU82U1UwN3RSekVWYUN5NHZqRXRKa3hMMHBNbXlmeFRWNE9uRmNHUVBsQkxaVHgwMmw3R1MtcXpKZlV6bXhxVW9tUTFWdy04by05VTd4UHNjV3JuWWdGRFhVSnd4eS1JMXdhLUJNTWV4RnU3UWJ2U2VvUFRRTVdZblVBNmFRTXQxUEhCSVgwaTRRVFRyYlRMUTBvR2ItcjRqZVlEOWstS1ZxUV9QR0pocG9IX29OZjdtZ1Y1NlFXQ2pvazBFODl2N0xna3BjSXQ4WFNxTU9XWFdXUzlpT0NHWUl4SjV4TXRhczhjLVpKdEhFYVHSAZMCQVVfeXFMTkdhSjE5cWtIU0RwMXlDYzNuRUdncy1Xc1g3NXdNMTBjMW5yc081NjI5UzBTTFNQdmp0UllHTkJCZUJNdS1IRHJZVVhyVmtTekd4N0pmZVZZTDlERzhTOGxwdThncDMxOWZROVJYVHdxMlkwdVRUbE5wM2l3UUxjYnpBN2ZOWlRGYThRRnJsYmZ3MnBMNzAyblRPTmNmeXRZanM0aE5TSWZxRUdzQnlwVUQxeVhLVkFZUTBMRndMUUJkNVFNaU1US3FJaUlKR2dzcld2VWNXRkxpUkNvaGRXbGhlQ24wcUQtaGVyMVI3OC1zMnFyRmJCSXdfWVI1Q1ZMb3I3YXRzR1pxWmhnNVBmckM0VUU?oc=5
+- India's Big Warning To Pakistan Against Aggressive Approach Towards Sir Creek - NDTV
+  India's Big Warning To Pakistan Against Aggressive
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0tqMlBMcmtmaWs1TVZ2Z1RmNDliWEltVng3UmJhTkxTbGJ1QVM1UnlVLUtfSzhrbTVLZ1UyODM2eGNrYUVuRGlTdF91RnNEMmtGRV9RVEpyaE1Ec1U2RnpNOUpJbVotbWx0SkF4YXZHWWdLRW1JTnh1WXA2cFllc0cyTEZHcEZXR3I2M01KcDNtX0VQREJBb3lNNUdVa01fZzZ0ZmhZcTk0VWlqT2F0TVEtSDZJOGfSAb8BQVVfeXFMTUVjanpKRGlINHdMWmkyRWhqOG54TVczbktFS3JSdHlrM1ZXckE0aUEzN2NZQnozSHVNMjJKYXpMdWh0N1J1Z2UzQUgxQzlLUG5uN05MSU8zaGctcG8xMnAzWVlvMVZHVzg4ZVhOMEVnZ0lWbnIxV2xfRXRmc2RhWktGQkpXeEd2N0lKYkJRNXFKSEFCRGRUU3NMLWFpZUh6cG5iVzFJNkFCc2NPRDFsUHZEcHhNSDBmdnZ0VHNPVlU?oc=5
 
-- Morning Bid: Darkness falls on dour US jobs market - Reuters
-  "Morning Bid: Darkness falls on
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE85NlJlLXRscDlrNlRzQmg4QVBKNmprWEVON1BSLXNjcld1Y0xMSE5vX29nTjJfRkRfUC00OTdNTjQzeWloSTQ2STR5UEFITjRDSThLWncxMnUyaG03X2hLY2dyMUhMMzgydnNjV2ZfS2k0Zlo0Sndkd2xyV21BQ0U?oc=5
+- 'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build-up near Sir Creek | Latest News India - Hindustan Times
+  'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRTVxWUxQZnQtbVdJaGd2QmpwZEhwVXYzSzF3R1NYb19WbVl1c0NURENTRjN0WFctVWx2cVNjWW1tT2dzSmZWcXJodjVYN3ZUT2h6N3g4QTZ2NWdwX1VKSG9HUExZeEdQdERfMzV0NFZ2TGJ1SHFzTW16d1RuYVZnLWc2ME51ZUFqWlhEcll5QzllQXBvM0VBbVlud181TlJ1ZkNkM2U2Slk0eHVuMWtCazJaZVRYQXoweVF4UkFQeV9BaV9JQmZscWxFSXBWTGwyMG1hQTQtTEZ4WTQzclQ2dkx1ekVUZmo1eFV6T2pOZlHSAfYBQVVfeXFMT0dla21rbWZpR01NanNEUXZzbEdlZEh0SC1fVDhMRHVOZ0xsclVRTl9CY3RVN192a2xtVDhISlBIQ1Q2TExjVzc0aUdodWFYOTZxWlpkTUV0OGRhOW1xOHVBMHpXOGhfQkFXX1NmUFkxV0sxZ3U2Zk9aTTdzeU9Cb0hWRV9yVkxOb3FERXloLXpqUXNPV3hHWi1zTy1WM1FvUXdVV1VaenBpVEswU0lMUEFreFZEUUxtWlFjdUlvWEN5b3kyNVVob0M3NmNXel9JV0wwMXVvNmtJSV80S29wN1ZiQ1psaS1FVmtFdHdQaUZLVmxyTkJB?oc=5
 
-- European markets set to open higher, building on positive momentum - CNBC
-  European markets set to open higher, building
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPLUo1S0hhNGtQdXJEUkpnc2VSTkx2Q3BiTnpmT0xmcXZvWURsYTR1TURobUpWdUhGaktsRUNuMjNfVzNleEcyNFpLSDBuVUJUaUFKWkxaMXExWmdsMHR0eHZvYzBIY1lmZjk3ZnFfVEVadGVsQlZORUdYR2NOTzBUTy1HZE94NDl3REx1VEdB0gGTAUFVX3lxTFB0Ukk3M3AzbXlSeEk2X3F0UlJDVWU2cV82R3J5aU9HZzdVZ0xJU3ExR2MwMVkydnhxblljckZpWThJOEpkOGhsZ0xVVTJJOFZ5WHJUODhjQ09Ydi1HRFdPUFhFZS1MTXpkQlNDMU03N1ZYUTQ5MXFMTk9MTnJYQTRCSk8yMWN2VkcxMmM3X2V5aEdHVQ?oc=5
+- 'Any misadventure ...': Rajnath Singh flags Pakistan military build-up in Sir Creek; warns of ‘decisive r - Times of India
+  'Any misadventure ...': Rajnath Singh flags Pakistan military build-
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNanhNXzNSRUtJZmI5QVhlRGR0UHlvLTQ4b1ZSY0paNjdNV1p0akhUOFlBRHlwS09HYU9TaUdUVGhRX2VFa1F6YTNHbF8yVEVrNHlEZFNteVBuYjNtTmw5YmZxMUNCaU9IZnlLZUJ0MzZMNUIxY24ySUtYNmlCdmVnRFN2c0E5YVJjUHpfNnVscWVHdmVFM0V2MzBucmNvS0J5THA3UHF3QVdZNGtwNEp1eUdJb1lsV2VZNDJtb1dBeXZxNXN6VnhEVUtJY0tFZk9la2h5eE1oZHE4TU5ZTmJKNE96QVZBQ01uQzQ2UUQ5c1JTMjN3b0xXdXB2SDJ2QmI00gGGAkFVX3lxTFB4RjFOa3RKcXN3WUE4bjBDSS1Jam4xdTNseEFiZmtESERnb1ZTakJZbzcxVS1RRmtWZGtZcjgzZVNFQW1QbWw2LWYzbW9rMFFUU1o0RGxiTEdfVVF1c0JIX2hRMTFnU0p3R0p5UDgtYTladmRILVRZYWNsVmJuYWh1b3B0M0NqWTFRcmdqRHllSmdGdEhYNzJESDdJMnlSS0U2MEoxc0RLLUsyUlIxaldxai04UmxQRkRQdDJhZW01bFpCeDdzSldaN2lHX3lrZDFKYTFHNGx5Q3Vra1pxTS00UzhNMlZWbEUzT1ZSYWdZRldOenllTUZBUkl4LXpfUTVMTl9lVkE?oc=5
 
-- Stock market holiday: Will NSE, BSE remain closed on October 2? Check full list of October holidays - Times of India
-  Stock market holiday: Will NSE, BSE remain closed on October 2? Check
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxPRF8xa0FVbTFtM2dwTGJ1Vm9mX3phNTlTMVVGbkQ0ME41WVkwQ3pLaC1JcnVlSnJCYmJWamVKVWI4Nnp5Z0UySjhNSUZPa1d2bl9wNkxuM2RubFRYeEdZbDRlVUdHQkNjZ2xER01Cb2RBS3lac1VZWlBVZmY1dEt4TTcyVXp2MU1NTjc5dFA5eEFyTVJTbGJxd3Ridk5Ed2VwQVFuQXZheFl5NkZ1aEdGVEE3dXA0cHZPcVVhcnZrWjVkWnR0RTV4d2ZUTjJKOEhQLUlHQWM3SHBkdXdFdGZVYkFuTmtGd3A2ZVo1am41VVg1RUFJVk1vRFVXbW13NnVWUF9NS2d6MHZiV0k2Nl9j0gGUAkFVX3lxTE8temdmZ0Q2UkhUT2RXRzRZYUVsV0lOOHF1N2REajVSYXZCNkxRQ0U3TEdZRDhreDE1MG42WmxuOGVJc2JDRVlGTlpYM3R6bjRzYjRoUTI0ellQZHZPNmYxNjdxT0M2bUtkTGltTjNaMURvOG42a2VuVjEwdkpLR1ZycVpTRW5taDVYNHlKSzFMdjBJY0M5OHYtMzJDcGtPM1ZsdnItLTYxODg5UmhJVHJZXzBwRDRxb1lOdFdBZ0F3WmdFX3FlWm9TNElfZVEweXlGaGpLSmlDenJ0NkMxcWctV21yckUzd2V3QWNZU0dpZUMwX3NwdEVTajI5aWxKaUxfSXdSWG5pWHhqdU53ZExTZ3VHeA?oc=5
+- CNBC's Inside India newsletter: India’s gigawatt gold rush - CNBC
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ09kcWtueEtXeEdweS1hdkJ4Vk1jd0wxVktlX1JZaTRJZmlXUE9CZ1BIMThSWlBhWTZhRGh6eVljNERpYl9GLU40al91MXVPb2xLYXBfbTczRlRwWDNQMFgxUmtTcFVtMTc0U2V2Qk9TV0xiXzNtSkNOX2Q1SEYtM1pBUlBXWnVhQ3QyLWRULWN0bEVvMlow0gGcAUFVX3lxTFBrcDFVdmFuQzVDSUZ1b0RlUUY3Q2RjODZEZWZabFBwVmh2U0cwTy1EekUtMmQ3NlZabGpHUmJYd252RzNrLUVPZjFNS19FbHB2LXRXLWs1VkNwbXhtQk1QVUhVdmhJZ19wMkRYV2l5ZkRkUzdOUl9wbnp0V2JDSmpsaGU2WjNkOEVCNjdHODltSEx5M0lENVJTRlRZZg?oc=5
 
-- ETMarkets Smart Talk: From BFSI to Healthcare: Key long-term themes for investors over the next 3-5 years from Unmesh Kulkarni
-  Unmesh Kulkarni of Julius Baer India highlights India’s growth opportunities over the next 3–5 years. He notes FPI outflows, tariff uncertainties, and IT sector challenges as short-term headwind
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-from-bfsi-to-healthcare-key-long-term-themes-for-investors-over-the-next-3-5-years-says-unmesh-kulkarni/articleshow/124270131.cms
+- 'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP calls him 'leader of propaganda' - Times of India
+  'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxObkJndEo1dFRGT1hPUjdpY0QyeG9jcTNHMjVBcC1fdzRGaGpSQjZ5OGJkbUxuNV90ZUQwUGI4Zl90VWZzaHJKQTlHbmhuN2NCS3pRbTFYRGdjVzliWGs1VmxGdk1mMkVlVHdyVEFjYnNjTTlPWVc4THFNSldkUWdHTGtOWFBTeDBkZU0xeXZxUlZTaHVOVm1rbE5QXzdzamc0clZabnNfUDJEdW16bUVFa1c3SEVsYks4UzFYVUw1MU9paDM4M19RZW05WUhjLXVPVFZOUjdkcGhGOFhuVHlQQ3JTMl90SFgxY0lPM2VXVFR6clROX203Tl9B0gH_AUFVX3lxTE12UkRJcWUzU3ZnTW5wRjdBSDY4bDdsTHBESFRFaTdKQVVRUGg0YnFxWl9mdzlUb0JTRld5M3lOdmhpb0ttZW9zZGx0TVhEUllSMHU0NGsxOVRrRGg4YlR1LXJuN0lYMVpka2V2QlVISmVEbm1KLWYzNHJmQzNINjJucW44TF85TUlNNk56c3FCSy1rY0JfVlNnbHFJQjVIOUZjUjU3WUlMVnI4Y18tbWVqRUNWSm9uNkRnUDIxSUxIU2c0Y1VoRHBQSzhvS3pOVDNsSERqenpLVFNxekVDbEs2X1FZdzFkdS10VEVqLWcwaFdPTFVUMGtyVDZHTlM0NA?oc=5
 
-- Bond markets get a boost as RBI holds rates and hints at future easing
-  The RBI’s MPC kept policy rates unchanged at 5.5% in its October 2025 review. Experts say the move restores market confidence, stabilizes borrowing costs, and supports bond market sentiment.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/bond-markets-get-a-boost-as-rbi-holds-rates-and-hints-at-future-easing/articleshow/124269031.cms
+- India's Big Warning To Pakistan Against Aggressive Approach Towards Sir Creek - NDTV
+  India's Big Warning To Pakistan Against Aggressive
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0tqMlBMcmtmaWs1TVZ2Z1RmNDliWEltVng3UmJhTkxTbGJ1QVM1UnlVLUtfSzhrbTVLZ1UyODM2eGNrYUVuRGlTdF91RnNEMmtGRV9RVEpyaE1Ec1U2RnpNOUpJbVotbWx0SkF4YXZHWWdLRW1JTnh1WXA2cFllc0cyTEZHcEZXR3I2M01KcDNtX0VQREJBb3lNNUdVa01fZzZ0ZmhZcTk0VWlqT2F0TVEtSDZJOGfSAb8BQVVfeXFMTUVjanpKRGlINHdMWmkyRWhqOG54TVczbktFS3JSdHlrM1ZXckE0aUEzN2NZQnozSHVNMjJKYXpMdWh0N1J1Z2UzQUgxQzlLUG5uN05MSU8zaGctcG8xMnAzWVlvMVZHVzg4ZVhOMEVnZ0lWbnIxV2xfRXRmc2RhWktGQkpXeEd2N0lKYkJRNXFKSEFCRGRUU3NMLWFpZUh6cG5iVzFJNkFCc2NPRDFsUHZEcHhNSDBmdnZ0VHNPVlU?oc=5
 
-- No rate change, no EMI shock: RBI’s move to keep housing demand on track
-  The RBI’s decision to keep the repo rate unchanged at 5.5% in October 2025 has been welcomed by real estate leaders. Experts say the move stabilises borrowing costs and home loan EMIs.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/no-rate-change-no-emi-shock-rbis-move-to-keep-housing-demand-on-track/articleshow/124268989.cms
+- 'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build-up near Sir Creek | Latest News India - Hindustan Times
+  'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRTVxWUxQZnQtbVdJaGd2QmpwZEhwVXYzSzF3R1NYb19WbVl1c0NURENTRjN0WFctVWx2cVNjWW1tT2dzSmZWcXJodjVYN3ZUT2h6N3g4QTZ2NWdwX1VKSG9HUExZeEdQdERfMzV0NFZ2TGJ1SHFzTW16d1RuYVZnLWc2ME51ZUFqWlhEcll5QzllQXBvM0VBbVlud181TlJ1ZkNkM2U2Slk0eHVuMWtCazJaZVRYQXoweVF4UkFQeV9BaV9JQmZscWxFSXBWTGwyMG1hQTQtTEZ4WTQzclQ2dkx1ekVUZmo1eFV6T2pOZlHSAfYBQVVfeXFMT0dla21rbWZpR01NanNEUXZzbEdlZEh0SC1fVDhMRHVOZ0xsclVRTl9CY3RVN192a2xtVDhISlBIQ1Q2TExjVzc0aUdodWFYOTZxWlpkTUV0OGRhOW1xOHVBMHpXOGhfQkFXX1NmUFkxV0sxZ3U2Zk9aTTdzeU9Cb0hWRV9yVkxOb3FERXloLXpqUXNPV3hHWi1zTy1WM1FvUXdVV1VaenBpVEswU0lMUEFreFZEUUxtWlFjdUlvWEN5b3kyNVVob0M3NmNXel9JV0wwMXVvNmtJSV80S29wN1ZiQ1psaS1FVmtFdHdQaUZLVmxyTkJB?oc=5
 
-- Samsung, SK Hynix shares leap after OpenAI chip deal
-  South Korean shares soared to a record high on Thursday, driven by a significant surge in chipmakers Samsung Electronics and SK Hynix. Both companies secured a major deal to supply memory chips
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/south-korean-shares-hit-record-as-chipmakers-surge-on-openai-deal/articleshow/124268756.cms
+- 'Any misadventure ...': Rajnath Singh flags Pakistan military build-up in Sir Creek; warns of ‘decisive r - Times of India
+  'Any misadventure ...': Rajnath Singh flags Pakistan military build-
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNanhNXzNSRUtJZmI5QVhlRGR0UHlvLTQ4b1ZSY0paNjdNV1p0akhUOFlBRHlwS09HYU9TaUdUVGhRX2VFa1F6YTNHbF8yVEVrNHlEZFNteVBuYjNtTmw5YmZxMUNCaU9IZnlLZUJ0MzZMNUIxY24ySUtYNmlCdmVnRFN2c0E5YVJjUHpfNnVscWVHdmVFM0V2MzBucmNvS0J5THA3UHF3QVdZNGtwNEp1eUdJb1lsV2VZNDJtb1dBeXZxNXN6VnhEVUtJY0tFZk9la2h5eE1oZHE4TU5ZTmJKNE96QVZBQ01uQzQ2UUQ5c1JTMjN3b0xXdXB2SDJ2QmI00gGGAkFVX3lxTFB4RjFOa3RKcXN3WUE4bjBDSS1Jam4xdTNseEFiZmtESERnb1ZTakJZbzcxVS1RRmtWZGtZcjgzZVNFQW1QbWw2LWYzbW9rMFFUU1o0RGxiTEdfVVF1c0JIX2hRMTFnU0p3R0p5UDgtYTladmRILVRZYWNsVmJuYWh1b3B0M0NqWTFRcmdqRHllSmdGdEhYNzJESDdJMnlSS0U2MEoxc0RLLUsyUlIxaldxai04UmxQRkRQdDJhZW01bFpCeDdzSldaN2lHX3lrZDFKYTFHNGx5Q3Vra1pxTS00UzhNMlZWbEUzT1ZSYWdZRldOenllTUZBUkl4LXpfUTVMTl9lVkE?oc=5
 
-- Japan's Nikkei rises after 4 days of losses as chip-related shares jump
-  Japan's Nikkei share average posted a slight gain on Thursday, ending a four-session losing streak. Analysts suggest the recovery might be brief due to cautious retail investors and overall negative market sentiment.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-rises-after-4-days-of-losses-as-chip-related-shares-jump/articleshow/124268732.cms
+- CNBC's Inside India newsletter: India’s gigawatt gold rush - CNBC
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ09kcWtueEtXeEdweS1hdkJ4Vk1jd0wxVktlX1JZaTRJZmlXUE9CZ1BIMThSWlBhWTZhRGh6eVljNERpYl9GLU40al91MXVPb2xLYXBfbTczRlRwWDNQMFgxUmtTcFVtMTc0U2V2Qk9TV0xiXzNtSkNOX2Q1SEYtM1pBUlBXWnVhQ3QyLWRULWN0bEVvMlow0gGcAUFVX3lxTFBrcDFVdmFuQzVDSUZ1b0RlUUY3Q2RjODZEZWZabFBwVmh2U0cwTy1EekUtMmQ3NlZabGpHUmJYd252RzNrLUVPZjFNS19FbHB2LXRXLWs1VkNwbXhtQk1QVUhVdmhJZ19wMkRYV2l5ZkRkUzdOUl9wbnp0V2JDSmpsaGU2WjNkOEVCNjdHODltSEx5M0lENVJTRlRZZg?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- 'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP calls him 'leader of propaganda' - Times of India
+  'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxObkJndEo1dFRGT1hPUjdpY0QyeG9jcTNHMjVBcC1fdzRGaGpSQjZ5OGJkbUxuNV90ZUQwUGI4Zl90VWZzaHJKQTlHbmhuN2NCS3pRbTFYRGdjVzliWGs1VmxGdk1mMkVlVHdyVEFjYnNjTTlPWVc4THFNSldkUWdHTGtOWFBTeDBkZU0xeXZxUlZTaHVOVm1rbE5QXzdzamc0clZabnNfUDJEdW16bUVFa1c3SEVsYks4UzFYVUw1MU9paDM4M19RZW05WUhjLXVPVFZOUjdkcGhGOFhuVHlQQ3JTMl90SFgxY0lPM2VXVFR6clROX203Tl9B0gH_AUFVX3lxTE12UkRJcWUzU3ZnTW5wRjdBSDY4bDdsTHBESFRFaTdKQVVRUGg0YnFxWl9mdzlUb0JTRld5M3lOdmhpb0ttZW9zZGx0TVhEUllSMHU0NGsxOVRrRGg4YlR1LXJuN0lYMVpka2V2QlVISmVEbm1KLWYzNHJmQzNINjJucW44TF85TUlNNk56c3FCSy1rY0JfVlNnbHFJQjVIOUZjUjU3WUlMVnI4Y18tbWVqRUNWSm9uNkRnUDIxSUxIU2c0Y1VoRHBQSzhvS3pOVDNsSERqenpLVFNxekVDbEs2X1FZdzFkdS10VEVqLWcwaFdPTFVUMGtyVDZHTlM0NA?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- India's Big Warning To Pakistan Against Aggressive Approach Towards Sir Creek - NDTV
+  India's Big Warning To Pakistan Against Aggressive
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0tqMlBMcmtmaWs1TVZ2Z1RmNDliWEltVng3UmJhTkxTbGJ1QVM1UnlVLUtfSzhrbTVLZ1UyODM2eGNrYUVuRGlTdF91RnNEMmtGRV9RVEpyaE1Ec1U2RnpNOUpJbVotbWx0SkF4YXZHWWdLRW1JTnh1WXA2cFllc0cyTEZHcEZXR3I2M01KcDNtX0VQREJBb3lNNUdVa01fZzZ0ZmhZcTk0VWlqT2F0TVEtSDZJOGfSAb8BQVVfeXFMTUVjanpKRGlINHdMWmkyRWhqOG54TVczbktFS3JSdHlrM1ZXckE0aUEzN2NZQnozSHVNMjJKYXpMdWh0N1J1Z2UzQUgxQzlLUG5uN05MSU8zaGctcG8xMnAzWVlvMVZHVzg4ZVhOMEVnZ0lWbnIxV2xfRXRmc2RhWktGQkpXeEd2N0lKYkJRNXFKSEFCRGRUU3NMLWFpZUh6cG5iVzFJNkFCc2NPRDFsUHZEcHhNSDBmdnZ0VHNPVlU?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- 'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build-up near Sir Creek | Latest News India - Hindustan Times
+  'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRTVxWUxQZnQtbVdJaGd2QmpwZEhwVXYzSzF3R1NYb19WbVl1c0NURENTRjN0WFctVWx2cVNjWW1tT2dzSmZWcXJodjVYN3ZUT2h6N3g4QTZ2NWdwX1VKSG9HUExZeEdQdERfMzV0NFZ2TGJ1SHFzTW16d1RuYVZnLWc2ME51ZUFqWlhEcll5QzllQXBvM0VBbVlud181TlJ1ZkNkM2U2Slk0eHVuMWtCazJaZVRYQXoweVF4UkFQeV9BaV9JQmZscWxFSXBWTGwyMG1hQTQtTEZ4WTQzclQ2dkx1ekVUZmo1eFV6T2pOZlHSAfYBQVVfeXFMT0dla21rbWZpR01NanNEUXZzbEdlZEh0SC1fVDhMRHVOZ0xsclVRTl9CY3RVN192a2xtVDhISlBIQ1Q2TExjVzc0aUdodWFYOTZxWlpkTUV0OGRhOW1xOHVBMHpXOGhfQkFXX1NmUFkxV0sxZ3U2Zk9aTTdzeU9Cb0hWRV9yVkxOb3FERXloLXpqUXNPV3hHWi1zTy1WM1FvUXdVV1VaenBpVEswU0lMUEFreFZEUUxtWlFjdUlvWEN5b3kyNVVob0M3NmNXel9JV0wwMXVvNmtJSV80S29wN1ZiQ1psaS1FVmtFdHdQaUZLVmxyTkJB?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- 'Any misadventure ...': Rajnath Singh flags Pakistan military build-up in Sir Creek; warns of ‘decisive r - Times of India
+  'Any misadventure ...': Rajnath Singh flags Pakistan military build-
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNanhNXzNSRUtJZmI5QVhlRGR0UHlvLTQ4b1ZSY0paNjdNV1p0akhUOFlBRHlwS09HYU9TaUdUVGhRX2VFa1F6YTNHbF8yVEVrNHlEZFNteVBuYjNtTmw5YmZxMUNCaU9IZnlLZUJ0MzZMNUIxY24ySUtYNmlCdmVnRFN2c0E5YVJjUHpfNnVscWVHdmVFM0V2MzBucmNvS0J5THA3UHF3QVdZNGtwNEp1eUdJb1lsV2VZNDJtb1dBeXZxNXN6VnhEVUtJY0tFZk9la2h5eE1oZHE4TU5ZTmJKNE96QVZBQ01uQzQ2UUQ5c1JTMjN3b0xXdXB2SDJ2QmI00gGGAkFVX3lxTFB4RjFOa3RKcXN3WUE4bjBDSS1Jam4xdTNseEFiZmtESERnb1ZTakJZbzcxVS1RRmtWZGtZcjgzZVNFQW1QbWw2LWYzbW9rMFFUU1o0RGxiTEdfVVF1c0JIX2hRMTFnU0p3R0p5UDgtYTladmRILVRZYWNsVmJuYWh1b3B0M0NqWTFRcmdqRHllSmdGdEhYNzJESDdJMnlSS0U2MEoxc0RLLUsyUlIxaldxai04UmxQRkRQdDJhZW01bFpCeDdzSldaN2lHX3lrZDFKYTFHNGx5Q3Vra1pxTS00UzhNMlZWbEUzT1ZSYWdZRldOenllTUZBUkl4LXpfUTVMTl9lVkE?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- CNBC's Inside India newsletter: India’s gigawatt gold rush - CNBC
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ09kcWtueEtXeEdweS1hdkJ4Vk1jd0wxVktlX1JZaTRJZmlXUE9CZ1BIMThSWlBhWTZhRGh6eVljNERpYl9GLU40al91MXVPb2xLYXBfbTczRlRwWDNQMFgxUmtTcFVtMTc0U2V2Qk9TV0xiXzNtSkNOX2Q1SEYtM1pBUlBXWnVhQ3QyLWRULWN0bEVvMlow0gGcAUFVX3lxTFBrcDFVdmFuQzVDSUZ1b0RlUUY3Q2RjODZEZWZabFBwVmh2U0cwTy1EekUtMmQ3NlZabGpHUmJYd252RzNrLUVPZjFNS19FbHB2LXRXLWs1VkNwbXhtQk1QVUhVdmhJZ19wMkRYV2l5ZkRkUzdOUl9wbnp0V2JDSmpsaGU2WjNkOEVCNjdHODltSEx5M0lENVJTRlRZZg?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- 'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP calls him 'leader of propaganda' - Times of India
+  'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxObkJndEo1dFRGT1hPUjdpY0QyeG9jcTNHMjVBcC1fdzRGaGpSQjZ5OGJkbUxuNV90ZUQwUGI4Zl90VWZzaHJKQTlHbmhuN2NCS3pRbTFYRGdjVzliWGs1VmxGdk1mMkVlVHdyVEFjYnNjTTlPWVc4THFNSldkUWdHTGtOWFBTeDBkZU0xeXZxUlZTaHVOVm1rbE5QXzdzamc0clZabnNfUDJEdW16bUVFa1c3SEVsYks4UzFYVUw1MU9paDM4M19RZW05WUhjLXVPVFZOUjdkcGhGOFhuVHlQQ3JTMl90SFgxY0lPM2VXVFR6clROX203Tl9B0gH_AUFVX3lxTE12UkRJcWUzU3ZnTW5wRjdBSDY4bDdsTHBESFRFaTdKQVVRUGg0YnFxWl9mdzlUb0JTRld5M3lOdmhpb0ttZW9zZGx0TVhEUllSMHU0NGsxOVRrRGg4YlR1LXJuN0lYMVpka2V2QlVISmVEbm1KLWYzNHJmQzNINjJucW44TF85TUlNNk56c3FCSy1rY0JfVlNnbHFJQjVIOUZjUjU3WUlMVnI4Y18tbWVqRUNWSm9uNkRnUDIxSUxIU2c0Y1VoRHBQSzhvS3pOVDNsSERqenpLVFNxekVDbEs2X1FZdzFkdS10VEVqLWcwaFdPTFVUMGtyVDZHTlM0NA?oc=5
 
 
-_Last updated: 2025-10-02 06:25:38 UTC_
+_Last updated: 2025-10-02 12:32:41 UTC_
