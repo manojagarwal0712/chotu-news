@@ -1,44 +1,28 @@
 # 📰 Daily News Summaries
 
-- Heavy rain dampens Durga Puja spirit in Tripura; IMD forecasts light to moderate showers
-  
-  🔗 https://indianexpress.com/article/india/heavy-rain-durga-puja-tripura-imd-forecasts-light-moderate-showers-10282825/
+- US government shutdown: US Embassy in India announces its Twitter account will not be updated regularly u - Times of India
+  U.S. Embassy in India announces its Twitter account will not be updated regularly.
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQV0tRQm9HSldvOUtJd1UzdjZHcVByRFg0cFZjUVdQMGItMk8yZDBvbUgtdXJmX0VrN0RpSmdsSmg0Unk1N2ZORl9udENhRjM5SXpiNmhOQlUzLWV4ZWYwdWtHQTViR1g4VXhidnNHU0I1Y3MzdVdQX28xc3pMQzU0cFY4VDkweE5lZWdtTHB2aUN4WFNpOFFJeTZRZEF5X1BybmZFN2hNQWk4eVliN0xXSV9DTFZYWkw1V3MtQjlGMk1rZHdySVNlMzJIdUJyM3BPQkozc2xkbHEyVnU3ZFFRQVNJODBxN1hMb040Y2ZFVzBwaW5OR213ZmprdUdHNU5yRUJsM3A3dF9kR2ZoM3pPMWNWMUtNeHp0NVRLNtIBogJBVV95cUxPSldQamVvejVKb005U21xSzZIZGpNdHRmRlJyclZLMGgyRElqZVp3RVNZNUtvUlprcXRweU03eU1yWXVzUTRlX21pRFptcXR0QkRrcFZkVTM1VU44dFROYkZ5NU5OTnlGRGNpaWZmOE9fNFA3TlRKNGJTYUx2NC1ZVF9KbzhWMVRFN190N1R6N3Z0djVJU1NjRWU0RVlOalZoZC10TTQwSEVoVW9tUU8wcEpfdmw3cl9IWmtEeWdzSnJ1dlBRTXpRaXRsUXI0Q2FscmxiQUE4ckFudHpLUGNsWUxob0x0bGVGWV94LVcwWWZuMzVwc2w5c1JSd1VHdWtxSkszS0Z4dmZNbTZveUVEOTFVT3ItOHZGQ3hKUmhpaTNUZw?oc=5
 
-- In SC, MP cites ‘deep-rooted exclusion’ to justify OBC quota hike that breaks 50% ceiling
-  
-  🔗 https://indianexpress.com/article/india/sc-mp-obc-quota-hike-50-ceiling-10282799/
+- '7 Jets Were Shot Down': Trump Repeats Claim That He "Settled" India-Pak War - NDTV
+  '7 Jets Were Shot Down': Trump Repeats Claim
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFEycHVFX2c4N3pFUHltSkRuMXhOWExieDl3MVJ6dkVaVUY0ZjJaWENub2JOUndQLTd5bFRnUUM3dnBzWl85UUFqSVp4V3prZ3JHb0hOT2lFSjRjMjh6VEdaenBvZ3EycHpkMUxrc2kxaW45NjhVUzRUVjFMY2ZBVjR1U3E2dDF6YmZnUm44NEdJdW84TUFNdGpDeVFiWkhDU1N2TmNyMFV5T3hl0gG0AUFVX3lxTFBYT0ZHNEhxSlMwYU5rNHQ2Y3dkci1FekRoZkkwcGRjbmp1M25nZ3VaMHF3UDdiR3FZaUhzeUotellycTA3OVFENEZQRDVKV0NpUkNvOUFfZURMMVBwR2NucU1NNHMxdHJkUzVPQlVGZl8xallhSDdGY3c3NUtrQmI3Z3pKNlBlNlVwQTNTc0lVR1dEVnZrczhzMlh0U2JZQlNfalg1MGN2YWh3b2JWNW0wajdkUw?oc=5
 
-- 6 inmates escape from Tripura’s Dharmanagar sub-jail; 1 arrested during massive manhunt
-  
-  🔗 https://indianexpress.com/article/india/6-inmates-escape-from-tripuras-dharmanagar-sub-jail-1-arrested-during-massive-manhunt-10282704/
+- Hosabale: RSS custodian of India’s civilisational philosophy - Times of India
+  Hosabale: RSS custod
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3BDaGpoa0h3eEg2a2VPQ1I0MTM5VzNyandzTlFEU1NDb1dIX0dYVktKcmNHMVY2VUM1SFkyNHRMbUFMVjFTN1pvdnctaWNzOU1hNm5ENEdhV2ZpZk5pUGZFYzNRYXo1OEZ4eHQyWDhPb2hxQWpJTllBRl9RRFhXNnBZcTJFUjdrV0VaS05OWnRGckNYdmZVM2l0Zkh4Ukd0MkhPT0ZwdnhOdVQwczI5Z1lSYWdhUGR5NFRwcWptZERnWU9y0gHKAUFVX3lxTE53RkVkaXowaTJKZ2hReVRYTDJHMnVfbloxemQ5U180MlhGV3NsdERaY25oQl9hTnNwUFdhbDR6eldUVjBwRldmdE96OEZlTHFnNFJaTjBiT294X2M1Qjl6MjJIb2c2Tk9VYi1lakgxM3owYWpTRU1GVVRRSHU3V1Q0Z1JqSEJKWkw1cnhSRlNSeUtDUG12Yk9aT25xWGNsdkFvQlllQ1hXUkNMVktmSzUxbUxEWUpjb0g2NWhNRzVMVUUtOWtDM0ZYR0E?oc=5
 
-- ‘State and its agencies hounding us, have us under surveillance’: Sonam Wangchuk’s wife writes to President
-  
-  🔗 https://indianexpress.com/article/india/sonam-wangchuk-wife-writes-president-surveillance-10282584/
+- ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS, Oppn says ‘sectarian agenda’ | Latest News India - Hindustan Times
+  ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUWVSRHBMMlJRVVlSV0Rqejk2OHZHSGtPdW9ubWZXOExSUnNqMVpfQV8tTzRFYXBjWEM1dUhsQjA1N2k3ZGdsaERZR1FWMmFvUl9YWjlkbGdWOGc2N3pqQTRYZkd6d1FRYXVFQ3ZETlUtbEdQMGE5a3ppT1NqMjd3RWtsSFhTeUFWcE9ZQkdoRGZNeG8tNzlWVE5sVEtsUmw5WmdJUEV1aXNzb1JXMkxxZFlEck8xUUwtNVQ2bGVXQUVFRXVzeUpXdlpZWjVPWFRnVkxwMF82N1FUZ1M3Q1pFbHo2eHBZaWVhWGNYRm1JUk4xcE5HZUY5NTdVONIBgAJBVV95cUxPd3IzSWtqU1Y0TVFraTdWdUk4dS1DZXNQcVBhUlowdkkzS2J2cGllZFZYX1RHNW5yekRyNmVhaC04X21tamNJSldTLW9lMFhFYjV5Vkl2ZlBwdmVad1Y1N0UzWXl5NF9fU2x0amxHeVBEZG1nOEJwaWZKb0hCSllLUE81MzdpVTZ6cV9uRTRESTRuV2pOTzU2eHdvRFNVbExtZjlTVERPd0FpZzEyQ2xYNlNJYkRTc1ptLS1UWV9tQXU5ZDJVeFd1QVltcnh0c3FlUVFmRnV6MHJsanBDU3RDUHNTVk9ld0lFVUJVRGZUWVhrS0NyQXVjRGZvZERBakp5?oc=5
 
-- 5 stories you must read today, October 1: From Gaza flotilla entering high-risk zone to UPSC verifying certificates through DigiLocker and more
-  
-  🔗 https://indianexpress.com/article/india/express-catch-up-5-stories-you-must-read-today-october-1-10282388/
+- Sangh continues to guide India forward with hope, purpose | Latest News India - Hindustan Times
+  Sangh continues to guide India forward with hope, purpose.
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbk42a0ZpY0VSRWV4dDBGM3luZ0lsai01MHFtTFF6VDFnUGhEb1M4bkZmeURudWIzNWRJV2pEZXpzMEd1VWRlcVpneHJXanBSUkF5OUd1QXNzUFFuUWJkVUNkd3FGOW82ZUpjX0o0Zm1qZ1ktc0V1Tjc2cGNNNTB6RUVYUE1fTU5Iazc3SC1WaWJmWnpCSEpGWkRkeTlHTWQtNzFVMmxQUGwyeUd3YWpUMU1ObFVJVUpDSG400gHAAUFVX3lxTE9xRFFNZHI4d3BycXp3b2ZVMFotckpLNDFzQzlaVER2NWV3TFBsbE1vOVdaY2hudEpIOEZhX1JHZFAwR21JNVAzV0pIcVVHMU53QzJ3WWNwOTM1T3JNMDVfdk9GWjJDbmFRNXA0SE94MnBoMUctX0ZmN1N1LU9OZjFUY0d5QUczNEhKU0tWQ1VMRUdTU2UxODFkNVBlZ2N6RHZkSjlKN0kyazN0VDMwMTlCRWJvZ0FBNTZxYXhmU19mWQ?oc=5
 
-- Meta to use AI chats to personalise content and ads from December
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-to-use-ai-chats-to-personalize-content-and-ads-from-december-10282485/
-
-- Wikipedia might give AI models access to site for ‘knowledge base’
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/wikipedia-might-give-ai-models-access-to-site-for-knowledge-base-10282395/
-
-- OpenAI launches Sora App alongside Sora 2 for improved audio, video generation AI platform
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-launches-sora-app-for-improved-audio-video-generation-ai-platform-10282366/
-
-- Spooked by AI, Bollywood stars drag Google into fight for ‘personality rights’
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/spooked-by-ai-bollywood-stars-drag-google-into-fight-for-personality-rights-10282106/
-
-- Adobe Premiere launches free mobile app for iPhone with pro-level editing tools
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/adobe-premiere-launches-free-mobile-app-for-iphone-10282073/
+- Kotak PE arm plans $2 bn fund amid rising private credit demand
+  The asset manager is in talks with global investors, including sovereign wealth funds and pension funds
+  🔗 https://www.livemint.com/companies/kotak-pe-arm-plans-2-bn-fund-private-credit-demand-investors-wealth-pension-funds-investments-11759301168993.html
 
 - ‘Misinformation, mischievous’: TCS rejects NITES claims about IT major ‘forcing’ 2,500 Pune employees to resign
   TCS faces accusations from NITES regarding its layoffs, which reportedly affect 2,500 employees in Pune. TCS maintains that the layoffs
@@ -56,9 +40,9 @@
   The Trump administration told a federal court it intends to reconsider a key US government approval that authorized the construction of Equinor ASA’s planned second phase of
   🔗 https://www.livemint.com/companies/news/trump-plans-review-of-equinor-s-empire-wind-2-near-new-york-11759335725991.html
 
-- First Brands’ Fall Renews Concerns Over Murky Trade Finance
-  First Brands Group filed for bankruptcy on Sunday. The auto-parts supplier Raistone was
-  🔗 https://www.livemint.com/companies/company-results/first-brands-fall-renews-concerns-over-murky-trade-finance-11759335358613.html
+- MercadoLibre Slumps as Rival Amazon Boosts Presence in Brazil
+  Shares of MercadoLibre Inc. are heading for their biggest two-day slump since November. Amazon.com’
+  🔗 https://www.livemint.com/market/stock-market-news/mercadolibre-slumps-as-rival-amazon-boosts-presence-in-brazil-11759347151795.html
 
 - Mexican Peso Bulls See Trade, Carry Sustaining Currency’s Rally
   Analysts from Barclays Plc to Citigroup Inc. are bullish on the Mexican peso in the short term. Find favor in the
@@ -75,10 +59,6 @@
 - Jinkushal Industries IPO to list on Friday; GMP indicates strong listing. Check price and other key details here
   Jinkushal Industries, a construction machinery exporter, is set to debut on October 3. With a grey market premium of  ₹21, the estimated listing price stood
   🔗 https://www.livemint.com/market/ipo/jinkushal-industries-ipo-to-list-on-friday-gmp-indicates-strong-listing-check-price-and-other-key-details-here-11759326558137.html
-
-- Wall Street edges down as paltry jobs data &amp; govt shutdown stoke uncertainty, Nike jumps 4%
-  The Dow Jones Industrial Average fell 0.14%, the S&amp;amp
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-today-us-stocks-edge-lower-on-weak-jobs-data-govt-shutdown-11759326759720.html
 
 - Xbox Game Pass Ultimate gets steep 50% hike as Microsoft reworks subscription plans
   Microsoft has increased the price of its Xbox Game Pass Ultimate subscription by 50%. The company also rebranded some Game Pass plans, emphasizing their commitment to
@@ -100,26 +80,6 @@
   Elon Musk has called on parents to cancel their subscriptions for the sake of children's health.
   🔗 https://www.livemint.com/technology/tech-news/cancel-netflix-elon-musk-issues-urgent-warning-to-parents-11759309338711.html
 
-- Stock Market Today: Dow, S&P 500 Little Changed as Government Shutdown Begins — Live Updates - The Wall Street Journal
-  The Dow, S&amp;P 500 little Changed as Government Shutdown Begins.
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxNbmVVQmNZZm13ZWVwWS1BZnJiaUpwT3Vsd2pGdDFsSm5BVlNHVlJHbjdaY0tXZ3FodlZwZnNRTHA5WUw1OTlRRGRqcGk2dmt1T1FNYzFrSFpqQnIyTXZsQ25jazk1VHlvb1o4MUtPQTE5SnFBdGU0N003X0dkeU9YVXZqV3JHQXQ1ckE?oc=5
-
-- Stock market holiday: Will NSE, BSE remain closed on October 2? Check full list of October holidays - Times of India
-  Stock market holiday: Will NSE, BSE remain closed on October 2? Check
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxPRF8xa0FVbTFtM2dwTGJ1Vm9mX3phNTlTMVVGbkQ0ME41WVkwQ3pLaC1JcnVlSnJCYmJWamVKVWI4Nnp5Z0UySjhNSUZPa1d2bl9wNkxuM2RubFRYeEdZbDRlVUdHQkNjZ2xER01Cb2RBS3lac1VZWlBVZmY1dEt4TTcyVXp2MU1NTjc5dFA5eEFyTVJTbGJxd3Ridk5Ed2VwQVFuQXZheFl5NkZ1aEdGVEE3dXA0cHZPcVVhcnZrWjVkWnR0RTV4d2ZUTjJKOEhQLUlHQWM3SHBkdXdFdGZVYkFuTmtGd3A2ZVo1am41VVg1RUFJVk1vRFVXbW13NnVWUF9NS2d6MHZiV0k2Nl9j0gGUAkFVX3lxTE8temdmZ0Q2UkhUT2RXRzRZYUVsV0lOOHF1N2REajVSYXZCNkxRQ0U3TEdZRDhreDE1MG42WmxuOGVJc2JDRVlGTlpYM3R6bjRzYjRoUTI0ellQZHZPNmYxNjdxT0M2bUtkTGltTjNaMURvOG42a2VuVjEwdkpLR1ZycVpTRW5taDVYNHlKSzFMdjBJY0M5OHYtMzJDcGtPM1ZsdnItLTYxODg5UmhJVHJZXzBwRDRxb1lOdFdBZ0F3WmdFX3FlWm9TNElfZVEweXlGaGpLSmlDenJ0NkMxcWctV21yckUzd2V3QWNZU0dpZUMwX3NwdEVTajI5aWxKaUxfSXdSWG5pWHhqdU53ZExTZ3VHeA?oc=5
-
-- Stock market holiday: Is Indian stock market closed tomorrow for Dussehra, Mahatma Gandhi Jayanti? - Mint
-  Indian stock market closed tomorrow for Dussehra, Mah
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaUhFbVp0ODhoOVJkWlEtZk5sRUNLRDNSOHJzbS1aOExmcHVId09GendNNkdHRC1DdWc4Nkwwc1BfNEtoVlhjSVNrU2poa3l4ckpySjdKZHpEWnQ4MGFxMGpzYU5GYlVMaVVVRGJ5My11MUYySzltOVNqYjR0bWlueEMtV2JpYmkwOERqaHVNTVZFVTRLTGpONXhwYWNOWFVMcUdGcDFiRk9uMEZMVjg3WkFYeFFjeEJVODZBSElCWWJnM3Mza1cxakFhM3hLVGZUVjF4UUN6M1J5dnR4X3ZaU1FmSFJrMjhpU3M4Q0x0X2FrMTltNk5mTNIB_gFBVV95cUxPbTJmMWhUYk1ua0Nmd09sZmNGakJ6bFVteU0tRFJ1SmlURm1IRnBuQkkzbkFEYmY2a0V5Nm5TUS1Qekw2SVllXzNXNzczWUhFUUtJRHd1RFBxNTRlcDNhVEpuRTBqMmVWUVBvdGVSbldrTWRhLWd1U0JybzVTWFdhbTY0Rl9nblA4c2FoaFpGSjkxdWVzakwxN3JkbkljVU03cjVxRzVoVFZ5bjNsNEpqdFEwbHhWVThOeGY5YnRtU0x4VVdKcFpad0t2b2VGbm1SMkpxSnBHLVNOZ3E3SXd6YXRVY2tCYTdnNFExYWRJZG1rUHl6NDRScG81QmJMdw?oc=5
-
-- BSE NSE Holiday: Is the stock market shut or open on October 2 for Gandhi Jayanti, Dussehra? - The Economic Times
-  The Economic Times asks if the stock market will be shut or open on October 2 for
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbWY1V3pNQ0h3blQzc1lBamxtTngwNUF5NFFONkVWSWtCWHNjQ094OXNva3R2aUxHcDJrR0g4dEZaMjJQT1phYWFJSHNUcmpuODNWeFJfMVJSc084TDZ5UEd4ZFJveFFjTEVYY0JZdGJIQXN0Nk5YT3d6ZE9CNEJZb2hPNGpVLU9CZjJFMmI4aEFjbGU0QW9DMDZfREJDUGZaWmhwcWIzcHRzcmZJc0Rucm16aERXQTJQWGg0ZUlCNjJTbnYyRGotcmlIMlRpVE0xY205cTBCXzQ2WDVXdWU3VmFwVTFoYUxrNUFaaXJoVWFDOW1QR2fSAfsBQVVfeXFMT01QZ2stdm0tMGhqMTNvT3ZlQVdlLXJ4bllVUWozLW1kTXoyN3A0WDAwb3lHR2h5SjVUUmIxZDlMTWtaanR2eFFxc1FzeUcxRmtpRWZQd2FyQnUzZUlDRE5UMDlEQWJINzZVYmxoU0U2T1dTR0FmWXdaVU51dFNfUktORGFOQ1JyTDB6UUxTQ3JYN3FJdkpXQ3lFU291UFRJekkxOXZjRDU0TUl2ZGtoaGVSWjRuNnFLbEk5Q1BfaTVja3ZiRnNEci1aUm5tcWJKQlN3dlRjLUcyRExuLVk5d0RoUVY5aUV3TEhwUy1JazhFRmxkcklkUDVDMUk?oc=5
-
-- Sensex jumps 500 points: 3 reasons why markets are rising today - India Today
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZjVKVFE4Nk9IN0VEd1NuYzBKY1NsaENtdWlieTN5R3dTRUVhUV9MOXJGcGxxUi16dW1iSVNSWkZ1UzhIVk13QzEwSWlIa3pzNVVPcHNLd2NJWXJiVmN5QkxQOEE3OUFnT0
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZjVKVFE4Nk9IN0VEd1NuYzBKY1NsaENtdWlieTN5R3dTRUVhUV9MOXJGcGxxUi16dW1iSVNSWkZ1UzhIVk13QzEwSWlIa3pzNVVPcHNLd2NJWXJiVmN5QkxQOEE3OUFnT0JqbHdVdU40RWxNazAydmhQOTVqVGhzaWp1WktIN3JUbE9BTi1FZUZkeFlPMU5nZXY5SzVad2ZIZThSeGhqbHhmUzdSNl85UmZKbTdBOElKR1FfS2w0LUpoR0tWaFlaOHJLVW5TZldVaWYzQ1Ywcl85TkF0ZEJHNlNHaUZzRndHWVkxNnFR0gHzAUFVX3lxTE5iYVJBdm8tZ0FtSGF0bmtVTmFrY0trQVpLWnlqblRDZmloR2RjMWJqS2dRRk1uWGlFMGw0aEYwdFBjay1PWmNxQng1ZWR6bGlWLVR2NWFMRUFRUVFvNHZrZXlsaGgtUFhnQmwxV2V0MzdnNDExQTZ5aHItcHVCOXlhOTlKalppbmZBS1J2dlRnNmdyZHIwb1RhaHJodldCMFM4alZzX3dtZmFOQ2YzbXV1XzAzUWIwRk9kSnZSekJ0WkdnSEhCOHI1a3JqY3dPbFBQSlNBUDFTUGtyVTh1N0Rhc25wOTlEaXFRV3luVjBnMjIwWQ?oc=5
-
 - US markets regulators start shuttering as government shutdown cuts federal funding
   U.S. market regulators began the process of furloughing workers on Wednesday as the federal government shut down. Congress failed to extend funding, curtailing
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-markets-regulators-start-shuttering-as-government-shutdown-cuts-federal-funding/articleshow/124262307.cms
@@ -139,6 +99,86 @@
 - IPO optimally priced to ensure long-term shareholder valuation: LG Electronics India
   LG Electronics India set price band for its massive Rs 11,607 crore IPO at Rs 1,080-1,140 per share.
   🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-optimally-priced-to-ensure-long-term-shareholder-valuation-lg-electronics-india/articleshow/124261958.cms
+
+- US government shutdown: US Embassy in India announces its Twitter account will not be updated regularly u - Times of India
+  U.S. Embassy in India announces its Twitter account will not be updated regularly.
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQV0tRQm9HSldvOUtJd1UzdjZHcVByRFg0cFZjUVdQMGItMk8yZDBvbUgtdXJmX0VrN0RpSmdsSmg0Unk1N2ZORl9udENhRjM5SXpiNmhOQlUzLWV4ZWYwdWtHQTViR1g4VXhidnNHU0I1Y3MzdVdQX28xc3pMQzU0cFY4VDkweE5lZWdtTHB2aUN4WFNpOFFJeTZRZEF5X1BybmZFN2hNQWk4eVliN0xXSV9DTFZYWkw1V3MtQjlGMk1rZHdySVNlMzJIdUJyM3BPQkozc2xkbHEyVnU3ZFFRQVNJODBxN1hMb040Y2ZFVzBwaW5OR213ZmprdUdHNU5yRUJsM3A3dF9kR2ZoM3pPMWNWMUtNeHp0NVRLNtIBogJBVV95cUxPSldQamVvejVKb005U21xSzZIZGpNdHRmRlJyclZLMGgyRElqZVp3RVNZNUtvUlprcXRweU03eU1yWXVzUTRlX21pRFptcXR0QkRrcFZkVTM1VU44dFROYkZ5NU5OTnlGRGNpaWZmOE9fNFA3TlRKNGJTYUx2NC1ZVF9KbzhWMVRFN190N1R6N3Z0djVJU1NjRWU0RVlOalZoZC10TTQwSEVoVW9tUU8wcEpfdmw3cl9IWmtEeWdzSnJ1dlBRTXpRaXRsUXI0Q2FscmxiQUE4ckFudHpLUGNsWUxob0x0bGVGWV94LVcwWWZuMzVwc2w5c1JSd1VHdWtxSkszS0Z4dmZNbTZveUVEOTFVT3ItOHZGQ3hKUmhpaTNUZw?oc=5
+
+- '7 Jets Were Shot Down': Trump Repeats Claim That He "Settled" India-Pak War - NDTV
+  '7 Jets Were Shot Down': Trump Repeats Claim
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFEycHVFX2c4N3pFUHltSkRuMXhOWExieDl3MVJ6dkVaVUY0ZjJaWENub2JOUndQLTd5bFRnUUM3dnBzWl85UUFqSVp4V3prZ3JHb0hOT2lFSjRjMjh6VEdaenBvZ3EycHpkMUxrc2kxaW45NjhVUzRUVjFMY2ZBVjR1U3E2dDF6YmZnUm44NEdJdW84TUFNdGpDeVFiWkhDU1N2TmNyMFV5T3hl0gG0AUFVX3lxTFBYT0ZHNEhxSlMwYU5rNHQ2Y3dkci1FekRoZkkwcGRjbmp1M25nZ3VaMHF3UDdiR3FZaUhzeUotellycTA3OVFENEZQRDVKV0NpUkNvOUFfZURMMVBwR2NucU1NNHMxdHJkUzVPQlVGZl8xallhSDdGY3c3NUtrQmI3Z3pKNlBlNlVwQTNTc0lVR1dEVnZrczhzMlh0U2JZQlNfalg1MGN2YWh3b2JWNW0wajdkUw?oc=5
+
+- Hosabale: RSS custodian of India’s civilisational philosophy - Times of India
+  Hosabale: RSS custod
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3BDaGpoa0h3eEg2a2VPQ1I0MTM5VzNyandzTlFEU1NDb1dIX0dYVktKcmNHMVY2VUM1SFkyNHRMbUFMVjFTN1pvdnctaWNzOU1hNm5ENEdhV2ZpZk5pUGZFYzNRYXo1OEZ4eHQyWDhPb2hxQWpJTllBRl9RRFhXNnBZcTJFUjdrV0VaS05OWnRGckNYdmZVM2l0Zkh4Ukd0MkhPT0ZwdnhOdVQwczI5Z1lSYWdhUGR5NFRwcWptZERnWU9y0gHKAUFVX3lxTE53RkVkaXowaTJKZ2hReVRYTDJHMnVfbloxemQ5U180MlhGV3NsdERaY25oQl9hTnNwUFdhbDR6eldUVjBwRldmdE96OEZlTHFnNFJaTjBiT294X2M1Qjl6MjJIb2c2Tk9VYi1lakgxM3owYWpTRU1GVVRRSHU3V1Q0Z1JqSEJKWkw1cnhSRlNSeUtDUG12Yk9aT25xWGNsdkFvQlllQ1hXUkNMVktmSzUxbUxEWUpjb0g2NWhNRzVMVUUtOWtDM0ZYR0E?oc=5
+
+- ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS, Oppn says ‘sectarian agenda’ | Latest News India - Hindustan Times
+  ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUWVSRHBMMlJRVVlSV0Rqejk2OHZHSGtPdW9ubWZXOExSUnNqMVpfQV8tTzRFYXBjWEM1dUhsQjA1N2k3ZGdsaERZR1FWMmFvUl9YWjlkbGdWOGc2N3pqQTRYZkd6d1FRYXVFQ3ZETlUtbEdQMGE5a3ppT1NqMjd3RWtsSFhTeUFWcE9ZQkdoRGZNeG8tNzlWVE5sVEtsUmw5WmdJUEV1aXNzb1JXMkxxZFlEck8xUUwtNVQ2bGVXQUVFRXVzeUpXdlpZWjVPWFRnVkxwMF82N1FUZ1M3Q1pFbHo2eHBZaWVhWGNYRm1JUk4xcE5HZUY5NTdVONIBgAJBVV95cUxPd3IzSWtqU1Y0TVFraTdWdUk4dS1DZXNQcVBhUlowdkkzS2J2cGllZFZYX1RHNW5yekRyNmVhaC04X21tamNJSldTLW9lMFhFYjV5Vkl2ZlBwdmVad1Y1N0UzWXl5NF9fU2x0amxHeVBEZG1nOEJwaWZKb0hCSllLUE81MzdpVTZ6cV9uRTRESTRuV2pOTzU2eHdvRFNVbExtZjlTVERPd0FpZzEyQ2xYNlNJYkRTc1ptLS1UWV9tQXU5ZDJVeFd1QVltcnh0c3FlUVFmRnV6MHJsanBDU3RDUHNTVk9ld0lFVUJVRGZUWVhrS0NyQXVjRGZvZERBakp5?oc=5
+
+- Sangh continues to guide India forward with hope, purpose | Latest News India - Hindustan Times
+  Sangh continues to guide India forward with hope, purpose.
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbk42a0ZpY0VSRWV4dDBGM3luZ0lsai01MHFtTFF6VDFnUGhEb1M4bkZmeURudWIzNWRJV2pEZXpzMEd1VWRlcVpneHJXanBSUkF5OUd1QXNzUFFuUWJkVUNkd3FGOW82ZUpjX0o0Zm1qZ1ktc0V1Tjc2cGNNNTB6RUVYUE1fTU5Iazc3SC1WaWJmWnpCSEpGWkRkeTlHTWQtNzFVMmxQUGwyeUd3YWpUMU1ObFVJVUpDSG400gHAAUFVX3lxTE9xRFFNZHI4d3BycXp3b2ZVMFotckpLNDFzQzlaVER2NWV3TFBsbE1vOVdaY2hudEpIOEZhX1JHZFAwR21JNVAzV0pIcVVHMU53QzJ3WWNwOTM1T3JNMDVfdk9GWjJDbmFRNXA0SE94MnBoMUctX0ZmN1N1LU9OZjFUY0d5QUczNEhKU0tWQ1VMRUdTU2UxODFkNVBlZ2N6RHZkSjlKN0kyazN0VDMwMTlCRWJvZ0FBNTZxYXhmU19mWQ?oc=5
+
+- US government shutdown: US Embassy in India announces its Twitter account will not be updated regularly u - Times of India
+  U.S. Embassy in India announces its Twitter account will not be updated regularly.
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQV0tRQm9HSldvOUtJd1UzdjZHcVByRFg0cFZjUVdQMGItMk8yZDBvbUgtdXJmX0VrN0RpSmdsSmg0Unk1N2ZORl9udENhRjM5SXpiNmhOQlUzLWV4ZWYwdWtHQTViR1g4VXhidnNHU0I1Y3MzdVdQX28xc3pMQzU0cFY4VDkweE5lZWdtTHB2aUN4WFNpOFFJeTZRZEF5X1BybmZFN2hNQWk4eVliN0xXSV9DTFZYWkw1V3MtQjlGMk1rZHdySVNlMzJIdUJyM3BPQkozc2xkbHEyVnU3ZFFRQVNJODBxN1hMb040Y2ZFVzBwaW5OR213ZmprdUdHNU5yRUJsM3A3dF9kR2ZoM3pPMWNWMUtNeHp0NVRLNtIBogJBVV95cUxPSldQamVvejVKb005U21xSzZIZGpNdHRmRlJyclZLMGgyRElqZVp3RVNZNUtvUlprcXRweU03eU1yWXVzUTRlX21pRFptcXR0QkRrcFZkVTM1VU44dFROYkZ5NU5OTnlGRGNpaWZmOE9fNFA3TlRKNGJTYUx2NC1ZVF9KbzhWMVRFN190N1R6N3Z0djVJU1NjRWU0RVlOalZoZC10TTQwSEVoVW9tUU8wcEpfdmw3cl9IWmtEeWdzSnJ1dlBRTXpRaXRsUXI0Q2FscmxiQUE4ckFudHpLUGNsWUxob0x0bGVGWV94LVcwWWZuMzVwc2w5c1JSd1VHdWtxSkszS0Z4dmZNbTZveUVEOTFVT3ItOHZGQ3hKUmhpaTNUZw?oc=5
+
+- '7 Jets Were Shot Down': Trump Repeats Claim That He "Settled" India-Pak War - NDTV
+  '7 Jets Were Shot Down': Trump Repeats Claim
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFEycHVFX2c4N3pFUHltSkRuMXhOWExieDl3MVJ6dkVaVUY0ZjJaWENub2JOUndQLTd5bFRnUUM3dnBzWl85UUFqSVp4V3prZ3JHb0hOT2lFSjRjMjh6VEdaenBvZ3EycHpkMUxrc2kxaW45NjhVUzRUVjFMY2ZBVjR1U3E2dDF6YmZnUm44NEdJdW84TUFNdGpDeVFiWkhDU1N2TmNyMFV5T3hl0gG0AUFVX3lxTFBYT0ZHNEhxSlMwYU5rNHQ2Y3dkci1FekRoZkkwcGRjbmp1M25nZ3VaMHF3UDdiR3FZaUhzeUotellycTA3OVFENEZQRDVKV0NpUkNvOUFfZURMMVBwR2NucU1NNHMxdHJkUzVPQlVGZl8xallhSDdGY3c3NUtrQmI3Z3pKNlBlNlVwQTNTc0lVR1dEVnZrczhzMlh0U2JZQlNfalg1MGN2YWh3b2JWNW0wajdkUw?oc=5
+
+- Hosabale: RSS custodian of India’s civilisational philosophy - Times of India
+  Hosabale: RSS custod
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3BDaGpoa0h3eEg2a2VPQ1I0MTM5VzNyandzTlFEU1NDb1dIX0dYVktKcmNHMVY2VUM1SFkyNHRMbUFMVjFTN1pvdnctaWNzOU1hNm5ENEdhV2ZpZk5pUGZFYzNRYXo1OEZ4eHQyWDhPb2hxQWpJTllBRl9RRFhXNnBZcTJFUjdrV0VaS05OWnRGckNYdmZVM2l0Zkh4Ukd0MkhPT0ZwdnhOdVQwczI5Z1lSYWdhUGR5NFRwcWptZERnWU9y0gHKAUFVX3lxTE53RkVkaXowaTJKZ2hReVRYTDJHMnVfbloxemQ5U180MlhGV3NsdERaY25oQl9hTnNwUFdhbDR6eldUVjBwRldmdE96OEZlTHFnNFJaTjBiT294X2M1Qjl6MjJIb2c2Tk9VYi1lakgxM3owYWpTRU1GVVRRSHU3V1Q0Z1JqSEJKWkw1cnhSRlNSeUtDUG12Yk9aT25xWGNsdkFvQlllQ1hXUkNMVktmSzUxbUxEWUpjb0g2NWhNRzVMVUUtOWtDM0ZYR0E?oc=5
+
+- ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS, Oppn says ‘sectarian agenda’ | Latest News India - Hindustan Times
+  ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUWVSRHBMMlJRVVlSV0Rqejk2OHZHSGtPdW9ubWZXOExSUnNqMVpfQV8tTzRFYXBjWEM1dUhsQjA1N2k3ZGdsaERZR1FWMmFvUl9YWjlkbGdWOGc2N3pqQTRYZkd6d1FRYXVFQ3ZETlUtbEdQMGE5a3ppT1NqMjd3RWtsSFhTeUFWcE9ZQkdoRGZNeG8tNzlWVE5sVEtsUmw5WmdJUEV1aXNzb1JXMkxxZFlEck8xUUwtNVQ2bGVXQUVFRXVzeUpXdlpZWjVPWFRnVkxwMF82N1FUZ1M3Q1pFbHo2eHBZaWVhWGNYRm1JUk4xcE5HZUY5NTdVONIBgAJBVV95cUxPd3IzSWtqU1Y0TVFraTdWdUk4dS1DZXNQcVBhUlowdkkzS2J2cGllZFZYX1RHNW5yekRyNmVhaC04X21tamNJSldTLW9lMFhFYjV5Vkl2ZlBwdmVad1Y1N0UzWXl5NF9fU2x0amxHeVBEZG1nOEJwaWZKb0hCSllLUE81MzdpVTZ6cV9uRTRESTRuV2pOTzU2eHdvRFNVbExtZjlTVERPd0FpZzEyQ2xYNlNJYkRTc1ptLS1UWV9tQXU5ZDJVeFd1QVltcnh0c3FlUVFmRnV6MHJsanBDU3RDUHNTVk9ld0lFVUJVRGZUWVhrS0NyQXVjRGZvZERBakp5?oc=5
+
+- Sangh continues to guide India forward with hope, purpose | Latest News India - Hindustan Times
+  Sangh continues to guide India forward with hope, purpose.
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbk42a0ZpY0VSRWV4dDBGM3luZ0lsai01MHFtTFF6VDFnUGhEb1M4bkZmeURudWIzNWRJV2pEZXpzMEd1VWRlcVpneHJXanBSUkF5OUd1QXNzUFFuUWJkVUNkd3FGOW82ZUpjX0o0Zm1qZ1ktc0V1Tjc2cGNNNTB6RUVYUE1fTU5Iazc3SC1WaWJmWnpCSEpGWkRkeTlHTWQtNzFVMmxQUGwyeUd3YWpUMU1ObFVJVUpDSG400gHAAUFVX3lxTE9xRFFNZHI4d3BycXp3b2ZVMFotckpLNDFzQzlaVER2NWV3TFBsbE1vOVdaY2hudEpIOEZhX1JHZFAwR21JNVAzV0pIcVVHMU53QzJ3WWNwOTM1T3JNMDVfdk9GWjJDbmFRNXA0SE94MnBoMUctX0ZmN1N1LU9OZjFUY0d5QUczNEhKU0tWQ1VMRUdTU2UxODFkNVBlZ2N6RHZkSjlKN0kyazN0VDMwMTlCRWJvZ0FBNTZxYXhmU19mWQ?oc=5
+
+- US government shutdown: US Embassy in India announces its Twitter account will not be updated regularly u - Times of India
+  U.S. Embassy in India announces its Twitter account will not be updated regularly.
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQV0tRQm9HSldvOUtJd1UzdjZHcVByRFg0cFZjUVdQMGItMk8yZDBvbUgtdXJmX0VrN0RpSmdsSmg0Unk1N2ZORl9udENhRjM5SXpiNmhOQlUzLWV4ZWYwdWtHQTViR1g4VXhidnNHU0I1Y3MzdVdQX28xc3pMQzU0cFY4VDkweE5lZWdtTHB2aUN4WFNpOFFJeTZRZEF5X1BybmZFN2hNQWk4eVliN0xXSV9DTFZYWkw1V3MtQjlGMk1rZHdySVNlMzJIdUJyM3BPQkozc2xkbHEyVnU3ZFFRQVNJODBxN1hMb040Y2ZFVzBwaW5OR213ZmprdUdHNU5yRUJsM3A3dF9kR2ZoM3pPMWNWMUtNeHp0NVRLNtIBogJBVV95cUxPSldQamVvejVKb005U21xSzZIZGpNdHRmRlJyclZLMGgyRElqZVp3RVNZNUtvUlprcXRweU03eU1yWXVzUTRlX21pRFptcXR0QkRrcFZkVTM1VU44dFROYkZ5NU5OTnlGRGNpaWZmOE9fNFA3TlRKNGJTYUx2NC1ZVF9KbzhWMVRFN190N1R6N3Z0djVJU1NjRWU0RVlOalZoZC10TTQwSEVoVW9tUU8wcEpfdmw3cl9IWmtEeWdzSnJ1dlBRTXpRaXRsUXI0Q2FscmxiQUE4ckFudHpLUGNsWUxob0x0bGVGWV94LVcwWWZuMzVwc2w5c1JSd1VHdWtxSkszS0Z4dmZNbTZveUVEOTFVT3ItOHZGQ3hKUmhpaTNUZw?oc=5
+
+- '7 Jets Were Shot Down': Trump Repeats Claim That He "Settled" India-Pak War - NDTV
+  '7 Jets Were Shot Down': Trump Repeats Claim
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFEycHVFX2c4N3pFUHltSkRuMXhOWExieDl3MVJ6dkVaVUY0ZjJaWENub2JOUndQLTd5bFRnUUM3dnBzWl85UUFqSVp4V3prZ3JHb0hOT2lFSjRjMjh6VEdaenBvZ3EycHpkMUxrc2kxaW45NjhVUzRUVjFMY2ZBVjR1U3E2dDF6YmZnUm44NEdJdW84TUFNdGpDeVFiWkhDU1N2TmNyMFV5T3hl0gG0AUFVX3lxTFBYT0ZHNEhxSlMwYU5rNHQ2Y3dkci1FekRoZkkwcGRjbmp1M25nZ3VaMHF3UDdiR3FZaUhzeUotellycTA3OVFENEZQRDVKV0NpUkNvOUFfZURMMVBwR2NucU1NNHMxdHJkUzVPQlVGZl8xallhSDdGY3c3NUtrQmI3Z3pKNlBlNlVwQTNTc0lVR1dEVnZrczhzMlh0U2JZQlNfalg1MGN2YWh3b2JWNW0wajdkUw?oc=5
+
+- Hosabale: RSS custodian of India’s civilisational philosophy - Times of India
+  Hosabale: RSS custod
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3BDaGpoa0h3eEg2a2VPQ1I0MTM5VzNyandzTlFEU1NDb1dIX0dYVktKcmNHMVY2VUM1SFkyNHRMbUFMVjFTN1pvdnctaWNzOU1hNm5ENEdhV2ZpZk5pUGZFYzNRYXo1OEZ4eHQyWDhPb2hxQWpJTllBRl9RRFhXNnBZcTJFUjdrV0VaS05OWnRGckNYdmZVM2l0Zkh4Ukd0MkhPT0ZwdnhOdVQwczI5Z1lSYWdhUGR5NFRwcWptZERnWU9y0gHKAUFVX3lxTE53RkVkaXowaTJKZ2hReVRYTDJHMnVfbloxemQ5U180MlhGV3NsdERaY25oQl9hTnNwUFdhbDR6eldUVjBwRldmdE96OEZlTHFnNFJaTjBiT294X2M1Qjl6MjJIb2c2Tk9VYi1lakgxM3owYWpTRU1GVVRRSHU3V1Q0Z1JqSEJKWkw1cnhSRlNSeUtDUG12Yk9aT25xWGNsdkFvQlllQ1hXUkNMVktmSzUxbUxEWUpjb0g2NWhNRzVMVUUtOWtDM0ZYR0E?oc=5
+
+- ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS, Oppn says ‘sectarian agenda’ | Latest News India - Hindustan Times
+  ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUWVSRHBMMlJRVVlSV0Rqejk2OHZHSGtPdW9ubWZXOExSUnNqMVpfQV8tTzRFYXBjWEM1dUhsQjA1N2k3ZGdsaERZR1FWMmFvUl9YWjlkbGdWOGc2N3pqQTRYZkd6d1FRYXVFQ3ZETlUtbEdQMGE5a3ppT1NqMjd3RWtsSFhTeUFWcE9ZQkdoRGZNeG8tNzlWVE5sVEtsUmw5WmdJUEV1aXNzb1JXMkxxZFlEck8xUUwtNVQ2bGVXQUVFRXVzeUpXdlpZWjVPWFRnVkxwMF82N1FUZ1M3Q1pFbHo2eHBZaWVhWGNYRm1JUk4xcE5HZUY5NTdVONIBgAJBVV95cUxPd3IzSWtqU1Y0TVFraTdWdUk4dS1DZXNQcVBhUlowdkkzS2J2cGllZFZYX1RHNW5yekRyNmVhaC04X21tamNJSldTLW9lMFhFYjV5Vkl2ZlBwdmVad1Y1N0UzWXl5NF9fU2x0amxHeVBEZG1nOEJwaWZKb0hCSllLUE81MzdpVTZ6cV9uRTRESTRuV2pOTzU2eHdvRFNVbExtZjlTVERPd0FpZzEyQ2xYNlNJYkRTc1ptLS1UWV9tQXU5ZDJVeFd1QVltcnh0c3FlUVFmRnV6MHJsanBDU3RDUHNTVk9ld0lFVUJVRGZUWVhrS0NyQXVjRGZvZERBakp5?oc=5
+
+- Sangh continues to guide India forward with hope, purpose | Latest News India - Hindustan Times
+  Sangh continues to guide India forward with hope, purpose.
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbk42a0ZpY0VSRWV4dDBGM3luZ0lsai01MHFtTFF6VDFnUGhEb1M4bkZmeURudWIzNWRJV2pEZXpzMEd1VWRlcVpneHJXanBSUkF5OUd1QXNzUFFuUWJkVUNkd3FGOW82ZUpjX0o0Zm1qZ1ktc0V1Tjc2cGNNNTB6RUVYUE1fTU5Iazc3SC1WaWJmWnpCSEpGWkRkeTlHTWQtNzFVMmxQUGwyeUd3YWpUMU1ObFVJVUpDSG400gHAAUFVX3lxTE9xRFFNZHI4d3BycXp3b2ZVMFotckpLNDFzQzlaVER2NWV3TFBsbE1vOVdaY2hudEpIOEZhX1JHZFAwR21JNVAzV0pIcVVHMU53QzJ3WWNwOTM1T3JNMDVfdk9GWjJDbmFRNXA0SE94MnBoMUctX0ZmN1N1LU9OZjFUY0d5QUczNEhKU0tWQ1VMRUdTU2UxODFkNVBlZ2N6RHZkSjlKN0kyazN0VDMwMTlCRWJvZ0FBNTZxYXhmU19mWQ?oc=5
+
+- US government shutdown: US Embassy in India announces its Twitter account will not be updated regularly u - Times of India
+  U.S. Embassy in India announces its Twitter account will not be updated regularly.
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQV0tRQm9HSldvOUtJd1UzdjZHcVByRFg0cFZjUVdQMGItMk8yZDBvbUgtdXJmX0VrN0RpSmdsSmg0Unk1N2ZORl9udENhRjM5SXpiNmhOQlUzLWV4ZWYwdWtHQTViR1g4VXhidnNHU0I1Y3MzdVdQX28xc3pMQzU0cFY4VDkweE5lZWdtTHB2aUN4WFNpOFFJeTZRZEF5X1BybmZFN2hNQWk4eVliN0xXSV9DTFZYWkw1V3MtQjlGMk1rZHdySVNlMzJIdUJyM3BPQkozc2xkbHEyVnU3ZFFRQVNJODBxN1hMb040Y2ZFVzBwaW5OR213ZmprdUdHNU5yRUJsM3A3dF9kR2ZoM3pPMWNWMUtNeHp0NVRLNtIBogJBVV95cUxPSldQamVvejVKb005U21xSzZIZGpNdHRmRlJyclZLMGgyRElqZVp3RVNZNUtvUlprcXRweU03eU1yWXVzUTRlX21pRFptcXR0QkRrcFZkVTM1VU44dFROYkZ5NU5OTnlGRGNpaWZmOE9fNFA3TlRKNGJTYUx2NC1ZVF9KbzhWMVRFN190N1R6N3Z0djVJU1NjRWU0RVlOalZoZC10TTQwSEVoVW9tUU8wcEpfdmw3cl9IWmtEeWdzSnJ1dlBRTXpRaXRsUXI0Q2FscmxiQUE4ckFudHpLUGNsWUxob0x0bGVGWV94LVcwWWZuMzVwc2w5c1JSd1VHdWtxSkszS0Z4dmZNbTZveUVEOTFVT3ItOHZGQ3hKUmhpaTNUZw?oc=5
+
+- '7 Jets Were Shot Down': Trump Repeats Claim That He "Settled" India-Pak War - NDTV
+  '7 Jets Were Shot Down': Trump Repeats Claim
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFEycHVFX2c4N3pFUHltSkRuMXhOWExieDl3MVJ6dkVaVUY0ZjJaWENub2JOUndQLTd5bFRnUUM3dnBzWl85UUFqSVp4V3prZ3JHb0hOT2lFSjRjMjh6VEdaenBvZ3EycHpkMUxrc2kxaW45NjhVUzRUVjFMY2ZBVjR1U3E2dDF6YmZnUm44NEdJdW84TUFNdGpDeVFiWkhDU1N2TmNyMFV5T3hl0gG0AUFVX3lxTFBYT0ZHNEhxSlMwYU5rNHQ2Y3dkci1FekRoZkkwcGRjbmp1M25nZ3VaMHF3UDdiR3FZaUhzeUotellycTA3OVFENEZQRDVKV0NpUkNvOUFfZURMMVBwR2NucU1NNHMxdHJkUzVPQlVGZl8xallhSDdGY3c3NUtrQmI3Z3pKNlBlNlVwQTNTc0lVR1dEVnZrczhzMlh0U2JZQlNfalg1MGN2YWh3b2JWNW0wajdkUw?oc=5
+
+- Hosabale: RSS custodian of India’s civilisational philosophy - Times of India
+  Hosabale: RSS custod
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3BDaGpoa0h3eEg2a2VPQ1I0MTM5VzNyandzTlFEU1NDb1dIX0dYVktKcmNHMVY2VUM1SFkyNHRMbUFMVjFTN1pvdnctaWNzOU1hNm5ENEdhV2ZpZk5pUGZFYzNRYXo1OEZ4eHQyWDhPb2hxQWpJTllBRl9RRFhXNnBZcTJFUjdrV0VaS05OWnRGckNYdmZVM2l0Zkh4Ukd0MkhPT0ZwdnhOdVQwczI5Z1lSYWdhUGR5NFRwcWptZERnWU9y0gHKAUFVX3lxTE53RkVkaXowaTJKZ2hReVRYTDJHMnVfbloxemQ5U180MlhGV3NsdERaY25oQl9hTnNwUFdhbDR6eldUVjBwRldmdE96OEZlTHFnNFJaTjBiT294X2M1Qjl6MjJIb2c2Tk9VYi1lakgxM3owYWpTRU1GVVRRSHU3V1Q0Z1JqSEJKWkw1cnhSRlNSeUtDUG12Yk9aT25xWGNsdkFvQlllQ1hXUkNMVktmSzUxbUxEWUpjb0g2NWhNRzVMVUUtOWtDM0ZYR0E?oc=5
+
+- ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS, Oppn says ‘sectarian agenda’ | Latest News India - Hindustan Times
+  ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUWVSRHBMMlJRVVlSV0Rqejk2OHZHSGtPdW9ubWZXOExSUnNqMVpfQV8tTzRFYXBjWEM1dUhsQjA1N2k3ZGdsaERZR1FWMmFvUl9YWjlkbGdWOGc2N3pqQTRYZkd6d1FRYXVFQ3ZETlUtbEdQMGE5a3ppT1NqMjd3RWtsSFhTeUFWcE9ZQkdoRGZNeG8tNzlWVE5sVEtsUmw5WmdJUEV1aXNzb1JXMkxxZFlEck8xUUwtNVQ2bGVXQUVFRXVzeUpXdlpZWjVPWFRnVkxwMF82N1FUZ1M3Q1pFbHo2eHBZaWVhWGNYRm1JUk4xcE5HZUY5NTdVONIBgAJBVV95cUxPd3IzSWtqU1Y0TVFraTdWdUk4dS1DZXNQcVBhUlowdkkzS2J2cGllZFZYX1RHNW5yekRyNmVhaC04X21tamNJSldTLW9lMFhFYjV5Vkl2ZlBwdmVad1Y1N0UzWXl5NF9fU2x0amxHeVBEZG1nOEJwaWZKb0hCSllLUE81MzdpVTZ6cV9uRTRESTRuV2pOTzU2eHdvRFNVbExtZjlTVERPd0FpZzEyQ2xYNlNJYkRTc1ptLS1UWV9tQXU5ZDJVeFd1QVltcnh0c3FlUVFmRnV6MHJsanBDU3RDUHNTVk9ld0lFVUJVRGZUWVhrS0NyQXVjRGZvZERBakp5?oc=5
+
+- Sangh continues to guide India forward with hope, purpose | Latest News India - Hindustan Times
+  Sangh continues to guide India forward with hope, purpose.
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbk42a0ZpY0VSRWV4dDBGM3luZ0lsai01MHFtTFF6VDFnUGhEb1M4bkZmeURudWIzNWRJV2pEZXpzMEd1VWRlcVpneHJXanBSUkF5OUd1QXNzUFFuUWJkVUNkd3FGOW82ZUpjX0o0Zm1qZ1ktc0V1Tjc2cGNNNTB6RUVYUE1fTU5Iazc3SC1WaWJmWnpCSEpGWkRkeTlHTWQtNzFVMmxQUGwyeUd3YWpUMU1ObFVJVUpDSG400gHAAUFVX3lxTE9xRFFNZHI4d3BycXp3b2ZVMFotckpLNDFzQzlaVER2NWV3TFBsbE1vOVdaY2hudEpIOEZhX1JHZFAwR21JNVAzV0pIcVVHMU53QzJ3WWNwOTM1T3JNMDVfdk9GWjJDbmFRNXA0SE94MnBoMUctX0ZmN1N1LU9OZjFUY0d5QUczNEhKU0tWQ1VMRUdTU2UxODFkNVBlZ2N6RHZkSjlKN0kyazN0VDMwMTlCRWJvZ0FBNTZxYXhmU19mWQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -160,13 +200,5 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
-
-
-_Last updated: 2025-10-01 18:25:05 UTC_
+_Last updated: 2025-10-02 01:09:32 UTC_
