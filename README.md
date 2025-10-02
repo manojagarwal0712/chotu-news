@@ -1,64 +1,88 @@
 # 📰 Daily News Summaries
 
-- US government shutdown: US Embassy in India announces its Twitter account will not be updated regularly u - Times of India
-  U.S. Embassy in India announces its Twitter account will not be updated regularly.
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQV0tRQm9HSldvOUtJd1UzdjZHcVByRFg0cFZjUVdQMGItMk8yZDBvbUgtdXJmX0VrN0RpSmdsSmg0Unk1N2ZORl9udENhRjM5SXpiNmhOQlUzLWV4ZWYwdWtHQTViR1g4VXhidnNHU0I1Y3MzdVdQX28xc3pMQzU0cFY4VDkweE5lZWdtTHB2aUN4WFNpOFFJeTZRZEF5X1BybmZFN2hNQWk4eVliN0xXSV9DTFZYWkw1V3MtQjlGMk1rZHdySVNlMzJIdUJyM3BPQkozc2xkbHEyVnU3ZFFRQVNJODBxN1hMb040Y2ZFVzBwaW5OR213ZmprdUdHNU5yRUJsM3A3dF9kR2ZoM3pPMWNWMUtNeHp0NVRLNtIBogJBVV95cUxPSldQamVvejVKb005U21xSzZIZGpNdHRmRlJyclZLMGgyRElqZVp3RVNZNUtvUlprcXRweU03eU1yWXVzUTRlX21pRFptcXR0QkRrcFZkVTM1VU44dFROYkZ5NU5OTnlGRGNpaWZmOE9fNFA3TlRKNGJTYUx2NC1ZVF9KbzhWMVRFN190N1R6N3Z0djVJU1NjRWU0RVlOalZoZC10TTQwSEVoVW9tUU8wcEpfdmw3cl9IWmtEeWdzSnJ1dlBRTXpRaXRsUXI0Q2FscmxiQUE4ckFudHpLUGNsWUxob0x0bGVGWV94LVcwWWZuMzVwc2w5c1JSd1VHdWtxSkszS0Z4dmZNbTZveUVEOTFVT3ItOHZGQ3hKUmhpaTNUZw?oc=5
+- PM Modi speaks to Cong leader Mallikarjun Kharge, wishes him speedy recovery
+  
+  🔗 https://indianexpress.com/article/india/pm-modi-speaks-kharge-wishes-him-speedy-recovery-10283462/
 
-- '7 Jets Were Shot Down': Trump Repeats Claim That He "Settled" India-Pak War - NDTV
-  '7 Jets Were Shot Down': Trump Repeats Claim
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFEycHVFX2c4N3pFUHltSkRuMXhOWExieDl3MVJ6dkVaVUY0ZjJaWENub2JOUndQLTd5bFRnUUM3dnBzWl85UUFqSVp4V3prZ3JHb0hOT2lFSjRjMjh6VEdaenBvZ3EycHpkMUxrc2kxaW45NjhVUzRUVjFMY2ZBVjR1U3E2dDF6YmZnUm44NEdJdW84TUFNdGpDeVFiWkhDU1N2TmNyMFV5T3hl0gG0AUFVX3lxTFBYT0ZHNEhxSlMwYU5rNHQ2Y3dkci1FekRoZkkwcGRjbmp1M25nZ3VaMHF3UDdiR3FZaUhzeUotellycTA3OVFENEZQRDVKV0NpUkNvOUFfZURMMVBwR2NucU1NNHMxdHJkUzVPQlVGZl8xallhSDdGY3c3NUtrQmI3Z3pKNlBlNlVwQTNTc0lVR1dEVnZrczhzMlh0U2JZQlNfalg1MGN2YWh3b2JWNW0wajdkUw?oc=5
+- ‘Deeply ironical’: India slams Pakistan at UNHRC over its ‘human rights criticism of India’
+  
+  🔗 https://indianexpress.com/article/india/india-slams-pakistan-unhrc-geneva-human-rights-criticism-10283350/
 
-- Hosabale: RSS custodian of India’s civilisational philosophy - Times of India
-  Hosabale: RSS custod
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3BDaGpoa0h3eEg2a2VPQ1I0MTM5VzNyandzTlFEU1NDb1dIX0dYVktKcmNHMVY2VUM1SFkyNHRMbUFMVjFTN1pvdnctaWNzOU1hNm5ENEdhV2ZpZk5pUGZFYzNRYXo1OEZ4eHQyWDhPb2hxQWpJTllBRl9RRFhXNnBZcTJFUjdrV0VaS05OWnRGckNYdmZVM2l0Zkh4Ukd0MkhPT0ZwdnhOdVQwczI5Z1lSYWdhUGR5NFRwcWptZERnWU9y0gHKAUFVX3lxTE53RkVkaXowaTJKZ2hReVRYTDJHMnVfbloxemQ5U180MlhGV3NsdERaY25oQl9hTnNwUFdhbDR6eldUVjBwRldmdE96OEZlTHFnNFJaTjBiT294X2M1Qjl6MjJIb2c2Tk9VYi1lakgxM3owYWpTRU1GVVRRSHU3V1Q0Z1JqSEJKWkw1cnhSRlNSeUtDUG12Yk9aT25xWGNsdkFvQlllQ1hXUkNMVktmSzUxbUxEWUpjb0g2NWhNRzVMVUUtOWtDM0ZYR0E?oc=5
+- RSS chief Mohan Bhagwat hails Operation Sindoor, says Pahalgam attack ‘revealed India’s true friends’
+  
+  🔗 https://indianexpress.com/article/india/rss-mohan-bhagwat-vijayadashmi-speech-op-sindoor-pahalgam-10283348/
 
-- ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS, Oppn says ‘sectarian agenda’ | Latest News India - Hindustan Times
-  ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUWVSRHBMMlJRVVlSV0Rqejk2OHZHSGtPdW9ubWZXOExSUnNqMVpfQV8tTzRFYXBjWEM1dUhsQjA1N2k3ZGdsaERZR1FWMmFvUl9YWjlkbGdWOGc2N3pqQTRYZkd6d1FRYXVFQ3ZETlUtbEdQMGE5a3ppT1NqMjd3RWtsSFhTeUFWcE9ZQkdoRGZNeG8tNzlWVE5sVEtsUmw5WmdJUEV1aXNzb1JXMkxxZFlEck8xUUwtNVQ2bGVXQUVFRXVzeUpXdlpZWjVPWFRnVkxwMF82N1FUZ1M3Q1pFbHo2eHBZaWVhWGNYRm1JUk4xcE5HZUY5NTdVONIBgAJBVV95cUxPd3IzSWtqU1Y0TVFraTdWdUk4dS1DZXNQcVBhUlowdkkzS2J2cGllZFZYX1RHNW5yekRyNmVhaC04X21tamNJSldTLW9lMFhFYjV5Vkl2ZlBwdmVad1Y1N0UzWXl5NF9fU2x0amxHeVBEZG1nOEJwaWZKb0hCSllLUE81MzdpVTZ6cV9uRTRESTRuV2pOTzU2eHdvRFNVbExtZjlTVERPd0FpZzEyQ2xYNlNJYkRTc1ptLS1UWV9tQXU5ZDJVeFd1QVltcnh0c3FlUVFmRnV6MHJsanBDU3RDUHNTVk9ld0lFVUJVRGZUWVhrS0NyQXVjRGZvZERBakp5?oc=5
+- Gold Today Rate, October 2: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+  
+  🔗 https://indianexpress.com/article/india/gold-today-rate-october-2-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10283341/
 
-- Sangh continues to guide India forward with hope, purpose | Latest News India - Hindustan Times
-  Sangh continues to guide India forward with hope, purpose.
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbk42a0ZpY0VSRWV4dDBGM3luZ0lsai01MHFtTFF6VDFnUGhEb1M4bkZmeURudWIzNWRJV2pEZXpzMEd1VWRlcVpneHJXanBSUkF5OUd1QXNzUFFuUWJkVUNkd3FGOW82ZUpjX0o0Zm1qZ1ktc0V1Tjc2cGNNNTB6RUVYUE1fTU5Iazc3SC1WaWJmWnpCSEpGWkRkeTlHTWQtNzFVMmxQUGwyeUd3YWpUMU1ObFVJVUpDSG400gHAAUFVX3lxTE9xRFFNZHI4d3BycXp3b2ZVMFotckpLNDFzQzlaVER2NWV3TFBsbE1vOVdaY2hudEpIOEZhX1JHZFAwR21JNVAzV0pIcVVHMU53QzJ3WWNwOTM1T3JNMDVfdk9GWjJDbmFRNXA0SE94MnBoMUctX0ZmN1N1LU9OZjFUY0d5QUczNEhKU0tWQ1VMRUdTU2UxODFkNVBlZ2N6RHZkSjlKN0kyazN0VDMwMTlCRWJvZ0FBNTZxYXhmU19mWQ?oc=5
+- News Today Live Updates, 2 October | PM Modi speaks to Kharge, wishes him speedy recovery
+  
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-10-02-2025-news-headlines-10283125/
+
+- Apple halts Vision Pro overhaul to focus on AI glasses: Report
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-halts-vision-pro-overhaul-to-focus-on-ai-glasses-report-10283263/
+
+- Spotify founder Daniel Ek’s next act: long bets in European defence, health
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spotify-founder-daniel-eks-next-act-long-bets-in-european-defence-health-10283247/
+
+- Meta to use AI chats to personalize content and ads from December
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-to-use-ai-chats-to-personalize-content-and-ads-from-december-10283242/
+
+- Qualcomm shifts chips to newer Arm tech as competition with Apple, MediaTek heats up
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/qualcomm-shifts-chips-to-newer-arm-tech-as-competition-with-apple-mediatek-heats-up-10283229/
+
+- Meta to use AI chats to personalise content and ads from December
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-to-use-ai-chats-to-personalize-content-and-ads-from-december-10282485/
+
+- Sam Altman's OpenAI beats Elon Musk's SpaceX as ChatGPT-maker's valuation reaches $500 billion
+  The $500 billion valuation of OpenAI was reached after a deal in which current and former employees sold roughly $6.
+  🔗 https://www.livemint.com/companies/news/sam-altmans-openai-beats-elon-musks-spacex-as-chatgpt-makers-valuation-reaches-500-billion-11759383107149.html
+
+- Not Satya Nadella, this CEO is the richest Indian professional manager; has nearly 10x more net worth than Sundar Pichai
+  Jayshree Ullal of Arista Networks has also topped the list of the wealthiest Indian woman in the list. Radha Vem
+  🔗 https://www.livemint.com/companies/people/not-satya-nadella-jayshree-ullal-ceo-is-the-richest-indian-professional-manager-nearly-10x-more-net-worth-sundar-pichai-11759379434390.html
+
+- Google layoffs: Tech giant fires 100 employees amid AI push — Here's what we know
+  Google lays off 100 employees amid AI
+  🔗 https://www.livemint.com/companies/news/google-layoffs-tech-giant-fires-100-employees-amid-ai-push-heres-what-we-know-11759381872000.html
+
+- Elon Musk creates history! Tesla boss becomes first person ever to hit net worth of $500 billion
+  As of 7:17pm, Elon Musk's net worth stood at $499.1 billion. As per Bloomberg Billionaires Index, the net worth of Elon
+  🔗 https://www.livemint.com/companies/people/elon-musk-creates-history-tesla-boss-becomes-first-person-ever-to-hit-net-worth-500-billion-forbes-real-time-billionaire-11759369466270.html
 
 - Kotak PE arm plans $2 bn fund amid rising private credit demand
   The asset manager is in talks with global investors, including sovereign wealth funds and pension funds
   🔗 https://www.livemint.com/companies/kotak-pe-arm-plans-2-bn-fund-private-credit-demand-investors-wealth-pension-funds-investments-11759301168993.html
 
-- ‘Misinformation, mischievous’: TCS rejects NITES claims about IT major ‘forcing’ 2,500 Pune employees to resign
-  TCS faces accusations from NITES regarding its layoffs, which reportedly affect 2,500 employees in Pune. TCS maintains that the layoffs
-  🔗 https://www.livemint.com/companies/news/misinformation-mischievous-tcs-rejects-nites-claims-about-it-major-forcing-2-500-pune-employees-to-resign-11759338785836.html
+- Glottis IPO allotment to be finalised tomorrow. Here's GMP, how to check status
+  Glottis IPO had opened for subscription on September 29 and closed on October 1. The allotment of Gl
+  🔗 https://www.livemint.com/market/glottis-ipo-allotment-to-be-finalised-tomorrow-heres-gmp-how-to-check-status-11759382075700.html
 
-- Who is Judson Althoff? Satya Nadella appoints new CEO to run Microsoft’s commercial business
-   Judson Althoff will lead what Microsoft CEO Nadella called
-  🔗 https://www.livemint.com/companies/who-is-judson-althoff-satya-nadella-appoints-new-ceo-to-run-microsoft-s-commercial-business-11759337301417.html
+- From infrastructure, metals to renewable energy: Sectors that will drive Indian stock market’s next rally
+  Indian equities ended September positively, with the Nifty 50 up 0.75%. Despite earlier losses and mixed sector performances, analysts suggest sectors like metals, healthcare,
+  🔗 https://www.livemint.com/market/stock-market-news/from-infrastructure-metals-to-renewable-energy-sectors-that-will-drive-indian-stock-market-s-next-rally-11759382893970.html
 
-- Cucinelli Confirms Growth Goal as It Rejects Short-Seller Claims
-  Brunello Cucinelli SpA confirmed its target for full-year growth. Sales jumped by 11% in the first nine months on continued demand.
-  🔗 https://www.livemint.com/companies/news/cucinelli-confirms-growth-goal-as-it-rejects-short-seller-claims-11759335852388.html
+- From GMDC, Delhivery to L&amp;T Finance— THESE 22 Nifty 500 stocks gained over 50% in H1FY26 despite stock market volatility
+  22 companies in the Nifty 500 index achieved remarkable gains exceeding 50% in the first half of FY26. With policy support and anticipated earnings growth, analysts are optimistic about a market revival
+  🔗 https://www.livemint.com/market/stock-market-news/gmdc-delhivery-to-l-t-finance-these-22-nifty-500-stocks-gained-50-in-h1fy26-amid-indian-stock-market-volatility-11759376895502.html
 
-- Trump Plans Review of Equinor’s Empire Wind 2 Near New York
-  The Trump administration told a federal court it intends to reconsider a key US government approval that authorized the construction of Equinor ASA’s planned second phase of
-  🔗 https://www.livemint.com/companies/news/trump-plans-review-of-equinor-s-empire-wind-2-near-new-york-11759335725991.html
+- Fabtech Technologies IPO allotment to be finalised tomorrow. Here's GMP, how to check status
+  Fabtech Technologies initial public offering (IPO) had opened for
+  🔗 https://www.livemint.com/market/ipo/fabtech-technologies-ipo-allotment-to-be-finalised-tomorrow-heres-gmp-how-to-check-status-11759378025846.html
 
-- MercadoLibre Slumps as Rival Amazon Boosts Presence in Brazil
-  Shares of MercadoLibre Inc. are heading for their biggest two-day slump since November. Amazon.com’
-  🔗 https://www.livemint.com/market/stock-market-news/mercadolibre-slumps-as-rival-amazon-boosts-presence-in-brazil-11759347151795.html
+- Stocks to buy for short term: From HAL to SBI— Ajit Mishra of Religare Broking recommends THESE 3 shares
+  Ajit Mishra of Religare Broking shares insights on three stocks to consider for short-term gains. Discover which sectors and stocks are poised
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-hal-sbi-jindal-steel-ajit-mishra-of-religare-broking-recommends-these-3-shares-11759373688133.html
 
-- Mexican Peso Bulls See Trade, Carry Sustaining Currency’s Rally
-  Analysts from Barclays Plc to Citigroup Inc. are bullish on the Mexican peso in the short term. Find favor in the
-  🔗 https://www.livemint.com/market/stock-market-news/mexican-peso-bulls-see-trade-carry-sustaining-currency-s-rally-11759336279106.html
-
-- Dutch Pension Giant Confirms 2026 Move, Boosting Steepener Bets
-  Traders step up wagers on a steeper European interest-rate curve. Dutch pension fund signaled that it’
-  🔗 https://www.livemint.com/market/stock-market-news/dutch-pension-giant-confirms-2026-move-boosting-steepener-bets-11759332861359.html
-
-- Netflix shares extend slide to third day, drop 3% to 2-week low. Here's why
-  Netflix's stock fell 3% to a two-week low of $1,163.21. Elon Musk's calls for a boycott contributed to the decline.
-  🔗 https://www.livemint.com/market/stock-market-news/netflix-shares-extend-slide-to-third-day-drop-3-to-2-week-low-heres-why-11759328297686.html
-
-- Jinkushal Industries IPO to list on Friday; GMP indicates strong listing. Check price and other key details here
-  Jinkushal Industries, a construction machinery exporter, is set to debut on October 3. With a grey market premium of  ₹21, the estimated listing price stood
-  🔗 https://www.livemint.com/market/ipo/jinkushal-industries-ipo-to-list-on-friday-gmp-indicates-strong-listing-check-price-and-other-key-details-here-11759326558137.html
+- Amazon Great Indian Festival brings unbeatable offers on gaming consoles: Up to 75% off top picks for gaming enthusiasts
+  Explore massive discounts on gaming consoles and handheld gaming consoles. Amazon Great Indian Festival 2025 offers something exciting for casual players, retro
+  🔗 https://www.livemint.com/technology/gadgets/amazon-great-indian-festival-brings-unbeatable-offers-on-gaming-consoles-up-to-75-off-top-picks-for-gaming-enthusiasts-11759242384452.html
 
 - Xbox Game Pass Ultimate gets steep 50% hike as Microsoft reworks subscription plans
   Microsoft has increased the price of its Xbox Game Pass Ultimate subscription by 50%. The company also rebranded some Game Pass plans, emphasizing their commitment to
@@ -76,109 +100,45 @@
   Apple has added the iPhone 11 Pro Max and Apple Watch Series 3 to its Vintage list. Vintage products are no longer sold for 5-7 years, with limited repair options as
   🔗 https://www.livemint.com/technology/gadgets/apple-adds-iphone-11-pro-max-and-apple-watch-series-3-to-vintage-list-what-does-it-mean-for-you-11759328521295.html
 
-- ‘Cancel Netflix’: Elon Musk issues urgent warning to parents
-  Elon Musk has called on parents to cancel their subscriptions for the sake of children's health.
-  🔗 https://www.livemint.com/technology/tech-news/cancel-netflix-elon-musk-issues-urgent-warning-to-parents-11759309338711.html
+- Stocks Rise for Fourth Day; Treasuries Rally: Markets Wrap - Bloomberg.com
+  A U.S. government shutdown could impact global markets. Wall Street Journal: S&amp;P 500 Rises to Record After Government Shuts Down.
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPLTVUTk1QakRkSkl2SWEzYUo0V1RwRlhLdVlld2UxMjRWVUhNS0lNcW84a2FvMlZJX2ZMM1gxOXl4Zmx4WjdUTnpBNjBxdFp1bGxTSE0weVppd3IyYjRSbElZWFhYR2FPUnNlVkZDV0l1ZmtKcHJiRXAxQlljbkxVNEkycTZrLTI3VU41Rnd1TlhLcTBm?oc=5
 
-- US markets regulators start shuttering as government shutdown cuts federal funding
-  U.S. market regulators began the process of furloughing workers on Wednesday as the federal government shut down. Congress failed to extend funding, curtailing
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-markets-regulators-start-shuttering-as-government-shutdown-cuts-federal-funding/articleshow/124262307.cms
+- From GMDC, Delhivery to L&T Finance— THESE 22 Nifty 500 stocks gained over 50% in H1FY26 despite stock market volatility - Mint
+  The 22 Nifty 500 stocks gained over 50% in H1FY26 despite stock market
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxNamVMTkhwRGRQa29rcGRXSWR0eFRIdjVGUThzbU82U1UwN3RSekVWYUN5NHZqRXRKa3hMMHBNbXlmeFRWNE9uRmNHUVBsQkxaVHgwMmw3R1MtcXpKZlV6bXhxVW9tUTFWdy04by05VTd4UHNjV3JuWWdGRFhVSnd4eS1JMXdhLUJNTWV4RnU3UWJ2U2VvUFRRTVdZblVBNmFRTXQxUEhCSVgwaTRRVFRyYlRMUTBvR2ItcjRqZVlEOWstS1ZxUV9QR0pocG9IX29OZjdtZ1Y1NlFXQ2pvazBFODl2N0xna3BjSXQ4WFNxTU9XWFdXUzlpT0NHWUl4SjV4TXRhczhjLVpKdEhFYVHSAZMCQVVfeXFMTkdhSjE5cWtIU0RwMXlDYzNuRUdncy1Xc1g3NXdNMTBjMW5yc081NjI5UzBTTFNQdmp0UllHTkJCZUJNdS1IRHJZVVhyVmtTekd4N0pmZVZZTDlERzhTOGxwdThncDMxOWZROVJYVHdxMlkwdVRUbE5wM2l3UUxjYnpBN2ZOWlRGYThRRnJsYmZ3MnBMNzAyblRPTmNmeXRZanM0aE5TSWZxRUdzQnlwVUQxeVhLVkFZUTBMRndMUUJkNVFNaU1US3FJaUlKR2dzcld2VWNXRkxpUkNvaGRXbGhlQ24wcUQtaGVyMVI3OC1zMnFyRmJCSXdfWVI1Q1ZMb3I3YXRzR1pxWmhnNVBmckM0VUU?oc=5
 
-- Central Asia's maiden crypto fund launched in Kazakhstan
-  Kazakhstan has launched Alem Crypto Fund, its first crypto fund. Backed by Binance Kazakhstan, it targets long-term digital asset investments
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/central-asias-maiden-crypto-fund-launched-in-kazakhstan/articleshow/124262152.cms
+- Morning Bid: Darkness falls on dour US jobs market - Reuters
+  "Morning Bid: Darkness falls on
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE85NlJlLXRscDlrNlRzQmg4QVBKNmprWEVON1BSLXNjcld1Y0xMSE5vX29nTjJfRkRfUC00OTdNTjQzeWloSTQ2STR5UEFITjRDSThLWncxMnUyaG03X2hLY2dyMUhMMzgydnNjV2ZfS2k0Zlo0Sndkd2xyV21BQ0U?oc=5
 
-- Infra.Market files IPO papers via confidential route; seeks to raise up to Rs 5,500-cr
-  Tiger Global-backed construction material supply firm Infra.Market has filed for an initial public offering (IPO) worth between Rs 4,500 crore and Rs
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/infra-market-files-ipo-papers-via-confidential-route-seeks-to-raise-up-to-rs-5500-cr/articleshow/124262072.cms
+- European markets set to open higher, building on positive momentum - CNBC
+  European markets set to open higher, building
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPLUo1S0hhNGtQdXJEUkpnc2VSTkx2Q3BiTnpmT0xmcXZvWURsYTR1TURobUpWdUhGaktsRUNuMjNfVzNleEcyNFpLSDBuVUJUaUFKWkxaMXExWmdsMHR0eHZvYzBIY1lmZjk3ZnFfVEVadGVsQlZORUdYR2NOTzBUTy1HZE94NDl3REx1VEdB0gGTAUFVX3lxTFB0Ukk3M3AzbXlSeEk2X3F0UlJDVWU2cV82R3J5aU9HZzdVZ0xJU3ExR2MwMVkydnhxblljckZpWThJOEpkOGhsZ0xVVTJJOFZ5WHJUODhjQ09Ydi1HRFdPUFhFZS1MTXpkQlNDMU03N1ZYUTQ5MXFMTk9MTnJYQTRCSk8yMWN2VkcxMmM3X2V5aEdHVQ?oc=5
 
-- Realtor Runwal Developers approaches Sebi to mobilise Rs 2,000 cr via IPO
-  Real estate company Runwal Developers has submitted its draft papers with markets regulator Sebi for raising Rs 2
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/realtor-runwal-developers-approaches-sebi-to-mobilise-rs-2000-cr-via-ipo/articleshow/124262029.cms
+- Stock market holiday: Will NSE, BSE remain closed on October 2? Check full list of October holidays - Times of India
+  Stock market holiday: Will NSE, BSE remain closed on October 2? Check
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxPRF8xa0FVbTFtM2dwTGJ1Vm9mX3phNTlTMVVGbkQ0ME41WVkwQ3pLaC1JcnVlSnJCYmJWamVKVWI4Nnp5Z0UySjhNSUZPa1d2bl9wNkxuM2RubFRYeEdZbDRlVUdHQkNjZ2xER01Cb2RBS3lac1VZWlBVZmY1dEt4TTcyVXp2MU1NTjc5dFA5eEFyTVJTbGJxd3Ridk5Ed2VwQVFuQXZheFl5NkZ1aEdGVEE3dXA0cHZPcVVhcnZrWjVkWnR0RTV4d2ZUTjJKOEhQLUlHQWM3SHBkdXdFdGZVYkFuTmtGd3A2ZVo1am41VVg1RUFJVk1vRFVXbW13NnVWUF9NS2d6MHZiV0k2Nl9j0gGUAkFVX3lxTE8temdmZ0Q2UkhUT2RXRzRZYUVsV0lOOHF1N2REajVSYXZCNkxRQ0U3TEdZRDhreDE1MG42WmxuOGVJc2JDRVlGTlpYM3R6bjRzYjRoUTI0ellQZHZPNmYxNjdxT0M2bUtkTGltTjNaMURvOG42a2VuVjEwdkpLR1ZycVpTRW5taDVYNHlKSzFMdjBJY0M5OHYtMzJDcGtPM1ZsdnItLTYxODg5UmhJVHJZXzBwRDRxb1lOdFdBZ0F3WmdFX3FlWm9TNElfZVEweXlGaGpLSmlDenJ0NkMxcWctV21yckUzd2V3QWNZU0dpZUMwX3NwdEVTajI5aWxKaUxfSXdSWG5pWHhqdU53ZExTZ3VHeA?oc=5
 
-- IPO optimally priced to ensure long-term shareholder valuation: LG Electronics India
-  LG Electronics India set price band for its massive Rs 11,607 crore IPO at Rs 1,080-1,140 per share.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-optimally-priced-to-ensure-long-term-shareholder-valuation-lg-electronics-india/articleshow/124261958.cms
+- ETMarkets Smart Talk: From BFSI to Healthcare: Key long-term themes for investors over the next 3-5 years from Unmesh Kulkarni
+  Unmesh Kulkarni of Julius Baer India highlights India’s growth opportunities over the next 3–5 years. He notes FPI outflows, tariff uncertainties, and IT sector challenges as short-term headwind
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-from-bfsi-to-healthcare-key-long-term-themes-for-investors-over-the-next-3-5-years-says-unmesh-kulkarni/articleshow/124270131.cms
 
-- US government shutdown: US Embassy in India announces its Twitter account will not be updated regularly u - Times of India
-  U.S. Embassy in India announces its Twitter account will not be updated regularly.
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQV0tRQm9HSldvOUtJd1UzdjZHcVByRFg0cFZjUVdQMGItMk8yZDBvbUgtdXJmX0VrN0RpSmdsSmg0Unk1N2ZORl9udENhRjM5SXpiNmhOQlUzLWV4ZWYwdWtHQTViR1g4VXhidnNHU0I1Y3MzdVdQX28xc3pMQzU0cFY4VDkweE5lZWdtTHB2aUN4WFNpOFFJeTZRZEF5X1BybmZFN2hNQWk4eVliN0xXSV9DTFZYWkw1V3MtQjlGMk1rZHdySVNlMzJIdUJyM3BPQkozc2xkbHEyVnU3ZFFRQVNJODBxN1hMb040Y2ZFVzBwaW5OR213ZmprdUdHNU5yRUJsM3A3dF9kR2ZoM3pPMWNWMUtNeHp0NVRLNtIBogJBVV95cUxPSldQamVvejVKb005U21xSzZIZGpNdHRmRlJyclZLMGgyRElqZVp3RVNZNUtvUlprcXRweU03eU1yWXVzUTRlX21pRFptcXR0QkRrcFZkVTM1VU44dFROYkZ5NU5OTnlGRGNpaWZmOE9fNFA3TlRKNGJTYUx2NC1ZVF9KbzhWMVRFN190N1R6N3Z0djVJU1NjRWU0RVlOalZoZC10TTQwSEVoVW9tUU8wcEpfdmw3cl9IWmtEeWdzSnJ1dlBRTXpRaXRsUXI0Q2FscmxiQUE4ckFudHpLUGNsWUxob0x0bGVGWV94LVcwWWZuMzVwc2w5c1JSd1VHdWtxSkszS0Z4dmZNbTZveUVEOTFVT3ItOHZGQ3hKUmhpaTNUZw?oc=5
+- Bond markets get a boost as RBI holds rates and hints at future easing
+  The RBI’s MPC kept policy rates unchanged at 5.5% in its October 2025 review. Experts say the move restores market confidence, stabilizes borrowing costs, and supports bond market sentiment.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/bond-markets-get-a-boost-as-rbi-holds-rates-and-hints-at-future-easing/articleshow/124269031.cms
 
-- '7 Jets Were Shot Down': Trump Repeats Claim That He "Settled" India-Pak War - NDTV
-  '7 Jets Were Shot Down': Trump Repeats Claim
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFEycHVFX2c4N3pFUHltSkRuMXhOWExieDl3MVJ6dkVaVUY0ZjJaWENub2JOUndQLTd5bFRnUUM3dnBzWl85UUFqSVp4V3prZ3JHb0hOT2lFSjRjMjh6VEdaenBvZ3EycHpkMUxrc2kxaW45NjhVUzRUVjFMY2ZBVjR1U3E2dDF6YmZnUm44NEdJdW84TUFNdGpDeVFiWkhDU1N2TmNyMFV5T3hl0gG0AUFVX3lxTFBYT0ZHNEhxSlMwYU5rNHQ2Y3dkci1FekRoZkkwcGRjbmp1M25nZ3VaMHF3UDdiR3FZaUhzeUotellycTA3OVFENEZQRDVKV0NpUkNvOUFfZURMMVBwR2NucU1NNHMxdHJkUzVPQlVGZl8xallhSDdGY3c3NUtrQmI3Z3pKNlBlNlVwQTNTc0lVR1dEVnZrczhzMlh0U2JZQlNfalg1MGN2YWh3b2JWNW0wajdkUw?oc=5
+- No rate change, no EMI shock: RBI’s move to keep housing demand on track
+  The RBI’s decision to keep the repo rate unchanged at 5.5% in October 2025 has been welcomed by real estate leaders. Experts say the move stabilises borrowing costs and home loan EMIs.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/no-rate-change-no-emi-shock-rbis-move-to-keep-housing-demand-on-track/articleshow/124268989.cms
 
-- Hosabale: RSS custodian of India’s civilisational philosophy - Times of India
-  Hosabale: RSS custod
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3BDaGpoa0h3eEg2a2VPQ1I0MTM5VzNyandzTlFEU1NDb1dIX0dYVktKcmNHMVY2VUM1SFkyNHRMbUFMVjFTN1pvdnctaWNzOU1hNm5ENEdhV2ZpZk5pUGZFYzNRYXo1OEZ4eHQyWDhPb2hxQWpJTllBRl9RRFhXNnBZcTJFUjdrV0VaS05OWnRGckNYdmZVM2l0Zkh4Ukd0MkhPT0ZwdnhOdVQwczI5Z1lSYWdhUGR5NFRwcWptZERnWU9y0gHKAUFVX3lxTE53RkVkaXowaTJKZ2hReVRYTDJHMnVfbloxemQ5U180MlhGV3NsdERaY25oQl9hTnNwUFdhbDR6eldUVjBwRldmdE96OEZlTHFnNFJaTjBiT294X2M1Qjl6MjJIb2c2Tk9VYi1lakgxM3owYWpTRU1GVVRRSHU3V1Q0Z1JqSEJKWkw1cnhSRlNSeUtDUG12Yk9aT25xWGNsdkFvQlllQ1hXUkNMVktmSzUxbUxEWUpjb0g2NWhNRzVMVUUtOWtDM0ZYR0E?oc=5
+- Samsung, SK Hynix shares leap after OpenAI chip deal
+  South Korean shares soared to a record high on Thursday, driven by a significant surge in chipmakers Samsung Electronics and SK Hynix. Both companies secured a major deal to supply memory chips
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/south-korean-shares-hit-record-as-chipmakers-surge-on-openai-deal/articleshow/124268756.cms
 
-- ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS, Oppn says ‘sectarian agenda’ | Latest News India - Hindustan Times
-  ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUWVSRHBMMlJRVVlSV0Rqejk2OHZHSGtPdW9ubWZXOExSUnNqMVpfQV8tTzRFYXBjWEM1dUhsQjA1N2k3ZGdsaERZR1FWMmFvUl9YWjlkbGdWOGc2N3pqQTRYZkd6d1FRYXVFQ3ZETlUtbEdQMGE5a3ppT1NqMjd3RWtsSFhTeUFWcE9ZQkdoRGZNeG8tNzlWVE5sVEtsUmw5WmdJUEV1aXNzb1JXMkxxZFlEck8xUUwtNVQ2bGVXQUVFRXVzeUpXdlpZWjVPWFRnVkxwMF82N1FUZ1M3Q1pFbHo2eHBZaWVhWGNYRm1JUk4xcE5HZUY5NTdVONIBgAJBVV95cUxPd3IzSWtqU1Y0TVFraTdWdUk4dS1DZXNQcVBhUlowdkkzS2J2cGllZFZYX1RHNW5yekRyNmVhaC04X21tamNJSldTLW9lMFhFYjV5Vkl2ZlBwdmVad1Y1N0UzWXl5NF9fU2x0amxHeVBEZG1nOEJwaWZKb0hCSllLUE81MzdpVTZ6cV9uRTRESTRuV2pOTzU2eHdvRFNVbExtZjlTVERPd0FpZzEyQ2xYNlNJYkRTc1ptLS1UWV9tQXU5ZDJVeFd1QVltcnh0c3FlUVFmRnV6MHJsanBDU3RDUHNTVk9ld0lFVUJVRGZUWVhrS0NyQXVjRGZvZERBakp5?oc=5
-
-- Sangh continues to guide India forward with hope, purpose | Latest News India - Hindustan Times
-  Sangh continues to guide India forward with hope, purpose.
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbk42a0ZpY0VSRWV4dDBGM3luZ0lsai01MHFtTFF6VDFnUGhEb1M4bkZmeURudWIzNWRJV2pEZXpzMEd1VWRlcVpneHJXanBSUkF5OUd1QXNzUFFuUWJkVUNkd3FGOW82ZUpjX0o0Zm1qZ1ktc0V1Tjc2cGNNNTB6RUVYUE1fTU5Iazc3SC1WaWJmWnpCSEpGWkRkeTlHTWQtNzFVMmxQUGwyeUd3YWpUMU1ObFVJVUpDSG400gHAAUFVX3lxTE9xRFFNZHI4d3BycXp3b2ZVMFotckpLNDFzQzlaVER2NWV3TFBsbE1vOVdaY2hudEpIOEZhX1JHZFAwR21JNVAzV0pIcVVHMU53QzJ3WWNwOTM1T3JNMDVfdk9GWjJDbmFRNXA0SE94MnBoMUctX0ZmN1N1LU9OZjFUY0d5QUczNEhKU0tWQ1VMRUdTU2UxODFkNVBlZ2N6RHZkSjlKN0kyazN0VDMwMTlCRWJvZ0FBNTZxYXhmU19mWQ?oc=5
-
-- US government shutdown: US Embassy in India announces its Twitter account will not be updated regularly u - Times of India
-  U.S. Embassy in India announces its Twitter account will not be updated regularly.
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQV0tRQm9HSldvOUtJd1UzdjZHcVByRFg0cFZjUVdQMGItMk8yZDBvbUgtdXJmX0VrN0RpSmdsSmg0Unk1N2ZORl9udENhRjM5SXpiNmhOQlUzLWV4ZWYwdWtHQTViR1g4VXhidnNHU0I1Y3MzdVdQX28xc3pMQzU0cFY4VDkweE5lZWdtTHB2aUN4WFNpOFFJeTZRZEF5X1BybmZFN2hNQWk4eVliN0xXSV9DTFZYWkw1V3MtQjlGMk1rZHdySVNlMzJIdUJyM3BPQkozc2xkbHEyVnU3ZFFRQVNJODBxN1hMb040Y2ZFVzBwaW5OR213ZmprdUdHNU5yRUJsM3A3dF9kR2ZoM3pPMWNWMUtNeHp0NVRLNtIBogJBVV95cUxPSldQamVvejVKb005U21xSzZIZGpNdHRmRlJyclZLMGgyRElqZVp3RVNZNUtvUlprcXRweU03eU1yWXVzUTRlX21pRFptcXR0QkRrcFZkVTM1VU44dFROYkZ5NU5OTnlGRGNpaWZmOE9fNFA3TlRKNGJTYUx2NC1ZVF9KbzhWMVRFN190N1R6N3Z0djVJU1NjRWU0RVlOalZoZC10TTQwSEVoVW9tUU8wcEpfdmw3cl9IWmtEeWdzSnJ1dlBRTXpRaXRsUXI0Q2FscmxiQUE4ckFudHpLUGNsWUxob0x0bGVGWV94LVcwWWZuMzVwc2w5c1JSd1VHdWtxSkszS0Z4dmZNbTZveUVEOTFVT3ItOHZGQ3hKUmhpaTNUZw?oc=5
-
-- '7 Jets Were Shot Down': Trump Repeats Claim That He "Settled" India-Pak War - NDTV
-  '7 Jets Were Shot Down': Trump Repeats Claim
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFEycHVFX2c4N3pFUHltSkRuMXhOWExieDl3MVJ6dkVaVUY0ZjJaWENub2JOUndQLTd5bFRnUUM3dnBzWl85UUFqSVp4V3prZ3JHb0hOT2lFSjRjMjh6VEdaenBvZ3EycHpkMUxrc2kxaW45NjhVUzRUVjFMY2ZBVjR1U3E2dDF6YmZnUm44NEdJdW84TUFNdGpDeVFiWkhDU1N2TmNyMFV5T3hl0gG0AUFVX3lxTFBYT0ZHNEhxSlMwYU5rNHQ2Y3dkci1FekRoZkkwcGRjbmp1M25nZ3VaMHF3UDdiR3FZaUhzeUotellycTA3OVFENEZQRDVKV0NpUkNvOUFfZURMMVBwR2NucU1NNHMxdHJkUzVPQlVGZl8xallhSDdGY3c3NUtrQmI3Z3pKNlBlNlVwQTNTc0lVR1dEVnZrczhzMlh0U2JZQlNfalg1MGN2YWh3b2JWNW0wajdkUw?oc=5
-
-- Hosabale: RSS custodian of India’s civilisational philosophy - Times of India
-  Hosabale: RSS custod
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3BDaGpoa0h3eEg2a2VPQ1I0MTM5VzNyandzTlFEU1NDb1dIX0dYVktKcmNHMVY2VUM1SFkyNHRMbUFMVjFTN1pvdnctaWNzOU1hNm5ENEdhV2ZpZk5pUGZFYzNRYXo1OEZ4eHQyWDhPb2hxQWpJTllBRl9RRFhXNnBZcTJFUjdrV0VaS05OWnRGckNYdmZVM2l0Zkh4Ukd0MkhPT0ZwdnhOdVQwczI5Z1lSYWdhUGR5NFRwcWptZERnWU9y0gHKAUFVX3lxTE53RkVkaXowaTJKZ2hReVRYTDJHMnVfbloxemQ5U180MlhGV3NsdERaY25oQl9hTnNwUFdhbDR6eldUVjBwRldmdE96OEZlTHFnNFJaTjBiT294X2M1Qjl6MjJIb2c2Tk9VYi1lakgxM3owYWpTRU1GVVRRSHU3V1Q0Z1JqSEJKWkw1cnhSRlNSeUtDUG12Yk9aT25xWGNsdkFvQlllQ1hXUkNMVktmSzUxbUxEWUpjb0g2NWhNRzVMVUUtOWtDM0ZYR0E?oc=5
-
-- ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS, Oppn says ‘sectarian agenda’ | Latest News India - Hindustan Times
-  ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUWVSRHBMMlJRVVlSV0Rqejk2OHZHSGtPdW9ubWZXOExSUnNqMVpfQV8tTzRFYXBjWEM1dUhsQjA1N2k3ZGdsaERZR1FWMmFvUl9YWjlkbGdWOGc2N3pqQTRYZkd6d1FRYXVFQ3ZETlUtbEdQMGE5a3ppT1NqMjd3RWtsSFhTeUFWcE9ZQkdoRGZNeG8tNzlWVE5sVEtsUmw5WmdJUEV1aXNzb1JXMkxxZFlEck8xUUwtNVQ2bGVXQUVFRXVzeUpXdlpZWjVPWFRnVkxwMF82N1FUZ1M3Q1pFbHo2eHBZaWVhWGNYRm1JUk4xcE5HZUY5NTdVONIBgAJBVV95cUxPd3IzSWtqU1Y0TVFraTdWdUk4dS1DZXNQcVBhUlowdkkzS2J2cGllZFZYX1RHNW5yekRyNmVhaC04X21tamNJSldTLW9lMFhFYjV5Vkl2ZlBwdmVad1Y1N0UzWXl5NF9fU2x0amxHeVBEZG1nOEJwaWZKb0hCSllLUE81MzdpVTZ6cV9uRTRESTRuV2pOTzU2eHdvRFNVbExtZjlTVERPd0FpZzEyQ2xYNlNJYkRTc1ptLS1UWV9tQXU5ZDJVeFd1QVltcnh0c3FlUVFmRnV6MHJsanBDU3RDUHNTVk9ld0lFVUJVRGZUWVhrS0NyQXVjRGZvZERBakp5?oc=5
-
-- Sangh continues to guide India forward with hope, purpose | Latest News India - Hindustan Times
-  Sangh continues to guide India forward with hope, purpose.
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbk42a0ZpY0VSRWV4dDBGM3luZ0lsai01MHFtTFF6VDFnUGhEb1M4bkZmeURudWIzNWRJV2pEZXpzMEd1VWRlcVpneHJXanBSUkF5OUd1QXNzUFFuUWJkVUNkd3FGOW82ZUpjX0o0Zm1qZ1ktc0V1Tjc2cGNNNTB6RUVYUE1fTU5Iazc3SC1WaWJmWnpCSEpGWkRkeTlHTWQtNzFVMmxQUGwyeUd3YWpUMU1ObFVJVUpDSG400gHAAUFVX3lxTE9xRFFNZHI4d3BycXp3b2ZVMFotckpLNDFzQzlaVER2NWV3TFBsbE1vOVdaY2hudEpIOEZhX1JHZFAwR21JNVAzV0pIcVVHMU53QzJ3WWNwOTM1T3JNMDVfdk9GWjJDbmFRNXA0SE94MnBoMUctX0ZmN1N1LU9OZjFUY0d5QUczNEhKU0tWQ1VMRUdTU2UxODFkNVBlZ2N6RHZkSjlKN0kyazN0VDMwMTlCRWJvZ0FBNTZxYXhmU19mWQ?oc=5
-
-- US government shutdown: US Embassy in India announces its Twitter account will not be updated regularly u - Times of India
-  U.S. Embassy in India announces its Twitter account will not be updated regularly.
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQV0tRQm9HSldvOUtJd1UzdjZHcVByRFg0cFZjUVdQMGItMk8yZDBvbUgtdXJmX0VrN0RpSmdsSmg0Unk1N2ZORl9udENhRjM5SXpiNmhOQlUzLWV4ZWYwdWtHQTViR1g4VXhidnNHU0I1Y3MzdVdQX28xc3pMQzU0cFY4VDkweE5lZWdtTHB2aUN4WFNpOFFJeTZRZEF5X1BybmZFN2hNQWk4eVliN0xXSV9DTFZYWkw1V3MtQjlGMk1rZHdySVNlMzJIdUJyM3BPQkozc2xkbHEyVnU3ZFFRQVNJODBxN1hMb040Y2ZFVzBwaW5OR213ZmprdUdHNU5yRUJsM3A3dF9kR2ZoM3pPMWNWMUtNeHp0NVRLNtIBogJBVV95cUxPSldQamVvejVKb005U21xSzZIZGpNdHRmRlJyclZLMGgyRElqZVp3RVNZNUtvUlprcXRweU03eU1yWXVzUTRlX21pRFptcXR0QkRrcFZkVTM1VU44dFROYkZ5NU5OTnlGRGNpaWZmOE9fNFA3TlRKNGJTYUx2NC1ZVF9KbzhWMVRFN190N1R6N3Z0djVJU1NjRWU0RVlOalZoZC10TTQwSEVoVW9tUU8wcEpfdmw3cl9IWmtEeWdzSnJ1dlBRTXpRaXRsUXI0Q2FscmxiQUE4ckFudHpLUGNsWUxob0x0bGVGWV94LVcwWWZuMzVwc2w5c1JSd1VHdWtxSkszS0Z4dmZNbTZveUVEOTFVT3ItOHZGQ3hKUmhpaTNUZw?oc=5
-
-- '7 Jets Were Shot Down': Trump Repeats Claim That He "Settled" India-Pak War - NDTV
-  '7 Jets Were Shot Down': Trump Repeats Claim
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFEycHVFX2c4N3pFUHltSkRuMXhOWExieDl3MVJ6dkVaVUY0ZjJaWENub2JOUndQLTd5bFRnUUM3dnBzWl85UUFqSVp4V3prZ3JHb0hOT2lFSjRjMjh6VEdaenBvZ3EycHpkMUxrc2kxaW45NjhVUzRUVjFMY2ZBVjR1U3E2dDF6YmZnUm44NEdJdW84TUFNdGpDeVFiWkhDU1N2TmNyMFV5T3hl0gG0AUFVX3lxTFBYT0ZHNEhxSlMwYU5rNHQ2Y3dkci1FekRoZkkwcGRjbmp1M25nZ3VaMHF3UDdiR3FZaUhzeUotellycTA3OVFENEZQRDVKV0NpUkNvOUFfZURMMVBwR2NucU1NNHMxdHJkUzVPQlVGZl8xallhSDdGY3c3NUtrQmI3Z3pKNlBlNlVwQTNTc0lVR1dEVnZrczhzMlh0U2JZQlNfalg1MGN2YWh3b2JWNW0wajdkUw?oc=5
-
-- Hosabale: RSS custodian of India’s civilisational philosophy - Times of India
-  Hosabale: RSS custod
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3BDaGpoa0h3eEg2a2VPQ1I0MTM5VzNyandzTlFEU1NDb1dIX0dYVktKcmNHMVY2VUM1SFkyNHRMbUFMVjFTN1pvdnctaWNzOU1hNm5ENEdhV2ZpZk5pUGZFYzNRYXo1OEZ4eHQyWDhPb2hxQWpJTllBRl9RRFhXNnBZcTJFUjdrV0VaS05OWnRGckNYdmZVM2l0Zkh4Ukd0MkhPT0ZwdnhOdVQwczI5Z1lSYWdhUGR5NFRwcWptZERnWU9y0gHKAUFVX3lxTE53RkVkaXowaTJKZ2hReVRYTDJHMnVfbloxemQ5U180MlhGV3NsdERaY25oQl9hTnNwUFdhbDR6eldUVjBwRldmdE96OEZlTHFnNFJaTjBiT294X2M1Qjl6MjJIb2c2Tk9VYi1lakgxM3owYWpTRU1GVVRRSHU3V1Q0Z1JqSEJKWkw1cnhSRlNSeUtDUG12Yk9aT25xWGNsdkFvQlllQ1hXUkNMVktmSzUxbUxEWUpjb0g2NWhNRzVMVUUtOWtDM0ZYR0E?oc=5
-
-- ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS, Oppn says ‘sectarian agenda’ | Latest News India - Hindustan Times
-  ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUWVSRHBMMlJRVVlSV0Rqejk2OHZHSGtPdW9ubWZXOExSUnNqMVpfQV8tTzRFYXBjWEM1dUhsQjA1N2k3ZGdsaERZR1FWMmFvUl9YWjlkbGdWOGc2N3pqQTRYZkd6d1FRYXVFQ3ZETlUtbEdQMGE5a3ppT1NqMjd3RWtsSFhTeUFWcE9ZQkdoRGZNeG8tNzlWVE5sVEtsUmw5WmdJUEV1aXNzb1JXMkxxZFlEck8xUUwtNVQ2bGVXQUVFRXVzeUpXdlpZWjVPWFRnVkxwMF82N1FUZ1M3Q1pFbHo2eHBZaWVhWGNYRm1JUk4xcE5HZUY5NTdVONIBgAJBVV95cUxPd3IzSWtqU1Y0TVFraTdWdUk4dS1DZXNQcVBhUlowdkkzS2J2cGllZFZYX1RHNW5yekRyNmVhaC04X21tamNJSldTLW9lMFhFYjV5Vkl2ZlBwdmVad1Y1N0UzWXl5NF9fU2x0amxHeVBEZG1nOEJwaWZKb0hCSllLUE81MzdpVTZ6cV9uRTRESTRuV2pOTzU2eHdvRFNVbExtZjlTVERPd0FpZzEyQ2xYNlNJYkRTc1ptLS1UWV9tQXU5ZDJVeFd1QVltcnh0c3FlUVFmRnV6MHJsanBDU3RDUHNTVk9ld0lFVUJVRGZUWVhrS0NyQXVjRGZvZERBakp5?oc=5
-
-- Sangh continues to guide India forward with hope, purpose | Latest News India - Hindustan Times
-  Sangh continues to guide India forward with hope, purpose.
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbk42a0ZpY0VSRWV4dDBGM3luZ0lsai01MHFtTFF6VDFnUGhEb1M4bkZmeURudWIzNWRJV2pEZXpzMEd1VWRlcVpneHJXanBSUkF5OUd1QXNzUFFuUWJkVUNkd3FGOW82ZUpjX0o0Zm1qZ1ktc0V1Tjc2cGNNNTB6RUVYUE1fTU5Iazc3SC1WaWJmWnpCSEpGWkRkeTlHTWQtNzFVMmxQUGwyeUd3YWpUMU1ObFVJVUpDSG400gHAAUFVX3lxTE9xRFFNZHI4d3BycXp3b2ZVMFotckpLNDFzQzlaVER2NWV3TFBsbE1vOVdaY2hudEpIOEZhX1JHZFAwR21JNVAzV0pIcVVHMU53QzJ3WWNwOTM1T3JNMDVfdk9GWjJDbmFRNXA0SE94MnBoMUctX0ZmN1N1LU9OZjFUY0d5QUczNEhKU0tWQ1VMRUdTU2UxODFkNVBlZ2N6RHZkSjlKN0kyazN0VDMwMTlCRWJvZ0FBNTZxYXhmU19mWQ?oc=5
-
-- US government shutdown: US Embassy in India announces its Twitter account will not be updated regularly u - Times of India
-  U.S. Embassy in India announces its Twitter account will not be updated regularly.
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQV0tRQm9HSldvOUtJd1UzdjZHcVByRFg0cFZjUVdQMGItMk8yZDBvbUgtdXJmX0VrN0RpSmdsSmg0Unk1N2ZORl9udENhRjM5SXpiNmhOQlUzLWV4ZWYwdWtHQTViR1g4VXhidnNHU0I1Y3MzdVdQX28xc3pMQzU0cFY4VDkweE5lZWdtTHB2aUN4WFNpOFFJeTZRZEF5X1BybmZFN2hNQWk4eVliN0xXSV9DTFZYWkw1V3MtQjlGMk1rZHdySVNlMzJIdUJyM3BPQkozc2xkbHEyVnU3ZFFRQVNJODBxN1hMb040Y2ZFVzBwaW5OR213ZmprdUdHNU5yRUJsM3A3dF9kR2ZoM3pPMWNWMUtNeHp0NVRLNtIBogJBVV95cUxPSldQamVvejVKb005U21xSzZIZGpNdHRmRlJyclZLMGgyRElqZVp3RVNZNUtvUlprcXRweU03eU1yWXVzUTRlX21pRFptcXR0QkRrcFZkVTM1VU44dFROYkZ5NU5OTnlGRGNpaWZmOE9fNFA3TlRKNGJTYUx2NC1ZVF9KbzhWMVRFN190N1R6N3Z0djVJU1NjRWU0RVlOalZoZC10TTQwSEVoVW9tUU8wcEpfdmw3cl9IWmtEeWdzSnJ1dlBRTXpRaXRsUXI0Q2FscmxiQUE4ckFudHpLUGNsWUxob0x0bGVGWV94LVcwWWZuMzVwc2w5c1JSd1VHdWtxSkszS0Z4dmZNbTZveUVEOTFVT3ItOHZGQ3hKUmhpaTNUZw?oc=5
-
-- '7 Jets Were Shot Down': Trump Repeats Claim That He "Settled" India-Pak War - NDTV
-  '7 Jets Were Shot Down': Trump Repeats Claim
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFEycHVFX2c4N3pFUHltSkRuMXhOWExieDl3MVJ6dkVaVUY0ZjJaWENub2JOUndQLTd5bFRnUUM3dnBzWl85UUFqSVp4V3prZ3JHb0hOT2lFSjRjMjh6VEdaenBvZ3EycHpkMUxrc2kxaW45NjhVUzRUVjFMY2ZBVjR1U3E2dDF6YmZnUm44NEdJdW84TUFNdGpDeVFiWkhDU1N2TmNyMFV5T3hl0gG0AUFVX3lxTFBYT0ZHNEhxSlMwYU5rNHQ2Y3dkci1FekRoZkkwcGRjbmp1M25nZ3VaMHF3UDdiR3FZaUhzeUotellycTA3OVFENEZQRDVKV0NpUkNvOUFfZURMMVBwR2NucU1NNHMxdHJkUzVPQlVGZl8xallhSDdGY3c3NUtrQmI3Z3pKNlBlNlVwQTNTc0lVR1dEVnZrczhzMlh0U2JZQlNfalg1MGN2YWh3b2JWNW0wajdkUw?oc=5
-
-- Hosabale: RSS custodian of India’s civilisational philosophy - Times of India
-  Hosabale: RSS custod
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3BDaGpoa0h3eEg2a2VPQ1I0MTM5VzNyandzTlFEU1NDb1dIX0dYVktKcmNHMVY2VUM1SFkyNHRMbUFMVjFTN1pvdnctaWNzOU1hNm5ENEdhV2ZpZk5pUGZFYzNRYXo1OEZ4eHQyWDhPb2hxQWpJTllBRl9RRFhXNnBZcTJFUjdrV0VaS05OWnRGckNYdmZVM2l0Zkh4Ukd0MkhPT0ZwdnhOdVQwczI5Z1lSYWdhUGR5NFRwcWptZERnWU9y0gHKAUFVX3lxTE53RkVkaXowaTJKZ2hReVRYTDJHMnVfbloxemQ5U180MlhGV3NsdERaY25oQl9hTnNwUFdhbDR6eldUVjBwRldmdE96OEZlTHFnNFJaTjBiT294X2M1Qjl6MjJIb2c2Tk9VYi1lakgxM3owYWpTRU1GVVRRSHU3V1Q0Z1JqSEJKWkw1cnhSRlNSeUtDUG12Yk9aT25xWGNsdkFvQlllQ1hXUkNMVktmSzUxbUxEWUpjb0g2NWhNRzVMVUUtOWtDM0ZYR0E?oc=5
-
-- ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS, Oppn says ‘sectarian agenda’ | Latest News India - Hindustan Times
-  ‘Bharat Mata’ first time on currency as PM releases coin to mark 100 yrs of RSS
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUWVSRHBMMlJRVVlSV0Rqejk2OHZHSGtPdW9ubWZXOExSUnNqMVpfQV8tTzRFYXBjWEM1dUhsQjA1N2k3ZGdsaERZR1FWMmFvUl9YWjlkbGdWOGc2N3pqQTRYZkd6d1FRYXVFQ3ZETlUtbEdQMGE5a3ppT1NqMjd3RWtsSFhTeUFWcE9ZQkdoRGZNeG8tNzlWVE5sVEtsUmw5WmdJUEV1aXNzb1JXMkxxZFlEck8xUUwtNVQ2bGVXQUVFRXVzeUpXdlpZWjVPWFRnVkxwMF82N1FUZ1M3Q1pFbHo2eHBZaWVhWGNYRm1JUk4xcE5HZUY5NTdVONIBgAJBVV95cUxPd3IzSWtqU1Y0TVFraTdWdUk4dS1DZXNQcVBhUlowdkkzS2J2cGllZFZYX1RHNW5yekRyNmVhaC04X21tamNJSldTLW9lMFhFYjV5Vkl2ZlBwdmVad1Y1N0UzWXl5NF9fU2x0amxHeVBEZG1nOEJwaWZKb0hCSllLUE81MzdpVTZ6cV9uRTRESTRuV2pOTzU2eHdvRFNVbExtZjlTVERPd0FpZzEyQ2xYNlNJYkRTc1ptLS1UWV9tQXU5ZDJVeFd1QVltcnh0c3FlUVFmRnV6MHJsanBDU3RDUHNTVk9ld0lFVUJVRGZUWVhrS0NyQXVjRGZvZERBakp5?oc=5
-
-- Sangh continues to guide India forward with hope, purpose | Latest News India - Hindustan Times
-  Sangh continues to guide India forward with hope, purpose.
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbk42a0ZpY0VSRWV4dDBGM3luZ0lsai01MHFtTFF6VDFnUGhEb1M4bkZmeURudWIzNWRJV2pEZXpzMEd1VWRlcVpneHJXanBSUkF5OUd1QXNzUFFuUWJkVUNkd3FGOW82ZUpjX0o0Zm1qZ1ktc0V1Tjc2cGNNNTB6RUVYUE1fTU5Iazc3SC1WaWJmWnpCSEpGWkRkeTlHTWQtNzFVMmxQUGwyeUd3YWpUMU1ObFVJVUpDSG400gHAAUFVX3lxTE9xRFFNZHI4d3BycXp3b2ZVMFotckpLNDFzQzlaVER2NWV3TFBsbE1vOVdaY2hudEpIOEZhX1JHZFAwR21JNVAzV0pIcVVHMU53QzJ3WWNwOTM1T3JNMDVfdk9GWjJDbmFRNXA0SE94MnBoMUctX0ZmN1N1LU9OZjFUY0d5QUczNEhKU0tWQ1VMRUdTU2UxODFkNVBlZ2N6RHZkSjlKN0kyazN0VDMwMTlCRWJvZ0FBNTZxYXhmU19mWQ?oc=5
+- Japan's Nikkei rises after 4 days of losses as chip-related shares jump
+  Japan's Nikkei share average posted a slight gain on Thursday, ending a four-session losing streak. Analysts suggest the recovery might be brief due to cautious retail investors and overall negative market sentiment.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-rises-after-4-days-of-losses-as-chip-related-shares-jump/articleshow/124268732.cms
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -200,5 +160,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-_Last updated: 2025-10-02 01:09:32 UTC_
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+
+
+_Last updated: 2025-10-02 06:25:38 UTC_
