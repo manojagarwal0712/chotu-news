@@ -1,264 +1,172 @@
 # 📰 Daily News Summaries
 
-- Central Pollution Control Board pulls up UP tanneries for wastewater treatment violations
+- ‘Pakistan will think whether it wants to remain on world map’: Army chief warns Islamabad over terror sponsoring
   
-  🔗 https://indianexpress.com/article/india/central-pollution-control-board-up-tanneries-wastewater-treatment-violations-10285045/
+  🔗 https://indianexpress.com/article/india/pakistan-army-chief-islamabad-over-terror-sponsoring-operation-sindoor-10285763/
 
-- Zubeen Garg death: All you need to know
+- Amid PoK protests, India says Pakistan must be held accountable for horrific human rights violations
   
-  🔗 https://indianexpress.com/article/india/zubeen-garg-death-scuba-accident-dorwning-arrest-key-updates-10284986/
+  🔗 https://indianexpress.com/article/india/pakistan-india-pok-accountable-human-rights-violations-10285657/
 
-- Gold Today Rate, October 3: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- Train to Mizoram: Kolkata – Sairang Express crosses 140% occupancy within weeks of launch
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-october-3-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10284968/
+  🔗 https://indianexpress.com/article/india/train-to-mizoram-kolkata-sairang-express-crosses-140-occupancy-within-weeks-of-launch-10285467/
 
-- Sonam Wangchuk’s wife Geetanjali moves Supreme Court seeking Ladakh activist’s release
+- Two prisoners escape from Odisha jail while staff, inmates were celebrating Dussehra
   
-  🔗 https://indianexpress.com/article/india/sonam-wangchuk-wife-geetanjali-supreme-court-ladakh-protest-10284852/
+  🔗 https://indianexpress.com/article/india/two-prisoners-escape-from-odisha-jail-while-staff-inmates-were-celebrating-dussehra-10285447/
 
-- Bank Holiday Today: Are banks open or closed on Friday and Saturday, October 3-4? City-wise list
+- After Mizoram, Railways starts freight train operations from Nagaland
   
-  🔗 https://indianexpress.com/article/india/durga-puja-dasain-bank-holidays-october-3-4-2025-city-list-10284810/
+  🔗 https://indianexpress.com/article/india/after-mizoram-railways-starts-freight-train-operations-from-nagaland-10285379/
 
-- Yahoo nears deal to sell AOL to Italy’s Bending Spoons for $1.4 billion, sources say
+- Wildfire smoke will kill thousands more by 2050, study finds
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/yahoo-nears-deal-to-sell-aol-to-italys-bending-spoons-for-1-4-billion-sources-say-10285026/
+  🔗 https://indianexpress.com/article/technology/science/wildfire-smoke-will-kill-thousands-more-by-2050-study-finds-10285748/
 
-- Dutch court orders Meta to change Facebook and Instagram timeline settings
+- Android’s new Developer Verification program may change how you install apps
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/dutch-court-orders-meta-to-change-facebook-and-instagram-timeline-settings-10285004/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/android-verification-program-sideloading-third-party-app-store-10285459/
 
-- OpenAI hits $500 billion valuation after share sale to SoftBank, source says
+- WhatsApp Beta: New features enhance calls and scheduling; call hub, quick access, business verification and more
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-hits-500-billion-valuation-after-share-sale-to-softbank-source-says-10284989/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-beta-new-features-enhance-calls-and-scheduling-10285642/
 
-- Zoho’s Arattai: How to install it and five features that stand out
+- Project Moohan: Samsung’s latest VR headset to feature Snapdragon XR2+ Gen 2
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/zohos-arattai-how-to-install-it-and-five-features-that-stand-out-10283975/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/project-moohan-samsungs-latest-vr-headset-to-feature-snapdragon-xr2-gen-2-10285339/
 
-- Google AI Mode now lets you search with pictures and get visual inspiration
+- Perplexity Comet AI browser is now free for all: Here’s how it differs from Chrome and Firefox
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-ai-mode-now-lets-you-search-with-pictures-and-get-visual-inspiration-10283856/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/perplexity-comet-ai-browser-free-windows-mac-features-10285011/
+
+- Sellers on Flipkart cry foul as tax invoicing rejig hits margins
+   Flipkart's new logistics invoicing structure, which recasts marketplace fees as ‘Goods Transport
+  🔗 https://www.livemint.com/companies/flipkart-gta-charges-gst-controversy-seller-margins-invoicing-structure-ecommerce-11759482101638.html
+
+- A  ₹2,500 crore lawsuit is India's first corporate class action. Here's why legal firms, boardrooms are watching.
+  The suit over alleged  ₹2,500 crore asset
+  🔗 https://www.livemint.com/companies/india-first-2500-crore-class-action-investors-law-minority-shareholders-promoters-11759401503670.html
+
+- L&amp;T secures major orders for building &amp; factories business in Bengaluru and Mumbai
+  The orders include a Lumpsum Turnkey project for a large IT Park in Bengaluru and a mixed-use development project in Mumbai. These orders are classified as 'Major,' indicating a
+  🔗 https://www.livemint.com/companies/news/lt-secures-major-orders-for-building-factories-business-in-bengaluru-and-mumbai-11759475996720.html
+
+- This loss-making startup founder is richer than Shah Rukh Khan after a 223% jump in his net worth
+   Physics Wallah co-founder Alakh Pandey has a net worth of  �
+  🔗 https://www.livemint.com/companies/people/this-loss-making-startup-physicswallah-alakh-pandey-founder-richer-than-shah-rukh-khan-after-223-percent-jump-net-worth-11759469568229.html
 
 - A fourth-generation heir’s bold pivot—from sugar to bioplastics
   Avantika Saraogi, 33, is set to transform her family’s 50-year-old sugar empire. “We as an industry
   🔗 https://www.livemint.com/companies/people/avantika-saraogi-balrampur-chini-bioplastics-pivot-11759326251227.html
 
-- Chennai Customs accuses Wintrack of ‘pattern of unsubstantiated allegations’ as govt probes bribery, corruption
-  Chennai Customs has refuted the cargo company and its founder's allegations as false. Chennai Customs cited document violations, including
-  🔗 https://www.livemint.com/companies/news/chennai-customs-deny-corruption-harassment-blames-wintrack-pattern-unsubstantiated-allegations-goods-document-govt-probe-11759452707473.html
+- Trualt Bioenergy shares close first day strong, yet below listing price. Should you buy, sell or hold?
+  Trualt Bioenergy debuted on Dalal Street with a 6.65% gain. Investors are advised to book partial profits, retaining some shares with a stop loss.
+  🔗 https://www.livemint.com/market/ipo/trualt-bioenergy-shares-close-first-day-strong-yet-below-listing-price-should-you-buy-sell-or-hold-11759486181548.html
 
-- UBS Funds Face Half-Billion-Dollar Exposure to First Brands
-   Funds under the UBS Group AG umbrella face more than half a billion dollars of exposure to bankrupt auto-parts supplier First Brands Group. One ranking as the biggest un
-  🔗 https://www.livemint.com/companies/company-results/ubs-funds-face-half-billion-dollar-exposure-to-first-brands-11759429096557.html
+- Banks, metals boost Indias equity benchmarks to weekly gains
+  Banks, metals
+  🔗 https://www.livemint.com/market/stock-market-news/banks-metals-boost-indias-equity-benchmarks-to-weekly-gains-11759486869177.html
 
-- IHC makes its biggest splash yet in India's financial sector with  ₹8,850 crore Sammaan Capital deal
-  The transaction will trigger a mandatory open offer for an additional 26% stake. IHC's holding in Sammaan
-  🔗 https://www.livemint.com/companies/ihc-sammaan-capital-india-financial-services-investment-housing-finance-11759422000834.html
+- Stock market today: Sensex jumps over 200 points, Nifty 50 closes near 24,900 led by metals, banks - 10 key highlights
+  Nifty 50 and Sensex rose due to strong performances in metal and banking sectors. Key stocks like Tata Steel and Kotak Mahindra Bank led the gains.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-jumps-over-200-points-nifty-50-closes-near-24-900-led-by-metals-banks-10-key-highlights-11759485712829.html
 
-- Elon Musk cannot move SECs Twitter lawsuit out of Washington DC, judge rules
-  Elon Musk cannot move SEC's Twitter
-  🔗 https://www.livemint.com/companies/news/elon-musk-cannot-move-secs-twitter-lawsuit-out-of-washington-dc-judge-rules-11759425754302.html
+- IPO Watch: Eldeco Infrastructure files draft papers with SEBI for  ₹1,000 crore IPO
+  Eldeco Infrastructure has filed a draft red herring prospectus for an IPO. The firm aims to use funds for debt repayment and corporate purposes.
+  🔗 https://www.livemint.com/market/ipo/ipo-watch-eldeco-infrastructure-files-draft-papers-with-sebi-for-rs-1-000-crore-ipo-11759483175930.html
 
-- Bharti Airtel to BEL- Prashanth Tapse of Mehta Equities suggests stocks to buy in the short term
-  Nifty 50 flat at 24,829 amid foreign selling pressures. Experts suggest buying opportunities in Bharti Airtel, Adani Ports, and Bharat Electronics.
-  🔗 https://www.livemint.com/market/stock-market-news/bharti-airtel-to-bel-prashanth-tapse-of-mehta-equities-suggests-stocks-to-buy-in-the-short-term-11759468329672.html
+- Small-cap stock under  ₹50 Kelton Technologies jumps 4% despite sideways trend on Dalal Street
+  The small-cap stock has remained volatile in the near-term. The stock has given 8.56 per cent returns in
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-kelton-technologies-jumps-4-despite-sideways-trend-on-dalal-street-11759479659831.html
 
-- V-Mart Retail share price up over 12% after Q2FY26 business update
-  V-Mart Retail share price gained over 6% in one month, but fell 1% in the past six months. The smallcap stock has declined 18% on a year-to-date (YTD
-  🔗 https://www.livemint.com/market/stock-market-news/vmart-retail-share-price-up-over-12-after-q2fy26-business-update-11759468754001.html
+- Not WhatsApp, Signal or Telegram, only Zoho's Arattai gives users this unique feature in 2025 — Check details here
+  Sridhar Vembu-run Zoho Corp's messaging app Arattai has jumped ranks in the India app store. Amid the buzz, we take a look at
+  🔗 https://www.livemint.com/technology/apps/arattai-gives-users-official-android-tv-app-download-2025-zoho-unique-feature-no-other-message-whatsapp-telegram-signal-11759479854161.html
 
-- Jinkushal Industries shares make lukewarm debut, list at 3% premium over IPO price
-  Jinkushal share price listed at  ₹125 apiece at both NSE and BSE.
-  🔗 https://www.livemint.com/market/stock-market-news/jinkushal-industries-shares-make-lukewarm-debut-list-at-3-premium-over-ipo-price-11759466547142.html
+- Aravind Srinivas takes a jab at Google as $200 Perplexity Comet browser goes free: ‘O hey hi Chrome!’
+  Perplexity CEO Aravind Srinivas took a swipe at Google Chrome. The company made its $200-a-month Comet browser free for all. He also launched Comet Plus with top media partners.
+  🔗 https://www.livemint.com/technology/tech-news/perplexity-ceo-aravind-srinivas-jabs-at-google-as-200-comet-browser-goes-free-o-hey-hi-chrome-11759476382816.html
 
-- Gold prices today in your city: Check cost in Mumbai, Bengaluru, Chennai, Hyderabad, New Delhi, Kolkata on October 3
-  Gold and silver prices in Mumbai, Bengaluru, Chennai, Hyderabad, Delhi and Kolkata
-  🔗 https://www.livemint.com/market/commodities/gold-prices-today-october-3-your-city-check-mumbai-bengaluru-chennai-hyderabad-delhi-kolkata-record-high-markets-invest-11759284225106.html
+- Nvidia and Fujitsu agree to work together on AI robots and other technology
+  N Nvidia and Fujitsu agree to work
+  🔗 https://www.livemint.com/technology/tech-news/nvidia-and-fujitsu-agree-to-work-together-on-ai-robots-and-other-technology-11759478355358.html
 
-- Trualt Bioenergy share price makes a positive debut, opens with 10% premium at  ₹545.40 apiece on NSE
-  The TruAlt Bioenergy IPO raised  ₹750 crore, with total proceeds of  ⁹839.38 crore. The company is expanding its biofu
-  🔗 https://www.livemint.com/market/ipo/trualt-bioenergy-ipo-gmp-trualt-bioenergy-ipo-trualt-bioenergy-ipo-allotment-status-trualt-bioenergy-share-price-11759463538544.html
+- How to disable iOS 26’s new Visited Places feature in Apple Maps
+  iOS 26 adds Visited Places in Apple Maps, which logs users’ locations with encryption and syncs across devices. Here's how you can
+  🔗 https://www.livemint.com/technology/tech-news/apple-ios-26-brings-visited-places-to-apple-maps-tracking-where-you-go-how-to-disable-the-feature-11759474118749.html
 
 - Apple fast-tracks Smart Glasses for 2026 debut, puts Vision Pro on hold to rival Meta Ray-Bans: Report
   Apple is reportedly prioritising its first smart glasses over the next Vision Pro. Expected in 2026–27, the fashion-focused glasses will likely
   🔗 https://www.livemint.com/technology/tech-news/apple-fast-tracks-smart-glasses-for-2026-debut-puts-vision-pro-on-hold-to-rival-meta-ray-bans-report-11759466943436.html
 
-- What triggered Apple’s ban on ICEBlock app? The answer lies in Donald Trump’s crackdown: Here's what happened
-  Apple has removed ICEBlock, a popular app that tracked US immigration agents. The Justice Department said the app put officers at risk. Its developer now faces possible
-  🔗 https://www.livemint.com/technology/tech-news/what-triggered-apple-s-ban-on-iceblock-app-the-answer-lies-in-donald-trump-s-crackdown-heres-what-happened-11759460377976.html
+- Metal stocks rally; Lloyds Metals jumps over 6%, Tata Steel up more than 3%
+  Lloyds Metals surged over 6 per cent, helping the broader equity market.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/metal-stocks-rally-lloyds-metals-jumps-over-6-tata-steel-up-more-than-3/articleshow/124291527.cms
 
-- Ulaa browser rivals Google Chrome with Smart Tabs, Ad Blocker, Password Manager and more | Key features explained
-  Zoho’s Ulaa browser, now topping App Store charts, offers built-in tools like tab grouping, cross-device sync, ad blocking,
-  🔗 https://www.livemint.com/technology/tech-news/from-tab-management-to-privacy-tools-key-features-of-zohos-ulaa-browser-explained-11759457972991.html
+- India bonds rise; benchmark yield ends flat after new 10-year note sale
+  Indian government bonds rose on Friday as sentiment turned upbeat following a dovish central bank guidance. The benchmark yield ended flat, as investors sold the note after the issue of
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-benchmark-yield-ends-flat-after-new-10-year-note-sale/articleshow/124291494.cms
 
-- Data breach alert! Google warns hackers exploited Oracle apps to steal data and send extortion emails
-  Google warns that hackers linked to Cl0p are extorting major firms. They claim breaches of Oracle’s E-Business Suite
-  🔗 https://www.livemint.com/technology/tech-news/data-breach-alert-google-warns-hackers-exploited-oracle-apps-to-steal-data-and-send-extortion-emails-11759454790894.html
+- Indian Bank, Tata Steel and six other stocks hit 52‑week high; rally up to 20% in a month
+  Sensex rose 223 points to 81,207, with Canara Bank gaining 20% in a month. Indian Bank, Tata Steel and six other stocks from the BSE 200 index hit 52‑week highs
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-tata-steel-and-six-other-stocks-hit-52week-high-rally-up-to-20-in-a-month/slideshow/124291092.cms
 
-- Boom or bubble: How long can the AI investment craze last?
-   AI investment craze is
-  🔗 https://www.livemint.com/technology/tech-news/boom-or-bubble-how-long-can-the-ai-investment-craze-last-11759429705313.html
+- Gainers &amp; Losers: Tata Investment among 8 stocks that hogged limelight on Friday
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-losers-tata-investment-among-8-stocks-that-hogged-limelight-on-friday/slideshow/124290111.cms
 
-- Asia markets track gains on Wall Street as investors look past government shutdown - CNBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0w5WnU2T1cwTnQyTlltbHl2NjZ6Rl9XWTRiZFZnUTA2Z1Z6MDdxTndfLXBzcF9jVkdqTW9Edl9QUHFoeG5ZWkcxVDZ6bWJnM1kzbGpQU29jcEVZT21YMlU5dy1VMHBoeH
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0w5WnU2T1cwTnQyTlltbHl2NjZ6Rl9XWTRiZFZnUTA2Z1Z6MDdxTndfLXBzcF9jVkdqTW9Edl9QUHFoeG5ZWkcxVDZ6bWJnM1kzbGpQU29jcEVZT21YMlU5dy1VMHBoeHVOTFYtckhQSDNvZ2lJaWpLUm9LUmpTbGxlVFJFX200emZVbTFfNjlOcHFHcTI1UlVhUlE3SE9abDQ1UG80ckE1cnJ50gGyAUFVX3lxTFA3ZE9xTml1eXdaeHlVWFJkTU91QXZNa1pkak1CUTd2TmZzdldnUGpqQmxkRTVLTW1mZkhCRVM2TlVKd0dRMllnTHRlYnoxV2V2bmVKcDJtRGRmcVdWTkRJVXhvTy1ZbndVNXI3S2NZenAwWXhwUF9RSFZMb3hnX25aV3YtVXZiWndhSzh1WmxHSGswZ01kUVJpdHRKVlZZdDVvSjVFQXBCbldyS0xHTGlMOGc?oc=5
-
-- BOC Suggests Markets Too Focused on Its Core Inflation Gauges - Mint
-  BOC Suggests Markets Too Focused
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNLUpBWS1jbGx6N25pcjVPdlR1QTJCZkhDdXU2MmxhQTJCWFVSWXJjU2l3SHg3bUYzVFVIdzhETVFmLWJZcl9FVWpkUzdBUk9JdXhUZ2hCMEc0RG16cDkzQ2luV2Z4VTZQVzRPUlhzUVRpOXUwUHJWd0dBUDY5V01vcEVRQTlkVm05RmY3WVlxQWFkRmExSnh3amRlaThZR0dURzh2VnBmNlFvZ1ZDOWFKTTV3ZDdtalB1NUFTZ002Z1ROb0ktcG9nc1FqWdIB0AFBVV95cUxQRnUwb05EZVhQdkhQN09JN0VSNFVNVmIyWmFoWHRxY2lQa3lSLUtFTDRueGdvV0NOZmJiNzFjT2lwYTRTUXlmUEtIR0QwSkd4YkVHNzE3Q1ZOdmxzSUlkLW5xSzE2WXhSalUwajAxUUFkZmxxLXpqWlFEclQ1cGIyOTl6T0w2c3FfLUd6M09sek0xTXh0N3pNV0pZTkNOZmktM0hUbERSb0pCZ1VNamNPbk5TWEtTV3ZGV2Fod1FZdnFzZUZTazdyZ04wQlhLdU5y?oc=5
-
-- MCX shares rise 2.5% to hit 6-week high after UBS forecasts strong September quarter earnings - Moneycontrol
-  MCX shares rise 2.5% to hit 6-week
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbFBGQ2kwa2RmSFZPNTZ2OHpWTzNwV0ZyUUd4UExqM2QwSzJEcTJ6Y0tUQldMemVncjAtVjdQMGFwME9OQncyeDd6bDBwb3lmd19VSTZ2bndNeUMwT1UteXJQZlloeE90SC12UUdhenhSLTBreExKZDZ5bExnajhvRXVTRnhyYlI3U3lFXzgxUkhwdVFNcmFaLUludXZXOWN6NXJtOVFVMElKNG9SRG1LdWhjMFFjSXdOcUdyaGZ4dUJibmJQUXhQNlhiZVgxSTUyZTlEazRickFGeTJ0c2p0Tjg5aVNfdEpxUTg5NE1DRmlqQzjSAfMBQVVfeXFMUGxQRkNpMGtkZkhWTzU2djh6Vk8zcFdGclFHeFBMajNkMEsyRHEyemNLVEJXTHplZ3IwLVY3UDBhcDBPTkJ3Mng3emwwcG95ZndfVUk2dm53TXlDME9VLXlyUGZZaHhPdEgtdlFHYXp4Ui0wa3hMSmQ2eWxMZ2o4b0V1U0Z4cmJSN1N5RV84MVJIcHVRTXJhWi1JbnV2VzljejVybTlRVTBJSjRvUkRtS3VoYzBRY0l3TnFHcmhmeHVCYm5iUFF4UDZYYmVYMUk1MmU5RGs0YnJBRnkydHNqdE44OWlTX3RKcVE4OTRNQ0ZpakM4?oc=5
-
-- European stocks set to extend gains after touching fresh record high - CNBC
-  European stocks set to extend gains after touching fresh
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPUGF4R2MtNmJ0NWl5SlMyN0xISGFsLVlsZUVIQnlHTGN2YWR6N3lZSi03ZjM0Z0lvenp5b29rVk9jOURkRWlibUhrcGh3WVFKWlZUVFk0NWZOb1Z4N0o0M2RURHJZTmtvcUpldkg2YzdVblRpaThyc0xLTzZuT0lKNG1EWG91bzROQlEyRDUwZklWQdIBlwFBVV95cUxNTEhqWTVIaDdWc0hjcjBBOHdObjNwUUVYU3hjeTMxcWdKU2lPOUN2NFpUTGdXTWRNbUw1czdZSEYyMlJXS0pMaUJXZ01jVnpEY25WajNBQk8tTXlyaHlUOUY4dmlzZHphOFJzLTBHalB4bmJTcmFaN1FJTzZMVWxCSl9OaVFCYnlrbnk2bDFnMFptQlJLZFhF?oc=5
-
-- Japan yields edge to 2008 high ahead of LDP leadership vote - The Economic Times
-  Japan yields edge to 2008 high ahead of LDP leadership
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOR3psZzRpN1NWQWZkbTl0VUFsbmpkdGtoVzVUanhJajFLSXg4RUZWcHIwRk5vVWhCSVhibDU4b1hHXzhXYWVsb01WZWI4Yl9jcjBFZHpyYURtdVNJUkQyYUwxMjdpd3J0UUE2c2lJVzBHUndkV2dOOXVwUkZkODV4aHFzOXd4eFZCVXBmT2pEMmJZQy0xS3BEakw4UnVNY2VfQVpLYjlzQWMyVkxETkdVUjctUFZGY011Q19PaEc5NGRSWjVVVE4yVG1ERdIBywFBVV95cUxOR3psZzRpN1NWQWZkbTl0VUFsbmpkdGtoVzVUanhJajFLSXg4RUZWcHIwRk5vVWhCSVhibDU4b1hHXzhXYWVsb01WZWI4Yl9jcjBFZHpyYURtdVNJUkQyYUwxMjdpd3J0UUE2c2lJVzBHUndkV2dOOXVwUkZkODV4aHFzOXd4eFZCVXBmT2pEMmJZQy0xS3BEakw4UnVNY2VfQVpLYjlzQWMyVkxETkdVUjctUFZGY011Q19PaEc5NGRSWjVVVE4yVG1ERQ?oc=5
-
-- Japan yields edge to 2008 high ahead of LDP leadership vote
-  Bank of Japan Governor Kazuo Ueda offered no clear indication on an interest rate hike this month. Traders currently place 37 percent odds on a quarter-point rate increase.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/japan-yields-edge-to-2008-high-ahead-of-ldp-leadership-vote/articleshow/124284624.cms
-
-- WeWork India IPO Day 1: Issue subscribed just 1% in early hours. Check GMP and key details. Should you apply?
-  WeWork India’s IPO saw a slow start, with just 1% subscription on Day 1 and a modest grey market premium of 2.3%. The offering comprises 4.62 crore shares, totalling Rs 3,000 crore
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/wework-india-ipo-day-1-issue-subscribed-just-1-in-early-hours-check-gmp-and-key-details-should-you-apply/articleshow/124284605.cms
-
-- TruAlt Bioenergy shares fall 3% from day’s high after debut. Should you buy, sell or hold?
-  TruAlt Bioenergy shares debuted strongly but gave up early gains, trading at Rs 530 on the NSE. The company, a high-growth player in biofuels and renewable energy, benefits from government support and strong demand.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/trualt-bioenergy-shares-fall-3-from-days-high-after-debut-should-you-buy-sell-or-hold/articleshow/124284535.cms
-
-- Investor education key to counter get-rich-quick culture: Sunil Subramaniam
-  Subramaniam stressed the need for investor education and responsible distribution. “Equities are a good wealth creation and inflation-beating asset class, but not like a lottery,” he said.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/investor-education-key-to-counter-get-rich-quick-culture-sunil-subramaniam/articleshow/124284420.cms
-
-- Tata Group’s last IPO had a multibagger at listing. Can Tata Capital repeat the feat?
-  Tata Capital will launch its Rs 15,512 crore IPO on October 6. The company is India's third-largest diversified NBFC. Investors will consider its financial performance against market competition.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/tata-groups-last-ipo-had-a-multibagger-at-listing-can-tata-capital-repeat-the-feat/articleshow/124284477.cms
+- P N Gadgil Jewellers shares rally 5% after festive season sales soar 65% YoY
+  P N Gadgil Jewellers reported record festive sales, with Navratri and Dussehra revenue up 65% YoY to �
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/p-n-gadgil-jewellers-shares-rally-5-after-festive-season-sales-soar-65-yoy/articleshow/124290079.cms
 
 - "India Won't Allow Humiliation": Putin's Big Praise For PM Modi Amid US Tariffs - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZU
+  "India Won't Allow Humiliation": Putin's Big
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZUVFVjlmaHBPR21hWHBybHpGcFRoSUF6MWZkOFF3dUVuZFBYR0pXZ0ZyaFBpZHN5TzYtNmVUZm5WLXRROWFUbkJycHZncXJodWpNbjdYTzNBSEpDMUlKTzV3b2dHckJTaUV1RdIB0wFBVV95cUxNbDd0XzBFZ08zTVV2elhzS1JYZlNyRmpkaGd2dmdGaU5mRjZZNkEwY0QyRUtwYWpJcUFtN3VPQkJOWUdGRk5XSW1BT1RyRUo2SGRnQ1A2YzJLUVFVUVpBOC14U3VFbEphdkI4enpBbV9DNWJ5anlPRE1XZFAzZjBiVVNFYzNPSjdfWGxtanprSXI2OWdNN1lzT2w2UzRKWkdBa0NrcjJ1cXh2MlNQdllkMG5QUUwtSjl2cDhkMUxjaHRpblA0aXk5V1ZKNmFVeFJfQ2dV?oc=5
 
-- ‘Zubeen was for all’: Singer’s death unites India’s religiously torn Assam - Al Jazeera
-  ‘Zubeen was for all’
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0dqS19ObDJnaG1UemtrdlZOX1dfNVZNR2lRdkYzZUxlbnRNeXQ2MFRuS1dueTljM1g1Y2otQVFjbTdDTWh1aXJialhSSFFhVmNMcndya2ZuYktpU0ZjN2ZvZlUwUG5kM1pBbVJydVFvNC1ua1lTX3NwX1hBZ21pTEtmbkJ6dGpleDUwckRBeDlXcEhMaFQya2x2NmFyRkhVeEo1YXNfSlVGcUJudWZj0gG0AUFVX3lxTE1vdmV0R2NKYklKUG8wVlltQ2pJR2dYVU1MdjRFeHA1dWl1a0p2YUdYWTNkLUFNeGJ6cDFMREJ0MkJPWmQ2VXV3ci1SWTVKTUk4bEI2cC1ROGx1Q09XekZBbkhnN0FRZUViZVBCMWVNSHZ2Q3ZMMzBMZXZ5WmRuV2hqc3Z3bHFVRFVLNk1pazJkZEY3VWVzd3dENHNuQ0stekU5alFoSkl4TFdCVUdBb3lNX0NKSA?oc=5
+- US tariffs: Putin says 'India will not allow itself to be humiliated'; calls PM Modi a 'wise leader' - Times of India
+  The Times of India reported that the Indian government is considering an appeal to the U.
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYk9DemVpaUY1UWVtbDFuQ3VXeGVZR0tINzVNQW9ic1Nfa19sd2RzY3hNaWM2X29RbUM4YkdDNUkyZTNKR0g3eVZlUmhTUzBaMlV1RVNqUFFIQWR4VGoybjQ4dkFkeXJxQlRjMW5rQV9sTEpUUVJRblNHT3hwWkEteU5FNWR4RlVrRGlhV1RMY1RCWm9RSHRpenQ2eEY1cFRwUXA1RXFkdjVwemZHd3JtOGxXXzc3SFBPcDRWS2NXQ1J4YS1HaGNxaTFWWE9NYWZBTnJCdVNESl9kTm1POVdYbFdOT3hFcVpLRExhZkNB0gHzAUFVX3lxTE85cHM2eEZyNVZVN2hKNUIzR2dURk43M1BkcFBtSjVhOUdTQ1VxRXN3aGR1NFZVaGVjXzA5T2Vac1VlSGlUMVdBQUNOQ1ZWLTdDRTZpVXA1bEFldjJEeGlFdFBuOVJoUmhKaThSS0dJZ3EyS1RDUTNLbG4wWF9Da3JabmRNRGlSSDRaWURFQ2FuQnhESXVTNnMybHJSX1pIbWl2YUkyeUZTc0llTnFRNGhxVTRGMkVUY3hPdWxHRkdSTlJ6dF9vLW9YZ21SZnJkbGZKc205dnlLSmo4Nmc2YkM5OFhpNDhJcDlOWDFmUUdXNk1wRQ?oc=5
 
-- Zubeen Garg Death: Singapore Police Speak To Singer's Wife, Gives Autopsy Report To Indian Embassy - News18
-  Zubeen Garg was found dead in a Singapore hotel room.
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3pocHdRUE5kNU12RVZxWjBXaVRncWlnbzRYX2FtMnQzU2xlOXZwdkU4cUNSRm16cU9LZ2pDaktRNWtIUExoMmFuRmhZZTBVdlgwTnhLTUxqZmtjYWE1SURXUUNHS3V0YmpWNkw5LU5NSWpqUW5POG1aSlNfQXhIZ01kNllTdGxPem11ZmNpM1VwOG5FaUZNaDN1S3czYTFpZ2lnVWhma1RKeDUxUXp6STdPZWRWdEhuc3VzdUd0MklmaVpqVzhGNUJUYUxuVER1NlpZ0gHYAUFVX3lxTE44a2dUZGkwUU9IU19Xb0NrSHUyaTBoMUVUNno4TUkxTHVmNUozYUJ5eGRDUy0teUZtZWtUZUNsSlgxM1E1V0ZVdDBBWUZ3Wm84b0Y4aFFBZk9wZUFEY1NaU3FQOXFDTmNFRk1pVFU3QU5QSlBhYUs4ek8yT1cxdU9nc0Y0NUJvQmtUa2kzVm11M0hZLXVOOTBhdHpKaHVQbXdjY1YxMzdUcHhqWGZmRXJwNThseDZyb2haN08wZkxQREdUVDM3NHVLNXJLcGJrQkI3SGhqOFQtYw?oc=5
+- It would be a shame if India found supplying weapons to Israel: Navi Pillay - The Hindu
+  It would be a shame if India found supplying weapons to Israel:
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQRC16R3RUZUJZVnBzWFFfcF8yQmVGMEdIVWw5QTBlTURsdGstVzhLb2tkWkNkZzAwQTJrbWJBV3d6ZTUycnZOX3JlbUZzQ0RKMFhPbUxRRXFDcVlNdWE2RDZ6clRWYnItRVBaR0Jza0F1RkROWnlyWko0ZDZrWFFpX3UwRUVMTFpBbThaSG1VZlRVRnZFVUlCMDFLRWRVa1JsUFJNRnY5eENjdmNweEExTElOZV9NMnc0WkJCT25iN1paQ3lqVlctejZMZDHSAdMBQVVfeXFMT0hyaEZLbnB3TFBCYkYweTV0VzZmLVVBbFVpWi1IeUcxYkJ1cFFyUUxUdHJoREdZMjNwcmdyUk8wbG5FNUVKT3MySVlQRVpUSk9Xa1RldnRGZWlyaWtRS2huVW1HSnRsc2JIdGJSXzU0SUc3d2Jmb3VQd1ExNmpFRWlxem05NDVvMXZVbmluN0Y1UkkyQ21tMTZ3aVJNczJEQk9FUE5WdnFLYU4xWWl2NDcxMmZsblhJbzhySGpMVHU2dnBzMERWdWF0cTM1X2ZxWERPMA?oc=5
 
-- Bandmate, Co-Singer Arrested In Zubeen Garg Death Case, Total Now 4 - NDTV
-  Bandmate, Co-Singer Arrested
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTFR1NDVNSm9sTWRZSXNDeDVpQ1JrX2FIMWNOcEN5OWE2U01iSTdEZ0o3R3lGNnpjX3FkUUU3T1hDTkpUalJtLXJVSG0wTm9nRWZ5LUctVjh0TlNZUk5XMUVrdW1kOGNyR3V3cWZNRmxJUnBkOUdOYmRiNkhpY1drbUd1NW1iOFFVa1dHVnc1czhNVlowUks0WFJLSzZZRGd1YTB5VHdvRzdSUm9abmR1TFl0aVlZalVxdl9faGZ4cGdNUVdadl82Q29acGhQMTFNc3M3bHdpTVV4ZnJnaTA5V0tKUEhvcndtRXfSAfIBQVVfeXFMUC1nTF84NlY4T0xXLWhzTjkwemI4VFpsQVRZeEZMeXpfc2tNVFNGV29MX3k5eXBYNHFUekwzZVAySHlsbWRtekhFMEtTcFdRTXFiX2ZxTEROTWp3ODhyME9XanYyLXJLMU1RSW13ckxGRkljOVRfNV9PSjVUcU11N3drRk5RTDRYMDBGdzdTMFQ0LWgtSGpYWm9uNHp1VnVZUXFnOElCeXJuSnp1RkRfNG8zc0xNQXl2cXBLaGZVbi1OQ1h4OXI2VjdoRUR1cWR6a2RkUVVCWC1aSVU4cDZtUlhXYXJVZ0hrWXgwZjdKMzZmRGc?oc=5
+- Putin says US tariffs on Russia's trade partners could backfire: ‘PM Modi would never…’ | Latest News India - Hindustan Times
+  Putin says US tariffs on Russia's trade partners could backfire: ‘PM Modi
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRlhyQ2NINURNeEdJYXN2QnFNTnd4TUNQa0laY05oaFdfaEhOcUhUem84UERjcFJFNC15cExPMGRwLXdhRWRya0RCQk5aVlRXUHQ2Ull2MExLcDFuTDhJS2RnQ01oOW9MS1lGaVFPUC1VZ0IzUnVlWnJHaUt2bllSdWMxMlZhX29SZ0JITUxYNDlyU1NRSXBuNHEzYXFiVWFLci1tUk5BbldPcERiN0JiN2pBaUdFeDE0LWwtR19ZQm54MktKV0I1YlRWQmYtR1VrR0FsODAwUGc5NFhrZGVsadIB5gFBVV95cUxPd3hDMElscm9nQ0tVTXV6SW1ISmxaRGd5ZzVEX3gxV19sTGVIVlYwTXBjaXhrNnJFTXQzb2NXLU1kemJONGVWcDl5S3lfM0xTWmcxMG1KUzNJVDJoZDM0aE5fa1hkTk0wVFNVUEtOaGJrRHZDbWcybTJ2OVBpRmNJc20ybWpmUk45eWVDOHdVVE9SSkJ0QVNUNUlYb3poTlhaTVVmd1g0LUYtWHRaSjF0akZERDQ5Xy1ST3ZMWF9BWEExZVFOeDBRYk15ZWFSS2xpbU0wVll6UjJuMnY4bTR2ZTNIelNsQQ?oc=5
 
-- 'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘I Love Mohammad’ Sparks Row In India - The Times of India
-  'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeHlqbW1NQXdmTkN2RVh4NlVjb2ZUNFh6a2VENGxBZGI4LWd1NmtYS0huVkk4c0llWjJtM0E5QWVQTHgxV2JVU2RUcmhQZjRHQU50Rm9iVktFakI5bGptRkktamw4enpHMEFHZl9waGZCeExYcDBFN0pXMkJIbXU5cGFTYmhua1VnVVZVY0RRbVZlWl9nTTYzTjR4bk5vOEZxbGVFUURPX3c3azhaVGNHeC1od29CWS11TkxWT2FOaWVIQ3dYNXhIaUZFenRjRkhBdGpFX2M5TU5jc1VOVUpUTWNvU2w2ampTd2lGdWFWUm5xZTlKNXfSAfsBQVVfeXFMT1VyNnRiYnYtTk5aTVFfdXRqREsyb3F5eTE5akVXeHZEeC1HME5pUXFqdFhYb01fUHJVTzQ0cEFfX2dvV0hLNHE5UjdnNGFTUHgxUTY5ZjFYN2EtZG1vZUE5LV9XakJHcEFQTGRPSUROSjJVSjdCWDhJZ3RzWWdaTlBGYUppXzlFR0pFSl9pU0haa0NmejZ5WlBoVDIyWGhxU0hIbVU1UmFKb2pZMGQtYnJjTk1Mb3JtN0QxX1o4REFmSGhtM3lpZkotOFVUM0lyZG5tM2I0SVdMam42ZTN6OEZ4cnJyTHVZLXJwN181RmppNWpWci1OajJFblE?oc=5
+- HAL, BEL to Bharat Dynamics: Is it wise to buy defence stocks amid India-Turkey conflict news? - Mint
+  The Indian government is considering buying defence stocks amid India-Turkey
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWnhDUFQ3d2ZRRU1DUVBDdTZOenp6Vk50SGxmNlpyQjJYZHJhRC1iV05leDM1QTZ5eTAyWkliSzFnZFhtVm9udGM1RnpDVmJYWWMyRjFRc0VVX2tDd0VCMHM0UDVpR05tRGhNelFobFZoMG9HX3dBWG5yeFR0eXZzUktyUklhdXRxS0JmYXlrQ0dkYW85aHpNaDF4UkM3bDFtQ0N3MktoLVV5cjNBZWx4eUtMT0lkbzhhRHkyMmdpSFJsR0k0ODVOSGNteUVjMXhxTGZaMms0SXFGanlaYUJwVUdUbW90S0lqWEt1c2ZmQjZnMlXSAfgBQVVfeXFMT1JHZllnOF9mR0kxbmlydmMzOVlsaEF2WXA1Z2ViWHNpRXNLOUh5UlhWbzVOZzVjaFo5YzYwSF9UTmJISnh3S25kc1BOSGV6ZXk4YUx0ZXMxajdpbURGQTEwbkFVZWZVMlY2c0VJU0xQcnV0LTlpVUZKNGR3LTJzcm1XQ19IcDVsa2t0QnZaY0VESWdLU2tUVWpHNmpoTF95aHZSMVViTlRLQ1BfTXZ3NS10X1oyQm5Ia0J0RFd3dlo3MlUydUFKU0YzV2F1RWVnX08tdExDclBHNnQyQ0RfS3ZwR1J4T1h4WVNocmZmVW5pZGxfeFpTd28?oc=5
 
-- "India Won't Allow Humiliation": Putin's Big Praise For PM Modi Amid US Tariffs - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZU
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZUVFVjlmaHBPR21hWHBybHpGcFRoSUF6MWZkOFF3dUVuZFBYR0pXZ0ZyaFBpZHN5TzYtNmVUZm5WLXRROWFUbkJycHZncXJodWpNbjdYTzNBSEpDMUlKTzV3b2dHckJTaUV1RdIB0wFBVV95cUxNbDd0XzBFZ08zTVV2elhzS1JYZlNyRmpkaGd2dmdGaU5mRjZZNkEwY0QyRUtwYWpJcUFtN3VPQkJOWUdGRk5XSW1BT1RyRUo2SGRnQ1A2YzJLUVFVUVpBOC14U3VFbEphdkI4enpBbV9DNWJ5anlPRE1XZFAzZjBiVVNFYzNPSjdfWGxtanprSXI2OWdNN1lzT2w2UzRKWkdBa0NrcjJ1cXh2MlNQdllkMG5QUUwtSjl2cDhkMUxjaHRpblA0aXk5V1ZKNmFVeFJfQ2dV?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- ‘Zubeen was for all’: Singer’s death unites India’s religiously torn Assam - Al Jazeera
-  ‘Zubeen was for all’
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0dqS19ObDJnaG1UemtrdlZOX1dfNVZNR2lRdkYzZUxlbnRNeXQ2MFRuS1dueTljM1g1Y2otQVFjbTdDTWh1aXJialhSSFFhVmNMcndya2ZuYktpU0ZjN2ZvZlUwUG5kM1pBbVJydVFvNC1ua1lTX3NwX1hBZ21pTEtmbkJ6dGpleDUwckRBeDlXcEhMaFQya2x2NmFyRkhVeEo1YXNfSlVGcUJudWZj0gG0AUFVX3lxTE1vdmV0R2NKYklKUG8wVlltQ2pJR2dYVU1MdjRFeHA1dWl1a0p2YUdYWTNkLUFNeGJ6cDFMREJ0MkJPWmQ2VXV3ci1SWTVKTUk4bEI2cC1ROGx1Q09XekZBbkhnN0FRZUViZVBCMWVNSHZ2Q3ZMMzBMZXZ5WmRuV2hqc3Z3bHFVRFVLNk1pazJkZEY3VWVzd3dENHNuQ0stekU5alFoSkl4TFdCVUdBb3lNX0NKSA?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Zubeen Garg Death: Singapore Police Speak To Singer's Wife, Gives Autopsy Report To Indian Embassy - News18
-  Zubeen Garg was found dead in a Singapore hotel room.
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3pocHdRUE5kNU12RVZxWjBXaVRncWlnbzRYX2FtMnQzU2xlOXZwdkU4cUNSRm16cU9LZ2pDaktRNWtIUExoMmFuRmhZZTBVdlgwTnhLTUxqZmtjYWE1SURXUUNHS3V0YmpWNkw5LU5NSWpqUW5POG1aSlNfQXhIZ01kNllTdGxPem11ZmNpM1VwOG5FaUZNaDN1S3czYTFpZ2lnVWhma1RKeDUxUXp6STdPZWRWdEhuc3VzdUd0MklmaVpqVzhGNUJUYUxuVER1NlpZ0gHYAUFVX3lxTE44a2dUZGkwUU9IU19Xb0NrSHUyaTBoMUVUNno4TUkxTHVmNUozYUJ5eGRDUy0teUZtZWtUZUNsSlgxM1E1V0ZVdDBBWUZ3Wm84b0Y4aFFBZk9wZUFEY1NaU3FQOXFDTmNFRk1pVFU3QU5QSlBhYUs4ek8yT1cxdU9nc0Y0NUJvQmtUa2kzVm11M0hZLXVOOTBhdHpKaHVQbXdjY1YxMzdUcHhqWGZmRXJwNThseDZyb2haN08wZkxQREdUVDM3NHVLNXJLcGJrQkI3SGhqOFQtYw?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Bandmate, Co-Singer Arrested In Zubeen Garg Death Case, Total Now 4 - NDTV
-  Bandmate, Co-Singer Arrested
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTFR1NDVNSm9sTWRZSXNDeDVpQ1JrX2FIMWNOcEN5OWE2U01iSTdEZ0o3R3lGNnpjX3FkUUU3T1hDTkpUalJtLXJVSG0wTm9nRWZ5LUctVjh0TlNZUk5XMUVrdW1kOGNyR3V3cWZNRmxJUnBkOUdOYmRiNkhpY1drbUd1NW1iOFFVa1dHVnc1czhNVlowUks0WFJLSzZZRGd1YTB5VHdvRzdSUm9abmR1TFl0aVlZalVxdl9faGZ4cGdNUVdadl82Q29acGhQMTFNc3M3bHdpTVV4ZnJnaTA5V0tKUEhvcndtRXfSAfIBQVVfeXFMUC1nTF84NlY4T0xXLWhzTjkwemI4VFpsQVRZeEZMeXpfc2tNVFNGV29MX3k5eXBYNHFUekwzZVAySHlsbWRtekhFMEtTcFdRTXFiX2ZxTEROTWp3ODhyME9XanYyLXJLMU1RSW13ckxGRkljOVRfNV9PSjVUcU11N3drRk5RTDRYMDBGdzdTMFQ0LWgtSGpYWm9uNHp1VnVZUXFnOElCeXJuSnp1RkRfNG8zc0xNQXl2cXBLaGZVbi1OQ1h4OXI2VjdoRUR1cWR6a2RkUVVCWC1aSVU4cDZtUlhXYXJVZ0hrWXgwZjdKMzZmRGc?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- 'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘I Love Mohammad’ Sparks Row In India - The Times of India
-  'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeHlqbW1NQXdmTkN2RVh4NlVjb2ZUNFh6a2VENGxBZGI4LWd1NmtYS0huVkk4c0llWjJtM0E5QWVQTHgxV2JVU2RUcmhQZjRHQU50Rm9iVktFakI5bGptRkktamw4enpHMEFHZl9waGZCeExYcDBFN0pXMkJIbXU5cGFTYmhua1VnVVZVY0RRbVZlWl9nTTYzTjR4bk5vOEZxbGVFUURPX3c3azhaVGNHeC1od29CWS11TkxWT2FOaWVIQ3dYNXhIaUZFenRjRkhBdGpFX2M5TU5jc1VOVUpUTWNvU2w2ampTd2lGdWFWUm5xZTlKNXfSAfsBQVVfeXFMT1VyNnRiYnYtTk5aTVFfdXRqREsyb3F5eTE5akVXeHZEeC1HME5pUXFqdFhYb01fUHJVTzQ0cEFfX2dvV0hLNHE5UjdnNGFTUHgxUTY5ZjFYN2EtZG1vZUE5LV9XakJHcEFQTGRPSUROSjJVSjdCWDhJZ3RzWWdaTlBGYUppXzlFR0pFSl9pU0haa0NmejZ5WlBoVDIyWGhxU0hIbVU1UmFKb2pZMGQtYnJjTk1Mb3JtN0QxX1o4REFmSGhtM3lpZkotOFVUM0lyZG5tM2I0SVdMam42ZTN6OEZ4cnJyTHVZLXJwN181RmppNWpWci1OajJFblE?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- "India Won't Allow Humiliation": Putin's Big Praise For PM Modi Amid US Tariffs - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZU
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZUVFVjlmaHBPR21hWHBybHpGcFRoSUF6MWZkOFF3dUVuZFBYR0pXZ0ZyaFBpZHN5TzYtNmVUZm5WLXRROWFUbkJycHZncXJodWpNbjdYTzNBSEpDMUlKTzV3b2dHckJTaUV1RdIB0wFBVV95cUxNbDd0XzBFZ08zTVV2elhzS1JYZlNyRmpkaGd2dmdGaU5mRjZZNkEwY0QyRUtwYWpJcUFtN3VPQkJOWUdGRk5XSW1BT1RyRUo2SGRnQ1A2YzJLUVFVUVpBOC14U3VFbEphdkI4enpBbV9DNWJ5anlPRE1XZFAzZjBiVVNFYzNPSjdfWGxtanprSXI2OWdNN1lzT2w2UzRKWkdBa0NrcjJ1cXh2MlNQdllkMG5QUUwtSjl2cDhkMUxjaHRpblA0aXk5V1ZKNmFVeFJfQ2dV?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- ‘Zubeen was for all’: Singer’s death unites India’s religiously torn Assam - Al Jazeera
-  ‘Zubeen was for all’
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0dqS19ObDJnaG1UemtrdlZOX1dfNVZNR2lRdkYzZUxlbnRNeXQ2MFRuS1dueTljM1g1Y2otQVFjbTdDTWh1aXJialhSSFFhVmNMcndya2ZuYktpU0ZjN2ZvZlUwUG5kM1pBbVJydVFvNC1ua1lTX3NwX1hBZ21pTEtmbkJ6dGpleDUwckRBeDlXcEhMaFQya2x2NmFyRkhVeEo1YXNfSlVGcUJudWZj0gG0AUFVX3lxTE1vdmV0R2NKYklKUG8wVlltQ2pJR2dYVU1MdjRFeHA1dWl1a0p2YUdYWTNkLUFNeGJ6cDFMREJ0MkJPWmQ2VXV3ci1SWTVKTUk4bEI2cC1ROGx1Q09XekZBbkhnN0FRZUViZVBCMWVNSHZ2Q3ZMMzBMZXZ5WmRuV2hqc3Z3bHFVRFVLNk1pazJkZEY3VWVzd3dENHNuQ0stekU5alFoSkl4TFdCVUdBb3lNX0NKSA?oc=5
-
-- Zubeen Garg Death: Singapore Police Speak To Singer's Wife, Gives Autopsy Report To Indian Embassy - News18
-  Zubeen Garg was found dead in a Singapore hotel room.
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3pocHdRUE5kNU12RVZxWjBXaVRncWlnbzRYX2FtMnQzU2xlOXZwdkU4cUNSRm16cU9LZ2pDaktRNWtIUExoMmFuRmhZZTBVdlgwTnhLTUxqZmtjYWE1SURXUUNHS3V0YmpWNkw5LU5NSWpqUW5POG1aSlNfQXhIZ01kNllTdGxPem11ZmNpM1VwOG5FaUZNaDN1S3czYTFpZ2lnVWhma1RKeDUxUXp6STdPZWRWdEhuc3VzdUd0MklmaVpqVzhGNUJUYUxuVER1NlpZ0gHYAUFVX3lxTE44a2dUZGkwUU9IU19Xb0NrSHUyaTBoMUVUNno4TUkxTHVmNUozYUJ5eGRDUy0teUZtZWtUZUNsSlgxM1E1V0ZVdDBBWUZ3Wm84b0Y4aFFBZk9wZUFEY1NaU3FQOXFDTmNFRk1pVFU3QU5QSlBhYUs4ek8yT1cxdU9nc0Y0NUJvQmtUa2kzVm11M0hZLXVOOTBhdHpKaHVQbXdjY1YxMzdUcHhqWGZmRXJwNThseDZyb2haN08wZkxQREdUVDM3NHVLNXJLcGJrQkI3SGhqOFQtYw?oc=5
-
-- Bandmate, Co-Singer Arrested In Zubeen Garg Death Case, Total Now 4 - NDTV
-  Bandmate, Co-Singer Arrested
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTFR1NDVNSm9sTWRZSXNDeDVpQ1JrX2FIMWNOcEN5OWE2U01iSTdEZ0o3R3lGNnpjX3FkUUU3T1hDTkpUalJtLXJVSG0wTm9nRWZ5LUctVjh0TlNZUk5XMUVrdW1kOGNyR3V3cWZNRmxJUnBkOUdOYmRiNkhpY1drbUd1NW1iOFFVa1dHVnc1czhNVlowUks0WFJLSzZZRGd1YTB5VHdvRzdSUm9abmR1TFl0aVlZalVxdl9faGZ4cGdNUVdadl82Q29acGhQMTFNc3M3bHdpTVV4ZnJnaTA5V0tKUEhvcndtRXfSAfIBQVVfeXFMUC1nTF84NlY4T0xXLWhzTjkwemI4VFpsQVRZeEZMeXpfc2tNVFNGV29MX3k5eXBYNHFUekwzZVAySHlsbWRtekhFMEtTcFdRTXFiX2ZxTEROTWp3ODhyME9XanYyLXJLMU1RSW13ckxGRkljOVRfNV9PSjVUcU11N3drRk5RTDRYMDBGdzdTMFQ0LWgtSGpYWm9uNHp1VnVZUXFnOElCeXJuSnp1RkRfNG8zc0xNQXl2cXBLaGZVbi1OQ1h4OXI2VjdoRUR1cWR6a2RkUVVCWC1aSVU4cDZtUlhXYXJVZ0hrWXgwZjdKMzZmRGc?oc=5
-
-- 'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘I Love Mohammad’ Sparks Row In India - The Times of India
-  'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeHlqbW1NQXdmTkN2RVh4NlVjb2ZUNFh6a2VENGxBZGI4LWd1NmtYS0huVkk4c0llWjJtM0E5QWVQTHgxV2JVU2RUcmhQZjRHQU50Rm9iVktFakI5bGptRkktamw4enpHMEFHZl9waGZCeExYcDBFN0pXMkJIbXU5cGFTYmhua1VnVVZVY0RRbVZlWl9nTTYzTjR4bk5vOEZxbGVFUURPX3c3azhaVGNHeC1od29CWS11TkxWT2FOaWVIQ3dYNXhIaUZFenRjRkhBdGpFX2M5TU5jc1VOVUpUTWNvU2w2ampTd2lGdWFWUm5xZTlKNXfSAfsBQVVfeXFMT1VyNnRiYnYtTk5aTVFfdXRqREsyb3F5eTE5akVXeHZEeC1HME5pUXFqdFhYb01fUHJVTzQ0cEFfX2dvV0hLNHE5UjdnNGFTUHgxUTY5ZjFYN2EtZG1vZUE5LV9XakJHcEFQTGRPSUROSjJVSjdCWDhJZ3RzWWdaTlBGYUppXzlFR0pFSl9pU0haa0NmejZ5WlBoVDIyWGhxU0hIbVU1UmFKb2pZMGQtYnJjTk1Mb3JtN0QxX1o4REFmSGhtM3lpZkotOFVUM0lyZG5tM2I0SVdMam42ZTN6OEZ4cnJyTHVZLXJwN181RmppNWpWci1OajJFblE?oc=5
-
-- "India Won't Allow Humiliation": Putin's Big Praise For PM Modi Amid US Tariffs - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZU
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZUVFVjlmaHBPR21hWHBybHpGcFRoSUF6MWZkOFF3dUVuZFBYR0pXZ0ZyaFBpZHN5TzYtNmVUZm5WLXRROWFUbkJycHZncXJodWpNbjdYTzNBSEpDMUlKTzV3b2dHckJTaUV1RdIB0wFBVV95cUxNbDd0XzBFZ08zTVV2elhzS1JYZlNyRmpkaGd2dmdGaU5mRjZZNkEwY0QyRUtwYWpJcUFtN3VPQkJOWUdGRk5XSW1BT1RyRUo2SGRnQ1A2YzJLUVFVUVpBOC14U3VFbEphdkI4enpBbV9DNWJ5anlPRE1XZFAzZjBiVVNFYzNPSjdfWGxtanprSXI2OWdNN1lzT2w2UzRKWkdBa0NrcjJ1cXh2MlNQdllkMG5QUUwtSjl2cDhkMUxjaHRpblA0aXk5V1ZKNmFVeFJfQ2dV?oc=5
-
-- ‘Zubeen was for all’: Singer’s death unites India’s religiously torn Assam - Al Jazeera
-  ‘Zubeen was for all’
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0dqS19ObDJnaG1UemtrdlZOX1dfNVZNR2lRdkYzZUxlbnRNeXQ2MFRuS1dueTljM1g1Y2otQVFjbTdDTWh1aXJialhSSFFhVmNMcndya2ZuYktpU0ZjN2ZvZlUwUG5kM1pBbVJydVFvNC1ua1lTX3NwX1hBZ21pTEtmbkJ6dGpleDUwckRBeDlXcEhMaFQya2x2NmFyRkhVeEo1YXNfSlVGcUJudWZj0gG0AUFVX3lxTE1vdmV0R2NKYklKUG8wVlltQ2pJR2dYVU1MdjRFeHA1dWl1a0p2YUdYWTNkLUFNeGJ6cDFMREJ0MkJPWmQ2VXV3ci1SWTVKTUk4bEI2cC1ROGx1Q09XekZBbkhnN0FRZUViZVBCMWVNSHZ2Q3ZMMzBMZXZ5WmRuV2hqc3Z3bHFVRFVLNk1pazJkZEY3VWVzd3dENHNuQ0stekU5alFoSkl4TFdCVUdBb3lNX0NKSA?oc=5
-
-- Zubeen Garg Death: Singapore Police Speak To Singer's Wife, Gives Autopsy Report To Indian Embassy - News18
-  Zubeen Garg was found dead in a Singapore hotel room.
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3pocHdRUE5kNU12RVZxWjBXaVRncWlnbzRYX2FtMnQzU2xlOXZwdkU4cUNSRm16cU9LZ2pDaktRNWtIUExoMmFuRmhZZTBVdlgwTnhLTUxqZmtjYWE1SURXUUNHS3V0YmpWNkw5LU5NSWpqUW5POG1aSlNfQXhIZ01kNllTdGxPem11ZmNpM1VwOG5FaUZNaDN1S3czYTFpZ2lnVWhma1RKeDUxUXp6STdPZWRWdEhuc3VzdUd0MklmaVpqVzhGNUJUYUxuVER1NlpZ0gHYAUFVX3lxTE44a2dUZGkwUU9IU19Xb0NrSHUyaTBoMUVUNno4TUkxTHVmNUozYUJ5eGRDUy0teUZtZWtUZUNsSlgxM1E1V0ZVdDBBWUZ3Wm84b0Y4aFFBZk9wZUFEY1NaU3FQOXFDTmNFRk1pVFU3QU5QSlBhYUs4ek8yT1cxdU9nc0Y0NUJvQmtUa2kzVm11M0hZLXVOOTBhdHpKaHVQbXdjY1YxMzdUcHhqWGZmRXJwNThseDZyb2haN08wZkxQREdUVDM3NHVLNXJLcGJrQkI3SGhqOFQtYw?oc=5
-
-- Bandmate, Co-Singer Arrested In Zubeen Garg Death Case, Total Now 4 - NDTV
-  Bandmate, Co-Singer Arrested
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTFR1NDVNSm9sTWRZSXNDeDVpQ1JrX2FIMWNOcEN5OWE2U01iSTdEZ0o3R3lGNnpjX3FkUUU3T1hDTkpUalJtLXJVSG0wTm9nRWZ5LUctVjh0TlNZUk5XMUVrdW1kOGNyR3V3cWZNRmxJUnBkOUdOYmRiNkhpY1drbUd1NW1iOFFVa1dHVnc1czhNVlowUks0WFJLSzZZRGd1YTB5VHdvRzdSUm9abmR1TFl0aVlZalVxdl9faGZ4cGdNUVdadl82Q29acGhQMTFNc3M3bHdpTVV4ZnJnaTA5V0tKUEhvcndtRXfSAfIBQVVfeXFMUC1nTF84NlY4T0xXLWhzTjkwemI4VFpsQVRZeEZMeXpfc2tNVFNGV29MX3k5eXBYNHFUekwzZVAySHlsbWRtekhFMEtTcFdRTXFiX2ZxTEROTWp3ODhyME9XanYyLXJLMU1RSW13ckxGRkljOVRfNV9PSjVUcU11N3drRk5RTDRYMDBGdzdTMFQ0LWgtSGpYWm9uNHp1VnVZUXFnOElCeXJuSnp1RkRfNG8zc0xNQXl2cXBLaGZVbi1OQ1h4OXI2VjdoRUR1cWR6a2RkUVVCWC1aSVU4cDZtUlhXYXJVZ0hrWXgwZjdKMzZmRGc?oc=5
-
-- 'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘I Love Mohammad’ Sparks Row In India - The Times of India
-  'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeHlqbW1NQXdmTkN2RVh4NlVjb2ZUNFh6a2VENGxBZGI4LWd1NmtYS0huVkk4c0llWjJtM0E5QWVQTHgxV2JVU2RUcmhQZjRHQU50Rm9iVktFakI5bGptRkktamw4enpHMEFHZl9waGZCeExYcDBFN0pXMkJIbXU5cGFTYmhua1VnVVZVY0RRbVZlWl9nTTYzTjR4bk5vOEZxbGVFUURPX3c3azhaVGNHeC1od29CWS11TkxWT2FOaWVIQ3dYNXhIaUZFenRjRkhBdGpFX2M5TU5jc1VOVUpUTWNvU2w2ampTd2lGdWFWUm5xZTlKNXfSAfsBQVVfeXFMT1VyNnRiYnYtTk5aTVFfdXRqREsyb3F5eTE5akVXeHZEeC1HME5pUXFqdFhYb01fUHJVTzQ0cEFfX2dvV0hLNHE5UjdnNGFTUHgxUTY5ZjFYN2EtZG1vZUE5LV9XakJHcEFQTGRPSUROSjJVSjdCWDhJZ3RzWWdaTlBGYUppXzlFR0pFSl9pU0haa0NmejZ5WlBoVDIyWGhxU0hIbVU1UmFKb2pZMGQtYnJjTk1Mb3JtN0QxX1o4REFmSGhtM3lpZkotOFVUM0lyZG5tM2I0SVdMam42ZTN6OEZ4cnJyTHVZLXJwN181RmppNWpWci1OajJFblE?oc=5
-
-- "India Won't Allow Humiliation": Putin's Big Praise For PM Modi Amid US Tariffs - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZU
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZUVFVjlmaHBPR21hWHBybHpGcFRoSUF6MWZkOFF3dUVuZFBYR0pXZ0ZyaFBpZHN5TzYtNmVUZm5WLXRROWFUbkJycHZncXJodWpNbjdYTzNBSEpDMUlKTzV3b2dHckJTaUV1RdIB0wFBVV95cUxNbDd0XzBFZ08zTVV2elhzS1JYZlNyRmpkaGd2dmdGaU5mRjZZNkEwY0QyRUtwYWpJcUFtN3VPQkJOWUdGRk5XSW1BT1RyRUo2SGRnQ1A2YzJLUVFVUVpBOC14U3VFbEphdkI4enpBbV9DNWJ5anlPRE1XZFAzZjBiVVNFYzNPSjdfWGxtanprSXI2OWdNN1lzT2w2UzRKWkdBa0NrcjJ1cXh2MlNQdllkMG5QUUwtSjl2cDhkMUxjaHRpblA0aXk5V1ZKNmFVeFJfQ2dV?oc=5
-
-- ‘Zubeen was for all’: Singer’s death unites India’s religiously torn Assam - Al Jazeera
-  ‘Zubeen was for all’
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0dqS19ObDJnaG1UemtrdlZOX1dfNVZNR2lRdkYzZUxlbnRNeXQ2MFRuS1dueTljM1g1Y2otQVFjbTdDTWh1aXJialhSSFFhVmNMcndya2ZuYktpU0ZjN2ZvZlUwUG5kM1pBbVJydVFvNC1ua1lTX3NwX1hBZ21pTEtmbkJ6dGpleDUwckRBeDlXcEhMaFQya2x2NmFyRkhVeEo1YXNfSlVGcUJudWZj0gG0AUFVX3lxTE1vdmV0R2NKYklKUG8wVlltQ2pJR2dYVU1MdjRFeHA1dWl1a0p2YUdYWTNkLUFNeGJ6cDFMREJ0MkJPWmQ2VXV3ci1SWTVKTUk4bEI2cC1ROGx1Q09XekZBbkhnN0FRZUViZVBCMWVNSHZ2Q3ZMMzBMZXZ5WmRuV2hqc3Z3bHFVRFVLNk1pazJkZEY3VWVzd3dENHNuQ0stekU5alFoSkl4TFdCVUdBb3lNX0NKSA?oc=5
-
-- Zubeen Garg Death: Singapore Police Speak To Singer's Wife, Gives Autopsy Report To Indian Embassy - News18
-  Zubeen Garg was found dead in a Singapore hotel room.
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3pocHdRUE5kNU12RVZxWjBXaVRncWlnbzRYX2FtMnQzU2xlOXZwdkU4cUNSRm16cU9LZ2pDaktRNWtIUExoMmFuRmhZZTBVdlgwTnhLTUxqZmtjYWE1SURXUUNHS3V0YmpWNkw5LU5NSWpqUW5POG1aSlNfQXhIZ01kNllTdGxPem11ZmNpM1VwOG5FaUZNaDN1S3czYTFpZ2lnVWhma1RKeDUxUXp6STdPZWRWdEhuc3VzdUd0MklmaVpqVzhGNUJUYUxuVER1NlpZ0gHYAUFVX3lxTE44a2dUZGkwUU9IU19Xb0NrSHUyaTBoMUVUNno4TUkxTHVmNUozYUJ5eGRDUy0teUZtZWtUZUNsSlgxM1E1V0ZVdDBBWUZ3Wm84b0Y4aFFBZk9wZUFEY1NaU3FQOXFDTmNFRk1pVFU3QU5QSlBhYUs4ek8yT1cxdU9nc0Y0NUJvQmtUa2kzVm11M0hZLXVOOTBhdHpKaHVQbXdjY1YxMzdUcHhqWGZmRXJwNThseDZyb2haN08wZkxQREdUVDM3NHVLNXJLcGJrQkI3SGhqOFQtYw?oc=5
-
-- Bandmate, Co-Singer Arrested In Zubeen Garg Death Case, Total Now 4 - NDTV
-  Bandmate, Co-Singer Arrested
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTFR1NDVNSm9sTWRZSXNDeDVpQ1JrX2FIMWNOcEN5OWE2U01iSTdEZ0o3R3lGNnpjX3FkUUU3T1hDTkpUalJtLXJVSG0wTm9nRWZ5LUctVjh0TlNZUk5XMUVrdW1kOGNyR3V3cWZNRmxJUnBkOUdOYmRiNkhpY1drbUd1NW1iOFFVa1dHVnc1czhNVlowUks0WFJLSzZZRGd1YTB5VHdvRzdSUm9abmR1TFl0aVlZalVxdl9faGZ4cGdNUVdadl82Q29acGhQMTFNc3M3bHdpTVV4ZnJnaTA5V0tKUEhvcndtRXfSAfIBQVVfeXFMUC1nTF84NlY4T0xXLWhzTjkwemI4VFpsQVRZeEZMeXpfc2tNVFNGV29MX3k5eXBYNHFUekwzZVAySHlsbWRtekhFMEtTcFdRTXFiX2ZxTEROTWp3ODhyME9XanYyLXJLMU1RSW13ckxGRkljOVRfNV9PSjVUcU11N3drRk5RTDRYMDBGdzdTMFQ0LWgtSGpYWm9uNHp1VnVZUXFnOElCeXJuSnp1RkRfNG8zc0xNQXl2cXBLaGZVbi1OQ1h4OXI2VjdoRUR1cWR6a2RkUVVCWC1aSVU4cDZtUlhXYXJVZ0hrWXgwZjdKMzZmRGc?oc=5
-
-- 'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘I Love Mohammad’ Sparks Row In India - The Times of India
-  'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeHlqbW1NQXdmTkN2RVh4NlVjb2ZUNFh6a2VENGxBZGI4LWd1NmtYS0huVkk4c0llWjJtM0E5QWVQTHgxV2JVU2RUcmhQZjRHQU50Rm9iVktFakI5bGptRkktamw4enpHMEFHZl9waGZCeExYcDBFN0pXMkJIbXU5cGFTYmhua1VnVVZVY0RRbVZlWl9nTTYzTjR4bk5vOEZxbGVFUURPX3c3azhaVGNHeC1od29CWS11TkxWT2FOaWVIQ3dYNXhIaUZFenRjRkhBdGpFX2M5TU5jc1VOVUpUTWNvU2w2ampTd2lGdWFWUm5xZTlKNXfSAfsBQVVfeXFMT1VyNnRiYnYtTk5aTVFfdXRqREsyb3F5eTE5akVXeHZEeC1HME5pUXFqdFhYb01fUHJVTzQ0cEFfX2dvV0hLNHE5UjdnNGFTUHgxUTY5ZjFYN2EtZG1vZUE5LV9XakJHcEFQTGRPSUROSjJVSjdCWDhJZ3RzWWdaTlBGYUppXzlFR0pFSl9pU0haa0NmejZ5WlBoVDIyWGhxU0hIbVU1UmFKb2pZMGQtYnJjTk1Mb3JtN0QxX1o4REFmSGhtM3lpZkotOFVUM0lyZG5tM2I0SVdMam42ZTN6OEZ4cnJyTHVZLXJwN181RmppNWpWci1OajJFblE?oc=5
-
-- How this startup CTO went on to lead technology and AI for Thomson Reuters - Fortune
-  How this startup CTO went on to lead technology and AI
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmNtNlpaWTg4czRtM1ZiV1RuMmljcjlMQWNHbWZybnRoZEFEZ3B1bGc3STNJVVhSWjVFQ2V1YVNpaG5MeFJqR2RHTkZuVHZfa2VoVGswdXo0a3NkcUtmc2pMS2N0c0xaV3pmSl9yRkpPdzJWRTRLSmw0M1IxdUVwVjhvbVM4NjVwMlRyNEM3dThnbEhwd2VQcTBzbTFYU3lScUN2aDRnN1FyUQ?oc=5
-
-- Manoeuvring Technology: Redefining Military Strategy in the Era of MDOs - orfonline.org
-  Manoeuvring Technology: Redefining
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWJqd3FnbGJYUDl2OWc3NUl2VHpaSEZTX1ktUXBiS1dIMHNoeTBpcWdjSDdISThhOGo3Z1NPTFRSVHVUZ3NGd25NUkowMUZ0Sk9QOHpZaDUzZmhZUFJTYWFrZ3VSdjgwVjh4ckZFYWZSeUdsLXZtM29jc3lWTHgzNW9faFRqTEwzNHcyel8tRHNITDhoVXBhSnYyRW01YVVyVjZUVUNHbk9yQ3B5ZEE?oc=5
-
-- Pakistan deploys digital technology to spy on citizens - IANS LIVE
-  Pakistan deploys digital technology to spy
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGVlTWpmTmNpd1BwaUlOYno5bzBrd252X08wTDhTUzdxZ2hWQnVxNU56VGZpck9zN3ZSS2F2V2ltME9SWjk0TW9IX2JwSGdPbWtmNlJZUmdHNjRadmZwSWFkM2lQbUNEeDlDTjFya0lHVm9Yem0xSFJXU2hmUmxxYks0UGd4OWs4MVlOOW9UN1hDUEw0?oc=5
-
-- L&T Technology Services secures $100 million multi-year deal - Mint
-  L&amp;T Technology
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFpmN3BTN1VJbGNVa3ZVSUNTZ09jYjNLTGcydVJVNnptRm80Y0hRZlczSXpvcTNtOWswLUFVWF9helU4UnRYcGxHbmM0eFIyUm5TYTA1djdPYlBCRHo5YXY0STM2ZlloNmpzMTV5cXZSYXM3anBhSUxWekxIbkktYW9VRHVPS3dWbTdZUVkxb190endrSHgzTVFBLXlUSE1ZbWNJYzZtSmVvMUpKdjBqTjJXWHJBS2FSOUHSAb8BQVVfeXFMUHdlQUdnWmRKNzdfOE9Wb0lSOHAwWHc0dDlEVGhuRDZuQmlCUzFqVmhma1VKT2ZCaENWbEMxSUNMYkpISE03eE5US3hYQ2ZkcTJHanU3QnpMZ3c0eWlEVXVuYnRzQVdZY1R1SldBWkRQQmU3Sks1SEFyZFVHNEJSZzN3UXYzbGtyUEZGb0xoTGJDUXdJN0F4V0laZUJnd1N6NE9KMjV6N0xYcEwwczQyc1lkYnZ1OWQ1UGMtX2xSY3M?oc=5
-
-- Nokia to license technology from HPE to advance its AI-powered SMO and network automation assets - Nokia
-  Nokia to license technology from HPE to advance its AI-
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNSUhsTmFXay1jNEVfbEthTmJ4VV9yZXk1SzBxSXRxdk1KUC0yNXJMbG5INHdMRmF2Z2ZhMHkxVVdtLVdTcWU3SklDbXVfdk5TZHUwMUtXTENxcnU5ay1tS2pCWDJRcW9aeURHdnY4Qm5wM2lnM2Q1YWZlcW5zRXBNRVpOcERsVVh5LWExaXlfdmItU1ZKejJTeHZhRkN4NmlCNEFYOV9WeHBBM05GQVZyYzJ2ZkI2UDAyanRhdzdfVG1wZWd0Sl9J?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-03 06:26:29 UTC_
+_Last updated: 2025-10-03 12:33:03 UTC_
