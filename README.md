@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- ‘Pakistan will think whether it wants to remain on world map’: Army chief warns Islamabad over terror sponsoring
+- Ahead of Bihar polls, Election Commission lands in Patna to review preparations
   
-  🔗 https://indianexpress.com/article/india/pakistan-army-chief-islamabad-over-terror-sponsoring-operation-sindoor-10285763/
+  🔗 https://indianexpress.com/article/india/ahead-of-bihar-polls-election-commission-lands-in-patna-to-review-preparations-10286386/
 
-- Amid PoK protests, India says Pakistan must be held accountable for horrific human rights violations
+- India rejects Bangladeshi officials claim of its involvement in clashes in that country
   
-  🔗 https://indianexpress.com/article/india/pakistan-india-pok-accountable-human-rights-violations-10285657/
+  🔗 https://indianexpress.com/article/india/india-rejects-bangladesh-claim-of-involvement-in-clashes-10286282/
 
-- Train to Mizoram: Kolkata – Sairang Express crosses 140% occupancy within weeks of launch
+- 3 arrested for raping woman in Jharkhand’s Dumka
   
-  🔗 https://indianexpress.com/article/india/train-to-mizoram-kolkata-sairang-express-crosses-140-occupancy-within-weeks-of-launch-10285467/
+  🔗 https://indianexpress.com/article/india/3-arrested-for-raping-woman-in-jharkhands-dumka-10286242/
 
-- Two prisoners escape from Odisha jail while staff, inmates were celebrating Dussehra
+- Rahul Gandhi has become flag-bearer of anti-India forces: BJP
   
-  🔗 https://indianexpress.com/article/india/two-prisoners-escape-from-odisha-jail-while-staff-inmates-were-celebrating-dussehra-10285447/
+  🔗 https://indianexpress.com/article/india/rahul-gandhi-has-become-flag-bearer-of-anti-india-forces-bjp-10286126/
 
-- After Mizoram, Railways starts freight train operations from Nagaland
+- Parents blame district hospital for ‘negligence’ after girl’s arm amputated, govt orders probe
   
-  🔗 https://indianexpress.com/article/india/after-mizoram-railways-starts-freight-train-operations-from-nagaland-10285379/
+  🔗 https://indianexpress.com/article/india/kerala-parents-blame-district-hospital-for-negligence-girl-arm-10286191/
+
+- Zoho Arattai vs WhatsApp: What Sets These Messaging Apps Apart?
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/zoho-arattai-vs-whatsapp-what-sets-these-messaging-apps-apart-10285906/
+
+- Amazon announces Vega OS, a new operating system for Fire TVs
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-vega-os-fire-tv-stick-features-10285786/
 
 - Wildfire smoke will kill thousands more by 2050, study finds
   
@@ -32,53 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-beta-new-features-enhance-calls-and-scheduling-10285642/
 
-- Project Moohan: Samsung’s latest VR headset to feature Snapdragon XR2+ Gen 2
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/project-moohan-samsungs-latest-vr-headset-to-feature-snapdragon-xr2-gen-2-10285339/
+- Palantir Rebuts Claims of Security Flaws After Stock Falls
+  Palantir Technologies Inc.’s stock fell more than 8% on Friday following a report that its battlefield communications system was seriously flawed.
+  🔗 https://www.livemint.com/companies/news/palantir-rebuts-claims-of-security-flaws-after-stock-falls-11759515142146.html
 
-- Perplexity Comet AI browser is now free for all: Here’s how it differs from Chrome and Firefox
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/perplexity-comet-ai-browser-free-windows-mac-features-10285011/
+- Saumitra P Srivastava takes charge as Director (Marketing), IndianOil
+  Saumitra P Srivastava has assumed charge as Director (Marketing) at
+  🔗 https://www.livemint.com/companies/news/saumitra-p-srivastava-takes-charge-as-director-marketing-indianoil-11759512770177.html
 
-- Sellers on Flipkart cry foul as tax invoicing rejig hits margins
-   Flipkart's new logistics invoicing structure, which recasts marketplace fees as ‘Goods Transport
-  🔗 https://www.livemint.com/companies/flipkart-gta-charges-gst-controversy-seller-margins-invoicing-structure-ecommerce-11759482101638.html
+- Trump Officials Plan to Test New Medicare Drug Pricing Rules
+  A new regulatory pilot project is under review at the White House budget office. It suggests that the Trump administration is seeking to take regulatory action against drugmakers.
+  🔗 https://www.livemint.com/companies/company-results/trump-officials-plan-to-test-new-medicare-drug-pricing-rules-11759512400023.html
 
-- A  ₹2,500 crore lawsuit is India's first corporate class action. Here's why legal firms, boardrooms are watching.
-  The suit over alleged  ₹2,500 crore asset
-  🔗 https://www.livemint.com/companies/india-first-2500-crore-class-action-investors-law-minority-shareholders-promoters-11759401503670.html
+- Omkara ARC acquires bankrupt Wind World India’s debt with  ₹1,225 crore bid — details here
+  Omkara Asset Reconstruction Company has acquired bankrupt Wind World India's debt for  ₹1,225 crore from a state-run bad bank. This strategic move grants
+  🔗 https://www.livemint.com/companies/news/omkara-arc-acquires-bankrupt-wind-world-india-s-debt-with-rs-1-225-crore-bid-details-here-11759508750016.html
 
-- L&amp;T secures major orders for building &amp; factories business in Bengaluru and Mumbai
-  The orders include a Lumpsum Turnkey project for a large IT Park in Bengaluru and a mixed-use development project in Mumbai. These orders are classified as 'Major,' indicating a
-  🔗 https://www.livemint.com/companies/news/lt-secures-major-orders-for-building-factories-business-in-bengaluru-and-mumbai-11759475996720.html
+- Rivian Plans EV Door Redesign to Address Safety Concerns
+  Rivian Automotive Inc. is reworking a key element of its vehicle doors. Employees and customers raised concerns over potential safety issues with
+  🔗 https://www.livemint.com/companies/news/rivian-plans-ev-door-redesign-to-address-safety-concerns-11759510449255.html
 
-- This loss-making startup founder is richer than Shah Rukh Khan after a 223% jump in his net worth
-   Physics Wallah co-founder Alakh Pandey has a net worth of  �
-  🔗 https://www.livemint.com/companies/people/this-loss-making-startup-physicswallah-alakh-pandey-founder-richer-than-shah-rukh-khan-after-223-percent-jump-net-worth-11759469568229.html
+- Gold set for seventh straight weekly rise on US shutdown woes, rate cut bets
+  Gold set for seventh straight weekly rise on US shutdown woes
+  🔗 https://www.livemint.com/market/commodities/gold-set-for-seventh-straight-weekly-rise-on-us-shutdown-woes-rate-cut-bets-11759514474821.html
 
-- A fourth-generation heir’s bold pivot—from sugar to bioplastics
-  Avantika Saraogi, 33, is set to transform her family’s 50-year-old sugar empire. “We as an industry
-  🔗 https://www.livemint.com/companies/people/avantika-saraogi-balrampur-chini-bioplastics-pivot-11759326251227.html
+- US drillers report oil and gas rigs unchanged for the week at 549, says Baker Hughes
+  US drillers report oil and gas rigs unchanged for the week
+  🔗 https://www.livemint.com/market/commodities/us-drillers-report-oil-and-gas-rigs-unchanged-for-the-week-at-549-says-baker-hughes-11759513625537.html
 
-- Trualt Bioenergy shares close first day strong, yet below listing price. Should you buy, sell or hold?
-  Trualt Bioenergy debuted on Dalal Street with a 6.65% gain. Investors are advised to book partial profits, retaining some shares with a stop loss.
-  🔗 https://www.livemint.com/market/ipo/trualt-bioenergy-shares-close-first-day-strong-yet-below-listing-price-should-you-buy-sell-or-hold-11759486181548.html
+- Tata Capital IPO: NBFC firm raises  ₹4,642 crore from anchor investors ahead of public issue — Details here
+  Tata Capital IPO: NBFC firm raises  ₹
+  🔗 https://www.livemint.com/market/ipo/tata-capital-ipo-nbfc-firm-raises-rs-4-642-crore-from-anchor-investors-ahead-of-public-issue-details-here-11759513230221.html
 
-- Banks, metals boost Indias equity benchmarks to weekly gains
-  Banks, metals
-  🔗 https://www.livemint.com/market/stock-market-news/banks-metals-boost-indias-equity-benchmarks-to-weekly-gains-11759486869177.html
+- European Stocks Log Biggest Weekly Gain Since May on AI Optimism
+  European stocks notched their strongest week since May, gaining for a sixth day in a row
+  🔗 https://www.livemint.com/market/stock-market-news/european-stocks-log-biggest-weekly-gain-since-may-on-ai-optimism-11759512892628.html
 
-- Stock market today: Sensex jumps over 200 points, Nifty 50 closes near 24,900 led by metals, banks - 10 key highlights
-  Nifty 50 and Sensex rose due to strong performances in metal and banking sectors. Key stocks like Tata Steel and Kotak Mahindra Bank led the gains.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-jumps-over-200-points-nifty-50-closes-near-24-900-led-by-metals-banks-10-key-highlights-11759485712829.html
+- How hedge funds performed in September
+  Hedge
+  🔗 https://www.livemint.com/market/stock-market-news/how-hedge-funds-performed-in-september-11759512893370.html
 
-- IPO Watch: Eldeco Infrastructure files draft papers with SEBI for  ₹1,000 crore IPO
-  Eldeco Infrastructure has filed a draft red herring prospectus for an IPO. The firm aims to use funds for debt repayment and corporate purposes.
-  🔗 https://www.livemint.com/market/ipo/ipo-watch-eldeco-infrastructure-files-draft-papers-with-sebi-for-rs-1-000-crore-ipo-11759483175930.html
-
-- Small-cap stock under  ₹50 Kelton Technologies jumps 4% despite sideways trend on Dalal Street
-  The small-cap stock has remained volatile in the near-term. The stock has given 8.56 per cent returns in
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-kelton-technologies-jumps-4-despite-sideways-trend-on-dalal-street-11759479659831.html
+- Apple Watch Ultra saves life of 26-year-old Mumbai techie during scuba diving mishap
+  A 26-year-old Mumbai techie credits his Apple Watch Ultra with
+  🔗 https://www.livemint.com/technology/tech-news/apple-watch-ultra-saves-life-of-26-year-old-mumbai-techie-during-scuba-diving-mishap-11759497836458.html
 
 - Not WhatsApp, Signal or Telegram, only Zoho's Arattai gives users this unique feature in 2025 — Check details here
   Sridhar Vembu-run Zoho Corp's messaging app Arattai has jumped ranks in the India app store. Amid the buzz, we take a look at
@@ -96,49 +100,45 @@
   iOS 26 adds Visited Places in Apple Maps, which logs users’ locations with encryption and syncs across devices. Here's how you can
   🔗 https://www.livemint.com/technology/tech-news/apple-ios-26-brings-visited-places-to-apple-maps-tracking-where-you-go-how-to-disable-the-feature-11759474118749.html
 
-- Apple fast-tracks Smart Glasses for 2026 debut, puts Vision Pro on hold to rival Meta Ray-Bans: Report
-  Apple is reportedly prioritising its first smart glasses over the next Vision Pro. Expected in 2026–27, the fashion-focused glasses will likely
-  🔗 https://www.livemint.com/technology/tech-news/apple-fast-tracks-smart-glasses-for-2026-debut-puts-vision-pro-on-hold-to-rival-meta-ray-bans-report-11759466943436.html
+- Stock Market Today: Dow Rises 400 Points; S&P 500 Heads for Another Record Close — Live Updates - The Wall Street Journal
+  The Dow Jones Industrial Average rose 400 points on Friday. S&amp;P 500 heads for another record close.
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOd1VGMzc5WHdNWkNhVXpzRktrYTA1UktwY0VXWTZZcE1RM1ltUElIbm1SdmtrRHNCX3htVTRqVjJZRmZ4QmxzRi1OaktpVXhSMzd0cjNNbzFscW5mZktFb1JmYlQ5NUgyZW1YLU9weDNrRUUxQTFsRlYtX3pGSV8yWWVyUnBzT093emc?oc=5
 
-- Metal stocks rally; Lloyds Metals jumps over 6%, Tata Steel up more than 3%
-  Lloyds Metals surged over 6 per cent, helping the broader equity market.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/metal-stocks-rally-lloyds-metals-jumps-over-6-tata-steel-up-more-than-3/articleshow/124291527.cms
+- 5 markets in Kolkata that are a street shopper's paradise - Times of India
+  5 markets in Kolkata that are a street
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMXMyMDQ2QWNHWHFDYmotUDdoVGIwS3RCWlZlaE4zVHQ5LUMyWFk5VzFCVHo3Sld6emx3S3FhX3VGdFRzMV94MnFLcG5QaGdwNF9wdTNLY2JLcnJUSmY1WUNBVTlrY3Q0bWxISXlMbnBXZVRUOTViYi1laHZQMmpJeHU2NDEtUEp6eUx2Ri01QnJxdk00RnlWTnpXUmlfZlJ0enVCZXp3ZWQzYTA2c25JdzdFVlFGeXFLcVdKV3RQVDRhWUlBem9WLTYzbnQxV1VrV3Y0U3lQTHd2LThiOUQwQ1ZB0gHqAUFVX3lxTFBXUlE4NzVBaEl5ZWZuU3J0ZWdGZWhUZmZUallJT21YNzZkd2J6U0RDRkFBRWtzUTBQUEdqQWwwdFViWUc0UExKSi11TDVWU05VUExkU3Q1T3FTdlJDNW9Ic25QUFF0N1NzRnZWLWd4YXlLeVB1V1JDTzlXM01teVJ5MVBnUnNEaExSd1dxWm51a1NsVW83S1hoQ0x1c3UzU21QQldJcWNtWC1Pb2lqQ2NfZXZ3R2xSTm5yZ3JCNHFwbHR5YmhGekU2eHNUWklZQWt0ejVtMjcyZmRETGh2R3RCY3Z1M2w3QnVrUQ?oc=5
 
-- India bonds rise; benchmark yield ends flat after new 10-year note sale
-  Indian government bonds rose on Friday as sentiment turned upbeat following a dovish central bank guidance. The benchmark yield ended flat, as investors sold the note after the issue of
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-benchmark-yield-ends-flat-after-new-10-year-note-sale/articleshow/124291494.cms
+- Worcestershire markets cancelled as Storm Amy sets in - BBC
+  Worcestershire markets
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WZGxkVGZaVzh3YmU1M1M5NmZUYlNkUnVGRUljaWg2Y3ZzbVhBTm8xMDl2SEJkRUd3SV9UbDVCY29weS05ckNJRTdaeUN1eEFlX0w4VkdDUVJQZ9IBX0FVX3lxTE56TGltUUw5ei1maEJ3SnYxRTFzVDhFQnM5RlpnLVVnc2lENUlRNllYa0E1Yk5QUG1FNkNsOVdCOV9kbnRtVDE4NzAzV3pOT0JXeDBfRE9ka1VYdy05U0NV?oc=5
 
-- Indian Bank, Tata Steel and six other stocks hit 52‑week high; rally up to 20% in a month
-  Sensex rose 223 points to 81,207, with Canara Bank gaining 20% in a month. Indian Bank, Tata Steel and six other stocks from the BSE 200 index hit 52‑week highs
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-tata-steel-and-six-other-stocks-hit-52week-high-rally-up-to-20-in-a-month/slideshow/124291092.cms
+- Bitcoin nears all-time high as Ethereum, Solana, and XRP rally; Bakkt stock surges 150% amid renewed insti - The Economic Times
+  Bitcoin nears all-time high as Ethereum, Solana, and XRP rally
+  🔗 https://news.google.com/rss/articles/CBMi5gJBVV95cUxOZ25IaHJYQThZV0tNUHpoTlBHNGtkVlY0cUVhb0dlSkZYNnhKTEszeXllcHlBM2RRSFJSb2tXN0p2czl2SHdYOTloTmM2cFZndU1leEl2Yy01RjJoWU9RalpYYXF5TXFFaVlXaktOX1ZoOWR4SDRZd19uckExSncyMTQ0TUI2S2RsUF9ZYllYdVItbjY5Nk9CWG1Ta192WUFOOFN1cmhPM1ZQblJ4WDdrMU9hemxTOTJadVBnd0NTeGxTaUJsQmRCQzY0WWQwVjhlUE92ck51aE1RRGdFNXVnX1RRVmFiUUg4YzR4TkE5cEFRSExJVUotM2xtQVF1T0ZSRVFIakptN3dvQXZOZjZVNmk3Mzlsakphcm9jSlM2QVV2OC1LbzJKZHFFYjItQ18wTHIwUlIyVEZvWk0ybzZrcWg2RnFuUWdLYzZHc3llb2RxTzcySXB5Q3FSMGlOTVlmRDNEVEtR0gHmAkFVX3lxTE5nbkhoclhBOFlXS01QemhOUEc0a2RWVjRxRWFvR2VKRlg2eEpMSzN5eWVweUEzZFFIUlJva1c3SnZzOXZId1g5OWhOYzZwVmd1TWV4SXZjLTVGMmhZT1FqWlhhcXlNcUVpWVdqS05fVmg5ZHhINFl3X25yQTFKdzIxNDRNQjZLZGxQX1liWVh1Ui1uNjk2T0JYbVNrX3ZZQU44U3VyaE8zVlBuUnhYN2sxT2F6bFM5Mlp1UGd3Q1N4bFNpQmxCZEJDNjRZZDBWOGVQT3ZyTnVoTVFEZ0U1dWdfVFFWYWJRSDhjNHhOQTlwQVFITElVSi0zbG1BUXVPRlJFUUhqSm03d29Bdk5mNlU2aTczOWxqSmFyb2NKUzZBVXY4LUtvMkpkcUViMi1DXzBMcjBSUjJURm9aTTJvNmtxaDZGcW5RZ0tjNkdzeWVvZHFPNzJJcHlDcVIwaU5NWWZEM0RUS1E?oc=5
 
-- Gainers &amp; Losers: Tata Investment among 8 stocks that hogged limelight on Friday
+- Stock markets end higher for 2nd day; metal stocks soar - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVd2dlNLTi14eWFCQk1DZVBFQ1loYlVOOEE4eFp3QXVEdGpaUUFxQVZjLXlsV0daTUpQc3kweksxN2JvVl91dHdkd0VVcmluQnFPRmhvQXpmRFRQRTU5X24xZmdEU2NBVU
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVd2dlNLTi14eWFCQk1DZVBFQ1loYlVOOEE4eFp3QXVEdGpaUUFxQVZjLXlsV0daTUpQc3kweksxN2JvVl91dHdkd0VVcmluQnFPRmhvQXpmRFRQRTU5X24xZmdEU2NBVUtjUEM0TlduS0M1aFhpVXZPUWV1RXEwSl9rNW52V1ZQcmlKTkNSTzdyYl9pU2wxb2ZsWUt2ajZpTXJTdnRWRi1FRHBVaTZMc0F1MGxBeTjSAb4BQVVfeXFMTjlDLTBWZUlCbHZZVHk5OTk2dEZYczR6dHRyQnoza0dQVFJ0bV9EU3FYMnJFU2plZFhPeWtqQWNrN0JtN1d0S0VFMnlGOXZ2d1RGX2lQVXhBQ2NtenFWZnNDR1g4UXpDV21ISnRYT1RTWFM3WlZRQjRZZC1jS0pWalpXcmFNWWRfd3ZObmxPM1I3S0tzMkN5QWZCQ0dVYmFTREdWOThGOVUzUFB2MjhncDN2b0FfWXJnN19SV3ZtUQ?oc=5
+
+- Eternal block deal: Goldman Sachs offloads Rs 355 cr worth of shares, BofA Securities steps in as buyer
+  Eternal, formerly Zomato, has surpassed Tata Motors and Titan in market capitalization. Despite a 90% drop in Q1FY26 net profit due to investments, revenue surged. HSBC reiterated a 'Buy' call.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/eternal-block-deal-goldman-sachs-offloads-rs-355-cr-worth-of-shares-bofa-securities-steps-in-as-buyer/articleshow/124295050.cms
+
+- Sebi confirms market ban on Synoptics Tech, promoters for IPO fund diversion
+  Sebi says Synoptics Technologies and its promoters will remain barred from the securities market till the outcome of a probe.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-confirms-market-ban-on-synoptics-tech-promoters-for-ipo-fund-diversion/articleshow/124294622.cms
+
+- ET Market Watch: Nifty &amp; Sensex gain for second straight day; Metals, banks lead rally
   
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-losers-tata-investment-among-8-stocks-that-hogged-limelight-on-friday/slideshow/124290111.cms
+  🔗 https://economictimes.indiatimes.com/markets/stocks/etmarkets-podcast/et-market-watch-nifty-sensex-gain-for-second-straight-day-metals-banks-lead-rally/podcast/124294316.cms
 
-- P N Gadgil Jewellers shares rally 5% after festive season sales soar 65% YoY
-  P N Gadgil Jewellers reported record festive sales, with Navratri and Dussehra revenue up 65% YoY to �
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/p-n-gadgil-jewellers-shares-rally-5-after-festive-season-sales-soar-65-yoy/articleshow/124290079.cms
+- BSE launches hospitals index to track healthcare sector. Check top 10 stocks
+  BSE Index Services introduced the BSE Hospitals Index to track 15 hospital stocks. Designed for ETFs, index funds, and PMS strategies, it
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bse-launches-hospitals-index-to-track-healthcare-sector-check-top-10-stocks/articleshow/124293792.cms
 
-- "India Won't Allow Humiliation": Putin's Big Praise For PM Modi Amid US Tariffs - NDTV
-  "India Won't Allow Humiliation": Putin's Big
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZUVFVjlmaHBPR21hWHBybHpGcFRoSUF6MWZkOFF3dUVuZFBYR0pXZ0ZyaFBpZHN5TzYtNmVUZm5WLXRROWFUbkJycHZncXJodWpNbjdYTzNBSEpDMUlKTzV3b2dHckJTaUV1RdIB0wFBVV95cUxNbDd0XzBFZ08zTVV2elhzS1JYZlNyRmpkaGd2dmdGaU5mRjZZNkEwY0QyRUtwYWpJcUFtN3VPQkJOWUdGRk5XSW1BT1RyRUo2SGRnQ1A2YzJLUVFVUVpBOC14U3VFbEphdkI4enpBbV9DNWJ5anlPRE1XZFAzZjBiVVNFYzNPSjdfWGxtanprSXI2OWdNN1lzT2w2UzRKWkdBa0NrcjJ1cXh2MlNQdllkMG5QUUwtSjl2cDhkMUxjaHRpblA0aXk5V1ZKNmFVeFJfQ2dV?oc=5
-
-- US tariffs: Putin says 'India will not allow itself to be humiliated'; calls PM Modi a 'wise leader' - Times of India
-  The Times of India reported that the Indian government is considering an appeal to the U.
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYk9DemVpaUY1UWVtbDFuQ3VXeGVZR0tINzVNQW9ic1Nfa19sd2RzY3hNaWM2X29RbUM4YkdDNUkyZTNKR0g3eVZlUmhTUzBaMlV1RVNqUFFIQWR4VGoybjQ4dkFkeXJxQlRjMW5rQV9sTEpUUVJRblNHT3hwWkEteU5FNWR4RlVrRGlhV1RMY1RCWm9RSHRpenQ2eEY1cFRwUXA1RXFkdjVwemZHd3JtOGxXXzc3SFBPcDRWS2NXQ1J4YS1HaGNxaTFWWE9NYWZBTnJCdVNESl9kTm1POVdYbFdOT3hFcVpLRExhZkNB0gHzAUFVX3lxTE85cHM2eEZyNVZVN2hKNUIzR2dURk43M1BkcFBtSjVhOUdTQ1VxRXN3aGR1NFZVaGVjXzA5T2Vac1VlSGlUMVdBQUNOQ1ZWLTdDRTZpVXA1bEFldjJEeGlFdFBuOVJoUmhKaThSS0dJZ3EyS1RDUTNLbG4wWF9Da3JabmRNRGlSSDRaWURFQ2FuQnhESXVTNnMybHJSX1pIbWl2YUkyeUZTc0llTnFRNGhxVTRGMkVUY3hPdWxHRkdSTlJ6dF9vLW9YZ21SZnJkbGZKc205dnlLSmo4Nmc2YkM5OFhpNDhJcDlOWDFmUUdXNk1wRQ?oc=5
-
-- It would be a shame if India found supplying weapons to Israel: Navi Pillay - The Hindu
-  It would be a shame if India found supplying weapons to Israel:
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQRC16R3RUZUJZVnBzWFFfcF8yQmVGMEdIVWw5QTBlTURsdGstVzhLb2tkWkNkZzAwQTJrbWJBV3d6ZTUycnZOX3JlbUZzQ0RKMFhPbUxRRXFDcVlNdWE2RDZ6clRWYnItRVBaR0Jza0F1RkROWnlyWko0ZDZrWFFpX3UwRUVMTFpBbThaSG1VZlRVRnZFVUlCMDFLRWRVa1JsUFJNRnY5eENjdmNweEExTElOZV9NMnc0WkJCT25iN1paQ3lqVlctejZMZDHSAdMBQVVfeXFMT0hyaEZLbnB3TFBCYkYweTV0VzZmLVVBbFVpWi1IeUcxYkJ1cFFyUUxUdHJoREdZMjNwcmdyUk8wbG5FNUVKT3MySVlQRVpUSk9Xa1RldnRGZWlyaWtRS2huVW1HSnRsc2JIdGJSXzU0SUc3d2Jmb3VQd1ExNmpFRWlxem05NDVvMXZVbmluN0Y1UkkyQ21tMTZ3aVJNczJEQk9FUE5WdnFLYU4xWWl2NDcxMmZsblhJbzhySGpMVHU2dnBzMERWdWF0cTM1X2ZxWERPMA?oc=5
-
-- Putin says US tariffs on Russia's trade partners could backfire: ‘PM Modi would never…’ | Latest News India - Hindustan Times
-  Putin says US tariffs on Russia's trade partners could backfire: ‘PM Modi
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRlhyQ2NINURNeEdJYXN2QnFNTnd4TUNQa0laY05oaFdfaEhOcUhUem84UERjcFJFNC15cExPMGRwLXdhRWRya0RCQk5aVlRXUHQ2Ull2MExLcDFuTDhJS2RnQ01oOW9MS1lGaVFPUC1VZ0IzUnVlWnJHaUt2bllSdWMxMlZhX29SZ0JITUxYNDlyU1NRSXBuNHEzYXFiVWFLci1tUk5BbldPcERiN0JiN2pBaUdFeDE0LWwtR19ZQm54MktKV0I1YlRWQmYtR1VrR0FsODAwUGc5NFhrZGVsadIB5gFBVV95cUxPd3hDMElscm9nQ0tVTXV6SW1ISmxaRGd5ZzVEX3gxV19sTGVIVlYwTXBjaXhrNnJFTXQzb2NXLU1kemJONGVWcDl5S3lfM0xTWmcxMG1KUzNJVDJoZDM0aE5fa1hkTk0wVFNVUEtOaGJrRHZDbWcybTJ2OVBpRmNJc20ybWpmUk45eWVDOHdVVE9SSkJ0QVNUNUlYb3poTlhaTVVmd1g0LUYtWHRaSjF0akZERDQ5Xy1ST3ZMWF9BWEExZVFOeDBRYk15ZWFSS2xpbU0wVll6UjJuMnY4bTR2ZTNIelNsQQ?oc=5
-
-- HAL, BEL to Bharat Dynamics: Is it wise to buy defence stocks amid India-Turkey conflict news? - Mint
-  The Indian government is considering buying defence stocks amid India-Turkey
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWnhDUFQ3d2ZRRU1DUVBDdTZOenp6Vk50SGxmNlpyQjJYZHJhRC1iV05leDM1QTZ5eTAyWkliSzFnZFhtVm9udGM1RnpDVmJYWWMyRjFRc0VVX2tDd0VCMHM0UDVpR05tRGhNelFobFZoMG9HX3dBWG5yeFR0eXZzUktyUklhdXRxS0JmYXlrQ0dkYW85aHpNaDF4UkM3bDFtQ0N3MktoLVV5cjNBZWx4eUtMT0lkbzhhRHkyMmdpSFJsR0k0ODVOSGNteUVjMXhxTGZaMms0SXFGanlaYUJwVUdUbW90S0lqWEt1c2ZmQjZnMlXSAfgBQVVfeXFMT1JHZllnOF9mR0kxbmlydmMzOVlsaEF2WXA1Z2ViWHNpRXNLOUh5UlhWbzVOZzVjaFo5YzYwSF9UTmJISnh3S25kc1BOSGV6ZXk4YUx0ZXMxajdpbURGQTEwbkFVZWZVMlY2c0VJU0xQcnV0LTlpVUZKNGR3LTJzcm1XQ19IcDVsa2t0QnZaY0VESWdLU2tUVWpHNmpoTF95aHZSMVViTlRLQ1BfTXZ3NS10X1oyQm5Ia0J0RFd3dlo3MlUydUFKU0YzV2F1RWVnX08tdExDclBHNnQyQ0RfS3ZwR1J4T1h4WVNocmZmVW5pZGxfeFpTd28?oc=5
+- USA Rare Earth shares surge 18%, hit all-time high after report miner in close talks with White House
+  UUSA Rare Earth shares jumped more than 18% to scale a record high on Friday. The mining company's CEO Barbara Humpton said it was in
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/usa-rare-earth-shares-surge-18-hit-all-time-high-after-report-miner-in-close-talks-with-white-house/articleshow/124293264.cms
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-03 12:33:03 UTC_
+_Last updated: 2025-10-03 18:24:20 UTC_
