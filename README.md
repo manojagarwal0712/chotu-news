@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Zubeen Garg death case: 2 musicians who were ‘with him on yacht’ arrested
+- Bhimsmriti is our guide, not Manusmriti, we are Ambedkarite: Kovind recalls Atal
   
-  🔗 https://indianexpress.com/article/india/zubeen-garg-death-case-2-musicians-who-were-with-him-on-yacht-arrested-10284366/
+  🔗 https://indianexpress.com/article/india/bhimsmriti-is-our-guide-not-manusmriti-we-are-ambedkarite-kovind-recalls-atal-10284687/
 
-- ‘Grim reminder of evil forces of terrorism’: India condemns Manchester terror attack
+- Everyone has own beliefs… be careful not to disrespect: RSS chief Mohan Bhagwat
   
-  🔗 https://indianexpress.com/article/india/india-condemns-manchester-terror-attack-yom-kippur-grim-reminder-10284434/
+  🔗 https://indianexpress.com/article/india/everyone-has-own-beliefs-be-careful-not-to-disrespect-rss-chief-mohan-bhagwat-10284623/
 
-- Another inmate re-arrested after 6 escape from Tripura jail; 5 officers suspended
+- Falling inflation, prices: Panel calls for ban, curbs on import of major pulses
   
-  🔗 https://indianexpress.com/article/india/another-inmate-re-arrested-after-6-escape-from-tripura-jail-5-officers-suspended-10284427/
+  🔗 https://indianexpress.com/article/india/falling-inflation-prices-panel-calls-for-ban-curbs-on-import-of-major-pulses-10284685/
 
-- Tractor-trolley with Durga idols plunges into Madhya Pradesh lake; 11 killed
+- Govt pulls nod for 11 biostimulants over ‘religious, dietary’ concerns
   
-  🔗 https://indianexpress.com/article/india/tractor-trolley-with-durga-idols-plunges-into-madhya-pradesh-lake-11-killed-10284326/
+  🔗 https://indianexpress.com/article/india/govt-pulls-nod-for-11-biostimulants-over-religious-dietary-concerns-10284631/
 
-- India, China to resume direct flights from October end after 5-year freeze
+- ‘Names of Gaza’: A Kerala movement to mourn children killed in Israeli strikes
   
-  🔗 https://indianexpress.com/article/india/india-china-to-resume-direct-flights-from-october-end-after-5-year-freeze-10284201/
+  🔗 https://indianexpress.com/article/india/names-of-gaza-a-kerala-movement-to-mourn-children-killed-in-israeli-strikes-10284684/
 
 - Zoho’s Arattai: How to install it and five features that stand out
   
@@ -60,25 +60,29 @@
   Humana Inc. shares jumped after the company affirmed its earnings guidance for 2025.
   🔗 https://www.livemint.com/companies/news/humana-affirms-outlook-calls-star-ratings-in-line-with-view-11759424413908.html
 
-- BOC Suggests Markets Too Focused on Its Core Inflation Gauges
-  The Bank of Canada continued to fade its preferred measures of underlying price pressures.
-  🔗 https://www.livemint.com/market/stock-market-news/boc-suggests-markets-too-focused-on-its-core-inflation-gauges-11759428122546.html
+- Global Markets Today: Nikkei 225, Kospi trade mixed amid US government shutdown
+  Japan’s Nikkei 225 rose 0.42 per cent at the open, while the Topix advanced 0
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-trade-mixed-amid-us-government-shutdown-11759452517785.html
 
-- Top FX Forecaster Says Fed Remarks Key for Dollar Amid Shutdown
-  The dollar will likely weaken further as the US government shutdown drags into a second day,
-  🔗 https://www.livemint.com/market/stock-market-news/top-fx-forecaster-says-fed-remarks-key-for-dollar-amid-shutdown-11759428000509.html
+- Trualt Bioenergy IPO listing date today; GMP, experts signal strong debut of shares in stock market today
+  Trualt Bioenergy IPO listing date is 3 October 2025, and the stock will be listed on both the stock exchanges. Analysts indicate a strong debut of shares in the stock
+  🔗 https://www.livemint.com/market/ipo/trualt-bioenergy-ipo-listing-date-today-gmp-experts-signals-strong-debut-of-shares-in-stock-market-today-11759451707658.html
 
-- Oil Extends Slide as OPEC  Supply, US Shutdown Weigh on Markets
-  OPEC is expected to agree on restoring more idled supply in a meeting over the weekend. The ongoing US government shutdown fueled risk-
-  🔗 https://www.livemint.com/market/stock-market-news/oil-extends-slide-as-opec-supply-us-shutdown-weigh-on-markets-11759422276289.html
+- Stock market today: Trade setup for Nifty 50, US govt shutdown to gold prices; 8 stocks to buy or sell
+  Sensex rose by 715.69 points, driven by banking stocks. Analysts suggest buying opportunities in several stocks, including HUDCO.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-us-government-shutdown-to-gold-prices-8-stocks-to-buy-or-sell-11759423651221.html
 
-- OPEC oil output rises further in September, survey finds
-  OPEC oil output rises
-  🔗 https://www.livemint.com/market/commodities/opec-oil-output-rises-further-in-september-survey-finds-11759421481393.html
+- Jinkushal Industries IPO listing today: Here’s what GMP, experts hint about share debut
+  Jinkushal Industries IPO will list today, October 3, at 10:00 IST on BSE and NSE. The IPO was oversubscribed 65.10 times, with
+  🔗 https://www.livemint.com/market/ipo/jinkushal-industries-ipo-gmp-jinkushal-industries-ipo-allotment-jinkushal-industries-ipo-listing-date-jinkushal-ipo-11759427445331.html
 
-- Soybeans rebound as market weighs China prospects
-  GRAINS-
-  🔗 https://www.livemint.com/market/commodities/soybeans-rebound-as-market-weighs-china-prospects-11759419588540.html
+- Stocks to buy: Raja Venkatraman's top picks for 3 October
+  Market expert Raja Venkatraman recommends the top three stocks to buy today, 3 October.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-picks-for-3-october-sensex-nifty-apl-apollo-tubes-fortis-healthcare-uno-minda-11759415479588.html
+
+- Boom or bubble: How long can the AI investment craze last?
+   AI investment craze is
+  🔗 https://www.livemint.com/technology/tech-news/boom-or-bubble-how-long-can-the-ai-investment-craze-last-11759429705313.html
 
 - Forget Hey Google Gemini may soon wake up when you bring phone to your face
   A Google patent reveals plans for an AI assistant activation method that triggers Gemini when the phone detects a user's face nearby. This system leverages capacitive sensors, potentially simplifying access to the
@@ -96,89 +100,153 @@
   Comet AI browser by Perplexity is now free for all users. Designed to rival Google Chrome and other browsers. Available on Windows, Mac, and iOS, with an Android version expected
   🔗 https://www.livemint.com/technology/tech-news/perplexity-makes-comet-ai-browser-available-for-free-to-all-users-brings-new-background-assistant-feature-11759420191108.html
 
-- AI pioneer warns of human extinction risk from hyperintelligent machines within a decade
-   AI expert Yoshua Bengio cautions that machines with self-preservation
-  🔗 https://www.livemint.com/technology/tech-news/ai-pioneer-warns-of-human-extinction-risk-from-hyperintelligent-machines-within-a-decade-11759417263756.html
+- Markets News, Oct. 2: Stocks Rise for 5th Straight Session; Dow, S&P 500, Nasdaq Close at Record Highs - Investopedia
+  <ol><li><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBSMTBHanNjRldRTGkzODd0Z1VGRHZXYXBCb0RBYXgzVzBFSlBPdEwwSjMzdDZkcHFPQm5HOTU1dS1sOFdrVTdFVklyeHQyZjBha052eGZKa3FFY1F4blJ2NkJRQ19rWHhFU1
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBSMTBHanNjRldRTGkzODd0Z1VGRHZXYXBCb0RBYXgzVzBFSlBPdEwwSjMzdDZkcHFPQm5HOTU1dS1sOFdrVTdFVklyeHQyZjBha052eGZKa3FFY1F4blJ2NkJRQ19rWHhFU1BsUHZ3VQ?oc=5
 
-- Stock market today: Dow, S&P 500, Nasdaq gains fizzle with AI buzz, Trump's shutdown threats in focus - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq gains fizzle with
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZTloOXJpeHB0bVg3YW1PNWR3dENUcHRNVGRpckpDWG40Z05YRF9Qa1g3bFBmMWFqOGR1Y3BIbzNyeWJvR1JIUzJRdDlJd0RRTERIeDFvUVdGY3pfQjZhUVZDNUVOMEx4MDU2X2tBRUhlSnRZS3ZqajdvQkk1R0lNUWhtX0hWemtpdDNCVEM3MVMwWjR4ZXBoVDB2QXpWMFYtSHY3LXc1RG9MS2ZNdGJtUm1YMnBPZGIzZWJ5S3NZeVpnVkx0SFZON0ZRSHg2cnEtblZpSnAzdHZkRUhTYzlR?oc=5
+- Global Markets Today: Nikkei 225, Kospi trade mixed amid US government shutdown - Mint
+  Global Markets Today: Nikkei 225, K
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTUoyTGFtb2lRM2lEZ2RqUkFYT01BZV9HMUdpR3dteVR1a3JqNFM5TUZLVGppVkxCY0xJeko5MGtabWZ1aXJhLXBsb1EwVWVVb0F4YnptNmdiYUVJZ19jQVZ3bEM1d3RFeDJZcC1rem5GLXJRV0s3REJiUDRtbmFVbkxBb3pLdEQ5YmhONjVzUmVGMkx5dlZCd3JYaUdpaVVWbU9pd2stbjVHVlFNVVJ1LW40MGRJMUlqZS1PeGtLMURGUUh6bjU4MXdtYjhqbjdKaFNGMXZSLWYxZjdIbmNFS9IB5gFBVV95cUxPcE04cUpNUURYb3RGT1pycjVjc0ZXc2txMkd3SlFoZlRXYUJTbFFjMHBLNVBNTnNNSGswaDFVcS1jd2RDdjl2NWxUQnFtTFFicTlzbXhuQklTUkxYZEIzN2tMYXh0RVJ4THR3TkRVTENRa1FxczFzOTZxand1d0UzVWQ5d0ctdUpCNHRrSUE5bm40Q1NGTnFRYVVtNEtJLVEwb1VscWFkUHNvcWtCVVAzblE4LTh0d00tR2dfdFhFVTlvTTZNdmhZaFp1Q0w0Z3ZmQ3dLNHNydHRrNkZlR3djdUZKa05MZw?oc=5
 
-- Stocks Rally Fizzles Amid Trump’s Shutdown Threats: Markets Wrap - Bloomberg.com
-  The U.S. government shutdown is now in its second day. The Nasdaq is up 1.2% this week.
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2FDOHpSRUF5cG1Bc3Z4RVZ0ZzQxeDBqbFFRWlJQWm9tQ3JXdFAzSUNTQ0pYbF9VQUxRNTNoSnFLWEdscy1SbW9MNDNCaVByWDJNalp4REhwYXBIbnlxS3hpaHRROWwwWjFTcFFzcWIzUG0zRHJBNGdHZlNOTTRBSDRaVlpyYndTSG95QU5XSVhTTFBo?oc=5
+- Oil Set for Large Weekly Loss Ahead of OPEC+ Meeting on Supply - Bloomberg.com
+  Oil Set for Large Weekly Loss Ahead of OPEC+
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQb1oxYXZlYWNtSGJmSkN6bGxrNjBVRVJZOWt3dVBDZm15b3BwYlVWdlFralpCQ0JCRzhKelNIeGZVeVdPcVFyYkY5NURWQzViMWxnV2loYWdvR1Rpb1dTVmVkZHptZEdhS1dfZ3h5VkU0enI5R0Q2dFFkVGJONEFSc3hmenItWHdQYVdaNElsRU9uMXhQcWtzYWUzM0E?oc=5
 
-- BOC Suggests Markets Too Focused on Its Core Inflation Gauges - Mint
-  BOC Suggests Markets Too Focused
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNLUpBWS1jbGx6N25pcjVPdlR1QTJCZkhDdXU2MmxhQTJCWFVSWXJjU2l3SHg3bUYzVFVIdzhETVFmLWJZcl9FVWpkUzdBUk9JdXhUZ2hCMEc0RG16cDkzQ2luV2Z4VTZQVzRPUlhzUVRpOXUwUHJWd0dBUDY5V01vcEVRQTlkVm05RmY3WVlxQWFkRmExSnh3amRlaThZR0dURzh2VnBmNlFvZ1ZDOWFKTTV3ZDdtalB1NUFTZ002Z1ROb0ktcG9nc1FqWdIB0AFBVV95cUxQRnUwb05EZVhQdkhQN09JN0VSNFVNVmIyWmFoWHRxY2lQa3lSLUtFTDRueGdvV0NOZmJiNzFjT2lwYTRTUXlmUEtIR0QwSkd4YkVHNzE3Q1ZOdmxzSUlkLW5xSzE2WXhSalUwajAxUUFkZmxxLXpqWlFEclQ1cGIyOTl6T0w2c3FfLUd6M09sek0xTXh0N3pNV0pZTkNOZmktM0hUbERSb0pCZ1VNamNPbk5TWEtTV3ZGV2Fod1FZdnFzZUZTazdyZ04wQlhLdU5y?oc=5
+- Margin trading bets surge past Rs 1 lakh crore in value despite volatile market - The Economic Times
+  Margin trading bets surge past Rs 1 lakh crore in value despite volatile
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxORmZhWjh1SXVtRm50MkhscVZLeU5BU0pMWUdqWGpwcGxfc1ZYUTBJUHo5U1VGY3I5RXg2QWFWeUZvRlZGWkNQUHM2SE5Rb1doS2xMZjNjd1RQVGdqRzhHYllpZ3k1bjlFTzZ1MGVYM1pSTUVITHJ5Y3B6WnJibEZ0ZnZHVEloSTc1REs2MUNTaGVmUFBVbFpZQUw2ZFg1SW56bnBhT21fb2VqTEwydWswai1pRF80NWRYZmg2SUdrckpxVTNLb1dtWnNZZGtVWDZjeXZKTlJtNWZVWjI4U0JrSDNIS2Z5WTlf0gHuAUFVX3lxTE15Ylo3TFhhdnc2QWQyLWIyS1hTYnJ1WHhHaDNraGRLTlJuR3B3SUFPNXlzcHJxS2h1ZG95TjhKaTlMamJDZVlDOTlnMFZMRExSb2VYLVZKbmdScGJENjlEVjRqQWIxaUpkZWY1bGxjUVJiSFlNdlBpXzZJUUs5Sy1TUzkwcjlXbnRSNXdRUkNxa09oMy12VXg2SUxEYW1HRGpKUWd5Rk5PcDZLUi1yLUJKSE1tdjZfd2JrWWFvVE80cjZ6VTZYYWdyb3hjeXhwc0ZVT0E1Ty1iNFZUcVZObGlSQ05aMHdWUTEwMmNvNGc?oc=5
 
-- Indian oil companies step in to plug shortages in Russia's key markets - The Economic Times
-  Indian oil companies step in to plug shortages in Russia's key
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxORmFtVkVhSmRMaGdDbVZDVzN4YUFMZXVjVHpNZzdISUJzcHBodHEtbG1zaFNCUlhGQzBRU2hMQnRCX0c5UVkzSDNPVmFDbVVQc19raWlUSkdnakN5ODN2Z3d4VGYxeTN6TEF6SXFiTG1jdUE5bjVaSUlFWjJPb3BmLUc1NXJDbUpSRDVQUUNacjhrVnd1Y2x2Tk1ZbEZZdHdqWTRQaVViMGExZldXSXJ0RnNuQ0RHSXJ1Q0F5RV9JM2gwaTh4VTBMdG51TWNKOHp1UTNFdzloQTVqdW9MNEkzOdIB5gFBVV95cUxNdENaSzVTTjlodDZpcUM5alhZT242cHJsVWxaSWdiRXRza1FUTHQzWjZBaThIaDgtOWJDcWFpY1hkOVVoOXRHQUc0dC1Sa2VPWXYzZ0JlMEdZcDNYaWFZdGZYeVQyWnR6dnFoRTljbTU4dVM2RXVuN1B2NXFZZ3pyQ2JOOVZkc1NIaWprNFUwQUZYTmpSYmY5aElwMjAzdkJZemo3dnRZRzRvU0RyQ3J4U1BYY3BJT2FjY1JJQkxNbUd2SkczYXlKZUVIa3BadkFLdEplVTRWUmZkMG9rRUdoVFIyb0REQQ?oc=5
+- 10% households invest in markets: Survey - Times of India
+  10% households invest in markets
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckN2Y25NWm1TV3NOUnlfTWVTR3VmTTRyZnRFd3c3SXBwUm9VYXdaOE1YMTV4TGVPVzRDSmQ5dWRWZ0hQUkh2aFJCTTJFSXpwR0NRVVYtWFZhTXZkMy1MTVNlMnE0d1hRYXVLWmVRRUxkdEE3Z3BTT095bHFhTC1qOVZYMU5kd1lPUk5QdnhNSzc3LUhqNTZGQjhOcFRoN3lld1VtMFlkRjJMZ1NqQTZUUE81eDYyNzhZVlJmdFl5OFJLd9IBxwFBVV95cUxNMkZZUmFNV2Q0WlB1RGMzUUxYUG96Y1lwMDkzc3ZtdExQNzg4VGp1MFNaU3pIM2RSUjlMNlNndzRnN1IxMUJDNEs4d1JTNzZJMHRNR1NtcVVLR09jdTNnSENDQnBiTXBBQTZ3V1RjalBTUzlsakNaSTFGbnJ1Zi1uTkFLRkZFZExjaUVPMWxnZzlHSmN6VUlGbnJOQ1RYOWU2aDBfdzBkZzhRTlZoSENIYUxsZ0M3S1hQSDR0MFQ5WXg0Z0VXWFJ3?oc=5
 
-- Sensex jumps 500 points: 3 reasons why markets are rising today - India Today
-  India Today: Sensex jumps 500 points: 3
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZjVKVFE4Nk9IN0VEd1NuYzBKY1NsaENtdWlieTN5R3dTRUVhUV9MOXJGcGxxUi16dW1iSVNSWkZ1UzhIVk13QzEwSWlIa3pzNVVPcHNLd2NJWXJiVmN5QkxQOEE3OUFnT0JqbHdVdU40RWxNazAydmhQOTVqVGhzaWp1WktIN3JUbE9BTi1FZUZkeFlPMU5nZXY5SzVad2ZIZThSeGhqbHhmUzdSNl85UmZKbTdBOElKR1FfS2w0LUpoR0tWaFlaOHJLVW5TZldVaWYzQ1Ywcl85TkF0ZEJHNlNHaUZzRndHWVkxNnFR0gHzAUFVX3lxTE5iYVJBdm8tZ0FtSGF0bmtVTmFrY0trQVpLWnlqblRDZmloR2RjMWJqS2dRRk1uWGlFMGw0aEYwdFBjay1PWmNxQng1ZWR6bGlWLVR2NWFMRUFRUVFvNHZrZXlsaGgtUFhnQmwxV2V0MzdnNDExQTZ5aHItcHVCOXlhOTlKalppbmZBS1J2dlRnNmdyZHIwb1RhaHJodldCMFM4alZzX3dtZmFOQ2YzbXV1XzAzUWIwRk9kSnZSekJ0WkdnSEhCOHI1a3JqY3dPbFBQSlNBUDFTUGtyVTh1N0Rhc25wOTlEaXFRV3luVjBnMjIwWQ?oc=5
+- Will WeWork India’s IPO attract investors amid mixed financial signals?
+  WeWork India is set to launch a ₹3,000 crore IPO, which will reduce the promoter's stake to 48.1%. Despite higher revenue and Ebitda than competitors, the company's recent FY25 profit of
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/will-wework-indias-ipo-attract-investors-amid-mixed-financial-signals/articleshow/124280686.cms
 
-- Ahead of Market: 10 things that will decide D-Street action on Friday
-  Indian stock markets ended an eight-day losing streak. Nifty and Sensex gained points, driven by private banks, auto, and IT stocks. US and European markets also reached record highs on Thursday.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-friday/articleshow/124275258.cms
+- Lending leeway to pave way for Rs 5 lakh crore credit demand
+  India's credit growth, currently below 10%, is poised to accelerate. Easing corporate exposure norms and allowing M&amp;A financing are key drivers. weak credit demand remains a significant hurdle for faster economic expansion.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lending-leeway-to-pave-way-for-rs-5-lakh-crore-credit-demand/articleshow/124280664.cms
 
-- S&amp;P 500, Nasdaq open at record highs as rate-cut bets offset shutdown fears
-  The S&amp;P 500 and Nasdaq indexes opened at record highs on Thursday. Traders are now bracing for a data-light end to the week with few fresh catalysts.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sp-500-nasdaq-open-at-record-highs-as-rate-cut-bets-offset-shutdown-fears/articleshow/124275056.cms
+- Chipmakers add $200 billion in global rally
+  Tech stocks reached new highs. Investors sought artificial intelligence exposure. OpenAI deals and Intel talks fueled this market.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/chipmakers-add-200-billion-in-global-rally/articleshow/124280645.cms
 
-- Zerodha co-founder Nithin Kamath welcomes RBI’s move to raise share-backed loan limit to Rs 1 crore
-  Zerodha CEO Nithin Kamath welcomed the RBI's decision to raise the loan against shares (LAS) limit from Rs 20 lakh to Rs 1 crore. He believes this 'good change' will
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zerodha-co-founder-nithin-kamath-welcomes-rbis-move-to-raise-share-backed-loan-limit-to-rs-1-crore/articleshow/124273735.cms
+- RBI policy and GST boost fuel interest in consumption, financial services stocks
+  Analysts highlight several stocks, including United Spirits, Aditya Birla Capital, and Axis Bank. Consumption and financial services stocks are in focus due to recent GST boosts and RBI policy changes.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-policy-and-gst-boost-fuel-interest-in-consumption-financial-services-stocks/articleshow/124280600.cms
 
-- Market trading guide: Buy Hindustan Zinc, Fortis Health and 2 more stocks for up to 9% gains
-  India’s benchmark indices, the Nifty and Sensex, ended
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-hindustan-zinc-fortis-health-and-2-more-stocks-for-up-to-9-gains/slideshow/124272959.cms
+- Upcoming LG India IPO nears valuation of South Korea parent
+  LG Electronics India's upcoming IPO values the company at $8.7 billion. Priced at ₹1,080-1,140 per share, analysts find its 35.1x P/E ratio attractive.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/upcoming-lg-india-ipo-nears-valuation-of-south-korea-parent/articleshow/124280557.cms
 
-- Axis Securities gives Nifty target of 25,500, names Bharti Airtel and Lupin among top 15 picks
-   Axis Securities’ small-cap top picks include Mahanagar Gas, Kirloskar Brothers, Sansera Engineering, and Kalpataru Projects. The brokerage noted September’s market volatility after a strong May–August 2025
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/axis-securities-gives-nifty-target-of-25500-names-bharti-airtel-and-lupin-among-top-15-picks/articleshow/124272808.cms
-
-- India's Big Warning To Pakistan Against Aggressive Approach Towards Sir Creek - NDTV
-  India's Big Warning To Pakistan Against Aggressive
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0tqMlBMcmtmaWs1TVZ2Z1RmNDliWEltVng3UmJhTkxTbGJ1QVM1UnlVLUtfSzhrbTVLZ1UyODM2eGNrYUVuRGlTdF91RnNEMmtGRV9RVEpyaE1Ec1U2RnpNOUpJbVotbWx0SkF4YXZHWWdLRW1JTnh1WXA2cFllc0cyTEZHcEZXR3I2M01KcDNtX0VQREJBb3lNNUdVa01fZzZ0ZmhZcTk0VWlqT2F0TVEtSDZJOGfSAb8BQVVfeXFMTUVjanpKRGlINHdMWmkyRWhqOG54TVczbktFS3JSdHlrM1ZXckE0aUEzN2NZQnozSHVNMjJKYXpMdWh0N1J1Z2UzQUgxQzlLUG5uN05MSU8zaGctcG8xMnAzWVlvMVZHVzg4ZVhOMEVnZ0lWbnIxV2xfRXRmc2RhWktGQkpXeEd2N0lKYkJRNXFKSEFCRGRUU3NMLWFpZUh6cG5iVzFJNkFCc2NPRDFsUHZEcHhNSDBmdnZ0VHNPVlU?oc=5
-
-- 'Any misadventure ...': Rajnath Singh flags Pakistan military build-up in Sir Creek; warns of ‘decisive r - The Times of India
-  'Any misadventure ...': Rajnath Singh flags Pakistan military build-up
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNanhNXzNSRUtJZmI5QVhlRGR0UHlvLTQ4b1ZSY0paNjdNV1p0akhUOFlBRHlwS09HYU9TaUdUVGhRX2VFa1F6YTNHbF8yVEVrNHlEZFNteVBuYjNtTmw5YmZxMUNCaU9IZnlLZUJ0MzZMNUIxY24ySUtYNmlCdmVnRFN2c0E5YVJjUHpfNnVscWVHdmVFM0V2MzBucmNvS0J5THA3UHF3QVdZNGtwNEp1eUdJb1lsV2VZNDJtb1dBeXZxNXN6VnhEVUtJY0tFZk9la2h5eE1oZHE4TU5ZTmJKNE96QVZBQ01uQzQ2UUQ5c1JTMjN3b0xXdXB2SDJ2QmI00gGGAkFVX3lxTFB4RjFOa3RKcXN3WUE4bjBDSS1Jam4xdTNseEFiZmtESERnb1ZTakJZbzcxVS1RRmtWZGtZcjgzZVNFQW1QbWw2LWYzbW9rMFFUU1o0RGxiTEdfVVF1c0JIX2hRMTFnU0p3R0p5UDgtYTladmRILVRZYWNsVmJuYWh1b3B0M0NqWTFRcmdqRHllSmdGdEhYNzJESDdJMnlSS0U2MEoxc0RLLUsyUlIxaldxai04UmxQRkRQdDJhZW01bFpCeDdzSldaN2lHX3lrZDFKYTFHNGx5Q3Vra1pxTS00UzhNMlZWbEUzT1ZSYWdZRldOenllTUZBUkl4LXpfUTVMTl9lVkE?oc=5
-
-- What is Sir Creek that Rajnath Singh warned Pakistan about? Explained - Mint
-  What is Sir Creek that Rajnath Singh
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT19fdk81bC1UeHlIZEN6aGUzaVVzdmJSejQ5bGxNQjAySVY1WHZfYjAtVC03SWIyTmFlcDh5VnRSc1R2eGVDQ1kyaWw1cWx2cmcyTGJMeXlycGtYb0FVS25iT2FFVGFiZ1lFM1lseEFiN2NONTZiWEpIbUE3WEhBczRSS2VFTncwTGFpeUNCSmFhWXc5RzJad2dZb3pGUXF1UGwzRXk0RDNxR1ZreHVwT296SFVuZFRsVHNyRFdvV09BUdIBxwFBVV95cUxNT0FpUmRWZEZobnBiN3k2bGZwNEhjb1VJaEx2NnFnREo3bktEWk5HUnA1YlNyY2hzc1ZnM2x3QS15Nl9wb1E2MDc5akVDZlVTelZiMHhmOERvcjBURnhUQm5uenh6QTNVY3lqUGZqbkNaVlR0aExOb1FNWHhhUWxXblo5clo5TktvNGoxVTVkN1ZJUy02eDUtbmhUZDg5NzdOa1dwNlFCX3pfWmVqb3pOLXJXQUpTaEdxT09TTVd4MFp3V29PVTFj?oc=5
-
-- 'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP calls him 'leader of propaganda' - The Times of India
-  'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP calls
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxObkJndEo1dFRGT1hPUjdpY0QyeG9jcTNHMjVBcC1fdzRGaGpSQjZ5OGJkbUxuNV90ZUQwUGI4Zl90VWZzaHJKQTlHbmhuN2NCS3pRbTFYRGdjVzliWGs1VmxGdk1mMkVlVHdyVEFjYnNjTTlPWVc4THFNSldkUWdHTGtOWFBTeDBkZU0xeXZxUlZTaHVOVm1rbE5QXzdzamc0clZabnNfUDJEdW16bUVFa1c3SEVsYks4UzFYVUw1MU9paDM4M19RZW05WUhjLXVPVFZOUjdkcGhGOFhuVHlQQ3JTMl90SFgxY0lPM2VXVFR6clROX203Tl9B0gH_AUFVX3lxTE12UkRJcWUzU3ZnTW5wRjdBSDY4bDdsTHBESFRFaTdKQVVRUGg0YnFxWl9mdzlUb0JTRld5M3lOdmhpb0ttZW9zZGx0TVhEUllSMHU0NGsxOVRrRGg4YlR1LXJuN0lYMVpka2V2QlVISmVEbm1KLWYzNHJmQzNINjJucW44TF85TUlNNk56c3FCSy1rY0JfVlNnbHFJQjVIOUZjUjU3WUlMVnI4Y18tbWVqRUNWSm9uNkRnUDIxSUxIU2c0Y1VoRHBQSzhvS3pOVDNsSERqenpLVFNxekVDbEs2X1FZdzFkdS10VEVqLWcwaFdPTFVUMGtyVDZHTlM0NA?oc=5
-
-- 'Attack On Democracy Biggest Threat To India': Rahul Gandhi In Colombia - NDTV
-  'Attack On Democracy Biggest Threat To India
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbXBPbUQ2cTZ5OWlXS1lLcERhaG5XeERROUNfaFVxQWpjMDhpa3lFaUp6WTE3LWZrSzJONG9NeU5EM0libklYcjUtaF85TncybE9KMlh1NjFXRUVQVGRHUEFpdTNoWXJqVzRVanoweVE4QzhqZlhxd19IdG5ybGRPeUZBRHdHTC1sbV9zQ2xQUm9fVmF0d1FwbDc5eWpaZVdJQUpNd2FNQmNJN2hNVXhCbTJmd0FMVDdtWjRoWWVXMldyZHZIRGhQX0JjSlVBQdIB1gFBVV95cUxPLTZpZFBqRWJnOENUYUNWemRRM3ZfWFUwX0JYYXJxQXMxM0p6MGhHaWxoTzBrdll4V2hicENtZkF4R1lCVDhQdXZmblRqWTVLVGxONkk4RkN4Qy05WFFBZGt6cDk0b3NlTFdHbWtweFVQY3FQN0FNSGZValc3amRFWmtrdTNkemdTSThQOXhXc3dnUUZDcS1QRVFsck5Sc283aUppUzBYUUl5UUpZWXdFcWFuUktPN29GeFNpZkpVRUE5UEJkRmYtdnJKdHRjdDJWLWtxT01B?oc=5
+- Road to Karachi is through Sir Creek: Rajnath to Pakistan - Times of India
+  Road to Karachi is through Sir Creek: Rajn
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDlSX2V6Znktc2M5NEs3RHhBTENicHV3aktVRWxTZ3ZEU1B1Umt5QVdUSG9tNmFJUWV2YTdoelBnRk83Y0hXQzdwb0ljeDQySjB3U05ycWtqaGxVaDRoOGY5dWVzMmdKdXU5Ym9rWnJOTm9HelNPNHNIalZGRXFpYlNQd2JxYndINUhXdzFSNDd1SVNLN1R1S2VFeDNEME5XbU9uQVFadE5qV25VUW1hUDdJYlRIUjNXem5iNmpPa18zQQ?oc=5
 
 - India's Big Warning To Pakistan Against Aggressive Approach Towards Sir Creek - NDTV
   India's Big Warning To Pakistan Against Aggressive
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0tqMlBMcmtmaWs1TVZ2Z1RmNDliWEltVng3UmJhTkxTbGJ1QVM1UnlVLUtfSzhrbTVLZ1UyODM2eGNrYUVuRGlTdF91RnNEMmtGRV9RVEpyaE1Ec1U2RnpNOUpJbVotbWx0SkF4YXZHWWdLRW1JTnh1WXA2cFllc0cyTEZHcEZXR3I2M01KcDNtX0VQREJBb3lNNUdVa01fZzZ0ZmhZcTk0VWlqT2F0TVEtSDZJOGfSAb8BQVVfeXFMTUVjanpKRGlINHdMWmkyRWhqOG54TVczbktFS3JSdHlrM1ZXckE0aUEzN2NZQnozSHVNMjJKYXpMdWh0N1J1Z2UzQUgxQzlLUG5uN05MSU8zaGctcG8xMnAzWVlvMVZHVzg4ZVhOMEVnZ0lWbnIxV2xfRXRmc2RhWktGQkpXeEd2N0lKYkJRNXFKSEFCRGRUU3NMLWFpZUh6cG5iVzFJNkFCc2NPRDFsUHZEcHhNSDBmdnZ0VHNPVlU?oc=5
 
-- 'Any misadventure ...': Rajnath Singh flags Pakistan military build-up in Sir Creek; warns of ‘decisive r - The Times of India
-  'Any misadventure ...': Rajnath Singh flags Pakistan military build-up
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNanhNXzNSRUtJZmI5QVhlRGR0UHlvLTQ4b1ZSY0paNjdNV1p0akhUOFlBRHlwS09HYU9TaUdUVGhRX2VFa1F6YTNHbF8yVEVrNHlEZFNteVBuYjNtTmw5YmZxMUNCaU9IZnlLZUJ0MzZMNUIxY24ySUtYNmlCdmVnRFN2c0E5YVJjUHpfNnVscWVHdmVFM0V2MzBucmNvS0J5THA3UHF3QVdZNGtwNEp1eUdJb1lsV2VZNDJtb1dBeXZxNXN6VnhEVUtJY0tFZk9la2h5eE1oZHE4TU5ZTmJKNE96QVZBQ01uQzQ2UUQ5c1JTMjN3b0xXdXB2SDJ2QmI00gGGAkFVX3lxTFB4RjFOa3RKcXN3WUE4bjBDSS1Jam4xdTNseEFiZmtESERnb1ZTakJZbzcxVS1RRmtWZGtZcjgzZVNFQW1QbWw2LWYzbW9rMFFUU1o0RGxiTEdfVVF1c0JIX2hRMTFnU0p3R0p5UDgtYTladmRILVRZYWNsVmJuYWh1b3B0M0NqWTFRcmdqRHllSmdGdEhYNzJESDdJMnlSS0U2MEoxc0RLLUsyUlIxaldxai04UmxQRkRQdDJhZW01bFpCeDdzSldaN2lHX3lrZDFKYTFHNGx5Q3Vra1pxTS00UzhNMlZWbEUzT1ZSYWdZRldOenllTUZBUkl4LXpfUTVMTl9lVkE?oc=5
-
-- What is Sir Creek that Rajnath Singh warned Pakistan about? Explained - Mint
-  What is Sir Creek that Rajnath Singh
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT19fdk81bC1UeHlIZEN6aGUzaVVzdmJSejQ5bGxNQjAySVY1WHZfYjAtVC03SWIyTmFlcDh5VnRSc1R2eGVDQ1kyaWw1cWx2cmcyTGJMeXlycGtYb0FVS25iT2FFVGFiZ1lFM1lseEFiN2NONTZiWEpIbUE3WEhBczRSS2VFTncwTGFpeUNCSmFhWXc5RzJad2dZb3pGUXF1UGwzRXk0RDNxR1ZreHVwT296SFVuZFRsVHNyRFdvV09BUdIBxwFBVV95cUxNT0FpUmRWZEZobnBiN3k2bGZwNEhjb1VJaEx2NnFnREo3bktEWk5HUnA1YlNyY2hzc1ZnM2x3QS15Nl9wb1E2MDc5akVDZlVTelZiMHhmOERvcjBURnhUQm5uenh6QTNVY3lqUGZqbkNaVlR0aExOb1FNWHhhUWxXblo5clo5TktvNGoxVTVkN1ZJUy02eDUtbmhUZDg5NzdOa1dwNlFCX3pfWmVqb3pOLXJXQUpTaEdxT09TTVd4MFp3V29PVTFj?oc=5
-
-- 'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP calls him 'leader of propaganda' - The Times of India
-  'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP calls
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxObkJndEo1dFRGT1hPUjdpY0QyeG9jcTNHMjVBcC1fdzRGaGpSQjZ5OGJkbUxuNV90ZUQwUGI4Zl90VWZzaHJKQTlHbmhuN2NCS3pRbTFYRGdjVzliWGs1VmxGdk1mMkVlVHdyVEFjYnNjTTlPWVc4THFNSldkUWdHTGtOWFBTeDBkZU0xeXZxUlZTaHVOVm1rbE5QXzdzamc0clZabnNfUDJEdW16bUVFa1c3SEVsYks4UzFYVUw1MU9paDM4M19RZW05WUhjLXVPVFZOUjdkcGhGOFhuVHlQQ3JTMl90SFgxY0lPM2VXVFR6clROX203Tl9B0gH_AUFVX3lxTE12UkRJcWUzU3ZnTW5wRjdBSDY4bDdsTHBESFRFaTdKQVVRUGg0YnFxWl9mdzlUb0JTRld5M3lOdmhpb0ttZW9zZGx0TVhEUllSMHU0NGsxOVRrRGg4YlR1LXJuN0lYMVpka2V2QlVISmVEbm1KLWYzNHJmQzNINjJucW44TF85TUlNNk56c3FCSy1rY0JfVlNnbHFJQjVIOUZjUjU3WUlMVnI4Y18tbWVqRUNWSm9uNkRnUDIxSUxIU2c0Y1VoRHBQSzhvS3pOVDNsSERqenpLVFNxekVDbEs2X1FZdzFkdS10VEVqLWcwaFdPTFVUMGtyVDZHTlM0NA?oc=5
+- 'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build-up near Sir Creek | Latest News India - Hindustan Times
+  'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRTVxWUxQZnQtbVdJaGd2QmpwZEhwVXYzSzF3R1NYb19WbVl1c0NURENTRjN0WFctVWx2cVNjWW1tT2dzSmZWcXJodjVYN3ZUT2h6N3g4QTZ2NWdwX1VKSG9HUExZeEdQdERfMzV0NFZ2TGJ1SHFzTW16d1RuYVZnLWc2ME51ZUFqWlhEcll5QzllQXBvM0VBbVlud181TlJ1ZkNkM2U2Slk0eHVuMWtCazJaZVRYQXoweVF4UkFQeV9BaV9JQmZscWxFSXBWTGwyMG1hQTQtTEZ4WTQzclQ2dkx1ekVUZmo1eFV6T2pOZlHSAfYBQVVfeXFMT0dla21rbWZpR01NanNEUXZzbEdlZEh0SC1fVDhMRHVOZ0xsclVRTl9CY3RVN192a2xtVDhISlBIQ1Q2TExjVzc0aUdodWFYOTZxWlpkTUV0OGRhOW1xOHVBMHpXOGhfQkFXX1NmUFkxV0sxZ3U2Zk9aTTdzeU9Cb0hWRV9yVkxOb3FERXloLXpqUXNPV3hHWi1zTy1WM1FvUXdVV1VaenBpVEswU0lMUEFreFZEUUxtWlFjdUlvWEN5b3kyNVVob0M3NmNXel9JV0wwMXVvNmtJSV80S29wN1ZiQ1psaS1FVmtFdHdQaUZLVmxyTkJB?oc=5
 
 - 'Attack On Democracy Biggest Threat To India': Rahul Gandhi In Colombia - NDTV
   'Attack On Democracy Biggest Threat To India
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbXBPbUQ2cTZ5OWlXS1lLcERhaG5XeERROUNfaFVxQWpjMDhpa3lFaUp6WTE3LWZrSzJONG9NeU5EM0libklYcjUtaF85TncybE9KMlh1NjFXRUVQVGRHUEFpdTNoWXJqVzRVanoweVE4QzhqZlhxd19IdG5ybGRPeUZBRHdHTC1sbV9zQ2xQUm9fVmF0d1FwbDc5eWpaZVdJQUpNd2FNQmNJN2hNVXhCbTJmd0FMVDdtWjRoWWVXMldyZHZIRGhQX0JjSlVBQdIB1gFBVV95cUxPLTZpZFBqRWJnOENUYUNWemRRM3ZfWFUwX0JYYXJxQXMxM0p6MGhHaWxoTzBrdll4V2hicENtZkF4R1lCVDhQdXZmblRqWTVLVGxONkk4RkN4Qy05WFFBZGt6cDk0b3NlTFdHbWtweFVQY3FQN0FNSGZValc3amRFWmtrdTNkemdTSThQOXhXc3dnUUZDcS1QRVFsck5Sc283aUppUzBYUUl5UUpZWXdFcWFuUktPN29GeFNpZkpVRUE5UEJkRmYtdnJKdHRjdDJWLWtxT01B?oc=5
 
+- 'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP calls him 'leader of propaganda' - Times of India
+  'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxObkJndEo1dFRGT1hPUjdpY0QyeG9jcTNHMjVBcC1fdzRGaGpSQjZ5OGJkbUxuNV90ZUQwUGI4Zl90VWZzaHJKQTlHbmhuN2NCS3pRbTFYRGdjVzliWGs1VmxGdk1mMkVlVHdyVEFjYnNjTTlPWVc4THFNSldkUWdHTGtOWFBTeDBkZU0xeXZxUlZTaHVOVm1rbE5QXzdzamc0clZabnNfUDJEdW16bUVFa1c3SEVsYks4UzFYVUw1MU9paDM4M19RZW05WUhjLXVPVFZOUjdkcGhGOFhuVHlQQ3JTMl90SFgxY0lPM2VXVFR6clROX203Tl9B?oc=5
 
-_Last updated: 2025-10-02 18:25:23 UTC_
+- Road to Karachi is through Sir Creek: Rajnath to Pakistan - Times of India
+  Road to Karachi is through Sir Creek: Rajn
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDlSX2V6Znktc2M5NEs3RHhBTENicHV3aktVRWxTZ3ZEU1B1Umt5QVdUSG9tNmFJUWV2YTdoelBnRk83Y0hXQzdwb0ljeDQySjB3U05ycWtqaGxVaDRoOGY5dWVzMmdKdXU5Ym9rWnJOTm9HelNPNHNIalZGRXFpYlNQd2JxYndINUhXdzFSNDd1SVNLN1R1S2VFeDNEME5XbU9uQVFadE5qV25VUW1hUDdJYlRIUjNXem5iNmpPa18zQQ?oc=5
+
+- India's Big Warning To Pakistan Against Aggressive Approach Towards Sir Creek - NDTV
+  India's Big Warning To Pakistan Against Aggressive
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0tqMlBMcmtmaWs1TVZ2Z1RmNDliWEltVng3UmJhTkxTbGJ1QVM1UnlVLUtfSzhrbTVLZ1UyODM2eGNrYUVuRGlTdF91RnNEMmtGRV9RVEpyaE1Ec1U2RnpNOUpJbVotbWx0SkF4YXZHWWdLRW1JTnh1WXA2cFllc0cyTEZHcEZXR3I2M01KcDNtX0VQREJBb3lNNUdVa01fZzZ0ZmhZcTk0VWlqT2F0TVEtSDZJOGfSAb8BQVVfeXFMTUVjanpKRGlINHdMWmkyRWhqOG54TVczbktFS3JSdHlrM1ZXckE0aUEzN2NZQnozSHVNMjJKYXpMdWh0N1J1Z2UzQUgxQzlLUG5uN05MSU8zaGctcG8xMnAzWVlvMVZHVzg4ZVhOMEVnZ0lWbnIxV2xfRXRmc2RhWktGQkpXeEd2N0lKYkJRNXFKSEFCRGRUU3NMLWFpZUh6cG5iVzFJNkFCc2NPRDFsUHZEcHhNSDBmdnZ0VHNPVlU?oc=5
+
+- 'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build-up near Sir Creek | Latest News India - Hindustan Times
+  'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRTVxWUxQZnQtbVdJaGd2QmpwZEhwVXYzSzF3R1NYb19WbVl1c0NURENTRjN0WFctVWx2cVNjWW1tT2dzSmZWcXJodjVYN3ZUT2h6N3g4QTZ2NWdwX1VKSG9HUExZeEdQdERfMzV0NFZ2TGJ1SHFzTW16d1RuYVZnLWc2ME51ZUFqWlhEcll5QzllQXBvM0VBbVlud181TlJ1ZkNkM2U2Slk0eHVuMWtCazJaZVRYQXoweVF4UkFQeV9BaV9JQmZscWxFSXBWTGwyMG1hQTQtTEZ4WTQzclQ2dkx1ekVUZmo1eFV6T2pOZlHSAfYBQVVfeXFMT0dla21rbWZpR01NanNEUXZzbEdlZEh0SC1fVDhMRHVOZ0xsclVRTl9CY3RVN192a2xtVDhISlBIQ1Q2TExjVzc0aUdodWFYOTZxWlpkTUV0OGRhOW1xOHVBMHpXOGhfQkFXX1NmUFkxV0sxZ3U2Zk9aTTdzeU9Cb0hWRV9yVkxOb3FERXloLXpqUXNPV3hHWi1zTy1WM1FvUXdVV1VaenBpVEswU0lMUEFreFZEUUxtWlFjdUlvWEN5b3kyNVVob0M3NmNXel9JV0wwMXVvNmtJSV80S29wN1ZiQ1psaS1FVmtFdHdQaUZLVmxyTkJB?oc=5
+
+- 'Attack On Democracy Biggest Threat To India': Rahul Gandhi In Colombia - NDTV
+  'Attack On Democracy Biggest Threat To India
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbXBPbUQ2cTZ5OWlXS1lLcERhaG5XeERROUNfaFVxQWpjMDhpa3lFaUp6WTE3LWZrSzJONG9NeU5EM0libklYcjUtaF85TncybE9KMlh1NjFXRUVQVGRHUEFpdTNoWXJqVzRVanoweVE4QzhqZlhxd19IdG5ybGRPeUZBRHdHTC1sbV9zQ2xQUm9fVmF0d1FwbDc5eWpaZVdJQUpNd2FNQmNJN2hNVXhCbTJmd0FMVDdtWjRoWWVXMldyZHZIRGhQX0JjSlVBQdIB1gFBVV95cUxPLTZpZFBqRWJnOENUYUNWemRRM3ZfWFUwX0JYYXJxQXMxM0p6MGhHaWxoTzBrdll4V2hicENtZkF4R1lCVDhQdXZmblRqWTVLVGxONkk4RkN4Qy05WFFBZGt6cDk0b3NlTFdHbWtweFVQY3FQN0FNSGZValc3amRFWmtrdTNkemdTSThQOXhXc3dnUUZDcS1QRVFsck5Sc283aUppUzBYUUl5UUpZWXdFcWFuUktPN29GeFNpZkpVRUE5UEJkRmYtdnJKdHRjdDJWLWtxT01B?oc=5
+
+- 'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP calls him 'leader of propaganda' - Times of India
+  'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxObkJndEo1dFRGT1hPUjdpY0QyeG9jcTNHMjVBcC1fdzRGaGpSQjZ5OGJkbUxuNV90ZUQwUGI4Zl90VWZzaHJKQTlHbmhuN2NCS3pRbTFYRGdjVzliWGs1VmxGdk1mMkVlVHdyVEFjYnNjTTlPWVc4THFNSldkUWdHTGtOWFBTeDBkZU0xeXZxUlZTaHVOVm1rbE5QXzdzamc0clZabnNfUDJEdW16bUVFa1c3SEVsYks4UzFYVUw1MU9paDM4M19RZW05WUhjLXVPVFZOUjdkcGhGOFhuVHlQQ3JTMl90SFgxY0lPM2VXVFR6clROX203Tl9B?oc=5
+
+- Road to Karachi is through Sir Creek: Rajnath to Pakistan - Times of India
+  Road to Karachi is through Sir Creek: Rajn
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDlSX2V6Znktc2M5NEs3RHhBTENicHV3aktVRWxTZ3ZEU1B1Umt5QVdUSG9tNmFJUWV2YTdoelBnRk83Y0hXQzdwb0ljeDQySjB3U05ycWtqaGxVaDRoOGY5dWVzMmdKdXU5Ym9rWnJOTm9HelNPNHNIalZGRXFpYlNQd2JxYndINUhXdzFSNDd1SVNLN1R1S2VFeDNEME5XbU9uQVFadE5qV25VUW1hUDdJYlRIUjNXem5iNmpPa18zQQ?oc=5
+
+- India's Big Warning To Pakistan Against Aggressive Approach Towards Sir Creek - NDTV
+  India's Big Warning To Pakistan Against Aggressive
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0tqMlBMcmtmaWs1TVZ2Z1RmNDliWEltVng3UmJhTkxTbGJ1QVM1UnlVLUtfSzhrbTVLZ1UyODM2eGNrYUVuRGlTdF91RnNEMmtGRV9RVEpyaE1Ec1U2RnpNOUpJbVotbWx0SkF4YXZHWWdLRW1JTnh1WXA2cFllc0cyTEZHcEZXR3I2M01KcDNtX0VQREJBb3lNNUdVa01fZzZ0ZmhZcTk0VWlqT2F0TVEtSDZJOGfSAb8BQVVfeXFMTUVjanpKRGlINHdMWmkyRWhqOG54TVczbktFS3JSdHlrM1ZXckE0aUEzN2NZQnozSHVNMjJKYXpMdWh0N1J1Z2UzQUgxQzlLUG5uN05MSU8zaGctcG8xMnAzWVlvMVZHVzg4ZVhOMEVnZ0lWbnIxV2xfRXRmc2RhWktGQkpXeEd2N0lKYkJRNXFKSEFCRGRUU3NMLWFpZUh6cG5iVzFJNkFCc2NPRDFsUHZEcHhNSDBmdnZ0VHNPVlU?oc=5
+
+- 'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build-up near Sir Creek | Latest News India - Hindustan Times
+  'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRTVxWUxQZnQtbVdJaGd2QmpwZEhwVXYzSzF3R1NYb19WbVl1c0NURENTRjN0WFctVWx2cVNjWW1tT2dzSmZWcXJodjVYN3ZUT2h6N3g4QTZ2NWdwX1VKSG9HUExZeEdQdERfMzV0NFZ2TGJ1SHFzTW16d1RuYVZnLWc2ME51ZUFqWlhEcll5QzllQXBvM0VBbVlud181TlJ1ZkNkM2U2Slk0eHVuMWtCazJaZVRYQXoweVF4UkFQeV9BaV9JQmZscWxFSXBWTGwyMG1hQTQtTEZ4WTQzclQ2dkx1ekVUZmo1eFV6T2pOZlHSAfYBQVVfeXFMT0dla21rbWZpR01NanNEUXZzbEdlZEh0SC1fVDhMRHVOZ0xsclVRTl9CY3RVN192a2xtVDhISlBIQ1Q2TExjVzc0aUdodWFYOTZxWlpkTUV0OGRhOW1xOHVBMHpXOGhfQkFXX1NmUFkxV0sxZ3U2Zk9aTTdzeU9Cb0hWRV9yVkxOb3FERXloLXpqUXNPV3hHWi1zTy1WM1FvUXdVV1VaenBpVEswU0lMUEFreFZEUUxtWlFjdUlvWEN5b3kyNVVob0M3NmNXel9JV0wwMXVvNmtJSV80S29wN1ZiQ1psaS1FVmtFdHdQaUZLVmxyTkJB?oc=5
+
+- 'Attack On Democracy Biggest Threat To India': Rahul Gandhi In Colombia - NDTV
+  'Attack On Democracy Biggest Threat To India
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbXBPbUQ2cTZ5OWlXS1lLcERhaG5XeERROUNfaFVxQWpjMDhpa3lFaUp6WTE3LWZrSzJONG9NeU5EM0libklYcjUtaF85TncybE9KMlh1NjFXRUVQVGRHUEFpdTNoWXJqVzRVanoweVE4QzhqZlhxd19IdG5ybGRPeUZBRHdHTC1sbV9zQ2xQUm9fVmF0d1FwbDc5eWpaZVdJQUpNd2FNQmNJN2hNVXhCbTJmd0FMVDdtWjRoWWVXMldyZHZIRGhQX0JjSlVBQdIB1gFBVV95cUxPLTZpZFBqRWJnOENUYUNWemRRM3ZfWFUwX0JYYXJxQXMxM0p6MGhHaWxoTzBrdll4V2hicENtZkF4R1lCVDhQdXZmblRqWTVLVGxONkk4RkN4Qy05WFFBZGt6cDk0b3NlTFdHbWtweFVQY3FQN0FNSGZValc3amRFWmtrdTNkemdTSThQOXhXc3dnUUZDcS1QRVFsck5Sc283aUppUzBYUUl5UUpZWXdFcWFuUktPN29GeFNpZkpVRUE5UEJkRmYtdnJKdHRjdDJWLWtxT01B?oc=5
+
+- 'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP calls him 'leader of propaganda' - Times of India
+  'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxObkJndEo1dFRGT1hPUjdpY0QyeG9jcTNHMjVBcC1fdzRGaGpSQjZ5OGJkbUxuNV90ZUQwUGI4Zl90VWZzaHJKQTlHbmhuN2NCS3pRbTFYRGdjVzliWGs1VmxGdk1mMkVlVHdyVEFjYnNjTTlPWVc4THFNSldkUWdHTGtOWFBTeDBkZU0xeXZxUlZTaHVOVm1rbE5QXzdzamc0clZabnNfUDJEdW16bUVFa1c3SEVsYks4UzFYVUw1MU9paDM4M19RZW05WUhjLXVPVFZOUjdkcGhGOFhuVHlQQ3JTMl90SFgxY0lPM2VXVFR6clROX203Tl9B?oc=5
+
+- Road to Karachi is through Sir Creek: Rajnath to Pakistan - Times of India
+  Road to Karachi is through Sir Creek: Rajn
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDlSX2V6Znktc2M5NEs3RHhBTENicHV3aktVRWxTZ3ZEU1B1Umt5QVdUSG9tNmFJUWV2YTdoelBnRk83Y0hXQzdwb0ljeDQySjB3U05ycWtqaGxVaDRoOGY5dWVzMmdKdXU5Ym9rWnJOTm9HelNPNHNIalZGRXFpYlNQd2JxYndINUhXdzFSNDd1SVNLN1R1S2VFeDNEME5XbU9uQVFadE5qV25VUW1hUDdJYlRIUjNXem5iNmpPa18zQQ?oc=5
+
+- India's Big Warning To Pakistan Against Aggressive Approach Towards Sir Creek - NDTV
+  India's Big Warning To Pakistan Against Aggressive
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0tqMlBMcmtmaWs1TVZ2Z1RmNDliWEltVng3UmJhTkxTbGJ1QVM1UnlVLUtfSzhrbTVLZ1UyODM2eGNrYUVuRGlTdF91RnNEMmtGRV9RVEpyaE1Ec1U2RnpNOUpJbVotbWx0SkF4YXZHWWdLRW1JTnh1WXA2cFllc0cyTEZHcEZXR3I2M01KcDNtX0VQREJBb3lNNUdVa01fZzZ0ZmhZcTk0VWlqT2F0TVEtSDZJOGfSAb8BQVVfeXFMTUVjanpKRGlINHdMWmkyRWhqOG54TVczbktFS3JSdHlrM1ZXckE0aUEzN2NZQnozSHVNMjJKYXpMdWh0N1J1Z2UzQUgxQzlLUG5uN05MSU8zaGctcG8xMnAzWVlvMVZHVzg4ZVhOMEVnZ0lWbnIxV2xfRXRmc2RhWktGQkpXeEd2N0lKYkJRNXFKSEFCRGRUU3NMLWFpZUh6cG5iVzFJNkFCc2NPRDFsUHZEcHhNSDBmdnZ0VHNPVlU?oc=5
+
+- 'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build-up near Sir Creek | Latest News India - Hindustan Times
+  'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRTVxWUxQZnQtbVdJaGd2QmpwZEhwVXYzSzF3R1NYb19WbVl1c0NURENTRjN0WFctVWx2cVNjWW1tT2dzSmZWcXJodjVYN3ZUT2h6N3g4QTZ2NWdwX1VKSG9HUExZeEdQdERfMzV0NFZ2TGJ1SHFzTW16d1RuYVZnLWc2ME51ZUFqWlhEcll5QzllQXBvM0VBbVlud181TlJ1ZkNkM2U2Slk0eHVuMWtCazJaZVRYQXoweVF4UkFQeV9BaV9JQmZscWxFSXBWTGwyMG1hQTQtTEZ4WTQzclQ2dkx1ekVUZmo1eFV6T2pOZlHSAfYBQVVfeXFMT0dla21rbWZpR01NanNEUXZzbEdlZEh0SC1fVDhMRHVOZ0xsclVRTl9CY3RVN192a2xtVDhISlBIQ1Q2TExjVzc0aUdodWFYOTZxWlpkTUV0OGRhOW1xOHVBMHpXOGhfQkFXX1NmUFkxV0sxZ3U2Zk9aTTdzeU9Cb0hWRV9yVkxOb3FERXloLXpqUXNPV3hHWi1zTy1WM1FvUXdVV1VaenBpVEswU0lMUEFreFZEUUxtWlFjdUlvWEN5b3kyNVVob0M3NmNXel9JV0wwMXVvNmtJSV80S29wN1ZiQ1psaS1FVmtFdHdQaUZLVmxyTkJB?oc=5
+
+- 'Attack On Democracy Biggest Threat To India': Rahul Gandhi In Colombia - NDTV
+  'Attack On Democracy Biggest Threat To India
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbXBPbUQ2cTZ5OWlXS1lLcERhaG5XeERROUNfaFVxQWpjMDhpa3lFaUp6WTE3LWZrSzJONG9NeU5EM0libklYcjUtaF85TncybE9KMlh1NjFXRUVQVGRHUEFpdTNoWXJqVzRVanoweVE4QzhqZlhxd19IdG5ybGRPeUZBRHdHTC1sbV9zQ2xQUm9fVmF0d1FwbDc5eWpaZVdJQUpNd2FNQmNJN2hNVXhCbTJmd0FMVDdtWjRoWWVXMldyZHZIRGhQX0JjSlVBQdIB1gFBVV95cUxPLTZpZFBqRWJnOENUYUNWemRRM3ZfWFUwX0JYYXJxQXMxM0p6MGhHaWxoTzBrdll4V2hicENtZkF4R1lCVDhQdXZmblRqWTVLVGxONkk4RkN4Qy05WFFBZGt6cDk0b3NlTFdHbWtweFVQY3FQN0FNSGZValc3amRFWmtrdTNkemdTSThQOXhXc3dnUUZDcS1QRVFsck5Sc283aUppUzBYUUl5UUpZWXdFcWFuUktPN29GeFNpZkpVRUE5UEJkRmYtdnJKdHRjdDJWLWtxT01B?oc=5
+
+- 'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP calls him 'leader of propaganda' - Times of India
+  'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxObkJndEo1dFRGT1hPUjdpY0QyeG9jcTNHMjVBcC1fdzRGaGpSQjZ5OGJkbUxuNV90ZUQwUGI4Zl90VWZzaHJKQTlHbmhuN2NCS3pRbTFYRGdjVzliWGs1VmxGdk1mMkVlVHdyVEFjYnNjTTlPWVc4THFNSldkUWdHTGtOWFBTeDBkZU0xeXZxUlZTaHVOVm1rbE5QXzdzamc0clZabnNfUDJEdW16bUVFa1c3SEVsYks4UzFYVUw1MU9paDM4M19RZW05WUhjLXVPVFZOUjdkcGhGOFhuVHlQQ3JTMl90SFgxY0lPM2VXVFR6clROX203Tl9B?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+
+
+_Last updated: 2025-10-03 01:09:41 UTC_
