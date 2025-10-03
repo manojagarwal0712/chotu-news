@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Bhimsmriti is our guide, not Manusmriti, we are Ambedkarite: Kovind recalls Atal
+- Central Pollution Control Board pulls up UP tanneries for wastewater treatment violations
   
-  🔗 https://indianexpress.com/article/india/bhimsmriti-is-our-guide-not-manusmriti-we-are-ambedkarite-kovind-recalls-atal-10284687/
+  🔗 https://indianexpress.com/article/india/central-pollution-control-board-up-tanneries-wastewater-treatment-violations-10285045/
 
-- Everyone has own beliefs… be careful not to disrespect: RSS chief Mohan Bhagwat
+- Zubeen Garg death: All you need to know
   
-  🔗 https://indianexpress.com/article/india/everyone-has-own-beliefs-be-careful-not-to-disrespect-rss-chief-mohan-bhagwat-10284623/
+  🔗 https://indianexpress.com/article/india/zubeen-garg-death-scuba-accident-dorwning-arrest-key-updates-10284986/
 
-- Falling inflation, prices: Panel calls for ban, curbs on import of major pulses
+- Gold Today Rate, October 3: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/falling-inflation-prices-panel-calls-for-ban-curbs-on-import-of-major-pulses-10284685/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-october-3-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10284968/
 
-- Govt pulls nod for 11 biostimulants over ‘religious, dietary’ concerns
+- Sonam Wangchuk’s wife Geetanjali moves Supreme Court seeking Ladakh activist’s release
   
-  🔗 https://indianexpress.com/article/india/govt-pulls-nod-for-11-biostimulants-over-religious-dietary-concerns-10284631/
+  🔗 https://indianexpress.com/article/india/sonam-wangchuk-wife-geetanjali-supreme-court-ladakh-protest-10284852/
 
-- ‘Names of Gaza’: A Kerala movement to mourn children killed in Israeli strikes
+- Bank Holiday Today: Are banks open or closed on Friday and Saturday, October 3-4? City-wise list
   
-  🔗 https://indianexpress.com/article/india/names-of-gaza-a-kerala-movement-to-mourn-children-killed-in-israeli-strikes-10284684/
+  🔗 https://indianexpress.com/article/india/durga-puja-dasain-bank-holidays-october-3-4-2025-city-list-10284810/
+
+- Yahoo nears deal to sell AOL to Italy’s Bending Spoons for $1.4 billion, sources say
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/yahoo-nears-deal-to-sell-aol-to-italys-bending-spoons-for-1-4-billion-sources-say-10285026/
+
+- Dutch court orders Meta to change Facebook and Instagram timeline settings
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/dutch-court-orders-meta-to-change-facebook-and-instagram-timeline-settings-10285004/
+
+- OpenAI hits $500 billion valuation after share sale to SoftBank, source says
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-hits-500-billion-valuation-after-share-sale-to-softbank-source-says-10284989/
 
 - Zoho’s Arattai: How to install it and five features that stand out
   
@@ -28,17 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-ai-mode-now-lets-you-search-with-pictures-and-get-visual-inspiration-10283856/
 
-- Samsung may revive the Galaxy S26 Plus after poor Galaxy S25 Edge sales: Report
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-may-revive-the-galaxy-s26-plus-after-poor-galaxy-s25-edge-sales-report-10283629/
+- A fourth-generation heir’s bold pivot—from sugar to bioplastics
+  Avantika Saraogi, 33, is set to transform her family’s 50-year-old sugar empire. “We as an industry
+  🔗 https://www.livemint.com/companies/people/avantika-saraogi-balrampur-chini-bioplastics-pivot-11759326251227.html
 
-- Big Instagram update? Meta testing Reels as default tab on app
-  
-  🔗 https://indianexpress.com/article/technology/social/big-instagram-update-meta-testing-reels-as-default-tab-on-app-10283187/
-
-- Apple halts Vision Pro overhaul to focus on AI glasses: Report
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-halts-vision-pro-overhaul-to-focus-on-ai-glasses-report-10283263/
+- Chennai Customs accuses Wintrack of ‘pattern of unsubstantiated allegations’ as govt probes bribery, corruption
+  Chennai Customs has refuted the cargo company and its founder's allegations as false. Chennai Customs cited document violations, including
+  🔗 https://www.livemint.com/companies/news/chennai-customs-deny-corruption-harassment-blames-wintrack-pattern-unsubstantiated-allegations-goods-document-govt-probe-11759452707473.html
 
 - UBS Funds Face Half-Billion-Dollar Exposure to First Brands
    Funds under the UBS Group AG umbrella face more than half a billion dollars of exposure to bankrupt auto-parts supplier First Brands Group. One ranking as the biggest un
@@ -52,201 +60,205 @@
   Elon Musk cannot move SEC's Twitter
   🔗 https://www.livemint.com/companies/news/elon-musk-cannot-move-secs-twitter-lawsuit-out-of-washington-dc-judge-rules-11759425754302.html
 
-- Germany Says Warship Order Intact Despite ‘Massive Delays’
-  Germany denies replacing Dutch shipmaker Damen Shipyards on one of its biggest military procurement projects. The multibillion-euro warship order remains
-  🔗 https://www.livemint.com/companies/news/germany-says-warship-order-intact-despite-massive-delays-11759425205226.html
+- Bharti Airtel to BEL- Prashanth Tapse of Mehta Equities suggests stocks to buy in the short term
+  Nifty 50 flat at 24,829 amid foreign selling pressures. Experts suggest buying opportunities in Bharti Airtel, Adani Ports, and Bharat Electronics.
+  🔗 https://www.livemint.com/market/stock-market-news/bharti-airtel-to-bel-prashanth-tapse-of-mehta-equities-suggests-stocks-to-buy-in-the-short-term-11759468329672.html
 
-- Humana Affirms Outlook, Calls Star Ratings In-Line With View
-  Humana Inc. shares jumped after the company affirmed its earnings guidance for 2025.
-  🔗 https://www.livemint.com/companies/news/humana-affirms-outlook-calls-star-ratings-in-line-with-view-11759424413908.html
+- V-Mart Retail share price up over 12% after Q2FY26 business update
+  V-Mart Retail share price gained over 6% in one month, but fell 1% in the past six months. The smallcap stock has declined 18% on a year-to-date (YTD
+  🔗 https://www.livemint.com/market/stock-market-news/vmart-retail-share-price-up-over-12-after-q2fy26-business-update-11759468754001.html
 
-- Global Markets Today: Nikkei 225, Kospi trade mixed amid US government shutdown
-  Japan’s Nikkei 225 rose 0.42 per cent at the open, while the Topix advanced 0
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-trade-mixed-amid-us-government-shutdown-11759452517785.html
+- Jinkushal Industries shares make lukewarm debut, list at 3% premium over IPO price
+  Jinkushal share price listed at  ₹125 apiece at both NSE and BSE.
+  🔗 https://www.livemint.com/market/stock-market-news/jinkushal-industries-shares-make-lukewarm-debut-list-at-3-premium-over-ipo-price-11759466547142.html
 
-- Trualt Bioenergy IPO listing date today; GMP, experts signal strong debut of shares in stock market today
-  Trualt Bioenergy IPO listing date is 3 October 2025, and the stock will be listed on both the stock exchanges. Analysts indicate a strong debut of shares in the stock
-  🔗 https://www.livemint.com/market/ipo/trualt-bioenergy-ipo-listing-date-today-gmp-experts-signals-strong-debut-of-shares-in-stock-market-today-11759451707658.html
+- Gold prices today in your city: Check cost in Mumbai, Bengaluru, Chennai, Hyderabad, New Delhi, Kolkata on October 3
+  Gold and silver prices in Mumbai, Bengaluru, Chennai, Hyderabad, Delhi and Kolkata
+  🔗 https://www.livemint.com/market/commodities/gold-prices-today-october-3-your-city-check-mumbai-bengaluru-chennai-hyderabad-delhi-kolkata-record-high-markets-invest-11759284225106.html
 
-- Stock market today: Trade setup for Nifty 50, US govt shutdown to gold prices; 8 stocks to buy or sell
-  Sensex rose by 715.69 points, driven by banking stocks. Analysts suggest buying opportunities in several stocks, including HUDCO.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-us-government-shutdown-to-gold-prices-8-stocks-to-buy-or-sell-11759423651221.html
+- Trualt Bioenergy share price makes a positive debut, opens with 10% premium at  ₹545.40 apiece on NSE
+  The TruAlt Bioenergy IPO raised  ₹750 crore, with total proceeds of  ⁹839.38 crore. The company is expanding its biofu
+  🔗 https://www.livemint.com/market/ipo/trualt-bioenergy-ipo-gmp-trualt-bioenergy-ipo-trualt-bioenergy-ipo-allotment-status-trualt-bioenergy-share-price-11759463538544.html
 
-- Jinkushal Industries IPO listing today: Here’s what GMP, experts hint about share debut
-  Jinkushal Industries IPO will list today, October 3, at 10:00 IST on BSE and NSE. The IPO was oversubscribed 65.10 times, with
-  🔗 https://www.livemint.com/market/ipo/jinkushal-industries-ipo-gmp-jinkushal-industries-ipo-allotment-jinkushal-industries-ipo-listing-date-jinkushal-ipo-11759427445331.html
+- Apple fast-tracks Smart Glasses for 2026 debut, puts Vision Pro on hold to rival Meta Ray-Bans: Report
+  Apple is reportedly prioritising its first smart glasses over the next Vision Pro. Expected in 2026–27, the fashion-focused glasses will likely
+  🔗 https://www.livemint.com/technology/tech-news/apple-fast-tracks-smart-glasses-for-2026-debut-puts-vision-pro-on-hold-to-rival-meta-ray-bans-report-11759466943436.html
 
-- Stocks to buy: Raja Venkatraman's top picks for 3 October
-  Market expert Raja Venkatraman recommends the top three stocks to buy today, 3 October.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-picks-for-3-october-sensex-nifty-apl-apollo-tubes-fortis-healthcare-uno-minda-11759415479588.html
+- What triggered Apple’s ban on ICEBlock app? The answer lies in Donald Trump’s crackdown: Here's what happened
+  Apple has removed ICEBlock, a popular app that tracked US immigration agents. The Justice Department said the app put officers at risk. Its developer now faces possible
+  🔗 https://www.livemint.com/technology/tech-news/what-triggered-apple-s-ban-on-iceblock-app-the-answer-lies-in-donald-trump-s-crackdown-heres-what-happened-11759460377976.html
+
+- Ulaa browser rivals Google Chrome with Smart Tabs, Ad Blocker, Password Manager and more | Key features explained
+  Zoho’s Ulaa browser, now topping App Store charts, offers built-in tools like tab grouping, cross-device sync, ad blocking,
+  🔗 https://www.livemint.com/technology/tech-news/from-tab-management-to-privacy-tools-key-features-of-zohos-ulaa-browser-explained-11759457972991.html
+
+- Data breach alert! Google warns hackers exploited Oracle apps to steal data and send extortion emails
+  Google warns that hackers linked to Cl0p are extorting major firms. They claim breaches of Oracle’s E-Business Suite
+  🔗 https://www.livemint.com/technology/tech-news/data-breach-alert-google-warns-hackers-exploited-oracle-apps-to-steal-data-and-send-extortion-emails-11759454790894.html
 
 - Boom or bubble: How long can the AI investment craze last?
    AI investment craze is
   🔗 https://www.livemint.com/technology/tech-news/boom-or-bubble-how-long-can-the-ai-investment-craze-last-11759429705313.html
 
-- Forget Hey Google Gemini may soon wake up when you bring phone to your face
-  A Google patent reveals plans for an AI assistant activation method that triggers Gemini when the phone detects a user's face nearby. This system leverages capacitive sensors, potentially simplifying access to the
-  🔗 https://www.livemint.com/technology/tech-news/no-hotword-needed-gemini-may-soon-wake-up-when-you-bring-phone-to-your-face-11759425390236.html
+- Asia markets track gains on Wall Street as investors look past government shutdown - CNBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0w5WnU2T1cwTnQyTlltbHl2NjZ6Rl9XWTRiZFZnUTA2Z1Z6MDdxTndfLXBzcF9jVkdqTW9Edl9QUHFoeG5ZWkcxVDZ6bWJnM1kzbGpQU29jcEVZT21YMlU5dy1VMHBoeH
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0w5WnU2T1cwTnQyTlltbHl2NjZ6Rl9XWTRiZFZnUTA2Z1Z6MDdxTndfLXBzcF9jVkdqTW9Edl9QUHFoeG5ZWkcxVDZ6bWJnM1kzbGpQU29jcEVZT21YMlU5dy1VMHBoeHVOTFYtckhQSDNvZ2lJaWpLUm9LUmpTbGxlVFJFX200emZVbTFfNjlOcHFHcTI1UlVhUlE3SE9abDQ1UG80ckE1cnJ50gGyAUFVX3lxTFA3ZE9xTml1eXdaeHlVWFJkTU91QXZNa1pkak1CUTd2TmZzdldnUGpqQmxkRTVLTW1mZkhCRVM2TlVKd0dRMllnTHRlYnoxV2V2bmVKcDJtRGRmcVdWTkRJVXhvTy1ZbndVNXI3S2NZenAwWXhwUF9RSFZMb3hnX25aV3YtVXZiWndhSzh1WmxHSGswZ01kUVJpdHRKVlZZdDVvSjVFQXBCbldyS0xHTGlMOGc?oc=5
 
-- What is Elon Musk-backed ‘Cancel Netflix’ campaign? Here's all you need to know
-  Billionaire Elon Musk urged his followers through his social media platform X account to cancel Netflix's subscriptions.
-  🔗 https://www.livemint.com/technology/tech-news/what-is-elon-musk-backed-cancel-netflix-campaign-heres-all-you-need-to-know-11759409324829.html
+- BOC Suggests Markets Too Focused on Its Core Inflation Gauges - Mint
+  BOC Suggests Markets Too Focused
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNLUpBWS1jbGx6N25pcjVPdlR1QTJCZkhDdXU2MmxhQTJCWFVSWXJjU2l3SHg3bUYzVFVIdzhETVFmLWJZcl9FVWpkUzdBUk9JdXhUZ2hCMEc0RG16cDkzQ2luV2Z4VTZQVzRPUlhzUVRpOXUwUHJWd0dBUDY5V01vcEVRQTlkVm05RmY3WVlxQWFkRmExSnh3amRlaThZR0dURzh2VnBmNlFvZ1ZDOWFKTTV3ZDdtalB1NUFTZ002Z1ROb0ktcG9nc1FqWdIB0AFBVV95cUxQRnUwb05EZVhQdkhQN09JN0VSNFVNVmIyWmFoWHRxY2lQa3lSLUtFTDRueGdvV0NOZmJiNzFjT2lwYTRTUXlmUEtIR0QwSkd4YkVHNzE3Q1ZOdmxzSUlkLW5xSzE2WXhSalUwajAxUUFkZmxxLXpqWlFEclQ1cGIyOTl6T0w2c3FfLUd6M09sek0xTXh0N3pNV0pZTkNOZmktM0hUbERSb0pCZ1VNamNPbk5TWEtTV3ZGV2Fod1FZdnFzZUZTazdyZ04wQlhLdU5y?oc=5
 
-- India's electronic component push receives twice the anticipated interest
-  The scheme offers incentives to develop an electronics components supply chain in India. The Centre received 249 applications
-  🔗 https://www.livemint.com/technology/electronics-component-manufacturing-scheme-supply-chain-ashwini-vaishnaw-11759413596561.html
+- MCX shares rise 2.5% to hit 6-week high after UBS forecasts strong September quarter earnings - Moneycontrol
+  MCX shares rise 2.5% to hit 6-week
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbFBGQ2kwa2RmSFZPNTZ2OHpWTzNwV0ZyUUd4UExqM2QwSzJEcTJ6Y0tUQldMemVncjAtVjdQMGFwME9OQncyeDd6bDBwb3lmd19VSTZ2bndNeUMwT1UteXJQZlloeE90SC12UUdhenhSLTBreExKZDZ5bExnajhvRXVTRnhyYlI3U3lFXzgxUkhwdVFNcmFaLUludXZXOWN6NXJtOVFVMElKNG9SRG1LdWhjMFFjSXdOcUdyaGZ4dUJibmJQUXhQNlhiZVgxSTUyZTlEazRickFGeTJ0c2p0Tjg5aVNfdEpxUTg5NE1DRmlqQzjSAfMBQVVfeXFMUGxQRkNpMGtkZkhWTzU2djh6Vk8zcFdGclFHeFBMajNkMEsyRHEyemNLVEJXTHplZ3IwLVY3UDBhcDBPTkJ3Mng3emwwcG95ZndfVUk2dm53TXlDME9VLXlyUGZZaHhPdEgtdlFHYXp4Ui0wa3hMSmQ2eWxMZ2o4b0V1U0Z4cmJSN1N5RV84MVJIcHVRTXJhWi1JbnV2VzljejVybTlRVTBJSjRvUkRtS3VoYzBRY0l3TnFHcmhmeHVCYm5iUFF4UDZYYmVYMUk1MmU5RGs0YnJBRnkydHNqdE44OWlTX3RKcVE4OTRNQ0ZpakM4?oc=5
 
-- Perplexity makes Comet AI browser available for free to all users, brings new ‘background assistant’ feature
-  Comet AI browser by Perplexity is now free for all users. Designed to rival Google Chrome and other browsers. Available on Windows, Mac, and iOS, with an Android version expected
-  🔗 https://www.livemint.com/technology/tech-news/perplexity-makes-comet-ai-browser-available-for-free-to-all-users-brings-new-background-assistant-feature-11759420191108.html
+- European stocks set to extend gains after touching fresh record high - CNBC
+  European stocks set to extend gains after touching fresh
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPUGF4R2MtNmJ0NWl5SlMyN0xISGFsLVlsZUVIQnlHTGN2YWR6N3lZSi03ZjM0Z0lvenp5b29rVk9jOURkRWlibUhrcGh3WVFKWlZUVFk0NWZOb1Z4N0o0M2RURHJZTmtvcUpldkg2YzdVblRpaThyc0xLTzZuT0lKNG1EWG91bzROQlEyRDUwZklWQdIBlwFBVV95cUxNTEhqWTVIaDdWc0hjcjBBOHdObjNwUUVYU3hjeTMxcWdKU2lPOUN2NFpUTGdXTWRNbUw1czdZSEYyMlJXS0pMaUJXZ01jVnpEY25WajNBQk8tTXlyaHlUOUY4dmlzZHphOFJzLTBHalB4bmJTcmFaN1FJTzZMVWxCSl9OaVFCYnlrbnk2bDFnMFptQlJLZFhF?oc=5
 
-- Markets News, Oct. 2: Stocks Rise for 5th Straight Session; Dow, S&P 500, Nasdaq Close at Record Highs - Investopedia
-  <ol><li><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBSMTBHanNjRldRTGkzODd0Z1VGRHZXYXBCb0RBYXgzVzBFSlBPdEwwSjMzdDZkcHFPQm5HOTU1dS1sOFdrVTdFVklyeHQyZjBha052eGZKa3FFY1F4blJ2NkJRQ19rWHhFU1
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBSMTBHanNjRldRTGkzODd0Z1VGRHZXYXBCb0RBYXgzVzBFSlBPdEwwSjMzdDZkcHFPQm5HOTU1dS1sOFdrVTdFVklyeHQyZjBha052eGZKa3FFY1F4blJ2NkJRQ19rWHhFU1BsUHZ3VQ?oc=5
+- Japan yields edge to 2008 high ahead of LDP leadership vote - The Economic Times
+  Japan yields edge to 2008 high ahead of LDP leadership
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOR3psZzRpN1NWQWZkbTl0VUFsbmpkdGtoVzVUanhJajFLSXg4RUZWcHIwRk5vVWhCSVhibDU4b1hHXzhXYWVsb01WZWI4Yl9jcjBFZHpyYURtdVNJUkQyYUwxMjdpd3J0UUE2c2lJVzBHUndkV2dOOXVwUkZkODV4aHFzOXd4eFZCVXBmT2pEMmJZQy0xS3BEakw4UnVNY2VfQVpLYjlzQWMyVkxETkdVUjctUFZGY011Q19PaEc5NGRSWjVVVE4yVG1ERdIBywFBVV95cUxOR3psZzRpN1NWQWZkbTl0VUFsbmpkdGtoVzVUanhJajFLSXg4RUZWcHIwRk5vVWhCSVhibDU4b1hHXzhXYWVsb01WZWI4Yl9jcjBFZHpyYURtdVNJUkQyYUwxMjdpd3J0UUE2c2lJVzBHUndkV2dOOXVwUkZkODV4aHFzOXd4eFZCVXBmT2pEMmJZQy0xS3BEakw4UnVNY2VfQVpLYjlzQWMyVkxETkdVUjctUFZGY011Q19PaEc5NGRSWjVVVE4yVG1ERQ?oc=5
 
-- Global Markets Today: Nikkei 225, Kospi trade mixed amid US government shutdown - Mint
-  Global Markets Today: Nikkei 225, K
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTUoyTGFtb2lRM2lEZ2RqUkFYT01BZV9HMUdpR3dteVR1a3JqNFM5TUZLVGppVkxCY0xJeko5MGtabWZ1aXJhLXBsb1EwVWVVb0F4YnptNmdiYUVJZ19jQVZ3bEM1d3RFeDJZcC1rem5GLXJRV0s3REJiUDRtbmFVbkxBb3pLdEQ5YmhONjVzUmVGMkx5dlZCd3JYaUdpaVVWbU9pd2stbjVHVlFNVVJ1LW40MGRJMUlqZS1PeGtLMURGUUh6bjU4MXdtYjhqbjdKaFNGMXZSLWYxZjdIbmNFS9IB5gFBVV95cUxPcE04cUpNUURYb3RGT1pycjVjc0ZXc2txMkd3SlFoZlRXYUJTbFFjMHBLNVBNTnNNSGswaDFVcS1jd2RDdjl2NWxUQnFtTFFicTlzbXhuQklTUkxYZEIzN2tMYXh0RVJ4THR3TkRVTENRa1FxczFzOTZxand1d0UzVWQ5d0ctdUpCNHRrSUE5bm40Q1NGTnFRYVVtNEtJLVEwb1VscWFkUHNvcWtCVVAzblE4LTh0d00tR2dfdFhFVTlvTTZNdmhZaFp1Q0w0Z3ZmQ3dLNHNydHRrNkZlR3djdUZKa05MZw?oc=5
+- Japan yields edge to 2008 high ahead of LDP leadership vote
+  Bank of Japan Governor Kazuo Ueda offered no clear indication on an interest rate hike this month. Traders currently place 37 percent odds on a quarter-point rate increase.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/japan-yields-edge-to-2008-high-ahead-of-ldp-leadership-vote/articleshow/124284624.cms
 
-- Oil Set for Large Weekly Loss Ahead of OPEC+ Meeting on Supply - Bloomberg.com
-  Oil Set for Large Weekly Loss Ahead of OPEC+
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQb1oxYXZlYWNtSGJmSkN6bGxrNjBVRVJZOWt3dVBDZm15b3BwYlVWdlFralpCQ0JCRzhKelNIeGZVeVdPcVFyYkY5NURWQzViMWxnV2loYWdvR1Rpb1dTVmVkZHptZEdhS1dfZ3h5VkU0enI5R0Q2dFFkVGJONEFSc3hmenItWHdQYVdaNElsRU9uMXhQcWtzYWUzM0E?oc=5
+- WeWork India IPO Day 1: Issue subscribed just 1% in early hours. Check GMP and key details. Should you apply?
+  WeWork India’s IPO saw a slow start, with just 1% subscription on Day 1 and a modest grey market premium of 2.3%. The offering comprises 4.62 crore shares, totalling Rs 3,000 crore
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/wework-india-ipo-day-1-issue-subscribed-just-1-in-early-hours-check-gmp-and-key-details-should-you-apply/articleshow/124284605.cms
 
-- Margin trading bets surge past Rs 1 lakh crore in value despite volatile market - The Economic Times
-  Margin trading bets surge past Rs 1 lakh crore in value despite volatile
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxORmZhWjh1SXVtRm50MkhscVZLeU5BU0pMWUdqWGpwcGxfc1ZYUTBJUHo5U1VGY3I5RXg2QWFWeUZvRlZGWkNQUHM2SE5Rb1doS2xMZjNjd1RQVGdqRzhHYllpZ3k1bjlFTzZ1MGVYM1pSTUVITHJ5Y3B6WnJibEZ0ZnZHVEloSTc1REs2MUNTaGVmUFBVbFpZQUw2ZFg1SW56bnBhT21fb2VqTEwydWswai1pRF80NWRYZmg2SUdrckpxVTNLb1dtWnNZZGtVWDZjeXZKTlJtNWZVWjI4U0JrSDNIS2Z5WTlf0gHuAUFVX3lxTE15Ylo3TFhhdnc2QWQyLWIyS1hTYnJ1WHhHaDNraGRLTlJuR3B3SUFPNXlzcHJxS2h1ZG95TjhKaTlMamJDZVlDOTlnMFZMRExSb2VYLVZKbmdScGJENjlEVjRqQWIxaUpkZWY1bGxjUVJiSFlNdlBpXzZJUUs5Sy1TUzkwcjlXbnRSNXdRUkNxa09oMy12VXg2SUxEYW1HRGpKUWd5Rk5PcDZLUi1yLUJKSE1tdjZfd2JrWWFvVE80cjZ6VTZYYWdyb3hjeXhwc0ZVT0E1Ty1iNFZUcVZObGlSQ05aMHdWUTEwMmNvNGc?oc=5
+- TruAlt Bioenergy shares fall 3% from day’s high after debut. Should you buy, sell or hold?
+  TruAlt Bioenergy shares debuted strongly but gave up early gains, trading at Rs 530 on the NSE. The company, a high-growth player in biofuels and renewable energy, benefits from government support and strong demand.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/trualt-bioenergy-shares-fall-3-from-days-high-after-debut-should-you-buy-sell-or-hold/articleshow/124284535.cms
 
-- 10% households invest in markets: Survey - Times of India
-  10% households invest in markets
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckN2Y25NWm1TV3NOUnlfTWVTR3VmTTRyZnRFd3c3SXBwUm9VYXdaOE1YMTV4TGVPVzRDSmQ5dWRWZ0hQUkh2aFJCTTJFSXpwR0NRVVYtWFZhTXZkMy1MTVNlMnE0d1hRYXVLWmVRRUxkdEE3Z3BTT095bHFhTC1qOVZYMU5kd1lPUk5QdnhNSzc3LUhqNTZGQjhOcFRoN3lld1VtMFlkRjJMZ1NqQTZUUE81eDYyNzhZVlJmdFl5OFJLd9IBxwFBVV95cUxNMkZZUmFNV2Q0WlB1RGMzUUxYUG96Y1lwMDkzc3ZtdExQNzg4VGp1MFNaU3pIM2RSUjlMNlNndzRnN1IxMUJDNEs4d1JTNzZJMHRNR1NtcVVLR09jdTNnSENDQnBiTXBBQTZ3V1RjalBTUzlsakNaSTFGbnJ1Zi1uTkFLRkZFZExjaUVPMWxnZzlHSmN6VUlGbnJOQ1RYOWU2aDBfdzBkZzhRTlZoSENIYUxsZ0M3S1hQSDR0MFQ5WXg0Z0VXWFJ3?oc=5
+- Investor education key to counter get-rich-quick culture: Sunil Subramaniam
+  Subramaniam stressed the need for investor education and responsible distribution. “Equities are a good wealth creation and inflation-beating asset class, but not like a lottery,” he said.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/investor-education-key-to-counter-get-rich-quick-culture-sunil-subramaniam/articleshow/124284420.cms
 
-- Will WeWork India’s IPO attract investors amid mixed financial signals?
-  WeWork India is set to launch a ₹3,000 crore IPO, which will reduce the promoter's stake to 48.1%. Despite higher revenue and Ebitda than competitors, the company's recent FY25 profit of
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/will-wework-indias-ipo-attract-investors-amid-mixed-financial-signals/articleshow/124280686.cms
+- Tata Group’s last IPO had a multibagger at listing. Can Tata Capital repeat the feat?
+  Tata Capital will launch its Rs 15,512 crore IPO on October 6. The company is India's third-largest diversified NBFC. Investors will consider its financial performance against market competition.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/tata-groups-last-ipo-had-a-multibagger-at-listing-can-tata-capital-repeat-the-feat/articleshow/124284477.cms
 
-- Lending leeway to pave way for Rs 5 lakh crore credit demand
-  India's credit growth, currently below 10%, is poised to accelerate. Easing corporate exposure norms and allowing M&amp;A financing are key drivers. weak credit demand remains a significant hurdle for faster economic expansion.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lending-leeway-to-pave-way-for-rs-5-lakh-crore-credit-demand/articleshow/124280664.cms
+- "India Won't Allow Humiliation": Putin's Big Praise For PM Modi Amid US Tariffs - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZU
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZUVFVjlmaHBPR21hWHBybHpGcFRoSUF6MWZkOFF3dUVuZFBYR0pXZ0ZyaFBpZHN5TzYtNmVUZm5WLXRROWFUbkJycHZncXJodWpNbjdYTzNBSEpDMUlKTzV3b2dHckJTaUV1RdIB0wFBVV95cUxNbDd0XzBFZ08zTVV2elhzS1JYZlNyRmpkaGd2dmdGaU5mRjZZNkEwY0QyRUtwYWpJcUFtN3VPQkJOWUdGRk5XSW1BT1RyRUo2SGRnQ1A2YzJLUVFVUVpBOC14U3VFbEphdkI4enpBbV9DNWJ5anlPRE1XZFAzZjBiVVNFYzNPSjdfWGxtanprSXI2OWdNN1lzT2w2UzRKWkdBa0NrcjJ1cXh2MlNQdllkMG5QUUwtSjl2cDhkMUxjaHRpblA0aXk5V1ZKNmFVeFJfQ2dV?oc=5
 
-- Chipmakers add $200 billion in global rally
-  Tech stocks reached new highs. Investors sought artificial intelligence exposure. OpenAI deals and Intel talks fueled this market.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/chipmakers-add-200-billion-in-global-rally/articleshow/124280645.cms
+- ‘Zubeen was for all’: Singer’s death unites India’s religiously torn Assam - Al Jazeera
+  ‘Zubeen was for all’
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0dqS19ObDJnaG1UemtrdlZOX1dfNVZNR2lRdkYzZUxlbnRNeXQ2MFRuS1dueTljM1g1Y2otQVFjbTdDTWh1aXJialhSSFFhVmNMcndya2ZuYktpU0ZjN2ZvZlUwUG5kM1pBbVJydVFvNC1ua1lTX3NwX1hBZ21pTEtmbkJ6dGpleDUwckRBeDlXcEhMaFQya2x2NmFyRkhVeEo1YXNfSlVGcUJudWZj0gG0AUFVX3lxTE1vdmV0R2NKYklKUG8wVlltQ2pJR2dYVU1MdjRFeHA1dWl1a0p2YUdYWTNkLUFNeGJ6cDFMREJ0MkJPWmQ2VXV3ci1SWTVKTUk4bEI2cC1ROGx1Q09XekZBbkhnN0FRZUViZVBCMWVNSHZ2Q3ZMMzBMZXZ5WmRuV2hqc3Z3bHFVRFVLNk1pazJkZEY3VWVzd3dENHNuQ0stekU5alFoSkl4TFdCVUdBb3lNX0NKSA?oc=5
 
-- RBI policy and GST boost fuel interest in consumption, financial services stocks
-  Analysts highlight several stocks, including United Spirits, Aditya Birla Capital, and Axis Bank. Consumption and financial services stocks are in focus due to recent GST boosts and RBI policy changes.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-policy-and-gst-boost-fuel-interest-in-consumption-financial-services-stocks/articleshow/124280600.cms
+- Zubeen Garg Death: Singapore Police Speak To Singer's Wife, Gives Autopsy Report To Indian Embassy - News18
+  Zubeen Garg was found dead in a Singapore hotel room.
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3pocHdRUE5kNU12RVZxWjBXaVRncWlnbzRYX2FtMnQzU2xlOXZwdkU4cUNSRm16cU9LZ2pDaktRNWtIUExoMmFuRmhZZTBVdlgwTnhLTUxqZmtjYWE1SURXUUNHS3V0YmpWNkw5LU5NSWpqUW5POG1aSlNfQXhIZ01kNllTdGxPem11ZmNpM1VwOG5FaUZNaDN1S3czYTFpZ2lnVWhma1RKeDUxUXp6STdPZWRWdEhuc3VzdUd0MklmaVpqVzhGNUJUYUxuVER1NlpZ0gHYAUFVX3lxTE44a2dUZGkwUU9IU19Xb0NrSHUyaTBoMUVUNno4TUkxTHVmNUozYUJ5eGRDUy0teUZtZWtUZUNsSlgxM1E1V0ZVdDBBWUZ3Wm84b0Y4aFFBZk9wZUFEY1NaU3FQOXFDTmNFRk1pVFU3QU5QSlBhYUs4ek8yT1cxdU9nc0Y0NUJvQmtUa2kzVm11M0hZLXVOOTBhdHpKaHVQbXdjY1YxMzdUcHhqWGZmRXJwNThseDZyb2haN08wZkxQREdUVDM3NHVLNXJLcGJrQkI3SGhqOFQtYw?oc=5
 
-- Upcoming LG India IPO nears valuation of South Korea parent
-  LG Electronics India's upcoming IPO values the company at $8.7 billion. Priced at ₹1,080-1,140 per share, analysts find its 35.1x P/E ratio attractive.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/upcoming-lg-india-ipo-nears-valuation-of-south-korea-parent/articleshow/124280557.cms
+- Bandmate, Co-Singer Arrested In Zubeen Garg Death Case, Total Now 4 - NDTV
+  Bandmate, Co-Singer Arrested
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTFR1NDVNSm9sTWRZSXNDeDVpQ1JrX2FIMWNOcEN5OWE2U01iSTdEZ0o3R3lGNnpjX3FkUUU3T1hDTkpUalJtLXJVSG0wTm9nRWZ5LUctVjh0TlNZUk5XMUVrdW1kOGNyR3V3cWZNRmxJUnBkOUdOYmRiNkhpY1drbUd1NW1iOFFVa1dHVnc1czhNVlowUks0WFJLSzZZRGd1YTB5VHdvRzdSUm9abmR1TFl0aVlZalVxdl9faGZ4cGdNUVdadl82Q29acGhQMTFNc3M3bHdpTVV4ZnJnaTA5V0tKUEhvcndtRXfSAfIBQVVfeXFMUC1nTF84NlY4T0xXLWhzTjkwemI4VFpsQVRZeEZMeXpfc2tNVFNGV29MX3k5eXBYNHFUekwzZVAySHlsbWRtekhFMEtTcFdRTXFiX2ZxTEROTWp3ODhyME9XanYyLXJLMU1RSW13ckxGRkljOVRfNV9PSjVUcU11N3drRk5RTDRYMDBGdzdTMFQ0LWgtSGpYWm9uNHp1VnVZUXFnOElCeXJuSnp1RkRfNG8zc0xNQXl2cXBLaGZVbi1OQ1h4OXI2VjdoRUR1cWR6a2RkUVVCWC1aSVU4cDZtUlhXYXJVZ0hrWXgwZjdKMzZmRGc?oc=5
 
-- Road to Karachi is through Sir Creek: Rajnath to Pakistan - Times of India
-  Road to Karachi is through Sir Creek: Rajn
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDlSX2V6Znktc2M5NEs3RHhBTENicHV3aktVRWxTZ3ZEU1B1Umt5QVdUSG9tNmFJUWV2YTdoelBnRk83Y0hXQzdwb0ljeDQySjB3U05ycWtqaGxVaDRoOGY5dWVzMmdKdXU5Ym9rWnJOTm9HelNPNHNIalZGRXFpYlNQd2JxYndINUhXdzFSNDd1SVNLN1R1S2VFeDNEME5XbU9uQVFadE5qV25VUW1hUDdJYlRIUjNXem5iNmpPa18zQQ?oc=5
+- 'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘I Love Mohammad’ Sparks Row In India - The Times of India
+  'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeHlqbW1NQXdmTkN2RVh4NlVjb2ZUNFh6a2VENGxBZGI4LWd1NmtYS0huVkk4c0llWjJtM0E5QWVQTHgxV2JVU2RUcmhQZjRHQU50Rm9iVktFakI5bGptRkktamw4enpHMEFHZl9waGZCeExYcDBFN0pXMkJIbXU5cGFTYmhua1VnVVZVY0RRbVZlWl9nTTYzTjR4bk5vOEZxbGVFUURPX3c3azhaVGNHeC1od29CWS11TkxWT2FOaWVIQ3dYNXhIaUZFenRjRkhBdGpFX2M5TU5jc1VOVUpUTWNvU2w2ampTd2lGdWFWUm5xZTlKNXfSAfsBQVVfeXFMT1VyNnRiYnYtTk5aTVFfdXRqREsyb3F5eTE5akVXeHZEeC1HME5pUXFqdFhYb01fUHJVTzQ0cEFfX2dvV0hLNHE5UjdnNGFTUHgxUTY5ZjFYN2EtZG1vZUE5LV9XakJHcEFQTGRPSUROSjJVSjdCWDhJZ3RzWWdaTlBGYUppXzlFR0pFSl9pU0haa0NmejZ5WlBoVDIyWGhxU0hIbVU1UmFKb2pZMGQtYnJjTk1Mb3JtN0QxX1o4REFmSGhtM3lpZkotOFVUM0lyZG5tM2I0SVdMam42ZTN6OEZ4cnJyTHVZLXJwN181RmppNWpWci1OajJFblE?oc=5
 
-- India's Big Warning To Pakistan Against Aggressive Approach Towards Sir Creek - NDTV
-  India's Big Warning To Pakistan Against Aggressive
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0tqMlBMcmtmaWs1TVZ2Z1RmNDliWEltVng3UmJhTkxTbGJ1QVM1UnlVLUtfSzhrbTVLZ1UyODM2eGNrYUVuRGlTdF91RnNEMmtGRV9RVEpyaE1Ec1U2RnpNOUpJbVotbWx0SkF4YXZHWWdLRW1JTnh1WXA2cFllc0cyTEZHcEZXR3I2M01KcDNtX0VQREJBb3lNNUdVa01fZzZ0ZmhZcTk0VWlqT2F0TVEtSDZJOGfSAb8BQVVfeXFMTUVjanpKRGlINHdMWmkyRWhqOG54TVczbktFS3JSdHlrM1ZXckE0aUEzN2NZQnozSHVNMjJKYXpMdWh0N1J1Z2UzQUgxQzlLUG5uN05MSU8zaGctcG8xMnAzWVlvMVZHVzg4ZVhOMEVnZ0lWbnIxV2xfRXRmc2RhWktGQkpXeEd2N0lKYkJRNXFKSEFCRGRUU3NMLWFpZUh6cG5iVzFJNkFCc2NPRDFsUHZEcHhNSDBmdnZ0VHNPVlU?oc=5
+- "India Won't Allow Humiliation": Putin's Big Praise For PM Modi Amid US Tariffs - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZU
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZUVFVjlmaHBPR21hWHBybHpGcFRoSUF6MWZkOFF3dUVuZFBYR0pXZ0ZyaFBpZHN5TzYtNmVUZm5WLXRROWFUbkJycHZncXJodWpNbjdYTzNBSEpDMUlKTzV3b2dHckJTaUV1RdIB0wFBVV95cUxNbDd0XzBFZ08zTVV2elhzS1JYZlNyRmpkaGd2dmdGaU5mRjZZNkEwY0QyRUtwYWpJcUFtN3VPQkJOWUdGRk5XSW1BT1RyRUo2SGRnQ1A2YzJLUVFVUVpBOC14U3VFbEphdkI4enpBbV9DNWJ5anlPRE1XZFAzZjBiVVNFYzNPSjdfWGxtanprSXI2OWdNN1lzT2w2UzRKWkdBa0NrcjJ1cXh2MlNQdllkMG5QUUwtSjl2cDhkMUxjaHRpblA0aXk5V1ZKNmFVeFJfQ2dV?oc=5
 
-- 'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build-up near Sir Creek | Latest News India - Hindustan Times
-  'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRTVxWUxQZnQtbVdJaGd2QmpwZEhwVXYzSzF3R1NYb19WbVl1c0NURENTRjN0WFctVWx2cVNjWW1tT2dzSmZWcXJodjVYN3ZUT2h6N3g4QTZ2NWdwX1VKSG9HUExZeEdQdERfMzV0NFZ2TGJ1SHFzTW16d1RuYVZnLWc2ME51ZUFqWlhEcll5QzllQXBvM0VBbVlud181TlJ1ZkNkM2U2Slk0eHVuMWtCazJaZVRYQXoweVF4UkFQeV9BaV9JQmZscWxFSXBWTGwyMG1hQTQtTEZ4WTQzclQ2dkx1ekVUZmo1eFV6T2pOZlHSAfYBQVVfeXFMT0dla21rbWZpR01NanNEUXZzbEdlZEh0SC1fVDhMRHVOZ0xsclVRTl9CY3RVN192a2xtVDhISlBIQ1Q2TExjVzc0aUdodWFYOTZxWlpkTUV0OGRhOW1xOHVBMHpXOGhfQkFXX1NmUFkxV0sxZ3U2Zk9aTTdzeU9Cb0hWRV9yVkxOb3FERXloLXpqUXNPV3hHWi1zTy1WM1FvUXdVV1VaenBpVEswU0lMUEFreFZEUUxtWlFjdUlvWEN5b3kyNVVob0M3NmNXel9JV0wwMXVvNmtJSV80S29wN1ZiQ1psaS1FVmtFdHdQaUZLVmxyTkJB?oc=5
+- ‘Zubeen was for all’: Singer’s death unites India’s religiously torn Assam - Al Jazeera
+  ‘Zubeen was for all’
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0dqS19ObDJnaG1UemtrdlZOX1dfNVZNR2lRdkYzZUxlbnRNeXQ2MFRuS1dueTljM1g1Y2otQVFjbTdDTWh1aXJialhSSFFhVmNMcndya2ZuYktpU0ZjN2ZvZlUwUG5kM1pBbVJydVFvNC1ua1lTX3NwX1hBZ21pTEtmbkJ6dGpleDUwckRBeDlXcEhMaFQya2x2NmFyRkhVeEo1YXNfSlVGcUJudWZj0gG0AUFVX3lxTE1vdmV0R2NKYklKUG8wVlltQ2pJR2dYVU1MdjRFeHA1dWl1a0p2YUdYWTNkLUFNeGJ6cDFMREJ0MkJPWmQ2VXV3ci1SWTVKTUk4bEI2cC1ROGx1Q09XekZBbkhnN0FRZUViZVBCMWVNSHZ2Q3ZMMzBMZXZ5WmRuV2hqc3Z3bHFVRFVLNk1pazJkZEY3VWVzd3dENHNuQ0stekU5alFoSkl4TFdCVUdBb3lNX0NKSA?oc=5
 
-- 'Attack On Democracy Biggest Threat To India': Rahul Gandhi In Colombia - NDTV
-  'Attack On Democracy Biggest Threat To India
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbXBPbUQ2cTZ5OWlXS1lLcERhaG5XeERROUNfaFVxQWpjMDhpa3lFaUp6WTE3LWZrSzJONG9NeU5EM0libklYcjUtaF85TncybE9KMlh1NjFXRUVQVGRHUEFpdTNoWXJqVzRVanoweVE4QzhqZlhxd19IdG5ybGRPeUZBRHdHTC1sbV9zQ2xQUm9fVmF0d1FwbDc5eWpaZVdJQUpNd2FNQmNJN2hNVXhCbTJmd0FMVDdtWjRoWWVXMldyZHZIRGhQX0JjSlVBQdIB1gFBVV95cUxPLTZpZFBqRWJnOENUYUNWemRRM3ZfWFUwX0JYYXJxQXMxM0p6MGhHaWxoTzBrdll4V2hicENtZkF4R1lCVDhQdXZmblRqWTVLVGxONkk4RkN4Qy05WFFBZGt6cDk0b3NlTFdHbWtweFVQY3FQN0FNSGZValc3amRFWmtrdTNkemdTSThQOXhXc3dnUUZDcS1QRVFsck5Sc283aUppUzBYUUl5UUpZWXdFcWFuUktPN29GeFNpZkpVRUE5UEJkRmYtdnJKdHRjdDJWLWtxT01B?oc=5
+- Zubeen Garg Death: Singapore Police Speak To Singer's Wife, Gives Autopsy Report To Indian Embassy - News18
+  Zubeen Garg was found dead in a Singapore hotel room.
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3pocHdRUE5kNU12RVZxWjBXaVRncWlnbzRYX2FtMnQzU2xlOXZwdkU4cUNSRm16cU9LZ2pDaktRNWtIUExoMmFuRmhZZTBVdlgwTnhLTUxqZmtjYWE1SURXUUNHS3V0YmpWNkw5LU5NSWpqUW5POG1aSlNfQXhIZ01kNllTdGxPem11ZmNpM1VwOG5FaUZNaDN1S3czYTFpZ2lnVWhma1RKeDUxUXp6STdPZWRWdEhuc3VzdUd0MklmaVpqVzhGNUJUYUxuVER1NlpZ0gHYAUFVX3lxTE44a2dUZGkwUU9IU19Xb0NrSHUyaTBoMUVUNno4TUkxTHVmNUozYUJ5eGRDUy0teUZtZWtUZUNsSlgxM1E1V0ZVdDBBWUZ3Wm84b0Y4aFFBZk9wZUFEY1NaU3FQOXFDTmNFRk1pVFU3QU5QSlBhYUs4ek8yT1cxdU9nc0Y0NUJvQmtUa2kzVm11M0hZLXVOOTBhdHpKaHVQbXdjY1YxMzdUcHhqWGZmRXJwNThseDZyb2haN08wZkxQREdUVDM3NHVLNXJLcGJrQkI3SGhqOFQtYw?oc=5
 
-- 'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP calls him 'leader of propaganda' - Times of India
-  'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxObkJndEo1dFRGT1hPUjdpY0QyeG9jcTNHMjVBcC1fdzRGaGpSQjZ5OGJkbUxuNV90ZUQwUGI4Zl90VWZzaHJKQTlHbmhuN2NCS3pRbTFYRGdjVzliWGs1VmxGdk1mMkVlVHdyVEFjYnNjTTlPWVc4THFNSldkUWdHTGtOWFBTeDBkZU0xeXZxUlZTaHVOVm1rbE5QXzdzamc0clZabnNfUDJEdW16bUVFa1c3SEVsYks4UzFYVUw1MU9paDM4M19RZW05WUhjLXVPVFZOUjdkcGhGOFhuVHlQQ3JTMl90SFgxY0lPM2VXVFR6clROX203Tl9B?oc=5
+- Bandmate, Co-Singer Arrested In Zubeen Garg Death Case, Total Now 4 - NDTV
+  Bandmate, Co-Singer Arrested
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTFR1NDVNSm9sTWRZSXNDeDVpQ1JrX2FIMWNOcEN5OWE2U01iSTdEZ0o3R3lGNnpjX3FkUUU3T1hDTkpUalJtLXJVSG0wTm9nRWZ5LUctVjh0TlNZUk5XMUVrdW1kOGNyR3V3cWZNRmxJUnBkOUdOYmRiNkhpY1drbUd1NW1iOFFVa1dHVnc1czhNVlowUks0WFJLSzZZRGd1YTB5VHdvRzdSUm9abmR1TFl0aVlZalVxdl9faGZ4cGdNUVdadl82Q29acGhQMTFNc3M3bHdpTVV4ZnJnaTA5V0tKUEhvcndtRXfSAfIBQVVfeXFMUC1nTF84NlY4T0xXLWhzTjkwemI4VFpsQVRZeEZMeXpfc2tNVFNGV29MX3k5eXBYNHFUekwzZVAySHlsbWRtekhFMEtTcFdRTXFiX2ZxTEROTWp3ODhyME9XanYyLXJLMU1RSW13ckxGRkljOVRfNV9PSjVUcU11N3drRk5RTDRYMDBGdzdTMFQ0LWgtSGpYWm9uNHp1VnVZUXFnOElCeXJuSnp1RkRfNG8zc0xNQXl2cXBLaGZVbi1OQ1h4OXI2VjdoRUR1cWR6a2RkUVVCWC1aSVU4cDZtUlhXYXJVZ0hrWXgwZjdKMzZmRGc?oc=5
 
-- Road to Karachi is through Sir Creek: Rajnath to Pakistan - Times of India
-  Road to Karachi is through Sir Creek: Rajn
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDlSX2V6Znktc2M5NEs3RHhBTENicHV3aktVRWxTZ3ZEU1B1Umt5QVdUSG9tNmFJUWV2YTdoelBnRk83Y0hXQzdwb0ljeDQySjB3U05ycWtqaGxVaDRoOGY5dWVzMmdKdXU5Ym9rWnJOTm9HelNPNHNIalZGRXFpYlNQd2JxYndINUhXdzFSNDd1SVNLN1R1S2VFeDNEME5XbU9uQVFadE5qV25VUW1hUDdJYlRIUjNXem5iNmpPa18zQQ?oc=5
+- 'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘I Love Mohammad’ Sparks Row In India - The Times of India
+  'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeHlqbW1NQXdmTkN2RVh4NlVjb2ZUNFh6a2VENGxBZGI4LWd1NmtYS0huVkk4c0llWjJtM0E5QWVQTHgxV2JVU2RUcmhQZjRHQU50Rm9iVktFakI5bGptRkktamw4enpHMEFHZl9waGZCeExYcDBFN0pXMkJIbXU5cGFTYmhua1VnVVZVY0RRbVZlWl9nTTYzTjR4bk5vOEZxbGVFUURPX3c3azhaVGNHeC1od29CWS11TkxWT2FOaWVIQ3dYNXhIaUZFenRjRkhBdGpFX2M5TU5jc1VOVUpUTWNvU2w2ampTd2lGdWFWUm5xZTlKNXfSAfsBQVVfeXFMT1VyNnRiYnYtTk5aTVFfdXRqREsyb3F5eTE5akVXeHZEeC1HME5pUXFqdFhYb01fUHJVTzQ0cEFfX2dvV0hLNHE5UjdnNGFTUHgxUTY5ZjFYN2EtZG1vZUE5LV9XakJHcEFQTGRPSUROSjJVSjdCWDhJZ3RzWWdaTlBGYUppXzlFR0pFSl9pU0haa0NmejZ5WlBoVDIyWGhxU0hIbVU1UmFKb2pZMGQtYnJjTk1Mb3JtN0QxX1o4REFmSGhtM3lpZkotOFVUM0lyZG5tM2I0SVdMam42ZTN6OEZ4cnJyTHVZLXJwN181RmppNWpWci1OajJFblE?oc=5
 
-- India's Big Warning To Pakistan Against Aggressive Approach Towards Sir Creek - NDTV
-  India's Big Warning To Pakistan Against Aggressive
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0tqMlBMcmtmaWs1TVZ2Z1RmNDliWEltVng3UmJhTkxTbGJ1QVM1UnlVLUtfSzhrbTVLZ1UyODM2eGNrYUVuRGlTdF91RnNEMmtGRV9RVEpyaE1Ec1U2RnpNOUpJbVotbWx0SkF4YXZHWWdLRW1JTnh1WXA2cFllc0cyTEZHcEZXR3I2M01KcDNtX0VQREJBb3lNNUdVa01fZzZ0ZmhZcTk0VWlqT2F0TVEtSDZJOGfSAb8BQVVfeXFMTUVjanpKRGlINHdMWmkyRWhqOG54TVczbktFS3JSdHlrM1ZXckE0aUEzN2NZQnozSHVNMjJKYXpMdWh0N1J1Z2UzQUgxQzlLUG5uN05MSU8zaGctcG8xMnAzWVlvMVZHVzg4ZVhOMEVnZ0lWbnIxV2xfRXRmc2RhWktGQkpXeEd2N0lKYkJRNXFKSEFCRGRUU3NMLWFpZUh6cG5iVzFJNkFCc2NPRDFsUHZEcHhNSDBmdnZ0VHNPVlU?oc=5
+- "India Won't Allow Humiliation": Putin's Big Praise For PM Modi Amid US Tariffs - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZU
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZUVFVjlmaHBPR21hWHBybHpGcFRoSUF6MWZkOFF3dUVuZFBYR0pXZ0ZyaFBpZHN5TzYtNmVUZm5WLXRROWFUbkJycHZncXJodWpNbjdYTzNBSEpDMUlKTzV3b2dHckJTaUV1RdIB0wFBVV95cUxNbDd0XzBFZ08zTVV2elhzS1JYZlNyRmpkaGd2dmdGaU5mRjZZNkEwY0QyRUtwYWpJcUFtN3VPQkJOWUdGRk5XSW1BT1RyRUo2SGRnQ1A2YzJLUVFVUVpBOC14U3VFbEphdkI4enpBbV9DNWJ5anlPRE1XZFAzZjBiVVNFYzNPSjdfWGxtanprSXI2OWdNN1lzT2w2UzRKWkdBa0NrcjJ1cXh2MlNQdllkMG5QUUwtSjl2cDhkMUxjaHRpblA0aXk5V1ZKNmFVeFJfQ2dV?oc=5
 
-- 'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build-up near Sir Creek | Latest News India - Hindustan Times
-  'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRTVxWUxQZnQtbVdJaGd2QmpwZEhwVXYzSzF3R1NYb19WbVl1c0NURENTRjN0WFctVWx2cVNjWW1tT2dzSmZWcXJodjVYN3ZUT2h6N3g4QTZ2NWdwX1VKSG9HUExZeEdQdERfMzV0NFZ2TGJ1SHFzTW16d1RuYVZnLWc2ME51ZUFqWlhEcll5QzllQXBvM0VBbVlud181TlJ1ZkNkM2U2Slk0eHVuMWtCazJaZVRYQXoweVF4UkFQeV9BaV9JQmZscWxFSXBWTGwyMG1hQTQtTEZ4WTQzclQ2dkx1ekVUZmo1eFV6T2pOZlHSAfYBQVVfeXFMT0dla21rbWZpR01NanNEUXZzbEdlZEh0SC1fVDhMRHVOZ0xsclVRTl9CY3RVN192a2xtVDhISlBIQ1Q2TExjVzc0aUdodWFYOTZxWlpkTUV0OGRhOW1xOHVBMHpXOGhfQkFXX1NmUFkxV0sxZ3U2Zk9aTTdzeU9Cb0hWRV9yVkxOb3FERXloLXpqUXNPV3hHWi1zTy1WM1FvUXdVV1VaenBpVEswU0lMUEFreFZEUUxtWlFjdUlvWEN5b3kyNVVob0M3NmNXel9JV0wwMXVvNmtJSV80S29wN1ZiQ1psaS1FVmtFdHdQaUZLVmxyTkJB?oc=5
+- ‘Zubeen was for all’: Singer’s death unites India’s religiously torn Assam - Al Jazeera
+  ‘Zubeen was for all’
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0dqS19ObDJnaG1UemtrdlZOX1dfNVZNR2lRdkYzZUxlbnRNeXQ2MFRuS1dueTljM1g1Y2otQVFjbTdDTWh1aXJialhSSFFhVmNMcndya2ZuYktpU0ZjN2ZvZlUwUG5kM1pBbVJydVFvNC1ua1lTX3NwX1hBZ21pTEtmbkJ6dGpleDUwckRBeDlXcEhMaFQya2x2NmFyRkhVeEo1YXNfSlVGcUJudWZj0gG0AUFVX3lxTE1vdmV0R2NKYklKUG8wVlltQ2pJR2dYVU1MdjRFeHA1dWl1a0p2YUdYWTNkLUFNeGJ6cDFMREJ0MkJPWmQ2VXV3ci1SWTVKTUk4bEI2cC1ROGx1Q09XekZBbkhnN0FRZUViZVBCMWVNSHZ2Q3ZMMzBMZXZ5WmRuV2hqc3Z3bHFVRFVLNk1pazJkZEY3VWVzd3dENHNuQ0stekU5alFoSkl4TFdCVUdBb3lNX0NKSA?oc=5
 
-- 'Attack On Democracy Biggest Threat To India': Rahul Gandhi In Colombia - NDTV
-  'Attack On Democracy Biggest Threat To India
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbXBPbUQ2cTZ5OWlXS1lLcERhaG5XeERROUNfaFVxQWpjMDhpa3lFaUp6WTE3LWZrSzJONG9NeU5EM0libklYcjUtaF85TncybE9KMlh1NjFXRUVQVGRHUEFpdTNoWXJqVzRVanoweVE4QzhqZlhxd19IdG5ybGRPeUZBRHdHTC1sbV9zQ2xQUm9fVmF0d1FwbDc5eWpaZVdJQUpNd2FNQmNJN2hNVXhCbTJmd0FMVDdtWjRoWWVXMldyZHZIRGhQX0JjSlVBQdIB1gFBVV95cUxPLTZpZFBqRWJnOENUYUNWemRRM3ZfWFUwX0JYYXJxQXMxM0p6MGhHaWxoTzBrdll4V2hicENtZkF4R1lCVDhQdXZmblRqWTVLVGxONkk4RkN4Qy05WFFBZGt6cDk0b3NlTFdHbWtweFVQY3FQN0FNSGZValc3amRFWmtrdTNkemdTSThQOXhXc3dnUUZDcS1QRVFsck5Sc283aUppUzBYUUl5UUpZWXdFcWFuUktPN29GeFNpZkpVRUE5UEJkRmYtdnJKdHRjdDJWLWtxT01B?oc=5
+- Zubeen Garg Death: Singapore Police Speak To Singer's Wife, Gives Autopsy Report To Indian Embassy - News18
+  Zubeen Garg was found dead in a Singapore hotel room.
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3pocHdRUE5kNU12RVZxWjBXaVRncWlnbzRYX2FtMnQzU2xlOXZwdkU4cUNSRm16cU9LZ2pDaktRNWtIUExoMmFuRmhZZTBVdlgwTnhLTUxqZmtjYWE1SURXUUNHS3V0YmpWNkw5LU5NSWpqUW5POG1aSlNfQXhIZ01kNllTdGxPem11ZmNpM1VwOG5FaUZNaDN1S3czYTFpZ2lnVWhma1RKeDUxUXp6STdPZWRWdEhuc3VzdUd0MklmaVpqVzhGNUJUYUxuVER1NlpZ0gHYAUFVX3lxTE44a2dUZGkwUU9IU19Xb0NrSHUyaTBoMUVUNno4TUkxTHVmNUozYUJ5eGRDUy0teUZtZWtUZUNsSlgxM1E1V0ZVdDBBWUZ3Wm84b0Y4aFFBZk9wZUFEY1NaU3FQOXFDTmNFRk1pVFU3QU5QSlBhYUs4ek8yT1cxdU9nc0Y0NUJvQmtUa2kzVm11M0hZLXVOOTBhdHpKaHVQbXdjY1YxMzdUcHhqWGZmRXJwNThseDZyb2haN08wZkxQREdUVDM3NHVLNXJLcGJrQkI3SGhqOFQtYw?oc=5
 
-- 'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP calls him 'leader of propaganda' - Times of India
-  'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxObkJndEo1dFRGT1hPUjdpY0QyeG9jcTNHMjVBcC1fdzRGaGpSQjZ5OGJkbUxuNV90ZUQwUGI4Zl90VWZzaHJKQTlHbmhuN2NCS3pRbTFYRGdjVzliWGs1VmxGdk1mMkVlVHdyVEFjYnNjTTlPWVc4THFNSldkUWdHTGtOWFBTeDBkZU0xeXZxUlZTaHVOVm1rbE5QXzdzamc0clZabnNfUDJEdW16bUVFa1c3SEVsYks4UzFYVUw1MU9paDM4M19RZW05WUhjLXVPVFZOUjdkcGhGOFhuVHlQQ3JTMl90SFgxY0lPM2VXVFR6clROX203Tl9B?oc=5
+- Bandmate, Co-Singer Arrested In Zubeen Garg Death Case, Total Now 4 - NDTV
+  Bandmate, Co-Singer Arrested
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTFR1NDVNSm9sTWRZSXNDeDVpQ1JrX2FIMWNOcEN5OWE2U01iSTdEZ0o3R3lGNnpjX3FkUUU3T1hDTkpUalJtLXJVSG0wTm9nRWZ5LUctVjh0TlNZUk5XMUVrdW1kOGNyR3V3cWZNRmxJUnBkOUdOYmRiNkhpY1drbUd1NW1iOFFVa1dHVnc1czhNVlowUks0WFJLSzZZRGd1YTB5VHdvRzdSUm9abmR1TFl0aVlZalVxdl9faGZ4cGdNUVdadl82Q29acGhQMTFNc3M3bHdpTVV4ZnJnaTA5V0tKUEhvcndtRXfSAfIBQVVfeXFMUC1nTF84NlY4T0xXLWhzTjkwemI4VFpsQVRZeEZMeXpfc2tNVFNGV29MX3k5eXBYNHFUekwzZVAySHlsbWRtekhFMEtTcFdRTXFiX2ZxTEROTWp3ODhyME9XanYyLXJLMU1RSW13ckxGRkljOVRfNV9PSjVUcU11N3drRk5RTDRYMDBGdzdTMFQ0LWgtSGpYWm9uNHp1VnVZUXFnOElCeXJuSnp1RkRfNG8zc0xNQXl2cXBLaGZVbi1OQ1h4OXI2VjdoRUR1cWR6a2RkUVVCWC1aSVU4cDZtUlhXYXJVZ0hrWXgwZjdKMzZmRGc?oc=5
 
-- Road to Karachi is through Sir Creek: Rajnath to Pakistan - Times of India
-  Road to Karachi is through Sir Creek: Rajn
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDlSX2V6Znktc2M5NEs3RHhBTENicHV3aktVRWxTZ3ZEU1B1Umt5QVdUSG9tNmFJUWV2YTdoelBnRk83Y0hXQzdwb0ljeDQySjB3U05ycWtqaGxVaDRoOGY5dWVzMmdKdXU5Ym9rWnJOTm9HelNPNHNIalZGRXFpYlNQd2JxYndINUhXdzFSNDd1SVNLN1R1S2VFeDNEME5XbU9uQVFadE5qV25VUW1hUDdJYlRIUjNXem5iNmpPa18zQQ?oc=5
+- 'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘I Love Mohammad’ Sparks Row In India - The Times of India
+  'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeHlqbW1NQXdmTkN2RVh4NlVjb2ZUNFh6a2VENGxBZGI4LWd1NmtYS0huVkk4c0llWjJtM0E5QWVQTHgxV2JVU2RUcmhQZjRHQU50Rm9iVktFakI5bGptRkktamw4enpHMEFHZl9waGZCeExYcDBFN0pXMkJIbXU5cGFTYmhua1VnVVZVY0RRbVZlWl9nTTYzTjR4bk5vOEZxbGVFUURPX3c3azhaVGNHeC1od29CWS11TkxWT2FOaWVIQ3dYNXhIaUZFenRjRkhBdGpFX2M5TU5jc1VOVUpUTWNvU2w2ampTd2lGdWFWUm5xZTlKNXfSAfsBQVVfeXFMT1VyNnRiYnYtTk5aTVFfdXRqREsyb3F5eTE5akVXeHZEeC1HME5pUXFqdFhYb01fUHJVTzQ0cEFfX2dvV0hLNHE5UjdnNGFTUHgxUTY5ZjFYN2EtZG1vZUE5LV9XakJHcEFQTGRPSUROSjJVSjdCWDhJZ3RzWWdaTlBGYUppXzlFR0pFSl9pU0haa0NmejZ5WlBoVDIyWGhxU0hIbVU1UmFKb2pZMGQtYnJjTk1Mb3JtN0QxX1o4REFmSGhtM3lpZkotOFVUM0lyZG5tM2I0SVdMam42ZTN6OEZ4cnJyTHVZLXJwN181RmppNWpWci1OajJFblE?oc=5
 
-- India's Big Warning To Pakistan Against Aggressive Approach Towards Sir Creek - NDTV
-  India's Big Warning To Pakistan Against Aggressive
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0tqMlBMcmtmaWs1TVZ2Z1RmNDliWEltVng3UmJhTkxTbGJ1QVM1UnlVLUtfSzhrbTVLZ1UyODM2eGNrYUVuRGlTdF91RnNEMmtGRV9RVEpyaE1Ec1U2RnpNOUpJbVotbWx0SkF4YXZHWWdLRW1JTnh1WXA2cFllc0cyTEZHcEZXR3I2M01KcDNtX0VQREJBb3lNNUdVa01fZzZ0ZmhZcTk0VWlqT2F0TVEtSDZJOGfSAb8BQVVfeXFMTUVjanpKRGlINHdMWmkyRWhqOG54TVczbktFS3JSdHlrM1ZXckE0aUEzN2NZQnozSHVNMjJKYXpMdWh0N1J1Z2UzQUgxQzlLUG5uN05MSU8zaGctcG8xMnAzWVlvMVZHVzg4ZVhOMEVnZ0lWbnIxV2xfRXRmc2RhWktGQkpXeEd2N0lKYkJRNXFKSEFCRGRUU3NMLWFpZUh6cG5iVzFJNkFCc2NPRDFsUHZEcHhNSDBmdnZ0VHNPVlU?oc=5
+- "India Won't Allow Humiliation": Putin's Big Praise For PM Modi Amid US Tariffs - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZU
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZUVFVjlmaHBPR21hWHBybHpGcFRoSUF6MWZkOFF3dUVuZFBYR0pXZ0ZyaFBpZHN5TzYtNmVUZm5WLXRROWFUbkJycHZncXJodWpNbjdYTzNBSEpDMUlKTzV3b2dHckJTaUV1RdIB0wFBVV95cUxNbDd0XzBFZ08zTVV2elhzS1JYZlNyRmpkaGd2dmdGaU5mRjZZNkEwY0QyRUtwYWpJcUFtN3VPQkJOWUdGRk5XSW1BT1RyRUo2SGRnQ1A2YzJLUVFVUVpBOC14U3VFbEphdkI4enpBbV9DNWJ5anlPRE1XZFAzZjBiVVNFYzNPSjdfWGxtanprSXI2OWdNN1lzT2w2UzRKWkdBa0NrcjJ1cXh2MlNQdllkMG5QUUwtSjl2cDhkMUxjaHRpblA0aXk5V1ZKNmFVeFJfQ2dV?oc=5
 
-- 'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build-up near Sir Creek | Latest News India - Hindustan Times
-  'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRTVxWUxQZnQtbVdJaGd2QmpwZEhwVXYzSzF3R1NYb19WbVl1c0NURENTRjN0WFctVWx2cVNjWW1tT2dzSmZWcXJodjVYN3ZUT2h6N3g4QTZ2NWdwX1VKSG9HUExZeEdQdERfMzV0NFZ2TGJ1SHFzTW16d1RuYVZnLWc2ME51ZUFqWlhEcll5QzllQXBvM0VBbVlud181TlJ1ZkNkM2U2Slk0eHVuMWtCazJaZVRYQXoweVF4UkFQeV9BaV9JQmZscWxFSXBWTGwyMG1hQTQtTEZ4WTQzclQ2dkx1ekVUZmo1eFV6T2pOZlHSAfYBQVVfeXFMT0dla21rbWZpR01NanNEUXZzbEdlZEh0SC1fVDhMRHVOZ0xsclVRTl9CY3RVN192a2xtVDhISlBIQ1Q2TExjVzc0aUdodWFYOTZxWlpkTUV0OGRhOW1xOHVBMHpXOGhfQkFXX1NmUFkxV0sxZ3U2Zk9aTTdzeU9Cb0hWRV9yVkxOb3FERXloLXpqUXNPV3hHWi1zTy1WM1FvUXdVV1VaenBpVEswU0lMUEFreFZEUUxtWlFjdUlvWEN5b3kyNVVob0M3NmNXel9JV0wwMXVvNmtJSV80S29wN1ZiQ1psaS1FVmtFdHdQaUZLVmxyTkJB?oc=5
+- ‘Zubeen was for all’: Singer’s death unites India’s religiously torn Assam - Al Jazeera
+  ‘Zubeen was for all’
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0dqS19ObDJnaG1UemtrdlZOX1dfNVZNR2lRdkYzZUxlbnRNeXQ2MFRuS1dueTljM1g1Y2otQVFjbTdDTWh1aXJialhSSFFhVmNMcndya2ZuYktpU0ZjN2ZvZlUwUG5kM1pBbVJydVFvNC1ua1lTX3NwX1hBZ21pTEtmbkJ6dGpleDUwckRBeDlXcEhMaFQya2x2NmFyRkhVeEo1YXNfSlVGcUJudWZj0gG0AUFVX3lxTE1vdmV0R2NKYklKUG8wVlltQ2pJR2dYVU1MdjRFeHA1dWl1a0p2YUdYWTNkLUFNeGJ6cDFMREJ0MkJPWmQ2VXV3ci1SWTVKTUk4bEI2cC1ROGx1Q09XekZBbkhnN0FRZUViZVBCMWVNSHZ2Q3ZMMzBMZXZ5WmRuV2hqc3Z3bHFVRFVLNk1pazJkZEY3VWVzd3dENHNuQ0stekU5alFoSkl4TFdCVUdBb3lNX0NKSA?oc=5
 
-- 'Attack On Democracy Biggest Threat To India': Rahul Gandhi In Colombia - NDTV
-  'Attack On Democracy Biggest Threat To India
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbXBPbUQ2cTZ5OWlXS1lLcERhaG5XeERROUNfaFVxQWpjMDhpa3lFaUp6WTE3LWZrSzJONG9NeU5EM0libklYcjUtaF85TncybE9KMlh1NjFXRUVQVGRHUEFpdTNoWXJqVzRVanoweVE4QzhqZlhxd19IdG5ybGRPeUZBRHdHTC1sbV9zQ2xQUm9fVmF0d1FwbDc5eWpaZVdJQUpNd2FNQmNJN2hNVXhCbTJmd0FMVDdtWjRoWWVXMldyZHZIRGhQX0JjSlVBQdIB1gFBVV95cUxPLTZpZFBqRWJnOENUYUNWemRRM3ZfWFUwX0JYYXJxQXMxM0p6MGhHaWxoTzBrdll4V2hicENtZkF4R1lCVDhQdXZmblRqWTVLVGxONkk4RkN4Qy05WFFBZGt6cDk0b3NlTFdHbWtweFVQY3FQN0FNSGZValc3amRFWmtrdTNkemdTSThQOXhXc3dnUUZDcS1QRVFsck5Sc283aUppUzBYUUl5UUpZWXdFcWFuUktPN29GeFNpZkpVRUE5UEJkRmYtdnJKdHRjdDJWLWtxT01B?oc=5
+- Zubeen Garg Death: Singapore Police Speak To Singer's Wife, Gives Autopsy Report To Indian Embassy - News18
+  Zubeen Garg was found dead in a Singapore hotel room.
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3pocHdRUE5kNU12RVZxWjBXaVRncWlnbzRYX2FtMnQzU2xlOXZwdkU4cUNSRm16cU9LZ2pDaktRNWtIUExoMmFuRmhZZTBVdlgwTnhLTUxqZmtjYWE1SURXUUNHS3V0YmpWNkw5LU5NSWpqUW5POG1aSlNfQXhIZ01kNllTdGxPem11ZmNpM1VwOG5FaUZNaDN1S3czYTFpZ2lnVWhma1RKeDUxUXp6STdPZWRWdEhuc3VzdUd0MklmaVpqVzhGNUJUYUxuVER1NlpZ0gHYAUFVX3lxTE44a2dUZGkwUU9IU19Xb0NrSHUyaTBoMUVUNno4TUkxTHVmNUozYUJ5eGRDUy0teUZtZWtUZUNsSlgxM1E1V0ZVdDBBWUZ3Wm84b0Y4aFFBZk9wZUFEY1NaU3FQOXFDTmNFRk1pVFU3QU5QSlBhYUs4ek8yT1cxdU9nc0Y0NUJvQmtUa2kzVm11M0hZLXVOOTBhdHpKaHVQbXdjY1YxMzdUcHhqWGZmRXJwNThseDZyb2haN08wZkxQREdUVDM3NHVLNXJLcGJrQkI3SGhqOFQtYw?oc=5
 
-- 'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP calls him 'leader of propaganda' - Times of India
-  'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxObkJndEo1dFRGT1hPUjdpY0QyeG9jcTNHMjVBcC1fdzRGaGpSQjZ5OGJkbUxuNV90ZUQwUGI4Zl90VWZzaHJKQTlHbmhuN2NCS3pRbTFYRGdjVzliWGs1VmxGdk1mMkVlVHdyVEFjYnNjTTlPWVc4THFNSldkUWdHTGtOWFBTeDBkZU0xeXZxUlZTaHVOVm1rbE5QXzdzamc0clZabnNfUDJEdW16bUVFa1c3SEVsYks4UzFYVUw1MU9paDM4M19RZW05WUhjLXVPVFZOUjdkcGhGOFhuVHlQQ3JTMl90SFgxY0lPM2VXVFR6clROX203Tl9B?oc=5
+- Bandmate, Co-Singer Arrested In Zubeen Garg Death Case, Total Now 4 - NDTV
+  Bandmate, Co-Singer Arrested
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTFR1NDVNSm9sTWRZSXNDeDVpQ1JrX2FIMWNOcEN5OWE2U01iSTdEZ0o3R3lGNnpjX3FkUUU3T1hDTkpUalJtLXJVSG0wTm9nRWZ5LUctVjh0TlNZUk5XMUVrdW1kOGNyR3V3cWZNRmxJUnBkOUdOYmRiNkhpY1drbUd1NW1iOFFVa1dHVnc1czhNVlowUks0WFJLSzZZRGd1YTB5VHdvRzdSUm9abmR1TFl0aVlZalVxdl9faGZ4cGdNUVdadl82Q29acGhQMTFNc3M3bHdpTVV4ZnJnaTA5V0tKUEhvcndtRXfSAfIBQVVfeXFMUC1nTF84NlY4T0xXLWhzTjkwemI4VFpsQVRZeEZMeXpfc2tNVFNGV29MX3k5eXBYNHFUekwzZVAySHlsbWRtekhFMEtTcFdRTXFiX2ZxTEROTWp3ODhyME9XanYyLXJLMU1RSW13ckxGRkljOVRfNV9PSjVUcU11N3drRk5RTDRYMDBGdzdTMFQ0LWgtSGpYWm9uNHp1VnVZUXFnOElCeXJuSnp1RkRfNG8zc0xNQXl2cXBLaGZVbi1OQ1h4OXI2VjdoRUR1cWR6a2RkUVVCWC1aSVU4cDZtUlhXYXJVZ0hrWXgwZjdKMzZmRGc?oc=5
 
-- Road to Karachi is through Sir Creek: Rajnath to Pakistan - Times of India
-  Road to Karachi is through Sir Creek: Rajn
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDlSX2V6Znktc2M5NEs3RHhBTENicHV3aktVRWxTZ3ZEU1B1Umt5QVdUSG9tNmFJUWV2YTdoelBnRk83Y0hXQzdwb0ljeDQySjB3U05ycWtqaGxVaDRoOGY5dWVzMmdKdXU5Ym9rWnJOTm9HelNPNHNIalZGRXFpYlNQd2JxYndINUhXdzFSNDd1SVNLN1R1S2VFeDNEME5XbU9uQVFadE5qV25VUW1hUDdJYlRIUjNXem5iNmpPa18zQQ?oc=5
+- 'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘I Love Mohammad’ Sparks Row In India - The Times of India
+  'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeHlqbW1NQXdmTkN2RVh4NlVjb2ZUNFh6a2VENGxBZGI4LWd1NmtYS0huVkk4c0llWjJtM0E5QWVQTHgxV2JVU2RUcmhQZjRHQU50Rm9iVktFakI5bGptRkktamw4enpHMEFHZl9waGZCeExYcDBFN0pXMkJIbXU5cGFTYmhua1VnVVZVY0RRbVZlWl9nTTYzTjR4bk5vOEZxbGVFUURPX3c3azhaVGNHeC1od29CWS11TkxWT2FOaWVIQ3dYNXhIaUZFenRjRkhBdGpFX2M5TU5jc1VOVUpUTWNvU2w2ampTd2lGdWFWUm5xZTlKNXfSAfsBQVVfeXFMT1VyNnRiYnYtTk5aTVFfdXRqREsyb3F5eTE5akVXeHZEeC1HME5pUXFqdFhYb01fUHJVTzQ0cEFfX2dvV0hLNHE5UjdnNGFTUHgxUTY5ZjFYN2EtZG1vZUE5LV9XakJHcEFQTGRPSUROSjJVSjdCWDhJZ3RzWWdaTlBGYUppXzlFR0pFSl9pU0haa0NmejZ5WlBoVDIyWGhxU0hIbVU1UmFKb2pZMGQtYnJjTk1Mb3JtN0QxX1o4REFmSGhtM3lpZkotOFVUM0lyZG5tM2I0SVdMam42ZTN6OEZ4cnJyTHVZLXJwN181RmppNWpWci1OajJFblE?oc=5
 
-- India's Big Warning To Pakistan Against Aggressive Approach Towards Sir Creek - NDTV
-  India's Big Warning To Pakistan Against Aggressive
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0tqMlBMcmtmaWs1TVZ2Z1RmNDliWEltVng3UmJhTkxTbGJ1QVM1UnlVLUtfSzhrbTVLZ1UyODM2eGNrYUVuRGlTdF91RnNEMmtGRV9RVEpyaE1Ec1U2RnpNOUpJbVotbWx0SkF4YXZHWWdLRW1JTnh1WXA2cFllc0cyTEZHcEZXR3I2M01KcDNtX0VQREJBb3lNNUdVa01fZzZ0ZmhZcTk0VWlqT2F0TVEtSDZJOGfSAb8BQVVfeXFMTUVjanpKRGlINHdMWmkyRWhqOG54TVczbktFS3JSdHlrM1ZXckE0aUEzN2NZQnozSHVNMjJKYXpMdWh0N1J1Z2UzQUgxQzlLUG5uN05MSU8zaGctcG8xMnAzWVlvMVZHVzg4ZVhOMEVnZ0lWbnIxV2xfRXRmc2RhWktGQkpXeEd2N0lKYkJRNXFKSEFCRGRUU3NMLWFpZUh6cG5iVzFJNkFCc2NPRDFsUHZEcHhNSDBmdnZ0VHNPVlU?oc=5
+- "India Won't Allow Humiliation": Putin's Big Praise For PM Modi Amid US Tariffs - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZU
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW1icE9wNGgtOHY5cGNSNkFPN3IwMWNsQS1UcUUwd2F3M2kzOGRjNGZjNlVWd2dzOFZGSDA4Tkc1SThGLUVFWTJPcE1ZZFI3UU1OQk9MUHdtb2dHa19DMktMNFExbGUxZUVFVjlmaHBPR21hWHBybHpGcFRoSUF6MWZkOFF3dUVuZFBYR0pXZ0ZyaFBpZHN5TzYtNmVUZm5WLXRROWFUbkJycHZncXJodWpNbjdYTzNBSEpDMUlKTzV3b2dHckJTaUV1RdIB0wFBVV95cUxNbDd0XzBFZ08zTVV2elhzS1JYZlNyRmpkaGd2dmdGaU5mRjZZNkEwY0QyRUtwYWpJcUFtN3VPQkJOWUdGRk5XSW1BT1RyRUo2SGRnQ1A2YzJLUVFVUVpBOC14U3VFbEphdkI4enpBbV9DNWJ5anlPRE1XZFAzZjBiVVNFYzNPSjdfWGxtanprSXI2OWdNN1lzT2w2UzRKWkdBa0NrcjJ1cXh2MlNQdllkMG5QUUwtSjl2cDhkMUxjaHRpblA0aXk5V1ZKNmFVeFJfQ2dV?oc=5
 
-- 'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build-up near Sir Creek | Latest News India - Hindustan Times
-  'Route to Karachi through...': Rajnath Singh's big warning to Pakistan over military build
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRTVxWUxQZnQtbVdJaGd2QmpwZEhwVXYzSzF3R1NYb19WbVl1c0NURENTRjN0WFctVWx2cVNjWW1tT2dzSmZWcXJodjVYN3ZUT2h6N3g4QTZ2NWdwX1VKSG9HUExZeEdQdERfMzV0NFZ2TGJ1SHFzTW16d1RuYVZnLWc2ME51ZUFqWlhEcll5QzllQXBvM0VBbVlud181TlJ1ZkNkM2U2Slk0eHVuMWtCazJaZVRYQXoweVF4UkFQeV9BaV9JQmZscWxFSXBWTGwyMG1hQTQtTEZ4WTQzclQ2dkx1ekVUZmo1eFV6T2pOZlHSAfYBQVVfeXFMT0dla21rbWZpR01NanNEUXZzbEdlZEh0SC1fVDhMRHVOZ0xsclVRTl9CY3RVN192a2xtVDhISlBIQ1Q2TExjVzc0aUdodWFYOTZxWlpkTUV0OGRhOW1xOHVBMHpXOGhfQkFXX1NmUFkxV0sxZ3U2Zk9aTTdzeU9Cb0hWRV9yVkxOb3FERXloLXpqUXNPV3hHWi1zTy1WM1FvUXdVV1VaenBpVEswU0lMUEFreFZEUUxtWlFjdUlvWEN5b3kyNVVob0M3NmNXel9JV0wwMXVvNmtJSV80S29wN1ZiQ1psaS1FVmtFdHdQaUZLVmxyTkJB?oc=5
+- ‘Zubeen was for all’: Singer’s death unites India’s religiously torn Assam - Al Jazeera
+  ‘Zubeen was for all’
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0dqS19ObDJnaG1UemtrdlZOX1dfNVZNR2lRdkYzZUxlbnRNeXQ2MFRuS1dueTljM1g1Y2otQVFjbTdDTWh1aXJialhSSFFhVmNMcndya2ZuYktpU0ZjN2ZvZlUwUG5kM1pBbVJydVFvNC1ua1lTX3NwX1hBZ21pTEtmbkJ6dGpleDUwckRBeDlXcEhMaFQya2x2NmFyRkhVeEo1YXNfSlVGcUJudWZj0gG0AUFVX3lxTE1vdmV0R2NKYklKUG8wVlltQ2pJR2dYVU1MdjRFeHA1dWl1a0p2YUdYWTNkLUFNeGJ6cDFMREJ0MkJPWmQ2VXV3ci1SWTVKTUk4bEI2cC1ROGx1Q09XekZBbkhnN0FRZUViZVBCMWVNSHZ2Q3ZMMzBMZXZ5WmRuV2hqc3Z3bHFVRFVLNk1pazJkZEY3VWVzd3dENHNuQ0stekU5alFoSkl4TFdCVUdBb3lNX0NKSA?oc=5
 
-- 'Attack On Democracy Biggest Threat To India': Rahul Gandhi In Colombia - NDTV
-  'Attack On Democracy Biggest Threat To India
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbXBPbUQ2cTZ5OWlXS1lLcERhaG5XeERROUNfaFVxQWpjMDhpa3lFaUp6WTE3LWZrSzJONG9NeU5EM0libklYcjUtaF85TncybE9KMlh1NjFXRUVQVGRHUEFpdTNoWXJqVzRVanoweVE4QzhqZlhxd19IdG5ybGRPeUZBRHdHTC1sbV9zQ2xQUm9fVmF0d1FwbDc5eWpaZVdJQUpNd2FNQmNJN2hNVXhCbTJmd0FMVDdtWjRoWWVXMldyZHZIRGhQX0JjSlVBQdIB1gFBVV95cUxPLTZpZFBqRWJnOENUYUNWemRRM3ZfWFUwX0JYYXJxQXMxM0p6MGhHaWxoTzBrdll4V2hicENtZkF4R1lCVDhQdXZmblRqWTVLVGxONkk4RkN4Qy05WFFBZGt6cDk0b3NlTFdHbWtweFVQY3FQN0FNSGZValc3amRFWmtrdTNkemdTSThQOXhXc3dnUUZDcS1QRVFsck5Sc283aUppUzBYUUl5UUpZWXdFcWFuUktPN29GeFNpZkpVRUE5UEJkRmYtdnJKdHRjdDJWLWtxT01B?oc=5
+- Zubeen Garg Death: Singapore Police Speak To Singer's Wife, Gives Autopsy Report To Indian Embassy - News18
+  Zubeen Garg was found dead in a Singapore hotel room.
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3pocHdRUE5kNU12RVZxWjBXaVRncWlnbzRYX2FtMnQzU2xlOXZwdkU4cUNSRm16cU9LZ2pDaktRNWtIUExoMmFuRmhZZTBVdlgwTnhLTUxqZmtjYWE1SURXUUNHS3V0YmpWNkw5LU5NSWpqUW5POG1aSlNfQXhIZ01kNllTdGxPem11ZmNpM1VwOG5FaUZNaDN1S3czYTFpZ2lnVWhma1RKeDUxUXp6STdPZWRWdEhuc3VzdUd0MklmaVpqVzhGNUJUYUxuVER1NlpZ0gHYAUFVX3lxTE44a2dUZGkwUU9IU19Xb0NrSHUyaTBoMUVUNno4TUkxTHVmNUozYUJ5eGRDUy0teUZtZWtUZUNsSlgxM1E1V0ZVdDBBWUZ3Wm84b0Y4aFFBZk9wZUFEY1NaU3FQOXFDTmNFRk1pVFU3QU5QSlBhYUs4ek8yT1cxdU9nc0Y0NUJvQmtUa2kzVm11M0hZLXVOOTBhdHpKaHVQbXdjY1YxMzdUcHhqWGZmRXJwNThseDZyb2haN08wZkxQREdUVDM3NHVLNXJLcGJrQkI3SGhqOFQtYw?oc=5
 
-- 'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP calls him 'leader of propaganda' - Times of India
-  'Wholesale attack on democracy in India': Rahul Gandhi in Colombia; BJP
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxObkJndEo1dFRGT1hPUjdpY0QyeG9jcTNHMjVBcC1fdzRGaGpSQjZ5OGJkbUxuNV90ZUQwUGI4Zl90VWZzaHJKQTlHbmhuN2NCS3pRbTFYRGdjVzliWGs1VmxGdk1mMkVlVHdyVEFjYnNjTTlPWVc4THFNSldkUWdHTGtOWFBTeDBkZU0xeXZxUlZTaHVOVm1rbE5QXzdzamc0clZabnNfUDJEdW16bUVFa1c3SEVsYks4UzFYVUw1MU9paDM4M19RZW05WUhjLXVPVFZOUjdkcGhGOFhuVHlQQ3JTMl90SFgxY0lPM2VXVFR6clROX203Tl9B?oc=5
+- Bandmate, Co-Singer Arrested In Zubeen Garg Death Case, Total Now 4 - NDTV
+  Bandmate, Co-Singer Arrested
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTFR1NDVNSm9sTWRZSXNDeDVpQ1JrX2FIMWNOcEN5OWE2U01iSTdEZ0o3R3lGNnpjX3FkUUU3T1hDTkpUalJtLXJVSG0wTm9nRWZ5LUctVjh0TlNZUk5XMUVrdW1kOGNyR3V3cWZNRmxJUnBkOUdOYmRiNkhpY1drbUd1NW1iOFFVa1dHVnc1czhNVlowUks0WFJLSzZZRGd1YTB5VHdvRzdSUm9abmR1TFl0aVlZalVxdl9faGZ4cGdNUVdadl82Q29acGhQMTFNc3M3bHdpTVV4ZnJnaTA5V0tKUEhvcndtRXfSAfIBQVVfeXFMUC1nTF84NlY4T0xXLWhzTjkwemI4VFpsQVRZeEZMeXpfc2tNVFNGV29MX3k5eXBYNHFUekwzZVAySHlsbWRtekhFMEtTcFdRTXFiX2ZxTEROTWp3ODhyME9XanYyLXJLMU1RSW13ckxGRkljOVRfNV9PSjVUcU11N3drRk5RTDRYMDBGdzdTMFQ0LWgtSGpYWm9uNHp1VnVZUXFnOElCeXJuSnp1RkRfNG8zc0xNQXl2cXBLaGZVbi1OQ1h4OXI2VjdoRUR1cWR6a2RkUVVCWC1aSVU4cDZtUlhXYXJVZ0hrWXgwZjdKMzZmRGc?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- 'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘I Love Mohammad’ Sparks Row In India - The Times of India
+  'You Can Say I Love Modi, But...': Owaisi Questions Why Saying ‘
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeHlqbW1NQXdmTkN2RVh4NlVjb2ZUNFh6a2VENGxBZGI4LWd1NmtYS0huVkk4c0llWjJtM0E5QWVQTHgxV2JVU2RUcmhQZjRHQU50Rm9iVktFakI5bGptRkktamw4enpHMEFHZl9waGZCeExYcDBFN0pXMkJIbXU5cGFTYmhua1VnVVZVY0RRbVZlWl9nTTYzTjR4bk5vOEZxbGVFUURPX3c3azhaVGNHeC1od29CWS11TkxWT2FOaWVIQ3dYNXhIaUZFenRjRkhBdGpFX2M5TU5jc1VOVUpUTWNvU2w2ampTd2lGdWFWUm5xZTlKNXfSAfsBQVVfeXFMT1VyNnRiYnYtTk5aTVFfdXRqREsyb3F5eTE5akVXeHZEeC1HME5pUXFqdFhYb01fUHJVTzQ0cEFfX2dvV0hLNHE5UjdnNGFTUHgxUTY5ZjFYN2EtZG1vZUE5LV9XakJHcEFQTGRPSUROSjJVSjdCWDhJZ3RzWWdaTlBGYUppXzlFR0pFSl9pU0haa0NmejZ5WlBoVDIyWGhxU0hIbVU1UmFKb2pZMGQtYnJjTk1Mb3JtN0QxX1o4REFmSGhtM3lpZkotOFVUM0lyZG5tM2I0SVdMam42ZTN6OEZ4cnJyTHVZLXJwN181RmppNWpWci1OajJFblE?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- How this startup CTO went on to lead technology and AI for Thomson Reuters - Fortune
+  How this startup CTO went on to lead technology and AI
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmNtNlpaWTg4czRtM1ZiV1RuMmljcjlMQWNHbWZybnRoZEFEZ3B1bGc3STNJVVhSWjVFQ2V1YVNpaG5MeFJqR2RHTkZuVHZfa2VoVGswdXo0a3NkcUtmc2pMS2N0c0xaV3pmSl9yRkpPdzJWRTRLSmw0M1IxdUVwVjhvbVM4NjVwMlRyNEM3dThnbEhwd2VQcTBzbTFYU3lScUN2aDRnN1FyUQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Manoeuvring Technology: Redefining Military Strategy in the Era of MDOs - orfonline.org
+  Manoeuvring Technology: Redefining
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWJqd3FnbGJYUDl2OWc3NUl2VHpaSEZTX1ktUXBiS1dIMHNoeTBpcWdjSDdISThhOGo3Z1NPTFRSVHVUZ3NGd25NUkowMUZ0Sk9QOHpZaDUzZmhZUFJTYWFrZ3VSdjgwVjh4ckZFYWZSeUdsLXZtM29jc3lWTHgzNW9faFRqTEwzNHcyel8tRHNITDhoVXBhSnYyRW01YVVyVjZUVUNHbk9yQ3B5ZEE?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Pakistan deploys digital technology to spy on citizens - IANS LIVE
+  Pakistan deploys digital technology to spy
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGVlTWpmTmNpd1BwaUlOYno5bzBrd252X08wTDhTUzdxZ2hWQnVxNU56VGZpck9zN3ZSS2F2V2ltME9SWjk0TW9IX2JwSGdPbWtmNlJZUmdHNjRadmZwSWFkM2lQbUNEeDlDTjFya0lHVm9Yem0xSFJXU2hmUmxxYks0UGd4OWs4MVlOOW9UN1hDUEw0?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- L&T Technology Services secures $100 million multi-year deal - Mint
+  L&amp;T Technology
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFpmN3BTN1VJbGNVa3ZVSUNTZ09jYjNLTGcydVJVNnptRm80Y0hRZlczSXpvcTNtOWswLUFVWF9helU4UnRYcGxHbmM0eFIyUm5TYTA1djdPYlBCRHo5YXY0STM2ZlloNmpzMTV5cXZSYXM3anBhSUxWekxIbkktYW9VRHVPS3dWbTdZUVkxb190endrSHgzTVFBLXlUSE1ZbWNJYzZtSmVvMUpKdjBqTjJXWHJBS2FSOUHSAb8BQVVfeXFMUHdlQUdnWmRKNzdfOE9Wb0lSOHAwWHc0dDlEVGhuRDZuQmlCUzFqVmhma1VKT2ZCaENWbEMxSUNMYkpISE03eE5US3hYQ2ZkcTJHanU3QnpMZ3c0eWlEVXVuYnRzQVdZY1R1SldBWkRQQmU3Sks1SEFyZFVHNEJSZzN3UXYzbGtyUEZGb0xoTGJDUXdJN0F4V0laZUJnd1N6NE9KMjV6N0xYcEwwczQyc1lkYnZ1OWQ1UGMtX2xSY3M?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Nokia to license technology from HPE to advance its AI-powered SMO and network automation assets - Nokia
+  Nokia to license technology from HPE to advance its AI-
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNSUhsTmFXay1jNEVfbEthTmJ4VV9yZXk1SzBxSXRxdk1KUC0yNXJMbG5INHdMRmF2Z2ZhMHkxVVdtLVdTcWU3SklDbXVfdk5TZHUwMUtXTENxcnU5ay1tS2pCWDJRcW9aeURHdnY4Qm5wM2lnM2Q1YWZlcW5zRXBNRVpOcERsVVh5LWExaXlfdmItU1ZKejJTeHZhRkN4NmlCNEFYOV9WeHBBM05GQVZyYzJ2ZkI2UDAyanRhdzdfVG1wZWd0Sl9J?oc=5
 
 
-_Last updated: 2025-10-03 01:09:41 UTC_
+_Last updated: 2025-10-03 06:26:29 UTC_
