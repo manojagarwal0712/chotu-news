@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
+- IIAS in Brussels: At multilateral body, India pushes for new global governance index
+  
+  🔗 https://indianexpress.com/article/india/iias-in-brussels-at-multilateral-body-india-pushes-for-new-global-governance-index-10286522/
+
+- AIIMS study shows how training gap in certifying brain death hits organ donation
+  
+  🔗 https://indianexpress.com/article/india/aiims-study-shows-how-training-gap-in-certifying-brain-death-hits-organ-donation-10286559/
+
+- Prime Minister Dhan-Dhaanya Krishi Yojana: Govt identifies 100 Aspirational Agriculture Districts, UP tops list
+  
+  🔗 https://indianexpress.com/article/india/prime-minister-dhan-dhaanya-krishi-yojana-govt-identifies-100-aspirational-agriculture-districts-up-tops-list-10286562/
+
+- Cong MP flags ‘missing’ OBC quota in ICAR recruitment, writes to PM
+  
+  🔗 https://indianexpress.com/article/india/cong-mp-flags-missing-obc-quota-in-icar-recruitment-writes-to-pm-10286580/
+
 - Ahead of Bihar polls, Election Commission lands in Patna to review preparations
   
   🔗 https://indianexpress.com/article/india/ahead-of-bihar-polls-election-commission-lands-in-patna-to-review-preparations-10286386/
-
-- India rejects Bangladeshi officials claim of its involvement in clashes in that country
-  
-  🔗 https://indianexpress.com/article/india/india-rejects-bangladesh-claim-of-involvement-in-clashes-10286282/
-
-- 3 arrested for raping woman in Jharkhand’s Dumka
-  
-  🔗 https://indianexpress.com/article/india/3-arrested-for-raping-woman-in-jharkhands-dumka-10286242/
-
-- Rahul Gandhi has become flag-bearer of anti-India forces: BJP
-  
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-has-become-flag-bearer-of-anti-india-forces-bjp-10286126/
-
-- Parents blame district hospital for ‘negligence’ after girl’s arm amputated, govt orders probe
-  
-  🔗 https://indianexpress.com/article/india/kerala-parents-blame-district-hospital-for-negligence-girl-arm-10286191/
 
 - Zoho Arattai vs WhatsApp: What Sets These Messaging Apps Apart?
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-beta-new-features-enhance-calls-and-scheduling-10285642/
 
-- Palantir Rebuts Claims of Security Flaws After Stock Falls
-  Palantir Technologies Inc.’s stock fell more than 8% on Friday following a report that its battlefield communications system was seriously flawed.
-  🔗 https://www.livemint.com/companies/news/palantir-rebuts-claims-of-security-flaws-after-stock-falls-11759515142146.html
+- L’Oréal targets India’s booming beauty market. Board to visit next week.
+  The L’Oréal board’s first visit to India comes as the company seeks to capture new customers
+  🔗 https://www.livemint.com/companies/news/loreal-board-visits-india-11759495514723.html
 
-- Saumitra P Srivastava takes charge as Director (Marketing), IndianOil
-  Saumitra P Srivastava has assumed charge as Director (Marketing) at
-  🔗 https://www.livemint.com/companies/news/saumitra-p-srivastava-takes-charge-as-director-marketing-indianoil-11759512770177.html
+- Xbox’s Hike on Game Pass Shows Cost of Lost ‘Call of Duty’ Sales
+  Microsoft Corp.’s Xbox division surprised many video game enthusiasts this week. The company announced a 50% price hike, to $30 a
+  🔗 https://www.livemint.com/companies/company-results/xboxs-hike-on-game-pass-shows-cost-of-lost-call-of-duty-sales-11759529102667.html
 
-- Trump Officials Plan to Test New Medicare Drug Pricing Rules
-  A new regulatory pilot project is under review at the White House budget office. It suggests that the Trump administration is seeking to take regulatory action against drugmakers.
-  🔗 https://www.livemint.com/companies/company-results/trump-officials-plan-to-test-new-medicare-drug-pricing-rules-11759512400023.html
+- BlackRock’s $40 Billion Bet on a Lesser-Known Data Center Firm
+  Aligned Data Centers is expanding its footprint to support surging demand for the facilities that power AI systems. The company managed to pull off a $12 billion fundraise at the start of the year.
+  🔗 https://www.livemint.com/companies/company-results/blackrocks-40-billion-bet-on-a-lesser-known-data-center-firm-11759526257917.html
 
-- Omkara ARC acquires bankrupt Wind World India’s debt with  ₹1,225 crore bid — details here
-  Omkara Asset Reconstruction Company has acquired bankrupt Wind World India's debt for  ₹1,225 crore from a state-run bad bank. This strategic move grants
-  🔗 https://www.livemint.com/companies/news/omkara-arc-acquires-bankrupt-wind-world-india-s-debt-with-rs-1-225-crore-bid-details-here-11759508750016.html
+- Universal to reopen Stardust Racers ride two weeks after mans death
+  Universal to reopen Stardust Rac
+  🔗 https://www.livemint.com/companies/news/universal-to-reopen-stardust-racers-ride-two-weeks-after-mans-death-11759524969722.html
 
-- Rivian Plans EV Door Redesign to Address Safety Concerns
-  Rivian Automotive Inc. is reworking a key element of its vehicle doors. Employees and customers raised concerns over potential safety issues with
-  🔗 https://www.livemint.com/companies/news/rivian-plans-ev-door-redesign-to-address-safety-concerns-11759510449255.html
+- Tricolor Trustee Says Initial Probes Suggest ‘Pervasive’ Fraud
+  The trustee overseeing bankrupt Tricolor Holdings is investigating possible wrongdoing by the subprime auto lender before its collapse.
+  🔗 https://www.livemint.com/companies/company-results/tricolor-trustee-says-initial-probes-suggest-pervasive-fraud-11759523815699.html
 
-- Gold set for seventh straight weekly rise on US shutdown woes, rate cut bets
-  Gold set for seventh straight weekly rise on US shutdown woes
-  🔗 https://www.livemint.com/market/commodities/gold-set-for-seventh-straight-weekly-rise-on-us-shutdown-woes-rate-cut-bets-11759514474821.html
+- Advance Agrolife IPO allotment date in focus: Latest GMP, steps to check share allotment status online
+  Advance Agrolife IPO allotment will be finalized on October 6. The IPO subscription saw high demand, with non-institutional investors at 175.30 times.
+  🔗 https://www.livemint.com/market/ipo/advance-agrolife-ipo-gmp-advance-agrolife-ipo-allotment-advance-agrolife-ipo-subscription-status-advance-agrolife-ipo-11759507473370.html
 
-- US drillers report oil and gas rigs unchanged for the week at 549, says Baker Hughes
-  US drillers report oil and gas rigs unchanged for the week
-  🔗 https://www.livemint.com/market/commodities/us-drillers-report-oil-and-gas-rigs-unchanged-for-the-week-at-549-says-baker-hughes-11759513625537.html
+- IT Sector Q2 Results 2025 Preview: Trump tariffs, weak macro to weigh on earnings; midcap IT firms to outperform
+  IT sector Q2 results are expected to stay muted after Q1 was impacted by tariff-related uncertainty. The broader macro backdrop remains weak, further weighed down by the recent H1B visa
+  🔗 https://www.livemint.com/market/stock-market-news/it-sector-q2-results-2025-preview-trump-tariffs-weak-macro-to-weigh-on-earnings-midcap-it-firms-to-outperform-11759484663918.html
 
-- Tata Capital IPO: NBFC firm raises  ₹4,642 crore from anchor investors ahead of public issue — Details here
-  Tata Capital IPO: NBFC firm raises  ₹
-  🔗 https://www.livemint.com/market/ipo/tata-capital-ipo-nbfc-firm-raises-rs-4-642-crore-from-anchor-investors-ahead-of-public-issue-details-here-11759513230221.html
+- Retail investors borrow big to stock up on India’s worst-performing blue chips
+  Analysts warn mounting bets on underperforming stocks could trigger painful margin calls if prices keep falling. Retail investors are piling into blue chips like Jio Financial
+  🔗 https://www.livemint.com/market/stock-market-news/margin-trading-facility-retail-investors-borrowing-stock-market-investing-11759423170622.html
 
-- European Stocks Log Biggest Weekly Gain Since May on AI Optimism
-  European stocks notched their strongest week since May, gaining for a sixth day in a row
-  🔗 https://www.livemint.com/market/stock-market-news/european-stocks-log-biggest-weekly-gain-since-may-on-ai-optimism-11759512892628.html
+- AI Computing, Chip Startup Cerebras Withdraws IPO Registration
+  Cerebras Systems Inc. has filed to withdraw paperwork for an initial public
+  🔗 https://www.livemint.com/market/ipo/ai-computing-chip-startup-cerebras-withdraws-ipo-registration-11759529769455.html
 
-- How hedge funds performed in September
-  Hedge
-  🔗 https://www.livemint.com/market/stock-market-news/how-hedge-funds-performed-in-september-11759512893370.html
+- Bitcoin prices jump over 3% to $123,944. What's fueling the rally today?
+  The cryptocurrency market benchmark digital asset, Bitcoin, saw its prices jump more than 3% to $123,9
+  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-prices-jump-over-3-to-123-944-whats-fueling-the-rally-today-11759526087092.html
+
+- TikTok Says It’s Engaging With Indonesia After License Suspended
+  TikTok said it is working with Indonesian authorities to resolve a dispute that led to the suspension of its local operating license. The company declined to fully share data on its live
+  🔗 https://www.livemint.com/technology/tech-news/tiktok-says-it-s-engaging-with-indonesia-after-license-suspended-11759538185210.html
 
 - Apple Watch Ultra saves life of 26-year-old Mumbai techie during scuba diving mishap
   A 26-year-old Mumbai techie credits his Apple Watch Ultra with
@@ -96,29 +100,25 @@
   N Nvidia and Fujitsu agree to work
   🔗 https://www.livemint.com/technology/tech-news/nvidia-and-fujitsu-agree-to-work-together-on-ai-robots-and-other-technology-11759478355358.html
 
-- How to disable iOS 26’s new Visited Places feature in Apple Maps
-  iOS 26 adds Visited Places in Apple Maps, which logs users’ locations with encryption and syncs across devices. Here's how you can
-  🔗 https://www.livemint.com/technology/tech-news/apple-ios-26-brings-visited-places-to-apple-maps-tracking-where-you-go-how-to-disable-the-feature-11759474118749.html
-
-- Stock Market Today: Dow Rises 400 Points; S&P 500 Heads for Another Record Close — Live Updates - The Wall Street Journal
-  The Dow Jones Industrial Average rose 400 points on Friday. S&amp;P 500 heads for another record close.
+- Stock Market Today: Dow Closes at Record on Third Day of Shutdown - The Wall Street Journal
+  The Wall Street Journal, Yahoo Finance and Investopedia are among those reporting on Wall Street's latest winning week.
   🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOd1VGMzc5WHdNWkNhVXpzRktrYTA1UktwY0VXWTZZcE1RM1ltUElIbm1SdmtrRHNCX3htVTRqVjJZRmZ4QmxzRi1OaktpVXhSMzd0cjNNbzFscW5mZktFb1JmYlQ5NUgyZW1YLU9weDNrRUUxQTFsRlYtX3pGSV8yWWVyUnBzT093emc?oc=5
 
-- 5 markets in Kolkata that are a street shopper's paradise - Times of India
-  5 markets in Kolkata that are a street
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMXMyMDQ2QWNHWHFDYmotUDdoVGIwS3RCWlZlaE4zVHQ5LUMyWFk5VzFCVHo3Sld6emx3S3FhX3VGdFRzMV94MnFLcG5QaGdwNF9wdTNLY2JLcnJUSmY1WUNBVTlrY3Q0bWxISXlMbnBXZVRUOTViYi1laHZQMmpJeHU2NDEtUEp6eUx2Ri01QnJxdk00RnlWTnpXUmlfZlJ0enVCZXp3ZWQzYTA2c25JdzdFVlFGeXFLcVdKV3RQVDRhWUlBem9WLTYzbnQxV1VrV3Y0U3lQTHd2LThiOUQwQ1ZB0gHqAUFVX3lxTFBXUlE4NzVBaEl5ZWZuU3J0ZWdGZWhUZmZUallJT21YNzZkd2J6U0RDRkFBRWtzUTBQUEdqQWwwdFViWUc0UExKSi11TDVWU05VUExkU3Q1T3FTdlJDNW9Ic25QUFF0N1NzRnZWLWd4YXlLeVB1V1JDTzlXM01teVJ5MVBnUnNEaExSd1dxWm51a1NsVW83S1hoQ0x1c3UzU21QQldJcWNtWC1Pb2lqQ2NfZXZ3R2xSTm5yZ3JCNHFwbHR5YmhGekU2eHNUWklZQWt0ejVtMjcyZmRETGh2R3RCY3Z1M2w3QnVrUQ?oc=5
+- Credit markets look increasingly dangerous - The Economist
+  Credit markets look increasingly
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ29BMGYteHNhVTRxX0FRZVJaRU5Gc2pabFdNY1JmV1ZoeDV2TFhncDhhcUJfeHpOLXRrZVpCVzVnbHpuQ2VjWUJvbUFRcGNoeDN1ejFraTNNMFhnN0NsQ3VURzlQYlBaLXNQbUhnVkhydzN5LXo4MVlIamFYYWpWNjQ4NnlVVzRXcldZMlF0MjdPNHF4RkxCQzFBZ3NsaU9uOU5B?oc=5
 
-- Worcestershire markets cancelled as Storm Amy sets in - BBC
-  Worcestershire markets
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WZGxkVGZaVzh3YmU1M1M5NmZUYlNkUnVGRUljaWg2Y3ZzbVhBTm8xMDl2SEJkRUd3SV9UbDVCY29weS05ckNJRTdaeUN1eEFlX0w4VkdDUVJQZ9IBX0FVX3lxTE56TGltUUw5ei1maEJ3SnYxRTFzVDhFQnM5RlpnLVVnc2lENUlRNllYa0E1Yk5QUG1FNkNsOVdCOV9kbnRtVDE4NzAzV3pOT0JXeDBfRE9ka1VYdy05U0NV?oc=5
-
-- Bitcoin nears all-time high as Ethereum, Solana, and XRP rally; Bakkt stock surges 150% amid renewed insti - The Economic Times
-  Bitcoin nears all-time high as Ethereum, Solana, and XRP rally
-  🔗 https://news.google.com/rss/articles/CBMi5gJBVV95cUxOZ25IaHJYQThZV0tNUHpoTlBHNGtkVlY0cUVhb0dlSkZYNnhKTEszeXllcHlBM2RRSFJSb2tXN0p2czl2SHdYOTloTmM2cFZndU1leEl2Yy01RjJoWU9RalpYYXF5TXFFaVlXaktOX1ZoOWR4SDRZd19uckExSncyMTQ0TUI2S2RsUF9ZYllYdVItbjY5Nk9CWG1Ta192WUFOOFN1cmhPM1ZQblJ4WDdrMU9hemxTOTJadVBnd0NTeGxTaUJsQmRCQzY0WWQwVjhlUE92ck51aE1RRGdFNXVnX1RRVmFiUUg4YzR4TkE5cEFRSExJVUotM2xtQVF1T0ZSRVFIakptN3dvQXZOZjZVNmk3Mzlsakphcm9jSlM2QVV2OC1LbzJKZHFFYjItQ18wTHIwUlIyVEZvWk0ybzZrcWg2RnFuUWdLYzZHc3llb2RxTzcySXB5Q3FSMGlOTVlmRDNEVEtR0gHmAkFVX3lxTE5nbkhoclhBOFlXS01QemhOUEc0a2RWVjRxRWFvR2VKRlg2eEpMSzN5eWVweUEzZFFIUlJva1c3SnZzOXZId1g5OWhOYzZwVmd1TWV4SXZjLTVGMmhZT1FqWlhhcXlNcUVpWVdqS05fVmg5ZHhINFl3X25yQTFKdzIxNDRNQjZLZGxQX1liWVh1Ui1uNjk2T0JYbVNrX3ZZQU44U3VyaE8zVlBuUnhYN2sxT2F6bFM5Mlp1UGd3Q1N4bFNpQmxCZEJDNjRZZDBWOGVQT3ZyTnVoTVFEZ0U1dWdfVFFWYWJRSDhjNHhOQTlwQVFITElVSi0zbG1BUXVPRlJFUUhqSm03d29Bdk5mNlU2aTczOWxqSmFyb2NKUzZBVXY4LUtvMkpkcUViMi1DXzBMcjBSUjJURm9aTTJvNmtxaDZGcW5RZ0tjNkdzeWVvZHFPNzJJcHlDcVIwaU5NWWZEM0RUS1E?oc=5
+- Asian stocks: Markets trade in green on US interest rate cut hopes; Nikkei adds over 700 points, Kospi ga - Times of India
+  Asian stocks trade in green on US interest rate cut hopes. Nikkei adds over 700 points
+  🔗 https://news.google.com/rss/articles/CBMiqwJBVV95cUxOQ0lDYzVySkpfMEs2TlVTMEk2d1RjRWVocXh4b21IN3NrejUwVXlLd1I1MXVrMm5VNjJ3ZEhFTTdRZkE2ZjRyQ1FvVlpoMFhvSDE5SUhIXzJHdTdWbVZBUW5BS3dpSmMtd2hkdzRKNEEyT0NEa1A2T3dNcllIMXlRTzRuZXkwVDd2UGFqRWVJM294NnBIcUc3TDRLcF9fdnR2aC1mWlFtOGdqZHVkZzFGSGdaajNESFo3cHNkYlQ3eUdxYi1iemNvcE13RFhGVkl5VGZlV3NrcjVHS1g2RWNXb3cxdmp6WlF4QlQ4OEhOSk9Vc1FhUmpUR3JRMmJBZkNFLU80czAzWFBrNk5FVE16QTUxcHM2N3RCNlRwVlJmMlJvVXlOdzJNSGppc9IBsAJBVV95cUxPRVVMbHMzdUNhLVJVX2l5bXdhNE5RTzFEb3FYdXozUnV4bjZYMnZPM3M4YndkWU16OG94S1B6X3U1Q3Z5d0wxd3pOdWRETERaMGZFUE1yUWpiMF9tOHJoZm9DanYtNzZKRFpNTHMzdTJtR2NmOC1QV0NoXzYyakdkUm1oLWMzM2VSWjZaMkdTZ0N3NmtXaERST2xIakhwR3dBZXA3cHdfT3FqRVlZUi0zdVdPRjduc1RPcEw5SWVkYXhuaHFXNERQYnBaS3l3ZXh5SU1aY0tBWlVIMGZOT0htYUt3YjZfZEZCdnpEbEpsN3g3NWRaTkdCc3I4VEViR0RFOEtyTEwwM25xNUo5eHJLTm1Id1dsckhjSEFzZ3BNbHdTcW1memtWQWw0QXRXZlp0?oc=5
 
 - Stock markets end higher for 2nd day; metal stocks soar - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVd2dlNLTi14eWFCQk1DZVBFQ1loYlVOOEE4eFp3QXVEdGpaUUFxQVZjLXlsV0daTUpQc3kweksxN2JvVl91dHdkd0VVcmluQnFPRmhvQXpmRFRQRTU5X24xZmdEU2NBVU
+  Stock markets end higher for 2nd day;
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVd2dlNLTi14eWFCQk1DZVBFQ1loYlVOOEE4eFp3QXVEdGpaUUFxQVZjLXlsV0daTUpQc3kweksxN2JvVl91dHdkd0VVcmluQnFPRmhvQXpmRFRQRTU5X24xZmdEU2NBVUtjUEM0TlduS0M1aFhpVXZPUWV1RXEwSl9rNW52V1ZQcmlKTkNSTzdyYl9pU2wxb2ZsWUt2ajZpTXJTdnRWRi1FRHBVaTZMc0F1MGxBeTjSAb4BQVVfeXFMTjlDLTBWZUlCbHZZVHk5OTk2dEZYczR6dHRyQnoza0dQVFJ0bV9EU3FYMnJFU2plZFhPeWtqQWNrN0JtN1d0S0VFMnlGOXZ2d1RGX2lQVXhBQ2NtenFWZnNDR1g4UXpDV21ISnRYT1RTWFM3WlZRQjRZZC1jS0pWalpXcmFNWWRfd3ZObmxPM1I3S0tzMkN5QWZCQ0dVYmFTREdWOThGOVUzUFB2MjhncDN2b0FfWXJnN19SV3ZtUQ?oc=5
+
+- Stock Market Highlights 03 October 2025: Stock markets end higher for 2nd day; metal stocks soar - BusinessLine
+  Stock Market Highlights 03 October 2025: Stock markets end higher for 2nd
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPME9odklPeEJ1dThxeXVWOV9lOTJNQnE0VDZVMVdjcjdNcW1LdWlKYklxOWlFQzZsdGZudXFOTFJlMjB6aFQ0TjJITXZYQS1mYm45TkxuNmdsaDAtUkZkQ21vU2hVVU84Qmw3ZnJ1MG5kb180eEtPekt4eXo1LVJyRmZ5dHhVdlZEVWljc2dsNE9rX3JmOF9lNU51M3JuYnJWN3VGVGpZVG14X3BBOXFJekhGdmFlWUlDdkZF?oc=5
 
 - Eternal block deal: Goldman Sachs offloads Rs 355 cr worth of shares, BofA Securities steps in as buyer
   Eternal, formerly Zomato, has surpassed Tata Motors and Titan in market capitalization. Despite a 90% drop in Q1FY26 net profit due to investments, revenue surged. HSBC reiterated a 'Buy' call.
@@ -169,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-03 18:24:20 UTC_
+_Last updated: 2025-10-04 01:05:40 UTC_
