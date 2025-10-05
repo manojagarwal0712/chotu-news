@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Sonam Wangchuk from Jodhpur Jail: Will stay behind bars until judicial probe into Ladakh killings
+- Darjeeling landslides: President calls deaths ‘distressing’, Mamata announces compensation
   
-  🔗 https://indianexpress.com/article/india/ladakh-killings-sonam-wangchuk-jodhpur-jail-statement-nia-10288677/
+  🔗 https://indianexpress.com/article/india/darjeeling-landslides-president-calls-deaths-distressing-mamata-banerjee-announces-compensation-10289139/
 
-- Police cannot complete Zubeen death inquiry if Assamese people in Singapore don’t join probe: Himanta Biswa Sarma
+- Exclusive: Centre urges states to clear Forest Rights Act backlog; 15% claims remain pending
   
-  🔗 https://indianexpress.com/article/india/zubeen-garg-death-inquiry-singapore-probe-himanta-biswa-sarma-10288499/
+  🔗 https://indianexpress.com/article/india/exclusive-centre-urges-states-to-clear-forest-rights-act-backlog-15-claims-remain-pending-10289273/
 
-- Role of ‘organised criminal syndicate’ in Odisha sub-inspector recruitment test; Opposition demands CBI probe
+- Bihar Assembly polls to be held before November 22: Election Commission
   
-  🔗 https://indianexpress.com/article/india/role-organised-criminal-syndicate-odisha-sub-inspector-recruitment-test-opposition-cbi-probe-10288398/
+  🔗 https://indianexpress.com/article/india/bihar-assembly-polls-date-november-22-election-commission-10289182/
 
-- News Today Live Updates, 5 October | Two killed in septic tank blast at Farrukhabad coaching centre
+- Heavy rains in North Bengal hit train services; several trains cancelled, diverted, short-terminated – full list
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-10-05-2025-news-headlines-10288389/
+  🔗 https://indianexpress.com/article/india/heavy-rains-in-north-bengal-hits-train-services-several-trains-cancelled-diverted-short-terminated-full-list-10289025/
 
-- Right-wing group disrupts Miss Rishikesh pageant rehearsal: ‘Against Uttarakhand’s culture’
+- NCRB names Kolkata India’s safest city: List of top 10 safest and most unsafe cities
   
-  🔗 https://indianexpress.com/article/india/right-wing-group-disrupts-miss-rishikesh-pageant-rehearsal-against-uttarakhands-culture-10288263/
+  🔗 https://indianexpress.com/article/india/top-10-safest-cities-list-most-unsafe-cities-10288928/
+
+- Fifty per cent off: Flagship headphone features at around Rs 5,000? You bet!
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/fifty-per-cent-off-flagship-headphone-features-rs-5000-10289278/
+
+- What is Vani, Zoho’s new visual collaboration platform to take on Google Workspace?
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/what-is-vani-zoho-collaboration-platform-google-workspace-rival-10289247/
+
+- Thinking Machines debuts Tinker, a developer tool to simplify fine-tuning of AI models
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/thinking-machines-debuts-tinker-simplify-fine-tuning-ai-10288853/
 
 - When AI came for Hollywood
   
@@ -28,117 +40,185 @@
   
   🔗 https://indianexpress.com/article/technology/tech-reviews/dell-alienware-18-area-51-gaming-laptop-review-10288565/
 
-- We finally have free anti-robocall tools that work
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/we-finally-have-free-anti-robocall-tools-that-work-10288528/
+- Hospital deals: PE firms pull back on aggressive bets, eye IPO windfall instead
+  Private equity investments in Indian hospitals have plunged to $142 million so far this year from $1.15 billion in 2024. Investors shift focus from
+  🔗 https://www.livemint.com/companies/start-ups/private-equity-hospital-deals-ipo-india-11759467908314.html
 
-- Data centres in space? Jeff Bezos says it’s possible
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/data-centres-in-space-jeff-bezos-says-its-possible-10288519/
+- Gaming apps eye ad-backed returns, but pricing and brand intent cloud the pitch
+  Dream11 is relaunching as a free-to-play fantasy platform. The challenge lies in replacing previous cash-based incentives with organic ad integrations.
+  🔗 https://www.livemint.com/companies/fantasy-gaming-india-dream11-advertising-model-online-gaming-regulation-11759396886095.html
 
-- OpenAI to boost content owners’ control for Sora AI video app, plans monetization
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-to-boost-content-owners-control-for-sora-ai-video-app-plans-monetization-10288511/
+- From mobile usage to language barriers: The problems with YouTube’s AI ads in India
+  YouTube is betting on AI-driven ad placements moving forward. While this might work in countries like the UK or USA, it will be harder to crack
+  🔗 https://www.livemint.com/companies/news/from-mobile-usage-to-language-barriers-the-problems-with-youtube-s-ai-ads-in-india-11759654966345.html
 
-- MoS Margherita lays foundation for textile exports, discusses jobs for Indians during Russia visit
-  Minister of State for Textiles and External Affairs, Pabitra Margherita, underlined India's intent to deepen engagement with the Russian textile industry.
-  🔗 https://www.livemint.com/companies/company-results/mos-margherita-lays-foundation-for-textile-exports-discusses-jobs-for-indians-during-russia-visit-11759642596011.html
+- Russia to remain Indias No 1 crude oil supplier: Analysts
+  Russia to remain India's
+  🔗 https://www.livemint.com/companies/news/russia-to-remain-indias-no-1-crude-oil-supplier-analysts-11759647608574.html
 
-- Govt launches probe into e-commerce platforms over extra charges classified as Dark Pattern
-  The Department of Consumer Affairs has received several complaints against e-commerce platforms for charging extra fees. The government has classified the practice as a "dark pattern
-  🔗 https://www.livemint.com/companies/news/govt-launches-probe-into-e-commerce-platforms-over-extra-charges-classified-as-dark-pattern-11759639986968.html
+- RAT gets deployed on Air Indias Birmingham-bound plane; aircraft lands safely
+  RAT deployed on Air India
+  🔗 https://www.livemint.com/companies/news/rat-gets-deployed-on-air-indias-birmingham-bound-plane-aircraft-lands-safely-11759646762270.html
 
-- Anand Mahindra downloads Arattai ‘with pride’, Sridhar Vembu thanks support, says ‘gives us more determination’
-  Industrialist Anand Mahindra and startup founder Sridhar Vembu's conversations on social media over
-  🔗 https://www.livemint.com/companies/people/anand-mahindra-sridhar-vembu-interactions-zoho-arattai-warm-netizens-we-are-cheering-for-you-business-startup-tech-news-11759636841958.html
+- Tempted by LG India’s  ₹11,600-crore IPO? Here are five reasons you may want to invest.
+  According to EY, the average return from Indian IPOs in 2024 was 37%, far higher than the 7% delivered by the broader market. It’s this kind of disconnect that
+  🔗 https://www.livemint.com/market/stock-market-news/tempted-by-lg-india-s-rs-11-600-crore-ipo-here-are-five-reasons-you-may-want-to-invest-11759665529890.html
 
-- Fired from remote US job, Indian startup co-founder didn't tell family, says ‘universe rewarded me’ after $50k revenue
-  After being fired from a remote US job, Harshil Tomar chose to focus on his startup. Over six months, despite challenges, they achieved significant
-  🔗 https://www.livemint.com/companies/people/fired-from-remote-us-job-indian-startup-co-founder-didnt-tell-family-says-universe-rewarded-me-after-50-000-revenu-11759625922580.html
+- India-Turkey conflict: Can gold price touch  ₹1.25 lakh by Diwali on rising geopolitical tension?
+  On the geopolitical front, post-Operation Sindoor, rising tensions between India and Turkey may further boost gold’
+  🔗 https://www.livemint.com/market/commodities/indiaturkey-conflict-can-gold-price-touch-1-25-lakh-by-diwali-on-rising-geopolitical-tension-11759653329869.html
 
-- Stellantis Said to Plan $10 Billion in US Turnaround Investments
-  Stellantis NV is planning to invest about $10 billion in the US. The troubled maker of Jeep sport utility vehicles and Ram pickups refocuses on the market.
-  🔗 https://www.livemint.com/companies/news/stellantis-said-to-plan-10-billion-in-us-turnaround-investments-11759607102726.html
+- OPEC  Nears Accord for Modest November Production Hike
+  OPEC is close to an agreement in principle to make another modest supply increase for November.
+  🔗 https://www.livemint.com/market/stock-market-news/opec-nears-accord-for-modest-november-production-hike-11759657967264.html
 
-- Goldman Sachs CEO David Solomon's big warning — Markets will see ‘drawdown’ in next 1-2 years
-  Goldman Sachs CEO David Solomon predicts a stock market drawdown within the next 12 to 24 months. He is however still optimistic about the long-term prospects of AI.
-  🔗 https://www.livemint.com/market/stock-market-news/david-solomon-goldman-sachs-ai-boom-similar-dotcom-bubble-equity-markets-cycle-drawdown-1-2-years-investors-lose-money-11759641250690.html
+- Bitcoin hits all-time high of over $125,000 — Are investors turning bullish or bearish after crypto breakthrough?
+   Benchmark crypto Bitcoin hit its fresh lifetime high level of $125,559.21 after gaining more than 2% during the market session on Sunday,
+  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-hits-all-time-high-of-over-125-000-are-investors-turning-bullish-or-bearish-after-crypto-breakthrough-11759655107696.html
 
-- Bitcoin Rises to a Record as ‘Debasement’ Trade Spurs Risk Rally
-  Bitcoin set another all-time high as a broader risk rally around the US
-  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-rises-to-a-record-as-debasement-trade-spurs-risk-rally-11759641381629.html
+- How Japanese stock market is likely to react on Sanae Takaichi's win?
+  Michael Brown, senior research strategist at Pepperstone, was quoted as saying that the outcome was “quite an unexpected result
+  🔗 https://www.livemint.com/market/stock-market-news/how-japanese-stock-market-is-likely-to-react-on-pm-sanae-takaichis-win-11759649502429.html
 
-- Stocks to buy under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday — 6 October 2025
-  Sumeet Bagadia has recommended three stocks to buy on Monday, October 6. Vikran Engineering,
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-6-october-2025-11759639832357.html
+- TikTok gets its Indonesian operating license back after giving government data from protests
+  TikTok gets its Indonesian operating license
+  🔗 https://www.livemint.com/technology/tech-news/tiktok-gets-its-indonesian-operating-license-back-after-giving-government-data-from-protests-11759664723703.html
 
-- Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying SBI, HPCL shares tomorrow - 06 October 2025
-  Sensex rose by 223.86 points and Nifty 50 by 57.95 points. Experts suggest potential for further growth if Nifty50 sustains above 24,800. Recommendations to buy
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-sbi-hpcl-shares-tomorrow-06-october-2025-11759592294273.html
+- What is Roi? AI powered powered personal financing app acquird by OpenAI
+  OpenAI has acquired personal finance app Roi. Roi offers a personalized investing experience and will cease operations by 2025.
+  🔗 https://www.livemint.com/technology/tech-news/what-is-roi-ai-powered-powered-personal-financing-app-acquird-by-openai-11759657769621.html
 
-- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday — 6 October 2025
-  Ganesh Dongre of Anand Rathi recommends three stocks to
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-6-october-2025-11759633656556.html
+- OnePlus 15, iQOO 15, Realme GT 8 Pro camera specs surface ahead of launch: Here's what to expect
+  Chinese flagship devices featuring Qualcomm's Snapdragon 8 Elite Gen 5 are set to launch in October. Upcoming models include OnePlus 15, Realme GT 8 Pro, iQOO 15,
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-15-iqoo-15-realme-gt-8-pro-camera-specs-surface-ahead-of-launch-heres-what-to-expect-11759654014431.html
 
-- What Arattai, Zoho’s homegrown messaging app offers: Key features, how to download, top FAQs explained
-  Zoho’s homegrown Arattai app has become popular on iOS and Android, witnessing a massive download surge. Users can send messages, voice notes, and join meetings using just a phone number.
-  🔗 https://www.livemint.com/technology/tech-news/arattai-app-in-india-key-features-how-to-install-top-faqs-explained-sridhar-vembu-zoho-11759642969036.html
+- Will Apple host its October event this Year? iPad Pro, Vision Pro, Apple TV and more expected to debut
+  New iPads, Vision Pro, Apple TV, HomePod mini, and AirTag updates are expected this month. Announcements likely duevbefore 29 October ahead of its earnings call.
+  🔗 https://www.livemint.com/technology/tech-news/will-apple-host-its-october-event-this-year-ipad-pro-vision-pro-apple-tv-and-more-expected-to-debut-11759655646968.html
 
-- Elon Musk confirms Grokipedia Version 0.1 coming soon: What is it and release timeline
-  Elon Musk announced on his X account that the Grokipdia early beta Version 0
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-confirms-grokipedia-version-0-1-coming-soon-what-is-it-and-release-timeline-11759639892172.html
+- Diwali bonanza: How to get iPhone 16 under  ₹50,000 on Flipkart – Don’t miss out!
+  This Diwali 2025, grab the iPhone 16 (128GB) on Flipkart for less than  ₹50,000. Customers can avail extra discounts with Axis Bank cards and exchange offers
+  🔗 https://www.livemint.com/technology/tech-news/diwali-bonanza-how-to-get-iphone-16-under-rs-50-000-on-flipkart-don-t-miss-out-11759652523273.html
 
-- Satya Nadella highlights 5 big AI innovations across Microsoft 365, signalling next phase of ‘model forward’ AI push
-  The launch follows Microsoft’s Oct 1 debut of Microsoft 365 Premium, a $19.99 plan offering advanced AI features and higher usage limits.
-  🔗 https://www.livemint.com/technology/tech-news/satya-nadella-highlights-5-big-ai-innovations-across-microsoft-365-signalling-next-phase-of-model-forward-ai-approach-11759637722468.html
+- Stock Market Today: Dow Closes at Record on Third Day of Shutdown - The Wall Street Journal
+  The Wall Street Journal reports that the Dow closed at a record high
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOd1VGMzc5WHdNWkNhVXpzRktrYTA1UktwY0VXWTZZcE1RM1ltUElIbm1SdmtrRHNCX3htVTRqVjJZRmZ4QmxzRi1OaktpVXhSMzd0cjNNbzFscW5mZktFb1JmYlQ5NUgyZW1YLU9weDNrRUUxQTFsRlYtX3pGSV8yWWVyUnBzT093emc?oc=5
 
-- Sridhar Vembu explains the tech behind Zoho’s Arattai, a Swadeshi messaging app: ‘Built on deep engineering’
-  Arattai offers meetings, calling facility, Pocket storage, mentions, no ads, and no forced AI. Zoho Chief Sridhar Vembu detailed the deep R&amp;amp;D
-  🔗 https://www.livemint.com/technology/tech-news/sridhar-vembu-explains-the-tech-behind-zoho-s-arattai-a-swadeshi-messaging-app-built-on-deep-engineering-11759629306520.html
+- S&P 500 posts winning week, but Friday rally fizzles: Live updates - CNBC
+  S&amp;P 500 posts winning week
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE83NkxhVk1XWFJkQzFuVTBDTUUxTW4zLTI0QXVhMHI4YURoZ19NUHYxeWpmZDJNbmxVWkI2YzJuMW05WW90cnR0Y2xhckN4UHgzYWdpbTVEbVBYZ21FYk1vdkh1aUZUUWFTNFdJOHR4US0tc0dxWVFr0gF8QVVfeXFMT0RyLVhVMG9HVDNIZWxPZXp5ZE83U01OT2UzYnk5UzhKNzJlSkRHeVQ0Ym9qYzFEbWo0aWJqano4T1ZKRUN4Y19QYUpJaXg1eWg3VEQ1MmRrbGlyUFRHbGJOTnljOUVxQVdzdTFCTmlmOUlRYUVGV1ZMTGZlSw?oc=5
 
-- Indonesia revokes TikTok license suspension after data submitted
-  TikTok's local license in Indonesia has been restored after compliance with government data requests. The suspension arose from a violation linked to user activity during protests.
-  🔗 https://www.livemint.com/technology/tech-news/indonesia-revokes-tiktok-license-suspension-after-data-submitted-11759628825004.html
+- Markets News, Oct. 3, 2025: Stocks Post Weekly Gains; Indexes End Mixed Friday After Setting New Records as Palantir Pulls Nasdaq Lower - Investopedia
+  Markets News, Oct. 3, 2025: Stocks Post Weekly Gains; Indexes End
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE1YdS1uY1ZRdWxhc2Z2OXBTU1lWREVuX0Uzd1ItZmprbGRXeEZ0MWtfbVRuN1p2VDZlaDAwa2lnWU5Fd3V4dllubXFRRXNMY0Z0TEVSc3NkMGw2dmJMeUpTc1ZpNDV5UTE3TzVPRE9JMA?oc=5
 
-- Bitcoin hits all-time high above $125,000
-  Bitcoin hits
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hits-all-time-high-above-125000/articleshow/124316827.cms
+- Markets This Week: TCS Earnings, Macro Data, Global Trends - Rediff MoneyWiz
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3l2bGJCOUxfVjY3c2tCX0t4cFJGV3NQUEdnSnZpTnFOMDM0amF2b1JzQTJSVEZqM1UxZ3VTMVQ0b2pRTkRVeG1LYWVpMTN2ZXFIOTVZaE9rVHU5Szc2XzIySmtaTU1mT0
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3l2bGJCOUxfVjY3c2tCX0t4cFJGV3NQUEdnSnZpTnFOMDM0amF2b1JzQTJSVEZqM1UxZ3VTMVQ0b2pRTkRVeG1LYWVpMTN2ZXFIOTVZaE9rVHU5Szc2XzIySmtaTU1mT0FmVGVGWkNac01UaHNxQ3I3YkJBangxbnNCT0JxcDBvZy1QckNGR25CMGVLV01DeVF6dDdwY2psZ0kweU5iQWNrMlnSAbABQVVfeXFMTzNGd3Z2LXkxeDFFc3R5Ul9DVHhhYTJmNUFwQzNfc1ByazRLbERtLW1VMDRqcW45RXV6MjdSTDJnaGpkSXQxa09hUDg2M3pMZEUtZUphN1dFc1Ffb0tuQnJmMEJGQzhjWDE1dDIxRkFLQkt5TVJuLURpa01KNS1YV2Z6a2xwczZNT0EtUmVqaXg2cUZLSGF4TnBQRzR4RXBoek1LeXZ6VUpnaXRGNkRlUkc?oc=5
 
-- Axis Securities names Bank of Baroda among top 3 technical picks with upside potential up to 18%
-   Axis Securities’ top technical picks show 8–18% upside potential. Indian equity benchmarks ended the week higher
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/axis-securities-names-bank-of-baroda-among-top-3-technical-picks-with-upside-potential-up-to-18/slideshow/124316289.cms
+- Market Trading Guide: Buy Coal India, multibagger GE Vernova and 2 smallcaps on Monday for up to 18% gains - The Economic Times
+  The Economic Times is a business and financial news website. It is based in India.
+  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxPUXhybWRRTmV3QmM5djJEUTUxVlZkQTlDNU9MbndWVXI3ODc5RjBVcjZnYmYtV0hxa1hkVlZYVXFsbkswbF96VWFab0ZVWS1nblRyaHMxRHAzU3ZPRERwS3pRZHk2RmhZdWN6ZWQzOXhZYTFSNHRwRXNLUG5zanV2UTV2cWJUVUJ0dnJkay1xZXdzZXZNRGw2d0dlTFhpc2d1UG96Y3ZSZUgwcVFudDJudmx5WjNtcnpnaG9UQ1BDUVNEY3g2WUFyU3I4M1FkZnZremRiNDlkc2ZQdDRhdEJZWDA2SDJTRTNZei1HYmczd3JMTjZhV3BkWk1IaGVacklvM2t0cG1TelVtZUl3U0NxRGlDbExHUQ?oc=5
 
-- Multibaggers: 9 penny stocks soar up to 400% in 6 months
-  9 penny stocks have delivered extraordinary returns, soaring up to 400% in just six months since FY26 began. Nine of these low-priced, actively traded small-cap stocks more than doubled investors' wealth.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-9-penny-stocks-soar-up-to-400-in-6-months/slideshow/124316241.cms
+- Tata Capital, LG Electronics India to launch IPOs worth over Rs 27,000 crore next week
+  Two major companies, Tata Capital Ltd and LG Electronics India Ltd, gear up to launch their initial public offerings (IPOs) collectively worth more than Rs 27,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-capital-lg-electronics-india-to-launch-ipos-worth-over-rs-27000-crore-next-week/articleshow/124320050.cms
 
-- Stocks to buy in 2025 for long term: ACC, Ambuja Cement among 5 stocks that could give 12-24% return
-  Brokerages are optimistic about select cement, steel tubes, and battery stocks. Emkay Global recommends ACC and Ambuja Cement, while Nuvama favors APL Apollo Tubes and Amara Raja
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2025-for-long-term-acc-ambuja-cement-among-5-stocks-that-could-give-12-24-return/slideshow/124316054.cms
+- FPIs offload equities worth Rs 23,885 cr in Sep; total outflow reaches Rs 1.6 lakh cr in 2025
+  Foreign portfolio investors (FPIs) remained net sellers of Indian equities in September. They withdrew Rs 23,885 crore (around USD
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpis-offload-equities-worth-rs-23885-cr-in-sep-total-outflow-reaches-rs-1-6-lakh-cr-in-2025/articleshow/124320017.cms
 
-- Tata Capital IPO: Brokerages bullish even as GMP shows mixed trends. Should you subscribe?
-  Brokerages are optimistic about select cement, steel tubes, and battery stocks. Emkay Global recommends ACC and Ambuja Cement, while Nuvama favors APL Apollo Tubes and Amara Raja
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/tata-capital-ipo-brokerages-bullish-even-as-gmp-shows-mixed-trends-should-you-subscribe/articleshow/124316006.cms
+- Mcap of 7 of top-10 most valued firms climbs Rs 74,573 cr; HDFC Bank biggest gainer
+  The combined market valuation of seven of the top-10 most valued firms climbed Rs 74,573.63 crore in a holiday-shortened last week. HD
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-7-of-top-10-most-valued-firms-climbs-rs-74573-cr-hdfc-bank-biggest-gainer/articleshow/124319983.cms
 
-- After India's ‘erase from map’ warning, Pakistan has a 'mutual' response | Latest News India - Hindustan Times
-  After India's ‘erase from map’ warning, Pakistan
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxONFhsWk9wdGR2Q3NFTC1xbXJGcUJuYkVOWUVaczVwSUY5bThlamNRWTFBZmNtZkx0NkQ2ei1jQm5YRlpBQzR5dFZuaEJwbFFoNWV4a1RpUWdfaFVYZDBNbnZZUzI1bDZsZnVvdDRseTBocmdyU01uc0RVbERVRDhkNzkxLWRZVjBudDNFa29LdkJPeWFSbk90OElXNVhCMG1RVGtodFVhaEZ4VDhndzR6OHRzcDBXMWVYQXVaRC15elpTRlkzaGNicmdabWdhWVXSAdQBQVVfeXFMTzVJbTE0SUJqRTVrWTBwTzNLV1J6cWpFT2FMazJhVzkyN0sxcWhENXd4NnBHdDZtNHRrRHdQMW5zS2FDSTB4VndLRmlUQUNOMk9nOUZ2eWZqVUVtTHNER2dSMURCQkVwUFlydkU3dEFBSnQ1RHJ2QzV4M0NtbUh0Yk1XWnFrd3B4d1BWbTA3S3VocW5RdG9yb01ZRzRDUjZmdnpzQ1JWZWRDZXVCamVEWG1SWXREYzBrTVdQZWxFSG1BWkJYYzJfeVRGVlNsOEZDTks0RVo?oc=5
+- Mcap of 7 of top-10 most valued firms climbs Rs 74,573 cr; HDFC Bank biggest gainer
+  The combined market valuation of seven of the top-10 most valued firms climbed Rs 74,573.63 crore in a holiday-shortened last week. HD
+  🔗 https://economictimes.indiatimes.com/markets/stocks/mcap-of-7-of-top-10-most-valued-firms-climbs-rs-74573-cr-hdfc-bank-biggest-gainer/articleshow/124319959.cms
 
-- Army, Air Force Chiefs' 'Stop State-Sponsored Terrorism Or...' Warning To Pak - NDTV
-  Army, Air Force Chiefs' 'Stop State
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSjJscnZZZnlJNGFDU0ZWNzktZDRWbzIwUkRwUWEyMTIza1NOZ1NTOGEtaEVJMVV4X2ZUMkVsdGR0cTl1QVMxYml1eVJROEN4ZS02bUdWdmtXM2x5cHNyeWVSdVhMR0JSR05lbXVZYURyaVEyN3NOejhZNnM0SlB6T0NpMFZma3Fib1JtSGZmSWdtRnF6Unh5U2Z3V2dyRm15NTdabFpMQ08zbVBjQVAxQk1ETDR4cXMxekhxYV83S2xYSUM4cFVVbE8xX2xESEhy0gHYAUFVX3lxTE5aYVp2Q0pmTHZnRjI4X3dlbEU0WHZsVWs3aFdSc05YdFZNbEI5Ynd5c1RVUkZ4cHYzUS1yd2NaSUI5a0hIRlhLN2pQQk8tcnFZaXJVU3gtYjEyTE9HeUdkeHBrc2JXaDJDcW5UeGNjV1g3MXNIenFOV2hZdmUyNEpBalVQTjRsc1h6TmdReURsTDNzaU5jTlo0TExBdnVFMXNMcTJMUkRtOGVzVFBDRm1MTnByU2hDTUh6M0t0ZUhDZlIyR2NwUHBoeHB5OXgwa1F4cF9rR1N5Nw?oc=5
+- Canara HSBC Life Insurance IPO dates announced. Check key details
+  Canara HSBC Life Insurance will launch its maiden public offer from October 10 to 14. The offer-for-sale of 23.75 crore shares by its promoters and PNB.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/canara-hsbc-life-insurance-ipo-dates-announced-check-key-details/articleshow/124319946.cms
 
-- Pakistan should prepare for 'Operation Sindoor 2.0' if it doesn't stop cross-border terrorism: BJP's Yaser Jilani | Latest News India - Hindustan Times
-  Pakistan should prepare for 'Operation Sindoor 2.0' if it doesn't stop cross-
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxOQUNPaUszLTBWa0gxTmNCT3h6b201elJYbkJLMjEwWDVDTlB6RERUZWIxbzFTOVI4eDdLMjdkQlNEX2JyNnF0ekIzcmRxcWdhS2ZnOHpBd0ZXSW9uZGRqRks5X0lneTlpelljNFZMaWVuWFY0em10U3pnNW9KWkRyNTA2bGpQUWFRNVBTcWlHMjBoMUR5NmxpdV9KX2NYN1Bfcm1peGlnT0x4QWdIckRBTGpqQVlLOVFGMzRHSUkzSS1TaUlNMjhrT3dIRlVQX3dNX1pPTXhEejkyX0w4LXdxcDdTaC1QRzdWU0JTQVBMQmFuT2pjd0lZYlJtVWRhWDBITk1kOVlR0gGGAkFVX3lxTE5BQ09pSzMtMFZrSDFOY0JPeHpvbTV6UlhuQksyMTBYNUNOUHpERFRlYjFvMVM5Ujh4N0syN2RCU0RfYnI2cXR6QjNyZHFxZ2FLZmc4ekF3RldJb25kZGpGSzlfSWd5OWl6WWM0VkxpZW5YVjR6bXRTemc1b0paRHI1MDZsalBRYVE1UFNxaUcyMGgxRHk2bGl1X0pfY1g3UF9ybWl4aWdPTHhBZ0hyREFMampBWUs5UUYzNEdJSTNJLVNpSU0yOGtPd0hGVVBfd01fWk9NeER6OTJfTDgtd3FwN1NoLVBHN1ZTQlNBUExCYW5PamN3SVliUm1VZGFYMEhOTWQ5WVE?oc=5
+- Defence Ministry opens missile, shell production to private sector | Latest News India - Hindustan Times
+  Defence Ministry opens missile, shell production to private sector.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHFpVmNVV1RtN1FSanR5dGMxUk0zeWxWY1pvM2JJYm84bUpkQjh2eGxUUU82NTJmRm5WM0JPeldXLV9xdC1tM3hmSEdDM0QxeTJuOUpXZktnOUlGX1ZmNURuM3RRZ3Q2aGtaWEJJMnV5aDZFaF9PbzROQ2dIcEdwYVRiQ1NGWFFfckJ3MDI5dUJ2aGxxRDlKYjF1aTg0TFBSYXdiTjNnZFlVM2Y1Q0ZKQ2NPVTVIWDh2azE1elBDWmd4YUZRa3hUT1NFX18wVXlZWFJaWURSd3hLdEpiaWFXVzh4bDbSAeoBQVVfeXFMTzU3YU1LY1gzeUxReU9UZmVPY3g2VEpNOVlxaWVnbXR0dzVGUHhFb2RfWFZZVnNxUEx0Ym95RGhHdFFTYTJwbzFUdi1PTWd0WUlCRXpmUnhBMmtra3JxMnJaQW5XbWt3RTlfanFnbm5hcHE1ZUI1WWRueWNtcndiRnhodHNyVXQ5NlU2cU9ISzFsYjhXWURjdHZVMXVyQS1wN1dYUzJweVRoUmxnNmpoYmUyekk0LWtPM1JjeUE2ekFmQXFoQW8ySHphV2pZNmpKdUdwell0UzRxOXdnTlhaZjhMekFjdkRVY3pB?oc=5
 
-- Mistreating ally like India a strategic blunder for US: Economist Andres Velasco - The Economic Times
-  The Economic Times published a story on the US and India's
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaFpySEIzbWZ4MHY3Ykc2VEpTNEVjM2lKc3JoaVNtZ2EwdVRQQXByRlQ3amxMcWZwaENZeHM4YkRqb3pUTFN0eFpJRFpRLXVQSVpHbjQ5MWdqOUZzLURmeVRlYjdxdGhHUWZIQkZzNm1PeUp4RE9YbkpMSVEyUmNYZlpldHc5Z0JPUUhIR081Z0VfZzI3SmVpTFdpbHY0cm4tM2JoQWpoQ0xPZ3Qyb21uNk8tQVFWbC1hWTFlR082d0s4MGI4YkczRTM4UEp0enp2NHVIZGVkMjJrNkFtM3pva3F2RjJKOGdoWjRlVUFMWHhxd9IB9wFBVV95cUxQWGMzdUI4ZlB2ZXcwRW9PUDVBZE1EQXJjVUR4NnVJUXNCbzd3WGswa3BxOU85UDRFZ0V1cV9wU0lZRFk2QzFfT19TeFdCbGYwQjRXTUU4b0NRZnRseTdiWU52VEpoMXlPdThoWWc4TEg4V2FWZU9QNnFoNVdPbER3MElIam1iejNFbllkaVlUNk1tLTJ4c0lwYndxSm1xVl82c3Q1Y3ZtdjNKZ3owSUc0RkFCdWt4TTMyN0hqUlZQMkNOY050cFZRcENxMHhTLU00SVRocktGRWZIbGhzY2lKcmhjQ0otYWZOcktWNktYbDdtcGJBX1A0?oc=5
+- Russia’s decision to supply JF-17 jet engines to Pakistan a failure of PM’s personalised diplomacy, says Congress - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOXzJKMzZfaW9tSHRJdUVlWEp2OG14bUVIb1JwRGc5Z3FRdkhFRjhrbTBWZnRKLTB5ZFFJQTlYTW5pZjd1RUp4R3p2VFl5T0s2eXR3ejBVSnVNbHpfQVdpUEh5bjJGd2VZRn
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOXzJKMzZfaW9tSHRJdUVlWEp2OG14bUVIb1JwRGc5Z3FRdkhFRjhrbTBWZnRKLTB5ZFFJQTlYTW5pZjd1RUp4R3p2VFl5T0s2eXR3ejBVSnVNbHpfQVdpUEh5bjJGd2VZRnZ1LWhvdEpEOHY1dl90RXNpUDJvSkVDbm5iWmFCVk82RngxQURQWmtFMGx5OHA0ZlZ4T1dqaEVLa0ZWaDNQREtFbWhmNi1ydXdSd3FnYmFEeHFDb1ktN2J0UVBaM09MODFpS1h3ZjlVTWhocHlSVDZEODZBdVN3ajlBX3VLZHRyMGhoa1Q5aDF6TGVpNUhuS0tUQUfSAYMCQVVfeXFMT3c0MlZXcEhpWjFXa3RjaHlPUVU1STBrbjdsZWRTSXhZOTJuVTNBVDAxcU1fdzRKUHd6NmtuQVBfSlczbXNWT0FtMHVwV3FoZk94LU5wV1h0S1JZbDVyc0FIRnRTT2ZVdFZYalV6MHA2TDBtV2RxNDZmR0ZlTTB5a2o5OGk4NnBZVjBQOG5Qb2xLOUh3ODg1WDFtaEJZa0lxME15ZnFUdW14Y29vekdJTE5udndFWDNvZUJnUkYzMXZTNGcxOFhmRWp0TE16eGZZZmlzSGNBRmVJeXpVUUo0RW9pY1NiU3hYeVpFSi1ka1h0WTJ5TzlWZHpnSnRRRnJZMi0yMA?oc=5
 
-- ‘India diversifying away from Russian oil’: Trump aide's big claim amid tariff tensions | Hindustan Times - Hindustan Times
-  ‘India diversifying away from Russian oil’: Trump aide's
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU3p6UWsyeERWckdtZlFLc2FZZUowbkNUemJSNEVJdUt5QkVvMnJoWnhTeGdPSVNaMVFFU0R2RlZWYk9YampSam9rYTVWZGZFU2pqQW1PTmRmLUdTUHp0alVrbUlEMFdmOHoybWY5VzRRZEpoZTFVLWxPM3JPOXh5ZVBSVkVDRWIxSDNoM1hYdlVMQndyeFh0QlNUOEpzNVJ3V0xtTGRzMkJIUXVBQ181RXBubnZOOWhheDAzaUF1bHhnWXVGTG1XRlN4MjV3QW5sWUpoWDdVdFVBNXpSZ3hyd0xGR1BoSTAxeEHSAe8BQVVfeXFMTVBVaW54Nkh5RFJOeEhCdXlEQWtvWnVSbUxpRGtoRTFfRklmVnpCWmVQZ0JzdU9uc2QzR0dwV1oyemNORVAySjZsQmtldW1pLXpJTGxneC1wU0pMS3h2X1phaTcxTU1ZRHFwUFhWUjB4eUpWWkNNakg2VU5XZjd2SzROeWliYzhBRVNoQ1o4MW42WEdubFJ3UXpnRmROUkZuT0FHVl84TjlsVzluV0JRSkZEeUdMNXlDOXdKaGVhd0I3NEc1YVZiMHpxdUNfTldXMWtuZVhJTHdWbDg2Rl9IcENwQkpQR1N4R0ZMSEp2b00?oc=5
+- Hikaru Nakamura's controversial gesture towards D Gukesh enrages fans - watch - Times of India
+  Hikaru Nakamura's controversial gesture towards D Gu
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU1lrWTVEWUdPemxzLUJmRFZ2SUVkSTNqdTZYNGh6YTRLOTJkLWNyVGVUMTJtUTJ2SjJRcUtCaDNNV3hHbVVySFdWRXBISS05RGc3ZFBDSGdZMkdNOHNJYmM3OWEwOXZkT19CV0tucWdUX3NTSkNDVXoyVm9pV25KWU9YeVhiSWNxYTVQNm01eWh0dmhySGpMYXgwSHh0QjJJQkhFaUNRZmE1ZG1xQnJucDFNU3BhTkNmZXlIYU9makRGWU14Z2hRc1V1WmdUV3F5MTItQUFjUHZVbVdLUWEwMFhPSdIB6AFBVV95cUxOQk53bWpBRlZGNmZqeXR0UEdFQ0JJMWhTVU9yZ2M5cXFYNjZyencyVERxWmxqX1ZvSDg5MVdqM214cUc4bkZvNE12ZXF3QkFXQXoyS3djMlJkTlc0NXVaTzRBdmZfQ1IyMUo5WkxoS1kyc1N1aW1Qa1A3Y3ZDLUxDai03MEZxN3c3Tk5RU0JkQlBRemp1cEJYZHd4bklvTU1haEgxSU85MXMxMVA2SFVnMXdmS1ZEdWVwRl9YcnJ0bWxkdUk1dVBYZllMTG9qUTI1Vkp6Nzd6MUt1TWVEaEFDR3ZMeVRtaFlT?oc=5
+
+- Indian Army joins in rescue of people hit by floods in Bhutan - The Hindu
+  Indian Army joins in rescue of people hit by floods in
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkxTMnhUWldYN0YwN2V4cHBfSmVERzNidHpPeW1reUxydnFTS2JtZWhURlF4b01ieGlLRzBFR293TFVIX3VaNi1NSldOYUZtRU9fMF9Cc2hrTk1WajVMODkyS0JqZDRCTEVIQlBHRmwtWE5qZUdneVFFY3RDNFh3em9pcnNxVTQ1Wmk1YmtwbU1weDBTRWtzcDhFSjU0M0M5WmVKUGYzOUtwRGZKeXRPeE80WmU4aExvNjRIQzcwSVViVHfSAcoBQVVfeXFMUC1iSnBpaFA2Y0liNHdieGtpLWF5Ti11dWtSb3FiY2FTTENQZDVyeUxaTXY1WW5JNlg5M05fV1BUYjRmZ1RMZnVQemhOLVNjdUdxZnV1WXNQc1hNZHRwSEcxUFVpZjR6ZFhMaE9OanFJZlZ2VDAxWlJ3TDhhelcwSzY5TFhSdUJ3VDFodnAtaGgyU0ZDSVYxTHdUd0E1X1NzU1QyTEJmRi1sU1VBY2t0Tm16MGw4MENRSFAyY0tJX0lsbkZkZXoxQkluZw?oc=5
+
+- Tempted by LG India’s ₹11,600-crore IPO? Here are five reasons you may want to invest. | Stock Market News - Mint
+  Tempted by LG India’s ₹11,600-cro
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUWUzTXJNNGhNeWxDVGdFM0k5TVN1WlpNejJIZlJsY2ZYV2w2a3VqR0Zlb1BJcEJKay1KVmlrTmZtZWtfVHphRmFTTWoyZnJhQkJjVlRRWUhVcjZudW1hdG10NmNSRFR5cy1ETlBRTlEzS0VXejBaX3h4V3ZHRVR5TzdpZXo2WGY5TkFGRUhUQm9hQTdCUmdWNGExbUlZWDdTaDZnTkoxeGotVXhJSnNUTk5hM3FLdF9oZWt3TGIyaXNBY2ZNOWdQWDZQLUdiakZ4ckRyLTF1ZWYtNk5jUzMwcmV6VC00UFdNT2l1b9IB8gFBVV95cUxNVUZWYXV4WTNGRC03SHk0TmgxQTdOWFRYam4yYW5xWlMxZ3FCZzJGMU5KelhxZEJCRGRDQmwyZWVlRV9YT3FBa21NVTNqWFNyZ2hMd1I3R180OENwTlVKQThhUnVkQzRMdUVkMHRqSDZoZkVxZlpYY2pYOXpDb2YtUVllVFBqMlZGS2xOQzdnZ3VkYWtJNWFzdWZMdWtjRmFxXzdXQWFPcVZ0Q0c4MHR1dGlLbnpjenBWeDB2ZjY3MXB3RWRFMTF2UHJZSHdsWTNpaHZWaENWRjJ4M0JrV1BSR21mcVh5VUZDRXZsZXhQd1d5dw?oc=5
+
+- Defence Ministry opens missile, shell production to private sector | Latest News India - Hindustan Times
+  Defence Ministry opens missile, shell production to private sector.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHFpVmNVV1RtN1FSanR5dGMxUk0zeWxWY1pvM2JJYm84bUpkQjh2eGxUUU82NTJmRm5WM0JPeldXLV9xdC1tM3hmSEdDM0QxeTJuOUpXZktnOUlGX1ZmNURuM3RRZ3Q2aGtaWEJJMnV5aDZFaF9PbzROQ2dIcEdwYVRiQ1NGWFFfckJ3MDI5dUJ2aGxxRDlKYjF1aTg0TFBSYXdiTjNnZFlVM2Y1Q0ZKQ2NPVTVIWDh2azE1elBDWmd4YUZRa3hUT1NFX18wVXlZWFJaWURSd3hLdEpiaWFXVzh4bDbSAeoBQVVfeXFMTzU3YU1LY1gzeUxReU9UZmVPY3g2VEpNOVlxaWVnbXR0dzVGUHhFb2RfWFZZVnNxUEx0Ym95RGhHdFFTYTJwbzFUdi1PTWd0WUlCRXpmUnhBMmtra3JxMnJaQW5XbWt3RTlfanFnbm5hcHE1ZUI1WWRueWNtcndiRnhodHNyVXQ5NlU2cU9ISzFsYjhXWURjdHZVMXVyQS1wN1dYUzJweVRoUmxnNmpoYmUyekk0LWtPM1JjeUE2ekFmQXFoQW8ySHphV2pZNmpKdUdwell0UzRxOXdnTlhaZjhMekFjdkRVY3pB?oc=5
+
+- Russia’s decision to supply JF-17 jet engines to Pakistan a failure of PM’s personalised diplomacy, says Congress - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOXzJKMzZfaW9tSHRJdUVlWEp2OG14bUVIb1JwRGc5Z3FRdkhFRjhrbTBWZnRKLTB5ZFFJQTlYTW5pZjd1RUp4R3p2VFl5T0s2eXR3ejBVSnVNbHpfQVdpUEh5bjJGd2VZRn
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOXzJKMzZfaW9tSHRJdUVlWEp2OG14bUVIb1JwRGc5Z3FRdkhFRjhrbTBWZnRKLTB5ZFFJQTlYTW5pZjd1RUp4R3p2VFl5T0s2eXR3ejBVSnVNbHpfQVdpUEh5bjJGd2VZRnZ1LWhvdEpEOHY1dl90RXNpUDJvSkVDbm5iWmFCVk82RngxQURQWmtFMGx5OHA0ZlZ4T1dqaEVLa0ZWaDNQREtFbWhmNi1ydXdSd3FnYmFEeHFDb1ktN2J0UVBaM09MODFpS1h3ZjlVTWhocHlSVDZEODZBdVN3ajlBX3VLZHRyMGhoa1Q5aDF6TGVpNUhuS0tUQUfSAYMCQVVfeXFMT3c0MlZXcEhpWjFXa3RjaHlPUVU1STBrbjdsZWRTSXhZOTJuVTNBVDAxcU1fdzRKUHd6NmtuQVBfSlczbXNWT0FtMHVwV3FoZk94LU5wV1h0S1JZbDVyc0FIRnRTT2ZVdFZYalV6MHA2TDBtV2RxNDZmR0ZlTTB5a2o5OGk4NnBZVjBQOG5Qb2xLOUh3ODg1WDFtaEJZa0lxME15ZnFUdW14Y29vekdJTE5udndFWDNvZUJnUkYzMXZTNGcxOFhmRWp0TE16eGZZZmlzSGNBRmVJeXpVUUo0RW9pY1NiU3hYeVpFSi1ka1h0WTJ5TzlWZHpnSnRRRnJZMi0yMA?oc=5
+
+- Hikaru Nakamura's controversial gesture towards D Gukesh enrages fans - watch - Times of India
+  Hikaru Nakamura's controversial gesture towards D Gu
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU1lrWTVEWUdPemxzLUJmRFZ2SUVkSTNqdTZYNGh6YTRLOTJkLWNyVGVUMTJtUTJ2SjJRcUtCaDNNV3hHbVVySFdWRXBISS05RGc3ZFBDSGdZMkdNOHNJYmM3OWEwOXZkT19CV0tucWdUX3NTSkNDVXoyVm9pV25KWU9YeVhiSWNxYTVQNm01eWh0dmhySGpMYXgwSHh0QjJJQkhFaUNRZmE1ZG1xQnJucDFNU3BhTkNmZXlIYU9makRGWU14Z2hRc1V1WmdUV3F5MTItQUFjUHZVbVdLUWEwMFhPSdIB6AFBVV95cUxOQk53bWpBRlZGNmZqeXR0UEdFQ0JJMWhTVU9yZ2M5cXFYNjZyencyVERxWmxqX1ZvSDg5MVdqM214cUc4bkZvNE12ZXF3QkFXQXoyS3djMlJkTlc0NXVaTzRBdmZfQ1IyMUo5WkxoS1kyc1N1aW1Qa1A3Y3ZDLUxDai03MEZxN3c3Tk5RU0JkQlBRemp1cEJYZHd4bklvTU1haEgxSU85MXMxMVA2SFVnMXdmS1ZEdWVwRl9YcnJ0bWxkdUk1dVBYZllMTG9qUTI1Vkp6Nzd6MUt1TWVEaEFDR3ZMeVRtaFlT?oc=5
+
+- Indian Army joins in rescue of people hit by floods in Bhutan - The Hindu
+  Indian Army joins in rescue of people hit by floods in
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkxTMnhUWldYN0YwN2V4cHBfSmVERzNidHpPeW1reUxydnFTS2JtZWhURlF4b01ieGlLRzBFR293TFVIX3VaNi1NSldOYUZtRU9fMF9Cc2hrTk1WajVMODkyS0JqZDRCTEVIQlBHRmwtWE5qZUdneVFFY3RDNFh3em9pcnNxVTQ1Wmk1YmtwbU1weDBTRWtzcDhFSjU0M0M5WmVKUGYzOUtwRGZKeXRPeE80WmU4aExvNjRIQzcwSVViVHfSAcoBQVVfeXFMUC1iSnBpaFA2Y0liNHdieGtpLWF5Ti11dWtSb3FiY2FTTENQZDVyeUxaTXY1WW5JNlg5M05fV1BUYjRmZ1RMZnVQemhOLVNjdUdxZnV1WXNQc1hNZHRwSEcxUFVpZjR6ZFhMaE9OanFJZlZ2VDAxWlJ3TDhhelcwSzY5TFhSdUJ3VDFodnAtaGgyU0ZDSVYxTHdUd0E1X1NzU1QyTEJmRi1sU1VBY2t0Tm16MGw4MENRSFAyY0tJX0lsbkZkZXoxQkluZw?oc=5
+
+- Tempted by LG India’s ₹11,600-crore IPO? Here are five reasons you may want to invest. | Stock Market News - Mint
+  Tempted by LG India’s ₹11,600-cro
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUWUzTXJNNGhNeWxDVGdFM0k5TVN1WlpNejJIZlJsY2ZYV2w2a3VqR0Zlb1BJcEJKay1KVmlrTmZtZWtfVHphRmFTTWoyZnJhQkJjVlRRWUhVcjZudW1hdG10NmNSRFR5cy1ETlBRTlEzS0VXejBaX3h4V3ZHRVR5TzdpZXo2WGY5TkFGRUhUQm9hQTdCUmdWNGExbUlZWDdTaDZnTkoxeGotVXhJSnNUTk5hM3FLdF9oZWt3TGIyaXNBY2ZNOWdQWDZQLUdiakZ4ckRyLTF1ZWYtNk5jUzMwcmV6VC00UFdNT2l1b9IB8gFBVV95cUxNVUZWYXV4WTNGRC03SHk0TmgxQTdOWFRYam4yYW5xWlMxZ3FCZzJGMU5KelhxZEJCRGRDQmwyZWVlRV9YT3FBa21NVTNqWFNyZ2hMd1I3R180OENwTlVKQThhUnVkQzRMdUVkMHRqSDZoZkVxZlpYY2pYOXpDb2YtUVllVFBqMlZGS2xOQzdnZ3VkYWtJNWFzdWZMdWtjRmFxXzdXQWFPcVZ0Q0c4MHR1dGlLbnpjenBWeDB2ZjY3MXB3RWRFMTF2UHJZSHdsWTNpaHZWaENWRjJ4M0JrV1BSR21mcVh5VUZDRXZsZXhQd1d5dw?oc=5
+
+- Defence Ministry opens missile, shell production to private sector | Latest News India - Hindustan Times
+  Defence Ministry opens missile, shell production to private sector.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHFpVmNVV1RtN1FSanR5dGMxUk0zeWxWY1pvM2JJYm84bUpkQjh2eGxUUU82NTJmRm5WM0JPeldXLV9xdC1tM3hmSEdDM0QxeTJuOUpXZktnOUlGX1ZmNURuM3RRZ3Q2aGtaWEJJMnV5aDZFaF9PbzROQ2dIcEdwYVRiQ1NGWFFfckJ3MDI5dUJ2aGxxRDlKYjF1aTg0TFBSYXdiTjNnZFlVM2Y1Q0ZKQ2NPVTVIWDh2azE1elBDWmd4YUZRa3hUT1NFX18wVXlZWFJaWURSd3hLdEpiaWFXVzh4bDbSAeoBQVVfeXFMTzU3YU1LY1gzeUxReU9UZmVPY3g2VEpNOVlxaWVnbXR0dzVGUHhFb2RfWFZZVnNxUEx0Ym95RGhHdFFTYTJwbzFUdi1PTWd0WUlCRXpmUnhBMmtra3JxMnJaQW5XbWt3RTlfanFnbm5hcHE1ZUI1WWRueWNtcndiRnhodHNyVXQ5NlU2cU9ISzFsYjhXWURjdHZVMXVyQS1wN1dYUzJweVRoUmxnNmpoYmUyekk0LWtPM1JjeUE2ekFmQXFoQW8ySHphV2pZNmpKdUdwell0UzRxOXdnTlhaZjhMekFjdkRVY3pB?oc=5
+
+- Russia’s decision to supply JF-17 jet engines to Pakistan a failure of PM’s personalised diplomacy, says Congress - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOXzJKMzZfaW9tSHRJdUVlWEp2OG14bUVIb1JwRGc5Z3FRdkhFRjhrbTBWZnRKLTB5ZFFJQTlYTW5pZjd1RUp4R3p2VFl5T0s2eXR3ejBVSnVNbHpfQVdpUEh5bjJGd2VZRn
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOXzJKMzZfaW9tSHRJdUVlWEp2OG14bUVIb1JwRGc5Z3FRdkhFRjhrbTBWZnRKLTB5ZFFJQTlYTW5pZjd1RUp4R3p2VFl5T0s2eXR3ejBVSnVNbHpfQVdpUEh5bjJGd2VZRnZ1LWhvdEpEOHY1dl90RXNpUDJvSkVDbm5iWmFCVk82RngxQURQWmtFMGx5OHA0ZlZ4T1dqaEVLa0ZWaDNQREtFbWhmNi1ydXdSd3FnYmFEeHFDb1ktN2J0UVBaM09MODFpS1h3ZjlVTWhocHlSVDZEODZBdVN3ajlBX3VLZHRyMGhoa1Q5aDF6TGVpNUhuS0tUQUfSAYMCQVVfeXFMT3c0MlZXcEhpWjFXa3RjaHlPUVU1STBrbjdsZWRTSXhZOTJuVTNBVDAxcU1fdzRKUHd6NmtuQVBfSlczbXNWT0FtMHVwV3FoZk94LU5wV1h0S1JZbDVyc0FIRnRTT2ZVdFZYalV6MHA2TDBtV2RxNDZmR0ZlTTB5a2o5OGk4NnBZVjBQOG5Qb2xLOUh3ODg1WDFtaEJZa0lxME15ZnFUdW14Y29vekdJTE5udndFWDNvZUJnUkYzMXZTNGcxOFhmRWp0TE16eGZZZmlzSGNBRmVJeXpVUUo0RW9pY1NiU3hYeVpFSi1ka1h0WTJ5TzlWZHpnSnRRRnJZMi0yMA?oc=5
+
+- Hikaru Nakamura's controversial gesture towards D Gukesh enrages fans - watch - Times of India
+  Hikaru Nakamura's controversial gesture towards D Gu
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU1lrWTVEWUdPemxzLUJmRFZ2SUVkSTNqdTZYNGh6YTRLOTJkLWNyVGVUMTJtUTJ2SjJRcUtCaDNNV3hHbVVySFdWRXBISS05RGc3ZFBDSGdZMkdNOHNJYmM3OWEwOXZkT19CV0tucWdUX3NTSkNDVXoyVm9pV25KWU9YeVhiSWNxYTVQNm01eWh0dmhySGpMYXgwSHh0QjJJQkhFaUNRZmE1ZG1xQnJucDFNU3BhTkNmZXlIYU9makRGWU14Z2hRc1V1WmdUV3F5MTItQUFjUHZVbVdLUWEwMFhPSdIB6AFBVV95cUxOQk53bWpBRlZGNmZqeXR0UEdFQ0JJMWhTVU9yZ2M5cXFYNjZyencyVERxWmxqX1ZvSDg5MVdqM214cUc4bkZvNE12ZXF3QkFXQXoyS3djMlJkTlc0NXVaTzRBdmZfQ1IyMUo5WkxoS1kyc1N1aW1Qa1A3Y3ZDLUxDai03MEZxN3c3Tk5RU0JkQlBRemp1cEJYZHd4bklvTU1haEgxSU85MXMxMVA2SFVnMXdmS1ZEdWVwRl9YcnJ0bWxkdUk1dVBYZllMTG9qUTI1Vkp6Nzd6MUt1TWVEaEFDR3ZMeVRtaFlT?oc=5
+
+- Indian Army joins in rescue of people hit by floods in Bhutan - The Hindu
+  Indian Army joins in rescue of people hit by floods in
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkxTMnhUWldYN0YwN2V4cHBfSmVERzNidHpPeW1reUxydnFTS2JtZWhURlF4b01ieGlLRzBFR293TFVIX3VaNi1NSldOYUZtRU9fMF9Cc2hrTk1WajVMODkyS0JqZDRCTEVIQlBHRmwtWE5qZUdneVFFY3RDNFh3em9pcnNxVTQ1Wmk1YmtwbU1weDBTRWtzcDhFSjU0M0M5WmVKUGYzOUtwRGZKeXRPeE80WmU4aExvNjRIQzcwSVViVHfSAcoBQVVfeXFMUC1iSnBpaFA2Y0liNHdieGtpLWF5Ti11dWtSb3FiY2FTTENQZDVyeUxaTXY1WW5JNlg5M05fV1BUYjRmZ1RMZnVQemhOLVNjdUdxZnV1WXNQc1hNZHRwSEcxUFVpZjR6ZFhMaE9OanFJZlZ2VDAxWlJ3TDhhelcwSzY5TFhSdUJ3VDFodnAtaGgyU0ZDSVYxTHdUd0E1X1NzU1QyTEJmRi1sU1VBY2t0Tm16MGw4MENRSFAyY0tJX0lsbkZkZXoxQkluZw?oc=5
+
+- Tempted by LG India’s ₹11,600-crore IPO? Here are five reasons you may want to invest. | Stock Market News - Mint
+  Tempted by LG India’s ₹11,600-cro
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUWUzTXJNNGhNeWxDVGdFM0k5TVN1WlpNejJIZlJsY2ZYV2w2a3VqR0Zlb1BJcEJKay1KVmlrTmZtZWtfVHphRmFTTWoyZnJhQkJjVlRRWUhVcjZudW1hdG10NmNSRFR5cy1ETlBRTlEzS0VXejBaX3h4V3ZHRVR5TzdpZXo2WGY5TkFGRUhUQm9hQTdCUmdWNGExbUlZWDdTaDZnTkoxeGotVXhJSnNUTk5hM3FLdF9oZWt3TGIyaXNBY2ZNOWdQWDZQLUdiakZ4ckRyLTF1ZWYtNk5jUzMwcmV6VC00UFdNT2l1b9IB8gFBVV95cUxNVUZWYXV4WTNGRC03SHk0TmgxQTdOWFRYam4yYW5xWlMxZ3FCZzJGMU5KelhxZEJCRGRDQmwyZWVlRV9YT3FBa21NVTNqWFNyZ2hMd1I3R180OENwTlVKQThhUnVkQzRMdUVkMHRqSDZoZkVxZlpYY2pYOXpDb2YtUVllVFBqMlZGS2xOQzdnZ3VkYWtJNWFzdWZMdWtjRmFxXzdXQWFPcVZ0Q0c4MHR1dGlLbnpjenBWeDB2ZjY3MXB3RWRFMTF2UHJZSHdsWTNpaHZWaENWRjJ4M0JrV1BSR21mcVh5VUZDRXZsZXhQd1d5dw?oc=5
+
+- Defence Ministry opens missile, shell production to private sector | Latest News India - Hindustan Times
+  Defence Ministry opens missile, shell production to private sector.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHFpVmNVV1RtN1FSanR5dGMxUk0zeWxWY1pvM2JJYm84bUpkQjh2eGxUUU82NTJmRm5WM0JPeldXLV9xdC1tM3hmSEdDM0QxeTJuOUpXZktnOUlGX1ZmNURuM3RRZ3Q2aGtaWEJJMnV5aDZFaF9PbzROQ2dIcEdwYVRiQ1NGWFFfckJ3MDI5dUJ2aGxxRDlKYjF1aTg0TFBSYXdiTjNnZFlVM2Y1Q0ZKQ2NPVTVIWDh2azE1elBDWmd4YUZRa3hUT1NFX18wVXlZWFJaWURSd3hLdEpiaWFXVzh4bDbSAeoBQVVfeXFMTzU3YU1LY1gzeUxReU9UZmVPY3g2VEpNOVlxaWVnbXR0dzVGUHhFb2RfWFZZVnNxUEx0Ym95RGhHdFFTYTJwbzFUdi1PTWd0WUlCRXpmUnhBMmtra3JxMnJaQW5XbWt3RTlfanFnbm5hcHE1ZUI1WWRueWNtcndiRnhodHNyVXQ5NlU2cU9ISzFsYjhXWURjdHZVMXVyQS1wN1dYUzJweVRoUmxnNmpoYmUyekk0LWtPM1JjeUE2ekFmQXFoQW8ySHphV2pZNmpKdUdwell0UzRxOXdnTlhaZjhMekFjdkRVY3pB?oc=5
+
+- Russia’s decision to supply JF-17 jet engines to Pakistan a failure of PM’s personalised diplomacy, says Congress - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOXzJKMzZfaW9tSHRJdUVlWEp2OG14bUVIb1JwRGc5Z3FRdkhFRjhrbTBWZnRKLTB5ZFFJQTlYTW5pZjd1RUp4R3p2VFl5T0s2eXR3ejBVSnVNbHpfQVdpUEh5bjJGd2VZRn
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOXzJKMzZfaW9tSHRJdUVlWEp2OG14bUVIb1JwRGc5Z3FRdkhFRjhrbTBWZnRKLTB5ZFFJQTlYTW5pZjd1RUp4R3p2VFl5T0s2eXR3ejBVSnVNbHpfQVdpUEh5bjJGd2VZRnZ1LWhvdEpEOHY1dl90RXNpUDJvSkVDbm5iWmFCVk82RngxQURQWmtFMGx5OHA0ZlZ4T1dqaEVLa0ZWaDNQREtFbWhmNi1ydXdSd3FnYmFEeHFDb1ktN2J0UVBaM09MODFpS1h3ZjlVTWhocHlSVDZEODZBdVN3ajlBX3VLZHRyMGhoa1Q5aDF6TGVpNUhuS0tUQUfSAYMCQVVfeXFMT3c0MlZXcEhpWjFXa3RjaHlPUVU1STBrbjdsZWRTSXhZOTJuVTNBVDAxcU1fdzRKUHd6NmtuQVBfSlczbXNWT0FtMHVwV3FoZk94LU5wV1h0S1JZbDVyc0FIRnRTT2ZVdFZYalV6MHA2TDBtV2RxNDZmR0ZlTTB5a2o5OGk4NnBZVjBQOG5Qb2xLOUh3ODg1WDFtaEJZa0lxME15ZnFUdW14Y29vekdJTE5udndFWDNvZUJnUkYzMXZTNGcxOFhmRWp0TE16eGZZZmlzSGNBRmVJeXpVUUo0RW9pY1NiU3hYeVpFSi1ka1h0WTJ5TzlWZHpnSnRRRnJZMi0yMA?oc=5
+
+- Hikaru Nakamura's controversial gesture towards D Gukesh enrages fans - watch - Times of India
+  Hikaru Nakamura's controversial gesture towards D Gu
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU1lrWTVEWUdPemxzLUJmRFZ2SUVkSTNqdTZYNGh6YTRLOTJkLWNyVGVUMTJtUTJ2SjJRcUtCaDNNV3hHbVVySFdWRXBISS05RGc3ZFBDSGdZMkdNOHNJYmM3OWEwOXZkT19CV0tucWdUX3NTSkNDVXoyVm9pV25KWU9YeVhiSWNxYTVQNm01eWh0dmhySGpMYXgwSHh0QjJJQkhFaUNRZmE1ZG1xQnJucDFNU3BhTkNmZXlIYU9makRGWU14Z2hRc1V1WmdUV3F5MTItQUFjUHZVbVdLUWEwMFhPSdIB6AFBVV95cUxOQk53bWpBRlZGNmZqeXR0UEdFQ0JJMWhTVU9yZ2M5cXFYNjZyencyVERxWmxqX1ZvSDg5MVdqM214cUc4bkZvNE12ZXF3QkFXQXoyS3djMlJkTlc0NXVaTzRBdmZfQ1IyMUo5WkxoS1kyc1N1aW1Qa1A3Y3ZDLUxDai03MEZxN3c3Tk5RU0JkQlBRemp1cEJYZHd4bklvTU1haEgxSU85MXMxMVA2SFVnMXdmS1ZEdWVwRl9YcnJ0bWxkdUk1dVBYZllMTG9qUTI1Vkp6Nzd6MUt1TWVEaEFDR3ZMeVRtaFlT?oc=5
+
+- Indian Army joins in rescue of people hit by floods in Bhutan - The Hindu
+  Indian Army joins in rescue of people hit by floods in
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkxTMnhUWldYN0YwN2V4cHBfSmVERzNidHpPeW1reUxydnFTS2JtZWhURlF4b01ieGlLRzBFR293TFVIX3VaNi1NSldOYUZtRU9fMF9Cc2hrTk1WajVMODkyS0JqZDRCTEVIQlBHRmwtWE5qZUdneVFFY3RDNFh3em9pcnNxVTQ1Wmk1YmtwbU1weDBTRWtzcDhFSjU0M0M5WmVKUGYzOUtwRGZKeXRPeE80WmU4aExvNjRIQzcwSVViVHfSAcoBQVVfeXFMUC1iSnBpaFA2Y0liNHdieGtpLWF5Ti11dWtSb3FiY2FTTENQZDVyeUxaTXY1WW5JNlg5M05fV1BUYjRmZ1RMZnVQemhOLVNjdUdxZnV1WXNQc1hNZHRwSEcxUFVpZjR6ZFhMaE9OanFJZlZ2VDAxWlJ3TDhhelcwSzY5TFhSdUJ3VDFodnAtaGgyU0ZDSVYxTHdUd0E1X1NzU1QyTEJmRi1sU1VBY2t0Tm16MGw4MENRSFAyY0tJX0lsbkZkZXoxQkluZw?oc=5
+
+- Tempted by LG India’s ₹11,600-crore IPO? Here are five reasons you may want to invest. | Stock Market News - Mint
+  Tempted by LG India’s ₹11,600-cro
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUWUzTXJNNGhNeWxDVGdFM0k5TVN1WlpNejJIZlJsY2ZYV2w2a3VqR0Zlb1BJcEJKay1KVmlrTmZtZWtfVHphRmFTTWoyZnJhQkJjVlRRWUhVcjZudW1hdG10NmNSRFR5cy1ETlBRTlEzS0VXejBaX3h4V3ZHRVR5TzdpZXo2WGY5TkFGRUhUQm9hQTdCUmdWNGExbUlZWDdTaDZnTkoxeGotVXhJSnNUTk5hM3FLdF9oZWt3TGIyaXNBY2ZNOWdQWDZQLUdiakZ4ckRyLTF1ZWYtNk5jUzMwcmV6VC00UFdNT2l1b9IB8gFBVV95cUxNVUZWYXV4WTNGRC03SHk0TmgxQTdOWFRYam4yYW5xWlMxZ3FCZzJGMU5KelhxZEJCRGRDQmwyZWVlRV9YT3FBa21NVTNqWFNyZ2hMd1I3R180OENwTlVKQThhUnVkQzRMdUVkMHRqSDZoZkVxZlpYY2pYOXpDb2YtUVllVFBqMlZGS2xOQzdnZ3VkYWtJNWFzdWZMdWtjRmFxXzdXQWFPcVZ0Q0c4MHR1dGlLbnpjenBWeDB2ZjY3MXB3RWRFMTF2UHJZSHdsWTNpaHZWaENWRjJ4M0JrV1BSR21mcVh5VUZDRXZsZXhQd1d5dw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-05 06:23:30 UTC_
+_Last updated: 2025-10-05 12:31:01 UTC_
