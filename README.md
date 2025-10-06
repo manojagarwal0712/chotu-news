@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- 1 of 12 Bangladeshis who fled Narsingarh detention centre in Tripura recaptured, search on to trace the rest
+- ‘Bihar electoral rolls purified… foreigners among those deleted, figures shared with parties’: Chief Election Commissioner
   
-  🔗 https://indianexpress.com/article/india/bangladeshis-recaptured-narsingarh-detention-centre-tripura-10289670/
+  🔗 https://indianexpress.com/article/india/bihar-electoral-rolls-purified-foreigners-among-those-deleted-figures-shared-with-parties-chief-election-commissioner-10289860/
 
-- India, US yet to find ‘landing ground’ for trade talks, our red lines must be respected: Jaishankar
+- In Madhya Pradesh town with 11 cough syrup deaths, a refrain: ‘No facility, had to go to Nagpur’
   
-  🔗 https://indianexpress.com/article/india/india-us-landing-ground-trade-talks-red-lines-s-jaishankar-10289574/
+  🔗 https://indianexpress.com/article/india/in-madhya-pradesh-town-with-11-cough-syrup-deaths-a-refrain-no-facility-had-to-go-to-nagpur-10289875/
 
-- Carriers INS Vikrant, HMS Prince of Wales lead 8-day Indo-UK naval exercise off Western coast
+- UP govt orders seizure, testing of cough syrups
   
-  🔗 https://indianexpress.com/article/india/india-uk-begin-eight-day-maritime-exercise-off-west-coast-ins-vikrant-hms-prince-of-wales-taking-part-10289505/
+  🔗 https://indianexpress.com/article/india/up-govt-orders-seizure-testing-of-cough-syrups-10289954/
 
-- Railways sanctions Rs 396 crore for doubling Ranaghat-Bangaon section in West Bengal
+- In plea to SC, Sonam Wangchuk’s wife slams ‘systematic campaign’ & ‘baseless charges’
   
-  🔗 https://indianexpress.com/article/india/railways-sanctions-rs-396-crore-for-doubling-ranaghat-bangaon-section-in-west-bengal-10289446/
+  🔗 https://indianexpress.com/article/india/in-plea-to-sc-sonam-wangchuks-wife-slams-systematic-campaign-baseless-charges-10289918/
 
-- 5 stories you must read today, October 5: Darjeeling landslides kill 14, Greta Thunberg detained by Israel and more
+- Energy weapons, satellites, radar network key to Sudarshan Chakra
   
-  🔗 https://indianexpress.com/article/india/5-stories-you-must-read-today-october-5-darjeeling-landslides-kill-14-greta-thunberg-detained-by-israel-and-more-10289377/
+  🔗 https://indianexpress.com/article/india/energy-weapons-satellites-radar-network-key-to-sudarshan-chakra-10289885/
 
 - Fifty per cent off: Flagship headphone features at around Rs 5,000? You bet!
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/tech-reviews/dell-alienware-18-area-51-gaming-laptop-review-10288565/
 
+- Afcons shifts focus to Europe, Middle East amid Africa slowdown
+  The Shapoorji Pallonji Group company is awaiting the formal award for three Croatian bids worth over  ₹11,300 crore
+  🔗 https://www.livemint.com/companies/news/afcons-shifts-focus-to-europe-middle-east-amid-africa-slowdown-11759646479301.html
+
+- São Paulo Bars’ Liquor Sales Fall After Methanol Poisonings
+  Bars and restaurants across Brazil’s biggest state fear they could see as much as a 30% drop in business
+  🔗 https://www.livemint.com/companies/news/so-paulo-bars-liquor-sales-fall-after-methanol-poisonings-11759710098271.html
+
+- Tata Steel’s 40 mtpa ambition by 2030 faces execution hurdles
+  How Tata Steel will achieve 40 mtpa capacity in five years is unclear to analysts. Beyond expansion at Kalinganagar and Neelachal
+  🔗 https://www.livemint.com/companies/news/tata-steel-40-mtpa-ambition-2030-execution-hurdles-kalinganagar-neelachal-nnl-11759652934031.html
+
 - French fry-maker HyFun Foods eyes IPO by 2028, aims  ₹1,500 crore revenues in this fiscal: Report
   HyFun Foods, is planning to launch an initial public offering (IPO) by 2028. The company aims to hit  �
   🔗 https://www.livemint.com/companies/news/french-fry-maker-hyfun-foods-eyes-ipo-by-2028-aims-rs-1-500-crore-revenues-in-this-fiscal-report-11759676827299.html
@@ -48,37 +60,25 @@
   Bengaluru-based Prestige Group plans to build more relatively affordable homes to cater to a wider customer base. Sales across the top seven cities dipped 9% in the July
   🔗 https://www.livemint.com/companies/prestige-group-real-estate-luxury-housing-sales-india-mumbai-bengaluru-11759647217120.html
 
-- South Africa Gave Flight Permit to US-Sanctioned Russian Company
-  South Africa issued a flight permit to a Russian aircraft operator sanctioned by the US. South Africa says it
-  🔗 https://www.livemint.com/companies/news/south-africa-gave-flight-permit-to-us-sanctioned-russian-company-11759678895237.html
+- Global Markets Today: Nikkei 225 hits record high, Australia's ASX trades in green
+  Japan’s Nikkei 225 index surged more than 4 per cent to a record high on Monday. In Australia,
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-hits-record-high-australias-asx-trades-in-green-11759711579085.html
 
-- How much is Alakh Pandey's net worth after surpassing Shah Rukh Khan's wealth?
-  Hurun India Rich List 2025 data show that Alakh Pandey's net worth recorded a stellar rise in 2024, paving the way for his inclusion among key businessmen, entrepreneurs
-  🔗 https://www.livemint.com/companies/people/how-much-is-physicswallah-alakh-pandeys-net-worth-after-surpassing-shah-rukh-khans-wealth-11759670933831.html
+- Pace Digitek IPO listing date today. GMP, experts signal debut of shares at modest premium in stock market today
+  Pace Digitek IPO listing date is today, October 6, and the shares will be listed on both the stock exchanges, BSE and NSE.
+  🔗 https://www.livemint.com/market/ipo/pace-digitek-ipo-listing-date-today-gmp-experts-signal-debut-of-shares-at-modest-premium-in-stock-market-today-11759711678204.html
 
-- Blacklisted Russian Plane Lands in South Africa, Rapport Says
-  A blacklisted Russian cargo plane landed in South Africa with a heavy load on Thursday. The plane departed with an empty hold
-  🔗 https://www.livemint.com/companies/news/blacklisted-russian-plane-lands-in-south-africa-rapport-says-11759671571591.html
+- Canara Robeco IPO: Price band set at  ₹253-266 per share; check key dates, issue details, more
+  The IPO consists of 4.98 crore shares, with no fresh issues. Canara Bank and ORIX are selling 25% of the AMC.
+  🔗 https://www.livemint.com/market/ipo/canara-robeco-ipo-gmp-canara-robeco-ipo-date-canara-robeco-ipo-price-band-canara-robeco-asset-management-ipo-gmp-11759685832015.html
 
-- Wall Street week ahead: Market awaits Jerome Powell speech, Q3 earnings, Fed minutes
-  Economic data, typically a key driver, will take a backseat due to
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-market-awaits-jerome-powell-speech-q3-earnings-fed-minutes-11759682037071.html
+- Stock market today: Trade setup for Nifty 50, Israel-Hamas War to Tata Capital IPO; 8 stocks to buy or sell
+  Sensex and Nifty 50 saw gains for the second consecutive session, buoyed by positive global market momentum. Analysts predict a mildly bullish range for Nifty50, with several
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-israel-hamas-war-to-tata-capital-ipo-8-stocks-to-buy-or-sell-11759678863839.html
 
-- Bulls Seeing Piling Into Emerging Markets as Momentum Returns
-  Emerging market assets look set to cap a banner year. Investors expecting inflows into equities and
-  🔗 https://www.livemint.com/market/stock-market-news/bulls-seeing-piling-into-emerging-markets-as-momentum-returns-11759668842724.html
-
-- Tempted by LG India’s  ₹11,600-crore IPO? Here are five reasons you may want to invest.
-  According to EY, the average return from Indian IPOs in 2024 was 37%, far higher than the 7% delivered by the broader market. It’s this kind of disconnect that
-  🔗 https://www.livemint.com/market/stock-market-news/tempted-by-lg-india-s-rs-11-600-crore-ipo-here-are-five-reasons-you-may-want-to-invest-11759665529890.html
-
-- India-Turkey conflict: Can gold price touch  ₹1.25 lakh by Diwali on rising geopolitical tension?
-  On the geopolitical front, post-Operation Sindoor, rising tensions between India and Turkey may further boost gold’
-  🔗 https://www.livemint.com/market/commodities/indiaturkey-conflict-can-gold-price-touch-1-25-lakh-by-diwali-on-rising-geopolitical-tension-11759653329869.html
-
-- OPEC  Nears Accord for Modest November Production Hike
-  OPEC is close to an agreement in principle to make another modest supply increase for November.
-  🔗 https://www.livemint.com/market/stock-market-news/opec-nears-accord-for-modest-november-production-hike-11759657967264.html
+- Dalal Street might light up with a pre-Diwali rally
+  Market experts predict a rally in Indian stocks, aiming for a June-end high of 25,669.30. fueled by fiscal and monetary measures, a recent short squeeze
+  🔗 https://www.livemint.com/market/dalal-street-might-light-up-with-a-pre-diwali-rally-11759639099407.html
 
 - OnePlus 15 global launch date, specifications and images leaked ahead of launch: Here's what to expect
   The OnePlus 15 will debut in China on October 27 and may launch globally on November 13. It boasts a Snapdragon 8 Elite Gen 5 processor, 165Hz display, new
@@ -100,73 +100,125 @@
   Apple CEO Tim Cook honored founder Steve Jobs on his death anniversary. Cook said Jobs inspired others and lit the way forward for future innovations.
   🔗 https://www.livemint.com/technology/tech-news/tim-cook-pays-emotional-tribute-to-steve-jobs-on-his-death-anniversary-we-miss-you-my-friend-11759675017194.html
 
-- Bulls Seeing Piling Into Emerging Markets as Momentum Returns - Mint
-  " target="_blank"
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPMktua1ZoNWc4VUgtMS1xa0g3TXFGOGJCbjZvaHNVbzJjZC1VQjd3cFJzZmkxd0RYMlB4WVhtXzR1SHZ3RklJYzhQeWhuWWN2VmxMc2Q1RmgtNmVQNVVUX3ZndHAzcXZRU3ZhNzdubFpfNHpNRHl6TG9xbEdUY0pkaS1GQXVNTjB1NU5JcTRIa3NGb3RQZXJraGloek8zWGstbHdlOGl4Tmh3MUNabzR2VzJkTGRfZFhVMzBNbFRYVzEzR21hQklzRVlIONIB0AFBVV95cUxPMmpmM3pEM3FuOEp4a0lhZFVYOFo3bmFhelF5TWt5Y3VmSkhhRXhJTjBBSWxyM21zbnEzRkxyMzJnQTVEbWwyWEtJU3V1NWVISHRqTEJWaU51aGtxeG1ja0Y1WnJ1VXJMWGMzcmZPblNua0dWdU1taks1N3hIb0pUWkdLX0VCODFyalZHblVMdXAtTGVmTEoyVlc0U3F2b0FHUXotS0NRdXNiVDBQcGJNMEVCMkJnT1VJZ1AzUmY2YWRhM01mLXd0UDhiaFNGUUFW?oc=5
+- Wall Street traders brace for extended shutdown amid lofty valuations
+  S&amp;P 500 at dot-com levels, experts warn of a potential 5-10% pullback. Experts advise investors to trim highly valued positions.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/wall-street-traders-brace-for-extended-shutdown-amid-lofty-valuations/articleshow/124328240.cms
 
-- Stock market today: Dow, S&P 500 close at record highs to cap Wall Street's latest winning week - Yahoo Finance
-  The Dow, S&amp;P 500 close at record highs to cap Wall
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVy0xQkxuaFExdWoybWh3X012NEcyYU5mMTFWTkZKZTlYWk9abDk2LWg3UlRVVzhCUTZzRUJGVEdEZDFhRlBzeDBaZW85LS1YNlZMM21saWg1WUhybXdtWjNlQmNVVzdNU3pWQzVZUUllY1BhQWVNZkhCWXFEZVZXQWpRSkdGX1lCN09hVmc0Sk5HR2NmVUVtVmhGMllZaFQwd0pUZzRRR3pJWF9CU2loRlNkQUl1QVRuWERjMGVaWWcyNTZNU2xJNHBYVmxEczdYOG55aHN1dG5iQQ?oc=5
+- The biggest pension fund puts impact investing on the agenda
+  Japan's largest pension fund is considering impact investing. Impact investing focuses on climate, health, and inclusivity. It provides a driver for company development.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/the-biggest-pension-fund-puts-impact-investing-on-the-agenda/articleshow/124328218.cms
 
-- Dalal Street Week Ahead: FOMC minutes, Powell speech, TCS, Tata Capital IPO among 10 key factors to watch - Moneycontrol
-  Dalal Street Week Ahead: FOMC minutes, Powell speech, T
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRE1KTzFIZmIybzQ5SGFtanRhbzE3Z2VkZGJQNlpnZFVRN0w3RlhLM3hZbWtyTENTQXpGMUwyZ2VsdzRZNG5oY19PRnJXTnJ4UzNZUnUtMnJ4cFVXT2hjWkZMNXJPOGpfeEZYSTBxYklHR1hnSkhjU1pVUDdoQ0p0RmZTOUR1X0lybkNoNkpjeVdRRXRLc0QzWTQ2Y0JybnBPMHdlbm5hN2Z6VHNFVm9OekhucDdrQy1uWmE5czl3aE1MVElUeFVfYjRwWjlXYlNUY080d0dYbWM4amgxUFJ4VWRwd2JTb2xYUVd4NDZnSlZQZThkU1FHU2FR0gH_AUFVX3lxTFBIdHphTUctSEFVNEtBTE1SMVBQUnpsdWF4WlN2NktyYWl2QmlQQ1dRN0s3d0hoVWZZNHFwVXRrSkZaTFYzcWU0cnI1T2tpbzIxNmZrc19CUTJENlFMdlp0WWVpM2dFQUdMSFlHVXJsTGxTSGJGVVdjRVlXUmlLd1Nzd1NjdGlZV2tJZHFNM2ZJZTlEczFFUGQyakk0NG51RUpJcGtqTzhkeFYzZndITTN2bktBNEZnVDNwWTRWSUtnd1lPOG1sUmMybHpjQzgxd05aU0l6OWJzSklkX25xVU9JWFR6SDVKMWxZdGliY2xHZEFXdHpOY3owc3hoRzJTWQ?oc=5
+- Pre-market action: Here's the trade setup for today's session
+  Indian equities closed higher for a second consecutive session on Friday. Analysts expect sustained positive momentum, supported by accommodative monetary policy and a favorable monsoon.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124322856.cms
 
-- Here are the 3 big things we're watching in the stock market this week - CNBC
-  Here are the 3 big things we're watching in the stock
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTdKdzRwb29NdW4xT1lBTWQta2F1cUxFS29venJNWXMtR25EeHVid3FiSXZNUXFBcl93cHNISjUyNV9NbExKSGZqam0wWnBqa3hvUGtlUHEyOTB0MjFMX3NCbW9aeEs3c0VXZjJKcTNpazN5eHo1VGpPZnYyVGtGOUtESC1vSTJlbnFtdEg2WUJlRWlsVnBOaE9IMkwwTWZfUTRz?oc=5
+- Is  Tata Capital IPO a long-term bet or wait-and-watch opportunity?
+  Tata Capital's upcoming IPO is priced at a discount, reflecting its lower net interest margin and return ratios compared to peers. While its loan book grew significantly, a merger with Tata Motors Finance increased its gross
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/is-tata-capital-ipo-a-long-term-bet-or-wait-and-watch-opportunity/articleshow/124328192.cms
 
-- FII outflows from Indian markets touch Rs 1.98 lakh cr in 2025; total selling hits Rs 3.19 lakh crore over - The Economic Times
-  FII outflows from Indian markets touch Rs 1.98 lakh cr in 2025; total selling hits
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxNcHg4Z3JDOUFaS0NSam5Gd0ZHaXBnakVjenE3X3pkWkdLeFR0dzBkR2JmRTJkM3BfT3lxVkZLcEhFZlpyeDN1a0lBOGkxWm0xck1HVElaWmMtemlCV0ZIN01mckVpbnRwTDRPV2xRZkZsNjR6WGs3b3MzVU5Ydi1TbThfcGVDWklIRlhPSC1MZk0tZXBJNERjWHpxM0ZMYURabFZ5RDN1TXdlZW9GQXUxU29heFROckhSbDVVMDNldklRVDF1QTZ6d1NYLUNDV3VIbVUwMTVlN1d0enYycURtblVKUVZHQURvWkRxM3FRSEdwWWNyMzdPcEVDTUFSbEhkZkNqSHRaQjQ4UnJpLXRxcV9kcFpJR1FT0gGeAkFVX3lxTE03LTEySFphYmVoOTVia0tMSnEzdzJ2SlZGRkJUamlJaHRReXpOZ1pjbEdUU2Y2YkVzbzM1WDdneUkzVFJnMHRKemp4b0dtYW1xNXdPbmtxLU93MHVUNGRYS201MU1TdlZtMldoYTdoNDVCS20zZVBSOGtVYXR0TjgwbFVndkRQR1JJZTBLa0h1cUc0dVhYSEZrWVZnS0xQR3VXeExYeWt5d3I2blNSOXhyaWdwcmVuU29WWnp6MDRKc2V6b1BtMHdmVzdRMHhHNFQtNWhKRjYwc0xSbmtXNy1uUFpITnFvcWJuVWtIS2RmNXlrSTdxdThZcTA5TlJZOVNpZXFpVHpMRnV5eE9jUDZ0NU9FX01Kc1F3ZmJqLVE?oc=5
+- RBI intensifies intervention in offshore market to stabilize rupee amid tariff pressures
+  Short positions in NDF segments rose significantly in August. This marked a major build-up in nearly five months. Reserve Bank of India increased its NDF market intervention.
+  🔗 https://economictimes.indiatimes.com/markets/forex/rbi-intensifies-intervention-in-offshore-market-to-stabilize-rupee-amid-tariff-pressures/articleshow/124328163.cms
 
-- Tata Capital, LG Electronics India to launch IPOs worth over Rs 27,000 crore next week
-  Two major companies, Tata Capital Ltd and LG Electronics India Ltd, gear up to launch their initial public offerings (IPOs) collectively worth more than Rs 27,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-capital-lg-electronics-india-to-launch-ipos-worth-over-rs-27000-crore-next-week/articleshow/124320050.cms
+- Russia’s decision to supply JF-17 jet engines to Pakistan a failure of PM’s personalised diplomacy, says Congress - The Hindu
+  Russia’s decision to supply JF-17 jet engines to Pakistan a
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOXzJKMzZfaW9tSHRJdUVlWEp2OG14bUVIb1JwRGc5Z3FRdkhFRjhrbTBWZnRKLTB5ZFFJQTlYTW5pZjd1RUp4R3p2VFl5T0s2eXR3ejBVSnVNbHpfQVdpUEh5bjJGd2VZRnZ1LWhvdEpEOHY1dl90RXNpUDJvSkVDbm5iWmFCVk82RngxQURQWmtFMGx5OHA0ZlZ4T1dqaEVLa0ZWaDNQREtFbWhmNi1ydXdSd3FnYmFEeHFDb1ktN2J0UVBaM09MODFpS1h3ZjlVTWhocHlSVDZEODZBdVN3ajlBX3VLZHRyMGhoa1Q5aDF6TGVpNUhuS0tUQUfSAYMCQVVfeXFMT3c0MlZXcEhpWjFXa3RjaHlPUVU1STBrbjdsZWRTSXhZOTJuVTNBVDAxcU1fdzRKUHd6NmtuQVBfSlczbXNWT0FtMHVwV3FoZk94LU5wV1h0S1JZbDVyc0FIRnRTT2ZVdFZYalV6MHA2TDBtV2RxNDZmR0ZlTTB5a2o5OGk4NnBZVjBQOG5Qb2xLOUh3ODg1WDFtaEJZa0lxME15ZnFUdW14Y29vekdJTE5udndFWDNvZUJnUkYzMXZTNGcxOFhmRWp0TE16eGZZZmlzSGNBRmVJeXpVUUo0RW9pY1NiU3hYeVpFSi1ka1h0WTJ5TzlWZHpnSnRRRnJZMi0yMA?oc=5
 
-- FPIs offload equities worth Rs 23,885 cr in Sep; total outflow reaches Rs 1.6 lakh cr in 2025
-  Foreign portfolio investors (FPIs) remained net sellers of Indian equities in September. They withdrew Rs 23,885 crore (around USD
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpis-offload-equities-worth-rs-23885-cr-in-sep-total-outflow-reaches-rs-1-6-lakh-cr-in-2025/articleshow/124320017.cms
+- Pakistan's ‘buried under' threat after India says 'can cross any border' as heat rises | Latest News India - Hindustan Times
+  Pakistan's ‘buried under' threat after India says 'can cross any border
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbzJfTTFUb0pOTC1kQURGYmVTWEtsZDU2QmdKUm0wOFBONjBUaDJYV3djSXVQT0I5N3VUeXNqRFZpdmNXdUhnVnozNjNaMFhjYktfcnFzWHdSMUZ2SnhPdmdoWl9LaUlGMmk2N19DYmFqR3lhTlozbFR6ZE81X0RUVHliN3pCQnEwT2VGd0xMNWJCQWhCaWZVY2NLdjViWFZWVDdTVGo1XzNpRXhPTngzbENRWVZrQmNDZkM1aENjNFkwSm9fd083UXhZN3d2RGdt0gHWAUFVX3lxTFB0QTQ4WGt5YVZHTk9UdnNZUlZVbFBCTXBqVmd1dEwwd05zWnFBWkVvRVNHZGhnUXNydTdLcnRVb0xWTnU2RmZtbzNTc0FHbWxDWktwY1NfN3RONE5aczMtSnhBX3o2NEZmbkRONUo0bDZGUFJlWHpoQ1RqdXV0ZEhlSE9zSFBkWkJxYXlYRnNTbkEtbzl5NWJsemNrc1FWZUh5b0lmbnMyN0h4dTNBTWg3WWp0cjJTZkFRbkltVGNNT1F0S19pWVJkcnVLMm5Na1ZrR3BCSUE?oc=5
 
-- Mcap of 7 of top-10 most valued firms climbs Rs 74,573 cr; HDFC Bank biggest gainer
-  The combined market valuation of seven of the top-10 most valued firms climbed Rs 74,573.63 crore in a holiday-shortened last week. HD
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-7-of-top-10-most-valued-firms-climbs-rs-74573-cr-hdfc-bank-biggest-gainer/articleshow/124319983.cms
+- Mohan Bhagwat's "I Have To Take It Back" Comment On PoK Draws Applause - NDTV
+  Mohan Bhagwat's "I Have To Take
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjhOYVg5elVNNnkwU3hfWU5UdFpyR0xJdmdTXy1ISy1DOUR5eDJqcmVMR2xiNi1VZlhvMWkyQ2RBSk5WNDRaajJ4N3VsTkYteE93TlhtcXd5RnkwbzFidUlXN01VSi1JeXlHalBzdm9PQjJlYS1SWE1id1lzcVRfQ2F6NFZYdWxLZTdNOE9RMk1xTzZEYkhtUFB1THQ2dHV2SExaNlVPM3BKMUgxWTE2RjJYNHlfMGdY0gHAAUFVX3lxTFBYdm1DcXowUEFiaExORUJfWGpPOWozb21tbDdiMlQwNFhwcHUzYTBCLVRWYjZySm9TMXN3Tk5RdUJTbmY1LVNpWG96QkZCTENYUF9iNzRCQjA4TjV1NHB0WmF0S2hHV3g3djF5ODFNQmtEUExZazlKS2xlOTJsT0hvcHBINlUtOXNrcURxdzJZSFZ0U3BxQkZQWkNscTBSVktqQWdLX2doNm5oMjQxU3AtNThEeEthM3loRXMwS1FjLQ?oc=5
 
-- Mcap of 7 of top-10 most valued firms climbs Rs 74,573 cr; HDFC Bank biggest gainer
-  The combined market valuation of seven of the top-10 most valued firms climbed Rs 74,573.63 crore in a holiday-shortened last week. HD
-  🔗 https://economictimes.indiatimes.com/markets/stocks/mcap-of-7-of-top-10-most-valued-firms-climbs-rs-74573-cr-hdfc-bank-biggest-gainer/articleshow/124319959.cms
+- Two new airports that will change how Indians fly - The Times of India
+  Two new airports that will change how Indians fly.
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaEF5QnI1VTRmdEZPeTZUZHRmYTNyTXNRdUlHZE9TZjNjWUNWRnZwSmhLR1JlY1ltdXk1eF9DWHlDRVJnR2NzRnEwUTlBYWFWekpwN0s3U0hNTUY2UUEzTERmMXNMYmlpYVBnMHp4RXc4eVJOWXE2Z1JiV0ZaVXhRYV80WHhKSnY2V29Pc3J6Vkw1bmZpelR3OGZxVGl6ZXN2X2w4RTBVWFltd25tNlE1UGt2Q2l3Rnky0gG-AUFVX3lxTE9GekhGbXI2S0liWnRDNXZJelFteXQwU2lJMHZHUVNSVWdjTVFWeWN5SzVhQXh4MG1UX05PVzJNbWI1UGV4c3JSR2VYQ1c1eVRORWRYclJoVlZ6cXhvZ2dwM3B6MnNzMkdEbXFzeW5obDBCdkpZUmY1Ymx4YWxkbVFselFKMzJZZTBfUEhhRF9QZl8yT1EtbG92WDhhZ3pua2luUHczWUg2TDlEalFacEJZQ2NTM1N2WnFQQ1E4WGc?oc=5
 
-- Canara HSBC Life Insurance IPO dates announced. Check key details
-  Canara HSBC Life Insurance will launch its maiden public offer from October 10 to 14. The offer-for-sale of 23.75 crore shares by its promoters and PNB.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/canara-hsbc-life-insurance-ipo-dates-announced-check-key-details/articleshow/124319946.cms
+- Internet Banned, 36-Hour Curfew In Odisha's Cuttack After Clashes - NDTV
+  Internet Banned, 36-Hour
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDBVaXR4Um9BRkRtMDhxaWpoODM3MXh6aUxvLUd5LW1yZnBiaEdhMXNfM3JKci04X2RJemNTR2YycTBkd2JQbjFPUENyYmdrbnJXZ2dSWi1Id1pRQW5ieVhCdFQ2Uk9hRUFocWR2NU5lSjVsZ29xRHk5cS1lTTRRQVNJdzRjRjM5UTZqUFFjUUV1eU5Falp1eXhldWpodXpj0gGoAUFVX3lxTE9JdE9ZaTlFTUg4TU9CTHlEVjlReGlOTVlDNUlEU1p1ZmpLLVpBYUVTam9RT3Mwelg5dlBZSlBRRVhhNmE3N05pc2pHQjJyTmVjNG45b3U3Sy11RWFseGJ6QWV4NW9VQUxfSF9KakhWUU5fSXZIdUlraVZDU3VzeGJLbkMyejZ1eHhDWHBaS2hpUko0dUFXWHpScHo5YnZpWEJmWm9LaHdrZQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Russia’s decision to supply JF-17 jet engines to Pakistan a failure of PM’s personalised diplomacy, says Congress - The Hindu
+  Russia’s decision to supply JF-17 jet engines to Pakistan a
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOXzJKMzZfaW9tSHRJdUVlWEp2OG14bUVIb1JwRGc5Z3FRdkhFRjhrbTBWZnRKLTB5ZFFJQTlYTW5pZjd1RUp4R3p2VFl5T0s2eXR3ejBVSnVNbHpfQVdpUEh5bjJGd2VZRnZ1LWhvdEpEOHY1dl90RXNpUDJvSkVDbm5iWmFCVk82RngxQURQWmtFMGx5OHA0ZlZ4T1dqaEVLa0ZWaDNQREtFbWhmNi1ydXdSd3FnYmFEeHFDb1ktN2J0UVBaM09MODFpS1h3ZjlVTWhocHlSVDZEODZBdVN3ajlBX3VLZHRyMGhoa1Q5aDF6TGVpNUhuS0tUQUfSAYMCQVVfeXFMT3c0MlZXcEhpWjFXa3RjaHlPUVU1STBrbjdsZWRTSXhZOTJuVTNBVDAxcU1fdzRKUHd6NmtuQVBfSlczbXNWT0FtMHVwV3FoZk94LU5wV1h0S1JZbDVyc0FIRnRTT2ZVdFZYalV6MHA2TDBtV2RxNDZmR0ZlTTB5a2o5OGk4NnBZVjBQOG5Qb2xLOUh3ODg1WDFtaEJZa0lxME15ZnFUdW14Y29vekdJTE5udndFWDNvZUJnUkYzMXZTNGcxOFhmRWp0TE16eGZZZmlzSGNBRmVJeXpVUUo0RW9pY1NiU3hYeVpFSi1ka1h0WTJ5TzlWZHpnSnRRRnJZMi0yMA?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Pakistan's ‘buried under' threat after India says 'can cross any border' as heat rises | Latest News India - Hindustan Times
+  Pakistan's ‘buried under' threat after India says 'can cross any border
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbzJfTTFUb0pOTC1kQURGYmVTWEtsZDU2QmdKUm0wOFBONjBUaDJYV3djSXVQT0I5N3VUeXNqRFZpdmNXdUhnVnozNjNaMFhjYktfcnFzWHdSMUZ2SnhPdmdoWl9LaUlGMmk2N19DYmFqR3lhTlozbFR6ZE81X0RUVHliN3pCQnEwT2VGd0xMNWJCQWhCaWZVY2NLdjViWFZWVDdTVGo1XzNpRXhPTngzbENRWVZrQmNDZkM1aENjNFkwSm9fd083UXhZN3d2RGdt0gHWAUFVX3lxTFB0QTQ4WGt5YVZHTk9UdnNZUlZVbFBCTXBqVmd1dEwwd05zWnFBWkVvRVNHZGhnUXNydTdLcnRVb0xWTnU2RmZtbzNTc0FHbWxDWktwY1NfN3RONE5aczMtSnhBX3o2NEZmbkRONUo0bDZGUFJlWHpoQ1RqdXV0ZEhlSE9zSFBkWkJxYXlYRnNTbkEtbzl5NWJsemNrc1FWZUh5b0lmbnMyN0h4dTNBTWg3WWp0cjJTZkFRbkltVGNNT1F0S19pWVJkcnVLMm5Na1ZrR3BCSUE?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Mohan Bhagwat's "I Have To Take It Back" Comment On PoK Draws Applause - NDTV
+  Mohan Bhagwat's "I Have To Take
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjhOYVg5elVNNnkwU3hfWU5UdFpyR0xJdmdTXy1ISy1DOUR5eDJqcmVMR2xiNi1VZlhvMWkyQ2RBSk5WNDRaajJ4N3VsTkYteE93TlhtcXd5RnkwbzFidUlXN01VSi1JeXlHalBzdm9PQjJlYS1SWE1id1lzcVRfQ2F6NFZYdWxLZTdNOE9RMk1xTzZEYkhtUFB1THQ2dHV2SExaNlVPM3BKMUgxWTE2RjJYNHlfMGdY0gHAAUFVX3lxTFBYdm1DcXowUEFiaExORUJfWGpPOWozb21tbDdiMlQwNFhwcHUzYTBCLVRWYjZySm9TMXN3Tk5RdUJTbmY1LVNpWG96QkZCTENYUF9iNzRCQjA4TjV1NHB0WmF0S2hHV3g3djF5ODFNQmtEUExZazlKS2xlOTJsT0hvcHBINlUtOXNrcURxdzJZSFZ0U3BxQkZQWkNscTBSVktqQWdLX2doNm5oMjQxU3AtNThEeEthM3loRXMwS1FjLQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Two new airports that will change how Indians fly - The Times of India
+  Two new airports that will change how Indians fly.
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaEF5QnI1VTRmdEZPeTZUZHRmYTNyTXNRdUlHZE9TZjNjWUNWRnZwSmhLR1JlY1ltdXk1eF9DWHlDRVJnR2NzRnEwUTlBYWFWekpwN0s3U0hNTUY2UUEzTERmMXNMYmlpYVBnMHp4RXc4eVJOWXE2Z1JiV0ZaVXhRYV80WHhKSnY2V29Pc3J6Vkw1bmZpelR3OGZxVGl6ZXN2X2w4RTBVWFltd25tNlE1UGt2Q2l3Rnky0gG-AUFVX3lxTE9GekhGbXI2S0liWnRDNXZJelFteXQwU2lJMHZHUVNSVWdjTVFWeWN5SzVhQXh4MG1UX05PVzJNbWI1UGV4c3JSR2VYQ1c1eVRORWRYclJoVlZ6cXhvZ2dwM3B6MnNzMkdEbXFzeW5obDBCdkpZUmY1Ymx4YWxkbVFselFKMzJZZTBfUEhhRF9QZl8yT1EtbG92WDhhZ3pua2luUHczWUg2TDlEalFacEJZQ2NTM1N2WnFQQ1E4WGc?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Internet Banned, 36-Hour Curfew In Odisha's Cuttack After Clashes - NDTV
+  Internet Banned, 36-Hour
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDBVaXR4Um9BRkRtMDhxaWpoODM3MXh6aUxvLUd5LW1yZnBiaEdhMXNfM3JKci04X2RJemNTR2YycTBkd2JQbjFPUENyYmdrbnJXZ2dSWi1Id1pRQW5ieVhCdFQ2Uk9hRUFocWR2NU5lSjVsZ29xRHk5cS1lTTRRQVNJdzRjRjM5UTZqUFFjUUV1eU5Falp1eXhldWpodXpj0gGoAUFVX3lxTE9JdE9ZaTlFTUg4TU9CTHlEVjlReGlOTVlDNUlEU1p1ZmpLLVpBYUVTam9RT3Mwelg5dlBZSlBRRVhhNmE3N05pc2pHQjJyTmVjNG45b3U3Sy11RWFseGJ6QWV4NW9VQUxfSF9KakhWUU5fSXZIdUlraVZDU3VzeGJLbkMyejZ1eHhDWHBaS2hpUko0dUFXWHpScHo5YnZpWEJmWm9LaHdrZQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Russia’s decision to supply JF-17 jet engines to Pakistan a failure of PM’s personalised diplomacy, says Congress - The Hindu
+  Russia’s decision to supply JF-17 jet engines to Pakistan a
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOXzJKMzZfaW9tSHRJdUVlWEp2OG14bUVIb1JwRGc5Z3FRdkhFRjhrbTBWZnRKLTB5ZFFJQTlYTW5pZjd1RUp4R3p2VFl5T0s2eXR3ejBVSnVNbHpfQVdpUEh5bjJGd2VZRnZ1LWhvdEpEOHY1dl90RXNpUDJvSkVDbm5iWmFCVk82RngxQURQWmtFMGx5OHA0ZlZ4T1dqaEVLa0ZWaDNQREtFbWhmNi1ydXdSd3FnYmFEeHFDb1ktN2J0UVBaM09MODFpS1h3ZjlVTWhocHlSVDZEODZBdVN3ajlBX3VLZHRyMGhoa1Q5aDF6TGVpNUhuS0tUQUfSAYMCQVVfeXFMT3c0MlZXcEhpWjFXa3RjaHlPUVU1STBrbjdsZWRTSXhZOTJuVTNBVDAxcU1fdzRKUHd6NmtuQVBfSlczbXNWT0FtMHVwV3FoZk94LU5wV1h0S1JZbDVyc0FIRnRTT2ZVdFZYalV6MHA2TDBtV2RxNDZmR0ZlTTB5a2o5OGk4NnBZVjBQOG5Qb2xLOUh3ODg1WDFtaEJZa0lxME15ZnFUdW14Y29vekdJTE5udndFWDNvZUJnUkYzMXZTNGcxOFhmRWp0TE16eGZZZmlzSGNBRmVJeXpVUUo0RW9pY1NiU3hYeVpFSi1ka1h0WTJ5TzlWZHpnSnRRRnJZMi0yMA?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Pakistan's ‘buried under' threat after India says 'can cross any border' as heat rises | Latest News India - Hindustan Times
+  Pakistan's ‘buried under' threat after India says 'can cross any border
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbzJfTTFUb0pOTC1kQURGYmVTWEtsZDU2QmdKUm0wOFBONjBUaDJYV3djSXVQT0I5N3VUeXNqRFZpdmNXdUhnVnozNjNaMFhjYktfcnFzWHdSMUZ2SnhPdmdoWl9LaUlGMmk2N19DYmFqR3lhTlozbFR6ZE81X0RUVHliN3pCQnEwT2VGd0xMNWJCQWhCaWZVY2NLdjViWFZWVDdTVGo1XzNpRXhPTngzbENRWVZrQmNDZkM1aENjNFkwSm9fd083UXhZN3d2RGdt0gHWAUFVX3lxTFB0QTQ4WGt5YVZHTk9UdnNZUlZVbFBCTXBqVmd1dEwwd05zWnFBWkVvRVNHZGhnUXNydTdLcnRVb0xWTnU2RmZtbzNTc0FHbWxDWktwY1NfN3RONE5aczMtSnhBX3o2NEZmbkRONUo0bDZGUFJlWHpoQ1RqdXV0ZEhlSE9zSFBkWkJxYXlYRnNTbkEtbzl5NWJsemNrc1FWZUh5b0lmbnMyN0h4dTNBTWg3WWp0cjJTZkFRbkltVGNNT1F0S19pWVJkcnVLMm5Na1ZrR3BCSUE?oc=5
+
+- Mohan Bhagwat's "I Have To Take It Back" Comment On PoK Draws Applause - NDTV
+  Mohan Bhagwat's "I Have To Take
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjhOYVg5elVNNnkwU3hfWU5UdFpyR0xJdmdTXy1ISy1DOUR5eDJqcmVMR2xiNi1VZlhvMWkyQ2RBSk5WNDRaajJ4N3VsTkYteE93TlhtcXd5RnkwbzFidUlXN01VSi1JeXlHalBzdm9PQjJlYS1SWE1id1lzcVRfQ2F6NFZYdWxLZTdNOE9RMk1xTzZEYkhtUFB1THQ2dHV2SExaNlVPM3BKMUgxWTE2RjJYNHlfMGdY0gHAAUFVX3lxTFBYdm1DcXowUEFiaExORUJfWGpPOWozb21tbDdiMlQwNFhwcHUzYTBCLVRWYjZySm9TMXN3Tk5RdUJTbmY1LVNpWG96QkZCTENYUF9iNzRCQjA4TjV1NHB0WmF0S2hHV3g3djF5ODFNQmtEUExZazlKS2xlOTJsT0hvcHBINlUtOXNrcURxdzJZSFZ0U3BxQkZQWkNscTBSVktqQWdLX2doNm5oMjQxU3AtNThEeEthM3loRXMwS1FjLQ?oc=5
+
+- Two new airports that will change how Indians fly - The Times of India
+  Two new airports that will change how Indians fly.
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaEF5QnI1VTRmdEZPeTZUZHRmYTNyTXNRdUlHZE9TZjNjWUNWRnZwSmhLR1JlY1ltdXk1eF9DWHlDRVJnR2NzRnEwUTlBYWFWekpwN0s3U0hNTUY2UUEzTERmMXNMYmlpYVBnMHp4RXc4eVJOWXE2Z1JiV0ZaVXhRYV80WHhKSnY2V29Pc3J6Vkw1bmZpelR3OGZxVGl6ZXN2X2w4RTBVWFltd25tNlE1UGt2Q2l3Rnky0gG-AUFVX3lxTE9GekhGbXI2S0liWnRDNXZJelFteXQwU2lJMHZHUVNSVWdjTVFWeWN5SzVhQXh4MG1UX05PVzJNbWI1UGV4c3JSR2VYQ1c1eVRORWRYclJoVlZ6cXhvZ2dwM3B6MnNzMkdEbXFzeW5obDBCdkpZUmY1Ymx4YWxkbVFselFKMzJZZTBfUEhhRF9QZl8yT1EtbG92WDhhZ3pua2luUHczWUg2TDlEalFacEJZQ2NTM1N2WnFQQ1E4WGc?oc=5
+
+- Internet Banned, 36-Hour Curfew In Odisha's Cuttack After Clashes - NDTV
+  Internet Banned, 36-Hour
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDBVaXR4Um9BRkRtMDhxaWpoODM3MXh6aUxvLUd5LW1yZnBiaEdhMXNfM3JKci04X2RJemNTR2YycTBkd2JQbjFPUENyYmdrbnJXZ2dSWi1Id1pRQW5ieVhCdFQ2Uk9hRUFocWR2NU5lSjVsZ29xRHk5cS1lTTRRQVNJdzRjRjM5UTZqUFFjUUV1eU5Falp1eXhldWpodXpj0gGoAUFVX3lxTE9JdE9ZaTlFTUg4TU9CTHlEVjlReGlOTVlDNUlEU1p1ZmpLLVpBYUVTam9RT3Mwelg5dlBZSlBRRVhhNmE3N05pc2pHQjJyTmVjNG45b3U3Sy11RWFseGJ6QWV4NW9VQUxfSF9KakhWUU5fSXZIdUlraVZDU3VzeGJLbkMyejZ1eHhDWHBaS2hpUko0dUFXWHpScHo5YnZpWEJmWm9LaHdrZQ?oc=5
+
+- Russia’s decision to supply JF-17 jet engines to Pakistan a failure of PM’s personalised diplomacy, says Congress - The Hindu
+  Russia’s decision to supply JF-17 jet engines to Pakistan a
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOXzJKMzZfaW9tSHRJdUVlWEp2OG14bUVIb1JwRGc5Z3FRdkhFRjhrbTBWZnRKLTB5ZFFJQTlYTW5pZjd1RUp4R3p2VFl5T0s2eXR3ejBVSnVNbHpfQVdpUEh5bjJGd2VZRnZ1LWhvdEpEOHY1dl90RXNpUDJvSkVDbm5iWmFCVk82RngxQURQWmtFMGx5OHA0ZlZ4T1dqaEVLa0ZWaDNQREtFbWhmNi1ydXdSd3FnYmFEeHFDb1ktN2J0UVBaM09MODFpS1h3ZjlVTWhocHlSVDZEODZBdVN3ajlBX3VLZHRyMGhoa1Q5aDF6TGVpNUhuS0tUQUfSAYMCQVVfeXFMT3c0MlZXcEhpWjFXa3RjaHlPUVU1STBrbjdsZWRTSXhZOTJuVTNBVDAxcU1fdzRKUHd6NmtuQVBfSlczbXNWT0FtMHVwV3FoZk94LU5wV1h0S1JZbDVyc0FIRnRTT2ZVdFZYalV6MHA2TDBtV2RxNDZmR0ZlTTB5a2o5OGk4NnBZVjBQOG5Qb2xLOUh3ODg1WDFtaEJZa0lxME15ZnFUdW14Y29vekdJTE5udndFWDNvZUJnUkYzMXZTNGcxOFhmRWp0TE16eGZZZmlzSGNBRmVJeXpVUUo0RW9pY1NiU3hYeVpFSi1ka1h0WTJ5TzlWZHpnSnRRRnJZMi0yMA?oc=5
+
+- Pakistan's ‘buried under' threat after India says 'can cross any border' as heat rises | Latest News India - Hindustan Times
+  Pakistan's ‘buried under' threat after India says 'can cross any border
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbzJfTTFUb0pOTC1kQURGYmVTWEtsZDU2QmdKUm0wOFBONjBUaDJYV3djSXVQT0I5N3VUeXNqRFZpdmNXdUhnVnozNjNaMFhjYktfcnFzWHdSMUZ2SnhPdmdoWl9LaUlGMmk2N19DYmFqR3lhTlozbFR6ZE81X0RUVHliN3pCQnEwT2VGd0xMNWJCQWhCaWZVY2NLdjViWFZWVDdTVGo1XzNpRXhPTngzbENRWVZrQmNDZkM1aENjNFkwSm9fd083UXhZN3d2RGdt0gHWAUFVX3lxTFB0QTQ4WGt5YVZHTk9UdnNZUlZVbFBCTXBqVmd1dEwwd05zWnFBWkVvRVNHZGhnUXNydTdLcnRVb0xWTnU2RmZtbzNTc0FHbWxDWktwY1NfN3RONE5aczMtSnhBX3o2NEZmbkRONUo0bDZGUFJlWHpoQ1RqdXV0ZEhlSE9zSFBkWkJxYXlYRnNTbkEtbzl5NWJsemNrc1FWZUh5b0lmbnMyN0h4dTNBTWg3WWp0cjJTZkFRbkltVGNNT1F0S19pWVJkcnVLMm5Na1ZrR3BCSUE?oc=5
+
+- Mohan Bhagwat's "I Have To Take It Back" Comment On PoK Draws Applause - NDTV
+  Mohan Bhagwat's "I Have To Take
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjhOYVg5elVNNnkwU3hfWU5UdFpyR0xJdmdTXy1ISy1DOUR5eDJqcmVMR2xiNi1VZlhvMWkyQ2RBSk5WNDRaajJ4N3VsTkYteE93TlhtcXd5RnkwbzFidUlXN01VSi1JeXlHalBzdm9PQjJlYS1SWE1id1lzcVRfQ2F6NFZYdWxLZTdNOE9RMk1xTzZEYkhtUFB1THQ2dHV2SExaNlVPM3BKMUgxWTE2RjJYNHlfMGdY0gHAAUFVX3lxTFBYdm1DcXowUEFiaExORUJfWGpPOWozb21tbDdiMlQwNFhwcHUzYTBCLVRWYjZySm9TMXN3Tk5RdUJTbmY1LVNpWG96QkZCTENYUF9iNzRCQjA4TjV1NHB0WmF0S2hHV3g3djF5ODFNQmtEUExZazlKS2xlOTJsT0hvcHBINlUtOXNrcURxdzJZSFZ0U3BxQkZQWkNscTBSVktqQWdLX2doNm5oMjQxU3AtNThEeEthM3loRXMwS1FjLQ?oc=5
+
+- Two new airports that will change how Indians fly - The Times of India
+  Two new airports that will change how Indians fly.
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaEF5QnI1VTRmdEZPeTZUZHRmYTNyTXNRdUlHZE9TZjNjWUNWRnZwSmhLR1JlY1ltdXk1eF9DWHlDRVJnR2NzRnEwUTlBYWFWekpwN0s3U0hNTUY2UUEzTERmMXNMYmlpYVBnMHp4RXc4eVJOWXE2Z1JiV0ZaVXhRYV80WHhKSnY2V29Pc3J6Vkw1bmZpelR3OGZxVGl6ZXN2X2w4RTBVWFltd25tNlE1UGt2Q2l3Rnky0gG-AUFVX3lxTE9GekhGbXI2S0liWnRDNXZJelFteXQwU2lJMHZHUVNSVWdjTVFWeWN5SzVhQXh4MG1UX05PVzJNbWI1UGV4c3JSR2VYQ1c1eVRORWRYclJoVlZ6cXhvZ2dwM3B6MnNzMkdEbXFzeW5obDBCdkpZUmY1Ymx4YWxkbVFselFKMzJZZTBfUEhhRF9QZl8yT1EtbG92WDhhZ3pua2luUHczWUg2TDlEalFacEJZQ2NTM1N2WnFQQ1E4WGc?oc=5
+
+- Internet Banned, 36-Hour Curfew In Odisha's Cuttack After Clashes - NDTV
+  Internet Banned, 36-Hour
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDBVaXR4Um9BRkRtMDhxaWpoODM3MXh6aUxvLUd5LW1yZnBiaEdhMXNfM3JKci04X2RJemNTR2YycTBkd2JQbjFPUENyYmdrbnJXZ2dSWi1Id1pRQW5ieVhCdFQ2Uk9hRUFocWR2NU5lSjVsZ29xRHk5cS1lTTRRQVNJdzRjRjM5UTZqUFFjUUV1eU5Falp1eXhldWpodXpj0gGoAUFVX3lxTE9JdE9ZaTlFTUg4TU9CTHlEVjlReGlOTVlDNUlEU1p1ZmpLLVpBYUVTam9RT3Mwelg5dlBZSlBRRVhhNmE3N05pc2pHQjJyTmVjNG45b3U3Sy11RWFseGJ6QWV4NW9VQUxfSF9KakhWUU5fSXZIdUlraVZDU3VzeGJLbkMyejZ1eHhDWHBaS2hpUko0dUFXWHpScHo5YnZpWEJmWm9LaHdrZQ?oc=5
+
+- Russia’s decision to supply JF-17 jet engines to Pakistan a failure of PM’s personalised diplomacy, says Congress - The Hindu
+  Russia’s decision to supply JF-17 jet engines to Pakistan a
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOXzJKMzZfaW9tSHRJdUVlWEp2OG14bUVIb1JwRGc5Z3FRdkhFRjhrbTBWZnRKLTB5ZFFJQTlYTW5pZjd1RUp4R3p2VFl5T0s2eXR3ejBVSnVNbHpfQVdpUEh5bjJGd2VZRnZ1LWhvdEpEOHY1dl90RXNpUDJvSkVDbm5iWmFCVk82RngxQURQWmtFMGx5OHA0ZlZ4T1dqaEVLa0ZWaDNQREtFbWhmNi1ydXdSd3FnYmFEeHFDb1ktN2J0UVBaM09MODFpS1h3ZjlVTWhocHlSVDZEODZBdVN3ajlBX3VLZHRyMGhoa1Q5aDF6TGVpNUhuS0tUQUfSAYMCQVVfeXFMT3c0MlZXcEhpWjFXa3RjaHlPUVU1STBrbjdsZWRTSXhZOTJuVTNBVDAxcU1fdzRKUHd6NmtuQVBfSlczbXNWT0FtMHVwV3FoZk94LU5wV1h0S1JZbDVyc0FIRnRTT2ZVdFZYalV6MHA2TDBtV2RxNDZmR0ZlTTB5a2o5OGk4NnBZVjBQOG5Qb2xLOUh3ODg1WDFtaEJZa0lxME15ZnFUdW14Y29vekdJTE5udndFWDNvZUJnUkYzMXZTNGcxOFhmRWp0TE16eGZZZmlzSGNBRmVJeXpVUUo0RW9pY1NiU3hYeVpFSi1ka1h0WTJ5TzlWZHpnSnRRRnJZMi0yMA?oc=5
+
+- Pakistan's ‘buried under' threat after India says 'can cross any border' as heat rises | Latest News India - Hindustan Times
+  Pakistan's ‘buried under' threat after India says 'can cross any border
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbzJfTTFUb0pOTC1kQURGYmVTWEtsZDU2QmdKUm0wOFBONjBUaDJYV3djSXVQT0I5N3VUeXNqRFZpdmNXdUhnVnozNjNaMFhjYktfcnFzWHdSMUZ2SnhPdmdoWl9LaUlGMmk2N19DYmFqR3lhTlozbFR6ZE81X0RUVHliN3pCQnEwT2VGd0xMNWJCQWhCaWZVY2NLdjViWFZWVDdTVGo1XzNpRXhPTngzbENRWVZrQmNDZkM1aENjNFkwSm9fd083UXhZN3d2RGdt0gHWAUFVX3lxTFB0QTQ4WGt5YVZHTk9UdnNZUlZVbFBCTXBqVmd1dEwwd05zWnFBWkVvRVNHZGhnUXNydTdLcnRVb0xWTnU2RmZtbzNTc0FHbWxDWktwY1NfN3RONE5aczMtSnhBX3o2NEZmbkRONUo0bDZGUFJlWHpoQ1RqdXV0ZEhlSE9zSFBkWkJxYXlYRnNTbkEtbzl5NWJsemNrc1FWZUh5b0lmbnMyN0h4dTNBTWg3WWp0cjJTZkFRbkltVGNNT1F0S19pWVJkcnVLMm5Na1ZrR3BCSUE?oc=5
+
+- Mohan Bhagwat's "I Have To Take It Back" Comment On PoK Draws Applause - NDTV
+  Mohan Bhagwat's "I Have To Take
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjhOYVg5elVNNnkwU3hfWU5UdFpyR0xJdmdTXy1ISy1DOUR5eDJqcmVMR2xiNi1VZlhvMWkyQ2RBSk5WNDRaajJ4N3VsTkYteE93TlhtcXd5RnkwbzFidUlXN01VSi1JeXlHalBzdm9PQjJlYS1SWE1id1lzcVRfQ2F6NFZYdWxLZTdNOE9RMk1xTzZEYkhtUFB1THQ2dHV2SExaNlVPM3BKMUgxWTE2RjJYNHlfMGdY0gHAAUFVX3lxTFBYdm1DcXowUEFiaExORUJfWGpPOWozb21tbDdiMlQwNFhwcHUzYTBCLVRWYjZySm9TMXN3Tk5RdUJTbmY1LVNpWG96QkZCTENYUF9iNzRCQjA4TjV1NHB0WmF0S2hHV3g3djF5ODFNQmtEUExZazlKS2xlOTJsT0hvcHBINlUtOXNrcURxdzJZSFZ0U3BxQkZQWkNscTBSVktqQWdLX2doNm5oMjQxU3AtNThEeEthM3loRXMwS1FjLQ?oc=5
+
+- Two new airports that will change how Indians fly - The Times of India
+  Two new airports that will change how Indians fly.
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaEF5QnI1VTRmdEZPeTZUZHRmYTNyTXNRdUlHZE9TZjNjWUNWRnZwSmhLR1JlY1ltdXk1eF9DWHlDRVJnR2NzRnEwUTlBYWFWekpwN0s3U0hNTUY2UUEzTERmMXNMYmlpYVBnMHp4RXc4eVJOWXE2Z1JiV0ZaVXhRYV80WHhKSnY2V29Pc3J6Vkw1bmZpelR3OGZxVGl6ZXN2X2w4RTBVWFltd25tNlE1UGt2Q2l3Rnky0gG-AUFVX3lxTE9GekhGbXI2S0liWnRDNXZJelFteXQwU2lJMHZHUVNSVWdjTVFWeWN5SzVhQXh4MG1UX05PVzJNbWI1UGV4c3JSR2VYQ1c1eVRORWRYclJoVlZ6cXhvZ2dwM3B6MnNzMkdEbXFzeW5obDBCdkpZUmY1Ymx4YWxkbVFselFKMzJZZTBfUEhhRF9QZl8yT1EtbG92WDhhZ3pua2luUHczWUg2TDlEalFacEJZQ2NTM1N2WnFQQ1E4WGc?oc=5
+
+- Internet Banned, 36-Hour Curfew In Odisha's Cuttack After Clashes - NDTV
+  Internet Banned, 36-Hour
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDBVaXR4Um9BRkRtMDhxaWpoODM3MXh6aUxvLUd5LW1yZnBiaEdhMXNfM3JKci04X2RJemNTR2YycTBkd2JQbjFPUENyYmdrbnJXZ2dSWi1Id1pRQW5ieVhCdFQ2Uk9hRUFocWR2NU5lSjVsZ29xRHk5cS1lTTRRQVNJdzRjRjM5UTZqUFFjUUV1eU5Falp1eXhldWpodXpj0gGoAUFVX3lxTE9JdE9ZaTlFTUg4TU9CTHlEVjlReGlOTVlDNUlEU1p1ZmpLLVpBYUVTam9RT3Mwelg5dlBZSlBRRVhhNmE3N05pc2pHQjJyTmVjNG45b3U3Sy11RWFseGJ6QWV4NW9VQUxfSF9KakhWUU5fSXZIdUlraVZDU3VzeGJLbkMyejZ1eHhDWHBaS2hpUko0dUFXWHpScHo5YnZpWEJmWm9LaHdrZQ?oc=5
 
 
-_Last updated: 2025-10-05 18:22:40 UTC_
+_Last updated: 2025-10-06 01:13:04 UTC_
