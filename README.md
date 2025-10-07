@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
+- Shoe thrown at Chief Justice Gavai: Parties unite to slam ‘attack on democracy’
+  
+  🔗 https://indianexpress.com/article/india/shoe-thrown-at-chief-justice-gavai-parties-unite-to-slam-attack-on-democracy-10292002/
+
+- Rajnath visit will deepen our defence ties: Australian envoy
+  
+  🔗 https://indianexpress.com/article/india/rajnath-visit-will-deepen-our-defence-ties-australian-envoy-10292018/
+
+- Local BJP leader shot dead near his home in Odisha’s Berhampur
+  
+  🔗 https://indianexpress.com/article/india/local-bjp-leader-shot-dead-near-his-home-in-odishas-berhampur-10291841/
+
+- Collusion, gatekeeping in AI: CCI calls for industry  self-regulation, self-audits
+  
+  🔗 https://indianexpress.com/article/india/collusion-gatekeeping-in-ai-cci-calls-for-industry-self-regulation-self-audits-10291802/
+
 - After ICU fire kills 6, Jaipur hospital superintendent, Trauma Centre in-charge removed from post
   
   🔗 https://indianexpress.com/article/india/jaipur-hospital-icu-fire-superintendent-trauma-centre-in-charge-removed-from-post-10291639/
-
-- PM Modi says shoe attack on CJI Gavai ‘has angered every Indian’; leaders, parties condemn act
-  
-  🔗 https://indianexpress.com/article/india/pm-modi-says-shoe-attack-on-cji-gavai-has-angered-every-indian-leaders-parties-condemn-act-10291494/
-
-- ‘Just ignore it… I am not distracted’: CJI Gavai on shoe being hurled at him in court
-  
-  🔗 https://indianexpress.com/article/india/cji-gavai-reaction-shoe-hurled-court-10291519/
-
-- Goa bans cough syrup linked to deaths of 11 children in Madhya Pradesh
-  
-  🔗 https://indianexpress.com/article/india/goa-bans-cough-syrup-linked-to-deaths-of-11-children-in-madhya-pradesh-10291499/
-
-- 5 stories you must read today, October 6: From lawyer throwing shoe at CJI inside SC to French PM Lecornu resigning and more
-  
-  🔗 https://indianexpress.com/article/india/express-catch-up-5-stories-you-must-read-today-october-6-10291188/
 
 - AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/perplexity-ai-browser-comet-extra-hires-aravind-srinivas-10290424/
 
+- US to Take 10% Stake in Trilogy Metals to Unlock Alaska Mining
+  The US said it will take a 10% stake in Canadian minerals explorer Trilogy Metals Inc. as part of a $35.6
+  🔗 https://www.livemint.com/companies/news/us-to-take-10-stake-in-trilogy-metals-to-unlock-alaska-mining-11759791548283.html
+
+- Ambipar Chief’s Collateral Wrested Away in Brazil Utility Deal
+  The head of embattled Brazilian firm Ambipar Participacoes e Empreendimentos, along with a co-investor, appeared to lose their collateral in a
+  🔗 https://www.livemint.com/companies/company-results/ambipar-chief-s-collateral-wrested-away-in-brazil-utility-deal-11759786146160.html
+
+- Mayo Sees ‘Unique Window’ for Bank M&A After Comerica Deal
+  The year’s biggest US bank deal is sparking a wave of speculation about further consolidation among lenders. An increasingly friendly regulatory climate
+  🔗 https://www.livemint.com/companies/news/mayo-sees-unique-window-for-bank-m-a-after-comerica-deal-11759777463519.html
+
 - Deloitte to repay Australian government after $440,000 report produced using AI was found with multiple errors
   Deloitte will refund part of a $440,000 fee to the Australian government after using generative AI in producing a report that contained multiple
   🔗 https://www.livemint.com/companies/news/deloitte-to-repay-australian-government-after-440-000-report-produced-using-ai-was-found-with-multiple-errors-11759770115517.html
@@ -48,37 +60,29 @@
   Shark Tank India's Anupam Mittal stresses the importance of a business mindset. He encourages early selling experiences and financial understanding to grasp industry economics.
   🔗 https://www.livemint.com/companies/people/dhandha-is-not-taught-in-classrooms-anupam-mittal-shares-tips-for-young-founders-to-become-a-killer-business-guy-11759769174981.html
 
-- IndusIand promoter IIHL Mauritius acquires full ownership of Bahamas-based Sterling Bank
-  IndusInd International Holdings has completed the acquisition of Sterling Bank. Sterling Bank has been renamed IIHL Bank &amp;amp; Trust Limited. The strategic move aligns with IIHL's
-  🔗 https://www.livemint.com/companies/news/indusiand-promoter-iihl-mauritius-acquires-ownership-of-bahamas-based-sterling-bank-11759765938455.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 7 October 2025
+  Sumeet Bagadia recommends five breakout stocks to buy today. NDR Auto Components, Anup Engineering, Krishna Institute
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-7-october-2025-11759779055845.html
 
-- Adani to demolish Mumbai Airport’s T1 in 2029 after Navi Mumbai Terminal 2 is ready
-  The new lotus-themed airport, which is to be inaugurated on Wednesday,
-  🔗 https://www.livemint.com/companies/news/adani-to-demolish-mumbai-airport-t1-2029-after-navi-mumbai-terminal-2-ready-11759761505839.html
+- Soybeans slip as rapid planting in Brazil points to ample supply
+  Soybeans slip as rapid
+  🔗 https://www.livemint.com/market/commodities/soybeans-slip-as-rapid-planting-in-brazil-points-to-ample-supply-11759798201814.html
 
-- WeWork IPO: 'Proceeds going exclusively to promoters' — InGovern flags poor finances, 'serious' gaps in disclosure
-  WeWork India's IPO has been flagged by Ingovern Research Services. Concerns include financial health, negative cash flows,
-  🔗 https://www.livemint.com/companies/news/wework-ipo-proceeds-going-exclusively-to-promoters-ingovern-flags-poor-finances-serious-gaps-in-disclosure-11759762478970.html
+- Fabtech Technologies IPO listing date today. GMP, experts signal muted debut of shares in stock market today
+  Fabtech Technologies IPO listing date is today, October 7. Shares will be listed on both the stock exchanges, BSE and NSE.
+  🔗 https://www.livemint.com/market/ipo/fabtech-technologies-ipo-listing-date-today-gmp-experts-signal-muted-debut-of-shares-in-stock-market-today-11759797756911.html
 
-- LG Electronics India IPO: Consumer appliances firm raises  ₹3,475 crore from anchor investors ahead of public issue
-  The IPO, valued at  ₹11,607 crore, opens for subscription from October 7 to 9, with a listing expected on October 14. LG Electronics India IPO: The company has raised
-  🔗 https://www.livemint.com/market/ipo/lg-electronics-india-ipo-consumer-appliances-firm-raises-rs-3-475-crore-from-anchor-investors-ahead-of-public-issue-11759772239800.html
+- Stock market today: Trade setup for Nifty 50, Trump tariffs, Tata Capital IPO to gold prices; 7 stocks to buy or sell
+  Sensex up 582 points to 81,790 and Nifty 50 rising by 183 points to 25,078. Analysts predict continued support around 25,000 and recommend several stocks for intrad
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-trump-tariffs-tata-capital-ipo-to-gold-prices-7-stocks-to-buy-or-sell-11759772735477.html
 
-- Infosys, Coforge and HCL Tech: Which IT stocks should you add to your portfolio ahead of Q2 results 2025?
-  Analysts favor Infosys, HCL Tech, Coforge, and select mid-caps ahead of Q2. Tech Mahindra and Hexaware
-  🔗 https://www.livemint.com/market/stock-market-news/infosys-coforge-and-hcl-tech-which-it-stocks-should-you-add-to-your-portfolio-ahead-of-q2-results-2025-11759757726442.html
+- Canara HSBC IPO: Price band set at  ₹100-160 per share; check key dates, issue details, more
+  The IPO consists of an offer-for-sale of 23.75 crore shares. Subscription opens on October 10 and closes on October 14, with the allocation for anchor investors on October 9.
+  🔗 https://www.livemint.com/market/ipo/canara-hsbc-ipo-gmp-canara-hsbc-ipo-date-canara-hsbc-ipo-price-band-canara-hsbc-life-insurance-ipo-gmp-canara-hsbc-ipo-11759769214871.html
 
-- Lenskart, Wakefit win Sebi nod for their IPO
-  Lenskart and Wakefit have received Sebi's approval for their IPO.
-  🔗 https://www.livemint.com/market/stock-market-news/lenskart-wakefit-ipo-sebi-approval-11759761598369.html
-
-- Sebi to step up fight against investment fraud with tech tools, new offices
-  Regulator to open offices in state capitals, launch ‘validated UPI handle’
-  🔗 https://www.livemint.com/market/sebi-to-step-up-fight-against-investment-fraud-11759758072396.html
-
-- As gold nears  ₹1.25 lakh in Delhi, discover the best gold ETFs to boost your portfolio this Diwali
-  Gold prices near  ₹1.25 lakh spark festive investment rush. Discover the top 5 Gold ETFs offering over
-  🔗 https://www.livemint.com/market/commodities/as-gold-nears-1-25-lakh-in-delhi-discover-the-best-gold-etfs-to-boost-your-portfolio-this-diwali-11759753428919.html
+- The AI Suicide Problem Knows No Borders
+  A string of dystopian headlines in the US about suicide and youth mental health has put mounting pressure on Silicon Valley. We’re not seeing a similar wave of cases in China. How are Chinese artificial intelligence developers protecting their most vulnerable users
+  🔗 https://www.livemint.com/technology/tech-news/the-ai-suicide-problem-knows-no-borders-11759785839226.html
 
 - OxygenOS 16 to launch in India on October 16: List of OnePlus devices likely to get the update
   OxygenOS 16 update is coming to India
@@ -96,157 +100,85 @@
   The Maps feature on Instagram is now available in India. It includes parental notifications for teens tagging locations and enhancements from the previous rollout.
   🔗 https://www.livemint.com/technology/tech-news/instagram-rolls-out-maps-feature-in-india-with-new-privacy-updates-heres-whats-new-11759762056459.html
 
-- OpenAI taps AMD for massive AI chip deal aimed at boosting compute capacity
-  OpenAI's multi-year agreement with AMD involves deploying billions of dollars in AMD GPUs for AI infrastructure. AMD has also granted OpenAI a warrant for 160 million shares
-  🔗 https://www.livemint.com/technology/tech-news/openai-taps-amd-for-massive-ai-chip-deal-aimed-at-boosting-compute-capacity-11759755663859.html
+- Central banks keep buying yellow metal despite soaring price
+  Global central banks added 15 tonnes to gold reserves in August. While Kazakhstan led purchases, India's central bank bought significantly less than in previous years.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/central-banks-keep-buying-yellow-metal-despite-soaring-price/articleshow/124350933.cms
 
-- Stock Market Today: S&P 500, Nasdaq Edge Higher as AMD Surges on OpenAI Deal —Live Updates - The Wall Street Journal
-  Stock Market Today: S&amp;P 500, Nasdaq Edge Higher as AMD
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxObk1fVTFMcmRRZTM5RWtKYnZsaWhyYVhIMUFrRE5KZGlLZUd4ajMtWmZFODZ2d25HQXlhOWctaEs3OVBTZ0laVGxEOFFxcHlJX0I5SFg3eWpsbW50Rnp6WVRROVJ6UFFYUW9oNGpTRldtMzJVd09IMkFGLXdKbXgweWwyQmZzdzI5c0E?oc=5
+- Is LG Electronics India IPO a smart bet for long-term investors?
+  The company boasts strong financials, with higher revenue, Ebitda, and a remarkable 37.1% return on net worth for FY25 compared to rivals. Its attractive valuation, with a lower P/E multiple than peers,
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/is-lg-electronics-india-ipo-a-smart-bet-for-long-term-investors/articleshow/124350906.cms
 
-- Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on - Yahoo Finance
-  The shutdown drags on. Dow falls, S&amp;P 500 and Nasdaq
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU2hnVmxOcGVjSmZoQ2ZvRUFOMExfUUR2bDRIWTRNcXhKdmg0bzlJWGNIMGlZMTg0el9SelNXbjJjNFZqLW5nT3VIRUdBWXVrd2FjZjFmak1XYWg5NUNTZlZJclEwaGYxbEtfaThmWXNVWG85MS0tNjNwUUVVQWhnLTV5OTNjd1RDaGhVWnZyZGJyTHNQRktHMFNzRTg4QUpFbnVJemc3MFlkdi0xbTlMVEVHX0dyS0ZyMDRQOWpkby1tVnNEc2tOMzJNeFdlZEl4QzVIZlBsdnF0Ym04VU16RlFCdw?oc=5
+- Pre-market action: Here's the trade setup for today's session
+  Indian equities surged for a third straight day, with the Nifty breaching the 25,000 milestone. Analysts anticipate stock-specific movements driven by Q2 results, with banking, IT, capital goods, and consumption sectors
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124344826.cms
 
-- Stock Market Today: Dow trims loss, S&P 500 heads for longest winning streak since May; AMD soars, gold at new record - MarketWatch
-  The S&amp;P 500 heads for longest winning streak since May. AMD soars,
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYTBWdGxQc3JvbWQzSjNaaDZQR1VtcHhtTTc0ZW0ybWlEdGNWbHlWZkhPT2xwakFXZ2JpdWxLQmZ4VDE5R3dKTFpiaURMQm1qTVFHQkg1THNqNHpXQUJ0eWJNeW1zOGUwbXl3MThGeTRXT1BuWUYwUjE3R3VvM3B3dVlGNU5UcHB5bGtQWkphYWR0N3JGRDFuUHRHMFoyUXFjM3ZxbllLT0FKeGxfeElHYXBubzM0WU1SUWxNWG5Sdk5PdVk?oc=5
+- Will India’s sovereign bond market rally after rate cut signals from RBI?
+  India's sovereign bond market shows positive signs with a dovish monetary policy and lower state borrowing. State borrowings for the third quarter are within expected limits, but any uneven distribution could impact rallies.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/will-indias-sovereign-bond-market-rally-after-rate-cut-signals-from-rbi/articleshow/124350884.cms
 
-- Stock Market Highlights: Sensex settles 583 pts higher, Nifty above 25,050; TCS, TechM rise 3% each - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbnVicFUwZkkydmNmbUpyeTNnYldac1podjV1N3p2b1dKcVBuZk8tdUxRYzRvN3dQQ2drbklDV0xyWHVFN1VJclBBMms4UWFwc1lYbm5QMzd0R3hHaFpuWjFlRk9UMVVrZE
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbnVicFUwZkkydmNmbUpyeTNnYldac1podjV1N3p2b1dKcVBuZk8tdUxRYzRvN3dQQ2drbklDV0xyWHVFN1VJclBBMms4UWFwc1lYbm5QMzd0R3hHaFpuWjFlRk9UMVVrZEpLby1kQm5JVWVvbXlaWk5CaGx6Xzlkdy1DN3BVM0IwZ3FRc1BUTGVTdFJOX0RlTTQ4NHAwT3psZ1hKWjZ5VEpqSmpYZFRXaDg3dHJSTnZxbVlVbW9TVFlJSFhvVXZ3YXUtaU5USFU2Ql94XzNpNNIB3AFBVV95cUxOanJ6SHY5Y1QzS0QzV1RfMVdpT1dud1Nib1hVdnJaUmtrU0xUSE9TVGo1LTBLRGZxS1RRcUw3UHItdHhLb2hUOVVDWlpFTnpWaFhWSjIxUGljTFNiMjZFQ0lhbGM1LTlvUWNKd1NMYlM2ZG5DZnRBZVZrQXFvcjNxc3lrSUtlZHpHTjhKY3pvRjk5ZVYybGtIUjgyU1EwYm1IYko4bXVQUkllb2lFaWpNNWQyWVB2cHVYSlhlczhXOW5nMkRNdEhNSFhTcExhRUExWmczMEpBN3IyM3hT?oc=5
-
-- Live Q&A: Can France Escape Political Crisis And Calm Markets? - Bloomberg.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNTldYTF9PR3pOQjJteVdZSlFsOE0tVlNXdlBqR1g5eVNyTUVMQk9oRDRpYjhLNTk4dmVvbEtwcHdHazdYZUxYSGhJVHFLY1MzWE1ZQXVWTXFkeDlkamdZa1drc3JnMlRyb0R3bk4tdjJNQ2tJa2dCOWgxanlpN2EwVDhBUzQ3U1hGcENvcE94ekxmWGNBTGdqQk9kZE9Fc2ZOaVJDRlFIUXA5cEUtNVpB?oc=5
-
-- LG Electronics IPO: Co raises Rs 3,475 crore from anchor investors; ADIA, Goldman Sachs among buyers
-  The company allocated about 3.04 crore shares at Rs 1,140 apiece. The issue is completely an OFS of 10.18 crore shares with a size of Rs 11,607 crore.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/lg-electronics-ipo-raises-rs-3475-crore-from-anchor-investors-adia-goldman-sachs-among-buyers/articleshow/124344839.cms
-
-- Sebi chairman warns retail investors against speculative trading in derivatives
-  SEBI Chairman Tuhin Kanta Pandey advises retail investors to avoid speculative derivative trading.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-chairman-warns-retail-investors-against-speculative-trading-in-derivatives/articleshow/124344135.cms
-
-- SBI Life Insurance, Aditya Birla MF, others buy 6% stake in AB Lifestyle Brands for Rs 998 cr
-  SBI Life Insurance, Aditya Birla MF, Morgan Stanley, Goldman Sachs, and other entities have cumulatively acquired over 7.31 crore shares, representing a 6 per cent
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sbi-life-insurance-aditya-birla-mf-others-buy-6-stake-in-ab-lifestyle-brands-for-rs-998-cr/articleshow/124343790.cms
-
-- Only 36% investors have adequate stock market knowledge, says Sebi Chairman, shares 4 tips to avoid scams
-  SEBI Chairman Tuhin Kanta Pandey warns that only 36% of investors have adequate market knowledge. He shares four tips to
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/only-36-investors-have-adequate-stock-market-knowledge-says-sebi-chairman-shares-4-tips-to-avoid-scams/articleshow/124343763.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Indian markets rose for the third session, led by strong gains in banking, financials, and IT ahead of Q2 earnings. Nifty reclaimed the 25,000 mark, supported
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/124343593.cms
+- Canara Bank recovers 90% in Karanja Terminal sale
+  Canara Bank is set for better recovery from Karanja Terminal &amp; Logistics. A price discovery process attracted higher bids for the asset. The sale is currently challenged in court.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/canara-bank-recovers-90-in-karanja-terminal-sale/articleshow/124350858.cms
 
 - 'Angered every Indian': PM Modi slams attack on CJI Gavai; applauds top Justice's calm - Times of India
   'Angered every Indian': PM Modi slams attack on CJI G
   🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODNGNXR4bjZLWS1mcmt6RHF5ZWUyOWotT284ZTc4cWMybm96eHY4a3JibGNZa1VNLVB3Ym82dkw0ZFFPb3h2bDRtSWlEODFKSElQRUowRHpFMkJLV24yRm1oS1lFZDBOY293TE1ZQzlsaFVzczAyRWVyRDJENU1KQ2VvNWg2QU5lclJaLWZLTlFwMzJRdVpfOFV0RTV6R1Q1eTVHbkhHZHZ4V2l3Zk9UMTVBUkpRN2V1cDIyeHVhc3ZaRU1HY2p3LWNYYWRRVlFPaW9YZG5OazgzMzhYRndueUl6SdIB6AFBVV95cUxOb1JLNzZkWEtvYUpPbFVST1JWSWVLNUtETjlhVzAtZUo0SklWcnBwR0RFSnN5UTJmb0xnWUE4Tm1lNHVtUzhXZ3Q0QlRDVURKeFN0THVWOXNkNGszS25Qdk1EN2FfZWR2YmF0MkpfdzdyR0Flc3B4Rm0xbF9keGg1ZnpySExDVVd3QkpVd214VVd6QlN6Z1NEMUhWd0xGbmFKcWpoaFMxYVlJamlkdmxTS2QtVk1naDB3bUxKS1Z4WGtINzU3QU9GVThPUU9wRGh3bjJmdEpFYzdCUXhVN0IyRGE1LVdHRjI5?oc=5
 
-- India-U.S. trade deal has to respect New Delhi’s ‘red lines’; efforts underway to address issues: Jaishankar - The Hindu
-  India-U.S. trade deal has to respect New Delhi’
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQTVjZEN6X3F2UXZManMteHhkclEwclU3UzloeUpEdnl4bkVaRHBEcTd4VDhLN1A2Ml9hUm5lTWdNb2UxZlMwd0xCNS0wOV9YRU55aTRja1RMWEFwcFhaNTJrRDhmd2lNeUg4T3VkYjg3MFhpc1I4dDNockc5dlhLdV91YVdXSXdlRHJiS1QxX2R3dXgyWmR2SUEwRjRIS0dWZHZmT0ZZcmpEN2hfZGZHV1ZtZGx2VmpiOHVtS014VktOVGd3SXN3bEYxdmtZMl9TSVJlMEtYLWhQQkNWajdFb09NeEI5NEU1bkhIUXlKcVF4d9IB-AFBVV95cUxOYnFpMXpwOG15T1Vkc0VzczNQOTAzaDY2ZWdZWFc2ZmRqYTVJdWl4NWVqMjNTUEZMM3pWYmtQMFkySlFrSkdkeHB6WEh5YXpfTjlsdFZiZDN5V1d3U2dXQ2pFQlptUkR1R1Jqc1diRGt6UGJsZTA4cmFCUnVCeUMxVUpSZzNjMUhrM3ZkczNxQ19Md3gybWt6OVpLTG9tXzRzRTNUU2xya2JwTWVydnhqVktmVHc2MUpSakRueUNjY2lyTEwwOEdlQTZocW45T3lzVTFJQ2ZBNjVaWjR3blZOd3BJWnFtRklCa21pQ0dvazByaVYycXl0dw?oc=5
+- Reported Sale Of JF-17 Engines To Pak Will Benefit India: Russian Experts - NDTV
+  Reported Sale Of JF-17 Engines
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOMkFPZjI0OEF2dDFWY2t6LVBaMVc4NGlsaGVCVFdhWmZlYk0tRmRHOFUwSTlhbndkcC11VHNvQWF1TXBDNjJtd3Z2RERSOGJqRjQ2Ti1aSXZaNlk3UTFBWnFRUHNOd2dWU1g0YmdVaUFNcFVnNThqbG9xZ1BHeGhCeHV1Z2NtNHJMQnhxd1hJeTRMaVAxMkFZTXN2QkNDMm5sajNTVDE1OTdLOE9tUGRpcXdn0gG6AUFVX3lxTFAzUWkxWmhlQVo5WWQtN3k3Z2o4b3NuekZRcjFRaENKTGtzN1lOd3d3MHU0UFU0cm10ZmNPRnk3MU9Jc2JGSkFZMEVkT2NIbDJBRW5WU0U5SG5wZGVPSS1CTldvTXMzTlI5aU1LSklqZWpMaVpidlBMcUVpTXhza2poa3NZaFpHdmFKUGNvLW1nZm1RMGV5cHNvMnM0aVVPNW4xTmJSZC1PWVFIQ29pRjRyZEtDUGp3Vk1JQQ?oc=5
 
-- Gautam Gambhir's special gesture to Indian cricketers; India head coach to host entire squad before IND vs WI Delhi Test - Mint
-  Gautam Gambhir's special gesture to Indian cricketers. India head coach
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxOM2tUSUR6eEEySm9zVHhlMlRLbmtHcUVYam82THhwelhsSWQ4ZzBEZUJkOEtFSDNxUnZtZWhBRVhBWENucDhLUXhNRzNMNHBBTXdkZktVMGJNaEhCemFuY1k1MGhnNE5LRUZYZlllVTJTMGVRQmFkazVRQWNkOVlQNExjZ3A4U21WN3dOeGtMQ195QVhLcm01OVpwMGZiRzJBMUZkT3BUMjhVSHdqM3JMcWxwbExjcXFSVGJFWU5IWFBfYktJTTF2STVqSW5QdzZQcG9lbU9QNjVKeHlpNERvaVFXWTNGNnpjbjRMNFNJMHpmanQxdXNwenFIajRiNDR3OEZfREFxa3VCRDNWNDk3SdIBlgJBVV95cUxPdGtpOG5lNTRfZXF5VmlVeDlsUWdWZXFGdGZ4ZHJmci1NdUNvekl4aGxzWWxQV2dfSTRDajFKZS1kV1c4UlZkTHVDUDE0TnQtRlh6VHYwWlZSRFhDNG1OZjJucHY3Tmk1MnQ3U0NDTndTZmxFSVlNVjBuQ3ZRQThhNFdZckF1YTRvWEQtV0t5Z1ZLRjAxdmxJdVNqaFRiSWh6MTd3d0liLVdsS0J3M2Vabk9SakRmS3ZEUXJ6NS1RN3BySXpzYVA3RmQyUGp1NjdtUVR3TWF5SXNnYnZILUZZZDNQUnItcmhuMGlfR2NjclVrQ2Q5dTF5ZGJvNFlXa29XaWpEcmJWbkgtRmhIcEZZNEVEUjZrdw?oc=5
+- Stock recommendations for 7 October from MarketSmith India | Stock Market News - Mint
+  Stock recommendations for 7 October from MarketSmith India |
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeTlEUmx1a3dKWF8tTWpQNDJ2TU1qSFAtclI3dGdCbV8ta2hqN1RrM2laTlIzc1dIZmpiNGpDVlVhWm1LZXRsb2JWRUhPeS1LVWZOTE5xSE9CUkxrRjgtVm9YRnN1Q2R5OUI2QjNOLWRrZXdiRUdreE1wWTRjUHRBWXRqTEUyRUdFNTN4LUR0d3RvNXJxVVYzbGlpMXZTU1paWEVuVWtHVEE2OUtyMms4QWtEVkowVXN5dmtiQlZORjZxaXYzSk5mUU5BaGRGWnhSYnBwUFRiZU1zMUlLWkHSAeMBQVVfeXFMT0ZFNG1uU3NxbkJOSVBXVGY5RGdraDRGQy1PekJQbHNYeFk4VW9wTnlGZFNUU1JTQVVQVFRrWXQ2TDlMOUFnTzU0eVhnNmIySDc4NXdQRXM0blVLUG9vaF9YNk9zRWE5UDhjVmpOelFkVHc4d190XzM0M0lXTjZOcUpfdFJ1WUtZbFctcy1BWGRmOFpPQmJoV3JDV2ItSFUxc3FDM0gzQmk0OHFaV1F4V2hYNndrcUdGLWdFaFVOc25DOEhfZUItbERaUTRRYk53bmxQV3VRWjFHZGtIQ3FwT255MHc?oc=5
 
-- India, Qatar aim to double bilateral trade by 2030: Piyush Goyal - Mint
-  India, Qatar aim to double bilateral trade by
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3NscUZnY0h0Z3FqYURtT1FKelVUZUV2dUk1Y0ktOHd5S242T2xoeDlkQjNLTjNuZGQxRU5jWlNnbTkycnhvZlhwcEFiOFRweGR3ZGxDM3BpRTgyVFo5WkJ5aTVUVjlhbEZTWXJBOFF2cDEtNXE3QjRaeXY2QkZraW1sX05kdjg3NkFISXN3aEp4NVptdlNKeWI5R1poMTM0LXlicVFsVnM3cXNfUVlHSWpfWUNUdGFDbHfSAb8BQVVfeXFMTUxyUTc5cURQeU1ldkwydTRySExDX1prRng0cnF5SkJaZ3dJb2VOQlB0bVJKUHhLaFRvbk5TckRoMGQ4eGxRdjhXZzdBbGs0S194T1YtZTdZeFN4aEtjT0t5MzlQb3ZCYmpDTWhLeU5GNVdFZTk4R2xTQS02aUpWOWlBRUtTUk92ajh1bjlQaVZwb0NlQkZpaGNDWjRCaVV4XzlVM1ZKWGltbjhIcTU4THBjdjAwSXpVY0VENFc4R3M?oc=5
+- 'We're not proxies of govt of India': Indian-American leader's rebuttal to Shashi Tharoor's claim of diaspora apathy | Latest News India - Hindustan Times
+  'We're not proxies of govt of India': Indian-American leader's rebuttal to Sh
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMjdWUHk3eHk1Wmp2aUF5THJBUF96R3QtRURaa3lXMFFHV2pkS1BDeXlOZHptU19vQ3ZWTUNPWnc2T0stZVZCVnFsdmJ4d294czhfYzNES0FuUmtwVlV2UGtEMzdtN3BoOGR0Zk04S1psTnNRY3ppNkhEVHdoTUtDQ2VlN24zMTNVWTcyUXptYjNJRGdhYXRyRW4zbHBBY0lGenc3NlVQWkowMHNueG9qaXFSaEtmZV95ZVFHMFpfb05XXzlxTXFkZU1tekN0QVhaeVVQZmx2YXVOZjZ6VHpTbVBJZE5DMkpzbGgyNU9zQm1uUGtlRlHSAfsBQVVfeXFMTTk1S184bGRfTHd0NDAyUXlZbU1UUnJNMXYwZ0tZNnQtRVd4NDdjZkgwMkhMb0ZYeDJtaGpETzhVSXZONl9kNmlUUFZseVNURnZRMTIyUGdaYjFSSkZ0cFVkSmM3NkVkSmJBc2w5dFhQZGNMS0pNMkJQdHdDbmVRQ2VGSEhLTkk5U0V6ZVlOaFVUWHU0SE9ybjd3QmYxY0VIWDViYzYtNzBJZkZLTG5zZkVHYW1nell3QW9YUWVOSEkwRXZJa0xlVERTWm9OeGE0WDNfc1dmUUoyLTVsdGlwbWJPWEd5SzE0ckZlaFhxZXZGOGdnY3FTaEdVQVU?oc=5
 
-- India Builds World's Highest Motorable Road At 19,400 Ft In Ladakh - NDTV
-  India Builds World's Highest Motorable Road
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0RXY1BlZHVxZkxCZy00dkxEQWNIUXlWMmViRWtZMnpldkJ2MGhnSUNNMEYwQUF0MTZSZzFxWURud2hEUzhaUjVTZjYwRnI0UUZtbGtLaTFIaURYQkNKb0hLajB6TDY0MDBMTlgtUkxYTE0xRnRLVG8zVDk5QUpkazJ1XzJSdDB3c2d4Yld0SWNTVnkzWDJISXJoeVJicE5keGUw0gGrAUFVX3lxTE01NGgzY1ZDQkw0UWJQMjdrZ3gxYWNqNXI4TkNKMnNIdUxDazNIM21XRmNNTlFGTUZvNWtDVlk4SnZLWW45MzNpSlREamNZRWNoT1RaQXRNUU9UME1Odl9hWEdOZC1qdExGcm8yT1h3aUJmOUdLMzB3dzVNRV8tSk5MMHY4NU45UHp4Qm9Nd192SURVVFI0WWxQTi1nME45Wm5IZktxWHhUNC1iTQ?oc=5
-
-- 'Angered every Indian': PM Modi slams attack on CJI Gavai; applauds top Justice's calm - Times of India
-  'Angered every Indian': PM Modi slams attack on CJI G
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODNGNXR4bjZLWS1mcmt6RHF5ZWUyOWotT284ZTc4cWMybm96eHY4a3JibGNZa1VNLVB3Ym82dkw0ZFFPb3h2bDRtSWlEODFKSElQRUowRHpFMkJLV24yRm1oS1lFZDBOY293TE1ZQzlsaFVzczAyRWVyRDJENU1KQ2VvNWg2QU5lclJaLWZLTlFwMzJRdVpfOFV0RTV6R1Q1eTVHbkhHZHZ4V2l3Zk9UMTVBUkpRN2V1cDIyeHVhc3ZaRU1HY2p3LWNYYWRRVlFPaW9YZG5OazgzMzhYRndueUl6SdIB6AFBVV95cUxOb1JLNzZkWEtvYUpPbFVST1JWSWVLNUtETjlhVzAtZUo0SklWcnBwR0RFSnN5UTJmb0xnWUE4Tm1lNHVtUzhXZ3Q0QlRDVURKeFN0THVWOXNkNGszS25Qdk1EN2FfZWR2YmF0MkpfdzdyR0Flc3B4Rm0xbF9keGg1ZnpySExDVVd3QkpVd214VVd6QlN6Z1NEMUhWd0xGbmFKcWpoaFMxYVlJamlkdmxTS2QtVk1naDB3bUxKS1Z4WGtINzU3QU9GVThPUU9wRGh3bjJmdEpFYzdCUXhVN0IyRGE1LVdHRjI5?oc=5
-
-- India-U.S. trade deal has to respect New Delhi’s ‘red lines’; efforts underway to address issues: Jaishankar - The Hindu
-  India-U.S. trade deal has to respect New Delhi’
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQTVjZEN6X3F2UXZManMteHhkclEwclU3UzloeUpEdnl4bkVaRHBEcTd4VDhLN1A2Ml9hUm5lTWdNb2UxZlMwd0xCNS0wOV9YRU55aTRja1RMWEFwcFhaNTJrRDhmd2lNeUg4T3VkYjg3MFhpc1I4dDNockc5dlhLdV91YVdXSXdlRHJiS1QxX2R3dXgyWmR2SUEwRjRIS0dWZHZmT0ZZcmpEN2hfZGZHV1ZtZGx2VmpiOHVtS014VktOVGd3SXN3bEYxdmtZMl9TSVJlMEtYLWhQQkNWajdFb09NeEI5NEU1bkhIUXlKcVF4d9IB-AFBVV95cUxOYnFpMXpwOG15T1Vkc0VzczNQOTAzaDY2ZWdZWFc2ZmRqYTVJdWl4NWVqMjNTUEZMM3pWYmtQMFkySlFrSkdkeHB6WEh5YXpfTjlsdFZiZDN5V1d3U2dXQ2pFQlptUkR1R1Jqc1diRGt6UGJsZTA4cmFCUnVCeUMxVUpSZzNjMUhrM3ZkczNxQ19Md3gybWt6OVpLTG9tXzRzRTNUU2xya2JwTWVydnhqVktmVHc2MUpSakRueUNjY2lyTEwwOEdlQTZocW45T3lzVTFJQ2ZBNjVaWjR3blZOd3BJWnFtRklCa21pQ0dvazByaVYycXl0dw?oc=5
-
-- Gautam Gambhir's special gesture to Indian cricketers; India head coach to host entire squad before IND vs WI Delhi Test - Mint
-  Gautam Gambhir's special gesture to Indian cricketers. India head coach
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxOM2tUSUR6eEEySm9zVHhlMlRLbmtHcUVYam82THhwelhsSWQ4ZzBEZUJkOEtFSDNxUnZtZWhBRVhBWENucDhLUXhNRzNMNHBBTXdkZktVMGJNaEhCemFuY1k1MGhnNE5LRUZYZlllVTJTMGVRQmFkazVRQWNkOVlQNExjZ3A4U21WN3dOeGtMQ195QVhLcm01OVpwMGZiRzJBMUZkT3BUMjhVSHdqM3JMcWxwbExjcXFSVGJFWU5IWFBfYktJTTF2STVqSW5QdzZQcG9lbU9QNjVKeHlpNERvaVFXWTNGNnpjbjRMNFNJMHpmanQxdXNwenFIajRiNDR3OEZfREFxa3VCRDNWNDk3SdIBlgJBVV95cUxPdGtpOG5lNTRfZXF5VmlVeDlsUWdWZXFGdGZ4ZHJmci1NdUNvekl4aGxzWWxQV2dfSTRDajFKZS1kV1c4UlZkTHVDUDE0TnQtRlh6VHYwWlZSRFhDNG1OZjJucHY3Tmk1MnQ3U0NDTndTZmxFSVlNVjBuQ3ZRQThhNFdZckF1YTRvWEQtV0t5Z1ZLRjAxdmxJdVNqaFRiSWh6MTd3d0liLVdsS0J3M2Vabk9SakRmS3ZEUXJ6NS1RN3BySXpzYVA3RmQyUGp1NjdtUVR3TWF5SXNnYnZILUZZZDNQUnItcmhuMGlfR2NjclVrQ2Q5dTF5ZGJvNFlXa29XaWpEcmJWbkgtRmhIcEZZNEVEUjZrdw?oc=5
-
-- India, Qatar aim to double bilateral trade by 2030: Piyush Goyal - Mint
-  India, Qatar aim to double bilateral trade by
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3NscUZnY0h0Z3FqYURtT1FKelVUZUV2dUk1Y0ktOHd5S242T2xoeDlkQjNLTjNuZGQxRU5jWlNnbTkycnhvZlhwcEFiOFRweGR3ZGxDM3BpRTgyVFo5WkJ5aTVUVjlhbEZTWXJBOFF2cDEtNXE3QjRaeXY2QkZraW1sX05kdjg3NkFISXN3aEp4NVptdlNKeWI5R1poMTM0LXlicVFsVnM3cXNfUVlHSWpfWUNUdGFDbHfSAb8BQVVfeXFMTUxyUTc5cURQeU1ldkwydTRySExDX1prRng0cnF5SkJaZ3dJb2VOQlB0bVJKUHhLaFRvbk5TckRoMGQ4eGxRdjhXZzdBbGs0S194T1YtZTdZeFN4aEtjT0t5MzlQb3ZCYmpDTWhLeU5GNVdFZTk4R2xTQS02aUpWOWlBRUtTUk92ajh1bjlQaVZwb0NlQkZpaGNDWjRCaVV4XzlVM1ZKWGltbjhIcTU4THBjdjAwSXpVY0VENFc4R3M?oc=5
-
-- India Builds World's Highest Motorable Road At 19,400 Ft In Ladakh - NDTV
-  India Builds World's Highest Motorable Road
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0RXY1BlZHVxZkxCZy00dkxEQWNIUXlWMmViRWtZMnpldkJ2MGhnSUNNMEYwQUF0MTZSZzFxWURud2hEUzhaUjVTZjYwRnI0UUZtbGtLaTFIaURYQkNKb0hLajB6TDY0MDBMTlgtUkxYTE0xRnRLVG8zVDk5QUpkazJ1XzJSdDB3c2d4Yld0SWNTVnkzWDJISXJoeVJicE5keGUw0gGrAUFVX3lxTE01NGgzY1ZDQkw0UWJQMjdrZ3gxYWNqNXI4TkNKMnNIdUxDazNIM21XRmNNTlFGTUZvNWtDVlk4SnZLWW45MzNpSlREamNZRWNoT1RaQXRNUU9UME1Odl9hWEdOZC1qdExGcm8yT1h3aUJmOUdLMzB3dzVNRV8tSk5MMHY4NU45UHp4Qm9Nd192SURVVFI0WWxQTi1nME45Wm5IZktxWHhUNC1iTQ?oc=5
+- Pakistan Defence Minister Khawaja Asif warns India against any future military conflict - The Hindu
+  Pakistan Defence Minister Khawaja Asif warns India against
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTVFqT1hkRWRYUFVkTUVFamIzM29QYW84d3dZWDVjQk1FWjI1SEZJWVAwdWVBSnlVa0RCY3BhYjMyeUU5TnFCUlVHNDhtQm1mc0xDQVdsVDJ3Wlk5bkdlb0lXOE9DYW5qaU5oQVd4VFhaMnlub3ZVZTVpSmd4Z2RzQllMVjFIMHZxMEd5aDl6dW9PQVpSdlBjYXU0MGtHQ2ROc2ZjaHhHVTVCTld6X2JFVWJ6ak5odlg2MDVsS2t1YWdiNmE0ODNXRk81ZFlna3FjNXpyTGhlMUtVWWlkWFFCZkdEU05yZ9IB7AFBVV95cUxQdFVkUmtGelgxajJnRnplRDQxeTA4cC1Tc0h0N2cwZ3VSamNSV2Y4WjZ1V2oxRmFNRGVuRWRvQnZVZTBELTRFVUpKN1RIOHE0WkFtcnVPaGE4NFRqQkZaYzhneU5TZ25kRURnLWd5OFZWSUZ2TTZ6UlRYSmhWa0NwTWU5T3hLQnBWQzhqSGZqUVQ3ZUhzTnJyOEk5RWo1TE8yc0tKWk4yejE2VnlqV2xVZHlVVVI2NHVpbXZBZE9nNWV6UzNCaXZuOUE4akhFMjBGdzdpb196T3pxYzV6Vk4yVGc3Yk1scDBOSzBFdA?oc=5
 
 - 'Angered every Indian': PM Modi slams attack on CJI Gavai; applauds top Justice's calm - Times of India
   'Angered every Indian': PM Modi slams attack on CJI G
   🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODNGNXR4bjZLWS1mcmt6RHF5ZWUyOWotT284ZTc4cWMybm96eHY4a3JibGNZa1VNLVB3Ym82dkw0ZFFPb3h2bDRtSWlEODFKSElQRUowRHpFMkJLV24yRm1oS1lFZDBOY293TE1ZQzlsaFVzczAyRWVyRDJENU1KQ2VvNWg2QU5lclJaLWZLTlFwMzJRdVpfOFV0RTV6R1Q1eTVHbkhHZHZ4V2l3Zk9UMTVBUkpRN2V1cDIyeHVhc3ZaRU1HY2p3LWNYYWRRVlFPaW9YZG5OazgzMzhYRndueUl6SdIB6AFBVV95cUxOb1JLNzZkWEtvYUpPbFVST1JWSWVLNUtETjlhVzAtZUo0SklWcnBwR0RFSnN5UTJmb0xnWUE4Tm1lNHVtUzhXZ3Q0QlRDVURKeFN0THVWOXNkNGszS25Qdk1EN2FfZWR2YmF0MkpfdzdyR0Flc3B4Rm0xbF9keGg1ZnpySExDVVd3QkpVd214VVd6QlN6Z1NEMUhWd0xGbmFKcWpoaFMxYVlJamlkdmxTS2QtVk1naDB3bUxKS1Z4WGtINzU3QU9GVThPUU9wRGh3bjJmdEpFYzdCUXhVN0IyRGE1LVdHRjI5?oc=5
 
-- India-U.S. trade deal has to respect New Delhi’s ‘red lines’; efforts underway to address issues: Jaishankar - The Hindu
-  India-U.S. trade deal has to respect New Delhi’
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQTVjZEN6X3F2UXZManMteHhkclEwclU3UzloeUpEdnl4bkVaRHBEcTd4VDhLN1A2Ml9hUm5lTWdNb2UxZlMwd0xCNS0wOV9YRU55aTRja1RMWEFwcFhaNTJrRDhmd2lNeUg4T3VkYjg3MFhpc1I4dDNockc5dlhLdV91YVdXSXdlRHJiS1QxX2R3dXgyWmR2SUEwRjRIS0dWZHZmT0ZZcmpEN2hfZGZHV1ZtZGx2VmpiOHVtS014VktOVGd3SXN3bEYxdmtZMl9TSVJlMEtYLWhQQkNWajdFb09NeEI5NEU1bkhIUXlKcVF4d9IB-AFBVV95cUxOYnFpMXpwOG15T1Vkc0VzczNQOTAzaDY2ZWdZWFc2ZmRqYTVJdWl4NWVqMjNTUEZMM3pWYmtQMFkySlFrSkdkeHB6WEh5YXpfTjlsdFZiZDN5V1d3U2dXQ2pFQlptUkR1R1Jqc1diRGt6UGJsZTA4cmFCUnVCeUMxVUpSZzNjMUhrM3ZkczNxQ19Md3gybWt6OVpLTG9tXzRzRTNUU2xya2JwTWVydnhqVktmVHc2MUpSakRueUNjY2lyTEwwOEdlQTZocW45T3lzVTFJQ2ZBNjVaWjR3blZOd3BJWnFtRklCa21pQ0dvazByaVYycXl0dw?oc=5
+- Reported Sale Of JF-17 Engines To Pak Will Benefit India: Russian Experts - NDTV
+  Reported Sale Of JF-17 Engines
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOMkFPZjI0OEF2dDFWY2t6LVBaMVc4NGlsaGVCVFdhWmZlYk0tRmRHOFUwSTlhbndkcC11VHNvQWF1TXBDNjJtd3Z2RERSOGJqRjQ2Ti1aSXZaNlk3UTFBWnFRUHNOd2dWU1g0YmdVaUFNcFVnNThqbG9xZ1BHeGhCeHV1Z2NtNHJMQnhxd1hJeTRMaVAxMkFZTXN2QkNDMm5sajNTVDE1OTdLOE9tUGRpcXdn0gG6AUFVX3lxTFAzUWkxWmhlQVo5WWQtN3k3Z2o4b3NuekZRcjFRaENKTGtzN1lOd3d3MHU0UFU0cm10ZmNPRnk3MU9Jc2JGSkFZMEVkT2NIbDJBRW5WU0U5SG5wZGVPSS1CTldvTXMzTlI5aU1LSklqZWpMaVpidlBMcUVpTXhza2poa3NZaFpHdmFKUGNvLW1nZm1RMGV5cHNvMnM0aVVPNW4xTmJSZC1PWVFIQ29pRjRyZEtDUGp3Vk1JQQ?oc=5
 
-- Gautam Gambhir's special gesture to Indian cricketers; India head coach to host entire squad before IND vs WI Delhi Test - Mint
-  Gautam Gambhir's special gesture to Indian cricketers. India head coach
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxOM2tUSUR6eEEySm9zVHhlMlRLbmtHcUVYam82THhwelhsSWQ4ZzBEZUJkOEtFSDNxUnZtZWhBRVhBWENucDhLUXhNRzNMNHBBTXdkZktVMGJNaEhCemFuY1k1MGhnNE5LRUZYZlllVTJTMGVRQmFkazVRQWNkOVlQNExjZ3A4U21WN3dOeGtMQ195QVhLcm01OVpwMGZiRzJBMUZkT3BUMjhVSHdqM3JMcWxwbExjcXFSVGJFWU5IWFBfYktJTTF2STVqSW5QdzZQcG9lbU9QNjVKeHlpNERvaVFXWTNGNnpjbjRMNFNJMHpmanQxdXNwenFIajRiNDR3OEZfREFxa3VCRDNWNDk3SdIBlgJBVV95cUxPdGtpOG5lNTRfZXF5VmlVeDlsUWdWZXFGdGZ4ZHJmci1NdUNvekl4aGxzWWxQV2dfSTRDajFKZS1kV1c4UlZkTHVDUDE0TnQtRlh6VHYwWlZSRFhDNG1OZjJucHY3Tmk1MnQ3U0NDTndTZmxFSVlNVjBuQ3ZRQThhNFdZckF1YTRvWEQtV0t5Z1ZLRjAxdmxJdVNqaFRiSWh6MTd3d0liLVdsS0J3M2Vabk9SakRmS3ZEUXJ6NS1RN3BySXpzYVA3RmQyUGp1NjdtUVR3TWF5SXNnYnZILUZZZDNQUnItcmhuMGlfR2NjclVrQ2Q5dTF5ZGJvNFlXa29XaWpEcmJWbkgtRmhIcEZZNEVEUjZrdw?oc=5
+- Stock recommendations for 7 October from MarketSmith India | Stock Market News - Mint
+  Stock recommendations for 7 October from MarketSmith India |
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeTlEUmx1a3dKWF8tTWpQNDJ2TU1qSFAtclI3dGdCbV8ta2hqN1RrM2laTlIzc1dIZmpiNGpDVlVhWm1LZXRsb2JWRUhPeS1LVWZOTE5xSE9CUkxrRjgtVm9YRnN1Q2R5OUI2QjNOLWRrZXdiRUdreE1wWTRjUHRBWXRqTEUyRUdFNTN4LUR0d3RvNXJxVVYzbGlpMXZTU1paWEVuVWtHVEE2OUtyMms4QWtEVkowVXN5dmtiQlZORjZxaXYzSk5mUU5BaGRGWnhSYnBwUFRiZU1zMUlLWkHSAeMBQVVfeXFMT0ZFNG1uU3NxbkJOSVBXVGY5RGdraDRGQy1PekJQbHNYeFk4VW9wTnlGZFNUU1JTQVVQVFRrWXQ2TDlMOUFnTzU0eVhnNmIySDc4NXdQRXM0blVLUG9vaF9YNk9zRWE5UDhjVmpOelFkVHc4d190XzM0M0lXTjZOcUpfdFJ1WUtZbFctcy1BWGRmOFpPQmJoV3JDV2ItSFUxc3FDM0gzQmk0OHFaV1F4V2hYNndrcUdGLWdFaFVOc25DOEhfZUItbERaUTRRYk53bmxQV3VRWjFHZGtIQ3FwT255MHc?oc=5
 
-- India, Qatar aim to double bilateral trade by 2030: Piyush Goyal - Mint
-  India, Qatar aim to double bilateral trade by
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3NscUZnY0h0Z3FqYURtT1FKelVUZUV2dUk1Y0ktOHd5S242T2xoeDlkQjNLTjNuZGQxRU5jWlNnbTkycnhvZlhwcEFiOFRweGR3ZGxDM3BpRTgyVFo5WkJ5aTVUVjlhbEZTWXJBOFF2cDEtNXE3QjRaeXY2QkZraW1sX05kdjg3NkFISXN3aEp4NVptdlNKeWI5R1poMTM0LXlicVFsVnM3cXNfUVlHSWpfWUNUdGFDbHfSAb8BQVVfeXFMTUxyUTc5cURQeU1ldkwydTRySExDX1prRng0cnF5SkJaZ3dJb2VOQlB0bVJKUHhLaFRvbk5TckRoMGQ4eGxRdjhXZzdBbGs0S194T1YtZTdZeFN4aEtjT0t5MzlQb3ZCYmpDTWhLeU5GNVdFZTk4R2xTQS02aUpWOWlBRUtTUk92ajh1bjlQaVZwb0NlQkZpaGNDWjRCaVV4XzlVM1ZKWGltbjhIcTU4THBjdjAwSXpVY0VENFc4R3M?oc=5
+- 'We're not proxies of govt of India': Indian-American leader's rebuttal to Shashi Tharoor's claim of diaspora apathy | Latest News India - Hindustan Times
+  'We're not proxies of govt of India': Indian-American leader's rebuttal to Sh
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMjdWUHk3eHk1Wmp2aUF5THJBUF96R3QtRURaa3lXMFFHV2pkS1BDeXlOZHptU19vQ3ZWTUNPWnc2T0stZVZCVnFsdmJ4d294czhfYzNES0FuUmtwVlV2UGtEMzdtN3BoOGR0Zk04S1psTnNRY3ppNkhEVHdoTUtDQ2VlN24zMTNVWTcyUXptYjNJRGdhYXRyRW4zbHBBY0lGenc3NlVQWkowMHNueG9qaXFSaEtmZV95ZVFHMFpfb05XXzlxTXFkZU1tekN0QVhaeVVQZmx2YXVOZjZ6VHpTbVBJZE5DMkpzbGgyNU9zQm1uUGtlRlHSAfsBQVVfeXFMTTk1S184bGRfTHd0NDAyUXlZbU1UUnJNMXYwZ0tZNnQtRVd4NDdjZkgwMkhMb0ZYeDJtaGpETzhVSXZONl9kNmlUUFZseVNURnZRMTIyUGdaYjFSSkZ0cFVkSmM3NkVkSmJBc2w5dFhQZGNMS0pNMkJQdHdDbmVRQ2VGSEhLTkk5U0V6ZVlOaFVUWHU0SE9ybjd3QmYxY0VIWDViYzYtNzBJZkZLTG5zZkVHYW1nell3QW9YUWVOSEkwRXZJa0xlVERTWm9OeGE0WDNfc1dmUUoyLTVsdGlwbWJPWEd5SzE0ckZlaFhxZXZGOGdnY3FTaEdVQVU?oc=5
 
-- India Builds World's Highest Motorable Road At 19,400 Ft In Ladakh - NDTV
-  India Builds World's Highest Motorable Road
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0RXY1BlZHVxZkxCZy00dkxEQWNIUXlWMmViRWtZMnpldkJ2MGhnSUNNMEYwQUF0MTZSZzFxWURud2hEUzhaUjVTZjYwRnI0UUZtbGtLaTFIaURYQkNKb0hLajB6TDY0MDBMTlgtUkxYTE0xRnRLVG8zVDk5QUpkazJ1XzJSdDB3c2d4Yld0SWNTVnkzWDJISXJoeVJicE5keGUw0gGrAUFVX3lxTE01NGgzY1ZDQkw0UWJQMjdrZ3gxYWNqNXI4TkNKMnNIdUxDazNIM21XRmNNTlFGTUZvNWtDVlk4SnZLWW45MzNpSlREamNZRWNoT1RaQXRNUU9UME1Odl9hWEdOZC1qdExGcm8yT1h3aUJmOUdLMzB3dzVNRV8tSk5MMHY4NU45UHp4Qm9Nd192SURVVFI0WWxQTi1nME45Wm5IZktxWHhUNC1iTQ?oc=5
+- Pakistan Defence Minister Khawaja Asif warns India against any future military conflict - The Hindu
+  Pakistan Defence Minister Khawaja Asif warns India against
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTVFqT1hkRWRYUFVkTUVFamIzM29QYW84d3dZWDVjQk1FWjI1SEZJWVAwdWVBSnlVa0RCY3BhYjMyeUU5TnFCUlVHNDhtQm1mc0xDQVdsVDJ3Wlk5bkdlb0lXOE9DYW5qaU5oQVd4VFhaMnlub3ZVZTVpSmd4Z2RzQllMVjFIMHZxMEd5aDl6dW9PQVpSdlBjYXU0MGtHQ2ROc2ZjaHhHVTVCTld6X2JFVWJ6ak5odlg2MDVsS2t1YWdiNmE0ODNXRk81ZFlna3FjNXpyTGhlMUtVWWlkWFFCZkdEU05yZ9IB7AFBVV95cUxQdFVkUmtGelgxajJnRnplRDQxeTA4cC1Tc0h0N2cwZ3VSamNSV2Y4WjZ1V2oxRmFNRGVuRWRvQnZVZTBELTRFVUpKN1RIOHE0WkFtcnVPaGE4NFRqQkZaYzhneU5TZ25kRURnLWd5OFZWSUZ2TTZ6UlRYSmhWa0NwTWU5T3hLQnBWQzhqSGZqUVQ3ZUhzTnJyOEk5RWo1TE8yc0tKWk4yejE2VnlqV2xVZHlVVVI2NHVpbXZBZE9nNWV6UzNCaXZuOUE4akhFMjBGdzdpb196T3pxYzV6Vk4yVGc3Yk1scDBOSzBFdA?oc=5
 
 - 'Angered every Indian': PM Modi slams attack on CJI Gavai; applauds top Justice's calm - Times of India
   'Angered every Indian': PM Modi slams attack on CJI G
   🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODNGNXR4bjZLWS1mcmt6RHF5ZWUyOWotT284ZTc4cWMybm96eHY4a3JibGNZa1VNLVB3Ym82dkw0ZFFPb3h2bDRtSWlEODFKSElQRUowRHpFMkJLV24yRm1oS1lFZDBOY293TE1ZQzlsaFVzczAyRWVyRDJENU1KQ2VvNWg2QU5lclJaLWZLTlFwMzJRdVpfOFV0RTV6R1Q1eTVHbkhHZHZ4V2l3Zk9UMTVBUkpRN2V1cDIyeHVhc3ZaRU1HY2p3LWNYYWRRVlFPaW9YZG5OazgzMzhYRndueUl6SdIB6AFBVV95cUxOb1JLNzZkWEtvYUpPbFVST1JWSWVLNUtETjlhVzAtZUo0SklWcnBwR0RFSnN5UTJmb0xnWUE4Tm1lNHVtUzhXZ3Q0QlRDVURKeFN0THVWOXNkNGszS25Qdk1EN2FfZWR2YmF0MkpfdzdyR0Flc3B4Rm0xbF9keGg1ZnpySExDVVd3QkpVd214VVd6QlN6Z1NEMUhWd0xGbmFKcWpoaFMxYVlJamlkdmxTS2QtVk1naDB3bUxKS1Z4WGtINzU3QU9GVThPUU9wRGh3bjJmdEpFYzdCUXhVN0IyRGE1LVdHRjI5?oc=5
 
-- India-U.S. trade deal has to respect New Delhi’s ‘red lines’; efforts underway to address issues: Jaishankar - The Hindu
-  India-U.S. trade deal has to respect New Delhi’
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQTVjZEN6X3F2UXZManMteHhkclEwclU3UzloeUpEdnl4bkVaRHBEcTd4VDhLN1A2Ml9hUm5lTWdNb2UxZlMwd0xCNS0wOV9YRU55aTRja1RMWEFwcFhaNTJrRDhmd2lNeUg4T3VkYjg3MFhpc1I4dDNockc5dlhLdV91YVdXSXdlRHJiS1QxX2R3dXgyWmR2SUEwRjRIS0dWZHZmT0ZZcmpEN2hfZGZHV1ZtZGx2VmpiOHVtS014VktOVGd3SXN3bEYxdmtZMl9TSVJlMEtYLWhQQkNWajdFb09NeEI5NEU1bkhIUXlKcVF4d9IB-AFBVV95cUxOYnFpMXpwOG15T1Vkc0VzczNQOTAzaDY2ZWdZWFc2ZmRqYTVJdWl4NWVqMjNTUEZMM3pWYmtQMFkySlFrSkdkeHB6WEh5YXpfTjlsdFZiZDN5V1d3U2dXQ2pFQlptUkR1R1Jqc1diRGt6UGJsZTA4cmFCUnVCeUMxVUpSZzNjMUhrM3ZkczNxQ19Md3gybWt6OVpLTG9tXzRzRTNUU2xya2JwTWVydnhqVktmVHc2MUpSakRueUNjY2lyTEwwOEdlQTZocW45T3lzVTFJQ2ZBNjVaWjR3blZOd3BJWnFtRklCa21pQ0dvazByaVYycXl0dw?oc=5
+- Reported Sale Of JF-17 Engines To Pak Will Benefit India: Russian Experts - NDTV
+  Reported Sale Of JF-17 Engines
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOMkFPZjI0OEF2dDFWY2t6LVBaMVc4NGlsaGVCVFdhWmZlYk0tRmRHOFUwSTlhbndkcC11VHNvQWF1TXBDNjJtd3Z2RERSOGJqRjQ2Ti1aSXZaNlk3UTFBWnFRUHNOd2dWU1g0YmdVaUFNcFVnNThqbG9xZ1BHeGhCeHV1Z2NtNHJMQnhxd1hJeTRMaVAxMkFZTXN2QkNDMm5sajNTVDE1OTdLOE9tUGRpcXdn0gG6AUFVX3lxTFAzUWkxWmhlQVo5WWQtN3k3Z2o4b3NuekZRcjFRaENKTGtzN1lOd3d3MHU0UFU0cm10ZmNPRnk3MU9Jc2JGSkFZMEVkT2NIbDJBRW5WU0U5SG5wZGVPSS1CTldvTXMzTlI5aU1LSklqZWpMaVpidlBMcUVpTXhza2poa3NZaFpHdmFKUGNvLW1nZm1RMGV5cHNvMnM0aVVPNW4xTmJSZC1PWVFIQ29pRjRyZEtDUGp3Vk1JQQ?oc=5
 
-- Gautam Gambhir's special gesture to Indian cricketers; India head coach to host entire squad before IND vs WI Delhi Test - Mint
-  Gautam Gambhir's special gesture to Indian cricketers. India head coach
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxOM2tUSUR6eEEySm9zVHhlMlRLbmtHcUVYam82THhwelhsSWQ4ZzBEZUJkOEtFSDNxUnZtZWhBRVhBWENucDhLUXhNRzNMNHBBTXdkZktVMGJNaEhCemFuY1k1MGhnNE5LRUZYZlllVTJTMGVRQmFkazVRQWNkOVlQNExjZ3A4U21WN3dOeGtMQ195QVhLcm01OVpwMGZiRzJBMUZkT3BUMjhVSHdqM3JMcWxwbExjcXFSVGJFWU5IWFBfYktJTTF2STVqSW5QdzZQcG9lbU9QNjVKeHlpNERvaVFXWTNGNnpjbjRMNFNJMHpmanQxdXNwenFIajRiNDR3OEZfREFxa3VCRDNWNDk3SdIBlgJBVV95cUxPdGtpOG5lNTRfZXF5VmlVeDlsUWdWZXFGdGZ4ZHJmci1NdUNvekl4aGxzWWxQV2dfSTRDajFKZS1kV1c4UlZkTHVDUDE0TnQtRlh6VHYwWlZSRFhDNG1OZjJucHY3Tmk1MnQ3U0NDTndTZmxFSVlNVjBuQ3ZRQThhNFdZckF1YTRvWEQtV0t5Z1ZLRjAxdmxJdVNqaFRiSWh6MTd3d0liLVdsS0J3M2Vabk9SakRmS3ZEUXJ6NS1RN3BySXpzYVA3RmQyUGp1NjdtUVR3TWF5SXNnYnZILUZZZDNQUnItcmhuMGlfR2NjclVrQ2Q5dTF5ZGJvNFlXa29XaWpEcmJWbkgtRmhIcEZZNEVEUjZrdw?oc=5
+- Stock recommendations for 7 October from MarketSmith India | Stock Market News - Mint
+  Stock recommendations for 7 October from MarketSmith India |
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeTlEUmx1a3dKWF8tTWpQNDJ2TU1qSFAtclI3dGdCbV8ta2hqN1RrM2laTlIzc1dIZmpiNGpDVlVhWm1LZXRsb2JWRUhPeS1LVWZOTE5xSE9CUkxrRjgtVm9YRnN1Q2R5OUI2QjNOLWRrZXdiRUdreE1wWTRjUHRBWXRqTEUyRUdFNTN4LUR0d3RvNXJxVVYzbGlpMXZTU1paWEVuVWtHVEE2OUtyMms4QWtEVkowVXN5dmtiQlZORjZxaXYzSk5mUU5BaGRGWnhSYnBwUFRiZU1zMUlLWkHSAeMBQVVfeXFMT0ZFNG1uU3NxbkJOSVBXVGY5RGdraDRGQy1PekJQbHNYeFk4VW9wTnlGZFNUU1JTQVVQVFRrWXQ2TDlMOUFnTzU0eVhnNmIySDc4NXdQRXM0blVLUG9vaF9YNk9zRWE5UDhjVmpOelFkVHc4d190XzM0M0lXTjZOcUpfdFJ1WUtZbFctcy1BWGRmOFpPQmJoV3JDV2ItSFUxc3FDM0gzQmk0OHFaV1F4V2hYNndrcUdGLWdFaFVOc25DOEhfZUItbERaUTRRYk53bmxQV3VRWjFHZGtIQ3FwT255MHc?oc=5
 
-- India, Qatar aim to double bilateral trade by 2030: Piyush Goyal - Mint
-  India, Qatar aim to double bilateral trade by
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3NscUZnY0h0Z3FqYURtT1FKelVUZUV2dUk1Y0ktOHd5S242T2xoeDlkQjNLTjNuZGQxRU5jWlNnbTkycnhvZlhwcEFiOFRweGR3ZGxDM3BpRTgyVFo5WkJ5aTVUVjlhbEZTWXJBOFF2cDEtNXE3QjRaeXY2QkZraW1sX05kdjg3NkFISXN3aEp4NVptdlNKeWI5R1poMTM0LXlicVFsVnM3cXNfUVlHSWpfWUNUdGFDbHfSAb8BQVVfeXFMTUxyUTc5cURQeU1ldkwydTRySExDX1prRng0cnF5SkJaZ3dJb2VOQlB0bVJKUHhLaFRvbk5TckRoMGQ4eGxRdjhXZzdBbGs0S194T1YtZTdZeFN4aEtjT0t5MzlQb3ZCYmpDTWhLeU5GNVdFZTk4R2xTQS02aUpWOWlBRUtTUk92ajh1bjlQaVZwb0NlQkZpaGNDWjRCaVV4XzlVM1ZKWGltbjhIcTU4THBjdjAwSXpVY0VENFc4R3M?oc=5
+- 'We're not proxies of govt of India': Indian-American leader's rebuttal to Shashi Tharoor's claim of diaspora apathy | Latest News India - Hindustan Times
+  'We're not proxies of govt of India': Indian-American leader's rebuttal to Sh
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMjdWUHk3eHk1Wmp2aUF5THJBUF96R3QtRURaa3lXMFFHV2pkS1BDeXlOZHptU19vQ3ZWTUNPWnc2T0stZVZCVnFsdmJ4d294czhfYzNES0FuUmtwVlV2UGtEMzdtN3BoOGR0Zk04S1psTnNRY3ppNkhEVHdoTUtDQ2VlN24zMTNVWTcyUXptYjNJRGdhYXRyRW4zbHBBY0lGenc3NlVQWkowMHNueG9qaXFSaEtmZV95ZVFHMFpfb05XXzlxTXFkZU1tekN0QVhaeVVQZmx2YXVOZjZ6VHpTbVBJZE5DMkpzbGgyNU9zQm1uUGtlRlHSAfsBQVVfeXFMTTk1S184bGRfTHd0NDAyUXlZbU1UUnJNMXYwZ0tZNnQtRVd4NDdjZkgwMkhMb0ZYeDJtaGpETzhVSXZONl9kNmlUUFZseVNURnZRMTIyUGdaYjFSSkZ0cFVkSmM3NkVkSmJBc2w5dFhQZGNMS0pNMkJQdHdDbmVRQ2VGSEhLTkk5U0V6ZVlOaFVUWHU0SE9ybjd3QmYxY0VIWDViYzYtNzBJZkZLTG5zZkVHYW1nell3QW9YUWVOSEkwRXZJa0xlVERTWm9OeGE0WDNfc1dmUUoyLTVsdGlwbWJPWEd5SzE0ckZlaFhxZXZGOGdnY3FTaEdVQVU?oc=5
 
-- India Builds World's Highest Motorable Road At 19,400 Ft In Ladakh - NDTV
-  India Builds World's Highest Motorable Road
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0RXY1BlZHVxZkxCZy00dkxEQWNIUXlWMmViRWtZMnpldkJ2MGhnSUNNMEYwQUF0MTZSZzFxWURud2hEUzhaUjVTZjYwRnI0UUZtbGtLaTFIaURYQkNKb0hLajB6TDY0MDBMTlgtUkxYTE0xRnRLVG8zVDk5QUpkazJ1XzJSdDB3c2d4Yld0SWNTVnkzWDJISXJoeVJicE5keGUw0gGrAUFVX3lxTE01NGgzY1ZDQkw0UWJQMjdrZ3gxYWNqNXI4TkNKMnNIdUxDazNIM21XRmNNTlFGTUZvNWtDVlk4SnZLWW45MzNpSlREamNZRWNoT1RaQXRNUU9UME1Odl9hWEdOZC1qdExGcm8yT1h3aUJmOUdLMzB3dzVNRV8tSk5MMHY4NU45UHp4Qm9Nd192SURVVFI0WWxQTi1nME45Wm5IZktxWHhUNC1iTQ?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Pakistan Defence Minister Khawaja Asif warns India against any future military conflict - The Hindu
+  Pakistan Defence Minister Khawaja Asif warns India against
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTVFqT1hkRWRYUFVkTUVFamIzM29QYW84d3dZWDVjQk1FWjI1SEZJWVAwdWVBSnlVa0RCY3BhYjMyeUU5TnFCUlVHNDhtQm1mc0xDQVdsVDJ3Wlk5bkdlb0lXOE9DYW5qaU5oQVd4VFhaMnlub3ZVZTVpSmd4Z2RzQllMVjFIMHZxMEd5aDl6dW9PQVpSdlBjYXU0MGtHQ2ROc2ZjaHhHVTVCTld6X2JFVWJ6ak5odlg2MDVsS2t1YWdiNmE0ODNXRk81ZFlna3FjNXpyTGhlMUtVWWlkWFFCZkdEU05yZ9IB7AFBVV95cUxQdFVkUmtGelgxajJnRnplRDQxeTA4cC1Tc0h0N2cwZ3VSamNSV2Y4WjZ1V2oxRmFNRGVuRWRvQnZVZTBELTRFVUpKN1RIOHE0WkFtcnVPaGE4NFRqQkZaYzhneU5TZ25kRURnLWd5OFZWSUZ2TTZ6UlRYSmhWa0NwTWU5T3hLQnBWQzhqSGZqUVQ3ZUhzTnJyOEk5RWo1TE8yc0tKWk4yejE2VnlqV2xVZHlVVVI2NHVpbXZBZE9nNWV6UzNCaXZuOUE4akhFMjBGdzdpb196T3pxYzV6Vk4yVGc3Yk1scDBOSzBFdA?oc=5
 
 
-_Last updated: 2025-10-06 18:26:10 UTC_
+_Last updated: 2025-10-07 01:10:06 UTC_
