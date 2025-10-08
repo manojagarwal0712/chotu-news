@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- Fintech, trade & defence on table as Starmer begins two-day visit today
+- Aryan Khan vs Sameer Wankhede: Delhi HC sends notice to Netflix, makers of ‘The Ba***ds of Bollywood’
   
-  🔗 https://indianexpress.com/article/india/fintech-trade-defence-on-table-as-starmer-begins-two-day-visit-today-10294018/
+  🔗 https://indianexpress.com/article/india/aryan-khan-vs-sameer-wankhede-notice-netflix-bads-of-bollywood-10294487/
 
-- Bihar polls: 1,200 CAPF companies likely to be deployed
+- 4 workers dead, 6 injured as lift crashes at power plant in Chhattisgarh’s Sakti
   
-  🔗 https://indianexpress.com/article/india/bihar-polls-1200-capf-companies-likely-to-be-deployed-10294008/
+  🔗 https://indianexpress.com/article/india/4-workers-dead-6-injured-lift-crashes-power-plant-chhattisgarh-sakti-10294495/
 
-- Education ministry directs officials to use Zoho Office suite citing ‘swadeshi movement’
+- A day after Dulquer challenged Customs in Court, ED raids him, his father Mammootty, and Prithviraj Sukumaran
   
-  🔗 https://indianexpress.com/article/india/zoho-office-suite-education-ministry-swadeshi-movement-10293709/
+  🔗 https://indianexpress.com/article/india/dulquer-challenged-customs-court-ed-father-mammootty-prithviraj-sukumaran-10294457/
 
-- Opposition MNF calls for total shutdown of Mizoram on Oct 29 to oppose FCAA
+- SC to hear this month plea on pending polls to Tripura’s village committees: TIPRA Motha chief Pradyot Kishore
   
-  🔗 https://indianexpress.com/article/india/mnf-total-shutdown-mizoram-oppose-fcaa-10293570/
+  🔗 https://indianexpress.com/article/india/sc-to-hear-this-month-plea-on-pending-polls-to-tripuras-village-committees-tipra-motha-chief-pradyot-kishore-10294482/
 
-- With a promise to visit soon, Vijay video calls families of Karur stampede victims
+- Forces launch massive search in J&K’s Rajouri to nab terrorists who fired at security personnel
   
-  🔗 https://indianexpress.com/article/india/vijay-video-call-karur-stampede-victim-video-call-10293535/
+  🔗 https://indianexpress.com/article/india/forces-launch-massive-search-jk-rajouri-terrorists-fired-security-10294470/
 
-- Recruiters use AI to scan resumes. Applicants are trying to trick it
+- Qualcomm buys open-source electronics firm Arduino
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/recruiters-use-ai-to-scan-resumes-applicants-are-trying-to-trick-it-10293394/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/qualcomm-buys-open-source-electronics-firm-arduino-10294440/
 
-- Vivo V60e with 200MP camera now available in India: Check price, specs and other details
+- India to roll out biometric authentication for instant digital payments from Wednesday, sources say
   
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/vivo-v60e-price-specs-india-launch-availability-10293198/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/india-to-roll-out-biometric-authentication-for-instant-digital-payments-from-wednesday-sources-say-10294412/
 
-- Flipkart Big Bang Diwali Sale kicks off soon; here are the dates and early-access deals
+- Intel to reveal tech details on forthcoming PC chip: Reports
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/flipkart-big-bang-diwali-sale-kicks-off-soon-here-are-the-dates-and-early-access-deals-10293220/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/intel-to-reveal-tech-details-on-forthcoming-pc-chip-reports-10294368/
 
-- Nobel Physics Prize 2025: When quantum got big enough to hold in your hand
+- From Face Check to AI: How Yoel Roth, Tinder parent Match Group’s head of trust and safety, is tackling dating app scams
   
-  🔗 https://indianexpress.com/article/technology/science/nobel-prize-physics-2025-when-quantum-got-big-to-hold-10293177/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/from-face-check-to-ai-how-yoel-roth-tinder-parent-match-groups-head-of-trust-and-safety-is-tackling-dating-app-scams-10294308/
 
-- In a toxic world, pets could be vital health watchdogs
+- Google debuts Gemini 2.5 Computer Use, an AI model with human-like web browsing skills
   
-  🔗 https://indianexpress.com/article/technology/science/in-a-toxic-world-pets-could-be-vital-health-watchdogs-10292953/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-gemini-2-5-computer-use-ai-web-browsing-10294196/
 
-- Top law firm partners defy risks to trade stability for starting up
-  10 partners from top firms like Cyril Amarchand, Trilegal, and AZB &amp;amp; Partners
+- TCS Q2 preview: Can CEO Krithivasan put an end to the IT major's misery?
+  TCS faces multiple challenges, including a potential revenue decline and layoffs that could impact morale. The company’s growth has slowed, and new visa regulations may further impact its
+  🔗 https://www.livemint.com/companies/news/tcs-q2-earnings-tata-consultancy-services-tcs-layoffs-k-krithivasan-indian-it-services-tcs-stock-11759893894014.html
+
+- TPG-backed online lender Fibe shortlists bankers to raise upto  ₹1,500 crore via IPO
+  Online lender Fibe plans to raise  ₹1,000–1,500 crore through an
+  🔗 https://www.livemint.com/companies/start-ups/fintech-ipo-india-fibe-prepares-public-listing-strategy-growth-profitability-11759892661844.html
+
+- Mega IPO in Hong Kong but fast-fashion retailer Shein is slow off the blocks in its second India innings
+  Global fast-fashion leader Shein is back in India with a licensing agreement with Reliance Retail Ventures
+  🔗 https://www.livemint.com/companies/shein-india-reliance-retail-fast-fashion-market-struggles-homegrown-competitors-11759732186241.html
+
+- Sundar Pichai says 5 Googlers have won Nobel Physics Prizes, congratulates 2025 winners for ‘incredible progress’
+  Sundar Pichai congratulated the Nobel Prize winners in Physics. One is a current Google scientist and another a former employee.
+  🔗 https://www.livemint.com/companies/people/google-sundar-pichai-5-employees-nobel-physics-prizes-congratulate-2025-winners-michel-devoret-john-martinis-john-clar-11759884665210.html
+
+- Inside the new wave of lawyers breaking away to build their own firms
+  A new wave of lawyers from top firms including Cyril Amarchand, Trilegal and AZB &amp;amp;
   🔗 https://www.livemint.com/companies/news/law-firms-talent-war-partners-leave-set-up-own-boutique-firms-trilegal-azb-partners-cyril-amarchand-11759822189069.html
 
-- Tanishq unlocks locker value with new exchange plan as gold sprints on
-  About 33% of purchases now linked to exchanges of old gold pieces and ornaments.
-  🔗 https://www.livemint.com/companies/titan-co-tanishq-gold-exchange-offers-amid-rising-prices-bullion-11759843657397.html
+- IPO GMPs: Canara Robeco IPO vs Rubicon Research IPO vs Canara HSBC Life IPO — what GMP signals about upcoming IPOs
+  Canara Robeco, Rubicon Research, and Canara HSBC Life IPOs are set to launch amid rising grey market premiums. Rubicon has a GMP of +80, Canara
+  🔗 https://www.livemint.com/market/ipo/ipo-gmps-canara-robeco-ipo-gmp-vs-rubicon-research-ipo-gmp-vs-canara-hsbc-life-ipo-gmp-what-gmp-hints-on-upcoming-ipos-11759900567197.html
 
-- Tesla launches cheaper versions of Model Y and Model 3, available for orders immediately – Here's how much it will cost
-  The Model Y is about 11% cheaper than the previous base model. It offers a range of 321 miles but omits features like a second-row touchscreen.
-  🔗 https://www.livemint.com/companies/news/tesla-launches-cheaper-version-of-model-y-available-for-orders-immediately-heres-how-much-it-will-cost-now-11759865875122.html
+- Godrej Consumer Products shares fall 3% to 6-month low after company flags profit drop in Q2
+  The company expects mid-single-digit revenue growth but warns of short-term EBITDA decline. Godrej Consumer Products shares
+  🔗 https://www.livemint.com/market/stock-market-news/godrej-consumer-products-shares-fall-3-to-6-month-low-after-company-flags-profit-drop-in-q2-11759902034042.html
 
-- State Bank of India plans bulk acquisition of 200 2BHK flats in Mumbai for  ₹294 crore
-  SBI plans to purchase 200 ready-to-move-in 2BHK flats in Mumbai for  ₹294
-  🔗 https://www.livemint.com/companies/news/state-bank-of-india-plans-bulk-acquisition-of-200-2bhk-flats-in-mumbai-for-294-crore-11759856524915.html
+- Canara Robeco IPO: 10 key risks you should know about before investing in  ₹1,326 crore issue
+  This article outlines ten critical factors that could impact the investment landscape and profitability. Before diving into the Canara Robeco IPO, potential investors must understand the highlighted risks.
+  🔗 https://www.livemint.com/market/ipo/canara-robeco-ipo-10-key-risks-you-should-know-about-before-investing-in-1-326-crore-issue-gmp-11759902587981.html
 
-- IT layoffs: How much did Accenture spend to reduce its workforce?
-  In fiscal 2024 and 2023, Accenture recorded business optimisation costs of $438 million and $1,
-  🔗 https://www.livemint.com/companies/news/it-layoffs-how-much-did-accenture-spend-to-reduce-its-workforce-11759850757340.html
+- India bonds rise on broader optimism; benchmark yield slips below key level
+  Bond market bulls drove the 10-year yield
+  🔗 https://www.livemint.com/market/bonds/india-bonds-rise-on-broader-optimism-benchmark-yield-slips-below-key-level-11759901782338.html
 
-- Global Markets Today: Nikkei 225, ASX 200 trade mixed  after World Bank raises growth forecast
-  Japan's Nikkei 225 was largely flat, while the Topix gained 0.62
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-asx-200-trade-mixed-after-world-bank-raises-growth-forecast-11759884061862.html
+- Tata Motors to Bajaj Finance- Jay Thakkar suggests three stocks to buy or sell for short-term in F&amp;O segment
+  Nifty 50 closed above 25,000 for the second consecutive day. Recommendations include Tata Motors, Bajaj Finance, and Indusind Bank futures.
+  🔗 https://www.livemint.com/market/stock-market-news/tata-motors-to-bajaj-finance-jay-thakkar-suggests-three-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11759899125788.html
 
-- WeWork IPO allotment date likely today; GMP, steps to check share allotment status online
-  Investors can check WeWork IPO allotment status online through the websites of BSE and NSE, along with the official portal of the IPO registrar. MUFG Intime India Pv
-  🔗 https://www.livemint.com/market/ipo/wework-ipo-allotment-date-today-gmp-steps-to-check-share-allotment-status-online-wework-ipo-gmp-wework-india-ipo-gmp-11759857833560.html
-
-- Om Freight Forwarders IPO listing date today. GMP, experts signal flat debut of shares in stock market today
-  Om Freight Forwarders IPO listing date is October 8. Shares will be listed on both the stock exchanges, BSE and NSE.
-  🔗 https://www.livemint.com/market/ipo/om-freight-forwarders-ipo-listing-date-today-gmp-experts-signal-flat-debut-of-shares-in-stock-market-today-11759857448793.html
-
-- Advance Agrolife IPO listing date today: Here’s what GMP, experts hint about share debut on Dalal Street
-  Advance Agrolife IPO listing is set for today at 10:00 IST, following a strong oversubscription. The grey market indicates a possible
-  🔗 https://www.livemint.com/market/ipo/advance-agrolife-ipo-gmp-advance-agrolife-ipo-allotment-status-advance-agrolife-ipo-listing-date-dalal-street-11759855181048.html
-
-- Stock market today: Trade setup for Nifty 50, Trump tariffs, US-India trade deal to Gold prices; 8 stocks to buy or sell
-  Sensex gained 136.63 points, closing at 81,926.75. Nifty 50 added 30.65 points. Analysts suggest potential short-term consolidation.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-trump-tariffs-us-india-trade-deal-to-gold-prices-8-stocks-to-buy-or-sell-11759851134610.html
+- Anthropic CEO Dario Amodei to visit India this week as Claude AI maker plans first office in Bengaluru
+  Anthropic will open its first office in Bengaluru, India, in early 2026. CEO Dario Amodei plans to visit India this week for meetings with officials.
+  🔗 https://www.livemint.com/technology/tech-news/anthropic-ceo-dario-amodei-to-visit-india-this-week-as-claude-ai-maker-plans-first-office-in-bengaluru-11759902122424.html
 
 - Anthropic to set up India office in Bengaluru, explores partnership with Mukesh Ambani’s Reliance Industries: Report
   The move comes as OpenAI strengthens its presence in India. Anthropic's Dario Amodei could establish a Bengaluru office and partner with Reliance Industries.
@@ -96,109 +100,125 @@
   The HMD Touch 4G offers a 3.2-inch touch display, 30-hour battery, and runs on RTOS. It features a 2MP rear camera, Dual
   🔗 https://www.livemint.com/technology/tech-news/hmd-4g-price-in-india-specs-and-everything-you-need-to-know-11759843166451.html
 
-- Paytm launches Playback feature to make a rap out of your expenses - but is your data safe?
-  Paytm's new AI feature allows selected users to transform their spending data into personalized rap songs. While the feature aims to engage users,
-  🔗 https://www.livemint.com/technology/tech-news/paytm-launches-playback-feature-to-make-a-rap-out-of-your-expenses-but-is-your-data-safe-11759837897791.html
+- Stock market today: Dow slides, S&P 500 and Nasdaq snap winning streaks as Oracle leads tech stocks lower - Yahoo Finance
+  Yahoo Finance: Dow slides, S&amp;P 500 and Nasdaq snap
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYjdBRy1HQVVkVWlXZ3FrdjZycVpkLXljSHdRVFR3NHFjeUsxa1ktR2JtX3BPZkRYMC1sWTVtM2s3dTdwUzg4Z3dHWlNiUXZmNnpjMEF3ZXhXcWFJenVUUXNaYkpwVnJGU0swM3ZOd1U4UEVtaHF0bVJDZ2k1VENvM01OZ2stdFlpdkZvWVh2NGJkd1ctUkpBU2xmNmhsNzBtbV9DdlIydXVNTlpNY214V25ESjJRU0huSVFHU2owYmZndw?oc=5
 
-- 'Deposit tokenisation' pilot to be set in motion on October 8
-  The Reserve Bank of India will start a deposit tokenisation pilot on October 8. The pilot will use the wholesale segment of its central bank digital currency.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/deposit-tokenisation-pilot-to-be-set-in-motion-on-october-8/articleshow/124374307.cms
+- S&P 500 Falls After $16 Trillion Surge From Lows: Markets Wrap - Bloomberg.com
+  P 500 Falls After $16 Trillion Surge
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQVzI1bThqbU53ZUl3Q3NzZHNnSmsydWx5bHQ5RzJFTG9QTjBNSDBYb0I1bWFVMmlDUlA5Vi1YcC1nVWZYYUlreDc0eUY1VVBkLVdkRzVfaXFzWG0zS2hURXJIS2hWNEE4TDZTUVZKZGZueGhTcXFpakxudE92ZHp3YVJVSHQtZnJzVHB2SkhMVlM1WDFK?oc=5
 
-- Ex-IndusInd banker traded on Kesoram-UltraTech deal info
-  A former IndusInd Bank official's wife traded Kesoram Industries shares after learning of acquisition talks. She profited significantly. The official also traded other company shares through family members, earning over ₹32 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ex-indusind-banker-traded-on-kesoram-ultratech-deal-info/articleshow/124374285.cms
+- Markets News, Oct. 7, 2025: Stock Indexes End Lower After S&P 500, Nasdaq Reach New Highs; Gold Hits $4,000 for First Time - Investopedia
+  Markets News, Oct. 7, 2025: Stock Indexes End Lower After S&amp;
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE1iZXViSmdmd1N5QW1NUGlibmswVGZXcTlTdzd3aUc3Q2lZa3gtNkpPRG5wVXNSUk9STHd3dmNqRUVtNXRma3huUUJuUm93RmJlYnN1Wk1vSm1icHVURk1qaGhBNHZkS1U0RUdabHFNOA?oc=5
 
-- Adani Enterprises raises Rs 1000 crore to repay debt
-  ICICI Prudential Mutual Fund investing ₹300 crore. The funds will be utilized for debt repayment, subsidiary support, and corporate expenses. The debentures, rated 'AA-; St
-  🔗 https://economictimes.indiatimes.com/markets/bonds/adani-enterprises-raises-rs-1000-crore-to-repay-debt/articleshow/124374270.cms
+- US stocks break winning spree - Business Standard
+  US stocks break winning
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmtvWUVqZE5IdDNISWxENVJKVEwxdjlENW51dnVHSk5VcEMyTl9xRHZVaFVTZUxvaGRmN3NoSTkxbnFKSW1zX1pQcFE1emlBdnZRME1DcWUxYWVpRmtOMzNoRmlLdzRzZEZlYjJwRmJpVlp6NHA1c0FGby1weF9sMGVGdnBBSW5BYjRTaFJQTVFPV2dkOXY1MlVJS0wxOWphazBIUEZZSGZnMUJvOVE1dNIBtgFBVV95cUxPZjZwRGk3MEN6dUUzVG1NLV8tVFN1eGhKTzQzUXVsQ2Zpa1FuTnZ3RFRlVTdzMW1jdnZVZnlTQjlQZ0lBSzRpeGhpckpDZ0trZDRvejdrYVZIYTZyclI4a1h3dTFvU1hZM0tPY3FyOW9kdWpCT1pkd096dmllUHUzcWNsaUFOYkpaWGFWbG1kTUJPelp3WHJrQ0cxOTRLMm5Tai1kWF9IT1hWdGRTSXlWMGdMNll6dw?oc=5
 
-- Pre-market action: Here's the trade setup for today's session
-  Nifty closed slightly higher on Tuesday as markets reacted to pre-quarterly business updates. Analysts anticipate Indian equities to trade within a range, with stock-specific movements driven by sectoral developments.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124367744.cms
+- Nifty 50, Sensex today: What to expect from Indian stock market in trade on October 8 amid mixed global markets trend - Mint
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxPa1QtMnNZckpvZURPY09yQk91YURhcEdDc2IwZ0tDTDc2SGRBQ05OcFljWmgzVk1vbkYxMkpRakFrR1hCcjQ0M3IxcGhRNnMxUHlZMDBtSFVLYnlpSkROWE14dWx6dnBWZE
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxPa1QtMnNZckpvZURPY09yQk91YURhcEdDc2IwZ0tDTDc2SGRBQ05OcFljWmgzVk1vbkYxMkpRakFrR1hCcjQ0M3IxcGhRNnMxUHlZMDBtSFVLYnlpSkROWE14dWx6dnBWZEtMV0JBNHBWdS0xNFgwalAyS2dURjBHWG5DMElEcm9RZTdneEVGWkFLYjBfOEpJRnBQN0ozSzZPVy1PZmh1VjE5anBIX2VaRmdvYi0zMVRtaG95UjhSajlPZ0VxMV9kS0xxeUZvVXpNZVJ1MUNGRUhrVzBKY1JFNVJ4b0xaUEIyNklhb05NWE1TVy16SHNiNkZldldSbUFEVzZ6enRGSUdRRmlHTDNpbWRJQdIBmAJBVV95cUxOSVBTT1piRlpaZ1NZRk01ekdIaFZWdDQwZGNsX3hKTWhNODlLRUQzZ0swWjUtR1pZRXpLTWVFdVotNDltN1U4ZTM0VjJQN0tnT2w1NFpwR3BoSkVpVzR0ZEhibTlzVWg5R2hQZ3pDLTE4NEhCejhlOEktZGEyMG4zUDNEcG1pVHI4Qk1qOGFVcWxneEU2V1R4SUExWkNzNUpTUmZQWnVwSE54U2Ezc0diVWE2X1ZiT1BHSzBQSktOUVJiQm5MUlhYY3o3b1RzOFRNOVNGZnY3TUZlUnQ2NFdIVXFxQ2o2QkZIdVU4TnZER2FCelV4aTU0LTIzUVpVU0xlNFRnV1ZlandDUmZsMGV0VWFrd25nM1pC?oc=5
 
-- Dotcom fears rise with tech stocks seeing $100-billion swings
-  Wall Street professionals are increasingly concerned about the rapid, massive gains in tech stocks. These dramatic market value increases, reminiscent of the dot-com era, are raising fears of an unhealthy bubble.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dotcom-fears-rise-with-tech-stocks-seeing-100-billion-swings/articleshow/124374248.cms
+- Tata Steel shares are up 25% in 2025. Can the rally hold above Rs 175?
+  The stock is consolidating in a Rs 166–175 range. Analysts say a decisive close above Rs 175 could trigger the next leg higher.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-shares-are-up-25-in-2025-can-the-rally-hold-above-rs-175/articleshow/124378614.cms
 
-- Donald Trump’s H-1B and student visa rules slam doors on Indian marriages, study plans | Latest News India - Hindustan Times
-  Donald Trump’s H-1B and student visa rules slam doors on Indian
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbFVYOHFHdXdkdnFUNzFmdW5XalRSV2lRSDRzcjM1OVBrNGQwYXRhMkRVNUhWeUJ1TXJvVE83MHZZeVNWM2tiWmdiRHFiMVd4SjBYbElsNlJDQUE5SmlDeUF5RG1GcWV0S1ozdjBacDdKeU1QN1dXREowa2l4R004S1VYWkVpcEstSVpUWmU0VC1zR202OGg2bm1aSjZ6RG45NUZQbzlHdUVYanh3blA0TGd6VDFEcW9CZnRmZjdxTk9EbjhseVVHSGNYbnNDUHlhOVBJR0ExU3h4LThMVThCMUh30gHnAUFVX3lxTFBXRjZpUXhWUnBOWmR2eUVTQUR2eExlVHMtdWtWQVVHYUVfaVFKNVVNQVRCLUlqM2R1cTRiblZzVDFqRWlyZ3BjU05ud25KdzIwY2hmOHBZdUJjaFFqZ0RFVUxBRXlhdkR0dkJJRUctRWZSUjNJblJHSEFFaEFLRTFYTkNrSThnYzFONGlrME54X2JHUGd6TDJNT21FRE5IUW9kSXZ6ZmlwM3F5aGV0TWlFR0xQTWFlSmkxalBTZEZtamxBTWFBYUVtWUdKT3pwS0g3V0tpaFVpV1Mxb0FNdkdfRlFYQk9FZw?oc=5
+- Confused about bonds? Jiraaf’s Saurav Ghosh explains the rise &amp; how to invest
+  Jiraaf's Bond Analyser and AI-powered tools are simplifying bond investing. They offer institutional-grade insights, real-time data, and personalized guidance.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/confused-about-bonds-jiraafs-saurav-ghosh-explains-the-rise-how-to-invest/articleshow/124378502.cms
 
-- What I said was very effective, they stopped: President Trump on India-Pakistan conflict - The Hindu
-  "What I said was very effective, they stopped: President
+- Canara Robeco AMC IPO: GMP at 12% ahead of October 9 launch. Check key dates, other details
+  Canara Robeco AMC IPO opens October 9 with a price band of Rs 253-266 per share. Ahead of the launch, the grey market premium on the stock hovered at around 12%.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/canara-robeco-amc-ipo-gmp-at-12-ahead-of-october-9-launch-check-key-dates-other-details/articleshow/124378531.cms
+
+- Miran advocates faster rate cuts amid moderating inflation
+  Fed Governor Miran urged swift and aggressive U.S. rate cuts. He cited calm bond markets, moderating inflation
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/miran-advocates-faster-rate-cuts-amid-moderating-inflation/articleshow/124378529.cms
+
+- Tata Sons to make over Rs 6,700 crore from stake sale in Tata Capital IPO
+  The Rs 15,512-crore IPO, closing today, combines a fresh issue and an OFS. Brokerages view it as a long-term play due to strong retail, SME, and digital lending franchises.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/tata-sons-to-make-over-rs-6700-crore-from-stake-sale-in-tata-capital-ipo/articleshow/124378161.cms
+
+- Expanding our global operations to India with our second Asia Pacific office - Anthropic
+  Expanding our global operations to India with our second
+  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE5NLVVuUnZYdUpYTW9Xb0lyY1ZNTG9pMTdaZHplUmRPMXVvOE5RSWZ1bkNvSGFwZnJwWFU2TmRrSDRhZ243TVBrM3FvTWJkdEk2QlA5R0ZXRi00VzFQSHE2VVZ5eXFORk43Qi1zMDJIbklQWld1UlE?oc=5
+
+- Anthropic CEO Dario Amodei to visit India this week as Claude AI maker plans first office in Bengaluru - Mint
+  Anthropic CEO Dario Amodei to visit India this week as Claude
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNG00aVJhZThyZERrQzNKb00yTFpfZWZqcGMxSFUyRkJ4d2FUcDNDczZJSnZrV3pmNllwQklkZFBzcmJ4MHRTVmJ3WHN4Mlo1MEFZRlg1anRrVW5uclFzYUpjcEVobi00d2hCUmhLME1icFE5UlJNNVhJMV9xZW1WLVFhMTZHdEs0VEt2Y09FQ3Q0cEx4bUVRMGtlYVBRNXF5RWhDNk1KQ3VsRVh3N0NqRVl2V1BnX2owd3d4WHNVdDZJdHBhLTJ1NEtrTG10WnIyQndDZHNiTGs2R3Z5ekQyTzJETmtCSlc4WWxJdTdLTWw2dFBWQ245R0pnbknSAYICQVVfeXFMTk5aQ1MtNmxEaWwwaUZTbjhMRDhTNGlzbmlpak01aDVNMW5qZGoyQWNIOXQ5TjA5R2NFaUNQZzRYeWpMWXFmaHZxSFBUNEViLURwUGpKNGpYSlB6MkF4YUhpRTlUVGsxYUVCS0d6MHR2UWxsbl9JYlVQbDF1Sm10blZ3NEhTMl9SSEY1cUdSbXQ0RnhmMlh1S2NxM2Y4RUJXWURNcUpVNnR0aGo2QnVJQ090U1M2MnlSeVVuTWRUODFkMncwX1VOVHpuWVFVQ1hmWXU4dkhvT2trMkRWZmI3S0FyMkkzMXdhZlJ5RjI1Rm42NkJIRW4tVGpCbXhZY0lxVV9B?oc=5
+
+- Anthropic to open first India office next year - The Hindu
+  Anthropic to open first India
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2pkRzRWQzlaeFNkeFVuOUhnN3VlODA1VDNYd25rVVVPaEFZLWxlZUo1aXRubmgtS1ZRVWl2ZXBPdHJEV05lVmt5Yndyc1p6UVRLUmJzUm5obURycHBYNUhVVmxzVXhfNFZMaVEybUt1bnRhVnM4cmZQUmdBdG9SakRmbjZyUmx1Y1NITGxnbkdVaU96d3VQbEd3VmFsV21SdlBCZW9TdjBuUFJIenRpM9IBtwFBVV95cUxOeFgydTBMcGtFa3lIdGx0dnNJWUZuVUZfZ1AweVR4Rm5rbm1IeDdlY1psUThhWWtBZUVUemItcVJ4SFZsOV9ISl85RURhVW9tQVFNNWxJOEF6eWVnZU5MWC1UcjlfX3pjWFcyZE9NRFB6RUtINzJzX0xNMHZTOE1hTEhzZUZob1F6YktBU28tSWU2cmJwSlZvd1FackFzRkJsVnZhSlF4NndmYTlfV2gxWmhCRVB5cEU?oc=5
+
+- Trump insists tariffs stopped India-Pakistan hostilities - The Hindu
+  Trump insists tariffs stopped India
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNenJjSm5TYU82M0Nxd1UwVWlFbm5EeDI4VnYwMlJzUW5PVEZqZVpkdlV2cmNTRE92bU5TZ0laX0pjVklSOUUtOERuUlItYm9qZGM3NXhVSnViT1QyMl9XNHlnNW03bGtjZFM4eEpnTzREcTRqTG9fREs4ckV2aThZZThPdzliTzlQOWRoRUhrdWo0b0sxY2FsdkQ0RE1Lc1BmOEpIOTM4V29DX1IyRVhjZzZlRzRidWd2c19Nc1JQTUNmYXhTb2V6Z1NSZ0ZmUzdlWDlud1ljVGc4dFVIdTR3dHhrU0LSAesBQVVfeXFMT0txY3pRLVloZjdoNl95Ry1nTGtYeFcyMk1telQwclpOSTBwUHFEZzg5bkpTNjJTWlhfa3hpZVRTZWZmVTQxVHR2cEE5NkdtUVEwb2xsYzhmbjJoXzJpTmMzZksyOWl2RXdBTTJWbzBhSUtxRWJkOGVndEVVUll1N0swN3hzVWkwRm1Yd2Z1c1dhSm5HNE1KVXU2cWNLZVBJdlhKb2s2MmtTcDN5MzhiZ0NJN01qelZGTzRsd0F3TXJnTVpmcllqYTNXcTlfQTEwVExwWV82ZUYxUEhVSEJiajVSUlVxa0ladjhpTQ?oc=5
 
-- Canadian PM Mark Carney calls Trump ‘transformative president’ for bringing ‘peace’ between India, Pakistan - Mint
-  The White House says President Donald Trump is committed to working with
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVUR5Sk00OUx5VFR6ZHFfUUxiRzBzOEVSSVZ0X3NUMjFoUjM0TE9vSXpkUzlNcG1hTXFVQmRwTEJaYWw0MWtlU191ejQzTWgzTF8tMFQzd0stR0U5VGxCeHh1aDZiU3JGMy1lZ1R2aC1RYVdxdEVySUY2SW5TLXdsS3UxOURiTGc3SVBJSldDYWgwRkt5MU80NTZwaXEtSzgyV2tJMC10dzVscTNpd2JQNVJoVHpfYlJER2NneThacC1CWWZGbUg3ZXY3SjNsSEw3ZzMtYjJmNHlad2JsZS0xbTA4eG1odXhmbnFUNEZYY9IB9AFBVV95cUxQOXpzbzAxX2ZTVjg3ZDZVYWRISTNXaGhIRVY4NTgtMFlTMUdBOGxyV3lpTlpIZXlGVC1WU1ptQ2Y2a1pWNkdiUWJNbjZFLW45azU2MDJ4TWNHcHIxTFpnNl9OaHhnSmJhdjFUQWhoSVYyUFN6cHNMZlVaT19hT2dwam15R2tLSW1KTHFtSV9DVi1YVkowSzZBTW8yYmtQV09uOXBxZno2WjU3cnQ5VWNZaHdjdlpVRVRMenF3WmQwYjd6QlhBaTYyNVFvZG1tZkNvWWUzLWRlaUNkTEp4c1ExS2NDdHplOV9MNF9YYUsyajhELWNo?oc=5
+- "Transformative President": Canadian PM Praises Trump Over India-Pak Peace - NDTV
+  "Transformative President": Canadian PM
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVraDg1enpWaFlSVm9ObFlVdlZzOVZXUlo4OURYRHM4VUc1bmo5dUNNUUlYLXF5WjVJT2tvNDhkUUwyWllSQXRiclBFZy1TTUFBck13RGM4UjJxaTgzV0ROWm1ndmFGbGpMRm5wT0ppbEluR3hseW15UkJzTGdlZllGWXlwNUlsbTFyb0J3eGNzR2lZQkhyb3dsWjVUZ3dEaTUyaVBxeEVvRGZieVJCNTdzLV9hMHdoaUVuYWQzTi14d1l2MWJna9IB0AFBVV95cUxNMG90SVdVM0VRcklJbmRJSFR3WmZEQTQ0Sk8zak5BYmU2cTJjM1p5VFhlYTBNaHV4T0k2OHJvN3hIMS01cnlPWmQ4cmR0YUNVeFdmZVNCSVpDeW9HZ1BPM1pjOTNFYkdjLU9IbThQVlMyenVfb21uckJfSmxMYmFNZGtpOWxYZEpRVkVjdFVyQklfM1VlVjBCa0hMNF9rc1JFUGF3TGl2VnZEUk8xa01YbG9Na2gtSlJ3Mmk0Mjl4YUZxS1I4bS1pQm5GdzdjVlpQ?oc=5
 
-- ‘US not an option for us anymore’: Indian students turn away from America | Latest News India - Hindustan Times
-  ‘US not an option for us anymore’: Indian students turn away
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPYzFSNG92NVZkSkljSnZNWFZaTy0zeGdlYW9QYlphTXM5VHE3ZlUtVFEyQmNfa0p2WVY3WExXNXdsdDBhcXMtYndpT2pza09yZUllRVdmUlhVenBVRklmM0d1NXE1UTBQdWlvVW94cTNZbFVZSVVyV3d5QmNMcF9wWmp3bEdsSU40bGpoNnc3UjdWMlZvU3BQQzRsSzJKMmtiN2ROMEhOSGljV1pISWZFWmIyQnZEQXMybmZ1NXREdWd5MEdxMEFHcnJQbUpId9IB0wFBVV95cUxObzRlZldtYjNCM3Qwd0JDWDctQU1oYlV3d3JZWG55VzB3Y1VRVXNUUDdKSUdGRTRrUXpXMHktLUpCekg4NzRxT1RxMmgyeXFnWlNFZWozQ1VWTHIzR0Z5SFBDd0FocHNmSUdRR3hSTk1zTW4tdjIyOWcwVmNENGdkaVNxdjFLMkF1blJXYXZaeWdFaDkyY09rNHl1QlQyVHNRNU5RWlJIV2Q2Y0t6M0t5N0I4U082TEJEYU1VV2xzRTlLbDJhRjRhbS1HbjdnRlkzbzZJ?oc=5
+- Expanding our global operations to India with our second Asia Pacific office - Anthropic
+  Expanding our global operations to India with our second
+  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE5NLVVuUnZYdUpYTW9Xb0lyY1ZNTG9pMTdaZHplUmRPMXVvOE5RSWZ1bkNvSGFwZnJwWFU2TmRrSDRhZ243TVBrM3FvTWJkdEk2QlA5R0ZXRi00VzFQSHE2VVZ5eXFORk43Qi1zMDJIbklQWld1UlE?oc=5
 
-- Starmer arrives in India with large business delegation in tow - The Hindu
-  Starmer arrives in India with large business delegation
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQlBRQm4tWHFRUTh0WUlUZHNHVnhyRmgxU2pVS3VsUXdvN1ZBUVNrNkxfNVRwb2RRakdpMm9VM3JHcHk5MnhPb1BjYUFzQU5KQnBPeUtHUVAyaGdRZ084dHprTWtJTFFObWZEUEUwUVdYaXVGWllfcVIzWk13ZFRLelB5UDNkdklSSXM3SDZKRi1JdnN2N2xlTU56WHllT1EzR3pBWXota0pUeUtubVRF0gG2AUFVX3lxTE1uVW92RjFwVjg0TDM2dkFOUkZUdDF4MjJqY0o4UlJUWndRNjJYUUFteTk3R0RnSkxsNkZWbWFuOXRqUEh5OFc5Y2lYcmlMZDRHZmtrbHMyVGRwQkxMcFVqQ0hwNHU5VmpyWTBIbjAxMGgxa1plZmZSbWlvWDF5X0ozZWM3a3RxQ3ZJeFp6Q2hRSlpPa0hkV2lSbkNvNXQtZkhEaEhsTFJrLW04amR5Ym9JcXNVcEhR?oc=5
+- Anthropic CEO Dario Amodei to visit India this week as Claude AI maker plans first office in Bengaluru - Mint
+  Anthropic CEO Dario Amodei to visit India this week as Claude
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNG00aVJhZThyZERrQzNKb00yTFpfZWZqcGMxSFUyRkJ4d2FUcDNDczZJSnZrV3pmNllwQklkZFBzcmJ4MHRTVmJ3WHN4Mlo1MEFZRlg1anRrVW5uclFzYUpjcEVobi00d2hCUmhLME1icFE5UlJNNVhJMV9xZW1WLVFhMTZHdEs0VEt2Y09FQ3Q0cEx4bUVRMGtlYVBRNXF5RWhDNk1KQ3VsRVh3N0NqRVl2V1BnX2owd3d4WHNVdDZJdHBhLTJ1NEtrTG10WnIyQndDZHNiTGs2R3Z5ekQyTzJETmtCSlc4WWxJdTdLTWw2dFBWQ245R0pnbknSAYICQVVfeXFMTk5aQ1MtNmxEaWwwaUZTbjhMRDhTNGlzbmlpak01aDVNMW5qZGoyQWNIOXQ5TjA5R2NFaUNQZzRYeWpMWXFmaHZxSFBUNEViLURwUGpKNGpYSlB6MkF4YUhpRTlUVGsxYUVCS0d6MHR2UWxsbl9JYlVQbDF1Sm10blZ3NEhTMl9SSEY1cUdSbXQ0RnhmMlh1S2NxM2Y4RUJXWURNcUpVNnR0aGo2QnVJQ090U1M2MnlSeVVuTWRUODFkMncwX1VOVHpuWVFVQ1hmWXU4dkhvT2trMkRWZmI3S0FyMkkzMXdhZlJ5RjI1Rm42NkJIRW4tVGpCbXhZY0lxVV9B?oc=5
 
-- Donald Trump’s H-1B and student visa rules slam doors on Indian marriages, study plans | Latest News India - Hindustan Times
-  Donald Trump’s H-1B and student visa rules slam doors on Indian
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbFVYOHFHdXdkdnFUNzFmdW5XalRSV2lRSDRzcjM1OVBrNGQwYXRhMkRVNUhWeUJ1TXJvVE83MHZZeVNWM2tiWmdiRHFiMVd4SjBYbElsNlJDQUE5SmlDeUF5RG1GcWV0S1ozdjBacDdKeU1QN1dXREowa2l4R004S1VYWkVpcEstSVpUWmU0VC1zR202OGg2bm1aSjZ6RG45NUZQbzlHdUVYanh3blA0TGd6VDFEcW9CZnRmZjdxTk9EbjhseVVHSGNYbnNDUHlhOVBJR0ExU3h4LThMVThCMUh30gHnAUFVX3lxTFBXRjZpUXhWUnBOWmR2eUVTQUR2eExlVHMtdWtWQVVHYUVfaVFKNVVNQVRCLUlqM2R1cTRiblZzVDFqRWlyZ3BjU05ud25KdzIwY2hmOHBZdUJjaFFqZ0RFVUxBRXlhdkR0dkJJRUctRWZSUjNJblJHSEFFaEFLRTFYTkNrSThnYzFONGlrME54X2JHUGd6TDJNT21FRE5IUW9kSXZ6ZmlwM3F5aGV0TWlFR0xQTWFlSmkxalBTZEZtamxBTWFBYUVtWUdKT3pwS0g3V0tpaFVpV1Mxb0FNdkdfRlFYQk9FZw?oc=5
+- Anthropic to open first India office next year - The Hindu
+  Anthropic to open first India
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2pkRzRWQzlaeFNkeFVuOUhnN3VlODA1VDNYd25rVVVPaEFZLWxlZUo1aXRubmgtS1ZRVWl2ZXBPdHJEV05lVmt5Yndyc1p6UVRLUmJzUm5obURycHBYNUhVVmxzVXhfNFZMaVEybUt1bnRhVnM4cmZQUmdBdG9SakRmbjZyUmx1Y1NITGxnbkdVaU96d3VQbEd3VmFsV21SdlBCZW9TdjBuUFJIenRpM9IBtwFBVV95cUxOeFgydTBMcGtFa3lIdGx0dnNJWUZuVUZfZ1AweVR4Rm5rbm1IeDdlY1psUThhWWtBZUVUemItcVJ4SFZsOV9ISl85RURhVW9tQVFNNWxJOEF6eWVnZU5MWC1UcjlfX3pjWFcyZE9NRFB6RUtINzJzX0xNMHZTOE1hTEhzZUZob1F6YktBU28tSWU2cmJwSlZvd1FackFzRkJsVnZhSlF4NndmYTlfV2gxWmhCRVB5cEU?oc=5
 
-- What I said was very effective, they stopped: President Trump on India-Pakistan conflict - The Hindu
-  "What I said was very effective, they stopped: President
+- Trump insists tariffs stopped India-Pakistan hostilities - The Hindu
+  Trump insists tariffs stopped India
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNenJjSm5TYU82M0Nxd1UwVWlFbm5EeDI4VnYwMlJzUW5PVEZqZVpkdlV2cmNTRE92bU5TZ0laX0pjVklSOUUtOERuUlItYm9qZGM3NXhVSnViT1QyMl9XNHlnNW03bGtjZFM4eEpnTzREcTRqTG9fREs4ckV2aThZZThPdzliTzlQOWRoRUhrdWo0b0sxY2FsdkQ0RE1Lc1BmOEpIOTM4V29DX1IyRVhjZzZlRzRidWd2c19Nc1JQTUNmYXhTb2V6Z1NSZ0ZmUzdlWDlud1ljVGc4dFVIdTR3dHhrU0LSAesBQVVfeXFMT0txY3pRLVloZjdoNl95Ry1nTGtYeFcyMk1telQwclpOSTBwUHFEZzg5bkpTNjJTWlhfa3hpZVRTZWZmVTQxVHR2cEE5NkdtUVEwb2xsYzhmbjJoXzJpTmMzZksyOWl2RXdBTTJWbzBhSUtxRWJkOGVndEVVUll1N0swN3hzVWkwRm1Yd2Z1c1dhSm5HNE1KVXU2cWNLZVBJdlhKb2s2MmtTcDN5MzhiZ0NJN01qelZGTzRsd0F3TXJnTVpmcllqYTNXcTlfQTEwVExwWV82ZUYxUEhVSEJiajVSUlVxa0ladjhpTQ?oc=5
 
-- Canadian PM Mark Carney calls Trump ‘transformative president’ for bringing ‘peace’ between India, Pakistan - Mint
-  The White House says President Donald Trump is committed to working with
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVUR5Sk00OUx5VFR6ZHFfUUxiRzBzOEVSSVZ0X3NUMjFoUjM0TE9vSXpkUzlNcG1hTXFVQmRwTEJaYWw0MWtlU191ejQzTWgzTF8tMFQzd0stR0U5VGxCeHh1aDZiU3JGMy1lZ1R2aC1RYVdxdEVySUY2SW5TLXdsS3UxOURiTGc3SVBJSldDYWgwRkt5MU80NTZwaXEtSzgyV2tJMC10dzVscTNpd2JQNVJoVHpfYlJER2NneThacC1CWWZGbUg3ZXY3SjNsSEw3ZzMtYjJmNHlad2JsZS0xbTA4eG1odXhmbnFUNEZYY9IB9AFBVV95cUxQOXpzbzAxX2ZTVjg3ZDZVYWRISTNXaGhIRVY4NTgtMFlTMUdBOGxyV3lpTlpIZXlGVC1WU1ptQ2Y2a1pWNkdiUWJNbjZFLW45azU2MDJ4TWNHcHIxTFpnNl9OaHhnSmJhdjFUQWhoSVYyUFN6cHNMZlVaT19hT2dwam15R2tLSW1KTHFtSV9DVi1YVkowSzZBTW8yYmtQV09uOXBxZno2WjU3cnQ5VWNZaHdjdlpVRVRMenF3WmQwYjd6QlhBaTYyNVFvZG1tZkNvWWUzLWRlaUNkTEp4c1ExS2NDdHplOV9MNF9YYUsyajhELWNo?oc=5
+- "Transformative President": Canadian PM Praises Trump Over India-Pak Peace - NDTV
+  "Transformative President": Canadian PM
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVraDg1enpWaFlSVm9ObFlVdlZzOVZXUlo4OURYRHM4VUc1bmo5dUNNUUlYLXF5WjVJT2tvNDhkUUwyWllSQXRiclBFZy1TTUFBck13RGM4UjJxaTgzV0ROWm1ndmFGbGpMRm5wT0ppbEluR3hseW15UkJzTGdlZllGWXlwNUlsbTFyb0J3eGNzR2lZQkhyb3dsWjVUZ3dEaTUyaVBxeEVvRGZieVJCNTdzLV9hMHdoaUVuYWQzTi14d1l2MWJna9IB0AFBVV95cUxNMG90SVdVM0VRcklJbmRJSFR3WmZEQTQ0Sk8zak5BYmU2cTJjM1p5VFhlYTBNaHV4T0k2OHJvN3hIMS01cnlPWmQ4cmR0YUNVeFdmZVNCSVpDeW9HZ1BPM1pjOTNFYkdjLU9IbThQVlMyenVfb21uckJfSmxMYmFNZGtpOWxYZEpRVkVjdFVyQklfM1VlVjBCa0hMNF9rc1JFUGF3TGl2VnZEUk8xa01YbG9Na2gtSlJ3Mmk0Mjl4YUZxS1I4bS1pQm5GdzdjVlpQ?oc=5
 
-- ‘US not an option for us anymore’: Indian students turn away from America | Latest News India - Hindustan Times
-  ‘US not an option for us anymore’: Indian students turn away
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPYzFSNG92NVZkSkljSnZNWFZaTy0zeGdlYW9QYlphTXM5VHE3ZlUtVFEyQmNfa0p2WVY3WExXNXdsdDBhcXMtYndpT2pza09yZUllRVdmUlhVenBVRklmM0d1NXE1UTBQdWlvVW94cTNZbFVZSVVyV3d5QmNMcF9wWmp3bEdsSU40bGpoNnc3UjdWMlZvU3BQQzRsSzJKMmtiN2ROMEhOSGljV1pISWZFWmIyQnZEQXMybmZ1NXREdWd5MEdxMEFHcnJQbUpId9IB0wFBVV95cUxObzRlZldtYjNCM3Qwd0JDWDctQU1oYlV3d3JZWG55VzB3Y1VRVXNUUDdKSUdGRTRrUXpXMHktLUpCekg4NzRxT1RxMmgyeXFnWlNFZWozQ1VWTHIzR0Z5SFBDd0FocHNmSUdRR3hSTk1zTW4tdjIyOWcwVmNENGdkaVNxdjFLMkF1blJXYXZaeWdFaDkyY09rNHl1QlQyVHNRNU5RWlJIV2Q2Y0t6M0t5N0I4U082TEJEYU1VV2xzRTlLbDJhRjRhbS1HbjdnRlkzbzZJ?oc=5
+- Expanding our global operations to India with our second Asia Pacific office - Anthropic
+  Expanding our global operations to India with our second
+  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE5NLVVuUnZYdUpYTW9Xb0lyY1ZNTG9pMTdaZHplUmRPMXVvOE5RSWZ1bkNvSGFwZnJwWFU2TmRrSDRhZ243TVBrM3FvTWJkdEk2QlA5R0ZXRi00VzFQSHE2VVZ5eXFORk43Qi1zMDJIbklQWld1UlE?oc=5
 
-- Starmer arrives in India with large business delegation in tow - The Hindu
-  Starmer arrives in India with large business delegation
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQlBRQm4tWHFRUTh0WUlUZHNHVnhyRmgxU2pVS3VsUXdvN1ZBUVNrNkxfNVRwb2RRakdpMm9VM3JHcHk5MnhPb1BjYUFzQU5KQnBPeUtHUVAyaGdRZ084dHprTWtJTFFObWZEUEUwUVdYaXVGWllfcVIzWk13ZFRLelB5UDNkdklSSXM3SDZKRi1JdnN2N2xlTU56WHllT1EzR3pBWXota0pUeUtubVRF0gG2AUFVX3lxTE1uVW92RjFwVjg0TDM2dkFOUkZUdDF4MjJqY0o4UlJUWndRNjJYUUFteTk3R0RnSkxsNkZWbWFuOXRqUEh5OFc5Y2lYcmlMZDRHZmtrbHMyVGRwQkxMcFVqQ0hwNHU5VmpyWTBIbjAxMGgxa1plZmZSbWlvWDF5X0ozZWM3a3RxQ3ZJeFp6Q2hRSlpPa0hkV2lSbkNvNXQtZkhEaEhsTFJrLW04amR5Ym9JcXNVcEhR?oc=5
+- Anthropic CEO Dario Amodei to visit India this week as Claude AI maker plans first office in Bengaluru - Mint
+  Anthropic CEO Dario Amodei to visit India this week as Claude
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNG00aVJhZThyZERrQzNKb00yTFpfZWZqcGMxSFUyRkJ4d2FUcDNDczZJSnZrV3pmNllwQklkZFBzcmJ4MHRTVmJ3WHN4Mlo1MEFZRlg1anRrVW5uclFzYUpjcEVobi00d2hCUmhLME1icFE5UlJNNVhJMV9xZW1WLVFhMTZHdEs0VEt2Y09FQ3Q0cEx4bUVRMGtlYVBRNXF5RWhDNk1KQ3VsRVh3N0NqRVl2V1BnX2owd3d4WHNVdDZJdHBhLTJ1NEtrTG10WnIyQndDZHNiTGs2R3Z5ekQyTzJETmtCSlc4WWxJdTdLTWw2dFBWQ245R0pnbknSAYICQVVfeXFMTk5aQ1MtNmxEaWwwaUZTbjhMRDhTNGlzbmlpak01aDVNMW5qZGoyQWNIOXQ5TjA5R2NFaUNQZzRYeWpMWXFmaHZxSFBUNEViLURwUGpKNGpYSlB6MkF4YUhpRTlUVGsxYUVCS0d6MHR2UWxsbl9JYlVQbDF1Sm10blZ3NEhTMl9SSEY1cUdSbXQ0RnhmMlh1S2NxM2Y4RUJXWURNcUpVNnR0aGo2QnVJQ090U1M2MnlSeVVuTWRUODFkMncwX1VOVHpuWVFVQ1hmWXU4dkhvT2trMkRWZmI3S0FyMkkzMXdhZlJ5RjI1Rm42NkJIRW4tVGpCbXhZY0lxVV9B?oc=5
 
-- Donald Trump’s H-1B and student visa rules slam doors on Indian marriages, study plans | Latest News India - Hindustan Times
-  Donald Trump’s H-1B and student visa rules slam doors on Indian
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbFVYOHFHdXdkdnFUNzFmdW5XalRSV2lRSDRzcjM1OVBrNGQwYXRhMkRVNUhWeUJ1TXJvVE83MHZZeVNWM2tiWmdiRHFiMVd4SjBYbElsNlJDQUE5SmlDeUF5RG1GcWV0S1ozdjBacDdKeU1QN1dXREowa2l4R004S1VYWkVpcEstSVpUWmU0VC1zR202OGg2bm1aSjZ6RG45NUZQbzlHdUVYanh3blA0TGd6VDFEcW9CZnRmZjdxTk9EbjhseVVHSGNYbnNDUHlhOVBJR0ExU3h4LThMVThCMUh30gHnAUFVX3lxTFBXRjZpUXhWUnBOWmR2eUVTQUR2eExlVHMtdWtWQVVHYUVfaVFKNVVNQVRCLUlqM2R1cTRiblZzVDFqRWlyZ3BjU05ud25KdzIwY2hmOHBZdUJjaFFqZ0RFVUxBRXlhdkR0dkJJRUctRWZSUjNJblJHSEFFaEFLRTFYTkNrSThnYzFONGlrME54X2JHUGd6TDJNT21FRE5IUW9kSXZ6ZmlwM3F5aGV0TWlFR0xQTWFlSmkxalBTZEZtamxBTWFBYUVtWUdKT3pwS0g3V0tpaFVpV1Mxb0FNdkdfRlFYQk9FZw?oc=5
+- Anthropic to open first India office next year - The Hindu
+  Anthropic to open first India
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2pkRzRWQzlaeFNkeFVuOUhnN3VlODA1VDNYd25rVVVPaEFZLWxlZUo1aXRubmgtS1ZRVWl2ZXBPdHJEV05lVmt5Yndyc1p6UVRLUmJzUm5obURycHBYNUhVVmxzVXhfNFZMaVEybUt1bnRhVnM4cmZQUmdBdG9SakRmbjZyUmx1Y1NITGxnbkdVaU96d3VQbEd3VmFsV21SdlBCZW9TdjBuUFJIenRpM9IBtwFBVV95cUxOeFgydTBMcGtFa3lIdGx0dnNJWUZuVUZfZ1AweVR4Rm5rbm1IeDdlY1psUThhWWtBZUVUemItcVJ4SFZsOV9ISl85RURhVW9tQVFNNWxJOEF6eWVnZU5MWC1UcjlfX3pjWFcyZE9NRFB6RUtINzJzX0xNMHZTOE1hTEhzZUZob1F6YktBU28tSWU2cmJwSlZvd1FackFzRkJsVnZhSlF4NndmYTlfV2gxWmhCRVB5cEU?oc=5
 
-- What I said was very effective, they stopped: President Trump on India-Pakistan conflict - The Hindu
-  "What I said was very effective, they stopped: President
+- Trump insists tariffs stopped India-Pakistan hostilities - The Hindu
+  Trump insists tariffs stopped India
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNenJjSm5TYU82M0Nxd1UwVWlFbm5EeDI4VnYwMlJzUW5PVEZqZVpkdlV2cmNTRE92bU5TZ0laX0pjVklSOUUtOERuUlItYm9qZGM3NXhVSnViT1QyMl9XNHlnNW03bGtjZFM4eEpnTzREcTRqTG9fREs4ckV2aThZZThPdzliTzlQOWRoRUhrdWo0b0sxY2FsdkQ0RE1Lc1BmOEpIOTM4V29DX1IyRVhjZzZlRzRidWd2c19Nc1JQTUNmYXhTb2V6Z1NSZ0ZmUzdlWDlud1ljVGc4dFVIdTR3dHhrU0LSAesBQVVfeXFMT0txY3pRLVloZjdoNl95Ry1nTGtYeFcyMk1telQwclpOSTBwUHFEZzg5bkpTNjJTWlhfa3hpZVRTZWZmVTQxVHR2cEE5NkdtUVEwb2xsYzhmbjJoXzJpTmMzZksyOWl2RXdBTTJWbzBhSUtxRWJkOGVndEVVUll1N0swN3hzVWkwRm1Yd2Z1c1dhSm5HNE1KVXU2cWNLZVBJdlhKb2s2MmtTcDN5MzhiZ0NJN01qelZGTzRsd0F3TXJnTVpmcllqYTNXcTlfQTEwVExwWV82ZUYxUEhVSEJiajVSUlVxa0ladjhpTQ?oc=5
 
-- Canadian PM Mark Carney calls Trump ‘transformative president’ for bringing ‘peace’ between India, Pakistan - Mint
-  The White House says President Donald Trump is committed to working with
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVUR5Sk00OUx5VFR6ZHFfUUxiRzBzOEVSSVZ0X3NUMjFoUjM0TE9vSXpkUzlNcG1hTXFVQmRwTEJaYWw0MWtlU191ejQzTWgzTF8tMFQzd0stR0U5VGxCeHh1aDZiU3JGMy1lZ1R2aC1RYVdxdEVySUY2SW5TLXdsS3UxOURiTGc3SVBJSldDYWgwRkt5MU80NTZwaXEtSzgyV2tJMC10dzVscTNpd2JQNVJoVHpfYlJER2NneThacC1CWWZGbUg3ZXY3SjNsSEw3ZzMtYjJmNHlad2JsZS0xbTA4eG1odXhmbnFUNEZYY9IB9AFBVV95cUxQOXpzbzAxX2ZTVjg3ZDZVYWRISTNXaGhIRVY4NTgtMFlTMUdBOGxyV3lpTlpIZXlGVC1WU1ptQ2Y2a1pWNkdiUWJNbjZFLW45azU2MDJ4TWNHcHIxTFpnNl9OaHhnSmJhdjFUQWhoSVYyUFN6cHNMZlVaT19hT2dwam15R2tLSW1KTHFtSV9DVi1YVkowSzZBTW8yYmtQV09uOXBxZno2WjU3cnQ5VWNZaHdjdlpVRVRMenF3WmQwYjd6QlhBaTYyNVFvZG1tZkNvWWUzLWRlaUNkTEp4c1ExS2NDdHplOV9MNF9YYUsyajhELWNo?oc=5
+- "Transformative President": Canadian PM Praises Trump Over India-Pak Peace - NDTV
+  "Transformative President": Canadian PM
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVraDg1enpWaFlSVm9ObFlVdlZzOVZXUlo4OURYRHM4VUc1bmo5dUNNUUlYLXF5WjVJT2tvNDhkUUwyWllSQXRiclBFZy1TTUFBck13RGM4UjJxaTgzV0ROWm1ndmFGbGpMRm5wT0ppbEluR3hseW15UkJzTGdlZllGWXlwNUlsbTFyb0J3eGNzR2lZQkhyb3dsWjVUZ3dEaTUyaVBxeEVvRGZieVJCNTdzLV9hMHdoaUVuYWQzTi14d1l2MWJna9IB0AFBVV95cUxNMG90SVdVM0VRcklJbmRJSFR3WmZEQTQ0Sk8zak5BYmU2cTJjM1p5VFhlYTBNaHV4T0k2OHJvN3hIMS01cnlPWmQ4cmR0YUNVeFdmZVNCSVpDeW9HZ1BPM1pjOTNFYkdjLU9IbThQVlMyenVfb21uckJfSmxMYmFNZGtpOWxYZEpRVkVjdFVyQklfM1VlVjBCa0hMNF9rc1JFUGF3TGl2VnZEUk8xa01YbG9Na2gtSlJ3Mmk0Mjl4YUZxS1I4bS1pQm5GdzdjVlpQ?oc=5
 
-- ‘US not an option for us anymore’: Indian students turn away from America | Latest News India - Hindustan Times
-  ‘US not an option for us anymore’: Indian students turn away
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPYzFSNG92NVZkSkljSnZNWFZaTy0zeGdlYW9QYlphTXM5VHE3ZlUtVFEyQmNfa0p2WVY3WExXNXdsdDBhcXMtYndpT2pza09yZUllRVdmUlhVenBVRklmM0d1NXE1UTBQdWlvVW94cTNZbFVZSVVyV3d5QmNMcF9wWmp3bEdsSU40bGpoNnc3UjdWMlZvU3BQQzRsSzJKMmtiN2ROMEhOSGljV1pISWZFWmIyQnZEQXMybmZ1NXREdWd5MEdxMEFHcnJQbUpId9IB0wFBVV95cUxObzRlZldtYjNCM3Qwd0JDWDctQU1oYlV3d3JZWG55VzB3Y1VRVXNUUDdKSUdGRTRrUXpXMHktLUpCekg4NzRxT1RxMmgyeXFnWlNFZWozQ1VWTHIzR0Z5SFBDd0FocHNmSUdRR3hSTk1zTW4tdjIyOWcwVmNENGdkaVNxdjFLMkF1blJXYXZaeWdFaDkyY09rNHl1QlQyVHNRNU5RWlJIV2Q2Y0t6M0t5N0I4U082TEJEYU1VV2xzRTlLbDJhRjRhbS1HbjdnRlkzbzZJ?oc=5
+- Expanding our global operations to India with our second Asia Pacific office - Anthropic
+  Expanding our global operations to India with our second
+  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE5NLVVuUnZYdUpYTW9Xb0lyY1ZNTG9pMTdaZHplUmRPMXVvOE5RSWZ1bkNvSGFwZnJwWFU2TmRrSDRhZ243TVBrM3FvTWJkdEk2QlA5R0ZXRi00VzFQSHE2VVZ5eXFORk43Qi1zMDJIbklQWld1UlE?oc=5
 
-- Starmer arrives in India with large business delegation in tow - The Hindu
-  Starmer arrives in India with large business delegation
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQlBRQm4tWHFRUTh0WUlUZHNHVnhyRmgxU2pVS3VsUXdvN1ZBUVNrNkxfNVRwb2RRakdpMm9VM3JHcHk5MnhPb1BjYUFzQU5KQnBPeUtHUVAyaGdRZ084dHprTWtJTFFObWZEUEUwUVdYaXVGWllfcVIzWk13ZFRLelB5UDNkdklSSXM3SDZKRi1JdnN2N2xlTU56WHllT1EzR3pBWXota0pUeUtubVRF0gG2AUFVX3lxTE1uVW92RjFwVjg0TDM2dkFOUkZUdDF4MjJqY0o4UlJUWndRNjJYUUFteTk3R0RnSkxsNkZWbWFuOXRqUEh5OFc5Y2lYcmlMZDRHZmtrbHMyVGRwQkxMcFVqQ0hwNHU5VmpyWTBIbjAxMGgxa1plZmZSbWlvWDF5X0ozZWM3a3RxQ3ZJeFp6Q2hRSlpPa0hkV2lSbkNvNXQtZkhEaEhsTFJrLW04amR5Ym9JcXNVcEhR?oc=5
+- Anthropic CEO Dario Amodei to visit India this week as Claude AI maker plans first office in Bengaluru - Mint
+  Anthropic CEO Dario Amodei to visit India this week as Claude
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNG00aVJhZThyZERrQzNKb00yTFpfZWZqcGMxSFUyRkJ4d2FUcDNDczZJSnZrV3pmNllwQklkZFBzcmJ4MHRTVmJ3WHN4Mlo1MEFZRlg1anRrVW5uclFzYUpjcEVobi00d2hCUmhLME1icFE5UlJNNVhJMV9xZW1WLVFhMTZHdEs0VEt2Y09FQ3Q0cEx4bUVRMGtlYVBRNXF5RWhDNk1KQ3VsRVh3N0NqRVl2V1BnX2owd3d4WHNVdDZJdHBhLTJ1NEtrTG10WnIyQndDZHNiTGs2R3Z5ekQyTzJETmtCSlc4WWxJdTdLTWw2dFBWQ245R0pnbknSAYICQVVfeXFMTk5aQ1MtNmxEaWwwaUZTbjhMRDhTNGlzbmlpak01aDVNMW5qZGoyQWNIOXQ5TjA5R2NFaUNQZzRYeWpMWXFmaHZxSFBUNEViLURwUGpKNGpYSlB6MkF4YUhpRTlUVGsxYUVCS0d6MHR2UWxsbl9JYlVQbDF1Sm10blZ3NEhTMl9SSEY1cUdSbXQ0RnhmMlh1S2NxM2Y4RUJXWURNcUpVNnR0aGo2QnVJQ090U1M2MnlSeVVuTWRUODFkMncwX1VOVHpuWVFVQ1hmWXU4dkhvT2trMkRWZmI3S0FyMkkzMXdhZlJ5RjI1Rm42NkJIRW4tVGpCbXhZY0lxVV9B?oc=5
 
-- Donald Trump’s H-1B and student visa rules slam doors on Indian marriages, study plans | Latest News India - Hindustan Times
-  Donald Trump’s H-1B and student visa rules slam doors on Indian
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbFVYOHFHdXdkdnFUNzFmdW5XalRSV2lRSDRzcjM1OVBrNGQwYXRhMkRVNUhWeUJ1TXJvVE83MHZZeVNWM2tiWmdiRHFiMVd4SjBYbElsNlJDQUE5SmlDeUF5RG1GcWV0S1ozdjBacDdKeU1QN1dXREowa2l4R004S1VYWkVpcEstSVpUWmU0VC1zR202OGg2bm1aSjZ6RG45NUZQbzlHdUVYanh3blA0TGd6VDFEcW9CZnRmZjdxTk9EbjhseVVHSGNYbnNDUHlhOVBJR0ExU3h4LThMVThCMUh30gHnAUFVX3lxTFBXRjZpUXhWUnBOWmR2eUVTQUR2eExlVHMtdWtWQVVHYUVfaVFKNVVNQVRCLUlqM2R1cTRiblZzVDFqRWlyZ3BjU05ud25KdzIwY2hmOHBZdUJjaFFqZ0RFVUxBRXlhdkR0dkJJRUctRWZSUjNJblJHSEFFaEFLRTFYTkNrSThnYzFONGlrME54X2JHUGd6TDJNT21FRE5IUW9kSXZ6ZmlwM3F5aGV0TWlFR0xQTWFlSmkxalBTZEZtamxBTWFBYUVtWUdKT3pwS0g3V0tpaFVpV1Mxb0FNdkdfRlFYQk9FZw?oc=5
+- Anthropic to open first India office next year - The Hindu
+  Anthropic to open first India
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2pkRzRWQzlaeFNkeFVuOUhnN3VlODA1VDNYd25rVVVPaEFZLWxlZUo1aXRubmgtS1ZRVWl2ZXBPdHJEV05lVmt5Yndyc1p6UVRLUmJzUm5obURycHBYNUhVVmxzVXhfNFZMaVEybUt1bnRhVnM4cmZQUmdBdG9SakRmbjZyUmx1Y1NITGxnbkdVaU96d3VQbEd3VmFsV21SdlBCZW9TdjBuUFJIenRpM9IBtwFBVV95cUxOeFgydTBMcGtFa3lIdGx0dnNJWUZuVUZfZ1AweVR4Rm5rbm1IeDdlY1psUThhWWtBZUVUemItcVJ4SFZsOV9ISl85RURhVW9tQVFNNWxJOEF6eWVnZU5MWC1UcjlfX3pjWFcyZE9NRFB6RUtINzJzX0xNMHZTOE1hTEhzZUZob1F6YktBU28tSWU2cmJwSlZvd1FackFzRkJsVnZhSlF4NndmYTlfV2gxWmhCRVB5cEU?oc=5
 
-- What I said was very effective, they stopped: President Trump on India-Pakistan conflict - The Hindu
-  "What I said was very effective, they stopped: President
+- Trump insists tariffs stopped India-Pakistan hostilities - The Hindu
+  Trump insists tariffs stopped India
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNenJjSm5TYU82M0Nxd1UwVWlFbm5EeDI4VnYwMlJzUW5PVEZqZVpkdlV2cmNTRE92bU5TZ0laX0pjVklSOUUtOERuUlItYm9qZGM3NXhVSnViT1QyMl9XNHlnNW03bGtjZFM4eEpnTzREcTRqTG9fREs4ckV2aThZZThPdzliTzlQOWRoRUhrdWo0b0sxY2FsdkQ0RE1Lc1BmOEpIOTM4V29DX1IyRVhjZzZlRzRidWd2c19Nc1JQTUNmYXhTb2V6Z1NSZ0ZmUzdlWDlud1ljVGc4dFVIdTR3dHhrU0LSAesBQVVfeXFMT0txY3pRLVloZjdoNl95Ry1nTGtYeFcyMk1telQwclpOSTBwUHFEZzg5bkpTNjJTWlhfa3hpZVRTZWZmVTQxVHR2cEE5NkdtUVEwb2xsYzhmbjJoXzJpTmMzZksyOWl2RXdBTTJWbzBhSUtxRWJkOGVndEVVUll1N0swN3hzVWkwRm1Yd2Z1c1dhSm5HNE1KVXU2cWNLZVBJdlhKb2s2MmtTcDN5MzhiZ0NJN01qelZGTzRsd0F3TXJnTVpmcllqYTNXcTlfQTEwVExwWV82ZUYxUEhVSEJiajVSUlVxa0ladjhpTQ?oc=5
 
-- Canadian PM Mark Carney calls Trump ‘transformative president’ for bringing ‘peace’ between India, Pakistan - Mint
-  The White House says President Donald Trump is committed to working with
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVUR5Sk00OUx5VFR6ZHFfUUxiRzBzOEVSSVZ0X3NUMjFoUjM0TE9vSXpkUzlNcG1hTXFVQmRwTEJaYWw0MWtlU191ejQzTWgzTF8tMFQzd0stR0U5VGxCeHh1aDZiU3JGMy1lZ1R2aC1RYVdxdEVySUY2SW5TLXdsS3UxOURiTGc3SVBJSldDYWgwRkt5MU80NTZwaXEtSzgyV2tJMC10dzVscTNpd2JQNVJoVHpfYlJER2NneThacC1CWWZGbUg3ZXY3SjNsSEw3ZzMtYjJmNHlad2JsZS0xbTA4eG1odXhmbnFUNEZYY9IB9AFBVV95cUxQOXpzbzAxX2ZTVjg3ZDZVYWRISTNXaGhIRVY4NTgtMFlTMUdBOGxyV3lpTlpIZXlGVC1WU1ptQ2Y2a1pWNkdiUWJNbjZFLW45azU2MDJ4TWNHcHIxTFpnNl9OaHhnSmJhdjFUQWhoSVYyUFN6cHNMZlVaT19hT2dwam15R2tLSW1KTHFtSV9DVi1YVkowSzZBTW8yYmtQV09uOXBxZno2WjU3cnQ5VWNZaHdjdlpVRVRMenF3WmQwYjd6QlhBaTYyNVFvZG1tZkNvWWUzLWRlaUNkTEp4c1ExS2NDdHplOV9MNF9YYUsyajhELWNo?oc=5
-
-- ‘US not an option for us anymore’: Indian students turn away from America | Latest News India - Hindustan Times
-  ‘US not an option for us anymore’: Indian students turn away
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPYzFSNG92NVZkSkljSnZNWFZaTy0zeGdlYW9QYlphTXM5VHE3ZlUtVFEyQmNfa0p2WVY3WExXNXdsdDBhcXMtYndpT2pza09yZUllRVdmUlhVenBVRklmM0d1NXE1UTBQdWlvVW94cTNZbFVZSVVyV3d5QmNMcF9wWmp3bEdsSU40bGpoNnc3UjdWMlZvU3BQQzRsSzJKMmtiN2ROMEhOSGljV1pISWZFWmIyQnZEQXMybmZ1NXREdWd5MEdxMEFHcnJQbUpId9IB0wFBVV95cUxObzRlZldtYjNCM3Qwd0JDWDctQU1oYlV3d3JZWG55VzB3Y1VRVXNUUDdKSUdGRTRrUXpXMHktLUpCekg4NzRxT1RxMmgyeXFnWlNFZWozQ1VWTHIzR0Z5SFBDd0FocHNmSUdRR3hSTk1zTW4tdjIyOWcwVmNENGdkaVNxdjFLMkF1blJXYXZaeWdFaDkyY09rNHl1QlQyVHNRNU5RWlJIV2Q2Y0t6M0t5N0I4U082TEJEYU1VV2xzRTlLbDJhRjRhbS1HbjdnRlkzbzZJ?oc=5
-
-- Starmer arrives in India with large business delegation in tow - The Hindu
-  Starmer arrives in India with large business delegation
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNQlBRQm4tWHFRUTh0WUlUZHNHVnhyRmgxU2pVS3VsUXdvN1ZBUVNrNkxfNVRwb2RRakdpMm9VM3JHcHk5MnhPb1BjYUFzQU5KQnBPeUtHUVAyaGdRZ084dHprTWtJTFFObWZEUEUwUVdYaXVGWllfcVIzWk13ZFRLelB5UDNkdklSSXM3SDZKRi1JdnN2N2xlTU56WHllT1EzR3pBWXota0pUeUtubVRF0gG2AUFVX3lxTE1uVW92RjFwVjg0TDM2dkFOUkZUdDF4MjJqY0o4UlJUWndRNjJYUUFteTk3R0RnSkxsNkZWbWFuOXRqUEh5OFc5Y2lYcmlMZDRHZmtrbHMyVGRwQkxMcFVqQ0hwNHU5VmpyWTBIbjAxMGgxa1plZmZSbWlvWDF5X0ozZWM3a3RxQ3ZJeFp6Q2hRSlpPa0hkV2lSbkNvNXQtZkhEaEhsTFJrLW04amR5Ym9JcXNVcEhR?oc=5
+- "Transformative President": Canadian PM Praises Trump Over India-Pak Peace - NDTV
+  "Transformative President": Canadian PM
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVraDg1enpWaFlSVm9ObFlVdlZzOVZXUlo4OURYRHM4VUc1bmo5dUNNUUlYLXF5WjVJT2tvNDhkUUwyWllSQXRiclBFZy1TTUFBck13RGM4UjJxaTgzV0ROWm1ndmFGbGpMRm5wT0ppbEluR3hseW15UkJzTGdlZllGWXlwNUlsbTFyb0J3eGNzR2lZQkhyb3dsWjVUZ3dEaTUyaVBxeEVvRGZieVJCNTdzLV9hMHdoaUVuYWQzTi14d1l2MWJna9IB0AFBVV95cUxNMG90SVdVM0VRcklJbmRJSFR3WmZEQTQ0Sk8zak5BYmU2cTJjM1p5VFhlYTBNaHV4T0k2OHJvN3hIMS01cnlPWmQ4cmR0YUNVeFdmZVNCSVpDeW9HZ1BPM1pjOTNFYkdjLU9IbThQVlMyenVfb21uckJfSmxMYmFNZGtpOWxYZEpRVkVjdFVyQklfM1VlVjBCa0hMNF9rc1JFUGF3TGl2VnZEUk8xa01YbG9Na2gtSlJ3Mmk0Mjl4YUZxS1I4bS1pQm5GdzdjVlpQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-08 01:10:18 UTC_
+_Last updated: 2025-10-08 06:28:15 UTC_
