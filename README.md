@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- India’s first bullet train to run in August 2027, says Railway Minister Ashwini Vaishnaw
+- One of two soldiers missing in South Kashmir forests found dead
   
-  🔗 https://indianexpress.com/article/india/india-first-bullet-train-run-august-2027-ashwini-vaishnaw-route-10297257/
+  🔗 https://indianexpress.com/article/india/one-of-two-soldiers-missing-in-south-kashmir-forests-found-dead-10297830/
 
-- Rajen Gohain, 4-time BJP MP & ex-Union minister, quits party along with 17 others
+- Rajnath, Marles hold talks in Canberra Forum for joint staff talks to submarine co-op: India, Australia ink 3 pacts
   
-  🔗 https://indianexpress.com/article/india/ex-union-minister-rajen-gohain-17-others-resign-from-bjp-10297310/
+  🔗 https://indianexpress.com/article/india/rajnath-singh-richard-marles-canberra-forum-india-australia-10297852/
 
-- ‘Shocked, but it’s a forgotten chapter’: CJI Gavai on shoe-attack in Supreme Court
+- People’s spirit of cooperation helped restore normalcy in Ladakh: LG Kavinder Gupta
   
-  🔗 https://indianexpress.com/article/india/shocked-but-its-a-forgotten-chapter-cji-gavai-on-shoe-attack-in-supreme-court-10297240/
+  🔗 https://indianexpress.com/article/india/ladakh-normalcy-restore-people-lg-kavinder-gupta-10297849/
 
-- Kerala to get its 3rd Vande Bharat train next month – check route, stoppages
+- Govt panel recommends green nod for Sawalkote hydel project in Indus basin
   
-  🔗 https://indianexpress.com/article/india/indian-railways-kerala-third-vande-bharat-train-launch-november-route-stops-10297058/
+  🔗 https://indianexpress.com/article/india/govt-panel-recommends-green-nod-for-sawalkote-hydel-project-in-indus-basin-10297813/
 
-- Delay in Election Commission’s nationwide SIR leaves both intensive and annual voter roll revisions in limbo
+- PM Modi calls up ‘friend’ Netanyahu, congratulates him on ‘Trump’s Gaza peace plan’
   
-  🔗 https://indianexpress.com/article/india/bihar-sir-election-commission-annual-intensive-voter-revision-10297191/
+  🔗 https://indianexpress.com/article/india/pm-modi-dials-netanyahu-congratulates-him-on-trumps-gaza-peace-plan-10297806/
+
+- Motorola Edge 70 price leaked ahead of launch; rumoured to be slimmer than 6mm
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/motorola-edge-70-price-leaked-ahead-of-launch-rumoured-to-be-slimmer-than-6mm-10297461/
+
+- Google Japan revives retro tech with a rotary-dial keyboard you can build yourself
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-japan-revives-retro-tech-with-a-rotary-dial-keyboard-you-can-build-yourself-10297323/
 
 - Google launches Gemini Enterprise, a new platform for workplace automation using AI agents
   
@@ -32,173 +40,193 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/openais-sora-downloads-nearly-match-chatgpts-launch-in-first-week-10296865/
 
-- Blue Origin space flight takes first Kazakh woman, Ukraine investor to space: Video
-  
-  🔗 https://indianexpress.com/article/technology/science/blue-origin-space-flight-first-kazakh-woman-ukraine-investor-to-space-video-10296621/
+- TCS layoffs: Headcount falls by nearly 20,000 amid restructuring, NITES accuses IT major of downplaying number
+  CSI headcount falls by nearly 20,
+  🔗 https://www.livemint.com/companies/news/tcs-q2-results-it-majors-headcount-falls-by-nearly-20-000-nites-accuses-company-of-downplaying-layoffs-11760028238100.html
 
-- After AMD deal, OpenAI CEO Sam Altman says more infrastructure deals are on the way
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-sam-altman-infrastructure-deals-amd-nvidia-more-10296396/
+- 'India has a lifetime opportunity...': Ericsson plans to manufacture all telecom gear it sells in India
+  Ericsson plans to manufacture all telecom gear it sells in India, including 6G equipment, indigenously. The company aims to begin 6G
+  🔗 https://www.livemint.com/companies/news/india-has-a-lifetime-opportunity-ericsson-plans-to-manufacture-all-telecom-gear-it-sells-in-india-11760030489641.html
 
-- Fed’s Bowman Pivots From Wall Street Lenders to Community Banks
-  The Federal Reserve’s top banking cop is kicking off what some executives hope will be the
-  🔗 https://www.livemint.com/companies/news/feds-bowman-pivots-from-wall-street-lenders-to-community-banks-11760012783313.html
+- UK regulator vigilant after First Brands, Tricolor collapse
+  UK regulator vigilant after
+  🔗 https://www.livemint.com/companies/company-results/uk-regulator-vigilant-after-first-brands-tricolor-collapse-11760030665021.html
 
-- TCS profit edges up 1.4 pc to  ₹12,075 cr in Jul-Sep qtr; revenue rises to  ₹65,799 cr
-  TCS profit edges up 1.4 pc to  �
-  🔗 https://www.livemint.com/companies/company-results/tcs-profit-edges-up-1-4-pc-to-rs-12-075-cr-in-jul-sep-qtr-revenue-rises-to-rs-65-799-cr-11760012475469.html
+- Akasa Air co-founder Neelu Khatri exits weeks after  ₹1,200 cr funding round
+  The departure is the first from the founding team
+  🔗 https://www.livemint.com/companies/akasa-air-co-founder-exit-neelu-khatri-resignation-leadership-change-aviation-11760021464210.html
 
-- VVDN applies for Centre incentives, eyeing $100 mn local PCB, display bets
-  The company aims to enhance local production of electronics, including PCBs and displays.
-  🔗 https://www.livemint.com/companies/vvdn-technologies-centres-incentive-scheme-pcbs-displays-local-component-manufacturing-electronics-manufacturing-11760006311675.html
+- TCS Q2 net up 1.4 pc on wider margins; reports 20,000 drop in headcount
+  TCS Q2 net up 1.4
+  🔗 https://www.livemint.com/companies/company-results/tcs-q2-net-up-1-4-pc-on-wider-margins-reports-20-000-drop-in-headcount-11760029995597.html
 
-- Tata Trusts must always have a Tata family member as its head: Author of Ratan Tata biography
-  Tata Trusts must always have a Tata family member as
-  🔗 https://www.livemint.com/companies/company-results/tata-trusts-must-always-have-a-tata-family-member-as-its-head-author-of-ratan-tata-biography-11760009115534.html
+- Wall Street Today: Dow, Nasdaq, S&amp;P 500 trade lower as US Fed's Jerome Powell offers no new rate cut guidance
+  US benchmark indices like the Dow, Nasdaq, and S&amp;amp;P 500 were trading lower on Thursday. US Federal Reserve Chairman Jerome Powell offered
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-today-dow-nasdaq-s-p-500-trade-lower-as-us-feds-jerome-powell-offers-no-new-rate-cut-guidance-11760026891397.html
 
-- US to investigate 2.9 million Tesla vehicles over Full Self-Driving system safety risks
-  The US NHTSA has launched an investigation into 2.88 million Tesla vehicles with Full Self-Dri
-  🔗 https://www.livemint.com/companies/news/us-to-investigate-2-9-million-tesla-vehicles-over-full-self-driving-system-safety-risks-11760004796432.html
+- Wall Street rally halts as valuation risks take center stage
+  Wall Street rally hal
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-rally-halts-as-valuation-risks-take-center-stage-11760028039471.html
 
-- LG Electronics IPO sees bumper demand, booked over 54 times as of third day; GMP signals strong listing
-  LG Electronics IPO, which opened on October 7, sailed through on the first day of the bidding itself. At the end of the third day, the electronics company's share sale garnered bids for 3,85,32
-  🔗 https://www.livemint.com/market/ipo/lg-electronics-ipo-sees-bumper-demand-booked-over-54-times-as-of-third-day-gmp-signals-strong-listing-11760011724997.html
+- Gold holds above $4,000, silver breaks through $50 for first time
+  Gold holds above $4,
+  🔗 https://www.livemint.com/market/commodities/gold-holds-above-4-000-silver-breaks-through-50-for-first-time-11760027366108.html
 
-- Silver races to $50, outshining gold. This could be its next catalyst.
-  The white metal is up 67.5
-  🔗 https://www.livemint.com/market/commodities/silver-races-to-50-outshining-gold-this-could-be-its-next-catalyst-11760011344585.html
+- Argentine Markets Breathe Sigh of Relief as Peso Allowed to Dip
+  Argentina's government let the peso weaken Thursday for the first time this week. The move eased strains on the local market that had sent yields
+  🔗 https://www.livemint.com/market/stock-market-news/argentine-markets-breathe-sigh-of-relief-as-peso-allowed-to-dip-11760027303705.html
 
-- Emerging Assets Rise as Mideast Deal Impact Adds to AI Frenzy
-   Emerging markets rose as the latest surge in the Asian tech sector coincided with the impact of a deal between Israel and Hamas
-  🔗 https://www.livemint.com/market/stock-market-news/emerging-assets-rise-as-mideast-deal-impact-adds-to-ai-frenzy-11760009426496.html
+- Copper hits $11,000 a ton as investors bet on shortages
+  Copper hits $11,000
+  🔗 https://www.livemint.com/market/commodities/copper-hits-11-000-a-ton-as-investors-bet-on-shortages-11760027062672.html
 
-- Markets diverge tracking AI concerns, Gaza deal
-   Markets diver
-  🔗 https://www.livemint.com/market/markets-diverge-tracking-ai-concerns-gaza-deal-11760008261224.html
+- Meta AI on Instagram can now dub your reels in Hindi: here's how the feature works
+   Meta introduces reel translation for Instagram and Facebook in Hindi and Portuguese. Using AI, the feature mimics creators' voices for an authentic experience.
+  🔗 https://www.livemint.com/technology/tech-news/meta-ai-on-instagram-can-now-dub-your-reels-in-hindi-heres-how-the-feature-works-11760028982150.html
 
-- Mint Explainer | Sebi’s new block deal rules—everything investors should know
-  Sebi’s new framework hikes the minimum qualifying amount for block deal, enforces stricter price bands,
-  🔗 https://www.livemint.com/market/sebi-new-block-deal-rules-minimum-qualifying-amount-investors-11759934091914.html
+- OnePlus teases key OxygenOS 16 features ahead of launch, open beta goes live for select devices in India
+  OxygenOS 16 is launching on October 16. It will replace Oxygen
+  🔗 https://www.livemint.com/technology/tech-news/oneplus-teases-key-oxygenos-16-features-ahead-of-launch-open-beta-goes-live-for-select-devices-in-india-11760027182670.html
+
+- WhatsApp quietly begins rolling out Liquid Glass look to iPhones: Here's what’s changing
+  WhatsApp is rolling out Apple's Liquid Glass design to iOS users. The update aligns with iOS 26 aesthetics, enhancing user interaction.
+  🔗 https://www.livemint.com/technology/tech-news/whatsapp-quietly-begins-rolling-out-liquid-glass-look-to-iphones-heres-what-s-changing-11760015989351.html
+
+- Google told employees to share health data with third-party AI partner to get benefits: Report
+  Google informed employees they must allow a third-party AI healthcare tool access to their data to receive health benefits. This demand has caused concern among employees
+  🔗 https://www.livemint.com/technology/tech-news/google-told-staff-to-share-health-data-with-third-party-ai-partner-to-get-benefits-report-11760014099981.html
 
 - ChatGPT can now complete UPI payments and order groceries from BigBasket without leaving the chat
   OpenAI has partnered with NPCI and Razorpay to introduce agentic payment in ChatGPT. Axis Bank and Airtel Payments Bank are involved in the pilot, with Bigbasket
   🔗 https://www.livemint.com/technology/tech-news/chatgpt-can-now-complete-upi-payments-and-order-groceries-from-bigbasket-without-leaving-the-chat-11760007867620.html
 
-- Over 70,000 government ID photos leaked in Discord data breach: Who’s affected and what Discord is saying
-   Discord confirms a data breach affecting about 70,000 users. The company took immediate action, revoked access to the vendor, and is investigating the matter.
-  🔗 https://www.livemint.com/technology/tech-news/over-70-000-government-id-photos-leaked-in-discord-data-breach-who-s-affected-and-what-discord-is-saying-11759999757613.html
+- Signature Global receives approval to raise up to Rs 875 crore through NCDs
+  Signature Global is raising Rs 875 crore through non-convertible debentures. This move follows a strong financial performance with a 386% year-on-year profit increase. The real estate developer holds significant market share in
+  🔗 https://economictimes.indiatimes.com/markets/bonds/signature-global-receives-approval-to-raise-up-to-rs-875-crore-through-ncds/articleshow/124427547.cms
 
-- How can you move from Gmail to Zoho Mail? Here's a step-by-step guide
-  Zoho Mail offers custom domains, business tools and easy migration from Gmail. Amit Shah’s endorsement
-  🔗 https://www.livemint.com/technology/how-can-you-move-from-gmail-to-zoho-mail-heres-a-step-by-step-guide-11759992708381.html
+- Ahead of Market: 10 things that will decide stock market action on Friday
+  Sensex rose 398 points, while Nifty gained 136 points. Investors grew optimistic ahead of TCS earnings and a rebound in base metal prices.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/124426544.cms
 
-- Smart AI Investing Isn’t About Chasing the Big One
-  How AI will reshape our lives is clouded with uncertainty. Researchers are debating what it means to achieve artificial general intelligence. But smart investors should avoid trying to predict future breakthroughs.
-  🔗 https://www.livemint.com/technology/tech-news/smart-ai-investing-isn-t-about-chasing-the-big-one-11759951832497.html
+- Why did Amit Shah &amp; Nirmala Sitharaman meet Tata Chiefs? Explained!
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/why-did-amit-shah-nirmala-sitharaman-meet-tata-chiefs-explained/videoshow/124426338.cms
 
-- Tinder is now making new users in India do this one thing before they can start matching
-  Tinder's Face Check feature mandates new users to complete a video selfie for authenticity verification. Rolled out in India, this feature enhances user safety
-  🔗 https://www.livemint.com/technology/tech-news/tinder-is-now-making-new-users-in-india-do-this-one-thing-before-they-can-start-matching-11759913472404.html
+- High stock valuations sparking investor worries about market bubble
+  The steep rally in Wall Street stocks is sparking worries among investors of a bubble forming.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/high-stock-valuations-sparking-investor-worries-about-market-bubble/articleshow/124424447.cms
 
-- Stock market today: S&P 500, Nasdaq resume record rally as gold jumps, Fed minutes point to more rate cuts - Yahoo Finance
-  The Dow slides, S&amp;P 500 and Nasdaq snap winning streaks as Oracle leads tech stocks lower. Gold weakens on Gaza Peace Hopes.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN3BrX3FuVFdTdS1ZYUpRc3pNSmlWN2pidGlNS2N3amhHTE1DaVpFZUdwWWc1YWhLU0xOc2kwZWxlZklRQzJRN1BBeGEzRzFZMXlJaXRvTk9MQVZWc2tnaGpESXlIdHpvOUVWa05WSmEyUUlFZ2dybUx2dTdtRzlJUXJrYW9uQmNTYVc1ZmEyNjRrd2JacFNoLUdGNDlwVU1LYm4xSVZBZWNJWjI3ZXhaZjkyVThrWnBaMEY4a0xQcWNRejFCM2tlcXVkbWtWUWRubmJpaThGbUM4R3JLV0dicXhPVVdGWGFB?oc=5
-
-- Market may see short-term cheer but volatility ahead, warns expert - India Today - India Today
-  Market may see short-term cheer but volatility ahead, warns
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUTNGdDJiWWFWWFBRRDBoX1oxb0FPUWVxUF9DYmVaNGktTWUyWG1sbFpRV19KUFBXSHZNWXNYNnRhcjlsN1NlNFphU3VXREtZVmUzTnp4SkJfV2JaNFljeVFleENRYm5YVzJsTzhWckR6a002WHFxQ3cxWFFGUE9DT1l2NU0wanM0Y3VfQ0p5YS1QNEh2VmFFWjlBLUtzMFNQQUVWa1RWWWRFODhoVkwtdDVKbUV0WFdCc1QxLTFfbnl0Z05na0dMVGVLNzRkUDJZSmJoaWdyNnLSAd4BQVVfeXFMTWFGR3B4YkFIV1pCV285STJvWnpxQkFnNHh1SVlWSWFxMmxYcWpVSEYzWVlReUZBeVFiVTlfeEZPMXIwM1RZQ3VtWXQtdHNqckNUbFVHeDBVZVRLRjE1aVhlNDJtRXNsUW43SllPdDROUlVJaFhJdkZJMVhpVnRHa3RtZUlxdFVWRGU1RGZ3ZUZseHNrN1NZQTFSc1ZlSTMyRjdpVlRBZ1lYZ0tTTHFJcE9VaV9hYThseDBQR3hqVEozaWhWR2Rha2d2TWNLVFMxOWdYLUpMSTV6VzZ1dFJn?oc=5
-
-- Bank of England warns of 'sharp market correction' if AI bubble bursts - CNBC
-  Bank of England warns of 'sharp market correction'
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2FiMFZTcXBCc2NtakFjVlVSNl9hQzFUYTR5bmZDMXl6NXdwSkU1WW1zb2FxV3Q2SW8yMi1QTzlxeVhCY1FfbklBT2hlRzhhV3pkR0RjaEJDZXQtajZrQ2lGcVk5Q2sxdnNkX0xaRFNvVlh3aHFIMG05UU5ZZjFWVVV2WkVLNFdoMHZBNFJycUxDZGE5OVlUX3NnMUh3Zm5wUjdCRG1wUU3SAa4BQVVfeXFMUFZzYTdoZkZ4V2RiX1hMMlpSTnp2eDlpU1dDZVhNZTU3dG1jMV9LTW1UcXV3Q0hocVJwbzdCOEZkdk54TDJDVEdNdnRZWjItVFpjakRQWFhFdDJlbjhSOUVKOWhLZmtRYjdWNE1NeXUzVFQ0MkhVYTJkcklHRGo3MDV3Vm1VNmMzN092QUwzazFjQXdlSEZmYlowNHA0N2cyWDM5dUVXTHRiaURUb2NB?oc=5
-
-- AI has carried the stock market. Concerns are mounting about a bubble - CNN
-  AI has carried the stock market. Concerns are
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ1VBOHROdkYzN2ZVMElQTUp1MmVxYm1xZXlEQVRPcjZCZ0g0M1R2UmwxWDF2cDJzdFJNUkpvMS1EV2ppSFZZb2ZQUnlrclFKZHpMUGMxT0NkTUZESmNLdFhHdTR6TjdzTDJ6NGRWQlFMc084cVJXZTB2bDZaNW5paw?oc=5
-
-- Emerging Assets Rise as Mideast Deal Impact Adds to AI Frenzy - Mint
-  " target="_blank">Emerging
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOZmR1Z3AtZ1B0MW5xSHRQamNYX1BUWVN3a3JIYkRpMnFEVXNYQ2dNNENRNzVpLXYtX0hYWktwLWpwS3hXajFPYy1hc0FQYWl1YWNadXNONV9IUlJMRUZMd1gxN0hkczJrUDJmWDFnR1dKeVJIUHN4cmJGY1VrbW9KazRnV21IeFpqbDk0QlE0SWszN2d5YUNFVXQ1M3JQV2w1MzVLOXJkajhEai11enZBc0N1bVpPQjB3Tmo4NGp6Zi1GY1N6VXNjVmZBY9IB0AFBVV95cUxNcThPbFlaQ3JJR0VSS1VTNzY5WDBIYXAzcGZDMHJYb29UbU9FRXBoRS1QU1VWNnZoZko3SFR4OS1iSXgzQkg0ZU5HNUJvXzVkZk5POU4wSHlFalR0SWFzZHhuanJHak42U1lqNS1pY2psOTRRRkFMNm9pTEJjd1JBdVRtMnRlQ2NJZERfbGZrYklEQy1lMVYzWjFBcnEyWFd1eC1tOV9SdV9vcXA4U1prTDRqZzBQUnBsVW5VQUhaSEJzcU9WdDh0M3FzMDA0elBD?oc=5
-
-- Eternal, V2 Retail among 4 consumer discretionary stocks that hit 52-week high; gain up to 50% in a month
-  On Thursday, the Sensex rose around 398 points to close at 82,712. Four stocks from the BSE Consumer Discretionary Index, including V2 Retail and Eternal hit fresh
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/eternal-v2-retail-among-4-consumer-discretionary-stocks-that-hit-52-week-high-gain-up-to-50-in-a-month/slideshow/124416238.cms
-
-- LG IPO breaks all records with Rs 4.39 lakh crore subscription, surpasses Bajaj Housing Finance's feat
-  LG Electronics India's Rs 11,607 crore IPO has shattered records, attracting bids worth Rs 4 lakh crore. Qualified institutional buyers led the charge, with significant oversubscription across all investor categories.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/lg-ipo-breaks-all-records-with-rs-4-lakh-crore-subscription-surpasses-bajaj-housing-finances-feat/articleshow/124413509.cms
-
-- TCS declares Rs 11 per share dividend, record date announced
-  Tata Consultancy Services (TCS) declared a second interim dividend of Rs 11 per share after reporting a 1.4% YoY rise in Q
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-declares-rs-11-per-share-dividend-record-date-announced/articleshow/124413574.cms
-
-- Gainers &amp; Losers: Swiggy among top stocks that were in spotlight on Thursday
-  Nifty and Sensex rebounded led by IT, metal, and pharma stocks. Key movers included Saatvik Green Energy
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-losers-swiggy-among-top-stocks-that-were-in-spotlight-on-thursday/slideshow/124412827.cms
-
-- TCS Q2 Results: Cons PAT rises 1.4% YoY to Rs 12,075 crore, misses street estimates
-  Tata Consultancy Services reported a 1.4% rise in Q2 net profit to Rs 12,075 crore. The company announced an interim dividend of Rs 11 per equity share. Revenue from operations grew 2.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-q2-results-cons-pat-up-1-4-to-rs-12075-crore-misses-estimates/articleshow/124412115.cms
+- Market Trading Guide: Buy LTIMindtree, Aurobindo Pharma, 3 more stocks on Friday for up to 12% gains
+  Nifty resumed gains on Thursday, led by IT, metal and pharma stocks. Technical experts recommend buying Astra Microwave, LTI Mindtree,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-ltimindtree-aurobindo-pharma-3-more-stocks-on-friday-for-up-to-12-gains/slideshow/124424169.cms
 
 - As Afghan Taliban Minister Begins 1st India Visit, Delhi Has A Flag Dilemma - NDTV
   Afghan Taliban Minister begins 1st India visit.
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWUZzR3FZUVU4ZTBqaldBMmg1UHpHanFBbU91dTNueEQ5QXhUVmtsVUk1SjltMFhhci1mc1VpWXk3U0dCTlQ3c0NaMEs0QlpWRndHcU1odTNPTExodXRKUjNIaGpXTVRGQ1lORlo2Y3A4WHZsYVhPR1JMX3NXQXhNOUZRcVJOZDlwOHVVTFhSRTl0RC1mOHRINXA3SGdYQXIyaDdWYzkxaVRVbDFTVWhoSkJGaTHSAbwBQVVfeXFMT0IwVE9rOUJHelVNUkdYbGFGMFdFUElZTEVrczdrbWJsRC1uZVRidDBmVjZWQ1k3LUVnRVVmeW9rVWM0b1M4dEhJY3B0Y0t5T3d1ZjItaDRZajNWV0tQYnVidmJJX0FmOEY2a0RYZWJZSlBlNWtEbnhHSHZyQTdUSWZmYWs0OHlyTElhZFV0T2lkeEV5SXdMZGxjT25yYzFrZko4bjM5Wkd5aDZEandaeUJlZldjcVBuSHRCdXo?oc=5
 
-- Taliban FM begins first visit by senior Afghan leader to India since 2021 - Al Jazeera
-  Taliban FM begins first visit by senior Afghan leader to India
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHdJNU1XcFZjTFBkbXdsWnBSdU9SdE8zNmdwMHIzc1ZENWVqWXlxRHM2MFZ5SHloTkdmVzhlbl8yc3FheEptRnhuUEpaZ0taTm1oOWdSaG9EQlpWM3paY1ZMQWQ2TnFERHEyVW1Dd0FYTm1zcGVuVUVFeTdlMzF6X2lmNmNqOFVidUk5WGhwXzQ5S0g0SF9Sb3F4ZTJ2T0gtRGNFRXZkTVVyQ3ZkV1Z0S0d3T2bSAboBQVVfeXFMTVFPdWV6SXhfWmlZS0piSjlvdTN0Y0N3QUpIVmRTMUhrUTdLbHg4T3lKQUhCd2Z3T25Ldkt3V00zY3ljTFE5emFJc0NnNnhIMWcyaW1hYWZIQkJvR1M4OHdXXzZSOEduU2RiQlBiRFA1MF9fNWtNOTJhOU9seXlHV1A1M2s0UVpiV21hbDNySUR6c1FVc2FNc3NpUkdjbFp3UkI2eGZzWGowN2VzMjJCazloVTA0X1NTRW5n?oc=5
+- U.K. PM’s India visit LIVE: U.K. signs $468 million deal to supply India with missiles - The Hindu
+  U.K. signs $468 million deal to supply India with missiles
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
 
-- Taliban guard lets Indian tourist pass without check, says India, Afghanistan brothers - India Today
-  'Taliban guard lets Indian tourist pass without check,
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOENMLWpOQTNpWXpOclRodFFxZkFoZEx2ODVGZ0VoZklLMzIxLXJjM3RKTF9LVHI4ZXVIeWJqV1lxTE5HbXhJV0xBQVpJa3hFNGh3NnEzTDJxdmNrVGNaZ1JWX1d6STk1ZzYyOTBJdmNGQlpIYnpseHp4bXExQzlhUFhsRkQ3UFJNUWJiQTJtbGQzcFBELUR1Uy1WZFBadFFEMmtDejBqRlc5dEozYUJ4MGNKazFqdFRjQXdHZlQ5TWg3aWFYRWhxYy1kWVVFTHc4OEtxOExTenY4YnZ0dTQxdVVnNNIB6AFBVV95cUxQWV9YN1ZhUGJUVlpTRDYtd241cDY0WHVlN3NqWWpWQTVUWVd4b2xxYmFzY2hhdlh2enJHbVZpWS14X3ZfbjdXc1cxUmQ1aEF1WlZqTTBwbWVYMGdDZVdzMU0yT1V5NlhxRDF6VktKXzlPOXVmemdxUHZtdU5jU21BeXEtb1B6X2NkYzlvcTdfVHN3cEFLSjFKcTlXekhJSnZ6ZXNab2diZzFtSVVmRnJwV0J4WGtfMDRCZ2tOTFpkdU93bXA5R1FFeVY4VkxhcUhYajNweS0tRUxkU1NjUVUxWHF5VG42Y0Vt?oc=5
+- News Today With Rajdeep Sardesai: Israel's Gaza Endgame; India's Killer Cough Syrup Scandal - India Today - India Today
+  News Today With Rajdeep Sardesai: Israel's Gaza Endgame;
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2trR0VXeDZxOWg1NzU1UHZVRkpyMEN0bXNrSUxDeTdjWnV5N0k4SEszcWFLS2FJLUhacU95Ulp1ZWZCZVZsS2J2cURIZmFEY3czUFhyYndGMHR5NkFiV2N6QWV1eDlWaUk5OEs3REpMUDRwV0psdkU0SGhMOEJHbHQ1YklmX21Cb1F5VXVtajV1TDl0SmVlajlrM2xxYlllenpqZS1mcUZGWEVGTlhtdFlGMTZQdlXSAbwBQVVfeXFMUGpseWRpcHRjMDVrYzlwTjhPVE53aE9UVW03bDVIUEt4TUJMMUdXSk5TQXJMU0VGZnF6SVE5Vm1hTzlwdTN4dzRXeDJTRlBNUnhoSGUwY3hhZC1LRWFGa2c4LWl1UER6aHpGRnp4cno5NldvWUh0T1drLVFlT3VIYTVlYlp0Rnp6MnJ4TElfT0F2TkJQVmxDSDJoeXhlZHUzUEIzY0Y3bHhRdUVMT01tTGRRTDJwZTB5MHB1cGk?oc=5
 
-- 'Indiscriminate tariffs' hurt ties: In letter, US lawmakers push Trump to act on India | Latest News India - Hindustan Times
-  'Indiscriminate tariffs' hurt ties: In letter, US lawmakers push Trump
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYTJoTW84YnV4VXgwOVFBcXZkOUhWbktNV0JVZmNSbUZ5TmVSLUxSYzkyQUgwWmp6OVNuYXp2bDFYcWxGRWhNWEd4S3BuTm9MYlduRnN2aGVKZUVVclUwd0RadFJVcEN3Z3lTazlCa01ucmRmckZ1Mlhoenh6TFVLNk9Dcmx1UmZkeGdIdzFyYXNoWlVDMjVJNlV5eXJzSFpnUzNsUHdabFA0WElXbWRjdHRhaWMyR2RuaC1faVQwbEF3RVlTN2JQQlhzUG1FRzFJOWM0RnZfZWtMVGJSaTJTetIB5gFBVV95cUxQcDBkUkstZk5QRlloS1JOVXJmUWJxWXFxNG01bTBEOEY4Vm0zLVZwNF9jeFRwSjlidEV5VFItUXFTOTBBY3NaRTBYeExmMUVEVGZHU2l0UzF0OTlRMml5QXAzeWN4TTF2VmtJVVdqU3VUQ1hPVW5xUjNOanVYQzBRTHY3SXhiZ1VCRUFFMi1kYjl0bU5WVG5qOVRlZC1kbE9pZUJnaFEydG9UZ1RnekxzbC1QZkVUWll4RVJ5S2M4S2c0cVQ3d0RXV0RiVTFuSDVaSnZLdTBoVk9vck8zd1V3Z2poREMwZw?oc=5
+- Modi, Starmer chart new era of India–UK cooperation across key sectors - Mint
+  Modi, Starmer chart new era of
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQckc2QXNnVTQxMTBvcVNva3NobXRmMElOa0JERlM3MnkxSFlxNGh6S3JpOW1GakFCbXZ3X3B2cE43R0NYYW5LaFVKcWt5Q0dUMzVzNm9uSWpRclh2UWIxUlRiUnd6ajNrN1AzQ0pzTFg3ZXlyZlloVThyZXN0VWQzRHpyeWVrb2V5QnF4WGFPNXBmNkJQM2l5aHNqaXFlT3NHaE5vcTI1QnhsMGJhODRGM2t3R3FRbU05ZDJkUHpGSkNkcVnSAcgBQVVfeXFMTUxGa3d1V1hQUThiM29ITGNWdVNOVTRxZEMzQnRFVXpRWk9jbDVEYzVGTzRkR2hBaWxoSEtOLW5ER0N5WUFHVTNjUVlpUDV3YldFUXZwUUhnSUNsQ2VHUDVWU2FRbDJuV0hNa3hqZ1RPbWI1dGZhdVdHUGtvUVZad1gwQVhqMGFEWmwxbk1jNW5GcEtTZUF6Zjd1dWUwNTdLT3RMcGhuTGFKdnVKT2Nwc21sMzJxdXFpOWxPMmc5dkxXa2NFeTRHbXQ?oc=5
 
-- 19 US Lawmakers Urge Trump To "Reset And Repair" Ties With India - NDTV
-  19 US Lawmakers Urge Trump To "Res
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFBmQXhJaUtJMEtvVzN5cE9kOGV5bmJlandQNkEteXUtQVN5Uld4d0VjTEVLMjJBMXR5Qk44eGZLdnB0ZmFvVzdHSU9KUm1oOTZiVkVYWHFISG5GS2JfRWNSNlVrX2NleGRVNVlNY0FJT1llcW91SjlVWVQzMnE0OG01bGZ6N1lPLWdRR0tITV9fNHlULXFOMVhGeEQyN1Z6ZFNQd9IBrAFBVV95cUxNMWZGRC1lT1l3c2NBRzRmQVpObnFZaEc0SlhXTnVrd3E0UzN5eEd4TGJ6cGVTMWJIT2I2VkplY0tKVS1CQmEyZ3BkejZDellHU1QwUmRyYXY1SUlxckNWSFhWSTg4WGpQWWdMbGZISVh6ajJuNEt3VFJ6LW9ER1c0clMtNVhBRW8zLXQ4YzN2U2JqNEpmU0Yzb0xQU2FzM0Z2N1ZrX25NeV9KdzJf?oc=5
-
-- As Afghan Taliban Minister Begins 1st India Visit, Delhi Has A Flag Dilemma - NDTV
-  Afghan Taliban Minister begins 1st India visit.
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWUZzR3FZUVU4ZTBqaldBMmg1UHpHanFBbU91dTNueEQ5QXhUVmtsVUk1SjltMFhhci1mc1VpWXk3U0dCTlQ3c0NaMEs0QlpWRndHcU1odTNPTExodXRKUjNIaGpXTVRGQ1lORlo2Y3A4WHZsYVhPR1JMX3NXQXhNOUZRcVJOZDlwOHVVTFhSRTl0RC1mOHRINXA3SGdYQXIyaDdWYzkxaVRVbDFTVWhoSkJGaTHSAbwBQVVfeXFMT0IwVE9rOUJHelVNUkdYbGFGMFdFUElZTEVrczdrbWJsRC1uZVRidDBmVjZWQ1k3LUVnRVVmeW9rVWM0b1M4dEhJY3B0Y0t5T3d1ZjItaDRZajNWV0tQYnVidmJJX0FmOEY2a0RYZWJZSlBlNWtEbnhHSHZyQTdUSWZmYWs0OHlyTElhZFV0T2lkeEV5SXdMZGxjT25yYzFrZko4bjM5Wkd5aDZEandaeUJlZldjcVBuSHRCdXo?oc=5
-
-- Taliban FM begins first visit by senior Afghan leader to India since 2021 - Al Jazeera
-  Taliban FM begins first visit by senior Afghan leader to India
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHdJNU1XcFZjTFBkbXdsWnBSdU9SdE8zNmdwMHIzc1ZENWVqWXlxRHM2MFZ5SHloTkdmVzhlbl8yc3FheEptRnhuUEpaZ0taTm1oOWdSaG9EQlpWM3paY1ZMQWQ2TnFERHEyVW1Dd0FYTm1zcGVuVUVFeTdlMzF6X2lmNmNqOFVidUk5WGhwXzQ5S0g0SF9Sb3F4ZTJ2T0gtRGNFRXZkTVVyQ3ZkV1Z0S0d3T2bSAboBQVVfeXFMTVFPdWV6SXhfWmlZS0piSjlvdTN0Y0N3QUpIVmRTMUhrUTdLbHg4T3lKQUhCd2Z3T25Ldkt3V00zY3ljTFE5emFJc0NnNnhIMWcyaW1hYWZIQkJvR1M4OHdXXzZSOEduU2RiQlBiRFA1MF9fNWtNOTJhOU9seXlHV1A1M2s0UVpiV21hbDNySUR6c1FVc2FNc3NpUkdjbFp3UkI2eGZzWGowN2VzMjJCazloVTA0X1NTRW5n?oc=5
-
-- Taliban guard lets Indian tourist pass without check, says India, Afghanistan brothers - India Today
-  'Taliban guard lets Indian tourist pass without check,
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOENMLWpOQTNpWXpOclRodFFxZkFoZEx2ODVGZ0VoZklLMzIxLXJjM3RKTF9LVHI4ZXVIeWJqV1lxTE5HbXhJV0xBQVpJa3hFNGh3NnEzTDJxdmNrVGNaZ1JWX1d6STk1ZzYyOTBJdmNGQlpIYnpseHp4bXExQzlhUFhsRkQ3UFJNUWJiQTJtbGQzcFBELUR1Uy1WZFBadFFEMmtDejBqRlc5dEozYUJ4MGNKazFqdFRjQXdHZlQ5TWg3aWFYRWhxYy1kWVVFTHc4OEtxOExTenY4YnZ0dTQxdVVnNNIB6AFBVV95cUxQWV9YN1ZhUGJUVlpTRDYtd241cDY0WHVlN3NqWWpWQTVUWVd4b2xxYmFzY2hhdlh2enJHbVZpWS14X3ZfbjdXc1cxUmQ1aEF1WlZqTTBwbWVYMGdDZVdzMU0yT1V5NlhxRDF6VktKXzlPOXVmemdxUHZtdU5jU21BeXEtb1B6X2NkYzlvcTdfVHN3cEFLSjFKcTlXekhJSnZ6ZXNab2diZzFtSVVmRnJwV0J4WGtfMDRCZ2tOTFpkdU93bXA5R1FFeVY4VkxhcUhYajNweS0tRUxkU1NjUVUxWHF5VG42Y0Vt?oc=5
-
-- 'Indiscriminate tariffs' hurt ties: In letter, US lawmakers push Trump to act on India | Latest News India - Hindustan Times
-  'Indiscriminate tariffs' hurt ties: In letter, US lawmakers push Trump
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYTJoTW84YnV4VXgwOVFBcXZkOUhWbktNV0JVZmNSbUZ5TmVSLUxSYzkyQUgwWmp6OVNuYXp2bDFYcWxGRWhNWEd4S3BuTm9MYlduRnN2aGVKZUVVclUwd0RadFJVcEN3Z3lTazlCa01ucmRmckZ1Mlhoenh6TFVLNk9Dcmx1UmZkeGdIdzFyYXNoWlVDMjVJNlV5eXJzSFpnUzNsUHdabFA0WElXbWRjdHRhaWMyR2RuaC1faVQwbEF3RVlTN2JQQlhzUG1FRzFJOWM0RnZfZWtMVGJSaTJTetIB5gFBVV95cUxQcDBkUkstZk5QRlloS1JOVXJmUWJxWXFxNG01bTBEOEY4Vm0zLVZwNF9jeFRwSjlidEV5VFItUXFTOTBBY3NaRTBYeExmMUVEVGZHU2l0UzF0OTlRMml5QXAzeWN4TTF2VmtJVVdqU3VUQ1hPVW5xUjNOanVYQzBRTHY3SXhiZ1VCRUFFMi1kYjl0bU5WVG5qOVRlZC1kbE9pZUJnaFEydG9UZ1RnekxzbC1QZkVUWll4RVJ5S2M4S2c0cVQ3d0RXV0RiVTFuSDVaSnZLdTBoVk9vck8zd1V3Z2poREMwZw?oc=5
-
-- 19 US Lawmakers Urge Trump To "Reset And Repair" Ties With India - NDTV
-  19 US Lawmakers Urge Trump To "Res
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFBmQXhJaUtJMEtvVzN5cE9kOGV5bmJlandQNkEteXUtQVN5Uld4d0VjTEVLMjJBMXR5Qk44eGZLdnB0ZmFvVzdHSU9KUm1oOTZiVkVYWHFISG5GS2JfRWNSNlVrX2NleGRVNVlNY0FJT1llcW91SjlVWVQzMnE0OG01bGZ6N1lPLWdRR0tITV9fNHlULXFOMVhGeEQyN1Z6ZFNQd9IBrAFBVV95cUxNMWZGRC1lT1l3c2NBRzRmQVpObnFZaEc0SlhXTnVrd3E0UzN5eEd4TGJ6cGVTMWJIT2I2VkplY0tKVS1CQmEyZ3BkejZDellHU1QwUmRyYXY1SUlxckNWSFhWSTg4WGpQWWdMbGZISVh6ajJuNEt3VFJ6LW9ER1c0clMtNVhBRW8zLXQ4YzN2U2JqNEpmU0Yzb0xQU2FzM0Z2N1ZrX25NeV9KdzJf?oc=5
+- In High-Level Security Meet, Amit Shah Reaffirms Terror-Free J&K Goal - NDTV
+  In High-Level Security Meet, Amit
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOTExQbUdrNnd1bXQxMndqamlvNHBzZFVybm9MWFZFTUY5MUczTTRHNVBUY3lZWks3UEExOHIyZ3F1TlZiWnl4bHozVkkxX0FuTl80LVJucWU4T1dQQ3hBUnMwQlFQZ3U1TTQ0ME1pWVlrTUlzZVdvUmVKSG9FbFZyMVhRLTZadHd3VjlNR2FNbW5fRVQwZ3RSUzhZTUJRb0h5cWo00gGrAUFVX3lxTE1CNFNZeFVOeUlYUWhOUWJ2RjItdFp1NFBubVVLYnA5a2lWaU5tOVpJZWV0bE5SZko3Z01EVEdMSjRLcVhsNEJPeXN6ZnZRanA2WVdXYjFIbGFfQmtrcXRweDF1LS15bGNocmxzSmMyOUZLZjNXNkVneEV5OFdRQS1MRHhSY1NEMUYyX2h1VDZfWFJmNDJGQnFPMEwwTTJ2WW5xa2F3TE9ndzcxNA?oc=5
 
 - As Afghan Taliban Minister Begins 1st India Visit, Delhi Has A Flag Dilemma - NDTV
   Afghan Taliban Minister begins 1st India visit.
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWUZzR3FZUVU4ZTBqaldBMmg1UHpHanFBbU91dTNueEQ5QXhUVmtsVUk1SjltMFhhci1mc1VpWXk3U0dCTlQ3c0NaMEs0QlpWRndHcU1odTNPTExodXRKUjNIaGpXTVRGQ1lORlo2Y3A4WHZsYVhPR1JMX3NXQXhNOUZRcVJOZDlwOHVVTFhSRTl0RC1mOHRINXA3SGdYQXIyaDdWYzkxaVRVbDFTVWhoSkJGaTHSAbwBQVVfeXFMT0IwVE9rOUJHelVNUkdYbGFGMFdFUElZTEVrczdrbWJsRC1uZVRidDBmVjZWQ1k3LUVnRVVmeW9rVWM0b1M4dEhJY3B0Y0t5T3d1ZjItaDRZajNWV0tQYnVidmJJX0FmOEY2a0RYZWJZSlBlNWtEbnhHSHZyQTdUSWZmYWs0OHlyTElhZFV0T2lkeEV5SXdMZGxjT25yYzFrZko4bjM5Wkd5aDZEandaeUJlZldjcVBuSHRCdXo?oc=5
 
-- Taliban FM begins first visit by senior Afghan leader to India since 2021 - Al Jazeera
-  Taliban FM begins first visit by senior Afghan leader to India
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHdJNU1XcFZjTFBkbXdsWnBSdU9SdE8zNmdwMHIzc1ZENWVqWXlxRHM2MFZ5SHloTkdmVzhlbl8yc3FheEptRnhuUEpaZ0taTm1oOWdSaG9EQlpWM3paY1ZMQWQ2TnFERHEyVW1Dd0FYTm1zcGVuVUVFeTdlMzF6X2lmNmNqOFVidUk5WGhwXzQ5S0g0SF9Sb3F4ZTJ2T0gtRGNFRXZkTVVyQ3ZkV1Z0S0d3T2bSAboBQVVfeXFMTVFPdWV6SXhfWmlZS0piSjlvdTN0Y0N3QUpIVmRTMUhrUTdLbHg4T3lKQUhCd2Z3T25Ldkt3V00zY3ljTFE5emFJc0NnNnhIMWcyaW1hYWZIQkJvR1M4OHdXXzZSOEduU2RiQlBiRFA1MF9fNWtNOTJhOU9seXlHV1A1M2s0UVpiV21hbDNySUR6c1FVc2FNc3NpUkdjbFp3UkI2eGZzWGowN2VzMjJCazloVTA0X1NTRW5n?oc=5
+- U.K. PM’s India visit LIVE: U.K. signs $468 million deal to supply India with missiles - The Hindu
+  U.K. signs $468 million deal to supply India with missiles
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
 
-- Taliban guard lets Indian tourist pass without check, says India, Afghanistan brothers - India Today
-  'Taliban guard lets Indian tourist pass without check,
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOENMLWpOQTNpWXpOclRodFFxZkFoZEx2ODVGZ0VoZklLMzIxLXJjM3RKTF9LVHI4ZXVIeWJqV1lxTE5HbXhJV0xBQVpJa3hFNGh3NnEzTDJxdmNrVGNaZ1JWX1d6STk1ZzYyOTBJdmNGQlpIYnpseHp4bXExQzlhUFhsRkQ3UFJNUWJiQTJtbGQzcFBELUR1Uy1WZFBadFFEMmtDejBqRlc5dEozYUJ4MGNKazFqdFRjQXdHZlQ5TWg3aWFYRWhxYy1kWVVFTHc4OEtxOExTenY4YnZ0dTQxdVVnNNIB6AFBVV95cUxQWV9YN1ZhUGJUVlpTRDYtd241cDY0WHVlN3NqWWpWQTVUWVd4b2xxYmFzY2hhdlh2enJHbVZpWS14X3ZfbjdXc1cxUmQ1aEF1WlZqTTBwbWVYMGdDZVdzMU0yT1V5NlhxRDF6VktKXzlPOXVmemdxUHZtdU5jU21BeXEtb1B6X2NkYzlvcTdfVHN3cEFLSjFKcTlXekhJSnZ6ZXNab2diZzFtSVVmRnJwV0J4WGtfMDRCZ2tOTFpkdU93bXA5R1FFeVY4VkxhcUhYajNweS0tRUxkU1NjUVUxWHF5VG42Y0Vt?oc=5
+- News Today With Rajdeep Sardesai: Israel's Gaza Endgame; India's Killer Cough Syrup Scandal - India Today - India Today
+  News Today With Rajdeep Sardesai: Israel's Gaza Endgame;
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2trR0VXeDZxOWg1NzU1UHZVRkpyMEN0bXNrSUxDeTdjWnV5N0k4SEszcWFLS2FJLUhacU95Ulp1ZWZCZVZsS2J2cURIZmFEY3czUFhyYndGMHR5NkFiV2N6QWV1eDlWaUk5OEs3REpMUDRwV0psdkU0SGhMOEJHbHQ1YklmX21Cb1F5VXVtajV1TDl0SmVlajlrM2xxYlllenpqZS1mcUZGWEVGTlhtdFlGMTZQdlXSAbwBQVVfeXFMUGpseWRpcHRjMDVrYzlwTjhPVE53aE9UVW03bDVIUEt4TUJMMUdXSk5TQXJMU0VGZnF6SVE5Vm1hTzlwdTN4dzRXeDJTRlBNUnhoSGUwY3hhZC1LRWFGa2c4LWl1UER6aHpGRnp4cno5NldvWUh0T1drLVFlT3VIYTVlYlp0Rnp6MnJ4TElfT0F2TkJQVmxDSDJoeXhlZHUzUEIzY0Y3bHhRdUVMT01tTGRRTDJwZTB5MHB1cGk?oc=5
 
-- 'Indiscriminate tariffs' hurt ties: In letter, US lawmakers push Trump to act on India | Latest News India - Hindustan Times
-  'Indiscriminate tariffs' hurt ties: In letter, US lawmakers push Trump
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYTJoTW84YnV4VXgwOVFBcXZkOUhWbktNV0JVZmNSbUZ5TmVSLUxSYzkyQUgwWmp6OVNuYXp2bDFYcWxGRWhNWEd4S3BuTm9MYlduRnN2aGVKZUVVclUwd0RadFJVcEN3Z3lTazlCa01ucmRmckZ1Mlhoenh6TFVLNk9Dcmx1UmZkeGdIdzFyYXNoWlVDMjVJNlV5eXJzSFpnUzNsUHdabFA0WElXbWRjdHRhaWMyR2RuaC1faVQwbEF3RVlTN2JQQlhzUG1FRzFJOWM0RnZfZWtMVGJSaTJTetIB5gFBVV95cUxQcDBkUkstZk5QRlloS1JOVXJmUWJxWXFxNG01bTBEOEY4Vm0zLVZwNF9jeFRwSjlidEV5VFItUXFTOTBBY3NaRTBYeExmMUVEVGZHU2l0UzF0OTlRMml5QXAzeWN4TTF2VmtJVVdqU3VUQ1hPVW5xUjNOanVYQzBRTHY3SXhiZ1VCRUFFMi1kYjl0bU5WVG5qOVRlZC1kbE9pZUJnaFEydG9UZ1RnekxzbC1QZkVUWll4RVJ5S2M4S2c0cVQ3d0RXV0RiVTFuSDVaSnZLdTBoVk9vck8zd1V3Z2poREMwZw?oc=5
+- Modi, Starmer chart new era of India–UK cooperation across key sectors - Mint
+  Modi, Starmer chart new era of
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQckc2QXNnVTQxMTBvcVNva3NobXRmMElOa0JERlM3MnkxSFlxNGh6S3JpOW1GakFCbXZ3X3B2cE43R0NYYW5LaFVKcWt5Q0dUMzVzNm9uSWpRclh2UWIxUlRiUnd6ajNrN1AzQ0pzTFg3ZXlyZlloVThyZXN0VWQzRHpyeWVrb2V5QnF4WGFPNXBmNkJQM2l5aHNqaXFlT3NHaE5vcTI1QnhsMGJhODRGM2t3R3FRbU05ZDJkUHpGSkNkcVnSAcgBQVVfeXFMTUxGa3d1V1hQUThiM29ITGNWdVNOVTRxZEMzQnRFVXpRWk9jbDVEYzVGTzRkR2hBaWxoSEtOLW5ER0N5WUFHVTNjUVlpUDV3YldFUXZwUUhnSUNsQ2VHUDVWU2FRbDJuV0hNa3hqZ1RPbWI1dGZhdVdHUGtvUVZad1gwQVhqMGFEWmwxbk1jNW5GcEtTZUF6Zjd1dWUwNTdLT3RMcGhuTGFKdnVKT2Nwc21sMzJxdXFpOWxPMmc5dkxXa2NFeTRHbXQ?oc=5
 
-- 19 US Lawmakers Urge Trump To "Reset And Repair" Ties With India - NDTV
-  19 US Lawmakers Urge Trump To "Res
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFBmQXhJaUtJMEtvVzN5cE9kOGV5bmJlandQNkEteXUtQVN5Uld4d0VjTEVLMjJBMXR5Qk44eGZLdnB0ZmFvVzdHSU9KUm1oOTZiVkVYWHFISG5GS2JfRWNSNlVrX2NleGRVNVlNY0FJT1llcW91SjlVWVQzMnE0OG01bGZ6N1lPLWdRR0tITV9fNHlULXFOMVhGeEQyN1Z6ZFNQd9IBrAFBVV95cUxNMWZGRC1lT1l3c2NBRzRmQVpObnFZaEc0SlhXTnVrd3E0UzN5eEd4TGJ6cGVTMWJIT2I2VkplY0tKVS1CQmEyZ3BkejZDellHU1QwUmRyYXY1SUlxckNWSFhWSTg4WGpQWWdMbGZISVh6ajJuNEt3VFJ6LW9ER1c0clMtNVhBRW8zLXQ4YzN2U2JqNEpmU0Yzb0xQU2FzM0Z2N1ZrX25NeV9KdzJf?oc=5
+- In High-Level Security Meet, Amit Shah Reaffirms Terror-Free J&K Goal - NDTV
+  In High-Level Security Meet, Amit
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOTExQbUdrNnd1bXQxMndqamlvNHBzZFVybm9MWFZFTUY5MUczTTRHNVBUY3lZWks3UEExOHIyZ3F1TlZiWnl4bHozVkkxX0FuTl80LVJucWU4T1dQQ3hBUnMwQlFQZ3U1TTQ0ME1pWVlrTUlzZVdvUmVKSG9FbFZyMVhRLTZadHd3VjlNR2FNbW5fRVQwZ3RSUzhZTUJRb0h5cWo00gGrAUFVX3lxTE1CNFNZeFVOeUlYUWhOUWJ2RjItdFp1NFBubVVLYnA5a2lWaU5tOVpJZWV0bE5SZko3Z01EVEdMSjRLcVhsNEJPeXN6ZnZRanA2WVdXYjFIbGFfQmtrcXRweDF1LS15bGNocmxzSmMyOUZLZjNXNkVneEV5OFdRQS1MRHhSY1NEMUYyX2h1VDZfWFJmNDJGQnFPMEwwTTJ2WW5xa2F3TE9ndzcxNA?oc=5
+
+- As Afghan Taliban Minister Begins 1st India Visit, Delhi Has A Flag Dilemma - NDTV
+  Afghan Taliban Minister begins 1st India visit.
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWUZzR3FZUVU4ZTBqaldBMmg1UHpHanFBbU91dTNueEQ5QXhUVmtsVUk1SjltMFhhci1mc1VpWXk3U0dCTlQ3c0NaMEs0QlpWRndHcU1odTNPTExodXRKUjNIaGpXTVRGQ1lORlo2Y3A4WHZsYVhPR1JMX3NXQXhNOUZRcVJOZDlwOHVVTFhSRTl0RC1mOHRINXA3SGdYQXIyaDdWYzkxaVRVbDFTVWhoSkJGaTHSAbwBQVVfeXFMT0IwVE9rOUJHelVNUkdYbGFGMFdFUElZTEVrczdrbWJsRC1uZVRidDBmVjZWQ1k3LUVnRVVmeW9rVWM0b1M4dEhJY3B0Y0t5T3d1ZjItaDRZajNWV0tQYnVidmJJX0FmOEY2a0RYZWJZSlBlNWtEbnhHSHZyQTdUSWZmYWs0OHlyTElhZFV0T2lkeEV5SXdMZGxjT25yYzFrZko4bjM5Wkd5aDZEandaeUJlZldjcVBuSHRCdXo?oc=5
+
+- U.K. PM’s India visit LIVE: U.K. signs $468 million deal to supply India with missiles - The Hindu
+  U.K. signs $468 million deal to supply India with missiles
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
+
+- News Today With Rajdeep Sardesai: Israel's Gaza Endgame; India's Killer Cough Syrup Scandal - India Today - India Today
+  News Today With Rajdeep Sardesai: Israel's Gaza Endgame;
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2trR0VXeDZxOWg1NzU1UHZVRkpyMEN0bXNrSUxDeTdjWnV5N0k4SEszcWFLS2FJLUhacU95Ulp1ZWZCZVZsS2J2cURIZmFEY3czUFhyYndGMHR5NkFiV2N6QWV1eDlWaUk5OEs3REpMUDRwV0psdkU0SGhMOEJHbHQ1YklmX21Cb1F5VXVtajV1TDl0SmVlajlrM2xxYlllenpqZS1mcUZGWEVGTlhtdFlGMTZQdlXSAbwBQVVfeXFMUGpseWRpcHRjMDVrYzlwTjhPVE53aE9UVW03bDVIUEt4TUJMMUdXSk5TQXJMU0VGZnF6SVE5Vm1hTzlwdTN4dzRXeDJTRlBNUnhoSGUwY3hhZC1LRWFGa2c4LWl1UER6aHpGRnp4cno5NldvWUh0T1drLVFlT3VIYTVlYlp0Rnp6MnJ4TElfT0F2TkJQVmxDSDJoeXhlZHUzUEIzY0Y3bHhRdUVMT01tTGRRTDJwZTB5MHB1cGk?oc=5
+
+- Modi, Starmer chart new era of India–UK cooperation across key sectors - Mint
+  Modi, Starmer chart new era of
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQckc2QXNnVTQxMTBvcVNva3NobXRmMElOa0JERlM3MnkxSFlxNGh6S3JpOW1GakFCbXZ3X3B2cE43R0NYYW5LaFVKcWt5Q0dUMzVzNm9uSWpRclh2UWIxUlRiUnd6ajNrN1AzQ0pzTFg3ZXlyZlloVThyZXN0VWQzRHpyeWVrb2V5QnF4WGFPNXBmNkJQM2l5aHNqaXFlT3NHaE5vcTI1QnhsMGJhODRGM2t3R3FRbU05ZDJkUHpGSkNkcVnSAcgBQVVfeXFMTUxGa3d1V1hQUThiM29ITGNWdVNOVTRxZEMzQnRFVXpRWk9jbDVEYzVGTzRkR2hBaWxoSEtOLW5ER0N5WUFHVTNjUVlpUDV3YldFUXZwUUhnSUNsQ2VHUDVWU2FRbDJuV0hNa3hqZ1RPbWI1dGZhdVdHUGtvUVZad1gwQVhqMGFEWmwxbk1jNW5GcEtTZUF6Zjd1dWUwNTdLT3RMcGhuTGFKdnVKT2Nwc21sMzJxdXFpOWxPMmc5dkxXa2NFeTRHbXQ?oc=5
+
+- In High-Level Security Meet, Amit Shah Reaffirms Terror-Free J&K Goal - NDTV
+  In High-Level Security Meet, Amit
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOTExQbUdrNnd1bXQxMndqamlvNHBzZFVybm9MWFZFTUY5MUczTTRHNVBUY3lZWks3UEExOHIyZ3F1TlZiWnl4bHozVkkxX0FuTl80LVJucWU4T1dQQ3hBUnMwQlFQZ3U1TTQ0ME1pWVlrTUlzZVdvUmVKSG9FbFZyMVhRLTZadHd3VjlNR2FNbW5fRVQwZ3RSUzhZTUJRb0h5cWo00gGrAUFVX3lxTE1CNFNZeFVOeUlYUWhOUWJ2RjItdFp1NFBubVVLYnA5a2lWaU5tOVpJZWV0bE5SZko3Z01EVEdMSjRLcVhsNEJPeXN6ZnZRanA2WVdXYjFIbGFfQmtrcXRweDF1LS15bGNocmxzSmMyOUZLZjNXNkVneEV5OFdRQS1MRHhSY1NEMUYyX2h1VDZfWFJmNDJGQnFPMEwwTTJ2WW5xa2F3TE9ndzcxNA?oc=5
+
+- As Afghan Taliban Minister Begins 1st India Visit, Delhi Has A Flag Dilemma - NDTV
+  Afghan Taliban Minister begins 1st India visit.
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWUZzR3FZUVU4ZTBqaldBMmg1UHpHanFBbU91dTNueEQ5QXhUVmtsVUk1SjltMFhhci1mc1VpWXk3U0dCTlQ3c0NaMEs0QlpWRndHcU1odTNPTExodXRKUjNIaGpXTVRGQ1lORlo2Y3A4WHZsYVhPR1JMX3NXQXhNOUZRcVJOZDlwOHVVTFhSRTl0RC1mOHRINXA3SGdYQXIyaDdWYzkxaVRVbDFTVWhoSkJGaTHSAbwBQVVfeXFMT0IwVE9rOUJHelVNUkdYbGFGMFdFUElZTEVrczdrbWJsRC1uZVRidDBmVjZWQ1k3LUVnRVVmeW9rVWM0b1M4dEhJY3B0Y0t5T3d1ZjItaDRZajNWV0tQYnVidmJJX0FmOEY2a0RYZWJZSlBlNWtEbnhHSHZyQTdUSWZmYWs0OHlyTElhZFV0T2lkeEV5SXdMZGxjT25yYzFrZko4bjM5Wkd5aDZEandaeUJlZldjcVBuSHRCdXo?oc=5
+
+- U.K. PM’s India visit LIVE: U.K. signs $468 million deal to supply India with missiles - The Hindu
+  U.K. signs $468 million deal to supply India with missiles
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
+
+- News Today With Rajdeep Sardesai: Israel's Gaza Endgame; India's Killer Cough Syrup Scandal - India Today - India Today
+  News Today With Rajdeep Sardesai: Israel's Gaza Endgame;
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2trR0VXeDZxOWg1NzU1UHZVRkpyMEN0bXNrSUxDeTdjWnV5N0k4SEszcWFLS2FJLUhacU95Ulp1ZWZCZVZsS2J2cURIZmFEY3czUFhyYndGMHR5NkFiV2N6QWV1eDlWaUk5OEs3REpMUDRwV0psdkU0SGhMOEJHbHQ1YklmX21Cb1F5VXVtajV1TDl0SmVlajlrM2xxYlllenpqZS1mcUZGWEVGTlhtdFlGMTZQdlXSAbwBQVVfeXFMUGpseWRpcHRjMDVrYzlwTjhPVE53aE9UVW03bDVIUEt4TUJMMUdXSk5TQXJMU0VGZnF6SVE5Vm1hTzlwdTN4dzRXeDJTRlBNUnhoSGUwY3hhZC1LRWFGa2c4LWl1UER6aHpGRnp4cno5NldvWUh0T1drLVFlT3VIYTVlYlp0Rnp6MnJ4TElfT0F2TkJQVmxDSDJoeXhlZHUzUEIzY0Y3bHhRdUVMT01tTGRRTDJwZTB5MHB1cGk?oc=5
+
+- Modi, Starmer chart new era of India–UK cooperation across key sectors - Mint
+  Modi, Starmer chart new era of
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQckc2QXNnVTQxMTBvcVNva3NobXRmMElOa0JERlM3MnkxSFlxNGh6S3JpOW1GakFCbXZ3X3B2cE43R0NYYW5LaFVKcWt5Q0dUMzVzNm9uSWpRclh2UWIxUlRiUnd6ajNrN1AzQ0pzTFg3ZXlyZlloVThyZXN0VWQzRHpyeWVrb2V5QnF4WGFPNXBmNkJQM2l5aHNqaXFlT3NHaE5vcTI1QnhsMGJhODRGM2t3R3FRbU05ZDJkUHpGSkNkcVnSAcgBQVVfeXFMTUxGa3d1V1hQUThiM29ITGNWdVNOVTRxZEMzQnRFVXpRWk9jbDVEYzVGTzRkR2hBaWxoSEtOLW5ER0N5WUFHVTNjUVlpUDV3YldFUXZwUUhnSUNsQ2VHUDVWU2FRbDJuV0hNa3hqZ1RPbWI1dGZhdVdHUGtvUVZad1gwQVhqMGFEWmwxbk1jNW5GcEtTZUF6Zjd1dWUwNTdLT3RMcGhuTGFKdnVKT2Nwc21sMzJxdXFpOWxPMmc5dkxXa2NFeTRHbXQ?oc=5
+
+- In High-Level Security Meet, Amit Shah Reaffirms Terror-Free J&K Goal - NDTV
+  In High-Level Security Meet, Amit
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOTExQbUdrNnd1bXQxMndqamlvNHBzZFVybm9MWFZFTUY5MUczTTRHNVBUY3lZWks3UEExOHIyZ3F1TlZiWnl4bHozVkkxX0FuTl80LVJucWU4T1dQQ3hBUnMwQlFQZ3U1TTQ0ME1pWVlrTUlzZVdvUmVKSG9FbFZyMVhRLTZadHd3VjlNR2FNbW5fRVQwZ3RSUzhZTUJRb0h5cWo00gGrAUFVX3lxTE1CNFNZeFVOeUlYUWhOUWJ2RjItdFp1NFBubVVLYnA5a2lWaU5tOVpJZWV0bE5SZko3Z01EVEdMSjRLcVhsNEJPeXN6ZnZRanA2WVdXYjFIbGFfQmtrcXRweDF1LS15bGNocmxzSmMyOUZLZjNXNkVneEV5OFdRQS1MRHhSY1NEMUYyX2h1VDZfWFJmNDJGQnFPMEwwTTJ2WW5xa2F3TE9ndzcxNA?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-09 12:36:16 UTC_
+_Last updated: 2025-10-09 18:25:58 UTC_
