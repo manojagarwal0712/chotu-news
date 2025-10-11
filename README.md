@@ -1,28 +1,28 @@
 # 📰 Daily News Summaries
 
-- Bullet train project update: NHSRCL launches 10th steel bridge on Mumbai-Ahmedabad HSR corridor
+- Op Blue Star was the wrong way… Indira Gandhi paid with her life for the mistake: Chidambaram
   
-  🔗 https://indianexpress.com/article/india/nhsrcl-launches-10th-steel-bridge-mumbai-ahmedabad-bullet-train-corridor-10301182/
+  🔗 https://indianexpress.com/article/india/op-blue-star-was-the-wrong-way-indira-gandhi-paid-with-her-life-for-the-mistake-chidambaram-10301634/
 
-- Jaishankar, US envoy-designate Sergio Gor  talk bilateral ties amid tariff tensions
+- ‘Look forward to harness AI for growth’: PM Modi meets Anthropic CEO, welcomes firm’s India expansion
   
-  🔗 https://indianexpress.com/article/india/jaishankar-us-envoy-designate-sergio-gor-bilateral-ties-tariff-tensions-10301112/
+  🔗 https://indianexpress.com/article/india/ai-growth-pm-modi-anthropic-ceo-india-10301623/
 
-- US–China trade tensions flare again – why it matters to India & the world
+- Woman, four children found dead in suspected suicide case in Rajasthan’s Sikar
   
-  🔗 https://indianexpress.com/article/india/us-china-trade-tensions-flare-again-why-it-matters-to-india-the-world-10301178/
+  🔗 https://indianexpress.com/article/india/woman-four-children-dead-suicide-rajasthan-sikar-10301581/
 
-- Watch: Afghanistan Foreign Minister Amir Khan Muttaqi visits UP’s Darul Uloom Deoband, hopes for ‘stronger ties in future’
+- Dhalai, Khowai districts to become self-sufficient in foodgrain production: Tripura Agriculture Minister R L Nath
   
-  🔗 https://indianexpress.com/article/india/watch-afghanistan-foreign-minister-amir-khan-muttaqi-darul-uloom-deoband-10300898/
+  🔗 https://indianexpress.com/article/india/dhalai-khowai-districts-to-become-self-sufficient-in-foodgrain-production-tripura-agriculture-minister-r-l-nath-10301578/
 
-- Ahead of Diwali, New Delhi railway station gets permanent holding area for crowd management and ticketing
+- Amid tense tariff talks, PM Modi meets US ambassador-designate to India
   
-  🔗 https://indianexpress.com/article/india/ahead-of-diwali-new-delhi-railway-station-permanent-holding-area-crowd-management-ticketing-10300912/
+  🔗 https://indianexpress.com/article/india/sergio-gor-us-ambassador-designate-india-meets-pm-modi-10301440/
 
-- OpenAI’s ChatGPT code suggests ‘Clinician Mode’ for healthcare and voice interaction features
+- OpenAI’s ChatGPT might introduce ‘Clinician Mode’ for healthcare and voice interaction features
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openais-chatgpt-code-suggests-clinician-mode-for-healthcare-10301226/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openais-chatgpt-might-introduce-clinician-mode-for-healthcare-10301226/
 
 - Meet Figure 03: The Humanoid robot that can fold your laundry, tidy up room and wash dishes
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/science/what-are-ghost-flowers-monotropa-uniflora-10298723/
 
+- DMart Q2 results: Profit growth muted even as older stores revive, costs stay high
+  The retailer ceased operations of its e-commerce service, DMart Ready, in
+  🔗 https://www.livemint.com/companies/dmart-q2-results-avenue-supermarts-q2-fy26-results-dmart-quarterly-earnings-11760186433591.html
+
+- Auditor BDO Cuts Jobs With Focus on Managing Apollo Debt
+  Auditing firm BDO USA has slashed costs as it managed an expensive
+  🔗 https://www.livemint.com/companies/news/auditor-bdo-cuts-jobs-with-focus-on-managing-apollo-debt-11760191243255.html
+
 - Ukraine Claims Strike on Oil Refinery Complex in Russia’s Ufa
   Ukraine's forces struck a crude oil processing unit at a Bashneft refinery in Ufa, Bashkort
   🔗 https://www.livemint.com/companies/company-results/ukraine-claims-strike-on-oil-refinery-complex-in-russia-s-ufa-11760184652687.html
@@ -52,33 +60,25 @@
   The site is strategically located, offering quick access to Hinjewadi. It is surrounded by well-developed social infrastructure, including educational institutes such
   🔗 https://www.livemint.com/companies/news/mahindra-lifespaces-acquires-land-in-pune-for-rs-3-500-crore-development-11760176087802.html
 
-- OpenAI accused of using intimidation tactics to erode California's proposed AI safety law: Here's what we know
-  OpenAI accused of using intimidation tactics to erode California's AI safety laws. Policy non-profit alleges the ChatGPT-maker is
-  🔗 https://www.livemint.com/companies/news/openai-sam-altman-accused-intimidation-tactics-policy-nonprofit-encode-alleges-erode-california-ai-safety-laws-elon-musk-11760170903409.html
+- Upcoming IPO: Om Power Transmission files DRHP with SEBI to raise funds through issuance of public issue
+  Om Power Transmission Limited has filed for an IPO to raise funds. The company specializes in power transmission infrastructure and aims to fund capital expenditures and working capital needs.
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipo-om-power-files-drhp-with-sebi-to-raise-funds-through-issuance-of-public-issue-stock-market-news-11760201445552.html
 
-- Shapoorji Pallonji Group reiterates call for transparency, governance through public listing of Tata Sons
-  The Shapoorji Pallonji (SP) Group has renewed its call for the public listing of Tata Sons. The move towards a public listing would uphold the vision of Tata Group's founder, Jamsetji Tata.
-  🔗 https://www.livemint.com/companies/company-results/shapoorji-pallonji-group-reiterates-call-for-transparency-governance-through-public-listing-of-tata-sons-11760172772591.html
+- Trump tariffs on China &amp; AI spending cast a shadow over Wall Street gains
+  Wall Street’s immediate concerns are focused on two crucial and interwoven factors: the impact of elevated US tariffs on
+  🔗 https://www.livemint.com/market/stock-market-news/investors-worried-trump-tariffs-on-china-ai-spending-cast-shadow-over-wall-street-gains-11760193027567.html
+
+- Investors keep pumping money into private credit, despite red flags
+  Dividends are being cut
+  🔗 https://www.livemint.com/market/investors-keep-pumping-money-into-private-credit-despite-red-flags-11760186764532.html
 
 - 2900% rally in five years! Multibagger stock to be in focus on Monday; here's why
   Madhya Bharat Agro Products Limited is in focus after announcing a 120% YoY increase in net profit. The company also recorded significant revenue growth and
   🔗 https://www.livemint.com/market/stock-market-news/2900-rally-in-five-years-multibagger-stock-to-be-in-focus-on-monday-heres-why-11760173660462.html
 
 - DMart Q2 results: Avenue Supermarts net profit rises 4% YoY to  ₹685 crore, revenue surges 15%. Check details
-  Avenue Supermarts reported a 3.9% increase in net profits
+  Avenue Supermarts reported a 3.9% increase in net profits for Q2
   🔗 https://www.livemint.com/market/stock-market-news/dmart-q2-results-avenue-supermarts-net-profit-rises-4-yoy-to-rs-685-crore-check-details-11760182464626.html
-
-- Gold price registers best YTD rally since 1979. Will the rally continue as Trump hits China by 100% additional tariffs?
-  Gold prices have risen 58% this year, marking its best
-  🔗 https://www.livemint.com/market/commodities/gold-price-registers-best-ytd-rally-since-1979-will-the-rally-continue-as-trump-hits-china-by-100-additional-tariffs-11760175607390.html
-
-- Third-Largest Stablecoin Briefly Loses Dollar Peg in Crypto Rout
-  Ethena’s yield-bearing stablecoin briefly lost
-  🔗 https://www.livemint.com/market/cryptocurrency/thirdlargest-stablecoin-briefly-loses-dollar-peg-in-crypto-rout-11760175323197.html
-
-- HCL Tech Q2 results preview: Revenue may rise 8-10% YoY; focus to be on guidance, deal TCV, GenAI adoption
-  HCL Technologies is set to report its Q2FY26 earnings, with analysts forecasting an 8-10%
-  🔗 https://www.livemint.com/market/stock-market-news/hcl-tech-q2-results-2025-preview-revenue-may-rise-8-10-yoy-focus-to-be-on-guidance-deal-tcv-genai-adoption-11760172299287.html
 
 - Amazon Diwali bonanza: Top 5 deals on flagship mobiles you should not miss - iPhone 16, OnePlus 13 &amp; more
   Amazon’s Great Indian Festival sale offers top flagship smartphones at discounted prices. Deals include Samsung Galaxy S24 Ultra, iPhone 15, OnePlus 13, and more.
@@ -100,25 +100,29 @@
   Elon Musk criticised OpenAI on Oct 11, calling it “built on a lie,” after retweeting ex-board member Helen Toner’s post highlighting dishonesty
   🔗 https://www.livemint.com/technology/tech-news/elon-musk-slams-openai-again-built-on-a-lie-they-stole-a-charity-over-non-profit-status-11760161283167.html
 
-- Dow drops almost 900 points, S&P 500 declines the most since April after Trump's new China tariff threat - CNBC
-  Dow drops almost 900 points, S&amp;P 500 declines the most
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAtclc4S0oxd25QeGpmTXJ3MmlZT0ExRGJsUV9HYTNta01fc29MZkliZUdPSjJTVGJOMHZYQlVsR05ma3l5bzdYbDk3RVh4OVhMcDFjd2xFeGI4RVdMM0h1bElzNEJ6M3J3U0VISEVZTWFqUlVZanVj0gF8QVVfeXFMUFI5VVVKeHFIaTlmRXNpd0pweVVIWnpYUFhBSHlURHJfOFNKa0tBSzc0R1QtV0VKUlhXX2xJRzRZQjNGcXFSRzQwMFN1RFJDMWZJNk95TnlpY1FvU3pFdkhsck92M3JWNDM0SWhxVXZJLUloYlc3eVBIN2VKWA?oc=5
-
 - Stock Market News, Oct. 10, 2025: Trump to Impose 100% Tariff on China; Nasdaq Falls 3.6% - The Wall Street Journal
   The Wall Street Journal published a story on Oct. 10, 2025: Trump to Im
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOempSWUpSUkZPaURxTURXOTBDUDBRenVtenlYTEctSUt1a0Z3bUMzRDBKcXZ3MWQxbjJwOTF0Rk8xX1FhaVN6S3lPTEF5YlZiV3RHWDVHX3NyWXJtZTc1VVNCY3VBbTI3bmdXaXVrZHVTb3pYcWx0NGZGdDFqdXZmeWRsSE93dUk?oc=5
 
-- Silver Traders Rush Bars to London as Historic Squeeze Rocks Market - Bloomberg.com
-  Silver Traders Rush Bars to London as Historic
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEdRODBJam9aUFBBM1NSRDU1UlhaRHRud2tMZ1NTM3NvMUhuQkp0dmQ5NDgxOUFYSDZGSlpDZUZhOXhOeG80Z2xCM25NODhQUUJmdE9ZU3V6Qm9aV2pDdHVWZzBPTldKdGpuZG5uUG5qWXM5TWV3eUtacFNVOHJiZ29YZkJoNE5ER3M3QWp4TmM5RnRJUnQ5OVd4R2xmRmxSa2tGTm9ONnFteGZzY2hYUnVEY1R4Zw?oc=5
+- Dow drops almost 900 points, S&P 500 declines the most since April after Trump's new China tariff threat - CNBC
+  Dow drops almost 900 points, S&amp;P 500 declines the most
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAtclc4S0oxd25QeGpmTXJ3MmlZT0ExRGJsUV9HYTNta01fc29MZkliZUdPSjJTVGJOMHZYQlVsR05ma3l5bzdYbDk3RVh4OVhMcDFjd2xFeGI4RVdMM0h1bElzNEJ6M3J3U0VISEVZTWFqUlVZanVj0gF8QVVfeXFMUFI5VVVKeHFIaTlmRXNpd0pweVVIWnpYUFhBSHlURHJfOFNKa0tBSzc0R1QtV0VKUlhXX2xJRzRZQjNGcXFSRzQwMFN1RFJDMWZJNk95TnlpY1FvU3pFdkhsck92M3JWNDM0SWhxVXZJLUloYlc3eVBIN2VKWA?oc=5
 
-- US markets today: S&P 500 and Dow hold near all-time highs; crude oil slips on Gaza ceasefire - Times of India
-  US markets today: S&amp;P 500 and Dow hold near all-time
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNLXJMcGNUaDZGSVZfY1pjMHpfM2hjSG16eTU3VGdoTzBYWUFuYmlwdk9tMk83Y2ZNdlVtM2FFb3hRZF9Zc3FXR3NzTFNIX1VuUmpWV2JHdU9qWUYzOXV0QWVCVkZFYXd4OHl0eXhHT3ZUTDR3SXdnd2VvaWh2dDNSWHdiZkJfY0V1ZldSeW9uRmhvZmtZWVRnNVZWZkJVdFBET3N4LVFKOUxpbnh6SWUwUlI4bjhNakZQMUJNeGdJR2lSLXVTb25KbzBHWWRFbkhtY2NQeURVNWdmUG5yRFJOSmx3dy1zRmRIdEU1bTRzRzNtUm5fZjE4eUVFU1Z0Y1hoMUlqalhTQ2RuU3ljLTNuT0l30gGXAkFVX3lxTE9CeEc0Szl5SEd5QmhId0VUdS1GTW1sMWdoNzNpUW5PNXk3OEZDSm9PU3NwekhBRmhGLWh3b0d0azdHZ2sxcldMd09CWEk5c25QTm9Gc0EydzRoTWlva2FOVl9idktRRG1ObXpRWGhKTl85UDNJYUZFOXlPQUtNbi0zS194TGxrRnhYTHZEaGNQeEI2MndHUkVwOURCOEhqMGk2dm1Gd2M0WWljc1RCQmRubFhUclNnU1ZlMTJTdVBVY1YySTJ0Wlg3Y0llMThiR2o5X0todnRfM0VHQlpzc3J5VERYVkJmY0JYS1lPemF5Q0NlYTljXzh5OV9Ic0VoNmllU0dZVXBxVVpWOG9NUWdjTDU3OUlhOA?oc=5
+- As US and China play game of trade chicken, bloodbath in the markets - Times of India
+  &nbsp;&ngt;<font color="#6
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaFF6ZlNfTkxUVjRmcnlNbVFZcHcwN2JLdDZMZ3M0NXcyWjlSTlVpcy0zTVJwMVFQWjhPam9Fb094c2VrSkktWXVpZkFFN0xMeHV1OVBWS0lPS0JaQkw3Z29QbTB0U2FGbTRGQTJ3TWRNMUZldVgyOWRxVGVISkYtZkJwVk9MNktTekJTbFVDSk9jUzB4MHBrZU05aW9JbWVpU0pxT2pfcW5aaFh2ODE3WDc5TWxwVHhKWWZzc2hicGFzMEh6dTd2Smt2RVB4M2pONERwdml2Q01sanlYM1plcXY5LUFUQVJxMXo5b0xLNFZnU1XSAfgBQVVfeXFMUGJDNE8tUVA0dEpHVnl2c1VCOUthMEEzNExRanhhaUs2WkdSOXlDLVQ2SEdIblVOMTZrYnZpeGJlVzh0dElNZ1JHMVAzdFJPU1dHemlpa3owRnNDLUloM1VPTjhOTTB6UkpfVnJ6alpVUnpETUNWOGI1NDJpQmVaNWdKRHdiMmk1bDlIaVBWSDZoQy00S1RRU1ZkWTREcWlSV181ek9Gc3M4NHU2Ty1FVkFGVWxpSko1RDFkdThPWjM4ODdWSFI2Y0RWTk1SR2ppWDB4d3FvOS02UXJBQTFaUHpkajQxUE1UZkt0U01NNFlZamdDeFdLMzg?oc=5
 
-- Cryptos see worst sell-off in history! $19 billion gone after Donald Trump's new 100% tariffs on China crashes markets - Mint
-  Cryptos see worst sell-off in history! $19 billion gone after Donald Trump
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxNNmh5bnpFUVlpNXlIbkRfdXdjQTY1elNlOTRUX25RZFI1MTdOd1FwOFdWWTFBT29qTzBobnl0UGljWHhqazI0Zzd0VkJGaURKY0QxUnpYWDh3eU9tWkJhUG9hLU95SFVUbFJrRjZEX2J2UVlpSXlYSmhtNVo4a1Q3V00tUGdtR05vMFFyRmNOMW9wLU4xblNUR0RYdmFDdzY0dzJzX0lvZHhMRXFkX0ItVnJ1SmtSSWstc0lGRFAtQms2U0UybUdSVXg2SVM2OTdSX0c3dDZoWnpvbGs1cmFxSl9sRVd2OFc0OHdOOHhWdnlzMnhwdVFrZS1xU2FsR3ZWQ2RILWFIbVExZ0lkSDljSjY1dkfSAZoCQVVfeXFMTVhZZkxoTTdaVkJVZV96dmxfWFJpd1dLV3RWazNwLV9jNVVOOUcxdDdidHdEVUNXOUlBa1FMazZUSXBxRVpRSFE4OXQ3bjJLQW5hUGpsVmVISGk4SGgtVUNtS1I4Nmt0cEVlaTJSSlFtRTRGMFFoN1JXLVVrYjNaT0I5d1pKWUdHQXdQMDlZUU9pdGIxRVR6S0hvMDN0MGxRZzdXNkZFTUozRjRITVlIZWNNbGhCeldLTXAwei04VWM0dUwxRzc2WEx0UEZzTFBRTUdnS0RnTU9hVWJEQThvcDkyMmh4dGVLV19WcHpyb2U1a0pqNkhhMlNBZWg3TTBSRFBDUHRkUGF2UGNVcGJSMjdTVnVDdEZyOTNR?oc=5
+- US Stock Market Crash: Why is the US stock market down today? Dow, S&P, Nasdaq plunge as Trump warns of “M - The Economic Times
+  US Stock Market: Why is the US stock market down today? Dow, S&P, Nasdaq
+  🔗 https://news.google.com/rss/articles/CBMingNBVV95cUxNNzdfMTVoVS1fYS1JakNBckc2Sm03eDhrSEhwWUxtbG9OQmkzQkJpRXJmdHRaTUN0SUkzVXBfbDcxNjJkRF9sZ0F2eEtUZng3QThERGxiNGE0cHY2UGtnTVVQT1hfY21sUENDREU2bmswUUpmZzNkYWFqMnB4MDlnVFR1U0RhYW5tbFpKUkpGSzdyZUJpSUNVa3lCTjh4WEhRbnRoU0JlMk52SkVCek5QMGM4VXNuR3RVTFBwV3B6T0NXVzJJbDRUU2p2eXZYdE5nZkdjVER5Rk55aHhxNmlOaXBVUnBtVE8xelRjWHFfR1dybHowUHNoazlreW4tSnV3NGFwOTdPYVVhR01XV25VOGxIUFJ2YnpqR3RDQWFMaHNYbkFfU085SnV4UWtISml5NVNLOFppaDU2NFpfY052SzgtMk1jdHRYVHJKUExGaS02cVk3dXVPYzFsRFkwMEtTR3o2REhlLUJMY1VmM3ZyUTFHNHhKRllMeUZuSFdndmVOa3VHejlRaGwwYkcwRVdRbENMOUZERUJjWXhYaWfSAaMDQVVfeXFMTkh6WEJ6U0NwSFFZejhDd3AtdnN1M0JUOFM4X0xMeThWcnpOUF91WUxlX0I2RnEwdUN3Tlowa2FhRUJ3ck1RcUJfdHp6ZGxQelQzMXpQOG5NeHdsc0FJLTJ2X2JWTkxCNWdCV2VBVS1SVDEyeERvTXo5aGxPX2E5dnlZQXlGWXo3N2lGOGFFTnpGanFmMGpRTTFJWnVMYmJNOWxEbWhzaXBTVFZDaXdXbFpaQjlQS3RWZWV1Q21tN0tXNG9GSFpCOUozWkxZa1lDVHBqTG9RZnYwTzNsbEw3YURDbmp3a0wza0d1V25IazdTY2QtakxaTnZ3THRkV2NFMFkyRE5ZbkwzVFlZX1RXaHNxdi1XdVJyNTQwQ09waVNVSnA4RElIVFFNVEVuaFlNTkwxQ2RQNmNWZThaYVZBVzlxZUNJVHMtVGFTNEpDeEdpbXdDMVJveHpuU0YxajdmTUJ6ZTdfWEdZUDlqVGJNbWh3NTVNcmJmVzZjRmZ0Uy1JRmN0VGp3RU9TZlZMaUxKRmc2LXoya0VpTmQtTXlORnUzYzQ?oc=5
+
+- Markets expect Trump's latest China tariffs will backfire as gold jumps and the dollar 'is not looking looking healthy' - Fortune
+  Markets expect Trump's latest China tariffs will backfire as gold jumps and the dollar
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ19kdklibFJjZTQ4X0l6Y0dPZzExZGlZTlYxaFRCbTV0cURkVFJ6NUkwMjRaMllaU0VSYl9fMFNYS0NQMmt5clVDOHRvRWpfYy11NzE0YUdEdzZQNlRwdi16aVBadXZJaml4YkFDWFYtblZ2VFZvZGQ0TUpEREsyMHFyaF9pU2RIVGR3bm5Vc3paT3gxczFhbQ?oc=5
+
+- DMart Q2 Results | Profit up, Margins down | 8 new stores added in Q2FY26
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/dmart-q2-results-profit-up-margins-down-8-new-stores-added-in-q2fy26/videoshow/124479257.cms
 
 - Bull run for gold &amp; silver likely to continue on central bank demand, weaker dollar: Kotak AMC's Nilesh Shah
   Gold and silver are expected to stay supported in the coming months. Central bank demand, a weakening dollar, and supply constraints make precious metals a key hedge and long-term portfolio diversifier.
@@ -136,89 +140,85 @@
    Axis Direct’s Diwali 2025 Mahurat Picks highlight nine stocks across sectors with upside potential of 15–
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/diwali-2025-picks-axis-picks-9-stocks-that-could-deliver-returns-up-to-23-check-full-list/slideshow/124475208.cms
 
-- Dalal Street Week Ahead: Nifty eyes breakout above 25,550 as auto, metal, PSU banks lead momentum
-  Nifty gained 1.57% last week, oscillating within a symmetrical triangle. Auto, Metal, and PSU Bank sectors show relative strength. Midcap, Commodities, and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-eyes-breakout-above-25550-as-auto-metal-psu-banks-lead-momentum/articleshow/124473754.cms
+- Why UP's Deoband Was On Taliban Foreign Minister's India Itinerary - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYX
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYXBDVFlIbDFOOFRaTWVvMHNhYXE0enJ5SXNWSUp4YUxUbnV0c1FZWGRCS1JqcWt1alBuY3djZ3VoRTNQeDJzeEl4MkZHTVQxcnNha9IBuwFBVV95cUxQTUR3NnRXTUhZUHRUN1JadDZmTGxUOE1Sd1UxTHRNaEd0aE1vVWFUSEFRS1d4LThmMHkycG0teXdtNDU4VEpmUFpGX0ktS0d1c0h4bFJYMzhvX3Bib1poT0FSbVA5ZHE3NmpLbG9YaTdZLXhuVUNjNTIyeVRIS1M0NkQyaERsaGVlcTVUci1vVDVzLWMyRGcwbUExV0g0a2dtSVROcTJiVzZ6MEdaN0l0bkh0SkJBQkFuUGRF?oc=5
 
-- Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMj
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMjNSZEE0cmpqaC1HazdXS1paQWVQdGg2VXIzT2g1MVA2ZUI4d3ZmMmg2dVgtSzM0VFdFcUtqTk1rVHc2NEFIZ0VVR2_SAbMBQVVfeXFMT0dfajJ2RjE2UFlmY3UzY3NyUTlidDR3SXNvRzB3TUQ3VS14R1pPNmxLYWlpRU1TdmZFNXBTckE5ZWoyRFJkQjdEaGJQOXRQX2RSRlRDOUxmdUh0VUFVbGQ4bDl2WkhGdTdMSkthb2xmaE9IMUNMTldBVkp2OWlmS3lSVlhNWXVVWVJpMlZZNU5LWW1TMjJJakdoVEtwWlphSHJFa2RUZ0U4X2prbzVVdjhkWkE?oc=5
+- Myanmar tells India: No Chinese on Coco Islands | Latest News India - Hindustan Times
+  Myanmar tells India: No Chinese on Coco Islands.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
 
-- 5 Constituencies At Centre Of RJD, Congress's Bihar Seat Struggle: Sources - NDTV
-  " target="_blank">5 Const
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQRjdubWhYZDZIcmdOYlg4b2E3VmlWR0xjMWNiYUFDNmtjYVI3dzRHM1BnMmxuaUNqSFZ5SXdjZ1d3VE1BR3J0cGpMVDdIck5kWUdyVG41MkpxM1Z2SkY5SHNnQ3FRdHcwdndOeFJobGhzWERlTWE1WnNFdEdIQzYwTFpWY3JGVnlYcWg4MTk4cVVHeXFtNzVJWVluS2RMVTFKcEttTHNlMFlfeDJva0R0bXFJRHhESWxLLVdvc2J5SElEMWJyLUpZbERKb9IB0wFBVV95cUxORTRVcHM5NGpqVWQxUlVqSWJtOUdYS204VEI3clRkMDZNdFdael9ob3htWUdlRFo5NjVQVXNxdGZjYVZ2aHBFRUpZWFBzTmJHWlBkVVllYXlycEpPNXhxU1V2c1pkRlUwY1FLa244V2FDejFiVTZmcVczeUprM2xZZGIzUjgyUlQtdk04QVJ6M0dleGs3dWlaY2J3ODF3SzZ0ejE1cnltcDF0QXRvSDVteHdwWmctdzM4Yk1nb1VHWHZsOENTdlFlNXk5Ri15T3h2RzJz?oc=5
+- Military History Seminar honours valour of Indian Armed Forces - Times of India
+  Military History Seminar honours valour of
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYXl1dlkwT0VHcHVxRFZ2M0NsMkdwczV5M3FzOFpjX3RuTDJmamFMdk9NdzVXVU9FV0dlS05pNlo0bmxIMFUxeXVUeFZDckExYXltX3k3R2ZUQjhHUng2Q2pmX1FpSmZnaUVZUkgwT3V5SDFkNW1VSFNqZmJmbDNVcE1RaFZabWRyT2RVQ0hkRU9qRjJMS0VhcTNsSm1lUl9oalZnVS05VTQ5QXdwYV9qX1ZCczh1Y3NFbWRoSUJnclNjM2pGSlpkRmpLTGp2YXhZalRHLdIB2gFBVV95cUxPVHYzWFV5R1pMX01kZWFuajJlQ1RyNjNiQ0pNNmwzWm9DVGdLQWo4U3dCZUFkUXlVYWxhbXFoRXR5Mk1XVWJvNkNuLVNlX0stSlZSdXVQVVB4eXlVWE1EOVRISFFVV2FFc1VaR2JmZjZDY2V4ejdBWHl3NTlvNENzMlRXdVdfaHk5NWNzSEpKTkl2MzJhcC0xeHNQQXN0UXRZU0JqY1BlaXlVY1AzYnRXZkNCd1R2S0U4b1l1OG15TUZVLW1KVFB5WEtYMTBHd3I3OUZIXzJzUHVXUQ?oc=5
 
-- Guest Column| Case for intelligent conscience, missing ministry of AI | Hindustan Times - Hindustan Times
-  The Indian government is yet to appoint a new AI minister.
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMS03eWlTWEFhM2o1aVJacjRvZmVQcTRkbHY1cTYwVmRISW8xMEl5NkpaVi1vdERhQ2hsOFo1dC0wTnhoUF9GckVxS2pSbkNuOWlJV2xKemlHVkU1dG5DbnNlMGE0YlNXeWJDWDRSX2YtblVKeG5aUUNrVG4wTlI5OE1HSnFTWEpvd3oyaHgwME1vRjBQTVFOVXp0LWNNc0kycGEtNUJRWjRHWUZXOUd0US1hVHVuNGgyMHllSzJXenVyMGRPcUVqaUI2elVnMHFraDBOT3dfUWQ0UdIB3wFBVV95cUxORDRtcGx2bFljUFNZaTBxak1FOUZhemtXdDd3X0huc2psQmFielhDeUhJQjllVFJyRzQ3R3RZdGJoVjRZVWE0aDFzNnhYbDVoZHRlV0tJXzdwam1MZmdTdEZicmRNSTh2R2xoVk92VUFha2ZXamNONDhqN2hSSjhfVnp0bWYwTF8wcjhhNXJsTWZrVXRfTWRNcDJ1NVl1c3dRazF6bWxpc1k3dk50NlZOZzVIZ3hVVm9CeXBJc3BlSUdJcnlEVXNzY0Y0Y0hMeVNsMkl3SFN6SUJKOWpTbTJj?oc=5
+- On Tejashwi Yadav's Turf, Prashant Kishor's "He Should Be Worried" Remark - NDTV
+  Tejashwi Yadav and Prash
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2g0dnB1Q1lwZV9uZXpHbkZOekc0bGEzbHBZdHBxYTE5aU93OXk4T3dmRE1EanRKUG1FbGlxdlB1Y1FPRkRNVy1zZHFkVlBEbUF3RFRQZ2RkVEV2THVGTENVYkdld0RiamVCUkFQdWh4VV9PMk1rTVluUzFGMTBYMzYzVUc5SVJjSFVES1J1LWlneGZhOS03RHZvREJBZUJaNlg0QUpsUkRWbFRLcW9Nb2pOM1FVdDdEM3FTejFNdF9zN1kxZkY4WFNPcGgzeDdvdHJFalBWZWFsX0xvQzhTenVZdnVmcGNp0gHwAUFVX3lxTFBCZHpZVFBzOTN2N2ZIempKeUdSOW1ZWUE1U2F5MXJWVDdidE5qTUpWSmljWng5ZnRuNlhGbFprZjlfUE1hckhPaktXUmlJZ0tCLXpHdHAyWGo4SjFELVF5UFVyUWlfcnVYVHRibEYxdmZzLTdWaHhHYXY1ZFRkZW5HMGtCbEtNS1h5VDhYSjFiOHBXbnlZQmRYc0c1N3FGVXFtMjJvcGhjYzc3d1ppNUk5Uzc0eEp2U1ZzZGlwYlhqdFY4b25IaTFvazJwa3NYLS1jbzlCdHgxUmt4WVFtNkFYeno3SkdXRFRQVkx0cDZnZQ?oc=5
 
-- U.K. PM’s India visit updates: U.K. signs $468 million deal to supply India with missiles - The Hindu
-  U.K. signs $468 million deal to supply India with missiles
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
+- Delhi's Air Quality Nears 'Poor' As Winter Chill Begins To Set In - NDTV
+  Delhi's Air Quality Nears 'Poor'
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExTWkZUZHUwaU9JOUdSZjJpazZIbXJzZktWaDdVWVliSEhVcFhKZkFWa0xGUDl1SmMzSVpWVi00NVo5LWJuOHpKNnMyT1I3cjJvV0kyQ3BJa2FhUGNwRE52WmlBT00yVGNPUHVuSVVwclNubk5jbUlsYTNnSm9xekkydU10eVl2bHRGSW9ZVTVwRDludjBkdEcxakZtdkEzeTVwRtIBrAFBVV95cUxPbngtRUplUnRqMDI2ck9wRnBEWE1CeEJXSUtNaGR4NXdCUEpQQjN0NTFWYVNwUFVDV3k4M3lWQXk5VHlKREVxcTVjNHpIcUE1SlJFTGREeTVjeUdvM2t0OHdGeXBMdUxLbVB1NWE4cWJyUng2Vy02Yks5NXBkc2N3d0lKZGk4U1NLdDlaMy1mR3lDOTJNLTJaUWQyYXUzZlF2ZXVXWU9qekxZYzJw?oc=5
 
-- India Should Get 'Rightful Place' In UN Security Council: UK PM Starmer - NDTV
-  India should get 'Rightful Place' in UN
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNmVBWUlaNlphT0pNWmNZZk90V2VIS1R1WmgxckVUQmpxbm9jU2FuN3hBRkVUVEV2R29tN3h0dGNGcmhuLVoxcDRZd3BvdjV3U3haT3N2MXQzRGJ2U1g5eDF6c05ERFlmWTJseWdqbm92Tko2bm1GSUstRU5Pcm4zQ3FOYXkyeG1KWGhOa21ZVlFBNm5Td3VfeGhvY2kxY3otTi1GSXg1WnFXYktoSmxWVWx1LUVEcklUZlh3aTdGZ3pqV1hHQ0xDbGZOU1hoRXU1M2FJcURTTk9wVmg3ZnFqeDdLWlo5dkhHVWJMQjF2TUhobHpOU3VWVFVR0gGCAkFVX3lxTE41NGxoRFJCVDRpM0hxVTZYNUhYV01yTjJJWm1EcG1VY3NEV0lzakt4VUdwWmdBcERHQkFaSmxUQVVsNEdfTVlSUU1FeTg3b3cwREVXclpUOUlidjhLTGt1eTZOcjhhOHVGNklmd1JxNVVsUzktbDFBZk5HTG15TFpCNHpWRWhsWUVRRHVXSUZwNFdtTHJRSGc0bk9uVGdXUEZTYXNoZ2lzdjBYTjlTYWlGTktRaGY1U3pZeTZNSXVwSjJ5cXNHVEVqSGVpRHlFUUItcC1uc3NPMmRzUEFORmJCUXowbVdQVHd0N19LTGloVW1BNmNCXzNmNHVnbHIxNmhZZw?oc=5
+- Why UP's Deoband Was On Taliban Foreign Minister's India Itinerary - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYX
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYXBDVFlIbDFOOFRaTWVvMHNhYXE0enJ5SXNWSUp4YUxUbnV0c1FZWGRCS1JqcWt1alBuY3djZ3VoRTNQeDJzeEl4MkZHTVQxcnNha9IBuwFBVV95cUxQTUR3NnRXTUhZUHRUN1JadDZmTGxUOE1Sd1UxTHRNaEd0aE1vVWFUSEFRS1d4LThmMHkycG0teXdtNDU4VEpmUFpGX0ktS0d1c0h4bFJYMzhvX3Bib1poT0FSbVA5ZHE3NmpLbG9YaTdZLXhuVUNjNTIyeVRIS1M0NkQyaERsaGVlcTVUci1vVDVzLWMyRGcwbUExV0g0a2dtSVROcTJiVzZ6MEdaN0l0bkh0SkJBQkFuUGRF?oc=5
 
-- Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMj
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMjNSZEE0cmpqaC1HazdXS1paQWVQdGg2VXIzT2g1MVA2ZUI4d3ZmMmg2dVgtSzM0VFdFcUtqTk1rVHc2NEFIZ0VVR2_SAbMBQVVfeXFMT0dfajJ2RjE2UFlmY3UzY3NyUTlidDR3SXNvRzB3TUQ3VS14R1pPNmxLYWlpRU1TdmZFNXBTckE5ZWoyRFJkQjdEaGJQOXRQX2RSRlRDOUxmdUh0VUFVbGQ4bDl2WkhGdTdMSkthb2xmaE9IMUNMTldBVkp2OWlmS3lSVlhNWXVVWVJpMlZZNU5LWW1TMjJJakdoVEtwWlphSHJFa2RUZ0U4X2prbzVVdjhkWkE?oc=5
+- Myanmar tells India: No Chinese on Coco Islands | Latest News India - Hindustan Times
+  Myanmar tells India: No Chinese on Coco Islands.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
 
-- 5 Constituencies At Centre Of RJD, Congress's Bihar Seat Struggle: Sources - NDTV
-  " target="_blank">5 Const
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQRjdubWhYZDZIcmdOYlg4b2E3VmlWR0xjMWNiYUFDNmtjYVI3dzRHM1BnMmxuaUNqSFZ5SXdjZ1d3VE1BR3J0cGpMVDdIck5kWUdyVG41MkpxM1Z2SkY5SHNnQ3FRdHcwdndOeFJobGhzWERlTWE1WnNFdEdIQzYwTFpWY3JGVnlYcWg4MTk4cVVHeXFtNzVJWVluS2RMVTFKcEttTHNlMFlfeDJva0R0bXFJRHhESWxLLVdvc2J5SElEMWJyLUpZbERKb9IB0wFBVV95cUxORTRVcHM5NGpqVWQxUlVqSWJtOUdYS204VEI3clRkMDZNdFdael9ob3htWUdlRFo5NjVQVXNxdGZjYVZ2aHBFRUpZWFBzTmJHWlBkVVllYXlycEpPNXhxU1V2c1pkRlUwY1FLa244V2FDejFiVTZmcVczeUprM2xZZGIzUjgyUlQtdk04QVJ6M0dleGs3dWlaY2J3ODF3SzZ0ejE1cnltcDF0QXRvSDVteHdwWmctdzM4Yk1nb1VHWHZsOENTdlFlNXk5Ri15T3h2RzJz?oc=5
+- Military History Seminar honours valour of Indian Armed Forces - Times of India
+  Military History Seminar honours valour of
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYXl1dlkwT0VHcHVxRFZ2M0NsMkdwczV5M3FzOFpjX3RuTDJmamFMdk9NdzVXVU9FV0dlS05pNlo0bmxIMFUxeXVUeFZDckExYXltX3k3R2ZUQjhHUng2Q2pmX1FpSmZnaUVZUkgwT3V5SDFkNW1VSFNqZmJmbDNVcE1RaFZabWRyT2RVQ0hkRU9qRjJMS0VhcTNsSm1lUl9oalZnVS05VTQ5QXdwYV9qX1ZCczh1Y3NFbWRoSUJnclNjM2pGSlpkRmpLTGp2YXhZalRHLdIB2gFBVV95cUxPVHYzWFV5R1pMX01kZWFuajJlQ1RyNjNiQ0pNNmwzWm9DVGdLQWo4U3dCZUFkUXlVYWxhbXFoRXR5Mk1XVWJvNkNuLVNlX0stSlZSdXVQVVB4eXlVWE1EOVRISFFVV2FFc1VaR2JmZjZDY2V4ejdBWHl3NTlvNENzMlRXdVdfaHk5NWNzSEpKTkl2MzJhcC0xeHNQQXN0UXRZU0JqY1BlaXlVY1AzYnRXZkNCd1R2S0U4b1l1OG15TUZVLW1KVFB5WEtYMTBHd3I3OUZIXzJzUHVXUQ?oc=5
 
-- Guest Column| Case for intelligent conscience, missing ministry of AI | Hindustan Times - Hindustan Times
-  The Indian government is yet to appoint a new AI minister.
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMS03eWlTWEFhM2o1aVJacjRvZmVQcTRkbHY1cTYwVmRISW8xMEl5NkpaVi1vdERhQ2hsOFo1dC0wTnhoUF9GckVxS2pSbkNuOWlJV2xKemlHVkU1dG5DbnNlMGE0YlNXeWJDWDRSX2YtblVKeG5aUUNrVG4wTlI5OE1HSnFTWEpvd3oyaHgwME1vRjBQTVFOVXp0LWNNc0kycGEtNUJRWjRHWUZXOUd0US1hVHVuNGgyMHllSzJXenVyMGRPcUVqaUI2elVnMHFraDBOT3dfUWQ0UdIB3wFBVV95cUxORDRtcGx2bFljUFNZaTBxak1FOUZhemtXdDd3X0huc2psQmFielhDeUhJQjllVFJyRzQ3R3RZdGJoVjRZVWE0aDFzNnhYbDVoZHRlV0tJXzdwam1MZmdTdEZicmRNSTh2R2xoVk92VUFha2ZXamNONDhqN2hSSjhfVnp0bWYwTF8wcjhhNXJsTWZrVXRfTWRNcDJ1NVl1c3dRazF6bWxpc1k3dk50NlZOZzVIZ3hVVm9CeXBJc3BlSUdJcnlEVXNzY0Y0Y0hMeVNsMkl3SFN6SUJKOWpTbTJj?oc=5
+- On Tejashwi Yadav's Turf, Prashant Kishor's "He Should Be Worried" Remark - NDTV
+  Tejashwi Yadav and Prash
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2g0dnB1Q1lwZV9uZXpHbkZOekc0bGEzbHBZdHBxYTE5aU93OXk4T3dmRE1EanRKUG1FbGlxdlB1Y1FPRkRNVy1zZHFkVlBEbUF3RFRQZ2RkVEV2THVGTENVYkdld0RiamVCUkFQdWh4VV9PMk1rTVluUzFGMTBYMzYzVUc5SVJjSFVES1J1LWlneGZhOS03RHZvREJBZUJaNlg0QUpsUkRWbFRLcW9Nb2pOM1FVdDdEM3FTejFNdF9zN1kxZkY4WFNPcGgzeDdvdHJFalBWZWFsX0xvQzhTenVZdnVmcGNp0gHwAUFVX3lxTFBCZHpZVFBzOTN2N2ZIempKeUdSOW1ZWUE1U2F5MXJWVDdidE5qTUpWSmljWng5ZnRuNlhGbFprZjlfUE1hckhPaktXUmlJZ0tCLXpHdHAyWGo4SjFELVF5UFVyUWlfcnVYVHRibEYxdmZzLTdWaHhHYXY1ZFRkZW5HMGtCbEtNS1h5VDhYSjFiOHBXbnlZQmRYc0c1N3FGVXFtMjJvcGhjYzc3d1ppNUk5Uzc0eEp2U1ZzZGlwYlhqdFY4b25IaTFvazJwa3NYLS1jbzlCdHgxUmt4WVFtNkFYeno3SkdXRFRQVkx0cDZnZQ?oc=5
 
-- U.K. PM’s India visit updates: U.K. signs $468 million deal to supply India with missiles - The Hindu
-  U.K. signs $468 million deal to supply India with missiles
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
+- Delhi's Air Quality Nears 'Poor' As Winter Chill Begins To Set In - NDTV
+  Delhi's Air Quality Nears 'Poor'
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExTWkZUZHUwaU9JOUdSZjJpazZIbXJzZktWaDdVWVliSEhVcFhKZkFWa0xGUDl1SmMzSVpWVi00NVo5LWJuOHpKNnMyT1I3cjJvV0kyQ3BJa2FhUGNwRE52WmlBT00yVGNPUHVuSVVwclNubk5jbUlsYTNnSm9xekkydU10eVl2bHRGSW9ZVTVwRDludjBkdEcxakZtdkEzeTVwRtIBrAFBVV95cUxPbngtRUplUnRqMDI2ck9wRnBEWE1CeEJXSUtNaGR4NXdCUEpQQjN0NTFWYVNwUFVDV3k4M3lWQXk5VHlKREVxcTVjNHpIcUE1SlJFTGREeTVjeUdvM2t0OHdGeXBMdUxLbVB1NWE4cWJyUng2Vy02Yks5NXBkc2N3d0lKZGk4U1NLdDlaMy1mR3lDOTJNLTJaUWQyYXUzZlF2ZXVXWU9qekxZYzJw?oc=5
 
-- India Should Get 'Rightful Place' In UN Security Council: UK PM Starmer - NDTV
-  India should get 'Rightful Place' in UN
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNmVBWUlaNlphT0pNWmNZZk90V2VIS1R1WmgxckVUQmpxbm9jU2FuN3hBRkVUVEV2R29tN3h0dGNGcmhuLVoxcDRZd3BvdjV3U3haT3N2MXQzRGJ2U1g5eDF6c05ERFlmWTJseWdqbm92Tko2bm1GSUstRU5Pcm4zQ3FOYXkyeG1KWGhOa21ZVlFBNm5Td3VfeGhvY2kxY3otTi1GSXg1WnFXYktoSmxWVWx1LUVEcklUZlh3aTdGZ3pqV1hHQ0xDbGZOU1hoRXU1M2FJcURTTk9wVmg3ZnFqeDdLWlo5dkhHVWJMQjF2TUhobHpOU3VWVFVR0gGCAkFVX3lxTE41NGxoRFJCVDRpM0hxVTZYNUhYV01yTjJJWm1EcG1VY3NEV0lzakt4VUdwWmdBcERHQkFaSmxUQVVsNEdfTVlSUU1FeTg3b3cwREVXclpUOUlidjhLTGt1eTZOcjhhOHVGNklmd1JxNVVsUzktbDFBZk5HTG15TFpCNHpWRWhsWUVRRHVXSUZwNFdtTHJRSGc0bk9uVGdXUEZTYXNoZ2lzdjBYTjlTYWlGTktRaGY1U3pZeTZNSXVwSjJ5cXNHVEVqSGVpRHlFUUItcC1uc3NPMmRzUEFORmJCUXowbVdQVHd0N19LTGloVW1BNmNCXzNmNHVnbHIxNmhZZw?oc=5
+- Why UP's Deoband Was On Taliban Foreign Minister's India Itinerary - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYX
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYXBDVFlIbDFOOFRaTWVvMHNhYXE0enJ5SXNWSUp4YUxUbnV0c1FZWGRCS1JqcWt1alBuY3djZ3VoRTNQeDJzeEl4MkZHTVQxcnNha9IBuwFBVV95cUxQTUR3NnRXTUhZUHRUN1JadDZmTGxUOE1Sd1UxTHRNaEd0aE1vVWFUSEFRS1d4LThmMHkycG0teXdtNDU4VEpmUFpGX0ktS0d1c0h4bFJYMzhvX3Bib1poT0FSbVA5ZHE3NmpLbG9YaTdZLXhuVUNjNTIyeVRIS1M0NkQyaERsaGVlcTVUci1vVDVzLWMyRGcwbUExV0g0a2dtSVROcTJiVzZ6MEdaN0l0bkh0SkJBQkFuUGRF?oc=5
 
-- Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMj
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMjNSZEE0cmpqaC1HazdXS1paQWVQdGg2VXIzT2g1MVA2ZUI4d3ZmMmg2dVgtSzM0VFdFcUtqTk1rVHc2NEFIZ0VVR2_SAbMBQVVfeXFMT0dfajJ2RjE2UFlmY3UzY3NyUTlidDR3SXNvRzB3TUQ3VS14R1pPNmxLYWlpRU1TdmZFNXBTckE5ZWoyRFJkQjdEaGJQOXRQX2RSRlRDOUxmdUh0VUFVbGQ4bDl2WkhGdTdMSkthb2xmaE9IMUNMTldBVkp2OWlmS3lSVlhNWXVVWVJpMlZZNU5LWW1TMjJJakdoVEtwWlphSHJFa2RUZ0U4X2prbzVVdjhkWkE?oc=5
+- Myanmar tells India: No Chinese on Coco Islands | Latest News India - Hindustan Times
+  Myanmar tells India: No Chinese on Coco Islands.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
 
-- 5 Constituencies At Centre Of RJD, Congress's Bihar Seat Struggle: Sources - NDTV
-  " target="_blank">5 Const
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQRjdubWhYZDZIcmdOYlg4b2E3VmlWR0xjMWNiYUFDNmtjYVI3dzRHM1BnMmxuaUNqSFZ5SXdjZ1d3VE1BR3J0cGpMVDdIck5kWUdyVG41MkpxM1Z2SkY5SHNnQ3FRdHcwdndOeFJobGhzWERlTWE1WnNFdEdIQzYwTFpWY3JGVnlYcWg4MTk4cVVHeXFtNzVJWVluS2RMVTFKcEttTHNlMFlfeDJva0R0bXFJRHhESWxLLVdvc2J5SElEMWJyLUpZbERKb9IB0wFBVV95cUxORTRVcHM5NGpqVWQxUlVqSWJtOUdYS204VEI3clRkMDZNdFdael9ob3htWUdlRFo5NjVQVXNxdGZjYVZ2aHBFRUpZWFBzTmJHWlBkVVllYXlycEpPNXhxU1V2c1pkRlUwY1FLa244V2FDejFiVTZmcVczeUprM2xZZGIzUjgyUlQtdk04QVJ6M0dleGs3dWlaY2J3ODF3SzZ0ejE1cnltcDF0QXRvSDVteHdwWmctdzM4Yk1nb1VHWHZsOENTdlFlNXk5Ri15T3h2RzJz?oc=5
+- Military History Seminar honours valour of Indian Armed Forces - Times of India
+  Military History Seminar honours valour of
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYXl1dlkwT0VHcHVxRFZ2M0NsMkdwczV5M3FzOFpjX3RuTDJmamFMdk9NdzVXVU9FV0dlS05pNlo0bmxIMFUxeXVUeFZDckExYXltX3k3R2ZUQjhHUng2Q2pmX1FpSmZnaUVZUkgwT3V5SDFkNW1VSFNqZmJmbDNVcE1RaFZabWRyT2RVQ0hkRU9qRjJMS0VhcTNsSm1lUl9oalZnVS05VTQ5QXdwYV9qX1ZCczh1Y3NFbWRoSUJnclNjM2pGSlpkRmpLTGp2YXhZalRHLdIB2gFBVV95cUxPVHYzWFV5R1pMX01kZWFuajJlQ1RyNjNiQ0pNNmwzWm9DVGdLQWo4U3dCZUFkUXlVYWxhbXFoRXR5Mk1XVWJvNkNuLVNlX0stSlZSdXVQVVB4eXlVWE1EOVRISFFVV2FFc1VaR2JmZjZDY2V4ejdBWHl3NTlvNENzMlRXdVdfaHk5NWNzSEpKTkl2MzJhcC0xeHNQQXN0UXRZU0JqY1BlaXlVY1AzYnRXZkNCd1R2S0U4b1l1OG15TUZVLW1KVFB5WEtYMTBHd3I3OUZIXzJzUHVXUQ?oc=5
 
-- Guest Column| Case for intelligent conscience, missing ministry of AI | Hindustan Times - Hindustan Times
-  The Indian government is yet to appoint a new AI minister.
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMS03eWlTWEFhM2o1aVJacjRvZmVQcTRkbHY1cTYwVmRISW8xMEl5NkpaVi1vdERhQ2hsOFo1dC0wTnhoUF9GckVxS2pSbkNuOWlJV2xKemlHVkU1dG5DbnNlMGE0YlNXeWJDWDRSX2YtblVKeG5aUUNrVG4wTlI5OE1HSnFTWEpvd3oyaHgwME1vRjBQTVFOVXp0LWNNc0kycGEtNUJRWjRHWUZXOUd0US1hVHVuNGgyMHllSzJXenVyMGRPcUVqaUI2elVnMHFraDBOT3dfUWQ0UdIB3wFBVV95cUxORDRtcGx2bFljUFNZaTBxak1FOUZhemtXdDd3X0huc2psQmFielhDeUhJQjllVFJyRzQ3R3RZdGJoVjRZVWE0aDFzNnhYbDVoZHRlV0tJXzdwam1MZmdTdEZicmRNSTh2R2xoVk92VUFha2ZXamNONDhqN2hSSjhfVnp0bWYwTF8wcjhhNXJsTWZrVXRfTWRNcDJ1NVl1c3dRazF6bWxpc1k3dk50NlZOZzVIZ3hVVm9CeXBJc3BlSUdJcnlEVXNzY0Y0Y0hMeVNsMkl3SFN6SUJKOWpTbTJj?oc=5
+- On Tejashwi Yadav's Turf, Prashant Kishor's "He Should Be Worried" Remark - NDTV
+  Tejashwi Yadav and Prash
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2g0dnB1Q1lwZV9uZXpHbkZOekc0bGEzbHBZdHBxYTE5aU93OXk4T3dmRE1EanRKUG1FbGlxdlB1Y1FPRkRNVy1zZHFkVlBEbUF3RFRQZ2RkVEV2THVGTENVYkdld0RiamVCUkFQdWh4VV9PMk1rTVluUzFGMTBYMzYzVUc5SVJjSFVES1J1LWlneGZhOS03RHZvREJBZUJaNlg0QUpsUkRWbFRLcW9Nb2pOM1FVdDdEM3FTejFNdF9zN1kxZkY4WFNPcGgzeDdvdHJFalBWZWFsX0xvQzhTenVZdnVmcGNp0gHwAUFVX3lxTFBCZHpZVFBzOTN2N2ZIempKeUdSOW1ZWUE1U2F5MXJWVDdidE5qTUpWSmljWng5ZnRuNlhGbFprZjlfUE1hckhPaktXUmlJZ0tCLXpHdHAyWGo4SjFELVF5UFVyUWlfcnVYVHRibEYxdmZzLTdWaHhHYXY1ZFRkZW5HMGtCbEtNS1h5VDhYSjFiOHBXbnlZQmRYc0c1N3FGVXFtMjJvcGhjYzc3d1ppNUk5Uzc0eEp2U1ZzZGlwYlhqdFY4b25IaTFvazJwa3NYLS1jbzlCdHgxUmt4WVFtNkFYeno3SkdXRFRQVkx0cDZnZQ?oc=5
 
-- U.K. PM’s India visit updates: U.K. signs $468 million deal to supply India with missiles - The Hindu
-  U.K. signs $468 million deal to supply India with missiles
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
+- Delhi's Air Quality Nears 'Poor' As Winter Chill Begins To Set In - NDTV
+  Delhi's Air Quality Nears 'Poor'
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExTWkZUZHUwaU9JOUdSZjJpazZIbXJzZktWaDdVWVliSEhVcFhKZkFWa0xGUDl1SmMzSVpWVi00NVo5LWJuOHpKNnMyT1I3cjJvV0kyQ3BJa2FhUGNwRE52WmlBT00yVGNPUHVuSVVwclNubk5jbUlsYTNnSm9xekkydU10eVl2bHRGSW9ZVTVwRDludjBkdEcxakZtdkEzeTVwRtIBrAFBVV95cUxPbngtRUplUnRqMDI2ck9wRnBEWE1CeEJXSUtNaGR4NXdCUEpQQjN0NTFWYVNwUFVDV3k4M3lWQXk5VHlKREVxcTVjNHpIcUE1SlJFTGREeTVjeUdvM2t0OHdGeXBMdUxLbVB1NWE4cWJyUng2Vy02Yks5NXBkc2N3d0lKZGk4U1NLdDlaMy1mR3lDOTJNLTJaUWQyYXUzZlF2ZXVXWU9qekxZYzJw?oc=5
 
-- India Should Get 'Rightful Place' In UN Security Council: UK PM Starmer - NDTV
-  India should get 'Rightful Place' in UN
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNmVBWUlaNlphT0pNWmNZZk90V2VIS1R1WmgxckVUQmpxbm9jU2FuN3hBRkVUVEV2R29tN3h0dGNGcmhuLVoxcDRZd3BvdjV3U3haT3N2MXQzRGJ2U1g5eDF6c05ERFlmWTJseWdqbm92Tko2bm1GSUstRU5Pcm4zQ3FOYXkyeG1KWGhOa21ZVlFBNm5Td3VfeGhvY2kxY3otTi1GSXg1WnFXYktoSmxWVWx1LUVEcklUZlh3aTdGZ3pqV1hHQ0xDbGZOU1hoRXU1M2FJcURTTk9wVmg3ZnFqeDdLWlo5dkhHVWJMQjF2TUhobHpOU3VWVFVR0gGCAkFVX3lxTE41NGxoRFJCVDRpM0hxVTZYNUhYV01yTjJJWm1EcG1VY3NEV0lzakt4VUdwWmdBcERHQkFaSmxUQVVsNEdfTVlSUU1FeTg3b3cwREVXclpUOUlidjhLTGt1eTZOcjhhOHVGNklmd1JxNVVsUzktbDFBZk5HTG15TFpCNHpWRWhsWUVRRHVXSUZwNFdtTHJRSGc0bk9uVGdXUEZTYXNoZ2lzdjBYTjlTYWlGTktRaGY1U3pZeTZNSXVwSjJ5cXNHVEVqSGVpRHlFUUItcC1uc3NPMmRzUEFORmJCUXowbVdQVHd0N19LTGloVW1BNmNCXzNmNHVnbHIxNmhZZw?oc=5
+- Why UP's Deoband Was On Taliban Foreign Minister's India Itinerary - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYX
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYXBDVFlIbDFOOFRaTWVvMHNhYXE0enJ5SXNWSUp4YUxUbnV0c1FZWGRCS1JqcWt1alBuY3djZ3VoRTNQeDJzeEl4MkZHTVQxcnNha9IBuwFBVV95cUxQTUR3NnRXTUhZUHRUN1JadDZmTGxUOE1Sd1UxTHRNaEd0aE1vVWFUSEFRS1d4LThmMHkycG0teXdtNDU4VEpmUFpGX0ktS0d1c0h4bFJYMzhvX3Bib1poT0FSbVA5ZHE3NmpLbG9YaTdZLXhuVUNjNTIyeVRIS1M0NkQyaERsaGVlcTVUci1vVDVzLWMyRGcwbUExV0g0a2dtSVROcTJiVzZ6MEdaN0l0bkh0SkJBQkFuUGRF?oc=5
 
-- Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMj
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMjNSZEE0cmpqaC1HazdXS1paQWVQdGg2VXIzT2g1MVA2ZUI4d3ZmMmg2dVgtSzM0VFdFcUtqTk1rVHc2NEFIZ0VVR2_SAbMBQVVfeXFMT0dfajJ2RjE2UFlmY3UzY3NyUTlidDR3SXNvRzB3TUQ3VS14R1pPNmxLYWlpRU1TdmZFNXBTckE5ZWoyRFJkQjdEaGJQOXRQX2RSRlRDOUxmdUh0VUFVbGQ4bDl2WkhGdTdMSkthb2xmaE9IMUNMTldBVkp2OWlmS3lSVlhNWXVVWVJpMlZZNU5LWW1TMjJJakdoVEtwWlphSHJFa2RUZ0U4X2prbzVVdjhkWkE?oc=5
+- Myanmar tells India: No Chinese on Coco Islands | Latest News India - Hindustan Times
+  Myanmar tells India: No Chinese on Coco Islands.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
 
-- 5 Constituencies At Centre Of RJD, Congress's Bihar Seat Struggle: Sources - NDTV
-  " target="_blank">5 Const
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQRjdubWhYZDZIcmdOYlg4b2E3VmlWR0xjMWNiYUFDNmtjYVI3dzRHM1BnMmxuaUNqSFZ5SXdjZ1d3VE1BR3J0cGpMVDdIck5kWUdyVG41MkpxM1Z2SkY5SHNnQ3FRdHcwdndOeFJobGhzWERlTWE1WnNFdEdIQzYwTFpWY3JGVnlYcWg4MTk4cVVHeXFtNzVJWVluS2RMVTFKcEttTHNlMFlfeDJva0R0bXFJRHhESWxLLVdvc2J5SElEMWJyLUpZbERKb9IB0wFBVV95cUxORTRVcHM5NGpqVWQxUlVqSWJtOUdYS204VEI3clRkMDZNdFdael9ob3htWUdlRFo5NjVQVXNxdGZjYVZ2aHBFRUpZWFBzTmJHWlBkVVllYXlycEpPNXhxU1V2c1pkRlUwY1FLa244V2FDejFiVTZmcVczeUprM2xZZGIzUjgyUlQtdk04QVJ6M0dleGs3dWlaY2J3ODF3SzZ0ejE1cnltcDF0QXRvSDVteHdwWmctdzM4Yk1nb1VHWHZsOENTdlFlNXk5Ri15T3h2RzJz?oc=5
+- Military History Seminar honours valour of Indian Armed Forces - Times of India
+  Military History Seminar honours valour of
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYXl1dlkwT0VHcHVxRFZ2M0NsMkdwczV5M3FzOFpjX3RuTDJmamFMdk9NdzVXVU9FV0dlS05pNlo0bmxIMFUxeXVUeFZDckExYXltX3k3R2ZUQjhHUng2Q2pmX1FpSmZnaUVZUkgwT3V5SDFkNW1VSFNqZmJmbDNVcE1RaFZabWRyT2RVQ0hkRU9qRjJMS0VhcTNsSm1lUl9oalZnVS05VTQ5QXdwYV9qX1ZCczh1Y3NFbWRoSUJnclNjM2pGSlpkRmpLTGp2YXhZalRHLdIB2gFBVV95cUxPVHYzWFV5R1pMX01kZWFuajJlQ1RyNjNiQ0pNNmwzWm9DVGdLQWo4U3dCZUFkUXlVYWxhbXFoRXR5Mk1XVWJvNkNuLVNlX0stSlZSdXVQVVB4eXlVWE1EOVRISFFVV2FFc1VaR2JmZjZDY2V4ejdBWHl3NTlvNENzMlRXdVdfaHk5NWNzSEpKTkl2MzJhcC0xeHNQQXN0UXRZU0JqY1BlaXlVY1AzYnRXZkNCd1R2S0U4b1l1OG15TUZVLW1KVFB5WEtYMTBHd3I3OUZIXzJzUHVXUQ?oc=5
 
-- Guest Column| Case for intelligent conscience, missing ministry of AI | Hindustan Times - Hindustan Times
-  The Indian government is yet to appoint a new AI minister.
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMS03eWlTWEFhM2o1aVJacjRvZmVQcTRkbHY1cTYwVmRISW8xMEl5NkpaVi1vdERhQ2hsOFo1dC0wTnhoUF9GckVxS2pSbkNuOWlJV2xKemlHVkU1dG5DbnNlMGE0YlNXeWJDWDRSX2YtblVKeG5aUUNrVG4wTlI5OE1HSnFTWEpvd3oyaHgwME1vRjBQTVFOVXp0LWNNc0kycGEtNUJRWjRHWUZXOUd0US1hVHVuNGgyMHllSzJXenVyMGRPcUVqaUI2elVnMHFraDBOT3dfUWQ0UdIB3wFBVV95cUxORDRtcGx2bFljUFNZaTBxak1FOUZhemtXdDd3X0huc2psQmFielhDeUhJQjllVFJyRzQ3R3RZdGJoVjRZVWE0aDFzNnhYbDVoZHRlV0tJXzdwam1MZmdTdEZicmRNSTh2R2xoVk92VUFha2ZXamNONDhqN2hSSjhfVnp0bWYwTF8wcjhhNXJsTWZrVXRfTWRNcDJ1NVl1c3dRazF6bWxpc1k3dk50NlZOZzVIZ3hVVm9CeXBJc3BlSUdJcnlEVXNzY0Y0Y0hMeVNsMkl3SFN6SUJKOWpTbTJj?oc=5
+- On Tejashwi Yadav's Turf, Prashant Kishor's "He Should Be Worried" Remark - NDTV
+  Tejashwi Yadav and Prash
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2g0dnB1Q1lwZV9uZXpHbkZOekc0bGEzbHBZdHBxYTE5aU93OXk4T3dmRE1EanRKUG1FbGlxdlB1Y1FPRkRNVy1zZHFkVlBEbUF3RFRQZ2RkVEV2THVGTENVYkdld0RiamVCUkFQdWh4VV9PMk1rTVluUzFGMTBYMzYzVUc5SVJjSFVES1J1LWlneGZhOS03RHZvREJBZUJaNlg0QUpsUkRWbFRLcW9Nb2pOM1FVdDdEM3FTejFNdF9zN1kxZkY4WFNPcGgzeDdvdHJFalBWZWFsX0xvQzhTenVZdnVmcGNp0gHwAUFVX3lxTFBCZHpZVFBzOTN2N2ZIempKeUdSOW1ZWUE1U2F5MXJWVDdidE5qTUpWSmljWng5ZnRuNlhGbFprZjlfUE1hckhPaktXUmlJZ0tCLXpHdHAyWGo4SjFELVF5UFVyUWlfcnVYVHRibEYxdmZzLTdWaHhHYXY1ZFRkZW5HMGtCbEtNS1h5VDhYSjFiOHBXbnlZQmRYc0c1N3FGVXFtMjJvcGhjYzc3d1ppNUk5Uzc0eEp2U1ZzZGlwYlhqdFY4b25IaTFvazJwa3NYLS1jbzlCdHgxUmt4WVFtNkFYeno3SkdXRFRQVkx0cDZnZQ?oc=5
 
-- U.K. PM’s India visit updates: U.K. signs $468 million deal to supply India with missiles - The Hindu
-  U.K. signs $468 million deal to supply India with missiles
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
-
-- India Should Get 'Rightful Place' In UN Security Council: UK PM Starmer - NDTV
-  India should get 'Rightful Place' in UN
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNmVBWUlaNlphT0pNWmNZZk90V2VIS1R1WmgxckVUQmpxbm9jU2FuN3hBRkVUVEV2R29tN3h0dGNGcmhuLVoxcDRZd3BvdjV3U3haT3N2MXQzRGJ2U1g5eDF6c05ERFlmWTJseWdqbm92Tko2bm1GSUstRU5Pcm4zQ3FOYXkyeG1KWGhOa21ZVlFBNm5Td3VfeGhvY2kxY3otTi1GSXg1WnFXYktoSmxWVWx1LUVEcklUZlh3aTdGZ3pqV1hHQ0xDbGZOU1hoRXU1M2FJcURTTk9wVmg3ZnFqeDdLWlo5dkhHVWJMQjF2TUhobHpOU3VWVFVR0gGCAkFVX3lxTE41NGxoRFJCVDRpM0hxVTZYNUhYV01yTjJJWm1EcG1VY3NEV0lzakt4VUdwWmdBcERHQkFaSmxUQVVsNEdfTVlSUU1FeTg3b3cwREVXclpUOUlidjhLTGt1eTZOcjhhOHVGNklmd1JxNVVsUzktbDFBZk5HTG15TFpCNHpWRWhsWUVRRHVXSUZwNFdtTHJRSGc0bk9uVGdXUEZTYXNoZ2lzdjBYTjlTYWlGTktRaGY1U3pZeTZNSXVwSjJ5cXNHVEVqSGVpRHlFUUItcC1uc3NPMmRzUEFORmJCUXowbVdQVHd0N19LTGloVW1BNmNCXzNmNHVnbHIxNmhZZw?oc=5
+- Delhi's Air Quality Nears 'Poor' As Winter Chill Begins To Set In - NDTV
+  Delhi's Air Quality Nears 'Poor'
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExTWkZUZHUwaU9JOUdSZjJpazZIbXJzZktWaDdVWVliSEhVcFhKZkFWa0xGUDl1SmMzSVpWVi00NVo5LWJuOHpKNnMyT1I3cjJvV0kyQ3BJa2FhUGNwRE52WmlBT00yVGNPUHVuSVVwclNubk5jbUlsYTNnSm9xekkydU10eVl2bHRGSW9ZVTVwRDludjBkdEcxakZtdkEzeTVwRtIBrAFBVV95cUxPbngtRUplUnRqMDI2ck9wRnBEWE1CeEJXSUtNaGR4NXdCUEpQQjN0NTFWYVNwUFVDV3k4M3lWQXk5VHlKREVxcTVjNHpIcUE1SlJFTGREeTVjeUdvM2t0OHdGeXBMdUxLbVB1NWE4cWJyUng2Vy02Yks5NXBkc2N3d0lKZGk4U1NLdDlaMy1mR3lDOTJNLTJaUWQyYXUzZlF2ZXVXWU9qekxZYzJw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-11 12:30:49 UTC_
+_Last updated: 2025-10-11 18:22:21 UTC_
