@@ -1,44 +1,48 @@
 # 📰 Daily News Summaries
 
-- EXCLUSIVE: Singapore launches coroner’s case in death of Zubeen Garg
+- ‘Emirates of Afghanistan recognised’: Opposition hits out at PM Modi over exclusion of women journos at Taliban presser
   
-  🔗 https://indianexpress.com/article/india/exclusive-singapore-launches-coroners-case-in-death-of-zubeen-garg-10300219/
+  🔗 https://indianexpress.com/article/india/emirates-of-afghanistan-congress-slams-modi-women-excluded-taliban-presser-10300511/
 
-- Govt plans uniform pay, cap on tenure and number for outside consultants
+- Bihar Assembly Elections Live Updates: Seat-sharing deal among INDIA bloc members to be finalised soon; BJP likely to release candidates’ list this weekend
   
-  🔗 https://indianexpress.com/article/india/govt-plans-uniform-pay-cap-on-tenure-and-number-for-outside-consultants-10300178/
+  🔗 https://indianexpress.com/article/india/bihar-elections-live-updates-seat-sharing-india-bloc-bjp-candidates-list-tejashwi-yadav-10300459/
 
-- After PM Modi meet, message to Secretaries: Push homegrown social media platforms
+- News Today Live Updates, 11 October | Fire engulfs metro warehouse, scrap godown in UP’s Kanpur
   
-  🔗 https://indianexpress.com/article/india/after-pm-modi-meet-message-to-secretaries-push-homegrown-social-media-platforms-10300189/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-10-11-2025-news-headlines-10300341/
 
-- Muslim population up because of large-scale infiltration, says Amit Shah
+- BJP slams Congress after post on Maria Machado, says Rahul Gandhi would get Nobel Prize for 99 election losses
   
-  🔗 https://indianexpress.com/article/india/muslim-population-up-because-of-large-scale-infiltration-says-amit-shah-10300188/
+  🔗 https://indianexpress.com/article/india/bjp-congress-maria-machado-rahul-gandhi-nobel-prize-10300457/
 
-- At Jaishankar-Muttaqi meet in Delhi: Two Afghanistan flags, no women journalists — and the Bamiyan Buddhas
+- ED arrests CFO of Reliance Power Limited in bank loan fraud case
   
-  🔗 https://indianexpress.com/article/india/at-the-jaishankar-muttaqi-meet-in-delhi-two-afghanistan-flags-no-women-journalists-and-the-bamiyan-buddhas-10300120/
+  🔗 https://indianexpress.com/article/india/ed-anil-ambani-executive-arrested-reliance-group-money-laundering-10300470/
+
+- Soon, you’ll be able to make UPI payments directly through ChatGPT
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/soon-youll-be-able-to-make-upi-payments-directly-through-chatgpt-10300528/
+
+- Apple sued over use of copyrighted books to train Apple Intelligence
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-sued-over-use-of-copyrighted-books-to-train-apple-intelligence-10300548/
+
+- Activision officials must face claims over Microsoft takeover, judge rules
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/activision-officials-must-face-claims-over-microsoft-takeover-judge-rules-10300538/
+
+- Global financial watchdogs to ramp up monitoring of AI
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/global-financial-watchdogs-to-ramp-up-monitoring-of-ai-10300517/
 
 - Comet Lemmon (C/2025 A6) nears November perihelion, may shine bright enough for naked-eye viewing
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/comet-lemmon-c-2025-a6-nears-november-perihelion-may-shine-bright-enough-for-naked-eye-viewing-10299574/
 
-- Microsoft Copilot can now connect to services like Gmail, Google Drive, OneDrive and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-copilot-can-now-connect-to-services-like-gmail-google-drive-10299509/
-
-- Diwali sale scams surge: How to spot fake websites and phishing links this festive season
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/diwali-sale-scams-surge-fake-wbesites-phishing-links-10299375/
-
-- Your computer mouse can listen to your conversations, suggests new study
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/mic-e-mouse-study-microphone-listen-conversations-10298685/
-
-- Sennheiser Momentum 4 review: Sounding young at 80
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/sennheiser-momentum-4-review-10299291/
+- First Brands’ Elusive CEO Weighs Stepping Down as Fallout Builds
+  Patrick James, the little-known chief executive officer of bankrupt First Brands Group, is weighing stepping down.
+  🔗 https://www.livemint.com/companies/company-results/first-brands-elusive-ceo-weighs-stepping-down-as-fallout-builds-11760151351255.html
 
 - Spirit Airlines cancels Airbus order in settlement with AerCap
   Spirit Airlines cancels Airbus
@@ -56,29 +60,37 @@
   Codelco’s top mine will run well below capacity for the next several months. The impact of a deadly accident will drag on well into
   🔗 https://www.livemint.com/companies/news/codelco-to-feel-accident-impact-into-2026-in-blow-to-recovery-11760129064702.html
 
-- Chicago Commuter Rail to Increase Fares to Plug Budget Gap
-  Chicago’s commuter rail is moving to raise fares to help offset a budget gap
-  🔗 https://www.livemint.com/companies/news/chicago-commuter-rail-to-increase-fares-to-plug-budget-gap-11760129063138.html
+- Trump hits China with 100% additional tariffs: What does it mean for the US and Indian stock market? Explained
+  The recent announcement of a 100% tariff on Chinese imports by President Trump raises questions about its potential repercussions on global markets.
+  🔗 https://www.livemint.com/market/stock-market-news/trump-hits-china-with-100-additional-tariffs-what-does-it-mean-for-the-us-and-indian-stock-market-explained-11760160454701.html
 
-- Bitcoin crashes after Trump imposes 100% tariff on Chinese imports, down to $1,12,500 levels
-  Bitcoin fell 7.60% to $112,592.31 and Ethereum dropped 12.24% to
-  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-ethereum-crypto-crash-after-donald-trump-imposes-100-pc-us-tariffs-chinese-imports-down-to-1-12-500-levels-11760143150173.html
+- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 13 October 2025
+  Sumeet Bagadia recommends three stocks to buy on Monday.
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-sbi-bel-dr-reddys-laboratories-to-buy-on-monday-13-october-2025-11760160801557.html
 
-- US Leveraged Loan Market Under Strain as More Deals Are Pulled
-  The US leveraged loan market is coming under further pressure with its second pulled deal in a week and a slew of investor-friendly changes.
-  🔗 https://www.livemint.com/market/stock-market-news/us-leveraged-loan-market-under-strain-as-more-deals-are-pulled-11760134516950.html
+- Foreign investors return to Indian markets with  ₹1,751 crore inflows this week: NSDL Data
+  Foreign investors turned net buyers in the Indian markets this week, marking a positive inflow of  ₹1,751 crore. After several weeks of persistent selling, foreign investors
+  🔗 https://www.livemint.com/market/stock-market-news/foreign-investors-return-to-indian-markets-with-rs-1-751-crore-inflows-this-week-nsdl-data-11760159426277.html
 
-- Crypto Sees More Than $6 Billion in Liquidations
-  Cryptocurrencies tumbled after US President Donald Trump said he would impose an additional 100% tariff on China. More than $6 billion in positions
-  🔗 https://www.livemint.com/market/cryptocurrency/crypto-sees-more-than-6-billion-in-liquidations-11760133915420.html
+- Tata Motors demerger: Shares dip for six consecutive days. Opportunity to buy before record date?
+  The Tata Group company has declared 14th October 2025 to finalise the list of beneficiary shareholders for
+  🔗 https://www.livemint.com/market/stock-market-news/tata-motors-share-demerger-shares-dip-for-six-consecutive-days-opportunity-to-buy-before-record-date-11760153489765.html
 
-- Silver Powers on Near Record as London Market Squeeze Worsens
-  Silver jumped for a second day near a record as a historic tightening of the London spot market added steam to a rally driven by
-  🔗 https://www.livemint.com/market/commodities/silver-powers-on-near-record-as-london-market-squeeze-worsens-11760131064568.html
+- Top three capital market stocks are down up to 40%. Should you buy the dip?
+  These three capital market companies have seen
+  🔗 https://www.livemint.com/market/stock-market-news/indian-capital-market-stocks-down-40-angel-one-iex-kfin-top-capital-market-companies-share-price-drop-analysis-guide-11760099162731.html
 
-- Wall Street selloff raises worries about market downturn
-  Wall Street selloff
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-selloff-raises-worries-about-market-downturn-11760129001574.html
+- Elon Musk slams OpenAI again: ‘Built on a lie. They stole a charity!’ over non-profit status
+  Elon Musk criticised OpenAI on Oct 11, calling it “built on a lie,” after retweeting ex-board member Helen Toner’s post highlighting dishonesty
+  🔗 https://www.livemint.com/technology/tech-news/elon-musk-slams-openai-again-built-on-a-lie-they-stole-a-charity-over-non-profit-status-11760161283167.html
+
+- ‘Rockstar could lose millions if GTA 6 launches at $100’: Fans prefer $70 for the next big game, says research
+  MIDiA Research predicts GTA 6, expected to debut in May 2026 on PS5 and Xbox, will likely earn more at $69.99 than $100. Rockstar has yet to confirm pricing
+  🔗 https://www.livemint.com/technology/tech-news/rockstar-could-lose-millions-if-gta-6-launches-at-100-fans-prefer-70-for-the-next-big-game-says-research-gta-vi-11760155981209.html
+
+- Inspired by Apple’s Liquid Glass? Vivo debuts OriginOS 6 and BlueOS 3 with revamped looks and AI-powered features
+  The update debuts on Vivo X300 Pro, X300, and iQOO 15. It features a redesigned UI, smoother performance via Blue River Engine, and rollout to older models from November 2025.
+  🔗 https://www.livemint.com/technology/tech-news/inspired-by-apple-s-liquid-glass-vivo-debuts-originos-6-and-blueos-3-with-revamped-looks-and-ai-powered-features-11760145636831.html
 
 - Bose Angers Customers by Ending Cloud Streaming for Old Speakers
   Bose will discontinue the cloud infrastructure for its ‘SoundTouch’ line of audio speakers in February. The devices cannot directly stream music from services like Spotify
@@ -88,21 +100,13 @@
   The update is built into Chrome's Safety Check tool. It aims to reduce notification fatigue by revoking permissions for sites with low engagement.
   🔗 https://www.livemint.com/technology/tech-news/google-chrome-to-automatically-mute-notifications-from-ignored-websites-on-android-and-desktop-11760121091856.html
 
-- OpenAI can finally stop saving deleted ChatGPT conversations - but not for everyone
-  A court order allows OpenAI to stop retaining ChatGPT conversations. OpenAI will no longer need to preserve user data.
-  🔗 https://www.livemint.com/technology/tech-news/openai-can-finally-stop-saving-deleted-chatgpt-conversations-but-not-for-everyone-11760113075612.html
-
-- After Nayara outage, Microsoft launches protocols to secure India’s key services
-  Microsoft said that it will ensure that it prevents a blackout by pursuing legal recourses against foreign sanctions potentially affecting Indian enterprises. In its new policy, Microsoft said
-  🔗 https://www.livemint.com/technology/microsoft-india-nayara-energy-cloud-service-suspension-azure-service-disruption-11760108838477.html
-
-- OpenAI could be working on ‘Clinician Mode’ for ChatGPT: Here's what we know so far
-  Recent updates from OpenAI may soon include a 'Clinician Mode' for medical inquiries in ChatGPT. Code indications point to a friendlier voice mode as well.
-  🔗 https://www.livemint.com/technology/tech-news/openai-could-be-working-on-clinician-mode-for-chatgpt-heres-what-we-know-so-far-11760110846993.html
-
 - Stock Market News, Oct. 10, 2025: Trump to Impose 100% Tariff on China; Nasdaq Falls 3.6% - The Wall Street Journal
   <ol><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOempSWUpSUkZPaURxTURXOTBDUDBRenVtenlYTEctSUt1a0Z3bUMzRDBKcXZ3MWQxbjJwOTF0Rk8xX1FhaVN6S3lPTEF5YlZiV3RHWDVHX3NyWXJtZTc1VVNCY3VBbTI3bm
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOempSWUpSUkZPaURxTURXOTBDUDBRenVtenlYTEctSUt1a0Z3bUMzRDBKcXZ3MWQxbjJwOTF0Rk8xX1FhaVN6S3lPTEF5YlZiV3RHWDVHX3NyWXJtZTc1VVNCY3VBbTI3bmdXaXVrZHVTb3pYcWx0NGZGdDFqdXZmeWRsSE93dUk?oc=5
+
+- Foreign investors return to Indian markets with ₹1,751 crore inflows this week: NSDL Data - Mint
+  Foreign investors return to Indian markets with ₹1,
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSEZIS1NFakp3QWpZNzRwdDdBYmtIelhXWGJvdGd2cTZaal9nSHpldmdOakxORktudXZUTkttdllzdGJsS3ZGQkRxaUZwTTVWLVkwSW85NTFfNXpQdTZma0tyQlhpTUEzRDQ3SVpYb1J3NnNVdGNja0xlSW9nUFdNX0dQMkdlTXZIcE1nbGV2UUtqYnBFWTdvSXo1NDQxRnl3d1lkckdUQklSUkJIQnBmcjM5UFFxTFdDTmdyalJXM1RiNS1Vem9CQjhBWVpfRFJuR2JiX0R2TTNzWHc1ZzFsZ2ZCaXpEZ2tUaV9WNGFDR2ptd9IB9wFBVV95cUxObDZWNGdkemJlQUZNQWppbXoyN3VfY05icDRsNW9RREdhRXpxRThlOUdnSlBvU3h5ZlBRZm85dTAxNUF2NkJrdUJacUNONzRFWmxWZjlfWGh1R1BOdnJCQk9kRW14cE51NTJicnBLdm5YMUFMV3JrSnlHTFMwSlpldlM0bVpfb0cxYzBrME9rZEZSQzVKb0NGcmFfUmNQUHhibW5mU1NEazJic1ZFYWNaenJ2U25nbzVBM1BQdk5jeVA0N3JWMmJEcFQ3TURNc1hTeUEwU2toUUZET0RPTVpoZ2Z4VmZ1b0YtdkhoV195Ym83OERzTC1j?oc=5
 
 - JP Morgan boss Jamie Dimon sounds warning on US stock market fall - BBC
   &nbsp;&ngt;
@@ -112,33 +116,29 @@
   Jamie Dimon is worried about a
   🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFZtTF91Vkd0dmhYSFU3Wm5CQ1hBb2g4dWFia0JYMURzWkVIMXpBUHFyWTZWaVp2d19lRkc1bFhCa2tNRDA0bDhSbVRPZnMzRWtrNnZNdGd3ZVRhZXoxMFRWX0F6X3AxbGQ4bjlxMGFBUnBoT2FRR0FCalM4T3JyckxmQkxqQQ?oc=5
 
-- Head of largest US bank warns of risk of American stock market crash - The Guardian
-  Head of largest US bank warns of risk of American stock market
+- Head of largest US bank warns of risk of American stock market crash | JP Morgan - The Guardian
+  Head of largest US bank warns of risk of American stock market crash.
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOT2lNbDhUOUtkTUxmQk1uZVIyUDRRWTN4NTlaOXdoUW5aR3Iwa0ozTlRoeC1BU0hnTGcyN2xnNHExZWRBUGFJTFhmTTY0dmdFa2x6dXNoRjA3ZVNHVEN6SFFXRzBmNlFlR0I4ZEMwc0VKOG1OZWlGbEZNbzZ5djFvOVZiMkVVTjBtbnR6aXVSSzBpNnJHdTdKbm1NWnNQLXlnSFFjNGs2eTdWSzlIRU5GQ3NNYk5IY0E?oc=5
 
-- A dollar rally could be the next jolt for markets - Financial Times
-  A dollar rally could be the next jolt
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1ETnFUOGtjOVRIZjdBSE95ZW4zT3BodXVZVTB4ak9NOFJ0cHV0X2c3VHdQNlhxVGhMOEJBdU9HZ043ZEtxb3J4b1NxYWM1d0NONzJ4RDhYR290SlNYTERMSjk4YVQ4b2YyMzRJM3BuWUo?oc=5
+- IPO activity cools next week with just one new issue. Tata Capital, LG Electronics listings in focus
+  The Indian primary market sees a single Midwest IPO this week. Tata Capital, LG Electronics, and eight other companies are also scheduled to
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-activity-cools-next-week-with-just-one-new-issue-tata-capital-lg-electronics-listings-in-focus/articleshow/124471162.cms
 
-- Dow Jones crashes 400 points, Nasdaq falls 2% after Trump threatens more tariffs on China
-  U.S. stocks tumbled Friday as President Trump threatened a massive tariff increase on China. S&amp;P 500 fell 1.5% and the Dow Jones Industrial Average down 456 points.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dow-jones-crashes-400-points-nasdaq-falls-2-after-trump-threatens-more-tariffs-on-china/articleshow/124458770.cms
+- 10 Tata Group stocks crash up to 60% from their high — Is yours on the list?
+  Tata Group stocks have faced a sharp selloff in 2025. TCS alone accounts for 85% of the slump. 10 group companies have dropped 30–60% from their 52-week highs.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-tata-group-stocks-crash-up-to-60-from-their-high-is-yours-on-the-list/slideshow/124471089.cms
 
-- Zerodha's youngest account holder is 64 days old, says Nithin Kamath. Here's how
-  Zerodha CEO Nithin Kamath revealed that the firm’s youngest account holder is a 64-day-old infant. Kamath
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zerodhas-youngest-account-holder-is-64-days-old-says-nithin-kamath-heres-how/articleshow/124457659.cms
+- Private equity in Indian real estate declines 15% in H1 FY26, deal sizes remain steady: ANAROCK Capital
+  Private equity investments in Indian real estate fell 15% YoY to USD 2.2 billion in H1 FY26. Fewer transactions despite steady deal sizes and
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/private-equity-in-indian-real-estate-declines-15-in-h1-fy26-deal-sizes-remain-steady-anarock-capital/articleshow/124470917.cms
 
-- CAMS board approves 1:5 stock split, first since 2021
-  Camas board approved a 1:5 stock split, its first since May 2021. Aimed
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cams-board-approves-15-stock-split-first-since-2021/articleshow/124456723.cms
+- Concurrent Gainers: 8 BSE500 stocks gain for 5 days in a row
+  Eight BSE500 stocks, including Tata Communications, Federal Bank, HCL Tech, and Wip
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-8-bse500-stocks-gain-for-5-days-in-a-row/slideshow/124470845.cms
 
-- Levi Strauss shares fall 9% as tariff-related costs overshadow forecast raise
-  Levi Strauss &amp; Co shares fell about 9% on Friday. Investors focused on the denim maker's warning of a tariff-
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/levi-strauss-shares-fall-9-as-tariff-related-costs-overshadow-forecast-raise/articleshow/124456478.cms
-
-- US stocks advance as investors assess sentiment data
-  Major Wall Street indexes climbed, with the Nasdaq reaching a new intraday peak. Investors are closely watching consumer sentiment data for economic clues.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-open-higher-as-traders-buy-the-dip-ahead-of-sentiment-data/articleshow/124455680.cms
+- Bond yields steady as RBI holds rates; accrual strategies favoured going ahead: Devang Shah
+  RBI may deliver one more 25 bps cut by December. India’s 10-year bond yield inched up 4 bps to 6.57% in
+  🔗 https://economictimes.indiatimes.com/markets/bonds/bond-yields-steady-as-rbi-holds-rates-accrual-strategies-favoured-going-ahead-devang-shah/articleshow/124470573.cms
 
 - Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMj
@@ -148,37 +148,17 @@
   Myanmar tells India: No Chinese on Coco Islands.
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
 
-- CM outlines agenda for GBA at inaugural meet | Latest News India - Hindustan Times
-  CM outlines agenda for GBA at inaugural meet.
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemNJazBhdkptQ0FlQ1djZ3hOY0ZHUWdTeGlJc01iLWV6T05DWFJlV0J5OWhyWGhFTnd6M1JBSzhJYmFhNjFVVlZMSW1aWldTcm1oLWdzaUVBczN6RUVqaldPZnVJZ1hkVGc5RlFJQkk0dTVtX3BzbmFRMzduUXNBQzA2ZmRhNzBQVzR5QTNjeUotMldoNHctdGF1LUYxS3dPSk51ek5rNEx2bjjSAbABQVVfeXFMTkxiQWN5d21BT0FxV2tOWjBsVVRLSnJ4Wl9fQ05Kek9PM1FSNWVCbFpSZUN6NHF3YTc5LVFUcFFxTW56RE1hN0FpMWlfNFV0eGJCalBlalE5R2I2WEZ5aTBSelFzMTI3LWFvV21uUV91Q2pFM0h0cjd4aTFxdjBmMUJPY0pkU0s3SnJLbzZyTnBlbTdvOXpTRnRkdFZycldhX2pKS3JQc3JaWXZYckJ1LUM?oc=5
+- Shubman Gill shatters Rohit Sharma's record, becomes India's top ... - Times of India
+  Shubman Gill shatters Rohit Sharma's
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSWM1WS1FNzB6cm1TN01CeWl3Q1RXNjBSemZyUlAyTHJHdF91OWozY0pxYTRxVHdja09xOGhrRkU4cTFpR2FEWlRZS0dkWnNGdzFDSzBKUUxiZU80bndvQXRhdk1hTnJDMXhNS3h3ckFKbVNRaUZlSlJwZHJEUmJOUHktY3RnZDM1OGpaNTY0MjhtS2dETnJIYUpYUG1IQnpybU5FQ3RkUEEwS2xHUkFnUmJNRUw5UjMtWlg1cjhNSGRzSGpZM0VkYlJYWGlsaldLLWd1ZXVxOFFJbVkwMGFsaExJQmFGUnVpdDhweHdfWjJoQdIB9wFBVV95cUxOSkxPMWlseXZnbWI4b2RvWUhEbEJqZDJFVF93YnJKS0RXQkNjaU03bTVLeHJqYWxpV041bTlBOVBMSVlKSEwyMWdrVVU5b2RkUXpnYVBiSFNtVVYwTFg3dGpPTXZIemlXWWFjMHBMbTA4SXBWNUpHSmFOamhGQ0FiY0RBSXV5VkQwWkcyZFpWWC1LMWtCZF9Zbl9CMkhFODE2bFBDLWdxREJrTU9KNlRBeGM5WTRGcC1NeUlMZXdDb3FfRk5FaFV3Mzk3aGZKTE94M3ZtNmF5YktUbjNtWVRIOHJjMlhGVFpad1NKdmhfX3BxVlpnR2hB?oc=5
 
-- Min plays down meeting amid cabinet rejig buzz | Latest News India - Hindustan Times
-  Min plays down meeting amid cabinet rejig buzz.
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlk4ckZ2clptUXEzNFhWek5wV1ZONUpaQjUzbG9mN2Fqa0RoV1NVUmFmZlA0ZWFUUTFuRmZEOHEtRElBRlFuNzRWMmFNcU9vbUsxY002S1VGWEtDc1hHVDlScHJtTll5bmxNYTlWQVlXV21kdkZGRHR4ZFN5WHZfYzRJRlNHR2U5TXNpZVlOdzl2X1lrWlA4QVRuWHJhemIyZFVjWjAwVHRxRnpoalHSAbMBQVVfeXFMTjFQa0hWUGFzNzlMVWJJMzlpWGNYb21mXzRVdk5URWpCZWJfNjZxbkYzMmJWUUwtN2pyVU9aTC1Gb0xSOFhHdW5QX3NkLTAzYVVQcDFCeUJFTzNWb2p6SzBzZU9RR2lhRXQ0Ym92Zjg2S0pRVHJ0VndSWDdHU0tWNVN6ZjNua1hmOTZNdHFfWFpzMlJpWjlNTzBmUnJteS1XQVZGbVNhcGNlZW9QNTcwRjBkOFE?oc=5
+- U.K. PM’s India visit updates: U.K. signs $468 million deal to supply India with missiles - The Hindu
+  U.K. signs $468 million deal to supply India with missiles
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
 
-- BJP slams shift to BPL Indira food kit | Latest News India - Hindustan Times
-  BJP slams shift to BPL Indira food kit
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUJ6eDZrWHZYRUJsT0paYzVrSmIxTTV3S3dRdGVUUC1ERzFyMXVSdjY4M2xGZ3pqVUh3RTlZVWg1bThSUkNvSTFZdVJqNFlFWDA3Tnp0cW1yMGVGb1l6dUlsWGlzWkgxN0RCUG5Rbnh0WUhrZjdTaVRwSGpWdmxzNlo1aTZxNWc4TDk1N192YlM0bm1CTXhYOXlOQTlnTkQ2c2Q40gGoAUFVX3lxTE80R1ZqZGVYc1RfMmRMd05fTk1TQXp0WG9SYkUzMy15eS1TYU00ZVVvbC1mbDFCUjcxZFllS1hneDVMUE9CTWtiMHNJOXFhMmk5c2JZcmdVTWtWZUR2OHJpZDZOMExDTHpLbC01NkFhSFRIX1g2anNUejZiUnVQb3dPVk4yRExyZ3JSUWlaVnBpb2ttNUFfZ1Aya0lzQ2N4V1RFanZxOHJqeQ?oc=5
-
-- Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMj
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMjNSZEE0cmpqaC1HazdXS1paQWVQdGg2VXIzT2g1MVA2ZUI4d3ZmMmg2dVgtSzM0VFdFcUtqTk1rVHc2NEFIZ0VVR2_SAbMBQVVfeXFMT0dfajJ2RjE2UFlmY3UzY3NyUTlidDR3SXNvRzB3TUQ3VS14R1pPNmxLYWlpRU1TdmZFNXBTckE5ZWoyRFJkQjdEaGJQOXRQX2RSRlRDOUxmdUh0VUFVbGQ4bDl2WkhGdTdMSkthb2xmaE9IMUNMTldBVkp2OWlmS3lSVlhNWXVVWVJpMlZZNU5LWW1TMjJJakdoVEtwWlphSHJFa2RUZ0U4X2prbzVVdjhkWkE?oc=5
-
-- Myanmar tells India: No Chinese on Coco Islands | Latest News India - Hindustan Times
-  Myanmar tells India: No Chinese on Coco Islands.
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
-
-- CM outlines agenda for GBA at inaugural meet | Latest News India - Hindustan Times
-  CM outlines agenda for GBA at inaugural meet.
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemNJazBhdkptQ0FlQ1djZ3hOY0ZHUWdTeGlJc01iLWV6T05DWFJlV0J5OWhyWGhFTnd6M1JBSzhJYmFhNjFVVlZMSW1aWldTcm1oLWdzaUVBczN6RUVqaldPZnVJZ1hkVGc5RlFJQkk0dTVtX3BzbmFRMzduUXNBQzA2ZmRhNzBQVzR5QTNjeUotMldoNHctdGF1LUYxS3dPSk51ek5rNEx2bjjSAbABQVVfeXFMTkxiQWN5d21BT0FxV2tOWjBsVVRLSnJ4Wl9fQ05Kek9PM1FSNWVCbFpSZUN6NHF3YTc5LVFUcFFxTW56RE1hN0FpMWlfNFV0eGJCalBlalE5R2I2WEZ5aTBSelFzMTI3LWFvV21uUV91Q2pFM0h0cjd4aTFxdjBmMUJPY0pkU0s3SnJLbzZyTnBlbTdvOXpTRnRkdFZycldhX2pKS3JQc3JaWXZYckJ1LUM?oc=5
-
-- Min plays down meeting amid cabinet rejig buzz | Latest News India - Hindustan Times
-  Min plays down meeting amid cabinet rejig buzz.
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlk4ckZ2clptUXEzNFhWek5wV1ZONUpaQjUzbG9mN2Fqa0RoV1NVUmFmZlA0ZWFUUTFuRmZEOHEtRElBRlFuNzRWMmFNcU9vbUsxY002S1VGWEtDc1hHVDlScHJtTll5bmxNYTlWQVlXV21kdkZGRHR4ZFN5WHZfYzRJRlNHR2U5TXNpZVlOdzl2X1lrWlA4QVRuWHJhemIyZFVjWjAwVHRxRnpoalHSAbMBQVVfeXFMTjFQa0hWUGFzNzlMVWJJMzlpWGNYb21mXzRVdk5URWpCZWJfNjZxbkYzMmJWUUwtN2pyVU9aTC1Gb0xSOFhHdW5QX3NkLTAzYVVQcDFCeUJFTzNWb2p6SzBzZU9RR2lhRXQ0Ym92Zjg2S0pRVHJ0VndSWDdHU0tWNVN6ZjNua1hmOTZNdHFfWFpzMlJpWjlNTzBmUnJteS1XQVZGbVNhcGNlZW9QNTcwRjBkOFE?oc=5
-
-- BJP slams shift to BPL Indira food kit | Latest News India - Hindustan Times
-  BJP slams shift to BPL Indira food kit
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUJ6eDZrWHZYRUJsT0paYzVrSmIxTTV3S3dRdGVUUC1ERzFyMXVSdjY4M2xGZ3pqVUh3RTlZVWg1bThSUkNvSTFZdVJqNFlFWDA3Tnp0cW1yMGVGb1l6dUlsWGlzWkgxN0RCUG5Rbnh0WUhrZjdTaVRwSGpWdmxzNlo1aTZxNWc4TDk1N192YlM0bm1CTXhYOXlOQTlnTkQ2c2Q40gGoAUFVX3lxTE80R1ZqZGVYc1RfMmRMd05fTk1TQXp0WG9SYkUzMy15eS1TYU00ZVVvbC1mbDFCUjcxZFllS1hneDVMUE9CTWtiMHNJOXFhMmk5c2JZcmdVTWtWZUR2OHJpZDZOMExDTHpLbC01NkFhSFRIX1g2anNUejZiUnVQb3dPVk4yRExyZ3JSUWlaVnBpb2ttNUFfZ1Aya0lzQ2N4V1RFanZxOHJqeQ?oc=5
+- PM Congratulates Trump On Gaza Peace Plan, Discusses India-US Trade - NDTV
+  PM Congratulates Trump On Gaza Peace
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRjNTNUpRYXJlMHlBNF83a1Nld3l3NXgzWndKN1hUS3pfdjBHVmpyUkdZcm1MdS1DY01EQ1F3ZHBlVS1wN2I1Y2FZbnJoTnNtblZ1bkR3anZVMnU4bDN5OWU4OWhWYjdla2huNWJxekZZRlBJZzA2U0xqSE1nZUZvUThzNGpEMV9tY2FpYTlhQzB5WllSM1NFcy0ycFFSTFlJTzd1LVlvT3VjZ9IBsgFBVV95cUxNekVoelQyaFBLdENXcGotcW01dVZKZm1FT1RuM3h4dUFRLWxWbmFKMm5uMWxDZWFzZWk5RU53U2NNdV9LM1dONThJdXlYdXFjd3g0ejlfalpRYi1ZUkpHX3BJNkRGbENJOHZ5cXRCY1Vfa2p5a0xya3M4RVJ1cFh1RnR4dF96VC01eWxMUngtWFl1Qm9Rc1hwRC1PM3FxZUNmeDRQZDdVRkwwWUlwcWp4UjJB?oc=5
 
 - Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMj
@@ -188,17 +168,17 @@
   Myanmar tells India: No Chinese on Coco Islands.
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
 
-- CM outlines agenda for GBA at inaugural meet | Latest News India - Hindustan Times
-  CM outlines agenda for GBA at inaugural meet.
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemNJazBhdkptQ0FlQ1djZ3hOY0ZHUWdTeGlJc01iLWV6T05DWFJlV0J5OWhyWGhFTnd6M1JBSzhJYmFhNjFVVlZMSW1aWldTcm1oLWdzaUVBczN6RUVqaldPZnVJZ1hkVGc5RlFJQkk0dTVtX3BzbmFRMzduUXNBQzA2ZmRhNzBQVzR5QTNjeUotMldoNHctdGF1LUYxS3dPSk51ek5rNEx2bjjSAbABQVVfeXFMTkxiQWN5d21BT0FxV2tOWjBsVVRLSnJ4Wl9fQ05Kek9PM1FSNWVCbFpSZUN6NHF3YTc5LVFUcFFxTW56RE1hN0FpMWlfNFV0eGJCalBlalE5R2I2WEZ5aTBSelFzMTI3LWFvV21uUV91Q2pFM0h0cjd4aTFxdjBmMUJPY0pkU0s3SnJLbzZyTnBlbTdvOXpTRnRkdFZycldhX2pKS3JQc3JaWXZYckJ1LUM?oc=5
+- Shubman Gill shatters Rohit Sharma's record, becomes India's top ... - Times of India
+  Shubman Gill shatters Rohit Sharma's
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSWM1WS1FNzB6cm1TN01CeWl3Q1RXNjBSemZyUlAyTHJHdF91OWozY0pxYTRxVHdja09xOGhrRkU4cTFpR2FEWlRZS0dkWnNGdzFDSzBKUUxiZU80bndvQXRhdk1hTnJDMXhNS3h3ckFKbVNRaUZlSlJwZHJEUmJOUHktY3RnZDM1OGpaNTY0MjhtS2dETnJIYUpYUG1IQnpybU5FQ3RkUEEwS2xHUkFnUmJNRUw5UjMtWlg1cjhNSGRzSGpZM0VkYlJYWGlsaldLLWd1ZXVxOFFJbVkwMGFsaExJQmFGUnVpdDhweHdfWjJoQdIB9wFBVV95cUxOSkxPMWlseXZnbWI4b2RvWUhEbEJqZDJFVF93YnJKS0RXQkNjaU03bTVLeHJqYWxpV041bTlBOVBMSVlKSEwyMWdrVVU5b2RkUXpnYVBiSFNtVVYwTFg3dGpPTXZIemlXWWFjMHBMbTA4SXBWNUpHSmFOamhGQ0FiY0RBSXV5VkQwWkcyZFpWWC1LMWtCZF9Zbl9CMkhFODE2bFBDLWdxREJrTU9KNlRBeGM5WTRGcC1NeUlMZXdDb3FfRk5FaFV3Mzk3aGZKTE94M3ZtNmF5YktUbjNtWVRIOHJjMlhGVFpad1NKdmhfX3BxVlpnR2hB?oc=5
 
-- Min plays down meeting amid cabinet rejig buzz | Latest News India - Hindustan Times
-  Min plays down meeting amid cabinet rejig buzz.
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlk4ckZ2clptUXEzNFhWek5wV1ZONUpaQjUzbG9mN2Fqa0RoV1NVUmFmZlA0ZWFUUTFuRmZEOHEtRElBRlFuNzRWMmFNcU9vbUsxY002S1VGWEtDc1hHVDlScHJtTll5bmxNYTlWQVlXV21kdkZGRHR4ZFN5WHZfYzRJRlNHR2U5TXNpZVlOdzl2X1lrWlA4QVRuWHJhemIyZFVjWjAwVHRxRnpoalHSAbMBQVVfeXFMTjFQa0hWUGFzNzlMVWJJMzlpWGNYb21mXzRVdk5URWpCZWJfNjZxbkYzMmJWUUwtN2pyVU9aTC1Gb0xSOFhHdW5QX3NkLTAzYVVQcDFCeUJFTzNWb2p6SzBzZU9RR2lhRXQ0Ym92Zjg2S0pRVHJ0VndSWDdHU0tWNVN6ZjNua1hmOTZNdHFfWFpzMlJpWjlNTzBmUnJteS1XQVZGbVNhcGNlZW9QNTcwRjBkOFE?oc=5
+- U.K. PM’s India visit updates: U.K. signs $468 million deal to supply India with missiles - The Hindu
+  U.K. signs $468 million deal to supply India with missiles
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
 
-- BJP slams shift to BPL Indira food kit | Latest News India - Hindustan Times
-  BJP slams shift to BPL Indira food kit
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUJ6eDZrWHZYRUJsT0paYzVrSmIxTTV3S3dRdGVUUC1ERzFyMXVSdjY4M2xGZ3pqVUh3RTlZVWg1bThSUkNvSTFZdVJqNFlFWDA3Tnp0cW1yMGVGb1l6dUlsWGlzWkgxN0RCUG5Rbnh0WUhrZjdTaVRwSGpWdmxzNlo1aTZxNWc4TDk1N192YlM0bm1CTXhYOXlOQTlnTkQ2c2Q40gGoAUFVX3lxTE80R1ZqZGVYc1RfMmRMd05fTk1TQXp0WG9SYkUzMy15eS1TYU00ZVVvbC1mbDFCUjcxZFllS1hneDVMUE9CTWtiMHNJOXFhMmk5c2JZcmdVTWtWZUR2OHJpZDZOMExDTHpLbC01NkFhSFRIX1g2anNUejZiUnVQb3dPVk4yRExyZ3JSUWlaVnBpb2ttNUFfZ1Aya0lzQ2N4V1RFanZxOHJqeQ?oc=5
+- PM Congratulates Trump On Gaza Peace Plan, Discusses India-US Trade - NDTV
+  PM Congratulates Trump On Gaza Peace
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRjNTNUpRYXJlMHlBNF83a1Nld3l3NXgzWndKN1hUS3pfdjBHVmpyUkdZcm1MdS1DY01EQ1F3ZHBlVS1wN2I1Y2FZbnJoTnNtblZ1bkR3anZVMnU4bDN5OWU4OWhWYjdla2huNWJxekZZRlBJZzA2U0xqSE1nZUZvUThzNGpEMV9tY2FpYTlhQzB5WllSM1NFcy0ycFFSTFlJTzd1LVlvT3VjZ9IBsgFBVV95cUxNekVoelQyaFBLdENXcGotcW01dVZKZm1FT1RuM3h4dUFRLWxWbmFKMm5uMWxDZWFzZWk5RU53U2NNdV9LM1dONThJdXlYdXFjd3g0ejlfalpRYi1ZUkpHX3BJNkRGbENJOHZ5cXRCY1Vfa2p5a0xya3M4RVJ1cFh1RnR4dF96VC01eWxMUngtWFl1Qm9Rc1hwRC1PM3FxZUNmeDRQZDdVRkwwWUlwcWp4UjJB?oc=5
 
 - Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMj
@@ -208,17 +188,37 @@
   Myanmar tells India: No Chinese on Coco Islands.
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
 
-- CM outlines agenda for GBA at inaugural meet | Latest News India - Hindustan Times
-  CM outlines agenda for GBA at inaugural meet.
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemNJazBhdkptQ0FlQ1djZ3hOY0ZHUWdTeGlJc01iLWV6T05DWFJlV0J5OWhyWGhFTnd6M1JBSzhJYmFhNjFVVlZMSW1aWldTcm1oLWdzaUVBczN6RUVqaldPZnVJZ1hkVGc5RlFJQkk0dTVtX3BzbmFRMzduUXNBQzA2ZmRhNzBQVzR5QTNjeUotMldoNHctdGF1LUYxS3dPSk51ek5rNEx2bjjSAbABQVVfeXFMTkxiQWN5d21BT0FxV2tOWjBsVVRLSnJ4Wl9fQ05Kek9PM1FSNWVCbFpSZUN6NHF3YTc5LVFUcFFxTW56RE1hN0FpMWlfNFV0eGJCalBlalE5R2I2WEZ5aTBSelFzMTI3LWFvV21uUV91Q2pFM0h0cjd4aTFxdjBmMUJPY0pkU0s3SnJLbzZyTnBlbTdvOXpTRnRkdFZycldhX2pKS3JQc3JaWXZYckJ1LUM?oc=5
+- Shubman Gill shatters Rohit Sharma's record, becomes India's top ... - Times of India
+  Shubman Gill shatters Rohit Sharma's
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSWM1WS1FNzB6cm1TN01CeWl3Q1RXNjBSemZyUlAyTHJHdF91OWozY0pxYTRxVHdja09xOGhrRkU4cTFpR2FEWlRZS0dkWnNGdzFDSzBKUUxiZU80bndvQXRhdk1hTnJDMXhNS3h3ckFKbVNRaUZlSlJwZHJEUmJOUHktY3RnZDM1OGpaNTY0MjhtS2dETnJIYUpYUG1IQnpybU5FQ3RkUEEwS2xHUkFnUmJNRUw5UjMtWlg1cjhNSGRzSGpZM0VkYlJYWGlsaldLLWd1ZXVxOFFJbVkwMGFsaExJQmFGUnVpdDhweHdfWjJoQdIB9wFBVV95cUxOSkxPMWlseXZnbWI4b2RvWUhEbEJqZDJFVF93YnJKS0RXQkNjaU03bTVLeHJqYWxpV041bTlBOVBMSVlKSEwyMWdrVVU5b2RkUXpnYVBiSFNtVVYwTFg3dGpPTXZIemlXWWFjMHBMbTA4SXBWNUpHSmFOamhGQ0FiY0RBSXV5VkQwWkcyZFpWWC1LMWtCZF9Zbl9CMkhFODE2bFBDLWdxREJrTU9KNlRBeGM5WTRGcC1NeUlMZXdDb3FfRk5FaFV3Mzk3aGZKTE94M3ZtNmF5YktUbjNtWVRIOHJjMlhGVFpad1NKdmhfX3BxVlpnR2hB?oc=5
 
-- Min plays down meeting amid cabinet rejig buzz | Latest News India - Hindustan Times
-  Min plays down meeting amid cabinet rejig buzz.
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlk4ckZ2clptUXEzNFhWek5wV1ZONUpaQjUzbG9mN2Fqa0RoV1NVUmFmZlA0ZWFUUTFuRmZEOHEtRElBRlFuNzRWMmFNcU9vbUsxY002S1VGWEtDc1hHVDlScHJtTll5bmxNYTlWQVlXV21kdkZGRHR4ZFN5WHZfYzRJRlNHR2U5TXNpZVlOdzl2X1lrWlA4QVRuWHJhemIyZFVjWjAwVHRxRnpoalHSAbMBQVVfeXFMTjFQa0hWUGFzNzlMVWJJMzlpWGNYb21mXzRVdk5URWpCZWJfNjZxbkYzMmJWUUwtN2pyVU9aTC1Gb0xSOFhHdW5QX3NkLTAzYVVQcDFCeUJFTzNWb2p6SzBzZU9RR2lhRXQ0Ym92Zjg2S0pRVHJ0VndSWDdHU0tWNVN6ZjNua1hmOTZNdHFfWFpzMlJpWjlNTzBmUnJteS1XQVZGbVNhcGNlZW9QNTcwRjBkOFE?oc=5
+- U.K. PM’s India visit updates: U.K. signs $468 million deal to supply India with missiles - The Hindu
+  U.K. signs $468 million deal to supply India with missiles
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
 
-- BJP slams shift to BPL Indira food kit | Latest News India - Hindustan Times
-  BJP slams shift to BPL Indira food kit
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUJ6eDZrWHZYRUJsT0paYzVrSmIxTTV3S3dRdGVUUC1ERzFyMXVSdjY4M2xGZ3pqVUh3RTlZVWg1bThSUkNvSTFZdVJqNFlFWDA3Tnp0cW1yMGVGb1l6dUlsWGlzWkgxN0RCUG5Rbnh0WUhrZjdTaVRwSGpWdmxzNlo1aTZxNWc4TDk1N192YlM0bm1CTXhYOXlOQTlnTkQ2c2Q40gGoAUFVX3lxTE80R1ZqZGVYc1RfMmRMd05fTk1TQXp0WG9SYkUzMy15eS1TYU00ZVVvbC1mbDFCUjcxZFllS1hneDVMUE9CTWtiMHNJOXFhMmk5c2JZcmdVTWtWZUR2OHJpZDZOMExDTHpLbC01NkFhSFRIX1g2anNUejZiUnVQb3dPVk4yRExyZ3JSUWlaVnBpb2ttNUFfZ1Aya0lzQ2N4V1RFanZxOHJqeQ?oc=5
+- PM Congratulates Trump On Gaza Peace Plan, Discusses India-US Trade - NDTV
+  PM Congratulates Trump On Gaza Peace
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRjNTNUpRYXJlMHlBNF83a1Nld3l3NXgzWndKN1hUS3pfdjBHVmpyUkdZcm1MdS1DY01EQ1F3ZHBlVS1wN2I1Y2FZbnJoTnNtblZ1bkR3anZVMnU4bDN5OWU4OWhWYjdla2huNWJxekZZRlBJZzA2U0xqSE1nZUZvUThzNGpEMV9tY2FpYTlhQzB5WllSM1NFcy0ycFFSTFlJTzd1LVlvT3VjZ9IBsgFBVV95cUxNekVoelQyaFBLdENXcGotcW01dVZKZm1FT1RuM3h4dUFRLWxWbmFKMm5uMWxDZWFzZWk5RU53U2NNdV9LM1dONThJdXlYdXFjd3g0ejlfalpRYi1ZUkpHX3BJNkRGbENJOHZ5cXRCY1Vfa2p5a0xya3M4RVJ1cFh1RnR4dF96VC01eWxMUngtWFl1Qm9Rc1hwRC1PM3FxZUNmeDRQZDdVRkwwWUlwcWp4UjJB?oc=5
+
+- Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMj
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMjNSZEE0cmpqaC1HazdXS1paQWVQdGg2VXIzT2g1MVA2ZUI4d3ZmMmg2dVgtSzM0VFdFcUtqTk1rVHc2NEFIZ0VVR2_SAbMBQVVfeXFMT0dfajJ2RjE2UFlmY3UzY3NyUTlidDR3SXNvRzB3TUQ3VS14R1pPNmxLYWlpRU1TdmZFNXBTckE5ZWoyRFJkQjdEaGJQOXRQX2RSRlRDOUxmdUh0VUFVbGQ4bDl2WkhGdTdMSkthb2xmaE9IMUNMTldBVkp2OWlmS3lSVlhNWXVVWVJpMlZZNU5LWW1TMjJJakdoVEtwWlphSHJFa2RUZ0U4X2prbzVVdjhkWkE?oc=5
+
+- Myanmar tells India: No Chinese on Coco Islands | Latest News India - Hindustan Times
+  Myanmar tells India: No Chinese on Coco Islands.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
+
+- Shubman Gill shatters Rohit Sharma's record, becomes India's top ... - Times of India
+  Shubman Gill shatters Rohit Sharma's
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSWM1WS1FNzB6cm1TN01CeWl3Q1RXNjBSemZyUlAyTHJHdF91OWozY0pxYTRxVHdja09xOGhrRkU4cTFpR2FEWlRZS0dkWnNGdzFDSzBKUUxiZU80bndvQXRhdk1hTnJDMXhNS3h3ckFKbVNRaUZlSlJwZHJEUmJOUHktY3RnZDM1OGpaNTY0MjhtS2dETnJIYUpYUG1IQnpybU5FQ3RkUEEwS2xHUkFnUmJNRUw5UjMtWlg1cjhNSGRzSGpZM0VkYlJYWGlsaldLLWd1ZXVxOFFJbVkwMGFsaExJQmFGUnVpdDhweHdfWjJoQdIB9wFBVV95cUxOSkxPMWlseXZnbWI4b2RvWUhEbEJqZDJFVF93YnJKS0RXQkNjaU03bTVLeHJqYWxpV041bTlBOVBMSVlKSEwyMWdrVVU5b2RkUXpnYVBiSFNtVVYwTFg3dGpPTXZIemlXWWFjMHBMbTA4SXBWNUpHSmFOamhGQ0FiY0RBSXV5VkQwWkcyZFpWWC1LMWtCZF9Zbl9CMkhFODE2bFBDLWdxREJrTU9KNlRBeGM5WTRGcC1NeUlMZXdDb3FfRk5FaFV3Mzk3aGZKTE94M3ZtNmF5YktUbjNtWVRIOHJjMlhGVFpad1NKdmhfX3BxVlpnR2hB?oc=5
+
+- U.K. PM’s India visit updates: U.K. signs $468 million deal to supply India with missiles - The Hindu
+  U.K. signs $468 million deal to supply India with missiles
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
+
+- PM Congratulates Trump On Gaza Peace Plan, Discusses India-US Trade - NDTV
+  PM Congratulates Trump On Gaza Peace
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRjNTNUpRYXJlMHlBNF83a1Nld3l3NXgzWndKN1hUS3pfdjBHVmpyUkdZcm1MdS1DY01EQ1F3ZHBlVS1wN2I1Y2FZbnJoTnNtblZ1bkR3anZVMnU4bDN5OWU4OWhWYjdla2huNWJxekZZRlBJZzA2U0xqSE1nZUZvUThzNGpEMV9tY2FpYTlhQzB5WllSM1NFcy0ycFFSTFlJTzd1LVlvT3VjZ9IBsgFBVV95cUxNekVoelQyaFBLdENXcGotcW01dVZKZm1FT1RuM3h4dUFRLWxWbmFKMm5uMWxDZWFzZWk5RU53U2NNdV9LM1dONThJdXlYdXFjd3g0ejlfalpRYi1ZUkpHX3BJNkRGbENJOHZ5cXRCY1Vfa2p5a0xya3M4RVJ1cFh1RnR4dF96VC01eWxMUngtWFl1Qm9Rc1hwRC1PM3FxZUNmeDRQZDdVRkwwWUlwcWp4UjJB?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-11 01:08:07 UTC_
+_Last updated: 2025-10-11 06:24:21 UTC_
