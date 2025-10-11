@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- IED blast during Maoists’ ‘Resistance Week’ leaves security personnel injured in Jharkhand forest
+- EXCLUSIVE: Singapore launches coroner’s case in death of Zubeen Garg
   
-  🔗 https://indianexpress.com/article/india/ied-blast-maoists-resistance-week-security-personnel-injured-jharkhand-forest-10299984/
+  🔗 https://indianexpress.com/article/india/exclusive-singapore-launches-coroners-case-in-death-of-zubeen-garg-10300219/
 
-- ED attaches property of former MD of Bidadi film city project over money laundering
+- Govt plans uniform pay, cap on tenure and number for outside consultants
   
-  🔗 https://indianexpress.com/article/india/ed-attaches-property-of-former-md-of-bidadi-film-city-project-over-money-laundering-10299959/
+  🔗 https://indianexpress.com/article/india/govt-plans-uniform-pay-cap-on-tenure-and-number-for-outside-consultants-10300178/
 
-- Day after TBSE exam fee hike announcement, ABVP joins Opposition in demanding rollback
+- After PM Modi meet, message to Secretaries: Push homegrown social media platforms
   
-  🔗 https://indianexpress.com/article/india/tbse-exam-fee-hike-announcement-abvp-opposition-rollback-10299882/
+  🔗 https://indianexpress.com/article/india/after-pm-modi-meet-message-to-secretaries-push-homegrown-social-media-platforms-10300189/
 
-- Lokayukta raids ex-PWD chief engineer in Madhya Pradesh, ‘unearths’ gold, cash — and tonnes of honey
+- Muslim population up because of large-scale infiltration, says Amit Shah
   
-  🔗 https://indianexpress.com/article/india/lokayukta-raids-ex-pwd-chief-engineer-madhya-pradesh-gold-cash-honey-10299865/
+  🔗 https://indianexpress.com/article/india/muslim-population-up-because-of-large-scale-infiltration-says-amit-shah-10300188/
 
-- Action to declare Munambam land as Waqf property bad in law:  Kerala HC
+- At Jaishankar-Muttaqi meet in Delhi: Two Afghanistan flags, no women journalists — and the Bamiyan Buddhas
   
-  🔗 https://indianexpress.com/article/india/action-to-declare-munambam-land-as-waqf-property-bad-in-law-kerala-hc-10299827/
+  🔗 https://indianexpress.com/article/india/at-the-jaishankar-muttaqi-meet-in-delhi-two-afghanistan-flags-no-women-journalists-and-the-bamiyan-buddhas-10300120/
 
 - Comet Lemmon (C/2025 A6) nears November perihelion, may shine bright enough for naked-eye viewing
   
@@ -40,45 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/sennheiser-momentum-4-review-10299291/
 
-- Maersk Loses South Africa Court Bid Blocking Key Port Deal
-  A South African court dismissed a case brought by A.P. Moller-Maersk A/S against a port-expansion deal awarded to
-  🔗 https://www.livemint.com/companies/company-results/maersk-loses-south-africa-court-bid-blocking-key-port-deal-11760120133776.html
+- Spirit Airlines cancels Airbus order in settlement with AerCap
+  Spirit Airlines cancels Airbus
+  🔗 https://www.livemint.com/companies/news/spirit-airlines-cancels-airbus-order-in-settlement-with-aercap-11760139658482.html
 
-- MJH Life Sciences Prices $430 Million Loan at a Steep Discount
-  A $430 million leveraged loan to help fund an acquisition by MJH Life Sciences was priced at one of the steepest discounts of
-  🔗 https://www.livemint.com/companies/news/mjh-life-sciences-prices-430-million-loan-at-a-steep-discount-11760119099408.html
+- First Brands Collapse Blindsides Wall Street, Exposing Cracks in a Hot Corner of Finance
+  Telltale signs of trouble were piling up at Zoom. The owner kept his camera off and his brother pushed back at investors.
+  🔗 https://www.livemint.com/companies/news/first-brands-collapse-blindsides-wall-street-exposing-cracks-in-a-hot-corner-of-finance-11760131070701.html
 
-- Bechtel Expects 10 US Reactor Projects With New Shared-Risk Model
-  The US may have as many as 10 large nuclear power plants under construction within five years, according to Bechtel Group Inc.
-  🔗 https://www.livemint.com/companies/news/bechtel-expects-10-us-reactor-projects-with-new-shared-risk-model-11760116787810.html
+- The World’s Chip Supply Chain Is Bracing for Fallout From China’s Rare-Earth Curbs
+  Businesses across the global semiconductor supply chain are bracing themselves for disruptions. China’s most targeted move yet to limit their supplies of rare-earth
+  🔗 https://www.livemint.com/companies/news/the-world-s-chip-supply-chain-is-bracing-for-fallout-from-china-s-rare-earth-curbs-11760131065068.html
 
-- Larrea Bows Out After Citi Rejection in Banamex ‘Telenovela’
-  Mining magnate German Larrea’s conglomerate, Grupo Mexico SAB, said it accepts Cit
-  🔗 https://www.livemint.com/companies/company-results/larrea-bows-out-after-citi-rejection-in-banamex-telenovela-11760115692768.html
+- Codelco to Feel Accident Impact Into 2026 in Blow to Recovery
+  Codelco’s top mine will run well below capacity for the next several months. The impact of a deadly accident will drag on well into
+  🔗 https://www.livemint.com/companies/news/codelco-to-feel-accident-impact-into-2026-in-blow-to-recovery-11760129064702.html
 
-- Canada Will Review Trump Minerals Deals Carefully, Minister Says
-  Canada needs to assess U.S. investments in the country’s critical minerals companies on a “case-by-case basis”
-  🔗 https://www.livemint.com/companies/company-results/canada-will-review-trump-minerals-deals-carefully-minister-says-11760115141162.html
+- Chicago Commuter Rail to Increase Fares to Plug Budget Gap
+  Chicago’s commuter rail is moving to raise fares to help offset a budget gap
+  🔗 https://www.livemint.com/companies/news/chicago-commuter-rail-to-increase-fares-to-plug-budget-gap-11760129063138.html
 
-- Rising Mideast Markets Have Traders Wary of Chasing More Gains
-   Markets rallied around the Middle East this week. Progress on a Gaza ceasefire deal sent Israeli and Egyptian stocks to record highs.
-  🔗 https://www.livemint.com/market/stock-market-news/rising-mideast-markets-have-traders-wary-of-chasing-more-gains-11760116419109.html
+- Bitcoin crashes after Trump imposes 100% tariff on Chinese imports, down to $1,12,500 levels
+  Bitcoin fell 7.60% to $112,592.31 and Ethereum dropped 12.24% to
+  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-ethereum-crypto-crash-after-donald-trump-imposes-100-pc-us-tariffs-chinese-imports-down-to-1-12-500-levels-11760143150173.html
 
-- US drillers cut oil and gas rigs for first time in six weeks, says Baker Hughes
-  US drillers cut oil and gas rigs for first time in six
-  🔗 https://www.livemint.com/market/commodities/us-drillers-cut-oil-and-gas-rigs-for-first-time-in-six-weeks-says-baker-hughes-11760116301011.html
+- US Leveraged Loan Market Under Strain as More Deals Are Pulled
+  The US leveraged loan market is coming under further pressure with its second pulled deal in a week and a slew of investor-friendly changes.
+  🔗 https://www.livemint.com/market/stock-market-news/us-leveraged-loan-market-under-strain-as-more-deals-are-pulled-11760134516950.html
 
-- CAMS board of directors approve 1:5 stock split. Do you own?
-  Computer Age Management Services Ltd, on Friday, 10 October 2025, announced that the board of directors have approved a stock split in the ratio
-  🔗 https://www.livemint.com/market/stock-market-news/cams-board-of-directors-approve-1-5-stock-split-do-you-own-11760113225154.html
+- Crypto Sees More Than $6 Billion in Liquidations
+  Cryptocurrencies tumbled after US President Donald Trump said he would impose an additional 100% tariff on China. More than $6 billion in positions
+  🔗 https://www.livemint.com/market/cryptocurrency/crypto-sees-more-than-6-billion-in-liquidations-11760133915420.html
 
-- Aiming for fairness, Sebi tweaks penalty norms for stock brokers
-  New rules replace 'penalty' with 'financial disincentive' for minor errors. Sebi has revised the penalty framework for brokers to ensure fairness and uniformity.
-  🔗 https://www.livemint.com/market/sebi-rationalized-stock-broker-penalties-new-framework-compliance-11760108991646.html
+- Silver Powers on Near Record as London Market Squeeze Worsens
+  Silver jumped for a second day near a record as a historic tightening of the London spot market added steam to a rally driven by
+  🔗 https://www.livemint.com/market/commodities/silver-powers-on-near-record-as-london-market-squeeze-worsens-11760131064568.html
 
-- Stocks, dollar fall as Trump threatens increase in China tariffs
-  Stocks, dollar fall as Trump threatens increase
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-dollar-fall-as-trump-threatens-increase-in-china-tariffs-11760113073733.html
+- Wall Street selloff raises worries about market downturn
+  Wall Street selloff
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-selloff-raises-worries-about-market-downturn-11760129001574.html
+
+- Bose Angers Customers by Ending Cloud Streaming for Old Speakers
+  Bose will discontinue the cloud infrastructure for its ‘SoundTouch’ line of audio speakers in February. The devices cannot directly stream music from services like Spotify
+  🔗 https://www.livemint.com/technology/tech-news/bose-angers-customers-by-ending-cloud-streaming-for-old-speakers-11760138873387.html
+
+- Google Chrome to automatically mute notifications from ignored websites on Android and desktop
+  The update is built into Chrome's Safety Check tool. It aims to reduce notification fatigue by revoking permissions for sites with low engagement.
+  🔗 https://www.livemint.com/technology/tech-news/google-chrome-to-automatically-mute-notifications-from-ignored-websites-on-android-and-desktop-11760121091856.html
 
 - OpenAI can finally stop saving deleted ChatGPT conversations - but not for everyone
   A court order allows OpenAI to stop retaining ChatGPT conversations. OpenAI will no longer need to preserve user data.
@@ -92,33 +100,25 @@
   Recent updates from OpenAI may soon include a 'Clinician Mode' for medical inquiries in ChatGPT. Code indications point to a friendlier voice mode as well.
   🔗 https://www.livemint.com/technology/tech-news/openai-could-be-working-on-clinician-mode-for-chatgpt-heres-what-we-know-so-far-11760110846993.html
 
-- Oppo begins ColorOS 16 beta rollout in India ahead of October 15 launch: Eligible devices, features and more
-  The ColorOS 16 beta is now available for select Oppo devices, including the Find X8 Pro. Applications are open until October 13, with a launch set for October 15.
-  🔗 https://www.livemint.com/technology/tech-news/after-oneplus-oppo-begins-coloros-16-beta-rollout-in-india-ahead-of-october-15-launch-eligible-devices-features-and-m-11760105151900.html
-
-- AI disruption reshaping jobs in Indias USD 245 bn technology, CX sectors
-   AI disruption reshaping jobs in India
-  🔗 https://www.livemint.com/technology/tech-news/ai-disruption-reshaping-jobs-in-indias-usd-245-bn-technology-cx-sectors-11760104185367.html
-
-- Dow drops 500 points, S&P 500 falls the most since April after Trump's China tariff threat: Live updates - CNBC
-  Dow drops 500 points, S&amp;P 500 falls the most since
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAtclc4S0oxd25QeGpmTXJ3MmlZT0ExRGJsUV9HYTNta01fc29MZkliZUdPSjJTVGJOMHZYQlVsR05ma3l5bzdYbDk3RVh4OVhMcDFjd2xFeGI4RVdMM0h1bElzNEJ6M3J3U0VISEVZTWFqUlVZanVj0gF8QVVfeXFMUFI5VVVKeHFIaTlmRXNpd0pweVVIWnpYUFhBSHlURHJfOFNKa0tBSzc0R1QtV0VKUlhXX2xJRzRZQjNGcXFSRzQwMFN1RFJDMWZJNk95TnlpY1FvU3pFdkhsck92M3JWNDM0SWhxVXZJLUloYlc3eVBIN2VKWA?oc=5
-
-- Stock Market Today: Trump Threatens 'Massive' China Tariffs; Dow Falls — Live Updates - The Wall Street Journal
-  The Wall Street Journal reports that President Trump has threatened "Massive"
+- Stock Market News, Oct. 10, 2025: Trump to Impose 100% Tariff on China; Nasdaq Falls 3.6% - The Wall Street Journal
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOempSWUpSUkZPaURxTURXOTBDUDBRenVtenlYTEctSUt1a0Z3bUMzRDBKcXZ3MWQxbjJwOTF0Rk8xX1FhaVN6S3lPTEF5YlZiV3RHWDVHX3NyWXJtZTc1VVNCY3VBbTI3bm
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOempSWUpSUkZPaURxTURXOTBDUDBRenVtenlYTEctSUt1a0Z3bUMzRDBKcXZ3MWQxbjJwOTF0Rk8xX1FhaVN6S3lPTEF5YlZiV3RHWDVHX3NyWXJtZTc1VVNCY3VBbTI3bmdXaXVrZHVTb3pYcWx0NGZGdDFqdXZmeWRsSE93dUk?oc=5
 
-- Currency watch: Rupee rises 7 paise to 88.72 against dollar; domestic markets and crude oil support gains - Times of India
-  Rupee rises 7 paise to 88.72 against dollar; domestic markets and crude
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxOdWZFQ2t0OW9UcUhGSFFpQ2h5WGZvYlJqcFBlYjB6T1hoVW10aGhDZVJ1UHlxZXFJWDhKdjEzRTlwTHkwOGlMVTFZSFFYNmRCRzZhUjI5T0JMM3Y3UHgzaWZZYXNHOHdHX1hEcnFQaVY1Ylg2dE96QWl6Y3ZfUjkzZGI0VHhPRnZBLW5xRXBOMWlNUDgtTk0tbk03cW9jd28zaHk3dzdDaDRRVVVlM3lBZnZBbXd5TWc3LXJxVFFtRWtPUFJPX3YtaVFNeGFlMXBBOFpUOG5OM2Nlc3lYRzVOVUNqX1N2OWFrQVJBcDN6UUUyZnRWdlNOV3ZjSmhVajlJalpHWGNsSHVmUGQzZ1lyV1dTYWZQLVlH0gGeAkFVX3lxTE4tQnlmd0lCODdBS3g4bDFwZ0ZtOEpBbWJ6ZGxmY180dlExZFZaMjNnY0Y3WWpSdFBCdnBndk5uUEVWc1l4ZURqelVnaUFlN2FOZVYxLVJ5cS1ZWnYteXQzSUQ1TkQ1QkdLbXhVOTVUS0F5NUhmemdVaVhXeUp5X3dGcnQzcTJYSTdLeG96UG04RW5manQ0RGx2eG9oaUtvM3c1Ylh5X3NoQjhiT0lCLWdQekw2clRuMXA3dVlpWkVKbmltQ3N6eWF1Q3FTdUxDSWIxaWRmSjB4b0pfNmlzM2hBWUZzWHJFemtRbkRQOTRvY1QwM2dLdTRRZUJpZTFZOUhRaFZRdWhMQ2ptc2ZEUDF2WHliRjN3NVNrTGpzY2c?oc=5
+- JP Morgan boss Jamie Dimon sounds warning on US stock market fall - BBC
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOeVVyQmZHRWswZTV6c20xOE8yT2taMWk4V0VNWTdNQmJjR2tlRHBhMG5TUzVZa1NoQzdpRjRHbFZFb0lSQTBFZnQtbS1EdEdLZWxNMXdVdmZaZ9IBX0FVX3lxTE03ZmE0a2VRS3pNczVJaTdnT0dkYl90cUtQcHNGY251MnMzVDF4cmtza1ZDYUFyWV9xbkk1Y3VwVi1ucm1TM2FpWFh3VnVYMFYtWGU0N1ZlZ0tZbi0temFj?oc=5
 
-- Wall Street Traders Jolted as Tariff War Flares: Markets Wrap - Bloomberg.com
-  Wall Street Traders Jolted as Tar
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNUERPX01jN2k0cXpfU1ZCbTNzUWlLMWRVRGVnR0N4ZUFYdmlfbGlkeVlhM0UwUFl3dXFaVlc5cUtkSUE3WG1HY0pqdWI0WWhIN1Y0VElkbjVCakRmUlJLNnVqdUphLVRWZWJ5Zk5FSEtldFRJandMNUpkZUZEdVhMZE12UHFRSXdzQ0FuU0JVZWRnY2ZP?oc=5
+- Jamie Dimon is worried about a stock market correction - CNN
+  Jamie Dimon is worried about a
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFZtTF91Vkd0dmhYSFU3Wm5CQ1hBb2g4dWFia0JYMURzWkVIMXpBUHFyWTZWaVp2d19lRkc1bFhCa2tNRDA0bDhSbVRPZnMzRWtrNnZNdGd3ZVRhZXoxMFRWX0F6X3AxbGQ4bjlxMGFBUnBoT2FRR0FCalM4T3JyckxmQkxqQQ?oc=5
 
-- Stock markets advance in early trade on buying in realty, utility stocks - The Hindu
-  Stock markets advance in early trade on buying in realty
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOaE5oVFJfNWN6NFlRQUNCVmxZdFo0VldSUFE3WkZETXc5N2VZVUVseUN5LVh2UklyNnU1OFViTHFBR3ozM0VEYmlDUDg4emI3U3MxZldTN0lKZWtKZ2NJUDROZ1dBS2RlUHM2dGY2X2E4UHlvMW5iY2RKbWdMYnVlbHhPemVURjdZOVdHUUtkaXpwNkNVWXRBVEtDcm5vODFVc0tDelNkRlphMmYtWi04bTFocV9qbFgxc0w0dW55VFVNZE5yTkluM1VoVUFfZ9IB1AFBVV95cUxNMm1vMEI2WnA2LWlsWDUwejM2ME5TWDdxcWFMQ1dJMlQxTVhXUHVYWUhIX2lpbjVOcFFBWGZhei1iYXhRRzlyQ3ZiUDBLUDZoNmtFT1YtMjlnWHBQanU3b1UwLXFUNDNQdVlvVGRxbzBYaWg3UTlmR0hUc19FVk9DbFYzODJqcm1RYW1hRk1EWnN6d21oZGtJY2pyOW9keWxENXNQSG83YnROVzdjR1MxYnpzTmFzMExpRFoxYUFGTkthNm5EaDBZTGstRWtnYV81dGtJUA?oc=5
+- Head of largest US bank warns of risk of American stock market crash - The Guardian
+  Head of largest US bank warns of risk of American stock market
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOT2lNbDhUOUtkTUxmQk1uZVIyUDRRWTN4NTlaOXdoUW5aR3Iwa0ozTlRoeC1BU0hnTGcyN2xnNHExZWRBUGFJTFhmTTY0dmdFa2x6dXNoRjA3ZVNHVEN6SFFXRzBmNlFlR0I4ZEMwc0VKOG1OZWlGbEZNbzZ5djFvOVZiMkVVTjBtbnR6aXVSSzBpNnJHdTdKbm1NWnNQLXlnSFFjNGs2eTdWSzlIRU5GQ3NNYk5IY0E?oc=5
+
+- A dollar rally could be the next jolt for markets - Financial Times
+  A dollar rally could be the next jolt
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1ETnFUOGtjOVRIZjdBSE95ZW4zT3BodXVZVTB4ak9NOFJ0cHV0X2c3VHdQNlhxVGhMOEJBdU9HZ043ZEtxb3J4b1NxYWM1d0NONzJ4RDhYR290SlNYTERMSjk4YVQ4b2YyMzRJM3BuWUo?oc=5
 
 - Dow Jones crashes 400 points, Nasdaq falls 2% after Trump threatens more tariffs on China
   U.S. stocks tumbled Friday as President Trump threatened a massive tariff increase on China. S&amp;P 500 fell 1.5% and the Dow Jones Industrial Average down 456 points.
@@ -144,41 +144,109 @@
   <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMj
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMjNSZEE0cmpqaC1HazdXS1paQWVQdGg2VXIzT2g1MVA2ZUI4d3ZmMmg2dVgtSzM0VFdFcUtqTk1rVHc2NEFIZ0VVR2_SAbMBQVVfeXFMT0dfajJ2RjE2UFlmY3UzY3NyUTlidDR3SXNvRzB3TUQ3VS14R1pPNmxLYWlpRU1TdmZFNXBTckE5ZWoyRFJkQjdEaGJQOXRQX2RSRlRDOUxmdUh0VUFVbGQ4bDl2WkhGdTdMSkthb2xmaE9IMUNMTldBVkp2OWlmS3lSVlhNWXVVWVJpMlZZNU5LWW1TMjJJakdoVEtwWlphSHJFa2RUZ0U4X2prbzVVdjhkWkE?oc=5
 
-- UK won't relax visa rules for India, Starmer says - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIVWM2R3FoQlpaWklBTTNlb0NqUHBhTWRoWHpicW8xbUJiQnZjTXd0YU9pZTB1QVBaaFhVaGxJTVR5WkhPdlVWbTZvanVWTHl1dV83TjVsbjhid9IBX0FVX3lxTE5hQlN2UG
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIVWM2R3FoQlpaWklBTTNlb0NqUHBhTWRoWHpicW8xbUJiQnZjTXd0YU9pZTB1QVBaaFhVaGxJTVR5WkhPdlVWbTZvanVWTHl1dV83TjVsbjhid9IBX0FVX3lxTE5hQlN2UGQ4NU0teHdKSU9XcGhKYzlGekdNWFdDSzNiazRZeC02RUI1OG1wX2R2WnhwdmUyM05QRHFhd2hHNldvWkg4RDA0c3R0WkJEMEotUEI5ZWc3a2tN?oc=5
+- Myanmar tells India: No Chinese on Coco Islands | Latest News India - Hindustan Times
+  Myanmar tells India: No Chinese on Coco Islands.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
 
-- Why the Vienna-Delhi Air India flight was diverted to Dubai | Latest News India - Hindustan Times
-  Why the Vienna-Delhi Air India flight was diverted to Dubai
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNYVVqMHZYMlpWRjRiNlJibE1zTUVXQnhFTVFsOU5kbEtvYUNxOEFxdzhEdU5JdXBnbzNpM0NVUE1TYkNQdVNNbEROWE5KMzNiSEczRXdNNDlRSkgzNV9wZEZINUFDNjgtbnpnWVlkWVh1RjBwdGFna1RQNm9yOHV4R2dmRU5BVDU3SGZxSVI5N0hxV2M0b0xpQlZlRE9lRmV1R2dQdWdRU3JWVU5wMGlZcTVYZVNPbjVlVHJ1TmhzRdIBxAFBVV95cUxQeVE1UWlCU2NiLS13eEkyLW1FT0NBR3NtUVVsNHhqX09tV25sUmszOVFjbUpud1JudjJ0WW5kRlNELUJzeExPM1BkR3MyUEtRaVdGWHhKQ2NlTVJLTUZGcXRpM3hjQzRNcXJ0eEx2NU82MzQ1S256YmoteDRJQUtCQXVJaEV1aWlEZ29TeGN1ZWlxYml6eWFfblF4VUNzQ2VPUXRFa1VMSGNVUXpSVzJqNDJjenRfVWpJSjlYWF8yTVd1MEw0?oc=5
+- CM outlines agenda for GBA at inaugural meet | Latest News India - Hindustan Times
+  CM outlines agenda for GBA at inaugural meet.
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemNJazBhdkptQ0FlQ1djZ3hOY0ZHUWdTeGlJc01iLWV6T05DWFJlV0J5OWhyWGhFTnd6M1JBSzhJYmFhNjFVVlZMSW1aWldTcm1oLWdzaUVBczN6RUVqaldPZnVJZ1hkVGc5RlFJQkk0dTVtX3BzbmFRMzduUXNBQzA2ZmRhNzBQVzR5QTNjeUotMldoNHctdGF1LUYxS3dPSk51ek5rNEx2bjjSAbABQVVfeXFMTkxiQWN5d21BT0FxV2tOWjBsVVRLSnJ4Wl9fQ05Kek9PM1FSNWVCbFpSZUN6NHF3YTc5LVFUcFFxTW56RE1hN0FpMWlfNFV0eGJCalBlalE5R2I2WEZ5aTBSelFzMTI3LWFvV21uUV91Q2pFM0h0cjd4aTFxdjBmMUJPY0pkU0s3SnJLbzZyTnBlbTdvOXpTRnRkdFZycldhX2pKS3JQc3JaWXZYckJ1LUM?oc=5
 
-- India’s badminton feat sparks optimism among Assam shuttlers - Times of India
-  India’s badminton feat
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdGVyYmxMZXY1UmdKYnY0cERLTTdJUVNfaEZtVzBYZkFDZjVBY0pYcVFrWlJuekxnSk9PZUwyUGxfOGxxdEx2bmJjcXNmQmtaMi1ldF9GUXp1NHJmeXpoUHY3Tjl3S3J3b0hyU0poUTNZOFZ2U252bnVQZWpiajEtOE5YRndYUTFFRWpMbnVKNmxZaHU4SkZDNkZKYVIzS0kwcUNNbXF5WXJqbzF2Z196NjlGUUpNTE93NTB2cjJFeGdJY0ZpOUlTTUZiaUxVa3Fm0gHWAUFVX3lxTE5OMmRnRjlhNTFlY1lJQkg5QmhXUTJ3cXAzSUlNSUpEMG5jNGlWVHNtcGJXcjc2Yk9YWFktLTVXMEJOaGRGNHdvTUFyVWczSkVXd0tfZmJMc0FteklTTnVMRVhuUGpwSFJDdHU2Wm5JNDhEZHNVb2xiY2ZWdXJtbmtEeFlERkxweWNOTTBGU2h0cklod0NrckFzQW1pT0VLemh6ZXBYUlNQdjl4QVNweUhhMkh3bEhTcW0wc09mTHAtZG9vVGs5b3NmU2hsZF9weTgyczVaWlE?oc=5
+- Min plays down meeting amid cabinet rejig buzz | Latest News India - Hindustan Times
+  Min plays down meeting amid cabinet rejig buzz.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlk4ckZ2clptUXEzNFhWek5wV1ZONUpaQjUzbG9mN2Fqa0RoV1NVUmFmZlA0ZWFUUTFuRmZEOHEtRElBRlFuNzRWMmFNcU9vbUsxY002S1VGWEtDc1hHVDlScHJtTll5bmxNYTlWQVlXV21kdkZGRHR4ZFN5WHZfYzRJRlNHR2U5TXNpZVlOdzl2X1lrWlA4QVRuWHJhemIyZFVjWjAwVHRxRnpoalHSAbMBQVVfeXFMTjFQa0hWUGFzNzlMVWJJMzlpWGNYb21mXzRVdk5URWpCZWJfNjZxbkYzMmJWUUwtN2pyVU9aTC1Gb0xSOFhHdW5QX3NkLTAzYVVQcDFCeUJFTzNWb2p6SzBzZU9RR2lhRXQ0Ym92Zjg2S0pRVHJ0VndSWDdHU0tWNVN6ZjNua1hmOTZNdHFfWFpzMlJpWjlNTzBmUnJteS1XQVZGbVNhcGNlZW9QNTcwRjBkOFE?oc=5
 
-- PM Modi to launch 2 agri schemes tomorrow - The Indian Express
-  PM Modi to launch 2 agri schemes
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxORHZ2U0ZZeDI4RXRxM1c2RmMxMjZWWUxwTjJmZXdZSUVlbWYtMFg3Nl96XzhjRDl1dkpERThoQmtQeHl2SDY2QzdvYldxcVFWV0NIUHNIa1Q2QU9KN2tDTmFjMVpqMkNSWGF0MXRpeHJGWFdkdHp5TVByTnhIZHItWmZXX2RoOTlINmdIaWw3elZzWUFGUEHSAZwBQVVfeXFMTVZ2MHFQb25oVDFuOEgzVlBhdHpBdnJqVXRiUllSZ05EZFAySEEwMFNLdUJXcUxibUxFSmExZWdtc3VkSW82ZkduWnltX013VThyU1I5XzU3Q3k1eDY4SG1LVVNWek83aXdJV1Vmam90OUVEMjRCZFh4N0VlUEF5YVdLbVRMWGFjSV95QldLVDlzU0Y0bjVJbzZXZ2Ju?oc=5
+- BJP slams shift to BPL Indira food kit | Latest News India - Hindustan Times
+  BJP slams shift to BPL Indira food kit
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUJ6eDZrWHZYRUJsT0paYzVrSmIxTTV3S3dRdGVUUC1ERzFyMXVSdjY4M2xGZ3pqVUh3RTlZVWg1bThSUkNvSTFZdVJqNFlFWDA3Tnp0cW1yMGVGb1l6dUlsWGlzWkgxN0RCUG5Rbnh0WUhrZjdTaVRwSGpWdmxzNlo1aTZxNWc4TDk1N192YlM0bm1CTXhYOXlOQTlnTkQ2c2Q40gGoAUFVX3lxTE80R1ZqZGVYc1RfMmRMd05fTk1TQXp0WG9SYkUzMy15eS1TYU00ZVVvbC1mbDFCUjcxZFllS1hneDVMUE9CTWtiMHNJOXFhMmk5c2JZcmdVTWtWZUR2OHJpZDZOMExDTHpLbC01NkFhSFRIX1g2anNUejZiUnVQb3dPVk4yRExyZ3JSUWlaVnBpb2ttNUFfZ1Aya0lzQ2N4V1RFanZxOHJqeQ?oc=5
 
-- What 7,000 teens in Europe told us about the future of technology - The Keyword
-  What 7,000 teens in Europe told us about the
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWZvaFJzUXlUbmRHOWsyVElCMUpwMllIUE4tR1VLUHAwMU9FWDZGa2R1X1ZCMXFyOF81c19hYlZwMG1yNkZoRkNvZ3hRLWdIX21hLWhIelYzZlBjUkQ4OUhJSE9OSXk1UlNaQ1F5Nm1qekZEU1pjVUZIYjRzeng2WkVGZXJnNUhNblBmZg?oc=5
+- Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMj
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMjNSZEE0cmpqaC1HazdXS1paQWVQdGg2VXIzT2g1MVA2ZUI4d3ZmMmg2dVgtSzM0VFdFcUtqTk1rVHc2NEFIZ0VVR2_SAbMBQVVfeXFMT0dfajJ2RjE2UFlmY3UzY3NyUTlidDR3SXNvRzB3TUQ3VS14R1pPNmxLYWlpRU1TdmZFNXBTckE5ZWoyRFJkQjdEaGJQOXRQX2RSRlRDOUxmdUh0VUFVbGQ4bDl2WkhGdTdMSkthb2xmaE9IMUNMTldBVkp2OWlmS3lSVlhNWXVVWVJpMlZZNU5LWW1TMjJJakdoVEtwWlphSHJFa2RUZ0U4X2prbzVVdjhkWkE?oc=5
 
-- Future of track and field: How technology, training, and global competition are shaping the sport - Times of India
-  The Times of India looks at the future of track and field in India
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOMXFYV2lPZzVpcXUzLXN6c2Jobm02TlVPZUNMY2M2elJ1eFNGdnFUeTdYLV9RZWNlMzMtNzY2dWFuQ1J6dzIyajhmS005MkhJQ3BXUG5VSDRwWlQ4MlFOdWk1YXowVzQ1OGNmdzFqbmZKazlGQkhHOGw3YnFRaHpUck9ZODVFTEdYWkZSVi1OTGJVUmRrR0dxcWFCakozNDRpdk5fT2JDQW5IamRENmU4SnJYZHp3d0M3ZVlIV3RWUFU2dENQVEhTVzVOekF3RVd5RC13QXZaM3d1Nl9FQndNb202Z0VzUU1Jdjh2VUJMSHdFNHNQbElkWWJIeGpvMzBaYnlBVlhNNHlfRk5tRGFFOEhR0gGXAkFVX3lxTE1hRkdWRklBbkctWERfUm9aUjVRbGVNQXBOVnFBdzNLaWtFWGhUMlJkeVM3Uklmc0dlck02YUFXc01mWGVmOU9kZ2FweFZYN1NISWVxajludWZjY0Q5UUxoYmtHd3FuLUxqMG9HeFFtRWJwNWpmN0g2c0h6RUFDWEFjQkVLd0QwMU9WdkFock85WWFhTDVmQWw4ZnM1bFF5X0FlWU1MSnpULWNScFRCUlc0UEtjYmRYM1E0VWVDOGdkUmIybzEtQlZpVE1YOHJmalNBTWRUbVdQdENBSDV5eEgtMWl2SUhFNm1Qa0xXWVE2OWUteGlBVGQ0enZyMDFMcV8zWXVBYmxSdWxhYlNyUl95cUUxaldDdw?oc=5
+- Myanmar tells India: No Chinese on Coco Islands | Latest News India - Hindustan Times
+  Myanmar tells India: No Chinese on Coco Islands.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
 
-- Tamil Nadu company says it has developed water-to-hydrogen technology - The Hindu
-  Tamil Nadu company says it has developed
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOExmMGtCSEtTbEZRLXpabTloMnlaNHVoRFFaUDE2OGhJT2N3VWpoZVhOT0R2bzhMVV9VMUhHSW8zaGZEN3lISDNrMUdFS3VMWnEzVV9IU3RmNVJtNVRzanRTdTM4SXAzaF9lOGRENWtnVmI2TnFfMlN2QjFxaklOcmNvMU9qX1NBQ3ppbUh0eEZmX3FyV09EWmZDYTN0TWppLXhJRmdWZ3RlYTVEdUt0SmdlRHQ2aVFVMlM4emVB?oc=5
+- CM outlines agenda for GBA at inaugural meet | Latest News India - Hindustan Times
+  CM outlines agenda for GBA at inaugural meet.
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemNJazBhdkptQ0FlQ1djZ3hOY0ZHUWdTeGlJc01iLWV6T05DWFJlV0J5OWhyWGhFTnd6M1JBSzhJYmFhNjFVVlZMSW1aWldTcm1oLWdzaUVBczN6RUVqaldPZnVJZ1hkVGc5RlFJQkk0dTVtX3BzbmFRMzduUXNBQzA2ZmRhNzBQVzR5QTNjeUotMldoNHctdGF1LUYxS3dPSk51ek5rNEx2bjjSAbABQVVfeXFMTkxiQWN5d21BT0FxV2tOWjBsVVRLSnJ4Wl9fQ05Kek9PM1FSNWVCbFpSZUN6NHF3YTc5LVFUcFFxTW56RE1hN0FpMWlfNFV0eGJCalBlalE5R2I2WEZ5aTBSelFzMTI3LWFvV21uUV91Q2pFM0h0cjd4aTFxdjBmMUJPY0pkU0s3SnJLbzZyTnBlbTdvOXpTRnRkdFZycldhX2pKS3JQc3JaWXZYckJ1LUM?oc=5
 
-- AI disruption reshaping jobs in Indias USD 245 bn technology, CX sectors - Mint
-  AI disruption reshaping jobs in Indias USD 245
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYmFOblFpMEp0LVVwalAxQ0plSlJGQUc1bmpXZlJxSHVkS0FRLTd3Z0dydWltaFc1ajRQczRlLWpNWVRJdU0zYjhPQVprZzZfbjdLeDk4WmItNUpHcHA2WTRFak8wb0h0Z2JOVVlkRjkwNkRRbzhXMHp1bjltbUJaeG1aQWNCVGh3VGZfR3JtSzNuYUpCSVZxUUhlb3c1dFg4RjBNdERuOFdaTFM4VTRmS2RZeGY4YUhucHRzbzl2WkstMzMwWlJCcnRPOF95bFRUUWMw0gHYAUFVX3lxTE9ZY3IzSjJMdFN6RzJHamF3eUpiV1o4N0tNRFI0b3h4THZLQUo2b09uMEZ2VWN4aW5sWGNlYnpEWHN1VGlLZE9nM3dZZk0wbEtrTkprMGZCelk2VTRKbmFBM0JkakVxVFo3M1ppMHdNMGhWdGZmdmR1WmdmWFpXUFpQaHJoWUhsNkVSRWJXblZzMnpIYkRpSnE4eHg2STR3NFA0a2l4dXg3cVdNQlJldWcwRzZUN2lHREhYM3FFc3FINkhpSlJzV0gxRjJheERicHRwMDRGMEU3Sw?oc=5
+- Min plays down meeting amid cabinet rejig buzz | Latest News India - Hindustan Times
+  Min plays down meeting amid cabinet rejig buzz.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlk4ckZ2clptUXEzNFhWek5wV1ZONUpaQjUzbG9mN2Fqa0RoV1NVUmFmZlA0ZWFUUTFuRmZEOHEtRElBRlFuNzRWMmFNcU9vbUsxY002S1VGWEtDc1hHVDlScHJtTll5bmxNYTlWQVlXV21kdkZGRHR4ZFN5WHZfYzRJRlNHR2U5TXNpZVlOdzl2X1lrWlA4QVRuWHJhemIyZFVjWjAwVHRxRnpoalHSAbMBQVVfeXFMTjFQa0hWUGFzNzlMVWJJMzlpWGNYb21mXzRVdk5URWpCZWJfNjZxbkYzMmJWUUwtN2pyVU9aTC1Gb0xSOFhHdW5QX3NkLTAzYVVQcDFCeUJFTzNWb2p6SzBzZU9RR2lhRXQ0Ym92Zjg2S0pRVHJ0VndSWDdHU0tWNVN6ZjNua1hmOTZNdHFfWFpzMlJpWjlNTzBmUnJteS1XQVZGbVNhcGNlZW9QNTcwRjBkOFE?oc=5
 
-- Today’s AI hype has echoes of a devastating technology boom and bust 100 years ago - The Conversation
-  Today’s AI hype has echoes of a devastating technology boom and
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPa2ZNblFlZjQwb3JTV0lXNG13UXRMeG84Q2g3VVpIcTNhODRzeVRvRHBHTWptZmNaa2VwWDRoSDhPdmMxY1VDbUlmdDRVcVM0c1l6eW9WcTBLTTJ5eGZKMHFPYzRfaTd4NkZMV2s4U1RJemkxNFNRaW1vcXNXTUFDd1VVVnNPdUw2ZHRsOHU3aXhjYlFyU1dOaGFJLWZDQ29lc2l3bnJjZFRyZEdmdUJPTDV6VXRWRkU?oc=5
+- BJP slams shift to BPL Indira food kit | Latest News India - Hindustan Times
+  BJP slams shift to BPL Indira food kit
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUJ6eDZrWHZYRUJsT0paYzVrSmIxTTV3S3dRdGVUUC1ERzFyMXVSdjY4M2xGZ3pqVUh3RTlZVWg1bThSUkNvSTFZdVJqNFlFWDA3Tnp0cW1yMGVGb1l6dUlsWGlzWkgxN0RCUG5Rbnh0WUhrZjdTaVRwSGpWdmxzNlo1aTZxNWc4TDk1N192YlM0bm1CTXhYOXlOQTlnTkQ2c2Q40gGoAUFVX3lxTE80R1ZqZGVYc1RfMmRMd05fTk1TQXp0WG9SYkUzMy15eS1TYU00ZVVvbC1mbDFCUjcxZFllS1hneDVMUE9CTWtiMHNJOXFhMmk5c2JZcmdVTWtWZUR2OHJpZDZOMExDTHpLbC01NkFhSFRIX1g2anNUejZiUnVQb3dPVk4yRExyZ3JSUWlaVnBpb2ttNUFfZ1Aya0lzQ2N4V1RFanZxOHJqeQ?oc=5
+
+- Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMj
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMjNSZEE0cmpqaC1HazdXS1paQWVQdGg2VXIzT2g1MVA2ZUI4d3ZmMmg2dVgtSzM0VFdFcUtqTk1rVHc2NEFIZ0VVR2_SAbMBQVVfeXFMT0dfajJ2RjE2UFlmY3UzY3NyUTlidDR3SXNvRzB3TUQ3VS14R1pPNmxLYWlpRU1TdmZFNXBTckE5ZWoyRFJkQjdEaGJQOXRQX2RSRlRDOUxmdUh0VUFVbGQ4bDl2WkhGdTdMSkthb2xmaE9IMUNMTldBVkp2OWlmS3lSVlhNWXVVWVJpMlZZNU5LWW1TMjJJakdoVEtwWlphSHJFa2RUZ0U4X2prbzVVdjhkWkE?oc=5
+
+- Myanmar tells India: No Chinese on Coco Islands | Latest News India - Hindustan Times
+  Myanmar tells India: No Chinese on Coco Islands.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
+
+- CM outlines agenda for GBA at inaugural meet | Latest News India - Hindustan Times
+  CM outlines agenda for GBA at inaugural meet.
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemNJazBhdkptQ0FlQ1djZ3hOY0ZHUWdTeGlJc01iLWV6T05DWFJlV0J5OWhyWGhFTnd6M1JBSzhJYmFhNjFVVlZMSW1aWldTcm1oLWdzaUVBczN6RUVqaldPZnVJZ1hkVGc5RlFJQkk0dTVtX3BzbmFRMzduUXNBQzA2ZmRhNzBQVzR5QTNjeUotMldoNHctdGF1LUYxS3dPSk51ek5rNEx2bjjSAbABQVVfeXFMTkxiQWN5d21BT0FxV2tOWjBsVVRLSnJ4Wl9fQ05Kek9PM1FSNWVCbFpSZUN6NHF3YTc5LVFUcFFxTW56RE1hN0FpMWlfNFV0eGJCalBlalE5R2I2WEZ5aTBSelFzMTI3LWFvV21uUV91Q2pFM0h0cjd4aTFxdjBmMUJPY0pkU0s3SnJLbzZyTnBlbTdvOXpTRnRkdFZycldhX2pKS3JQc3JaWXZYckJ1LUM?oc=5
+
+- Min plays down meeting amid cabinet rejig buzz | Latest News India - Hindustan Times
+  Min plays down meeting amid cabinet rejig buzz.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlk4ckZ2clptUXEzNFhWek5wV1ZONUpaQjUzbG9mN2Fqa0RoV1NVUmFmZlA0ZWFUUTFuRmZEOHEtRElBRlFuNzRWMmFNcU9vbUsxY002S1VGWEtDc1hHVDlScHJtTll5bmxNYTlWQVlXV21kdkZGRHR4ZFN5WHZfYzRJRlNHR2U5TXNpZVlOdzl2X1lrWlA4QVRuWHJhemIyZFVjWjAwVHRxRnpoalHSAbMBQVVfeXFMTjFQa0hWUGFzNzlMVWJJMzlpWGNYb21mXzRVdk5URWpCZWJfNjZxbkYzMmJWUUwtN2pyVU9aTC1Gb0xSOFhHdW5QX3NkLTAzYVVQcDFCeUJFTzNWb2p6SzBzZU9RR2lhRXQ0Ym92Zjg2S0pRVHJ0VndSWDdHU0tWNVN6ZjNua1hmOTZNdHFfWFpzMlJpWjlNTzBmUnJteS1XQVZGbVNhcGNlZW9QNTcwRjBkOFE?oc=5
+
+- BJP slams shift to BPL Indira food kit | Latest News India - Hindustan Times
+  BJP slams shift to BPL Indira food kit
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUJ6eDZrWHZYRUJsT0paYzVrSmIxTTV3S3dRdGVUUC1ERzFyMXVSdjY4M2xGZ3pqVUh3RTlZVWg1bThSUkNvSTFZdVJqNFlFWDA3Tnp0cW1yMGVGb1l6dUlsWGlzWkgxN0RCUG5Rbnh0WUhrZjdTaVRwSGpWdmxzNlo1aTZxNWc4TDk1N192YlM0bm1CTXhYOXlOQTlnTkQ2c2Q40gGoAUFVX3lxTE80R1ZqZGVYc1RfMmRMd05fTk1TQXp0WG9SYkUzMy15eS1TYU00ZVVvbC1mbDFCUjcxZFllS1hneDVMUE9CTWtiMHNJOXFhMmk5c2JZcmdVTWtWZUR2OHJpZDZOMExDTHpLbC01NkFhSFRIX1g2anNUejZiUnVQb3dPVk4yRExyZ3JSUWlaVnBpb2ttNUFfZ1Aya0lzQ2N4V1RFanZxOHJqeQ?oc=5
+
+- Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMj
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMjNSZEE0cmpqaC1HazdXS1paQWVQdGg2VXIzT2g1MVA2ZUI4d3ZmMmg2dVgtSzM0VFdFcUtqTk1rVHc2NEFIZ0VVR2_SAbMBQVVfeXFMT0dfajJ2RjE2UFlmY3UzY3NyUTlidDR3SXNvRzB3TUQ3VS14R1pPNmxLYWlpRU1TdmZFNXBTckE5ZWoyRFJkQjdEaGJQOXRQX2RSRlRDOUxmdUh0VUFVbGQ4bDl2WkhGdTdMSkthb2xmaE9IMUNMTldBVkp2OWlmS3lSVlhNWXVVWVJpMlZZNU5LWW1TMjJJakdoVEtwWlphSHJFa2RUZ0U4X2prbzVVdjhkWkE?oc=5
+
+- Myanmar tells India: No Chinese on Coco Islands | Latest News India - Hindustan Times
+  Myanmar tells India: No Chinese on Coco Islands.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
+
+- CM outlines agenda for GBA at inaugural meet | Latest News India - Hindustan Times
+  CM outlines agenda for GBA at inaugural meet.
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemNJazBhdkptQ0FlQ1djZ3hOY0ZHUWdTeGlJc01iLWV6T05DWFJlV0J5OWhyWGhFTnd6M1JBSzhJYmFhNjFVVlZMSW1aWldTcm1oLWdzaUVBczN6RUVqaldPZnVJZ1hkVGc5RlFJQkk0dTVtX3BzbmFRMzduUXNBQzA2ZmRhNzBQVzR5QTNjeUotMldoNHctdGF1LUYxS3dPSk51ek5rNEx2bjjSAbABQVVfeXFMTkxiQWN5d21BT0FxV2tOWjBsVVRLSnJ4Wl9fQ05Kek9PM1FSNWVCbFpSZUN6NHF3YTc5LVFUcFFxTW56RE1hN0FpMWlfNFV0eGJCalBlalE5R2I2WEZ5aTBSelFzMTI3LWFvV21uUV91Q2pFM0h0cjd4aTFxdjBmMUJPY0pkU0s3SnJLbzZyTnBlbTdvOXpTRnRkdFZycldhX2pKS3JQc3JaWXZYckJ1LUM?oc=5
+
+- Min plays down meeting amid cabinet rejig buzz | Latest News India - Hindustan Times
+  Min plays down meeting amid cabinet rejig buzz.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlk4ckZ2clptUXEzNFhWek5wV1ZONUpaQjUzbG9mN2Fqa0RoV1NVUmFmZlA0ZWFUUTFuRmZEOHEtRElBRlFuNzRWMmFNcU9vbUsxY002S1VGWEtDc1hHVDlScHJtTll5bmxNYTlWQVlXV21kdkZGRHR4ZFN5WHZfYzRJRlNHR2U5TXNpZVlOdzl2X1lrWlA4QVRuWHJhemIyZFVjWjAwVHRxRnpoalHSAbMBQVVfeXFMTjFQa0hWUGFzNzlMVWJJMzlpWGNYb21mXzRVdk5URWpCZWJfNjZxbkYzMmJWUUwtN2pyVU9aTC1Gb0xSOFhHdW5QX3NkLTAzYVVQcDFCeUJFTzNWb2p6SzBzZU9RR2lhRXQ0Ym92Zjg2S0pRVHJ0VndSWDdHU0tWNVN6ZjNua1hmOTZNdHFfWFpzMlJpWjlNTzBmUnJteS1XQVZGbVNhcGNlZW9QNTcwRjBkOFE?oc=5
+
+- BJP slams shift to BPL Indira food kit | Latest News India - Hindustan Times
+  BJP slams shift to BPL Indira food kit
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUJ6eDZrWHZYRUJsT0paYzVrSmIxTTV3S3dRdGVUUC1ERzFyMXVSdjY4M2xGZ3pqVUh3RTlZVWg1bThSUkNvSTFZdVJqNFlFWDA3Tnp0cW1yMGVGb1l6dUlsWGlzWkgxN0RCUG5Rbnh0WUhrZjdTaVRwSGpWdmxzNlo1aTZxNWc4TDk1N192YlM0bm1CTXhYOXlOQTlnTkQ2c2Q40gGoAUFVX3lxTE80R1ZqZGVYc1RfMmRMd05fTk1TQXp0WG9SYkUzMy15eS1TYU00ZVVvbC1mbDFCUjcxZFllS1hneDVMUE9CTWtiMHNJOXFhMmk5c2JZcmdVTWtWZUR2OHJpZDZOMExDTHpLbC01NkFhSFRIX1g2anNUejZiUnVQb3dPVk4yRExyZ3JSUWlaVnBpb2ttNUFfZ1Aya0lzQ2N4V1RFanZxOHJqeQ?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-10 18:25:17 UTC_
+_Last updated: 2025-10-11 01:08:07 UTC_
