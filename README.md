@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Op Blue Star was the wrong way… Indira Gandhi paid with her life for the mistake: Chidambaram
+- 44% dip in Indian student arrivals in US over last year, sharpest since Covid
   
-  🔗 https://indianexpress.com/article/india/op-blue-star-was-the-wrong-way-indira-gandhi-paid-with-her-life-for-the-mistake-chidambaram-10301634/
+  🔗 https://indianexpress.com/article/india/44-dip-in-indian-student-arrivals-in-us-over-last-year-sharpest-since-covid-10301774/
 
-- ‘Look forward to harness AI for growth’: PM Modi meets Anthropic CEO, welcomes firm’s India expansion
+- From the Volga banks, a Russian republic calls India: Boost trade & ties
   
-  🔗 https://indianexpress.com/article/india/ai-growth-pm-modi-anthropic-ceo-india-10301623/
+  🔗 https://indianexpress.com/article/india/from-the-volga-banks-a-russian-republic-calls-india-boost-trade-ties-10301773/
 
-- Woman, four children found dead in suspected suicide case in Rajasthan’s Sikar
+- ‘Incredible’ meet with PM Modi, ‘optimistic’ about days ahead, says new US envoy
   
-  🔗 https://indianexpress.com/article/india/woman-four-children-dead-suicide-rajasthan-sikar-10301581/
+  🔗 https://indianexpress.com/article/india/incredible-meet-with-pm-modi-optimistic-about-days-ahead-says-new-us-envoy-10301767/
 
-- Dhalai, Khowai districts to become self-sufficient in foodgrain production: Tripura Agriculture Minister R L Nath
+- Taliban team kept women out, Embassy premises gave shield
   
-  🔗 https://indianexpress.com/article/india/dhalai-khowai-districts-to-become-self-sufficient-in-foodgrain-production-tripura-agriculture-minister-r-l-nath-10301578/
+  🔗 https://indianexpress.com/article/india/taliban-team-kept-women-out-embassy-premises-gave-shield-10301765/
 
-- Amid tense tariff talks, PM Modi meets US ambassador-designate to India
+- Uttarakhand paper leak: Exam ‘null’, retest in 3 months
   
-  🔗 https://indianexpress.com/article/india/sergio-gor-us-ambassador-designate-india-meets-pm-modi-10301440/
+  🔗 https://indianexpress.com/article/india/uttarakhand-paper-leak-exam-null-retest-in-3-months-10301837/
 
 - OpenAI’s ChatGPT might introduce ‘Clinician Mode’ for healthcare and voice interaction features
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/science/what-are-ghost-flowers-monotropa-uniflora-10298723/
 
+- The World’s Chip Supply Chain Is Bracing for Fallout From China’s Rare-Earth Curbs
+  Businesses across the global semiconductor supply chain are bracing themselves for disruptions from an escalating trade war. China imposed curbs on rare-earth mineral exports and the US responded with
+  🔗 https://www.livemint.com/companies/news/the-world-s-chip-supply-chain-is-bracing-for-fallout-from-china-s-rare-earth-curbs-11760228665532.html
+
 - DMart Q2 results: Profit growth muted even as older stores revive, costs stay high
   The retailer ceased operations of its e-commerce service, DMart Ready, in
   🔗 https://www.livemint.com/companies/dmart-q2-results-avenue-supermarts-q2-fy26-results-dmart-quarterly-earnings-11760186433591.html
@@ -56,9 +60,13 @@
   The second meeting of the National Anti-Smuggling Coordination Centre (S-CORD) was held on October 10, 2025, at the
   🔗 https://www.livemint.com/companies/news/scord-holds-second-meeting-to-strengthen-indias-fight-against-smuggling-11760182411037.html
 
-- Mahindra Lifespaces acquires land in Pune for  ₹3,500 crore development
-  The site is strategically located, offering quick access to Hinjewadi. It is surrounded by well-developed social infrastructure, including educational institutes such
-  🔗 https://www.livemint.com/companies/news/mahindra-lifespaces-acquires-land-in-pune-for-rs-3-500-crore-development-11760176087802.html
+- Crypto’s Record Selloff Sparks Intrigue Over Who Got Wiped Out
+  The day after crypto experienced its biggest one-day selloff, everyone in the industry was trying
+  🔗 https://www.livemint.com/market/cryptocurrency/cryptos-record-selloff-sparks-intrigue-over-who-got-wiped-out-11760215320114.html
+
+- Stock Bubble Dread Grips Central Bankers in Washington
+  Central bankers will confront a new worry in the coming week: the danger of a market crash.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-bubble-dread-grips-central-bankers-in-washington-11760214228770.html
 
 - Upcoming IPO: Om Power Transmission files DRHP with SEBI to raise funds through issuance of public issue
   Om Power Transmission Limited has filed for an IPO to raise funds. The company specializes in power transmission infrastructure and aims to fund capital expenditures and working capital needs.
@@ -71,14 +79,6 @@
 - Investors keep pumping money into private credit, despite red flags
   Dividends are being cut
   🔗 https://www.livemint.com/market/investors-keep-pumping-money-into-private-credit-despite-red-flags-11760186764532.html
-
-- 2900% rally in five years! Multibagger stock to be in focus on Monday; here's why
-  Madhya Bharat Agro Products Limited is in focus after announcing a 120% YoY increase in net profit. The company also recorded significant revenue growth and
-  🔗 https://www.livemint.com/market/stock-market-news/2900-rally-in-five-years-multibagger-stock-to-be-in-focus-on-monday-heres-why-11760173660462.html
-
-- DMart Q2 results: Avenue Supermarts net profit rises 4% YoY to  ₹685 crore, revenue surges 15%. Check details
-  Avenue Supermarts reported a 3.9% increase in net profits for Q2
-  🔗 https://www.livemint.com/market/stock-market-news/dmart-q2-results-avenue-supermarts-net-profit-rises-4-yoy-to-rs-685-crore-check-details-11760182464626.html
 
 - Amazon Diwali bonanza: Top 5 deals on flagship mobiles you should not miss - iPhone 16, OnePlus 13 &amp; more
   Amazon’s Great Indian Festival sale offers top flagship smartphones at discounted prices. Deals include Samsung Galaxy S24 Ultra, iPhone 15, OnePlus 13, and more.
@@ -100,26 +100,6 @@
   Elon Musk criticised OpenAI on Oct 11, calling it “built on a lie,” after retweeting ex-board member Helen Toner’s post highlighting dishonesty
   🔗 https://www.livemint.com/technology/tech-news/elon-musk-slams-openai-again-built-on-a-lie-they-stole-a-charity-over-non-profit-status-11760161283167.html
 
-- Stock Market News, Oct. 10, 2025: Trump to Impose 100% Tariff on China; Nasdaq Falls 3.6% - The Wall Street Journal
-  The Wall Street Journal published a story on Oct. 10, 2025: Trump to Im
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOempSWUpSUkZPaURxTURXOTBDUDBRenVtenlYTEctSUt1a0Z3bUMzRDBKcXZ3MWQxbjJwOTF0Rk8xX1FhaVN6S3lPTEF5YlZiV3RHWDVHX3NyWXJtZTc1VVNCY3VBbTI3bmdXaXVrZHVTb3pYcWx0NGZGdDFqdXZmeWRsSE93dUk?oc=5
-
-- Dow drops almost 900 points, S&P 500 declines the most since April after Trump's new China tariff threat - CNBC
-  Dow drops almost 900 points, S&amp;P 500 declines the most
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAtclc4S0oxd25QeGpmTXJ3MmlZT0ExRGJsUV9HYTNta01fc29MZkliZUdPSjJTVGJOMHZYQlVsR05ma3l5bzdYbDk3RVh4OVhMcDFjd2xFeGI4RVdMM0h1bElzNEJ6M3J3U0VISEVZTWFqUlVZanVj0gF8QVVfeXFMUFI5VVVKeHFIaTlmRXNpd0pweVVIWnpYUFhBSHlURHJfOFNKa0tBSzc0R1QtV0VKUlhXX2xJRzRZQjNGcXFSRzQwMFN1RFJDMWZJNk95TnlpY1FvU3pFdkhsck92M3JWNDM0SWhxVXZJLUloYlc3eVBIN2VKWA?oc=5
-
-- As US and China play game of trade chicken, bloodbath in the markets - Times of India
-  &nbsp;&ngt;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaFF6ZlNfTkxUVjRmcnlNbVFZcHcwN2JLdDZMZ3M0NXcyWjlSTlVpcy0zTVJwMVFQWjhPam9Fb094c2VrSkktWXVpZkFFN0xMeHV1OVBWS0lPS0JaQkw3Z29QbTB0U2FGbTRGQTJ3TWRNMUZldVgyOWRxVGVISkYtZkJwVk9MNktTekJTbFVDSk9jUzB4MHBrZU05aW9JbWVpU0pxT2pfcW5aaFh2ODE3WDc5TWxwVHhKWWZzc2hicGFzMEh6dTd2Smt2RVB4M2pONERwdml2Q01sanlYM1plcXY5LUFUQVJxMXo5b0xLNFZnU1XSAfgBQVVfeXFMUGJDNE8tUVA0dEpHVnl2c1VCOUthMEEzNExRanhhaUs2WkdSOXlDLVQ2SEdIblVOMTZrYnZpeGJlVzh0dElNZ1JHMVAzdFJPU1dHemlpa3owRnNDLUloM1VPTjhOTTB6UkpfVnJ6alpVUnpETUNWOGI1NDJpQmVaNWdKRHdiMmk1bDlIaVBWSDZoQy00S1RRU1ZkWTREcWlSV181ek9Gc3M4NHU2Ty1FVkFGVWxpSko1RDFkdThPWjM4ODdWSFI2Y0RWTk1SR2ppWDB4d3FvOS02UXJBQTFaUHpkajQxUE1UZkt0U01NNFlZamdDeFdLMzg?oc=5
-
-- US Stock Market Crash: Why is the US stock market down today? Dow, S&P, Nasdaq plunge as Trump warns of “M - The Economic Times
-  US Stock Market: Why is the US stock market down today? Dow, S&P, Nasdaq
-  🔗 https://news.google.com/rss/articles/CBMingNBVV95cUxNNzdfMTVoVS1fYS1JakNBckc2Sm03eDhrSEhwWUxtbG9OQmkzQkJpRXJmdHRaTUN0SUkzVXBfbDcxNjJkRF9sZ0F2eEtUZng3QThERGxiNGE0cHY2UGtnTVVQT1hfY21sUENDREU2bmswUUpmZzNkYWFqMnB4MDlnVFR1U0RhYW5tbFpKUkpGSzdyZUJpSUNVa3lCTjh4WEhRbnRoU0JlMk52SkVCek5QMGM4VXNuR3RVTFBwV3B6T0NXVzJJbDRUU2p2eXZYdE5nZkdjVER5Rk55aHhxNmlOaXBVUnBtVE8xelRjWHFfR1dybHowUHNoazlreW4tSnV3NGFwOTdPYVVhR01XV25VOGxIUFJ2YnpqR3RDQWFMaHNYbkFfU085SnV4UWtISml5NVNLOFppaDU2NFpfY052SzgtMk1jdHRYVHJKUExGaS02cVk3dXVPYzFsRFkwMEtTR3o2REhlLUJMY1VmM3ZyUTFHNHhKRllMeUZuSFdndmVOa3VHejlRaGwwYkcwRVdRbENMOUZERUJjWXhYaWfSAaMDQVVfeXFMTkh6WEJ6U0NwSFFZejhDd3AtdnN1M0JUOFM4X0xMeThWcnpOUF91WUxlX0I2RnEwdUN3Tlowa2FhRUJ3ck1RcUJfdHp6ZGxQelQzMXpQOG5NeHdsc0FJLTJ2X2JWTkxCNWdCV2VBVS1SVDEyeERvTXo5aGxPX2E5dnlZQXlGWXo3N2lGOGFFTnpGanFmMGpRTTFJWnVMYmJNOWxEbWhzaXBTVFZDaXdXbFpaQjlQS3RWZWV1Q21tN0tXNG9GSFpCOUozWkxZa1lDVHBqTG9RZnYwTzNsbEw3YURDbmp3a0wza0d1V25IazdTY2QtakxaTnZ3THRkV2NFMFkyRE5ZbkwzVFlZX1RXaHNxdi1XdVJyNTQwQ09waVNVSnA4RElIVFFNVEVuaFlNTkwxQ2RQNmNWZThaYVZBVzlxZUNJVHMtVGFTNEpDeEdpbXdDMVJveHpuU0YxajdmTUJ6ZTdfWEdZUDlqVGJNbWh3NTVNcmJmVzZjRmZ0Uy1JRmN0VGp3RU9TZlZMaUxKRmc2LXoya0VpTmQtTXlORnUzYzQ?oc=5
-
-- Markets expect Trump's latest China tariffs will backfire as gold jumps and the dollar 'is not looking looking healthy' - Fortune
-  Markets expect Trump's latest China tariffs will backfire as gold jumps and the dollar
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ19kdklibFJjZTQ4X0l6Y0dPZzExZGlZTlYxaFRCbTV0cURkVFJ6NUkwMjRaMllaU0VSYl9fMFNYS0NQMmt5clVDOHRvRWpfYy11NzE0YUdEdzZQNlRwdi16aVBadXZJaml4YkFDWFYtblZ2VFZvZGQ0TUpEREsyMHFyaF9pU2RIVGR3bm5Vc3paT3gxczFhbQ?oc=5
-
 - DMart Q2 Results | Profit up, Margins down | 8 new stores added in Q2FY26
   
   🔗 https://economictimes.indiatimes.com/markets/stocks/dmart-q2-results-profit-up-margins-down-8-new-stores-added-in-q2fy26/videoshow/124479257.cms
@@ -140,85 +120,85 @@
    Axis Direct’s Diwali 2025 Mahurat Picks highlight nine stocks across sectors with upside potential of 15–
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/diwali-2025-picks-axis-picks-9-stocks-that-could-deliver-returns-up-to-23-check-full-list/slideshow/124475208.cms
 
-- Why UP's Deoband Was On Taliban Foreign Minister's India Itinerary - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYX
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYXBDVFlIbDFOOFRaTWVvMHNhYXE0enJ5SXNWSUp4YUxUbnV0c1FZWGRCS1JqcWt1alBuY3djZ3VoRTNQeDJzeEl4MkZHTVQxcnNha9IBuwFBVV95cUxQTUR3NnRXTUhZUHRUN1JadDZmTGxUOE1Sd1UxTHRNaEd0aE1vVWFUSEFRS1d4LThmMHkycG0teXdtNDU4VEpmUFpGX0ktS0d1c0h4bFJYMzhvX3Bib1poT0FSbVA5ZHE3NmpLbG9YaTdZLXhuVUNjNTIyeVRIS1M0NkQyaERsaGVlcTVUci1vVDVzLWMyRGcwbUExV0g0a2dtSVROcTJiVzZ6MEdaN0l0bkh0SkJBQkFuUGRF?oc=5
+- Trump’s 100% tariffs on China: For India, the message is clear - No deal with US is ever final, says GTRI - Times of India
+  For India, the message is clear - No deal with US is ever final, says GTRI.
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxPc0RVRlVOc2lpVGRHUzMxeE5SNTdmdWFVc0huT2xLN0d5a3NiNlhjTG9FYkxaa2x0eEFvUlZQVHgxejRYMFdXRThtSXVKUWM3N3B1MTMyX3JyQzBKTlc2MjZEMURrTlN5UzNXZWxDRzJyc0lWbF9xcWF2a3JoUE85eG1ORkVUYTJiQm16U0ZqOUgwTzVwOGMyVWVJZEthUU5oNS1UMDNlN2dSa01QUFFKQ3pYaDJRQ0VfZ1BYVWhiMTBhZzdSTEpTVzFSMV9HWnowa2RWYWc1NG5tZDktWTR4WDlnbkhvaklMamR3Yk5VLThTbTd0SDZKSEhoSHJ4VXpqTndfTEJYREZOaWo0RUFDOERB0gGXAkFVX3lxTE5ORWJHRFhUMG8xS19DU2x3Uk9LakdjVy1vX1dOWjRXTnlpT2N6MFFVOVJHWllQeXRzdkJDQ2FYWE1DcjdPTW5GMXhXZHB2Q1B0RktwSE1uY0JYZ3lLSXl1MWtRZnhtZkFwamxQWll2NzRxMWxrSEhTa3VKTElqY1pKWG5iYlEwSFFKWGN4Vzl6UWVnanBmbWpWUkRyNmRNX0YxVG5TNlRWSWRKdUVuMjBBLUZ2OFhwOUtZcExqSFpyZ2RoazJJVmtQMmFTcmtvODVHdlZaSlRqZlBHZGlTY2pMNHlpODQ4RmJEVklGWDNSa0k0ZzBrYWVmcGV4cWRzbVZNRUhYdHFXTWFKeEpZbTFpSlBqNU1LVQ?oc=5
 
-- Myanmar tells India: No Chinese on Coco Islands | Latest News India - Hindustan Times
-  Myanmar tells India: No Chinese on Coco Islands.
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
+- Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMjNSZEE0cmpqaC1HazdXS1paQWVQdGg2VXIzT2g1MVA2ZUI4d3ZmMmg2dVgtSzM0VFdFcUtqTk1rVHc2NEFIZ0VVR2_SAbMBQVVfeXFMT0dfajJ2RjE2UFlmY3UzY3NyUTlidDR3SXNvRzB3TUQ3VS14R1pPNmxLYWlpRU1TdmZFNXBTckE5ZWoyRFJkQjdEaGJQOXRQX2RSRlRDOUxmdUh0VUFVbGQ4bDl2WkhGdTdMSkthb2xmaE9IMUNMTldBVkp2OWlmS3lSVlhNWXVVWVJpMlZZNU5LWW1TMjJJakdoVEtwWlphSHJFa2RUZ0U4X2prbzVVdjhkWkE?oc=5
 
-- Military History Seminar honours valour of Indian Armed Forces - Times of India
-  Military History Seminar honours valour of
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYXl1dlkwT0VHcHVxRFZ2M0NsMkdwczV5M3FzOFpjX3RuTDJmamFMdk9NdzVXVU9FV0dlS05pNlo0bmxIMFUxeXVUeFZDckExYXltX3k3R2ZUQjhHUng2Q2pmX1FpSmZnaUVZUkgwT3V5SDFkNW1VSFNqZmJmbDNVcE1RaFZabWRyT2RVQ0hkRU9qRjJMS0VhcTNsSm1lUl9oalZnVS05VTQ5QXdwYV9qX1ZCczh1Y3NFbWRoSUJnclNjM2pGSlpkRmpLTGp2YXhZalRHLdIB2gFBVV95cUxPVHYzWFV5R1pMX01kZWFuajJlQ1RyNjNiQ0pNNmwzWm9DVGdLQWo4U3dCZUFkUXlVYWxhbXFoRXR5Mk1XVWJvNkNuLVNlX0stSlZSdXVQVVB4eXlVWE1EOVRISFFVV2FFc1VaR2JmZjZDY2V4ejdBWHl3NTlvNENzMlRXdVdfaHk5NWNzSEpKTkl2MzJhcC0xeHNQQXN0UXRZU0JqY1BlaXlVY1AzYnRXZkNCd1R2S0U4b1l1OG15TUZVLW1KVFB5WEtYMTBHd3I3OUZIXzJzUHVXUQ?oc=5
+- Just before I left for New Delhi...: What Sergio Gor said on Trump-Modi ties amid tariffs | Latest News India - Hindustan Times
+  Just before I left for New Delhi...: What Sergio Gor said on Trump-Modi ties
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNamRlVU9lSy00NTktMjZQT0ZGaWJ0SWZhRmw5OF9NWU5jWHN2cWNRbkttV2JTeW92Z092ZHVqME1ZX1NxTmNoU2hLanBVbDZTRFl4eUkwd0prSXQ4SERTR3R1SFpLTnVuTEdsd053TldhakRuOXN1S3E5WGRBTldFTnNqT1BINzdEQ05oLVZXMVJZbXp4ZVZCSVVyQ25Cb19UZlU4OGFxQ0hrT19yLXd5LXRhbmMzZDlGM0xqRW5IcWJqOHBDdWxOVlQyZWdxNFlnLWpDRWN4NVJERDBpRnfSAeMBQVVfeXFMTXhMOVVZcUtDWTdaUi1xRTRwWVpfeXNsWFNYVFN4b2VkMHBEMmZMVUlPaUhGdGZsM3ptbVhnYXRlem9NLW9YTG1VMGpUVGpvU2Z0NlBTdEZHeF82dVJQV3QyYk5VelRoYXZ4bUJJVXJlb25tZWg2NHJXQzdiT1BWZ1M1ZXJobGZ6TGoxQlBQTDFLRDJiWWo4bEZCdUhnS1V6TnlMazNodlM5bUE2X01YckxFekpSWWtXUDZWZG1iR21zajdLNEpnZ3VRVjZEOFAwWm80MnE4U0hNWUNJSElyLV9URkk?oc=5
 
-- On Tejashwi Yadav's Turf, Prashant Kishor's "He Should Be Worried" Remark - NDTV
-  Tejashwi Yadav and Prash
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2g0dnB1Q1lwZV9uZXpHbkZOekc0bGEzbHBZdHBxYTE5aU93OXk4T3dmRE1EanRKUG1FbGlxdlB1Y1FPRkRNVy1zZHFkVlBEbUF3RFRQZ2RkVEV2THVGTENVYkdld0RiamVCUkFQdWh4VV9PMk1rTVluUzFGMTBYMzYzVUc5SVJjSFVES1J1LWlneGZhOS03RHZvREJBZUJaNlg0QUpsUkRWbFRLcW9Nb2pOM1FVdDdEM3FTejFNdF9zN1kxZkY4WFNPcGgzeDdvdHJFalBWZWFsX0xvQzhTenVZdnVmcGNp0gHwAUFVX3lxTFBCZHpZVFBzOTN2N2ZIempKeUdSOW1ZWUE1U2F5MXJWVDdidE5qTUpWSmljWng5ZnRuNlhGbFprZjlfUE1hckhPaktXUmlJZ0tCLXpHdHAyWGo4SjFELVF5UFVyUWlfcnVYVHRibEYxdmZzLTdWaHhHYXY1ZFRkZW5HMGtCbEtNS1h5VDhYSjFiOHBXbnlZQmRYc0c1N3FGVXFtMjJvcGhjYzc3d1ppNUk5Uzc0eEp2U1ZzZGlwYlhqdFY4b25IaTFvazJwa3NYLS1jbzlCdHgxUmt4WVFtNkFYeno3SkdXRFRQVkx0cDZnZQ?oc=5
+- 'Mr Prime Minister, you are great’: Does President Trump’s signed photo gift to PM Modi signal a thaw in India–US ties? - Mint
+  'Mr Prime Minister, you are great’: Does President Trump’s signed photo
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMUlJeXJnVFdMRjFIV2hwaHNLRklRcWYzaWZ2WnBXUGVGZHUyeWxxaTNnUVBGYnVDUVNzMnRBQ2pWb0hLSUhkNlRWV1FYandLZWNfeFZnb3R5bG5qcG45LWg5WVBDQmZCZXVJWlBJMzFNRFVyVXExUVpXMDBmcElHdDBmc0NoQTNyM2g5VW5TcGtzUnNMRno4NUZBWGlTSGRYZkdZQkVkaEZlTmFuNlRfNDhoR1o2SWpmelNuX0d3el84TFpfV3YxY0hCdF8wdWU5a0NXWHlEVVlrWUkxMkozQ1k4Z09IQ2xwaTVHeWx3TU50VW5RNmxKSkxCSmFVTUHSAYQCQVVfeXFMTXFIVkVWanIxZzRaZnhiaW9ieXpxd3NXbU5sWGRodzl0dWdjVWh4OWlYZTJhZjIyRkVBY1lmM2UxS0NlazB4emRrWkVXSzFfVjdRcTdtWTlhQ2hrcWVVREM1M3lZYUtvYmZhLU8zM3gxRW5haFY4czJwNHBNcmZZcFVENkkyUGFHZDM0eUpyNXd3REtHdkJKbkVIcUtlN25zck1vTG5FaXRFVERqLVA5UXhhLVFKeXRLLUt2eEdmVWpLbjNUWmdJOFFsdWJzRDZ0d3dWYVdJWWhCLVgzQ3RmRF9kVVhfSFEwYVdUdVJoM0FYQkZaaVRucWduQk5FelN5TTFiTXE?oc=5
 
-- Delhi's Air Quality Nears 'Poor' As Winter Chill Begins To Set In - NDTV
-  Delhi's Air Quality Nears 'Poor'
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExTWkZUZHUwaU9JOUdSZjJpazZIbXJzZktWaDdVWVliSEhVcFhKZkFWa0xGUDl1SmMzSVpWVi00NVo5LWJuOHpKNnMyT1I3cjJvV0kyQ3BJa2FhUGNwRE52WmlBT00yVGNPUHVuSVVwclNubk5jbUlsYTNnSm9xekkydU10eVl2bHRGSW9ZVTVwRDludjBkdEcxakZtdkEzeTVwRtIBrAFBVV95cUxPbngtRUplUnRqMDI2ck9wRnBEWE1CeEJXSUtNaGR4NXdCUEpQQjN0NTFWYVNwUFVDV3k4M3lWQXk5VHlKREVxcTVjNHpIcUE1SlJFTGREeTVjeUdvM2t0OHdGeXBMdUxLbVB1NWE4cWJyUng2Vy02Yks5NXBkc2N3d0lKZGk4U1NLdDlaMy1mR3lDOTJNLTJaUWQyYXUzZlF2ZXVXWU9qekxZYzJw?oc=5
+- 'I'll dismiss him in 3–6 balls': Pakistan fast bowler issues bold challenge to India's Abhishek Sharma - Times of India
+  'I'll dismiss him in 3–6 balls': Pakistan fast bowler issues
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNMXI4djR0X0p6VlhRR2pzeEliZE5vWVA1REJSSHllVnV0TEhVN3BOeDExbTBzQW9vb3lGc2JfSDZXU1dMX3Z5eXVMRi0wenRjTVZCTEU4Y2VhWUN2QXhRVGhOVjBMajU1amxLQUtrN3FfOVZfMzcydEFLcWctdVBDLVpqV0QtY0RBOFJnOUtBYmVueEVPNUs0UXhBazdmdW9haXhLUDN0aGwyc051bnNzTzltNkxKT2pZNFlxMTREU05ESEFOYngxSkh0b011ald6aFo1VjNaSjNGaDl5MWpTbVgtczROMndLbDBOd2pIeXA3LWJxcGhsaU5JbzVNWlI4aVBlMlFhbTQ3Z9IBjwJBVV95cUxNYll6ZHd1TmRVX1pDVlJxdWo0LUc3eHFIZGtVMUVjLVB5NUdaNlo2WTRoS1NfTTRGOGdCVHBsd1ZzZUxxVFFWZ0JCWVBHREQ5bWVoQnRKQzBLOTc0eUxacjRpUWVEeHp4RkxSM0FPVXl6Qnk0ekw1b05KRjRPLXpab2l4Q2NsU1pxbDFwcXlEd0VuWlgwTy00OEpMakI2RGdGSlFWbWxqYWZUazlsYUlOOW8ySXd4aTd4QVBsakR3YVhYMS1Fc0ZYUmwwNlZQalFodTVRMDY2OHBwaFdjbEFRZmdtUzZoOUgtUThoVzl2b0U2Q2h2ZW9FSzUyYjNCTGtWZm5DcVlfUnZZQWswTnZN?oc=5
 
-- Why UP's Deoband Was On Taliban Foreign Minister's India Itinerary - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYX
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYXBDVFlIbDFOOFRaTWVvMHNhYXE0enJ5SXNWSUp4YUxUbnV0c1FZWGRCS1JqcWt1alBuY3djZ3VoRTNQeDJzeEl4MkZHTVQxcnNha9IBuwFBVV95cUxQTUR3NnRXTUhZUHRUN1JadDZmTGxUOE1Sd1UxTHRNaEd0aE1vVWFUSEFRS1d4LThmMHkycG0teXdtNDU4VEpmUFpGX0ktS0d1c0h4bFJYMzhvX3Bib1poT0FSbVA5ZHE3NmpLbG9YaTdZLXhuVUNjNTIyeVRIS1M0NkQyaERsaGVlcTVUci1vVDVzLWMyRGcwbUExV0g0a2dtSVROcTJiVzZ6MEdaN0l0bkh0SkJBQkFuUGRF?oc=5
+- Trump’s 100% tariffs on China: For India, the message is clear - No deal with US is ever final, says GTRI - Times of India
+  For India, the message is clear - No deal with US is ever final, says GTRI.
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxPc0RVRlVOc2lpVGRHUzMxeE5SNTdmdWFVc0huT2xLN0d5a3NiNlhjTG9FYkxaa2x0eEFvUlZQVHgxejRYMFdXRThtSXVKUWM3N3B1MTMyX3JyQzBKTlc2MjZEMURrTlN5UzNXZWxDRzJyc0lWbF9xcWF2a3JoUE85eG1ORkVUYTJiQm16U0ZqOUgwTzVwOGMyVWVJZEthUU5oNS1UMDNlN2dSa01QUFFKQ3pYaDJRQ0VfZ1BYVWhiMTBhZzdSTEpTVzFSMV9HWnowa2RWYWc1NG5tZDktWTR4WDlnbkhvaklMamR3Yk5VLThTbTd0SDZKSEhoSHJ4VXpqTndfTEJYREZOaWo0RUFDOERB0gGXAkFVX3lxTE5ORWJHRFhUMG8xS19DU2x3Uk9LakdjVy1vX1dOWjRXTnlpT2N6MFFVOVJHWllQeXRzdkJDQ2FYWE1DcjdPTW5GMXhXZHB2Q1B0RktwSE1uY0JYZ3lLSXl1MWtRZnhtZkFwamxQWll2NzRxMWxrSEhTa3VKTElqY1pKWG5iYlEwSFFKWGN4Vzl6UWVnanBmbWpWUkRyNmRNX0YxVG5TNlRWSWRKdUVuMjBBLUZ2OFhwOUtZcExqSFpyZ2RoazJJVmtQMmFTcmtvODVHdlZaSlRqZlBHZGlTY2pMNHlpODQ4RmJEVklGWDNSa0k0ZzBrYWVmcGV4cWRzbVZNRUhYdHFXTWFKeEpZbTFpSlBqNU1LVQ?oc=5
 
-- Myanmar tells India: No Chinese on Coco Islands | Latest News India - Hindustan Times
-  Myanmar tells India: No Chinese on Coco Islands.
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
+- Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMjNSZEE0cmpqaC1HazdXS1paQWVQdGg2VXIzT2g1MVA2ZUI4d3ZmMmg2dVgtSzM0VFdFcUtqTk1rVHc2NEFIZ0VVR2_SAbMBQVVfeXFMT0dfajJ2RjE2UFlmY3UzY3NyUTlidDR3SXNvRzB3TUQ3VS14R1pPNmxLYWlpRU1TdmZFNXBTckE5ZWoyRFJkQjdEaGJQOXRQX2RSRlRDOUxmdUh0VUFVbGQ4bDl2WkhGdTdMSkthb2xmaE9IMUNMTldBVkp2OWlmS3lSVlhNWXVVWVJpMlZZNU5LWW1TMjJJakdoVEtwWlphSHJFa2RUZ0U4X2prbzVVdjhkWkE?oc=5
 
-- Military History Seminar honours valour of Indian Armed Forces - Times of India
-  Military History Seminar honours valour of
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYXl1dlkwT0VHcHVxRFZ2M0NsMkdwczV5M3FzOFpjX3RuTDJmamFMdk9NdzVXVU9FV0dlS05pNlo0bmxIMFUxeXVUeFZDckExYXltX3k3R2ZUQjhHUng2Q2pmX1FpSmZnaUVZUkgwT3V5SDFkNW1VSFNqZmJmbDNVcE1RaFZabWRyT2RVQ0hkRU9qRjJMS0VhcTNsSm1lUl9oalZnVS05VTQ5QXdwYV9qX1ZCczh1Y3NFbWRoSUJnclNjM2pGSlpkRmpLTGp2YXhZalRHLdIB2gFBVV95cUxPVHYzWFV5R1pMX01kZWFuajJlQ1RyNjNiQ0pNNmwzWm9DVGdLQWo4U3dCZUFkUXlVYWxhbXFoRXR5Mk1XVWJvNkNuLVNlX0stSlZSdXVQVVB4eXlVWE1EOVRISFFVV2FFc1VaR2JmZjZDY2V4ejdBWHl3NTlvNENzMlRXdVdfaHk5NWNzSEpKTkl2MzJhcC0xeHNQQXN0UXRZU0JqY1BlaXlVY1AzYnRXZkNCd1R2S0U4b1l1OG15TUZVLW1KVFB5WEtYMTBHd3I3OUZIXzJzUHVXUQ?oc=5
+- Just before I left for New Delhi...: What Sergio Gor said on Trump-Modi ties amid tariffs | Latest News India - Hindustan Times
+  Just before I left for New Delhi...: What Sergio Gor said on Trump-Modi ties
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNamRlVU9lSy00NTktMjZQT0ZGaWJ0SWZhRmw5OF9NWU5jWHN2cWNRbkttV2JTeW92Z092ZHVqME1ZX1NxTmNoU2hLanBVbDZTRFl4eUkwd0prSXQ4SERTR3R1SFpLTnVuTEdsd053TldhakRuOXN1S3E5WGRBTldFTnNqT1BINzdEQ05oLVZXMVJZbXp4ZVZCSVVyQ25Cb19UZlU4OGFxQ0hrT19yLXd5LXRhbmMzZDlGM0xqRW5IcWJqOHBDdWxOVlQyZWdxNFlnLWpDRWN4NVJERDBpRnfSAeMBQVVfeXFMTXhMOVVZcUtDWTdaUi1xRTRwWVpfeXNsWFNYVFN4b2VkMHBEMmZMVUlPaUhGdGZsM3ptbVhnYXRlem9NLW9YTG1VMGpUVGpvU2Z0NlBTdEZHeF82dVJQV3QyYk5VelRoYXZ4bUJJVXJlb25tZWg2NHJXQzdiT1BWZ1M1ZXJobGZ6TGoxQlBQTDFLRDJiWWo4bEZCdUhnS1V6TnlMazNodlM5bUE2X01YckxFekpSWWtXUDZWZG1iR21zajdLNEpnZ3VRVjZEOFAwWm80MnE4U0hNWUNJSElyLV9URkk?oc=5
 
-- On Tejashwi Yadav's Turf, Prashant Kishor's "He Should Be Worried" Remark - NDTV
-  Tejashwi Yadav and Prash
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2g0dnB1Q1lwZV9uZXpHbkZOekc0bGEzbHBZdHBxYTE5aU93OXk4T3dmRE1EanRKUG1FbGlxdlB1Y1FPRkRNVy1zZHFkVlBEbUF3RFRQZ2RkVEV2THVGTENVYkdld0RiamVCUkFQdWh4VV9PMk1rTVluUzFGMTBYMzYzVUc5SVJjSFVES1J1LWlneGZhOS03RHZvREJBZUJaNlg0QUpsUkRWbFRLcW9Nb2pOM1FVdDdEM3FTejFNdF9zN1kxZkY4WFNPcGgzeDdvdHJFalBWZWFsX0xvQzhTenVZdnVmcGNp0gHwAUFVX3lxTFBCZHpZVFBzOTN2N2ZIempKeUdSOW1ZWUE1U2F5MXJWVDdidE5qTUpWSmljWng5ZnRuNlhGbFprZjlfUE1hckhPaktXUmlJZ0tCLXpHdHAyWGo4SjFELVF5UFVyUWlfcnVYVHRibEYxdmZzLTdWaHhHYXY1ZFRkZW5HMGtCbEtNS1h5VDhYSjFiOHBXbnlZQmRYc0c1N3FGVXFtMjJvcGhjYzc3d1ppNUk5Uzc0eEp2U1ZzZGlwYlhqdFY4b25IaTFvazJwa3NYLS1jbzlCdHgxUmt4WVFtNkFYeno3SkdXRFRQVkx0cDZnZQ?oc=5
+- 'Mr Prime Minister, you are great’: Does President Trump’s signed photo gift to PM Modi signal a thaw in India–US ties? - Mint
+  'Mr Prime Minister, you are great’: Does President Trump’s signed photo
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMUlJeXJnVFdMRjFIV2hwaHNLRklRcWYzaWZ2WnBXUGVGZHUyeWxxaTNnUVBGYnVDUVNzMnRBQ2pWb0hLSUhkNlRWV1FYandLZWNfeFZnb3R5bG5qcG45LWg5WVBDQmZCZXVJWlBJMzFNRFVyVXExUVpXMDBmcElHdDBmc0NoQTNyM2g5VW5TcGtzUnNMRno4NUZBWGlTSGRYZkdZQkVkaEZlTmFuNlRfNDhoR1o2SWpmelNuX0d3el84TFpfV3YxY0hCdF8wdWU5a0NXWHlEVVlrWUkxMkozQ1k4Z09IQ2xwaTVHeWx3TU50VW5RNmxKSkxCSmFVTUHSAYQCQVVfeXFMTXFIVkVWanIxZzRaZnhiaW9ieXpxd3NXbU5sWGRodzl0dWdjVWh4OWlYZTJhZjIyRkVBY1lmM2UxS0NlazB4emRrWkVXSzFfVjdRcTdtWTlhQ2hrcWVVREM1M3lZYUtvYmZhLU8zM3gxRW5haFY4czJwNHBNcmZZcFVENkkyUGFHZDM0eUpyNXd3REtHdkJKbkVIcUtlN25zck1vTG5FaXRFVERqLVA5UXhhLVFKeXRLLUt2eEdmVWpLbjNUWmdJOFFsdWJzRDZ0d3dWYVdJWWhCLVgzQ3RmRF9kVVhfSFEwYVdUdVJoM0FYQkZaaVRucWduQk5FelN5TTFiTXE?oc=5
 
-- Delhi's Air Quality Nears 'Poor' As Winter Chill Begins To Set In - NDTV
-  Delhi's Air Quality Nears 'Poor'
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExTWkZUZHUwaU9JOUdSZjJpazZIbXJzZktWaDdVWVliSEhVcFhKZkFWa0xGUDl1SmMzSVpWVi00NVo5LWJuOHpKNnMyT1I3cjJvV0kyQ3BJa2FhUGNwRE52WmlBT00yVGNPUHVuSVVwclNubk5jbUlsYTNnSm9xekkydU10eVl2bHRGSW9ZVTVwRDludjBkdEcxakZtdkEzeTVwRtIBrAFBVV95cUxPbngtRUplUnRqMDI2ck9wRnBEWE1CeEJXSUtNaGR4NXdCUEpQQjN0NTFWYVNwUFVDV3k4M3lWQXk5VHlKREVxcTVjNHpIcUE1SlJFTGREeTVjeUdvM2t0OHdGeXBMdUxLbVB1NWE4cWJyUng2Vy02Yks5NXBkc2N3d0lKZGk4U1NLdDlaMy1mR3lDOTJNLTJaUWQyYXUzZlF2ZXVXWU9qekxZYzJw?oc=5
+- 'I'll dismiss him in 3–6 balls': Pakistan fast bowler issues bold challenge to India's Abhishek Sharma - Times of India
+  'I'll dismiss him in 3–6 balls': Pakistan fast bowler issues
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNMXI4djR0X0p6VlhRR2pzeEliZE5vWVA1REJSSHllVnV0TEhVN3BOeDExbTBzQW9vb3lGc2JfSDZXU1dMX3Z5eXVMRi0wenRjTVZCTEU4Y2VhWUN2QXhRVGhOVjBMajU1amxLQUtrN3FfOVZfMzcydEFLcWctdVBDLVpqV0QtY0RBOFJnOUtBYmVueEVPNUs0UXhBazdmdW9haXhLUDN0aGwyc051bnNzTzltNkxKT2pZNFlxMTREU05ESEFOYngxSkh0b011ald6aFo1VjNaSjNGaDl5MWpTbVgtczROMndLbDBOd2pIeXA3LWJxcGhsaU5JbzVNWlI4aVBlMlFhbTQ3Z9IBjwJBVV95cUxNYll6ZHd1TmRVX1pDVlJxdWo0LUc3eHFIZGtVMUVjLVB5NUdaNlo2WTRoS1NfTTRGOGdCVHBsd1ZzZUxxVFFWZ0JCWVBHREQ5bWVoQnRKQzBLOTc0eUxacjRpUWVEeHp4RkxSM0FPVXl6Qnk0ekw1b05KRjRPLXpab2l4Q2NsU1pxbDFwcXlEd0VuWlgwTy00OEpMakI2RGdGSlFWbWxqYWZUazlsYUlOOW8ySXd4aTd4QVBsakR3YVhYMS1Fc0ZYUmwwNlZQalFodTVRMDY2OHBwaFdjbEFRZmdtUzZoOUgtUThoVzl2b0U2Q2h2ZW9FSzUyYjNCTGtWZm5DcVlfUnZZQWswTnZN?oc=5
 
-- Why UP's Deoband Was On Taliban Foreign Minister's India Itinerary - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYX
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYXBDVFlIbDFOOFRaTWVvMHNhYXE0enJ5SXNWSUp4YUxUbnV0c1FZWGRCS1JqcWt1alBuY3djZ3VoRTNQeDJzeEl4MkZHTVQxcnNha9IBuwFBVV95cUxQTUR3NnRXTUhZUHRUN1JadDZmTGxUOE1Sd1UxTHRNaEd0aE1vVWFUSEFRS1d4LThmMHkycG0teXdtNDU4VEpmUFpGX0ktS0d1c0h4bFJYMzhvX3Bib1poT0FSbVA5ZHE3NmpLbG9YaTdZLXhuVUNjNTIyeVRIS1M0NkQyaERsaGVlcTVUci1vVDVzLWMyRGcwbUExV0g0a2dtSVROcTJiVzZ6MEdaN0l0bkh0SkJBQkFuUGRF?oc=5
+- Trump’s 100% tariffs on China: For India, the message is clear - No deal with US is ever final, says GTRI - Times of India
+  For India, the message is clear - No deal with US is ever final, says GTRI.
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxPc0RVRlVOc2lpVGRHUzMxeE5SNTdmdWFVc0huT2xLN0d5a3NiNlhjTG9FYkxaa2x0eEFvUlZQVHgxejRYMFdXRThtSXVKUWM3N3B1MTMyX3JyQzBKTlc2MjZEMURrTlN5UzNXZWxDRzJyc0lWbF9xcWF2a3JoUE85eG1ORkVUYTJiQm16U0ZqOUgwTzVwOGMyVWVJZEthUU5oNS1UMDNlN2dSa01QUFFKQ3pYaDJRQ0VfZ1BYVWhiMTBhZzdSTEpTVzFSMV9HWnowa2RWYWc1NG5tZDktWTR4WDlnbkhvaklMamR3Yk5VLThTbTd0SDZKSEhoSHJ4VXpqTndfTEJYREZOaWo0RUFDOERB0gGXAkFVX3lxTE5ORWJHRFhUMG8xS19DU2x3Uk9LakdjVy1vX1dOWjRXTnlpT2N6MFFVOVJHWllQeXRzdkJDQ2FYWE1DcjdPTW5GMXhXZHB2Q1B0RktwSE1uY0JYZ3lLSXl1MWtRZnhtZkFwamxQWll2NzRxMWxrSEhTa3VKTElqY1pKWG5iYlEwSFFKWGN4Vzl6UWVnanBmbWpWUkRyNmRNX0YxVG5TNlRWSWRKdUVuMjBBLUZ2OFhwOUtZcExqSFpyZ2RoazJJVmtQMmFTcmtvODVHdlZaSlRqZlBHZGlTY2pMNHlpODQ4RmJEVklGWDNSa0k0ZzBrYWVmcGV4cWRzbVZNRUhYdHFXTWFKeEpZbTFpSlBqNU1LVQ?oc=5
 
-- Myanmar tells India: No Chinese on Coco Islands | Latest News India - Hindustan Times
-  Myanmar tells India: No Chinese on Coco Islands.
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
+- Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMjNSZEE0cmpqaC1HazdXS1paQWVQdGg2VXIzT2g1MVA2ZUI4d3ZmMmg2dVgtSzM0VFdFcUtqTk1rVHc2NEFIZ0VVR2_SAbMBQVVfeXFMT0dfajJ2RjE2UFlmY3UzY3NyUTlidDR3SXNvRzB3TUQ3VS14R1pPNmxLYWlpRU1TdmZFNXBTckE5ZWoyRFJkQjdEaGJQOXRQX2RSRlRDOUxmdUh0VUFVbGQ4bDl2WkhGdTdMSkthb2xmaE9IMUNMTldBVkp2OWlmS3lSVlhNWXVVWVJpMlZZNU5LWW1TMjJJakdoVEtwWlphSHJFa2RUZ0U4X2prbzVVdjhkWkE?oc=5
 
-- Military History Seminar honours valour of Indian Armed Forces - Times of India
-  Military History Seminar honours valour of
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYXl1dlkwT0VHcHVxRFZ2M0NsMkdwczV5M3FzOFpjX3RuTDJmamFMdk9NdzVXVU9FV0dlS05pNlo0bmxIMFUxeXVUeFZDckExYXltX3k3R2ZUQjhHUng2Q2pmX1FpSmZnaUVZUkgwT3V5SDFkNW1VSFNqZmJmbDNVcE1RaFZabWRyT2RVQ0hkRU9qRjJMS0VhcTNsSm1lUl9oalZnVS05VTQ5QXdwYV9qX1ZCczh1Y3NFbWRoSUJnclNjM2pGSlpkRmpLTGp2YXhZalRHLdIB2gFBVV95cUxPVHYzWFV5R1pMX01kZWFuajJlQ1RyNjNiQ0pNNmwzWm9DVGdLQWo4U3dCZUFkUXlVYWxhbXFoRXR5Mk1XVWJvNkNuLVNlX0stSlZSdXVQVVB4eXlVWE1EOVRISFFVV2FFc1VaR2JmZjZDY2V4ejdBWHl3NTlvNENzMlRXdVdfaHk5NWNzSEpKTkl2MzJhcC0xeHNQQXN0UXRZU0JqY1BlaXlVY1AzYnRXZkNCd1R2S0U4b1l1OG15TUZVLW1KVFB5WEtYMTBHd3I3OUZIXzJzUHVXUQ?oc=5
+- Just before I left for New Delhi...: What Sergio Gor said on Trump-Modi ties amid tariffs | Latest News India - Hindustan Times
+  Just before I left for New Delhi...: What Sergio Gor said on Trump-Modi ties
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNamRlVU9lSy00NTktMjZQT0ZGaWJ0SWZhRmw5OF9NWU5jWHN2cWNRbkttV2JTeW92Z092ZHVqME1ZX1NxTmNoU2hLanBVbDZTRFl4eUkwd0prSXQ4SERTR3R1SFpLTnVuTEdsd053TldhakRuOXN1S3E5WGRBTldFTnNqT1BINzdEQ05oLVZXMVJZbXp4ZVZCSVVyQ25Cb19UZlU4OGFxQ0hrT19yLXd5LXRhbmMzZDlGM0xqRW5IcWJqOHBDdWxOVlQyZWdxNFlnLWpDRWN4NVJERDBpRnfSAeMBQVVfeXFMTXhMOVVZcUtDWTdaUi1xRTRwWVpfeXNsWFNYVFN4b2VkMHBEMmZMVUlPaUhGdGZsM3ptbVhnYXRlem9NLW9YTG1VMGpUVGpvU2Z0NlBTdEZHeF82dVJQV3QyYk5VelRoYXZ4bUJJVXJlb25tZWg2NHJXQzdiT1BWZ1M1ZXJobGZ6TGoxQlBQTDFLRDJiWWo4bEZCdUhnS1V6TnlMazNodlM5bUE2X01YckxFekpSWWtXUDZWZG1iR21zajdLNEpnZ3VRVjZEOFAwWm80MnE4U0hNWUNJSElyLV9URkk?oc=5
 
-- On Tejashwi Yadav's Turf, Prashant Kishor's "He Should Be Worried" Remark - NDTV
-  Tejashwi Yadav and Prash
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2g0dnB1Q1lwZV9uZXpHbkZOekc0bGEzbHBZdHBxYTE5aU93OXk4T3dmRE1EanRKUG1FbGlxdlB1Y1FPRkRNVy1zZHFkVlBEbUF3RFRQZ2RkVEV2THVGTENVYkdld0RiamVCUkFQdWh4VV9PMk1rTVluUzFGMTBYMzYzVUc5SVJjSFVES1J1LWlneGZhOS03RHZvREJBZUJaNlg0QUpsUkRWbFRLcW9Nb2pOM1FVdDdEM3FTejFNdF9zN1kxZkY4WFNPcGgzeDdvdHJFalBWZWFsX0xvQzhTenVZdnVmcGNp0gHwAUFVX3lxTFBCZHpZVFBzOTN2N2ZIempKeUdSOW1ZWUE1U2F5MXJWVDdidE5qTUpWSmljWng5ZnRuNlhGbFprZjlfUE1hckhPaktXUmlJZ0tCLXpHdHAyWGo4SjFELVF5UFVyUWlfcnVYVHRibEYxdmZzLTdWaHhHYXY1ZFRkZW5HMGtCbEtNS1h5VDhYSjFiOHBXbnlZQmRYc0c1N3FGVXFtMjJvcGhjYzc3d1ppNUk5Uzc0eEp2U1ZzZGlwYlhqdFY4b25IaTFvazJwa3NYLS1jbzlCdHgxUmt4WVFtNkFYeno3SkdXRFRQVkx0cDZnZQ?oc=5
+- 'Mr Prime Minister, you are great’: Does President Trump’s signed photo gift to PM Modi signal a thaw in India–US ties? - Mint
+  'Mr Prime Minister, you are great’: Does President Trump’s signed photo
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMUlJeXJnVFdMRjFIV2hwaHNLRklRcWYzaWZ2WnBXUGVGZHUyeWxxaTNnUVBGYnVDUVNzMnRBQ2pWb0hLSUhkNlRWV1FYandLZWNfeFZnb3R5bG5qcG45LWg5WVBDQmZCZXVJWlBJMzFNRFVyVXExUVpXMDBmcElHdDBmc0NoQTNyM2g5VW5TcGtzUnNMRno4NUZBWGlTSGRYZkdZQkVkaEZlTmFuNlRfNDhoR1o2SWpmelNuX0d3el84TFpfV3YxY0hCdF8wdWU5a0NXWHlEVVlrWUkxMkozQ1k4Z09IQ2xwaTVHeWx3TU50VW5RNmxKSkxCSmFVTUHSAYQCQVVfeXFMTXFIVkVWanIxZzRaZnhiaW9ieXpxd3NXbU5sWGRodzl0dWdjVWh4OWlYZTJhZjIyRkVBY1lmM2UxS0NlazB4emRrWkVXSzFfVjdRcTdtWTlhQ2hrcWVVREM1M3lZYUtvYmZhLU8zM3gxRW5haFY4czJwNHBNcmZZcFVENkkyUGFHZDM0eUpyNXd3REtHdkJKbkVIcUtlN25zck1vTG5FaXRFVERqLVA5UXhhLVFKeXRLLUt2eEdmVWpLbjNUWmdJOFFsdWJzRDZ0d3dWYVdJWWhCLVgzQ3RmRF9kVVhfSFEwYVdUdVJoM0FYQkZaaVRucWduQk5FelN5TTFiTXE?oc=5
 
-- Delhi's Air Quality Nears 'Poor' As Winter Chill Begins To Set In - NDTV
-  Delhi's Air Quality Nears 'Poor'
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExTWkZUZHUwaU9JOUdSZjJpazZIbXJzZktWaDdVWVliSEhVcFhKZkFWa0xGUDl1SmMzSVpWVi00NVo5LWJuOHpKNnMyT1I3cjJvV0kyQ3BJa2FhUGNwRE52WmlBT00yVGNPUHVuSVVwclNubk5jbUlsYTNnSm9xekkydU10eVl2bHRGSW9ZVTVwRDludjBkdEcxakZtdkEzeTVwRtIBrAFBVV95cUxPbngtRUplUnRqMDI2ck9wRnBEWE1CeEJXSUtNaGR4NXdCUEpQQjN0NTFWYVNwUFVDV3k4M3lWQXk5VHlKREVxcTVjNHpIcUE1SlJFTGREeTVjeUdvM2t0OHdGeXBMdUxLbVB1NWE4cWJyUng2Vy02Yks5NXBkc2N3d0lKZGk4U1NLdDlaMy1mR3lDOTJNLTJaUWQyYXUzZlF2ZXVXWU9qekxZYzJw?oc=5
+- 'I'll dismiss him in 3–6 balls': Pakistan fast bowler issues bold challenge to India's Abhishek Sharma - Times of India
+  'I'll dismiss him in 3–6 balls': Pakistan fast bowler issues
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNMXI4djR0X0p6VlhRR2pzeEliZE5vWVA1REJSSHllVnV0TEhVN3BOeDExbTBzQW9vb3lGc2JfSDZXU1dMX3Z5eXVMRi0wenRjTVZCTEU4Y2VhWUN2QXhRVGhOVjBMajU1amxLQUtrN3FfOVZfMzcydEFLcWctdVBDLVpqV0QtY0RBOFJnOUtBYmVueEVPNUs0UXhBazdmdW9haXhLUDN0aGwyc051bnNzTzltNkxKT2pZNFlxMTREU05ESEFOYngxSkh0b011ald6aFo1VjNaSjNGaDl5MWpTbVgtczROMndLbDBOd2pIeXA3LWJxcGhsaU5JbzVNWlI4aVBlMlFhbTQ3Z9IBjwJBVV95cUxNYll6ZHd1TmRVX1pDVlJxdWo0LUc3eHFIZGtVMUVjLVB5NUdaNlo2WTRoS1NfTTRGOGdCVHBsd1ZzZUxxVFFWZ0JCWVBHREQ5bWVoQnRKQzBLOTc0eUxacjRpUWVEeHp4RkxSM0FPVXl6Qnk0ekw1b05KRjRPLXpab2l4Q2NsU1pxbDFwcXlEd0VuWlgwTy00OEpMakI2RGdGSlFWbWxqYWZUazlsYUlOOW8ySXd4aTd4QVBsakR3YVhYMS1Fc0ZYUmwwNlZQalFodTVRMDY2OHBwaFdjbEFRZmdtUzZoOUgtUThoVzl2b0U2Q2h2ZW9FSzUyYjNCTGtWZm5DcVlfUnZZQWswTnZN?oc=5
 
-- Why UP's Deoband Was On Taliban Foreign Minister's India Itinerary - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYX
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9pUVJzeC1tejN2RGRrWUFuY09wMXpmN0VxTUZILUhpQURuZl9ZOHJGY0RHb1ZwMlNfMXVZMmlkMmxCVURIVXVlN2pGc2FUVk14NkZHYkExT0FXNWpkdzJEdEdka09PYXBDVFlIbDFOOFRaTWVvMHNhYXE0enJ5SXNWSUp4YUxUbnV0c1FZWGRCS1JqcWt1alBuY3djZ3VoRTNQeDJzeEl4MkZHTVQxcnNha9IBuwFBVV95cUxQTUR3NnRXTUhZUHRUN1JadDZmTGxUOE1Sd1UxTHRNaEd0aE1vVWFUSEFRS1d4LThmMHkycG0teXdtNDU4VEpmUFpGX0ktS0d1c0h4bFJYMzhvX3Bib1poT0FSbVA5ZHE3NmpLbG9YaTdZLXhuVUNjNTIyeVRIS1M0NkQyaERsaGVlcTVUci1vVDVzLWMyRGcwbUExV0g0a2dtSVROcTJiVzZ6MEdaN0l0bkh0SkJBQkFuUGRF?oc=5
+- Trump’s 100% tariffs on China: For India, the message is clear - No deal with US is ever final, says GTRI - Times of India
+  For India, the message is clear - No deal with US is ever final, says GTRI.
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxPc0RVRlVOc2lpVGRHUzMxeE5SNTdmdWFVc0huT2xLN0d5a3NiNlhjTG9FYkxaa2x0eEFvUlZQVHgxejRYMFdXRThtSXVKUWM3N3B1MTMyX3JyQzBKTlc2MjZEMURrTlN5UzNXZWxDRzJyc0lWbF9xcWF2a3JoUE85eG1ORkVUYTJiQm16U0ZqOUgwTzVwOGMyVWVJZEthUU5oNS1UMDNlN2dSa01QUFFKQ3pYaDJRQ0VfZ1BYVWhiMTBhZzdSTEpTVzFSMV9HWnowa2RWYWc1NG5tZDktWTR4WDlnbkhvaklMamR3Yk5VLThTbTd0SDZKSEhoSHJ4VXpqTndfTEJYREZOaWo0RUFDOERB0gGXAkFVX3lxTE5ORWJHRFhUMG8xS19DU2x3Uk9LakdjVy1vX1dOWjRXTnlpT2N6MFFVOVJHWllQeXRzdkJDQ2FYWE1DcjdPTW5GMXhXZHB2Q1B0RktwSE1uY0JYZ3lLSXl1MWtRZnhtZkFwamxQWll2NzRxMWxrSEhTa3VKTElqY1pKWG5iYlEwSFFKWGN4Vzl6UWVnanBmbWpWUkRyNmRNX0YxVG5TNlRWSWRKdUVuMjBBLUZ2OFhwOUtZcExqSFpyZ2RoazJJVmtQMmFTcmtvODVHdlZaSlRqZlBHZGlTY2pMNHlpODQ4RmJEVklGWDNSa0k0ZzBrYWVmcGV4cWRzbVZNRUhYdHFXTWFKeEpZbTFpSlBqNU1LVQ?oc=5
 
-- Myanmar tells India: No Chinese on Coco Islands | Latest News India - Hindustan Times
-  Myanmar tells India: No Chinese on Coco Islands.
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9DbUdCUHAxdktSWTVjcGdLLTFURGpSUTJZYTRFMnluY00zTDdrMlBRdDVRbUhZMUFDRTBtbjBDT1Q2eldCa3pGckZ1T0s4VmlOYWdxMUVpUUtabUtudHMtd3BLb0ZhcnAwUXBRdE9UYVZhX0NTLWFCTWhtUS1jMnhVT1dHMlJ5Nmh5ek1CMzJuNEFyd2tGQ0VISnFhbng0UXBJUHByQWNuN3lBZ0HSAbMBQVVfeXFMT3pPREd0U0liVFlCRlNrVUJ3bTdVSVZ2aE5OTU9pWXFGcWRKV1ZadXgwcVZtVkdvUXllOFdWVXFqTmNkeG9BdmtCRm5MZTN1aUVEVFdoNTVGVnlKcWc3Q2NSb3NoYXJFYm1Rby1WaWdCQXlYS2RWRC0xVk40TzBsMUQ1QVRLd08tWC11ZndRM0dUVjJvT0M4YUdIZzBXeng4bFhicVVCOXNCaTRXNlBNaERzUE0?oc=5
+- Taliban Minister's Message From Indian Soil To Pakistan On Terrorism - NDTV
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFhWXNrSXFaLU9PV3JmR19vbnVYQ0UyM2pqU3phdFdKbVdtWV9zR2dQSUotNVhyWW5hV2syTllyR2U5LWNmaU9uVnM0eDlzV0ZoVUlleFlxcXpwbjBrSDRDak9IaVJsMjNSZEE0cmpqaC1HazdXS1paQWVQdGg2VXIzT2g1MVA2ZUI4d3ZmMmg2dVgtSzM0VFdFcUtqTk1rVHc2NEFIZ0VVR2_SAbMBQVVfeXFMT0dfajJ2RjE2UFlmY3UzY3NyUTlidDR3SXNvRzB3TUQ3VS14R1pPNmxLYWlpRU1TdmZFNXBTckE5ZWoyRFJkQjdEaGJQOXRQX2RSRlRDOUxmdUh0VUFVbGQ4bDl2WkhGdTdMSkthb2xmaE9IMUNMTldBVkp2OWlmS3lSVlhNWXVVWVJpMlZZNU5LWW1TMjJJakdoVEtwWlphSHJFa2RUZ0U4X2prbzVVdjhkWkE?oc=5
 
-- Military History Seminar honours valour of Indian Armed Forces - Times of India
-  Military History Seminar honours valour of
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYXl1dlkwT0VHcHVxRFZ2M0NsMkdwczV5M3FzOFpjX3RuTDJmamFMdk9NdzVXVU9FV0dlS05pNlo0bmxIMFUxeXVUeFZDckExYXltX3k3R2ZUQjhHUng2Q2pmX1FpSmZnaUVZUkgwT3V5SDFkNW1VSFNqZmJmbDNVcE1RaFZabWRyT2RVQ0hkRU9qRjJMS0VhcTNsSm1lUl9oalZnVS05VTQ5QXdwYV9qX1ZCczh1Y3NFbWRoSUJnclNjM2pGSlpkRmpLTGp2YXhZalRHLdIB2gFBVV95cUxPVHYzWFV5R1pMX01kZWFuajJlQ1RyNjNiQ0pNNmwzWm9DVGdLQWo4U3dCZUFkUXlVYWxhbXFoRXR5Mk1XVWJvNkNuLVNlX0stSlZSdXVQVVB4eXlVWE1EOVRISFFVV2FFc1VaR2JmZjZDY2V4ejdBWHl3NTlvNENzMlRXdVdfaHk5NWNzSEpKTkl2MzJhcC0xeHNQQXN0UXRZU0JqY1BlaXlVY1AzYnRXZkNCd1R2S0U4b1l1OG15TUZVLW1KVFB5WEtYMTBHd3I3OUZIXzJzUHVXUQ?oc=5
+- Just before I left for New Delhi...: What Sergio Gor said on Trump-Modi ties amid tariffs | Latest News India - Hindustan Times
+  Just before I left for New Delhi...: What Sergio Gor said on Trump-Modi ties
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNamRlVU9lSy00NTktMjZQT0ZGaWJ0SWZhRmw5OF9NWU5jWHN2cWNRbkttV2JTeW92Z092ZHVqME1ZX1NxTmNoU2hLanBVbDZTRFl4eUkwd0prSXQ4SERTR3R1SFpLTnVuTEdsd053TldhakRuOXN1S3E5WGRBTldFTnNqT1BINzdEQ05oLVZXMVJZbXp4ZVZCSVVyQ25Cb19UZlU4OGFxQ0hrT19yLXd5LXRhbmMzZDlGM0xqRW5IcWJqOHBDdWxOVlQyZWdxNFlnLWpDRWN4NVJERDBpRnfSAeMBQVVfeXFMTXhMOVVZcUtDWTdaUi1xRTRwWVpfeXNsWFNYVFN4b2VkMHBEMmZMVUlPaUhGdGZsM3ptbVhnYXRlem9NLW9YTG1VMGpUVGpvU2Z0NlBTdEZHeF82dVJQV3QyYk5VelRoYXZ4bUJJVXJlb25tZWg2NHJXQzdiT1BWZ1M1ZXJobGZ6TGoxQlBQTDFLRDJiWWo4bEZCdUhnS1V6TnlMazNodlM5bUE2X01YckxFekpSWWtXUDZWZG1iR21zajdLNEpnZ3VRVjZEOFAwWm80MnE4U0hNWUNJSElyLV9URkk?oc=5
 
-- On Tejashwi Yadav's Turf, Prashant Kishor's "He Should Be Worried" Remark - NDTV
-  Tejashwi Yadav and Prash
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2g0dnB1Q1lwZV9uZXpHbkZOekc0bGEzbHBZdHBxYTE5aU93OXk4T3dmRE1EanRKUG1FbGlxdlB1Y1FPRkRNVy1zZHFkVlBEbUF3RFRQZ2RkVEV2THVGTENVYkdld0RiamVCUkFQdWh4VV9PMk1rTVluUzFGMTBYMzYzVUc5SVJjSFVES1J1LWlneGZhOS03RHZvREJBZUJaNlg0QUpsUkRWbFRLcW9Nb2pOM1FVdDdEM3FTejFNdF9zN1kxZkY4WFNPcGgzeDdvdHJFalBWZWFsX0xvQzhTenVZdnVmcGNp0gHwAUFVX3lxTFBCZHpZVFBzOTN2N2ZIempKeUdSOW1ZWUE1U2F5MXJWVDdidE5qTUpWSmljWng5ZnRuNlhGbFprZjlfUE1hckhPaktXUmlJZ0tCLXpHdHAyWGo4SjFELVF5UFVyUWlfcnVYVHRibEYxdmZzLTdWaHhHYXY1ZFRkZW5HMGtCbEtNS1h5VDhYSjFiOHBXbnlZQmRYc0c1N3FGVXFtMjJvcGhjYzc3d1ppNUk5Uzc0eEp2U1ZzZGlwYlhqdFY4b25IaTFvazJwa3NYLS1jbzlCdHgxUmt4WVFtNkFYeno3SkdXRFRQVkx0cDZnZQ?oc=5
+- 'Mr Prime Minister, you are great’: Does President Trump’s signed photo gift to PM Modi signal a thaw in India–US ties? - Mint
+  'Mr Prime Minister, you are great’: Does President Trump’s signed photo
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMUlJeXJnVFdMRjFIV2hwaHNLRklRcWYzaWZ2WnBXUGVGZHUyeWxxaTNnUVBGYnVDUVNzMnRBQ2pWb0hLSUhkNlRWV1FYandLZWNfeFZnb3R5bG5qcG45LWg5WVBDQmZCZXVJWlBJMzFNRFVyVXExUVpXMDBmcElHdDBmc0NoQTNyM2g5VW5TcGtzUnNMRno4NUZBWGlTSGRYZkdZQkVkaEZlTmFuNlRfNDhoR1o2SWpmelNuX0d3el84TFpfV3YxY0hCdF8wdWU5a0NXWHlEVVlrWUkxMkozQ1k4Z09IQ2xwaTVHeWx3TU50VW5RNmxKSkxCSmFVTUHSAYQCQVVfeXFMTXFIVkVWanIxZzRaZnhiaW9ieXpxd3NXbU5sWGRodzl0dWdjVWh4OWlYZTJhZjIyRkVBY1lmM2UxS0NlazB4emRrWkVXSzFfVjdRcTdtWTlhQ2hrcWVVREM1M3lZYUtvYmZhLU8zM3gxRW5haFY4czJwNHBNcmZZcFVENkkyUGFHZDM0eUpyNXd3REtHdkJKbkVIcUtlN25zck1vTG5FaXRFVERqLVA5UXhhLVFKeXRLLUt2eEdmVWpLbjNUWmdJOFFsdWJzRDZ0d3dWYVdJWWhCLVgzQ3RmRF9kVVhfSFEwYVdUdVJoM0FYQkZaaVRucWduQk5FelN5TTFiTXE?oc=5
 
-- Delhi's Air Quality Nears 'Poor' As Winter Chill Begins To Set In - NDTV
-  Delhi's Air Quality Nears 'Poor'
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExTWkZUZHUwaU9JOUdSZjJpazZIbXJzZktWaDdVWVliSEhVcFhKZkFWa0xGUDl1SmMzSVpWVi00NVo5LWJuOHpKNnMyT1I3cjJvV0kyQ3BJa2FhUGNwRE52WmlBT00yVGNPUHVuSVVwclNubk5jbUlsYTNnSm9xekkydU10eVl2bHRGSW9ZVTVwRDludjBkdEcxakZtdkEzeTVwRtIBrAFBVV95cUxPbngtRUplUnRqMDI2ck9wRnBEWE1CeEJXSUtNaGR4NXdCUEpQQjN0NTFWYVNwUFVDV3k4M3lWQXk5VHlKREVxcTVjNHpIcUE1SlJFTGREeTVjeUdvM2t0OHdGeXBMdUxLbVB1NWE4cWJyUng2Vy02Yks5NXBkc2N3d0lKZGk4U1NLdDlaMy1mR3lDOTJNLTJaUWQyYXUzZlF2ZXVXWU9qekxZYzJw?oc=5
+- 'I'll dismiss him in 3–6 balls': Pakistan fast bowler issues bold challenge to India's Abhishek Sharma - Times of India
+  'I'll dismiss him in 3–6 balls': Pakistan fast bowler issues
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNMXI4djR0X0p6VlhRR2pzeEliZE5vWVA1REJSSHllVnV0TEhVN3BOeDExbTBzQW9vb3lGc2JfSDZXU1dMX3Z5eXVMRi0wenRjTVZCTEU4Y2VhWUN2QXhRVGhOVjBMajU1amxLQUtrN3FfOVZfMzcydEFLcWctdVBDLVpqV0QtY0RBOFJnOUtBYmVueEVPNUs0UXhBazdmdW9haXhLUDN0aGwyc051bnNzTzltNkxKT2pZNFlxMTREU05ESEFOYngxSkh0b011ald6aFo1VjNaSjNGaDl5MWpTbVgtczROMndLbDBOd2pIeXA3LWJxcGhsaU5JbzVNWlI4aVBlMlFhbTQ3Z9IBjwJBVV95cUxNYll6ZHd1TmRVX1pDVlJxdWo0LUc3eHFIZGtVMUVjLVB5NUdaNlo2WTRoS1NfTTRGOGdCVHBsd1ZzZUxxVFFWZ0JCWVBHREQ5bWVoQnRKQzBLOTc0eUxacjRpUWVEeHp4RkxSM0FPVXl6Qnk0ekw1b05KRjRPLXpab2l4Q2NsU1pxbDFwcXlEd0VuWlgwTy00OEpMakI2RGdGSlFWbWxqYWZUazlsYUlOOW8ySXd4aTd4QVBsakR3YVhYMS1Fc0ZYUmwwNlZQalFodTVRMDY2OHBwaFdjbEFRZmdtUzZoOUgtUThoVzl2b0U2Q2h2ZW9FSzUyYjNCTGtWZm5DcVlfUnZZQWswTnZN?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-11 18:22:21 UTC_
+_Last updated: 2025-10-12 01:16:40 UTC_
