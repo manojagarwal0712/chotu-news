@@ -1,164 +1,192 @@
 # 📰 Daily News Summaries
 
-- Gold Today Rate, October 13: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
-  
-  🔗 https://indianexpress.com/article/india/gold-today-rate-october-13-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10303664/
-
-- Bihar Election 2025 LIVE Updates: Congress to announce Bihar seat-sharing plan after meeting with allies, asserts Mahagathbandhan unity
-  
-  🔗 https://indianexpress.com/article/india/bihar-assembly-election-2025-live-updates-congress-to-announce-bihar-seat-sharing-plan-after-meeting-with-allies-asserts-mahagathbandhan-unity-10303568/
-
-- Cough syrup deaths: ED searches 7 locations in Chennai linked to Coldrif manufacturer Sresan Pharma
-  
-  🔗 https://indianexpress.com/article/india/cough-syrup-deaths-ed-searches-locations-chennai-linked-coldrif-manufacturer-sresan-pharma-10303583/
-
-- Exclusive: They lost loved ones in Vijay rally stampede. Now two Dalit families say they were kept in dark about Supreme Court petitions filed in their name
-  
-  🔗 https://indianexpress.com/article/india/exclusive-they-lost-loved-ones-in-vijay-rally-stampede-now-two-dalit-families-say-they-were-kept-in-dark-about-supreme-court-petitions-filed-in-their-name-10303291/
-
-- Man ‘hides in school toilet, rapes 7-year-old student’ in Jaipur: police
-  
-  🔗 https://indianexpress.com/article/india/man-hides-in-school-toilet-rapes-7-year-old-student-in-jaipur-police-10303301/
-
-- ‘GPT-6 will be significantly better’: Sam Altman on what OpenAI learned from rocky GPT-5 launch
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/gpt-6-will-be-significantly-better-sam-altman-openai-10303859/
-
-- China’s Wingtech seeks government help after Dutch intervention at Nexperia unit
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/chinas-wingtech-seeks-government-help-after-dutch-intervention-at-nexperia-unit-10303707/
-
-- Intel’s big bet: Inside the chipmaker’s make-or-break factory
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/intels-big-bet-inside-the-chipmakers-make-or-break-factory-10303653/
-
-- Google says Australian law on teen social media use ‘extremely difficult’ to enforce
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-says-australian-law-on-teen-social-media-use-extremely-difficult-to-enforce-10303639/
-
-- Taiwan sees no significant impact on chip sector from China rare earths curbs
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/taiwan-sees-no-significant-impact-on-chip-sector-from-china-rare-earths-curbs-10303621/
-
-- Accel-backed chemicals startup Scimplify eyes up to $100 million investment to expand overseas operations
-  Scimplify is in advanced talks to raise $70–100 million in a Series C round, potentially doubling its valuation.
-  🔗 https://www.livemint.com/companies/start-ups/accelbacked-chemicals-startup-scimplify-eyes-up-to-100-million-investment-to-expand-overseas-operations-11760292224305.html
-
-- Carmakers face key trial in UK lawsuits, decade after dieselgate scandal
-  Carmakers face key trial in
-  🔗 https://www.livemint.com/companies/company-results/carmakers-face-key-trial-in-uk-lawsuits-decade-after-dieselgate-scandal-11760331707742.html
-
-- Italian asset managers net inflows up 70% y/y in September
-  Italian asset managers
-  🔗 https://www.livemint.com/companies/news/italian-asset-managers-net-inflows-up-70-y-y-in-september-11760331707312.html
-
-- Tata Group age retirement policy no bar, N Chandrasekaran gets third term as Chairman
-  Tata Trusts has reportedly proposed a third term for Chairman N Chandrasekaran. The appointment comes even as the Group
-  🔗 https://www.livemint.com/companies/people/n-chandrasekaran-gets-third-term-as-tata-sons-chairman-despite-group-retirement-65-yrs-age-policy-executives-says-report-11760326908314.html
-
-- Tesla offers cut-price new vehicles in Europe, trying to arrest sales decline
-  Tesla has started to offer lower-priced versions
-  🔗 https://www.livemint.com/companies/news/tesla-offers-cut-price-new-vehicles-in-europe-trying-to-arrest-sales-decline-11760327101446.html
-
-- Dollar stumbles after Trump tones down tough talk on trade
-  Dollar stumbles after
-  🔗 https://www.livemint.com/market/stock-market-news/dollar-stumbles-after-trump-tones-down-tough-talk-on-trade-11760336015969.html
-
-- 400% rally in five years! Small-cap multibagger stock jumps 3% despite sell-off on Dalal Street
-  Small-cap multibagger stock Pavna Industries jumped nearly 3 per cent. The small-cap stock has rallied over 9 per cent in past five
-  🔗 https://www.livemint.com/market/stock-market-news/400-rally-in-five-years-small-cap-multibagger-stock-pavna-industries-jumps-3-despite-sell-off-on-dalal-street-11760328870223.html
-
-- KFin Technologies share price surges over 4% after Citi upgrades rating to 'buy'
-  KFin Technologies shares rose 4.2% to  ₹1,117. Citi upgraded the stock to 'buy', citing strong mutual fund inflows. The price target was
-  🔗 https://www.livemint.com/market/stock-market-news/kfin-technologies-share-price-surges-over-4-after-citi-upgrades-rating-to-buy-11760332397027.html
-
-- PSU bank stock PNB to announce Q2 results 2025 on this date. Details here
-  PNB said its board will meet this weekend to announce its financial performance for the three months ended September 30, 2025.
-  🔗 https://www.livemint.com/market/stock-market-news/psu-bank-stock-pnb-to-announce-q2-results-2025-on-this-date-details-here-11760334584377.html
-
-- Q2 Results Today LIVE: HCL Tech revenue growth seen at 9% YoY; guidance, deal TCV, H1B visa, Trump tariffs impact eyed
-  HCL Technologies, the third-largest IT services company in India by market-cap, is set to announce its Q2 results today. The board of directors of the company will meet today to consider and approve the financial
-  🔗 https://www.livemint.com/market/stock-market-news/q2-results-today-live-hcl-tech-q2-results-2025-hcl-technologies-q2-earnings-hcl-tech-share-price-h1b-visa-trump-tariffs-11760334355273.html
-
-- Sridhar Vembu lauds MapMyIndia, says Swadeshi Mappls ‘Reflects decades of R&amp;D, longer than Google Maps’
-  Zoho co-founder Sridhar Vembu praised MapMyIndia’s Mappls app on X, for reflecting decades of R&amp;amp;D.
-  🔗 https://www.livemint.com/technology/tech-news/sridhar-vembu-lauds-mapmyindia-says-swadeshi-mappls-reflects-decades-of-r-d-longer-than-google-maps-11760332936237.html
-
-- iPhone 16 Pro Diwali deals: Flipkart, Croma, Vijay Sales &amp; more – Who’s offering more discount?
-  With Diwali 2025 approaching, platforms like Flipkart, Croma, Vijay Sales and others are offering huge discounts on the iPhone 16 Pro. Buyers can
-  🔗 https://www.livemint.com/technology/tech-news/iphone-16-pro-diwali-deals-flipkart-croma-vijay-sales-more-who-s-offering-more-discount-11760326624719.html
-
-- Google Cloud CEO Thomas Kurian has a message for techies: ‘AI is here to amplify human capability, not replace jobs’
-  Google Cloud CEO Thomas Kurian says AI boosts productivity without cutting jobs. Using tools like Google’s Customer Engagement Suite, he explains, AI handles minor tasks and
-  🔗 https://www.livemint.com/technology/tech-news/google-cloud-ceo-thomas-kurian-has-a-message-for-techies-ai-is-here-to-amplify-human-capability-not-replace-jobs-11760320302690.html
-
-- Elon Musk’s X removes 1.7 million bots flooding replies — Here’s what’s on radar next…
-  Elon Musk-owned X has purged 1.7 million bots engaged in reply spam. The platform aims to improve user experience and will
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-s-x-removes-1-7-million-bots-flooding-replies-here-s-what-s-on-radar-next-11760316588104.html
-
-- Gemini Nano Banana model now generates and edits images inside Google apps: How it works
-  Google is rolling out AI Mode Search Lab on Android in the US. It adds a ‘Create’ tab for selfies and prompts, aiming to unify Google's AI tools.
-  🔗 https://www.livemint.com/technology/tech-news/gemini-nano-banana-model-now-generates-and-edits-images-inside-google-apps-how-it-works-11760263235365.html
-
-- Ashish Kacholia's latest buy is an SME stock with 1,350% returns in 3 years. Check details
-  Ashish Kacholia has acquired a 2.71% stake in V-Marc India. The smallcap multibagger delivering 1,350% returns over three years.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholias-latest-buy-is-an-sme-stock-with-1350-returns-in-3-years-check-details/articleshow/124519114.cms
-
-- Canara Robeco AMC IPO Day 3: Issue sees sluggish subscription, falling GMP. Is it worth applying?
-  Canara Robeco AMC’s Rs 1,326 crore IPO remains under-subscribed at 48% after
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/canara-robeco-amc-ipo-day-3-issue-sees-sluggish-subscription-falling-gmp-is-it-worth-applying/articleshow/124518947.cms
-
-- LG shares listing date tomorrow, GMP hints at 32% gains over IPO price. What to expect?
-  LG Electronics India is set to debut on October 14, with grey market trends hinting at a 32% listing premium. The Rs 11,607 crore IPO drew record Rs 4.39 lakh crore in bids.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/lg-listing-date-tomorrow-gmp-hints-at-32-listing-pop-what-to-expect/articleshow/124518807.cms
-
-- Anil Ambani’s Reliance stocks tumble up to 10%. Here’s what is behind the steep selloff
-  Shares of Reliance Power and Reliance Infrastructure fell sharply after the ED arrested senior executive Ashok Kumar Pal over alleged fake bank guarantees and invoicing. The investigation, linked to Rs 3,000 crore Yes Bank loans
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/anil-ambanis-reliance-stocks-tumble-up-to-10-heres-what-is-behind-the-steep-selloff/articleshow/124518594.cms
-
-- Fed’s Musalem signals room for one more rate cut
-  St. Louis Fed President Musalem signals potential for one more rate cut. He urges caution as inflation remains above target and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/feds-musalem-signals-room-for-one-more-rate-cut/slideshow/124518735.cms
+- After 'you are great' gift for PM Modi, Trump is back to tariff threat & India-Pak ceasefire claim | Latest News India - Hindustan Times
+  After 'you are great' gift for PM Modi, Trump is back to tariff threat & India-Pak
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaWJhemoxcEhWVlZyQkhyLU1uTFNKWTV0enVacjNmNWdHbEZJazNGUDF2V094ZlVvTHU0RThSOThyQ1dFVzViTnFkbXZyZmZkaE8yM1Z5RlpCdnEyVS1Ha3ZGMktBQV9iZkdtWkxnRXo4WDlaNG5JYTQwVjBTYmw2ZzExNmdaSVZ3U2xtNk9ZRGtOSWhZVlI0VG9YMGJWRnFKSGd1c2xtMVhSTUk1Qnp5MFE0TUcwellnZlZZZms5YmRkR29RRTZxYW9TcXVGblR6YkczTjZ3SnpsVTM1SFQ4eU1aelkyc1AzZWNFS0p0TjJQdXPSAfgBQVVfeXFMTjY0aDdXYUlhU0NoXzhkTTJveTdyX1NrYkFKVkpKd2dTX2hYRkdSN01LOTBQbEJUVmFWalpOOGQ1aDlIR3ljS3ZIdWd2QkRHdmhuZG9KYVN6TzRYNHBBU24zMXRHQl9EOTNwdXVBNTVJa0piS1JzZ3FmZ3NWSERlSzdXWkJycVJWMEpraG1FNlNpWEVNWTRBOGc2WTh3UlItZ25BNVE5YWJhYkFnaV8xMVRqVHcyLS1LNjFKdXNKQXpJaWJuQ3BJeEZFZXJUQjI2OE5XWkV4ZU02VGkyME0yeE9aUTJ3dERJMTRtSVl2M0xaeThRUVBETnU?oc=5
 
 - 'Threatened 200% Tariffs': Trump Doubles Down On India-Pak Truce Claim - NDTV
   'Threatened 200% Tariffs
   🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOXzlRdDNadlZYYzRyMlpKWFcxazlDU0lpbUtBVkdRUk53cTdnMF9zc0U0Q1Bta1JCWlBvVkhKbDhlTVBMUnpYdTlnVVlTWktGR2dtRE1qempzRlczYi1McWxVblM1MFZqYmV0VTRoc2ZfWWs0b3RVaHdqcjNxOHlscjQ1Y3VvWVh2MlFhbXlvbmp5elZtdGxrMVl4UUtidWpKUHNVYnNNVkQ5blB1RldWdlRuQkU4eUVSM21tbGdzU1NnejFY0gHMAUFVX3lxTE1SQW5GN1BDSDlNX2k3Zm5XdnFtQWtmRE9OZEt3eWVaaGZvX0Q3Y1NPdlpwQmcwd2xGOWllc2hIQkQ2Q3djZEhyUmVrWXB6TkZ3WkpCUzJpWGIxNUNlNEpQZXpRczYtSE9YMEFuZGFoZS1rWGhpZWxmVktBVnByX284dzl2Q1ZSV0dLTHFNMXpWdmdlTHBzNkVCWFoxV0NmWlVHV0pTSUw2VUptVnE3MDFSMGJVLWhNUHI2bUhpY1UyZjFCY3pGb0pKZU9OcA?oc=5
 
-- Trump's big remark on ‘settling’ India-Pakistan conflict: ‘Threatened 200 per cent tariffs’ | Latest News India - Hindustan Times
-  ‘Threatened 200 per cent tariffs’ on India-Pakistan
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNVB2SnN0a2pOY3ZTMFhNbnFLb3kyOWdBTVdNWnRlSVlBOTBvaGJpZTMtSGduZ0dydFJoTEtWQ2VPQ3BGUFIxbWRuaXFqTW1ESDV3V1pVWWVSUGdLZFlxWkZKRWZLRmFWMFZLZXRMd2FjT29LNVBzT1BJdktCVVRvMTVTeEJWT2FmQ0hTM2hmampzakVHU1ItLTZENV9ZQmRncmdlTlBKa0NRSFkybzdOeVBVbHpaR05ONGtOZkpvclh6RVdZeFdzR21CdndCS2w5cldWcVBHYTRFcWNaTnMwZFZHQUx6cjV4SU9F0gHwAUFVX3lxTE9NcGFrcXpWZExtQzkweGVkS2ZlYlpqYTBCZDBwNUl2M3F4Tm1Fa19NREN4NU9oZ2dVZ1F0ZEFVTHpHVG1xMVBIOVg3QWxrX19Hb09TTjFkQzhtVkpXZmFPRjJMdHZ3VjhZRnd5N2F4WlZocUhDdFRSX3VMd0NjRGFENGl3TEtVZGpSTXNMT2JnVjhObURoeXI0eVpUdHpURVQ2V3Y3N0xjTDd6al9ScEVnOEVkaTVva1IxY09vMGpuTm4yR2ExUVN3Z0p4eXhhQjEwNFlGbkJiZ3E0LVZ0d3BGWnV5eUFMeEJZWkZ4TjlONA?oc=5
-
-- Trump’s 5% country cap on international students: Will India’s US dream take a hit, or barely move the ne - The Times of India
-  The Times of India reported that the US government is considering a cap of 5% on visas for Indian
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxOY1dDOGMzdUx5aXp4ZmlkOHFYWWVuMEliR0h2d0hMRkg3X0FSUE1FTFRnZ1FYTEwxaGZmck5RMDJQdkZ4bnlTaU1tVnVWS3ZRVk1lRjlrOVJSM0M3QlIybUpjVW9scU5UUm85bmw4cEFMZG53em9aNWN2bFU0cVhPX3NXYXdWdlZKLVhKOUlCUTJBY1FwZGwtRTZpM25ZLTVpTjRsZnhwT3hZdmNsYjRLTzR6TzVFZEh3T29aV2M2SVVzSWY0Y2hNREd5alhHMkdWSHdmX29ZdWJOZUR1ZG1GUXZXQnYySnRNZTgxZHdraVBpNkxjcF94YjdHaTZUcFl4V2R3aldjbEtNalRhbVHSAZMCQVVfeXFMUC0wY091UEFLQUwxd2sxTXVoZWVSbDNyUjJBdmxqTGlZNEZDNjRZNWxQbURjbGV0ZzkySGtad1NlbHk2Qlh3Q0ptczhIQnhCWlU0T2d3NF90cW43cEJ1d2E3YU14YXFXSlNMNmVDV2ttdzU4YVhMTkF2Y01HWG9MQWhNalVUeUxJbHMzemlNaFE4Y245aFRJT1I2akVjY2NuU21nakQwTHF5ckEwNWFRSUN0NWhWQ25UVGlDY0g1UzdPQ1BOcDVoeUFVTDJISWJrZEZKRExCSEw3aEh6enVmNXdZT0s2eERtMmFfTzhIVFc5QmQ2UTNMSjJtZk0tc0VSV0RIRzJzS0tKN0pWZG9aOC13bVU?oc=5
-
-- Pakistan fumes as Taliban back India’s sovereignty over J&K - The Times of India
-  Pakistan fumes as Taliban back India’s sovereignty
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTEdTWVplQmsxSWJjM3V6ZmVGekhyQkxFNGFUeC1nbjhGRnVSLVBpcVE3SFdJS2pRRnRGT0hPUElhZTU2cHFkSjJhNHZlYlBodk1FRnhiZUtPOER5MDRjbDFDbnJEZlB5TElzQlVrQXl6YUlqa3h4QVBCUXVjUTk4NjNnX0EzSXlaVHpXRUNJUmhLaFhPWWI0NWNyWGRRNC1HR0xUWVY2ek1KTm0wVkRDa2haREZiNFdhQzNlSEFEbUtlZWvSAcgBQVVfeXFMT3dkZ0JDOWJIS01LX3RSY185QXdDT0UwTldJR3Rfc0x6Sks4a0F0cUZydW1sVGJKcTliLVA5Q1RWWnpaMy1tM3pGcTFhTTd4bVB3TzEwdGk2R0pEeWU1Smtsb2IxRi1veXFMajVrYWlnRldlbkJrYUZHbUVKdnFQM05zemRLd1N3ZVRSbkN6STZKN0tUcFh4RmViU0VZX3lPalV2MmNsV1F5ZUhTajRiMG02Q1FBUkVGQUdlVGRmS3k3S3N0ekFBNEU?oc=5
+- Hamas frees all Israeli hostages; Donald Trump, in Israel, says war is over - India Today
+  " target="_blank">Hamas frees all Israeli
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRTVob2hQajhRWUVHbldVQlQ4RDkteFRiMnhSNU5vWnV2YmEwX2hKeTlxZnhzZm4xVUdlMFViRVJMb2cwV3d6RGdiY0t3cktDaFdZNUdXMTZYM3BfMEwxM2pjU0kwMzJCOU1xZk4xdUI0SGpWRmF1Wl9peUY3NXhKVlhQd0RRTmROX0pFYmtMTXBpSXVHQnc0UzZZb3BIUzdUWFR0WVZhR096TFVUTjZWUGhpU1BCRGFUQ2ROY3FtM2owc3R4dEVfa2JJemdYTXoyT2F4NlpzZExqZ0kzSWpYRXdQUGVZYk140gHuAUFVX3lxTE5GbjR5cGc1bDVucEpQaEFObi1Wa0VQS3Rrd2VLZ281Z0F2Qm9GS3VEQUZWblR6Yzdxc2tMQkIwaDQzTkVHeDZMWGp3RGtfdzFPOUM4UG9mMGdVWXlFeHFVOUpzSTlaQlctSXpCLVk0TzdWaHNrbURQdkpObkJSS21KNmpRdG5odlA2TVh0d2hCNE5iZGRJemNPYllMV1hkbEstTC0zaUhQSWJTUFpyZFNlOUpXRXhnMnBtXzFtWkpOTWxzbUdpaXlkNXVqdHJKclU4VzlzQ0JJbjVDUmJ6RXEzZXJHczc4ckJjN3hVUEE?oc=5
 
 - Pakistan Summons Afghan Envoy Over Joint Statement During India Visit - NDTV
   Pakistan Summons Afghan Envoy Over Joint
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVRvUU5LdjNOY0xBckNBczdDOFhUcVNRakY4NDY0aG5Edk11d24zWkFxMmNocnEzVlRTNUFnQS01bU80bGtKRk9HUmItNmFkeTBTMjlIcU1kYXdHQ3JhVnJMdGZMbEU0NG4wMFdpRmtKMmZmUlE5eHJPTlFpeXh3VkMxa2swVGtVMDE4NTd0NnpEUlR2UXN6ekdDdlRScDVuYVVLazVZZUlMdzNKOEtRdmJoUVjSAbwBQVVfeXFMUFU0WmF3cTFYWExmU3B2MWtaMW9iNEZpMHVmQUQ2eWh5b1F6VHUtbmw3MmtmS1ZkczNRWkZhRF9RMGlzdzVrbG83YXgzR0daaHJoQ2d0Q2ZwS1VEYXl4MTVIY1RDSk1FWUVNem9yRFNzdFowYVNxQTk0a181LVVBYnRscFZoZ1p3RVpvdmRXU3BoT1VudjhXTVFhWVFSeW9ud3lUdDZpcUo5U1VXSjB5M0RuNTFDN3gxMU42OEU?oc=5
+
+- Afghan Minister Clarifies After Outrage Over No Women Journalists At Presser - NDTV
+  Afghan Minister Clarifies After Outrage Over
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcEo5ajV6UzhBdFk0TzFra1B3OGFyMzI0SFZhQmo3bzVMX08yQ1BiSnlXR3N6NWZXTTRrU2JQdnptWHItenpsWlFKUlhvdVctTUJOMGdOaXJfYXlaZ0JXbFB1ZWhMdmJZV0d3blpqbHBXWGp5d0NTWjRFdVFTalpwWEFqYVVLOGl2RVdvdDY3UUl0ci0wcWt1eGVNckhpYUZQdmota19rWWcxMFRYTTJtSGluYWlyNXhfaUM5Q194ZVhKdUpVaUZuSVRRVS1yc2s1eXdBeG9hVHNvVWJyWVRwMmxleElyRFF6cmfSAfIBQVVfeXFMTV9ZdGlCUHpZSEJPZzI1MURSa0tJeHdZYk51WHUzNEFsU28zTDZ6OXlXM01ZN18zTVVaRjhlXzVncWVrbHFIX2tlNDFnY3lsUmR5WVNVeTh1UFJ1VUUxd0dmcDh5anBHUE4tMmxpWkxyemd3YzkwanhuTFU4TVFYVVdpeWtIM29XSGVjUUlUZExDbnNqSEpsckxrYnVGYzNmbTlBRWJUTEVXMElDUmpiWm40QmNJY0RmcGp6V2ZoUE9DZXpYSWRPNWdzTlJYLU9MVl9ncFBXeXhqcjNsREQ1aDVGVHQ2ZmtlQU44VVJKWVhlZEE?oc=5
+
+- Namma Yatri’s  ₹25 revolution: The tiny Bengaluru app forced Uber and Ola to change—what’s next?
+  Namma Yatri took no commissions from drivers at a time when aggregators were taking a hefty cut. Now, with Ola and Uber following its lead,
+  🔗 https://www.livemint.com/companies/namma-yatri-uber-ola-ride-hailing-commute-multimodal-rides-11760355048616.html
+
+- Supreme Court refuses to hear Asian Paints’ plea against competition commission probe, allows firm to withdraw petition
+  Asian Paints argued it faced repeated scrutiny whenever a new player entered the market. Competition Commission of India
+  🔗 https://www.livemint.com/companies/news/asian-paints-supreme-court-case-cci-antitrust-probe-asian-paints-vs-birla-opus-11760348195926.html
+
+- ‘Admit mistake, pay penalty’: ED offers to close FEMA violation case against Flipkart on conditions — What we know
+  The Enforcement Directorate has offered to close a FEMA violations case against Flipkart if it admits wrongdoing and pays a penalty. The agency is also investigating Amazon India for similar
+  🔗 https://www.livemint.com/companies/news/ed-offers-close-fema-violation-case-against-flipkart-conditions-admit-mistake-pay-penalty-dismantle-network-probe-amazon-11760334597765.html
+
+- Vodafone Idea case deferred a fourth time—to be taken up after Diwali. Shares fall.
+  The Supreme Court has again deferred Vodafone Idea's plea for a waiver on  ₹9,450 crore dues to the government. The case has been postponed multiple times as the government sought more
+  🔗 https://www.livemint.com/companies/vodafone-idea-agr-case-supreme-court-hearing-deferred-11760338636714.html
+
+- H-1B visa crackdown not an existential threat to TCS; CEO Krithivasan says firm 'can survive'
+  TCS is the second-biggest beneficiary of the H-1B programme in 2025 after Amazon. Over 5,
+  🔗 https://www.livemint.com/companies/news/h1b-visa-crackdown-not-an-existential-threat-to-tcs-ceo-krithivasan-says-firm-can-survive-11760337946989.html
+
+- Dow futures jump 300 points after Trump says China situation ‘will all be fine’: Live updates - CNBC
+  Dow futures jump 300 points after Trump says China situation ‘will
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1oT1M1bU5tYXhVYTNnNW9jYllzdFZ3eXFDb0lfMGUteUFiZmtJa2NzZG15ZTlMa2hyWTVMYktVX1p3X3VHWUhmRjhiVjk0UEVKcXFVME52Y1VoYllIM0dabnRxdFFhc080b2EwRU5HQVEwTkt2bTQ00gF8QVVfeXFMUG1Ka2h2MkNpVUwtck9nYk1CYTQ4Z2U3ZEpQRjYyYmdKa1NxSDRFaG1ZM2h1WFRlMExGQmYyWUpMZkRPMTk3a09xRU8zMURHVkNZVXB4Q1dseC1GUHA0NDFYYkJXak9rR1Fxd2ZwbkhWWDR2MmJQZ19oM21haA?oc=5
+
+- Stocks Bounce Back as Trump Softens China Rhetoric: Markets Wrap - Bloomberg.com
+  Stocks Bounce Back as Trump Softens
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQMldBdnpxU2loV1gtaUU3R2g3cE54Zzd3LTdhdUpBZmZrZjhtTDlpbHVaYi02TW81QzZKNGFKc21sYk9oUEVHVWxVYy01SURFWUFGVWtGZ0xCSzFYcDA4Vjd5ZExGSUg3anNYclJRdW5tSDFabkFuUFVEU3B4NmdPandjUGdNRi1Oc0NsWlM3UHlqUlRJYWlKNmkxRW9QT2V6NHpkZm1rTWJNV3FPWXJEWkVQRQ?oc=5
+
+- Stock Market Today: Dow Futures Rally After Trump Softens China Threats — Live Updates - The Wall Street Journal
+  Stock Market Today: Dow Futures Rally After Trump Softens China Threats
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQTzg1dllHWURSbm5JSVhqYjMzZlUySTMxZXZGYy1PSFZpNE1idDRNSk0wcFp0NENpZE02R2hSOHlxaGQ2Vm5NMnpIRHNWR3JZNE5yZ2g0bExlU29uelRodElIOFhiWTdrMk1vckN6X3NIWG9MWEZFMWE4dnA4dXc0b1F0N1VPbVk?oc=5
+
+- Tata Capital ends flat on market debut after ₹15,512 crore mega IPO - Business Standard
+  Tata Capital ends flat on market debut after �
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdXlEMGNETXd2TXBGR0pFQW1hTEEzdzNMMkhRUzN1TUw5YlRWblJqRzhpcUhybDBreUdHY0FZRU91MDdFRmR0WVExdXMycm1NNFRlOGFIRmtsTGlic01IVUhVYVNSQlh1NVI1b05ZTmdva09JVXFMVkYwN1d6aTJYTGNIc2NpQU1hcVRTb19aOWlERVhOM0h1MzN4NVF0WnE4S3VXYjM1eDlMTjdFeEtmY3ZvZnFEOFczTmlyM1I1cjdIM04yN213WkwwZzM2TDM1R3fSAdcBQVVfeXFMTlhiSFdfQTdQbGcxeXF1T2FJeWlkUlk1NTlEclhDcWNPSlpMZ0d4QkV2SnIxVVljVlIzaFZ4T0IzZmdzZDlQWWdJb0czSGpvZWJfOGc4MnJ1MFdWNUF6OGZlX3RkeURhS2M3SUhKaGVhMTBLWUdGbi1HUlV5STZrbGUtOHhZYXZ5NUN1WU5EX0RLSmdoR3RlR05vZ3FRVUVBS3Jjdy1Yd3RMc282VGc4bEJNVmY0S2pUZndDM05rdXFGNExXU1dwUml1bjFOaTRldDJOZWNEOGM?oc=5
+
+- U.S. stock market futures soar after $2 trillion market wipeout last week as Trump softens China stance — - The Economic Times
+  The Chinese stock market soared after $2.2 trillion was wiped out last week. The
+  🔗 https://news.google.com/rss/articles/CBMiqANBVV95cUxPcnB5WFcxZ0tjdlA5SUd1RVU1WFNiWjNQRHpBeWZ6TWtDUHpMSUNLWWRTWldGaFNjNXNVdEVYRlN1VVZjSjVVVWJ5MEJDQkVRRExYVHVvVGRLMkpSQkVrODAzaGoyQ2xLVnVBYkpKVDFyd2Y5LUl6TFMwNUxLeFBXMFR2VXNSLVBQbHh6YnVmT3B4OTJRa1N6cWYxQi10bExRZXBMdm5SdnoxRFZLZmdCVk4yTUotcDhPdHVhUzVkS2hGZXdHVXBTZUVJR09NNmVYcnBPSFJRRkZRRFExYkJqY2thSC1wT2Q5aTNpV2hFQmNWLTdLZUFCSnlISUh5VHJLZ3luUS15TkNNUklsWVBfUGFHMnl2TzFLd1pYVWp4S3kzbVEwcE9XTTZIUjBiMDZOTjRTRVlPT0tHLXk5cUJxQVVfeGdRQ0d3dkpjMFozOUVjeDJOTHlUaUI3M3p0anJXazdWMkd6bFRzLWxBWEVvTGF6dU5TSFRsY0ZzRS1qQnlOWDhRNmdJa1I2X1JuemNmdFFRcjJnVFp4WHpKUkozTjFTNG5GNXhz0gGuA0FVX3lxTFBnT0NJQkdCT3dqQ3FfRXhGWlJ3UlloU1dMNXQyV3ljaFlld2Y3Z2ZYU1ZIdkhvSTlIUVR0VGVMVkkyQ25oUEV6bTdCRHlYVUYyVjdDS1pDS015aGdrRC1tYzE5WHlJSjA2UW1sbnM2U2tHeEUyOEhOOV9NMkdCVS0tSXBxOGdjNFUtSzlRTjhzcHE2Y1dEdTR0dkZWWE5Meng2V2NkOVZER3g5VWtPdXZJeUtKX0N2bjdwOW5qdVpndXBvc1BFQWg1TXI5YUNkZVotcVdtMWNyZ092ZU85NHhPM1BzZzU4UWU5SlFqaWt1RUdQT08xZF9IZTBxdTgwSnk5N0RIQ3hveWZsTFRjei14a0x0WC1ERkd5VXZrUEVNMldJTU5JWGZ5MEJPWXNsTjIzb3UzUXBTOEs3dDRoUVAtQktFa0ZtT01ab29TUGotWHNTdDJjdGlxSEhFdml5Vm12dm5vT2VsbVBlSDJDS1VTZE0ybGJzaF9TY3V1bnp3bV9YQXZONlI1UlViNGpnSF9MVGFLQkhkb0ZHelVqdm9FUXBGcjlvZGhZbl9nVmc?oc=5
+
+- HCL Technologies Q2 Results: Cons PAT flat YoY at Rs 4,235 crore, revenue up 11%. Rs 12/share dividend announced
+  HCL Technologies announced its Q2 financial results. Net profit remained steady compared to last year. Revenue from operations saw a significant increase of 11%.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-technologies-q2-results-cons-pat-flat-yoy-at-rs-4235-crore-revenue-up-11-rs-12/share-dividend-announced/articleshow/124526932.cms
+
+- US-based Tryfacta plans IPO at GIFT City to raise up to  $150 million
+  Tryfacta Inc is planning to file draft papers for its initial public offering (IPO) by the end of this month to raise USD 100-150 million.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/us-based-tryfacta-plans-ipo-at-gift-city-to-raise-up-to-150-million/articleshow/124524163.cms
+
+- Julius Baer faces credit losses from insolvent Degag Group, report says
+  The bank has filed claims for 48 million euros. This amount surpasses its 2023 profit in Germany. The situation is a setback for Julius Baer.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/julius-baer-faces-credit-losses-from-insolvent-degag-group-report-says/articleshow/124526430.cms
+
+- Lenskart, Billionbrains set to cap record month for India IPOs
+   Lenskart and Groww's parent Billionbrains are poised to raise a combined $1.7 billion through IPOs. The listings are expected by early November.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/lenskart-billionbrains-set-to-cap-record-1-7-billion-month-for-india-ipos/articleshow/124526195.cms
+
+- Kolkata property market shows steady growth with 8% price rise in July-Sept 2025: Knight Frank
+  Kolkata's housing market is showing strong stability, with an 8% year-on-year price increase driven by genuine buyer demand and a focus on quality. The office sector also saw significant growth, with rental
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/kolkata-property-market-shows-steady-growth-with-8-price-rise-in-july-sept-2025-knight-frank/articleshow/124525756.cms
+
+- After 'you are great' gift for PM Modi, Trump is back to tariff threat & India-Pak ceasefire claim | Latest News India - Hindustan Times
+  After 'you are great' gift for PM Modi, Trump is back to tariff threat & India-Pak
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaWJhemoxcEhWVlZyQkhyLU1uTFNKWTV0enVacjNmNWdHbEZJazNGUDF2V094ZlVvTHU0RThSOThyQ1dFVzViTnFkbXZyZmZkaE8yM1Z5RlpCdnEyVS1Ha3ZGMktBQV9iZkdtWkxnRXo4WDlaNG5JYTQwVjBTYmw2ZzExNmdaSVZ3U2xtNk9ZRGtOSWhZVlI0VG9YMGJWRnFKSGd1c2xtMVhSTUk1Qnp5MFE0TUcwellnZlZZZms5YmRkR29RRTZxYW9TcXVGblR6YkczTjZ3SnpsVTM1SFQ4eU1aelkyc1AzZWNFS0p0TjJQdXPSAfgBQVVfeXFMTjY0aDdXYUlhU0NoXzhkTTJveTdyX1NrYkFKVkpKd2dTX2hYRkdSN01LOTBQbEJUVmFWalpOOGQ1aDlIR3ljS3ZIdWd2QkRHdmhuZG9KYVN6TzRYNHBBU24zMXRHQl9EOTNwdXVBNTVJa0piS1JzZ3FmZ3NWSERlSzdXWkJycVJWMEpraG1FNlNpWEVNWTRBOGc2WTh3UlItZ25BNVE5YWJhYkFnaV8xMVRqVHcyLS1LNjFKdXNKQXpJaWJuQ3BJeEZFZXJUQjI2OE5XWkV4ZU02VGkyME0yeE9aUTJ3dERJMTRtSVl2M0xaeThRUVBETnU?oc=5
 
 - 'Threatened 200% Tariffs': Trump Doubles Down On India-Pak Truce Claim - NDTV
   'Threatened 200% Tariffs
   🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOXzlRdDNadlZYYzRyMlpKWFcxazlDU0lpbUtBVkdRUk53cTdnMF9zc0U0Q1Bta1JCWlBvVkhKbDhlTVBMUnpYdTlnVVlTWktGR2dtRE1qempzRlczYi1McWxVblM1MFZqYmV0VTRoc2ZfWWs0b3RVaHdqcjNxOHlscjQ1Y3VvWVh2MlFhbXlvbmp5elZtdGxrMVl4UUtidWpKUHNVYnNNVkQ5blB1RldWdlRuQkU4eUVSM21tbGdzU1NnejFY0gHMAUFVX3lxTE1SQW5GN1BDSDlNX2k3Zm5XdnFtQWtmRE9OZEt3eWVaaGZvX0Q3Y1NPdlpwQmcwd2xGOWllc2hIQkQ2Q3djZEhyUmVrWXB6TkZ3WkpCUzJpWGIxNUNlNEpQZXpRczYtSE9YMEFuZGFoZS1rWGhpZWxmVktBVnByX284dzl2Q1ZSV0dLTHFNMXpWdmdlTHBzNkVCWFoxV0NmWlVHV0pTSUw2VUptVnE3MDFSMGJVLWhNUHI2bUhpY1UyZjFCY3pGb0pKZU9OcA?oc=5
 
-- Trump's big remark on ‘settling’ India-Pakistan conflict: ‘Threatened 200 per cent tariffs’ | Latest News India - Hindustan Times
-  ‘Threatened 200 per cent tariffs’ on India-Pakistan
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNVB2SnN0a2pOY3ZTMFhNbnFLb3kyOWdBTVdNWnRlSVlBOTBvaGJpZTMtSGduZ0dydFJoTEtWQ2VPQ3BGUFIxbWRuaXFqTW1ESDV3V1pVWWVSUGdLZFlxWkZKRWZLRmFWMFZLZXRMd2FjT29LNVBzT1BJdktCVVRvMTVTeEJWT2FmQ0hTM2hmampzakVHU1ItLTZENV9ZQmRncmdlTlBKa0NRSFkybzdOeVBVbHpaR05ONGtOZkpvclh6RVdZeFdzR21CdndCS2w5cldWcVBHYTRFcWNaTnMwZFZHQUx6cjV4SU9F0gHwAUFVX3lxTE9NcGFrcXpWZExtQzkweGVkS2ZlYlpqYTBCZDBwNUl2M3F4Tm1Fa19NREN4NU9oZ2dVZ1F0ZEFVTHpHVG1xMVBIOVg3QWxrX19Hb09TTjFkQzhtVkpXZmFPRjJMdHZ3VjhZRnd5N2F4WlZocUhDdFRSX3VMd0NjRGFENGl3TEtVZGpSTXNMT2JnVjhObURoeXI0eVpUdHpURVQ2V3Y3N0xjTDd6al9ScEVnOEVkaTVva1IxY09vMGpuTm4yR2ExUVN3Z0p4eXhhQjEwNFlGbkJiZ3E0LVZ0d3BGWnV5eUFMeEJZWkZ4TjlONA?oc=5
-
-- Trump’s 5% country cap on international students: Will India’s US dream take a hit, or barely move the ne - The Times of India
-  The Times of India reported that the US government is considering a cap of 5% on visas for Indian
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxOY1dDOGMzdUx5aXp4ZmlkOHFYWWVuMEliR0h2d0hMRkg3X0FSUE1FTFRnZ1FYTEwxaGZmck5RMDJQdkZ4bnlTaU1tVnVWS3ZRVk1lRjlrOVJSM0M3QlIybUpjVW9scU5UUm85bmw4cEFMZG53em9aNWN2bFU0cVhPX3NXYXdWdlZKLVhKOUlCUTJBY1FwZGwtRTZpM25ZLTVpTjRsZnhwT3hZdmNsYjRLTzR6TzVFZEh3T29aV2M2SVVzSWY0Y2hNREd5alhHMkdWSHdmX29ZdWJOZUR1ZG1GUXZXQnYySnRNZTgxZHdraVBpNkxjcF94YjdHaTZUcFl4V2R3aldjbEtNalRhbVHSAZMCQVVfeXFMUC0wY091UEFLQUwxd2sxTXVoZWVSbDNyUjJBdmxqTGlZNEZDNjRZNWxQbURjbGV0ZzkySGtad1NlbHk2Qlh3Q0ptczhIQnhCWlU0T2d3NF90cW43cEJ1d2E3YU14YXFXSlNMNmVDV2ttdzU4YVhMTkF2Y01HWG9MQWhNalVUeUxJbHMzemlNaFE4Y245aFRJT1I2akVjY2NuU21nakQwTHF5ckEwNWFRSUN0NWhWQ25UVGlDY0g1UzdPQ1BOcDVoeUFVTDJISWJrZEZKRExCSEw3aEh6enVmNXdZT0s2eERtMmFfTzhIVFc5QmQ2UTNMSjJtZk0tc0VSV0RIRzJzS0tKN0pWZG9aOC13bVU?oc=5
-
-- Pakistan fumes as Taliban back India’s sovereignty over J&K - The Times of India
-  Pakistan fumes as Taliban back India’s sovereignty
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTEdTWVplQmsxSWJjM3V6ZmVGekhyQkxFNGFUeC1nbjhGRnVSLVBpcVE3SFdJS2pRRnRGT0hPUElhZTU2cHFkSjJhNHZlYlBodk1FRnhiZUtPOER5MDRjbDFDbnJEZlB5TElzQlVrQXl6YUlqa3h4QVBCUXVjUTk4NjNnX0EzSXlaVHpXRUNJUmhLaFhPWWI0NWNyWGRRNC1HR0xUWVY2ek1KTm0wVkRDa2haREZiNFdhQzNlSEFEbUtlZWvSAcgBQVVfeXFMT3dkZ0JDOWJIS01LX3RSY185QXdDT0UwTldJR3Rfc0x6Sks4a0F0cUZydW1sVGJKcTliLVA5Q1RWWnpaMy1tM3pGcTFhTTd4bVB3TzEwdGk2R0pEeWU1Smtsb2IxRi1veXFMajVrYWlnRldlbkJrYUZHbUVKdnFQM05zemRLd1N3ZVRSbkN6STZKN0tUcFh4RmViU0VZX3lPalV2MmNsV1F5ZUhTajRiMG02Q1FBUkVGQUdlVGRmS3k3S3N0ekFBNEU?oc=5
+- Hamas frees all Israeli hostages; Donald Trump, in Israel, says war is over - India Today
+  " target="_blank">Hamas frees all Israeli
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRTVob2hQajhRWUVHbldVQlQ4RDkteFRiMnhSNU5vWnV2YmEwX2hKeTlxZnhzZm4xVUdlMFViRVJMb2cwV3d6RGdiY0t3cktDaFdZNUdXMTZYM3BfMEwxM2pjU0kwMzJCOU1xZk4xdUI0SGpWRmF1Wl9peUY3NXhKVlhQd0RRTmROX0pFYmtMTXBpSXVHQnc0UzZZb3BIUzdUWFR0WVZhR096TFVUTjZWUGhpU1BCRGFUQ2ROY3FtM2owc3R4dEVfa2JJemdYTXoyT2F4NlpzZExqZ0kzSWpYRXdQUGVZYk140gHuAUFVX3lxTE5GbjR5cGc1bDVucEpQaEFObi1Wa0VQS3Rrd2VLZ281Z0F2Qm9GS3VEQUZWblR6Yzdxc2tMQkIwaDQzTkVHeDZMWGp3RGtfdzFPOUM4UG9mMGdVWXlFeHFVOUpzSTlaQlctSXpCLVk0TzdWaHNrbURQdkpObkJSS21KNmpRdG5odlA2TVh0d2hCNE5iZGRJemNPYllMV1hkbEstTC0zaUhQSWJTUFpyZFNlOUpXRXhnMnBtXzFtWkpOTWxzbUdpaXlkNXVqdHJKclU4VzlzQ0JJbjVDUmJ6RXEzZXJHczc4ckJjN3hVUEE?oc=5
 
 - Pakistan Summons Afghan Envoy Over Joint Statement During India Visit - NDTV
   Pakistan Summons Afghan Envoy Over Joint
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVRvUU5LdjNOY0xBckNBczdDOFhUcVNRakY4NDY0aG5Edk11d24zWkFxMmNocnEzVlRTNUFnQS01bU80bGtKRk9HUmItNmFkeTBTMjlIcU1kYXdHQ3JhVnJMdGZMbEU0NG4wMFdpRmtKMmZmUlE5eHJPTlFpeXh3VkMxa2swVGtVMDE4NTd0NnpEUlR2UXN6ekdDdlRScDVuYVVLazVZZUlMdzNKOEtRdmJoUVjSAbwBQVVfeXFMUFU0WmF3cTFYWExmU3B2MWtaMW9iNEZpMHVmQUQ2eWh5b1F6VHUtbmw3MmtmS1ZkczNRWkZhRF9RMGlzdzVrbG83YXgzR0daaHJoQ2d0Q2ZwS1VEYXl4MTVIY1RDSk1FWUVNem9yRFNzdFowYVNxQTk0a181LVVBYnRscFZoZ1p3RVpvdmRXU3BoT1VudjhXTVFhWVFSeW9ud3lUdDZpcUo5U1VXSjB5M0RuNTFDN3gxMU42OEU?oc=5
 
+- Afghan Minister Clarifies After Outrage Over No Women Journalists At Presser - NDTV
+  Afghan Minister Clarifies After Outrage Over
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcEo5ajV6UzhBdFk0TzFra1B3OGFyMzI0SFZhQmo3bzVMX08yQ1BiSnlXR3N6NWZXTTRrU2JQdnptWHItenpsWlFKUlhvdVctTUJOMGdOaXJfYXlaZ0JXbFB1ZWhMdmJZV0d3blpqbHBXWGp5d0NTWjRFdVFTalpwWEFqYVVLOGl2RVdvdDY3UUl0ci0wcWt1eGVNckhpYUZQdmota19rWWcxMFRYTTJtSGluYWlyNXhfaUM5Q194ZVhKdUpVaUZuSVRRVS1yc2s1eXdBeG9hVHNvVWJyWVRwMmxleElyRFF6cmfSAfIBQVVfeXFMTV9ZdGlCUHpZSEJPZzI1MURSa0tJeHdZYk51WHUzNEFsU28zTDZ6OXlXM01ZN18zTVVaRjhlXzVncWVrbHFIX2tlNDFnY3lsUmR5WVNVeTh1UFJ1VUUxd0dmcDh5anBHUE4tMmxpWkxyemd3YzkwanhuTFU4TVFYVVdpeWtIM29XSGVjUUlUZExDbnNqSEpsckxrYnVGYzNmbTlBRWJUTEVXMElDUmpiWm40QmNJY0RmcGp6V2ZoUE9DZXpYSWRPNWdzTlJYLU9MVl9ncFBXeXhqcjNsREQ1aDVGVHQ2ZmtlQU44VVJKWVhlZEE?oc=5
 
-_Last updated: 2025-10-13 06:27:49 UTC_
+- After 'you are great' gift for PM Modi, Trump is back to tariff threat & India-Pak ceasefire claim | Latest News India - Hindustan Times
+  After 'you are great' gift for PM Modi, Trump is back to tariff threat & India-Pak
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaWJhemoxcEhWVlZyQkhyLU1uTFNKWTV0enVacjNmNWdHbEZJazNGUDF2V094ZlVvTHU0RThSOThyQ1dFVzViTnFkbXZyZmZkaE8yM1Z5RlpCdnEyVS1Ha3ZGMktBQV9iZkdtWkxnRXo4WDlaNG5JYTQwVjBTYmw2ZzExNmdaSVZ3U2xtNk9ZRGtOSWhZVlI0VG9YMGJWRnFKSGd1c2xtMVhSTUk1Qnp5MFE0TUcwellnZlZZZms5YmRkR29RRTZxYW9TcXVGblR6YkczTjZ3SnpsVTM1SFQ4eU1aelkyc1AzZWNFS0p0TjJQdXPSAfgBQVVfeXFMTjY0aDdXYUlhU0NoXzhkTTJveTdyX1NrYkFKVkpKd2dTX2hYRkdSN01LOTBQbEJUVmFWalpOOGQ1aDlIR3ljS3ZIdWd2QkRHdmhuZG9KYVN6TzRYNHBBU24zMXRHQl9EOTNwdXVBNTVJa0piS1JzZ3FmZ3NWSERlSzdXWkJycVJWMEpraG1FNlNpWEVNWTRBOGc2WTh3UlItZ25BNVE5YWJhYkFnaV8xMVRqVHcyLS1LNjFKdXNKQXpJaWJuQ3BJeEZFZXJUQjI2OE5XWkV4ZU02VGkyME0yeE9aUTJ3dERJMTRtSVl2M0xaeThRUVBETnU?oc=5
+
+- 'Threatened 200% Tariffs': Trump Doubles Down On India-Pak Truce Claim - NDTV
+  'Threatened 200% Tariffs
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOXzlRdDNadlZYYzRyMlpKWFcxazlDU0lpbUtBVkdRUk53cTdnMF9zc0U0Q1Bta1JCWlBvVkhKbDhlTVBMUnpYdTlnVVlTWktGR2dtRE1qempzRlczYi1McWxVblM1MFZqYmV0VTRoc2ZfWWs0b3RVaHdqcjNxOHlscjQ1Y3VvWVh2MlFhbXlvbmp5elZtdGxrMVl4UUtidWpKUHNVYnNNVkQ5blB1RldWdlRuQkU4eUVSM21tbGdzU1NnejFY0gHMAUFVX3lxTE1SQW5GN1BDSDlNX2k3Zm5XdnFtQWtmRE9OZEt3eWVaaGZvX0Q3Y1NPdlpwQmcwd2xGOWllc2hIQkQ2Q3djZEhyUmVrWXB6TkZ3WkpCUzJpWGIxNUNlNEpQZXpRczYtSE9YMEFuZGFoZS1rWGhpZWxmVktBVnByX284dzl2Q1ZSV0dLTHFNMXpWdmdlTHBzNkVCWFoxV0NmWlVHV0pTSUw2VUptVnE3MDFSMGJVLWhNUHI2bUhpY1UyZjFCY3pGb0pKZU9OcA?oc=5
+
+- Hamas frees all Israeli hostages; Donald Trump, in Israel, says war is over - India Today
+  " target="_blank">Hamas frees all Israeli
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRTVob2hQajhRWUVHbldVQlQ4RDkteFRiMnhSNU5vWnV2YmEwX2hKeTlxZnhzZm4xVUdlMFViRVJMb2cwV3d6RGdiY0t3cktDaFdZNUdXMTZYM3BfMEwxM2pjU0kwMzJCOU1xZk4xdUI0SGpWRmF1Wl9peUY3NXhKVlhQd0RRTmROX0pFYmtMTXBpSXVHQnc0UzZZb3BIUzdUWFR0WVZhR096TFVUTjZWUGhpU1BCRGFUQ2ROY3FtM2owc3R4dEVfa2JJemdYTXoyT2F4NlpzZExqZ0kzSWpYRXdQUGVZYk140gHuAUFVX3lxTE5GbjR5cGc1bDVucEpQaEFObi1Wa0VQS3Rrd2VLZ281Z0F2Qm9GS3VEQUZWblR6Yzdxc2tMQkIwaDQzTkVHeDZMWGp3RGtfdzFPOUM4UG9mMGdVWXlFeHFVOUpzSTlaQlctSXpCLVk0TzdWaHNrbURQdkpObkJSS21KNmpRdG5odlA2TVh0d2hCNE5iZGRJemNPYllMV1hkbEstTC0zaUhQSWJTUFpyZFNlOUpXRXhnMnBtXzFtWkpOTWxzbUdpaXlkNXVqdHJKclU4VzlzQ0JJbjVDUmJ6RXEzZXJHczc4ckJjN3hVUEE?oc=5
+
+- Pakistan Summons Afghan Envoy Over Joint Statement During India Visit - NDTV
+  Pakistan Summons Afghan Envoy Over Joint
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVRvUU5LdjNOY0xBckNBczdDOFhUcVNRakY4NDY0aG5Edk11d24zWkFxMmNocnEzVlRTNUFnQS01bU80bGtKRk9HUmItNmFkeTBTMjlIcU1kYXdHQ3JhVnJMdGZMbEU0NG4wMFdpRmtKMmZmUlE5eHJPTlFpeXh3VkMxa2swVGtVMDE4NTd0NnpEUlR2UXN6ekdDdlRScDVuYVVLazVZZUlMdzNKOEtRdmJoUVjSAbwBQVVfeXFMUFU0WmF3cTFYWExmU3B2MWtaMW9iNEZpMHVmQUQ2eWh5b1F6VHUtbmw3MmtmS1ZkczNRWkZhRF9RMGlzdzVrbG83YXgzR0daaHJoQ2d0Q2ZwS1VEYXl4MTVIY1RDSk1FWUVNem9yRFNzdFowYVNxQTk0a181LVVBYnRscFZoZ1p3RVpvdmRXU3BoT1VudjhXTVFhWVFSeW9ud3lUdDZpcUo5U1VXSjB5M0RuNTFDN3gxMU42OEU?oc=5
+
+- Afghan Minister Clarifies After Outrage Over No Women Journalists At Presser - NDTV
+  Afghan Minister Clarifies After Outrage Over
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcEo5ajV6UzhBdFk0TzFra1B3OGFyMzI0SFZhQmo3bzVMX08yQ1BiSnlXR3N6NWZXTTRrU2JQdnptWHItenpsWlFKUlhvdVctTUJOMGdOaXJfYXlaZ0JXbFB1ZWhMdmJZV0d3blpqbHBXWGp5d0NTWjRFdVFTalpwWEFqYVVLOGl2RVdvdDY3UUl0ci0wcWt1eGVNckhpYUZQdmota19rWWcxMFRYTTJtSGluYWlyNXhfaUM5Q194ZVhKdUpVaUZuSVRRVS1yc2s1eXdBeG9hVHNvVWJyWVRwMmxleElyRFF6cmfSAfIBQVVfeXFMTV9ZdGlCUHpZSEJPZzI1MURSa0tJeHdZYk51WHUzNEFsU28zTDZ6OXlXM01ZN18zTVVaRjhlXzVncWVrbHFIX2tlNDFnY3lsUmR5WVNVeTh1UFJ1VUUxd0dmcDh5anBHUE4tMmxpWkxyemd3YzkwanhuTFU4TVFYVVdpeWtIM29XSGVjUUlUZExDbnNqSEpsckxrYnVGYzNmbTlBRWJUTEVXMElDUmpiWm40QmNJY0RmcGp6V2ZoUE9DZXpYSWRPNWdzTlJYLU9MVl9ncFBXeXhqcjNsREQ1aDVGVHQ2ZmtlQU44VVJKWVhlZEE?oc=5
+
+- After 'you are great' gift for PM Modi, Trump is back to tariff threat & India-Pak ceasefire claim | Latest News India - Hindustan Times
+  After 'you are great' gift for PM Modi, Trump is back to tariff threat & India-Pak
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaWJhemoxcEhWVlZyQkhyLU1uTFNKWTV0enVacjNmNWdHbEZJazNGUDF2V094ZlVvTHU0RThSOThyQ1dFVzViTnFkbXZyZmZkaE8yM1Z5RlpCdnEyVS1Ha3ZGMktBQV9iZkdtWkxnRXo4WDlaNG5JYTQwVjBTYmw2ZzExNmdaSVZ3U2xtNk9ZRGtOSWhZVlI0VG9YMGJWRnFKSGd1c2xtMVhSTUk1Qnp5MFE0TUcwellnZlZZZms5YmRkR29RRTZxYW9TcXVGblR6YkczTjZ3SnpsVTM1SFQ4eU1aelkyc1AzZWNFS0p0TjJQdXPSAfgBQVVfeXFMTjY0aDdXYUlhU0NoXzhkTTJveTdyX1NrYkFKVkpKd2dTX2hYRkdSN01LOTBQbEJUVmFWalpOOGQ1aDlIR3ljS3ZIdWd2QkRHdmhuZG9KYVN6TzRYNHBBU24zMXRHQl9EOTNwdXVBNTVJa0piS1JzZ3FmZ3NWSERlSzdXWkJycVJWMEpraG1FNlNpWEVNWTRBOGc2WTh3UlItZ25BNVE5YWJhYkFnaV8xMVRqVHcyLS1LNjFKdXNKQXpJaWJuQ3BJeEZFZXJUQjI2OE5XWkV4ZU02VGkyME0yeE9aUTJ3dERJMTRtSVl2M0xaeThRUVBETnU?oc=5
+
+- 'Threatened 200% Tariffs': Trump Doubles Down On India-Pak Truce Claim - NDTV
+  'Threatened 200% Tariffs
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOXzlRdDNadlZYYzRyMlpKWFcxazlDU0lpbUtBVkdRUk53cTdnMF9zc0U0Q1Bta1JCWlBvVkhKbDhlTVBMUnpYdTlnVVlTWktGR2dtRE1qempzRlczYi1McWxVblM1MFZqYmV0VTRoc2ZfWWs0b3RVaHdqcjNxOHlscjQ1Y3VvWVh2MlFhbXlvbmp5elZtdGxrMVl4UUtidWpKUHNVYnNNVkQ5blB1RldWdlRuQkU4eUVSM21tbGdzU1NnejFY0gHMAUFVX3lxTE1SQW5GN1BDSDlNX2k3Zm5XdnFtQWtmRE9OZEt3eWVaaGZvX0Q3Y1NPdlpwQmcwd2xGOWllc2hIQkQ2Q3djZEhyUmVrWXB6TkZ3WkpCUzJpWGIxNUNlNEpQZXpRczYtSE9YMEFuZGFoZS1rWGhpZWxmVktBVnByX284dzl2Q1ZSV0dLTHFNMXpWdmdlTHBzNkVCWFoxV0NmWlVHV0pTSUw2VUptVnE3MDFSMGJVLWhNUHI2bUhpY1UyZjFCY3pGb0pKZU9OcA?oc=5
+
+- Hamas frees all Israeli hostages; Donald Trump, in Israel, says war is over - India Today
+  " target="_blank">Hamas frees all Israeli
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRTVob2hQajhRWUVHbldVQlQ4RDkteFRiMnhSNU5vWnV2YmEwX2hKeTlxZnhzZm4xVUdlMFViRVJMb2cwV3d6RGdiY0t3cktDaFdZNUdXMTZYM3BfMEwxM2pjU0kwMzJCOU1xZk4xdUI0SGpWRmF1Wl9peUY3NXhKVlhQd0RRTmROX0pFYmtMTXBpSXVHQnc0UzZZb3BIUzdUWFR0WVZhR096TFVUTjZWUGhpU1BCRGFUQ2ROY3FtM2owc3R4dEVfa2JJemdYTXoyT2F4NlpzZExqZ0kzSWpYRXdQUGVZYk140gHuAUFVX3lxTE5GbjR5cGc1bDVucEpQaEFObi1Wa0VQS3Rrd2VLZ281Z0F2Qm9GS3VEQUZWblR6Yzdxc2tMQkIwaDQzTkVHeDZMWGp3RGtfdzFPOUM4UG9mMGdVWXlFeHFVOUpzSTlaQlctSXpCLVk0TzdWaHNrbURQdkpObkJSS21KNmpRdG5odlA2TVh0d2hCNE5iZGRJemNPYllMV1hkbEstTC0zaUhQSWJTUFpyZFNlOUpXRXhnMnBtXzFtWkpOTWxzbUdpaXlkNXVqdHJKclU4VzlzQ0JJbjVDUmJ6RXEzZXJHczc4ckJjN3hVUEE?oc=5
+
+- Pakistan Summons Afghan Envoy Over Joint Statement During India Visit - NDTV
+  Pakistan Summons Afghan Envoy Over Joint
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVRvUU5LdjNOY0xBckNBczdDOFhUcVNRakY4NDY0aG5Edk11d24zWkFxMmNocnEzVlRTNUFnQS01bU80bGtKRk9HUmItNmFkeTBTMjlIcU1kYXdHQ3JhVnJMdGZMbEU0NG4wMFdpRmtKMmZmUlE5eHJPTlFpeXh3VkMxa2swVGtVMDE4NTd0NnpEUlR2UXN6ekdDdlRScDVuYVVLazVZZUlMdzNKOEtRdmJoUVjSAbwBQVVfeXFMUFU0WmF3cTFYWExmU3B2MWtaMW9iNEZpMHVmQUQ2eWh5b1F6VHUtbmw3MmtmS1ZkczNRWkZhRF9RMGlzdzVrbG83YXgzR0daaHJoQ2d0Q2ZwS1VEYXl4MTVIY1RDSk1FWUVNem9yRFNzdFowYVNxQTk0a181LVVBYnRscFZoZ1p3RVpvdmRXU3BoT1VudjhXTVFhWVFSeW9ud3lUdDZpcUo5U1VXSjB5M0RuNTFDN3gxMU42OEU?oc=5
+
+- Afghan Minister Clarifies After Outrage Over No Women Journalists At Presser - NDTV
+  Afghan Minister Clarifies After Outrage Over
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcEo5ajV6UzhBdFk0TzFra1B3OGFyMzI0SFZhQmo3bzVMX08yQ1BiSnlXR3N6NWZXTTRrU2JQdnptWHItenpsWlFKUlhvdVctTUJOMGdOaXJfYXlaZ0JXbFB1ZWhMdmJZV0d3blpqbHBXWGp5d0NTWjRFdVFTalpwWEFqYVVLOGl2RVdvdDY3UUl0ci0wcWt1eGVNckhpYUZQdmota19rWWcxMFRYTTJtSGluYWlyNXhfaUM5Q194ZVhKdUpVaUZuSVRRVS1yc2s1eXdBeG9hVHNvVWJyWVRwMmxleElyRFF6cmfSAfIBQVVfeXFMTV9ZdGlCUHpZSEJPZzI1MURSa0tJeHdZYk51WHUzNEFsU28zTDZ6OXlXM01ZN18zTVVaRjhlXzVncWVrbHFIX2tlNDFnY3lsUmR5WVNVeTh1UFJ1VUUxd0dmcDh5anBHUE4tMmxpWkxyemd3YzkwanhuTFU4TVFYVVdpeWtIM29XSGVjUUlUZExDbnNqSEpsckxrYnVGYzNmbTlBRWJUTEVXMElDUmpiWm40QmNJY0RmcGp6V2ZoUE9DZXpYSWRPNWdzTlJYLU9MVl9ncFBXeXhqcjNsREQ1aDVGVHQ2ZmtlQU44VVJKWVhlZEE?oc=5
+
+- After 'you are great' gift for PM Modi, Trump is back to tariff threat & India-Pak ceasefire claim | Latest News India - Hindustan Times
+  After 'you are great' gift for PM Modi, Trump is back to tariff threat & India-Pak
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaWJhemoxcEhWVlZyQkhyLU1uTFNKWTV0enVacjNmNWdHbEZJazNGUDF2V094ZlVvTHU0RThSOThyQ1dFVzViTnFkbXZyZmZkaE8yM1Z5RlpCdnEyVS1Ha3ZGMktBQV9iZkdtWkxnRXo4WDlaNG5JYTQwVjBTYmw2ZzExNmdaSVZ3U2xtNk9ZRGtOSWhZVlI0VG9YMGJWRnFKSGd1c2xtMVhSTUk1Qnp5MFE0TUcwellnZlZZZms5YmRkR29RRTZxYW9TcXVGblR6YkczTjZ3SnpsVTM1SFQ4eU1aelkyc1AzZWNFS0p0TjJQdXPSAfgBQVVfeXFMTjY0aDdXYUlhU0NoXzhkTTJveTdyX1NrYkFKVkpKd2dTX2hYRkdSN01LOTBQbEJUVmFWalpOOGQ1aDlIR3ljS3ZIdWd2QkRHdmhuZG9KYVN6TzRYNHBBU24zMXRHQl9EOTNwdXVBNTVJa0piS1JzZ3FmZ3NWSERlSzdXWkJycVJWMEpraG1FNlNpWEVNWTRBOGc2WTh3UlItZ25BNVE5YWJhYkFnaV8xMVRqVHcyLS1LNjFKdXNKQXpJaWJuQ3BJeEZFZXJUQjI2OE5XWkV4ZU02VGkyME0yeE9aUTJ3dERJMTRtSVl2M0xaeThRUVBETnU?oc=5
+
+- 'Threatened 200% Tariffs': Trump Doubles Down On India-Pak Truce Claim - NDTV
+  'Threatened 200% Tariffs
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOXzlRdDNadlZYYzRyMlpKWFcxazlDU0lpbUtBVkdRUk53cTdnMF9zc0U0Q1Bta1JCWlBvVkhKbDhlTVBMUnpYdTlnVVlTWktGR2dtRE1qempzRlczYi1McWxVblM1MFZqYmV0VTRoc2ZfWWs0b3RVaHdqcjNxOHlscjQ1Y3VvWVh2MlFhbXlvbmp5elZtdGxrMVl4UUtidWpKUHNVYnNNVkQ5blB1RldWdlRuQkU4eUVSM21tbGdzU1NnejFY0gHMAUFVX3lxTE1SQW5GN1BDSDlNX2k3Zm5XdnFtQWtmRE9OZEt3eWVaaGZvX0Q3Y1NPdlpwQmcwd2xGOWllc2hIQkQ2Q3djZEhyUmVrWXB6TkZ3WkpCUzJpWGIxNUNlNEpQZXpRczYtSE9YMEFuZGFoZS1rWGhpZWxmVktBVnByX284dzl2Q1ZSV0dLTHFNMXpWdmdlTHBzNkVCWFoxV0NmWlVHV0pTSUw2VUptVnE3MDFSMGJVLWhNUHI2bUhpY1UyZjFCY3pGb0pKZU9OcA?oc=5
+
+- Hamas frees all Israeli hostages; Donald Trump, in Israel, says war is over - India Today
+  " target="_blank">Hamas frees all Israeli
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRTVob2hQajhRWUVHbldVQlQ4RDkteFRiMnhSNU5vWnV2YmEwX2hKeTlxZnhzZm4xVUdlMFViRVJMb2cwV3d6RGdiY0t3cktDaFdZNUdXMTZYM3BfMEwxM2pjU0kwMzJCOU1xZk4xdUI0SGpWRmF1Wl9peUY3NXhKVlhQd0RRTmROX0pFYmtMTXBpSXVHQnc0UzZZb3BIUzdUWFR0WVZhR096TFVUTjZWUGhpU1BCRGFUQ2ROY3FtM2owc3R4dEVfa2JJemdYTXoyT2F4NlpzZExqZ0kzSWpYRXdQUGVZYk140gHuAUFVX3lxTE5GbjR5cGc1bDVucEpQaEFObi1Wa0VQS3Rrd2VLZ281Z0F2Qm9GS3VEQUZWblR6Yzdxc2tMQkIwaDQzTkVHeDZMWGp3RGtfdzFPOUM4UG9mMGdVWXlFeHFVOUpzSTlaQlctSXpCLVk0TzdWaHNrbURQdkpObkJSS21KNmpRdG5odlA2TVh0d2hCNE5iZGRJemNPYllMV1hkbEstTC0zaUhQSWJTUFpyZFNlOUpXRXhnMnBtXzFtWkpOTWxzbUdpaXlkNXVqdHJKclU4VzlzQ0JJbjVDUmJ6RXEzZXJHczc4ckJjN3hVUEE?oc=5
+
+- Pakistan Summons Afghan Envoy Over Joint Statement During India Visit - NDTV
+  Pakistan Summons Afghan Envoy Over Joint
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVRvUU5LdjNOY0xBckNBczdDOFhUcVNRakY4NDY0aG5Edk11d24zWkFxMmNocnEzVlRTNUFnQS01bU80bGtKRk9HUmItNmFkeTBTMjlIcU1kYXdHQ3JhVnJMdGZMbEU0NG4wMFdpRmtKMmZmUlE5eHJPTlFpeXh3VkMxa2swVGtVMDE4NTd0NnpEUlR2UXN6ekdDdlRScDVuYVVLazVZZUlMdzNKOEtRdmJoUVjSAbwBQVVfeXFMUFU0WmF3cTFYWExmU3B2MWtaMW9iNEZpMHVmQUQ2eWh5b1F6VHUtbmw3MmtmS1ZkczNRWkZhRF9RMGlzdzVrbG83YXgzR0daaHJoQ2d0Q2ZwS1VEYXl4MTVIY1RDSk1FWUVNem9yRFNzdFowYVNxQTk0a181LVVBYnRscFZoZ1p3RVpvdmRXU3BoT1VudjhXTVFhWVFSeW9ud3lUdDZpcUo5U1VXSjB5M0RuNTFDN3gxMU42OEU?oc=5
+
+- Afghan Minister Clarifies After Outrage Over No Women Journalists At Presser - NDTV
+  Afghan Minister Clarifies After Outrage Over
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcEo5ajV6UzhBdFk0TzFra1B3OGFyMzI0SFZhQmo3bzVMX08yQ1BiSnlXR3N6NWZXTTRrU2JQdnptWHItenpsWlFKUlhvdVctTUJOMGdOaXJfYXlaZ0JXbFB1ZWhMdmJZV0d3blpqbHBXWGp5d0NTWjRFdVFTalpwWEFqYVVLOGl2RVdvdDY3UUl0ci0wcWt1eGVNckhpYUZQdmota19rWWcxMFRYTTJtSGluYWlyNXhfaUM5Q194ZVhKdUpVaUZuSVRRVS1yc2s1eXdBeG9hVHNvVWJyWVRwMmxleElyRFF6cmfSAfIBQVVfeXFMTV9ZdGlCUHpZSEJPZzI1MURSa0tJeHdZYk51WHUzNEFsU28zTDZ6OXlXM01ZN18zTVVaRjhlXzVncWVrbHFIX2tlNDFnY3lsUmR5WVNVeTh1UFJ1VUUxd0dmcDh5anBHUE4tMmxpWkxyemd3YzkwanhuTFU4TVFYVVdpeWtIM29XSGVjUUlUZExDbnNqSEpsckxrYnVGYzNmbTlBRWJUTEVXMElDUmpiWm40QmNJY0RmcGp6V2ZoUE9DZXpYSWRPNWdzTlJYLU9MVl9ncFBXeXhqcjNsREQ1aDVGVHQ2ZmtlQU44VVJKWVhlZEE?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+
+
+_Last updated: 2025-10-13 12:34:48 UTC_
