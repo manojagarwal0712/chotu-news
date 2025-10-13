@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Pak woman who escaped jail in Nepal arrested in Tripura
+- Study: Leading cause of deaths in India shifts from infectious to NCDs
   
-  🔗 https://indianexpress.com/article/india/pak-woman-nepal-jail-arrested-tripura-10303176/
+  🔗 https://indianexpress.com/article/india/study-leading-cause-of-deaths-in-india-shifts-from-infectious-to-ncds-10303357/
 
-- Amid Muttaqi visit, Mehbooba’s poser to Centre: ‘You talk to Taliban, why the animosity with your own people?’
+- Moved by weeping woman, village brings her saplings for Peepal loss
   
-  🔗 https://indianexpress.com/article/india/muttaqi-mehbooba-poser-taliban-animosity-people-10303019/
+  🔗 https://indianexpress.com/article/india/moved-by-weeping-woman-village-brings-her-saplings-for-peepal-loss-10303353/
 
-- 5 stories you must read today, October 12: From Mamata’s ‘don’t venture out at night’ advice after rape case to China-US tariff tussle and more
+- Sealing key passes to redeployment: Army gears for first Valley winter after Pahalgam
   
-  🔗 https://indianexpress.com/article/india/5-stories-you-must-read-today-october-12-afghan-minister-women-china-trump-10302795/
+  🔗 https://indianexpress.com/article/india/sealing-key-passes-to-redeployment-army-gears-for-first-valley-winter-after-pahalgam-10303267/
 
-- ‘Official bribe’: Prashant Kishor’s jibe at Nitish’s Rs 10,000 dole for women ahead of Bihar polls
+- He was killed like an animal: Father of 22-year-old engineer beaten to death by cops in Bhopal
   
-  🔗 https://indianexpress.com/article/india/prashant-kishor-calls-rs-10000-for-women-scheme-nitishs-official-bribe-ahead-of-bihar-polls-10302816/
+  🔗 https://indianexpress.com/article/india/he-was-killed-like-an-animal-father-of-22-yr-old-beaten-to-death-by-cops-10303275/
 
-- Sabarimala ‘missing gold’: CPM leader, gold-plating sponsor among accused in criminal case
+- Cracking a mystery: Threat mails in Mumbai, Delhi, clues in Chennai
   
-  🔗 https://indianexpress.com/article/india/sabarimala-missing-gold-cpm-leader-gold-plating-sponsor-among-accused-criminal-case-10302600/
+  🔗 https://indianexpress.com/article/india/cracking-a-mystery-threat-mails-in-mumbai-delhi-clues-in-chennai-10303278/
 
 - Google Pixel 10 has a lot of AI, but I need more AI, and without me asking for it
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/major-us-online-retailers-remove-listings-for-millions-of-prohibited-chinese-electronics-10302144/
 
-- The unforeseen hurdles in Naveen Jindal’s Thyssenkrupp bid
-  At the heart of the negotiations is how to manage thyssenkrupp Steel Europe (TKSE) pension liabilities.
-  🔗 https://www.livemint.com/companies/news/pensions-jobs-key-sticking-points-in-jindal-s-thyssenkrupp-acquisition-talks-steel-german-law-employees-11760262546193.html
+- Kirloskar Group plans to invest  ₹5,000 cr to double revenue by 2030
+  The Kirloskar Group has seen revenue growth after a decade of stagnation. To drive growth, the group has been foraying into newer businesses, including real estate.
+  🔗 https://www.livemint.com/companies/kirloskar-group-2-billion-revenue-by-fy30-lines-up-5-000-crore-investment-11760266392456.html
 
-- ED offers Flipkart to settle FEMA violation case if they do THIS — Check the proposal
-  The Enforcement Directorate has put forward a proposal to close a FEMA violation
-  🔗 https://www.livemint.com/companies/news/ed-offers-flipkart-to-settle-fema-violation-case-if-they-do-this-check-the-proposal-11760277571160.html
+- Z47-backed Dezerv raises fresh funds of $40 million from existing investors
+  The fully primary round is co-led by Premji Invest and Accel’s Global Growth Fund. There were
+  🔗 https://www.livemint.com/companies/start-ups/dezerv-funding-news-wealth-tech-start-ups-global-growth-fund-wealth-management-fintech-11760247772950.html
 
-- Festive season pricing not a race to the bottom: Libas’ Nisha Khatri
-  Libas is shifting its festive strategy from a ‘race to the bottom’ on pricing to one focused on building customer loyalty and acquisition.
-  🔗 https://www.livemint.com/companies/people/indian-ethnic-wear-libas-brand-nisha-khatri-ultra-fast-fashion-india-festive-season-11760009097508.html
+- Talegaon plant preps Hyundai for exports, multi-model production
+  The 170,000-units-per-annum plant will first produce the new facelift of its compact
+  🔗 https://www.livemint.com/companies/news/talegaon-plant-preps-hyundai-for-exports-multi-model-production-11760260943708.html
 
-- EQT scraps Zelestra India sale, brings in O2's Parag Sharma to lead $600 mn push
-  The alternative asset manager will carve out Zelestra India as a separate company. It plans to develop it on the lines of O2
-  🔗 https://www.livemint.com/companies/news/eqt-drops-zelestra-india-sale-plan-to-invest-another-600-million-brings-in-former-o2-power-chief-parag-sharma-as-ceo-11760265916880.html
+- Divisions aside, Tata Trusts keen to keep Tata Sons private
+  Tata Trusts is open to giving an exit to the SP Group over a mutually agreeable period, provided its own interests are maintained. Here's what explains
+  🔗 https://www.livemint.com/companies/tata-sons-owner-retains-the-decision-to-keep-the-holding-company-private-11760263865309.html
 
-- China says Qualcomm admits failing to report Autotalks acquisition, antitrust probe threat looms over chipmaker
-  China says Qualcomm failed to report the Autotalks acquisition to the State Administration for Market Regulation. Authorities to initiate an antitrust investigation
-  🔗 https://www.livemint.com/companies/news/china-says-qualcomm-admits-failing-to-report-autotalks-acquisition-antitrust-probe-threat-looms-over-chipmaker-11760264149797.html
+- ANZ to Halt Stock Buyback as Bank CEO’s Overhaul Ramps Up
+  ANZ Group Holdings Ltd. will halt its stock buyback and focus on cost savings. Changes aimed at lifting performance of
+  🔗 https://www.livemint.com/companies/company-results/anz-to-halt-stock-buyback-as-bank-ceo-s-overhaul-ramps-up-11760311025737.html
 
-- Will not throw baby out with bathwater: Former Sebi WTM Ananth Narayan
-  Former Sebi whole-time member Ananth Narayan said consultation on the weekly option expiry should only be held
-  🔗 https://www.livemint.com/market/sebi-weekly-options-delay-delta-limits-ananth-narayan-11760270402593.html
+- US futures jump 1% after Donald Trump assures ‘fine’ relations with China
+  US equity-index futures rose as US President Donald Trump expressed willingness for a trade deal with China.
+  🔗 https://www.livemint.com/market/stock-market-news/us-futures-jump-1-after-donald-trump-assures-fine-relations-with-china-says-doesnt-want-depression-11760316047283.html
 
-- Copper Bulls’ LME Week Party Clouded by Trump’s China Threats
-  Traders descended on London for the largest gathering in the metals calendar.
-  🔗 https://www.livemint.com/market/commodities/copper-bulls-lme-week-party-clouded-by-trump-s-china-threats-11760282154995.html
+- Global Markets Today: Kospi, ASX 200 fall on China-US trade tensions
+  Australia's S&amp;amp;P/ASX 200 slipped 0.68 per cent.
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-kospi-asx-200-fall-on-china-us-trade-tensions-11760316183364.html
 
-- Sebi’s self-check: What the Alliance Research case reveals about regulatory oversight
-  Sebi self-critique highlights regulatory deadlocks, delayed complaints
-  🔗 https://www.livemint.com/market/sebi-investigation-alliance-research-case-regulatory-oversight-sc-complaints-delays-11760270398417.html
+- Tata Capital IPO listing date today. GMP, experts signal muted debut of shares in stock market today
+  Tata Capital IPO listing date is October 13, Monday. Tata Capital shares will be listed on both the stock exchanges, BSE and NSE.
+  🔗 https://www.livemint.com/market/ipo/tata-capital-ipo-listing-date-today-gmp-experts-signal-muted-debut-of-shares-in-stock-market-today-11760315736263.html
 
-- Asian Paints shares to be in focus on Monday; here's why
-  Asian Paints shares will be in focus of the stock market investors on Monday. Shares closed marginally higher after last week's stock market close on Friday.
-  🔗 https://www.livemint.com/market/stock-market-news/asian-paints-shares-to-be-in-focus-on-monday-heres-why-11760274491586.html
+- Stock market today: Trade setup for Nifty 50, Trump Tariffs to Q2 results; 8 stocks to buy on Monday — 13 October 2025
+  A move above 25,450 will open the way for further upside towards the June 2025 high of 25,670 points. Experts recommended eight stocks to buy on Monday.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-trump-tariffs-to-q2-results-8-stocks-to-buy-on-monday-13-october-2025-11760285467515.html
 
-- Corporate Blowups Are Rattling Investors in Emerging Markets
-  Corporate bond routs from Sao Paulo to Istanbul are signaling to investors that the standout run in emerging markets
-  🔗 https://www.livemint.com/market/stock-market-news/corporate-blowups-are-rattling-investors-in-emerging-markets-11760273975273.html
+- SBI Cards: Not much cheer from risk weight reduction; grip on bad debts key
+  The more pressing concern driving its poor stock performance and soaring credit costs remains the
+  🔗 https://www.livemint.com/market/mark-to-market/sbi-cards-rbi-risk-weight-bad-debt-analysis-11760266432560.html
+
+- Elon Musk’s X removes 1.7 million bots flooding replies — Here’s what’s on radar next…
+  Elon Musk owned X has purged 1.7 million bots engaging in reply spam. The platform aims to improve user experience and will next target
+  🔗 https://www.livemint.com/technology/tech-news/elon-musk-s-x-removes-1-7-million-bots-flooding-replies-here-s-what-s-on-radar-next-11760316588104.html
 
 - Gemini Nano Banana model now generates and edits images inside Google apps: How it works
   Google is rolling out AI Mode Search Lab on Android in the US. It adds a ‘Create’ tab for selfies and prompts, aiming to unify Google's AI tools.
@@ -96,129 +100,125 @@
   Apple is expected to refresh its Mac lineup in 2026 with M5 chips. The first M5 MacBook Pro may arrive late 2025, followed by high-end models and new Airs.
   🔗 https://www.livemint.com/technology/tech-news/apple-macbook-pro-air-mac-mini-and-studio-to-get-m5-upgrade-launch-in-early-2026-report-11760240299498.html
 
-- Flipkart Diwali bonanza: Apple iPhone 16 Pro now up to  ₹50,000 cheaper? 3 Reasons to buy in 2025
-   Flipkart Diwali sale is offering the iPhone 16 Pro at a massive discount. Buyers can save via card discounts and exchange offers. Inclusive of all the offers,
-  🔗 https://www.livemint.com/technology/tech-news/flipkart-diwali-bonanza-iphone-16-pro-now-up-to-rs-50-000-cheaper-heres-how-the-deal-works-11760237473911.html
+- Asia-Pacific markets fall on renewed China-U.S. trade tensions - CNBC
+  Asia-Pacific markets fall on
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQYUVDd183ZGlTb2N6Ylk5MHV6Zzd5R0tSMU1WQkpCaVVuMnRzTndqeWpMc3dHVnBxOEZjVlZUc3FJUV83VU9mVzhxMWg4YXI2cEY4QWwxRzFldHp5Ull4VW1MQzhoM1M4R05SSUh2SVlqazQtM2dDalZiMWNrcTJfWHB3NFNPSGZmQjNFUlZKb0pOdGRTazhzTjhlczlqd9IBowFBVV95cUxQVGdwUGtQa2FXYndnZnVZblhmQi1yblNRbl9IQzlYNU4xbURuZnVWMGRvSS16ZVktZ0FGWnFnaXlQR05BOGdPdmJmcm13U3lNcmdJN1NKOWFlVFNYbU1QWDV5b2dRSEZwN0tRNFVjelRPNThxVjc5UWxnbGZjSHN6YW05bnZaREtySXU4c3VIMVJ3c1NaTVdRam9jR2VWSkJEd0dz?oc=5
 
-- China’s Markets Under Threat From Risk of Renewed US Trade War - Bloomberg.com
-  China’s Markets Under Threat From Risk
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2l0RC1ucnh0YzhPcWpaVGMydU5TRmlTWmxrU1diaG1UZFpFMkwzWkF1VnJVSm8yUFNTeDRrUWRZVFU2bHJyNlBlQ05FM0l5bTZWb2NpOU10WEVkb1ZmYS1pZ2gtbHE2djl6LWtnaXpkblF2TlUxOTVQOHRPRlhYVUhJVlc0UVY4ZjNkZGJSeVFidnNYd3ZLNkpCdnlyYnZxTWlhNW9OU2xxcng1OUZLc012TQ?oc=5
+- US Futures Jump as China Trade Trade Tension Cools: Markets Wrap - Bloomberg.com
+  US Futures Jump as China Trade Trade T
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQMldBdnpxU2loV1gtaUU3R2g3cE54Zzd3LTdhdUpBZmZrZjhtTDlpbHVaYi02TW81QzZKNGFKc21sYk9oUEVHVWxVYy01SURFWUFGVWtGZ0xCSzFYcDA4Vjd5ZExGSUg3anNYclJRdW5tSDFabkFuUFVEU3B4NmdPandjUGdNRi1Oc0NsWlM3UHlqUlRJYWlKNmkxRW9QT2V6NHpkZm1rTWJNV3FPWXJEWkVQRQ?oc=5
 
-- Markets poised for momentum shift as time cycles point to a key turning day on October 17: Harshubh Shah - The Economic Times
-  Markets poised for momentum shift as time cycles point to a key turning day on October 17.
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOdFFsUXVsTXppdGZUcUhOeXBSQ0M2SDdvZi1rS1lJQ1lfMlh4cWJ4Mks2bzVldHp0RGY0RWd2NXY3eTlHVUNETm1uY1hJQWZ1WXZvOFpJYzE3ZU45U3ljY1BjMG92WElLV0tfZllET19US0N4M0RtcmFqa29OMXZWZXctUDExaHFTTWFsZ3ZWSHBQNmRqT19ETjRPeTk4OUVxblJsYlN4SVNsTHB2YS1jZERKeHJreEJSTFk3M1VIVnJoLVQ5UWItYm9ZRDhmdnVhQVVXWWFqQzVxYUk3SW4tTkJfTXpZLVh0SnNoSlBBZWNzTWZuVEFrMmVQTUtISFJUQW5XWkJFRWXSAY4CQVVfeXFMT0pDY0NXcXZyWmZaQXFwaE1IakR1eWdXaUpNc0w4SDViSEM2MVVEajZ2bGRhcDhPYnRJTGItQXdJZmtMWXpyYnFyNTNqTzhGYmFxOWVmeGRZUV9ZWDVKblBpb28zcDhuLVV0eEN3SHVWNDFTWmdDVU02NEtONUNxMklNV21RcmNFNUZ6T1duNERyTFhOMlNlaEttMTZUb2RVdktxSlJxOU5PZmZIRHZVMEFWNEtMWnA4UEpQX2UwdEt3VXFUaEhMNjVDVVQ0Q3RodVFsOVZTd1U2aGhjQTVSa2VHRTRJWkxVVmFaanAtbGpoTDNDSVd1M21Dd1RGei10THR6NVV6YTNzN1FMMERn?oc=5
+- Global Markets Today: Kospi, ASX 200 fall on China-US trade tensions - Mint
+  Global Markets Today: Kospi, AS
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOczNWT29RSUtjNjM4RkpMX0t0YzhZSEVZS1NOUFZ4bUdpYXpwSjlZc0lqampWelUxRFNWeEo4b0dLNlZMQkJ5ZV8yYS1GQ2RMWW9lT1FWYi0tdW5OUlJZaGRrXzR4dU90cG9MN2FpMTJ5YlJITldSUFpQcnZzQlpPeE1Od3N0LUxQVmFmT05hajhraDNXUHk5UzdHaTZHVE9IT1QyRHhIZXZvU0VVZkhZSzVnMEFuSzRYVVZnT3JTa3hNOFZwb19iZXRtemFyWHcwaXfSAdcBQVVfeXFMTk0xUTl0VFl1cTRsSGFGbW5nei1IUWxCbTJzSTFzMnIyR2FxbC1kTzROMmU2Xzl6d25xZ3lsNmgwV2pHNHpCdXZvbzByeHFOc0JzblhERkZrUTZCRjlwcEZVWHN2Tk5QdFVZajU4Y3p1U3pCeTRVVEdXV0VQOHpGMXh0V09ZbjFNdGJBOFEzRjlCWEt5R3JqN0YyQlVKZUJ4dGdyeXlWcXNxT1BwNlhtTU9PNDdwR09iVjV5UUtiY3JSYUFCdVR1cmpmRWFiZ0NteXM0d0tTQTA?oc=5
 
 - US Stock Market Crash: Why is the US stock market down today? Dow, S&P, Nasdaq plunge as Trump warns of “M - The Economic Times
   <ol><li><a href="https://news.google.com/rss/articles/CBMingNBVV95cUxNNzdfMTVoVS1fYS1JakNBckc2Sm03eDhrSEhwWUxtbG9OQmkzQkJpRXJmdHRaTUN0SUkzVXBfbDcxNjJkRF9sZ0F2eEtUZng3QThERGxiNGE0cHY2UGtnTVVQT1hfY21sUE
   🔗 https://news.google.com/rss/articles/CBMingNBVV95cUxNNzdfMTVoVS1fYS1JakNBckc2Sm03eDhrSEhwWUxtbG9OQmkzQkJpRXJmdHRaTUN0SUkzVXBfbDcxNjJkRF9sZ0F2eEtUZng3QThERGxiNGE0cHY2UGtnTVVQT1hfY21sUENDREU2bmswUUpmZzNkYWFqMnB4MDlnVFR1U0RhYW5tbFpKUkpGSzdyZUJpSUNVa3lCTjh4WEhRbnRoU0JlMk52SkVCek5QMGM4VXNuR3RVTFBwV3B6T0NXVzJJbDRUU2p2eXZYdE5nZkdjVER5Rk55aHhxNmlOaXBVUnBtVE8xelRjWHFfR1dybHowUHNoazlreW4tSnV3NGFwOTdPYVVhR01XV25VOGxIUFJ2YnpqR3RDQWFMaHNYbkFfU085SnV4UWtISml5NVNLOFppaDU2NFpfY052SzgtMk1jdHRYVHJKUExGaS02cVk3dXVPYzFsRFkwMEtTR3o2REhlLUJMY1VmM3ZyUTFHNHhKRllMeUZuSFdndmVOa3VHejlRaGwwYkcwRVdRbENMOUZERUJjWXhYaWfSAaMDQVVfeXFMTkh6WEJ6U0NwSFFZejhDd3AtdnN1M0JUOFM4X0xMeThWcnpOUF91WUxlX0I2RnEwdUN3Tlowa2FhRUJ3ck1RcUJfdHp6ZGxQelQzMXpQOG5NeHdsc0FJLTJ2X2JWTkxCNWdCV2VBVS1SVDEyeERvTXo5aGxPX2E5dnlZQXlGWXo3N2lGOGFFTnpGanFmMGpRTTFJWnVMYmJNOWxEbWhzaXBTVFZDaXdXbFpaQjlQS3RWZWV1Q21tN0tXNG9GSFpCOUozWkxZa1lDVHBqTG9RZnYwTzNsbEw3YURDbmp3a0wza0d1V25IazdTY2QtakxaTnZ3THRkV2NFMFkyRE5ZbkwzVFlZX1RXaHNxdi1XdVJyNTQwQ09waVNVSnA4RElIVFFNVEVuaFlNTkwxQ2RQNmNWZThaYVZBVzlxZUNJVHMtVGFTNEpDeEdpbXdDMVJveHpuU0YxajdmTUJ6ZTdfWEdZUDlqVGJNbWh3NTVNcmJmVzZjRmZ0Uy1JRmN0VGp3RU9TZlZMaUxKRmc2LXoya0VpTmQtTXlORnUzYzQ?oc=5
 
-- What to Expect in Markets This Week: Big Bank Earnings, Fed Speakers, Shutdown Data Delays - Investopedia
-  What to Expect in Markets This Week: Big Bank Earnings,
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYzNQczJXSlJWNHd0dTJrVkJ2RU1CV05Sa0tSRTNYWWRESmhFeVNoZ3JTT1R6Z3gzNVhRSldPZmMwS3ZmMExSS2ZjaDhNRWtXTlo3dkVqaDRIN2R1dHRNc1JvcGcybkxsWERIN3dtNnFCalNSeTFTWFBqVHRFUnd0RUVfNFdxUW5OaU1aMlg1Mnlad2dDeFZjSjVKcEhqS1g0ZlJaUXVIUXV0aUI2ZnRkY2c4Y1ZjdVUwcXEzLWVNRDdUS0U?oc=5
+- Pre-market action: Here's the trade setup for today's session - The Economic Times
+  The Economic Times will cover the session live.
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOdDJJY012RUZzdWk2NGVQS1pVOWVyN3R5T3drVXRxZ1pBVTMtWXNzVXZpVldpX21sbks4aEk1ak43QUc3dWo3MEZqVEM5ZXpBNVlHaWRxcXFzRFhTUzlvQU5RckdUdkZESkZ0d0REQk5ORVNERldoX2l2VDhDNHVQZEtUOXVJOEZWMk9WeDdyREs5T3lrYWFTZ0dUMTVJSS1JbXpOSlJWcTNMYWpicmlxMk4zT281aTNkbXJlVC1GZU9XX0FDZHNLRWRqSU7SAdIBQVVfeXFMUE00aGxPX3RlQXF4YWRhUmplc1NQVzQ2ay1WVzFHbHAyQ1d2dk9ER2RlRUlPZmdNR1kwdFZxQzI2aF9LdlVXYXV2ZE9uRXpsbm5La0JlUU1RTjE4aDdjZDhWX3ZwbE8wVVBBNGhGdHhOT3FlSndRcFJSMG1vR2xiX3VicTM2M01ZVDBPUFVDUmpaai1DTWJNUHpEVk5ibktQZWVDRjB5dkgyaE9RODNDTTJ6MjVxdllqbG1keHVYbXI3YUJEeFZMVjRzcHhxTzB1ZlNR?oc=5
 
-- Stock market holiday: Is US stock market open or closed on Monday for Columbus Day 2025? - Mint
-  " target="_blank">Stock market holiday: Is US stock market
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOTZSb1VYUk1FRm5CYmIzeGFWSHRfdF9KTmFxc1A4c05RVmdxNUd1cmYta0RRRl9rd1RaMVY4TGFnUTBPYzMwSDNjbXUxWFZ5NXFCRTlxNFpKTkxCSVhIRkRpVlotWk56NFBkLWZzampDYUJnSWRlWFhzbEg5V0I2Rnl0QmZMeW1uWHUwYVVKbVJmWm1rcEQ4U1J0WnlGRjRFdXMzcmJXb3ZidWM3d1BiSWdBQllaSEVrWkxLS3h6V3JrOVlyTnUxMEdwUXVQelYyOUUwcjRRT2JobnFfVGJURkNqZDZDS3ZVZGpCVdIB8gFBVV95cUxQNHRyNUM2UGJ3TnRIWGJmbXJya05LaElTdmFiOVBvOG1vT3o0TUlHdWJMaHpvRHRIXy1BTlBEX1hQeHRVcWQtSjBvdXhLOUU3dE9PdGtCZjlLX0tJdERuUy1CNUQtTmg1SlhBVU9vMnlWcGU4Q2d5RXo2N3BzcV9IUWg0c1FJOEVJQXBRMkRJTlNBMVBRYlZrakd3TlRBSWxhNTdRUlBmVC1YVmMtZml0YndfZGhMTnhBTFQtTUVPY2FkUHhDWVplWmFiT0EtYUVVdWJ4TWtja1lOb2JyY0xOVFByOFUwYS1VcTdTUVlNazNSZw?oc=5
+- Oil rebounds 1% after sharp losses on US-China tensions
+  Investors are hopeful that potential talks between the U.S. and Chinese presidents could ease trade tensions. Markets are watching to see if aggressive trade policies are implemented or if a pause in tariff escalation continues.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-rebounds-1-after-sharp-losses-on-us-china-tensions/articleshow/124514982.cms
 
-- Q2 results, Tata stocks and gold-silver rush among 10 factors that'll steer D-St this week
-  Key domestic and global triggers, including Q2 earnings, U.S.-China trade tensions, and corporate actions, are expected to influence market sentiment. Analysts anticipate continued positive momentum for the Nifty, with support at
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/q2-results-tata-stocks-and-gold-silver-rush-among-10-factors-thatll-steer-d-st-this-week/articleshow/124504618.cms
+- Asian shares off to shaky start, but Wall Street futures bounce
+  Asian markets opened with caution due to renewed trade tensions. Wall Street futures indicated a potential rebound. Investors are also awaiting corporate earnings reports and guidance from the U.S. Federal Reserve. Political developments in Japan and Europe are also influencing market
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-shares-off-to-shaky-start-but-wall-street-futures-bounce/articleshow/124514946.cms
 
-- Prestige Group launches 620 homes worth Rs 2,200 cr for sales in Ghaziabad
-  Prestige Estates Projects Ltd has launched 620 flats for sale in Ghaziabad with an estimated revenue of Rs 2,200 crore.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/prestige-group-launches-620-homes-worth-rs-2200-cr-for-sales-in-ghaziabad/articleshow/124500106.cms
+- Pre-market action: Here's the trade setup for today's session
+  Indian stocks climbed on Friday, propelled by financial sector strength and renewed foreign investor interest. Despite a slight drag from Tata Consultancy Services' results, the market sentiment remained positive.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124503077.cms
 
-- Rich Dad Poor Dad author Robert Kiyosaki renews global market crash warning, urges shift to silver and Ethereum
-  Robert Kiyosaki warns of the “biggest crash in world history” this year. Despite the warning, his preferred portfolio has gained nearly 40% in 2025. He believes in tangible and scarce assets as financial
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rich-dad-poor-dad-author-robert-kiyosaki-renews-global-market-crash-warning-urges-shift-to-silver-and-ethereum/articleshow/124499261.cms
+- Stocks in news: Tata Motors, Avenue Supermarts, Welspun Enterprises, Infosys
+  Financial stocks and foreign investor inflows boosted the Sensex and Nifty. Tata Consultancy Services' weaker earnings limited broader gains. Several companies like Avenue Supermarts, Tata Motors, and Infosys will be in focus.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-motors-avenue-supermarts-tata-capital-listing-and-more/articleshow/124503013.cms
 
-- Ahead of Market: 10 things that will decide D-Street action on Monday
-  SBI and Eternal were among the top gainers. Tata Steel, TCS, Tech Mahindra, Titan, Bajaj Finserv, Tata Motors, and Bharti Airtel faced selling pressure. Overall,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/124499106.cms
+- Indian banks face slow loan growth and muted earnings in September quarter
+  Analysts anticipate weaker treasury gains and potential net interest margin compression due to rising bond yields and recent repo rate cuts. Asset quality in SME and commercial vehicle segments remains a key concern.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/indian-banks-face-slow-loan-growth-and-muted-earnings-in-september-quarter/articleshow/124514801.cms
 
-- 3 technical stock picks from Axis Securities for the week, with up to 19% upside
-  Indian equities ended the week on a strong note, with the Nifty 50 closing at 25,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/3-technical-stock-picks-from-axis-securities-for-the-week-with-up-to-19-upside/slideshow/124499045.cms
+- Pakistan Summons Afghan Envoy Over Joint Statement During India Visit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVRvUU5LdjNOY0xBckNBczdDOFhUcVNRakY4NDY0aG5Edk11d24zWkFxMmNocnEzVlRTNUFnQS01bU80bGtKRk9HUmItNmFkeTBTMjlIcU1kYXdHQ3JhVnJMdGZMbEU0NG
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVRvUU5LdjNOY0xBckNBczdDOFhUcVNRakY4NDY0aG5Edk11d24zWkFxMmNocnEzVlRTNUFnQS01bU80bGtKRk9HUmItNmFkeTBTMjlIcU1kYXdHQ3JhVnJMdGZMbEU0NG4wMFdpRmtKMmZmUlE5eHJPTlFpeXh3VkMxa2swVGtVMDE4NTd0NnpEUlR2UXN6ekdDdlRScDVuYVVLazVZZUlMdzNKOEtRdmJoUVjSAbwBQVVfeXFMUFU0WmF3cTFYWExmU3B2MWtaMW9iNEZpMHVmQUQ2eWh5b1F6VHUtbmw3MmtmS1ZkczNRWkZhRF9RMGlzdzVrbG83YXgzR0daaHJoQ2d0Q2ZwS1VEYXl4MTVIY1RDSk1FWUVNem9yRFNzdFowYVNxQTk0a181LVVBYnRscFZoZ1p3RVpvdmRXU3BoT1VudjhXTVFhWVFSeW9ud3lUdDZpcUo5U1VXSjB5M0RuNTFDN3gxMU42OEU?oc=5
 
-- 'Clear violation of...': Pakistan fumes over Jammu & Kashmir mention in India-Afghan statement | Latest News India - Hindustan Times
-  'Clear violation of...': Pakistan fumes over Jammu & Kashmir mention in India
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdEp5aDlDbXExR1lZdzJTc1VpNDU1M0tFVkVieVZod0FRdVNyOENhRmtvM0hpWUxOSFZDVE5mRlRQb09pSG1xTGdwbUliQm9td3Y0ZThwSUhjMHVWYzRRTzlVMkZnYjZwMFFSaXVFNEFoM09RUW9pY2ljN2YtX1RzX2hsUm95YnhkelFnQUJLSDF2NVVua0MxSURSUEx5MGFPRTBNNkNLWFFSNWMwazNqNEFaUnNsaXg1S1ZsNlNoRmYyUXJNcFF0SkZaLWNmSFNkd1RCdm9DZWpKbnVheFdCSC0teksxT3lRRFo2N2FhallJYllBMWdqUGxnQdIBgAJBVV95cUxNXzdPR2hpRlJxcC1FUW5UeHphTkpBcFdaVlR4Q0ZzcWtIREpqVlZLQlNGR0RsVUZnekFhcE1WVHVLQlYxU1lqWlFZbko2OExqM2hHdDlqUnVOOFlhOFFkQTFPeGRSeHhSYVZVbDFkNEhIZWdJTUlOMFJQa0NLd3VXa3ZYZnRJODQ4TGhodncxNHZSSG5ST1hiaFhILXdZM092bkNsaDNlT2FWdjA3S3NHMW85YVhGQkp5U3hEVGJDSlJVdkRucmZieGlXbkxkZ2hJWjFUYjdUb0pBNnNBUERUWEtoVU1BdmVpd1MzM0EySHdLQ19oWTM0R0lwaEFzNGhS?oc=5
+- Bihar CEO records reveal unexplained deletions | Latest News India - Hindustan Times
+  Bihar CEO records reveal unexplained deletions.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWNSZ3VvN2FFNHFvTHJpamZ3TVpIZ3NXWWljLXZnZmJGUzA5MVJlYWQ2cUo4cUMzNFBYQW4yY2V0QUdiWmxZdllkcjFfa2hLUkZRMEVBVlJPMlBKUW1FZWk1LVN4YUJ5VXQ3STJaVmJ3ZDNGWFFyV1ZtOFdsdnRnOEszS2luZFF6YlBhZXl0cC1CVm1YclZaWEtSbHB2d29faXIzTVlLYkgwdm1YN2fSAbMBQVVfeXFMT045dTVDNVgtZjFSTXhSajMxOFRnTFgzRFR4VkxmN3dCbHlxeDNtSVBRRk9GU0tpWkxOak00aWUyYVhiZ09oclhWUHJsaldCalFYSnpselFNaXJjM0FyWjFwR3YybVBzOF9qc3ZtSTF5TkNBUmVmM0RZcGpWOVltMURVckVVZGRaTFBRODJyNS1hcWRQUGVIMTFaMWYzR0xHY0tyM1Y2Uk8xNmVBVzkzRV9rU0E?oc=5
 
-- U.K. PM’s India visit LIVE: U.K. signs $468 million deal to supply India with missiles - The Hindu
-  U.K. signs $468 million deal to supply India with missiles
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
+- BJP MLA gatecrashes DKS event in RSS uniform | Latest News India - Hindustan Times
+  BJP MLA gatecrashes DKS event in RSS
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2piaE5xc0lHNkljVEI0NWlUdE9jY0FrTTlsSmVSRFJuUmRieHpINFgzTGFYR3c3QjFMWmdXNExmcTg4dVdkcUFMWUxCamJNVkdrYlZJdkZkanN2b28tV1VxUnR6Vy1pLVRBTXJsb1JaakN2T0JNVE05cHZzTHZ0aWhkcEhmYTVyM2g2S2FvQTI2SUdIZGdmLXFvZndrUHdEQmF3dU9SVXNhbGfSAbABQVVfeXFMTXNON0xpNHVBajdEWGU1NUI5Q214b256N2FpbklOX1RILVBhUE95UUo2WlIyNEN4SEdmSXp1M1ZTYkVSaTQyQUlDcXdkX05GTmRHMWxVZndIUm9iMjdCSURmSl9Pa2pHWjB3SEdXaVhpQmNlTm9HeE5ZcWF4RnFPNHJ2aUhwcU1DUjJMWGJQdnVpdUFKczBQZm95Y1c5c3FMWWlyenVwVWxHejlPTkdIa1U?oc=5
 
-- After Omar Abdullah's Snub, Congress "No" To Rajya Sabha Polls In J&K - NDTV
-  Omar Abdullah snubbed by Congress in Raj
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOTEyWWlFaHhHX21rYi1aUnRoMlRENllnNjJaNmp2NF96WTF2SXExaEtvRkpFeW16YXo0NTJlT0JNWlpkazM5LW5WYTczMF9UNW16U2toU1VCamxsTFUwQU1OZGE4ODVfUmN3b2lMblp5NHd3RW1TSVdoTmt0dEIxYUFZZzkxdF8zRG02MVZiWl9LNnZReXNDT2tzemgxS2xlS1hKNk1LQmPSAbABQVVfeXFMUHdPejVaRWFhS0ZlTXpSU05TeGNvZHJabmxqSXgzR1dXWkppbm1MVEwxRm1lNUZVSnBYQ19OdTh6aGh2SG1tLXdaNkdDdjFBWWc5cE9VM3BWNmp4LUdkZkRNNTFsekJWbXl3LUZjaGdjMG1JSXAtOUUxUGsxOS1Vc0RLX3NiNW9GNWVKSjVMMlRvcl83SE5OVTVEVURHQW1FV2dqcGQ0S05OX3NyUGJNbXk?oc=5
+- BJP links Siddaramaiah’s dinner meet to Bihar elections | Latest News India - Hindustan Times
+  BJP links Siddaramaiah’s dinner
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNYnRWRkJpM2tXOExtblllMjB1eHVpNEtlWnNtZFI0cUo3SlFEWm5PTHJzSHB0V0NBNUJuWVFPR0hLTkh2WlJWeGZTTHZCaExfMXVWem1qZHdGU2hUYTRnU1h5WHNLb0dheFRLczk1VG44WW1va2FnVk9QRUg4NmFqWlFxWUtfTXpvc0lHcHJYNVl4VklxVEVJaGgwVEEyTDBKdTdUcFRvOG5VTXhhM3lVQTYxWUVrdm80eEHSAb8BQVVfeXFMTW1lNWhsVEItcTNNZEJSYzRXOHRVSkRtaHhTaWU5Z0NwWWhlMnJ5eXlsX0V4M21aVkM4eW04Nll4TzlrVEhNclNFYzZpLWU4dnhQcmdqUXgzNjVCblM3SFpQcThpOXRwOExHVU1UUzBGRXhiYkJWc05KZWUwQWEzaWphcWRNZXk3Snh1dnpZRWJsTXhaNTc5SDIzX0tNZXFtOEhDcWxjVnlKV1FiM1R5WUg1Y0ZnbWhRVENmYkJUM2s?oc=5
 
-- Pak woman who escaped jail in Nepal arrested in Tripura - The Indian Express
-  Pak woman who escaped jail in Nepal arrested in Trip
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEpVWUIzd0M3RHFoVVdtNkRvYkljU0JUZWlRWTVSd3dRUmZQR1FaN0p4aFQ2LUlxMUg5bG5aVDJFMVlPam5iNnlCMWhWTEFFSlM0Rmc0ZGsyeVlWV1hsNnFqdV9ybVY2ZXNReGFpU3ZCV1lVdWdoQU8xbzdzQzZUR3pHaXhjVEJ4T3liU2hWd23SAZcBQVVfeXFMT1NlZG1ndXNZRVhHQ0plMTd6Y296UnA3cUYwbXBnbFYxekd1T3RMV2lZTUlLQ2JMbGI2UnNfUXlRbDVnMnM1WGtTZkwtZ3ZkNGtSRWVCUTFVLThXNGNqTDZQLWFXaG1LV1B0NC1naElfRDFtWnVfcFlVbXVIbHFPYzlfaVREQWNzOFpyRUZGRHJpbFdyTDJfcw?oc=5
+- India may witness a colder winter: What is La Niña? - The Indian Express
+  India may witness a colder winter: What is La
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEtqUjNKMExJSjYzc09BZDY4TnRBelZIQ09nZHhfVVpTaWN4YlJXbnRUWDN5bFFBVjNiY2xYNlpIRmtZZTE1elUzNHZQWkZFOHBKMFBBaUhQRjhzelNYdGRGNElfbmJtRm84SzE4aGpaM0x2LTA4V0FoN3luZVFKczRoMlB5TnpET2xQOTlNZXJpTV8wRXZR0gGeAUFVX3lxTE9uNGFycjFlQ3VxZ3NqcHhvX0c4MUVMUkh3X2QybVJlM2VTaFRESWtab1R3T0NDLXNGTjYzN1VZMFdkQ0dmaWhrbUQyMG1RLWZLZDFvaXlzVk9iUmlyWEZuS3hkcFA0M0oxYUJ4Z3NhT21tNk9jZ3lrQ1ZTNGZFeTNKSEdOT0d0MHJ0aWxkLXdwTl9IX3RLZUlVMXdFbzFB?oc=5
 
-- TN set to take flight - The Times of India
-  The Times of India reports that
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdDFMdGIyckpHem43SXF2LWY2QzhhbDJjRzRBTGFRT3BYUG9uMVE2UnF2cW1OUDVsblJSdTRScUdIWko3dmZ0OGZWMEhlY0RUSUpjTlBQVlhFb3VzVVFRdm9UV0JxbGlVc2ZHOURtTl9GZUJ1bU1fNWF3X0tOc2dLVWx2eG9IQUNxazFVMUlxSThTeFVEbEdIc3czR3XSAaIBQVVfeXFMUGZuUHRvM2JNNnhfMTYzcmNqdXN4VVB2dERtaFhYcEN4NVdMN2V3R2hackZfY0I4Q0tsWFo3X1NNZEVrcFBGUllpRUhudXNzVWJPMmFmaU9CemlNZ01Ja2EzWlFGSjRhN0tLU0ljUjlsN3dmSzFqT2Ftb091U2w2QWFxLTNpVVV5ZHlFcnZ6emJWZ0VENHZnVFppd2pZa21zZHhn?oc=5
+- Pakistan Summons Afghan Envoy Over Joint Statement During India Visit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVRvUU5LdjNOY0xBckNBczdDOFhUcVNRakY4NDY0aG5Edk11d24zWkFxMmNocnEzVlRTNUFnQS01bU80bGtKRk9HUmItNmFkeTBTMjlIcU1kYXdHQ3JhVnJMdGZMbEU0NG
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVRvUU5LdjNOY0xBckNBczdDOFhUcVNRakY4NDY0aG5Edk11d24zWkFxMmNocnEzVlRTNUFnQS01bU80bGtKRk9HUmItNmFkeTBTMjlIcU1kYXdHQ3JhVnJMdGZMbEU0NG4wMFdpRmtKMmZmUlE5eHJPTlFpeXh3VkMxa2swVGtVMDE4NTd0NnpEUlR2UXN6ekdDdlRScDVuYVVLazVZZUlMdzNKOEtRdmJoUVjSAbwBQVVfeXFMUFU0WmF3cTFYWExmU3B2MWtaMW9iNEZpMHVmQUQ2eWh5b1F6VHUtbmw3MmtmS1ZkczNRWkZhRF9RMGlzdzVrbG83YXgzR0daaHJoQ2d0Q2ZwS1VEYXl4MTVIY1RDSk1FWUVNem9yRFNzdFowYVNxQTk0a181LVVBYnRscFZoZ1p3RVpvdmRXU3BoT1VudjhXTVFhWVFSeW9ud3lUdDZpcUo5U1VXSjB5M0RuNTFDN3gxMU42OEU?oc=5
 
-- 'Clear violation of...': Pakistan fumes over Jammu & Kashmir mention in India-Afghan statement | Latest News India - Hindustan Times
-  'Clear violation of...': Pakistan fumes over Jammu & Kashmir mention in India
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdEp5aDlDbXExR1lZdzJTc1VpNDU1M0tFVkVieVZod0FRdVNyOENhRmtvM0hpWUxOSFZDVE5mRlRQb09pSG1xTGdwbUliQm9td3Y0ZThwSUhjMHVWYzRRTzlVMkZnYjZwMFFSaXVFNEFoM09RUW9pY2ljN2YtX1RzX2hsUm95YnhkelFnQUJLSDF2NVVua0MxSURSUEx5MGFPRTBNNkNLWFFSNWMwazNqNEFaUnNsaXg1S1ZsNlNoRmYyUXJNcFF0SkZaLWNmSFNkd1RCdm9DZWpKbnVheFdCSC0teksxT3lRRFo2N2FhallJYllBMWdqUGxnQdIBgAJBVV95cUxNXzdPR2hpRlJxcC1FUW5UeHphTkpBcFdaVlR4Q0ZzcWtIREpqVlZLQlNGR0RsVUZnekFhcE1WVHVLQlYxU1lqWlFZbko2OExqM2hHdDlqUnVOOFlhOFFkQTFPeGRSeHhSYVZVbDFkNEhIZWdJTUlOMFJQa0NLd3VXa3ZYZnRJODQ4TGhodncxNHZSSG5ST1hiaFhILXdZM092bkNsaDNlT2FWdjA3S3NHMW85YVhGQkp5U3hEVGJDSlJVdkRucmZieGlXbkxkZ2hJWjFUYjdUb0pBNnNBUERUWEtoVU1BdmVpd1MzM0EySHdLQ19oWTM0R0lwaEFzNGhS?oc=5
+- Bihar CEO records reveal unexplained deletions | Latest News India - Hindustan Times
+  Bihar CEO records reveal unexplained deletions.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWNSZ3VvN2FFNHFvTHJpamZ3TVpIZ3NXWWljLXZnZmJGUzA5MVJlYWQ2cUo4cUMzNFBYQW4yY2V0QUdiWmxZdllkcjFfa2hLUkZRMEVBVlJPMlBKUW1FZWk1LVN4YUJ5VXQ3STJaVmJ3ZDNGWFFyV1ZtOFdsdnRnOEszS2luZFF6YlBhZXl0cC1CVm1YclZaWEtSbHB2d29faXIzTVlLYkgwdm1YN2fSAbMBQVVfeXFMT045dTVDNVgtZjFSTXhSajMxOFRnTFgzRFR4VkxmN3dCbHlxeDNtSVBRRk9GU0tpWkxOak00aWUyYVhiZ09oclhWUHJsaldCalFYSnpselFNaXJjM0FyWjFwR3YybVBzOF9qc3ZtSTF5TkNBUmVmM0RZcGpWOVltMURVckVVZGRaTFBRODJyNS1hcWRQUGVIMTFaMWYzR0xHY0tyM1Y2Uk8xNmVBVzkzRV9rU0E?oc=5
 
-- U.K. PM’s India visit LIVE: U.K. signs $468 million deal to supply India with missiles - The Hindu
-  U.K. signs $468 million deal to supply India with missiles
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
+- BJP MLA gatecrashes DKS event in RSS uniform | Latest News India - Hindustan Times
+  BJP MLA gatecrashes DKS event in RSS
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2piaE5xc0lHNkljVEI0NWlUdE9jY0FrTTlsSmVSRFJuUmRieHpINFgzTGFYR3c3QjFMWmdXNExmcTg4dVdkcUFMWUxCamJNVkdrYlZJdkZkanN2b28tV1VxUnR6Vy1pLVRBTXJsb1JaakN2T0JNVE05cHZzTHZ0aWhkcEhmYTVyM2g2S2FvQTI2SUdIZGdmLXFvZndrUHdEQmF3dU9SVXNhbGfSAbABQVVfeXFMTXNON0xpNHVBajdEWGU1NUI5Q214b256N2FpbklOX1RILVBhUE95UUo2WlIyNEN4SEdmSXp1M1ZTYkVSaTQyQUlDcXdkX05GTmRHMWxVZndIUm9iMjdCSURmSl9Pa2pHWjB3SEdXaVhpQmNlTm9HeE5ZcWF4RnFPNHJ2aUhwcU1DUjJMWGJQdnVpdUFKczBQZm95Y1c5c3FMWWlyenVwVWxHejlPTkdIa1U?oc=5
 
-- After Omar Abdullah's Snub, Congress "No" To Rajya Sabha Polls In J&K - NDTV
-  Omar Abdullah snubbed by Congress in Raj
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOTEyWWlFaHhHX21rYi1aUnRoMlRENllnNjJaNmp2NF96WTF2SXExaEtvRkpFeW16YXo0NTJlT0JNWlpkazM5LW5WYTczMF9UNW16U2toU1VCamxsTFUwQU1OZGE4ODVfUmN3b2lMblp5NHd3RW1TSVdoTmt0dEIxYUFZZzkxdF8zRG02MVZiWl9LNnZReXNDT2tzemgxS2xlS1hKNk1LQmPSAbABQVVfeXFMUHdPejVaRWFhS0ZlTXpSU05TeGNvZHJabmxqSXgzR1dXWkppbm1MVEwxRm1lNUZVSnBYQ19OdTh6aGh2SG1tLXdaNkdDdjFBWWc5cE9VM3BWNmp4LUdkZkRNNTFsekJWbXl3LUZjaGdjMG1JSXAtOUUxUGsxOS1Vc0RLX3NiNW9GNWVKSjVMMlRvcl83SE5OVTVEVURHQW1FV2dqcGQ0S05OX3NyUGJNbXk?oc=5
+- BJP links Siddaramaiah’s dinner meet to Bihar elections | Latest News India - Hindustan Times
+  BJP links Siddaramaiah’s dinner
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNYnRWRkJpM2tXOExtblllMjB1eHVpNEtlWnNtZFI0cUo3SlFEWm5PTHJzSHB0V0NBNUJuWVFPR0hLTkh2WlJWeGZTTHZCaExfMXVWem1qZHdGU2hUYTRnU1h5WHNLb0dheFRLczk1VG44WW1va2FnVk9QRUg4NmFqWlFxWUtfTXpvc0lHcHJYNVl4VklxVEVJaGgwVEEyTDBKdTdUcFRvOG5VTXhhM3lVQTYxWUVrdm80eEHSAb8BQVVfeXFMTW1lNWhsVEItcTNNZEJSYzRXOHRVSkRtaHhTaWU5Z0NwWWhlMnJ5eXlsX0V4M21aVkM4eW04Nll4TzlrVEhNclNFYzZpLWU4dnhQcmdqUXgzNjVCblM3SFpQcThpOXRwOExHVU1UUzBGRXhiYkJWc05KZWUwQWEzaWphcWRNZXk3Snh1dnpZRWJsTXhaNTc5SDIzX0tNZXFtOEhDcWxjVnlKV1FiM1R5WUg1Y0ZnbWhRVENmYkJUM2s?oc=5
 
-- Pak woman who escaped jail in Nepal arrested in Tripura - The Indian Express
-  Pak woman who escaped jail in Nepal arrested in Trip
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEpVWUIzd0M3RHFoVVdtNkRvYkljU0JUZWlRWTVSd3dRUmZQR1FaN0p4aFQ2LUlxMUg5bG5aVDJFMVlPam5iNnlCMWhWTEFFSlM0Rmc0ZGsyeVlWV1hsNnFqdV9ybVY2ZXNReGFpU3ZCV1lVdWdoQU8xbzdzQzZUR3pHaXhjVEJ4T3liU2hWd23SAZcBQVVfeXFMT1NlZG1ndXNZRVhHQ0plMTd6Y296UnA3cUYwbXBnbFYxekd1T3RMV2lZTUlLQ2JMbGI2UnNfUXlRbDVnMnM1WGtTZkwtZ3ZkNGtSRWVCUTFVLThXNGNqTDZQLWFXaG1LV1B0NC1naElfRDFtWnVfcFlVbXVIbHFPYzlfaVREQWNzOFpyRUZGRHJpbFdyTDJfcw?oc=5
+- India may witness a colder winter: What is La Niña? - The Indian Express
+  India may witness a colder winter: What is La
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEtqUjNKMExJSjYzc09BZDY4TnRBelZIQ09nZHhfVVpTaWN4YlJXbnRUWDN5bFFBVjNiY2xYNlpIRmtZZTE1elUzNHZQWkZFOHBKMFBBaUhQRjhzelNYdGRGNElfbmJtRm84SzE4aGpaM0x2LTA4V0FoN3luZVFKczRoMlB5TnpET2xQOTlNZXJpTV8wRXZR0gGeAUFVX3lxTE9uNGFycjFlQ3VxZ3NqcHhvX0c4MUVMUkh3X2QybVJlM2VTaFRESWtab1R3T0NDLXNGTjYzN1VZMFdkQ0dmaWhrbUQyMG1RLWZLZDFvaXlzVk9iUmlyWEZuS3hkcFA0M0oxYUJ4Z3NhT21tNk9jZ3lrQ1ZTNGZFeTNKSEdOT0d0MHJ0aWxkLXdwTl9IX3RLZUlVMXdFbzFB?oc=5
 
-- TN set to take flight - The Times of India
-  The Times of India reports that
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdDFMdGIyckpHem43SXF2LWY2QzhhbDJjRzRBTGFRT3BYUG9uMVE2UnF2cW1OUDVsblJSdTRScUdIWko3dmZ0OGZWMEhlY0RUSUpjTlBQVlhFb3VzVVFRdm9UV0JxbGlVc2ZHOURtTl9GZUJ1bU1fNWF3X0tOc2dLVWx2eG9IQUNxazFVMUlxSThTeFVEbEdIc3czR3XSAaIBQVVfeXFMUGZuUHRvM2JNNnhfMTYzcmNqdXN4VVB2dERtaFhYcEN4NVdMN2V3R2hackZfY0I4Q0tsWFo3X1NNZEVrcFBGUllpRUhudXNzVWJPMmFmaU9CemlNZ01Ja2EzWlFGSjRhN0tLU0ljUjlsN3dmSzFqT2Ftb091U2w2QWFxLTNpVVV5ZHlFcnZ6emJWZ0VENHZnVFppd2pZa21zZHhn?oc=5
+- Pakistan Summons Afghan Envoy Over Joint Statement During India Visit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVRvUU5LdjNOY0xBckNBczdDOFhUcVNRakY4NDY0aG5Edk11d24zWkFxMmNocnEzVlRTNUFnQS01bU80bGtKRk9HUmItNmFkeTBTMjlIcU1kYXdHQ3JhVnJMdGZMbEU0NG
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVRvUU5LdjNOY0xBckNBczdDOFhUcVNRakY4NDY0aG5Edk11d24zWkFxMmNocnEzVlRTNUFnQS01bU80bGtKRk9HUmItNmFkeTBTMjlIcU1kYXdHQ3JhVnJMdGZMbEU0NG4wMFdpRmtKMmZmUlE5eHJPTlFpeXh3VkMxa2swVGtVMDE4NTd0NnpEUlR2UXN6ekdDdlRScDVuYVVLazVZZUlMdzNKOEtRdmJoUVjSAbwBQVVfeXFMUFU0WmF3cTFYWExmU3B2MWtaMW9iNEZpMHVmQUQ2eWh5b1F6VHUtbmw3MmtmS1ZkczNRWkZhRF9RMGlzdzVrbG83YXgzR0daaHJoQ2d0Q2ZwS1VEYXl4MTVIY1RDSk1FWUVNem9yRFNzdFowYVNxQTk0a181LVVBYnRscFZoZ1p3RVpvdmRXU3BoT1VudjhXTVFhWVFSeW9ud3lUdDZpcUo5U1VXSjB5M0RuNTFDN3gxMU42OEU?oc=5
 
-- 'Clear violation of...': Pakistan fumes over Jammu & Kashmir mention in India-Afghan statement | Latest News India - Hindustan Times
-  'Clear violation of...': Pakistan fumes over Jammu & Kashmir mention in India
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdEp5aDlDbXExR1lZdzJTc1VpNDU1M0tFVkVieVZod0FRdVNyOENhRmtvM0hpWUxOSFZDVE5mRlRQb09pSG1xTGdwbUliQm9td3Y0ZThwSUhjMHVWYzRRTzlVMkZnYjZwMFFSaXVFNEFoM09RUW9pY2ljN2YtX1RzX2hsUm95YnhkelFnQUJLSDF2NVVua0MxSURSUEx5MGFPRTBNNkNLWFFSNWMwazNqNEFaUnNsaXg1S1ZsNlNoRmYyUXJNcFF0SkZaLWNmSFNkd1RCdm9DZWpKbnVheFdCSC0teksxT3lRRFo2N2FhallJYllBMWdqUGxnQdIBgAJBVV95cUxNXzdPR2hpRlJxcC1FUW5UeHphTkpBcFdaVlR4Q0ZzcWtIREpqVlZLQlNGR0RsVUZnekFhcE1WVHVLQlYxU1lqWlFZbko2OExqM2hHdDlqUnVOOFlhOFFkQTFPeGRSeHhSYVZVbDFkNEhIZWdJTUlOMFJQa0NLd3VXa3ZYZnRJODQ4TGhodncxNHZSSG5ST1hiaFhILXdZM092bkNsaDNlT2FWdjA3S3NHMW85YVhGQkp5U3hEVGJDSlJVdkRucmZieGlXbkxkZ2hJWjFUYjdUb0pBNnNBUERUWEtoVU1BdmVpd1MzM0EySHdLQ19oWTM0R0lwaEFzNGhS?oc=5
+- Bihar CEO records reveal unexplained deletions | Latest News India - Hindustan Times
+  Bihar CEO records reveal unexplained deletions.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWNSZ3VvN2FFNHFvTHJpamZ3TVpIZ3NXWWljLXZnZmJGUzA5MVJlYWQ2cUo4cUMzNFBYQW4yY2V0QUdiWmxZdllkcjFfa2hLUkZRMEVBVlJPMlBKUW1FZWk1LVN4YUJ5VXQ3STJaVmJ3ZDNGWFFyV1ZtOFdsdnRnOEszS2luZFF6YlBhZXl0cC1CVm1YclZaWEtSbHB2d29faXIzTVlLYkgwdm1YN2fSAbMBQVVfeXFMT045dTVDNVgtZjFSTXhSajMxOFRnTFgzRFR4VkxmN3dCbHlxeDNtSVBRRk9GU0tpWkxOak00aWUyYVhiZ09oclhWUHJsaldCalFYSnpselFNaXJjM0FyWjFwR3YybVBzOF9qc3ZtSTF5TkNBUmVmM0RZcGpWOVltMURVckVVZGRaTFBRODJyNS1hcWRQUGVIMTFaMWYzR0xHY0tyM1Y2Uk8xNmVBVzkzRV9rU0E?oc=5
 
-- U.K. PM’s India visit LIVE: U.K. signs $468 million deal to supply India with missiles - The Hindu
-  U.K. signs $468 million deal to supply India with missiles
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
+- BJP MLA gatecrashes DKS event in RSS uniform | Latest News India - Hindustan Times
+  BJP MLA gatecrashes DKS event in RSS
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2piaE5xc0lHNkljVEI0NWlUdE9jY0FrTTlsSmVSRFJuUmRieHpINFgzTGFYR3c3QjFMWmdXNExmcTg4dVdkcUFMWUxCamJNVkdrYlZJdkZkanN2b28tV1VxUnR6Vy1pLVRBTXJsb1JaakN2T0JNVE05cHZzTHZ0aWhkcEhmYTVyM2g2S2FvQTI2SUdIZGdmLXFvZndrUHdEQmF3dU9SVXNhbGfSAbABQVVfeXFMTXNON0xpNHVBajdEWGU1NUI5Q214b256N2FpbklOX1RILVBhUE95UUo2WlIyNEN4SEdmSXp1M1ZTYkVSaTQyQUlDcXdkX05GTmRHMWxVZndIUm9iMjdCSURmSl9Pa2pHWjB3SEdXaVhpQmNlTm9HeE5ZcWF4RnFPNHJ2aUhwcU1DUjJMWGJQdnVpdUFKczBQZm95Y1c5c3FMWWlyenVwVWxHejlPTkdIa1U?oc=5
 
-- After Omar Abdullah's Snub, Congress "No" To Rajya Sabha Polls In J&K - NDTV
-  Omar Abdullah snubbed by Congress in Raj
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOTEyWWlFaHhHX21rYi1aUnRoMlRENllnNjJaNmp2NF96WTF2SXExaEtvRkpFeW16YXo0NTJlT0JNWlpkazM5LW5WYTczMF9UNW16U2toU1VCamxsTFUwQU1OZGE4ODVfUmN3b2lMblp5NHd3RW1TSVdoTmt0dEIxYUFZZzkxdF8zRG02MVZiWl9LNnZReXNDT2tzemgxS2xlS1hKNk1LQmPSAbABQVVfeXFMUHdPejVaRWFhS0ZlTXpSU05TeGNvZHJabmxqSXgzR1dXWkppbm1MVEwxRm1lNUZVSnBYQ19OdTh6aGh2SG1tLXdaNkdDdjFBWWc5cE9VM3BWNmp4LUdkZkRNNTFsekJWbXl3LUZjaGdjMG1JSXAtOUUxUGsxOS1Vc0RLX3NiNW9GNWVKSjVMMlRvcl83SE5OVTVEVURHQW1FV2dqcGQ0S05OX3NyUGJNbXk?oc=5
+- BJP links Siddaramaiah’s dinner meet to Bihar elections | Latest News India - Hindustan Times
+  BJP links Siddaramaiah’s dinner
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNYnRWRkJpM2tXOExtblllMjB1eHVpNEtlWnNtZFI0cUo3SlFEWm5PTHJzSHB0V0NBNUJuWVFPR0hLTkh2WlJWeGZTTHZCaExfMXVWem1qZHdGU2hUYTRnU1h5WHNLb0dheFRLczk1VG44WW1va2FnVk9QRUg4NmFqWlFxWUtfTXpvc0lHcHJYNVl4VklxVEVJaGgwVEEyTDBKdTdUcFRvOG5VTXhhM3lVQTYxWUVrdm80eEHSAb8BQVVfeXFMTW1lNWhsVEItcTNNZEJSYzRXOHRVSkRtaHhTaWU5Z0NwWWhlMnJ5eXlsX0V4M21aVkM4eW04Nll4TzlrVEhNclNFYzZpLWU4dnhQcmdqUXgzNjVCblM3SFpQcThpOXRwOExHVU1UUzBGRXhiYkJWc05KZWUwQWEzaWphcWRNZXk3Snh1dnpZRWJsTXhaNTc5SDIzX0tNZXFtOEhDcWxjVnlKV1FiM1R5WUg1Y0ZnbWhRVENmYkJUM2s?oc=5
 
-- Pak woman who escaped jail in Nepal arrested in Tripura - The Indian Express
-  Pak woman who escaped jail in Nepal arrested in Trip
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEpVWUIzd0M3RHFoVVdtNkRvYkljU0JUZWlRWTVSd3dRUmZQR1FaN0p4aFQ2LUlxMUg5bG5aVDJFMVlPam5iNnlCMWhWTEFFSlM0Rmc0ZGsyeVlWV1hsNnFqdV9ybVY2ZXNReGFpU3ZCV1lVdWdoQU8xbzdzQzZUR3pHaXhjVEJ4T3liU2hWd23SAZcBQVVfeXFMT1NlZG1ndXNZRVhHQ0plMTd6Y296UnA3cUYwbXBnbFYxekd1T3RMV2lZTUlLQ2JMbGI2UnNfUXlRbDVnMnM1WGtTZkwtZ3ZkNGtSRWVCUTFVLThXNGNqTDZQLWFXaG1LV1B0NC1naElfRDFtWnVfcFlVbXVIbHFPYzlfaVREQWNzOFpyRUZGRHJpbFdyTDJfcw?oc=5
+- India may witness a colder winter: What is La Niña? - The Indian Express
+  India may witness a colder winter: What is La
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEtqUjNKMExJSjYzc09BZDY4TnRBelZIQ09nZHhfVVpTaWN4YlJXbnRUWDN5bFFBVjNiY2xYNlpIRmtZZTE1elUzNHZQWkZFOHBKMFBBaUhQRjhzelNYdGRGNElfbmJtRm84SzE4aGpaM0x2LTA4V0FoN3luZVFKczRoMlB5TnpET2xQOTlNZXJpTV8wRXZR0gGeAUFVX3lxTE9uNGFycjFlQ3VxZ3NqcHhvX0c4MUVMUkh3X2QybVJlM2VTaFRESWtab1R3T0NDLXNGTjYzN1VZMFdkQ0dmaWhrbUQyMG1RLWZLZDFvaXlzVk9iUmlyWEZuS3hkcFA0M0oxYUJ4Z3NhT21tNk9jZ3lrQ1ZTNGZFeTNKSEdOT0d0MHJ0aWxkLXdwTl9IX3RLZUlVMXdFbzFB?oc=5
 
-- TN set to take flight - The Times of India
-  The Times of India reports that
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdDFMdGIyckpHem43SXF2LWY2QzhhbDJjRzRBTGFRT3BYUG9uMVE2UnF2cW1OUDVsblJSdTRScUdIWko3dmZ0OGZWMEhlY0RUSUpjTlBQVlhFb3VzVVFRdm9UV0JxbGlVc2ZHOURtTl9GZUJ1bU1fNWF3X0tOc2dLVWx2eG9IQUNxazFVMUlxSThTeFVEbEdIc3czR3XSAaIBQVVfeXFMUGZuUHRvM2JNNnhfMTYzcmNqdXN4VVB2dERtaFhYcEN4NVdMN2V3R2hackZfY0I4Q0tsWFo3X1NNZEVrcFBGUllpRUhudXNzVWJPMmFmaU9CemlNZ01Ja2EzWlFGSjRhN0tLU0ljUjlsN3dmSzFqT2Ftb091U2w2QWFxLTNpVVV5ZHlFcnZ6emJWZ0VENHZnVFppd2pZa21zZHhn?oc=5
+- Pakistan Summons Afghan Envoy Over Joint Statement During India Visit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVRvUU5LdjNOY0xBckNBczdDOFhUcVNRakY4NDY0aG5Edk11d24zWkFxMmNocnEzVlRTNUFnQS01bU80bGtKRk9HUmItNmFkeTBTMjlIcU1kYXdHQ3JhVnJMdGZMbEU0NG
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVRvUU5LdjNOY0xBckNBczdDOFhUcVNRakY4NDY0aG5Edk11d24zWkFxMmNocnEzVlRTNUFnQS01bU80bGtKRk9HUmItNmFkeTBTMjlIcU1kYXdHQ3JhVnJMdGZMbEU0NG4wMFdpRmtKMmZmUlE5eHJPTlFpeXh3VkMxa2swVGtVMDE4NTd0NnpEUlR2UXN6ekdDdlRScDVuYVVLazVZZUlMdzNKOEtRdmJoUVjSAbwBQVVfeXFMUFU0WmF3cTFYWExmU3B2MWtaMW9iNEZpMHVmQUQ2eWh5b1F6VHUtbmw3MmtmS1ZkczNRWkZhRF9RMGlzdzVrbG83YXgzR0daaHJoQ2d0Q2ZwS1VEYXl4MTVIY1RDSk1FWUVNem9yRFNzdFowYVNxQTk0a181LVVBYnRscFZoZ1p3RVpvdmRXU3BoT1VudjhXTVFhWVFSeW9ud3lUdDZpcUo5U1VXSjB5M0RuNTFDN3gxMU42OEU?oc=5
 
-- 'Clear violation of...': Pakistan fumes over Jammu & Kashmir mention in India-Afghan statement | Latest News India - Hindustan Times
-  'Clear violation of...': Pakistan fumes over Jammu & Kashmir mention in India
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdEp5aDlDbXExR1lZdzJTc1VpNDU1M0tFVkVieVZod0FRdVNyOENhRmtvM0hpWUxOSFZDVE5mRlRQb09pSG1xTGdwbUliQm9td3Y0ZThwSUhjMHVWYzRRTzlVMkZnYjZwMFFSaXVFNEFoM09RUW9pY2ljN2YtX1RzX2hsUm95YnhkelFnQUJLSDF2NVVua0MxSURSUEx5MGFPRTBNNkNLWFFSNWMwazNqNEFaUnNsaXg1S1ZsNlNoRmYyUXJNcFF0SkZaLWNmSFNkd1RCdm9DZWpKbnVheFdCSC0teksxT3lRRFo2N2FhallJYllBMWdqUGxnQdIBgAJBVV95cUxNXzdPR2hpRlJxcC1FUW5UeHphTkpBcFdaVlR4Q0ZzcWtIREpqVlZLQlNGR0RsVUZnekFhcE1WVHVLQlYxU1lqWlFZbko2OExqM2hHdDlqUnVOOFlhOFFkQTFPeGRSeHhSYVZVbDFkNEhIZWdJTUlOMFJQa0NLd3VXa3ZYZnRJODQ4TGhodncxNHZSSG5ST1hiaFhILXdZM092bkNsaDNlT2FWdjA3S3NHMW85YVhGQkp5U3hEVGJDSlJVdkRucmZieGlXbkxkZ2hJWjFUYjdUb0pBNnNBUERUWEtoVU1BdmVpd1MzM0EySHdLQ19oWTM0R0lwaEFzNGhS?oc=5
+- Bihar CEO records reveal unexplained deletions | Latest News India - Hindustan Times
+  Bihar CEO records reveal unexplained deletions.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWNSZ3VvN2FFNHFvTHJpamZ3TVpIZ3NXWWljLXZnZmJGUzA5MVJlYWQ2cUo4cUMzNFBYQW4yY2V0QUdiWmxZdllkcjFfa2hLUkZRMEVBVlJPMlBKUW1FZWk1LVN4YUJ5VXQ3STJaVmJ3ZDNGWFFyV1ZtOFdsdnRnOEszS2luZFF6YlBhZXl0cC1CVm1YclZaWEtSbHB2d29faXIzTVlLYkgwdm1YN2fSAbMBQVVfeXFMT045dTVDNVgtZjFSTXhSajMxOFRnTFgzRFR4VkxmN3dCbHlxeDNtSVBRRk9GU0tpWkxOak00aWUyYVhiZ09oclhWUHJsaldCalFYSnpselFNaXJjM0FyWjFwR3YybVBzOF9qc3ZtSTF5TkNBUmVmM0RZcGpWOVltMURVckVVZGRaTFBRODJyNS1hcWRQUGVIMTFaMWYzR0xHY0tyM1Y2Uk8xNmVBVzkzRV9rU0E?oc=5
 
-- U.K. PM’s India visit LIVE: U.K. signs $468 million deal to supply India with missiles - The Hindu
-  U.K. signs $468 million deal to supply India with missiles
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU004eFA2OWx1YkljZHZmNzNwZjdVMXF1RmRLRFhrYkU5WUNSaU1md29tNlA3NTBPQ0RNVkVGQW9vc0dnMXEwQVdNRzJ6R0k2XzZvOGV4Nmp5TDhjUUhsSDZqLWlhSzdYalZ3NmVTZVFmMl9OMENMZkNHOFBVUEMwb0hIcnZmaDlzWHVKODU1LUNRU2ZLWHdMN3VlU3VwemZJWk9qZnpPbVFEU2dnTW8tTWJrWk1QLTh3bjZKTG82N1dGRm0tQldHemVvWGpzWXNGM29jWNIB2wFBVV95cUxQRElYYUplbllScDFaa1loTUpORkpHMHEtWmc3VWQ1MGhpcVRNX3NNVk9vNXN6VkZDTFVENUk3YVRjWjRoSzRnNkpZMkU4UlFRRHFhS0hXS0ZBaVNHeEl5U3cxTnRCTEliakFySURGZzFEdGpfdmZWOWV4elNPdVNQT045R1FfUFdFbEZ6SVhUNTY3WVlnY2ZPam0tbW9jb21zdVhDcWhiTkYtdy1ySlhqRnZ1eHNFNFM4Qnl0NXo0NmF5Tkhja2lzd25UUU9zeHhpYkppanRQdWVmS0k?oc=5
+- BJP MLA gatecrashes DKS event in RSS uniform | Latest News India - Hindustan Times
+  BJP MLA gatecrashes DKS event in RSS
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2piaE5xc0lHNkljVEI0NWlUdE9jY0FrTTlsSmVSRFJuUmRieHpINFgzTGFYR3c3QjFMWmdXNExmcTg4dVdkcUFMWUxCamJNVkdrYlZJdkZkanN2b28tV1VxUnR6Vy1pLVRBTXJsb1JaakN2T0JNVE05cHZzTHZ0aWhkcEhmYTVyM2g2S2FvQTI2SUdIZGdmLXFvZndrUHdEQmF3dU9SVXNhbGfSAbABQVVfeXFMTXNON0xpNHVBajdEWGU1NUI5Q214b256N2FpbklOX1RILVBhUE95UUo2WlIyNEN4SEdmSXp1M1ZTYkVSaTQyQUlDcXdkX05GTmRHMWxVZndIUm9iMjdCSURmSl9Pa2pHWjB3SEdXaVhpQmNlTm9HeE5ZcWF4RnFPNHJ2aUhwcU1DUjJMWGJQdnVpdUFKczBQZm95Y1c5c3FMWWlyenVwVWxHejlPTkdIa1U?oc=5
 
-- After Omar Abdullah's Snub, Congress "No" To Rajya Sabha Polls In J&K - NDTV
-  Omar Abdullah snubbed by Congress in Raj
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOTEyWWlFaHhHX21rYi1aUnRoMlRENllnNjJaNmp2NF96WTF2SXExaEtvRkpFeW16YXo0NTJlT0JNWlpkazM5LW5WYTczMF9UNW16U2toU1VCamxsTFUwQU1OZGE4ODVfUmN3b2lMblp5NHd3RW1TSVdoTmt0dEIxYUFZZzkxdF8zRG02MVZiWl9LNnZReXNDT2tzemgxS2xlS1hKNk1LQmPSAbABQVVfeXFMUHdPejVaRWFhS0ZlTXpSU05TeGNvZHJabmxqSXgzR1dXWkppbm1MVEwxRm1lNUZVSnBYQ19OdTh6aGh2SG1tLXdaNkdDdjFBWWc5cE9VM3BWNmp4LUdkZkRNNTFsekJWbXl3LUZjaGdjMG1JSXAtOUUxUGsxOS1Vc0RLX3NiNW9GNWVKSjVMMlRvcl83SE5OVTVEVURHQW1FV2dqcGQ0S05OX3NyUGJNbXk?oc=5
+- BJP links Siddaramaiah’s dinner meet to Bihar elections | Latest News India - Hindustan Times
+  BJP links Siddaramaiah’s dinner
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNYnRWRkJpM2tXOExtblllMjB1eHVpNEtlWnNtZFI0cUo3SlFEWm5PTHJzSHB0V0NBNUJuWVFPR0hLTkh2WlJWeGZTTHZCaExfMXVWem1qZHdGU2hUYTRnU1h5WHNLb0dheFRLczk1VG44WW1va2FnVk9QRUg4NmFqWlFxWUtfTXpvc0lHcHJYNVl4VklxVEVJaGgwVEEyTDBKdTdUcFRvOG5VTXhhM3lVQTYxWUVrdm80eEHSAb8BQVVfeXFMTW1lNWhsVEItcTNNZEJSYzRXOHRVSkRtaHhTaWU5Z0NwWWhlMnJ5eXlsX0V4M21aVkM4eW04Nll4TzlrVEhNclNFYzZpLWU4dnhQcmdqUXgzNjVCblM3SFpQcThpOXRwOExHVU1UUzBGRXhiYkJWc05KZWUwQWEzaWphcWRNZXk3Snh1dnpZRWJsTXhaNTc5SDIzX0tNZXFtOEhDcWxjVnlKV1FiM1R5WUg1Y0ZnbWhRVENmYkJUM2s?oc=5
 
-- Pak woman who escaped jail in Nepal arrested in Tripura - The Indian Express
-  Pak woman who escaped jail in Nepal arrested in Trip
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEpVWUIzd0M3RHFoVVdtNkRvYkljU0JUZWlRWTVSd3dRUmZQR1FaN0p4aFQ2LUlxMUg5bG5aVDJFMVlPam5iNnlCMWhWTEFFSlM0Rmc0ZGsyeVlWV1hsNnFqdV9ybVY2ZXNReGFpU3ZCV1lVdWdoQU8xbzdzQzZUR3pHaXhjVEJ4T3liU2hWd23SAZcBQVVfeXFMT1NlZG1ndXNZRVhHQ0plMTd6Y296UnA3cUYwbXBnbFYxekd1T3RMV2lZTUlLQ2JMbGI2UnNfUXlRbDVnMnM1WGtTZkwtZ3ZkNGtSRWVCUTFVLThXNGNqTDZQLWFXaG1LV1B0NC1naElfRDFtWnVfcFlVbXVIbHFPYzlfaVREQWNzOFpyRUZGRHJpbFdyTDJfcw?oc=5
-
-- TN set to take flight - The Times of India
-  The Times of India reports that
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdDFMdGIyckpHem43SXF2LWY2QzhhbDJjRzRBTGFRT3BYUG9uMVE2UnF2cW1OUDVsblJSdTRScUdIWko3dmZ0OGZWMEhlY0RUSUpjTlBQVlhFb3VzVVFRdm9UV0JxbGlVc2ZHOURtTl9GZUJ1bU1fNWF3X0tOc2dLVWx2eG9IQUNxazFVMUlxSThTeFVEbEdIc3czR3XSAaIBQVVfeXFMUGZuUHRvM2JNNnhfMTYzcmNqdXN4VVB2dERtaFhYcEN4NVdMN2V3R2hackZfY0I4Q0tsWFo3X1NNZEVrcFBGUllpRUhudXNzVWJPMmFmaU9CemlNZ01Ja2EzWlFGSjRhN0tLU0ljUjlsN3dmSzFqT2Ftb091U2w2QWFxLTNpVVV5ZHlFcnZ6emJWZ0VENHZnVFppd2pZa21zZHhn?oc=5
+- India may witness a colder winter: What is La Niña? - The Indian Express
+  India may witness a colder winter: What is La
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEtqUjNKMExJSjYzc09BZDY4TnRBelZIQ09nZHhfVVpTaWN4YlJXbnRUWDN5bFFBVjNiY2xYNlpIRmtZZTE1elUzNHZQWkZFOHBKMFBBaUhQRjhzelNYdGRGNElfbmJtRm84SzE4aGpaM0x2LTA4V0FoN3luZVFKczRoMlB5TnpET2xQOTlNZXJpTV8wRXZR0gGeAUFVX3lxTE9uNGFycjFlQ3VxZ3NqcHhvX0c4MUVMUkh3X2QybVJlM2VTaFRESWtab1R3T0NDLXNGTjYzN1VZMFdkQ0dmaWhrbUQyMG1RLWZLZDFvaXlzVk9iUmlyWEZuS3hkcFA0M0oxYUJ4Z3NhT21tNk9jZ3lrQ1ZTNGZFeTNKSEdOT0d0MHJ0aWxkLXdwTl9IX3RLZUlVMXdFbzFB?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-12 18:24:10 UTC_
+_Last updated: 2025-10-13 01:15:20 UTC_
