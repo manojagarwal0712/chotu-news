@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Southwest monsoon to retreat in 2 days; northwest monsoon onset likely this week: IMD
+- 20 feared dead after moving bus catches fire in Jaisalmer
   
-  🔗 https://indianexpress.com/article/india/southwest-monsoon-retreat-2-days-northwest-this-week-imd-10306448/
+  🔗 https://indianexpress.com/article/india/dead-moving-bus-catches-fire-in-jaisalmer-10307146/
 
-- India’s elephant numbers fall by 18% to 22,446 – but Centre says ‘not comparable’ to past estimate
+- Accused of looting Rs 1.45 crore hawala money, 11 Madhya Pradesh cops booked, 5 arrested
   
-  🔗 https://indianexpress.com/article/india/india-elephant-numbers-fall-centre-not-comparable-past-estimate-10306285/
+  🔗 https://indianexpress.com/article/india/accused-looting-rs-1-45-crore-hawala-money-11-madhya-pradesh-cops-booked-5-arrested-10307086/
 
-- BJP releases first list of 71 candidates for Bihar elections, Samrat Chaudhary to contest Tarapur seat
+- CM Manik Saha seeks Union Health Minister J P Nadda’s intervention to set up new medical college in Tripura
   
-  🔗 https://indianexpress.com/article/india/bjp-first-candidates-list-bihar-elections-samrat-chaudhary-10306267/
+  🔗 https://indianexpress.com/article/india/cm-manik-saha-health-minister-j-p-nadda-medical-college-tripura-10307047/
 
-- Devuji and Hidma — 2 military leaders now at the helm of Maoist party after ‘ideological head’ Sonu surrenders
+- Singapore seeks names of investigators to be sent for Zubeen’s death probe
   
-  🔗 https://indianexpress.com/article/india/devuji-hidma-military-leaders-helm-of-maoist-party-ideological-sonu-surrenders-10306227/
+  🔗 https://indianexpress.com/article/india/zubeen-garg-death-probe-singapore-investigators-10307045/
 
-- Cough syrup deaths: Here are top 5 revelations in Coldrif case
+- Delegation of Afghan Sikhs, Hindus meet Muttaqi in Delhi
   
-  🔗 https://indianexpress.com/article/india/cough-syrup-deaths-here-are-top-5-revelations-in-coldrif-case-10305962/
+  🔗 https://indianexpress.com/article/india/delegation-of-afghan-sikhs-hindus-meet-muttaqi-in-delhi-10307035/
+
+- Android devices vulnerable to new ‘Pixnapping’ attack: Here’s all you need to know
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/android-devices-vulnerable-pixnapping-attack-all-you-need-to-know-10306818/
+
+- Meta’s Instagram to restrict teen content to PG-13 by default
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/metas-instagram-to-restrict-teen-content-to-pg-13-by-default-10306647/
+
+- How we discovered the Universe’s age — from old rocks to giant stars
+  
+  🔗 https://indianexpress.com/article/technology/science/how-we-discovered-the-universes-age-from-old-rocks-to-giant-stars-10306631/
 
 - Taurid Fireball meteor shower 2025: Date, timings, and more
   
@@ -28,57 +40,57 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-exec-as-company-commits-15-billion-to-data-center-hub-in-india-10306532/
 
-- Scientists may have found the smallest clump of dark matter, and its million times denser than the sun
-  
-  🔗 https://indianexpress.com/article/technology/science/space-dark-matter-small-clump-discovered-mass-million-sun-10306414/
+- Goldman Sachs sees ‘upswing’ in investment banking to continue
+  Goldman Sachs CEO David Solomon said he had seen momentum in investment banking through the summer and September. Solomon said there had been a shift in attitude among decision
+  🔗 https://www.livemint.com/companies/news/goldman-sachs-sees-upswing-in-investment-banking-to-continue-11760463095999.html
 
-- Microsoft unveils MAI-Image-1, its latest fully in-house image model
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-unveils-mai-image-1-its-latest-fully-in-house-image-model-10306542/
+- Goldman Sachs signals job cuts and hiring slowdown amid AI push
+  An internal memo outlines Goldman Sachs�
+  🔗 https://www.livemint.com/companies/goldman-sachs-signals-job-cuts-and-hiring-slowdown-amid-ai-push-11760460491108.html
 
-- Don’t miss these iPhone deals ahead of Diwali: Prices drop as low as Rs 47K
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/apple-iphone-diwali-deals-discounts-10306142/
+- Tech Mahindra posts modest revenue growth, but margins hit new high
+  The Pune-based IT services company reported $1.59 billion in revenue for the July-September period. Most of the growth came from manufacturers, which made up three-fifths
+  🔗 https://www.livemint.com/companies/tech-mahindra-q2-results-revenue-fy25-information-technology-sector-growth-software-services-11760451630902.html
 
-- JPMorgan stock in focus after Q3 results beat estimates on dealmaking surge
-  US banking giant experienced exceptional growth in investment banking
-  🔗 https://www.livemint.com/companies/company-results/jpmorgan-stock-in-focus-after-q3-results-beat-estimates-on-dealmaking-surge-11760441674538.html
+- India’s AI ambitions supercharged with Google’s $15-billion data centre investment
+  Big Tech’s ‘announced’ AI infrastructure bets in the country to $25 billion this year, with another $6
+  🔗 https://www.livemint.com/companies/ai-ambitions-google-15-billion-data-centre-microsoft-investment-meta-adani-reliance-l-t-big-tech-renewable-energy-11760451512639.html
 
-- Supreme Court seeks Centre, Sebi response on Sahara’s plea to sell 88 properties to Adani Group
-  Adani Properties said the company was willing to acquire all 88 properties in one go, even if some assets were subject to disputes. The 88 properties listed in Sahara’s plea include A
-  🔗 https://www.livemint.com/companies/sahara-group-properties-sebi-adani-properties-adani-group-supreme-court-11760440283439.html
+- J&amp;J to spin off orthopaedics unit after strong Q3 results, stock falls 1%
+  J&amp;amp;J Chief Financial Officer Joseph Wolk explained that whilst DePuy Synthes is �
+  🔗 https://www.livemint.com/companies/company-results/jj-to-spin-off-orthopaedics-unit-after-strong-q3-results-stock-falls-1-11760448285111.html
 
-- Who is Minu Margaret? 31-year-old founder of BlissClub becomes youngest woman to feature on Hurun India U-35 List 2025
-  Minu Margaret is the youngest on the Avendus Wealth – Hurun India U35 List 2025. She created BlissClub to fill the gap in quality activewear for Indian women.
-  🔗 https://www.livemint.com/companies/people/who-is-minu-margaret-31-year-old-founder-of-blissclub-becomes-youngest-woman-to-feature-on-hurun-india-u-35-list-2025-11760431147442.html
+- Gold surges past $4,100 per ounce driven by possible fed interest rate cut bets
+  Spot gold rose 0.8% to $4,143.17 per ounce as of 12:46
+  🔗 https://www.livemint.com/market/commodities/gold-surges-past-4-100-per-ounce-driven-by-possible-fed-interest-rate-cut-bets-11760462843190.html
 
-- From code to concrete: The new TCS playbook to build factories that power AI
-  India’s largest IT services exporter is shifting its identity from a pure software services provider to a digital infrastructure powerhouse. A massive $6.5 billion bet to forge one
-  🔗 https://www.livemint.com/companies/tcs-india-data-centre-ai-revolution-11760439780451.html
+- Nifty 50 nears key support; breach could push index down to 24,700, say experts
+  The Nifty 50 index dropped 0.32% amid rising U.S.-China trade tensions. PSU banking stocks suffered the most. Market analysts expect volatility to persist
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-nears-key-support-breach-could-push-index-down-to-24-700-say-experts-11760451769279.html
 
-- Viral video: LG Electronics India MD Hong Ju Jeon addresses NSE listing ceremony in Hindi
-  LG Electronics' managing director, Hong Ju Jeon, impressed netizens with
-  🔗 https://www.livemint.com/companies/news/viral-video-lg-electronics-india-md-hong-ju-jeon-addresses-nse-listing-ceremony-in-hindi-11760436872926.html
+- Wall Street today: S&amp;P 500, Dow Jones rebound as investors digest Powell’s comments
+  The Dow Jones Industrial Average rose 0.67%, the S&amp;
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-today-nasdaq-sinks-300-points-dow-jones-falls-200-points-on-renewed-us-china-trade-tensions-11760448885757.html
 
-- Small-cap stock Thyrocare Tech announces  ₹7 dividend, 2:1 bonus issue. Check details
-  Thyrocare Technologies announced a 2:1 bonus share issue and an interim dividend. The bonus aims to enhance liquidity and broaden the shareholder base. The company reported a 22
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-thyrocare-tech-announces-rs-7-dividend-2-1-bonus-issue-check-details-11760442963946.html
+- Debentures vs shares: What is the difference? Key features, returns and risks explained
+  A look at the key differences between debentures and shares, highlighting their features, returns, risks, and
+  🔗 https://www.livemint.com/market/bonds/debentures-vs-shares-what-is-the-difference-key-features-returns-and-risks-explained-11760444333453.html
 
-- Canara HSBC Life IPO Day 3: Issue booked nearly 2.3 times on final day; check latest GMP
-  Canara HSBC Life's IPO closed on October 14, oversubscribed 2.29 times. Institutional demand led the way, while retail and non-institutional segments were undersub
-  🔗 https://www.livemint.com/market/ipo/canara-hsbc-life-ipo-day-3-issue-booked-nearly-2-3-times-on-final-day-check-latest-gmp-11760442731235.html
+- Tech Mahindra Q2 Results: Net profit misses estimates, declares interim dividend of  ₹15 per share
+  Tech Mahindra reported a net profit of  ₹1,195 crore for the quarter ending September. However, revenue from operations was
+  🔗 https://www.livemint.com/market/tech-mahindra-q2-results-net-profit-misses-estimates-declares-interim-dividend-of-rs-15-per-share-11760447089331.html
 
-- ICICI Prudential Life Insurance Q2 Results: Profit jumps 19% YoY on higher premiums
-  ICICI Prudential Life Insurance reported a quarterly profit rise on Tuesday. It benefited from
-  🔗 https://www.livemint.com/market/stock-market-news/icici-prudential-life-insurance-q2-results-profit-jumps-19-yoy-on-higher-premiums-11760441389605.html
+- Gemini Nano Banana trend: Turn your selfie into a stunning AI-powered Diwali couple portrait – 7 Prompts to try
+  This Diwali, couples are creating AI-powered portraits using Gemini Nano Banana. The trend is going viral on social media, offering personalised and photorealistic digital art.
+  🔗 https://www.livemint.com/technology/tech-news/gemini-nano-banana-trend-turn-your-selfie-into-a-stunning-ai-powered-diwali-couple-portrait-7-prompts-to-try-11760451402114.html
 
-- Expert view: Indian stock market may give modest returns over the next 12-15 months, says Shrikant Chouhan of Kotak
-  Shrikant Chouhan of Kotak Securities projects modest returns for the Indian stock market over the next 12-15 months. He says earnings growth tempered by lower multi
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-indian-stock-market-may-give-modest-returns-over-the-next-12-15-months-says-shrikant-chouhan-of-kotak-11760439481933.html
+- Ubisoft’s Assassin’s Creed Shadows reportedly coming to Nintendo Switch 2 as game-key card
+  Assassin’s Creed Shadows may come to Nintendo Switch 2. Sold as a Game-Key Card, it requires online download. Originally released on 20 March 2025 for PC, PS5
+  🔗 https://www.livemint.com/technology/tech-news/ubisofts-assassin-s-creed-shadows-reportedly-coming-to-nintendo-switch-2-as-game-key-card-11760448544760.html
 
-- Muhurat trading 2025: Adani Ports, Reliance to Eternal — Kotak Securities lists seven stocks to buy for Samvat 2082
-  Kotak Securities listed seven stocks, including several blue-chip names like Adani Ports, Reliance Industries
-  🔗 https://www.livemint.com/market/stock-market-news/muhurat-trading-2025-adani-ports-reliance-to-eternal-lists-seven-stocks-to-buy-for-samvat-2082-11760439853226.html
+- Amazon Great Indian Festival: Enjoy premium sound with the best headphones with multiple deals on top brands
+  The Amazon sale offers exciting options for music lovers, gamers, and professionals. Discover the best headphones at the Amazon Great Indian
+  🔗 https://www.livemint.com/technology/gadgets/amazon-great-indian-festival-enjoy-premium-sound-with-the-best-headphones-with-multiple-deals-on-top-brands-11760441681228.html
 
 - Instagram adopts PG-13-style content controls for teenage users: All you need to know
    Meta will now apply PG-13-style content filters to all teen Instagram accounts by default.
@@ -88,137 +100,125 @@
   Microsoft unveils MAI-Image-1, its first in-house AI image generation model. Built under the Microsoft AI label and will soon integrate into Copilot and Bing Image Creator.
   🔗 https://www.livemint.com/technology/tech-news/microsoft-just-unveiled-mai-image-1-its-first-ai-image-generation-model-you-need-to-know-about-11760440206935.html
 
-- Microsoft ends free support for Windows 10 from October 14: Upgrade, pay, or switch OS?
-  From 14 Oct 2025, Microsoft ends free support for Windows 10. Without updates, devices risk malware and cyberattacks. Users can upgrade to Windows 11 or pay for extended protection.
-  🔗 https://www.livemint.com/technology/tech-news/microsoft-ends-free-support-for-windows-10-from-october-14-upgrade-pay-or-switch-os-11760435200552.html
-
-- Apple TV+ rebrands to Apple TV ahead of Brad Pitt's F1 movie premiere on 12 December | Here's what happened
-  Apple has dropped the ‘plus’ from its streaming service, rebranding Apple TV+ as Apple TV. Overall, the subscriptions now cost $12.99
-  🔗 https://www.livemint.com/technology/tech-news/apple-tv-rebrands-to-apple-tv-ahead-of-brad-pitts-f1-movie-premiere-on-12-december-heres-what-happened-11760426256552.html
-
-- First 200 MW from UAEs Stargate AI campus to come online next year
-  First 200 MW from UAE's Stargate
-  🔗 https://www.livemint.com/technology/tech-news/first-200-mw-from-uaes-stargate-ai-campus-to-come-online-next-year-11760426691543.html
-
-- Stock Market Today: Dow Futures Fall After U.S.-China Tensions Resurge — Live Updates - The Wall Street Journal
-  Stock futures drop again after one bounce as China re-escalates trade tensions. Dow, S&amp;P 500, Nasdaq futures slide as US-China trade tensions rattle nerves.
+- Stock Market Today: Dow Up 350 Points After U.S.-China Tensions Resurge — Live Updates - The Wall Street Journal
+  The Wall Street Journal: Dow Up 350 Points After U.S.-China Tensions Resurge. NBC: Dow turns positive as investors try to shrug off latest 600-point deficit.
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOX3N2MEVweEZHZ2pkTF9UcWJadEpqQmE3QlNFVENmUjBtTUxoOHphS0pidk9TREZrcXdlSGY5LTg2a1JjSEZlQjlTQUNjcHJYc1V2NHA1TlVNZVBlX0c5anJUZFlJN3o4c2dtUEZhc1JiSTg4bUZ3NDJ6QmFWV0d1RkVUdm1nNDA?oc=5
 
-- Global stock markets tumble as Beijing imposes new ban on U.S. shipping - Fortune
-  Global stock markets tumble as Beijing imposes new ban on
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTQ1TTRXWVZFaHZvTVI4Rl85X1ViVURBWWY0NjhrUVAtem55b1I2bmpXWVJpZ3FhU2xtN191UmZGRWRYclBjZnRlTV9CeGVwSEktWHVVUEp1ZkNhUG9obE9PTndyZGRsSDRrRWxlbHhrSTZObUFlYkMxanJmZlFUQ29MU2w2Nl90QU9JenQ1Z3RDY1hxVGkxVDByc2FSMG9pMmtQTGhHRQ?oc=5
-
-- 5 Things to Know Before the Stock Market Opens - Investopedia
-  5 Things to Know Before the Stock
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxORUZzc1JZTkI3WjlCMFVOZGhUX0NCeVhPSDRLTTZjck1rUzF0S1NOeWlJSmtzNEw2MVpmeEVYOUd4Q3pweWJOTHMxaVJObTBlQWhseEh6bUVoQV9ILW9qdkFJdE4xV3hJRTU4bFNPcnl0UXNRV19ESllIT3VSNkMwajJNcjdNenFmWGRPd080UzZXYzduRWNpQWVmT190emR6dEE?oc=5
-
-- Closing Bell: Nifty below 25,150, Sensex down 297 pts; all sectors in the red - Moneycontrol
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdmQ5VnpIZzBFMzNST2FVWjFIbjMwTDhnV1hzUXl3R3hDWnhBZzJGa0VBeEhiRS1ySkZ6d0F6dFJ2SXZMM0JXMXVVYlJjVDI1UDFRbG4xdHEwcDNBNHJETzhFN3p0WkNCWG
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdmQ5VnpIZzBFMzNST2FVWjFIbjMwTDhnV1hzUXl3R3hDWnhBZzJGa0VBeEhiRS1ySkZ6d0F6dFJ2SXZMM0JXMXVVYlJjVDI1UDFRbG4xdHEwcDNBNHJETzhFN3p0WkNCWG1Va1JwSkZTN0JGR282MU5za0VqblQ2eHg2QlQ2OHhWV1pXUXBUYUcxdnYtUTNvU3VvaHo1VWpPWHVCWkdvbWZJUnpIQmxzbEpZM2lUZTl6d0p6UG5EM1JrQ2xoUHRHZzRhUDBHS294NW5nT2pHaUxXSjk0Z09TUmE5cGd3R2Q0YzV6cw?oc=5
+- Our patience in BlackRock pays off as its earnings send the stock to record highs - CNBC
+  BlackRock's earnings send the stock to record highs. BlackRock
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHBSZGlVbjFqUDJ6Z1lEY2V2eUVvU2E1bGRpbWpMNW9GNlNTZ1psUVpvM0tPUDJhVG90MEl5UERmeENKUFUwcFl1RXBjTVRDZDBUTGdQYWp6bms0NFJ3QzNzQVRYMVEtQWtpOXZvM21xTUdVTlJuYXljT3ZwMXJoWklTMUlubjlKczdVLTJrNm1leUtySHM2ZWFfX0dtSWVyQUpRLXNPZE1STFU?oc=5
 
 - The Great Debasement Debate Is Rippling Across Global Markets - Bloomberg.com
   The Great Debasement Debate Is
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNUlU2UlVYaTFRX3d5eXhjSWlfMk9tVUpocXNubFRQdy1HQ2VaTUZia3cxSXFibmpMT1JMaHd5TGZmVzc4ajVRYWhXNlNSb2ItX2xLblN4dmx5Y2ZXOG5vemlyNzFKdmppOVdCbDl1STJGVlRndjVSYTFXRFJoVVNBZFVSWGdOQTZ0ZGxSTThpWF9xbndzajZrWUpLRWVBLW1xdUVVWUJzcURFUE5Jeks0dnZ3?oc=5
 
-- Wells Fargo tops profit estimates, raises return target after asset cap lifted
-  Wells Fargo beat Wall Street estimates for third-quarter profit. Bank raised its closely watched profitability target after regulators removed an asset cap.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/wells-fargo-tops-profit-estimates-raises-return-target-after-asset-cap-lifted/articleshow/124551908.cms
+- Global markets tumble as Beijing imposes new ban on U.S. shipping. Bessent vows China ‘will be hurt the most’ if it doesn’t surrender - Fortune
+  The Chinese government has imposed a new ban on U.S. shipping to China. The move is seen
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTQ1TTRXWVZFaHZvTVI4Rl85X1ViVURBWWY0NjhrUVAtem55b1I2bmpXWVJpZ3FhU2xtN191UmZGRWRYclBjZnRlTV9CeGVwSEktWHVVUEp1ZkNhUG9obE9PTndyZGRsSDRrRWxlbHhrSTZObUFlYkMxanJmZlFUQ29MU2w2Nl90QU9JenQ1Z3RDY1hxVGkxVDByc2FSMG9pMmtQTGhHRQ?oc=5
 
-- Goldman Sachs September quarter profit jumps 37% as bankers cash in on big deals
-  Goldman Sachs' quarterly profit jumped more than 37% on Tuesday. Investment bankers earned higher advisory fees and rallying
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/goldman-sachs-september-quarter-profit-jumps-37-as-bankers-cash-in-on-big-deals/articleshow/124551823.cms
+- US shares risk ‘sharp correction’ but markets seem complacent, IMF warns - The Guardian
+  US shares risk ‘sharp correction’ but
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQWUw3LVVzazVNTzRnZzdHamtFbmVndjNtNklkcjFDTHA5MUltVk0tTjRVLUVZLTVva3N2VmhZblR1X1ZUSmJMdzJjNDdYT0g1YXg1RkE2Q2t5aG5FMGltN3B5TmJ2TE01NGFQTFpFZHBieXl3eGVQelBaeW94SldGeTZqZXRCMHY0Z2JRaXRBTTQ?oc=5
 
-- Bank of Maharashtra Q2 Results: Profit rises 23% YoY as net interest income boosts earnings
-  Bank of Maharashtra reported a 23% jump in net profit to Rs 1,633 crore for September quarter. Pre-provision operating profit increased 17%, while asset quality remained
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-maharashtra-q2-results-profit-rises-23-yoy-as-net-interest-income-boosts-earnings/articleshow/124551602.cms
+- US Fed chair Jerome Powell flags concern about sharp slowdown in job creation
+  US Federal Reserve Chair Jerome Powell warns that risks to employment have risen in recent months. He says there had been a sharp slowdown of job creation in the world's leading economy.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-fed-chair-jerome-powell-flags-concern-about-sharp-slowdown-in-job-creation/articleshow/124557337.cms
 
-- Tata Motors demerger: Trucks and buses business valued at Rs 260.75 per share
-  Following Tata Motors’ demerger, the commercial vehicle unit is valued at Rs 260.75 per share. Analysts call the split a ‘value unlocking’ move.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-demerger-trucks-and-buses-business-valued-at-rs-260-75-per-share/articleshow/124551445.cms
+- Amir Chand Jagdish Kumar gets Sebi's nod to raise Rs 550-cr via IPO
+  Amir Chand Jagdish Kumar Exports Ltd, a prominent basmati rice exporter, has received approval from Sebi for its initial public offering. The company plans to raise Rs 550 crore through a fresh issue of shares.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/amir-chand-jagdish-kumar-gets-sebis-nod-to-raise-rs-550-cr-via-ipo/articleshow/124557287.cms
 
-- Gainers &amp; Losers: LG, IREDA and MCX among 7 stocks under spotlight on Tuesday
-  Sensex and Nifty fell for a second straight session amid broad-based selling led by PSU banks, pharma and metal stocks. LG Electronics debuted strongly, MapmyIndia
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-lg-ireda-and-mcx-among-7-stocks-under-spotlight-on-tuesday/slideshow/124550877.cms
+- Dow, S&amp;P 500 turn positive as Fed's Powell says end of balance sheet drawdown is near
+  The Dow and the S&amp;P 500 turned positive on Tuesday after Federal Reserve Chair Jerome Powell said the central bank may soon end its balance
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dow-sp-500-turn-positive-as-feds-powell-says-end-of-balance-sheet-drawdown-is-near/articleshow/124557216.cms
 
-- 'India is a great country': Donald Trump lauds 'friend' PM Modi in Gaza peace summit — Watch - Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYlJyYkU5YVBISjVYaHI1Y2N2d3NQdURwell4R01lQ1c4emNuTzU4MmJRRnI1UDJqNkxXRWUtZVhYRDlVRXZJeFkxLXl2RTBVV0JPZ1JwSTNwZFJDMWZFN2ZUeE1RbzdqcE
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYlJyYkU5YVBISjVYaHI1Y2N2d3NQdURwell4R01lQ1c4emNuTzU4MmJRRnI1UDJqNkxXRWUtZVhYRDlVRXZJeFkxLXl2RTBVV0JPZ1JwSTNwZFJDMWZFN2ZUeE1RbzdqcEZ5RzdLazA2M05XVGl0UlpoV25SMS1SeThqdTg2QUFlc0ZaVlRhaktoT2RycDF1MlJfeTVvcmZPWEplNE94OG1teDhnc3ljTndMcWhTcm5EczM1OXRFNUoxZW1fVzNzemVDVHU3TjhSMkV1dnQ5aDlSMG44MXlVTVhPNDdYVzM20gHuAUFVX3lxTE1Ra0pIcFU2UzNvMzB6NXdNNmM0ZEpIVnNrSzA5V3dpTGw3SDFDZmpseTdqaktHMlcydWZDX3dPM21RUFdzR1Iyc2RuTUZTa1d6aWlzWkVMTi1YZzlDbHFDTjJoZUd5VzlCY1o0RDkta2J0RnZsRzZ2SzFQNTU2VUVVZDZPSlJSZThxNlNBRTBNaTM2SEJJNmxjN0FsS1dtTXZpUkl1LTI2V1VlQVh5ejh6Nm53MjNiRVNHYm1GOXJGUFM4S19qRUNDMHIyVW9IaDJYTVNWa0QzdmFSZ2NkR1VILWlIMGZtazNZbFAzemc?oc=5
+- ET Market Watch: Sensex, Nifty slip for 2nd day, LG shines with 50% premium debut
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/etmarkets-podcast/et-market-watch-sensex-nifty-slip-for-2nd-day-lg-shines-with-50-premium-debut/podcast/124557034.cms
 
-- PM Modi and Mongolian President Khurelsukh Ukhnaa hold bilateral talks at Hyderabad House - The Indian Express
-  PM Modi and Mongolian President Khurelsukh Ukh
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNYVR4enFEM25ZdmtnZXdFeFNkdC1ac2pzZHU4RmYyR19RUG1mNHBickRyRm11X1pfOVhMR1UwaUhPRURyT2ZfUU02M1JCWGJxN0pLTUw1MXM2TnYxNmN2c0RWVFBEQnNlSVppQTdsWmRscVdvZnZycHlBYnNfem5jV3d6NEFYSFFMeV92NmFMS2lPQ1ZNeDlFQ3hoeXZhaXdrM3hGSkg3d2Q4MDQzS3pieXFfTXhYbmVtejdZNU54SHpQX3gwakRTcVFBckNoTmvSAdYBQVVfeXFMTlJqQ1FUdXdmY0dseFNSTEJOaFhRMGIzcjk3ak51X2F6Ry10bGIzNkxkbTdnaENYekdSemdPQlFvdTBSeU92VXpwTkczZkdkM09lWlc5WDc3eExjZEFzbFFrX1l2bTNsWWdnOXdxWi02R2hqLUdoTWZIakJBSmlwTE1GVVJQZmlDd1JVLWtMZlgxdUpBZXg2cEtxbVc3dkhkVmswcnlnWWplSHUxUU1ieEtyb3BiVzdFRWEzenVUNWUzN3RoaVBBaXhCa1JMS3NoU3doMVVzQQ?oc=5
-
-- Shocked by litter, British vlogger calls out India's tourism mindset in viral video - India Today
-  The video was posted on India Today.com. It
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPamhvNEY3aFd4VFRsWGdWN2JTeW1zUm5OTE1US3VnendxN2t2Z2NPSmRuekExTVg1WmFxQng2cWE0RTA2djlqMVV3OU5WUm5HZVg2c0lXd09PNnFrLXF6dXpUQjMzU0M0TzdJWEctWVBqaHFQa240ZlE1X0ZkazFvMzJjUkpWcXV1cEZENUNDa1c4QW5mRE9MOTV6MGxtRkVLRlNOUTBtX0FwTGw1SUZMTWxjdEV4emJ1TW9PQlpaWW85R2pMNnNLTUNhNU56VkdvTDQ1eUN6SXJaajNUYWfSAeMBQVVfeXFMTkNlVDhHVnAxdUR0bWxyZV9UTlBoSXRTaENjeElkVWtER216bnFiTTRrVy1JUWJJY1VjVmt2NGFfb3IzTHpqY2hyaHlfOHBnSlF5WFhFbGJUSExjc0NvaEdCNkt5bXE5UGI1WTk3T09HdVdPSDh4dXFvaG9ENWhMbFplcC0xV3VwRVV4WDdlSnc2cGRVZUNVNS1XNEFhNi13Zjl1aktlZk04WXBXbVJKRkJSZ3ZXTVVxYUpyMmFPamVMNl9JTnJCaGxPc09mc3l4QllsMXRIN1BIQzgtQWpMbnFjVUE?oc=5
-
-- Indian-Origin Man, Wrongfully Jailed For 43 Years, Faces Deportation From US - NDTV
-  Indian-Origin Man, Wrongfully Jailed
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNd09pam9YZi1nV3RZSHA0RmM0Y05SWTVONFFMTG4za0k5OHZ1WnE3cGo3UzFKVjIyRTRsd21CMGJFbklEY0VnV0Q3QkhKVXFMVFVRWXkyYVJLUWZLblRFTnlNd1BySkVfRWlvbXJ1R0hpUThNcFJNWnY3V2J0LXdwc3pzdWVaTTNUYm1iTmdlVWFuRkNXSkpWNmVKa0F2bjFXTmowdHNLR2l3cHRQel9TRWVUVXU?oc=5
-
-- Two top govt panels to assess 7 firms vying for India's stealth fighter jet project | Latest News India - Hindustan Times
-  Two top govt panels to assess 7 firms vying for India's stealth fighter jet project.
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFZhZVhjS21VbTA3TkpwQlZrYXlKdXFhdmFWLUIxYWlvTHNpeld2czNjMmhDd0FGV1otaHJZTnc2cVg1aGtkVTI1eWR4U3ZCR3pLQTRpbHdINDRqcF9sQmdVN3E2aDZBWmoxczBEN3R1cTZ4SVBSOHk0RlhLVTBnUEUtS2FhejBka2RfOGU2WXZfMGFiQWVhclR6WkdZVVdIalRERTlrSHBfeWNtTW8tdnNnSVFsOGtVdENr0gHAAUFVX3lxTE5HQ054SGUtT3lDSkZwU19aZDNaQVQxblNJQ25KTTl6T2pXSk4tQlU4bHRJWHVPUzJVQnVfY1hQODZuYl9xUW9QdVg2ajFEOUkyWnBVX0JPdVdhU3VsdWxzdWI0d29qOFE3ck1rZnhHWlVnLXBWai1WMVg4NG1ncGhTeTB6NERWSDlqZkNiZFpqX1lfSGMtRWhnZnQzbzA2WHF1eDU4V1dSUjFIMXVEVmZONWlEX2hIVVROTzhDSndUWQ?oc=5
+- JPMorgan lifts interest income forecast after profit beats estimates
+  JPMorgan Chase has surpassed profit expectations for the third quarter. The bank has also increased its full-year net interest income forecast. Strong performance in trading and investment banking businesses fueled this success.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jpmorgan-lifts-interest-income-forecast-after-profit-beats-estimates/articleshow/124556560.cms
 
 - 'India is a great country': Donald Trump lauds 'friend' PM Modi in Gaza peace summit — Watch - Times of India
   <ol><li><a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYlJyYkU5YVBISjVYaHI1Y2N2d3NQdURwell4R01lQ1c4emNuTzU4MmJRRnI1UDJqNkxXRWUtZVhYRDlVRXZJeFkxLXl2RTBVV0JPZ1JwSTNwZFJDMWZFN2ZUeE1RbzdqcE
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYlJyYkU5YVBISjVYaHI1Y2N2d3NQdURwell4R01lQ1c4emNuTzU4MmJRRnI1UDJqNkxXRWUtZVhYRDlVRXZJeFkxLXl2RTBVV0JPZ1JwSTNwZFJDMWZFN2ZUeE1RbzdqcEZ5RzdLazA2M05XVGl0UlpoV25SMS1SeThqdTg2QUFlc0ZaVlRhaktoT2RycDF1MlJfeTVvcmZPWEplNE94OG1teDhnc3ljTndMcWhTcm5EczM1OXRFNUoxZW1fVzNzemVDVHU3TjhSMkV1dnQ5aDlSMG44MXlVTVhPNDdYVzM20gHuAUFVX3lxTE1Ra0pIcFU2UzNvMzB6NXdNNmM0ZEpIVnNrSzA5V3dpTGw3SDFDZmpseTdqaktHMlcydWZDX3dPM21RUFdzR1Iyc2RuTUZTa1d6aWlzWkVMTi1YZzlDbHFDTjJoZUd5VzlCY1o0RDkta2J0RnZsRzZ2SzFQNTU2VUVVZDZPSlJSZThxNlNBRTBNaTM2SEJJNmxjN0FsS1dtTXZpUkl1LTI2V1VlQVh5ejh6Nm53MjNiRVNHYm1GOXJGUFM4S19qRUNDMHIyVW9IaDJYTVNWa0QzdmFSZ2NkR1VILWlIMGZtazNZbFAzemc?oc=5
 
-- PM Modi and Mongolian President Khurelsukh Ukhnaa hold bilateral talks at Hyderabad House - The Indian Express
-  PM Modi and Mongolian President Khurelsukh Ukh
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNYVR4enFEM25ZdmtnZXdFeFNkdC1ac2pzZHU4RmYyR19RUG1mNHBickRyRm11X1pfOVhMR1UwaUhPRURyT2ZfUU02M1JCWGJxN0pLTUw1MXM2TnYxNmN2c0RWVFBEQnNlSVppQTdsWmRscVdvZnZycHlBYnNfem5jV3d6NEFYSFFMeV92NmFMS2lPQ1ZNeDlFQ3hoeXZhaXdrM3hGSkg3d2Q4MDQzS3pieXFfTXhYbmVtejdZNU54SHpQX3gwakRTcVFBckNoTmvSAdYBQVVfeXFMTlJqQ1FUdXdmY0dseFNSTEJOaFhRMGIzcjk3ak51X2F6Ry10bGIzNkxkbTdnaENYekdSemdPQlFvdTBSeU92VXpwTkczZkdkM09lWlc5WDc3eExjZEFzbFFrX1l2bTNsWWdnOXdxWi02R2hqLUdoTWZIakJBSmlwTE1GVVJQZmlDd1JVLWtMZlgxdUpBZXg2cEtxbVc3dkhkVmswcnlnWWplSHUxUU1ieEtyb3BiVzdFRWEzenVUNWUzN3RoaVBBaXhCa1JMS3NoU3doMVVzQQ?oc=5
+- India fade after a bright start, exit Asian Cup race | Football News - Hindustan Times
+  India fade after a bright start, exit Asian Cup race.
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMTJDM0ZOSTRlYlJ5MTlYWnMtMkt2MzdYTngxSXFJM252dkpBMkdzMm9QVWlvMGtxbTlvTG13dnRDeHFwaVJBdDlaYUhQVU9yVXAza2dFSFVwRV9TZnNOQWwyQ09TOFZHNEJzYmIxVmgwamtvd0hpbjdYazFiR29VS1BJTXdQSTdJWEd3MFhjdklHTkt0VFR6ajBKdTV0X2c0MGhKR184Q1VFR04wNTEydkVDZ2NRa1JfbE1B0gHAAUFVX3lxTE02eEhPbHF5TVFkWTBITTFEaXZFN0dSakVZeE9xNldIYlVaNENZT2MwRW5oTDhWbEUwcmxFUEM4SlMtNHJDci15WDJsYjhpcDVZa2ZpRUw2Wk45VXNIQ3dTR3hLa2pNNHZkX2ZXZ3FXNFNWcWs1SVhCbjVNRTJfZkMydHk0bDRFTHhQRHZvREZRNGpFRmp0MkF1RWVybUZBa0FEb0F5SGlDaExVYkhUV2V6WGpFZFE0YTNOTW5rN2VYdQ?oc=5
 
-- Shocked by litter, British vlogger calls out India's tourism mindset in viral video - India Today
-  The video was posted on India Today.com. It
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPamhvNEY3aFd4VFRsWGdWN2JTeW1zUm5OTE1US3VnendxN2t2Z2NPSmRuekExTVg1WmFxQng2cWE0RTA2djlqMVV3OU5WUm5HZVg2c0lXd09PNnFrLXF6dXpUQjMzU0M0TzdJWEctWVBqaHFQa240ZlE1X0ZkazFvMzJjUkpWcXV1cEZENUNDa1c4QW5mRE9MOTV6MGxtRkVLRlNOUTBtX0FwTGw1SUZMTWxjdEV4emJ1TW9PQlpaWW85R2pMNnNLTUNhNU56VkdvTDQ1eUN6SXJaajNUYWfSAeMBQVVfeXFMTkNlVDhHVnAxdUR0bWxyZV9UTlBoSXRTaENjeElkVWtER216bnFiTTRrVy1JUWJJY1VjVmt2NGFfb3IzTHpqY2hyaHlfOHBnSlF5WFhFbGJUSExjc0NvaEdCNkt5bXE5UGI1WTk3T09HdVdPSDh4dXFvaG9ENWhMbFplcC0xV3VwRVV4WDdlSnc2cGRVZUNVNS1XNEFhNi13Zjl1aktlZk04WXBXbVJKRkJSZ3ZXTVVxYUpyMmFPamVMNl9JTnJCaGxPc09mc3l4QllsMXRIN1BIQzgtQWpMbnFjVUE?oc=5
+- India to resume postal services to U.S. from October 15 - DD News
+  India to resume postal services to U.S
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3JnUXFEZGtGMktScjdmTVVfWWFMbTNna284SkZYNm9NUFk2Z19OSzljZmZTRXgtWGg2M0t0Tnd5dzhEcUdUZVFiZ0c4YnNJTlN3YlViZzlxSWVYWHgzLXVBNm1rZHJLN1ZsTVBXQkE5Z211dGF4ZmVyenFnSjk0VkhUTnVvWXM?oc=5
 
-- Indian-Origin Man, Wrongfully Jailed For 43 Years, Faces Deportation From US - NDTV
-  Indian-Origin Man, Wrongfully Jailed
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNd09pam9YZi1nV3RZSHA0RmM0Y05SWTVONFFMTG4za0k5OHZ1WnE3cGo3UzFKVjIyRTRsd21CMGJFbklEY0VnV0Q3QkhKVXFMVFVRWXkyYVJLUWZLblRFTnlNd1BySkVfRWlvbXJ1R0hpUThNcFJNWnY3V2J0LXdwc3pzdWVaTTNUYm1iTmdlVWFuRkNXSkpWNmVKa0F2bjFXTmowdHNLR2l3cHRQel9TRWVUVXU?oc=5
+- Husbands, Wives Compete For Poll Tickets In Bihar. Men Lead 2-0 - NDTV
+  Husbands, Wives Compete For
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxObkhKZU5JUW9qcDRjSFk4WGh2bGtnODc4MkVZRnJsUzZuYzVyaTRCLTlFLUlNM1FSSkRPLUZLN0NURHlXYm0zRUhkQ1BjOVoyWExEbzZmMWhqUHZOTHprN3RBSnRpazl0STV5aU5kVEN2S09VLTZ3SWhoNVQ3LTRqQmdrNjM4aWZqQXRmRFFmSjc5Snk5emNHLVlmUWtkMHRRLWs4?oc=5
 
-- Two top govt panels to assess 7 firms vying for India's stealth fighter jet project | Latest News India - Hindustan Times
-  Two top govt panels to assess 7 firms vying for India's stealth fighter jet project.
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFZhZVhjS21VbTA3TkpwQlZrYXlKdXFhdmFWLUIxYWlvTHNpeld2czNjMmhDd0FGV1otaHJZTnc2cVg1aGtkVTI1eWR4U3ZCR3pLQTRpbHdINDRqcF9sQmdVN3E2aDZBWmoxczBEN3R1cTZ4SVBSOHk0RlhLVTBnUEUtS2FhejBka2RfOGU2WXZfMGFiQWVhclR6WkdZVVdIalRERTlrSHBfeWNtTW8tdnNnSVFsOGtVdENr0gHAAUFVX3lxTE5HQ054SGUtT3lDSkZwU19aZDNaQVQxblNJQ25KTTl6T2pXSk4tQlU4bHRJWHVPUzJVQnVfY1hQODZuYl9xUW9QdVg2ajFEOUkyWnBVX0JPdVdhU3VsdWxzdWI0d29qOFE3ck1rZnhHWlVnLXBWai1WMVg4NG1ncGhTeTB6NERWSDlqZkNiZFpqX1lfSGMtRWhnZnQzbzA2WHF1eDU4V1dSUjFIMXVEVmZONWlEX2hIVVROTzhDSndUWQ?oc=5
-
-- 'India is a great country': Donald Trump lauds 'friend' PM Modi in Gaza peace summit — Watch - Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYlJyYkU5YVBISjVYaHI1Y2N2d3NQdURwell4R01lQ1c4emNuTzU4MmJRRnI1UDJqNkxXRWUtZVhYRDlVRXZJeFkxLXl2RTBVV0JPZ1JwSTNwZFJDMWZFN2ZUeE1RbzdqcE
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYlJyYkU5YVBISjVYaHI1Y2N2d3NQdURwell4R01lQ1c4emNuTzU4MmJRRnI1UDJqNkxXRWUtZVhYRDlVRXZJeFkxLXl2RTBVV0JPZ1JwSTNwZFJDMWZFN2ZUeE1RbzdqcEZ5RzdLazA2M05XVGl0UlpoV25SMS1SeThqdTg2QUFlc0ZaVlRhaktoT2RycDF1MlJfeTVvcmZPWEplNE94OG1teDhnc3ljTndMcWhTcm5EczM1OXRFNUoxZW1fVzNzemVDVHU3TjhSMkV1dnQ5aDlSMG44MXlVTVhPNDdYVzM20gHuAUFVX3lxTE1Ra0pIcFU2UzNvMzB6NXdNNmM0ZEpIVnNrSzA5V3dpTGw3SDFDZmpseTdqaktHMlcydWZDX3dPM21RUFdzR1Iyc2RuTUZTa1d6aWlzWkVMTi1YZzlDbHFDTjJoZUd5VzlCY1o0RDkta2J0RnZsRzZ2SzFQNTU2VUVVZDZPSlJSZThxNlNBRTBNaTM2SEJJNmxjN0FsS1dtTXZpUkl1LTI2V1VlQVh5ejh6Nm53MjNiRVNHYm1GOXJGUFM4S19qRUNDMHIyVW9IaDJYTVNWa0QzdmFSZ2NkR1VILWlIMGZtazNZbFAzemc?oc=5
-
-- PM Modi and Mongolian President Khurelsukh Ukhnaa hold bilateral talks at Hyderabad House - The Indian Express
-  PM Modi and Mongolian President Khurelsukh Ukh
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNYVR4enFEM25ZdmtnZXdFeFNkdC1ac2pzZHU4RmYyR19RUG1mNHBickRyRm11X1pfOVhMR1UwaUhPRURyT2ZfUU02M1JCWGJxN0pLTUw1MXM2TnYxNmN2c0RWVFBEQnNlSVppQTdsWmRscVdvZnZycHlBYnNfem5jV3d6NEFYSFFMeV92NmFMS2lPQ1ZNeDlFQ3hoeXZhaXdrM3hGSkg3d2Q4MDQzS3pieXFfTXhYbmVtejdZNU54SHpQX3gwakRTcVFBckNoTmvSAdYBQVVfeXFMTlJqQ1FUdXdmY0dseFNSTEJOaFhRMGIzcjk3ak51X2F6Ry10bGIzNkxkbTdnaENYekdSemdPQlFvdTBSeU92VXpwTkczZkdkM09lWlc5WDc3eExjZEFzbFFrX1l2bTNsWWdnOXdxWi02R2hqLUdoTWZIakJBSmlwTE1GVVJQZmlDd1JVLWtMZlgxdUpBZXg2cEtxbVc3dkhkVmswcnlnWWplSHUxUU1ieEtyb3BiVzdFRWEzenVUNWUzN3RoaVBBaXhCa1JMS3NoU3doMVVzQQ?oc=5
-
-- Shocked by litter, British vlogger calls out India's tourism mindset in viral video - India Today
-  The video was posted on India Today.com. It
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPamhvNEY3aFd4VFRsWGdWN2JTeW1zUm5OTE1US3VnendxN2t2Z2NPSmRuekExTVg1WmFxQng2cWE0RTA2djlqMVV3OU5WUm5HZVg2c0lXd09PNnFrLXF6dXpUQjMzU0M0TzdJWEctWVBqaHFQa240ZlE1X0ZkazFvMzJjUkpWcXV1cEZENUNDa1c4QW5mRE9MOTV6MGxtRkVLRlNOUTBtX0FwTGw1SUZMTWxjdEV4emJ1TW9PQlpaWW85R2pMNnNLTUNhNU56VkdvTDQ1eUN6SXJaajNUYWfSAeMBQVVfeXFMTkNlVDhHVnAxdUR0bWxyZV9UTlBoSXRTaENjeElkVWtER216bnFiTTRrVy1JUWJJY1VjVmt2NGFfb3IzTHpqY2hyaHlfOHBnSlF5WFhFbGJUSExjc0NvaEdCNkt5bXE5UGI1WTk3T09HdVdPSDh4dXFvaG9ENWhMbFplcC0xV3VwRVV4WDdlSnc2cGRVZUNVNS1XNEFhNi13Zjl1aktlZk04WXBXbVJKRkJSZ3ZXTVVxYUpyMmFPamVMNl9JTnJCaGxPc09mc3l4QllsMXRIN1BIQzgtQWpMbnFjVUE?oc=5
-
-- Indian-Origin Man, Wrongfully Jailed For 43 Years, Faces Deportation From US - NDTV
-  Indian-Origin Man, Wrongfully Jailed
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNd09pam9YZi1nV3RZSHA0RmM0Y05SWTVONFFMTG4za0k5OHZ1WnE3cGo3UzFKVjIyRTRsd21CMGJFbklEY0VnV0Q3QkhKVXFMVFVRWXkyYVJLUWZLblRFTnlNd1BySkVfRWlvbXJ1R0hpUThNcFJNWnY3V2J0LXdwc3pzdWVaTTNUYm1iTmdlVWFuRkNXSkpWNmVKa0F2bjFXTmowdHNLR2l3cHRQel9TRWVUVXU?oc=5
-
-- Two top govt panels to assess 7 firms vying for India's stealth fighter jet project | Latest News India - Hindustan Times
-  Two top govt panels to assess 7 firms vying for India's stealth fighter jet project.
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFZhZVhjS21VbTA3TkpwQlZrYXlKdXFhdmFWLUIxYWlvTHNpeld2czNjMmhDd0FGV1otaHJZTnc2cVg1aGtkVTI1eWR4U3ZCR3pLQTRpbHdINDRqcF9sQmdVN3E2aDZBWmoxczBEN3R1cTZ4SVBSOHk0RlhLVTBnUEUtS2FhejBka2RfOGU2WXZfMGFiQWVhclR6WkdZVVdIalRERTlrSHBfeWNtTW8tdnNnSVFsOGtVdENr0gHAAUFVX3lxTE5HQ054SGUtT3lDSkZwU19aZDNaQVQxblNJQ25KTTl6T2pXSk4tQlU4bHRJWHVPUzJVQnVfY1hQODZuYl9xUW9QdVg2ajFEOUkyWnBVX0JPdVdhU3VsdWxzdWI0d29qOFE3ck1rZnhHWlVnLXBWai1WMVg4NG1ncGhTeTB6NERWSDlqZkNiZFpqX1lfSGMtRWhnZnQzbzA2WHF1eDU4V1dSUjFIMXVEVmZONWlEX2hIVVROTzhDSndUWQ?oc=5
+- News Today Live Updates, 14 October | Trump says US strikes another boat accused of carrying drugs in waters off Venezuela, killing 6 - The Indian Express
+  The Indian Express reports that the US has struck another boat accused of carrying drugs in waters off Venezuela.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVDV5TnVMV2VJWTlTNFBkb3dtanV2eEtNNmlKRjB1SDBpTG5TeHg5OVUxbVluZkNWZVhYODMyRG5IeE1qU0tMT2tqdU9oS084c0pfRUNBbUlueGFXc0JqOC10QktRMjczejJ6VHo4d05NTlc5VXlVTGxTdU1yRlRGSDd4M2JyNHdwZzFDVmtoWnBHUmpxNEcyZ0lCZmdXdVMyXzBLa0RpTXlOaXJCbThyYVBUcWQtS0dlNTdtWmo4S2VpWDBKbUhLOW42MWYwTmdmQmxMMXNZRWxTOFQ2Tk0xQllnVzdIbmwz0gHvAUFVX3lxTE1NRng5Ty1SbVdGLXRkSHJYVkVpQjEwR0g1LXZvOUpkT0pFOV8tTGNQb1JqVXR5LWNhVGlEY3laLTN3d2RWZkhRZ0pnTXpQVTkwYkZOazJCVWZveVBYdHFqaGRMc3ZUZHVCSWZJd3dCRVZ6RnlUQ3ZyXzRxN3pOLU96dWVXeFNFMDlxX3BMWFBFWGlsdnl4Q3VqTEUyMklRZ1NkcnVJV0FObzBlOFNRbF91TzhRV0JtYzZVb0tadVZac09CeHBzMjFmZDl0QjduSWlpdDVkYVcyc2gyS2hVTWJrWE9Ld2xFYUZfaVc3VE0w?oc=5
 
 - 'India is a great country': Donald Trump lauds 'friend' PM Modi in Gaza peace summit — Watch - Times of India
   <ol><li><a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYlJyYkU5YVBISjVYaHI1Y2N2d3NQdURwell4R01lQ1c4emNuTzU4MmJRRnI1UDJqNkxXRWUtZVhYRDlVRXZJeFkxLXl2RTBVV0JPZ1JwSTNwZFJDMWZFN2ZUeE1RbzdqcE
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYlJyYkU5YVBISjVYaHI1Y2N2d3NQdURwell4R01lQ1c4emNuTzU4MmJRRnI1UDJqNkxXRWUtZVhYRDlVRXZJeFkxLXl2RTBVV0JPZ1JwSTNwZFJDMWZFN2ZUeE1RbzdqcEZ5RzdLazA2M05XVGl0UlpoV25SMS1SeThqdTg2QUFlc0ZaVlRhaktoT2RycDF1MlJfeTVvcmZPWEplNE94OG1teDhnc3ljTndMcWhTcm5EczM1OXRFNUoxZW1fVzNzemVDVHU3TjhSMkV1dnQ5aDlSMG44MXlVTVhPNDdYVzM20gHuAUFVX3lxTE1Ra0pIcFU2UzNvMzB6NXdNNmM0ZEpIVnNrSzA5V3dpTGw3SDFDZmpseTdqaktHMlcydWZDX3dPM21RUFdzR1Iyc2RuTUZTa1d6aWlzWkVMTi1YZzlDbHFDTjJoZUd5VzlCY1o0RDkta2J0RnZsRzZ2SzFQNTU2VUVVZDZPSlJSZThxNlNBRTBNaTM2SEJJNmxjN0FsS1dtTXZpUkl1LTI2V1VlQVh5ejh6Nm53MjNiRVNHYm1GOXJGUFM4S19qRUNDMHIyVW9IaDJYTVNWa0QzdmFSZ2NkR1VILWlIMGZtazNZbFAzemc?oc=5
 
-- PM Modi and Mongolian President Khurelsukh Ukhnaa hold bilateral talks at Hyderabad House - The Indian Express
-  PM Modi and Mongolian President Khurelsukh Ukh
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNYVR4enFEM25ZdmtnZXdFeFNkdC1ac2pzZHU4RmYyR19RUG1mNHBickRyRm11X1pfOVhMR1UwaUhPRURyT2ZfUU02M1JCWGJxN0pLTUw1MXM2TnYxNmN2c0RWVFBEQnNlSVppQTdsWmRscVdvZnZycHlBYnNfem5jV3d6NEFYSFFMeV92NmFMS2lPQ1ZNeDlFQ3hoeXZhaXdrM3hGSkg3d2Q4MDQzS3pieXFfTXhYbmVtejdZNU54SHpQX3gwakRTcVFBckNoTmvSAdYBQVVfeXFMTlJqQ1FUdXdmY0dseFNSTEJOaFhRMGIzcjk3ak51X2F6Ry10bGIzNkxkbTdnaENYekdSemdPQlFvdTBSeU92VXpwTkczZkdkM09lWlc5WDc3eExjZEFzbFFrX1l2bTNsWWdnOXdxWi02R2hqLUdoTWZIakJBSmlwTE1GVVJQZmlDd1JVLWtMZlgxdUpBZXg2cEtxbVc3dkhkVmswcnlnWWplSHUxUU1ieEtyb3BiVzdFRWEzenVUNWUzN3RoaVBBaXhCa1JMS3NoU3doMVVzQQ?oc=5
+- India fade after a bright start, exit Asian Cup race | Football News - Hindustan Times
+  India fade after a bright start, exit Asian Cup race.
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMTJDM0ZOSTRlYlJ5MTlYWnMtMkt2MzdYTngxSXFJM252dkpBMkdzMm9QVWlvMGtxbTlvTG13dnRDeHFwaVJBdDlaYUhQVU9yVXAza2dFSFVwRV9TZnNOQWwyQ09TOFZHNEJzYmIxVmgwamtvd0hpbjdYazFiR29VS1BJTXdQSTdJWEd3MFhjdklHTkt0VFR6ajBKdTV0X2c0MGhKR184Q1VFR04wNTEydkVDZ2NRa1JfbE1B0gHAAUFVX3lxTE02eEhPbHF5TVFkWTBITTFEaXZFN0dSakVZeE9xNldIYlVaNENZT2MwRW5oTDhWbEUwcmxFUEM4SlMtNHJDci15WDJsYjhpcDVZa2ZpRUw2Wk45VXNIQ3dTR3hLa2pNNHZkX2ZXZ3FXNFNWcWs1SVhCbjVNRTJfZkMydHk0bDRFTHhQRHZvREZRNGpFRmp0MkF1RWVybUZBa0FEb0F5SGlDaExVYkhUV2V6WGpFZFE0YTNOTW5rN2VYdQ?oc=5
 
-- Shocked by litter, British vlogger calls out India's tourism mindset in viral video - India Today
-  The video was posted on India Today.com. It
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPamhvNEY3aFd4VFRsWGdWN2JTeW1zUm5OTE1US3VnendxN2t2Z2NPSmRuekExTVg1WmFxQng2cWE0RTA2djlqMVV3OU5WUm5HZVg2c0lXd09PNnFrLXF6dXpUQjMzU0M0TzdJWEctWVBqaHFQa240ZlE1X0ZkazFvMzJjUkpWcXV1cEZENUNDa1c4QW5mRE9MOTV6MGxtRkVLRlNOUTBtX0FwTGw1SUZMTWxjdEV4emJ1TW9PQlpaWW85R2pMNnNLTUNhNU56VkdvTDQ1eUN6SXJaajNUYWfSAeMBQVVfeXFMTkNlVDhHVnAxdUR0bWxyZV9UTlBoSXRTaENjeElkVWtER216bnFiTTRrVy1JUWJJY1VjVmt2NGFfb3IzTHpqY2hyaHlfOHBnSlF5WFhFbGJUSExjc0NvaEdCNkt5bXE5UGI1WTk3T09HdVdPSDh4dXFvaG9ENWhMbFplcC0xV3VwRVV4WDdlSnc2cGRVZUNVNS1XNEFhNi13Zjl1aktlZk04WXBXbVJKRkJSZ3ZXTVVxYUpyMmFPamVMNl9JTnJCaGxPc09mc3l4QllsMXRIN1BIQzgtQWpMbnFjVUE?oc=5
+- India to resume postal services to U.S. from October 15 - DD News
+  India to resume postal services to U.S
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3JnUXFEZGtGMktScjdmTVVfWWFMbTNna284SkZYNm9NUFk2Z19OSzljZmZTRXgtWGg2M0t0Tnd5dzhEcUdUZVFiZ0c4YnNJTlN3YlViZzlxSWVYWHgzLXVBNm1rZHJLN1ZsTVBXQkE5Z211dGF4ZmVyenFnSjk0VkhUTnVvWXM?oc=5
 
-- Indian-Origin Man, Wrongfully Jailed For 43 Years, Faces Deportation From US - NDTV
-  Indian-Origin Man, Wrongfully Jailed
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNd09pam9YZi1nV3RZSHA0RmM0Y05SWTVONFFMTG4za0k5OHZ1WnE3cGo3UzFKVjIyRTRsd21CMGJFbklEY0VnV0Q3QkhKVXFMVFVRWXkyYVJLUWZLblRFTnlNd1BySkVfRWlvbXJ1R0hpUThNcFJNWnY3V2J0LXdwc3pzdWVaTTNUYm1iTmdlVWFuRkNXSkpWNmVKa0F2bjFXTmowdHNLR2l3cHRQel9TRWVUVXU?oc=5
+- Husbands, Wives Compete For Poll Tickets In Bihar. Men Lead 2-0 - NDTV
+  Husbands, Wives Compete For
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxObkhKZU5JUW9qcDRjSFk4WGh2bGtnODc4MkVZRnJsUzZuYzVyaTRCLTlFLUlNM1FSSkRPLUZLN0NURHlXYm0zRUhkQ1BjOVoyWExEbzZmMWhqUHZOTHprN3RBSnRpazl0STV5aU5kVEN2S09VLTZ3SWhoNVQ3LTRqQmdrNjM4aWZqQXRmRFFmSjc5Snk5emNHLVlmUWtkMHRRLWs4?oc=5
 
-- Two top govt panels to assess 7 firms vying for India's stealth fighter jet project | Latest News India - Hindustan Times
-  Two top govt panels to assess 7 firms vying for India's stealth fighter jet project.
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFZhZVhjS21VbTA3TkpwQlZrYXlKdXFhdmFWLUIxYWlvTHNpeld2czNjMmhDd0FGV1otaHJZTnc2cVg1aGtkVTI1eWR4U3ZCR3pLQTRpbHdINDRqcF9sQmdVN3E2aDZBWmoxczBEN3R1cTZ4SVBSOHk0RlhLVTBnUEUtS2FhejBka2RfOGU2WXZfMGFiQWVhclR6WkdZVVdIalRERTlrSHBfeWNtTW8tdnNnSVFsOGtVdENr0gHAAUFVX3lxTE5HQ054SGUtT3lDSkZwU19aZDNaQVQxblNJQ25KTTl6T2pXSk4tQlU4bHRJWHVPUzJVQnVfY1hQODZuYl9xUW9QdVg2ajFEOUkyWnBVX0JPdVdhU3VsdWxzdWI0d29qOFE3ck1rZnhHWlVnLXBWai1WMVg4NG1ncGhTeTB6NERWSDlqZkNiZFpqX1lfSGMtRWhnZnQzbzA2WHF1eDU4V1dSUjFIMXVEVmZONWlEX2hIVVROTzhDSndUWQ?oc=5
+- News Today Live Updates, 14 October | Trump says US strikes another boat accused of carrying drugs in waters off Venezuela, killing 6 - The Indian Express
+  The Indian Express reports that the US has struck another boat accused of carrying drugs in waters off Venezuela.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVDV5TnVMV2VJWTlTNFBkb3dtanV2eEtNNmlKRjB1SDBpTG5TeHg5OVUxbVluZkNWZVhYODMyRG5IeE1qU0tMT2tqdU9oS084c0pfRUNBbUlueGFXc0JqOC10QktRMjczejJ6VHo4d05NTlc5VXlVTGxTdU1yRlRGSDd4M2JyNHdwZzFDVmtoWnBHUmpxNEcyZ0lCZmdXdVMyXzBLa0RpTXlOaXJCbThyYVBUcWQtS0dlNTdtWmo4S2VpWDBKbUhLOW42MWYwTmdmQmxMMXNZRWxTOFQ2Tk0xQllnVzdIbmwz0gHvAUFVX3lxTE1NRng5Ty1SbVdGLXRkSHJYVkVpQjEwR0g1LXZvOUpkT0pFOV8tTGNQb1JqVXR5LWNhVGlEY3laLTN3d2RWZkhRZ0pnTXpQVTkwYkZOazJCVWZveVBYdHFqaGRMc3ZUZHVCSWZJd3dCRVZ6RnlUQ3ZyXzRxN3pOLU96dWVXeFNFMDlxX3BMWFBFWGlsdnl4Q3VqTEUyMklRZ1NkcnVJV0FObzBlOFNRbF91TzhRV0JtYzZVb0tadVZac09CeHBzMjFmZDl0QjduSWlpdDVkYVcyc2gyS2hVTWJrWE9Ld2xFYUZfaVc3VE0w?oc=5
+
+- 'India is a great country': Donald Trump lauds 'friend' PM Modi in Gaza peace summit — Watch - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYlJyYkU5YVBISjVYaHI1Y2N2d3NQdURwell4R01lQ1c4emNuTzU4MmJRRnI1UDJqNkxXRWUtZVhYRDlVRXZJeFkxLXl2RTBVV0JPZ1JwSTNwZFJDMWZFN2ZUeE1RbzdqcE
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYlJyYkU5YVBISjVYaHI1Y2N2d3NQdURwell4R01lQ1c4emNuTzU4MmJRRnI1UDJqNkxXRWUtZVhYRDlVRXZJeFkxLXl2RTBVV0JPZ1JwSTNwZFJDMWZFN2ZUeE1RbzdqcEZ5RzdLazA2M05XVGl0UlpoV25SMS1SeThqdTg2QUFlc0ZaVlRhaktoT2RycDF1MlJfeTVvcmZPWEplNE94OG1teDhnc3ljTndMcWhTcm5EczM1OXRFNUoxZW1fVzNzemVDVHU3TjhSMkV1dnQ5aDlSMG44MXlVTVhPNDdYVzM20gHuAUFVX3lxTE1Ra0pIcFU2UzNvMzB6NXdNNmM0ZEpIVnNrSzA5V3dpTGw3SDFDZmpseTdqaktHMlcydWZDX3dPM21RUFdzR1Iyc2RuTUZTa1d6aWlzWkVMTi1YZzlDbHFDTjJoZUd5VzlCY1o0RDkta2J0RnZsRzZ2SzFQNTU2VUVVZDZPSlJSZThxNlNBRTBNaTM2SEJJNmxjN0FsS1dtTXZpUkl1LTI2V1VlQVh5ejh6Nm53MjNiRVNHYm1GOXJGUFM4S19qRUNDMHIyVW9IaDJYTVNWa0QzdmFSZ2NkR1VILWlIMGZtazNZbFAzemc?oc=5
+
+- India fade after a bright start, exit Asian Cup race | Football News - Hindustan Times
+  India fade after a bright start, exit Asian Cup race.
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMTJDM0ZOSTRlYlJ5MTlYWnMtMkt2MzdYTngxSXFJM252dkpBMkdzMm9QVWlvMGtxbTlvTG13dnRDeHFwaVJBdDlaYUhQVU9yVXAza2dFSFVwRV9TZnNOQWwyQ09TOFZHNEJzYmIxVmgwamtvd0hpbjdYazFiR29VS1BJTXdQSTdJWEd3MFhjdklHTkt0VFR6ajBKdTV0X2c0MGhKR184Q1VFR04wNTEydkVDZ2NRa1JfbE1B0gHAAUFVX3lxTE02eEhPbHF5TVFkWTBITTFEaXZFN0dSakVZeE9xNldIYlVaNENZT2MwRW5oTDhWbEUwcmxFUEM4SlMtNHJDci15WDJsYjhpcDVZa2ZpRUw2Wk45VXNIQ3dTR3hLa2pNNHZkX2ZXZ3FXNFNWcWs1SVhCbjVNRTJfZkMydHk0bDRFTHhQRHZvREZRNGpFRmp0MkF1RWVybUZBa0FEb0F5SGlDaExVYkhUV2V6WGpFZFE0YTNOTW5rN2VYdQ?oc=5
+
+- India to resume postal services to U.S. from October 15 - DD News
+  India to resume postal services to U.S
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3JnUXFEZGtGMktScjdmTVVfWWFMbTNna284SkZYNm9NUFk2Z19OSzljZmZTRXgtWGg2M0t0Tnd5dzhEcUdUZVFiZ0c4YnNJTlN3YlViZzlxSWVYWHgzLXVBNm1rZHJLN1ZsTVBXQkE5Z211dGF4ZmVyenFnSjk0VkhUTnVvWXM?oc=5
+
+- Husbands, Wives Compete For Poll Tickets In Bihar. Men Lead 2-0 - NDTV
+  Husbands, Wives Compete For
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxObkhKZU5JUW9qcDRjSFk4WGh2bGtnODc4MkVZRnJsUzZuYzVyaTRCLTlFLUlNM1FSSkRPLUZLN0NURHlXYm0zRUhkQ1BjOVoyWExEbzZmMWhqUHZOTHprN3RBSnRpazl0STV5aU5kVEN2S09VLTZ3SWhoNVQ3LTRqQmdrNjM4aWZqQXRmRFFmSjc5Snk5emNHLVlmUWtkMHRRLWs4?oc=5
+
+- News Today Live Updates, 14 October | Trump says US strikes another boat accused of carrying drugs in waters off Venezuela, killing 6 - The Indian Express
+  The Indian Express reports that the US has struck another boat accused of carrying drugs in waters off Venezuela.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVDV5TnVMV2VJWTlTNFBkb3dtanV2eEtNNmlKRjB1SDBpTG5TeHg5OVUxbVluZkNWZVhYODMyRG5IeE1qU0tMT2tqdU9oS084c0pfRUNBbUlueGFXc0JqOC10QktRMjczejJ6VHo4d05NTlc5VXlVTGxTdU1yRlRGSDd4M2JyNHdwZzFDVmtoWnBHUmpxNEcyZ0lCZmdXdVMyXzBLa0RpTXlOaXJCbThyYVBUcWQtS0dlNTdtWmo4S2VpWDBKbUhLOW42MWYwTmdmQmxMMXNZRWxTOFQ2Tk0xQllnVzdIbmwz0gHvAUFVX3lxTE1NRng5Ty1SbVdGLXRkSHJYVkVpQjEwR0g1LXZvOUpkT0pFOV8tTGNQb1JqVXR5LWNhVGlEY3laLTN3d2RWZkhRZ0pnTXpQVTkwYkZOazJCVWZveVBYdHFqaGRMc3ZUZHVCSWZJd3dCRVZ6RnlUQ3ZyXzRxN3pOLU96dWVXeFNFMDlxX3BMWFBFWGlsdnl4Q3VqTEUyMklRZ1NkcnVJV0FObzBlOFNRbF91TzhRV0JtYzZVb0tadVZac09CeHBzMjFmZDl0QjduSWlpdDVkYVcyc2gyS2hVTWJrWE9Ld2xFYUZfaVc3VE0w?oc=5
+
+- 'India is a great country': Donald Trump lauds 'friend' PM Modi in Gaza peace summit — Watch - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYlJyYkU5YVBISjVYaHI1Y2N2d3NQdURwell4R01lQ1c4emNuTzU4MmJRRnI1UDJqNkxXRWUtZVhYRDlVRXZJeFkxLXl2RTBVV0JPZ1JwSTNwZFJDMWZFN2ZUeE1RbzdqcE
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYlJyYkU5YVBISjVYaHI1Y2N2d3NQdURwell4R01lQ1c4emNuTzU4MmJRRnI1UDJqNkxXRWUtZVhYRDlVRXZJeFkxLXl2RTBVV0JPZ1JwSTNwZFJDMWZFN2ZUeE1RbzdqcEZ5RzdLazA2M05XVGl0UlpoV25SMS1SeThqdTg2QUFlc0ZaVlRhaktoT2RycDF1MlJfeTVvcmZPWEplNE94OG1teDhnc3ljTndMcWhTcm5EczM1OXRFNUoxZW1fVzNzemVDVHU3TjhSMkV1dnQ5aDlSMG44MXlVTVhPNDdYVzM20gHuAUFVX3lxTE1Ra0pIcFU2UzNvMzB6NXdNNmM0ZEpIVnNrSzA5V3dpTGw3SDFDZmpseTdqaktHMlcydWZDX3dPM21RUFdzR1Iyc2RuTUZTa1d6aWlzWkVMTi1YZzlDbHFDTjJoZUd5VzlCY1o0RDkta2J0RnZsRzZ2SzFQNTU2VUVVZDZPSlJSZThxNlNBRTBNaTM2SEJJNmxjN0FsS1dtTXZpUkl1LTI2V1VlQVh5ejh6Nm53MjNiRVNHYm1GOXJGUFM4S19qRUNDMHIyVW9IaDJYTVNWa0QzdmFSZ2NkR1VILWlIMGZtazNZbFAzemc?oc=5
+
+- India fade after a bright start, exit Asian Cup race | Football News - Hindustan Times
+  India fade after a bright start, exit Asian Cup race.
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMTJDM0ZOSTRlYlJ5MTlYWnMtMkt2MzdYTngxSXFJM252dkpBMkdzMm9QVWlvMGtxbTlvTG13dnRDeHFwaVJBdDlaYUhQVU9yVXAza2dFSFVwRV9TZnNOQWwyQ09TOFZHNEJzYmIxVmgwamtvd0hpbjdYazFiR29VS1BJTXdQSTdJWEd3MFhjdklHTkt0VFR6ajBKdTV0X2c0MGhKR184Q1VFR04wNTEydkVDZ2NRa1JfbE1B0gHAAUFVX3lxTE02eEhPbHF5TVFkWTBITTFEaXZFN0dSakVZeE9xNldIYlVaNENZT2MwRW5oTDhWbEUwcmxFUEM4SlMtNHJDci15WDJsYjhpcDVZa2ZpRUw2Wk45VXNIQ3dTR3hLa2pNNHZkX2ZXZ3FXNFNWcWs1SVhCbjVNRTJfZkMydHk0bDRFTHhQRHZvREZRNGpFRmp0MkF1RWVybUZBa0FEb0F5SGlDaExVYkhUV2V6WGpFZFE0YTNOTW5rN2VYdQ?oc=5
+
+- India to resume postal services to U.S. from October 15 - DD News
+  India to resume postal services to U.S
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3JnUXFEZGtGMktScjdmTVVfWWFMbTNna284SkZYNm9NUFk2Z19OSzljZmZTRXgtWGg2M0t0Tnd5dzhEcUdUZVFiZ0c4YnNJTlN3YlViZzlxSWVYWHgzLXVBNm1rZHJLN1ZsTVBXQkE5Z211dGF4ZmVyenFnSjk0VkhUTnVvWXM?oc=5
+
+- Husbands, Wives Compete For Poll Tickets In Bihar. Men Lead 2-0 - NDTV
+  Husbands, Wives Compete For
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxObkhKZU5JUW9qcDRjSFk4WGh2bGtnODc4MkVZRnJsUzZuYzVyaTRCLTlFLUlNM1FSSkRPLUZLN0NURHlXYm0zRUhkQ1BjOVoyWExEbzZmMWhqUHZOTHprN3RBSnRpazl0STV5aU5kVEN2S09VLTZ3SWhoNVQ3LTRqQmdrNjM4aWZqQXRmRFFmSjc5Snk5emNHLVlmUWtkMHRRLWs4?oc=5
+
+- News Today Live Updates, 14 October | Trump says US strikes another boat accused of carrying drugs in waters off Venezuela, killing 6 - The Indian Express
+  The Indian Express reports that the US has struck another boat accused of carrying drugs in waters off Venezuela.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVDV5TnVMV2VJWTlTNFBkb3dtanV2eEtNNmlKRjB1SDBpTG5TeHg5OVUxbVluZkNWZVhYODMyRG5IeE1qU0tMT2tqdU9oS084c0pfRUNBbUlueGFXc0JqOC10QktRMjczejJ6VHo4d05NTlc5VXlVTGxTdU1yRlRGSDd4M2JyNHdwZzFDVmtoWnBHUmpxNEcyZ0lCZmdXdVMyXzBLa0RpTXlOaXJCbThyYVBUcWQtS0dlNTdtWmo4S2VpWDBKbUhLOW42MWYwTmdmQmxMMXNZRWxTOFQ2Tk0xQllnVzdIbmwz0gHvAUFVX3lxTE1NRng5Ty1SbVdGLXRkSHJYVkVpQjEwR0g1LXZvOUpkT0pFOV8tTGNQb1JqVXR5LWNhVGlEY3laLTN3d2RWZkhRZ0pnTXpQVTkwYkZOazJCVWZveVBYdHFqaGRMc3ZUZHVCSWZJd3dCRVZ6RnlUQ3ZyXzRxN3pOLU96dWVXeFNFMDlxX3BMWFBFWGlsdnl4Q3VqTEUyMklRZ1NkcnVJV0FObzBlOFNRbF91TzhRV0JtYzZVb0tadVZac09CeHBzMjFmZDl0QjduSWlpdDVkYVcyc2gyS2hVTWJrWE9Ld2xFYUZfaVc3VE0w?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-14 12:36:33 UTC_
+_Last updated: 2025-10-14 18:26:30 UTC_
