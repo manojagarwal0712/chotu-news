@@ -1,184 +1,224 @@
 # 📰 Daily News Summaries
 
-- Gold Today Rate, October 15: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- Diwali 2025: Railways suspends Platform Ticket sales at 15 stations including Delhi, Mumbai – Full list
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-october-15-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10307880/
+  🔗 https://indianexpress.com/article/india/diwali-2025-railways-suspends-platform-ticket-sales-at-15-stations-including-delhi-mumbai-full-list-10308700/
 
-- Top 10 highest AQI cities in India today: UP’s Nagli Bahrampur tops chart; Check if your city is on the l
+- Amid hijab row in Kerala, church pushback, minister climbdown and a CPM balancing act
   
-  🔗 https://indianexpress.com/article/india/top-10-aqi-level-cities-today-october-14-air-quality-index-up-delhi-10307735/
+  🔗 https://indianexpress.com/article/india/hijab-row-kerala-church-minister-cpm-10308486/
 
-- Indian-American expert Ashley Tellis arrested for storing secret US documents; FBI flags meetings with Chinese officials
+- Convoy taking accused in Zubeen Garg case to newly opened prison pelted with stones
   
-  🔗 https://indianexpress.com/article/india/indian-american-expert-ashley-tellis-arrested-storing-secret-us-documents-fbi-flags-meetings-chinese-officials-10307784/
+  🔗 https://indianexpress.com/article/india/zubeen-garg-death-case-convoy-accused-stone-pelted-10308429/
 
-- Bihar Election 2025 LIVE Updates: ‘Won’t contest elections, party has decided,’ says Prashant Kishor ahead of polls
+- RJD leader Tejashwi Yadav files nomination with Lalu, Rabri Devi by his side
   
-  🔗 https://indianexpress.com/article/india/bihar-election-2025-live-updates-congress-bjp-nda-candidate-list-prashant-kishor-nitish-kumar-10307681/
+  🔗 https://indianexpress.com/article/india/rjd-leader-tejashwi-yadav-files-nomination-bihar-polls-lalu-rabri-devi-10308257/
 
-- ‘Goan politics stalwart’ who had stints as CM and MP, Ravi Naik dies at 79
+- JD(U) Full List of candidates for Bihar elections 2025: Check who’s contesting from your constituency
   
-  🔗 https://indianexpress.com/article/india/ravi-naik-goa-agriculture-former-chief-minister-passes-away-at-79-10307689/
+  🔗 https://indianexpress.com/article/india/jdu-candidates-list-for-bihar-assembly-elections-2025-janata-dal-united-10308193/
 
-- Meet the AI chatbots replacing India’s call-center workers
+- YouTube rolls out new mental health and wellbeing tools for teenagers
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meet-the-ai-chatbots-replacing-indias-call-center-workers-10307885/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/youtube-rolls-out-new-mental-health-and-wellbeing-tools-for-teenagers-10308722/
 
-- Spotify video podcasts head to Netflix under new distribution tie-up
+- Diwali 2025: Top deals on Samsung Galaxy smartphones starting from Rs 7,999
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/spotify-video-podcasts-head-to-netflix-under-new-distribution-tie-up-10307812/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-phones-diwali-sale-deals-2025-10308143/
 
-- AI investment boom may lead to bust, but not likely systemic crisis: Reports
+- Meta adds Deepika Padukone’s voice, UPI payments, and Diwali features to AI glasses
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-investment-boom-may-lead-to-bust-but-not-likely-systemic-crisis-reports-10307809/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-adds-deepika-padukones-voice-upi-payments-and-diwali-features-to-ai-glasses-10308549/
 
-- Broadcom to launch new networking chip, as battle with Nvidia intensifies
+- Under Rs 30,000: From OnePlus Nord CE 5 to Motorola Edge 60 Pro, top Diwali 2025 deals
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/broadcom-to-launch-new-networking-chip-as-battle-with-nvidia-intensifies-10307814/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/under-rs-30000-best-smartphone-deals-you-shouldnt-miss-during-diwali-2025-10308465/
 
-- This former Apple CEO believes OpenAI could be Cupertino’s ‘first real competitor’ in decades
+- Nikon unveils Nikon ZR with 6K recording, 32-Bit audio, and more
   
-  🔗 https://indianexpress.com/article/technology/this-former-apple-ceo-believes-openai-could-be-cupertinos-first-real-competitor-in-decades-10307745/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/nikon-unveils-z-cinema-zr-professional-cinema-market-6k-red-raw-10308246/
 
-- Hyundai Motor India appoints Tarun Garg as MD and CEO, first Indian to achieve feat; when will he take over?
-  Garg will take on his new role effective January 1, 2026, subject to shareholder approval. He is currently a Whole-Time Director and COO of Hyundai Motor India.
-  🔗 https://www.livemint.com/companies/people/hyundai-motor-india-appoints-tarun-garg-as-md-and-ceo-first-indian-to-be-so-when-will-he-take-over-11760505285771.html
+- Growth-hungry online retail giants look to tap the Northeast
+  The Northeast is becoming a key e-commerce market in India. Amazon and Flipkart are expanding operations to meet rising demand. Investments in infrastructure aim to enhance delivery efficiency.
+  🔗 https://www.livemint.com/companies/ecommerce-northeast-online-shopping-flipkart-amazon-consumption-growth-11760518302715.html
 
-- TR Capital’s Rohitt Mutthoo to exit, join Raj Dugar in new secondary fund
-  Mutthoo is the third senior exit from TR Capital’s India team in a year. The Asia-focused investor
-  🔗 https://www.livemint.com/companies/news/tr-capital-rohitt-mutthoo-ext-secondary-fund-raj-dugar-11760496891090.html
+- Swiggy introduces ‘No Added Sugar’ category in 10 cities after launching 'High Protein' section — check details
+  Swiggy has launched a 'No Added Sugar' category on its platform. Available in 10 cities, it offers over 1.5 lakh items from 50
+  🔗 https://www.livemint.com/companies/news/swiggy-introduces-no-added-sugar-category-in-10-cities-after-launching-high-protein-section-check-details-11760523199976.html
 
-- Nvidia CEO Jensen Huang hand-delivers new supercomputer to Sam Altman, just after he did the same for Elon Musk
-  The DGX Spark AI supercomputer was delivered to Elon
-  🔗 https://www.livemint.com/companies/people/nvidia-ceo-jensen-huang-hand-delivers-new-supercomputer-dgx-spark-sam-altman-just-after-he-did-the-same-for-elon-musk-11760501673034.html
+- Air India adds over 170 more weekly flights between major Indian cities, short-haul international routes
+  Air India has also added a fourth daily flight between Delhi and
+  🔗 https://www.livemint.com/companies/news/air-india-adds-over-170-weekly-flights-between-major-indian-cities-short-haul-international-routes-northern-winter-2025-11760524292805.html
 
-- Dhaval Ajmera, the Lazy Ironman, on building skyscrapers and stamina
-  Dhaval Ajmera is a real estate leader and triathlete from Mumbai. He is advocating for a redefined approach to affordable housing in India.
-  🔗 https://www.livemint.com/companies/people/dhaval-ajmera-the-lazy-ironman-on-building-skyscrapers-and-stamina-11760500968861.html
+- Apple lobbies India to change tax law seen hindering its expansion
+  The push coincides with Apple's growing India
+  🔗 https://www.livemint.com/companies/news/apple-lobbies-india-to-change-tax-law-seen-hindering-its-expansion-11760524547451.html
 
-- Layoff news: Amazon to slash 15% HR roles, others in new round of job cuts, says report
-  Amazon is reportedly set to slash as much as 15 per cent roles in its human resources department, besides some other roles
-  🔗 https://www.livemint.com/companies/news/layoff-news-amazon-to-slash-15-hr-roles-others-in-new-round-of-job-cuts-says-report-11760498558941.html
+- Apple's shipments in China rise on iPhone 17 boost; sluggish demand hurts Huawei, Xiaomi and Vivo — details here
+  The iPhone 17's upgrades attracted value-seeking customers, boosting Apple's market share to 15.8%. Apple
+  🔗 https://www.livemint.com/companies/news/apples-shipments-in-china-rise-on-iphone-17-boost-sluggish-demand-hurts-huawei-xiaomi-and-vivo-details-here-11760517406369.html
 
-- Trent Q2 results date: Tata Group company to announce its Q2 earnings on this date in November; check details
-  Tata Group retail company, Trent, will announce its July-September quarter (Q
-  🔗 https://www.livemint.com/market/stock-market-news/tata-group-company-trent-q2-results-2025-date-in-november-check-details-11760508682591.html
+- Midwest IPO booked 1.84 times on first day; GMP signals 16% listing pop. Check details
+   Midwest IPO has a price band of  ₹1,014-1,065 per share. Book-built offer is
+  🔗 https://www.livemint.com/market/ipo/midwest-ipo-booked-1-84-times-on-first-day-gmp-signals-16-listing-pop-check-details-11760529745348.html
 
-- Tata Motors demerger: All eyes on CV arm's debut — What could be the listing price for TMCVL shares?
-   shareholders who owned Tata Motors shares on the record date are entitled to receive one share of the newly-demerged Tata Motors Commercial Vehicle (TMCVL) for every share held
-  🔗 https://www.livemint.com/market/stock-market-news/tata-motors-demerger-all-eyes-on-cv-arms-debut-what-could-be-the-listing-price-for-tmcvl-shares-11760508193443.html
+- Eternal Q2 results preview: Strong revenue growth likely, but profitability may remain weak; here's what experts expect
+  Eternal will release its Q2 earnings on October 16. Experts anticipate impressive revenue growth driven by its food delivery and quick-commerce sectors. Concerns linger
+  🔗 https://www.livemint.com/market/stock-market-news/eternal-q2-results-preview-strong-revenue-growth-likely-but-profitability-may-remain-weak-heres-what-experts-expect-11760526515667.html
 
-- Canara Robeco IPO listing date on Thursday: What GMP signals for the share debut
-  Strong demand reflected in a nearly 10x subscription, investors eagerly await the debut on October 16. Canara Robeco signals a modest premium for its shares
-  🔗 https://www.livemint.com/market/ipo/canara-robeco-ipo-listing-date-on-thursday-what-gmp-signals-for-the-share-debut-11760502129722.html
+- HDB Financial Services Q2 results: Net profit slips nearly 2% YoY to  ₹581 crore; dividend declared
+  HDB Financial Services Q2 results: The company's profit slipped 1.6 per cent YoY. The NBFC
+  🔗 https://www.livemint.com/market/stock-market-news/hdb-financial-services-q2-results-2025-net-profit-slips-nearly-2-yoy-to-581-crore-dividend-declared-11760528300298.html
 
-- Rupee perks up as strong central bank intervention whacks bearish wagers
-  Rupee perks up as strong
-  🔗 https://www.livemint.com/market/stock-market-news/rupee-perks-up-as-strong-central-bank-intervention-whacks-bearish-wagers-11760507670636.html
+- Vijay Kedia portfolio: Ace investor raises stake in Global Vectra, makes fresh entry in this small-cap stock in Q2
+  Vijay Kedia acquired 2,59,782 shares of the company via his investment firm Kedia Securities.
+  🔗 https://www.livemint.com/market/stock-market-news/vijay-kedia-portfolio-ace-investor-raises-stake-in-global-vectra-makes-fresh-entry-in-this-small-cap-stock-in-q2-11760527175370.html
 
-- Thyrocare Tech share price pops 17% to a new record high as net profit jumps 82% YoY in Q2
-  Thyrocare Technologies experienced a 16% stock surge to  ₹1,474 following positive Q2 results and a bonus issue announcement.
-  🔗 https://www.livemint.com/market/stock-market-news/thyrocare-tech-share-price-pops-17-to-a-new-record-high-as-net-profit-jumps-82-yoy-in-q2-11760505878412.html
+- Bank of America Q3 Results: Net profit rises to $8.5 billion, shares up 5% on pre-market Wall Street — Details here
+  US-based Bank of America's net profits rose to $8.5 billion due to the rise in net interest income and the earnings from its investment banking business. Shares of the company were trading more
+  🔗 https://www.livemint.com/market/stock-market-news/bank-of-america-q3-results-net-profit-rises-to-8-5-billion-shares-up-4-8-on-pre-market-wall-street-details-here-11760526724711.html
 
-- I used the OnePlus Pad 3 as my laptop for 90 days and there is no going back
-  The OnePlus Pad 3 excels as a laptop substitute with its large display, excellent battery life, and fluid software experience. While it faces some Android-related challenges, it
-  🔗 https://www.livemint.com/technology/tech-reviews/i-used-the-oneplus-pad-3-as-my-laptop-for-90-days-and-there-is-no-switching-back-11760376884935.html
+- Best-selling tablets from top brands: Up to 60% off, 12 months No Cost EMI and much more
+  Best-selling tablets from top brands up to 60% off. Enjoy 12 months No Cost E
+  🔗 https://www.livemint.com/technology/gadgets/bestselling-tablets-from-top-brands-up-to-60-off-12-months-no-cost-emi-and-much-more-11760524364512.html
 
-- AMD strengthens AI push: Oracle to deploy 50,000 MI450 AI chips in data centers starting 2026
-  The announcement is the latest in a frenzy of commitments by big tech and AI companies
-  🔗 https://www.livemint.com/technology/tech-news/amd-strengthens-ai-push-oracle-to-deploy-50-000-mi450-ai-chips-in-data-centers-starting-2026-11760465804074.html
+- Pixel 10 Pro Fold becomes first smartphone to catch fire in durability test, triggers fire alarm
+  YouTuber Zack Nelson tested the Google Pixel 10 Pro Fold. It exploded during a bend test. Nelson criticized Google for claiming its durability.
+  🔗 https://www.livemint.com/technology/gadgets/pixel-10-pro-fold-becomes-first-smartphone-to-catch-fire-in-durability-test-triggers-fire-alarm-11760525789935.html
 
-- Gemini Nano Banana trend: Turn your selfie into a stunning AI-powered Diwali couple portrait – 7 Prompts to try
-  This Diwali, couples are creating AI-powered portraits using Gemini Nano Banana. The trend is going viral on social media, offering personalised and photorealistic digital art.
-  🔗 https://www.livemint.com/technology/tech-news/gemini-nano-banana-trend-turn-your-selfie-into-a-stunning-ai-powered-diwali-couple-portrait-7-prompts-to-try-11760451402114.html
+- Jio down? Hundreds of users complain about network connectivity issues
+  Reliance Jio is reportedly experiencing network issues. 371 complaints logged on Downdetector. Majority of users reported problems with mobile
+  🔗 https://www.livemint.com/technology/tech-news/jio-down-hundreds-of-users-complain-about-network-connectivity-issues-11760519602759.html
 
-- Ubisoft’s Assassin’s Creed Shadows reportedly coming to Nintendo Switch 2 as game-key card
-  Assassin’s Creed Shadows may come to Nintendo Switch 2. Sold as a Game-Key Card, it requires online download. Originally released on 20 March 2025 for PC, PS5
-  🔗 https://www.livemint.com/technology/tech-news/ubisofts-assassin-s-creed-shadows-reportedly-coming-to-nintendo-switch-2-as-game-key-card-11760448544760.html
+- JioHotstar outage hits users across India. Netizens report ‘network error’ and missing search icon
+  JioHotstar is experiencing outages, as reported by users on social media. Many have noted the disappearance of the search icon and
+  🔗 https://www.livemint.com/technology/tech-news/jiohotstar-outage-hits-users-across-india-netizens-report-network-error-and-missing-search-icon-11760518846801.html
 
-- Amazon Great Indian Festival: Enjoy premium sound with the best headphones with multiple deals on top brands
-  The Amazon sale offers exciting options for music lovers, gamers, and professionals. Discover the best headphones at the Amazon Great Indian
-  🔗 https://www.livemint.com/technology/gadgets/amazon-great-indian-festival-enjoy-premium-sound-with-the-best-headphones-with-multiple-deals-on-top-brands-11760441681228.html
+- DailyObjects launches modular ecosystem for iPhone accessories called Stack
+  The launch of Stack comes as Daily
+  🔗 https://www.livemint.com/technology/dailyobjects-launches-modular-ecosystem-for-iphone-accessories-called-stack-11760514236321.html
 
 - Stock Market News, Oct. 14, 2025: Dow Rises With U.S.-China Tension in Focus - The Wall Street Journal
-  The Wall Street Journal reports that the Dow is rising with U.S.-China trade tensions in focus. Bloomberg.com reports that Wall Street is rattled by US-China trade worries.
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOX3N2MEVweEZHZ2pkTF9UcWJadEpqQmE3QlNFVENmUjBtTUxoOHphS0pidk9TREZrcXdlSGY5LTg2a1JjSEZlQjlTQUNjcHJYc1V2NHA1TlVNZVBlX0c5anJUZFlJN3o4c2
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOX3N2MEVweEZHZ2pkTF9UcWJadEpqQmE3QlNFVENmUjBtTUxoOHphS0pidk9TREZrcXdlSGY5LTg2a1JjSEZlQjlTQUNjcHJYc1V2NHA1TlVNZVBlX0c5anJUZFlJN3o4c2dtUEZhc1JiSTg4bUZ3NDJ6QmFWV0d1RkVUdm1nNDA?oc=5
 
 - Global markets tumble as Beijing imposes new ban on U.S. shipping. Bessent vows China ‘will be hurt the most’ if it doesn’t surrender - Fortune
   The Chinese government has imposed a new ban on U.S. shipping to China. The move is seen
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTQ1TTRXWVZFaHZvTVI4Rl85X1ViVURBWWY0NjhrUVAtem55b1I2bmpXWVJpZ3FhU2xtN191UmZGRWRYclBjZnRlTV9CeGVwSEktWHVVUEp1ZkNhUG9obE9PTndyZGRsSDRrRWxlbHhrSTZObUFlYkMxanJmZlFUQ29MU2w2Nl90QU9JenQ1Z3RDY1hxVGkxVDByc2FSMG9pMmtQTGhHRQ?oc=5
 
-- Business Today: Trade War Fears Roil Markets; US Calls India An 'Ally' Against China's Economy - India Today - India Today
-  India Today: Trade War Fears Roil Markets; US Calls India An 'All
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU1Fyc3hSUlFHbURXUEI5R05ud3FlV2lfNzF2ZVI5bzJTeEVIcTA3MXJ2eDRJNmNlU2Q4bU5PanZKcG42WWZpdExxUEFzNTdGWmVyeXV1WklqREtNVkprS3cyNk5ZREZkZXBXTzhlMElBZzUtN01iZE0xeHBsRU1UUXljV19CSXNTdWdvd0VYdldaY0xScTQzZmdBMWJjMndDWHlyV1lFUW5aTEVRR1k5dm13WUdOQVNYMHZzUHNtWF9Eak50dTBkaDFYeHpRU0tyOXZucThn0gHbAUFVX3lxTE1VVnVsUzRNTTZfWS0wdWltSWhhcGZabWs4SHpIYVZ4OVdxVzN3T29rcWtJY2NPOEtxR0luLU9tTDNaSkNGN3JXY2EzbVVDcW5MaURCcDVvdmFLWk02aXJCdkVwb3RpeUwzak1YSXlCcDhXLWpxbEJsdjB2QlJwM0JZOVA5N09lVG5mME5sYW5aSC1JNGNfWTNvX0RGSERCNzd2Y0JnWTc1QjdxRVFTWU9jVXZ0d2dwdTZ6WkhRcmhvQk5BUlpyRFRQV2ZnTmtEOTdhT0dSenF5amM3aw?oc=5
+- Rupee recovers 75 paise from all-time low to close at 88.06 against U.S. dollar - The Hindu
+  Rupee recovers 75 paise from all-time low to close
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTGRicDF1YUhwNUZTZUdkdHpMcDZhcXg2cU9aVkMwblhIVHR3V2ZSNGNMVEs4eHk4c0ZFNnJ3dnFsbWZvS01MVVpKbU44ZTNhNUJRek1oTGJ2QnowaTYzNFl6TTRWRXNLdTBtendaS0M4djVuRktRM0VRNlZTUG5URzQybVk2cUdLb2YzZ2FEYjFhcklSMEF3OXZMMUJjZjVDbXBDSUdiNWxsVElBWXhCMWRnRHo3QXhMNzlZV28xT2EtcHRNNlBHZDNJSmZxVDVNenlBT9IB2wFBVV95cUxOa1RqbzNuRGRYdWh5LXhkbXhBRVBMbFM4OXZ1YVFtNG84TWZrbTBoalVCdDV6TjhabzlmVmFqZFFaTjlkVnRFVGoteUo1dUlSTUdFX1EzZzNnbDBqWklMMzdtRHM5ZDdlVUVORDY1NFc1YTBWNlFBWi1LWE9xSjNXQmoySU9fTmVXVmpLLTJveXMtYnNzcWw1b1VPaE5lMTlZaHc5VERtZHV6SDJQaV9NWXQxYWtDMEtXczBaVUxjTG4wRXZmSUREZ1d3a2trOENudlZVdU5CUjhCeTg?oc=5
 
-- Global Markets Today: Nikkei 225, Kospi trade higher on renewed US -China trade feud - Mint
-  Global Markets Today: Nikkei 225, Kospi
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV2xkbm5qVFZnTWxDVW16RkRtdDNkT1hVVzZ0VktoQVFaX3VValNjOTZqanh3OTJwcXAzcTg3OG5pWWFfNlZKR3VOYnl4bGVyLU44STUwbTRjNHUtcTYyeURNaE05MEJ4RV9wTmlYMUdBZDZHZXNja3hDSjNTTmJkSUJMRDdSdXFpZnFJdVhINUpLYWIxTlV4ckQydE80b2hBUUo2TkdHRnhmVEdOazZueTJrYlU0OTBOMndJc2Z2RnY1OFJuZEhZVm0tWE90VkpBRnBnMjFBM1pkaWdKRlhORjloU1p2d9IB6wFBVV95cUxQcDIzMnR4OFZmV0ZEUjI2c0NzX2kzWHFkZ1RBTHF4anV1cnU1NEJYdGdkSjc1Um5FQzRLZW5zUEpmWWNzSnZseHpnLUhaZzhFcm9YWml3T0J4SUVnNVNUZGJuN2FhejlhQ0xnMXd2a0RuNE1jb3NQdHQ1dm5kaUJiVTBuZ0R3RFZPdnNuWkk4cE5WSmd4WUtjeS16bWQ5V2Y3VDBfTHJVZkdoWmh0NDA1TW9lb3RnSmhrczFGbHV4b0tnYWpPVzgzaUI1OXNhdlFWbVhsSHZ2MU5uZHJBbzczcTVCam9aeUhHb3JN?oc=5
+- Market Highlights: Sensex settles 575 pts higher, Nifty above 25,300; Bajaj twins jump up to 4% - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUWc5S0pYcV9LYktSN3hDbDdjcHRRU2ZNaEZRaFVTTXBJSFo3Ty1nQXlJNHN3bG9sV00ydkZOZFRhcnpDUmphR21Gd1ZHaEZhemZYajRIS1RxMFFKYXd6S1ZnX1RuNVU3WD
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUWc5S0pYcV9LYktSN3hDbDdjcHRRU2ZNaEZRaFVTTXBJSFo3Ty1nQXlJNHN3bG9sV00ydkZOZFRhcnpDUmphR21Gd1ZHaEZhemZYajRIS1RxMFFKYXd6S1ZnX1RuNVU3WDVmN05RTUNVWXZ2SjVjUThNZTYwbDcwZU5BRWVIWWxsN1RQc0pyck9iMHJaNkhfVzZEbU81ZE9FMy1hU2kxSjJFTjhsTi1FS2k0MEJqU0hKNEdJbTRpblF4WnRCR2pqcHRnYU9FSlprRzBMSWtYWdIB3AFBVV95cUxOcW5LbDNteTNOSzNkUGlLQW5QbFoxRHNKV2F6TlNSWUhxZGpKYURNWW9XZk53NXJiUlhCV2JJNkRhTW1vaThKMDhPMHkxY3NoVUxRdEhxcFJ6anU1SVFyNmlHUnVuQWZkLXFxZTNKWmUteERPR1dGRzluazBYZ19QTWFvbzN5elZNMmVwb25haE5wTWs4UGZnaG5PUW0zWVRvcTM3SS1PeWhwTEI4RmU2NEwwVEtueUpLV3MzM3F2M1FjMklZMm9FWVk4TDdIOTd3UVZuS1haZFR6UUIt?oc=5
 
-- Trump’s trade war unites Modi and Lula in a hunt for new markets - The Economic Times
-  The Economic Times reports that Modi and Lula are looking for
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTURWM1h6cXVReFVuRXFiZmlqbEtrdENYbFlxN0t5TEswRFpJZzZLQkItZUJwOGVGR2c5dktLT0d4bm16SHJuREg4WEJ3cDB5TW0tYldheVZYNDhLY2NPY1BOZUR1V0wtY1FSWlpfb3J0SWpXZXZETkhIcHBVNlQxTWVPdk1rM01ZUnhpSEhtZU5lNmo3MzRkSUFHdm9VbmM3bXp6OFg1SS1jNmRNODkxWThHVHdwMGFhWXJ4UmpTaU5lSVg1V2p5VXdCUGYxVGJYaW5LaE1jUDJhS3VJVFo1d1ZDZUVrYUZTVjlTdlpB0gHzAUFVX3lxTE9aZEpYU0UzYmFkNUctN0VHRVM1Xy1CWVNNU0lhano4bXlpT083bS1sbjdKc2tFLU5BekhrWTFLeklJSXpmWEFXRXZZd3diMjYxYnZWVm1CWnpWVTdZUHZRcTg4N2JpaHF3S1U3ejhBcmtIQjRhUWRKQTJqbHlHd0s1THdObHROampTZjhPOHozb0djTEZpVGpoTmIwb29YUDZEM2NPWGtWN1V4Wk1LRW9iY2pBRFJvMFM0dHBJU0ZvSllfNW1hUzlEaFN0cGU3cjBtdHgtb3RhMXpEaVlMRm5WQTByX3VkeFRTc2FidjBJMFI4TQ?oc=5
+- Asian stocks today: Markets open on the higher end; Fed cut hopes outweigh trade war fears - Times of India
+  Asian stocks open on the higher end; Fed cut hopes outweigh trade war fears.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxPWE11ajVmUU9zci1waDFjZzUxRUVvSXBDVl92YVg1ZElmYjlBejdJS3dzTEZzMWlYRWExWVE4aktPZDVobk5WZnh3TlprOUp3RGVXZkZGcElsMW1RQXlfeEFyandrandKb294MDZDZXhqWHRMNnloWkZGdFowWFJ5SU1JcHU5OWhmSXgyZWVLeGVPbmxkTUhOLUUtaFo4WDBGbTdsbm90X0VuaU1VOEpXWGk4Njh4RW9OVW16MTNTMFFCdnR0MDY0Vk91Z1RydUV2T3lFa0hpU21wM1lldHVDWHZYTEEwbld0RHVDQWJxbzZNbzFYMkJmRVllNHFCLTZQdWstNkkzLXl5cnVKTFBV0gGUAkFVX3lxTE5qck93Rk10djhsaGk3LTAwT3ZDRzRySTAtSWpXcG9LUmRvR2ViRmFIaGE1TE1VdnMyX3F0ZXA3YzVXaFJvcGNnbmZuQ0RYWnpmVVZqZVdDY3puZ2E1UFJyUTZDdmJKOEthcjdHWVpTQk83MmI4dlVYd0NnMHNxRTFhTnJGTUxvbG9SNGRJQzVCdnpqQWVDYlUzX3RaYWRpSmo1Sm9leGM3RGQ4aVZXdk13TWpMOWFBREJfZkNoeUNISmNRNXg3bFVXd2NrV0dMNGhvQk9ZZHFRQTZYcnpfcXJ0QmlxZUVYMFdpVmlfMlJ0UHlpVGQ0VXk5eEp3Y3dtbmtFUndJZXZUU2Rpd29GZkxSR19Udg?oc=5
 
-- Waaree Renewable shares crack over 10% in 2 days on profit booking despite robust Q2 earnings
-  Waaree Renewable Technologies saw its shares dip significantly despite reporting record quarterly revenue and profits. Expansion into battery storage and data centers are key drivers for the company's robust performance.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/waaree-renewable-shares-crack-over-10-in-2-days-on-profit-booking-despite-robust-q2-earnings/articleshow/124569398.cms
+- Axis Bank Q2: Profit tanks 26% YoY to ₹5,090 cr | NII up 2%, provisions surge 61%
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-q2-profit-tanks-26-yoy-to-5090-cr-nii-up-2-provisions-surge-61/videoshow/124578606.cms
 
-- Urban Company, 2 other September-listed stocks set for share lock-in expiry this week. Check details
-  Shringar House of Mangalsutra, Dev Accelerator, and Urban Company will see lock-in expiries this week
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/urban-company-2-other-september-listed-stocks-set-for-share-lock-in-expiry-this-week-check-details/articleshow/124569301.cms
+- Cool Caps looks to raise over Rs 279 cr via rights issue, eyes migration to mainboard
+  Cool Caps Industries looks to raise around Rs 279.97 crore through its rights issue. Rights issue closes
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cool-caps-looks-to-raise-over-rs-279-cr-via-rights-issue-eyes-migration-to-mainboard/articleshow/124578604.cms
 
-- Thyrocare Technologies shares soar 16% to fresh 52-week high after Q2 PAT grows 82% YoY
-  Thyrocare Technologies shares touched a fresh 52-week high on Wednesday after a stellar 82% YoY growth in Q2FY26 PAT. The company's Revenue rose 22% to
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/thyrocare-technologies-shares-soar-16-to-fresh-52-week-high-after-q2-pat-grows-82-yoy/articleshow/124569287.cms
+- Swiggy, Eternal to see margins improve in Q2FY26: Analysts
+  Indian online delivery firms Eternal and Swiggy could see profit margins improve slightly in the second quarter.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/swiggy-eternal-to-see-margins-improve-in-q2fy26-analysts/articleshow/124578488.cms
 
-- R. Gandhi says IMF’s growth upgrade a ‘balancing act’ amid tariff uncertainty
-  The IMF raised its global growth outlook to 3.2%, but former RBI Deputy Governor R. Gandhi described it as a "balancing act" Gandhi emphasized India's domestic-driven resilience and the challenges for manufacturing growth.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/r-gandhi-says-imfs-growth-upgrade-a-balancing-act-amid-tariff-uncertainty/articleshow/124569177.cms
+- HDB Financial Services Q2 Results: Profit drops 2% YoY to Rs 581 crore, NII jumps 20%
+  HDB Financial reported a marginal 2% drop in net profit to Rs 581 crore for the July-September quarter. Net interest income rose 20% YoY to Rs 2,192 crore, supported by higher yields and efficient funding.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hdb-financial-services-q2-results-profit-drops-2-yoy-to-rs-581-crore/articleshow/124577246.cms
 
-- Bitcoin edges up to $112K following intraday fall below $110K, signalling cautious investor mood
-  Bitcoin edges up to $112,493 after a brief fall below $110K, reflecting cautious investor sentiment. Market volatility persists amid US-China trade tensions.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-edges-up-to-112k-following-intraday-fall-below-110k-signalling-cautious-investor-mood/articleshow/124569227.cms
+- 20+ MFs added these 12 stocks in September '25; one turned multibagger. Do you own any?
+  Top picks like Force Motors, L&amp;T Finance, and Maruti Suzuki delivered double-digit gains. Mutual funds added 19 stocks to over 20 portfolios in September
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/20-mfs-added-these-12-stocks-in-september-25-one-turned-multibagger-do-you-own-any/slideshow/124577672.cms
 
-- "Hang My Head In Shame": Javed Akhtar On "Reception" Given To Taliban Minister In India - NDTV
-  "Hang My Head In Shame": Javed Akhtar On
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUjdFT1FwVkV3TUNfbDUxUWVrSUIxTG5Ob2h5T3YwRHN3cEJvQ1ZVVFB4Q3EwV25xcGhjUFZRcGVEelFKQUZpVUhjdVg0Qm5qWjMweUZTbDRTRF9yZ3FZZXRLUW93X0ZnZENxcVRWUlZXSnpFd1UzQUdWWk5oRmdDeXJQdWplN3ZsNnF6VVhfRTJBcUZZRmQxNE1saFh3dFVla0RkbGdEOUZtd2FpaEhBeTU2VlhhSVkyeTR5cmF2YmNaSTFBLS1uMGdiUnNramZpNENwbHNtZDJnSUxLZkphOU12SWp1WDZIdkUw?oc=5
+- Who Is Ashley Tellis, Indian-American Expert Charged Over Top Secret Files - NDTV
+  Ashley Tellis is an Indian-American
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNbThmT2xJWlRTQmdNaUc5NmhPdkI0RTdiSzQySXBTV2xqdi1jdFgybnRQN0tUQTFBNy01S0RrcGZRMUdRQW9CUlhFZEstNnpHNGtDeDB2RTRaYncyc0thYjNaLWo4WVMyZ3BUMTk0aDRHcy1PSXIyU3JOVDdYT3pzZUJBNW11WTlTRS1LajRWX2tfVGlfc2l0MzMyY0Z2NGNRMGtz?oc=5
 
-- Amid tariffs, Trump says 'BRICS was attack on US dollar'; India among bloc members | World News - Hindustan Times
-  'BRICS was attack on US dollar'; India among bloc members | World News
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRkhaaGlVZFpndkVGS25KOXZpODN4eHB0WXlZMGgzcDZqUWdHWWVrOEQwMFNReHpwbnN3ZTJHWnNPQk9LN1NEeE82TmRQMlFnN2dMR0xlYjFDcVFmc0JYdlo3RWhNeVpzV1F1NmpJVU9jZWRTQmxMdEd2SFhZMFlxYVNCX1hoLTBjRTJtLUFtWmh5MlFfS3pWY1FZenJlZHQzVnQ3dGpFclVfRTFfTlVuODI2WEVaWFlKalJ5dW1iSFpMRmFOU2xmQXlfWHhkUUs3eVMzVVE5M0zSAd4BQVVfeXFMTkF5ckVKdHR0c1VmcWRkUWZ3V3N3REdOUU5Hd0xWN2xsVlFOT0l6WlZhTHNSb2FZVl84RFM3SlAxeWVWSXZtNVhRd2pTcWJzS2RSS2dST0k2WFFxemhpSXdhYUx1YVJnWjFRcVlwOXpyTWl3TDlLNVZ3QmFsOGFjM2RodThCcDE5NHRDRXYxRTFvOTZPUVVKU2NFWkdsWGxaXzZUaVo3OUNNb0J6WV9fUUVhQVVfNmsta3gzQ05WSVFYRTNkQUFsV01QTmtZYnNDN1dpZ1dBWWpLY2tHeURB?oc=5
+- Ashley Tellis: India-origin strategist charged with keeping secret US defence files - BBC
+  Ashley Tellis is accused of keeping secret
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JQWtPelNwWWRnX1pJUHI0OU5rTGdiM2hRclJYN2lJUlpHQll6bWU0cWhRaEo3SlhVQUdJeWE2RFRlMXRBU245b3JhY1I0b2ZaV0Jjb0ppM0gxQdIBX0FVX3lxTFA5N2lIdHNyUFd5WjFlVmJ5anNEdjh1YjdneGJrSzY5RlE2ems2RG11MjJzMUgtQ2JWamVsUjZELVBNYjZuci1teWNRN0VNSDBuV1hjYWJrbDFzX1g5NGFF?oc=5
 
-- Trump's High Praise For Asim Munir, Then An 'India' Question For Pak PM - NDTV
-  Trump's High Praise For Asim Munir,
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPTndIXzJfR3gzOXVHc0k2LUgtd2h2a0pXUmZXSUlyaWJSRVVzQnlNd21HZjRrT21zZ0JIdGNGMndmaXAwNmlTM0FZdHpkaEFPU0lpZG1nU0dKMXdydEs4eVM2emVJT0FTYjl4UUpNRHZZUFNFc1BIZGpDN1Q3Z2VNTjVOZlBqVGpzR2RwSHNjQV9UWGpYUmk1ZWhYVl83VHBEVlZocDJkX2pnM3NtelBMUWY0emUwWGU3NTljdUpValdzdFZKYUdBd2NsX1htSm8?oc=5
-
-- 'Threatened 200% Tariffs': Trump Doubles Down On India-Pak Truce Claim - NDTV
-  'Threatened 200% Tariffs
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOXzlRdDNadlZYYzRyMlpKWFcxazlDU0lpbUtBVkdRUk53cTdnMF9zc0U0Q1Bta1JCWlBvVkhKbDhlTVBMUnpYdTlnVVlTWktGR2dtRE1qempzRlczYi1McWxVblM1MFZqYmV0VTRoc2ZfWWs0b3RVaHdqcjNxOHlscjQ1Y3VvWVh2MlFhbXlvbmp5elZtdGxrMVl4UUtidWpKUHNVYnNNVkQ5blB1RldWdlRuQkU4eUVSM21tbGdzU1NnejFY?oc=5
-
-- Tata Motors stalls in India’s e-bus race amid rare earth crunch, tender woes | Mint - Mint
-  Tata Motors stalls in India’s e-bus race
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNVC1nMUJZeTZCaUw3VGQwNzhRWmlWeWNXYkFOZHpqQURySlBxUVhsWExDaG5NNlJmcmRrdnR3WTlVdllxNTZYQ0EyN0xOYWdfUjA5cVZDdGxNX3NwcEtRTUk4eDB1MFZCcVh3ZDJudzlpMTBwYkFRUlRkRXdXb2RuUER1ZGg4V0M1NU5ES3lnNWZ4UUs4Z2ZNbmtfTm1SX3F4a3RJQXlmT0JYZnVZcmVDOXhQTEZjMnNhM016Q3BfeDUyWl9MRG5VTWZ30gHPAUFVX3lxTE5wSFdTQ051WkdLa1pCSG9GQVRSbXUwbXM4Z0VuUmlvbi1ULXMxdlB2NnpXalN5bzVQbUhyY01CZHJTOWdQMzJHS3NqTXdQWmVJb0k4UWxPd3NSNnltOG1vNFJMeDhFbU5RMjdCY2EzVV9DTVBwcGYyVllzU05RYmNvWkdQVkdPamhMbnc0ckYzekJ5bmRNamEyMHZqZnJUT2kydU4tU0tPcWY2T1E5TXh3TnJ2aDlXWDJidS0wa3I2eTM2QXBVTG9MYXl4WU91OA?oc=5
+- Who is Ashley Tellis? India-born US advisor accused of taking classified docs, meeting the Chinese | World News - Hindustan Times
+  India-born US advisor accused of taking classified docs, meeting the Chinese.
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPYnVEZlRxaVUwcjRDMjFJQ3F3bnFudjZuQ0hxb0F5NkNuVm0yUmZXVlpEMkptMkZGUlU3dHRPaGNrR08xQlVRX2s1UlA0Tlo5YnZjY0lWaGN1Skg5bFZ2SGpmUERILU5GWGVEUV8zeXQ2NVlWb2k1UUEzNzhpbXlkLTMwczd1NDEyQ0hONzRiZzJrTWJicWJPZFFIZEsxRDZzTFlGZ195anA1X2xFbTg4ZmxXSUhiLXF1cG1xbjRFWFVhdFBjX2ljYXlnZ0pCUkRRNklMWXUwZ0JLUzNXSy15SmZVbXR3RG9wcFBFeXVRWnBvcGl2cXFBWHJKRnJPNWZnTEhEcFZn0gGLAkFVX3lxTE5YTHI0WjQtZXB2eFN5dWpJbXB5M2cyQmU4Zk53WkhRQWVRU005RHdySHVpQ0hETVhKd2hPR3pqLWZGbkFNLW84eXlJejJrMlBrTGFkZUlETk40bWk3ZHVCM2ptTTljZ2JHMnFzOHpra2R2d2k1SXRqYW1mVzJrWHVUc1VDNlN4X1RRNXpNX3pDMnhZVjFGTE14bGliM3FndzVqVk9nVkE1eS1aZ2U4WUl4Ty1wU3FTUnRyYzJrT3NuUFVOelp3Q1MyUndvRjZEMVJmeHlJSnNZejUtaWd0Vmp6cF8wdnpYQ01wM1JzeW1aMlhIajVQanlBdlNObGNlTVZLaURHRDc5WW9TTQ?oc=5
 
 - "Hang My Head In Shame": Javed Akhtar On "Reception" Given To Taliban Minister In India - NDTV
   "Hang My Head In Shame": Javed Akhtar On
   🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUjdFT1FwVkV3TUNfbDUxUWVrSUIxTG5Ob2h5T3YwRHN3cEJvQ1ZVVFB4Q3EwV25xcGhjUFZRcGVEelFKQUZpVUhjdVg0Qm5qWjMweUZTbDRTRF9yZ3FZZXRLUW93X0ZnZENxcVRWUlZXSnpFd1UzQUdWWk5oRmdDeXJQdWplN3ZsNnF6VVhfRTJBcUZZRmQxNE1saFh3dFVla0RkbGdEOUZtd2FpaEhBeTU2VlhhSVkyeTR5cmF2YmNaSTFBLS1uMGdiUnNramZpNENwbHNtZDJnSUxLZkphOU12SWp1WDZIdkUw?oc=5
 
-- Amid tariffs, Trump says 'BRICS was attack on US dollar'; India among bloc members | World News - Hindustan Times
-  'BRICS was attack on US dollar'; India among bloc members | World News
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRkhaaGlVZFpndkVGS25KOXZpODN4eHB0WXlZMGgzcDZqUWdHWWVrOEQwMFNReHpwbnN3ZTJHWnNPQk9LN1NEeE82TmRQMlFnN2dMR0xlYjFDcVFmc0JYdlo3RWhNeVpzV1F1NmpJVU9jZWRTQmxMdEd2SFhZMFlxYVNCX1hoLTBjRTJtLUFtWmh5MlFfS3pWY1FZenJlZHQzVnQ3dGpFclVfRTFfTlVuODI2WEVaWFlKalJ5dW1iSFpMRmFOU2xmQXlfWHhkUUs3eVMzVVE5M0zSAd4BQVVfeXFMTkF5ckVKdHR0c1VmcWRkUWZ3V3N3REdOUU5Hd0xWN2xsVlFOT0l6WlZhTHNSb2FZVl84RFM3SlAxeWVWSXZtNVhRd2pTcWJzS2RSS2dST0k2WFFxemhpSXdhYUx1YVJnWjFRcVlwOXpyTWl3TDlLNVZ3QmFsOGFjM2RodThCcDE5NHRDRXYxRTFvOTZPUVVKU2NFWkdsWGxaXzZUaVo3OUNNb0J6WV9fUUVhQVVfNmsta3gzQ05WSVFYRTNkQUFsV01QTmtZYnNDN1dpZ1dBWWpLY2tHeURB?oc=5
+- India at 85th rank, this is the country with the strongest passport. It's not US | World News - Hindustan Times
+  India at 85th rank, this is the country with the strongest passport.
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkw2dnJBd1N6NmU4QnVxRHBLdFFIRlJiSGZBLUl0RC0wU1JRSGpnaGIyM2FmZjNjR0Q2MWlNRTVWcHpmYmpHRFlOVmJnVEtBUWhSZzU0N0xjaHlPNDVLLUtkOG5GSVZCLXd6bi15U0w0ckJHNU1pV0c2WnlBaEF2Zlg3SlVwT1VJRDZUdENiM0pDazJvalU5TERlNHNzQkJqYW1HVW9zOGk2STMteEplTkNEb1BqTjNqLWJUVGFJcGFhaGR0WWkyekd4d0s5NEZvRFctcmt4UdIB3AFBVV95cUxNcC1kREdHRmpwdHBMMXJhZkJfUWMtdnVxbF9wWXlYWE9fZFZqU2Y1REZfbU5kaEs5ajY5LTlRSEp5YWVRaUl0Sk51VWpOMVQ3ZnBPazR6a25VSWhNRXhRYUpHVVQ5U0ZjZ1RiU3pCaktFV1hycldiM0hCTmRTUjJCNFhaanBXTjhwb3JWek9RNEZEUDN3VEtkMk82NDJSeC0wdFVPMUUteEppMG9OZ2pDSFVILVBNZ1NoWTNmZ3ZNaDNlMWNUb0lfU3V6Rmp6U1RPMjRaNUJBVExHa1V1?oc=5
 
-- Trump's High Praise For Asim Munir, Then An 'India' Question For Pak PM - NDTV
-  Trump's High Praise For Asim Munir,
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPTndIXzJfR3gzOXVHc0k2LUgtd2h2a0pXUmZXSUlyaWJSRVVzQnlNd21HZjRrT21zZ0JIdGNGMndmaXAwNmlTM0FZdHpkaEFPU0lpZG1nU0dKMXdydEs4eVM2emVJT0FTYjl4UUpNRHZZUFNFc1BIZGpDN1Q3Z2VNTjVOZlBqVGpzR2RwSHNjQV9UWGpYUmk1ZWhYVl83VHBEVlZocDJkX2pnM3NtelBMUWY0emUwWGU3NTljdUpValdzdFZKYUdBd2NsX1htSm8?oc=5
+- Who Is Ashley Tellis, Indian-American Expert Charged Over Top Secret Files - NDTV
+  Ashley Tellis is an Indian-American
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNbThmT2xJWlRTQmdNaUc5NmhPdkI0RTdiSzQySXBTV2xqdi1jdFgybnRQN0tUQTFBNy01S0RrcGZRMUdRQW9CUlhFZEstNnpHNGtDeDB2RTRaYncyc0thYjNaLWo4WVMyZ3BUMTk0aDRHcy1PSXIyU3JOVDdYT3pzZUJBNW11WTlTRS1LajRWX2tfVGlfc2l0MzMyY0Z2NGNRMGtz?oc=5
 
-- 'Threatened 200% Tariffs': Trump Doubles Down On India-Pak Truce Claim - NDTV
-  'Threatened 200% Tariffs
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOXzlRdDNadlZYYzRyMlpKWFcxazlDU0lpbUtBVkdRUk53cTdnMF9zc0U0Q1Bta1JCWlBvVkhKbDhlTVBMUnpYdTlnVVlTWktGR2dtRE1qempzRlczYi1McWxVblM1MFZqYmV0VTRoc2ZfWWs0b3RVaHdqcjNxOHlscjQ1Y3VvWVh2MlFhbXlvbmp5elZtdGxrMVl4UUtidWpKUHNVYnNNVkQ5blB1RldWdlRuQkU4eUVSM21tbGdzU1NnejFY?oc=5
+- Ashley Tellis: India-origin strategist charged with keeping secret US defence files - BBC
+  Ashley Tellis is accused of keeping secret
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JQWtPelNwWWRnX1pJUHI0OU5rTGdiM2hRclJYN2lJUlpHQll6bWU0cWhRaEo3SlhVQUdJeWE2RFRlMXRBU245b3JhY1I0b2ZaV0Jjb0ppM0gxQdIBX0FVX3lxTFA5N2lIdHNyUFd5WjFlVmJ5anNEdjh1YjdneGJrSzY5RlE2ems2RG11MjJzMUgtQ2JWamVsUjZELVBNYjZuci1teWNRN0VNSDBuV1hjYWJrbDFzX1g5NGFF?oc=5
 
-- Tata Motors stalls in India’s e-bus race amid rare earth crunch, tender woes | Mint - Mint
-  Tata Motors stalls in India’s e-bus race
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNVC1nMUJZeTZCaUw3VGQwNzhRWmlWeWNXYkFOZHpqQURySlBxUVhsWExDaG5NNlJmcmRrdnR3WTlVdllxNTZYQ0EyN0xOYWdfUjA5cVZDdGxNX3NwcEtRTUk4eDB1MFZCcVh3ZDJudzlpMTBwYkFRUlRkRXdXb2RuUER1ZGg4V0M1NU5ES3lnNWZ4UUs4Z2ZNbmtfTm1SX3F4a3RJQXlmT0JYZnVZcmVDOXhQTEZjMnNhM016Q3BfeDUyWl9MRG5VTWZ30gHPAUFVX3lxTE5wSFdTQ051WkdLa1pCSG9GQVRSbXUwbXM4Z0VuUmlvbi1ULXMxdlB2NnpXalN5bzVQbUhyY01CZHJTOWdQMzJHS3NqTXdQWmVJb0k4UWxPd3NSNnltOG1vNFJMeDhFbU5RMjdCY2EzVV9DTVBwcGYyVllzU05RYmNvWkdQVkdPamhMbnc0ckYzekJ5bmRNamEyMHZqZnJUT2kydU4tU0tPcWY2T1E5TXh3TnJ2aDlXWDJidS0wa3I2eTM2QXBVTG9MYXl4WU91OA?oc=5
+- Who is Ashley Tellis? India-born US advisor accused of taking classified docs, meeting the Chinese | World News - Hindustan Times
+  India-born US advisor accused of taking classified docs, meeting the Chinese.
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPYnVEZlRxaVUwcjRDMjFJQ3F3bnFudjZuQ0hxb0F5NkNuVm0yUmZXVlpEMkptMkZGUlU3dHRPaGNrR08xQlVRX2s1UlA0Tlo5YnZjY0lWaGN1Skg5bFZ2SGpmUERILU5GWGVEUV8zeXQ2NVlWb2k1UUEzNzhpbXlkLTMwczd1NDEyQ0hONzRiZzJrTWJicWJPZFFIZEsxRDZzTFlGZ195anA1X2xFbTg4ZmxXSUhiLXF1cG1xbjRFWFVhdFBjX2ljYXlnZ0pCUkRRNklMWXUwZ0JLUzNXSy15SmZVbXR3RG9wcFBFeXVRWnBvcGl2cXFBWHJKRnJPNWZnTEhEcFZn0gGLAkFVX3lxTE5YTHI0WjQtZXB2eFN5dWpJbXB5M2cyQmU4Zk53WkhRQWVRU005RHdySHVpQ0hETVhKd2hPR3pqLWZGbkFNLW84eXlJejJrMlBrTGFkZUlETk40bWk3ZHVCM2ptTTljZ2JHMnFzOHpra2R2d2k1SXRqYW1mVzJrWHVUc1VDNlN4X1RRNXpNX3pDMnhZVjFGTE14bGliM3FndzVqVk9nVkE1eS1aZ2U4WUl4Ty1wU3FTUnRyYzJrT3NuUFVOelp3Q1MyUndvRjZEMVJmeHlJSnNZejUtaWd0Vmp6cF8wdnpYQ01wM1JzeW1aMlhIajVQanlBdlNObGNlTVZLaURHRDc5WW9TTQ?oc=5
+
+- "Hang My Head In Shame": Javed Akhtar On "Reception" Given To Taliban Minister In India - NDTV
+  "Hang My Head In Shame": Javed Akhtar On
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUjdFT1FwVkV3TUNfbDUxUWVrSUIxTG5Ob2h5T3YwRHN3cEJvQ1ZVVFB4Q3EwV25xcGhjUFZRcGVEelFKQUZpVUhjdVg0Qm5qWjMweUZTbDRTRF9yZ3FZZXRLUW93X0ZnZENxcVRWUlZXSnpFd1UzQUdWWk5oRmdDeXJQdWplN3ZsNnF6VVhfRTJBcUZZRmQxNE1saFh3dFVla0RkbGdEOUZtd2FpaEhBeTU2VlhhSVkyeTR5cmF2YmNaSTFBLS1uMGdiUnNramZpNENwbHNtZDJnSUxLZkphOU12SWp1WDZIdkUw?oc=5
+
+- India at 85th rank, this is the country with the strongest passport. It's not US | World News - Hindustan Times
+  India at 85th rank, this is the country with the strongest passport.
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkw2dnJBd1N6NmU4QnVxRHBLdFFIRlJiSGZBLUl0RC0wU1JRSGpnaGIyM2FmZjNjR0Q2MWlNRTVWcHpmYmpHRFlOVmJnVEtBUWhSZzU0N0xjaHlPNDVLLUtkOG5GSVZCLXd6bi15U0w0ckJHNU1pV0c2WnlBaEF2Zlg3SlVwT1VJRDZUdENiM0pDazJvalU5TERlNHNzQkJqYW1HVW9zOGk2STMteEplTkNEb1BqTjNqLWJUVGFJcGFhaGR0WWkyekd4d0s5NEZvRFctcmt4UdIB3AFBVV95cUxNcC1kREdHRmpwdHBMMXJhZkJfUWMtdnVxbF9wWXlYWE9fZFZqU2Y1REZfbU5kaEs5ajY5LTlRSEp5YWVRaUl0Sk51VWpOMVQ3ZnBPazR6a25VSWhNRXhRYUpHVVQ5U0ZjZ1RiU3pCaktFV1hycldiM0hCTmRTUjJCNFhaanBXTjhwb3JWek9RNEZEUDN3VEtkMk82NDJSeC0wdFVPMUUteEppMG9OZ2pDSFVILVBNZ1NoWTNmZ3ZNaDNlMWNUb0lfU3V6Rmp6U1RPMjRaNUJBVExHa1V1?oc=5
+
+- Who Is Ashley Tellis, Indian-American Expert Charged Over Top Secret Files - NDTV
+  Ashley Tellis is an Indian-American
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNbThmT2xJWlRTQmdNaUc5NmhPdkI0RTdiSzQySXBTV2xqdi1jdFgybnRQN0tUQTFBNy01S0RrcGZRMUdRQW9CUlhFZEstNnpHNGtDeDB2RTRaYncyc0thYjNaLWo4WVMyZ3BUMTk0aDRHcy1PSXIyU3JOVDdYT3pzZUJBNW11WTlTRS1LajRWX2tfVGlfc2l0MzMyY0Z2NGNRMGtz?oc=5
+
+- Ashley Tellis: India-origin strategist charged with keeping secret US defence files - BBC
+  Ashley Tellis is accused of keeping secret
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JQWtPelNwWWRnX1pJUHI0OU5rTGdiM2hRclJYN2lJUlpHQll6bWU0cWhRaEo3SlhVQUdJeWE2RFRlMXRBU245b3JhY1I0b2ZaV0Jjb0ppM0gxQdIBX0FVX3lxTFA5N2lIdHNyUFd5WjFlVmJ5anNEdjh1YjdneGJrSzY5RlE2ems2RG11MjJzMUgtQ2JWamVsUjZELVBNYjZuci1teWNRN0VNSDBuV1hjYWJrbDFzX1g5NGFF?oc=5
+
+- Who is Ashley Tellis? India-born US advisor accused of taking classified docs, meeting the Chinese | World News - Hindustan Times
+  India-born US advisor accused of taking classified docs, meeting the Chinese.
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPYnVEZlRxaVUwcjRDMjFJQ3F3bnFudjZuQ0hxb0F5NkNuVm0yUmZXVlpEMkptMkZGUlU3dHRPaGNrR08xQlVRX2s1UlA0Tlo5YnZjY0lWaGN1Skg5bFZ2SGpmUERILU5GWGVEUV8zeXQ2NVlWb2k1UUEzNzhpbXlkLTMwczd1NDEyQ0hONzRiZzJrTWJicWJPZFFIZEsxRDZzTFlGZ195anA1X2xFbTg4ZmxXSUhiLXF1cG1xbjRFWFVhdFBjX2ljYXlnZ0pCUkRRNklMWXUwZ0JLUzNXSy15SmZVbXR3RG9wcFBFeXVRWnBvcGl2cXFBWHJKRnJPNWZnTEhEcFZn0gGLAkFVX3lxTE5YTHI0WjQtZXB2eFN5dWpJbXB5M2cyQmU4Zk53WkhRQWVRU005RHdySHVpQ0hETVhKd2hPR3pqLWZGbkFNLW84eXlJejJrMlBrTGFkZUlETk40bWk3ZHVCM2ptTTljZ2JHMnFzOHpra2R2d2k1SXRqYW1mVzJrWHVUc1VDNlN4X1RRNXpNX3pDMnhZVjFGTE14bGliM3FndzVqVk9nVkE1eS1aZ2U4WUl4Ty1wU3FTUnRyYzJrT3NuUFVOelp3Q1MyUndvRjZEMVJmeHlJSnNZejUtaWd0Vmp6cF8wdnpYQ01wM1JzeW1aMlhIajVQanlBdlNObGNlTVZLaURHRDc5WW9TTQ?oc=5
+
+- "Hang My Head In Shame": Javed Akhtar On "Reception" Given To Taliban Minister In India - NDTV
+  "Hang My Head In Shame": Javed Akhtar On
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUjdFT1FwVkV3TUNfbDUxUWVrSUIxTG5Ob2h5T3YwRHN3cEJvQ1ZVVFB4Q3EwV25xcGhjUFZRcGVEelFKQUZpVUhjdVg0Qm5qWjMweUZTbDRTRF9yZ3FZZXRLUW93X0ZnZENxcVRWUlZXSnpFd1UzQUdWWk5oRmdDeXJQdWplN3ZsNnF6VVhfRTJBcUZZRmQxNE1saFh3dFVla0RkbGdEOUZtd2FpaEhBeTU2VlhhSVkyeTR5cmF2YmNaSTFBLS1uMGdiUnNramZpNENwbHNtZDJnSUxLZkphOU12SWp1WDZIdkUw?oc=5
+
+- India at 85th rank, this is the country with the strongest passport. It's not US | World News - Hindustan Times
+  India at 85th rank, this is the country with the strongest passport.
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkw2dnJBd1N6NmU4QnVxRHBLdFFIRlJiSGZBLUl0RC0wU1JRSGpnaGIyM2FmZjNjR0Q2MWlNRTVWcHpmYmpHRFlOVmJnVEtBUWhSZzU0N0xjaHlPNDVLLUtkOG5GSVZCLXd6bi15U0w0ckJHNU1pV0c2WnlBaEF2Zlg3SlVwT1VJRDZUdENiM0pDazJvalU5TERlNHNzQkJqYW1HVW9zOGk2STMteEplTkNEb1BqTjNqLWJUVGFJcGFhaGR0WWkyekd4d0s5NEZvRFctcmt4UdIB3AFBVV95cUxNcC1kREdHRmpwdHBMMXJhZkJfUWMtdnVxbF9wWXlYWE9fZFZqU2Y1REZfbU5kaEs5ajY5LTlRSEp5YWVRaUl0Sk51VWpOMVQ3ZnBPazR6a25VSWhNRXhRYUpHVVQ5U0ZjZ1RiU3pCaktFV1hycldiM0hCTmRTUjJCNFhaanBXTjhwb3JWek9RNEZEUDN3VEtkMk82NDJSeC0wdFVPMUUteEppMG9OZ2pDSFVILVBNZ1NoWTNmZ3ZNaDNlMWNUb0lfU3V6Rmp6U1RPMjRaNUJBVExHa1V1?oc=5
+
+- Who Is Ashley Tellis, Indian-American Expert Charged Over Top Secret Files - NDTV
+  Ashley Tellis is an Indian-American
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNbThmT2xJWlRTQmdNaUc5NmhPdkI0RTdiSzQySXBTV2xqdi1jdFgybnRQN0tUQTFBNy01S0RrcGZRMUdRQW9CUlhFZEstNnpHNGtDeDB2RTRaYncyc0thYjNaLWo4WVMyZ3BUMTk0aDRHcy1PSXIyU3JOVDdYT3pzZUJBNW11WTlTRS1LajRWX2tfVGlfc2l0MzMyY0Z2NGNRMGtz?oc=5
+
+- Ashley Tellis: India-origin strategist charged with keeping secret US defence files - BBC
+  Ashley Tellis is accused of keeping secret
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JQWtPelNwWWRnX1pJUHI0OU5rTGdiM2hRclJYN2lJUlpHQll6bWU0cWhRaEo3SlhVQUdJeWE2RFRlMXRBU245b3JhY1I0b2ZaV0Jjb0ppM0gxQdIBX0FVX3lxTFA5N2lIdHNyUFd5WjFlVmJ5anNEdjh1YjdneGJrSzY5RlE2ems2RG11MjJzMUgtQ2JWamVsUjZELVBNYjZuci1teWNRN0VNSDBuV1hjYWJrbDFzX1g5NGFF?oc=5
+
+- Who is Ashley Tellis? India-born US advisor accused of taking classified docs, meeting the Chinese | World News - Hindustan Times
+  India-born US advisor accused of taking classified docs, meeting the Chinese.
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPYnVEZlRxaVUwcjRDMjFJQ3F3bnFudjZuQ0hxb0F5NkNuVm0yUmZXVlpEMkptMkZGUlU3dHRPaGNrR08xQlVRX2s1UlA0Tlo5YnZjY0lWaGN1Skg5bFZ2SGpmUERILU5GWGVEUV8zeXQ2NVlWb2k1UUEzNzhpbXlkLTMwczd1NDEyQ0hONzRiZzJrTWJicWJPZFFIZEsxRDZzTFlGZ195anA1X2xFbTg4ZmxXSUhiLXF1cG1xbjRFWFVhdFBjX2ljYXlnZ0pCUkRRNklMWXUwZ0JLUzNXSy15SmZVbXR3RG9wcFBFeXVRWnBvcGl2cXFBWHJKRnJPNWZnTEhEcFZn0gGLAkFVX3lxTE5YTHI0WjQtZXB2eFN5dWpJbXB5M2cyQmU4Zk53WkhRQWVRU005RHdySHVpQ0hETVhKd2hPR3pqLWZGbkFNLW84eXlJejJrMlBrTGFkZUlETk40bWk3ZHVCM2ptTTljZ2JHMnFzOHpra2R2d2k1SXRqYW1mVzJrWHVUc1VDNlN4X1RRNXpNX3pDMnhZVjFGTE14bGliM3FndzVqVk9nVkE1eS1aZ2U4WUl4Ty1wU3FTUnRyYzJrT3NuUFVOelp3Q1MyUndvRjZEMVJmeHlJSnNZejUtaWd0Vmp6cF8wdnpYQ01wM1JzeW1aMlhIajVQanlBdlNObGNlTVZLaURHRDc5WW9TTQ?oc=5
+
+- "Hang My Head In Shame": Javed Akhtar On "Reception" Given To Taliban Minister In India - NDTV
+  "Hang My Head In Shame": Javed Akhtar On
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUjdFT1FwVkV3TUNfbDUxUWVrSUIxTG5Ob2h5T3YwRHN3cEJvQ1ZVVFB4Q3EwV25xcGhjUFZRcGVEelFKQUZpVUhjdVg0Qm5qWjMweUZTbDRTRF9yZ3FZZXRLUW93X0ZnZENxcVRWUlZXSnpFd1UzQUdWWk5oRmdDeXJQdWplN3ZsNnF6VVhfRTJBcUZZRmQxNE1saFh3dFVla0RkbGdEOUZtd2FpaEhBeTU2VlhhSVkyeTR5cmF2YmNaSTFBLS1uMGdiUnNramZpNENwbHNtZDJnSUxLZkphOU12SWp1WDZIdkUw?oc=5
+
+- India at 85th rank, this is the country with the strongest passport. It's not US | World News - Hindustan Times
+  India at 85th rank, this is the country with the strongest passport.
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkw2dnJBd1N6NmU4QnVxRHBLdFFIRlJiSGZBLUl0RC0wU1JRSGpnaGIyM2FmZjNjR0Q2MWlNRTVWcHpmYmpHRFlOVmJnVEtBUWhSZzU0N0xjaHlPNDVLLUtkOG5GSVZCLXd6bi15U0w0ckJHNU1pV0c2WnlBaEF2Zlg3SlVwT1VJRDZUdENiM0pDazJvalU5TERlNHNzQkJqYW1HVW9zOGk2STMteEplTkNEb1BqTjNqLWJUVGFJcGFhaGR0WWkyekd4d0s5NEZvRFctcmt4UdIB3AFBVV95cUxNcC1kREdHRmpwdHBMMXJhZkJfUWMtdnVxbF9wWXlYWE9fZFZqU2Y1REZfbU5kaEs5ajY5LTlRSEp5YWVRaUl0Sk51VWpOMVQ3ZnBPazR6a25VSWhNRXhRYUpHVVQ5U0ZjZ1RiU3pCaktFV1hycldiM0hCTmRTUjJCNFhaanBXTjhwb3JWek9RNEZEUDN3VEtkMk82NDJSeC0wdFVPMUUteEppMG9OZ2pDSFVILVBNZ1NoWTNmZ3ZNaDNlMWNUb0lfU3V6Rmp6U1RPMjRaNUJBVExHa1V1?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-15 06:27:16 UTC_
+_Last updated: 2025-10-15 12:36:05 UTC_
