@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Lok Janshakti Party candidates list for Bihar elections 2025: Chirag Paswan’s LJP (Ram Vilas) announces first list of 14 candidates
+- Supreme Court Collegium admits its decision on judge changed after Govt ‘sought’ it
   
-  🔗 https://indianexpress.com/article/india/ljp-candidates-list-bihar-assembly-election-2025-lok-janshakti-party-ram-vilas-10309194/
+  🔗 https://indianexpress.com/article/india/supreme-court-collegium-admits-its-decision-on-judge-changed-after-govt-sought-it-10309420/
 
-- Railways to launch Vande Bharat 4.0 train in next 18 months – check key features
+- WTI founder Menon becomes first Asian to chair key IUCN panel
   
-  🔗 https://indianexpress.com/article/india/railways-to-launch-vande-bharat-4-0-train-in-next-18-months-check-key-features-10308904/
+  🔗 https://indianexpress.com/article/india/wti-founder-menon-becomes-first-asian-to-chair-key-iucn-panel-10309515/
 
-- 3 suspected Bangladeshi cattle thieves killed in clash with border villagers in Tripura: police
+- Madhya Pradesh govt: Caste system founded on principles of social harmony
   
-  🔗 https://indianexpress.com/article/india/3-suspected-bangladeshi-cattle-thieves-killed-in-clash-with-border-villagers-in-tripura-police-10309227/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-govt-caste-system-founded-on-principles-of-social-harmony-10309526/
 
-- China files WTO complaint against India over EV subsidies, commerce ministry to examine
+- Congress panel puts 9 seats in pending list, 7 names announced
   
-  🔗 https://indianexpress.com/article/india/china-files-wto-complaint-against-india-over-ev-subsidies-commerce-ministry-to-examine-10309137/
+  🔗 https://indianexpress.com/article/india/bihar-assembly-elections-congress-panel-puts-9-seats-in-pending-list-7-names-announced-10309505/
 
-- Bihar polls: Chirag Paswan’s LJP (Ram Vilas) announces first list of 14 candidates
+- Bihar Polls: Boost booth-level coordination for NDA, PM Modi tells BJP workers
   
-  🔗 https://indianexpress.com/article/india/bihar-polls-chirag-paswans-ljp-ram-vilas-announces-first-list-of-14-candidates-10309197/
+  🔗 https://indianexpress.com/article/india/bihar-election-boost-booth-level-coordination-for-nda-pm-modi-tells-bjp-workers-10309504/
 
 - Apple launches new Vision Pro with M5 chip and Dual Knit Band, starting at $3,499
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-lobbies-india-to-change-tax-law-seen-hindering-its-expansion-10308892/
 
+- Jensen Huang reveals 6 AI model names that all Nvidia employees use at work; here's the full list
+  Huang said each of his employees use at least one of these models or the other during their day-to-day work
+  🔗 https://www.livemint.com/companies/people/jensen-huang-reveals-6-ai-model-openai-cursor-replit-lovable-harvey-openevidence-all-nvidia-employees-use-work-full-list-11760575968859.html
+
+- Banks and Private Credit Clash After Dimon’s Cockroach Barb
+  On Wall Street, everyone�
+  🔗 https://www.livemint.com/companies/company-results/banks-and-private-credit-clash-after-dimon-s-cockroach-barb-11760558696035.html
+
 - Standard Chartered, Bank of India seal $215 mn loan for Air India’s fleet expansion
   Standard Chartered and the Bank of India have co-financed a $215 million term loan for Air India's subsidiary in GIFT City.
   🔗 https://www.livemint.com/companies/air-india-215-million-boeing-777-financing-gift-city-standard-chartered-11760547396259.html
@@ -52,33 +60,29 @@
   Skims co-founder Jens Grede shares in his wife's podcast that intuition is trainable, not innate. He encourages people to embrace challenges and broaden
   🔗 https://www.livemint.com/companies/people/how-to-get-better-at-trusting-your-gut-skims-ceo-jens-grede-offers-valuable-tips-11760543420313.html
 
-- Air India in fresh talks with Airbus, Boeing to buy up to 300 aircraft amid global expansion push:  Report
-  Talks now encompass as many as 80 to 100 wide-body jets. This is in addition to previously reported talks for
-  🔗 https://www.livemint.com/companies/news/air-india-in-fresh-talks-with-airbus-boeing-to-buy-up-to-300-aircraft-amid-global-expansion-push-report-11760542660404.html
+- Global Markets Today: Nikkei 225, Kospi rise tracking Wall Street gains
+  Japan’s Nikkei 225 climbed 0.95 per cent, and the Topix index gained 0.8 per cent. In South Korea,
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-rise-tracking-wall-street-gains-11760575568941.html
 
-- Group including Nvidia, BlackRock buying Aligned Data Centers in deal worth about $40 billion
-  The acquisition comes amid a flurry of deals in recent months involving top AI developers.
-  🔗 https://www.livemint.com/companies/news/group-including-nvidia-blackrock-buying-aligned-data-centers-in-deal-worth-about-40-billion-11760543918265.html
+- Canara Robeco IPO listing date today. GMP signals debut of shares at modest premium in stock market today
+  Canara Robeco IPO GMP signals shares to list with a modest premium in stock market today. Canara Robco shares will be listed on both the stock exchanges, BSE and NSE
+  🔗 https://www.livemint.com/market/ipo/canara-robeco-ipo-listing-date-today-gmp-signals-debut-of-shares-at-modest-premium-in-stock-market-today-11760575369823.html
 
-- Sebi busts  ₹173 crore insider trading linked to CERC official, bars eight from securities market
-  CERC official allegedly leaked price-sensitive information to family and associates. They made massive
-  🔗 https://www.livemint.com/market/sebi-cracks-down-on-insider-trading-involving-cerc-official-iex-shares-11760547392290.html
+- Rubicon Research IPO listing date today. Here’s what GMP signals on share debut
+  Rubicon Research IPO listing is set for today at 10:00 IST on BSE and NSE. The IPO was well-received, with subscriptions from NIIs at 97.61 times and Q
+  🔗 https://www.livemint.com/market/ipo/rubicon-research-ipo-allotment-status-rubicon-research-ipo-gmp-rubicon-ipo-gmp-rubicon-research-ipo-subscription-11760551038156.html
 
-- RBI does not target any specific rupee level, says governor Sanjay Malhotra
-  The rupee has been in a firm downward trend, weighed by US President Donald Trump's trade
-  🔗 https://www.livemint.com/market/stock-market-news/rbi-does-not-target-any-specific-rupee-level-says-governor-sanjay-malhotra-11760547260652.html
+- Stock market today: Trade setup for Nifty 50, Infosys, Wipro Q2 results, to gold prices; 8 stocks to buy
+  The Sensex rose by 575 points to 82,605 and the Nifty 50 by 178 points to 25,324. Notable gainers included Bajaj Finance and Asian Paints, while IT stocks saw slight
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-infosys-wipro-q2-results-to-gold-prices-8-stocks-to-buy-11760545607555.html
 
-- Which Samvat year will start on Diwali? 5 interesting trivia about the new year
-  Stock market investors will celebrate the new year based on the Hindu lunisolar calendar. Vikram Samvat 2082
-  🔗 https://www.livemint.com/market/stock-market-news/which-samvat-year-will-start-on-diwali-5-interesting-trivia-about-the-new-year-11760540180883.html
+- Stocks to buy: Raja Venkatraman's top picks for 16 October
+  Market expert Raja Venkatraman shares his top three stocks to buy today, 16 October.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-picks-16-october-stock-to-buy-sensex-nifty-11760538636317.html
 
-- Oil prices dip, stay near 5-month low on US-China trade tensions, looming supply surplus
-  Oil prices dip, stay near 5-month
-  🔗 https://www.livemint.com/market/commodities/oil-prices-dip-stay-near-5-month-low-on-us-china-trade-tensions-looming-supply-surplus-11760543884236.html
-
-- Axis Finance IPO: Axis Bank MD Amitabh Chaudhry confirms it's ‘very much on’
-  With rising AUM, Axis Finance would soon
-  🔗 https://www.livemint.com/market/ipo/axis-finance-ipo-axis-bank-md-chaudhry-rbi-regulatory-clarity-nbfc-listing-axis-finance-public-offering-upper-layer-nbfc-11760539010749.html
+- Amazon Great Indian Festival 2024 big offers on walking pads and treadmills: Ensure fitness and well-being
+  Amazon Great Indian sale brings you a chance to be fit and healthy at home. Check out the top deals on walking pads and treadmills
+  🔗 https://www.livemint.com/technology/gadgets/amazon-great-indian-festival-2024-big-offers-on-walking-pads-and-treadmills-ensure-fitness-and-wellbeing-11727860232007.html
 
 - Meta ramps up AI infrastructure, commits $1.5 billion to build new gigawatt-scale data center in Texas
    Meta plans a new gigawatt data center in El Paso, Texas, to enhance its AI capabilities. This will be the company's 29
@@ -96,137 +100,65 @@
   IICT believes creativity thrives at the intersection of art, innovation and technology. I
   🔗 https://www.livemint.com/technology/tech-news/iict-marks-fresh-chapter-with-new-batches-focusing-on-cutting-edge-tech-courses-11760544802568.html
 
-- Apple launches MacBook Pro 14-inch with M5 chip in India, price starts at  ₹1,69,900
-  Pricing starts at  ₹1,69,900 for the 16GB RAM/512GB model. It boasts a
-  🔗 https://www.livemint.com/technology/gadgets/apple-launches-macbook-pro-14-inch-with-macoapple-launches-macbook-pro-14-inch-with-macos-tahoe-in-india-price-starts-a-11760536635329.html
+- Torrent Pharma plans Rs 14,000 crore bond sale for JB Chemicals acquisition
+  Torrent Pharmaceuticals is planning a ₹14,000-crore bond sale to finance its acquisition of JB Chemicals &amp; Pharmaceuticals. The proposed merger is awaiting regulatory
+  🔗 https://economictimes.indiatimes.com/markets/bonds/torrent-pharma-plans-rs-14000-crore-bond-sale-for-jb-chemicals-acquisition/articleshow/124592948.cms
 
-- Sebi cracks down on insider trading in IEX: 8 barred from markets after Rs 173 crore windfall
-  Sebi has banned eight people from capital markets. They are accused of insider trading in Indian Energy Exchange shares. The ban is interim and effective immediately.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-cracks-down-on-insider-trading-in-iex-8-barred-from-markets-after-rs-173-crore-windfall/articleshow/124585287.cms
+- Axis Bank reports 26% drop in Q2 net profit amid one-time provisions
+  Axis Bank reported a 26% drop in September-quarter net profit to ₹5,090 crore. Despite this, net interest income rose 2% year-on-year to ⁹13,745 crore
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-reports-26-drop-in-q2-net-profit-amid-one-time-provisions/articleshow/124592933.cms
 
-- US-China trade tensions pose new risk to growth outlook, says US Fed's Stephen Miran
-  U.S.-China trade tensions pose new downside risks to the economic outlook. Federal Reserve Governor Stephen Miran says it is more important that the
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-china-trade-tensions-pose-new-risk-to-growth-outlook-says-us-feds-stephen-miran/articleshow/124584959.cms
+- Singapore Court okays WazirX parent's plan for return of frozen assets
+  WazirX expects to reopen by late October, prioritizing orderly withdrawals and enhanced security with third-party custodians like BitGo. Singapore High Court approved parent Zettai's restructuring
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/singapore-court-okays-wazirx-parents-plan-for-return-of-frozen-assets/articleshow/124592912.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Thursday
-  Sensex rose 575 points and Nifty gained 178 points, with banks, metals, and autos leading the rally. Indian markets snapped a two-day losing streak as
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/124584271.cms
+- Sebi tells public interest directors to treat system failures as financial irregularities
+  SEBI has directed public interest directors on market infrastructure institution boards to consider system failures as financial irregularities. Directors must now understand emerging technologies and ensure systemic stability and data integrity.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-tells-public-interest-directors-to-treat-system-failures-as-financial-irregularities/articleshow/124592883.cms
 
-- Sebi chief urges public interest directors to uphold governance integrity at MIIs
-   Markets regulator Sebi chairman Tuhin Kanta Pandey called on public interest directors (PIDs) to ensure that the "public interest" perspective remains central to
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-chief-urges-public-interest-directors-to-uphold-governance-integrity-at-miis/articleshow/124583251.cms
+- RBL Bank board to consider fundraising plan on Oct 18
+  RBL Bank's board will meet on October 18 to consider raising funds. This includes issuing equity shares or other linked instruments. Reports suggest Emirates NBD is close to acquiring a majority stake.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbl-bank-board-to-consider-fundraising-plan-on-oct-18/articleshow/124592861.cms
 
-- Sebi extends deadline to Jan 2026 to disclose allocation methodology by angel funds
-   Markets regulator Sebi extended the timeline to January 31, 2026, for disclosing the allocation methodology.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-extends-deadline-to-jan-2026-to-disclose-allocation-methodology-by-angel-funds/articleshow/124583125.cms
+- Who Is Ashley Tellis, Indian-American Expert Charged Over Top Secret Files - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNbThmT2xJWlRTQmdNaUc5NmhPdkI0RTdiSzQySXBTV2xqdi1jdFgybnRQN0tUQTFBNy01S0RrcGZRMUdRQW9CUlhFZEstNnpHNGtDeDB2RTRaYncyc0thYjNaLWo4WVMyZ3BUMTk0aDRHcy1PSXIyU3JOVDdYT3pzZUJBNW11WTlTRS1LajRWX2tfVGlfc2l0MzMyY0Z2NGNRMGtz0gGrAUFVX3lxTE9fZm1TUlplTG9scGJ2aVVtNkNsNGtxeDlIU05QTHhUb09BN3lnM3J2cV96U0FEYnhFOGcya2FhY1lwWExCRm9CMDU2NTY0UzlLNWM0b2xad0NLYmt0ZkVKbnVQUHZOa1dqYzFSSUc2SExmQnVJaDdaNThwUXNFbjBTVlFqZVZVcVpBcFlIT3FzU0prbExQemVkamFMN0txb2l4Zm1MSU1PdlFncw?oc=5
 
-- "Hang My Head In Shame": Javed Akhtar On "Reception" Given To Taliban Minister In India - NDTV
-  "Hang My Head In Shame": Javed Akhtar On
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUjdFT1FwVkV3TUNfbDUxUWVrSUIxTG5Ob2h5T3YwRHN3cEJvQ1ZVVFB4Q3EwV25xcGhjUFZRcGVEelFKQUZpVUhjdVg0Qm5qWjMweUZTbDRTRF9yZ3FZZXRLUW93X0ZnZENxcVRWUlZXSnpFd1UzQUdWWk5oRmdDeXJQdWplN3ZsNnF6VVhfRTJBcUZZRmQxNE1saFh3dFVla0RkbGdEOUZtd2FpaEhBeTU2VlhhSVkyeTR5cmF2YmNaSTFBLS1uMGdiUnNramZpNENwbHNtZDJnSUxLZkphOU12SWp1WDZIdkUw0gHzAUFVX3lxTE9aLVpnLUJjLXBlLVJuZmRTdFg1RWZoT1hCazN0aUk5a1dVbWNKQTMwcEtYWjBhOWVLLVhsZmx4aDVmeS1xelZrUURidDB0U05GVlJ6RmJLZ1RkbjZqanFNWjQtTFlvNkNubXVMVHF5c09ZMS1FbklZeEdKQS0yWDZhOG9weVkzWDRXdHVwZXVuSzNRX3pxb0FYQjdvZUs0Rng0RHpXTlJ4d3pDcV9qVEVkUjVRNGtQblpodDFnejFmYmpJZWlRTnY4c1R4dUw1R1ZRaWQ1ZEJObUhVaUxhNElQU1NscXo0TkxabmJJdW12eDdTMA?oc=5
+- Trump tries to dismantle Brics again, opening another front with India - The Times of India
+  The Times of India reports that the US President is trying to
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTG9mWHgxZEx3WFo0RUFNYk1UUkNRRXM5cjdwT2ZvS0FxaUNoeUJfVWVBTG44Y3E3RmdSSWZPUVBmcE9EM2J6RWlGMV9Wc0RJMmV1b2FFNkFxU2ZScEpXaWlXQTNFb1lJVk5WRTFkUm53Ni1aZzBhTEEwd18xLTBxTWFPZHJEMUZrbTVIVURlM3laNVJJNmF2V0R4R2JFVWJuMnpWMlFZekN6SVBKRVQ0aW50OVJRLW1wM2FHeENuX3AxTFJFdVkxNWdBaFFGZzZfd2ktcEtXa9IB3AFBVV95cUxOWVZld1NIbVByaXVQVUc1OGVpZDRTaHFrV2dFNEtzd0hJdTBaQVBpb2JTTDItTFhvd1BLUzBCRnFJVlF1TXlucW9POU0taFJNQXlJYzU2QkhERnBRUGtjTWZNUjBSa2R4Y3YyX1V6UWFuU1AtR0FvTE1QS0hOUm04Vk1KUzQyaHBvMWdvSENPSDRiZTlXVTlKcU55R1F6aG1UNTZ5cnFabnhxWTNOMTdtM19RUDVrOGc0U3RFWjdmb01oZWg3dHItTGxRRFd1TUFHOUtnWFdKWnFxUnNW?oc=5
 
-- Trump's High Praise For Asim Munir, Then An 'India' Question For Pak PM - NDTV
-  Trump's High Praise For Asim Munir,
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPTndIXzJfR3gzOXVHc0k2LUgtd2h2a0pXUmZXSUlyaWJSRVVzQnlNd21HZjRrT21zZ0JIdGNGMndmaXAwNmlTM0FZdHpkaEFPU0lpZG1nU0dKMXdydEs4eVM2emVJT0FTYjl4UUpNRHZZUFNFc1BIZGpDN1Q3Z2VNTjVOZlBqVGpzR2RwSHNjQV9UWGpYUmk1ZWhYVl83VHBEVlZocDJkX2pnM3NtelBMUWY0emUwWGU3NTljdUpValdzdFZKYUdBd2NsX1htSm8?oc=5
+- India’s call centre industry faces existential threat: How AI chatbots are killing jobs | World News - Hindustan Times
+  India’s call centre industry faces existential threat: How AI chatbots
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUThlb3o1RjFYcVllS1A0Tno1dHdSNEF1LWFHdFpDVjVxeUE2TUc0VzJnRmZwSGVrdnJKbHVyV0ZLWGtERWJYNDRLVHB0SS1CcG1jR1c1NF9zcTJKakE2YXVPbVUxbndrTWlQOVF2T1g3MHNNQmt5ZDR4ZWVsdWh1WnFuYmI5Z3lReUt3emRhNS1rc2VlcDBLNXFIbmtOM3JDT0RjU1MwcXc0ZGlVTzVTUi1xLW40cUJ2LUVZb1BZaUtVMm1lLXk3N0FVb25rdERVQktLa3JpT1hyWDczc1FuUVRB0gHnAUFVX3lxTE1kRXFDVnM5aWw4LVVfaHgwcTdOT3RhMW9fN19FTjk4R1dCazlKSVVSZC15SzE4SlJDdWMyZDRlYy04bXVmQ0dodXhJR0VhWHkwYkw1eWEzUnVSekEzOFJGNDBCME1ZUVFTTmIwZWJDVGZTR1BLdC0yVENuUE94UUFIQVZiWkVoYkgybU9fSVc1aGJ5TTB2S2d5X3ZwM1pEYkM2Wk5rclRGVXNoT2RDUWYzeWxVTjVwMERzWFY3d3pkZE9DT3hwdFF4dUhSMmNMYm9BMXZkNjk1VXFrZzA2VTdGajlRRk1XYw?oc=5
 
-- IMF growth revision reflects India's strong fundamentals: Piyush Goyal - The Economic Times
-  IMF growth revision reflects India's strong fundamentals
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWVZbE9kMGNYQlA0dG5jdnZQbDJvRlVLbjFKa0lZakFOa0ZxOTRxUE1qcG10OTFEcE5sNVo2RHJvZ241bDJGYUpLOE1PQnRIUWptcFlHT0ZSLUxPWE5xc2pNeVRTTGFqLVNoM2hwUDFyOGNxbXpPend2ekF2c2pmc1dPMmZmY3FPbnVEd183VkNXM0hFRUVrbXhRVUJRd3FUWGRUcGpOQTdIRlFrZDZsbVVMTHJSVVgwZnVYcFIzOUtQNGRwaEhyRkJhWEtNYVZkdldoc29tdHZ6WmNkR0wxbDY0SE0tUlo5aWNv0gHkAUFVX3lxTE5Kb0k2Ukl5UGcyVTVnUnQxb1BXS0ZaSWI5N3hDV29sSmNLM2hSMVc2XzVIWlZpQVl2T19EbS15R1hDTURWVHM0WUFfSXVUTEgzN1JzbnUtUkhyMWEzVE9TNGdCd256OUFiLTlqZThab1RaTFZvUUFrd2tYdTQ3ZVl2ZWE1R2tKNXRvcTdCZkFlaG1MVmlzeTc1RGpMeHhjMTlLLW5GWXZEcGJfbG9EdEVXUmo0OHBScGFPX2FDeG1lZllHbFNjaWxJQTJvVHFTXzllMThkVTFvZkNzZUxYTVBEN1c3TA?oc=5
+- Trump threw away US-India ties over Nobel bid, Pakistan money: Ex-US envoy - India Today
+  India Today: Trump threw away US-India ties
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOODhoempzWjZmTWpucDBUOGhVWDlpbjZDX3owdzBuQTIyaldVMk5mYjJJSUtJaTg1Mk5yamR0Sm5sZlNtRWYwQmNGNDU0Wk1oZkE2TEdtVTZCeUh5TGZqUnRPS09aMFJUNEMzV3N4NEVOZmo4R2d3U1lHZFpsaVJlTVJZSTNIMlV2S2NWYVBpVzkyVGZieVlVY0ZHSGVLcFV5UjBEbFpBRE5jUmJWQUJ3RF9Kak9xNm9xLW1ubTM2cjRvTTF2R1RQRVdhbENHdS1obXY1UkZmdTdjblIxZlRsNHVSY0p4aU10ek96aNIB8gFBVV95cUxOcG9jT1pwZGFvX1NRdEluQU5lSGJyX2Z3SnpJeUNjU0lvUEJCVTNIWkt3MFd1N1FObnpiSWttWDE0NlVBZ1BkbG40YmFKeFdRVkp4ejF0OS1WbEFaalNIX2w3MW5xbmFwQW9nM1F0NXdTTzBaTjJaT3ZTZHNSR1l6b0w0VzVqb1JLbW8tTF8zblYxeGVZRndVT1k0bkVnaFpNcUVsR3FBd1BaTEgwaEVya2JGYnNXQ3o0Z1hIQlRKU0NfZnRJdUhaRUlHX3FrZFR3SzVrYVlLZTg3WlFXUFgySF8wOHBRYzBYRkl3N2J2QTBsUQ?oc=5
 
-- BJP Announces All 101 Names For Bihar, Releases 3rd List Of 18 Candidates - NDTV
-  BJP Announces All 101 Names For Bihar, Releases
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPbE8wVmFreDFRNFg3SjJJdE1NQWZodTNwbUVxT0Y2SHA4YWNGSHhoX2NIaVZXRDFrYW1BSHFuLTRQdGtzS2Q4cU9GVXVrY3NjdmZGNl9FVHUwV20tSi1wSnlZMHJJRVpraE8wc25Ea1U4SXlWYkppMmV2YXZ4bHVjV1UzZVh5anNOTHJ5MGg5R0tjSXFxTnFwc2lUQll1dnIyeTZ0WEx2ZU5idTZzdTBDWVl1VGZ5c1BoRlHSAcIBQVVfeXFMUE0yNm5maWNnRmJIdlVLQjNFMGRtVUFQZmRUU2xtY01PQzVJdU1fMVMzSHpQamVILUJuWVRIMTVrR3BjMWRkR29KNnlZS3VlbFlRcFdZdHNtWl9YOHBGTGlmUGstRWdMdU4wREFlaFpCUE9keHBxdVNEdHUtclZWVHY4dTd0WGttSUE2UmRDLWh4RlByNWE4cVJ5ZHU5aDVHcVFEa01YdEVjQ0tpSURwellsanJNUklnTHQ5VjFld0FDa3c?oc=5
+- Trump claims he stopped India-Pakistan war through threat of 200% tariffs: ‘I got him on phone and said….’ - Mint
+  Trump claims he stopped India-Pakistan war through threat of 200% tariffs.
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTEJuOENVVDZyMGZ5MHg0NmtNVFFwWlVkTmY1RjJPT2xUME5JbkE4VnQtb2xPSEQyNFFkejFDTF91Sk5uOVJwRzgyTmIwc3B2dUxHY1ItNGMzNldfSFBsUGpieWhTY2d3VkNBTEoyUXpsV0pJb0gwUFNVa1BjdTAxSHNVLWxSOVYyRU16bXhwdzBweUVXdDJXSDJtVENwVno5dFFPOGNMclNxYjJTRGxIMHNYUWZ5RkN3Q1RuTWl2VzN2ZXNsTjN3RVRkTi13ajRFMDRVZXkxX1BFTm9za3FLaDQ3VnplS2Z0YUdXQ2NJWdIB9AFBVV95cUxNcmlmNkJPd1hPcUp4d2xESmNVdk53T0NKSmdYRlFrempveW5sTnVfbjVTX2NPUVV3b1lnSWJ6RDFHa3ZEQzBUUUxfVVB0TUZGRWxxQ1N0MktMYkRJN0NKNmpJZVFDOTZLUUdHU2E2X3FFTUxnYVkzTll5VWxLZXpPSWVrNnRxaW1OeVliRDU5dUtlUWYxS0cwckRqMDBqYjFxdjZwOEJoNklocTlNWTRPOEh3YnQ5YmRiVVBkaV9kcmFqLWtVS0xKZHZxMWhDSjZxUEtIYktjbFBCWTg5OGFIWDdTOHhtWUxqOU40MWVUdllCT3RQ?oc=5
 
-- Good news on US-India deal likely, thanks to Trump's ‘rare’ tiff with China | Latest News India - Hindustan Times
-  Good news on US-India deal likely, thanks to Trump's ‘ra
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxObGRsOV9YZ2I3aW9lMXhyOF8tVW9UQ3djdzRHdVk4Y0YycVg1VGlBNmM0cXJxdXU3bS10eGI1WWtzVC1lT2h2RGRGT1U4VGwwM2hZdE5SNF9QckhpMnVHRl9OOC1sNGhLRG5EcWRzS2xZMDBhdXZ1TE1PbEE4cUpIQ1l1Qi0xTFA0a0FYYmRsQURySmUxUjY3SjdCaVE3NXg5R3EzRVBGVU1IekhWenlaY3hTNnFTMDNxWmV6Yi1wcmdvcnFKUkFiN2VRQS1QQdIB0wFBVV95cUxNakFYMGg3aUF4RGc3bzFLXzhJd19fM2s5V0VMZ3FaSnBCckswQUJrV0dpejZ5LTVnbjBHb01xdFVOY3pSbVNiNGZvNF8yREg1Sl9uLVVVRzhNZkt5VzhFYmFfbWwtMS1EVDVTVVpxLW41UUtfUXZyVEoyTktNRG9Jamd5TGg4ZDQ1Nkp5cjlZVWszMUNWckJ3a1FnODVOMlNvVnBpZmxwYlVUSEpoc2x4WVdZOWxzNXNlQkNYTHRFbzVnbVlXaGdLRDAxVHI2Q1ZsdXo0?oc=5
+- Who Is Ashley Tellis, Indian-American Expert Charged Over Top Secret Files - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNbThmT2xJWlRTQmdNaUc5NmhPdkI0RTdiSzQySXBTV2xqdi1jdFgybnRQN0tUQTFBNy01S0RrcGZRMUdRQW9CUlhFZEstNnpHNGtDeDB2RTRaYncyc0thYjNaLWo4WVMyZ3BUMTk0aDRHcy1PSXIyU3JOVDdYT3pzZUJBNW11WTlTRS1LajRWX2tfVGlfc2l0MzMyY0Z2NGNRMGtz0gGrAUFVX3lxTE9fZm1TUlplTG9scGJ2aVVtNkNsNGtxeDlIU05QTHhUb09BN3lnM3J2cV96U0FEYnhFOGcya2FhY1lwWExCRm9CMDU2NTY0UzlLNWM0b2xad0NLYmt0ZkVKbnVQUHZOa1dqYzFSSUc2SExmQnVJaDdaNThwUXNFbjBTVlFqZVZVcVpBcFlIT3FzU0prbExQemVkamFMN0txb2l4Zm1MSU1PdlFncw?oc=5
 
-- "Hang My Head In Shame": Javed Akhtar On "Reception" Given To Taliban Minister In India - NDTV
-  "Hang My Head In Shame": Javed Akhtar On
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUjdFT1FwVkV3TUNfbDUxUWVrSUIxTG5Ob2h5T3YwRHN3cEJvQ1ZVVFB4Q3EwV25xcGhjUFZRcGVEelFKQUZpVUhjdVg0Qm5qWjMweUZTbDRTRF9yZ3FZZXRLUW93X0ZnZENxcVRWUlZXSnpFd1UzQUdWWk5oRmdDeXJQdWplN3ZsNnF6VVhfRTJBcUZZRmQxNE1saFh3dFVla0RkbGdEOUZtd2FpaEhBeTU2VlhhSVkyeTR5cmF2YmNaSTFBLS1uMGdiUnNramZpNENwbHNtZDJnSUxLZkphOU12SWp1WDZIdkUw0gHzAUFVX3lxTE9aLVpnLUJjLXBlLVJuZmRTdFg1RWZoT1hCazN0aUk5a1dVbWNKQTMwcEtYWjBhOWVLLVhsZmx4aDVmeS1xelZrUURidDB0U05GVlJ6RmJLZ1RkbjZqanFNWjQtTFlvNkNubXVMVHF5c09ZMS1FbklZeEdKQS0yWDZhOG9weVkzWDRXdHVwZXVuSzNRX3pxb0FYQjdvZUs0Rng0RHpXTlJ4d3pDcV9qVEVkUjVRNGtQblpodDFnejFmYmpJZWlRTnY4c1R4dUw1R1ZRaWQ1ZEJObUhVaUxhNElQU1NscXo0TkxabmJJdW12eDdTMA?oc=5
+- Trump tries to dismantle Brics again, opening another front with India - The Times of India
+  The Times of India reports that the US President is trying to
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTG9mWHgxZEx3WFo0RUFNYk1UUkNRRXM5cjdwT2ZvS0FxaUNoeUJfVWVBTG44Y3E3RmdSSWZPUVBmcE9EM2J6RWlGMV9Wc0RJMmV1b2FFNkFxU2ZScEpXaWlXQTNFb1lJVk5WRTFkUm53Ni1aZzBhTEEwd18xLTBxTWFPZHJEMUZrbTVIVURlM3laNVJJNmF2V0R4R2JFVWJuMnpWMlFZekN6SVBKRVQ0aW50OVJRLW1wM2FHeENuX3AxTFJFdVkxNWdBaFFGZzZfd2ktcEtXa9IB3AFBVV95cUxOWVZld1NIbVByaXVQVUc1OGVpZDRTaHFrV2dFNEtzd0hJdTBaQVBpb2JTTDItTFhvd1BLUzBCRnFJVlF1TXlucW9POU0taFJNQXlJYzU2QkhERnBRUGtjTWZNUjBSa2R4Y3YyX1V6UWFuU1AtR0FvTE1QS0hOUm04Vk1KUzQyaHBvMWdvSENPSDRiZTlXVTlKcU55R1F6aG1UNTZ5cnFabnhxWTNOMTdtM19RUDVrOGc0U3RFWjdmb01oZWg3dHItTGxRRFd1TUFHOUtnWFdKWnFxUnNW?oc=5
 
-- Trump's High Praise For Asim Munir, Then An 'India' Question For Pak PM - NDTV
-  Trump's High Praise For Asim Munir,
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPTndIXzJfR3gzOXVHc0k2LUgtd2h2a0pXUmZXSUlyaWJSRVVzQnlNd21HZjRrT21zZ0JIdGNGMndmaXAwNmlTM0FZdHpkaEFPU0lpZG1nU0dKMXdydEs4eVM2emVJT0FTYjl4UUpNRHZZUFNFc1BIZGpDN1Q3Z2VNTjVOZlBqVGpzR2RwSHNjQV9UWGpYUmk1ZWhYVl83VHBEVlZocDJkX2pnM3NtelBMUWY0emUwWGU3NTljdUpValdzdFZKYUdBd2NsX1htSm8?oc=5
+- India’s call centre industry faces existential threat: How AI chatbots are killing jobs | World News - Hindustan Times
+  India’s call centre industry faces existential threat: How AI chatbots
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUThlb3o1RjFYcVllS1A0Tno1dHdSNEF1LWFHdFpDVjVxeUE2TUc0VzJnRmZwSGVrdnJKbHVyV0ZLWGtERWJYNDRLVHB0SS1CcG1jR1c1NF9zcTJKakE2YXVPbVUxbndrTWlQOVF2T1g3MHNNQmt5ZDR4ZWVsdWh1WnFuYmI5Z3lReUt3emRhNS1rc2VlcDBLNXFIbmtOM3JDT0RjU1MwcXc0ZGlVTzVTUi1xLW40cUJ2LUVZb1BZaUtVMm1lLXk3N0FVb25rdERVQktLa3JpT1hyWDczc1FuUVRB0gHnAUFVX3lxTE1kRXFDVnM5aWw4LVVfaHgwcTdOT3RhMW9fN19FTjk4R1dCazlKSVVSZC15SzE4SlJDdWMyZDRlYy04bXVmQ0dodXhJR0VhWHkwYkw1eWEzUnVSekEzOFJGNDBCME1ZUVFTTmIwZWJDVGZTR1BLdC0yVENuUE94UUFIQVZiWkVoYkgybU9fSVc1aGJ5TTB2S2d5X3ZwM1pEYkM2Wk5rclRGVXNoT2RDUWYzeWxVTjVwMERzWFY3d3pkZE9DT3hwdFF4dUhSMmNMYm9BMXZkNjk1VXFrZzA2VTdGajlRRk1XYw?oc=5
 
-- IMF growth revision reflects India's strong fundamentals: Piyush Goyal - The Economic Times
-  IMF growth revision reflects India's strong fundamentals
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWVZbE9kMGNYQlA0dG5jdnZQbDJvRlVLbjFKa0lZakFOa0ZxOTRxUE1qcG10OTFEcE5sNVo2RHJvZ241bDJGYUpLOE1PQnRIUWptcFlHT0ZSLUxPWE5xc2pNeVRTTGFqLVNoM2hwUDFyOGNxbXpPend2ekF2c2pmc1dPMmZmY3FPbnVEd183VkNXM0hFRUVrbXhRVUJRd3FUWGRUcGpOQTdIRlFrZDZsbVVMTHJSVVgwZnVYcFIzOUtQNGRwaEhyRkJhWEtNYVZkdldoc29tdHZ6WmNkR0wxbDY0SE0tUlo5aWNv0gHkAUFVX3lxTE5Kb0k2Ukl5UGcyVTVnUnQxb1BXS0ZaSWI5N3hDV29sSmNLM2hSMVc2XzVIWlZpQVl2T19EbS15R1hDTURWVHM0WUFfSXVUTEgzN1JzbnUtUkhyMWEzVE9TNGdCd256OUFiLTlqZThab1RaTFZvUUFrd2tYdTQ3ZVl2ZWE1R2tKNXRvcTdCZkFlaG1MVmlzeTc1RGpMeHhjMTlLLW5GWXZEcGJfbG9EdEVXUmo0OHBScGFPX2FDeG1lZllHbFNjaWxJQTJvVHFTXzllMThkVTFvZkNzZUxYTVBEN1c3TA?oc=5
+- Trump threw away US-India ties over Nobel bid, Pakistan money: Ex-US envoy - India Today
+  India Today: Trump threw away US-India ties
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOODhoempzWjZmTWpucDBUOGhVWDlpbjZDX3owdzBuQTIyaldVMk5mYjJJSUtJaTg1Mk5yamR0Sm5sZlNtRWYwQmNGNDU0Wk1oZkE2TEdtVTZCeUh5TGZqUnRPS09aMFJUNEMzV3N4NEVOZmo4R2d3U1lHZFpsaVJlTVJZSTNIMlV2S2NWYVBpVzkyVGZieVlVY0ZHSGVLcFV5UjBEbFpBRE5jUmJWQUJ3RF9Kak9xNm9xLW1ubTM2cjRvTTF2R1RQRVdhbENHdS1obXY1UkZmdTdjblIxZlRsNHVSY0p4aU10ek96aNIB8gFBVV95cUxOcG9jT1pwZGFvX1NRdEluQU5lSGJyX2Z3SnpJeUNjU0lvUEJCVTNIWkt3MFd1N1FObnpiSWttWDE0NlVBZ1BkbG40YmFKeFdRVkp4ejF0OS1WbEFaalNIX2w3MW5xbmFwQW9nM1F0NXdTTzBaTjJaT3ZTZHNSR1l6b0w0VzVqb1JLbW8tTF8zblYxeGVZRndVT1k0bkVnaFpNcUVsR3FBd1BaTEgwaEVya2JGYnNXQ3o0Z1hIQlRKU0NfZnRJdUhaRUlHX3FrZFR3SzVrYVlLZTg3WlFXUFgySF8wOHBRYzBYRkl3N2J2QTBsUQ?oc=5
 
-- BJP Announces All 101 Names For Bihar, Releases 3rd List Of 18 Candidates - NDTV
-  BJP Announces All 101 Names For Bihar, Releases
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPbE8wVmFreDFRNFg3SjJJdE1NQWZodTNwbUVxT0Y2SHA4YWNGSHhoX2NIaVZXRDFrYW1BSHFuLTRQdGtzS2Q4cU9GVXVrY3NjdmZGNl9FVHUwV20tSi1wSnlZMHJJRVpraE8wc25Ea1U4SXlWYkppMmV2YXZ4bHVjV1UzZVh5anNOTHJ5MGg5R0tjSXFxTnFwc2lUQll1dnIyeTZ0WEx2ZU5idTZzdTBDWVl1VGZ5c1BoRlHSAcIBQVVfeXFMUE0yNm5maWNnRmJIdlVLQjNFMGRtVUFQZmRUU2xtY01PQzVJdU1fMVMzSHpQamVILUJuWVRIMTVrR3BjMWRkR29KNnlZS3VlbFlRcFdZdHNtWl9YOHBGTGlmUGstRWdMdU4wREFlaFpCUE9keHBxdVNEdHUtclZWVHY4dTd0WGttSUE2UmRDLWh4RlByNWE4cVJ5ZHU5aDVHcVFEa01YdEVjQ0tpSURwellsanJNUklnTHQ5VjFld0FDa3c?oc=5
-
-- Good news on US-India deal likely, thanks to Trump's ‘rare’ tiff with China | Latest News India - Hindustan Times
-  Good news on US-India deal likely, thanks to Trump's ‘ra
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxObGRsOV9YZ2I3aW9lMXhyOF8tVW9UQ3djdzRHdVk4Y0YycVg1VGlBNmM0cXJxdXU3bS10eGI1WWtzVC1lT2h2RGRGT1U4VGwwM2hZdE5SNF9QckhpMnVHRl9OOC1sNGhLRG5EcWRzS2xZMDBhdXZ1TE1PbEE4cUpIQ1l1Qi0xTFA0a0FYYmRsQURySmUxUjY3SjdCaVE3NXg5R3EzRVBGVU1IekhWenlaY3hTNnFTMDNxWmV6Yi1wcmdvcnFKUkFiN2VRQS1QQdIB0wFBVV95cUxNakFYMGg3aUF4RGc3bzFLXzhJd19fM2s5V0VMZ3FaSnBCckswQUJrV0dpejZ5LTVnbjBHb01xdFVOY3pSbVNiNGZvNF8yREg1Sl9uLVVVRzhNZkt5VzhFYmFfbWwtMS1EVDVTVVpxLW41UUtfUXZyVEoyTktNRG9Jamd5TGg4ZDQ1Nkp5cjlZVWszMUNWckJ3a1FnODVOMlNvVnBpZmxwYlVUSEpoc2x4WVdZOWxzNXNlQkNYTHRFbzVnbVlXaGdLRDAxVHI2Q1ZsdXo0?oc=5
-
-- "Hang My Head In Shame": Javed Akhtar On "Reception" Given To Taliban Minister In India - NDTV
-  "Hang My Head In Shame": Javed Akhtar On
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUjdFT1FwVkV3TUNfbDUxUWVrSUIxTG5Ob2h5T3YwRHN3cEJvQ1ZVVFB4Q3EwV25xcGhjUFZRcGVEelFKQUZpVUhjdVg0Qm5qWjMweUZTbDRTRF9yZ3FZZXRLUW93X0ZnZENxcVRWUlZXSnpFd1UzQUdWWk5oRmdDeXJQdWplN3ZsNnF6VVhfRTJBcUZZRmQxNE1saFh3dFVla0RkbGdEOUZtd2FpaEhBeTU2VlhhSVkyeTR5cmF2YmNaSTFBLS1uMGdiUnNramZpNENwbHNtZDJnSUxLZkphOU12SWp1WDZIdkUw0gHzAUFVX3lxTE9aLVpnLUJjLXBlLVJuZmRTdFg1RWZoT1hCazN0aUk5a1dVbWNKQTMwcEtYWjBhOWVLLVhsZmx4aDVmeS1xelZrUURidDB0U05GVlJ6RmJLZ1RkbjZqanFNWjQtTFlvNkNubXVMVHF5c09ZMS1FbklZeEdKQS0yWDZhOG9weVkzWDRXdHVwZXVuSzNRX3pxb0FYQjdvZUs0Rng0RHpXTlJ4d3pDcV9qVEVkUjVRNGtQblpodDFnejFmYmpJZWlRTnY4c1R4dUw1R1ZRaWQ1ZEJObUhVaUxhNElQU1NscXo0TkxabmJJdW12eDdTMA?oc=5
-
-- Trump's High Praise For Asim Munir, Then An 'India' Question For Pak PM - NDTV
-  Trump's High Praise For Asim Munir,
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPTndIXzJfR3gzOXVHc0k2LUgtd2h2a0pXUmZXSUlyaWJSRVVzQnlNd21HZjRrT21zZ0JIdGNGMndmaXAwNmlTM0FZdHpkaEFPU0lpZG1nU0dKMXdydEs4eVM2emVJT0FTYjl4UUpNRHZZUFNFc1BIZGpDN1Q3Z2VNTjVOZlBqVGpzR2RwSHNjQV9UWGpYUmk1ZWhYVl83VHBEVlZocDJkX2pnM3NtelBMUWY0emUwWGU3NTljdUpValdzdFZKYUdBd2NsX1htSm8?oc=5
-
-- IMF growth revision reflects India's strong fundamentals: Piyush Goyal - The Economic Times
-  IMF growth revision reflects India's strong fundamentals
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWVZbE9kMGNYQlA0dG5jdnZQbDJvRlVLbjFKa0lZakFOa0ZxOTRxUE1qcG10OTFEcE5sNVo2RHJvZ241bDJGYUpLOE1PQnRIUWptcFlHT0ZSLUxPWE5xc2pNeVRTTGFqLVNoM2hwUDFyOGNxbXpPend2ekF2c2pmc1dPMmZmY3FPbnVEd183VkNXM0hFRUVrbXhRVUJRd3FUWGRUcGpOQTdIRlFrZDZsbVVMTHJSVVgwZnVYcFIzOUtQNGRwaEhyRkJhWEtNYVZkdldoc29tdHZ6WmNkR0wxbDY0SE0tUlo5aWNv0gHkAUFVX3lxTE5Kb0k2Ukl5UGcyVTVnUnQxb1BXS0ZaSWI5N3hDV29sSmNLM2hSMVc2XzVIWlZpQVl2T19EbS15R1hDTURWVHM0WUFfSXVUTEgzN1JzbnUtUkhyMWEzVE9TNGdCd256OUFiLTlqZThab1RaTFZvUUFrd2tYdTQ3ZVl2ZWE1R2tKNXRvcTdCZkFlaG1MVmlzeTc1RGpMeHhjMTlLLW5GWXZEcGJfbG9EdEVXUmo0OHBScGFPX2FDeG1lZllHbFNjaWxJQTJvVHFTXzllMThkVTFvZkNzZUxYTVBEN1c3TA?oc=5
-
-- BJP Announces All 101 Names For Bihar, Releases 3rd List Of 18 Candidates - NDTV
-  BJP Announces All 101 Names For Bihar, Releases
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPbE8wVmFreDFRNFg3SjJJdE1NQWZodTNwbUVxT0Y2SHA4YWNGSHhoX2NIaVZXRDFrYW1BSHFuLTRQdGtzS2Q4cU9GVXVrY3NjdmZGNl9FVHUwV20tSi1wSnlZMHJJRVpraE8wc25Ea1U4SXlWYkppMmV2YXZ4bHVjV1UzZVh5anNOTHJ5MGg5R0tjSXFxTnFwc2lUQll1dnIyeTZ0WEx2ZU5idTZzdTBDWVl1VGZ5c1BoRlHSAcIBQVVfeXFMUE0yNm5maWNnRmJIdlVLQjNFMGRtVUFQZmRUU2xtY01PQzVJdU1fMVMzSHpQamVILUJuWVRIMTVrR3BjMWRkR29KNnlZS3VlbFlRcFdZdHNtWl9YOHBGTGlmUGstRWdMdU4wREFlaFpCUE9keHBxdVNEdHUtclZWVHY4dTd0WGttSUE2UmRDLWh4RlByNWE4cVJ5ZHU5aDVHcVFEa01YdEVjQ0tpSURwellsanJNUklnTHQ5VjFld0FDa3c?oc=5
-
-- Good news on US-India deal likely, thanks to Trump's ‘rare’ tiff with China | Latest News India - Hindustan Times
-  Good news on US-India deal likely, thanks to Trump's ‘ra
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxObGRsOV9YZ2I3aW9lMXhyOF8tVW9UQ3djdzRHdVk4Y0YycVg1VGlBNmM0cXJxdXU3bS10eGI1WWtzVC1lT2h2RGRGT1U4VGwwM2hZdE5SNF9QckhpMnVHRl9OOC1sNGhLRG5EcWRzS2xZMDBhdXZ1TE1PbEE4cUpIQ1l1Qi0xTFA0a0FYYmRsQURySmUxUjY3SjdCaVE3NXg5R3EzRVBGVU1IekhWenlaY3hTNnFTMDNxWmV6Yi1wcmdvcnFKUkFiN2VRQS1QQdIB0wFBVV95cUxNakFYMGg3aUF4RGc3bzFLXzhJd19fM2s5V0VMZ3FaSnBCckswQUJrV0dpejZ5LTVnbjBHb01xdFVOY3pSbVNiNGZvNF8yREg1Sl9uLVVVRzhNZkt5VzhFYmFfbWwtMS1EVDVTVVpxLW41UUtfUXZyVEoyTktNRG9Jamd5TGg4ZDQ1Nkp5cjlZVWszMUNWckJ3a1FnODVOMlNvVnBpZmxwYlVUSEpoc2x4WVdZOWxzNXNlQkNYTHRFbzVnbVlXaGdLRDAxVHI2Q1ZsdXo0?oc=5
-
-- "Hang My Head In Shame": Javed Akhtar On "Reception" Given To Taliban Minister In India - NDTV
-  "Hang My Head In Shame": Javed Akhtar On
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUjdFT1FwVkV3TUNfbDUxUWVrSUIxTG5Ob2h5T3YwRHN3cEJvQ1ZVVFB4Q3EwV25xcGhjUFZRcGVEelFKQUZpVUhjdVg0Qm5qWjMweUZTbDRTRF9yZ3FZZXRLUW93X0ZnZENxcVRWUlZXSnpFd1UzQUdWWk5oRmdDeXJQdWplN3ZsNnF6VVhfRTJBcUZZRmQxNE1saFh3dFVla0RkbGdEOUZtd2FpaEhBeTU2VlhhSVkyeTR5cmF2YmNaSTFBLS1uMGdiUnNramZpNENwbHNtZDJnSUxLZkphOU12SWp1WDZIdkUw0gHzAUFVX3lxTE9aLVpnLUJjLXBlLVJuZmRTdFg1RWZoT1hCazN0aUk5a1dVbWNKQTMwcEtYWjBhOWVLLVhsZmx4aDVmeS1xelZrUURidDB0U05GVlJ6RmJLZ1RkbjZqanFNWjQtTFlvNkNubXVMVHF5c09ZMS1FbklZeEdKQS0yWDZhOG9weVkzWDRXdHVwZXVuSzNRX3pxb0FYQjdvZUs0Rng0RHpXTlJ4d3pDcV9qVEVkUjVRNGtQblpodDFnejFmYmpJZWlRTnY4c1R4dUw1R1ZRaWQ1ZEJObUhVaUxhNElQU1NscXo0TkxabmJJdW12eDdTMA?oc=5
-
-- Trump's High Praise For Asim Munir, Then An 'India' Question For Pak PM - NDTV
-  Trump's High Praise For Asim Munir,
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPTndIXzJfR3gzOXVHc0k2LUgtd2h2a0pXUmZXSUlyaWJSRVVzQnlNd21HZjRrT21zZ0JIdGNGMndmaXAwNmlTM0FZdHpkaEFPU0lpZG1nU0dKMXdydEs4eVM2emVJT0FTYjl4UUpNRHZZUFNFc1BIZGpDN1Q3Z2VNTjVOZlBqVGpzR2RwSHNjQV9UWGpYUmk1ZWhYVl83VHBEVlZocDJkX2pnM3NtelBMUWY0emUwWGU3NTljdUpValdzdFZKYUdBd2NsX1htSm8?oc=5
-
-- IMF growth revision reflects India's strong fundamentals: Piyush Goyal - The Economic Times
-  IMF growth revision reflects India's strong fundamentals
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWVZbE9kMGNYQlA0dG5jdnZQbDJvRlVLbjFKa0lZakFOa0ZxOTRxUE1qcG10OTFEcE5sNVo2RHJvZ241bDJGYUpLOE1PQnRIUWptcFlHT0ZSLUxPWE5xc2pNeVRTTGFqLVNoM2hwUDFyOGNxbXpPend2ekF2c2pmc1dPMmZmY3FPbnVEd183VkNXM0hFRUVrbXhRVUJRd3FUWGRUcGpOQTdIRlFrZDZsbVVMTHJSVVgwZnVYcFIzOUtQNGRwaEhyRkJhWEtNYVZkdldoc29tdHZ6WmNkR0wxbDY0SE0tUlo5aWNv0gHkAUFVX3lxTE5Kb0k2Ukl5UGcyVTVnUnQxb1BXS0ZaSWI5N3hDV29sSmNLM2hSMVc2XzVIWlZpQVl2T19EbS15R1hDTURWVHM0WUFfSXVUTEgzN1JzbnUtUkhyMWEzVE9TNGdCd256OUFiLTlqZThab1RaTFZvUUFrd2tYdTQ3ZVl2ZWE1R2tKNXRvcTdCZkFlaG1MVmlzeTc1RGpMeHhjMTlLLW5GWXZEcGJfbG9EdEVXUmo0OHBScGFPX2FDeG1lZllHbFNjaWxJQTJvVHFTXzllMThkVTFvZkNzZUxYTVBEN1c3TA?oc=5
-
-- BJP Announces All 101 Names For Bihar, Releases 3rd List Of 18 Candidates - NDTV
-  BJP Announces All 101 Names For Bihar, Releases
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPbE8wVmFreDFRNFg3SjJJdE1NQWZodTNwbUVxT0Y2SHA4YWNGSHhoX2NIaVZXRDFrYW1BSHFuLTRQdGtzS2Q4cU9GVXVrY3NjdmZGNl9FVHUwV20tSi1wSnlZMHJJRVpraE8wc25Ea1U4SXlWYkppMmV2YXZ4bHVjV1UzZVh5anNOTHJ5MGg5R0tjSXFxTnFwc2lUQll1dnIyeTZ0WEx2ZU5idTZzdTBDWVl1VGZ5c1BoRlHSAcIBQVVfeXFMUE0yNm5maWNnRmJIdlVLQjNFMGRtVUFQZmRUU2xtY01PQzVJdU1fMVMzSHpQamVILUJuWVRIMTVrR3BjMWRkR29KNnlZS3VlbFlRcFdZdHNtWl9YOHBGTGlmUGstRWdMdU4wREFlaFpCUE9keHBxdVNEdHUtclZWVHY4dTd0WGttSUE2UmRDLWh4RlByNWE4cVJ5ZHU5aDVHcVFEa01YdEVjQ0tpSURwellsanJNUklnTHQ5VjFld0FDa3c?oc=5
-
-- Good news on US-India deal likely, thanks to Trump's ‘rare’ tiff with China | Latest News India - Hindustan Times
-  Good news on US-India deal likely, thanks to Trump's ‘ra
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxObGRsOV9YZ2I3aW9lMXhyOF8tVW9UQ3djdzRHdVk4Y0YycVg1VGlBNmM0cXJxdXU3bS10eGI1WWtzVC1lT2h2RGRGT1U4VGwwM2hZdE5SNF9QckhpMnVHRl9OOC1sNGhLRG5EcWRzS2xZMDBhdXZ1TE1PbEE4cUpIQ1l1Qi0xTFA0a0FYYmRsQURySmUxUjY3SjdCaVE3NXg5R3EzRVBGVU1IekhWenlaY3hTNnFTMDNxWmV6Yi1wcmdvcnFKUkFiN2VRQS1QQdIB0wFBVV95cUxNakFYMGg3aUF4RGc3bzFLXzhJd19fM2s5V0VMZ3FaSnBCckswQUJrV0dpejZ5LTVnbjBHb01xdFVOY3pSbVNiNGZvNF8yREg1Sl9uLVVVRzhNZkt5VzhFYmFfbWwtMS1EVDVTVVpxLW41UUtfUXZyVEoyTktNRG9Jamd5TGg4ZDQ1Nkp5cjlZVWszMUNWckJ3a1FnODVOMlNvVnBpZmxwYlVUSEpoc2x4WVdZOWxzNXNlQkNYTHRFbzVnbVlXaGdLRDAxVHI2Q1ZsdXo0?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Trump claims he stopped India-Pakistan war through threat of 200% tariffs: ‘I got him on phone and said….’ - Mint
+  Trump claims he stopped India-Pakistan war through threat of 200% tariffs.
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTEJuOENVVDZyMGZ5MHg0NmtNVFFwWlVkTmY1RjJPT2xUME5JbkE4VnQtb2xPSEQyNFFkejFDTF91Sk5uOVJwRzgyTmIwc3B2dUxHY1ItNGMzNldfSFBsUGpieWhTY2d3VkNBTEoyUXpsV0pJb0gwUFNVa1BjdTAxSHNVLWxSOVYyRU16bXhwdzBweUVXdDJXSDJtVENwVno5dFFPOGNMclNxYjJTRGxIMHNYUWZ5RkN3Q1RuTWl2VzN2ZXNsTjN3RVRkTi13ajRFMDRVZXkxX1BFTm9za3FLaDQ3VnplS2Z0YUdXQ2NJWdIB9AFBVV95cUxNcmlmNkJPd1hPcUp4d2xESmNVdk53T0NKSmdYRlFrempveW5sTnVfbjVTX2NPUVV3b1lnSWJ6RDFHa3ZEQzBUUUxfVVB0TUZGRWxxQ1N0MktMYkRJN0NKNmpJZVFDOTZLUUdHU2E2X3FFTUxnYVkzTll5VWxLZXpPSWVrNnRxaW1OeVliRDU5dUtlUWYxS0cwckRqMDBqYjFxdjZwOEJoNklocTlNWTRPOEh3YnQ5YmRiVVBkaV9kcmFqLWtVS0xKZHZxMWhDSjZxUEtIYktjbFBCWTg5OGFIWDdTOHhtWUxqOU40MWVUdllCT3RQ?oc=5
 
 
-_Last updated: 2025-10-15 18:26:34 UTC_
+_Last updated: 2025-10-16 01:11:53 UTC_
