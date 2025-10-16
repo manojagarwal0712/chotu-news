@@ -1,164 +1,184 @@
 # 📰 Daily News Summaries
 
-- India counters Trump’s claim on Russian oil: No conversation between PM Modi and US President yesterday
+- Amid protests targeting immigrants, Australian minister has a message for Indians: ‘We stand by you. You belong here’
   
-  🔗 https://indianexpress.com/article/india/trump-claim-russian-oil-no-conversation-pm-modi-us-president-10310433/
+  🔗 https://indianexpress.com/article/india/australian-minister-message-for-indians-10311223/
 
-- From special trains to holding areas: Northern Railway steps up preparations for Diwali, Chhath puja
+- Dalit man ‘assaulted, urinated on’ in Madhya Pradesh after ‘objecting to illegal mining’
   
-  🔗 https://indianexpress.com/article/india/from-special-trains-to-holding-areas-northern-railway-steps-up-preparations-for-diwali-chhath-puja-10310326/
+  🔗 https://indianexpress.com/article/india/dalit-man-assaulted-urinated-on-in-madhya-pradeshs-katni-district-10311159/
 
-- Amid Google investment in Andhra and bumpy roads in Bengaluru, a ‘spicy’ jibe from Nara Lokesh
+- ‘There should be no double standards’: India responds to UK sanctions over Russian oil trade
   
-  🔗 https://indianexpress.com/article/india/google-investment-andhra-bumpy-roads-bengaluru-nara-lokesh-10310311/
+  🔗 https://indianexpress.com/article/india/india-uk-sanctions-russian-oil-no-double-standards-10311101/
 
-- Vande Bharat Sleeper train: Second rake arrives at ICF, trial run to begin soon – Check what’s new
+- Tipra Motha founder Pradyot Kishore to move Supreme Court over ‘denial’ of customary laws and land rights to tribals
   
-  🔗 https://indianexpress.com/article/india/vande-bharat-sleeper-train-second-rake-icf-trial-run-begin-10309810/
+  🔗 https://indianexpress.com/article/india/tipra-motha-founder-pradyot-kishore-to-move-supreme-court-over-denial-of-customary-laws-and-land-rights-to-tribals-10311044/
 
-- Public servant caught ‘taking Rs 10 lakh bribe’, CBI searches reveal Rs 2.62 crore cash, dozens of properties
+- Majority utilising Ayushman Bharat to seek care in private-sector hospitals at higher costs: Report
   
-  🔗 https://indianexpress.com/article/india/public-servant-caught-taking-bribe-cbi-searches-reveal-crore-cash-dozens-properties-10310253/
+  🔗 https://indianexpress.com/article/india/ayushman-bharat-private-sector-hospitals-higher-cost-report-10311119/
+
+- Oppo launches Find X9, Find X9 Pro in China with redesigned camera island and ColorOS 16
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/oppo-find-x9-find-x9-pro-china-coloros-16-10310900/
+
+- AI can plan your trip, but Indians still trust people more: Qlik report
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-can-plan-your-trip-but-indians-still-trust-people-more-qlik-report-10310843/
+
+- Instagram’s new Restyle feature lets you add festive Diwali effects to photos, videos
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/instagrams-new-restyle-feature-lets-you-add-festive-diwali-effects-to-photos-videos-10310831/
+
+- Dyson unveils Purifier Cool PC1, its advanced air purifier: Price and specs
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/dyson-unveils-purifier-cool-pc1-its-advanced-air-purifier-price-and-specs-10310782/
 
 - ASUS launches ROG Xbox Ally and Ally X handhelds in India: Price, specs, features
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/asus-launches-rog-xbox-ally-and-ally-x-handhelds-in-india-price-specs-10310575/
 
-- Vivo globally launches its next-generation operating system, OriginOS 6
+- ‘Tougher world outside India’: Uday Kotak's strong advice to Indians in Diwali message amid US tariffs, global tensions
+  Uday Kotak, founder of Kotak Mahindra Bank, urges Indians to
+  🔗 https://www.livemint.com/companies/people/tougher-world-outside-india-uday-kotaks-strong-advice-to-indians-in-diwali-message-amid-us-tariffs-global-tensions-11760633147668.html
+
+- Global power sector struggling on broken supply chains, component crunch: Hitachi Energy CEO
+  Hitachi Energy's global CEO highlights the challenges of balancing supply and demand amid rising electricity needs, particularly in India. Globally, the power sector is grappling with
+  🔗 https://www.livemint.com/companies/hitachi-energy-india-investment-global-transformer-shortage-supply-crunch-11760610175920.html
+
+- LVMH-backed L Catterton invests around $30 million in Healing Hands Clinic
+  This marks the first external funding for Healing Hands, which has so far been bootstrapped since its founding in
+  🔗 https://www.livemint.com/companies/lvmh-l-catterton-30-million-healing-hands-clinic-healthcare-proctology-laser-treatment-clinic-medicine-patient-care-11760621644218.html
+
+- Infosys fares better than expected, steers clear from big-bang AI announcements
+  TCS and Wipro have seen their revenue decline in the first half of the fiscal year. HCL Tech, Infosys and Tech Mahindra have seen growth. The decline does not portend
+  🔗 https://www.livemint.com/companies/infosys-fares-better-ai-layoffs-wipro-tcs-jobs-inflation-trump-it-firms-tech-mahindra-hcl-11760622132631.html
+
+- Nestlé India sees profit dip but strong sales growth amid GST adjustments
+  Nestlé India’s September-quarter profit fell 23.6% to  ₹753.2 crore. Sales rose 10.9
+  🔗 https://www.livemint.com/companies/news/nestl-india-profit-decline-strong-sales-growth-gst-adjustments-exceptional-costs-q2-higher-raw-material-prices-11760611245554.html
+
+- Gita Gopinath's stark warning: World’s reliance on US equities could deepen impact of next market crash — what she said
+  The American stock market is near an all-time high, driven by enthusiasm for AI, but risks a painful correction similar to the dotcom crash
+  🔗 https://www.livemint.com/market/gita-gopinaths-stark-warning-world-s-reliance-on-us-equities-could-deepen-impact-of-next-market-crash-what-she-said-11760630192378.html
+
+- Eternal share price in focus: Will Friday bring a rebound or more selling pressure?
+  Eternal, Zomato's parent company, saw a 2% drop in shares to  ₹347 after reporting a significant net profit decline. Investor sentiment was affected by cautious growth outlook
+  🔗 https://www.livemint.com/market/stock-market-news/eternal-share-price-in-focus-will-friday-bring-a-rebound-or-more-selling-pressure-11760625621280.html
+
+- Gold price today: Rates hit a new high of $4,289 on Comex as investors seek safe-haven asset amid US-China trade tension
+  Gold futures at New York hit a fresh all-time high of $4,289.90 per ounce on Thursday, 16 October 2025. Here
+  🔗 https://www.livemint.com/market/commodities/gold-price-today-rates-hit-a-new-high-of-4-288-on-comex-as-investors-seek-safe-haven-asset-amid-us-china-trade-tension-11760627360076.html
+
+- Infosys ADR shares crash 4% on NYSE after Q2 results, hit 6-month low as decline extends to third day
+  Infosys American Depository Receipt (ADR) dropped 4% to $15.82 on the NYSE, marking its lowest level
+  🔗 https://www.livemint.com/market/infosys-adr-shares-crash-4-on-nyse-after-q2-results-hit-6-month-low-as-decline-extends-to-third-day-11760622803780.html
+
+- What could stop the gold rally in its tracks? Not much.
+  Central banks and private investors have driven demand for gold. Jamie Dim
+  🔗 https://www.livemint.com/market/commodities/what-could-stop-the-gold-rally-in-its-tracks-not-much-11760619347556.html
+
+- OnePlus launches Android 16 powered OxygenOS 16 in India: Top 5 features you should know
+  OxygenOS 16 has been launched by OnePlus in India. Android 16 introduces fluid animations
+  🔗 https://www.livemint.com/technology/tech-news/oneplus-launches-android-16-powered-oxygenos-16-in-india-here-are-top-5-features-you-should-know-11760628557178.html
+
+- ‘Hey Copilot’: Microsoft gives Windows 11 a voice, vision and action with new AI features
+  As Windows 10 ends, Microsoft upgrades Windows 11 with Copilot AI. Features like conversational interactions and task automation promise improved user
+  🔗 https://www.livemint.com/technology/tech-news/hey-copilot-microsoft-gives-windows-11-a-voice-vision-and-action-with-new-ai-features-11760623250462.html
+
+- OTT accessibility guidelines for hearing, visually impaired to be finalised in 3 months: Delhi HC told
+  TT accessibility guidelines for hearing, visually impaired to be final
+  🔗 https://www.livemint.com/technology/tech-news/ott-accessibility-guidelines-for-hearing-visually-impaired-to-be-finalised-in-3-months-delhi-hc-told-11760623672866.html
+
+- 90% of code at Anthropic now written by AI, CEO Dario Amodei says humans still essential
+  Anthropic CEO Dario Amodei revealed that 90% of the startup's code is now generated by AI models. He emphasized that this shift allows engineers to focus on more complex tasks
+  🔗 https://www.livemint.com/technology/tech-news/90-of-code-at-anthropic-now-written-by-ai-ceo-dario-amodei-says-humans-still-essential-11760608331609.html
+
+- Sam Altman defends ChatGPT’s ‘Adult Mode’ plans, says OpenAI isn’t the ‘moral police of the world’
+  OpenAI's Sam Altman explained that the Adult Mode for ChatGPT is designed to increase user freedom, with safeguards for minors. He stated that the company is not responsible for
+  🔗 https://www.livemint.com/technology/tech-news/sam-altman-defends-chatgpt-s-adult-mode-plans-says-openai-isn-t-the-moral-police-of-the-world-11760614684782.html
+
+- ET Market Watch: Sensex jumps 862 pts as private banks, earnings optimism drive rally
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/vivo-globally-launches-its-next-generation-operating-system-originos-6-10310461/
+  🔗 https://economictimes.indiatimes.com/markets/stocks/etmarkets-podcast/et-market-watch-sensex-jumps-862-pts-as-private-banks-earnings-optimism-drive-rally/podcast/124610250.cms
 
-- Tron: Ares shows why big tech’s AI obsession could be humanity’s undoing
+- Waaree Energies Q2 Results: Cons PAT skyrockets 133% YoY to Rs 842 crore, revenue surges 70%. Check dividend
+  Waaree Energies reported a 133% surge in consolidated Q2 net profit, reaching Rs 842 crore. The company's revenue also saw a significant 70% jump to Rs 6,066 crore.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/waaree-energies-q2-results-cons-pat-skyrockets-133-yoy-to-rs-842-crore-revenue-surges-70-check-dividend/articleshow/124609801.cms
+
+- IOB Q2 Results: Profit jumps 58% YoY to Rs 1,226 crore as provisions drop
+  Indian Overseas Bank posted a 58% YoY rise in Q2 net profit to Rs 1,226 crore. Asset quality strengthened, with gross NPA falling
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/iob-q2-results-profit-jumps-58-yoy-to-rs-1226-crore-as-provisions-drop/articleshow/124609417.cms
+
+- Ahead of Market: 10 things that will decide stock market action on Friday
+  Nifty inching closer to its 52-week high amid strong buying in financials, autos, and consumer durables. Optimism over Q3 earnings revival, renewed F
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/124609368.cms
+
+- Eternal Q2 Results: Profit falls 63% to Rs 65 cr; revenue jumps 183%
   
-  🔗 https://indianexpress.com/article/technology/opinion-technology/tron-ares-shows-why-big-techs-ai-obsession-could-be-humanitys-undoing-10310337/
-
-- Diwali 2025 gifting ideas: Bluetooth speakers, smartwatches, air purifiers, and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/diwali-2025-gifting-ideas-bluetooth-speakers-smartwatches-air-purifiers-10310210/
-
-- As AI fuels layoffs, Meta brings back local job listings on Facebook Marketplace
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-brings-back-local-job-listings-facebook-marketplace-10309860/
-
-- Swiggy Instamart to deliver 1 kg silver bricks, up to 10 gram gold in select metro cities on Dhanteras - check details
-  Swiggy Instamart will deliver 1kg silver bricks and gold/silver coins in select metro cities. Partnering with various brands, they offer certified coins and an expanded range of utensils
-  🔗 https://www.livemint.com/companies/news/swiggy-instamart-to-deliver-1-kg-silver-bricks-upto-10-gram-gold-in-selected-metro-cities-on-dhanteras-check-details-11760607529074.html
-
-- Kuku raises $85 million in Granite Asia-led Series C round
-  The amount will be used to strengthen Kuku FM’s AI and data infrastructure, hire across technology and content
-  🔗 https://www.livemint.com/companies/start-ups/granite-asia-leads-85-mn-series-c-round-in-kuku-fm-krafton-ifc-join-11760607205482.html
-
-- Nestle layoffs: These 7 companies have announced massive job cuts in the last 10 months
-  Nestle SA is planning to cut 16,000 jobs in the next two years. The CEO aims to turn the company around by cutting costs.
-  🔗 https://www.livemint.com/companies/news/nestle-layoffs-these-7-companies-have-announced-massive-job-cuts-in-the-last-10-months-11760606213509.html
-
-- Reliance Q2 earnings: Investors have been patient, will Mukesh Ambani reward them?
-  Investors are hopeful for a turnaround following a period of stagnant growth. With improved margins in the O2C business and strong performance from J
-  🔗 https://www.livemint.com/companies/reliance-industries-q2-earnings-preview-11760601571335.html
-
-- 'Won't be surprised if we run out': Tanishq CEO says sky-high gold prices have not dampened festive demand
-  CEO of Titan’s Jewellery Division, Ajoy Chawla said
-  🔗 https://www.livemint.com/companies/dhanteras-wont-be-surprised-if-we-run-out-tanishq-ceo-sky-high-gold-prices-have-not-dampened-festive-demand-diwali-11760603901909.html
-
-- Can Indian bond market hold its ground in a 'risk-off' environment?
-  India’s bond market remains well-positioned in an otherwise uncertain global environment, says Vineet Agrawal, Co-founder
-  🔗 https://www.livemint.com/market/bonds/can-indian-bond-market-hold-its-ground-in-a-risk-off-environment-11760616868819.html
-
-- Indian Overseas Bank Q2 Results: Firm reports record profit of  ₹1,226 crore, up 58% YoY
-  Indian Overseas Bank Q2 Results: The bank's operating profit increased by 12.78% to  �
-  🔗 https://www.livemint.com/market/stock-market-news/indian-overseas-bank-q2-results-firm-reports-record-profit-of-rs-1-226-crore-up-58-yoy-11760614769256.html
-
-- South Indian Bank Q2 Results: Profit rises 8% YoY to  ₹351 crore on higher non-interest income
-  South Indian Bank Q2 Results: The bank's performance was marked by improvements in
-  🔗 https://www.livemint.com/market/stock-market-news/south-indian-bank-q2-results-profit-rises-8-yoy-to-rs-351-crore-on-higher-non-interest-income-11760610744289.html
-
-- Intel, AMD Equity Giveaways Send Stocks Soaring Despite Dilution
-  New shares are usually considered a recipe for souring sentiment as stockholders get diluted. But in this go-go artificial
-  🔗 https://www.livemint.com/market/stock-market-news/intel-amd-equity-giveaways-send-stocks-soaring-despite-dilution-11760612885561.html
-
-- Axis Bank Q2 profit miss: Why the market isn’t worried
-  Margins held up despite RBI rate cuts, loan growth outpaced peers
-  🔗 https://www.livemint.com/market/mark-to-market/axis-bank-q2-profit-miss-investors-rbi-asset-quality-11760605648044.html
-
-- Who is Tomonobu Itagaki? Legendary developer and creator of ‘Ninja Gaiden’ and ‘Dead or Alive’, dies at 58
-  Tomonobu Itagaki was known for Dead or Alive and Ninja Gaiden. He worked at Tecmo until 2008, later founding his own studios.
-  🔗 https://www.livemint.com/technology/tech-news/who-is-tomonobu-itagaki-legendary-developer-and-creator-of-ninja-gaiden-and-dead-or-alive-dies-at-58-11760616811147.html
-
-- iQOO 15 with Snapdragon 8 Elite Gen 5 processor, OriginOS 6 launching in India in November: Here's what to expect
-  iQOO will launch its flagship iQOO 15 in India next month. The device will make its debut in china on 20 October.
-  🔗 https://www.livemint.com/technology/tech-news/iqoo-15-with-snapdragon-8-elite-gen-5-processor-originos-6-launcing-in-india-in-november-h-11760609503502.html
-
-- What Climate Tech is Overhyped and What’s Not
-  Venture capitalist Shayle Kann joins Akshat
-  🔗 https://www.livemint.com/technology/tech-news/what-climate-tech-is-overhyped-and-what-s-not-11760609202956.html
-
-- Mint Explainer | When AI turns adult: the ethics of erotica in chatbots
-  OpenAI plans to permit erotic content for age-verified adult ChatGPT users. Part of his new rule is to treat adults like adults. Is this a sensible evolution
-  🔗 https://www.livemint.com/technology/chatgpt-adult-content-openai-erotic-content-ai-chatbots-sam-altman-11760599971493.html
-
-- YouTube down? Thousands of users report issues with video streaming platform
-  Users expressed their concerns on social media, questioning if the outage was universal or isolated. Service problems have hit YouTube, as indicated by over
-  🔗 https://www.livemint.com/technology/tech-news/youtube-down-thousands-of-users-report-issues-with-video-streaming-platform-11760604104720.html
-
-- LTIMindtree Q2 Results: Cons PAT jumps 12% YoY to Rs 1,401 crore, revenue up 10%
-  LTIMindtree reported a 12% year-on-year jump in consolidated Q2 net profit to Rs 1,401 crore. The IT
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/ltimindtree-q2-results-cons-pat-jumps-12-yoy-to-rs-1401-crore-revenue-up-10/articleshow/124605133.cms
-
-- Phishing attack hits Zerodha’s Nithin Kamath, ‘one slip of the mind’ is all it took
-  Zerodha CEO Nithin Kamath's personal Twitter account was compromised via a phishing attack. Despite two-factor authentication, attackers accessed one login session, posting scam crypto links.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/phishing-attack-hits-zerodhas-nithin-kamath-one-slip-of-the-mind-is-all-it-took/articleshow/124604729.cms
-
-- Vijay Kedia's portfolio multibagger surges 20%, extends rally to 30% in three sessions
-  Global Vectra shares surged 20% to Rs 243.14 on the NSE, marking a third consecutive session of gains and a 31% rally over this period. The rise followed ace investor Vijay Kedia
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedias-portfolio-multibagger-surges-20-extends-rally-to-30-in-three-sessions/articleshow/124604637.cms
-
-- Infosys announces Rs 23 per share interim dividend. Check payout and record dates
-  Infosys has announced an interim dividend of Rs 23 per equity share. The record date for this dividend is October 27, 2025. This announcement coincides with Infosys's Q2 earnings report. The company reported a 13% year
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/infosys-announces-rs-23-per-share-interim-dividend-check-payout-and-record-dates/articleshow/124603030.cms
-
-- Infosys Q2 Results: Profit jumps 13% YoY to Rs 7,364 crore, revenue up 9%
-  Infosys announced strong financial results for the second quarter of FY26. Net profit saw a 13% year-on-year increase to Rs 7,364 crore. Revenue from operations grew by 9% to Rs 44,490 crore
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-q2-results-profit-jumps-13-yoy-to-rs-7364-crore-revenue-up-9/articleshow/124602906.cms
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/eternal-q2-results-profit-falls-63-to-rs-65-cr-revenue-jumps-183/videoshow/124609155.cms
 
 - India Responds To Trump's Claim That PM Modi Made A Russian Oil Promise - NDTV
   India Responds To Trump's Claim That PM Modi Made
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR1lLNkJJX2J1M0hQUHNZRWNWdjJSM1JtUzhzSFIyRWdfZ2dWeGpnNGxfZUFSR25CeUNRSjNLN0xCeXZHMGNUNURZa0FhOWpQUk5aWDdGRHNQaVRQcnBQN2hBYU5iM1h4WWwyb2pwUTJzclNpTE93T3M2dU95dVJjNEtmT0I5bWN4cDRDaVBRR2VNcHZrSWoyOHJVWEMzdVg1TUY3OG5maTYyXzhnOE9qUWlfVHNyMGZ4TVJvYThYYjd6YndzU2tpZV84NjItcUlKN1ZucdIB3AFBVV95cUxOXzl2ODlfMVFlM2R2bkxnbFZEYVhXTzhKN0s4bXhPMS10TkdxWHp0aGVmNmlpV0VxU0Vud1pDZmlJMUY4U1dZWXJlem90MGxZaHFpUEtQQlJ1LU94WGh0V2l2SVdyLUVlQkRwNWdOZldfeDBXT3daSnpYX3JndzRJUDI2V2Z0NWs3eFdFd2x4ZUhVRU5XNWQyYmNBNGI0Q0l3RENyWkxnTE1wcnhPcTFMZ0o0S3N0M2lDcndPWXlSektFb0VQNllwYkF2U2VsdTA4MmRqczhBMkpINUNz?oc=5
 
-- 'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian oil claim; launches 5-point attack - The Times of India
-  'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian oil
+- 'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian oil claim; launches 5-point attack - Times of India
+  'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian
   🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeVRkWld5VEZMcmowRmd3RktrUUZfeURWbnlObVo5OGc1RDhhM2JHY2E0Wmp0MHRLa296OWVha2I1bDBDUUJSd0d5ZlBCaVNQQ3FNNHJqOEtNU25za1pxbzl5ODRobVVIWXNzVVdFOTlLLWItVlp3QUMyQ0NWTFE3N0pYc2JTQTlheUVPUXp2ZkVzaHFzX20zSFdJbW5jdVBWUmNXSnpvdUJEM1RqeFE0Z2NYY1QtOHRxSXBCdVd6d3RvejQ3QklDYmpJRWhweXdFS0ZwUnhyLVFQM3E0Yzd2SE9iRkN6d1pmay1EeHpzZVHSAfYBQVVfeXFMTl8ySkMzVHZMR1lyUUdFMnpqRHc1ZlJHcVBmVEdIWG9KR3FmQkJLRlpySzNoSEhTSEJiUDlWRFRQZWRsUll4bW1Ga0p6dzZROHJRSmIwdmRVc2tpeE1KczFBVkoxQTNKTFAwaTRsemc2d0VfR0Z3R0xwamJEMjNxdjZNbVVLWlE0aldhbFhiVkozdGM5VFJYNm9OdnJUTmxpUHVqTHBVNXlyVW1EdE5fRGZJY2hXbEtUYldvcFR0VVZvbmFlTUZoZlpPTEZuR0U1bVA0NExQRnR1R0pWNXJYMjVjazBFcDdKT3lwTTVxaUZySDVPT2hB?oc=5
 
-- No proposal from MNS on joining INDIA bloc: Maharashtra Congress Prez Sapkal | Latest News India - Hindustan Times
-  No proposal from MNS on joining INDIA bloc: Maharashtra Congress Prez
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb1BxaGIyQVRMalRMSFdqMTR4YmJ1VzR2eENRRGFQdGNnR2Z5cUViTlJBLThBcnpxMi1zVHd4ejk4anZTd2VFaF84TVpYcWFRY0drNFpQS3E5WnRWMFlLNGJjMlh2V0RvbG1tUmV6ZzdmdzRnd0phQmVxSHRXVXdabk56SmFIdUhNVkNNLWY3OE5uQmRYR3Z3aTBpcmhWaTgzWWtNOVFQTDB6NVI1TW1KbDh1NF9WMkNUQ1FNQlpIbDB2a1RvcTdWZWRkc1Jhb25aR29OR9IB2gFBVV95cUxNS3FnZTVRS0FoU0kteWJwN0pqNGxoS0Y4dVRwWHVUUlRXcTdJWkVOb3RMM2RVNUZLVi0yeERtd3dRWEdvX0VPTEIzZzRHelJranhYSUZncUdzdEdqNlJueXhQdGJ3aDhaTGlFMWRLUHZrREhZLXRHcFpYN2hxa0R6Nmc3RE9GdUk3cUVVZjRWN3NsbDdZWEpxOURPTGRBbFFnRm1mcTZZQjV1bzhDdTU0TW9jRmItS3dqOEd1M1hpcnVNR3pYRU1BX3JhbngxX19WX1pqdVFveG4xdw?oc=5
+- Congress Releases First List For Bihar, State Chief To Contest From Kutumba - NDTV
+  Congress Releases First List For Bihar, State Chief To
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOS0lxTXZ5ZzY2bENxRVpSWU1uRDFmMEgtYjFXbXFia3l6UlMyV3NfNUpWU3BObGhTQWdJenBJZ2x6SFhPZUF1UGRSNGVJbWNMVXBLTUtWdHhDNzduTDlMUG1GLUlxeG52WFpYY0dXUnRNcURsMDJBNmVzV2E4SndDWEZicEdTNVV4d3NZRm9Gb3ozUEdmLXA2Vmk3NS16LVRQYWo1LUoxY1lXeU1seHoyYXZHbl_SAbwBQVVfeXFMUFV2bkNoRnhNcGRJVVJMOFptd3RCU2ZtVWltWEY3MWlmakJZUWZHVGlNd29xU2VkbklFeFhzaUpVMGp4Rmh3Z3p1aVQ1T1V5UVRzUDAtUmpwZmRaUUNuOVN3REZub2VFcllhUFlvTmwzUmJlb2JUM0hMZS1JUVI4NzR4V2ZZV2l6VmVDekY4d2Z2QXh5OTJlV0VUdF9LQ1ZIMlhOWjRwM184cHdiay14ZHNxWEhLdTJRb1pQcXc?oc=5
 
-- India reacts to Pakistan-Afghanistan border conflict, says Islamabad ‘hosts terrorist’: ‘Three things are clear...’ - Mint
-  India reacts to Pakistan-Afghanistan border conflict, says
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSkxRVGpqcmEwUjhtTmtPUkRIU3hVdU1aTVJfNGNjQ1pFZ2NmUk5BZC1iQzNEamFnSTFfSjAta1hTSFhJRzZpWFI3UDRjZjM3UzBZZnlUdFdtTmZFcTA3V0x5YTBoWjJ5X1VtOTYyRmRYYzBOcGE4eERLQkc0UGxub3JKdUVHd3FLREt3QTQyS25kTllSdzJzazYzeVhTNGNNVHY1N2JwQ0VzUUwzM01lQmdwT2RGSDJqTkowV0xLQnV3dWpucXB4cjE2ZGxzVlc4cGQ3UUJrTEhlR0pRTXRYV2doT3gyWWJGTmxWMGRSNW52N3FK0gH6AUFVX3lxTE5kSjJySXlncERvVVNfSnAzT3ZkZDM3RlJzeC1TRlFSMjZSLTRjUFBzNVppQ1YzZ1kwSVNOMUEtWnhCMDU0ZnRxYjhuTzd1cERUd1ZnLTFNYUxCTjNnQmd0R0FGZTk4ZXFYdHd3X2FBU1BWT3B1S2JGUlN6aUVhSTNCdFpoY1RxLUlWeGwxeC1tZnctX1JxTy15bG1RLTdPLXhZc0tkbjA4TjRwaDRnNzMyV3I1MzVORVVEUldiMk9xWlZ1U3FqV1VrZ1pIclRyZmh3NG16V3EzODhRTUlybmpGMElFVDV2SFRfSm11TjY4LXhmbS1lT1NUbFE?oc=5
+- News Today Live Updates, 16 October | Italian news publishers demand probe into Google AI overviews, calling it a ‘traffic killer’ - The Indian Express
+  The Indian Express is one of the first to report on Google’s new search engine.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDk4cElhUk9rMjdwTk4ya05LV3FxTmtMRGh4UV9LU0lNUTV0dHgzU1Jva0YyYy1ZY3lnOEZJMlBkVlNrWEF6VGJXZzNvZzA5RXdKMnFQVFYySEN6aUtyQXJ3RHk2bUpCVHRkZ285QXJsOFhNM2V1MnRlay1LYkhDQlFxUmppTlZKUkV3dDVseE9WejNiZkNwRWpqR0pqT3huaE1kX3JPeTNVcFpqU2ZDWXpfazZiQ3ROTkg1a3MySUdzZ1VRVWRyU09qbGFUcFZwbGtKVXgwNmdiUUZFWk5Pa2h2OXlsMzlE0gHvAUFVX3lxTFB2Yl9MREwydE50ZDJMeEEzczdaVUJjNjdRbUFHMDYzRDE4bFlKa213S3pLcGN2NXNJQnhkZ1QtY29rYnFGcTd1MXM3c1pyT2J6Rjg3c2VmLXpZN0xuQUUxUnVQc0VZSHR1bk9xR0hQandQdl9MaWZZRHluNHo5QVFhaU9IMjZLRnF0a0JGdHZEZ1ZsM3p1bVpIOUNzN1hRSnYwX0E5Z09Jemsyb054Q3ppd0ZTTkxzU1lCb0NZXzlBem5oUmhzODJ3bEVKRDlJQWRnUW8yeGxleUV3b21VOElCQUJOWDZKMVAwTG5XMUln?oc=5
 
-- In Pics: A Look At Mongolian President's 4-Day Visit To India - NDTV
-  Mongolian President's 4-Day
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYllOUkE5S3Z4bHVNbGtrNzlxQ1ljV2VhMjBXekpUeGc5alQxZWZiRHl5OXd3SUdORFhJcDQySmlia3NwVXJQcnV3ampxVnNLc1o4UV8xU1RLeE8zenRNNlk5aExnU3JMTFlBWG83ZGpRX1diS3AzRUwxdjN1TzNwS0pObERCXzBVeTdqV012V2J6aVhzdHhIcUFia2lIVlZFSDZXYUNJNlh0NUs3bVNGdm5SVlhyT0NG0gHAAUFVX3lxTE1zUEVTRGs2OG9QaTJhaEZSRkgwZ2NmaGZRZUhMRHpGRXBWWWVrbnN4b1RlM3FSVGtEcFZXVVRhYzdhNXdfMy1BN1NpeVhzdm82S0NBMTBpY0dDWWF6eUxSM1lRUXJEczBTX1lNdzBUblhQSGNsaHVmVE1HMmJSckhPemRMTzZUYjQ5UVNSWTJKdkNIc0YxckphYzY5N01RSkFRbjhDSUQ5LTloNnVfS1hubzhSUk9WU1ZnTjBEb3VxbQ?oc=5
+- Good news on US-India deal likely, thanks to Trump's ‘rare’ tiff with China | Latest News India - Hindustan Times
+  Good news on US-India deal likely, thanks to Trump's ‘ra
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxObGRsOV9YZ2I3aW9lMXhyOF8tVW9UQ3djdzRHdVk4Y0YycVg1VGlBNmM0cXJxdXU3bS10eGI1WWtzVC1lT2h2RGRGT1U4VGwwM2hZdE5SNF9QckhpMnVHRl9OOC1sNGhLRG5EcWRzS2xZMDBhdXZ1TE1PbEE4cUpIQ1l1Qi0xTFA0a0FYYmRsQURySmUxUjY3SjdCaVE3NXg5R3EzRVBGVU1IekhWenlaY3hTNnFTMDNxWmV6Yi1wcmdvcnFKUkFiN2VRQS1QQdIB0wFBVV95cUxNakFYMGg3aUF4RGc3bzFLXzhJd19fM2s5V0VMZ3FaSnBCckswQUJrV0dpejZ5LTVnbjBHb01xdFVOY3pSbVNiNGZvNF8yREg1Sl9uLVVVRzhNZkt5VzhFYmFfbWwtMS1EVDVTVVpxLW41UUtfUXZyVEoyTktNRG9Jamd5TGg4ZDQ1Nkp5cjlZVWszMUNWckJ3a1FnODVOMlNvVnBpZmxwYlVUSEpoc2x4WVdZOWxzNXNlQkNYTHRFbzVnbVlXaGdLRDAxVHI2Q1ZsdXo0?oc=5
 
 - India Responds To Trump's Claim That PM Modi Made A Russian Oil Promise - NDTV
   India Responds To Trump's Claim That PM Modi Made
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR1lLNkJJX2J1M0hQUHNZRWNWdjJSM1JtUzhzSFIyRWdfZ2dWeGpnNGxfZUFSR25CeUNRSjNLN0xCeXZHMGNUNURZa0FhOWpQUk5aWDdGRHNQaVRQcnBQN2hBYU5iM1h4WWwyb2pwUTJzclNpTE93T3M2dU95dVJjNEtmT0I5bWN4cDRDaVBRR2VNcHZrSWoyOHJVWEMzdVg1TUY3OG5maTYyXzhnOE9qUWlfVHNyMGZ4TVJvYThYYjd6YndzU2tpZV84NjItcUlKN1ZucdIB3AFBVV95cUxOXzl2ODlfMVFlM2R2bkxnbFZEYVhXTzhKN0s4bXhPMS10TkdxWHp0aGVmNmlpV0VxU0Vud1pDZmlJMUY4U1dZWXJlem90MGxZaHFpUEtQQlJ1LU94WGh0V2l2SVdyLUVlQkRwNWdOZldfeDBXT3daSnpYX3JndzRJUDI2V2Z0NWs3eFdFd2x4ZUhVRU5XNWQyYmNBNGI0Q0l3RENyWkxnTE1wcnhPcTFMZ0o0S3N0M2lDcndPWXlSektFb0VQNllwYkF2U2VsdTA4MmRqczhBMkpINUNz?oc=5
 
-- 'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian oil claim; launches 5-point attack - The Times of India
-  'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian oil
+- 'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian oil claim; launches 5-point attack - Times of India
+  'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian
   🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeVRkWld5VEZMcmowRmd3RktrUUZfeURWbnlObVo5OGc1RDhhM2JHY2E0Wmp0MHRLa296OWVha2I1bDBDUUJSd0d5ZlBCaVNQQ3FNNHJqOEtNU25za1pxbzl5ODRobVVIWXNzVVdFOTlLLWItVlp3QUMyQ0NWTFE3N0pYc2JTQTlheUVPUXp2ZkVzaHFzX20zSFdJbW5jdVBWUmNXSnpvdUJEM1RqeFE0Z2NYY1QtOHRxSXBCdVd6d3RvejQ3QklDYmpJRWhweXdFS0ZwUnhyLVFQM3E0Yzd2SE9iRkN6d1pmay1EeHpzZVHSAfYBQVVfeXFMTl8ySkMzVHZMR1lyUUdFMnpqRHc1ZlJHcVBmVEdIWG9KR3FmQkJLRlpySzNoSEhTSEJiUDlWRFRQZWRsUll4bW1Ga0p6dzZROHJRSmIwdmRVc2tpeE1KczFBVkoxQTNKTFAwaTRsemc2d0VfR0Z3R0xwamJEMjNxdjZNbVVLWlE0aldhbFhiVkozdGM5VFJYNm9OdnJUTmxpUHVqTHBVNXlyVW1EdE5fRGZJY2hXbEtUYldvcFR0VVZvbmFlTUZoZlpPTEZuR0U1bVA0NExQRnR1R0pWNXJYMjVjazBFcDdKT3lwTTVxaUZySDVPT2hB?oc=5
 
-- No proposal from MNS on joining INDIA bloc: Maharashtra Congress Prez Sapkal | Latest News India - Hindustan Times
-  No proposal from MNS on joining INDIA bloc: Maharashtra Congress Prez
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb1BxaGIyQVRMalRMSFdqMTR4YmJ1VzR2eENRRGFQdGNnR2Z5cUViTlJBLThBcnpxMi1zVHd4ejk4anZTd2VFaF84TVpYcWFRY0drNFpQS3E5WnRWMFlLNGJjMlh2V0RvbG1tUmV6ZzdmdzRnd0phQmVxSHRXVXdabk56SmFIdUhNVkNNLWY3OE5uQmRYR3Z3aTBpcmhWaTgzWWtNOVFQTDB6NVI1TW1KbDh1NF9WMkNUQ1FNQlpIbDB2a1RvcTdWZWRkc1Jhb25aR29OR9IB2gFBVV95cUxNS3FnZTVRS0FoU0kteWJwN0pqNGxoS0Y4dVRwWHVUUlRXcTdJWkVOb3RMM2RVNUZLVi0yeERtd3dRWEdvX0VPTEIzZzRHelJranhYSUZncUdzdEdqNlJueXhQdGJ3aDhaTGlFMWRLUHZrREhZLXRHcFpYN2hxa0R6Nmc3RE9GdUk3cUVVZjRWN3NsbDdZWEpxOURPTGRBbFFnRm1mcTZZQjV1bzhDdTU0TW9jRmItS3dqOEd1M1hpcnVNR3pYRU1BX3JhbngxX19WX1pqdVFveG4xdw?oc=5
+- Congress Releases First List For Bihar, State Chief To Contest From Kutumba - NDTV
+  Congress Releases First List For Bihar, State Chief To
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOS0lxTXZ5ZzY2bENxRVpSWU1uRDFmMEgtYjFXbXFia3l6UlMyV3NfNUpWU3BObGhTQWdJenBJZ2x6SFhPZUF1UGRSNGVJbWNMVXBLTUtWdHhDNzduTDlMUG1GLUlxeG52WFpYY0dXUnRNcURsMDJBNmVzV2E4SndDWEZicEdTNVV4d3NZRm9Gb3ozUEdmLXA2Vmk3NS16LVRQYWo1LUoxY1lXeU1seHoyYXZHbl_SAbwBQVVfeXFMUFV2bkNoRnhNcGRJVVJMOFptd3RCU2ZtVWltWEY3MWlmakJZUWZHVGlNd29xU2VkbklFeFhzaUpVMGp4Rmh3Z3p1aVQ1T1V5UVRzUDAtUmpwZmRaUUNuOVN3REZub2VFcllhUFlvTmwzUmJlb2JUM0hMZS1JUVI4NzR4V2ZZV2l6VmVDekY4d2Z2QXh5OTJlV0VUdF9LQ1ZIMlhOWjRwM184cHdiay14ZHNxWEhLdTJRb1pQcXc?oc=5
 
-- India reacts to Pakistan-Afghanistan border conflict, says Islamabad ‘hosts terrorist’: ‘Three things are clear...’ - Mint
-  India reacts to Pakistan-Afghanistan border conflict, says
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSkxRVGpqcmEwUjhtTmtPUkRIU3hVdU1aTVJfNGNjQ1pFZ2NmUk5BZC1iQzNEamFnSTFfSjAta1hTSFhJRzZpWFI3UDRjZjM3UzBZZnlUdFdtTmZFcTA3V0x5YTBoWjJ5X1VtOTYyRmRYYzBOcGE4eERLQkc0UGxub3JKdUVHd3FLREt3QTQyS25kTllSdzJzazYzeVhTNGNNVHY1N2JwQ0VzUUwzM01lQmdwT2RGSDJqTkowV0xLQnV3dWpucXB4cjE2ZGxzVlc4cGQ3UUJrTEhlR0pRTXRYV2doT3gyWWJGTmxWMGRSNW52N3FK0gH6AUFVX3lxTE5kSjJySXlncERvVVNfSnAzT3ZkZDM3RlJzeC1TRlFSMjZSLTRjUFBzNVppQ1YzZ1kwSVNOMUEtWnhCMDU0ZnRxYjhuTzd1cERUd1ZnLTFNYUxCTjNnQmd0R0FGZTk4ZXFYdHd3X2FBU1BWT3B1S2JGUlN6aUVhSTNCdFpoY1RxLUlWeGwxeC1tZnctX1JxTy15bG1RLTdPLXhZc0tkbjA4TjRwaDRnNzMyV3I1MzVORVVEUldiMk9xWlZ1U3FqV1VrZ1pIclRyZmh3NG16V3EzODhRTUlybmpGMElFVDV2SFRfSm11TjY4LXhmbS1lT1NUbFE?oc=5
+- News Today Live Updates, 16 October | Italian news publishers demand probe into Google AI overviews, calling it a ‘traffic killer’ - The Indian Express
+  The Indian Express is one of the first to report on Google’s new search engine.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDk4cElhUk9rMjdwTk4ya05LV3FxTmtMRGh4UV9LU0lNUTV0dHgzU1Jva0YyYy1ZY3lnOEZJMlBkVlNrWEF6VGJXZzNvZzA5RXdKMnFQVFYySEN6aUtyQXJ3RHk2bUpCVHRkZ285QXJsOFhNM2V1MnRlay1LYkhDQlFxUmppTlZKUkV3dDVseE9WejNiZkNwRWpqR0pqT3huaE1kX3JPeTNVcFpqU2ZDWXpfazZiQ3ROTkg1a3MySUdzZ1VRVWRyU09qbGFUcFZwbGtKVXgwNmdiUUZFWk5Pa2h2OXlsMzlE0gHvAUFVX3lxTFB2Yl9MREwydE50ZDJMeEEzczdaVUJjNjdRbUFHMDYzRDE4bFlKa213S3pLcGN2NXNJQnhkZ1QtY29rYnFGcTd1MXM3c1pyT2J6Rjg3c2VmLXpZN0xuQUUxUnVQc0VZSHR1bk9xR0hQandQdl9MaWZZRHluNHo5QVFhaU9IMjZLRnF0a0JGdHZEZ1ZsM3p1bVpIOUNzN1hRSnYwX0E5Z09Jemsyb054Q3ppd0ZTTkxzU1lCb0NZXzlBem5oUmhzODJ3bEVKRDlJQWRnUW8yeGxleUV3b21VOElCQUJOWDZKMVAwTG5XMUln?oc=5
 
-- In Pics: A Look At Mongolian President's 4-Day Visit To India - NDTV
-  Mongolian President's 4-Day
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYllOUkE5S3Z4bHVNbGtrNzlxQ1ljV2VhMjBXekpUeGc5alQxZWZiRHl5OXd3SUdORFhJcDQySmlia3NwVXJQcnV3ampxVnNLc1o4UV8xU1RLeE8zenRNNlk5aExnU3JMTFlBWG83ZGpRX1diS3AzRUwxdjN1TzNwS0pObERCXzBVeTdqV012V2J6aVhzdHhIcUFia2lIVlZFSDZXYUNJNlh0NUs3bVNGdm5SVlhyT0NG0gHAAUFVX3lxTE1zUEVTRGs2OG9QaTJhaEZSRkgwZ2NmaGZRZUhMRHpGRXBWWWVrbnN4b1RlM3FSVGtEcFZXVVRhYzdhNXdfMy1BN1NpeVhzdm82S0NBMTBpY0dDWWF6eUxSM1lRUXJEczBTX1lNdzBUblhQSGNsaHVmVE1HMmJSckhPemRMTzZUYjQ5UVNSWTJKdkNIc0YxckphYzY5N01RSkFRbjhDSUQ5LTloNnVfS1hubzhSUk9WU1ZnTjBEb3VxbQ?oc=5
+- Good news on US-India deal likely, thanks to Trump's ‘rare’ tiff with China | Latest News India - Hindustan Times
+  Good news on US-India deal likely, thanks to Trump's ‘ra
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxObGRsOV9YZ2I3aW9lMXhyOF8tVW9UQ3djdzRHdVk4Y0YycVg1VGlBNmM0cXJxdXU3bS10eGI1WWtzVC1lT2h2RGRGT1U4VGwwM2hZdE5SNF9QckhpMnVHRl9OOC1sNGhLRG5EcWRzS2xZMDBhdXZ1TE1PbEE4cUpIQ1l1Qi0xTFA0a0FYYmRsQURySmUxUjY3SjdCaVE3NXg5R3EzRVBGVU1IekhWenlaY3hTNnFTMDNxWmV6Yi1wcmdvcnFKUkFiN2VRQS1QQdIB0wFBVV95cUxNakFYMGg3aUF4RGc3bzFLXzhJd19fM2s5V0VMZ3FaSnBCckswQUJrV0dpejZ5LTVnbjBHb01xdFVOY3pSbVNiNGZvNF8yREg1Sl9uLVVVRzhNZkt5VzhFYmFfbWwtMS1EVDVTVVpxLW41UUtfUXZyVEoyTktNRG9Jamd5TGg4ZDQ1Nkp5cjlZVWszMUNWckJ3a1FnODVOMlNvVnBpZmxwYlVUSEpoc2x4WVdZOWxzNXNlQkNYTHRFbzVnbVlXaGdLRDAxVHI2Q1ZsdXo0?oc=5
+
+- India Responds To Trump's Claim That PM Modi Made A Russian Oil Promise - NDTV
+  India Responds To Trump's Claim That PM Modi Made
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR1lLNkJJX2J1M0hQUHNZRWNWdjJSM1JtUzhzSFIyRWdfZ2dWeGpnNGxfZUFSR25CeUNRSjNLN0xCeXZHMGNUNURZa0FhOWpQUk5aWDdGRHNQaVRQcnBQN2hBYU5iM1h4WWwyb2pwUTJzclNpTE93T3M2dU95dVJjNEtmT0I5bWN4cDRDaVBRR2VNcHZrSWoyOHJVWEMzdVg1TUY3OG5maTYyXzhnOE9qUWlfVHNyMGZ4TVJvYThYYjd6YndzU2tpZV84NjItcUlKN1ZucdIB3AFBVV95cUxOXzl2ODlfMVFlM2R2bkxnbFZEYVhXTzhKN0s4bXhPMS10TkdxWHp0aGVmNmlpV0VxU0Vud1pDZmlJMUY4U1dZWXJlem90MGxZaHFpUEtQQlJ1LU94WGh0V2l2SVdyLUVlQkRwNWdOZldfeDBXT3daSnpYX3JndzRJUDI2V2Z0NWs3eFdFd2x4ZUhVRU5XNWQyYmNBNGI0Q0l3RENyWkxnTE1wcnhPcTFMZ0o0S3N0M2lDcndPWXlSektFb0VQNllwYkF2U2VsdTA4MmRqczhBMkpINUNz?oc=5
+
+- 'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian oil claim; launches 5-point attack - Times of India
+  'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeVRkWld5VEZMcmowRmd3RktrUUZfeURWbnlObVo5OGc1RDhhM2JHY2E0Wmp0MHRLa296OWVha2I1bDBDUUJSd0d5ZlBCaVNQQ3FNNHJqOEtNU25za1pxbzl5ODRobVVIWXNzVVdFOTlLLWItVlp3QUMyQ0NWTFE3N0pYc2JTQTlheUVPUXp2ZkVzaHFzX20zSFdJbW5jdVBWUmNXSnpvdUJEM1RqeFE0Z2NYY1QtOHRxSXBCdVd6d3RvejQ3QklDYmpJRWhweXdFS0ZwUnhyLVFQM3E0Yzd2SE9iRkN6d1pmay1EeHpzZVHSAfYBQVVfeXFMTl8ySkMzVHZMR1lyUUdFMnpqRHc1ZlJHcVBmVEdIWG9KR3FmQkJLRlpySzNoSEhTSEJiUDlWRFRQZWRsUll4bW1Ga0p6dzZROHJRSmIwdmRVc2tpeE1KczFBVkoxQTNKTFAwaTRsemc2d0VfR0Z3R0xwamJEMjNxdjZNbVVLWlE0aldhbFhiVkozdGM5VFJYNm9OdnJUTmxpUHVqTHBVNXlyVW1EdE5fRGZJY2hXbEtUYldvcFR0VVZvbmFlTUZoZlpPTEZuR0U1bVA0NExQRnR1R0pWNXJYMjVjazBFcDdKT3lwTTVxaUZySDVPT2hB?oc=5
+
+- Congress Releases First List For Bihar, State Chief To Contest From Kutumba - NDTV
+  Congress Releases First List For Bihar, State Chief To
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOS0lxTXZ5ZzY2bENxRVpSWU1uRDFmMEgtYjFXbXFia3l6UlMyV3NfNUpWU3BObGhTQWdJenBJZ2x6SFhPZUF1UGRSNGVJbWNMVXBLTUtWdHhDNzduTDlMUG1GLUlxeG52WFpYY0dXUnRNcURsMDJBNmVzV2E4SndDWEZicEdTNVV4d3NZRm9Gb3ozUEdmLXA2Vmk3NS16LVRQYWo1LUoxY1lXeU1seHoyYXZHbl_SAbwBQVVfeXFMUFV2bkNoRnhNcGRJVVJMOFptd3RCU2ZtVWltWEY3MWlmakJZUWZHVGlNd29xU2VkbklFeFhzaUpVMGp4Rmh3Z3p1aVQ1T1V5UVRzUDAtUmpwZmRaUUNuOVN3REZub2VFcllhUFlvTmwzUmJlb2JUM0hMZS1JUVI4NzR4V2ZZV2l6VmVDekY4d2Z2QXh5OTJlV0VUdF9LQ1ZIMlhOWjRwM184cHdiay14ZHNxWEhLdTJRb1pQcXc?oc=5
+
+- News Today Live Updates, 16 October | Italian news publishers demand probe into Google AI overviews, calling it a ‘traffic killer’ - The Indian Express
+  The Indian Express is one of the first to report on Google’s new search engine.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDk4cElhUk9rMjdwTk4ya05LV3FxTmtMRGh4UV9LU0lNUTV0dHgzU1Jva0YyYy1ZY3lnOEZJMlBkVlNrWEF6VGJXZzNvZzA5RXdKMnFQVFYySEN6aUtyQXJ3RHk2bUpCVHRkZ285QXJsOFhNM2V1MnRlay1LYkhDQlFxUmppTlZKUkV3dDVseE9WejNiZkNwRWpqR0pqT3huaE1kX3JPeTNVcFpqU2ZDWXpfazZiQ3ROTkg1a3MySUdzZ1VRVWRyU09qbGFUcFZwbGtKVXgwNmdiUUZFWk5Pa2h2OXlsMzlE0gHvAUFVX3lxTFB2Yl9MREwydE50ZDJMeEEzczdaVUJjNjdRbUFHMDYzRDE4bFlKa213S3pLcGN2NXNJQnhkZ1QtY29rYnFGcTd1MXM3c1pyT2J6Rjg3c2VmLXpZN0xuQUUxUnVQc0VZSHR1bk9xR0hQandQdl9MaWZZRHluNHo5QVFhaU9IMjZLRnF0a0JGdHZEZ1ZsM3p1bVpIOUNzN1hRSnYwX0E5Z09Jemsyb054Q3ppd0ZTTkxzU1lCb0NZXzlBem5oUmhzODJ3bEVKRDlJQWRnUW8yeGxleUV3b21VOElCQUJOWDZKMVAwTG5XMUln?oc=5
+
+- Good news on US-India deal likely, thanks to Trump's ‘rare’ tiff with China | Latest News India - Hindustan Times
+  Good news on US-India deal likely, thanks to Trump's ‘ra
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxObGRsOV9YZ2I3aW9lMXhyOF8tVW9UQ3djdzRHdVk4Y0YycVg1VGlBNmM0cXJxdXU3bS10eGI1WWtzVC1lT2h2RGRGT1U4VGwwM2hZdE5SNF9QckhpMnVHRl9OOC1sNGhLRG5EcWRzS2xZMDBhdXZ1TE1PbEE4cUpIQ1l1Qi0xTFA0a0FYYmRsQURySmUxUjY3SjdCaVE3NXg5R3EzRVBGVU1IekhWenlaY3hTNnFTMDNxWmV6Yi1wcmdvcnFKUkFiN2VRQS1QQdIB0wFBVV95cUxNakFYMGg3aUF4RGc3bzFLXzhJd19fM2s5V0VMZ3FaSnBCckswQUJrV0dpejZ5LTVnbjBHb01xdFVOY3pSbVNiNGZvNF8yREg1Sl9uLVVVRzhNZkt5VzhFYmFfbWwtMS1EVDVTVVpxLW41UUtfUXZyVEoyTktNRG9Jamd5TGg4ZDQ1Nkp5cjlZVWszMUNWckJ3a1FnODVOMlNvVnBpZmxwYlVUSEpoc2x4WVdZOWxzNXNlQkNYTHRFbzVnbVlXaGdLRDAxVHI2Q1ZsdXo0?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-16 12:36:00 UTC_
+_Last updated: 2025-10-16 18:26:24 UTC_
