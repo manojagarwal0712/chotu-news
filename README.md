@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
-- Supreme Court Collegium admits its decision on judge changed after Govt ‘sought’ it
+- After Trump’s claim on Russian oil, India responds: ‘Priority is to safeguard interests of consumers’
   
-  🔗 https://indianexpress.com/article/india/supreme-court-collegium-admits-its-decision-on-judge-changed-after-govt-sought-it-10309420/
+  🔗 https://indianexpress.com/article/india/india-response-russian-oil-imports-modi-trump-10309970/
 
-- WTI founder Menon becomes first Asian to chair key IUCN panel
+- Gold Today Rate, October 16: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/wti-founder-menon-becomes-first-asian-to-chair-key-iucn-panel-10309515/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-october-16-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10309903/
 
-- Madhya Pradesh govt: Caste system founded on principles of social harmony
+- Goa’s tourist roadmap: Lord Parshuram statue, arena for international concerts
   
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-govt-caste-system-founded-on-principles-of-social-harmony-10309526/
+  🔗 https://indianexpress.com/article/india/goas-tourist-roadmap-lord-parshuram-statue-arena-for-international-concerts-10309217/
 
-- Congress panel puts 9 seats in pending list, 7 names announced
+- ‘PM Modi scared of Trump’: Rahul Gandhi after US Prez says India will stop buying Russian oil
   
-  🔗 https://indianexpress.com/article/india/bihar-assembly-elections-congress-panel-puts-9-seats-in-pending-list-7-names-announced-10309505/
+  🔗 https://indianexpress.com/article/india/pm-modi-scared-of-trump-rahul-gandhi-after-us-prez-says-india-will-stop-buying-russian-oil-10309771/
 
-- Bihar Polls: Boost booth-level coordination for NDA, PM Modi tells BJP workers
+- ‘That’s a big step’: Trump says PM Modi ‘assured’ him India to pause Russian oil imports, will resume after Ukraine war is over
   
-  🔗 https://indianexpress.com/article/india/bihar-election-boost-booth-level-coordination-for-nda-pm-modi-tells-bjp-workers-10309504/
+  🔗 https://indianexpress.com/article/india/trump-pm-modi-assured-him-india-purchase-russian-oil-10309782/
 
-- Apple launches new Vision Pro with M5 chip and Dual Knit Band, starting at $3,499
+- As AI fuels layoffs, Meta brings back local job listings on Facebook Marketplace
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-launches-new-vision-pro-with-m5-chip-and-dual-knit-band-starting-at-3499-10309061/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-brings-back-local-job-listings-facebook-marketplace-10309860/
 
-- Apple unveils new iPad Pro powered by M5 with major leaps in AI and graphics
+- Investors on guard for risks that could derail the AI gravy train
   
-  🔗 https://indianexpress.com/article/technology/apple-unveils-new-ipad-pro-powered-by-m5-with-major-leaps-in-ai-and-graphics-10309019/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/investors-on-guard-for-risks-that-could-derail-the-ai-gravy-train-10309726/
 
-- Apple launches new 14-inch Macbook Pro with powerful M5 chip for faster AI performance
+- Meta taps Arm Holdings to power AI recommendations across Facebook, Instagram
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-launches-new-14-inch-macbook-pro-m5-chip-10309030/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-taps-arm-holdings-to-power-ai-recommendations-across-facebook-instagram-10309719/
 
-- Bharti Airtel partners with IBM to expand cloud services
+- BlackRock, Nvidia-backed group strikes $40 billion AI data center deal
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/bharti-airtel-partners-with-ibm-to-expand-cloud-services-10308907/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/blackrock-nvidia-backed-group-strikes-40-billion-ai-data-center-deal-10309712/
 
-- Apple lobbies India to change tax law seen hindering its expansion
+- Anthropic unveils cheaper model to widen AI’s appeal
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-lobbies-india-to-change-tax-law-seen-hindering-its-expansion-10308892/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-unveils-cheaper-model-to-widen-ais-appeal-10309708/
+
+- FSSAI directs states to ensure removal of ORS from product labels and brand names
+  The Food Safety and Standards Authority of India (FSSAI) has issued a directive to all States and Union Territories' Commissioners of Food Safety. All food business operators (FBOs) should remove the combination of the
+  🔗 https://www.livemint.com/companies/news/fssai-directs-states-to-ensure-removal-of-ors-from-product-labels-and-brand-names-11760593191650.html
+
+- Ola launches first ‘non-vehicle’ product ‘Shakti’— It's neither HomePod, nor inverter, what is it?
+  Ola launched its first non-vehicle product today at 10:00 AM. With this new product the company, best known for
+  🔗 https://www.livemint.com/companies/news/ola-launches-first-non-vehicle-product-shakti-its-neither-homepod-nor-inverter-what-is-it-11760591190067.html
 
 - Jensen Huang reveals 6 AI model names that all Nvidia employees use at work; here's the full list
   Huang said each of his employees use at least one of these models or the other during their day-to-day work
@@ -52,33 +60,33 @@
   Standard Chartered and the Bank of India have co-financed a $215 million term loan for Air India's subsidiary in GIFT City.
   🔗 https://www.livemint.com/companies/air-india-215-million-boeing-777-financing-gift-city-standard-chartered-11760547396259.html
 
-- Novo Nordisk layoffs: Pharma major begins job cuts in US amid fierce weight-loss drug battle — Here's what we know
-  Novo Nordisk has initiated job cuts in its US market amid a fierce battle for weight-loss drugs
-  🔗 https://www.livemint.com/companies/news/novo-nordisk-layoffs-pharma-major-begins-job-cuts-in-us-amid-fierce-weight-loss-drug-battle-heres-what-we-know-11760549083866.html
+- Penny stock under  ₹10: Telecom stock jumps 11%, extends rally for third straight session
+  Salasar Techno Engineering share price has risen 3% in one month and more than 27% in three months. The smallcap stock has delivered a stellar 381% returns in the past five years.
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-telecom-stock-salasar-techno-engineering-jumps-11-extends-rally-for-third-straight-session-11760594455599.html
 
-- How to get better at trusting your gut? Skims CEO Jens Grede offers valuable tips
-  Skims co-founder Jens Grede shares in his wife's podcast that intuition is trainable, not innate. He encourages people to embrace challenges and broaden
-  🔗 https://www.livemint.com/companies/people/how-to-get-better-at-trusting-your-gut-skims-ceo-jens-grede-offers-valuable-tips-11760543420313.html
+- Infosys vs Wipro: Which IT stock to buy ahead of Q2 results 2025?
+  Both IT stocks fell less than a per cent in Thursday's trading session. Infosys share price was down 0.29 per cent to  ₹1,
+  🔗 https://www.livemint.com/market/stock-market-news/infosys-vs-wipro-which-it-stock-to-buy-ahead-of-q2-results-2025-11760590950754.html
 
-- Global Markets Today: Nikkei 225, Kospi rise tracking Wall Street gains
-  Japan’s Nikkei 225 climbed 0.95 per cent, and the Topix index gained 0.8 per cent. In South Korea,
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-rise-tracking-wall-street-gains-11760575568941.html
+- Ather Energy share price hits record high as rally extends to 4th day, trades 110% above IPO price
+  The company currently ranks third in India’s electric two-wheeler market with a 17% market share in September 2025. Ather Energy's stock surged 4% to a
+  🔗 https://www.livemint.com/market/stock-market-news/ather-energy-share-price-hits-record-high-as-rally-extends-to-4th-day-trades-110-above-ipo-price-11760593816115.html
 
-- Canara Robeco IPO listing date today. GMP signals debut of shares at modest premium in stock market today
-  Canara Robeco IPO GMP signals shares to list with a modest premium in stock market today. Canara Robco shares will be listed on both the stock exchanges, BSE and NSE
-  🔗 https://www.livemint.com/market/ipo/canara-robeco-ipo-listing-date-today-gmp-signals-debut-of-shares-at-modest-premium-in-stock-market-today-11760575369823.html
+- Diwali Picks: Osho Krishan recommends TCS, Bank of Baroda as stocks to buy for Samvat 2082
+  The Indian stock market opened positively, fueled by hopes for a trade agreement with the US. Despite being in overbought territory, analysts expect Nifty 50 to surpass 25,450.
+  🔗 https://www.livemint.com/market/stock-market-news/diwali-picks-osho-krishan-recommends-tcs-bank-of-baroda-as-stocks-to-buy-for-samvat-2082-11760591636585.html
 
-- Rubicon Research IPO listing date today. Here’s what GMP signals on share debut
-  Rubicon Research IPO listing is set for today at 10:00 IST on BSE and NSE. The IPO was well-received, with subscriptions from NIIs at 97.61 times and Q
-  🔗 https://www.livemint.com/market/ipo/rubicon-research-ipo-allotment-status-rubicon-research-ipo-gmp-rubicon-ipo-gmp-rubicon-research-ipo-subscription-11760551038156.html
+- Tata Motors demerger: Can JLR weigh on recently-demerged TMPVL stock? BofA's downgrade raises fresh concerns
+  JLR contributes 87% to the company’s revenue as of FY25, while the domestic business revenue share is at only 13%. SBI Securities said that Tata Motors Passenger Vehicle
+  🔗 https://www.livemint.com/market/stock-market-news/tata-motors-demerger-can-jlr-weigh-on-newly-carved-out-tmpvl-stock-brokerages-weigh-in-11760592240639.html
 
-- Stock market today: Trade setup for Nifty 50, Infosys, Wipro Q2 results, to gold prices; 8 stocks to buy
-  The Sensex rose by 575 points to 82,605 and the Nifty 50 by 178 points to 25,324. Notable gainers included Bajaj Finance and Asian Paints, while IT stocks saw slight
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-infosys-wipro-q2-results-to-gold-prices-8-stocks-to-buy-11760545607555.html
+- YouTube users trip over fake AI tributes to Charlie Kirk
+  YouTube users trip over fake
+  🔗 https://www.livemint.com/technology/tech-news/youtube-users-trip-over-fake-ai-tributes-to-charlie-kirk-11760595504737.html
 
-- Stocks to buy: Raja Venkatraman's top picks for 16 October
-  Market expert Raja Venkatraman shares his top three stocks to buy today, 16 October.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-picks-16-october-stock-to-buy-sensex-nifty-11760538636317.html
+- Meta poaches Apple’s Siri strategist as AI talent war intensifies; which techies have jumped ship to Zuckerberg's firm?
+   Meta has hired Apple’s Siri strategist Ke Yang. Several top AI researchers have recently left Apple to join Meta.
+  🔗 https://www.livemint.com/technology/meta-poaches-apple-s-siri-strategist-as-ai-talent-war-intensifies-which-techies-have-jumped-ship-to-zuckerbergs-firm-11760576228308.html
 
 - Amazon Great Indian Festival 2024 big offers on walking pads and treadmills: Ensure fitness and well-being
   Amazon Great Indian sale brings you a chance to be fit and healthy at home. Check out the top deals on walking pads and treadmills
@@ -92,73 +100,153 @@
   AI to enhance capabilities,
   🔗 https://www.livemint.com/technology/tech-news/ai-to-enhance-capabilities-not-replace-human-endeavours-larry-ellison-11760548129230.html
 
-- OnePlus unveils Diwali offers on OnePlus 13, OnePlus 13s, Nord 5, Pad 3 and more
-  OnePlus has announced Diwali 2025 offers on smartphones, tablets, and audio products. Notable price drops and bank offers make these devices appealing for budget-conscious consumers
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-unveils-diwali-offers-on-oneplus-13-oneplus-13s-nord-5-pad-3-and-more-11760542996675.html
+- Stock Market News, Oct. 15, 2025: S&P 500 Finishes Higher After Strong Bank Earnings - The Wall Street Journal
+  S&amp;P 500 closes higher after another volatile session. Wall Street weighs earnings, China tensions.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOZENLSUZkU0c5ekN5Q2J5MUdfNnY3cHBhSUVFYVJmeWZyUU4zNWlidmN5dnZxTnp0ZHZNamU4UDhWVG5iQ2NCTWhTeGF6X2c5VDhBNDhSWHpueDFuaXNYZEFkbTJZRkJLZFMtMy05SFpia3lLY2xJOFVjTXR3TURTdktEWmhNNkk?oc=5
 
-- IICT marks fresh chapter with new batches, focusing on cutting-edge tech courses
-  IICT believes creativity thrives at the intersection of art, innovation and technology. I
-  🔗 https://www.livemint.com/technology/tech-news/iict-marks-fresh-chapter-with-new-batches-focusing-on-cutting-edge-tech-courses-11760544802568.html
+- Stock Market LIVE Updates: Sensex zooms 450pts; Nifty atop 25,450; Auto, Realty shares shine - Business Standard
+  <ol><li><a href="https://news.google.com/rss/articles/CBMijgJBVV95cUxQM3UxN2JlNkxYa3k4VmNNUDM3bkUyWWZhZlhfdUcyR1FJbi12c0V6VXg1VVEzWHpwWExaMVU4RXNPY3hOZ3M0aURxY3gtUGgwWm1kVTYwNHQ4cjc3VXhhSDhkS2pqQTREbH
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQM3UxN2JlNkxYa3k4VmNNUDM3bkUyWWZhZlhfdUcyR1FJbi12c0V6VXg1VVEzWHpwWExaMVU4RXNPY3hOZ3M0aURxY3gtUGgwWm1kVTYwNHQ4cjc3VXhhSDhkS2pqQTREbHpweGlkQ1JjaDlQTmlMMGhPalA5aU40ZVBYb0Z2TWljRi0zdXhOOEhzb1pkY2lSS1FOb1YxVHZVaVE3YzZHZFpEVFpTTUdXVzhlSGxEbU9jNUJ2SnBDWFlnczdtQlFXTVUwb3Y5R0x4dFNjZHNUbjQ3UGpBSmk3ZVRhQjdTOEFLdW9OWk9WM05JSVgwRnFTajhOZEFoZF9PWkM0UVVON2pkekhEQUHSAZMCQVVfeXFMTm82WFczYkxWU3ZnbXlDajEwMUQ1dC1xMFBNcWExRGp6VmdZbndYUk9UNHVDWUFUU0RJQXhvcUZ2N1VGbTRtVTRGTmJNSUdwS3NlNWViSG51WVhGRnJOTHo3RktwQlJPZW5oZERSb3BBQm9lX0xZZEp2VllXRU5FeC1FbHByeVVRakRHejNEUVpjUVFwMlgyS3RvYWtQYUF4OWtpUXhraHI3N21FOE5lc3Y4Y2JrNzRNS0JKeWZoSm93djMwaURVd0gzZmg2d3J2Qk5VZWJHNXhBcXB4OEN6NURBeFBpTDlSU3o1N1ZDZUlpSUlCOFVGeGM3WXFOZUQ4ZEh0OXBESVBKUGpRM2ZNYzVJSHc?oc=5
 
-- Torrent Pharma plans Rs 14,000 crore bond sale for JB Chemicals acquisition
-  Torrent Pharmaceuticals is planning a ₹14,000-crore bond sale to finance its acquisition of JB Chemicals &amp; Pharmaceuticals. The proposed merger is awaiting regulatory
-  🔗 https://economictimes.indiatimes.com/markets/bonds/torrent-pharma-plans-rs-14000-crore-bond-sale-for-jb-chemicals-acquisition/articleshow/124592948.cms
+- Repo Market Impact - US banks tap Fed’s repo facility amid liquidity tightening - The Economic Times
+  The Economic Times reports that US banks tap Fed’s repo
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRW83NFV3LUxudVlIc0dBSnI4aldWRk1fdEJJLVpsS1IwR2pDVDN4akxRNi1mZ2twUXd0RmZSZUlSZXd5LVdIQXRiSVBIU29pTUtaVkE2QlV1bDJuM3FTQ2lGakxNQ01HTkZ1dGJUMHJnZjZiZlI0RzNIQ2ZFRHhkU3dyUnRQVkpkcXB3YjFCZEhOMVQyRHNoS1pNck1hWWFHNXBJSGlTdmlHNUNHSWhjanZ6NG9wb2s4a1Q1eDRNX3B5bi1UMVlzS2E2WnBERGFRcUZZSFhKYldKUEIzbTB6Nkxn?oc=5
 
-- Axis Bank reports 26% drop in Q2 net profit amid one-time provisions
-  Axis Bank reported a 26% drop in September-quarter net profit to ₹5,090 crore. Despite this, net interest income rose 2% year-on-year to ⁹13,745 crore
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-reports-26-drop-in-q2-net-profit-amid-one-time-provisions/articleshow/124592933.cms
+- Global markets tumble as Beijing imposes new ban on U.S. shipping. Bessent vows China ‘will be hurt the most’ if it doesn’t surrender - Fortune
+  The Chinese government has imposed a new ban on U.S. shipping to China. The move is seen
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTQ1TTRXWVZFaHZvTVI4Rl85X1ViVURBWWY0NjhrUVAtem55b1I2bmpXWVJpZ3FhU2xtN191UmZGRWRYclBjZnRlTV9CeGVwSEktWHVVUEp1ZkNhUG9obE9PTndyZGRsSDRrRWxlbHhrSTZObUFlYkMxanJmZlFUQ29MU2w2Nl90QU9JenQ1Z3RDY1hxVGkxVDByc2FSMG9pMmtQTGhHRQ?oc=5
 
-- Singapore Court okays WazirX parent's plan for return of frozen assets
-  WazirX expects to reopen by late October, prioritizing orderly withdrawals and enhanced security with third-party custodians like BitGo. Singapore High Court approved parent Zettai's restructuring
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/singapore-court-okays-wazirx-parents-plan-for-return-of-frozen-assets/articleshow/124592912.cms
+- Global Markets Today: Nikkei 225, Kospi rise tracking Wall Street gains - Mint
+  Global Markets Today: Nikkei 225,
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUkl5N0Y3UE16VHFwRl93ZFFvakRQQmlrdXowTldQLWxmeV9BMEkzRW91SkQzcHRUNnNjSHROQ0RqRHhmdEVrX3ViNlVCZjlMaTJWd0pKZTVvc0VTbUswX09CVlpCM0dTYkVXTWVOYUxnNXYtSFFwOGt5RjBycnlXZFREeDJKQmlMdXNhRXhwOVcxWXEtZVlaUzVUWENfWWduUThqSU1lTVlTcHFTajlKSTFKSWxmYndnTjFTSjcxeXlQRzhyS3VRaE9WcDNPYTVLZUxTUkN30gHbAUFVX3lxTFB5eDN5MnZ5Y2IwNktFdGs2WExNNE1fSEQxcWZkX3YtQlA0bDdmZTVzVS13VjNZS0plT2VoV1o0bks1a3Z5TXFBZF9VV0hNdllkOWhFMzllMzFnOVpHcW1HQmV6TTZ2SWFQTm5mS2NlakxBcFNtYlF0OVk1VWRzTHJwM3ByallIaGxmbGNsVVNXQXFXWGNCam1UU3RPOXA4X1VkRmdSOWRqSG44cXR4dlR4NVpuNGNjVVNiN1FJOWdZSEFXS3pBcmRER1VxM0VNZm5oamIzSmw3QTlzWQ?oc=5
 
-- Sebi tells public interest directors to treat system failures as financial irregularities
-  SEBI has directed public interest directors on market infrastructure institution boards to consider system failures as financial irregularities. Directors must now understand emerging technologies and ensure systemic stability and data integrity.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-tells-public-interest-directors-to-treat-system-failures-as-financial-irregularities/articleshow/124592883.cms
+- Cian Agro shares hit 5% lower circuit after 16-day upper circuit run. Stock still up over 8,400% in 2 years
+  Cian Agro Industries &amp; Infrastructure shares experienced a significant halt on Thursday, falling 5% to Rs 3,287.15. Despite this correction, the stock has delivered extraordinary returns, sky
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cian-agro-shares-hit-5-lower-circuit-after-16-day-upper-circuit-run-stock-still-up-over-8400-in-2-years/articleshow/124597106.cms
 
-- RBL Bank board to consider fundraising plan on Oct 18
-  RBL Bank's board will meet on October 18 to consider raising funds. This includes issuing equity shares or other linked instruments. Reports suggest Emirates NBD is close to acquiring a majority stake.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbl-bank-board-to-consider-fundraising-plan-on-oct-18/articleshow/124592861.cms
+- Australian shares notch record closing high as unemployment spike fuels rate-cut bets
+  The S&amp;P/ASX 200 index climbed, marking a historic high. Financials, property, and gold sectors saw significant gains.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/australian-shares-notch-record-closing-high-as-unemployment-spike-fuels-rate-cut-bets/articleshow/124596983.cms
 
-- Who Is Ashley Tellis, Indian-American Expert Charged Over Top Secret Files - NDTV
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNbThmT2xJWlRTQmdNaUc5NmhPdkI0RTdiSzQySXBTV2xqdi1jdFgybnRQN0tUQTFBNy01S0RrcGZRMUdRQW9CUlhFZEstNnpHNGtDeDB2RTRaYncyc0thYjNaLWo4WVMyZ3BUMTk0aDRHcy1PSXIyU3JOVDdYT3pzZUJBNW11WTlTRS1LajRWX2tfVGlfc2l0MzMyY0Z2NGNRMGtz0gGrAUFVX3lxTE9fZm1TUlplTG9scGJ2aVVtNkNsNGtxeDlIU05QTHhUb09BN3lnM3J2cV96U0FEYnhFOGcya2FhY1lwWExCRm9CMDU2NTY0UzlLNWM0b2xad0NLYmt0ZkVKbnVQUHZOa1dqYzFSSUc2SExmQnVJaDdaNThwUXNFbjBTVlFqZVZVcVpBcFlIT3FzU0prbExQemVkamFMN0txb2l4Zm1MSU1PdlFncw?oc=5
+- Mattress maker Duroflex files IPO papers with Sebi; eyes Rs 184-cr via fresh issue
+  Duroflex, a prominent name in the Indian mattress industry, is set to take a bold step as it readies for its initial public offering. This strategic move aims to raise capital through
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/mattress-maker-duroflex-files-ipo-papers-with-sebi-eyes-rs-184-cr-via-fresh-issue/articleshow/124596746.cms
 
-- Trump tries to dismantle Brics again, opening another front with India - The Times of India
-  The Times of India reports that the US President is trying to
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTG9mWHgxZEx3WFo0RUFNYk1UUkNRRXM5cjdwT2ZvS0FxaUNoeUJfVWVBTG44Y3E3RmdSSWZPUVBmcE9EM2J6RWlGMV9Wc0RJMmV1b2FFNkFxU2ZScEpXaWlXQTNFb1lJVk5WRTFkUm53Ni1aZzBhTEEwd18xLTBxTWFPZHJEMUZrbTVIVURlM3laNVJJNmF2V0R4R2JFVWJuMnpWMlFZekN6SVBKRVQ0aW50OVJRLW1wM2FHeENuX3AxTFJFdVkxNWdBaFFGZzZfd2ktcEtXa9IB3AFBVV95cUxOWVZld1NIbVByaXVQVUc1OGVpZDRTaHFrV2dFNEtzd0hJdTBaQVBpb2JTTDItTFhvd1BLUzBCRnFJVlF1TXlucW9POU0taFJNQXlJYzU2QkhERnBRUGtjTWZNUjBSa2R4Y3YyX1V6UWFuU1AtR0FvTE1QS0hOUm04Vk1KUzQyaHBvMWdvSENPSDRiZTlXVTlKcU55R1F6aG1UNTZ5cnFabnhxWTNOMTdtM19RUDVrOGc0U3RFWjdmb01oZWg3dHItTGxRRFd1TUFHOUtnWFdKWnFxUnNW?oc=5
+- Canara Robeco AMC shares rally 12% after listing. Should you buy, sell or hold the stock?
+  Canara Robeco Asset Management Company shares surged over 12% on Thursday. Analysts are optimistic about its growth prospects. Investors are advised to book partial profits while holding the remainder for long-term gains.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/recos/canara-robeco-amc-shares-rally-12-after-listing-should-you-buy-sell-or-hold-the-stock/articleshow/124596715.cms
 
-- India’s call centre industry faces existential threat: How AI chatbots are killing jobs | World News - Hindustan Times
-  India’s call centre industry faces existential threat: How AI chatbots
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUThlb3o1RjFYcVllS1A0Tno1dHdSNEF1LWFHdFpDVjVxeUE2TUc0VzJnRmZwSGVrdnJKbHVyV0ZLWGtERWJYNDRLVHB0SS1CcG1jR1c1NF9zcTJKakE2YXVPbVUxbndrTWlQOVF2T1g3MHNNQmt5ZDR4ZWVsdWh1WnFuYmI5Z3lReUt3emRhNS1rc2VlcDBLNXFIbmtOM3JDT0RjU1MwcXc0ZGlVTzVTUi1xLW40cUJ2LUVZb1BZaUtVMm1lLXk3N0FVb25rdERVQktLa3JpT1hyWDczc1FuUVRB0gHnAUFVX3lxTE1kRXFDVnM5aWw4LVVfaHgwcTdOT3RhMW9fN19FTjk4R1dCazlKSVVSZC15SzE4SlJDdWMyZDRlYy04bXVmQ0dodXhJR0VhWHkwYkw1eWEzUnVSekEzOFJGNDBCME1ZUVFTTmIwZWJDVGZTR1BLdC0yVENuUE94UUFIQVZiWkVoYkgybU9fSVc1aGJ5TTB2S2d5X3ZwM1pEYkM2Wk5rclRGVXNoT2RDUWYzeWxVTjVwMERzWFY3d3pkZE9DT3hwdFF4dUhSMmNMYm9BMXZkNjk1VXFrZzA2VTdGajlRRk1XYw?oc=5
+- Canara Robeco AMC shares rally 12% after listing. Should you buy, sell or hold the stock?
+  Canara Robeco Asset Management Company shares surged over 12% on Thursday. Analysts are optimistic about its growth prospects. Investors are advised to book partial profits while holding the remainder for long-term gains.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/canara-robeco-amc-shares-rally-12-after-listing-should-you-buy-sell-or-hold-the-stock/articleshow/124596428.cms
 
-- Trump threw away US-India ties over Nobel bid, Pakistan money: Ex-US envoy - India Today
-  India Today: Trump threw away US-India ties
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOODhoempzWjZmTWpucDBUOGhVWDlpbjZDX3owdzBuQTIyaldVMk5mYjJJSUtJaTg1Mk5yamR0Sm5sZlNtRWYwQmNGNDU0Wk1oZkE2TEdtVTZCeUh5TGZqUnRPS09aMFJUNEMzV3N4NEVOZmo4R2d3U1lHZFpsaVJlTVJZSTNIMlV2S2NWYVBpVzkyVGZieVlVY0ZHSGVLcFV5UjBEbFpBRE5jUmJWQUJ3RF9Kak9xNm9xLW1ubTM2cjRvTTF2R1RQRVdhbENHdS1obXY1UkZmdTdjblIxZlRsNHVSY0p4aU10ek96aNIB8gFBVV95cUxOcG9jT1pwZGFvX1NRdEluQU5lSGJyX2Z3SnpJeUNjU0lvUEJCVTNIWkt3MFd1N1FObnpiSWttWDE0NlVBZ1BkbG40YmFKeFdRVkp4ejF0OS1WbEFaalNIX2w3MW5xbmFwQW9nM1F0NXdTTzBaTjJaT3ZTZHNSR1l6b0w0VzVqb1JLbW8tTF8zblYxeGVZRndVT1k0bkVnaFpNcUVsR3FBd1BaTEgwaEVya2JGYnNXQ3o0Z1hIQlRKU0NfZnRJdUhaRUlHX3FrZFR3SzVrYVlLZTg3WlFXUFgySF8wOHBRYzBYRkl3N2J2QTBsUQ?oc=5
+- Trump Claims PM Modi Has Assured Him "India Will Not Buy Oil From Russia" - NDTV
+  Trump Claims PM Modi Has Assured Him "India Will Not
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOFNKV0xIR3NXZnpyNkdhRE02ZlNRQ3h0RUxkZ19POUNLSmtHb2VBMHdyRDRFM0lXZEFwYkluVFRnYjZ4X0VuVDUzbGJWSUh5S0ZSTkJ4bm5yZzA0Z2xfcHpnUjBLQUdQdDh1Y3k3enVnOGkyejBTcDJGUGtMb2pUTE1LV2l0TDFDX0VHV181S1U1a3RkSHN5eW13MjBld3hDYndQT2NGZGJaV3huaUx1NjE2NkRMR0plZk4yeEVWQzR0c2dsTWdoUTNfWXBLajRGRHfSAdoBQVVfeXFMTVc4S2dSWU5Kc0pQRWNGRWxoTnBTVnhtV0dBd3U4eC1Wb3dnWUFvMjdLUmcwU1gzQWFtbWlDZzNsUHFna3JaczFoS2c5Zlh0ZkJJeFgxT0kzbzI0djc2MFN1M2VZZko4aDhVU1Q3NEJaRGxOVWVvOU1EMzNXQ0dYUHh3SWI2UWpKQ3VfZmZZaXhiakpwOVpkYmp0eUp6TklORTFXWUtzeVpKYjVmenpoNDR2aVNBdUlPVGxCdjdfbVNYanEyaWYweG9ERjVTTWI5LVFuWnZFT3FFbEE?oc=5
 
-- Trump claims he stopped India-Pakistan war through threat of 200% tariffs: ‘I got him on phone and said….’ - Mint
-  Trump claims he stopped India-Pakistan war through threat of 200% tariffs.
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTEJuOENVVDZyMGZ5MHg0NmtNVFFwWlVkTmY1RjJPT2xUME5JbkE4VnQtb2xPSEQyNFFkejFDTF91Sk5uOVJwRzgyTmIwc3B2dUxHY1ItNGMzNldfSFBsUGpieWhTY2d3VkNBTEoyUXpsV0pJb0gwUFNVa1BjdTAxSHNVLWxSOVYyRU16bXhwdzBweUVXdDJXSDJtVENwVno5dFFPOGNMclNxYjJTRGxIMHNYUWZ5RkN3Q1RuTWl2VzN2ZXNsTjN3RVRkTi13ajRFMDRVZXkxX1BFTm9za3FLaDQ3VnplS2Z0YUdXQ2NJWdIB9AFBVV95cUxNcmlmNkJPd1hPcUp4d2xESmNVdk53T0NKSmdYRlFrempveW5sTnVfbjVTX2NPUVV3b1lnSWJ6RDFHa3ZEQzBUUUxfVVB0TUZGRWxxQ1N0MktMYkRJN0NKNmpJZVFDOTZLUUdHU2E2X3FFTUxnYVkzTll5VWxLZXpPSWVrNnRxaW1OeVliRDU5dUtlUWYxS0cwckRqMDBqYjFxdjZwOEJoNklocTlNWTRPOEh3YnQ5YmRiVVBkaV9kcmFqLWtVS0xKZHZxMWhDSjZxUEtIYktjbFBCWTg5OGFIWDdTOHhtWUxqOU40MWVUdllCT3RQ?oc=5
+- Amdavad, India Recommended as Host for the 2030 Centenary Games - Commonwealth Sport
+  Amdavad, India Recommended as Host
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGxYTHA0S2tGY0RtWlBDTmF3MnNfMU1hN29qajRsc3NhTkgwVVV4OEJyZVdhSmh0cEpnTktTdGxlY21wTE5GU2dnQ2d3ZnZOZmxieHV0X0xNMkRhZlEzOWFWeUNwOVdESExJY2xtYnhrMkNNMDJpaWZEdTN3XzNGNU9JTVdJOUxXZlhSY0hwM182UHVZXzQxdlNjU3B1RVY4Z0djaEVZalpfeVZFWmhYTVZkUG9fVG9pTXVqT21SSDVlMWRkT0E?oc=5
 
-- Who Is Ashley Tellis, Indian-American Expert Charged Over Top Secret Files - NDTV
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNbThmT2xJWlRTQmdNaUc5NmhPdkI0RTdiSzQySXBTV2xqdi1jdFgybnRQN0tUQTFBNy01S0RrcGZRMUdRQW9CUlhFZEstNnpHNGtDeDB2RTRaYncyc0thYjNaLWo4WVMyZ3BUMTk0aDRHcy1PSXIyU3JOVDdYT3pzZUJBNW11WTlTRS1LajRWX2tfVGlfc2l0MzMyY0Z2NGNRMGtz0gGrAUFVX3lxTE9fZm1TUlplTG9scGJ2aVVtNkNsNGtxeDlIU05QTHhUb09BN3lnM3J2cV96U0FEYnhFOGcya2FhY1lwWExCRm9CMDU2NTY0UzlLNWM0b2xad0NLYmt0ZkVKbnVQUHZOa1dqYzFSSUc2SExmQnVJaDdaNThwUXNFbjBTVlFqZVZVcVpBcFlIT3FzU0prbExQemVkamFMN0txb2l4Zm1MSU1PdlFncw?oc=5
+- The Art of a Good Unicorn: Sudden regulatory shift triggers downturn, hardships | Latest News India - Hindustan Times
+  The Art of a Good Unicorn: Sudden regulatory shift triggers downturn, hardships
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYXdUclVXaHNmX1U4ODhuSFJRaGxKaGZwMWYyRmZFSXBwOUU0NEp3NUJqS1RXZ1VDX1ZNZUhNbXVHY1BQQUU2d3pXb016RTFvX1p6Zm9NVk51RGhHbmo0cUc0OW9LRU9iZUlRVEV0MjViOFdWekhDWEJBeDlFNkpHeUZpUGQyNWJQTHJGR20ydFhBa3ZiZGQ0LXhpZVowbVZvZ2dyd3BjM2hXRVM5WGxkR081YWR5ajI3Mk9RRHJqSUhrZEctd2t3RDBBOWc2dVBKN2FhVVVYUdIB3AFBVV95cUxNSGxtU0FNWkd5eDF1RzVocmhtOUhDMUdMWGlqQ2d1UzEyMXhaT1pIdGxBT05fOFpiQ005alp0N2lSMVByRGNSenVNTWpCbjhxMGhfLU9MUkwwSFpnSV9KYy1tcVN6bXhLVUROYWFLVl9aa2ROUW9IMlVGaGNUZXNOazMzci1ENGY4WFpxeUpTdm5OSzh0Nk5TdUFTVGdRSHFvMmhmVzNCSElKdUVPbkRvalBJRHJ2ODVYLTQyTlBIZzF3SFVxMDhRV0ZGa0ZEYzdHZmM2ZDZEbVYwMW45?oc=5
 
-- Trump tries to dismantle Brics again, opening another front with India - The Times of India
-  The Times of India reports that the US President is trying to
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTG9mWHgxZEx3WFo0RUFNYk1UUkNRRXM5cjdwT2ZvS0FxaUNoeUJfVWVBTG44Y3E3RmdSSWZPUVBmcE9EM2J6RWlGMV9Wc0RJMmV1b2FFNkFxU2ZScEpXaWlXQTNFb1lJVk5WRTFkUm53Ni1aZzBhTEEwd18xLTBxTWFPZHJEMUZrbTVIVURlM3laNVJJNmF2V0R4R2JFVWJuMnpWMlFZekN6SVBKRVQ0aW50OVJRLW1wM2FHeENuX3AxTFJFdVkxNWdBaFFGZzZfd2ktcEtXa9IB3AFBVV95cUxOWVZld1NIbVByaXVQVUc1OGVpZDRTaHFrV2dFNEtzd0hJdTBaQVBpb2JTTDItTFhvd1BLUzBCRnFJVlF1TXlucW9POU0taFJNQXlJYzU2QkhERnBRUGtjTWZNUjBSa2R4Y3YyX1V6UWFuU1AtR0FvTE1QS0hOUm04Vk1KUzQyaHBvMWdvSENPSDRiZTlXVTlKcU55R1F6aG1UNTZ5cnFabnhxWTNOMTdtM19RUDVrOGc0U3RFWjdmb01oZWg3dHItTGxRRFd1TUFHOUtnWFdKWnFxUnNW?oc=5
+- India responds to Donald Trump’s comments, says ‘diversifying energy purchases’ | Latest News India - Hindustan Times
+  India responds to Donald Trump’s comments, says ‘
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMUt5bzdoT2lDVm1KQno1WE41ZHpJbU5UWGFpdWU0Z0xaWHE2Y0Zma01XWlRPM29IUndtcE1nNVJ5bFJXVDE4ZUxIVllwamIxdkY2V2VCbVZMcjRGZHAxelI2YkRKY3ltUGtLakhSVkF4ZXV4WVBKT3BvbXF2ajlOcTNXSVhvNUhmV2JqREJwVE9WdXRMVkgwdDlORElDYWF0WFlBclFUVWZQT0cwN3RBa3VkQVlVbXo2a2tRNFY3NTVJZkpmTTl1a2VDdk53d0RTQXdNTnBn0gHbAUFVX3lxTE9ncUVCWW0wX2otRWJ0XzBOUTNaNnE2VXZ0WjdTOUxvQ2IwMVZsOW41Z0t2dC00bHZoRVd3Rkptd2pmNFdnWGt4a3dwQVJBTl95bzFod1FycjJtLVdEOERJaWVqcDhnQlFEektkVVNUUkhFZzBsUVEzM2k4Q3JtSU42Sjk0ZnBYam1CVDZrSXQ2WG1mZDZYOXNJNndjOHVJTi1YQWNHaF9GNkk0eVRuSjEwWU5DZVF1OWY0RW1aZXhlMXIzeE5QY1RzcmpzSDhRb2R4NGIzM3NkRDhEcw?oc=5
 
-- India’s call centre industry faces existential threat: How AI chatbots are killing jobs | World News - Hindustan Times
-  India’s call centre industry faces existential threat: How AI chatbots
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUThlb3o1RjFYcVllS1A0Tno1dHdSNEF1LWFHdFpDVjVxeUE2TUc0VzJnRmZwSGVrdnJKbHVyV0ZLWGtERWJYNDRLVHB0SS1CcG1jR1c1NF9zcTJKakE2YXVPbVUxbndrTWlQOVF2T1g3MHNNQmt5ZDR4ZWVsdWh1WnFuYmI5Z3lReUt3emRhNS1rc2VlcDBLNXFIbmtOM3JDT0RjU1MwcXc0ZGlVTzVTUi1xLW40cUJ2LUVZb1BZaUtVMm1lLXk3N0FVb25rdERVQktLa3JpT1hyWDczc1FuUVRB0gHnAUFVX3lxTE1kRXFDVnM5aWw4LVVfaHgwcTdOT3RhMW9fN19FTjk4R1dCazlKSVVSZC15SzE4SlJDdWMyZDRlYy04bXVmQ0dodXhJR0VhWHkwYkw1eWEzUnVSekEzOFJGNDBCME1ZUVFTTmIwZWJDVGZTR1BLdC0yVENuUE94UUFIQVZiWkVoYkgybU9fSVc1aGJ5TTB2S2d5X3ZwM1pEYkM2Wk5rclRGVXNoT2RDUWYzeWxVTjVwMERzWFY3d3pkZE9DT3hwdFF4dUhSMmNMYm9BMXZkNjk1VXFrZzA2VTdGajlRRk1XYw?oc=5
+- News Today Live Updates, 16 October | Indian-origin US adviser Ashley Tellis to fight charges of unlawful retention of defence information - The Indian Express
+  Indian-origin US adviser Ashley Tellis to fight charges of unlawful retention of defence information.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDk4cElhUk9rMjdwTk4ya05LV3FxTmtMRGh4UV9LU0lNUTV0dHgzU1Jva0YyYy1ZY3lnOEZJMlBkVlNrWEF6VGJXZzNvZzA5RXdKMnFQVFYySEN6aUtyQXJ3RHk2bUpCVHRkZ285QXJsOFhNM2V1MnRlay1LYkhDQlFxUmppTlZKUkV3dDVseE9WejNiZkNwRWpqR0pqT3huaE1kX3JPeTNVcFpqU2ZDWXpfazZiQ3ROTkg1a3MySUdzZ1VRVWRyU09qbGFUcFZwbGtKVXgwNmdiUUZFWk5Pa2h2OXlsMzlE0gHvAUFVX3lxTFB2Yl9MREwydE50ZDJMeEEzczdaVUJjNjdRbUFHMDYzRDE4bFlKa213S3pLcGN2NXNJQnhkZ1QtY29rYnFGcTd1MXM3c1pyT2J6Rjg3c2VmLXpZN0xuQUUxUnVQc0VZSHR1bk9xR0hQandQdl9MaWZZRHluNHo5QVFhaU9IMjZLRnF0a0JGdHZEZ1ZsM3p1bVpIOUNzN1hRSnYwX0E5Z09Jemsyb054Q3ppd0ZTTkxzU1lCb0NZXzlBem5oUmhzODJ3bEVKRDlJQWRnUW8yeGxleUV3b21VOElCQUJOWDZKMVAwTG5XMUln?oc=5
 
-- Trump threw away US-India ties over Nobel bid, Pakistan money: Ex-US envoy - India Today
-  India Today: Trump threw away US-India ties
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOODhoempzWjZmTWpucDBUOGhVWDlpbjZDX3owdzBuQTIyaldVMk5mYjJJSUtJaTg1Mk5yamR0Sm5sZlNtRWYwQmNGNDU0Wk1oZkE2TEdtVTZCeUh5TGZqUnRPS09aMFJUNEMzV3N4NEVOZmo4R2d3U1lHZFpsaVJlTVJZSTNIMlV2S2NWYVBpVzkyVGZieVlVY0ZHSGVLcFV5UjBEbFpBRE5jUmJWQUJ3RF9Kak9xNm9xLW1ubTM2cjRvTTF2R1RQRVdhbENHdS1obXY1UkZmdTdjblIxZlRsNHVSY0p4aU10ek96aNIB8gFBVV95cUxOcG9jT1pwZGFvX1NRdEluQU5lSGJyX2Z3SnpJeUNjU0lvUEJCVTNIWkt3MFd1N1FObnpiSWttWDE0NlVBZ1BkbG40YmFKeFdRVkp4ejF0OS1WbEFaalNIX2w3MW5xbmFwQW9nM1F0NXdTTzBaTjJaT3ZTZHNSR1l6b0w0VzVqb1JLbW8tTF8zblYxeGVZRndVT1k0bkVnaFpNcUVsR3FBd1BaTEgwaEVya2JGYnNXQ3o0Z1hIQlRKU0NfZnRJdUhaRUlHX3FrZFR3SzVrYVlLZTg3WlFXUFgySF8wOHBRYzBYRkl3N2J2QTBsUQ?oc=5
+- Trump Claims PM Modi Has Assured Him "India Will Not Buy Oil From Russia" - NDTV
+  Trump Claims PM Modi Has Assured Him "India Will Not
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOFNKV0xIR3NXZnpyNkdhRE02ZlNRQ3h0RUxkZ19POUNLSmtHb2VBMHdyRDRFM0lXZEFwYkluVFRnYjZ4X0VuVDUzbGJWSUh5S0ZSTkJ4bm5yZzA0Z2xfcHpnUjBLQUdQdDh1Y3k3enVnOGkyejBTcDJGUGtMb2pUTE1LV2l0TDFDX0VHV181S1U1a3RkSHN5eW13MjBld3hDYndQT2NGZGJaV3huaUx1NjE2NkRMR0plZk4yeEVWQzR0c2dsTWdoUTNfWXBLajRGRHfSAdoBQVVfeXFMTVc4S2dSWU5Kc0pQRWNGRWxoTnBTVnhtV0dBd3U4eC1Wb3dnWUFvMjdLUmcwU1gzQWFtbWlDZzNsUHFna3JaczFoS2c5Zlh0ZkJJeFgxT0kzbzI0djc2MFN1M2VZZko4aDhVU1Q3NEJaRGxOVWVvOU1EMzNXQ0dYUHh3SWI2UWpKQ3VfZmZZaXhiakpwOVpkYmp0eUp6TklORTFXWUtzeVpKYjVmenpoNDR2aVNBdUlPVGxCdjdfbVNYanEyaWYweG9ERjVTTWI5LVFuWnZFT3FFbEE?oc=5
 
-- Trump claims he stopped India-Pakistan war through threat of 200% tariffs: ‘I got him on phone and said….’ - Mint
-  Trump claims he stopped India-Pakistan war through threat of 200% tariffs.
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTEJuOENVVDZyMGZ5MHg0NmtNVFFwWlVkTmY1RjJPT2xUME5JbkE4VnQtb2xPSEQyNFFkejFDTF91Sk5uOVJwRzgyTmIwc3B2dUxHY1ItNGMzNldfSFBsUGpieWhTY2d3VkNBTEoyUXpsV0pJb0gwUFNVa1BjdTAxSHNVLWxSOVYyRU16bXhwdzBweUVXdDJXSDJtVENwVno5dFFPOGNMclNxYjJTRGxIMHNYUWZ5RkN3Q1RuTWl2VzN2ZXNsTjN3RVRkTi13ajRFMDRVZXkxX1BFTm9za3FLaDQ3VnplS2Z0YUdXQ2NJWdIB9AFBVV95cUxNcmlmNkJPd1hPcUp4d2xESmNVdk53T0NKSmdYRlFrempveW5sTnVfbjVTX2NPUVV3b1lnSWJ6RDFHa3ZEQzBUUUxfVVB0TUZGRWxxQ1N0MktMYkRJN0NKNmpJZVFDOTZLUUdHU2E2X3FFTUxnYVkzTll5VWxLZXpPSWVrNnRxaW1OeVliRDU5dUtlUWYxS0cwckRqMDBqYjFxdjZwOEJoNklocTlNWTRPOEh3YnQ5YmRiVVBkaV9kcmFqLWtVS0xKZHZxMWhDSjZxUEtIYktjbFBCWTg5OGFIWDdTOHhtWUxqOU40MWVUdllCT3RQ?oc=5
+- Amdavad, India Recommended as Host for the 2030 Centenary Games - Commonwealth Sport
+  Amdavad, India Recommended as Host
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGxYTHA0S2tGY0RtWlBDTmF3MnNfMU1hN29qajRsc3NhTkgwVVV4OEJyZVdhSmh0cEpnTktTdGxlY21wTE5GU2dnQ2d3ZnZOZmxieHV0X0xNMkRhZlEzOWFWeUNwOVdESExJY2xtYnhrMkNNMDJpaWZEdTN3XzNGNU9JTVdJOUxXZlhSY0hwM182UHVZXzQxdlNjU3B1RVY4Z0djaEVZalpfeVZFWmhYTVZkUG9fVG9pTXVqT21SSDVlMWRkT0E?oc=5
+
+- The Art of a Good Unicorn: Sudden regulatory shift triggers downturn, hardships | Latest News India - Hindustan Times
+  The Art of a Good Unicorn: Sudden regulatory shift triggers downturn, hardships
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYXdUclVXaHNmX1U4ODhuSFJRaGxKaGZwMWYyRmZFSXBwOUU0NEp3NUJqS1RXZ1VDX1ZNZUhNbXVHY1BQQUU2d3pXb016RTFvX1p6Zm9NVk51RGhHbmo0cUc0OW9LRU9iZUlRVEV0MjViOFdWekhDWEJBeDlFNkpHeUZpUGQyNWJQTHJGR20ydFhBa3ZiZGQ0LXhpZVowbVZvZ2dyd3BjM2hXRVM5WGxkR081YWR5ajI3Mk9RRHJqSUhrZEctd2t3RDBBOWc2dVBKN2FhVVVYUdIB3AFBVV95cUxNSGxtU0FNWkd5eDF1RzVocmhtOUhDMUdMWGlqQ2d1UzEyMXhaT1pIdGxBT05fOFpiQ005alp0N2lSMVByRGNSenVNTWpCbjhxMGhfLU9MUkwwSFpnSV9KYy1tcVN6bXhLVUROYWFLVl9aa2ROUW9IMlVGaGNUZXNOazMzci1ENGY4WFpxeUpTdm5OSzh0Nk5TdUFTVGdRSHFvMmhmVzNCSElKdUVPbkRvalBJRHJ2ODVYLTQyTlBIZzF3SFVxMDhRV0ZGa0ZEYzdHZmM2ZDZEbVYwMW45?oc=5
+
+- India responds to Donald Trump’s comments, says ‘diversifying energy purchases’ | Latest News India - Hindustan Times
+  India responds to Donald Trump’s comments, says ‘
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMUt5bzdoT2lDVm1KQno1WE41ZHpJbU5UWGFpdWU0Z0xaWHE2Y0Zma01XWlRPM29IUndtcE1nNVJ5bFJXVDE4ZUxIVllwamIxdkY2V2VCbVZMcjRGZHAxelI2YkRKY3ltUGtLakhSVkF4ZXV4WVBKT3BvbXF2ajlOcTNXSVhvNUhmV2JqREJwVE9WdXRMVkgwdDlORElDYWF0WFlBclFUVWZQT0cwN3RBa3VkQVlVbXo2a2tRNFY3NTVJZkpmTTl1a2VDdk53d0RTQXdNTnBn0gHbAUFVX3lxTE9ncUVCWW0wX2otRWJ0XzBOUTNaNnE2VXZ0WjdTOUxvQ2IwMVZsOW41Z0t2dC00bHZoRVd3Rkptd2pmNFdnWGt4a3dwQVJBTl95bzFod1FycjJtLVdEOERJaWVqcDhnQlFEektkVVNUUkhFZzBsUVEzM2k4Q3JtSU42Sjk0ZnBYam1CVDZrSXQ2WG1mZDZYOXNJNndjOHVJTi1YQWNHaF9GNkk0eVRuSjEwWU5DZVF1OWY0RW1aZXhlMXIzeE5QY1RzcmpzSDhRb2R4NGIzM3NkRDhEcw?oc=5
+
+- News Today Live Updates, 16 October | Indian-origin US adviser Ashley Tellis to fight charges of unlawful retention of defence information - The Indian Express
+  Indian-origin US adviser Ashley Tellis to fight charges of unlawful retention of defence information.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDk4cElhUk9rMjdwTk4ya05LV3FxTmtMRGh4UV9LU0lNUTV0dHgzU1Jva0YyYy1ZY3lnOEZJMlBkVlNrWEF6VGJXZzNvZzA5RXdKMnFQVFYySEN6aUtyQXJ3RHk2bUpCVHRkZ285QXJsOFhNM2V1MnRlay1LYkhDQlFxUmppTlZKUkV3dDVseE9WejNiZkNwRWpqR0pqT3huaE1kX3JPeTNVcFpqU2ZDWXpfazZiQ3ROTkg1a3MySUdzZ1VRVWRyU09qbGFUcFZwbGtKVXgwNmdiUUZFWk5Pa2h2OXlsMzlE0gHvAUFVX3lxTFB2Yl9MREwydE50ZDJMeEEzczdaVUJjNjdRbUFHMDYzRDE4bFlKa213S3pLcGN2NXNJQnhkZ1QtY29rYnFGcTd1MXM3c1pyT2J6Rjg3c2VmLXpZN0xuQUUxUnVQc0VZSHR1bk9xR0hQandQdl9MaWZZRHluNHo5QVFhaU9IMjZLRnF0a0JGdHZEZ1ZsM3p1bVpIOUNzN1hRSnYwX0E5Z09Jemsyb054Q3ppd0ZTTkxzU1lCb0NZXzlBem5oUmhzODJ3bEVKRDlJQWRnUW8yeGxleUV3b21VOElCQUJOWDZKMVAwTG5XMUln?oc=5
+
+- Trump Claims PM Modi Has Assured Him "India Will Not Buy Oil From Russia" - NDTV
+  Trump Claims PM Modi Has Assured Him "India Will Not
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOFNKV0xIR3NXZnpyNkdhRE02ZlNRQ3h0RUxkZ19POUNLSmtHb2VBMHdyRDRFM0lXZEFwYkluVFRnYjZ4X0VuVDUzbGJWSUh5S0ZSTkJ4bm5yZzA0Z2xfcHpnUjBLQUdQdDh1Y3k3enVnOGkyejBTcDJGUGtMb2pUTE1LV2l0TDFDX0VHV181S1U1a3RkSHN5eW13MjBld3hDYndQT2NGZGJaV3huaUx1NjE2NkRMR0plZk4yeEVWQzR0c2dsTWdoUTNfWXBLajRGRHfSAdoBQVVfeXFMTVc4S2dSWU5Kc0pQRWNGRWxoTnBTVnhtV0dBd3U4eC1Wb3dnWUFvMjdLUmcwU1gzQWFtbWlDZzNsUHFna3JaczFoS2c5Zlh0ZkJJeFgxT0kzbzI0djc2MFN1M2VZZko4aDhVU1Q3NEJaRGxOVWVvOU1EMzNXQ0dYUHh3SWI2UWpKQ3VfZmZZaXhiakpwOVpkYmp0eUp6TklORTFXWUtzeVpKYjVmenpoNDR2aVNBdUlPVGxCdjdfbVNYanEyaWYweG9ERjVTTWI5LVFuWnZFT3FFbEE?oc=5
+
+- Amdavad, India Recommended as Host for the 2030 Centenary Games - Commonwealth Sport
+  Amdavad, India Recommended as Host
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGxYTHA0S2tGY0RtWlBDTmF3MnNfMU1hN29qajRsc3NhTkgwVVV4OEJyZVdhSmh0cEpnTktTdGxlY21wTE5GU2dnQ2d3ZnZOZmxieHV0X0xNMkRhZlEzOWFWeUNwOVdESExJY2xtYnhrMkNNMDJpaWZEdTN3XzNGNU9JTVdJOUxXZlhSY0hwM182UHVZXzQxdlNjU3B1RVY4Z0djaEVZalpfeVZFWmhYTVZkUG9fVG9pTXVqT21SSDVlMWRkT0E?oc=5
+
+- The Art of a Good Unicorn: Sudden regulatory shift triggers downturn, hardships | Latest News India - Hindustan Times
+  The Art of a Good Unicorn: Sudden regulatory shift triggers downturn, hardships
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYXdUclVXaHNmX1U4ODhuSFJRaGxKaGZwMWYyRmZFSXBwOUU0NEp3NUJqS1RXZ1VDX1ZNZUhNbXVHY1BQQUU2d3pXb016RTFvX1p6Zm9NVk51RGhHbmo0cUc0OW9LRU9iZUlRVEV0MjViOFdWekhDWEJBeDlFNkpHeUZpUGQyNWJQTHJGR20ydFhBa3ZiZGQ0LXhpZVowbVZvZ2dyd3BjM2hXRVM5WGxkR081YWR5ajI3Mk9RRHJqSUhrZEctd2t3RDBBOWc2dVBKN2FhVVVYUdIB3AFBVV95cUxNSGxtU0FNWkd5eDF1RzVocmhtOUhDMUdMWGlqQ2d1UzEyMXhaT1pIdGxBT05fOFpiQ005alp0N2lSMVByRGNSenVNTWpCbjhxMGhfLU9MUkwwSFpnSV9KYy1tcVN6bXhLVUROYWFLVl9aa2ROUW9IMlVGaGNUZXNOazMzci1ENGY4WFpxeUpTdm5OSzh0Nk5TdUFTVGdRSHFvMmhmVzNCSElKdUVPbkRvalBJRHJ2ODVYLTQyTlBIZzF3SFVxMDhRV0ZGa0ZEYzdHZmM2ZDZEbVYwMW45?oc=5
+
+- India responds to Donald Trump’s comments, says ‘diversifying energy purchases’ | Latest News India - Hindustan Times
+  India responds to Donald Trump’s comments, says ‘
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMUt5bzdoT2lDVm1KQno1WE41ZHpJbU5UWGFpdWU0Z0xaWHE2Y0Zma01XWlRPM29IUndtcE1nNVJ5bFJXVDE4ZUxIVllwamIxdkY2V2VCbVZMcjRGZHAxelI2YkRKY3ltUGtLakhSVkF4ZXV4WVBKT3BvbXF2ajlOcTNXSVhvNUhmV2JqREJwVE9WdXRMVkgwdDlORElDYWF0WFlBclFUVWZQT0cwN3RBa3VkQVlVbXo2a2tRNFY3NTVJZkpmTTl1a2VDdk53d0RTQXdNTnBn0gHbAUFVX3lxTE9ncUVCWW0wX2otRWJ0XzBOUTNaNnE2VXZ0WjdTOUxvQ2IwMVZsOW41Z0t2dC00bHZoRVd3Rkptd2pmNFdnWGt4a3dwQVJBTl95bzFod1FycjJtLVdEOERJaWVqcDhnQlFEektkVVNUUkhFZzBsUVEzM2k4Q3JtSU42Sjk0ZnBYam1CVDZrSXQ2WG1mZDZYOXNJNndjOHVJTi1YQWNHaF9GNkk0eVRuSjEwWU5DZVF1OWY0RW1aZXhlMXIzeE5QY1RzcmpzSDhRb2R4NGIzM3NkRDhEcw?oc=5
+
+- News Today Live Updates, 16 October | Indian-origin US adviser Ashley Tellis to fight charges of unlawful retention of defence information - The Indian Express
+  Indian-origin US adviser Ashley Tellis to fight charges of unlawful retention of defence information.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDk4cElhUk9rMjdwTk4ya05LV3FxTmtMRGh4UV9LU0lNUTV0dHgzU1Jva0YyYy1ZY3lnOEZJMlBkVlNrWEF6VGJXZzNvZzA5RXdKMnFQVFYySEN6aUtyQXJ3RHk2bUpCVHRkZ285QXJsOFhNM2V1MnRlay1LYkhDQlFxUmppTlZKUkV3dDVseE9WejNiZkNwRWpqR0pqT3huaE1kX3JPeTNVcFpqU2ZDWXpfazZiQ3ROTkg1a3MySUdzZ1VRVWRyU09qbGFUcFZwbGtKVXgwNmdiUUZFWk5Pa2h2OXlsMzlE0gHvAUFVX3lxTFB2Yl9MREwydE50ZDJMeEEzczdaVUJjNjdRbUFHMDYzRDE4bFlKa213S3pLcGN2NXNJQnhkZ1QtY29rYnFGcTd1MXM3c1pyT2J6Rjg3c2VmLXpZN0xuQUUxUnVQc0VZSHR1bk9xR0hQandQdl9MaWZZRHluNHo5QVFhaU9IMjZLRnF0a0JGdHZEZ1ZsM3p1bVpIOUNzN1hRSnYwX0E5Z09Jemsyb054Q3ppd0ZTTkxzU1lCb0NZXzlBem5oUmhzODJ3bEVKRDlJQWRnUW8yeGxleUV3b21VOElCQUJOWDZKMVAwTG5XMUln?oc=5
+
+- Trump Claims PM Modi Has Assured Him "India Will Not Buy Oil From Russia" - NDTV
+  Trump Claims PM Modi Has Assured Him "India Will Not
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOFNKV0xIR3NXZnpyNkdhRE02ZlNRQ3h0RUxkZ19POUNLSmtHb2VBMHdyRDRFM0lXZEFwYkluVFRnYjZ4X0VuVDUzbGJWSUh5S0ZSTkJ4bm5yZzA0Z2xfcHpnUjBLQUdQdDh1Y3k3enVnOGkyejBTcDJGUGtMb2pUTE1LV2l0TDFDX0VHV181S1U1a3RkSHN5eW13MjBld3hDYndQT2NGZGJaV3huaUx1NjE2NkRMR0plZk4yeEVWQzR0c2dsTWdoUTNfWXBLajRGRHfSAdoBQVVfeXFMTVc4S2dSWU5Kc0pQRWNGRWxoTnBTVnhtV0dBd3U4eC1Wb3dnWUFvMjdLUmcwU1gzQWFtbWlDZzNsUHFna3JaczFoS2c5Zlh0ZkJJeFgxT0kzbzI0djc2MFN1M2VZZko4aDhVU1Q3NEJaRGxOVWVvOU1EMzNXQ0dYUHh3SWI2UWpKQ3VfZmZZaXhiakpwOVpkYmp0eUp6TklORTFXWUtzeVpKYjVmenpoNDR2aVNBdUlPVGxCdjdfbVNYanEyaWYweG9ERjVTTWI5LVFuWnZFT3FFbEE?oc=5
+
+- Amdavad, India Recommended as Host for the 2030 Centenary Games - Commonwealth Sport
+  Amdavad, India Recommended as Host
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGxYTHA0S2tGY0RtWlBDTmF3MnNfMU1hN29qajRsc3NhTkgwVVV4OEJyZVdhSmh0cEpnTktTdGxlY21wTE5GU2dnQ2d3ZnZOZmxieHV0X0xNMkRhZlEzOWFWeUNwOVdESExJY2xtYnhrMkNNMDJpaWZEdTN3XzNGNU9JTVdJOUxXZlhSY0hwM182UHVZXzQxdlNjU3B1RVY4Z0djaEVZalpfeVZFWmhYTVZkUG9fVG9pTXVqT21SSDVlMWRkT0E?oc=5
+
+- The Art of a Good Unicorn: Sudden regulatory shift triggers downturn, hardships | Latest News India - Hindustan Times
+  The Art of a Good Unicorn: Sudden regulatory shift triggers downturn, hardships
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYXdUclVXaHNmX1U4ODhuSFJRaGxKaGZwMWYyRmZFSXBwOUU0NEp3NUJqS1RXZ1VDX1ZNZUhNbXVHY1BQQUU2d3pXb016RTFvX1p6Zm9NVk51RGhHbmo0cUc0OW9LRU9iZUlRVEV0MjViOFdWekhDWEJBeDlFNkpHeUZpUGQyNWJQTHJGR20ydFhBa3ZiZGQ0LXhpZVowbVZvZ2dyd3BjM2hXRVM5WGxkR081YWR5ajI3Mk9RRHJqSUhrZEctd2t3RDBBOWc2dVBKN2FhVVVYUdIB3AFBVV95cUxNSGxtU0FNWkd5eDF1RzVocmhtOUhDMUdMWGlqQ2d1UzEyMXhaT1pIdGxBT05fOFpiQ005alp0N2lSMVByRGNSenVNTWpCbjhxMGhfLU9MUkwwSFpnSV9KYy1tcVN6bXhLVUROYWFLVl9aa2ROUW9IMlVGaGNUZXNOazMzci1ENGY4WFpxeUpTdm5OSzh0Nk5TdUFTVGdRSHFvMmhmVzNCSElKdUVPbkRvalBJRHJ2ODVYLTQyTlBIZzF3SFVxMDhRV0ZGa0ZEYzdHZmM2ZDZEbVYwMW45?oc=5
+
+- India responds to Donald Trump’s comments, says ‘diversifying energy purchases’ | Latest News India - Hindustan Times
+  India responds to Donald Trump’s comments, says ‘
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMUt5bzdoT2lDVm1KQno1WE41ZHpJbU5UWGFpdWU0Z0xaWHE2Y0Zma01XWlRPM29IUndtcE1nNVJ5bFJXVDE4ZUxIVllwamIxdkY2V2VCbVZMcjRGZHAxelI2YkRKY3ltUGtLakhSVkF4ZXV4WVBKT3BvbXF2ajlOcTNXSVhvNUhmV2JqREJwVE9WdXRMVkgwdDlORElDYWF0WFlBclFUVWZQT0cwN3RBa3VkQVlVbXo2a2tRNFY3NTVJZkpmTTl1a2VDdk53d0RTQXdNTnBn0gHbAUFVX3lxTE9ncUVCWW0wX2otRWJ0XzBOUTNaNnE2VXZ0WjdTOUxvQ2IwMVZsOW41Z0t2dC00bHZoRVd3Rkptd2pmNFdnWGt4a3dwQVJBTl95bzFod1FycjJtLVdEOERJaWVqcDhnQlFEektkVVNUUkhFZzBsUVEzM2k4Q3JtSU42Sjk0ZnBYam1CVDZrSXQ2WG1mZDZYOXNJNndjOHVJTi1YQWNHaF9GNkk0eVRuSjEwWU5DZVF1OWY0RW1aZXhlMXIzeE5QY1RzcmpzSDhRb2R4NGIzM3NkRDhEcw?oc=5
+
+- News Today Live Updates, 16 October | Indian-origin US adviser Ashley Tellis to fight charges of unlawful retention of defence information - The Indian Express
+  Indian-origin US adviser Ashley Tellis to fight charges of unlawful retention of defence information.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDk4cElhUk9rMjdwTk4ya05LV3FxTmtMRGh4UV9LU0lNUTV0dHgzU1Jva0YyYy1ZY3lnOEZJMlBkVlNrWEF6VGJXZzNvZzA5RXdKMnFQVFYySEN6aUtyQXJ3RHk2bUpCVHRkZ285QXJsOFhNM2V1MnRlay1LYkhDQlFxUmppTlZKUkV3dDVseE9WejNiZkNwRWpqR0pqT3huaE1kX3JPeTNVcFpqU2ZDWXpfazZiQ3ROTkg1a3MySUdzZ1VRVWRyU09qbGFUcFZwbGtKVXgwNmdiUUZFWk5Pa2h2OXlsMzlE0gHvAUFVX3lxTFB2Yl9MREwydE50ZDJMeEEzczdaVUJjNjdRbUFHMDYzRDE4bFlKa213S3pLcGN2NXNJQnhkZ1QtY29rYnFGcTd1MXM3c1pyT2J6Rjg3c2VmLXpZN0xuQUUxUnVQc0VZSHR1bk9xR0hQandQdl9MaWZZRHluNHo5QVFhaU9IMjZLRnF0a0JGdHZEZ1ZsM3p1bVpIOUNzN1hRSnYwX0E5Z09Jemsyb054Q3ppd0ZTTkxzU1lCb0NZXzlBem5oUmhzODJ3bEVKRDlJQWRnUW8yeGxleUV3b21VOElCQUJOWDZKMVAwTG5XMUln?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-16 01:11:53 UTC_
+_Last updated: 2025-10-16 06:27:38 UTC_
