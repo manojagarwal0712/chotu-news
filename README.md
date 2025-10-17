@@ -1,164 +1,184 @@
 # 📰 Daily News Summaries
 
-- More dominoes fall in Maoist ranks, key ‘bombmaker’ behind 2000 attack on Chandrababu Naidu among 170 who will surrender today
+- Top 8 Metro cities AQI today: Delhi logs worst air quality; Chennai leads with ‘good’ AQI
   
-  🔗 https://indianexpress.com/article/india/more-dominoes-fall-in-maoist-ranks-key-bombmaker-behind-2000-attack-on-chandrababu-naidu-among-170-who-will-surrender-today-10311439/
+  🔗 https://indianexpress.com/article/india/top-8-metro-cities-aqi-today-delhi-worst-air-quality-chennai-good-aqi-10311820/
 
-- Govt to Delhi HC: CHRI diverted funds to benefit Bangladesh, Pakistan, Afghanistan
+- Bihar Election 2025 LIVE Updates: Amit Shah arrives at CM Nitish Kumar’s residence
   
-  🔗 https://indianexpress.com/article/india/govt-to-delhi-hc-chri-diverted-funds-to-benefit-bangladesh-pakistan-afghanistan-10311548/
+  🔗 https://indianexpress.com/article/india/bihar-assembly-election-amit-shah-bjp-jdu-congress-live-updates-10311816/
 
-- 258 Maoists surrendered in two days: Amit Shah
+- Indian Air Force, Coast Guard complete first joint scuba diving expedition off Maharashtra coast in Vijaydurg: WATCH
   
-  🔗 https://indianexpress.com/article/india/258-maoists-surrendered-in-two-days-amit-shah-10311560/
+  🔗 https://indianexpress.com/article/india/iaf-coast-guard-first-scuba-diving-maharashtra-vijaydurg-video-10311691/
 
-- SC stays HC order upholding police custody of two woman journalists
+- Allegations swirl as 24 transgender residents of Indore attempt mass suicide
   
-  🔗 https://indianexpress.com/article/india/sc-stays-hc-order-upholding-police-custody-of-two-woman-journalists-10311564/
+  🔗 https://indianexpress.com/article/india/allegations-swirl-as-24-transgender-residents-of-indore-attempt-mass-suicide-10311425/
 
-- Govt clears decks to let Adani plant for Bangladesh link to India grid
+- Questions over his health and succession plan become louder, Naveen Patnaik defiant: ‘Will serve till the end’
   
-  🔗 https://indianexpress.com/article/india/govt-clears-decks-to-let-adani-plant-for-bangladesh-link-to-india-grid-10311489/
+  🔗 https://indianexpress.com/article/india/questions-over-his-health-and-succession-plan-become-louder-naveen-patnaik-defiant-will-serve-till-the-end-10311456/
+
+- US lawmaker says licensing deal for TikTok algorithm would raise serious concerns
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/us-lawmaker-says-licensing-deal-for-tiktok-algorithm-would-raise-serious-concerns-10311975/
+
+- UK spy chief warns of AI danger, though not disaster-movie doom
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/uk-spy-chief-warns-of-ai-danger-though-not-disaster-movie-doom-10311953/
+
+- EA’s latest ‘Battlefield 6’ sells over seven million copies during opening three days
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/eas-latest-battlefield-6-sells-over-seven-million-copies-during-opening-three-days-10311931/
+
+- India’s IT sector shows signs of demand recovery as clients warm up to AI projects
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/indias-it-sector-shows-signs-of-demand-recovery-as-clients-warm-up-to-ai-projects-10311892/
 
 - Oppo launches Find X9, Find X9 Pro in China with redesigned camera island and ColorOS 16
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/oppo-find-x9-find-x9-pro-china-coloros-16-10310900/
 
-- AI can plan your trip, but Indians still trust people more: Qlik report
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-can-plan-your-trip-but-indians-still-trust-people-more-qlik-report-10310843/
+- Did Elon Musk just admit X underpays creators? Tesla boss slams his own company, compares it to YouTube
+  The creator monetization programme was introduced by X under Elon Musk's leadership. However, since its introduction, users have complained about delayed payments and unclear
+  🔗 https://www.livemint.com/companies/news/did-elon-musk-just-admit-x-underpays-creators-tesla-boss-slams-his-own-company-compares-it-to-youtube-11760680376406.html
 
-- Instagram’s new Restyle feature lets you add festive Diwali effects to photos, videos
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/instagrams-new-restyle-feature-lets-you-add-festive-diwali-effects-to-photos-videos-10310831/
+- Megha Engineering wind contract to develop $225.5 mn gas-sweetening plant in Kuwait
+  The project emphasises sustainable energy and involves a two-stage execution plan.
+  🔗 https://www.livemint.com/companies/megha-engineering-gas-sweetening-kuwait-oil-company-sulphur-recovery-unit-energy-infrastructure-11760676296574.html
 
-- Dyson unveils Purifier Cool PC1, its advanced air purifier: Price and specs
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/dyson-unveils-purifier-cool-pc1-its-advanced-air-purifier-price-and-specs-10310782/
+- ‘Dead Internet Theory’ explained: Why Reddit founder blames 'quasi AI' and ‘LinkedIn slop’ for killing the web
+  The dead internet theory first surfaced on Reddit and has since garnered interest. Many people say that the internet has now
+  🔗 https://www.livemint.com/companies/people/dead-internet-theory-explained-why-reddit-founder-blames-quasi-ai-and-linkedin-slop-for-killing-the-web-11760670279493.html
 
-- ASUS launches ROG Xbox Ally and Ally X handhelds in India: Price, specs, features
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/asus-launches-rog-xbox-ally-and-ally-x-handhelds-in-india-price-specs-10310575/
+- Lenskart IPO could make Peyush Bansal a billionaire: What we know about his net worth
+  Lenskart is planning to debut on the stock market as early as November. The company is targeting a valuation of $9 billion during its listing.
+  🔗 https://www.livemint.com/companies/people/lenskart-ipo-could-make-shark-tank-judge-peyush-bansal-a-billionaire-what-we-know-about-his-net-worth-11760665271713.html
 
 - Trump Strikes Deal With German Merck on Tariffs and IVF Costs
   President Donald Trump announced a deal with Germany’s Merck KGaA to cut the price of some of its fertility medicines in exchange for relief from threatened tariffs.
   🔗 https://www.livemint.com/companies/news/trump-strikes-deal-with-german-merck-on-tariffs-and-ivf-costs-11760646945530.html
 
-- Saks Slashes Outlook and Reports Sales Drop on Inventory Issues
-  Saks Global Enterprises slashed full-year guidance and reported a sales decline in an earnings update to investors on Thursday. The company cited challenges managing the flow of inventory after years of
-  🔗 https://www.livemint.com/companies/company-results/saks-slashes-outlook-and-reports-sales-drop-on-inventory-issues-11760646082703.html
+- Sensex jumps over 600 points, Nifty 50 reclaims 25,760; why is the Indian stock market rising? 5 key factors explained
+  The Sensex jumped over 600 points, or 0.75 per cent, to an intraday high of 84,108. The Nifty 50 reclaimed the 25,760 level, rising 0.70 per cent. In these three
+  🔗 https://www.livemint.com/market/stock-market-news/sensex-jumps-over-600-points-nifty-50-reclaims-25-750-why-is-the-indian-stock-market-rising-5-key-factors-explained-11760680029688.html
 
-- Zions, Western Alliance Banks Disclose Bad Loans Tied to Alleged Fraud
-  Shares of two regional US banks tumbled Thursday. The companies said they were the victims of fraud on loans to funds that invest in distressed commercial mortgages.
-  🔗 https://www.livemint.com/companies/company-results/zions-western-alliance-banks-disclose-bad-loans-tied-to-alleged-fraud-11760641744438.html
+- Reliance Q2 Results LIVE: Revenue, profit growth seen in double-digits led by O2C, Jio; new energy business updates eyed
+  Reliance Industries is expected to report a double-digit growth in consolidated revenue and profit on a YoY basis. Healthy growth in O2C, Retail and Digital businesses is likely to aid EBITDA
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-industries-q2-results-2025-live-updates-ril-quarterly-results-today-net-profit-share-price-q2fy26-17-september-11760678617363.html
 
-- US bankruptcy watchdog wants independent probe of First Brands
-  US bankruptcy watchdog wants independent
-  🔗 https://www.livemint.com/companies/news/us-bankruptcy-watchdog-wants-independent-probe-of-first-brands-11760639542570.html
+- Infosys share price drops 2% after Q2 results. Should you buy, sell or hold?
+  Infosys Q2 results were largely in-line with the Street estimates. The IT major also increased its lower-end of the revenue guidance for FY26. Infosys share price has fallen 4% in one
+  🔗 https://www.livemint.com/market/stock-market-news/infosys-share-price-slips-2-after-q2-results-should-you-buy-sell-or-hold-11760676807012.html
 
-- ‘Tougher world outside India’: Uday Kotak's strong advice to Indians in Diwali message amid US tariffs, global tensions
-  Uday Kotak, founder of Kotak Mahindra Bank, urges Indians to
-  🔗 https://www.livemint.com/companies/people/tougher-world-outside-india-uday-kotaks-strong-advice-to-indians-in-diwali-message-amid-us-tariffs-global-tensions-11760633147668.html
+- Expert view: Nifty 50 may not stay below 26,000 for long, says Green Portfolio PMS co-founder
+  Divam Sharma, co-founder of Green Portfolio PMS, shares insights on the resilience of the Indian equity market. Sharma anticipates a swift recovery for equities ahead
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-on-indian-stock-market-nifty-50-may-not-stay-below-26-000-for-long-says-green-portfolio-pms-cofounder-11760675466831.html
 
-- Gold price today hits record high of $4,379, on track to log biggest weekly gain since 2008 - here's why
-  Gold bullion prices rose as much as 1.2 per cent to $4,379.93 an ounce on Friday. This put it on track to record its
-  🔗 https://www.livemint.com/market/commodities/gold-price-today-hits-record-high-of-4-379-on-track-to-log-biggest-weekly-gain-since-2008-heres-why-11760662172484.html
+- Zomato-parent Eternal share price dips after Q2 results 2025. Opportunity to buy?
+  Eternal share price dropped nearly 2% after announcing a consolidated net profit of  ₹65 cr for the September quarter. Experts maintain a positive outlook with a target price of   �
+  🔗 https://www.livemint.com/market/stock-market-news/eternal-share-price-dips-after-q2-results-2025-opportunity-to-buy-11760675467699.html
 
-- Oil set for weekly loss as Trump-Putin summit looms
-  Oil set for weekly
-  🔗 https://www.livemint.com/market/commodities/oil-set-for-weekly-loss-as-trump-putin-summit-looms-11760662781060.html
+- Australia sharing tips on curbing social media for children before age limit starts in December
+  Australia sharing tips on curbing social media for children
+  🔗 https://www.livemint.com/technology/tech-news/australia-sharing-tips-on-curbing-social-media-for-children-before-age-limit-starts-in-december-11760678227221.html
 
-- Global Markets Today: Nikkei 225, Kospi trade lower amid rising trade tensions
-  Australia's S&amp;amp;P/ASX 200 fell 0.36 per cent at the open. Japan's
-  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-trade-lower-amid-rising-trade-tensions-11760602279594.html
+- AI Boom Sparks Billion-Dollar Data Center Race in Nigeria
+  Nigeria is drawing millions of dollars into new data centers, propelled by the voracious online habits of its young, tech-savvy population. There is a push to harness artificial intelligence to power the
+  🔗 https://www.livemint.com/technology/tech-news/ai-boom-sparks-billion-dollar-data-center-race-in-nigeria-11760674930066.html
 
-- Australia, NZ dollars take collateral damage in rush from risk
-  Australia, NZ dollars take
-  🔗 https://www.livemint.com/market/stock-market-news/australia-nz-dollars-take-collateral-damage-in-rush-from-risk-11760662111238.html
+- OxygenOS 16: OnePlus announces all eligible devices for Android 16 update - Check if your mobile is in the list
+  OxygenOS 16 will roll out from November 2025 to Q1 2026. The update adds a redesigned interface, AI features with Plus Mind, Apple Watch support, and long screenshot functionality.
+  🔗 https://www.livemint.com/technology/tech-news/oxygenos-16-oneplus-lists-all-eligible-devices-for-android-16-update-check-if-your-device-is-eligible-11760673804937.html
 
-- Stock market today: Trade setup for Nifty 50, India–US trade talks, gold prices to Reliance Q2 results; 8 stocks to buy
-  The Indian stock market surged on October 16, with the Sensex climbing 862 points and Nifty 50 up 262 points. Optimism was fueled by Q2 earnings insights, potential trade
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-india-us-trade-talks-gold-prices-to-reliance-q2-results-8-stocks-to-buy-11760632360550.html
+- Sora 2 update: OpenAI lets all users create 15-second videos, Pro users up to 25 seconds
+  OpenAI’s Sora platform update on 16 Oct 2025 adds storyboards for Pro users on the web. All users can create 15-second videos, while Pro users can make
+  🔗 https://www.livemint.com/technology/tech-news/sora-2-update-openai-lets-all-users-create-15-second-videos-pro-users-up-to-25-seconds-11760669504686.html
 
-- Zoho founder Sridhar Vembu steps back from public engagements: ‘I have to ship some code’
-  Zoho founder and chief scientist Sridhar Vembu announced on 15 Oct 2025 that he will take a temporary break from external engagements to focus on completing a delayed coding project.
-  🔗 https://www.livemint.com/technology/tech-news/zoho-founder-sridhar-vembu-steps-back-from-public-engagements-i-have-to-ship-some-code-arattai-vani-11760662068422.html
+- OnePlus OxygenOS 16 now available to install: Availability, top features, design &amp; more
+  Olympus has released OxygenOS 16, its latest OS for smartphones and tablets. The update introduces AI features, Plus Mind, Google Gemini,
+  🔗 https://www.livemint.com/technology/tech-news/oneplus-oxygenos-16-now-available-to-install-availability-top-features-design-more-11760665660107.html
 
-- OnePlus launches Android 16 powered OxygenOS 16 in India: Top 5 features you should know
-  OxygenOS 16 has been launched by OnePlus in India. Android 16 introduces fluid animations
-  🔗 https://www.livemint.com/technology/tech-news/oneplus-launches-android-16-powered-oxygenos-16-in-india-here-are-top-5-features-you-should-know-11760628557178.html
+- Stock market today: Dow drops 300 points, S&P 500, Nasdaq slide as regional bank woes hit markets - Yahoo Finance
+  Stock futures slightly lower after worries fuel market sell-off. Dow drops 300 points, S&amp;P 500, Nasdaq slide as regional bank woes hit markets.
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd3NaQXhCMFhXbWdnOHJtYS14ZGREc2huOU9kZ0pkZFpPbFF6Vlg2elVUczdVbFQ5akd1LW56Zzd6OTFhbE93ZHd1eGQ0dVhwdE9jd0dKZnAwSi0yRHlZaVF4M29RT29TNFZGV2hqWUw2U2xfUnZ5U2RMTy10ay1lMVlVS1FRblZVdERYYnFjLUxTN3p2OW1sXzQ4SnBGNzRDMGpLVlVncGRDTzZORTVCel9vcVpIaDlsY2dkZkZUX2xUaHBOaWsxNl9XczlBRHI4WmJ4TFMzRWtMUHZW?oc=5
 
-- ‘Hey Copilot’: Microsoft gives Windows 11 a voice, vision and action with new AI features
-  As Windows 10 ends, Microsoft upgrades Windows 11 with Copilot AI. Features like conversational interactions and task automation promise improved user
-  🔗 https://www.livemint.com/technology/tech-news/hey-copilot-microsoft-gives-windows-11-a-voice-vision-and-action-with-new-ai-features-11760623250462.html
+- Stock Market LIVE Updates: Sensex, Nifty at 52-week high; FMCG, telecom, banks shine - Moneycontrol
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVUFQZ3B3MDVXNHJQUFAwVVNfaXRkMlJ5NDRrUzhWQU9pTGVIc2lmVDdQcGJMYUJNM203XzJqM09KSXNtdmZqZGNlMGFnVTJaSWhTR082MWNObjFoS3FrRXFNTXlEeGs3b3
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVUFQZ3B3MDVXNHJQUFAwVVNfaXRkMlJ5NDRrUzhWQU9pTGVIc2lmVDdQcGJMYUJNM203XzJqM09KSXNtdmZqZGNlMGFnVTJaSWhTR082MWNObjFoS3FrRXFNTXlEeGs3b3NGZXFoZXhJdzktNGFFOWFFWFZDZkdsU3owdFBRUWxja3hvOXlDUXVoU0RYVzZUVW5FZG1tOGNwbU52MFFseDZzTHJpNVkxSU52WW55RnRScFFRRURIdmlGcjNZMzFSNTVXbEs5N2tzT3RqM0U0LUk1ZkNUMER4bXFuTXhGcGduU256SA?oc=5
 
-- OTT accessibility guidelines for hearing, visually impaired to be finalised in 3 months: Delhi HC told
-  TT accessibility guidelines for hearing, visually impaired to be final
-  🔗 https://www.livemint.com/technology/tech-news/ott-accessibility-guidelines-for-hearing-visually-impaired-to-be-finalised-in-3-months-delhi-hc-told-11760623672866.html
+- Kantara box office Day 14: Rishab Shetty film rules all markets, enters 3rd weekend - India Today
+  'Kantara' enters 3rd weekend at box office.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxPbU95RTJvR25pTXd5UDQ4a2xzTVlRazVzTXFDS0FMQ2gwenBsa093T2ZVanR3V1VlUDJLamt5N01fVGpDMUxicE9FdDhlRWdvUE5nclBvSWw2SjRTZnFaeHBXVy04SWNNQmR1SnRIbF9UNWpkWGFVSmg4Zlh0TEhESDNxT0ZMVUVIcXJxeTE1YmRuUDR2ZXBibF9TTXZwNUViM21MUTdiZVpGRm9iaTBrNWlQMlZPUEtmQU90R25MN1hCLVl6dGFLSzFkZDRYQlVYaV96Qkt6Q25Helc1T1NOa0oyYUVKN2JiejNObjNWanZwaExydktldW9ibHZwWHZtV0JfZ0MxWm1jVlFNTm5j0gGUAkFVX3lxTE1USUNpV2lUanA5MmRqQzh1a3BuMVItbjhOREY4a2NpMDZTb0ZadEdZTUoxNWhJLU1WdnNOcU5mb3pPRGZqRDdzWHdyRUIwS0Q5SV9zek9nMDgzZWJENzkxQTA1WGE3M0d0NElsM3RWT18tdjNWRUlRbzJYUnRFMk1Wd2YxX3VydGtpcGhFUm1Oc0F1aUhEMzgwUjdOdzBaNkNrOXRZb2ZaZ3g4TVdCN1ZPaDl5enNyOUg4VndiM0tTdk9iT3Y3UnFvNWh5SzNDM2JLdU4xVXRmdGlIaVAxLUc2cktpaGQwUDFabkI4OWRmVWs3NjViRW8ybFhnWEtRQXRBc2sydkREMG94bjhvcXNIcnNHWA?oc=5
 
-- 90% of code at Anthropic now written by AI, CEO Dario Amodei says humans still essential
-  Anthropic CEO Dario Amodei revealed that 90% of the startup's code is now generated by AI models. He emphasized that this shift allows engineers to focus on more complex tasks
-  🔗 https://www.livemint.com/technology/tech-news/90-of-code-at-anthropic-now-written-by-ai-ceo-dario-amodei-says-humans-still-essential-11760608331609.html
+- Global markets tumble as Beijing imposes new ban on U.S. shipping. Bessent vows China ‘will be hurt the most’ if it doesn’t surrender - Fortune
+  The Chinese government has imposed a new ban on U.S. shipping to China. The move is seen
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTQ1TTRXWVZFaHZvTVI4Rl85X1ViVURBWWY0NjhrUVAtem55b1I2bmpXWVJpZ3FhU2xtN191UmZGRWRYclBjZnRlTV9CeGVwSEktWHVVUEp1ZkNhUG9obE9PTndyZGRsSDRrRWxlbHhrSTZObUFlYkMxanJmZlFUQ29MU2w2Nl90QU9JenQ1Z3RDY1hxVGkxVDByc2FSMG9pMmtQTGhHRQ?oc=5
 
-- Asian shares dip after credit woes hit Wall Street
-  Asian shares declined Friday as US bank bad loans and credit market concerns dampened investor sentiment. Gold and silver hit record highs amid US economic fears and US-China tensions. The Bank of Japan signaled continued tightening
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-shares-dip-after-credit-woes-hit-wall-street/articleshow/124617994.cms
+- FESTIVE GLOW LIGHTS UP MARKETS - Times of India
+  &nbsp;&
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTV9tdFJiQ00wUDJrNHptVnZONGc2bzVjMkRjQ0M2SjU2R2tfM3FLYWxzZTNnMmJHUzR1VFI2SXJySzVCRmtDeU50aGVWa3dZN3hZMTVabDhwcHFRNGlyU2J1a1p5TWZyMzhIa2YzUVlYT2dSRTJxRzdzUkdERFFiWHpwODR6UWRncC14Z1JXaEtib3R5Y1p3U3d6UjZpWWg3MzBVUjFlcXdmMmc?oc=5
 
-- India's F&amp;B sector set for Rs 9,000 crore IPO boom amid rising demand
-  India's food and beverage sector is set for a ₹9,000 crore IPO wave from over a dozen companies. Major players like Milky Mist Dairy Food and Prestige Hospitality Ventures are leading the charge.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/indias-fb-sector-set-for-rs-9000-crore-ipo-boom-amid-rising-demand/articleshow/124617972.cms
+- Diwali rally lifts Nifty to fresh 52-week high. 8 factors driving today’s boom
+  The Nifty 50 reached a new 52-week high above 25,700, driven by returning foreign inflows, easing U.S. bond yields, and a stronger rupee. Fest
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/diwali-rally-lifts-nifty-to-fresh-52-week-high-8-factors-driving-todays-boom/articleshow/124621632.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  Indian equities surged on Thursday, with Nifty advancing 262 points. The broad-based rally was supported by strong Q2 results and improving sentiment.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124610625.cms
+- Sunteck Realty Q2 Results: Profit rises 41% YoY to Rs 48.96 crore
+  Sunteck Realty has announced strong financial results. The company's net profit surged by 41 percent in the second quarter of this fiscal year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/sunteck-realty-q2-results-profit-rises-41-yoy-to-rs-48-96-crore/articleshow/124621660.cms
 
-- How are Indian IT giants navigating AI demands and tariff uncertainty?
-  Despite uncertainties, companies are strategically integrating AI, bolstering their pipelines and showing resilience. Improved hiring and a weaker rupee are expected to support performance in the latter half of the fiscal year.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/how-are-indian-it-giants-navigating-ai-demands-and-tariff-uncertainty/articleshow/124617925.cms
+- Japan's 10-year bond yield falls to one-month low mirroring US yield declines
+  Japan experienced a noteworthy decline in its 10-year government bond yields. This movement aligns with a broader decrease in U.S. Treasury yields. A successful bond auction helped bolster market confidence.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/japans-10-year-bond-yield-falls-to-one-month-low-mirroring-us-yield-declines/articleshow/124621614.cms
 
-- Stocks in news: RIL, Infosys, Wipro, Jio Financial, Tata Steel
-  Indian markets saw a strong rally on Thursday, with the Nifty 50 surpassing 25,600. Key companies like RIL, Infosys, and Wipro reported their second-quarter results. Analysts
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ril-infosys-wipro-jio-financial-tata-steel/articleshow/124610560.cms
+- Nifty Bank hits fresh all-time high. Is this the start of Diwali dhamaka?
+  Nifty Bank hit an all-time high of 57,651.30 on Friday, rallying around 10,000 points from its March 2025 lows. Led by HDFC Bank, ICICI Bank, and Axis Bank, the 12
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-bank-hits-fresh-all-time-high-is-this-the-start-of-diwali-dhamaka/articleshow/124621579.cms
 
-- India Responds To Trump's Claim That PM Modi Made A Russian Oil Promise - NDTV
-  India Responds To Trump's Claim That PM Modi Made
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR1lLNkJJX2J1M0hQUHNZRWNWdjJSM1JtUzhzSFIyRWdfZ2dWeGpnNGxfZUFSR25CeUNRSjNLN0xCeXZHMGNUNURZa0FhOWpQUk5aWDdGRHNQaVRQcnBQN2hBYU5iM1h4WWwyb2pwUTJzclNpTE93T3M2dU95dVJjNEtmT0I5bWN4cDRDaVBRR2VNcHZrSWoyOHJVWEMzdVg1TUY3OG5maTYyXzhnOE9qUWlfVHNyMGZ4TVJvYThYYjd6YndzU2tpZV84NjItcUlKN1ZucdIB3AFBVV95cUxOXzl2ODlfMVFlM2R2bkxnbFZEYVhXTzhKN0s4bXhPMS10TkdxWHp0aGVmNmlpV0VxU0Vud1pDZmlJMUY4U1dZWXJlem90MGxZaHFpUEtQQlJ1LU94WGh0V2l2SVdyLUVlQkRwNWdOZldfeDBXT3daSnpYX3JndzRJUDI2V2Z0NWs3eFdFd2x4ZUhVRU5XNWQyYmNBNGI0Q0l3RENyWkxnTE1wcnhPcTFMZ0o0S3N0M2lDcndPWXlSektFb0VQNllwYkF2U2VsdTA4MmRqczhBMkpINUNz?oc=5
-
-- Trump Spoilt Ties With India 'Out Of Ego, Money From Pakistan': Ex-Envoy - NDTV
-  Trump Spoilt Ties With India 'Out Of
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeWRmb29RQ2FTN25fYTBKVzhCcXIwX2RHM292QkpsTlI2aWFiWkxQdXhaT3FFNmxDajhaRWZrYlJVUlFYcjgtenlOWHV1RDU2UVN3SEtKQlBpNFJSVDQwdm4ySEdVck4xSTVDSndTbE9qcThkaWpmR3AtVmpZRU92NGg4S0RvREhmLUJxRHEtSFpjaTVuZXJ5aXRHNWJKZDF5ME9tS0Znc280dGQtdW1aVGNHRHhWNFJVR0gySFp2MGJOT21zQ1hITkY1eDZVWHVFUzFVa0lnQVpjRlgzRkHSAeYBQVVfeXFMTXFLYTNycThoNHpoa05YS1Bld2xLUVVudG81NzdYd19UZmZPYm54dnVRY3JJeW05U2wySjd0eE1yenppdlNUd0w2NW52SkZzZFo4ZnJrTVJyZTdRMXA3dEJFcXZJVDZKUUM1N2o2N3FVSUdWNklaOHltaURmb1E3OXNVNzVabVdsZDVWS05ITXNmNkRrYWhJQkhTdjB2ZzVYZG5Xd2VOZk92ZWxrUFRwUTc1clprRVBlRlBocGxqR2tNR1JQR3RhTnBxMG5jU2liaUE5RnNYdjQtWnFKSFVRQnBkWFdsbEE?oc=5
-
-- Centre to check lapses in Jal Jeevan Mission works | Latest News India - Hindustan Times
-  Hindustan Times: Centre to check lapses in Jal
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWREUldYY2R3bEx2WThkVlFrOFdxRGliT3RCcUpwS3lFT2NELV9kbDhmTTdvUnZzVmdpdzBfaXZxaWEwdFh1bnRUWEtIanpGRGNHckNwRGk3MXdXX1UyUGdzYVhxZ1c2Q3dVUXNpbzBIeTJNTmFwNmtUUi04UE5OeVVnMGRsTmtXak40OHZyMTBLN0hWRUE2QV9xeWVFVjlaQjA3NFg2clU2ZUg4TWpUN3hiY9IBuAFBVV95cUxQOVhCcWp0TER4VU1KRE9HN3lvWUJlSGYtMHVfQUh3LWo3UlUzeXNyN3Fadi1tVXF5eGpXNnE0cnE2UmM1UlJ4MFZOd0RNZGFpUklFeHJFbkYycmxJb3hNYzlpcUtUOEFDaFF5WlJjN21remR3OHhoQ3AxdldZTDBVZ3hNVTNuRVRBLUJhTmQteTdDU0xIWS16NXVGWmxaVlMzWlA2SFRjU1ZBTDBEblRaTE55a3V3OEpK?oc=5
-
-- Top news headlines for school assembly: October 17 - India Today
-  The school assembly was held on October
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNMk51dmhMZXNVRmJDaEEwSWpLNnJTTXNjaGhMbktYemlOMi1RZHI1czFibnVKVXAyNEgzNFJFM2R3dEkzU3lLR2tDaU9XSWJVZnlURVZwMTg2MWRaUUttS2g3X1NsRXBqZ0g5Y3FoNkkzSDIwa01Rb2NPakN1Tkh0V2cwNUlKUlk4SG1UbXhWM1BwQk9YakRJSzVoRWdneE5jeE1sOURzcVBLZ2ZhV1ByWlhZbnFoN0FXWWpjVVFn0gHDAUFVX3lxTE1wTDkxTk5kSW9UTzB2d29DUnZDTUJYLTJfczBzZHlZUFh3Ynp2LUliNHNLTG81eFlfbjc1WUxGeEw5b0t0TWNrblpRZ1dGNThxRDBrbzdyM1dvSjRLVENlVmVtX0J2NmotaVBPV3JTcTNxRERoTTdKaU52LTYtNDFuQWM5bDNaZDdSYVZXXzhOWWZkWFFDeHpER0Z2cUl4NXZGY1dUdDN4SDhWY3EyQmpOa0pocHh3Ym9MYkY5R3FUOFFsZw?oc=5
-
-- Nitish raises Bihar’s past at NDA campaign launch | Latest News India - Hindustan Times
-  Nitish raises Bihar’s past at NDA
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXI0Z0YzV0xMQ0ZRYmszcjJzRmctVFZ3SnBGVW8wa2tpU2dOYzFGdzRLeS1IY3lHcVNtNUR6cGpCQVZ5WkViSFFtVDhCNXc4aWRfR0k0M0FRT1p2c21QeVdaWHU0TXViZWJPXy1BSzQ1eVJhcGJGQWNsRlJyeEt2TXV6ZUVmcUgwM0UxN2pBRmM0QnJNQ0Q3Q3BkY2FYX203ZE03MGlsMllmMTgyaEJ1eTZn0gG3AUFVX3lxTFBvVllWNlFWa1htak0wR0pSLTgzOG9jcXpXZERUb1cxaFJhUHFBUzZZRHZ4SG92Q2F6YnJBbUZJMDlBaFhLUEJtVVVVNG1DWWpuRGRtZDdSSlhwWGJsTDR0SEw0TXRoS1UzVmlwU1ZjMFJPUnVrQTVucEptM2JWTXdkWlZncS1XWU9QSGxLOHgzWVdzeFlFZlhiWkhnRkp6Zk5jMnZLMmpna2NQajY4TnhLTFpWeVlXNA?oc=5
+- Yes Bank Q2 Preview: Robust PAT growth of up to 41% YoY seen, NII expected to rise up to 7%. 9 things to watch
+  Yes Bank is expected to post robust Q2 earnings with up to 41% YoY growth in PAT and a 4–7% rise in NII. However, sequential performance may soften due to weaker
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q2-preview-robust-pat-growth-of-up-to-41-yoy-seen-nii-expected-to-rise-up-to-7-9-things-to-watch/articleshow/124621321.cms
 
 - India Responds To Trump's Claim That PM Modi Made A Russian Oil Promise - NDTV
-  India Responds To Trump's Claim That PM Modi Made
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR1lLNkJJX2J1M0hQUHNZRWNWdjJSM1JtUzhzSFIyRWdfZ2dWeGpnNGxfZUFSR25CeUNRSjNLN0xCeXZHMGNUNURZa0FhOWpQUk5aWDdGRHNQaVRQcnBQN2hBYU5iM1h4WW
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR1lLNkJJX2J1M0hQUHNZRWNWdjJSM1JtUzhzSFIyRWdfZ2dWeGpnNGxfZUFSR25CeUNRSjNLN0xCeXZHMGNUNURZa0FhOWpQUk5aWDdGRHNQaVRQcnBQN2hBYU5iM1h4WWwyb2pwUTJzclNpTE93T3M2dU95dVJjNEtmT0I5bWN4cDRDaVBRR2VNcHZrSWoyOHJVWEMzdVg1TUY3OG5maTYyXzhnOE9qUWlfVHNyMGZ4TVJvYThYYjd6YndzU2tpZV84NjItcUlKN1ZucdIB3AFBVV95cUxOXzl2ODlfMVFlM2R2bkxnbFZEYVhXTzhKN0s4bXhPMS10TkdxWHp0aGVmNmlpV0VxU0Vud1pDZmlJMUY4U1dZWXJlem90MGxZaHFpUEtQQlJ1LU94WGh0V2l2SVdyLUVlQkRwNWdOZldfeDBXT3daSnpYX3JndzRJUDI2V2Z0NWs3eFdFd2x4ZUhVRU5XNWQyYmNBNGI0Q0l3RENyWkxnTE1wcnhPcTFMZ0o0S3N0M2lDcndPWXlSektFb0VQNllwYkF2U2VsdTA4MmRqczhBMkpINUNz?oc=5
 
-- Trump Spoilt Ties With India 'Out Of Ego, Money From Pakistan': Ex-Envoy - NDTV
-  Trump Spoilt Ties With India 'Out Of
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeWRmb29RQ2FTN25fYTBKVzhCcXIwX2RHM292QkpsTlI2aWFiWkxQdXhaT3FFNmxDajhaRWZrYlJVUlFYcjgtenlOWHV1RDU2UVN3SEtKQlBpNFJSVDQwdm4ySEdVck4xSTVDSndTbE9qcThkaWpmR3AtVmpZRU92NGg4S0RvREhmLUJxRHEtSFpjaTVuZXJ5aXRHNWJKZDF5ME9tS0Znc280dGQtdW1aVGNHRHhWNFJVR0gySFp2MGJOT21zQ1hITkY1eDZVWHVFUzFVa0lnQVpjRlgzRkHSAeYBQVVfeXFMTXFLYTNycThoNHpoa05YS1Bld2xLUVVudG81NzdYd19UZmZPYm54dnVRY3JJeW05U2wySjd0eE1yenppdlNUd0w2NW52SkZzZFo4ZnJrTVJyZTdRMXA3dEJFcXZJVDZKUUM1N2o2N3FVSUdWNklaOHltaURmb1E3OXNVNzVabVdsZDVWS05ITXNmNkRrYWhJQkhTdjB2ZzVYZG5Xd2VOZk92ZWxrUFRwUTc1clprRVBlRlBocGxqR2tNR1JQR3RhTnBxMG5jU2liaUE5RnNYdjQtWnFKSFVRQnBkWFdsbEE?oc=5
+- SC voices concern over rising instances of digital arrest in country, seeks Centre's response | Latest News India - Hindustan Times
+  The Indian government has expressed concern over rising instances of digital arrest in country.
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPanZKbXk4M1h1alpsNTc4ZUFMakZ6bUJKcXJmTkZUV1F2Qmk2UTRCUTQydGVLNXFrLWczZTVZQTliWUhKY21UTElkYkkwdXZOcGpVeDJwMzdJWm1BOFpXU1F4bkEwVUJ3U3NoZEhDcXNnQzVScmNMQktQazVCR21xQlROY3ZFLV9QWHkyM3JkWjdUbE1qTUU1NGt5RE54RDFJaXRWbTUxaUM0TGlobUI2RmxyRWZzTndJcTN4Q1lFeEZEZFRPdnprdDlScnRoQ2ZDSnNhRDIySk5scTZfZEJQanluaXl0Vjc0OWRv0gHwAUFVX3lxTFAyM1dWa1VWNEg2dGZXTmZKYVk4UmVFN3JKQXNnNjFPRDNJOWV1RjB5RGI2d3lJV3IxdlBSN1YzQWtCMjlod19Na1hFVzluX3dUeEZaUkRCR29iQkdMcTBVWkZZclVwZ1ZQSjBxU3YxZG13VjNtbXoxV3N3MVVKSjNJenRTaHRUNTVfOXFhbzR6VUdqOVBtdGgxRV9hbUJTLWtsdjlhTWhfNEFza0prQURtQlU2dUNwMU1ma1paR05ITS1rRkR5eHBoZDVBRGNPSDJmNFVxX09qQnhtZThneWswXzBDNzdELWZYanU0YWZDMA?oc=5
 
-- Centre to check lapses in Jal Jeevan Mission works | Latest News India - Hindustan Times
-  Hindustan Times: Centre to check lapses in Jal
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWREUldYY2R3bEx2WThkVlFrOFdxRGliT3RCcUpwS3lFT2NELV9kbDhmTTdvUnZzVmdpdzBfaXZxaWEwdFh1bnRUWEtIanpGRGNHckNwRGk3MXdXX1UyUGdzYVhxZ1c2Q3dVUXNpbzBIeTJNTmFwNmtUUi04UE5OeVVnMGRsTmtXak40OHZyMTBLN0hWRUE2QV9xeWVFVjlaQjA3NFg2clU2ZUg4TWpUN3hiY9IBuAFBVV95cUxQOVhCcWp0TER4VU1KRE9HN3lvWUJlSGYtMHVfQUh3LWo3UlUzeXNyN3Fadi1tVXF5eGpXNnE0cnE2UmM1UlJ4MFZOd0RNZGFpUklFeHJFbkYycmxJb3hNYzlpcUtUOEFDaFF5WlJjN21remR3OHhoQ3AxdldZTDBVZ3hNVTNuRVRBLUJhTmQteTdDU0xIWS16NXVGWmxaVlMzWlA2SFRjU1ZBTDBEblRaTE55a3V3OEpK?oc=5
+- "Changing The Way Of Struggle": Top Maoist To NDTV After Laying Down Arms - NDTV
+  "Changing The Way Of Struggle": Top Maoist To
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNaEtTS2ZDS3BTbHhaNUFCbGNLb3JqcGd5ZTVsWjFaVHYyWXJGSXRGa3hnVXNfTk1aUkNhb3BHQThXNmllN1hqcDZRZTBTNl84MndoRTJ2SkNVR1g5Y25USm5mMFp1akFpWEcyRmV4bTdranNGX0NYbXVCN05BVDk1SjFnMkhBR2RtdFJSandrc1lscWwyTEFwZU91VThobU1jLWk5N3p0UVlOSnVmNHdZ0gG3AUFVX3lxTFA4ZjVZZmFrRGpsSnZPZDhmdjB2Rllvb01wMDBydVFoTVNqeHZZNG42MGtsRGZ5enVESkFjM1U5SmI1X2Z5STkxbkROZzZsV2ZaMUZFaFp0Y1BTSUxTbHgyaEd6SWt4eHhSbjZxQW5UWHN3S3F6cGxUVXp1cDRBZVZ4VWtRZkRQY3cyTUx3WnVVSXlqdXladDNnQ0c3d2xKRllDMEpmaXkwb1VGQlg1am1mamp3MHhDNA?oc=5
 
-- Top news headlines for school assembly: October 17 - India Today
-  The school assembly was held on October
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNMk51dmhMZXNVRmJDaEEwSWpLNnJTTXNjaGhMbktYemlOMi1RZHI1czFibnVKVXAyNEgzNFJFM2R3dEkzU3lLR2tDaU9XSWJVZnlURVZwMTg2MWRaUUttS2g3X1NsRXBqZ0g5Y3FoNkkzSDIwa01Rb2NPakN1Tkh0V2cwNUlKUlk4SG1UbXhWM1BwQk9YakRJSzVoRWdneE5jeE1sOURzcVBLZ2ZhV1ByWlhZbnFoN0FXWWpjVVFn0gHDAUFVX3lxTE1wTDkxTk5kSW9UTzB2d29DUnZDTUJYLTJfczBzZHlZUFh3Ynp2LUliNHNLTG81eFlfbjc1WUxGeEw5b0t0TWNrblpRZ1dGNThxRDBrbzdyM1dvSjRLVENlVmVtX0J2NmotaVBPV3JTcTNxRERoTTdKaU52LTYtNDFuQWM5bDNaZDdSYVZXXzhOWWZkWFFDeHpER0Z2cUl4NXZGY1dUdDN4SDhWY3EyQmpOa0pocHh3Ym9MYkY5R3FUOFFsZw?oc=5
+- Evening news wrap: Entire Gujarat cabinet, except CM, resigns; India shuts down Trump's claim on Russian - Times of India
+  Evening news wrap: Entire Gujarat cabinet, except CM, resigns.
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOazh5T3FadkIxR3RMXzlNd21YTmNrTHhOR1hCQ2dmZGtPNXdSNzFMWEcwdlItVWwwcnFyaHhjYzUzOXdKcmRUTkJjV21maFk2N2RnX0pjY190T0dKVzhnMURsM3BsUXRlOXdPcXpzcUhtTE5uN2l0UGtzbWwycWtWTEF4TkNjYjRRa1FPV0p2aklMZ3lHcEs1b3pGWEtoSlVyb2w1NGZJZ0dXY20yTzBEOFRFS0FhX0JFVkYwclc3VF8tNVFUNXJzZl9zWERpUW1DX2tsTHRvTGNiNEh6ZXp3Q1dwSWNPbG5VMU9STER1SjhTMmJSRjZYY3NWV1RfRlExV2kyWVFDdTBCa04w0gGSAkFVX3lxTE04anowdXkwMTZLbDR6RmxncFZrLXNtdUtGUGFYa0sxMElaRnVLTzZqNkhTb1NwRFBfeUE0TW8zN0JldnlHZWNORDZNSG5RODcwRUtlSWlhLUlkb1V6SHFTSE9PdF8tUlQyNTNwXzJRemRQa3RrNkhCLWhVdFdkVjVUSk4tb2VfMWVyYnMydnhJem42SS1WX2ZfS3k2UmZhTVB1eG9BUG56QXkwcjBENXlJaDcwRXBpUHlrYm12MzRoWDdBM2wyRXkxYVUtOUg5X3FBZlRKZHRMWUNxYnB6emt5STQxeDFxLXZBaWRuRUplcUFoUGVjUXVZcFU3S3lDd2NyTDZ3VnNtUkVkRlpCdVpSRmc?oc=5
 
-- Nitish raises Bihar’s past at NDA campaign launch | Latest News India - Hindustan Times
-  Nitish raises Bihar’s past at NDA
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXI0Z0YzV0xMQ0ZRYmszcjJzRmctVFZ3SnBGVW8wa2tpU2dOYzFGdzRLeS1IY3lHcVNtNUR6cGpCQVZ5WkViSFFtVDhCNXc4aWRfR0k0M0FRT1p2c21QeVdaWHU0TXViZWJPXy1BSzQ1eVJhcGJGQWNsRlJyeEt2TXV6ZUVmcUgwM0UxN2pBRmM0QnJNQ0Q3Q3BkY2FYX203ZE03MGlsMllmMTgyaEJ1eTZn0gG3AUFVX3lxTFBvVllWNlFWa1htak0wR0pSLTgzOG9jcXpXZERUb1cxaFJhUHFBUzZZRHZ4SG92Q2F6YnJBbUZJMDlBaFhLUEJtVVVVNG1DWWpuRGRtZDdSSlhwWGJsTDR0SEw0TXRoS1UzVmlwU1ZjMFJPUnVrQTVucEptM2JWTXdkWlZncS1XWU9QSGxLOHgzWVdzeFlFZlhiWkhnRkp6Zk5jMnZLMmpna2NQajY4TnhLTFpWeVlXNA?oc=5
+- Top News Headlines of October 16, 2025 | Italian news publishers demand probe into Google AI overviews, calling it a ‘traffic killer’ - The Indian Express
+  The Indian Express has published a list of top news stories of October 16, 2025. The list includes stories
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDk4cElhUk9rMjdwTk4ya05LV3FxTmtMRGh4UV9LU0lNUTV0dHgzU1Jva0YyYy1ZY3lnOEZJMlBkVlNrWEF6VGJXZzNvZzA5RXdKMnFQVFYySEN6aUtyQXJ3RHk2bUpCVHRkZ285QXJsOFhNM2V1MnRlay1LYkhDQlFxUmppTlZKUkV3dDVseE9WejNiZkNwRWpqR0pqT3huaE1kX3JPeTNVcFpqU2ZDWXpfazZiQ3ROTkg1a3MySUdzZ1VRVWRyU09qbGFUcFZwbGtKVXgwNmdiUUZFWk5Pa2h2OXlsMzlE0gHvAUFVX3lxTFB2Yl9MREwydE50ZDJMeEEzczdaVUJjNjdRbUFHMDYzRDE4bFlKa213S3pLcGN2NXNJQnhkZ1QtY29rYnFGcTd1MXM3c1pyT2J6Rjg3c2VmLXpZN0xuQUUxUnVQc0VZSHR1bk9xR0hQandQdl9MaWZZRHluNHo5QVFhaU9IMjZLRnF0a0JGdHZEZ1ZsM3p1bVpIOUNzN1hRSnYwX0E5Z09Jemsyb054Q3ppd0ZTTkxzU1lCb0NZXzlBem5oUmhzODJ3bEVKRDlJQWRnUW8yeGxleUV3b21VOElCQUJOWDZKMVAwTG5XMUln?oc=5
+
+- India Responds To Trump's Claim That PM Modi Made A Russian Oil Promise - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR1lLNkJJX2J1M0hQUHNZRWNWdjJSM1JtUzhzSFIyRWdfZ2dWeGpnNGxfZUFSR25CeUNRSjNLN0xCeXZHMGNUNURZa0FhOWpQUk5aWDdGRHNQaVRQcnBQN2hBYU5iM1h4WW
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR1lLNkJJX2J1M0hQUHNZRWNWdjJSM1JtUzhzSFIyRWdfZ2dWeGpnNGxfZUFSR25CeUNRSjNLN0xCeXZHMGNUNURZa0FhOWpQUk5aWDdGRHNQaVRQcnBQN2hBYU5iM1h4WWwyb2pwUTJzclNpTE93T3M2dU95dVJjNEtmT0I5bWN4cDRDaVBRR2VNcHZrSWoyOHJVWEMzdVg1TUY3OG5maTYyXzhnOE9qUWlfVHNyMGZ4TVJvYThYYjd6YndzU2tpZV84NjItcUlKN1ZucdIB3AFBVV95cUxOXzl2ODlfMVFlM2R2bkxnbFZEYVhXTzhKN0s4bXhPMS10TkdxWHp0aGVmNmlpV0VxU0Vud1pDZmlJMUY4U1dZWXJlem90MGxZaHFpUEtQQlJ1LU94WGh0V2l2SVdyLUVlQkRwNWdOZldfeDBXT3daSnpYX3JndzRJUDI2V2Z0NWs3eFdFd2x4ZUhVRU5XNWQyYmNBNGI0Q0l3RENyWkxnTE1wcnhPcTFMZ0o0S3N0M2lDcndPWXlSektFb0VQNllwYkF2U2VsdTA4MmRqczhBMkpINUNz?oc=5
+
+- SC voices concern over rising instances of digital arrest in country, seeks Centre's response | Latest News India - Hindustan Times
+  The Indian government has expressed concern over rising instances of digital arrest in country.
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPanZKbXk4M1h1alpsNTc4ZUFMakZ6bUJKcXJmTkZUV1F2Qmk2UTRCUTQydGVLNXFrLWczZTVZQTliWUhKY21UTElkYkkwdXZOcGpVeDJwMzdJWm1BOFpXU1F4bkEwVUJ3U3NoZEhDcXNnQzVScmNMQktQazVCR21xQlROY3ZFLV9QWHkyM3JkWjdUbE1qTUU1NGt5RE54RDFJaXRWbTUxaUM0TGlobUI2RmxyRWZzTndJcTN4Q1lFeEZEZFRPdnprdDlScnRoQ2ZDSnNhRDIySk5scTZfZEJQanluaXl0Vjc0OWRv0gHwAUFVX3lxTFAyM1dWa1VWNEg2dGZXTmZKYVk4UmVFN3JKQXNnNjFPRDNJOWV1RjB5RGI2d3lJV3IxdlBSN1YzQWtCMjlod19Na1hFVzluX3dUeEZaUkRCR29iQkdMcTBVWkZZclVwZ1ZQSjBxU3YxZG13VjNtbXoxV3N3MVVKSjNJenRTaHRUNTVfOXFhbzR6VUdqOVBtdGgxRV9hbUJTLWtsdjlhTWhfNEFza0prQURtQlU2dUNwMU1ma1paR05ITS1rRkR5eHBoZDVBRGNPSDJmNFVxX09qQnhtZThneWswXzBDNzdELWZYanU0YWZDMA?oc=5
+
+- "Changing The Way Of Struggle": Top Maoist To NDTV After Laying Down Arms - NDTV
+  "Changing The Way Of Struggle": Top Maoist To
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNaEtTS2ZDS3BTbHhaNUFCbGNLb3JqcGd5ZTVsWjFaVHYyWXJGSXRGa3hnVXNfTk1aUkNhb3BHQThXNmllN1hqcDZRZTBTNl84MndoRTJ2SkNVR1g5Y25USm5mMFp1akFpWEcyRmV4bTdranNGX0NYbXVCN05BVDk1SjFnMkhBR2RtdFJSandrc1lscWwyTEFwZU91VThobU1jLWk5N3p0UVlOSnVmNHdZ0gG3AUFVX3lxTFA4ZjVZZmFrRGpsSnZPZDhmdjB2Rllvb01wMDBydVFoTVNqeHZZNG42MGtsRGZ5enVESkFjM1U5SmI1X2Z5STkxbkROZzZsV2ZaMUZFaFp0Y1BTSUxTbHgyaEd6SWt4eHhSbjZxQW5UWHN3S3F6cGxUVXp1cDRBZVZ4VWtRZkRQY3cyTUx3WnVVSXlqdXladDNnQ0c3d2xKRllDMEpmaXkwb1VGQlg1am1mamp3MHhDNA?oc=5
+
+- Evening news wrap: Entire Gujarat cabinet, except CM, resigns; India shuts down Trump's claim on Russian - Times of India
+  Evening news wrap: Entire Gujarat cabinet, except CM, resigns.
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOazh5T3FadkIxR3RMXzlNd21YTmNrTHhOR1hCQ2dmZGtPNXdSNzFMWEcwdlItVWwwcnFyaHhjYzUzOXdKcmRUTkJjV21maFk2N2RnX0pjY190T0dKVzhnMURsM3BsUXRlOXdPcXpzcUhtTE5uN2l0UGtzbWwycWtWTEF4TkNjYjRRa1FPV0p2aklMZ3lHcEs1b3pGWEtoSlVyb2w1NGZJZ0dXY20yTzBEOFRFS0FhX0JFVkYwclc3VF8tNVFUNXJzZl9zWERpUW1DX2tsTHRvTGNiNEh6ZXp3Q1dwSWNPbG5VMU9STER1SjhTMmJSRjZYY3NWV1RfRlExV2kyWVFDdTBCa04w0gGSAkFVX3lxTE04anowdXkwMTZLbDR6RmxncFZrLXNtdUtGUGFYa0sxMElaRnVLTzZqNkhTb1NwRFBfeUE0TW8zN0JldnlHZWNORDZNSG5RODcwRUtlSWlhLUlkb1V6SHFTSE9PdF8tUlQyNTNwXzJRemRQa3RrNkhCLWhVdFdkVjVUSk4tb2VfMWVyYnMydnhJem42SS1WX2ZfS3k2UmZhTVB1eG9BUG56QXkwcjBENXlJaDcwRXBpUHlrYm12MzRoWDdBM2wyRXkxYVUtOUg5X3FBZlRKZHRMWUNxYnB6emt5STQxeDFxLXZBaWRuRUplcUFoUGVjUXVZcFU3S3lDd2NyTDZ3VnNtUkVkRlpCdVpSRmc?oc=5
+
+- Top News Headlines of October 16, 2025 | Italian news publishers demand probe into Google AI overviews, calling it a ‘traffic killer’ - The Indian Express
+  The Indian Express has published a list of top news stories of October 16, 2025. The list includes stories
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDk4cElhUk9rMjdwTk4ya05LV3FxTmtMRGh4UV9LU0lNUTV0dHgzU1Jva0YyYy1ZY3lnOEZJMlBkVlNrWEF6VGJXZzNvZzA5RXdKMnFQVFYySEN6aUtyQXJ3RHk2bUpCVHRkZ285QXJsOFhNM2V1MnRlay1LYkhDQlFxUmppTlZKUkV3dDVseE9WejNiZkNwRWpqR0pqT3huaE1kX3JPeTNVcFpqU2ZDWXpfazZiQ3ROTkg1a3MySUdzZ1VRVWRyU09qbGFUcFZwbGtKVXgwNmdiUUZFWk5Pa2h2OXlsMzlE0gHvAUFVX3lxTFB2Yl9MREwydE50ZDJMeEEzczdaVUJjNjdRbUFHMDYzRDE4bFlKa213S3pLcGN2NXNJQnhkZ1QtY29rYnFGcTd1MXM3c1pyT2J6Rjg3c2VmLXpZN0xuQUUxUnVQc0VZSHR1bk9xR0hQandQdl9MaWZZRHluNHo5QVFhaU9IMjZLRnF0a0JGdHZEZ1ZsM3p1bVpIOUNzN1hRSnYwX0E5Z09Jemsyb054Q3ppd0ZTTkxzU1lCb0NZXzlBem5oUmhzODJ3bEVKRDlJQWRnUW8yeGxleUV3b21VOElCQUJOWDZKMVAwTG5XMUln?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-17 01:10:58 UTC_
+_Last updated: 2025-10-17 06:27:28 UTC_
