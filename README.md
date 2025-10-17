@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Amid protests targeting immigrants, Australian minister has a message for Indians: ‘We stand by you. You belong here’
+- More dominoes fall in Maoist ranks, key ‘bombmaker’ behind 2000 attack on Chandrababu Naidu among 170 who will surrender today
   
-  🔗 https://indianexpress.com/article/india/australian-minister-message-for-indians-10311223/
+  🔗 https://indianexpress.com/article/india/more-dominoes-fall-in-maoist-ranks-key-bombmaker-behind-2000-attack-on-chandrababu-naidu-among-170-who-will-surrender-today-10311439/
 
-- Dalit man ‘assaulted, urinated on’ in Madhya Pradesh after ‘objecting to illegal mining’
+- Govt to Delhi HC: CHRI diverted funds to benefit Bangladesh, Pakistan, Afghanistan
   
-  🔗 https://indianexpress.com/article/india/dalit-man-assaulted-urinated-on-in-madhya-pradeshs-katni-district-10311159/
+  🔗 https://indianexpress.com/article/india/govt-to-delhi-hc-chri-diverted-funds-to-benefit-bangladesh-pakistan-afghanistan-10311548/
 
-- ‘There should be no double standards’: India responds to UK sanctions over Russian oil trade
+- 258 Maoists surrendered in two days: Amit Shah
   
-  🔗 https://indianexpress.com/article/india/india-uk-sanctions-russian-oil-no-double-standards-10311101/
+  🔗 https://indianexpress.com/article/india/258-maoists-surrendered-in-two-days-amit-shah-10311560/
 
-- Tipra Motha founder Pradyot Kishore to move Supreme Court over ‘denial’ of customary laws and land rights to tribals
+- SC stays HC order upholding police custody of two woman journalists
   
-  🔗 https://indianexpress.com/article/india/tipra-motha-founder-pradyot-kishore-to-move-supreme-court-over-denial-of-customary-laws-and-land-rights-to-tribals-10311044/
+  🔗 https://indianexpress.com/article/india/sc-stays-hc-order-upholding-police-custody-of-two-woman-journalists-10311564/
 
-- Majority utilising Ayushman Bharat to seek care in private-sector hospitals at higher costs: Report
+- Govt clears decks to let Adani plant for Bangladesh link to India grid
   
-  🔗 https://indianexpress.com/article/india/ayushman-bharat-private-sector-hospitals-higher-cost-report-10311119/
+  🔗 https://indianexpress.com/article/india/govt-clears-decks-to-let-adani-plant-for-bangladesh-link-to-india-grid-10311489/
 
 - Oppo launches Find X9, Find X9 Pro in China with redesigned camera island and ColorOS 16
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/asus-launches-rog-xbox-ally-and-ally-x-handhelds-in-india-price-specs-10310575/
 
+- Trump Strikes Deal With German Merck on Tariffs and IVF Costs
+  President Donald Trump announced a deal with Germany’s Merck KGaA to cut the price of some of its fertility medicines in exchange for relief from threatened tariffs.
+  🔗 https://www.livemint.com/companies/news/trump-strikes-deal-with-german-merck-on-tariffs-and-ivf-costs-11760646945530.html
+
+- Saks Slashes Outlook and Reports Sales Drop on Inventory Issues
+  Saks Global Enterprises slashed full-year guidance and reported a sales decline in an earnings update to investors on Thursday. The company cited challenges managing the flow of inventory after years of
+  🔗 https://www.livemint.com/companies/company-results/saks-slashes-outlook-and-reports-sales-drop-on-inventory-issues-11760646082703.html
+
+- Zions, Western Alliance Banks Disclose Bad Loans Tied to Alleged Fraud
+  Shares of two regional US banks tumbled Thursday. The companies said they were the victims of fraud on loans to funds that invest in distressed commercial mortgages.
+  🔗 https://www.livemint.com/companies/company-results/zions-western-alliance-banks-disclose-bad-loans-tied-to-alleged-fraud-11760641744438.html
+
+- US bankruptcy watchdog wants independent probe of First Brands
+  US bankruptcy watchdog wants independent
+  🔗 https://www.livemint.com/companies/news/us-bankruptcy-watchdog-wants-independent-probe-of-first-brands-11760639542570.html
+
 - ‘Tougher world outside India’: Uday Kotak's strong advice to Indians in Diwali message amid US tariffs, global tensions
   Uday Kotak, founder of Kotak Mahindra Bank, urges Indians to
   🔗 https://www.livemint.com/companies/people/tougher-world-outside-india-uday-kotaks-strong-advice-to-indians-in-diwali-message-amid-us-tariffs-global-tensions-11760633147668.html
 
-- Global power sector struggling on broken supply chains, component crunch: Hitachi Energy CEO
-  Hitachi Energy's global CEO highlights the challenges of balancing supply and demand amid rising electricity needs, particularly in India. Globally, the power sector is grappling with
-  🔗 https://www.livemint.com/companies/hitachi-energy-india-investment-global-transformer-shortage-supply-crunch-11760610175920.html
+- Gold price today hits record high of $4,379, on track to log biggest weekly gain since 2008 - here's why
+  Gold bullion prices rose as much as 1.2 per cent to $4,379.93 an ounce on Friday. This put it on track to record its
+  🔗 https://www.livemint.com/market/commodities/gold-price-today-hits-record-high-of-4-379-on-track-to-log-biggest-weekly-gain-since-2008-heres-why-11760662172484.html
 
-- LVMH-backed L Catterton invests around $30 million in Healing Hands Clinic
-  This marks the first external funding for Healing Hands, which has so far been bootstrapped since its founding in
-  🔗 https://www.livemint.com/companies/lvmh-l-catterton-30-million-healing-hands-clinic-healthcare-proctology-laser-treatment-clinic-medicine-patient-care-11760621644218.html
+- Oil set for weekly loss as Trump-Putin summit looms
+  Oil set for weekly
+  🔗 https://www.livemint.com/market/commodities/oil-set-for-weekly-loss-as-trump-putin-summit-looms-11760662781060.html
 
-- Infosys fares better than expected, steers clear from big-bang AI announcements
-  TCS and Wipro have seen their revenue decline in the first half of the fiscal year. HCL Tech, Infosys and Tech Mahindra have seen growth. The decline does not portend
-  🔗 https://www.livemint.com/companies/infosys-fares-better-ai-layoffs-wipro-tcs-jobs-inflation-trump-it-firms-tech-mahindra-hcl-11760622132631.html
+- Global Markets Today: Nikkei 225, Kospi trade lower amid rising trade tensions
+  Australia's S&amp;amp;P/ASX 200 fell 0.36 per cent at the open. Japan's
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-kospi-trade-lower-amid-rising-trade-tensions-11760602279594.html
 
-- Nestlé India sees profit dip but strong sales growth amid GST adjustments
-  Nestlé India’s September-quarter profit fell 23.6% to  ₹753.2 crore. Sales rose 10.9
-  🔗 https://www.livemint.com/companies/news/nestl-india-profit-decline-strong-sales-growth-gst-adjustments-exceptional-costs-q2-higher-raw-material-prices-11760611245554.html
+- Australia, NZ dollars take collateral damage in rush from risk
+  Australia, NZ dollars take
+  🔗 https://www.livemint.com/market/stock-market-news/australia-nz-dollars-take-collateral-damage-in-rush-from-risk-11760662111238.html
 
-- Gita Gopinath's stark warning: World’s reliance on US equities could deepen impact of next market crash — what she said
-  The American stock market is near an all-time high, driven by enthusiasm for AI, but risks a painful correction similar to the dotcom crash
-  🔗 https://www.livemint.com/market/gita-gopinaths-stark-warning-world-s-reliance-on-us-equities-could-deepen-impact-of-next-market-crash-what-she-said-11760630192378.html
+- Stock market today: Trade setup for Nifty 50, India–US trade talks, gold prices to Reliance Q2 results; 8 stocks to buy
+  The Indian stock market surged on October 16, with the Sensex climbing 862 points and Nifty 50 up 262 points. Optimism was fueled by Q2 earnings insights, potential trade
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-india-us-trade-talks-gold-prices-to-reliance-q2-results-8-stocks-to-buy-11760632360550.html
 
-- Eternal share price in focus: Will Friday bring a rebound or more selling pressure?
-  Eternal, Zomato's parent company, saw a 2% drop in shares to  ₹347 after reporting a significant net profit decline. Investor sentiment was affected by cautious growth outlook
-  🔗 https://www.livemint.com/market/stock-market-news/eternal-share-price-in-focus-will-friday-bring-a-rebound-or-more-selling-pressure-11760625621280.html
-
-- Gold price today: Rates hit a new high of $4,289 on Comex as investors seek safe-haven asset amid US-China trade tension
-  Gold futures at New York hit a fresh all-time high of $4,289.90 per ounce on Thursday, 16 October 2025. Here
-  🔗 https://www.livemint.com/market/commodities/gold-price-today-rates-hit-a-new-high-of-4-288-on-comex-as-investors-seek-safe-haven-asset-amid-us-china-trade-tension-11760627360076.html
-
-- Infosys ADR shares crash 4% on NYSE after Q2 results, hit 6-month low as decline extends to third day
-  Infosys American Depository Receipt (ADR) dropped 4% to $15.82 on the NYSE, marking its lowest level
-  🔗 https://www.livemint.com/market/infosys-adr-shares-crash-4-on-nyse-after-q2-results-hit-6-month-low-as-decline-extends-to-third-day-11760622803780.html
-
-- What could stop the gold rally in its tracks? Not much.
-  Central banks and private investors have driven demand for gold. Jamie Dim
-  🔗 https://www.livemint.com/market/commodities/what-could-stop-the-gold-rally-in-its-tracks-not-much-11760619347556.html
+- Zoho founder Sridhar Vembu steps back from public engagements: ‘I have to ship some code’
+  Zoho founder and chief scientist Sridhar Vembu announced on 15 Oct 2025 that he will take a temporary break from external engagements to focus on completing a delayed coding project.
+  🔗 https://www.livemint.com/technology/tech-news/zoho-founder-sridhar-vembu-steps-back-from-public-engagements-i-have-to-ship-some-code-arattai-vani-11760662068422.html
 
 - OnePlus launches Android 16 powered OxygenOS 16 in India: Top 5 features you should know
   OxygenOS 16 has been launched by OnePlus in India. Android 16 introduces fluid animations
@@ -96,89 +100,65 @@
   Anthropic CEO Dario Amodei revealed that 90% of the startup's code is now generated by AI models. He emphasized that this shift allows engineers to focus on more complex tasks
   🔗 https://www.livemint.com/technology/tech-news/90-of-code-at-anthropic-now-written-by-ai-ceo-dario-amodei-says-humans-still-essential-11760608331609.html
 
-- Sam Altman defends ChatGPT’s ‘Adult Mode’ plans, says OpenAI isn’t the ‘moral police of the world’
-  OpenAI's Sam Altman explained that the Adult Mode for ChatGPT is designed to increase user freedom, with safeguards for minors. He stated that the company is not responsible for
-  🔗 https://www.livemint.com/technology/tech-news/sam-altman-defends-chatgpt-s-adult-mode-plans-says-openai-isn-t-the-moral-police-of-the-world-11760614684782.html
+- Asian shares dip after credit woes hit Wall Street
+  Asian shares declined Friday as US bank bad loans and credit market concerns dampened investor sentiment. Gold and silver hit record highs amid US economic fears and US-China tensions. The Bank of Japan signaled continued tightening
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-shares-dip-after-credit-woes-hit-wall-street/articleshow/124617994.cms
 
-- ET Market Watch: Sensex jumps 862 pts as private banks, earnings optimism drive rally
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/etmarkets-podcast/et-market-watch-sensex-jumps-862-pts-as-private-banks-earnings-optimism-drive-rally/podcast/124610250.cms
+- India's F&amp;B sector set for Rs 9,000 crore IPO boom amid rising demand
+  India's food and beverage sector is set for a ₹9,000 crore IPO wave from over a dozen companies. Major players like Milky Mist Dairy Food and Prestige Hospitality Ventures are leading the charge.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/indias-fb-sector-set-for-rs-9000-crore-ipo-boom-amid-rising-demand/articleshow/124617972.cms
 
-- Waaree Energies Q2 Results: Cons PAT skyrockets 133% YoY to Rs 842 crore, revenue surges 70%. Check dividend
-  Waaree Energies reported a 133% surge in consolidated Q2 net profit, reaching Rs 842 crore. The company's revenue also saw a significant 70% jump to Rs 6,066 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/waaree-energies-q2-results-cons-pat-skyrockets-133-yoy-to-rs-842-crore-revenue-surges-70-check-dividend/articleshow/124609801.cms
+- Pre-market action: Here's the trade setup for today's session
+  Indian equities surged on Thursday, with Nifty advancing 262 points. The broad-based rally was supported by strong Q2 results and improving sentiment.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124610625.cms
 
-- IOB Q2 Results: Profit jumps 58% YoY to Rs 1,226 crore as provisions drop
-  Indian Overseas Bank posted a 58% YoY rise in Q2 net profit to Rs 1,226 crore. Asset quality strengthened, with gross NPA falling
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/iob-q2-results-profit-jumps-58-yoy-to-rs-1226-crore-as-provisions-drop/articleshow/124609417.cms
+- How are Indian IT giants navigating AI demands and tariff uncertainty?
+  Despite uncertainties, companies are strategically integrating AI, bolstering their pipelines and showing resilience. Improved hiring and a weaker rupee are expected to support performance in the latter half of the fiscal year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/how-are-indian-it-giants-navigating-ai-demands-and-tariff-uncertainty/articleshow/124617925.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Friday
-  Nifty inching closer to its 52-week high amid strong buying in financials, autos, and consumer durables. Optimism over Q3 earnings revival, renewed F
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/124609368.cms
-
-- Eternal Q2 Results: Profit falls 63% to Rs 65 cr; revenue jumps 183%
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/eternal-q2-results-profit-falls-63-to-rs-65-cr-revenue-jumps-183/videoshow/124609155.cms
+- Stocks in news: RIL, Infosys, Wipro, Jio Financial, Tata Steel
+  Indian markets saw a strong rally on Thursday, with the Nifty 50 surpassing 25,600. Key companies like RIL, Infosys, and Wipro reported their second-quarter results. Analysts
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ril-infosys-wipro-jio-financial-tata-steel/articleshow/124610560.cms
 
 - India Responds To Trump's Claim That PM Modi Made A Russian Oil Promise - NDTV
   India Responds To Trump's Claim That PM Modi Made
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR1lLNkJJX2J1M0hQUHNZRWNWdjJSM1JtUzhzSFIyRWdfZ2dWeGpnNGxfZUFSR25CeUNRSjNLN0xCeXZHMGNUNURZa0FhOWpQUk5aWDdGRHNQaVRQcnBQN2hBYU5iM1h4WWwyb2pwUTJzclNpTE93T3M2dU95dVJjNEtmT0I5bWN4cDRDaVBRR2VNcHZrSWoyOHJVWEMzdVg1TUY3OG5maTYyXzhnOE9qUWlfVHNyMGZ4TVJvYThYYjd6YndzU2tpZV84NjItcUlKN1ZucdIB3AFBVV95cUxOXzl2ODlfMVFlM2R2bkxnbFZEYVhXTzhKN0s4bXhPMS10TkdxWHp0aGVmNmlpV0VxU0Vud1pDZmlJMUY4U1dZWXJlem90MGxZaHFpUEtQQlJ1LU94WGh0V2l2SVdyLUVlQkRwNWdOZldfeDBXT3daSnpYX3JndzRJUDI2V2Z0NWs3eFdFd2x4ZUhVRU5XNWQyYmNBNGI0Q0l3RENyWkxnTE1wcnhPcTFMZ0o0S3N0M2lDcndPWXlSektFb0VQNllwYkF2U2VsdTA4MmRqczhBMkpINUNz?oc=5
 
-- 'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian oil claim; launches 5-point attack - Times of India
-  'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeVRkWld5VEZMcmowRmd3RktrUUZfeURWbnlObVo5OGc1RDhhM2JHY2E0Wmp0MHRLa296OWVha2I1bDBDUUJSd0d5ZlBCaVNQQ3FNNHJqOEtNU25za1pxbzl5ODRobVVIWXNzVVdFOTlLLWItVlp3QUMyQ0NWTFE3N0pYc2JTQTlheUVPUXp2ZkVzaHFzX20zSFdJbW5jdVBWUmNXSnpvdUJEM1RqeFE0Z2NYY1QtOHRxSXBCdVd6d3RvejQ3QklDYmpJRWhweXdFS0ZwUnhyLVFQM3E0Yzd2SE9iRkN6d1pmay1EeHpzZVHSAfYBQVVfeXFMTl8ySkMzVHZMR1lyUUdFMnpqRHc1ZlJHcVBmVEdIWG9KR3FmQkJLRlpySzNoSEhTSEJiUDlWRFRQZWRsUll4bW1Ga0p6dzZROHJRSmIwdmRVc2tpeE1KczFBVkoxQTNKTFAwaTRsemc2d0VfR0Z3R0xwamJEMjNxdjZNbVVLWlE0aldhbFhiVkozdGM5VFJYNm9OdnJUTmxpUHVqTHBVNXlyVW1EdE5fRGZJY2hXbEtUYldvcFR0VVZvbmFlTUZoZlpPTEZuR0U1bVA0NExQRnR1R0pWNXJYMjVjazBFcDdKT3lwTTVxaUZySDVPT2hB?oc=5
+- Trump Spoilt Ties With India 'Out Of Ego, Money From Pakistan': Ex-Envoy - NDTV
+  Trump Spoilt Ties With India 'Out Of
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeWRmb29RQ2FTN25fYTBKVzhCcXIwX2RHM292QkpsTlI2aWFiWkxQdXhaT3FFNmxDajhaRWZrYlJVUlFYcjgtenlOWHV1RDU2UVN3SEtKQlBpNFJSVDQwdm4ySEdVck4xSTVDSndTbE9qcThkaWpmR3AtVmpZRU92NGg4S0RvREhmLUJxRHEtSFpjaTVuZXJ5aXRHNWJKZDF5ME9tS0Znc280dGQtdW1aVGNHRHhWNFJVR0gySFp2MGJOT21zQ1hITkY1eDZVWHVFUzFVa0lnQVpjRlgzRkHSAeYBQVVfeXFMTXFLYTNycThoNHpoa05YS1Bld2xLUVVudG81NzdYd19UZmZPYm54dnVRY3JJeW05U2wySjd0eE1yenppdlNUd0w2NW52SkZzZFo4ZnJrTVJyZTdRMXA3dEJFcXZJVDZKUUM1N2o2N3FVSUdWNklaOHltaURmb1E3OXNVNzVabVdsZDVWS05ITXNmNkRrYWhJQkhTdjB2ZzVYZG5Xd2VOZk92ZWxrUFRwUTc1clprRVBlRlBocGxqR2tNR1JQR3RhTnBxMG5jU2liaUE5RnNYdjQtWnFKSFVRQnBkWFdsbEE?oc=5
 
-- Congress Releases First List For Bihar, State Chief To Contest From Kutumba - NDTV
-  Congress Releases First List For Bihar, State Chief To
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOS0lxTXZ5ZzY2bENxRVpSWU1uRDFmMEgtYjFXbXFia3l6UlMyV3NfNUpWU3BObGhTQWdJenBJZ2x6SFhPZUF1UGRSNGVJbWNMVXBLTUtWdHhDNzduTDlMUG1GLUlxeG52WFpYY0dXUnRNcURsMDJBNmVzV2E4SndDWEZicEdTNVV4d3NZRm9Gb3ozUEdmLXA2Vmk3NS16LVRQYWo1LUoxY1lXeU1seHoyYXZHbl_SAbwBQVVfeXFMUFV2bkNoRnhNcGRJVVJMOFptd3RCU2ZtVWltWEY3MWlmakJZUWZHVGlNd29xU2VkbklFeFhzaUpVMGp4Rmh3Z3p1aVQ1T1V5UVRzUDAtUmpwZmRaUUNuOVN3REZub2VFcllhUFlvTmwzUmJlb2JUM0hMZS1JUVI4NzR4V2ZZV2l6VmVDekY4d2Z2QXh5OTJlV0VUdF9LQ1ZIMlhOWjRwM184cHdiay14ZHNxWEhLdTJRb1pQcXc?oc=5
+- Centre to check lapses in Jal Jeevan Mission works | Latest News India - Hindustan Times
+  Hindustan Times: Centre to check lapses in Jal
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWREUldYY2R3bEx2WThkVlFrOFdxRGliT3RCcUpwS3lFT2NELV9kbDhmTTdvUnZzVmdpdzBfaXZxaWEwdFh1bnRUWEtIanpGRGNHckNwRGk3MXdXX1UyUGdzYVhxZ1c2Q3dVUXNpbzBIeTJNTmFwNmtUUi04UE5OeVVnMGRsTmtXak40OHZyMTBLN0hWRUE2QV9xeWVFVjlaQjA3NFg2clU2ZUg4TWpUN3hiY9IBuAFBVV95cUxQOVhCcWp0TER4VU1KRE9HN3lvWUJlSGYtMHVfQUh3LWo3UlUzeXNyN3Fadi1tVXF5eGpXNnE0cnE2UmM1UlJ4MFZOd0RNZGFpUklFeHJFbkYycmxJb3hNYzlpcUtUOEFDaFF5WlJjN21remR3OHhoQ3AxdldZTDBVZ3hNVTNuRVRBLUJhTmQteTdDU0xIWS16NXVGWmxaVlMzWlA2SFRjU1ZBTDBEblRaTE55a3V3OEpK?oc=5
 
-- News Today Live Updates, 16 October | Italian news publishers demand probe into Google AI overviews, calling it a ‘traffic killer’ - The Indian Express
-  The Indian Express is one of the first to report on Google’s new search engine.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDk4cElhUk9rMjdwTk4ya05LV3FxTmtMRGh4UV9LU0lNUTV0dHgzU1Jva0YyYy1ZY3lnOEZJMlBkVlNrWEF6VGJXZzNvZzA5RXdKMnFQVFYySEN6aUtyQXJ3RHk2bUpCVHRkZ285QXJsOFhNM2V1MnRlay1LYkhDQlFxUmppTlZKUkV3dDVseE9WejNiZkNwRWpqR0pqT3huaE1kX3JPeTNVcFpqU2ZDWXpfazZiQ3ROTkg1a3MySUdzZ1VRVWRyU09qbGFUcFZwbGtKVXgwNmdiUUZFWk5Pa2h2OXlsMzlE0gHvAUFVX3lxTFB2Yl9MREwydE50ZDJMeEEzczdaVUJjNjdRbUFHMDYzRDE4bFlKa213S3pLcGN2NXNJQnhkZ1QtY29rYnFGcTd1MXM3c1pyT2J6Rjg3c2VmLXpZN0xuQUUxUnVQc0VZSHR1bk9xR0hQandQdl9MaWZZRHluNHo5QVFhaU9IMjZLRnF0a0JGdHZEZ1ZsM3p1bVpIOUNzN1hRSnYwX0E5Z09Jemsyb054Q3ppd0ZTTkxzU1lCb0NZXzlBem5oUmhzODJ3bEVKRDlJQWRnUW8yeGxleUV3b21VOElCQUJOWDZKMVAwTG5XMUln?oc=5
+- Top news headlines for school assembly: October 17 - India Today
+  The school assembly was held on October
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNMk51dmhMZXNVRmJDaEEwSWpLNnJTTXNjaGhMbktYemlOMi1RZHI1czFibnVKVXAyNEgzNFJFM2R3dEkzU3lLR2tDaU9XSWJVZnlURVZwMTg2MWRaUUttS2g3X1NsRXBqZ0g5Y3FoNkkzSDIwa01Rb2NPakN1Tkh0V2cwNUlKUlk4SG1UbXhWM1BwQk9YakRJSzVoRWdneE5jeE1sOURzcVBLZ2ZhV1ByWlhZbnFoN0FXWWpjVVFn0gHDAUFVX3lxTE1wTDkxTk5kSW9UTzB2d29DUnZDTUJYLTJfczBzZHlZUFh3Ynp2LUliNHNLTG81eFlfbjc1WUxGeEw5b0t0TWNrblpRZ1dGNThxRDBrbzdyM1dvSjRLVENlVmVtX0J2NmotaVBPV3JTcTNxRERoTTdKaU52LTYtNDFuQWM5bDNaZDdSYVZXXzhOWWZkWFFDeHpER0Z2cUl4NXZGY1dUdDN4SDhWY3EyQmpOa0pocHh3Ym9MYkY5R3FUOFFsZw?oc=5
 
-- Good news on US-India deal likely, thanks to Trump's ‘rare’ tiff with China | Latest News India - Hindustan Times
-  Good news on US-India deal likely, thanks to Trump's ‘ra
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxObGRsOV9YZ2I3aW9lMXhyOF8tVW9UQ3djdzRHdVk4Y0YycVg1VGlBNmM0cXJxdXU3bS10eGI1WWtzVC1lT2h2RGRGT1U4VGwwM2hZdE5SNF9QckhpMnVHRl9OOC1sNGhLRG5EcWRzS2xZMDBhdXZ1TE1PbEE4cUpIQ1l1Qi0xTFA0a0FYYmRsQURySmUxUjY3SjdCaVE3NXg5R3EzRVBGVU1IekhWenlaY3hTNnFTMDNxWmV6Yi1wcmdvcnFKUkFiN2VRQS1QQdIB0wFBVV95cUxNakFYMGg3aUF4RGc3bzFLXzhJd19fM2s5V0VMZ3FaSnBCckswQUJrV0dpejZ5LTVnbjBHb01xdFVOY3pSbVNiNGZvNF8yREg1Sl9uLVVVRzhNZkt5VzhFYmFfbWwtMS1EVDVTVVpxLW41UUtfUXZyVEoyTktNRG9Jamd5TGg4ZDQ1Nkp5cjlZVWszMUNWckJ3a1FnODVOMlNvVnBpZmxwYlVUSEpoc2x4WVdZOWxzNXNlQkNYTHRFbzVnbVlXaGdLRDAxVHI2Q1ZsdXo0?oc=5
-
-- India Responds To Trump's Claim That PM Modi Made A Russian Oil Promise - NDTV
-  India Responds To Trump's Claim That PM Modi Made
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR1lLNkJJX2J1M0hQUHNZRWNWdjJSM1JtUzhzSFIyRWdfZ2dWeGpnNGxfZUFSR25CeUNRSjNLN0xCeXZHMGNUNURZa0FhOWpQUk5aWDdGRHNQaVRQcnBQN2hBYU5iM1h4WWwyb2pwUTJzclNpTE93T3M2dU95dVJjNEtmT0I5bWN4cDRDaVBRR2VNcHZrSWoyOHJVWEMzdVg1TUY3OG5maTYyXzhnOE9qUWlfVHNyMGZ4TVJvYThYYjd6YndzU2tpZV84NjItcUlKN1ZucdIB3AFBVV95cUxOXzl2ODlfMVFlM2R2bkxnbFZEYVhXTzhKN0s4bXhPMS10TkdxWHp0aGVmNmlpV0VxU0Vud1pDZmlJMUY4U1dZWXJlem90MGxZaHFpUEtQQlJ1LU94WGh0V2l2SVdyLUVlQkRwNWdOZldfeDBXT3daSnpYX3JndzRJUDI2V2Z0NWs3eFdFd2x4ZUhVRU5XNWQyYmNBNGI0Q0l3RENyWkxnTE1wcnhPcTFMZ0o0S3N0M2lDcndPWXlSektFb0VQNllwYkF2U2VsdTA4MmRqczhBMkpINUNz?oc=5
-
-- 'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian oil claim; launches 5-point attack - Times of India
-  'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeVRkWld5VEZMcmowRmd3RktrUUZfeURWbnlObVo5OGc1RDhhM2JHY2E0Wmp0MHRLa296OWVha2I1bDBDUUJSd0d5ZlBCaVNQQ3FNNHJqOEtNU25za1pxbzl5ODRobVVIWXNzVVdFOTlLLWItVlp3QUMyQ0NWTFE3N0pYc2JTQTlheUVPUXp2ZkVzaHFzX20zSFdJbW5jdVBWUmNXSnpvdUJEM1RqeFE0Z2NYY1QtOHRxSXBCdVd6d3RvejQ3QklDYmpJRWhweXdFS0ZwUnhyLVFQM3E0Yzd2SE9iRkN6d1pmay1EeHpzZVHSAfYBQVVfeXFMTl8ySkMzVHZMR1lyUUdFMnpqRHc1ZlJHcVBmVEdIWG9KR3FmQkJLRlpySzNoSEhTSEJiUDlWRFRQZWRsUll4bW1Ga0p6dzZROHJRSmIwdmRVc2tpeE1KczFBVkoxQTNKTFAwaTRsemc2d0VfR0Z3R0xwamJEMjNxdjZNbVVLWlE0aldhbFhiVkozdGM5VFJYNm9OdnJUTmxpUHVqTHBVNXlyVW1EdE5fRGZJY2hXbEtUYldvcFR0VVZvbmFlTUZoZlpPTEZuR0U1bVA0NExQRnR1R0pWNXJYMjVjazBFcDdKT3lwTTVxaUZySDVPT2hB?oc=5
-
-- Congress Releases First List For Bihar, State Chief To Contest From Kutumba - NDTV
-  Congress Releases First List For Bihar, State Chief To
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOS0lxTXZ5ZzY2bENxRVpSWU1uRDFmMEgtYjFXbXFia3l6UlMyV3NfNUpWU3BObGhTQWdJenBJZ2x6SFhPZUF1UGRSNGVJbWNMVXBLTUtWdHhDNzduTDlMUG1GLUlxeG52WFpYY0dXUnRNcURsMDJBNmVzV2E4SndDWEZicEdTNVV4d3NZRm9Gb3ozUEdmLXA2Vmk3NS16LVRQYWo1LUoxY1lXeU1seHoyYXZHbl_SAbwBQVVfeXFMUFV2bkNoRnhNcGRJVVJMOFptd3RCU2ZtVWltWEY3MWlmakJZUWZHVGlNd29xU2VkbklFeFhzaUpVMGp4Rmh3Z3p1aVQ1T1V5UVRzUDAtUmpwZmRaUUNuOVN3REZub2VFcllhUFlvTmwzUmJlb2JUM0hMZS1JUVI4NzR4V2ZZV2l6VmVDekY4d2Z2QXh5OTJlV0VUdF9LQ1ZIMlhOWjRwM184cHdiay14ZHNxWEhLdTJRb1pQcXc?oc=5
-
-- News Today Live Updates, 16 October | Italian news publishers demand probe into Google AI overviews, calling it a ‘traffic killer’ - The Indian Express
-  The Indian Express is one of the first to report on Google’s new search engine.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDk4cElhUk9rMjdwTk4ya05LV3FxTmtMRGh4UV9LU0lNUTV0dHgzU1Jva0YyYy1ZY3lnOEZJMlBkVlNrWEF6VGJXZzNvZzA5RXdKMnFQVFYySEN6aUtyQXJ3RHk2bUpCVHRkZ285QXJsOFhNM2V1MnRlay1LYkhDQlFxUmppTlZKUkV3dDVseE9WejNiZkNwRWpqR0pqT3huaE1kX3JPeTNVcFpqU2ZDWXpfazZiQ3ROTkg1a3MySUdzZ1VRVWRyU09qbGFUcFZwbGtKVXgwNmdiUUZFWk5Pa2h2OXlsMzlE0gHvAUFVX3lxTFB2Yl9MREwydE50ZDJMeEEzczdaVUJjNjdRbUFHMDYzRDE4bFlKa213S3pLcGN2NXNJQnhkZ1QtY29rYnFGcTd1MXM3c1pyT2J6Rjg3c2VmLXpZN0xuQUUxUnVQc0VZSHR1bk9xR0hQandQdl9MaWZZRHluNHo5QVFhaU9IMjZLRnF0a0JGdHZEZ1ZsM3p1bVpIOUNzN1hRSnYwX0E5Z09Jemsyb054Q3ppd0ZTTkxzU1lCb0NZXzlBem5oUmhzODJ3bEVKRDlJQWRnUW8yeGxleUV3b21VOElCQUJOWDZKMVAwTG5XMUln?oc=5
-
-- Good news on US-India deal likely, thanks to Trump's ‘rare’ tiff with China | Latest News India - Hindustan Times
-  Good news on US-India deal likely, thanks to Trump's ‘ra
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxObGRsOV9YZ2I3aW9lMXhyOF8tVW9UQ3djdzRHdVk4Y0YycVg1VGlBNmM0cXJxdXU3bS10eGI1WWtzVC1lT2h2RGRGT1U4VGwwM2hZdE5SNF9QckhpMnVHRl9OOC1sNGhLRG5EcWRzS2xZMDBhdXZ1TE1PbEE4cUpIQ1l1Qi0xTFA0a0FYYmRsQURySmUxUjY3SjdCaVE3NXg5R3EzRVBGVU1IekhWenlaY3hTNnFTMDNxWmV6Yi1wcmdvcnFKUkFiN2VRQS1QQdIB0wFBVV95cUxNakFYMGg3aUF4RGc3bzFLXzhJd19fM2s5V0VMZ3FaSnBCckswQUJrV0dpejZ5LTVnbjBHb01xdFVOY3pSbVNiNGZvNF8yREg1Sl9uLVVVRzhNZkt5VzhFYmFfbWwtMS1EVDVTVVpxLW41UUtfUXZyVEoyTktNRG9Jamd5TGg4ZDQ1Nkp5cjlZVWszMUNWckJ3a1FnODVOMlNvVnBpZmxwYlVUSEpoc2x4WVdZOWxzNXNlQkNYTHRFbzVnbVlXaGdLRDAxVHI2Q1ZsdXo0?oc=5
+- Nitish raises Bihar’s past at NDA campaign launch | Latest News India - Hindustan Times
+  Nitish raises Bihar’s past at NDA
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXI0Z0YzV0xMQ0ZRYmszcjJzRmctVFZ3SnBGVW8wa2tpU2dOYzFGdzRLeS1IY3lHcVNtNUR6cGpCQVZ5WkViSFFtVDhCNXc4aWRfR0k0M0FRT1p2c21QeVdaWHU0TXViZWJPXy1BSzQ1eVJhcGJGQWNsRlJyeEt2TXV6ZUVmcUgwM0UxN2pBRmM0QnJNQ0Q3Q3BkY2FYX203ZE03MGlsMllmMTgyaEJ1eTZn0gG3AUFVX3lxTFBvVllWNlFWa1htak0wR0pSLTgzOG9jcXpXZERUb1cxaFJhUHFBUzZZRHZ4SG92Q2F6YnJBbUZJMDlBaFhLUEJtVVVVNG1DWWpuRGRtZDdSSlhwWGJsTDR0SEw0TXRoS1UzVmlwU1ZjMFJPUnVrQTVucEptM2JWTXdkWlZncS1XWU9QSGxLOHgzWVdzeFlFZlhiWkhnRkp6Zk5jMnZLMmpna2NQajY4TnhLTFpWeVlXNA?oc=5
 
 - India Responds To Trump's Claim That PM Modi Made A Russian Oil Promise - NDTV
   India Responds To Trump's Claim That PM Modi Made
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR1lLNkJJX2J1M0hQUHNZRWNWdjJSM1JtUzhzSFIyRWdfZ2dWeGpnNGxfZUFSR25CeUNRSjNLN0xCeXZHMGNUNURZa0FhOWpQUk5aWDdGRHNQaVRQcnBQN2hBYU5iM1h4WWwyb2pwUTJzclNpTE93T3M2dU95dVJjNEtmT0I5bWN4cDRDaVBRR2VNcHZrSWoyOHJVWEMzdVg1TUY3OG5maTYyXzhnOE9qUWlfVHNyMGZ4TVJvYThYYjd6YndzU2tpZV84NjItcUlKN1ZucdIB3AFBVV95cUxOXzl2ODlfMVFlM2R2bkxnbFZEYVhXTzhKN0s4bXhPMS10TkdxWHp0aGVmNmlpV0VxU0Vud1pDZmlJMUY4U1dZWXJlem90MGxZaHFpUEtQQlJ1LU94WGh0V2l2SVdyLUVlQkRwNWdOZldfeDBXT3daSnpYX3JndzRJUDI2V2Z0NWs3eFdFd2x4ZUhVRU5XNWQyYmNBNGI0Q0l3RENyWkxnTE1wcnhPcTFMZ0o0S3N0M2lDcndPWXlSektFb0VQNllwYkF2U2VsdTA4MmRqczhBMkpINUNz?oc=5
 
-- 'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian oil claim; launches 5-point attack - Times of India
-  'Frightened': Rahul Gandhi slams PM Modi over Trump's Russian
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeVRkWld5VEZMcmowRmd3RktrUUZfeURWbnlObVo5OGc1RDhhM2JHY2E0Wmp0MHRLa296OWVha2I1bDBDUUJSd0d5ZlBCaVNQQ3FNNHJqOEtNU25za1pxbzl5ODRobVVIWXNzVVdFOTlLLWItVlp3QUMyQ0NWTFE3N0pYc2JTQTlheUVPUXp2ZkVzaHFzX20zSFdJbW5jdVBWUmNXSnpvdUJEM1RqeFE0Z2NYY1QtOHRxSXBCdVd6d3RvejQ3QklDYmpJRWhweXdFS0ZwUnhyLVFQM3E0Yzd2SE9iRkN6d1pmay1EeHpzZVHSAfYBQVVfeXFMTl8ySkMzVHZMR1lyUUdFMnpqRHc1ZlJHcVBmVEdIWG9KR3FmQkJLRlpySzNoSEhTSEJiUDlWRFRQZWRsUll4bW1Ga0p6dzZROHJRSmIwdmRVc2tpeE1KczFBVkoxQTNKTFAwaTRsemc2d0VfR0Z3R0xwamJEMjNxdjZNbVVLWlE0aldhbFhiVkozdGM5VFJYNm9OdnJUTmxpUHVqTHBVNXlyVW1EdE5fRGZJY2hXbEtUYldvcFR0VVZvbmFlTUZoZlpPTEZuR0U1bVA0NExQRnR1R0pWNXJYMjVjazBFcDdKT3lwTTVxaUZySDVPT2hB?oc=5
+- Trump Spoilt Ties With India 'Out Of Ego, Money From Pakistan': Ex-Envoy - NDTV
+  Trump Spoilt Ties With India 'Out Of
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeWRmb29RQ2FTN25fYTBKVzhCcXIwX2RHM292QkpsTlI2aWFiWkxQdXhaT3FFNmxDajhaRWZrYlJVUlFYcjgtenlOWHV1RDU2UVN3SEtKQlBpNFJSVDQwdm4ySEdVck4xSTVDSndTbE9qcThkaWpmR3AtVmpZRU92NGg4S0RvREhmLUJxRHEtSFpjaTVuZXJ5aXRHNWJKZDF5ME9tS0Znc280dGQtdW1aVGNHRHhWNFJVR0gySFp2MGJOT21zQ1hITkY1eDZVWHVFUzFVa0lnQVpjRlgzRkHSAeYBQVVfeXFMTXFLYTNycThoNHpoa05YS1Bld2xLUVVudG81NzdYd19UZmZPYm54dnVRY3JJeW05U2wySjd0eE1yenppdlNUd0w2NW52SkZzZFo4ZnJrTVJyZTdRMXA3dEJFcXZJVDZKUUM1N2o2N3FVSUdWNklaOHltaURmb1E3OXNVNzVabVdsZDVWS05ITXNmNkRrYWhJQkhTdjB2ZzVYZG5Xd2VOZk92ZWxrUFRwUTc1clprRVBlRlBocGxqR2tNR1JQR3RhTnBxMG5jU2liaUE5RnNYdjQtWnFKSFVRQnBkWFdsbEE?oc=5
 
-- Congress Releases First List For Bihar, State Chief To Contest From Kutumba - NDTV
-  Congress Releases First List For Bihar, State Chief To
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOS0lxTXZ5ZzY2bENxRVpSWU1uRDFmMEgtYjFXbXFia3l6UlMyV3NfNUpWU3BObGhTQWdJenBJZ2x6SFhPZUF1UGRSNGVJbWNMVXBLTUtWdHhDNzduTDlMUG1GLUlxeG52WFpYY0dXUnRNcURsMDJBNmVzV2E4SndDWEZicEdTNVV4d3NZRm9Gb3ozUEdmLXA2Vmk3NS16LVRQYWo1LUoxY1lXeU1seHoyYXZHbl_SAbwBQVVfeXFMUFV2bkNoRnhNcGRJVVJMOFptd3RCU2ZtVWltWEY3MWlmakJZUWZHVGlNd29xU2VkbklFeFhzaUpVMGp4Rmh3Z3p1aVQ1T1V5UVRzUDAtUmpwZmRaUUNuOVN3REZub2VFcllhUFlvTmwzUmJlb2JUM0hMZS1JUVI4NzR4V2ZZV2l6VmVDekY4d2Z2QXh5OTJlV0VUdF9LQ1ZIMlhOWjRwM184cHdiay14ZHNxWEhLdTJRb1pQcXc?oc=5
+- Centre to check lapses in Jal Jeevan Mission works | Latest News India - Hindustan Times
+  Hindustan Times: Centre to check lapses in Jal
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWREUldYY2R3bEx2WThkVlFrOFdxRGliT3RCcUpwS3lFT2NELV9kbDhmTTdvUnZzVmdpdzBfaXZxaWEwdFh1bnRUWEtIanpGRGNHckNwRGk3MXdXX1UyUGdzYVhxZ1c2Q3dVUXNpbzBIeTJNTmFwNmtUUi04UE5OeVVnMGRsTmtXak40OHZyMTBLN0hWRUE2QV9xeWVFVjlaQjA3NFg2clU2ZUg4TWpUN3hiY9IBuAFBVV95cUxQOVhCcWp0TER4VU1KRE9HN3lvWUJlSGYtMHVfQUh3LWo3UlUzeXNyN3Fadi1tVXF5eGpXNnE0cnE2UmM1UlJ4MFZOd0RNZGFpUklFeHJFbkYycmxJb3hNYzlpcUtUOEFDaFF5WlJjN21remR3OHhoQ3AxdldZTDBVZ3hNVTNuRVRBLUJhTmQteTdDU0xIWS16NXVGWmxaVlMzWlA2SFRjU1ZBTDBEblRaTE55a3V3OEpK?oc=5
 
-- News Today Live Updates, 16 October | Italian news publishers demand probe into Google AI overviews, calling it a ‘traffic killer’ - The Indian Express
-  The Indian Express is one of the first to report on Google’s new search engine.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDk4cElhUk9rMjdwTk4ya05LV3FxTmtMRGh4UV9LU0lNUTV0dHgzU1Jva0YyYy1ZY3lnOEZJMlBkVlNrWEF6VGJXZzNvZzA5RXdKMnFQVFYySEN6aUtyQXJ3RHk2bUpCVHRkZ285QXJsOFhNM2V1MnRlay1LYkhDQlFxUmppTlZKUkV3dDVseE9WejNiZkNwRWpqR0pqT3huaE1kX3JPeTNVcFpqU2ZDWXpfazZiQ3ROTkg1a3MySUdzZ1VRVWRyU09qbGFUcFZwbGtKVXgwNmdiUUZFWk5Pa2h2OXlsMzlE0gHvAUFVX3lxTFB2Yl9MREwydE50ZDJMeEEzczdaVUJjNjdRbUFHMDYzRDE4bFlKa213S3pLcGN2NXNJQnhkZ1QtY29rYnFGcTd1MXM3c1pyT2J6Rjg3c2VmLXpZN0xuQUUxUnVQc0VZSHR1bk9xR0hQandQdl9MaWZZRHluNHo5QVFhaU9IMjZLRnF0a0JGdHZEZ1ZsM3p1bVpIOUNzN1hRSnYwX0E5Z09Jemsyb054Q3ppd0ZTTkxzU1lCb0NZXzlBem5oUmhzODJ3bEVKRDlJQWRnUW8yeGxleUV3b21VOElCQUJOWDZKMVAwTG5XMUln?oc=5
+- Top news headlines for school assembly: October 17 - India Today
+  The school assembly was held on October
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNMk51dmhMZXNVRmJDaEEwSWpLNnJTTXNjaGhMbktYemlOMi1RZHI1czFibnVKVXAyNEgzNFJFM2R3dEkzU3lLR2tDaU9XSWJVZnlURVZwMTg2MWRaUUttS2g3X1NsRXBqZ0g5Y3FoNkkzSDIwa01Rb2NPakN1Tkh0V2cwNUlKUlk4SG1UbXhWM1BwQk9YakRJSzVoRWdneE5jeE1sOURzcVBLZ2ZhV1ByWlhZbnFoN0FXWWpjVVFn0gHDAUFVX3lxTE1wTDkxTk5kSW9UTzB2d29DUnZDTUJYLTJfczBzZHlZUFh3Ynp2LUliNHNLTG81eFlfbjc1WUxGeEw5b0t0TWNrblpRZ1dGNThxRDBrbzdyM1dvSjRLVENlVmVtX0J2NmotaVBPV3JTcTNxRERoTTdKaU52LTYtNDFuQWM5bDNaZDdSYVZXXzhOWWZkWFFDeHpER0Z2cUl4NXZGY1dUdDN4SDhWY3EyQmpOa0pocHh3Ym9MYkY5R3FUOFFsZw?oc=5
 
-- Good news on US-India deal likely, thanks to Trump's ‘rare’ tiff with China | Latest News India - Hindustan Times
-  Good news on US-India deal likely, thanks to Trump's ‘ra
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxObGRsOV9YZ2I3aW9lMXhyOF8tVW9UQ3djdzRHdVk4Y0YycVg1VGlBNmM0cXJxdXU3bS10eGI1WWtzVC1lT2h2RGRGT1U4VGwwM2hZdE5SNF9QckhpMnVHRl9OOC1sNGhLRG5EcWRzS2xZMDBhdXZ1TE1PbEE4cUpIQ1l1Qi0xTFA0a0FYYmRsQURySmUxUjY3SjdCaVE3NXg5R3EzRVBGVU1IekhWenlaY3hTNnFTMDNxWmV6Yi1wcmdvcnFKUkFiN2VRQS1QQdIB0wFBVV95cUxNakFYMGg3aUF4RGc3bzFLXzhJd19fM2s5V0VMZ3FaSnBCckswQUJrV0dpejZ5LTVnbjBHb01xdFVOY3pSbVNiNGZvNF8yREg1Sl9uLVVVRzhNZkt5VzhFYmFfbWwtMS1EVDVTVVpxLW41UUtfUXZyVEoyTktNRG9Jamd5TGg4ZDQ1Nkp5cjlZVWszMUNWckJ3a1FnODVOMlNvVnBpZmxwYlVUSEpoc2x4WVdZOWxzNXNlQkNYTHRFbzVnbVlXaGdLRDAxVHI2Q1ZsdXo0?oc=5
+- Nitish raises Bihar’s past at NDA campaign launch | Latest News India - Hindustan Times
+  Nitish raises Bihar’s past at NDA
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXI0Z0YzV0xMQ0ZRYmszcjJzRmctVFZ3SnBGVW8wa2tpU2dOYzFGdzRLeS1IY3lHcVNtNUR6cGpCQVZ5WkViSFFtVDhCNXc4aWRfR0k0M0FRT1p2c21QeVdaWHU0TXViZWJPXy1BSzQ1eVJhcGJGQWNsRlJyeEt2TXV6ZUVmcUgwM0UxN2pBRmM0QnJNQ0Q3Q3BkY2FYX203ZE03MGlsMllmMTgyaEJ1eTZn0gG3AUFVX3lxTFBvVllWNlFWa1htak0wR0pSLTgzOG9jcXpXZERUb1cxaFJhUHFBUzZZRHZ4SG92Q2F6YnJBbUZJMDlBaFhLUEJtVVVVNG1DWWpuRGRtZDdSSlhwWGJsTDR0SEw0TXRoS1UzVmlwU1ZjMFJPUnVrQTVucEptM2JWTXdkWlZncS1XWU9QSGxLOHgzWVdzeFlFZlhiWkhnRkp6Zk5jMnZLMmpna2NQajY4TnhLTFpWeVlXNA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-16 18:26:24 UTC_
+_Last updated: 2025-10-17 01:10:58 UTC_
