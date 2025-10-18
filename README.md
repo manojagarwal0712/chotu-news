@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- India’s economy has moved from fragile 5 to top 5 in the world: PM
+  
+  🔗 https://indianexpress.com/article/india/indias-economy-has-moved-from-fragile-5-to-top-5-in-the-world-pm-10313545/
+
+- India-Sri Lanka cooperation holds immense importance for region: PM
+  
+  🔗 https://indianexpress.com/article/india/india-sri-lanka-cooperation-holds-immense-importance-for-region-pm-10313498/
+
+- ‘Only game in town’: Abdelatty calls for making Gaza peace pact a success, meets PM
+  
+  🔗 https://indianexpress.com/article/india/only-game-in-town-abdelatty-calls-for-making-gaza-peace-pact-a-success-meets-pm-10313480/
+
 - Money laundering tribunal cannot send back property attachment order for reconsideration: Karnataka High Court
   
   🔗 https://indianexpress.com/article/india/money-laundering-tribunal-cannot-send-back-property-attachment-order-for-reconsideration-karnataka-high-court-10313265/
@@ -7,18 +19,6 @@
 - 2 dead, 5 injured after explosion at private shipyard in Goa
   
   🔗 https://indianexpress.com/article/india/2-dead-5-injured-after-explosion-at-private-shipyard-in-goa-10313266/
-
-- Death of 3 Bangladeshis national in clash with Tripura villagers underscores need for border fencing: MEA
-  
-  🔗 https://indianexpress.com/article/india/death-3-bangladeshis-national-clash-tripura-border-fencing-mea-10313293/
-
-- Grassroots worker with RSS connections – who is Morpal Suman, BJP’s candidate for Rajasthan’s Anta
-  
-  🔗 https://indianexpress.com/article/india/rss-morpal-suman-bjp-candidate-rajasthan-anta-10313231/
-
-- 3 students, including local ABVP office bearer, arrested for ‘recording’ women changing clothes in Madhya Pradesh college
-  
-  🔗 https://indianexpress.com/article/india/local-abvp-office-bearer-arrested-recording-women-changing-clothes-madhya-pradesh-college-10313178/
 
 - Meta to shut down Messenger desktop apps for Windows and Mac
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/vivo-originos-6-to-roll-out-early-november-for-x-fold5-x200-pro-and-more-10312707/
 
-- JSW Steel eyes strong H2 as domestic demand and policy support bolster outlook
-  India's largest steelmaker by domestic capacity reported a more than threefold jump in consolidated net profit for the September quarter.
-  🔗 https://www.livemint.com/companies/jsw-steel-strong-h2-domestic-demand-policy-support-imports-tariffs-china-bhushan-steel-alloys-finance-ministry-11760701442326.html
+- Businesses with small CSR budgets overspend, but large firms face hiccups, shows study
+  Companies with the largest CSR budgets face challenges in the
+  🔗 https://www.livemint.com/companies/news/india-inc-small-csr-budgets-tend-to-overspend-firms-with-large-budgets-face-hiccups-shows-study-11760711554908.html
 
-- Sequential price weakness halves Dalmia Bharat's Q2 profit despite strong annual growth
-  Despite the short-term sequential decline, the company declared an interim dividend of  ₹4 per share. reaffirmed its aggressive long-term strategy of expanding production capacity
-  🔗 https://www.livemint.com/companies/company-results/sequential-price-weakness-halves-dalmia-bharat-q2-profit-despite-strong-annual-growth-11760704392242.html
+- IndiGo signs contract with Airbus to confirm its order for 30 additional A350-900 aircraft
+  The move will effectively double its wide-body order to 60 aircraft.
+  🔗 https://www.livemint.com/companies/news/indigo-signs-contract-airbus-order-a350-900s-wide-body-aircraft-trent-xwb-84-rolls-royce-pieter-elbers-11760718367064.html
 
-- Dixon meets Q2 revenue target, bets on components to fuel growth
-  Dixon expects displays, mechanicals, power supplies and other components to represent a $12-billion net addressable industry in
-  🔗 https://www.livemint.com/companies/company-results/dixon-meets-q2-revenue-target-profit-growth-aided-by-unsold-goods-bets-on-components-to-drive-growth-11760708622358.html
+- Goldman Chief Credit Strategist Karoui Exits After 18 Years
+  Lotfi Karoui is leaving the Wall Street bank after 18 years, according to an internal memo.
+  🔗 https://www.livemint.com/companies/news/goldman-chief-credit-strategist-karoui-exits-after-18-years-11760731518584.html
 
-- JioStar Q2 results: Revenue sinks, but hit Hindi TV series reboot saves quarter
-  JioStar's revenue fell 35% in the September quarter, but net profit surged 56%. Propped up the reboot of
-  🔗 https://www.livemint.com/companies/company-results/jiostar-q2-results-ipl-hindi-soap-reboot-11760710376322.html
+- Putin Envoy Woos Musk With Proposal for Russia-to-US Tunnel
+  A special envoy to Russian President Vladimir Putin called on Elon Musk to build a tunnel between Alaska and Russia’s remote Far East.
+  🔗 https://www.livemint.com/companies/news/putin-envoy-woos-musk-with-proposal-for-russia-to-us-tunnel-11760730289281.html
 
-- Silver surge, weak rupee lift Hindustan Zinc’s Q2 profit despite lower output
-  The company's profit rose 14% on-year to  ₹2,649 crore in Q
-  🔗 https://www.livemint.com/companies/company-results/silver-surge-weak-rupee-lift-hindustan-zinc-q2-profit-despite-lower-output-11760708988514.html
+- Mubadala Capital Explores Buying Clear Channel Outdoor
+  Mubadala Capital is exploring an acquisition of Clear Channel Outdoor Holdings
+  🔗 https://www.livemint.com/companies/news/mubadala-capital-explores-buying-clear-channel-outdoor-11760729859783.html
 
-- Bitcoin drops under $106,000 to hit its lowest level in months, Binance-linked coin also struggles — Here's why
-  Crypto markets are in turmoil, with Bitcoin falling 4% and losing its status as a safe asset. Over $600 billion has been wiped from the crypto market.
-  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-drops-under-106-000-to-hit-its-lowest-level-in-months-binance-linked-coin-also-struggles-heres-why-11760719222152.html
+- Gold gets a helping hand from dollar’s slip
+  Gold has become a bigger part of the combined foreign currency and gold reserves held by countries
+  🔗 https://www.livemint.com/market/commodities/gold-gets-a-helping-hand-from-dollar-s-slip-11760720523283.html
 
-- Dixon Tech Q2 Results: Net profit surges 81% YoY to  ₹746 crore; margins expand to 3.8%
-  Dixon Technologies reported an 81% increase in Q2FY26 net profit to  ₹746 crore. Revenue from operations rose 29% Yo
-  🔗 https://www.livemint.com/market/dixon-tech-q2-results-net-profit-surges-81-yoy-to-rs-746-crore-margins-expand-to-38-11760710080208.html
+- Midwest IPO allotment status to be finalised soon. GMP, steps to check share allotment status online
+  Investors can check Midwest IPO allotment status online through the websites of BSE, NSE and the IPO registrar. Dam Capital Advisors is the book running lead manager and Kfin Technologies
+  🔗 https://www.livemint.com/market/ipo/midwest-ipo-allotment-status-to-be-finalised-soon-gmp-steps-to-check-share-allotment-status-online-11760719648100.html
 
-- Sify Infinit Spaces files DRHP for  ₹3,700 crore IPO, marks first public offer for data centre company — Details here
-  Sify Infinit Spaces Ltd. has submitted draft papers to SEBI for an IPO to raise  ₹3700 crore. The funds will support data center expansion and
-  🔗 https://www.livemint.com/market/ipo/sify-infinit-spaces-files-drhp-for-rs-3-700-crore-ipo-marks-first-public-offer-for-data-centre-company-details-here-11760704265486.html
+- Wall St Week Ahead-US stocks to be tested by Tesla, Netflix earnings and delayed CPI report
+  Wall St Week Ahead-US stocks to be tested by Tesla, Netflix earnings
+  🔗 https://www.livemint.com/market/stock-market-news/wall-st-week-ahead-us-stocks-to-be-tested-by-tesla-netflix-earnings-and-delayed-cpi-report-11760738882814.html
 
-- Midwest IPO: Issue subscribed 92.3 times on Day 03; NII, QIB portions see huge demand, GMP signals healthy listing
-   Midwest's IPO received strong investor interest, being oversubscribed 92.36 times. The grey market premium suggests a debut price of  ₹1,210, indicating
-  🔗 https://www.livemint.com/market/stock-market-news/midwest-ipo-issue-subscribed-92-3-times-on-day-03-nii-qib-portions-see-huge-demand-gmp-signals-healthy-listing-11760709770654.html
+- Dollar Caps Worst Week Since August on Fed Bets, Bank Woes
+  A Bloomberg gauge of the dollar closed out its worst week in more than two months. Expectations of Federal Reserve interest-rate cuts coupled with emerging credit risks in
+  🔗 https://www.livemint.com/market/stock-market-news/dollar-caps-worst-week-since-august-on-fed-bets-bank-woes-11760735723667.html
 
-- Wall Street today: US stocks rise after Trump says to meet Xi Jinping, banks rebound
-  The Dow Jones Industrial Average rose 0.52%, the S&amp;amp
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-today-us-stocks-mixed-amid-worries-over-regional-banks-instability-11760709194055.html
+- Retail Buyers Lost $17 Billion on Bitcoin Hype After Stock Crash
+  Retail investors have lost an estimated $17 billion in an attempt to gain Bitcoin exposure through digital asset treasury firms. These losses came from an overpricing of share premiums that allowed these companies to sell stock for far above the value of
+  🔗 https://www.livemint.com/market/cryptocurrency/retail-buyers-lost-17-billion-on-bitcoin-hype-after-stock-crash-11760731284194.html
+
+- White House joins Bluesky and immediately trolls Trump opponents
+  White House joins Blues
+  🔗 https://www.livemint.com/technology/tech-news/white-house-joins-bluesky-and-immediately-trolls-trump-opponents-11760745999912.html
 
 - UK use of AI age estimation tech on migrants fuels rights fears
   UK use of AI age estimation tech on
@@ -96,29 +100,25 @@
   Nano Banana lets users edit photos using prompts or their own images. Available in the US and India, with global expansion planned.
   🔗 https://www.livemint.com/technology/tech-news/nano-banana-rolls-out-in-google-lens-and-search-for-android-and-ios-how-to-create-ai-portraits-directly-11760692567933.html
 
-- MacBook Pro 2026: Touch screen, M6 chip, and sleeker design tipped - All you need to know
-  Apple is reportedly preparing a touch-screen MacBook Pro with OLED displays, M6 chips, and a hole-punch camera. The laptops will keep a full keyboard and trackpad,
-  🔗 https://www.livemint.com/technology/tech-news/macbook-pro-2026-touch-screen-m6-chip-and-sleeker-design-tipped-all-you-need-to-know-11760688539042.html
-
-- Dow rises as investors bet bank credit concerns are not serious: Live updates - CNBC
-  The Dow Jones Industrial Average closed up 0.3%
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5Gbm1nNllfaTE0YjY4RmcxcDJaNjBzR2lWZUpuQmNLS3Q3WXROR1hibThnSE1EMjZUZUhmcWpQXzNJTFFZU1k3QTZfRFJmd1JzdkdMWThWNFB0V0xQbGNzaFBZLUZZT19ZcXlFN1piVFdYaEtaYVRF0gF8QVVfeXFMT0lJaFJTOFpCdk5VWm9OcXd1MFlwNXlxbzcxVkZycnNqLWtiSDVJeUdCU0RRZllXVnJtd1I3a2tWRkRrZm91MjZjd29TcDdOZl81Wk9rdExKWGVzMUdoT05tZDFWSk9DdzdtS3lZdF9mcHdWZWx0UXY5b3oybg?oc=5
-
-- Stock Market Today: Dow Rises; Trump Says Extra China Tariffs 'Not Sustainable' - The Wall Street Journal
-  Stock Market Today: Dow Rises; Trump Says Extra China Tar
+- Stock Market News, Oct. 17, 2025: Dow Rises; Trump Says Extra China Tariffs 'Not Sustainable' - The Wall Street Journal
+  Stock Market News, Oct. 17, 2025: Dow Rises; Trump Says
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOYWZVYmpMcncyRkhQQk9yQlFiTFo0Mi03cDk5NG9MX3g4N0FSakF2RGI0Mi1OVUR6dnVyU3ZsUWs5Um1pY3FMN1NuS2c5dWZrLWtVYnpLVjU2anhxZEU3Z2ItTkd3ODFicVFwSEtWMWcwa3FEeTdpbmRRNDNJdmliRTBhaWdDd0k?oc=5
 
-- Stock Markets Today: Dow, S&P 500 and Nasdaq rise; U.S. stocks on pace for weekly gains despite credit concerns at regional banks - MarketWatch
-  The Dow, S&amp;P 500 and Nasdaq rise; U.S. stocks on
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOYTM0a29DY000ekF3YXZSUnc4Z2lsMy12NTRKbDBzbEZDa1FUT1pTUWFkVEstMFJMRGg3dUZ1ZTNwb28td2hPVElTU0pBVDFOTnhNUkJucldGZFg0UE56NW1HbjdqYWFfMzVlU3QwM2R0VEhzZ0habTBEa2R4WXR2dWlfdTd4NGRMeXJXZ1F4ZzU2VU9VOUh2YnAwanZZT1A2RzY5MWJYWU4wS3lVVE1MRnhtUlItZl9ZT2FEZXZONURtd2lVOS1CdXQ5bEM4RHM?oc=5
+- Stocks close higher as bank credit worries, China trade tensions ease - CNBC
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5Gbm1nNllfaTE0YjY4RmcxcDJaNjBzR2lWZUpuQmNLS3Q3WXROR1hibThnSE1EMjZUZUhmcWpQXzNJTFFZU1k3QTZfRFJmd1JzdkdMWThWNFB0V0xQbGNzaFBZLUZZT19ZcXlFN1piVFdYaEtaYVRF0gF8QVVfeXFMT0lJaFJTOFpCdk5VWm9OcXd1MFlwNXlxbzcxVkZycnNqLWtiSDVJeUdCU0RRZllXVnJtd1I3a2tWRkRrZm91MjZjd29TcDdOZl81Wk9rdExKWGVzMUdoT05tZDFWSk9DdzdtS3lZdF9mcHdWZWx0UXY5b3oybg?oc=5
 
-- Markets seesaw as Wall Street shrugs off banking sector concerns - CNN
-  CNN.com: Wall Street shrugs
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB1dXIzbDlqVUhsZG81aEVVb2xfYzhsOE9nbWtnV0VVcS1QTEdiSlJXX3BvM09pTU5CN0FmcVZuR0VDcGc2VVNsaFNxZUZOQUkxaE5zblJRS1VocG5Jb3NjYUFUMUM0V1pnYW5VenBteno0TS1rQTd3?oc=5
+- Daily Voice: Bajaj Finserv AMC’s Nimesh Chandan flags 2 biggest market risks, spots 2 contrarian... - Moneycontrol
+  A look at two of the biggest market risks in the
+  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxOYVQ5OXNQdzlGRFJnYklnd1RPVDBLZElXTXZzVDZmYjlVYVA2NURlVkFnQ2otTm9raEI1YW1IczJMYWlaYU1ORUI3bW5NQkxrVE5TWnJ4TGZjUVFxT1hYamhIc0o4Mnk2WVQ5elk5STNLQ3hOdTZfTzV2ZUVoa0t5LXBrVjdKa1ZRNk1WYVkyalNmaXN3cDJPeUFkYjdRd2VsYjNzM01xSkJwenNDUU5tWjRwcVNmUWN3U1NfM2R6ZDNmRFdjWUNqWDRGTy1yLUhCYTc0TUI3ODlpYzFHbzFWeTFWSTVqSE9jejJhY2dkNmh1YXFZbTdvdVJaQTdfcVpzWUV5QllrY2xiZ0RjLV9FaE83ZFNrdXhN0gGeAkFVX3lxTFBMd20zcENhbVExU3RRNUFST09YZHdJRFN5enJ1VnFjcWVjVkswVmhjbEdVVG84WUJKT0ZvRWZKWk5DZDJQQ1RhMEpfUER3al9mMWp2bksxYjk0T0w4MjdPU2NCbjU0RlZsSmxQcDRyMi1qT0p4SlhZa2hqZGxhRlY5c1ZlSGNkcmxGVnlQTzVOVThnWjd3WW9qZmN0VXV4QzlZTGxWblJNdXd6Y1BKQk9kS3NZWkFVSjJaM013MEdLdDY0cFRPNm1HTm9MOUUtdVBySFdtNVJ2MXJYVWI0V2NXT2VSS3VJdDNrQkJWX3Z5cFRrcXk3VW9SRUo4Rm1oZ3V2WmdxdWNtZlBaRmtjb3pwM0QxYWdaUlhJQkZmY2c?oc=5
 
-- Nearly £11bn wiped off UK banks after US regional banking fears spooked markets – business live - The Guardian
-  Nearly £11bn wiped off UK banks after US regional banking fears spooked
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRXBSWWNockRpR056M1E5RnpSSlMxV3E3VldPUHVaSHdhczlWeWoweHotYjgyWkpwSENyWE9iUDRGSGZJdU5FT1QzdDE5dXhMT2M0a1hxRGd6dWt6YzB3dW1hWGtKaWQ4VHpRc2VQTGN1SmJyX3BkN1FsV3BaTmhpS0Jpb1BXLVBwNGNtWGQxVTBvQ01QZXZ6SFk0Z01QdEpCdzFkQzBxS0dFR1VEQ1ZCR1FVQ09kanNuT3pOMjdXQlYtVU9YOUxuRmJRRENzOUpOV2V5OUxpREM?oc=5
+- Credit concerns reach European markets as bank stocks slide over 2% - CNBC
+  Nearly £11bn wiped off UK banks after US regional banking fears spooked markets – as it happened.
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQLW1BWjhxbVBVQ3h6RW5xRGVhNlNDWHVDcnRVNDNUWEItMmw4V0JHMzVLejhJaE51dXFWRThUTU9BcndsV09lOHc5M0ZpaXEwYlJqQXRwZ1Z3akxQcktHQ2dEUi1qa0psWTc2b1M1UFpBX3VrMmE5X3huWm1tZWw4Y19XT1dkclBObmZCcE5PMTVja3dWcmRv0gGcAUFVX3lxTE12UFo0eUF4SnBVb1F2Q0JRSFNLR2RNMXo0VDhkSkxjQzZ3Nk56TzFITVZhMVl3TmpSVlJnX2hrczlSaGpWRmg4SWtwdkVRVzlhbFh3c293T1lsVWNlQ0RhRVBuajZKZUVEWmZLTGp3ZUFRT1RnUjVxMEVJcXYzb2VSTGtUcV9UbVVjVU9DNTdEektRQUt3c0p3XzMtcg?oc=5
+
+- Top 10 countries with the most expensive real estate markets in 2025 - WION
+  Top 10 countries with the most expensive real estate markets
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUVfdTBhZXFGWjlmY3dVSUVoZUozM3FCOVl0WV9tenhkNWRhT2ltdFp2TzRMWWxrb2Z4ZzcxSGhhNWIzZlB6SGR5eGNjd3RPaVd1TGFVOHNqclV3R2VtWU9wU21xbXJaS1JKQVBVUlJUaFE1MHN0ZTN2RFc2aHNMems0OTdjR2tkcXBWc3VlbWRSeWhvWTRZbnF3TkRuMjRsV0E4bkhYUnBpWmlRZDFWMEd1cw?oc=5
 
 - ET Market Watch: Sensex surges 484 points, Nifty tops 25,700 as banks, auto &amp; telecom lead rally
   
@@ -148,37 +148,17 @@
   "Trump Misplayed His Hand With India On Tariffs":
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHhIZk50azlqTmJfQVNfWUZxYVZ5bmdwOGM0RENVTjg2ZFF6bzR0XzNGQTNEVFVSOFE3NnJRdmtmZURmUXBnaEN5QnpsaEk4VHl0bWl2cnVqNzRieWlGbnNMVkVVdUx4QlZkMU4zNEVwVTJtQzRWcmFnOGw3VmNhSDJncEtLMDJHRktOazRlYlF5YzN1M1F0T0xGVlc3WEpWWEhzRjlFOU1XXzJXX0dhNm1PRkx2OEJkRHVZ0gHDAUFVX3lxTE9iTFFXSkpHTEpCOFV0N1laSlJpa0RBeFF4Tk9wM19IOFdURVBHeUNUcUxxRHFrbTNJMmdKZW1oWVo0R1lzYVhra3h3UDlTWEFPTTdXM0NrT2IxSzRVT0RXN0s3MDNqUXY0d3ZnY2hfMkZxeHlNRnEwLV8yekJCX0JRREQyaGtSOG1obWdrU1JnYUNfc2JJdFpYSDhkWVFoRndNaFBmalhGbXFnTDBTWldkVHRBUlpsMHZTekpGeUJtNV9NUQ?oc=5
 
-- Resolution of Palestinian question necessary for IMEC, connectivity projects to progress: Egyptian FM Badr Abdelatty - The Hindu
-  "Resolution of Palestinian question necessary for IMEC, connectivity projects to
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPRjByNENGMFlrZE5ZckF1UVBTRFZOclhmMUtIUGFvX182cFI0Q3BkdFY5MEZfeWVGazMxdEptX1VlOWMzNGJYUTJlSjdVcGQ3TUl3SFJDTldaQlNXYzlTTDBKZ1YwOGVDaGZBeUtSd1pubURVTHJReHo4QnBjcFliaURsZUJjMHJnbm5La05nTzd1ZFBpRFRFYlA4SFNfdHZKTHdwWmlLUzJkaDcydWlVTTJJc3BvZlVZSEg0SlFJRW9aWVlZQkQ5V25CSlRBcXpQUWpNUG5YRTNOUWFPNXVYX1RwcTctRWl4WGJOQmJOOUhzWFp1S0lhNDdvZlFmTE1tTUJR0gGKAkFVX3lxTFBOVzNzRlVmUlhTZEZETXhHWFdXR1p0QXN4Mi1XeVNmZGpxWEh1OEUtX3E5NW1FbUJHakg4U3B6dkFSUkFrVURMMVEtbWRDaUlhOVE0cjR3TDF0akZMMDRhRVFsTmdZQVlqcmNIU0NfZnltQkNqTC1lQkdZa1hfbEhpNWJrdVF1d2tMT0todXNfa0NKdTBIZ0FwdUV3OWVGVWtHVzJFWnhVSXNOaklkaVpXeWdWdkJqTWhxVTNrNWdfcnBSRUo5aVkxdW5hTDA1djd0Q1BRRUoxNENfWG9STktRQ3dqcFR1NlhvX1k2Vkd5N25ZWmVOZk1uUGQ3a1Y4eWhGdFJtaVh4cUtR?oc=5
+- Hasty detentions of foreign travellers risk India’s image: SC | Latest News India - Hindustan Times
+  Hasty detentions of foreign travellers risk India’
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOajZPTldHM1Y2TDlQcEQtelJQbkRyWkVSM3otcTVDS1gtMmMtQ2NfVXNwYjNMMDhUQXVZN0Rkd2VfVVhRLWVJXzVNU2tsc3RBRWJJUU5vZFQweVVvU1NjajdMMTFZRzNDTW9XaWN0MEJLX1RJdTB2VDViSE91OGJ5UXNYNkVfcUx3MDVXTkpUR2dvc1M1YUNDcFJmZ0ZDOWx5NGhMWVNCRmoySmZIRlhzUHVoOEJQYmVodTBzWlJXUdIBxAFBVV95cUxPUHBSM3czTnpDNHRxcjZWczY4a1o0YnV6bGU3YllqMVo0c0VFMEtqRXVjTDB2WTk3Q3UteHBwT0o1THJaaGY1RVN2UzlLVk1RVGJ5aUdZOVpsR2lxS3Nyd2RUTWxRc3J6eEFQMVY4SUEwZ3c0S1VJX1BXd2lWMHhfek1XT3FWS2Q1SEF4M3ZiS1hBV2hjS2hDSjlNUVBRQ1VFbmRVMnJZS2FOSTdWQnltaV9lN1VPTkRqeVM1SEZtY3VxTkdO?oc=5
 
-- Madras HC directs Air India to pay ₹35,000 to passenger over hair in meal | Latest News India - Hindustan Times
-  Madras HC directs Air India to pay ₹35,000 to passenger over
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZjRySGx0OUNjZ2N1b0EtaUhCdDYyS3M5MFRDQUVmZURKMkVPcGZlTTBINVVTRjF1c2tKbWY5Qi1NbTVQU0NCay1VX3NwV2ROUE5KblR3dkRCVGhZQV9ST0k0Sk80OWZaRnpGd2RWbzMwZU5fREFYSjRXZ3Frd3NwWmxfTFc3YXRZUkxVNEpTZllMSmY4NHhYNEtZTUdmMDVzcktXX0V0ajJETkxtNXF5SWFUbldRc0JNUXd0VXhhMkZqb2ViODNnRE5ZR2E2ZlJM0gHWAUFVX3lxTFBVQko2OV9pd214WGV4a1czUnAySGlXZlpzU3paay0weDVFLXFGYlpPd3RQSk5QS0owZG5ldWE1cmpleml2NHNMUXo2Sk5EVHJ5ZUpKbE1pbFN2ZHBSXzd0bWJPLVluYnJlNnRRUlRQbHJ1d3JSTmpwXzhldm9iaENqa1BvMURORmFpVkVhWllLLW92MTRNZU50azllSXZQNU1KTXFldXJONDBYYlpPNXBHX3pTQ0JqSHpGRFo2dHNvQ0JUTlNic3JCU0VUTzk3NmhyTUZfUUE?oc=5
+- Golden Quadrilateral 2.0: New expressway grid to redraw India’s economic map | Today News - Mint
+  Golden Quadrilateral 2.0: New expressway grid
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRWJEMy1zblVzNWc2Z0FSWVgtX1Flek1XNW9JWlNQZDFuQUtoRElvMHpDeVJHMXpkdlRxOUVsR09CTE9fUEJVbVdvX3JpYl83N21lUUNQVVlHODBBLTYyX2Y0eEEyLVl5bXVzWHcwVk9pcFo5OTNKem8wRlgtYlZ6dU5YbEpOckNubF9QUWlkT014anhVSUdfUzBCWFFzVlVyNG4yQTJueEZMc29jdWI3RnlDUVpRVlNfd1dEZWctam5vbjZfcWd0QlhUXzlXMTFnZTR6dkRwRlIzdU5nMWs5VS1XZFDSAeoBQVVfeXFMT1p4RDhlTEQtbHpuQnN2V3ExcVRMMEJJVHVCX3NaTTc2VTFraDZKY1pfcy1kX2V2emlSWjhtWVZzYVlfTXk3Q1lKbXhQUWFNWkVmVE04a3FZaDE1Ym1qRWFXclhMYkNPcXE0OUdjelZERDlsa1RodEVwWEgwWXlDbmtKYzE0QmJTYXFBMTJKVG4tS29nX3VsX3B0ZFQ4YmhuU3hkelBvNnFDak1QODBrd2RYcXE2QzhGQkJsSjlEcTEwaVVmVUlHR1JoSDNaaFNvSktRV0lOcFA0UngxQlBKXzhGVXNzemJ0dWx3?oc=5
 
-- India widens hunt for rare earths — eyes Chile, Peru trade deals to ease supply - The Economic Times
-  India widens hunt for rare earths. Chile, Peru trade deals to
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVWhTdDVrbDlhMU15eVZ2R0dnVFJ4eUV3czNBOTNONnBDbGNSOWlMUFpNMVlnMnZ6Nk1WQTFEbC1kQlEzOHAwQVRHem9CbnNZYTRnTVpRamlJaEJMT0ZiQV9uci10bEZ5VUhickdqRVZRWHpFUFl4YlJRUGtJOXBpVWV2U2s3N256UWtOMlZhT1lKeGNHTWpDVXEtSXJERmF5cEtSaDZDQ1ZFZEwyS1Z4OHFSczJ5YTRwVWpXRmw1dVg1VFJsTFlYbFhBR0R6ZE5LN0lSSXYtSWNUa2J5ajJHVVA1d3dOWk4zaHhlM3FYWm5HcDM1clN3U1BR0gHzAUFVX3lxTE8xVEJWMzI4R1NERjd3Z3ZqVFJuRFIxdDJwRFJiTktRaTRZc0RzY0xxc3NJcVpWWkhIczRTT1o0UGdoc0x0dndfc0piR3FsSUNGd2o2RjROSkd5ZHB3UnRXbGszanFoRVJQSlFOclBUaWhQZFFHOTVBazBIUFotcktQME9RRzVidHVpU040X0N1ZzctblB0WFo2SjNvWjRvZGFQVXAyYzlpend0cDZXNXVmZGxqZ2tLVW5aOWNiVFY3MGloYmx5S2lLZFZia2lHQkNURzBKYlJfUmtzVnBCN2pOeEJxQjJIWHh2N1I2Tl9tWXFJdw?oc=5
-
-- "India Could Play Dirty": Pakistan's Controversial Remarks On "Two-Front War" - NDTV
-  "India Could Play Dirty": Pakistan's
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdzVWZTRJbmVza01UWFlkMVJRRFpOSkh0UlcwcnZTM0RqVU1HNmlnNWtkeEdVR3JuRmhmVzhXVjlkOFZaUy0wd3Q0NU4xQS1xSnVVbk00U2N1a0lPcE5TZFJHSThJUm1HVEVxZGpzZnpyaXp5cjdpYTVXOUY4ZV92cmdPTkNMUjVaRndUVm8ycWRNM0NtV1N1REdmekYwb1QwUXVhS2tJMDlCS29oS0ctNTVDazd1RzBkNkpYQlRLNWwtR1nSAcsBQVVfeXFMUDQ4aUlaOXRyMzBzSUZnZjM5Ry1MN0tmbGhSU1pXU3BHeGExSl9nQzBhUHJ1VjNlSkZ6YXN6eGpkbnBHdVlUZnhQSTVsSzc2a0JHVTU5Uy0wdUhoaUtlNlNfNHdvUzhRQnMxM1R4RUFya3VhMGNzaEEtV2QzQU1lYkVNMjB5R1NUMnZZLVV4enQ4ckFvX0ZvREJnYVNaVmtvQTBBVV8wY0RJNkFNcXQ3ZVJRUnVodjIyeEhqWW50MlNpUXpEbFhaZFkwN2c?oc=5
-
-- "Trump Misplayed His Hand With India On Tariffs": Tony Abbott At NDTV World Summit - NDTV
-  "Trump Misplayed His Hand With India On Tariffs":
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHhIZk50azlqTmJfQVNfWUZxYVZ5bmdwOGM0RENVTjg2ZFF6bzR0XzNGQTNEVFVSOFE3NnJRdmtmZURmUXBnaEN5QnpsaEk4VHl0bWl2cnVqNzRieWlGbnNMVkVVdUx4QlZkMU4zNEVwVTJtQzRWcmFnOGw3VmNhSDJncEtLMDJHRktOazRlYlF5YzN1M1F0T0xGVlc3WEpWWEhzRjlFOU1XXzJXX0dhNm1PRkx2OEJkRHVZ0gHDAUFVX3lxTE9iTFFXSkpHTEpCOFV0N1laSlJpa0RBeFF4Tk9wM19IOFdURVBHeUNUcUxxRHFrbTNJMmdKZW1oWVo0R1lzYVhra3h3UDlTWEFPTTdXM0NrT2IxSzRVT0RXN0s3MDNqUXY0d3ZnY2hfMkZxeHlNRnEwLV8yekJCX0JRREQyaGtSOG1obWdrU1JnYUNfc2JJdFpYSDhkWVFoRndNaFBmalhGbXFnTDBTWldkVHRBUlpsMHZTekpGeUJtNV9NUQ?oc=5
-
-- Resolution of Palestinian question necessary for IMEC, connectivity projects to progress: Egyptian FM Badr Abdelatty - The Hindu
-  "Resolution of Palestinian question necessary for IMEC, connectivity projects to
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPRjByNENGMFlrZE5ZckF1UVBTRFZOclhmMUtIUGFvX182cFI0Q3BkdFY5MEZfeWVGazMxdEptX1VlOWMzNGJYUTJlSjdVcGQ3TUl3SFJDTldaQlNXYzlTTDBKZ1YwOGVDaGZBeUtSd1pubURVTHJReHo4QnBjcFliaURsZUJjMHJnbm5La05nTzd1ZFBpRFRFYlA4SFNfdHZKTHdwWmlLUzJkaDcydWlVTTJJc3BvZlVZSEg0SlFJRW9aWVlZQkQ5V25CSlRBcXpQUWpNUG5YRTNOUWFPNXVYX1RwcTctRWl4WGJOQmJOOUhzWFp1S0lhNDdvZlFmTE1tTUJR0gGKAkFVX3lxTFBOVzNzRlVmUlhTZEZETXhHWFdXR1p0QXN4Mi1XeVNmZGpxWEh1OEUtX3E5NW1FbUJHakg4U3B6dkFSUkFrVURMMVEtbWRDaUlhOVE0cjR3TDF0akZMMDRhRVFsTmdZQVlqcmNIU0NfZnltQkNqTC1lQkdZa1hfbEhpNWJrdVF1d2tMT0todXNfa0NKdTBIZ0FwdUV3OWVGVWtHVzJFWnhVSXNOaklkaVpXeWdWdkJqTWhxVTNrNWdfcnBSRUo5aVkxdW5hTDA1djd0Q1BRRUoxNENfWG9STktRQ3dqcFR1NlhvX1k2Vkd5N25ZWmVOZk1uUGQ3a1Y4eWhGdFJtaVh4cUtR?oc=5
-
-- Madras HC directs Air India to pay ₹35,000 to passenger over hair in meal | Latest News India - Hindustan Times
-  Madras HC directs Air India to pay ₹35,000 to passenger over
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZjRySGx0OUNjZ2N1b0EtaUhCdDYyS3M5MFRDQUVmZURKMkVPcGZlTTBINVVTRjF1c2tKbWY5Qi1NbTVQU0NCay1VX3NwV2ROUE5KblR3dkRCVGhZQV9ST0k0Sk80OWZaRnpGd2RWbzMwZU5fREFYSjRXZ3Frd3NwWmxfTFc3YXRZUkxVNEpTZllMSmY4NHhYNEtZTUdmMDVzcktXX0V0ajJETkxtNXF5SWFUbldRc0JNUXd0VXhhMkZqb2ViODNnRE5ZR2E2ZlJM0gHWAUFVX3lxTFBVQko2OV9pd214WGV4a1czUnAySGlXZlpzU3paay0weDVFLXFGYlpPd3RQSk5QS0owZG5ldWE1cmpleml2NHNMUXo2Sk5EVHJ5ZUpKbE1pbFN2ZHBSXzd0bWJPLVluYnJlNnRRUlRQbHJ1d3JSTmpwXzhldm9iaENqa1BvMURORmFpVkVhWllLLW92MTRNZU50azllSXZQNU1KTXFldXJONDBYYlpPNXBHX3pTQ0JqSHpGRFo2dHNvQ0JUTlNic3JCU0VUTzk3NmhyTUZfUUE?oc=5
-
-- India widens hunt for rare earths — eyes Chile, Peru trade deals to ease supply - The Economic Times
-  India widens hunt for rare earths. Chile, Peru trade deals to
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVWhTdDVrbDlhMU15eVZ2R0dnVFJ4eUV3czNBOTNONnBDbGNSOWlMUFpNMVlnMnZ6Nk1WQTFEbC1kQlEzOHAwQVRHem9CbnNZYTRnTVpRamlJaEJMT0ZiQV9uci10bEZ5VUhickdqRVZRWHpFUFl4YlJRUGtJOXBpVWV2U2s3N256UWtOMlZhT1lKeGNHTWpDVXEtSXJERmF5cEtSaDZDQ1ZFZEwyS1Z4OHFSczJ5YTRwVWpXRmw1dVg1VFJsTFlYbFhBR0R6ZE5LN0lSSXYtSWNUa2J5ajJHVVA1d3dOWk4zaHhlM3FYWm5HcDM1clN3U1BR0gHzAUFVX3lxTE8xVEJWMzI4R1NERjd3Z3ZqVFJuRFIxdDJwRFJiTktRaTRZc0RzY0xxc3NJcVpWWkhIczRTT1o0UGdoc0x0dndfc0piR3FsSUNGd2o2RjROSkd5ZHB3UnRXbGszanFoRVJQSlFOclBUaWhQZFFHOTVBazBIUFotcktQME9RRzVidHVpU040X0N1ZzctblB0WFo2SjNvWjRvZGFQVXAyYzlpend0cDZXNXVmZGxqZ2tLVW5aOWNiVFY3MGloYmx5S2lLZFZia2lHQkNURzBKYlJfUmtzVnBCN2pOeEJxQjJIWHh2N1I2Tl9tWXFJdw?oc=5
+- MHA orders judicial probe into Leh violence, stakeholders welcome move - The Indian Express
+  MHA orders judicial probe into Leh violence, stakeholders
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxObU5fNWJtbjVJUTVUYVNEbkZXRmRTOVU1d0dIUG1jYXE4R1JRX2pRZEVma2l0c1FIa01TTHV5ckYyeHNvaE5XYnVJWFF3QWJhc1U3SXhSbWlhOGFaeFY5MlFpTHcxOF81TEZEV19qMEVZclFNT3NKbmxRV1UwR1c1WTA0RGFvaC1EdzJ3QUItZnRUd3BkUDZtcVpOSXBncHRvUGI5SWwyRFo2c05RaGVwNnJQSlYwbDRBcE800gHCAUFVX3lxTE9sM2hrQmdWV3pldVNNeElmeHhpTjhOcl9kWFA1d0VpUHZ5N2JYSy1ReVY5VFN1amZ5VTVwUFhfQ3FqZmJLNkhCSm8yLTBRbzlzcVN4ZDY2MzFfT1A4MUQ2WXBUdVFLUDRfNm80OUZrTGt5TVlrUUpBbDFyTURvNFpnaFRJX0s4NVFaTXlhYUFwVnlERlZ2MEtSX2tDZFFNOHNYUi1taEg0Y2tYRndibjEtNl82QTJZSXZsWGhVVVEya0pR?oc=5
 
 - "India Could Play Dirty": Pakistan's Controversial Remarks On "Two-Front War" - NDTV
   "India Could Play Dirty": Pakistan's
@@ -188,17 +168,17 @@
   "Trump Misplayed His Hand With India On Tariffs":
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHhIZk50azlqTmJfQVNfWUZxYVZ5bmdwOGM0RENVTjg2ZFF6bzR0XzNGQTNEVFVSOFE3NnJRdmtmZURmUXBnaEN5QnpsaEk4VHl0bWl2cnVqNzRieWlGbnNMVkVVdUx4QlZkMU4zNEVwVTJtQzRWcmFnOGw3VmNhSDJncEtLMDJHRktOazRlYlF5YzN1M1F0T0xGVlc3WEpWWEhzRjlFOU1XXzJXX0dhNm1PRkx2OEJkRHVZ0gHDAUFVX3lxTE9iTFFXSkpHTEpCOFV0N1laSlJpa0RBeFF4Tk9wM19IOFdURVBHeUNUcUxxRHFrbTNJMmdKZW1oWVo0R1lzYVhra3h3UDlTWEFPTTdXM0NrT2IxSzRVT0RXN0s3MDNqUXY0d3ZnY2hfMkZxeHlNRnEwLV8yekJCX0JRREQyaGtSOG1obWdrU1JnYUNfc2JJdFpYSDhkWVFoRndNaFBmalhGbXFnTDBTWldkVHRBUlpsMHZTekpGeUJtNV9NUQ?oc=5
 
-- Resolution of Palestinian question necessary for IMEC, connectivity projects to progress: Egyptian FM Badr Abdelatty - The Hindu
-  "Resolution of Palestinian question necessary for IMEC, connectivity projects to
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPRjByNENGMFlrZE5ZckF1UVBTRFZOclhmMUtIUGFvX182cFI0Q3BkdFY5MEZfeWVGazMxdEptX1VlOWMzNGJYUTJlSjdVcGQ3TUl3SFJDTldaQlNXYzlTTDBKZ1YwOGVDaGZBeUtSd1pubURVTHJReHo4QnBjcFliaURsZUJjMHJnbm5La05nTzd1ZFBpRFRFYlA4SFNfdHZKTHdwWmlLUzJkaDcydWlVTTJJc3BvZlVZSEg0SlFJRW9aWVlZQkQ5V25CSlRBcXpQUWpNUG5YRTNOUWFPNXVYX1RwcTctRWl4WGJOQmJOOUhzWFp1S0lhNDdvZlFmTE1tTUJR0gGKAkFVX3lxTFBOVzNzRlVmUlhTZEZETXhHWFdXR1p0QXN4Mi1XeVNmZGpxWEh1OEUtX3E5NW1FbUJHakg4U3B6dkFSUkFrVURMMVEtbWRDaUlhOVE0cjR3TDF0akZMMDRhRVFsTmdZQVlqcmNIU0NfZnltQkNqTC1lQkdZa1hfbEhpNWJrdVF1d2tMT0todXNfa0NKdTBIZ0FwdUV3OWVGVWtHVzJFWnhVSXNOaklkaVpXeWdWdkJqTWhxVTNrNWdfcnBSRUo5aVkxdW5hTDA1djd0Q1BRRUoxNENfWG9STktRQ3dqcFR1NlhvX1k2Vkd5N25ZWmVOZk1uUGQ3a1Y4eWhGdFJtaVh4cUtR?oc=5
+- Hasty detentions of foreign travellers risk India’s image: SC | Latest News India - Hindustan Times
+  Hasty detentions of foreign travellers risk India’
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOajZPTldHM1Y2TDlQcEQtelJQbkRyWkVSM3otcTVDS1gtMmMtQ2NfVXNwYjNMMDhUQXVZN0Rkd2VfVVhRLWVJXzVNU2tsc3RBRWJJUU5vZFQweVVvU1NjajdMMTFZRzNDTW9XaWN0MEJLX1RJdTB2VDViSE91OGJ5UXNYNkVfcUx3MDVXTkpUR2dvc1M1YUNDcFJmZ0ZDOWx5NGhMWVNCRmoySmZIRlhzUHVoOEJQYmVodTBzWlJXUdIBxAFBVV95cUxPUHBSM3czTnpDNHRxcjZWczY4a1o0YnV6bGU3YllqMVo0c0VFMEtqRXVjTDB2WTk3Q3UteHBwT0o1THJaaGY1RVN2UzlLVk1RVGJ5aUdZOVpsR2lxS3Nyd2RUTWxRc3J6eEFQMVY4SUEwZ3c0S1VJX1BXd2lWMHhfek1XT3FWS2Q1SEF4M3ZiS1hBV2hjS2hDSjlNUVBRQ1VFbmRVMnJZS2FOSTdWQnltaV9lN1VPTkRqeVM1SEZtY3VxTkdO?oc=5
 
-- Madras HC directs Air India to pay ₹35,000 to passenger over hair in meal | Latest News India - Hindustan Times
-  Madras HC directs Air India to pay ₹35,000 to passenger over
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZjRySGx0OUNjZ2N1b0EtaUhCdDYyS3M5MFRDQUVmZURKMkVPcGZlTTBINVVTRjF1c2tKbWY5Qi1NbTVQU0NCay1VX3NwV2ROUE5KblR3dkRCVGhZQV9ST0k0Sk80OWZaRnpGd2RWbzMwZU5fREFYSjRXZ3Frd3NwWmxfTFc3YXRZUkxVNEpTZllMSmY4NHhYNEtZTUdmMDVzcktXX0V0ajJETkxtNXF5SWFUbldRc0JNUXd0VXhhMkZqb2ViODNnRE5ZR2E2ZlJM0gHWAUFVX3lxTFBVQko2OV9pd214WGV4a1czUnAySGlXZlpzU3paay0weDVFLXFGYlpPd3RQSk5QS0owZG5ldWE1cmpleml2NHNMUXo2Sk5EVHJ5ZUpKbE1pbFN2ZHBSXzd0bWJPLVluYnJlNnRRUlRQbHJ1d3JSTmpwXzhldm9iaENqa1BvMURORmFpVkVhWllLLW92MTRNZU50azllSXZQNU1KTXFldXJONDBYYlpPNXBHX3pTQ0JqSHpGRFo2dHNvQ0JUTlNic3JCU0VUTzk3NmhyTUZfUUE?oc=5
+- Golden Quadrilateral 2.0: New expressway grid to redraw India’s economic map | Today News - Mint
+  Golden Quadrilateral 2.0: New expressway grid
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRWJEMy1zblVzNWc2Z0FSWVgtX1Flek1XNW9JWlNQZDFuQUtoRElvMHpDeVJHMXpkdlRxOUVsR09CTE9fUEJVbVdvX3JpYl83N21lUUNQVVlHODBBLTYyX2Y0eEEyLVl5bXVzWHcwVk9pcFo5OTNKem8wRlgtYlZ6dU5YbEpOckNubF9QUWlkT014anhVSUdfUzBCWFFzVlVyNG4yQTJueEZMc29jdWI3RnlDUVpRVlNfd1dEZWctam5vbjZfcWd0QlhUXzlXMTFnZTR6dkRwRlIzdU5nMWs5VS1XZFDSAeoBQVVfeXFMT1p4RDhlTEQtbHpuQnN2V3ExcVRMMEJJVHVCX3NaTTc2VTFraDZKY1pfcy1kX2V2emlSWjhtWVZzYVlfTXk3Q1lKbXhQUWFNWkVmVE04a3FZaDE1Ym1qRWFXclhMYkNPcXE0OUdjelZERDlsa1RodEVwWEgwWXlDbmtKYzE0QmJTYXFBMTJKVG4tS29nX3VsX3B0ZFQ4YmhuU3hkelBvNnFDak1QODBrd2RYcXE2QzhGQkJsSjlEcTEwaVVmVUlHR1JoSDNaaFNvSktRV0lOcFA0UngxQlBKXzhGVXNzemJ0dWx3?oc=5
 
-- India widens hunt for rare earths — eyes Chile, Peru trade deals to ease supply - The Economic Times
-  India widens hunt for rare earths. Chile, Peru trade deals to
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVWhTdDVrbDlhMU15eVZ2R0dnVFJ4eUV3czNBOTNONnBDbGNSOWlMUFpNMVlnMnZ6Nk1WQTFEbC1kQlEzOHAwQVRHem9CbnNZYTRnTVpRamlJaEJMT0ZiQV9uci10bEZ5VUhickdqRVZRWHpFUFl4YlJRUGtJOXBpVWV2U2s3N256UWtOMlZhT1lKeGNHTWpDVXEtSXJERmF5cEtSaDZDQ1ZFZEwyS1Z4OHFSczJ5YTRwVWpXRmw1dVg1VFJsTFlYbFhBR0R6ZE5LN0lSSXYtSWNUa2J5ajJHVVA1d3dOWk4zaHhlM3FYWm5HcDM1clN3U1BR0gHzAUFVX3lxTE8xVEJWMzI4R1NERjd3Z3ZqVFJuRFIxdDJwRFJiTktRaTRZc0RzY0xxc3NJcVpWWkhIczRTT1o0UGdoc0x0dndfc0piR3FsSUNGd2o2RjROSkd5ZHB3UnRXbGszanFoRVJQSlFOclBUaWhQZFFHOTVBazBIUFotcktQME9RRzVidHVpU040X0N1ZzctblB0WFo2SjNvWjRvZGFQVXAyYzlpend0cDZXNXVmZGxqZ2tLVW5aOWNiVFY3MGloYmx5S2lLZFZia2lHQkNURzBKYlJfUmtzVnBCN2pOeEJxQjJIWHh2N1I2Tl9tWXFJdw?oc=5
+- MHA orders judicial probe into Leh violence, stakeholders welcome move - The Indian Express
+  MHA orders judicial probe into Leh violence, stakeholders
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxObU5fNWJtbjVJUTVUYVNEbkZXRmRTOVU1d0dIUG1jYXE4R1JRX2pRZEVma2l0c1FIa01TTHV5ckYyeHNvaE5XYnVJWFF3QWJhc1U3SXhSbWlhOGFaeFY5MlFpTHcxOF81TEZEV19qMEVZclFNT3NKbmxRV1UwR1c1WTA0RGFvaC1EdzJ3QUItZnRUd3BkUDZtcVpOSXBncHRvUGI5SWwyRFo2c05RaGVwNnJQSlYwbDRBcE800gHCAUFVX3lxTE9sM2hrQmdWV3pldVNNeElmeHhpTjhOcl9kWFA1d0VpUHZ5N2JYSy1ReVY5VFN1amZ5VTVwUFhfQ3FqZmJLNkhCSm8yLTBRbzlzcVN4ZDY2MzFfT1A4MUQ2WXBUdVFLUDRfNm80OUZrTGt5TVlrUUpBbDFyTURvNFpnaFRJX0s4NVFaTXlhYUFwVnlERlZ2MEtSX2tDZFFNOHNYUi1taEg0Y2tYRndibjEtNl82QTJZSXZsWGhVVVEya0pR?oc=5
 
 - "India Could Play Dirty": Pakistan's Controversial Remarks On "Two-Front War" - NDTV
   "India Could Play Dirty": Pakistan's
@@ -208,17 +188,37 @@
   "Trump Misplayed His Hand With India On Tariffs":
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHhIZk50azlqTmJfQVNfWUZxYVZ5bmdwOGM0RENVTjg2ZFF6bzR0XzNGQTNEVFVSOFE3NnJRdmtmZURmUXBnaEN5QnpsaEk4VHl0bWl2cnVqNzRieWlGbnNMVkVVdUx4QlZkMU4zNEVwVTJtQzRWcmFnOGw3VmNhSDJncEtLMDJHRktOazRlYlF5YzN1M1F0T0xGVlc3WEpWWEhzRjlFOU1XXzJXX0dhNm1PRkx2OEJkRHVZ0gHDAUFVX3lxTE9iTFFXSkpHTEpCOFV0N1laSlJpa0RBeFF4Tk9wM19IOFdURVBHeUNUcUxxRHFrbTNJMmdKZW1oWVo0R1lzYVhra3h3UDlTWEFPTTdXM0NrT2IxSzRVT0RXN0s3MDNqUXY0d3ZnY2hfMkZxeHlNRnEwLV8yekJCX0JRREQyaGtSOG1obWdrU1JnYUNfc2JJdFpYSDhkWVFoRndNaFBmalhGbXFnTDBTWldkVHRBUlpsMHZTekpGeUJtNV9NUQ?oc=5
 
-- Resolution of Palestinian question necessary for IMEC, connectivity projects to progress: Egyptian FM Badr Abdelatty - The Hindu
-  "Resolution of Palestinian question necessary for IMEC, connectivity projects to
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPRjByNENGMFlrZE5ZckF1UVBTRFZOclhmMUtIUGFvX182cFI0Q3BkdFY5MEZfeWVGazMxdEptX1VlOWMzNGJYUTJlSjdVcGQ3TUl3SFJDTldaQlNXYzlTTDBKZ1YwOGVDaGZBeUtSd1pubURVTHJReHo4QnBjcFliaURsZUJjMHJnbm5La05nTzd1ZFBpRFRFYlA4SFNfdHZKTHdwWmlLUzJkaDcydWlVTTJJc3BvZlVZSEg0SlFJRW9aWVlZQkQ5V25CSlRBcXpQUWpNUG5YRTNOUWFPNXVYX1RwcTctRWl4WGJOQmJOOUhzWFp1S0lhNDdvZlFmTE1tTUJR0gGKAkFVX3lxTFBOVzNzRlVmUlhTZEZETXhHWFdXR1p0QXN4Mi1XeVNmZGpxWEh1OEUtX3E5NW1FbUJHakg4U3B6dkFSUkFrVURMMVEtbWRDaUlhOVE0cjR3TDF0akZMMDRhRVFsTmdZQVlqcmNIU0NfZnltQkNqTC1lQkdZa1hfbEhpNWJrdVF1d2tMT0todXNfa0NKdTBIZ0FwdUV3OWVGVWtHVzJFWnhVSXNOaklkaVpXeWdWdkJqTWhxVTNrNWdfcnBSRUo5aVkxdW5hTDA1djd0Q1BRRUoxNENfWG9STktRQ3dqcFR1NlhvX1k2Vkd5N25ZWmVOZk1uUGQ3a1Y4eWhGdFJtaVh4cUtR?oc=5
+- Hasty detentions of foreign travellers risk India’s image: SC | Latest News India - Hindustan Times
+  Hasty detentions of foreign travellers risk India’
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOajZPTldHM1Y2TDlQcEQtelJQbkRyWkVSM3otcTVDS1gtMmMtQ2NfVXNwYjNMMDhUQXVZN0Rkd2VfVVhRLWVJXzVNU2tsc3RBRWJJUU5vZFQweVVvU1NjajdMMTFZRzNDTW9XaWN0MEJLX1RJdTB2VDViSE91OGJ5UXNYNkVfcUx3MDVXTkpUR2dvc1M1YUNDcFJmZ0ZDOWx5NGhMWVNCRmoySmZIRlhzUHVoOEJQYmVodTBzWlJXUdIBxAFBVV95cUxPUHBSM3czTnpDNHRxcjZWczY4a1o0YnV6bGU3YllqMVo0c0VFMEtqRXVjTDB2WTk3Q3UteHBwT0o1THJaaGY1RVN2UzlLVk1RVGJ5aUdZOVpsR2lxS3Nyd2RUTWxRc3J6eEFQMVY4SUEwZ3c0S1VJX1BXd2lWMHhfek1XT3FWS2Q1SEF4M3ZiS1hBV2hjS2hDSjlNUVBRQ1VFbmRVMnJZS2FOSTdWQnltaV9lN1VPTkRqeVM1SEZtY3VxTkdO?oc=5
 
-- Madras HC directs Air India to pay ₹35,000 to passenger over hair in meal | Latest News India - Hindustan Times
-  Madras HC directs Air India to pay ₹35,000 to passenger over
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZjRySGx0OUNjZ2N1b0EtaUhCdDYyS3M5MFRDQUVmZURKMkVPcGZlTTBINVVTRjF1c2tKbWY5Qi1NbTVQU0NCay1VX3NwV2ROUE5KblR3dkRCVGhZQV9ST0k0Sk80OWZaRnpGd2RWbzMwZU5fREFYSjRXZ3Frd3NwWmxfTFc3YXRZUkxVNEpTZllMSmY4NHhYNEtZTUdmMDVzcktXX0V0ajJETkxtNXF5SWFUbldRc0JNUXd0VXhhMkZqb2ViODNnRE5ZR2E2ZlJM0gHWAUFVX3lxTFBVQko2OV9pd214WGV4a1czUnAySGlXZlpzU3paay0weDVFLXFGYlpPd3RQSk5QS0owZG5ldWE1cmpleml2NHNMUXo2Sk5EVHJ5ZUpKbE1pbFN2ZHBSXzd0bWJPLVluYnJlNnRRUlRQbHJ1d3JSTmpwXzhldm9iaENqa1BvMURORmFpVkVhWllLLW92MTRNZU50azllSXZQNU1KTXFldXJONDBYYlpPNXBHX3pTQ0JqSHpGRFo2dHNvQ0JUTlNic3JCU0VUTzk3NmhyTUZfUUE?oc=5
+- Golden Quadrilateral 2.0: New expressway grid to redraw India’s economic map | Today News - Mint
+  Golden Quadrilateral 2.0: New expressway grid
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRWJEMy1zblVzNWc2Z0FSWVgtX1Flek1XNW9JWlNQZDFuQUtoRElvMHpDeVJHMXpkdlRxOUVsR09CTE9fUEJVbVdvX3JpYl83N21lUUNQVVlHODBBLTYyX2Y0eEEyLVl5bXVzWHcwVk9pcFo5OTNKem8wRlgtYlZ6dU5YbEpOckNubF9QUWlkT014anhVSUdfUzBCWFFzVlVyNG4yQTJueEZMc29jdWI3RnlDUVpRVlNfd1dEZWctam5vbjZfcWd0QlhUXzlXMTFnZTR6dkRwRlIzdU5nMWs5VS1XZFDSAeoBQVVfeXFMT1p4RDhlTEQtbHpuQnN2V3ExcVRMMEJJVHVCX3NaTTc2VTFraDZKY1pfcy1kX2V2emlSWjhtWVZzYVlfTXk3Q1lKbXhQUWFNWkVmVE04a3FZaDE1Ym1qRWFXclhMYkNPcXE0OUdjelZERDlsa1RodEVwWEgwWXlDbmtKYzE0QmJTYXFBMTJKVG4tS29nX3VsX3B0ZFQ4YmhuU3hkelBvNnFDak1QODBrd2RYcXE2QzhGQkJsSjlEcTEwaVVmVUlHR1JoSDNaaFNvSktRV0lOcFA0UngxQlBKXzhGVXNzemJ0dWx3?oc=5
 
-- India widens hunt for rare earths — eyes Chile, Peru trade deals to ease supply - The Economic Times
-  India widens hunt for rare earths. Chile, Peru trade deals to
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVWhTdDVrbDlhMU15eVZ2R0dnVFJ4eUV3czNBOTNONnBDbGNSOWlMUFpNMVlnMnZ6Nk1WQTFEbC1kQlEzOHAwQVRHem9CbnNZYTRnTVpRamlJaEJMT0ZiQV9uci10bEZ5VUhickdqRVZRWHpFUFl4YlJRUGtJOXBpVWV2U2s3N256UWtOMlZhT1lKeGNHTWpDVXEtSXJERmF5cEtSaDZDQ1ZFZEwyS1Z4OHFSczJ5YTRwVWpXRmw1dVg1VFJsTFlYbFhBR0R6ZE5LN0lSSXYtSWNUa2J5ajJHVVA1d3dOWk4zaHhlM3FYWm5HcDM1clN3U1BR0gHzAUFVX3lxTE8xVEJWMzI4R1NERjd3Z3ZqVFJuRFIxdDJwRFJiTktRaTRZc0RzY0xxc3NJcVpWWkhIczRTT1o0UGdoc0x0dndfc0piR3FsSUNGd2o2RjROSkd5ZHB3UnRXbGszanFoRVJQSlFOclBUaWhQZFFHOTVBazBIUFotcktQME9RRzVidHVpU040X0N1ZzctblB0WFo2SjNvWjRvZGFQVXAyYzlpend0cDZXNXVmZGxqZ2tLVW5aOWNiVFY3MGloYmx5S2lLZFZia2lHQkNURzBKYlJfUmtzVnBCN2pOeEJxQjJIWHh2N1I2Tl9tWXFJdw?oc=5
+- MHA orders judicial probe into Leh violence, stakeholders welcome move - The Indian Express
+  MHA orders judicial probe into Leh violence, stakeholders
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxObU5fNWJtbjVJUTVUYVNEbkZXRmRTOVU1d0dIUG1jYXE4R1JRX2pRZEVma2l0c1FIa01TTHV5ckYyeHNvaE5XYnVJWFF3QWJhc1U3SXhSbWlhOGFaeFY5MlFpTHcxOF81TEZEV19qMEVZclFNT3NKbmxRV1UwR1c1WTA0RGFvaC1EdzJ3QUItZnRUd3BkUDZtcVpOSXBncHRvUGI5SWwyRFo2c05RaGVwNnJQSlYwbDRBcE800gHCAUFVX3lxTE9sM2hrQmdWV3pldVNNeElmeHhpTjhOcl9kWFA1d0VpUHZ5N2JYSy1ReVY5VFN1amZ5VTVwUFhfQ3FqZmJLNkhCSm8yLTBRbzlzcVN4ZDY2MzFfT1A4MUQ2WXBUdVFLUDRfNm80OUZrTGt5TVlrUUpBbDFyTURvNFpnaFRJX0s4NVFaTXlhYUFwVnlERlZ2MEtSX2tDZFFNOHNYUi1taEg0Y2tYRndibjEtNl82QTJZSXZsWGhVVVEya0pR?oc=5
+
+- "India Could Play Dirty": Pakistan's Controversial Remarks On "Two-Front War" - NDTV
+  "India Could Play Dirty": Pakistan's
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdzVWZTRJbmVza01UWFlkMVJRRFpOSkh0UlcwcnZTM0RqVU1HNmlnNWtkeEdVR3JuRmhmVzhXVjlkOFZaUy0wd3Q0NU4xQS1xSnVVbk00U2N1a0lPcE5TZFJHSThJUm1HVEVxZGpzZnpyaXp5cjdpYTVXOUY4ZV92cmdPTkNMUjVaRndUVm8ycWRNM0NtV1N1REdmekYwb1QwUXVhS2tJMDlCS29oS0ctNTVDazd1RzBkNkpYQlRLNWwtR1nSAcsBQVVfeXFMUDQ4aUlaOXRyMzBzSUZnZjM5Ry1MN0tmbGhSU1pXU3BHeGExSl9nQzBhUHJ1VjNlSkZ6YXN6eGpkbnBHdVlUZnhQSTVsSzc2a0JHVTU5Uy0wdUhoaUtlNlNfNHdvUzhRQnMxM1R4RUFya3VhMGNzaEEtV2QzQU1lYkVNMjB5R1NUMnZZLVV4enQ4ckFvX0ZvREJnYVNaVmtvQTBBVV8wY0RJNkFNcXQ3ZVJRUnVodjIyeEhqWW50MlNpUXpEbFhaZFkwN2c?oc=5
+
+- "Trump Misplayed His Hand With India On Tariffs": Tony Abbott At NDTV World Summit - NDTV
+  "Trump Misplayed His Hand With India On Tariffs":
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHhIZk50azlqTmJfQVNfWUZxYVZ5bmdwOGM0RENVTjg2ZFF6bzR0XzNGQTNEVFVSOFE3NnJRdmtmZURmUXBnaEN5QnpsaEk4VHl0bWl2cnVqNzRieWlGbnNMVkVVdUx4QlZkMU4zNEVwVTJtQzRWcmFnOGw3VmNhSDJncEtLMDJHRktOazRlYlF5YzN1M1F0T0xGVlc3WEpWWEhzRjlFOU1XXzJXX0dhNm1PRkx2OEJkRHVZ0gHDAUFVX3lxTE9iTFFXSkpHTEpCOFV0N1laSlJpa0RBeFF4Tk9wM19IOFdURVBHeUNUcUxxRHFrbTNJMmdKZW1oWVo0R1lzYVhra3h3UDlTWEFPTTdXM0NrT2IxSzRVT0RXN0s3MDNqUXY0d3ZnY2hfMkZxeHlNRnEwLV8yekJCX0JRREQyaGtSOG1obWdrU1JnYUNfc2JJdFpYSDhkWVFoRndNaFBmalhGbXFnTDBTWldkVHRBUlpsMHZTekpGeUJtNV9NUQ?oc=5
+
+- Hasty detentions of foreign travellers risk India’s image: SC | Latest News India - Hindustan Times
+  Hasty detentions of foreign travellers risk India’
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOajZPTldHM1Y2TDlQcEQtelJQbkRyWkVSM3otcTVDS1gtMmMtQ2NfVXNwYjNMMDhUQXVZN0Rkd2VfVVhRLWVJXzVNU2tsc3RBRWJJUU5vZFQweVVvU1NjajdMMTFZRzNDTW9XaWN0MEJLX1RJdTB2VDViSE91OGJ5UXNYNkVfcUx3MDVXTkpUR2dvc1M1YUNDcFJmZ0ZDOWx5NGhMWVNCRmoySmZIRlhzUHVoOEJQYmVodTBzWlJXUdIBxAFBVV95cUxPUHBSM3czTnpDNHRxcjZWczY4a1o0YnV6bGU3YllqMVo0c0VFMEtqRXVjTDB2WTk3Q3UteHBwT0o1THJaaGY1RVN2UzlLVk1RVGJ5aUdZOVpsR2lxS3Nyd2RUTWxRc3J6eEFQMVY4SUEwZ3c0S1VJX1BXd2lWMHhfek1XT3FWS2Q1SEF4M3ZiS1hBV2hjS2hDSjlNUVBRQ1VFbmRVMnJZS2FOSTdWQnltaV9lN1VPTkRqeVM1SEZtY3VxTkdO?oc=5
+
+- Golden Quadrilateral 2.0: New expressway grid to redraw India’s economic map | Today News - Mint
+  Golden Quadrilateral 2.0: New expressway grid
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRWJEMy1zblVzNWc2Z0FSWVgtX1Flek1XNW9JWlNQZDFuQUtoRElvMHpDeVJHMXpkdlRxOUVsR09CTE9fUEJVbVdvX3JpYl83N21lUUNQVVlHODBBLTYyX2Y0eEEyLVl5bXVzWHcwVk9pcFo5OTNKem8wRlgtYlZ6dU5YbEpOckNubF9QUWlkT014anhVSUdfUzBCWFFzVlVyNG4yQTJueEZMc29jdWI3RnlDUVpRVlNfd1dEZWctam5vbjZfcWd0QlhUXzlXMTFnZTR6dkRwRlIzdU5nMWs5VS1XZFDSAeoBQVVfeXFMT1p4RDhlTEQtbHpuQnN2V3ExcVRMMEJJVHVCX3NaTTc2VTFraDZKY1pfcy1kX2V2emlSWjhtWVZzYVlfTXk3Q1lKbXhQUWFNWkVmVE04a3FZaDE1Ym1qRWFXclhMYkNPcXE0OUdjelZERDlsa1RodEVwWEgwWXlDbmtKYzE0QmJTYXFBMTJKVG4tS29nX3VsX3B0ZFQ4YmhuU3hkelBvNnFDak1QODBrd2RYcXE2QzhGQkJsSjlEcTEwaVVmVUlHR1JoSDNaaFNvSktRV0lOcFA0UngxQlBKXzhGVXNzemJ0dWx3?oc=5
+
+- MHA orders judicial probe into Leh violence, stakeholders welcome move - The Indian Express
+  MHA orders judicial probe into Leh violence, stakeholders
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxObU5fNWJtbjVJUTVUYVNEbkZXRmRTOVU1d0dIUG1jYXE4R1JRX2pRZEVma2l0c1FIa01TTHV5ckYyeHNvaE5XYnVJWFF3QWJhc1U3SXhSbWlhOGFaeFY5MlFpTHcxOF81TEZEV19qMEVZclFNT3NKbmxRV1UwR1c1WTA0RGFvaC1EdzJ3QUItZnRUd3BkUDZtcVpOSXBncHRvUGI5SWwyRFo2c05RaGVwNnJQSlYwbDRBcE800gHCAUFVX3lxTE9sM2hrQmdWV3pldVNNeElmeHhpTjhOcl9kWFA1d0VpUHZ5N2JYSy1ReVY5VFN1amZ5VTVwUFhfQ3FqZmJLNkhCSm8yLTBRbzlzcVN4ZDY2MzFfT1A4MUQ2WXBUdVFLUDRfNm80OUZrTGt5TVlrUUpBbDFyTURvNFpnaFRJX0s4NVFaTXlhYUFwVnlERlZ2MEtSX2tDZFFNOHNYUi1taEg0Y2tYRndibjEtNl82QTJZSXZsWGhVVVEya0pR?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-17 18:24:35 UTC_
+_Last updated: 2025-10-18 01:08:47 UTC_
