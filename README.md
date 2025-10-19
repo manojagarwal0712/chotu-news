@@ -1,204 +1,224 @@
 # 📰 Daily News Summaries
 
-- Bihar Assembly polls: AIMIM releases list of 25 candidates
+- Diwali 2025: Northern Railway announces 10 additional Special trains for Bihar – check route, stoppages
   
-  🔗 https://indianexpress.com/article/india/bihar-assembly-polls-aimim-releases-list-candidates-10315636/
+  🔗 https://indianexpress.com/article/india/diwali-2025-northern-railway-ten-additional-special-trains-bihar-10316182/
 
-- Gold Today Rate, 19 October: Check 18, 22 and 24 carat gold prices for Dhanteras 2025 in Chennai, Mumbai, Delhi, Kolkata and other cities
+- Congress Candidates List for Bihar Elections 2025: Congress finalises candidates for 53 seats, state party chief Rajesh Ram to contest from Kutumba
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-19-october-check-18-22-and-24-carat-gold-prices-for-dhanteras-2025-in-chennai-mumbai-delhi-kolkata-and-other-cities-10315630/
+  🔗 https://indianexpress.com/article/india/bihar-assembly-elections-2025-congress-candidate-list-10310484/
 
-- Silver Today Rate, 19 October: Silver price today in Delhi, Hyderabad, Bangalore, Chennai, Mumbai; check city-wise silver rate list
+- Tripura intensifies anti-narcotics operation after massive drug bust, Opposition leader alleges involvement of ruling party and administration
   
-  🔗 https://indianexpress.com/article/india/silver-today-rate-19-october-silver-price-today-in-delhi-hyderabad-bangalore-chennai-mumbai-check-city-wise-silver-rate-list-10315616/
+  🔗 https://indianexpress.com/article/india/tripura-intensifies-anti-narcotics-operation-10316113/
 
-- Bihar Assembly Election 2025 Live Updates: AIMIM releases list of 25 candidates ahead of polls
+- In Photos | Ayodhya readies for grand Diwali, eyes Guinness record with 26 lakh diyas
   
-  🔗 https://indianexpress.com/article/india/bihar-assembly-elections-nda-jdu-congress-nitish-kumar-live-updates-10315513/
+  🔗 https://indianexpress.com/article/india/photos-ayodhya-diwali-guinness-record-diyas-uttar-pradesh-10315855/
 
-- Diwali 2025 News Live Updates: Cities light up as celebrations begin; traffic diversions in place, Metro on festival schedule
+- Banjara activist launches indefinite fast on charpoy in Jalna for ST status demand
   
-  🔗 https://indianexpress.com/article/india/diwali-news-live-updates-cities-traffic-metro-crackers-10315467/
+  🔗 https://indianexpress.com/article/india/banjara-activist-launches-indefinite-fast-on-charpoy-in-jalna-for-st-status-demand-10315909/
 
-- OpenAI blocks videos of Martin Luther King Jr after racist depictions
+- Under a Thousand: The perfect portable power strip
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-blocks-videos-of-martin-luther-king-jr-after-racist-depictions-10315655/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/under-a-thousand-perfect-portable-power-strip-10316278/
 
-- Ray-Ban maker shares hits all-time high as investors bet on Meta AI glasses boom
+- AI researcher Andrej Karpathy says AGI is still a decade away, here’s why
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/ray-ban-maker-shares-hits-all-time-high-as-investors-bet-on-meta-ai-glasses-boom-10315576/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/andrej-karpathy-agi-is-still-a-decade-away-heres-why-10316244/
 
-- Nexperia says Chinese unit operating as usual as tensions with the Netherlands run high
+- Powerbeats Fit review: The no-nonsense fitness earphones
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nexperia-says-chinese-unit-operating-as-usual-as-tensions-with-the-netherlands-run-high-10315566/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/powerbeats-fit-review-earphones-10316056/
 
-- China accuses US of cyber breaches at national time centre
+- Zoho rolls out new agentic AI features across enterprise apps amid ‘Swadeshi’ push
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/china-accuses-us-of-cyber-breaches-at-national-time-centre-10315556/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/zoho-rolls-out-new-agentic-ai-features-swadeshi-push-10315883/
 
-- US court orders spyware company NSO to stop targeting WhatsApp, reduces damages
+- Garmin Forerunner 970 review: The king of running smartwatches
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/us-court-orders-spyware-company-nso-to-stop-targeting-whatsapp-reduces-damages-10315548/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/garmin-forerunner-970-review-10315663/
 
-- Meesho receives Sebi nod for  ₹6,600-crore IPO
-  Meesho caters to online shoppers in tier-2, tier-3 cities and beyond. It has raised more than $1.3 billion in private funding
-  🔗 https://www.livemint.com/companies/start-ups/meesho-receives-sebi-nod-for-rs6600crore-ipo-11760849186778.html
+- Billionaire bidders must show the money in Jaypee insolvency face-off
+  The bankrupt Jaiprakash Associates, once a prominent infrastructure and real estate developer, is estimated to owe  ₹55,371 crore. The five bidders
+  🔗 https://www.livemint.com/companies/billionaire-bidders-must-show-the-money-jaypee-insolvency-face-off-adani-vedanta-dalmia-jindal-power-ibc-cci-11760762571833.html
 
-- Arrow Electronics says that US trade curbs on its Chinese affiliates are being reversed
-  Arrow Electronics says that US trade curbs on
-  🔗 https://www.livemint.com/companies/news/arrow-electronics-says-that-us-trade-curbs-on-its-chinese-affiliates-are-being-reversed-11760825836161.html
+- Wadia-backed Bombay Realty to return with mega luxury project in Dadar
+  The project, which will have around 500 units across three wings, will be developed over 4.5 acres. The first wing will have large residences, with private sundecks, with
+  🔗 https://www.livemint.com/companies/wadia-bombay-realty-bombay-dyeing-mega-luxury-project-dadar-real-estate-home-buyers-three-icc-premium-project-11760802709745.html
 
-- Tanker Ablaze Near Yemen After Unexplained Explosion
-  A Cameroon-flagged tanker vessel caught fire off the coast of Yemen after an explosion. Two crew members missing, signaling continued risk to maritime transit.
-  🔗 https://www.livemint.com/companies/news/tanker-ablaze-near-yemen-after-unexplained-explosion-11760824270555.html
+- Gstaad Hotels insolvency: Former director moves Supreme Court against appellate tribunal order
+  The Supreme Court has received a petition challenging the insolvency proceedings against Gstaad Hotels. The petition cites inflated claims by creditors and procedural errors
+  🔗 https://www.livemint.com/companies/news/gstaad-hotels-insolvency-deepak-raheja-supreme-court-11760842734574.html
 
-- Chip Firm Arrow Says Its Units To Be Removed from US Blacklist
-  Arrow Electronics Inc. said its affiliates will be dropped from a US Commerce Department sanctions list. The Colorado-based chip distributor�
-  🔗 https://www.livemint.com/companies/news/chip-firm-arrow-says-its-units-to-be-removed-from-us-blacklist-11760821180372.html
+- RBL Bank to transition from private to listed foreign bank arm, expects regulatory approvals in 5-6 months
+  RBL Bank expects approvals in six months and the first tranche of Emirates NBD's funds in the next eight months. The investment
+  🔗 https://www.livemint.com/companies/news/rbl-bank-transition-private-to-listed-foreign-bank-arm-expects-regulatory-approvals-in-5-6-months-emirates-nbd-11760867750126.html
 
-- HDFC Bank expects govt reforms, tech efficiency to speed up lending revival
-  The country’s largest private lender expects loan demand to gather momentum in the second half of the financial year and beyond. With inflation cooling, GST cuts boosting disposable incomes
-  🔗 https://www.livemint.com/companies/company-results/hdfc-bank-q2-hdfc-bank-credit-growth-indian-banking-sector-outlook-hdfc-bank-q2-results-11760799732458.html
+- HDFC Bank doesnt see AI leading to layoffs: CEO
+  HDFC Bank doesn
+  🔗 https://www.livemint.com/companies/news/hdfc-bank-doesnt-see-ai-leading-to-layoffs-ceo-11760856928855.html
 
-- Q2 results next week: HUL, SBI Life among over 40 stocks to report their Q2 earnings between October 20-25
-  Some 44 companies will report their September quarter results in the coming week. Major companies include Hindustan Unilever and Kotak Mahindra Bank.
-  🔗 https://www.livemint.com/market/stock-market-news/q2-results-next-week-hul-sbi-life-among-over-40-stocks-to-report-their-q2-earnings-between-october-2025-11760853033100.html
+- Expert view: Nifty 50 can surpass 28k by next Diwali; these sectors may generate alpha, says Rahul Ghose of Hedged.in
+  Rahul Ghose predicts the Nifty 50 could reach 28,000 by Diwali 2025. Key sectors like financials, autos, and power may drive
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-nifty-50-can-surpass-28k-by-next-diwali-these-sectors-may-generate-alpha-says-rahul-ghose-of-hedgedin-11760869816131.html
 
-- Stock market holiday: BSE, NSE to remain closed on these days next week; check Muhurat trading 2025 date
-  On Tuesday, the BSE and the NSE will be closed for normal business hours for Diwali Laxmi Pujan.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-bse-nse-to-remain-closed-on-these-days-next-week-check-muhurat-trading-2025-date-11760848251637.html
+- Kazakhstan Monitors Oil-Output Risks as Russian Gas Plant Struck
+  Kazakhstan's energy ministry is in contact with the nation's oil producers. A drone attack on the large O
+  🔗 https://www.livemint.com/market/commodities/kazakhstan-monitors-oil-output-risks-as-russian-gas-plant-struck-11760870181319.html
 
-- Calcutta Stock Exchange may mark its last Diwali in 2025 ahead of voluntary exit as bourse
-  Calcutta Stock Exchange may mark its last Diw
-  🔗 https://www.livemint.com/market/stock-market-news/calcutta-stock-exchange-may-mark-its-last-diwali-in-2025-ahead-of-voluntary-exit-as-bourse-11760850067345.html
+- Muhurat Trading 2025: What is Muhurat Trading? Why is it done every year on Diwali? All FAQs answered
+  The word ‘Muhurat’ signifies an auspicious time when planets are believed to align in a way that results in a positive outcome. Muhurat trading is a special one-
+  🔗 https://www.livemint.com/market/stock-market-news/muhurat-trading-samvat-2025-what-is-muhurat-trading-nse-bse-why-is-it-done-every-year-on-diwali-all-faqs-answered-11760852571387.html
 
-- Dark Ship Appears to Transfer Sanctioned Russia LNG Off Malaysia
-   tanker carrying liquefied natural gas from a US-sanctioned Russian export plant has positioned itself off the coast of Malaysia.
-  🔗 https://www.livemint.com/market/commodities/dark-ship-appears-to-transfer-sanctioned-russia-lng-off-malaysia-11760849517455.html
+- Gold price crashes ahead of Diwali 2025; will it fall more? Explained with 5 reasons
+  Five key factors could drive further declines in gold prices. As geopolitical tensions ease and the US dollar strengthens, experts weigh in.
+  🔗 https://www.livemint.com/market/commodities/gold-price-crashes-ahead-of-diwali-2025-will-it-fall-more-explained-with-5-reasons-11760857813377.html
 
-- Stocks to buy for long term: Pankaj Pandey of ICICI Securities on market outlook for Samvat 2082, and his 5 stock picks
-  Pankaj Pandey from ICICI Securities highlights five stocks poised for long-term growth. Kaynes Technology and Data Patterns
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-long-term-pankaj-pandey-of-icici-securities-on-stock-market-outlook-for-samvat-2082-5-stock-picks-11760846935137.html
+- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday — 20 October 2025
+  Ganesh Dongre of Anand Rathi recommends three stocks to buy or sell on Monday, 20 October 2025. Steel
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-20-october-2025-11760864190657.html
+
+- Anthropic co-founder admits he’s ‘deeply afraid’ of AI, calls it a ‘mysterious creature’
+  Jack Clarke of Anthropic warns about the unpredictable progress of AI, expressing fears about its emerging situational awareness. He stresses the importance of public discourse on AI's implications and
+  🔗 https://www.livemint.com/technology/tech-news/anthropic-co-founder-admits-he-s-deeply-afraid-of-ai-calls-it-a-mysterious-creature-claude-anthropic-claude-anthro-11760867312760.html
+
+- WhatsApp tests anti-spam measure, capping messages to unknown users: Report
+   WhatsApp is testing a monthly message limit for users and businesses. Aim is to curb spam, reduce unwanted notifications, and create a cleaner inbox. Regular users remain largely unaffected.
+  🔗 https://www.livemint.com/technology/tech-news/whatsapp-tests-anti-spam-measure-capping-messages-to-unknown-users-report-11760867766842.html
+
+- Diwali 2025: How to use Gemini, ChatGPT and other AI tools to create your perfect AI portrait? Check our guide here
+  You can create using own AI generated Diwali images by using Gemini, Qwen, ChatG
+  🔗 https://www.livemint.com/technology/tech-news/diwali-2025-how-to-use-gemini-chatgpt-and-other-ai-tools-to-create-your-perfect-ai-portrait-check-our-guide-here-11760863127593.html
+
+- OnePlus 15 to confirmed to launch in India soon: 6.78-inch AMOLED display, 7300mAh battery and 120W charging expected
+  The OnePlus 15 is expected to come in Sand Storm and Black. It will feature a Snapdragon 8 Elite Gen 5, up to 16GB RAM, a 6.78-inch AMOL
+  🔗 https://www.livemint.com/technology/oneplus-15-to-confirmed-to-launch-in-india-soon-6-78-inch-amoled-display-7-300mah-battery-120w-charging-tipped-11760861308532.html
 
 - Samsung Galaxy S26 ‘Pro’ could become the new normal — and the Edge may vanish: Report
    leaks suggest the Galaxy S26 Pro may replace the standard S26 to rival Apple’s iPhone 17. The S26 Edge could also be
   🔗 https://www.livemint.com/technology/tech-news/samsung-galaxy-s26-pro-could-become-the-new-normal-and-the-edge-may-vanish-report-11760853544037.html
 
-- Wikipedia loses 8% of human traffic as generative AI and social platforms change user habits
-   Wikipedia reports an 8% drop in human pageviews in 2025 as AI, search engines, and social media provide direct answers. The Wikimedia Foundation attributes this to bot traffic and changing user habits.
-  🔗 https://www.livemint.com/technology/tech-news/wikipedia-loses-8-of-human-traffic-as-generative-ai-and-social-platforms-change-user-habits-11760848337091.html
+- How nervous are investors about the stock market? - BBC
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE85WE53U2NFczVTMGNQR1JMSnNvbDJRVjFKRXFWWVNLUEZDVkpTQU03X1lKb2xSOWxiWUFvZG04ZHhDRS0wcU1mQUxSWklfUHRoTzRDcTdIQTBoQdIBX0FVX3lxTE5CZlhCUlB6TWs2ejhUXzJyT2xwdDgzSElnQ1pvMUhjd1ZGUUhCWmEtWVI4OHYxTlZKelg2eGxkanNNYmZCRkNENi1pS3gtUkZnUnVVc0EwWjdiY0Vjd3A4?oc=5
 
-- Google celebrates Diwali with interactive animation on search - How to view it
-  Also known as Naraka Chaturdashi, Choti Diwali is a festival that celebrates victory of Lord Krishna, the eighth avatar of Lord
-  🔗 https://www.livemint.com/technology/google-celebrates-diwali-with-interactive-animation-on-search-how-to-view-it-11760842358313.html
+- Stocks close higher as bank credit worries, China trade tensions ease - CNBC
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5Gbm1nNllfaTE0YjY4RmcxcDJaNjBzR2lWZUpuQmNLS3Q3WXROR1hibThnSE1EMjZUZUhmcWpQXzNJTFFZU1k3QTZfRFJmd1JzdkdMWThWNFB0V0xQbGNzaFBZLUZZT19ZcXlFN1piVFdYaEtaYVRF0gF8QVVfeXFMT0lJaFJTOFpCdk5VWm9OcXd1MFlwNXlxbzcxVkZycnNqLWtiSDVJeUdCU0RRZllXVnJtd1I3a2tWRkRrZm91MjZjd29TcDdOZl81Wk9rdExKWGVzMUdoT05tZDFWSk9DdzdtS3lZdF9mcHdWZWx0UXY5b3oybg?oc=5
 
-- Apple iOS 26.1 Beta: New features, RCS upgrades, and Siri improvements expected
-  Apple has begun testing iOS 26.1, the first major update since last month's iOS 26 release. The beta may expand Apple Intelligence and Live Translation, while upcoming updates will likely add features like
-  🔗 https://www.livemint.com/technology/tech-news/apple-ios-26-1-beta-new-features-rcs-upgrades-and-siri-improvements-expected-11760842193387.html
+- Exports record positive growth in 24 nations in Apr-Sep; reflect market diversification - The Economic Times
+  Exports record positive growth in 24 nations in Apr-Sep
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOc3hyQTFIUkNBUVNoZF9sMHJ6QzgtelhYbXFXNTFFZmpzdkxEcUJoc25WU0xQRTh5VTVIVGZVa1VoR0Y4eUFLTUp6VVBWa0lGdl9qUFRTM0RUREVPSjJSX2FTWEwwOEV4SWhZdTJTMzRnOTZNc3EwQU9CVmtKS0xMa0xPeFlLRmZ6QzhkM1phZnI3QkpQX2JrLWpfd1I4MlZrOUtHWUY3NmJsOFFWd0l2dzVyNWNVX0FQRFpjSGlwY3VkZG5MOXBsLU45eDRCSVMzOHo4VVdjc05xc2RkdzVVeUR6dXFlUlFxNi1SZ3lpSXRJcGlpWXk3N0pFOA?oc=5
 
-- Perplexity AI tops app charts on Google Play Store and Apple App Store, outpaces ChatGPT and Gemini
-  Perplexity, the AI-powered knowledge platform, co-founded by Arav
-  🔗 https://www.livemint.com/technology/tech-news/perplexity-ai-tops-app-charts-on-google-play-store-and-apple-app-store-outpaces-chatgpt-and-gemini-11760800680852.html
+- Diwali celebrations bring festive rush to Sambhajinagar city markets - Times of India
+  Diwali celebrations bring festive rush to Sam
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZnFYSFp1QW15bG9rY21NVnVzdk0xQUdsbHV5ckNITFl3ZEhMYlpkZGtOQjFHcjZQbFZPMzVnT3ZFdVRlZU1LLTROZVNpbWRMRmZPLVFLckkzS2h6ZXh0U3poWHFwMENBVGdyaGFsbG5GMHBxYTJNZWU4Rk9TeFVSUVVLTTBhY2lIYlVOUTRLcXYyOHp6N0QzNGJWa0tYRFZ0OEYwSEt2a0VIaVR1X25NdDQ0U2tIV3pQay16a0x3MXgtY0R5OXd0WmwyMGxpZDhhMEwzNG1Yd1BUTDRva2Y40gHkAUFVX3lxTE9JR0xtZ2xzUzlBQ1dFWHVVNnU0NDVfc1JDZ1FYSlRJUHloeWIxcXdoZE9nS3pkMXVzdFZ6OUl6TWdwQW8tT3dXU21la05wM3RWRnNESWNwdTF0MDNXbUl3c3VWeFF3ZDVnZG51NmNUbkJpMzB6cUlQMVlKWS1SelFmVTlvckk4TEpSYmhRLS1QRnc1WjAyLWw0cEZ1Q2VpYm5kUGlKWmF6OHNOWmpjVy1id2Q0TVhYaWdFaGdTS3NxbnhSUmo3NFhZUXFyOW92Y1NRT3ZKVTdldkhfY1pmTHNMNnNfMQ?oc=5
 
-- Calcutta Stock Exchange may mark its last Diwali in 2025 ahead of voluntary exit as bourse
-  The Calcutta Stock Exchange (CSE) may this year celebrate its last Kali Puja and Diwali on October 20 as a functioning exchange. The process of voluntary exit as a
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/calcutta-stock-exchange-may-mark-its-last-diwali-in-2025-ahead-of-voluntary-exit-as-bourse/articleshow/124683182.cms
+- Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times
+  Ahead of Market: 10 things that will decide stock market action
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQjA1WkljdUhMRkFWQURESkVKaXVXc25rVHZ1MFM4MnAxNHVXWDNCNEpXaFoxX0tKaEJsNGxPaVFIV2VOUHV0RmQyNmVmMTNIb29CQ0V5ZkpKTUFIVEsyaGlZOHd0U2NjSk5fcmhDc3Y0dGF1d1dmZFN2V1dWZzc0TkJiTlFMMGgxck5LWi16TjFIUXg5SkFWaE4tYVZ3c2tENHZmb0xORHZ4UVMtYndRSExoSVB4ZTY5QzZOUVJMbUVkMVJZdWk1ekJtTGRVTkM0SlNYM1JHbmdObzI2ckJJ0gHkAUFVX3lxTFA1QlY0dFpzM2pLYjdDbll6eWFsRHZvVnFiME1aZXJWVUtZYXlEMGdpOU83Y2RWUzFOdVdzaTJodWJ1LUVLQ3pCaFVPQmphV0NfZ0xEZFhsNEE1NVRBS05XTGlfWE16dk8zblVrTVYxNnpzdnpiNWpsNzVkemE3Uy11eW5SVkZsal9TRUhrMV8xZWRZMnN5a0FPVFhpVjhhcnZPLU95QUdzRTBOREVSd1otNGwxbjhUbF8xLTVHQXBsdXowSFA1LUVDc1NWV1IxV2J1eTREUXJtX1lkSUhPc1M2R29tUQ?oc=5
 
-- This Samvat, are you a scientific investor or just following the herd?
-  Scientific Investing is an approach that is based on the first principles of investing. It is rooted in the concepts
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/this-samvat-are-you-a-scientific-investor-or-just-following-the-herd/articleshow/124682896.cms
+- Ahead of Market: 10 things that will decide stock market action on Monday
+  The Indian market extended its winning streak on Friday, supported by foreign inflows, easing U
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/124686633.cms
 
-- J&amp;K Bank Q2 Results: Net profit falls 11% to Rs 494.11 crore
-  Jammu and Kashmir Bank said its net profit fell 11 per cent to Rs 494.11 crore in July-September quarter of the current financial year. Earnings
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jk-bank-q2-results-net-profit-falls-11-to-rs-494-11-crore/articleshow/124682625.cms
+- Diwali 2025: Gold, silver prices drop from record highs. Check latest rates on 19 October
+  Gold and silver prices eased from record highs ahead of Diwali. 24-karat gold at Rs 1,30,860
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/diwali-2025-gold-silver-prices-drop-from-record-highs-check-latest-rates-on-19-october/articleshow/124684639.cms
 
-- How the 2025 rate cycle could redefine fixed income strategies
-  The Reserve Bank of India has begun easing rates in 2025 as price pressures moderate and growth momentum stabilizes.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/how-the-2025-rate-cycle-could-redefine-fixed-income-strategies/articleshow/124682550.cms
+- After 3-month withdrawal streak, FPIs pump Rs 6,480 cr into Indian equities in Oct
+  Foreign investors are once again embracing Indian stocks, infusing over six thousand crore rupees into the market in October. This comes on the heels of several months marked by cautious selling.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/after-3-month-withdrawal-streak-fpis-pump-rs-6480-cr-into-indian-equities-in-oct/articleshow/124684489.cms
 
-- Meesho files updated draft IPO papers comprising primary raise of Rs 4,250 crore
-  Mesho has filed an updated draft for its upcoming IPO, aiming to secure an impressive Rs 4,250 crore. This funding will be sourced from the issuance of new shares alongside the sale of existing shares from seasoned backers.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/meesho-files-updated-draft-ipo-papers-comprising-primary-raise-of-rs-4250-crore/articleshow/124682540.cms
+- Mcap of 7 of top-10 most valued firms surges by Rs 2.16 lakh cr; Reliance, Airtel biggest gainers
+  Reliance Industries and Bharti Airtel led the surge, adding over Rs 2 lakh crore collectively. Seven of the top ten firms experienced growth.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-7-of-top-10-most-valued-firms-surges-by-rs-2-16-lakh-cr-reliance-airtel-biggest-gainers/articleshow/124684441.cms
 
-- Pakistan Army Chief Asim Munir warns India of ‘decisive response’ to any provocation - The Hindu
-  Pakistan Army Chief Asim Munir warns India of ‘
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVQ2VWVSNWZkVFB2ZUx4TEtpby1yYTRyUU44SExDcE15MXRTajFyRTd4ZXdfNVp6NFJCVTdMa0xNU0tscWpwREljUkgycEFsY3NpYWZsQUZvYTRkblZUcjlENy1xUWFVVFlETWNqRWlHNnJUeGdlYUJyRDlXbGFMd2x4NG5JMF9sbE1YWWFVUlF0UENCSTJmRkZlc1lKRVlFcGtHNnhyQlNyeEdoa0F6OTZqdzJ4c044UmxVVFR1NUtuV29ucm5wQUxKNk40M05HN2toOTVqTGg3Y192UWR30gHmAUFVX3lxTFBOYWd0NXFsd3d3SFMxQ1ZodmlwNWh3dlhDLU1HRXVkQ1FkRklWZ2JBNXBrMFRJMlo1V3BjQlhjZk1YaU15Uk9kQXhDTVlWdDE1NU5oTFhfX21PSTBvUW5VdFdnV0RnVm9EWU4zVGV2N0FrVWRQbTlGNllzVk1tSjVDRUN1bm0wNGlubENncGVKd19aYlFZczR4aUEtSEhBRTV3T1BoSEFvUE5nQ3dkU0sxbWNYUjZ3TldrbGtDZVdLYzh6cnFOcW41aUNqZEZGaEF1a3pXa1FLbHdZZThGcmVfdDlndEl3?oc=5
+- Stock Market Holiday 2025: Are NSE and BSE closed on October 20 or 21 for Diwali?
+  Both the NSE and BSE will remain closed on October 21 for Diwali Lakshmi Puja, and again on October 22 for Balipratipada. There’s been some confusion among
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2025-are-nse-and-bse-closed-on-october-20-or-21-for-diwali/articleshow/124684316.cms
 
-- Amid Afghan Conflict, Pak Army Chief Asim Munir's Anti-India Nuclear Rhetoric - NDTV
-  Pak Army Chief Asim Munir's anti
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPSl9WTDNiWTFpNi1rbmV6aDE1TkJPWmNvZWhxanZqZlpyMDBnb19rMW5IV1UxTzJwblF3QjFRSkt2YVdVVG5sZFJGMVllWU9sUkQxTWxMMzZEU0kyMmJQYk10UTJJaXJWbmZCdVFvY0ZwOUJmVXBTTU93RUlxRXJuNTR6TFV2TmJPZXZZdXBra1lESEZmRlpDSmVNM1QyWU9EUkF4M2hISUhUOVlKWVU4MVUxYzlLUdIBvgFBVV95cUxPWkozMWctVHFJRVdnajdCVV9Va0w5TE9lZWpHZjVrRHB4Nm0zVk5FMEtNNDFZRFRMQ1kxSUFuRFc1b01nQ1R4ZThreDN2bmxFakFIVXQ0U1BxVmhTbG5pLXJTcUhPX05md1VnUnhCTHVscUVCREg2RU45U0RFYzkySE56Z1laRHhSRDlIdTU1RFdOeTdrNmlscHl4ODlVOUU2XzZEQmI1YWlYOEc3UjdOUVNvcXRZWnFZLW4tOWhB?oc=5
+- "India Working On 2 nm Chip": Ashwini Vaishnaw Shows 'Wafer' At NDTV Summit - NDTV
+  "India Working On 2 nm Chip": Ashwini
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQV09WS1RDTUZkUWdGOXdqTjhVbnllWXB5dmRDamRFajBzU01JeHRONXJDUlQtZmxjRFNWYWtXYzN3QjQ2d1JKYjluanBENWpWNTFHSWYycjY2SHdMcl9WeHNvdl9zclpoWm1Mam1qZ05oUnhpa1FBcmpQdnFtelZndkt3anAxUGxnY0ZuWk1TeGJ5cEd6dVBFdmlmQTdTWjRuUThnN2NFYWVLd1F2LU9wQlgtU2pPbTDSAb8BQVVfeXFMT3Z1U3pvNlVPNGFvWWRqM0RrNVRXb3RBUUJ0QmhWVkJoODlvNzlPUE9xNEJ6bk1sRjVaTlJzREJna3F3QnM0aEFJWTJPQkpHcG03dkVkUmFZRzRQTnNDb2I2VFRYc29iSGhYTFJsLWNiVmRlN2dCdDRoWThXNzRtMUlvYUp3LTc4S2FRZmpRRWdPckttUFdNSmlmVTAyZExhZVJSRklqaUZRQXROX2VRMW9CY3psM2tRc0RYeXVsS00?oc=5
 
-- ‘Whenever Afghanistan moves closer to India…’: Ex-MP slams Pakistan Army chief after 3 cricketers killed | World News - Hindustan Times
-  ‘Whenever Afghanistan moves closer to India…’: Ex-MP slams Pakistan
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRnhDTDVtSC1MQXpHYlZiLTc5VlFMektBQk9XbnZXNXhXTlhGR2NhbHdwMGVnTkp1WWljTHItSmU4SUVUSVlOZm9wd0JkNWtkQjZSeGlFNHhjOTV4cUUzN2VaLU5RanU0SUw3cFNab2dhRURMNDlxcG44N0M4QW0yOE1fdHd2b0h6RG9razNDT19rb3N4bHY2bHVLV2ItaHNUTG5oMXpGejgwVVFzejEtc21rVjl0TzZRVUQzOE43TmlXLVMxZWRuSU5TOWpIYU4xQWVnb0stVkJyeTlHWmNqYkl3dnlUM3NLWlJUdkJQY29oeGNScWfSAfsBQVVfeXFMTXFpNjhObEhmZ1Y3SjduTTJIbGlKZDZLa2pjYllYUTNBRldyM1ByR0Z0YWVzVFVrS2Itc3ZybFhBTmlwZi1CN3JGOW1SRDlpazNHWWw1MmJIcnAyVDQzYk1QT01DU2x6cVdYQXI3SlhSUE1pX3dxeTZScHNQVWQzRHFIVTZISVdUM0hUQV9DaTRBWXNNZ2htODVub3dCTktIRFN3Z0x1LU1xR1VMU3pfbmt2ZHBnVUNUbm8tWjdDM0RCYXQ3a2FDQ3N5ZV9JUE1Ucm9FUnBmdEZRTTV3ZzkwZ3g0YnBPYndYR0lvcTY3eEZKZXR6TVl3cnV2clU?oc=5
+- Trump tariffs: India's exports to US plunge as 50% tariffs weigh - BBC
+  India's exports to US plunge as 50%
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DNXVoRU85RWtUUGRzalFSS000LXA2QVpjMm5hNEs0N0xoQmowX3lpS1VSWHlldnFDSFhQV3lHNkJtNWoxV0Z0MXVSTk8xelBLTUlYaVhibERtUdIBX0FVX3lxTE1IZGVmMmVSMjNvdUJWZkZqRTB5aGlrbFIxTkpaMjc4ZzhQWFEzTVpRRzdDWVlHQjY0blJTUmdBM2xFZjlnMmJZMlhXTTI1TUZLcmVOckZBNEp6dVhCMmU0?oc=5
 
-- The Great INDIA Bloc Muddle: A Comedy Of Errors In Bihar - NDTV
-  The Great INDIA Bloc Muddle:
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNbUI0a2NpaS02cjdTQWxXd0o5MXE1MG1ITUVZNnRNTXZEY29WalExSFI4Z2ZXOUFTcXZ5SEoxd1dqWWRpU1gwRlFSeVN1ZmlaYWc0MU4xU3RNOERoSTZDWnoyazNWYU1RYy1DODdxMkxfQVlZdUsycnZISHBkbklvOExVaEVKVDNEcUQyUG4td0JjNDVaVEZoclRDMNIBowFBVV95cUxPYV9qODI5b2R4WDdzb2xhWENEWHdGTE5vT05kMkdQWjFpbFhUYWtza1FKcTJTajNrSEY3YklsdU9XOGNaQ002VzZjcDZYLUNzSzVpaFRheVN0Q2dKMXphQzlwRENvWXk5Y29PUFBVM1E0UTh3YUt4emdHMW4tUW5oS2xwNUdnRVVick9uZFVYV01yRUxjYUc5WEhpTFpKaEZibzNZ?oc=5
+- When Is India's Next Match? After Perth Failures, Kohli-Rohit Will Play On... - News18
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQUjR2TWtPWE0zanltR1Fab3NRQTU1WkN4MzBpVUZSVU5ZR21uNF9NczZMeHQ5U2RkRURuazF4TFJUX1d1TERBTlRKaG1Wb1V2WjJKdnBwTTJkVnhrVlBRX0c1Q2xoejI5WTloeWRUSmlkeEtfTi1EanA5dTZQYUlrV3hNc3Z3WFJzSWp6WWJrUEhFRTdrN0w3eTgzS2J2WTRlOEVEd2RvNlY5MWNNRW92ekRweU91d1FLU0lucWNNaGotQ29XTGpUVm90R0NFd9IB0wFBVV95cUxNZkxLdVdkYi1uazJ4SFJqODFZU050RXVIMEp5TGE3bWQ1VFRmMEdxdXZuOTZuU2ZkVjlSTHp3Ql9jS3Rld1o0U2Nhc2JHWS1kcWE5aXh1dF9KWWk3S0JJemxuLVhTRnpKYi1DMVZFSGdjQ3RxVXRWaDluM19DR25pVWd3MTFSWTJNYktzenViWFZSLVZTVWRJbGlSeHI3N21kdkd4N3Z5cnctUWlqUXpnbjk3OXR2WEN3Szh6OHQxQThjS1pnMkRkZm5oc0dnNTJkTDBN?oc=5
 
-- Bihar Assembly polls: AIMIM releases list of 25 candidates - The Indian Express
-  Bihar Assembly polls: AIMIM releases
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNWVZBRkxyLTRWcGxCSnYzRlZpOE5kVWI4Y3M1T3dTc2F2YmR0RzJYX2Y2cmVjRllVT1MybzVMZGF2ZnhMeHBPTHZlbzNPc1lOWDBCaElPRDhVTmYwMC10SnllRVBUMC04Wm9aanI2V1VkVlFpb1pMMGdQNDM3MVhpVkZPNW9wTnJIZmlPTzltc1h6THRjcHFPZ0VGVWNNeFBPVzVR0gGqAUFVX3lxTE9KSlVMMGdiQm9VOVdBaTdhOHJNbU9DdzFxWk1kZHRoNDNuZGdDY0R3OFhrUDd6RWpmdFFjNW0tcW9FVXdKTXVxT0ZCOURNaU11bkhOeWlqb2RlQUxvWkdxaFJabk5aNXlITXFlMXM5OF9GWml0b3lGNFFUcFhpMEJPREtSZTQwaVFKMFJkbFQ5QW1yR09BS096b2FrSUQ1NGlQVVFtd2xIUV9R?oc=5
+- US tariffs bite but Indian exports register positive growth in 24 countries in Apr-Sept - financialexpress.com
+  US tariffs bite but Indian exports register positive growth in 24 countries
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb0hpeEh5MzdnT1Q5M1k0d3dUUHNEYTdQNU5ub1BhSWVYVVEzREhkNU9JMVZ4QmNFWGxfQm9Ncm9jc2lKM0k0bXhnelM1c3A3Q1RVUjZFb1Z5WEwtVTR0dXZ3UVNjSXJhWGZpMmZHa2hSbGRxS3ZTamFFVFdYX1A3NV9nREdsRmZobDM4cVN4QUFfZ0xld1MtLTR5NlQtRHN6c0Q2QlJjYTVBNFk1MXA1eDY1MFFFZHRQSlM0Mk9OU2d4cFdjcEtRa0o0RGJZazRQWm5uSTBKbGVKbjlQ0gHjAUFVX3lxTE9VamVPbTNUZWQ5ZmphTHhqdTZtaWZka1BrVTZHaWhBSElmMnczSXI5YWZxRDZ2c3hrSjJjT1BZOVREWVRLemRYc2NSakRDMkIwR3h5aUI2VTlzWENzeWJXSFgtX2dOTkpqem1JMUVpSXpmV2F4MWtIbWM0elRsbTFiRXJna0kwc3lnX0VGU0NKMkhRT2t6WG1WaF9IYVVnMEhwNlhWOUp3djEyTldmTWUtSkxNMUJrd2FyY3ViVUIxNWJqVk9mZWhYX2xqenF6SktlU2Z2UW1ySExRYkZZYnQ1SVh3?oc=5
 
-- Pakistan Army Chief Asim Munir warns India of ‘decisive response’ to any provocation - The Hindu
-  Pakistan Army Chief Asim Munir warns India of ‘
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVQ2VWVSNWZkVFB2ZUx4TEtpby1yYTRyUU44SExDcE15MXRTajFyRTd4ZXdfNVp6NFJCVTdMa0xNU0tscWpwREljUkgycEFsY3NpYWZsQUZvYTRkblZUcjlENy1xUWFVVFlETWNqRWlHNnJUeGdlYUJyRDlXbGFMd2x4NG5JMF9sbE1YWWFVUlF0UENCSTJmRkZlc1lKRVlFcGtHNnhyQlNyeEdoa0F6OTZqdzJ4c044UmxVVFR1NUtuV29ucm5wQUxKNk40M05HN2toOTVqTGg3Y192UWR30gHmAUFVX3lxTFBOYWd0NXFsd3d3SFMxQ1ZodmlwNWh3dlhDLU1HRXVkQ1FkRklWZ2JBNXBrMFRJMlo1V3BjQlhjZk1YaU15Uk9kQXhDTVlWdDE1NU5oTFhfX21PSTBvUW5VdFdnV0RnVm9EWU4zVGV2N0FrVWRQbTlGNllzVk1tSjVDRUN1bm0wNGlubENncGVKd19aYlFZczR4aUEtSEhBRTV3T1BoSEFvUE5nQ3dkU0sxbWNYUjZ3TldrbGtDZVdLYzh6cnFOcW41aUNqZEZGaEF1a3pXa1FLbHdZZThGcmVfdDlndEl3?oc=5
+- 'Not a single Indian cares…': US politician gets censured for mass deportation call | What did he say? | Latest News India - Hindustan Times
+  'Not a single Indian cares…': US politician gets censured for mass deportation call.
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNDQzS1BMVjIycjZmeTlvSDM2bXVIazBzSkJmc21vdHJjaDNTdjBXakNJa05IWWRJNkhqc3ZzWXhkNnN3YnJ4S0x5eEJxdlhIelk4VFhZWjduemt4eENZTE1pb09nbHd3VG1xWUhpcW84V1hiUkExRllwcHNRSnNDZ0lkdTUwS21HdE14bThvdE9jbmZqSGVuVTdGRFAwenYyLXRWSDNTcDJHbjc3RWpxOGtrMzJCVWNQT3lJRVFLXzVMc3RqSXlxa3FNY3EtcHR4RUxpZEZmbnVUbEtRdVlrZnk4d1pYSi1vOFBYSFlGZmpuc2hRMlhyTEYxTWhySTDSAYQCQVVfeXFMTU1fQUdDRDVaclB4U2JOUEExdHcxTG1aX3BsTUptRDY0M2dHNFo4bWREekxUeExvN19MRWIwVU5QcmY0WWZXRDVublo2QXpyR1pLbkpfX0JpSlp6aVJKZko2TE5jRFhjbUdjSzBJSlZjWGQ3Wm42c1B4d2NSUUpTRDB5dDRzVWNLbUJ6ZFBfX3J3OWVpNUtBNzRwd3I2UWIzNkV5a0xFM2JpU2pYb2J6bFFsamRuQkhTLUJTRTFVMlV4aGV4TnBqVkhlR05mVzZhWXFISEsxYWxwcjFNdDhWQVVVRG81dE1nOHRYdHI4RDBwc0tieFc0N0JTdy1HOG9rV0VBbWc?oc=5
 
-- Amid Afghan Conflict, Pak Army Chief Asim Munir's Anti-India Nuclear Rhetoric - NDTV
-  Pak Army Chief Asim Munir's anti
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPSl9WTDNiWTFpNi1rbmV6aDE1TkJPWmNvZWhxanZqZlpyMDBnb19rMW5IV1UxTzJwblF3QjFRSkt2YVdVVG5sZFJGMVllWU9sUkQxTWxMMzZEU0kyMmJQYk10UTJJaXJWbmZCdVFvY0ZwOUJmVXBTTU93RUlxRXJuNTR6TFV2TmJPZXZZdXBra1lESEZmRlpDSmVNM1QyWU9EUkF4M2hISUhUOVlKWVU4MVUxYzlLUdIBvgFBVV95cUxPWkozMWctVHFJRVdnajdCVV9Va0w5TE9lZWpHZjVrRHB4Nm0zVk5FMEtNNDFZRFRMQ1kxSUFuRFc1b01nQ1R4ZThreDN2bmxFakFIVXQ0U1BxVmhTbG5pLXJTcUhPX05md1VnUnhCTHVscUVCREg2RU45U0RFYzkySE56Z1laRHhSRDlIdTU1RFdOeTdrNmlscHl4ODlVOUU2XzZEQmI1YWlYOEc3UjdOUVNvcXRZWnFZLW4tOWhB?oc=5
+- "India Working On 2 nm Chip": Ashwini Vaishnaw Shows 'Wafer' At NDTV Summit - NDTV
+  "India Working On 2 nm Chip": Ashwini
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQV09WS1RDTUZkUWdGOXdqTjhVbnllWXB5dmRDamRFajBzU01JeHRONXJDUlQtZmxjRFNWYWtXYzN3QjQ2d1JKYjluanBENWpWNTFHSWYycjY2SHdMcl9WeHNvdl9zclpoWm1Mam1qZ05oUnhpa1FBcmpQdnFtelZndkt3anAxUGxnY0ZuWk1TeGJ5cEd6dVBFdmlmQTdTWjRuUThnN2NFYWVLd1F2LU9wQlgtU2pPbTDSAb8BQVVfeXFMT3Z1U3pvNlVPNGFvWWRqM0RrNVRXb3RBUUJ0QmhWVkJoODlvNzlPUE9xNEJ6bk1sRjVaTlJzREJna3F3QnM0aEFJWTJPQkpHcG03dkVkUmFZRzRQTnNDb2I2VFRYc29iSGhYTFJsLWNiVmRlN2dCdDRoWThXNzRtMUlvYUp3LTc4S2FRZmpRRWdPckttUFdNSmlmVTAyZExhZVJSRklqaUZRQXROX2VRMW9CY3psM2tRc0RYeXVsS00?oc=5
 
-- ‘Whenever Afghanistan moves closer to India…’: Ex-MP slams Pakistan Army chief after 3 cricketers killed | World News - Hindustan Times
-  ‘Whenever Afghanistan moves closer to India…’: Ex-MP slams Pakistan
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRnhDTDVtSC1MQXpHYlZiLTc5VlFMektBQk9XbnZXNXhXTlhGR2NhbHdwMGVnTkp1WWljTHItSmU4SUVUSVlOZm9wd0JkNWtkQjZSeGlFNHhjOTV4cUUzN2VaLU5RanU0SUw3cFNab2dhRURMNDlxcG44N0M4QW0yOE1fdHd2b0h6RG9razNDT19rb3N4bHY2bHVLV2ItaHNUTG5oMXpGejgwVVFzejEtc21rVjl0TzZRVUQzOE43TmlXLVMxZWRuSU5TOWpIYU4xQWVnb0stVkJyeTlHWmNqYkl3dnlUM3NLWlJUdkJQY29oeGNScWfSAfsBQVVfeXFMTXFpNjhObEhmZ1Y3SjduTTJIbGlKZDZLa2pjYllYUTNBRldyM1ByR0Z0YWVzVFVrS2Itc3ZybFhBTmlwZi1CN3JGOW1SRDlpazNHWWw1MmJIcnAyVDQzYk1QT01DU2x6cVdYQXI3SlhSUE1pX3dxeTZScHNQVWQzRHFIVTZISVdUM0hUQV9DaTRBWXNNZ2htODVub3dCTktIRFN3Z0x1LU1xR1VMU3pfbmt2ZHBnVUNUbm8tWjdDM0RCYXQ3a2FDQ3N5ZV9JUE1Ucm9FUnBmdEZRTTV3ZzkwZ3g0YnBPYndYR0lvcTY3eEZKZXR6TVl3cnV2clU?oc=5
+- Trump tariffs: India's exports to US plunge as 50% tariffs weigh - BBC
+  India's exports to US plunge as 50%
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DNXVoRU85RWtUUGRzalFSS000LXA2QVpjMm5hNEs0N0xoQmowX3lpS1VSWHlldnFDSFhQV3lHNkJtNWoxV0Z0MXVSTk8xelBLTUlYaVhibERtUdIBX0FVX3lxTE1IZGVmMmVSMjNvdUJWZkZqRTB5aGlrbFIxTkpaMjc4ZzhQWFEzTVpRRzdDWVlHQjY0blJTUmdBM2xFZjlnMmJZMlhXTTI1TUZLcmVOckZBNEp6dVhCMmU0?oc=5
 
-- The Great INDIA Bloc Muddle: A Comedy Of Errors In Bihar - NDTV
-  The Great INDIA Bloc Muddle:
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNbUI0a2NpaS02cjdTQWxXd0o5MXE1MG1ITUVZNnRNTXZEY29WalExSFI4Z2ZXOUFTcXZ5SEoxd1dqWWRpU1gwRlFSeVN1ZmlaYWc0MU4xU3RNOERoSTZDWnoyazNWYU1RYy1DODdxMkxfQVlZdUsycnZISHBkbklvOExVaEVKVDNEcUQyUG4td0JjNDVaVEZoclRDMNIBowFBVV95cUxPYV9qODI5b2R4WDdzb2xhWENEWHdGTE5vT05kMkdQWjFpbFhUYWtza1FKcTJTajNrSEY3YklsdU9XOGNaQ002VzZjcDZYLUNzSzVpaFRheVN0Q2dKMXphQzlwRENvWXk5Y29PUFBVM1E0UTh3YUt4emdHMW4tUW5oS2xwNUdnRVVick9uZFVYV01yRUxjYUc5WEhpTFpKaEZibzNZ?oc=5
+- When Is India's Next Match? After Perth Failures, Kohli-Rohit Will Play On... - News18
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQUjR2TWtPWE0zanltR1Fab3NRQTU1WkN4MzBpVUZSVU5ZR21uNF9NczZMeHQ5U2RkRURuazF4TFJUX1d1TERBTlRKaG1Wb1V2WjJKdnBwTTJkVnhrVlBRX0c1Q2xoejI5WTloeWRUSmlkeEtfTi1EanA5dTZQYUlrV3hNc3Z3WFJzSWp6WWJrUEhFRTdrN0w3eTgzS2J2WTRlOEVEd2RvNlY5MWNNRW92ekRweU91d1FLU0lucWNNaGotQ29XTGpUVm90R0NFd9IB0wFBVV95cUxNZkxLdVdkYi1uazJ4SFJqODFZU050RXVIMEp5TGE3bWQ1VFRmMEdxdXZuOTZuU2ZkVjlSTHp3Ql9jS3Rld1o0U2Nhc2JHWS1kcWE5aXh1dF9KWWk3S0JJemxuLVhTRnpKYi1DMVZFSGdjQ3RxVXRWaDluM19DR25pVWd3MTFSWTJNYktzenViWFZSLVZTVWRJbGlSeHI3N21kdkd4N3Z5cnctUWlqUXpnbjk3OXR2WEN3Szh6OHQxQThjS1pnMkRkZm5oc0dnNTJkTDBN?oc=5
 
-- Bihar Assembly polls: AIMIM releases list of 25 candidates - The Indian Express
-  Bihar Assembly polls: AIMIM releases
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNWVZBRkxyLTRWcGxCSnYzRlZpOE5kVWI4Y3M1T3dTc2F2YmR0RzJYX2Y2cmVjRllVT1MybzVMZGF2ZnhMeHBPTHZlbzNPc1lOWDBCaElPRDhVTmYwMC10SnllRVBUMC04Wm9aanI2V1VkVlFpb1pMMGdQNDM3MVhpVkZPNW9wTnJIZmlPTzltc1h6THRjcHFPZ0VGVWNNeFBPVzVR0gGqAUFVX3lxTE9KSlVMMGdiQm9VOVdBaTdhOHJNbU9DdzFxWk1kZHRoNDNuZGdDY0R3OFhrUDd6RWpmdFFjNW0tcW9FVXdKTXVxT0ZCOURNaU11bkhOeWlqb2RlQUxvWkdxaFJabk5aNXlITXFlMXM5OF9GWml0b3lGNFFUcFhpMEJPREtSZTQwaVFKMFJkbFQ5QW1yR09BS096b2FrSUQ1NGlQVVFtd2xIUV9R?oc=5
+- US tariffs bite but Indian exports register positive growth in 24 countries in Apr-Sept - financialexpress.com
+  US tariffs bite but Indian exports register positive growth in 24 countries
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb0hpeEh5MzdnT1Q5M1k0d3dUUHNEYTdQNU5ub1BhSWVYVVEzREhkNU9JMVZ4QmNFWGxfQm9Ncm9jc2lKM0k0bXhnelM1c3A3Q1RVUjZFb1Z5WEwtVTR0dXZ3UVNjSXJhWGZpMmZHa2hSbGRxS3ZTamFFVFdYX1A3NV9nREdsRmZobDM4cVN4QUFfZ0xld1MtLTR5NlQtRHN6c0Q2QlJjYTVBNFk1MXA1eDY1MFFFZHRQSlM0Mk9OU2d4cFdjcEtRa0o0RGJZazRQWm5uSTBKbGVKbjlQ0gHjAUFVX3lxTE9VamVPbTNUZWQ5ZmphTHhqdTZtaWZka1BrVTZHaWhBSElmMnczSXI5YWZxRDZ2c3hrSjJjT1BZOVREWVRLemRYc2NSakRDMkIwR3h5aUI2VTlzWENzeWJXSFgtX2dOTkpqem1JMUVpSXpmV2F4MWtIbWM0elRsbTFiRXJna0kwc3lnX0VGU0NKMkhRT2t6WG1WaF9IYVVnMEhwNlhWOUp3djEyTldmTWUtSkxNMUJrd2FyY3ViVUIxNWJqVk9mZWhYX2xqenF6SktlU2Z2UW1ySExRYkZZYnQ1SVh3?oc=5
 
-- Pakistan Army Chief Asim Munir warns India of ‘decisive response’ to any provocation - The Hindu
-  Pakistan Army Chief Asim Munir warns India of ‘
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVQ2VWVSNWZkVFB2ZUx4TEtpby1yYTRyUU44SExDcE15MXRTajFyRTd4ZXdfNVp6NFJCVTdMa0xNU0tscWpwREljUkgycEFsY3NpYWZsQUZvYTRkblZUcjlENy1xUWFVVFlETWNqRWlHNnJUeGdlYUJyRDlXbGFMd2x4NG5JMF9sbE1YWWFVUlF0UENCSTJmRkZlc1lKRVlFcGtHNnhyQlNyeEdoa0F6OTZqdzJ4c044UmxVVFR1NUtuV29ucm5wQUxKNk40M05HN2toOTVqTGg3Y192UWR30gHmAUFVX3lxTFBOYWd0NXFsd3d3SFMxQ1ZodmlwNWh3dlhDLU1HRXVkQ1FkRklWZ2JBNXBrMFRJMlo1V3BjQlhjZk1YaU15Uk9kQXhDTVlWdDE1NU5oTFhfX21PSTBvUW5VdFdnV0RnVm9EWU4zVGV2N0FrVWRQbTlGNllzVk1tSjVDRUN1bm0wNGlubENncGVKd19aYlFZczR4aUEtSEhBRTV3T1BoSEFvUE5nQ3dkU0sxbWNYUjZ3TldrbGtDZVdLYzh6cnFOcW41aUNqZEZGaEF1a3pXa1FLbHdZZThGcmVfdDlndEl3?oc=5
+- 'Not a single Indian cares…': US politician gets censured for mass deportation call | What did he say? | Latest News India - Hindustan Times
+  'Not a single Indian cares…': US politician gets censured for mass deportation call.
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNDQzS1BMVjIycjZmeTlvSDM2bXVIazBzSkJmc21vdHJjaDNTdjBXakNJa05IWWRJNkhqc3ZzWXhkNnN3YnJ4S0x5eEJxdlhIelk4VFhZWjduemt4eENZTE1pb09nbHd3VG1xWUhpcW84V1hiUkExRllwcHNRSnNDZ0lkdTUwS21HdE14bThvdE9jbmZqSGVuVTdGRFAwenYyLXRWSDNTcDJHbjc3RWpxOGtrMzJCVWNQT3lJRVFLXzVMc3RqSXlxa3FNY3EtcHR4RUxpZEZmbnVUbEtRdVlrZnk4d1pYSi1vOFBYSFlGZmpuc2hRMlhyTEYxTWhySTDSAYQCQVVfeXFMTU1fQUdDRDVaclB4U2JOUEExdHcxTG1aX3BsTUptRDY0M2dHNFo4bWREekxUeExvN19MRWIwVU5QcmY0WWZXRDVublo2QXpyR1pLbkpfX0JpSlp6aVJKZko2TE5jRFhjbUdjSzBJSlZjWGQ3Wm42c1B4d2NSUUpTRDB5dDRzVWNLbUJ6ZFBfX3J3OWVpNUtBNzRwd3I2UWIzNkV5a0xFM2JpU2pYb2J6bFFsamRuQkhTLUJTRTFVMlV4aGV4TnBqVkhlR05mVzZhWXFISEsxYWxwcjFNdDhWQVVVRG81dE1nOHRYdHI4RDBwc0tieFc0N0JTdy1HOG9rV0VBbWc?oc=5
 
-- Amid Afghan Conflict, Pak Army Chief Asim Munir's Anti-India Nuclear Rhetoric - NDTV
-  Pak Army Chief Asim Munir's anti
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPSl9WTDNiWTFpNi1rbmV6aDE1TkJPWmNvZWhxanZqZlpyMDBnb19rMW5IV1UxTzJwblF3QjFRSkt2YVdVVG5sZFJGMVllWU9sUkQxTWxMMzZEU0kyMmJQYk10UTJJaXJWbmZCdVFvY0ZwOUJmVXBTTU93RUlxRXJuNTR6TFV2TmJPZXZZdXBra1lESEZmRlpDSmVNM1QyWU9EUkF4M2hISUhUOVlKWVU4MVUxYzlLUdIBvgFBVV95cUxPWkozMWctVHFJRVdnajdCVV9Va0w5TE9lZWpHZjVrRHB4Nm0zVk5FMEtNNDFZRFRMQ1kxSUFuRFc1b01nQ1R4ZThreDN2bmxFakFIVXQ0U1BxVmhTbG5pLXJTcUhPX05md1VnUnhCTHVscUVCREg2RU45U0RFYzkySE56Z1laRHhSRDlIdTU1RFdOeTdrNmlscHl4ODlVOUU2XzZEQmI1YWlYOEc3UjdOUVNvcXRZWnFZLW4tOWhB?oc=5
+- "India Working On 2 nm Chip": Ashwini Vaishnaw Shows 'Wafer' At NDTV Summit - NDTV
+  "India Working On 2 nm Chip": Ashwini
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQV09WS1RDTUZkUWdGOXdqTjhVbnllWXB5dmRDamRFajBzU01JeHRONXJDUlQtZmxjRFNWYWtXYzN3QjQ2d1JKYjluanBENWpWNTFHSWYycjY2SHdMcl9WeHNvdl9zclpoWm1Mam1qZ05oUnhpa1FBcmpQdnFtelZndkt3anAxUGxnY0ZuWk1TeGJ5cEd6dVBFdmlmQTdTWjRuUThnN2NFYWVLd1F2LU9wQlgtU2pPbTDSAb8BQVVfeXFMT3Z1U3pvNlVPNGFvWWRqM0RrNVRXb3RBUUJ0QmhWVkJoODlvNzlPUE9xNEJ6bk1sRjVaTlJzREJna3F3QnM0aEFJWTJPQkpHcG03dkVkUmFZRzRQTnNDb2I2VFRYc29iSGhYTFJsLWNiVmRlN2dCdDRoWThXNzRtMUlvYUp3LTc4S2FRZmpRRWdPckttUFdNSmlmVTAyZExhZVJSRklqaUZRQXROX2VRMW9CY3psM2tRc0RYeXVsS00?oc=5
 
-- ‘Whenever Afghanistan moves closer to India…’: Ex-MP slams Pakistan Army chief after 3 cricketers killed | World News - Hindustan Times
-  ‘Whenever Afghanistan moves closer to India…’: Ex-MP slams Pakistan
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRnhDTDVtSC1MQXpHYlZiLTc5VlFMektBQk9XbnZXNXhXTlhGR2NhbHdwMGVnTkp1WWljTHItSmU4SUVUSVlOZm9wd0JkNWtkQjZSeGlFNHhjOTV4cUUzN2VaLU5RanU0SUw3cFNab2dhRURMNDlxcG44N0M4QW0yOE1fdHd2b0h6RG9razNDT19rb3N4bHY2bHVLV2ItaHNUTG5oMXpGejgwVVFzejEtc21rVjl0TzZRVUQzOE43TmlXLVMxZWRuSU5TOWpIYU4xQWVnb0stVkJyeTlHWmNqYkl3dnlUM3NLWlJUdkJQY29oeGNScWfSAfsBQVVfeXFMTXFpNjhObEhmZ1Y3SjduTTJIbGlKZDZLa2pjYllYUTNBRldyM1ByR0Z0YWVzVFVrS2Itc3ZybFhBTmlwZi1CN3JGOW1SRDlpazNHWWw1MmJIcnAyVDQzYk1QT01DU2x6cVdYQXI3SlhSUE1pX3dxeTZScHNQVWQzRHFIVTZISVdUM0hUQV9DaTRBWXNNZ2htODVub3dCTktIRFN3Z0x1LU1xR1VMU3pfbmt2ZHBnVUNUbm8tWjdDM0RCYXQ3a2FDQ3N5ZV9JUE1Ucm9FUnBmdEZRTTV3ZzkwZ3g0YnBPYndYR0lvcTY3eEZKZXR6TVl3cnV2clU?oc=5
+- Trump tariffs: India's exports to US plunge as 50% tariffs weigh - BBC
+  India's exports to US plunge as 50%
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DNXVoRU85RWtUUGRzalFSS000LXA2QVpjMm5hNEs0N0xoQmowX3lpS1VSWHlldnFDSFhQV3lHNkJtNWoxV0Z0MXVSTk8xelBLTUlYaVhibERtUdIBX0FVX3lxTE1IZGVmMmVSMjNvdUJWZkZqRTB5aGlrbFIxTkpaMjc4ZzhQWFEzTVpRRzdDWVlHQjY0blJTUmdBM2xFZjlnMmJZMlhXTTI1TUZLcmVOckZBNEp6dVhCMmU0?oc=5
 
-- The Great INDIA Bloc Muddle: A Comedy Of Errors In Bihar - NDTV
-  The Great INDIA Bloc Muddle:
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNbUI0a2NpaS02cjdTQWxXd0o5MXE1MG1ITUVZNnRNTXZEY29WalExSFI4Z2ZXOUFTcXZ5SEoxd1dqWWRpU1gwRlFSeVN1ZmlaYWc0MU4xU3RNOERoSTZDWnoyazNWYU1RYy1DODdxMkxfQVlZdUsycnZISHBkbklvOExVaEVKVDNEcUQyUG4td0JjNDVaVEZoclRDMNIBowFBVV95cUxPYV9qODI5b2R4WDdzb2xhWENEWHdGTE5vT05kMkdQWjFpbFhUYWtza1FKcTJTajNrSEY3YklsdU9XOGNaQ002VzZjcDZYLUNzSzVpaFRheVN0Q2dKMXphQzlwRENvWXk5Y29PUFBVM1E0UTh3YUt4emdHMW4tUW5oS2xwNUdnRVVick9uZFVYV01yRUxjYUc5WEhpTFpKaEZibzNZ?oc=5
+- When Is India's Next Match? After Perth Failures, Kohli-Rohit Will Play On... - News18
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQUjR2TWtPWE0zanltR1Fab3NRQTU1WkN4MzBpVUZSVU5ZR21uNF9NczZMeHQ5U2RkRURuazF4TFJUX1d1TERBTlRKaG1Wb1V2WjJKdnBwTTJkVnhrVlBRX0c1Q2xoejI5WTloeWRUSmlkeEtfTi1EanA5dTZQYUlrV3hNc3Z3WFJzSWp6WWJrUEhFRTdrN0w3eTgzS2J2WTRlOEVEd2RvNlY5MWNNRW92ekRweU91d1FLU0lucWNNaGotQ29XTGpUVm90R0NFd9IB0wFBVV95cUxNZkxLdVdkYi1uazJ4SFJqODFZU050RXVIMEp5TGE3bWQ1VFRmMEdxdXZuOTZuU2ZkVjlSTHp3Ql9jS3Rld1o0U2Nhc2JHWS1kcWE5aXh1dF9KWWk3S0JJemxuLVhTRnpKYi1DMVZFSGdjQ3RxVXRWaDluM19DR25pVWd3MTFSWTJNYktzenViWFZSLVZTVWRJbGlSeHI3N21kdkd4N3Z5cnctUWlqUXpnbjk3OXR2WEN3Szh6OHQxQThjS1pnMkRkZm5oc0dnNTJkTDBN?oc=5
 
-- Bihar Assembly polls: AIMIM releases list of 25 candidates - The Indian Express
-  Bihar Assembly polls: AIMIM releases
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNWVZBRkxyLTRWcGxCSnYzRlZpOE5kVWI4Y3M1T3dTc2F2YmR0RzJYX2Y2cmVjRllVT1MybzVMZGF2ZnhMeHBPTHZlbzNPc1lOWDBCaElPRDhVTmYwMC10SnllRVBUMC04Wm9aanI2V1VkVlFpb1pMMGdQNDM3MVhpVkZPNW9wTnJIZmlPTzltc1h6THRjcHFPZ0VGVWNNeFBPVzVR0gGqAUFVX3lxTE9KSlVMMGdiQm9VOVdBaTdhOHJNbU9DdzFxWk1kZHRoNDNuZGdDY0R3OFhrUDd6RWpmdFFjNW0tcW9FVXdKTXVxT0ZCOURNaU11bkhOeWlqb2RlQUxvWkdxaFJabk5aNXlITXFlMXM5OF9GWml0b3lGNFFUcFhpMEJPREtSZTQwaVFKMFJkbFQ5QW1yR09BS096b2FrSUQ1NGlQVVFtd2xIUV9R?oc=5
+- US tariffs bite but Indian exports register positive growth in 24 countries in Apr-Sept - financialexpress.com
+  US tariffs bite but Indian exports register positive growth in 24 countries
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb0hpeEh5MzdnT1Q5M1k0d3dUUHNEYTdQNU5ub1BhSWVYVVEzREhkNU9JMVZ4QmNFWGxfQm9Ncm9jc2lKM0k0bXhnelM1c3A3Q1RVUjZFb1Z5WEwtVTR0dXZ3UVNjSXJhWGZpMmZHa2hSbGRxS3ZTamFFVFdYX1A3NV9nREdsRmZobDM4cVN4QUFfZ0xld1MtLTR5NlQtRHN6c0Q2QlJjYTVBNFk1MXA1eDY1MFFFZHRQSlM0Mk9OU2d4cFdjcEtRa0o0RGJZazRQWm5uSTBKbGVKbjlQ0gHjAUFVX3lxTE9VamVPbTNUZWQ5ZmphTHhqdTZtaWZka1BrVTZHaWhBSElmMnczSXI5YWZxRDZ2c3hrSjJjT1BZOVREWVRLemRYc2NSakRDMkIwR3h5aUI2VTlzWENzeWJXSFgtX2dOTkpqem1JMUVpSXpmV2F4MWtIbWM0elRsbTFiRXJna0kwc3lnX0VGU0NKMkhRT2t6WG1WaF9IYVVnMEhwNlhWOUp3djEyTldmTWUtSkxNMUJrd2FyY3ViVUIxNWJqVk9mZWhYX2xqenF6SktlU2Z2UW1ySExRYkZZYnQ1SVh3?oc=5
 
-- Pakistan Army Chief Asim Munir warns India of ‘decisive response’ to any provocation - The Hindu
-  Pakistan Army Chief Asim Munir warns India of ‘
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVQ2VWVSNWZkVFB2ZUx4TEtpby1yYTRyUU44SExDcE15MXRTajFyRTd4ZXdfNVp6NFJCVTdMa0xNU0tscWpwREljUkgycEFsY3NpYWZsQUZvYTRkblZUcjlENy1xUWFVVFlETWNqRWlHNnJUeGdlYUJyRDlXbGFMd2x4NG5JMF9sbE1YWWFVUlF0UENCSTJmRkZlc1lKRVlFcGtHNnhyQlNyeEdoa0F6OTZqdzJ4c044UmxVVFR1NUtuV29ucm5wQUxKNk40M05HN2toOTVqTGg3Y192UWR30gHmAUFVX3lxTFBOYWd0NXFsd3d3SFMxQ1ZodmlwNWh3dlhDLU1HRXVkQ1FkRklWZ2JBNXBrMFRJMlo1V3BjQlhjZk1YaU15Uk9kQXhDTVlWdDE1NU5oTFhfX21PSTBvUW5VdFdnV0RnVm9EWU4zVGV2N0FrVWRQbTlGNllzVk1tSjVDRUN1bm0wNGlubENncGVKd19aYlFZczR4aUEtSEhBRTV3T1BoSEFvUE5nQ3dkU0sxbWNYUjZ3TldrbGtDZVdLYzh6cnFOcW41aUNqZEZGaEF1a3pXa1FLbHdZZThGcmVfdDlndEl3?oc=5
+- 'Not a single Indian cares…': US politician gets censured for mass deportation call | What did he say? | Latest News India - Hindustan Times
+  'Not a single Indian cares…': US politician gets censured for mass deportation call.
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNDQzS1BMVjIycjZmeTlvSDM2bXVIazBzSkJmc21vdHJjaDNTdjBXakNJa05IWWRJNkhqc3ZzWXhkNnN3YnJ4S0x5eEJxdlhIelk4VFhZWjduemt4eENZTE1pb09nbHd3VG1xWUhpcW84V1hiUkExRllwcHNRSnNDZ0lkdTUwS21HdE14bThvdE9jbmZqSGVuVTdGRFAwenYyLXRWSDNTcDJHbjc3RWpxOGtrMzJCVWNQT3lJRVFLXzVMc3RqSXlxa3FNY3EtcHR4RUxpZEZmbnVUbEtRdVlrZnk4d1pYSi1vOFBYSFlGZmpuc2hRMlhyTEYxTWhySTDSAYQCQVVfeXFMTU1fQUdDRDVaclB4U2JOUEExdHcxTG1aX3BsTUptRDY0M2dHNFo4bWREekxUeExvN19MRWIwVU5QcmY0WWZXRDVublo2QXpyR1pLbkpfX0JpSlp6aVJKZko2TE5jRFhjbUdjSzBJSlZjWGQ3Wm42c1B4d2NSUUpTRDB5dDRzVWNLbUJ6ZFBfX3J3OWVpNUtBNzRwd3I2UWIzNkV5a0xFM2JpU2pYb2J6bFFsamRuQkhTLUJTRTFVMlV4aGV4TnBqVkhlR05mVzZhWXFISEsxYWxwcjFNdDhWQVVVRG81dE1nOHRYdHI4RDBwc0tieFc0N0JTdy1HOG9rV0VBbWc?oc=5
 
-- Amid Afghan Conflict, Pak Army Chief Asim Munir's Anti-India Nuclear Rhetoric - NDTV
-  Pak Army Chief Asim Munir's anti
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPSl9WTDNiWTFpNi1rbmV6aDE1TkJPWmNvZWhxanZqZlpyMDBnb19rMW5IV1UxTzJwblF3QjFRSkt2YVdVVG5sZFJGMVllWU9sUkQxTWxMMzZEU0kyMmJQYk10UTJJaXJWbmZCdVFvY0ZwOUJmVXBTTU93RUlxRXJuNTR6TFV2TmJPZXZZdXBra1lESEZmRlpDSmVNM1QyWU9EUkF4M2hISUhUOVlKWVU4MVUxYzlLUdIBvgFBVV95cUxPWkozMWctVHFJRVdnajdCVV9Va0w5TE9lZWpHZjVrRHB4Nm0zVk5FMEtNNDFZRFRMQ1kxSUFuRFc1b01nQ1R4ZThreDN2bmxFakFIVXQ0U1BxVmhTbG5pLXJTcUhPX05md1VnUnhCTHVscUVCREg2RU45U0RFYzkySE56Z1laRHhSRDlIdTU1RFdOeTdrNmlscHl4ODlVOUU2XzZEQmI1YWlYOEc3UjdOUVNvcXRZWnFZLW4tOWhB?oc=5
+- "India Working On 2 nm Chip": Ashwini Vaishnaw Shows 'Wafer' At NDTV Summit - NDTV
+  "India Working On 2 nm Chip": Ashwini
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQV09WS1RDTUZkUWdGOXdqTjhVbnllWXB5dmRDamRFajBzU01JeHRONXJDUlQtZmxjRFNWYWtXYzN3QjQ2d1JKYjluanBENWpWNTFHSWYycjY2SHdMcl9WeHNvdl9zclpoWm1Mam1qZ05oUnhpa1FBcmpQdnFtelZndkt3anAxUGxnY0ZuWk1TeGJ5cEd6dVBFdmlmQTdTWjRuUThnN2NFYWVLd1F2LU9wQlgtU2pPbTDSAb8BQVVfeXFMT3Z1U3pvNlVPNGFvWWRqM0RrNVRXb3RBUUJ0QmhWVkJoODlvNzlPUE9xNEJ6bk1sRjVaTlJzREJna3F3QnM0aEFJWTJPQkpHcG03dkVkUmFZRzRQTnNDb2I2VFRYc29iSGhYTFJsLWNiVmRlN2dCdDRoWThXNzRtMUlvYUp3LTc4S2FRZmpRRWdPckttUFdNSmlmVTAyZExhZVJSRklqaUZRQXROX2VRMW9CY3psM2tRc0RYeXVsS00?oc=5
 
-- ‘Whenever Afghanistan moves closer to India…’: Ex-MP slams Pakistan Army chief after 3 cricketers killed | World News - Hindustan Times
-  ‘Whenever Afghanistan moves closer to India…’: Ex-MP slams Pakistan
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRnhDTDVtSC1MQXpHYlZiLTc5VlFMektBQk9XbnZXNXhXTlhGR2NhbHdwMGVnTkp1WWljTHItSmU4SUVUSVlOZm9wd0JkNWtkQjZSeGlFNHhjOTV4cUUzN2VaLU5RanU0SUw3cFNab2dhRURMNDlxcG44N0M4QW0yOE1fdHd2b0h6RG9razNDT19rb3N4bHY2bHVLV2ItaHNUTG5oMXpGejgwVVFzejEtc21rVjl0TzZRVUQzOE43TmlXLVMxZWRuSU5TOWpIYU4xQWVnb0stVkJyeTlHWmNqYkl3dnlUM3NLWlJUdkJQY29oeGNScWfSAfsBQVVfeXFMTXFpNjhObEhmZ1Y3SjduTTJIbGlKZDZLa2pjYllYUTNBRldyM1ByR0Z0YWVzVFVrS2Itc3ZybFhBTmlwZi1CN3JGOW1SRDlpazNHWWw1MmJIcnAyVDQzYk1QT01DU2x6cVdYQXI3SlhSUE1pX3dxeTZScHNQVWQzRHFIVTZISVdUM0hUQV9DaTRBWXNNZ2htODVub3dCTktIRFN3Z0x1LU1xR1VMU3pfbmt2ZHBnVUNUbm8tWjdDM0RCYXQ3a2FDQ3N5ZV9JUE1Ucm9FUnBmdEZRTTV3ZzkwZ3g0YnBPYndYR0lvcTY3eEZKZXR6TVl3cnV2clU?oc=5
+- Trump tariffs: India's exports to US plunge as 50% tariffs weigh - BBC
+  India's exports to US plunge as 50%
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DNXVoRU85RWtUUGRzalFSS000LXA2QVpjMm5hNEs0N0xoQmowX3lpS1VSWHlldnFDSFhQV3lHNkJtNWoxV0Z0MXVSTk8xelBLTUlYaVhibERtUdIBX0FVX3lxTE1IZGVmMmVSMjNvdUJWZkZqRTB5aGlrbFIxTkpaMjc4ZzhQWFEzTVpRRzdDWVlHQjY0blJTUmdBM2xFZjlnMmJZMlhXTTI1TUZLcmVOckZBNEp6dVhCMmU0?oc=5
 
-- The Great INDIA Bloc Muddle: A Comedy Of Errors In Bihar - NDTV
-  The Great INDIA Bloc Muddle:
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNbUI0a2NpaS02cjdTQWxXd0o5MXE1MG1ITUVZNnRNTXZEY29WalExSFI4Z2ZXOUFTcXZ5SEoxd1dqWWRpU1gwRlFSeVN1ZmlaYWc0MU4xU3RNOERoSTZDWnoyazNWYU1RYy1DODdxMkxfQVlZdUsycnZISHBkbklvOExVaEVKVDNEcUQyUG4td0JjNDVaVEZoclRDMNIBowFBVV95cUxPYV9qODI5b2R4WDdzb2xhWENEWHdGTE5vT05kMkdQWjFpbFhUYWtza1FKcTJTajNrSEY3YklsdU9XOGNaQ002VzZjcDZYLUNzSzVpaFRheVN0Q2dKMXphQzlwRENvWXk5Y29PUFBVM1E0UTh3YUt4emdHMW4tUW5oS2xwNUdnRVVick9uZFVYV01yRUxjYUc5WEhpTFpKaEZibzNZ?oc=5
+- When Is India's Next Match? After Perth Failures, Kohli-Rohit Will Play On... - News18
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQUjR2TWtPWE0zanltR1Fab3NRQTU1WkN4MzBpVUZSVU5ZR21uNF9NczZMeHQ5U2RkRURuazF4TFJUX1d1TERBTlRKaG1Wb1V2WjJKdnBwTTJkVnhrVlBRX0c1Q2xoejI5WTloeWRUSmlkeEtfTi1EanA5dTZQYUlrV3hNc3Z3WFJzSWp6WWJrUEhFRTdrN0w3eTgzS2J2WTRlOEVEd2RvNlY5MWNNRW92ekRweU91d1FLU0lucWNNaGotQ29XTGpUVm90R0NFd9IB0wFBVV95cUxNZkxLdVdkYi1uazJ4SFJqODFZU050RXVIMEp5TGE3bWQ1VFRmMEdxdXZuOTZuU2ZkVjlSTHp3Ql9jS3Rld1o0U2Nhc2JHWS1kcWE5aXh1dF9KWWk3S0JJemxuLVhTRnpKYi1DMVZFSGdjQ3RxVXRWaDluM19DR25pVWd3MTFSWTJNYktzenViWFZSLVZTVWRJbGlSeHI3N21kdkd4N3Z5cnctUWlqUXpnbjk3OXR2WEN3Szh6OHQxQThjS1pnMkRkZm5oc0dnNTJkTDBN?oc=5
 
-- Bihar Assembly polls: AIMIM releases list of 25 candidates - The Indian Express
-  Bihar Assembly polls: AIMIM releases
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNWVZBRkxyLTRWcGxCSnYzRlZpOE5kVWI4Y3M1T3dTc2F2YmR0RzJYX2Y2cmVjRllVT1MybzVMZGF2ZnhMeHBPTHZlbzNPc1lOWDBCaElPRDhVTmYwMC10SnllRVBUMC04Wm9aanI2V1VkVlFpb1pMMGdQNDM3MVhpVkZPNW9wTnJIZmlPTzltc1h6THRjcHFPZ0VGVWNNeFBPVzVR0gGqAUFVX3lxTE9KSlVMMGdiQm9VOVdBaTdhOHJNbU9DdzFxWk1kZHRoNDNuZGdDY0R3OFhrUDd6RWpmdFFjNW0tcW9FVXdKTXVxT0ZCOURNaU11bkhOeWlqb2RlQUxvWkdxaFJabk5aNXlITXFlMXM5OF9GWml0b3lGNFFUcFhpMEJPREtSZTQwaVFKMFJkbFQ5QW1yR09BS096b2FrSUQ1NGlQVVFtd2xIUV9R?oc=5
+- US tariffs bite but Indian exports register positive growth in 24 countries in Apr-Sept - financialexpress.com
+  US tariffs bite but Indian exports register positive growth in 24 countries
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb0hpeEh5MzdnT1Q5M1k0d3dUUHNEYTdQNU5ub1BhSWVYVVEzREhkNU9JMVZ4QmNFWGxfQm9Ncm9jc2lKM0k0bXhnelM1c3A3Q1RVUjZFb1Z5WEwtVTR0dXZ3UVNjSXJhWGZpMmZHa2hSbGRxS3ZTamFFVFdYX1A3NV9nREdsRmZobDM4cVN4QUFfZ0xld1MtLTR5NlQtRHN6c0Q2QlJjYTVBNFk1MXA1eDY1MFFFZHRQSlM0Mk9OU2d4cFdjcEtRa0o0RGJZazRQWm5uSTBKbGVKbjlQ0gHjAUFVX3lxTE9VamVPbTNUZWQ5ZmphTHhqdTZtaWZka1BrVTZHaWhBSElmMnczSXI5YWZxRDZ2c3hrSjJjT1BZOVREWVRLemRYc2NSakRDMkIwR3h5aUI2VTlzWENzeWJXSFgtX2dOTkpqem1JMUVpSXpmV2F4MWtIbWM0elRsbTFiRXJna0kwc3lnX0VGU0NKMkhRT2t6WG1WaF9IYVVnMEhwNlhWOUp3djEyTldmTWUtSkxNMUJrd2FyY3ViVUIxNWJqVk9mZWhYX2xqenF6SktlU2Z2UW1ySExRYkZZYnQ1SVh3?oc=5
+
+- 'Not a single Indian cares…': US politician gets censured for mass deportation call | What did he say? | Latest News India - Hindustan Times
+  'Not a single Indian cares…': US politician gets censured for mass deportation call.
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNDQzS1BMVjIycjZmeTlvSDM2bXVIazBzSkJmc21vdHJjaDNTdjBXakNJa05IWWRJNkhqc3ZzWXhkNnN3YnJ4S0x5eEJxdlhIelk4VFhZWjduemt4eENZTE1pb09nbHd3VG1xWUhpcW84V1hiUkExRllwcHNRSnNDZ0lkdTUwS21HdE14bThvdE9jbmZqSGVuVTdGRFAwenYyLXRWSDNTcDJHbjc3RWpxOGtrMzJCVWNQT3lJRVFLXzVMc3RqSXlxa3FNY3EtcHR4RUxpZEZmbnVUbEtRdVlrZnk4d1pYSi1vOFBYSFlGZmpuc2hRMlhyTEYxTWhySTDSAYQCQVVfeXFMTU1fQUdDRDVaclB4U2JOUEExdHcxTG1aX3BsTUptRDY0M2dHNFo4bWREekxUeExvN19MRWIwVU5QcmY0WWZXRDVublo2QXpyR1pLbkpfX0JpSlp6aVJKZko2TE5jRFhjbUdjSzBJSlZjWGQ3Wm42c1B4d2NSUUpTRDB5dDRzVWNLbUJ6ZFBfX3J3OWVpNUtBNzRwd3I2UWIzNkV5a0xFM2JpU2pYb2J6bFFsamRuQkhTLUJTRTFVMlV4aGV4TnBqVkhlR05mVzZhWXFISEsxYWxwcjFNdDhWQVVVRG81dE1nOHRYdHI4RDBwc0tieFc0N0JTdy1HOG9rV0VBbWc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-19 06:29:23 UTC_
+_Last updated: 2025-10-19 12:32:03 UTC_
