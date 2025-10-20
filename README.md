@@ -1,24 +1,52 @@
 # 📰 Daily News Summaries
 
-- 'Not a single Indian cares…': US politician gets censured for mass deportation call | What did he say? | Latest News India - Hindustan Times
-  'Not a single Indian cares…': US politician gets censured for mass deportation call.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNDQzS1BMVjIycjZmeTlvSDM2bXVIazBzSkJmc21vdHJjaDNTdjBXakNJa05IWWRJNkhqc3ZzWXhkNnN3YnJ4S0x5eEJxdlhIelk4VFhZWjduemt4eENZTE1pb09nbHd3VG1xWUhpcW84V1hiUkExRllwcHNRSnNDZ0lkdTUwS21HdE14bThvdE9jbmZqSGVuVTdGRFAwenYyLXRWSDNTcDJHbjc3RWpxOGtrMzJCVWNQT3lJRVFLXzVMc3RqSXlxa3FNY3EtcHR4RUxpZEZmbnVUbEtRdVlrZnk4d1pYSi1vOFBYSFlGZmpuc2hRMlhyTEYxTWhySTDSAYQCQVVfeXFMTU1fQUdDRDVaclB4U2JOUEExdHcxTG1aX3BsTUptRDY0M2dHNFo4bWREekxUeExvN19MRWIwVU5QcmY0WWZXRDVublo2QXpyR1pLbkpfX0JpSlp6aVJKZko2TE5jRFhjbUdjSzBJSlZjWGQ3Wm42c1B4d2NSUUpTRDB5dDRzVWNLbUJ6ZFBfX3J3OWVpNUtBNzRwd3I2UWIzNkV5a0xFM2JpU2pYb2J6bFFsamRuQkhTLUJTRTFVMlV4aGV4TnBqVkhlR05mVzZhWXFISEsxYWxwcjFNdDhWQVVVRG81dE1nOHRYdHI4RDBwc0tieFc0N0JTdy1HOG9rV0VBbWc?oc=5
+- For ‘larger goal’ of beating BJP, Congress leaves J-K’s Nagrota Assembly seat to National Conference
+  
+  🔗 https://indianexpress.com/article/india/larger-goal-beat-bjp-congress-jammu-kashmir-nagrota-assembly-seat-national-conference-10317625/
 
-- 'India will keep paying tariffs if ...': Trump's warning on Russian oil; repeats 'spoke to PM Modi' claim - Times of India
-  'India will keep paying tariffs if ...': Trump's warning on Russian oil; repeats '
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNWUlHVE9OdzA5aXhYdGR2T1Y0QUlEeWtkUnVJLU43a1lWRk1WWWlIM2dZLWVaVGRMQmhtOGdqa3kyUGVTNzBRODJHVlV3Y3BDQ1pWSkNQUnJ1Wkd1M2lEUmlrUnVROVBmdmZxSzV2VDc4eUZVSHB1bnlJaHNLdTdmYVJza1VJejdFQ3ZnZ016dTJjZXhDVWU2bElHRHFOVnVtaXJ1NmFCRjFOOWtNLXhFbTVEUEtmSXJrQWVFYnJ2OG1zN3hpWEJQYi1WdGhGZmMwMVlyelRhSmdiRlhJSTM3cXNjdnZtRTZrQ3NMWVI3Z2ppYUdLU0JDd1hYeUpOTnBJRXVIY2dtaHlvbzR50gGSAkFVX3lxTE9PeWJ4c0dPR1BfUlcyM19YQnVTWjlPeVZuYnFld2VFc0U0YlA0cUVmWnNWR3EwWUdSTE1hOGYzd0ItRkp3VlVzWnREMlRiNFlGQmFFNTVGSWJ3eFRYS0x1cGN4dUl2TThvREwxck9OMzdwSWZQN1h2dUZIZ2VvOVVfQXl2UFdCdUVCUlpjaUpSa3FUWHVLMGRnTm0xN01LWXFieWVfUEcwd2xWQWZQUTlqOHhveHE3b1BxdFhnd2Zwd3EzTl9JX0lBaDh4RGhSY25BVGF2ZGN2eWtXOXphYjc4bnFKZjZORURNUEE1eXZ0S1pHZGpvWGlxUW4ycHVqdjYwaEVwLUswak1ZeVExSURwbWc?oc=5
+- NFR installs Intrusion Detection System to prevent elephant deaths by trains – Here’s how it works
+  
+  🔗 https://indianexpress.com/article/india/nfr-intrusion-detection-system-prevent-elephant-deaths-trains-10317552/
 
-- "Our Navy Guardian In Indian Ocean": PM Modi's Top Quotes To Navy On Diwali - NDTV
-  "Our Navy Guardian In Indian Ocean": PM Modi's Top
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGgyRExnWWplMnN5YTRuRU4tVThpakhLcTJvUTdheFdPR21lYmlYV1pnMGdpd3luMmFOQ1dKZ3ZnSFNwOEoxeloxZmZiR0pIdkNBSEVUNnBsNE9ydG9sQzZuSU1YUXNyZU91dHdqTTJHSk1KZVktTWttZUd6ZmZaRUhMZEhPaXpOSFJ2aEUzS2doRTdsM01uTkNWQy1mTUFxWlNuM2Rpc2dJeVQ2bFFJckRxWnJaSlpnTXVBQlJZUHTSAcgBQVVfeXFMTXYwNXQzVTZyYmxsVkxvX0ZZdzRMN0tMYVNDVFppVXk4Z0lnWWVsaWpjMGl5bER4MENrYjdDZ1NJVmR0YlcyMkpmVTIwdzhzZmljMzlzM09GQ1RnMVpSeFdqeEZaTEttUV85VXBmSXYzV0dsSXFGckNWWlVIQVRNWHo5YVVpTG13eUQtNHZWNWF2Q3B2UjR0OWFnektMQWxNRmxHcFUtT3J0aHZVMlNoOE1tRU1pc216WWhrcjZhQzRvNXBXLWQ2T3o?oc=5
+- Underlining India’s military might, need for self-reliance: Takeaways from PM’s Diwali on board INS Vikrant
+  
+  🔗 https://indianexpress.com/article/india/india-military-might-self-reliance-takeaways-pm-modi-diwali-onboard-ins-vikrant-10317576/
 
-- 'Raaton ki neend udaa di': PM's big praise for INS Vikrant, a message for Pakistan on Diwali | Latest News India - Hindustan Times
-  'Raaton ki neend udaa di': PM's big praise for INS Vikrant.
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUlFJZi00c1JDTmdZa3pJQzlMRFkzclhIZDhaallRT3FmUmJrR0JlcFJ1WmdmVEo5UG9MdDdKeEs1bkJxa2FuRVNna3dsMWhTLTdnZUtTT3FGNVp0dGx2Ulo4akZnWEMwcHprSGJ2cTlhT3k3dC1IeE5HT3FBS1lOYnM0ejJ2Qks2dmhKRU5LMDg4WVdtVGNkR3I2b08tQXhNai1KSVlua0dNVXFJZ2w4QkFKVkY3NHhkTm96amg2Q2xldXRwSnZUbHc1RnA2cUpGUXfSAdcBQVVfeXFMTVlTUFkzQXhfU1N5RzBGRTFfTUlXQ3VQLURrNG93UUNNZVZHZ2FfUlhZVkVGVHhpYzExWTBIVGdFM0FkVUJXcTNYX3JvQkp1VnFSdEtvQzhtcllBUmdibE51OHFCczlFUi1qN1doNUNNNHJEYUZWUV9iNjVnbkZCQmVuTE1iV015bEZQQkhlZzVOV2xKWEJrTkxiVzRRZ1pDZ0trNkRjTVhFVEt4a19OYklmRjhfTFBXMkNLVUZhVjVVTGJPWTZqX3FFcTVwM0doTU5Hb1JYN3c?oc=5
+- Few takers for UPS, employees plan Jantar Mantar protest to press for Old Pension Scheme
+  
+  🔗 https://indianexpress.com/article/india/few-takers-ups-employees-jantar-mantar-protest-press-old-pension-scheme-10317565/
 
-- ‘BrahMos name alone makes some nervous’: PM Modi quips from INS Vikrant deck | Latest News India - Hindustan Times
-  ‘BrahMos name alone makes some nervous’: PM Modi qu
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOWhYTGMwVWVISmVtUktvNUJOSXlYd1RFX0twY3MzY3JiN2JXUVBnUG1hZmlsTGxqY1dOSlpST2FwU3E5UGNhUmw4QXA3YkNhVGx6MmlNT2Q2RkZ4WFZaQUNWNGNEa2l4V1Q3cXU3VTlkaWVsY1lZMVBhcFdqaWlESFpmR19STVFIdW5VZW9JM1lEWG9RcGpjalVta243c3FtSXZFeElVbmZ3ZVFvZXRyWlp1b3gwMHRYWkxwUzFOLWdtSE44ZHJEaWZELXVBNFAzZVpGQW9JdDVZOVlRV2pZ0gHkAUFVX3lxTE9TRkZFeDhFcGEyeW5xSE9jd004YnlDcjI1M3hDOGdtTXpkVlNFNWZra1ltOHBaWmRkZE9mTHlKRGdpWHM3QUtOVGNRaWNSZE5Ob0dPSFZHdGUxQ1UwU1RTWmFLTlgtUE92S0dpb1huZ0Q4NjlQU2VrTm1YT1FUbVFuNGM1ZS1lbEc1djdBX3lWZm84UUIxbHhWeHZkcVNUOXhkNnNrZEplVXdrLTN3ZU93eDVxUXpscTMwc1BRdjZGbHNTNXhJU0dhakhlcWtUbXZGdjk1bFJteFpEeEdyeGdjZWpacw?oc=5
+- Self-styled godman arrested in Cuttack for allegedly sexually assaulting 7-year-old girl
+  
+  🔗 https://indianexpress.com/article/india/self-styled-godman-arrested-in-cuttack-for-sexually-assaulting-7-year-old-girl-10317544/
+
+- This kitchen assistant can help you get any recipe right
+  
+  🔗 https://indianexpress.com/article/technology/tech-reviews/upliance-2-0-ai-kitchen-assistant-review-10317429/
+
+- Wikipedia loses traffic as AI chatbots replace search visits
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/wikipedia-wikimedia-ai-search-summary-social-media-10317282/
+
+- WhatsApp revises business API terms to ban AI chatbot rivals like ChatGPT, Perplexity
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/whatsapp-ban-ai-chatbot-rivals-chatgpt-perplexity-10317285/
+
+- Happy Diwali 2025 WhatsApp Wishes Stickers: How to send Diwali wishes stickers on WhatsApp
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/diwali-2025-wishes-stickers-gifs-whatsapp-instagram-10317144/
+
+- Under a Thousand: The perfect portable power strip
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/under-a-thousand-perfect-portable-power-strip-10316278/
+
+- FIR against Bhavish Aggarwal, others after Ola employee dies by suicide; company seeks relief from Karnataka HC
+  K Aravind, 38, was working with Ola Electric
+  🔗 https://www.livemint.com/companies/news/fir-against-bhavish-aggarwal-others-after-ola-employee-dies-by-suicide-company-seeks-relief-from-karnataka-hc-11760954774887.html
+
+- IKEA owner Ingka Group will buy €720 million forest land in Europe to boost ‘sustainable raw materials’ for furniture
+  IKEA's largest franchisee, Ingka Investments, is acquiring €720
+  🔗 https://www.livemint.com/companies/news/ikea-owner-ingka-group-buy-720-million-worth-forest-land-estonia-latvia-europe-boost-sustainable-raw-materials-furniture-11760951036545.html
 
 - Tycoon Geminder Is Said to Weigh Sale of Asia Businesses
   Australian tycoon Raphael Geminder is considering selling the Asian operations of his packaging companies.
@@ -32,181 +60,125 @@
   South Korea's top conglomerate leaders joined U.S. President Donald Trump for a round of golf in Florida. Observers view it as an effort to strengthen economic and diplomatic ties between the two countries.
   🔗 https://www.livemint.com/companies/news/korean-business-leaders-meet-trump-amid-tariff-talks-11760936923996.html
 
-- Handelsbanken Investors Demand More Transparency From Swedish Bank
-  Some shareholders in Handelsbanken say they are
-  🔗 https://www.livemint.com/companies/news/handelsbanken-investors-demand-more-transparency-from-swedish-bank-11760934186998.html
+- Small-cap stock under  ₹200 jumps 10% after Q2 results 2025
+  Bhageria Industries' shares surged 10% to  ₹188.60 amid strong Q2 results. The company also reported robust H1 performance, reinforcing its
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-200-jumps-10-after-q2-results-2025-11760960260503.html
 
-- Global Banks Bet Billions on India Deals Amid US Credit Jitters
-  A spate of billion-dollar deals for Indian banks has thrust the country’s financial sector into the global spotlight.
-  🔗 https://www.livemint.com/companies/news/global-banks-bet-billions-on-india-deals-amid-us-credit-jitters-11760923970751.html
+- Can Fin Homes Q2 Results: Net profit rises 18% YoY; firm posts solid H1FY26 show
+  Can Fin Homes Q2 Results: The profit after tax for the first half (H1) of the financial year 2025-26 (FY26) rose
+  🔗 https://www.livemint.com/market/stock-market-news/can-fin-homes-q2-results-net-profit-rises-18-yoy-firm-posts-solid-h1fy26-show-11760959881335.html
 
-- Will Muhurat trading 2025 ring in gains for investors? What 10-year historical trend signals
-  The benchmark index Nifty 50 has risen in eight sessions and lost in only two – signalling a positive trend during Muhurat trading days
-  🔗 https://www.livemint.com/market/stock-market-news/will-muhurat-trading-2025-ring-in-gains-for-investors-what-10-year-historical-trend-signals-11760940946513.html
+- Hedge funds slash energy, bank stocks amid sharp stocks selloff
+  Hedge funds slash energy,
+  🔗 https://www.livemint.com/market/stock-market-news/hedge-funds-slash-energy-bank-stocks-amid-sharp-stocks-selloff-11760959595097.html
 
-- Ireda’s profit rebounds in Q2 as bad-loan provisions ease, but risks linger
-  Government-backed green energy lender posted a 42% jump in Q2 net profit. provisions against bad loans fell sharply and strong growth in renewable energy lending lifted its loan book.
-  🔗 https://www.livemint.com/market/mark-to-market/ireda-q2-profit-bad-loans-renewable-energy-11760933999970.html
+- Bhageria Industries Q2 Results: Firm posts 80% YoY growth in profit to  ₹11 crore
+  The net profit for Q2 FY26 was reported at  ₹11.47 crore, a 79.68% increase from  ⁹6.39 crore in Q2
+  🔗 https://www.livemint.com/market/stock-market-news/bhageria-industries-q2-results-firm-posts-80-yoy-growth-in-profit-to-rs-11-crore-11760959216230.html
 
-- HDFC Bank vs ICICI Bank vs IDFC First Bank vs Yes Bank: Which bank stock to buy after Q2 results 2025?
-  IDFC First Bank shares emerged as the top gainers, rallying nearly 5%. Yes Bank shares, which gained 2.25%. HDFC Bank share price rose over 1.7% to hit a 52-week
-  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-vs-icici-bank-vs-idfc-first-bank-vs-yes-bank-which-bank-stock-to-buy-after-q2-results-2025-11760938339903.html
+- Multibagger circuit-to-circuit stock hits upper circuit on all 90 sessions before Muhurat trading 2025 session
+  Sampre Nutritions share price hit a 2% upper circuit on Monday, maintaining a bull trend for nearly 90 sessions. A recent manufacturing agreement with Reliance Consumer Products is expected to
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-circuit-to-circuit-stock-hits-upper-circuit-on-all-90-sessions-before-muhurat-trading-2025-session-11760956303169.html
 
-- Gold prices in your city on Diwali 2025: Check rates in Mumbai, Bengaluru, Chennai, New Delhi, Kolkata on October 20
-  Gold and silver prices in your city on Diwali: Check how much prices have changed in Mumbai,
-  🔗 https://www.livemint.com/market/commodities/gold-prices-in-your-city-on-diwali-2025-check-rates-in-mumbai-bengaluru-chennai-new-delhi-kolkata-on-october-20-11760935125704.html
+- AWS says it has fixed the problem that crippled half the internet but many popular apps are still down
+  AWS has fixed the DNS issue that caused widespread outages affecting many popular websites. While most services are now operational, some like Reddit and Snapchat are still recovering.
+  🔗 https://www.livemint.com/technology/tech-news/aws-says-it-has-fixed-the-problem-that-crippled-half-the-internet-but-many-popular-apps-are-still-down-11760961280266.html
 
-- Could this fast-growing recycling leader become the biggest green bet on the Street?
-  This metal recycling leader is outpacing peers with strong revenue growth, strategic plant expansion, and loyal customers. But
-  🔗 https://www.livemint.com/market/stock-market-news/jain-resource-recycling-metal-recycling-india-non-ferrous-metal-recycling-india-11760692996815.html
+- Amazon suffers major outage hitting Coinbase, Snapchat, Robinhood and much of the internet
+  A major Amazon Web Services outage disrupted much of the internet early Monday. Apps such as
+  🔗 https://www.livemint.com/technology/amazon-suffers-major-outage-hitting-coinbase-snapchat-robinhood-and-much-of-the-internet-11760959407430.html
 
-- Diwali 2025 last-minute sale alert: iPhone 16 under  ₹35,000? Grab this festive deal on Flipkart before it ends
-  Flipkart is offering a massive discount on the iPhone 16 ( 128GB storage) variant. The Apple flagship features a 6.1” display, A18 chip, and iOS 18 customisation.
-  🔗 https://www.livemint.com/technology/gadgets/lastminute-diwali-sale-alert-iphone-16-under-rs-35-000-grab-this-festive-deal-on-flipkart-before-it-ends-11760935315571.html
+- Stop saying ‘Summarise this’ to OpenAI's ChatGPT, expert explains 7 smarter prompts instead
+   AI expert has shared seven smarter ChatGPT prompts to go beyond basic summaries. Help users extract insights, create action plans, build frameworks, and uncover hidden ideas. Check out the
+  🔗 https://www.livemint.com/technology/tech-news/stop-saying-summarise-this-to-openais-chatgpt-expert-explains-7-smarter-prompts-instead-11760953546775.html
 
-- Celebrate Diwali with AI: 7 prompts to create stunning portraits using Gemini Nano Banana, ChatGPT &amp; free tools
-  Use Gemini Nano Banana, ChatGPT, Leonardo AI, and other free AI platforms. Try 7 creative prompts to create stunning
-  🔗 https://www.livemint.com/technology/tech-news/from-rangoli-to-laxmi-puja-7-ai-prompts-to-create-stunning-diwali-portraits-using-gemini-nano-banana-11760924805841.html
+- AWS down: Perplexity, Snapchat, Canva, Microsoft 365, Hinge and all the top websites affected by massive outage
+  AWS outage has halted services including Canva and Microsoft 365. More than
+  🔗 https://www.livemint.com/technology/tech-news/aws-down-perplexity-snapchat-canva-microsoft-365-hinge-and-top-websites-affected-by-massive-outage-11760954249000.html
 
-- ChatGPT remains the most popular chatbot globally but Google's Gemini is catching up fast
-  OpenAI's ChatGPT continues to remain the most popular chatbot on the planet. Google Gemini is steadily
-  🔗 https://www.livemint.com/technology/tech-news/chatgpt-remains-the-most-popular-chatbot-globally-but-googles-gemini-is-catching-up-fast-perplexity-grok-claude-11760892763643.html
+- Instagram shows more ‘eating disorder adjacent’ content to vulnerable teens, internal Meta research shows
+  Instagram shows more ‘eating disorder adjacent�
+  🔗 https://www.livemint.com/technology/tech-news/instagram-shows-more-eating-disorder-adjacent-content-to-vulnerable-teens-internal-meta-research-shows-11760954515429.html
 
-- Oppo Find X9, Find X9 Pro launching in India next month: here's what to expect
-  Oppo will launch its flagship devices, Find X9 and find X9 Pro, in India next month. The Chinese smartphone maker has
-  🔗 https://www.livemint.com/technology/gadgets/oppo-find-x9-find-x9-pro-launching-in-india-next-month-heres-what-to-expect-11760882962898.html
+- 10 Nifty 500 stocks where Promoters raised stakes in September quarter
+  In the Nifty 500 index, we have highlighted the top 10 stocks where promoters increased their holdings. This trend may indicate their optimism about the company’s performance.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-nifty-500-stocks-where-promoters-raised-stakes-in-september-quarter/slideshow/124705007.cms
 
-- Apple staff concerned about new Siri, raise red flags ahead of iOS 26.4 launch: Report
-  Senior Apple executives are reportedly concerned about the performance of new Siri that is likely to launch with the
-  🔗 https://www.livemint.com/technology/tech-news/apple-staff-concerned-about-new-siri-raise-red-flags-ahead-of-ios-26-4-launch-report-readiness-ahead-of-ios-26-4-launc-11760885947374.html
+- Hyderabad, Bengaluru, Chennai together see 47% rise in housing sales in Jul-Sep: PropTiger
+   Hyderabad, Bengaluru, and Chennai together have seen a 47 per cent increase in sales of residential properties. This is despite an overall marginal fall in
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/hyderabad-bengaluru-chennai-together-see-47-rise-in-housing-sales-in-jul-sep-proptiger/articleshow/124704821.cms
 
-- Bitcoin trades at $110K, Ethereum at $4,000; crypto market recovers from recent crash
-  Bitcoin climbs 3.34% to $110,715 and ETH rises above $4,000. Major tokens including B
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-at-110k-ethereum-at-4000-crypto-market-recovers-from-recent-crash/articleshow/124700617.cms
+- Godrej Group company plans third debt sale in three months, eyeing $230 million
+  Godrej Consumer Products is set to tap the corporate bond market for the third time in as many months by the end of October.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/godrej-group-company-plans-third-debt-sale-in-three-months-eyeing-230-million/articleshow/124704744.cms
 
-- Shopping or investing? The Diwali habit that can make you richer every year
-  This Diwali, balance festive spending with disciplined investing to build long-term wealth. directing a portion of your budget into mutual funds or other investments can create lasting financial security.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/shopping-or-investing-the-diwali-habit-that-can-make-you-richer-every-year/articleshow/124700566.cms
+- Euro zone government bond yields edge higher as trade, US bank worries ease
+  Euro zone benchmark Bund yields rose on Monday as jitters over U.S.-China trade tensions receded. Friday's surprise credit downgrade for France barely moved the dial.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/euro-zone-government-bond-yields-edge-higher-as-trade-us-bank-worries-ease/articleshow/124704691.cms
 
-- JSW Energy shares decline 5% as Q2 PAT falls 17% YoY. Should you buy, sell or hold?
-  JSW Energy shares fell over 5% to Rs 514.15 on the BSE after reporting a 17% YoY decline in consolidated PAT to Rs 705 crore for Q2 FY26. Revenue, however, rose 60%
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jsw-energy-shares-decline-5-as-q2-pat-falls-17-yoy-should-you-buy-sell-or-hold/articleshow/124700525.cms
+- Gainers &amp; Losers: RIL,  South Indian Bank among 7 stocks that moved most today. Here’s why
+  RIL, South Indian Bank, CEAT, and Polycab India surged on strong Q2 earnings. JSW
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-ril-south-indian-bank-among-7-stocks-that-moved-most-today-heres-why/slideshow/124704547.cms
 
-- Polycab India shares rise over 3% as Q2 profit jumps 56% YoY. Should you buy, sell or hold?
-   consolidated net profit up 56% and revenue rising nearly 18% YoY. Analysts remain positive, citing robust growth in wires and cables and FMEG segments.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/polycab-india-shares-rise-over-3-as-q2-profit-jumps-56-yoy-should-you-buy-sell-or-hold/articleshow/124700434.cms
+- Trump says India to pay ‘massive tariffs’ if it continues to buy Russian oil - The Hindu
+  Trump says India to pay ‘massive tariffs’ if it
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNNTZFRE56TmFSVG9FeUpLaFNmY1BzYTFBMXd3SXFXRXlRLUl4WGpZRTJhbmFGb3EweElHQ0FZX296YUg5a3R1dFJuX3NsMFhQS1NINXkwNnpwRGJyQkc4UzJZWmI2VTYxSVltX09sZ1l5M0FCdmd1bmxHcjhJYkJBWUQya2t6Q2R6bmdRa1J3azdRUnFuT2FGZE5VYWJrcnJfM1pTbTJsMjRQWkVXc2V3dExXLVYxbjFNamxBaE1GaEdacTlxbFpoUkVlWTdrUdIB1AFBVV95cUxOeXY2NXpyZi1BZkQ4ek11X1lJVnhTZm9DMzFMZmt3NHVZZFN4SFlUTF85NlJzeW1aQzRmSk9McG95YzBRQ0ZqdzdPSWphbmJsNHdvVTFjc3U5Sm9SN0xPb0J5TVNiTTJ5XzZNbk04b0hyZGgyV2VTWDlCRVJzT3RwRDdJWmVPVTI1aWkwalh6U0hqdWhSNjh6aXJIbHg3STBpenFrLWtMSHl1S1ppYUpEeXpJbW1BNWpMQVUzRHY3YXBpbFVTMFdzdzBYaU1MY1NBT19qbg?oc=5
 
-- Why stocks trump gold for long-term wealth creation
-  An OmniScience Capital study shows that equities have consistently outperformed gold in long-term wealth creation. The analysis finds that the Sensex delivered 11.5% annual returns versus gold’s 9.5
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/why-stocks-trump-gold-for-long-term-wealth-creation/articleshow/124700390.cms
+- India Will Continue Paying Massive Tariffs Over "Russian Oil", Says Trump - NDTV
+  India Will Continue Paying Massive Tariffs Over
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPazJPYnFfQzZXNGdyRHY2ZWx0LUN6U1RsQnNJaF9ITEE0UjJEMkNoM09qNWYwb0xCTVBmaVNSWHNCbGlQaDEwQUdnbmtqSWRrMFVqbDJidVZRLTVRaHZSV3M3RG1IRnN1RmlWdEdzVEdCTTBEX3ZvYVpRbEtEeTdsR1UxTFhtUnlhandzMVlJSDNHbGdTZl92aVBMMHBqUGVGTGJrbFV1LVdOYkM4SXBBaFl4SUhuQi1VTm9uTkY3al9ERU1yZURBUVBsYWJNZmJTY0HSAdoBQVVfeXFMTkxUeERjYU5jNWtmWVpuMEpGaTlrSTRHZld4LVVTZkJOeFZWSXdxczRGd1hjdGgzNHJQbVVDbjdxUzZheHVDd0lCVjNjOWNELWhWM1l2VUJkenN2eE93NFByUzNoekMzY3M1Z2wxUmRBVHJrbnUybXkwZjRMZUctSTB2TWZPakxOdkJBRjBFNmxpRjNTZkdUa0hKbF9pcU1od2FyejB4UHVsN09VUjJSTU1BVEhkbDRFZU5RQl9PR3V0UnU2ZTNCdHhNZHZBaWdIOVBySk5aNXBLZEE?oc=5
 
-- 'Not a single Indian cares…': US politician gets censured for mass deportation call | What did he say? | Latest News India - Hindustan Times
-  'Not a single Indian cares…': US politician gets censured for mass deportation call.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNDQzS1BMVjIycjZmeTlvSDM2bXVIazBzSkJmc21vdHJjaDNTdjBXakNJa05IWWRJNkhqc3ZzWXhkNnN3YnJ4S0x5eEJxdlhIelk4VFhZWjduemt4eENZTE1pb09nbHd3VG1xWUhpcW84V1hiUkExRllwcHNRSnNDZ0lkdTUwS21HdE14bThvdE9jbmZqSGVuVTdGRFAwenYyLXRWSDNTcDJHbjc3RWpxOGtrMzJCVWNQT3lJRVFLXzVMc3RqSXlxa3FNY3EtcHR4RUxpZEZmbnVUbEtRdVlrZnk4d1pYSi1vOFBYSFlGZmpuc2hRMlhyTEYxTWhySTDSAYQCQVVfeXFMTU1fQUdDRDVaclB4U2JOUEExdHcxTG1aX3BsTUptRDY0M2dHNFo4bWREekxUeExvN19MRWIwVU5QcmY0WWZXRDVublo2QXpyR1pLbkpfX0JpSlp6aVJKZko2TE5jRFhjbUdjSzBJSlZjWGQ3Wm42c1B4d2NSUUpTRDB5dDRzVWNLbUJ6ZFBfX3J3OWVpNUtBNzRwd3I2UWIzNkV5a0xFM2JpU2pYb2J6bFFsamRuQkhTLUJTRTFVMlV4aGV4TnBqVkhlR05mVzZhWXFISEsxYWxwcjFNdDhWQVVVRG81dE1nOHRYdHI4RDBwc0tieFc0N0JTdy1HOG9rV0VBbWc?oc=5
+- When can India expect ‘good news’ on US tariffs? Commerce minister responds | Latest News India - Hindustan Times
+  When can India expect ‘good news’ on US tariffs? Commerce
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWkRkdG5pNTU2bDE4SmRqdjVHTnVRT2haQUhPR19NUUpOVTFIdUQtZXlmakdoM3Fodm5uR2NiTUlrVTBpTEY4TkpIV0tQdDlwdGlLMmpEaUhuNXNMOVpyN3FsazNSSkxrQlFEUjduSl95XzZOYXFEQncwZjBJTjRvZXlxdnJ5WFpwcVFTMXhPbWhXWGdMNGljZmdEeDc2T2Vsd2dDVnM1NGo5MC10WEM1ZHlPejUwdHJNb29nUTR4cnZpMV95c1JucUNTd0FOTUVt0gHWAUFVX3lxTE1BNDRoZVFWZWdQQXotdFdIalBWM21iV25JU1pweFVOOFNqV0lFbUtoSHhOcTQ4UVF0MW16U0lrdVpnWkxySUV3VXJnNl85eG1WbXBVWGtpbktkdVJENmVDbHhiS1o0TEVzSGh6OHRhTi1HU3dRa1dZU01qWGFtdzJoM3JqaWZ5NjdRSHBfczI4bUZrUFRydnBrYkZIY21XZDF5N09NaGZMM2NpVUtJQmk1c281Sld3WVZWWkJCZ0x2OGpiNGxmd21Jb19Fclc0UllvV1hFb2c?oc=5
 
-- 'India will keep paying tariffs if ...': Trump's warning on Russian oil; repeats 'spoke to PM Modi' claim - Times of India
-  'India will keep paying tariffs if ...': Trump's warning on Russian oil; repeats '
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNWUlHVE9OdzA5aXhYdGR2T1Y0QUlEeWtkUnVJLU43a1lWRk1WWWlIM2dZLWVaVGRMQmhtOGdqa3kyUGVTNzBRODJHVlV3Y3BDQ1pWSkNQUnJ1Wkd1M2lEUmlrUnVROVBmdmZxSzV2VDc4eUZVSHB1bnlJaHNLdTdmYVJza1VJejdFQ3ZnZ016dTJjZXhDVWU2bElHRHFOVnVtaXJ1NmFCRjFOOWtNLXhFbTVEUEtmSXJrQWVFYnJ2OG1zN3hpWEJQYi1WdGhGZmMwMVlyelRhSmdiRlhJSTM3cXNjdnZtRTZrQ3NMWVI3Z2ppYUdLU0JDd1hYeUpOTnBJRXVIY2dtaHlvbzR50gGSAkFVX3lxTE9PeWJ4c0dPR1BfUlcyM19YQnVTWjlPeVZuYnFld2VFc0U0YlA0cUVmWnNWR3EwWUdSTE1hOGYzd0ItRkp3VlVzWnREMlRiNFlGQmFFNTVGSWJ3eFRYS0x1cGN4dUl2TThvREwxck9OMzdwSWZQN1h2dUZIZ2VvOVVfQXl2UFdCdUVCUlpjaUpSa3FUWHVLMGRnTm0xN01LWXFieWVfUEcwd2xWQWZQUTlqOHhveHE3b1BxdFhnd2Zwd3EzTl9JX0lBaDh4RGhSY25BVGF2ZGN2eWtXOXphYjc4bnFKZjZORURNUEE1eXZ0S1pHZGpvWGlxUW4ycHVqdjYwaEVwLUswak1ZeVExSURwbWc?oc=5
+- Upgrading strike capability: India tests 800-km BrahMos - Times of India
+  The Indian government is upgrading its
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXljRllMVDVNTkJWbGNORXFvazZDVXlpV3hJai1GTmtPamxrbnJuRlV0aXJTM05VOUFqMFl1MjJSZlUwQ3RNRUdzQVZHY3RaaDVXQXJRQkU3dnAzemN0bFlHdWowMHNwTTZ2MXktRm1jUXVhQWFqaEc2SnZwU0p6TVJ4T2JIZVFZazhLbWJZUVRpandITXBPS3VrdUJKMC1Bc0FFb0RfZTZXYVVXb1NFVU5UMWNxT1VpU0JjZmhOTdIBxAFBVV95cUxQTG5TNGk2T3RUbTBJZWg4NWFta0VCeUF4MjJucDVnVjNCQTVvVE85SFFnYU1pRTV1ZUJyZmRpcmpzX0F2Z3RoaWtCNnowdXJJN1J0bXk5a09SS3FNVS12OVI4RU5jSlZ4RjZPdGlUQlViR3JkNnN0ZzdGS3ZIT0N3UHJqajQzWlRteVVRZ3NMZjhQVXY3bWVwX2RNSzRnYXdLWFNDbzdsOGxpWlRSNGowQmZSbXpadGp6Mzlxa3FYcmJUYlpM?oc=5
 
-- "Our Navy Guardian In Indian Ocean": PM Modi's Top Quotes To Navy On Diwali - NDTV
-  "Our Navy Guardian In Indian Ocean": PM Modi's Top
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGgyRExnWWplMnN5YTRuRU4tVThpakhLcTJvUTdheFdPR21lYmlYV1pnMGdpd3luMmFOQ1dKZ3ZnSFNwOEoxeloxZmZiR0pIdkNBSEVUNnBsNE9ydG9sQzZuSU1YUXNyZU91dHdqTTJHSk1KZVktTWttZUd6ZmZaRUhMZEhPaXpOSFJ2aEUzS2doRTdsM01uTkNWQy1mTUFxWlNuM2Rpc2dJeVQ2bFFJckRxWnJaSlpnTXVBQlJZUHTSAcgBQVVfeXFMTXYwNXQzVTZyYmxsVkxvX0ZZdzRMN0tMYVNDVFppVXk4Z0lnWWVsaWpjMGl5bER4MENrYjdDZ1NJVmR0YlcyMkpmVTIwdzhzZmljMzlzM09GQ1RnMVpSeFdqeEZaTEttUV85VXBmSXYzV0dsSXFGckNWWlVIQVRNWHo5YVVpTG13eUQtNHZWNWF2Q3B2UjR0OWFnektMQWxNRmxHcFUtT3J0aHZVMlNoOE1tRU1pc216WWhrcjZhQzRvNXBXLWQ2T3o?oc=5
+- BrahMos-NG: India's Most Lethal Missile Yet At 4,300 KMPH And 800-KM Range - News18
+  BrahMos-NG: India's Most Lethal
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPTXlXQWdaYnpDVUpjeGdBeE14NTJEQzZvMU5rVzJZbXlVYUlRbzV2N05KWFhNbjBsUWpUeHA0V0YwbTJ4dG5LMnFrN2l0c2hBTkpoRGFVa0wyenBTelpkaDhfMGx6blVER3hvdnJTQy1DX243RmU4bkVsbGk0VnpZcmVPQU5WMkVpaWJMZVQ0ZkNDanZtVWhwQWZmd0FRbl9pLWloODk5YUpQaWxRR1pILWFWd2pIRE5aWVZyTG43dXg5eDZmS2tSQjN5MGrSAdIBQVVfeXFMTnlZRHc2ZmVKazUzbEpoY3g5ekJlYkRJdzludk5aVHM4Q0xYbFVOR1FIWEJhMVcydTM2NVZGMDAycWhyaXpLNWtPQ0pLRS1fc0tWdXJLQ2MtVVdOUnVEMVE1Y1J5VFF2eS03YldCRWdpSk0tOUhHZlhEMUlOZDczTXllNC1OY0Z5RDZtSk41VXFSdXc2b0c3QmNfZmtNUW95M0Zqd0hFZkJLTDB5Z1hRcGJMRlkxZHk5SW9YQlZhUXpaeUFyaDdYZEJqYUh0SkZXWlFn?oc=5
 
-- 'Raaton ki neend udaa di': PM's big praise for INS Vikrant, a message for Pakistan on Diwali | Latest News India - Hindustan Times
-  'Raaton ki neend udaa di': PM's big praise for INS Vikrant.
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUlFJZi00c1JDTmdZa3pJQzlMRFkzclhIZDhaallRT3FmUmJrR0JlcFJ1WmdmVEo5UG9MdDdKeEs1bkJxa2FuRVNna3dsMWhTLTdnZUtTT3FGNVp0dGx2Ulo4akZnWEMwcHprSGJ2cTlhT3k3dC1IeE5HT3FBS1lOYnM0ejJ2Qks2dmhKRU5LMDg4WVdtVGNkR3I2b08tQXhNai1KSVlua0dNVXFJZ2w4QkFKVkY3NHhkTm96amg2Q2xldXRwSnZUbHc1RnA2cUpGUXfSAdcBQVVfeXFMTVlTUFkzQXhfU1N5RzBGRTFfTUlXQ3VQLURrNG93UUNNZVZHZ2FfUlhZVkVGVHhpYzExWTBIVGdFM0FkVUJXcTNYX3JvQkp1VnFSdEtvQzhtcllBUmdibE51OHFCczlFUi1qN1doNUNNNHJEYUZWUV9iNjVnbkZCQmVuTE1iV015bEZQQkhlZzVOV2xKWEJrTkxiVzRRZ1pDZ0trNkRjTVhFVEt4a19OYklmRjhfTFBXMkNLVUZhVjVVTGJPWTZqX3FFcTVwM0doTU5Hb1JYN3c?oc=5
+- Trump says India to pay ‘massive tariffs’ if it continues to buy Russian oil - The Hindu
+  Trump says India to pay ‘massive tariffs’ if it
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNNTZFRE56TmFSVG9FeUpLaFNmY1BzYTFBMXd3SXFXRXlRLUl4WGpZRTJhbmFGb3EweElHQ0FZX296YUg5a3R1dFJuX3NsMFhQS1NINXkwNnpwRGJyQkc4UzJZWmI2VTYxSVltX09sZ1l5M0FCdmd1bmxHcjhJYkJBWUQya2t6Q2R6bmdRa1J3azdRUnFuT2FGZE5VYWJrcnJfM1pTbTJsMjRQWkVXc2V3dExXLVYxbjFNamxBaE1GaEdacTlxbFpoUkVlWTdrUdIB1AFBVV95cUxOeXY2NXpyZi1BZkQ4ek11X1lJVnhTZm9DMzFMZmt3NHVZZFN4SFlUTF85NlJzeW1aQzRmSk9McG95YzBRQ0ZqdzdPSWphbmJsNHdvVTFjc3U5Sm9SN0xPb0J5TVNiTTJ5XzZNbk04b0hyZGgyV2VTWDlCRVJzT3RwRDdJWmVPVTI1aWkwalh6U0hqdWhSNjh6aXJIbHg3STBpenFrLWtMSHl1S1ppYUpEeXpJbW1BNWpMQVUzRHY3YXBpbFVTMFdzdzBYaU1MY1NBT19qbg?oc=5
 
-- ‘BrahMos name alone makes some nervous’: PM Modi quips from INS Vikrant deck | Latest News India - Hindustan Times
-  ‘BrahMos name alone makes some nervous’: PM Modi qu
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOWhYTGMwVWVISmVtUktvNUJOSXlYd1RFX0twY3MzY3JiN2JXUVBnUG1hZmlsTGxqY1dOSlpST2FwU3E5UGNhUmw4QXA3YkNhVGx6MmlNT2Q2RkZ4WFZaQUNWNGNEa2l4V1Q3cXU3VTlkaWVsY1lZMVBhcFdqaWlESFpmR19STVFIdW5VZW9JM1lEWG9RcGpjalVta243c3FtSXZFeElVbmZ3ZVFvZXRyWlp1b3gwMHRYWkxwUzFOLWdtSE44ZHJEaWZELXVBNFAzZVpGQW9JdDVZOVlRV2pZ0gHkAUFVX3lxTE9TRkZFeDhFcGEyeW5xSE9jd004YnlDcjI1M3hDOGdtTXpkVlNFNWZra1ltOHBaWmRkZE9mTHlKRGdpWHM3QUtOVGNRaWNSZE5Ob0dPSFZHdGUxQ1UwU1RTWmFLTlgtUE92S0dpb1huZ0Q4NjlQU2VrTm1YT1FUbVFuNGM1ZS1lbEc1djdBX3lWZm84UUIxbHhWeHZkcVNUOXhkNnNrZEplVXdrLTN3ZU93eDVxUXpscTMwc1BRdjZGbHNTNXhJU0dhakhlcWtUbXZGdjk1bFJteFpEeEdyeGdjZWpacw?oc=5
+- India Will Continue Paying Massive Tariffs Over "Russian Oil", Says Trump - NDTV
+  India Will Continue Paying Massive Tariffs Over
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPazJPYnFfQzZXNGdyRHY2ZWx0LUN6U1RsQnNJaF9ITEE0UjJEMkNoM09qNWYwb0xCTVBmaVNSWHNCbGlQaDEwQUdnbmtqSWRrMFVqbDJidVZRLTVRaHZSV3M3RG1IRnN1RmlWdEdzVEdCTTBEX3ZvYVpRbEtEeTdsR1UxTFhtUnlhandzMVlJSDNHbGdTZl92aVBMMHBqUGVGTGJrbFV1LVdOYkM4SXBBaFl4SUhuQi1VTm9uTkY3al9ERU1yZURBUVBsYWJNZmJTY0HSAdoBQVVfeXFMTkxUeERjYU5jNWtmWVpuMEpGaTlrSTRHZld4LVVTZkJOeFZWSXdxczRGd1hjdGgzNHJQbVVDbjdxUzZheHVDd0lCVjNjOWNELWhWM1l2VUJkenN2eE93NFByUzNoekMzY3M1Z2wxUmRBVHJrbnUybXkwZjRMZUctSTB2TWZPakxOdkJBRjBFNmxpRjNTZkdUa0hKbF9pcU1od2FyejB4UHVsN09VUjJSTU1BVEhkbDRFZU5RQl9PR3V0UnU2ZTNCdHhNZHZBaWdIOVBySk5aNXBLZEE?oc=5
 
-- 'Not a single Indian cares…': US politician gets censured for mass deportation call | What did he say? | Latest News India - Hindustan Times
-  'Not a single Indian cares…': US politician gets censured for mass deportation call.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNDQzS1BMVjIycjZmeTlvSDM2bXVIazBzSkJmc21vdHJjaDNTdjBXakNJa05IWWRJNkhqc3ZzWXhkNnN3YnJ4S0x5eEJxdlhIelk4VFhZWjduemt4eENZTE1pb09nbHd3VG1xWUhpcW84V1hiUkExRllwcHNRSnNDZ0lkdTUwS21HdE14bThvdE9jbmZqSGVuVTdGRFAwenYyLXRWSDNTcDJHbjc3RWpxOGtrMzJCVWNQT3lJRVFLXzVMc3RqSXlxa3FNY3EtcHR4RUxpZEZmbnVUbEtRdVlrZnk4d1pYSi1vOFBYSFlGZmpuc2hRMlhyTEYxTWhySTDSAYQCQVVfeXFMTU1fQUdDRDVaclB4U2JOUEExdHcxTG1aX3BsTUptRDY0M2dHNFo4bWREekxUeExvN19MRWIwVU5QcmY0WWZXRDVublo2QXpyR1pLbkpfX0JpSlp6aVJKZko2TE5jRFhjbUdjSzBJSlZjWGQ3Wm42c1B4d2NSUUpTRDB5dDRzVWNLbUJ6ZFBfX3J3OWVpNUtBNzRwd3I2UWIzNkV5a0xFM2JpU2pYb2J6bFFsamRuQkhTLUJTRTFVMlV4aGV4TnBqVkhlR05mVzZhWXFISEsxYWxwcjFNdDhWQVVVRG81dE1nOHRYdHI4RDBwc0tieFc0N0JTdy1HOG9rV0VBbWc?oc=5
+- When can India expect ‘good news’ on US tariffs? Commerce minister responds | Latest News India - Hindustan Times
+  When can India expect ‘good news’ on US tariffs? Commerce
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWkRkdG5pNTU2bDE4SmRqdjVHTnVRT2haQUhPR19NUUpOVTFIdUQtZXlmakdoM3Fodm5uR2NiTUlrVTBpTEY4TkpIV0tQdDlwdGlLMmpEaUhuNXNMOVpyN3FsazNSSkxrQlFEUjduSl95XzZOYXFEQncwZjBJTjRvZXlxdnJ5WFpwcVFTMXhPbWhXWGdMNGljZmdEeDc2T2Vsd2dDVnM1NGo5MC10WEM1ZHlPejUwdHJNb29nUTR4cnZpMV95c1JucUNTd0FOTUVt0gHWAUFVX3lxTE1BNDRoZVFWZWdQQXotdFdIalBWM21iV25JU1pweFVOOFNqV0lFbUtoSHhOcTQ4UVF0MW16U0lrdVpnWkxySUV3VXJnNl85eG1WbXBVWGtpbktkdVJENmVDbHhiS1o0TEVzSGh6OHRhTi1HU3dRa1dZU01qWGFtdzJoM3JqaWZ5NjdRSHBfczI4bUZrUFRydnBrYkZIY21XZDF5N09NaGZMM2NpVUtJQmk1c281Sld3WVZWWkJCZ0x2OGpiNGxmd21Jb19Fclc0UllvV1hFb2c?oc=5
 
-- 'India will keep paying tariffs if ...': Trump's warning on Russian oil; repeats 'spoke to PM Modi' claim - Times of India
-  'India will keep paying tariffs if ...': Trump's warning on Russian oil; repeats '
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNWUlHVE9OdzA5aXhYdGR2T1Y0QUlEeWtkUnVJLU43a1lWRk1WWWlIM2dZLWVaVGRMQmhtOGdqa3kyUGVTNzBRODJHVlV3Y3BDQ1pWSkNQUnJ1Wkd1M2lEUmlrUnVROVBmdmZxSzV2VDc4eUZVSHB1bnlJaHNLdTdmYVJza1VJejdFQ3ZnZ016dTJjZXhDVWU2bElHRHFOVnVtaXJ1NmFCRjFOOWtNLXhFbTVEUEtmSXJrQWVFYnJ2OG1zN3hpWEJQYi1WdGhGZmMwMVlyelRhSmdiRlhJSTM3cXNjdnZtRTZrQ3NMWVI3Z2ppYUdLU0JDd1hYeUpOTnBJRXVIY2dtaHlvbzR50gGSAkFVX3lxTE9PeWJ4c0dPR1BfUlcyM19YQnVTWjlPeVZuYnFld2VFc0U0YlA0cUVmWnNWR3EwWUdSTE1hOGYzd0ItRkp3VlVzWnREMlRiNFlGQmFFNTVGSWJ3eFRYS0x1cGN4dUl2TThvREwxck9OMzdwSWZQN1h2dUZIZ2VvOVVfQXl2UFdCdUVCUlpjaUpSa3FUWHVLMGRnTm0xN01LWXFieWVfUEcwd2xWQWZQUTlqOHhveHE3b1BxdFhnd2Zwd3EzTl9JX0lBaDh4RGhSY25BVGF2ZGN2eWtXOXphYjc4bnFKZjZORURNUEE1eXZ0S1pHZGpvWGlxUW4ycHVqdjYwaEVwLUswak1ZeVExSURwbWc?oc=5
+- Upgrading strike capability: India tests 800-km BrahMos - Times of India
+  The Indian government is upgrading its
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXljRllMVDVNTkJWbGNORXFvazZDVXlpV3hJai1GTmtPamxrbnJuRlV0aXJTM05VOUFqMFl1MjJSZlUwQ3RNRUdzQVZHY3RaaDVXQXJRQkU3dnAzemN0bFlHdWowMHNwTTZ2MXktRm1jUXVhQWFqaEc2SnZwU0p6TVJ4T2JIZVFZazhLbWJZUVRpandITXBPS3VrdUJKMC1Bc0FFb0RfZTZXYVVXb1NFVU5UMWNxT1VpU0JjZmhOTdIBxAFBVV95cUxQTG5TNGk2T3RUbTBJZWg4NWFta0VCeUF4MjJucDVnVjNCQTVvVE85SFFnYU1pRTV1ZUJyZmRpcmpzX0F2Z3RoaWtCNnowdXJJN1J0bXk5a09SS3FNVS12OVI4RU5jSlZ4RjZPdGlUQlViR3JkNnN0ZzdGS3ZIT0N3UHJqajQzWlRteVVRZ3NMZjhQVXY3bWVwX2RNSzRnYXdLWFNDbzdsOGxpWlRSNGowQmZSbXpadGp6Mzlxa3FYcmJUYlpM?oc=5
 
-- "Our Navy Guardian In Indian Ocean": PM Modi's Top Quotes To Navy On Diwali - NDTV
-  "Our Navy Guardian In Indian Ocean": PM Modi's Top
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGgyRExnWWplMnN5YTRuRU4tVThpakhLcTJvUTdheFdPR21lYmlYV1pnMGdpd3luMmFOQ1dKZ3ZnSFNwOEoxeloxZmZiR0pIdkNBSEVUNnBsNE9ydG9sQzZuSU1YUXNyZU91dHdqTTJHSk1KZVktTWttZUd6ZmZaRUhMZEhPaXpOSFJ2aEUzS2doRTdsM01uTkNWQy1mTUFxWlNuM2Rpc2dJeVQ2bFFJckRxWnJaSlpnTXVBQlJZUHTSAcgBQVVfeXFMTXYwNXQzVTZyYmxsVkxvX0ZZdzRMN0tMYVNDVFppVXk4Z0lnWWVsaWpjMGl5bER4MENrYjdDZ1NJVmR0YlcyMkpmVTIwdzhzZmljMzlzM09GQ1RnMVpSeFdqeEZaTEttUV85VXBmSXYzV0dsSXFGckNWWlVIQVRNWHo5YVVpTG13eUQtNHZWNWF2Q3B2UjR0OWFnektMQWxNRmxHcFUtT3J0aHZVMlNoOE1tRU1pc216WWhrcjZhQzRvNXBXLWQ2T3o?oc=5
+- BrahMos-NG: India's Most Lethal Missile Yet At 4,300 KMPH And 800-KM Range - News18
+  BrahMos-NG: India's Most Lethal
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPTXlXQWdaYnpDVUpjeGdBeE14NTJEQzZvMU5rVzJZbXlVYUlRbzV2N05KWFhNbjBsUWpUeHA0V0YwbTJ4dG5LMnFrN2l0c2hBTkpoRGFVa0wyenBTelpkaDhfMGx6blVER3hvdnJTQy1DX243RmU4bkVsbGk0VnpZcmVPQU5WMkVpaWJMZVQ0ZkNDanZtVWhwQWZmd0FRbl9pLWloODk5YUpQaWxRR1pILWFWd2pIRE5aWVZyTG43dXg5eDZmS2tSQjN5MGrSAdIBQVVfeXFMTnlZRHc2ZmVKazUzbEpoY3g5ekJlYkRJdzludk5aVHM4Q0xYbFVOR1FIWEJhMVcydTM2NVZGMDAycWhyaXpLNWtPQ0pLRS1fc0tWdXJLQ2MtVVdOUnVEMVE1Y1J5VFF2eS03YldCRWdpSk0tOUhHZlhEMUlOZDczTXllNC1OY0Z5RDZtSk41VXFSdXc2b0c3QmNfZmtNUW95M0Zqd0hFZkJLTDB5Z1hRcGJMRlkxZHk5SW9YQlZhUXpaeUFyaDdYZEJqYUh0SkZXWlFn?oc=5
 
-- 'Raaton ki neend udaa di': PM's big praise for INS Vikrant, a message for Pakistan on Diwali | Latest News India - Hindustan Times
-  'Raaton ki neend udaa di': PM's big praise for INS Vikrant.
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUlFJZi00c1JDTmdZa3pJQzlMRFkzclhIZDhaallRT3FmUmJrR0JlcFJ1WmdmVEo5UG9MdDdKeEs1bkJxa2FuRVNna3dsMWhTLTdnZUtTT3FGNVp0dGx2Ulo4akZnWEMwcHprSGJ2cTlhT3k3dC1IeE5HT3FBS1lOYnM0ejJ2Qks2dmhKRU5LMDg4WVdtVGNkR3I2b08tQXhNai1KSVlua0dNVXFJZ2w4QkFKVkY3NHhkTm96amg2Q2xldXRwSnZUbHc1RnA2cUpGUXfSAdcBQVVfeXFMTVlTUFkzQXhfU1N5RzBGRTFfTUlXQ3VQLURrNG93UUNNZVZHZ2FfUlhZVkVGVHhpYzExWTBIVGdFM0FkVUJXcTNYX3JvQkp1VnFSdEtvQzhtcllBUmdibE51OHFCczlFUi1qN1doNUNNNHJEYUZWUV9iNjVnbkZCQmVuTE1iV015bEZQQkhlZzVOV2xKWEJrTkxiVzRRZ1pDZ0trNkRjTVhFVEt4a19OYklmRjhfTFBXMkNLVUZhVjVVTGJPWTZqX3FFcTVwM0doTU5Hb1JYN3c?oc=5
+- Trump says India to pay ‘massive tariffs’ if it continues to buy Russian oil - The Hindu
+  Trump says India to pay ‘massive tariffs’ if it
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNNTZFRE56TmFSVG9FeUpLaFNmY1BzYTFBMXd3SXFXRXlRLUl4WGpZRTJhbmFGb3EweElHQ0FZX296YUg5a3R1dFJuX3NsMFhQS1NINXkwNnpwRGJyQkc4UzJZWmI2VTYxSVltX09sZ1l5M0FCdmd1bmxHcjhJYkJBWUQya2t6Q2R6bmdRa1J3azdRUnFuT2FGZE5VYWJrcnJfM1pTbTJsMjRQWkVXc2V3dExXLVYxbjFNamxBaE1GaEdacTlxbFpoUkVlWTdrUdIB1AFBVV95cUxOeXY2NXpyZi1BZkQ4ek11X1lJVnhTZm9DMzFMZmt3NHVZZFN4SFlUTF85NlJzeW1aQzRmSk9McG95YzBRQ0ZqdzdPSWphbmJsNHdvVTFjc3U5Sm9SN0xPb0J5TVNiTTJ5XzZNbk04b0hyZGgyV2VTWDlCRVJzT3RwRDdJWmVPVTI1aWkwalh6U0hqdWhSNjh6aXJIbHg3STBpenFrLWtMSHl1S1ppYUpEeXpJbW1BNWpMQVUzRHY3YXBpbFVTMFdzdzBYaU1MY1NBT19qbg?oc=5
 
-- ‘BrahMos name alone makes some nervous’: PM Modi quips from INS Vikrant deck | Latest News India - Hindustan Times
-  ‘BrahMos name alone makes some nervous’: PM Modi qu
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOWhYTGMwVWVISmVtUktvNUJOSXlYd1RFX0twY3MzY3JiN2JXUVBnUG1hZmlsTGxqY1dOSlpST2FwU3E5UGNhUmw4QXA3YkNhVGx6MmlNT2Q2RkZ4WFZaQUNWNGNEa2l4V1Q3cXU3VTlkaWVsY1lZMVBhcFdqaWlESFpmR19STVFIdW5VZW9JM1lEWG9RcGpjalVta243c3FtSXZFeElVbmZ3ZVFvZXRyWlp1b3gwMHRYWkxwUzFOLWdtSE44ZHJEaWZELXVBNFAzZVpGQW9JdDVZOVlRV2pZ0gHkAUFVX3lxTE9TRkZFeDhFcGEyeW5xSE9jd004YnlDcjI1M3hDOGdtTXpkVlNFNWZra1ltOHBaWmRkZE9mTHlKRGdpWHM3QUtOVGNRaWNSZE5Ob0dPSFZHdGUxQ1UwU1RTWmFLTlgtUE92S0dpb1huZ0Q4NjlQU2VrTm1YT1FUbVFuNGM1ZS1lbEc1djdBX3lWZm84UUIxbHhWeHZkcVNUOXhkNnNrZEplVXdrLTN3ZU93eDVxUXpscTMwc1BRdjZGbHNTNXhJU0dhakhlcWtUbXZGdjk1bFJteFpEeEdyeGdjZWpacw?oc=5
+- India Will Continue Paying Massive Tariffs Over "Russian Oil", Says Trump - NDTV
+  India Will Continue Paying Massive Tariffs Over
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPazJPYnFfQzZXNGdyRHY2ZWx0LUN6U1RsQnNJaF9ITEE0UjJEMkNoM09qNWYwb0xCTVBmaVNSWHNCbGlQaDEwQUdnbmtqSWRrMFVqbDJidVZRLTVRaHZSV3M3RG1IRnN1RmlWdEdzVEdCTTBEX3ZvYVpRbEtEeTdsR1UxTFhtUnlhandzMVlJSDNHbGdTZl92aVBMMHBqUGVGTGJrbFV1LVdOYkM4SXBBaFl4SUhuQi1VTm9uTkY3al9ERU1yZURBUVBsYWJNZmJTY0HSAdoBQVVfeXFMTkxUeERjYU5jNWtmWVpuMEpGaTlrSTRHZld4LVVTZkJOeFZWSXdxczRGd1hjdGgzNHJQbVVDbjdxUzZheHVDd0lCVjNjOWNELWhWM1l2VUJkenN2eE93NFByUzNoekMzY3M1Z2wxUmRBVHJrbnUybXkwZjRMZUctSTB2TWZPakxOdkJBRjBFNmxpRjNTZkdUa0hKbF9pcU1od2FyejB4UHVsN09VUjJSTU1BVEhkbDRFZU5RQl9PR3V0UnU2ZTNCdHhNZHZBaWdIOVBySk5aNXBLZEE?oc=5
 
-- 'Not a single Indian cares…': US politician gets censured for mass deportation call | What did he say? | Latest News India - Hindustan Times
-  'Not a single Indian cares…': US politician gets censured for mass deportation call.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNDQzS1BMVjIycjZmeTlvSDM2bXVIazBzSkJmc21vdHJjaDNTdjBXakNJa05IWWRJNkhqc3ZzWXhkNnN3YnJ4S0x5eEJxdlhIelk4VFhZWjduemt4eENZTE1pb09nbHd3VG1xWUhpcW84V1hiUkExRllwcHNRSnNDZ0lkdTUwS21HdE14bThvdE9jbmZqSGVuVTdGRFAwenYyLXRWSDNTcDJHbjc3RWpxOGtrMzJCVWNQT3lJRVFLXzVMc3RqSXlxa3FNY3EtcHR4RUxpZEZmbnVUbEtRdVlrZnk4d1pYSi1vOFBYSFlGZmpuc2hRMlhyTEYxTWhySTDSAYQCQVVfeXFMTU1fQUdDRDVaclB4U2JOUEExdHcxTG1aX3BsTUptRDY0M2dHNFo4bWREekxUeExvN19MRWIwVU5QcmY0WWZXRDVublo2QXpyR1pLbkpfX0JpSlp6aVJKZko2TE5jRFhjbUdjSzBJSlZjWGQ3Wm42c1B4d2NSUUpTRDB5dDRzVWNLbUJ6ZFBfX3J3OWVpNUtBNzRwd3I2UWIzNkV5a0xFM2JpU2pYb2J6bFFsamRuQkhTLUJTRTFVMlV4aGV4TnBqVkhlR05mVzZhWXFISEsxYWxwcjFNdDhWQVVVRG81dE1nOHRYdHI4RDBwc0tieFc0N0JTdy1HOG9rV0VBbWc?oc=5
+- When can India expect ‘good news’ on US tariffs? Commerce minister responds | Latest News India - Hindustan Times
+  When can India expect ‘good news’ on US tariffs? Commerce
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWkRkdG5pNTU2bDE4SmRqdjVHTnVRT2haQUhPR19NUUpOVTFIdUQtZXlmakdoM3Fodm5uR2NiTUlrVTBpTEY4TkpIV0tQdDlwdGlLMmpEaUhuNXNMOVpyN3FsazNSSkxrQlFEUjduSl95XzZOYXFEQncwZjBJTjRvZXlxdnJ5WFpwcVFTMXhPbWhXWGdMNGljZmdEeDc2T2Vsd2dDVnM1NGo5MC10WEM1ZHlPejUwdHJNb29nUTR4cnZpMV95c1JucUNTd0FOTUVt0gHWAUFVX3lxTE1BNDRoZVFWZWdQQXotdFdIalBWM21iV25JU1pweFVOOFNqV0lFbUtoSHhOcTQ4UVF0MW16U0lrdVpnWkxySUV3VXJnNl85eG1WbXBVWGtpbktkdVJENmVDbHhiS1o0TEVzSGh6OHRhTi1HU3dRa1dZU01qWGFtdzJoM3JqaWZ5NjdRSHBfczI4bUZrUFRydnBrYkZIY21XZDF5N09NaGZMM2NpVUtJQmk1c281Sld3WVZWWkJCZ0x2OGpiNGxmd21Jb19Fclc0UllvV1hFb2c?oc=5
 
-- 'India will keep paying tariffs if ...': Trump's warning on Russian oil; repeats 'spoke to PM Modi' claim - Times of India
-  'India will keep paying tariffs if ...': Trump's warning on Russian oil; repeats '
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNWUlHVE9OdzA5aXhYdGR2T1Y0QUlEeWtkUnVJLU43a1lWRk1WWWlIM2dZLWVaVGRMQmhtOGdqa3kyUGVTNzBRODJHVlV3Y3BDQ1pWSkNQUnJ1Wkd1M2lEUmlrUnVROVBmdmZxSzV2VDc4eUZVSHB1bnlJaHNLdTdmYVJza1VJejdFQ3ZnZ016dTJjZXhDVWU2bElHRHFOVnVtaXJ1NmFCRjFOOWtNLXhFbTVEUEtmSXJrQWVFYnJ2OG1zN3hpWEJQYi1WdGhGZmMwMVlyelRhSmdiRlhJSTM3cXNjdnZtRTZrQ3NMWVI3Z2ppYUdLU0JDd1hYeUpOTnBJRXVIY2dtaHlvbzR50gGSAkFVX3lxTE9PeWJ4c0dPR1BfUlcyM19YQnVTWjlPeVZuYnFld2VFc0U0YlA0cUVmWnNWR3EwWUdSTE1hOGYzd0ItRkp3VlVzWnREMlRiNFlGQmFFNTVGSWJ3eFRYS0x1cGN4dUl2TThvREwxck9OMzdwSWZQN1h2dUZIZ2VvOVVfQXl2UFdCdUVCUlpjaUpSa3FUWHVLMGRnTm0xN01LWXFieWVfUEcwd2xWQWZQUTlqOHhveHE3b1BxdFhnd2Zwd3EzTl9JX0lBaDh4RGhSY25BVGF2ZGN2eWtXOXphYjc4bnFKZjZORURNUEE1eXZ0S1pHZGpvWGlxUW4ycHVqdjYwaEVwLUswak1ZeVExSURwbWc?oc=5
+- Upgrading strike capability: India tests 800-km BrahMos - Times of India
+  The Indian government is upgrading its
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXljRllMVDVNTkJWbGNORXFvazZDVXlpV3hJai1GTmtPamxrbnJuRlV0aXJTM05VOUFqMFl1MjJSZlUwQ3RNRUdzQVZHY3RaaDVXQXJRQkU3dnAzemN0bFlHdWowMHNwTTZ2MXktRm1jUXVhQWFqaEc2SnZwU0p6TVJ4T2JIZVFZazhLbWJZUVRpandITXBPS3VrdUJKMC1Bc0FFb0RfZTZXYVVXb1NFVU5UMWNxT1VpU0JjZmhOTdIBxAFBVV95cUxQTG5TNGk2T3RUbTBJZWg4NWFta0VCeUF4MjJucDVnVjNCQTVvVE85SFFnYU1pRTV1ZUJyZmRpcmpzX0F2Z3RoaWtCNnowdXJJN1J0bXk5a09SS3FNVS12OVI4RU5jSlZ4RjZPdGlUQlViR3JkNnN0ZzdGS3ZIT0N3UHJqajQzWlRteVVRZ3NMZjhQVXY3bWVwX2RNSzRnYXdLWFNDbzdsOGxpWlRSNGowQmZSbXpadGp6Mzlxa3FYcmJUYlpM?oc=5
 
-- "Our Navy Guardian In Indian Ocean": PM Modi's Top Quotes To Navy On Diwali - NDTV
-  "Our Navy Guardian In Indian Ocean": PM Modi's Top
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGgyRExnWWplMnN5YTRuRU4tVThpakhLcTJvUTdheFdPR21lYmlYV1pnMGdpd3luMmFOQ1dKZ3ZnSFNwOEoxeloxZmZiR0pIdkNBSEVUNnBsNE9ydG9sQzZuSU1YUXNyZU91dHdqTTJHSk1KZVktTWttZUd6ZmZaRUhMZEhPaXpOSFJ2aEUzS2doRTdsM01uTkNWQy1mTUFxWlNuM2Rpc2dJeVQ2bFFJckRxWnJaSlpnTXVBQlJZUHTSAcgBQVVfeXFMTXYwNXQzVTZyYmxsVkxvX0ZZdzRMN0tMYVNDVFppVXk4Z0lnWWVsaWpjMGl5bER4MENrYjdDZ1NJVmR0YlcyMkpmVTIwdzhzZmljMzlzM09GQ1RnMVpSeFdqeEZaTEttUV85VXBmSXYzV0dsSXFGckNWWlVIQVRNWHo5YVVpTG13eUQtNHZWNWF2Q3B2UjR0OWFnektMQWxNRmxHcFUtT3J0aHZVMlNoOE1tRU1pc216WWhrcjZhQzRvNXBXLWQ2T3o?oc=5
-
-- 'Raaton ki neend udaa di': PM's big praise for INS Vikrant, a message for Pakistan on Diwali | Latest News India - Hindustan Times
-  'Raaton ki neend udaa di': PM's big praise for INS Vikrant.
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUlFJZi00c1JDTmdZa3pJQzlMRFkzclhIZDhaallRT3FmUmJrR0JlcFJ1WmdmVEo5UG9MdDdKeEs1bkJxa2FuRVNna3dsMWhTLTdnZUtTT3FGNVp0dGx2Ulo4akZnWEMwcHprSGJ2cTlhT3k3dC1IeE5HT3FBS1lOYnM0ejJ2Qks2dmhKRU5LMDg4WVdtVGNkR3I2b08tQXhNai1KSVlua0dNVXFJZ2w4QkFKVkY3NHhkTm96amg2Q2xldXRwSnZUbHc1RnA2cUpGUXfSAdcBQVVfeXFMTVlTUFkzQXhfU1N5RzBGRTFfTUlXQ3VQLURrNG93UUNNZVZHZ2FfUlhZVkVGVHhpYzExWTBIVGdFM0FkVUJXcTNYX3JvQkp1VnFSdEtvQzhtcllBUmdibE51OHFCczlFUi1qN1doNUNNNHJEYUZWUV9iNjVnbkZCQmVuTE1iV015bEZQQkhlZzVOV2xKWEJrTkxiVzRRZ1pDZ0trNkRjTVhFVEt4a19OYklmRjhfTFBXMkNLVUZhVjVVTGJPWTZqX3FFcTVwM0doTU5Hb1JYN3c?oc=5
-
-- ‘BrahMos name alone makes some nervous’: PM Modi quips from INS Vikrant deck | Latest News India - Hindustan Times
-  ‘BrahMos name alone makes some nervous’: PM Modi qu
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOWhYTGMwVWVISmVtUktvNUJOSXlYd1RFX0twY3MzY3JiN2JXUVBnUG1hZmlsTGxqY1dOSlpST2FwU3E5UGNhUmw4QXA3YkNhVGx6MmlNT2Q2RkZ4WFZaQUNWNGNEa2l4V1Q3cXU3VTlkaWVsY1lZMVBhcFdqaWlESFpmR19STVFIdW5VZW9JM1lEWG9RcGpjalVta243c3FtSXZFeElVbmZ3ZVFvZXRyWlp1b3gwMHRYWkxwUzFOLWdtSE44ZHJEaWZELXVBNFAzZVpGQW9JdDVZOVlRV2pZ0gHkAUFVX3lxTE9TRkZFeDhFcGEyeW5xSE9jd004YnlDcjI1M3hDOGdtTXpkVlNFNWZra1ltOHBaWmRkZE9mTHlKRGdpWHM3QUtOVGNRaWNSZE5Ob0dPSFZHdGUxQ1UwU1RTWmFLTlgtUE92S0dpb1huZ0Q4NjlQU2VrTm1YT1FUbVFuNGM1ZS1lbEc1djdBX3lWZm84UUIxbHhWeHZkcVNUOXhkNnNrZEplVXdrLTN3ZU93eDVxUXpscTMwc1BRdjZGbHNTNXhJU0dhakhlcWtUbXZGdjk1bFJteFpEeEdyeGdjZWpacw?oc=5
-
-- 'Not a single Indian cares…': US politician gets censured for mass deportation call | What did he say? | Latest News India - Hindustan Times
-  'Not a single Indian cares…': US politician gets censured for mass deportation call.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNDQzS1BMVjIycjZmeTlvSDM2bXVIazBzSkJmc21vdHJjaDNTdjBXakNJa05IWWRJNkhqc3ZzWXhkNnN3YnJ4S0x5eEJxdlhIelk4VFhZWjduemt4eENZTE1pb09nbHd3VG1xWUhpcW84V1hiUkExRllwcHNRSnNDZ0lkdTUwS21HdE14bThvdE9jbmZqSGVuVTdGRFAwenYyLXRWSDNTcDJHbjc3RWpxOGtrMzJCVWNQT3lJRVFLXzVMc3RqSXlxa3FNY3EtcHR4RUxpZEZmbnVUbEtRdVlrZnk4d1pYSi1vOFBYSFlGZmpuc2hRMlhyTEYxTWhySTDSAYQCQVVfeXFMTU1fQUdDRDVaclB4U2JOUEExdHcxTG1aX3BsTUptRDY0M2dHNFo4bWREekxUeExvN19MRWIwVU5QcmY0WWZXRDVublo2QXpyR1pLbkpfX0JpSlp6aVJKZko2TE5jRFhjbUdjSzBJSlZjWGQ3Wm42c1B4d2NSUUpTRDB5dDRzVWNLbUJ6ZFBfX3J3OWVpNUtBNzRwd3I2UWIzNkV5a0xFM2JpU2pYb2J6bFFsamRuQkhTLUJTRTFVMlV4aGV4TnBqVkhlR05mVzZhWXFISEsxYWxwcjFNdDhWQVVVRG81dE1nOHRYdHI4RDBwc0tieFc0N0JTdy1HOG9rV0VBbWc?oc=5
-
-- 'India will keep paying tariffs if ...': Trump's warning on Russian oil; repeats 'spoke to PM Modi' claim - Times of India
-  'India will keep paying tariffs if ...': Trump's warning on Russian oil; repeats '
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNWUlHVE9OdzA5aXhYdGR2T1Y0QUlEeWtkUnVJLU43a1lWRk1WWWlIM2dZLWVaVGRMQmhtOGdqa3kyUGVTNzBRODJHVlV3Y3BDQ1pWSkNQUnJ1Wkd1M2lEUmlrUnVROVBmdmZxSzV2VDc4eUZVSHB1bnlJaHNLdTdmYVJza1VJejdFQ3ZnZ016dTJjZXhDVWU2bElHRHFOVnVtaXJ1NmFCRjFOOWtNLXhFbTVEUEtmSXJrQWVFYnJ2OG1zN3hpWEJQYi1WdGhGZmMwMVlyelRhSmdiRlhJSTM3cXNjdnZtRTZrQ3NMWVI3Z2ppYUdLU0JDd1hYeUpOTnBJRXVIY2dtaHlvbzR50gGSAkFVX3lxTE9PeWJ4c0dPR1BfUlcyM19YQnVTWjlPeVZuYnFld2VFc0U0YlA0cUVmWnNWR3EwWUdSTE1hOGYzd0ItRkp3VlVzWnREMlRiNFlGQmFFNTVGSWJ3eFRYS0x1cGN4dUl2TThvREwxck9OMzdwSWZQN1h2dUZIZ2VvOVVfQXl2UFdCdUVCUlpjaUpSa3FUWHVLMGRnTm0xN01LWXFieWVfUEcwd2xWQWZQUTlqOHhveHE3b1BxdFhnd2Zwd3EzTl9JX0lBaDh4RGhSY25BVGF2ZGN2eWtXOXphYjc4bnFKZjZORURNUEE1eXZ0S1pHZGpvWGlxUW4ycHVqdjYwaEVwLUswak1ZeVExSURwbWc?oc=5
-
-- "Our Navy Guardian In Indian Ocean": PM Modi's Top Quotes To Navy On Diwali - NDTV
-  "Our Navy Guardian In Indian Ocean": PM Modi's Top
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGgyRExnWWplMnN5YTRuRU4tVThpakhLcTJvUTdheFdPR21lYmlYV1pnMGdpd3luMmFOQ1dKZ3ZnSFNwOEoxeloxZmZiR0pIdkNBSEVUNnBsNE9ydG9sQzZuSU1YUXNyZU91dHdqTTJHSk1KZVktTWttZUd6ZmZaRUhMZEhPaXpOSFJ2aEUzS2doRTdsM01uTkNWQy1mTUFxWlNuM2Rpc2dJeVQ2bFFJckRxWnJaSlpnTXVBQlJZUHTSAcgBQVVfeXFMTXYwNXQzVTZyYmxsVkxvX0ZZdzRMN0tMYVNDVFppVXk4Z0lnWWVsaWpjMGl5bER4MENrYjdDZ1NJVmR0YlcyMkpmVTIwdzhzZmljMzlzM09GQ1RnMVpSeFdqeEZaTEttUV85VXBmSXYzV0dsSXFGckNWWlVIQVRNWHo5YVVpTG13eUQtNHZWNWF2Q3B2UjR0OWFnektMQWxNRmxHcFUtT3J0aHZVMlNoOE1tRU1pc216WWhrcjZhQzRvNXBXLWQ2T3o?oc=5
-
-- 'Raaton ki neend udaa di': PM's big praise for INS Vikrant, a message for Pakistan on Diwali | Latest News India - Hindustan Times
-  'Raaton ki neend udaa di': PM's big praise for INS Vikrant.
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUlFJZi00c1JDTmdZa3pJQzlMRFkzclhIZDhaallRT3FmUmJrR0JlcFJ1WmdmVEo5UG9MdDdKeEs1bkJxa2FuRVNna3dsMWhTLTdnZUtTT3FGNVp0dGx2Ulo4akZnWEMwcHprSGJ2cTlhT3k3dC1IeE5HT3FBS1lOYnM0ejJ2Qks2dmhKRU5LMDg4WVdtVGNkR3I2b08tQXhNai1KSVlua0dNVXFJZ2w4QkFKVkY3NHhkTm96amg2Q2xldXRwSnZUbHc1RnA2cUpGUXfSAdcBQVVfeXFMTVlTUFkzQXhfU1N5RzBGRTFfTUlXQ3VQLURrNG93UUNNZVZHZ2FfUlhZVkVGVHhpYzExWTBIVGdFM0FkVUJXcTNYX3JvQkp1VnFSdEtvQzhtcllBUmdibE51OHFCczlFUi1qN1doNUNNNHJEYUZWUV9iNjVnbkZCQmVuTE1iV015bEZQQkhlZzVOV2xKWEJrTkxiVzRRZ1pDZ0trNkRjTVhFVEt4a19OYklmRjhfTFBXMkNLVUZhVjVVTGJPWTZqX3FFcTVwM0doTU5Hb1JYN3c?oc=5
-
-- ‘BrahMos name alone makes some nervous’: PM Modi quips from INS Vikrant deck | Latest News India - Hindustan Times
-  ‘BrahMos name alone makes some nervous’: PM Modi qu
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOWhYTGMwVWVISmVtUktvNUJOSXlYd1RFX0twY3MzY3JiN2JXUVBnUG1hZmlsTGxqY1dOSlpST2FwU3E5UGNhUmw4QXA3YkNhVGx6MmlNT2Q2RkZ4WFZaQUNWNGNEa2l4V1Q3cXU3VTlkaWVsY1lZMVBhcFdqaWlESFpmR19STVFIdW5VZW9JM1lEWG9RcGpjalVta243c3FtSXZFeElVbmZ3ZVFvZXRyWlp1b3gwMHRYWkxwUzFOLWdtSE44ZHJEaWZELXVBNFAzZVpGQW9JdDVZOVlRV2pZ0gHkAUFVX3lxTE9TRkZFeDhFcGEyeW5xSE9jd004YnlDcjI1M3hDOGdtTXpkVlNFNWZra1ltOHBaWmRkZE9mTHlKRGdpWHM3QUtOVGNRaWNSZE5Ob0dPSFZHdGUxQ1UwU1RTWmFLTlgtUE92S0dpb1huZ0Q4NjlQU2VrTm1YT1FUbVFuNGM1ZS1lbEc1djdBX3lWZm84UUIxbHhWeHZkcVNUOXhkNnNrZEplVXdrLTN3ZU93eDVxUXpscTMwc1BRdjZGbHNTNXhJU0dhakhlcWtUbXZGdjk1bFJteFpEeEdyeGdjZWpacw?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- BrahMos-NG: India's Most Lethal Missile Yet At 4,300 KMPH And 800-KM Range - News18
+  BrahMos-NG: India's Most Lethal
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPTXlXQWdaYnpDVUpjeGdBeE14NTJEQzZvMU5rVzJZbXlVYUlRbzV2N05KWFhNbjBsUWpUeHA0V0YwbTJ4dG5LMnFrN2l0c2hBTkpoRGFVa0wyenBTelpkaDhfMGx6blVER3hvdnJTQy1DX243RmU4bkVsbGk0VnpZcmVPQU5WMkVpaWJMZVQ0ZkNDanZtVWhwQWZmd0FRbl9pLWloODk5YUpQaWxRR1pILWFWd2pIRE5aWVZyTG43dXg5eDZmS2tSQjN5MGrSAdIBQVVfeXFMTnlZRHc2ZmVKazUzbEpoY3g5ekJlYkRJdzludk5aVHM4Q0xYbFVOR1FIWEJhMVcydTM2NVZGMDAycWhyaXpLNWtPQ0pLRS1fc0tWdXJLQ2MtVVdOUnVEMVE1Y1J5VFF2eS03YldCRWdpSk0tOUhHZlhEMUlOZDczTXllNC1OY0Z5RDZtSk41VXFSdXc2b0c3QmNfZmtNUW95M0Zqd0hFZkJLTDB5Z1hRcGJMRlkxZHk5SW9YQlZhUXpaeUFyaDdYZEJqYUh0SkZXWlFn?oc=5
 
 
-_Last updated: 2025-10-20 06:28:42 UTC_
+_Last updated: 2025-10-20 12:35:50 UTC_
