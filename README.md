@@ -1,5 +1,9 @@
 # 📰 Daily News Summaries
 
+- Centre plans play on Sardar Patel’s life, NSD to stage it in cities across the country
+  
+  🔗 https://indianexpress.com/article/india/centre-plans-play-on-sardar-patels-life-nsd-to-stage-it-in-cities-across-the-country-10318025/
+
 - JMM says it won’t contest Bihar polls, blames ‘political conspiracy’ by Congress-RJD for decision
   
   🔗 https://indianexpress.com/article/india/jmm-wont-contest-bihar-polls-political-conspiracy-congress-rjd-decision-10317907/
@@ -15,10 +19,6 @@
 - 5 stories you must read today, October 20: From Ola CEO booked after employee suicide to Banke Bihari temple’s treasury chamber opened and more
   
   🔗 https://indianexpress.com/article/india/express-catch-up-5-stories-you-must-read-today-october-20-10317693/
-
-- For ‘larger goal’ of beating BJP, Congress leaves J-K’s Nagrota Assembly seat to National Conference
-  
-  🔗 https://indianexpress.com/article/india/larger-goal-beat-bjp-congress-jammu-kashmir-nagrota-assembly-seat-national-conference-10317625/
 
 - This kitchen assistant can help you get any recipe right
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/under-a-thousand-perfect-portable-power-strip-10316278/
 
+- Singapore’s Keppel buys Shell’s 49% stake in Cleantech Solar for $200mn, plans to flip company for $400mn
+  Keppel Ltd has acquired Shell's 49% stake in Cleantech Solar for approximately $200 million, gaining full control of the company. This is the latest corporate action in India's busy green energy sector
+  🔗 https://www.livemint.com/companies/news/singapore-keppel-shell-cleantech-solar-stake-sale-india-11760712505008.html
+
+- Trump Official Warns China Against Penalizing Companies Investing in US
+  Trump administration warns China not to retaliate against foreign companies helping the US to develop critical industries. Beijing last week sanctioned the US units of a South Korean shipping giant over its plans to invest in
+  🔗 https://www.livemint.com/companies/news/trump-official-warns-china-against-penalizing-companies-investing-in-us-11761004182042.html
+
+- NASA Opening Up SpaceX Moon Landing Contract to Competition
+  NASA wants companies to compete with SpaceX over a contract it holds to put astronauts on the moon.
+  🔗 https://www.livemint.com/companies/news/nasa-opening-up-spacex-moon-landing-contract-to-competition-11760990646232.html
+
 - Amazon to pay reimbursements for ‘duping’ Prime customers from $2.5 billion settlement — Here's how to claim your $51
   Amazon has agreed to a $2.5 billion settlement with the US FTC on antitrust charges. Here's how to claim your $51.
   🔗 https://www.livemint.com/companies/news/amazon-pay-reimburse-prime-video-customers-duping-2019-2025-2-5-billion-settlement-how-to-claim-your-51-us-ftc-antitrust-11760969345792.html
@@ -48,37 +60,37 @@
   iPhone, iPad users in China alleged that global tech giant, Apple charges high commissions from its consumers while abusing its market dominance
   🔗 https://www.livemint.com/companies/news/iphone-ipad-users-in-china-claim-apple-charges-high-commissions-abuses-market-dominance-heres-what-we-know-11760952398900.html
 
-- FIR against Bhavish Aggarwal, others after Ola employee dies by suicide; company seeks relief from Karnataka HC
-  K Aravind, 38, was working with Ola Electric
-  🔗 https://www.livemint.com/companies/news/fir-against-bhavish-aggarwal-others-after-ola-employee-dies-by-suicide-company-seeks-relief-from-karnataka-hc-11760954774887.html
+- Muhurat trading returns: Is the auspicious Diwali hour a profitable bet?
+  Dalal Street's auspicious hour is shifting to the afternoon for the first time in decades. Muhurat trades are for long-term faith, but data shows
+  🔗 https://www.livemint.com/market/stock-market-news/muhurat-trading-diwali-stock-market-indian-stock-market-diwali-muhurat-trading-bse-nse-11760695999540.html
 
-- IKEA owner Ingka Group will buy €720 million forest land in Europe to boost ‘sustainable raw materials’ for furniture
-  IKEA's largest franchisee, Ingka Investments, is acquiring €720
-  🔗 https://www.livemint.com/companies/news/ikea-owner-ingka-group-buy-720-million-worth-forest-land-estonia-latvia-europe-boost-sustainable-raw-materials-furniture-11760951036545.html
+- Insider trading: Crackdown deepens as Sebi targets bigger cases with new rules
+  Sebi is intensifying its crackdown on insider trading as illegal gains soar to record highs. Expanded definitions of price-sensitive
+  🔗 https://www.livemint.com/market/sebi-insider-trading-crackdown-new-rules-11760869393072.html
 
-- Tycoon Geminder Is Said to Weigh Sale of Asia Businesses
-  Australian tycoon Raphael Geminder is considering selling the Asian operations of his packaging companies.
-  🔗 https://www.livemint.com/companies/news/tycoon-geminder-is-said-to-weigh-sale-of-asia-businesses-11760937957709.html
+- Gold’s Record-Busting Rally Resumes After Dip-Buyers Emerge
+  Gold edged closer to the record high reached in the previous session. Traders took advantage of a sharp selloff at the
+  🔗 https://www.livemint.com/market/commodities/golds-record-busting-rally-resumes-after-dip-buyers-emerge-11761004484814.html
 
-- Multibagger stock hits upper circuit on all 87 straight sessions ahead of Muhurat Trading session 2025
-  Colab Platforms shares will be in focus of the investors during the Muhurat Trading session 2025. The company stock successfully hit its upper circuit level for 87 times in a row.
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-stock-colab-platforms-hits-upper-circuit-on-all-87-straight-sessions-ahead-of-muhurat-trading-session-2025-11760972437360.html
+- Deals for Startups Reach Record in Japan Before Listing Curbs
+  A plan to cull the smallest listings on the Tokyo Stock Exchange is spurring a record number of buyouts of young companies. Tokyo’s push to create more billion-dollar startups
+  🔗 https://www.livemint.com/market/stock-market-news/deals-for-startups-reach-record-in-japan-before-listing-curbs-11760995569905.html
 
-- Bitcoin price jumps over 3% to $111,596. What's fuelling the crypto rally today?
-  Price of crypto benchmark asset Bitcoin jumped more than 3% to $111,596 on Monday.
-  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-price-jumps-over-3-to-111-596-whats-fueling-the-crypto-rally-today-11760965403123.html
+- Wall St ends sharply higher as earnings optimism fuels risk appetite
+  Wall St ends sharply higher as earnings optimism fuels risk
+  🔗 https://www.livemint.com/market/stock-market-news/wall-st-ends-sharply-higher-as-earnings-optimism-fuels-risk-appetite-11760991501587.html
 
-- Wall Street today: US stocks surge with focus on earnings, inflation data
-  The Dow Jones Industrial Average rose 0.55%, the S&amp;
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-today-us-stocks-surge-with-focus-on-earnings-inflation-data-11760967256098.html
+- Amazon says AWS outage ‘fully mitigated’ after major global disruption hits Snapchat, Venmo,  Reddit | 10 updates
+  Amazon restores AWS after a global outage cripples major apps including Snapchat, Venmo and Reddit. Engineers
+  🔗 https://www.livemint.com/technology/amazon-says-aws-outage-fully-mitigated-after-major-global-disruption-hits-snapchat-venmo-reddit-10-updates-11761003575421.html
 
-- InCred Equities turns bullish on Indian stock market; raises Nifty 50 Dec 2026 target to 28,433
-  InCred Equities upgraded its Nifty 50 target to 28,433, citing easing valuations and signs of domestic consumption revival. The brokerage anticipates a 40% chance of
-  🔗 https://www.livemint.com/market/stock-market-news/incred-equities-turns-bullish-on-indian-stock-market-raises-nifty-50-dec-2026-target-to-28433-11760964329255.html
+- Amazon Web Services outage: Here’s how many users are impacted and the downtime costs
+  An expert estimates the economic fallout from the AWS outage could reach billions of dollars. Mehdi Daoudi, CEO of Catchpoint, noted that losses include halted business operations.
+  🔗 https://www.livemint.com/technology/tech-news/amazon-web-services-outage-here-s-how-many-users-are-impacted-and-the-downtime-costs-11760984773968.html
 
-- Small-cap stock under  ₹200 jumps 10% after Q2 results 2025
-  Bhageria Industries' shares surged 10% to  ₹188.60 amid strong Q2 results. The company also reported robust H1 performance, reinforcing its
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-200-jumps-10-after-q2-results-2025-11760960260503.html
+- AWS outage explained: Causes, affected services, impact, and recovery efforts- all we know so far
+  Amazon Web Services (AWS) experienced a widespread outage that disrupted millions of users and thousands of businesses globally. What we know about causes, affected services, impact
+  🔗 https://www.livemint.com/news/world/aws-outage-explained-causes-affected-services-impact-and-recovery-efforts-all-we-know-so-far-11760983845814.html
 
 - Elon Musk mocks AWS outage, promotes X Chat as most major apps go down
   Elon Musk praised his platform X for remaining operational during an AWS outage. He criticized Signal, suggesting X
@@ -88,37 +100,25 @@
   iQOO 15 is powered by the latest Snapdragon 8 Elite Gen 5 processor. It boasts a 7,000 mAh
   🔗 https://www.livemint.com/technology/tech-news/iqoo-15-with-6-85-inch-amoled-display-7-000mah-battery-launched-price-specs-and-all-you-need-to-know-11760967867204.html
 
-- Snapchat down: Users complain about losing friends and streaks vanishing after AWS outage
-  Snapchat continues to experience outages due to the recent AWS outage. Downdetector reports over 21,000 outage reports peaking at 3:12 AM ET.
-  🔗 https://www.livemint.com/technology/tech-news/snapchat-down-users-complain-about-losing-friends-and-streaks-vanishing-after-aws-outage-11760964563665.html
+- Markets News, Oct. 20, 2025: Stocks End Sharply Higher to Begin Week; Apple Hits All-Time High; Gold Recovers as US Government Shutdown Drags On - Investopedia
+  Markets News, Oct. 20, 2025: Stocks End Sharply Higher to Begin Week; Apple Hits
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE9nWXd0T2FBRk5hZEJhbzhoWVd5M2ctOVBySmFIXzlIT1Vld09SR2VxaW1kbXlHcnFFMDBGQmRBVExmX1J0Vlk4c2NBQTNCVXpZUkVPODhKdnJad3RObnNMZUNlV1pUbV9Hb0VVZ3JaZw?oc=5
 
-- AWS says it has fixed the problem that crippled half the internet but many popular apps are still down
-  AWS has fixed the DNS issue that caused widespread outages affecting many popular websites. While most services are now operational, some like Reddit and Snapchat are still recovering.
-  🔗 https://www.livemint.com/technology/tech-news/aws-says-it-has-fixed-the-problem-that-crippled-half-the-internet-but-many-popular-apps-are-still-down-11760961280266.html
+- Dow closes 500 points higher as Apple revives stock rally - CNBC
+  The Dow closes 500 points higher as Apple
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5vNVVUaWxZNFdaZV9pNzlNdHFmY3VCc2swZGg4UzBibXNEYy1QVlp0WGtnUDdKTUJLUEFPWEhWdkZQU2pMb0Z5LVRPM0ZRVkJTNWZmN3dKRUtaVE1mYU1qNk1HUk44Z0dJQ0NqV3pXVGRQMllic2lv?oc=5
 
-- Amazon suffers major outage hitting Coinbase, Snapchat, Robinhood and much of the internet
-  A major Amazon Web Services outage disrupted much of the internet early Monday. Apps such as
-  🔗 https://www.livemint.com/technology/amazon-suffers-major-outage-hitting-coinbase-snapchat-robinhood-and-much-of-the-internet-11760959407430.html
+- Dow, S&P 500, Nasdaq jump as Apple leads tech stocks higher ahead of busy earnings week - Yahoo Finance
+  Dow, S&amp;P 500, Nasdaq jump as Apple
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxORjMwVUhmdlFMdUg4QU5nck1tYnl4ZklEVVhINDNpTVlJUHBRc0R5VDRncGszOVQydUo0Y3NORUNEaFphd29jek5EazhDcHpNLTEwS2dMN2ZHcjF4MHl4em9RVTNacU9sZFVoZGEwOW9sUDc3UUdWQUhjYWsyVk9Ial9ad19lTVVrN0R3aFVOdi02WDMtNzdnSTJaMnBsNEtYSG84LVVjMFp4RFpCa0hJR2NLVkpuUWpiN21SOFZaTGd3b3JvSWNpdEVObDNDaVdj?oc=5
 
-- Dow jumps 500 points as rally accelerates Monday on the back of Apple: Live updates - CNBC
-  Dow jumps 500 points as rally accelerates Monday on the back
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5vNVVUaWxZNFdaZV9pNzlNdHFmY3VCc2swZGg4UzBibXNEYy1QVlp0WGtnUDdKTUJLUEFPWEhWdkZQU2pMb0Z5LVRPM0ZRVkJTNWZmN3dKRUtaVE1mYU1qNk1HUk44Z0dJQ0NqV3pXVGRQMllic2lv0gF8QVVfeXFMTmFrTFNBcDdMNWtTaThjeFlWdlRGcFNTQmlCd2tzaFRjNm9ZbWtSZ19CSF94a2ZpcF91RHZRZlo2WHJkaDhQNnA5VktvYXdNU0FKbTVqX0d5TDkzTk9ZWFNCSFRfcEMxS2U4VDItNmVrOExxMjY2TXpJcXhBYg?oc=5
+- Markets rally: Sensex, Nifty extend winning streak; Reliance, PSU banks lead gains - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTnNKQlBCSUtOWFZtYWdKRTVFUXJDVW9LSzdQSzVoV1U4aWxJTWNqMEMweEdBeXNNd09EbHRjblB4RnhmUW5qNm5RenRKWUFZelY3WnJVMjBlcEpuc2wxenhmaDRtWXAtbz
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTnNKQlBCSUtOWFZtYWdKRTVFUXJDVW9LSzdQSzVoV1U4aWxJTWNqMEMweEdBeXNNd09EbHRjblB4RnhmUW5qNm5RenRKWUFZelY3WnJVMjBlcEpuc2wxenhmaDRtWXAtbzZXaGxzRnFTZ2lfTjhTZ2xpa0d5NjM3clpUeGdUbVJ5VG1vQjBxSkRfLUMyeWFJSFF2THczSzBwSHJUZDN2Umh2MldjRHJqUnBUS2dkZFBWUHMzZ21EbGdIeF92LUNDNXg5X3AtYmhRcDZBWVBVSDBPMzdjZjZSV29weGhYLVpuRlpMb2hZV3RFazVnbDFJ0gH8AUFVX3lxTE9iQ1dad2xBZ3VfcXNJZEI2b1luZlY1UHNWUlN6MDRNeUpsSFB3UHhYSDV1RmhNRUdOV3poSDBpWDNnRkx5M2ptMXZlMDVtMnQ3cEpwNGE3dm1BaEoxOUd1anZUZ2NvY1dEMEdfR1c5WjlHNmVhdHBkYzFoVWVUQkFFLWZoN19NMF9DTDI0RlB0VmwwSzBnZFBCd1daSWxRWmZudU9TLW5ScldvcGlSb081S0huMnBfbTRJVTYxUXZuSFRpaWVXR09TUWtTMnVOY2F6Wm5QZjYxRTJaRG9xUlY5QmdlamlzMFVNUHNnZFIzVElNLXp6aERWd3F2aQ?oc=5
 
-- Stock Market Today: Dow Rises Over 250 Points; Busy Earnings Week Begins — Live Updates - The Wall Street Journal
-  Stock Market Today: Dow Rises Over 250 Points; Busy Earnings Week
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPSkZndFFfQVRnOWVMZ2RWamhsOVpVT2Y1Z1U1NFphLUkwX2NxUmJqMVV2RkQ5MG9hZUNkbk9POU5TN3lCLThjX29scDhmY0dyVlczV24yemlqc2xUNDEzTEttSE5xZDR1R0NVbFN6c0RZOFB4b2plM0dsUFYyOF9ROTV5U2x5ejA?oc=5
-
-- Stock market today: Dow, S&P 500, Nasdaq jump amid trade-war lull, with flurry of earnings on deck - Yahoo
-  Stock market today: Dow, S&amp;P 500, Nasdaq
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU0JFN0ViZ1gtR2dBcWdRbmNHUV9fVElneDFtSDVYTHRiQTRtdnVJNDR6Z0xvX2diejVBdFlPaW83cEc4aWRfejlTc2toT2ZTU1VFOGw2Qk5sTzRkRXd1TEhDMFhxQmZ4VVlrMmZaQk5Fc2NfeXVYUnllT0FnWUpDQlpwWVZPT3VPb3RoMFFFZm82TVgwbmpZT2NTU2otRGIzWmJ1VVo2ZmNfUERGNUlwRXpvYVpsTmFDY2tTMVVyT2FuSmM4N3NyVE9WSHF0dzBrY1NyREVlVS1JQQ?oc=5
-
-- Diwali Stock Market Holiday: Are NSE and BSE open or closed today for Diwali 2025? Check now - The Economic Times
-  Diwali Stock Market Holiday: Are NSE and BSE open or closed today
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdThvemtaX3ZRZFNLOGppRThmdEhKc1kxVWVaOHBWQlJ5QmU0SmFVcHlDRE1wZ3IyRGNwRFN1ajNkSjdzcnNVaV9DSFdNSldhUjJfTFF6N0RveWlLdkd1ZUlKc2xrNkQzTTlkaEdkSnRhTmNDeHA5SkxMV2RCeWJZUkJsNmFjTjEzSXNQa2tTdEFjUXBIOFhnQzJYY3NPZVM4bkJ1Q2dKN0NmdWZwNlU2MnBadVpRX2tSM1VRS1R6bTBVdjhTeUlOaWpDY1lkWmZ0TkhoRU1HVGhRN2NYQ0lTMy05T21YOWc1ZndSY3FlMFp0OVNiekhr0gH8AUFVX3lxTFBCdGhaMS1BeVh6cEw2bTZWcHBlYlE3SkJPRENaQnlnbmlKY1FuMVpoaXBlY3RscVBTaW51MndhZTZiVDZ2OEdKNmVaem9yXzBVQ1QxTElENjRJTS1vS3RJOEFwX0Z3bzRoN0F2b0I0WC1ZTXEyalFSYXZJTUdncXJ1bnljOVdWV1lSVk1mZHBJTktseUs3eFl2T1ZSazJ3SUFXNHVqTDl3R1gySWl4Ui1YSzRBSzhKbW1ScWlUVlVlejgtcTFDYjhQTkZZQndVSWtNeDZQeV9aQ2xPSi1nMGtzd0NSb3BLMEVId2hIX2JUYXB0ODFEZHo5NE03Rw?oc=5
-
-- BNP Paribas Financial Markets acquires 1.9% stake in RBL Bank for Rs 377 crore - Moneycontrol
-  " target="_blank">BNP Paribas
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFFGOXV3dG9LRkZMZm1nMmQzeDE0eTFsckg4VEl3RTBfWUZjNnFfLS1zUkNPWVdabTRQQXZrUk42M0V0aFdGWDFYSEJzWGdZNGtqdVlXaUo2RVd3UExCOE8wS2ZPbmYyc1hWNHgzY1JlM2ZrTGo3WjVrS2FseXdtMUZtN1RRRW5aYllvZGRaVElyQXgwcFNIQ05LS21wS0xGZVhZakdLaTVFWVE0OHhKN3NIRkxPaGdSOGxPbDJ5bzgxZDZBREJfOHllY1pQUHZxNWRmS2FxUENZd9IB3wFBVV95cUxPTDFPbTRHSXNzN0Z0U0lSbWtmbTBDckFQc0h2Zl9ZWmx5NzVZMDhpVi16RHNmNEJyWHByV2JjMjJmY0RZWkVINEVSTFVyd2xiRUlROHUzVk9WVzRfV094d3h1dmhLVTY0djR1eEdTcml0ZnNKSTVRTkxIWTVMbWp3ZTllQ1BWQWtpdEp1emRNQmQtY0p4aURnMU40N2lHd2tqbTBPYTJuV2dvSmVfQ0laU0FOZHNLZHh0VUNPcFF2dU05VXJrNjB5ajNvNlFDYWNnX1J0Y09pTDl3TE1lcWJ3?oc=5
+- Weekly Markets Monitor: Gravity dismissed - World Gold Council
+  The World Gold Council is
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPQjhCRlJ0dTNEVzlZRWRQSFV4NEhGY3VKREFwakpIVWxQTUVPQ0J4X2Z2RGhaYTViOTRDZS1FdVdVLWFWYy1rUTB4dGxrclRYalZYTG5JWEY5djNudFE0YVA2RnhZUE0wZDBVb29EbTZlaGtwVW5idU1vZUFpdFFKTmRlZDI4dWdMY2o4V0ZtOXJCdw?oc=5
 
 - Market Trading Guide: Buy Bank of Baroda and Aster DM on Tuesday for up to 12% potential upside
   Nifty ended Diwali trade at a 52-week high led by Reliance Industries. Experts expect further upside toward 26,200. Analysts recommend
@@ -144,109 +144,61 @@
   India Will Continue Paying Massive Tariffs Over
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPazJPYnFfQzZXNGdyRHY2ZWx0LUN6U1RsQnNJaF9ITEE0UjJEMkNoM09qNWYwb0xCTVBmaVNSWHNCbGlQaDEwQUdnbmtqSWRrMFVqbDJidVZRLTVRaHZSV3M3RG1IRnN1RmlWdEdzVEdCTTBEX3ZvYVpRbEtEeTdsR1UxTFhtUnlhandzMVlJSDNHbGdTZl92aVBMMHBqUGVGTGJrbFV1LVdOYkM4SXBBaFl4SUhuQi1VTm9uTkY3al9ERU1yZURBUVBsYWJNZmJTY0HSAdoBQVVfeXFMTkxUeERjYU5jNWtmWVpuMEpGaTlrSTRHZld4LVVTZkJOeFZWSXdxczRGd1hjdGgzNHJQbVVDbjdxUzZheHVDd0lCVjNjOWNELWhWM1l2VUJkenN2eE93NFByUzNoekMzY3M1Z2wxUmRBVHJrbnUybXkwZjRMZUctSTB2TWZPakxOdkJBRjBFNmxpRjNTZkdUa0hKbF9pcU1od2FyejB4UHVsN09VUjJSTU1BVEhkbDRFZU5RQl9PR3V0UnU2ZTNCdHhNZHZBaWdIOVBySk5aNXBLZEE?oc=5
 
-- Donald Trump's 'massive tariffs' warning on India buying Russian oil - What's the latest on trade talks w - Times of India
-  Donald Trump's 'massive tariffs' warning on India buying Russian oil. What's the latest
-  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxPRVFNX3FpQ1dKOFpSZ0RGQWJndzdSUEFlY0NYWXQydmxPUWdBTUNxVHc0V3dmak5DMENBTHNvNkRYdGtud1RZVU5oNUg1Y2hNc3lWX0JXVlBGUGdXQmtKdHlUWDZweWFmYTRZUjV3SEl6SXZ4RUk1SzJHMFh2LS1RRmdESVYtMjlwU0xVX1VfNVdXUFlVQWozYVJaekQ1QTlyU283TGVzc0ROb1NwcTF1V0pEZDdGeGZROExJQWlYWWs1VlhVcHZWV3plYkxqeENDRkl0SXhDdXEtUEptNlZGa0puaWxPZkJiRlhMSk05SDZoTjNVcGZ3YTUxZlJHRlZtSjFkQVVvZ1NxRG9ZaHdoOFMxaUJGZWMxSFVZdHJ6dHRrZ3dJRjJVYUFB0gGvAkFVX3lxTE5paFFfckRSRm1VOGQtd1ljTnU1aFRVN1JKTnV3V3Ewa2Z2WEJldi13YWQySG9TLU01RXd6Z2loXzktSTRFVU81d3B4NW4xN0tad21TU0xZX3hSR1VxRTlzU3phS0dvT0JvNEpXa2FGS3lNNXBkQmtJYlk2b3NVaG9lZFRrRU9nTXZ2OGNLS0k1VF9wQ0l4QTlwcVQ4WHRwd0ZXTG9rZk4wUFpiNXFEd24zSmt3Z3dRSlI1ZlZjeTVVQm85bTAtQllCdkxjYmtJbHpRcDZtMnJBaS1DMFJ0dDZWT1hvdDdCS3J0M0cwcEpTdGpKM1RoZWdKMTA5RHJsaE1sNTRaUnlWMHdGZ091Wk5HbDBJZFNhWDlJRTVuY29KVDdHVnlUREYtYjVmTEVpNA?oc=5
-
-- India casts doubt on Donald Trump's claim Narendra Modi will stop buying Russian oil - BBC
-  India casts doubt on Donald Trump's claim Narendra Modi will stop
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE04QkdNRWxfY1c4Rml0aG9ESGR6YXRBZ3F4SThKM0xuQjdUd3dsZ0lxdS1ZU2ttQVBQaFozTjdZeWVIbzR2WG5iWUZXRUpaTnN4eURiNUI0SXpVQdIBX0FVX3lxTE1CUG9vSWFHbTJmLWxQYWo0TTd6SURFZFhjd01mNDRabUhLRFliaVB0RlM0bnY2ekZOdF81aXVUaENJaWRGSGt6Sm5RcFVpYUg2eTQycFd5TDZTd2ZETFJF?oc=5
-
 - Upgrading strike capability: India tests 800-km BrahMos - Times of India
   The Indian government is upgrading its
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXljRllMVDVNTkJWbGNORXFvazZDVXlpV3hJai1GTmtPamxrbnJuRlV0aXJTM05VOUFqMFl1MjJSZlUwQ3RNRUdzQVZHY3RaaDVXQXJRQkU3dnAzemN0bFlHdWowMHNwTTZ2MXktRm1jUXVhQWFqaEc2SnZwU0p6TVJ4T2JIZVFZazhLbWJZUVRpandITXBPS3VrdUJKMC1Bc0FFb0RfZTZXYVVXb1NFVU5UMWNxT1VpU0JjZmhOTdIBxAFBVV95cUxQTG5TNGk2T3RUbTBJZWg4NWFta0VCeUF4MjJucDVnVjNCQTVvVE85SFFnYU1pRTV1ZUJyZmRpcmpzX0F2Z3RoaWtCNnowdXJJN1J0bXk5a09SS3FNVS12OVI4RU5jSlZ4RjZPdGlUQlViR3JkNnN0ZzdGS3ZIT0N3UHJqajQzWlRteVVRZ3NMZjhQVXY3bWVwX2RNSzRnYXdLWFNDbzdsOGxpWlRSNGowQmZSbXpadGp6Mzlxa3FYcmJUYlpM?oc=5
 
-- Diwali: India sparkles as millions celebrate the festival of lights - BBC
-  Diwali is a festival of lights
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE95dFF0M1ZLUDBWS0lUV0xqd3VQYnhaaVpUdnVSaHhBa1g5RWdpam8wdWV5V2lLcFE5dVhhcERDQzlLVGJYWnRXbjkwUlJFMUZGamxoRU4xOGZsUdIBX0FVX3lxTE5sUVI5Ump4ZDZZZGZLaHE2TkhHZFc3c2k2am1CWDlaSFozdGpYQlNDMTkzeV9WV01TVTdjT3dzbVZRMlpDai1ZaEJsSThud3hGMDFMYlZqdkJ1c2Ffd2R3?oc=5
+- Vision 2047: To build $5 trillion economy, enhance Metro grid | Mumbai news - Hindustan Times
+  " target="_blank">Vision 2047: To
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeUhuT0VBTmxMdmZTWjBsV2RLTWotMENyTHgweVNUaWJHRVZKTG9ycTg2SThkY2tMbVc0WjZMQ3RQUnVlZUhSS0F1bkZOT05BWWRIcFBhV3hWOGcwSUtZMlpWb0ZRV0ZJQmNQSWwyNmhKRUpBdXhlSkVBR2RJTldUb1o3MXFJLWJGNWhWei1mN3ZKRVU1OWljeU9KTGFVanZ4UWZDTTdmR1l3T2ZPVzZ5WXhhd3hEYzFoNUNDYWdhV1dFVkVoSDV2ZtIBzgFBVV95cUxPdkhXZG1ycGdVQ21kY3JYQVpVNjc5SzdZS05PVjUxMXpKUWd0c1c3aC1ibG1fWFNMZjFlclh6bC14YmtEM0Y1ejRyYUVUcjljb2lkOTJXaWVvcmJRbHlBeE5kR0ctRXBZa0p6bnJ1ZVhYQmx4NWRZRk50V1pfQU8yT3ZXTGtWZkxBX25uMHUyaExGLVNfM2hTQk1zbmZnNm9CUlRoMUE3aG16cU9vNF9FdlhENWxNX1RBUGhNWkNrSmFMOUJqR3Yzem1WX3ZNUQ?oc=5
+
+- Nagpur’s Neha in Indian Athletics Team for South Asian Meet - Times of India
+  Nagpur’s Neha in Indian
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQRFZWUjkwWXFBaUdNbi1LakNPLTV3bThDQzV4bWNObzZyTVNsSTA4aDhZMFFMQUJZSTl2dC1rVGxxdU53RkxXVTRLYUlYRFJJTi0tLWVnS1ZEMm9QZTFCcndkQWtJeDZVRVZrd0Fnc2lMb3dIc29JckN3M0Q5REJ1Q2l6RkN3ZVB1RFZSQ0FERUFJb2tRMW5VbVozbVZJNTAydFFEaWFxLXA4QS1hbWV5VHRqbGZUbUZvWTZHZVk5MFBRV3hucE1PU1N6c2nSAdIBQVVfeXFMUGZtc2xodzlRRzZQNHhRVHBfRGFlamNJX2IzUi1ZYkhjQnFkTFdtWTVUNm5xRUlfWFJ0ck5ZVnZjY2ZwcUx6UDdldXBodXQtMVZxWGlyb0tRVUJxblpzbzlBNm5DZTJscEV4YlBjam8tSWJYUy1rVVhNWDNVdmdpN0VhQkFPbGp4UE1UX1ZQYm1VUnJvbkNya2JRQmItV2pVQ01pd2tqajh4WWNUQzhZdm80TEFjYVJZN0NpQ1JLWEpzNzBoVTI2M2NVVVlfZ0xXSUZR?oc=5
+
+- Top news of the day: Delhi’s air quality plummets on Deepavali; Trump says India to pay ‘massive tariffs’ if it continues to buy Russian oil, and more - The Hindu
+  Top news of the day: Delhi’s air quality plummets on Deepavali; Trump says India to pay �
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQMTQyZFJMN0JTUnZQQWVoT29lS2o3aHB3SEZ3d1ZFV1lYVmxBdGdGQk1tY1R0TDFYckJWb2JGLUVVakFreDFFbzYteU1yTFRNcXdoMGNwS0M1Ql9NQ0x2VUJKWWllRS15eUFSaDR0aVRKVzgxNy1Cb292LWlWcmN2NmZnRHctbkREYnlnb09n0gGUAUFVX3lxTFBldUFPaTk5c0NuSFVLOUVleDJZUnY4ZURBUmtXZVlIemJlaUpjQ0JiZzF0SEwtWTlZWWFPS3dTN0R1aEJxSDhqdy15SDE0TlNBVVJIMndmUXRHQVhCQVBjNTRuRlN1WmNXOWU1Y2ZuUkhGTHQwakc3cUFlNWRfMjBNVW5JMEl0aGdjVkhOQ2pYTkQ5WFk?oc=5
 
 - India Will Continue Paying Massive Tariffs Over "Russian Oil", Says Trump - NDTV
   India Will Continue Paying Massive Tariffs Over
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPazJPYnFfQzZXNGdyRHY2ZWx0LUN6U1RsQnNJaF9ITEE0UjJEMkNoM09qNWYwb0xCTVBmaVNSWHNCbGlQaDEwQUdnbmtqSWRrMFVqbDJidVZRLTVRaHZSV3M3RG1IRnN1RmlWdEdzVEdCTTBEX3ZvYVpRbEtEeTdsR1UxTFhtUnlhandzMVlJSDNHbGdTZl92aVBMMHBqUGVGTGJrbFV1LVdOYkM4SXBBaFl4SUhuQi1VTm9uTkY3al9ERU1yZURBUVBsYWJNZmJTY0HSAdoBQVVfeXFMTkxUeERjYU5jNWtmWVpuMEpGaTlrSTRHZld4LVVTZkJOeFZWSXdxczRGd1hjdGgzNHJQbVVDbjdxUzZheHVDd0lCVjNjOWNELWhWM1l2VUJkenN2eE93NFByUzNoekMzY3M1Z2wxUmRBVHJrbnUybXkwZjRMZUctSTB2TWZPakxOdkJBRjBFNmxpRjNTZkdUa0hKbF9pcU1od2FyejB4UHVsN09VUjJSTU1BVEhkbDRFZU5RQl9PR3V0UnU2ZTNCdHhNZHZBaWdIOVBySk5aNXBLZEE?oc=5
 
-- Donald Trump's 'massive tariffs' warning on India buying Russian oil - What's the latest on trade talks w - Times of India
-  Donald Trump's 'massive tariffs' warning on India buying Russian oil. What's the latest
-  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxPRVFNX3FpQ1dKOFpSZ0RGQWJndzdSUEFlY0NYWXQydmxPUWdBTUNxVHc0V3dmak5DMENBTHNvNkRYdGtud1RZVU5oNUg1Y2hNc3lWX0JXVlBGUGdXQmtKdHlUWDZweWFmYTRZUjV3SEl6SXZ4RUk1SzJHMFh2LS1RRmdESVYtMjlwU0xVX1VfNVdXUFlVQWozYVJaekQ1QTlyU283TGVzc0ROb1NwcTF1V0pEZDdGeGZROExJQWlYWWs1VlhVcHZWV3plYkxqeENDRkl0SXhDdXEtUEptNlZGa0puaWxPZkJiRlhMSk05SDZoTjNVcGZ3YTUxZlJHRlZtSjFkQVVvZ1NxRG9ZaHdoOFMxaUJGZWMxSFVZdHJ6dHRrZ3dJRjJVYUFB0gGvAkFVX3lxTE5paFFfckRSRm1VOGQtd1ljTnU1aFRVN1JKTnV3V3Ewa2Z2WEJldi13YWQySG9TLU01RXd6Z2loXzktSTRFVU81d3B4NW4xN0tad21TU0xZX3hSR1VxRTlzU3phS0dvT0JvNEpXa2FGS3lNNXBkQmtJYlk2b3NVaG9lZFRrRU9nTXZ2OGNLS0k1VF9wQ0l4QTlwcVQ4WHRwd0ZXTG9rZk4wUFpiNXFEd24zSmt3Z3dRSlI1ZlZjeTVVQm85bTAtQllCdkxjYmtJbHpRcDZtMnJBaS1DMFJ0dDZWT1hvdDdCS3J0M0cwcEpTdGpKM1RoZWdKMTA5RHJsaE1sNTRaUnlWMHdGZ091Wk5HbDBJZFNhWDlJRTVuY29KVDdHVnlUREYtYjVmTEVpNA?oc=5
-
-- India casts doubt on Donald Trump's claim Narendra Modi will stop buying Russian oil - BBC
-  India casts doubt on Donald Trump's claim Narendra Modi will stop
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE04QkdNRWxfY1c4Rml0aG9ESGR6YXRBZ3F4SThKM0xuQjdUd3dsZ0lxdS1ZU2ttQVBQaFozTjdZeWVIbzR2WG5iWUZXRUpaTnN4eURiNUI0SXpVQdIBX0FVX3lxTE1CUG9vSWFHbTJmLWxQYWo0TTd6SURFZFhjd01mNDRabUhLRFliaVB0RlM0bnY2ekZOdF81aXVUaENJaWRGSGt6Sm5RcFVpYUg2eTQycFd5TDZTd2ZETFJF?oc=5
-
 - Upgrading strike capability: India tests 800-km BrahMos - Times of India
   The Indian government is upgrading its
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXljRllMVDVNTkJWbGNORXFvazZDVXlpV3hJai1GTmtPamxrbnJuRlV0aXJTM05VOUFqMFl1MjJSZlUwQ3RNRUdzQVZHY3RaaDVXQXJRQkU3dnAzemN0bFlHdWowMHNwTTZ2MXktRm1jUXVhQWFqaEc2SnZwU0p6TVJ4T2JIZVFZazhLbWJZUVRpandITXBPS3VrdUJKMC1Bc0FFb0RfZTZXYVVXb1NFVU5UMWNxT1VpU0JjZmhOTdIBxAFBVV95cUxQTG5TNGk2T3RUbTBJZWg4NWFta0VCeUF4MjJucDVnVjNCQTVvVE85SFFnYU1pRTV1ZUJyZmRpcmpzX0F2Z3RoaWtCNnowdXJJN1J0bXk5a09SS3FNVS12OVI4RU5jSlZ4RjZPdGlUQlViR3JkNnN0ZzdGS3ZIT0N3UHJqajQzWlRteVVRZ3NMZjhQVXY3bWVwX2RNSzRnYXdLWFNDbzdsOGxpWlRSNGowQmZSbXpadGp6Mzlxa3FYcmJUYlpM?oc=5
 
-- Diwali: India sparkles as millions celebrate the festival of lights - BBC
-  Diwali is a festival of lights
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE95dFF0M1ZLUDBWS0lUV0xqd3VQYnhaaVpUdnVSaHhBa1g5RWdpam8wdWV5V2lLcFE5dVhhcERDQzlLVGJYWnRXbjkwUlJFMUZGamxoRU4xOGZsUdIBX0FVX3lxTE5sUVI5Ump4ZDZZZGZLaHE2TkhHZFc3c2k2am1CWDlaSFozdGpYQlNDMTkzeV9WV01TVTdjT3dzbVZRMlpDai1ZaEJsSThud3hGMDFMYlZqdkJ1c2Ffd2R3?oc=5
+- Vision 2047: To build $5 trillion economy, enhance Metro grid | Mumbai news - Hindustan Times
+  " target="_blank">Vision 2047: To
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeUhuT0VBTmxMdmZTWjBsV2RLTWotMENyTHgweVNUaWJHRVZKTG9ycTg2SThkY2tMbVc0WjZMQ3RQUnVlZUhSS0F1bkZOT05BWWRIcFBhV3hWOGcwSUtZMlpWb0ZRV0ZJQmNQSWwyNmhKRUpBdXhlSkVBR2RJTldUb1o3MXFJLWJGNWhWei1mN3ZKRVU1OWljeU9KTGFVanZ4UWZDTTdmR1l3T2ZPVzZ5WXhhd3hEYzFoNUNDYWdhV1dFVkVoSDV2ZtIBzgFBVV95cUxPdkhXZG1ycGdVQ21kY3JYQVpVNjc5SzdZS05PVjUxMXpKUWd0c1c3aC1ibG1fWFNMZjFlclh6bC14YmtEM0Y1ejRyYUVUcjljb2lkOTJXaWVvcmJRbHlBeE5kR0ctRXBZa0p6bnJ1ZVhYQmx4NWRZRk50V1pfQU8yT3ZXTGtWZkxBX25uMHUyaExGLVNfM2hTQk1zbmZnNm9CUlRoMUE3aG16cU9vNF9FdlhENWxNX1RBUGhNWkNrSmFMOUJqR3Yzem1WX3ZNUQ?oc=5
+
+- Nagpur’s Neha in Indian Athletics Team for South Asian Meet - Times of India
+  Nagpur’s Neha in Indian
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQRFZWUjkwWXFBaUdNbi1LakNPLTV3bThDQzV4bWNObzZyTVNsSTA4aDhZMFFMQUJZSTl2dC1rVGxxdU53RkxXVTRLYUlYRFJJTi0tLWVnS1ZEMm9QZTFCcndkQWtJeDZVRVZrd0Fnc2lMb3dIc29JckN3M0Q5REJ1Q2l6RkN3ZVB1RFZSQ0FERUFJb2tRMW5VbVozbVZJNTAydFFEaWFxLXA4QS1hbWV5VHRqbGZUbUZvWTZHZVk5MFBRV3hucE1PU1N6c2nSAdIBQVVfeXFMUGZtc2xodzlRRzZQNHhRVHBfRGFlamNJX2IzUi1ZYkhjQnFkTFdtWTVUNm5xRUlfWFJ0ck5ZVnZjY2ZwcUx6UDdldXBodXQtMVZxWGlyb0tRVUJxblpzbzlBNm5DZTJscEV4YlBjam8tSWJYUy1rVVhNWDNVdmdpN0VhQkFPbGp4UE1UX1ZQYm1VUnJvbkNya2JRQmItV2pVQ01pd2tqajh4WWNUQzhZdm80TEFjYVJZN0NpQ1JLWEpzNzBoVTI2M2NVVVlfZ0xXSUZR?oc=5
+
+- Top news of the day: Delhi’s air quality plummets on Deepavali; Trump says India to pay ‘massive tariffs’ if it continues to buy Russian oil, and more - The Hindu
+  Top news of the day: Delhi’s air quality plummets on Deepavali; Trump says India to pay �
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQMTQyZFJMN0JTUnZQQWVoT29lS2o3aHB3SEZ3d1ZFV1lYVmxBdGdGQk1tY1R0TDFYckJWb2JGLUVVakFreDFFbzYteU1yTFRNcXdoMGNwS0M1Ql9NQ0x2VUJKWWllRS15eUFSaDR0aVRKVzgxNy1Cb292LWlWcmN2NmZnRHctbkREYnlnb09n0gGUAUFVX3lxTFBldUFPaTk5c0NuSFVLOUVleDJZUnY4ZURBUmtXZVlIemJlaUpjQ0JiZzF0SEwtWTlZWWFPS3dTN0R1aEJxSDhqdy15SDE0TlNBVVJIMndmUXRHQVhCQVBjNTRuRlN1WmNXOWU1Y2ZuUkhGTHQwakc3cUFlNWRfMjBNVW5JMEl0aGdjVkhOQ2pYTkQ5WFk?oc=5
 
 - India Will Continue Paying Massive Tariffs Over "Russian Oil", Says Trump - NDTV
   India Will Continue Paying Massive Tariffs Over
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPazJPYnFfQzZXNGdyRHY2ZWx0LUN6U1RsQnNJaF9ITEE0UjJEMkNoM09qNWYwb0xCTVBmaVNSWHNCbGlQaDEwQUdnbmtqSWRrMFVqbDJidVZRLTVRaHZSV3M3RG1IRnN1RmlWdEdzVEdCTTBEX3ZvYVpRbEtEeTdsR1UxTFhtUnlhandzMVlJSDNHbGdTZl92aVBMMHBqUGVGTGJrbFV1LVdOYkM4SXBBaFl4SUhuQi1VTm9uTkY3al9ERU1yZURBUVBsYWJNZmJTY0HSAdoBQVVfeXFMTkxUeERjYU5jNWtmWVpuMEpGaTlrSTRHZld4LVVTZkJOeFZWSXdxczRGd1hjdGgzNHJQbVVDbjdxUzZheHVDd0lCVjNjOWNELWhWM1l2VUJkenN2eE93NFByUzNoekMzY3M1Z2wxUmRBVHJrbnUybXkwZjRMZUctSTB2TWZPakxOdkJBRjBFNmxpRjNTZkdUa0hKbF9pcU1od2FyejB4UHVsN09VUjJSTU1BVEhkbDRFZU5RQl9PR3V0UnU2ZTNCdHhNZHZBaWdIOVBySk5aNXBLZEE?oc=5
 
-- Donald Trump's 'massive tariffs' warning on India buying Russian oil - What's the latest on trade talks w - Times of India
-  Donald Trump's 'massive tariffs' warning on India buying Russian oil. What's the latest
-  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxPRVFNX3FpQ1dKOFpSZ0RGQWJndzdSUEFlY0NYWXQydmxPUWdBTUNxVHc0V3dmak5DMENBTHNvNkRYdGtud1RZVU5oNUg1Y2hNc3lWX0JXVlBGUGdXQmtKdHlUWDZweWFmYTRZUjV3SEl6SXZ4RUk1SzJHMFh2LS1RRmdESVYtMjlwU0xVX1VfNVdXUFlVQWozYVJaekQ1QTlyU283TGVzc0ROb1NwcTF1V0pEZDdGeGZROExJQWlYWWs1VlhVcHZWV3plYkxqeENDRkl0SXhDdXEtUEptNlZGa0puaWxPZkJiRlhMSk05SDZoTjNVcGZ3YTUxZlJHRlZtSjFkQVVvZ1NxRG9ZaHdoOFMxaUJGZWMxSFVZdHJ6dHRrZ3dJRjJVYUFB0gGvAkFVX3lxTE5paFFfckRSRm1VOGQtd1ljTnU1aFRVN1JKTnV3V3Ewa2Z2WEJldi13YWQySG9TLU01RXd6Z2loXzktSTRFVU81d3B4NW4xN0tad21TU0xZX3hSR1VxRTlzU3phS0dvT0JvNEpXa2FGS3lNNXBkQmtJYlk2b3NVaG9lZFRrRU9nTXZ2OGNLS0k1VF9wQ0l4QTlwcVQ4WHRwd0ZXTG9rZk4wUFpiNXFEd24zSmt3Z3dRSlI1ZlZjeTVVQm85bTAtQllCdkxjYmtJbHpRcDZtMnJBaS1DMFJ0dDZWT1hvdDdCS3J0M0cwcEpTdGpKM1RoZWdKMTA5RHJsaE1sNTRaUnlWMHdGZ091Wk5HbDBJZFNhWDlJRTVuY29KVDdHVnlUREYtYjVmTEVpNA?oc=5
-
-- India casts doubt on Donald Trump's claim Narendra Modi will stop buying Russian oil - BBC
-  India casts doubt on Donald Trump's claim Narendra Modi will stop
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE04QkdNRWxfY1c4Rml0aG9ESGR6YXRBZ3F4SThKM0xuQjdUd3dsZ0lxdS1ZU2ttQVBQaFozTjdZeWVIbzR2WG5iWUZXRUpaTnN4eURiNUI0SXpVQdIBX0FVX3lxTE1CUG9vSWFHbTJmLWxQYWo0TTd6SURFZFhjd01mNDRabUhLRFliaVB0RlM0bnY2ekZOdF81aXVUaENJaWRGSGt6Sm5RcFVpYUg2eTQycFd5TDZTd2ZETFJF?oc=5
-
 - Upgrading strike capability: India tests 800-km BrahMos - Times of India
   The Indian government is upgrading its
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXljRllMVDVNTkJWbGNORXFvazZDVXlpV3hJai1GTmtPamxrbnJuRlV0aXJTM05VOUFqMFl1MjJSZlUwQ3RNRUdzQVZHY3RaaDVXQXJRQkU3dnAzemN0bFlHdWowMHNwTTZ2MXktRm1jUXVhQWFqaEc2SnZwU0p6TVJ4T2JIZVFZazhLbWJZUVRpandITXBPS3VrdUJKMC1Bc0FFb0RfZTZXYVVXb1NFVU5UMWNxT1VpU0JjZmhOTdIBxAFBVV95cUxQTG5TNGk2T3RUbTBJZWg4NWFta0VCeUF4MjJucDVnVjNCQTVvVE85SFFnYU1pRTV1ZUJyZmRpcmpzX0F2Z3RoaWtCNnowdXJJN1J0bXk5a09SS3FNVS12OVI4RU5jSlZ4RjZPdGlUQlViR3JkNnN0ZzdGS3ZIT0N3UHJqajQzWlRteVVRZ3NMZjhQVXY3bWVwX2RNSzRnYXdLWFNDbzdsOGxpWlRSNGowQmZSbXpadGp6Mzlxa3FYcmJUYlpM?oc=5
 
-- Diwali: India sparkles as millions celebrate the festival of lights - BBC
-  Diwali is a festival of lights
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE95dFF0M1ZLUDBWS0lUV0xqd3VQYnhaaVpUdnVSaHhBa1g5RWdpam8wdWV5V2lLcFE5dVhhcERDQzlLVGJYWnRXbjkwUlJFMUZGamxoRU4xOGZsUdIBX0FVX3lxTE5sUVI5Ump4ZDZZZGZLaHE2TkhHZFc3c2k2am1CWDlaSFozdGpYQlNDMTkzeV9WV01TVTdjT3dzbVZRMlpDai1ZaEJsSThud3hGMDFMYlZqdkJ1c2Ffd2R3?oc=5
+- Vision 2047: To build $5 trillion economy, enhance Metro grid | Mumbai news - Hindustan Times
+  " target="_blank">Vision 2047: To
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeUhuT0VBTmxMdmZTWjBsV2RLTWotMENyTHgweVNUaWJHRVZKTG9ycTg2SThkY2tMbVc0WjZMQ3RQUnVlZUhSS0F1bkZOT05BWWRIcFBhV3hWOGcwSUtZMlpWb0ZRV0ZJQmNQSWwyNmhKRUpBdXhlSkVBR2RJTldUb1o3MXFJLWJGNWhWei1mN3ZKRVU1OWljeU9KTGFVanZ4UWZDTTdmR1l3T2ZPVzZ5WXhhd3hEYzFoNUNDYWdhV1dFVkVoSDV2ZtIBzgFBVV95cUxPdkhXZG1ycGdVQ21kY3JYQVpVNjc5SzdZS05PVjUxMXpKUWd0c1c3aC1ibG1fWFNMZjFlclh6bC14YmtEM0Y1ejRyYUVUcjljb2lkOTJXaWVvcmJRbHlBeE5kR0ctRXBZa0p6bnJ1ZVhYQmx4NWRZRk50V1pfQU8yT3ZXTGtWZkxBX25uMHUyaExGLVNfM2hTQk1zbmZnNm9CUlRoMUE3aG16cU9vNF9FdlhENWxNX1RBUGhNWkNrSmFMOUJqR3Yzem1WX3ZNUQ?oc=5
 
-- India Will Continue Paying Massive Tariffs Over "Russian Oil", Says Trump - NDTV
-  India Will Continue Paying Massive Tariffs Over
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPazJPYnFfQzZXNGdyRHY2ZWx0LUN6U1RsQnNJaF9ITEE0UjJEMkNoM09qNWYwb0xCTVBmaVNSWHNCbGlQaDEwQUdnbmtqSWRrMFVqbDJidVZRLTVRaHZSV3M3RG1IRnN1RmlWdEdzVEdCTTBEX3ZvYVpRbEtEeTdsR1UxTFhtUnlhandzMVlJSDNHbGdTZl92aVBMMHBqUGVGTGJrbFV1LVdOYkM4SXBBaFl4SUhuQi1VTm9uTkY3al9ERU1yZURBUVBsYWJNZmJTY0HSAdoBQVVfeXFMTkxUeERjYU5jNWtmWVpuMEpGaTlrSTRHZld4LVVTZkJOeFZWSXdxczRGd1hjdGgzNHJQbVVDbjdxUzZheHVDd0lCVjNjOWNELWhWM1l2VUJkenN2eE93NFByUzNoekMzY3M1Z2wxUmRBVHJrbnUybXkwZjRMZUctSTB2TWZPakxOdkJBRjBFNmxpRjNTZkdUa0hKbF9pcU1od2FyejB4UHVsN09VUjJSTU1BVEhkbDRFZU5RQl9PR3V0UnU2ZTNCdHhNZHZBaWdIOVBySk5aNXBLZEE?oc=5
+- Nagpur’s Neha in Indian Athletics Team for South Asian Meet - Times of India
+  Nagpur’s Neha in Indian
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQRFZWUjkwWXFBaUdNbi1LakNPLTV3bThDQzV4bWNObzZyTVNsSTA4aDhZMFFMQUJZSTl2dC1rVGxxdU53RkxXVTRLYUlYRFJJTi0tLWVnS1ZEMm9QZTFCcndkQWtJeDZVRVZrd0Fnc2lMb3dIc29JckN3M0Q5REJ1Q2l6RkN3ZVB1RFZSQ0FERUFJb2tRMW5VbVozbVZJNTAydFFEaWFxLXA4QS1hbWV5VHRqbGZUbUZvWTZHZVk5MFBRV3hucE1PU1N6c2nSAdIBQVVfeXFMUGZtc2xodzlRRzZQNHhRVHBfRGFlamNJX2IzUi1ZYkhjQnFkTFdtWTVUNm5xRUlfWFJ0ck5ZVnZjY2ZwcUx6UDdldXBodXQtMVZxWGlyb0tRVUJxblpzbzlBNm5DZTJscEV4YlBjam8tSWJYUy1rVVhNWDNVdmdpN0VhQkFPbGp4UE1UX1ZQYm1VUnJvbkNya2JRQmItV2pVQ01pd2tqajh4WWNUQzhZdm80TEFjYVJZN0NpQ1JLWEpzNzBoVTI2M2NVVVlfZ0xXSUZR?oc=5
 
-- Donald Trump's 'massive tariffs' warning on India buying Russian oil - What's the latest on trade talks w - Times of India
-  Donald Trump's 'massive tariffs' warning on India buying Russian oil. What's the latest
-  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxPRVFNX3FpQ1dKOFpSZ0RGQWJndzdSUEFlY0NYWXQydmxPUWdBTUNxVHc0V3dmak5DMENBTHNvNkRYdGtud1RZVU5oNUg1Y2hNc3lWX0JXVlBGUGdXQmtKdHlUWDZweWFmYTRZUjV3SEl6SXZ4RUk1SzJHMFh2LS1RRmdESVYtMjlwU0xVX1VfNVdXUFlVQWozYVJaekQ1QTlyU283TGVzc0ROb1NwcTF1V0pEZDdGeGZROExJQWlYWWs1VlhVcHZWV3plYkxqeENDRkl0SXhDdXEtUEptNlZGa0puaWxPZkJiRlhMSk05SDZoTjNVcGZ3YTUxZlJHRlZtSjFkQVVvZ1NxRG9ZaHdoOFMxaUJGZWMxSFVZdHJ6dHRrZ3dJRjJVYUFB0gGvAkFVX3lxTE5paFFfckRSRm1VOGQtd1ljTnU1aFRVN1JKTnV3V3Ewa2Z2WEJldi13YWQySG9TLU01RXd6Z2loXzktSTRFVU81d3B4NW4xN0tad21TU0xZX3hSR1VxRTlzU3phS0dvT0JvNEpXa2FGS3lNNXBkQmtJYlk2b3NVaG9lZFRrRU9nTXZ2OGNLS0k1VF9wQ0l4QTlwcVQ4WHRwd0ZXTG9rZk4wUFpiNXFEd24zSmt3Z3dRSlI1ZlZjeTVVQm85bTAtQllCdkxjYmtJbHpRcDZtMnJBaS1DMFJ0dDZWT1hvdDdCS3J0M0cwcEpTdGpKM1RoZWdKMTA5RHJsaE1sNTRaUnlWMHdGZ091Wk5HbDBJZFNhWDlJRTVuY29KVDdHVnlUREYtYjVmTEVpNA?oc=5
-
-- India casts doubt on Donald Trump's claim Narendra Modi will stop buying Russian oil - BBC
-  India casts doubt on Donald Trump's claim Narendra Modi will stop
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE04QkdNRWxfY1c4Rml0aG9ESGR6YXRBZ3F4SThKM0xuQjdUd3dsZ0lxdS1ZU2ttQVBQaFozTjdZeWVIbzR2WG5iWUZXRUpaTnN4eURiNUI0SXpVQdIBX0FVX3lxTE1CUG9vSWFHbTJmLWxQYWo0TTd6SURFZFhjd01mNDRabUhLRFliaVB0RlM0bnY2ekZOdF81aXVUaENJaWRGSGt6Sm5RcFVpYUg2eTQycFd5TDZTd2ZETFJF?oc=5
-
-- Upgrading strike capability: India tests 800-km BrahMos - Times of India
-  The Indian government is upgrading its
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXljRllMVDVNTkJWbGNORXFvazZDVXlpV3hJai1GTmtPamxrbnJuRlV0aXJTM05VOUFqMFl1MjJSZlUwQ3RNRUdzQVZHY3RaaDVXQXJRQkU3dnAzemN0bFlHdWowMHNwTTZ2MXktRm1jUXVhQWFqaEc2SnZwU0p6TVJ4T2JIZVFZazhLbWJZUVRpandITXBPS3VrdUJKMC1Bc0FFb0RfZTZXYVVXb1NFVU5UMWNxT1VpU0JjZmhOTdIBxAFBVV95cUxQTG5TNGk2T3RUbTBJZWg4NWFta0VCeUF4MjJucDVnVjNCQTVvVE85SFFnYU1pRTV1ZUJyZmRpcmpzX0F2Z3RoaWtCNnowdXJJN1J0bXk5a09SS3FNVS12OVI4RU5jSlZ4RjZPdGlUQlViR3JkNnN0ZzdGS3ZIT0N3UHJqajQzWlRteVVRZ3NMZjhQVXY3bWVwX2RNSzRnYXdLWFNDbzdsOGxpWlRSNGowQmZSbXpadGp6Mzlxa3FYcmJUYlpM?oc=5
-
-- Diwali: India sparkles as millions celebrate the festival of lights - BBC
-  Diwali is a festival of lights
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE95dFF0M1ZLUDBWS0lUV0xqd3VQYnhaaVpUdnVSaHhBa1g5RWdpam8wdWV5V2lLcFE5dVhhcERDQzlLVGJYWnRXbjkwUlJFMUZGamxoRU4xOGZsUdIBX0FVX3lxTE5sUVI5Ump4ZDZZZGZLaHE2TkhHZFc3c2k2am1CWDlaSFozdGpYQlNDMTkzeV9WV01TVTdjT3dzbVZRMlpDai1ZaEJsSThud3hGMDFMYlZqdkJ1c2Ffd2R3?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Top news of the day: Delhi’s air quality plummets on Deepavali; Trump says India to pay ‘massive tariffs’ if it continues to buy Russian oil, and more - The Hindu
+  Top news of the day: Delhi’s air quality plummets on Deepavali; Trump says India to pay �
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQMTQyZFJMN0JTUnZQQWVoT29lS2o3aHB3SEZ3d1ZFV1lYVmxBdGdGQk1tY1R0TDFYckJWb2JGLUVVakFreDFFbzYteU1yTFRNcXdoMGNwS0M1Ql9NQ0x2VUJKWWllRS15eUFSaDR0aVRKVzgxNy1Cb292LWlWcmN2NmZnRHctbkREYnlnb09n0gGUAUFVX3lxTFBldUFPaTk5c0NuSFVLOUVleDJZUnY4ZURBUmtXZVlIemJlaUpjQ0JiZzF0SEwtWTlZWWFPS3dTN0R1aEJxSDhqdy15SDE0TlNBVVJIMndmUXRHQVhCQVBjNTRuRlN1WmNXOWU1Y2ZuUkhGTHQwakc3cUFlNWRfMjBNVW5JMEl0aGdjVkhOQ2pYTkQ5WFk?oc=5
 
 
-_Last updated: 2025-10-20 18:27:08 UTC_
+_Last updated: 2025-10-21 01:14:11 UTC_
