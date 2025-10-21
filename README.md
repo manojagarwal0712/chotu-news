@@ -1,124 +1,108 @@
 # 📰 Daily News Summaries
 
-- Prashant Kishor claims top BJP leadership intimidated his candidates into withdrawing
+- Indian MBBS student suffers brain stroke in Russia, airlifted to Jaipur
   
-  🔗 https://indianexpress.com/article/india/prashant-kishor-claims-top-bjp-leadership-led-by-amit-shah-dharmendra-pradhan-intimidated-his-candidates-into-withdrawing-10318847/
+  🔗 https://indianexpress.com/article/india/indian-mbbs-student-suffers-brain-stroke-in-russia-airlifted-to-jaipur-10319536/
 
-- Bihar Assembly Election 2025 Live Updates: Prashant Kishor alleges 3 candidates of his Jan Suraaj Party withdrew nomination under ‘pressure’ from BJP
+- Dalit man thrashed, forced to drink urine in Madhya Pradesh; three held
   
-  🔗 https://indianexpress.com/article/india/bihar-assembly-election-2025-live-updates-prashant-kishor-alleges-3-candidates-of-his-jan-suraaj-party-withdrew-nomination-under-pressure-from-bjp-10318419/
+  🔗 https://indianexpress.com/article/india/dalit-man-thrashed-drink-urine-mp-10319509/
 
-- ‘Truth is not what they showed’: Akhilesh Yadav, AAP target BJP after Ayodhya Deepotsav record
+- Cash, liquor, freebies worth Rs 71 crore seized in Bihar, bypoll states: Election Commission
   
-  🔗 https://indianexpress.com/article/india/truth-is-not-what-they-showed-akhilesh-yadav-aap-target-bjp-after-ayodhya-deepotsav-record-10318649/
+  🔗 https://indianexpress.com/article/india/cash-liquor-freebies-worth-rs-71-crore-seized-in-bihar-bypoll-states-election-commission-10319460/
 
-- News Today Live Updates, 21 October | Former French President Sarkozy reaches jail to  begin 5-year sentence for campaign finance conspiracy
+- India denies entry to top SOAS Hindi scholar — who is Francesca Orsini?
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-10-21-2025-news-headlines-10318153/
+  🔗 https://indianexpress.com/article/india/francesca-orsini-india-denies-entry-soas-hindi-scholar-10319435/
 
-- Diwali Muhurat Trading today: Check time and session details for National Stock Exchange and Bombay Stock Exchange
+- Heavy rain in Kerala: Tourists warned to avoid hilly areas, schools and colleges shut in 3 districts put on red alert
   
-  🔗 https://indianexpress.com/article/india/diwali-muhurat-trading-today-check-time-session-details-nse-bse-10318570/
+  🔗 https://indianexpress.com/article/india/kerala-heavy-rain-tourist-warned-hilly-areas-schools-colleges-shut-10319417/
 
-- India’s smartphone market grows 3% in Q3 as festive sales, incentives drive momentum
+- OpenAI unveils ChatGPT Atlas, an AI-powered web browser with agentic capabilities
   
-  🔗 https://indianexpress.com/article/technology/indias-smartphone-market-grows-3-in-q3-as-festive-sales-incentives-drive-momentum-10318972/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-unveils-chatgpt-atlas-an-ai-powered-web-browser-with-agentic-capabilities-10319547/
 
-- DeepSeek’s new AI model can generate 200K pages of training data daily on a single GPU
+- OpenAI launches AI browser Atlas
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/deepseek-new-ai-model-generate-200k-pages-training-data-single-gpu-10318599/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-launches-ai-browser-atlas-10319498/
 
-- 2 minute-trick to boost your memory: Scientist shows how micro-rests are key to mental health
+- Meta expands safety tools to help older adults stay safe from online scams
   
-  🔗 https://indianexpress.com/article/technology/science/how-to-boost-memory-in-two-minutes-10318496/
+  🔗 https://indianexpress.com/article/technology/meta-expands-safety-tools-to-help-older-adults-stay-safe-from-online-scams-10319394/
 
-- ROG Xbox Ally X review: A step toward a portable Xbox but it’s still a work in progress
+- What the AWS outage reveals about the internet’s backbone
   
-  🔗 https://indianexpress.com/article/technology/tech-reviews/rog-xbox-ally-x-review-10318377/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/what-aws-outage-reveals-about-internet-backbone-10319114/
 
-- After backlash, Apple will let users tone down the Liquid Glass look with a new ‘Tinted’ option
+- OpenAI strengthens guardrails in Sora 2 after actor Bryan Cranston expresses concerns over deepfakes
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/after-backlash-apple-will-let-users-tone-down-the-liquid-glass-look-with-a-new-tinted-option-10318270/
+  🔗 https://indianexpress.com/article/technology/openai-strengthens-guardrails-in-sora-2-actor-bryan-cranston-10319121/
 
-- Upgrading strike capability: India tests 800-km BrahMos - Times of India
-  The Indian government is upgrading its
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXljRllMVDVNTkJWbGNORXFvazZDVXlpV3hJai1GTmtPamxrbnJuRlV0aXJTM05VOUFqMFl1MjJSZlUwQ3RNRUdzQVZHY3RaaDVXQXJRQkU3dnAzemN0bFlHdWowMHNwTTZ2MXktRm1jUXVhQWFqaEc2SnZwU0p6TVJ4T2JIZVFZazhLbWJZUVRpandITXBPS3VrdUJKMC1Bc0FFb0RfZTZXYVVXb1NFVU5UMWNxT1VpU0JjZmhOTdIBxAFBVV95cUxQTG5TNGk2T3RUbTBJZWg4NWFta0VCeUF4MjJucDVnVjNCQTVvVE85SFFnYU1pRTV1ZUJyZmRpcmpzX0F2Z3RoaWtCNnowdXJJN1J0bXk5a09SS3FNVS12OVI4RU5jSlZ4RjZPdGlUQlViR3JkNnN0ZzdGS3ZIT0N3UHJqajQzWlRteVVRZ3NMZjhQVXY3bWVwX2RNSzRnYXdLWFNDbzdsOGxpWlRSNGowQmZSbXpadGp6Mzlxa3FYcmJUYlpM?oc=5
+- Q3 Results: Coca-Cola beats forecasts as price hikes pay off, stock jumps 3.5%
+  Atlanta-based drinks firm announced organic turnover growth of 6 per cent
+  🔗 https://www.livemint.com/companies/company-results/q3-results-coca-cola-beats-forecasts-as-price-hikes-pay-off-stock-jumps-35-11761057530404.html
 
-- Charged for saying ‘I love Muhammad’, India’s Muslims decry gov’t crackdown - Al Jazeera
-  Al Jazeera reports that a Muslim man in India was
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVUtVGFfNW5jU0E3VE5RVlpCNGJHZEItdTRxWVh1YVREcTBDUDJuV1FQejN5Ukl4SENBUU9XVGFHVkt2SXA2X05MOFo2V041dkFLOW4yZV93cEFMbmx2bFRGQ2xIQll1b2RUS21IUTAyakJpSWNmcU1Cb1QxWm1rczBmcU5tb3lIYTZldmo1a0NPWTQyVDlFRWRMMW1TeXM2LXd0bnNCTkNSaUxRdk9uZXlB0gG3AUFVX3lxTE1wZ3huNmlqcm81TGtBQVQzMHR2c2g2QWRvSGpDQ1ZSMmRXOHhaQTRIcjZzeEhxb0xUQm9pX0JZbDhEVmhmY2FRYTZHZHJNc0VxeERtUmJBNWJMbWZ1dFB0Uk84RVhoTWJtbmlnVk1PN2VIYWxNUGVIMmctQXZmeHRKOENwbDF0U1hJLVhiaDQyQ0Nfa0ZtLVUwdmdZcjNQUmotZlZLMzFzNDBRT1N3LXdUbUpMV2VLTQ?oc=5
+- Sweet Success: KMF’s Nandini records  ₹46 crore sales during Dasara-Diwali season
+  The sales signify a substantial 38% increase in turnover compared to the equivalent festival period last year. It is a significant new
+  🔗 https://www.livemint.com/companies/news/sweet-success-kmf-s-nandini-records-rs-46-crore-sales-during-dasara-diwali-season-11761050902803.html
 
-- DK Shivakumar Slams BJP's Criticism, Says 10,000 Bengaluru Potholes Fixed - NDTV
-  DK Shivakumar Slams BJP's
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTRxRWJtQjljQzZVcUlEajNEMmE2RFhwcFJCdlA4SHpHWndkMzhYY1VoTFN3X1l5VGlEb1lIVHpOQUFGMkhzSFNzaDV0ZlA5UDVEdUlYWVRYUXZsZ1dqaEM1dm0ybzUzZ0xzblhfLVlRNWlublJYc0RPbUUzSHRvYW0yZWtoNlJaa3ZfcmxTRzZYc0ZwQ0U5aVB3djFyVVBQbUxhcnJyUDVPbkNtd1hyN9IBuAFBVV95cUxQVHdGUlhyYVB2eFhtd1pya1FuLVVJbEVwWlI5Ty1zSHdRSkZiVFNpWFZBbjRvWXh3dGNqSHpoZkcyMGFLQllSRmN1S0VzM19PQ3pzXzhSY0NPd3pRLVpISnNZcVptTFVuTW5IRTlPdGhiSmRmOW1JUTd6MlNvSC1QOW15QTRmQzgxeGh0WUlRTjZNTDN3WEtoMlNzaVh5NTI4M000NlJ3UFVGMWZDZlpmRFhnMUppSXJE?oc=5
+- Premiumization, beauty sales aid Shoppers Stop's turnaround
+  Shoppers Stop's sales grow 10% on-year to  �
+  🔗 https://www.livemint.com/companies/shoppers-stop-premiumization-beauty-sales-intune-strategy-growth-indian-department-store-revival-footfalls-revenue-tata-11761040487328.html
 
-- Banned CPI (Maoist) calls for Bharat bandh on Oct 24 | Latest News India - Hindustan Times
-  Banned CPI (Maoist) calls for Bharat band
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmN6TUVIQ3haM3l0SkNybEpjZGhuWDVlRHpwbjhVblQtbC1GLWZKT1FmV1BnaXNtNDM0UEs1YTBMUHlzMnU2OVAwYWl5aDEwTExWNDhCSkVtWEtHOVlkal9QU0ZjYzU4Z3JpajhDWkR6V1d4OTFMcjVHYzdHcWhnbXBCenZhVTVVSkZzcDI1b2J4QkRiZGlRQXRyaktRMzJvVWRXcFZKX0hmblc2cXRLMFpoY9IBuAFBVV95cUxPNE5nX2FxSWdKV3JkNDJqd0RPQ01uMWRjY0U5bVZKU1E3aHRDNXBNTUgwb18taVgxS1pteUY0NFVlRDVTcEdCN25CLUxKRmRqSlVwbDRXaHVRVkxFYzhBQkRtTHdkSGQwTkd6cDBWaWNPTW1aZHN6VzNWdlBybnpDb2p1WTc2Q0FHMFQ0T0lwR1JOTTRwdVl3Ykkxcm10RU1VclRRSHptb0t5cGo3MHRyd0cycURWc2lM?oc=5
+- How Antler India is fast-tracking the next wave of AI startups
+  Early-stage investors like Antler are retooling to bridge one of the biggest hurdles for founders — access
+  🔗 https://www.livemint.com/companies/antler-india-ai-startups-in-india-antler-ai-residency-early-stage-venture-capital-11760934211067.html
 
-- China questions India’s PLI, EV sops at WTO - financialexpress.com
-  China questions India’s
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQV3JvckJVMFRpZjVwY0VxeWhvM3kteDI0NUo4QnBIQmtvZjZ2NXhTbFIyVlkwd2tzT3prTC1VZlBPVWZoYjFvRGptOWx3VEJONF9fQV9ENE5YdTZFQUZyUzhtejVHSnpua1N5LVMyUk1hRzRZRVVKLXdxVi1ma3cxUGxkTnRjYlExekwxRHp2TE9LOWNnQzdmWVZHNURua3RNanlHZkR30gGsAUFVX3lxTE5GczF1NlZfaDl6MWlzMnotOGhqYWt4a09scWJUZXBWVldZaDlyYnZNTm8zcFRWdE9tblNhZUVKQ2FKdmZTSTdZelJqTl84VHB5MW5yZTYxMVdkb3lsMTdvanhOOWM5TFd2OE5XaDZuNEhBTXhXbGl0TmtaLUFRaHFfM0pxeTg3cFRZbzdIYy10bXltakRJVlZCaTVZSjI2RjlfYUdrcFdLa093ODE?oc=5
+- Stripe puts India comeback on indefinite hold
+  RBI's tougher merchant onboarding standards
+  🔗 https://www.livemint.com/companies/stripe-india-relaunch-postponed-rbi-payments-aggregator-kyc-norms-global-payments-firm-stripe-delays-india-expansion-rbi-11760709009263.html
+
+- Alphabet stock drops 3.4% on Wall Street as rival tech major OpenAI prepares to launch new browser — Details here
+  Alphabet stock drops 3.4% on Wall Street as rival tech major
+  🔗 https://www.livemint.com/market/stock-market-news/alphabet-stock-drops-3-4-on-wall-street-as-openai-prepares-to-launch-new-browser-details-here-11761064794317.html
+
+- Gold price today: MCX gold rate crashes to  ₹128,000; silver rates down by  ₹327 on Diwali 2025. Opportunity to buy?
+  MCX gold rate crashes to  ₹128,000 on Tuesday, 21 October 2025. The silver futures were also down by  ⁹327 on Diwali
+  🔗 https://www.livemint.com/market/commodities/gold-price-today-mcx-gold-rate-crashes-to-rs-128-000-silver-rates-down-by-rs-327-on-diwali-2025-opportunity-to-buy-11761061480809.html
+
+- Warner Bros. Discovery receives multiple buyout offers; shares jump over 12% on Wall Street
+  Warner Bros. Discovery has received multiple buyout offers from many parties that are interested in purchasing the company. Shares jumped over 12% on Wall Street
+  🔗 https://www.livemint.com/market/stock-market-news/warner-bros-discovery-receives-multiple-buyout-offers-shares-jump-over-12-on-wall-street-11761059774037.html
+
+- Wall Street today: Dow Jones, S&amp;P 500 gain amid strong earnings, GM rallies 14.3%
+  The S&amp;amp;P 500 rose 0.2%, the Dow Jones Industrial Average was up 0.7%,
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-today-us-stocks-pause-rally-to-digest-earnings-wave-11761054540568.html
 
 - Robust fundamentals may drive the Indian stock market higher, US tariffs remain a key risk: Emkay's head of research
   Emkay's head of research, Joseph Thomas, highlights how India's robust economic fundamentals and reforms may drive the stock market higher. Discover the sectors to watch and the potential for mid and small caps in this
   🔗 https://www.livemint.com/market/stock-market-news/robust-fundamentals-may-drive-the-indian-stock-market-higher-us-tariffs-remain-a-key-risk-emkays-head-of-research-11761046271703.html
 
-- Indian stock market looks poised for a bright Samvat 2082, but investors can't overlook these key risks
-  The Indian stock market ended Samvat 2081 with modest gains, led by strong performances from key stocks. Positive earnings growth, tax relief, and favorable trade negotiations
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-looks-poised-for-a-bright-samvat-2082-but-investors-cant-overlook-these-key-risks-11761043590550.html
+- OpenAI launches Atlas, a ChatGPT-powered browser to rival Chrome and Perplexity’s Comet
+  OpenAI introduces Atlas, an AI-powered browser aimed at enhancing user
+  🔗 https://www.livemint.com/technology/tech-news/openai-launches-atlas-a-chatgpt-powered-browser-to-rival-chrome-and-perplexity-s-cometopenai-launches-new-ai-browser-at-11761066106487.html
 
-- Stocks to buy for long-term: Apollo Tyres, Canara Bank, Premier Explosives, among Diwali stock picks by InCred Equities
-  Diwali picks 2025 include Apollo Tyres, Canara Bank, NESCO, Sandur Manganese &amp;amp; Iron Ores.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-long-term-apollo-tyres-canara-bank-premier-explosives-among-diwali-stock-picks-by-incred-equities-11761043889413.html
+- OnePlus 15R full specifications leaked ahead of launch: here's what to expect
+  The phone is likely to launch as the OnePlus 15R in global markets. It will be powered by the Snapdragon 8 Elite processor. A new leak has revealed much of the
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-15r-full-specifications-leaked-ahead-of-launch-heres-what-to-expect-11761059733124.html
 
-- Stock market holiday: Is the Indian stock market open or closed on Wednesday?
-  The Indian stock market rose on October 21, 2025, during the Diwali session. Nifty 50 climbed 0.1% to 25,868.6 and Sensex increased
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-is-the-indian-stock-market-open-or-closed-on-wednesday-11761040473693.html
+- OnePlus 15 battery capacity, charging speed and new cooling system revealed ahead of launch
+  The OnePlus 15 is set to launch in China on October 27, with a possible Indian unveiling on November 14. It features a 7,300mAh battery, 120W wired charging, a new
+  🔗 https://www.livemint.com/technology/tech-news/oneplus-15-battery-capacity-charging-speed-and-new-cooling-system-revealed-ahead-of-launch-11761055258574.html
 
-- Top Gainers &amp; Losers on Muhurat trading: Bajaj Finserv, Cipla, Infosys, DCB Bank, Tata Investment among top gainers
-  Sensex rose by 62.97 points to 84,426.34. Experts predict a positive outlook for Samvat 2082. Nifty 50 targeting 30,000 by next Diwali.
-  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-muhurat-trading-bajaj-finserv-cipla-axis-bank-dcb-bank-tata-investment-corp-among-top-g-11761037533836.html
+- Meta adds new alerts on WhatsApp and Messenger to help users spot potential scams: here's how it works
+   Meta will warn WhatsApp and Messenger users about scams. Company also said that it disrupted 8 million scams
+  🔗 https://www.livemint.com/technology/tech-news/meta-adds-new-alerts-on-whatsapp-and-messenger-to-help-users-spot-potential-scams-heres-how-it-works-11761049496773.html
 
-- OpenAI bans celebrity deepfakes on Sora after Breaking Bad actor raises concerns about AI slop
-  OpenAI has prohibited celebrity deepfakes on its Sora app. Bryan Cranston and others voiced concerns over unauthorized likeness use.
-  🔗 https://www.livemint.com/technology/tech-news/openai-bans-celebrity-deepfakes-on-sora-after-breaking-bad-actor-raises-concerns-about-ai-slop-11761036435011.html
+- Apple finally lets users tone down Liquid Glass with latest iOS 26 update: here's how it works
+  Apple's new Liquid Glass design in iOS 26 faced criticism for legibility and eye strain. iOS 26.1 Beta 4 introduces customizable transparency settings.
+  🔗 https://www.livemint.com/technology/tech-news/apple-finally-lets-users-tone-down-liquid-glass-with-latest-ios-26-update-heres-how-it-works-11761040551592.html
 
-- Samsung set to launch ‘Project Moohan’, an Android XR device to rival Apple Vision Pro: Where to watch livestream
-  Samsung is set to unveil its Project Moohan mixed reality headset on Oct 21. It is expected to feature AI-powered experiences, Android XR OS, and immersive apps like YouTube and Google Maps.
-  🔗 https://www.livemint.com/technology/tech-news/samsung-set-to-launch-project-moohan-an-android-xr-device-to-rival-apple-vision-pro-where-to-watch-livestream-11761039855820.html
-
-- OpenAI confirms ChatGPT is officially leaving WhatsApp after Meta pulls the plug on AI chatbots
-  ChatGPT will no longer be available on WhatsApp after January 15, 2026. Meta's new rules banning third-party AI chatbots. OpenAI
-  🔗 https://www.livemint.com/technology/tech-news/openai-confirms-chatgpt-is-officially-leaving-whatsapp-after-meta-pulls-the-plug-on-ai-chatbots-11761036460935.html
-
-- Mint Explainer | How AWS‑style cloud outages could hamper the AI march
-  As companies move massive AI workloads to the cloud, reliance on a handful of large cloud providers —AWS, Google Cloud, and Microsoft Azure — can make the cloud a single point of failure.
-  🔗 https://www.livemint.com/technology/aws-outage-cloud-computing-outage-ai-infrastructure-risk-global-aws-outage-ai-11761033956823.html
-
-- Amazon Web Services outage explained: How long it lasted, impacted users, companies and how it was resolved - FAQs
-  Amazon Web Services experienced a 15-hour outage on Monday. The outage disrupted access to platforms like Snapchat, Robinhood, Fortnite and more.
-  🔗 https://www.livemint.com/technology/tech-news/amazon-web-services-outage-explained-how-long-it-lasted-impacted-users-companies-and-how-it-was-resolved-faqs-11761034915182.html
-
-- Stock Rally Loses Steam as Dollar Extends Advance: Markets Wrap - Bloomberg.com
-  Stock Rally Loses Steam as Dollar Ext
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOX0JnRDkyS0lDZW9ub041MnhIUkl2RFI2UlRVYkZFNFFLYXA2QjJ1Q05rYVZ4emNHSkZLZFZKdmtNQnFzTjIyVGMxcGdrei1uc1VHdm9PcjZhTjM2VXR4dEFGaHpVS0FoTDFpLWtSaWV4RjkxYUpNU05HLU1WSnJZWXRwY3l0aU5nelpkRF9nUFN1WGp2?oc=5
-
-- Dow, S&P 500, Nasdaq jump as Apple leads tech stocks higher ahead of busy earnings week - Yahoo Finance
-  Dow, S&amp;P 500, Nasdaq jump as Apple
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxORjMwVUhmdlFMdUg4QU5nck1tYnl4ZklEVVhINDNpTVlJUHBRc0R5VDRncGszOVQydUo0Y3NORUNEaFphd29jek5EazhDcHpNLTEwS2dMN2ZHcjF4MHl4em9RVTNacU9sZFVoZGEwOW9sUDc3UUdWQUhjYWsyVk9Ial9ad19lTVVrN0R3aFVOdi02WDMtNzdnSTJaMnBsNEtYSG84LVVjMFp4RFpCa0hJR2NLVkpuUWpiN21SOFZaTGd3b3JvSWNpdEVObDNDaVdj?oc=5
-
-- Markets News, Oct. 20, 2025: Stocks End Sharply Higher to Begin Week; Apple Hits All-Time High; Gold Recovers as US Government Shutdown Drags On - Investopedia
-  Markets News, Oct. 20, 2025: Stocks End Sharply Higher to Begin Week; Apple Hits
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE9nWXd0T2FBRk5hZEJhbzhoWVd5M2ctOVBySmFIXzlIT1Vld09SR2VxaW1kbXlHcnFFMDBGQmRBVExmX1J0Vlk4c2NBQTNCVXpZUkVPODhKdnJad3RObnNMZUNlV1pUbV9Hb0VVZ3JaZw?oc=5
-
-- Pune Inc: From a makeshift laboratory, how this Pimpri man’s scent of success is spreading across Indian, international markets - The Indian Express
-  Pune Inc: From a makeshift laboratory, how this Pimpri man’s scent
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxOcS1DNHQzNVRNWEFGNzVKNnFnMklFaXV5NGd4alhicmJzUm5TYk8tbF9MMWktQ2hjZzZpM09pb3hRMzNkbllYZk8ySk1Eb2g1OHRzYngwWnR4RHJOOTZpdkU3YmtZRjIyakxOVmtfSG8zRzhiZTdSVm41cU5EenMzNU1JekxRSVFQMHdranFhYWFZZFpTYkJzRGh1SUxPZlpwemdyWXY0Vm1uUjB0ZER6VFUtSmZrOGE4OUVaS1Nfc2hZR0hRMlR3akhHekdiYUFxUko3Ny1yS1pFcVFOeU8xN2JhV3VTbXBRSDVrUk42Y1J0QkNDUFdoMU5WRXBkbmJ2NnJxZUJzd0hyLTDSAZICQVVfeXFMTlF2cDVYaUNoaXcyWXFVNDNLVkM0ZlQwa2w1QTFEeXZ1a3l1OWNUVDJ6VUpocTVjaXJJZWxBcUxzQ0JVTlk4RGlTQ1lSTXROSFJrMkJIak9qNUpfOV9QWGhnUGNuRW9zZ1UwejU3bXpwSDZvU0tSZXk1T251Z3BlRS1xWVVabklTazVlajN1N1M1THdEbEp4SWZIZlpraC01Um1HUzE2SjVtcml3YUxESXVNZmVGSjJJNF9nVHltVy1OSS0xTjFMQTN5Nk1YUXlBaWxTckN6MHZJUlpxUkJpcTdSUTRqTHktMXZXeml4ZDZjLUhyRkhHbTVJSXA1S1dDdVk0aERHYmtZdkhrNkRER0RGQQ?oc=5
-
-- Robust fundamentals may drive the Indian stock market higher, US tariffs remain a key risk: Emkay's head of research - Mint
-  Robust fundamentals may drive the Indian stock market higher, Emkay's head of research
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPMHE1QU4yb0Q5d1RzemhFN1Jvb1hvc1EyNkNUYXljYTNLYzVoR3JlUS1BOFVPTHVkblMwOG9BdmJ5RTFaNGRzdmRGUWtTN25KUHVHWVRTRFJ2SlJBdXo2WmdaeHlfdU90Si1hMUM2cjJjTlRybHBDdnI2eUY1bkZjXzBBSGpabXZ2Y05uNV92YV9md3FNOUtNT1lfbmhhTmtBZ3lGWFlBUmZlaHdiZnU2QUcwU1gtZm9YVnVRbDRab2FwbmF4Y2VWWG9ZdFJFeEZDRC1qTlFTMDU1a1h5X2Z5U1lsazdKNE82VGZSdmo3Q3ZWSDkzVFlGazluTVE4Sl9BYXhCd2xzOW1fYVpUbmh2adIBlgJBVV95cUxNR2ttbW9MMngxckpKTDZYdDVjblFWWVBLMXNDc2ZCcVJNeGxNck9aMF9DZkdQQjgyX25sakR2MWVHeVRkbEJTWnBkRmFTYkZobXUwZnhvbkRYQTdGbHJwbFRSalVMNlhFdnE3bS1TY0pHV3o5UnUtZ3hWbF9aVE16Q0JFbHFmS2MyektvOGQ2NDJ4cHFfNGtURzVQbEQxNUlUWkFpOG1tVXFlcTBkRFc0eWlORlRpV0dOTlBmR2twSHQyTXNwejRHNENVdEVXR0F1X3poYjUyV2hKVTdleWgyWHlnMlp2V0c1ZWcxcURKdnFqa1hfOGdackZrSEFkaVFXRXV4ZUNpdEhROHUtRm9tTUEzZ2V6QQ?oc=5
+- US stocks open flat as investors assess earnings for direction
+  Wall Street's main indexes opened flat on Tuesday. Investors assessed a wave
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-open-flat-as-investors-assess-earnings-for-direction/articleshow/124723255.cms
 
 - Nikkei extends record rally as Japan makes history with first female PM
   Japan's Nikkei share gauge closed at a record high on Tuesday. Fiscal dove Sanae Takaichi clinched a parliamentary vote
@@ -136,89 +120,45 @@
   PMS’s Samvat 2082 Portfolio mixes 30% precious metals ETFs with 70% midcap and thematic stocks.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/green-portfolio-pms-unveils-samvat-2082-portfolio-a-balanced-play-of-8-high-growth-stocks-gold-and-silver/slideshow/124719479.cms
 
-- Volume Shocker: MFs added over 1 crore shares to 10 stocks in September which surged up to 40%
-   ETMarkets identified 12 standout stocks with strong mutual fund accumulation and over 15% price gains in September 2025. Top picks include Adani Power,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-added-over-1-crore-shares-to-10-stocks-in-september-which-surged-up-to-40/slideshow/124719231.cms
+- Upgrading strike capability: India tests 800-km BrahMos - Times of India
+  The Indian government is upgrading its
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXljRllMVDVNTkJWbGNORXFvazZDVXlpV3hJai1GTmtPamxrbnJuRlV0aXJTM05VOUFqMFl1MjJSZlUwQ3RNRUdzQVZHY3RaaDVXQXJRQkU3dnAzemN0bFlHdWowMHNwTTZ2MXktRm1jUXVhQWFqaEc2SnZwU0p6TVJ4T2JIZVFZazhLbWJZUVRpandITXBPS3VrdUJKMC1Bc0FFb0RfZTZXYVVXb1NFVU5UMWNxT1VpU0JjZmhOTdIBxAFBVV95cUxQTG5TNGk2T3RUbTBJZWg4NWFta0VCeUF4MjJucDVnVjNCQTVvVE85SFFnYU1pRTV1ZUJyZmRpcmpzX0F2Z3RoaWtCNnowdXJJN1J0bXk5a09SS3FNVS12OVI4RU5jSlZ4RjZPdGlUQlViR3JkNnN0ZzdGS3ZIT0N3UHJqajQzWlRteVVRZ3NMZjhQVXY3bWVwX2RNSzRnYXdLWFNDbzdsOGxpWlRSNGowQmZSbXpadGp6Mzlxa3FYcmJUYlpM?oc=5
+
+- Pak Army Chief Asim Munir issues second nuclear threat to India, warns of ‘catastrophic consequences’ - financialexpress.com
+  Pak Army Chief Asim Munir issues second nuclear threat to India
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbDlSYXZWbGxjM3pXRU1DZ3dzNXRvNzlxUDh0TzRfczQ0aGh1UUs5b20xNDZ3OGY2c1RXMTJNaG5XQlBrUThRRkZZMDZJMldaNk9JU1hGdXhLUkI3YVdNeUxWV3Zrc1NvUkY3RUF1MHJFQWZZYzZXRTZUT1Z4d29OTDVCYkpKWHhVdXVyR1FRcUVTNlQ2ejRSMk9sM2c4SWg3YmtxTkJ4ajFCY0poR1NXWk9CTDNGeWNKdjhCQjVuTUlMd0xzX2R6akNyQURtVjJTYUptQW5wQmQxQ002djVPN0hKYnLSAesBQVVfeXFMTVlUbENnektraTBpY01qN2xjRjVraVhxVEcybHRzbGxZOWR6SXE4OUZmR3haZ1ZjR3NBWEpKYTlPLTN0SlpfRVNEQmI3di01aXNWSWVXeVVkbWdoNExqcmFabHBnRl9GT1hCQTMyY0tCYjB1b0FhQmJPMXdhQmZadmxrSldQeHhOSEpuYW1mZmVUWnJiN0FJeWRfa1RmWFh0X1V5LW9rWGo3eGZOaTcxVGxhZXBWSkRsZGRjR1JfQ3BfdFNzNlFkaXBMdlZEQzBGckVwWDBJbjhFRHU0b3YwckY2RnZocFFQZkRsVQ?oc=5
+
+- Video: On Busy Lucknow Road, 3 Men Set Off Crackers From Roof Of Moving Car - NDTV
+  The incident occurred on a busy road in Lucknow, India.
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQenA2X0FXRkhRNy1rN09NZkJ6dXpzcGZjbVVPaWZranBrRE1QU2J0enhoMW5yQko1QnpHbkd1dnhCSHNGU3d2UVFDMms3bVZTRDZ4SjhUWVpGV2lKQUpYekZvT0h2RnBQX1B0alhMeDZVc0FUNUZPOTRVZU41cVhUMU5DU1RuYkRRNDU0SmsyWWhWUDU4YmxWOUt2UUs3cDdKSDRodmkxSy1iazE1eWNkdVlqRdIBuwFBVV95cUxQSEU2ZU5rOE9TRjlvZkJEYzJEUTBONkd6QXVzQ1ZSemlHTHF5bHMzUlVEUUZKZGJGT2FVWE5nUHhBYThGUWlkRGEyczFOM0VZNlkzeFdtMDVPVXZ2ZWJzSjRKTlEycGEyLU51T3ZYMzlWSFBzRDJsRlQ0OWJjSTJyNld4TnN2YmJfX3JrWEhIUFZpeFItVHo4d0ozcklOLTFMRjYzSEtKUzROdkxkN0Q5OFo0b2JlUlYwaFNn?oc=5
+
+- Who is Mohamed Alabbar? The visionary entrepreneur behind Burj Khalifa - Times of India
+  The visionary entrepreneur behind Burj Khalifa
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc2thYzNWVjc4V29RM3dIUkpoT3FzVkRiaDItS1AtNGJMVlFkQ2hxZFh6Y3NYX1k2OHFFUjRVVjhZYzJuZUtrSkpmcTR6YTJFNVRtQ3pmdlZPNmpheE56VUdxUmJ5eWc5Ri16LWxvMVBWVTg2OGJGWnRrcE9pZ2ttTktHeWMtY0VmMHhFWEx2WTQwY3ItallSUkl4VGoxNWN0OHF2ODhmSVpOODRYT0pKaC1uRFNpZzVfNzlaaU9Jd0NSS3A1VmtlYjI2QTJRUXQ0ZWxwTk0xc1VpekE5S1NvcHVFNNIB6AFBVV95cUxPT3VUYnExemFialZrNmFzdjdTQ3VIeERGQjdCRkR6dkRrOVNVSzdJMDBaWkwwQkV4NUtiOFhxeG01aUp5YVlsRENWQWhBQ1ZDeFBGTXVOOExzdEl1VnNPZ09kWGwyd2lXTE9yazBIeHN6V1VxZFJBM3d5R1BTeHZUakFkMXRhUHNwY3AwVHhDSmhWSDh6OGExZGJ5VVdoSTZUaEJKdXFOblUwUFdXVmotYmI3Zkw1cml2UDIzSUoxYmNRYkxyNGhNMWJqN19HQld4Sm9ZXzdoSTZUTFMzbDdnbk9VVHVqcmxZ?oc=5
+
+- "Foreign Terrorists Big Challenge": Jammu Sees 120 Anti-Terror Ops Every Day - NDTV
+  "Foreign Terrorists Big Challenge": Jammu
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbnRqbC0tM2dTOWtxcjNQMlRyM0NsejdNb2FUd283X2hNZmQ4SzZuYk51T2RFTkwzZ2RKdWJLT0JUZW9HRmtLLWJ4OHpsajFacXAydTNRc0tYdE5BM25xcDZ1bTA3ekVUTF9aeTdkaXY4S1dnSjNGS3doaEdNZUk4MnZxUi00UDhWbGZ0eE5sejZwcXlUSFBkQnhoS0VXVlNMamx4emlmcFJhb1hBdTdpUnhGd9IBuwFBVV95cUxPLTZ5Y2VaWUl0b1NsNmUtcmJlSlFmbGUtbWhPYWlIa2xydWdvQVZRekEwMF9OUl9UaThGdktzNER3LUhQU0hQQkNmcksxdmxEWUJlU1ZmUlBVRTJOR0JWdmVxQS0zdXR3ZFlXTnZpUjktVUJiZUUtMk5BbHlNQlRyeDdSczJ4NURRQzBPc3hVX1JBUE1XR0dZcEV3TTBOZkN6YVk5bl92WGJyeUsxalg3MVpRSkExX0FrU3hB?oc=5
 
 - Upgrading strike capability: India tests 800-km BrahMos - Times of India
   The Indian government is upgrading its
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXljRllMVDVNTkJWbGNORXFvazZDVXlpV3hJai1GTmtPamxrbnJuRlV0aXJTM05VOUFqMFl1MjJSZlUwQ3RNRUdzQVZHY3RaaDVXQXJRQkU3dnAzemN0bFlHdWowMHNwTTZ2MXktRm1jUXVhQWFqaEc2SnZwU0p6TVJ4T2JIZVFZazhLbWJZUVRpandITXBPS3VrdUJKMC1Bc0FFb0RfZTZXYVVXb1NFVU5UMWNxT1VpU0JjZmhOTdIBxAFBVV95cUxQTG5TNGk2T3RUbTBJZWg4NWFta0VCeUF4MjJucDVnVjNCQTVvVE85SFFnYU1pRTV1ZUJyZmRpcmpzX0F2Z3RoaWtCNnowdXJJN1J0bXk5a09SS3FNVS12OVI4RU5jSlZ4RjZPdGlUQlViR3JkNnN0ZzdGS3ZIT0N3UHJqajQzWlRteVVRZ3NMZjhQVXY3bWVwX2RNSzRnYXdLWFNDbzdsOGxpWlRSNGowQmZSbXpadGp6Mzlxa3FYcmJUYlpM?oc=5
 
-- Charged for saying ‘I love Muhammad’, India’s Muslims decry gov’t crackdown - Al Jazeera
-  Al Jazeera reports that a Muslim man in India was
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVUtVGFfNW5jU0E3VE5RVlpCNGJHZEItdTRxWVh1YVREcTBDUDJuV1FQejN5Ukl4SENBUU9XVGFHVkt2SXA2X05MOFo2V041dkFLOW4yZV93cEFMbmx2bFRGQ2xIQll1b2RUS21IUTAyakJpSWNmcU1Cb1QxWm1rczBmcU5tb3lIYTZldmo1a0NPWTQyVDlFRWRMMW1TeXM2LXd0bnNCTkNSaUxRdk9uZXlB0gG3AUFVX3lxTE1wZ3huNmlqcm81TGtBQVQzMHR2c2g2QWRvSGpDQ1ZSMmRXOHhaQTRIcjZzeEhxb0xUQm9pX0JZbDhEVmhmY2FRYTZHZHJNc0VxeERtUmJBNWJMbWZ1dFB0Uk84RVhoTWJtbmlnVk1PN2VIYWxNUGVIMmctQXZmeHRKOENwbDF0U1hJLVhiaDQyQ0Nfa0ZtLVUwdmdZcjNQUmotZlZLMzFzNDBRT1N3LXdUbUpMV2VLTQ?oc=5
+- Pak Army Chief Asim Munir issues second nuclear threat to India, warns of ‘catastrophic consequences’ - financialexpress.com
+  Pak Army Chief Asim Munir issues second nuclear threat to India
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbDlSYXZWbGxjM3pXRU1DZ3dzNXRvNzlxUDh0TzRfczQ0aGh1UUs5b20xNDZ3OGY2c1RXMTJNaG5XQlBrUThRRkZZMDZJMldaNk9JU1hGdXhLUkI3YVdNeUxWV3Zrc1NvUkY3RUF1MHJFQWZZYzZXRTZUT1Z4d29OTDVCYkpKWHhVdXVyR1FRcUVTNlQ2ejRSMk9sM2c4SWg3YmtxTkJ4ajFCY0poR1NXWk9CTDNGeWNKdjhCQjVuTUlMd0xzX2R6akNyQURtVjJTYUptQW5wQmQxQ002djVPN0hKYnLSAesBQVVfeXFMTVlUbENnektraTBpY01qN2xjRjVraVhxVEcybHRzbGxZOWR6SXE4OUZmR3haZ1ZjR3NBWEpKYTlPLTN0SlpfRVNEQmI3di01aXNWSWVXeVVkbWdoNExqcmFabHBnRl9GT1hCQTMyY0tCYjB1b0FhQmJPMXdhQmZadmxrSldQeHhOSEpuYW1mZmVUWnJiN0FJeWRfa1RmWFh0X1V5LW9rWGo3eGZOaTcxVGxhZXBWSkRsZGRjR1JfQ3BfdFNzNlFkaXBMdlZEQzBGckVwWDBJbjhFRHU0b3YwckY2RnZocFFQZkRsVQ?oc=5
 
-- DK Shivakumar Slams BJP's Criticism, Says 10,000 Bengaluru Potholes Fixed - NDTV
-  DK Shivakumar Slams BJP's
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTRxRWJtQjljQzZVcUlEajNEMmE2RFhwcFJCdlA4SHpHWndkMzhYY1VoTFN3X1l5VGlEb1lIVHpOQUFGMkhzSFNzaDV0ZlA5UDVEdUlYWVRYUXZsZ1dqaEM1dm0ybzUzZ0xzblhfLVlRNWlublJYc0RPbUUzSHRvYW0yZWtoNlJaa3ZfcmxTRzZYc0ZwQ0U5aVB3djFyVVBQbUxhcnJyUDVPbkNtd1hyN9IBuAFBVV95cUxQVHdGUlhyYVB2eFhtd1pya1FuLVVJbEVwWlI5Ty1zSHdRSkZiVFNpWFZBbjRvWXh3dGNqSHpoZkcyMGFLQllSRmN1S0VzM19PQ3pzXzhSY0NPd3pRLVpISnNZcVptTFVuTW5IRTlPdGhiSmRmOW1JUTd6MlNvSC1QOW15QTRmQzgxeGh0WUlRTjZNTDN3WEtoMlNzaVh5NTI4M000NlJ3UFVGMWZDZlpmRFhnMUppSXJE?oc=5
+- Video: On Busy Lucknow Road, 3 Men Set Off Crackers From Roof Of Moving Car - NDTV
+  The incident occurred on a busy road in Lucknow, India.
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQenA2X0FXRkhRNy1rN09NZkJ6dXpzcGZjbVVPaWZranBrRE1QU2J0enhoMW5yQko1QnpHbkd1dnhCSHNGU3d2UVFDMms3bVZTRDZ4SjhUWVpGV2lKQUpYekZvT0h2RnBQX1B0alhMeDZVc0FUNUZPOTRVZU41cVhUMU5DU1RuYkRRNDU0SmsyWWhWUDU4YmxWOUt2UUs3cDdKSDRodmkxSy1iazE1eWNkdVlqRdIBuwFBVV95cUxQSEU2ZU5rOE9TRjlvZkJEYzJEUTBONkd6QXVzQ1ZSemlHTHF5bHMzUlVEUUZKZGJGT2FVWE5nUHhBYThGUWlkRGEyczFOM0VZNlkzeFdtMDVPVXZ2ZWJzSjRKTlEycGEyLU51T3ZYMzlWSFBzRDJsRlQ0OWJjSTJyNld4TnN2YmJfX3JrWEhIUFZpeFItVHo4d0ozcklOLTFMRjYzSEtKUzROdkxkN0Q5OFo0b2JlUlYwaFNn?oc=5
 
-- Banned CPI (Maoist) calls for Bharat bandh on Oct 24 | Latest News India - Hindustan Times
-  Banned CPI (Maoist) calls for Bharat band
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmN6TUVIQ3haM3l0SkNybEpjZGhuWDVlRHpwbjhVblQtbC1GLWZKT1FmV1BnaXNtNDM0UEs1YTBMUHlzMnU2OVAwYWl5aDEwTExWNDhCSkVtWEtHOVlkal9QU0ZjYzU4Z3JpajhDWkR6V1d4OTFMcjVHYzdHcWhnbXBCenZhVTVVSkZzcDI1b2J4QkRiZGlRQXRyaktRMzJvVWRXcFZKX0hmblc2cXRLMFpoY9IBuAFBVV95cUxPNE5nX2FxSWdKV3JkNDJqd0RPQ01uMWRjY0U5bVZKU1E3aHRDNXBNTUgwb18taVgxS1pteUY0NFVlRDVTcEdCN25CLUxKRmRqSlVwbDRXaHVRVkxFYzhBQkRtTHdkSGQwTkd6cDBWaWNPTW1aZHN6VzNWdlBybnpDb2p1WTc2Q0FHMFQ0T0lwR1JOTTRwdVl3Ykkxcm10RU1VclRRSHptb0t5cGo3MHRyd0cycURWc2lM?oc=5
+- Who is Mohamed Alabbar? The visionary entrepreneur behind Burj Khalifa - Times of India
+  The visionary entrepreneur behind Burj Khalifa
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc2thYzNWVjc4V29RM3dIUkpoT3FzVkRiaDItS1AtNGJMVlFkQ2hxZFh6Y3NYX1k2OHFFUjRVVjhZYzJuZUtrSkpmcTR6YTJFNVRtQ3pmdlZPNmpheE56VUdxUmJ5eWc5Ri16LWxvMVBWVTg2OGJGWnRrcE9pZ2ttTktHeWMtY0VmMHhFWEx2WTQwY3ItallSUkl4VGoxNWN0OHF2ODhmSVpOODRYT0pKaC1uRFNpZzVfNzlaaU9Jd0NSS3A1VmtlYjI2QTJRUXQ0ZWxwTk0xc1VpekE5S1NvcHVFNNIB6AFBVV95cUxPT3VUYnExemFialZrNmFzdjdTQ3VIeERGQjdCRkR6dkRrOVNVSzdJMDBaWkwwQkV4NUtiOFhxeG01aUp5YVlsRENWQWhBQ1ZDeFBGTXVOOExzdEl1VnNPZ09kWGwyd2lXTE9yazBIeHN6V1VxZFJBM3d5R1BTeHZUakFkMXRhUHNwY3AwVHhDSmhWSDh6OGExZGJ5VVdoSTZUaEJKdXFOblUwUFdXVmotYmI3Zkw1cml2UDIzSUoxYmNRYkxyNGhNMWJqN19HQld4Sm9ZXzdoSTZUTFMzbDdnbk9VVHVqcmxZ?oc=5
 
-- China questions India’s PLI, EV sops at WTO - financialexpress.com
-  China questions India’s
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQV3JvckJVMFRpZjVwY0VxeWhvM3kteDI0NUo4QnBIQmtvZjZ2NXhTbFIyVlkwd2tzT3prTC1VZlBPVWZoYjFvRGptOWx3VEJONF9fQV9ENE5YdTZFQUZyUzhtejVHSnpua1N5LVMyUk1hRzRZRVVKLXdxVi1ma3cxUGxkTnRjYlExekwxRHp2TE9LOWNnQzdmWVZHNURua3RNanlHZkR30gGsAUFVX3lxTE5GczF1NlZfaDl6MWlzMnotOGhqYWt4a09scWJUZXBWVldZaDlyYnZNTm8zcFRWdE9tblNhZUVKQ2FKdmZTSTdZelJqTl84VHB5MW5yZTYxMVdkb3lsMTdvanhOOWM5TFd2OE5XaDZuNEhBTXhXbGl0TmtaLUFRaHFfM0pxeTg3cFRZbzdIYy10bXltakRJVlZCaTVZSjI2RjlfYUdrcFdLa093ODE?oc=5
-
-- Upgrading strike capability: India tests 800-km BrahMos - Times of India
-  The Indian government is upgrading its
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXljRllMVDVNTkJWbGNORXFvazZDVXlpV3hJai1GTmtPamxrbnJuRlV0aXJTM05VOUFqMFl1MjJSZlUwQ3RNRUdzQVZHY3RaaDVXQXJRQkU3dnAzemN0bFlHdWowMHNwTTZ2MXktRm1jUXVhQWFqaEc2SnZwU0p6TVJ4T2JIZVFZazhLbWJZUVRpandITXBPS3VrdUJKMC1Bc0FFb0RfZTZXYVVXb1NFVU5UMWNxT1VpU0JjZmhOTdIBxAFBVV95cUxQTG5TNGk2T3RUbTBJZWg4NWFta0VCeUF4MjJucDVnVjNCQTVvVE85SFFnYU1pRTV1ZUJyZmRpcmpzX0F2Z3RoaWtCNnowdXJJN1J0bXk5a09SS3FNVS12OVI4RU5jSlZ4RjZPdGlUQlViR3JkNnN0ZzdGS3ZIT0N3UHJqajQzWlRteVVRZ3NMZjhQVXY3bWVwX2RNSzRnYXdLWFNDbzdsOGxpWlRSNGowQmZSbXpadGp6Mzlxa3FYcmJUYlpM?oc=5
-
-- Charged for saying ‘I love Muhammad’, India’s Muslims decry gov’t crackdown - Al Jazeera
-  Al Jazeera reports that a Muslim man in India was
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVUtVGFfNW5jU0E3VE5RVlpCNGJHZEItdTRxWVh1YVREcTBDUDJuV1FQejN5Ukl4SENBUU9XVGFHVkt2SXA2X05MOFo2V041dkFLOW4yZV93cEFMbmx2bFRGQ2xIQll1b2RUS21IUTAyakJpSWNmcU1Cb1QxWm1rczBmcU5tb3lIYTZldmo1a0NPWTQyVDlFRWRMMW1TeXM2LXd0bnNCTkNSaUxRdk9uZXlB0gG3AUFVX3lxTE1wZ3huNmlqcm81TGtBQVQzMHR2c2g2QWRvSGpDQ1ZSMmRXOHhaQTRIcjZzeEhxb0xUQm9pX0JZbDhEVmhmY2FRYTZHZHJNc0VxeERtUmJBNWJMbWZ1dFB0Uk84RVhoTWJtbmlnVk1PN2VIYWxNUGVIMmctQXZmeHRKOENwbDF0U1hJLVhiaDQyQ0Nfa0ZtLVUwdmdZcjNQUmotZlZLMzFzNDBRT1N3LXdUbUpMV2VLTQ?oc=5
-
-- DK Shivakumar Slams BJP's Criticism, Says 10,000 Bengaluru Potholes Fixed - NDTV
-  DK Shivakumar Slams BJP's
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTRxRWJtQjljQzZVcUlEajNEMmE2RFhwcFJCdlA4SHpHWndkMzhYY1VoTFN3X1l5VGlEb1lIVHpOQUFGMkhzSFNzaDV0ZlA5UDVEdUlYWVRYUXZsZ1dqaEM1dm0ybzUzZ0xzblhfLVlRNWlublJYc0RPbUUzSHRvYW0yZWtoNlJaa3ZfcmxTRzZYc0ZwQ0U5aVB3djFyVVBQbUxhcnJyUDVPbkNtd1hyN9IBuAFBVV95cUxQVHdGUlhyYVB2eFhtd1pya1FuLVVJbEVwWlI5Ty1zSHdRSkZiVFNpWFZBbjRvWXh3dGNqSHpoZkcyMGFLQllSRmN1S0VzM19PQ3pzXzhSY0NPd3pRLVpISnNZcVptTFVuTW5IRTlPdGhiSmRmOW1JUTd6MlNvSC1QOW15QTRmQzgxeGh0WUlRTjZNTDN3WEtoMlNzaVh5NTI4M000NlJ3UFVGMWZDZlpmRFhnMUppSXJE?oc=5
-
-- Banned CPI (Maoist) calls for Bharat bandh on Oct 24 | Latest News India - Hindustan Times
-  Banned CPI (Maoist) calls for Bharat band
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmN6TUVIQ3haM3l0SkNybEpjZGhuWDVlRHpwbjhVblQtbC1GLWZKT1FmV1BnaXNtNDM0UEs1YTBMUHlzMnU2OVAwYWl5aDEwTExWNDhCSkVtWEtHOVlkal9QU0ZjYzU4Z3JpajhDWkR6V1d4OTFMcjVHYzdHcWhnbXBCenZhVTVVSkZzcDI1b2J4QkRiZGlRQXRyaktRMzJvVWRXcFZKX0hmblc2cXRLMFpoY9IBuAFBVV95cUxPNE5nX2FxSWdKV3JkNDJqd0RPQ01uMWRjY0U5bVZKU1E3aHRDNXBNTUgwb18taVgxS1pteUY0NFVlRDVTcEdCN25CLUxKRmRqSlVwbDRXaHVRVkxFYzhBQkRtTHdkSGQwTkd6cDBWaWNPTW1aZHN6VzNWdlBybnpDb2p1WTc2Q0FHMFQ0T0lwR1JOTTRwdVl3Ykkxcm10RU1VclRRSHptb0t5cGo3MHRyd0cycURWc2lM?oc=5
-
-- China questions India’s PLI, EV sops at WTO - financialexpress.com
-  China questions India’s
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQV3JvckJVMFRpZjVwY0VxeWhvM3kteDI0NUo4QnBIQmtvZjZ2NXhTbFIyVlkwd2tzT3prTC1VZlBPVWZoYjFvRGptOWx3VEJONF9fQV9ENE5YdTZFQUZyUzhtejVHSnpua1N5LVMyUk1hRzRZRVVKLXdxVi1ma3cxUGxkTnRjYlExekwxRHp2TE9LOWNnQzdmWVZHNURua3RNanlHZkR30gGsAUFVX3lxTE5GczF1NlZfaDl6MWlzMnotOGhqYWt4a09scWJUZXBWVldZaDlyYnZNTm8zcFRWdE9tblNhZUVKQ2FKdmZTSTdZelJqTl84VHB5MW5yZTYxMVdkb3lsMTdvanhOOWM5TFd2OE5XaDZuNEhBTXhXbGl0TmtaLUFRaHFfM0pxeTg3cFRZbzdIYy10bXltakRJVlZCaTVZSjI2RjlfYUdrcFdLa093ODE?oc=5
-
-- Upgrading strike capability: India tests 800-km BrahMos - Times of India
-  The Indian government is upgrading its
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXljRllMVDVNTkJWbGNORXFvazZDVXlpV3hJai1GTmtPamxrbnJuRlV0aXJTM05VOUFqMFl1MjJSZlUwQ3RNRUdzQVZHY3RaaDVXQXJRQkU3dnAzemN0bFlHdWowMHNwTTZ2MXktRm1jUXVhQWFqaEc2SnZwU0p6TVJ4T2JIZVFZazhLbWJZUVRpandITXBPS3VrdUJKMC1Bc0FFb0RfZTZXYVVXb1NFVU5UMWNxT1VpU0JjZmhOTdIBxAFBVV95cUxQTG5TNGk2T3RUbTBJZWg4NWFta0VCeUF4MjJucDVnVjNCQTVvVE85SFFnYU1pRTV1ZUJyZmRpcmpzX0F2Z3RoaWtCNnowdXJJN1J0bXk5a09SS3FNVS12OVI4RU5jSlZ4RjZPdGlUQlViR3JkNnN0ZzdGS3ZIT0N3UHJqajQzWlRteVVRZ3NMZjhQVXY3bWVwX2RNSzRnYXdLWFNDbzdsOGxpWlRSNGowQmZSbXpadGp6Mzlxa3FYcmJUYlpM?oc=5
-
-- Charged for saying ‘I love Muhammad’, India’s Muslims decry gov’t crackdown - Al Jazeera
-  Al Jazeera reports that a Muslim man in India was
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVUtVGFfNW5jU0E3VE5RVlpCNGJHZEItdTRxWVh1YVREcTBDUDJuV1FQejN5Ukl4SENBUU9XVGFHVkt2SXA2X05MOFo2V041dkFLOW4yZV93cEFMbmx2bFRGQ2xIQll1b2RUS21IUTAyakJpSWNmcU1Cb1QxWm1rczBmcU5tb3lIYTZldmo1a0NPWTQyVDlFRWRMMW1TeXM2LXd0bnNCTkNSaUxRdk9uZXlB0gG3AUFVX3lxTE1wZ3huNmlqcm81TGtBQVQzMHR2c2g2QWRvSGpDQ1ZSMmRXOHhaQTRIcjZzeEhxb0xUQm9pX0JZbDhEVmhmY2FRYTZHZHJNc0VxeERtUmJBNWJMbWZ1dFB0Uk84RVhoTWJtbmlnVk1PN2VIYWxNUGVIMmctQXZmeHRKOENwbDF0U1hJLVhiaDQyQ0Nfa0ZtLVUwdmdZcjNQUmotZlZLMzFzNDBRT1N3LXdUbUpMV2VLTQ?oc=5
-
-- DK Shivakumar Slams BJP's Criticism, Says 10,000 Bengaluru Potholes Fixed - NDTV
-  DK Shivakumar Slams BJP's
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTRxRWJtQjljQzZVcUlEajNEMmE2RFhwcFJCdlA4SHpHWndkMzhYY1VoTFN3X1l5VGlEb1lIVHpOQUFGMkhzSFNzaDV0ZlA5UDVEdUlYWVRYUXZsZ1dqaEM1dm0ybzUzZ0xzblhfLVlRNWlublJYc0RPbUUzSHRvYW0yZWtoNlJaa3ZfcmxTRzZYc0ZwQ0U5aVB3djFyVVBQbUxhcnJyUDVPbkNtd1hyN9IBuAFBVV95cUxQVHdGUlhyYVB2eFhtd1pya1FuLVVJbEVwWlI5Ty1zSHdRSkZiVFNpWFZBbjRvWXh3dGNqSHpoZkcyMGFLQllSRmN1S0VzM19PQ3pzXzhSY0NPd3pRLVpISnNZcVptTFVuTW5IRTlPdGhiSmRmOW1JUTd6MlNvSC1QOW15QTRmQzgxeGh0WUlRTjZNTDN3WEtoMlNzaVh5NTI4M000NlJ3UFVGMWZDZlpmRFhnMUppSXJE?oc=5
-
-- Banned CPI (Maoist) calls for Bharat bandh on Oct 24 | Latest News India - Hindustan Times
-  Banned CPI (Maoist) calls for Bharat band
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmN6TUVIQ3haM3l0SkNybEpjZGhuWDVlRHpwbjhVblQtbC1GLWZKT1FmV1BnaXNtNDM0UEs1YTBMUHlzMnU2OVAwYWl5aDEwTExWNDhCSkVtWEtHOVlkal9QU0ZjYzU4Z3JpajhDWkR6V1d4OTFMcjVHYzdHcWhnbXBCenZhVTVVSkZzcDI1b2J4QkRiZGlRQXRyaktRMzJvVWRXcFZKX0hmblc2cXRLMFpoY9IBuAFBVV95cUxPNE5nX2FxSWdKV3JkNDJqd0RPQ01uMWRjY0U5bVZKU1E3aHRDNXBNTUgwb18taVgxS1pteUY0NFVlRDVTcEdCN25CLUxKRmRqSlVwbDRXaHVRVkxFYzhBQkRtTHdkSGQwTkd6cDBWaWNPTW1aZHN6VzNWdlBybnpDb2p1WTc2Q0FHMFQ0T0lwR1JOTTRwdVl3Ykkxcm10RU1VclRRSHptb0t5cGo3MHRyd0cycURWc2lM?oc=5
-
-- China questions India’s PLI, EV sops at WTO - financialexpress.com
-  China questions India’s
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQV3JvckJVMFRpZjVwY0VxeWhvM3kteDI0NUo4QnBIQmtvZjZ2NXhTbFIyVlkwd2tzT3prTC1VZlBPVWZoYjFvRGptOWx3VEJONF9fQV9ENE5YdTZFQUZyUzhtejVHSnpua1N5LVMyUk1hRzRZRVVKLXdxVi1ma3cxUGxkTnRjYlExekwxRHp2TE9LOWNnQzdmWVZHNURua3RNanlHZkR30gGsAUFVX3lxTE5GczF1NlZfaDl6MWlzMnotOGhqYWt4a09scWJUZXBWVldZaDlyYnZNTm8zcFRWdE9tblNhZUVKQ2FKdmZTSTdZelJqTl84VHB5MW5yZTYxMVdkb3lsMTdvanhOOWM5TFd2OE5XaDZuNEhBTXhXbGl0TmtaLUFRaHFfM0pxeTg3cFRZbzdIYy10bXltakRJVlZCaTVZSjI2RjlfYUdrcFdLa093ODE?oc=5
-
-- Upgrading strike capability: India tests 800-km BrahMos - Times of India
-  The Indian government is upgrading its
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXljRllMVDVNTkJWbGNORXFvazZDVXlpV3hJai1GTmtPamxrbnJuRlV0aXJTM05VOUFqMFl1MjJSZlUwQ3RNRUdzQVZHY3RaaDVXQXJRQkU3dnAzemN0bFlHdWowMHNwTTZ2MXktRm1jUXVhQWFqaEc2SnZwU0p6TVJ4T2JIZVFZazhLbWJZUVRpandITXBPS3VrdUJKMC1Bc0FFb0RfZTZXYVVXb1NFVU5UMWNxT1VpU0JjZmhOTdIBxAFBVV95cUxQTG5TNGk2T3RUbTBJZWg4NWFta0VCeUF4MjJucDVnVjNCQTVvVE85SFFnYU1pRTV1ZUJyZmRpcmpzX0F2Z3RoaWtCNnowdXJJN1J0bXk5a09SS3FNVS12OVI4RU5jSlZ4RjZPdGlUQlViR3JkNnN0ZzdGS3ZIT0N3UHJqajQzWlRteVVRZ3NMZjhQVXY3bWVwX2RNSzRnYXdLWFNDbzdsOGxpWlRSNGowQmZSbXpadGp6Mzlxa3FYcmJUYlpM?oc=5
-
-- Charged for saying ‘I love Muhammad’, India’s Muslims decry gov’t crackdown - Al Jazeera
-  Al Jazeera reports that a Muslim man in India was
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVUtVGFfNW5jU0E3VE5RVlpCNGJHZEItdTRxWVh1YVREcTBDUDJuV1FQejN5Ukl4SENBUU9XVGFHVkt2SXA2X05MOFo2V041dkFLOW4yZV93cEFMbmx2bFRGQ2xIQll1b2RUS21IUTAyakJpSWNmcU1Cb1QxWm1rczBmcU5tb3lIYTZldmo1a0NPWTQyVDlFRWRMMW1TeXM2LXd0bnNCTkNSaUxRdk9uZXlB0gG3AUFVX3lxTE1wZ3huNmlqcm81TGtBQVQzMHR2c2g2QWRvSGpDQ1ZSMmRXOHhaQTRIcjZzeEhxb0xUQm9pX0JZbDhEVmhmY2FRYTZHZHJNc0VxeERtUmJBNWJMbWZ1dFB0Uk84RVhoTWJtbmlnVk1PN2VIYWxNUGVIMmctQXZmeHRKOENwbDF0U1hJLVhiaDQyQ0Nfa0ZtLVUwdmdZcjNQUmotZlZLMzFzNDBRT1N3LXdUbUpMV2VLTQ?oc=5
-
-- DK Shivakumar Slams BJP's Criticism, Says 10,000 Bengaluru Potholes Fixed - NDTV
-  DK Shivakumar Slams BJP's
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTRxRWJtQjljQzZVcUlEajNEMmE2RFhwcFJCdlA4SHpHWndkMzhYY1VoTFN3X1l5VGlEb1lIVHpOQUFGMkhzSFNzaDV0ZlA5UDVEdUlYWVRYUXZsZ1dqaEM1dm0ybzUzZ0xzblhfLVlRNWlublJYc0RPbUUzSHRvYW0yZWtoNlJaa3ZfcmxTRzZYc0ZwQ0U5aVB3djFyVVBQbUxhcnJyUDVPbkNtd1hyN9IBuAFBVV95cUxQVHdGUlhyYVB2eFhtd1pya1FuLVVJbEVwWlI5Ty1zSHdRSkZiVFNpWFZBbjRvWXh3dGNqSHpoZkcyMGFLQllSRmN1S0VzM19PQ3pzXzhSY0NPd3pRLVpISnNZcVptTFVuTW5IRTlPdGhiSmRmOW1JUTd6MlNvSC1QOW15QTRmQzgxeGh0WUlRTjZNTDN3WEtoMlNzaVh5NTI4M000NlJ3UFVGMWZDZlpmRFhnMUppSXJE?oc=5
-
-- Banned CPI (Maoist) calls for Bharat bandh on Oct 24 | Latest News India - Hindustan Times
-  Banned CPI (Maoist) calls for Bharat band
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmN6TUVIQ3haM3l0SkNybEpjZGhuWDVlRHpwbjhVblQtbC1GLWZKT1FmV1BnaXNtNDM0UEs1YTBMUHlzMnU2OVAwYWl5aDEwTExWNDhCSkVtWEtHOVlkal9QU0ZjYzU4Z3JpajhDWkR6V1d4OTFMcjVHYzdHcWhnbXBCenZhVTVVSkZzcDI1b2J4QkRiZGlRQXRyaktRMzJvVWRXcFZKX0hmblc2cXRLMFpoY9IBuAFBVV95cUxPNE5nX2FxSWdKV3JkNDJqd0RPQ01uMWRjY0U5bVZKU1E3aHRDNXBNTUgwb18taVgxS1pteUY0NFVlRDVTcEdCN25CLUxKRmRqSlVwbDRXaHVRVkxFYzhBQkRtTHdkSGQwTkd6cDBWaWNPTW1aZHN6VzNWdlBybnpDb2p1WTc2Q0FHMFQ0T0lwR1JOTTRwdVl3Ykkxcm10RU1VclRRSHptb0t5cGo3MHRyd0cycURWc2lM?oc=5
-
-- China questions India’s PLI, EV sops at WTO - financialexpress.com
-  China questions India’s
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQV3JvckJVMFRpZjVwY0VxeWhvM3kteDI0NUo4QnBIQmtvZjZ2NXhTbFIyVlkwd2tzT3prTC1VZlBPVWZoYjFvRGptOWx3VEJONF9fQV9ENE5YdTZFQUZyUzhtejVHSnpua1N5LVMyUk1hRzRZRVVKLXdxVi1ma3cxUGxkTnRjYlExekwxRHp2TE9LOWNnQzdmWVZHNURua3RNanlHZkR30gGsAUFVX3lxTE5GczF1NlZfaDl6MWlzMnotOGhqYWt4a09scWJUZXBWVldZaDlyYnZNTm8zcFRWdE9tblNhZUVKQ2FKdmZTSTdZelJqTl84VHB5MW5yZTYxMVdkb3lsMTdvanhOOWM5TFd2OE5XaDZuNEhBTXhXbGl0TmtaLUFRaHFfM0pxeTg3cFRZbzdIYy10bXltakRJVlZCaTVZSjI2RjlfYUdrcFdLa093ODE?oc=5
+- "Foreign Terrorists Big Challenge": Jammu Sees 120 Anti-Terror Ops Every Day - NDTV
+  "Foreign Terrorists Big Challenge": Jammu
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbnRqbC0tM2dTOWtxcjNQMlRyM0NsejdNb2FUd283X2hNZmQ4SzZuYk51T2RFTkwzZ2RKdWJLT0JUZW9HRmtLLWJ4OHpsajFacXAydTNRc0tYdE5BM25xcDZ1bTA3ekVUTF9aeTdkaXY4S1dnSjNGS3doaEdNZUk4MnZxUi00UDhWbGZ0eE5sejZwcXlUSFBkQnhoS0VXVlNMamx4emlmcFJhb1hBdTdpUnhGd9IBuwFBVV95cUxPLTZ5Y2VaWUl0b1NsNmUtcmJlSlFmbGUtbWhPYWlIa2xydWdvQVZRekEwMF9OUl9UaThGdktzNER3LUhQU0hQQkNmcksxdmxEWUJlU1ZmUlBVRTJOR0JWdmVxQS0zdXR3ZFlXTnZpUjktVUJiZUUtMk5BbHlNQlRyeDdSczJ4NURRQzBPc3hVX1JBUE1XR0dZcEV3TTBOZkN6YVk5bl92WGJyeUsxalg3MVpRSkExX0FrU3hB?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-21 12:36:11 UTC_
+_Last updated: 2025-10-21 18:25:28 UTC_
