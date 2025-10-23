@@ -1,224 +1,204 @@
 # 📰 Daily News Summaries
 
-- India News LIVE Updates: PM Modi to join ASEAN-India Summit in Malaysia virtually
+- Mayawati expels Shamsuddin Rain citing indiscipline; BSP leader says missed call to blame
   
-  🔗 https://indianexpress.com/article/india/india-breaking-news-live-updates-modi-asean-bihar-weather-10321972/
+  🔗 https://indianexpress.com/article/india/mayawati-expels-shamsuddin-rain-indiscipline-bsp-leader-missed-call-10322766/
 
-- Violence in Tripura day before 24-hour bandh: BJP workers injured, 6 vehicles damaged
+- In J&K Assembly, NC, BJP spar over obituary reference to former governor Satyapal Malik
   
-  🔗 https://indianexpress.com/article/india/violence-tripura-day-24-hour-bandh-bjp-workers-injured-6-vehicles-damaged-10322002/
+  🔗 https://indianexpress.com/article/india/jk-assembly-nc-bjp-spar-over-obituary-reference-former-governor-satyapal-malik-10322714/
 
-- Bihar Assembly Election 2025 Live Updates: ‘All issues will be ironed out’, says Ashok Gehlot ahead of Mahagathbandhan press meet
+- Centre defends Forest Rights Act in Supreme Court, says law restores dignity and livelihoods of forest communities
   
-  🔗 https://indianexpress.com/article/india/bihar-election-2025-live-updates-mahagathbandhan-tejashwi-yadav-nitish-10321889/
+  🔗 https://indianexpress.com/article/india/centre-forest-rights-act-supreme-court-livelihoods-of-forest-communities-10322679/
 
-- Tamil Nadu Rains & Weather Today LIVE Updates: Chennai, 4 other districts on ‘yellow’ alert for heavy rain; schools shut in parts of state
+- Algerian-French artist’s work vandalised at Kochi art gallery over ‘obscenity’ allegations
   
-  🔗 https://indianexpress.com/article/india/tamil-nadu-rains-weather-live-updates-chennai-yellow-alert-schools-shut-10321781/
+  🔗 https://indianexpress.com/article/india/algerian-french-artists-work-vandalised-kochi-art-gallery-obscenity-allegations-10322573/
 
-- Srinagar-bound IndiGo flight diverted to Varanasi after mid-air fuel leak alert; all 166 passengers safe
+- Chhath Puja 2025: Indian Railways to run 1,500 special trains to clear festival rush – check routes
   
-  🔗 https://indianexpress.com/article/india/srinagar-bound-indigo-flight-lands-varanasi-fuel-leak-alert-10321801/
+  🔗 https://indianexpress.com/article/india/indian-railways-run-1500-special-trains-for-chhath-puja-check-routes-10322429/
 
-- Meta adds screen-share warning and AI scam detection to WhatsApp and Messenger
+- Why this Harvard professor says boredom might be the key to happiness
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-whatsapp-screen-share-warning-ai-scam-detection-messenger-10321851/
+  🔗 https://indianexpress.com/article/technology/science/why-this-harvard-professor-says-boredom-might-be-the-key-to-happiness-10322695/
 
-- Water in rare pre-solar system rock fragment found on the ‘dark side’ of Moon could be key to understanding Earth’s history
+- Over 30% of Apple, Nvidia employees from Tier-3 colleges: Are IITs, IIMs losing edge?
   
-  🔗 https://indianexpress.com/article/technology/science/water-in-rare-meteorite-fragment-on-moon-earths-history-10321898/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/one-third-apple-nvidia-employees-from-tier-3-colleges-survey-10322558/
 
-- Amazon develops AI smart glasses for its delivery drivers
+- Google Maps vs Mappls: 3 features that make Mappls stand out in India
   
-  🔗 https://indianexpress.com/article/technology/amazon-develops-ai-smart-glasses-for-its-delivery-drivers-1031893-10321893/
+  🔗 https://indianexpress.com/article/technology/techook/google-maps-vs-mappls-3-unique-features-india-10320764/
 
-- Amazon plans to replace more than half a million jobs with robots
+- AI models like ChatGPT can develop ‘brain rot’ from online junk content, study reveals
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-plans-to-replace-more-than-half-a-million-jobs-with-robots-10321809/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-models-llm-brain-rot-junk-content-thinking-reasoning-decline-10322038/
 
-- Apple reportedly scales back iPhone Air production ‘by more than 80%’
+- Here’s why Elon Musk is worried about building Tesla’s future ‘robot army’
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-reportedly-scales-back-iphone-air-production-by-more-than-80-10321787/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/why-elon-musk-is-worried-robot-army-tesla-10322212/
 
-- Who is Sumaiya Balbale? Sequoia Capital COO who quit after ‘Islamophobic’ remark by top executive
-  The controversy has prompted over 1,000 founders and employees to sign an open letter urging Sequoia Capital to act.
-  🔗 https://www.livemint.com/companies/people/who-is-sumaiya-balbale-sequoia-capital-coo-who-quit-after-islamophobic-remark-by-top-executive-11761195330355.html
+- Top Indian carmakers want to turn half their cars clean by 2030. But they won't all be EVs
+  Maruti Suzuki, Hyundai, and Tata Motors target 50% clean fuel car sales by 2030. The push will require them to increase the contribution from hybrids by
+  🔗 https://www.livemint.com/companies/news/carmakers-clean-fuel-cars-50-sales-2030-hybrid-push-11761209904443.html
 
-- HUL Q2 results: GST cuts weigh on sales, profit up 3.8%
-  GST rate cuts in crucial categories, including packaged food and other staples, weighed. MD and CEO Priya Nair
-  🔗 https://www.livemint.com/companies/company-results/hul-hindustan-unilever-q2-results-fy26-2026-fmcg-gst-impact-hul-share-price-11761122313553.html
+- Meet most followed entrepreneurs on LinkedIn in Avendus-Hurun India U35 List: Ritesh Agarwal, Alakh Pandey and more
+  The Avendus Wealth – Hurun India U35 List 2025 has highlighted top entrepreneurs in India. These entrepreneurs have built ‘massive personal brands’
+  🔗 https://www.livemint.com/companies/people/oyo-ritesh-agarwal-physicswallah-alakh-pandey-vidit-aatrey-most-follow-entrepreneur-linkedin-avendus-hurun-u35-list-2025-11761217697341.html
 
-- Reliance may ‘completely halt’ Russian oil purchases; ‘massive cuts’ in crude imports likely after US sanctions: Report
-  Reliance Industries Ltd, the top Indian buyer of Russian oil, is planning to sharply reduce or completely halt crude imports from Moscow
-  🔗 https://www.livemint.com/companies/news/reliance-may-completely-halt-russian-oil-purchases-massive-cuts-in-crude-imports-likely-after-trump-us-sanctions-11761197357540.html
+- Aurobindo Pharma expands footprint in South America with new subsidiary in Chile
+  This initiative is part of Aurobindo Pharma’s broader strategy to
+  🔗 https://www.livemint.com/companies/news/aurobindo-pharma-expands-footprint-in-south-america-with-new-subsidiary-in-chile-11761219138666.html
 
-- Who is Karthik Narain? Former Accenture CTO welcomed by Sundar Pichai after taking top role at Google Cloud
-  Google Cloud named Karthik Narain its new Chief Product and Business Officer. Narain will focus on AI and enterprise technology.
-  🔗 https://www.livemint.com/companies/people/who-is-karthik-narain-former-accenture-cto-welcomed-by-sundar-pichai-after-taking-top-role-at-google-cloud-11761182270609.html
+- HUL bets on price cuts and monsoon to lift demand after GST cuts hit Q2
+  Newly appointed MD and CEO Priya Nair said the company was confident that GST rate cuts and a good monsoon will
+  🔗 https://www.livemint.com/companies/company-results/hul-q2-gst-impact-demand-rebound-11761214455110.html
 
-- Polymarket in talks to raise funds at a valuation of up to $15 billion
-  Polymarket is looking to raise money at a valuation between $12 billion and $15 billion. That's more than 10 times its value just four months ago.
-  🔗 https://www.livemint.com/companies/news/polymarket-in-talks-to-raise-funds-at-a-valuation-of-up-to-15-billion-11761181478041.html
+- Perplexity founder Aravind Srinivas shares number 1 skill needed to be CEO, and it's not what you might think
+  Aravind Srinivas is the founder of Perplexity, an artificial intelligence startup. He says the most important skill needed to be a CEO is to be able to
+  🔗 https://www.livemint.com/companies/people/perplexity-founder-aravind-srinivas-number-1-skill-need-be-ceo-what-you-think-accept-imperfection-funds-investors-11761214450714.html
 
-- Kitex Garments, Vardhman Textiles, KPR Mill and other textile stocks jump up to 17% on India-US trade deal optimism
-  Textile stocks including Vardhman Textiles and Gokaldas Exports surged up to 17% as optimism about a US-India
-  🔗 https://www.livemint.com/market/stock-market-news/kitex-garments-vardhman-textiles-kpr-mill-and-other-textile-stocks-jump-up-to-17-on-india-us-trade-deal-optimism-11761198840927.html
+- Laurus Labs Q2 Results: Profit surges 875% YoY to  ₹195 crore; revenue up 35%
+  Laurus Labs reported a significant increase in revenue and net profit for the second quarter of fiscal year 2026. The company's revenue rose by 35% year-on-year to  ₹1,
+  🔗 https://www.livemint.com/market/stock-market-news/laurus-labs-q2-results-profit-surges-875-yoy-to-rs-195-crore-revenue-up-35-11761221604471.html
 
-- HUL share price gains 3% after Q2 results. Should you buy the FMCG stock?
-  Hindustan Unilever (HUL) share price rallied nearly 3% on Thursday after the FMCG major reported its
-  🔗 https://www.livemint.com/market/stock-market-news/hul-share-price-gains-3-after-q2-results-should-you-buy-the-fmcg-stock-11761198601310.html
+- Gold loan stocks fall up to 6% from October highs as sharp drop in precious metal sparks sell-off
+  Muthoot Finance and Manappuram Finance dropped 3% and 1.45%. Despite recent declines, both stocks show solid year-to-
+  🔗 https://www.livemint.com/market/stock-market-news/gold-loan-stocks-fall-up-to-6-from-october-highs-as-sharp-drop-in-precious-metal-sparks-selloff-11761219501211.html
 
-- Midwest IPO listing date tomorrow. Here’s what GMP signals about the Dalal Street debut
-  Midwest IPO listing date is October 24, Friday. Equity shares will be listed on both the stock exchanges, BSE and NSE.
-  🔗 https://www.livemint.com/market/ipo/midwest-ipo-listing-date-tomorrow-here-s-what-gmp-signals-about-the-dalal-street-debut-11761197580876.html
+- Colgate Q2 Results: Profit tumbles 17% YoY to  ₹328 crore; interim dividend of  ₹24 announced. Check details
+  Colgate's Q2 profit after tax came in at  ₹327.51 crore, as against  ⁹395.05 crore in the same period a year ago.
+  🔗 https://www.livemint.com/market/stock-market-news/colgate-q2-results-profit-tumbles-17-yoy-to-rs-328-crore-interim-dividend-of-rs-24-announced-check-details-11761219168466.html
 
-- HUL Q2 results 2025 declared:  ₹19 dividend to net profit; five key takeaways you should know
-  HUL Q2 results: Net profit at  �
-  🔗 https://www.livemint.com/market/stock-market-news/hul-q2-results-net-profit-at-rs-2-694-crore-fmcg-major-declares-rs-19-per-share-interim-dividend-11761197706275.html
+- Crypto exchange WazirX to resume operations after year-long halt post cyberattack — check date, other details
+  WazirX will restart trading on October 24. Users will not have to pay a trading fee initially. The platform aims to regain trust while expanding its services.
+  🔗 https://www.livemint.com/market/cryptocurrency/crypto-exchange-wazirx-to-resume-operations-after-year-long-halt-post-cyberattack-check-date-other-details-11761210820321.html
 
-- Shares to buy in short term: Mehta Equities’ Riyank suggests Bharti Airtel, Motilal Oswal, Paytm stock to buy
-  The Nifty 50 index opened at 26,057.20, while the BSE Sensex reached 85,154.15. Analysts highlighted a meeting between US President Trump and PM Modi as
-  🔗 https://www.livemint.com/market/stock-market-news/shares-to-buy-in-short-term-mehta-equities-riyank-suggests-bharti-airtel-motilal-oswal-paytm-stock-to-buy-11761193845767.html
+- Small-cap stock under  ₹50 jumps  20% after this update
+  North Eastern Carrying Corporation shares rose nearly 20% after submitting verified minutes from its 40th AGM, complying with SEBI regulations. The logistics provider reported revenue of
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-jumps-20-after-this-update-11761212530049.html
 
-- Sundar Pichai hails 'verifiable' quantum computing breakthrough as Google's Willow surpasses ability of supercomputers
-  Google's Quantum Echoes algorithm operates 13,000 times faster than traditional supercomputers. This enables verifiable applications in medicine and materials science, Google says.
-  🔗 https://www.livemint.com/technology/sundar-pichai-hails-verifiable-quantum-computing-breakthrough-as-googles-willow-surpasses-ability-of-supercomputers-11761179642580.html
+- Top Strategic Technology Trends for 2026 - Gartner
+  Top Strategic Technology Trends
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE5rSmhUdUNVRmJuc2huUU9mdWFuWDVLcjRlX21jVDI3UzZYcWFRX002WnRvaEZjczJDVEpaUXFCNG1nTG1xQlVKX040RFJ6aHJNZEtqWjdud1FGemNYaTI0aU1SeHE2S04wN2tBTzJWNA?oc=5
 
-- Centre notifies amended IT rules to enhance transparency, accountability in content removal by intermediaries
-  Amendments to Rule 3(1)(d) introduce additional safeguards to ensure that removal of unlawful content by intermedi
-  🔗 https://www.livemint.com/technology/tech-news/centre-notifies-amended-it-rules-to-enhance-transparency-accountability-in-content-removal-by-intermediaries-11761156759133.html
+- Gartner’s Technology Trend Playbook For 2026 - Forbes
+  Gartner's
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPRWZOUlNhRUVNcExiRWhOanM1WW1oOWd1Z2tFSW5yTFVUdmk4YmR0N3dnS1pGX1dGVFJHaUgwVFQ5a09aSzR5M216UFBqeC10OXBZYV9Ic2dSOGRLRUdwdTZtYTJTVmFzMzRhTDhacVRiRDZPTmFRSGNmSmZRdm0wZFJKWjJhUHBfMnAwRGctMnNwWldfbXRGQTd3?oc=5
 
-- YouTube brings a new feature to stop you from endlessly scrolling Shorts: here's how it works
-  YouTube's Timer feature helps users limit time spent on Shorts. The company also said that it plans to add support for parental controls later
-  🔗 https://www.livemint.com/technology/tech-news/youtube-brings-a-new-feature-to-stop-you-from-endlessly-scrolling-shorts-heres-how-it-works-11761153120547.html
+- Google CEO Sundar Pichai brings ex-Accenture CTO Karthik Narain to Google Cloud: Know all about him - financialexpress.com
+  Google CEO Sundar Pichai brings ex-Accenture CTO
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOWhZNlJudVNSa0VoWmJOUkc0cFNnbENRcXZ4aWQ4QnJ1UXpSM0k0R3h5blFLQWxQRWd0Yzl2OEt3S2M1UzE4ZUNKTjZLaWNOZVVtWlR3T3dYQzJuZ25ONk5Hb0ZqdkZvQ3ZmbHJOalFMZ3RxQV83czBhSnozZWktblA4OGV2RGNOWnZSQTR1b012VHQ2OHVTNVctS0R5VndRODM2YVQ0dEh0VGFsRldVMm1MQ0xuczdvVl94SXBjV09LTndYU2tUZTl1bG1HWEZQbEw0WWk0akczaW1oM1dYbTNoSmtkdnl4YWdqa9IB8wFBVV95cUxQcThFZkkteXFWejgzMExHbksyTzIxd250b2R4dXU2YXdZLUNnc24tby00c2tPalZHMDJreG5DUXlZMl9DdEZoS1NaYlR6elNPajd3SG0tZER2UkpYYXd6UWFIT0tfQkNNdlhQeUkzQ2pGeVo5ekV3aUlJdlMzM2VjWGRUOHBsSVRvUXlTZHVhamJOWWtXNTlHaUpuR212MjhfRHZUSk14MHhwdjRRSnpTSjRJeWY4VUNoTWlPdDhjaUVRWEJ0dTFhbEdKdFFnVVlYRWlOV3RUS1BOZnhCeUZGUnlQVFJweFI1elpsY3pwZHA0dUE?oc=5
 
-- 'It just freezes': Spotify users fume over app crashes on Android devices, company responds
-  Spotify app for Android is freezing and crashing for users on Samsung and Google Pixel devices when connected to Wi-Fi. Spotify confirmed the issue but hasn
-  🔗 https://www.livemint.com/technology/tech-news/it-just-freezes-spotify-users-fume-over-app-crashes-on-android-devices-company-responds-11761149165449.html
+- Our Quantum Echoes algorithm is a big step toward real-world applications for quantum computing - blog.google
+  Our Quantum Echoes algorithm is a big step toward real-world
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNS3lISWdkUTlZejQteFYza2NVNThHdzE0THhsSU8xSXk0bF9YZkNTQ2prR3V1Rk5GYWZSSlhROWNRQjJtRVhsZGxRdzRSa1ktdTN3ZVY1SEN2YldleUJuc2lzaFlRNTZKVDlMUC16dkFYMFFZVDJHTmNfdmktTjQxdkViRHNVaElMa0RTZmNBRkxoaVFKS2c?oc=5
 
-- Google and Apple face extra UK scrutiny over strategic role in mobile platforms
-  Google and Apple face extra UK scrutiny over
-  🔗 https://www.livemint.com/technology/tech-news/google-and-apple-face-extra-uk-scrutiny-over-strategic-role-in-mobile-platforms-11761150933193.html
+- Technology will play pivotal role by 2047: JC - The Hans India
+  Technology will play pivotal role by 2047
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxONUNDOWk3LUplSERvc1FNa1FkUjFYUEV3MjRrQzQzQ0s0bVl6Q1RLZDBmdHJEMXJzY0pCd3NCR3J5RkdQZEV5T0tSYUZkTjByQWNmbVJOV0hQT1pFcnhrUWhxXzFBcEp5dUtUZjBjbVVyTU5fcFZYZVRwcGVUUDJNaTVQaUZ5UzV4QzZQMkpLVkZPQUM4RjlyV3lPQkTSAaIBQVVfeXFMTzhpUWp6OXY4bUU4LWJwOWl6R3JxTkZ3dnUtOTluamd5ald5SW45M09yZVFHRXlOUXBOMXFuNDk5YU5oaGkwdkZhZ19RWk5sb1lHaEpySWFTamtRQXVZdEFidEllTkFkWUpiN1pYTUNibmNvNHBOVVhPWUVmR05iYmtBYmNIVGs4dXgwVjVTN1FlUVI5RmdlUmJPcGZSTEtDcVhR?oc=5
 
-- Asia Futures Fall After Choppy Wall Street Session: Markets Wrap - Bloomberg.com
-  Asia Futures Fall After Choppy Wall
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXYxRk9WY2c4TlVBSFBENVVMNEtEOS12cWdIYWtZdkcxbjRwOVQ2R0R2X2tPNmZ4Vy1nUlUzbGo1TnFqSkdCeUtPTF9uNTVfa0NxSFJXS0g3YlVkNHgtOHBqbURGblNSbUV0dHpac3hhajJUYll3dVk3Q2ZvQy1lUUJweUFrLUtRd29SRDd1ZTJWSHBw?oc=5
+- Colgate-Palmolive Q2 Results: PAT falls 17% YoY, revenue down 6% on GST transition. Check dividend
+  Colgate-Palmolive India reported Q2 net profit at Rs 328 crore, down 17% YoY. Revenue fell 6% to Rs 1,507 crore due to GST rate cuts on
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/colgate-palmolive-q2-results-pat-falls-17-yoy-revenue-down-6-on-gst-transition-check-dividend/articleshow/124762256.cms
 
-- Stock Market News, Oct. 22, 2025: Trade Tensions Drive Stock Declines - The Wall Street Journal
-  The Wall Street Journal published a story on Oct. 22,
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNQkhmZzZFNXRWTmctSUY3OExPLWtyNXRQN0NZSXZrYlRDdlNabVoxYkpYQVZHWWQ5eVBGbDFnbEdNcXhCVU1hMFVLOWd6TjI3bnBjUmxxa3g1d3BvSXZFUEZSYW1wTEw4cDVLN0JHREtPVkdoT0g3ZjRscW5iUVcxV1l4bw?oc=5
+- Robert Kiyosaki says don't be late in buying Bitcoin, warns of supply running low
+  Robert Kiyosaki, author of Rich Dad Poor Dad, announced he’s buying Bitcoin. He cited its finite 21 million supply and growing global demand.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/robert-kiyosaki-says-dont-be-late-in-buying-bitcoin-warns-of-supply-running-low/articleshow/124762152.cms
 
-- Crypto markets fall for 7th consecutive day, Bitcoin trades at $108,000, Ethereum at $3,800 - The Economic Times
-  Crypto markets fall for 7th consecutive day. Bitcoin trades at $
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ2VMd1UxQXI5NjRyLU1IZ2Jfd3Rkb05ob3RpMGI0M3FpdjJ4NjFrWExnNXp0SFFKbTVxNFJWenE2eWVxSjFBT1RFM2FIdjd5blg5cFhTbTNobGdRajc0dGlLbVB6UTZuMFFqdjh2OWN3dUdwc2U1MmNGZ25MTmtqdGpLWEFoZ2FaUktlQzNmY1V3cEJsa2JEcHNRSGdabWhuRDUyLVdwQW9lU3NvNDVUOEwxSDhZcUhkem5KQW5hZ0tfaWJHd29uYWtHaVFiN0h0QlJqQUxHc3dxTVdpWDVWdHlXNjZVVFdKdXprZjUySU9yc1BL0gH6AUFVX3lxTE9iUzAtZExUeWN5cEtfbWpvYmdKOXpqbW5iSVdUcnhQbVNvUW1ZTDBIMWYtZzhVQmJkYlg5LVV3bkp4eHVyVGY3aW5Lc25OWktqb1NDeDBfNjVvZmlnb1k2T0ZQLUdrdGlTOWVMMDZDemxrSHFxOXI5ZHQxU19WcUgxaGlkc1NoODBvYWh5OWFDeXgyUnhmVFd3UjlKZDY4NEJka2hnM05qNXZNMlc1a0J0cklHclJaOUFueXpnVExLVHkzSmw4ZU1RN2UwNHpkX3VoVkd1YmpBUURydlpTZUxsQkpSeE1lUFZuMkFic29lZHBMVzRmdVgycmc?oc=5
+- Scrip change: Tata Motors to be renamed Tata Motors Passenger Vehicles from October 24
+  Tata Motors will be renamed Tata Motors Passenger Vehicles (TMPV) from October 24. The restructuring splits its commercial and passenger vehicle divisions into independent listed entities.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/scrip-change-tata-motors-to-be-renamed-tata-motors-passenger-vehicles-from-october-24/articleshow/124762016.cms
 
-- Stock Market LIVE: Sensex rises 600 pts, Nifty above 26,000 amid broad-based buying; Infosys up 4% - Business Standard
-  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQd3ktbUc2VFBUTDVpUkEyTTFKMDlGRXNfREI3RmMtRUctaVI1aVk2dGlSZ0kwYkN2ZU1ub3hWSTI4Wkk0aXd4RVUxTTV0ZC03SnR6N3VqendsdTBxWTJtRVpfbVk4WFNMcV
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQd3ktbUc2VFBUTDVpUkEyTTFKMDlGRXNfREI3RmMtRUctaVI1aVk2dGlSZ0kwYkN2ZU1ub3hWSTI4Wkk0aXd4RVUxTTV0ZC03SnR6N3VqendsdTBxWTJtRVpfbVk4WFNMcVFKbTd0NTJNZWNEQ0l6UWFiNjhXUnNUOXU0ZlAzR0pBMWk5aDZkeEphWmtVQ1V3UFA3S0c5d1NLU0VoY2hJX1p1VmQtYXNTanR5ZVNRcnY1TDNuZm1yNGd6M1dRTnhzbEFpZHc2NnJfekhwVm1XVkkzMUVEbFo2dlJzTl81TEhCS2tBSUR4WnpCR05wd3BDZVpsYVJVNFFx0gGGAkFVX3lxTE9LUnVxY2lfX1YzRGp6aEFybE5vRHRHcWV4ZGN3YVE4a09rS0lxaUlzX0FTWG5WMGRjSi1xcXM3UE5QRFlFc2lDZFo1MHNMdGotUWpXMV9wX1ZMN2FqTUlEbWg3azFwMDh4RlVFUDM2UEh2c21jYkJ5YktTYkRiUTU3YVVFaldEbC1hRTBKUDRUeFZCM0lNNC14eXRnVEZHUFViZWt3NDNJTlZ4NXltYlBsTkJ3Smxpd1JyeE9xYjNXeFVuTXZ6WDk4RFR6V0tiMU56NWRkVUpFcmU5VXVlZUJqMU1XRVB6N3FCamZtcmhIUEhfblQ2ejQ1WE0wQ1V0czFkaVphUWc?oc=5
+- JP Morgan sees gold averaging $5,055/oz by late 2026
+  JP Morgan says gold prices could reach an average of $5,055/oz by the fourth quarter of 2026.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/jp-morgan-sees-gold-averaging-5055/oz-by-late-2026/articleshow/124761877.cms
 
-- Asian stocks today: Markets trade in red tracking Wall Street's losses; Nikkei down almost 800 points, Ko - Times of India
-  Asian stocks today: Markets trade in red tracking Wall Street's losses. Nikkei
-  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxOb1cxZXBnX1FJV2NTOTlpSzhabnFTZUZ1Z29lSEV2VmZ1cko3UmpSZ3piMzh0cnZlWkxJN0F1SlpILXByemdQd29xU0g3S2ZWV1hoUUthRm9KS3JGMlNFSGFiX0JRUUxtbHZ6OGkzUXVicndwYW5xMkpvNk1uTXlkTE1BdUYwTkluSzd2Ti1ZUFlpdGhJaDBiWGdNaGlVZEVpdnNITElKN0cxaWFJQUJaQ1RLQW1feUxxblZBREcxTVotZlRoRXBfR3ZldmpoQ3VkTVgyWFUtWEFER05UT0lKZ3A0d2RhMEhIZWtaTGZKOVNBM2VORlIxT0RfbHVZcVBNbUYyd09CVkl3Tk0tbW5EMFlyR0dNbVNxVXBsX2lrOEY5S2FJdC1ZWFoyVmVPWlnSAbQCQVVfeXFMUFhxb1JsZ0pUaElRSDBTQkFfOG9YU1hwTllGazUwNGdfVnhoOHR6dW54RS10M0RQbjdFNGk2Q3I4a2QxdEhxcUhGT3FiZm9FZlpTWWlza1VSYk9faWNHT3RSa3B6d0ZZMm9xTGIzRlhBUUYxTnl6cTRYaWFXWnRmV2UzR0EzRVNxalZmdFctcVAzMDVZUEc2SGpKRXVxcV9zUGRON1EyY1o5Z3dHQkpZX19QTlhYVGtNdFlsa05FaDBmT0w1NHdvcEhxNlpIcVc3a21yNkRLTDRmalFhcTRTc3ktRFlCR21rblFZN1RxenJBV2xqd3FPYzlEZmEzQ3NvX3pPbFNYd3prUEozLWxSWU10MXJ6LWdhWHpxbTVNbFZsZ1dCc2JrOXJoY0ZYVVo4TDdjR1Y?oc=5
+- Sensex, Nifty hit 52-week highs | Markets cheer trade pact hopes, festive momentum
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-hit-52-week-highs-markets-cheer-trade-pact-hopes-festive-momentum/videoshow/124761376.cms
 
-- HUL Q2: FMCG major declares interim dividend of Rs 19 per share; check record and payout dates
-  HUL has announced an interim dividend of Rs 19 per share for its eligible shareholders. The FMCG major reported a consolidated net profit of Rs 2,694 crore for Q2FY26.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hul-q2-results-fmcg-major-declares-interim-dividend-of-rs-19-per-share-check-record-payout-date/articleshow/124754635.cms
+- Why India’s Gen Z is not taking to the streets - BBC
+  Why India’s Gen Z is
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xVFVZMUxmQ0N1ZHhVMkRCWlhlZmpxRlBPTEk4dDNYMzlfanVOTjc0bTEwdU1xbUpqRDNPV05RajBBVHQtMHVZYjQxZHZMdTlFRUNTbUI1MW1hUdIBX0FVX3lxTE94ZS0xbnZPQ2lnak1EUm9taHZORVIxd1JqaDR2bG9FNGZQcG1hSTU1MU1kd3UwOUxDM2xNa2hJQm1sUDUyc2NXOHZ6c3ROTXVDZldNOS1xRUhwNkxNY21n?oc=5
 
-- Indian bonds slip on lack of buying interest
-  Yield on the benchmark 10-year bond increased, attributed partly to profit-taking by state-owned banks. Simultaneously, the stable yield of U.S. Treasuries cast a shadow over Indian bonds.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-on-lack-of-buying-interest/articleshow/124754345.cms
-
-- Crypto markets fall for 7th consecutive day, Bitcoin trades at $108,000, Ethereum at $3,800
-  Cryptocurrency markets experienced a downturn for the seventh consecutive day. Traders trimmed risk ahead of U.S. inflation data. A major Bitcoin holder's exchange deposit and increased short positions signaled caution.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-markets-fall-for-7th-consecutive-day-bitcoin-trades-at-108000-ethereum-at-3800/articleshow/124754320.cms
-
-- Gold tumbles for 3rd day after biggest ETF exodus since May. Here’s what else is dimming its shine
-  Spot gold dropped 0.5% on Thursday, driven by a technical reset and the largest single-day ETF outflow in five months. Geopolitical tensions and hopes for a US-China trade deal also weighed on the safe-
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-tumbles-for-3rd-day-after-biggest-etf-exodus-since-may-heres-what-else-is-dimming-its-shine/articleshow/124754194.cms
-
-- HUL Q2 Results: Cons PAT rises 4% YoY to Rs 2,685 crore; revenue up 2%
-  Hindustan Unilever announced a net profit of Rs 2,685 crore for the second quarter of FY26. Revenue saw a modest rise to Rs 16,241 crore. The company declared an interim dividend of Rs 19 per
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hul-q2-results-cons-pat-rises-4-yoy-to-rs-2694-crore-revenue-up-2/articleshow/124754151.cms
-
-- India Nears Deal To Slash US Tariffs On Imports To 15%-16%: Report - NDTV
-  India Nears Deal To Slash US Tariffs On
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3BkV3E1LXhyU2R0Um1MaHNfY3pEZjVVV3JEMnFfaFRscWRSTlRKYVVWVWh3M24zcVVmZUF3eFdMQ0FjRHFjbDdaWWVvZzM5dlNwanlvV3FvRDIwU04xWDBwaDBjdmxzbGItS00yYXFUeWZoNkJsOTJzNXZiMUhwVk96OHF2MldnSzRpUkpfaTJtQ01DTzFla3hZZVptalJmaTNZZDdn0gGuAUFVX3lxTE4wRklYZG0ya0VDLXcteUViNzlrcGFMQlRSd1JQR2dPcW1kcVhMdjVocHgxRGNTRmxpTERvcG92d1BUSThfV1dBVjY3REtjYVhUVnRiUml2X2MycnMtMWp4dDcyOTRHemJjWlk4VS1pY3k0WmY2ZHNXTVJGbW5aRk1CSTJaUGpTT2JKdlM1cl9zZndzZGZsNDhhVFBwMnpzWHFXbTZyclczZ2ZscVctUQ?oc=5
-
-- India News LIVE Updates: PM Modi to join ASEAN-India Summit in Malaysia virtually - The Indian Express
-  India News LIVE Updates: PM Modi to join ASEAN-
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdk8yX1gtemlWV3FSbTVUdE5DRTgxXzBGZkk1OWplelI3V0lmLXJxU25KaEdxRGtGaTljX3g4NXk2emVkZkpCMFV5UHBmUzUxTnlEVnZSMEU0RmZBU1VnMjd1bXJVYjlWYWI3cGQzQTJFU2d4SnUtQ3hVZFpRLUdTejRjb3NRSEpBWmRSZXhvZmRLdjFldTRaYmZrdkEta0tqRExFLVVRU3JBSlHSAbIBQVVfeXFMTmlibm1LUnNyZ24xWU9RQTVrZFhpc0hpalZKUURVY0liU19jT0pXeHJLSEVvellHcjhrVW9uZE13N1I0Y25PY0h1YTh6QmROMW1DYi1SRG5nOEtRX1FVblFhblZFYW9RMGtHZE5hYUJDUWp0VG0xN0J3MzN2alUwajhCdkJZcEZkRUR4MWktRnVfY05GVUZsX0lhNUlzRFFxa3cxTW9QMTlLWDVMOFRWM1Vfdw?oc=5
-
-- PM Modi Likely To Skip ASEAN Summit In Malaysia - NDTV
-  PM Modi Likely To Skip ASE
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGNVUmZMbDYzTHNMTjNMa2FJNTJGMGtOYTVSamlsemZzeHZVQk9ZS2lHXzh2UG5MYW9STjZ6ZVNTeEtvZTQ2NUViR3NwUW9SSjdOSW5CYzQ2aThZV3dydDFLSTRhVXJ3ckVqcUdtY3RYYW9kX3Z4Y2RCRDY2eVNyUW4zVFpmM2lvV1JuUUZuMjLSAZgBQVVfeXFMTU83QVgxaHJwVVdwWjVsSF8wNnU5SGNxUnJPVWJBeGRnYTdhTHBoWlB3eUtQemhROUZFb0dyV24ybTFHOU5QR0JlWHVqWXVNdDlxVjlnLTc1eHl0S1RPaUsteGNHcEJRdENfVUVkQm1WSjB0aDdBUjhhZEY0al9yeEo3OVZib2lWMUNNSzlGbDVYUWhSYU5ySFk?oc=5
-
-- PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘I respect his decision’ | Latest News India - Hindustan Times
-  PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPdkdsUjR0d1pmeVNlMW1TZ0Q0bzZZaGNUYkdtTk9WQTlHT1dkSE1UcXFMa0VOYzMxdEpmSEhWM2V2M05NeEFyRDZCZmZnSWVqbjFkNTBudWFVV1NnbFRaVUhHcXBtQ2I4ZzhNb1Z4TlpjZ29qbFFLUnJ5ZU1HTU4wV25tZ1cxTEtaOU52bXhvVW5maUNSbGZXSjdVNzc1NDJUbWJOYUs0QnlQcGliLVR4bGZXbEpLM1dFVEVIOXI2UzhScGI0bzlWNFAtbGxxMkhTSmljRzZ4RTdyLWtqbTE2Q2RGMzNqSzZhSmtWR0ItUExIT1RKZXAyVnVueWdibklHQ3fSAYcCQVVfeXFMTnhPSVdvRUhKTTNwbVZlOGlhQ1dNdlp2OHVxNFRBZzF0aTZ2TlptUkJuRXd0UFpDWktoSmJxdjBTWTRXN3BBWDl0MWpJQWlHc0xiU0NUWmdLQTV2UUtZNEVLZjZhVV9rdjBNWjFVNTk4ZmYyZk5lU1gzbjRFbDh3QzBkVVFucVBzeFV3d0FZMW0yRTBGdFJxblkzUUtRSnhVeTBkUmpnSUZsVE9nLVdXNUFxNTlkTDFNNzB6QTNrbzhzdV9xYTVISFJpZlJueXh1QW11WHhrT3U0aUVhOTdJOE40cG9nWFI1VDBBVUFieTd6ZEJGeE8zQVc2SURjb1hJV21RVmZmNWc?oc=5
+- What US Sanctions On Russian Oil Mean For India - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGFVTlhkSFZScjhkMy13VG02UGFPeDNTTEpmZFNNR1JVV3pObmVQNHRFcTZHSWdRSlh6MmRON3dXQ0RqajdHdWc1ZzRvTEMzdXpZMmRSVGJ2M2VEeUpqcTlRNWo1eld2bzhlY3dudXF4cDBuQkNOdW4tUS1WY0pBOE4tRG1pclY4a0RIOHRYNFXSAZgBQVVfeXFMTkE4RDlTNmtLRGpOb29XdjdEVFg3QUs1bHg2WkxSVHRwaVpicVVZdkhsYlR6ZG51Si05bHZiZUlzUEZXejZwWHNNaXJnRmh2dnB0Q1ZuSlVuQnY0N2ZOOGRiMzNvS2I0VEpSQ2FkQksxZ1hENWJQWXY5eUs0WHZaQ3h3bERUT1BONk1sNVZWY2lYRUpHRnluZE0?oc=5
 
 - "It's A Process": Trump Reiterates Claim On India's Russian Oil Imports Amid New Sanctions - NDTV
   "It's A Process": Trump Reiterates Claim On
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0dzeDh1M2Y4QTc1azFBcDBsQ25BMHVwVjc2T3BzRUI5dVdrcGRKOXhaaVZKSjNULUtCTVV4SzhFSHpzOTNVbjZiNGdjM2xsZlBYUkRyQ1ZnVExYUjNuTTJHRzlURVZlVVU0dVpoRXpueEdTZVhWa3IwSTQ1TThidUNoYzl5bm8yTWxqVGVoNVhVQllnVEZ3SEQzZHVmaURhZ3NHYTBEemVwZERzaThmQXpUbWJpc0RNSzE5MjhDMk1hU0RQZ2JvcTlYSljSAdQBQVVfeXFMTTlkMC1EUEg2WlZOeklfcWlOeWtxU2JIaTJISFdHTWdBczJYVEQyNTVXSEZHT2docndPbHZiTFNiX2lQTmZNWjlia1E5ejlnd016Z3hlMGpsVW9Rb1lhRWRGYWxrN2t1YUl6NWxiOE9uWmRxa05aWW43ZjdnLTF5M3NueDV5MEZRdWNKZV9fUURCaVlNMmtBSEFWVllLY29GdmJaMW44T2JyV2lBT1QxcUNRR3lvVnNCdVVLMkwtbzVMeWJFN04yRWRKN0R0bnRlaGNETVY?oc=5
 
-- India Nears Deal To Slash US Tariffs On Imports To 15%-16%: Report - NDTV
-  India Nears Deal To Slash US Tariffs On
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3BkV3E1LXhyU2R0Um1MaHNfY3pEZjVVV3JEMnFfaFRscWRSTlRKYVVWVWh3M24zcVVmZUF3eFdMQ0FjRHFjbDdaWWVvZzM5dlNwanlvV3FvRDIwU04xWDBwaDBjdmxzbGItS00yYXFUeWZoNkJsOTJzNXZiMUhwVk96OHF2MldnSzRpUkpfaTJtQ01DTzFla3hZZVptalJmaTNZZDdn0gGuAUFVX3lxTE4wRklYZG0ya0VDLXcteUViNzlrcGFMQlRSd1JQR2dPcW1kcVhMdjVocHgxRGNTRmxpTERvcG92d1BUSThfV1dBVjY3REtjYVhUVnRiUml2X2MycnMtMWp4dDcyOTRHemJjWlk4VS1pY3k0WmY2ZHNXTVJGbW5aRk1CSTJaUGpTT2JKdlM1cl9zZndzZGZsNDhhVFBwMnpzWHFXbTZyclczZ2ZscVctUQ?oc=5
+- Trump's sanctions on Russian oil firms amid India tariffs, big Modi 'call' claim | Hindustan Times - Hindustan Times
+  The Indian government has imposed sanctions on Russian oil firms amid India tariffs. The
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQS20wLWtiX3hhZERMZWRMUDJ2ZjNZRGhkYTBOU2ZDVUlEeDhyRWRHUG51cThQRE82NUNyTUdBQjdNbzRHT2xrdmNjaU9JUk1GZ2lJbEtWOE5PZ2V0SWFpRDREbHFwNkNOM0ktTmlTS240aTVkY3NOcmhrak1zREE4WlFPQ3JRNGFzOUNTbFpxV25pWDRLTVlkX1U4ai1DS1dndEZaaXppd29KOGNpMVZMUVNnWFhwSVUyTWpOT3dBOXVvWkJJRFJkQWRSMlBQT29QVjFsZUNvOS1OX1JMYWxTTW5vbGJPWThMUEQtblBtQ1BNWWJtWWhleVhB0gH_AUFVX3lxTE5fSHlNZ0pDVm9VaHhpaW1EdXAxbVFpUko0QnRIcUhrcEhRRDVYS1lMOXI3ZWtXeXRESktqejJydGw1b3FQUnNKcUFHU3F4VE1kSm1nN0h2eDJ2bU01SHIxdUozVWExRXpqV1pjRFJrblJ0dllsakZ2cVB3Sk5tdkFDSXY4b3JyOFBvSE1Mc3AxREFIcGxTbDg0OEhWQnBMeWhSQ21NUkhDeE1fSXhmNmRTMXpNLWdwSmp3REFNQkUxVGxaSzE3Rmd4V3RMY2thOWlMUDRKSEdjTmhZYkhiY09USXZsVXgzRm81Z1VGd3oyNDlvMzVNbmJpYkI0QlRwcw?oc=5
 
-- India News LIVE Updates: PM Modi to join ASEAN-India Summit in Malaysia virtually - The Indian Express
-  India News LIVE Updates: PM Modi to join ASEAN-
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdk8yX1gtemlWV3FSbTVUdE5DRTgxXzBGZkk1OWplelI3V0lmLXJxU25KaEdxRGtGaTljX3g4NXk2emVkZkpCMFV5UHBmUzUxTnlEVnZSMEU0RmZBU1VnMjd1bXJVYjlWYWI3cGQzQTJFU2d4SnUtQ3hVZFpRLUdTejRjb3NRSEpBWmRSZXhvZmRLdjFldTRaYmZrdkEta0tqRExFLVVRU3JBSlHSAbIBQVVfeXFMTmlibm1LUnNyZ24xWU9RQTVrZFhpc0hpalZKUURVY0liU19jT0pXeHJLSEVvellHcjhrVW9uZE13N1I0Y25PY0h1YTh6QmROMW1DYi1SRG5nOEtRX1FVblFhblZFYW9RMGtHZE5hYUJDUWp0VG0xN0J3MzN2alUwajhCdkJZcEZkRUR4MWktRnVfY05GVUZsX0lhNUlzRFFxa3cxTW9QMTlLWDVMOFRWM1Vfdw?oc=5
+- In Karnataka 'Vote Chori' Row, A Data Team's Possible Deletion Role: Sources - NDTV
+  In Karnataka 'Vote Chori' Row,
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOMkJDd3FZNFB4QUFvVXdRSGkteF9OM2xjZmN2U2hQTjV2UVJnYnFDVFZNRk1tLUphbnd3VTJ0SDNCTGUyenJtTkJ3UWlsTzFJamtZVFlmQm9ZTjVrU3ZVLXdITGhhem50SnFYb1RrRDRPMGtNVkhVT21xTWIybjRIc2JrSC0wRmI4V3NpWFVwR1lVTC0yYXE4cEwzb1NJeV9DcXlOeW1SdFBRM1BKZ0ZsMHZKbkg4VW5XZllvbkpQMjBEdXg2QXRPeUh2dWZrOWvSAdcBQVVfeXFMUHRUSUFfLTR6ajFjYjdCWEQ2VHYwTGI2T3IxeDFRNEpxVlVmQS0wOWRnNTJlaldsLTlWOV9BSFZUS1NRWUxWRmpUclgxQkc4THlJaS1wQ1RNU1l3aHVuQXg0NkFJNjZNeE96WFRWS1RfcFVCX2FKZDdoQUs3YnF2dDlUWHh6a1c5S0NMd1pQUFpuT1phak9tRWJUTjlEMElSQlRrM1d1UTFHampYYlpRWTJGaUgxbmd3Rlc5Z04zUDRVNmRtc0dDc3RiOWwtSXZ3QVdVQ0o0OFU?oc=5
 
-- PM Modi Likely To Skip ASEAN Summit In Malaysia - NDTV
-  PM Modi Likely To Skip ASE
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGNVUmZMbDYzTHNMTjNMa2FJNTJGMGtOYTVSamlsemZzeHZVQk9ZS2lHXzh2UG5MYW9STjZ6ZVNTeEtvZTQ2NUViR3NwUW9SSjdOSW5CYzQ2aThZV3dydDFLSTRhVXJ3ckVqcUdtY3RYYW9kX3Z4Y2RCRDY2eVNyUW4zVFpmM2lvV1JuUUZuMjLSAZgBQVVfeXFMTU83QVgxaHJwVVdwWjVsSF8wNnU5SGNxUnJPVWJBeGRnYTdhTHBoWlB3eUtQemhROUZFb0dyV24ybTFHOU5QR0JlWHVqWXVNdDlxVjlnLTc1eHl0S1RPaUsteGNHcEJRdENfVUVkQm1WSjB0aDdBUjhhZEY0al9yeEo3OVZib2lWMUNNSzlGbDVYUWhSYU5ySFk?oc=5
+- Why India’s Gen Z is not taking to the streets - BBC
+  Why India’s Gen Z is
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xVFVZMUxmQ0N1ZHhVMkRCWlhlZmpxRlBPTEk4dDNYMzlfanVOTjc0bTEwdU1xbUpqRDNPV05RajBBVHQtMHVZYjQxZHZMdTlFRUNTbUI1MW1hUdIBX0FVX3lxTE94ZS0xbnZPQ2lnak1EUm9taHZORVIxd1JqaDR2bG9FNGZQcG1hSTU1MU1kd3UwOUxDM2xNa2hJQm1sUDUyc2NXOHZ6c3ROTXVDZldNOS1xRUhwNkxNY21n?oc=5
 
-- PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘I respect his decision’ | Latest News India - Hindustan Times
-  PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPdkdsUjR0d1pmeVNlMW1TZ0Q0bzZZaGNUYkdtTk9WQTlHT1dkSE1UcXFMa0VOYzMxdEpmSEhWM2V2M05NeEFyRDZCZmZnSWVqbjFkNTBudWFVV1NnbFRaVUhHcXBtQ2I4ZzhNb1Z4TlpjZ29qbFFLUnJ5ZU1HTU4wV25tZ1cxTEtaOU52bXhvVW5maUNSbGZXSjdVNzc1NDJUbWJOYUs0QnlQcGliLVR4bGZXbEpLM1dFVEVIOXI2UzhScGI0bzlWNFAtbGxxMkhTSmljRzZ4RTdyLWtqbTE2Q2RGMzNqSzZhSmtWR0ItUExIT1RKZXAyVnVueWdibklHQ3fSAYcCQVVfeXFMTnhPSVdvRUhKTTNwbVZlOGlhQ1dNdlp2OHVxNFRBZzF0aTZ2TlptUkJuRXd0UFpDWktoSmJxdjBTWTRXN3BBWDl0MWpJQWlHc0xiU0NUWmdLQTV2UUtZNEVLZjZhVV9rdjBNWjFVNTk4ZmYyZk5lU1gzbjRFbDh3QzBkVVFucVBzeFV3d0FZMW0yRTBGdFJxblkzUUtRSnhVeTBkUmpnSUZsVE9nLVdXNUFxNTlkTDFNNzB6QTNrbzhzdV9xYTVISFJpZlJueXh1QW11WHhrT3U0aUVhOTdJOE40cG9nWFI1VDBBVUFieTd6ZEJGeE8zQVc2SURjb1hJV21RVmZmNWc?oc=5
-
-- "It's A Process": Trump Reiterates Claim On India's Russian Oil Imports Amid New Sanctions - NDTV
-  "It's A Process": Trump Reiterates Claim On
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0dzeDh1M2Y4QTc1azFBcDBsQ25BMHVwVjc2T3BzRUI5dVdrcGRKOXhaaVZKSjNULUtCTVV4SzhFSHpzOTNVbjZiNGdjM2xsZlBYUkRyQ1ZnVExYUjNuTTJHRzlURVZlVVU0dVpoRXpueEdTZVhWa3IwSTQ1TThidUNoYzl5bm8yTWxqVGVoNVhVQllnVEZ3SEQzZHVmaURhZ3NHYTBEemVwZERzaThmQXpUbWJpc0RNSzE5MjhDMk1hU0RQZ2JvcTlYSljSAdQBQVVfeXFMTTlkMC1EUEg2WlZOeklfcWlOeWtxU2JIaTJISFdHTWdBczJYVEQyNTVXSEZHT2docndPbHZiTFNiX2lQTmZNWjlia1E5ejlnd016Z3hlMGpsVW9Rb1lhRWRGYWxrN2t1YUl6NWxiOE9uWmRxa05aWW43ZjdnLTF5M3NueDV5MEZRdWNKZV9fUURCaVlNMmtBSEFWVllLY29GdmJaMW44T2JyV2lBT1QxcUNRR3lvVnNCdVVLMkwtbzVMeWJFN04yRWRKN0R0bnRlaGNETVY?oc=5
-
-- India Nears Deal To Slash US Tariffs On Imports To 15%-16%: Report - NDTV
-  India Nears Deal To Slash US Tariffs On
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3BkV3E1LXhyU2R0Um1MaHNfY3pEZjVVV3JEMnFfaFRscWRSTlRKYVVWVWh3M24zcVVmZUF3eFdMQ0FjRHFjbDdaWWVvZzM5dlNwanlvV3FvRDIwU04xWDBwaDBjdmxzbGItS00yYXFUeWZoNkJsOTJzNXZiMUhwVk96OHF2MldnSzRpUkpfaTJtQ01DTzFla3hZZVptalJmaTNZZDdn0gGuAUFVX3lxTE4wRklYZG0ya0VDLXcteUViNzlrcGFMQlRSd1JQR2dPcW1kcVhMdjVocHgxRGNTRmxpTERvcG92d1BUSThfV1dBVjY3REtjYVhUVnRiUml2X2MycnMtMWp4dDcyOTRHemJjWlk4VS1pY3k0WmY2ZHNXTVJGbW5aRk1CSTJaUGpTT2JKdlM1cl9zZndzZGZsNDhhVFBwMnpzWHFXbTZyclczZ2ZscVctUQ?oc=5
-
-- India News LIVE Updates: PM Modi to join ASEAN-India Summit in Malaysia virtually - The Indian Express
-  India News LIVE Updates: PM Modi to join ASEAN-
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdk8yX1gtemlWV3FSbTVUdE5DRTgxXzBGZkk1OWplelI3V0lmLXJxU25KaEdxRGtGaTljX3g4NXk2emVkZkpCMFV5UHBmUzUxTnlEVnZSMEU0RmZBU1VnMjd1bXJVYjlWYWI3cGQzQTJFU2d4SnUtQ3hVZFpRLUdTejRjb3NRSEpBWmRSZXhvZmRLdjFldTRaYmZrdkEta0tqRExFLVVRU3JBSlHSAbIBQVVfeXFMTmlibm1LUnNyZ24xWU9RQTVrZFhpc0hpalZKUURVY0liU19jT0pXeHJLSEVvellHcjhrVW9uZE13N1I0Y25PY0h1YTh6QmROMW1DYi1SRG5nOEtRX1FVblFhblZFYW9RMGtHZE5hYUJDUWp0VG0xN0J3MzN2alUwajhCdkJZcEZkRUR4MWktRnVfY05GVUZsX0lhNUlzRFFxa3cxTW9QMTlLWDVMOFRWM1Vfdw?oc=5
-
-- PM Modi Likely To Skip ASEAN Summit In Malaysia - NDTV
-  PM Modi Likely To Skip ASE
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGNVUmZMbDYzTHNMTjNMa2FJNTJGMGtOYTVSamlsemZzeHZVQk9ZS2lHXzh2UG5MYW9STjZ6ZVNTeEtvZTQ2NUViR3NwUW9SSjdOSW5CYzQ2aThZV3dydDFLSTRhVXJ3ckVqcUdtY3RYYW9kX3Z4Y2RCRDY2eVNyUW4zVFpmM2lvV1JuUUZuMjLSAZgBQVVfeXFMTU83QVgxaHJwVVdwWjVsSF8wNnU5SGNxUnJPVWJBeGRnYTdhTHBoWlB3eUtQemhROUZFb0dyV24ybTFHOU5QR0JlWHVqWXVNdDlxVjlnLTc1eHl0S1RPaUsteGNHcEJRdENfVUVkQm1WSjB0aDdBUjhhZEY0al9yeEo3OVZib2lWMUNNSzlGbDVYUWhSYU5ySFk?oc=5
-
-- PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘I respect his decision’ | Latest News India - Hindustan Times
-  PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPdkdsUjR0d1pmeVNlMW1TZ0Q0bzZZaGNUYkdtTk9WQTlHT1dkSE1UcXFMa0VOYzMxdEpmSEhWM2V2M05NeEFyRDZCZmZnSWVqbjFkNTBudWFVV1NnbFRaVUhHcXBtQ2I4ZzhNb1Z4TlpjZ29qbFFLUnJ5ZU1HTU4wV25tZ1cxTEtaOU52bXhvVW5maUNSbGZXSjdVNzc1NDJUbWJOYUs0QnlQcGliLVR4bGZXbEpLM1dFVEVIOXI2UzhScGI0bzlWNFAtbGxxMkhTSmljRzZ4RTdyLWtqbTE2Q2RGMzNqSzZhSmtWR0ItUExIT1RKZXAyVnVueWdibklHQ3fSAYcCQVVfeXFMTnhPSVdvRUhKTTNwbVZlOGlhQ1dNdlp2OHVxNFRBZzF0aTZ2TlptUkJuRXd0UFpDWktoSmJxdjBTWTRXN3BBWDl0MWpJQWlHc0xiU0NUWmdLQTV2UUtZNEVLZjZhVV9rdjBNWjFVNTk4ZmYyZk5lU1gzbjRFbDh3QzBkVVFucVBzeFV3d0FZMW0yRTBGdFJxblkzUUtRSnhVeTBkUmpnSUZsVE9nLVdXNUFxNTlkTDFNNzB6QTNrbzhzdV9xYTVISFJpZlJueXh1QW11WHhrT3U0aUVhOTdJOE40cG9nWFI1VDBBVUFieTd6ZEJGeE8zQVc2SURjb1hJV21RVmZmNWc?oc=5
+- What US Sanctions On Russian Oil Mean For India - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGFVTlhkSFZScjhkMy13VG02UGFPeDNTTEpmZFNNR1JVV3pObmVQNHRFcTZHSWdRSlh6MmRON3dXQ0RqajdHdWc1ZzRvTEMzdXpZMmRSVGJ2M2VEeUpqcTlRNWo1eld2bzhlY3dudXF4cDBuQkNOdW4tUS1WY0pBOE4tRG1pclY4a0RIOHRYNFXSAZgBQVVfeXFMTkE4RDlTNmtLRGpOb29XdjdEVFg3QUs1bHg2WkxSVHRwaVpicVVZdkhsYlR6ZG51Si05bHZiZUlzUEZXejZwWHNNaXJnRmh2dnB0Q1ZuSlVuQnY0N2ZOOGRiMzNvS2I0VEpSQ2FkQksxZ1hENWJQWXY5eUs0WHZaQ3h3bERUT1BONk1sNVZWY2lYRUpHRnluZE0?oc=5
 
 - "It's A Process": Trump Reiterates Claim On India's Russian Oil Imports Amid New Sanctions - NDTV
   "It's A Process": Trump Reiterates Claim On
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0dzeDh1M2Y4QTc1azFBcDBsQ25BMHVwVjc2T3BzRUI5dVdrcGRKOXhaaVZKSjNULUtCTVV4SzhFSHpzOTNVbjZiNGdjM2xsZlBYUkRyQ1ZnVExYUjNuTTJHRzlURVZlVVU0dVpoRXpueEdTZVhWa3IwSTQ1TThidUNoYzl5bm8yTWxqVGVoNVhVQllnVEZ3SEQzZHVmaURhZ3NHYTBEemVwZERzaThmQXpUbWJpc0RNSzE5MjhDMk1hU0RQZ2JvcTlYSljSAdQBQVVfeXFMTTlkMC1EUEg2WlZOeklfcWlOeWtxU2JIaTJISFdHTWdBczJYVEQyNTVXSEZHT2docndPbHZiTFNiX2lQTmZNWjlia1E5ejlnd016Z3hlMGpsVW9Rb1lhRWRGYWxrN2t1YUl6NWxiOE9uWmRxa05aWW43ZjdnLTF5M3NueDV5MEZRdWNKZV9fUURCaVlNMmtBSEFWVllLY29GdmJaMW44T2JyV2lBT1QxcUNRR3lvVnNCdVVLMkwtbzVMeWJFN04yRWRKN0R0bnRlaGNETVY?oc=5
 
-- India Nears Deal To Slash US Tariffs On Imports To 15%-16%: Report - NDTV
-  India Nears Deal To Slash US Tariffs On
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3BkV3E1LXhyU2R0Um1MaHNfY3pEZjVVV3JEMnFfaFRscWRSTlRKYVVWVWh3M24zcVVmZUF3eFdMQ0FjRHFjbDdaWWVvZzM5dlNwanlvV3FvRDIwU04xWDBwaDBjdmxzbGItS00yYXFUeWZoNkJsOTJzNXZiMUhwVk96OHF2MldnSzRpUkpfaTJtQ01DTzFla3hZZVptalJmaTNZZDdn0gGuAUFVX3lxTE4wRklYZG0ya0VDLXcteUViNzlrcGFMQlRSd1JQR2dPcW1kcVhMdjVocHgxRGNTRmxpTERvcG92d1BUSThfV1dBVjY3REtjYVhUVnRiUml2X2MycnMtMWp4dDcyOTRHemJjWlk4VS1pY3k0WmY2ZHNXTVJGbW5aRk1CSTJaUGpTT2JKdlM1cl9zZndzZGZsNDhhVFBwMnpzWHFXbTZyclczZ2ZscVctUQ?oc=5
+- Trump's sanctions on Russian oil firms amid India tariffs, big Modi 'call' claim | Hindustan Times - Hindustan Times
+  The Indian government has imposed sanctions on Russian oil firms amid India tariffs. The
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQS20wLWtiX3hhZERMZWRMUDJ2ZjNZRGhkYTBOU2ZDVUlEeDhyRWRHUG51cThQRE82NUNyTUdBQjdNbzRHT2xrdmNjaU9JUk1GZ2lJbEtWOE5PZ2V0SWFpRDREbHFwNkNOM0ktTmlTS240aTVkY3NOcmhrak1zREE4WlFPQ3JRNGFzOUNTbFpxV25pWDRLTVlkX1U4ai1DS1dndEZaaXppd29KOGNpMVZMUVNnWFhwSVUyTWpOT3dBOXVvWkJJRFJkQWRSMlBQT29QVjFsZUNvOS1OX1JMYWxTTW5vbGJPWThMUEQtblBtQ1BNWWJtWWhleVhB0gH_AUFVX3lxTE5fSHlNZ0pDVm9VaHhpaW1EdXAxbVFpUko0QnRIcUhrcEhRRDVYS1lMOXI3ZWtXeXRESktqejJydGw1b3FQUnNKcUFHU3F4VE1kSm1nN0h2eDJ2bU01SHIxdUozVWExRXpqV1pjRFJrblJ0dllsakZ2cVB3Sk5tdkFDSXY4b3JyOFBvSE1Mc3AxREFIcGxTbDg0OEhWQnBMeWhSQ21NUkhDeE1fSXhmNmRTMXpNLWdwSmp3REFNQkUxVGxaSzE3Rmd4V3RMY2thOWlMUDRKSEdjTmhZYkhiY09USXZsVXgzRm81Z1VGd3oyNDlvMzVNbmJpYkI0QlRwcw?oc=5
 
-- India News LIVE Updates: PM Modi to join ASEAN-India Summit in Malaysia virtually - The Indian Express
-  India News LIVE Updates: PM Modi to join ASEAN-
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdk8yX1gtemlWV3FSbTVUdE5DRTgxXzBGZkk1OWplelI3V0lmLXJxU25KaEdxRGtGaTljX3g4NXk2emVkZkpCMFV5UHBmUzUxTnlEVnZSMEU0RmZBU1VnMjd1bXJVYjlWYWI3cGQzQTJFU2d4SnUtQ3hVZFpRLUdTejRjb3NRSEpBWmRSZXhvZmRLdjFldTRaYmZrdkEta0tqRExFLVVRU3JBSlHSAbIBQVVfeXFMTmlibm1LUnNyZ24xWU9RQTVrZFhpc0hpalZKUURVY0liU19jT0pXeHJLSEVvellHcjhrVW9uZE13N1I0Y25PY0h1YTh6QmROMW1DYi1SRG5nOEtRX1FVblFhblZFYW9RMGtHZE5hYUJDUWp0VG0xN0J3MzN2alUwajhCdkJZcEZkRUR4MWktRnVfY05GVUZsX0lhNUlzRFFxa3cxTW9QMTlLWDVMOFRWM1Vfdw?oc=5
+- In Karnataka 'Vote Chori' Row, A Data Team's Possible Deletion Role: Sources - NDTV
+  In Karnataka 'Vote Chori' Row,
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOMkJDd3FZNFB4QUFvVXdRSGkteF9OM2xjZmN2U2hQTjV2UVJnYnFDVFZNRk1tLUphbnd3VTJ0SDNCTGUyenJtTkJ3UWlsTzFJamtZVFlmQm9ZTjVrU3ZVLXdITGhhem50SnFYb1RrRDRPMGtNVkhVT21xTWIybjRIc2JrSC0wRmI4V3NpWFVwR1lVTC0yYXE4cEwzb1NJeV9DcXlOeW1SdFBRM1BKZ0ZsMHZKbkg4VW5XZllvbkpQMjBEdXg2QXRPeUh2dWZrOWvSAdcBQVVfeXFMUHRUSUFfLTR6ajFjYjdCWEQ2VHYwTGI2T3IxeDFRNEpxVlVmQS0wOWRnNTJlaldsLTlWOV9BSFZUS1NRWUxWRmpUclgxQkc4THlJaS1wQ1RNU1l3aHVuQXg0NkFJNjZNeE96WFRWS1RfcFVCX2FKZDdoQUs3YnF2dDlUWHh6a1c5S0NMd1pQUFpuT1phak9tRWJUTjlEMElSQlRrM1d1UTFHampYYlpRWTJGaUgxbmd3Rlc5Z04zUDRVNmRtc0dDc3RiOWwtSXZ3QVdVQ0o0OFU?oc=5
 
-- PM Modi Likely To Skip ASEAN Summit In Malaysia - NDTV
-  PM Modi Likely To Skip ASE
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGNVUmZMbDYzTHNMTjNMa2FJNTJGMGtOYTVSamlsemZzeHZVQk9ZS2lHXzh2UG5MYW9STjZ6ZVNTeEtvZTQ2NUViR3NwUW9SSjdOSW5CYzQ2aThZV3dydDFLSTRhVXJ3ckVqcUdtY3RYYW9kX3Z4Y2RCRDY2eVNyUW4zVFpmM2lvV1JuUUZuMjLSAZgBQVVfeXFMTU83QVgxaHJwVVdwWjVsSF8wNnU5SGNxUnJPVWJBeGRnYTdhTHBoWlB3eUtQemhROUZFb0dyV24ybTFHOU5QR0JlWHVqWXVNdDlxVjlnLTc1eHl0S1RPaUsteGNHcEJRdENfVUVkQm1WSjB0aDdBUjhhZEY0al9yeEo3OVZib2lWMUNNSzlGbDVYUWhSYU5ySFk?oc=5
+- Why India’s Gen Z is not taking to the streets - BBC
+  Why India’s Gen Z is
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xVFVZMUxmQ0N1ZHhVMkRCWlhlZmpxRlBPTEk4dDNYMzlfanVOTjc0bTEwdU1xbUpqRDNPV05RajBBVHQtMHVZYjQxZHZMdTlFRUNTbUI1MW1hUdIBX0FVX3lxTE94ZS0xbnZPQ2lnak1EUm9taHZORVIxd1JqaDR2bG9FNGZQcG1hSTU1MU1kd3UwOUxDM2xNa2hJQm1sUDUyc2NXOHZ6c3ROTXVDZldNOS1xRUhwNkxNY21n?oc=5
 
-- PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘I respect his decision’ | Latest News India - Hindustan Times
-  PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPdkdsUjR0d1pmeVNlMW1TZ0Q0bzZZaGNUYkdtTk9WQTlHT1dkSE1UcXFMa0VOYzMxdEpmSEhWM2V2M05NeEFyRDZCZmZnSWVqbjFkNTBudWFVV1NnbFRaVUhHcXBtQ2I4ZzhNb1Z4TlpjZ29qbFFLUnJ5ZU1HTU4wV25tZ1cxTEtaOU52bXhvVW5maUNSbGZXSjdVNzc1NDJUbWJOYUs0QnlQcGliLVR4bGZXbEpLM1dFVEVIOXI2UzhScGI0bzlWNFAtbGxxMkhTSmljRzZ4RTdyLWtqbTE2Q2RGMzNqSzZhSmtWR0ItUExIT1RKZXAyVnVueWdibklHQ3fSAYcCQVVfeXFMTnhPSVdvRUhKTTNwbVZlOGlhQ1dNdlp2OHVxNFRBZzF0aTZ2TlptUkJuRXd0UFpDWktoSmJxdjBTWTRXN3BBWDl0MWpJQWlHc0xiU0NUWmdLQTV2UUtZNEVLZjZhVV9rdjBNWjFVNTk4ZmYyZk5lU1gzbjRFbDh3QzBkVVFucVBzeFV3d0FZMW0yRTBGdFJxblkzUUtRSnhVeTBkUmpnSUZsVE9nLVdXNUFxNTlkTDFNNzB6QTNrbzhzdV9xYTVISFJpZlJueXh1QW11WHhrT3U0aUVhOTdJOE40cG9nWFI1VDBBVUFieTd6ZEJGeE8zQVc2SURjb1hJV21RVmZmNWc?oc=5
+- What US Sanctions On Russian Oil Mean For India - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGFVTlhkSFZScjhkMy13VG02UGFPeDNTTEpmZFNNR1JVV3pObmVQNHRFcTZHSWdRSlh6MmRON3dXQ0RqajdHdWc1ZzRvTEMzdXpZMmRSVGJ2M2VEeUpqcTlRNWo1eld2bzhlY3dudXF4cDBuQkNOdW4tUS1WY0pBOE4tRG1pclY4a0RIOHRYNFXSAZgBQVVfeXFMTkE4RDlTNmtLRGpOb29XdjdEVFg3QUs1bHg2WkxSVHRwaVpicVVZdkhsYlR6ZG51Si05bHZiZUlzUEZXejZwWHNNaXJnRmh2dnB0Q1ZuSlVuQnY0N2ZOOGRiMzNvS2I0VEpSQ2FkQksxZ1hENWJQWXY5eUs0WHZaQ3h3bERUT1BONk1sNVZWY2lYRUpHRnluZE0?oc=5
 
 - "It's A Process": Trump Reiterates Claim On India's Russian Oil Imports Amid New Sanctions - NDTV
   "It's A Process": Trump Reiterates Claim On
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0dzeDh1M2Y4QTc1azFBcDBsQ25BMHVwVjc2T3BzRUI5dVdrcGRKOXhaaVZKSjNULUtCTVV4SzhFSHpzOTNVbjZiNGdjM2xsZlBYUkRyQ1ZnVExYUjNuTTJHRzlURVZlVVU0dVpoRXpueEdTZVhWa3IwSTQ1TThidUNoYzl5bm8yTWxqVGVoNVhVQllnVEZ3SEQzZHVmaURhZ3NHYTBEemVwZERzaThmQXpUbWJpc0RNSzE5MjhDMk1hU0RQZ2JvcTlYSljSAdQBQVVfeXFMTTlkMC1EUEg2WlZOeklfcWlOeWtxU2JIaTJISFdHTWdBczJYVEQyNTVXSEZHT2docndPbHZiTFNiX2lQTmZNWjlia1E5ejlnd016Z3hlMGpsVW9Rb1lhRWRGYWxrN2t1YUl6NWxiOE9uWmRxa05aWW43ZjdnLTF5M3NueDV5MEZRdWNKZV9fUURCaVlNMmtBSEFWVllLY29GdmJaMW44T2JyV2lBT1QxcUNRR3lvVnNCdVVLMkwtbzVMeWJFN04yRWRKN0R0bnRlaGNETVY?oc=5
+
+- Trump's sanctions on Russian oil firms amid India tariffs, big Modi 'call' claim | Hindustan Times - Hindustan Times
+  The Indian government has imposed sanctions on Russian oil firms amid India tariffs. The
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQS20wLWtiX3hhZERMZWRMUDJ2ZjNZRGhkYTBOU2ZDVUlEeDhyRWRHUG51cThQRE82NUNyTUdBQjdNbzRHT2xrdmNjaU9JUk1GZ2lJbEtWOE5PZ2V0SWFpRDREbHFwNkNOM0ktTmlTS240aTVkY3NOcmhrak1zREE4WlFPQ3JRNGFzOUNTbFpxV25pWDRLTVlkX1U4ai1DS1dndEZaaXppd29KOGNpMVZMUVNnWFhwSVUyTWpOT3dBOXVvWkJJRFJkQWRSMlBQT29QVjFsZUNvOS1OX1JMYWxTTW5vbGJPWThMUEQtblBtQ1BNWWJtWWhleVhB0gH_AUFVX3lxTE5fSHlNZ0pDVm9VaHhpaW1EdXAxbVFpUko0QnRIcUhrcEhRRDVYS1lMOXI3ZWtXeXRESktqejJydGw1b3FQUnNKcUFHU3F4VE1kSm1nN0h2eDJ2bU01SHIxdUozVWExRXpqV1pjRFJrblJ0dllsakZ2cVB3Sk5tdkFDSXY4b3JyOFBvSE1Mc3AxREFIcGxTbDg0OEhWQnBMeWhSQ21NUkhDeE1fSXhmNmRTMXpNLWdwSmp3REFNQkUxVGxaSzE3Rmd4V3RMY2thOWlMUDRKSEdjTmhZYkhiY09USXZsVXgzRm81Z1VGd3oyNDlvMzVNbmJpYkI0QlRwcw?oc=5
+
+- In Karnataka 'Vote Chori' Row, A Data Team's Possible Deletion Role: Sources - NDTV
+  In Karnataka 'Vote Chori' Row,
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOMkJDd3FZNFB4QUFvVXdRSGkteF9OM2xjZmN2U2hQTjV2UVJnYnFDVFZNRk1tLUphbnd3VTJ0SDNCTGUyenJtTkJ3UWlsTzFJamtZVFlmQm9ZTjVrU3ZVLXdITGhhem50SnFYb1RrRDRPMGtNVkhVT21xTWIybjRIc2JrSC0wRmI4V3NpWFVwR1lVTC0yYXE4cEwzb1NJeV9DcXlOeW1SdFBRM1BKZ0ZsMHZKbkg4VW5XZllvbkpQMjBEdXg2QXRPeUh2dWZrOWvSAdcBQVVfeXFMUHRUSUFfLTR6ajFjYjdCWEQ2VHYwTGI2T3IxeDFRNEpxVlVmQS0wOWRnNTJlaldsLTlWOV9BSFZUS1NRWUxWRmpUclgxQkc4THlJaS1wQ1RNU1l3aHVuQXg0NkFJNjZNeE96WFRWS1RfcFVCX2FKZDdoQUs3YnF2dDlUWHh6a1c5S0NMd1pQUFpuT1phak9tRWJUTjlEMElSQlRrM1d1UTFHampYYlpRWTJGaUgxbmd3Rlc5Z04zUDRVNmRtc0dDc3RiOWwtSXZ3QVdVQ0o0OFU?oc=5
+
+- Why India’s Gen Z is not taking to the streets - BBC
+  Why India’s Gen Z is
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xVFVZMUxmQ0N1ZHhVMkRCWlhlZmpxRlBPTEk4dDNYMzlfanVOTjc0bTEwdU1xbUpqRDNPV05RajBBVHQtMHVZYjQxZHZMdTlFRUNTbUI1MW1hUdIBX0FVX3lxTE94ZS0xbnZPQ2lnak1EUm9taHZORVIxd1JqaDR2bG9FNGZQcG1hSTU1MU1kd3UwOUxDM2xNa2hJQm1sUDUyc2NXOHZ6c3ROTXVDZldNOS1xRUhwNkxNY21n?oc=5
+
+- What US Sanctions On Russian Oil Mean For India - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGFVTlhkSFZScjhkMy13VG02UGFPeDNTTEpmZFNNR1JVV3pObmVQNHRFcTZHSWdRSlh6MmRON3dXQ0RqajdHdWc1ZzRvTEMzdXpZMmRSVGJ2M2VEeUpqcTlRNWo1eld2bzhlY3dudXF4cDBuQkNOdW4tUS1WY0pBOE4tRG1pclY4a0RIOHRYNFXSAZgBQVVfeXFMTkE4RDlTNmtLRGpOb29XdjdEVFg3QUs1bHg2WkxSVHRwaVpicVVZdkhsYlR6ZG51Si05bHZiZUlzUEZXejZwWHNNaXJnRmh2dnB0Q1ZuSlVuQnY0N2ZOOGRiMzNvS2I0VEpSQ2FkQksxZ1hENWJQWXY5eUs0WHZaQ3h3bERUT1BONk1sNVZWY2lYRUpHRnluZE0?oc=5
+
+- "It's A Process": Trump Reiterates Claim On India's Russian Oil Imports Amid New Sanctions - NDTV
+  "It's A Process": Trump Reiterates Claim On
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0dzeDh1M2Y4QTc1azFBcDBsQ25BMHVwVjc2T3BzRUI5dVdrcGRKOXhaaVZKSjNULUtCTVV4SzhFSHpzOTNVbjZiNGdjM2xsZlBYUkRyQ1ZnVExYUjNuTTJHRzlURVZlVVU0dVpoRXpueEdTZVhWa3IwSTQ1TThidUNoYzl5bm8yTWxqVGVoNVhVQllnVEZ3SEQzZHVmaURhZ3NHYTBEemVwZERzaThmQXpUbWJpc0RNSzE5MjhDMk1hU0RQZ2JvcTlYSljSAdQBQVVfeXFMTTlkMC1EUEg2WlZOeklfcWlOeWtxU2JIaTJISFdHTWdBczJYVEQyNTVXSEZHT2docndPbHZiTFNiX2lQTmZNWjlia1E5ejlnd016Z3hlMGpsVW9Rb1lhRWRGYWxrN2t1YUl6NWxiOE9uWmRxa05aWW43ZjdnLTF5M3NueDV5MEZRdWNKZV9fUURCaVlNMmtBSEFWVllLY29GdmJaMW44T2JyV2lBT1QxcUNRR3lvVnNCdVVLMkwtbzVMeWJFN04yRWRKN0R0bnRlaGNETVY?oc=5
+
+- Trump's sanctions on Russian oil firms amid India tariffs, big Modi 'call' claim | Hindustan Times - Hindustan Times
+  The Indian government has imposed sanctions on Russian oil firms amid India tariffs. The
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQS20wLWtiX3hhZERMZWRMUDJ2ZjNZRGhkYTBOU2ZDVUlEeDhyRWRHUG51cThQRE82NUNyTUdBQjdNbzRHT2xrdmNjaU9JUk1GZ2lJbEtWOE5PZ2V0SWFpRDREbHFwNkNOM0ktTmlTS240aTVkY3NOcmhrak1zREE4WlFPQ3JRNGFzOUNTbFpxV25pWDRLTVlkX1U4ai1DS1dndEZaaXppd29KOGNpMVZMUVNnWFhwSVUyTWpOT3dBOXVvWkJJRFJkQWRSMlBQT29QVjFsZUNvOS1OX1JMYWxTTW5vbGJPWThMUEQtblBtQ1BNWWJtWWhleVhB0gH_AUFVX3lxTE5fSHlNZ0pDVm9VaHhpaW1EdXAxbVFpUko0QnRIcUhrcEhRRDVYS1lMOXI3ZWtXeXRESktqejJydGw1b3FQUnNKcUFHU3F4VE1kSm1nN0h2eDJ2bU01SHIxdUozVWExRXpqV1pjRFJrblJ0dllsakZ2cVB3Sk5tdkFDSXY4b3JyOFBvSE1Mc3AxREFIcGxTbDg0OEhWQnBMeWhSQ21NUkhDeE1fSXhmNmRTMXpNLWdwSmp3REFNQkUxVGxaSzE3Rmd4V3RMY2thOWlMUDRKSEdjTmhZYkhiY09USXZsVXgzRm81Z1VGd3oyNDlvMzVNbmJpYkI0QlRwcw?oc=5
+
+- In Karnataka 'Vote Chori' Row, A Data Team's Possible Deletion Role: Sources - NDTV
+  In Karnataka 'Vote Chori' Row,
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOMkJDd3FZNFB4QUFvVXdRSGkteF9OM2xjZmN2U2hQTjV2UVJnYnFDVFZNRk1tLUphbnd3VTJ0SDNCTGUyenJtTkJ3UWlsTzFJamtZVFlmQm9ZTjVrU3ZVLXdITGhhem50SnFYb1RrRDRPMGtNVkhVT21xTWIybjRIc2JrSC0wRmI4V3NpWFVwR1lVTC0yYXE4cEwzb1NJeV9DcXlOeW1SdFBRM1BKZ0ZsMHZKbkg4VW5XZllvbkpQMjBEdXg2QXRPeUh2dWZrOWvSAdcBQVVfeXFMUHRUSUFfLTR6ajFjYjdCWEQ2VHYwTGI2T3IxeDFRNEpxVlVmQS0wOWRnNTJlaldsLTlWOV9BSFZUS1NRWUxWRmpUclgxQkc4THlJaS1wQ1RNU1l3aHVuQXg0NkFJNjZNeE96WFRWS1RfcFVCX2FKZDdoQUs3YnF2dDlUWHh6a1c5S0NMd1pQUFpuT1phak9tRWJUTjlEMElSQlRrM1d1UTFHampYYlpRWTJGaUgxbmd3Rlc5Z04zUDRVNmRtc0dDc3RiOWwtSXZ3QVdVQ0o0OFU?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,13 +220,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Top Strategic Technology Trends for 2026 - Gartner
+  Top Strategic Technology Trends
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE5rSmhUdUNVRmJuc2huUU9mdWFuWDVLcjRlX21jVDI3UzZYcWFRX002WnRvaEZjczJDVEpaUXFCNG1nTG1xQlVKX040RFJ6aHJNZEtqWjdud1FGemNYaTI0aU1SeHE2S04wN2tBTzJWNA?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Gartner’s Technology Trend Playbook For 2026 - Forbes
+  Gartner's
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPRWZOUlNhRUVNcExiRWhOanM1WW1oOWd1Z2tFSW5yTFVUdmk4YmR0N3dnS1pGX1dGVFJHaUgwVFQ5a09aSzR5M216UFBqeC10OXBZYV9Ic2dSOGRLRUdwdTZtYTJTVmFzMzRhTDhacVRiRDZPTmFRSGNmSmZRdm0wZFJKWjJhUHBfMnAwRGctMnNwWldfbXRGQTd3?oc=5
+
+- Google CEO Sundar Pichai brings ex-Accenture CTO Karthik Narain to Google Cloud: Know all about him - financialexpress.com
+  Google CEO Sundar Pichai brings ex-Accenture CTO
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOWhZNlJudVNSa0VoWmJOUkc0cFNnbENRcXZ4aWQ4QnJ1UXpSM0k0R3h5blFLQWxQRWd0Yzl2OEt3S2M1UzE4ZUNKTjZLaWNOZVVtWlR3T3dYQzJuZ25ONk5Hb0ZqdkZvQ3ZmbHJOalFMZ3RxQV83czBhSnozZWktblA4OGV2RGNOWnZSQTR1b012VHQ2OHVTNVctS0R5VndRODM2YVQ0dEh0VGFsRldVMm1MQ0xuczdvVl94SXBjV09LTndYU2tUZTl1bG1HWEZQbEw0WWk0akczaW1oM1dYbTNoSmtkdnl4YWdqa9IB8wFBVV95cUxQcThFZkkteXFWejgzMExHbksyTzIxd250b2R4dXU2YXdZLUNnc24tby00c2tPalZHMDJreG5DUXlZMl9DdEZoS1NaYlR6elNPajd3SG0tZER2UkpYYXd6UWFIT0tfQkNNdlhQeUkzQ2pGeVo5ekV3aUlJdlMzM2VjWGRUOHBsSVRvUXlTZHVhamJOWWtXNTlHaUpuR212MjhfRHZUSk14MHhwdjRRSnpTSjRJeWY4VUNoTWlPdDhjaUVRWEJ0dTFhbEdKdFFnVVlYRWlOV3RUS1BOZnhCeUZGUnlQVFJweFI1elpsY3pwZHA0dUE?oc=5
+
+- Our Quantum Echoes algorithm is a big step toward real-world applications for quantum computing - blog.google
+  Our Quantum Echoes algorithm is a big step toward real-world
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNS3lISWdkUTlZejQteFYza2NVNThHdzE0THhsSU8xSXk0bF9YZkNTQ2prR3V1Rk5GYWZSSlhROWNRQjJtRVhsZGxRdzRSa1ktdTN3ZVY1SEN2YldleUJuc2lzaFlRNTZKVDlMUC16dkFYMFFZVDJHTmNfdmktTjQxdkViRHNVaElMa0RTZmNBRkxoaVFKS2c?oc=5
+
+- Technology will play pivotal role by 2047: JC - The Hans India
+  Technology will play pivotal role by 2047
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxONUNDOWk3LUplSERvc1FNa1FkUjFYUEV3MjRrQzQzQ0s0bVl6Q1RLZDBmdHJEMXJzY0pCd3NCR3J5RkdQZEV5T0tSYUZkTjByQWNmbVJOV0hQT1pFcnhrUWhxXzFBcEp5dUtUZjBjbVVyTU5fcFZYZVRwcGVUUDJNaTVQaUZ5UzV4QzZQMkpLVkZPQUM4RjlyV3lPQkTSAaIBQVVfeXFMTzhpUWp6OXY4bUU4LWJwOWl6R3JxTkZ3dnUtOTluamd5ald5SW45M09yZVFHRXlOUXBOMXFuNDk5YU5oaGkwdkZhZ19RWk5sb1lHaEpySWFTamtRQXVZdEFidEllTkFkWUpiN1pYTUNibmNvNHBOVVhPWUVmR05iYmtBYmNIVGs4dXgwVjVTN1FlUVI5RmdlUmJPcGZSTEtDcVhR?oc=5
 
 
-_Last updated: 2025-10-23 06:28:11 UTC_
+_Last updated: 2025-10-23 12:36:01 UTC_
