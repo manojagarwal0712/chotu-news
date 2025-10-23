@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- Pan-India SIR set to be rolled out in phases in November, states headed for polls in 2026 first
+- India News LIVE Updates: PM Modi to join ASEAN-India Summit in Malaysia virtually
   
-  🔗 https://indianexpress.com/article/india/pan-india-sir-set-to-be-rolled-out-in-phases-in-november-states-headed-for-polls-in-2026-first-10321623/
+  🔗 https://indianexpress.com/article/india/india-breaking-news-live-updates-modi-asean-bihar-weather-10321972/
 
-- Time for India and Sri Lanka to champion regional environmental constitutionalism, says SC judge
+- Violence in Tripura day before 24-hour bandh: BJP workers injured, 6 vehicles damaged
   
-  🔗 https://indianexpress.com/article/india/time-for-india-and-sri-lanka-to-champion-regional-environmental-constitutionalism-says-sc-judge-10321625/
+  🔗 https://indianexpress.com/article/india/violence-tripura-day-24-hour-bandh-bjp-workers-injured-6-vehicles-damaged-10322002/
 
-- Ahead of J-K Assembly session, Farooq Abdullah dials Mehbooba Mufti for support in Rajya Sabha polls
+- Bihar Assembly Election 2025 Live Updates: ‘All issues will be ironed out’, says Ashok Gehlot ahead of Mahagathbandhan press meet
   
-  🔗 https://indianexpress.com/article/india/day-before-start-of-j-k-assembly-session-farooq-abdullah-dials-mehbooba-mufti-for-support-in-rajya-sabha-polls-10321420/
+  🔗 https://indianexpress.com/article/india/bihar-election-2025-live-updates-mahagathbandhan-tejashwi-yadav-nitish-10321889/
 
-- Authorities order disconnection of power, water supply to illegal Rohingya settlement in Jammu
+- Tamil Nadu Rains & Weather Today LIVE Updates: Chennai, 4 other districts on ‘yellow’ alert for heavy rain; schools shut in parts of state
   
-  🔗 https://indianexpress.com/article/india/authorities-order-disconnection-of-power-water-supply-to-illegal-rohingya-settlement-in-jammu-10321396/
+  🔗 https://indianexpress.com/article/india/tamil-nadu-rains-weather-live-updates-chennai-yellow-alert-schools-shut-10321781/
 
-- Odisha govt orders CBI probe into police SI recruitment ‘scam’
+- Srinagar-bound IndiGo flight diverted to Varanasi after mid-air fuel leak alert; all 166 passengers safe
   
-  🔗 https://indianexpress.com/article/india/odisha-govt-orders-cbi-probe-into-police-si-recruitment-scam-10321385/
+  🔗 https://indianexpress.com/article/india/srinagar-bound-indigo-flight-lands-varanasi-fuel-leak-alert-10321801/
 
-- Meta to cut around 600 roles in Superintelligence Labs AI unit
+- Meta adds screen-share warning and AI scam detection to WhatsApp and Messenger
   
-  🔗 https://indianexpress.com/article/technology/meta-cut-around-600-roles-superintelligence-labs-ai-unit-10321379/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-whatsapp-screen-share-warning-ai-scam-detection-messenger-10321851/
 
-- 84% of women in tech say more female leaders would improve workplace culture: Acronis report
+- Water in rare pre-solar system rock fragment found on the ‘dark side’ of Moon could be key to understanding Earth’s history
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/82-of-women-in-tech-say-more-female-leaders-would-improve-workplace-culture-acronis-report-10321314/
+  🔗 https://indianexpress.com/article/technology/science/water-in-rare-meteorite-fragment-on-moon-earths-history-10321898/
 
-- ‘Voice-first AI platform will make digital governance accessible to all’: Wadhwani Foundation’s Prakash Kumar
+- Amazon develops AI smart glasses for its delivery drivers
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/voice-first-ai-platform-will-make-digital-governance-accessible-to-all-wadhwani-foundations-prakash-kumar-10320791/
+  🔗 https://indianexpress.com/article/technology/amazon-develops-ai-smart-glasses-for-its-delivery-drivers-1031893-10321893/
 
-- Samsung brings Perplexity TV app to its smart TVs: Here’s how to get it
+- Amazon plans to replace more than half a million jobs with robots
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-smart-tv-perplexity-ai-app-10320572/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-plans-to-replace-more-than-half-a-million-jobs-with-robots-10321809/
 
-- Microsoft CEO Satya Nadella’s pay soars to $96 million
+- Apple reportedly scales back iPhone Air production ‘by more than 80%’
   
-  🔗 https://indianexpress.com/article/technology/microsoft-ceo-satya-nadellas-pay-soars-to-96-million-10320619/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-reportedly-scales-back-iphone-air-production-by-more-than-80-10321787/
 
-- AI is boosting the legacy business for top Indian IT firms, for now
-  Four major IT outsourcers report a rise in software modernization deals. TCS and Infosys lead at a time US tariffs and higher H-1B visa costs pose
-  🔗 https://www.livemint.com/companies/news/tcs-infy-infosys-ai-boost-legacy-business-top-indian-it-firms-11761043689431.html
+- Who is Sumaiya Balbale? Sequoia Capital COO who quit after ‘Islamophobic’ remark by top executive
+  The controversy has prompted over 1,000 founders and employees to sign an open letter urging Sequoia Capital to act.
+  🔗 https://www.livemint.com/companies/people/who-is-sumaiya-balbale-sequoia-capital-coo-who-quit-after-islamophobic-remark-by-top-executive-11761195330355.html
 
-- How Crocs Became the Right Fit for China’s Gen Z
-  Perforated clogs commercialized by a trio of middle-aged American boating enthusiasts have become the surprising shoe of choice for Chinese hipsters.
-  🔗 https://www.livemint.com/companies/news/how-crocs-became-the-right-fit-for-china-s-gen-z-11761168245648.html
+- HUL Q2 results: GST cuts weigh on sales, profit up 3.8%
+  GST rate cuts in crucial categories, including packaged food and other staples, weighed. MD and CEO Priya Nair
+  🔗 https://www.livemint.com/companies/company-results/hul-hindustan-unilever-q2-results-fy26-2026-fmcg-gst-impact-hul-share-price-11761122313553.html
 
-- Raymond Jamess quarterly profit rises on capital markets strength
-  Raymond James's quarterly
-  🔗 https://www.livemint.com/companies/company-results/raymond-jamess-quarterly-profit-rises-on-capital-markets-strength-11761167694293.html
+- Reliance may ‘completely halt’ Russian oil purchases; ‘massive cuts’ in crude imports likely after US sanctions: Report
+  Reliance Industries Ltd, the top Indian buyer of Russian oil, is planning to sharply reduce or completely halt crude imports from Moscow
+  🔗 https://www.livemint.com/companies/news/reliance-may-completely-halt-russian-oil-purchases-massive-cuts-in-crude-imports-likely-after-trump-us-sanctions-11761197357540.html
 
-- PrimaLend’s Bankruptcy Renews Focus on Subprime Consumer Strain
-  PrimaLend Capital Partners filed for bankruptcy after months of negotiations with creditors following missed interest payments.
-  🔗 https://www.livemint.com/companies/company-results/primalends-bankruptcy-renews-focus-on-subprime-consumer-strain-11761163719833.html
+- Who is Karthik Narain? Former Accenture CTO welcomed by Sundar Pichai after taking top role at Google Cloud
+  Google Cloud named Karthik Narain its new Chief Product and Business Officer. Narain will focus on AI and enterprise technology.
+  🔗 https://www.livemint.com/companies/people/who-is-karthik-narain-former-accenture-cto-welcomed-by-sundar-pichai-after-taking-top-role-at-google-cloud-11761182270609.html
 
-- Reddit sues AI company Perplexity and others for industrial-scale scraping of user comments
-  Reddit sues AI company Perplexity
-  🔗 https://www.livemint.com/companies/company-results/reddit-sues-ai-company-perplexity-and-others-for-industrial-scale-scraping-of-user-comments-11761160915805.html
+- Polymarket in talks to raise funds at a valuation of up to $15 billion
+  Polymarket is looking to raise money at a valuation between $12 billion and $15 billion. That's more than 10 times its value just four months ago.
+  🔗 https://www.livemint.com/companies/news/polymarket-in-talks-to-raise-funds-at-a-valuation-of-up-to-15-billion-11761181478041.html
 
-- Gold Extends Pullback from Record High for a Third Day
-  Gold declines for a third day, edging back in the direction of $4,000
-  🔗 https://www.livemint.com/market/commodities/gold-extends-pullback-from-record-high-for-a-third-day-11761180501714.html
+- Kitex Garments, Vardhman Textiles, KPR Mill and other textile stocks jump up to 17% on India-US trade deal optimism
+  Textile stocks including Vardhman Textiles and Gokaldas Exports surged up to 17% as optimism about a US-India
+  🔗 https://www.livemint.com/market/stock-market-news/kitex-garments-vardhman-textiles-kpr-mill-and-other-textile-stocks-jump-up-to-17-on-india-us-trade-deal-optimism-11761198840927.html
 
-- Buy or sell: Vaishali Parekh recommends three stocks to buy today - 23 October 2025
-   Vaishali Parekh recommended three buy-or-sell stocks:
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-stocks-to-buy-today-23-october-2025-11761137793327.html
+- HUL share price gains 3% after Q2 results. Should you buy the FMCG stock?
+  Hindustan Unilever (HUL) share price rallied nearly 3% on Thursday after the FMCG major reported its
+  🔗 https://www.livemint.com/market/stock-market-news/hul-share-price-gains-3-after-q2-results-should-you-buy-the-fmcg-stock-11761198601310.html
 
-- Stock market today: Trade setup for Nifty 50, Gift Nifty to India-US trade deal; 8 stocks to buy
-  Domestic benchmark indices ended higher in Muhurat Trading with Nifty 50 closing at 25,868.60. Analysts predict corporate earnings growth of 12% from FY25 to FY27, driven by
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-gift-nifty-to-india-us-trade-deal-8-stocks-to-buy-11761148296141.html
+- Midwest IPO listing date tomorrow. Here’s what GMP signals about the Dalal Street debut
+  Midwest IPO listing date is October 24, Friday. Equity shares will be listed on both the stock exchanges, BSE and NSE.
+  🔗 https://www.livemint.com/market/ipo/midwest-ipo-listing-date-tomorrow-here-s-what-gmp-signals-about-the-dalal-street-debut-11761197580876.html
 
-- Ceat investors ride high on prospects even as Camso integration, debt spike pinch
-  Ceat forecasts strong domestic growth despite short-term challenges. Timely and smooth integration of Camso is key
-  🔗 https://www.livemint.com/market/mark-to-market/ceat-q2-earnings-ceat-share-price-tyre-companies-india-camso-construction-11761118548896.html
+- HUL Q2 results 2025 declared:  ₹19 dividend to net profit; five key takeaways you should know
+  HUL Q2 results: Net profit at  �
+  🔗 https://www.livemint.com/market/stock-market-news/hul-q2-results-net-profit-at-rs-2-694-crore-fmcg-major-declares-rs-19-per-share-interim-dividend-11761197706275.html
 
-- Stocks to trade today: Trade Brains Portal recommends two stocks for 23 October
-  Stocks to trade today: Discover the top stock picks by market experts
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-trade-trade-brains-portal-stock-recommendations-23-october-sensex-nifty-11761134877633.html
+- Shares to buy in short term: Mehta Equities’ Riyank suggests Bharti Airtel, Motilal Oswal, Paytm stock to buy
+  The Nifty 50 index opened at 26,057.20, while the BSE Sensex reached 85,154.15. Analysts highlighted a meeting between US President Trump and PM Modi as
+  🔗 https://www.livemint.com/market/stock-market-news/shares-to-buy-in-short-term-mehta-equities-riyank-suggests-bharti-airtel-motilal-oswal-paytm-stock-to-buy-11761193845767.html
+
+- Sundar Pichai hails 'verifiable' quantum computing breakthrough as Google's Willow surpasses ability of supercomputers
+  Google's Quantum Echoes algorithm operates 13,000 times faster than traditional supercomputers. This enables verifiable applications in medicine and materials science, Google says.
+  🔗 https://www.livemint.com/technology/sundar-pichai-hails-verifiable-quantum-computing-breakthrough-as-googles-willow-surpasses-ability-of-supercomputers-11761179642580.html
 
 - Centre notifies amended IT rules to enhance transparency, accountability in content removal by intermediaries
   Amendments to Rule 3(1)(d) introduce additional safeguards to ensure that removal of unlawful content by intermedi
@@ -96,89 +100,125 @@
   Google and Apple face extra UK scrutiny over
   🔗 https://www.livemint.com/technology/tech-news/google-and-apple-face-extra-uk-scrutiny-over-strategic-role-in-mobile-platforms-11761150933193.html
 
-- Apple co-founder joins top scientists, leaders in call to demand pause on AI superintelligence development
-  Steve Wozniak and Richard Branson urge a halt on AI superintelligence development. They warn of serious risks to human rights and existential threats.
-  🔗 https://www.livemint.com/technology/tech-news/apple-co-founder-joins-top-scientists-leaders-in-call-to-demand-pause-on-ai-superintelligence-development-11761140895749.html
+- Asia Futures Fall After Choppy Wall Street Session: Markets Wrap - Bloomberg.com
+  Asia Futures Fall After Choppy Wall
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXYxRk9WY2c4TlVBSFBENVVMNEtEOS12cWdIYWtZdkcxbjRwOVQ2R0R2X2tPNmZ4Vy1nUlUzbGo1TnFqSkdCeUtPTF9uNTVfa0NxSFJXS0g3YlVkNHgtOHBqbURGblNSbUV0dHpac3hhajJUYll3dVk3Q2ZvQy1lUUJweUFrLUtRd29SRDd1ZTJWSHBw?oc=5
 
-- Markets News, Oct. 22, 2025: Major Stock Indexes End Lower as Investors Digest Earnings Reports, US-China Trade Tensions - Investopedia
-  Investopedia: Major Stock Indexes End Lower as Investors Digest Earnings Reports
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE9OV2VpRkVVTUdxSjQ5cGQ3NlhuSlNNcUgyWF9kV1NzSUZ5bnVld2pROUdoMGhwSTZEVU9nb3FsVTRIWUI1Ml9SaU1vY09zdEgzRlQyaFhEdDY5RkliVHRFZ1lLU21mZHhUTWdfLVB5OA?oc=5
+- Stock Market News, Oct. 22, 2025: Trade Tensions Drive Stock Declines - The Wall Street Journal
+  The Wall Street Journal published a story on Oct. 22,
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNQkhmZzZFNXRWTmctSUY3OExPLWtyNXRQN0NZSXZrYlRDdlNabVoxYkpYQVZHWWQ5eVBGbDFnbEdNcXhCVU1hMFVLOWd6TjI3bnBjUmxxa3g1d3BvSXZFUEZSYW1wTEw4cDVLN0JHREtPVkdoT0g3ZjRscW5iUVcxV1l4bw?oc=5
 
-- Dow closes down 300 points on trade fears, latest earnings - CNBC
-  Dow closes down 300 points on trade
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE94a2wzalh4WEM4cmE2dUNGa3RPcXg2ZFhVTzdEX0NCczVNUmVoSlZvM3hBWXlsNnRER1NfRzlNdnROTVFKTU1ZSjd1RUUtU290UlY4MUgzckxYNFlRYzNPbmdpaDhhNmRtWnFYUnEzal96WDFqVGRv0gF8QVVfeXFMTzhJQVUwWXZabmdLdXA4Z2dNQzN5RlBMTEJLSjI1UUEtb3VIVXdnc1h3eGE3Y3IzMkFORXczV1Jkc2JmQ09YdFVMTmFsLWw3U3RPdHpoZ2VvRzB3ZWxBbTJ4TVZnelF3WnU2NUFyUG40WmpDM1NlNDZSbWE3eg?oc=5
+- Crypto markets fall for 7th consecutive day, Bitcoin trades at $108,000, Ethereum at $3,800 - The Economic Times
+  Crypto markets fall for 7th consecutive day. Bitcoin trades at $
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ2VMd1UxQXI5NjRyLU1IZ2Jfd3Rkb05ob3RpMGI0M3FpdjJ4NjFrWExnNXp0SFFKbTVxNFJWenE2eWVxSjFBT1RFM2FIdjd5blg5cFhTbTNobGdRajc0dGlLbVB6UTZuMFFqdjh2OWN3dUdwc2U1MmNGZ25MTmtqdGpLWEFoZ2FaUktlQzNmY1V3cEJsa2JEcHNRSGdabWhuRDUyLVdwQW9lU3NvNDVUOEwxSDhZcUhkem5KQW5hZ0tfaWJHd29uYWtHaVFiN0h0QlJqQUxHc3dxTVdpWDVWdHlXNjZVVFdKdXprZjUySU9yc1BL0gH6AUFVX3lxTE9iUzAtZExUeWN5cEtfbWpvYmdKOXpqbW5iSVdUcnhQbVNvUW1ZTDBIMWYtZzhVQmJkYlg5LVV3bkp4eHVyVGY3aW5Lc25OWktqb1NDeDBfNjVvZmlnb1k2T0ZQLUdrdGlTOWVMMDZDemxrSHFxOXI5ZHQxU19WcUgxaGlkc1NoODBvYWh5OWFDeXgyUnhmVFd3UjlKZDY4NEJka2hnM05qNXZNMlc1a0J0cklHclJaOUFueXpnVExLVHkzSmw4ZU1RN2UwNHpkX3VoVkd1YmpBUURydlpTZUxsQkpSeE1lUFZuMkFic29lZHBMVzRmdVgycmc?oc=5
 
-- Stocks, Crypto, Gold Sink in Momentum-Trade Unwind: Markets Wrap - Bloomberg.com
-  Stocks, Crypto, Gold S
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNMENWeERUNFVsbTlvdmxvNEpkVFVYcFVfN2VmSGotdXJVQ2UycEphd2tQS1RWWUUyczJ6WlVjc2IwcWI1R0hjYm9EV3A3endCaVBObDk0bm5XVE9kOHVfbFBndVRRd2s0ZHhoaG1RVUNNSmpMbUt0M1ZOeDlmRW51bmpKUF9Ganl1aFlPZ1JzN0tNQmk1cWpfTUdfV09YcjBpYVBkaUp6M1czVW5hUWN5Y3ZBOA?oc=5
+- Stock Market LIVE: Sensex rises 600 pts, Nifty above 26,000 amid broad-based buying; Infosys up 4% - Business Standard
+  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQd3ktbUc2VFBUTDVpUkEyTTFKMDlGRXNfREI3RmMtRUctaVI1aVk2dGlSZ0kwYkN2ZU1ub3hWSTI4Wkk0aXd4RVUxTTV0ZC03SnR6N3VqendsdTBxWTJtRVpfbVk4WFNMcV
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQd3ktbUc2VFBUTDVpUkEyTTFKMDlGRXNfREI3RmMtRUctaVI1aVk2dGlSZ0kwYkN2ZU1ub3hWSTI4Wkk0aXd4RVUxTTV0ZC03SnR6N3VqendsdTBxWTJtRVpfbVk4WFNMcVFKbTd0NTJNZWNEQ0l6UWFiNjhXUnNUOXU0ZlAzR0pBMWk5aDZkeEphWmtVQ1V3UFA3S0c5d1NLU0VoY2hJX1p1VmQtYXNTanR5ZVNRcnY1TDNuZm1yNGd6M1dRTnhzbEFpZHc2NnJfekhwVm1XVkkzMUVEbFo2dlJzTl81TEhCS2tBSUR4WnpCR05wd3BDZVpsYVJVNFFx0gGGAkFVX3lxTE9LUnVxY2lfX1YzRGp6aEFybE5vRHRHcWV4ZGN3YVE4a09rS0lxaUlzX0FTWG5WMGRjSi1xcXM3UE5QRFlFc2lDZFo1MHNMdGotUWpXMV9wX1ZMN2FqTUlEbWg3azFwMDh4RlVFUDM2UEh2c21jYkJ5YktTYkRiUTU3YVVFaldEbC1hRTBKUDRUeFZCM0lNNC14eXRnVEZHUFViZWt3NDNJTlZ4NXltYlBsTkJ3Smxpd1JyeE9xYjNXeFVuTXZ6WDk4RFR6V0tiMU56NWRkVUpFcmU5VXVlZUJqMU1XRVB6N3FCamZtcmhIUEhfblQ2ejQ1WE0wQ1V0czFkaVphUWc?oc=5
 
-- Stock Market Holiday: Are NSE, BSE open or closed today for Diwali Balipratipada? - The Economic Times
-  Are NSE, BSE open or closed today for Diw
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaEtUMnFjbXFydTA0VjRadDFvNllpSUhGTkV1MHkxeXEtekdUaTJuN1R5cm40bktjUmpmanlpTjFQVTNsNGNfMEpKZ2FrYm5LOFFaTmZsbGx5OFRSWEkwSl9FN05GelBOaXJsUjFuUnVZUWNRY29oUVNsNWV1aGgwaEFnVlE3aFNkZHd6QnhSdkc3TFhzcm5iOVhKYU80a2UyUVlfaXZtc3ljeVNHYUtycnY2Z2QzVkhFcHg5OEZsSnRfQ0c0N2JPQlFjWlVuekQxNnFzM281YlZMdzJkeGxmRnpNQkk5YU3SAewBQVVfeXFMTjF0WGRuVVZOMjh6NmFNRWNmNGVVQ21xX25yRjhLOS1hdEgwTzZUdl9zeUNsX080bzdsSVozSVNWOWdXeW04T2w0OWtzVGI2MER5OU5TWkY0N19FNlltYkpYLXR6MVpZU256VWhjekZHV1dpb0s3eUlWVkRfT1piM2pKS3FxRUF0Q1lOY3BqLTEzblV1bzZnWWxHbjdxRFZwUTJ6TElEWTVpUGUxTVM5VmhaRVJ0NUtLeXFKYkNaZzRDU1pJYlR2MWlTcURPY2o5aVZhekxrb2ZHd0NTczhNd3FTbm55Qmphb1psMkY?oc=5
+- Asian stocks today: Markets trade in red tracking Wall Street's losses; Nikkei down almost 800 points, Ko - Times of India
+  Asian stocks today: Markets trade in red tracking Wall Street's losses. Nikkei
+  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxOb1cxZXBnX1FJV2NTOTlpSzhabnFTZUZ1Z29lSEV2VmZ1cko3UmpSZ3piMzh0cnZlWkxJN0F1SlpILXByemdQd29xU0g3S2ZWV1hoUUthRm9KS3JGMlNFSGFiX0JRUUxtbHZ6OGkzUXVicndwYW5xMkpvNk1uTXlkTE1BdUYwTkluSzd2Ti1ZUFlpdGhJaDBiWGdNaGlVZEVpdnNITElKN0cxaWFJQUJaQ1RLQW1feUxxblZBREcxTVotZlRoRXBfR3ZldmpoQ3VkTVgyWFUtWEFER05UT0lKZ3A0d2RhMEhIZWtaTGZKOVNBM2VORlIxT0RfbHVZcVBNbUYyd09CVkl3Tk0tbW5EMFlyR0dNbVNxVXBsX2lrOEY5S2FJdC1ZWFoyVmVPWlnSAbQCQVVfeXFMUFhxb1JsZ0pUaElRSDBTQkFfOG9YU1hwTllGazUwNGdfVnhoOHR6dW54RS10M0RQbjdFNGk2Q3I4a2QxdEhxcUhGT3FiZm9FZlpTWWlza1VSYk9faWNHT3RSa3B6d0ZZMm9xTGIzRlhBUUYxTnl6cTRYaWFXWnRmV2UzR0EzRVNxalZmdFctcVAzMDVZUEc2SGpKRXVxcV9zUGRON1EyY1o5Z3dHQkpZX19QTlhYVGtNdFlsa05FaDBmT0w1NHdvcEhxNlpIcVc3a21yNkRLTDRmalFhcTRTc3ktRFlCR21rblFZN1RxenJBV2xqd3FPYzlEZmEzQ3NvX3pPbFNYd3prUEozLWxSWU10MXJ6LWdhWHpxbTVNbFZsZ1dCc2JrOXJoY0ZYVVo4TDdjR1Y?oc=5
 
-- Stock market holiday: Is the Indian stock market open or closed today? - Mint
-  The Indian stock market is closed on Monday.
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX0t5b3NKT0dHZWNva0R6TDFkai0tLU1SeVdmQklDLXdMcWF6SHQxZVVfeG1FSkE0YUNJLVM2SjdJR2tjY2hTbzBoX3BaV05BMnZKb1FXV0w3VTRDNHMxQjN1RjlBMHFMbDVvVlY2eDlqbldzclNIWDBhRFhLSF9td2pYVlM0MERyb0xyRGZjM0FuM2xKTXNXZlpEenZ3UURGNUxGcWJkNC1EWEpuMjlwTXBHZ1BLeVp1TzVCdUk3ZUptZ3U3NEV4ZXBpc3RBUTZNREdrQm9iRW0xakRrSlHSAeMBQVVfeXFMT1VzOHMyLWZteV9YVkxuRU82akpZSGd3OXFVN2V3ZjE0a2x4cF9Dcm82cFgyT0M5ckVRTlhRdHdmbHJmUzhheExHektUNHdyRmZFTzBSb1FSMGdLdThqYU1BZDlPSExyUVM5MGFOdkdKRFNhYktBTFpwZUVoZi0xeXdpVlZhQVNKSWNYdVlwcG9EamZvOW1RNlcyb3dJczljaTJoTU0xbFF1cmpDSWZndHdkQ3NLMkt2MXJ6VklJTTZlUTZqdkRWWkdORkdsZmlCN2gyNGYwYThXYW93YkdENFhSYUE?oc=5
+- HUL Q2: FMCG major declares interim dividend of Rs 19 per share; check record and payout dates
+  HUL has announced an interim dividend of Rs 19 per share for its eligible shareholders. The FMCG major reported a consolidated net profit of Rs 2,694 crore for Q2FY26.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hul-q2-results-fmcg-major-declares-interim-dividend-of-rs-19-per-share-check-record-payout-date/articleshow/124754635.cms
 
-- Asian stocks decline following choppy US session
-  Asian markets opened lower after a volatile session on Wall Street. Japan and South Korea saw significant drops. Tech stocks faced pressure from company outlooks and earnings.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-decline-following-choppy-us-session/articleshow/124750479.cms
+- Indian bonds slip on lack of buying interest
+  Yield on the benchmark 10-year bond increased, attributed partly to profit-taking by state-owned banks. Simultaneously, the stable yield of U.S. Treasuries cast a shadow over Indian bonds.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-on-lack-of-buying-interest/articleshow/124754345.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  Sensex rose to 84,600 and Nifty neared 25,900. IT, banking, auto, and pharma leading gains. Analysts anticipate Nifty improvement from current levels.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124744457.cms
+- Crypto markets fall for 7th consecutive day, Bitcoin trades at $108,000, Ethereum at $3,800
+  Cryptocurrency markets experienced a downturn for the seventh consecutive day. Traders trimmed risk ahead of U.S. inflation data. A major Bitcoin holder's exchange deposit and increased short positions signaled caution.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-markets-fall-for-7th-consecutive-day-bitcoin-trades-at-108000-ethereum-at-3800/articleshow/124754320.cms
 
-- Stocks in news: HUL, Jain Resource Recycling, Ola Electric, Tata Motors, Torrent Pharma
-  Indian markets closed marginally higher after a strong start in the Muhurat trading session. Investors are now focused on upcoming earnings, global interest rates, and crude oil prices. Several companies like HUL, Jain Resource Recycling,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hul-jain-resource-recycling-ola-electric-tata-motors-torrent-pharma/articleshow/124744404.cms
+- Gold tumbles for 3rd day after biggest ETF exodus since May. Here’s what else is dimming its shine
+  Spot gold dropped 0.5% on Thursday, driven by a technical reset and the largest single-day ETF outflow in five months. Geopolitical tensions and hopes for a US-China trade deal also weighed on the safe-
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-tumbles-for-3rd-day-after-biggest-etf-exodus-since-may-heres-what-else-is-dimming-its-shine/articleshow/124754194.cms
 
-- Infosys promoters opt out of Rs 18,000 crore share buyback
-  Narayan Murthy and Nandan Nilekani will not participate in the company's Rs 18,000 crore share buyback. This decision will lead to a slight increase in their shareholding percentage and could impact their voting rights. The
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/infosys-promoters-opt-out-of-rs-18000-crore-share-buyback/articleshow/124750360.cms
-
-- Small finance banks seek doubling of cap on loan size to ₹50 lakh
-  Small finance banks have approached the Reserve Bank of India with key requests. They want the regulator to ease a rule requiring half their loans to be under ₹25 lakh.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/small-finance-banks-seek-doubling-of-cap-on-loan-size-to-50-lakh/articleshow/124750325.cms
+- HUL Q2 Results: Cons PAT rises 4% YoY to Rs 2,685 crore; revenue up 2%
+  Hindustan Unilever announced a net profit of Rs 2,685 crore for the second quarter of FY26. Revenue saw a modest rise to Rs 16,241 crore. The company declared an interim dividend of Rs 19 per
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hul-q2-results-cons-pat-rises-4-yoy-to-rs-2694-crore-revenue-up-2/articleshow/124754151.cms
 
 - India Nears Deal To Slash US Tariffs On Imports To 15%-16%: Report - NDTV
   India Nears Deal To Slash US Tariffs On
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3BkV3E1LXhyU2R0Um1MaHNfY3pEZjVVV3JEMnFfaFRscWRSTlRKYVVWVWh3M24zcVVmZUF3eFdMQ0FjRHFjbDdaWWVvZzM5dlNwanlvV3FvRDIwU04xWDBwaDBjdmxzbGItS00yYXFUeWZoNkJsOTJzNXZiMUhwVk96OHF2MldnSzRpUkpfaTJtQ01DTzFla3hZZVptalJmaTNZZDdn0gGuAUFVX3lxTE4wRklYZG0ya0VDLXcteUViNzlrcGFMQlRSd1JQR2dPcW1kcVhMdjVocHgxRGNTRmxpTERvcG92d1BUSThfV1dBVjY3REtjYVhUVnRiUml2X2MycnMtMWp4dDcyOTRHemJjWlk4VS1pY3k0WmY2ZHNXTVJGbW5aRk1CSTJaUGpTT2JKdlM1cl9zZndzZGZsNDhhVFBwMnpzWHFXbTZyclczZ2ZscVctUQ?oc=5
 
-- India, US trade deal likely soon, huge tariff cuts on the horizon - Mint
-  India, US trade deal likely soon, huge tariff
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkdPcTBzNU1zNl83WkpuN2dyLVdGaW95enEzMDZ6U1B6MzE1bS1wcXRUcVNCSzJCNll4dTdsc0pkNm02aVcyNlJRNTNsdWZyN2hIUXJwS0lHSVgwdGF2WFVzaEhqQXUzQWlFZG8tUFIweVJRMDlDT3g1a2hRaDV6SDlWNkJZeUJOQjlYZzU5RXRJTkJ0V2hlYmNJWEJwMXJFc2M2ZlpmbmIxVjVFUXBlTzhjeVpjV03SAbwBQVVfeXFMT1RBNGxubWZHdi02OGkzVnluWXE2Zll3eVRaNmxHdmxlZXZELW1fQ1NDVW5CYVpLaHp0ODVTajR2eXh4MWxpa0lvaV9zR0FMOWVma2tmb1l4akxhYWI5eWVKSnJGczNfb0ZJcmZ4REFzTExWODFlWUptV2JqRTlfM2tTQVdxSlRnMWRITDdEZnZxVHlfa01ZcmJoZUQzTVlYZVpkc0FuWGU0Nl90Y3AtRksyVVFXeWlTVTVuQnE?oc=5
-
-- India, US move closer to trade deal reducing tariffs on imports to 15-16%: Report | Latest News India - Hindustan Times
-  India, US move closer to trade deal reducing tariffs on imports to 15-16%.
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdVNFSXpUbXJKWE55dHBlZWJ4WWZUUjRIOHFPTDF3QUQ5XzNQNno1V1c4aUFZSUlfOG0zQjlVT2lHbWZ6UW1PSmV2MXpZdkxPQWVaMUtPdFpvZFk3YkppNy12RklJYWttNHZILUVscEN1R1Y0VEg2cGlVU0FCeWtmdmNSYkFrTlhzUHRCdkJxckdZRVgySFZIZExFaEljdGRWRUN1VXVuSUYwcjkyNFVFNkFzYkdFMWhReDhfVldhZjhjLUZ6MjZpQkkyRWdKUy1Fd2JQdHVUWk3SAd4BQVVfeXFMT0syZl9oM2lOUzVvZ0p4TnA4ck9sUGtqYUllaDFhRGR2VDVDZFNzWFFPY3pzS0dfakVJTkhJQUlzV2R3Tzlsb3dnVU9PZUFJLWZJZ0VFUDJvWk9kY1FMeUVWWW45VWtXR1JZRFdJbWNmU1N3WTNLaDBVZFdlWk5zZkhSVHIzc2VrZFM4LXJpdDlhQTZobDZ5dTlaRFp4WFlQOVFTb3c2bkl1aXY2cjVFN3ZLM1kySWVveEJGRGFXS09leXpWS3paTUYxN2k0aWNzaGxBd01VVjROZTFfNXdn?oc=5
-
-- Trump hints at trade deal with India as heads to Asean where he may meet Modi - Times of India
-  Trump hints at trade deal with India as heads to Asean where he may
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTllabEZZV2VvcFhyd3ZmTnlZdzRVZHB5UE0tV2U2UGZLVll6Wll5NEhJazBsOE9TNUtRdndSdTlFeEtOd1FPNWtXSVJ6WE5IblBMcjFaUUE3QWwzT3oxcTBQc2d1clJWaE9WTjlNYjloX0dsYUdaQkRqNW4wYnRwZTZOSEs1dTJjYklOZ2Z4RmV5UTgzYUF3dld1b2ozaF9ZVzZyVG9BOWJXRktCU2dwRFloYm9KYlF3WEN3d0pQUzBMSE9HZlhSMTFXRm5DQkN1bUYwRlNyWWdkUlRHbTljR1NlUW03Y3JxVXNhXzRtaldiMEZEWFHSAfsBQVVfeXFMTy00R0t0U1RnVEpCSzU4N1pSUy1vYU5NOXJLeEZJY18ybEVsaVRTOWg1ZEpteWlmTWx2UFdjS20tNXU2X1NhOWtKVDhWaEtnWG5ONGYwWjdfZ1k1Ui1fSnBsZnBXVndHTG9iX1RVUlNuYnBBckgzeDQtTWpXcldka2xWd1J4Vl9GU2puTzZtN09YQ3BvN2Rqc2x0eV8xYVNDSWNDVmxLSElYMXRocE01Tm5LWTcxSjBUcFZMVXhCUUdYVUhjUDcyUjFsUmQwMTBFTlZEdzJDQWZzODBiZVZzT2RhWGQ5N01yUTNWUFNwTGlxRUdmU2dBUnV2Y2M?oc=5
+- India News LIVE Updates: PM Modi to join ASEAN-India Summit in Malaysia virtually - The Indian Express
+  India News LIVE Updates: PM Modi to join ASEAN-
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdk8yX1gtemlWV3FSbTVUdE5DRTgxXzBGZkk1OWplelI3V0lmLXJxU25KaEdxRGtGaTljX3g4NXk2emVkZkpCMFV5UHBmUzUxTnlEVnZSMEU0RmZBU1VnMjd1bXJVYjlWYWI3cGQzQTJFU2d4SnUtQ3hVZFpRLUdTejRjb3NRSEpBWmRSZXhvZmRLdjFldTRaYmZrdkEta0tqRExFLVVRU3JBSlHSAbIBQVVfeXFMTmlibm1LUnNyZ24xWU9RQTVrZFhpc0hpalZKUURVY0liU19jT0pXeHJLSEVvellHcjhrVW9uZE13N1I0Y25PY0h1YTh6QmROMW1DYi1SRG5nOEtRX1FVblFhblZFYW9RMGtHZE5hYUJDUWp0VG0xN0J3MzN2alUwajhCdkJZcEZkRUR4MWktRnVfY05GVUZsX0lhNUlzRFFxa3cxTW9QMTlLWDVMOFRWM1Vfdw?oc=5
 
 - PM Modi Likely To Skip ASEAN Summit In Malaysia - NDTV
   PM Modi Likely To Skip ASE
   🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGNVUmZMbDYzTHNMTjNMa2FJNTJGMGtOYTVSamlsemZzeHZVQk9ZS2lHXzh2UG5MYW9STjZ6ZVNTeEtvZTQ2NUViR3NwUW9SSjdOSW5CYzQ2aThZV3dydDFLSTRhVXJ3ckVqcUdtY3RYYW9kX3Z4Y2RCRDY2eVNyUW4zVFpmM2lvV1JuUUZuMjLSAZgBQVVfeXFMTU83QVgxaHJwVVdwWjVsSF8wNnU5SGNxUnJPVWJBeGRnYTdhTHBoWlB3eUtQemhROUZFb0dyV24ybTFHOU5QR0JlWHVqWXVNdDlxVjlnLTc1eHl0S1RPaUsteGNHcEJRdENfVUVkQm1WSjB0aDdBUjhhZEY0al9yeEo3OVZib2lWMUNNSzlGbDVYUWhSYU5ySFk?oc=5
+
+- PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘I respect his decision’ | Latest News India - Hindustan Times
+  PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPdkdsUjR0d1pmeVNlMW1TZ0Q0bzZZaGNUYkdtTk9WQTlHT1dkSE1UcXFMa0VOYzMxdEpmSEhWM2V2M05NeEFyRDZCZmZnSWVqbjFkNTBudWFVV1NnbFRaVUhHcXBtQ2I4ZzhNb1Z4TlpjZ29qbFFLUnJ5ZU1HTU4wV25tZ1cxTEtaOU52bXhvVW5maUNSbGZXSjdVNzc1NDJUbWJOYUs0QnlQcGliLVR4bGZXbEpLM1dFVEVIOXI2UzhScGI0bzlWNFAtbGxxMkhTSmljRzZ4RTdyLWtqbTE2Q2RGMzNqSzZhSmtWR0ItUExIT1RKZXAyVnVueWdibklHQ3fSAYcCQVVfeXFMTnhPSVdvRUhKTTNwbVZlOGlhQ1dNdlp2OHVxNFRBZzF0aTZ2TlptUkJuRXd0UFpDWktoSmJxdjBTWTRXN3BBWDl0MWpJQWlHc0xiU0NUWmdLQTV2UUtZNEVLZjZhVV9rdjBNWjFVNTk4ZmYyZk5lU1gzbjRFbDh3QzBkVVFucVBzeFV3d0FZMW0yRTBGdFJxblkzUUtRSnhVeTBkUmpnSUZsVE9nLVdXNUFxNTlkTDFNNzB6QTNrbzhzdV9xYTVISFJpZlJueXh1QW11WHhrT3U0aUVhOTdJOE40cG9nWFI1VDBBVUFieTd6ZEJGeE8zQVc2SURjb1hJV21RVmZmNWc?oc=5
+
+- "It's A Process": Trump Reiterates Claim On India's Russian Oil Imports Amid New Sanctions - NDTV
+  "It's A Process": Trump Reiterates Claim On
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0dzeDh1M2Y4QTc1azFBcDBsQ25BMHVwVjc2T3BzRUI5dVdrcGRKOXhaaVZKSjNULUtCTVV4SzhFSHpzOTNVbjZiNGdjM2xsZlBYUkRyQ1ZnVExYUjNuTTJHRzlURVZlVVU0dVpoRXpueEdTZVhWa3IwSTQ1TThidUNoYzl5bm8yTWxqVGVoNVhVQllnVEZ3SEQzZHVmaURhZ3NHYTBEemVwZERzaThmQXpUbWJpc0RNSzE5MjhDMk1hU0RQZ2JvcTlYSljSAdQBQVVfeXFMTTlkMC1EUEg2WlZOeklfcWlOeWtxU2JIaTJISFdHTWdBczJYVEQyNTVXSEZHT2docndPbHZiTFNiX2lQTmZNWjlia1E5ejlnd016Z3hlMGpsVW9Rb1lhRWRGYWxrN2t1YUl6NWxiOE9uWmRxa05aWW43ZjdnLTF5M3NueDV5MEZRdWNKZV9fUURCaVlNMmtBSEFWVllLY29GdmJaMW44T2JyV2lBT1QxcUNRR3lvVnNCdVVLMkwtbzVMeWJFN04yRWRKN0R0bnRlaGNETVY?oc=5
 
 - India Nears Deal To Slash US Tariffs On Imports To 15%-16%: Report - NDTV
   India Nears Deal To Slash US Tariffs On
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3BkV3E1LXhyU2R0Um1MaHNfY3pEZjVVV3JEMnFfaFRscWRSTlRKYVVWVWh3M24zcVVmZUF3eFdMQ0FjRHFjbDdaWWVvZzM5dlNwanlvV3FvRDIwU04xWDBwaDBjdmxzbGItS00yYXFUeWZoNkJsOTJzNXZiMUhwVk96OHF2MldnSzRpUkpfaTJtQ01DTzFla3hZZVptalJmaTNZZDdn0gGuAUFVX3lxTE4wRklYZG0ya0VDLXcteUViNzlrcGFMQlRSd1JQR2dPcW1kcVhMdjVocHgxRGNTRmxpTERvcG92d1BUSThfV1dBVjY3REtjYVhUVnRiUml2X2MycnMtMWp4dDcyOTRHemJjWlk4VS1pY3k0WmY2ZHNXTVJGbW5aRk1CSTJaUGpTT2JKdlM1cl9zZndzZGZsNDhhVFBwMnpzWHFXbTZyclczZ2ZscVctUQ?oc=5
 
-- India, US trade deal likely soon, huge tariff cuts on the horizon - Mint
-  India, US trade deal likely soon, huge tariff
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkdPcTBzNU1zNl83WkpuN2dyLVdGaW95enEzMDZ6U1B6MzE1bS1wcXRUcVNCSzJCNll4dTdsc0pkNm02aVcyNlJRNTNsdWZyN2hIUXJwS0lHSVgwdGF2WFVzaEhqQXUzQWlFZG8tUFIweVJRMDlDT3g1a2hRaDV6SDlWNkJZeUJOQjlYZzU5RXRJTkJ0V2hlYmNJWEJwMXJFc2M2ZlpmbmIxVjVFUXBlTzhjeVpjV03SAbwBQVVfeXFMT1RBNGxubWZHdi02OGkzVnluWXE2Zll3eVRaNmxHdmxlZXZELW1fQ1NDVW5CYVpLaHp0ODVTajR2eXh4MWxpa0lvaV9zR0FMOWVma2tmb1l4akxhYWI5eWVKSnJGczNfb0ZJcmZ4REFzTExWODFlWUptV2JqRTlfM2tTQVdxSlRnMWRITDdEZnZxVHlfa01ZcmJoZUQzTVlYZVpkc0FuWGU0Nl90Y3AtRksyVVFXeWlTVTVuQnE?oc=5
-
-- India, US move closer to trade deal reducing tariffs on imports to 15-16%: Report | Latest News India - Hindustan Times
-  India, US move closer to trade deal reducing tariffs on imports to 15-16%.
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdVNFSXpUbXJKWE55dHBlZWJ4WWZUUjRIOHFPTDF3QUQ5XzNQNno1V1c4aUFZSUlfOG0zQjlVT2lHbWZ6UW1PSmV2MXpZdkxPQWVaMUtPdFpvZFk3YkppNy12RklJYWttNHZILUVscEN1R1Y0VEg2cGlVU0FCeWtmdmNSYkFrTlhzUHRCdkJxckdZRVgySFZIZExFaEljdGRWRUN1VXVuSUYwcjkyNFVFNkFzYkdFMWhReDhfVldhZjhjLUZ6MjZpQkkyRWdKUy1Fd2JQdHVUWk3SAd4BQVVfeXFMT0syZl9oM2lOUzVvZ0p4TnA4ck9sUGtqYUllaDFhRGR2VDVDZFNzWFFPY3pzS0dfakVJTkhJQUlzV2R3Tzlsb3dnVU9PZUFJLWZJZ0VFUDJvWk9kY1FMeUVWWW45VWtXR1JZRFdJbWNmU1N3WTNLaDBVZFdlWk5zZkhSVHIzc2VrZFM4LXJpdDlhQTZobDZ5dTlaRFp4WFlQOVFTb3c2bkl1aXY2cjVFN3ZLM1kySWVveEJGRGFXS09leXpWS3paTUYxN2k0aWNzaGxBd01VVjROZTFfNXdn?oc=5
-
-- Trump hints at trade deal with India as heads to Asean where he may meet Modi - Times of India
-  Trump hints at trade deal with India as heads to Asean where he may
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTllabEZZV2VvcFhyd3ZmTnlZdzRVZHB5UE0tV2U2UGZLVll6Wll5NEhJazBsOE9TNUtRdndSdTlFeEtOd1FPNWtXSVJ6WE5IblBMcjFaUUE3QWwzT3oxcTBQc2d1clJWaE9WTjlNYjloX0dsYUdaQkRqNW4wYnRwZTZOSEs1dTJjYklOZ2Z4RmV5UTgzYUF3dld1b2ozaF9ZVzZyVG9BOWJXRktCU2dwRFloYm9KYlF3WEN3d0pQUzBMSE9HZlhSMTFXRm5DQkN1bUYwRlNyWWdkUlRHbTljR1NlUW03Y3JxVXNhXzRtaldiMEZEWFHSAfsBQVVfeXFMTy00R0t0U1RnVEpCSzU4N1pSUy1vYU5NOXJLeEZJY18ybEVsaVRTOWg1ZEpteWlmTWx2UFdjS20tNXU2X1NhOWtKVDhWaEtnWG5ONGYwWjdfZ1k1Ui1fSnBsZnBXVndHTG9iX1RVUlNuYnBBckgzeDQtTWpXcldka2xWd1J4Vl9GU2puTzZtN09YQ3BvN2Rqc2x0eV8xYVNDSWNDVmxLSElYMXRocE01Tm5LWTcxSjBUcFZMVXhCUUdYVUhjUDcyUjFsUmQwMTBFTlZEdzJDQWZzODBiZVZzT2RhWGQ5N01yUTNWUFNwTGlxRUdmU2dBUnV2Y2M?oc=5
+- India News LIVE Updates: PM Modi to join ASEAN-India Summit in Malaysia virtually - The Indian Express
+  India News LIVE Updates: PM Modi to join ASEAN-
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdk8yX1gtemlWV3FSbTVUdE5DRTgxXzBGZkk1OWplelI3V0lmLXJxU25KaEdxRGtGaTljX3g4NXk2emVkZkpCMFV5UHBmUzUxTnlEVnZSMEU0RmZBU1VnMjd1bXJVYjlWYWI3cGQzQTJFU2d4SnUtQ3hVZFpRLUdTejRjb3NRSEpBWmRSZXhvZmRLdjFldTRaYmZrdkEta0tqRExFLVVRU3JBSlHSAbIBQVVfeXFMTmlibm1LUnNyZ24xWU9RQTVrZFhpc0hpalZKUURVY0liU19jT0pXeHJLSEVvellHcjhrVW9uZE13N1I0Y25PY0h1YTh6QmROMW1DYi1SRG5nOEtRX1FVblFhblZFYW9RMGtHZE5hYUJDUWp0VG0xN0J3MzN2alUwajhCdkJZcEZkRUR4MWktRnVfY05GVUZsX0lhNUlzRFFxa3cxTW9QMTlLWDVMOFRWM1Vfdw?oc=5
 
 - PM Modi Likely To Skip ASEAN Summit In Malaysia - NDTV
   PM Modi Likely To Skip ASE
   🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGNVUmZMbDYzTHNMTjNMa2FJNTJGMGtOYTVSamlsemZzeHZVQk9ZS2lHXzh2UG5MYW9STjZ6ZVNTeEtvZTQ2NUViR3NwUW9SSjdOSW5CYzQ2aThZV3dydDFLSTRhVXJ3ckVqcUdtY3RYYW9kX3Z4Y2RCRDY2eVNyUW4zVFpmM2lvV1JuUUZuMjLSAZgBQVVfeXFMTU83QVgxaHJwVVdwWjVsSF8wNnU5SGNxUnJPVWJBeGRnYTdhTHBoWlB3eUtQemhROUZFb0dyV24ybTFHOU5QR0JlWHVqWXVNdDlxVjlnLTc1eHl0S1RPaUsteGNHcEJRdENfVUVkQm1WSjB0aDdBUjhhZEY0al9yeEo3OVZib2lWMUNNSzlGbDVYUWhSYU5ySFk?oc=5
+
+- PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘I respect his decision’ | Latest News India - Hindustan Times
+  PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPdkdsUjR0d1pmeVNlMW1TZ0Q0bzZZaGNUYkdtTk9WQTlHT1dkSE1UcXFMa0VOYzMxdEpmSEhWM2V2M05NeEFyRDZCZmZnSWVqbjFkNTBudWFVV1NnbFRaVUhHcXBtQ2I4ZzhNb1Z4TlpjZ29qbFFLUnJ5ZU1HTU4wV25tZ1cxTEtaOU52bXhvVW5maUNSbGZXSjdVNzc1NDJUbWJOYUs0QnlQcGliLVR4bGZXbEpLM1dFVEVIOXI2UzhScGI0bzlWNFAtbGxxMkhTSmljRzZ4RTdyLWtqbTE2Q2RGMzNqSzZhSmtWR0ItUExIT1RKZXAyVnVueWdibklHQ3fSAYcCQVVfeXFMTnhPSVdvRUhKTTNwbVZlOGlhQ1dNdlp2OHVxNFRBZzF0aTZ2TlptUkJuRXd0UFpDWktoSmJxdjBTWTRXN3BBWDl0MWpJQWlHc0xiU0NUWmdLQTV2UUtZNEVLZjZhVV9rdjBNWjFVNTk4ZmYyZk5lU1gzbjRFbDh3QzBkVVFucVBzeFV3d0FZMW0yRTBGdFJxblkzUUtRSnhVeTBkUmpnSUZsVE9nLVdXNUFxNTlkTDFNNzB6QTNrbzhzdV9xYTVISFJpZlJueXh1QW11WHhrT3U0aUVhOTdJOE40cG9nWFI1VDBBVUFieTd6ZEJGeE8zQVc2SURjb1hJV21RVmZmNWc?oc=5
+
+- "It's A Process": Trump Reiterates Claim On India's Russian Oil Imports Amid New Sanctions - NDTV
+  "It's A Process": Trump Reiterates Claim On
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0dzeDh1M2Y4QTc1azFBcDBsQ25BMHVwVjc2T3BzRUI5dVdrcGRKOXhaaVZKSjNULUtCTVV4SzhFSHpzOTNVbjZiNGdjM2xsZlBYUkRyQ1ZnVExYUjNuTTJHRzlURVZlVVU0dVpoRXpueEdTZVhWa3IwSTQ1TThidUNoYzl5bm8yTWxqVGVoNVhVQllnVEZ3SEQzZHVmaURhZ3NHYTBEemVwZERzaThmQXpUbWJpc0RNSzE5MjhDMk1hU0RQZ2JvcTlYSljSAdQBQVVfeXFMTTlkMC1EUEg2WlZOeklfcWlOeWtxU2JIaTJISFdHTWdBczJYVEQyNTVXSEZHT2docndPbHZiTFNiX2lQTmZNWjlia1E5ejlnd016Z3hlMGpsVW9Rb1lhRWRGYWxrN2t1YUl6NWxiOE9uWmRxa05aWW43ZjdnLTF5M3NueDV5MEZRdWNKZV9fUURCaVlNMmtBSEFWVllLY29GdmJaMW44T2JyV2lBT1QxcUNRR3lvVnNCdVVLMkwtbzVMeWJFN04yRWRKN0R0bnRlaGNETVY?oc=5
+
+- India Nears Deal To Slash US Tariffs On Imports To 15%-16%: Report - NDTV
+  India Nears Deal To Slash US Tariffs On
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3BkV3E1LXhyU2R0Um1MaHNfY3pEZjVVV3JEMnFfaFRscWRSTlRKYVVWVWh3M24zcVVmZUF3eFdMQ0FjRHFjbDdaWWVvZzM5dlNwanlvV3FvRDIwU04xWDBwaDBjdmxzbGItS00yYXFUeWZoNkJsOTJzNXZiMUhwVk96OHF2MldnSzRpUkpfaTJtQ01DTzFla3hZZVptalJmaTNZZDdn0gGuAUFVX3lxTE4wRklYZG0ya0VDLXcteUViNzlrcGFMQlRSd1JQR2dPcW1kcVhMdjVocHgxRGNTRmxpTERvcG92d1BUSThfV1dBVjY3REtjYVhUVnRiUml2X2MycnMtMWp4dDcyOTRHemJjWlk4VS1pY3k0WmY2ZHNXTVJGbW5aRk1CSTJaUGpTT2JKdlM1cl9zZndzZGZsNDhhVFBwMnpzWHFXbTZyclczZ2ZscVctUQ?oc=5
+
+- India News LIVE Updates: PM Modi to join ASEAN-India Summit in Malaysia virtually - The Indian Express
+  India News LIVE Updates: PM Modi to join ASEAN-
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdk8yX1gtemlWV3FSbTVUdE5DRTgxXzBGZkk1OWplelI3V0lmLXJxU25KaEdxRGtGaTljX3g4NXk2emVkZkpCMFV5UHBmUzUxTnlEVnZSMEU0RmZBU1VnMjd1bXJVYjlWYWI3cGQzQTJFU2d4SnUtQ3hVZFpRLUdTejRjb3NRSEpBWmRSZXhvZmRLdjFldTRaYmZrdkEta0tqRExFLVVRU3JBSlHSAbIBQVVfeXFMTmlibm1LUnNyZ24xWU9RQTVrZFhpc0hpalZKUURVY0liU19jT0pXeHJLSEVvellHcjhrVW9uZE13N1I0Y25PY0h1YTh6QmROMW1DYi1SRG5nOEtRX1FVblFhblZFYW9RMGtHZE5hYUJDUWp0VG0xN0J3MzN2alUwajhCdkJZcEZkRUR4MWktRnVfY05GVUZsX0lhNUlzRFFxa3cxTW9QMTlLWDVMOFRWM1Vfdw?oc=5
+
+- PM Modi Likely To Skip ASEAN Summit In Malaysia - NDTV
+  PM Modi Likely To Skip ASE
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGNVUmZMbDYzTHNMTjNMa2FJNTJGMGtOYTVSamlsemZzeHZVQk9ZS2lHXzh2UG5MYW9STjZ6ZVNTeEtvZTQ2NUViR3NwUW9SSjdOSW5CYzQ2aThZV3dydDFLSTRhVXJ3ckVqcUdtY3RYYW9kX3Z4Y2RCRDY2eVNyUW4zVFpmM2lvV1JuUUZuMjLSAZgBQVVfeXFMTU83QVgxaHJwVVdwWjVsSF8wNnU5SGNxUnJPVWJBeGRnYTdhTHBoWlB3eUtQemhROUZFb0dyV24ybTFHOU5QR0JlWHVqWXVNdDlxVjlnLTc1eHl0S1RPaUsteGNHcEJRdENfVUVkQm1WSjB0aDdBUjhhZEY0al9yeEo3OVZib2lWMUNNSzlGbDVYUWhSYU5ySFk?oc=5
+
+- PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘I respect his decision’ | Latest News India - Hindustan Times
+  PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPdkdsUjR0d1pmeVNlMW1TZ0Q0bzZZaGNUYkdtTk9WQTlHT1dkSE1UcXFMa0VOYzMxdEpmSEhWM2V2M05NeEFyRDZCZmZnSWVqbjFkNTBudWFVV1NnbFRaVUhHcXBtQ2I4ZzhNb1Z4TlpjZ29qbFFLUnJ5ZU1HTU4wV25tZ1cxTEtaOU52bXhvVW5maUNSbGZXSjdVNzc1NDJUbWJOYUs0QnlQcGliLVR4bGZXbEpLM1dFVEVIOXI2UzhScGI0bzlWNFAtbGxxMkhTSmljRzZ4RTdyLWtqbTE2Q2RGMzNqSzZhSmtWR0ItUExIT1RKZXAyVnVueWdibklHQ3fSAYcCQVVfeXFMTnhPSVdvRUhKTTNwbVZlOGlhQ1dNdlp2OHVxNFRBZzF0aTZ2TlptUkJuRXd0UFpDWktoSmJxdjBTWTRXN3BBWDl0MWpJQWlHc0xiU0NUWmdLQTV2UUtZNEVLZjZhVV9rdjBNWjFVNTk4ZmYyZk5lU1gzbjRFbDh3QzBkVVFucVBzeFV3d0FZMW0yRTBGdFJxblkzUUtRSnhVeTBkUmpnSUZsVE9nLVdXNUFxNTlkTDFNNzB6QTNrbzhzdV9xYTVISFJpZlJueXh1QW11WHhrT3U0aUVhOTdJOE40cG9nWFI1VDBBVUFieTd6ZEJGeE8zQVc2SURjb1hJV21RVmZmNWc?oc=5
+
+- "It's A Process": Trump Reiterates Claim On India's Russian Oil Imports Amid New Sanctions - NDTV
+  "It's A Process": Trump Reiterates Claim On
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0dzeDh1M2Y4QTc1azFBcDBsQ25BMHVwVjc2T3BzRUI5dVdrcGRKOXhaaVZKSjNULUtCTVV4SzhFSHpzOTNVbjZiNGdjM2xsZlBYUkRyQ1ZnVExYUjNuTTJHRzlURVZlVVU0dVpoRXpueEdTZVhWa3IwSTQ1TThidUNoYzl5bm8yTWxqVGVoNVhVQllnVEZ3SEQzZHVmaURhZ3NHYTBEemVwZERzaThmQXpUbWJpc0RNSzE5MjhDMk1hU0RQZ2JvcTlYSljSAdQBQVVfeXFMTTlkMC1EUEg2WlZOeklfcWlOeWtxU2JIaTJISFdHTWdBczJYVEQyNTVXSEZHT2docndPbHZiTFNiX2lQTmZNWjlia1E5ejlnd016Z3hlMGpsVW9Rb1lhRWRGYWxrN2t1YUl6NWxiOE9uWmRxa05aWW43ZjdnLTF5M3NueDV5MEZRdWNKZV9fUURCaVlNMmtBSEFWVllLY29GdmJaMW44T2JyV2lBT1QxcUNRR3lvVnNCdVVLMkwtbzVMeWJFN04yRWRKN0R0bnRlaGNETVY?oc=5
+
+- India Nears Deal To Slash US Tariffs On Imports To 15%-16%: Report - NDTV
+  India Nears Deal To Slash US Tariffs On
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3BkV3E1LXhyU2R0Um1MaHNfY3pEZjVVV3JEMnFfaFRscWRSTlRKYVVWVWh3M24zcVVmZUF3eFdMQ0FjRHFjbDdaWWVvZzM5dlNwanlvV3FvRDIwU04xWDBwaDBjdmxzbGItS00yYXFUeWZoNkJsOTJzNXZiMUhwVk96OHF2MldnSzRpUkpfaTJtQ01DTzFla3hZZVptalJmaTNZZDdn0gGuAUFVX3lxTE4wRklYZG0ya0VDLXcteUViNzlrcGFMQlRSd1JQR2dPcW1kcVhMdjVocHgxRGNTRmxpTERvcG92d1BUSThfV1dBVjY3REtjYVhUVnRiUml2X2MycnMtMWp4dDcyOTRHemJjWlk4VS1pY3k0WmY2ZHNXTVJGbW5aRk1CSTJaUGpTT2JKdlM1cl9zZndzZGZsNDhhVFBwMnpzWHFXbTZyclczZ2ZscVctUQ?oc=5
+
+- India News LIVE Updates: PM Modi to join ASEAN-India Summit in Malaysia virtually - The Indian Express
+  India News LIVE Updates: PM Modi to join ASEAN-
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdk8yX1gtemlWV3FSbTVUdE5DRTgxXzBGZkk1OWplelI3V0lmLXJxU25KaEdxRGtGaTljX3g4NXk2emVkZkpCMFV5UHBmUzUxTnlEVnZSMEU0RmZBU1VnMjd1bXJVYjlWYWI3cGQzQTJFU2d4SnUtQ3hVZFpRLUdTejRjb3NRSEpBWmRSZXhvZmRLdjFldTRaYmZrdkEta0tqRExFLVVRU3JBSlHSAbIBQVVfeXFMTmlibm1LUnNyZ24xWU9RQTVrZFhpc0hpalZKUURVY0liU19jT0pXeHJLSEVvellHcjhrVW9uZE13N1I0Y25PY0h1YTh6QmROMW1DYi1SRG5nOEtRX1FVblFhblZFYW9RMGtHZE5hYUJDUWp0VG0xN0J3MzN2alUwajhCdkJZcEZkRUR4MWktRnVfY05GVUZsX0lhNUlzRFFxa3cxTW9QMTlLWDVMOFRWM1Vfdw?oc=5
+
+- PM Modi Likely To Skip ASEAN Summit In Malaysia - NDTV
+  PM Modi Likely To Skip ASE
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGNVUmZMbDYzTHNMTjNMa2FJNTJGMGtOYTVSamlsemZzeHZVQk9ZS2lHXzh2UG5MYW9STjZ6ZVNTeEtvZTQ2NUViR3NwUW9SSjdOSW5CYzQ2aThZV3dydDFLSTRhVXJ3ckVqcUdtY3RYYW9kX3Z4Y2RCRDY2eVNyUW4zVFpmM2lvV1JuUUZuMjLSAZgBQVVfeXFMTU83QVgxaHJwVVdwWjVsSF8wNnU5SGNxUnJPVWJBeGRnYTdhTHBoWlB3eUtQemhROUZFb0dyV24ybTFHOU5QR0JlWHVqWXVNdDlxVjlnLTc1eHl0S1RPaUsteGNHcEJRdENfVUVkQm1WSjB0aDdBUjhhZEY0al9yeEo3OVZib2lWMUNNSzlGbDVYUWhSYU5ySFk?oc=5
+
+- PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘I respect his decision’ | Latest News India - Hindustan Times
+  PM Anwar Ibrahim reveals why PM Narendra Modi won't travel to Malaysia for ASEAN Summit: ‘
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPdkdsUjR0d1pmeVNlMW1TZ0Q0bzZZaGNUYkdtTk9WQTlHT1dkSE1UcXFMa0VOYzMxdEpmSEhWM2V2M05NeEFyRDZCZmZnSWVqbjFkNTBudWFVV1NnbFRaVUhHcXBtQ2I4ZzhNb1Z4TlpjZ29qbFFLUnJ5ZU1HTU4wV25tZ1cxTEtaOU52bXhvVW5maUNSbGZXSjdVNzc1NDJUbWJOYUs0QnlQcGliLVR4bGZXbEpLM1dFVEVIOXI2UzhScGI0bzlWNFAtbGxxMkhTSmljRzZ4RTdyLWtqbTE2Q2RGMzNqSzZhSmtWR0ItUExIT1RKZXAyVnVueWdibklHQ3fSAYcCQVVfeXFMTnhPSVdvRUhKTTNwbVZlOGlhQ1dNdlp2OHVxNFRBZzF0aTZ2TlptUkJuRXd0UFpDWktoSmJxdjBTWTRXN3BBWDl0MWpJQWlHc0xiU0NUWmdLQTV2UUtZNEVLZjZhVV9rdjBNWjFVNTk4ZmYyZk5lU1gzbjRFbDh3QzBkVVFucVBzeFV3d0FZMW0yRTBGdFJxblkzUUtRSnhVeTBkUmpnSUZsVE9nLVdXNUFxNTlkTDFNNzB6QTNrbzhzdV9xYTVISFJpZlJueXh1QW11WHhrT3U0aUVhOTdJOE40cG9nWFI1VDBBVUFieTd6ZEJGeE8zQVc2SURjb1hJV21RVmZmNWc?oc=5
+
+- "It's A Process": Trump Reiterates Claim On India's Russian Oil Imports Amid New Sanctions - NDTV
+  "It's A Process": Trump Reiterates Claim On
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0dzeDh1M2Y4QTc1azFBcDBsQ25BMHVwVjc2T3BzRUI5dVdrcGRKOXhaaVZKSjNULUtCTVV4SzhFSHpzOTNVbjZiNGdjM2xsZlBYUkRyQ1ZnVExYUjNuTTJHRzlURVZlVVU0dVpoRXpueEdTZVhWa3IwSTQ1TThidUNoYzl5bm8yTWxqVGVoNVhVQllnVEZ3SEQzZHVmaURhZ3NHYTBEemVwZERzaThmQXpUbWJpc0RNSzE5MjhDMk1hU0RQZ2JvcTlYSljSAdQBQVVfeXFMTTlkMC1EUEg2WlZOeklfcWlOeWtxU2JIaTJISFdHTWdBczJYVEQyNTVXSEZHT2docndPbHZiTFNiX2lQTmZNWjlia1E5ejlnd016Z3hlMGpsVW9Rb1lhRWRGYWxrN2t1YUl6NWxiOE9uWmRxa05aWW43ZjdnLTF5M3NueDV5MEZRdWNKZV9fUURCaVlNMmtBSEFWVllLY29GdmJaMW44T2JyV2lBT1QxcUNRR3lvVnNCdVVLMkwtbzVMeWJFN04yRWRKN0R0bnRlaGNETVY?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-23 01:11:43 UTC_
+_Last updated: 2025-10-23 06:28:11 UTC_
