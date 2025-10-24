@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
-- Illegal Indian immigrant truck driver held as crash kills 3 in US
-  
-  🔗 https://indianexpress.com/article/india/illegal-indian-immigrant-truck-driver-held-as-crash-kills-3-in-us-10323384/
+- What Taliban Said About Pakistan's 'Proxy War' Charge Against India - NDTV
+  What Taliban Said About Pakistan's 'Proxy
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaXdWNVFQT01qbExRV1UwRWU1cWR2XzNlWElpeVZrNUhGOXFDTWRIYUdHNWlwZTNiVGVXcll4VXNOSG1iSGlTWGpoUlB3VS13R1ptemU3RTBfV1hrV1J3TUlEaHB6dzBPQ3NmZ2FiVUhNZGE3Tk1VRDU1R1lScUh1eGJKN3RWX09WSmtJSHg4Q01TY3hsbkZ1T1p2WnZWTGxnU1ZpeXN1OHcyOTJlbnkyX3N3VktMenhNaEQ2bnRUU3RYVU9UQkRDMmxHajU5M01lR2xUQnlaQmN3ZnhPZ2hMeNIB6AFBVV95cUxQTi1wcFFuVktocC1QWGJLdl9FZXlfNlpLYTBTTGw0ZmU2YjdmRHhoOGQ0akw4cHBWa1dYNC1WOGZVUjFtUEh1S185ZlNiMk1GT0pXMmJ2NGRseFYtZElUTnQ1ZDE2TWp6ZDduSUhBZERyUVdIMWVEbnV5TFRrNUFFaEZINmVhcXM1bGh2Ty16aWpFWXR1SzIydFRNa2tiUWk1VVhXbGszVzBjZ2JfWjBXa05FZ0U2cldURmhCMVFvY2t3djN0cWxNMUFSWUJtYThodDVCYjZWcl9VbXNpbFFpdHFoTGNiWVVi?oc=5
 
-- Delhi High Court stays regulator’s curb on ORS branding in relief for J&J arm
-  
-  🔗 https://indianexpress.com/article/india/delhi-high-court-stays-regulators-curb-on-ors-branding-in-relief-for-jj-arm-10323425/
+- Trump claims India will 'almost stop' buying Russian oil by year-end - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcH
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcHVpMnF5UDBzZWpIZjBlanhfMHZEMkMtdUYyclRUajdmTnZTdHpOUWhDUzd6TS10R0NpTGhmSnNrRlZVZWxGWnlhRV9xU0NSYnlrTUJQclVXY095b3dQY1gwX1pGZmxVd1FB0gHQAUFVX3lxTE1mVTMzRmt0MUxZQVZ5TVVSY2stSG45d0ZqMGhpcHNGUDhwaW82aE83OTdTNzFfVC1kSUEzMXJtVW5UYklvOFIxSjFsWmU1Qk5RSHZrZms1RHVOUlNheF9zV3hxMGg0M0o1MG9melpmNGpiRUI3SGhzRnFHNmJOOFp2QWZHVjRDaWxfZk9kaENMaWVOeURaMklVczBJazBGLVpQQ0pHblBrZE5SalBtTEp3ZlFWMzMzZ0E1cmpLSEc3TjJOS1lRSDdPVFVlRmkwblI?oc=5
 
-- Manish Sharma appointed Indian Youth Congress in-charge
-  
-  🔗 https://indianexpress.com/article/india/manish-sharma-appointed-indian-youth-congress-in-charge-10323480/
+- Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California Road Accident Kill Three - Times of India
+  Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQODk1QkVCb1NqR3luVWpRQlJ5RGdGWkEtdDBhN1A0UW50WnZUUEJMb05nLXZMWGNGRldKYTlrc3Z5VTEwLW56VVRIdU8yblV2Qi1ScmN0aUhHbVNIWUE0NG9iV0huMmpYZHZPdUw3TnBILU9JNmw0dzl5LU1lOGJtWWd5UzEzalNvcmNaQkQxaUxGa0lZMm1zWk1vNTViLVJsdmxZQzRfNkNwTWY2cmxLeHFtaHJiakVFYUprVndRUWctU3dQOUw0MTZKMDctNHNzM1BhMGc4YlYwMm1DSUVvLTBzUHJocmZUZVBnWXAwMWQ0OHJybWJjQVkzX0l2TE9OWFHSAYcCQVVfeXFMTzlKX2V0eWpSUG5URVhIbjVUb0dJU25VUXcyNEdrUWJfdkJLdzZrZXl2aVIyekZtdDRoWHJlWTFad2hEd3N4Z2VUc1RWc3BUa1drakVFQmxGcktCeXNXQUQ5R1RTamp3NmV6QW5aMHpNRjczN3A3VnNsTlFLRWsyWUUtclZ0MDNtWVBuSnRHNHdjRnZLczF2a2JLa2xjaGNCQkZxcVUyeFh1a0R3RW43Skp4VEp2d0I2RmE4eFRJV0haeFJxSFVzVUlaZ05iVVUzMWl3V3BrVFhxYVJxMGl3Ukx0NHk3cHdlNFctYjUtMVA5bDBnQlQtQXA1ektiak8teTFGVXlBYXc?oc=5
 
-- ‘Courts deepen democracy when they act to empower powerless’: Justice Surya Kant
-  
-  🔗 https://indianexpress.com/article/india/courts-deepen-democracy-when-they-act-to-empower-powerless-justice-surya-kant-10323426/
+- ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates 8 Indian Cities On ‘How SAFE’ She Felt, Gives -1 - News18
+  ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQczRqRnhua1lIWXU5ZmpadVZPZ1RtdVM4QmNaT2ZKWE10STFBQzFVTWN0TkI4QmlHbnlwYXp5cURmQTBickpWTldyd2NYZVhxak8zNm14WGxucmdqYmcxdDJSM1JTS0g5U0RpUzZvX3RCNUZjOFVJZHk1VG5Ha3IxbDBWVllScHlqdFJ4dUtCQmZvMTByZHNaMU5HTXhsV1JGMURxNGVyNi1jZHJTLUtQZmVFZUtQMjhnRzRPY0FydFREVDJl0gHKAUFVX3lxTE5tUV85VzBORWhwcElDdFU4VnRqZHY3VFpSSlZnQ3ZlSVM2VkNEdS1jSmdiRE5OOXZEdDNXanBseHFkSkN2Z0JNZGgxallFMGR6YXJPM29kRFdBMnRIY0NmYzliSHdOOVljOTJ1WFZUMnJBOGVBMTg4TlN5TFVteGJpQUVXVC1heDhqOE9tSGZWSEkzVDZ2bjVoMUJlOXk0ZlpOYkJVZ19yeUpnZUNpbHZJZC12blF4bVpFZkU5TV9jeVpXNEhIWDBnbnc?oc=5
 
-- Judiciary both guardian & moral conscience of Constitution: CJI Gavai
-  
-  🔗 https://indianexpress.com/article/india/judiciary-both-guardian-moral-conscience-of-constitution-cji-gavai-10323432/
+- Your grandpa came from India: Mehdi Hasan counters Nikki Haley's son on US migration - India Today
+  Mehdi Hasan counters Nikki Haley's son on US migration.
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxORmxIYkUyZVk0R25vaG9QRWJ2Qy15RGROcHVVZlJfZWFfZWpodDMtc01TZXRVYW56VHc5U2JIRzJnLVVJRjhTZV9RVk5BQ3ZQeGpBbkMxYkJyamVWYzNJNU1Hb1VSLW9aYVc2bnZXSjFQNU9zeVRseWdHNi1pWmdRbnpNYUdPUUxUOHpWOE1QNHpHZUU0U2JyYmJGYmZfWnBwWmpqN3plTkNGUTNucHI0dXRWQjV1amhIc041X09zVXlOVnd6YnozdElXSi1oUXFtOHdmZGk3MG9rNlpZM3NiVTdJY3ZZX1FQTjJXcHQ3cG1IVzRGZTlKdXlzSDB1UVNsVzBr?oc=5
 
-- NASA’s Europa clipper could soon cross the tail of a comet. Why scientists are watching closely
-  
-  🔗 https://indianexpress.com/article/technology/science/nasas-europa-clipper-could-soon-cross-the-tail-of-a-comet-why-scientists-are-watching-closely-10323103/
+- What it's like to live in the world's smartest cities for 2025 - BBC
+  What it's like to live in the world's
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPdVQtNnVJOXYwanhCbmhvd2tSeF9POC1rN1RqbXZMd2hJcnVPMkVncUFXN2NRejZoeDVEY0FoMzFQVW8xMFZETGUwY1FRSGZuWmgyS2xSZ25yUHo1ZHAxR0pGSVJIRzlPaGp0UC1XbXRDWk9wNThGdEttaXdoS0hwRjJVVFYzVGRXdjA1Q0Jsd3JkRnRKb3NvSFhDRQ?oc=5
 
-- Why is Meta laying off AI researchers in the middle of its superintelligence push?
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/why-is-meta-laying-off-ai-researchers-amid-superintelligence-push-10322940/
+- Stephen Hawking’s chilling prediction: Why AI could be humanity’s greatest creation or its ultimate downf - Times of India
+  The future of AI is in the hands of computer scientists, says
+  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxQLVF3eEI5VFlRR0NwdzlWQlFuTHVqcFgtcjRFbk02NG5fdEIyVVBFZXdGamE4b0VZVlBsUFdtSFRHT0RPdWdyV1RDOGRvN0JWcmRzQ0hYTVFtM1hTT05fVDNvbXNTMTBpV1BiZkNPRU9GVElpdnpza3RSU0RkS2hoNjhXZVhmZ1ZuRlN0YWw1M1JMRlFJaEJmRkVQejgtVzRzLXlKMC10Y0FhaVhVb1RjTmRLaUdPVVhpcUlnRGtvYmJSbm9uaFlPYzFwbTUxU0VvOWpiWjZfdDRYT0k5X3ZfbWdMY0k3MXVzR2JlRV9oT0Y4VG03NWdxVVBHYXRWWFFQQk5LWWhneTZ3azM0aVp2QUg4bmNzZnPSAZwCQVVfeXFMTkRSUVJKZnVySm5WWnc1UzAyNkxJUDVqOFJtME03ZUxZdF8zcERsdDRMYVNEQ2xWQjRvNHhOVzJ3RWd3dWd3S19FVEhoRGN5T1ByX0JYVUNZXzh3WElrYWdjNGd6V2FZY1ptaUd1SXFGejFQakVsOFZFZFRES3RvYjBhN3BoWmlfRC1TR2Y3MTBWWXpobGRvOE9rdmxPWE1GWnJUZWw1R2w4NWlXX3Z2Mm9nclFSMXRvRllyaloyamRSR0xRRkJ4UHlkWTEyTFk4aGRiQXI2bXVQb2ltUlBvZkw5RGEydEhzWDY4b3g5NHV2VEI3ZERidW1sU0dReFRKNmh3Ynh2YWtwMG5ZMjkxVmF4MWFaSUFmZmlWMnQ?oc=5
 
-- Why this Harvard professor says boredom might be the key to happiness
-  
-  🔗 https://indianexpress.com/article/technology/science/why-this-harvard-professor-says-boredom-might-be-the-key-to-happiness-10322695/
+- Alaska Airlines Grounds Its Aircraft Due To Technology Outage - NDTV
+  Alaska Airlines Grounds Its Aircraft Due
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxORURhODdVbUI5c3RySTdyLVZvVGJPZnNfTWFQOEFCQm9xdWdnbHFySG0xMXlSZVNic3RRR3NOWVBXbTliMjRLZ0RpV2hCdzQwZUkyenEwWWVZa3d6eXBLYXhiUFV4anJWcDFHUFBlbEMyaWNYSkxBODlKV2VwZkJaZzZOdHBHYW1Ed3MyYVpfQVU4b0w5azY0SWREbGpfcGpkWDdYa1MxclRFcHRpZ05faWZTdzRJRnY50gHAAUFVX3lxTFBlNmtFSXBrVlFnd1Y3WGhVSDRhX3Npcm5yaWRjOXU2TW5TRXQxQUZLQVBadEFxVnB6N3lLeEg2cmpIUmJtVGFqRlpxSTUyck5FbDYzZWdfd2lvcEpLY1E1am41ci1oUFY0QUFUdEotbDM2OHE5VFNYX1Rmc0JXQVNnR2dRMFpMM3k3UWZwcmktYlhIcEtfeVZzemtIeHhwYjZDdGkxVGRoUVpqOVpQNjVWYVRWeEFhcl85RUYxQVByag?oc=5
 
-- Over 30% of Apple, Nvidia employees from Tier-3 colleges: Are IITs, IIMs losing edge?
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/one-third-apple-nvidia-employees-from-tier-3-colleges-survey-10322558/
+- Russia acquired Western technology to protect its nuclear submarine fleet - The Washington Post
+  Russia acquired Western technology to protect its nuclear submarine fleet
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTZmZm91T0JlbG9lQUJBYVd3d3hzWWtFMVFtaWhfTFVZUUxEdzhRXzdHQVVhQl83U2lQa3FhbkRjRjRhYzB5QlBvUEt2M09GTERndFpVd0xIbWlHTjhsZVhmNllRUUt5aFItbTdWLTBIYjJ5SGtLdU12ME01eXhndGhiTU51NnVldlZweDJkdVFLRDdLYjR3OHBNMDdXeDk1Nmc?oc=5
 
-- Google Maps vs Mappls: 3 features that make Mappls stand out in India
-  
-  🔗 https://indianexpress.com/article/technology/techook/google-maps-vs-mappls-3-unique-features-india-10320764/
+- Introducing AWS RTB Fabric for real-time advertising technology workloads | Amazon Web Services - Amazon Web Services
+  Introducing AWS RTB Fabric for real-time advertising technology workload
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHNiRDZFYmt1RHV1cXRoZUM3QWpOUV9icV8yNFpwd05vajI0UU04TERMRWF2dU9PREN3Zi1ZLUhZemNkMTVqRDUwdmFtZE93UnNxcXJnWUVRYzYwai1sYWNFT05rRFFXeUdxLTU0YmxLa0J3SEVnVWp0ZVhpS3FJR3FEaWJEQkdFemJCRW1IOFVGdVBYNGZSLUJwZXgtRVljUGJaZjFQeWJ6UTQ?oc=5
+
+- Ola Electric board to consider fresh funding plans at October 25 board meeting
+  Ola Electric will hold a board meeting on 25 October to discuss raising capital. The move follows previous fundraising efforts and comes amid operational challenges.
+  🔗 https://www.livemint.com/companies/news/ola-electric-board-to-consider-fresh-funding-plans-at-october-25-board-meeting-11761268311853.html
+
+- Alaska Airlines halts all its flights — here's what caused the disruption
+  Alaska Airlines is experiencing an IT outage that has temporarily grounded its flights. Passengers scheduled to fly tonight are urged to check their flight status. Hawaiian Airlines, which
+  🔗 https://www.livemint.com/companies/news/alaska-airlines-halts-all-its-flights-heres-what-caused-the-disruption-11761269014236.html
 
 - Behind promoters opting out of Infosys’ largest buyback is a tax conundrum
   The decision is primarily driven by an amendment to the Income Tax Act that would classify
@@ -52,33 +60,37 @@
   The layoffs include 1,000 current employees and 800 unfilled roles. Store and supply chain roles are unaffected.
   🔗 https://www.livemint.com/companies/news/target-to-lay-off-1-800-employees-amid-restructuring-to-boost-sales-11761251690682.html
 
-- Apple loses UK lawsuit over unfair 30% App Store commissions: What we know
-  The case, involving 20 million UK users, is valued at up to 1.5 billion pounds. It marks a significant class action against a tech giant.
-  🔗 https://www.livemint.com/companies/news/apple-loses-uk-lawsuit-over-unfair-30-app-store-commissions-accused-users-abuse-dominant-position-competition-tribunal-11761234211144.html
+- 2300% rally in five years! FIIs raise stake in multibagger penny stock during Q2 FY26
+  Jayaswal Neco Industries saw increased foreign institutional investor stakes in Q2. The company also posted net profits of
+  🔗 https://www.livemint.com/market/stock-market-news/2300-rally-in-five-years-fiis-raise-stake-in-multibagger-penny-stock-during-q2-fy26-11761285478960.html
 
-- Elon Musk pleads with Tesla investors to approve his $1 trillion pay package, blasts shareholder advisory firms
-  Elon Musk, the world's richest person also went off on shareholder advisory firms who have advised against the proposal
-  🔗 https://www.livemint.com/companies/people/elon-musk-pleads-with-tesla-investors-to-approve-his-1-trillion-pay-package-blasts-shareholder-advisory-firms-11761233618063.html
+- Federal Bank board approves raising  ₹6,196 crore via preferential issue of warrants to Blackstone entity
+  Federal Bank share price has rallied 18% in one month and more than 13% in three months. On a year-to-date (YTD) basis, the stock has risen 14%, while it has
+  🔗 https://www.livemint.com/market/stock-market-news/federal-bank-board-approves-raising-rs-6-196-crore-via-preferential-issue-of-warrants-to-blackstone-entity-11761285589169.html
 
-- Markets News, October 23, 2025: Stocks Gain as Investors Monitor China Trade News, Earnings Results; Oil Futures Surge - Investopedia
-  &nbsp;&ngt;<font color="#6f6
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bEQ4QjRYcW1ISHJzSWdtYlZxSnVwQ082cXdHUF9vN25GSGZlZmFsbUR4VzVJUEtQcnlqODluLXdKWS1oVXVFSTNnaGEtM05CQnZpSHoxbWZNdnZPc2t6V2lneEJOaXRxck11d3BXSQ?oc=5
+- Bond market: Why should retail investors not ignore this asset class? Explained
+  Retail investors are increasingly turning to bonds for stability and returns. Experts advocate a dual strategy of short-term high-yield corporate bonds
+  🔗 https://www.livemint.com/market/bonds/bond-market-why-should-retail-investors-not-ignore-this-asset-class-explained-11761277613973.html
 
-- S&P 500 closes higher, recouping Wednesday’s loss and then some - CNBC
-  P 500 closes higher, recouping
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0yeGh4WjMxdHgxTU05blhlSUxDdFZHMzZud3BWZVpORFpkNjdZXzI1aTh0UHBJZUdCcHFsS29LS25oaUxtOGJwX1E4WEZfYmtEZ3RTTWJwcUJDQlpFcEdsMUZiN0NKcUxZbGpoQXJNSUlOd2R1bWJZ0gF8QVVfeXFMTzJ5MWRvSzRpNG9mbjBtQzBuTFpJSDhiNl9maXg4dk5QSmZoTUlpSWdIY0dPTVFEQmwtdU93WGpGblgwbnRHU3huSjEzcVBUekw2SWRzT0ZRMllKa0RGWElrUXZZLXM3Z2Z3bkY2Yll0amFIUXJwMDVBNWZtTQ?oc=5
+- Tata Motors demerger: When can investors expect to trade in Tata Motors Commercial Vehicles shares?
+  Tata Motors Commercial Vehicles shares have been credited to the demat accounts of the eligible shareholders. Investors have been unable to view or trade in TMLC
+  🔗 https://www.livemint.com/market/stock-market-news/tata-motors-demerger-when-can-investors-expect-to-trade-in-tata-motors-commercial-vehicles-shares-11761283705639.html
 
-- Stocks Keep Rising as US Confirms Trump-Xi Meeting: Markets Wrap - Bloomberg.com
-  Stocks Keep Rising as US Confirms
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXYxRk9WY2c4TlVBSFBENVVMNEtEOS12cWdIYWtZdkcxbjRwOVQ2R0R2X2tPNmZ4Vy1nUlUzbGo1TnFqSkdCeUtPTF9uNTVfa0NxSFJXS0g3YlVkNHgtOHBqbURGblNSbUV0dHpac3hhajJUYll3dVk3Q2ZvQy1lUUJweUFrLUtRd29SRDd1ZTJWSHBw?oc=5
+- Stocks to buy: Rajesh Palviya of Axis Sec suggests Shipping Corp, Bharat Forge, Laurus Labs shares today
+  The Indian stock market began positively, with the Nifty 50 and BSE Sensex showing gains. Analysts suggest that the indices are in a strong uptrend, recommending investors
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-rajesh-palviya-of-axis-sec-suggests-shipping-corp-bharat-forge-laurus-labs-shares-today-11761278958408.html
 
-- Daily Voice: Three big shifts that could redefine markets in the year ahead, according to Edelweiss MF’s... - Moneycontrol
-  "Daily Voice: Three big shifts that could redefine markets in the year
-  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxPYjBVVC11ZU5pTjJDbnM2a2ZDOFBrcHpZTUt5RXhjRS1fWU11VmNleTNtSHF1YmhscUZ3WHpTd1l2SnBITXgycWYzYnhkZEctVk45S0xVd0t0aFlyeUlJendWbWJmazA3NDV5aWVUWXQ2cjUyMlJjbGJxM2Y2cW56MWtXcGY0X25LanZqekVZQXBnY0RVMUdRZXhWUzVueVdCY19NbUx3ZVZVN0p5d2s5VUwxTHg0R1dLS1VhS1BmaXpvM0ZPcTNteUwyX0JQYXdTX1pRNjZ3Wm5FVTBDQzk2QXowRTZCR0J2angyNmd0Z2RfVy1KNjF5UlpSSnl0dmtoUzlpQ3poSHJrQ09QYW1CUDIwNGFGM1HSAZwCQVVfeXFMUG9PcUdYNEJDSHdhTml2dm5WYjRObjhJcF9GSlFCbmFGN2NVeWtfVFdBVHF3clI5aWhaNi1laklRSlo4cmRGek5tSnV4UTVhLUJReW9uX1I3c1M4WWtYc0NoZVJoaXJ0LTVGU1p3OFZyTkg5OU03dnpFcEZSVG9vRlJFZ2xRWmZMbVBWcktSRXdpMUlIWVFEeHV1YTM1b1pac1ZRdlNhR0lVV3pERmNoRFc3RnY0OEVsZl80LUpmN3l4Tm1hbEtENFQ2S3E5LXZaTERydllwbVVUYWFnZmVxUlRhLVpBWXVocHl1RlJNVnJ6aTdWXy16ckRqSm8zdjBTQ0VVb3lVVGxTSDVHWUVELTR1b0xVdmNWT0hRMW8?oc=5
+- Google Earth now uses Gemini AI to answer questions on floods, droughts and more: How the new feature works
+  Google is expanding its Earth AI platform, using geospatial AI and Gemini models to help communities respond to disasters. Google Earth and Cloud tools provide real-time insights on
+  🔗 https://www.livemint.com/technology/tech-news/google-earth-now-uses-gemini-ai-to-answer-questions-on-floods-droughts-and-more-how-the-new-feature-works-11761281491246.html
 
-- Stock Market Highlights: Sensex pares early gains, settles 130 pts higher, Nifty above 25,850; TCS, Shrir... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTERUYVl5RDZCRng3WkRnM3F3YXVEM3ViUkdGSTRIQkM0TG05STN5c3BnaktLQ2wxcEtxZGlDMUJmZ0t4ZHdZaG5nOXh0NGFEbDJUWlFrNjNGbGVjbkxYc3dhWmUyQVZYOX
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTERUYVl5RDZCRng3WkRnM3F3YXVEM3ViUkdGSTRIQkM0TG05STN5c3BnaktLQ2wxcEtxZGlDMUJmZ0t4ZHdZaG5nOXh0NGFEbDJUWlFrNjNGbGVjbkxYc3dhWmUyQVZYOXhZaUJBdFpRMnc3SmluNGVjdXhqcHBPbTY4S3BWZ1FDUF9vRzRWMXFGMnZXNzN1dkNNdnE0cW5EYVk1empDek5VTW9tZTFVUWdNU2JmVW10RjJQWUZFaFhVMFhVS2FZbG1HbEFIWVV6M0RzRHMwONIB3AFBVV95cUxObkx2U05WQ0ZleC04a0I3R0w1eS1uVTRNR216dEpnR2hlNFp0bFlSemZBRkNVelpGVENwU2trMUx5UFctUk5yWjhIelhkTE10ejJqa1hLLUJpd0FxVTN6aDA0OVhWVzZIbzlKa256bGd0TzNZbzRsU3BvSmYyY0NkQ1RzbHluM0hBZzE4THFyX2lXSHA4TzFRM1RsX1JDYWhNaDAyam03QTFNREtiRVVWMEdSbzF5akRpT1pjcm04TWdZX0hFZDNLTmlGNnRPUzI0RXplSjhsUFc4X1ZR?oc=5
+- Microsoft introduces Mico avatar, long-term memory, and health features to Copilot: All you need to know
+  Microsoft unveils its Copilot Fall Update on Thursday. It includes a new animated avatar Mico, enhanced Edge features, and more.
+  🔗 https://www.livemint.com/technology/tech-news/microsoft-adds-mico-avatar-long-term-memory-and-health-features-to-copilot-all-you-need-to-know-11761274911067.html
+
+- OnePlus 15 launch imminent in India: Expected price, specifications and everything we know so far
+  The OnePlus 15 is expected to debut next month in India. It is tipped to feature a Snapdragon 8 Elite Gen 5 chip, 7,300mAh battery, and a 165Hz AMOLED
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-15-launch-imminent-in-india-expected-price-specifications-and-everything-we-know-so-far-11761268042585.html
 
 - Sundar Pichai hails 'verifiable' quantum computing breakthrough as Google's Willow surpasses ability of supercomputers
   Google's Quantum Echoes algorithm operates 13,000 times faster than traditional supercomputers. This enables verifiable applications in medicine and materials science, Google says.
@@ -88,177 +100,145 @@
   Amendments to Rule 3(1)(d) introduce additional safeguards to ensure that removal of unlawful content by intermedi
   🔗 https://www.livemint.com/technology/tech-news/centre-notifies-amended-it-rules-to-enhance-transparency-accountability-in-content-removal-by-intermediaries-11761156759133.html
 
-- YouTube brings a new feature to stop you from endlessly scrolling Shorts: here's how it works
-  YouTube's Timer feature helps users limit time spent on Shorts. The company also said that it plans to add support for parental controls later
-  🔗 https://www.livemint.com/technology/tech-news/youtube-brings-a-new-feature-to-stop-you-from-endlessly-scrolling-shorts-heres-how-it-works-11761153120547.html
+- Stock Market LIVE Updates: Nifty around 25,850, Sensex down 140 pts; FMCG drags, metals shine - Moneycontrol
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQzBjM0tfVUc3d1FoVjl2aVY2T3lSOEhDTEFWVWRsREpQakpCbENiZTBaM0o2UnVyb3NzSEgxZUNMQ1NDMWZkQ0FHaWFGVXhnSjlPZng0R0dTZUJ0NnY4Q21jRlVHdDBXTT
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQzBjM0tfVUc3d1FoVjl2aVY2T3lSOEhDTEFWVWRsREpQakpCbENiZTBaM0o2UnVyb3NzSEgxZUNMQ1NDMWZkQ0FHaWFGVXhnSjlPZng0R0dTZUJ0NnY4Q21jRlVHdDBXTTFqeTNkN0ZPNHgtU0xkSXZDMkRNV1hYbUM0M2otU3g0NHB0WHd3MnQwNzhUczBVc3NLYjFGcGVndjhQc0ZTR0VUQUJjQXYyZEF4bm83YVBRSDBtSUNJYTI3LUlkenNMOTE0czVILW1oLUdKR0wza3pSekhzeDJocEo0Mi0yRk9uMC12WdIB8gFBVV95cUxNWkZ1dkhoNkkwTFg0LWI5bVV4RW5GajhWdmlkYjZUSzNUVE5lZ0JFcTlDUGdGRTV3VkFZdFBEMUs3YVM3N3JCY0VPdTZGV1NORkVENGh5MW1zeENiNUZsODlSZmJlci1aclRPM0dXbTZXb1dPZ0lmQ0FPWVNIbDR2S19MN3hLLW45dGZSakRQUFhPblM0aDFxZnpxM01hYVduejFrYmh4Umt0VFNyaENqeHM0RzdvRWVzM0lFQ2JkS2hiTUhTNjVFQjk3WThqNGVDdGphb3RVQjNQR3lRSlBJZ2RmbmlfMWktelRyU1dscHFzUQ?oc=5
 
-- 'It just freezes': Spotify users fume over app crashes on Android devices, company responds
-  Spotify app for Android is freezing and crashing for users on Samsung and Google Pixel devices when connected to Wi-Fi. Spotify confirmed the issue but hasn
-  🔗 https://www.livemint.com/technology/tech-news/it-just-freezes-spotify-users-fume-over-app-crashes-on-android-devices-company-responds-11761149165449.html
+- Crude oil to see short-term bullish momentum; check strategy, key levels - Business Standard
+  Crude oil to see short-term bullish momentum
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUVJlVlJWSlJxaElCdWpHTVgxMG1wdnRLZ0hnRHBTQ0VkRUdNRHZMcVRDdnVQeU9xVTFhVnJkaDRSTTRjWmhILWQzNGhTZHNGVzhLOHh5bFJLUGY4WUtCVzRFdHdhV2pqUmx1d1Zsa1dtTUZValNtN2gxMWNMSkVhbzFIZzk2eHFwWk9xcl9SYTE4Z2pVdGRsdkJQcFBVYzZTY0NYand5MzBkR3BzbURjUXVzUkUtajRXLUNSUlhpRllRTXRfSmZKTTE2cVRfb2M0aWdJ0gHYAUFVX3lxTFBYREZFLXY2Z0t2bTVncVlaRFZFLV9lcTRjNEQxU0g2WHlJR2JHY0ZTUXNISi10OGZsSVVJcEdFLTlsS0xBTnExNlBHZ2gzUTVwYi01azh5OFBIWnlhRDZfSnYzbEN5Q1pWNklkaEFUWjNUeUpIVk5PX2JJMGFLNnRfMkhpelBZQmtld0RQYk43RkFhTHo0MV80ZURscmtxUnZGUGlfdllycllLUF96QUlsTEZjdU9pNVdrdDJQRTFIWlpydFJfa3J3NHR6dkVRdmFZQ1NWeFNZVA?oc=5
 
-- Google and Apple face extra UK scrutiny over strategic role in mobile platforms
-  Google and Apple face extra UK scrutiny over
-  🔗 https://www.livemint.com/technology/tech-news/google-and-apple-face-extra-uk-scrutiny-over-strategic-role-in-mobile-platforms-11761150933193.html
+- Bond market: Why should retail investors not ignore this asset class? Explained - Mint
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVhvU0hiS3ZrOUtUZnBKVHhubG4yTEtPOW0tY1paZ0pEbi02dFBSTk1ac3lLOVJvSk94VU5CQkZTREctc2lzbm9DekE4LTlDZFFqYWFrZTdhVjVSc0R1OGJxeWFMaXV4cUdEVVBXbVhVRTdaZnZQZzlPdGRYaGZWTEJpSEgzSjdIZjlKVVNjb1BwQ0RHU0ljbGlnSzJKUGJnNkFhV3JaSUJaVl9mRFlTVGEwZkptVUR3LVFkNjhiNnlPSWEtbEtWZnQ0UG1Kakx2?oc=5
 
-- Markets News, October 23, 2025: Stocks Gain as Investors Monitor China Trade News, Earnings Results; Oil Futures Surge - Investopedia
-  &nbsp;&ngt;<font color="#6f6
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bEQ4QjRYcW1ISHJzSWdtYlZxSnVwQ082cXdHUF9vN25GSGZlZmFsbUR4VzVJUEtQcnlqODluLXdKWS1oVXVFSTNnaGEtM05CQnZpSHoxbWZNdnZPc2t6V2lneEJOaXRxck11d3BXSQ?oc=5
+- Sebi bars 13 individuals from securities market for front running - The Economic Times
+  Sebi bars 13 individuals from securities market for
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUklSMVVnZnZQMVhvdzJJWkpmR3djMmdxMW9ka2xjRVNuWXRqR2dyWXp0cWhSWjZ3RnZwV1M0QTh2RjF5QVVyUVoydVM5T2VuOVY4SnVuUmZ2U3RkaGhXMzNCaEFFMUp4RWtUckxWbjEyd09GUkFsWm5IU0lxQ3JUck5vOVA4di1QeUhQWU5uNnhUcTFjTWVoT3FLQXBRTDRjNUYxSUdzekhqM0hrMTJIVkF0My1wUHhVUmZYeVd2U2dRZm9Pclp5a0lxSW5jSUZGdmlHN3M0UkxwckXSAdsBQVVfeXFMTVJJUjFVZ2Z2UDFYb3cySVpKZkd3YzJncTFvZGtsY0VTbll0akdncll6dHFoUlo2d0Z2cFdTNEE4dkYxeUFVclFaMnVTOU9lbjlWOEp1blJmdlN0ZGhoVzMzQmhBRTFKeEVrVHJMVm4xMndPRlJBbFpuSFNJcUNyVHJObzlQOHYtUHlIUFlObjZ4VHExY01laE9xS0FwUUw0YzVGMUlHc3pIajNIazEySFZBdDMtcFB4VVJmWHlXdlNnUWZvT3JaeWtJcUluY0lGRnZpRzdzNFJMcHJF?oc=5
 
-- S&P 500 closes higher, recouping Wednesday’s loss and then some - CNBC
-  P 500 closes higher, recouping
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0yeGh4WjMxdHgxTU05blhlSUxDdFZHMzZud3BWZVpORFpkNjdZXzI1aTh0UHBJZUdCcHFsS29LS25oaUxtOGJwX1E4WEZfYmtEZ3RTTWJwcUJDQlpFcEdsMUZiN0NKcUxZbGpoQXJNSUlOd2R1bWJZ0gF8QVVfeXFMTzJ5MWRvSzRpNG9mbjBtQzBuTFpJSDhiNl9maXg4dk5QSmZoTUlpSWdIY0dPTVFEQmwtdU93WGpGblgwbnRHU3huSjEzcVBUekw2SWRzT0ZRMllKa0RGWElrUXZZLXM3Z2Z3bkY2Yll0amFIUXJwMDVBNWZtTQ?oc=5
+- South Korea's Kospi hits record high as Asia stocks gain on Trump-Xi meeting next week - CNBC
+  South Korea's Kospi hits record high as Asia stocks gain
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQb3ZHa1ZXZ2UxVllUdU9jcnlYaUNfWXdhYjZ0YjhlbW9wSkxXcHEwcV92YzBoNVRzSXE0U0tsb2QzQldpQjBmREk5bE9VWHNKTXJNSmhLbXBrdnJpaHZSZmt4Zk5keFJna3lnRUR0Q3RjTlhqOG5XX0tPRXMwQ0p0RmhxWjNYaFBqN21Qc2FVQ2FwWWo1OXRXMFp5dDJNV0hOM3BYUGx30gGrAUFVX3lxTE5vczZRdF9FdUhVa0lkbzRULVFfRk5iU08tanZMdXJiYmZTLXZnUVpVRlVDUko4UTZpUWlBdF92aFY0V291OFdKZUZtenYyX1F0Qk1mRERJWnh4OTZCZG1BQUZYeXBaR2EwUnpSY0FmRXE5Rm16OTZKOHM1ZEpMRHM5MWNmRnNXYUhUTVQxaW4yS2xRNG5qQXdoREd0LU9hRFpzbnlaY3lBcWt1TQ?oc=5
 
-- Stocks Keep Rising as US Confirms Trump-Xi Meeting: Markets Wrap - Bloomberg.com
-  Stocks Keep Rising as US Confirms
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXYxRk9WY2c4TlVBSFBENVVMNEtEOS12cWdIYWtZdkcxbjRwOVQ2R0R2X2tPNmZ4Vy1nUlUzbGo1TnFqSkdCeUtPTF9uNTVfa0NxSFJXS0g3YlVkNHgtOHBqbURGblNSbUV0dHpac3hhajJUYll3dVk3Q2ZvQy1lUUJweUFrLUtRd29SRDd1ZTJWSHBw?oc=5
+- 7 smallcap stocks with double-digit Sales growth in Q2: one turned multibagger
+  The smallcap earnings season saw 108 companies report September quarter results. Key performers like Acutaas Chemicals, Tanfac Industries, Amal, and GM Breweries posted strong year-on-year sales growth. Seven stocks
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/7-smallcap-stocks-with-double-digit-sales-growth-in-q2-one-turned-multibagger/slideshow/124778088.cms
 
-- Daily Voice: Three big shifts that could redefine markets in the year ahead, according to Edelweiss MF’s... - Moneycontrol
-  "Daily Voice: Three big shifts that could redefine markets in the year
-  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxPYjBVVC11ZU5pTjJDbnM2a2ZDOFBrcHpZTUt5RXhjRS1fWU11VmNleTNtSHF1YmhscUZ3WHpTd1l2SnBITXgycWYzYnhkZEctVk45S0xVd0t0aFlyeUlJendWbWJmazA3NDV5aWVUWXQ2cjUyMlJjbGJxM2Y2cW56MWtXcGY0X25LanZqekVZQXBnY0RVMUdRZXhWUzVueVdCY19NbUx3ZVZVN0p5d2s5VUwxTHg0R1dLS1VhS1BmaXpvM0ZPcTNteUwyX0JQYXdTX1pRNjZ3Wm5FVTBDQzk2QXowRTZCR0J2angyNmd0Z2RfVy1KNjF5UlpSSnl0dmtoUzlpQ3poSHJrQ09QYW1CUDIwNGFGM1HSAZwCQVVfeXFMUG9PcUdYNEJDSHdhTml2dm5WYjRObjhJcF9GSlFCbmFGN2NVeWtfVFdBVHF3clI5aWhaNi1laklRSlo4cmRGek5tSnV4UTVhLUJReW9uX1I3c1M4WWtYc0NoZVJoaXJ0LTVGU1p3OFZyTkg5OU03dnpFcEZSVG9vRlJFZ2xRWmZMbVBWcktSRXdpMUlIWVFEeHV1YTM1b1pac1ZRdlNhR0lVV3pERmNoRFc3RnY0OEVsZl80LUpmN3l4Tm1hbEtENFQ2S3E5LXZaTERydllwbVVUYWFnZmVxUlRhLVpBWXVocHl1RlJNVnJ6aTdWXy16ckRqSm8zdjBTQ0VVb3lVVGxTSDVHWUVELTR1b0xVdmNWT0hRMW8?oc=5
+- India bonds inch up on short covering
+  Indian government bonds made a small recovery as traders scrambled to close short positions. Hopes for a possible US-India trade pact helped stabilize the market.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-up-on-short-covering/articleshow/124777796.cms
 
-- Stock Market Highlights: Sensex pares early gains, settles 130 pts higher, Nifty above 25,850; TCS, Shrir... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTERUYVl5RDZCRng3WkRnM3F3YXVEM3ViUkdGSTRIQkM0TG05STN5c3BnaktLQ2wxcEtxZGlDMUJmZ0t4ZHdZaG5nOXh0NGFEbDJUWlFrNjNGbGVjbkxYc3dhWmUyQVZYOX
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTERUYVl5RDZCRng3WkRnM3F3YXVEM3ViUkdGSTRIQkM0TG05STN5c3BnaktLQ2wxcEtxZGlDMUJmZ0t4ZHdZaG5nOXh0NGFEbDJUWlFrNjNGbGVjbkxYc3dhWmUyQVZYOXhZaUJBdFpRMnc3SmluNGVjdXhqcHBPbTY4S3BWZ1FDUF9vRzRWMXFGMnZXNzN1dkNNdnE0cW5EYVk1empDek5VTW9tZTFVUWdNU2JmVW10RjJQWUZFaFhVMFhVS2FZbG1HbEFIWVV6M0RzRHMwONIB3AFBVV95cUxObkx2U05WQ0ZleC04a0I3R0w1eS1uVTRNR216dEpnR2hlNFp0bFlSemZBRkNVelpGVENwU2trMUx5UFctUk5yWjhIelhkTE10ejJqa1hLLUJpd0FxVTN6aDA0OVhWVzZIbzlKa256bGd0TzNZbzRsU3BvSmYyY0NkQ1RzbHluM0hBZzE4THFyX2lXSHA4TzFRM1RsX1JDYWhNaDAyam03QTFNREtiRVVWMEdSbzF5akRpT1pjcm04TWdZX0hFZDNLTmlGNnRPUzI0RXplSjhsUFc4X1ZR?oc=5
+- Gold rally snaps after 9 weeks as 3 factors lead retreat. Crash or buying opportunity ahead?
+  Gold's record-breaking rally is set to pause after nine straight weeks. Prices down 3% amid profit-taking, a stronger dollar, and renewed U.S.-China trade optimism. Analysts view
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-rally-snaps-after-9-weeks-as-3-factors-lead-retreat-crash-or-buying-opportunity-ahead/articleshow/124777721.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  Nifty surged past 26,000, reclaiming the milestone after over a year. Despite profit booking, analysts suggest positive global sentiment, foreign inflows, and strong earnings could sustain the upward momentum.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124768611.cms
+- Rupee rallies to 2-month high, helped by firm RBI hand, flows
+  The Indian rupee reached a two-month peak on Thursday. This rise was driven by expected inflows and the Reserve Bank of Indias consistent dollar sales near 88.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rallies-to-2-month-high-helped-by-firm-rbi-hand-flows/articleshow/124777673.cms
 
-- WazirX to resume operations, 15 Months after cyberheist
-  WazirX is set to resume operations after a 15-month hiatus following a $235 million cyberhack. The Singapore High Court approved a restructuring plan, promising users
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/wazirx-to-resume-operations-15-months-after-cyberheist/articleshow/124774171.cms
+- Laurus Labs shares tumble 4% despite 886% surge in Q2 PAT. Should you buy the dip?
+  Laurus Labs shares fell despite Q2FY26 PAT surging 886% to Rs 195 crore.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-shares-tumble-4-despite-886-surge-in-q2-pat-should-you-buy-the-dip/articleshow/124777646.cms
 
-- Sebi bans First Overseas Capital for two years
-  Sebi has banned First Overseas Capital from the securities market and new IPO mandates for two years, imposing a ₹20 lakh fine. The regulator found the merchant banker violated norms by not maintaining adequate net worth.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-bans-first-overseas-capital-for-two-years/articleshow/124774160.cms
+- What Taliban Said About Pakistan's 'Proxy War' Charge Against India - NDTV
+  What Taliban Said About Pakistan's 'Proxy
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaXdWNVFQT01qbExRV1UwRWU1cWR2XzNlWElpeVZrNUhGOXFDTWRIYUdHNWlwZTNiVGVXcll4VXNOSG1iSGlTWGpoUlB3VS13R1ptemU3RTBfV1hrV1J3TUlEaHB6dzBPQ3NmZ2FiVUhNZGE3Tk1VRDU1R1lScUh1eGJKN3RWX09WSmtJSHg4Q01TY3hsbkZ1T1p2WnZWTGxnU1ZpeXN1OHcyOTJlbnkyX3N3VktMenhNaEQ2bnRUU3RYVU9UQkRDMmxHajU5M01lR2xUQnlaQmN3ZnhPZ2hMeNIB6AFBVV95cUxQTi1wcFFuVktocC1QWGJLdl9FZXlfNlpLYTBTTGw0ZmU2YjdmRHhoOGQ0akw4cHBWa1dYNC1WOGZVUjFtUEh1S185ZlNiMk1GT0pXMmJ2NGRseFYtZElUTnQ1ZDE2TWp6ZDduSUhBZERyUVdIMWVEbnV5TFRrNUFFaEZINmVhcXM1bGh2Ty16aWpFWXR1SzIydFRNa2tiUWk1VVhXbGszVzBjZ2JfWjBXa05FZ0U2cldURmhCMVFvY2t3djN0cWxNMUFSWUJtYThodDVCYjZWcl9VbXNpbFFpdHFoTGNiWVVi?oc=5
 
-- Stocks in news: ITC Hotels, Dr Reddy's, SBI Life, Hero MotoCorp, Vedanta
-   Markets traded volatile on Thursday, ending nearly unchanged. Analysts suggest a short-term consolidation phase is likely. Several companies, including Vedanta, Hero MotoCorp, and Colgate-Palmolive, are in focus.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-itc-hotels-dr-reddys-sbi-life-hero-motocorp-vedanta/articleshow/124768458.cms
+- Trump claims India will 'almost stop' buying Russian oil by year-end - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcH
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcHVpMnF5UDBzZWpIZjBlanhfMHZEMkMtdUYyclRUajdmTnZTdHpOUWhDUzd6TS10R0NpTGhmSnNrRlZVZWxGWnlhRV9xU0NSYnlrTUJQclVXY095b3dQY1gwX1pGZmxVd1FB0gHQAUFVX3lxTE1mVTMzRmt0MUxZQVZ5TVVSY2stSG45d0ZqMGhpcHNGUDhwaW82aE83OTdTNzFfVC1kSUEzMXJtVW5UYklvOFIxSjFsWmU1Qk5RSHZrZms1RHVOUlNheF9zV3hxMGg0M0o1MG9melpmNGpiRUI3SGhzRnFHNmJOOFp2QWZHVjRDaWxfZk9kaENMaWVOeURaMklVczBJazBGLVpQQ0pHblBrZE5SalBtTEp3ZlFWMzMzZ0E1cmpLSEc3TjJOS1lRSDdPVFVlRmkwblI?oc=5
 
-- Trade pact possibilities boost Indian export stocks amid market rally
-  Indian exporters, particularly in IT and textiles, saw a significant surge on Thursday following reports of an impending India-US trade pact. This potential
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/trade-pact-possibilities-boost-indian-export-stocks-amid-market-rally/articleshow/124774129.cms
+- Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California Road Accident Kill Three - Times of India
+  Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQODk1QkVCb1NqR3luVWpRQlJ5RGdGWkEtdDBhN1A0UW50WnZUUEJMb05nLXZMWGNGRldKYTlrc3Z5VTEwLW56VVRIdU8yblV2Qi1ScmN0aUhHbVNIWUE0NG9iV0huMmpYZHZPdUw3TnBILU9JNmw0dzl5LU1lOGJtWWd5UzEzalNvcmNaQkQxaUxGa0lZMm1zWk1vNTViLVJsdmxZQzRfNkNwTWY2cmxLeHFtaHJiakVFYUprVndRUWctU3dQOUw0MTZKMDctNHNzM1BhMGc4YlYwMm1DSUVvLTBzUHJocmZUZVBnWXAwMWQ0OHJybWJjQVkzX0l2TE9OWFHSAYcCQVVfeXFMTzlKX2V0eWpSUG5URVhIbjVUb0dJU25VUXcyNEdrUWJfdkJLdzZrZXl2aVIyekZtdDRoWHJlWTFad2hEd3N4Z2VUc1RWc3BUa1drakVFQmxGcktCeXNXQUQ5R1RTamp3NmV6QW5aMHpNRjczN3A3VnNsTlFLRWsyWUUtclZ0MDNtWVBuSnRHNHdjRnZLczF2a2JLa2xjaGNCQkZxcVUyeFh1a0R3RW43Skp4VEp2d0I2RmE4eFRJV0haeFJxSFVzVUlaZ05iVVUzMWl3V3BrVFhxYVJxMGl3Ukx0NHk3cHdlNFctYjUtMVA5bDBnQlQtQXA1ektiak8teTFGVXlBYXc?oc=5
 
-- Top News Headlines of October 23, 2025 | King Charles III prays with pope in historic visit, a welcome respite from royal troubles at home - The Indian Express
-  The Indian Express looks back at the events of October 23, 2025. King Charles III prays with pope in historic visit,
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHZ2OVh5d25fV2loM3RHdDR2bkcxdmZuQmp6X1RKZ1VoUGUyczhqTlowTUtEREZyWndwLXdVcWVxRFJ0RDJJYlBNeG82YzE0aHlSd3dSZVdfZXhYYlV3UU5OV0hmUTRhVHREdnFCSk9uSjVGYy05TEdSQVZxRm4tZ016T0xNalNQZkpYSDdpVE45UW1XWnEtZnBETWhFUHFaT3h2eWRmTXc0bzNObFhxbW9Sd05wbGxpTGZXRVM0XzFIMlZZWTdMdmQ5X3p4RVRaRHI4dVZDVjZ2cVBzSTZaamNKOXhtZkNB0gHvAUFVX3lxTE4zOUxkeVJEMWs3di1nZ1BZMmJ2d2lUUWZEVU5OaE1kenBRYXNsY1BHMW12TDFtbmZIVGE3MjRjTi1vM2FwSlVpa0xaYmF2WWtXNVA3Y191U1F4b3ZWd0hieTRDb0cwUG5KcmtlM2VwZEVmQlhZZjNsSGVlTVNSd0xJOGZqOUNCLWZscy14al9pT29mN3V5ZVA4Q2hCcTFYUXRwOXVGXzlXZ1o0T2MzX0JCRy1PN3hZZXRHRDVqU21hMGdMQXcya01yN04yQmlob1dlZXVjdHRRVG13R1ZjOG5aOGx6Nll6anZhblBHbzVj?oc=5
+- ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates 8 Indian Cities On ‘How SAFE’ She Felt, Gives -1 - News18
+  ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQczRqRnhua1lIWXU5ZmpadVZPZ1RtdVM4QmNaT2ZKWE10STFBQzFVTWN0TkI4QmlHbnlwYXp5cURmQTBickpWTldyd2NYZVhxak8zNm14WGxucmdqYmcxdDJSM1JTS0g5U0RpUzZvX3RCNUZjOFVJZHk1VG5Ha3IxbDBWVllScHlqdFJ4dUtCQmZvMTByZHNaMU5HTXhsV1JGMURxNGVyNi1jZHJTLUtQZmVFZUtQMjhnRzRPY0FydFREVDJl0gHKAUFVX3lxTE5tUV85VzBORWhwcElDdFU4VnRqZHY3VFpSSlZnQ3ZlSVM2VkNEdS1jSmdiRE5OOXZEdDNXanBseHFkSkN2Z0JNZGgxallFMGR6YXJPM29kRFdBMnRIY0NmYzliSHdOOVljOTJ1WFZUMnJBOGVBMTg4TlN5TFVteGJpQUVXVC1heDhqOE9tSGZWSEkzVDZ2bjVoMUJlOXk0ZlpOYkJVZ19yeUpnZUNpbHZJZC12blF4bVpFZkU5TV9jeVpXNEhIWDBnbnc?oc=5
 
-- What US Sanctions On Russian Oil Mean For India - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGFVTlhkSFZScjhkMy13VG02UGFPeDNTTEpmZFNNR1JVV3pObmVQNHRFcTZHSWdRSlh6MmRON3dXQ0RqajdHdWc1ZzRvTEMzdXpZMmRSVGJ2M2VEeUpqcTlRNWo1eld2bz
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGFVTlhkSFZScjhkMy13VG02UGFPeDNTTEpmZFNNR1JVV3pObmVQNHRFcTZHSWdRSlh6MmRON3dXQ0RqajdHdWc1ZzRvTEMzdXpZMmRSVGJ2M2VEeUpqcTlRNWo1eld2bzhlY3dudXF4cDBuQkNOdW4tUS1WY0pBOE4tRG1pclY4a0RIOHRYNFXSAZgBQVVfeXFMTkE4RDlTNmtLRGpOb29XdjdEVFg3QUs1bHg2WkxSVHRwaVpicVVZdkhsYlR6ZG51Si05bHZiZUlzUEZXejZwWHNNaXJnRmh2dnB0Q1ZuSlVuQnY0N2ZOOGRiMzNvS2I0VEpSQ2FkQksxZ1hENWJQWXY5eUs0WHZaQ3h3bERUT1BONk1sNVZWY2lYRUpHRnluZE0?oc=5
+- Your grandpa came from India: Mehdi Hasan counters Nikki Haley's son on US migration - India Today
+  Mehdi Hasan counters Nikki Haley's son on US migration.
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxORmxIYkUyZVk0R25vaG9QRWJ2Qy15RGROcHVVZlJfZWFfZWpodDMtc01TZXRVYW56VHc5U2JIRzJnLVVJRjhTZV9RVk5BQ3ZQeGpBbkMxYkJyamVWYzNJNU1Hb1VSLW9aYVc2bnZXSjFQNU9zeVRseWdHNi1pWmdRbnpNYUdPUUxUOHpWOE1QNHpHZUU0U2JyYmJGYmZfWnBwWmpqN3plTkNGUTNucHI0dXRWQjV1amhIc041X09zVXlOVnd6YnozdElXSi1oUXFtOHdmZGk3MG9rNlpZM3NiVTdJY3ZZX1FQTjJXcHQ3cG1IVzRGZTlKdXlzSDB1UVNsVzBr?oc=5
 
-- India plans strict rules for gene, stem cell therapies | Today News - Mint
-  India plans strict rules for gene, stem cell therapies
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNDJOQWZIclhPdTRuT2hIMXRxNmpxSXVvZUNNaTFFazJ1RWdvcG1TUDEtVnN3dUQ0VFhfa21fVTdrcWxSZ1lSTjN0QVpDc3NDZE5LVWh1VVEyNWhKeTFiS2dtUUdJMlAwZlBrN3pQd3VLaUJybzBhbmlHcE9iVmFFb05MWHNwazRHZWprR3Bocl9aQlp5N0tyUjVmdS1jbm9yMUQ4cnd4WUcwNFBZZGd6Q2MzWGRKYnFmcVdXX1BIWmNCQdIBwgFBVV95cUxPNDJOQWZIclhPdTRuT2hIMXRxNmpxSXVvZUNNaTFFazJ1RWdvcG1TUDEtVnN3dUQ0VFhfa21fVTdrcWxSZ1lSTjN0QVpDc3NDZE5LVWh1VVEyNWhKeTFiS2dtUUdJMlAwZlBrN3pQd3VLaUJybzBhbmlHcE9iVmFFb05MWHNwazRHZWprR3Bocl9aQlp5N0tyUjVmdS1jbm9yMUQ4cnd4WUcwNFBZZGd6Q2MzWGRKYnFmcVdXX1BIWmNCQQ?oc=5
+- What Taliban Said About Pakistan's 'Proxy War' Charge Against India - NDTV
+  What Taliban Said About Pakistan's 'Proxy
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaXdWNVFQT01qbExRV1UwRWU1cWR2XzNlWElpeVZrNUhGOXFDTWRIYUdHNWlwZTNiVGVXcll4VXNOSG1iSGlTWGpoUlB3VS13R1ptemU3RTBfV1hrV1J3TUlEaHB6dzBPQ3NmZ2FiVUhNZGE3Tk1VRDU1R1lScUh1eGJKN3RWX09WSmtJSHg4Q01TY3hsbkZ1T1p2WnZWTGxnU1ZpeXN1OHcyOTJlbnkyX3N3VktMenhNaEQ2bnRUU3RYVU9UQkRDMmxHajU5M01lR2xUQnlaQmN3ZnhPZ2hMeNIB6AFBVV95cUxQTi1wcFFuVktocC1QWGJLdl9FZXlfNlpLYTBTTGw0ZmU2YjdmRHhoOGQ0akw4cHBWa1dYNC1WOGZVUjFtUEh1S185ZlNiMk1GT0pXMmJ2NGRseFYtZElUTnQ1ZDE2TWp6ZDduSUhBZERyUVdIMWVEbnV5TFRrNUFFaEZINmVhcXM1bGh2Ty16aWpFWXR1SzIydFRNa2tiUWk1VVhXbGszVzBjZ2JfWjBXa05FZ0U2cldURmhCMVFvY2t3djN0cWxNMUFSWUJtYThodDVCYjZWcl9VbXNpbFFpdHFoTGNiWVVi?oc=5
 
-- Air very poor for fourth day - Times of India
-  Air very poor for fourth day
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXc1Y0FpQXNkSldGMTRUUnRpSThpa0g1dVJuSldUeHdVNkd2T3R5Zm9EQW9ZbkRFT0ppdmZRcHRrQW43bl82aFdkdS0tYUcxbFhUeER2Z2c4Y2pkNzUzOFJfN21UalpSQk9NRk1jR0twMmFNLXo5VGxZc3Y1VkYtSGNka0cxUmVGOVFtbG5rcGMtZ3YtVElMZzZnd3FtN19NcXhB0gGoAUFVX3lxTE0tWVNTWUpJY1Y1QkZ2ODRhU3RrejlyMUxpNmhsY0JzNGpRTjdlZllGU05VTmRoMDlmNnA3TWxDb2tfeTdWS2V0VzJXYTBPVTRObUJnWmIzdHhZdlpnZ0I2MHktdmp3UGpWTl9uQVk2cGF5TFRXdVk0M2p1MXYwazV5WTB6U2w3UlpKd3oweW1qcFpNT3lINjBSU2FvLXI4bjBSUHBIeHpzSg?oc=5
+- Trump claims India will 'almost stop' buying Russian oil by year-end - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcH
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcHVpMnF5UDBzZWpIZjBlanhfMHZEMkMtdUYyclRUajdmTnZTdHpOUWhDUzd6TS10R0NpTGhmSnNrRlZVZWxGWnlhRV9xU0NSYnlrTUJQclVXY095b3dQY1gwX1pGZmxVd1FB0gHQAUFVX3lxTE1mVTMzRmt0MUxZQVZ5TVVSY2stSG45d0ZqMGhpcHNGUDhwaW82aE83OTdTNzFfVC1kSUEzMXJtVW5UYklvOFIxSjFsWmU1Qk5RSHZrZms1RHVOUlNheF9zV3hxMGg0M0o1MG9melpmNGpiRUI3SGhzRnFHNmJOOFp2QWZHVjRDaWxfZk9kaENMaWVOeURaMklVczBJazBGLVpQQ0pHblBrZE5SalBtTEp3ZlFWMzMzZ0E1cmpLSEc3TjJOS1lRSDdPVFVlRmkwblI?oc=5
 
-- Bihar elections: Two INDIA bloc candidates withdraw nominations - The Hindu
-  Bihar elections: Two INDIA
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTNNUndSejBuR29sWm8xS2FGSmpfT1FxbEx5NS1Jckh4WHB1Y0RDeDM2bHdNQUdMakN2d3dVX0FVOWpIZ3RwdUNFM0hGSXoyZWNERVJhWGlEYVQzR09KN1VxMzdsYnNPMUwwdmotNGpWYS02SWJmTF9hS1VBT29LLWdSS2h0T2puYy1pdFlQNlBFd1FZMjF6TXloeXNybnNaQkFVZWJYaEtVQW55aHFMbUc2ZXRNTGFHYWI2QldDSld5dDR2WUHSAcwBQVVfeXFMUHVmRUd3OFVZc1BaQWQ5ek8wWUxUQUZfSE12ZDRaMEJmREUzNnJyNDdUZGNUWk5sckZqeVFCOE5IRXFLMUM1eE5jczNXN1RmQzBmNmwyRHh4QlhaLVZDQ0RTWnh6ODdrMmxBWkYyOVA2RDhYdHNjMUZuNXF4eEZoTXZVMDJhNTlJbENIWjlhZ21wWmxnX244bmVWNHVyUUctVVZHREI3R21BRllyc2JvbnZZc1ZiQTJrODR2TldrY1VfTk0tOUFQdzE5b0JU?oc=5
+- Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California Road Accident Kill Three - Times of India
+  Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQODk1QkVCb1NqR3luVWpRQlJ5RGdGWkEtdDBhN1A0UW50WnZUUEJMb05nLXZMWGNGRldKYTlrc3Z5VTEwLW56VVRIdU8yblV2Qi1ScmN0aUhHbVNIWUE0NG9iV0huMmpYZHZPdUw3TnBILU9JNmw0dzl5LU1lOGJtWWd5UzEzalNvcmNaQkQxaUxGa0lZMm1zWk1vNTViLVJsdmxZQzRfNkNwTWY2cmxLeHFtaHJiakVFYUprVndRUWctU3dQOUw0MTZKMDctNHNzM1BhMGc4YlYwMm1DSUVvLTBzUHJocmZUZVBnWXAwMWQ0OHJybWJjQVkzX0l2TE9OWFHSAYcCQVVfeXFMTzlKX2V0eWpSUG5URVhIbjVUb0dJU25VUXcyNEdrUWJfdkJLdzZrZXl2aVIyekZtdDRoWHJlWTFad2hEd3N4Z2VUc1RWc3BUa1drakVFQmxGcktCeXNXQUQ5R1RTamp3NmV6QW5aMHpNRjczN3A3VnNsTlFLRWsyWUUtclZ0MDNtWVBuSnRHNHdjRnZLczF2a2JLa2xjaGNCQkZxcVUyeFh1a0R3RW43Skp4VEp2d0I2RmE4eFRJV0haeFJxSFVzVUlaZ05iVVUzMWl3V3BrVFhxYVJxMGl3Ukx0NHk3cHdlNFctYjUtMVA5bDBnQlQtQXA1ektiak8teTFGVXlBYXc?oc=5
 
-- Top News Headlines of October 23, 2025 | King Charles III prays with pope in historic visit, a welcome respite from royal troubles at home - The Indian Express
-  The Indian Express looks back at the events of October 23, 2025. King Charles III prays with pope in historic visit,
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHZ2OVh5d25fV2loM3RHdDR2bkcxdmZuQmp6X1RKZ1VoUGUyczhqTlowTUtEREZyWndwLXdVcWVxRFJ0RDJJYlBNeG82YzE0aHlSd3dSZVdfZXhYYlV3UU5OV0hmUTRhVHREdnFCSk9uSjVGYy05TEdSQVZxRm4tZ016T0xNalNQZkpYSDdpVE45UW1XWnEtZnBETWhFUHFaT3h2eWRmTXc0bzNObFhxbW9Sd05wbGxpTGZXRVM0XzFIMlZZWTdMdmQ5X3p4RVRaRHI4dVZDVjZ2cVBzSTZaamNKOXhtZkNB0gHvAUFVX3lxTE4zOUxkeVJEMWs3di1nZ1BZMmJ2d2lUUWZEVU5OaE1kenBRYXNsY1BHMW12TDFtbmZIVGE3MjRjTi1vM2FwSlVpa0xaYmF2WWtXNVA3Y191U1F4b3ZWd0hieTRDb0cwUG5KcmtlM2VwZEVmQlhZZjNsSGVlTVNSd0xJOGZqOUNCLWZscy14al9pT29mN3V5ZVA4Q2hCcTFYUXRwOXVGXzlXZ1o0T2MzX0JCRy1PN3hZZXRHRDVqU21hMGdMQXcya01yN04yQmlob1dlZXVjdHRRVG13R1ZjOG5aOGx6Nll6anZhblBHbzVj?oc=5
+- ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates 8 Indian Cities On ‘How SAFE’ She Felt, Gives -1 - News18
+  ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQczRqRnhua1lIWXU5ZmpadVZPZ1RtdVM4QmNaT2ZKWE10STFBQzFVTWN0TkI4QmlHbnlwYXp5cURmQTBickpWTldyd2NYZVhxak8zNm14WGxucmdqYmcxdDJSM1JTS0g5U0RpUzZvX3RCNUZjOFVJZHk1VG5Ha3IxbDBWVllScHlqdFJ4dUtCQmZvMTByZHNaMU5HTXhsV1JGMURxNGVyNi1jZHJTLUtQZmVFZUtQMjhnRzRPY0FydFREVDJl0gHKAUFVX3lxTE5tUV85VzBORWhwcElDdFU4VnRqZHY3VFpSSlZnQ3ZlSVM2VkNEdS1jSmdiRE5OOXZEdDNXanBseHFkSkN2Z0JNZGgxallFMGR6YXJPM29kRFdBMnRIY0NmYzliSHdOOVljOTJ1WFZUMnJBOGVBMTg4TlN5TFVteGJpQUVXVC1heDhqOE9tSGZWSEkzVDZ2bjVoMUJlOXk0ZlpOYkJVZ19yeUpnZUNpbHZJZC12blF4bVpFZkU5TV9jeVpXNEhIWDBnbnc?oc=5
 
-- What US Sanctions On Russian Oil Mean For India - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGFVTlhkSFZScjhkMy13VG02UGFPeDNTTEpmZFNNR1JVV3pObmVQNHRFcTZHSWdRSlh6MmRON3dXQ0RqajdHdWc1ZzRvTEMzdXpZMmRSVGJ2M2VEeUpqcTlRNWo1eld2bz
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGFVTlhkSFZScjhkMy13VG02UGFPeDNTTEpmZFNNR1JVV3pObmVQNHRFcTZHSWdRSlh6MmRON3dXQ0RqajdHdWc1ZzRvTEMzdXpZMmRSVGJ2M2VEeUpqcTlRNWo1eld2bzhlY3dudXF4cDBuQkNOdW4tUS1WY0pBOE4tRG1pclY4a0RIOHRYNFXSAZgBQVVfeXFMTkE4RDlTNmtLRGpOb29XdjdEVFg3QUs1bHg2WkxSVHRwaVpicVVZdkhsYlR6ZG51Si05bHZiZUlzUEZXejZwWHNNaXJnRmh2dnB0Q1ZuSlVuQnY0N2ZOOGRiMzNvS2I0VEpSQ2FkQksxZ1hENWJQWXY5eUs0WHZaQ3h3bERUT1BONk1sNVZWY2lYRUpHRnluZE0?oc=5
+- Your grandpa came from India: Mehdi Hasan counters Nikki Haley's son on US migration - India Today
+  Mehdi Hasan counters Nikki Haley's son on US migration.
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxORmxIYkUyZVk0R25vaG9QRWJ2Qy15RGROcHVVZlJfZWFfZWpodDMtc01TZXRVYW56VHc5U2JIRzJnLVVJRjhTZV9RVk5BQ3ZQeGpBbkMxYkJyamVWYzNJNU1Hb1VSLW9aYVc2bnZXSjFQNU9zeVRseWdHNi1pWmdRbnpNYUdPUUxUOHpWOE1QNHpHZUU0U2JyYmJGYmZfWnBwWmpqN3plTkNGUTNucHI0dXRWQjV1amhIc041X09zVXlOVnd6YnozdElXSi1oUXFtOHdmZGk3MG9rNlpZM3NiVTdJY3ZZX1FQTjJXcHQ3cG1IVzRGZTlKdXlzSDB1UVNsVzBr?oc=5
 
-- India plans strict rules for gene, stem cell therapies | Today News - Mint
-  India plans strict rules for gene, stem cell therapies
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNDJOQWZIclhPdTRuT2hIMXRxNmpxSXVvZUNNaTFFazJ1RWdvcG1TUDEtVnN3dUQ0VFhfa21fVTdrcWxSZ1lSTjN0QVpDc3NDZE5LVWh1VVEyNWhKeTFiS2dtUUdJMlAwZlBrN3pQd3VLaUJybzBhbmlHcE9iVmFFb05MWHNwazRHZWprR3Bocl9aQlp5N0tyUjVmdS1jbm9yMUQ4cnd4WUcwNFBZZGd6Q2MzWGRKYnFmcVdXX1BIWmNCQdIBwgFBVV95cUxPNDJOQWZIclhPdTRuT2hIMXRxNmpxSXVvZUNNaTFFazJ1RWdvcG1TUDEtVnN3dUQ0VFhfa21fVTdrcWxSZ1lSTjN0QVpDc3NDZE5LVWh1VVEyNWhKeTFiS2dtUUdJMlAwZlBrN3pQd3VLaUJybzBhbmlHcE9iVmFFb05MWHNwazRHZWprR3Bocl9aQlp5N0tyUjVmdS1jbm9yMUQ4cnd4WUcwNFBZZGd6Q2MzWGRKYnFmcVdXX1BIWmNCQQ?oc=5
+- What Taliban Said About Pakistan's 'Proxy War' Charge Against India - NDTV
+  What Taliban Said About Pakistan's 'Proxy
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaXdWNVFQT01qbExRV1UwRWU1cWR2XzNlWElpeVZrNUhGOXFDTWRIYUdHNWlwZTNiVGVXcll4VXNOSG1iSGlTWGpoUlB3VS13R1ptemU3RTBfV1hrV1J3TUlEaHB6dzBPQ3NmZ2FiVUhNZGE3Tk1VRDU1R1lScUh1eGJKN3RWX09WSmtJSHg4Q01TY3hsbkZ1T1p2WnZWTGxnU1ZpeXN1OHcyOTJlbnkyX3N3VktMenhNaEQ2bnRUU3RYVU9UQkRDMmxHajU5M01lR2xUQnlaQmN3ZnhPZ2hMeNIB6AFBVV95cUxQTi1wcFFuVktocC1QWGJLdl9FZXlfNlpLYTBTTGw0ZmU2YjdmRHhoOGQ0akw4cHBWa1dYNC1WOGZVUjFtUEh1S185ZlNiMk1GT0pXMmJ2NGRseFYtZElUTnQ1ZDE2TWp6ZDduSUhBZERyUVdIMWVEbnV5TFRrNUFFaEZINmVhcXM1bGh2Ty16aWpFWXR1SzIydFRNa2tiUWk1VVhXbGszVzBjZ2JfWjBXa05FZ0U2cldURmhCMVFvY2t3djN0cWxNMUFSWUJtYThodDVCYjZWcl9VbXNpbFFpdHFoTGNiWVVi?oc=5
 
-- Air very poor for fourth day - Times of India
-  Air very poor for fourth day
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXc1Y0FpQXNkSldGMTRUUnRpSThpa0g1dVJuSldUeHdVNkd2T3R5Zm9EQW9ZbkRFT0ppdmZRcHRrQW43bl82aFdkdS0tYUcxbFhUeER2Z2c4Y2pkNzUzOFJfN21UalpSQk9NRk1jR0twMmFNLXo5VGxZc3Y1VkYtSGNka0cxUmVGOVFtbG5rcGMtZ3YtVElMZzZnd3FtN19NcXhB0gGoAUFVX3lxTE0tWVNTWUpJY1Y1QkZ2ODRhU3RrejlyMUxpNmhsY0JzNGpRTjdlZllGU05VTmRoMDlmNnA3TWxDb2tfeTdWS2V0VzJXYTBPVTRObUJnWmIzdHhZdlpnZ0I2MHktdmp3UGpWTl9uQVk2cGF5TFRXdVk0M2p1MXYwazV5WTB6U2w3UlpKd3oweW1qcFpNT3lINjBSU2FvLXI4bjBSUHBIeHpzSg?oc=5
+- Trump claims India will 'almost stop' buying Russian oil by year-end - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcH
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcHVpMnF5UDBzZWpIZjBlanhfMHZEMkMtdUYyclRUajdmTnZTdHpOUWhDUzd6TS10R0NpTGhmSnNrRlZVZWxGWnlhRV9xU0NSYnlrTUJQclVXY095b3dQY1gwX1pGZmxVd1FB0gHQAUFVX3lxTE1mVTMzRmt0MUxZQVZ5TVVSY2stSG45d0ZqMGhpcHNGUDhwaW82aE83OTdTNzFfVC1kSUEzMXJtVW5UYklvOFIxSjFsWmU1Qk5RSHZrZms1RHVOUlNheF9zV3hxMGg0M0o1MG9melpmNGpiRUI3SGhzRnFHNmJOOFp2QWZHVjRDaWxfZk9kaENMaWVOeURaMklVczBJazBGLVpQQ0pHblBrZE5SalBtTEp3ZlFWMzMzZ0E1cmpLSEc3TjJOS1lRSDdPVFVlRmkwblI?oc=5
 
-- Bihar elections: Two INDIA bloc candidates withdraw nominations - The Hindu
-  Bihar elections: Two INDIA
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTNNUndSejBuR29sWm8xS2FGSmpfT1FxbEx5NS1Jckh4WHB1Y0RDeDM2bHdNQUdMakN2d3dVX0FVOWpIZ3RwdUNFM0hGSXoyZWNERVJhWGlEYVQzR09KN1VxMzdsYnNPMUwwdmotNGpWYS02SWJmTF9hS1VBT29LLWdSS2h0T2puYy1pdFlQNlBFd1FZMjF6TXloeXNybnNaQkFVZWJYaEtVQW55aHFMbUc2ZXRNTGFHYWI2QldDSld5dDR2WUHSAcwBQVVfeXFMUHVmRUd3OFVZc1BaQWQ5ek8wWUxUQUZfSE12ZDRaMEJmREUzNnJyNDdUZGNUWk5sckZqeVFCOE5IRXFLMUM1eE5jczNXN1RmQzBmNmwyRHh4QlhaLVZDQ0RTWnh6ODdrMmxBWkYyOVA2RDhYdHNjMUZuNXF4eEZoTXZVMDJhNTlJbENIWjlhZ21wWmxnX244bmVWNHVyUUctVVZHREI3R21BRllyc2JvbnZZc1ZiQTJrODR2TldrY1VfTk0tOUFQdzE5b0JU?oc=5
+- Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California Road Accident Kill Three - Times of India
+  Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQODk1QkVCb1NqR3luVWpRQlJ5RGdGWkEtdDBhN1A0UW50WnZUUEJMb05nLXZMWGNGRldKYTlrc3Z5VTEwLW56VVRIdU8yblV2Qi1ScmN0aUhHbVNIWUE0NG9iV0huMmpYZHZPdUw3TnBILU9JNmw0dzl5LU1lOGJtWWd5UzEzalNvcmNaQkQxaUxGa0lZMm1zWk1vNTViLVJsdmxZQzRfNkNwTWY2cmxLeHFtaHJiakVFYUprVndRUWctU3dQOUw0MTZKMDctNHNzM1BhMGc4YlYwMm1DSUVvLTBzUHJocmZUZVBnWXAwMWQ0OHJybWJjQVkzX0l2TE9OWFHSAYcCQVVfeXFMTzlKX2V0eWpSUG5URVhIbjVUb0dJU25VUXcyNEdrUWJfdkJLdzZrZXl2aVIyekZtdDRoWHJlWTFad2hEd3N4Z2VUc1RWc3BUa1drakVFQmxGcktCeXNXQUQ5R1RTamp3NmV6QW5aMHpNRjczN3A3VnNsTlFLRWsyWUUtclZ0MDNtWVBuSnRHNHdjRnZLczF2a2JLa2xjaGNCQkZxcVUyeFh1a0R3RW43Skp4VEp2d0I2RmE4eFRJV0haeFJxSFVzVUlaZ05iVVUzMWl3V3BrVFhxYVJxMGl3Ukx0NHk3cHdlNFctYjUtMVA5bDBnQlQtQXA1ektiak8teTFGVXlBYXc?oc=5
 
-- Top News Headlines of October 23, 2025 | King Charles III prays with pope in historic visit, a welcome respite from royal troubles at home - The Indian Express
-  The Indian Express looks back at the events of October 23, 2025. King Charles III prays with pope in historic visit,
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHZ2OVh5d25fV2loM3RHdDR2bkcxdmZuQmp6X1RKZ1VoUGUyczhqTlowTUtEREZyWndwLXdVcWVxRFJ0RDJJYlBNeG82YzE0aHlSd3dSZVdfZXhYYlV3UU5OV0hmUTRhVHREdnFCSk9uSjVGYy05TEdSQVZxRm4tZ016T0xNalNQZkpYSDdpVE45UW1XWnEtZnBETWhFUHFaT3h2eWRmTXc0bzNObFhxbW9Sd05wbGxpTGZXRVM0XzFIMlZZWTdMdmQ5X3p4RVRaRHI4dVZDVjZ2cVBzSTZaamNKOXhtZkNB0gHvAUFVX3lxTE4zOUxkeVJEMWs3di1nZ1BZMmJ2d2lUUWZEVU5OaE1kenBRYXNsY1BHMW12TDFtbmZIVGE3MjRjTi1vM2FwSlVpa0xaYmF2WWtXNVA3Y191U1F4b3ZWd0hieTRDb0cwUG5KcmtlM2VwZEVmQlhZZjNsSGVlTVNSd0xJOGZqOUNCLWZscy14al9pT29mN3V5ZVA4Q2hCcTFYUXRwOXVGXzlXZ1o0T2MzX0JCRy1PN3hZZXRHRDVqU21hMGdMQXcya01yN04yQmlob1dlZXVjdHRRVG13R1ZjOG5aOGx6Nll6anZhblBHbzVj?oc=5
+- ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates 8 Indian Cities On ‘How SAFE’ She Felt, Gives -1 - News18
+  ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQczRqRnhua1lIWXU5ZmpadVZPZ1RtdVM4QmNaT2ZKWE10STFBQzFVTWN0TkI4QmlHbnlwYXp5cURmQTBickpWTldyd2NYZVhxak8zNm14WGxucmdqYmcxdDJSM1JTS0g5U0RpUzZvX3RCNUZjOFVJZHk1VG5Ha3IxbDBWVllScHlqdFJ4dUtCQmZvMTByZHNaMU5HTXhsV1JGMURxNGVyNi1jZHJTLUtQZmVFZUtQMjhnRzRPY0FydFREVDJl0gHKAUFVX3lxTE5tUV85VzBORWhwcElDdFU4VnRqZHY3VFpSSlZnQ3ZlSVM2VkNEdS1jSmdiRE5OOXZEdDNXanBseHFkSkN2Z0JNZGgxallFMGR6YXJPM29kRFdBMnRIY0NmYzliSHdOOVljOTJ1WFZUMnJBOGVBMTg4TlN5TFVteGJpQUVXVC1heDhqOE9tSGZWSEkzVDZ2bjVoMUJlOXk0ZlpOYkJVZ19yeUpnZUNpbHZJZC12blF4bVpFZkU5TV9jeVpXNEhIWDBnbnc?oc=5
 
-- What US Sanctions On Russian Oil Mean For India - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGFVTlhkSFZScjhkMy13VG02UGFPeDNTTEpmZFNNR1JVV3pObmVQNHRFcTZHSWdRSlh6MmRON3dXQ0RqajdHdWc1ZzRvTEMzdXpZMmRSVGJ2M2VEeUpqcTlRNWo1eld2bz
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGFVTlhkSFZScjhkMy13VG02UGFPeDNTTEpmZFNNR1JVV3pObmVQNHRFcTZHSWdRSlh6MmRON3dXQ0RqajdHdWc1ZzRvTEMzdXpZMmRSVGJ2M2VEeUpqcTlRNWo1eld2bzhlY3dudXF4cDBuQkNOdW4tUS1WY0pBOE4tRG1pclY4a0RIOHRYNFXSAZgBQVVfeXFMTkE4RDlTNmtLRGpOb29XdjdEVFg3QUs1bHg2WkxSVHRwaVpicVVZdkhsYlR6ZG51Si05bHZiZUlzUEZXejZwWHNNaXJnRmh2dnB0Q1ZuSlVuQnY0N2ZOOGRiMzNvS2I0VEpSQ2FkQksxZ1hENWJQWXY5eUs0WHZaQ3h3bERUT1BONk1sNVZWY2lYRUpHRnluZE0?oc=5
+- Your grandpa came from India: Mehdi Hasan counters Nikki Haley's son on US migration - India Today
+  Mehdi Hasan counters Nikki Haley's son on US migration.
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxORmxIYkUyZVk0R25vaG9QRWJ2Qy15RGROcHVVZlJfZWFfZWpodDMtc01TZXRVYW56VHc5U2JIRzJnLVVJRjhTZV9RVk5BQ3ZQeGpBbkMxYkJyamVWYzNJNU1Hb1VSLW9aYVc2bnZXSjFQNU9zeVRseWdHNi1pWmdRbnpNYUdPUUxUOHpWOE1QNHpHZUU0U2JyYmJGYmZfWnBwWmpqN3plTkNGUTNucHI0dXRWQjV1amhIc041X09zVXlOVnd6YnozdElXSi1oUXFtOHdmZGk3MG9rNlpZM3NiVTdJY3ZZX1FQTjJXcHQ3cG1IVzRGZTlKdXlzSDB1UVNsVzBr?oc=5
 
-- India plans strict rules for gene, stem cell therapies | Today News - Mint
-  India plans strict rules for gene, stem cell therapies
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNDJOQWZIclhPdTRuT2hIMXRxNmpxSXVvZUNNaTFFazJ1RWdvcG1TUDEtVnN3dUQ0VFhfa21fVTdrcWxSZ1lSTjN0QVpDc3NDZE5LVWh1VVEyNWhKeTFiS2dtUUdJMlAwZlBrN3pQd3VLaUJybzBhbmlHcE9iVmFFb05MWHNwazRHZWprR3Bocl9aQlp5N0tyUjVmdS1jbm9yMUQ4cnd4WUcwNFBZZGd6Q2MzWGRKYnFmcVdXX1BIWmNCQdIBwgFBVV95cUxPNDJOQWZIclhPdTRuT2hIMXRxNmpxSXVvZUNNaTFFazJ1RWdvcG1TUDEtVnN3dUQ0VFhfa21fVTdrcWxSZ1lSTjN0QVpDc3NDZE5LVWh1VVEyNWhKeTFiS2dtUUdJMlAwZlBrN3pQd3VLaUJybzBhbmlHcE9iVmFFb05MWHNwazRHZWprR3Bocl9aQlp5N0tyUjVmdS1jbm9yMUQ4cnd4WUcwNFBZZGd6Q2MzWGRKYnFmcVdXX1BIWmNCQQ?oc=5
+- What Taliban Said About Pakistan's 'Proxy War' Charge Against India - NDTV
+  What Taliban Said About Pakistan's 'Proxy
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaXdWNVFQT01qbExRV1UwRWU1cWR2XzNlWElpeVZrNUhGOXFDTWRIYUdHNWlwZTNiVGVXcll4VXNOSG1iSGlTWGpoUlB3VS13R1ptemU3RTBfV1hrV1J3TUlEaHB6dzBPQ3NmZ2FiVUhNZGE3Tk1VRDU1R1lScUh1eGJKN3RWX09WSmtJSHg4Q01TY3hsbkZ1T1p2WnZWTGxnU1ZpeXN1OHcyOTJlbnkyX3N3VktMenhNaEQ2bnRUU3RYVU9UQkRDMmxHajU5M01lR2xUQnlaQmN3ZnhPZ2hMeNIB6AFBVV95cUxQTi1wcFFuVktocC1QWGJLdl9FZXlfNlpLYTBTTGw0ZmU2YjdmRHhoOGQ0akw4cHBWa1dYNC1WOGZVUjFtUEh1S185ZlNiMk1GT0pXMmJ2NGRseFYtZElUTnQ1ZDE2TWp6ZDduSUhBZERyUVdIMWVEbnV5TFRrNUFFaEZINmVhcXM1bGh2Ty16aWpFWXR1SzIydFRNa2tiUWk1VVhXbGszVzBjZ2JfWjBXa05FZ0U2cldURmhCMVFvY2t3djN0cWxNMUFSWUJtYThodDVCYjZWcl9VbXNpbFFpdHFoTGNiWVVi?oc=5
 
-- Air very poor for fourth day - Times of India
-  Air very poor for fourth day
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXc1Y0FpQXNkSldGMTRUUnRpSThpa0g1dVJuSldUeHdVNkd2T3R5Zm9EQW9ZbkRFT0ppdmZRcHRrQW43bl82aFdkdS0tYUcxbFhUeER2Z2c4Y2pkNzUzOFJfN21UalpSQk9NRk1jR0twMmFNLXo5VGxZc3Y1VkYtSGNka0cxUmVGOVFtbG5rcGMtZ3YtVElMZzZnd3FtN19NcXhB0gGoAUFVX3lxTE0tWVNTWUpJY1Y1QkZ2ODRhU3RrejlyMUxpNmhsY0JzNGpRTjdlZllGU05VTmRoMDlmNnA3TWxDb2tfeTdWS2V0VzJXYTBPVTRObUJnWmIzdHhZdlpnZ0I2MHktdmp3UGpWTl9uQVk2cGF5TFRXdVk0M2p1MXYwazV5WTB6U2w3UlpKd3oweW1qcFpNT3lINjBSU2FvLXI4bjBSUHBIeHpzSg?oc=5
+- Trump claims India will 'almost stop' buying Russian oil by year-end - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcH
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcHVpMnF5UDBzZWpIZjBlanhfMHZEMkMtdUYyclRUajdmTnZTdHpOUWhDUzd6TS10R0NpTGhmSnNrRlZVZWxGWnlhRV9xU0NSYnlrTUJQclVXY095b3dQY1gwX1pGZmxVd1FB0gHQAUFVX3lxTE1mVTMzRmt0MUxZQVZ5TVVSY2stSG45d0ZqMGhpcHNGUDhwaW82aE83OTdTNzFfVC1kSUEzMXJtVW5UYklvOFIxSjFsWmU1Qk5RSHZrZms1RHVOUlNheF9zV3hxMGg0M0o1MG9melpmNGpiRUI3SGhzRnFHNmJOOFp2QWZHVjRDaWxfZk9kaENMaWVOeURaMklVczBJazBGLVpQQ0pHblBrZE5SalBtTEp3ZlFWMzMzZ0E1cmpLSEc3TjJOS1lRSDdPVFVlRmkwblI?oc=5
 
-- Bihar elections: Two INDIA bloc candidates withdraw nominations - The Hindu
-  Bihar elections: Two INDIA
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTNNUndSejBuR29sWm8xS2FGSmpfT1FxbEx5NS1Jckh4WHB1Y0RDeDM2bHdNQUdMakN2d3dVX0FVOWpIZ3RwdUNFM0hGSXoyZWNERVJhWGlEYVQzR09KN1VxMzdsYnNPMUwwdmotNGpWYS02SWJmTF9hS1VBT29LLWdSS2h0T2puYy1pdFlQNlBFd1FZMjF6TXloeXNybnNaQkFVZWJYaEtVQW55aHFMbUc2ZXRNTGFHYWI2QldDSld5dDR2WUHSAcwBQVVfeXFMUHVmRUd3OFVZc1BaQWQ5ek8wWUxUQUZfSE12ZDRaMEJmREUzNnJyNDdUZGNUWk5sckZqeVFCOE5IRXFLMUM1eE5jczNXN1RmQzBmNmwyRHh4QlhaLVZDQ0RTWnh6ODdrMmxBWkYyOVA2RDhYdHNjMUZuNXF4eEZoTXZVMDJhNTlJbENIWjlhZ21wWmxnX244bmVWNHVyUUctVVZHREI3R21BRllyc2JvbnZZc1ZiQTJrODR2TldrY1VfTk0tOUFQdzE5b0JU?oc=5
+- Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California Road Accident Kill Three - Times of India
+  Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQODk1QkVCb1NqR3luVWpRQlJ5RGdGWkEtdDBhN1A0UW50WnZUUEJMb05nLXZMWGNGRldKYTlrc3Z5VTEwLW56VVRIdU8yblV2Qi1ScmN0aUhHbVNIWUE0NG9iV0huMmpYZHZPdUw3TnBILU9JNmw0dzl5LU1lOGJtWWd5UzEzalNvcmNaQkQxaUxGa0lZMm1zWk1vNTViLVJsdmxZQzRfNkNwTWY2cmxLeHFtaHJiakVFYUprVndRUWctU3dQOUw0MTZKMDctNHNzM1BhMGc4YlYwMm1DSUVvLTBzUHJocmZUZVBnWXAwMWQ0OHJybWJjQVkzX0l2TE9OWFHSAYcCQVVfeXFMTzlKX2V0eWpSUG5URVhIbjVUb0dJU25VUXcyNEdrUWJfdkJLdzZrZXl2aVIyekZtdDRoWHJlWTFad2hEd3N4Z2VUc1RWc3BUa1drakVFQmxGcktCeXNXQUQ5R1RTamp3NmV6QW5aMHpNRjczN3A3VnNsTlFLRWsyWUUtclZ0MDNtWVBuSnRHNHdjRnZLczF2a2JLa2xjaGNCQkZxcVUyeFh1a0R3RW43Skp4VEp2d0I2RmE4eFRJV0haeFJxSFVzVUlaZ05iVVUzMWl3V3BrVFhxYVJxMGl3Ukx0NHk3cHdlNFctYjUtMVA5bDBnQlQtQXA1ektiak8teTFGVXlBYXc?oc=5
 
-- Top News Headlines of October 23, 2025 | King Charles III prays with pope in historic visit, a welcome respite from royal troubles at home - The Indian Express
-  The Indian Express looks back at the events of October 23, 2025. King Charles III prays with pope in historic visit,
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHZ2OVh5d25fV2loM3RHdDR2bkcxdmZuQmp6X1RKZ1VoUGUyczhqTlowTUtEREZyWndwLXdVcWVxRFJ0RDJJYlBNeG82YzE0aHlSd3dSZVdfZXhYYlV3UU5OV0hmUTRhVHREdnFCSk9uSjVGYy05TEdSQVZxRm4tZ016T0xNalNQZkpYSDdpVE45UW1XWnEtZnBETWhFUHFaT3h2eWRmTXc0bzNObFhxbW9Sd05wbGxpTGZXRVM0XzFIMlZZWTdMdmQ5X3p4RVRaRHI4dVZDVjZ2cVBzSTZaamNKOXhtZkNB0gHvAUFVX3lxTE4zOUxkeVJEMWs3di1nZ1BZMmJ2d2lUUWZEVU5OaE1kenBRYXNsY1BHMW12TDFtbmZIVGE3MjRjTi1vM2FwSlVpa0xaYmF2WWtXNVA3Y191U1F4b3ZWd0hieTRDb0cwUG5KcmtlM2VwZEVmQlhZZjNsSGVlTVNSd0xJOGZqOUNCLWZscy14al9pT29mN3V5ZVA4Q2hCcTFYUXRwOXVGXzlXZ1o0T2MzX0JCRy1PN3hZZXRHRDVqU21hMGdMQXcya01yN04yQmlob1dlZXVjdHRRVG13R1ZjOG5aOGx6Nll6anZhblBHbzVj?oc=5
+- ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates 8 Indian Cities On ‘How SAFE’ She Felt, Gives -1 - News18
+  ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQczRqRnhua1lIWXU5ZmpadVZPZ1RtdVM4QmNaT2ZKWE10STFBQzFVTWN0TkI4QmlHbnlwYXp5cURmQTBickpWTldyd2NYZVhxak8zNm14WGxucmdqYmcxdDJSM1JTS0g5U0RpUzZvX3RCNUZjOFVJZHk1VG5Ha3IxbDBWVllScHlqdFJ4dUtCQmZvMTByZHNaMU5HTXhsV1JGMURxNGVyNi1jZHJTLUtQZmVFZUtQMjhnRzRPY0FydFREVDJl0gHKAUFVX3lxTE5tUV85VzBORWhwcElDdFU4VnRqZHY3VFpSSlZnQ3ZlSVM2VkNEdS1jSmdiRE5OOXZEdDNXanBseHFkSkN2Z0JNZGgxallFMGR6YXJPM29kRFdBMnRIY0NmYzliSHdOOVljOTJ1WFZUMnJBOGVBMTg4TlN5TFVteGJpQUVXVC1heDhqOE9tSGZWSEkzVDZ2bjVoMUJlOXk0ZlpOYkJVZ19yeUpnZUNpbHZJZC12blF4bVpFZkU5TV9jeVpXNEhIWDBnbnc?oc=5
 
-- What US Sanctions On Russian Oil Mean For India - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGFVTlhkSFZScjhkMy13VG02UGFPeDNTTEpmZFNNR1JVV3pObmVQNHRFcTZHSWdRSlh6MmRON3dXQ0RqajdHdWc1ZzRvTEMzdXpZMmRSVGJ2M2VEeUpqcTlRNWo1eld2bz
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGFVTlhkSFZScjhkMy13VG02UGFPeDNTTEpmZFNNR1JVV3pObmVQNHRFcTZHSWdRSlh6MmRON3dXQ0RqajdHdWc1ZzRvTEMzdXpZMmRSVGJ2M2VEeUpqcTlRNWo1eld2bzhlY3dudXF4cDBuQkNOdW4tUS1WY0pBOE4tRG1pclY4a0RIOHRYNFXSAZgBQVVfeXFMTkE4RDlTNmtLRGpOb29XdjdEVFg3QUs1bHg2WkxSVHRwaVpicVVZdkhsYlR6ZG51Si05bHZiZUlzUEZXejZwWHNNaXJnRmh2dnB0Q1ZuSlVuQnY0N2ZOOGRiMzNvS2I0VEpSQ2FkQksxZ1hENWJQWXY5eUs0WHZaQ3h3bERUT1BONk1sNVZWY2lYRUpHRnluZE0?oc=5
+- Your grandpa came from India: Mehdi Hasan counters Nikki Haley's son on US migration - India Today
+  Mehdi Hasan counters Nikki Haley's son on US migration.
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxORmxIYkUyZVk0R25vaG9QRWJ2Qy15RGROcHVVZlJfZWFfZWpodDMtc01TZXRVYW56VHc5U2JIRzJnLVVJRjhTZV9RVk5BQ3ZQeGpBbkMxYkJyamVWYzNJNU1Hb1VSLW9aYVc2bnZXSjFQNU9zeVRseWdHNi1pWmdRbnpNYUdPUUxUOHpWOE1QNHpHZUU0U2JyYmJGYmZfWnBwWmpqN3plTkNGUTNucHI0dXRWQjV1amhIc041X09zVXlOVnd6YnozdElXSi1oUXFtOHdmZGk3MG9rNlpZM3NiVTdJY3ZZX1FQTjJXcHQ3cG1IVzRGZTlKdXlzSDB1UVNsVzBr?oc=5
 
-- India plans strict rules for gene, stem cell therapies | Today News - Mint
-  India plans strict rules for gene, stem cell therapies
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNDJOQWZIclhPdTRuT2hIMXRxNmpxSXVvZUNNaTFFazJ1RWdvcG1TUDEtVnN3dUQ0VFhfa21fVTdrcWxSZ1lSTjN0QVpDc3NDZE5LVWh1VVEyNWhKeTFiS2dtUUdJMlAwZlBrN3pQd3VLaUJybzBhbmlHcE9iVmFFb05MWHNwazRHZWprR3Bocl9aQlp5N0tyUjVmdS1jbm9yMUQ4cnd4WUcwNFBZZGd6Q2MzWGRKYnFmcVdXX1BIWmNCQdIBwgFBVV95cUxPNDJOQWZIclhPdTRuT2hIMXRxNmpxSXVvZUNNaTFFazJ1RWdvcG1TUDEtVnN3dUQ0VFhfa21fVTdrcWxSZ1lSTjN0QVpDc3NDZE5LVWh1VVEyNWhKeTFiS2dtUUdJMlAwZlBrN3pQd3VLaUJybzBhbmlHcE9iVmFFb05MWHNwazRHZWprR3Bocl9aQlp5N0tyUjVmdS1jbm9yMUQ4cnd4WUcwNFBZZGd6Q2MzWGRKYnFmcVdXX1BIWmNCQQ?oc=5
+- What it's like to live in the world's smartest cities for 2025 - BBC
+  What it's like to live in the world's
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPdVQtNnVJOXYwanhCbmhvd2tSeF9POC1rN1RqbXZMd2hJcnVPMkVncUFXN2NRejZoeDVEY0FoMzFQVW8xMFZETGUwY1FRSGZuWmgyS2xSZ25yUHo1ZHAxR0pGSVJIRzlPaGp0UC1XbXRDWk9wNThGdEttaXdoS0hwRjJVVFYzVGRXdjA1Q0Jsd3JkRnRKb3NvSFhDRQ?oc=5
 
-- Air very poor for fourth day - Times of India
-  Air very poor for fourth day
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXc1Y0FpQXNkSldGMTRUUnRpSThpa0g1dVJuSldUeHdVNkd2T3R5Zm9EQW9ZbkRFT0ppdmZRcHRrQW43bl82aFdkdS0tYUcxbFhUeER2Z2c4Y2pkNzUzOFJfN21UalpSQk9NRk1jR0twMmFNLXo5VGxZc3Y1VkYtSGNka0cxUmVGOVFtbG5rcGMtZ3YtVElMZzZnd3FtN19NcXhB0gGoAUFVX3lxTE0tWVNTWUpJY1Y1QkZ2ODRhU3RrejlyMUxpNmhsY0JzNGpRTjdlZllGU05VTmRoMDlmNnA3TWxDb2tfeTdWS2V0VzJXYTBPVTRObUJnWmIzdHhZdlpnZ0I2MHktdmp3UGpWTl9uQVk2cGF5TFRXdVk0M2p1MXYwazV5WTB6U2w3UlpKd3oweW1qcFpNT3lINjBSU2FvLXI4bjBSUHBIeHpzSg?oc=5
+- Stephen Hawking’s chilling prediction: Why AI could be humanity’s greatest creation or its ultimate downf - Times of India
+  The future of AI is in the hands of computer scientists, says
+  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxQLVF3eEI5VFlRR0NwdzlWQlFuTHVqcFgtcjRFbk02NG5fdEIyVVBFZXdGamE4b0VZVlBsUFdtSFRHT0RPdWdyV1RDOGRvN0JWcmRzQ0hYTVFtM1hTT05fVDNvbXNTMTBpV1BiZkNPRU9GVElpdnpza3RSU0RkS2hoNjhXZVhmZ1ZuRlN0YWw1M1JMRlFJaEJmRkVQejgtVzRzLXlKMC10Y0FhaVhVb1RjTmRLaUdPVVhpcUlnRGtvYmJSbm9uaFlPYzFwbTUxU0VvOWpiWjZfdDRYT0k5X3ZfbWdMY0k3MXVzR2JlRV9oT0Y4VG03NWdxVVBHYXRWWFFQQk5LWWhneTZ3azM0aVp2QUg4bmNzZnPSAZwCQVVfeXFMTkRSUVJKZnVySm5WWnc1UzAyNkxJUDVqOFJtME03ZUxZdF8zcERsdDRMYVNEQ2xWQjRvNHhOVzJ3RWd3dWd3S19FVEhoRGN5T1ByX0JYVUNZXzh3WElrYWdjNGd6V2FZY1ptaUd1SXFGejFQakVsOFZFZFRES3RvYjBhN3BoWmlfRC1TR2Y3MTBWWXpobGRvOE9rdmxPWE1GWnJUZWw1R2w4NWlXX3Z2Mm9nclFSMXRvRllyaloyamRSR0xRRkJ4UHlkWTEyTFk4aGRiQXI2bXVQb2ltUlBvZkw5RGEydEhzWDY4b3g5NHV2VEI3ZERidW1sU0dReFRKNmh3Ynh2YWtwMG5ZMjkxVmF4MWFaSUFmZmlWMnQ?oc=5
 
-- Bihar elections: Two INDIA bloc candidates withdraw nominations - The Hindu
-  Bihar elections: Two INDIA
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTNNUndSejBuR29sWm8xS2FGSmpfT1FxbEx5NS1Jckh4WHB1Y0RDeDM2bHdNQUdMakN2d3dVX0FVOWpIZ3RwdUNFM0hGSXoyZWNERVJhWGlEYVQzR09KN1VxMzdsYnNPMUwwdmotNGpWYS02SWJmTF9hS1VBT29LLWdSS2h0T2puYy1pdFlQNlBFd1FZMjF6TXloeXNybnNaQkFVZWJYaEtVQW55aHFMbUc2ZXRNTGFHYWI2QldDSld5dDR2WUHSAcwBQVVfeXFMUHVmRUd3OFVZc1BaQWQ5ek8wWUxUQUZfSE12ZDRaMEJmREUzNnJyNDdUZGNUWk5sckZqeVFCOE5IRXFLMUM1eE5jczNXN1RmQzBmNmwyRHh4QlhaLVZDQ0RTWnh6ODdrMmxBWkYyOVA2RDhYdHNjMUZuNXF4eEZoTXZVMDJhNTlJbENIWjlhZ21wWmxnX244bmVWNHVyUUctVVZHREI3R21BRllyc2JvbnZZc1ZiQTJrODR2TldrY1VfTk0tOUFQdzE5b0JU?oc=5
+- Alaska Airlines Grounds Its Aircraft Due To Technology Outage - NDTV
+  Alaska Airlines Grounds Its Aircraft Due
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxORURhODdVbUI5c3RySTdyLVZvVGJPZnNfTWFQOEFCQm9xdWdnbHFySG0xMXlSZVNic3RRR3NOWVBXbTliMjRLZ0RpV2hCdzQwZUkyenEwWWVZa3d6eXBLYXhiUFV4anJWcDFHUFBlbEMyaWNYSkxBODlKV2VwZkJaZzZOdHBHYW1Ed3MyYVpfQVU4b0w5azY0SWREbGpfcGpkWDdYa1MxclRFcHRpZ05faWZTdzRJRnY50gHAAUFVX3lxTFBlNmtFSXBrVlFnd1Y3WGhVSDRhX3Npcm5yaWRjOXU2TW5TRXQxQUZLQVBadEFxVnB6N3lLeEg2cmpIUmJtVGFqRlpxSTUyck5FbDYzZWdfd2lvcEpLY1E1am41ci1oUFY0QUFUdEotbDM2OHE5VFNYX1Rmc0JXQVNnR2dRMFpMM3k3UWZwcmktYlhIcEtfeVZzemtIeHhwYjZDdGkxVGRoUVpqOVpQNjVWYVRWeEFhcl85RUYxQVByag?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Top Strategic Technology Trends for 2026 - Gartner
-  Top Strategic Technology Trends
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE5rSmhUdUNVRmJuc2huUU9mdWFuWDVLcjRlX21jVDI3UzZYcWFRX002WnRvaEZjczJDVEpaUXFCNG1nTG1xQlVKX040RFJ6aHJNZEtqWjdud1FGemNYaTI0aU1SeHE2S04wN2tBTzJWNA?oc=5
-
-- ET Startup Awards 2025: Chakr Innovation eyes international foray and new technology - The Economic Times
-  The Economic Times: Chakr Innovation eyes international foray and new
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMmplUV96aDEyQnkyTmRvYTJVWFhOdGYyU19fMGxBQW5Zdzd5WV84T3NlRG5scUtUQ3REZnlKNnZyVXY2ZHVrWTJPQ19CbU9RVTd3ajM5Y094OE92VUVWWnUycE51UVlNbFpzQjh1cGVFdGVwWWxFc0tsRDJSVmE1T3ZKSElFaDhyMjU5ZnJRWmR2bzVGNHVNdVRfTThEVl9xTUJWeVRFN2tRcTZpVkhKTnNGa2cyTEhDU2gyenFwclZPTDJrWGQ2Q0J0Yk5NSG9FY2hWNjdDQXVuRDdxOWtFXzVsYUQtMUdKUEVCYXJQWE5YZ9IB6wFBVV95cUxNV2Zpb3psUUtNWGNGazZJanBweWhJM0hpS3JLQlZ0TTJZd0d5S3VEX3Zoenltd0xKMVdpVHZULU01eVlfUDhYNFhzdEdOdkNLdDlrQVFleUlKcEZlRW1BSDl4aXlGMnJ2U2Y2UjQ0WDVmTGt2RF94MHdReTR4bFY2SHVTZUd3bUNtQ091OFI0dl9JdUpyTzRzUzlOSWdmNkxwaVMza0VKMjdqaDlMeXRhQllCUmtYUzdDeTQ5bGpiWHd6aGlubnVKUkstZlNJNVpROGFLUl9zdGQzdXJqZGh3SVBSV1lOaXUzdjhN?oc=5
-
-- Andhra Pradesh IT Minister Lokesh invites Australian collaboration in education, technology, tourism and health - The Hindu
-  Andhra Pradesh IT Minister Lokesh invites Australian collaboration in education
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxOaWdXdmpNeG9UU0FJTWhzeDR1WHF4VW5rdmxqakR6b1dLOTBUaXFCWWtNTXFMUXV3OUxBdTV3b0J3b01Gd2dncmMtU0l6bnF3STZ2eENlanRrMHJTU1JCcWdVcmxGemk4QWFUSElZY3dCTW5QdlVzNW9nM3p2YnFmaVN2YkM5VlRXYW96S3V3M2VsWVRDd1NKeUVZc1F5SFBKVVRlenVDZUEtQWQtVVVkWlc1c0JvUHc1R1VOQk5ERzd3MmNLYUp3UlFPUHB3TzEwb3lYZ1hicEo2UEJUVTRSSmNPV1F0SU1PeU5qMUxDZk5ISmJ1NHE0UDJOSEc0TXlZUGNaTFplelAxYWYyLTBHVtIBlwJBVV95cUxOQ1RCY3g4aXNLLVhibzVVX2tDS2N0Q0dpSFNuaGN3ZlA3M0dqUHlZNVhHcU1xYVFBYWI1RThsWWtMSi1SR0RXN2tJOUNPT1Nob2tNeFJTN25TbFlhM1NqMk1sSlF5UzBQQ09oR1lLUUpNWldkNXJKdThuMFFuT1B1MFBzUFN1RTREaTRGTzdkSGVTVzFpSEV3VFJpZ25HZ1FBVnM0b3I0LVdDX0VLdm9Ua1F4M0xiZlV0amV2VmxzOG5SMTI1QVJsNXVGeWdjN2F4Z1JsM3JianZXdnU2WGJxNE9TSzd0cUcxQTd5bmxZbGhkT2daNWt2WFF6MWxERTllby1RZE5hbXZJb01rWG92V3dmQWxFM00?oc=5
+- Russia acquired Western technology to protect its nuclear submarine fleet - The Washington Post
+  Russia acquired Western technology to protect its nuclear submarine fleet
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTZmZm91T0JlbG9lQUJBYVd3d3hzWWtFMVFtaWhfTFVZUUxEdzhRXzdHQVVhQl83U2lQa3FhbkRjRjRhYzB5QlBvUEt2M09GTERndFpVd0xIbWlHTjhsZVhmNllRUUt5aFItbTdWLTBIYjJ5SGtLdU12ME01eXhndGhiTU51NnVldlZweDJkdVFLRDdLYjR3OHBNMDdXeDk1Nmc?oc=5
 
 - Introducing AWS RTB Fabric for real-time advertising technology workloads | Amazon Web Services - Amazon Web Services
   Introducing AWS RTB Fabric for real-time advertising technology workload
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHNiRDZFYmt1RHV1cXRoZUM3QWpOUV9icV8yNFpwd05vajI0UU04TERMRWF2dU9PREN3Zi1ZLUhZemNkMTVqRDUwdmFtZE93UnNxcXJnWUVRYzYwai1sYWNFT05rRFFXeUdxLTU0YmxLa0J3SEVnVWp0ZVhpS3FJR3FEaWJEQkdFemJCRW1IOFVGdVBYNGZSLUJwZXgtRVljUGJaZjFQeWJ6UTQ?oc=5
 
-- YouTube’s likeness-detection technology has officially launched - TechCrunch
-  YouTube’s
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOUEhULUNRallxQ1RxVEpDVWE1R2dSeXRqbXpxdTR5YS11YTlnN285OGRHWUdKUmw0M3hjLU1rVkhzZklJemhNYU1QcUZ6SS1UNzIwQ0JVN3NxZk1ac0ltWExuU1d2RmJtWk1UaGFnM3dhTmlncGx6V0xjOWctbXFaUmluTnN4eVdHeGdVWDZRUXdrX0g5ZlAxenh0cVlwQQ?oc=5
 
-
-_Last updated: 2025-10-24 01:08:59 UTC_
+_Last updated: 2025-10-24 06:26:41 UTC_
