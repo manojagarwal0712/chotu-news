@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Jaishankar says UN ‘visibly gridlocked’ as Pakistan shields terror outfit linked to Pahalgam attack
+- EC asks parties not to use AI-generated masquerading content without consent
   
-  🔗 https://indianexpress.com/article/india/jaishankar-says-un-visibly-gridlocked-as-pakistan-shields-terror-outfit-linked-to-pahalgam-attack-10324517/
+  🔗 https://indianexpress.com/article/india/ec-asks-parties-not-to-use-ai-generated-masquerading-content-without-consent-10325266/
 
-- Kerala govt signed an MoU with Centre. Junior partner CPI now says it wasn’t consulted
+- Sujanpur made mistake in 2017 by not electing BJP’s Dhumal: Sukhu
   
-  🔗 https://indianexpress.com/article/india/kerala-mou-with-centre-cpi-was-not-consulted-10324381/
+  🔗 https://indianexpress.com/article/india/sujanpur-made-mistake-in-2017-by-not-electing-bjps-dhumal-sukhu-10325256/
 
-- Yatri Suvidha Kendra: Indian Railways to build permanent holding areas at 76 stations for crowd control – Full list
+- Mobile blast triggers fire on Amritsar-Purnia Court Jan Sewa Express train, says Railways
   
-  🔗 https://indianexpress.com/article/india/yatri-suvidha-kendra-railways-permanent-holding-areas-76-stations-crowd-control-10324233/
+  🔗 https://indianexpress.com/article/india/mobile-blast-triggers-fire-on-amritsar-purnia-court-jan-sewa-express-train-says-railways-10325144/
 
-- For the first time, Railways allows empty passenger trains to run on Dedicated Freight Corridor – Here’s why
+- Kerala HC declares Mohanlal’s certificates for possessing ivory tusks invalid
   
-  🔗 https://indianexpress.com/article/india/railways-permits-empty-passenger-trains-dedicated-freight-corridor-10324246/
+  🔗 https://indianexpress.com/article/india/kerala-hc-declares-mohanlals-certificates-for-possessing-ivory-tusks-invalid-10325092/
 
-- PM Modi: ‘Bihar will keep Jungle Raj away,’ praises Nitish Kumar, hints at him as NDA’s CM candidate
+- Chhath Puja 2025: Central Railway to run 24 special trains on October 26 – check routes, stoppages, timings
   
-  🔗 https://indianexpress.com/article/india/pm-modi-rally-bihar-assembly-elections-updates-10324183/
+  🔗 https://indianexpress.com/article/india/chhath-puja-central-railway-run-24-special-trains-october-26-10324945/
 
 - Microsoft’s Copilot Fall Release adds group chats, memory, and Mico avatar
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-playstation-5-ps-5-pro-firmware-update-new-features-10324137/
 
-- WazirX is back after 15 months, but regaining users' trust won't be easy, experts say
-  The key worry, industry stakeholders and users said, was that the cryptocurrency exchange failed to let its users withdraw
-  🔗 https://www.livemint.com/companies/news/wazirx-wazirx-user-funds-wazirx-hack-bitcoin-btc-indian-crypto-exchange-11761301755739.html
+- Crompton Greaves secures major solar rooftop order worth  ₹445 crores
+  The project will involve the installation of 2 KW on-grid rooftop systems across over 40,000 households in And
+  🔗 https://www.livemint.com/companies/news/crompton-greaves-secures-major-solar-rooftop-order-worth-445-crores-11761325111969.html
 
-- Perplexity’s Aravind Srinivas on why Google Maps and YouTube are so hard to beat
-  Aravind Srinivas, CEO of Perplexity AI, expressed on X that replicating YouTube and Google Maps is extremely difficult. He mentioned that while other Google products
-  🔗 https://www.livemint.com/companies/people/perplexitys-aravind-srinivas-on-why-google-maps-and-youtube-are-so-hard-to-beat-11761292428787.html
+- Jury is out on how big a hole will Russian oil leave in Reliance's margins
+  US sanctions on Russian oil could impact Reliance Industries' refining margins, with estimates ranging from negligible to $5 per barrel. Rising diesel cracks may help offset losses.
+  🔗 https://www.livemint.com/companies/ril-reliance-russian-oil-us-sanctions-ukraine-war-grm-margins-ebitda-opec-crude-oil-iea-refinery-rosneft-lukoil-war-11761317313229.html
 
-- Tata-owned Jaguar Land Rover's UK output drops 27% as cyberattack affects production — Here's what we know
-  Tata Motors-owned Jaguar Land Rover's total output in the United Kingdom market dropped 27% as the September
-  🔗 https://www.livemint.com/companies/news/tataowned-jaguar-land-rovers-uk-output-drops-27-as-cyberattack-affects-production-heres-what-we-know-11761295609580.html
+- TVS eyes shift to top gear with plans for Norton's revival
+  TVS Motor Co aims to enhance Norton Motorcycles' global presence. It has invested  ₹1,000
+  🔗 https://www.livemint.com/companies/news/tvs-uk-premium-motorcycles-two-wheelers-norton-investment-eu-western-markets-premium-brand-automobile-global-visibility-11761300896964.html
 
-- Zomato's Deepinder Goyal unveils $25 million fund for ‘Continue Research’; aims to support seed funding
-  Deepinder Goyal unveiled a $25 million fund for his ‘Continue Research’ project. The project aims to support researchers with seed funding to explore
-  🔗 https://www.livemint.com/companies/news/zomatos-deepinder-goyal-unveils-25-million-fund-for-continue-research-aims-to-support-seed-funding-11761297191322.html
+- Dr Reddy’s Q2 revenue beats estimates buoyed by consumer NRT portfolio
+  The company is banking on key new launches, including weight loss drug Semaglutide and biosimilar Abat
+  🔗 https://www.livemint.com/companies/news/dr-reddy-s-q2-earnings-revenue-beats-estimates-nrt-portfolio-pharma-11761314012650.html
 
-- $37.6 million per head! This UK-based firm crushes Nvidia, Apple, Microsoft, Google and Meta combined
-  OnlyFans has achieved the highest revenue per employee globally, compared to tech giants Apple and Nvidia. The platform operates with about 42 employees,
-  🔗 https://www.livemint.com/companies/news/onlyfans-employees-geenrate-37-6-million-revenue-per-head-uk-firm-crushes-nvidia-apple-microsoft-google-meta-combined-11761296243075.html
+- Coforge outshines in Q2 as IT rivals navigate haze
+  The country’s five largest IT outsourcers are still uncertain about the macroeconomic environment. None of the top five expect a clear-cut demand revival
+  🔗 https://www.livemint.com/companies/coforge-grows-fastest-amongst-indian-it-outsourcer-for-fifth-straight-quarter-ai-tools-deals-tech-spending-persistent-11761313412667.html
 
-- Silver, gold rates decline over 2% ahead of US inflation data — Check analyst targets and outlook
-  Gold and silver prices fell on October 24 as traders awaited US inflation data. Despite recent declines, both metals have seen significant gains this year, with gold up 60% and silver up 67%.
+- AMD shares jump over 7% on Wall Street as tech giant IBM uses chips to run ‘error correction algorithm’ — Details here
+  AMD shares jumped over 7% on Wall Street on 24 October 2025 after the tech giant IBM announced using the company's chips to run an ‘error correction algorithm’
+  🔗 https://www.livemint.com/market/stock-market-news/amd-shares-jump-over-7-on-wall-street-as-tech-giant-ibm-uses-chips-to-run-error-correction-algorithm-details-here-11761324271439.html
+
+- SBI Cards Q2 Results: Net profit rises 10% YoY to  ₹445 crore; spends up 31% YoY, asset quality improves
+  SBI Cards reported a 10% YoY increase in net profit to  ₹445 crore for Q2 FY26, but a 20% QoQ decline. Total income
+  🔗 https://www.livemint.com/market/stock-market-news/sbi-cards-q2-results-net-profit-rises-10-yoy-to-rs-445-crore-spends-up-31-yoy-asset-quality-improves-11761314585387.html
+
+- US Stock Market today: Dow, Nasdaq, S&amp;P 500 open higher as US inflation data fuels Fed rate cut bets — Details here
+  Dow, Nasdaq, S&amp;amp;P 500 open higher as
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-nasdaq-s-p-500-open-higher-as-us-inflation-data-fuels-fed-rate-cut-bets-details-here-11761312852795.html
+
+- Silver, gold rates resume losing run, drop over 2% — Check analyst targets and outlook
+  Gold futures dropped to  ₹121,400, while silver futures hit  ¹145,080.
   🔗 https://www.livemint.com/market/commodities/silver-gold-rates-decline-over-2-ahead-of-us-inflation-data-check-analyst-targets-and-outlook-11761307530200.html
 
 - Aditya Birla Sun Life AMC Q2 results: Profit remains flat at  ₹241 crore; revenue rises 9%
   The company's revenue from operations rose 9 per cent to  ₹461.3 crore in the July-
   🔗 https://www.livemint.com/market/stock-market-news/aditya-birla-sun-life-amc-q2-results-profit-remains-flat-at-rs-241-crore-revenue-rises-9-11761307881244.html
-
-- SBI Life Q2 Results: Profit falls 7% YoY amid rise in costs, drop in investment income
-  The insurer, backed by State Bank of India - the country's largest lender - posted a net profit of 4.95 billion
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-life-q2-results-profit-falls-7-yoy-amid-rise-in-costs-drop-in-investment-income-11761307610323.html
-
-- Sigachi Industries Q2 Results: Profit halves to  ₹10.5 crore amid 19% YoY decline in revenue
-  The company's EBITDA stood at  ⁹75 million, a substantial drop from  ₹293 million in the same quarter last year. Net profit for the quarter was   �
-  🔗 https://www.livemint.com/market/stock-market-news/sigachi-industries-q2-results-profit-halves-to-rs-10-5-crore-amid-19-yoy-decline-in-revenue-11761307201019.html
-
-- Crude oil prices set for biggest weekly jump since June: What's behind the rally and outlook ahead?
-  Analysts believe that crude oil price rally could sustain in the near term, especially if these supply-side
-  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-set-for-biggest-weekly-jump-since-june-whats-behind-the-rally-and-outlook-ahead-11761306209029.html
 
 - Apple’s A20 chips could make iPhone 18 the fastest yet – Here’s why
   Apple is reportedly developing A20 and A20 Pro chips for the iPhone 18 series. The chips are expected to use TSMC’s 2nm process for improved performance and efficiency.
@@ -100,125 +100,125 @@
   Samsung tablets are dropping in price this year, offering premium features like AMOLED displays, S Pen support and long battery life for less.
   🔗 https://www.livemint.com/gadgets-and-appliances/massive-price-drop-on-samsung-tablets-top-deals-you-shouldnt-miss-11761281821844.html
 
-- Markets News, October 23, 2025: Stocks Gain as Investors Monitor China Trade News, Earnings Results; Oil Futures Surge - Investopedia
-  &nbsp;&ngt;<font color="#6f6
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bEQ4QjRYcW1ISHJzSWdtYlZxSnVwQ082cXdHUF9vN25GSGZlZmFsbUR4VzVJUEtQcnlqODluLXdKWS1oVXVFSTNnaGEtM05CQnZpSHoxbWZNdnZPc2t6V2lneEJOaXRxck11d3BXSQ?oc=5
+- Dow rises 500 points to record as Friday's rally on mild inflation data accelerates: Live updates - CNBC
+  Dow rises 500 points to record as Friday's rally on mild inflation
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5oMFNjbkVLYjF2ejVfRzRRWkJuQUhSVDhpWEU5cXdYNDI3Vm5JOGFIRURuQ3dCeG9OWnpES01IdlB2bHRoRmJtc3liX0s2bGFkNUFwQTRPV29rRFp1dVZrMVdLYWx4YWxZekNRSmh3Q1VwcEcxd3d30gF8QVVfeXFMUDlmNG40TUNzWHI2NklXVzBtX2drZkwxazdUX3RnX3EzOFJJMXpNOWoyN2hTX3BpZl9weU1kand5ZTIzcEk2M3VMWGNkeDNKLUMxT1l2S2lGenpYeDZiQ2ZXSlJyQ05BRnYydjVwVExmSU5wOXQ2WnZyQmtrQQ?oc=5
 
-- US Futures Rise Ahead of Key Inflation Reading: Markets Wrap - Yahoo Finance
-  US Futures Rise Ahead of Key Inflation
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQW16TlBMQ2pDQ2tyLTc3SFFqUW01YUVlQVc1OHFxZE9RZHFKSGcxR19PWHpqclFwa1Y3UGc3V1JubTMzTEN1bGZ2bVZSU3J4Q25MS1gyN1ZIS1NLeEI4WjBoMVI4WWlEQU8wbXVYUUd5LVhFcm5PZG9vTHotbW8tOA?oc=5
+- US Futures Rise Ahead of Key Inflation Reading: Markets Wrap - Bloomberg.com
+  US Futures Rise Ahead of Key In
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTlCckc0b0Q5QjV4MHFtakFhNm1jOGo1X2h1WjJzSkx1QkEwYy1wdUZ4R1gzTEZHYlZuRWxWdUx0d0RpR2RBczRqXzlOTGQ1cG9vSXVyd3hQSks5aWlnZEJ6d0l4dlRFbjNoYzlIMDE1U19kQXlmVVI5QXpVRHBXa0pIMUNrZ2I2aXU2bkhYc0JCcUl3?oc=5
 
-- Global Markets Rise; U.S. Inflation Data Eyed, Gold, Oil Down - WSJ - The Wall Street Journal
-  The Wall Street Journal reports that U.S. Inflation Data
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVA3eUdvMGtQQVh6eGNLQ3U4andZOExfdGlrZ09rTDFaRENwUGVFbGV4dkVQZWIzcjc3LUctbElRQU1nTGM0d1RSRjVKVWJvOXpES2I2MEE3NFVrak80YUFLcGVhUzY4Q1JvSEZwSGFpM3k2c25iWFkzMkJrSFFBWEtoQkgwei1LVDNRbVVlVE9GSDloUFhQVDln?oc=5
-
-- Fed’s Portfolio Unwind Gains Urgency as Markets Flash Warnings - Bloomberg.com
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1BPYVItVFA3Mi1USUhVZ3lITlBQc0NHeU9QZGN0ZFBKNzAtTmJJTm5fblFmR29uWXVGUUpzdTg5Q2xpWVFoMDNFRDRpNVR5eHloUU90NEZDX2Z1RDhQdHgxR1Z0ZXRscjBuamlkZFMyUDJZRGZoRDNGYUNlTFFPbnJ4OFpnb09hMUhseXRUVnlUbWg3NC0zQ3lZTG9pX2tWbHlBS1VaME1fMEZUSk50SjhtVQ?oc=5
-
-- MTR parent Orkla sees high growth in regional markets, not looking at pan-India presence - Moneycontrol
-  MTR parent Orkla sees high growth in regional markets
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUFRFaGxRTl9nOFVTck9DNTY5VUZGT0l0UWtUZmlrbzdDWUhjSXotWjFaWDRZV2VXN1BTeXFWUG9NdE02V1lSeEhQQ3ZZRm81VG1tTmJSMGlYZzNyOFM4YWNBTnJDbHBIbVVsZTctZDJZamhSUXBUUXJRTUZoMDMtU3ljNmswQnVCMkk5QUk0dzlCYXRJTUVzUjEtQ2c1VjRYeTBxZk4zdDl3a2dXNkY3WGtWN1pLM1ZEY1k1WFRxXzBFNmlnZGtvLU14NGZVZWVxMnFwOXZXM0lsVF940gHiAUFVX3lxTFA0ZnFnLVRJSGZQeng4QWdyTWF0MzdJT3ZtV05QM05QUThOd3BMdmFadXZUT3k3Uk1KYk85Wk1McHJZSXhyMmhhT1hsOWZDcnBGb2lsTnprVHZ5cnI1dHpTMFVpZXpSVU9aVGxkTUJCdzRJTEhZNFl5S29XaXViMEw2MFRKTHFJVm9maERLdnotM1FyOUtuY200cy0yV0JsNWE2alZ1VElQRjBSN1pMb3JlN2htVUpVYlhGQXdrRDFTMk1JWXg1WlNtY2ozMWVldEhDdnhyRHZkX2pBX09YVkNoV0E?oc=5
-
-- Markets News, October 23, 2025: Stocks Gain as Investors Monitor China Trade News, Earnings Results; Oil Futures Surge - Investopedia
-  &nbsp;&ngt;<font color="#6f6
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bEQ4QjRYcW1ISHJzSWdtYlZxSnVwQ082cXdHUF9vN25GSGZlZmFsbUR4VzVJUEtQcnlqODluLXdKWS1oVXVFSTNnaGEtM05CQnZpSHoxbWZNdnZPc2t6V2lneEJOaXRxck11d3BXSQ?oc=5
-
-- US Futures Rise Ahead of Key Inflation Reading: Markets Wrap - Yahoo Finance
-  US Futures Rise Ahead of Key Inflation
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQW16TlBMQ2pDQ2tyLTc3SFFqUW01YUVlQVc1OHFxZE9RZHFKSGcxR19PWHpqclFwa1Y3UGc3V1JubTMzTEN1bGZ2bVZSU3J4Q25MS1gyN1ZIS1NLeEI4WjBoMVI4WWlEQU8wbXVYUUd5LVhFcm5PZG9vTHotbW8tOA?oc=5
+- Stock Market Close: Sensex slips 345 pts; Nifty at 25,795; FMCG, bank stocks fall - Business Standard
+  Stock Market Close: Sensex slips 345 pts; Nifty at
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQVmV5TFRoaGZZTUZSbDh6d1BhXzZMOW9kVlJmUTd3QVpBWktNYmRUc1V2VVFIc3plOXk4QjRPY1dVbEUtelJkVHNDZ2ZmVXl5VVYtLVVmTHc3RTU5NlJ1RHQyN2hSQlVIakhvcWc5RUM3RktMQ0ZrOXBNZmgycjlEVUtmUEx3NmNIV3JOMERKeUlnZmcwYVl1UUtEV0tnZWtiY1BpX2w1V3FucDZ4NmxMaTg3TURBQlNoWi1NMXRYc1pkNVNaNlFPaHhMa09FSmdTblBkb2FhLTBVVVlSRzVrOEUzNDJHcnJzS001cTVWRGpBN0U4UUJqLUs5cWVCYVNWam1jeVlsTVZZNGtwaFZvVm5vd9IBmAJBVV95cUxNZHpWUHpoTUxJWVJuU2tkM1IzS2lqTm5MN0VhUW5qREg0NkVtZkdkOUVkNkZuT3p0alJiNG9FYmE2NG94QXVRT0g1MW42cEF6OWZaVHd1bXdmcXhmSEl3ZlRQSjZjYVZLZk5XVUgxaWdGNUV0RDlKdmIxRE5KeXUzeEpGWnRBQ3pKUU9OWmVGcUJmS1Z4S3F4eDY0cVAtSi1uY3BpaENJeUljUG9LN0Zla0c4ckRTektTU01yMFpyU3k2RGVNR2tySU1QS084Q210OW5PdHhFeHg0cVVaVW9JcF9odlJmYUZYMXpCd0xxNG9IeEozbnFkdENxdTlVR2RUT0VYd19pSnlEc2pMVzdwbUhWWVZtaUJM?oc=5
 
 - Global Markets Rise; U.S. Inflation Data Eyed, Gold, Oil Down - WSJ - The Wall Street Journal
   The Wall Street Journal reports that U.S. Inflation Data
   🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVA3eUdvMGtQQVh6eGNLQ3U4andZOExfdGlrZ09rTDFaRENwUGVFbGV4dkVQZWIzcjc3LUctbElRQU1nTGM0d1RSRjVKVWJvOXpES2I2MEE3NFVrak80YUFLcGVhUzY4Q1JvSEZwSGFpM3k2c25iWFkzMkJrSFFBWEtoQkgwei1LVDNRbVVlVE9GSDloUFhQVDln?oc=5
 
-- Fed’s Portfolio Unwind Gains Urgency as Markets Flash Warnings - Bloomberg.com
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1BPYVItVFA3Mi1USUhVZ3lITlBQc0NHeU9QZGN0ZFBKNzAtTmJJTm5fblFmR29uWXVGUUpzdTg5Q2xpWVFoMDNFRDRpNVR5eHloUU90NEZDX2Z1RDhQdHgxR1Z0ZXRscjBuamlkZFMyUDJZRGZoRDNGYUNlTFFPbnJ4OFpnb09hMUhseXRUVnlUbWg3NC0zQ3lZTG9pX2tWbHlBS1VaME1fMEZUSk50SjhtVQ?oc=5
+- Markets News, October 23, 2025: Stocks Gain as Investors Monitor China Trade News, Earnings Results; Oil Futures Surge - Investopedia
+  &nbsp;&ngt;<font color="#6f6
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bEQ4QjRYcW1ISHJzSWdtYlZxSnVwQ082cXdHUF9vN25GSGZlZmFsbUR4VzVJUEtQcnlqODluLXdKWS1oVXVFSTNnaGEtM05CQnZpSHoxbWZNdnZPc2t6V2lneEJOaXRxck11d3BXSQ?oc=5
 
-- MTR parent Orkla sees high growth in regional markets, not looking at pan-India presence - Moneycontrol
-  MTR parent Orkla sees high growth in regional markets
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUFRFaGxRTl9nOFVTck9DNTY5VUZGT0l0UWtUZmlrbzdDWUhjSXotWjFaWDRZV2VXN1BTeXFWUG9NdE02V1lSeEhQQ3ZZRm81VG1tTmJSMGlYZzNyOFM4YWNBTnJDbHBIbVVsZTctZDJZamhSUXBUUXJRTUZoMDMtU3ljNmswQnVCMkk5QUk0dzlCYXRJTUVzUjEtQ2c1VjRYeTBxZk4zdDl3a2dXNkY3WGtWN1pLM1ZEY1k1WFRxXzBFNmlnZGtvLU14NGZVZWVxMnFwOXZXM0lsVF940gHiAUFVX3lxTFA0ZnFnLVRJSGZQeng4QWdyTWF0MzdJT3ZtV05QM05QUThOd3BMdmFadXZUT3k3Uk1KYk85Wk1McHJZSXhyMmhhT1hsOWZDcnBGb2lsTnprVHZ5cnI1dHpTMFVpZXpSVU9aVGxkTUJCdzRJTEhZNFl5S29XaXViMEw2MFRKTHFJVm9maERLdnotM1FyOUtuY200cy0yV0JsNWE2alZ1VElQRjBSN1pMb3JlN2htVUpVYlhGQXdrRDFTMk1JWXg1WlNtY2ozMWVldEhDdnhyRHZkX2pBX09YVkNoV0E?oc=5
+- US stocks scale record high as cool inflation data fuels rate cut bets
+  Indian markets saw a strong rally on Friday. Cooler inflation data boosted hopes for Federal Reserve rate cuts. Intel's positive earnings fueled momentum in AI-related stocks.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-scale-record-high-as-cool-inflation-data-fuels-rate-cut-bets/articleshow/124789573.cms
 
-- 'No deal with a gun to our head’: Piyush Goyal signals India won't give in to Trump's tariff pressure | Latest News India - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MD
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MDc1ektMdnRaU3Q1ZWpmTENYNXB0UFlMWUllZFZheEh3YjhHdl95dHh4aUdjd0lfWF9KOUFELUtXYXRzOGhqVHlyRDIxanE5TkxSUmZuU0xZU0FnaUZMeEU3WWFXU1k4WXJfUkJBQ043azVjTHJOY2RyYVJwaDc0RmVKOXcxRVU2SGF2UjVHRUZMNmxPMmxqZNIB_gFBVV95cUxNZTNIRVRMckl1Y3VQWkl1X1VfeEVvUF8wSEdJMHUxbTNvM1JXZkV6dm1yeDBzTktMeG5PQk41Zk1UUE9oVnRFOTk5bnczTmM3X2picHR0Zi1tcDN4VjBjenJsT2gxaGVNZTBMaGExOU1JYzFqdkN6RjRaSFA1UWVOYXlaZ3ZaZVVIaVFLeExYUjFTTnpvNE9hNVlDNW5QYmNvOElfdmFadTduc3VveldrMzlPSTJZMXJ1Uk8xeWRCcGpUUElLam1EUHZiUTlMeEpQb0JlcGV1X2Z4Z3hSOFdobEtyaTIzU3lUREZtcC1XTjZaQlpuTnRURGhKN0Z0QQ?oc=5
+- SBI Card Q2 Results: Profit rises 10% to Rs 445 crore
+  SBI Cards and Payment Services reported 10.15 per cent increase in net profit at Rs 445 crore for the
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-card-q2-results-profit-rises-10-to-rs-445-crore/articleshow/124788840.cms
 
-- Afghanistan To Echo India's Indus Water Move, Stop River Flowing Into Pak - NDTV
-  Afghanistan To Echo India's Indus Water
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWjBGZGVDSmRRajdHSVJzellTRE1ReUh3cG4zSE5NYmRWMEU3Rm5aUWZkbXdIa0J5czVOa0prcERyQVl0d2FNVVlSQmdNZHM4OHFpVzBZeWxhR3pJRl9CQ2tVZ3M1VjF3SHE2cE1sWEtFSEUxV2VNYl9NTnVRVUxidzZjQTZoOFFvRmVZcXZqbUNBbGpiQllfN3NyeG1fdUFwOHhJamJZSFAwUS00X3hZNDlFRmxPMUFPSXpJZlFnZ0xSejQ2ZmFtWGtzY0M0Qk55UkIxdXJMTW1NU1JjOTdGdklLX21wb2YxN2tPdVB4dGRTM2dmNnhUUzF30gGCAkFVX3lxTFBiWUZEanFrMmdjYnhtN1Q5U1dSRFJOdHVnVW80Z0tHRjRtbzdPdHFmanpXXzFqQzdqdjE2LThCUkIyNWZnUGNndmtJTEY1aC1jOVZSbllCeGo4cVhEbmRRMmhkN21SdmdqeUJPNVhCOTNuNS1OVS15cnNsTTRjOTg3amFQQWFIZXVLUThZTjQ0QWxYcHBYNmdjQkhsSnRJMWZzZXVCcUViYXlVenJ3RmpfQlJsQUw1OF9VdGxVU19qTndYeklYNmlfenNzc3NuaWd1MGpXQWZWcHVLa1ZaeXMzZ0wwdnFtN1FUZFQ0OU5mWk1DOHNCTU5wYjB0SE9TMHc2UQ?oc=5
+- Hindustan Coca-Cola Beverages FY25 profit down 73% to Rs 756 crore, revenue slides 9%
+  Hindustan Coca-Cola Beverages Ltd reported a 73 per cent decline in net profit to Rs 756
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hindustan-coca-cola-beverages-fy25-profit-down-73-to-rs-756-crore-revenue-slides-9/articleshow/124788760.cms
 
-- India rises to ninth spot globally in forest area: FAO - Times of India
-  India rises to ninth spot globally in forest area:
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVdlUmU1aER0VjJxaXlZeUktdlgzVEtKMUs2a2Z0UTJ0SmFqSFlXZ2VuNTU2SG01WGkxTHhLRzBKLU1sbmxuajR0b3VTNS16azFkWERjMFhNM0RkTGhMWVpEQW1zWnhVeEZSY3prdVZxSFlLVWxoSmpMSVZPOWpEVUNMOVpYODlqbzlMTUt0Q0lCOW4yb1ZzTFVJUWZKQmRndGROSW9IVW5xdGN1MHhQR2w5U180a09aWmhjMjRB0gHDAUFVX3lxTE40eTE1RE5fT2c1ZjJ2bUcyeDhjMXJtR24yMS1fWEZ5ZnZsazVWVnd2NElSdlJhcTNfZkNnMjRzdFpVSHM0SzFZLVhpTHVWYmMyOFhwdHRBSnp0d1AwelpJQURfSTFTRlF2RkQwQkdTV3VZblpGejRlRDlwWmdWeEl5UTA4eDdlN09oSVV1NndnOGx3dW5UVEZfV001VmhlOVhqVzczQjZndzYzdkEyYnpULVo4Mi1mZTl3bkhra05FQjFIdw?oc=5
+- Former IndusInd Bank deputy pays 50% of alleged insider trading gains to Sebi
+  IndusInd Bank's former deputy chief has deposited 50% of the alleged insider trading
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/former-indusind-bank-deputy-pays-50-of-alleged-insider-trading-gains-to-sebi/articleshow/124788635.cms
 
-- India trials Delhi cloud seeding to clean air in world’s most polluted city - The Guardian
-  India trials Delhi cloud seeding to clean air in world's
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkthR1N6bVR6ZUJha29ya0t2QW9TdWJBem5KcVdFd3FmTS1YeVRRMjJYR1dSZGd4dU0xZ1BXc3BJbmItS1h0bzRwOVdZd1NxSndLLUlMRm9SeERKNURmOGlTTFNLZmRqbkxBdG55UkJUUk5aOXhZNjROeHY2YjdfVmlaWUhZSjVnYVUxLXBscmIwbFllb3V2TUVDS0RqMFVYLXB0Qy1nSTR0ZzRmZkJVUGJKUzdmUVdreVptSVpkNDJXUzZHRnJIR0J3?oc=5
-
-- Women's Cricket World Cup 2025:: Can India seal dream after bouncing back? - BBC
-  Women's Cricket World Cup 2025: Can India seal
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsNkF6dS1LeXdOaGtTZU1YeFJ2REdOM29YZndSQnUyTk5YenNWR2d2enVvR0l1Q2I0N3Q1ZzJQcDMyaE5COXpLU0NndDNBdUV2THU0dmlfZHJkQdIBX0FVX3lxTFBtRXJmTWF4RUhvdC1lZ2t4NmZpUXFVRENBVmdQZXk2TS1Ka3JWM09VWWd6aEZNSmFGQ083elBhN1pfbl9Vb1dPbXl0cGdjM3RHQm1naWYtTV9aTGlkWllN?oc=5
+- Sebi allows transfer of PMS business to simplify operations, ease compliance burden
+  Sebi has permitted portfolio managers to transfer their PMS business. The move aims to simplify compliance, improve business flexibility, and ensure investor
+  🔗 https://economictimes.indiatimes.com/markets/stocks/sebi-allows-transfer-of-pms-business-to-simplify-operations-ease-compliance-burden/articleshow/124788579.cms
 
 - 'No deal with a gun to our head’: Piyush Goyal signals India won't give in to Trump's tariff pressure | Latest News India - Hindustan Times
   <ol><li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MD
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MDc1ektMdnRaU3Q1ZWpmTENYNXB0UFlMWUllZFZheEh3YjhHdl95dHh4aUdjd0lfWF9KOUFELUtXYXRzOGhqVHlyRDIxanE5TkxSUmZuU0xZU0FnaUZMeEU3WWFXU1k4WXJfUkJBQ043azVjTHJOY2RyYVJwaDc0RmVKOXcxRVU2SGF2UjVHRUZMNmxPMmxqZNIB_gFBVV95cUxNZTNIRVRMckl1Y3VQWkl1X1VfeEVvUF8wSEdJMHUxbTNvM1JXZkV6dm1yeDBzTktMeG5PQk41Zk1UUE9oVnRFOTk5bnczTmM3X2picHR0Zi1tcDN4VjBjenJsT2gxaGVNZTBMaGExOU1JYzFqdkN6RjRaSFA1UWVOYXlaZ3ZaZVVIaVFLeExYUjFTTnpvNE9hNVlDNW5QYmNvOElfdmFadTduc3VveldrMzlPSTJZMXJ1Uk8xeWRCcGpUUElLam1EUHZiUTlMeEpQb0JlcGV1X2Z4Z3hSOFdobEtyaTIzU3lUREZtcC1XTjZaQlpuTnRURGhKN0Z0QQ?oc=5
 
-- Afghanistan To Echo India's Indus Water Move, Stop River Flowing Into Pak - NDTV
-  Afghanistan To Echo India's Indus Water
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWjBGZGVDSmRRajdHSVJzellTRE1ReUh3cG4zSE5NYmRWMEU3Rm5aUWZkbXdIa0J5czVOa0prcERyQVl0d2FNVVlSQmdNZHM4OHFpVzBZeWxhR3pJRl9CQ2tVZ3M1VjF3SHE2cE1sWEtFSEUxV2VNYl9NTnVRVUxidzZjQTZoOFFvRmVZcXZqbUNBbGpiQllfN3NyeG1fdUFwOHhJamJZSFAwUS00X3hZNDlFRmxPMUFPSXpJZlFnZ0xSejQ2ZmFtWGtzY0M0Qk55UkIxdXJMTW1NU1JjOTdGdklLX21wb2YxN2tPdVB4dGRTM2dmNnhUUzF30gGCAkFVX3lxTFBiWUZEanFrMmdjYnhtN1Q5U1dSRFJOdHVnVW80Z0tHRjRtbzdPdHFmanpXXzFqQzdqdjE2LThCUkIyNWZnUGNndmtJTEY1aC1jOVZSbllCeGo4cVhEbmRRMmhkN21SdmdqeUJPNVhCOTNuNS1OVS15cnNsTTRjOTg3amFQQWFIZXVLUThZTjQ0QWxYcHBYNmdjQkhsSnRJMWZzZXVCcUViYXlVenJ3RmpfQlJsQUw1OF9VdGxVU19qTndYeklYNmlfenNzc3NuaWd1MGpXQWZWcHVLa1ZaeXMzZ0wwdnFtN1FUZFQ0OU5mWk1DOHNCTU5wYjB0SE9TMHc2UQ?oc=5
+- Top News Headlines of October 23, 2025 | King Charles III prays with pope in historic visit, a welcome respite from royal troubles at home - The Indian Express
+  The Indian Express looks back at the events of October 23, 2025. King Charles III prays with pope in historic visit,
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHZ2OVh5d25fV2loM3RHdDR2bkcxdmZuQmp6X1RKZ1VoUGUyczhqTlowTUtEREZyWndwLXdVcWVxRFJ0RDJJYlBNeG82YzE0aHlSd3dSZVdfZXhYYlV3UU5OV0hmUTRhVHREdnFCSk9uSjVGYy05TEdSQVZxRm4tZ016T0xNalNQZkpYSDdpVE45UW1XWnEtZnBETWhFUHFaT3h2eWRmTXc0bzNObFhxbW9Sd05wbGxpTGZXRVM0XzFIMlZZWTdMdmQ5X3p4RVRaRHI4dVZDVjZ2cVBzSTZaamNKOXhtZkNB0gHvAUFVX3lxTE4zOUxkeVJEMWs3di1nZ1BZMmJ2d2lUUWZEVU5OaE1kenBRYXNsY1BHMW12TDFtbmZIVGE3MjRjTi1vM2FwSlVpa0xaYmF2WWtXNVA3Y191U1F4b3ZWd0hieTRDb0cwUG5KcmtlM2VwZEVmQlhZZjNsSGVlTVNSd0xJOGZqOUNCLWZscy14al9pT29mN3V5ZVA4Q2hCcTFYUXRwOXVGXzlXZ1o0T2MzX0JCRy1PN3hZZXRHRDVqU21hMGdMQXcya01yN04yQmlob1dlZXVjdHRRVG13R1ZjOG5aOGx6Nll6anZhblBHbzVj?oc=5
 
-- India rises to ninth spot globally in forest area: FAO - Times of India
-  India rises to ninth spot globally in forest area:
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVdlUmU1aER0VjJxaXlZeUktdlgzVEtKMUs2a2Z0UTJ0SmFqSFlXZ2VuNTU2SG01WGkxTHhLRzBKLU1sbmxuajR0b3VTNS16azFkWERjMFhNM0RkTGhMWVpEQW1zWnhVeEZSY3prdVZxSFlLVWxoSmpMSVZPOWpEVUNMOVpYODlqbzlMTUt0Q0lCOW4yb1ZzTFVJUWZKQmRndGROSW9IVW5xdGN1MHhQR2w5U180a09aWmhjMjRB0gHDAUFVX3lxTE40eTE1RE5fT2c1ZjJ2bUcyeDhjMXJtR24yMS1fWEZ5ZnZsazVWVnd2NElSdlJhcTNfZkNnMjRzdFpVSHM0SzFZLVhpTHVWYmMyOFhwdHRBSnp0d1AwelpJQURfSTFTRlF2RkQwQkdTV3VZblpGejRlRDlwWmdWeEl5UTA4eDdlN09oSVV1NndnOGx3dW5UVEZfV001VmhlOVhqVzczQjZndzYzdkEyYnpULVo4Mi1mZTl3bkhra05FQjFIdw?oc=5
+- India is a crucial partner on Indo-Pacific; PM Takaichi committed to building ties: Japanese Spokesperson - The Hindu
+  India is a crucial partner on Indo-Pacific; PM Takaichi
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOa0psZFNzQnYtWGpBc0ZQSzNxOUNlYjZ2WngyTzRvVHY1UjkyaElMbDdNTmRkYjJ5U0JlczFyS0hFeFMwQkV6dFhsbkZ6cDVUYjZ4MlpGSFRQWmQ2ZEFvMk9EUzdGY2l4ZGJsbnNQVEdKdWJMNlUxU2VHQ19rZHZtd2RIR1ZiVlc0SEQzR1E5YnlxOU5LQURDcjNMY000VElqZjRnbUNqRU80TTlQRG9oemh4T0QwNVFxblV5U01XVzUtQnExODBIMmcwY2JTSElLc3l0eHFKdk96bzNON1V0UGxlOUJqdDFlemFLOTJtQ0czUFZKdWFFQkp2d9IBggJBVV95cUxOTnVLNE9mWkdCWlRKTjRNdUFfa194bHBPdHhkS2doVmZacEIza21SaFE0VUN0NXRzbkpNRjI0cl9TWFZQYUlzYkRWNTdHZ2FUT2FnSS02Q0oxd2I1RExjS3RrT0pPNVh0X181WVlpR29UUzZIRTl2SzFWU29YUGVYX1FmOXhqNm5ZdVRDaDZEVTNpRU9hVUE1enk2a2M2SUlzOXZaN0Q4dmRPbXdIUmpjdzN2Tk5xeE5ra3ZxUi1pQWhYcDFhX3o0NExpZUlnVFJqUHI5dzFsY1lrRjdER2lMblhFQk4yYUl6OTZlaDhkQW9lclNSekpNeEZnSGRqSENWSlE?oc=5
 
-- India trials Delhi cloud seeding to clean air in world’s most polluted city - The Guardian
-  India trials Delhi cloud seeding to clean air in world's
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkthR1N6bVR6ZUJha29ya0t2QW9TdWJBem5KcVdFd3FmTS1YeVRRMjJYR1dSZGd4dU0xZ1BXc3BJbmItS1h0bzRwOVdZd1NxSndLLUlMRm9SeERKNURmOGlTTFNLZmRqbkxBdG55UkJUUk5aOXhZNjROeHY2YjdfVmlaWUhZSjVnYVUxLXBscmIwbFllb3V2TUVDS0RqMFVYLXB0Qy1nSTR0ZzRmZkJVUGJKUzdmUVdreVptSVpkNDJXUzZHRnJIR0J3?oc=5
+- 'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell; reveals Washington expected - Times of India
+  'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell.
+  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPMUczaWxFQXhMWjQzVDg0alhSRXZxal9hNjFmNExSUHZpM0dDd2FQWnBNWjFVYlVtd3lyQXN1RDduVG8zWmlZTllOd1RSVldHWmRDQzBxTGtIVlFtWWp2aEczbnNUNkVJMk52QTg3OWlYYVJocVg4T19Vcl9lYk0xaW5CQVZEd18tUXpxdWlyaU1EWS00R1ZfNEh6cUI3WjBsMmNQYmRPa3FUMGVrRFh1eUNCVEl1NWNJR1NrVXpKNkZ0c3lZYXJlTmxXbHI1dWxkbExjd0dKZDRQRXlBRGxzX2VPeEMzMEVnaVVRaGRlTGtiOWJrM1YwNGhhcVR5NERJVkg1bFJScm5NbUN4TEV5UjYyUVhsSmd2TldhRUIyS1cyblBuaUHSAasCQVVfeXFMTkdyd2JFSmpOZUZsQ181SG9jZTFpdjZpU3FjWHU4NVNFSjBEOThYY0lBc01nTDF3MmVOYkVmN3c4eWlaRVFzQ1BBRXJuQnhobXlBRkxvTWdialU2MkR5YzhIMnY0dVRzcl8xbzNnVWZORkQtTHo1cmRHaU00NUxySl9oMm1HOUdoVmw4bDBwNWNpRkhqNldDWlppc1lXeVlya2tvS25GM09KMUtlU0ZFbUtrd1lBU0YyTFpNLVJwMFdOWG1YX2p5bjZyVnhBMGFlTkhJc0wwdGRFSkFEUHFwSjFYcFdfbTEzRHJSY0JlSnl2b3FrOFp2aTREN1ZTRzE5WnlrMVlMX09PUWgzeWJPZ2hlcEhmQ1VtSzVhaEVxdEVteHdaRjQ5VkZYYlk?oc=5
 
-- Women's Cricket World Cup 2025:: Can India seal dream after bouncing back? - BBC
-  Women's Cricket World Cup 2025: Can India seal
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsNkF6dS1LeXdOaGtTZU1YeFJ2REdOM29YZndSQnUyTk5YenNWR2d2enVvR0l1Q2I0N3Q1ZzJQcDMyaE5COXpLU0NndDNBdUV2THU0dmlfZHJkQdIBX0FVX3lxTFBtRXJmTWF4RUhvdC1lZ2t4NmZpUXFVRENBVmdQZXk2TS1Ka3JWM09VWWd6aEZNSmFGQ083elBhN1pfbl9Vb1dPbXl0cGdjM3RHQm1naWYtTV9aTGlkWllN?oc=5
-
-- 'No deal with a gun to our head’: Piyush Goyal signals India won't give in to Trump's tariff pressure | Latest News India - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MD
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MDc1ektMdnRaU3Q1ZWpmTENYNXB0UFlMWUllZFZheEh3YjhHdl95dHh4aUdjd0lfWF9KOUFELUtXYXRzOGhqVHlyRDIxanE5TkxSUmZuU0xZU0FnaUZMeEU3WWFXU1k4WXJfUkJBQ043azVjTHJOY2RyYVJwaDc0RmVKOXcxRVU2SGF2UjVHRUZMNmxPMmxqZNIB_gFBVV95cUxNZTNIRVRMckl1Y3VQWkl1X1VfeEVvUF8wSEdJMHUxbTNvM1JXZkV6dm1yeDBzTktMeG5PQk41Zk1UUE9oVnRFOTk5bnczTmM3X2picHR0Zi1tcDN4VjBjenJsT2gxaGVNZTBMaGExOU1JYzFqdkN6RjRaSFA1UWVOYXlaZ3ZaZVVIaVFLeExYUjFTTnpvNE9hNVlDNW5QYmNvOElfdmFadTduc3VveldrMzlPSTJZMXJ1Uk8xeWRCcGpUUElLam1EUHZiUTlMeEpQb0JlcGV1X2Z4Z3hSOFdobEtyaTIzU3lUREZtcC1XTjZaQlpuTnRURGhKN0Z0QQ?oc=5
-
-- Afghanistan To Echo India's Indus Water Move, Stop River Flowing Into Pak - NDTV
-  Afghanistan To Echo India's Indus Water
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWjBGZGVDSmRRajdHSVJzellTRE1ReUh3cG4zSE5NYmRWMEU3Rm5aUWZkbXdIa0J5czVOa0prcERyQVl0d2FNVVlSQmdNZHM4OHFpVzBZeWxhR3pJRl9CQ2tVZ3M1VjF3SHE2cE1sWEtFSEUxV2VNYl9NTnVRVUxidzZjQTZoOFFvRmVZcXZqbUNBbGpiQllfN3NyeG1fdUFwOHhJamJZSFAwUS00X3hZNDlFRmxPMUFPSXpJZlFnZ0xSejQ2ZmFtWGtzY0M0Qk55UkIxdXJMTW1NU1JjOTdGdklLX21wb2YxN2tPdVB4dGRTM2dmNnhUUzF30gGCAkFVX3lxTFBiWUZEanFrMmdjYnhtN1Q5U1dSRFJOdHVnVW80Z0tHRjRtbzdPdHFmanpXXzFqQzdqdjE2LThCUkIyNWZnUGNndmtJTEY1aC1jOVZSbllCeGo4cVhEbmRRMmhkN21SdmdqeUJPNVhCOTNuNS1OVS15cnNsTTRjOTg3amFQQWFIZXVLUThZTjQ0QWxYcHBYNmdjQkhsSnRJMWZzZXVCcUViYXlVenJ3RmpfQlJsQUw1OF9VdGxVU19qTndYeklYNmlfenNzc3NuaWd1MGpXQWZWcHVLa1ZaeXMzZ0wwdnFtN1FUZFQ0OU5mWk1DOHNCTU5wYjB0SE9TMHc2UQ?oc=5
-
-- India rises to ninth spot globally in forest area: FAO - Times of India
-  India rises to ninth spot globally in forest area:
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVdlUmU1aER0VjJxaXlZeUktdlgzVEtKMUs2a2Z0UTJ0SmFqSFlXZ2VuNTU2SG01WGkxTHhLRzBKLU1sbmxuajR0b3VTNS16azFkWERjMFhNM0RkTGhMWVpEQW1zWnhVeEZSY3prdVZxSFlLVWxoSmpMSVZPOWpEVUNMOVpYODlqbzlMTUt0Q0lCOW4yb1ZzTFVJUWZKQmRndGROSW9IVW5xdGN1MHhQR2w5U180a09aWmhjMjRB0gHDAUFVX3lxTE40eTE1RE5fT2c1ZjJ2bUcyeDhjMXJtR24yMS1fWEZ5ZnZsazVWVnd2NElSdlJhcTNfZkNnMjRzdFpVSHM0SzFZLVhpTHVWYmMyOFhwdHRBSnp0d1AwelpJQURfSTFTRlF2RkQwQkdTV3VZblpGejRlRDlwWmdWeEl5UTA4eDdlN09oSVV1NndnOGx3dW5UVEZfV001VmhlOVhqVzczQjZndzYzdkEyYnpULVo4Mi1mZTl3bkhra05FQjFIdw?oc=5
-
-- India trials Delhi cloud seeding to clean air in world’s most polluted city - The Guardian
-  India trials Delhi cloud seeding to clean air in world's
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkthR1N6bVR6ZUJha29ya0t2QW9TdWJBem5KcVdFd3FmTS1YeVRRMjJYR1dSZGd4dU0xZ1BXc3BJbmItS1h0bzRwOVdZd1NxSndLLUlMRm9SeERKNURmOGlTTFNLZmRqbkxBdG55UkJUUk5aOXhZNjROeHY2YjdfVmlaWUhZSjVnYVUxLXBscmIwbFllb3V2TUVDS0RqMFVYLXB0Qy1nSTR0ZzRmZkJVUGJKUzdmUVdreVptSVpkNDJXUzZHRnJIR0J3?oc=5
-
-- Women's Cricket World Cup 2025:: Can India seal dream after bouncing back? - BBC
-  Women's Cricket World Cup 2025: Can India seal
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsNkF6dS1LeXdOaGtTZU1YeFJ2REdOM29YZndSQnUyTk5YenNWR2d2enVvR0l1Q2I0N3Q1ZzJQcDMyaE5COXpLU0NndDNBdUV2THU0dmlfZHJkQdIBX0FVX3lxTFBtRXJmTWF4RUhvdC1lZ2t4NmZpUXFVRENBVmdQZXk2TS1Ka3JWM09VWWd6aEZNSmFGQ083elBhN1pfbl9Vb1dPbXl0cGdjM3RHQm1naWYtTV9aTGlkWllN?oc=5
+- ‘US Controlled Pak Nuclear Arsenal’: Ex-CIA Agent’s Bombshell, Says ‘Pak Can’t Win Against India’ - Times of India
+  ‘US Controlled Pak Nuclear Arsenal’: Ex-CIA Agent
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV1BCTlRqc2hqMm15S3FobUhscnZIejFySmJfaVlaeTREcTRzZ2p2WnR4SXJyc2pibG5iWjd3OGR3YjZPTTRrRUVDWUpvNVp4X2NhanlzR0FPbWFLMDlMbXhwX0ZOMGlyVE1VbDd1RjlJZkJVaWZnajdMM1RXVGYxdW9kX3U3QnJwaExTWHBFeXdHeXFGOXdQcFFCZGNqRVg3MUxqck5rMFNNU2kwWElhVkFyYUNuWkt1NHplc0lOUGRsSmM0MVlDbUlmdHlJZFl0VlhkVTJkWXJfLXRUNTc1WWc4RF9DOXliRmhCOXVKNGUwNDTSAfgBQVVfeXFMTk1DdVctS3poQnIwQ3RUYmFEOWZUWUIzOTN2MG5pTUp2TlpnM3pkQ2dXckpjTGVwV3YydHFqaGZhYUN2NUd0bkNkcm1YQ2twLWVRRG9hUzgwSmR4dHNBVkxBdHAwdzJiRWY3OHJpOWpBUGlqRmlrRDg0Uktsc0MtcUdac3lEWXRmdnZ5RU5lRzJiaEVVQUU3VWVzY2J1ZTdiU0VEbVN5Tk5wTTRhdHNpYzl1TE1iSmRrNzgycUQzTndZaGJ6ZUlBSDNxSzVMTzRhWjRQbFRpRWlVVWk4cG9XbmZMN0wtUktlU3EzbElrN1RESHJENGk5LUU?oc=5
 
 - 'No deal with a gun to our head’: Piyush Goyal signals India won't give in to Trump's tariff pressure | Latest News India - Hindustan Times
   <ol><li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MD
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MDc1ektMdnRaU3Q1ZWpmTENYNXB0UFlMWUllZFZheEh3YjhHdl95dHh4aUdjd0lfWF9KOUFELUtXYXRzOGhqVHlyRDIxanE5TkxSUmZuU0xZU0FnaUZMeEU3WWFXU1k4WXJfUkJBQ043azVjTHJOY2RyYVJwaDc0RmVKOXcxRVU2SGF2UjVHRUZMNmxPMmxqZNIB_gFBVV95cUxNZTNIRVRMckl1Y3VQWkl1X1VfeEVvUF8wSEdJMHUxbTNvM1JXZkV6dm1yeDBzTktMeG5PQk41Zk1UUE9oVnRFOTk5bnczTmM3X2picHR0Zi1tcDN4VjBjenJsT2gxaGVNZTBMaGExOU1JYzFqdkN6RjRaSFA1UWVOYXlaZ3ZaZVVIaVFLeExYUjFTTnpvNE9hNVlDNW5QYmNvOElfdmFadTduc3VveldrMzlPSTJZMXJ1Uk8xeWRCcGpUUElLam1EUHZiUTlMeEpQb0JlcGV1X2Z4Z3hSOFdobEtyaTIzU3lUREZtcC1XTjZaQlpuTnRURGhKN0Z0QQ?oc=5
 
-- Afghanistan To Echo India's Indus Water Move, Stop River Flowing Into Pak - NDTV
-  Afghanistan To Echo India's Indus Water
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWjBGZGVDSmRRajdHSVJzellTRE1ReUh3cG4zSE5NYmRWMEU3Rm5aUWZkbXdIa0J5czVOa0prcERyQVl0d2FNVVlSQmdNZHM4OHFpVzBZeWxhR3pJRl9CQ2tVZ3M1VjF3SHE2cE1sWEtFSEUxV2VNYl9NTnVRVUxidzZjQTZoOFFvRmVZcXZqbUNBbGpiQllfN3NyeG1fdUFwOHhJamJZSFAwUS00X3hZNDlFRmxPMUFPSXpJZlFnZ0xSejQ2ZmFtWGtzY0M0Qk55UkIxdXJMTW1NU1JjOTdGdklLX21wb2YxN2tPdVB4dGRTM2dmNnhUUzF30gGCAkFVX3lxTFBiWUZEanFrMmdjYnhtN1Q5U1dSRFJOdHVnVW80Z0tHRjRtbzdPdHFmanpXXzFqQzdqdjE2LThCUkIyNWZnUGNndmtJTEY1aC1jOVZSbllCeGo4cVhEbmRRMmhkN21SdmdqeUJPNVhCOTNuNS1OVS15cnNsTTRjOTg3amFQQWFIZXVLUThZTjQ0QWxYcHBYNmdjQkhsSnRJMWZzZXVCcUViYXlVenJ3RmpfQlJsQUw1OF9VdGxVU19qTndYeklYNmlfenNzc3NuaWd1MGpXQWZWcHVLa1ZaeXMzZ0wwdnFtN1FUZFQ0OU5mWk1DOHNCTU5wYjB0SE9TMHc2UQ?oc=5
+- Top News Headlines of October 23, 2025 | King Charles III prays with pope in historic visit, a welcome respite from royal troubles at home - The Indian Express
+  The Indian Express looks back at the events of October 23, 2025. King Charles III prays with pope in historic visit,
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHZ2OVh5d25fV2loM3RHdDR2bkcxdmZuQmp6X1RKZ1VoUGUyczhqTlowTUtEREZyWndwLXdVcWVxRFJ0RDJJYlBNeG82YzE0aHlSd3dSZVdfZXhYYlV3UU5OV0hmUTRhVHREdnFCSk9uSjVGYy05TEdSQVZxRm4tZ016T0xNalNQZkpYSDdpVE45UW1XWnEtZnBETWhFUHFaT3h2eWRmTXc0bzNObFhxbW9Sd05wbGxpTGZXRVM0XzFIMlZZWTdMdmQ5X3p4RVRaRHI4dVZDVjZ2cVBzSTZaamNKOXhtZkNB0gHvAUFVX3lxTE4zOUxkeVJEMWs3di1nZ1BZMmJ2d2lUUWZEVU5OaE1kenBRYXNsY1BHMW12TDFtbmZIVGE3MjRjTi1vM2FwSlVpa0xaYmF2WWtXNVA3Y191U1F4b3ZWd0hieTRDb0cwUG5KcmtlM2VwZEVmQlhZZjNsSGVlTVNSd0xJOGZqOUNCLWZscy14al9pT29mN3V5ZVA4Q2hCcTFYUXRwOXVGXzlXZ1o0T2MzX0JCRy1PN3hZZXRHRDVqU21hMGdMQXcya01yN04yQmlob1dlZXVjdHRRVG13R1ZjOG5aOGx6Nll6anZhblBHbzVj?oc=5
 
-- India rises to ninth spot globally in forest area: FAO - Times of India
-  India rises to ninth spot globally in forest area:
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVdlUmU1aER0VjJxaXlZeUktdlgzVEtKMUs2a2Z0UTJ0SmFqSFlXZ2VuNTU2SG01WGkxTHhLRzBKLU1sbmxuajR0b3VTNS16azFkWERjMFhNM0RkTGhMWVpEQW1zWnhVeEZSY3prdVZxSFlLVWxoSmpMSVZPOWpEVUNMOVpYODlqbzlMTUt0Q0lCOW4yb1ZzTFVJUWZKQmRndGROSW9IVW5xdGN1MHhQR2w5U180a09aWmhjMjRB0gHDAUFVX3lxTE40eTE1RE5fT2c1ZjJ2bUcyeDhjMXJtR24yMS1fWEZ5ZnZsazVWVnd2NElSdlJhcTNfZkNnMjRzdFpVSHM0SzFZLVhpTHVWYmMyOFhwdHRBSnp0d1AwelpJQURfSTFTRlF2RkQwQkdTV3VZblpGejRlRDlwWmdWeEl5UTA4eDdlN09oSVV1NndnOGx3dW5UVEZfV001VmhlOVhqVzczQjZndzYzdkEyYnpULVo4Mi1mZTl3bkhra05FQjFIdw?oc=5
+- India is a crucial partner on Indo-Pacific; PM Takaichi committed to building ties: Japanese Spokesperson - The Hindu
+  India is a crucial partner on Indo-Pacific; PM Takaichi
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOa0psZFNzQnYtWGpBc0ZQSzNxOUNlYjZ2WngyTzRvVHY1UjkyaElMbDdNTmRkYjJ5U0JlczFyS0hFeFMwQkV6dFhsbkZ6cDVUYjZ4MlpGSFRQWmQ2ZEFvMk9EUzdGY2l4ZGJsbnNQVEdKdWJMNlUxU2VHQ19rZHZtd2RIR1ZiVlc0SEQzR1E5YnlxOU5LQURDcjNMY000VElqZjRnbUNqRU80TTlQRG9oemh4T0QwNVFxblV5U01XVzUtQnExODBIMmcwY2JTSElLc3l0eHFKdk96bzNON1V0UGxlOUJqdDFlemFLOTJtQ0czUFZKdWFFQkp2d9IBggJBVV95cUxOTnVLNE9mWkdCWlRKTjRNdUFfa194bHBPdHhkS2doVmZacEIza21SaFE0VUN0NXRzbkpNRjI0cl9TWFZQYUlzYkRWNTdHZ2FUT2FnSS02Q0oxd2I1RExjS3RrT0pPNVh0X181WVlpR29UUzZIRTl2SzFWU29YUGVYX1FmOXhqNm5ZdVRDaDZEVTNpRU9hVUE1enk2a2M2SUlzOXZaN0Q4dmRPbXdIUmpjdzN2Tk5xeE5ra3ZxUi1pQWhYcDFhX3o0NExpZUlnVFJqUHI5dzFsY1lrRjdER2lMblhFQk4yYUl6OTZlaDhkQW9lclNSekpNeEZnSGRqSENWSlE?oc=5
 
-- India trials Delhi cloud seeding to clean air in world’s most polluted city - The Guardian
-  India trials Delhi cloud seeding to clean air in world's
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkthR1N6bVR6ZUJha29ya0t2QW9TdWJBem5KcVdFd3FmTS1YeVRRMjJYR1dSZGd4dU0xZ1BXc3BJbmItS1h0bzRwOVdZd1NxSndLLUlMRm9SeERKNURmOGlTTFNLZmRqbkxBdG55UkJUUk5aOXhZNjROeHY2YjdfVmlaWUhZSjVnYVUxLXBscmIwbFllb3V2TUVDS0RqMFVYLXB0Qy1nSTR0ZzRmZkJVUGJKUzdmUVdreVptSVpkNDJXUzZHRnJIR0J3?oc=5
+- 'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell; reveals Washington expected - Times of India
+  'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell.
+  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPMUczaWxFQXhMWjQzVDg0alhSRXZxal9hNjFmNExSUHZpM0dDd2FQWnBNWjFVYlVtd3lyQXN1RDduVG8zWmlZTllOd1RSVldHWmRDQzBxTGtIVlFtWWp2aEczbnNUNkVJMk52QTg3OWlYYVJocVg4T19Vcl9lYk0xaW5CQVZEd18tUXpxdWlyaU1EWS00R1ZfNEh6cUI3WjBsMmNQYmRPa3FUMGVrRFh1eUNCVEl1NWNJR1NrVXpKNkZ0c3lZYXJlTmxXbHI1dWxkbExjd0dKZDRQRXlBRGxzX2VPeEMzMEVnaVVRaGRlTGtiOWJrM1YwNGhhcVR5NERJVkg1bFJScm5NbUN4TEV5UjYyUVhsSmd2TldhRUIyS1cyblBuaUHSAasCQVVfeXFMTkdyd2JFSmpOZUZsQ181SG9jZTFpdjZpU3FjWHU4NVNFSjBEOThYY0lBc01nTDF3MmVOYkVmN3c4eWlaRVFzQ1BBRXJuQnhobXlBRkxvTWdialU2MkR5YzhIMnY0dVRzcl8xbzNnVWZORkQtTHo1cmRHaU00NUxySl9oMm1HOUdoVmw4bDBwNWNpRkhqNldDWlppc1lXeVlya2tvS25GM09KMUtlU0ZFbUtrd1lBU0YyTFpNLVJwMFdOWG1YX2p5bjZyVnhBMGFlTkhJc0wwdGRFSkFEUHFwSjFYcFdfbTEzRHJSY0JlSnl2b3FrOFp2aTREN1ZTRzE5WnlrMVlMX09PUWgzeWJPZ2hlcEhmQ1VtSzVhaEVxdEVteHdaRjQ5VkZYYlk?oc=5
 
-- Women's Cricket World Cup 2025:: Can India seal dream after bouncing back? - BBC
-  Women's Cricket World Cup 2025: Can India seal
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsNkF6dS1LeXdOaGtTZU1YeFJ2REdOM29YZndSQnUyTk5YenNWR2d2enVvR0l1Q2I0N3Q1ZzJQcDMyaE5COXpLU0NndDNBdUV2THU0dmlfZHJkQdIBX0FVX3lxTFBtRXJmTWF4RUhvdC1lZ2t4NmZpUXFVRENBVmdQZXk2TS1Ka3JWM09VWWd6aEZNSmFGQ083elBhN1pfbl9Vb1dPbXl0cGdjM3RHQm1naWYtTV9aTGlkWllN?oc=5
+- ‘US Controlled Pak Nuclear Arsenal’: Ex-CIA Agent’s Bombshell, Says ‘Pak Can’t Win Against India’ - Times of India
+  ‘US Controlled Pak Nuclear Arsenal’: Ex-CIA Agent
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV1BCTlRqc2hqMm15S3FobUhscnZIejFySmJfaVlaeTREcTRzZ2p2WnR4SXJyc2pibG5iWjd3OGR3YjZPTTRrRUVDWUpvNVp4X2NhanlzR0FPbWFLMDlMbXhwX0ZOMGlyVE1VbDd1RjlJZkJVaWZnajdMM1RXVGYxdW9kX3U3QnJwaExTWHBFeXdHeXFGOXdQcFFCZGNqRVg3MUxqck5rMFNNU2kwWElhVkFyYUNuWkt1NHplc0lOUGRsSmM0MVlDbUlmdHlJZFl0VlhkVTJkWXJfLXRUNTc1WWc4RF9DOXliRmhCOXVKNGUwNDTSAfgBQVVfeXFMTk1DdVctS3poQnIwQ3RUYmFEOWZUWUIzOTN2MG5pTUp2TlpnM3pkQ2dXckpjTGVwV3YydHFqaGZhYUN2NUd0bkNkcm1YQ2twLWVRRG9hUzgwSmR4dHNBVkxBdHAwdzJiRWY3OHJpOWpBUGlqRmlrRDg0Uktsc0MtcUdac3lEWXRmdnZ5RU5lRzJiaEVVQUU3VWVzY2J1ZTdiU0VEbVN5Tk5wTTRhdHNpYzl1TE1iSmRrNzgycUQzTndZaGJ6ZUlBSDNxSzVMTzRhWjRQbFRpRWlVVWk4cG9XbmZMN0wtUktlU3EzbElrN1RESHJENGk5LUU?oc=5
+
+- 'No deal with a gun to our head’: Piyush Goyal signals India won't give in to Trump's tariff pressure | Latest News India - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MD
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MDc1ektMdnRaU3Q1ZWpmTENYNXB0UFlMWUllZFZheEh3YjhHdl95dHh4aUdjd0lfWF9KOUFELUtXYXRzOGhqVHlyRDIxanE5TkxSUmZuU0xZU0FnaUZMeEU3WWFXU1k4WXJfUkJBQ043azVjTHJOY2RyYVJwaDc0RmVKOXcxRVU2SGF2UjVHRUZMNmxPMmxqZNIB_gFBVV95cUxNZTNIRVRMckl1Y3VQWkl1X1VfeEVvUF8wSEdJMHUxbTNvM1JXZkV6dm1yeDBzTktMeG5PQk41Zk1UUE9oVnRFOTk5bnczTmM3X2picHR0Zi1tcDN4VjBjenJsT2gxaGVNZTBMaGExOU1JYzFqdkN6RjRaSFA1UWVOYXlaZ3ZaZVVIaVFLeExYUjFTTnpvNE9hNVlDNW5QYmNvOElfdmFadTduc3VveldrMzlPSTJZMXJ1Uk8xeWRCcGpUUElLam1EUHZiUTlMeEpQb0JlcGV1X2Z4Z3hSOFdobEtyaTIzU3lUREZtcC1XTjZaQlpuTnRURGhKN0Z0QQ?oc=5
+
+- Top News Headlines of October 23, 2025 | King Charles III prays with pope in historic visit, a welcome respite from royal troubles at home - The Indian Express
+  The Indian Express looks back at the events of October 23, 2025. King Charles III prays with pope in historic visit,
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHZ2OVh5d25fV2loM3RHdDR2bkcxdmZuQmp6X1RKZ1VoUGUyczhqTlowTUtEREZyWndwLXdVcWVxRFJ0RDJJYlBNeG82YzE0aHlSd3dSZVdfZXhYYlV3UU5OV0hmUTRhVHREdnFCSk9uSjVGYy05TEdSQVZxRm4tZ016T0xNalNQZkpYSDdpVE45UW1XWnEtZnBETWhFUHFaT3h2eWRmTXc0bzNObFhxbW9Sd05wbGxpTGZXRVM0XzFIMlZZWTdMdmQ5X3p4RVRaRHI4dVZDVjZ2cVBzSTZaamNKOXhtZkNB0gHvAUFVX3lxTE4zOUxkeVJEMWs3di1nZ1BZMmJ2d2lUUWZEVU5OaE1kenBRYXNsY1BHMW12TDFtbmZIVGE3MjRjTi1vM2FwSlVpa0xaYmF2WWtXNVA3Y191U1F4b3ZWd0hieTRDb0cwUG5KcmtlM2VwZEVmQlhZZjNsSGVlTVNSd0xJOGZqOUNCLWZscy14al9pT29mN3V5ZVA4Q2hCcTFYUXRwOXVGXzlXZ1o0T2MzX0JCRy1PN3hZZXRHRDVqU21hMGdMQXcya01yN04yQmlob1dlZXVjdHRRVG13R1ZjOG5aOGx6Nll6anZhblBHbzVj?oc=5
+
+- India is a crucial partner on Indo-Pacific; PM Takaichi committed to building ties: Japanese Spokesperson - The Hindu
+  India is a crucial partner on Indo-Pacific; PM Takaichi
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOa0psZFNzQnYtWGpBc0ZQSzNxOUNlYjZ2WngyTzRvVHY1UjkyaElMbDdNTmRkYjJ5U0JlczFyS0hFeFMwQkV6dFhsbkZ6cDVUYjZ4MlpGSFRQWmQ2ZEFvMk9EUzdGY2l4ZGJsbnNQVEdKdWJMNlUxU2VHQ19rZHZtd2RIR1ZiVlc0SEQzR1E5YnlxOU5LQURDcjNMY000VElqZjRnbUNqRU80TTlQRG9oemh4T0QwNVFxblV5U01XVzUtQnExODBIMmcwY2JTSElLc3l0eHFKdk96bzNON1V0UGxlOUJqdDFlemFLOTJtQ0czUFZKdWFFQkp2d9IBggJBVV95cUxOTnVLNE9mWkdCWlRKTjRNdUFfa194bHBPdHhkS2doVmZacEIza21SaFE0VUN0NXRzbkpNRjI0cl9TWFZQYUlzYkRWNTdHZ2FUT2FnSS02Q0oxd2I1RExjS3RrT0pPNVh0X181WVlpR29UUzZIRTl2SzFWU29YUGVYX1FmOXhqNm5ZdVRDaDZEVTNpRU9hVUE1enk2a2M2SUlzOXZaN0Q4dmRPbXdIUmpjdzN2Tk5xeE5ra3ZxUi1pQWhYcDFhX3o0NExpZUlnVFJqUHI5dzFsY1lrRjdER2lMblhFQk4yYUl6OTZlaDhkQW9lclNSekpNeEZnSGRqSENWSlE?oc=5
+
+- 'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell; reveals Washington expected - Times of India
+  'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell.
+  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPMUczaWxFQXhMWjQzVDg0alhSRXZxal9hNjFmNExSUHZpM0dDd2FQWnBNWjFVYlVtd3lyQXN1RDduVG8zWmlZTllOd1RSVldHWmRDQzBxTGtIVlFtWWp2aEczbnNUNkVJMk52QTg3OWlYYVJocVg4T19Vcl9lYk0xaW5CQVZEd18tUXpxdWlyaU1EWS00R1ZfNEh6cUI3WjBsMmNQYmRPa3FUMGVrRFh1eUNCVEl1NWNJR1NrVXpKNkZ0c3lZYXJlTmxXbHI1dWxkbExjd0dKZDRQRXlBRGxzX2VPeEMzMEVnaVVRaGRlTGtiOWJrM1YwNGhhcVR5NERJVkg1bFJScm5NbUN4TEV5UjYyUVhsSmd2TldhRUIyS1cyblBuaUHSAasCQVVfeXFMTkdyd2JFSmpOZUZsQ181SG9jZTFpdjZpU3FjWHU4NVNFSjBEOThYY0lBc01nTDF3MmVOYkVmN3c4eWlaRVFzQ1BBRXJuQnhobXlBRkxvTWdialU2MkR5YzhIMnY0dVRzcl8xbzNnVWZORkQtTHo1cmRHaU00NUxySl9oMm1HOUdoVmw4bDBwNWNpRkhqNldDWlppc1lXeVlya2tvS25GM09KMUtlU0ZFbUtrd1lBU0YyTFpNLVJwMFdOWG1YX2p5bjZyVnhBMGFlTkhJc0wwdGRFSkFEUHFwSjFYcFdfbTEzRHJSY0JlSnl2b3FrOFp2aTREN1ZTRzE5WnlrMVlMX09PUWgzeWJPZ2hlcEhmQ1VtSzVhaEVxdEVteHdaRjQ5VkZYYlk?oc=5
+
+- ‘US Controlled Pak Nuclear Arsenal’: Ex-CIA Agent’s Bombshell, Says ‘Pak Can’t Win Against India’ - Times of India
+  ‘US Controlled Pak Nuclear Arsenal’: Ex-CIA Agent
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV1BCTlRqc2hqMm15S3FobUhscnZIejFySmJfaVlaeTREcTRzZ2p2WnR4SXJyc2pibG5iWjd3OGR3YjZPTTRrRUVDWUpvNVp4X2NhanlzR0FPbWFLMDlMbXhwX0ZOMGlyVE1VbDd1RjlJZkJVaWZnajdMM1RXVGYxdW9kX3U3QnJwaExTWHBFeXdHeXFGOXdQcFFCZGNqRVg3MUxqck5rMFNNU2kwWElhVkFyYUNuWkt1NHplc0lOUGRsSmM0MVlDbUlmdHlJZFl0VlhkVTJkWXJfLXRUNTc1WWc4RF9DOXliRmhCOXVKNGUwNDTSAfgBQVVfeXFMTk1DdVctS3poQnIwQ3RUYmFEOWZUWUIzOTN2MG5pTUp2TlpnM3pkQ2dXckpjTGVwV3YydHFqaGZhYUN2NUd0bkNkcm1YQ2twLWVRRG9hUzgwSmR4dHNBVkxBdHAwdzJiRWY3OHJpOWpBUGlqRmlrRDg0Uktsc0MtcUdac3lEWXRmdnZ5RU5lRzJiaEVVQUU3VWVzY2J1ZTdiU0VEbVN5Tk5wTTRhdHNpYzl1TE1iSmRrNzgycUQzTndZaGJ6ZUlBSDNxSzVMTzRhWjRQbFRpRWlVVWk4cG9XbmZMN0wtUktlU3EzbElrN1RESHJENGk5LUU?oc=5
+
+- 'No deal with a gun to our head’: Piyush Goyal signals India won't give in to Trump's tariff pressure | Latest News India - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MD
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MDc1ektMdnRaU3Q1ZWpmTENYNXB0UFlMWUllZFZheEh3YjhHdl95dHh4aUdjd0lfWF9KOUFELUtXYXRzOGhqVHlyRDIxanE5TkxSUmZuU0xZU0FnaUZMeEU3WWFXU1k4WXJfUkJBQ043azVjTHJOY2RyYVJwaDc0RmVKOXcxRVU2SGF2UjVHRUZMNmxPMmxqZNIB_gFBVV95cUxNZTNIRVRMckl1Y3VQWkl1X1VfeEVvUF8wSEdJMHUxbTNvM1JXZkV6dm1yeDBzTktMeG5PQk41Zk1UUE9oVnRFOTk5bnczTmM3X2picHR0Zi1tcDN4VjBjenJsT2gxaGVNZTBMaGExOU1JYzFqdkN6RjRaSFA1UWVOYXlaZ3ZaZVVIaVFLeExYUjFTTnpvNE9hNVlDNW5QYmNvOElfdmFadTduc3VveldrMzlPSTJZMXJ1Uk8xeWRCcGpUUElLam1EUHZiUTlMeEpQb0JlcGV1X2Z4Z3hSOFdobEtyaTIzU3lUREZtcC1XTjZaQlpuTnRURGhKN0Z0QQ?oc=5
+
+- Top News Headlines of October 23, 2025 | King Charles III prays with pope in historic visit, a welcome respite from royal troubles at home - The Indian Express
+  The Indian Express looks back at the events of October 23, 2025. King Charles III prays with pope in historic visit,
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHZ2OVh5d25fV2loM3RHdDR2bkcxdmZuQmp6X1RKZ1VoUGUyczhqTlowTUtEREZyWndwLXdVcWVxRFJ0RDJJYlBNeG82YzE0aHlSd3dSZVdfZXhYYlV3UU5OV0hmUTRhVHREdnFCSk9uSjVGYy05TEdSQVZxRm4tZ016T0xNalNQZkpYSDdpVE45UW1XWnEtZnBETWhFUHFaT3h2eWRmTXc0bzNObFhxbW9Sd05wbGxpTGZXRVM0XzFIMlZZWTdMdmQ5X3p4RVRaRHI4dVZDVjZ2cVBzSTZaamNKOXhtZkNB0gHvAUFVX3lxTE4zOUxkeVJEMWs3di1nZ1BZMmJ2d2lUUWZEVU5OaE1kenBRYXNsY1BHMW12TDFtbmZIVGE3MjRjTi1vM2FwSlVpa0xaYmF2WWtXNVA3Y191U1F4b3ZWd0hieTRDb0cwUG5KcmtlM2VwZEVmQlhZZjNsSGVlTVNSd0xJOGZqOUNCLWZscy14al9pT29mN3V5ZVA4Q2hCcTFYUXRwOXVGXzlXZ1o0T2MzX0JCRy1PN3hZZXRHRDVqU21hMGdMQXcya01yN04yQmlob1dlZXVjdHRRVG13R1ZjOG5aOGx6Nll6anZhblBHbzVj?oc=5
+
+- India is a crucial partner on Indo-Pacific; PM Takaichi committed to building ties: Japanese Spokesperson - The Hindu
+  India is a crucial partner on Indo-Pacific; PM Takaichi
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOa0psZFNzQnYtWGpBc0ZQSzNxOUNlYjZ2WngyTzRvVHY1UjkyaElMbDdNTmRkYjJ5U0JlczFyS0hFeFMwQkV6dFhsbkZ6cDVUYjZ4MlpGSFRQWmQ2ZEFvMk9EUzdGY2l4ZGJsbnNQVEdKdWJMNlUxU2VHQ19rZHZtd2RIR1ZiVlc0SEQzR1E5YnlxOU5LQURDcjNMY000VElqZjRnbUNqRU80TTlQRG9oemh4T0QwNVFxblV5U01XVzUtQnExODBIMmcwY2JTSElLc3l0eHFKdk96bzNON1V0UGxlOUJqdDFlemFLOTJtQ0czUFZKdWFFQkp2d9IBggJBVV95cUxOTnVLNE9mWkdCWlRKTjRNdUFfa194bHBPdHhkS2doVmZacEIza21SaFE0VUN0NXRzbkpNRjI0cl9TWFZQYUlzYkRWNTdHZ2FUT2FnSS02Q0oxd2I1RExjS3RrT0pPNVh0X181WVlpR29UUzZIRTl2SzFWU29YUGVYX1FmOXhqNm5ZdVRDaDZEVTNpRU9hVUE1enk2a2M2SUlzOXZaN0Q4dmRPbXdIUmpjdzN2Tk5xeE5ra3ZxUi1pQWhYcDFhX3o0NExpZUlnVFJqUHI5dzFsY1lrRjdER2lMblhFQk4yYUl6OTZlaDhkQW9lclNSekpNeEZnSGRqSENWSlE?oc=5
+
+- 'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell; reveals Washington expected - Times of India
+  'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell.
+  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPMUczaWxFQXhMWjQzVDg0alhSRXZxal9hNjFmNExSUHZpM0dDd2FQWnBNWjFVYlVtd3lyQXN1RDduVG8zWmlZTllOd1RSVldHWmRDQzBxTGtIVlFtWWp2aEczbnNUNkVJMk52QTg3OWlYYVJocVg4T19Vcl9lYk0xaW5CQVZEd18tUXpxdWlyaU1EWS00R1ZfNEh6cUI3WjBsMmNQYmRPa3FUMGVrRFh1eUNCVEl1NWNJR1NrVXpKNkZ0c3lZYXJlTmxXbHI1dWxkbExjd0dKZDRQRXlBRGxzX2VPeEMzMEVnaVVRaGRlTGtiOWJrM1YwNGhhcVR5NERJVkg1bFJScm5NbUN4TEV5UjYyUVhsSmd2TldhRUIyS1cyblBuaUHSAasCQVVfeXFMTkdyd2JFSmpOZUZsQ181SG9jZTFpdjZpU3FjWHU4NVNFSjBEOThYY0lBc01nTDF3MmVOYkVmN3c4eWlaRVFzQ1BBRXJuQnhobXlBRkxvTWdialU2MkR5YzhIMnY0dVRzcl8xbzNnVWZORkQtTHo1cmRHaU00NUxySl9oMm1HOUdoVmw4bDBwNWNpRkhqNldDWlppc1lXeVlya2tvS25GM09KMUtlU0ZFbUtrd1lBU0YyTFpNLVJwMFdOWG1YX2p5bjZyVnhBMGFlTkhJc0wwdGRFSkFEUHFwSjFYcFdfbTEzRHJSY0JlSnl2b3FrOFp2aTREN1ZTRzE5WnlrMVlMX09PUWgzeWJPZ2hlcEhmQ1VtSzVhaEVxdEVteHdaRjQ5VkZYYlk?oc=5
+
+- ‘US Controlled Pak Nuclear Arsenal’: Ex-CIA Agent’s Bombshell, Says ‘Pak Can’t Win Against India’ - Times of India
+  ‘US Controlled Pak Nuclear Arsenal’: Ex-CIA Agent
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV1BCTlRqc2hqMm15S3FobUhscnZIejFySmJfaVlaeTREcTRzZ2p2WnR4SXJyc2pibG5iWjd3OGR3YjZPTTRrRUVDWUpvNVp4X2NhanlzR0FPbWFLMDlMbXhwX0ZOMGlyVE1VbDd1RjlJZkJVaWZnajdMM1RXVGYxdW9kX3U3QnJwaExTWHBFeXdHeXFGOXdQcFFCZGNqRVg3MUxqck5rMFNNU2kwWElhVkFyYUNuWkt1NHplc0lOUGRsSmM0MVlDbUlmdHlJZFl0VlhkVTJkWXJfLXRUNTc1WWc4RF9DOXliRmhCOXVKNGUwNDTSAfgBQVVfeXFMTk1DdVctS3poQnIwQ3RUYmFEOWZUWUIzOTN2MG5pTUp2TlpnM3pkQ2dXckpjTGVwV3YydHFqaGZhYUN2NUd0bkNkcm1YQ2twLWVRRG9hUzgwSmR4dHNBVkxBdHAwdzJiRWY3OHJpOWpBUGlqRmlrRDg0Uktsc0MtcUdac3lEWXRmdnZ5RU5lRzJiaEVVQUU3VWVzY2J1ZTdiU0VEbVN5Tk5wTTRhdHNpYzl1TE1iSmRrNzgycUQzTndZaGJ6ZUlBSDNxSzVMTzRhWjRQbFRpRWlVVWk4cG9XbmZMN0wtUktlU3EzbElrN1RESHJENGk5LUU?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-24 12:36:23 UTC_
+_Last updated: 2025-10-24 18:25:46 UTC_
