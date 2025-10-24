@@ -1,244 +1,252 @@
 # 📰 Daily News Summaries
 
-- What Taliban Said About Pakistan's 'Proxy War' Charge Against India - NDTV
-  What Taliban Said About Pakistan's 'Proxy
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaXdWNVFQT01qbExRV1UwRWU1cWR2XzNlWElpeVZrNUhGOXFDTWRIYUdHNWlwZTNiVGVXcll4VXNOSG1iSGlTWGpoUlB3VS13R1ptemU3RTBfV1hrV1J3TUlEaHB6dzBPQ3NmZ2FiVUhNZGE3Tk1VRDU1R1lScUh1eGJKN3RWX09WSmtJSHg4Q01TY3hsbkZ1T1p2WnZWTGxnU1ZpeXN1OHcyOTJlbnkyX3N3VktMenhNaEQ2bnRUU3RYVU9UQkRDMmxHajU5M01lR2xUQnlaQmN3ZnhPZ2hMeNIB6AFBVV95cUxQTi1wcFFuVktocC1QWGJLdl9FZXlfNlpLYTBTTGw0ZmU2YjdmRHhoOGQ0akw4cHBWa1dYNC1WOGZVUjFtUEh1S185ZlNiMk1GT0pXMmJ2NGRseFYtZElUTnQ1ZDE2TWp6ZDduSUhBZERyUVdIMWVEbnV5TFRrNUFFaEZINmVhcXM1bGh2Ty16aWpFWXR1SzIydFRNa2tiUWk1VVhXbGszVzBjZ2JfWjBXa05FZ0U2cldURmhCMVFvY2t3djN0cWxNMUFSWUJtYThodDVCYjZWcl9VbXNpbFFpdHFoTGNiWVVi?oc=5
+- Jaishankar says UN ‘visibly gridlocked’ as Pakistan shields terror outfit linked to Pahalgam attack
+  
+  🔗 https://indianexpress.com/article/india/jaishankar-says-un-visibly-gridlocked-as-pakistan-shields-terror-outfit-linked-to-pahalgam-attack-10324517/
 
-- Trump claims India will 'almost stop' buying Russian oil by year-end - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcH
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcHVpMnF5UDBzZWpIZjBlanhfMHZEMkMtdUYyclRUajdmTnZTdHpOUWhDUzd6TS10R0NpTGhmSnNrRlZVZWxGWnlhRV9xU0NSYnlrTUJQclVXY095b3dQY1gwX1pGZmxVd1FB0gHQAUFVX3lxTE1mVTMzRmt0MUxZQVZ5TVVSY2stSG45d0ZqMGhpcHNGUDhwaW82aE83OTdTNzFfVC1kSUEzMXJtVW5UYklvOFIxSjFsWmU1Qk5RSHZrZms1RHVOUlNheF9zV3hxMGg0M0o1MG9melpmNGpiRUI3SGhzRnFHNmJOOFp2QWZHVjRDaWxfZk9kaENMaWVOeURaMklVczBJazBGLVpQQ0pHblBrZE5SalBtTEp3ZlFWMzMzZ0E1cmpLSEc3TjJOS1lRSDdPVFVlRmkwblI?oc=5
+- Kerala govt signed an MoU with Centre. Junior partner CPI now says it wasn’t consulted
+  
+  🔗 https://indianexpress.com/article/india/kerala-mou-with-centre-cpi-was-not-consulted-10324381/
 
-- Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California Road Accident Kill Three - Times of India
-  Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQODk1QkVCb1NqR3luVWpRQlJ5RGdGWkEtdDBhN1A0UW50WnZUUEJMb05nLXZMWGNGRldKYTlrc3Z5VTEwLW56VVRIdU8yblV2Qi1ScmN0aUhHbVNIWUE0NG9iV0huMmpYZHZPdUw3TnBILU9JNmw0dzl5LU1lOGJtWWd5UzEzalNvcmNaQkQxaUxGa0lZMm1zWk1vNTViLVJsdmxZQzRfNkNwTWY2cmxLeHFtaHJiakVFYUprVndRUWctU3dQOUw0MTZKMDctNHNzM1BhMGc4YlYwMm1DSUVvLTBzUHJocmZUZVBnWXAwMWQ0OHJybWJjQVkzX0l2TE9OWFHSAYcCQVVfeXFMTzlKX2V0eWpSUG5URVhIbjVUb0dJU25VUXcyNEdrUWJfdkJLdzZrZXl2aVIyekZtdDRoWHJlWTFad2hEd3N4Z2VUc1RWc3BUa1drakVFQmxGcktCeXNXQUQ5R1RTamp3NmV6QW5aMHpNRjczN3A3VnNsTlFLRWsyWUUtclZ0MDNtWVBuSnRHNHdjRnZLczF2a2JLa2xjaGNCQkZxcVUyeFh1a0R3RW43Skp4VEp2d0I2RmE4eFRJV0haeFJxSFVzVUlaZ05iVVUzMWl3V3BrVFhxYVJxMGl3Ukx0NHk3cHdlNFctYjUtMVA5bDBnQlQtQXA1ektiak8teTFGVXlBYXc?oc=5
+- Yatri Suvidha Kendra: Indian Railways to build permanent holding areas at 76 stations for crowd control – Full list
+  
+  🔗 https://indianexpress.com/article/india/yatri-suvidha-kendra-railways-permanent-holding-areas-76-stations-crowd-control-10324233/
 
-- ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates 8 Indian Cities On ‘How SAFE’ She Felt, Gives -1 - News18
-  ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQczRqRnhua1lIWXU5ZmpadVZPZ1RtdVM4QmNaT2ZKWE10STFBQzFVTWN0TkI4QmlHbnlwYXp5cURmQTBickpWTldyd2NYZVhxak8zNm14WGxucmdqYmcxdDJSM1JTS0g5U0RpUzZvX3RCNUZjOFVJZHk1VG5Ha3IxbDBWVllScHlqdFJ4dUtCQmZvMTByZHNaMU5HTXhsV1JGMURxNGVyNi1jZHJTLUtQZmVFZUtQMjhnRzRPY0FydFREVDJl0gHKAUFVX3lxTE5tUV85VzBORWhwcElDdFU4VnRqZHY3VFpSSlZnQ3ZlSVM2VkNEdS1jSmdiRE5OOXZEdDNXanBseHFkSkN2Z0JNZGgxallFMGR6YXJPM29kRFdBMnRIY0NmYzliSHdOOVljOTJ1WFZUMnJBOGVBMTg4TlN5TFVteGJpQUVXVC1heDhqOE9tSGZWSEkzVDZ2bjVoMUJlOXk0ZlpOYkJVZ19yeUpnZUNpbHZJZC12blF4bVpFZkU5TV9jeVpXNEhIWDBnbnc?oc=5
+- For the first time, Railways allows empty passenger trains to run on Dedicated Freight Corridor – Here’s why
+  
+  🔗 https://indianexpress.com/article/india/railways-permits-empty-passenger-trains-dedicated-freight-corridor-10324246/
 
-- Your grandpa came from India: Mehdi Hasan counters Nikki Haley's son on US migration - India Today
-  Mehdi Hasan counters Nikki Haley's son on US migration.
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxORmxIYkUyZVk0R25vaG9QRWJ2Qy15RGROcHVVZlJfZWFfZWpodDMtc01TZXRVYW56VHc5U2JIRzJnLVVJRjhTZV9RVk5BQ3ZQeGpBbkMxYkJyamVWYzNJNU1Hb1VSLW9aYVc2bnZXSjFQNU9zeVRseWdHNi1pWmdRbnpNYUdPUUxUOHpWOE1QNHpHZUU0U2JyYmJGYmZfWnBwWmpqN3plTkNGUTNucHI0dXRWQjV1amhIc041X09zVXlOVnd6YnozdElXSi1oUXFtOHdmZGk3MG9rNlpZM3NiVTdJY3ZZX1FQTjJXcHQ3cG1IVzRGZTlKdXlzSDB1UVNsVzBr?oc=5
+- PM Modi: ‘Bihar will keep Jungle Raj away,’ praises Nitish Kumar, hints at him as NDA’s CM candidate
+  
+  🔗 https://indianexpress.com/article/india/pm-modi-rally-bihar-assembly-elections-updates-10324183/
 
-- What it's like to live in the world's smartest cities for 2025 - BBC
-  What it's like to live in the world's
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPdVQtNnVJOXYwanhCbmhvd2tSeF9POC1rN1RqbXZMd2hJcnVPMkVncUFXN2NRejZoeDVEY0FoMzFQVW8xMFZETGUwY1FRSGZuWmgyS2xSZ25yUHo1ZHAxR0pGSVJIRzlPaGp0UC1XbXRDWk9wNThGdEttaXdoS0hwRjJVVFYzVGRXdjA1Q0Jsd3JkRnRKb3NvSFhDRQ?oc=5
+- Microsoft’s Copilot Fall Release adds group chats, memory, and Mico avatar
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsofts-copilot-fall-release-adds-group-chats-memory-and-mico-avatar-10324747/
 
-- Stephen Hawking’s chilling prediction: Why AI could be humanity’s greatest creation or its ultimate downf - Times of India
-  The future of AI is in the hands of computer scientists, says
-  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxQLVF3eEI5VFlRR0NwdzlWQlFuTHVqcFgtcjRFbk02NG5fdEIyVVBFZXdGamE4b0VZVlBsUFdtSFRHT0RPdWdyV1RDOGRvN0JWcmRzQ0hYTVFtM1hTT05fVDNvbXNTMTBpV1BiZkNPRU9GVElpdnpza3RSU0RkS2hoNjhXZVhmZ1ZuRlN0YWw1M1JMRlFJaEJmRkVQejgtVzRzLXlKMC10Y0FhaVhVb1RjTmRLaUdPVVhpcUlnRGtvYmJSbm9uaFlPYzFwbTUxU0VvOWpiWjZfdDRYT0k5X3ZfbWdMY0k3MXVzR2JlRV9oT0Y4VG03NWdxVVBHYXRWWFFQQk5LWWhneTZ3azM0aVp2QUg4bmNzZnPSAZwCQVVfeXFMTkRSUVJKZnVySm5WWnc1UzAyNkxJUDVqOFJtME03ZUxZdF8zcERsdDRMYVNEQ2xWQjRvNHhOVzJ3RWd3dWd3S19FVEhoRGN5T1ByX0JYVUNZXzh3WElrYWdjNGd6V2FZY1ptaUd1SXFGejFQakVsOFZFZFRES3RvYjBhN3BoWmlfRC1TR2Y3MTBWWXpobGRvOE9rdmxPWE1GWnJUZWw1R2w4NWlXX3Z2Mm9nclFSMXRvRllyaloyamRSR0xRRkJ4UHlkWTEyTFk4aGRiQXI2bXVQb2ltUlBvZkw5RGEydEhzWDY4b3g5NHV2VEI3ZERidW1sU0dReFRKNmh3Ynh2YWtwMG5ZMjkxVmF4MWFaSUFmZmlWMnQ?oc=5
+- He lost Rs 11 lakh after an e-SIM upgrade: Why OTPs and SIM-based security are no longer safe
+  
+  🔗 https://indianexpress.com/article/technology/why-otps-and-sim-based-security-are-no-longer-safe-10324457/
 
-- Alaska Airlines Grounds Its Aircraft Due To Technology Outage - NDTV
-  Alaska Airlines Grounds Its Aircraft Due
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxORURhODdVbUI5c3RySTdyLVZvVGJPZnNfTWFQOEFCQm9xdWdnbHFySG0xMXlSZVNic3RRR3NOWVBXbTliMjRLZ0RpV2hCdzQwZUkyenEwWWVZa3d6eXBLYXhiUFV4anJWcDFHUFBlbEMyaWNYSkxBODlKV2VwZkJaZzZOdHBHYW1Ed3MyYVpfQVU4b0w5azY0SWREbGpfcGpkWDdYa1MxclRFcHRpZ05faWZTdzRJRnY50gHAAUFVX3lxTFBlNmtFSXBrVlFnd1Y3WGhVSDRhX3Npcm5yaWRjOXU2TW5TRXQxQUZLQVBadEFxVnB6N3lLeEg2cmpIUmJtVGFqRlpxSTUyck5FbDYzZWdfd2lvcEpLY1E1am41ci1oUFY0QUFUdEotbDM2OHE5VFNYX1Rmc0JXQVNnR2dRMFpMM3k3UWZwcmktYlhIcEtfeVZzemtIeHhwYjZDdGkxVGRoUVpqOVpQNjVWYVRWeEFhcl85RUYxQVByag?oc=5
+- Instagram’s new Restyle feature lets you edit Stories using Meta AI
+  
+  🔗 https://indianexpress.com/article/technology/techook/instagrams-new-meta-ai-powered-restyle-feature-lets-you-edit-stories-using-prompts-heres-how-10324373/
 
-- Russia acquired Western technology to protect its nuclear submarine fleet - The Washington Post
-  Russia acquired Western technology to protect its nuclear submarine fleet
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTZmZm91T0JlbG9lQUJBYVd3d3hzWWtFMVFtaWhfTFVZUUxEdzhRXzdHQVVhQl83U2lQa3FhbkRjRjRhYzB5QlBvUEt2M09GTERndFpVd0xIbWlHTjhsZVhmNllRUUt5aFItbTdWLTBIYjJ5SGtLdU12ME01eXhndGhiTU51NnVldlZweDJkdVFLRDdLYjR3OHBNMDdXeDk1Nmc?oc=5
+- Google Photos may soon get a new feature that turns images into memes
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-photos-ai-me-meme-feature-how-it-works-10324244/
 
-- Introducing AWS RTB Fabric for real-time advertising technology workloads | Amazon Web Services - Amazon Web Services
-  Introducing AWS RTB Fabric for real-time advertising technology workload
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHNiRDZFYmt1RHV1cXRoZUM3QWpOUV9icV8yNFpwd05vajI0UU04TERMRWF2dU9PREN3Zi1ZLUhZemNkMTVqRDUwdmFtZE93UnNxcXJnWUVRYzYwai1sYWNFT05rRFFXeUdxLTU0YmxLa0J3SEVnVWp0ZVhpS3FJR3FEaWJEQkdFemJCRW1IOFVGdVBYNGZSLUJwZXgtRVljUGJaZjFQeWJ6UTQ?oc=5
+- PS5 New Update: Sony releases new PlayStation 5 firmware update, adds serial number access and controller improvements
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-playstation-5-ps-5-pro-firmware-update-new-features-10324137/
 
-- Ola Electric board to consider fresh funding plans at October 25 board meeting
-  Ola Electric will hold a board meeting on 25 October to discuss raising capital. The move follows previous fundraising efforts and comes amid operational challenges.
-  🔗 https://www.livemint.com/companies/news/ola-electric-board-to-consider-fresh-funding-plans-at-october-25-board-meeting-11761268311853.html
+- WazirX is back after 15 months, but regaining users' trust won't be easy, experts say
+  The key worry, industry stakeholders and users said, was that the cryptocurrency exchange failed to let its users withdraw
+  🔗 https://www.livemint.com/companies/news/wazirx-wazirx-user-funds-wazirx-hack-bitcoin-btc-indian-crypto-exchange-11761301755739.html
 
-- Alaska Airlines halts all its flights — here's what caused the disruption
-  Alaska Airlines is experiencing an IT outage that has temporarily grounded its flights. Passengers scheduled to fly tonight are urged to check their flight status. Hawaiian Airlines, which
-  🔗 https://www.livemint.com/companies/news/alaska-airlines-halts-all-its-flights-heres-what-caused-the-disruption-11761269014236.html
+- Perplexity’s Aravind Srinivas on why Google Maps and YouTube are so hard to beat
+  Aravind Srinivas, CEO of Perplexity AI, expressed on X that replicating YouTube and Google Maps is extremely difficult. He mentioned that while other Google products
+  🔗 https://www.livemint.com/companies/people/perplexitys-aravind-srinivas-on-why-google-maps-and-youtube-are-so-hard-to-beat-11761292428787.html
 
-- Behind promoters opting out of Infosys’ largest buyback is a tax conundrum
-  The decision is primarily driven by an amendment to the Income Tax Act that would classify
-  🔗 https://www.livemint.com/companies/news/infosys-buyback-promoters-income-tax-nandan-nilekani-narayana-murthy-shares-11761221145215.html
+- Tata-owned Jaguar Land Rover's UK output drops 27% as cyberattack affects production — Here's what we know
+  Tata Motors-owned Jaguar Land Rover's total output in the United Kingdom market dropped 27% as the September
+  🔗 https://www.livemint.com/companies/news/tataowned-jaguar-land-rovers-uk-output-drops-27-as-cyberattack-affects-production-heres-what-we-know-11761295609580.html
 
-- With faster mergers and e-docs, amended Companies Act will target global competitiveness
-   likely changes include a key proposal to speed up certain mergers, facilitate electronic document serving and e-adjudication.
-  🔗 https://www.livemint.com/companies/news/companies-act-amendment-in-winter-session-to-enhance-ease-of-doing-business-11761198648555.html
+- Zomato's Deepinder Goyal unveils $25 million fund for ‘Continue Research’; aims to support seed funding
+  Deepinder Goyal unveiled a $25 million fund for his ‘Continue Research’ project. The project aims to support researchers with seed funding to explore
+  🔗 https://www.livemint.com/companies/news/zomatos-deepinder-goyal-unveils-25-million-fund-for-continue-research-aims-to-support-seed-funding-11761297191322.html
 
-- Target to cut 1,800 corporate jobs as incoming CEO Michael Fiddelke moves to restructure and boost stagnant sales
-  The layoffs include 1,000 current employees and 800 unfilled roles. Store and supply chain roles are unaffected.
-  🔗 https://www.livemint.com/companies/news/target-to-lay-off-1-800-employees-amid-restructuring-to-boost-sales-11761251690682.html
+- $37.6 million per head! This UK-based firm crushes Nvidia, Apple, Microsoft, Google and Meta combined
+  OnlyFans has achieved the highest revenue per employee globally, compared to tech giants Apple and Nvidia. The platform operates with about 42 employees,
+  🔗 https://www.livemint.com/companies/news/onlyfans-employees-geenrate-37-6-million-revenue-per-head-uk-firm-crushes-nvidia-apple-microsoft-google-meta-combined-11761296243075.html
 
-- 2300% rally in five years! FIIs raise stake in multibagger penny stock during Q2 FY26
-  Jayaswal Neco Industries saw increased foreign institutional investor stakes in Q2. The company also posted net profits of
-  🔗 https://www.livemint.com/market/stock-market-news/2300-rally-in-five-years-fiis-raise-stake-in-multibagger-penny-stock-during-q2-fy26-11761285478960.html
+- Silver, gold rates decline over 2% ahead of US inflation data — Check analyst targets and outlook
+  Gold and silver prices fell on October 24 as traders awaited US inflation data. Despite recent declines, both metals have seen significant gains this year, with gold up 60% and silver up 67%.
+  🔗 https://www.livemint.com/market/commodities/silver-gold-rates-decline-over-2-ahead-of-us-inflation-data-check-analyst-targets-and-outlook-11761307530200.html
 
-- Federal Bank board approves raising  ₹6,196 crore via preferential issue of warrants to Blackstone entity
-  Federal Bank share price has rallied 18% in one month and more than 13% in three months. On a year-to-date (YTD) basis, the stock has risen 14%, while it has
-  🔗 https://www.livemint.com/market/stock-market-news/federal-bank-board-approves-raising-rs-6-196-crore-via-preferential-issue-of-warrants-to-blackstone-entity-11761285589169.html
+- Aditya Birla Sun Life AMC Q2 results: Profit remains flat at  ₹241 crore; revenue rises 9%
+  The company's revenue from operations rose 9 per cent to  ₹461.3 crore in the July-
+  🔗 https://www.livemint.com/market/stock-market-news/aditya-birla-sun-life-amc-q2-results-profit-remains-flat-at-rs-241-crore-revenue-rises-9-11761307881244.html
 
-- Bond market: Why should retail investors not ignore this asset class? Explained
-  Retail investors are increasingly turning to bonds for stability and returns. Experts advocate a dual strategy of short-term high-yield corporate bonds
-  🔗 https://www.livemint.com/market/bonds/bond-market-why-should-retail-investors-not-ignore-this-asset-class-explained-11761277613973.html
+- SBI Life Q2 Results: Profit falls 7% YoY amid rise in costs, drop in investment income
+  The insurer, backed by State Bank of India - the country's largest lender - posted a net profit of 4.95 billion
+  🔗 https://www.livemint.com/market/stock-market-news/sbi-life-q2-results-profit-falls-7-yoy-amid-rise-in-costs-drop-in-investment-income-11761307610323.html
 
-- Tata Motors demerger: When can investors expect to trade in Tata Motors Commercial Vehicles shares?
-  Tata Motors Commercial Vehicles shares have been credited to the demat accounts of the eligible shareholders. Investors have been unable to view or trade in TMLC
-  🔗 https://www.livemint.com/market/stock-market-news/tata-motors-demerger-when-can-investors-expect-to-trade-in-tata-motors-commercial-vehicles-shares-11761283705639.html
+- Sigachi Industries Q2 Results: Profit halves to  ₹10.5 crore amid 19% YoY decline in revenue
+  The company's EBITDA stood at  ⁹75 million, a substantial drop from  ₹293 million in the same quarter last year. Net profit for the quarter was   �
+  🔗 https://www.livemint.com/market/stock-market-news/sigachi-industries-q2-results-profit-halves-to-rs-10-5-crore-amid-19-yoy-decline-in-revenue-11761307201019.html
 
-- Stocks to buy: Rajesh Palviya of Axis Sec suggests Shipping Corp, Bharat Forge, Laurus Labs shares today
-  The Indian stock market began positively, with the Nifty 50 and BSE Sensex showing gains. Analysts suggest that the indices are in a strong uptrend, recommending investors
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-rajesh-palviya-of-axis-sec-suggests-shipping-corp-bharat-forge-laurus-labs-shares-today-11761278958408.html
+- Crude oil prices set for biggest weekly jump since June: What's behind the rally and outlook ahead?
+  Analysts believe that crude oil price rally could sustain in the near term, especially if these supply-side
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-set-for-biggest-weekly-jump-since-june-whats-behind-the-rally-and-outlook-ahead-11761306209029.html
 
-- Google Earth now uses Gemini AI to answer questions on floods, droughts and more: How the new feature works
-  Google is expanding its Earth AI platform, using geospatial AI and Gemini models to help communities respond to disasters. Google Earth and Cloud tools provide real-time insights on
-  🔗 https://www.livemint.com/technology/tech-news/google-earth-now-uses-gemini-ai-to-answer-questions-on-floods-droughts-and-more-how-the-new-feature-works-11761281491246.html
+- Apple’s A20 chips could make iPhone 18 the fastest yet – Here’s why
+  Apple is reportedly developing A20 and A20 Pro chips for the iPhone 18 series. The chips are expected to use TSMC’s 2nm process for improved performance and efficiency.
+  🔗 https://www.livemint.com/technology/tech-news/apples-a20-chips-could-make-iphone-18-the-fastest-yet-here-s-why-11761298526546.html
 
-- Microsoft introduces Mico avatar, long-term memory, and health features to Copilot: All you need to know
-  Microsoft unveils its Copilot Fall Update on Thursday. It includes a new animated avatar Mico, enhanced Edge features, and more.
-  🔗 https://www.livemint.com/technology/tech-news/microsoft-adds-mico-avatar-long-term-memory-and-health-features-to-copilot-all-you-need-to-know-11761274911067.html
+- OpenAI announces major Sora update: Editing, trending cameos, and Android launch on the way
+  OpenAI’s Sora is set to get character cameos, basic video editing, community-specific channels, improved feed performance
+  🔗 https://www.livemint.com/technology/tech-news/openai-announces-major-sora-update-editing-trending-cameos-and-android-launch-on-the-way-11761294794135.html
 
-- OnePlus 15 launch imminent in India: Expected price, specifications and everything we know so far
-  The OnePlus 15 is expected to debut next month in India. It is tipped to feature a Snapdragon 8 Elite Gen 5 chip, 7,300mAh battery, and a 165Hz AMOLED
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-15-launch-imminent-in-india-expected-price-specifications-and-everything-we-know-so-far-11761268042585.html
+- 5 Amazfit Watches you should definitely consider buying for fitness tracking and style
+  These top 5 Amazfit watches offer accurate fitness tracking, smart features, and stylish designs.
+  🔗 https://www.livemint.com/technology/gadgets/5-amazfit-watches-you-should-definitely-consider-buying-for-fitness-tracking-and-style-11761283651679.html
 
-- Sundar Pichai hails 'verifiable' quantum computing breakthrough as Google's Willow surpasses ability of supercomputers
-  Google's Quantum Echoes algorithm operates 13,000 times faster than traditional supercomputers. This enables verifiable applications in medicine and materials science, Google says.
-  🔗 https://www.livemint.com/technology/sundar-pichai-hails-verifiable-quantum-computing-breakthrough-as-googles-willow-surpasses-ability-of-supercomputers-11761179642580.html
+- OpenAI expands Shared Projects and debuts ‘Company Knowledge’ in ChatGPT: How the new AI work tools function
+  OpenAI has expanded Shared Projects to all ChatGPT users. GPT-5-powered feature connects tools like Slack and Google Drive for smarter workplace automation.
+  🔗 https://www.livemint.com/technology/tech-news/openai-expands-shared-projects-and-debuts-company-knowledge-in-chatgpt-how-the-new-ai-work-tools-function-11761289290096.html
 
-- Centre notifies amended IT rules to enhance transparency, accountability in content removal by intermediaries
-  Amendments to Rule 3(1)(d) introduce additional safeguards to ensure that removal of unlawful content by intermedi
-  🔗 https://www.livemint.com/technology/tech-news/centre-notifies-amended-it-rules-to-enhance-transparency-accountability-in-content-removal-by-intermediaries-11761156759133.html
+- Massive price drop on Samsung tablets: Top deals you shouldn't miss
+  Samsung tablets are dropping in price this year, offering premium features like AMOLED displays, S Pen support and long battery life for less.
+  🔗 https://www.livemint.com/gadgets-and-appliances/massive-price-drop-on-samsung-tablets-top-deals-you-shouldnt-miss-11761281821844.html
 
-- Stock Market LIVE Updates: Nifty around 25,850, Sensex down 140 pts; FMCG drags, metals shine - Moneycontrol
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQzBjM0tfVUc3d1FoVjl2aVY2T3lSOEhDTEFWVWRsREpQakpCbENiZTBaM0o2UnVyb3NzSEgxZUNMQ1NDMWZkQ0FHaWFGVXhnSjlPZng0R0dTZUJ0NnY4Q21jRlVHdDBXTT
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQzBjM0tfVUc3d1FoVjl2aVY2T3lSOEhDTEFWVWRsREpQakpCbENiZTBaM0o2UnVyb3NzSEgxZUNMQ1NDMWZkQ0FHaWFGVXhnSjlPZng0R0dTZUJ0NnY4Q21jRlVHdDBXTTFqeTNkN0ZPNHgtU0xkSXZDMkRNV1hYbUM0M2otU3g0NHB0WHd3MnQwNzhUczBVc3NLYjFGcGVndjhQc0ZTR0VUQUJjQXYyZEF4bm83YVBRSDBtSUNJYTI3LUlkenNMOTE0czVILW1oLUdKR0wza3pSekhzeDJocEo0Mi0yRk9uMC12WdIB8gFBVV95cUxNWkZ1dkhoNkkwTFg0LWI5bVV4RW5GajhWdmlkYjZUSzNUVE5lZ0JFcTlDUGdGRTV3VkFZdFBEMUs3YVM3N3JCY0VPdTZGV1NORkVENGh5MW1zeENiNUZsODlSZmJlci1aclRPM0dXbTZXb1dPZ0lmQ0FPWVNIbDR2S19MN3hLLW45dGZSakRQUFhPblM0aDFxZnpxM01hYVduejFrYmh4Umt0VFNyaENqeHM0RzdvRWVzM0lFQ2JkS2hiTUhTNjVFQjk3WThqNGVDdGphb3RVQjNQR3lRSlBJZ2RmbmlfMWktelRyU1dscHFzUQ?oc=5
+- Markets News, October 23, 2025: Stocks Gain as Investors Monitor China Trade News, Earnings Results; Oil Futures Surge - Investopedia
+  &nbsp;&ngt;<font color="#6f6
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bEQ4QjRYcW1ISHJzSWdtYlZxSnVwQ082cXdHUF9vN25GSGZlZmFsbUR4VzVJUEtQcnlqODluLXdKWS1oVXVFSTNnaGEtM05CQnZpSHoxbWZNdnZPc2t6V2lneEJOaXRxck11d3BXSQ?oc=5
 
-- Crude oil to see short-term bullish momentum; check strategy, key levels - Business Standard
-  Crude oil to see short-term bullish momentum
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUVJlVlJWSlJxaElCdWpHTVgxMG1wdnRLZ0hnRHBTQ0VkRUdNRHZMcVRDdnVQeU9xVTFhVnJkaDRSTTRjWmhILWQzNGhTZHNGVzhLOHh5bFJLUGY4WUtCVzRFdHdhV2pqUmx1d1Zsa1dtTUZValNtN2gxMWNMSkVhbzFIZzk2eHFwWk9xcl9SYTE4Z2pVdGRsdkJQcFBVYzZTY0NYand5MzBkR3BzbURjUXVzUkUtajRXLUNSUlhpRllRTXRfSmZKTTE2cVRfb2M0aWdJ0gHYAUFVX3lxTFBYREZFLXY2Z0t2bTVncVlaRFZFLV9lcTRjNEQxU0g2WHlJR2JHY0ZTUXNISi10OGZsSVVJcEdFLTlsS0xBTnExNlBHZ2gzUTVwYi01azh5OFBIWnlhRDZfSnYzbEN5Q1pWNklkaEFUWjNUeUpIVk5PX2JJMGFLNnRfMkhpelBZQmtld0RQYk43RkFhTHo0MV80ZURscmtxUnZGUGlfdllycllLUF96QUlsTEZjdU9pNVdrdDJQRTFIWlpydFJfa3J3NHR6dkVRdmFZQ1NWeFNZVA?oc=5
+- US Futures Rise Ahead of Key Inflation Reading: Markets Wrap - Yahoo Finance
+  US Futures Rise Ahead of Key Inflation
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQW16TlBMQ2pDQ2tyLTc3SFFqUW01YUVlQVc1OHFxZE9RZHFKSGcxR19PWHpqclFwa1Y3UGc3V1JubTMzTEN1bGZ2bVZSU3J4Q25MS1gyN1ZIS1NLeEI4WjBoMVI4WWlEQU8wbXVYUUd5LVhFcm5PZG9vTHotbW8tOA?oc=5
 
-- Bond market: Why should retail investors not ignore this asset class? Explained - Mint
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVhvU0hiS3ZrOUtUZnBKVHhubG4yTEtPOW0tY1paZ0pEbi02dFBSTk1ac3lLOVJvSk94VU5CQkZTREctc2lzbm9DekE4LTlDZFFqYWFrZTdhVjVSc0R1OGJxeWFMaXV4cUdEVVBXbVhVRTdaZnZQZzlPdGRYaGZWTEJpSEgzSjdIZjlKVVNjb1BwQ0RHU0ljbGlnSzJKUGJnNkFhV3JaSUJaVl9mRFlTVGEwZkptVUR3LVFkNjhiNnlPSWEtbEtWZnQ0UG1Kakx2?oc=5
+- Global Markets Rise; U.S. Inflation Data Eyed, Gold, Oil Down - WSJ - The Wall Street Journal
+  The Wall Street Journal reports that U.S. Inflation Data
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVA3eUdvMGtQQVh6eGNLQ3U4andZOExfdGlrZ09rTDFaRENwUGVFbGV4dkVQZWIzcjc3LUctbElRQU1nTGM0d1RSRjVKVWJvOXpES2I2MEE3NFVrak80YUFLcGVhUzY4Q1JvSEZwSGFpM3k2c25iWFkzMkJrSFFBWEtoQkgwei1LVDNRbVVlVE9GSDloUFhQVDln?oc=5
 
-- Sebi bars 13 individuals from securities market for front running - The Economic Times
-  Sebi bars 13 individuals from securities market for
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUklSMVVnZnZQMVhvdzJJWkpmR3djMmdxMW9ka2xjRVNuWXRqR2dyWXp0cWhSWjZ3RnZwV1M0QTh2RjF5QVVyUVoydVM5T2VuOVY4SnVuUmZ2U3RkaGhXMzNCaEFFMUp4RWtUckxWbjEyd09GUkFsWm5IU0lxQ3JUck5vOVA4di1QeUhQWU5uNnhUcTFjTWVoT3FLQXBRTDRjNUYxSUdzekhqM0hrMTJIVkF0My1wUHhVUmZYeVd2U2dRZm9Pclp5a0lxSW5jSUZGdmlHN3M0UkxwckXSAdsBQVVfeXFMTVJJUjFVZ2Z2UDFYb3cySVpKZkd3YzJncTFvZGtsY0VTbll0akdncll6dHFoUlo2d0Z2cFdTNEE4dkYxeUFVclFaMnVTOU9lbjlWOEp1blJmdlN0ZGhoVzMzQmhBRTFKeEVrVHJMVm4xMndPRlJBbFpuSFNJcUNyVHJObzlQOHYtUHlIUFlObjZ4VHExY01laE9xS0FwUUw0YzVGMUlHc3pIajNIazEySFZBdDMtcFB4VVJmWHlXdlNnUWZvT3JaeWtJcUluY0lGRnZpRzdzNFJMcHJF?oc=5
+- Fed’s Portfolio Unwind Gains Urgency as Markets Flash Warnings - Bloomberg.com
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1BPYVItVFA3Mi1USUhVZ3lITlBQc0NHeU9QZGN0ZFBKNzAtTmJJTm5fblFmR29uWXVGUUpzdTg5Q2xpWVFoMDNFRDRpNVR5eHloUU90NEZDX2Z1RDhQdHgxR1Z0ZXRscjBuamlkZFMyUDJZRGZoRDNGYUNlTFFPbnJ4OFpnb09hMUhseXRUVnlUbWg3NC0zQ3lZTG9pX2tWbHlBS1VaME1fMEZUSk50SjhtVQ?oc=5
 
-- South Korea's Kospi hits record high as Asia stocks gain on Trump-Xi meeting next week - CNBC
-  South Korea's Kospi hits record high as Asia stocks gain
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQb3ZHa1ZXZ2UxVllUdU9jcnlYaUNfWXdhYjZ0YjhlbW9wSkxXcHEwcV92YzBoNVRzSXE0U0tsb2QzQldpQjBmREk5bE9VWHNKTXJNSmhLbXBrdnJpaHZSZmt4Zk5keFJna3lnRUR0Q3RjTlhqOG5XX0tPRXMwQ0p0RmhxWjNYaFBqN21Qc2FVQ2FwWWo1OXRXMFp5dDJNV0hOM3BYUGx30gGrAUFVX3lxTE5vczZRdF9FdUhVa0lkbzRULVFfRk5iU08tanZMdXJiYmZTLXZnUVpVRlVDUko4UTZpUWlBdF92aFY0V291OFdKZUZtenYyX1F0Qk1mRERJWnh4OTZCZG1BQUZYeXBaR2EwUnpSY0FmRXE5Rm16OTZKOHM1ZEpMRHM5MWNmRnNXYUhUTVQxaW4yS2xRNG5qQXdoREd0LU9hRFpzbnlaY3lBcWt1TQ?oc=5
+- MTR parent Orkla sees high growth in regional markets, not looking at pan-India presence - Moneycontrol
+  MTR parent Orkla sees high growth in regional markets
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUFRFaGxRTl9nOFVTck9DNTY5VUZGT0l0UWtUZmlrbzdDWUhjSXotWjFaWDRZV2VXN1BTeXFWUG9NdE02V1lSeEhQQ3ZZRm81VG1tTmJSMGlYZzNyOFM4YWNBTnJDbHBIbVVsZTctZDJZamhSUXBUUXJRTUZoMDMtU3ljNmswQnVCMkk5QUk0dzlCYXRJTUVzUjEtQ2c1VjRYeTBxZk4zdDl3a2dXNkY3WGtWN1pLM1ZEY1k1WFRxXzBFNmlnZGtvLU14NGZVZWVxMnFwOXZXM0lsVF940gHiAUFVX3lxTFA0ZnFnLVRJSGZQeng4QWdyTWF0MzdJT3ZtV05QM05QUThOd3BMdmFadXZUT3k3Uk1KYk85Wk1McHJZSXhyMmhhT1hsOWZDcnBGb2lsTnprVHZ5cnI1dHpTMFVpZXpSVU9aVGxkTUJCdzRJTEhZNFl5S29XaXViMEw2MFRKTHFJVm9maERLdnotM1FyOUtuY200cy0yV0JsNWE2alZ1VElQRjBSN1pMb3JlN2htVUpVYlhGQXdrRDFTMk1JWXg1WlNtY2ozMWVldEhDdnhyRHZkX2pBX09YVkNoV0E?oc=5
 
-- 7 smallcap stocks with double-digit Sales growth in Q2: one turned multibagger
-  The smallcap earnings season saw 108 companies report September quarter results. Key performers like Acutaas Chemicals, Tanfac Industries, Amal, and GM Breweries posted strong year-on-year sales growth. Seven stocks
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/7-smallcap-stocks-with-double-digit-sales-growth-in-q2-one-turned-multibagger/slideshow/124778088.cms
+- Markets News, October 23, 2025: Stocks Gain as Investors Monitor China Trade News, Earnings Results; Oil Futures Surge - Investopedia
+  &nbsp;&ngt;<font color="#6f6
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bEQ4QjRYcW1ISHJzSWdtYlZxSnVwQ082cXdHUF9vN25GSGZlZmFsbUR4VzVJUEtQcnlqODluLXdKWS1oVXVFSTNnaGEtM05CQnZpSHoxbWZNdnZPc2t6V2lneEJOaXRxck11d3BXSQ?oc=5
 
-- India bonds inch up on short covering
-  Indian government bonds made a small recovery as traders scrambled to close short positions. Hopes for a possible US-India trade pact helped stabilize the market.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-up-on-short-covering/articleshow/124777796.cms
+- US Futures Rise Ahead of Key Inflation Reading: Markets Wrap - Yahoo Finance
+  US Futures Rise Ahead of Key Inflation
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQW16TlBMQ2pDQ2tyLTc3SFFqUW01YUVlQVc1OHFxZE9RZHFKSGcxR19PWHpqclFwa1Y3UGc3V1JubTMzTEN1bGZ2bVZSU3J4Q25MS1gyN1ZIS1NLeEI4WjBoMVI4WWlEQU8wbXVYUUd5LVhFcm5PZG9vTHotbW8tOA?oc=5
 
-- Gold rally snaps after 9 weeks as 3 factors lead retreat. Crash or buying opportunity ahead?
-  Gold's record-breaking rally is set to pause after nine straight weeks. Prices down 3% amid profit-taking, a stronger dollar, and renewed U.S.-China trade optimism. Analysts view
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-rally-snaps-after-9-weeks-as-3-factors-lead-retreat-crash-or-buying-opportunity-ahead/articleshow/124777721.cms
+- Global Markets Rise; U.S. Inflation Data Eyed, Gold, Oil Down - WSJ - The Wall Street Journal
+  The Wall Street Journal reports that U.S. Inflation Data
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVA3eUdvMGtQQVh6eGNLQ3U4andZOExfdGlrZ09rTDFaRENwUGVFbGV4dkVQZWIzcjc3LUctbElRQU1nTGM0d1RSRjVKVWJvOXpES2I2MEE3NFVrak80YUFLcGVhUzY4Q1JvSEZwSGFpM3k2c25iWFkzMkJrSFFBWEtoQkgwei1LVDNRbVVlVE9GSDloUFhQVDln?oc=5
 
-- Rupee rallies to 2-month high, helped by firm RBI hand, flows
-  The Indian rupee reached a two-month peak on Thursday. This rise was driven by expected inflows and the Reserve Bank of Indias consistent dollar sales near 88.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rallies-to-2-month-high-helped-by-firm-rbi-hand-flows/articleshow/124777673.cms
+- Fed’s Portfolio Unwind Gains Urgency as Markets Flash Warnings - Bloomberg.com
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1BPYVItVFA3Mi1USUhVZ3lITlBQc0NHeU9QZGN0ZFBKNzAtTmJJTm5fblFmR29uWXVGUUpzdTg5Q2xpWVFoMDNFRDRpNVR5eHloUU90NEZDX2Z1RDhQdHgxR1Z0ZXRscjBuamlkZFMyUDJZRGZoRDNGYUNlTFFPbnJ4OFpnb09hMUhseXRUVnlUbWg3NC0zQ3lZTG9pX2tWbHlBS1VaME1fMEZUSk50SjhtVQ?oc=5
 
-- Laurus Labs shares tumble 4% despite 886% surge in Q2 PAT. Should you buy the dip?
-  Laurus Labs shares fell despite Q2FY26 PAT surging 886% to Rs 195 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-shares-tumble-4-despite-886-surge-in-q2-pat-should-you-buy-the-dip/articleshow/124777646.cms
+- MTR parent Orkla sees high growth in regional markets, not looking at pan-India presence - Moneycontrol
+  MTR parent Orkla sees high growth in regional markets
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUFRFaGxRTl9nOFVTck9DNTY5VUZGT0l0UWtUZmlrbzdDWUhjSXotWjFaWDRZV2VXN1BTeXFWUG9NdE02V1lSeEhQQ3ZZRm81VG1tTmJSMGlYZzNyOFM4YWNBTnJDbHBIbVVsZTctZDJZamhSUXBUUXJRTUZoMDMtU3ljNmswQnVCMkk5QUk0dzlCYXRJTUVzUjEtQ2c1VjRYeTBxZk4zdDl3a2dXNkY3WGtWN1pLM1ZEY1k1WFRxXzBFNmlnZGtvLU14NGZVZWVxMnFwOXZXM0lsVF940gHiAUFVX3lxTFA0ZnFnLVRJSGZQeng4QWdyTWF0MzdJT3ZtV05QM05QUThOd3BMdmFadXZUT3k3Uk1KYk85Wk1McHJZSXhyMmhhT1hsOWZDcnBGb2lsTnprVHZ5cnI1dHpTMFVpZXpSVU9aVGxkTUJCdzRJTEhZNFl5S29XaXViMEw2MFRKTHFJVm9maERLdnotM1FyOUtuY200cy0yV0JsNWE2alZ1VElQRjBSN1pMb3JlN2htVUpVYlhGQXdrRDFTMk1JWXg1WlNtY2ozMWVldEhDdnhyRHZkX2pBX09YVkNoV0E?oc=5
 
-- What Taliban Said About Pakistan's 'Proxy War' Charge Against India - NDTV
-  What Taliban Said About Pakistan's 'Proxy
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaXdWNVFQT01qbExRV1UwRWU1cWR2XzNlWElpeVZrNUhGOXFDTWRIYUdHNWlwZTNiVGVXcll4VXNOSG1iSGlTWGpoUlB3VS13R1ptemU3RTBfV1hrV1J3TUlEaHB6dzBPQ3NmZ2FiVUhNZGE3Tk1VRDU1R1lScUh1eGJKN3RWX09WSmtJSHg4Q01TY3hsbkZ1T1p2WnZWTGxnU1ZpeXN1OHcyOTJlbnkyX3N3VktMenhNaEQ2bnRUU3RYVU9UQkRDMmxHajU5M01lR2xUQnlaQmN3ZnhPZ2hMeNIB6AFBVV95cUxQTi1wcFFuVktocC1QWGJLdl9FZXlfNlpLYTBTTGw0ZmU2YjdmRHhoOGQ0akw4cHBWa1dYNC1WOGZVUjFtUEh1S185ZlNiMk1GT0pXMmJ2NGRseFYtZElUTnQ1ZDE2TWp6ZDduSUhBZERyUVdIMWVEbnV5TFRrNUFFaEZINmVhcXM1bGh2Ty16aWpFWXR1SzIydFRNa2tiUWk1VVhXbGszVzBjZ2JfWjBXa05FZ0U2cldURmhCMVFvY2t3djN0cWxNMUFSWUJtYThodDVCYjZWcl9VbXNpbFFpdHFoTGNiWVVi?oc=5
+- 'No deal with a gun to our head’: Piyush Goyal signals India won't give in to Trump's tariff pressure | Latest News India - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MD
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MDc1ektMdnRaU3Q1ZWpmTENYNXB0UFlMWUllZFZheEh3YjhHdl95dHh4aUdjd0lfWF9KOUFELUtXYXRzOGhqVHlyRDIxanE5TkxSUmZuU0xZU0FnaUZMeEU3WWFXU1k4WXJfUkJBQ043azVjTHJOY2RyYVJwaDc0RmVKOXcxRVU2SGF2UjVHRUZMNmxPMmxqZNIB_gFBVV95cUxNZTNIRVRMckl1Y3VQWkl1X1VfeEVvUF8wSEdJMHUxbTNvM1JXZkV6dm1yeDBzTktMeG5PQk41Zk1UUE9oVnRFOTk5bnczTmM3X2picHR0Zi1tcDN4VjBjenJsT2gxaGVNZTBMaGExOU1JYzFqdkN6RjRaSFA1UWVOYXlaZ3ZaZVVIaVFLeExYUjFTTnpvNE9hNVlDNW5QYmNvOElfdmFadTduc3VveldrMzlPSTJZMXJ1Uk8xeWRCcGpUUElLam1EUHZiUTlMeEpQb0JlcGV1X2Z4Z3hSOFdobEtyaTIzU3lUREZtcC1XTjZaQlpuTnRURGhKN0Z0QQ?oc=5
 
-- Trump claims India will 'almost stop' buying Russian oil by year-end - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcH
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcHVpMnF5UDBzZWpIZjBlanhfMHZEMkMtdUYyclRUajdmTnZTdHpOUWhDUzd6TS10R0NpTGhmSnNrRlZVZWxGWnlhRV9xU0NSYnlrTUJQclVXY095b3dQY1gwX1pGZmxVd1FB0gHQAUFVX3lxTE1mVTMzRmt0MUxZQVZ5TVVSY2stSG45d0ZqMGhpcHNGUDhwaW82aE83OTdTNzFfVC1kSUEzMXJtVW5UYklvOFIxSjFsWmU1Qk5RSHZrZms1RHVOUlNheF9zV3hxMGg0M0o1MG9melpmNGpiRUI3SGhzRnFHNmJOOFp2QWZHVjRDaWxfZk9kaENMaWVOeURaMklVczBJazBGLVpQQ0pHblBrZE5SalBtTEp3ZlFWMzMzZ0E1cmpLSEc3TjJOS1lRSDdPVFVlRmkwblI?oc=5
+- Afghanistan To Echo India's Indus Water Move, Stop River Flowing Into Pak - NDTV
+  Afghanistan To Echo India's Indus Water
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWjBGZGVDSmRRajdHSVJzellTRE1ReUh3cG4zSE5NYmRWMEU3Rm5aUWZkbXdIa0J5czVOa0prcERyQVl0d2FNVVlSQmdNZHM4OHFpVzBZeWxhR3pJRl9CQ2tVZ3M1VjF3SHE2cE1sWEtFSEUxV2VNYl9NTnVRVUxidzZjQTZoOFFvRmVZcXZqbUNBbGpiQllfN3NyeG1fdUFwOHhJamJZSFAwUS00X3hZNDlFRmxPMUFPSXpJZlFnZ0xSejQ2ZmFtWGtzY0M0Qk55UkIxdXJMTW1NU1JjOTdGdklLX21wb2YxN2tPdVB4dGRTM2dmNnhUUzF30gGCAkFVX3lxTFBiWUZEanFrMmdjYnhtN1Q5U1dSRFJOdHVnVW80Z0tHRjRtbzdPdHFmanpXXzFqQzdqdjE2LThCUkIyNWZnUGNndmtJTEY1aC1jOVZSbllCeGo4cVhEbmRRMmhkN21SdmdqeUJPNVhCOTNuNS1OVS15cnNsTTRjOTg3amFQQWFIZXVLUThZTjQ0QWxYcHBYNmdjQkhsSnRJMWZzZXVCcUViYXlVenJ3RmpfQlJsQUw1OF9VdGxVU19qTndYeklYNmlfenNzc3NuaWd1MGpXQWZWcHVLa1ZaeXMzZ0wwdnFtN1FUZFQ0OU5mWk1DOHNCTU5wYjB0SE9TMHc2UQ?oc=5
 
-- Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California Road Accident Kill Three - Times of India
-  Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQODk1QkVCb1NqR3luVWpRQlJ5RGdGWkEtdDBhN1A0UW50WnZUUEJMb05nLXZMWGNGRldKYTlrc3Z5VTEwLW56VVRIdU8yblV2Qi1ScmN0aUhHbVNIWUE0NG9iV0huMmpYZHZPdUw3TnBILU9JNmw0dzl5LU1lOGJtWWd5UzEzalNvcmNaQkQxaUxGa0lZMm1zWk1vNTViLVJsdmxZQzRfNkNwTWY2cmxLeHFtaHJiakVFYUprVndRUWctU3dQOUw0MTZKMDctNHNzM1BhMGc4YlYwMm1DSUVvLTBzUHJocmZUZVBnWXAwMWQ0OHJybWJjQVkzX0l2TE9OWFHSAYcCQVVfeXFMTzlKX2V0eWpSUG5URVhIbjVUb0dJU25VUXcyNEdrUWJfdkJLdzZrZXl2aVIyekZtdDRoWHJlWTFad2hEd3N4Z2VUc1RWc3BUa1drakVFQmxGcktCeXNXQUQ5R1RTamp3NmV6QW5aMHpNRjczN3A3VnNsTlFLRWsyWUUtclZ0MDNtWVBuSnRHNHdjRnZLczF2a2JLa2xjaGNCQkZxcVUyeFh1a0R3RW43Skp4VEp2d0I2RmE4eFRJV0haeFJxSFVzVUlaZ05iVVUzMWl3V3BrVFhxYVJxMGl3Ukx0NHk3cHdlNFctYjUtMVA5bDBnQlQtQXA1ektiak8teTFGVXlBYXc?oc=5
+- India rises to ninth spot globally in forest area: FAO - Times of India
+  India rises to ninth spot globally in forest area:
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVdlUmU1aER0VjJxaXlZeUktdlgzVEtKMUs2a2Z0UTJ0SmFqSFlXZ2VuNTU2SG01WGkxTHhLRzBKLU1sbmxuajR0b3VTNS16azFkWERjMFhNM0RkTGhMWVpEQW1zWnhVeEZSY3prdVZxSFlLVWxoSmpMSVZPOWpEVUNMOVpYODlqbzlMTUt0Q0lCOW4yb1ZzTFVJUWZKQmRndGROSW9IVW5xdGN1MHhQR2w5U180a09aWmhjMjRB0gHDAUFVX3lxTE40eTE1RE5fT2c1ZjJ2bUcyeDhjMXJtR24yMS1fWEZ5ZnZsazVWVnd2NElSdlJhcTNfZkNnMjRzdFpVSHM0SzFZLVhpTHVWYmMyOFhwdHRBSnp0d1AwelpJQURfSTFTRlF2RkQwQkdTV3VZblpGejRlRDlwWmdWeEl5UTA4eDdlN09oSVV1NndnOGx3dW5UVEZfV001VmhlOVhqVzczQjZndzYzdkEyYnpULVo4Mi1mZTl3bkhra05FQjFIdw?oc=5
 
-- ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates 8 Indian Cities On ‘How SAFE’ She Felt, Gives -1 - News18
-  ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQczRqRnhua1lIWXU5ZmpadVZPZ1RtdVM4QmNaT2ZKWE10STFBQzFVTWN0TkI4QmlHbnlwYXp5cURmQTBickpWTldyd2NYZVhxak8zNm14WGxucmdqYmcxdDJSM1JTS0g5U0RpUzZvX3RCNUZjOFVJZHk1VG5Ha3IxbDBWVllScHlqdFJ4dUtCQmZvMTByZHNaMU5HTXhsV1JGMURxNGVyNi1jZHJTLUtQZmVFZUtQMjhnRzRPY0FydFREVDJl0gHKAUFVX3lxTE5tUV85VzBORWhwcElDdFU4VnRqZHY3VFpSSlZnQ3ZlSVM2VkNEdS1jSmdiRE5OOXZEdDNXanBseHFkSkN2Z0JNZGgxallFMGR6YXJPM29kRFdBMnRIY0NmYzliSHdOOVljOTJ1WFZUMnJBOGVBMTg4TlN5TFVteGJpQUVXVC1heDhqOE9tSGZWSEkzVDZ2bjVoMUJlOXk0ZlpOYkJVZ19yeUpnZUNpbHZJZC12blF4bVpFZkU5TV9jeVpXNEhIWDBnbnc?oc=5
+- India trials Delhi cloud seeding to clean air in world’s most polluted city - The Guardian
+  India trials Delhi cloud seeding to clean air in world's
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkthR1N6bVR6ZUJha29ya0t2QW9TdWJBem5KcVdFd3FmTS1YeVRRMjJYR1dSZGd4dU0xZ1BXc3BJbmItS1h0bzRwOVdZd1NxSndLLUlMRm9SeERKNURmOGlTTFNLZmRqbkxBdG55UkJUUk5aOXhZNjROeHY2YjdfVmlaWUhZSjVnYVUxLXBscmIwbFllb3V2TUVDS0RqMFVYLXB0Qy1nSTR0ZzRmZkJVUGJKUzdmUVdreVptSVpkNDJXUzZHRnJIR0J3?oc=5
 
-- Your grandpa came from India: Mehdi Hasan counters Nikki Haley's son on US migration - India Today
-  Mehdi Hasan counters Nikki Haley's son on US migration.
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxORmxIYkUyZVk0R25vaG9QRWJ2Qy15RGROcHVVZlJfZWFfZWpodDMtc01TZXRVYW56VHc5U2JIRzJnLVVJRjhTZV9RVk5BQ3ZQeGpBbkMxYkJyamVWYzNJNU1Hb1VSLW9aYVc2bnZXSjFQNU9zeVRseWdHNi1pWmdRbnpNYUdPUUxUOHpWOE1QNHpHZUU0U2JyYmJGYmZfWnBwWmpqN3plTkNGUTNucHI0dXRWQjV1amhIc041X09zVXlOVnd6YnozdElXSi1oUXFtOHdmZGk3MG9rNlpZM3NiVTdJY3ZZX1FQTjJXcHQ3cG1IVzRGZTlKdXlzSDB1UVNsVzBr?oc=5
+- Women's Cricket World Cup 2025:: Can India seal dream after bouncing back? - BBC
+  Women's Cricket World Cup 2025: Can India seal
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsNkF6dS1LeXdOaGtTZU1YeFJ2REdOM29YZndSQnUyTk5YenNWR2d2enVvR0l1Q2I0N3Q1ZzJQcDMyaE5COXpLU0NndDNBdUV2THU0dmlfZHJkQdIBX0FVX3lxTFBtRXJmTWF4RUhvdC1lZ2t4NmZpUXFVRENBVmdQZXk2TS1Ka3JWM09VWWd6aEZNSmFGQ083elBhN1pfbl9Vb1dPbXl0cGdjM3RHQm1naWYtTV9aTGlkWllN?oc=5
 
-- What Taliban Said About Pakistan's 'Proxy War' Charge Against India - NDTV
-  What Taliban Said About Pakistan's 'Proxy
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaXdWNVFQT01qbExRV1UwRWU1cWR2XzNlWElpeVZrNUhGOXFDTWRIYUdHNWlwZTNiVGVXcll4VXNOSG1iSGlTWGpoUlB3VS13R1ptemU3RTBfV1hrV1J3TUlEaHB6dzBPQ3NmZ2FiVUhNZGE3Tk1VRDU1R1lScUh1eGJKN3RWX09WSmtJSHg4Q01TY3hsbkZ1T1p2WnZWTGxnU1ZpeXN1OHcyOTJlbnkyX3N3VktMenhNaEQ2bnRUU3RYVU9UQkRDMmxHajU5M01lR2xUQnlaQmN3ZnhPZ2hMeNIB6AFBVV95cUxQTi1wcFFuVktocC1QWGJLdl9FZXlfNlpLYTBTTGw0ZmU2YjdmRHhoOGQ0akw4cHBWa1dYNC1WOGZVUjFtUEh1S185ZlNiMk1GT0pXMmJ2NGRseFYtZElUTnQ1ZDE2TWp6ZDduSUhBZERyUVdIMWVEbnV5TFRrNUFFaEZINmVhcXM1bGh2Ty16aWpFWXR1SzIydFRNa2tiUWk1VVhXbGszVzBjZ2JfWjBXa05FZ0U2cldURmhCMVFvY2t3djN0cWxNMUFSWUJtYThodDVCYjZWcl9VbXNpbFFpdHFoTGNiWVVi?oc=5
+- 'No deal with a gun to our head’: Piyush Goyal signals India won't give in to Trump's tariff pressure | Latest News India - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MD
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MDc1ektMdnRaU3Q1ZWpmTENYNXB0UFlMWUllZFZheEh3YjhHdl95dHh4aUdjd0lfWF9KOUFELUtXYXRzOGhqVHlyRDIxanE5TkxSUmZuU0xZU0FnaUZMeEU3WWFXU1k4WXJfUkJBQ043azVjTHJOY2RyYVJwaDc0RmVKOXcxRVU2SGF2UjVHRUZMNmxPMmxqZNIB_gFBVV95cUxNZTNIRVRMckl1Y3VQWkl1X1VfeEVvUF8wSEdJMHUxbTNvM1JXZkV6dm1yeDBzTktMeG5PQk41Zk1UUE9oVnRFOTk5bnczTmM3X2picHR0Zi1tcDN4VjBjenJsT2gxaGVNZTBMaGExOU1JYzFqdkN6RjRaSFA1UWVOYXlaZ3ZaZVVIaVFLeExYUjFTTnpvNE9hNVlDNW5QYmNvOElfdmFadTduc3VveldrMzlPSTJZMXJ1Uk8xeWRCcGpUUElLam1EUHZiUTlMeEpQb0JlcGV1X2Z4Z3hSOFdobEtyaTIzU3lUREZtcC1XTjZaQlpuTnRURGhKN0Z0QQ?oc=5
 
-- Trump claims India will 'almost stop' buying Russian oil by year-end - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcH
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcHVpMnF5UDBzZWpIZjBlanhfMHZEMkMtdUYyclRUajdmTnZTdHpOUWhDUzd6TS10R0NpTGhmSnNrRlZVZWxGWnlhRV9xU0NSYnlrTUJQclVXY095b3dQY1gwX1pGZmxVd1FB0gHQAUFVX3lxTE1mVTMzRmt0MUxZQVZ5TVVSY2stSG45d0ZqMGhpcHNGUDhwaW82aE83OTdTNzFfVC1kSUEzMXJtVW5UYklvOFIxSjFsWmU1Qk5RSHZrZms1RHVOUlNheF9zV3hxMGg0M0o1MG9melpmNGpiRUI3SGhzRnFHNmJOOFp2QWZHVjRDaWxfZk9kaENMaWVOeURaMklVczBJazBGLVpQQ0pHblBrZE5SalBtTEp3ZlFWMzMzZ0E1cmpLSEc3TjJOS1lRSDdPVFVlRmkwblI?oc=5
+- Afghanistan To Echo India's Indus Water Move, Stop River Flowing Into Pak - NDTV
+  Afghanistan To Echo India's Indus Water
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWjBGZGVDSmRRajdHSVJzellTRE1ReUh3cG4zSE5NYmRWMEU3Rm5aUWZkbXdIa0J5czVOa0prcERyQVl0d2FNVVlSQmdNZHM4OHFpVzBZeWxhR3pJRl9CQ2tVZ3M1VjF3SHE2cE1sWEtFSEUxV2VNYl9NTnVRVUxidzZjQTZoOFFvRmVZcXZqbUNBbGpiQllfN3NyeG1fdUFwOHhJamJZSFAwUS00X3hZNDlFRmxPMUFPSXpJZlFnZ0xSejQ2ZmFtWGtzY0M0Qk55UkIxdXJMTW1NU1JjOTdGdklLX21wb2YxN2tPdVB4dGRTM2dmNnhUUzF30gGCAkFVX3lxTFBiWUZEanFrMmdjYnhtN1Q5U1dSRFJOdHVnVW80Z0tHRjRtbzdPdHFmanpXXzFqQzdqdjE2LThCUkIyNWZnUGNndmtJTEY1aC1jOVZSbllCeGo4cVhEbmRRMmhkN21SdmdqeUJPNVhCOTNuNS1OVS15cnNsTTRjOTg3amFQQWFIZXVLUThZTjQ0QWxYcHBYNmdjQkhsSnRJMWZzZXVCcUViYXlVenJ3RmpfQlJsQUw1OF9VdGxVU19qTndYeklYNmlfenNzc3NuaWd1MGpXQWZWcHVLa1ZaeXMzZ0wwdnFtN1FUZFQ0OU5mWk1DOHNCTU5wYjB0SE9TMHc2UQ?oc=5
 
-- Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California Road Accident Kill Three - Times of India
-  Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQODk1QkVCb1NqR3luVWpRQlJ5RGdGWkEtdDBhN1A0UW50WnZUUEJMb05nLXZMWGNGRldKYTlrc3Z5VTEwLW56VVRIdU8yblV2Qi1ScmN0aUhHbVNIWUE0NG9iV0huMmpYZHZPdUw3TnBILU9JNmw0dzl5LU1lOGJtWWd5UzEzalNvcmNaQkQxaUxGa0lZMm1zWk1vNTViLVJsdmxZQzRfNkNwTWY2cmxLeHFtaHJiakVFYUprVndRUWctU3dQOUw0MTZKMDctNHNzM1BhMGc4YlYwMm1DSUVvLTBzUHJocmZUZVBnWXAwMWQ0OHJybWJjQVkzX0l2TE9OWFHSAYcCQVVfeXFMTzlKX2V0eWpSUG5URVhIbjVUb0dJU25VUXcyNEdrUWJfdkJLdzZrZXl2aVIyekZtdDRoWHJlWTFad2hEd3N4Z2VUc1RWc3BUa1drakVFQmxGcktCeXNXQUQ5R1RTamp3NmV6QW5aMHpNRjczN3A3VnNsTlFLRWsyWUUtclZ0MDNtWVBuSnRHNHdjRnZLczF2a2JLa2xjaGNCQkZxcVUyeFh1a0R3RW43Skp4VEp2d0I2RmE4eFRJV0haeFJxSFVzVUlaZ05iVVUzMWl3V3BrVFhxYVJxMGl3Ukx0NHk3cHdlNFctYjUtMVA5bDBnQlQtQXA1ektiak8teTFGVXlBYXc?oc=5
+- India rises to ninth spot globally in forest area: FAO - Times of India
+  India rises to ninth spot globally in forest area:
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVdlUmU1aER0VjJxaXlZeUktdlgzVEtKMUs2a2Z0UTJ0SmFqSFlXZ2VuNTU2SG01WGkxTHhLRzBKLU1sbmxuajR0b3VTNS16azFkWERjMFhNM0RkTGhMWVpEQW1zWnhVeEZSY3prdVZxSFlLVWxoSmpMSVZPOWpEVUNMOVpYODlqbzlMTUt0Q0lCOW4yb1ZzTFVJUWZKQmRndGROSW9IVW5xdGN1MHhQR2w5U180a09aWmhjMjRB0gHDAUFVX3lxTE40eTE1RE5fT2c1ZjJ2bUcyeDhjMXJtR24yMS1fWEZ5ZnZsazVWVnd2NElSdlJhcTNfZkNnMjRzdFpVSHM0SzFZLVhpTHVWYmMyOFhwdHRBSnp0d1AwelpJQURfSTFTRlF2RkQwQkdTV3VZblpGejRlRDlwWmdWeEl5UTA4eDdlN09oSVV1NndnOGx3dW5UVEZfV001VmhlOVhqVzczQjZndzYzdkEyYnpULVo4Mi1mZTl3bkhra05FQjFIdw?oc=5
 
-- ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates 8 Indian Cities On ‘How SAFE’ She Felt, Gives -1 - News18
-  ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQczRqRnhua1lIWXU5ZmpadVZPZ1RtdVM4QmNaT2ZKWE10STFBQzFVTWN0TkI4QmlHbnlwYXp5cURmQTBickpWTldyd2NYZVhxak8zNm14WGxucmdqYmcxdDJSM1JTS0g5U0RpUzZvX3RCNUZjOFVJZHk1VG5Ha3IxbDBWVllScHlqdFJ4dUtCQmZvMTByZHNaMU5HTXhsV1JGMURxNGVyNi1jZHJTLUtQZmVFZUtQMjhnRzRPY0FydFREVDJl0gHKAUFVX3lxTE5tUV85VzBORWhwcElDdFU4VnRqZHY3VFpSSlZnQ3ZlSVM2VkNEdS1jSmdiRE5OOXZEdDNXanBseHFkSkN2Z0JNZGgxallFMGR6YXJPM29kRFdBMnRIY0NmYzliSHdOOVljOTJ1WFZUMnJBOGVBMTg4TlN5TFVteGJpQUVXVC1heDhqOE9tSGZWSEkzVDZ2bjVoMUJlOXk0ZlpOYkJVZ19yeUpnZUNpbHZJZC12blF4bVpFZkU5TV9jeVpXNEhIWDBnbnc?oc=5
+- India trials Delhi cloud seeding to clean air in world’s most polluted city - The Guardian
+  India trials Delhi cloud seeding to clean air in world's
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkthR1N6bVR6ZUJha29ya0t2QW9TdWJBem5KcVdFd3FmTS1YeVRRMjJYR1dSZGd4dU0xZ1BXc3BJbmItS1h0bzRwOVdZd1NxSndLLUlMRm9SeERKNURmOGlTTFNLZmRqbkxBdG55UkJUUk5aOXhZNjROeHY2YjdfVmlaWUhZSjVnYVUxLXBscmIwbFllb3V2TUVDS0RqMFVYLXB0Qy1nSTR0ZzRmZkJVUGJKUzdmUVdreVptSVpkNDJXUzZHRnJIR0J3?oc=5
 
-- Your grandpa came from India: Mehdi Hasan counters Nikki Haley's son on US migration - India Today
-  Mehdi Hasan counters Nikki Haley's son on US migration.
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxORmxIYkUyZVk0R25vaG9QRWJ2Qy15RGROcHVVZlJfZWFfZWpodDMtc01TZXRVYW56VHc5U2JIRzJnLVVJRjhTZV9RVk5BQ3ZQeGpBbkMxYkJyamVWYzNJNU1Hb1VSLW9aYVc2bnZXSjFQNU9zeVRseWdHNi1pWmdRbnpNYUdPUUxUOHpWOE1QNHpHZUU0U2JyYmJGYmZfWnBwWmpqN3plTkNGUTNucHI0dXRWQjV1amhIc041X09zVXlOVnd6YnozdElXSi1oUXFtOHdmZGk3MG9rNlpZM3NiVTdJY3ZZX1FQTjJXcHQ3cG1IVzRGZTlKdXlzSDB1UVNsVzBr?oc=5
+- Women's Cricket World Cup 2025:: Can India seal dream after bouncing back? - BBC
+  Women's Cricket World Cup 2025: Can India seal
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsNkF6dS1LeXdOaGtTZU1YeFJ2REdOM29YZndSQnUyTk5YenNWR2d2enVvR0l1Q2I0N3Q1ZzJQcDMyaE5COXpLU0NndDNBdUV2THU0dmlfZHJkQdIBX0FVX3lxTFBtRXJmTWF4RUhvdC1lZ2t4NmZpUXFVRENBVmdQZXk2TS1Ka3JWM09VWWd6aEZNSmFGQ083elBhN1pfbl9Vb1dPbXl0cGdjM3RHQm1naWYtTV9aTGlkWllN?oc=5
 
-- What Taliban Said About Pakistan's 'Proxy War' Charge Against India - NDTV
-  What Taliban Said About Pakistan's 'Proxy
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaXdWNVFQT01qbExRV1UwRWU1cWR2XzNlWElpeVZrNUhGOXFDTWRIYUdHNWlwZTNiVGVXcll4VXNOSG1iSGlTWGpoUlB3VS13R1ptemU3RTBfV1hrV1J3TUlEaHB6dzBPQ3NmZ2FiVUhNZGE3Tk1VRDU1R1lScUh1eGJKN3RWX09WSmtJSHg4Q01TY3hsbkZ1T1p2WnZWTGxnU1ZpeXN1OHcyOTJlbnkyX3N3VktMenhNaEQ2bnRUU3RYVU9UQkRDMmxHajU5M01lR2xUQnlaQmN3ZnhPZ2hMeNIB6AFBVV95cUxQTi1wcFFuVktocC1QWGJLdl9FZXlfNlpLYTBTTGw0ZmU2YjdmRHhoOGQ0akw4cHBWa1dYNC1WOGZVUjFtUEh1S185ZlNiMk1GT0pXMmJ2NGRseFYtZElUTnQ1ZDE2TWp6ZDduSUhBZERyUVdIMWVEbnV5TFRrNUFFaEZINmVhcXM1bGh2Ty16aWpFWXR1SzIydFRNa2tiUWk1VVhXbGszVzBjZ2JfWjBXa05FZ0U2cldURmhCMVFvY2t3djN0cWxNMUFSWUJtYThodDVCYjZWcl9VbXNpbFFpdHFoTGNiWVVi?oc=5
+- 'No deal with a gun to our head’: Piyush Goyal signals India won't give in to Trump's tariff pressure | Latest News India - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MD
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MDc1ektMdnRaU3Q1ZWpmTENYNXB0UFlMWUllZFZheEh3YjhHdl95dHh4aUdjd0lfWF9KOUFELUtXYXRzOGhqVHlyRDIxanE5TkxSUmZuU0xZU0FnaUZMeEU3WWFXU1k4WXJfUkJBQ043azVjTHJOY2RyYVJwaDc0RmVKOXcxRVU2SGF2UjVHRUZMNmxPMmxqZNIB_gFBVV95cUxNZTNIRVRMckl1Y3VQWkl1X1VfeEVvUF8wSEdJMHUxbTNvM1JXZkV6dm1yeDBzTktMeG5PQk41Zk1UUE9oVnRFOTk5bnczTmM3X2picHR0Zi1tcDN4VjBjenJsT2gxaGVNZTBMaGExOU1JYzFqdkN6RjRaSFA1UWVOYXlaZ3ZaZVVIaVFLeExYUjFTTnpvNE9hNVlDNW5QYmNvOElfdmFadTduc3VveldrMzlPSTJZMXJ1Uk8xeWRCcGpUUElLam1EUHZiUTlMeEpQb0JlcGV1X2Z4Z3hSOFdobEtyaTIzU3lUREZtcC1XTjZaQlpuTnRURGhKN0Z0QQ?oc=5
 
-- Trump claims India will 'almost stop' buying Russian oil by year-end - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcH
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcHVpMnF5UDBzZWpIZjBlanhfMHZEMkMtdUYyclRUajdmTnZTdHpOUWhDUzd6TS10R0NpTGhmSnNrRlZVZWxGWnlhRV9xU0NSYnlrTUJQclVXY095b3dQY1gwX1pGZmxVd1FB0gHQAUFVX3lxTE1mVTMzRmt0MUxZQVZ5TVVSY2stSG45d0ZqMGhpcHNGUDhwaW82aE83OTdTNzFfVC1kSUEzMXJtVW5UYklvOFIxSjFsWmU1Qk5RSHZrZms1RHVOUlNheF9zV3hxMGg0M0o1MG9melpmNGpiRUI3SGhzRnFHNmJOOFp2QWZHVjRDaWxfZk9kaENMaWVOeURaMklVczBJazBGLVpQQ0pHblBrZE5SalBtTEp3ZlFWMzMzZ0E1cmpLSEc3TjJOS1lRSDdPVFVlRmkwblI?oc=5
+- Afghanistan To Echo India's Indus Water Move, Stop River Flowing Into Pak - NDTV
+  Afghanistan To Echo India's Indus Water
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWjBGZGVDSmRRajdHSVJzellTRE1ReUh3cG4zSE5NYmRWMEU3Rm5aUWZkbXdIa0J5czVOa0prcERyQVl0d2FNVVlSQmdNZHM4OHFpVzBZeWxhR3pJRl9CQ2tVZ3M1VjF3SHE2cE1sWEtFSEUxV2VNYl9NTnVRVUxidzZjQTZoOFFvRmVZcXZqbUNBbGpiQllfN3NyeG1fdUFwOHhJamJZSFAwUS00X3hZNDlFRmxPMUFPSXpJZlFnZ0xSejQ2ZmFtWGtzY0M0Qk55UkIxdXJMTW1NU1JjOTdGdklLX21wb2YxN2tPdVB4dGRTM2dmNnhUUzF30gGCAkFVX3lxTFBiWUZEanFrMmdjYnhtN1Q5U1dSRFJOdHVnVW80Z0tHRjRtbzdPdHFmanpXXzFqQzdqdjE2LThCUkIyNWZnUGNndmtJTEY1aC1jOVZSbllCeGo4cVhEbmRRMmhkN21SdmdqeUJPNVhCOTNuNS1OVS15cnNsTTRjOTg3amFQQWFIZXVLUThZTjQ0QWxYcHBYNmdjQkhsSnRJMWZzZXVCcUViYXlVenJ3RmpfQlJsQUw1OF9VdGxVU19qTndYeklYNmlfenNzc3NuaWd1MGpXQWZWcHVLa1ZaeXMzZ0wwdnFtN1FUZFQ0OU5mWk1DOHNCTU5wYjB0SE9TMHc2UQ?oc=5
 
-- Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California Road Accident Kill Three - Times of India
-  Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQODk1QkVCb1NqR3luVWpRQlJ5RGdGWkEtdDBhN1A0UW50WnZUUEJMb05nLXZMWGNGRldKYTlrc3Z5VTEwLW56VVRIdU8yblV2Qi1ScmN0aUhHbVNIWUE0NG9iV0huMmpYZHZPdUw3TnBILU9JNmw0dzl5LU1lOGJtWWd5UzEzalNvcmNaQkQxaUxGa0lZMm1zWk1vNTViLVJsdmxZQzRfNkNwTWY2cmxLeHFtaHJiakVFYUprVndRUWctU3dQOUw0MTZKMDctNHNzM1BhMGc4YlYwMm1DSUVvLTBzUHJocmZUZVBnWXAwMWQ0OHJybWJjQVkzX0l2TE9OWFHSAYcCQVVfeXFMTzlKX2V0eWpSUG5URVhIbjVUb0dJU25VUXcyNEdrUWJfdkJLdzZrZXl2aVIyekZtdDRoWHJlWTFad2hEd3N4Z2VUc1RWc3BUa1drakVFQmxGcktCeXNXQUQ5R1RTamp3NmV6QW5aMHpNRjczN3A3VnNsTlFLRWsyWUUtclZ0MDNtWVBuSnRHNHdjRnZLczF2a2JLa2xjaGNCQkZxcVUyeFh1a0R3RW43Skp4VEp2d0I2RmE4eFRJV0haeFJxSFVzVUlaZ05iVVUzMWl3V3BrVFhxYVJxMGl3Ukx0NHk3cHdlNFctYjUtMVA5bDBnQlQtQXA1ektiak8teTFGVXlBYXc?oc=5
+- India rises to ninth spot globally in forest area: FAO - Times of India
+  India rises to ninth spot globally in forest area:
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVdlUmU1aER0VjJxaXlZeUktdlgzVEtKMUs2a2Z0UTJ0SmFqSFlXZ2VuNTU2SG01WGkxTHhLRzBKLU1sbmxuajR0b3VTNS16azFkWERjMFhNM0RkTGhMWVpEQW1zWnhVeEZSY3prdVZxSFlLVWxoSmpMSVZPOWpEVUNMOVpYODlqbzlMTUt0Q0lCOW4yb1ZzTFVJUWZKQmRndGROSW9IVW5xdGN1MHhQR2w5U180a09aWmhjMjRB0gHDAUFVX3lxTE40eTE1RE5fT2c1ZjJ2bUcyeDhjMXJtR24yMS1fWEZ5ZnZsazVWVnd2NElSdlJhcTNfZkNnMjRzdFpVSHM0SzFZLVhpTHVWYmMyOFhwdHRBSnp0d1AwelpJQURfSTFTRlF2RkQwQkdTV3VZblpGejRlRDlwWmdWeEl5UTA4eDdlN09oSVV1NndnOGx3dW5UVEZfV001VmhlOVhqVzczQjZndzYzdkEyYnpULVo4Mi1mZTl3bkhra05FQjFIdw?oc=5
 
-- ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates 8 Indian Cities On ‘How SAFE’ She Felt, Gives -1 - News18
-  ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQczRqRnhua1lIWXU5ZmpadVZPZ1RtdVM4QmNaT2ZKWE10STFBQzFVTWN0TkI4QmlHbnlwYXp5cURmQTBickpWTldyd2NYZVhxak8zNm14WGxucmdqYmcxdDJSM1JTS0g5U0RpUzZvX3RCNUZjOFVJZHk1VG5Ha3IxbDBWVllScHlqdFJ4dUtCQmZvMTByZHNaMU5HTXhsV1JGMURxNGVyNi1jZHJTLUtQZmVFZUtQMjhnRzRPY0FydFREVDJl0gHKAUFVX3lxTE5tUV85VzBORWhwcElDdFU4VnRqZHY3VFpSSlZnQ3ZlSVM2VkNEdS1jSmdiRE5OOXZEdDNXanBseHFkSkN2Z0JNZGgxallFMGR6YXJPM29kRFdBMnRIY0NmYzliSHdOOVljOTJ1WFZUMnJBOGVBMTg4TlN5TFVteGJpQUVXVC1heDhqOE9tSGZWSEkzVDZ2bjVoMUJlOXk0ZlpOYkJVZ19yeUpnZUNpbHZJZC12blF4bVpFZkU5TV9jeVpXNEhIWDBnbnc?oc=5
+- India trials Delhi cloud seeding to clean air in world’s most polluted city - The Guardian
+  India trials Delhi cloud seeding to clean air in world's
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkthR1N6bVR6ZUJha29ya0t2QW9TdWJBem5KcVdFd3FmTS1YeVRRMjJYR1dSZGd4dU0xZ1BXc3BJbmItS1h0bzRwOVdZd1NxSndLLUlMRm9SeERKNURmOGlTTFNLZmRqbkxBdG55UkJUUk5aOXhZNjROeHY2YjdfVmlaWUhZSjVnYVUxLXBscmIwbFllb3V2TUVDS0RqMFVYLXB0Qy1nSTR0ZzRmZkJVUGJKUzdmUVdreVptSVpkNDJXUzZHRnJIR0J3?oc=5
 
-- Your grandpa came from India: Mehdi Hasan counters Nikki Haley's son on US migration - India Today
-  Mehdi Hasan counters Nikki Haley's son on US migration.
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxORmxIYkUyZVk0R25vaG9QRWJ2Qy15RGROcHVVZlJfZWFfZWpodDMtc01TZXRVYW56VHc5U2JIRzJnLVVJRjhTZV9RVk5BQ3ZQeGpBbkMxYkJyamVWYzNJNU1Hb1VSLW9aYVc2bnZXSjFQNU9zeVRseWdHNi1pWmdRbnpNYUdPUUxUOHpWOE1QNHpHZUU0U2JyYmJGYmZfWnBwWmpqN3plTkNGUTNucHI0dXRWQjV1amhIc041X09zVXlOVnd6YnozdElXSi1oUXFtOHdmZGk3MG9rNlpZM3NiVTdJY3ZZX1FQTjJXcHQ3cG1IVzRGZTlKdXlzSDB1UVNsVzBr?oc=5
+- Women's Cricket World Cup 2025:: Can India seal dream after bouncing back? - BBC
+  Women's Cricket World Cup 2025: Can India seal
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsNkF6dS1LeXdOaGtTZU1YeFJ2REdOM29YZndSQnUyTk5YenNWR2d2enVvR0l1Q2I0N3Q1ZzJQcDMyaE5COXpLU0NndDNBdUV2THU0dmlfZHJkQdIBX0FVX3lxTFBtRXJmTWF4RUhvdC1lZ2t4NmZpUXFVRENBVmdQZXk2TS1Ka3JWM09VWWd6aEZNSmFGQ083elBhN1pfbl9Vb1dPbXl0cGdjM3RHQm1naWYtTV9aTGlkWllN?oc=5
 
-- What Taliban Said About Pakistan's 'Proxy War' Charge Against India - NDTV
-  What Taliban Said About Pakistan's 'Proxy
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaXdWNVFQT01qbExRV1UwRWU1cWR2XzNlWElpeVZrNUhGOXFDTWRIYUdHNWlwZTNiVGVXcll4VXNOSG1iSGlTWGpoUlB3VS13R1ptemU3RTBfV1hrV1J3TUlEaHB6dzBPQ3NmZ2FiVUhNZGE3Tk1VRDU1R1lScUh1eGJKN3RWX09WSmtJSHg4Q01TY3hsbkZ1T1p2WnZWTGxnU1ZpeXN1OHcyOTJlbnkyX3N3VktMenhNaEQ2bnRUU3RYVU9UQkRDMmxHajU5M01lR2xUQnlaQmN3ZnhPZ2hMeNIB6AFBVV95cUxQTi1wcFFuVktocC1QWGJLdl9FZXlfNlpLYTBTTGw0ZmU2YjdmRHhoOGQ0akw4cHBWa1dYNC1WOGZVUjFtUEh1S185ZlNiMk1GT0pXMmJ2NGRseFYtZElUTnQ1ZDE2TWp6ZDduSUhBZERyUVdIMWVEbnV5TFRrNUFFaEZINmVhcXM1bGh2Ty16aWpFWXR1SzIydFRNa2tiUWk1VVhXbGszVzBjZ2JfWjBXa05FZ0U2cldURmhCMVFvY2t3djN0cWxNMUFSWUJtYThodDVCYjZWcl9VbXNpbFFpdHFoTGNiWVVi?oc=5
+- 'No deal with a gun to our head’: Piyush Goyal signals India won't give in to Trump's tariff pressure | Latest News India - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MD
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MDc1ektMdnRaU3Q1ZWpmTENYNXB0UFlMWUllZFZheEh3YjhHdl95dHh4aUdjd0lfWF9KOUFELUtXYXRzOGhqVHlyRDIxanE5TkxSUmZuU0xZU0FnaUZMeEU3WWFXU1k4WXJfUkJBQ043azVjTHJOY2RyYVJwaDc0RmVKOXcxRVU2SGF2UjVHRUZMNmxPMmxqZNIB_gFBVV95cUxNZTNIRVRMckl1Y3VQWkl1X1VfeEVvUF8wSEdJMHUxbTNvM1JXZkV6dm1yeDBzTktMeG5PQk41Zk1UUE9oVnRFOTk5bnczTmM3X2picHR0Zi1tcDN4VjBjenJsT2gxaGVNZTBMaGExOU1JYzFqdkN6RjRaSFA1UWVOYXlaZ3ZaZVVIaVFLeExYUjFTTnpvNE9hNVlDNW5QYmNvOElfdmFadTduc3VveldrMzlPSTJZMXJ1Uk8xeWRCcGpUUElLam1EUHZiUTlMeEpQb0JlcGV1X2Z4Z3hSOFdobEtyaTIzU3lUREZtcC1XTjZaQlpuTnRURGhKN0Z0QQ?oc=5
 
-- Trump claims India will 'almost stop' buying Russian oil by year-end - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcH
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOa25zOEZwYjctU2taRWdTNjV0TEdPLU8yck9vNGI2d2MtWnlYOEpKcXkteWlQckRRY2pMSmgyWVBoVzVSMHEyX3QxRC1IdzE5ejcxMXN5b1lqeVdsYXh2bVlhMWhkQVZVcHVpMnF5UDBzZWpIZjBlanhfMHZEMkMtdUYyclRUajdmTnZTdHpOUWhDUzd6TS10R0NpTGhmSnNrRlZVZWxGWnlhRV9xU0NSYnlrTUJQclVXY095b3dQY1gwX1pGZmxVd1FB0gHQAUFVX3lxTE1mVTMzRmt0MUxZQVZ5TVVSY2stSG45d0ZqMGhpcHNGUDhwaW82aE83OTdTNzFfVC1kSUEzMXJtVW5UYklvOFIxSjFsWmU1Qk5RSHZrZms1RHVOUlNheF9zV3hxMGg0M0o1MG9melpmNGpiRUI3SGhzRnFHNmJOOFp2QWZHVjRDaWxfZk9kaENMaWVOeURaMklVczBJazBGLVpQQ0pHblBrZE5SalBtTEp3ZlFWMzMzZ0E1cmpLSEc3TjJOS1lRSDdPVFVlRmkwblI?oc=5
+- Afghanistan To Echo India's Indus Water Move, Stop River Flowing Into Pak - NDTV
+  Afghanistan To Echo India's Indus Water
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWjBGZGVDSmRRajdHSVJzellTRE1ReUh3cG4zSE5NYmRWMEU3Rm5aUWZkbXdIa0J5czVOa0prcERyQVl0d2FNVVlSQmdNZHM4OHFpVzBZeWxhR3pJRl9CQ2tVZ3M1VjF3SHE2cE1sWEtFSEUxV2VNYl9NTnVRVUxidzZjQTZoOFFvRmVZcXZqbUNBbGpiQllfN3NyeG1fdUFwOHhJamJZSFAwUS00X3hZNDlFRmxPMUFPSXpJZlFnZ0xSejQ2ZmFtWGtzY0M0Qk55UkIxdXJMTW1NU1JjOTdGdklLX21wb2YxN2tPdVB4dGRTM2dmNnhUUzF30gGCAkFVX3lxTFBiWUZEanFrMmdjYnhtN1Q5U1dSRFJOdHVnVW80Z0tHRjRtbzdPdHFmanpXXzFqQzdqdjE2LThCUkIyNWZnUGNndmtJTEY1aC1jOVZSbllCeGo4cVhEbmRRMmhkN21SdmdqeUJPNVhCOTNuNS1OVS15cnNsTTRjOTg3amFQQWFIZXVLUThZTjQ0QWxYcHBYNmdjQkhsSnRJMWZzZXVCcUViYXlVenJ3RmpfQlJsQUw1OF9VdGxVU19qTndYeklYNmlfenNzc3NuaWd1MGpXQWZWcHVLa1ZaeXMzZ0wwdnFtN1FUZFQ0OU5mWk1DOHNCTU5wYjB0SE9TMHc2UQ?oc=5
 
-- Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California Road Accident Kill Three - Times of India
-  Karoline Leavitt Calls Indian Trucker Illegal Alien After Deadly California
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQODk1QkVCb1NqR3luVWpRQlJ5RGdGWkEtdDBhN1A0UW50WnZUUEJMb05nLXZMWGNGRldKYTlrc3Z5VTEwLW56VVRIdU8yblV2Qi1ScmN0aUhHbVNIWUE0NG9iV0huMmpYZHZPdUw3TnBILU9JNmw0dzl5LU1lOGJtWWd5UzEzalNvcmNaQkQxaUxGa0lZMm1zWk1vNTViLVJsdmxZQzRfNkNwTWY2cmxLeHFtaHJiakVFYUprVndRUWctU3dQOUw0MTZKMDctNHNzM1BhMGc4YlYwMm1DSUVvLTBzUHJocmZUZVBnWXAwMWQ0OHJybWJjQVkzX0l2TE9OWFHSAYcCQVVfeXFMTzlKX2V0eWpSUG5URVhIbjVUb0dJU25VUXcyNEdrUWJfdkJLdzZrZXl2aVIyekZtdDRoWHJlWTFad2hEd3N4Z2VUc1RWc3BUa1drakVFQmxGcktCeXNXQUQ5R1RTamp3NmV6QW5aMHpNRjczN3A3VnNsTlFLRWsyWUUtclZ0MDNtWVBuSnRHNHdjRnZLczF2a2JLa2xjaGNCQkZxcVUyeFh1a0R3RW43Skp4VEp2d0I2RmE4eFRJV0haeFJxSFVzVUlaZ05iVVUzMWl3V3BrVFhxYVJxMGl3Ukx0NHk3cHdlNFctYjUtMVA5bDBnQlQtQXA1ektiak8teTFGVXlBYXc?oc=5
+- India rises to ninth spot globally in forest area: FAO - Times of India
+  India rises to ninth spot globally in forest area:
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVdlUmU1aER0VjJxaXlZeUktdlgzVEtKMUs2a2Z0UTJ0SmFqSFlXZ2VuNTU2SG01WGkxTHhLRzBKLU1sbmxuajR0b3VTNS16azFkWERjMFhNM0RkTGhMWVpEQW1zWnhVeEZSY3prdVZxSFlLVWxoSmpMSVZPOWpEVUNMOVpYODlqbzlMTUt0Q0lCOW4yb1ZzTFVJUWZKQmRndGROSW9IVW5xdGN1MHhQR2w5U180a09aWmhjMjRB0gHDAUFVX3lxTE40eTE1RE5fT2c1ZjJ2bUcyeDhjMXJtR24yMS1fWEZ5ZnZsazVWVnd2NElSdlJhcTNfZkNnMjRzdFpVSHM0SzFZLVhpTHVWYmMyOFhwdHRBSnp0d1AwelpJQURfSTFTRlF2RkQwQkdTV3VZblpGejRlRDlwWmdWeEl5UTA4eDdlN09oSVV1NndnOGx3dW5UVEZfV001VmhlOVhqVzczQjZndzYzdkEyYnpULVo4Mi1mZTl3bkhra05FQjFIdw?oc=5
 
-- ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates 8 Indian Cities On ‘How SAFE’ She Felt, Gives -1 - News18
-  ‘Kerala Is Calm, Clean & Respectful:’ Bangkok Woman Rates
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQczRqRnhua1lIWXU5ZmpadVZPZ1RtdVM4QmNaT2ZKWE10STFBQzFVTWN0TkI4QmlHbnlwYXp5cURmQTBickpWTldyd2NYZVhxak8zNm14WGxucmdqYmcxdDJSM1JTS0g5U0RpUzZvX3RCNUZjOFVJZHk1VG5Ha3IxbDBWVllScHlqdFJ4dUtCQmZvMTByZHNaMU5HTXhsV1JGMURxNGVyNi1jZHJTLUtQZmVFZUtQMjhnRzRPY0FydFREVDJl0gHKAUFVX3lxTE5tUV85VzBORWhwcElDdFU4VnRqZHY3VFpSSlZnQ3ZlSVM2VkNEdS1jSmdiRE5OOXZEdDNXanBseHFkSkN2Z0JNZGgxallFMGR6YXJPM29kRFdBMnRIY0NmYzliSHdOOVljOTJ1WFZUMnJBOGVBMTg4TlN5TFVteGJpQUVXVC1heDhqOE9tSGZWSEkzVDZ2bjVoMUJlOXk0ZlpOYkJVZ19yeUpnZUNpbHZJZC12blF4bVpFZkU5TV9jeVpXNEhIWDBnbnc?oc=5
+- India trials Delhi cloud seeding to clean air in world’s most polluted city - The Guardian
+  India trials Delhi cloud seeding to clean air in world's
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkthR1N6bVR6ZUJha29ya0t2QW9TdWJBem5KcVdFd3FmTS1YeVRRMjJYR1dSZGd4dU0xZ1BXc3BJbmItS1h0bzRwOVdZd1NxSndLLUlMRm9SeERKNURmOGlTTFNLZmRqbkxBdG55UkJUUk5aOXhZNjROeHY2YjdfVmlaWUhZSjVnYVUxLXBscmIwbFllb3V2TUVDS0RqMFVYLXB0Qy1nSTR0ZzRmZkJVUGJKUzdmUVdreVptSVpkNDJXUzZHRnJIR0J3?oc=5
 
-- Your grandpa came from India: Mehdi Hasan counters Nikki Haley's son on US migration - India Today
-  Mehdi Hasan counters Nikki Haley's son on US migration.
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxORmxIYkUyZVk0R25vaG9QRWJ2Qy15RGROcHVVZlJfZWFfZWpodDMtc01TZXRVYW56VHc5U2JIRzJnLVVJRjhTZV9RVk5BQ3ZQeGpBbkMxYkJyamVWYzNJNU1Hb1VSLW9aYVc2bnZXSjFQNU9zeVRseWdHNi1pWmdRbnpNYUdPUUxUOHpWOE1QNHpHZUU0U2JyYmJGYmZfWnBwWmpqN3plTkNGUTNucHI0dXRWQjV1amhIc041X09zVXlOVnd6YnozdElXSi1oUXFtOHdmZGk3MG9rNlpZM3NiVTdJY3ZZX1FQTjJXcHQ3cG1IVzRGZTlKdXlzSDB1UVNsVzBr?oc=5
+- Women's Cricket World Cup 2025:: Can India seal dream after bouncing back? - BBC
+  Women's Cricket World Cup 2025: Can India seal
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsNkF6dS1LeXdOaGtTZU1YeFJ2REdOM29YZndSQnUyTk5YenNWR2d2enVvR0l1Q2I0N3Q1ZzJQcDMyaE5COXpLU0NndDNBdUV2THU0dmlfZHJkQdIBX0FVX3lxTFBtRXJmTWF4RUhvdC1lZ2t4NmZpUXFVRENBVmdQZXk2TS1Ka3JWM09VWWd6aEZNSmFGQ083elBhN1pfbl9Vb1dPbXl0cGdjM3RHQm1naWYtTV9aTGlkWllN?oc=5
 
-- What it's like to live in the world's smartest cities for 2025 - BBC
-  What it's like to live in the world's
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPdVQtNnVJOXYwanhCbmhvd2tSeF9POC1rN1RqbXZMd2hJcnVPMkVncUFXN2NRejZoeDVEY0FoMzFQVW8xMFZETGUwY1FRSGZuWmgyS2xSZ25yUHo1ZHAxR0pGSVJIRzlPaGp0UC1XbXRDWk9wNThGdEttaXdoS0hwRjJVVFYzVGRXdjA1Q0Jsd3JkRnRKb3NvSFhDRQ?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Stephen Hawking’s chilling prediction: Why AI could be humanity’s greatest creation or its ultimate downf - Times of India
-  The future of AI is in the hands of computer scientists, says
-  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxQLVF3eEI5VFlRR0NwdzlWQlFuTHVqcFgtcjRFbk02NG5fdEIyVVBFZXdGamE4b0VZVlBsUFdtSFRHT0RPdWdyV1RDOGRvN0JWcmRzQ0hYTVFtM1hTT05fVDNvbXNTMTBpV1BiZkNPRU9GVElpdnpza3RSU0RkS2hoNjhXZVhmZ1ZuRlN0YWw1M1JMRlFJaEJmRkVQejgtVzRzLXlKMC10Y0FhaVhVb1RjTmRLaUdPVVhpcUlnRGtvYmJSbm9uaFlPYzFwbTUxU0VvOWpiWjZfdDRYT0k5X3ZfbWdMY0k3MXVzR2JlRV9oT0Y4VG03NWdxVVBHYXRWWFFQQk5LWWhneTZ3azM0aVp2QUg4bmNzZnPSAZwCQVVfeXFMTkRSUVJKZnVySm5WWnc1UzAyNkxJUDVqOFJtME03ZUxZdF8zcERsdDRMYVNEQ2xWQjRvNHhOVzJ3RWd3dWd3S19FVEhoRGN5T1ByX0JYVUNZXzh3WElrYWdjNGd6V2FZY1ptaUd1SXFGejFQakVsOFZFZFRES3RvYjBhN3BoWmlfRC1TR2Y3MTBWWXpobGRvOE9rdmxPWE1GWnJUZWw1R2w4NWlXX3Z2Mm9nclFSMXRvRllyaloyamRSR0xRRkJ4UHlkWTEyTFk4aGRiQXI2bXVQb2ltUlBvZkw5RGEydEhzWDY4b3g5NHV2VEI3ZERidW1sU0dReFRKNmh3Ynh2YWtwMG5ZMjkxVmF4MWFaSUFmZmlWMnQ?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Alaska Airlines Grounds Its Aircraft Due To Technology Outage - NDTV
-  Alaska Airlines Grounds Its Aircraft Due
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxORURhODdVbUI5c3RySTdyLVZvVGJPZnNfTWFQOEFCQm9xdWdnbHFySG0xMXlSZVNic3RRR3NOWVBXbTliMjRLZ0RpV2hCdzQwZUkyenEwWWVZa3d6eXBLYXhiUFV4anJWcDFHUFBlbEMyaWNYSkxBODlKV2VwZkJaZzZOdHBHYW1Ed3MyYVpfQVU4b0w5azY0SWREbGpfcGpkWDdYa1MxclRFcHRpZ05faWZTdzRJRnY50gHAAUFVX3lxTFBlNmtFSXBrVlFnd1Y3WGhVSDRhX3Npcm5yaWRjOXU2TW5TRXQxQUZLQVBadEFxVnB6N3lLeEg2cmpIUmJtVGFqRlpxSTUyck5FbDYzZWdfd2lvcEpLY1E1am41ci1oUFY0QUFUdEotbDM2OHE5VFNYX1Rmc0JXQVNnR2dRMFpMM3k3UWZwcmktYlhIcEtfeVZzemtIeHhwYjZDdGkxVGRoUVpqOVpQNjVWYVRWeEFhcl85RUYxQVByag?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Russia acquired Western technology to protect its nuclear submarine fleet - The Washington Post
-  Russia acquired Western technology to protect its nuclear submarine fleet
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTZmZm91T0JlbG9lQUJBYVd3d3hzWWtFMVFtaWhfTFVZUUxEdzhRXzdHQVVhQl83U2lQa3FhbkRjRjRhYzB5QlBvUEt2M09GTERndFpVd0xIbWlHTjhsZVhmNllRUUt5aFItbTdWLTBIYjJ5SGtLdU12ME01eXhndGhiTU51NnVldlZweDJkdVFLRDdLYjR3OHBNMDdXeDk1Nmc?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Introducing AWS RTB Fabric for real-time advertising technology workloads | Amazon Web Services - Amazon Web Services
-  Introducing AWS RTB Fabric for real-time advertising technology workload
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHNiRDZFYmt1RHV1cXRoZUM3QWpOUV9icV8yNFpwd05vajI0UU04TERMRWF2dU9PREN3Zi1ZLUhZemNkMTVqRDUwdmFtZE93UnNxcXJnWUVRYzYwai1sYWNFT05rRFFXeUdxLTU0YmxLa0J3SEVnVWp0ZVhpS3FJR3FEaWJEQkdFemJCRW1IOFVGdVBYNGZSLUJwZXgtRVljUGJaZjFQeWJ6UTQ?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-24 06:26:41 UTC_
+_Last updated: 2025-10-24 12:36:23 UTC_
