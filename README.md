@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Railways approves second direct Superfast train between Bengaluru and Mumbai – check route, stoppages
+- Month before mayoral polls in Shimla, Himachal Cabinet doubles mayor term to 5 years
   
-  🔗 https://indianexpress.com/article/india/railways-second-direct-superfast-train-bengaluru-mumbai-route-stoppages-10326377/
+  🔗 https://indianexpress.com/article/india/month-before-mayoral-polls-in-shimla-himachal-cabinet-doubles-mayor-term-to-5-years-10327013/
 
-- Suspect in Assam railway track blast gunned down in police encounter
+- ‘Please help me, I will die’: Video of Indian worker in Saudi Arabia prompts embassy intervention
   
-  🔗 https://indianexpress.com/article/india/assam-railway-track-blast-police-encounter-10326424/
+  🔗 https://indianexpress.com/article/india/please-help-me-i-will-die-video-of-indian-worker-in-saudi-arabia-prompts-embassy-intervention-10326677/
 
-- Chhath Puja 2025: Patna district administration issues advisory, releases list of dangerous and unsuitable ghats
+- Cyclone Montha Tracker LIVE Updates: Cyclone to hit Andhra Pradesh next week; heavy rain, strong winds expected
   
-  🔗 https://indianexpress.com/article/india/chhath-puja-2025-patna-district-administration-traffic-advisory-ghats-list-10326441/
+  🔗 https://indianexpress.com/article/india/cyclone-montha-live-updates-landfall-andhra-pradesh-coast-imd-10326825/
 
-- Delhi Airport Terminal 2 reopening on October 26: IndiGo, Air India issue travel advisory for passengers – check latest guidelines
+- Local club members assault cop when told to stop loud music at DJ party in Tripura, 7 arrested
   
-  🔗 https://indianexpress.com/article/india/delhi-airport-terminal-2-reopening-indigo-air-india-travel-advisory-passengers-10326221/
+  🔗 https://indianexpress.com/article/india/local-club-members-assault-cop-when-told-to-stop-loud-music-at-dj-party-in-tripura-7-arrested-10326783/
 
-- ‘Severe’ cyclone headed to Andhra Pradesh; IMD issues extremely heavy rain alert for next week
+- Over 400 TSR jawans to be deployed to maintain security in Bihar elections, contingent heads for Patna in special train
   
-  🔗 https://indianexpress.com/article/india/cyclone-andhra-pradesh-imd-extremely-heavy-rain-alert-next-week-10326232/
+  🔗 https://indianexpress.com/article/india/400-tsr-jawans-security-bihar-elections-patna-special-train-10326756/
 
 - Sam Altman’s Merge Labs may use ultrasound and magnetic field to read your mind
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/iphone-16-under-rs-50000-iphone-15-under-rs-45000-how-to-get-the-best-deal-on-amazon-10325951/
 
+- ‘Come home, let's create strong Bharat’: Zoho's Sridhar Vembu urges immigrants
+  Zoho's Sridhar Vembu urged immigrants to come back to India as the nation has the potential to become a strong
+  🔗 https://www.livemint.com/companies/people/come-home-lets-create-strong-bharat-zohos-sridhar-vembu-urges-immigrants-11761393536447.html
+
 - Cognizant CEO Ravi Kumar S opens up on jobs, hiring and AI: ‘We will need more school graduates’
   Many companies have a pyramid where the school graduates are at the bottom. This pyramid is going to change into a manner that more experts are produced
   🔗 https://www.livemint.com/companies/people/cognizant-ceo-ravi-kumar-s-opens-up-on-jobs-hiring-and-ai-we-will-need-more-school-graduates-11761387638427.html
@@ -55,10 +59,6 @@
 - Inside Girish Mathrubootham’s quest to build India’s global AI giants
   The former Freshworks CEO is going all in on AI, putting on his investor cap to hunt for AI startups.
   🔗 https://www.livemint.com/companies/girish-mathrubootham-india-ai-startups-together-fund-11761029009046.html
-
-- Crompton Greaves secures major solar rooftop order worth  ₹445 crores
-  The project will involve the installation of 2 KW on-grid rooftop systems across over 40,000 households in And
-  🔗 https://www.livemint.com/companies/news/crompton-greaves-secures-major-solar-rooftop-order-worth-445-crores-11761325111969.html
 
 - Dividend Stocks: Infosys, CESC, Tanla Platforms, among others to trade ex-dividend next week; Full list here
   Infosys, CESC, Tanla Platforms, L&amp;amp;T Tech, REC, Coforge, and
@@ -120,45 +120,45 @@
   In a three-day trading week, Nifty gained 0.33%, attempting a breakout from a multi-month consolidation. With improving
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-nears-breakout-zone-as-bulls-eye-confirmation-above-25900-next-week/articleshow/124803995.cms
 
-- 'No Benefit In Fighting India': Ex-CIA Officer Who Led Pak Operations - NDTV
-  'No Benefit In Fighting India': Ex-
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzNlWldUbHdueWczMnlrNHRqVkVQWFJEaFA2eGU5bXpiVEM4cFZmU0pBMXdxcmpydEVCVFNPS2paQUkwTG1va2VXQVRQTVc2MzBJVU5nX0txZ25PaDhGLXhhcXBEQlk5MHZjVS1tbjh2SzREWlJNb3k4UnBUVTZYYjhBQUZ3Rnh5cTVQV3VYN0xXQ1RlZFFaa3N0TXEtUFJwR3dUTjljTEN6ZG5sSW9PVTJzOWRnRDJLc2hCSE1TOUXSAcgBQVVfeXFMT2ZPZTduLXV5SWdUYTY2YTlwWk1fRHB4TDUtcWw0M21IR1BleHFsTFRrYzFsbS1rcHp4bDVZNnd0SWhXaHROREE2RkRVRm9SR1N2bzBTaW1MM3FXZXhPRjBfNk11NkYzS1BOUVhfZXl1WENKb3hfR29qSWdTNlVheWVkbTl6SlVnQ2RRZG1qNk91T2VZNG1KTUVPVGNzZnJLOXNkVUw4Zm5VdnY0aDNRelQ1Qi1BZWdVZndCNWM4Qzg2bGYzR3cyemc?oc=5
-
 - 'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell; reveals Washington expected - Times of India
   'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell.
   🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPMUczaWxFQXhMWjQzVDg0alhSRXZxal9hNjFmNExSUHZpM0dDd2FQWnBNWjFVYlVtd3lyQXN1RDduVG8zWmlZTllOd1RSVldHWmRDQzBxTGtIVlFtWWp2aEczbnNUNkVJMk52QTg3OWlYYVJocVg4T19Vcl9lYk0xaW5CQVZEd18tUXpxdWlyaU1EWS00R1ZfNEh6cUI3WjBsMmNQYmRPa3FUMGVrRFh1eUNCVEl1NWNJR1NrVXpKNkZ0c3lZYXJlTmxXbHI1dWxkbExjd0dKZDRQRXlBRGxzX2VPeEMzMEVnaVVRaGRlTGtiOWJrM1YwNGhhcVR5NERJVkg1bFJScm5NbUN4TEV5UjYyUVhsSmd2TldhRUIyS1cyblBuaUHSAasCQVVfeXFMTkdyd2JFSmpOZUZsQ181SG9jZTFpdjZpU3FjWHU4NVNFSjBEOThYY0lBc01nTDF3MmVOYkVmN3c4eWlaRVFzQ1BBRXJuQnhobXlBRkxvTWdialU2MkR5YzhIMnY0dVRzcl8xbzNnVWZORkQtTHo1cmRHaU00NUxySl9oMm1HOUdoVmw4bDBwNWNpRkhqNldDWlppc1lXeVlya2tvS25GM09KMUtlU0ZFbUtrd1lBU0YyTFpNLVJwMFdOWG1YX2p5bjZyVnhBMGFlTkhJc0wwdGRFSkFEUHFwSjFYcFdfbTEzRHJSY0JlSnl2b3FrOFp2aTREN1ZTRzE5WnlrMVlMX09PUWgzeWJPZ2hlcEhmQ1VtSzVhaEVxdEVteHdaRjQ5VkZYYlk?oc=5
-
-- ‘Pakistan will lose any conventional war with India’: Former CIA officer John Kiriakou | Latest News India - Hindustan Times
-  ‘Pakistan will lose any conventional war with India’: Former CIA officer
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUVZJSFRSNXgzZnI3bXoydlNiVEdaR0JId05hRFZBYkFNZEQzcVlZdmhYOU40RXlvbldRMjZHU3J2TWdNaUc3QlNPU3FkdlpLQUo3R1lxb0xWVWFYcDQ4b1AySkhmUy1pekh3LTB3MXJTSmZWMEExcEIzOVdlSTlDVkVmS2dfNFg0ZzQ4VkhwbjAySXVYSjd0ZEx3Z2tFdUNhSUg2LWQ5S0RUVWwtTEZJckVDeGpNeDlRdU9SMWNnamJZOFl3b00wUUIzek52bktTZ19RYzB0TkVzdFZjajhN0gHkAUFVX3lxTE1ZTWFhQjNSU21jLTY4bUNRdnEzVTdtUm9FQW5MOWpjeC1mZ3NRX2M0dmdaQ25Pbkk1akw4TEp2UDNaZDRocnR4dzB6c2J6Rm03S3BheTFjSUxfbVhTUll6Q3VhdW9lNmtZejR0ejVOYmY0cU1mbWJDTV9NYzVMaUNRaC1YNGE4MndVRXl1cF9tdWtzLTZCTFNYcTdYNG9lQldoY0lOT2lmQ3FqeExrUnZuUUpCaV8zV2tkUjZPLUw5bFZJYTA3SXA1eXBTWWJxcHlWQmVmUWQwQTB5SnFCeVFOQ3J4Qg?oc=5
-
-- 'No deal with a gun to our head’: Piyush Goyal signals India won't give in to Trump's tariff pressure | Latest News India - Hindustan Times
-  'No deal with a gun to our head': Piyush Goyal signals India won't give in
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MDc1ektMdnRaU3Q1ZWpmTENYNXB0UFlMWUllZFZheEh3YjhHdl95dHh4aUdjd0lfWF9KOUFELUtXYXRzOGhqVHlyRDIxanE5TkxSUmZuU0xZU0FnaUZMeEU3WWFXU1k4WXJfUkJBQ043azVjTHJOY2RyYVJwaDc0RmVKOXcxRVU2SGF2UjVHRUZMNmxPMmxqZNIB_gFBVV95cUxNZTNIRVRMckl1Y3VQWkl1X1VfeEVvUF8wSEdJMHUxbTNvM1JXZkV6dm1yeDBzTktMeG5PQk41Zk1UUE9oVnRFOTk5bnczTmM3X2picHR0Zi1tcDN4VjBjenJsT2gxaGVNZTBMaGExOU1JYzFqdkN6RjRaSFA1UWVOYXlaZ3ZaZVVIaVFLeExYUjFTTnpvNE9hNVlDNW5QYmNvOElfdmFadTduc3VveldrMzlPSTJZMXJ1Uk8xeWRCcGpUUElLam1EUHZiUTlMeEpQb0JlcGV1X2Z4Z3hSOFdobEtyaTIzU3lUREZtcC1XTjZaQlpuTnRURGhKN0Z0QQ?oc=5
-
-- Bill Gates's cameo in iconic Indian TV drama with Smriti irani - BBC
-  Bill Gates's cameo in iconic Indian TV drama
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jOUdsSWlHU0FJSWc3SG81YjJ6Y0VpRVNUdEdVTHhWakxJeGE3aTlteUFZN2t0VXFzVW9pOXFmR3dGcnFraFM4NVpMeUpzcVNRTnVMLWhNa0hBQdIBX0FVX3lxTE5ReXFqM3RUeDJBckFCcUVFeWluUUlRZDI0T3hMLS1rbzFMTHA0N2pyeVZTVmRjR2NYbWZ0bjVUV2xhUmFKOXFyWEJZMFpKODJFeXZsMEYyXzNTSXhEVnZZ?oc=5
 
 - 'No Benefit In Fighting India': Ex-CIA Officer Who Led Pak Operations - NDTV
   'No Benefit In Fighting India': Ex-
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzNlWldUbHdueWczMnlrNHRqVkVQWFJEaFA2eGU5bXpiVEM4cFZmU0pBMXdxcmpydEVCVFNPS2paQUkwTG1va2VXQVRQTVc2MzBJVU5nX0txZ25PaDhGLXhhcXBEQlk5MHZjVS1tbjh2SzREWlJNb3k4UnBUVTZYYjhBQUZ3Rnh5cTVQV3VYN0xXQ1RlZFFaa3N0TXEtUFJwR3dUTjljTEN6ZG5sSW9PVTJzOWRnRDJLc2hCSE1TOUXSAcgBQVVfeXFMT2ZPZTduLXV5SWdUYTY2YTlwWk1fRHB4TDUtcWw0M21IR1BleHFsTFRrYzFsbS1rcHp4bDVZNnd0SWhXaHROREE2RkRVRm9SR1N2bzBTaW1MM3FXZXhPRjBfNk11NkYzS1BOUVhfZXl1WENKb3hfR29qSWdTNlVheWVkbTl6SlVnQ2RRZG1qNk91T2VZNG1KTUVPVGNzZnJLOXNkVUw4Zm5VdnY0aDNRelQ1Qi1BZWdVZndCNWM4Qzg2bGYzR3cyemc?oc=5
 
+- ‘Pakistan will lose any conventional war with India’: Former CIA officer John Kiriakou | Latest News India - Hindustan Times
+  ‘Pakistan will lose any conventional war with India’: Former CIA officer
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUVZJSFRSNXgzZnI3bXoydlNiVEdaR0JId05hRFZBYkFNZEQzcVlZdmhYOU40RXlvbldRMjZHU3J2TWdNaUc3QlNPU3FkdlpLQUo3R1lxb0xWVWFYcDQ4b1AySkhmUy1pekh3LTB3MXJTSmZWMEExcEIzOVdlSTlDVkVmS2dfNFg0ZzQ4VkhwbjAySXVYSjd0ZEx3Z2tFdUNhSUg2LWQ5S0RUVWwtTEZJckVDeGpNeDlRdU9SMWNnamJZOFl3b00wUUIzek52bktTZ19RYzB0TkVzdFZjajhN0gHkAUFVX3lxTE1ZTWFhQjNSU21jLTY4bUNRdnEzVTdtUm9FQW5MOWpjeC1mZ3NRX2M0dmdaQ25Pbkk1akw4TEp2UDNaZDRocnR4dzB6c2J6Rm03S3BheTFjSUxfbVhTUll6Q3VhdW9lNmtZejR0ejVOYmY0cU1mbWJDTV9NYzVMaUNRaC1YNGE4MndVRXl1cF9tdWtzLTZCTFNYcTdYNG9lQldoY0lOT2lmQ3FqeExrUnZuUUpCaV8zV2tkUjZPLUw5bFZJYTA3SXA1eXBTWWJxcHlWQmVmUWQwQTB5SnFCeVFOQ3J4Qg?oc=5
+
+- Pakistan’s Naval Chief Visits 'Disputed Creek Areas' Along Border With India | Exclusive Details - News18
+  Pakistan’s Naval Chief Visits 'Disputed Creek
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOT25NV1ZjdkhJd1ZGRV9NMjBub2o2cUlaZS1Sc2RNTExmc0Frc2hYUjl0SlJkMVk1UERrVUItQVI5VzBOdVM2dUVzdTI3akk4WW05VFZ3LXl0VTVVT2hsM2h1cDd2X1RhYWZPZ2Vha1VDaE1lam1PVUlBdmdVdjZmdkQtdFRHTzBUVERSVGl4VE9YcFRiYWxMXzRJZ2Z4bFVub2xjRTA0TkZHd0w5U0xFYTdWUUhmUGZNNExLV3FDQk5wTkVOa25vNTNrcVptd9IB0wFBVV95cUxNQlM0N1FmMTE0S1hkOUt3NHJjUHNqOHRjNHh5X3lJNU82WGtWTHJzdUotR25keFNsMFotbm50eklmRUl6eGxsM0JIOUJ3N1pFYjB0VGE2WDh3aTBnRkY5Tks1V19DZTFXeGIwVU45bFUtNk1ZQ3UzVFRuZF9YT0t4cE9LMGNWS3VkOVJnWHB2R2JfTkswVGNISkRTTEZOSzAwU1A3ai1kVFpZRHpkTzlvMzlydm5KSmVzUXNBUmoxdmxvLW1uY3h3cTdIZFRNNjF6T1Vn?oc=5
+
+- Crafts Council of India turns 60: meet the keepers of India’s handmade soul - The Hindu
+  The Crafts Council of India turns 60: meet the keep
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcTBSU1lINmU5QmhKZXlsUzlMcjhjaXZmQnVVaXJPNHIzbElkcnRqWS1mUUh5SGFCajdHUi1uc2lsd3RpWHBOYjVUTkhlZS03cS1wNjJsWGp1VW1PbXhSa3VqWXpCbjZraVNTT3dPWjZ6b2tyRm1mRFpybXdxTHBUeGFSOHM1RGNkNk4yTG1Id0FXM0w4Ri1kSXEtNFNaT1NrYUVMQnpjVWFGcWhpU2pPYnZUdmZhaDRWTWM2TnlPZUJTZ1NLWWRLeDZzQmF2S2pNbmJ2YlA4RjFJNDNtV2ZmVXA2bnpMUkRxZUHSAfABQVVfeXFMT1pFNFU3dmVSb3RjVVZCZ3FRM0J2bU5NNGg5a3RXb1lVTF9Jc2NBZzNvLWljRnFHa29CeWUxUThDV1Nnam42dFpEaEw2X1BqWHlESlNUNlVIY2E1ZER3YzdVMHRMUkVkWXlPeG1OdkR4VUpzdG9GbFJ3dE05Ri1mS3ZlZWRERDVnZnhibkhiWFhiNmZzTkRTczAzZ05peWFkcmZ5WE9QR0tMemwyWm1COGlhUDM5SUcwMkJFTkg1TTBNSW1YSnFyOVcwSV9LeG9ZNVlzaGpidUpFMGR4cXR1dXhoTmY2V1oyclBITlV6MlN5?oc=5
+
 - 'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell; reveals Washington expected - Times of India
   'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell.
   🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPMUczaWxFQXhMWjQzVDg0alhSRXZxal9hNjFmNExSUHZpM0dDd2FQWnBNWjFVYlVtd3lyQXN1RDduVG8zWmlZTllOd1RSVldHWmRDQzBxTGtIVlFtWWp2aEczbnNUNkVJMk52QTg3OWlYYVJocVg4T19Vcl9lYk0xaW5CQVZEd18tUXpxdWlyaU1EWS00R1ZfNEh6cUI3WjBsMmNQYmRPa3FUMGVrRFh1eUNCVEl1NWNJR1NrVXpKNkZ0c3lZYXJlTmxXbHI1dWxkbExjd0dKZDRQRXlBRGxzX2VPeEMzMEVnaVVRaGRlTGtiOWJrM1YwNGhhcVR5NERJVkg1bFJScm5NbUN4TEV5UjYyUVhsSmd2TldhRUIyS1cyblBuaUHSAasCQVVfeXFMTkdyd2JFSmpOZUZsQ181SG9jZTFpdjZpU3FjWHU4NVNFSjBEOThYY0lBc01nTDF3MmVOYkVmN3c4eWlaRVFzQ1BBRXJuQnhobXlBRkxvTWdialU2MkR5YzhIMnY0dVRzcl8xbzNnVWZORkQtTHo1cmRHaU00NUxySl9oMm1HOUdoVmw4bDBwNWNpRkhqNldDWlppc1lXeVlya2tvS25GM09KMUtlU0ZFbUtrd1lBU0YyTFpNLVJwMFdOWG1YX2p5bjZyVnhBMGFlTkhJc0wwdGRFSkFEUHFwSjFYcFdfbTEzRHJSY0JlSnl2b3FrOFp2aTREN1ZTRzE5WnlrMVlMX09PUWgzeWJPZ2hlcEhmQ1VtSzVhaEVxdEVteHdaRjQ5VkZYYlk?oc=5
+
+- 'No Benefit In Fighting India': Ex-CIA Officer Who Led Pak Operations - NDTV
+  'No Benefit In Fighting India': Ex-
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzNlWldUbHdueWczMnlrNHRqVkVQWFJEaFA2eGU5bXpiVEM4cFZmU0pBMXdxcmpydEVCVFNPS2paQUkwTG1va2VXQVRQTVc2MzBJVU5nX0txZ25PaDhGLXhhcXBEQlk5MHZjVS1tbjh2SzREWlJNb3k4UnBUVTZYYjhBQUZ3Rnh5cTVQV3VYN0xXQ1RlZFFaa3N0TXEtUFJwR3dUTjljTEN6ZG5sSW9PVTJzOWRnRDJLc2hCSE1TOUXSAcgBQVVfeXFMT2ZPZTduLXV5SWdUYTY2YTlwWk1fRHB4TDUtcWw0M21IR1BleHFsTFRrYzFsbS1rcHp4bDVZNnd0SWhXaHROREE2RkRVRm9SR1N2bzBTaW1MM3FXZXhPRjBfNk11NkYzS1BOUVhfZXl1WENKb3hfR29qSWdTNlVheWVkbTl6SlVnQ2RRZG1qNk91T2VZNG1KTUVPVGNzZnJLOXNkVUw4Zm5VdnY0aDNRelQ1Qi1BZWdVZndCNWM4Qzg2bGYzR3cyemc?oc=5
 
 - ‘Pakistan will lose any conventional war with India’: Former CIA officer John Kiriakou | Latest News India - Hindustan Times
   ‘Pakistan will lose any conventional war with India’: Former CIA officer
   🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUVZJSFRSNXgzZnI3bXoydlNiVEdaR0JId05hRFZBYkFNZEQzcVlZdmhYOU40RXlvbldRMjZHU3J2TWdNaUc3QlNPU3FkdlpLQUo3R1lxb0xWVWFYcDQ4b1AySkhmUy1pekh3LTB3MXJTSmZWMEExcEIzOVdlSTlDVkVmS2dfNFg0ZzQ4VkhwbjAySXVYSjd0ZEx3Z2tFdUNhSUg2LWQ5S0RUVWwtTEZJckVDeGpNeDlRdU9SMWNnamJZOFl3b00wUUIzek52bktTZ19RYzB0TkVzdFZjajhN0gHkAUFVX3lxTE1ZTWFhQjNSU21jLTY4bUNRdnEzVTdtUm9FQW5MOWpjeC1mZ3NRX2M0dmdaQ25Pbkk1akw4TEp2UDNaZDRocnR4dzB6c2J6Rm03S3BheTFjSUxfbVhTUll6Q3VhdW9lNmtZejR0ejVOYmY0cU1mbWJDTV9NYzVMaUNRaC1YNGE4MndVRXl1cF9tdWtzLTZCTFNYcTdYNG9lQldoY0lOT2lmQ3FqeExrUnZuUUpCaV8zV2tkUjZPLUw5bFZJYTA3SXA1eXBTWWJxcHlWQmVmUWQwQTB5SnFCeVFOQ3J4Qg?oc=5
 
-- 'No deal with a gun to our head’: Piyush Goyal signals India won't give in to Trump's tariff pressure | Latest News India - Hindustan Times
-  'No deal with a gun to our head': Piyush Goyal signals India won't give in
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTRmc3dKaDhPWEEtb0hVcXJfUjdmUmhZV0dBenZCcHlrSnl6cDJva1ZFOV8zMEpsdHoxRHNGcHVnQU9Udm5XQzdtRXJCS190VXZBa2ZxSWVGaVNZY2d5VDlsQXd0REd3MDc1ektMdnRaU3Q1ZWpmTENYNXB0UFlMWUllZFZheEh3YjhHdl95dHh4aUdjd0lfWF9KOUFELUtXYXRzOGhqVHlyRDIxanE5TkxSUmZuU0xZU0FnaUZMeEU3WWFXU1k4WXJfUkJBQ043azVjTHJOY2RyYVJwaDc0RmVKOXcxRVU2SGF2UjVHRUZMNmxPMmxqZNIB_gFBVV95cUxNZTNIRVRMckl1Y3VQWkl1X1VfeEVvUF8wSEdJMHUxbTNvM1JXZkV6dm1yeDBzTktMeG5PQk41Zk1UUE9oVnRFOTk5bnczTmM3X2picHR0Zi1tcDN4VjBjenJsT2gxaGVNZTBMaGExOU1JYzFqdkN6RjRaSFA1UWVOYXlaZ3ZaZVVIaVFLeExYUjFTTnpvNE9hNVlDNW5QYmNvOElfdmFadTduc3VveldrMzlPSTJZMXJ1Uk8xeWRCcGpUUElLam1EUHZiUTlMeEpQb0JlcGV1X2Z4Z3hSOFdobEtyaTIzU3lUREZtcC1XTjZaQlpuTnRURGhKN0Z0QQ?oc=5
+- Pakistan’s Naval Chief Visits 'Disputed Creek Areas' Along Border With India | Exclusive Details - News18
+  Pakistan’s Naval Chief Visits 'Disputed Creek
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOT25NV1ZjdkhJd1ZGRV9NMjBub2o2cUlaZS1Sc2RNTExmc0Frc2hYUjl0SlJkMVk1UERrVUItQVI5VzBOdVM2dUVzdTI3akk4WW05VFZ3LXl0VTVVT2hsM2h1cDd2X1RhYWZPZ2Vha1VDaE1lam1PVUlBdmdVdjZmdkQtdFRHTzBUVERSVGl4VE9YcFRiYWxMXzRJZ2Z4bFVub2xjRTA0TkZHd0w5U0xFYTdWUUhmUGZNNExLV3FDQk5wTkVOa25vNTNrcVptd9IB0wFBVV95cUxNQlM0N1FmMTE0S1hkOUt3NHJjUHNqOHRjNHh5X3lJNU82WGtWTHJzdUotR25keFNsMFotbm50eklmRUl6eGxsM0JIOUJ3N1pFYjB0VGE2WDh3aTBnRkY5Tks1V19DZTFXeGIwVU45bFUtNk1ZQ3UzVFRuZF9YT0t4cE9LMGNWS3VkOVJnWHB2R2JfTkswVGNISkRTTEZOSzAwU1A3ai1kVFpZRHpkTzlvMzlydm5KSmVzUXNBUmoxdmxvLW1uY3h3cTdIZFRNNjF6T1Vn?oc=5
 
-- Bill Gates's cameo in iconic Indian TV drama with Smriti irani - BBC
-  Bill Gates's cameo in iconic Indian TV drama
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jOUdsSWlHU0FJSWc3SG81YjJ6Y0VpRVNUdEdVTHhWakxJeGE3aTlteUFZN2t0VXFzVW9pOXFmR3dGcnFraFM4NVpMeUpzcVNRTnVMLWhNa0hBQdIBX0FVX3lxTE5ReXFqM3RUeDJBckFCcUVFeWluUUlRZDI0T3hMLS1rbzFMTHA0N2pyeVZTVmRjR2NYbWZ0bjVUV2xhUmFKOXFyWEJZMFpKODJFeXZsMEYyXzNTSXhEVnZZ?oc=5
+- Crafts Council of India turns 60: meet the keepers of India’s handmade soul - The Hindu
+  The Crafts Council of India turns 60: meet the keep
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcTBSU1lINmU5QmhKZXlsUzlMcjhjaXZmQnVVaXJPNHIzbElkcnRqWS1mUUh5SGFCajdHUi1uc2lsd3RpWHBOYjVUTkhlZS03cS1wNjJsWGp1VW1PbXhSa3VqWXpCbjZraVNTT3dPWjZ6b2tyRm1mRFpybXdxTHBUeGFSOHM1RGNkNk4yTG1Id0FXM0w4Ri1kSXEtNFNaT1NrYUVMQnpjVWFGcWhpU2pPYnZUdmZhaDRWTWM2TnlPZUJTZ1NLWWRLeDZzQmF2S2pNbmJ2YlA4RjFJNDNtV2ZmVXA2bnpMUkRxZUHSAfABQVVfeXFMT1pFNFU3dmVSb3RjVVZCZ3FRM0J2bU5NNGg5a3RXb1lVTF9Jc2NBZzNvLWljRnFHa29CeWUxUThDV1Nnam42dFpEaEw2X1BqWHlESlNUNlVIY2E1ZER3YzdVMHRMUkVkWXlPeG1OdkR4VUpzdG9GbFJ3dE05Ri1mS3ZlZWRERDVnZnhibkhiWFhiNmZzTkRTczAzZ05peWFkcmZ5WE9QR0tMemwyWm1COGlhUDM5SUcwMkJFTkg1TTBNSW1YSnFyOVcwSV9LeG9ZNVlzaGpidUpFMGR4cXR1dXhoTmY2V1oyclBITlV6MlN5?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-25 12:30:49 UTC_
+_Last updated: 2025-10-25 18:23:31 UTC_
