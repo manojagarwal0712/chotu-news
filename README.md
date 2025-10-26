@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Govt set to hike print media ad rates by 26%, reform TRP ratings
+- EXCLUSIVE: Kurnool bus accident that killed 20 caused by drunk biker, says forensic report
   
-  🔗 https://indianexpress.com/article/india/govt-set-to-hike-print-media-ad-rates-by-26-reform-trp-ratings-10327194/
+  🔗 https://indianexpress.com/article/india/kurnool-bus-accident-killed-caused-drunk-biker-forensic-report-10327612/
 
-- Combat squadron strength dwindles, Govt looks at plan to upgrade Su-30MKIs
+- Probe after 5 thalassemia-affected minors ‘test HIV positive’ in Jharkhand’s West Singhbhum
   
-  🔗 https://indianexpress.com/article/india/combat-squadron-strength-dwindles-govt-looks-at-plan-to-upgrade-su-30mkis-10327147/
+  🔗 https://indianexpress.com/article/india/thalassemia-minors-hiv-positive-jharkhand-west-singhbhum-sadar-hospital-chaibasa-10327545/
 
-- Mehbooba Mufti moves HC, seeks transfer of UT undertrials to local prisons
+- Security forces arrest 4 militants in Manipur, arms recovered
   
-  🔗 https://indianexpress.com/article/india/mehbooba-mufti-moves-hc-seeks-transfer-of-ut-undertrials-to-local-prisons-10327174/
+  🔗 https://indianexpress.com/article/india/4-militants-arrest-manipur-security-forces-imphal-10327465/
 
-- Cabinet secretary reviews preparedness for cyclone
+- Rajasthan: 67 administrative officers transferred
   
-  🔗 https://indianexpress.com/article/india/cabinet-secretary-reviews-preparedness-for-cyclone-10327055/
+  🔗 https://indianexpress.com/article/india/rajasthan-67-administrative-officers-transferred-10327467/
 
-- Month before mayoral polls in Shimla, Himachal Cabinet doubles mayor term to 5 years
+- News Today Live Updates, 26 October | EXCLUSIVE: Kurnool bus accident that killed 20 caused by drunk biker, says forensic report
   
-  🔗 https://indianexpress.com/article/india/month-before-mayoral-polls-in-shimla-himachal-cabinet-doubles-mayor-term-to-5-years-10327013/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-10-26-2025-news-headlines-10327296/
+
+- Reliance, Meta form new Rs 855-crore joint venture to build enterprise AI products in India
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/reliance-meta-new-joint-venture-enterprise-ai-products-10327562/
+
+- I tried Oral-B’s iO Series 9 premium AI toothbrush: Here’s how it helped me build better brushing habits
+  
+  🔗 https://indianexpress.com/article/technology/tech-reviews/oral-b-io-series-9-premium-ai-toothbrush-review-10327419/
 
 - Sam Altman’s Merge Labs may use ultrasound and magnetic field to read your mind
   
@@ -32,13 +40,9 @@
   
   🔗 https://indianexpress.com/article/technology/science/jupiter-saved-earth-from-spiralling-into-the-sun-scientists-say-10326100/
 
-- This phone case is so heavy, it might just crush your screen addiction
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/this-phone-case-is-so-heavy-it-might-just-crush-your-screen-addiction-10324491/
-
-- iPhone 16 under Rs 50,000, iPhone 15 under Rs 45,000: How to get the best deal on Amazon
-  
-  🔗 https://indianexpress.com/article/technology/iphone-16-under-rs-50000-iphone-15-under-rs-45000-how-to-get-the-best-deal-on-amazon-10325951/
+- Meta lays off 600 AI jobs, including 100 reviewing user privacy; memo reads ‘fewer conversations ... to make decision’
+   Meta plans to lay off 600 employees in its AI division reportedly to accelerate product development. The cuts include 100 jobs in the risk review team
+  🔗 https://www.livemint.com/companies/news/meta-lays-off-600-ai-jobs-including-100-reviewing-user-privacy-memo-reads-fewer-conversations-to-make-decision-11761442202360.html
 
 - ‘Come home, let's create strong Bharat’: Zoho's Sridhar Vembu urges immigrants
   Zoho's Sridhar Vembu urged immigrants to come back to India as the nation has the potential to become a strong
@@ -56,29 +60,33 @@
   Life Insurance Corporation of India (LIC) on 25 October 2025 denied the claims of the Washington Post report. The State-owned insurance giant said that all
   🔗 https://www.livemint.com/companies/news/false-and-baseless-lic-denies-washington-post-report-says-investment-decisions-taken-after-due-diligence-11761383012360.html
 
-- Inside Girish Mathrubootham’s quest to build India’s global AI giants
-  The former Freshworks CEO is going all in on AI, putting on his investor cap to hunt for AI startups.
-  🔗 https://www.livemint.com/companies/girish-mathrubootham-india-ai-startups-together-fund-11761029009046.html
+- Ashish Kacholia portfolio stock to be in focus on Monday - here's why
+  Fineotex Chemical share price was up 3.31 per cent, closed at  ₹255.99 apiece on Friday. The chemical stock has been trading in green in
+  🔗 https://www.livemint.com/market/stock-market-news/ashish-kacholia-portfolio-stock-fineotex-chemical-to-be-in-focus-on-monday-heres-why-11761454974011.html
 
-- Dividend Stocks: Infosys, CESC, Tanla Platforms, among others to trade ex-dividend next week; Full list here
-  Infosys, CESC, Tanla Platforms, L&amp;amp;T Tech, REC, Coforge, and
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-infosys-cesc-tanla-platforms-among-others-to-trade-ex-dividend-next-week-full-list-here-11761381893338.html
+- Stocks to buy under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday — 27 October 2025
+  Sumeet Bagadia has recommended three stocks to buy on Monday, October 26. Essar Shipping, Vas
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-26-october-2025-11761453686745.html
 
-- Kotak Mahindra Bank Q2 results 2025: Net profit falls 3% to  ₹3,253 crore - Here are 5 key highlights
-  The bank reported a 2 per cent decline in its net profit to  ₹3,253 crore for the quarter ending on
-  🔗 https://www.livemint.com/market/stock-market-news/kotak-mahindra-bank-q2-results-2025-net-profit-falls-2-to-3-253-crore-nii-up-4-11761376984247.html
+- Silver prices resume losing streak: Check rates in Mumbai, Delhi, Bengaluru, Chennai, Kolkata, Hyderabad on October 26
+  Silver prices in Mumbai, Bengaluru, Chennai, Hyderabad, Delhi and Kolkata
+  🔗 https://www.livemint.com/market/commodities/silver-gold-prices-in-your-city-check-rates-in-mumbai-delhi-bengaluru-chennai-kolkata-and-hyderabad-on-october-26-11761450381452.html
 
-- Hong Kong approves first ETF linked to Solana ahead of US. Details here
-  Hong Kong has authorized its first ETF linked to Solana, marking a step ahead of the US.
-  🔗 https://www.livemint.com/market/cryptocurrency/hong-kong-approves-first-exchange-traded-funds-etf-linked-to-solana-ahead-of-us-details-here-11761375481668.html
+- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday - 27 October 2025
+  Ganesh Dongre of Anand Rathi recommends three stocks to
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-27-october-2025-11761446273720.html
 
-- Bharat Rasayan share price to remain in focus on Monday, here's why
-  The company announced on Friday that its board has approved a stock split and a 1:1 bonus issue of
-  🔗 https://www.livemint.com/market/stock-market-news/bharat-rasayan-share-price-to-remain-in-focus-on-monday-heres-why-11761374267250.html
+- US Fed meet to Q2 results - Top five triggers for Indian stock market this week
+  Dalal Street next week: US Fed meeting, Q2 earnings FY26, US-China trade deal. US-India
+  🔗 https://www.livemint.com/market/stock-market-news/us-fed-meet-to-q2-results-top-five-triggers-for-indian-stock-market-this-week-11761443984414.html
 
-- LIC raises stake in these FMCG stocks nearly 2%. Do you own?
-  LIC has increased its shareholding in FMCG majors Tata Consumer Products and Dabur
-  🔗 https://www.livemint.com/market/stock-market-news/lic-raises-stake-in-these-fmcg-stocks-nearly-2-do-you-own-11761366662155.html
+- Apple’s Cosmic Orange iPhone 17 Pro Max is turning pink — here’s what could be causing the strange colour shift
+  iPhone 17 Pro and Pro Max Cosmic Orange models are reportedly turning pink. Experts link the issue to anodised aluminium reacting with chemicals like hydrogen peroxide.
+  🔗 https://www.livemint.com/technology/gadgets/from-orange-to-pink-iphone-17-pro-max-users-puzzled-as-apple-s-hero-colour-starts-to-change-11761446349916.html
+
+- OnePlus 15 India launch date leaked: Snapdragon 8 Elite Gen 5 SoC, 165Hz display, and a 7300mAh battery tipped
+  The OnePlus 15 is expected to launch globally on 12 November, with the India debut likely a day later. Powered by the Snapdragon 8 Elite Gen 5 and Android 16-based OxygenOS 16, the smartphone may feature a 7,
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-15-india-launch-date-leaked-snapdragon-8-elite-gen-5-soc-165hz-display-and-a-7300mah-battery-tipped-11761441184628.html
 
 - From Studio smoke to golden hour: How to create stunning AI portraits with Google Gemini - 16 viral prompts
   Google's Nano Banana tool turns selfies into cinematic, hyper-realistic portraits. From moody studio smoke to golden hour sunlight, create professional-quality images.
@@ -92,133 +100,133 @@
   Carl Pei-led Nothing has rolled out the Open Beta of Nothing OS 4.0. Lock Glimpse, dynamic lock screen wallpapers, and curated third-party apps are new.
   🔗 https://www.livemint.com/technology/tech-news/nothing-os-4-0-beta-introduces-pre-installed-apps-to-phone-3a-series-co-founder-akis-evangelidis-explains-the-update-11761363241994.html
 
-- Inside the 2025 World Series: How Google Cloud’s Gemini powers FOX Sports with real-time insights and stats
-  Google Cloud is using Gemini AI to enhance the 2025 World Series. Fans can watch live on FOX Sports, while Gemini powers FOX Foresight and MLB’s Connie
-  🔗 https://www.livemint.com/technology/tech-news/inside-the-2025-world-series-how-google-cloud-s-gemini-powers-fox-sports-with-real-time-insights-and-stats-11761359014812.html
+- Vedanta Resources raises $500 mn via bond issuance; to use proceeds to repay near-term obligations
+  Anil Agarwal-led Vedanta Resources Ltd raised 500 million dollars through bonds in October
+  🔗 https://economictimes.indiatimes.com/markets/bonds/vedanta-resources-raises-500-mn-via-bond-issuance-to-use-proceeds-to-repay-near-term-obligations/articleshow/124822902.cms
 
-- Halo: Combat Evolved returns in Unreal Engine 5 remake — Release date, where to play and what’s new
-  Halo: Campaign Evolved is returning as a full Unreal Engine 5 remake of Halo: Combat Evolved. It will debut in 2026 on Xbox, PC, and PlayStation 5.
-  🔗 https://www.livemint.com/technology/tech-news/halo-combat-evolved-returns-in-unreal-engine-5-remake-release-timeline-where-to-play-and-what-s-new-11761353814916.html
+- Rekha Jhunjhunwala buys 15 lakh shares in this multibagger Tata stock in Q2
+  Rekha Jhunjhunwala increased her Titan stake by 15 lakh shares, raising total ownership to 5.3%. Titan’s Q2 saw broad growth: domestic business up 18%, international up
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rekha-jhunjhunwala-buys-15-lakh-shares-in-this-multibagger-tata-stock-in-q2/articleshow/124822816.cms
 
-- Dow rallies 400 points for first close above 47,000 ever following mild inflation report: Live updates - CNBC
-  Dow rallies 400 points for first close above 47,000 ever following
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5oMFNjbkVLYjF2ejVfRzRRWkJuQUhSVDhpWEU5cXdYNDI3Vm5JOGFIRURuQ3dCeG9OWnpES01IdlB2bHRoRmJtc3liX0s2bGFkNUFwQTRPV29rRFp1dVZrMVdLYWx4YWxZekNRSmh3Q1VwcEcxd3d30gF8QVVfeXFMUDlmNG40TUNzWHI2NklXVzBtX2drZkwxazdUX3RnX3EzOFJJMXpNOWoyN2hTX3BpZl9weU1kand5ZTIzcEk2M3VMWGNkeDNKLUMxT1l2S2lGenpYeDZiQ2ZXSlJyQ05BRnYydjVwVExmSU5wOXQ2WnZyQmtrQQ?oc=5
+- Tiny multibaggers! 11 penny stocks soar up to 215% in just 3 months. Are you holding any?
+  11 penny stocks delivered gains of 30% to 215%, with three becoming multibaggers. While offering high returns, they carry significant risk, requiring discipline, research, and risk management.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tiny-multibaggers-11-penny-stocks-soar-up-to-215-in-just-3-months-are-you-holding-any/slideshow/124822762.cms
 
-- Global Markets Rise; U.S. Inflation Data Eyed, Gold, Oil Down - WSJ - The Wall Street Journal
-  The Wall Street Journal reports that U.S. Inflation Data
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVA3eUdvMGtQQVh6eGNLQ3U4andZOExfdGlrZ09rTDFaRENwUGVFbGV4dkVQZWIzcjc3LUctbElRQU1nTGM0d1RSRjVKVWJvOXpES2I2MEE3NFVrak80YUFLcGVhUzY4Q1JvSEZwSGFpM3k2c25iWFkzMkJrSFFBWEtoQkgwei1LVDNRbVVlVE9GSDloUFhQVDln?oc=5
+- The valuation email that defined Zomato's IPO: Why Sanjeev Bikhchandani's warning to Deepinder Goyal still echoes
+   Info Edge founder Sanjeev Bikhchandani advised pricing for balance. His framework emphasised conservative pricing, avoiding excessive first-day pops.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/the-valuation-email-that-defined-zomatos-ipo-why-sanjeev-bikhchandanis-warning-to-deepinder-goyal-still-echoes/articleshow/124822359.cms
 
-- Stocks Hit Highs as CPI Gives Fed All-Clear to Cut: Markets Wrap - Bloomberg.com
-  Stocks Hit Highs as CPI Gives Fed
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTlCckc0b0Q5QjV4MHFtakFhNm1jOGo1X2h1WjJzSkx1QkEwYy1wdUZ4R1gzTEZHYlZuRWxWdUx0d0RpR2RBczRqXzlOTGQ1cG9vSXVyd3hQSks5aWlnZEJ6d0l4dlRFbjNoYzlIMDE1U19kQXlmVVI5QXpVRHBXa0pIMUNrZ2I2aXU2bkhYc0JCcUl3?oc=5
+- Market Trading Guide: Buy Cholamandalam Investment and CreditAccess on Monday for up to 10% potential gains
+  Nifty closed lower on Friday amid sectoral selling pressure. Analysts expect short-term volatility but potential for a sustained rally. Cholamandalam Investment and CreditAccess Grameen are recommended for Monday
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-cholamandalam-investment-and-creditaccess-on-monday-for-up-to-10-potential-gains/articleshow/124822267.cms
 
-- Forty million new investors are coming—India’s stock markets won’t be the same | Stock Market News - Mint
-  Forty million new investors are coming—India’s stock markets
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVG5GNFNENVZHSHpiUmV6ZS10NnE4MXktamlQeUx6ZDFKWlE1TjZJWUNWR0xTVkROZ2JOc0hCSUpzQ1JVMXRYclFPRG1weFJsejhoMEVDbnpJRjR2aDZBaHAyaDBBMkxpbjlubTJtSzA3SmtDbVd1UEY5X0hQUzdhQkVlUG1WX1Y3SjM2S19nTXdDdWpvT2I0bG9vQVhSN2JYUExmbWJjVnZpQzR0a2pocHo5NzM0cnRTVjkxWWRIVU1hb3h4WElrNzhvaTJuU01zc0M4aWlia3NmaWpKUUt2Rm5FZXRKekdBMXU0RXd2c2VoOUl5Y3R3ZUZ0VEMzZ9IBgwJBVV95cUxPREN4dFlsbWE5QUVBVUZhMHdqVF9icFZ0a0NMSGcxR0VNaFN3bGpoMDcwMGZRYm5yQ0NVWEtiNE9OaEpGaElWYkdPTDBKaVNpalAzTVgzQ3Z6TEp6QThSMkt5eG9DTGhZU3BYck8tc3dQZ3drYURGQ05FRW90QWlDWlZwaG5zcy03NGhVdkhqZUZhQm1FOUpWRXRtcmc1T3RYLVZrTlFPVU1SY0xxUkltNnhyY3B0STlEUG45bjNuZ1dmVS04RWU3ekhSR1RWSWR2S3pXNUZ2cWR5QlhuSGxsM0xsS295Qy1Eajd4MW1CcWxCMXZYZTI0UEgwWFNnV1JrdnhB?oc=5
-
-- Fact check: Has Germany canceled Christmas markets in 2025? - Times of India
-  The Times of India reports that Christmas markets
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQTmxDYklab0IxWDFMaGM1RzgwcDRuU0JxdWpkbHZhbk5YMWJKTy1VR3VzSlEtcFo0UUsyWENnRGdJRVc5YTc2MHd3LURqM0s5QVhZa1ZVOEZTOW5HeVluTi11MlRpWms0Z0htWjlheXRrVDV2WXFPa3BKQS1Ya3BZQ2ZxbU5FVGVKRFNyZDZxSFZhTWJodXJlaVVFcU9VT05tMjBHdFRnUTZSTHNrNzlqR1Fib0pvQ21GUGdTYXdQNWpsS1BxLUgwQV9ZQWLSAdIBQVVfeXFMT29CUTNKOEJjbnBTbTh3Y21Oamxocm1uYU1hcmdKNTAzQUNxVkMzb2l0YS1zWmlDalFtV3dlRFNNTzJxZTJkeWhyc3hRTTRUUDFQenVpZmo2alBYaDlEZHlLQ2FIbG5CNWpJejZhZkExV0t4ZFBtWEtWTjNPakFXSFFYeHhlUGNxbmR5Q0JJaEJaVTVOQTVoYkd5RmZ3d2VLYU5fM05uVlVCdjYwVWkzV2J2ZnpFU0M0LUV5djV4cnI1SFlkOGliOUF4U0RiTGdmWjBB?oc=5
-
-- Zen Technologies Q2 Results: Cons PAT slips 2% to Rs 62 crore, revenue tumbles 28%
-  Zen Technologies reported a 28% fall in Q2 FY26 revenue to Rs 173.5 crore. H1FY26 shows a 30%
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/zen-technologies-q2-results-cons-pat-slips-2-to-rs-62-crore-revenue-tumbles-28/articleshow/124805282.cms
-
-- Vijay Kedia's Big Bets: 8 stocks surge up to 40% in FY26, plus 2 new picks! Are you in?
-  Vijay Kedia’s portfolio, valued at around Rs 1,320 crore across 16 stocks in Q2 FY26, saw strong
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedias-big-bets-8-stocks-surge-up-to-40-in-fy26-plus-2-new-picks-are-you-in/slideshow/124805206.cms
-
-- Bharat Rasayan board okays stock split, issue of bonus shares
-  Agro-chemical firm Bharat Rasayan's board has greenlit a 1:1 bonus share issue. The move will see existing Rs 10 shares divided into two Rs 5 shares, followed by a bonus issuance.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bharat-rasayan-board-okays-stock-split-issue-of-bonus-shares/articleshow/124804702.cms
-
-- F&amp;O Talk | Nifty takes breather after Diwali gains, 30,000 still a likely destination by next Diwali: Sudeep Shah
-   Markets extended their winning streak for the fourth week, with Nifty up 0.33% and Sensex 0.31%. Optimism from
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-takes-breather-after-diwali-gains-30000-still-a-likely-destination-by-next-diwali-sudeep-shahx/articleshow/124804638.cms
-
-- Nifty nears breakout zone as bulls eye confirmation above 25,900 next week
-  In a three-day trading week, Nifty gained 0.33%, attempting a breakout from a multi-month consolidation. With improving
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-nears-breakout-zone-as-bulls-eye-confirmation-above-25900-next-week/articleshow/124803995.cms
+- Pak has nothing to gain by needling India: Ex-CIA man - The Times of India
+  Pak has nothing to gain by needling India: Ex
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPaXcta1lKODl3T1dBOEpRWFJmXzlxZXVPMG1UbXNsTVM3M2ZtbC1neUZLZDVvNHVZZjNkMVBDZTNSc1NSQ1RkX01KVXFUdThFS0dRUkpFYThXVnd5Q3Z1dGpyUC0ta3BWaUJtUFZxQkE3OVNTdmVQQVpZOFAzWU95YlBIX0d5Q2Y2cWwxRnAtQWNCU0lkb2s5UDd3NHhsQ3phSERhWWppQUxJWFdLeFRUMDZrVUtNTjljM21OQzVDOW5VM1RQLUgzRVVmRVnSAdIBQVVfeXFMUEQ3cnB0MC1DbVBOLWE0a2ZpNG9JU204aVc4VUhJdXQ5bEpTZGJXWm9MQUtBVEY2Y1F0Yi13Q2FtM2dKeURnT0tkbHJxeVBVMlZSOXA4LUhsNGRIUFRGdmZKY3lfWlItN0ZraUgzcjVnaFZQdjZoNXUzaTA4NWlzZmtPelBKV1gzWmlvaS1rS2F2WWVzU1lCLWhfaUJoV25DUzBaR2NZNGZOeHhrTWFVY1lUWV9qUFZFQU9LV0FmRlNpOEQ0RjRTWF9jMmNCdXhRQ1Rn?oc=5
 
 - 'No Benefit In Fighting India': Ex-CIA Officer Who Led Pak Operations - NDTV
   'No Benefit In Fighting India': Ex-
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzNlWldUbHdueWczMnlrNHRqVkVQWFJEaFA2eGU5bXpiVEM4cFZmU0pBMXdxcmpydEVCVFNPS2paQUkwTG1va2VXQVRQTVc2MzBJVU5nX0txZ25PaDhGLXhhcXBEQlk5MHZjVS1tbjh2SzREWlJNb3k4UnBUVTZYYjhBQUZ3Rnh5cTVQV3VYN0xXQ1RlZFFaa3N0TXEtUFJwR3dUTjljTEN6ZG5sSW9PVTJzOWRnRDJLc2hCSE1TOUXSAcgBQVVfeXFMT2ZPZTduLXV5SWdUYTY2YTlwWk1fRHB4TDUtcWw0M21IR1BleHFsTFRrYzFsbS1rcHp4bDVZNnd0SWhXaHROREE2RkRVRm9SR1N2bzBTaW1MM3FXZXhPRjBfNk11NkYzS1BOUVhfZXl1WENKb3hfR29qSWdTNlVheWVkbTl6SlVnQ2RRZG1qNk91T2VZNG1KTUVPVGNzZnJLOXNkVUw4Zm5VdnY0aDNRelQ1Qi1BZWdVZndCNWM4Qzg2bGYzR3cyemc?oc=5
 
-- 'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell; reveals Washington expected - Times of India
-  'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell.
-  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPMUczaWxFQXhMWjQzVDg0alhSRXZxal9hNjFmNExSUHZpM0dDd2FQWnBNWjFVYlVtd3lyQXN1RDduVG8zWmlZTllOd1RSVldHWmRDQzBxTGtIVlFtWWp2aEczbnNUNkVJMk52QTg3OWlYYVJocVg4T19Vcl9lYk0xaW5CQVZEd18tUXpxdWlyaU1EWS00R1ZfNEh6cUI3WjBsMmNQYmRPa3FUMGVrRFh1eUNCVEl1NWNJR1NrVXpKNkZ0c3lZYXJlTmxXbHI1dWxkbExjd0dKZDRQRXlBRGxzX2VPeEMzMEVnaVVRaGRlTGtiOWJrM1YwNGhhcVR5NERJVkg1bFJScm5NbUN4TEV5UjYyUVhsSmd2TldhRUIyS1cyblBuaUHSAasCQVVfeXFMTkdyd2JFSmpOZUZsQ181SG9jZTFpdjZpU3FjWHU4NVNFSjBEOThYY0lBc01nTDF3MmVOYkVmN3c4eWlaRVFzQ1BBRXJuQnhobXlBRkxvTWdialU2MkR5YzhIMnY0dVRzcl8xbzNnVWZORkQtTHo1cmRHaU00NUxySl9oMm1HOUdoVmw4bDBwNWNpRkhqNldDWlppc1lXeVlya2tvS25GM09KMUtlU0ZFbUtrd1lBU0YyTFpNLVJwMFdOWG1YX2p5bjZyVnhBMGFlTkhJc0wwdGRFSkFEUHFwSjFYcFdfbTEzRHJSY0JlSnl2b3FrOFp2aTREN1ZTRzE5WnlrMVlMX09PUWgzeWJPZ2hlcEhmQ1VtSzVhaEVxdEVteHdaRjQ5VkZYYlk?oc=5
-
 - ‘Pakistan will lose any conventional war with India’: Former CIA officer John Kiriakou | Latest News India - Hindustan Times
   ‘Pakistan will lose any conventional war with India’: Former CIA officer
   🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUVZJSFRSNXgzZnI3bXoydlNiVEdaR0JId05hRFZBYkFNZEQzcVlZdmhYOU40RXlvbldRMjZHU3J2TWdNaUc3QlNPU3FkdlpLQUo3R1lxb0xWVWFYcDQ4b1AySkhmUy1pekh3LTB3MXJTSmZWMEExcEIzOVdlSTlDVkVmS2dfNFg0ZzQ4VkhwbjAySXVYSjd0ZEx3Z2tFdUNhSUg2LWQ5S0RUVWwtTEZJckVDeGpNeDlRdU9SMWNnamJZOFl3b00wUUIzek52bktTZ19RYzB0TkVzdFZjajhN0gHkAUFVX3lxTE1ZTWFhQjNSU21jLTY4bUNRdnEzVTdtUm9FQW5MOWpjeC1mZ3NRX2M0dmdaQ25Pbkk1akw4TEp2UDNaZDRocnR4dzB6c2J6Rm03S3BheTFjSUxfbVhTUll6Q3VhdW9lNmtZejR0ejVOYmY0cU1mbWJDTV9NYzVMaUNRaC1YNGE4MndVRXl1cF9tdWtzLTZCTFNYcTdYNG9lQldoY0lOT2lmQ3FqeExrUnZuUUpCaV8zV2tkUjZPLUw5bFZJYTA3SXA1eXBTWWJxcHlWQmVmUWQwQTB5SnFCeVFOQ3J4Qg?oc=5
+
+- India to hold major tri-service exercise on western frontier - The Times of India
+  India to hold major tri-service exercise on western
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTI0ZUtEUHpyUFE5NnlsV1RqVVFqLXlmWFVsMktWRUZJck50U19zVzhkSW1UTmw3RFd1R0FUZlc5YV8tZ2VfeFBRRlp6LUpMRzdISjdDTnFvTWVVZnZGYUJHb1FNNmdhSml4WllQcm9GYnZQQ1h1VlhOeEtBQ1I0ZkljZXZnT1FuYS1fUFo5Si1SMW4xeENBc0IyVFlfaC16UVdQdndNZXFlcUlvcDd6SEFRREEybmRpREF1X0NfUjM2TjlZNThN0gHMAUFVX3lxTE5UeW9rYW9NbktpamEybmtKWl94dU5nZXc2R3lKYXVtT0JKVHF3MGx6WTJ3QjJZcE9ZVXl5Uk8yUlhKN2VXVExHSllUaVFzS1hJTHhFc0loelNSNXpld0dBZV82ZVJXejRzYW1WTENJOG5QR1BjTkIwZWQtTW5DSkVEX1F1NW9jc2J3eXNRdDFZMEJzUGdRMEREVzlXYkw1cmF6aFFfamg2c0JMNkJIdUtGbWZBenl6UEgzdnRLMkZsQXFMTG85c3hKbjl0Mw?oc=5
 
 - 'Severe cyclone' headed to India's east coast: Where 'Montha' will make landfall, and when | Latest News India - Hindustan Times
   'Severe cyclone' headed to India's east coast: Where 'Montha
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVml4ZS1HdEJMcjhvd3hfSzdkTWxDOW9HUE5mb1owb09vNDB5REMwamF1bHFGdHh0OTZ2RG1WMlNSU05lVmRjYmdfWWE0YVJqNGRSdXZLTll5a2lKSXJvYmlsUDhPQVRmWjFSVDVRSHFTc2lfVUtnUDRSTXVMMnVfRENOSXIxVHZwS1FFd0x0WkZEdjhiZEtFZUxpSTlpQ05FSEJOYTZrenNrOVg2WjUzVW9meW0tM25oLVZrZkdjWWNGdFVMZktRaUdHTzJGbFNx0gHWAUFVX3lxTE5adnlKaXNJQkdCaVQ0c1d4LWhiWldVUDZ1R3FrT3FFUW1YUTJ0ZW1hOVpaZ3d6VlUydEx2a3NsMmJHcGZ3RXhSSEZQN3NvTk9rYmhqdGUtMVZiWnh0R3VwS3ZETWJlelpwU1I2eVEyWVJYa3dfdXpfY3Znc002Ty1DUUUzUm1nZzBrdDNBSUppcHYta3JfZlVibS1pRHFlbTViNjVUc2hlYkUzNFRMbWNyVmNZSUtyS3BBVkprbWFqTUJodGpYOHBCcmhRM1ZyYnV0WmItV2c?oc=5
 
-- Andhra, Odisha & TN on alert as cyclone Montha nears, IMD warns of heavy rain - Times of India
-  Andhra, Odisha & TN on alert as cyclone Montha near
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaDJYbXZzeDl3c3p6VG1Oc0w1TkFieXlsT2YxZWdhVW4zbkFUQ0dHVGVXc1BmS2NpcjJXUnhrb0R4eGJhZUlYdFFKTGtaSFRxdHRkZGxQLVZNemRzcUxya3NSRlFKMjBsbW0xdjMwOVcydVl0Y3RrRS1vWXJsdm1fRDRRNkY5S3NQYzB6RE43LWpnM1luS0pRTjVGSkkya3ZPT1BHZE1rc0F6Q3Z1ZGJ4WVRRSGs5WVlkSHBaYmlpbVh0MHZzQURCSTU2UUJIeE95YUxDLUY0TmvSAd4BQVVfeXFMT2RsYTl1WUV5YlpTZ1I5cUlZX1V1OGozTFFJbXNrSkNwYXNQQ0dlc3RKWnRfZWk3WU95N2lsVkwzN0J3VjJ2UHNSeEpWVmFMYXhYUUk0azczR3RHdk5qMjBfdGdqUVBNWlRzUmNVZzB3ZDhUWDdNVEVhQThVSFZ4YXpOazhfY0hhMTlhM3Q3amFMbFBzRkxKbW5aTUV6OVg3Slo0RGhIUWRDcDl4R2x5UENJQk1faXlfT05BTVUyNWxXN0FfVEZ0MmtVX2JHNnhEMTFTbkY5T0g3ZW5aV1p3?oc=5
+- Pak has nothing to gain by needling India: Ex-CIA man - The Times of India
+  Pak has nothing to gain by needling India: Ex
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPaXcta1lKODl3T1dBOEpRWFJmXzlxZXVPMG1UbXNsTVM3M2ZtbC1neUZLZDVvNHVZZjNkMVBDZTNSc1NSQ1RkX01KVXFUdThFS0dRUkpFYThXVnd5Q3Z1dGpyUC0ta3BWaUJtUFZxQkE3OVNTdmVQQVpZOFAzWU95YlBIX0d5Q2Y2cWwxRnAtQWNCU0lkb2s5UDd3NHhsQ3phSERhWWppQUxJWFdLeFRUMDZrVUtNTjljM21OQzVDOW5VM1RQLUgzRVVmRVnSAdIBQVVfeXFMUEQ3cnB0MC1DbVBOLWE0a2ZpNG9JU204aVc4VUhJdXQ5bEpTZGJXWm9MQUtBVEY2Y1F0Yi13Q2FtM2dKeURnT0tkbHJxeVBVMlZSOXA4LUhsNGRIUFRGdmZKY3lfWlItN0ZraUgzcjVnaFZQdjZoNXUzaTA4NWlzZmtPelBKV1gzWmlvaS1rS2F2WWVzU1lCLWhfaUJoV25DUzBaR2NZNGZOeHhrTWFVY1lUWV9qUFZFQU9LV0FmRlNpOEQ0RjRTWF9jMmNCdXhRQ1Rn?oc=5
 
 - 'No Benefit In Fighting India': Ex-CIA Officer Who Led Pak Operations - NDTV
   'No Benefit In Fighting India': Ex-
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzNlWldUbHdueWczMnlrNHRqVkVQWFJEaFA2eGU5bXpiVEM4cFZmU0pBMXdxcmpydEVCVFNPS2paQUkwTG1va2VXQVRQTVc2MzBJVU5nX0txZ25PaDhGLXhhcXBEQlk5MHZjVS1tbjh2SzREWlJNb3k4UnBUVTZYYjhBQUZ3Rnh5cTVQV3VYN0xXQ1RlZFFaa3N0TXEtUFJwR3dUTjljTEN6ZG5sSW9PVTJzOWRnRDJLc2hCSE1TOUXSAcgBQVVfeXFMT2ZPZTduLXV5SWdUYTY2YTlwWk1fRHB4TDUtcWw0M21IR1BleHFsTFRrYzFsbS1rcHp4bDVZNnd0SWhXaHROREE2RkRVRm9SR1N2bzBTaW1MM3FXZXhPRjBfNk11NkYzS1BOUVhfZXl1WENKb3hfR29qSWdTNlVheWVkbTl6SlVnQ2RRZG1qNk91T2VZNG1KTUVPVGNzZnJLOXNkVUw4Zm5VdnY0aDNRelQ1Qi1BZWdVZndCNWM4Qzg2bGYzR3cyemc?oc=5
 
-- 'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell; reveals Washington expected - Times of India
-  'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell.
-  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPMUczaWxFQXhMWjQzVDg0alhSRXZxal9hNjFmNExSUHZpM0dDd2FQWnBNWjFVYlVtd3lyQXN1RDduVG8zWmlZTllOd1RSVldHWmRDQzBxTGtIVlFtWWp2aEczbnNUNkVJMk52QTg3OWlYYVJocVg4T19Vcl9lYk0xaW5CQVZEd18tUXpxdWlyaU1EWS00R1ZfNEh6cUI3WjBsMmNQYmRPa3FUMGVrRFh1eUNCVEl1NWNJR1NrVXpKNkZ0c3lZYXJlTmxXbHI1dWxkbExjd0dKZDRQRXlBRGxzX2VPeEMzMEVnaVVRaGRlTGtiOWJrM1YwNGhhcVR5NERJVkg1bFJScm5NbUN4TEV5UjYyUVhsSmd2TldhRUIyS1cyblBuaUHSAasCQVVfeXFMTkdyd2JFSmpOZUZsQ181SG9jZTFpdjZpU3FjWHU4NVNFSjBEOThYY0lBc01nTDF3MmVOYkVmN3c4eWlaRVFzQ1BBRXJuQnhobXlBRkxvTWdialU2MkR5YzhIMnY0dVRzcl8xbzNnVWZORkQtTHo1cmRHaU00NUxySl9oMm1HOUdoVmw4bDBwNWNpRkhqNldDWlppc1lXeVlya2tvS25GM09KMUtlU0ZFbUtrd1lBU0YyTFpNLVJwMFdOWG1YX2p5bjZyVnhBMGFlTkhJc0wwdGRFSkFEUHFwSjFYcFdfbTEzRHJSY0JlSnl2b3FrOFp2aTREN1ZTRzE5WnlrMVlMX09PUWgzeWJPZ2hlcEhmQ1VtSzVhaEVxdEVteHdaRjQ5VkZYYlk?oc=5
-
 - ‘Pakistan will lose any conventional war with India’: Former CIA officer John Kiriakou | Latest News India - Hindustan Times
   ‘Pakistan will lose any conventional war with India’: Former CIA officer
   🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUVZJSFRSNXgzZnI3bXoydlNiVEdaR0JId05hRFZBYkFNZEQzcVlZdmhYOU40RXlvbldRMjZHU3J2TWdNaUc3QlNPU3FkdlpLQUo3R1lxb0xWVWFYcDQ4b1AySkhmUy1pekh3LTB3MXJTSmZWMEExcEIzOVdlSTlDVkVmS2dfNFg0ZzQ4VkhwbjAySXVYSjd0ZEx3Z2tFdUNhSUg2LWQ5S0RUVWwtTEZJckVDeGpNeDlRdU9SMWNnamJZOFl3b00wUUIzek52bktTZ19RYzB0TkVzdFZjajhN0gHkAUFVX3lxTE1ZTWFhQjNSU21jLTY4bUNRdnEzVTdtUm9FQW5MOWpjeC1mZ3NRX2M0dmdaQ25Pbkk1akw4TEp2UDNaZDRocnR4dzB6c2J6Rm03S3BheTFjSUxfbVhTUll6Q3VhdW9lNmtZejR0ejVOYmY0cU1mbWJDTV9NYzVMaUNRaC1YNGE4MndVRXl1cF9tdWtzLTZCTFNYcTdYNG9lQldoY0lOT2lmQ3FqeExrUnZuUUpCaV8zV2tkUjZPLUw5bFZJYTA3SXA1eXBTWWJxcHlWQmVmUWQwQTB5SnFCeVFOQ3J4Qg?oc=5
+
+- India to hold major tri-service exercise on western frontier - The Times of India
+  India to hold major tri-service exercise on western
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTI0ZUtEUHpyUFE5NnlsV1RqVVFqLXlmWFVsMktWRUZJck50U19zVzhkSW1UTmw3RFd1R0FUZlc5YV8tZ2VfeFBRRlp6LUpMRzdISjdDTnFvTWVVZnZGYUJHb1FNNmdhSml4WllQcm9GYnZQQ1h1VlhOeEtBQ1I0ZkljZXZnT1FuYS1fUFo5Si1SMW4xeENBc0IyVFlfaC16UVdQdndNZXFlcUlvcDd6SEFRREEybmRpREF1X0NfUjM2TjlZNThN0gHMAUFVX3lxTE5UeW9rYW9NbktpamEybmtKWl94dU5nZXc2R3lKYXVtT0JKVHF3MGx6WTJ3QjJZcE9ZVXl5Uk8yUlhKN2VXVExHSllUaVFzS1hJTHhFc0loelNSNXpld0dBZV82ZVJXejRzYW1WTENJOG5QR1BjTkIwZWQtTW5DSkVEX1F1NW9jc2J3eXNRdDFZMEJzUGdRMEREVzlXYkw1cmF6aFFfamg2c0JMNkJIdUtGbWZBenl6UEgzdnRLMkZsQXFMTG85c3hKbjl0Mw?oc=5
 
 - 'Severe cyclone' headed to India's east coast: Where 'Montha' will make landfall, and when | Latest News India - Hindustan Times
   'Severe cyclone' headed to India's east coast: Where 'Montha
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVml4ZS1HdEJMcjhvd3hfSzdkTWxDOW9HUE5mb1owb09vNDB5REMwamF1bHFGdHh0OTZ2RG1WMlNSU05lVmRjYmdfWWE0YVJqNGRSdXZLTll5a2lKSXJvYmlsUDhPQVRmWjFSVDVRSHFTc2lfVUtnUDRSTXVMMnVfRENOSXIxVHZwS1FFd0x0WkZEdjhiZEtFZUxpSTlpQ05FSEJOYTZrenNrOVg2WjUzVW9meW0tM25oLVZrZkdjWWNGdFVMZktRaUdHTzJGbFNx0gHWAUFVX3lxTE5adnlKaXNJQkdCaVQ0c1d4LWhiWldVUDZ1R3FrT3FFUW1YUTJ0ZW1hOVpaZ3d6VlUydEx2a3NsMmJHcGZ3RXhSSEZQN3NvTk9rYmhqdGUtMVZiWnh0R3VwS3ZETWJlelpwU1I2eVEyWVJYa3dfdXpfY3Znc002Ty1DUUUzUm1nZzBrdDNBSUppcHYta3JfZlVibS1pRHFlbTViNjVUc2hlYkUzNFRMbWNyVmNZSUtyS3BBVkprbWFqTUJodGpYOHBCcmhRM1ZyYnV0WmItV2c?oc=5
 
-- Andhra, Odisha & TN on alert as cyclone Montha nears, IMD warns of heavy rain - Times of India
-  Andhra, Odisha & TN on alert as cyclone Montha near
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaDJYbXZzeDl3c3p6VG1Oc0w1TkFieXlsT2YxZWdhVW4zbkFUQ0dHVGVXc1BmS2NpcjJXUnhrb0R4eGJhZUlYdFFKTGtaSFRxdHRkZGxQLVZNemRzcUxya3NSRlFKMjBsbW0xdjMwOVcydVl0Y3RrRS1vWXJsdm1fRDRRNkY5S3NQYzB6RE43LWpnM1luS0pRTjVGSkkya3ZPT1BHZE1rc0F6Q3Z1ZGJ4WVRRSGs5WVlkSHBaYmlpbVh0MHZzQURCSTU2UUJIeE95YUxDLUY0TmvSAd4BQVVfeXFMT2RsYTl1WUV5YlpTZ1I5cUlZX1V1OGozTFFJbXNrSkNwYXNQQ0dlc3RKWnRfZWk3WU95N2lsVkwzN0J3VjJ2UHNSeEpWVmFMYXhYUUk0azczR3RHdk5qMjBfdGdqUVBNWlRzUmNVZzB3ZDhUWDdNVEVhQThVSFZ4YXpOazhfY0hhMTlhM3Q3amFMbFBzRkxKbW5aTUV6OVg3Slo0RGhIUWRDcDl4R2x5UENJQk1faXlfT05BTVUyNWxXN0FfVEZ0MmtVX2JHNnhEMTFTbkY5T0g3ZW5aV1p3?oc=5
+- Pak has nothing to gain by needling India: Ex-CIA man - The Times of India
+  Pak has nothing to gain by needling India: Ex
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPaXcta1lKODl3T1dBOEpRWFJmXzlxZXVPMG1UbXNsTVM3M2ZtbC1neUZLZDVvNHVZZjNkMVBDZTNSc1NSQ1RkX01KVXFUdThFS0dRUkpFYThXVnd5Q3Z1dGpyUC0ta3BWaUJtUFZxQkE3OVNTdmVQQVpZOFAzWU95YlBIX0d5Q2Y2cWwxRnAtQWNCU0lkb2s5UDd3NHhsQ3phSERhWWppQUxJWFdLeFRUMDZrVUtNTjljM21OQzVDOW5VM1RQLUgzRVVmRVnSAdIBQVVfeXFMUEQ3cnB0MC1DbVBOLWE0a2ZpNG9JU204aVc4VUhJdXQ5bEpTZGJXWm9MQUtBVEY2Y1F0Yi13Q2FtM2dKeURnT0tkbHJxeVBVMlZSOXA4LUhsNGRIUFRGdmZKY3lfWlItN0ZraUgzcjVnaFZQdjZoNXUzaTA4NWlzZmtPelBKV1gzWmlvaS1rS2F2WWVzU1lCLWhfaUJoV25DUzBaR2NZNGZOeHhrTWFVY1lUWV9qUFZFQU9LV0FmRlNpOEQ0RjRTWF9jMmNCdXhRQ1Rn?oc=5
 
 - 'No Benefit In Fighting India': Ex-CIA Officer Who Led Pak Operations - NDTV
   'No Benefit In Fighting India': Ex-
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzNlWldUbHdueWczMnlrNHRqVkVQWFJEaFA2eGU5bXpiVEM4cFZmU0pBMXdxcmpydEVCVFNPS2paQUkwTG1va2VXQVRQTVc2MzBJVU5nX0txZ25PaDhGLXhhcXBEQlk5MHZjVS1tbjh2SzREWlJNb3k4UnBUVTZYYjhBQUZ3Rnh5cTVQV3VYN0xXQ1RlZFFaa3N0TXEtUFJwR3dUTjljTEN6ZG5sSW9PVTJzOWRnRDJLc2hCSE1TOUXSAcgBQVVfeXFMT2ZPZTduLXV5SWdUYTY2YTlwWk1fRHB4TDUtcWw0M21IR1BleHFsTFRrYzFsbS1rcHp4bDVZNnd0SWhXaHROREE2RkRVRm9SR1N2bzBTaW1MM3FXZXhPRjBfNk11NkYzS1BOUVhfZXl1WENKb3hfR29qSWdTNlVheWVkbTl6SlVnQ2RRZG1qNk91T2VZNG1KTUVPVGNzZnJLOXNkVUw4Zm5VdnY0aDNRelQ1Qi1BZWdVZndCNWM4Qzg2bGYzR3cyemc?oc=5
 
-- 'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell; reveals Washington expected - Times of India
-  'US controlled Pakistani nuclear arsenal': Former CIA agent drops bombshell.
-  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPMUczaWxFQXhMWjQzVDg0alhSRXZxal9hNjFmNExSUHZpM0dDd2FQWnBNWjFVYlVtd3lyQXN1RDduVG8zWmlZTllOd1RSVldHWmRDQzBxTGtIVlFtWWp2aEczbnNUNkVJMk52QTg3OWlYYVJocVg4T19Vcl9lYk0xaW5CQVZEd18tUXpxdWlyaU1EWS00R1ZfNEh6cUI3WjBsMmNQYmRPa3FUMGVrRFh1eUNCVEl1NWNJR1NrVXpKNkZ0c3lZYXJlTmxXbHI1dWxkbExjd0dKZDRQRXlBRGxzX2VPeEMzMEVnaVVRaGRlTGtiOWJrM1YwNGhhcVR5NERJVkg1bFJScm5NbUN4TEV5UjYyUVhsSmd2TldhRUIyS1cyblBuaUHSAasCQVVfeXFMTkdyd2JFSmpOZUZsQ181SG9jZTFpdjZpU3FjWHU4NVNFSjBEOThYY0lBc01nTDF3MmVOYkVmN3c4eWlaRVFzQ1BBRXJuQnhobXlBRkxvTWdialU2MkR5YzhIMnY0dVRzcl8xbzNnVWZORkQtTHo1cmRHaU00NUxySl9oMm1HOUdoVmw4bDBwNWNpRkhqNldDWlppc1lXeVlya2tvS25GM09KMUtlU0ZFbUtrd1lBU0YyTFpNLVJwMFdOWG1YX2p5bjZyVnhBMGFlTkhJc0wwdGRFSkFEUHFwSjFYcFdfbTEzRHJSY0JlSnl2b3FrOFp2aTREN1ZTRzE5WnlrMVlMX09PUWgzeWJPZ2hlcEhmQ1VtSzVhaEVxdEVteHdaRjQ5VkZYYlk?oc=5
-
 - ‘Pakistan will lose any conventional war with India’: Former CIA officer John Kiriakou | Latest News India - Hindustan Times
   ‘Pakistan will lose any conventional war with India’: Former CIA officer
   🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUVZJSFRSNXgzZnI3bXoydlNiVEdaR0JId05hRFZBYkFNZEQzcVlZdmhYOU40RXlvbldRMjZHU3J2TWdNaUc3QlNPU3FkdlpLQUo3R1lxb0xWVWFYcDQ4b1AySkhmUy1pekh3LTB3MXJTSmZWMEExcEIzOVdlSTlDVkVmS2dfNFg0ZzQ4VkhwbjAySXVYSjd0ZEx3Z2tFdUNhSUg2LWQ5S0RUVWwtTEZJckVDeGpNeDlRdU9SMWNnamJZOFl3b00wUUIzek52bktTZ19RYzB0TkVzdFZjajhN0gHkAUFVX3lxTE1ZTWFhQjNSU21jLTY4bUNRdnEzVTdtUm9FQW5MOWpjeC1mZ3NRX2M0dmdaQ25Pbkk1akw4TEp2UDNaZDRocnR4dzB6c2J6Rm03S3BheTFjSUxfbVhTUll6Q3VhdW9lNmtZejR0ejVOYmY0cU1mbWJDTV9NYzVMaUNRaC1YNGE4MndVRXl1cF9tdWtzLTZCTFNYcTdYNG9lQldoY0lOT2lmQ3FqeExrUnZuUUpCaV8zV2tkUjZPLUw5bFZJYTA3SXA1eXBTWWJxcHlWQmVmUWQwQTB5SnFCeVFOQ3J4Qg?oc=5
+
+- India to hold major tri-service exercise on western frontier - The Times of India
+  India to hold major tri-service exercise on western
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTI0ZUtEUHpyUFE5NnlsV1RqVVFqLXlmWFVsMktWRUZJck50U19zVzhkSW1UTmw3RFd1R0FUZlc5YV8tZ2VfeFBRRlp6LUpMRzdISjdDTnFvTWVVZnZGYUJHb1FNNmdhSml4WllQcm9GYnZQQ1h1VlhOeEtBQ1I0ZkljZXZnT1FuYS1fUFo5Si1SMW4xeENBc0IyVFlfaC16UVdQdndNZXFlcUlvcDd6SEFRREEybmRpREF1X0NfUjM2TjlZNThN0gHMAUFVX3lxTE5UeW9rYW9NbktpamEybmtKWl94dU5nZXc2R3lKYXVtT0JKVHF3MGx6WTJ3QjJZcE9ZVXl5Uk8yUlhKN2VXVExHSllUaVFzS1hJTHhFc0loelNSNXpld0dBZV82ZVJXejRzYW1WTENJOG5QR1BjTkIwZWQtTW5DSkVEX1F1NW9jc2J3eXNRdDFZMEJzUGdRMEREVzlXYkw1cmF6aFFfamg2c0JMNkJIdUtGbWZBenl6UEgzdnRLMkZsQXFMTG85c3hKbjl0Mw?oc=5
 
 - 'Severe cyclone' headed to India's east coast: Where 'Montha' will make landfall, and when | Latest News India - Hindustan Times
   'Severe cyclone' headed to India's east coast: Where 'Montha
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVml4ZS1HdEJMcjhvd3hfSzdkTWxDOW9HUE5mb1owb09vNDB5REMwamF1bHFGdHh0OTZ2RG1WMlNSU05lVmRjYmdfWWE0YVJqNGRSdXZLTll5a2lKSXJvYmlsUDhPQVRmWjFSVDVRSHFTc2lfVUtnUDRSTXVMMnVfRENOSXIxVHZwS1FFd0x0WkZEdjhiZEtFZUxpSTlpQ05FSEJOYTZrenNrOVg2WjUzVW9meW0tM25oLVZrZkdjWWNGdFVMZktRaUdHTzJGbFNx0gHWAUFVX3lxTE5adnlKaXNJQkdCaVQ0c1d4LWhiWldVUDZ1R3FrT3FFUW1YUTJ0ZW1hOVpaZ3d6VlUydEx2a3NsMmJHcGZ3RXhSSEZQN3NvTk9rYmhqdGUtMVZiWnh0R3VwS3ZETWJlelpwU1I2eVEyWVJYa3dfdXpfY3Znc002Ty1DUUUzUm1nZzBrdDNBSUppcHYta3JfZlVibS1pRHFlbTViNjVUc2hlYkUzNFRMbWNyVmNZSUtyS3BBVkprbWFqTUJodGpYOHBCcmhRM1ZyYnV0WmItV2c?oc=5
 
-- Andhra, Odisha & TN on alert as cyclone Montha nears, IMD warns of heavy rain - Times of India
-  Andhra, Odisha & TN on alert as cyclone Montha near
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaDJYbXZzeDl3c3p6VG1Oc0w1TkFieXlsT2YxZWdhVW4zbkFUQ0dHVGVXc1BmS2NpcjJXUnhrb0R4eGJhZUlYdFFKTGtaSFRxdHRkZGxQLVZNemRzcUxya3NSRlFKMjBsbW0xdjMwOVcydVl0Y3RrRS1vWXJsdm1fRDRRNkY5S3NQYzB6RE43LWpnM1luS0pRTjVGSkkya3ZPT1BHZE1rc0F6Q3Z1ZGJ4WVRRSGs5WVlkSHBaYmlpbVh0MHZzQURCSTU2UUJIeE95YUxDLUY0TmvSAd4BQVVfeXFMT2RsYTl1WUV5YlpTZ1I5cUlZX1V1OGozTFFJbXNrSkNwYXNQQ0dlc3RKWnRfZWk3WU95N2lsVkwzN0J3VjJ2UHNSeEpWVmFMYXhYUUk0azczR3RHdk5qMjBfdGdqUVBNWlRzUmNVZzB3ZDhUWDdNVEVhQThVSFZ4YXpOazhfY0hhMTlhM3Q3amFMbFBzRkxKbW5aTUV6OVg3Slo0RGhIUWRDcDl4R2x5UENJQk1faXlfT05BTVUyNWxXN0FfVEZ0MmtVX2JHNnhEMTFTbkY5T0g3ZW5aV1p3?oc=5
+- Pak has nothing to gain by needling India: Ex-CIA man - The Times of India
+  Pak has nothing to gain by needling India: Ex
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPaXcta1lKODl3T1dBOEpRWFJmXzlxZXVPMG1UbXNsTVM3M2ZtbC1neUZLZDVvNHVZZjNkMVBDZTNSc1NSQ1RkX01KVXFUdThFS0dRUkpFYThXVnd5Q3Z1dGpyUC0ta3BWaUJtUFZxQkE3OVNTdmVQQVpZOFAzWU95YlBIX0d5Q2Y2cWwxRnAtQWNCU0lkb2s5UDd3NHhsQ3phSERhWWppQUxJWFdLeFRUMDZrVUtNTjljM21OQzVDOW5VM1RQLUgzRVVmRVnSAdIBQVVfeXFMUEQ3cnB0MC1DbVBOLWE0a2ZpNG9JU204aVc4VUhJdXQ5bEpTZGJXWm9MQUtBVEY2Y1F0Yi13Q2FtM2dKeURnT0tkbHJxeVBVMlZSOXA4LUhsNGRIUFRGdmZKY3lfWlItN0ZraUgzcjVnaFZQdjZoNXUzaTA4NWlzZmtPelBKV1gzWmlvaS1rS2F2WWVzU1lCLWhfaUJoV25DUzBaR2NZNGZOeHhrTWFVY1lUWV9qUFZFQU9LV0FmRlNpOEQ0RjRTWF9jMmNCdXhRQ1Rn?oc=5
 
-- China’s Clean Technology Recommendations for Their Next 5-Year Plan - CleanTechnica
-  China's Clean Technology Recommendations for
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOYllhaW5ZZi1MV3AtVmw3UVNGLTBNcWdiZE5RUDRWb0RUVk41bFl3Z3lEZ3UydVdCeW91X1FJTTJ1ZmxBd0swNWxNYUhicm5EaTZQQmZ6WXdDWjRqOGdTY08tYWtlWUN0dVRxSHp0aEtURC1zeFVLUUluNkctM0FoMDFPTlRjR0RGdHNmc2hIVlBlZnVtc0ZQTUVnMnRqeUlIWlNhdVVJY9IBrAFBVV95cUxOYTVZaFpTdFVxRGdYdExrVE0xT01UQm1LYjFPUEgza2Npc2lUaWNEdEIyV2kyaEwzSjVfUVB2dk15N005MWhIT3NfN19CY0hkZGdMUFdGV3BSYXZCbzZySlZtUmhEUVh6YjY0ckdoVmROcVJMNm1NTEs2bWhDVUs2S2ZWZG5pb0szNkZOZGd4RkgxWXJOZDRiYWVpUzhITUZjdjg1TkY4UHJqZDdn?oc=5
+- 'No Benefit In Fighting India': Ex-CIA Officer Who Led Pak Operations - NDTV
+  'No Benefit In Fighting India': Ex-
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzNlWldUbHdueWczMnlrNHRqVkVQWFJEaFA2eGU5bXpiVEM4cFZmU0pBMXdxcmpydEVCVFNPS2paQUkwTG1va2VXQVRQTVc2MzBJVU5nX0txZ25PaDhGLXhhcXBEQlk5MHZjVS1tbjh2SzREWlJNb3k4UnBUVTZYYjhBQUZ3Rnh5cTVQV3VYN0xXQ1RlZFFaa3N0TXEtUFJwR3dUTjljTEN6ZG5sSW9PVTJzOWRnRDJLc2hCSE1TOUXSAcgBQVVfeXFMT2ZPZTduLXV5SWdUYTY2YTlwWk1fRHB4TDUtcWw0M21IR1BleHFsTFRrYzFsbS1rcHp4bDVZNnd0SWhXaHROREE2RkRVRm9SR1N2bzBTaW1MM3FXZXhPRjBfNk11NkYzS1BOUVhfZXl1WENKb3hfR29qSWdTNlVheWVkbTl6SlVnQ2RRZG1qNk91T2VZNG1KTUVPVGNzZnJLOXNkVUw4Zm5VdnY0aDNRelQ1Qi1BZWdVZndCNWM4Qzg2bGYzR3cyemc?oc=5
 
-- China upgraded missiles using UAE technology, Biden spies said - Financial Times
-  China upgraded missiles using UAE technology, Biden
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1RQ2x5T0xsajJGSWJ5bVBIbHdUZFdjeVF0NWtGdzhodVNNY2FlWlZMRTFlaGU4ek9GdUwxZGk2bTJyZ3hmel90WHNtX1JGcU01VlRyVkMtQk9BWTQzclRpSE9kN2hoNzJwUWdPcHRvank?oc=5
+- ‘Pakistan will lose any conventional war with India’: Former CIA officer John Kiriakou | Latest News India - Hindustan Times
+  ‘Pakistan will lose any conventional war with India’: Former CIA officer
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUVZJSFRSNXgzZnI3bXoydlNiVEdaR0JId05hRFZBYkFNZEQzcVlZdmhYOU40RXlvbldRMjZHU3J2TWdNaUc3QlNPU3FkdlpLQUo3R1lxb0xWVWFYcDQ4b1AySkhmUy1pekh3LTB3MXJTSmZWMEExcEIzOVdlSTlDVkVmS2dfNFg0ZzQ4VkhwbjAySXVYSjd0ZEx3Z2tFdUNhSUg2LWQ5S0RUVWwtTEZJckVDeGpNeDlRdU9SMWNnamJZOFl3b00wUUIzek52bktTZ19RYzB0TkVzdFZjajhN0gHkAUFVX3lxTE1ZTWFhQjNSU21jLTY4bUNRdnEzVTdtUm9FQW5MOWpjeC1mZ3NRX2M0dmdaQ25Pbkk1akw4TEp2UDNaZDRocnR4dzB6c2J6Rm03S3BheTFjSUxfbVhTUll6Q3VhdW9lNmtZejR0ejVOYmY0cU1mbWJDTV9NYzVMaUNRaC1YNGE4MndVRXl1cF9tdWtzLTZCTFNYcTdYNG9lQldoY0lOT2lmQ3FqeExrUnZuUUpCaV8zV2tkUjZPLUw5bFZJYTA3SXA1eXBTWWJxcHlWQmVmUWQwQTB5SnFCeVFOQ3J4Qg?oc=5
 
-- Rendering justice is a profoundly human effort, technology can only be a powerful ally: Justice Kant - The Hindu
-  Rendering justice is a profoundly human effort. Technology can only be a
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPa1ByNnRQOUlYVVJnWEN1TWpDVC1Va0lmVy1JWDlUYkVuWmgtVkJpNWdFZVlLTnJ5dzVDWm54dHBMUWw3V3VWUm5WeUZUX0NBekFyaE5YdDByMm1RR3V3SmJsVUxDZlNtejg2cGs3WG9CMHRvLWJDV3VqS2duUkRkc1lQMm13c3FtSlBjWXdRN2FqYWZCMlo3Yjl0aV9PaVo2WEYyN1VabkJkMEZxS21GeHRHNFFjTkNidVBnUTZPNWlLZWRaVUI3RVNBaWsyeWVDZnpDU2IyRkFFMVpjXzhDV2ZJMl9Cc3dPeHc2b0N30gH0AUFVX3lxTE04VmxXazh4dTdUYm5RaUFjZDZIMk5IS25KRTlzWXV1ZzVfSkxaYnU1UkxaTTluV3k3aGR1NHIyTzVCSTZiUnlrMG9mZ0FCVjhMUWtvMnJFcGhONllzQU02UGludWFBWDVCeTFvcXJLWXlySFNYTFFIRk1TUmx1dkxfVnY5T0FFb3BSY04ta09fNHdpb0s1ZW9JYUd5X0RhZHJwZk9GbUl0S1JCcE4wNlRHaXNPOEpJUFBINWc0cXNDSEpnTVhRWkYyUmlfcWQwbG9nZEJmV3A0TE82NXljc0d4THh4UzktUWVob3ZpUjFFZVA1WEI?oc=5
+- India to hold major tri-service exercise on western frontier - The Times of India
+  India to hold major tri-service exercise on western
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTI0ZUtEUHpyUFE5NnlsV1RqVVFqLXlmWFVsMktWRUZJck50U19zVzhkSW1UTmw3RFd1R0FUZlc5YV8tZ2VfeFBRRlp6LUpMRzdISjdDTnFvTWVVZnZGYUJHb1FNNmdhSml4WllQcm9GYnZQQ1h1VlhOeEtBQ1I0ZkljZXZnT1FuYS1fUFo5Si1SMW4xeENBc0IyVFlfaC16UVdQdndNZXFlcUlvcDd6SEFRREEybmRpREF1X0NfUjM2TjlZNThN0gHMAUFVX3lxTE5UeW9rYW9NbktpamEybmtKWl94dU5nZXc2R3lKYXVtT0JKVHF3MGx6WTJ3QjJZcE9ZVXl5Uk8yUlhKN2VXVExHSllUaVFzS1hJTHhFc0loelNSNXpld0dBZV82ZVJXejRzYW1WTENJOG5QR1BjTkIwZWQtTW5DSkVEX1F1NW9jc2J3eXNRdDFZMEJzUGdRMEREVzlXYkw1cmF6aFFfamg2c0JMNkJIdUtGbWZBenl6UEgzdnRLMkZsQXFMTG85c3hKbjl0Mw?oc=5
 
-- Technology can heal, but empathy essential: Nadda - Times of India
-  Technology can heal, but empathy essential
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOS1V5QXNxWEE2NU14ZmNVOVNEZmktMVkxZEF0blFZRlhhUW1qeTZieU1JTU5WRnFmdnJERElyLVJMMXJpOFFzbnk2RjNRX3NnaEdNanpidEdRckJXU0x6ZmJtMDJtbTY3RFZGOEcySi1CWV9NdHNJUk1CVTJuMzlyVFB3aGJ0NFBqUGtfVWhWUVZ2SmRtQWIwUU56MDl2VW1yU1gtUGJobmwwQlBPLU5zZDJ1RVFaUkcyQ05nSNIBwgFBVV95cUxQeGpJZUUxQjEwN0lhQmI0YnVhVjJ6VkE3M2lrOXdGTXBMZndIOGp0Q284cGJHSHhWNEJiZk9CaXdCUmhJUWE1ZGpFMlY0VmZRa2xUblJncmJhbGp5RXdjLU5JcDZmZWhSaFl3dUt5cUNtdXRpZUJBWjlvMjlyZUd5djBfWFdIalZNTkNpVWZwcF9jRTNoaWF2LVJuTVRRT2pOdDZTQUtYS3QwQXRodEY5YVV4amhFNWp1d2hmeExPSFNvUQ?oc=5
+- 'Severe cyclone' headed to India's east coast: Where 'Montha' will make landfall, and when | Latest News India - Hindustan Times
+  'Severe cyclone' headed to India's east coast: Where 'Montha
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVml4ZS1HdEJMcjhvd3hfSzdkTWxDOW9HUE5mb1owb09vNDB5REMwamF1bHFGdHh0OTZ2RG1WMlNSU05lVmRjYmdfWWE0YVJqNGRSdXZLTll5a2lKSXJvYmlsUDhPQVRmWjFSVDVRSHFTc2lfVUtnUDRSTXVMMnVfRENOSXIxVHZwS1FFd0x0WkZEdjhiZEtFZUxpSTlpQ05FSEJOYTZrenNrOVg2WjUzVW9meW0tM25oLVZrZkdjWWNGdFVMZktRaUdHTzJGbFNx0gHWAUFVX3lxTE5adnlKaXNJQkdCaVQ0c1d4LWhiWldVUDZ1R3FrT3FFUW1YUTJ0ZW1hOVpaZ3d6VlUydEx2a3NsMmJHcGZ3RXhSSEZQN3NvTk9rYmhqdGUtMVZiWnh0R3VwS3ZETWJlelpwU1I2eVEyWVJYa3dfdXpfY3Znc002Ty1DUUUzUm1nZzBrdDNBSUppcHYta3JfZlVibS1pRHFlbTViNjVUc2hlYkUzNFRMbWNyVmNZSUtyS3BBVkprbWFqTUJodGpYOHBCcmhRM1ZyYnV0WmItV2c?oc=5
 
-- China launches satellite to test new communication technology - news.cgtn.com
-  China launches satellite to test new
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEZkR1VHRnMtck9OcUg1NEJDX0tyMDNuR0ZxZW53ZHZlaGhnVm5VNG9QZlR6cXJ5Z25wTDBxOFY3c1Z4dHlXSkxkNy1sTXFjVW9QMUFWdFZUVVBSdDZJWGplR25VSE5kUTRSUE5yYXo4SlRSQlYxNDhHaXhWUGlXYXFWODBoaHJQcm5XYktMVFhDdWJtSGRTcDl2RVo0Tzd2dDluMEZ6dWpKRm9kRU5WQndmVXBRLWhFR0E?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-26 01:18:04 UTC_
+_Last updated: 2025-10-26 06:26:35 UTC_
