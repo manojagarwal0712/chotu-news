@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- EXCLUSIVE: Kurnool bus accident that killed 20 caused by drunk biker, says forensic report
+- Train to Goa: Indian Railways revises timetable of Mangaluru-Madgaon Vande Bharat Express
   
-  🔗 https://indianexpress.com/article/india/kurnool-bus-accident-killed-caused-drunk-biker-forensic-report-10327612/
+  🔗 https://indianexpress.com/article/india/indian-railways-revises-timetable-mangaluru-madgaon-goa-vande-bharat-train-10327953/
 
-- Probe after 5 thalassemia-affected minors ‘test HIV positive’ in Jharkhand’s West Singhbhum
+- IRCTC ‘No Food’ option: Are meals now compulsory on Rajdhani, Shatabdi, Vande Bharat trains? check details
   
-  🔗 https://indianexpress.com/article/india/thalassemia-minors-hiv-positive-jharkhand-west-singhbhum-sadar-hospital-chaibasa-10327545/
+  🔗 https://indianexpress.com/article/india/meals-compulsory-rajdhani-shatabdi-vande-bharat-trains-book-irctc-no-food-10327787/
 
-- Security forces arrest 4 militants in Manipur, arms recovered
+- In Mann Ki Baat, PM Modi urges everyone to commemorate 150 years of Vande Mataram
   
-  🔗 https://indianexpress.com/article/india/4-militants-arrest-manipur-security-forces-imphal-10327465/
+  🔗 https://indianexpress.com/article/india/mann-ki-baat-pm-modi-celebrate-150-years-vande-mataram-10327778/
 
-- Rajasthan: 67 administrative officers transferred
+- ‘Institutional murder’: Rahul Gandhi on Maharashtra doctor’s suicide, says ‘it exposes inhumane face of BJP govt’
   
-  🔗 https://indianexpress.com/article/india/rajasthan-67-administrative-officers-transferred-10327467/
+  🔗 https://indianexpress.com/article/india/rahul-gandhi-maharashtra-doctor-assault-police-man-10327713/
 
-- News Today Live Updates, 26 October | EXCLUSIVE: Kurnool bus accident that killed 20 caused by drunk biker, says forensic report
+- Aurangabad railway station officially renamed as Chhatrapati Sambhajinagar | Know other names the city had
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-10-26-2025-news-headlines-10327296/
+  🔗 https://indianexpress.com/article/india/aurangabad-railway-station-officially-renamed-as-chhatrapati-sambhajinagar-10327699/
+
+- Meta’s chief AI scientist warns that humanoid robot startups are in a bubble
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-chief-ai-scientist-yann-lecun-humanoid-robots-warning-10328100/
+
+- Google unveils new Earth AI models with geospatial reasoning to improve disaster-response
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-earth-ai-models-geospatial-reasoning-disaster-response-10327833/
 
 - Reliance, Meta form new Rs 855-crore joint venture to build enterprise AI products in India
   
@@ -32,13 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/science/sam-altman-brain-implant-startup-merge-labs-ultrasound-magnetic-field-10326286/
 
-- How to delete your digital footprint in 5 steps
-  
-  🔗 https://indianexpress.com/article/technology/how-to-delete-your-digital-footprint-in-5-steps-10326176/
+- SBI looks to fill 18,000 jobs! From officers, to clerical roles and gender diversity — here's all you need to know
+  SBI has recruited 505 Probationary Officers and is filling more vacancies. The public sector lender is looking to hire for 18,000 roles across categories.
+  🔗 https://www.livemint.com/companies/news/state-bank-india-sbi-jobs-18000-vacancy-officers-clerks-junior-associates-30-pc-women-workforce-gender-diversity-details-11761472753427.html
 
-- Jupiter saved Earth from spiralling into the Sun, scientists say
-  
-  🔗 https://indianexpress.com/article/technology/science/jupiter-saved-earth-from-spiralling-into-the-sun-scientists-say-10326100/
+- Will Elon Musk's Tesla cease to exist in next 10 years? Ex-Stellantis CEO's grim prediction of EV maker's future
+  Former Stellantis CEO Carlos Tavares predicts the company may exit the automotive sector amid competition
+  🔗 https://www.livemint.com/companies/news/will-elon-musks-tesla-cease-to-exist-in-next-10-years-ex-stellantis-ceos-grim-prediction-of-ev-makers-future-11761466488617.html
 
 - Meta lays off 600 AI jobs, including 100 reviewing user privacy; memo reads ‘fewer conversations ... to make decision’
    Meta plans to lay off 600 employees in its AI division reportedly to accelerate product development. The cuts include 100 jobs in the risk review team
@@ -52,13 +60,17 @@
   Many companies have a pyramid where the school graduates are at the bottom. This pyramid is going to change into a manner that more experts are produced
   🔗 https://www.livemint.com/companies/people/cognizant-ceo-ravi-kumar-s-opens-up-on-jobs-hiring-and-ai-we-will-need-more-school-graduates-11761387638427.html
 
-- Reliance partners with Meta's Facebook to develop AI services, plans to set up 70:30 joint venture — Details here
-  Reliance Industries' subsidiary, Reliance Intelligence, is set to form a joint venture with Meta-owned Facebook Overseas.
-  🔗 https://www.livemint.com/companies/news/reliance-partners-with-metas-facebook-to-develop-ai-services-plans-to-set-up-70-30-joint-venture-details-here-11761388467407.html
+- Upcoming IPOs: Orkla India IPO, Jayesh Logistics IPO among public issues to open next week
+  Orkla India IPO among the mainboard public issue. Jayesh Logistics IPO, Game Changers Texfab IPO,
+  🔗 https://www.livemint.com/market/stock-market-news/upcoming-ipos-orkla-india-ipo-jayesh-logistics-ipo-among-public-issues-to-open-next-week-11761462661058.html
 
-- ‘False and baseless’: LIC denies Washington Post report, says investment decisions taken after due diligence
-  Life Insurance Corporation of India (LIC) on 25 October 2025 denied the claims of the Washington Post report. The State-owned insurance giant said that all
-  🔗 https://www.livemint.com/companies/news/false-and-baseless-lic-denies-washington-post-report-says-investment-decisions-taken-after-due-diligence-11761383012360.html
+- Mcap of 7 of top 10 most valued firms surges by  ₹1.55 lakh crore; Reliance Industries, TCS among biggest gainers
+  Reliance Industries, Bharti Airtel, TCS, State Bank of India, Bajaj Finance, Inf
+  🔗 https://www.livemint.com/market/mcap-of-7-of-top-10-most-valued-firms-surges-by-1-55-lakh-crore-reliance-industries-tcs-among-biggest-gainers-11761460809481.html
+
+- Q2 results 2025: L&amp;T, ITC, Indian Oil, Swiggy, Adani Green among companies to declare earnings next week
+  Larsen &amp;amp; Toubro, ITC, Indian Oil, Swiggy, Ad
+  🔗 https://www.livemint.com/market/stock-market-news/q2-results-2025-l-t-itc-indian-oil-swiggy-adani-green-among-companies-to-declare-earnings-next-week-11761458191542.html
 
 - Ashish Kacholia portfolio stock to be in focus on Monday - here's why
   Fineotex Chemical share price was up 3.31 per cent, closed at  ₹255.99 apiece on Friday. The chemical stock has been trading in green in
@@ -68,137 +80,145 @@
   Sumeet Bagadia has recommended three stocks to buy on Monday, October 26. Essar Shipping, Vas
   🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-26-october-2025-11761453686745.html
 
-- Silver prices resume losing streak: Check rates in Mumbai, Delhi, Bengaluru, Chennai, Kolkata, Hyderabad on October 26
-  Silver prices in Mumbai, Bengaluru, Chennai, Hyderabad, Delhi and Kolkata
-  🔗 https://www.livemint.com/market/commodities/silver-gold-prices-in-your-city-check-rates-in-mumbai-delhi-bengaluru-chennai-kolkata-and-hyderabad-on-october-26-11761450381452.html
+- iPhone 18 Pro Max could get full internet access straight from space: All you need to know
+  Apple's upcoming iPhone 18 series may feature full 5G satellite
+  🔗 https://www.livemint.com/technology/tech-news/iphone-18-pro-max-could-get-full-internet-access-straight-from-space-all-you-need-to-know-11761472850600.html
 
-- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday - 27 October 2025
-  Ganesh Dongre of Anand Rathi recommends three stocks to
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-27-october-2025-11761446273720.html
+- AI in healthcare: 8am CEO Dru Armstrong shares how ChatGPT helped decode complex cancer data
+  Dru Armstrong, CEO of 8am, shares how a Stage II breast cancer diagnosis led her to use ChatGPT for understanding complex medical data.
+  🔗 https://www.livemint.com/technology/tech-news/ai-in-healthcare-8am-ceo-dru-armstrong-shares-how-chatgpt-helped-decode-complex-cancer-data-sam-altman-openai-11761471715325.html
 
-- US Fed meet to Q2 results - Top five triggers for Indian stock market this week
-  Dalal Street next week: US Fed meeting, Q2 earnings FY26, US-China trade deal. US-India
-  🔗 https://www.livemint.com/market/stock-market-news/us-fed-meet-to-q2-results-top-five-triggers-for-indian-stock-market-this-week-11761443984414.html
+- Sam Altman's Neuralink rival could soon read your mind with sound waves
+  OpenAI CEO Sam Altman reportedly working on Merge Labs. Merge Labs aims to rival Neuralink with non
+  🔗 https://www.livemint.com/technology/tech-news/sam-altmans-neuralink-rival-could-soon-read-your-mind-with-sound-waves-elon-musk-openai-11761467865345.html
 
-- Apple’s Cosmic Orange iPhone 17 Pro Max is turning pink — here’s what could be causing the strange colour shift
-  iPhone 17 Pro and Pro Max Cosmic Orange models are reportedly turning pink. Experts link the issue to anodised aluminium reacting with chemicals like hydrogen peroxide.
-  🔗 https://www.livemint.com/technology/gadgets/from-orange-to-pink-iphone-17-pro-max-users-puzzled-as-apple-s-hero-colour-starts-to-change-11761446349916.html
+- Can ChatGPT create music? OpenAI might have the answer in the future - Here's how
+  OpenAI is reportedly developing an AI tool that can generate music from text and audio prompts. The project could involve Juilliard students and is expected to mark a new phase in AI-assisted music creation
+  🔗 https://www.livemint.com/technology/tech-news/can-chatgpt-create-music-openai-might-have-the-answer-in-the-future-heres-how-11761469055066.html
 
-- OnePlus 15 India launch date leaked: Snapdragon 8 Elite Gen 5 SoC, 165Hz display, and a 7300mAh battery tipped
-  The OnePlus 15 is expected to launch globally on 12 November, with the India debut likely a day later. Powered by the Snapdragon 8 Elite Gen 5 and Android 16-based OxygenOS 16, the smartphone may feature a 7,
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-15-india-launch-date-leaked-snapdragon-8-elite-gen-5-soc-165hz-display-and-a-7300mah-battery-tipped-11761441184628.html
+- Aravind Srinivas says Perplexity’s Comet has ‘a lot more work to do’ after Chrome wins close poll
+  Perplexity AI CEO Aravind Srinivas reacted to a close X poll on Oct 25, where Comet nearly matched Google Chrome in user votes. Calling it
+  🔗 https://www.livemint.com/technology/tech-news/aravind-srinivas-says-perplexity-s-comet-has-a-lot-more-work-to-do-after-chrome-wins-close-poll-11761462194450.html
 
-- From Studio smoke to golden hour: How to create stunning AI portraits with Google Gemini - 16 viral prompts
-  Google's Nano Banana tool turns selfies into cinematic, hyper-realistic portraits. From moody studio smoke to golden hour sunlight, create professional-quality images.
-  🔗 https://www.livemint.com/technology/tech-news/from-studio-smoke-to-golden-hour-how-to-create-stunning-ai-portraits-with-google-gemini-16-viral-prompts-11761377833535.html
+- Q2 earnings, US Fed interest rate decision key drivers for stock markets this week: Analysts - Upstox
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZlRnWUhESnhwOE1QNzN6ZWhYWWZ5dFFTd29FR1EySmkwQk5mSXJhMERpUFhlbjNVRVlKR21NZDJhZXhLWlM3R01aY2JtSVd4SV9wQ2UyOXRXRVhvTTBmS0JEZW9hSWpfcE
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZlRnWUhESnhwOE1QNzN6ZWhYWWZ5dFFTd29FR1EySmkwQk5mSXJhMERpUFhlbjNVRVlKR21NZDJhZXhLWlM3R01aY2JtSVd4SV9wQ2UyOXRXRVhvTTBmS0JEZW9hSWpfcEN2MTYtdzZCcWstQzhGV29LanFPSlNhak82M3F1Y1Z6Qm9BSDJrRndhR3hSZ1JGcVdyTGU5WXpmaXh3clhDWnRjVlJHWTRZQVRUZGFESUNxTGhEcU9CODJ2bTV6cDlTQk5QMTUtXzJ2RkpxTEduWE4wYXdWQkk5blRId2tMRjdRa1JIb2VB?oc=5
 
-- MapmyIndia urges Perplexity to collaborate after Aravind Srinivas’s ‘Maps are the hardest’ tweet goes viral
-  Indian mapping firm MapmyIndia invited Perplexity AI to collaborate in an X post on Friday. CEO Aravind Srinivas called maps ‘the hardest
-  🔗 https://www.livemint.com/technology/tech-news/mapmyindia-urges-perplexity-to-collaborate-after-aravind-srinivas-s-maps-are-the-hardest-tweet-goes-viral-11761375968601.html
+- Dow rallies 400 points for first close above 47,000 ever following mild inflation report: Live updates - CNBC
+  Dow rallies 400 points for first close above 47,000 ever following
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5oMFNjbkVLYjF2ejVfRzRRWkJuQUhSVDhpWEU5cXdYNDI3Vm5JOGFIRURuQ3dCeG9OWnpES01IdlB2bHRoRmJtc3liX0s2bGFkNUFwQTRPV29rRFp1dVZrMVdLYWx4YWxZekNRSmh3Q1VwcEcxd3d30gF8QVVfeXFMUDlmNG40TUNzWHI2NklXVzBtX2drZkwxazdUX3RnX3EzOFJJMXpNOWoyN2hTX3BpZl9weU1kand5ZTIzcEk2M3VMWGNkeDNKLUMxT1l2S2lGenpYeDZiQ2ZXSlJyQ05BRnYydjVwVExmSU5wOXQ2WnZyQmtrQQ?oc=5
 
-- Nothing OS 4.0 Beta introduces pre-installed apps to Phone (3a) series: Co-founder Akis Evangelidis explains the update
-  Carl Pei-led Nothing has rolled out the Open Beta of Nothing OS 4.0. Lock Glimpse, dynamic lock screen wallpapers, and curated third-party apps are new.
-  🔗 https://www.livemint.com/technology/tech-news/nothing-os-4-0-beta-introduces-pre-installed-apps-to-phone-3a-series-co-founder-akis-evangelidis-explains-the-update-11761363241994.html
+- Markets News, Oct. 24, 2025: Stocks Close at Record Highs After Tame CPI Inflation Reading; Dow Ends Above 47000 for First Time - Investopedia
+  Markets News, Oct. 24, 2025: Stocks Close at Record Highs After Tame
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE44eWkzMW5MN1Y4TUR0REFUZkdtdVU4Y0hfeWZRandZLThydGtWdW5nLUJ5WDFvOE5DTlJpZ1dqS2JFUlZIb0dMRlhYSllPUEQxUFZUb2N5WkJ4ZVRTeFVKLU1zaDdhdVVxSEdxX2VQSQ?oc=5
 
-- Vedanta Resources raises $500 mn via bond issuance; to use proceeds to repay near-term obligations
-  Anil Agarwal-led Vedanta Resources Ltd raised 500 million dollars through bonds in October
-  🔗 https://economictimes.indiatimes.com/markets/bonds/vedanta-resources-raises-500-mn-via-bond-issuance-to-use-proceeds-to-repay-near-term-obligations/articleshow/124822902.cms
+- Stocks Hit Highs as CPI Gives Fed All-Clear to Cut: Markets Wrap - Bloomberg.com
+  Stocks Hit Highs as CPI Gives Fed
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTlCckc0b0Q5QjV4MHFtakFhNm1jOGo1X2h1WjJzSkx1QkEwYy1wdUZ4R1gzTEZHYlZuRWxWdUx0d0RpR2RBczRqXzlOTGQ1cG9vSXVyd3hQSks5aWlnZEJ6d0l4dlRFbjNoYzlIMDE1U19kQXlmVVI5QXpVRHBXa0pIMUNrZ2I2aXU2bkhYc0JCcUl3?oc=5
 
-- Rekha Jhunjhunwala buys 15 lakh shares in this multibagger Tata stock in Q2
-  Rekha Jhunjhunwala increased her Titan stake by 15 lakh shares, raising total ownership to 5.3%. Titan’s Q2 saw broad growth: domestic business up 18%, international up
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rekha-jhunjhunwala-buys-15-lakh-shares-in-this-multibagger-tata-stock-in-q2/articleshow/124822816.cms
+- Fact check: Has Germany canceled Christmas markets in 2025? - Times of India
+  The Times of India reports that Christmas markets
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQTmxDYklab0IxWDFMaGM1RzgwcDRuU0JxdWpkbHZhbk5YMWJKTy1VR3VzSlEtcFo0UUsyWENnRGdJRVc5YTc2MHd3LURqM0s5QVhZa1ZVOEZTOW5HeVluTi11MlRpWms0Z0htWjlheXRrVDV2WXFPa3BKQS1Ya3BZQ2ZxbU5FVGVKRFNyZDZxSFZhTWJodXJlaVVFcU9VT05tMjBHdFRnUTZSTHNrNzlqR1Fib0pvQ21GUGdTYXdQNWpsS1BxLUgwQV9ZQWLSAdIBQVVfeXFMT29CUTNKOEJjbnBTbTh3Y21Oamxocm1uYU1hcmdKNTAzQUNxVkMzb2l0YS1zWmlDalFtV3dlRFNNTzJxZTJkeWhyc3hRTTRUUDFQenVpZmo2alBYaDlEZHlLQ2FIbG5CNWpJejZhZkExV0t4ZFBtWEtWTjNPakFXSFFYeHhlUGNxbmR5Q0JJaEJaVTVOQTVoYkd5RmZ3d2VLYU5fM05uVlVCdjYwVWkzV2J2ZnpFU0M0LUV5djV4cnI1SFlkOGliOUF4U0RiTGdmWjBB?oc=5
 
-- Tiny multibaggers! 11 penny stocks soar up to 215% in just 3 months. Are you holding any?
-  11 penny stocks delivered gains of 30% to 215%, with three becoming multibaggers. While offering high returns, they carry significant risk, requiring discipline, research, and risk management.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tiny-multibaggers-11-penny-stocks-soar-up-to-215-in-just-3-months-are-you-holding-any/slideshow/124822762.cms
+- Did Radhakishan Damani dump Trent? Inside the retail king’s mysterious exit from Tata’s hottest stock
+  Radhakishan Damani appears to have exited his decade-old stake in Tata Group’s retail arm, Trent. His holding, once 2.74% in 2010, has fallen below 1% in the September 2025 quarter
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/did-radhakishan-damani-dump-trent-inside-the-retail-kings-mysterious-exit-from-tatas-hottest-stock/articleshow/124826693.cms
 
-- The valuation email that defined Zomato's IPO: Why Sanjeev Bikhchandani's warning to Deepinder Goyal still echoes
-   Info Edge founder Sanjeev Bikhchandani advised pricing for balance. His framework emphasised conservative pricing, avoiding excessive first-day pops.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/the-valuation-email-that-defined-zomatos-ipo-why-sanjeev-bikhchandanis-warning-to-deepinder-goyal-still-echoes/articleshow/124822359.cms
+- BEL, Solar Industries, PTC to see upside up to 46%, Goldman Sachs says amid Rs 790 billion defence push
+  Goldman Sachs turned bullish on India’s defence sector after DAC cleared Rs 790 billion in new projects. The brokerage sees up to 46% upside, citing strong order visibility and expanding opportunities in naval and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bel-solar-industries-ptc-to-see-upside-up-to-46-goldman-sachs-says-amid-rs-790-billion-defence-push/articleshow/124826115.cms
 
-- Market Trading Guide: Buy Cholamandalam Investment and CreditAccess on Monday for up to 10% potential gains
-  Nifty closed lower on Friday amid sectoral selling pressure. Analysts expect short-term volatility but potential for a sustained rally. Cholamandalam Investment and CreditAccess Grameen are recommended for Monday
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-cholamandalam-investment-and-creditaccess-on-monday-for-up-to-10-potential-gains/articleshow/124822267.cms
+- Ahead of Market: 10 things that will decide D-Street action on Monday
+  Indian markets saw mixed activity on Friday, with over 155 stocks hitting 52-week highs. Notable gainers included SCI, Hindalco, and Cummins India. Overall sentiment was bearish, with 2,323 of 4
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/124825901.cms
 
-- Pak has nothing to gain by needling India: Ex-CIA man - The Times of India
-  Pak has nothing to gain by needling India: Ex
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPaXcta1lKODl3T1dBOEpRWFJmXzlxZXVPMG1UbXNsTVM3M2ZtbC1neUZLZDVvNHVZZjNkMVBDZTNSc1NSQ1RkX01KVXFUdThFS0dRUkpFYThXVnd5Q3Z1dGpyUC0ta3BWaUJtUFZxQkE3OVNTdmVQQVpZOFAzWU95YlBIX0d5Q2Y2cWwxRnAtQWNCU0lkb2s5UDd3NHhsQ3phSERhWWppQUxJWFdLeFRUMDZrVUtNTjljM21OQzVDOW5VM1RQLUgzRVVmRVnSAdIBQVVfeXFMUEQ3cnB0MC1DbVBOLWE0a2ZpNG9JU204aVc4VUhJdXQ5bEpTZGJXWm9MQUtBVEY2Y1F0Yi13Q2FtM2dKeURnT0tkbHJxeVBVMlZSOXA4LUhsNGRIUFRGdmZKY3lfWlItN0ZraUgzcjVnaFZQdjZoNXUzaTA4NWlzZmtPelBKV1gzWmlvaS1rS2F2WWVzU1lCLWhfaUJoV25DUzBaR2NZNGZOeHhrTWFVY1lUWV9qUFZFQU9LV0FmRlNpOEQ0RjRTWF9jMmNCdXhRQ1Rn?oc=5
+- NPS 2.0: India’s most underrated wealth engine just got turbocharged
+  The National Pension System (NPS) is undergoing a silent revolution. Over 9 crore Indians are already part of the system, which offers tax benefits, low costs, and long-term wealth-building potential.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nps-2-0-indias-most-underrated-wealth-engine-just-got-turbocharged/articleshow/124825700.cms
+
+- Q2 results this week: Swiggy, Adani Green, ITC, L&amp;T among 300-plus firms set to declare September earnings, Maruti Q2
+  Over 300 companies, including major names like Adani, ITC, Larsen &amp; Toubro, and Swiggy, are set to announce Q2 FY26 results this week. Earnings from sectors spanning energy, banking
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/q2-results-this-week-swiggy-adani-green-itc-lt-among-300-plus-firms-set-to-declare-september-earnings-maruti-q2/articleshow/124825632.cms
+
+- India to hold major tri-service exercise on western frontier - Times of India
+  India to hold major tri-service exercise on
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTI0ZUtEUHpyUFE5NnlsV1RqVVFqLXlmWFVsMktWRUZJck50U19zVzhkSW1UTmw3RFd1R0FUZlc5YV8tZ2VfeFBRRlp6LUpMRzdISjdDTnFvTWVVZnZGYUJHb1FNNmdhSml4WllQcm9GYnZQQ1h1VlhOeEtBQ1I0ZkljZXZnT1FuYS1fUFo5Si1SMW4xeENBc0IyVFlfaC16UVdQdndNZXFlcUlvcDd6SEFRREEybmRpREF1X0NfUjM2TjlZNThN0gHMAUFVX3lxTE5UeW9rYW9NbktpamEybmtKWl94dU5nZXc2R3lKYXVtT0JKVHF3MGx6WTJ3QjJZcE9ZVXl5Uk8yUlhKN2VXVExHSllUaVFzS1hJTHhFc0loelNSNXpld0dBZV82ZVJXejRzYW1WTENJOG5QR1BjTkIwZWQtTW5DSkVEX1F1NW9jc2J3eXNRdDFZMEJzUGdRMEREVzlXYkw1cmF6aFFfamg2c0JMNkJIdUtGbWZBenl6UEgzdnRLMkZsQXFMTG85c3hKbjl0Mw?oc=5
 
 - 'No Benefit In Fighting India': Ex-CIA Officer Who Led Pak Operations - NDTV
   'No Benefit In Fighting India': Ex-
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzNlWldUbHdueWczMnlrNHRqVkVQWFJEaFA2eGU5bXpiVEM4cFZmU0pBMXdxcmpydEVCVFNPS2paQUkwTG1va2VXQVRQTVc2MzBJVU5nX0txZ25PaDhGLXhhcXBEQlk5MHZjVS1tbjh2SzREWlJNb3k4UnBUVTZYYjhBQUZ3Rnh5cTVQV3VYN0xXQ1RlZFFaa3N0TXEtUFJwR3dUTjljTEN6ZG5sSW9PVTJzOWRnRDJLc2hCSE1TOUXSAcgBQVVfeXFMT2ZPZTduLXV5SWdUYTY2YTlwWk1fRHB4TDUtcWw0M21IR1BleHFsTFRrYzFsbS1rcHp4bDVZNnd0SWhXaHROREE2RkRVRm9SR1N2bzBTaW1MM3FXZXhPRjBfNk11NkYzS1BOUVhfZXl1WENKb3hfR29qSWdTNlVheWVkbTl6SlVnQ2RRZG1qNk91T2VZNG1KTUVPVGNzZnJLOXNkVUw4Zm5VdnY0aDNRelQ1Qi1BZWdVZndCNWM4Qzg2bGYzR3cyemc?oc=5
 
-- ‘Pakistan will lose any conventional war with India’: Former CIA officer John Kiriakou | Latest News India - Hindustan Times
-  ‘Pakistan will lose any conventional war with India’: Former CIA officer
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUVZJSFRSNXgzZnI3bXoydlNiVEdaR0JId05hRFZBYkFNZEQzcVlZdmhYOU40RXlvbldRMjZHU3J2TWdNaUc3QlNPU3FkdlpLQUo3R1lxb0xWVWFYcDQ4b1AySkhmUy1pekh3LTB3MXJTSmZWMEExcEIzOVdlSTlDVkVmS2dfNFg0ZzQ4VkhwbjAySXVYSjd0ZEx3Z2tFdUNhSUg2LWQ5S0RUVWwtTEZJckVDeGpNeDlRdU9SMWNnamJZOFl3b00wUUIzek52bktTZ19RYzB0TkVzdFZjajhN0gHkAUFVX3lxTE1ZTWFhQjNSU21jLTY4bUNRdnEzVTdtUm9FQW5MOWpjeC1mZ3NRX2M0dmdaQ25Pbkk1akw4TEp2UDNaZDRocnR4dzB6c2J6Rm03S3BheTFjSUxfbVhTUll6Q3VhdW9lNmtZejR0ejVOYmY0cU1mbWJDTV9NYzVMaUNRaC1YNGE4MndVRXl1cF9tdWtzLTZCTFNYcTdYNG9lQldoY0lOT2lmQ3FqeExrUnZuUUpCaV8zV2tkUjZPLUw5bFZJYTA3SXA1eXBTWWJxcHlWQmVmUWQwQTB5SnFCeVFOQ3J4Qg?oc=5
+- Company registrations jump 108% in September - financialexpress.com
+  Company registrations jump 108
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWZjM29sWV9PQU5XV3F6OVg3c0VsQ2FCTjlQM250aHMxa0ZmMlUtUm8wQVpnQmVjZXF1Nl92X0t1cjg5b0JTMUpUZWdBaHc0QkF6WjZmalZQQ292VExxbURHUW9kdXYyRGZ5RXM5T2ZjWGJjejJXRDI2blhGVGxqZ09EMkVFbC05bHdQNzhaN2o4WHowRVU3VmdTdnNNaG1DOXNSS2pR0gGsAUFVX3lxTE93SnRTb1lTSTNnSWFsNm1JdUxYUnoyblJUR2NJSmhxVFEyWjQ2RzJMZDhhX0dLYWNtZ1dkTnJlaVB0SWFkeTBQd0dablJoYVoyeDNLUkp6eGJvTzIxeU5oRENzNU9OLWxaX1RIMXZ1UzFPSzJRazhZWWJXcDFrUUd1dFp0YWlsX1E4eXFXMnBhZ1NmaTFqZXpTOGtVTWxvTFZrVEVxX3N1RVhLdEs?oc=5
 
-- India to hold major tri-service exercise on western frontier - The Times of India
-  India to hold major tri-service exercise on western
+- Ahead Of Polls, Bihar Buzzes Over Rahul Gandhi's Long Absence - NDTV
+  Ahead Of Polls, Bihar Buzz
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVBSVmxrX3gxZHZVSUFNQUl1SDlaUXVSZlUzX1NDUjBBNG1USW9md2EtUGRXdDVlSFgteEs5SlJzakJ0ZlZoXzNibnMzeEI2dmMtSHVNTjk3ME40VlpUeFNFV20tLVRrTGViZVVYT25McTZIZ0hHaXRzemJzUUdJZkszM0RXQXJ2cFVWU1kwR3dUU2JSQUZDWGxjUV9xRnotUVN4Nk45aU5xQkhQbC1hclotaURDa0gxVmpPTWYyVkJUSUZwOXAw0gHPAUFVX3lxTE9HMkQzT3R2QW4tR2t3WWhrM29MdTdkUzQyVDBoNTBhZlR0SllGd1dDSS1Sczk0UVNFS3RXQW83cjB4QVA2U1R0RU5IYnRiTDdCU2F0SDhtand6djlXQzg0TFNWSGJwYjFmUHRnVmpkeTJ1VHNZTTFWUU1CcGtRcF9lRXlnTU1wNnluUlF1ZFpTbW5xTVB0VWFscFBWLTVzazNyZTZGRHRZbVZxeUZBdlJRRzN0LTNfdDNGTE44QXlTZkgwUlA0RzlRQk1kWVBTRQ?oc=5
+
+- An ‘Ayodhya Nagri’ outside India: This ‘Ramayana’ country is planning to build a grand Ram Mandir - financialexpress.com
+  An ‘Ayodhya Nagri’ outside India: This
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSXdVZWFDWl9Oa190cVpmaDJvd243RElaUUhBXzFKZnVkU0prZVlvWjNJV05WN3VzaWV4YVVxRC1YcEQtb3VpQ1ZPSnZGSm9ZbzdMOHFMSTJURGFCSXZJVGxNTkMtcnFneG0xMV8yQmxMTHBDSU1SX0JRMTluTGNGMVhCVWhsWnp3ekIya0Rvb1V6b3NqTW1PUU9hRHRIcmtUdUxHYkc4UmlKbTdGZFdTOE9WVWswZjl6SU9SbVdsQzc1ZGM0dnZTNk03TTlPYmFpY2gwMUFidllSVElVdnfSAeQBQVVfeXFMTTZ4c2FMOTFhYUF6N1dzWmNldkhzc1lBdlMzbVZpamE0R2RyX05yYV9jLXVhckF1blV1aV9IVkxaR1F4WVA0bmFGcXJmRjk0Um1kbi1OTmVIS2lMczJKZzNGUjEzaHlITUQtWjZBS2o2di16Sk4wai1XZEcwR0wzdk9JUW9ka3dUdTZXTGxRV18yMTQxa29obkVjeUg3M3lWSnhaY0VtM1ZpWk9ycjQ2aTZVTTFFWkpFelBKU19UY2VNU3lURlpRVU9vY004LXFQM1N0b1RQT29uVzZGUDN3M20wWGtw?oc=5
+
+- India to hold major tri-service exercise on western frontier - Times of India
+  India to hold major tri-service exercise on
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTI0ZUtEUHpyUFE5NnlsV1RqVVFqLXlmWFVsMktWRUZJck50U19zVzhkSW1UTmw3RFd1R0FUZlc5YV8tZ2VfeFBRRlp6LUpMRzdISjdDTnFvTWVVZnZGYUJHb1FNNmdhSml4WllQcm9GYnZQQ1h1VlhOeEtBQ1I0ZkljZXZnT1FuYS1fUFo5Si1SMW4xeENBc0IyVFlfaC16UVdQdndNZXFlcUlvcDd6SEFRREEybmRpREF1X0NfUjM2TjlZNThN0gHMAUFVX3lxTE5UeW9rYW9NbktpamEybmtKWl94dU5nZXc2R3lKYXVtT0JKVHF3MGx6WTJ3QjJZcE9ZVXl5Uk8yUlhKN2VXVExHSllUaVFzS1hJTHhFc0loelNSNXpld0dBZV82ZVJXejRzYW1WTENJOG5QR1BjTkIwZWQtTW5DSkVEX1F1NW9jc2J3eXNRdDFZMEJzUGdRMEREVzlXYkw1cmF6aFFfamg2c0JMNkJIdUtGbWZBenl6UEgzdnRLMkZsQXFMTG85c3hKbjl0Mw?oc=5
-
-- 'Severe cyclone' headed to India's east coast: Where 'Montha' will make landfall, and when | Latest News India - Hindustan Times
-  'Severe cyclone' headed to India's east coast: Where 'Montha
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVml4ZS1HdEJMcjhvd3hfSzdkTWxDOW9HUE5mb1owb09vNDB5REMwamF1bHFGdHh0OTZ2RG1WMlNSU05lVmRjYmdfWWE0YVJqNGRSdXZLTll5a2lKSXJvYmlsUDhPQVRmWjFSVDVRSHFTc2lfVUtnUDRSTXVMMnVfRENOSXIxVHZwS1FFd0x0WkZEdjhiZEtFZUxpSTlpQ05FSEJOYTZrenNrOVg2WjUzVW9meW0tM25oLVZrZkdjWWNGdFVMZktRaUdHTzJGbFNx0gHWAUFVX3lxTE5adnlKaXNJQkdCaVQ0c1d4LWhiWldVUDZ1R3FrT3FFUW1YUTJ0ZW1hOVpaZ3d6VlUydEx2a3NsMmJHcGZ3RXhSSEZQN3NvTk9rYmhqdGUtMVZiWnh0R3VwS3ZETWJlelpwU1I2eVEyWVJYa3dfdXpfY3Znc002Ty1DUUUzUm1nZzBrdDNBSUppcHYta3JfZlVibS1pRHFlbTViNjVUc2hlYkUzNFRMbWNyVmNZSUtyS3BBVkprbWFqTUJodGpYOHBCcmhRM1ZyYnV0WmItV2c?oc=5
-
-- Pak has nothing to gain by needling India: Ex-CIA man - The Times of India
-  Pak has nothing to gain by needling India: Ex
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPaXcta1lKODl3T1dBOEpRWFJmXzlxZXVPMG1UbXNsTVM3M2ZtbC1neUZLZDVvNHVZZjNkMVBDZTNSc1NSQ1RkX01KVXFUdThFS0dRUkpFYThXVnd5Q3Z1dGpyUC0ta3BWaUJtUFZxQkE3OVNTdmVQQVpZOFAzWU95YlBIX0d5Q2Y2cWwxRnAtQWNCU0lkb2s5UDd3NHhsQ3phSERhWWppQUxJWFdLeFRUMDZrVUtNTjljM21OQzVDOW5VM1RQLUgzRVVmRVnSAdIBQVVfeXFMUEQ3cnB0MC1DbVBOLWE0a2ZpNG9JU204aVc4VUhJdXQ5bEpTZGJXWm9MQUtBVEY2Y1F0Yi13Q2FtM2dKeURnT0tkbHJxeVBVMlZSOXA4LUhsNGRIUFRGdmZKY3lfWlItN0ZraUgzcjVnaFZQdjZoNXUzaTA4NWlzZmtPelBKV1gzWmlvaS1rS2F2WWVzU1lCLWhfaUJoV25DUzBaR2NZNGZOeHhrTWFVY1lUWV9qUFZFQU9LV0FmRlNpOEQ0RjRTWF9jMmNCdXhRQ1Rn?oc=5
 
 - 'No Benefit In Fighting India': Ex-CIA Officer Who Led Pak Operations - NDTV
   'No Benefit In Fighting India': Ex-
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzNlWldUbHdueWczMnlrNHRqVkVQWFJEaFA2eGU5bXpiVEM4cFZmU0pBMXdxcmpydEVCVFNPS2paQUkwTG1va2VXQVRQTVc2MzBJVU5nX0txZ25PaDhGLXhhcXBEQlk5MHZjVS1tbjh2SzREWlJNb3k4UnBUVTZYYjhBQUZ3Rnh5cTVQV3VYN0xXQ1RlZFFaa3N0TXEtUFJwR3dUTjljTEN6ZG5sSW9PVTJzOWRnRDJLc2hCSE1TOUXSAcgBQVVfeXFMT2ZPZTduLXV5SWdUYTY2YTlwWk1fRHB4TDUtcWw0M21IR1BleHFsTFRrYzFsbS1rcHp4bDVZNnd0SWhXaHROREE2RkRVRm9SR1N2bzBTaW1MM3FXZXhPRjBfNk11NkYzS1BOUVhfZXl1WENKb3hfR29qSWdTNlVheWVkbTl6SlVnQ2RRZG1qNk91T2VZNG1KTUVPVGNzZnJLOXNkVUw4Zm5VdnY0aDNRelQ1Qi1BZWdVZndCNWM4Qzg2bGYzR3cyemc?oc=5
 
-- ‘Pakistan will lose any conventional war with India’: Former CIA officer John Kiriakou | Latest News India - Hindustan Times
-  ‘Pakistan will lose any conventional war with India’: Former CIA officer
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUVZJSFRSNXgzZnI3bXoydlNiVEdaR0JId05hRFZBYkFNZEQzcVlZdmhYOU40RXlvbldRMjZHU3J2TWdNaUc3QlNPU3FkdlpLQUo3R1lxb0xWVWFYcDQ4b1AySkhmUy1pekh3LTB3MXJTSmZWMEExcEIzOVdlSTlDVkVmS2dfNFg0ZzQ4VkhwbjAySXVYSjd0ZEx3Z2tFdUNhSUg2LWQ5S0RUVWwtTEZJckVDeGpNeDlRdU9SMWNnamJZOFl3b00wUUIzek52bktTZ19RYzB0TkVzdFZjajhN0gHkAUFVX3lxTE1ZTWFhQjNSU21jLTY4bUNRdnEzVTdtUm9FQW5MOWpjeC1mZ3NRX2M0dmdaQ25Pbkk1akw4TEp2UDNaZDRocnR4dzB6c2J6Rm03S3BheTFjSUxfbVhTUll6Q3VhdW9lNmtZejR0ejVOYmY0cU1mbWJDTV9NYzVMaUNRaC1YNGE4MndVRXl1cF9tdWtzLTZCTFNYcTdYNG9lQldoY0lOT2lmQ3FqeExrUnZuUUpCaV8zV2tkUjZPLUw5bFZJYTA3SXA1eXBTWWJxcHlWQmVmUWQwQTB5SnFCeVFOQ3J4Qg?oc=5
+- Company registrations jump 108% in September - financialexpress.com
+  Company registrations jump 108
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWZjM29sWV9PQU5XV3F6OVg3c0VsQ2FCTjlQM250aHMxa0ZmMlUtUm8wQVpnQmVjZXF1Nl92X0t1cjg5b0JTMUpUZWdBaHc0QkF6WjZmalZQQ292VExxbURHUW9kdXYyRGZ5RXM5T2ZjWGJjejJXRDI2blhGVGxqZ09EMkVFbC05bHdQNzhaN2o4WHowRVU3VmdTdnNNaG1DOXNSS2pR0gGsAUFVX3lxTE93SnRTb1lTSTNnSWFsNm1JdUxYUnoyblJUR2NJSmhxVFEyWjQ2RzJMZDhhX0dLYWNtZ1dkTnJlaVB0SWFkeTBQd0dablJoYVoyeDNLUkp6eGJvTzIxeU5oRENzNU9OLWxaX1RIMXZ1UzFPSzJRazhZWWJXcDFrUUd1dFp0YWlsX1E4eXFXMnBhZ1NmaTFqZXpTOGtVTWxvTFZrVEVxX3N1RVhLdEs?oc=5
 
-- India to hold major tri-service exercise on western frontier - The Times of India
-  India to hold major tri-service exercise on western
+- Ahead Of Polls, Bihar Buzzes Over Rahul Gandhi's Long Absence - NDTV
+  Ahead Of Polls, Bihar Buzz
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVBSVmxrX3gxZHZVSUFNQUl1SDlaUXVSZlUzX1NDUjBBNG1USW9md2EtUGRXdDVlSFgteEs5SlJzakJ0ZlZoXzNibnMzeEI2dmMtSHVNTjk3ME40VlpUeFNFV20tLVRrTGViZVVYT25McTZIZ0hHaXRzemJzUUdJZkszM0RXQXJ2cFVWU1kwR3dUU2JSQUZDWGxjUV9xRnotUVN4Nk45aU5xQkhQbC1hclotaURDa0gxVmpPTWYyVkJUSUZwOXAw0gHPAUFVX3lxTE9HMkQzT3R2QW4tR2t3WWhrM29MdTdkUzQyVDBoNTBhZlR0SllGd1dDSS1Sczk0UVNFS3RXQW83cjB4QVA2U1R0RU5IYnRiTDdCU2F0SDhtand6djlXQzg0TFNWSGJwYjFmUHRnVmpkeTJ1VHNZTTFWUU1CcGtRcF9lRXlnTU1wNnluUlF1ZFpTbW5xTVB0VWFscFBWLTVzazNyZTZGRHRZbVZxeUZBdlJRRzN0LTNfdDNGTE44QXlTZkgwUlA0RzlRQk1kWVBTRQ?oc=5
+
+- An ‘Ayodhya Nagri’ outside India: This ‘Ramayana’ country is planning to build a grand Ram Mandir - financialexpress.com
+  An ‘Ayodhya Nagri’ outside India: This
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSXdVZWFDWl9Oa190cVpmaDJvd243RElaUUhBXzFKZnVkU0prZVlvWjNJV05WN3VzaWV4YVVxRC1YcEQtb3VpQ1ZPSnZGSm9ZbzdMOHFMSTJURGFCSXZJVGxNTkMtcnFneG0xMV8yQmxMTHBDSU1SX0JRMTluTGNGMVhCVWhsWnp3ekIya0Rvb1V6b3NqTW1PUU9hRHRIcmtUdUxHYkc4UmlKbTdGZFdTOE9WVWswZjl6SU9SbVdsQzc1ZGM0dnZTNk03TTlPYmFpY2gwMUFidllSVElVdnfSAeQBQVVfeXFMTTZ4c2FMOTFhYUF6N1dzWmNldkhzc1lBdlMzbVZpamE0R2RyX05yYV9jLXVhckF1blV1aV9IVkxaR1F4WVA0bmFGcXJmRjk0Um1kbi1OTmVIS2lMczJKZzNGUjEzaHlITUQtWjZBS2o2di16Sk4wai1XZEcwR0wzdk9JUW9ka3dUdTZXTGxRV18yMTQxa29obkVjeUg3M3lWSnhaY0VtM1ZpWk9ycjQ2aTZVTTFFWkpFelBKU19UY2VNU3lURlpRVU9vY004LXFQM1N0b1RQT29uVzZGUDN3M20wWGtw?oc=5
+
+- India to hold major tri-service exercise on western frontier - Times of India
+  India to hold major tri-service exercise on
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTI0ZUtEUHpyUFE5NnlsV1RqVVFqLXlmWFVsMktWRUZJck50U19zVzhkSW1UTmw3RFd1R0FUZlc5YV8tZ2VfeFBRRlp6LUpMRzdISjdDTnFvTWVVZnZGYUJHb1FNNmdhSml4WllQcm9GYnZQQ1h1VlhOeEtBQ1I0ZkljZXZnT1FuYS1fUFo5Si1SMW4xeENBc0IyVFlfaC16UVdQdndNZXFlcUlvcDd6SEFRREEybmRpREF1X0NfUjM2TjlZNThN0gHMAUFVX3lxTE5UeW9rYW9NbktpamEybmtKWl94dU5nZXc2R3lKYXVtT0JKVHF3MGx6WTJ3QjJZcE9ZVXl5Uk8yUlhKN2VXVExHSllUaVFzS1hJTHhFc0loelNSNXpld0dBZV82ZVJXejRzYW1WTENJOG5QR1BjTkIwZWQtTW5DSkVEX1F1NW9jc2J3eXNRdDFZMEJzUGdRMEREVzlXYkw1cmF6aFFfamg2c0JMNkJIdUtGbWZBenl6UEgzdnRLMkZsQXFMTG85c3hKbjl0Mw?oc=5
-
-- 'Severe cyclone' headed to India's east coast: Where 'Montha' will make landfall, and when | Latest News India - Hindustan Times
-  'Severe cyclone' headed to India's east coast: Where 'Montha
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVml4ZS1HdEJMcjhvd3hfSzdkTWxDOW9HUE5mb1owb09vNDB5REMwamF1bHFGdHh0OTZ2RG1WMlNSU05lVmRjYmdfWWE0YVJqNGRSdXZLTll5a2lKSXJvYmlsUDhPQVRmWjFSVDVRSHFTc2lfVUtnUDRSTXVMMnVfRENOSXIxVHZwS1FFd0x0WkZEdjhiZEtFZUxpSTlpQ05FSEJOYTZrenNrOVg2WjUzVW9meW0tM25oLVZrZkdjWWNGdFVMZktRaUdHTzJGbFNx0gHWAUFVX3lxTE5adnlKaXNJQkdCaVQ0c1d4LWhiWldVUDZ1R3FrT3FFUW1YUTJ0ZW1hOVpaZ3d6VlUydEx2a3NsMmJHcGZ3RXhSSEZQN3NvTk9rYmhqdGUtMVZiWnh0R3VwS3ZETWJlelpwU1I2eVEyWVJYa3dfdXpfY3Znc002Ty1DUUUzUm1nZzBrdDNBSUppcHYta3JfZlVibS1pRHFlbTViNjVUc2hlYkUzNFRMbWNyVmNZSUtyS3BBVkprbWFqTUJodGpYOHBCcmhRM1ZyYnV0WmItV2c?oc=5
-
-- Pak has nothing to gain by needling India: Ex-CIA man - The Times of India
-  Pak has nothing to gain by needling India: Ex
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPaXcta1lKODl3T1dBOEpRWFJmXzlxZXVPMG1UbXNsTVM3M2ZtbC1neUZLZDVvNHVZZjNkMVBDZTNSc1NSQ1RkX01KVXFUdThFS0dRUkpFYThXVnd5Q3Z1dGpyUC0ta3BWaUJtUFZxQkE3OVNTdmVQQVpZOFAzWU95YlBIX0d5Q2Y2cWwxRnAtQWNCU0lkb2s5UDd3NHhsQ3phSERhWWppQUxJWFdLeFRUMDZrVUtNTjljM21OQzVDOW5VM1RQLUgzRVVmRVnSAdIBQVVfeXFMUEQ3cnB0MC1DbVBOLWE0a2ZpNG9JU204aVc4VUhJdXQ5bEpTZGJXWm9MQUtBVEY2Y1F0Yi13Q2FtM2dKeURnT0tkbHJxeVBVMlZSOXA4LUhsNGRIUFRGdmZKY3lfWlItN0ZraUgzcjVnaFZQdjZoNXUzaTA4NWlzZmtPelBKV1gzWmlvaS1rS2F2WWVzU1lCLWhfaUJoV25DUzBaR2NZNGZOeHhrTWFVY1lUWV9qUFZFQU9LV0FmRlNpOEQ0RjRTWF9jMmNCdXhRQ1Rn?oc=5
 
 - 'No Benefit In Fighting India': Ex-CIA Officer Who Led Pak Operations - NDTV
   'No Benefit In Fighting India': Ex-
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzNlWldUbHdueWczMnlrNHRqVkVQWFJEaFA2eGU5bXpiVEM4cFZmU0pBMXdxcmpydEVCVFNPS2paQUkwTG1va2VXQVRQTVc2MzBJVU5nX0txZ25PaDhGLXhhcXBEQlk5MHZjVS1tbjh2SzREWlJNb3k4UnBUVTZYYjhBQUZ3Rnh5cTVQV3VYN0xXQ1RlZFFaa3N0TXEtUFJwR3dUTjljTEN6ZG5sSW9PVTJzOWRnRDJLc2hCSE1TOUXSAcgBQVVfeXFMT2ZPZTduLXV5SWdUYTY2YTlwWk1fRHB4TDUtcWw0M21IR1BleHFsTFRrYzFsbS1rcHp4bDVZNnd0SWhXaHROREE2RkRVRm9SR1N2bzBTaW1MM3FXZXhPRjBfNk11NkYzS1BOUVhfZXl1WENKb3hfR29qSWdTNlVheWVkbTl6SlVnQ2RRZG1qNk91T2VZNG1KTUVPVGNzZnJLOXNkVUw4Zm5VdnY0aDNRelQ1Qi1BZWdVZndCNWM4Qzg2bGYzR3cyemc?oc=5
 
-- ‘Pakistan will lose any conventional war with India’: Former CIA officer John Kiriakou | Latest News India - Hindustan Times
-  ‘Pakistan will lose any conventional war with India’: Former CIA officer
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUVZJSFRSNXgzZnI3bXoydlNiVEdaR0JId05hRFZBYkFNZEQzcVlZdmhYOU40RXlvbldRMjZHU3J2TWdNaUc3QlNPU3FkdlpLQUo3R1lxb0xWVWFYcDQ4b1AySkhmUy1pekh3LTB3MXJTSmZWMEExcEIzOVdlSTlDVkVmS2dfNFg0ZzQ4VkhwbjAySXVYSjd0ZEx3Z2tFdUNhSUg2LWQ5S0RUVWwtTEZJckVDeGpNeDlRdU9SMWNnamJZOFl3b00wUUIzek52bktTZ19RYzB0TkVzdFZjajhN0gHkAUFVX3lxTE1ZTWFhQjNSU21jLTY4bUNRdnEzVTdtUm9FQW5MOWpjeC1mZ3NRX2M0dmdaQ25Pbkk1akw4TEp2UDNaZDRocnR4dzB6c2J6Rm03S3BheTFjSUxfbVhTUll6Q3VhdW9lNmtZejR0ejVOYmY0cU1mbWJDTV9NYzVMaUNRaC1YNGE4MndVRXl1cF9tdWtzLTZCTFNYcTdYNG9lQldoY0lOT2lmQ3FqeExrUnZuUUpCaV8zV2tkUjZPLUw5bFZJYTA3SXA1eXBTWWJxcHlWQmVmUWQwQTB5SnFCeVFOQ3J4Qg?oc=5
+- Company registrations jump 108% in September - financialexpress.com
+  Company registrations jump 108
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWZjM29sWV9PQU5XV3F6OVg3c0VsQ2FCTjlQM250aHMxa0ZmMlUtUm8wQVpnQmVjZXF1Nl92X0t1cjg5b0JTMUpUZWdBaHc0QkF6WjZmalZQQ292VExxbURHUW9kdXYyRGZ5RXM5T2ZjWGJjejJXRDI2blhGVGxqZ09EMkVFbC05bHdQNzhaN2o4WHowRVU3VmdTdnNNaG1DOXNSS2pR0gGsAUFVX3lxTE93SnRTb1lTSTNnSWFsNm1JdUxYUnoyblJUR2NJSmhxVFEyWjQ2RzJMZDhhX0dLYWNtZ1dkTnJlaVB0SWFkeTBQd0dablJoYVoyeDNLUkp6eGJvTzIxeU5oRENzNU9OLWxaX1RIMXZ1UzFPSzJRazhZWWJXcDFrUUd1dFp0YWlsX1E4eXFXMnBhZ1NmaTFqZXpTOGtVTWxvTFZrVEVxX3N1RVhLdEs?oc=5
 
-- India to hold major tri-service exercise on western frontier - The Times of India
-  India to hold major tri-service exercise on western
+- Ahead Of Polls, Bihar Buzzes Over Rahul Gandhi's Long Absence - NDTV
+  Ahead Of Polls, Bihar Buzz
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVBSVmxrX3gxZHZVSUFNQUl1SDlaUXVSZlUzX1NDUjBBNG1USW9md2EtUGRXdDVlSFgteEs5SlJzakJ0ZlZoXzNibnMzeEI2dmMtSHVNTjk3ME40VlpUeFNFV20tLVRrTGViZVVYT25McTZIZ0hHaXRzemJzUUdJZkszM0RXQXJ2cFVWU1kwR3dUU2JSQUZDWGxjUV9xRnotUVN4Nk45aU5xQkhQbC1hclotaURDa0gxVmpPTWYyVkJUSUZwOXAw0gHPAUFVX3lxTE9HMkQzT3R2QW4tR2t3WWhrM29MdTdkUzQyVDBoNTBhZlR0SllGd1dDSS1Sczk0UVNFS3RXQW83cjB4QVA2U1R0RU5IYnRiTDdCU2F0SDhtand6djlXQzg0TFNWSGJwYjFmUHRnVmpkeTJ1VHNZTTFWUU1CcGtRcF9lRXlnTU1wNnluUlF1ZFpTbW5xTVB0VWFscFBWLTVzazNyZTZGRHRZbVZxeUZBdlJRRzN0LTNfdDNGTE44QXlTZkgwUlA0RzlRQk1kWVBTRQ?oc=5
+
+- An ‘Ayodhya Nagri’ outside India: This ‘Ramayana’ country is planning to build a grand Ram Mandir - financialexpress.com
+  An ‘Ayodhya Nagri’ outside India: This
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSXdVZWFDWl9Oa190cVpmaDJvd243RElaUUhBXzFKZnVkU0prZVlvWjNJV05WN3VzaWV4YVVxRC1YcEQtb3VpQ1ZPSnZGSm9ZbzdMOHFMSTJURGFCSXZJVGxNTkMtcnFneG0xMV8yQmxMTHBDSU1SX0JRMTluTGNGMVhCVWhsWnp3ekIya0Rvb1V6b3NqTW1PUU9hRHRIcmtUdUxHYkc4UmlKbTdGZFdTOE9WVWswZjl6SU9SbVdsQzc1ZGM0dnZTNk03TTlPYmFpY2gwMUFidllSVElVdnfSAeQBQVVfeXFMTTZ4c2FMOTFhYUF6N1dzWmNldkhzc1lBdlMzbVZpamE0R2RyX05yYV9jLXVhckF1blV1aV9IVkxaR1F4WVA0bmFGcXJmRjk0Um1kbi1OTmVIS2lMczJKZzNGUjEzaHlITUQtWjZBS2o2di16Sk4wai1XZEcwR0wzdk9JUW9ka3dUdTZXTGxRV18yMTQxa29obkVjeUg3M3lWSnhaY0VtM1ZpWk9ycjQ2aTZVTTFFWkpFelBKU19UY2VNU3lURlpRVU9vY004LXFQM1N0b1RQT29uVzZGUDN3M20wWGtw?oc=5
+
+- India to hold major tri-service exercise on western frontier - Times of India
+  India to hold major tri-service exercise on
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTI0ZUtEUHpyUFE5NnlsV1RqVVFqLXlmWFVsMktWRUZJck50U19zVzhkSW1UTmw3RFd1R0FUZlc5YV8tZ2VfeFBRRlp6LUpMRzdISjdDTnFvTWVVZnZGYUJHb1FNNmdhSml4WllQcm9GYnZQQ1h1VlhOeEtBQ1I0ZkljZXZnT1FuYS1fUFo5Si1SMW4xeENBc0IyVFlfaC16UVdQdndNZXFlcUlvcDd6SEFRREEybmRpREF1X0NfUjM2TjlZNThN0gHMAUFVX3lxTE5UeW9rYW9NbktpamEybmtKWl94dU5nZXc2R3lKYXVtT0JKVHF3MGx6WTJ3QjJZcE9ZVXl5Uk8yUlhKN2VXVExHSllUaVFzS1hJTHhFc0loelNSNXpld0dBZV82ZVJXejRzYW1WTENJOG5QR1BjTkIwZWQtTW5DSkVEX1F1NW9jc2J3eXNRdDFZMEJzUGdRMEREVzlXYkw1cmF6aFFfamg2c0JMNkJIdUtGbWZBenl6UEgzdnRLMkZsQXFMTG85c3hKbjl0Mw?oc=5
-
-- 'Severe cyclone' headed to India's east coast: Where 'Montha' will make landfall, and when | Latest News India - Hindustan Times
-  'Severe cyclone' headed to India's east coast: Where 'Montha
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVml4ZS1HdEJMcjhvd3hfSzdkTWxDOW9HUE5mb1owb09vNDB5REMwamF1bHFGdHh0OTZ2RG1WMlNSU05lVmRjYmdfWWE0YVJqNGRSdXZLTll5a2lKSXJvYmlsUDhPQVRmWjFSVDVRSHFTc2lfVUtnUDRSTXVMMnVfRENOSXIxVHZwS1FFd0x0WkZEdjhiZEtFZUxpSTlpQ05FSEJOYTZrenNrOVg2WjUzVW9meW0tM25oLVZrZkdjWWNGdFVMZktRaUdHTzJGbFNx0gHWAUFVX3lxTE5adnlKaXNJQkdCaVQ0c1d4LWhiWldVUDZ1R3FrT3FFUW1YUTJ0ZW1hOVpaZ3d6VlUydEx2a3NsMmJHcGZ3RXhSSEZQN3NvTk9rYmhqdGUtMVZiWnh0R3VwS3ZETWJlelpwU1I2eVEyWVJYa3dfdXpfY3Znc002Ty1DUUUzUm1nZzBrdDNBSUppcHYta3JfZlVibS1pRHFlbTViNjVUc2hlYkUzNFRMbWNyVmNZSUtyS3BBVkprbWFqTUJodGpYOHBCcmhRM1ZyYnV0WmItV2c?oc=5
-
-- Pak has nothing to gain by needling India: Ex-CIA man - The Times of India
-  Pak has nothing to gain by needling India: Ex
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPaXcta1lKODl3T1dBOEpRWFJmXzlxZXVPMG1UbXNsTVM3M2ZtbC1neUZLZDVvNHVZZjNkMVBDZTNSc1NSQ1RkX01KVXFUdThFS0dRUkpFYThXVnd5Q3Z1dGpyUC0ta3BWaUJtUFZxQkE3OVNTdmVQQVpZOFAzWU95YlBIX0d5Q2Y2cWwxRnAtQWNCU0lkb2s5UDd3NHhsQ3phSERhWWppQUxJWFdLeFRUMDZrVUtNTjljM21OQzVDOW5VM1RQLUgzRVVmRVnSAdIBQVVfeXFMUEQ3cnB0MC1DbVBOLWE0a2ZpNG9JU204aVc4VUhJdXQ5bEpTZGJXWm9MQUtBVEY2Y1F0Yi13Q2FtM2dKeURnT0tkbHJxeVBVMlZSOXA4LUhsNGRIUFRGdmZKY3lfWlItN0ZraUgzcjVnaFZQdjZoNXUzaTA4NWlzZmtPelBKV1gzWmlvaS1rS2F2WWVzU1lCLWhfaUJoV25DUzBaR2NZNGZOeHhrTWFVY1lUWV9qUFZFQU9LV0FmRlNpOEQ0RjRTWF9jMmNCdXhRQ1Rn?oc=5
 
 - 'No Benefit In Fighting India': Ex-CIA Officer Who Led Pak Operations - NDTV
   'No Benefit In Fighting India': Ex-
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzNlWldUbHdueWczMnlrNHRqVkVQWFJEaFA2eGU5bXpiVEM4cFZmU0pBMXdxcmpydEVCVFNPS2paQUkwTG1va2VXQVRQTVc2MzBJVU5nX0txZ25PaDhGLXhhcXBEQlk5MHZjVS1tbjh2SzREWlJNb3k4UnBUVTZYYjhBQUZ3Rnh5cTVQV3VYN0xXQ1RlZFFaa3N0TXEtUFJwR3dUTjljTEN6ZG5sSW9PVTJzOWRnRDJLc2hCSE1TOUXSAcgBQVVfeXFMT2ZPZTduLXV5SWdUYTY2YTlwWk1fRHB4TDUtcWw0M21IR1BleHFsTFRrYzFsbS1rcHp4bDVZNnd0SWhXaHROREE2RkRVRm9SR1N2bzBTaW1MM3FXZXhPRjBfNk11NkYzS1BOUVhfZXl1WENKb3hfR29qSWdTNlVheWVkbTl6SlVnQ2RRZG1qNk91T2VZNG1KTUVPVGNzZnJLOXNkVUw4Zm5VdnY0aDNRelQ1Qi1BZWdVZndCNWM4Qzg2bGYzR3cyemc?oc=5
 
-- ‘Pakistan will lose any conventional war with India’: Former CIA officer John Kiriakou | Latest News India - Hindustan Times
-  ‘Pakistan will lose any conventional war with India’: Former CIA officer
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUVZJSFRSNXgzZnI3bXoydlNiVEdaR0JId05hRFZBYkFNZEQzcVlZdmhYOU40RXlvbldRMjZHU3J2TWdNaUc3QlNPU3FkdlpLQUo3R1lxb0xWVWFYcDQ4b1AySkhmUy1pekh3LTB3MXJTSmZWMEExcEIzOVdlSTlDVkVmS2dfNFg0ZzQ4VkhwbjAySXVYSjd0ZEx3Z2tFdUNhSUg2LWQ5S0RUVWwtTEZJckVDeGpNeDlRdU9SMWNnamJZOFl3b00wUUIzek52bktTZ19RYzB0TkVzdFZjajhN0gHkAUFVX3lxTE1ZTWFhQjNSU21jLTY4bUNRdnEzVTdtUm9FQW5MOWpjeC1mZ3NRX2M0dmdaQ25Pbkk1akw4TEp2UDNaZDRocnR4dzB6c2J6Rm03S3BheTFjSUxfbVhTUll6Q3VhdW9lNmtZejR0ejVOYmY0cU1mbWJDTV9NYzVMaUNRaC1YNGE4MndVRXl1cF9tdWtzLTZCTFNYcTdYNG9lQldoY0lOT2lmQ3FqeExrUnZuUUpCaV8zV2tkUjZPLUw5bFZJYTA3SXA1eXBTWWJxcHlWQmVmUWQwQTB5SnFCeVFOQ3J4Qg?oc=5
+- Company registrations jump 108% in September - financialexpress.com
+  Company registrations jump 108
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWZjM29sWV9PQU5XV3F6OVg3c0VsQ2FCTjlQM250aHMxa0ZmMlUtUm8wQVpnQmVjZXF1Nl92X0t1cjg5b0JTMUpUZWdBaHc0QkF6WjZmalZQQ292VExxbURHUW9kdXYyRGZ5RXM5T2ZjWGJjejJXRDI2blhGVGxqZ09EMkVFbC05bHdQNzhaN2o4WHowRVU3VmdTdnNNaG1DOXNSS2pR0gGsAUFVX3lxTE93SnRTb1lTSTNnSWFsNm1JdUxYUnoyblJUR2NJSmhxVFEyWjQ2RzJMZDhhX0dLYWNtZ1dkTnJlaVB0SWFkeTBQd0dablJoYVoyeDNLUkp6eGJvTzIxeU5oRENzNU9OLWxaX1RIMXZ1UzFPSzJRazhZWWJXcDFrUUd1dFp0YWlsX1E4eXFXMnBhZ1NmaTFqZXpTOGtVTWxvTFZrVEVxX3N1RVhLdEs?oc=5
 
-- India to hold major tri-service exercise on western frontier - The Times of India
-  India to hold major tri-service exercise on western
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTI0ZUtEUHpyUFE5NnlsV1RqVVFqLXlmWFVsMktWRUZJck50U19zVzhkSW1UTmw3RFd1R0FUZlc5YV8tZ2VfeFBRRlp6LUpMRzdISjdDTnFvTWVVZnZGYUJHb1FNNmdhSml4WllQcm9GYnZQQ1h1VlhOeEtBQ1I0ZkljZXZnT1FuYS1fUFo5Si1SMW4xeENBc0IyVFlfaC16UVdQdndNZXFlcUlvcDd6SEFRREEybmRpREF1X0NfUjM2TjlZNThN0gHMAUFVX3lxTE5UeW9rYW9NbktpamEybmtKWl94dU5nZXc2R3lKYXVtT0JKVHF3MGx6WTJ3QjJZcE9ZVXl5Uk8yUlhKN2VXVExHSllUaVFzS1hJTHhFc0loelNSNXpld0dBZV82ZVJXejRzYW1WTENJOG5QR1BjTkIwZWQtTW5DSkVEX1F1NW9jc2J3eXNRdDFZMEJzUGdRMEREVzlXYkw1cmF6aFFfamg2c0JMNkJIdUtGbWZBenl6UEgzdnRLMkZsQXFMTG85c3hKbjl0Mw?oc=5
+- Ahead Of Polls, Bihar Buzzes Over Rahul Gandhi's Long Absence - NDTV
+  Ahead Of Polls, Bihar Buzz
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVBSVmxrX3gxZHZVSUFNQUl1SDlaUXVSZlUzX1NDUjBBNG1USW9md2EtUGRXdDVlSFgteEs5SlJzakJ0ZlZoXzNibnMzeEI2dmMtSHVNTjk3ME40VlpUeFNFV20tLVRrTGViZVVYT25McTZIZ0hHaXRzemJzUUdJZkszM0RXQXJ2cFVWU1kwR3dUU2JSQUZDWGxjUV9xRnotUVN4Nk45aU5xQkhQbC1hclotaURDa0gxVmpPTWYyVkJUSUZwOXAw0gHPAUFVX3lxTE9HMkQzT3R2QW4tR2t3WWhrM29MdTdkUzQyVDBoNTBhZlR0SllGd1dDSS1Sczk0UVNFS3RXQW83cjB4QVA2U1R0RU5IYnRiTDdCU2F0SDhtand6djlXQzg0TFNWSGJwYjFmUHRnVmpkeTJ1VHNZTTFWUU1CcGtRcF9lRXlnTU1wNnluUlF1ZFpTbW5xTVB0VWFscFBWLTVzazNyZTZGRHRZbVZxeUZBdlJRRzN0LTNfdDNGTE44QXlTZkgwUlA0RzlRQk1kWVBTRQ?oc=5
 
-- 'Severe cyclone' headed to India's east coast: Where 'Montha' will make landfall, and when | Latest News India - Hindustan Times
-  'Severe cyclone' headed to India's east coast: Where 'Montha
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVml4ZS1HdEJMcjhvd3hfSzdkTWxDOW9HUE5mb1owb09vNDB5REMwamF1bHFGdHh0OTZ2RG1WMlNSU05lVmRjYmdfWWE0YVJqNGRSdXZLTll5a2lKSXJvYmlsUDhPQVRmWjFSVDVRSHFTc2lfVUtnUDRSTXVMMnVfRENOSXIxVHZwS1FFd0x0WkZEdjhiZEtFZUxpSTlpQ05FSEJOYTZrenNrOVg2WjUzVW9meW0tM25oLVZrZkdjWWNGdFVMZktRaUdHTzJGbFNx0gHWAUFVX3lxTE5adnlKaXNJQkdCaVQ0c1d4LWhiWldVUDZ1R3FrT3FFUW1YUTJ0ZW1hOVpaZ3d6VlUydEx2a3NsMmJHcGZ3RXhSSEZQN3NvTk9rYmhqdGUtMVZiWnh0R3VwS3ZETWJlelpwU1I2eVEyWVJYa3dfdXpfY3Znc002Ty1DUUUzUm1nZzBrdDNBSUppcHYta3JfZlVibS1pRHFlbTViNjVUc2hlYkUzNFRMbWNyVmNZSUtyS3BBVkprbWFqTUJodGpYOHBCcmhRM1ZyYnV0WmItV2c?oc=5
+- An ‘Ayodhya Nagri’ outside India: This ‘Ramayana’ country is planning to build a grand Ram Mandir - financialexpress.com
+  An ‘Ayodhya Nagri’ outside India: This
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSXdVZWFDWl9Oa190cVpmaDJvd243RElaUUhBXzFKZnVkU0prZVlvWjNJV05WN3VzaWV4YVVxRC1YcEQtb3VpQ1ZPSnZGSm9ZbzdMOHFMSTJURGFCSXZJVGxNTkMtcnFneG0xMV8yQmxMTHBDSU1SX0JRMTluTGNGMVhCVWhsWnp3ekIya0Rvb1V6b3NqTW1PUU9hRHRIcmtUdUxHYkc4UmlKbTdGZFdTOE9WVWswZjl6SU9SbVdsQzc1ZGM0dnZTNk03TTlPYmFpY2gwMUFidllSVElVdnfSAeQBQVVfeXFMTTZ4c2FMOTFhYUF6N1dzWmNldkhzc1lBdlMzbVZpamE0R2RyX05yYV9jLXVhckF1blV1aV9IVkxaR1F4WVA0bmFGcXJmRjk0Um1kbi1OTmVIS2lMczJKZzNGUjEzaHlITUQtWjZBS2o2di16Sk4wai1XZEcwR0wzdk9JUW9ka3dUdTZXTGxRV18yMTQxa29obkVjeUg3M3lWSnhaY0VtM1ZpWk9ycjQ2aTZVTTFFWkpFelBKU19UY2VNU3lURlpRVU9vY004LXFQM1N0b1RQT29uVzZGUDN3M20wWGtw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-26 06:26:35 UTC_
+_Last updated: 2025-10-26 12:32:34 UTC_
