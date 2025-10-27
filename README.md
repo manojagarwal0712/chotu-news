@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Gold Today Rate, October 27: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- EC announces Special Intensive Revision of electoral rolls in 12 states, UTs
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-october-27-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10329208/
+  🔗 https://indianexpress.com/article/india/ec-special-intensive-revision-sir-electoral-rolls-states-ut-10330059/
 
-- Cyclone Montha Tracker LIVE Updates: Red alert across Andhra today as storm likely to cross its coasts tomorrow; Tamil Nadu, Odisha brace for heavy rains
+- Karur stampede: Actor Vijay meets victims’ families at resort near Chennai
   
-  🔗 https://indianexpress.com/article/india/cyclone-montha-live-updates-landfall-andhra-pradesh-coast-imd-10329039/
+  🔗 https://indianexpress.com/article/india/karur-stampede-actor-vijay-meets-victims-families-resort-chennai-10330014/
 
-- News Today Live Updates, 27 October | Pune Crime Files: why 3 convicted for brutally murdering a family of 4 in 1997 walked free
+- Farmer crushed under Thar, his daughters beaten and stripped over land dispute in Madhya Pradesh
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-10-27-2025-news-headlines-10328933/
+  🔗 https://indianexpress.com/article/india/farmer-crushed-under-thar-daughters-beaten-stripped-over-land-dispute-10329975/
 
-- Chhath Puja (Sandhya Arghya) Bank Holiday Today: Are banks open or closed on Monday, October 27? Check city-wise list
+- EC announces nationwide SIR of electoral rolls: See list of states, schedule, eligibility
   
-  🔗 https://indianexpress.com/article/india/bank-holiday-today-october-27-chhath-puja-open-or-closed-city-wise-list-10328971/
+  🔗 https://indianexpress.com/article/india/nationwide-sir-electoral-rolls-12-states-union-territories-election-commission-10329926/
 
-- Exclusive: Mere presence of a few transient tigers no reason to declare reserve, Goa govt tells SC panel
+- Cyclone Montha update: East Coast Railway cancels over 25 trains – Check full list
   
-  🔗 https://indianexpress.com/article/india/mere-presence-of-few-transient-tigers-no-reason-to-declare-tiger-reserve-goa-govt-to-sc-panel-10328599/
+  🔗 https://indianexpress.com/article/india/cyclone-montha-east-coast-railway-cancels-over-25-trains-full-list-10329776/
+
+- Big Tech to report earnings under specter of AI bubble
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/big-tech-to-report-earnings-under-specter-of-ai-bubble-10330049/
+
+- 72 nations sign landmark UN treaty to tackle cybercrime: what does this mean for India?
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/nations-sign-landmark-un-treaty-tackling-cybercrime-what-it-means-india-10329834/
+
+- OpenAI launches new ChatGPT guide for Indian college students: 5 must-try prompts
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-new-chatgpt-guide-college-students-5-must-try-prompts-10329539/
 
 - Perplexity’s Aravind Srinivas says YouTube, Google Maps are hardest to beat: Here’s why
   
@@ -28,185 +40,125 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/australia-sues-microsoft-over-ai-linked-subscription-price-hikes-10329101/
 
-- Robot dogs and AI drone swarms: How China could use DeepSeek for an era of war
+- Elon Musk’s Starlink picks Mumbai as India hub, leases first office in Chandivali
+  Starlink has leased a 1,294 sq. ft. office on the
+  🔗 https://www.livemint.com/companies/news/elon-musk-starlink-picks-mumbai-as-india-hub-leases-first-office-chandivali-dot-trai-real-estate-eutelstat-jio-satellite-11761549687171.html
+
+- Big relief for Vodafone Idea in AGR battle — a look at how the case unfolded
+  The Supreme Court permitted the government to resolve Vodafone Idea's AGR dues dispute. The telecom company owes  �
+  🔗 https://www.livemint.com/companies/news/big-relief-for-vodafone-idea-in-agr-battle-a-look-at-how-the-case-unfolded-11761548355335.html
+
+- Indian tech sector records deals worth USD 1.48 bn in Q3: Report
+  Indian tech sector records deals worth USD
+  🔗 https://www.livemint.com/companies/news/indian-tech-sector-records-deals-worth-usd-1-48-bn-in-q3-report-11761565320253.html
+
+- Private Credit Lenders Are Taking Over Telecoms Firm Netceed
+  Lenders including Pemberton Asset Management, Blue Owl Capital Inc. and Hayfin Capital Management
+  🔗 https://www.livemint.com/companies/news/private-credit-lenders-are-taking-over-telecoms-firm-netceed-11761564887694.html
+
+- Advantage conglomerates: How Tech Mahindra, TCS are tapping  into group cos to boost revenues
+  TCS and Tech Mahindra are leveraging affiliations with group companies to expand business. While TCS has direct contracts with peers in the Tata Group, TechMahindra offers a suite of real estate to
+  🔗 https://www.livemint.com/companies/india-conglomerates-tata-tcs-tech-mahindra-india-it-services-it-services-tata-sons-gccs-clientele-talent-spending-11761501066377.html
+
+- IFSCA proposes regulatory framework mandating demat for IFSC securities
+  The proposal aims to enhance regulatory coherence, streamline market operations, and ensure that securities issued in
+  🔗 https://www.livemint.com/market/ifsca-mandates-dematerialization-gift-city-securities-digital-investments-regulatory-framework-global-finance-migration-11761561769060.html
+
+- Orkla India IPO: From dates to key risks — Here are 10 key things from the RHP that investors should know
+  Orkla India IPO price band has been fixed at  ₹695-730 per share
+  🔗 https://www.livemint.com/market/ipo/orkla-india-ipo-from-dates-to-key-risks-here-are-10-key-things-from-the-rhp-that-investors-should-know-11761563718152.html
+
+- October Winners: Hindalco, SBI, JSW Steel among 11 Nifty 50 stocks that hit record highs — Do you own any?
+  Nifty 50 stocks like Hindalco and SBI hit record highs this October, contributing to over 5.5% gains this month. Positive earnings from banks and tech boosts, along with
+  🔗 https://www.livemint.com/market/stock-market-news/october-winners-hindalco-sbi-jsw-steel-among-11-nifty-50-stocks-that-hit-record-highs-do-you-own-any-11761378216668.html
+
+- SRF Q2 Results: Profit jumps 93% YoY to  ₹388 crore; revenue rises 2%
+  SRF Limited reported significant growth in its financial performance for the second quarter and the first half of the fiscal year 2026.
+  🔗 https://www.livemint.com/market/stock-market-news/srf-q2-results-profit-jumps-93-yoy-to-rs-388-crore-revenue-rises-2-11761567019755.html
+
+- Sona BLW Precision Q2 Results: Firm posts record revenue, profit and EBITDA — Check key details
+  Sona BLW Precision Q2 Results: The company, known for its mission-critical systems and components for both electrified and non-electrified powertrain segments, attributed
+  🔗 https://www.livemint.com/market/stock-market-news/sona-blw-precision-q2-results-firm-posts-record-revenue-profit-and-ebitda-check-key-details-11761566442449.html
+
+- OnePlus 15 with 6.78-inch 165Hz AMOLED display, 7,300mAh battery launched: Price, specs and more
+  The phone comes in three colour variants and is powered by the Snapdragon 8 Elite Gen 5 processor. The phone comes with a 6.78 inch 1.5K AMOL
+  🔗 https://www.livemint.com/technology/tech-news/oneplus-15-with-6-78-inch-165hz-amoled-display-7-300mah-battery-launched-price-specs-and-more-11761566344027.html
+
+- How do Indian students use ChatGPT? OpenAI shares over 50 real-world examples from IITs with detailed prompts
+  OpenAI has shared over 50 use cases of ChatGPT by college students from top Indian universities like the Indian Institute of Technology.
+  🔗 https://www.livemint.com/technology/tech-news/how-do-indian-students-use-chatgpt-openai-shares-over-50-real-world-examples-from-iits-with-detailed-prompts-11761561060177.html
+
+- AI chatbots like ChatGPT and Gemini will agree with you even when you’re wrong, new study finds
+  OpenAI's GPT-5 shows the least sycophantic behavior compared to other models like DeepSeek's V3.1.
+  🔗 https://www.livemint.com/technology/tech-news/ai-chatbots-like-chatgpt-and-gemini-will-agree-with-you-even-when-you-re-wrong-new-study-finds-11761554606504.html
+
+- 10 Prompts that turn Perplexity AI into a powerful research assistant, explains expert
+  An AI expert has revealed how he turned Perplexity AI into his “full-time research assistant.” The tool automates 70% of his research, writing, and analysis through custom prompts.
+  🔗 https://www.livemint.com/technology/tech-news/10-prompts-that-turn-perplexity-ai-into-a-powerful-research-assistant-explains-expert-11761556310946.html
+
+- Donald Trump as Halo Master Chief? White House joins GameStop’s ‘End of Console Wars’ celebration
+  Halo: Campaign Evolved will arrive on PlayStation 5 in 2026 with cross-platform play. The White House sparked online buzz after posting an image of Donald Trump as Halo’s Master
+  🔗 https://www.livemint.com/technology/tech-news/donald-trump-as-master-chief-white-house-joins-gamestop-s-end-of-console-wars-celebration-11761550751960.html
+
+- Stocks Rally on Trade Optimism Ahead of Big Week: Markets Wrap - Bloomberg.com
+  Asia markets and US stock futures rise after US and Chinese officials agree on trade deal framework. Dow, S&amp;P 500, Nasdaq futures climb as Trump stokes hopes of US-China trade deal.
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1hLaDdxbzNDNmRITDBPcEZKMVRVODBDZGd6X1pHZ0duZXlleWZ3UDFKMjNlYnI0eWdEY2MtT0NFTEdDTlM5MGRZMHlwR3lXZXdvejZRajFEMWw1dGY5cDhQV3VCa1dfT3BFNHRNSXdLcmdFQ2U3S21NaUlFUERlMWswdFE5cWhGMUdnZ19Rb0E4Q3JocERHOURpekFsTkRmWS1qVmJjbTZrb2VxZ0NsZ3lDUTY?oc=5
+
+- Nifty 50, Sensex today: What to expect from Indian stock market in trade on October 27 after global markets rally - Mint
+  <ol><li><a href="https://news.google.com/rss/articles/CBMijgJBVV95cUxQTUJtc0FzNnVQVGhycjc5OVZtMmw5UWNraFE3NmFrdzhNN1lqekk3VFNCdnpqSXBHN1VWTUNjR1piMzhtd2d5UGR6THFZNXctOXhha0RBMUFDUFdJTHRJQzkwMEY3emVKR2
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQTUJtc0FzNnVQVGhycjc5OVZtMmw5UWNraFE3NmFrdzhNN1lqekk3VFNCdnpqSXBHN1VWTUNjR1piMzhtd2d5UGR6THFZNXctOXhha0RBMUFDUFdJTHRJQzkwMEY3emVKR2J0WXM4OENjeWUwS1FTS0o5bFBOZjNrNXB4Mm9nc3REUnlzZEl1ckczRUczZXF6QVh4eFh4bkhDRjMtaHlCYnRhTlFyYVItNmhnTFljbUdiLXZ3WU5vU08wTHQ3cGVFQ3g4akE5VnVSTmI3ckFqaGlUem1YLWNiU2xxb19EeHJOUDF0Zm1zX1k5UTdoUmlsZEgwQnRha0lvdDhkWjgwTUFEUThQS1HSAZMCQVVfeXFMT0VUbmlGM2N1YkJmM2lMdDh5RXJLNG9JM3BseG4yaVZMXzRONXNSQ0ZPRXFlcXRVTW1TSEh1M01qdlRFWkF4emF1TF9iY3BVN2lyTUV5WFpsMWpHVFdCbXJiSmVKWWJoaVo0T253YWl5eFdvMU1EN2dzcmZyQzBpd3YtMXJRQldTSi00YVhERE9hSHJrc0k1dTFMRWhseDUyTl9XeW03TTFKWGJfMmdPNG5uelNseUlZTHZqQUhUWFBlTkwyLWE1bXJSamRNMF8wTEQ3N0tqdENTTU5keHl2S1Q3QzdfTTg5OHY0Uk9OQ2VEbzBlS1hCbDFEdHZ0TE1GTmJ3SGtCdmRoRWV1aXpMWVB4SDQ?oc=5
+
+- Japan's Nikkei 225 crosses 50,000 for the first time, ahead of Takaichi-Trump meeting - CNBC
+  Japan's Nikkei 225 crosses 50,000 for
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNaktmMDJQWmZNdWg0QmlTX3JYMk1udF9xQ1hpZXE0TXRtc2dXMjI4R1FCNE1hNzZhYWtUeFFzdnR2Sms0ZFpNX0hQTG1LTkFDV2lKS3FqbllFZkNOMDVaS210MVdSaUpUc09VazNJa1hpVnNIZTJ5bWxjYWYxVUQ2VlJrOEdJZ21RMUQ0TEo2QUpxQ3dnRGQ2OFU5TFloMTZtbXJjZE55VHR6cVpFekxYR0xzaDNPZjBVUVlheU9WalZJOEVOaDVHQ01n0gHPAUFVX3lxTE5wcVRndk9lSTVHbFh1cFh0VzBqY1pOaW1sTERuQmxzc1NFRGRORDhsRXdWejNkc0RkTVhzeU9FdE94emFfczJUa3NGTnZWTW9MSjViNHJfbUxzaEpva3FPaEpHQmlld3puY29HR0JRb19lRVdKcEhrOXJfdGIxemM3ME1yYVh1ekFFZWVKSmVKMTZhRk1XUU9lYkdWTnMxVzVrVGdBSGFxUF9ONGhpUGIyWElrWEh0LU9qbjItSHBoU2lvTHI1WTZwYktSRzJUdw?oc=5
+
+- Asian stocks today: Markets rally on US-China trade deal progress; Nikkei jumps 2%, Hang Seng up 1% - Times of India
+  Asian stocks rally on US-China trade deal progress. Nikkei jumps 2%,
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxQM0k2N2I5OG1USGN0ZXpvckxhVElHS3NvNllBZ1FaWG5wOElRLTZPS003QkVnbTRUZ1dud0QwaHd5SXY5RkV0aUhyd2Vkd1AyLXlzT1RBSUp6c05BWmw0TzVNZXlkWDA3c2Q0REJONlRFek5BQWZqb2Nyc1htbTkzQ0lvLUpFeElMaHdfX1F5QTNLTkl2akRGaXBDUU5EeGZVYzl2SUZubVpnNVh2UE5qT1otMHlOeVBNalFCdFJGdTBjUWg5OGhzU0VYa2NzVmVjQkl0Y2JMS0RTUS0wdTA0cXJzM2NsLVp3NzRJeWhJOWMtRDRzNmtpeFNJVUM2MkhyMmRNUnJqVTRyenFUY2RYTdIBlgJBVV95cUxPUnEzRzlPSzJ1M0g5a1FsYm1mdU5JWmFTU1BoU2M5RU1PM2JtelBOMHhuRFpEek8zVGttblJKeTBkQXVrMTNFMTFrMnJaMkVBQjhUNkQtSkcyY2lMZF9NaDNydEFINk9zYktELVFISGwzbWdPS1J6c08wUDdXTTd4WGI2cnF0a1ZpSkhKSGlncGpqSVNHNFJwMVBaZjhyeE5nZjVZMlV6RHFRVjY1M1hzN3dPLU9wVDVqRFJLN1hWWFBVZFJkcnFGY1BkakVrS1RpakZvS3g1bnlpUFk4YzNPYTVhZGhzTDJ3emdELUM4ZDI1OC1SQnJCaThKdnF4Rk42ZERJVksxbWZyOF9WZWJnUlo4LVJGZw?oc=5
+
+- Expect firm and steady markets riding on optimism - Deccan Herald
+  Expect firm and steady markets riding
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPV29xT3hTUDA0LVZCSDd2QjJqUXZuVlZwRUZMSUlmbm54SWdXcjRsUUJ0UlVKRnRMMkd1eUcwZFlMc2dtei1feVBfbmVLUkZPU0FyQ19FU0R5emFsMndURE91cE85amFUUm9KcEtob3FWQzc1WHZFOTJ1TDhnOE4weERjcUJqWUh3V0dteElJREh5YjNJcThTMnZUZw?oc=5
+
+- India bonds a tad lower as traders look ahead to state debt auction for cues
+  Indian government bonds lumbered sideways for most of the session on Monday. Traders awaiting more robust signals,
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-a-tad-lower-as-traders-look-ahead-to-state-debt-auction-for-cues/articleshow/124849423.cms
+
+- ET Market Watch: Sensex up over 560 pts, Nifty near 26K, 5 factors driving the market rally
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/robot-dogs-and-ai-drone-swarms-how-china-could-use-deepseek-for-an-era-of-war-10329085/
+  🔗 https://economictimes.indiatimes.com/markets/stocks/etmarkets-podcast/et-market-watch-sensex-up-over-560-pts-nifty-near-26k-5-factors-driving-the-market-rally/podcast/124849347.cms
 
-- Meta’s chief AI scientist warns that humanoid robot startups are in a bubble
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-chief-ai-scientist-yann-lecun-humanoid-robots-warning-10328100/
+- Vodafone Idea, SBI among 11 stocks hitting 52-week highs; up to 25% gains in a month
+  On Monday, the Sensex jumped nearly 567 points to close at 84,779. Despite market volatility, 11 stocks from the BSE Large-Cap Index scaled fresh 52-week highs. Vodafone
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-sbi-among-11-stocks-hitting-52-week-highs-up-to-25-gains-in-a-month/slideshow/124849310.cms
 
-- Google unveils new Earth AI models with geospatial reasoning to improve disaster-response
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-earth-ai-models-geospatial-reasoning-disaster-response-10327833/
+- Insider Shift: Promoters reduce stakes in 9 largecap stocks in September quarter
+  Promoters in nine NSE large-cap companies reduced their shareholding during the September 2025 quarter compared to the June 2025 quarter. Major firms showing declines include InterGlobe Aviation, SBI, CG Power, Apollo Hosp
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/insider-shift-promoters-reduce-stakes-in-9-largecap-stocks-in-september-quarter/slideshow/124849036.cms
 
-- Boeing workers reject 24% wage hike offer, strike enters 84th day
-  Boeing Co. factory workers in St. Louis narrowly rejected a new five-year contract. The contract would boost wages by an average of 24%,
-  🔗 https://www.livemint.com/companies/news/boeing-workers-reject-24-wage-hike-offer-strike-enters-84th-day-11761529795005.html
-
-- After US lawyers, lawmakers now flay Trump’s ‘arbitrary’ H-1B visa order
-  Bipartisan lawmakers argue the decision lacks congressional approval and threatens economic growth.
-  🔗 https://www.livemint.com/companies/news/donald-trump-h-1b-visa-it-companies-technology-jobs-donald-john-bacon-11761454123645.html
-
-- Prosus to co-invest in founders making it to Accel’s new Atoms X startup accelerator
-  Global investors Accel and Prosus will invest $1 million each in early-stage Indian and Indian-origin founders
-  🔗 https://www.livemint.com/companies/start-ups/accel-prosus-to-co-invest-1-million-each-in-startups-under-new-atoms-x-accelerator-11761352126142.html
-
-- Novartis ‘nears’ deal to acquire Avidity Biosciences for more than $70/share, says report
-  Novartis AG is close to acquiring Avidity Biosciences Inc.
-  🔗 https://www.livemint.com/companies/news/novartis-ag-nears-deal-acquire-biotech-firm-avidity-biosciences-for-more-than-70-per-share-announce-october-says-report-11761493803094.html
-
-- India’s 10-minute service apps clock high festival bookings as demand for instant help soars
-  Instant home-service platforms experienced a major surge. Driven
-  🔗 https://www.livemint.com/companies/news/10minute-service-festival-bookings-instant-help-urban-company-snabbit-pronto-domestic-help-grooming-appliance-repair-11761474032806.html
-
-- IOC Q2 Results LIVE: Profit could surge multi-fold on low base; stock jumps 2% ahead of earnings
-  IOC is expected to post a multi-fold growth in profit after tax for the quarter ended September 2025.
-  🔗 https://www.livemint.com/market/stock-market-news/ioc-q2-results-2025-indian-oil-corporation-q2-results-ioc-q2-earnings-ioc-share-price-crude-oil-prices-ioc-grm-11761545529127.html
-
-- Coforge share price gains 6% to 3-month high as analysts stay bullish, raise target price after Q2 results
-  Coforge share price rose nearly 6% to  ₹1,866 following strong September quarter results. Analysts are optimistic, raising target prices amid robust order intake.
-  🔗 https://www.livemint.com/market/stock-market-news/coforge-share-price-gains-6-to-3-month-high-as-analysts-stay-bullish-raise-target-price-after-q2-results-11761543563498.html
-
-- Mid-cap stocks to perform better in short-to-medium term; Geojit's Vinod Nair explains why
-  In H1, large caps earnings growth of Nifty 50 was sub 7-8%, while the broad market was 10-12%. Indicative of better results by Midcaps
-  🔗 https://www.livemint.com/market/stock-market-news/midcap-stocks-to-perform-better-in-short-to-medium-term-geojits-vinod-nair-explains-why-11761406933848.html
-
-- Silver prices extend losing streak: Check rates in Mumbai, Delhi, Bengaluru, Chennai, Kolkata, Hyderabad on October 27
-  Silver prices extend losing streak: Here's how much prices have changed in Mumbai, Bengal
-  🔗 https://www.livemint.com/market/commodities/silver-prices-extend-losing-streak-check-rates-in-mumbai-delhi-bengaluru-chennai-kolkata-hyderabad-on-october-27-11761540903802.html
-
-- MCX launches options contracts for liquid gold and silver futures. Check trading period, expiry day and calendar details
-  MCX BULLDEX constitutes the highly popular and liquid MCX Gold and Silver futures contracts. These contracts covering both gold and silver offer a balanced exposure in the
-  🔗 https://www.livemint.com/market/commodities/mcx-launches-options-contracts-for-liquid-gold-and-silver-futures-details-here-11761543058491.html
-
-- OnePlus 15, iQOO 15, Realme GT 8 series and more: 7 Upcoming smartphones expected to debut in November 2025
-  November 2025 is packed with major smartphone launches from brands like OnePlus, OPPO, iQOO, and more. From flagship models with powerful chipsets and high refresh displays to budget-friendly 5
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-15-iqoo-15-realme-gt-8-series-and-more-upcoming-smartphones-in-november-2025-11761541400513.html
-
-- Microsoft tricked users into pricier AI-linked 365 plans, says Australian watchdog; files lawsuit
-  Australia’s competition regulator has sued Microsoft, alleging the tech giant misled 2.7 million customers into paying more for Microsoft 365 plans.
-  🔗 https://www.livemint.com/technology/tech-news/microsoft-tricked-users-into-pricier-ai-linked-365-plans-says-australian-watchdog-files-lawsuit-11761527223076.html
-
-- Survival instinct? New study says some leading AI models won’t let themselves be shut down
-  A Palisade Research report highlights the troubling resistance of advanced AI models to shutdown commands. Despite efforts to clarify instructions, Grok-4 exhibited significant defiance. Experts
-  🔗 https://www.livemint.com/technology/tech-news/survival-instinct-new-study-says-some-leading-ai-models-won-t-let-themselves-be-shut-down-11761498288384.html
-
-- After viral portraits, Google Gemini can now create presentations for you in seconds: here's how to get started
-  Gemini is set to roll out a presentation creation feature. It will allow users to generate presentations from documents or text prompts. This capability is currently available for Pro users and
-  🔗 https://www.livemint.com/technology/tech-news/after-viral-portraits-gemini-nano-banana-can-now-create-presentations-for-you-in-seconds-heres-how-to-get-started-11761494824372.html
-
-- Instagram finally lets you relive every Reel you’ve watched with ‘Watch History’ feature
-   Instagram's new 'Watch History' feature enables users to track their watched reels without saving them. Users
-  🔗 https://www.livemint.com/technology/tech-news/instagram-finally-lets-you-relive-every-reel-you-ve-watched-with-watch-history-feature-11761487515331.html
-
-- India bonds inch lower tracking US Treasuries
-  Traders showed little reaction to a reduced supply of state debt. The market is closely watching developments in the U.S.-China trade deal.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-lower-tracking-us-treasuries/articleshow/124841578.cms
-
-- Federal Bank shares rally 3% to hit record high. What's behind the frenzy?
-  Federal Bank shares hit a record high after Blackstone announced a $705 million investment for a 9.9% stake. This significant foreign capital inflow into India's financial sector signals potential banking reforms.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/federal-bank-shares-rally-3-to-hit-record-high-whats-behind-the-frenzy/articleshow/124841514.cms
-
-- Bullish on Bullion: Parthiv Jhonsa sees strength in both gold and silver
-  Global commodity markets are experiencing volatility, with aluminium prices surging due to supply disruptions and strong Chinese demand. Precious metals, gold and silver, are both viewed bullishly despite their differing market drivers.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/bullish-on-bullion-parthiv-jhonsa-sees-strength-in-both-gold-and-silver/articleshow/124841361.cms
-
-- Mining Multibaggers: FIIs raised stakes in these 5 stocks for 3 straight quarters
-  Foreign Institutional Investors (FIIs) increased holdings in 125 BSE-listed firms over three quarters. Eleven stocks surged
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mining-multibaggers-fiis-raised-stakes-in-these-5-stocks-for-3-straight-quarters/slideshow/124841380.cms
-
-- Orkla India IPO shows strong GMP today; issue opens on Oct 29. Check price band and key details
-  Orkla India, the local arm of Norway’s Orkla ASA, is launching a Rs 1,667-crore IPO opening on 29 October 2025. Backed by strong brands like MTR and Eastern, the
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/orkla-india-ipo-shows-strong-gmp-today-issue-opens-on-oct-29-check-price-band-and-key-details/articleshow/124840928.cms
-
-- "US Seeks Closer Ties With Pak, But Not At India's Expense": Marco Rubio - NDTV
-  "US Seeks Closer Ties With Pak,
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQakVyd0JULVhPTm15bFVfN3duQnIxWmduQTdqWHhMdlNxa01LdTJiUTJFeGI3cGJqSUJCd3JlZDU1V3ZjU1RqNzJrLTNTd0JPak9SNHB0ekwxenFJdmlEQU40cDlXUWtfSEl3SUE0cVd4WndWeEZLdGNNQzZzUFNPMFo2R0VVOGpidS1WMVQwLU53MS1GOElucXoxUWxnaktFV3pJM2gtNlg4Vk5lWkw0eEZCX21yNndYOHJMdkU5NzdPZUFiTm1DTFJIWnBrRE3SAdcBQVVfeXFMUF9PWFFxTmVjNnJQb3p5b290WGJyMmRjM2FMZXRjd09sZXZwWTFqLVpBWjhJNjgtNHA2a1ZaWGdGV1FfYjRtNlZ2cVU2aThFd2prTUl1ckhKYUtUeWdXZ3FSWkJFOVMwUV9COU11eDR5anpqUjIyMXJrZTlERm5yckJncTlRU25ncHE1MmVEZnNvekxxZndJQ3d6bHZRcG5pTThfMkMwVS1vLXFHaHZMaVVXODR4aXAzZ2JKY0dhdEtXRzhjTzAwWGFYMW4zMDBIQU1jVHQyWkE?oc=5
-
-- 'Not at India's expense': US state secretary Marco Rubio's big remark on US-Pakistan ties - what he said - Times of India
-  'Not at India's expense': US state secretary Marco Rubio's big remark on US-
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZFBtTDFtdFZOSXRTSlJ3eGVtRnRkU0hkcTFaLVBQaFFISGQxTHFnb29Gb2FHM1phQlhSbkhiVkI4cURZb3BHOVNFNEhGSnZEMkgyMllHc1NIWFg4Q3Zocmx2VllSYXRISVBDRTF6Z1BqTHJvOFc4MEdUTGtkRkM4cTF2a3QzWFBrckk3QmxKMGFmczlKdGVaeEswUDZiWi1qbVN6ZTc0SUlObzh0M2ttbzJ6bXlzR3FWZDdUMk0zMWRySWR5NlhFN0lSZmsyaVJwSVJLaFFjWDNGTVhLRkxJMjZyb3FpN1Nzb0VIWV94aTVTc1J4SDBHaWo2VC3SAYICQVVfeXFMT3EtOFhtUkZXYXVGZVN1Zzh5eGZqZl9jQ21ydGwzWlRGUC1tRW9jcTVrSzNzVWhJbjFzTHVkeGFjVUdVaGFJU29PU3J1cXM4MVBBRW5wMUxMRFZhdElURE1sTVMxUF9Na0cxQ2o4VVh3SXFiRG1ickhPVmtKa2RSUkhMblNqaUxaem9KQzZuZEdMMTFNUGFqSnRLY0hzbmVjekJ3TW4zRlRrQVJMakRPVElaUGZHWDRNTW9tUVNaazEzcTBfR2ZsZDdfSDdMR1J5UG9YbHZMZGJDbEZ4aEtIdkV3WGdSUlZUUFg5T1Y4RW5FTjZhM09mYnhrNFUtQ1VNUDFn?oc=5
-
-- U.S. seeks stronger ties with Pakistan, but not at India’s expense, says Rubio - The Hindu
-  U.S. seeks stronger ties with Pakistan, but not
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3BicVlvdmY3dTlkVnlpOWowRmlXeVgzTC14bUR0RFlJRXpFVmJOS1U1UzV4VGdQdGppYWVabjdTWFp1MllabW10MkFNZWdkRVluWFVNcWxUMGM4M3paVEdmSjRxVW5fX0pHRFJJVHdGT0wyV2htTVhfM3M0cnF0eXU4RUlLaWVDWE9McV9QVWhMQzRFU2VVbzNKTW1qT0RhNExOWWRvUnlZeUZuYUcwOG9reXFVbEtVYmxDNUVQelFUWlBQUFJ2cTNR0gHQAUFVX3lxTE9LRzNHVDlUM1l0aXJYM3k2cU5GbkxoVjBBMGg4dlpxNGljR0tSbVRXWHFfcXhScXFUdU1lMW1Ta19nWHBsTnNSMU8ycVoxZXNBSU9kdTkzclhGOFhUSWV3ZEdUU0tCWVRMbDFWaUVDRWR0ZjR1aVBLTW11bVlaRkx2VU9TamtqUVBDdXQzOWFIck5DcngwZ2ZaZ1BnRTg5aU5JeHBOSFlyRlhyUThYbnRFQWx2aVFrRFE1UHlaYlAtSThYWVlfejY3ZXEtNU1wNU0?oc=5
+- Indian Oil Q2 Results: State-run refiner swings to Rs 7,818 crore profit, revenue up 4% YoY
+  IOC posts a consolidated net profit attributable to shareholders at Rs 7,817.55 crore for second quarter of FY26, reversing from a loss of Rs 169.58 crore in the same quarter last year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/indian-oil-q2-results-state-run-refiner-swings-to-rs-7818-crore-profit-revenue-up-4-yoy/articleshow/124848492.cms
 
 - Another Hit Job Falls Flat: Washington Post's Credibility Crisis in India - NDTV
   The Washington Post's Credibility crisis
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHFkUmJwN0ZUZjdmbVA1NlRRWDUzWWZSUWRsYy1xOHpMUHZpX0xXWldfenlRTTd0c2ktOWx1aV9IN0hBaW1WblRKV1Z4cGVQMnpqVVVod3BwMzR1bUw1MkpjTHQ0bDAzR2RCUzJrOGdzMkdJY0VxTVZNS2ZKeDR2UTJtV0VQX3h3X2xtcG5Bc1hLdjA3RGZRdEl1U1BkTFBQNXYtenVHeDRnVVdsMFlhWdIBuAFBVV95cUxQRXZqLXV6bExyQVQ5N3YzaTltVE52SjVEX0FIc3h5SEY4ajBoMG9SdUo1bnp0NmlkQ1VidC1xV2s3d3lrV1R5VnZIT3ZTR2w2bzI0WXViLXpzbTh1MUpkQnI3VGlTQmlVRHdsbXlNdzJpLWhkbXByRnQ1SjluMW9rYm1lWk1oZmFSU2YwRnUyeEZTWGZTcUVDYTdnZjdDbERPb05CYjNSeWJlbEhhNmJNclhnMVR6cnlw?oc=5
 
-- 'Image of country ... ': SC slams states, UTs on stray dog case; chief secretaries told to appear on Nove - Times of India
-  'Image of country ... ': SC slams states, UTs on stray dog case. Chief secretaries
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQlNjVXNxcmROYVppd3RBam9HY2VQcGQtemRJazcwa2QyaTJTdnVWZi10amREME1hVVJNTy1nd2xwQ0NuNzNvNG5Yb2tEeVg5cmNqbV81bTY4WkRwSXZzVndfaUNyd1hDZ0I2anlHTDJlNnZMa3RQVFdIejNRaEJ3R3cyaVI5a1hCM2xWbXhVbnNVazN6YzY0OEUybW4yNlNWWUhZaGJac1VvY0FmZ0I3eW1EM2tMYUtxdGw3VktSV2xZRjZDNXRYNVVZU3NJSFB1NndjZlNXNDZmVnY2SHdSN05GNkc1UkJCT2RrVjlLSzRxdTBiV0xmd2NJSVlqQdIBgwJBVV95cUxPNjVDTjlSRERwSkVtNnM3MDhuTWI4eXZjakltUmhlYzFhWlVqLU1qSnF3S2tkMExRTHM4NnFGejZGTzNlV1FuU2R0NHJ6QzYyYXlXVC1SUWNzRWExcDI1YXM1M09iVVdKUlI3NThqU0xOWlFkSXd2ZzBfQTFDRzV1dTU4aGp4eUtyb29Ra1FCYTE1bm1JMmdMbWVTcG5vUmN1NHlBZjA1MG9uMlJDa2VwS09sd1VKWjdQckh5aEoweG9Sek9nRG1xaVBpWUx6ZmI4RmtnSGQxeUhlc0R6OW5LYUU1S0pldHdralpFM0RNd0pYVUNHQVA0WmdlQXF6ekd5WW5N?oc=5
+- SIR Phase 2 To Take Place In These 12 States. See Full List - NDTV
+  SIR Phase 2 To Take Place In These 12 States
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbFdZYkdoMlF3MjUxMEYwdW9WamdBMDA1RkVVWk1qbmtRWlliQmh1MFR3MUJ3cmtTMVRXQ0RXdGJUOTRBLWgxaklITjFuei1vUGUwN2FNX3UyYVFaUWk3ekNMUzBXdWdpZ2doaklvZVQ4bUxLRUx4UTlZUU1nMG1RT0QyLUhhQ2Q5bUhJeDAwVnMzQUdKbjBLX0NtOTkzQUQ2X0s5cEZDTHQwTFAxNDFhejFQUFRrNVVsbThJ0gHDAUFVX3lxTFBRNmJtUkxXa1EtbWF3aGd1VWcxMEJfb09fR2JobXBteWdzOWQ1b3F5bUVYQ3ZPcTBzeEc0anBWcHpybUFKUzNGRmE2RHZpRFBRMEVEQXpqeXRHWEFoWWNRTE14dmhucjJYVVlhMnFBWnhXUFdZbFJ2TjVvak95TjBrdkkxVFdfSWt1MXpjSWdaNnItOTJpZkRPem9nV20zTWJwbUdmbzRlU0RUemQ1MDN0d0xHdnZTc1FqU005Mnlrekltbw?oc=5
 
-- "US Seeks Closer Ties With Pak, But Not At India's Expense": Marco Rubio - NDTV
-  "US Seeks Closer Ties With Pak,
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQakVyd0JULVhPTm15bFVfN3duQnIxWmduQTdqWHhMdlNxa01LdTJiUTJFeGI3cGJqSUJCd3JlZDU1V3ZjU1RqNzJrLTNTd0JPak9SNHB0ekwxenFJdmlEQU40cDlXUWtfSEl3SUE0cVd4WndWeEZLdGNNQzZzUFNPMFo2R0VVOGpidS1WMVQwLU53MS1GOElucXoxUWxnaktFV3pJM2gtNlg4Vk5lWkw0eEZCX21yNndYOHJMdkU5NzdPZUFiTm1DTFJIWnBrRE3SAdcBQVVfeXFMUF9PWFFxTmVjNnJQb3p5b290WGJyMmRjM2FMZXRjd09sZXZwWTFqLVpBWjhJNjgtNHA2a1ZaWGdGV1FfYjRtNlZ2cVU2aThFd2prTUl1ckhKYUtUeWdXZ3FSWkJFOVMwUV9COU11eDR5anpqUjIyMXJrZTlERm5yckJncTlRU25ncHE1MmVEZnNvekxxZndJQ3d6bHZRcG5pTThfMkMwVS1vLXFHaHZMaVVXODR4aXAzZ2JKY0dhdEtXRzhjTzAwWGFYMW4zMDBIQU1jVHQyWkE?oc=5
+- Election Commission press conference LIVE: UP, Tamil Nadu, Bengal among 12 states/UTs in SIR 2.0 | Latest News India - Hindustan Times
+  Election Commission press conference LIVE: UP, Tamil Nadu, Bengal among 12 states/UT
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxPUWxLNXNEWldDNjRRdnMxVHpSd2xBTkhLZ2x1dG9PdGMzX2xFMV94OGtMNWR5U0xSMno1Vk92bWxwRnUzMm5UQjloVElscXVKdENxOEw2aGVZSWc0bnludzFaRFhTajFqV09QMVZvamZ5Yy1GbEh6S3RDU1NRaFJLMEQzcVFMdWh4d0VEOWhvTG9NdTJ4cnpXYTRqa1dkYXVjUkJSbEQ4OWFoZFNhamwyZExPMjJsSS03R2NTbDE5bFJJZDNodTRuc1hLVDFUeU5qUF9QaWxlZjl2ZEY1N2tGY0hRdEZoZW44a1QyZE5IV1hoWHNmS2l1VDMzZ0RRTnB1MEJEczlwaWtIcG820gGSAkFVX3lxTE9yeWRnVWlWVUNrSGRqRUJZYWJtVXBZdGZBZE90M2RRdkZJSXdOaWNZMVB5YmE5TVVQcXNqV2laQUFmenItSzRvRmZHQmt6VUtBMDFVQUR4RVJKTHZwaFlGOEpPdXhDdEZZSWZRM2Y4Wk5IdnpXa3lxSm9IeE1mZU5yN3ZwX0wwN25hZUFVZXV2bGREbE8wak5HLWoyMllybG9vYkFZMExXMFNHVGoyZ1V1elQyUXd4NVRUNDRFTWNVMHZGcmlTaVI3dUdWQTFTeFhDU2xEOXdxYlBIYVE1YjQtRGMyd19hNzM1bjh1ZWFDLXlsRmNKa2w3blkyVk0wQlVRR1p2bkhxa2JhUUZteHRmRGc?oc=5
 
-- 'Not at India's expense': US state secretary Marco Rubio's big remark on US-Pakistan ties - what he said - Times of India
-  'Not at India's expense': US state secretary Marco Rubio's big remark on US-
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZFBtTDFtdFZOSXRTSlJ3eGVtRnRkU0hkcTFaLVBQaFFISGQxTHFnb29Gb2FHM1phQlhSbkhiVkI4cURZb3BHOVNFNEhGSnZEMkgyMllHc1NIWFg4Q3Zocmx2VllSYXRISVBDRTF6Z1BqTHJvOFc4MEdUTGtkRkM4cTF2a3QzWFBrckk3QmxKMGFmczlKdGVaeEswUDZiWi1qbVN6ZTc0SUlObzh0M2ttbzJ6bXlzR3FWZDdUMk0zMWRySWR5NlhFN0lSZmsyaVJwSVJLaFFjWDNGTVhLRkxJMjZyb3FpN1Nzb0VIWV94aTVTc1J4SDBHaWo2VC3SAYICQVVfeXFMT3EtOFhtUkZXYXVGZVN1Zzh5eGZqZl9jQ21ydGwzWlRGUC1tRW9jcTVrSzNzVWhJbjFzTHVkeGFjVUdVaGFJU29PU3J1cXM4MVBBRW5wMUxMRFZhdElURE1sTVMxUF9Na0cxQ2o4VVh3SXFiRG1ickhPVmtKa2RSUkhMblNqaUxaem9KQzZuZEdMMTFNUGFqSnRLY0hzbmVjekJ3TW4zRlRrQVJMakRPVElaUGZHWDRNTW9tUVNaazEzcTBfR2ZsZDdfSDdMR1J5UG9YbHZMZGJDbEZ4aEtIdkV3WGdSUlZUUFg5T1Y4RW5FTjZhM09mYnhrNFUtQ1VNUDFn?oc=5
+- Voter list revision in 12 states: EC announces full schedule for SIR; key processes, why there's a need & more - Mint
+  The EC announced full schedule for SIR; key processes.
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOHhOTjhXZThtaVRSejB0WW42TUlyRlBvamZrNzlsWWpYckhYM25OX3c5ZnBDM1U4WHRWQkt0Wm04M1ZEbkNCTUlvTnpJZk9ORFR4SzV6WFNDYkprX3JIcVhRbWNkeDBDdmlKNXhveUdRcXJZRXZaNmdHSnJaZ0lmdXNtTW1LQ2JKb191bjF0bWpTSHVybVItdW9MZldOSnVMVFByUFo1N0dLVG9qcy1xMVZrUjR6dXA4V0h1enZhQjZWbVRYMjloZWZPX19DdTRuMmdYUXZEQ2o2WHU1M2JlMVFFV2xwWEdZU2JlakVtVW1rOGN1Nkh30gH3AUFVX3lxTE44eE5OOFdlOG1pVFJ6MHRZbjZNSXJGUG9qZms3OWxZalhySFgzbk5fdzlmcEMzVThYdFZCS3RabTgzVkRuQ0JNSW9OeklmT05EVHhLNXpYU0NiSmtfckhxWFFtY2R4MEN2aUo1eG95R1FxcllFdlo2Z0dKclpnSWZ1c21NbUtDYkpvX3VuMXRtalNIdXJtUi11b0xmV05KdUxUUHJQWjU3R0tUb2pzLXExVmtSNHp1cDhXSHV6dmFCNlZtVFgyOWhlZk9fX0N1NG4yZ1hRdkRDajZYdTUzYmUxUUVXbHBYR1lTYmVqRW1VbWs4Y3U2SHc?oc=5
 
-- U.S. seeks stronger ties with Pakistan, but not at India’s expense, says Rubio - The Hindu
-  U.S. seeks stronger ties with Pakistan, but not
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3BicVlvdmY3dTlkVnlpOWowRmlXeVgzTC14bUR0RFlJRXpFVmJOS1U1UzV4VGdQdGppYWVabjdTWFp1MllabW10MkFNZWdkRVluWFVNcWxUMGM4M3paVEdmSjRxVW5fX0pHRFJJVHdGT0wyV2htTVhfM3M0cnF0eXU4RUlLaWVDWE9McV9QVWhMQzRFU2VVbzNKTW1qT0RhNExOWWRvUnlZeUZuYUcwOG9reXFVbEtVYmxDNUVQelFUWlBQUFJ2cTNR0gHQAUFVX3lxTE9LRzNHVDlUM1l0aXJYM3k2cU5GbkxoVjBBMGg4dlpxNGljR0tSbVRXWHFfcXhScXFUdU1lMW1Ta19nWHBsTnNSMU8ycVoxZXNBSU9kdTkzclhGOFhUSWV3ZEdUU0tCWVRMbDFWaUVDRWR0ZjR1aVBLTW11bVlaRkx2VU9TamtqUVBDdXQzOWFIck5DcngwZ2ZaZ1BnRTg5aU5JeHBOSFlyRlhyUThYbnRFQWx2aVFrRFE1UHlaYlAtSThYWVlfejY3ZXEtNU1wNU0?oc=5
-
-- Another Hit Job Falls Flat: Washington Post's Credibility Crisis in India - NDTV
-  The Washington Post's Credibility crisis
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHFkUmJwN0ZUZjdmbVA1NlRRWDUzWWZSUWRsYy1xOHpMUHZpX0xXWldfenlRTTd0c2ktOWx1aV9IN0hBaW1WblRKV1Z4cGVQMnpqVVVod3BwMzR1bUw1MkpjTHQ0bDAzR2RCUzJrOGdzMkdJY0VxTVZNS2ZKeDR2UTJtV0VQX3h3X2xtcG5Bc1hLdjA3RGZRdEl1U1BkTFBQNXYtenVHeDRnVVdsMFlhWdIBuAFBVV95cUxQRXZqLXV6bExyQVQ5N3YzaTltVE52SjVEX0FIc3h5SEY4ajBoMG9SdUo1bnp0NmlkQ1VidC1xV2s3d3lrV1R5VnZIT3ZTR2w2bzI0WXViLXpzbTh1MUpkQnI3VGlTQmlVRHdsbXlNdzJpLWhkbXByRnQ1SjluMW9rYm1lWk1oZmFSU2YwRnUyeEZTWGZTcUVDYTdnZjdDbERPb05CYjNSeWJlbEhhNmJNclhnMVR6cnlw?oc=5
-
-- 'Image of country ... ': SC slams states, UTs on stray dog case; chief secretaries told to appear on Nove - Times of India
-  'Image of country ... ': SC slams states, UTs on stray dog case. Chief secretaries
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQlNjVXNxcmROYVppd3RBam9HY2VQcGQtemRJazcwa2QyaTJTdnVWZi10amREME1hVVJNTy1nd2xwQ0NuNzNvNG5Yb2tEeVg5cmNqbV81bTY4WkRwSXZzVndfaUNyd1hDZ0I2anlHTDJlNnZMa3RQVFdIejNRaEJ3R3cyaVI5a1hCM2xWbXhVbnNVazN6YzY0OEUybW4yNlNWWUhZaGJac1VvY0FmZ0I3eW1EM2tMYUtxdGw3VktSV2xZRjZDNXRYNVVZU3NJSFB1NndjZlNXNDZmVnY2SHdSN05GNkc1UkJCT2RrVjlLSzRxdTBiV0xmd2NJSVlqQdIBgwJBVV95cUxPNjVDTjlSRERwSkVtNnM3MDhuTWI4eXZjakltUmhlYzFhWlVqLU1qSnF3S2tkMExRTHM4NnFGejZGTzNlV1FuU2R0NHJ6QzYyYXlXVC1SUWNzRWExcDI1YXM1M09iVVdKUlI3NThqU0xOWlFkSXd2ZzBfQTFDRzV1dTU4aGp4eUtyb29Ra1FCYTE1bm1JMmdMbWVTcG5vUmN1NHlBZjA1MG9uMlJDa2VwS09sd1VKWjdQckh5aEoweG9Sek9nRG1xaVBpWUx6ZmI4RmtnSGQxeUhlc0R6OW5LYUU1S0pldHdralpFM0RNd0pYVUNHQVA0WmdlQXF6ekd5WW5N?oc=5
-
-- "US Seeks Closer Ties With Pak, But Not At India's Expense": Marco Rubio - NDTV
-  "US Seeks Closer Ties With Pak,
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQakVyd0JULVhPTm15bFVfN3duQnIxWmduQTdqWHhMdlNxa01LdTJiUTJFeGI3cGJqSUJCd3JlZDU1V3ZjU1RqNzJrLTNTd0JPak9SNHB0ekwxenFJdmlEQU40cDlXUWtfSEl3SUE0cVd4WndWeEZLdGNNQzZzUFNPMFo2R0VVOGpidS1WMVQwLU53MS1GOElucXoxUWxnaktFV3pJM2gtNlg4Vk5lWkw0eEZCX21yNndYOHJMdkU5NzdPZUFiTm1DTFJIWnBrRE3SAdcBQVVfeXFMUF9PWFFxTmVjNnJQb3p5b290WGJyMmRjM2FMZXRjd09sZXZwWTFqLVpBWjhJNjgtNHA2a1ZaWGdGV1FfYjRtNlZ2cVU2aThFd2prTUl1ckhKYUtUeWdXZ3FSWkJFOVMwUV9COU11eDR5anpqUjIyMXJrZTlERm5yckJncTlRU25ncHE1MmVEZnNvekxxZndJQ3d6bHZRcG5pTThfMkMwVS1vLXFHaHZMaVVXODR4aXAzZ2JKY0dhdEtXRzhjTzAwWGFYMW4zMDBIQU1jVHQyWkE?oc=5
-
-- 'Not at India's expense': US state secretary Marco Rubio's big remark on US-Pakistan ties - what he said - Times of India
-  'Not at India's expense': US state secretary Marco Rubio's big remark on US-
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZFBtTDFtdFZOSXRTSlJ3eGVtRnRkU0hkcTFaLVBQaFFISGQxTHFnb29Gb2FHM1phQlhSbkhiVkI4cURZb3BHOVNFNEhGSnZEMkgyMllHc1NIWFg4Q3Zocmx2VllSYXRISVBDRTF6Z1BqTHJvOFc4MEdUTGtkRkM4cTF2a3QzWFBrckk3QmxKMGFmczlKdGVaeEswUDZiWi1qbVN6ZTc0SUlObzh0M2ttbzJ6bXlzR3FWZDdUMk0zMWRySWR5NlhFN0lSZmsyaVJwSVJLaFFjWDNGTVhLRkxJMjZyb3FpN1Nzb0VIWV94aTVTc1J4SDBHaWo2VC3SAYICQVVfeXFMT3EtOFhtUkZXYXVGZVN1Zzh5eGZqZl9jQ21ydGwzWlRGUC1tRW9jcTVrSzNzVWhJbjFzTHVkeGFjVUdVaGFJU29PU3J1cXM4MVBBRW5wMUxMRFZhdElURE1sTVMxUF9Na0cxQ2o4VVh3SXFiRG1ickhPVmtKa2RSUkhMblNqaUxaem9KQzZuZEdMMTFNUGFqSnRLY0hzbmVjekJ3TW4zRlRrQVJMakRPVElaUGZHWDRNTW9tUVNaazEzcTBfR2ZsZDdfSDdMR1J5UG9YbHZMZGJDbEZ4aEtIdkV3WGdSUlZUUFg5T1Y4RW5FTjZhM09mYnhrNFUtQ1VNUDFn?oc=5
-
-- U.S. seeks stronger ties with Pakistan, but not at India’s expense, says Rubio - The Hindu
-  U.S. seeks stronger ties with Pakistan, but not
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3BicVlvdmY3dTlkVnlpOWowRmlXeVgzTC14bUR0RFlJRXpFVmJOS1U1UzV4VGdQdGppYWVabjdTWFp1MllabW10MkFNZWdkRVluWFVNcWxUMGM4M3paVEdmSjRxVW5fX0pHRFJJVHdGT0wyV2htTVhfM3M0cnF0eXU4RUlLaWVDWE9McV9QVWhMQzRFU2VVbzNKTW1qT0RhNExOWWRvUnlZeUZuYUcwOG9reXFVbEtVYmxDNUVQelFUWlBQUFJ2cTNR0gHQAUFVX3lxTE9LRzNHVDlUM1l0aXJYM3k2cU5GbkxoVjBBMGg4dlpxNGljR0tSbVRXWHFfcXhScXFUdU1lMW1Ta19nWHBsTnNSMU8ycVoxZXNBSU9kdTkzclhGOFhUSWV3ZEdUU0tCWVRMbDFWaUVDRWR0ZjR1aVBLTW11bVlaRkx2VU9TamtqUVBDdXQzOWFIck5DcngwZ2ZaZ1BnRTg5aU5JeHBOSFlyRlhyUThYbnRFQWx2aVFrRFE1UHlaYlAtSThYWVlfejY3ZXEtNU1wNU0?oc=5
-
-- Another Hit Job Falls Flat: Washington Post's Credibility Crisis in India - NDTV
-  The Washington Post's Credibility crisis
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHFkUmJwN0ZUZjdmbVA1NlRRWDUzWWZSUWRsYy1xOHpMUHZpX0xXWldfenlRTTd0c2ktOWx1aV9IN0hBaW1WblRKV1Z4cGVQMnpqVVVod3BwMzR1bUw1MkpjTHQ0bDAzR2RCUzJrOGdzMkdJY0VxTVZNS2ZKeDR2UTJtV0VQX3h3X2xtcG5Bc1hLdjA3RGZRdEl1U1BkTFBQNXYtenVHeDRnVVdsMFlhWdIBuAFBVV95cUxQRXZqLXV6bExyQVQ5N3YzaTltVE52SjVEX0FIc3h5SEY4ajBoMG9SdUo1bnp0NmlkQ1VidC1xV2s3d3lrV1R5VnZIT3ZTR2w2bzI0WXViLXpzbTh1MUpkQnI3VGlTQmlVRHdsbXlNdzJpLWhkbXByRnQ1SjluMW9rYm1lWk1oZmFSU2YwRnUyeEZTWGZTcUVDYTdnZjdDbERPb05CYjNSeWJlbEhhNmJNclhnMVR6cnlw?oc=5
-
-- 'Image of country ... ': SC slams states, UTs on stray dog case; chief secretaries told to appear on Nove - Times of India
-  'Image of country ... ': SC slams states, UTs on stray dog case. Chief secretaries
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQlNjVXNxcmROYVppd3RBam9HY2VQcGQtemRJazcwa2QyaTJTdnVWZi10amREME1hVVJNTy1nd2xwQ0NuNzNvNG5Yb2tEeVg5cmNqbV81bTY4WkRwSXZzVndfaUNyd1hDZ0I2anlHTDJlNnZMa3RQVFdIejNRaEJ3R3cyaVI5a1hCM2xWbXhVbnNVazN6YzY0OEUybW4yNlNWWUhZaGJac1VvY0FmZ0I3eW1EM2tMYUtxdGw3VktSV2xZRjZDNXRYNVVZU3NJSFB1NndjZlNXNDZmVnY2SHdSN05GNkc1UkJCT2RrVjlLSzRxdTBiV0xmd2NJSVlqQdIBgwJBVV95cUxPNjVDTjlSRERwSkVtNnM3MDhuTWI4eXZjakltUmhlYzFhWlVqLU1qSnF3S2tkMExRTHM4NnFGejZGTzNlV1FuU2R0NHJ6QzYyYXlXVC1SUWNzRWExcDI1YXM1M09iVVdKUlI3NThqU0xOWlFkSXd2ZzBfQTFDRzV1dTU4aGp4eUtyb29Ra1FCYTE1bm1JMmdMbWVTcG5vUmN1NHlBZjA1MG9uMlJDa2VwS09sd1VKWjdQckh5aEoweG9Sek9nRG1xaVBpWUx6ZmI4RmtnSGQxeUhlc0R6OW5LYUU1S0pldHdralpFM0RNd0pYVUNHQVA0WmdlQXF6ekd5WW5N?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- B1/B2 visa approved in seconds, Indian applicant shares 'luck based' experience | Hindustan Times - Hindustan Times
+  B1/B2 visa approved in seconds, Indian applicant shares
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY2xzenFKenhwLVAwOWF2Q3g0Tk9JWm1SMkJPRld2dUdfNmN0NlJYQzlta0VBQkZKNnRCTGwtMUI2bGhZR2owQ3BuNFhsUG00NksyNHBSM2xBQWROdHNwcUQ0dHZFbVlUcjE3bUdlUjZUVkszLXlHenJ5ZHl4Z2tRcDF6X1VSVXdqOHlJWTBVQ1VNbWxYOHM4VTVYM2NhTUZWS0haWFV3dEhxeEhndkdvcmY1aHZwcFJYX0FwaHNGcnhZZmJzWHU4N3pDMnJZMmhGdXRKSzlVYTVoekNVOTZ30gHkAUFVX3lxTE9kazkzV29zbDhWd2pseDVIbVREOVFoamZDdDh3bU9ySFQ2cnlPTHpYQ3ZGeVMyMTR4a3ROaWZLYUNaUFZXQ3AxbU1LaGI0TGRscXZPV3RQcFJMbzdEVVpsY05MTXoza1hjbThvZURlQVpKdEZ6aElxRlRoUXRiYjRYcUxtTmdibF82SzdNVGNvSXdGMXF1Q1A4ZFc5QkFRODdlVWk0S3h1U25ScWh5OUM4UVkwRkZnVWdaMmdxcU02cVZmcVdUeFZJU1Z4dXlmSW1uc0lJREhob0dfRGZLZDF5NVRQOA?oc=5
 
 
-_Last updated: 2025-10-27 06:29:59 UTC_
+_Last updated: 2025-10-27 12:35:55 UTC_
