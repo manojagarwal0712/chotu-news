@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- On sexual harassment of Australian cricketers, BJP’s Kailash Vijayvargiya: ‘Lesson for all, including players… should inform security before stepping out’
+- First gallery of Yuge Yugeen Bharat Museum to open 2026-end
   
-  🔗 https://indianexpress.com/article/india/on-sexual-harassment-of-australian-cricketers-bjps-kailash-vijayvargiya-lesson-for-all-including-players-should-inform-security-before-stepping-out-10328601/
+  🔗 https://indianexpress.com/article/india/first-gallery-of-yuge-yugeen-bharat-museum-to-open-2026-end-10328779/
 
-- Agartala to get air connectivity to Bagdogra in West Bengal, travelling to Darjeeling set to get easier
+- Uttarakhand plans ‘green cess’ for vehicles from outside state
   
-  🔗 https://indianexpress.com/article/india/agartala-air-connectivity-to-bagdogra-in-west-bengal-darjeeling-10328534/
+  🔗 https://indianexpress.com/article/india/uttarakhand-plans-green-cess-for-vehicles-from-outside-state-10328680/
 
-- Indian envoy to US discusses trade deal, energy security with US Senator
+- Another NC MP takes on Omar Abdullah, says no progress on political issues of J&K
   
-  🔗 https://indianexpress.com/article/india/india-us-trade-deal-energy-security-envoy-us-senator-10328537/
+  🔗 https://indianexpress.com/article/india/another-nc-mp-takes-on-omar-abdullah-says-no-progress-on-political-issues-of-jk-10328809/
 
-- Man, accused of raping mentally challenged woman, paraded, beaten to death in Jharkhand
+- PM Modi: Vande Mataram spirit linked to nation’s immortal consciousness
   
-  🔗 https://indianexpress.com/article/india/man-accused-of-raping-woman-paraded-beaten-to-death-in-jharkhand-10328529/
+  🔗 https://indianexpress.com/article/india/pm-modi-vande-mataram-spirit-linked-to-nations-immortal-consciousness-10328808/
 
-- Tiger kills man in Mysuru village, second case in a month
+- 21 armed Maoists surrender in Bastar; region on path of stability, development: IG
   
-  🔗 https://indianexpress.com/article/india/tiger-kills-man-in-village-of-mysuru-district-10328484/
+  🔗 https://indianexpress.com/article/india/21-armed-maoists-surrender-in-bastar-region-on-path-of-stability-development-ig-10328667/
 
 - Meta’s chief AI scientist warns that humanoid robot startups are in a bubble
   
@@ -40,85 +40,65 @@
   
   🔗 https://indianexpress.com/article/technology/science/sam-altman-brain-implant-startup-merge-labs-ultrasound-magnetic-field-10326286/
 
-- Novartis ‘nears’ deal to acquire Avidity Biosciences for more than $70/share, says report
-  Novartis AG is close to acquiring Avidity Biosciences Inc.
-  🔗 https://www.livemint.com/companies/news/novartis-ag-nears-deal-acquire-biotech-firm-avidity-biosciences-for-more-than-70-per-share-announce-october-says-report-11761493803094.html
+- 'Not at India's expense': On US relations with Pakistan, Rubio has a ‘history’ argument | Latest News India - Hindustan Times
+  'Not at India's expense': On US relations with Pakistan, Rubio has a �
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUmIwZHMxMmczekljSVV5QjdIN3lpRk1tcDBUai1oUVE5TEVQSXFxeXpJZkRJV3U0bXBfd3lNdm5tXzdKUVdicWJYNWF5eUs2d0RCYjB2X2twa0c1WWFZWlpBUEhqeFhrZGRjN1hyWXBHV3RBNGxuSVFyeHpqdzJXOWhNRllKcl9UOW1sRjFyZmpXeWVFTlRDOVRzazRiUjFzTDVpblZ6N2c5SEktWnlDVkhKWjNid1FvbjloWnBKNklHM1Y5SktyNmUtRGQ2NnI5UHpob2phS0h1VnAySzY5Y2R4NGdqS29neFV0cVdjQUR5UXlEZzJuLUhn0gH_AUFVX3lxTE5Tb045Q01fdmN5TVVNN0txZS1ySy1qNjRFeWNLTmNoamJQNlBhM0ZNaDNGMGJ5TVYyS0FZaEVQZk5IaC1pWkxHTE9aRW5selJEY05iT3JsSU5uU3pxb3UtNzJGNGh3cHh6UTk3amFCNHhFR2FRZ2h5LXFFaEFSRFNZMkxzWTNsTEkzMXRPcEFIeVRaY2hZNFo1X3pfSEZERmtwcmJrZUJ4ZDJYMnpBUElvcG9yX3BCMkZqM3pMQkQyUDhvbGgwMmRsX2ZoNzE5NDQyV3EtZ3VxMk92YlFyNnNidFp2aHVxdjY0Qm8xZGRUYjJ1VGRpNHAzbS1xdXJ4NA?oc=5
 
-- India’s 10-minute service apps clock high festival bookings as demand for instant help soars
-  Instant home-service platforms experienced a major surge. Driven
-  🔗 https://www.livemint.com/companies/news/10minute-service-festival-bookings-instant-help-urban-company-snabbit-pronto-domestic-help-grooming-appliance-repair-11761474032806.html
+- 'Not at India's expense': US state secretary Marco Rubio's big remark on US-Pakistan ties - what he said - Times of India
+  'Not at India's expense': US state secretary Marco Rubio's big remark on US-
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZFBtTDFtdFZOSXRTSlJ3eGVtRnRkU0hkcTFaLVBQaFFISGQxTHFnb29Gb2FHM1phQlhSbkhiVkI4cURZb3BHOVNFNEhGSnZEMkgyMllHc1NIWFg4Q3Zocmx2VllSYXRISVBDRTF6Z1BqTHJvOFc4MEdUTGtkRkM4cTF2a3QzWFBrckk3QmxKMGFmczlKdGVaeEswUDZiWi1qbVN6ZTc0SUlObzh0M2ttbzJ6bXlzR3FWZDdUMk0zMWRySWR5NlhFN0lSZmsyaVJwSVJLaFFjWDNGTVhLRkxJMjZyb3FpN1Nzb0VIWV94aTVTc1J4SDBHaWo2VC3SAYICQVVfeXFMT3EtOFhtUkZXYXVGZVN1Zzh5eGZqZl9jQ21ydGwzWlRGUC1tRW9jcTVrSzNzVWhJbjFzTHVkeGFjVUdVaGFJU29PU3J1cXM4MVBBRW5wMUxMRFZhdElURE1sTVMxUF9Na0cxQ2o4VVh3SXFiRG1ickhPVmtKa2RSUkhMblNqaUxaem9KQzZuZEdMMTFNUGFqSnRLY0hzbmVjekJ3TW4zRlRrQVJMakRPVElaUGZHWDRNTW9tUVNaazEzcTBfR2ZsZDdfSDdMR1J5UG9YbHZMZGJDbEZ4aEtIdkV3WGdSUlZUUFg5T1Y4RW5FTjZhM09mYnhrNFUtQ1VNUDFn?oc=5
 
-- SBI looks to fill 18,000 jobs! From officers, to clerical roles and gender diversity — here's all you need to know
-  SBI has recruited 505 Probationary Officers and is filling more vacancies. The public sector lender is looking to hire for 18,000 roles across categories.
-  🔗 https://www.livemint.com/companies/news/state-bank-india-sbi-jobs-18000-vacancy-officers-clerks-junior-associates-30-pc-women-workforce-gender-diversity-details-11761472753427.html
+- U.S. seeks stronger ties with Pakistan, but not at India’s expense, says Rubio - The Hindu
+  U.S. seeks stronger ties with Pakistan, but not
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3BicVlvdmY3dTlkVnlpOWowRmlXeVgzTC14bUR0RFlJRXpFVmJOS1U1UzV4VGdQdGppYWVabjdTWFp1MllabW10MkFNZWdkRVluWFVNcWxUMGM4M3paVEdmSjRxVW5fX0pHRFJJVHdGT0wyV2htTVhfM3M0cnF0eXU4RUlLaWVDWE9McV9QVWhMQzRFU2VVbzNKTW1qT0RhNExOWWRvUnlZeUZuYUcwOG9reXFVbEtVYmxDNUVQelFUWlBQUFJ2cTNR0gHQAUFVX3lxTE9LRzNHVDlUM1l0aXJYM3k2cU5GbkxoVjBBMGg4dlpxNGljR0tSbVRXWHFfcXhScXFUdU1lMW1Ta19nWHBsTnNSMU8ycVoxZXNBSU9kdTkzclhGOFhUSWV3ZEdUU0tCWVRMbDFWaUVDRWR0ZjR1aVBLTW11bVlaRkx2VU9TamtqUVBDdXQzOWFIck5DcngwZ2ZaZ1BnRTg5aU5JeHBOSFlyRlhyUThYbnRFQWx2aVFrRFE1UHlaYlAtSThYWVlfejY3ZXEtNU1wNU0?oc=5
 
-- Will Elon Musk's Tesla cease to exist in next 10 years? Ex-Stellantis CEO's grim prediction of EV maker's future
-  Former Stellantis CEO Carlos Tavares predicts the company may exit the automotive sector amid competition
-  🔗 https://www.livemint.com/companies/news/will-elon-musks-tesla-cease-to-exist-in-next-10-years-ex-stellantis-ceos-grim-prediction-of-ev-makers-future-11761466488617.html
+- MS Swaminathan: The scientist who saved India from hunger - BBC
+  MS Swaminathan: The scientist
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rNkl3M0R6UFpteWM4Qm9DY3U4eklXMkRrMVNScFdWZnVtMU9VQ1hXcm5qbzV0bWRHcE9PbE1MUWNNSnNkdlBMZnhHUUx3enBnN3gzTl9oVUZnUdIBX0FVX3lxTE9XUXNrN2dCSjJYZjd0eTEzZHh1STR5M0YybldvamNnVUE0UGFsWE0tRUtpZC1RQkxaMjU1X2JPd3VHYUhqdHZmRjN5UzhvLXVBV3N2UjB6NWhNMnBhQ2ZZ?oc=5
 
-- Meta lays off 600 AI jobs, including 100 reviewing user privacy; memo reads ‘fewer conversations ... to make decision’
-   Meta plans to lay off 600 employees in its AI division reportedly to accelerate product development. The cuts include 100 jobs in the risk review team
-  🔗 https://www.livemint.com/companies/news/meta-lays-off-600-ai-jobs-including-100-reviewing-user-privacy-memo-reads-fewer-conversations-to-make-decision-11761442202360.html
+- Families of 30 stampede victims to meet Vijay: TVK | Latest News India - Hindustan Times
+  Families of 30 stampede victims to meet Vijay
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNekFmWG5YWWg0MndlbHdpMlgwRnNPdHJGZjJpOWRseHN0S2JNTlFwS1NZUTJMQjJqNnRRVG1EVmYteUQxU29MSU9fSXdKckxtWDl2TmpTRlRYUlZkSEs5YTg0MHFFSE5DWnB3QS1aSjBzMURfLXB6R3dGR2RQUEh2S0kyQTViVU40anBodklCallIM2xBRFUxQ3UzdEhZcHQwZWZxb0FhU2hZUUFrZlBlaWlB0gG3AUFVX3lxTE5KSjFfN1EyRDVBcHRiWUZMZU5Rdk1UZ0FralA2RTNqXzFZUFB6NERzOUJ2UjczekMxZzJjMkxnZmwyOFhMVEZ2eUxZTmI3dlUzNmhYcVdremtRVTVPLWJ4cTBWcUc5SFJqZmlLdUdkT3B3N3U2VFRvd0s1UXlEeUF3ZEsxN0pGZ3ZPUkJpZUtyWFRTVVFaXzdKbU95SFhwUzhnZ2kxSGczTjhIVlphVkxaTWt5eUptbw?oc=5
 
-- Wall Street Week Ahead: Markets brace for pivotal week of Fed rate decision, Big Tech earnings
-  Investors are widely anticipating the US central bank will enact another 25 basis point interest rate cut on Wednesday.
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-markets-brace-for-pivotal-week-of-fed-rate-decision-big-tech-earnings-11761487299436.html
+- Global Markets Today: Nikkei 225 crosses 50,000 mark, Kospi rises 2% on US-China trade talks
+  South Korea's Kospi surged 1.83 per cent after reaching an all-time high
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-nikkei-225-crosses-50-000-mark-kospi-rises-2-on-us-china-trade-talks-11761525793246.html
 
-- Nifty's course to record high could be choppy
-   improved earnings prospects due to fiscal and monetary push at home, and easing tariff terms with the US could provide triggers for a
-  🔗 https://www.livemint.com/market/nifty-50-course-to-record-high-could-be-choppy-rbi-mutual-funds-large-caps-trade-war-markets-bta-export-sectors-11761477157443.html
+- Lenskart IPO: Price band set at  ₹382-402 per share; check key dates, issue details, more
+  Lenskart IPO price band is set at  ₹382 to  ⁹402, with subscriptions open from October 31 to November 4. The company aims
+  🔗 https://www.livemint.com/market/ipo/lenskart-ipo-price-band-set-at-rs-382-402-per-share-check-key-dates-issue-details-more-11761495332830.html
 
-- Upcoming IPOs: Orkla India IPO, Jayesh Logistics IPO among public issues to open next week
-  Orkla India IPO among the mainboard public issue. Jayesh Logistics IPO, Game Changers Texfab IPO,
-  🔗 https://www.livemint.com/market/stock-market-news/upcoming-ipos-orkla-india-ipo-jayesh-logistics-ipo-among-public-issues-to-open-next-week-11761462661058.html
+- Stock market today: Trade setup for Nifty 50, Gift Nifty, India-US trade deal to gold prices - 8 stocks to buy
+  Sensex and Nifty 50 dropped due to profit-taking, ending Friday lower. Despite this pullback, both indices showed weekly increases.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-gift-nifty-india-us-trade-deal-to-gold-prices-8-stocks-to-buy-11761490118023.html
 
-- Mcap of 7 of top 10 most valued firms surges by  ₹1.55 lakh crore; Reliance Industries, TCS among biggest gainers
-  Reliance Industries, Bharti Airtel, TCS, State Bank of India, Bajaj Finance, Inf
-  🔗 https://www.livemint.com/market/mcap-of-7-of-top-10-most-valued-firms-surges-by-1-55-lakh-crore-reliance-industries-tcs-among-biggest-gainers-11761460809481.html
+- Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Axis Bank, Kansai Nerolac shares on 27 October 2025
+  Indian stock market recorded its longest gain streak in 2025. Nifty 50 fell slightly on Friday, but both indices rose 0.3% for the week.
+  🔗 https://www.livemint.com/market/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-axis-bank-kansai-nerolac-shares-on-27-october-2025-11761494042605.html
 
-- Q2 results 2025: L&amp;T, ITC, Indian Oil, Swiggy, Adani Green among companies to declare earnings next week
-  Larsen &amp;amp; Toubro, ITC, Indian Oil, Swiggy, Ad
-  🔗 https://www.livemint.com/market/stock-market-news/q2-results-2025-l-t-itc-indian-oil-swiggy-adani-green-among-companies-to-declare-earnings-next-week-11761458191542.html
+- Stocks to buy: Raja Venkatraman's top midcap picks for 27 October
+  Market expert Raja Venkatraman shares his top three midcap stock picks to buy today, 27 October
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatramans-top-midcap-picks-27-october-sensex-nifty-market-setup-11761390446938.html
 
-- Survival instinct? New study says some leading AI models won’t let themselves be shut down
-  A Palisade Research report highlights the troubling resistance of advanced AI models to shutdown commands. Despite efforts to clarify instructions, Grok-4 exhibited significant defiance. Experts
-  🔗 https://www.livemint.com/technology/tech-news/survival-instinct-new-study-says-some-leading-ai-models-won-t-let-themselves-be-shut-down-11761498288384.html
+- Asian stocks rally as trade tensions ease, gold drops
+  Signs of a nearing US-China trade deal sparked a broad market rally. Investors are anticipating a potential accord, with top negotiators reporting progress. This development is seen as a short-term risk-on cue.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-rally-as-trade-tensions-ease-gold-drops/articleshow/124837368.cms
 
-- After viral portraits, Google Gemini can now create presentations for you in seconds: here's how to get started
-  Gemini is set to roll out a presentation creation feature. It will allow users to generate presentations from documents or text prompts. This capability is currently available for Pro users and
-  🔗 https://www.livemint.com/technology/tech-news/after-viral-portraits-gemini-nano-banana-can-now-create-presentations-for-you-in-seconds-heres-how-to-get-started-11761494824372.html
+- Adani Group's long-term bonds continue to interest institutions
+  Adani Group companies are actively raising substantial funds through long-term corporate bonds. The group has tapped the domestic bond market multiple times, offering maturities of up to 19 years.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/adani-groups-long-term-bonds-continue-to-interest-institutions/articleshow/124837354.cms
 
-- Instagram finally lets you relive every Reel you’ve watched with ‘Watch History’ feature
-   Instagram's new 'Watch History' feature enables users to track their watched reels without saving them. Users
-  🔗 https://www.livemint.com/technology/tech-news/instagram-finally-lets-you-relive-every-reel-you-ve-watched-with-watch-history-feature-11761487515331.html
+- FPIs turn bullish on India as short covering drives market higher
+  Overseas fund managers are exhibiting their most bullish sentiment towards Indian equities since July. This shift follows a recent market bounce, bringing indices close to all-time highs.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-bullish-on-india-as-short-covering-drives-market-higher/articleshow/124837305.cms
 
-- After iPhone 17 Pro, Apple could be planning to bring vapor chamber cooling to more devices: here's what to expect
-  Apple plans to introduce vapor cooling in the next iPad Pro. This technology aims to address overheating issues during demanding tasks while enhancing performance.
-  🔗 https://www.livemint.com/technology/tech-news/after-iphone-17-pro-apple-could-be-planning-to-bring-vapor-chamber-cooling-to-more-devices-ipad-pro-11761482967408.html
+- Market fragility tests options traders as volatility abates
+  Recent market behavior shows fragility despite low overall volatility. VIX surged on minor S&amp;P 500 drops. Extreme reaction, exceeding past events, was amplified by option market makers.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-fragility-tests-options-traders-as-volatility-abates/articleshow/124837265.cms
 
-- Bengaluru educated techie uses ChatGPT for job search, lands 7 interviews in just two months: here's what he did
-  Amar Saurabh, a former product manager at Meta and TikTok used a custom GPT to enhance his job search. The techie ended up
-  🔗 https://www.livemint.com/technology/tech-news/bengaluru-educated-techie-uses-chatgpt-for-job-search-lands-7-interviews-in-just-two-months-heres-what-he-did-11761477094026.html
-
-- Did Radhakishan Damani dump Trent? Inside the retail king’s mysterious exit from Tata’s hottest stock
-  Radhakishan Damani appears to have exited his decade-old stake in Tata Group’s retail arm, Trent. His holding, once 2.74% in 2010, has fallen below 1% in the September 2025 quarter
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/did-radhakishan-damani-dump-trent-inside-the-retail-kings-mysterious-exit-from-tatas-hottest-stock/articleshow/124826693.cms
-
-- BEL, Solar Industries, PTC to see upside up to 46%, Goldman Sachs says amid Rs 790 billion defence push
-  Goldman Sachs turned bullish on India’s defence sector after DAC cleared Rs 790 billion in new projects. The brokerage sees up to 46% upside, citing strong order visibility and expanding opportunities in naval and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bel-solar-industries-ptc-to-see-upside-up-to-46-goldman-sachs-says-amid-rs-790-billion-defence-push/articleshow/124826115.cms
-
-- Ahead of Market: 10 things that will decide D-Street action on Monday
-  Indian markets saw mixed activity on Friday, with over 155 stocks hitting 52-week highs. Notable gainers included SCI, Hindalco, and Cummins India. Overall sentiment was bearish, with 2,323 of 4
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/124825901.cms
-
-- NPS 2.0: India’s most underrated wealth engine just got turbocharged
-  The National Pension System (NPS) is undergoing a silent revolution. Over 9 crore Indians are already part of the system, which offers tax benefits, low costs, and long-term wealth-building potential.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nps-2-0-indias-most-underrated-wealth-engine-just-got-turbocharged/articleshow/124825700.cms
-
-- Q2 results this week: Swiggy, Adani Green, ITC, L&amp;T among 300-plus firms set to declare September earnings, Maruti Q2
-  Over 300 companies, including major names like Adani, ITC, Larsen &amp; Toubro, and Swiggy, are set to announce Q2 FY26 results this week. Earnings from sectors spanning energy, banking
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/q2-results-this-week-swiggy-adani-green-itc-lt-among-300-plus-firms-set-to-declare-september-earnings-maruti-q2/articleshow/124825632.cms
+- Pre-market action: Here's the trade setup for today's session
+  Indian equities are expected to trade range-bound, influenced by global cues, upcoming results, and macro data. FII inflows and positive management commentary could support momentum, though profit booking is anticipated.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124829605.cms
 
 - 'Not at India's expense': On US relations with Pakistan, Rubio has a ‘history’ argument | Latest News India - Hindustan Times
   'Not at India's expense': On US relations with Pakistan, Rubio has a �
@@ -128,17 +108,17 @@
   'Not at India's expense': US state secretary Marco Rubio's big remark on US-
   🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZFBtTDFtdFZOSXRTSlJ3eGVtRnRkU0hkcTFaLVBQaFFISGQxTHFnb29Gb2FHM1phQlhSbkhiVkI4cURZb3BHOVNFNEhGSnZEMkgyMllHc1NIWFg4Q3Zocmx2VllSYXRISVBDRTF6Z1BqTHJvOFc4MEdUTGtkRkM4cTF2a3QzWFBrckk3QmxKMGFmczlKdGVaeEswUDZiWi1qbVN6ZTc0SUlObzh0M2ttbzJ6bXlzR3FWZDdUMk0zMWRySWR5NlhFN0lSZmsyaVJwSVJLaFFjWDNGTVhLRkxJMjZyb3FpN1Nzb0VIWV94aTVTc1J4SDBHaWo2VC3SAYICQVVfeXFMT3EtOFhtUkZXYXVGZVN1Zzh5eGZqZl9jQ21ydGwzWlRGUC1tRW9jcTVrSzNzVWhJbjFzTHVkeGFjVUdVaGFJU29PU3J1cXM4MVBBRW5wMUxMRFZhdElURE1sTVMxUF9Na0cxQ2o4VVh3SXFiRG1ickhPVmtKa2RSUkhMblNqaUxaem9KQzZuZEdMMTFNUGFqSnRLY0hzbmVjekJ3TW4zRlRrQVJMakRPVElaUGZHWDRNTW9tUVNaazEzcTBfR2ZsZDdfSDdMR1J5UG9YbHZMZGJDbEZ4aEtIdkV3WGdSUlZUUFg5T1Y4RW5FTjZhM09mYnhrNFUtQ1VNUDFn?oc=5
 
-- U.S. looking to expand strategic relationship with Pakistan, but not at expense of ties with India: Rubio - The Hindu
-  U.S. looking to expand strategic relationship with Pakistan, but not at expense
+- U.S. seeks stronger ties with Pakistan, but not at India’s expense, says Rubio - The Hindu
+  U.S. seeks stronger ties with Pakistan, but not
   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3BicVlvdmY3dTlkVnlpOWowRmlXeVgzTC14bUR0RFlJRXpFVmJOS1U1UzV4VGdQdGppYWVabjdTWFp1MllabW10MkFNZWdkRVluWFVNcWxUMGM4M3paVEdmSjRxVW5fX0pHRFJJVHdGT0wyV2htTVhfM3M0cnF0eXU4RUlLaWVDWE9McV9QVWhMQzRFU2VVbzNKTW1qT0RhNExOWWRvUnlZeUZuYUcwOG9reXFVbEtVYmxDNUVQelFUWlBQUFJ2cTNR0gHQAUFVX3lxTE9LRzNHVDlUM1l0aXJYM3k2cU5GbkxoVjBBMGg4dlpxNGljR0tSbVRXWHFfcXhScXFUdU1lMW1Ta19nWHBsTnNSMU8ycVoxZXNBSU9kdTkzclhGOFhUSWV3ZEdUU0tCWVRMbDFWaUVDRWR0ZjR1aVBLTW11bVlaRkx2VU9TamtqUVBDdXQzOWFIck5DcngwZ2ZaZ1BnRTg5aU5JeHBOSFlyRlhyUThYbnRFQWx2aVFrRFE1UHlaYlAtSThYWVlfejY3ZXEtNU1wNU0?oc=5
 
 - MS Swaminathan: The scientist who saved India from hunger - BBC
   MS Swaminathan: The scientist
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rNkl3M0R6UFpteWM4Qm9DY3U4eklXMkRrMVNScFdWZnVtMU9VQ1hXcm5qbzV0bWRHcE9PbE1MUWNNSnNkdlBMZnhHUUx3enBnN3gzTl9oVUZnUdIBX0FVX3lxTE9XUXNrN2dCSjJYZjd0eTEzZHh1STR5M0YybldvamNnVUE0UGFsWE0tRUtpZC1RQkxaMjU1X2JPd3VHYUhqdHZmRjN5UzhvLXVBV3N2UjB6NWhNMnBhQ2ZZ?oc=5
 
-- 3,417 people take part in India Post Mysuru Marathon - Times of India
-  3,417 people take part in India Post
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVEFjWFp2SHlPVGpmU2o2WTJUTjRXalUxaWI0Qk9ZU1h3SXpIZW9haXREdmRERG5Xb3BNNHNOby1JYUhiR3poWE1WNHl2S3pHQm12SmRsOGdESk9RVUswRlVSejBlS0NWZnlrOEFJUEs5Z0VhX0xNUVhKZXMtY2dGdEtweEdoNUM1Q3pjRGRlNXNoR1NpSGtBVmJuMW1WRXdhREk5V1lKemkxRFlHMEJHTFd3RkFQM1lBeWNwS1NGYjdubDDSAcgBQVVfeXFMT2FmdmhQemduaFVqYkwtb1BRN3NES3ZsaWp3SU9teGhEOFFqWm45VHE3dmFHakFRR1k2ZDFRUzN3LU9iQ01pX3hCaTk4RW16NGxHUHhGaTVBUnUyeG91U1g3aDU5OUZaTGlnWkJWeUQ3OVBWNFoxd1FQYlJRbXhyV2hKOHB2SmRxVEhUcWJZM1hpWUVQVjQwN2EyT0txU3pqdmthRHV1SXlqeFQ1OGQ5a3Q3bkNsOUV6NWx3bXBBUWdSMTUwNF9WNW0?oc=5
+- Families of 30 stampede victims to meet Vijay: TVK | Latest News India - Hindustan Times
+  Families of 30 stampede victims to meet Vijay
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNekFmWG5YWWg0MndlbHdpMlgwRnNPdHJGZjJpOWRseHN0S2JNTlFwS1NZUTJMQjJqNnRRVG1EVmYteUQxU29MSU9fSXdKckxtWDl2TmpTRlRYUlZkSEs5YTg0MHFFSE5DWnB3QS1aSjBzMURfLXB6R3dGR2RQUEh2S0kyQTViVU40anBodklCallIM2xBRFUxQ3UzdEhZcHQwZWZxb0FhU2hZUUFrZlBlaWlB0gG3AUFVX3lxTE5KSjFfN1EyRDVBcHRiWUZMZU5Rdk1UZ0FralA2RTNqXzFZUFB6NERzOUJ2UjczekMxZzJjMkxnZmwyOFhMVEZ2eUxZTmI3dlUzNmhYcVdremtRVTVPLWJ4cTBWcUc5SFJqZmlLdUdkT3B3N3U2VFRvd0s1UXlEeUF3ZEsxN0pGZ3ZPUkJpZUtyWFRTVVFaXzdKbU95SFhwUzhnZ2kxSGczTjhIVlphVkxaTWt5eUptbw?oc=5
 
 - 'Not at India's expense': On US relations with Pakistan, Rubio has a ‘history’ argument | Latest News India - Hindustan Times
   'Not at India's expense': On US relations with Pakistan, Rubio has a �
@@ -148,37 +128,37 @@
   'Not at India's expense': US state secretary Marco Rubio's big remark on US-
   🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZFBtTDFtdFZOSXRTSlJ3eGVtRnRkU0hkcTFaLVBQaFFISGQxTHFnb29Gb2FHM1phQlhSbkhiVkI4cURZb3BHOVNFNEhGSnZEMkgyMllHc1NIWFg4Q3Zocmx2VllSYXRISVBDRTF6Z1BqTHJvOFc4MEdUTGtkRkM4cTF2a3QzWFBrckk3QmxKMGFmczlKdGVaeEswUDZiWi1qbVN6ZTc0SUlObzh0M2ttbzJ6bXlzR3FWZDdUMk0zMWRySWR5NlhFN0lSZmsyaVJwSVJLaFFjWDNGTVhLRkxJMjZyb3FpN1Nzb0VIWV94aTVTc1J4SDBHaWo2VC3SAYICQVVfeXFMT3EtOFhtUkZXYXVGZVN1Zzh5eGZqZl9jQ21ydGwzWlRGUC1tRW9jcTVrSzNzVWhJbjFzTHVkeGFjVUdVaGFJU29PU3J1cXM4MVBBRW5wMUxMRFZhdElURE1sTVMxUF9Na0cxQ2o4VVh3SXFiRG1ickhPVmtKa2RSUkhMblNqaUxaem9KQzZuZEdMMTFNUGFqSnRLY0hzbmVjekJ3TW4zRlRrQVJMakRPVElaUGZHWDRNTW9tUVNaazEzcTBfR2ZsZDdfSDdMR1J5UG9YbHZMZGJDbEZ4aEtIdkV3WGdSUlZUUFg5T1Y4RW5FTjZhM09mYnhrNFUtQ1VNUDFn?oc=5
 
-- U.S. looking to expand strategic relationship with Pakistan, but not at expense of ties with India: Rubio - The Hindu
-  U.S. looking to expand strategic relationship with Pakistan, but not at expense
+- U.S. seeks stronger ties with Pakistan, but not at India’s expense, says Rubio - The Hindu
+  U.S. seeks stronger ties with Pakistan, but not
   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3BicVlvdmY3dTlkVnlpOWowRmlXeVgzTC14bUR0RFlJRXpFVmJOS1U1UzV4VGdQdGppYWVabjdTWFp1MllabW10MkFNZWdkRVluWFVNcWxUMGM4M3paVEdmSjRxVW5fX0pHRFJJVHdGT0wyV2htTVhfM3M0cnF0eXU4RUlLaWVDWE9McV9QVWhMQzRFU2VVbzNKTW1qT0RhNExOWWRvUnlZeUZuYUcwOG9reXFVbEtVYmxDNUVQelFUWlBQUFJ2cTNR0gHQAUFVX3lxTE9LRzNHVDlUM1l0aXJYM3k2cU5GbkxoVjBBMGg4dlpxNGljR0tSbVRXWHFfcXhScXFUdU1lMW1Ta19nWHBsTnNSMU8ycVoxZXNBSU9kdTkzclhGOFhUSWV3ZEdUU0tCWVRMbDFWaUVDRWR0ZjR1aVBLTW11bVlaRkx2VU9TamtqUVBDdXQzOWFIck5DcngwZ2ZaZ1BnRTg5aU5JeHBOSFlyRlhyUThYbnRFQWx2aVFrRFE1UHlaYlAtSThYWVlfejY3ZXEtNU1wNU0?oc=5
 
 - MS Swaminathan: The scientist who saved India from hunger - BBC
   MS Swaminathan: The scientist
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rNkl3M0R6UFpteWM4Qm9DY3U4eklXMkRrMVNScFdWZnVtMU9VQ1hXcm5qbzV0bWRHcE9PbE1MUWNNSnNkdlBMZnhHUUx3enBnN3gzTl9oVUZnUdIBX0FVX3lxTE9XUXNrN2dCSjJYZjd0eTEzZHh1STR5M0YybldvamNnVUE0UGFsWE0tRUtpZC1RQkxaMjU1X2JPd3VHYUhqdHZmRjN5UzhvLXVBV3N2UjB6NWhNMnBhQ2ZZ?oc=5
 
-- 3,417 people take part in India Post Mysuru Marathon - Times of India
-  3,417 people take part in India Post
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVEFjWFp2SHlPVGpmU2o2WTJUTjRXalUxaWI0Qk9ZU1h3SXpIZW9haXREdmRERG5Xb3BNNHNOby1JYUhiR3poWE1WNHl2S3pHQm12SmRsOGdESk9RVUswRlVSejBlS0NWZnlrOEFJUEs5Z0VhX0xNUVhKZXMtY2dGdEtweEdoNUM1Q3pjRGRlNXNoR1NpSGtBVmJuMW1WRXdhREk5V1lKemkxRFlHMEJHTFd3RkFQM1lBeWNwS1NGYjdubDDSAcgBQVVfeXFMT2FmdmhQemduaFVqYkwtb1BRN3NES3ZsaWp3SU9teGhEOFFqWm45VHE3dmFHakFRR1k2ZDFRUzN3LU9iQ01pX3hCaTk4RW16NGxHUHhGaTVBUnUyeG91U1g3aDU5OUZaTGlnWkJWeUQ3OVBWNFoxd1FQYlJRbXhyV2hKOHB2SmRxVEhUcWJZM1hpWUVQVjQwN2EyT0txU3pqdmthRHV1SXlqeFQ1OGQ5a3Q3bkNsOUV6NWx3bXBBUWdSMTUwNF9WNW0?oc=5
+- Families of 30 stampede victims to meet Vijay: TVK | Latest News India - Hindustan Times
+  Families of 30 stampede victims to meet Vijay
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNekFmWG5YWWg0MndlbHdpMlgwRnNPdHJGZjJpOWRseHN0S2JNTlFwS1NZUTJMQjJqNnRRVG1EVmYteUQxU29MSU9fSXdKckxtWDl2TmpTRlRYUlZkSEs5YTg0MHFFSE5DWnB3QS1aSjBzMURfLXB6R3dGR2RQUEh2S0kyQTViVU40anBodklCallIM2xBRFUxQ3UzdEhZcHQwZWZxb0FhU2hZUUFrZlBlaWlB0gG3AUFVX3lxTE5KSjFfN1EyRDVBcHRiWUZMZU5Rdk1UZ0FralA2RTNqXzFZUFB6NERzOUJ2UjczekMxZzJjMkxnZmwyOFhMVEZ2eUxZTmI3dlUzNmhYcVdremtRVTVPLWJ4cTBWcUc5SFJqZmlLdUdkT3B3N3U2VFRvd0s1UXlEeUF3ZEsxN0pGZ3ZPUkJpZUtyWFRTVVFaXzdKbU95SFhwUzhnZ2kxSGczTjhIVlphVkxaTWt5eUptbw?oc=5
 
-- 'Not at India's expense': On US relations with Pakistan, Rubio has a ‘history’ argument | Latest News India - Hindustan Times
-  'Not at India's expense': On US relations with Pakistan, Rubio has a �
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUmIwZHMxMmczekljSVV5QjdIN3lpRk1tcDBUai1oUVE5TEVQSXFxeXpJZkRJV3U0bXBfd3lNdm5tXzdKUVdicWJYNWF5eUs2d0RCYjB2X2twa0c1WWFZWlpBUEhqeFhrZGRjN1hyWXBHV3RBNGxuSVFyeHpqdzJXOWhNRllKcl9UOW1sRjFyZmpXeWVFTlRDOVRzazRiUjFzTDVpblZ6N2c5SEktWnlDVkhKWjNid1FvbjloWnBKNklHM1Y5SktyNmUtRGQ2NnI5UHpob2phS0h1VnAySzY5Y2R4NGdqS29neFV0cVdjQUR5UXlEZzJuLUhn0gH_AUFVX3lxTE5Tb045Q01fdmN5TVVNN0txZS1ySy1qNjRFeWNLTmNoamJQNlBhM0ZNaDNGMGJ5TVYyS0FZaEVQZk5IaC1pWkxHTE9aRW5selJEY05iT3JsSU5uU3pxb3UtNzJGNGh3cHh6UTk3amFCNHhFR2FRZ2h5LXFFaEFSRFNZMkxzWTNsTEkzMXRPcEFIeVRaY2hZNFo1X3pfSEZERmtwcmJrZUJ4ZDJYMnpBUElvcG9yX3BCMkZqM3pMQkQyUDhvbGgwMmRsX2ZoNzE5NDQyV3EtZ3VxMk92YlFyNnNidFp2aHVxdjY0Qm8xZGRUYjJ1VGRpNHAzbS1xdXJ4NA?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- 'Not at India's expense': US state secretary Marco Rubio's big remark on US-Pakistan ties - what he said - Times of India
-  'Not at India's expense': US state secretary Marco Rubio's big remark on US-
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZFBtTDFtdFZOSXRTSlJ3eGVtRnRkU0hkcTFaLVBQaFFISGQxTHFnb29Gb2FHM1phQlhSbkhiVkI4cURZb3BHOVNFNEhGSnZEMkgyMllHc1NIWFg4Q3Zocmx2VllSYXRISVBDRTF6Z1BqTHJvOFc4MEdUTGtkRkM4cTF2a3QzWFBrckk3QmxKMGFmczlKdGVaeEswUDZiWi1qbVN6ZTc0SUlObzh0M2ttbzJ6bXlzR3FWZDdUMk0zMWRySWR5NlhFN0lSZmsyaVJwSVJLaFFjWDNGTVhLRkxJMjZyb3FpN1Nzb0VIWV94aTVTc1J4SDBHaWo2VC3SAYICQVVfeXFMT3EtOFhtUkZXYXVGZVN1Zzh5eGZqZl9jQ21ydGwzWlRGUC1tRW9jcTVrSzNzVWhJbjFzTHVkeGFjVUdVaGFJU29PU3J1cXM4MVBBRW5wMUxMRFZhdElURE1sTVMxUF9Na0cxQ2o4VVh3SXFiRG1ickhPVmtKa2RSUkhMblNqaUxaem9KQzZuZEdMMTFNUGFqSnRLY0hzbmVjekJ3TW4zRlRrQVJMakRPVElaUGZHWDRNTW9tUVNaazEzcTBfR2ZsZDdfSDdMR1J5UG9YbHZMZGJDbEZ4aEtIdkV3WGdSUlZUUFg5T1Y4RW5FTjZhM09mYnhrNFUtQ1VNUDFn?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- U.S. looking to expand strategic relationship with Pakistan, but not at expense of ties with India: Rubio - The Hindu
-  U.S. looking to expand strategic relationship with Pakistan, but not at expense
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3BicVlvdmY3dTlkVnlpOWowRmlXeVgzTC14bUR0RFlJRXpFVmJOS1U1UzV4VGdQdGppYWVabjdTWFp1MllabW10MkFNZWdkRVluWFVNcWxUMGM4M3paVEdmSjRxVW5fX0pHRFJJVHdGT0wyV2htTVhfM3M0cnF0eXU4RUlLaWVDWE9McV9QVWhMQzRFU2VVbzNKTW1qT0RhNExOWWRvUnlZeUZuYUcwOG9reXFVbEtVYmxDNUVQelFUWlBQUFJ2cTNR0gHQAUFVX3lxTE9LRzNHVDlUM1l0aXJYM3k2cU5GbkxoVjBBMGg4dlpxNGljR0tSbVRXWHFfcXhScXFUdU1lMW1Ta19nWHBsTnNSMU8ycVoxZXNBSU9kdTkzclhGOFhUSWV3ZEdUU0tCWVRMbDFWaUVDRWR0ZjR1aVBLTW11bVlaRkx2VU9TamtqUVBDdXQzOWFIck5DcngwZ2ZaZ1BnRTg5aU5JeHBOSFlyRlhyUThYbnRFQWx2aVFrRFE1UHlaYlAtSThYWVlfejY3ZXEtNU1wNU0?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- MS Swaminathan: The scientist who saved India from hunger - BBC
-  MS Swaminathan: The scientist
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rNkl3M0R6UFpteWM4Qm9DY3U4eklXMkRrMVNScFdWZnVtMU9VQ1hXcm5qbzV0bWRHcE9PbE1MUWNNSnNkdlBMZnhHUUx3enBnN3gzTl9oVUZnUdIBX0FVX3lxTE9XUXNrN2dCSjJYZjd0eTEzZHh1STR5M0YybldvamNnVUE0UGFsWE0tRUtpZC1RQkxaMjU1X2JPd3VHYUhqdHZmRjN5UzhvLXVBV3N2UjB6NWhNMnBhQ2ZZ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- 3,417 people take part in India Post Mysuru Marathon - Times of India
-  3,417 people take part in India Post
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVEFjWFp2SHlPVGpmU2o2WTJUTjRXalUxaWI0Qk9ZU1h3SXpIZW9haXREdmRERG5Xb3BNNHNOby1JYUhiR3poWE1WNHl2S3pHQm12SmRsOGdESk9RVUswRlVSejBlS0NWZnlrOEFJUEs5Z0VhX0xNUVhKZXMtY2dGdEtweEdoNUM1Q3pjRGRlNXNoR1NpSGtBVmJuMW1WRXdhREk5V1lKemkxRFlHMEJHTFd3RkFQM1lBeWNwS1NGYjdubDDSAcgBQVVfeXFMT2FmdmhQemduaFVqYkwtb1BRN3NES3ZsaWp3SU9teGhEOFFqWm45VHE3dmFHakFRR1k2ZDFRUzN3LU9iQ01pX3hCaTk4RW16NGxHUHhGaTVBUnUyeG91U1g3aDU5OUZaTGlnWkJWeUQ3OVBWNFoxd1FQYlJRbXhyV2hKOHB2SmRxVEhUcWJZM1hpWUVQVjQwN2EyT0txU3pqdmthRHV1SXlqeFQ1OGQ5a3Q3bkNsOUV6NWx3bXBBUWdSMTUwNF9WNW0?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
 
-_Last updated: 2025-10-26 18:24:14 UTC_
+_Last updated: 2025-10-27 01:21:55 UTC_
