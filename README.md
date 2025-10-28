@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- President Murmu to take sortie in Rafale fighter jet tomorrow
+- Officiating appointments to top posts: Himachal Guv seeks explanation from chief secretary
   
-  🔗 https://indianexpress.com/article/india/president-murmu-sortie-rafale-fighter-jet-10332158/
+  🔗 https://indianexpress.com/article/india/officiating-appointments-to-top-posts-himachal-guv-seeks-explanation-from-chief-secretary-10332781/
 
-- Centre releases rates of nutrient-based subsidy on phosphatic and potassic fertilisers, check details here
+- Tripura woman arrested for ‘spreading obscenity’ on Facebook against PM Modi and CM Saha
   
-  🔗 https://indianexpress.com/article/india/centre-nutrient-based-subsidy-rates-phosphatic-potassic-fertilisers-10331983/
+  🔗 https://indianexpress.com/article/india/tripura-woman-arrested-for-spreading-obscenity-on-facebook-against-pm-modi-and-cm-saha-10332658/
 
-- ‘Watch your tone’: Bihar SHO suspended after CCTV footage shows him confronting brother, sister at eatery
+- BJP trying to ‘win by deletion’: Tamil Nadu CM Stalin slams SIR, calls all-party meeting
   
-  🔗 https://indianexpress.com/article/india/watch-your-tone-bihar-sho-suspended-cctv-footage-brother-sister-10332115/
+  🔗 https://indianexpress.com/article/india/bjp-trying-to-win-by-deletion-tamil-nadu-cm-mk-stalin-slams-sir-10332519/
 
-- 10-year-old girl dies in IED blast in Jharkhand’s West Singhbhum
+- Tejashwi upfront, youth, women, jobs focus as Mahagathbandhan unveils manifesto
   
-  🔗 https://indianexpress.com/article/india/10-year-old-girl-dies-in-ied-blast-in-jharkhands-west-singhbhum-10332084/
+  🔗 https://indianexpress.com/article/india/tejashwi-upfront-youth-women-jobs-focus-mahagathbandhan-unveils-manifesto-10332429/
 
-- Jobs to free electricity: Mahagathbandhan releases Bihar Election manifesto ‘Tejashwi Pran Patra’
+- Pinarayi, Stalin take hard line on SIR, target EC for ‘plot to disenfranchise voters’
   
-  🔗 https://indianexpress.com/article/india/mahagathbandhan-releases-bihar-election-manifesto-tejashwi-pran-patra-promises-10331395/
+  🔗 https://indianexpress.com/article/india/pinarayi-stalin-take-hard-line-on-sir-target-ec-for-plot-to-disenfranchise-voters-10332441/
+
+- Space junk: How Earth’s orbit became a floating landfill
+  
+  🔗 https://indianexpress.com/article/technology/science/space-junk-how-earths-orbit-became-a-floating-landfill-10332465/
+
+- Microsoft and OpenAI revise deal terms, require external panel to evaluate AGI claims
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-openai-revise-deal-agi-verification-10332457/
+
+- Microsoft, OpenAI reach new deal to allow OpenAI to restructure
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-openai-reach-new-deal-to-allow-openai-to-restructure-10332314/
+
+- Everything Adobe announced at Max 2025: Firefly Image 5, soundtrack generator, AI assistants
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/everything-adobe-announced-max-2025-firefly-image-5-ai-assistants-10332294/
 
 - Amazon lays off 14,000 corporate employees as ‘AI’ continues to take whitecollar jobs
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-layoffs-14000-employees-ai-whitecollar-jobs-10332147/
 
-- Samsung’s tri-fold Galaxy Z leaks online: Here’s what it looks like
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-g-fold-tri-fold-phone-apec-showcase-first-look-video-10331945/
+- UPS Layoffs: 34,000 workers laid off in first 9 months of 2025 amid turnaround efforts
+  The 34,000 eliminated jobs marked a 70 per cent increase from its previous target. UPS had in April said it was planning to lay off 20,
+  🔗 https://www.livemint.com/companies/news/ups-layoffs-34-000-workers-laid-off-in-first-9-months-of-2025-amid-turnaround-efforts-11761668799973.html
 
-- 5 weather apps that go beyond rain forecasts with AQI, allergy data and RealFeel tracking
-  
-  🔗 https://indianexpress.com/article/technology/techook/5-weather-apps-that-go-beyond-rain-forecasts-with-aqi-allergy-data-10331986/
+- Jindal Steel to have a CEO after five years as Gautam Malhotra is elevated
+  Jindal Steel's net profit stood at  ₹638 crore in Q2, a decline of about 26
+  🔗 https://www.livemint.com/companies/jindal-steel-names-gautam-malhotra-ceo-q2-profit-falls-misses-estimates-11761663246396.html
 
-- More than a million ChatGPT users showed signs of suicidal thoughts, OpenAI study reveals
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/million-chatgpt-users-suicidal-thoughts-openai-study-highlights-10331876/
+- Office developers sniff a service opportunity in India's GCC boom
+  As the GCC opportunity grows, developers are looking to provide real estate, operational support, talent acquisition, technology, and regulatory compliance support services
+  🔗 https://www.livemint.com/companies/global-capability-centres-regulatory-compliance-support-gcc-lifecycle-11761647621244.html
 
-- Battlefield 6’s new battle royale mode RedSec launches October 28: Here’s what to expect
-  
-  🔗 https://indianexpress.com/article/technology/gaming/battlefield-6-ea-redsec-battle-royale-mode-free-october-28-india-time-10331589/
+- Nvidia to invest $1 billion for 2.9% stake in Nokia amid push towards artificial intelligence — Here's what we know
+  US-based big tech firm, Nvidia Corp., announced its plans to invest $1 billion in Nokia Oyj to acquire a 2.9
+  🔗 https://www.livemint.com/companies/news/nvidia-to-invest-1-billion-for-2-9-stake-in-nokia-amid-push-towards-artificial-intelligence-heres-what-we-know-11761668574553.html
 
-- Oil India explores equity investments in BPCL's proposed  ₹1 tn refinery in Andhra Pradesh
-  BPCL's proposed project has already secured key statutory clearances and 6,000 acres of land near Ramayapatnam Port. OIL will
-  🔗 https://www.livemint.com/companies/oil-india-bharat-petroleum-refinery-andhra-pradesh-greenfield-refinery-project-11761649383037.html
+- Adani Green Q2 profit jumps 25% as it adds 2.4GW capacity in six months
+  Adani Green Energy's operational capacity stands at 16.7GW as of 30 September, keeping it on track
+  🔗 https://www.livemint.com/companies/news/adani-green-energy-q2-results-profit-jumps-capacity-additions-targets-earnings-11761660739117.html
 
-- India’s top-funded space startup tees up for country’s 1st private rocket launch
-  Skyroot Aerospace plans to launch India’s first privately built commercial rocket within three months. The Temasek- and GIC-backed space startup aims to scale to one launch every three months
-  🔗 https://www.livemint.com/companies/start-ups/india-space-startup-skyroot-private-rocket-launch-11761623312736.html
+- US Fed Meeting: Date, time, when and where to watch Fed chair Jerome Powell’s speech
+  The US Federal Reserve is hosting its two-day policy meeting to discuss and announce the key benchmark interest rates for the US economy. Here's when and where to watch Fed
+  🔗 https://www.livemint.com/market/stock-market-news/us-fed-meeting-date-time-when-and-where-to-watch-fed-chair-jerome-powell-s-speech-11761671859419.html
 
-- Who is Mehli Mistry, the close confidante of Ratan Tata who was voted out of the Tata Trusts board on Wednesday?
-  Mehli Mistry, a close confidante of Ratan Tata, was ousted from the boards of Tata Trusts. Cyrus Mistry was ousted as the chairman of Tata Sons nine years ago.
-  🔗 https://www.livemint.com/companies/people/mehli-mistry-close-confidante-of-ratan-tata-voted-out-of-tata-sons-board-philanthropic-entities-exit-business-trustees-11761643507742.html
+- Sebi proposes major overhaul of mutual fund rules to cut investor costs
+  Regulator plans to revamp TER structure, tighten brokerage limits, and expand
+  🔗 https://www.livemint.com/market/sebi-overhaul-mutual-fund-rules-cut-investor-costs-11761668151981.html
 
-- Amazon layoffs: Who will get laid-off, from when and why as online retail giant cuts 14,000 jobs — All you need to know
-  The e-commerce giant said that the move is due to over hiring during the COVID-19 pandemic. This is the company's biggest job cuts
-  🔗 https://www.livemint.com/companies/news/amazon-layoffs-14000-jobs-who-affect-corporate-employees-when-october-28-why-overhiring-pandemic-reduce-expenses-11761642456687.html
+- Microsoft stock jumps over 4% after tech giant reaches $500 billion valuation deal with ChatGPT-maker OpenAI
+  Microsoft stock jumped more than 4% during the intraday Wall Street session on 28 October 2025. Tech giant reached a $500 billion valuation
+  🔗 https://www.livemint.com/market/stock-market-news/microsoft-stock-jumps-over-4-after-tech-giant-reaches-135-million-deal-with-chatgpt-maker-openai-11761666432546.html
 
-- IT firms have found a workaround H-1B visa hike. And it's boosting margins.
-  Five of the country’s 13 large IT solutions providers recorded improved operating margins in the September quarter.
-  🔗 https://www.livemint.com/companies/donald-trump-h-1b-visa-fee-hike-indian-it-firms-offshore-strategy-boosts-operating-margins-infosys-hcl-walmart-ltts-11761625895147.html
+- Infosys buyback: What past offers reveal about investor sentiment and future stock direction
+  Infosys announces an  ₹18,000 crore buyback, its largest ever, amid a 25% stock decline. Historically, shares reacted negatively
+  🔗 https://www.livemint.com/market/stock-market-news/infosys-buyback-what-past-offers-reveal-about-investor-sentiment-and-future-stock-direction-11761653327665.html
 
-- How to evaluate your bonds before investing? Key steps to smart due diligence
-  Investors should understand the company that is issuing the bond and whether its business performance provides credibility that it will make interest and principal payments on time.
-  🔗 https://www.livemint.com/market/bonds/how-to-evaluate-your-bonds-before-investing-key-steps-to-smart-due-diligence-11761653946303.html
-
-- PayPal shares jump over 15% ahead of Wall Street open after payments giant strikes deal with OpenAI's ChatGPT — Details
-  PayPal shares jump over 15% ahead of Wall Street open.
-  🔗 https://www.livemint.com/market/stock-market-news/paypal-shares-jump-over-15-ahead-of-wall-street-open-after-payments-giant-strikes-deal-with-openais-chatgpt-details-11761652249383.html
-
-- Losing money in SIPs? These 5 mistakes are likely draining your returns
-  Systematic Investment Plans (SIPs) are effective for long-term wealth building.
-  🔗 https://www.livemint.com/market/stock-market-news/losing-money-in-sips-these-5-mistakes-are-likely-draining-your-returns-11761651927029.html
-
-- Municipal bonds to be eligible for repo, reverse repo deals: New asset class to help boost urban infra funding
-  Muni bonds have largely remained illiquid, held by a narrow pool of long-term investors. By allowing their use in repo markets, the government has allowed a wider spectrum of financial
-  🔗 https://www.livemint.com/market/bonds/municipal-bonds-to-be-eligible-for-repo-reverse-repo-deals-paving-way-for-new-asset-class-11761648714130.html
-
-- Mint Explainer | Unpacking Sebi’s proposal for high-value debt-listed firms
-  Sebi has recommended increasing threshold for companies that qualify as high-value debt listed entities. Sebi has
-  🔗 https://www.livemint.com/market/stock-market-news/sebi-proposals-on-debt-listed-companies-high-value-debt-corporate-bond-market-india-11761643295496.html
+- US Stock Market today: Dow, Nasdaq, S&amp;P 500 hit record high as Federal Reserve starts its policy meeting — Check details
+  Dow Jones, Nasdaq, and S&amp;amp;P 500 hit their record high levels on Tuesday, 28 October 2025. US
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-nasdaq-s-p-500-hit-record-high-as-federal-reserve-starts-its-policy-meeting-check-details-11761659707854.html
 
 - Price drop on Samsung smartwatches:Get up to 60% off the these stylish wearables at affordable prices
   The ongoing price drop on Samsung smartwatches brings discounts of up to 60%. From the sleek Galaxy Watch series to the sporty models packed with health sensors, there is something for every style and purpose
@@ -100,105 +100,105 @@
   Elon Musk's xAI has launched Grokipedia, an AI-powered encyclopedia. We tested the platform for accuracy
   🔗 https://www.livemint.com/technology/tech-news/i-tested-grokipedia-elon-musk-s-new-ai-encyclopedia-here-s-what-i-found-11761631707180.html
 
-- Stocks pause as markets brace for tech earnings, rate verdicts - Reuters
-  Stocks pause as markets brace for tech
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9BMlJZUVNmTFh0ZG14VHdJTEhWb21LWGtKREJQOGhMMjJERVhuN0lOa1hIR3QxQ0RXeXdsTk02MXF0Qk1NZWc1dFBPZzhuUTRnQWdNa1RMNzNPci1uZFhVcHdhUGF1d3ZGNFlNZ2N1dGFTbHM3MVlXZ1Fhaw?oc=5
+- Orkla India raises Rs 500 crore from anchor investors ahead of IPO; Nomura, Societe Generale among buyers
+  Orkla India secured Rs 500 crore from anchor investors. This precedes its Rs 1,667 crore Initial Public Offering opening on October 29.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/orkla-india-garners-rs-500-crore-from-anchor-investors-ahead-of-ipo/articleshow/124878057.cms
 
-- Stocks Climb on Hopes US-China Talks Will Go Well: Markets Wrap - Bloomberg.com
-  Stocks Climb on Hopes US-
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1hLaDdxbzNDNmRITDBPcEZKMVRVODBDZGd6X1pHZ0duZXlleWZ3UDFKMjNlYnI0eWdEY2MtT0NFTEdDTlM5MGRZMHlwR3lXZXdvejZRajFEMWw1dGY5cDhQV3VCa1dfT3BFNHRNSXdLcmdFQ2U3S21NaUlFUERlMWswdFE5cWhGMUdnZ19Rb0E4Q3JocERHOURpekFsTkRmWS1qVmJjbTZrb2VxZ0NsZ3lDUTY?oc=5
+- US bond yields edge lower as Fed rate decision looms
+  Investors are anticipating a 25 basis point rate cut on Wednesday. Attention is also on how the Fed will consider the US government shutdown's economic effects.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/us-bond-yields-edge-lower-as-fed-rate-decision-looms/articleshow/124877457.cms
 
-- Stock Market Today: Dow Futures Gain After UnitedHealth Earnings — Live Updates - The Wall Street Journal
-  The Wall Street Journal reports on UnitedHealth's quarterly results. The
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOQUZiSjAzQTJZTmxDSDRXU3RZMWV1d3MxLXdDWk5ZN3pqOHZRZllHa05SQXdJX1h6ajhkVmRZRXJ4U01Ub2JDRm9rMTJCVUlvbzJHZUREU0ZRMkFrZm1XUWtPS1I3TkU4MV9kVkxOVURUa1E4R2ZnY0t4M0ZhZ3lxZEJnelVScVE?oc=5
+- India's power regulator orders probe into trading platform over alleged insider trading
+  India's market regulator issued an order late on Oct.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indias-power-regulator-orders-probe-into-trading-platform-over-alleged-insider-trading/articleshow/124877119.cms
 
-- Asia markets and US stock futures rise after US and Chinese officials agree on trade deal framework - CNN
-  Asia markets and US stock futures rise after US and Chinese officials agree on trade
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE1qVDdpdlVGVkx5SEQ2R1pxVVdIMnJVTVQ5dHIyMHJrOVhpdFNFRnViVVM5b0MxODBYaEFhUzNiNldNa2FSQ0FBNE9nWEl1YS1YQTZkQlo3N3ZCemlVWko5YU5Jajkza1hSMkVoY1p1OUJ0UEFFdFRYdDNTNDlMQQ?oc=5
+- Advent International's arm exits India's Aditya Birla Capital, exchange data shows
+  Advent International's affiliate Jomei Investments divested its entire 2% equity stake in Aditya Birla Capital for approximately $186.47 million. The sale of 53.2 million shares occurred at a slight discount
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/advent-internationals-arm-exits-indias-aditya-birla-capital-exchange-data-shows/articleshow/124877025.cms
 
-- Stock Market close: Sensex down 150 pts, Nifty at 25,936; PSU Bank, Metal indices up 1%; Realty drag - Business Standard
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxOZERDRmFMUTN1SzBRYURmN0R2c1ZwdFgzRXZqcy1Nel9vMVAzcHZpUHRPMnBMSmxQdnRKQWhJM2lUVndQUGctd0hrREtFVUZsTGRJUjBYNGlRdzVTc3dhQmI5MUUwcFJ5Nk
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxOZERDRmFMUTN1SzBRYURmN0R2c1ZwdFgzRXZqcy1Nel9vMVAzcHZpUHRPMnBMSmxQdnRKQWhJM2lUVndQUGctd0hrREtFVUZsTGRJUjBYNGlRdzVTc3dhQmI5MUUwcFJ5Nk03RXRhVEpOWW9jSzhIUlVuREx3XzVublRKU2tHanQ0T0dMYVZVakZJUUM5Zk5hTGhRV3dfaURjbGRzX1E1Ni1zRFVUS3NvYXk4NXJ1c1N2TldSSWRwNmRLUUJ2VnRFYXhINUctdUpySDQyUVBJTXVrYlB5ZzI2VWwxa045eVZ5QVZKS1djQldDZ21wSWtucGxhdEpNM0tfN1NqaW5R0gGLAkFVX3lxTE53Mk51WGNPZEF5Zml5VE1BWDBkRmJUMzE1UWlHcnVVMDViSGh5YlhTbHMtd0xjTF90Ul9ZZEJNUk5wMDVURUFYYzNiWjF0TGhwd2dyU0ltQWJyM2FabFZzM2xMZ0pfQWFPSFBfN0RIQlJQeUp2aF9HQ2lVREV4VlZhekhaQUhTZXd2ZDQwc19oQVpVQ2lpZVphZ1FhdWFLMGlpTEdvZkdQajU4T2ltREl5dV9uZUhKaEI3OTJFR00wQ2dIc1ZnOUR6dG5obkRxWmNwOVVfYVhVa2dHeVNyVVZHUFpXVl9RNFZlQ1VRQVZfXzQ0SFl0b2w2eC16LW50a1pTR3htdlk1dHBrZw?oc=5
+- Jindal Steel Q2 Results: Net profit drops 26% to Rs 635 crore
+  The company had clocked a net profit of Rs 860.47 crore in the July-September period of the preceding 2024-25 financial year. The company's total income rose to Rs 11,707.82 crore from Rs
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jindal-steel-q2-results-net-profit-drops-26-to-rs-635-crore/articleshow/124876961.cms
 
-- Signature Global raises Rs 875 crore from IFC to retire debt, buy land
-   Signature Global raised Rs 875 crore through NCDs from IFC. Over half to retire debt and the rest for Sohna land acquisition. The A+ rated NCD
-  🔗 https://economictimes.indiatimes.com/markets/bonds/signature-global-raises-rs-875-crore-from-ifc-to-retire-debt-buy-land/articleshow/124873288.cms
+- OpenAI to offer free one-year access to ChatGPT Go for users in India starting November 4 | Latest News India - Hindustan Times
+  OpenAI to offer free one-year access to ChatGPT Go for users in India starting
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOUVRVnJpTU5KVG56TzFRVUdLeHllX0hDX0YxQ1daZlJmbkNlWUUyak16OXJwZjlEQzh1SlRMRkN5djBMV2tJWnkwazVQb3FpTmY5cmw2QTZ0Q3ZMWDFWcEpXX0xjaWR2MzhpdXlzejN2dkJtZVFWUENiYlZLX2VURjVuOUlkS2lWQ01hZnNDV2dOLXdscEUwTnFFNjVxbDJhR1VROWVFalc2cTZfM0lpQzdhdGVpOTJsUUpYRTdQR0RGa3VlUG11SGpJQmNlMkZsYUlSUElEWWJaUHlzOUFKM3lJQ1NOUEHSAewBQVVfeXFMTjRJczExWkZ0amQzVHlXMEUwSDdPV1VxTkJhSE82ajJ2NkloYl9pejlnOWR5RkwwT2hjVk1jQXZaczQxSjhVR2lZUHpRRDRhZVJNZFpzV0ZGcjhFd2Fnd0ZJNXZaT3djT2NDcUNrY2NFNHdJdEJvMlByMXNTMnVLQXFLY19yRzFteHZXaVFDc3pHd0p2bnZJVDNHMUNtUF9lZ2VMd2lzTlZkemM4OUxnUnVTUlNMNTVpN0JCQmt5N0dWWURkMGRxalRDWGM1UmU0VWRENzZjRUNqcUFybnY5cXhSUVBXM2h2c0hjOWE?oc=5
 
-- Adani Green Q2 Results: Profit more than doubles to Rs 583 crore, total income drops 4%
-  The bottomline rose 111% from Rs 276 crore posted in the last year quarter. Total income during the quarter, however, fell 4% YoY to Rs 3,249 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/adani-green-q2-results-profit-more-than-doubles-to-rs-583-crore-yoy-total-income-drops-4/articleshow/124872790.cms
+- OpenAI Offers 'ChatGPT Go' Free For 1 Year To Users In India From November 4 - NDTV
+  OpenAI Offers 'ChatGPT Go' Free For 1
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHBaYnFvelpLaHFvcWd5NnFQY3N6VGtMM1R5aTJuYUM2b01JQ1RQOTU1a05EUW9RS3hTZ1BWaWhRZGIzVHpwNWVMQ210dEJFTXh0djE0endfa1NFSXJIT0hMQjRNbXU1MlFabDVkeXM2b3hNZnRDTXNjcFoxb3EwTFVCamZkZjAtWEhRX0V0a01QQzBfWllSOWNpWElOQXNWVE82QmdQOE91Sy1KMnNqRTdWcmXSAbwBQVVfeXFMTk9DN0FsNVJVclRmM0g4QVVJSDd2LUtndDhZTENqVGZkLWxpVzF1Qm14ckI0QTgxOFpROUM1aU54MlB2Wmc3X2k5NU1kNjRaNGUwMlRRTDdUNE1iMkFobVZiN2dUUlFFZ1BLa1N4M3REYTU2cFRRdzhJeThYTFI4SlEtSi02THh0ZTRucmJXUklKYTBpbzZ6bmdnWEpVM0JhQVBPbE9qNEJXTmlLeEJHOXZvUG13ajJDYkxTc18?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Indian markets closed lower amid profit-taking in consumer and IT stocks. But metals and PSU banks gained on optimism over
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/124872161.cms
-
-- Tata Capital Q2 Results: Cons net profit rises 2% YoY to Rs 1,097 crore; NII jumps 23%
-  Tata Capital saw a modest two percent rise in net profit, reaching one thousand ninety-seven crore rupees. Assets under management also grew substantially.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-capital-q1-results-cons-net-profit-rises-2-yoy-to-rs-1097-crore-nii-jumps-23/articleshow/124871847.cms
-
-- PSU banks to see up to $4 billion inflows if FII limit gets hiked: Report
-  India’s PSU banks may receive up to $4 billion in passive inflows if the government raises the foreign institutional investment limit to 49%. The move could drive strong rallies in key lenders like SBI, P
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/psu-banks-to-see-up-to-4-billion-inflows-if-fii-limit-gets-hiked-report/articleshow/124871601.cms
+- OpenAI to offer ChatGPT Go subscription free to all users across India - Times of India
+  OpenAI to offer ChatGPT Go subscription free to all
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdHcwajEzLXBiMk8xX3hRRDBBVEwwdFdMQWJ1MnF6THBHX2tqZHUwdzVqdDZsb1F5OHh3YzFsejE4cWZYeHNWS0s2RXp5eVEtMHNzRzNta1E2NGg1UGowMkozNFlyX2JFQWgtSkd3ZlZ3X3QzNGs5ODlKTU4xSHViWkpiNGh3b0FVYXhUZi1CZTRSR0RUMkdzaFg2bUlPaEZ3VGhLNU50RHVlZWo5MW12ZXVOTjBqNWUtQ3VZdUp6aFg0cXkxdEQ5RzdBNmFhSEdYcTBkVDZkSXUzeExwUGdLX0tnNF84eEpu0gHuAUFVX3lxTE92OW9ZX0hhaGY0X2ZSRGhoMUF2clBIY2Nlb0M5S09tN1UxOWNPZDhXZnF0MTJLSk5fMFR5ZUhFcXktQ2twOHc1cHJDZUpGLUI1elVBZXBLVEpNd1N3bVVuSFh0V3VTMVZiTGZEd19LNVV2RUFqb1ZtQ0Q2aXZ0RHowdURRNnhwdGNsZGdkSEVnbnowY2NGdU1IcU80Q0FUTFFiVWg0c1Rqdkg1MWQwQV96dC01Z01vVlp2VF8xRi0xMUxwdmFCT3BjQmtnSmw4elhJSXpCVFplY0V2SWxKQVB2SXdxdUFfa1EtV2xTeGc?oc=5
 
 - Bangladesh gets big offer from Pakistan amid frayed ties with India, via Karachi | Latest News India - Hindustan Times
   Bangladesh gets big offer from Pakistan amid frayed ties with India.
   🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZC0xbzlQSXJOUWF6SDdGcng1RmZZd3IyOTdwQy1wRlpfREZEd1phQW9kTWpfT2VQamtrVl9lQ1N4ODNDVW9yMjUxXzg3Y3d6ZHVtTTFXd0I1cVJlM0lpVWdVaHphSURTeENKeXlBYnJvRGxrZUFRaklYajJacjNEUXo4UldnRWprU205S1pKMVpQV09wM1o1ZmRUdjNIU3BZaEtvOGY4TXhwREkydzNHVS1Kc0wyaXVRbE56ZkR3NXJIVnloRGpvSkNSa2ZyaXVVMHVTT19DV0taNTZjZUhDU2d0bjUxa3ZZVWfSAe8BQVVfeXFMT0lfaGxuYlo1VU9jcG93M2tMWFZ1Z1Jrc193ZTFSemtZN09aYWUzQVdiUkVmb1pkUFJLM3g4VUpDY3Atd1NPWlptUjQyNkl2RFV2Wk9oZ0lUUFEzSEUyN2ZTa2lxaW4xQ3VvWXlOOFkzN0kwa01fTHh1SUpvT296ZjBxQ29NaExxd19Lc0NxUFhqUDJOLWNpQWVRYllITzIzekdsVF94bDJ1cWIzNE5HMnYxbm9RcjBiMXVNUFdCVzlLVXp5SU10UGFoUG55dlphQ0ZWbnl2MGFPZkhkUmV3WWRjdlNubWdZOUpmdF9DaUE?oc=5
 
-- Easing trade tensions with Trump: India’s crude imports from US surge to highest since 2022; diversificat - Times of India
-  India's crude imports from US surge to highest since 2022; diversificat.
-  🔗 https://news.google.com/rss/articles/CBMiuAJBVV95cUxQUWhFaWpBclgyUW9yYU5TMDBTSG1CaERlNVJ0bzdKdEhxQlpETHhWX2UwS2taR0NzZW0yZTZ5dWtSN1llUFUwbktwaVgxaXEyd3VjWnZON1JHUlpPRW5FbGFMZk5obllkU0lrbXlxOXZWcmJCNXY3Nk8waDVTUHdDRDZoQnM5Y29YaDl4OUxOSVNHSzJtbmtQYnROUzRrMFZMdHpNbWFNOVZvN0thWUlIREVoalhkZG1LREFRR2o0cm1OWkxKa3N5VVQ3ajIwWWhpTkp0Zm9XNndQMWJBUWk5eGdWWmlJMkNjQWtpLVBpa2UtZEFkVjJCY0R3ejItQkR1cnozXzlGS2JKODl3OVZWbDFVZGhHcnZheGdkUzRmdTNyYjdYZ3JMTTN6b2Nwek1VR2kxMkU4dEzSAb4CQVVfeXFMTTNfUm9WTHlHbUdBV0lJVk13NHhyNk5nZlJYcmNWdFc3OXphc1BPWkpWXzVkQm5UUU43bFBkcXFmWUp1cWNIUTJxdWdlX19kUVRhcy14U3l1Q3A1T2x4VlBpbHUzWFA0VGxPRURTMW5tRExtUEdZd0lET0EzQXd6ZUhQZmM3TXRnRW1JZ19YdDk5MVRHRU80Nkh1Z2w2MkVTTTdSeWMtenhzS3ZWR2JoQmItb0MtSjNya1I2bURuaHdidEZDWGppNmtRcDVtUnZLajJreE5YeDNfS29rSWxxeThjTWVZRE9LQlhTNWVGdnB1eVhpUEhWd1lXMmFISDhZbGR4WTYtWkdCV2FYdXl6YlF1TWRNejRRM3RDTHFUZTRua29YMm1WNHFoMkZLaU9kOGFQZENhTUlCN1c1ZEV3?oc=5
+- Top news of the day: October 28, 2025 - The Hindu
+  Top news of the day: October
+  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxOM2ZYYjJZRlI1MjAxREU3SHdLX3JmSzN0Zmp2S1BaelV1Q3oyMFVac0xOWmFacmtvOU5UWFdWaGJ5ZGlfNy12OGVvTzhXd19SQURDMi1qbXJmOXo2dVFsN3VPUlgwaVh3UjFhUjQzNTQ5UTBxN3RYazdzZWR6TDdFVXNpMHV0TjRSQ0JCV2JVSmxEUmlkWHlHTmJLLUxHVWtkaTJfaHRCaHRmTnNEeU9KeHdxUmJhRHpOUk1QcnM1T1Q1bktZNW5pVzZTVzJjZVRRRlFqNldjZFB1WGNubmlNRURJY0JtMkhYLWtxMGlERmUxTzhyeXNOYm5qeVhxS0hEbUNaaVdEOXc5MTA5TVNvVW9qT1dvRmQxUGhERlhZcHXSAacCQVVfeXFMTW5ENHBzSWZhRHdOQUVTMmF6dndUV3NkbjB0WDlSWDVzc19KZlRza1ZneFNXa1FWVm9Xdlc1UDhqb09MUWZGS3dpQWJSMG1JOHlrdDBneVJsUVZwSTBUbXR5SlJxQVlqZE1MSnNmVTNmdDl2SjZqTVFCdzVpaXhYcUhndElYV1NXb0dWaUNSckE3THAxbG9aTlVIVkI2czY4d01xZzJqM2dJblRqS0Q1azU4SGFsZXV6QjNpSFJmdklDTG5USV9ZVy1CeG02WFB3Z3Zhb2otcEl6RUlDd1BCSDlvM2tiamVUa254MHVWQ3JKNy1FSzhZdUZ1Q3hYSU1ZOU1wbk11V2h2STVDSWVnUFJ3cWl4aEFac0x6ZmxvWUFvREQ2enRTbw?oc=5
 
-- Evening news wrap: EC announces pan-India SIR; Rahul, Tejashwi to hold joint rallies in Bihar; & more - Times of India
-  Evening news wrap: EC announces pan-India SIR; Rahul, Tej
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZTBLRDdUbjJiT18wTjlxSm5OVHd2bjhkelBVYmw5TmZCNWt0Y1pXQWdPeUlRVExhRTBadU9OZWVfaHhJQTliVlV4MVB1eGhHclE3Qm93M2RsajhNcFljU05EZ0Z6OHVRMVlQMkVraWRDX1J0dGJTYmNocXRGMDNaYnJNM0V2b3h4dFdFc2RHcFNBX0RMQTBnSVFIcDNvNEt2Rkc1dTBIN1QyRWZ0UjVKbUhYQUR6SlZLUG5XNmpHbFh2SHAzaW1lUkUyeHFLMV9mSUk4N1haX2hEWDZmNWdKcHkxUldQUmxuWGxlLU1ZTUxua2R1OXfSAfsBQVVfeXFMTmJoWUtsTWVkaW03Rmg4cWJUR0pPMmhPREwwWkkxY1l2eFJRVlgwM09zMTBTRFljU1ptOHVXNGhKbHR1NVVUX29tbnl1WFBhdjk1eUZrX2NmTDF5cXRncXVxMkU5VUhzckk0cGRsTUpuOGFIcHhOUzEtbkNjSGRXRVcxZmxBRXN6dGt4UTdUY3ZwcHptQjJoSURyVzBrbDQydXRTMnBpR2tzZnhBS1RLaFlsVUpILXlLQnhIZEZzUjl4anJJdDZIcUh0VzBYWEl4X09uQWtSb1U0VDZHZzczZGJhQzRFZk42dGxBaXNFdjY2ZTFkdmtsZHVKNW8?oc=5
+- OpenAI to offer free one-year access to ChatGPT Go for users in India starting November 4 | Latest News India - Hindustan Times
+  OpenAI to offer free one-year access to ChatGPT Go for users in India starting
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOUVRVnJpTU5KVG56TzFRVUdLeHllX0hDX0YxQ1daZlJmbkNlWUUyak16OXJwZjlEQzh1SlRMRkN5djBMV2tJWnkwazVQb3FpTmY5cmw2QTZ0Q3ZMWDFWcEpXX0xjaWR2MzhpdXlzejN2dkJtZVFWUENiYlZLX2VURjVuOUlkS2lWQ01hZnNDV2dOLXdscEUwTnFFNjVxbDJhR1VROWVFalc2cTZfM0lpQzdhdGVpOTJsUUpYRTdQR0RGa3VlUG11SGpJQmNlMkZsYUlSUElEWWJaUHlzOUFKM3lJQ1NOUEHSAewBQVVfeXFMTjRJczExWkZ0amQzVHlXMEUwSDdPV1VxTkJhSE82ajJ2NkloYl9pejlnOWR5RkwwT2hjVk1jQXZaczQxSjhVR2lZUHpRRDRhZVJNZFpzV0ZGcjhFd2Fnd0ZJNXZaT3djT2NDcUNrY2NFNHdJdEJvMlByMXNTMnVLQXFLY19yRzFteHZXaVFDc3pHd0p2bnZJVDNHMUNtUF9lZ2VMd2lzTlZkemM4OUxnUnVTUlNMNTVpN0JCQmt5N0dWWURkMGRxalRDWGM1UmU0VWRENzZjRUNqcUFybnY5cXhSUVBXM2h2c0hjOWE?oc=5
 
-- "Will Stop Waqf Law": Big Takeaways From Mahagathbandhan's Bihar Manifesto - NDTV
-  "Will Stop Waqf Law":
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOQi1QRnc0WUZ1X05EU2lkRms5dWJHWTVTSGU0WXRRVVpWNUdOV3JMdUxMRTZIemc5TXE3OE9ueUc4Tzd5LXlRMV9UcEFCOUE2MVpOTkMwdFFPTGhPUHp2V1lZbDRyVmZYMnd4N0E0RTlJOFRNSmRGVGdTNXlybExwWTdpYlltU09KYmFISmJNY2xQZENhc0hoaTBaRnZCTjRwWWN3MmNaQURDRzlFZ1dB0gG3AUFVX3lxTFBxNzRxRUhEWGRWem1kYWFGcG0ycFF2eVJmd1h4ZU9oSmtobWhWZlhMVGhueTVXZDItc29MMTJIXzZ2Y09NTERvWG9JZXI1MWh6Vm1Mckk0MHN4T0tLQWc1TjFEU19FZzhfWHZvNVVaaVNlQXdlSWRwMWd5LUpmNDZLdE9hTnpNb1hoZDVjU1RYOWstRDBXWmRyTENTVDMxeXhOX0Mzajd6ZElZSm45VVFJcjhaYUplWQ?oc=5
+- OpenAI Offers 'ChatGPT Go' Free For 1 Year To Users In India From November 4 - NDTV
+  OpenAI Offers 'ChatGPT Go' Free For 1
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHBaYnFvelpLaHFvcWd5NnFQY3N6VGtMM1R5aTJuYUM2b01JQ1RQOTU1a05EUW9RS3hTZ1BWaWhRZGIzVHpwNWVMQ210dEJFTXh0djE0endfa1NFSXJIT0hMQjRNbXU1MlFabDVkeXM2b3hNZnRDTXNjcFoxb3EwTFVCamZkZjAtWEhRX0V0a01QQzBfWllSOWNpWElOQXNWVE82QmdQOE91Sy1KMnNqRTdWcmXSAbwBQVVfeXFMTk9DN0FsNVJVclRmM0g4QVVJSDd2LUtndDhZTENqVGZkLWxpVzF1Qm14ckI0QTgxOFpROUM1aU54MlB2Wmc3X2k5NU1kNjRaNGUwMlRRTDdUNE1iMkFobVZiN2dUUlFFZ1BLa1N4M3REYTU2cFRRdzhJeThYTFI4SlEtSi02THh0ZTRucmJXUklKYTBpbzZ6bmdnWEpVM0JhQVBPbE9qNEJXTmlLeEJHOXZvUG13ajJDYkxTc18?oc=5
 
-- RJD vs RJD and BJP's ‘nalayak’ dig over INDIA bloc's 'Jan Nayak' title for Rahul Gandhi, Tejashwi Yadav | Latest News India - Hindustan Times
-  RJD vs RJD and BJP's ‘nalayak’ dig over INDIA bloc
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTmdkWGoyUDhIcTNQRUc5SjN1VWp4bUlCVXcxcEF2eHp6eGxVMlFZanlaUmE4YTMwa3Y4WTdtLWhzaW1iRWpZRWd3WnJudFlkby1YLS1hOWs0dXEtMGNuOFVaaVZGTHJRcWxJS1ZERGF3UW9KdnlId0RFSTdDbEs0MktRNjdMcFo5dDQtUHFzX1hSdndfblZDa3AxUHlob29mZmF3LVZtVFd2X0FGNG9YVDJPUHdRYi1PUlpNT3NSWUM0MEJ1Q0x2d3g4U0d1UTVWQUFhNmJBV2U4dU1EMHRJUXA3bTF3emNI0gHuAUFVX3lxTE04ZU56cF9Na19zaVgzemRJdzRvN05MQnFjV0JpdWVGdWluRkZveFRwd2lxYVA5RkFsQ0NaLWdJcVZmOUtyZ2JkMDlQWjRJdjNnMTllN1NKUV8xMlRRZUdWSGpHbXRBNkNMNDByMlNQeEx6NVlBdmFCa3B6ZG9pMUZyd3lqZUhCSFpUQWRaelB4SVNBWGd6bVRXOF8tNk9WTW9GQzJZSmt3Ulk5RjlXdHQwUmctLU13Z0puQWZOZmE5bkxYd3hyTTdSaGxNYzFmWnlmZHVoc3lVVGRqc090aWhCWXVyS3VXUlJFVW5CTGc?oc=5
-
-- Bangladesh gets big offer from Pakistan amid frayed ties with India, via Karachi | Latest News India - Hindustan Times
-  Bangladesh gets big offer from Pakistan amid frayed ties with India.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZC0xbzlQSXJOUWF6SDdGcng1RmZZd3IyOTdwQy1wRlpfREZEd1phQW9kTWpfT2VQamtrVl9lQ1N4ODNDVW9yMjUxXzg3Y3d6ZHVtTTFXd0I1cVJlM0lpVWdVaHphSURTeENKeXlBYnJvRGxrZUFRaklYajJacjNEUXo4UldnRWprU205S1pKMVpQV09wM1o1ZmRUdjNIU3BZaEtvOGY4TXhwREkydzNHVS1Kc0wyaXVRbE56ZkR3NXJIVnloRGpvSkNSa2ZyaXVVMHVTT19DV0taNTZjZUhDU2d0bjUxa3ZZVWfSAe8BQVVfeXFMT0lfaGxuYlo1VU9jcG93M2tMWFZ1Z1Jrc193ZTFSemtZN09aYWUzQVdiUkVmb1pkUFJLM3g4VUpDY3Atd1NPWlptUjQyNkl2RFV2Wk9oZ0lUUFEzSEUyN2ZTa2lxaW4xQ3VvWXlOOFkzN0kwa01fTHh1SUpvT296ZjBxQ29NaExxd19Lc0NxUFhqUDJOLWNpQWVRYllITzIzekdsVF94bDJ1cWIzNE5HMnYxbm9RcjBiMXVNUFdCVzlLVXp5SU10UGFoUG55dlphQ0ZWbnl2MGFPZkhkUmV3WWRjdlNubWdZOUpmdF9DaUE?oc=5
-
-- Easing trade tensions with Trump: India’s crude imports from US surge to highest since 2022; diversificat - Times of India
-  India's crude imports from US surge to highest since 2022; diversificat.
-  🔗 https://news.google.com/rss/articles/CBMiuAJBVV95cUxQUWhFaWpBclgyUW9yYU5TMDBTSG1CaERlNVJ0bzdKdEhxQlpETHhWX2UwS2taR0NzZW0yZTZ5dWtSN1llUFUwbktwaVgxaXEyd3VjWnZON1JHUlpPRW5FbGFMZk5obllkU0lrbXlxOXZWcmJCNXY3Nk8waDVTUHdDRDZoQnM5Y29YaDl4OUxOSVNHSzJtbmtQYnROUzRrMFZMdHpNbWFNOVZvN0thWUlIREVoalhkZG1LREFRR2o0cm1OWkxKa3N5VVQ3ajIwWWhpTkp0Zm9XNndQMWJBUWk5eGdWWmlJMkNjQWtpLVBpa2UtZEFkVjJCY0R3ejItQkR1cnozXzlGS2JKODl3OVZWbDFVZGhHcnZheGdkUzRmdTNyYjdYZ3JMTTN6b2Nwek1VR2kxMkU4dEzSAb4CQVVfeXFMTTNfUm9WTHlHbUdBV0lJVk13NHhyNk5nZlJYcmNWdFc3OXphc1BPWkpWXzVkQm5UUU43bFBkcXFmWUp1cWNIUTJxdWdlX19kUVRhcy14U3l1Q3A1T2x4VlBpbHUzWFA0VGxPRURTMW5tRExtUEdZd0lET0EzQXd6ZUhQZmM3TXRnRW1JZ19YdDk5MVRHRU80Nkh1Z2w2MkVTTTdSeWMtenhzS3ZWR2JoQmItb0MtSjNya1I2bURuaHdidEZDWGppNmtRcDVtUnZLajJreE5YeDNfS29rSWxxeThjTWVZRE9LQlhTNWVGdnB1eVhpUEhWd1lXMmFISDhZbGR4WTYtWkdCV2FYdXl6YlF1TWRNejRRM3RDTHFUZTRua29YMm1WNHFoMkZLaU9kOGFQZENhTUlCN1c1ZEV3?oc=5
-
-- Evening news wrap: EC announces pan-India SIR; Rahul, Tejashwi to hold joint rallies in Bihar; & more - Times of India
-  Evening news wrap: EC announces pan-India SIR; Rahul, Tej
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZTBLRDdUbjJiT18wTjlxSm5OVHd2bjhkelBVYmw5TmZCNWt0Y1pXQWdPeUlRVExhRTBadU9OZWVfaHhJQTliVlV4MVB1eGhHclE3Qm93M2RsajhNcFljU05EZ0Z6OHVRMVlQMkVraWRDX1J0dGJTYmNocXRGMDNaYnJNM0V2b3h4dFdFc2RHcFNBX0RMQTBnSVFIcDNvNEt2Rkc1dTBIN1QyRWZ0UjVKbUhYQUR6SlZLUG5XNmpHbFh2SHAzaW1lUkUyeHFLMV9mSUk4N1haX2hEWDZmNWdKcHkxUldQUmxuWGxlLU1ZTUxua2R1OXfSAfsBQVVfeXFMTmJoWUtsTWVkaW03Rmg4cWJUR0pPMmhPREwwWkkxY1l2eFJRVlgwM09zMTBTRFljU1ptOHVXNGhKbHR1NVVUX29tbnl1WFBhdjk1eUZrX2NmTDF5cXRncXVxMkU5VUhzckk0cGRsTUpuOGFIcHhOUzEtbkNjSGRXRVcxZmxBRXN6dGt4UTdUY3ZwcHptQjJoSURyVzBrbDQydXRTMnBpR2tzZnhBS1RLaFlsVUpILXlLQnhIZEZzUjl4anJJdDZIcUh0VzBYWEl4X09uQWtSb1U0VDZHZzczZGJhQzRFZk42dGxBaXNFdjY2ZTFkdmtsZHVKNW8?oc=5
-
-- "Will Stop Waqf Law": Big Takeaways From Mahagathbandhan's Bihar Manifesto - NDTV
-  "Will Stop Waqf Law":
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOQi1QRnc0WUZ1X05EU2lkRms5dWJHWTVTSGU0WXRRVVpWNUdOV3JMdUxMRTZIemc5TXE3OE9ueUc4Tzd5LXlRMV9UcEFCOUE2MVpOTkMwdFFPTGhPUHp2V1lZbDRyVmZYMnd4N0E0RTlJOFRNSmRGVGdTNXlybExwWTdpYlltU09KYmFISmJNY2xQZENhc0hoaTBaRnZCTjRwWWN3MmNaQURDRzlFZ1dB0gG3AUFVX3lxTFBxNzRxRUhEWGRWem1kYWFGcG0ycFF2eVJmd1h4ZU9oSmtobWhWZlhMVGhueTVXZDItc29MMTJIXzZ2Y09NTERvWG9JZXI1MWh6Vm1Mckk0MHN4T0tLQWc1TjFEU19FZzhfWHZvNVVaaVNlQXdlSWRwMWd5LUpmNDZLdE9hTnpNb1hoZDVjU1RYOWstRDBXWmRyTENTVDMxeXhOX0Mzajd6ZElZSm45VVFJcjhaYUplWQ?oc=5
-
-- RJD vs RJD and BJP's ‘nalayak’ dig over INDIA bloc's 'Jan Nayak' title for Rahul Gandhi, Tejashwi Yadav | Latest News India - Hindustan Times
-  RJD vs RJD and BJP's ‘nalayak’ dig over INDIA bloc
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTmdkWGoyUDhIcTNQRUc5SjN1VWp4bUlCVXcxcEF2eHp6eGxVMlFZanlaUmE4YTMwa3Y4WTdtLWhzaW1iRWpZRWd3WnJudFlkby1YLS1hOWs0dXEtMGNuOFVaaVZGTHJRcWxJS1ZERGF3UW9KdnlId0RFSTdDbEs0MktRNjdMcFo5dDQtUHFzX1hSdndfblZDa3AxUHlob29mZmF3LVZtVFd2X0FGNG9YVDJPUHdRYi1PUlpNT3NSWUM0MEJ1Q0x2d3g4U0d1UTVWQUFhNmJBV2U4dU1EMHRJUXA3bTF3emNI0gHuAUFVX3lxTE04ZU56cF9Na19zaVgzemRJdzRvN05MQnFjV0JpdWVGdWluRkZveFRwd2lxYVA5RkFsQ0NaLWdJcVZmOUtyZ2JkMDlQWjRJdjNnMTllN1NKUV8xMlRRZUdWSGpHbXRBNkNMNDByMlNQeEx6NVlBdmFCa3B6ZG9pMUZyd3lqZUhCSFpUQWRaelB4SVNBWGd6bVRXOF8tNk9WTW9GQzJZSmt3Ulk5RjlXdHQwUmctLU13Z0puQWZOZmE5bkxYd3hyTTdSaGxNYzFmWnlmZHVoc3lVVGRqc090aWhCWXVyS3VXUlJFVW5CTGc?oc=5
+- OpenAI to offer ChatGPT Go subscription free to all users across India - Times of India
+  OpenAI to offer ChatGPT Go subscription free to all
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdHcwajEzLXBiMk8xX3hRRDBBVEwwdFdMQWJ1MnF6THBHX2tqZHUwdzVqdDZsb1F5OHh3YzFsejE4cWZYeHNWS0s2RXp5eVEtMHNzRzNta1E2NGg1UGowMkozNFlyX2JFQWgtSkd3ZlZ3X3QzNGs5ODlKTU4xSHViWkpiNGh3b0FVYXhUZi1CZTRSR0RUMkdzaFg2bUlPaEZ3VGhLNU50RHVlZWo5MW12ZXVOTjBqNWUtQ3VZdUp6aFg0cXkxdEQ5RzdBNmFhSEdYcTBkVDZkSXUzeExwUGdLX0tnNF84eEpu0gHuAUFVX3lxTE92OW9ZX0hhaGY0X2ZSRGhoMUF2clBIY2Nlb0M5S09tN1UxOWNPZDhXZnF0MTJLSk5fMFR5ZUhFcXktQ2twOHc1cHJDZUpGLUI1elVBZXBLVEpNd1N3bVVuSFh0V3VTMVZiTGZEd19LNVV2RUFqb1ZtQ0Q2aXZ0RHowdURRNnhwdGNsZGdkSEVnbnowY2NGdU1IcU80Q0FUTFFiVWg0c1Rqdkg1MWQwQV96dC01Z01vVlp2VF8xRi0xMUxwdmFCT3BjQmtnSmw4elhJSXpCVFplY0V2SWxKQVB2SXdxdUFfa1EtV2xTeGc?oc=5
 
 - Bangladesh gets big offer from Pakistan amid frayed ties with India, via Karachi | Latest News India - Hindustan Times
   Bangladesh gets big offer from Pakistan amid frayed ties with India.
   🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZC0xbzlQSXJOUWF6SDdGcng1RmZZd3IyOTdwQy1wRlpfREZEd1phQW9kTWpfT2VQamtrVl9lQ1N4ODNDVW9yMjUxXzg3Y3d6ZHVtTTFXd0I1cVJlM0lpVWdVaHphSURTeENKeXlBYnJvRGxrZUFRaklYajJacjNEUXo4UldnRWprU205S1pKMVpQV09wM1o1ZmRUdjNIU3BZaEtvOGY4TXhwREkydzNHVS1Kc0wyaXVRbE56ZkR3NXJIVnloRGpvSkNSa2ZyaXVVMHVTT19DV0taNTZjZUhDU2d0bjUxa3ZZVWfSAe8BQVVfeXFMT0lfaGxuYlo1VU9jcG93M2tMWFZ1Z1Jrc193ZTFSemtZN09aYWUzQVdiUkVmb1pkUFJLM3g4VUpDY3Atd1NPWlptUjQyNkl2RFV2Wk9oZ0lUUFEzSEUyN2ZTa2lxaW4xQ3VvWXlOOFkzN0kwa01fTHh1SUpvT296ZjBxQ29NaExxd19Lc0NxUFhqUDJOLWNpQWVRYllITzIzekdsVF94bDJ1cWIzNE5HMnYxbm9RcjBiMXVNUFdCVzlLVXp5SU10UGFoUG55dlphQ0ZWbnl2MGFPZkhkUmV3WWRjdlNubWdZOUpmdF9DaUE?oc=5
 
-- Easing trade tensions with Trump: India’s crude imports from US surge to highest since 2022; diversificat - Times of India
-  India's crude imports from US surge to highest since 2022; diversificat.
-  🔗 https://news.google.com/rss/articles/CBMiuAJBVV95cUxQUWhFaWpBclgyUW9yYU5TMDBTSG1CaERlNVJ0bzdKdEhxQlpETHhWX2UwS2taR0NzZW0yZTZ5dWtSN1llUFUwbktwaVgxaXEyd3VjWnZON1JHUlpPRW5FbGFMZk5obllkU0lrbXlxOXZWcmJCNXY3Nk8waDVTUHdDRDZoQnM5Y29YaDl4OUxOSVNHSzJtbmtQYnROUzRrMFZMdHpNbWFNOVZvN0thWUlIREVoalhkZG1LREFRR2o0cm1OWkxKa3N5VVQ3ajIwWWhpTkp0Zm9XNndQMWJBUWk5eGdWWmlJMkNjQWtpLVBpa2UtZEFkVjJCY0R3ejItQkR1cnozXzlGS2JKODl3OVZWbDFVZGhHcnZheGdkUzRmdTNyYjdYZ3JMTTN6b2Nwek1VR2kxMkU4dEzSAb4CQVVfeXFMTTNfUm9WTHlHbUdBV0lJVk13NHhyNk5nZlJYcmNWdFc3OXphc1BPWkpWXzVkQm5UUU43bFBkcXFmWUp1cWNIUTJxdWdlX19kUVRhcy14U3l1Q3A1T2x4VlBpbHUzWFA0VGxPRURTMW5tRExtUEdZd0lET0EzQXd6ZUhQZmM3TXRnRW1JZ19YdDk5MVRHRU80Nkh1Z2w2MkVTTTdSeWMtenhzS3ZWR2JoQmItb0MtSjNya1I2bURuaHdidEZDWGppNmtRcDVtUnZLajJreE5YeDNfS29rSWxxeThjTWVZRE9LQlhTNWVGdnB1eVhpUEhWd1lXMmFISDhZbGR4WTYtWkdCV2FYdXl6YlF1TWRNejRRM3RDTHFUZTRua29YMm1WNHFoMkZLaU9kOGFQZENhTUlCN1c1ZEV3?oc=5
+- Top news of the day: October 28, 2025 - The Hindu
+  Top news of the day: October
+  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxOM2ZYYjJZRlI1MjAxREU3SHdLX3JmSzN0Zmp2S1BaelV1Q3oyMFVac0xOWmFacmtvOU5UWFdWaGJ5ZGlfNy12OGVvTzhXd19SQURDMi1qbXJmOXo2dVFsN3VPUlgwaVh3UjFhUjQzNTQ5UTBxN3RYazdzZWR6TDdFVXNpMHV0TjRSQ0JCV2JVSmxEUmlkWHlHTmJLLUxHVWtkaTJfaHRCaHRmTnNEeU9KeHdxUmJhRHpOUk1QcnM1T1Q1bktZNW5pVzZTVzJjZVRRRlFqNldjZFB1WGNubmlNRURJY0JtMkhYLWtxMGlERmUxTzhyeXNOYm5qeVhxS0hEbUNaaVdEOXc5MTA5TVNvVW9qT1dvRmQxUGhERlhZcHXSAacCQVVfeXFMTW5ENHBzSWZhRHdOQUVTMmF6dndUV3NkbjB0WDlSWDVzc19KZlRza1ZneFNXa1FWVm9Xdlc1UDhqb09MUWZGS3dpQWJSMG1JOHlrdDBneVJsUVZwSTBUbXR5SlJxQVlqZE1MSnNmVTNmdDl2SjZqTVFCdzVpaXhYcUhndElYV1NXb0dWaUNSckE3THAxbG9aTlVIVkI2czY4d01xZzJqM2dJblRqS0Q1azU4SGFsZXV6QjNpSFJmdklDTG5USV9ZVy1CeG02WFB3Z3Zhb2otcEl6RUlDd1BCSDlvM2tiamVUa254MHVWQ3JKNy1FSzhZdUZ1Q3hYSU1ZOU1wbk11V2h2STVDSWVnUFJ3cWl4aEFac0x6ZmxvWUFvREQ2enRTbw?oc=5
 
-- Evening news wrap: EC announces pan-India SIR; Rahul, Tejashwi to hold joint rallies in Bihar; & more - Times of India
-  Evening news wrap: EC announces pan-India SIR; Rahul, Tej
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZTBLRDdUbjJiT18wTjlxSm5OVHd2bjhkelBVYmw5TmZCNWt0Y1pXQWdPeUlRVExhRTBadU9OZWVfaHhJQTliVlV4MVB1eGhHclE3Qm93M2RsajhNcFljU05EZ0Z6OHVRMVlQMkVraWRDX1J0dGJTYmNocXRGMDNaYnJNM0V2b3h4dFdFc2RHcFNBX0RMQTBnSVFIcDNvNEt2Rkc1dTBIN1QyRWZ0UjVKbUhYQUR6SlZLUG5XNmpHbFh2SHAzaW1lUkUyeHFLMV9mSUk4N1haX2hEWDZmNWdKcHkxUldQUmxuWGxlLU1ZTUxua2R1OXfSAfsBQVVfeXFMTmJoWUtsTWVkaW03Rmg4cWJUR0pPMmhPREwwWkkxY1l2eFJRVlgwM09zMTBTRFljU1ptOHVXNGhKbHR1NVVUX29tbnl1WFBhdjk1eUZrX2NmTDF5cXRncXVxMkU5VUhzckk0cGRsTUpuOGFIcHhOUzEtbkNjSGRXRVcxZmxBRXN6dGt4UTdUY3ZwcHptQjJoSURyVzBrbDQydXRTMnBpR2tzZnhBS1RLaFlsVUpILXlLQnhIZEZzUjl4anJJdDZIcUh0VzBYWEl4X09uQWtSb1U0VDZHZzczZGJhQzRFZk42dGxBaXNFdjY2ZTFkdmtsZHVKNW8?oc=5
+- OpenAI to offer free one-year access to ChatGPT Go for users in India starting November 4 | Latest News India - Hindustan Times
+  OpenAI to offer free one-year access to ChatGPT Go for users in India starting
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOUVRVnJpTU5KVG56TzFRVUdLeHllX0hDX0YxQ1daZlJmbkNlWUUyak16OXJwZjlEQzh1SlRMRkN5djBMV2tJWnkwazVQb3FpTmY5cmw2QTZ0Q3ZMWDFWcEpXX0xjaWR2MzhpdXlzejN2dkJtZVFWUENiYlZLX2VURjVuOUlkS2lWQ01hZnNDV2dOLXdscEUwTnFFNjVxbDJhR1VROWVFalc2cTZfM0lpQzdhdGVpOTJsUUpYRTdQR0RGa3VlUG11SGpJQmNlMkZsYUlSUElEWWJaUHlzOUFKM3lJQ1NOUEHSAewBQVVfeXFMTjRJczExWkZ0amQzVHlXMEUwSDdPV1VxTkJhSE82ajJ2NkloYl9pejlnOWR5RkwwT2hjVk1jQXZaczQxSjhVR2lZUHpRRDRhZVJNZFpzV0ZGcjhFd2Fnd0ZJNXZaT3djT2NDcUNrY2NFNHdJdEJvMlByMXNTMnVLQXFLY19yRzFteHZXaVFDc3pHd0p2bnZJVDNHMUNtUF9lZ2VMd2lzTlZkemM4OUxnUnVTUlNMNTVpN0JCQmt5N0dWWURkMGRxalRDWGM1UmU0VWRENzZjRUNqcUFybnY5cXhSUVBXM2h2c0hjOWE?oc=5
 
-- "Will Stop Waqf Law": Big Takeaways From Mahagathbandhan's Bihar Manifesto - NDTV
-  "Will Stop Waqf Law":
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOQi1QRnc0WUZ1X05EU2lkRms5dWJHWTVTSGU0WXRRVVpWNUdOV3JMdUxMRTZIemc5TXE3OE9ueUc4Tzd5LXlRMV9UcEFCOUE2MVpOTkMwdFFPTGhPUHp2V1lZbDRyVmZYMnd4N0E0RTlJOFRNSmRGVGdTNXlybExwWTdpYlltU09KYmFISmJNY2xQZENhc0hoaTBaRnZCTjRwWWN3MmNaQURDRzlFZ1dB0gG3AUFVX3lxTFBxNzRxRUhEWGRWem1kYWFGcG0ycFF2eVJmd1h4ZU9oSmtobWhWZlhMVGhueTVXZDItc29MMTJIXzZ2Y09NTERvWG9JZXI1MWh6Vm1Mckk0MHN4T0tLQWc1TjFEU19FZzhfWHZvNVVaaVNlQXdlSWRwMWd5LUpmNDZLdE9hTnpNb1hoZDVjU1RYOWstRDBXWmRyTENTVDMxeXhOX0Mzajd6ZElZSm45VVFJcjhaYUplWQ?oc=5
+- OpenAI Offers 'ChatGPT Go' Free For 1 Year To Users In India From November 4 - NDTV
+  OpenAI Offers 'ChatGPT Go' Free For 1
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHBaYnFvelpLaHFvcWd5NnFQY3N6VGtMM1R5aTJuYUM2b01JQ1RQOTU1a05EUW9RS3hTZ1BWaWhRZGIzVHpwNWVMQ210dEJFTXh0djE0endfa1NFSXJIT0hMQjRNbXU1MlFabDVkeXM2b3hNZnRDTXNjcFoxb3EwTFVCamZkZjAtWEhRX0V0a01QQzBfWllSOWNpWElOQXNWVE82QmdQOE91Sy1KMnNqRTdWcmXSAbwBQVVfeXFMTk9DN0FsNVJVclRmM0g4QVVJSDd2LUtndDhZTENqVGZkLWxpVzF1Qm14ckI0QTgxOFpROUM1aU54MlB2Wmc3X2k5NU1kNjRaNGUwMlRRTDdUNE1iMkFobVZiN2dUUlFFZ1BLa1N4M3REYTU2cFRRdzhJeThYTFI4SlEtSi02THh0ZTRucmJXUklKYTBpbzZ6bmdnWEpVM0JhQVBPbE9qNEJXTmlLeEJHOXZvUG13ajJDYkxTc18?oc=5
 
-- RJD vs RJD and BJP's ‘nalayak’ dig over INDIA bloc's 'Jan Nayak' title for Rahul Gandhi, Tejashwi Yadav | Latest News India - Hindustan Times
-  RJD vs RJD and BJP's ‘nalayak’ dig over INDIA bloc
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTmdkWGoyUDhIcTNQRUc5SjN1VWp4bUlCVXcxcEF2eHp6eGxVMlFZanlaUmE4YTMwa3Y4WTdtLWhzaW1iRWpZRWd3WnJudFlkby1YLS1hOWs0dXEtMGNuOFVaaVZGTHJRcWxJS1ZERGF3UW9KdnlId0RFSTdDbEs0MktRNjdMcFo5dDQtUHFzX1hSdndfblZDa3AxUHlob29mZmF3LVZtVFd2X0FGNG9YVDJPUHdRYi1PUlpNT3NSWUM0MEJ1Q0x2d3g4U0d1UTVWQUFhNmJBV2U4dU1EMHRJUXA3bTF3emNI0gHuAUFVX3lxTE04ZU56cF9Na19zaVgzemRJdzRvN05MQnFjV0JpdWVGdWluRkZveFRwd2lxYVA5RkFsQ0NaLWdJcVZmOUtyZ2JkMDlQWjRJdjNnMTllN1NKUV8xMlRRZUdWSGpHbXRBNkNMNDByMlNQeEx6NVlBdmFCa3B6ZG9pMUZyd3lqZUhCSFpUQWRaelB4SVNBWGd6bVRXOF8tNk9WTW9GQzJZSmt3Ulk5RjlXdHQwUmctLU13Z0puQWZOZmE5bkxYd3hyTTdSaGxNYzFmWnlmZHVoc3lVVGRqc090aWhCWXVyS3VXUlJFVW5CTGc?oc=5
+- OpenAI to offer ChatGPT Go subscription free to all users across India - Times of India
+  OpenAI to offer ChatGPT Go subscription free to all
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdHcwajEzLXBiMk8xX3hRRDBBVEwwdFdMQWJ1MnF6THBHX2tqZHUwdzVqdDZsb1F5OHh3YzFsejE4cWZYeHNWS0s2RXp5eVEtMHNzRzNta1E2NGg1UGowMkozNFlyX2JFQWgtSkd3ZlZ3X3QzNGs5ODlKTU4xSHViWkpiNGh3b0FVYXhUZi1CZTRSR0RUMkdzaFg2bUlPaEZ3VGhLNU50RHVlZWo5MW12ZXVOTjBqNWUtQ3VZdUp6aFg0cXkxdEQ5RzdBNmFhSEdYcTBkVDZkSXUzeExwUGdLX0tnNF84eEpu0gHuAUFVX3lxTE92OW9ZX0hhaGY0X2ZSRGhoMUF2clBIY2Nlb0M5S09tN1UxOWNPZDhXZnF0MTJLSk5fMFR5ZUhFcXktQ2twOHc1cHJDZUpGLUI1elVBZXBLVEpNd1N3bVVuSFh0V3VTMVZiTGZEd19LNVV2RUFqb1ZtQ0Q2aXZ0RHowdURRNnhwdGNsZGdkSEVnbnowY2NGdU1IcU80Q0FUTFFiVWg0c1Rqdkg1MWQwQV96dC01Z01vVlp2VF8xRi0xMUxwdmFCT3BjQmtnSmw4elhJSXpCVFplY0V2SWxKQVB2SXdxdUFfa1EtV2xTeGc?oc=5
+
+- Bangladesh gets big offer from Pakistan amid frayed ties with India, via Karachi | Latest News India - Hindustan Times
+  Bangladesh gets big offer from Pakistan amid frayed ties with India.
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZC0xbzlQSXJOUWF6SDdGcng1RmZZd3IyOTdwQy1wRlpfREZEd1phQW9kTWpfT2VQamtrVl9lQ1N4ODNDVW9yMjUxXzg3Y3d6ZHVtTTFXd0I1cVJlM0lpVWdVaHphSURTeENKeXlBYnJvRGxrZUFRaklYajJacjNEUXo4UldnRWprU205S1pKMVpQV09wM1o1ZmRUdjNIU3BZaEtvOGY4TXhwREkydzNHVS1Kc0wyaXVRbE56ZkR3NXJIVnloRGpvSkNSa2ZyaXVVMHVTT19DV0taNTZjZUhDU2d0bjUxa3ZZVWfSAe8BQVVfeXFMT0lfaGxuYlo1VU9jcG93M2tMWFZ1Z1Jrc193ZTFSemtZN09aYWUzQVdiUkVmb1pkUFJLM3g4VUpDY3Atd1NPWlptUjQyNkl2RFV2Wk9oZ0lUUFEzSEUyN2ZTa2lxaW4xQ3VvWXlOOFkzN0kwa01fTHh1SUpvT296ZjBxQ29NaExxd19Lc0NxUFhqUDJOLWNpQWVRYllITzIzekdsVF94bDJ1cWIzNE5HMnYxbm9RcjBiMXVNUFdCVzlLVXp5SU10UGFoUG55dlphQ0ZWbnl2MGFPZkhkUmV3WWRjdlNubWdZOUpmdF9DaUE?oc=5
+
+- Top news of the day: October 28, 2025 - The Hindu
+  Top news of the day: October
+  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxOM2ZYYjJZRlI1MjAxREU3SHdLX3JmSzN0Zmp2S1BaelV1Q3oyMFVac0xOWmFacmtvOU5UWFdWaGJ5ZGlfNy12OGVvTzhXd19SQURDMi1qbXJmOXo2dVFsN3VPUlgwaVh3UjFhUjQzNTQ5UTBxN3RYazdzZWR6TDdFVXNpMHV0TjRSQ0JCV2JVSmxEUmlkWHlHTmJLLUxHVWtkaTJfaHRCaHRmTnNEeU9KeHdxUmJhRHpOUk1QcnM1T1Q1bktZNW5pVzZTVzJjZVRRRlFqNldjZFB1WGNubmlNRURJY0JtMkhYLWtxMGlERmUxTzhyeXNOYm5qeVhxS0hEbUNaaVdEOXc5MTA5TVNvVW9qT1dvRmQxUGhERlhZcHXSAacCQVVfeXFMTW5ENHBzSWZhRHdOQUVTMmF6dndUV3NkbjB0WDlSWDVzc19KZlRza1ZneFNXa1FWVm9Xdlc1UDhqb09MUWZGS3dpQWJSMG1JOHlrdDBneVJsUVZwSTBUbXR5SlJxQVlqZE1MSnNmVTNmdDl2SjZqTVFCdzVpaXhYcUhndElYV1NXb0dWaUNSckE3THAxbG9aTlVIVkI2czY4d01xZzJqM2dJblRqS0Q1azU4SGFsZXV6QjNpSFJmdklDTG5USV9ZVy1CeG02WFB3Z3Zhb2otcEl6RUlDd1BCSDlvM2tiamVUa254MHVWQ3JKNy1FSzhZdUZ1Q3hYSU1ZOU1wbk11V2h2STVDSWVnUFJ3cWl4aEFac0x6ZmxvWUFvREQ2enRTbw?oc=5
+
+- OpenAI to offer free one-year access to ChatGPT Go for users in India starting November 4 | Latest News India - Hindustan Times
+  OpenAI to offer free one-year access to ChatGPT Go for users in India starting
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOUVRVnJpTU5KVG56TzFRVUdLeHllX0hDX0YxQ1daZlJmbkNlWUUyak16OXJwZjlEQzh1SlRMRkN5djBMV2tJWnkwazVQb3FpTmY5cmw2QTZ0Q3ZMWDFWcEpXX0xjaWR2MzhpdXlzejN2dkJtZVFWUENiYlZLX2VURjVuOUlkS2lWQ01hZnNDV2dOLXdscEUwTnFFNjVxbDJhR1VROWVFalc2cTZfM0lpQzdhdGVpOTJsUUpYRTdQR0RGa3VlUG11SGpJQmNlMkZsYUlSUElEWWJaUHlzOUFKM3lJQ1NOUEHSAewBQVVfeXFMTjRJczExWkZ0amQzVHlXMEUwSDdPV1VxTkJhSE82ajJ2NkloYl9pejlnOWR5RkwwT2hjVk1jQXZaczQxSjhVR2lZUHpRRDRhZVJNZFpzV0ZGcjhFd2Fnd0ZJNXZaT3djT2NDcUNrY2NFNHdJdEJvMlByMXNTMnVLQXFLY19yRzFteHZXaVFDc3pHd0p2bnZJVDNHMUNtUF9lZ2VMd2lzTlZkemM4OUxnUnVTUlNMNTVpN0JCQmt5N0dWWURkMGRxalRDWGM1UmU0VWRENzZjRUNqcUFybnY5cXhSUVBXM2h2c0hjOWE?oc=5
+
+- OpenAI Offers 'ChatGPT Go' Free For 1 Year To Users In India From November 4 - NDTV
+  OpenAI Offers 'ChatGPT Go' Free For 1
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHBaYnFvelpLaHFvcWd5NnFQY3N6VGtMM1R5aTJuYUM2b01JQ1RQOTU1a05EUW9RS3hTZ1BWaWhRZGIzVHpwNWVMQ210dEJFTXh0djE0endfa1NFSXJIT0hMQjRNbXU1MlFabDVkeXM2b3hNZnRDTXNjcFoxb3EwTFVCamZkZjAtWEhRX0V0a01QQzBfWllSOWNpWElOQXNWVE82QmdQOE91Sy1KMnNqRTdWcmXSAbwBQVVfeXFMTk9DN0FsNVJVclRmM0g4QVVJSDd2LUtndDhZTENqVGZkLWxpVzF1Qm14ckI0QTgxOFpROUM1aU54MlB2Wmc3X2k5NU1kNjRaNGUwMlRRTDdUNE1iMkFobVZiN2dUUlFFZ1BLa1N4M3REYTU2cFRRdzhJeThYTFI4SlEtSi02THh0ZTRucmJXUklKYTBpbzZ6bmdnWEpVM0JhQVBPbE9qNEJXTmlLeEJHOXZvUG13ajJDYkxTc18?oc=5
+
+- OpenAI to offer ChatGPT Go subscription free to all users across India - Times of India
+  OpenAI to offer ChatGPT Go subscription free to all
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdHcwajEzLXBiMk8xX3hRRDBBVEwwdFdMQWJ1MnF6THBHX2tqZHUwdzVqdDZsb1F5OHh3YzFsejE4cWZYeHNWS0s2RXp5eVEtMHNzRzNta1E2NGg1UGowMkozNFlyX2JFQWgtSkd3ZlZ3X3QzNGs5ODlKTU4xSHViWkpiNGh3b0FVYXhUZi1CZTRSR0RUMkdzaFg2bUlPaEZ3VGhLNU50RHVlZWo5MW12ZXVOTjBqNWUtQ3VZdUp6aFg0cXkxdEQ5RzdBNmFhSEdYcTBkVDZkSXUzeExwUGdLX0tnNF84eEpu0gHuAUFVX3lxTE92OW9ZX0hhaGY0X2ZSRGhoMUF2clBIY2Nlb0M5S09tN1UxOWNPZDhXZnF0MTJLSk5fMFR5ZUhFcXktQ2twOHc1cHJDZUpGLUI1elVBZXBLVEpNd1N3bVVuSFh0V3VTMVZiTGZEd19LNVV2RUFqb1ZtQ0Q2aXZ0RHowdURRNnhwdGNsZGdkSEVnbnowY2NGdU1IcU80Q0FUTFFiVWg0c1Rqdkg1MWQwQV96dC01Z01vVlp2VF8xRi0xMUxwdmFCT3BjQmtnSmw4elhJSXpCVFplY0V2SWxKQVB2SXdxdUFfa1EtV2xTeGc?oc=5
+
+- Bangladesh gets big offer from Pakistan amid frayed ties with India, via Karachi | Latest News India - Hindustan Times
+  Bangladesh gets big offer from Pakistan amid frayed ties with India.
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZC0xbzlQSXJOUWF6SDdGcng1RmZZd3IyOTdwQy1wRlpfREZEd1phQW9kTWpfT2VQamtrVl9lQ1N4ODNDVW9yMjUxXzg3Y3d6ZHVtTTFXd0I1cVJlM0lpVWdVaHphSURTeENKeXlBYnJvRGxrZUFRaklYajJacjNEUXo4UldnRWprU205S1pKMVpQV09wM1o1ZmRUdjNIU3BZaEtvOGY4TXhwREkydzNHVS1Kc0wyaXVRbE56ZkR3NXJIVnloRGpvSkNSa2ZyaXVVMHVTT19DV0taNTZjZUhDU2d0bjUxa3ZZVWfSAe8BQVVfeXFMT0lfaGxuYlo1VU9jcG93M2tMWFZ1Z1Jrc193ZTFSemtZN09aYWUzQVdiUkVmb1pkUFJLM3g4VUpDY3Atd1NPWlptUjQyNkl2RFV2Wk9oZ0lUUFEzSEUyN2ZTa2lxaW4xQ3VvWXlOOFkzN0kwa01fTHh1SUpvT296ZjBxQ29NaExxd19Lc0NxUFhqUDJOLWNpQWVRYllITzIzekdsVF94bDJ1cWIzNE5HMnYxbm9RcjBiMXVNUFdCVzlLVXp5SU10UGFoUG55dlphQ0ZWbnl2MGFPZkhkUmV3WWRjdlNubWdZOUpmdF9DaUE?oc=5
+
+- Top news of the day: October 28, 2025 - The Hindu
+  Top news of the day: October
+  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxOM2ZYYjJZRlI1MjAxREU3SHdLX3JmSzN0Zmp2S1BaelV1Q3oyMFVac0xOWmFacmtvOU5UWFdWaGJ5ZGlfNy12OGVvTzhXd19SQURDMi1qbXJmOXo2dVFsN3VPUlgwaVh3UjFhUjQzNTQ5UTBxN3RYazdzZWR6TDdFVXNpMHV0TjRSQ0JCV2JVSmxEUmlkWHlHTmJLLUxHVWtkaTJfaHRCaHRmTnNEeU9KeHdxUmJhRHpOUk1QcnM1T1Q1bktZNW5pVzZTVzJjZVRRRlFqNldjZFB1WGNubmlNRURJY0JtMkhYLWtxMGlERmUxTzhyeXNOYm5qeVhxS0hEbUNaaVdEOXc5MTA5TVNvVW9qT1dvRmQxUGhERlhZcHXSAacCQVVfeXFMTW5ENHBzSWZhRHdOQUVTMmF6dndUV3NkbjB0WDlSWDVzc19KZlRza1ZneFNXa1FWVm9Xdlc1UDhqb09MUWZGS3dpQWJSMG1JOHlrdDBneVJsUVZwSTBUbXR5SlJxQVlqZE1MSnNmVTNmdDl2SjZqTVFCdzVpaXhYcUhndElYV1NXb0dWaUNSckE3THAxbG9aTlVIVkI2czY4d01xZzJqM2dJblRqS0Q1azU4SGFsZXV6QjNpSFJmdklDTG5USV9ZVy1CeG02WFB3Z3Zhb2otcEl6RUlDd1BCSDlvM2tiamVUa254MHVWQ3JKNy1FSzhZdUZ1Q3hYSU1ZOU1wbk11V2h2STVDSWVnUFJ3cWl4aEFac0x6ZmxvWUFvREQ2enRTbw?oc=5
 
 
-_Last updated: 2025-10-28 12:35:13 UTC_
+_Last updated: 2025-10-28 18:28:03 UTC_
