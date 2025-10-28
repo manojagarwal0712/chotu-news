@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Plumber and man who studied up to Class 10 arrested over Rs 47-crore cybercrime involving Hong Kong hackers and Dubai-based Indians: Bengaluru police
+- Chhath Puja (Usha Arghya) Bank Holiday Today: Are banks open or closed on Tuesday, October 28? Check city-wise list
   
-  🔗 https://indianexpress.com/article/india/plumber-and-man-who-studied-up-to-class-10-arrested-over-rs-47-crore-cybercrime-involving-hong-kong-hackers-and-dubai-based-indians-bengaluru-police-10330684/
+  🔗 https://indianexpress.com/article/india/chhath-puja-usha-arghya-bank-holiday-october-28-open-close-city-list-10331038/
 
-- 2 Bengaluru cops suspended over sexual harassment, cheating allegations
+- Bengal, Tamil Nadu push back against EC’s SIR plan: DMK calls all-party meet, TMC targets poll body
   
-  🔗 https://indianexpress.com/article/india/2-bengaluru-cops-suspended-over-sexual-harassment-cheating-allegations-10330677/
+  🔗 https://indianexpress.com/article/india/bengal-tamil-nadu-push-back-dmk-calls-all-party-meet-tmc-targets-ec-10330882/
 
-- IAS officer from Arunachal, posted in Delhi, arrested days after 19-year-old allegedly names him in ‘suicide note’
+- CJI recommends Justice Surya Kant as successor
   
-  🔗 https://indianexpress.com/article/india/ias-officer-arunachal-arrested-10-year-old-suicide-note-10330607/
+  🔗 https://indianexpress.com/article/india/cji-recommends-justice-surya-kant-as-successor-10330927/
 
-- Chennai Metro Phase 1: CMRL to install Anti-Drag Passenger Door feature on 52 trains – Here’s why
+- Montha landfall near Kakinada today: Alert in Andhra, Odisha, Tamil Nadu as cyclone closes in
   
-  🔗 https://indianexpress.com/article/india/chennai-metro-phase-1-cmrl-to-install-anti-drag-passenger-door-feature-on-52-trains-heres-why-10330402/
+  🔗 https://indianexpress.com/article/india/montha-landfall-near-kakinada-today-alert-in-andhra-odisha-tamil-nadu-as-cyclone-closes-in-10330884/
 
-- 2 suspected Bangladeshi nationals held in Tripura
+- Aligarh man booked for ‘illegal’ Centre for Narendra Modi Studies
   
-  🔗 https://indianexpress.com/article/india/suspected-bangladeshi-nationals-held-in-tripura-10330419/
+  🔗 https://indianexpress.com/article/india/aligarh-man-booked-for-illegal-centre-for-narendra-modi-studies-10330863/
 
 - Big Tech to report earnings under specter of AI bubble
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/australia-sues-microsoft-over-ai-linked-subscription-price-hikes-10329101/
 
+- Amazon Layoffs: E-commerce giant plans biggest job cuts since 2022 — over 30,000 corporate roles at risk, says report
+  Amazon is planning to cut as many as 30,000 corporate jobs beginning on Tuesday. The company pares expenses and compensates
+  🔗 https://www.livemint.com/companies/news/amazon-layoffs-e-commerce-giant-plans-biggest-job-cuts-since-2022-over-30-000-corporate-roles-at-risk-says-report-11761611969862.html
+
+- Many of India's smaller non-banks are gently closing the door on unsecured loans
+  Unsecured loans were once the gold mine for NBFCs - Until blazing growth caught RBI's attention. The ensuing crackdown thinned investor interest in the sector. Now, many are pivoting to the boring but
+  🔗 https://www.livemint.com/companies/nonbank-lenders-offload-unsecured-loan-portfolios-to-derisk-generate-liquidity-11761295428673.html
+
+- Amazon to cut up to 30,000 corporate jobs as post-pandemic cost pressures mount: Report
+  Amazon is set to cut up to 30,000 corporate jobs starting Tuesday, nearly 10 percent of its white-collar workforce. The layoffs come as CEO Andy Jassy pushes to
+  🔗 https://www.livemint.com/companies/news/amazon-to-cut-up-to-30-000-corporate-jobs-as-cost-pressures-mount-amid-post-pandemic-overexpansion-report-11761598617418.html
+
 - ‘Netflix might never have grown’: Co-founder Marc Hastings reveals how stepping down as CEO changed everything
   The Netflix co-founder said that the decision to step down as CEO was a tough decision but it made the company what it is today.
   🔗 https://www.livemint.com/companies/people/netflix-might-never-have-grown-co-founder-marc-hastings-reveals-how-stepping-down-as-ceo-changed-everything-11761584868802.html
@@ -48,37 +60,29 @@
   Arora will define and drive the strategic vision for India in alignment with Sanofi's global strategy. He will also spearhead strategic priorities to accelerate innovation and agility throughout the
   🔗 https://www.livemint.com/companies/news/sanofi-india-appoints-deepak-arora-as-managing-director-11761584218099.html
 
-- Byju's moves NCLAT on Aakash EGM for rights issue
-  Byju's has appealed to the National Company Law Appellate Tribunal against its refusal to halt Aakash Educational Services' EGM for a rights issue. Byju's
-  🔗 https://www.livemint.com/companies/byjus-nclat-aakash-egm-rights-issue-articles-of-association-dilute-stake-11761583503171.html
+- Japan's Nikkei 225, South Korea's Kospi fall nearly 1% on Trump-Takaichi meeting
+  Japan’s Nikkei 225 slipped 0.57 per cent at the open, retreating
+  🔗 https://www.livemint.com/market/stock-market-news/japans-nikkei-225-south-koreas-kospi-fall-nearly-1-on-trump-takaichi-meeting-11761612722267.html
 
-- Russian oil: IndianOil to abide by all international sanctions
-  The company reported a net profit of  ₹7,610.
-  🔗 https://www.livemint.com/companies/indianoil-corporation-q2-results-net-profit-refinery-margins-11761578976553.html
+- Buy or sell: Vaishali Parekh recommends three stocks to buy today — 28 October 2025
+   Vaishali Parekh recommends three stocks to buy today. Titagar
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-stocks-to-buy-today-28-october-2025-11761585635075.html
 
-- India Ratings affirms credit rating on Birla Corporation, citing robust leverage and capacity utilization
-  The affirmation of BCL's bank loan facilities, amounting to  ₹2,500 million
-  🔗 https://www.livemint.com/companies/news/india-ratings-affirms-credit-rating-on-birla-corporation-citing-robust-leverage-and-capacity-utilization-11761582355125.html
+- Stock market today: Trade setup for Nifty 50, US-China trade talks, to gold, silver prices - 8 stocks to buy
+  Reliance Industries and SBI Life Insurance were notable gainers. Kotak Mahindra Bank lagged, showing overall positive investor sentiment.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-us-china-trade-talks-to-gold-silver-prices-8-stocks-to-buy-11761580616754.html
 
-- Qualcomm stock soars 22% after unveiling AI microchip as firm takes on Nvidia
-  Qualcomm's new AI200 range is scheduled to begin dispatching next year.
-  🔗 https://www.livemint.com/market/stock-market-news/qualcomm-stock-soars-22-after-unveiling-ai-microchip-as-firm-takes-on-nvidia-11761580796575.html
+- Stock recommendations for 28 October from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 28 October. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-stock-picks-28-october-marketsmith-india-sensex-nifty-11761566852791.html
 
-- Zerodha CEO Nithin Kamath shares major update: Brokerage firm may offer US stock investment by next quarter
-  Zerodha reported a decline in its revenue and net profit for the first time
-  🔗 https://www.livemint.com/market/stock-market-news/zerodha-ceo-nithin-kamath-shares-major-update-brokerage-firm-may-offer-us-stock-investment-by-next-quarter-11761579049563.html
+- Stocks to buy: Raja Venkatraman's top picks for 28 October
+  Market expert Raja Venkatraman shares his top three stock picks to buy today, 28 October.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-picks-for-28-october-sensex-nifty-angel-one-pvr-inox-mphasis-11761576306599.html
 
-- Gambling, Crypto’s Grip on Nigerians Is Hurting Capital Markets
-  Nigerians’ preference for plowing their money into gambling and cryptocurrencies rather than the capital market is denying the nation of funds that could be used to
-  🔗 https://www.livemint.com/market/cryptocurrency/gambling-crypto-s-grip-on-nigerians-is-hurting-capital-markets-11761580718651.html
-
-- Sebi wants companies to offer you special bond deals
-  Sebi recommends a high coupon rate or discounted prices for senior citizens, women, armed forces personnel, and
-  🔗 https://www.livemint.com/market/sebi-proposes-investor-incentives-corporate-bond-market-high-value-debt-entities-11761571512653.html
-
-- Gold price today: MCX gold slides for second straight session on easing US-China trade tensions
-  Gold prices fell on October 27, continuing a downward trend after a nine-week rally. The December futures contract dropped to  ₹120,330, down 2.51
-  🔗 https://www.livemint.com/market/commodities/gold-price-today-mcx-gold-slides-for-second-straight-session-on-easing-us-china-trade-tensions-11761577029070.html
+- Bessemer chases AI startup that could disrupt India’s IT sector
+  Bessemer Venture Partners is increasing its focus on AI startups aiming to disrupt India's $283-billion IT services sector. The VC firm is evaluating 20-30
+  🔗 https://www.livemint.com/technology/bessemer-venture-partners-india-artificial-intelligence-tcs-infosys-hcltech-11761459453992.html
 
 - OnePlus 15 vs iQOO 15: Which Chinese flagship offers better value? Price, specs and more compared
   OnePlus 15 and iQOO 15 offer similar specifications but which of these Chinese flagships gives better value
@@ -96,129 +100,85 @@
   Elon Musk's social media platform X will retire the Twitter.com domain on November 10. Users with hardware security
   🔗 https://www.livemint.com/technology/tech-news/your-twitter-account-could-be-locked-in-two-weeks-here-s-what-you-need-to-do-to-stay-in-control-11761575422962.html
 
-- OpenAI might soon show you ads on ChatGPT based on what you tell the AI
-  OpenAI CEO Sam Altman has previously talked about not liking ads for ChatGPT. OpenAI could be planning to show personalized ads to different
-  🔗 https://www.livemint.com/technology/tech-news/openai-might-soon-show-you-ads-on-chatgpt-based-on-what-you-tell-the-ai-11761571053617.html
-
-- Stocks Climb as Trade Hopes Dim Bond, Gold Appeal: Markets Wrap - Bloomberg.com
-  The Dow hits new record on U.S.-China Trade Deal Hopes. S&amp;P 500 rallies 1%, on pace for first close above 6,800 ever on potential China trade truce.
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1hLaDdxbzNDNmRITDBPcEZKMVRVODBDZGd6X1pHZ0duZXlleWZ3UDFKMjNlYnI0eWdEY2MtT0NFTEdDTlM5MGRZMHlwR3lXZXdvejZRajFEMWw1dGY5cDhQV3VCa1dfT3BFNHRNSXdLcmdFQ2U3S21NaUlFUERlMWswdFE5cWhGMUdnZ19Rb0E4Q3JocERHOURpekFsTkRmWS1qVmJjbTZrb2VxZ0NsZ3lDUTY?oc=5
+- Asia markets and US stock futures rise after US and Chinese officials agree on trade deal framework - CNN
+  Asia markets and US stock futures rise after US and Chinese officials agree on trade deal framework. Major Stock Indexes Close at Record Highs on US-China Trade Optimism. Qualcomm Soars on New Chips for AI Data Centers.
+  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE1qVDdpdlVGVkx5SEQ2R1pxVVdIMnJVTVQ5dHIyMHJrOVhpdFNFRnViVVM5b0MxODBYaEFhUzNiNldNa2FSQ0FBNE9nWEl1YS1YQTZkQlo3N3ZCemlVWko5YU5Jajkza1hSMkVoY1p1OUJ0UEFFdFRYdDNTNDlMQQ?oc=5
 
 - GIFT Nifty signals positive start for markets on global tailwinds, key levels to watch on October 27 - Moneycontrol
   <ol><li><a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV0puUjl4ZnlQWERGcVBBZUEwQXRzUDBxWFBGRTNXN0VadlI2T29RZGdILWhjbHVKMlBvc3BDa1JGd1pza2RPRlRTOHBVaFUzQTg2bjJ2TWc1VGVxbVpEM3FNQTFzLXlzLU
   🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV0puUjl4ZnlQWERGcVBBZUEwQXRzUDBxWFBGRTNXN0VadlI2T29RZGdILWhjbHVKMlBvc3BDa1JGd1pza2RPRlRTOHBVaFUzQTg2bjJ2TWc1VGVxbVpEM3FNQTFzLXlzLU4yZlIwb3A3QWdyaDRScGFLZGM0ZEpPU0E3SkMxcVpSbU5ydmZTenJOMUxteUo2dGlzRk9ZbjRZeVBadW81bjd2UGRLZzY1RmtXZjdfWEdfdkhyZHRjaHpqNFhGSHRzaFMyZXlyMi13eUxvam8yZ0JER3ZOV3laZGVpZngtSVRyUFRWU196NjNZbUlmeFdv0gH8AUFVX3lxTE9GSjVIWjdzZkJQSERDM21qaUhvMzhnZ3lQdFp1M2QtTHZhRHNhUlpEdkg1SVRFX0p0RDVwM1VNLVZuRHhsNnZXZE9STmdfMGxLSDVJeVhqM1gwal9sbWxrNlJWZ0cxUlo4NjFYT3FPRmtIOGc0cGladzZITmhfUkVibHB1QkM1eS1kTVpSdXVkR0NsczdpR1RhQ1pFRDBRU2RXQnRySFR6bUM0Yzg1dnhGMUQtS0xLd19NanlYWGw3a3hoSTcwVmtGZU5aZDh2Y0ZxeTFkdXV0a0czVElIeEZsR0d2Zk5VZWpxQU8yQmJSaXJjZG9HbktCQ2U1Nw?oc=5
 
+- What's driving the unprecedented surge in India's IPO market? - The Economic Times
+  What's driving the unprecedented surge in India's
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmZQTVFoU2dDRkJ2eDI0eGlyUXB4QTBTczNxUTlyV1hqUWNqZ0RHXzdWNmRtYUFYR0Z4YW13aDNZM0EzT2U2MFg4UndOUmJXVENvYW42UEJUd2xYU2dDSk5HOHZvRzMyWkRtY1RGbVlmT295Z2hWNE9TTjJBbGFzU1lkUzNobk5Xako3Rl9TOGZZcVowbXFlOHVyWXNFS1BER3NDZVdNS0piQjZDcVFUalZySUpESHU2Y0oxSlVqaGljS3Q3cWlkVUxR0gHPAUFVX3lxTE5MR0ppVTRmeUt4bzM3OGhkUm9jbVlEaVFEbG40MDhGdFdhNkVCSkYzZktGY2dVaXlwdmxZUV93aHNQNzR0QXI5NkhSQzc3Vk5wcHFxeExmSFFFdHJkalNpSzBaVlV5TEhhUkNnbU9SUnQtT0JVc0hmLUcwQ0I1RUdjQV85NDVQLTM0dkoyLTIzUzRnSXFfVm5kWUJpb2dhSEtTbjR0dWRhNFpNa1ltTEFKdTFWbzFTU0htVXZDVHlnTEhOOEk0Sm1tNW5XZnlNQQ?oc=5
+
+- Japan's Nikkei 225 set to continue run above 50,000 as Trump meets Takaichi - CNBC
+  Japan's Nikkei 225 set to continue run above
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDh5cURjRGVSOW9BQVhZbkdZbDBBRklMenhVZ2o4M2oza05Tdi1saE5vRWc1bzlDXzdOWnNiOUpJSTFfUVBFSVNZS1lSQ1NPNjJHT2V1d3ZUbXpkYUJDM1pfS1VkRU13ZG5vWEtzampDVHlMVU9pSFQzTU5jcl9qUEkzY2pXY1RueVplZWE5RTFDY3ZNQWViSFRxVWtNSGlvbF8zNkxhYzdFUGszMXZtamNB0gG3AUFVX3lxTE1wNVJsZDlWWGozZmxfSzNhelNuOUJvVXRiQmpRRnZ5cGFlNFJPekVMSTAyM0hMcXJSVGJaYmhOTWlXMDYtUTN0Zm5FdlVSeUpvMlExQXIyVVFYaFJ6TzlnMGYxbVBIZUs4TC1kR0FncXZjbXRRQW1kUjdNOWlUNlhBNmVHUTc1bjVLWWd2R0tRbk9zM05vYTFzczB1UGRrQ2lpQy1WbXRDMWVsNkdFTjlYaThvSEpHSQ?oc=5
+
 - Weekly Markets Monitor: The Easing Glow - World Gold Council
   The World Gold Council
   🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUxmZzR6d21FZjRoSUR1c0JkbklFb2pxV01vOGZTM1lLZjJnWkV3OXMxZEQtakk3U21NX1dJQk00Tk9majRsZWRUMnlkX3hnRkZlNDRfd0lyanRMenpyaWVMU1JQODNaUGtUYkktTFh3MGZMYll2cTFya0JnTE1wUzZvdk55UzJJN2c?oc=5
 
-- Gambling, Crypto’s Grip on Nigerians Is Hurting Capital Markets - Mint
-  The Nigerian stock market closed down on
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTnc5M3hNNzhqWkpnZEx6LTdPUEVnWVI0Z2FBR3RwOGdaLTFxaDRFNklGOXJ4dU03ckhhTzJaQWN6cXpBRWNNcXV4ZjV2aW1sdmJMSjA2SWVkUDBPVUdudDRXYS1QR3NNYzgzbm5PUF85VU1UNTNMUmROVVZfNjkzLTcyQjBzQnpHc29PTF9HNEZmSXl6aUNHZy1rdHJmVy1aOGV4bGt1UldFNzdtV1ZSX205NTZGNllfal9SZWk4S2VGdlhTZDU1MNIBzgFBVV95cUxQN0RtUGV5andXYUJQWVQzZTlIeFVZOHIzTE5WMmwtS2Jpc081aklUUHVvYnlkSjlRenFDdTZvOVo5T19sdEVvcWRURThGWUlUWGRxajREdDI4eC1HMXhKb2hnZlBWYmt4UldXQ2tFSTJEekZRVUJkVk5RTkxtMlBtOFNtdFV2cWN2MzJCdE9uak9hVnYyZzJxZGJ1VzR6b0NFZ1kwa1B6Tl9kd0owMF8yTDhidmpXZlV2ZnJzMWN1NlFFZ3RTeXlFUXZHVUpsZw?oc=5
+- Asian stocks lose steam at open; gold slips below $4,000
+  Global stock markets are taking a pause after a record rally. Investors are now watching for big tech company earnings and decisions from major central banks.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-lose-steam-at-open-gold-slips-below-4000/articleshow/124861436.cms
 
-- Why markets may not be in a bubble quite yet - Yahoo Finance
-  Why markets may not be in a bubble quite
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTFA1WUszVklDdFNyUXhidHFxYWFsc29MaUt0d2Q0T3htcHNlQ0FpakJwU0Rfclc5OGZRc1NYM2VXVjFzYW5XTlNhODFEajFoQjRhTktLNkVJaXJERnhQSWdFMk5MQXEwLTcxMFJUUXlETDFKN1hTVFdZbHNiTHJ5dw?oc=5
+- What's driving the unprecedented surge in India's IPO market?
+  India's IPO market is booming with record fund raising and many companies filing for public offerings. Investment bankers anticipate this momentum to continue, with more mainboard IPOs expected next year. Mega IPOs from major companies are a key feature
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/whats-driving-the-unprecedented-surge-in-indias-ipo-market/articleshow/124861373.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Sensex and Nifty snapped a six-day winning streak, with investors booking profits near record highs. Analysts remain optimistic, citing easing global headwind
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/124854193.cms
+- Sebi puts Vedanta Group's Sterlite Electric IPO on hold
+  The Securities and Exchange Board of India (Sebi) has put Sterlite Electric's proposed initial public offer on hold. The specialized capital goods manufacturer, formerly Sterlite Power Transmission, had recently filed its draft papers.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-puts-vedanta-groups-sterlite-electric-ipo-on-hold/articleshow/124861302.cms
 
-- Indus Towers Q2 Results: Profit drops by 17% to Rs 1,839 crore
-  Telecom infrastructure firm Indus Towers posted a 17 per cent decline in consolidated net profit to Rs 1,839 crore in the second quarter ended September 30, 2025.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/indus-towers-q2-results-profit-drops-by-17-to-rs-1839-crore/articleshow/124854076.cms
+- Sebi weighs higher threshold for cos with high-value debt
+  The Securities and Exchange Board of India (Sebi) is proposing to increase the threshold for identifying high value debt listed entities (HVDLEs) This adjustment aims to significantly reduce the compliance burden for companies.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-weighs-higher-threshold-for-cos-with-high-value-debt/articleshow/124861272.cms
 
-- Qualcomm shares soar 20% on new AI chip launch
-  Shares in US chipmaker Qualcomm skyrocketed on Monday. The company unveiled two new artificial intelligence processors designed for data centers.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/qualcomm-shares-soar-20-on-new-ai-chip-launch/articleshow/124854015.cms
-
-- Market Trading Guide: Hindalco among 3 stocks to buy on Tuesday for up to 13% returns
-  Analysts from Axis Securities and Bonanza Portfolio highlight Hindalco, IIFL Capital, and eClerx as strong near-term buy candidates
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-hindalco-among-3-stocks-to-buy-on-tuesday-for-up-to-13-returns/slideshow/124853896.cms
-
-- Gold slips below $4,000 per ounce as US-China trade progress cools safe-haven demand
-  Gold prices dropped significantly on Monday. Easing trade tensions between the United States and China reduced gold's safe-haven appeal. Investors are now awaiting the Federal Reserve's interest rate decision this week.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-below-4000-per-ounce-as-us-china-trade-progress-cools-safe-haven-demand/articleshow/124853612.cms
+- Sebi to boost retail participation in debt securities
+  At present, rules prohibit payment of incentives directly or indirectly. As per Sebi annual report for FY25, the amount of public debt issues has reduced
+  🔗 https://economictimes.indiatimes.com/markets/bonds/sebi-to-boost-retail-participation-in-debt-securities/articleshow/124861235.cms
 
 - Another Hit Job Falls Flat: Washington Post's Credibility Crisis in India - NDTV
   The Washington Post's Credibility crisis
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHFkUmJwN0ZUZjdmbVA1NlRRWDUzWWZSUWRsYy1xOHpMUHZpX0xXWldfenlRTTd0c2ktOWx1aV9IN0hBaW1WblRKV1Z4cGVQMnpqVVVod3BwMzR1bUw1MkpjTHQ0bDAzR2RCUzJrOGdzMkdJY0VxTVZNS2ZKeDR2UTJtV0VQX3h3X2xtcG5Bc1hLdjA3RGZRdEl1U1BkTFBQNXYtenVHeDRnVVdsMFlhWdIBuAFBVV95cUxQRXZqLXV6bExyQVQ5N3YzaTltVE52SjVEX0FIc3h5SEY4ajBoMG9SdUo1bnp0NmlkQ1VidC1xV2s3d3lrV1R5VnZIT3ZTR2w2bzI0WXViLXpzbTh1MUpkQnI3VGlTQmlVRHdsbXlNdzJpLWhkbXByRnQ1SjluMW9rYm1lWk1oZmFSU2YwRnUyeEZTWGZTcUVDYTdnZjdDbERPb05CYjNSeWJlbEhhNmJNclhnMVR6cnlw?oc=5
 
-- Pan-India SIR: ECI to announce first phase dates on Monday; 10-15 states to be covered - Times of India
-  Pan-India SIR: ECI to announce first phase dates on Monday
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS3VxSHE2WDlYRTUxOVhfbFlvdGZ5M2RhMXAyUmNObXpDdjRYTE9ramdBVW5EdjlPbGh2N2pBaDJRRUJqVGp1cEJJblhDZm9WWDVLUDlEQmYyMG9tTVZoS21JTVdTVjZTcWtXdHAtWk00dlplQlNJSWdjRnBNbjJPSmhxMXp0enVIR1ZmTzNrTXRta0VaRjRla1RsTUFpc2Z4NHlxRWEtamltV2k3YnltYnJjOHc0M0llSG1pRU1uOW5RM0ZDQy1mWHJUQlFqTG5keWY2UFYtZTNRS2E2NlNuaU91R0lsZGVlXzdHTUZR0gHzAUFVX3lxTE9zZ3hBSEczbG5oM2RLMUExaUhqdVFXVEg4WFdPREJUYW1DUVhPWGRyRUVZanlQeW9mR3hodDY4RVRxel9sREUxb3ozQkthY0o5VFJZTXljcmZMY3RYdXlSZVo1clF1TnBqYzZOakVyUzdjR3RicU8tQkEwTFRoeGRkMExFYTJaX1hCS1NCejZmbDRLZHI0dGF1VmU2VzA0MFlEME84bGJfZGpGTXVpNVl3d3B4ZV9NM2VIRzJOM1ZZUXV0M1R6NXB6aG1IRGY3ZkplbWUtcjY3Wm5OVFhMX1dKR1JFWGlSc0xHcHpKUHNQb2NRTQ?oc=5
+- U.S. seeks stronger ties with Pakistan, but not at India’s expense, says Rubio - The Hindu
+  U.S. seeks stronger ties with Pakistan, but not
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3BicVlvdmY3dTlkVnlpOWowRmlXeVgzTC14bUR0RFlJRXpFVmJOS1U1UzV4VGdQdGppYWVabjdTWFp1MllabW10MkFNZWdkRVluWFVNcWxUMGM4M3paVEdmSjRxVW5fX0pHRFJJVHdGT0wyV2htTVhfM3M0cnF0eXU4RUlLaWVDWE9McV9QVWhMQzRFU2VVbzNKTW1qT0RhNExOWWRvUnlZeUZuYUcwOG9reXFVbEtVYmxDNUVQelFUWlBQUFJ2cTNR0gHQAUFVX3lxTE9LRzNHVDlUM1l0aXJYM3k2cU5GbkxoVjBBMGg4dlpxNGljR0tSbVRXWHFfcXhScXFUdU1lMW1Ta19nWHBsTnNSMU8ycVoxZXNBSU9kdTkzclhGOFhUSWV3ZEdUU0tCWVRMbDFWaUVDRWR0ZjR1aVBLTW11bVlaRkx2VU9TamtqUVBDdXQzOWFIck5DcngwZ2ZaZ1BnRTg5aU5JeHBOSFlyRlhyUThYbnRFQWx2aVFrRFE1UHlaYlAtSThYWVlfejY3ZXEtNU1wNU0?oc=5
 
-- SIR Phase 2 To Take Place In These 12 States. See Full List - NDTV
-  SIR Phase 2 To Take Place In These 12 States
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbFdZYkdoMlF3MjUxMEYwdW9WamdBMDA1RkVVWk1qbmtRWlliQmh1MFR3MUJ3cmtTMVRXQ0RXdGJUOTRBLWgxaklITjFuei1vUGUwN2FNX3UyYVFaUWk3ekNMUzBXdWdpZ2doaklvZVQ4bUxLRUx4UTlZUU1nMG1RT0QyLUhhQ2Q5bUhJeDAwVnMzQUdKbjBLX0NtOTkzQUQ2X0s5cEZDTHQwTFAxNDFhejFQUFRrNVVsbThJ0gHDAUFVX3lxTFBRNmJtUkxXa1EtbWF3aGd1VWcxMEJfb09fR2JobXBteWdzOWQ1b3F5bUVYQ3ZPcTBzeEc0anBWcHpybUFKUzNGRmE2RHZpRFBRMEVEQXpqeXRHWEFoWWNRTE14dmhucjJYVVlhMnFBWnhXUFdZbFJ2TjVvak95TjBrdkkxVFdfSWt1MXpjSWdaNnItOTJpZkRPem9nV20zTWJwbUdmbzRlU0RUemQ1MDN0d0xHdnZTc1FqU005Mnlrekltbw?oc=5
+- SC slams Maharashtra government over poor compensatory afforestation | Latest News India - Hindustan Times
+  SC slams Maharashtra government over poor compensatory afforestation
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOT3JzNnQ2Q1Q1SVFkZWJnWml6VW10US1qeDVscjI5S2hUM0h0Zkp3bjJ0ZlhIUG1tS0padGJWNGtQd0VJUWlGVE9yTllBMXI5dlBEcXR0QTBNaUltc3B2VEp5NWZ0OHhjcWdoZ01JaW54NWVfZm9aSGtKRE1hVkFDUUVaTk5JaE9WakNaSjNSYXBZbWhvZGxzZGgzWnpDX3B6blFOQlY3cHUzWG1nNW0xWVhRTU4tUVR5OWNzNGdBM2pFaEh0NHU4bC0yY9IB0AFBVV95cUxPamJEaFVJZ1lvMzZ3NE43QXhia3I4ZzFCdnFMV0NUS19NMHBwY0FKeEVWUm11MmxjWWtPQXVrNkc4emNBd0RXV0N3RmU2RWJndWYybXZtM3Brc09ab0N2Si1FMlkxUk9zbGV5eFgwOFctX1hVWVg4bDg2aUY1MzYzdFJrSFFDbjNlc3VCOGdJeGhEaGJ1Yk5LVHhZSjlrOV9ubUFVbm9ER2FxZjZzRm5xRnFCMnJPMVFid1g4WXhjalBackNzZldJb3JndE10TF96?oc=5
 
-- Poll-Bound Bengal, Tamil Nadu Among 12 States In Voter List Revision Phase 2 - NDTV
-  Poll-Bound Bengal, Tamil Nadu Among 12 States In
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTURGLVdsLW9RZGhKX1dKYjlqZVRSY1ozU0NwcHJKeEVzOEZ0UnNkTWhtOWRmdzhWV2taeFBRRVc3OGU3QjFyUzlrZmNiRWlFc1g5TUpYY2x2cDFIZF9vX1FwWWJOZGc2STBhekZrNks2aG1fNkNTZVBYRmF1S09jaWd0Z1VQYmZKdlJHZWRMaEdTM2owekZyclpvLUg4VmNpY1dJNjRWTkxWQjh6ZFR2c2FnbTZ1aUJlZDk5QnhOTnBDSjBveXZ6SnZVZGJuR1o0eEl2LWQ1VktWYUtoWVhJbFM1S3XSAewBQVVfeXFMT2VwVWRrUXZuVTNndGdyLTJnNVNOTzM0TVdMTmJjSm1XYW1vLWhQVzAtVlZtS0ZfdFZLbmZBUGZRc3JodWtMRkt1RHVLc2x1RF9GWHdJR2IwNF9mWnE2VGEyNGNFcnc4N3phbXRvYkNnZDJVM200Tzh5TXZuZkM1YjBUbHdhalpzRnNUdHFRWEU1YVNtbWZ6eGZ5b2ZfR012MWJnY1JMOThUbVV1b1FBeGlqSm9EMEtJQ2lmWkZpN2oyUkt4cWlVQXRVQVhvXzJpS0dJUlpIRmFDU3VDdnc4RzlpZWtuYVQ0NWY4bzI?oc=5
+- Top News of the Day | October 25, 2025 - The Hindu
+  Top News of the Day | October 25
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQd1hUOEgxaGF3aWJRNjVXNnN2S0hPc1AtQTc1QnB2QUVuRnpmVlpBZDlDMUhORmNzVDFONFZXU1BYZk1KbVdxZjFMTDRLTWx4Z2dZdnJYM1ZTOG1DRGFWaUtDX2xwSXVHbDlHTXktM0pUVTBRYlludnM1STVVNHRMVnpKY3Y4WmVMY0FOLUV30gGUAUFVX3lxTE8zT3NMakNVZjZScW5wRVBsd2NxS1kzVTRDQl9zNjVKVEpRM09Lc3RvbEdGeklST3ZoNTVwN0pTNTIyMlNSc0QzZk5UM0FNSTJtNlZ1enB3RnROZGVkRHBLWk9EY0tjQVFyeUVGdkpWeER4VWkzTzZCZ0R6Z2lOc0xsMWR3UFB1bS1JSjZ0ZTl4ZFo1ekg?oc=5
 
-- Sweden wants to double trade & investments with India over next five years: Envoy - The Economic Times
-  Sweden wants to double trade & investments with India over next five years
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLXJ1M1JGemRkZWVRc19BNC1UMTRrNnpEMmZBeG9SQXRudDFhckJnanpYMkJHakpyb3RQVWQ5bFZFSFJBMC1iZ1lGT0RWRVo1cE9BTUhKT2ctZ2JLMl93ZEE4YUItVUVTbDVHenVwV2JGVGdTeGdhVGV6T3hjcnBVdUtKSWhCRTBiYkY4aHd2X1U4dmxiZW55emVwa19PRmRlNmV6MWR0Zm16bnViWGJyRmEtZ25uNDREUXhlbEwwa3pSYjh5MERYRW9KLUhqNnZ0aTBTeUlwTTJVbUhYU0p4THFYeW5wRWNVOGRabFY5ZzTSAfYBQVVfeXFMUFV5YVFSd2x5VVlwSWhVY3hTTG5XdDg1cE5kNVpHczJYTmZPLS1KSWFCa0VoVW1WSlRrMnRwRVhsMTB2ekdqTXZERFdaTzlVZk0zcTZPY0tuRUxUbmNXVlJmTjZWa0g2YUh0TG9NMEpaRkRlVG01R3ZsWFpVRS1iZmhHMG96SEdtZHI2N043N1JSNUJQeElacmk0eDhuVTFObzZPRXNsX0dqMHF0M3lSTnpOSmQ2YllSWVRRdUpKM3FWaFJGSWo5SV9mY2lSZ0FBLXZPbkRtWWdQaFpyT05sUWU4bHNlM1E5cm8wS1NEQVo0cm5kd2ln?oc=5
-
-- Another Hit Job Falls Flat: Washington Post's Credibility Crisis in India - NDTV
-  The Washington Post's Credibility crisis
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHFkUmJwN0ZUZjdmbVA1NlRRWDUzWWZSUWRsYy1xOHpMUHZpX0xXWldfenlRTTd0c2ktOWx1aV9IN0hBaW1WblRKV1Z4cGVQMnpqVVVod3BwMzR1bUw1MkpjTHQ0bDAzR2RCUzJrOGdzMkdJY0VxTVZNS2ZKeDR2UTJtV0VQX3h3X2xtcG5Bc1hLdjA3RGZRdEl1U1BkTFBQNXYtenVHeDRnVVdsMFlhWdIBuAFBVV95cUxQRXZqLXV6bExyQVQ5N3YzaTltVE52SjVEX0FIc3h5SEY4ajBoMG9SdUo1bnp0NmlkQ1VidC1xV2s3d3lrV1R5VnZIT3ZTR2w2bzI0WXViLXpzbTh1MUpkQnI3VGlTQmlVRHdsbXlNdzJpLWhkbXByRnQ1SjluMW9rYm1lWk1oZmFSU2YwRnUyeEZTWGZTcUVDYTdnZjdDbERPb05CYjNSeWJlbEhhNmJNclhnMVR6cnlw?oc=5
-
-- Pan-India SIR: ECI to announce first phase dates on Monday; 10-15 states to be covered - Times of India
-  Pan-India SIR: ECI to announce first phase dates on Monday
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS3VxSHE2WDlYRTUxOVhfbFlvdGZ5M2RhMXAyUmNObXpDdjRYTE9ramdBVW5EdjlPbGh2N2pBaDJRRUJqVGp1cEJJblhDZm9WWDVLUDlEQmYyMG9tTVZoS21JTVdTVjZTcWtXdHAtWk00dlplQlNJSWdjRnBNbjJPSmhxMXp0enVIR1ZmTzNrTXRta0VaRjRla1RsTUFpc2Z4NHlxRWEtamltV2k3YnltYnJjOHc0M0llSG1pRU1uOW5RM0ZDQy1mWHJUQlFqTG5keWY2UFYtZTNRS2E2NlNuaU91R0lsZGVlXzdHTUZR0gHzAUFVX3lxTE9zZ3hBSEczbG5oM2RLMUExaUhqdVFXVEg4WFdPREJUYW1DUVhPWGRyRUVZanlQeW9mR3hodDY4RVRxel9sREUxb3ozQkthY0o5VFJZTXljcmZMY3RYdXlSZVo1clF1TnBqYzZOakVyUzdjR3RicU8tQkEwTFRoeGRkMExFYTJaX1hCS1NCejZmbDRLZHI0dGF1VmU2VzA0MFlEME84bGJfZGpGTXVpNVl3d3B4ZV9NM2VIRzJOM1ZZUXV0M1R6NXB6aG1IRGY3ZkplbWUtcjY3Wm5OVFhMX1dKR1JFWGlSc0xHcHpKUHNQb2NRTQ?oc=5
-
-- SIR Phase 2 To Take Place In These 12 States. See Full List - NDTV
-  SIR Phase 2 To Take Place In These 12 States
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbFdZYkdoMlF3MjUxMEYwdW9WamdBMDA1RkVVWk1qbmtRWlliQmh1MFR3MUJ3cmtTMVRXQ0RXdGJUOTRBLWgxaklITjFuei1vUGUwN2FNX3UyYVFaUWk3ekNMUzBXdWdpZ2doaklvZVQ4bUxLRUx4UTlZUU1nMG1RT0QyLUhhQ2Q5bUhJeDAwVnMzQUdKbjBLX0NtOTkzQUQ2X0s5cEZDTHQwTFAxNDFhejFQUFRrNVVsbThJ0gHDAUFVX3lxTFBRNmJtUkxXa1EtbWF3aGd1VWcxMEJfb09fR2JobXBteWdzOWQ1b3F5bUVYQ3ZPcTBzeEc0anBWcHpybUFKUzNGRmE2RHZpRFBRMEVEQXpqeXRHWEFoWWNRTE14dmhucjJYVVlhMnFBWnhXUFdZbFJ2TjVvak95TjBrdkkxVFdfSWt1MXpjSWdaNnItOTJpZkRPem9nV20zTWJwbUdmbzRlU0RUemQ1MDN0d0xHdnZTc1FqU005Mnlrekltbw?oc=5
-
-- Poll-Bound Bengal, Tamil Nadu Among 12 States In Voter List Revision Phase 2 - NDTV
-  Poll-Bound Bengal, Tamil Nadu Among 12 States In
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTURGLVdsLW9RZGhKX1dKYjlqZVRSY1ozU0NwcHJKeEVzOEZ0UnNkTWhtOWRmdzhWV2taeFBRRVc3OGU3QjFyUzlrZmNiRWlFc1g5TUpYY2x2cDFIZF9vX1FwWWJOZGc2STBhekZrNks2aG1fNkNTZVBYRmF1S09jaWd0Z1VQYmZKdlJHZWRMaEdTM2owekZyclpvLUg4VmNpY1dJNjRWTkxWQjh6ZFR2c2FnbTZ1aUJlZDk5QnhOTnBDSjBveXZ6SnZVZGJuR1o0eEl2LWQ1VktWYUtoWVhJbFM1S3XSAewBQVVfeXFMT2VwVWRrUXZuVTNndGdyLTJnNVNOTzM0TVdMTmJjSm1XYW1vLWhQVzAtVlZtS0ZfdFZLbmZBUGZRc3JodWtMRkt1RHVLc2x1RF9GWHdJR2IwNF9mWnE2VGEyNGNFcnc4N3phbXRvYkNnZDJVM200Tzh5TXZuZkM1YjBUbHdhalpzRnNUdHFRWEU1YVNtbWZ6eGZ5b2ZfR012MWJnY1JMOThUbVV1b1FBeGlqSm9EMEtJQ2lmWkZpN2oyUkt4cWlVQXRVQVhvXzJpS0dJUlpIRmFDU3VDdnc4RzlpZWtuYVQ0NWY4bzI?oc=5
-
-- Sweden wants to double trade & investments with India over next five years: Envoy - The Economic Times
-  Sweden wants to double trade & investments with India over next five years
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLXJ1M1JGemRkZWVRc19BNC1UMTRrNnpEMmZBeG9SQXRudDFhckJnanpYMkJHakpyb3RQVWQ5bFZFSFJBMC1iZ1lGT0RWRVo1cE9BTUhKT2ctZ2JLMl93ZEE4YUItVUVTbDVHenVwV2JGVGdTeGdhVGV6T3hjcnBVdUtKSWhCRTBiYkY4aHd2X1U4dmxiZW55emVwa19PRmRlNmV6MWR0Zm16bnViWGJyRmEtZ25uNDREUXhlbEwwa3pSYjh5MERYRW9KLUhqNnZ0aTBTeUlwTTJVbUhYU0p4THFYeW5wRWNVOGRabFY5ZzTSAfYBQVVfeXFMUFV5YVFSd2x5VVlwSWhVY3hTTG5XdDg1cE5kNVpHczJYTmZPLS1KSWFCa0VoVW1WSlRrMnRwRVhsMTB2ekdqTXZERFdaTzlVZk0zcTZPY0tuRUxUbmNXVlJmTjZWa0g2YUh0TG9NMEpaRkRlVG01R3ZsWFpVRS1iZmhHMG96SEdtZHI2N043N1JSNUJQeElacmk0eDhuVTFObzZPRXNsX0dqMHF0M3lSTnpOSmQ2YllSWVRRdUpKM3FWaFJGSWo5SV9mY2lSZ0FBLXZPbkRtWWdQaFpyT05sUWU4bHNlM1E5cm8wS1NEQVo0cm5kd2ln?oc=5
+- Top News Headlines of October 27, 2025 | ‘Best ad I ever ran’: Ontario Premier Doug Ford says after Trump cancels trade talk with Canada - The Indian Express
+  ‘Best ad I ever ran’: Ontario Premier Doug Ford says after Trump cancels trade talk with Canada.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRVdZOUdpbzNkNGFRbHlXT2hfaDVwQUlWa1JIbnN2WWJRRUc3NDNVLVBBRTk2NV9WWkJZNWVpTDRqTnNqUUV1ZDVPOTlaQ0I1S0FnT3BFb0pNemFYbUpnX0N1dWpkd1FqZk1sSFgtOHc1NTE1UWUta0xtcW5ZX05YSzBNeUxWa3FFbklmbWlldmtsdGxWVTExOXZxUkZ6NnBEVHpaLUlUVmp6UHJmWnNxWVMwSXBXbTZ3a3JJZ0xYTVBLMXV0S0RuN3VkcTNOdjdSWXo2SDIzUlZ2TlU2NzBfZXBKLW9RMGV10gHvAUFVX3lxTFBsdzVEeXptc3lwYTQxTWdaWU9TNENVdmd3Y09SQktpc0w4Rklxa0lVTEE2YkVZQktjMGRmVFEya2gyREZYOFRPdWNjSjFyNEotRHo1WmQ2ckc2cmJSVkJBX3pONy04Si1xWFRia2x4al9oaXd2UjVCNFo2b2RaN3lKY29NQktrWlAtRmtNN29qeGdqc0dwbGNVaUY5TThHcnFFbWtVV3hKaUhuNmVBMk50UXlpY0pOcXozcHFabVJnWkZHbGxxcHdxTXBzck54NVMtNUxTODZ1ejU3YkV5c3VBcUY3a3BmellDT2NaU0sw?oc=5
 
 - Another Hit Job Falls Flat: Washington Post's Credibility Crisis in India - NDTV
   The Washington Post's Credibility crisis
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHFkUmJwN0ZUZjdmbVA1NlRRWDUzWWZSUWRsYy1xOHpMUHZpX0xXWldfenlRTTd0c2ktOWx1aV9IN0hBaW1WblRKV1Z4cGVQMnpqVVVod3BwMzR1bUw1MkpjTHQ0bDAzR2RCUzJrOGdzMkdJY0VxTVZNS2ZKeDR2UTJtV0VQX3h3X2xtcG5Bc1hLdjA3RGZRdEl1U1BkTFBQNXYtenVHeDRnVVdsMFlhWdIBuAFBVV95cUxQRXZqLXV6bExyQVQ5N3YzaTltVE52SjVEX0FIc3h5SEY4ajBoMG9SdUo1bnp0NmlkQ1VidC1xV2s3d3lrV1R5VnZIT3ZTR2w2bzI0WXViLXpzbTh1MUpkQnI3VGlTQmlVRHdsbXlNdzJpLWhkbXByRnQ1SjluMW9rYm1lWk1oZmFSU2YwRnUyeEZTWGZTcUVDYTdnZjdDbERPb05CYjNSeWJlbEhhNmJNclhnMVR6cnlw?oc=5
 
-- Pan-India SIR: ECI to announce first phase dates on Monday; 10-15 states to be covered - Times of India
-  Pan-India SIR: ECI to announce first phase dates on Monday
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS3VxSHE2WDlYRTUxOVhfbFlvdGZ5M2RhMXAyUmNObXpDdjRYTE9ramdBVW5EdjlPbGh2N2pBaDJRRUJqVGp1cEJJblhDZm9WWDVLUDlEQmYyMG9tTVZoS21JTVdTVjZTcWtXdHAtWk00dlplQlNJSWdjRnBNbjJPSmhxMXp0enVIR1ZmTzNrTXRta0VaRjRla1RsTUFpc2Z4NHlxRWEtamltV2k3YnltYnJjOHc0M0llSG1pRU1uOW5RM0ZDQy1mWHJUQlFqTG5keWY2UFYtZTNRS2E2NlNuaU91R0lsZGVlXzdHTUZR0gHzAUFVX3lxTE9zZ3hBSEczbG5oM2RLMUExaUhqdVFXVEg4WFdPREJUYW1DUVhPWGRyRUVZanlQeW9mR3hodDY4RVRxel9sREUxb3ozQkthY0o5VFJZTXljcmZMY3RYdXlSZVo1clF1TnBqYzZOakVyUzdjR3RicU8tQkEwTFRoeGRkMExFYTJaX1hCS1NCejZmbDRLZHI0dGF1VmU2VzA0MFlEME84bGJfZGpGTXVpNVl3d3B4ZV9NM2VIRzJOM1ZZUXV0M1R6NXB6aG1IRGY3ZkplbWUtcjY3Wm5OVFhMX1dKR1JFWGlSc0xHcHpKUHNQb2NRTQ?oc=5
+- U.S. seeks stronger ties with Pakistan, but not at India’s expense, says Rubio - The Hindu
+  U.S. seeks stronger ties with Pakistan, but not
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3BicVlvdmY3dTlkVnlpOWowRmlXeVgzTC14bUR0RFlJRXpFVmJOS1U1UzV4VGdQdGppYWVabjdTWFp1MllabW10MkFNZWdkRVluWFVNcWxUMGM4M3paVEdmSjRxVW5fX0pHRFJJVHdGT0wyV2htTVhfM3M0cnF0eXU4RUlLaWVDWE9McV9QVWhMQzRFU2VVbzNKTW1qT0RhNExOWWRvUnlZeUZuYUcwOG9reXFVbEtVYmxDNUVQelFUWlBQUFJ2cTNR0gHQAUFVX3lxTE9LRzNHVDlUM1l0aXJYM3k2cU5GbkxoVjBBMGg4dlpxNGljR0tSbVRXWHFfcXhScXFUdU1lMW1Ta19nWHBsTnNSMU8ycVoxZXNBSU9kdTkzclhGOFhUSWV3ZEdUU0tCWVRMbDFWaUVDRWR0ZjR1aVBLTW11bVlaRkx2VU9TamtqUVBDdXQzOWFIck5DcngwZ2ZaZ1BnRTg5aU5JeHBOSFlyRlhyUThYbnRFQWx2aVFrRFE1UHlaYlAtSThYWVlfejY3ZXEtNU1wNU0?oc=5
 
-- SIR Phase 2 To Take Place In These 12 States. See Full List - NDTV
-  SIR Phase 2 To Take Place In These 12 States
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbFdZYkdoMlF3MjUxMEYwdW9WamdBMDA1RkVVWk1qbmtRWlliQmh1MFR3MUJ3cmtTMVRXQ0RXdGJUOTRBLWgxaklITjFuei1vUGUwN2FNX3UyYVFaUWk3ekNMUzBXdWdpZ2doaklvZVQ4bUxLRUx4UTlZUU1nMG1RT0QyLUhhQ2Q5bUhJeDAwVnMzQUdKbjBLX0NtOTkzQUQ2X0s5cEZDTHQwTFAxNDFhejFQUFRrNVVsbThJ0gHDAUFVX3lxTFBRNmJtUkxXa1EtbWF3aGd1VWcxMEJfb09fR2JobXBteWdzOWQ1b3F5bUVYQ3ZPcTBzeEc0anBWcHpybUFKUzNGRmE2RHZpRFBRMEVEQXpqeXRHWEFoWWNRTE14dmhucjJYVVlhMnFBWnhXUFdZbFJ2TjVvak95TjBrdkkxVFdfSWt1MXpjSWdaNnItOTJpZkRPem9nV20zTWJwbUdmbzRlU0RUemQ1MDN0d0xHdnZTc1FqU005Mnlrekltbw?oc=5
+- SC slams Maharashtra government over poor compensatory afforestation | Latest News India - Hindustan Times
+  SC slams Maharashtra government over poor compensatory afforestation
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOT3JzNnQ2Q1Q1SVFkZWJnWml6VW10US1qeDVscjI5S2hUM0h0Zkp3bjJ0ZlhIUG1tS0padGJWNGtQd0VJUWlGVE9yTllBMXI5dlBEcXR0QTBNaUltc3B2VEp5NWZ0OHhjcWdoZ01JaW54NWVfZm9aSGtKRE1hVkFDUUVaTk5JaE9WakNaSjNSYXBZbWhvZGxzZGgzWnpDX3B6blFOQlY3cHUzWG1nNW0xWVhRTU4tUVR5OWNzNGdBM2pFaEh0NHU4bC0yY9IB0AFBVV95cUxPamJEaFVJZ1lvMzZ3NE43QXhia3I4ZzFCdnFMV0NUS19NMHBwY0FKeEVWUm11MmxjWWtPQXVrNkc4emNBd0RXV0N3RmU2RWJndWYybXZtM3Brc09ab0N2Si1FMlkxUk9zbGV5eFgwOFctX1hVWVg4bDg2aUY1MzYzdFJrSFFDbjNlc3VCOGdJeGhEaGJ1Yk5LVHhZSjlrOV9ubUFVbm9ER2FxZjZzRm5xRnFCMnJPMVFid1g4WXhjalBackNzZldJb3JndE10TF96?oc=5
 
-- Poll-Bound Bengal, Tamil Nadu Among 12 States In Voter List Revision Phase 2 - NDTV
-  Poll-Bound Bengal, Tamil Nadu Among 12 States In
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTURGLVdsLW9RZGhKX1dKYjlqZVRSY1ozU0NwcHJKeEVzOEZ0UnNkTWhtOWRmdzhWV2taeFBRRVc3OGU3QjFyUzlrZmNiRWlFc1g5TUpYY2x2cDFIZF9vX1FwWWJOZGc2STBhekZrNks2aG1fNkNTZVBYRmF1S09jaWd0Z1VQYmZKdlJHZWRMaEdTM2owekZyclpvLUg4VmNpY1dJNjRWTkxWQjh6ZFR2c2FnbTZ1aUJlZDk5QnhOTnBDSjBveXZ6SnZVZGJuR1o0eEl2LWQ1VktWYUtoWVhJbFM1S3XSAewBQVVfeXFMT2VwVWRrUXZuVTNndGdyLTJnNVNOTzM0TVdMTmJjSm1XYW1vLWhQVzAtVlZtS0ZfdFZLbmZBUGZRc3JodWtMRkt1RHVLc2x1RF9GWHdJR2IwNF9mWnE2VGEyNGNFcnc4N3phbXRvYkNnZDJVM200Tzh5TXZuZkM1YjBUbHdhalpzRnNUdHFRWEU1YVNtbWZ6eGZ5b2ZfR012MWJnY1JMOThUbVV1b1FBeGlqSm9EMEtJQ2lmWkZpN2oyUkt4cWlVQXRVQVhvXzJpS0dJUlpIRmFDU3VDdnc4RzlpZWtuYVQ0NWY4bzI?oc=5
+- Top News of the Day | October 25, 2025 - The Hindu
+  Top News of the Day | October 25
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQd1hUOEgxaGF3aWJRNjVXNnN2S0hPc1AtQTc1QnB2QUVuRnpmVlpBZDlDMUhORmNzVDFONFZXU1BYZk1KbVdxZjFMTDRLTWx4Z2dZdnJYM1ZTOG1DRGFWaUtDX2xwSXVHbDlHTXktM0pUVTBRYlludnM1STVVNHRMVnpKY3Y4WmVMY0FOLUV30gGUAUFVX3lxTE8zT3NMakNVZjZScW5wRVBsd2NxS1kzVTRDQl9zNjVKVEpRM09Lc3RvbEdGeklST3ZoNTVwN0pTNTIyMlNSc0QzZk5UM0FNSTJtNlZ1enB3RnROZGVkRHBLWk9EY0tjQVFyeUVGdkpWeER4VWkzTzZCZ0R6Z2lOc0xsMWR3UFB1bS1JSjZ0ZTl4ZFo1ekg?oc=5
 
-- Sweden wants to double trade & investments with India over next five years: Envoy - The Economic Times
-  Sweden wants to double trade & investments with India over next five years
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLXJ1M1JGemRkZWVRc19BNC1UMTRrNnpEMmZBeG9SQXRudDFhckJnanpYMkJHakpyb3RQVWQ5bFZFSFJBMC1iZ1lGT0RWRVo1cE9BTUhKT2ctZ2JLMl93ZEE4YUItVUVTbDVHenVwV2JGVGdTeGdhVGV6T3hjcnBVdUtKSWhCRTBiYkY4aHd2X1U4dmxiZW55emVwa19PRmRlNmV6MWR0Zm16bnViWGJyRmEtZ25uNDREUXhlbEwwa3pSYjh5MERYRW9KLUhqNnZ0aTBTeUlwTTJVbUhYU0p4THFYeW5wRWNVOGRabFY5ZzTSAfYBQVVfeXFMUFV5YVFSd2x5VVlwSWhVY3hTTG5XdDg1cE5kNVpHczJYTmZPLS1KSWFCa0VoVW1WSlRrMnRwRVhsMTB2ekdqTXZERFdaTzlVZk0zcTZPY0tuRUxUbmNXVlJmTjZWa0g2YUh0TG9NMEpaRkRlVG01R3ZsWFpVRS1iZmhHMG96SEdtZHI2N043N1JSNUJQeElacmk0eDhuVTFObzZPRXNsX0dqMHF0M3lSTnpOSmQ2YllSWVRRdUpKM3FWaFJGSWo5SV9mY2lSZ0FBLXZPbkRtWWdQaFpyT05sUWU4bHNlM1E5cm8wS1NEQVo0cm5kd2ln?oc=5
-
-- Another Hit Job Falls Flat: Washington Post's Credibility Crisis in India - NDTV
-  The Washington Post's Credibility crisis
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHFkUmJwN0ZUZjdmbVA1NlRRWDUzWWZSUWRsYy1xOHpMUHZpX0xXWldfenlRTTd0c2ktOWx1aV9IN0hBaW1WblRKV1Z4cGVQMnpqVVVod3BwMzR1bUw1MkpjTHQ0bDAzR2RCUzJrOGdzMkdJY0VxTVZNS2ZKeDR2UTJtV0VQX3h3X2xtcG5Bc1hLdjA3RGZRdEl1U1BkTFBQNXYtenVHeDRnVVdsMFlhWdIBuAFBVV95cUxQRXZqLXV6bExyQVQ5N3YzaTltVE52SjVEX0FIc3h5SEY4ajBoMG9SdUo1bnp0NmlkQ1VidC1xV2s3d3lrV1R5VnZIT3ZTR2w2bzI0WXViLXpzbTh1MUpkQnI3VGlTQmlVRHdsbXlNdzJpLWhkbXByRnQ1SjluMW9rYm1lWk1oZmFSU2YwRnUyeEZTWGZTcUVDYTdnZjdDbERPb05CYjNSeWJlbEhhNmJNclhnMVR6cnlw?oc=5
-
-- Pan-India SIR: ECI to announce first phase dates on Monday; 10-15 states to be covered - Times of India
-  Pan-India SIR: ECI to announce first phase dates on Monday
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS3VxSHE2WDlYRTUxOVhfbFlvdGZ5M2RhMXAyUmNObXpDdjRYTE9ramdBVW5EdjlPbGh2N2pBaDJRRUJqVGp1cEJJblhDZm9WWDVLUDlEQmYyMG9tTVZoS21JTVdTVjZTcWtXdHAtWk00dlplQlNJSWdjRnBNbjJPSmhxMXp0enVIR1ZmTzNrTXRta0VaRjRla1RsTUFpc2Z4NHlxRWEtamltV2k3YnltYnJjOHc0M0llSG1pRU1uOW5RM0ZDQy1mWHJUQlFqTG5keWY2UFYtZTNRS2E2NlNuaU91R0lsZGVlXzdHTUZR0gHzAUFVX3lxTE9zZ3hBSEczbG5oM2RLMUExaUhqdVFXVEg4WFdPREJUYW1DUVhPWGRyRUVZanlQeW9mR3hodDY4RVRxel9sREUxb3ozQkthY0o5VFJZTXljcmZMY3RYdXlSZVo1clF1TnBqYzZOakVyUzdjR3RicU8tQkEwTFRoeGRkMExFYTJaX1hCS1NCejZmbDRLZHI0dGF1VmU2VzA0MFlEME84bGJfZGpGTXVpNVl3d3B4ZV9NM2VIRzJOM1ZZUXV0M1R6NXB6aG1IRGY3ZkplbWUtcjY3Wm5OVFhMX1dKR1JFWGlSc0xHcHpKUHNQb2NRTQ?oc=5
-
-- SIR Phase 2 To Take Place In These 12 States. See Full List - NDTV
-  SIR Phase 2 To Take Place In These 12 States
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbFdZYkdoMlF3MjUxMEYwdW9WamdBMDA1RkVVWk1qbmtRWlliQmh1MFR3MUJ3cmtTMVRXQ0RXdGJUOTRBLWgxaklITjFuei1vUGUwN2FNX3UyYVFaUWk3ekNMUzBXdWdpZ2doaklvZVQ4bUxLRUx4UTlZUU1nMG1RT0QyLUhhQ2Q5bUhJeDAwVnMzQUdKbjBLX0NtOTkzQUQ2X0s5cEZDTHQwTFAxNDFhejFQUFRrNVVsbThJ0gHDAUFVX3lxTFBRNmJtUkxXa1EtbWF3aGd1VWcxMEJfb09fR2JobXBteWdzOWQ1b3F5bUVYQ3ZPcTBzeEc0anBWcHpybUFKUzNGRmE2RHZpRFBRMEVEQXpqeXRHWEFoWWNRTE14dmhucjJYVVlhMnFBWnhXUFdZbFJ2TjVvak95TjBrdkkxVFdfSWt1MXpjSWdaNnItOTJpZkRPem9nV20zTWJwbUdmbzRlU0RUemQ1MDN0d0xHdnZTc1FqU005Mnlrekltbw?oc=5
-
-- Poll-Bound Bengal, Tamil Nadu Among 12 States In Voter List Revision Phase 2 - NDTV
-  Poll-Bound Bengal, Tamil Nadu Among 12 States In
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTURGLVdsLW9RZGhKX1dKYjlqZVRSY1ozU0NwcHJKeEVzOEZ0UnNkTWhtOWRmdzhWV2taeFBRRVc3OGU3QjFyUzlrZmNiRWlFc1g5TUpYY2x2cDFIZF9vX1FwWWJOZGc2STBhekZrNks2aG1fNkNTZVBYRmF1S09jaWd0Z1VQYmZKdlJHZWRMaEdTM2owekZyclpvLUg4VmNpY1dJNjRWTkxWQjh6ZFR2c2FnbTZ1aUJlZDk5QnhOTnBDSjBveXZ6SnZVZGJuR1o0eEl2LWQ1VktWYUtoWVhJbFM1S3XSAewBQVVfeXFMT2VwVWRrUXZuVTNndGdyLTJnNVNOTzM0TVdMTmJjSm1XYW1vLWhQVzAtVlZtS0ZfdFZLbmZBUGZRc3JodWtMRkt1RHVLc2x1RF9GWHdJR2IwNF9mWnE2VGEyNGNFcnc4N3phbXRvYkNnZDJVM200Tzh5TXZuZkM1YjBUbHdhalpzRnNUdHFRWEU1YVNtbWZ6eGZ5b2ZfR012MWJnY1JMOThUbVV1b1FBeGlqSm9EMEtJQ2lmWkZpN2oyUkt4cWlVQXRVQVhvXzJpS0dJUlpIRmFDU3VDdnc4RzlpZWtuYVQ0NWY4bzI?oc=5
-
-- Sweden wants to double trade & investments with India over next five years: Envoy - The Economic Times
-  Sweden wants to double trade & investments with India over next five years
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLXJ1M1JGemRkZWVRc19BNC1UMTRrNnpEMmZBeG9SQXRudDFhckJnanpYMkJHakpyb3RQVWQ5bFZFSFJBMC1iZ1lGT0RWRVo1cE9BTUhKT2ctZ2JLMl93ZEE4YUItVUVTbDVHenVwV2JGVGdTeGdhVGV6T3hjcnBVdUtKSWhCRTBiYkY4aHd2X1U4dmxiZW55emVwa19PRmRlNmV6MWR0Zm16bnViWGJyRmEtZ25uNDREUXhlbEwwa3pSYjh5MERYRW9KLUhqNnZ0aTBTeUlwTTJVbUhYU0p4THFYeW5wRWNVOGRabFY5ZzTSAfYBQVVfeXFMUFV5YVFSd2x5VVlwSWhVY3hTTG5XdDg1cE5kNVpHczJYTmZPLS1KSWFCa0VoVW1WSlRrMnRwRVhsMTB2ekdqTXZERFdaTzlVZk0zcTZPY0tuRUxUbmNXVlJmTjZWa0g2YUh0TG9NMEpaRkRlVG01R3ZsWFpVRS1iZmhHMG96SEdtZHI2N043N1JSNUJQeElacmk0eDhuVTFObzZPRXNsX0dqMHF0M3lSTnpOSmQ2YllSWVRRdUpKM3FWaFJGSWo5SV9mY2lSZ0FBLXZPbkRtWWdQaFpyT05sUWU4bHNlM1E5cm8wS1NEQVo0cm5kd2ln?oc=5
+- Top News Headlines of October 27, 2025 | ‘Best ad I ever ran’: Ontario Premier Doug Ford says after Trump cancels trade talk with Canada - The Indian Express
+  ‘Best ad I ever ran’: Ontario Premier Doug Ford says after Trump cancels trade talk with Canada.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRVdZOUdpbzNkNGFRbHlXT2hfaDVwQUlWa1JIbnN2WWJRRUc3NDNVLVBBRTk2NV9WWkJZNWVpTDRqTnNqUUV1ZDVPOTlaQ0I1S0FnT3BFb0pNemFYbUpnX0N1dWpkd1FqZk1sSFgtOHc1NTE1UWUta0xtcW5ZX05YSzBNeUxWa3FFbklmbWlldmtsdGxWVTExOXZxUkZ6NnBEVHpaLUlUVmp6UHJmWnNxWVMwSXBXbTZ3a3JJZ0xYTVBLMXV0S0RuN3VkcTNOdjdSWXo2SDIzUlZ2TlU2NzBfZXBKLW9RMGV10gHvAUFVX3lxTFBsdzVEeXptc3lwYTQxTWdaWU9TNENVdmd3Y09SQktpc0w4Rklxa0lVTEE2YkVZQktjMGRmVFEya2gyREZYOFRPdWNjSjFyNEotRHo1WmQ2ckc2cmJSVkJBX3pONy04Si1xWFRia2x4al9oaXd2UjVCNFo2b2RaN3lKY29NQktrWlAtRmtNN29qeGdqc0dwbGNVaUY5TThHcnFFbWtVV3hKaUhuNmVBMk50UXlpY0pOcXozcHFabVJnWkZHbGxxcHdxTXBzck54NVMtNUxTODZ1ejU3YkV5c3VBcUY3a3BmellDT2NaU0sw?oc=5
 
 
-_Last updated: 2025-10-27 18:27:28 UTC_
+_Last updated: 2025-10-28 01:11:45 UTC_
