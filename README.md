@@ -1,26 +1,34 @@
 # 📰 Daily News Summaries
 
-- Parliamentary diplomacy can help solve challenges facing UN: BJP MP
+- My deepfakes being used in porn, affecting mental health: Chiranjeevi in police complaint
   
-  🔗 https://indianexpress.com/article/india/parliamentary-diplomacy-can-help-solve-challenges-facing-un-bjp-mp-10332973/
+  🔗 https://indianexpress.com/article/india/deepfakes-porn-mental-health-chiranjeevi-police-complaint-10333439/
 
-- EU’s top leadership to be chief guests at next year’s Republic Day
+- President Droupadi Murmu becomes first President to take sortie in Rafale jet | Watch
   
-  🔗 https://indianexpress.com/article/india/eus-top-leadership-to-be-chief-guests-at-next-years-republic-day-10332910/
+  🔗 https://indianexpress.com/article/india/droupadi-murmu-first-president-rafale-jet-sortie-watch-10333368/
 
-- Maritime security can’t be confined to threat containment, says Navy Chief
+- Cyclone Montha Tracker LIVE Updates: Heavy rain lashes Vijayawada; trees uprooted, roads inundated after Montha makes landfall
   
-  🔗 https://indianexpress.com/article/india/maritime-security-cant-be-confined-to-threat-containment-says-navy-chief-10332958/
+  🔗 https://indianexpress.com/article/india/cyclone-montha-live-updates-tracker-landfall-andhra-pradesh-coast-imd-rains-10333312/
 
-- Cyclone Montha makes landfall in Andhra, rain pounds Odisha
+- Gold Today Rate, October 29: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/cyclone-montha-makes-landfall-in-andhra-rain-pounds-odisha-10332971/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-october-29-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10333324/
 
-- Officiating appointments to top posts: Himachal Guv seeks explanation from chief secretary
+- Cyclone Montha: Are schools closed today in Odisha and Andhra?
   
-  🔗 https://indianexpress.com/article/india/officiating-appointments-to-top-posts-himachal-guv-seeks-explanation-from-chief-secretary-10332781/
+  🔗 https://indianexpress.com/article/india/cyclone-montha-are-schools-closed-today-in-odisha-and-andhra-10333191/
 
-- Guarding data in quantum computers to Life 2.0: Finest GenNext in Indian science
+- Meet NEO, the $20K humanoid robot that cooks, chats and carries groceries
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meet-neo-the-20k-humanoid-robot-that-cooks-chats-and-carries-groceries-10333363/
+
+- ‘We are providing a platform that is incredibly accessible to everyone’: GitHub CPO on how AI-assisted coding is helping build better software
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/we-are-providing-a-platform-that-is-incredibly-accessible-to-everyone-github-cpo-10333199/
+
+- From Quantum frontiers to Life 2.0: Meet the 14 young scientists shaping India’s scientific future
   
   🔗 https://indianexpress.com/article/technology/science/guarding-data-in-quantum-computers-to-life-2-0-finest-gennext-in-indian-science-10332948/
 
@@ -32,53 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/science/space-junk-how-earths-orbit-became-a-floating-landfill-10332465/
 
-- Microsoft and OpenAI revise deal terms, require external panel to evaluate AGI claims
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-openai-revise-deal-agi-verification-10332457/
+- Amazon may slash up to 1,000 jobs in India  under global cuts, says report – which departments will be impacted?
+  The e-commerce giant plans to cut 800 to 1,000 corporate roles in India. The layoffs will affect various departments, including marketing, human resources and tech.
+  🔗 https://www.livemint.com/companies/news/amazon-may-slash-up-to-1-000-jobs-in-india-under-global-cuts-says-report-which-departments-will-be-impacted-11761709879518.html
 
-- Microsoft, OpenAI reach new deal to allow OpenAI to restructure
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-openai-reach-new-deal-to-allow-openai-to-restructure-10332314/
+- Amazon Web Services plans $5 billion investment in South Korea's AI industry by 2031
+  AWS plans to invest nearly $5 billion in South Korea by 2031. This was announced during a meeting between AWS CEO Matt Garman and President Lee Jae Myung.
+  🔗 https://www.livemint.com/companies/news/amazon-web-services-plans-5-billion-investment-in-south-koreas-ai-industry-by-2031-11761706793273.html
+
+- Are we in an AI bubble that’s about to burst? Here’s what Nvidia’s Jensen Huang thinks
+  AI spending is projected to reach $1.5 trillion by 2025. Nvidia CEO Jensen Huang predicts $500 billion in revenue from new chips.
+  🔗 https://www.livemint.com/companies/people/are-we-in-an-ai-bubble-that-s-about-to-burst-here-s-what-nvidia-s-jensen-huang-thinks-11761703195091.html
+
+- Amazon confirms 14,000 job cuts amid AI push, more layoffs likely - here's what we know
+  Amazon confirms a reduction of 14,000 corporate jobs, around 4% of its workforce. This follows a series of management role
+  🔗 https://www.livemint.com/companies/news/amazon-confirms-14-000-job-cuts-amid-ai-push-more-layoffs-likely-heres-what-we-know-11761698614456.html
 
 - UPS cuts 48,000 jobs to boost profits – Amazon slowdown, Trump tariff impact?
-  UPS has slashed 48,000 jobs since last year to cut costs and revive profits. Shares surged 7
+  UPS has slashed 48,000 jobs since last year to cut costs and revive profits. Shares surged 7% as
   🔗 https://www.livemint.com/companies/news/ups-cuts-48-000-jobs-to-boost-profits-amazon-slowdown-trump-tariff-impact-11761697806909.html
 
-- At 15, Blume Ventures targets $275 million for Fund V, leaning on AI and institutional LPs
-  The firm is evolving its playbook by embracing AI applications and moving towards a more
-  🔗 https://www.livemint.com/companies/news/blume-ventures-275-million-fund-v-ai-applications-institutional-limited-partners-venture-capital-11761649388867.html
+- Adani Green Energy share price pops 14% to 4-week high on strong Q2 performance
+  Adani Green Energy shares surged 14% to  ₹1,145 after strong Q2 results, marking a one-month high. Despite flat revenue, a 25% increase
+  🔗 https://www.livemint.com/market/stock-market-news/adani-green-energy-share-price-pops-14-to-4-week-high-on-strong-q2-performance-11761716137176.html
 
-- UPS Layoffs: 34,000 workers laid off in first 9 months of 2025 amid turnaround efforts
-  The 34,000 eliminated jobs marked a 70 per cent increase from its previous target. UPS had in April said it was planning to lay off 20,
-  🔗 https://www.livemint.com/companies/news/ups-layoffs-34-000-workers-laid-off-in-first-9-months-of-2025-amid-turnaround-efforts-11761668799973.html
+- India’s helmet king hits the IPO track—can Studds shift gears for growth?
+  The helmet maker will hit Dalal Street on 30 October with a  ₹455 crore offer-for
+  🔗 https://www.livemint.com/market/stock-market-news/studds-ipo-helmet-maker-investor-appetite-two-wheeler-boom-11761709748998.html
 
-- Jindal Steel to have a CEO after five years as Gautam Malhotra is elevated
-  Jindal Steel's net profit stood at  ₹638 crore in Q2, a decline of about 26
-  🔗 https://www.livemint.com/companies/jindal-steel-names-gautam-malhotra-ceo-q2-profit-falls-misses-estimates-11761663246396.html
+- Nvidia becomes the first Nasdaq-listed company to be worth $5 trillion
+  The stock has given whopping returns of 84.40 per cent in just six months. Nvidia share price has been witnessing a strong rally in the near
+  🔗 https://www.livemint.com/market/stock-market-news/nvidia-becomes-the-first-nasdaq-listed-company-to-be-worth-5-trillion-11761715585058.html
 
-- Office developers sniff a service opportunity in India's GCC boom
-  As the GCC opportunity grows, developers are looking to provide real estate, operational support, talent acquisition, technology, and regulatory compliance support services
-  🔗 https://www.livemint.com/companies/global-capability-centres-regulatory-compliance-support-gcc-lifecycle-11761647621244.html
+- Gold prices in your city today: Check rates in Mumbai, Bengaluru, Chennai, New Delhi, Kolkata on October 29
+  Gold prices in Mumbai, Bengaluru, Chennai, Hyderabad, Delhi and Kolkata
+  🔗 https://www.livemint.com/market/commodities/gold-prices-in-your-city-today-check-rates-in-mumbai-bengaluru-chennai-new-delhi-kolkata-on-october-29-11761713239448.html
 
-- Japan's Nikkei 225 hit record high, South Korea's Kospi rise marginally ahead of US Fed rate decision
-  The Topix index was little changed, while South Korea’s Kospi edged up 0.17 per cent and the Kosdaq slipped 0.25 per cent.
-  🔗 https://www.livemint.com/market/stock-market-news/japans-nikkei-225-hit-record-high-south-koreas-kospi-rise-marginally-ahead-of-us-fed-rate-decision-11761698409179.html
+- Small-cap stock that doubled shareholders' money in 6 months defers rights issue citing technical reasons
+  Krishival Foods announced on October 28 that the board has decided to defer the rights issue due to technical issues. Krish
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-that-doubled-shareholders-money-in-6-months-defers-rights-issue-citing-technical-reasons-11761711770722.html
 
-- Stock market today: Trade setup for Nifty 50, US Fed meeting to gold, silver prices - 8 stocks to buy
-  The Indian stock market closed nearly flat, with Sensex down 150 points at 84,628 and Nifty 50 down 30 points at 25,936. Profit-taking and mixed global cues influenced the decline
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-us-fed-meeting-to-gold-silver-prices-8-stocks-to-buy-11761665810305.html
-
-- Stock recommendations for 29 October from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 29 October. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-29-october-marketsmith-india-sensex-nifty-deepak-fertilisers-hle-glascoat-11761659961132.html
-
-- Stocks to buy: Raja Venkatraman's top picks for 29 October
-  Market expert Raja Venkatraman shares his top three stock picks to buy today, 29 October.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-picks-29-october-sensex-nifty-union-bank-laurus-labs-bandhan-bank-11761655117192.html
-
-- Three stocks to buy today: Ankush Bajaj's top recommendations for 29 October
-  Market expert Ankush Bajaj recommends three stocks to buy on 29 October. Discover his
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-ankush-bajaj-top-recommendations-29-october-sensex-nifty-bharti-airtel-larsen-toubro-vedanta-11761665608349.html
+- BenQ MA270U review: A 4K monitor that actually gets MacBook users right
+  The BenQ MA270U is a 27-inch 4K monitor made for MacBook
+  🔗 https://www.livemint.com/technology/benq-ma270u-review-a-4k-monitor-that-actually-gets-macbook-users-right-11761677636463.html
 
 - Apple is offering iPhone 17 Pro at a massive discount — Here’s how you can grab the deal
   Amazon's trade-in option now allows customers to save on the iPhone 17 Pro. The effective price can drop to  ₹70,155 with discounts
@@ -96,129 +100,105 @@
   Anthropic has rolled out Claude Desktop for Mac and Windows. The update enables hands-free interaction, real-time analysis, and visual workflow automation.
   🔗 https://www.livemint.com/technology/tech-news/amid-chatgpt-atlas-buzz-claude-desktop-quietly-launches-with-screenshot-window-sharing-and-voice-control-11761641158779.html
 
-- iQOO 15 confirmed to launch in India on November 26: Expected specifications, features and more
-  iQOO 15 will be launched in India on November 26. Powered by Qualcomm’s Snapdragon 8 Elite Gen 5 chip and Android 16-based OriginOS 6. Expected to feature a
-  🔗 https://www.livemint.com/technology/gadgets/iqoo-15-confirmed-to-launch-in-india-on-november-26-expected-specifications-features-and-more-11761635923720.html
+- Orkla India IPO subscribed over 20% in early bids on day 1. Check GMP, analysts' review and key details.
+  Orkla India’s Rs 1,667 crore IPO opened today, receiving 22% subscription within the first hour. Priced between Rs 695–730, the issue carries a grey market premium of Rs 77, implying a
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/orkla-india-ipo-subscribed-over-20-in-early-bids-on-day-1-check-gmp-analysts-review-and-key-details-/articleshow/124890764.cms
 
-- Stock Market Today: Dow Rises; UPS Shares Jump; Microsoft Nears $4 Trillion — Live Updates - The Wall Street Journal
-  The Wall Street Journal reports that Microsoft is close to a $4 Trillion valuation
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOQUZiSjAzQTJZTmxDSDRXU3RZMWV1d3MxLXdDWk5ZN3pqOHZRZllHa05SQXdJX1h6ajhkVmRZRXJ4U01Ub2JDRm9rMTJCVUlvbzJHZUREU0ZRMkFrZm1XUWtPS1I3TkU4MV9kVkxOVURUa1E4R2ZnY0t4M0ZhZ3lxZEJnelVScVE?oc=5
+- ITC Q2 results preview: PAT may grow up to 11% YoY, revenue seen 15% higher; 6 things to track
+  ITC's Q2 earnings are anticipated to show a modest profit increase of up to 11% year-on-year. Analysts expect steady cigarette volumes and an improved product mix to drive growth.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q2-results-preview-pat-may-grow-up-to-11-yoy-revenue-seen-15-higher-6-things-to-track/articleshow/124890626.cms
 
-- Stocks close at record highs for second day as AI trade heats up ahead of Fed rate decision - CNBC
-  Stocks close at record highs for second day as AI trade heats up ahead of
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE81UjlvYjlFanF0eGQ0N0owY0prQnV6OFM0NmEwQUNYNzZBa29mQUoyN3NkY3pHN1JaQ1JPY2UxaEJTZ2NRcHFFTlkzM1dtU0I5Q0hPOWdnZXVibldxSndWTHdQZnBYTDFsUGhVZnlBejR0bjNjMU000gF8QVVfeXFMT2tJaXkySzU5SnhqNHJKQk04bEh0NkRtMVZocE5lRWRWcHIzc1B6R0tsWGhKUjV3UlNBbVc1eUF2TFFiUklHdXoyWWJUNVk1UVZUYkk4YWhZaklla19GWHE4NEZKMVJ6V1ltODQ5U0pIWE5EMHVOTWoyTlpzSA?oc=5
+- Indian Oil shares rally 4% to record high. What should investors do?
+  Indian Oil Corp shares hit a 52-week high after strong Q2 results. Brokerages remain divided, citing steady outlook
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-oil-shares-rally-4-to-record-high-what-should-investors-do/articleshow/124890048.cms
 
-- Stocks Get Tech Lift in Run-Up to AI Earnings Test: Markets Wrap - Bloomberg
-  Stocks Get Tech Lift in Run-Up to
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNX25sWm16SUJwemFzMC1UUi10TGltSENnVURnb3ZvWVViVjFKT3RFUlFsZ3RCSGVJbnl6dkZPaThZUDRNSF8xZk1SSTVaVE5hLUtJb0FWaVpvMTB1Q3JhNnlKUGozQU9ybEdqM0tZV25VZTJWdmRvMTJubnpFMmhsdEFlOGpkNTFNQUJxQzdMRHZFSGZ5?oc=5
+- Metal sector remains a trading play, not a structural Bet: Dhananjay Sinha
+  Dhananjay Sinha of Systematix Group sees positive sentiment driving PSU banks. He views the metals sector as a trading play, influenced by global dynamics and financial correlations.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/metal-sector-remains-a-trading-play-not-a-structural-bet-dhananjay-sinha/articleshow/124890413.cms
 
-- Japan's Nikkei 225 hit record high, South Korea's Kospi rise marginally ahead of US Fed rate decision - Mint
-  Japan's Nikkei 225 hit record high, South Korea's Kosp
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZHE3aXpQQ2RsLXY4N1VIVzZKMDh3U0Riekp4UFpQdUtuQ3JDWUp3NTFub3ZXLUd6VDBsNnlQdzVpSjBXdW5SWm5hYTRodDhoRlVNdmQyX2Zpd1dKcklqU09seGhKZFExWDJiS2pEbUh0U2lkYUczVGhiSnQ0enV0MFZxeGtlN0hCUVBGMzBYNXMwQWhrOENSem5yaE1ob05pNXV2YU5BSFU3OWhMU05WTFFnMmxkSFBpdXJsN0l6aHc3Yloyel8xekVMYTFzXzRnenRxVHVoTERhUVhkM2J3ZEtHN0dRaTRLYzdiMi1RYV9YeXI5MTJKejR4TjfSAYICQVVfeXFMUEdRZFV0OXM4Q1llYjRXS3liX2pWQ0xucUJnUmxFcUg3dXVVanprcjZTZnBHTG1qN1lTd1dOZDBDSjMzcXY3VXFsRFVtazhHTktvYXFyQUxZVlpCSm9Ed1cycjRjS2ZST3djSmFfMnpjTUx1NnF5WWdEajZvcDhKX1lqenc1NDA3QmtWVDBrWTdkTGR6Z1dqeWxBQWxITGNpSTUzcndJUmtsVEI1b1NDdjZpNW9yZ0lkeFI4eXRkNWF0MVJETmt0cXV4aUxvQTRPNTJfTnMwbTRFTlRXN2hUT2R1anlLTEpZeGk5Q2hFaVFuZ2hEdlNQbUVwNmNkUDEwVHBR?oc=5
-
-- Sensex, Nifty slip amid profit-taking, weak Asian markets - The Hindu
-  Sensex, Nifty slip amid
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0lnLUc0b0wwUWxtb0NLaHFqTWNSa2hIWnpUMERUaHlxcUg3b044U1ZScjlQQ21ZVUU2bXEteW5UYXVRQUFxZWhKVDJfRTVlOWlxeEV3SDI2LWZKcEk5RzdtZ2E4ZUVvNTNhQWdMSnE5eGFzNFdveEp3M3lmRWZXVmgxWURpNHRTMXJleDVMX3VuX2ZFVV9Bbll5b05OZkUxcDYzdGw0VHY1anVhb0ozLThqckxBUXAt0gG_AUFVX3lxTFBOOFRDQWRsSmI1dFB1M0U3eHFZdmxKekR0SnFENFZCUnc1UjdvcGc5elNxaFZ2NWxmcVlxZXI4MU5UM1lubUNrZWZHaEFiRVFtQmRwbURsM0ZNRUphWjVweW1EdTBlRU4wVDh0MU9nWTRhMGlOY3EtV1RjX1pzV0g1dXY0dEFWdXprX3JHOEFtNG14bnUzRjQtVHI5Q2FvWS1kT25ZYzc1N1FqZm5qQU42RUZES3BiRmZ5MGg5VnFJ?oc=5
-
-- ReNew agrees to $8.15/share buyout offer
-  ReNew Energy Global Plc has agreed in principle to an $8.15 per share cash buyout offer from a consortium of four key shareholders. This move aims to del
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/renew-agrees-to-8-15/share-buyout-offer/articleshow/124886272.cms
-
-- RBI may cap yield at 7.18% in 30-year green bond auction
-  The Reserve Bank of India is expected to reject bids above 7.18% for its upcoming sovereign green bond auction. Domestic investors currently treat green bonds like regular ones, lacking a 'greenium' This, coupled with limited liquidity and no
-  🔗 https://economictimes.indiatimes.com/markets/bonds/rbi-may-cap-yield-at-7-18-in-30-year-green-bond-auction/articleshow/124886210.cms
-
-- AB Capital a good candidate for MSCI entry: Nuvama
-  A recent block deal by Jomei Investments has boosted the stock's free float. Analysts predict potential inflows of $230 million.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ab-capital-a-good-candidate-for-msci-entry-nuvama/articleshow/124886190.cms
-
-- Can Orkla India's IPO deliver long-term gains for investors?
-  Orkla India is set to launch its IPO, aiming to raise ₹1,668 crore by offering shares. The company, known for brands like MTR and Eastern, has seen revenue and profitability growth.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/can-orkla-indias-ipo-deliver-long-term-gains-for-investors/articleshow/124886178.cms
-
-- AI fuels tech rally; Apple touches $4 trillion
-  Tech megacaps propelled stocks to new highs, fueled by AI-driven earnings expectations. Microsoft's OpenAI pact and Apple's market cap milestone highlight the sector's strength.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ai-fuels-tech-rally-apple-touches-4-trillion/articleshow/124886127.cms
-
-- Bangladesh gets big offer from Pakistan amid frayed ties with India, via Karachi | Latest News India - Hindustan Times
-  Bangladesh gets big offer from Pakistan amid frayed ties with India.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZC0xbzlQSXJOUWF6SDdGcng1RmZZd3IyOTdwQy1wRlpfREZEd1phQW9kTWpfT2VQamtrVl9lQ1N4ODNDVW9yMjUxXzg3Y3d6ZHVtTTFXd0I1cVJlM0lpVWdVaHphSURTeENKeXlBYnJvRGxrZUFRaklYajJacjNEUXo4UldnRWprU205S1pKMVpQV09wM1o1ZmRUdjNIU3BZaEtvOGY4TXhwREkydzNHVS1Kc0wyaXVRbE56ZkR3NXJIVnloRGpvSkNSa2ZyaXVVMHVTT19DV0taNTZjZUhDU2d0bjUxa3ZZVWfSAe8BQVVfeXFMT0lfaGxuYlo1VU9jcG93M2tMWFZ1Z1Jrc193ZTFSemtZN09aYWUzQVdiUkVmb1pkUFJLM3g4VUpDY3Atd1NPWlptUjQyNkl2RFV2Wk9oZ0lUUFEzSEUyN2ZTa2lxaW4xQ3VvWXlOOFkzN0kwa01fTHh1SUpvT296ZjBxQ29NaExxd19Lc0NxUFhqUDJOLWNpQWVRYllITzIzekdsVF94bDJ1cWIzNE5HMnYxbm9RcjBiMXVNUFdCVzlLVXp5SU10UGFoUG55dlphQ0ZWbnl2MGFPZkhkUmV3WWRjdlNubWdZOUpmdF9DaUE?oc=5
+- Fed meeting outcome today: What to expect &amp; 5 things to watch out for
+  The US Federal Reserve concludes its policy meeting today. Markets widely expect a 25 basis point rate cut. Investors will watch for clues on future rate cuts and the Fed's economic outlook.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fed-meeting-outcome-today-what-to-expect-5-things-to-watch-out-for/articleshow/124890144.cms
 
 - ‘I am done’: Delhi techie’s Reddit rant about leaving India due to lack of basic infrastructure goes viral - Mint
   'I am done': Delhi techie’s Reddit rant about leaving
   🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQmVhRXI2UG1aZ2R0NWozMXNFNTAyd0ViM1g4eFhDNjBweHdXZVVCZldyTnpBaC1qLTZ4QW1RemNwWHcwdFM4aUVVWlhiZUIwd1lxem5mZjY3RWdOZGl3d21nZHhXeWwtbHVxUzhiRzB3ZXFYZVE5Vld6SXRhN0d2cHhRZXZjeE9wNWxzckg3bDRRbFN0VTJ6NG9jOXhVdUc5WjR1V2ppck1Xa2VLMWhyUFZqUEJvM1NlV3ozNEpCYUdEeEV3UDVpVkRBUnRwZEd3aXZVcVRYUjd0TXgyMm5tLXNtVWVGeWtMYUs3ZHJlMWVWd9IB9wFBVV95cUxNZmp5bk1FUHB3VW8zZFJTT2daX0R6cVI1ZmNpTi1iSENXRGsyYk1RalFUREhiX24xekI4ZWF4U0t2QURfRmFTaVZwSGFpM21pUE5hUjczdFh4Z013eUt1REx0X3B4dldUekhKaEk2LWxQZnNMb1lqRkVFSU5MODFDSGRHSk5sSU1WRm0ycEtBZFI5b09NQ2stQWZTUmdyNU9fN195XzRINUdtZ09JRmJyMGlOTXQ3MjRwZnF6dS0wVmg0ZEJHWWVjN0EzWXdlTnJNaFR0RTljc3dSQndFcnVtR000Y1VrRnVpU3BIR1hDZzl1QkwyLTVr?oc=5
 
-- Chinese behind most crypto, loan app rip-offs: ED report - Times of India
-  Chinese behind most crypto, loan app rip-
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkwtcktDd0FBVTdNRlBJSWJITEZEQXVNYTN3R1JIMXpqeXVMdjlmQUhxNkUzSUtycmFFTjBoNWstM3lkeXNfZVdnR3hXZ0FHZnJKWHVXOHBEZmlWaF9vUWFKVHE5a2NYRURnNTdfbnhVaW52ZjhNS2EtdWNpRVM1akVFczhqOWpTZ2lra0xBOFBlZk1IazhYNlhjV1NPdERoUnV3RF9fa3Zfb1JHRmRKcVJEM1ZWeHgtZGtIVXpza9IBxAFBVV95cUxQWTk2bENWRnZwcmk0eWhoQXhKemZXc3BJYXVROHo0OGJhOUdfU0pUeTlwWC1yN0tOVmV1N2otYU9iSHRMWVRWVE9CRXdSdTRoemxDV1RxWkdlc3NTR3VQblRRUi1Jcnl2YnduRWEtY2NLcHZOamJwdm43YWNWQ0p5bkp3bmY0MXhpdlpXMUVfNERFYkR3eW43Q2pxclE4MHMwYjAtWDQwSXVCdFVHS0RLcU5vRFFpSUZmUm1lczI5MWtud1Y4?oc=5
-
-- State govt will contest HC order, says CM Siddaramaiah - Hindustan Times
-  State govt will contest HC order,
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQY1lDdDI4YUVxRFZISmFia3g3TmNCZWdiMEtFVW5qR2hjOG9wMGo2SnFzUWUxa3hOMnl3TjJYYkxUZGZlbURleWFFY2tDRXNjX2dNbDQ1eUdRbTg1VDJvb2ViTVJVWjB6ME9NQ2Q3Zm8tZUg1TGNObndlT0JhVGhxUldMVWJxaHVFUS1ua3lVV0VUdGhxRURXVjVPUmVtVFloeG8yWGdsMWx0d0M2QUpLaVNNMWo4ZEU?oc=5
-
-- Visit to Delhi personal, not political, says DKS | Latest News India - Hindustan Times
-  Visit to Delhi personal, not political, says DKS
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3pkb1d0Wk9Hc0ZsZzRuQzhWTHM1NGdPNmFpdVhJelM3NDh5REVxYmxoQ0Fkc3FvWDg2dmZGcnV6a2FiZkE5VUNQdjAxajJFTlhpMlJyaTVVVk1wajZ0MVdkLXQwejBBVEMzWHhtWVlTemJHLVh3V0U0S0FVLTZwc2Fvck9sRTlNRENzamZOQ3lZREoxa0pJdUxvY3lzZzNYdW16a0VZU0ZVdTNZMmfSAbMBQVVfeXFMTTNUZ19uRkRKMDBIQmY4dHkxbm9lbHhUdF9wamlwU1RMMS1LTkFUa3ZLUGJTTkpIOXRRcG02WkNZWUpsNF9lSjZCOUIzUEZSTmlvTWZUaTdCMk81REtQckZlWFp1dG96bll4VUtBNFJRdWZ4dG1oQUVhQVVrbThnV2RhdlA4R2h0dEdtTlV6bnVFakp6SlFCUjVLWjZ4SWxvZHBrdmFfVGJaMVhhcGhzcFd5LTg?oc=5
+- OpenAI Offers 'ChatGPT Go' Free For 1 Year To Users In India From November 4 - NDTV
+  OpenAI Offers 'ChatGPT Go' Free For 1
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHBaYnFvelpLaHFvcWd5NnFQY3N6VGtMM1R5aTJuYUM2b01JQ1RQOTU1a05EUW9RS3hTZ1BWaWhRZGIzVHpwNWVMQ210dEJFTXh0djE0endfa1NFSXJIT0hMQjRNbXU1MlFabDVkeXM2b3hNZnRDTXNjcFoxb3EwTFVCamZkZjAtWEhRX0V0a01QQzBfWllSOWNpWElOQXNWVE82QmdQOE91Sy1KMnNqRTdWcmXSAbwBQVVfeXFMTk9DN0FsNVJVclRmM0g4QVVJSDd2LUtndDhZTENqVGZkLWxpVzF1Qm14ckI0QTgxOFpROUM1aU54MlB2Wmc3X2k5NU1kNjRaNGUwMlRRTDdUNE1iMkFobVZiN2dUUlFFZ1BLa1N4M3REYTU2cFRRdzhJeThYTFI4SlEtSi02THh0ZTRucmJXUklKYTBpbzZ6bmdnWEpVM0JhQVBPbE9qNEJXTmlLeEJHOXZvUG13ajJDYkxTc18?oc=5
 
 - Bangladesh gets big offer from Pakistan amid frayed ties with India, via Karachi | Latest News India - Hindustan Times
   Bangladesh gets big offer from Pakistan amid frayed ties with India.
   🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZC0xbzlQSXJOUWF6SDdGcng1RmZZd3IyOTdwQy1wRlpfREZEd1phQW9kTWpfT2VQamtrVl9lQ1N4ODNDVW9yMjUxXzg3Y3d6ZHVtTTFXd0I1cVJlM0lpVWdVaHphSURTeENKeXlBYnJvRGxrZUFRaklYajJacjNEUXo4UldnRWprU205S1pKMVpQV09wM1o1ZmRUdjNIU3BZaEtvOGY4TXhwREkydzNHVS1Kc0wyaXVRbE56ZkR3NXJIVnloRGpvSkNSa2ZyaXVVMHVTT19DV0taNTZjZUhDU2d0bjUxa3ZZVWfSAe8BQVVfeXFMT0lfaGxuYlo1VU9jcG93M2tMWFZ1Z1Jrc193ZTFSemtZN09aYWUzQVdiUkVmb1pkUFJLM3g4VUpDY3Atd1NPWlptUjQyNkl2RFV2Wk9oZ0lUUFEzSEUyN2ZTa2lxaW4xQ3VvWXlOOFkzN0kwa01fTHh1SUpvT296ZjBxQ29NaExxd19Lc0NxUFhqUDJOLWNpQWVRYllITzIzekdsVF94bDJ1cWIzNE5HMnYxbm9RcjBiMXVNUFdCVzlLVXp5SU10UGFoUG55dlphQ0ZWbnl2MGFPZkhkUmV3WWRjdlNubWdZOUpmdF9DaUE?oc=5
 
+- Top news of the day: October 28, 2025 - The Hindu
+  Top news of the day: October
+  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxOM2ZYYjJZRlI1MjAxREU3SHdLX3JmSzN0Zmp2S1BaelV1Q3oyMFVac0xOWmFacmtvOU5UWFdWaGJ5ZGlfNy12OGVvTzhXd19SQURDMi1qbXJmOXo2dVFsN3VPUlgwaVh3UjFhUjQzNTQ5UTBxN3RYazdzZWR6TDdFVXNpMHV0TjRSQ0JCV2JVSmxEUmlkWHlHTmJLLUxHVWtkaTJfaHRCaHRmTnNEeU9KeHdxUmJhRHpOUk1QcnM1T1Q1bktZNW5pVzZTVzJjZVRRRlFqNldjZFB1WGNubmlNRURJY0JtMkhYLWtxMGlERmUxTzhyeXNOYm5qeVhxS0hEbUNaaVdEOXc5MTA5TVNvVW9qT1dvRmQxUGhERlhZcHXSAacCQVVfeXFMTW5ENHBzSWZhRHdOQUVTMmF6dndUV3NkbjB0WDlSWDVzc19KZlRza1ZneFNXa1FWVm9Xdlc1UDhqb09MUWZGS3dpQWJSMG1JOHlrdDBneVJsUVZwSTBUbXR5SlJxQVlqZE1MSnNmVTNmdDl2SjZqTVFCdzVpaXhYcUhndElYV1NXb0dWaUNSckE3THAxbG9aTlVIVkI2czY4d01xZzJqM2dJblRqS0Q1azU4SGFsZXV6QjNpSFJmdklDTG5USV9ZVy1CeG02WFB3Z3Zhb2otcEl6RUlDd1BCSDlvM2tiamVUa254MHVWQ3JKNy1FSzhZdUZ1Q3hYSU1ZOU1wbk11V2h2STVDSWVnUFJ3cWl4aEFac0x6ZmxvWUFvREQ2enRTbw?oc=5
+
+- News Today Live Updates, 29 October | My deepfakes being used in porn, affecting mental health: Chiranjeevi in police complaint - The Indian Express
+  The Indian Express reported that Chiranjeevi's deepfakes were being used in porn.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVM2dlBpb05faHZvbzBmQW1aUXlGdFo4VXVvTEJJQ3Q0SU9LcXo5Ql9taXVQRmhGWGRJYmJtbm1EdW1Rblo5YkdQQzFpUS1NbU5OeVhTYU93dTBESTV0TFRBVTNTTGs4bE1VUjlyYnd6UHluTlZCUzVaTkFaaUprLUdJR01RTlJQXzZCQ0d1TTJIMzVSY3V0VTZCQklkMkQ2d2JfTy16Y1p3TEtKVlJYVjF4UURmak9VVGZwRjduT29sZk45SnBScmxlbkFzczRWREdOYzQ2OU5KZU5pcGdUOEpRQ3FSa09i0gHvAUFVX3lxTE9kVnUtdEFQbjZtNG9hb1JzQy15b0MwbmtDUzlCUTNDVkZXejVRQ2J6RjV6SGhtUFFmYmw3dWtET1FkOUlOVTBrQjZCcU5VV19lSWlYanZMYzZadk1TSktwUzlEOXY1djMyQTRzSFdtQWJYaTdjYVVHVk1fc0ltYVFrZFJqQnRkNU02YXVZTlROY3Z3Tk9XM1B2NkdEQW9kTk8yaW1GS1Bzdk16MjY2czc1UUU4bzhydnVrWE9qZGFudktIdUxmTDRUTE1OQTdfdFh0aUxNb0V4RTdaYnpOdkFTYkU4bDh6RjhIckNNcEpz?oc=5
+
 - ‘I am done’: Delhi techie’s Reddit rant about leaving India due to lack of basic infrastructure goes viral - Mint
   'I am done': Delhi techie’s Reddit rant about leaving
   🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQmVhRXI2UG1aZ2R0NWozMXNFNTAyd0ViM1g4eFhDNjBweHdXZVVCZldyTnpBaC1qLTZ4QW1RemNwWHcwdFM4aUVVWlhiZUIwd1lxem5mZjY3RWdOZGl3d21nZHhXeWwtbHVxUzhiRzB3ZXFYZVE5Vld6SXRhN0d2cHhRZXZjeE9wNWxzckg3bDRRbFN0VTJ6NG9jOXhVdUc5WjR1V2ppck1Xa2VLMWhyUFZqUEJvM1NlV3ozNEpCYUdEeEV3UDVpVkRBUnRwZEd3aXZVcVRYUjd0TXgyMm5tLXNtVWVGeWtMYUs3ZHJlMWVWd9IB9wFBVV95cUxNZmp5bk1FUHB3VW8zZFJTT2daX0R6cVI1ZmNpTi1iSENXRGsyYk1RalFUREhiX24xekI4ZWF4U0t2QURfRmFTaVZwSGFpM21pUE5hUjczdFh4Z013eUt1REx0X3B4dldUekhKaEk2LWxQZnNMb1lqRkVFSU5MODFDSGRHSk5sSU1WRm0ycEtBZFI5b09NQ2stQWZTUmdyNU9fN195XzRINUdtZ09JRmJyMGlOTXQ3MjRwZnF6dS0wVmg0ZEJHWWVjN0EzWXdlTnJNaFR0RTljc3dSQndFcnVtR000Y1VrRnVpU3BIR1hDZzl1QkwyLTVr?oc=5
 
-- Chinese behind most crypto, loan app rip-offs: ED report - Times of India
-  Chinese behind most crypto, loan app rip-
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkwtcktDd0FBVTdNRlBJSWJITEZEQXVNYTN3R1JIMXpqeXVMdjlmQUhxNkUzSUtycmFFTjBoNWstM3lkeXNfZVdnR3hXZ0FHZnJKWHVXOHBEZmlWaF9vUWFKVHE5a2NYRURnNTdfbnhVaW52ZjhNS2EtdWNpRVM1akVFczhqOWpTZ2lra0xBOFBlZk1IazhYNlhjV1NPdERoUnV3RF9fa3Zfb1JHRmRKcVJEM1ZWeHgtZGtIVXpza9IBxAFBVV95cUxQWTk2bENWRnZwcmk0eWhoQXhKemZXc3BJYXVROHo0OGJhOUdfU0pUeTlwWC1yN0tOVmV1N2otYU9iSHRMWVRWVE9CRXdSdTRoemxDV1RxWkdlc3NTR3VQblRRUi1Jcnl2YnduRWEtY2NLcHZOamJwdm43YWNWQ0p5bkp3bmY0MXhpdlpXMUVfNERFYkR3eW43Q2pxclE4MHMwYjAtWDQwSXVCdFVHS0RLcU5vRFFpSUZmUm1lczI5MWtud1Y4?oc=5
-
-- State govt will contest HC order, says CM Siddaramaiah - Hindustan Times
-  State govt will contest HC order,
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQY1lDdDI4YUVxRFZISmFia3g3TmNCZWdiMEtFVW5qR2hjOG9wMGo2SnFzUWUxa3hOMnl3TjJYYkxUZGZlbURleWFFY2tDRXNjX2dNbDQ1eUdRbTg1VDJvb2ViTVJVWjB6ME9NQ2Q3Zm8tZUg1TGNObndlT0JhVGhxUldMVWJxaHVFUS1ua3lVV0VUdGhxRURXVjVPUmVtVFloeG8yWGdsMWx0d0M2QUpLaVNNMWo4ZEU?oc=5
-
-- Visit to Delhi personal, not political, says DKS | Latest News India - Hindustan Times
-  Visit to Delhi personal, not political, says DKS
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3pkb1d0Wk9Hc0ZsZzRuQzhWTHM1NGdPNmFpdVhJelM3NDh5REVxYmxoQ0Fkc3FvWDg2dmZGcnV6a2FiZkE5VUNQdjAxajJFTlhpMlJyaTVVVk1wajZ0MVdkLXQwejBBVEMzWHhtWVlTemJHLVh3V0U0S0FVLTZwc2Fvck9sRTlNRENzamZOQ3lZREoxa0pJdUxvY3lzZzNYdW16a0VZU0ZVdTNZMmfSAbMBQVVfeXFMTTNUZ19uRkRKMDBIQmY4dHkxbm9lbHhUdF9wamlwU1RMMS1LTkFUa3ZLUGJTTkpIOXRRcG02WkNZWUpsNF9lSjZCOUIzUEZSTmlvTWZUaTdCMk81REtQckZlWFp1dG96bll4VUtBNFJRdWZ4dG1oQUVhQVVrbThnV2RhdlA4R2h0dEdtTlV6bnVFakp6SlFCUjVLWjZ4SWxvZHBrdmFfVGJaMVhhcGhzcFd5LTg?oc=5
+- OpenAI Offers 'ChatGPT Go' Free For 1 Year To Users In India From November 4 - NDTV
+  OpenAI Offers 'ChatGPT Go' Free For 1
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHBaYnFvelpLaHFvcWd5NnFQY3N6VGtMM1R5aTJuYUM2b01JQ1RQOTU1a05EUW9RS3hTZ1BWaWhRZGIzVHpwNWVMQ210dEJFTXh0djE0endfa1NFSXJIT0hMQjRNbXU1MlFabDVkeXM2b3hNZnRDTXNjcFoxb3EwTFVCamZkZjAtWEhRX0V0a01QQzBfWllSOWNpWElOQXNWVE82QmdQOE91Sy1KMnNqRTdWcmXSAbwBQVVfeXFMTk9DN0FsNVJVclRmM0g4QVVJSDd2LUtndDhZTENqVGZkLWxpVzF1Qm14ckI0QTgxOFpROUM1aU54MlB2Wmc3X2k5NU1kNjRaNGUwMlRRTDdUNE1iMkFobVZiN2dUUlFFZ1BLa1N4M3REYTU2cFRRdzhJeThYTFI4SlEtSi02THh0ZTRucmJXUklKYTBpbzZ6bmdnWEpVM0JhQVBPbE9qNEJXTmlLeEJHOXZvUG13ajJDYkxTc18?oc=5
 
 - Bangladesh gets big offer from Pakistan amid frayed ties with India, via Karachi | Latest News India - Hindustan Times
   Bangladesh gets big offer from Pakistan amid frayed ties with India.
   🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZC0xbzlQSXJOUWF6SDdGcng1RmZZd3IyOTdwQy1wRlpfREZEd1phQW9kTWpfT2VQamtrVl9lQ1N4ODNDVW9yMjUxXzg3Y3d6ZHVtTTFXd0I1cVJlM0lpVWdVaHphSURTeENKeXlBYnJvRGxrZUFRaklYajJacjNEUXo4UldnRWprU205S1pKMVpQV09wM1o1ZmRUdjNIU3BZaEtvOGY4TXhwREkydzNHVS1Kc0wyaXVRbE56ZkR3NXJIVnloRGpvSkNSa2ZyaXVVMHVTT19DV0taNTZjZUhDU2d0bjUxa3ZZVWfSAe8BQVVfeXFMT0lfaGxuYlo1VU9jcG93M2tMWFZ1Z1Jrc193ZTFSemtZN09aYWUzQVdiUkVmb1pkUFJLM3g4VUpDY3Atd1NPWlptUjQyNkl2RFV2Wk9oZ0lUUFEzSEUyN2ZTa2lxaW4xQ3VvWXlOOFkzN0kwa01fTHh1SUpvT296ZjBxQ29NaExxd19Lc0NxUFhqUDJOLWNpQWVRYllITzIzekdsVF94bDJ1cWIzNE5HMnYxbm9RcjBiMXVNUFdCVzlLVXp5SU10UGFoUG55dlphQ0ZWbnl2MGFPZkhkUmV3WWRjdlNubWdZOUpmdF9DaUE?oc=5
 
+- Top news of the day: October 28, 2025 - The Hindu
+  Top news of the day: October
+  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxOM2ZYYjJZRlI1MjAxREU3SHdLX3JmSzN0Zmp2S1BaelV1Q3oyMFVac0xOWmFacmtvOU5UWFdWaGJ5ZGlfNy12OGVvTzhXd19SQURDMi1qbXJmOXo2dVFsN3VPUlgwaVh3UjFhUjQzNTQ5UTBxN3RYazdzZWR6TDdFVXNpMHV0TjRSQ0JCV2JVSmxEUmlkWHlHTmJLLUxHVWtkaTJfaHRCaHRmTnNEeU9KeHdxUmJhRHpOUk1QcnM1T1Q1bktZNW5pVzZTVzJjZVRRRlFqNldjZFB1WGNubmlNRURJY0JtMkhYLWtxMGlERmUxTzhyeXNOYm5qeVhxS0hEbUNaaVdEOXc5MTA5TVNvVW9qT1dvRmQxUGhERlhZcHXSAacCQVVfeXFMTW5ENHBzSWZhRHdOQUVTMmF6dndUV3NkbjB0WDlSWDVzc19KZlRza1ZneFNXa1FWVm9Xdlc1UDhqb09MUWZGS3dpQWJSMG1JOHlrdDBneVJsUVZwSTBUbXR5SlJxQVlqZE1MSnNmVTNmdDl2SjZqTVFCdzVpaXhYcUhndElYV1NXb0dWaUNSckE3THAxbG9aTlVIVkI2czY4d01xZzJqM2dJblRqS0Q1azU4SGFsZXV6QjNpSFJmdklDTG5USV9ZVy1CeG02WFB3Z3Zhb2otcEl6RUlDd1BCSDlvM2tiamVUa254MHVWQ3JKNy1FSzhZdUZ1Q3hYSU1ZOU1wbk11V2h2STVDSWVnUFJ3cWl4aEFac0x6ZmxvWUFvREQ2enRTbw?oc=5
+
+- News Today Live Updates, 29 October | My deepfakes being used in porn, affecting mental health: Chiranjeevi in police complaint - The Indian Express
+  The Indian Express reported that Chiranjeevi's deepfakes were being used in porn.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVM2dlBpb05faHZvbzBmQW1aUXlGdFo4VXVvTEJJQ3Q0SU9LcXo5Ql9taXVQRmhGWGRJYmJtbm1EdW1Rblo5YkdQQzFpUS1NbU5OeVhTYU93dTBESTV0TFRBVTNTTGs4bE1VUjlyYnd6UHluTlZCUzVaTkFaaUprLUdJR01RTlJQXzZCQ0d1TTJIMzVSY3V0VTZCQklkMkQ2d2JfTy16Y1p3TEtKVlJYVjF4UURmak9VVGZwRjduT29sZk45SnBScmxlbkFzczRWREdOYzQ2OU5KZU5pcGdUOEpRQ3FSa09i0gHvAUFVX3lxTE9kVnUtdEFQbjZtNG9hb1JzQy15b0MwbmtDUzlCUTNDVkZXejVRQ2J6RjV6SGhtUFFmYmw3dWtET1FkOUlOVTBrQjZCcU5VV19lSWlYanZMYzZadk1TSktwUzlEOXY1djMyQTRzSFdtQWJYaTdjYVVHVk1fc0ltYVFrZFJqQnRkNU02YXVZTlROY3Z3Tk9XM1B2NkdEQW9kTk8yaW1GS1Bzdk16MjY2czc1UUU4bzhydnVrWE9qZGFudktIdUxmTDRUTE1OQTdfdFh0aUxNb0V4RTdaYnpOdkFTYkU4bDh6RjhIckNNcEpz?oc=5
+
 - ‘I am done’: Delhi techie’s Reddit rant about leaving India due to lack of basic infrastructure goes viral - Mint
   'I am done': Delhi techie’s Reddit rant about leaving
   🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQmVhRXI2UG1aZ2R0NWozMXNFNTAyd0ViM1g4eFhDNjBweHdXZVVCZldyTnpBaC1qLTZ4QW1RemNwWHcwdFM4aUVVWlhiZUIwd1lxem5mZjY3RWdOZGl3d21nZHhXeWwtbHVxUzhiRzB3ZXFYZVE5Vld6SXRhN0d2cHhRZXZjeE9wNWxzckg3bDRRbFN0VTJ6NG9jOXhVdUc5WjR1V2ppck1Xa2VLMWhyUFZqUEJvM1NlV3ozNEpCYUdEeEV3UDVpVkRBUnRwZEd3aXZVcVRYUjd0TXgyMm5tLXNtVWVGeWtMYUs3ZHJlMWVWd9IB9wFBVV95cUxNZmp5bk1FUHB3VW8zZFJTT2daX0R6cVI1ZmNpTi1iSENXRGsyYk1RalFUREhiX24xekI4ZWF4U0t2QURfRmFTaVZwSGFpM21pUE5hUjczdFh4Z013eUt1REx0X3B4dldUekhKaEk2LWxQZnNMb1lqRkVFSU5MODFDSGRHSk5sSU1WRm0ycEtBZFI5b09NQ2stQWZTUmdyNU9fN195XzRINUdtZ09JRmJyMGlOTXQ3MjRwZnF6dS0wVmg0ZEJHWWVjN0EzWXdlTnJNaFR0RTljc3dSQndFcnVtR000Y1VrRnVpU3BIR1hDZzl1QkwyLTVr?oc=5
 
-- Chinese behind most crypto, loan app rip-offs: ED report - Times of India
-  Chinese behind most crypto, loan app rip-
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkwtcktDd0FBVTdNRlBJSWJITEZEQXVNYTN3R1JIMXpqeXVMdjlmQUhxNkUzSUtycmFFTjBoNWstM3lkeXNfZVdnR3hXZ0FHZnJKWHVXOHBEZmlWaF9vUWFKVHE5a2NYRURnNTdfbnhVaW52ZjhNS2EtdWNpRVM1akVFczhqOWpTZ2lra0xBOFBlZk1IazhYNlhjV1NPdERoUnV3RF9fa3Zfb1JHRmRKcVJEM1ZWeHgtZGtIVXpza9IBxAFBVV95cUxQWTk2bENWRnZwcmk0eWhoQXhKemZXc3BJYXVROHo0OGJhOUdfU0pUeTlwWC1yN0tOVmV1N2otYU9iSHRMWVRWVE9CRXdSdTRoemxDV1RxWkdlc3NTR3VQblRRUi1Jcnl2YnduRWEtY2NLcHZOamJwdm43YWNWQ0p5bkp3bmY0MXhpdlpXMUVfNERFYkR3eW43Q2pxclE4MHMwYjAtWDQwSXVCdFVHS0RLcU5vRFFpSUZmUm1lczI5MWtud1Y4?oc=5
-
-- State govt will contest HC order, says CM Siddaramaiah - Hindustan Times
-  State govt will contest HC order,
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQY1lDdDI4YUVxRFZISmFia3g3TmNCZWdiMEtFVW5qR2hjOG9wMGo2SnFzUWUxa3hOMnl3TjJYYkxUZGZlbURleWFFY2tDRXNjX2dNbDQ1eUdRbTg1VDJvb2ViTVJVWjB6ME9NQ2Q3Zm8tZUg1TGNObndlT0JhVGhxUldMVWJxaHVFUS1ua3lVV0VUdGhxRURXVjVPUmVtVFloeG8yWGdsMWx0d0M2QUpLaVNNMWo4ZEU?oc=5
-
-- Visit to Delhi personal, not political, says DKS | Latest News India - Hindustan Times
-  Visit to Delhi personal, not political, says DKS
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3pkb1d0Wk9Hc0ZsZzRuQzhWTHM1NGdPNmFpdVhJelM3NDh5REVxYmxoQ0Fkc3FvWDg2dmZGcnV6a2FiZkE5VUNQdjAxajJFTlhpMlJyaTVVVk1wajZ0MVdkLXQwejBBVEMzWHhtWVlTemJHLVh3V0U0S0FVLTZwc2Fvck9sRTlNRENzamZOQ3lZREoxa0pJdUxvY3lzZzNYdW16a0VZU0ZVdTNZMmfSAbMBQVVfeXFMTTNUZ19uRkRKMDBIQmY4dHkxbm9lbHhUdF9wamlwU1RMMS1LTkFUa3ZLUGJTTkpIOXRRcG02WkNZWUpsNF9lSjZCOUIzUEZSTmlvTWZUaTdCMk81REtQckZlWFp1dG96bll4VUtBNFJRdWZ4dG1oQUVhQVVrbThnV2RhdlA4R2h0dEdtTlV6bnVFakp6SlFCUjVLWjZ4SWxvZHBrdmFfVGJaMVhhcGhzcFd5LTg?oc=5
+- OpenAI Offers 'ChatGPT Go' Free For 1 Year To Users In India From November 4 - NDTV
+  OpenAI Offers 'ChatGPT Go' Free For 1
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHBaYnFvelpLaHFvcWd5NnFQY3N6VGtMM1R5aTJuYUM2b01JQ1RQOTU1a05EUW9RS3hTZ1BWaWhRZGIzVHpwNWVMQ210dEJFTXh0djE0endfa1NFSXJIT0hMQjRNbXU1MlFabDVkeXM2b3hNZnRDTXNjcFoxb3EwTFVCamZkZjAtWEhRX0V0a01QQzBfWllSOWNpWElOQXNWVE82QmdQOE91Sy1KMnNqRTdWcmXSAbwBQVVfeXFMTk9DN0FsNVJVclRmM0g4QVVJSDd2LUtndDhZTENqVGZkLWxpVzF1Qm14ckI0QTgxOFpROUM1aU54MlB2Wmc3X2k5NU1kNjRaNGUwMlRRTDdUNE1iMkFobVZiN2dUUlFFZ1BLa1N4M3REYTU2cFRRdzhJeThYTFI4SlEtSi02THh0ZTRucmJXUklKYTBpbzZ6bmdnWEpVM0JhQVBPbE9qNEJXTmlLeEJHOXZvUG13ajJDYkxTc18?oc=5
 
 - Bangladesh gets big offer from Pakistan amid frayed ties with India, via Karachi | Latest News India - Hindustan Times
   Bangladesh gets big offer from Pakistan amid frayed ties with India.
   🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZC0xbzlQSXJOUWF6SDdGcng1RmZZd3IyOTdwQy1wRlpfREZEd1phQW9kTWpfT2VQamtrVl9lQ1N4ODNDVW9yMjUxXzg3Y3d6ZHVtTTFXd0I1cVJlM0lpVWdVaHphSURTeENKeXlBYnJvRGxrZUFRaklYajJacjNEUXo4UldnRWprU205S1pKMVpQV09wM1o1ZmRUdjNIU3BZaEtvOGY4TXhwREkydzNHVS1Kc0wyaXVRbE56ZkR3NXJIVnloRGpvSkNSa2ZyaXVVMHVTT19DV0taNTZjZUhDU2d0bjUxa3ZZVWfSAe8BQVVfeXFMT0lfaGxuYlo1VU9jcG93M2tMWFZ1Z1Jrc193ZTFSemtZN09aYWUzQVdiUkVmb1pkUFJLM3g4VUpDY3Atd1NPWlptUjQyNkl2RFV2Wk9oZ0lUUFEzSEUyN2ZTa2lxaW4xQ3VvWXlOOFkzN0kwa01fTHh1SUpvT296ZjBxQ29NaExxd19Lc0NxUFhqUDJOLWNpQWVRYllITzIzekdsVF94bDJ1cWIzNE5HMnYxbm9RcjBiMXVNUFdCVzlLVXp5SU10UGFoUG55dlphQ0ZWbnl2MGFPZkhkUmV3WWRjdlNubWdZOUpmdF9DaUE?oc=5
 
+- Top news of the day: October 28, 2025 - The Hindu
+  Top news of the day: October
+  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxOM2ZYYjJZRlI1MjAxREU3SHdLX3JmSzN0Zmp2S1BaelV1Q3oyMFVac0xOWmFacmtvOU5UWFdWaGJ5ZGlfNy12OGVvTzhXd19SQURDMi1qbXJmOXo2dVFsN3VPUlgwaVh3UjFhUjQzNTQ5UTBxN3RYazdzZWR6TDdFVXNpMHV0TjRSQ0JCV2JVSmxEUmlkWHlHTmJLLUxHVWtkaTJfaHRCaHRmTnNEeU9KeHdxUmJhRHpOUk1QcnM1T1Q1bktZNW5pVzZTVzJjZVRRRlFqNldjZFB1WGNubmlNRURJY0JtMkhYLWtxMGlERmUxTzhyeXNOYm5qeVhxS0hEbUNaaVdEOXc5MTA5TVNvVW9qT1dvRmQxUGhERlhZcHXSAacCQVVfeXFMTW5ENHBzSWZhRHdOQUVTMmF6dndUV3NkbjB0WDlSWDVzc19KZlRza1ZneFNXa1FWVm9Xdlc1UDhqb09MUWZGS3dpQWJSMG1JOHlrdDBneVJsUVZwSTBUbXR5SlJxQVlqZE1MSnNmVTNmdDl2SjZqTVFCdzVpaXhYcUhndElYV1NXb0dWaUNSckE3THAxbG9aTlVIVkI2czY4d01xZzJqM2dJblRqS0Q1azU4SGFsZXV6QjNpSFJmdklDTG5USV9ZVy1CeG02WFB3Z3Zhb2otcEl6RUlDd1BCSDlvM2tiamVUa254MHVWQ3JKNy1FSzhZdUZ1Q3hYSU1ZOU1wbk11V2h2STVDSWVnUFJ3cWl4aEFac0x6ZmxvWUFvREQ2enRTbw?oc=5
+
+- News Today Live Updates, 29 October | My deepfakes being used in porn, affecting mental health: Chiranjeevi in police complaint - The Indian Express
+  The Indian Express reported that Chiranjeevi's deepfakes were being used in porn.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVM2dlBpb05faHZvbzBmQW1aUXlGdFo4VXVvTEJJQ3Q0SU9LcXo5Ql9taXVQRmhGWGRJYmJtbm1EdW1Rblo5YkdQQzFpUS1NbU5OeVhTYU93dTBESTV0TFRBVTNTTGs4bE1VUjlyYnd6UHluTlZCUzVaTkFaaUprLUdJR01RTlJQXzZCQ0d1TTJIMzVSY3V0VTZCQklkMkQ2d2JfTy16Y1p3TEtKVlJYVjF4UURmak9VVGZwRjduT29sZk45SnBScmxlbkFzczRWREdOYzQ2OU5KZU5pcGdUOEpRQ3FSa09i0gHvAUFVX3lxTE9kVnUtdEFQbjZtNG9hb1JzQy15b0MwbmtDUzlCUTNDVkZXejVRQ2J6RjV6SGhtUFFmYmw3dWtET1FkOUlOVTBrQjZCcU5VV19lSWlYanZMYzZadk1TSktwUzlEOXY1djMyQTRzSFdtQWJYaTdjYVVHVk1fc0ltYVFrZFJqQnRkNU02YXVZTlROY3Z3Tk9XM1B2NkdEQW9kTk8yaW1GS1Bzdk16MjY2czc1UUU4bzhydnVrWE9qZGFudktIdUxmTDRUTE1OQTdfdFh0aUxNb0V4RTdaYnpOdkFTYkU4bDh6RjhIckNNcEpz?oc=5
+
 - ‘I am done’: Delhi techie’s Reddit rant about leaving India due to lack of basic infrastructure goes viral - Mint
   'I am done': Delhi techie’s Reddit rant about leaving
   🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQmVhRXI2UG1aZ2R0NWozMXNFNTAyd0ViM1g4eFhDNjBweHdXZVVCZldyTnpBaC1qLTZ4QW1RemNwWHcwdFM4aUVVWlhiZUIwd1lxem5mZjY3RWdOZGl3d21nZHhXeWwtbHVxUzhiRzB3ZXFYZVE5Vld6SXRhN0d2cHhRZXZjeE9wNWxzckg3bDRRbFN0VTJ6NG9jOXhVdUc5WjR1V2ppck1Xa2VLMWhyUFZqUEJvM1NlV3ozNEpCYUdEeEV3UDVpVkRBUnRwZEd3aXZVcVRYUjd0TXgyMm5tLXNtVWVGeWtMYUs3ZHJlMWVWd9IB9wFBVV95cUxNZmp5bk1FUHB3VW8zZFJTT2daX0R6cVI1ZmNpTi1iSENXRGsyYk1RalFUREhiX24xekI4ZWF4U0t2QURfRmFTaVZwSGFpM21pUE5hUjczdFh4Z013eUt1REx0X3B4dldUekhKaEk2LWxQZnNMb1lqRkVFSU5MODFDSGRHSk5sSU1WRm0ycEtBZFI5b09NQ2stQWZTUmdyNU9fN195XzRINUdtZ09JRmJyMGlOTXQ3MjRwZnF6dS0wVmg0ZEJHWWVjN0EzWXdlTnJNaFR0RTljc3dSQndFcnVtR000Y1VrRnVpU3BIR1hDZzl1QkwyLTVr?oc=5
 
-- Chinese behind most crypto, loan app rip-offs: ED report - Times of India
-  Chinese behind most crypto, loan app rip-
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkwtcktDd0FBVTdNRlBJSWJITEZEQXVNYTN3R1JIMXpqeXVMdjlmQUhxNkUzSUtycmFFTjBoNWstM3lkeXNfZVdnR3hXZ0FHZnJKWHVXOHBEZmlWaF9vUWFKVHE5a2NYRURnNTdfbnhVaW52ZjhNS2EtdWNpRVM1akVFczhqOWpTZ2lra0xBOFBlZk1IazhYNlhjV1NPdERoUnV3RF9fa3Zfb1JHRmRKcVJEM1ZWeHgtZGtIVXpza9IBxAFBVV95cUxQWTk2bENWRnZwcmk0eWhoQXhKemZXc3BJYXVROHo0OGJhOUdfU0pUeTlwWC1yN0tOVmV1N2otYU9iSHRMWVRWVE9CRXdSdTRoemxDV1RxWkdlc3NTR3VQblRRUi1Jcnl2YnduRWEtY2NLcHZOamJwdm43YWNWQ0p5bkp3bmY0MXhpdlpXMUVfNERFYkR3eW43Q2pxclE4MHMwYjAtWDQwSXVCdFVHS0RLcU5vRFFpSUZmUm1lczI5MWtud1Y4?oc=5
+- OpenAI Offers 'ChatGPT Go' Free For 1 Year To Users In India From November 4 - NDTV
+  OpenAI Offers 'ChatGPT Go' Free For 1
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHBaYnFvelpLaHFvcWd5NnFQY3N6VGtMM1R5aTJuYUM2b01JQ1RQOTU1a05EUW9RS3hTZ1BWaWhRZGIzVHpwNWVMQ210dEJFTXh0djE0endfa1NFSXJIT0hMQjRNbXU1MlFabDVkeXM2b3hNZnRDTXNjcFoxb3EwTFVCamZkZjAtWEhRX0V0a01QQzBfWllSOWNpWElOQXNWVE82QmdQOE91Sy1KMnNqRTdWcmXSAbwBQVVfeXFMTk9DN0FsNVJVclRmM0g4QVVJSDd2LUtndDhZTENqVGZkLWxpVzF1Qm14ckI0QTgxOFpROUM1aU54MlB2Wmc3X2k5NU1kNjRaNGUwMlRRTDdUNE1iMkFobVZiN2dUUlFFZ1BLa1N4M3REYTU2cFRRdzhJeThYTFI4SlEtSi02THh0ZTRucmJXUklKYTBpbzZ6bmdnWEpVM0JhQVBPbE9qNEJXTmlLeEJHOXZvUG13ajJDYkxTc18?oc=5
 
-- State govt will contest HC order, says CM Siddaramaiah - Hindustan Times
-  State govt will contest HC order,
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQY1lDdDI4YUVxRFZISmFia3g3TmNCZWdiMEtFVW5qR2hjOG9wMGo2SnFzUWUxa3hOMnl3TjJYYkxUZGZlbURleWFFY2tDRXNjX2dNbDQ1eUdRbTg1VDJvb2ViTVJVWjB6ME9NQ2Q3Zm8tZUg1TGNObndlT0JhVGhxUldMVWJxaHVFUS1ua3lVV0VUdGhxRURXVjVPUmVtVFloeG8yWGdsMWx0d0M2QUpLaVNNMWo4ZEU?oc=5
+- Bangladesh gets big offer from Pakistan amid frayed ties with India, via Karachi | Latest News India - Hindustan Times
+  Bangladesh gets big offer from Pakistan amid frayed ties with India.
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZC0xbzlQSXJOUWF6SDdGcng1RmZZd3IyOTdwQy1wRlpfREZEd1phQW9kTWpfT2VQamtrVl9lQ1N4ODNDVW9yMjUxXzg3Y3d6ZHVtTTFXd0I1cVJlM0lpVWdVaHphSURTeENKeXlBYnJvRGxrZUFRaklYajJacjNEUXo4UldnRWprU205S1pKMVpQV09wM1o1ZmRUdjNIU3BZaEtvOGY4TXhwREkydzNHVS1Kc0wyaXVRbE56ZkR3NXJIVnloRGpvSkNSa2ZyaXVVMHVTT19DV0taNTZjZUhDU2d0bjUxa3ZZVWfSAe8BQVVfeXFMT0lfaGxuYlo1VU9jcG93M2tMWFZ1Z1Jrc193ZTFSemtZN09aYWUzQVdiUkVmb1pkUFJLM3g4VUpDY3Atd1NPWlptUjQyNkl2RFV2Wk9oZ0lUUFEzSEUyN2ZTa2lxaW4xQ3VvWXlOOFkzN0kwa01fTHh1SUpvT296ZjBxQ29NaExxd19Lc0NxUFhqUDJOLWNpQWVRYllITzIzekdsVF94bDJ1cWIzNE5HMnYxbm9RcjBiMXVNUFdCVzlLVXp5SU10UGFoUG55dlphQ0ZWbnl2MGFPZkhkUmV3WWRjdlNubWdZOUpmdF9DaUE?oc=5
 
-- Visit to Delhi personal, not political, says DKS | Latest News India - Hindustan Times
-  Visit to Delhi personal, not political, says DKS
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3pkb1d0Wk9Hc0ZsZzRuQzhWTHM1NGdPNmFpdVhJelM3NDh5REVxYmxoQ0Fkc3FvWDg2dmZGcnV6a2FiZkE5VUNQdjAxajJFTlhpMlJyaTVVVk1wajZ0MVdkLXQwejBBVEMzWHhtWVlTemJHLVh3V0U0S0FVLTZwc2Fvck9sRTlNRENzamZOQ3lZREoxa0pJdUxvY3lzZzNYdW16a0VZU0ZVdTNZMmfSAbMBQVVfeXFMTTNUZ19uRkRKMDBIQmY4dHkxbm9lbHhUdF9wamlwU1RMMS1LTkFUa3ZLUGJTTkpIOXRRcG02WkNZWUpsNF9lSjZCOUIzUEZSTmlvTWZUaTdCMk81REtQckZlWFp1dG96bll4VUtBNFJRdWZ4dG1oQUVhQVVrbThnV2RhdlA4R2h0dEdtTlV6bnVFakp6SlFCUjVLWjZ4SWxvZHBrdmFfVGJaMVhhcGhzcFd5LTg?oc=5
+- Top news of the day: October 28, 2025 - The Hindu
+  Top news of the day: October
+  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxOM2ZYYjJZRlI1MjAxREU3SHdLX3JmSzN0Zmp2S1BaelV1Q3oyMFVac0xOWmFacmtvOU5UWFdWaGJ5ZGlfNy12OGVvTzhXd19SQURDMi1qbXJmOXo2dVFsN3VPUlgwaVh3UjFhUjQzNTQ5UTBxN3RYazdzZWR6TDdFVXNpMHV0TjRSQ0JCV2JVSmxEUmlkWHlHTmJLLUxHVWtkaTJfaHRCaHRmTnNEeU9KeHdxUmJhRHpOUk1QcnM1T1Q1bktZNW5pVzZTVzJjZVRRRlFqNldjZFB1WGNubmlNRURJY0JtMkhYLWtxMGlERmUxTzhyeXNOYm5qeVhxS0hEbUNaaVdEOXc5MTA5TVNvVW9qT1dvRmQxUGhERlhZcHXSAacCQVVfeXFMTW5ENHBzSWZhRHdOQUVTMmF6dndUV3NkbjB0WDlSWDVzc19KZlRza1ZneFNXa1FWVm9Xdlc1UDhqb09MUWZGS3dpQWJSMG1JOHlrdDBneVJsUVZwSTBUbXR5SlJxQVlqZE1MSnNmVTNmdDl2SjZqTVFCdzVpaXhYcUhndElYV1NXb0dWaUNSckE3THAxbG9aTlVIVkI2czY4d01xZzJqM2dJblRqS0Q1azU4SGFsZXV6QjNpSFJmdklDTG5USV9ZVy1CeG02WFB3Z3Zhb2otcEl6RUlDd1BCSDlvM2tiamVUa254MHVWQ3JKNy1FSzhZdUZ1Q3hYSU1ZOU1wbk11V2h2STVDSWVnUFJ3cWl4aEFac0x6ZmxvWUFvREQ2enRTbw?oc=5
+
+- News Today Live Updates, 29 October | My deepfakes being used in porn, affecting mental health: Chiranjeevi in police complaint - The Indian Express
+  The Indian Express reported that Chiranjeevi's deepfakes were being used in porn.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVM2dlBpb05faHZvbzBmQW1aUXlGdFo4VXVvTEJJQ3Q0SU9LcXo5Ql9taXVQRmhGWGRJYmJtbm1EdW1Rblo5YkdQQzFpUS1NbU5OeVhTYU93dTBESTV0TFRBVTNTTGs4bE1VUjlyYnd6UHluTlZCUzVaTkFaaUprLUdJR01RTlJQXzZCQ0d1TTJIMzVSY3V0VTZCQklkMkQ2d2JfTy16Y1p3TEtKVlJYVjF4UURmak9VVGZwRjduT29sZk45SnBScmxlbkFzczRWREdOYzQ2OU5KZU5pcGdUOEpRQ3FSa09i0gHvAUFVX3lxTE9kVnUtdEFQbjZtNG9hb1JzQy15b0MwbmtDUzlCUTNDVkZXejVRQ2J6RjV6SGhtUFFmYmw3dWtET1FkOUlOVTBrQjZCcU5VV19lSWlYanZMYzZadk1TSktwUzlEOXY1djMyQTRzSFdtQWJYaTdjYVVHVk1fc0ltYVFrZFJqQnRkNU02YXVZTlROY3Z3Tk9XM1B2NkdEQW9kTk8yaW1GS1Bzdk16MjY2czc1UUU4bzhydnVrWE9qZGFudktIdUxmTDRUTE1OQTdfdFh0aUxNb0V4RTdaYnpOdkFTYkU4bDh6RjhIckNNcEpz?oc=5
 
 
-_Last updated: 2025-10-29 01:17:09 UTC_
+_Last updated: 2025-10-29 06:28:58 UTC_
