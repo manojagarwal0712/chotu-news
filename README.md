@@ -1,5 +1,13 @@
 # 📰 Daily News Summaries
 
+- BJP’s Sambit Patra meets party leaders in Tripura amid internal rift in state unit, trouble with TIPRA Motha
+  
+  🔗 https://indianexpress.com/article/india/bjps-sambit-patra-meets-party-leaders-tripura-tipra-mohta-10334095/
+
+- India, China agree to maintain stability along LAC, continue existing border mechanisms
+  
+  🔗 https://indianexpress.com/article/india/india-china-maintain-stability-lac-existing-border-mechanisms-10333567/
+
 - My deepfakes being used in porn, affecting mental health: Chiranjeevi in police complaint
   
   🔗 https://indianexpress.com/article/india/deepfakes-porn-mental-health-chiranjeevi-police-complaint-10333439/
@@ -8,197 +16,237 @@
   
   🔗 https://indianexpress.com/article/india/droupadi-murmu-first-president-rafale-jet-sortie-watch-10333368/
 
-- Cyclone Montha Tracker LIVE Updates: Heavy rain lashes Vijayawada; trees uprooted, roads inundated after Montha makes landfall
+- Cyclone Montha Tracker LIVE Updates: Montha leaves 2 dead, roads inundated, trees uprooted, crops damaged in Andhra
   
   🔗 https://indianexpress.com/article/india/cyclone-montha-live-updates-tracker-landfall-andhra-pradesh-coast-imd-rains-10333312/
 
-- Gold Today Rate, October 29: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- OPPO launches Find X9 and Find X9 Pro with Hasselblad camera, massive 7500mAh battery
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-october-29-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10333324/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/oppo-launches-find-x9-and-find-x9-pro-hasselblad-camera-7500mah-battery-10334205/
 
-- Cyclone Montha: Are schools closed today in Odisha and Andhra?
+- ‘Grokipedia will make massive errors’: Wikipedia founder questions use of AI for reliable info
   
-  🔗 https://indianexpress.com/article/india/cyclone-montha-are-schools-closed-today-in-odisha-and-andhra-10333191/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/grokipedia-will-make-massive-errors-wikipedia-founder-ai-10334151/
 
-- Meet NEO, the $20K humanoid robot that cooks, chats and carries groceries
+- Big tech’s layoff spree: Amazon, UPS, Intel slash tens of thousands of jobs in just a week
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meet-neo-the-20k-humanoid-robot-that-cooks-chats-and-carries-groceries-10333363/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/big-techs-layoff-spree-amazon-ups-intel-slash-jobs-october-10333765/
 
-- ‘We are providing a platform that is incredibly accessible to everyone’: GitHub CPO on how AI-assisted coding is helping build better software
+- Pristine 70-million-year-old dinosaur egg unearthed in Patagonia; hints at ancient breeding ground
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/we-are-providing-a-platform-that-is-incredibly-accessible-to-everyone-github-cpo-10333199/
+  🔗 https://indianexpress.com/article/technology/science/pristine-70-million-year-old-dinosaur-egg-unearthed-in-patagonia-10333655/
 
-- From Quantum frontiers to Life 2.0: Meet the 14 young scientists shaping India’s scientific future
+- Clues to life’s origins spotted in a galaxy 160,000 light-years from Earth
   
-  🔗 https://indianexpress.com/article/technology/science/guarding-data-in-quantum-computers-to-life-2-0-finest-gennext-in-indian-science-10332948/
+  🔗 https://indianexpress.com/article/technology/science/clues-to-lifes-origins-spotted-in-a-galaxy-160000-light-years-from-earth-10333566/
 
-- GitHub doubles down on openness as AI-powered software development takes center stage at Universe 2025 in San Francisco
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/github-doubles-down-on-openness-as-ai-powered-software-development-takes-center-stage-at-universe-2025-in-san-francisco-10332854/
+- Too much liberal bilateral flying rights to undercut Indian aviation players investments: AI CEO
+  Too much liberal bilateral flying rights to undercut Indian
+  🔗 https://www.livemint.com/companies/news/too-much-liberal-bilateral-flying-rights-to-undercut-indian-aviation-players-investments-ai-ceo-11761740929040.html
 
-- Space junk: How Earth’s orbit became a floating landfill
-  
-  🔗 https://indianexpress.com/article/technology/science/space-junk-how-earths-orbit-became-a-floating-landfill-10332465/
+- Sinopecs Jan-Sept profit down a third on lower oil, weaker fuel sales
+  Sinopec's Jan-Sept
+  🔗 https://www.livemint.com/companies/company-results/sinopecs-jan-sept-profit-down-a-third-on-lower-oil-weaker-fuel-sales-11761740680329.html
 
-- Amazon may slash up to 1,000 jobs in India  under global cuts, says report – which departments will be impacted?
-  The e-commerce giant plans to cut 800 to 1,000 corporate roles in India. The layoffs will affect various departments, including marketing, human resources and tech.
-  🔗 https://www.livemint.com/companies/news/amazon-may-slash-up-to-1-000-jobs-in-india-under-global-cuts-says-report-which-departments-will-be-impacted-11761709879518.html
+- Canada’s CPP Investments eyes bigger India play after tripling portfolio
+  The Canadian pension giant has NSE, Kotak Mahindra Bank, and Flipkart
+  🔗 https://www.livemint.com/companies/cpp-investments-india-portfolio-growth-11761735167651.html
 
-- Amazon Web Services plans $5 billion investment in South Korea's AI industry by 2031
-  AWS plans to invest nearly $5 billion in South Korea by 2031. This was announced during a meeting between AWS CEO Matt Garman and President Lee Jae Myung.
-  🔗 https://www.livemint.com/companies/news/amazon-web-services-plans-5-billion-investment-in-south-koreas-ai-industry-by-2031-11761706793273.html
+- iPhone 17 breaks another record in Apple's India surge
+  The iPhone 17 became the largest-selling Apple smartphone in India in its first month of launch. It is the first time a new model for the company has beaten older,
+  🔗 https://www.livemint.com/companies/news/iphone-17-best-seller-for-apple-since-launch-as-india-growth-continues-11761727628428.html
 
-- Are we in an AI bubble that’s about to burst? Here’s what Nvidia’s Jensen Huang thinks
-  AI spending is projected to reach $1.5 trillion by 2025. Nvidia CEO Jensen Huang predicts $500 billion in revenue from new chips.
-  🔗 https://www.livemint.com/companies/people/are-we-in-an-ai-bubble-that-s-about-to-burst-here-s-what-nvidia-s-jensen-huang-thinks-11761703195091.html
+- Air India faces  ₹4,000-crore hit from Pak airspace closure: CEO Campbell Wilson
+  The airline is grappling with unprecedented external factors, including the extended closure of critical airspace over Pakistan and the Middle East. Wilson
+  🔗 https://www.livemint.com/companies/news/air-india-loss-pakistan-airspace-tata-group-air-india-loss-fy25-air-india-transformation-plan-11761735788971.html
 
-- Amazon confirms 14,000 job cuts amid AI push, more layoffs likely - here's what we know
-  Amazon confirms a reduction of 14,000 corporate jobs, around 4% of its workforce. This follows a series of management role
-  🔗 https://www.livemint.com/companies/news/amazon-confirms-14-000-job-cuts-amid-ai-push-more-layoffs-likely-heres-what-we-know-11761698614456.html
+- Advent sells entire 2% stake in Aditya Birla Capital for  ₹1,640 crore via block deal
+  Advent sold about 3.6 crore shares, or 1.4%, of Aditya Birla Capital in June. The 2
+  🔗 https://www.livemint.com/market/advent-international-aditya-birla-capital-block-deal-aditya-birla-capital-share-price-11761733453348.html
 
-- UPS cuts 48,000 jobs to boost profits – Amazon slowdown, Trump tariff impact?
-  UPS has slashed 48,000 jobs since last year to cut costs and revive profits. Shares surged 7% as
-  🔗 https://www.livemint.com/companies/news/ups-cuts-48-000-jobs-to-boost-profits-amazon-slowdown-trump-tariff-impact-11761697806909.html
+- TVS Motor had a bumper Q2. Can Norton lift it higher?
+  Norton will be launched at the International Two-
+  🔗 https://www.livemint.com/market/mark-to-market/tvs-motors-bumper-q2-norton-two-wheeler-exports-raw-material-gst-cuts-scooters-pli-scheme-electric-vehicles-sales-11761730641699.html
 
-- Adani Green Energy share price pops 14% to 4-week high on strong Q2 performance
-  Adani Green Energy shares surged 14% to  ₹1,145 after strong Q2 results, marking a one-month high. Despite flat revenue, a 25% increase
-  🔗 https://www.livemint.com/market/stock-market-news/adani-green-energy-share-price-pops-14-to-4-week-high-on-strong-q2-performance-11761716137176.html
+- Top Gainers &amp; Losers on Oct 29: Adani Green, Varun Beverages, SAIL, Reliance Power, Suzlon Energy among top gainers
+  Nifty 50 up 0.45% at 26,053.90 and Sensex rising 0.44% to 84,997. Positive comments from Donald Trump on a trade deal
+  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-oct-29-adani-green-varun-beverages-sail-reliance-power-hpcl-suzlon-energy-among-top-ga-11761732232350.html
 
-- India’s helmet king hits the IPO track—can Studds shift gears for growth?
-  The helmet maker will hit Dalal Street on 30 October with a  ₹455 crore offer-for
-  🔗 https://www.livemint.com/market/stock-market-news/studds-ipo-helmet-maker-investor-appetite-two-wheeler-boom-11761709748998.html
+- Mint Explainer | Why fund managers are unhappy with Sebi's new MF proposals
+  Fund houses said some of the proposed reforms could shrink their profit margins. For investors, the changes could
+  🔗 https://www.livemint.com/market/fund-managers-sebi-new-mf-proposals-retail-investors-transparency-mutual-funds-ter-fees-brokerage-transaction-costs-amcs-11761726821798.html
 
-- Nvidia becomes the first Nasdaq-listed company to be worth $5 trillion
-  The stock has given whopping returns of 84.40 per cent in just six months. Nvidia share price has been witnessing a strong rally in the near
-  🔗 https://www.livemint.com/market/stock-market-news/nvidia-becomes-the-first-nasdaq-listed-company-to-be-worth-5-trillion-11761715585058.html
+- Stock market today: Sensex jumps over 360 points, Nifty 50 ends above 26,000 ahead of US Fed outcome - 10 key highlights
+  Nifty 50 and Sensex ended higher, fueled by optimism over US Federal Reserve decisions and potential US-China trade agreements. Analysts emphasize
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-jumps-over-360-points-nifty-50-closes-above-26-000-10-key-highlights-11761731951793.html
 
-- Gold prices in your city today: Check rates in Mumbai, Bengaluru, Chennai, New Delhi, Kolkata on October 29
-  Gold prices in Mumbai, Bengaluru, Chennai, Hyderabad, Delhi and Kolkata
-  🔗 https://www.livemint.com/market/commodities/gold-prices-in-your-city-today-check-rates-in-mumbai-bengaluru-chennai-new-delhi-kolkata-on-october-29-11761713239448.html
+- Sam Altman says OpenAI is developing a ‘legitimate AI researcher’ by 2028 that can discover new science on its own
+  OpenAI aims to launch an AI researcher by 2028, promoting scientific discovery. Microsoft retains a 27% stake and continued access to OpenAI's technology until 20
+  🔗 https://www.livemint.com/technology/tech-news/sam-altman-says-openai-is-developing-a-legitimate-ai-researcher-by-2028-that-can-discover-new-science-on-its-own-11761731027080.html
 
-- Small-cap stock that doubled shareholders' money in 6 months defers rights issue citing technical reasons
-  Krishival Foods announced on October 28 that the board has decided to defer the rights issue due to technical issues. Krish
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-that-doubled-shareholders-money-in-6-months-defers-rights-issue-citing-technical-reasons-11761711770722.html
+- Sleek design doesn’t mean weak performance anymore! Check out these top thin and lightweight laptops
+  These top thin and lightweight picks combine sleek design with strong performance. They’re currently available at great discounts.
+  🔗 https://www.livemint.com/technology/gadgets/sleek-design-doesn-t-mean-weak-performance-anymore-check-out-these-top-thin-and-lightweight-laptops-11761721289511.html
+
+- 5 touchscreen laptops for 2-in-1 enthusiasts; Starting at  ₹68000
+  The top options that you should consider, starting at  ₹68,000. Are
+  🔗 https://www.livemint.com/technology/gadgets/5-touchscreen-laptops-for-2-in-1-enthusiasts-starting-at-rs-68000-11761719586689.html
+
+- AI's high energy drain: Why is it making climate-conscious users anxious?
+  The AI infrastructure promises speed and ease but it is unfolding in India atop already fragile energy and water systems. Can its climate
+  🔗 https://www.livemint.com/technology/ai-environmental-impact-ai-carbon-footprint-gen-z-climate-anxiety-11761717135028.html
 
 - BenQ MA270U review: A 4K monitor that actually gets MacBook users right
   The BenQ MA270U is a 27-inch 4K monitor made for MacBook
   🔗 https://www.livemint.com/technology/benq-ma270u-review-a-4k-monitor-that-actually-gets-macbook-users-right-11761677636463.html
 
-- Apple is offering iPhone 17 Pro at a massive discount — Here’s how you can grab the deal
-  Amazon's trade-in option now allows customers to save on the iPhone 17 Pro. The effective price can drop to  ₹70,155 with discounts
-  🔗 https://www.livemint.com/technology/apple-is-offering-iphone-17-pro-at-a-massive-discount-here-s-how-you-can-grab-the-deal-11761683147408.html
+- Stocks Get Nvidia Boost Ahead of Fed Rate Call: Markets Wrap - Bloomberg.com
+  Stocks Get Nvidia Boost Ahead of Fed Rate
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNaDdFMmRGMkU4TjQ4ZFEyX1BIZjR3dS03VHhScExFM0Fma2Z0aHlOTXo2VGxIVzRrOFoyWFVHNjMybVFQRTJ4VGl0WTZJWE1ka0ZBOUpvYTdwTzRZUjRjNlp3WF8zVFo2RGhBdVJqNzZxOHdCamZ2bGVtVVZpV3U5SGlpSTZaUjhwQ2kwSGRwMFBLdHo2?oc=5
 
-- Price drop on Samsung smartwatches:Get up to 60% off the these stylish wearables at affordable prices
-  The ongoing price drop on Samsung smartwatches brings discounts of up to 60%. From the sleek Galaxy Watch series to the sporty models packed with health sensors, there is something for every style and purpose
-  🔗 https://www.livemint.com/technology/gadgets/price-drop-on-samsung-smartwatches-get-up-to-60-off-the-these-stylish-wearables-at-affordable-prices-11761650791214.html
+- Stock market today: Dow, S&P 500, Nasdaq notch fresh records as Nvidia soars ahead of Fed rate decision - Yahoo Finance
+  Nvidia shares soar ahead of Fed rate decision. Dow, S&amp;P
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSVdwbnlGLWExVFpYSXhIYnNtYWFYNnlXLWcyblJKWmQzNE1BdUpDeEIyWFkyTEJTNGZmVW5zUjZUbC1HVGN6VmctZmVuTXVaMkE5S2RkQUFpemhYTmV1SmdvOHZnckF6RDkwdHRvLVNleXNId0FwM093Ykt3SzM5UVp1NGFHWV9YUnBjWnRCeWNkaUxVbEFRZy1JZ1NCOFNpbV80eE9NaWZlQ1QxTk1fbjM3allPQXJJODNoYktLbFZFTWllZVVmVTFKUXBEQTdUcnRoTDVWaU0yM3gxOVk4QU9DaWg?oc=5
 
-- 10 Hidden iOS 26 features Apple didn’t tell you about — and why you need to try them right now
-  Apple’s iOS 26 is offering dozens of subtle but powerful upgrades beyond its flashy design and AI tools. From custom snooze times and real-time call screening to smarter screenshots and adaptive power
-  🔗 https://www.livemint.com/technology/tech-news/10-hidden-ios-26-features-apple-didn-t-tell-you-about-and-why-you-need-to-try-them-right-now-11761644007194.html
+- S&P 500 futures rise as investors await Fed rate decision; Nvidia climbs: Live updates - CNBC
+  Nvidia climbs as investors await Fed rate decision.
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE8yYUstbXpjYlc5dUY5d3duQzhHdENxVkRVTlNDaEpBczFmdUVNMi1wcnVCanlaRGdRaUZQblVUN2g4ZzB5bUtaU010UngyU2NfUDdyOGI1c0JRdDg2T2lUdDNUQzNWSHpRYUtBaVhCWXhwU0FhOTJaNdIBfkFVX3lxTFBTV0ZEcUtTekx3ZmdKMHRDN3h6OHA0VWozLTFIUVItMU5Vd2Zza3I0R3JHN3EwZ1pYd0lvZVVDUC1ndnBXaGtHXzA2NnNTdmJoTUtFZG81ejJOLVh0RnplRGxyZlpsSDlsWG90RlhQajNHX3QwNmxaZ2dQNXpBQQ?oc=5
 
-- Amid ChatGPT Atlas buzz, Claude Desktop quietly launches with screenshot, window sharing and voice control
-  Anthropic has rolled out Claude Desktop for Mac and Windows. The update enables hands-free interaction, real-time analysis, and visual workflow automation.
-  🔗 https://www.livemint.com/technology/tech-news/amid-chatgpt-atlas-buzz-claude-desktop-quietly-launches-with-screenshot-window-sharing-and-voice-control-11761641158779.html
+- Stock Market close: Sensex ends 369 pts up, Nifty at 26,053; Oil & Gas, Metal shares outperform - Business Standard
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUm5BOEUtME5wOWpVMmJBSGNReGdWMVM5S0NIMGV2bUVoSmJMcFI3cGtvWHhkMWg0a1VSODk0N2lLTk1EOHdxLTZmRTBFci0wbGEzVWNHMnY4UU5xQU9VSlhQNVBkVms4SF
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUm5BOEUtME5wOWpVMmJBSGNReGdWMVM5S0NIMGV2bUVoSmJMcFI3cGtvWHhkMWg0a1VSODk0N2lLTk1EOHdxLTZmRTBFci0wbGEzVWNHMnY4UU5xQU9VSlhQNVBkVms4SFVJcEdIZ1pMOHJFOUI5YTBxWmlVeUMtNWxWekRMeXZwcmpnWTd0TDc0d0hRdW5UWVgybl8tVmR6ZWxkSzctYVJjWGRGaWxCS0d6OFRPSnd1VzgwWkdvRnN2WUNRWmFrT20xTy04ako5bHdNZDdQbGlKM2RIOXMwNS1uNTdVME9tek1meEtZMXo1WU1ZeFHSAfsBQVVfeXFMT2RvaGRiNUtqQUpzWVFWajZiRGpBNlhJdkY5XzVKQUNxakZNcmMwMVA1bkhKazVEaWpPVE5XZGFLUVNpNllkZkRoWGdDck5pVE5hRHYxelZkVnFXNHlYd3VYWjUxNE5HbkVOSm5hVXBsU2E1Q19xdFVGOGhNV0hEaFFEVjc0LXpLcEJpeENMN0NLckZkNkptMDFTcFZHOGFqVmtQZjM1RWhsci1aQlFfZ056UWxWaUpiSVp4UVUtVG5NMVQ3MHZVX3dLZHBwSXFVZy1VYU9CVFpYeWlMdFBhRnZ6Sk1Dcl9xYzRSaTA3anQ1VTIteXpwMEtFYjQ?oc=5
 
-- Orkla India IPO subscribed over 20% in early bids on day 1. Check GMP, analysts' review and key details.
-  Orkla India’s Rs 1,667 crore IPO opened today, receiving 22% subscription within the first hour. Priced between Rs 695–730, the issue carries a grey market premium of Rs 77, implying a
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/orkla-india-ipo-subscribed-over-20-in-early-bids-on-day-1-check-gmp-analysts-review-and-key-details-/articleshow/124890764.cms
+- Nvidia crosses $5 trillion market cap in premarket session, as BATMMAAN stocks dominate the market - Sherwood News
+  Nvidia crosses $5 trillion market cap in premarket session, as
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNOW43OGJRWVRjT3Rmc0dzS05NcVZqU2pHZ2FSTXFWLWtFYlNUX2pldDNobDBYMnljdHk4OUNva3o5ZWpjUFM1bXVRUC1XT1o2R1gzYUdMV3E3VlJZWXF2ejdLcE1wUV9YSlNTUG1mS29PSVJpSnF3cS1leUpISTNhZ0N0Q1JKdHNtZUVKUldsYlV0dm9GTkdTR2tnSQ?oc=5
 
-- ITC Q2 results preview: PAT may grow up to 11% YoY, revenue seen 15% higher; 6 things to track
-  ITC's Q2 earnings are anticipated to show a modest profit increase of up to 11% year-on-year. Analysts expect steady cigarette volumes and an improved product mix to drive growth.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q2-results-preview-pat-may-grow-up-to-11-yoy-revenue-seen-15-higher-6-things-to-track/articleshow/124890626.cms
+- Cognizant Q3 profit rises 7.3% to $5.4 billion, company raises full-year guidance
+  US-based IT major Cognizant, which has a substantial number of employees in India, on Wednesday reported a better-than-expected growth with its revenue
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/cognizant-q3-profit-rises-7-3-to-5-4-billion-company-raises-full-year-guidance/articleshow/124900485.cms
 
-- Indian Oil shares rally 4% to record high. What should investors do?
-  Indian Oil Corp shares hit a 52-week high after strong Q2 results. Brokerages remain divided, citing steady outlook
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-oil-shares-rally-4-to-record-high-what-should-investors-do/articleshow/124890048.cms
+- PB Fintech Q2 Results: Profit skyrockets 165% YoY to Rs 135 crore on strong insurance growth
+  PB Fintech, parent of Policybazaar and Paisabazaar, reported a 165% YoY surge in Q2 FY26 profit to Rs 135 crore.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q2-results-profit-skyrockets-165-yoy-to-rs-135-crore-on-strong-insurance-growth/articleshow/124900297.cms
 
-- Metal sector remains a trading play, not a structural Bet: Dhananjay Sinha
-  Dhananjay Sinha of Systematix Group sees positive sentiment driving PSU banks. He views the metals sector as a trading play, influenced by global dynamics and financial correlations.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/metal-sector-remains-a-trading-play-not-a-structural-bet-dhananjay-sinha/articleshow/124890413.cms
+- Larsen &amp; Toubro Q2 Results: Profit rises 16% YoY to Rs 3,926 crore, revenue up 10%
+  Larsen &amp; Toubro Q2 Results: Engineering and construction major Larsen and Toubro (L&amp;T) reported 16% YoY growth in its consolidated
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/larsen-toubro-q2-results-profit-rises-16-yoy-to-rs-3926-crore-revenue-up-10/articleshow/124899650.cms
 
-- Fed meeting outcome today: What to expect &amp; 5 things to watch out for
-  The US Federal Reserve concludes its policy meeting today. Markets widely expect a 25 basis point rate cut. Investors will watch for clues on future rate cuts and the Fed's economic outlook.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fed-meeting-outcome-today-what-to-expect-5-things-to-watch-out-for/articleshow/124890144.cms
+- RPT-ROI-Placid bond market almost trolling doomsayers: Mike Dolan
+  Global investors have spent a year fretting about a U.S. bond market blowup. They cite all
+  🔗 https://economictimes.indiatimes.com/markets/bonds/rpt-roi-placid-bond-market-almost-trolling-doomsayers-mike-dolan/articleshow/124898891.cms
 
-- ‘I am done’: Delhi techie’s Reddit rant about leaving India due to lack of basic infrastructure goes viral - Mint
-  'I am done': Delhi techie’s Reddit rant about leaving
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQmVhRXI2UG1aZ2R0NWozMXNFNTAyd0ViM1g4eFhDNjBweHdXZVVCZldyTnpBaC1qLTZ4QW1RemNwWHcwdFM4aUVVWlhiZUIwd1lxem5mZjY3RWdOZGl3d21nZHhXeWwtbHVxUzhiRzB3ZXFYZVE5Vld6SXRhN0d2cHhRZXZjeE9wNWxzckg3bDRRbFN0VTJ6NG9jOXhVdUc5WjR1V2ppck1Xa2VLMWhyUFZqUEJvM1NlV3ozNEpCYUdEeEV3UDVpVkRBUnRwZEd3aXZVcVRYUjd0TXgyMm5tLXNtVWVGeWtMYUs3ZHJlMWVWd9IB9wFBVV95cUxNZmp5bk1FUHB3VW8zZFJTT2daX0R6cVI1ZmNpTi1iSENXRGsyYk1RalFUREhiX24xekI4ZWF4U0t2QURfRmFTaVZwSGFpM21pUE5hUjczdFh4Z013eUt1REx0X3B4dldUekhKaEk2LWxQZnNMb1lqRkVFSU5MODFDSGRHSk5sSU1WRm0ycEtBZFI5b09NQ2stQWZTUmdyNU9fN195XzRINUdtZ09JRmJyMGlOTXQ3MjRwZnF6dS0wVmg0ZEJHWWVjN0EzWXdlTnJNaFR0RTljc3dSQndFcnVtR000Y1VrRnVpU3BIR1hDZzl1QkwyLTVr?oc=5
+- Saudi Arabia plans to refocus $925 billion fund after gigaproject delays, source says
+  Saudi Arabia is preparing to shift its $925 billion sovereign wealth fund away from a focus on real estate gigaprojects.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/saudi-arabia-plans-to-refocus-925-billion-fund-after-gigaproject-delays-source-says/articleshow/124898810.cms
 
-- OpenAI Offers 'ChatGPT Go' Free For 1 Year To Users In India From November 4 - NDTV
-  OpenAI Offers 'ChatGPT Go' Free For 1
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHBaYnFvelpLaHFvcWd5NnFQY3N6VGtMM1R5aTJuYUM2b01JQ1RQOTU1a05EUW9RS3hTZ1BWaWhRZGIzVHpwNWVMQ210dEJFTXh0djE0endfa1NFSXJIT0hMQjRNbXU1MlFabDVkeXM2b3hNZnRDTXNjcFoxb3EwTFVCamZkZjAtWEhRX0V0a01QQzBfWllSOWNpWElOQXNWVE82QmdQOE91Sy1KMnNqRTdWcmXSAbwBQVVfeXFMTk9DN0FsNVJVclRmM0g4QVVJSDd2LUtndDhZTENqVGZkLWxpVzF1Qm14ckI0QTgxOFpROUM1aU54MlB2Wmc3X2k5NU1kNjRaNGUwMlRRTDdUNE1iMkFobVZiN2dUUlFFZ1BLa1N4M3REYTU2cFRRdzhJeThYTFI4SlEtSi02THh0ZTRucmJXUklKYTBpbzZ6bmdnWEpVM0JhQVBPbE9qNEJXTmlLeEJHOXZvUG13ajJDYkxTc18?oc=5
+- 'So, I'm Doing A Trade Deal With India': Trump's Message From South Korea - NDTV
+  'So, I'm Doing A Trade Deal With India
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXhlNlFvWFhFbHBqdDc0dEhxOTlYZVU0NlRuM0FDV2sxQTNTbG5sNXNCaHJua1RkSUE3U0J4Yk04azVsaVNadnlFQ0tRTEdVdG1ib3VwZVFQd2R4WWJQNjcxV0dGY3hiS3RZb2trbGFUSnNjdEk1cDN6ZVZHczNNOGt5NkhPTlhjVmNIVENfMXp2UnhiendYQ3pGa0I0bkJXUVZLWDRKUWsyU3hjd0p5bFA2R0lGVGVhZm5BTTRaWmpLR255c0xBUnRXUDM0WHZPRnEtZG55RlcxOVdocDBqOU5EUHBsUURZYzExSHcxNVJnY0pVVlpZdWRwNW7SAYQCQVVfeXFMT1VDWXhTMmF0TzU5WHVhdS1qdWJiQUhtdXJhT1NjdUNqTXNGQVVIMXpnM2c1cFZsQ0J2RTY0cjA5bDd3MlNHZUZLa24ySkJqZHczazZxdzd1SWVvVGFYVHdHM1dPZV9rakR0dXBIVjdBaWZIOHRHRW05bTNidVNsSGR6OFdieEFjOVFiSEJOMVJRRlpqa0JmWWJfOWhlOC1zY29jYW1GRU5kV3lYdFJncktLNDI2cGNuVEdNWlNjZWJoS3M1bFJRSEdWT24xT3poa2Q5clNwdW1VVEZvOWhxNlkyckVSbVBYVmJOYU5xU3VsVzdVTWhQbEFlZmdHQmNmdnhtVHQ?oc=5
 
-- Bangladesh gets big offer from Pakistan amid frayed ties with India, via Karachi | Latest News India - Hindustan Times
-  Bangladesh gets big offer from Pakistan amid frayed ties with India.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZC0xbzlQSXJOUWF6SDdGcng1RmZZd3IyOTdwQy1wRlpfREZEd1phQW9kTWpfT2VQamtrVl9lQ1N4ODNDVW9yMjUxXzg3Y3d6ZHVtTTFXd0I1cVJlM0lpVWdVaHphSURTeENKeXlBYnJvRGxrZUFRaklYajJacjNEUXo4UldnRWprU205S1pKMVpQV09wM1o1ZmRUdjNIU3BZaEtvOGY4TXhwREkydzNHVS1Kc0wyaXVRbE56ZkR3NXJIVnloRGpvSkNSa2ZyaXVVMHVTT19DV0taNTZjZUhDU2d0bjUxa3ZZVWfSAe8BQVVfeXFMT0lfaGxuYlo1VU9jcG93M2tMWFZ1Z1Jrc193ZTFSemtZN09aYWUzQVdiUkVmb1pkUFJLM3g4VUpDY3Atd1NPWlptUjQyNkl2RFV2Wk9oZ0lUUFEzSEUyN2ZTa2lxaW4xQ3VvWXlOOFkzN0kwa01fTHh1SUpvT296ZjBxQ29NaExxd19Lc0NxUFhqUDJOLWNpQWVRYllITzIzekdsVF94bDJ1cWIzNE5HMnYxbm9RcjBiMXVNUFdCVzlLVXp5SU10UGFoUG55dlphQ0ZWbnl2MGFPZkhkUmV3WWRjdlNubWdZOUpmdF9DaUE?oc=5
+- Trump praises 'killer' Modi, shares update on trade deal with India | Latest News India - Hindustan Times
+  The Indian Prime Minister has spoken out against US President Donald Trump's comments
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOWEJBNERXcjFLdk9IYm42VFZRRDVsY2Y2RWxSRWNCQjNTYURPTVlJaFE3QVNmZjN5ME4xbTBDS2lkZmxYUjBuRjZ1cS1KOEYwUFpvOEhDcWY1bnJxcFRSNnRVcGUwb1lDcXpjZGFNMnMzdUxCU1lXeUw0U0pseTZfOUZHTnQ4blVMb1VLSldsbFl3bnBaelp6Y0cxY0NJeXdaXy1JSUFDZXJtR0M1U2RjVzZvTmN2TEN1QXYxc0xxU2tGdXdMZFHSAcsBQVVfeXFMUEpncDlVYkJvcWt6N0IwOTBkMzNZYlRHdGxhOTJzY0FhZlRFdlhDZFhyY0RzN2N6a1VxUVpKUjJsUEVGUWNsZTlrV1hMelZNSm91eW90NDJJYktKWklZUGZQU1RtX0dqQkhoYTZvWlF4bDlGTWt4YjliQjVXSlZGLXd3OXVaSEZZRjlvQldfbDd4YkYwWTVGWFpSUGQ0QXZDbWZXVU1WcXZ1WllYc202RXIwa1hoRXZYRFNJVGxteEFxaVpTd0tGSXk1bU0?oc=5
 
-- Top news of the day: October 28, 2025 - The Hindu
-  Top news of the day: October
-  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxOM2ZYYjJZRlI1MjAxREU3SHdLX3JmSzN0Zmp2S1BaelV1Q3oyMFVac0xOWmFacmtvOU5UWFdWaGJ5ZGlfNy12OGVvTzhXd19SQURDMi1qbXJmOXo2dVFsN3VPUlgwaVh3UjFhUjQzNTQ5UTBxN3RYazdzZWR6TDdFVXNpMHV0TjRSQ0JCV2JVSmxEUmlkWHlHTmJLLUxHVWtkaTJfaHRCaHRmTnNEeU9KeHdxUmJhRHpOUk1QcnM1T1Q1bktZNW5pVzZTVzJjZVRRRlFqNldjZFB1WGNubmlNRURJY0JtMkhYLWtxMGlERmUxTzhyeXNOYm5qeVhxS0hEbUNaaVdEOXc5MTA5TVNvVW9qT1dvRmQxUGhERlhZcHXSAacCQVVfeXFMTW5ENHBzSWZhRHdOQUVTMmF6dndUV3NkbjB0WDlSWDVzc19KZlRza1ZneFNXa1FWVm9Xdlc1UDhqb09MUWZGS3dpQWJSMG1JOHlrdDBneVJsUVZwSTBUbXR5SlJxQVlqZE1MSnNmVTNmdDl2SjZqTVFCdzVpaXhYcUhndElYV1NXb0dWaUNSckE3THAxbG9aTlVIVkI2czY4d01xZzJqM2dJblRqS0Q1azU4SGFsZXV6QjNpSFJmdklDTG5USV9ZVy1CeG02WFB3Z3Zhb2otcEl6RUlDd1BCSDlvM2tiamVUa254MHVWQ3JKNy1FSzhZdUZ1Q3hYSU1ZOU1wbk11V2h2STVDSWVnUFJ3cWl4aEFac0x6ZmxvWUFvREQ2enRTbw?oc=5
+- Air India faces ₹4,000-crore hit from Pak airspace closure: CEO Campbell Wilson | Company Business News - Mint
+  Air India faces ₹4,000-crore hit from
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQWUyelBrQVpILTJWTDlKTG5LT19wRzNUaEFrYWRXMDNqaVEyQ3JUY3ZRb0VROE1ZbU05UGJVbklqZ25nSHpUQW1ZWl9QbXB6OU5Vb1ZjTF9XUGlDOFN2TGdkRklJZTc0YjEwWHd1MlNOeGE3VVpVcGtMQ1MwNFA4UlRGeWlLOENBOWFkLUJPUmlZRWY5ampkSDdMVENodjlmRGZTREVIWDdZMkI2WTlWMzFBcmljbS1QelVNOE1nak84anhTbVRDWnhQN0xtNWZIWGFXMkEwY1NqOGVjNjY3NzV2ZnpzNFJs0gHuAUFVX3lxTE9vaDhOOVRULVBpUlE2c0NNbS1obGFhMVpRcGVvQVBOTHFBbVVQZjZza3lHN2laUzRPb3BXNG5nT0Vhc29HQ1pQdnNTT0U3UDdfMmlCcENlWXU4dlkwRDJaNjJieFlfOU5BLVl3TlJGNzhFM2J0bF9OTHRfYWthRjZRMlAySEFzM2NWZkxaVU9KRHU2b0xVX1pEQ3k2OVROZFFQemZPajhTX1BPZ3YwOGNobkdwZUZVZFFEWVcwend2RHZNNlFONTNrejd6WklmYUlkY1NYbXpnTkM1TmpUZHBWdGNqOHMzb3pJU21vM2c?oc=5
 
-- News Today Live Updates, 29 October | My deepfakes being used in porn, affecting mental health: Chiranjeevi in police complaint - The Indian Express
-  The Indian Express reported that Chiranjeevi's deepfakes were being used in porn.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVM2dlBpb05faHZvbzBmQW1aUXlGdFo4VXVvTEJJQ3Q0SU9LcXo5Ql9taXVQRmhGWGRJYmJtbm1EdW1Rblo5YkdQQzFpUS1NbU5OeVhTYU93dTBESTV0TFRBVTNTTGs4bE1VUjlyYnd6UHluTlZCUzVaTkFaaUprLUdJR01RTlJQXzZCQ0d1TTJIMzVSY3V0VTZCQklkMkQ2d2JfTy16Y1p3TEtKVlJYVjF4UURmak9VVGZwRjduT29sZk45SnBScmxlbkFzczRWREdOYzQ2OU5KZU5pcGdUOEpRQ3FSa09i0gHvAUFVX3lxTE9kVnUtdEFQbjZtNG9hb1JzQy15b0MwbmtDUzlCUTNDVkZXejVRQ2J6RjV6SGhtUFFmYmw3dWtET1FkOUlOVTBrQjZCcU5VV19lSWlYanZMYzZadk1TSktwUzlEOXY1djMyQTRzSFdtQWJYaTdjYVVHVk1fc0ltYVFrZFJqQnRkNU02YXVZTlROY3Z3Tk9XM1B2NkdEQW9kTk8yaW1GS1Bzdk16MjY2czc1UUU4bzhydnVrWE9qZGFudktIdUxmTDRUTE1OQTdfdFh0aUxNb0V4RTdaYnpOdkFTYkU4bDh6RjhIckNNcEpz?oc=5
+- Evening news wrap: Pakistan threatens Taliban after peace talks fail; Indian-origin bizman shot dead in Canada & more - The Times of India
+  Evening news wrap: Pakistan threatens Taliban after peace talks fail; Indian-origin bizman
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQOVdJQlJIT3RyYmhKU2NtV085cjFiNlYwdGVEdkNWeElQUU52a21oMTBVT1NyVlppT3dpZHBNQTM1XzNWbWRwXzJINkdfc3lrbXFYVVo3MlZEMkpiWXA3UUZHZHJteVZDemhwUGlkRzUxekhNOHVfNnRjSVlqZmxJS1FLa3hnN3RyMjdyaXFPRUlnTHd5RUF3aEJqNDJ0Z0I2TmdRVUlVTkY4a1RKR0RaR2hZbWFkZDdsemVWNjNmZ3dzakdBVy00SXpCMnBlS3BralphM1ZETE5weEVIZnFHYjhRZVdGY2N5emNKWGlhLWk2bjY5NXd3WG5CVGJvd0ktbFdEYm44SlE0WmVmLXc?oc=5
 
-- ‘I am done’: Delhi techie’s Reddit rant about leaving India due to lack of basic infrastructure goes viral - Mint
-  'I am done': Delhi techie’s Reddit rant about leaving
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQmVhRXI2UG1aZ2R0NWozMXNFNTAyd0ViM1g4eFhDNjBweHdXZVVCZldyTnpBaC1qLTZ4QW1RemNwWHcwdFM4aUVVWlhiZUIwd1lxem5mZjY3RWdOZGl3d21nZHhXeWwtbHVxUzhiRzB3ZXFYZVE5Vld6SXRhN0d2cHhRZXZjeE9wNWxzckg3bDRRbFN0VTJ6NG9jOXhVdUc5WjR1V2ppck1Xa2VLMWhyUFZqUEJvM1NlV3ozNEpCYUdEeEV3UDVpVkRBUnRwZEd3aXZVcVRYUjd0TXgyMm5tLXNtVWVGeWtMYUs3ZHJlMWVWd9IB9wFBVV95cUxNZmp5bk1FUHB3VW8zZFJTT2daX0R6cVI1ZmNpTi1iSENXRGsyYk1RalFUREhiX24xekI4ZWF4U0t2QURfRmFTaVZwSGFpM21pUE5hUjczdFh4Z013eUt1REx0X3B4dldUekhKaEk2LWxQZnNMb1lqRkVFSU5MODFDSGRHSk5sSU1WRm0ycEtBZFI5b09NQ2stQWZTUmdyNU9fN195XzRINUdtZ09JRmJyMGlOTXQ3MjRwZnF6dS0wVmg0ZEJHWWVjN0EzWXdlTnJNaFR0RTljc3dSQndFcnVtR000Y1VrRnVpU3BIR1hDZzl1QkwyLTVr?oc=5
+- India takes centre-stage at Japan Mobility Show 2025 - financialexpress.com
+  India takes centre-stage at
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNdTZsU3lkZEh1NU5RS1NUOUlVQmFFRVNFZ2liV1RQa25zS25HS25QT2JHTnZXM0ZOQWVvekljamhOaFY3bGJYa3RkSWhkX3E1eDl1a3lYaDhTR0xFZVdMWlFqcXdUQ3M2eERNZUpubTdjUC0yYUtMRVJ1MTZLc0IwczAxVGNjRTA4Nk4xelY2QWQxdUxfaU16dGhMQmZQOXNrNzVqLUVXM292VHVYSWEzMEp30gG4AUFVX3lxTE9oOUxmb2t6V1FUU1JyczAxOExVLUh3NGlQNmtZMjQtYk9sN2d3TmJkdU5MbkE3a3NEc2pzQkE0UE43cVU5TnN5Zk50bE4tb2YzVjhIOVRKNkh1QVQtRFRMemdVZkpfWHFheGszdHFBbnNxMk9EcFV6S2l0R1JsOW04T1Axa19KN1p4R0lObTZCTnM3SUVRVGtoYWRRbmdUbG80X3JYRFM2TXk0emVmS1YxdWhhbk55bVI?oc=5
 
-- OpenAI Offers 'ChatGPT Go' Free For 1 Year To Users In India From November 4 - NDTV
-  OpenAI Offers 'ChatGPT Go' Free For 1
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHBaYnFvelpLaHFvcWd5NnFQY3N6VGtMM1R5aTJuYUM2b01JQ1RQOTU1a05EUW9RS3hTZ1BWaWhRZGIzVHpwNWVMQ210dEJFTXh0djE0endfa1NFSXJIT0hMQjRNbXU1MlFabDVkeXM2b3hNZnRDTXNjcFoxb3EwTFVCamZkZjAtWEhRX0V0a01QQzBfWllSOWNpWElOQXNWVE82QmdQOE91Sy1KMnNqRTdWcmXSAbwBQVVfeXFMTk9DN0FsNVJVclRmM0g4QVVJSDd2LUtndDhZTENqVGZkLWxpVzF1Qm14ckI0QTgxOFpROUM1aU54MlB2Wmc3X2k5NU1kNjRaNGUwMlRRTDdUNE1iMkFobVZiN2dUUlFFZ1BLa1N4M3REYTU2cFRRdzhJeThYTFI4SlEtSi02THh0ZTRucmJXUklKYTBpbzZ6bmdnWEpVM0JhQVBPbE9qNEJXTmlLeEJHOXZvUG13ajJDYkxTc18?oc=5
+- 'So, I'm Doing A Trade Deal With India': Trump's Message From South Korea - NDTV
+  'So, I'm Doing A Trade Deal With India
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXhlNlFvWFhFbHBqdDc0dEhxOTlYZVU0NlRuM0FDV2sxQTNTbG5sNXNCaHJua1RkSUE3U0J4Yk04azVsaVNadnlFQ0tRTEdVdG1ib3VwZVFQd2R4WWJQNjcxV0dGY3hiS3RZb2trbGFUSnNjdEk1cDN6ZVZHczNNOGt5NkhPTlhjVmNIVENfMXp2UnhiendYQ3pGa0I0bkJXUVZLWDRKUWsyU3hjd0p5bFA2R0lGVGVhZm5BTTRaWmpLR255c0xBUnRXUDM0WHZPRnEtZG55RlcxOVdocDBqOU5EUHBsUURZYzExSHcxNVJnY0pVVlpZdWRwNW7SAYQCQVVfeXFMT1VDWXhTMmF0TzU5WHVhdS1qdWJiQUhtdXJhT1NjdUNqTXNGQVVIMXpnM2c1cFZsQ0J2RTY0cjA5bDd3MlNHZUZLa24ySkJqZHczazZxdzd1SWVvVGFYVHdHM1dPZV9rakR0dXBIVjdBaWZIOHRHRW05bTNidVNsSGR6OFdieEFjOVFiSEJOMVJRRlpqa0JmWWJfOWhlOC1zY29jYW1GRU5kV3lYdFJncktLNDI2cGNuVEdNWlNjZWJoS3M1bFJRSEdWT24xT3poa2Q5clNwdW1VVEZvOWhxNlkyckVSbVBYVmJOYU5xU3VsVzdVTWhQbEFlZmdHQmNmdnhtVHQ?oc=5
 
-- Bangladesh gets big offer from Pakistan amid frayed ties with India, via Karachi | Latest News India - Hindustan Times
-  Bangladesh gets big offer from Pakistan amid frayed ties with India.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZC0xbzlQSXJOUWF6SDdGcng1RmZZd3IyOTdwQy1wRlpfREZEd1phQW9kTWpfT2VQamtrVl9lQ1N4ODNDVW9yMjUxXzg3Y3d6ZHVtTTFXd0I1cVJlM0lpVWdVaHphSURTeENKeXlBYnJvRGxrZUFRaklYajJacjNEUXo4UldnRWprU205S1pKMVpQV09wM1o1ZmRUdjNIU3BZaEtvOGY4TXhwREkydzNHVS1Kc0wyaXVRbE56ZkR3NXJIVnloRGpvSkNSa2ZyaXVVMHVTT19DV0taNTZjZUhDU2d0bjUxa3ZZVWfSAe8BQVVfeXFMT0lfaGxuYlo1VU9jcG93M2tMWFZ1Z1Jrc193ZTFSemtZN09aYWUzQVdiUkVmb1pkUFJLM3g4VUpDY3Atd1NPWlptUjQyNkl2RFV2Wk9oZ0lUUFEzSEUyN2ZTa2lxaW4xQ3VvWXlOOFkzN0kwa01fTHh1SUpvT296ZjBxQ29NaExxd19Lc0NxUFhqUDJOLWNpQWVRYllITzIzekdsVF94bDJ1cWIzNE5HMnYxbm9RcjBiMXVNUFdCVzlLVXp5SU10UGFoUG55dlphQ0ZWbnl2MGFPZkhkUmV3WWRjdlNubWdZOUpmdF9DaUE?oc=5
+- Trump praises 'killer' Modi, shares update on trade deal with India | Latest News India - Hindustan Times
+  The Indian Prime Minister has spoken out against US President Donald Trump's comments
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOWEJBNERXcjFLdk9IYm42VFZRRDVsY2Y2RWxSRWNCQjNTYURPTVlJaFE3QVNmZjN5ME4xbTBDS2lkZmxYUjBuRjZ1cS1KOEYwUFpvOEhDcWY1bnJxcFRSNnRVcGUwb1lDcXpjZGFNMnMzdUxCU1lXeUw0U0pseTZfOUZHTnQ4blVMb1VLSldsbFl3bnBaelp6Y0cxY0NJeXdaXy1JSUFDZXJtR0M1U2RjVzZvTmN2TEN1QXYxc0xxU2tGdXdMZFHSAcsBQVVfeXFMUEpncDlVYkJvcWt6N0IwOTBkMzNZYlRHdGxhOTJzY0FhZlRFdlhDZFhyY0RzN2N6a1VxUVpKUjJsUEVGUWNsZTlrV1hMelZNSm91eW90NDJJYktKWklZUGZQU1RtX0dqQkhoYTZvWlF4bDlGTWt4YjliQjVXSlZGLXd3OXVaSEZZRjlvQldfbDd4YkYwWTVGWFpSUGQ0QXZDbWZXVU1WcXZ1WllYc202RXIwa1hoRXZYRFNJVGxteEFxaVpTd0tGSXk1bU0?oc=5
 
-- Top news of the day: October 28, 2025 - The Hindu
-  Top news of the day: October
-  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxOM2ZYYjJZRlI1MjAxREU3SHdLX3JmSzN0Zmp2S1BaelV1Q3oyMFVac0xOWmFacmtvOU5UWFdWaGJ5ZGlfNy12OGVvTzhXd19SQURDMi1qbXJmOXo2dVFsN3VPUlgwaVh3UjFhUjQzNTQ5UTBxN3RYazdzZWR6TDdFVXNpMHV0TjRSQ0JCV2JVSmxEUmlkWHlHTmJLLUxHVWtkaTJfaHRCaHRmTnNEeU9KeHdxUmJhRHpOUk1QcnM1T1Q1bktZNW5pVzZTVzJjZVRRRlFqNldjZFB1WGNubmlNRURJY0JtMkhYLWtxMGlERmUxTzhyeXNOYm5qeVhxS0hEbUNaaVdEOXc5MTA5TVNvVW9qT1dvRmQxUGhERlhZcHXSAacCQVVfeXFMTW5ENHBzSWZhRHdOQUVTMmF6dndUV3NkbjB0WDlSWDVzc19KZlRza1ZneFNXa1FWVm9Xdlc1UDhqb09MUWZGS3dpQWJSMG1JOHlrdDBneVJsUVZwSTBUbXR5SlJxQVlqZE1MSnNmVTNmdDl2SjZqTVFCdzVpaXhYcUhndElYV1NXb0dWaUNSckE3THAxbG9aTlVIVkI2czY4d01xZzJqM2dJblRqS0Q1azU4SGFsZXV6QjNpSFJmdklDTG5USV9ZVy1CeG02WFB3Z3Zhb2otcEl6RUlDd1BCSDlvM2tiamVUa254MHVWQ3JKNy1FSzhZdUZ1Q3hYSU1ZOU1wbk11V2h2STVDSWVnUFJ3cWl4aEFac0x6ZmxvWUFvREQ2enRTbw?oc=5
+- Air India faces ₹4,000-crore hit from Pak airspace closure: CEO Campbell Wilson | Company Business News - Mint
+  Air India faces ₹4,000-crore hit from
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQWUyelBrQVpILTJWTDlKTG5LT19wRzNUaEFrYWRXMDNqaVEyQ3JUY3ZRb0VROE1ZbU05UGJVbklqZ25nSHpUQW1ZWl9QbXB6OU5Vb1ZjTF9XUGlDOFN2TGdkRklJZTc0YjEwWHd1MlNOeGE3VVpVcGtMQ1MwNFA4UlRGeWlLOENBOWFkLUJPUmlZRWY5ampkSDdMVENodjlmRGZTREVIWDdZMkI2WTlWMzFBcmljbS1QelVNOE1nak84anhTbVRDWnhQN0xtNWZIWGFXMkEwY1NqOGVjNjY3NzV2ZnpzNFJs0gHuAUFVX3lxTE9vaDhOOVRULVBpUlE2c0NNbS1obGFhMVpRcGVvQVBOTHFBbVVQZjZza3lHN2laUzRPb3BXNG5nT0Vhc29HQ1pQdnNTT0U3UDdfMmlCcENlWXU4dlkwRDJaNjJieFlfOU5BLVl3TlJGNzhFM2J0bF9OTHRfYWthRjZRMlAySEFzM2NWZkxaVU9KRHU2b0xVX1pEQ3k2OVROZFFQemZPajhTX1BPZ3YwOGNobkdwZUZVZFFEWVcwend2RHZNNlFONTNrejd6WklmYUlkY1NYbXpnTkM1TmpUZHBWdGNqOHMzb3pJU21vM2c?oc=5
 
-- News Today Live Updates, 29 October | My deepfakes being used in porn, affecting mental health: Chiranjeevi in police complaint - The Indian Express
-  The Indian Express reported that Chiranjeevi's deepfakes were being used in porn.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVM2dlBpb05faHZvbzBmQW1aUXlGdFo4VXVvTEJJQ3Q0SU9LcXo5Ql9taXVQRmhGWGRJYmJtbm1EdW1Rblo5YkdQQzFpUS1NbU5OeVhTYU93dTBESTV0TFRBVTNTTGs4bE1VUjlyYnd6UHluTlZCUzVaTkFaaUprLUdJR01RTlJQXzZCQ0d1TTJIMzVSY3V0VTZCQklkMkQ2d2JfTy16Y1p3TEtKVlJYVjF4UURmak9VVGZwRjduT29sZk45SnBScmxlbkFzczRWREdOYzQ2OU5KZU5pcGdUOEpRQ3FSa09i0gHvAUFVX3lxTE9kVnUtdEFQbjZtNG9hb1JzQy15b0MwbmtDUzlCUTNDVkZXejVRQ2J6RjV6SGhtUFFmYmw3dWtET1FkOUlOVTBrQjZCcU5VV19lSWlYanZMYzZadk1TSktwUzlEOXY1djMyQTRzSFdtQWJYaTdjYVVHVk1fc0ltYVFrZFJqQnRkNU02YXVZTlROY3Z3Tk9XM1B2NkdEQW9kTk8yaW1GS1Bzdk16MjY2czc1UUU4bzhydnVrWE9qZGFudktIdUxmTDRUTE1OQTdfdFh0aUxNb0V4RTdaYnpOdkFTYkU4bDh6RjhIckNNcEpz?oc=5
+- Evening news wrap: Pakistan threatens Taliban after peace talks fail; Indian-origin bizman shot dead in Canada & more - The Times of India
+  Evening news wrap: Pakistan threatens Taliban after peace talks fail; Indian-origin bizman
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQOVdJQlJIT3RyYmhKU2NtV085cjFiNlYwdGVEdkNWeElQUU52a21oMTBVT1NyVlppT3dpZHBNQTM1XzNWbWRwXzJINkdfc3lrbXFYVVo3MlZEMkpiWXA3UUZHZHJteVZDemhwUGlkRzUxekhNOHVfNnRjSVlqZmxJS1FLa3hnN3RyMjdyaXFPRUlnTHd5RUF3aEJqNDJ0Z0I2TmdRVUlVTkY4a1RKR0RaR2hZbWFkZDdsemVWNjNmZ3dzakdBVy00SXpCMnBlS3BralphM1ZETE5weEVIZnFHYjhRZVdGY2N5emNKWGlhLWk2bjY5NXd3WG5CVGJvd0ktbFdEYm44SlE0WmVmLXc?oc=5
 
-- ‘I am done’: Delhi techie’s Reddit rant about leaving India due to lack of basic infrastructure goes viral - Mint
-  'I am done': Delhi techie’s Reddit rant about leaving
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQmVhRXI2UG1aZ2R0NWozMXNFNTAyd0ViM1g4eFhDNjBweHdXZVVCZldyTnpBaC1qLTZ4QW1RemNwWHcwdFM4aUVVWlhiZUIwd1lxem5mZjY3RWdOZGl3d21nZHhXeWwtbHVxUzhiRzB3ZXFYZVE5Vld6SXRhN0d2cHhRZXZjeE9wNWxzckg3bDRRbFN0VTJ6NG9jOXhVdUc5WjR1V2ppck1Xa2VLMWhyUFZqUEJvM1NlV3ozNEpCYUdEeEV3UDVpVkRBUnRwZEd3aXZVcVRYUjd0TXgyMm5tLXNtVWVGeWtMYUs3ZHJlMWVWd9IB9wFBVV95cUxNZmp5bk1FUHB3VW8zZFJTT2daX0R6cVI1ZmNpTi1iSENXRGsyYk1RalFUREhiX24xekI4ZWF4U0t2QURfRmFTaVZwSGFpM21pUE5hUjczdFh4Z013eUt1REx0X3B4dldUekhKaEk2LWxQZnNMb1lqRkVFSU5MODFDSGRHSk5sSU1WRm0ycEtBZFI5b09NQ2stQWZTUmdyNU9fN195XzRINUdtZ09JRmJyMGlOTXQ3MjRwZnF6dS0wVmg0ZEJHWWVjN0EzWXdlTnJNaFR0RTljc3dSQndFcnVtR000Y1VrRnVpU3BIR1hDZzl1QkwyLTVr?oc=5
+- India takes centre-stage at Japan Mobility Show 2025 - financialexpress.com
+  India takes centre-stage at
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNdTZsU3lkZEh1NU5RS1NUOUlVQmFFRVNFZ2liV1RQa25zS25HS25QT2JHTnZXM0ZOQWVvekljamhOaFY3bGJYa3RkSWhkX3E1eDl1a3lYaDhTR0xFZVdMWlFqcXdUQ3M2eERNZUpubTdjUC0yYUtMRVJ1MTZLc0IwczAxVGNjRTA4Nk4xelY2QWQxdUxfaU16dGhMQmZQOXNrNzVqLUVXM292VHVYSWEzMEp30gG4AUFVX3lxTE9oOUxmb2t6V1FUU1JyczAxOExVLUh3NGlQNmtZMjQtYk9sN2d3TmJkdU5MbkE3a3NEc2pzQkE0UE43cVU5TnN5Zk50bE4tb2YzVjhIOVRKNkh1QVQtRFRMemdVZkpfWHFheGszdHFBbnNxMk9EcFV6S2l0R1JsOW04T1Axa19KN1p4R0lObTZCTnM3SUVRVGtoYWRRbmdUbG80X3JYRFM2TXk0emVmS1YxdWhhbk55bVI?oc=5
 
-- OpenAI Offers 'ChatGPT Go' Free For 1 Year To Users In India From November 4 - NDTV
-  OpenAI Offers 'ChatGPT Go' Free For 1
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHBaYnFvelpLaHFvcWd5NnFQY3N6VGtMM1R5aTJuYUM2b01JQ1RQOTU1a05EUW9RS3hTZ1BWaWhRZGIzVHpwNWVMQ210dEJFTXh0djE0endfa1NFSXJIT0hMQjRNbXU1MlFabDVkeXM2b3hNZnRDTXNjcFoxb3EwTFVCamZkZjAtWEhRX0V0a01QQzBfWllSOWNpWElOQXNWVE82QmdQOE91Sy1KMnNqRTdWcmXSAbwBQVVfeXFMTk9DN0FsNVJVclRmM0g4QVVJSDd2LUtndDhZTENqVGZkLWxpVzF1Qm14ckI0QTgxOFpROUM1aU54MlB2Wmc3X2k5NU1kNjRaNGUwMlRRTDdUNE1iMkFobVZiN2dUUlFFZ1BLa1N4M3REYTU2cFRRdzhJeThYTFI4SlEtSi02THh0ZTRucmJXUklKYTBpbzZ6bmdnWEpVM0JhQVBPbE9qNEJXTmlLeEJHOXZvUG13ajJDYkxTc18?oc=5
+- 'So, I'm Doing A Trade Deal With India': Trump's Message From South Korea - NDTV
+  'So, I'm Doing A Trade Deal With India
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXhlNlFvWFhFbHBqdDc0dEhxOTlYZVU0NlRuM0FDV2sxQTNTbG5sNXNCaHJua1RkSUE3U0J4Yk04azVsaVNadnlFQ0tRTEdVdG1ib3VwZVFQd2R4WWJQNjcxV0dGY3hiS3RZb2trbGFUSnNjdEk1cDN6ZVZHczNNOGt5NkhPTlhjVmNIVENfMXp2UnhiendYQ3pGa0I0bkJXUVZLWDRKUWsyU3hjd0p5bFA2R0lGVGVhZm5BTTRaWmpLR255c0xBUnRXUDM0WHZPRnEtZG55RlcxOVdocDBqOU5EUHBsUURZYzExSHcxNVJnY0pVVlpZdWRwNW7SAYQCQVVfeXFMT1VDWXhTMmF0TzU5WHVhdS1qdWJiQUhtdXJhT1NjdUNqTXNGQVVIMXpnM2c1cFZsQ0J2RTY0cjA5bDd3MlNHZUZLa24ySkJqZHczazZxdzd1SWVvVGFYVHdHM1dPZV9rakR0dXBIVjdBaWZIOHRHRW05bTNidVNsSGR6OFdieEFjOVFiSEJOMVJRRlpqa0JmWWJfOWhlOC1zY29jYW1GRU5kV3lYdFJncktLNDI2cGNuVEdNWlNjZWJoS3M1bFJRSEdWT24xT3poa2Q5clNwdW1VVEZvOWhxNlkyckVSbVBYVmJOYU5xU3VsVzdVTWhQbEFlZmdHQmNmdnhtVHQ?oc=5
 
-- Bangladesh gets big offer from Pakistan amid frayed ties with India, via Karachi | Latest News India - Hindustan Times
-  Bangladesh gets big offer from Pakistan amid frayed ties with India.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZC0xbzlQSXJOUWF6SDdGcng1RmZZd3IyOTdwQy1wRlpfREZEd1phQW9kTWpfT2VQamtrVl9lQ1N4ODNDVW9yMjUxXzg3Y3d6ZHVtTTFXd0I1cVJlM0lpVWdVaHphSURTeENKeXlBYnJvRGxrZUFRaklYajJacjNEUXo4UldnRWprU205S1pKMVpQV09wM1o1ZmRUdjNIU3BZaEtvOGY4TXhwREkydzNHVS1Kc0wyaXVRbE56ZkR3NXJIVnloRGpvSkNSa2ZyaXVVMHVTT19DV0taNTZjZUhDU2d0bjUxa3ZZVWfSAe8BQVVfeXFMT0lfaGxuYlo1VU9jcG93M2tMWFZ1Z1Jrc193ZTFSemtZN09aYWUzQVdiUkVmb1pkUFJLM3g4VUpDY3Atd1NPWlptUjQyNkl2RFV2Wk9oZ0lUUFEzSEUyN2ZTa2lxaW4xQ3VvWXlOOFkzN0kwa01fTHh1SUpvT296ZjBxQ29NaExxd19Lc0NxUFhqUDJOLWNpQWVRYllITzIzekdsVF94bDJ1cWIzNE5HMnYxbm9RcjBiMXVNUFdCVzlLVXp5SU10UGFoUG55dlphQ0ZWbnl2MGFPZkhkUmV3WWRjdlNubWdZOUpmdF9DaUE?oc=5
+- Trump praises 'killer' Modi, shares update on trade deal with India | Latest News India - Hindustan Times
+  The Indian Prime Minister has spoken out against US President Donald Trump's comments
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOWEJBNERXcjFLdk9IYm42VFZRRDVsY2Y2RWxSRWNCQjNTYURPTVlJaFE3QVNmZjN5ME4xbTBDS2lkZmxYUjBuRjZ1cS1KOEYwUFpvOEhDcWY1bnJxcFRSNnRVcGUwb1lDcXpjZGFNMnMzdUxCU1lXeUw0U0pseTZfOUZHTnQ4blVMb1VLSldsbFl3bnBaelp6Y0cxY0NJeXdaXy1JSUFDZXJtR0M1U2RjVzZvTmN2TEN1QXYxc0xxU2tGdXdMZFHSAcsBQVVfeXFMUEpncDlVYkJvcWt6N0IwOTBkMzNZYlRHdGxhOTJzY0FhZlRFdlhDZFhyY0RzN2N6a1VxUVpKUjJsUEVGUWNsZTlrV1hMelZNSm91eW90NDJJYktKWklZUGZQU1RtX0dqQkhoYTZvWlF4bDlGTWt4YjliQjVXSlZGLXd3OXVaSEZZRjlvQldfbDd4YkYwWTVGWFpSUGQ0QXZDbWZXVU1WcXZ1WllYc202RXIwa1hoRXZYRFNJVGxteEFxaVpTd0tGSXk1bU0?oc=5
 
-- Top news of the day: October 28, 2025 - The Hindu
-  Top news of the day: October
-  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxOM2ZYYjJZRlI1MjAxREU3SHdLX3JmSzN0Zmp2S1BaelV1Q3oyMFVac0xOWmFacmtvOU5UWFdWaGJ5ZGlfNy12OGVvTzhXd19SQURDMi1qbXJmOXo2dVFsN3VPUlgwaVh3UjFhUjQzNTQ5UTBxN3RYazdzZWR6TDdFVXNpMHV0TjRSQ0JCV2JVSmxEUmlkWHlHTmJLLUxHVWtkaTJfaHRCaHRmTnNEeU9KeHdxUmJhRHpOUk1QcnM1T1Q1bktZNW5pVzZTVzJjZVRRRlFqNldjZFB1WGNubmlNRURJY0JtMkhYLWtxMGlERmUxTzhyeXNOYm5qeVhxS0hEbUNaaVdEOXc5MTA5TVNvVW9qT1dvRmQxUGhERlhZcHXSAacCQVVfeXFMTW5ENHBzSWZhRHdOQUVTMmF6dndUV3NkbjB0WDlSWDVzc19KZlRza1ZneFNXa1FWVm9Xdlc1UDhqb09MUWZGS3dpQWJSMG1JOHlrdDBneVJsUVZwSTBUbXR5SlJxQVlqZE1MSnNmVTNmdDl2SjZqTVFCdzVpaXhYcUhndElYV1NXb0dWaUNSckE3THAxbG9aTlVIVkI2czY4d01xZzJqM2dJblRqS0Q1azU4SGFsZXV6QjNpSFJmdklDTG5USV9ZVy1CeG02WFB3Z3Zhb2otcEl6RUlDd1BCSDlvM2tiamVUa254MHVWQ3JKNy1FSzhZdUZ1Q3hYSU1ZOU1wbk11V2h2STVDSWVnUFJ3cWl4aEFac0x6ZmxvWUFvREQ2enRTbw?oc=5
+- Air India faces ₹4,000-crore hit from Pak airspace closure: CEO Campbell Wilson | Company Business News - Mint
+  Air India faces ₹4,000-crore hit from
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQWUyelBrQVpILTJWTDlKTG5LT19wRzNUaEFrYWRXMDNqaVEyQ3JUY3ZRb0VROE1ZbU05UGJVbklqZ25nSHpUQW1ZWl9QbXB6OU5Vb1ZjTF9XUGlDOFN2TGdkRklJZTc0YjEwWHd1MlNOeGE3VVpVcGtMQ1MwNFA4UlRGeWlLOENBOWFkLUJPUmlZRWY5ampkSDdMVENodjlmRGZTREVIWDdZMkI2WTlWMzFBcmljbS1QelVNOE1nak84anhTbVRDWnhQN0xtNWZIWGFXMkEwY1NqOGVjNjY3NzV2ZnpzNFJs0gHuAUFVX3lxTE9vaDhOOVRULVBpUlE2c0NNbS1obGFhMVpRcGVvQVBOTHFBbVVQZjZza3lHN2laUzRPb3BXNG5nT0Vhc29HQ1pQdnNTT0U3UDdfMmlCcENlWXU4dlkwRDJaNjJieFlfOU5BLVl3TlJGNzhFM2J0bF9OTHRfYWthRjZRMlAySEFzM2NWZkxaVU9KRHU2b0xVX1pEQ3k2OVROZFFQemZPajhTX1BPZ3YwOGNobkdwZUZVZFFEWVcwend2RHZNNlFONTNrejd6WklmYUlkY1NYbXpnTkM1TmpUZHBWdGNqOHMzb3pJU21vM2c?oc=5
 
-- News Today Live Updates, 29 October | My deepfakes being used in porn, affecting mental health: Chiranjeevi in police complaint - The Indian Express
-  The Indian Express reported that Chiranjeevi's deepfakes were being used in porn.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVM2dlBpb05faHZvbzBmQW1aUXlGdFo4VXVvTEJJQ3Q0SU9LcXo5Ql9taXVQRmhGWGRJYmJtbm1EdW1Rblo5YkdQQzFpUS1NbU5OeVhTYU93dTBESTV0TFRBVTNTTGs4bE1VUjlyYnd6UHluTlZCUzVaTkFaaUprLUdJR01RTlJQXzZCQ0d1TTJIMzVSY3V0VTZCQklkMkQ2d2JfTy16Y1p3TEtKVlJYVjF4UURmak9VVGZwRjduT29sZk45SnBScmxlbkFzczRWREdOYzQ2OU5KZU5pcGdUOEpRQ3FSa09i0gHvAUFVX3lxTE9kVnUtdEFQbjZtNG9hb1JzQy15b0MwbmtDUzlCUTNDVkZXejVRQ2J6RjV6SGhtUFFmYmw3dWtET1FkOUlOVTBrQjZCcU5VV19lSWlYanZMYzZadk1TSktwUzlEOXY1djMyQTRzSFdtQWJYaTdjYVVHVk1fc0ltYVFrZFJqQnRkNU02YXVZTlROY3Z3Tk9XM1B2NkdEQW9kTk8yaW1GS1Bzdk16MjY2czc1UUU4bzhydnVrWE9qZGFudktIdUxmTDRUTE1OQTdfdFh0aUxNb0V4RTdaYnpOdkFTYkU4bDh6RjhIckNNcEpz?oc=5
+- Evening news wrap: Pakistan threatens Taliban after peace talks fail; Indian-origin bizman shot dead in Canada & more - The Times of India
+  Evening news wrap: Pakistan threatens Taliban after peace talks fail; Indian-origin bizman
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQOVdJQlJIT3RyYmhKU2NtV085cjFiNlYwdGVEdkNWeElQUU52a21oMTBVT1NyVlppT3dpZHBNQTM1XzNWbWRwXzJINkdfc3lrbXFYVVo3MlZEMkpiWXA3UUZHZHJteVZDemhwUGlkRzUxekhNOHVfNnRjSVlqZmxJS1FLa3hnN3RyMjdyaXFPRUlnTHd5RUF3aEJqNDJ0Z0I2TmdRVUlVTkY4a1RKR0RaR2hZbWFkZDdsemVWNjNmZ3dzakdBVy00SXpCMnBlS3BralphM1ZETE5weEVIZnFHYjhRZVdGY2N5emNKWGlhLWk2bjY5NXd3WG5CVGJvd0ktbFdEYm44SlE0WmVmLXc?oc=5
 
-- ‘I am done’: Delhi techie’s Reddit rant about leaving India due to lack of basic infrastructure goes viral - Mint
-  'I am done': Delhi techie’s Reddit rant about leaving
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQmVhRXI2UG1aZ2R0NWozMXNFNTAyd0ViM1g4eFhDNjBweHdXZVVCZldyTnpBaC1qLTZ4QW1RemNwWHcwdFM4aUVVWlhiZUIwd1lxem5mZjY3RWdOZGl3d21nZHhXeWwtbHVxUzhiRzB3ZXFYZVE5Vld6SXRhN0d2cHhRZXZjeE9wNWxzckg3bDRRbFN0VTJ6NG9jOXhVdUc5WjR1V2ppck1Xa2VLMWhyUFZqUEJvM1NlV3ozNEpCYUdEeEV3UDVpVkRBUnRwZEd3aXZVcVRYUjd0TXgyMm5tLXNtVWVGeWtMYUs3ZHJlMWVWd9IB9wFBVV95cUxNZmp5bk1FUHB3VW8zZFJTT2daX0R6cVI1ZmNpTi1iSENXRGsyYk1RalFUREhiX24xekI4ZWF4U0t2QURfRmFTaVZwSGFpM21pUE5hUjczdFh4Z013eUt1REx0X3B4dldUekhKaEk2LWxQZnNMb1lqRkVFSU5MODFDSGRHSk5sSU1WRm0ycEtBZFI5b09NQ2stQWZTUmdyNU9fN195XzRINUdtZ09JRmJyMGlOTXQ3MjRwZnF6dS0wVmg0ZEJHWWVjN0EzWXdlTnJNaFR0RTljc3dSQndFcnVtR000Y1VrRnVpU3BIR1hDZzl1QkwyLTVr?oc=5
+- India takes centre-stage at Japan Mobility Show 2025 - financialexpress.com
+  India takes centre-stage at
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNdTZsU3lkZEh1NU5RS1NUOUlVQmFFRVNFZ2liV1RQa25zS25HS25QT2JHTnZXM0ZOQWVvekljamhOaFY3bGJYa3RkSWhkX3E1eDl1a3lYaDhTR0xFZVdMWlFqcXdUQ3M2eERNZUpubTdjUC0yYUtMRVJ1MTZLc0IwczAxVGNjRTA4Nk4xelY2QWQxdUxfaU16dGhMQmZQOXNrNzVqLUVXM292VHVYSWEzMEp30gG4AUFVX3lxTE9oOUxmb2t6V1FUU1JyczAxOExVLUh3NGlQNmtZMjQtYk9sN2d3TmJkdU5MbkE3a3NEc2pzQkE0UE43cVU5TnN5Zk50bE4tb2YzVjhIOVRKNkh1QVQtRFRMemdVZkpfWHFheGszdHFBbnNxMk9EcFV6S2l0R1JsOW04T1Axa19KN1p4R0lObTZCTnM3SUVRVGtoYWRRbmdUbG80X3JYRFM2TXk0emVmS1YxdWhhbk55bVI?oc=5
 
-- OpenAI Offers 'ChatGPT Go' Free For 1 Year To Users In India From November 4 - NDTV
-  OpenAI Offers 'ChatGPT Go' Free For 1
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHBaYnFvelpLaHFvcWd5NnFQY3N6VGtMM1R5aTJuYUM2b01JQ1RQOTU1a05EUW9RS3hTZ1BWaWhRZGIzVHpwNWVMQ210dEJFTXh0djE0endfa1NFSXJIT0hMQjRNbXU1MlFabDVkeXM2b3hNZnRDTXNjcFoxb3EwTFVCamZkZjAtWEhRX0V0a01QQzBfWllSOWNpWElOQXNWVE82QmdQOE91Sy1KMnNqRTdWcmXSAbwBQVVfeXFMTk9DN0FsNVJVclRmM0g4QVVJSDd2LUtndDhZTENqVGZkLWxpVzF1Qm14ckI0QTgxOFpROUM1aU54MlB2Wmc3X2k5NU1kNjRaNGUwMlRRTDdUNE1iMkFobVZiN2dUUlFFZ1BLa1N4M3REYTU2cFRRdzhJeThYTFI4SlEtSi02THh0ZTRucmJXUklKYTBpbzZ6bmdnWEpVM0JhQVBPbE9qNEJXTmlLeEJHOXZvUG13ajJDYkxTc18?oc=5
+- 'So, I'm Doing A Trade Deal With India': Trump's Message From South Korea - NDTV
+  'So, I'm Doing A Trade Deal With India
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXhlNlFvWFhFbHBqdDc0dEhxOTlYZVU0NlRuM0FDV2sxQTNTbG5sNXNCaHJua1RkSUE3U0J4Yk04azVsaVNadnlFQ0tRTEdVdG1ib3VwZVFQd2R4WWJQNjcxV0dGY3hiS3RZb2trbGFUSnNjdEk1cDN6ZVZHczNNOGt5NkhPTlhjVmNIVENfMXp2UnhiendYQ3pGa0I0bkJXUVZLWDRKUWsyU3hjd0p5bFA2R0lGVGVhZm5BTTRaWmpLR255c0xBUnRXUDM0WHZPRnEtZG55RlcxOVdocDBqOU5EUHBsUURZYzExSHcxNVJnY0pVVlpZdWRwNW7SAYQCQVVfeXFMT1VDWXhTMmF0TzU5WHVhdS1qdWJiQUhtdXJhT1NjdUNqTXNGQVVIMXpnM2c1cFZsQ0J2RTY0cjA5bDd3MlNHZUZLa24ySkJqZHczazZxdzd1SWVvVGFYVHdHM1dPZV9rakR0dXBIVjdBaWZIOHRHRW05bTNidVNsSGR6OFdieEFjOVFiSEJOMVJRRlpqa0JmWWJfOWhlOC1zY29jYW1GRU5kV3lYdFJncktLNDI2cGNuVEdNWlNjZWJoS3M1bFJRSEdWT24xT3poa2Q5clNwdW1VVEZvOWhxNlkyckVSbVBYVmJOYU5xU3VsVzdVTWhQbEFlZmdHQmNmdnhtVHQ?oc=5
 
-- Bangladesh gets big offer from Pakistan amid frayed ties with India, via Karachi | Latest News India - Hindustan Times
-  Bangladesh gets big offer from Pakistan amid frayed ties with India.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZC0xbzlQSXJOUWF6SDdGcng1RmZZd3IyOTdwQy1wRlpfREZEd1phQW9kTWpfT2VQamtrVl9lQ1N4ODNDVW9yMjUxXzg3Y3d6ZHVtTTFXd0I1cVJlM0lpVWdVaHphSURTeENKeXlBYnJvRGxrZUFRaklYajJacjNEUXo4UldnRWprU205S1pKMVpQV09wM1o1ZmRUdjNIU3BZaEtvOGY4TXhwREkydzNHVS1Kc0wyaXVRbE56ZkR3NXJIVnloRGpvSkNSa2ZyaXVVMHVTT19DV0taNTZjZUhDU2d0bjUxa3ZZVWfSAe8BQVVfeXFMT0lfaGxuYlo1VU9jcG93M2tMWFZ1Z1Jrc193ZTFSemtZN09aYWUzQVdiUkVmb1pkUFJLM3g4VUpDY3Atd1NPWlptUjQyNkl2RFV2Wk9oZ0lUUFEzSEUyN2ZTa2lxaW4xQ3VvWXlOOFkzN0kwa01fTHh1SUpvT296ZjBxQ29NaExxd19Lc0NxUFhqUDJOLWNpQWVRYllITzIzekdsVF94bDJ1cWIzNE5HMnYxbm9RcjBiMXVNUFdCVzlLVXp5SU10UGFoUG55dlphQ0ZWbnl2MGFPZkhkUmV3WWRjdlNubWdZOUpmdF9DaUE?oc=5
+- Trump praises 'killer' Modi, shares update on trade deal with India | Latest News India - Hindustan Times
+  The Indian Prime Minister has spoken out against US President Donald Trump's comments
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOWEJBNERXcjFLdk9IYm42VFZRRDVsY2Y2RWxSRWNCQjNTYURPTVlJaFE3QVNmZjN5ME4xbTBDS2lkZmxYUjBuRjZ1cS1KOEYwUFpvOEhDcWY1bnJxcFRSNnRVcGUwb1lDcXpjZGFNMnMzdUxCU1lXeUw0U0pseTZfOUZHTnQ4blVMb1VLSldsbFl3bnBaelp6Y0cxY0NJeXdaXy1JSUFDZXJtR0M1U2RjVzZvTmN2TEN1QXYxc0xxU2tGdXdMZFHSAcsBQVVfeXFMUEpncDlVYkJvcWt6N0IwOTBkMzNZYlRHdGxhOTJzY0FhZlRFdlhDZFhyY0RzN2N6a1VxUVpKUjJsUEVGUWNsZTlrV1hMelZNSm91eW90NDJJYktKWklZUGZQU1RtX0dqQkhoYTZvWlF4bDlGTWt4YjliQjVXSlZGLXd3OXVaSEZZRjlvQldfbDd4YkYwWTVGWFpSUGQ0QXZDbWZXVU1WcXZ1WllYc202RXIwa1hoRXZYRFNJVGxteEFxaVpTd0tGSXk1bU0?oc=5
 
-- Top news of the day: October 28, 2025 - The Hindu
-  Top news of the day: October
-  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxOM2ZYYjJZRlI1MjAxREU3SHdLX3JmSzN0Zmp2S1BaelV1Q3oyMFVac0xOWmFacmtvOU5UWFdWaGJ5ZGlfNy12OGVvTzhXd19SQURDMi1qbXJmOXo2dVFsN3VPUlgwaVh3UjFhUjQzNTQ5UTBxN3RYazdzZWR6TDdFVXNpMHV0TjRSQ0JCV2JVSmxEUmlkWHlHTmJLLUxHVWtkaTJfaHRCaHRmTnNEeU9KeHdxUmJhRHpOUk1QcnM1T1Q1bktZNW5pVzZTVzJjZVRRRlFqNldjZFB1WGNubmlNRURJY0JtMkhYLWtxMGlERmUxTzhyeXNOYm5qeVhxS0hEbUNaaVdEOXc5MTA5TVNvVW9qT1dvRmQxUGhERlhZcHXSAacCQVVfeXFMTW5ENHBzSWZhRHdOQUVTMmF6dndUV3NkbjB0WDlSWDVzc19KZlRza1ZneFNXa1FWVm9Xdlc1UDhqb09MUWZGS3dpQWJSMG1JOHlrdDBneVJsUVZwSTBUbXR5SlJxQVlqZE1MSnNmVTNmdDl2SjZqTVFCdzVpaXhYcUhndElYV1NXb0dWaUNSckE3THAxbG9aTlVIVkI2czY4d01xZzJqM2dJblRqS0Q1azU4SGFsZXV6QjNpSFJmdklDTG5USV9ZVy1CeG02WFB3Z3Zhb2otcEl6RUlDd1BCSDlvM2tiamVUa254MHVWQ3JKNy1FSzhZdUZ1Q3hYSU1ZOU1wbk11V2h2STVDSWVnUFJ3cWl4aEFac0x6ZmxvWUFvREQ2enRTbw?oc=5
+- Air India faces ₹4,000-crore hit from Pak airspace closure: CEO Campbell Wilson | Company Business News - Mint
+  Air India faces ₹4,000-crore hit from
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQWUyelBrQVpILTJWTDlKTG5LT19wRzNUaEFrYWRXMDNqaVEyQ3JUY3ZRb0VROE1ZbU05UGJVbklqZ25nSHpUQW1ZWl9QbXB6OU5Vb1ZjTF9XUGlDOFN2TGdkRklJZTc0YjEwWHd1MlNOeGE3VVpVcGtMQ1MwNFA4UlRGeWlLOENBOWFkLUJPUmlZRWY5ampkSDdMVENodjlmRGZTREVIWDdZMkI2WTlWMzFBcmljbS1QelVNOE1nak84anhTbVRDWnhQN0xtNWZIWGFXMkEwY1NqOGVjNjY3NzV2ZnpzNFJs0gHuAUFVX3lxTE9vaDhOOVRULVBpUlE2c0NNbS1obGFhMVpRcGVvQVBOTHFBbVVQZjZza3lHN2laUzRPb3BXNG5nT0Vhc29HQ1pQdnNTT0U3UDdfMmlCcENlWXU4dlkwRDJaNjJieFlfOU5BLVl3TlJGNzhFM2J0bF9OTHRfYWthRjZRMlAySEFzM2NWZkxaVU9KRHU2b0xVX1pEQ3k2OVROZFFQemZPajhTX1BPZ3YwOGNobkdwZUZVZFFEWVcwend2RHZNNlFONTNrejd6WklmYUlkY1NYbXpnTkM1TmpUZHBWdGNqOHMzb3pJU21vM2c?oc=5
 
-- News Today Live Updates, 29 October | My deepfakes being used in porn, affecting mental health: Chiranjeevi in police complaint - The Indian Express
-  The Indian Express reported that Chiranjeevi's deepfakes were being used in porn.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVM2dlBpb05faHZvbzBmQW1aUXlGdFo4VXVvTEJJQ3Q0SU9LcXo5Ql9taXVQRmhGWGRJYmJtbm1EdW1Rblo5YkdQQzFpUS1NbU5OeVhTYU93dTBESTV0TFRBVTNTTGs4bE1VUjlyYnd6UHluTlZCUzVaTkFaaUprLUdJR01RTlJQXzZCQ0d1TTJIMzVSY3V0VTZCQklkMkQ2d2JfTy16Y1p3TEtKVlJYVjF4UURmak9VVGZwRjduT29sZk45SnBScmxlbkFzczRWREdOYzQ2OU5KZU5pcGdUOEpRQ3FSa09i0gHvAUFVX3lxTE9kVnUtdEFQbjZtNG9hb1JzQy15b0MwbmtDUzlCUTNDVkZXejVRQ2J6RjV6SGhtUFFmYmw3dWtET1FkOUlOVTBrQjZCcU5VV19lSWlYanZMYzZadk1TSktwUzlEOXY1djMyQTRzSFdtQWJYaTdjYVVHVk1fc0ltYVFrZFJqQnRkNU02YXVZTlROY3Z3Tk9XM1B2NkdEQW9kTk8yaW1GS1Bzdk16MjY2czc1UUU4bzhydnVrWE9qZGFudktIdUxmTDRUTE1OQTdfdFh0aUxNb0V4RTdaYnpOdkFTYkU4bDh6RjhIckNNcEpz?oc=5
+- Evening news wrap: Pakistan threatens Taliban after peace talks fail; Indian-origin bizman shot dead in Canada & more - The Times of India
+  Evening news wrap: Pakistan threatens Taliban after peace talks fail; Indian-origin bizman
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQOVdJQlJIT3RyYmhKU2NtV085cjFiNlYwdGVEdkNWeElQUU52a21oMTBVT1NyVlppT3dpZHBNQTM1XzNWbWRwXzJINkdfc3lrbXFYVVo3MlZEMkpiWXA3UUZHZHJteVZDemhwUGlkRzUxekhNOHVfNnRjSVlqZmxJS1FLa3hnN3RyMjdyaXFPRUlnTHd5RUF3aEJqNDJ0Z0I2TmdRVUlVTkY4a1RKR0RaR2hZbWFkZDdsemVWNjNmZ3dzakdBVy00SXpCMnBlS3BralphM1ZETE5weEVIZnFHYjhRZVdGY2N5emNKWGlhLWk2bjY5NXd3WG5CVGJvd0ktbFdEYm44SlE0WmVmLXc?oc=5
+
+- India takes centre-stage at Japan Mobility Show 2025 - financialexpress.com
+  India takes centre-stage at
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNdTZsU3lkZEh1NU5RS1NUOUlVQmFFRVNFZ2liV1RQa25zS25HS25QT2JHTnZXM0ZOQWVvekljamhOaFY3bGJYa3RkSWhkX3E1eDl1a3lYaDhTR0xFZVdMWlFqcXdUQ3M2eERNZUpubTdjUC0yYUtMRVJ1MTZLc0IwczAxVGNjRTA4Nk4xelY2QWQxdUxfaU16dGhMQmZQOXNrNzVqLUVXM292VHVYSWEzMEp30gG4AUFVX3lxTE9oOUxmb2t6V1FUU1JyczAxOExVLUh3NGlQNmtZMjQtYk9sN2d3TmJkdU5MbkE3a3NEc2pzQkE0UE43cVU5TnN5Zk50bE4tb2YzVjhIOVRKNkh1QVQtRFRMemdVZkpfWHFheGszdHFBbnNxMk9EcFV6S2l0R1JsOW04T1Axa19KN1p4R0lObTZCTnM3SUVRVGtoYWRRbmdUbG80X3JYRFM2TXk0emVmS1YxdWhhbk55bVI?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-29 06:28:58 UTC_
+_Last updated: 2025-10-29 12:35:55 UTC_
