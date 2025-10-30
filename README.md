@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Under ED lens: 22 de-addiction centres run by Punjab doctor that ‘sold pills in open market’
+- Grand parade in Gujarat’s Ekta Nagar every Oct 31 to mark Sardar Vallabhbhai Patel’s birth anniversary: Amit Shah
   
-  🔗 https://indianexpress.com/article/india/under-ed-lens-22-de-addiction-centres-run-by-punjab-doctor-that-sold-pills-in-open-market-10334889/
+  🔗 https://indianexpress.com/article/india/grandsardar-vallabhbhai-patel-birth-anniv-amit-shah-grand-parade-october-31-10335314/
 
-- Before Xi meet, Trump says trade deal with India on, repeats ceasefire claim
+- Gold Today Rate, October 30: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/before-xi-meet-trump-says-trade-deal-with-india-on-repeats-ceasefire-claim-10334885/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-october-30-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10335322/
 
-- Amid steep trump tariffs, significant progress in trade talks with EU, says Piyush Goyal
+- Kerala weather forecast: Will it rain today in Kerala? Check IMD forecast
   
-  🔗 https://indianexpress.com/article/india/amid-steep-trump-tariffs-significant-progress-in-trade-talks-with-eu-says-piyush-goyal-10334880/
+  🔗 https://indianexpress.com/article/india/yellow-alert-four-kerala-districts-imd-forecasts-rain-thunderstorms-10335143/
 
-- ‘Stronger ties vital’: Modi speaks to new Japan counterpart Sanae Takaichi
+- Indian cities take top 40 spots in worst-AQI rankings in the world, Delhi not even in top 10. Check list here
   
-  🔗 https://indianexpress.com/article/india/stronger-ties-vital-modi-speaks-to-new-japan-counterpart-sanae-takaichi-10334909/
+  🔗 https://indianexpress.com/article/india/indian-cities-top-40-spots-worst-aqi-rankings-world-delhi-not-top-10-list-10335104/
 
-- Opposition ‘thug-bandhan’, wants return of jungle raj, says Amit Shah
+- News Today Live Updates, 30 October | Trump holds ‘very nice’ talks with Canada PM Carney in South Korea as Senate moves to end US tariffs against Ottawa
   
-  🔗 https://indianexpress.com/article/india/opposition-thug-bandhan-wants-return-of-jungle-raj-says-amit-shah-10334893/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-10-30-2025-news-headlines-10335028/
+
+- ‘Indian developers impact the whole world… AI has reduced entry barrier’: GitHub’s VP for APAC on what’s fuelling their growth
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/indian-developers-impact-the-whole-world-ai-has-reduced-entry-barrier-githubs-vp-for-apac-10335202/
 
 - Microsoft CEO Satya Nadella at GitHub Universe 2025: ‘Vibe coding’ is world-class tooling, developers remain central to creation
   
@@ -36,9 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/oneplus-15-and-ace-6-prices-leak-ahead-of-china-launch-heres-what-they-may-cost-10334291/
 
-- Nothing unveils Phone (3a) Lite with premium design, lower price
-  
-  🔗 https://indianexpress.com/article/technology/nothing-unveils-phone-3a-lite-with-premium-design-lower-price-10334235/
+- After Nvidia’s $5 trillion milestone, Jensen Huang races ahead of ex-Microsoft CEO, Dell founder—what is his net worth?
+  Jensen Huang saw his net worth surge to nearly $180 billion following the company's $5 trillion market cap milestone. Huang
+  🔗 https://www.livemint.com/companies/people/after-nvidia-s-5-trillion-milestone-jensen-huang-races-ahead-of-ex-microsoft-ceo-dell-founder-what-is-his-net-worth-11761793416724.html
+
+- GM layoffs: Auto major to cut 1,700 jobs, 5,500 employees to be laid off temporarily—who's affected?
+  General Motors will lay off 1,200 workers in Detroit and 550 in Ohio. The automaker is scaling back production and plans amid concerns over regulatory changes.
+  🔗 https://www.livemint.com/companies/news/gm-layoffs-general-motors-to-slash-nearly-1-700-jobs-across-the-us-amid-ev-demand-concerns-who-will-be-impacted-11761784661414.html
 
 - Caramel popcorn, peach sorbet, even masala chai… Beauty brands turn foodies to woo your nose, imagined tastes
   Nostalgia and novelty drives Gen-Z consumers to pick up personal care items with vanilla, coffee, grape, and similar fragrances. A bevy of new
@@ -52,33 +60,25 @@
   The results came a day after a new deal with OpenAI pushed Microsoft to $4 trillion in
   🔗 https://www.livemint.com/companies/microsoft-posts-strong-quarter-as-revenue-rises-18-per-cent-to-usd-77-7-billion-net-profit-jumps-22-per-cent-11761770885069.html
 
-- Meta’s Q3 profit plunges on $16 billion one-time tax charge related to Trump's Big Beautiful Bill
-   Meta reported a nearly $16 billion one-time charge linked to President Trump’s
-  🔗 https://www.livemint.com/companies/news/metas-q3-profit-plunges-on-16-billion-one-time-charge-related-to-trumps-big-beautiful-bill-11761770929172.html
+- Nvidia stock is still a buy. Why $5 trillion isn’t the top.
+  Nvidia’s stock has gained $1 trillion in value in just
+  🔗 https://www.livemint.com/market/nvidia-stock-is-still-a-buy-why-5-trillion-isn-t-the-top-11761803003630.html
 
-- Target Zoom Glitch Added to Series of Mishaps Over Job Cuts
-  Target Corp. corporate employees logged onto a company Zoom meeting Tuesday morning to learn if they were among the 1,000 people that the
-  🔗 https://www.livemint.com/companies/news/target-zoom-glitch-added-to-series-of-mishaps-over-job-cuts-11761766894366.html
+- IT stock Blue Cloud Softech Solutions jumps 15%, rises 38% in two days. Do you own?
+  Blue Cloud Softech Solutions' share price hit the day's peak of  ₹33 on the BSE
+  🔗 https://www.livemint.com/market/stock-market-news/it-stock-blue-cloud-softech-solutions-jumps-15-rises-38-in-two-days-do-you-own-11761802846001.html
 
-- Stock market today: Trade setup for Nifty 50, US Fed rate cut to gold, silver prices - 8 stocks to buy
-  The Indian stock market ended on a high note, with Sensex at 84,997 and Nifty 50 at 26,054. Analysts anticipated further momentum from the US Federal Reserve's policy direction
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-us-fed-rate-cut-to-gold-silver-prices-8-stocks-to-buy-11761753219675.html
+- OpenAI IPO soon? ChatGPT maker eyes $1 trillion valuation, says report —  all you need to know
+  OpenAI is preparing for an IPO potentially valuing the company at $1 trillion.
+  🔗 https://www.livemint.com/market/ipo/openai-ipo-soon-chatgpt-maker-eyes-1-trillion-valuation-says-report-all-you-need-to-know-11761798521095.html
 
-- Stock recommendations for 30 October from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 30 October. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-30-october-marketsmith-india-sensex-nifty-trade-set-up-11761750669675.html
+- Swiggy Q2 Results 2025 LIVE: Net loss likely to widen, revenue growth seen at 50% YoY, led by Instamart biz
+  Swiggy Q2 Results 2025 LIVE: The board of directors of the food delivery giant is scheduled to meet today, 30 October 2025. Experts predict that losses to stay elevated.
+  🔗 https://www.livemint.com/market/stock-market-news/swiggy-q2-results-2025-live-swiggy-q2-earnings-swiggy-loss-swiggy-profit-instamart-swiggy-share-price-30-october-2025-11761800733457.html
 
-- Nifty inches toward record high on Fed rate cut, India–US trade deal hopes
-  US President Donald Trump said during the APEC CEO Summit in South Korea, “I’m doing a trade deal with India, and I have great respect and love for Prime Minister (Nare
-  🔗 https://www.livemint.com/market/nifty-50-nears-record-high-on-hopes-india-us-trade-deal-donald-trump-narendra-modi-11761752082187.html
-
-- Stocks to buy: Raja Venkatraman's top picks for 30 October
-  Market expert Raja Venkatraman shares his top three stock picks to buy today, 30 October.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-picks-30-october-sensex-nifty-hcltech-polycabs-delhivery-11761741027727.html
-
-- US Fed Meeting: Jerome Powell-led FOMC cuts key interest rates to 3.75-4.00% | 5 key highlights
-  US Federal Reserve Chairman Jerome Powell-led FOMC decided to further cut the key interest rates by 25 basis points to 3.75% to 4.00% on
-  🔗 https://www.livemint.com/market/stock-market-news/us-fed-meeting-jerome-powell-led-fomc-cuts-key-interest-rates-to-3-75-4-00-5-key-highlights-11761770631432.html
+- ITC Q2 Results 2025 LIVE: Net profit, revenue likely to see modest rise; Cigarette volume growth seen at 6% YoY
+  ITC is expected to report modest growth in its net profit and revenue during the July-September 2025 quarter. While ITC’s cigarette business is likely to see decent revenue growth, FMCG,
+  🔗 https://www.livemint.com/market/stock-market-news/itc-q2-results-2025-live-itc-q2-earnings-itc-q2-profit-itc-share-price-itc-cigarette-volume-itc-results-30-october-2025-11761801320392.html
 
 - No more spam calls? Govt plans verified caller ID rollout across India by 2026
   The DoT has initiated a pilot for Calling Name Presentation (CNAP), allowing users to view caller
@@ -100,125 +100,65 @@
   Elon Musk's Starlink will conduct demo runs in Mumbai on October 30-31
   🔗 https://www.livemint.com/technology/tech-news/elon-musk-s-starlink-plans-mumbai-demo-to-show-security-and-tech-compliance-all-you-need-to-know-11761744787198.html
 
-- Dow closes lower, giving up gain after Powell signals Fed may not cut again this year - CNBC
-  Dow closes lower, giving up gain after Powell signals Fed may not
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE8yYUstbXpjYlc5dUY5d3duQzhHdENxVkRVTlNDaEpBczFmdUVNMi1wcnVCanlaRGdRaUZQblVUN2g4ZzB5bUtaU010UngyU2NfUDdyOGI1c0JRdDg2T2lUdDNUQzNWSHpRYUtBaVhCWXhwU0FhOTJaNdIBfkFVX3lxTFBTV0ZEcUtTekx3ZmdKMHRDN3h6OHA0VWozLTFIUVItMU5Vd2Zza3I0R3JHN3EwZ1pYd0lvZVVDUC1ndnBXaGtHXzA2NnNTdmJoTUtFZG81ejJOLVh0RnplRGxyZlpsSDlsWG90RlhQajNHX3QwNmxaZ2dQNXpBQQ?oc=5
+- Dr. Reddy’s Laboratories shares slide 6% on receiving non-compliance notice on Semaglutide filing
+  Dr. Reddy’s Laboratories shares declined over 5% after receiving a Notice of Non-Compliance from Canada
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dr-reddys-laboratories-shares-slide-6-on-receiving-non-compliance-notice-on-semaglutide-filing/articleshow/124937553.cms
 
-- Markets News, Oct. 29, 2025: Stocks End Mixed After Powell Says Another Rate Cut in December 'Not a Foregone Conclusion'; Nvidia Hits $5 Trillion Market Cap - Investopedia
-  Nvidia Hits $5 Trillion Market Cap.
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE5vYUF5RzVCdDFQSkRjajBFYXhEMnBqWGdVZHNSU1VKRWI4ekNtcXlvd1RRM0NtLUhXc0RUZFp3ZTBXYm50eG9oa0ZtRFZTbi1wTExEZUVlMUhWRTRhYWp6Rk15NW1CRC1pTm9GMVJrMA?oc=5
+- Bitcoin tumbles below $109K, global crypto market cap slips under $4 trillion post Fed cut
+  Bitcoin drops 3.5% to below $109,000, dragging the global crypto market cap under $4 trillion after the Fed's rate cut.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-tumbles-below-109k-global-crypto-market-cap-slips-under-4-trillion-post-fed-cut/articleshow/124937207.cms
 
-- Stock market today: Trade setup for Nifty 50, US Fed rate cut to gold, silver prices - 8 stocks to buy - Mint
-  " target="_blank">Stock market today: Trade setup for Nifty 50, US
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVFRlSWN3eEJBWVZnQWxORHpjRDRjQkZwdVhVekNYbEZvM3lYaEE3eXEzamhoeWFsRUNjSXJOcWYyd2k5anV3S3dqOHZFeTdoUEtjZW1faXhvRy1US1ptbXM1SmJ2MjV0emNNRXpleTBJb3dBYmRJTi1mSmMzM1RvakJIR0ZhZ2JaQTd5OWlpX1VZR1drNFRRQkFuMUMzTmVnWWYtZVhIaXZ6Unktc1N1UktCalRtb1cwX29rTlNYcmZyUHd6S0tveTZDdE9iQXhiSlFaNFB3eENOSjJyZ21PaEl3UjdzVnJ3ZG1sNnpGbVFuTV9LLWxWM0hwY9IBgAJBVV95cUxPNnNmdUZMeE91NndOMkF1WmdYenhXZ195cHdobUFDc2tqRDZ6cjhCRy1jVnoySGpXenJSVjFsV2RHR25vQWpkdHlhT2JNYm1vckc1UktmbXNNdWdPaXBjOWxOQ0NUX3VuSnVHMVNkUWdyQXF6QVZYbk01aDhJeHVMSmdZeVI3Vk5JYmJiVXBJQkczdWdlZXpycUFLdXZaNTFhaEFsZ2RoTTNrQTdLTkFWQnNqeXFWazg1enlMNnplc1F6LU5CdlR0VXJvd0Rra1dQTkI5WWU3RTY0TFphQUI2WXd5cHIwOUtWNnZjTXkyd2d5OVN0VnlEd0s5dUROa0pG?oc=5
+- Ixigo parent Le Travenues Technology shares plunge 19% after reporting net loss in Q2
+  Ixigo’s shares fell nearly 19% after reporting a Q2 net loss of Rs 3.4 crore
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ixigo-parent-le-travenues-technology-shares-plunge-19-after-reporting-net-loss-in-q2/articleshow/124936901.cms
 
-- Daily Voice: ‘Black swan aside, India’s bull run stays intact,’ Vikas Gupta on what’s next for... - Moneycontrol
-  Moneycontrol.com was founded by Vikas Gupta in 2007.
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSmlDanlSNTVBYmdUS0hacVRHTUVjajE5YlBnUmJONHdZT0cyNHIwQjJINHFCc3k2ZXlENXV1dExsSzFuWFFRYURNZHFxT2J2ZEZ3OXYxUnZxTlVsa3NFUUdCTFdfS3Ixb3NncTdDZThlcWpwcndaQU9aT2RWd2hFYWM3TllmOXM0QUNocGtBOUhMM2N4eDcwLXAxZC1QV2kzSmt3cXIxMEtmSTNpZHhzMWZpZl9sV3pEMFRNeUpmQXhXajRFNnY3ZEliOEhXclA4ajFGOWpvVTR1b3ViNWE3bjRPd0FMajdLN01vbDY1WHhIZVRX0gH6AUFVX3lxTE44V3l5UVRXZ3BkQUpKa0wyLXhfdnpTdE01LUl1Q3pndGpmdU84amwtbVdlU09JbnJ1MjI1bkVkNkhtUlNEekpkNzRTVUh1VjZnZ2luMUxMYnhOX3F0U25wWUs2R3hfVDlNcXNITTNPWlI1Y3g2R2VucDAyRzFBOU5NdWRLMTByNGJONnM2bmdmODV5cnFvUHNWUU16ekR2NG5hRlREcjVGOTZ1ZGc2YmVBYnh0RnBjSEs3WGdyZ1l3MVVkMTZ2a3VsZ1NBM1kxdmFCZ0EyOHo0TVhGRGp5OXVQR3VpajNaZ0JoWHdQU0Z6c0t6eWdKREZ5ZkE?oc=5
+- US push for agri exports driven by politics, surplus and competitiveness: Sunil Subramaniam
+  America seeks to increase farm exports to India and China. China's reduced soybean imports from the US have created a surplus. India faces challenges with genetically modified crops.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/us-push-for-agri-exports-driven-by-politics-surplus-and-competitiveness-sunil-subramaniam/articleshow/124936940.cms
 
-- Oil prices little changed as markets eye US-China trade talks - Reuters
-  Oil prices little changed as markets eye US
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFA3TnVBYVVVSXVMclIyOWhpTml0ZHU4ZTRta0hmTk9QNFNzZXBRdWpiWlMtOHl2S3djUF9pQ3FfVVZFY0t3cC1Ya3VHRkZ3dEVUb3hhMUhnRFhUTjFpemVhMWNMWW5Lc2NMUXZCYmt2R0ZSS1NJNWxXcDhyOXFOc0x5azVpWVRDYTRHSFQ2Y2dnNGRDNHNuZ2M5Q0tvcW1RNDkxMjdraTJlaG5tZlpr?oc=5
-
-- ECB targets 2029 launch for digital Euro
-  The European Central Bank plans to launch a digital euro in 2029. Officials will decide this week to proceed, contingent on a legal framework.
-  🔗 https://economictimes.indiatimes.com/markets/forex/ecb-targets-2029-launch-for-digital-euro/articleshow/124927446.cms
-
-- Can Supreme Industries regain momentum after cutting FY26 growth guidance?
-  Supreme Industries' shares dipped following a revised FY26 volume growth guidance to 12-14% due to a tepid first half. Temporary headwinds from prolonged monsoons and slower government spending impacted demand.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/can-supreme-industries-regain-momentum-after-cutting-fy26-growth-guidance/articleshow/124927276.cms
-
-- Pre-market action: Here's the trade setup for today's session
-  Indian equities rebounded on Wednesday, fueled by optimism surrounding a potential India-US trade deal. Analysts suggest that positive trade progress, upcoming earnings, and consistent FII inflows
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/124910654.cms
-
-- Stocks in news: ITC, Swiggy, L&amp;T, Hero MotoCorp, Varun Beverages, Dr Reddy's
-  Analysts expect the uptrend to continue with Nifty eyeing record highs. Several companies like PB Fintech, L&amp;T, and Hero MotoCorp are in focus due to strong Q2 results and expansion plans
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-itc-swiggy-lt-hero-motocorp-varun-beverages-dr-reddys/articleshow/124910497.cms
-
-- Blackstone's warrant payment will advance if Federal Bank CAR dips
-  Blackstone may convert Federal Bank warrants early if capital adequacy drops below 13.5%. Blackstone is set to acquire 9.99% in the bank for ₹6,197 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/blackstones-warrant-payment-will-advance-if-federal-bank-car-dips/articleshow/124926947.cms
+- Studds Accessories subscribed over 20% in early bidding on Day 1. Check GMP, review, and subscription details
+  Studds Accessories launched its Rs 455.49 crore IPO on October 30, 2025. The grey market premium stands at 9%, indicating modest listing gains.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/studds-accessories-subscribed-over-20-in-early-bidding-on-day-1-check-gmp-review-and-subscription-details/articleshow/124936846.cms
 
 - 'So, I'm Doing A Trade Deal With India': Trump's Message From South Korea - NDTV
-  'So, I'm Doing A Trade Deal With India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXhlNlFvWFhFbHBqdDc0dEhxOTlYZVU0NlRuM0FDV2sxQTNTbG5sNXNCaHJua1RkSUE3U0J4Yk04azVsaVNadnlFQ0tRTEdVdG1ib3VwZVFQd2R4WWJQNjcxV0dGY3hiS3
   🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXhlNlFvWFhFbHBqdDc0dEhxOTlYZVU0NlRuM0FDV2sxQTNTbG5sNXNCaHJua1RkSUE3U0J4Yk04azVsaVNadnlFQ0tRTEdVdG1ib3VwZVFQd2R4WWJQNjcxV0dGY3hiS3RZb2trbGFUSnNjdEk1cDN6ZVZHczNNOGt5NkhPTlhjVmNIVENfMXp2UnhiendYQ3pGa0I0bkJXUVZLWDRKUWsyU3hjd0p5bFA2R0lGVGVhZm5BTTRaWmpLR255c0xBUnRXUDM0WHZPRnEtZG55RlcxOVdocDBqOU5EUHBsUURZYzExSHcxNVJnY0pVVlpZdWRwNW7SAYQCQVVfeXFMT1VDWXhTMmF0TzU5WHVhdS1qdWJiQUhtdXJhT1NjdUNqTXNGQVVIMXpnM2c1cFZsQ0J2RTY0cjA5bDd3MlNHZUZLa24ySkJqZHczazZxdzd1SWVvVGFYVHdHM1dPZV9rakR0dXBIVjdBaWZIOHRHRW05bTNidVNsSGR6OFdieEFjOVFiSEJOMVJRRlpqa0JmWWJfOWhlOC1zY29jYW1GRU5kV3lYdFJncktLNDI2cGNuVEdNWlNjZWJoS3M1bFJRSEdWT24xT3poa2Q5clNwdW1VVEZvOWhxNlkyckVSbVBYVmJOYU5xU3VsVzdVTWhQbEFlZmdHQmNmdnhtVHQ?oc=5
 
-- Top News Headlines of October 29, 2025 | US Federal Reserve cuts key rate as government shutdown clouds economic outlook - The Indian Express
-  The Indian Express looks at the economic outlook of October 29, 2025.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVM2dlBpb05faHZvbzBmQW1aUXlGdFo4VXVvTEJJQ3Q0SU9LcXo5Ql9taXVQRmhGWGRJYmJtbm1EdW1Rblo5YkdQQzFpUS1NbU5OeVhTYU93dTBESTV0TFRBVTNTTGs4bE1VUjlyYnd6UHluTlZCUzVaTkFaaUprLUdJR01RTlJQXzZCQ0d1TTJIMzVSY3V0VTZCQklkMkQ2d2JfTy16Y1p3TEtKVlJYVjF4UURmak9VVGZwRjduT29sZk45SnBScmxlbkFzczRWREdOYzQ2OU5KZU5pcGdUOEpRQ3FSa09i0gHvAUFVX3lxTE9kVnUtdEFQbjZtNG9hb1JzQy15b0MwbmtDUzlCUTNDVkZXejVRQ2J6RjV6SGhtUFFmYmw3dWtET1FkOUlOVTBrQjZCcU5VV19lSWlYanZMYzZadk1TSktwUzlEOXY1djMyQTRzSFdtQWJYaTdjYVVHVk1fc0ltYVFrZFJqQnRkNU02YXVZTlROY3Z3Tk9XM1B2NkdEQW9kTk8yaW1GS1Bzdk16MjY2czc1UUU4bzhydnVrWE9qZGFudktIdUxmTDRUTE1OQTdfdFh0aUxNb0V4RTdaYnpOdkFTYkU4bDh6RjhIckNNcEpz?oc=5
+- Indian Workers Face New Challenge as US Tightens Work Visa Rules Amid Crackdown on H-1B Abuse - The Times of India
+  Indian Workers Face New Challenge as US Tightens Work Visa Rules Amid Crackdown on H
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxORE9vUU1oWndUajd3dW02aUR3UUZtejNxZjFoSUpKT05ITWdQQzJ1RHpQbFZyRGNmaEM3RUthZjVBMWZNTTNiWUNodFQ3YUU0UHdfTndLWHJJeWpWWHhvR0JoZjh6cndxcGJFQ1RaZDRjampjZGZIOUtZOUcwR2ZTNlVXeUp5Vmo4QUs3VFRwU2dmcHNNQkJybXRQOE5XX3gyRk9Nb3IzdHZaLUpKb0hVblMwTFplS2h2a2hJb0Y1X3BhWTVDMEkyUFBPc2dVNzFUU1llNTh5R25KTlV5MUF1TVV3OTl3QTdyV09wZngyZTZtTjhUblczcQ?oc=5
 
-- Ex-DSP shoots AAP neta in Punjab, 'on the run' - Times of India
-  Ex-DSP shoots AAP neta in
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQLW5VeWNQSTdPU0pNaUpmN2tKZk80SkpMdjE5N2FobGxuSHFiTzZjc1U3dWlucHU5QzF6Unhmc01ZQ1NJY3pXN25BSWpGSVQ3dFQ3TnRGTldyM2pfMy1zVjhGSFU1ZUFfRm9xY0E1a0Iza1FjaXJXbGRPZHNOdmdscFVoa2xfVThhdTZXMXVSNjMxcW5hVGJfZHpzbDJVTFZOQ1FoRnViNk9fc2NTZXRBZtIBtgFBVV95cUxNMGpxUkRESDRnLWt6djFvdlZQb2JXSHdjcWlKT1JqRm1PSEVwelJfRHk4Umx6UXRaRjVIcTQ3Q0E2bFo3RG5aYkR1QlMzME94ZV9tLTFQOGZsdmpsQi0wekd5dmlDV0dpZldDMU9wMXllemJMeXpSYXN4RmlCU0tnRV9vUFB0OEdLQWwteE9UMjdwNEpkdWx4S3A5QXZWVU5TUGpmb2o2TFA1Uzl3TWZJbDdRQ2tGUQ?oc=5
+- China and India resume direct flights after five-year hiatus - Al Jazeera
+  China and India resume direct flights after five
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNQThUTDdCbUs0N2JhOV9QUGp2MkhrQkFkaXNJMEJybWpiYWhpem5tR1c2SExnZHlxMVd2VVhEUzVKZ2dhQmpoM3hHamhScmdhSVBpdVhyQ1pNN2pKWjBSQnFEbTkxSGpKeE53V3UybFZsWFc5X0MwWVJDYXRLaTVjaGh6VklpZjBva3V6UmpRWjlzcEVfRm5PblJnUU5Yek05Mk9DWNIBqgFBVV95cUxQVXFHZHlSSnFoUER0ODI2M0NMMnhxejBpaGxJZFY4RmtOa2kyd0RhS0ZwNjhfWnczOG40cFB1dTIzd2JuUnVUdFJSdDVESWd3dG9nZGREbllBVDVvNTNGOXhqQTFGcHFRNE5PZDhHem5Oa2xwaXUxaHdFbms4WnJOTUdERklCSUoyNkFuNERoMGRUYXJZOXl4QVhWczR0N3BsOFBXYzdMZ2Fwdw?oc=5
 
-- SC mulls nationwide guidelines to speed up criminal trials - Hindustan Times
-  Hindustan Times: SC mulls
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlBETkpWVjR6enJrTkVZQXFHSnVzeGRoMkJNVnliUFBTRkRPeVpKRTRLdmdIaG81RTJaT2lOYWhVVS0zM0ZmWloxdjF3cnM2MHBuU2lsMVlFb3pSMXZ5REFrSWlFd05DbGhNUG11Q0syYzdreUlmYU1GaU44VnZnaGhJQmdXcURLYjF1VjI5RXdrcUU4UzBhdE5ZNkcta3hWNmdJWElnaFJTMldHY2ZyOHRfMm4zekxBc3k1UnNR?oc=5
+- Top News Headlines of October 28, 2025 | Officiating appointments to top posts: Himachal Guv seeks explanation from chief secretary - The Indian Express
+  The Indian Express has published a list of top news stories of October 28, 2025. The list includes
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSzU4ZUdxblp6eEJmRnZMM1BNV3YzTHVibGtTTGEwM0dPajFKdlBsV193cEoyQVZCUndVb0luN1BsX0dyd2xlRll1REtkdExOTFVXX0YzdkN4S0dEQkY2THdVUGwyXzdDWnZRdktCU0tmSVJ5VFB6THg1MjNmdDBnVHVhRTZiVjVsTENPenFlYnFrWl94NkRBUjdpYlZ5UHBRMm1VZDVrVm96VG5DdEI4cUNwQnI0RVQ3S2daT2lQMU9IY3FkdTNTMXBZRmtNWTk1ZGhQbmtCMFNtVFlMUGluRGRBRDhrTmFu?oc=5
 
-- Top news headlines for school assembly: October 30 - India Today
-  The school assembly was held on October
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2owbzBibHhIMl85ZEM4ZHBMa3lLTXRNN05aTWt0ZURwVUJSUmhCZHNRTlZpemxBMWtwLXdCY01WOGFiclBrUnpJbTByRFZXbGJfRjdSUEkyckI0Tm9QU29LSDQ3SkZtMi1kM2pLWThuYXBVN2NGOC1ORlpzRTFwNjBXdm9PUDBwclp0dUxvV3Y5X0RUXzVpTzVibkNWckFPejI0Zm56VXk1TXhTYjZvYklIam1wYk9qWDc5U2pR0gHDAUFVX3lxTFA2dUdxU2FoM3h4d3FNWGUycUl0Z1JNeW1KdGRMYXhYZXpPV1hwZ25LYUttSXF1ZlVuUEtsZzd5TjYyWHMzbGpjNURLdGdCRVdkcEt3V2I0TWxKRFBTVjhXRkxTUEUxU25vQVoySnVKTHIxa2dRVF9RVFFMRXdWMGlHSFVjVm4zXzBlckdQWC14VThTRzVRblF6R2doTG9SODdPLW5EQmpLWElGQmoxVmRtMTZNNXR6Y3ZoWE10STc5bmN5RQ?oc=5
+- India slams ‘biased’ analysis of UN expert claiming Pahalagam attack impacted Myanmar refugees - Mint
+  India slams ‘biased’ analysis of UN expert
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNHFPNnhxLTZrLTU2YUQ4LW9EbnRNZVNXWDVMSFl1Y3BlcFU5Y3FYQUw3M3lqQXZIWTBBeVJBSW0tRGV2TmN4b2FpOHZwUFlYaDNpRTctLXNscldxV0ZVbVFpam9nMFkxaHpRSHJBNm1aWVloTll1SDh5U1hiVHRIYTZpeXoyU1hETU0tQlA2MTJhYWRjdFdLbXVreV9zeDUxQVJ4amljYWFQZmRPaEVoNm94ZmlJTWhSUlBwM0JyeFg1Mm1BUS1MNG5ZeERtUlBVVnJON3BQOEpfSHdyWk9KYm9B0gHnAUFVX3lxTE1DMkV6X1R6RGJ5S1U0ZEZkeXdSaXVrdzFBbWN6MGQtaHRub0tqUldnMkRTUVB6ODRPaGJzZnREaGZIcmFJUDlsbWNwSUxDQ3pvWlduYTY2NnVFSVBTZEtJN0plZVZsWktWVWRONWVYM0tEdTNOSmw2bTItekhLYnJwTG0xSDU2VzhMZ25KM2ZzX29hQUhRRlRSbXNxRzJTcnhMUlFnQkdfSWstcEthUzNPdXBOMmtEZ1owbGdKNHNhQlNaQ1ZyWWcxNkFuYUhrSThreGJodk9BNFpZU3FRbm45VUpfTDdJVQ?oc=5
 
 - 'So, I'm Doing A Trade Deal With India': Trump's Message From South Korea - NDTV
-  'So, I'm Doing A Trade Deal With India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXhlNlFvWFhFbHBqdDc0dEhxOTlYZVU0NlRuM0FDV2sxQTNTbG5sNXNCaHJua1RkSUE3U0J4Yk04azVsaVNadnlFQ0tRTEdVdG1ib3VwZVFQd2R4WWJQNjcxV0dGY3hiS3
   🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXhlNlFvWFhFbHBqdDc0dEhxOTlYZVU0NlRuM0FDV2sxQTNTbG5sNXNCaHJua1RkSUE3U0J4Yk04azVsaVNadnlFQ0tRTEdVdG1ib3VwZVFQd2R4WWJQNjcxV0dGY3hiS3RZb2trbGFUSnNjdEk1cDN6ZVZHczNNOGt5NkhPTlhjVmNIVENfMXp2UnhiendYQ3pGa0I0bkJXUVZLWDRKUWsyU3hjd0p5bFA2R0lGVGVhZm5BTTRaWmpLR255c0xBUnRXUDM0WHZPRnEtZG55RlcxOVdocDBqOU5EUHBsUURZYzExSHcxNVJnY0pVVlpZdWRwNW7SAYQCQVVfeXFMT1VDWXhTMmF0TzU5WHVhdS1qdWJiQUhtdXJhT1NjdUNqTXNGQVVIMXpnM2c1cFZsQ0J2RTY0cjA5bDd3MlNHZUZLa24ySkJqZHczazZxdzd1SWVvVGFYVHdHM1dPZV9rakR0dXBIVjdBaWZIOHRHRW05bTNidVNsSGR6OFdieEFjOVFiSEJOMVJRRlpqa0JmWWJfOWhlOC1zY29jYW1GRU5kV3lYdFJncktLNDI2cGNuVEdNWlNjZWJoS3M1bFJRSEdWT24xT3poa2Q5clNwdW1VVEZvOWhxNlkyckVSbVBYVmJOYU5xU3VsVzdVTWhQbEFlZmdHQmNmdnhtVHQ?oc=5
 
-- Top News Headlines of October 29, 2025 | US Federal Reserve cuts key rate as government shutdown clouds economic outlook - The Indian Express
-  The Indian Express looks at the economic outlook of October 29, 2025.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVM2dlBpb05faHZvbzBmQW1aUXlGdFo4VXVvTEJJQ3Q0SU9LcXo5Ql9taXVQRmhGWGRJYmJtbm1EdW1Rblo5YkdQQzFpUS1NbU5OeVhTYU93dTBESTV0TFRBVTNTTGs4bE1VUjlyYnd6UHluTlZCUzVaTkFaaUprLUdJR01RTlJQXzZCQ0d1TTJIMzVSY3V0VTZCQklkMkQ2d2JfTy16Y1p3TEtKVlJYVjF4UURmak9VVGZwRjduT29sZk45SnBScmxlbkFzczRWREdOYzQ2OU5KZU5pcGdUOEpRQ3FSa09i0gHvAUFVX3lxTE9kVnUtdEFQbjZtNG9hb1JzQy15b0MwbmtDUzlCUTNDVkZXejVRQ2J6RjV6SGhtUFFmYmw3dWtET1FkOUlOVTBrQjZCcU5VV19lSWlYanZMYzZadk1TSktwUzlEOXY1djMyQTRzSFdtQWJYaTdjYVVHVk1fc0ltYVFrZFJqQnRkNU02YXVZTlROY3Z3Tk9XM1B2NkdEQW9kTk8yaW1GS1Bzdk16MjY2czc1UUU4bzhydnVrWE9qZGFudktIdUxmTDRUTE1OQTdfdFh0aUxNb0V4RTdaYnpOdkFTYkU4bDh6RjhIckNNcEpz?oc=5
+- Indian Workers Face New Challenge as US Tightens Work Visa Rules Amid Crackdown on H-1B Abuse - The Times of India
+  Indian Workers Face New Challenge as US Tightens Work Visa Rules Amid Crackdown on H
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxORE9vUU1oWndUajd3dW02aUR3UUZtejNxZjFoSUpKT05ITWdQQzJ1RHpQbFZyRGNmaEM3RUthZjVBMWZNTTNiWUNodFQ3YUU0UHdfTndLWHJJeWpWWHhvR0JoZjh6cndxcGJFQ1RaZDRjampjZGZIOUtZOUcwR2ZTNlVXeUp5Vmo4QUs3VFRwU2dmcHNNQkJybXRQOE5XX3gyRk9Nb3IzdHZaLUpKb0hVblMwTFplS2h2a2hJb0Y1X3BhWTVDMEkyUFBPc2dVNzFUU1llNTh5R25KTlV5MUF1TVV3OTl3QTdyV09wZngyZTZtTjhUblczcQ?oc=5
 
-- Ex-DSP shoots AAP neta in Punjab, 'on the run' - Times of India
-  Ex-DSP shoots AAP neta in
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQLW5VeWNQSTdPU0pNaUpmN2tKZk80SkpMdjE5N2FobGxuSHFiTzZjc1U3dWlucHU5QzF6Unhmc01ZQ1NJY3pXN25BSWpGSVQ3dFQ3TnRGTldyM2pfMy1zVjhGSFU1ZUFfRm9xY0E1a0Iza1FjaXJXbGRPZHNOdmdscFVoa2xfVThhdTZXMXVSNjMxcW5hVGJfZHpzbDJVTFZOQ1FoRnViNk9fc2NTZXRBZtIBtgFBVV95cUxNMGpxUkRESDRnLWt6djFvdlZQb2JXSHdjcWlKT1JqRm1PSEVwelJfRHk4Umx6UXRaRjVIcTQ3Q0E2bFo3RG5aYkR1QlMzME94ZV9tLTFQOGZsdmpsQi0wekd5dmlDV0dpZldDMU9wMXllemJMeXpSYXN4RmlCU0tnRV9vUFB0OEdLQWwteE9UMjdwNEpkdWx4S3A5QXZWVU5TUGpmb2o2TFA1Uzl3TWZJbDdRQ2tGUQ?oc=5
+- China and India resume direct flights after five-year hiatus - Al Jazeera
+  China and India resume direct flights after five
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNQThUTDdCbUs0N2JhOV9QUGp2MkhrQkFkaXNJMEJybWpiYWhpem5tR1c2SExnZHlxMVd2VVhEUzVKZ2dhQmpoM3hHamhScmdhSVBpdVhyQ1pNN2pKWjBSQnFEbTkxSGpKeE53V3UybFZsWFc5X0MwWVJDYXRLaTVjaGh6VklpZjBva3V6UmpRWjlzcEVfRm5PblJnUU5Yek05Mk9DWNIBqgFBVV95cUxQVXFHZHlSSnFoUER0ODI2M0NMMnhxejBpaGxJZFY4RmtOa2kyd0RhS0ZwNjhfWnczOG40cFB1dTIzd2JuUnVUdFJSdDVESWd3dG9nZGREbllBVDVvNTNGOXhqQTFGcHFRNE5PZDhHem5Oa2xwaXUxaHdFbms4WnJOTUdERklCSUoyNkFuNERoMGRUYXJZOXl4QVhWczR0N3BsOFBXYzdMZ2Fwdw?oc=5
 
-- SC mulls nationwide guidelines to speed up criminal trials - Hindustan Times
-  Hindustan Times: SC mulls
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlBETkpWVjR6enJrTkVZQXFHSnVzeGRoMkJNVnliUFBTRkRPeVpKRTRLdmdIaG81RTJaT2lOYWhVVS0zM0ZmWloxdjF3cnM2MHBuU2lsMVlFb3pSMXZ5REFrSWlFd05DbGhNUG11Q0syYzdreUlmYU1GaU44VnZnaGhJQmdXcURLYjF1VjI5RXdrcUU4UzBhdE5ZNkcta3hWNmdJWElnaFJTMldHY2ZyOHRfMm4zekxBc3k1UnNR?oc=5
+- Top News Headlines of October 28, 2025 | Officiating appointments to top posts: Himachal Guv seeks explanation from chief secretary - The Indian Express
+  The Indian Express has published a list of top news stories of October 28, 2025. The list includes
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSzU4ZUdxblp6eEJmRnZMM1BNV3YzTHVibGtTTGEwM0dPajFKdlBsV193cEoyQVZCUndVb0luN1BsX0dyd2xlRll1REtkdExOTFVXX0YzdkN4S0dEQkY2THdVUGwyXzdDWnZRdktCU0tmSVJ5VFB6THg1MjNmdDBnVHVhRTZiVjVsTENPenFlYnFrWl94NkRBUjdpYlZ5UHBRMm1VZDVrVm96VG5DdEI4cUNwQnI0RVQ3S2daT2lQMU9IY3FkdTNTMXBZRmtNWTk1ZGhQbmtCMFNtVFlMUGluRGRBRDhrTmFu?oc=5
 
-- Top news headlines for school assembly: October 30 - India Today
-  The school assembly was held on October
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2owbzBibHhIMl85ZEM4ZHBMa3lLTXRNN05aTWt0ZURwVUJSUmhCZHNRTlZpemxBMWtwLXdCY01WOGFiclBrUnpJbTByRFZXbGJfRjdSUEkyckI0Tm9QU29LSDQ3SkZtMi1kM2pLWThuYXBVN2NGOC1ORlpzRTFwNjBXdm9PUDBwclp0dUxvV3Y5X0RUXzVpTzVibkNWckFPejI0Zm56VXk1TXhTYjZvYklIam1wYk9qWDc5U2pR0gHDAUFVX3lxTFA2dUdxU2FoM3h4d3FNWGUycUl0Z1JNeW1KdGRMYXhYZXpPV1hwZ25LYUttSXF1ZlVuUEtsZzd5TjYyWHMzbGpjNURLdGdCRVdkcEt3V2I0TWxKRFBTVjhXRkxTUEUxU25vQVoySnVKTHIxa2dRVF9RVFFMRXdWMGlHSFVjVm4zXzBlckdQWC14VThTRzVRblF6R2doTG9SODdPLW5EQmpLWElGQmoxVmRtMTZNNXR6Y3ZoWE10STc5bmN5RQ?oc=5
-
-- 'So, I'm Doing A Trade Deal With India': Trump's Message From South Korea - NDTV
-  'So, I'm Doing A Trade Deal With India
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXhlNlFvWFhFbHBqdDc0dEhxOTlYZVU0NlRuM0FDV2sxQTNTbG5sNXNCaHJua1RkSUE3U0J4Yk04azVsaVNadnlFQ0tRTEdVdG1ib3VwZVFQd2R4WWJQNjcxV0dGY3hiS3RZb2trbGFUSnNjdEk1cDN6ZVZHczNNOGt5NkhPTlhjVmNIVENfMXp2UnhiendYQ3pGa0I0bkJXUVZLWDRKUWsyU3hjd0p5bFA2R0lGVGVhZm5BTTRaWmpLR255c0xBUnRXUDM0WHZPRnEtZG55RlcxOVdocDBqOU5EUHBsUURZYzExSHcxNVJnY0pVVlpZdWRwNW7SAYQCQVVfeXFMT1VDWXhTMmF0TzU5WHVhdS1qdWJiQUhtdXJhT1NjdUNqTXNGQVVIMXpnM2c1cFZsQ0J2RTY0cjA5bDd3MlNHZUZLa24ySkJqZHczazZxdzd1SWVvVGFYVHdHM1dPZV9rakR0dXBIVjdBaWZIOHRHRW05bTNidVNsSGR6OFdieEFjOVFiSEJOMVJRRlpqa0JmWWJfOWhlOC1zY29jYW1GRU5kV3lYdFJncktLNDI2cGNuVEdNWlNjZWJoS3M1bFJRSEdWT24xT3poa2Q5clNwdW1VVEZvOWhxNlkyckVSbVBYVmJOYU5xU3VsVzdVTWhQbEFlZmdHQmNmdnhtVHQ?oc=5
-
-- Top News Headlines of October 29, 2025 | US Federal Reserve cuts key rate as government shutdown clouds economic outlook - The Indian Express
-  The Indian Express looks at the economic outlook of October 29, 2025.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVM2dlBpb05faHZvbzBmQW1aUXlGdFo4VXVvTEJJQ3Q0SU9LcXo5Ql9taXVQRmhGWGRJYmJtbm1EdW1Rblo5YkdQQzFpUS1NbU5OeVhTYU93dTBESTV0TFRBVTNTTGs4bE1VUjlyYnd6UHluTlZCUzVaTkFaaUprLUdJR01RTlJQXzZCQ0d1TTJIMzVSY3V0VTZCQklkMkQ2d2JfTy16Y1p3TEtKVlJYVjF4UURmak9VVGZwRjduT29sZk45SnBScmxlbkFzczRWREdOYzQ2OU5KZU5pcGdUOEpRQ3FSa09i0gHvAUFVX3lxTE9kVnUtdEFQbjZtNG9hb1JzQy15b0MwbmtDUzlCUTNDVkZXejVRQ2J6RjV6SGhtUFFmYmw3dWtET1FkOUlOVTBrQjZCcU5VV19lSWlYanZMYzZadk1TSktwUzlEOXY1djMyQTRzSFdtQWJYaTdjYVVHVk1fc0ltYVFrZFJqQnRkNU02YXVZTlROY3Z3Tk9XM1B2NkdEQW9kTk8yaW1GS1Bzdk16MjY2czc1UUU4bzhydnVrWE9qZGFudktIdUxmTDRUTE1OQTdfdFh0aUxNb0V4RTdaYnpOdkFTYkU4bDh6RjhIckNNcEpz?oc=5
-
-- Ex-DSP shoots AAP neta in Punjab, 'on the run' - Times of India
-  Ex-DSP shoots AAP neta in
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQLW5VeWNQSTdPU0pNaUpmN2tKZk80SkpMdjE5N2FobGxuSHFiTzZjc1U3dWlucHU5QzF6Unhmc01ZQ1NJY3pXN25BSWpGSVQ3dFQ3TnRGTldyM2pfMy1zVjhGSFU1ZUFfRm9xY0E1a0Iza1FjaXJXbGRPZHNOdmdscFVoa2xfVThhdTZXMXVSNjMxcW5hVGJfZHpzbDJVTFZOQ1FoRnViNk9fc2NTZXRBZtIBtgFBVV95cUxNMGpxUkRESDRnLWt6djFvdlZQb2JXSHdjcWlKT1JqRm1PSEVwelJfRHk4Umx6UXRaRjVIcTQ3Q0E2bFo3RG5aYkR1QlMzME94ZV9tLTFQOGZsdmpsQi0wekd5dmlDV0dpZldDMU9wMXllemJMeXpSYXN4RmlCU0tnRV9vUFB0OEdLQWwteE9UMjdwNEpkdWx4S3A5QXZWVU5TUGpmb2o2TFA1Uzl3TWZJbDdRQ2tGUQ?oc=5
-
-- SC mulls nationwide guidelines to speed up criminal trials - Hindustan Times
-  Hindustan Times: SC mulls
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlBETkpWVjR6enJrTkVZQXFHSnVzeGRoMkJNVnliUFBTRkRPeVpKRTRLdmdIaG81RTJaT2lOYWhVVS0zM0ZmWloxdjF3cnM2MHBuU2lsMVlFb3pSMXZ5REFrSWlFd05DbGhNUG11Q0syYzdreUlmYU1GaU44VnZnaGhJQmdXcURLYjF1VjI5RXdrcUU4UzBhdE5ZNkcta3hWNmdJWElnaFJTMldHY2ZyOHRfMm4zekxBc3k1UnNR?oc=5
-
-- Top news headlines for school assembly: October 30 - India Today
-  The school assembly was held on October
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2owbzBibHhIMl85ZEM4ZHBMa3lLTXRNN05aTWt0ZURwVUJSUmhCZHNRTlZpemxBMWtwLXdCY01WOGFiclBrUnpJbTByRFZXbGJfRjdSUEkyckI0Tm9QU29LSDQ3SkZtMi1kM2pLWThuYXBVN2NGOC1ORlpzRTFwNjBXdm9PUDBwclp0dUxvV3Y5X0RUXzVpTzVibkNWckFPejI0Zm56VXk1TXhTYjZvYklIam1wYk9qWDc5U2pR0gHDAUFVX3lxTFA2dUdxU2FoM3h4d3FNWGUycUl0Z1JNeW1KdGRMYXhYZXpPV1hwZ25LYUttSXF1ZlVuUEtsZzd5TjYyWHMzbGpjNURLdGdCRVdkcEt3V2I0TWxKRFBTVjhXRkxTUEUxU25vQVoySnVKTHIxa2dRVF9RVFFMRXdWMGlHSFVjVm4zXzBlckdQWC14VThTRzVRblF6R2doTG9SODdPLW5EQmpLWElGQmoxVmRtMTZNNXR6Y3ZoWE10STc5bmN5RQ?oc=5
-
-- 'So, I'm Doing A Trade Deal With India': Trump's Message From South Korea - NDTV
-  'So, I'm Doing A Trade Deal With India
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXhlNlFvWFhFbHBqdDc0dEhxOTlYZVU0NlRuM0FDV2sxQTNTbG5sNXNCaHJua1RkSUE3U0J4Yk04azVsaVNadnlFQ0tRTEdVdG1ib3VwZVFQd2R4WWJQNjcxV0dGY3hiS3RZb2trbGFUSnNjdEk1cDN6ZVZHczNNOGt5NkhPTlhjVmNIVENfMXp2UnhiendYQ3pGa0I0bkJXUVZLWDRKUWsyU3hjd0p5bFA2R0lGVGVhZm5BTTRaWmpLR255c0xBUnRXUDM0WHZPRnEtZG55RlcxOVdocDBqOU5EUHBsUURZYzExSHcxNVJnY0pVVlpZdWRwNW7SAYQCQVVfeXFMT1VDWXhTMmF0TzU5WHVhdS1qdWJiQUhtdXJhT1NjdUNqTXNGQVVIMXpnM2c1cFZsQ0J2RTY0cjA5bDd3MlNHZUZLa24ySkJqZHczazZxdzd1SWVvVGFYVHdHM1dPZV9rakR0dXBIVjdBaWZIOHRHRW05bTNidVNsSGR6OFdieEFjOVFiSEJOMVJRRlpqa0JmWWJfOWhlOC1zY29jYW1GRU5kV3lYdFJncktLNDI2cGNuVEdNWlNjZWJoS3M1bFJRSEdWT24xT3poa2Q5clNwdW1VVEZvOWhxNlkyckVSbVBYVmJOYU5xU3VsVzdVTWhQbEFlZmdHQmNmdnhtVHQ?oc=5
-
-- Top News Headlines of October 29, 2025 | US Federal Reserve cuts key rate as government shutdown clouds economic outlook - The Indian Express
-  The Indian Express looks at the economic outlook of October 29, 2025.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVM2dlBpb05faHZvbzBmQW1aUXlGdFo4VXVvTEJJQ3Q0SU9LcXo5Ql9taXVQRmhGWGRJYmJtbm1EdW1Rblo5YkdQQzFpUS1NbU5OeVhTYU93dTBESTV0TFRBVTNTTGs4bE1VUjlyYnd6UHluTlZCUzVaTkFaaUprLUdJR01RTlJQXzZCQ0d1TTJIMzVSY3V0VTZCQklkMkQ2d2JfTy16Y1p3TEtKVlJYVjF4UURmak9VVGZwRjduT29sZk45SnBScmxlbkFzczRWREdOYzQ2OU5KZU5pcGdUOEpRQ3FSa09i0gHvAUFVX3lxTE9kVnUtdEFQbjZtNG9hb1JzQy15b0MwbmtDUzlCUTNDVkZXejVRQ2J6RjV6SGhtUFFmYmw3dWtET1FkOUlOVTBrQjZCcU5VV19lSWlYanZMYzZadk1TSktwUzlEOXY1djMyQTRzSFdtQWJYaTdjYVVHVk1fc0ltYVFrZFJqQnRkNU02YXVZTlROY3Z3Tk9XM1B2NkdEQW9kTk8yaW1GS1Bzdk16MjY2czc1UUU4bzhydnVrWE9qZGFudktIdUxmTDRUTE1OQTdfdFh0aUxNb0V4RTdaYnpOdkFTYkU4bDh6RjhIckNNcEpz?oc=5
-
-- Ex-DSP shoots AAP neta in Punjab, 'on the run' - Times of India
-  Ex-DSP shoots AAP neta in
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQLW5VeWNQSTdPU0pNaUpmN2tKZk80SkpMdjE5N2FobGxuSHFiTzZjc1U3dWlucHU5QzF6Unhmc01ZQ1NJY3pXN25BSWpGSVQ3dFQ3TnRGTldyM2pfMy1zVjhGSFU1ZUFfRm9xY0E1a0Iza1FjaXJXbGRPZHNOdmdscFVoa2xfVThhdTZXMXVSNjMxcW5hVGJfZHpzbDJVTFZOQ1FoRnViNk9fc2NTZXRBZtIBtgFBVV95cUxNMGpxUkRESDRnLWt6djFvdlZQb2JXSHdjcWlKT1JqRm1PSEVwelJfRHk4Umx6UXRaRjVIcTQ3Q0E2bFo3RG5aYkR1QlMzME94ZV9tLTFQOGZsdmpsQi0wekd5dmlDV0dpZldDMU9wMXllemJMeXpSYXN4RmlCU0tnRV9vUFB0OEdLQWwteE9UMjdwNEpkdWx4S3A5QXZWVU5TUGpmb2o2TFA1Uzl3TWZJbDdRQ2tGUQ?oc=5
-
-- SC mulls nationwide guidelines to speed up criminal trials - Hindustan Times
-  Hindustan Times: SC mulls
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlBETkpWVjR6enJrTkVZQXFHSnVzeGRoMkJNVnliUFBTRkRPeVpKRTRLdmdIaG81RTJaT2lOYWhVVS0zM0ZmWloxdjF3cnM2MHBuU2lsMVlFb3pSMXZ5REFrSWlFd05DbGhNUG11Q0syYzdreUlmYU1GaU44VnZnaGhJQmdXcURLYjF1VjI5RXdrcUU4UzBhdE5ZNkcta3hWNmdJWElnaFJTMldHY2ZyOHRfMm4zekxBc3k1UnNR?oc=5
-
-- Top news headlines for school assembly: October 30 - India Today
-  The school assembly was held on October
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2owbzBibHhIMl85ZEM4ZHBMa3lLTXRNN05aTWt0ZURwVUJSUmhCZHNRTlZpemxBMWtwLXdCY01WOGFiclBrUnpJbTByRFZXbGJfRjdSUEkyckI0Tm9QU29LSDQ3SkZtMi1kM2pLWThuYXBVN2NGOC1ORlpzRTFwNjBXdm9PUDBwclp0dUxvV3Y5X0RUXzVpTzVibkNWckFPejI0Zm56VXk1TXhTYjZvYklIam1wYk9qWDc5U2pR0gHDAUFVX3lxTFA2dUdxU2FoM3h4d3FNWGUycUl0Z1JNeW1KdGRMYXhYZXpPV1hwZ25LYUttSXF1ZlVuUEtsZzd5TjYyWHMzbGpjNURLdGdCRVdkcEt3V2I0TWxKRFBTVjhXRkxTUEUxU25vQVoySnVKTHIxa2dRVF9RVFFMRXdWMGlHSFVjVm4zXzBlckdQWC14VThTRzVRblF6R2doTG9SODdPLW5EQmpLWElGQmoxVmRtMTZNNXR6Y3ZoWE10STc5bmN5RQ?oc=5
+- India slams ‘biased’ analysis of UN expert claiming Pahalagam attack impacted Myanmar refugees - Mint
+  India slams ‘biased’ analysis of UN expert
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNHFPNnhxLTZrLTU2YUQ4LW9EbnRNZVNXWDVMSFl1Y3BlcFU5Y3FYQUw3M3lqQXZIWTBBeVJBSW0tRGV2TmN4b2FpOHZwUFlYaDNpRTctLXNscldxV0ZVbVFpam9nMFkxaHpRSHJBNm1aWVloTll1SDh5U1hiVHRIYTZpeXoyU1hETU0tQlA2MTJhYWRjdFdLbXVreV9zeDUxQVJ4amljYWFQZmRPaEVoNm94ZmlJTWhSUlBwM0JyeFg1Mm1BUS1MNG5ZeERtUlBVVnJON3BQOEpfSHdyWk9KYm9B0gHnAUFVX3lxTE1DMkV6X1R6RGJ5S1U0ZEZkeXdSaXVrdzFBbWN6MGQtaHRub0tqUldnMkRTUVB6ODRPaGJzZnREaGZIcmFJUDlsbWNwSUxDQ3pvWlduYTY2NnVFSVBTZEtJN0plZVZsWktWVWRONWVYM0tEdTNOSmw2bTItekhLYnJwTG0xSDU2VzhMZ25KM2ZzX29hQUhRRlRSbXNxRzJTcnhMUlFnQkdfSWstcEthUzNPdXBOMmtEZ1owbGdKNHNhQlNaQ1ZyWWcxNkFuYUhrSThreGJodk9BNFpZU3FRbm45VUpfTDdJVQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-10-30 01:16:25 UTC_
+_Last updated: 2025-10-30 06:26:45 UTC_
