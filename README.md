@@ -1,192 +1,204 @@
 # 📰 Daily News Summaries
 
-- Grand parade in Gujarat’s Ekta Nagar every Oct 31 to mark Sardar Vallabhbhai Patel’s birth anniversary: Amit Shah
+- Indian Railways ticket booking, cancellation among 8 services to remain shut for two hours on Nov 2 in Delhi-NCR – Know why
   
-  🔗 https://indianexpress.com/article/india/grandsardar-vallabhbhai-patel-birth-anniv-amit-shah-grand-parade-october-31-10335314/
+  🔗 https://indianexpress.com/article/india/indian-railways-ticket-booking-cancellation-among-services-shut-november-2-in-delhi-ncr-10335771/
 
-- Gold Today Rate, October 30: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- India seeks fresh details about 26/11 Mumbai terror attacks accused Tahawwur Rana from US
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-october-30-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10335322/
+  🔗 https://indianexpress.com/article/india/india-seeks-fresh-details-26-11-mumbai-terror-attacks-tahawwur-rana-us-10336119/
 
-- Kerala weather forecast: Will it rain today in Kerala? Check IMD forecast
+- Kerala man scalds wife with hot fish curry after she refuses occult ritual
   
-  🔗 https://indianexpress.com/article/india/yellow-alert-four-kerala-districts-imd-forecasts-rain-thunderstorms-10335143/
+  🔗 https://indianexpress.com/article/india/kerala-man-scalds-wife-hot-fish-curry-refuses-occult-ritual-10336079/
 
-- Indian cities take top 40 spots in worst-AQI rankings in the world, Delhi not even in top 10. Check list here
+- India gets six-month US sanctions waiver for Chabahar port, says MEA
   
-  🔗 https://indianexpress.com/article/india/indian-cities-top-40-spots-worst-aqi-rankings-world-delhi-not-top-10-list-10335104/
+  🔗 https://indianexpress.com/article/india/india-six-month-us-sanctions-waiver-chabahar-port-trump-10335924/
 
-- News Today Live Updates, 30 October | Trump holds ‘very nice’ talks with Canada PM Carney in South Korea as Senate moves to end US tariffs against Ottawa
+- After success in New Delhi, Railways to develop passenger holding areas at 76 stations by 2026 festival season
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-10-30-2025-news-headlines-10335028/
+  🔗 https://indianexpress.com/article/india/after-new-delhi-railways-passenger-holding-areas-75-stations-yatri-suvidha-kendra-10335705/
 
-- ‘Indian developers impact the whole world… AI has reduced entry barrier’: GitHub’s VP for APAC on what’s fuelling their growth
+- Grammarly rebrands as ‘Superhuman’ after acquisition, expands AI ambitions
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/indian-developers-impact-the-whole-world-ai-has-reduced-entry-barrier-githubs-vp-for-apac-10335202/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/grammarly-rebrands-as-superhuman-after-acquisition-expands-ai-ambitions-10336170/
 
-- Microsoft CEO Satya Nadella at GitHub Universe 2025: ‘Vibe coding’ is world-class tooling, developers remain central to creation
+- India could get official caller ID by March 2026: What is CNAP and how does it work
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-ceo-satya-nadella-github-universe-2025-vibe-coding-developers-10334397/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/trai-dot-cnap-caller-id-india-march-2026-roll-out-10335583/
 
-- Full list of iOS 26.1 features and supported devices ahead of public release
+- Magnetic waves may explain the sun’s super-hot atmosphere, new study finds
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/full-list-of-ios-26-1-features-and-supported-devices-ahead-of-public-release-10334290/
+  🔗 https://indianexpress.com/article/technology/science/magnetic-waves-may-explain-the-suns-super-hot-atmosphere-new-study-finds-10336029/
 
-- Nothing Phone (3a) Lite hands-on: A closer look at the brand’s 1st entry-level phone
+- Comet 3I/ATLAS to reach closest point to the Sun today; NASA to monitor peak outgassing activity
   
-  🔗 https://indianexpress.com/article/technology/nothing-phone-3a-lite-hands-on-a-closer-look-at-the-brands-1st-entry-level-phone-10334336/
+  🔗 https://indianexpress.com/article/technology/science/comet-3i-atlas-to-reach-closest-point-to-the-sun-today-nasa-to-monitor-peak-outgassing-activity-10335563/
 
-- OnePlus 15 and Ace 6 prices leak ahead of China launch; here’s what they may cost
+- Motorola Edge 70 silently shows up in Europe: See specs and expected India launch price
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/oneplus-15-and-ace-6-prices-leak-ahead-of-china-launch-heres-what-they-may-cost-10334291/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/motorola-edge-70-full-specs-expected-price-india-10335461/
 
-- After Nvidia’s $5 trillion milestone, Jensen Huang races ahead of ex-Microsoft CEO, Dell founder—what is his net worth?
-  Jensen Huang saw his net worth surge to nearly $180 billion following the company's $5 trillion market cap milestone. Huang
-  🔗 https://www.livemint.com/companies/people/after-nvidia-s-5-trillion-milestone-jensen-huang-races-ahead-of-ex-microsoft-ceo-dell-founder-what-is-his-net-worth-11761793416724.html
+- Who backed Elon Musk's $56 billion pay package? Here's how Tesla shareholders voted on CEO's compensation last year
+  Tesla shareholders are set to vote on Elon Musk's proposed $1 trillion compensation package at the upcoming Annual General Meeting.
+  🔗 https://www.livemint.com/companies/news/who-backed-elon-musks-56-billion-package-heres-how-tesla-shareholders-voted-on-ceos-compensation-last-year-11761813883807.html
 
-- GM layoffs: Auto major to cut 1,700 jobs, 5,500 employees to be laid off temporarily—who's affected?
-  General Motors will lay off 1,200 workers in Detroit and 550 in Ohio. The automaker is scaling back production and plans amid concerns over regulatory changes.
-  🔗 https://www.livemint.com/companies/news/gm-layoffs-general-motors-to-slash-nearly-1-700-jobs-across-the-us-amid-ev-demand-concerns-who-will-be-impacted-11761784661414.html
+- Why JioBlackRock’s quiet launch could shake up India’s investing future
+  BlackRock has $11 trillion in assets under management. Will that parentage be enough for JioBlackRock to conquer the Indian mutual fund industry?
+  🔗 https://www.livemint.com/companies/jioblackrock-mutual-fund-india-distribution-investing-groww-paytm-zerodha-ai-machine-learning-11761820792194.html
 
-- Caramel popcorn, peach sorbet, even masala chai… Beauty brands turn foodies to woo your nose, imagined tastes
-  Nostalgia and novelty drives Gen-Z consumers to pick up personal care items with vanilla, coffee, grape, and similar fragrances. A bevy of new
-  🔗 https://www.livemint.com/companies/news/gourmand-beauty-brands-food-fragrances-plum-blur-inde-wild-body-shop-cosmetics-personal-care-products-new-age-brands-11760702418957.html
+- Early Groww investors are sitting on multi-fold gains. Here’s how much each stands to make.
+  Early investors in Groww, including Peak XV, Tiger Global and Y Combinator, are set for multi-fold
+  🔗 https://www.livemint.com/companies/start-ups/groww-ipo-valuation-multifold-returns-investors-11761809275833.html
 
-- Alphabet’s Q3 revenue surges to $102.35 billion as AI demand fuels growth across Google’s advertising and Cloud units
-  Alphabet beats expectations with third quarter revenue of $102.35 billion. Company raised its 2025 capital spending forecast to as much as $93 billion to support expansion in AI infrastructure
-  🔗 https://www.livemint.com/companies/news/alphabets-q3-revenue-surges-to-102-35-billion-as-ai-demand-fuels-growth-across-google-s-advertising-and-cloud-units-11761772843974.html
+- Groww not constrained by competition; bets on wealth management, lending: cofounder Keshre
+  Groww is expanding into wealth management and lending while preparing for an IPO. It aims for a valuation of $7.1 billion amid increased competition in the online broking sector.
+  🔗 https://www.livemint.com/companies/competition-wealth-management-lending-groww-lalit-keshre-online-broking-platform-ipo-commodities-bonds-mtfs-competition-11761808859645.html
 
-- Microsoft posts strong quarter as revenue rises 18% to $77.7 billion, net profit jumps 22%
-  The results came a day after a new deal with OpenAI pushed Microsoft to $4 trillion in
-  🔗 https://www.livemint.com/companies/microsoft-posts-strong-quarter-as-revenue-rises-18-per-cent-to-usd-77-7-billion-net-profit-jumps-22-per-cent-11761770885069.html
+- Govt to take legal view on Supreme Court's Vodafone Idea order
+  Vodafone Idea may not receive enough financial benefit if the government
+  🔗 https://www.livemint.com/companies/news/govt-legal-view-on-supreme-court-vodafone-idea-order-bharti-airtel-agr-dues-grievances-plan-financial-benefit-relief-11761811298863.html
 
-- Nvidia stock is still a buy. Why $5 trillion isn’t the top.
-  Nvidia’s stock has gained $1 trillion in value in just
-  🔗 https://www.livemint.com/market/nvidia-stock-is-still-a-buy-why-5-trillion-isn-t-the-top-11761803003630.html
+- ITC Q2 Results: Net profit rises 2.6% YoY to  ₹5,186 crore | 5 key takeaways you should know
+  ITC Q2 Results: Net profit rises 2.6%
+  🔗 https://www.livemint.com/market/stock-market-news/itc-q2-results-net-profit-rises-2-6-yoy-to-rs-5-186-crore-5-key-takeaways-you-should-know-11761825214753.html
 
-- IT stock Blue Cloud Softech Solutions jumps 15%, rises 38% in two days. Do you own?
-  Blue Cloud Softech Solutions' share price hit the day's peak of  ₹33 on the BSE
-  🔗 https://www.livemint.com/market/stock-market-news/it-stock-blue-cloud-softech-solutions-jumps-15-rises-38-in-two-days-do-you-own-11761802846001.html
+- Mint Explainer | Will boAt’s  ₹1,500 cr IPO mark a transition to offline retail?
+  Draft prospectus filed with Securities and Exchange Board of India yesterday. Company in middle of a rehaul of its playbook as it pushes offline, tightens
+  🔗 https://www.livemint.com/market/boat-ipo-wearables-consumer-electronics-offline-retail-e-commerce-india-focus-noise-amazon-flipkart-wireless-audio-11761809218367.html
 
-- OpenAI IPO soon? ChatGPT maker eyes $1 trillion valuation, says report —  all you need to know
-  OpenAI is preparing for an IPO potentially valuing the company at $1 trillion.
-  🔗 https://www.livemint.com/market/ipo/openai-ipo-soon-chatgpt-maker-eyes-1-trillion-valuation-says-report-all-you-need-to-know-11761798521095.html
+- Eli Lilly ups full-year profit forecast amid soaring demand for weight-loss drug Zepbound, stock jumps 7%
+  Lilly predicts it will achieve an adjusted profit of between $23.00 and $ 23.70 per share this year
+  🔗 https://www.livemint.com/market/stock-market-news/eli-lilly-ups-full-year-profit-forecast-amid-soaring-demand-for-weight-loss-drug-zepbound-stock-jumps-7-11761823524241.html
 
-- Swiggy Q2 Results 2025 LIVE: Net loss likely to widen, revenue growth seen at 50% YoY, led by Instamart biz
-  Swiggy Q2 Results 2025 LIVE: The board of directors of the food delivery giant is scheduled to meet today, 30 October 2025. Experts predict that losses to stay elevated.
-  🔗 https://www.livemint.com/market/stock-market-news/swiggy-q2-results-2025-live-swiggy-q2-earnings-swiggy-loss-swiggy-profit-instamart-swiggy-share-price-30-october-2025-11761800733457.html
+- 1200% rally in five years! Small-cap multibagger stock under  ₹50 jumps over 14%
+  Rathi Steel &amp;amp; Power shares surged 15.11% to  ₹28.19 despite market weakness. Q1 FY26 saw revenue rise
+  🔗 https://www.livemint.com/market/stock-market-news/600-rally-in-five-years-small-cap-multibagger-stock-under-rs-50-jumps-over-14-11761819489872.html
 
-- ITC Q2 Results 2025 LIVE: Net profit, revenue likely to see modest rise; Cigarette volume growth seen at 6% YoY
-  ITC is expected to report modest growth in its net profit and revenue during the July-September 2025 quarter. While ITC’s cigarette business is likely to see decent revenue growth, FMCG,
-  🔗 https://www.livemint.com/market/stock-market-news/itc-q2-results-2025-live-itc-q2-earnings-itc-q2-profit-itc-share-price-itc-cigarette-volume-itc-results-30-october-2025-11761801320392.html
+- Mint Explainer | Madras High Court just gave crypto legal protection. Here’s why it matters
+  For the first time, an Indian court has recognised cryptocurrency as property.
+  🔗 https://www.livemint.com/market/cryptocurrency/madras-high-court-ruling-crypto-legal-status-11761813529909.html
 
-- No more spam calls? Govt plans verified caller ID rollout across India by 2026
-  The DoT has initiated a pilot for Calling Name Presentation (CNAP), allowing users to view caller
-  🔗 https://www.livemint.com/technology/tech-news/no-more-spam-calls-govt-plans-verified-caller-id-rollout-across-india-by-2026-cnap-11761758418570.html
+- Reliance Jio to provide 18 months of Google AI Pro access worth over  ₹35,000 for free: All you need to know
+  Jio users will receive an 18-month free subscription to Google AI Pro valued at  ₹35,100.
+  🔗 https://www.livemint.com/technology/tech-news/reliance-jio-to-provide-18-months-of-google-ai-pro-access-worth-over-rs-35-000-for-free-all-you-need-to-know-11761825986883.html
 
-- Giving Nvidias Blackwell chip to China would slash USs AI advantage, experts say
-  Giving Nvidia's Blackwell chip to China would slash
-  🔗 https://www.livemint.com/technology/tech-news/giving-nvidias-blackwell-chip-to-china-would-slash-uss-ai-advantage-experts-say-11761756144179.html
+- YouTube adds AI powered 'Super Resolution' feature to make low-res videos look sharper than ever: here's how it works
+  YouTube has launched super resolution to upscale videos below 1080p to HD on smart TVs. Creators can opt out
+  🔗 https://www.livemint.com/technology/tech-news/youtube-adds-ai-powered-super-resolution-feature-to-make-low-res-videos-look-sharper-than-ever-heres-how-it-works-11761816847806.html
 
-- Character.AI to shut down teens from accessing its chatbot amid rising concerns over teen safety
-  Character.ai will soon ban all users under the age of 18 fom talking to its chatbot. The action comes amid rising concerns over
-  🔗 https://www.livemint.com/technology/tech-news/characterai-to-shut-down-teens-from-accessing-its-chatbot-amid-rising-concerns-over-teen-safety-11761751687982.html
+- Tablets under  ₹30000 with sleek design and modern features for everyday work: Top 10 tablets  for smooth multitasking
+  These top 10 tablets redefine value with style, durability and all-day power. Explore the best tablets under  �
+  🔗 https://www.livemint.com/technology/gadgets/tablets-under-rs-30000-with-sleek-design-and-modern-features-for-everyday-work-top-10-tablets-for-smooth-multitasking-11761817431965.html
 
-- OnePlus 15 with Snapdragon 8 Elite Gen 5, OxygenOS 16 to launch in India on 13 November: Price, specs and what to expect
-  The OnePlus 15 will debut in India on 13 November with the Snapdragon 8 Elite Gen 5 processor and OxygenOS 16. The phone will be available in three colour
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-with-snapdragon-8-elite-gen-5-oxygenos-16-to-launch-in-india-on-13-november-price-specs-and-what-to-expect-11761748461804.html
+- Nothing Phone 3a Lite price, specifications and top alternatives you can consider
+  Nothing has launched the Phone 3a Lite, its cheapest model at 249 Euros. It features a 6.77-inch Full HD+ AMOLED display, MediaTek Dimensity 7300 processor, and
+  🔗 https://www.livemint.com/technology/tech-news/nothing-phone-3a-lite-price-specifications-and-top-alternatives-you-can-consider-11761815010739.html
 
-- Elon Musk’s Starlink plans Mumbai demo to show security and tech compliance: All you need to know
-  Elon Musk's Starlink will conduct demo runs in Mumbai on October 30-31
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-s-starlink-plans-mumbai-demo-to-show-security-and-tech-compliance-all-you-need-to-know-11761744787198.html
+- Contrarian bet: Wearables brands in premium push, overseas expansion as sales deflate at home
+  With the entry-level wearables segment saturated, IPO-bound boAt,
+  🔗 https://www.livemint.com/technology/gadgets/india-wearables-brands-premium-overseas-push-boat-noise-goboult-smartwatches-tech-budget-devices-audio-startup-croma-11761647969333.html
 
-- Dr. Reddy’s Laboratories shares slide 6% on receiving non-compliance notice on Semaglutide filing
-  Dr. Reddy’s Laboratories shares declined over 5% after receiving a Notice of Non-Compliance from Canada
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dr-reddys-laboratories-shares-slide-6-on-receiving-non-compliance-notice-on-semaglutide-filing/articleshow/124937553.cms
+- Swiggy mulls Rs 10,000 cr fund raise via QIP; board to meet on Nov 7 to take a call
+  Swiggy is planning to raise Rs 10,000 crore through a qualified institutional placement. The move comes amid intensifying competition and follows a wider quarterly loss of Rs 1,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/swiggy-mulls-rs-10000-cr-fund-raise-via-qip-board-to-meet-on-nov-7-to-take-a-call/articleshow/124951796.cms
 
-- Bitcoin tumbles below $109K, global crypto market cap slips under $4 trillion post Fed cut
-  Bitcoin drops 3.5% to below $109,000, dragging the global crypto market cap under $4 trillion after the Fed's rate cut.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-tumbles-below-109k-global-crypto-market-cap-slips-under-4-trillion-post-fed-cut/articleshow/124937207.cms
+- Union Bank Q2 Results: Profit falls 10% over dip in core income, recoveries from written-off loans
+  State-run Union Bank of India reported a 10 per cent decline in September quarter profit at Rs 4,249 crore.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/union-bank-posts-10-pc-fall-in-q2-profit-over-dip-in-core-income-recoveries-from-written-off-loans/articleshow/124950527.cms
 
-- Ixigo parent Le Travenues Technology shares plunge 19% after reporting net loss in Q2
-  Ixigo’s shares fell nearly 19% after reporting a Q2 net loss of Rs 3.4 crore
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ixigo-parent-le-travenues-technology-shares-plunge-19-after-reporting-net-loss-in-q2/articleshow/124936901.cms
+- ITC Q2 Results: Net profit rises 3% YoY to Rs 5,126 crore, revenue declines 1%
+  ITC Q2 Results: Diversified conglomerate ITC Ltd reported 3% year-on-year (YoY) growth in
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q2-results-net-profit-rises-3-yoy-to-rs-5126-crore-revenue-declines-1/articleshow/124949295.cms
 
-- US push for agri exports driven by politics, surplus and competitiveness: Sunil Subramaniam
-  America seeks to increase farm exports to India and China. China's reduced soybean imports from the US have created a surplus. India faces challenges with genetically modified crops.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/us-push-for-agri-exports-driven-by-politics-surplus-and-competitiveness-sunil-subramaniam/articleshow/124936940.cms
+- Gainers &amp; Losers: Canara Bank and Vodafone Idea among 7 stocks that moved most on Thursday
+   Benchmark indices ended lower as selling hit banking, auto, and IT stocks. Vaibhav Global, Canara Bank,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-losers-canara-bank-and-vodafone-idea-among-7-stocks-that-moved-most-on-thursday/slideshow/124948679.cms
 
-- Studds Accessories subscribed over 20% in early bidding on Day 1. Check GMP, review, and subscription details
-  Studds Accessories launched its Rs 455.49 crore IPO on October 30, 2025. The grey market premium stands at 9%, indicating modest listing gains.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/studds-accessories-subscribed-over-20-in-early-bidding-on-day-1-check-gmp-review-and-subscription-details/articleshow/124936846.cms
+- Swiggy Q2 Results: Cons loss widens to Rs 1,092 crore YoY, but revenue jumps 54%
+  Swiggy reported a consolidated net loss of Rs 1,092 crore for the September quarter. Despite the wider loss, the company saw a significant 54% year-on-year revenue growth.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/swiggy-q2-results-cons-loss-widens-yoy-to-rs-1092-crore-but-revenue-jumps-54/articleshow/124948135.cms
 
-- 'So, I'm Doing A Trade Deal With India': Trump's Message From South Korea - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXhlNlFvWFhFbHBqdDc0dEhxOTlYZVU0NlRuM0FDV2sxQTNTbG5sNXNCaHJua1RkSUE3U0J4Yk04azVsaVNadnlFQ0tRTEdVdG1ib3VwZVFQd2R4WWJQNjcxV0dGY3hiS3
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXhlNlFvWFhFbHBqdDc0dEhxOTlYZVU0NlRuM0FDV2sxQTNTbG5sNXNCaHJua1RkSUE3U0J4Yk04azVsaVNadnlFQ0tRTEdVdG1ib3VwZVFQd2R4WWJQNjcxV0dGY3hiS3RZb2trbGFUSnNjdEk1cDN6ZVZHczNNOGt5NkhPTlhjVmNIVENfMXp2UnhiendYQ3pGa0I0bkJXUVZLWDRKUWsyU3hjd0p5bFA2R0lGVGVhZm5BTTRaWmpLR255c0xBUnRXUDM0WHZPRnEtZG55RlcxOVdocDBqOU5EUHBsUURZYzExSHcxNVJnY0pVVlpZdWRwNW7SAYQCQVVfeXFMT1VDWXhTMmF0TzU5WHVhdS1qdWJiQUhtdXJhT1NjdUNqTXNGQVVIMXpnM2c1cFZsQ0J2RTY0cjA5bDd3MlNHZUZLa24ySkJqZHczazZxdzd1SWVvVGFYVHdHM1dPZV9rakR0dXBIVjdBaWZIOHRHRW05bTNidVNsSGR6OFdieEFjOVFiSEJOMVJRRlpqa0JmWWJfOWhlOC1zY29jYW1GRU5kV3lYdFJncktLNDI2cGNuVEdNWlNjZWJoS3M1bFJRSEdWT24xT3poa2Q5clNwdW1VVEZvOWhxNlkyckVSbVBYVmJOYU5xU3VsVzdVTWhQbEFlZmdHQmNmdnhtVHQ?oc=5
+- 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
+  'You'll Never Do Business': Trump Brags Of
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
 
-- Indian Workers Face New Challenge as US Tightens Work Visa Rules Amid Crackdown on H-1B Abuse - The Times of India
-  Indian Workers Face New Challenge as US Tightens Work Visa Rules Amid Crackdown on H
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxORE9vUU1oWndUajd3dW02aUR3UUZtejNxZjFoSUpKT05ITWdQQzJ1RHpQbFZyRGNmaEM3RUthZjVBMWZNTTNiWUNodFQ3YUU0UHdfTndLWHJJeWpWWHhvR0JoZjh6cndxcGJFQ1RaZDRjampjZGZIOUtZOUcwR2ZTNlVXeUp5Vmo4QUs3VFRwU2dmcHNNQkJybXRQOE5XX3gyRk9Nb3IzdHZaLUpKb0hVblMwTFplS2h2a2hJb0Y1X3BhWTVDMEkyUFBPc2dVNzFUU1llNTh5R25KTlV5MUF1TVV3OTl3QTdyV09wZngyZTZtTjhUblczcQ?oc=5
+- Fabulist Donald Trump indicates trade deal with India imminent - The Times of India
+  The Times of India reported that President Donald Trump
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUFNqM1JyX0g2T0lub1pKTWZQY2ZxbEhpYV9qVkZJcUMwZTlHTUM1dVRkSXk1NDNNaU1nVTk5OHRoTXpiakJCN0JxdVI2RTNIcTEyT0ZESUNRZHh4a1lBQzZmVHBSdmc0WmZUTGV0R1VQZkpYSi1zR3JZbXc4ZHRJTHdJb3I1TWpzQXNpa3Zid1k4UHVOM2VXRDBBcC1sUjdwRkc1YS15MmxpdlpQa29remtIMUJLRVVNMWN1QnJEYVpsZ0VGdjFyOU80aVJ0ZEZrV01YQVMtbzhjSkpZR3hHUzRB0gHnAUFVX3lxTE9vNTVpZTBxU3NrcnlNRUJHcWlUbDdKOXBkR1FSaWxIeUhPZnNkbF9aMmo2MFRaNjN2bDhfYTQ3MFpDN2NBNkdzQ3d4Y3BoZGpVSmNrVUFQbUFXR1ZOY1QwanM5YmVWa3JlbzVpdm9Bd0RTSktVZmU3MkRTYWlmaHVIYzcwZU91MkdJZUxtcnNtci1FcWxHV0R2dmJmd0JXRkU5WmY2SXlyT2lWb1o3ZldpVF9yMmJ4VGRnTVp3bE5aXzR2TjE4NXFSRXN4X3pOaThYOXNKMkg4M001U19NcEdRM25lLWt1QQ?oc=5
 
-- China and India resume direct flights after five-year hiatus - Al Jazeera
-  China and India resume direct flights after five
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNQThUTDdCbUs0N2JhOV9QUGp2MkhrQkFkaXNJMEJybWpiYWhpem5tR1c2SExnZHlxMVd2VVhEUzVKZ2dhQmpoM3hHamhScmdhSVBpdVhyQ1pNN2pKWjBSQnFEbTkxSGpKeE53V3UybFZsWFc5X0MwWVJDYXRLaTVjaGh6VklpZjBva3V6UmpRWjlzcEVfRm5PblJnUU5Yek05Mk9DWNIBqgFBVV95cUxQVXFHZHlSSnFoUER0ODI2M0NMMnhxejBpaGxJZFY4RmtOa2kyd0RhS0ZwNjhfWnczOG40cFB1dTIzd2JuUnVUdFJSdDVESWd3dG9nZGREbllBVDVvNTNGOXhqQTFGcHFRNE5PZDhHem5Oa2xwaXUxaHdFbms4WnJOTUdERklCSUoyNkFuNERoMGRUYXJZOXl4QVhWczR0N3BsOFBXYzdMZ2Fwdw?oc=5
+- Top news of the day: October 29, 2025 - The Hindu
+  Top news of the day: October
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOaXFNd2NIRTFfNzI5a2JrenZQVV9JWDBaWXRTcDdxT2F4TjVtbm9ucE11dmZtNmdoS1A5T0V4QnNnOXZRXzhNSkRvME9WSjBMblVVLWdXRVR3Z0hjWDVlMW14a004VWdxNUJ1M3NKTnZvY01UdTVQYk5sM25fNG5hYUF6dG5UVDBXWHdXWHFqSll1c2YxeTBvcjBUNTlIeE93WGJpaWtKUUo4TWZEQVVVdkNiQjhYcW8zZ0RiNGRmY2pWNE9DWFVnZ0MwUEl2cVVOTVBZRnI2a3FLZzRmRU1HNE53eERZQ0JXRk5JX0xyWjJ3bVBUMnc3Z3R0dVByRDNHMmdzbWUzNi13MHFYSmEw0gGWAkFVX3lxTE12TWtMY0VjWEh2OHFzckhYYVZsbjFsRXd6U2dHTDdicUtESVN1TGdEUWFtblFIZjRpSkt2MFBINjY5anlvN3lLY0NVYWxWZ0xoQ0kwMWlrMWFOaUp1TjJrRTRzSmFlOXdoNkpHeEwzQlNLanRiWGF0eHZwTlJSQ3UzdmZjWTRvTjl4LTJYbWtQcmQtckh1Z2hfOXV4cTczN2paaVNMU0x6Z2Q3dWNyLVZmSW4xaG1NWjV3QUtvTmFEUWI2bVdNT3VHSG1Qd29ZMmp0Ql9NbGFmbUcyLUE4LVhwS09BbUI0clJDTkt0M3ozSDcyc0tJRmxJcGhmUHQ1UDBFOXZ1aFhVN1lJS1p6ZTBTVVdXd193?oc=5
 
-- Top News Headlines of October 28, 2025 | Officiating appointments to top posts: Himachal Guv seeks explanation from chief secretary - The Indian Express
-  The Indian Express has published a list of top news stories of October 28, 2025. The list includes
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSzU4ZUdxblp6eEJmRnZMM1BNV3YzTHVibGtTTGEwM0dPajFKdlBsV193cEoyQVZCUndVb0luN1BsX0dyd2xlRll1REtkdExOTFVXX0YzdkN4S0dEQkY2THdVUGwyXzdDWnZRdktCU0tmSVJ5VFB6THg1MjNmdDBnVHVhRTZiVjVsTENPenFlYnFrWl94NkRBUjdpYlZ5UHBRMm1VZDVrVm96VG5DdEI4cUNwQnI0RVQ3S2daT2lQMU9IY3FkdTNTMXBZRmtNWTk1ZGhQbmtCMFNtVFlMUGluRGRBRDhrTmFu?oc=5
+- OPINION | Amit Shah nips Tejashwi’s narrative in the bud - India TV News
+  Amit Shah: Tejashwi's narrative
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdHhVQXlEeExGLURUN1drRXpFZnJLQ0FKUmJnSFdvYTBEY0RwSFNtUzBZaDlJeDNCeXp6WC1sWEFXX2twMVZvSzRRaElEVEhzeDVqZko4T0JXVTFhZVpmNEhZQVdaMUNhRHdtanlUcDRoWlhmRlQ4Z3psNUN6bXdyVThHeGlzeFZNSW5LM0xpWTZOYm1vYU9xTHpXOW81amVHWDFQRWZ5UjZPcC1uOGNWYkVScHZ1TFVkNjQyNlV5STZiYnBHMjRNX1l1OEU4ZnpBVE9WeXlRei1RZmZKbGRXanlmUVBMUdIB6wFBVV95cUxPQWYwTUxYYVR3dHRiMEZBWXJuY1l0S2F1NzBBMVI0UktUMTBnYTQ0WUhWbmtlMUNfMFFzM05tTjFNNDBDYlNjSnBnb2lad3RvOFBEY0tlZkxTT0dZQ2Z1a09pLS1xOExDLWtYd25EUkxBMXEtTDJQcWRKTlJ6SXhoa2FJS05Wc3Q3b0R6aUVnWnpPYk5kVk9DelBqYnlzMW5meXlxLUtudXA0Mk9YcDlrVFVES0hCXzJSZzlCRC1DMXduZW9YOUZyaXI4aEhzZ2dESF9LRVlhM2oxR2x6a09MTHFUWjNXUWFPb29N?oc=5
 
-- India slams ‘biased’ analysis of UN expert claiming Pahalagam attack impacted Myanmar refugees - Mint
-  India slams ‘biased’ analysis of UN expert
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNHFPNnhxLTZrLTU2YUQ4LW9EbnRNZVNXWDVMSFl1Y3BlcFU5Y3FYQUw3M3lqQXZIWTBBeVJBSW0tRGV2TmN4b2FpOHZwUFlYaDNpRTctLXNscldxV0ZVbVFpam9nMFkxaHpRSHJBNm1aWVloTll1SDh5U1hiVHRIYTZpeXoyU1hETU0tQlA2MTJhYWRjdFdLbXVreV9zeDUxQVJ4amljYWFQZmRPaEVoNm94ZmlJTWhSUlBwM0JyeFg1Mm1BUS1MNG5ZeERtUlBVVnJON3BQOEpfSHdyWk9KYm9B0gHnAUFVX3lxTE1DMkV6X1R6RGJ5S1U0ZEZkeXdSaXVrdzFBbWN6MGQtaHRub0tqUldnMkRTUVB6ODRPaGJzZnREaGZIcmFJUDlsbWNwSUxDQ3pvWlduYTY2NnVFSVBTZEtJN0plZVZsWktWVWRONWVYM0tEdTNOSmw2bTItekhLYnJwTG0xSDU2VzhMZ25KM2ZzX29hQUhRRlRSbXNxRzJTcnhMUlFnQkdfSWstcEthUzNPdXBOMmtEZ1owbGdKNHNhQlNaQ1ZyWWcxNkFuYUhrSThreGJodk9BNFpZU3FRbm45VUpfTDdJVQ?oc=5
+- India is the perfect harbour for investing in maritime sector: PM Modi - DD News
+  India is the perfect harbour for investing in maritime sector:
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPTlUwRjFrSmNkT3Q1T0Y3WVdOYkp1ZktZZW82bkMyTkthOHpEUU1VUV9XUDQwZUVRRHZLVzRJUktQaGVMbkNYN0ZmVUdFWndidVBxX3poVXBpLUJISU5wbDBGWF9YbEExd1BMOUlZVU9fTzhLNFJ0TXAyeXJSSVpROG5xanVDUlM4SzN4eHRvcUxGejVzRzc4M212aw?oc=5
 
-- 'So, I'm Doing A Trade Deal With India': Trump's Message From South Korea - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXhlNlFvWFhFbHBqdDc0dEhxOTlYZVU0NlRuM0FDV2sxQTNTbG5sNXNCaHJua1RkSUE3U0J4Yk04azVsaVNadnlFQ0tRTEdVdG1ib3VwZVFQd2R4WWJQNjcxV0dGY3hiS3
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXhlNlFvWFhFbHBqdDc0dEhxOTlYZVU0NlRuM0FDV2sxQTNTbG5sNXNCaHJua1RkSUE3U0J4Yk04azVsaVNadnlFQ0tRTEdVdG1ib3VwZVFQd2R4WWJQNjcxV0dGY3hiS3RZb2trbGFUSnNjdEk1cDN6ZVZHczNNOGt5NkhPTlhjVmNIVENfMXp2UnhiendYQ3pGa0I0bkJXUVZLWDRKUWsyU3hjd0p5bFA2R0lGVGVhZm5BTTRaWmpLR255c0xBUnRXUDM0WHZPRnEtZG55RlcxOVdocDBqOU5EUHBsUURZYzExSHcxNVJnY0pVVlpZdWRwNW7SAYQCQVVfeXFMT1VDWXhTMmF0TzU5WHVhdS1qdWJiQUhtdXJhT1NjdUNqTXNGQVVIMXpnM2c1cFZsQ0J2RTY0cjA5bDd3MlNHZUZLa24ySkJqZHczazZxdzd1SWVvVGFYVHdHM1dPZV9rakR0dXBIVjdBaWZIOHRHRW05bTNidVNsSGR6OFdieEFjOVFiSEJOMVJRRlpqa0JmWWJfOWhlOC1zY29jYW1GRU5kV3lYdFJncktLNDI2cGNuVEdNWlNjZWJoS3M1bFJRSEdWT24xT3poa2Q5clNwdW1VVEZvOWhxNlkyckVSbVBYVmJOYU5xU3VsVzdVTWhQbEFlZmdHQmNmdnhtVHQ?oc=5
+- 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
+  'You'll Never Do Business': Trump Brags Of
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
 
-- Indian Workers Face New Challenge as US Tightens Work Visa Rules Amid Crackdown on H-1B Abuse - The Times of India
-  Indian Workers Face New Challenge as US Tightens Work Visa Rules Amid Crackdown on H
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxORE9vUU1oWndUajd3dW02aUR3UUZtejNxZjFoSUpKT05ITWdQQzJ1RHpQbFZyRGNmaEM3RUthZjVBMWZNTTNiWUNodFQ3YUU0UHdfTndLWHJJeWpWWHhvR0JoZjh6cndxcGJFQ1RaZDRjampjZGZIOUtZOUcwR2ZTNlVXeUp5Vmo4QUs3VFRwU2dmcHNNQkJybXRQOE5XX3gyRk9Nb3IzdHZaLUpKb0hVblMwTFplS2h2a2hJb0Y1X3BhWTVDMEkyUFBPc2dVNzFUU1llNTh5R25KTlV5MUF1TVV3OTl3QTdyV09wZngyZTZtTjhUblczcQ?oc=5
+- Fabulist Donald Trump indicates trade deal with India imminent - The Times of India
+  The Times of India reported that President Donald Trump
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUFNqM1JyX0g2T0lub1pKTWZQY2ZxbEhpYV9qVkZJcUMwZTlHTUM1dVRkSXk1NDNNaU1nVTk5OHRoTXpiakJCN0JxdVI2RTNIcTEyT0ZESUNRZHh4a1lBQzZmVHBSdmc0WmZUTGV0R1VQZkpYSi1zR3JZbXc4ZHRJTHdJb3I1TWpzQXNpa3Zid1k4UHVOM2VXRDBBcC1sUjdwRkc1YS15MmxpdlpQa29remtIMUJLRVVNMWN1QnJEYVpsZ0VGdjFyOU80aVJ0ZEZrV01YQVMtbzhjSkpZR3hHUzRB0gHnAUFVX3lxTE9vNTVpZTBxU3NrcnlNRUJHcWlUbDdKOXBkR1FSaWxIeUhPZnNkbF9aMmo2MFRaNjN2bDhfYTQ3MFpDN2NBNkdzQ3d4Y3BoZGpVSmNrVUFQbUFXR1ZOY1QwanM5YmVWa3JlbzVpdm9Bd0RTSktVZmU3MkRTYWlmaHVIYzcwZU91MkdJZUxtcnNtci1FcWxHV0R2dmJmd0JXRkU5WmY2SXlyT2lWb1o3ZldpVF9yMmJ4VGRnTVp3bE5aXzR2TjE4NXFSRXN4X3pOaThYOXNKMkg4M001U19NcEdRM25lLWt1QQ?oc=5
 
-- China and India resume direct flights after five-year hiatus - Al Jazeera
-  China and India resume direct flights after five
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNQThUTDdCbUs0N2JhOV9QUGp2MkhrQkFkaXNJMEJybWpiYWhpem5tR1c2SExnZHlxMVd2VVhEUzVKZ2dhQmpoM3hHamhScmdhSVBpdVhyQ1pNN2pKWjBSQnFEbTkxSGpKeE53V3UybFZsWFc5X0MwWVJDYXRLaTVjaGh6VklpZjBva3V6UmpRWjlzcEVfRm5PblJnUU5Yek05Mk9DWNIBqgFBVV95cUxQVXFHZHlSSnFoUER0ODI2M0NMMnhxejBpaGxJZFY4RmtOa2kyd0RhS0ZwNjhfWnczOG40cFB1dTIzd2JuUnVUdFJSdDVESWd3dG9nZGREbllBVDVvNTNGOXhqQTFGcHFRNE5PZDhHem5Oa2xwaXUxaHdFbms4WnJOTUdERklCSUoyNkFuNERoMGRUYXJZOXl4QVhWczR0N3BsOFBXYzdMZ2Fwdw?oc=5
+- Top news of the day: October 29, 2025 - The Hindu
+  Top news of the day: October
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOaXFNd2NIRTFfNzI5a2JrenZQVV9JWDBaWXRTcDdxT2F4TjVtbm9ucE11dmZtNmdoS1A5T0V4QnNnOXZRXzhNSkRvME9WSjBMblVVLWdXRVR3Z0hjWDVlMW14a004VWdxNUJ1M3NKTnZvY01UdTVQYk5sM25fNG5hYUF6dG5UVDBXWHdXWHFqSll1c2YxeTBvcjBUNTlIeE93WGJpaWtKUUo4TWZEQVVVdkNiQjhYcW8zZ0RiNGRmY2pWNE9DWFVnZ0MwUEl2cVVOTVBZRnI2a3FLZzRmRU1HNE53eERZQ0JXRk5JX0xyWjJ3bVBUMnc3Z3R0dVByRDNHMmdzbWUzNi13MHFYSmEw0gGWAkFVX3lxTE12TWtMY0VjWEh2OHFzckhYYVZsbjFsRXd6U2dHTDdicUtESVN1TGdEUWFtblFIZjRpSkt2MFBINjY5anlvN3lLY0NVYWxWZ0xoQ0kwMWlrMWFOaUp1TjJrRTRzSmFlOXdoNkpHeEwzQlNLanRiWGF0eHZwTlJSQ3UzdmZjWTRvTjl4LTJYbWtQcmQtckh1Z2hfOXV4cTczN2paaVNMU0x6Z2Q3dWNyLVZmSW4xaG1NWjV3QUtvTmFEUWI2bVdNT3VHSG1Qd29ZMmp0Ql9NbGFmbUcyLUE4LVhwS09BbUI0clJDTkt0M3ozSDcyc0tJRmxJcGhmUHQ1UDBFOXZ1aFhVN1lJS1p6ZTBTVVdXd193?oc=5
 
-- Top News Headlines of October 28, 2025 | Officiating appointments to top posts: Himachal Guv seeks explanation from chief secretary - The Indian Express
-  The Indian Express has published a list of top news stories of October 28, 2025. The list includes
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSzU4ZUdxblp6eEJmRnZMM1BNV3YzTHVibGtTTGEwM0dPajFKdlBsV193cEoyQVZCUndVb0luN1BsX0dyd2xlRll1REtkdExOTFVXX0YzdkN4S0dEQkY2THdVUGwyXzdDWnZRdktCU0tmSVJ5VFB6THg1MjNmdDBnVHVhRTZiVjVsTENPenFlYnFrWl94NkRBUjdpYlZ5UHBRMm1VZDVrVm96VG5DdEI4cUNwQnI0RVQ3S2daT2lQMU9IY3FkdTNTMXBZRmtNWTk1ZGhQbmtCMFNtVFlMUGluRGRBRDhrTmFu?oc=5
+- OPINION | Amit Shah nips Tejashwi’s narrative in the bud - India TV News
+  Amit Shah: Tejashwi's narrative
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdHhVQXlEeExGLURUN1drRXpFZnJLQ0FKUmJnSFdvYTBEY0RwSFNtUzBZaDlJeDNCeXp6WC1sWEFXX2twMVZvSzRRaElEVEhzeDVqZko4T0JXVTFhZVpmNEhZQVdaMUNhRHdtanlUcDRoWlhmRlQ4Z3psNUN6bXdyVThHeGlzeFZNSW5LM0xpWTZOYm1vYU9xTHpXOW81amVHWDFQRWZ5UjZPcC1uOGNWYkVScHZ1TFVkNjQyNlV5STZiYnBHMjRNX1l1OEU4ZnpBVE9WeXlRei1RZmZKbGRXanlmUVBMUdIB6wFBVV95cUxPQWYwTUxYYVR3dHRiMEZBWXJuY1l0S2F1NzBBMVI0UktUMTBnYTQ0WUhWbmtlMUNfMFFzM05tTjFNNDBDYlNjSnBnb2lad3RvOFBEY0tlZkxTT0dZQ2Z1a09pLS1xOExDLWtYd25EUkxBMXEtTDJQcWRKTlJ6SXhoa2FJS05Wc3Q3b0R6aUVnWnpPYk5kVk9DelBqYnlzMW5meXlxLUtudXA0Mk9YcDlrVFVES0hCXzJSZzlCRC1DMXduZW9YOUZyaXI4aEhzZ2dESF9LRVlhM2oxR2x6a09MTHFUWjNXUWFPb29N?oc=5
 
-- India slams ‘biased’ analysis of UN expert claiming Pahalagam attack impacted Myanmar refugees - Mint
-  India slams ‘biased’ analysis of UN expert
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNHFPNnhxLTZrLTU2YUQ4LW9EbnRNZVNXWDVMSFl1Y3BlcFU5Y3FYQUw3M3lqQXZIWTBBeVJBSW0tRGV2TmN4b2FpOHZwUFlYaDNpRTctLXNscldxV0ZVbVFpam9nMFkxaHpRSHJBNm1aWVloTll1SDh5U1hiVHRIYTZpeXoyU1hETU0tQlA2MTJhYWRjdFdLbXVreV9zeDUxQVJ4amljYWFQZmRPaEVoNm94ZmlJTWhSUlBwM0JyeFg1Mm1BUS1MNG5ZeERtUlBVVnJON3BQOEpfSHdyWk9KYm9B0gHnAUFVX3lxTE1DMkV6X1R6RGJ5S1U0ZEZkeXdSaXVrdzFBbWN6MGQtaHRub0tqUldnMkRTUVB6ODRPaGJzZnREaGZIcmFJUDlsbWNwSUxDQ3pvWlduYTY2NnVFSVBTZEtJN0plZVZsWktWVWRONWVYM0tEdTNOSmw2bTItekhLYnJwTG0xSDU2VzhMZ25KM2ZzX29hQUhRRlRSbXNxRzJTcnhMUlFnQkdfSWstcEthUzNPdXBOMmtEZ1owbGdKNHNhQlNaQ1ZyWWcxNkFuYUhrSThreGJodk9BNFpZU3FRbm45VUpfTDdJVQ?oc=5
+- India is the perfect harbour for investing in maritime sector: PM Modi - DD News
+  India is the perfect harbour for investing in maritime sector:
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPTlUwRjFrSmNkT3Q1T0Y3WVdOYkp1ZktZZW82bkMyTkthOHpEUU1VUV9XUDQwZUVRRHZLVzRJUktQaGVMbkNYN0ZmVUdFWndidVBxX3poVXBpLUJISU5wbDBGWF9YbEExd1BMOUlZVU9fTzhLNFJ0TXAyeXJSSVpROG5xanVDUlM4SzN4eHRvcUxGejVzRzc4M212aw?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
+  'You'll Never Do Business': Trump Brags Of
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Fabulist Donald Trump indicates trade deal with India imminent - The Times of India
+  The Times of India reported that President Donald Trump
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUFNqM1JyX0g2T0lub1pKTWZQY2ZxbEhpYV9qVkZJcUMwZTlHTUM1dVRkSXk1NDNNaU1nVTk5OHRoTXpiakJCN0JxdVI2RTNIcTEyT0ZESUNRZHh4a1lBQzZmVHBSdmc0WmZUTGV0R1VQZkpYSi1zR3JZbXc4ZHRJTHdJb3I1TWpzQXNpa3Zid1k4UHVOM2VXRDBBcC1sUjdwRkc1YS15MmxpdlpQa29remtIMUJLRVVNMWN1QnJEYVpsZ0VGdjFyOU80aVJ0ZEZrV01YQVMtbzhjSkpZR3hHUzRB0gHnAUFVX3lxTE9vNTVpZTBxU3NrcnlNRUJHcWlUbDdKOXBkR1FSaWxIeUhPZnNkbF9aMmo2MFRaNjN2bDhfYTQ3MFpDN2NBNkdzQ3d4Y3BoZGpVSmNrVUFQbUFXR1ZOY1QwanM5YmVWa3JlbzVpdm9Bd0RTSktVZmU3MkRTYWlmaHVIYzcwZU91MkdJZUxtcnNtci1FcWxHV0R2dmJmd0JXRkU5WmY2SXlyT2lWb1o3ZldpVF9yMmJ4VGRnTVp3bE5aXzR2TjE4NXFSRXN4X3pOaThYOXNKMkg4M001U19NcEdRM25lLWt1QQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Top news of the day: October 29, 2025 - The Hindu
+  Top news of the day: October
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOaXFNd2NIRTFfNzI5a2JrenZQVV9JWDBaWXRTcDdxT2F4TjVtbm9ucE11dmZtNmdoS1A5T0V4QnNnOXZRXzhNSkRvME9WSjBMblVVLWdXRVR3Z0hjWDVlMW14a004VWdxNUJ1M3NKTnZvY01UdTVQYk5sM25fNG5hYUF6dG5UVDBXWHdXWHFqSll1c2YxeTBvcjBUNTlIeE93WGJpaWtKUUo4TWZEQVVVdkNiQjhYcW8zZ0RiNGRmY2pWNE9DWFVnZ0MwUEl2cVVOTVBZRnI2a3FLZzRmRU1HNE53eERZQ0JXRk5JX0xyWjJ3bVBUMnc3Z3R0dVByRDNHMmdzbWUzNi13MHFYSmEw0gGWAkFVX3lxTE12TWtMY0VjWEh2OHFzckhYYVZsbjFsRXd6U2dHTDdicUtESVN1TGdEUWFtblFIZjRpSkt2MFBINjY5anlvN3lLY0NVYWxWZ0xoQ0kwMWlrMWFOaUp1TjJrRTRzSmFlOXdoNkpHeEwzQlNLanRiWGF0eHZwTlJSQ3UzdmZjWTRvTjl4LTJYbWtQcmQtckh1Z2hfOXV4cTczN2paaVNMU0x6Z2Q3dWNyLVZmSW4xaG1NWjV3QUtvTmFEUWI2bVdNT3VHSG1Qd29ZMmp0Ql9NbGFmbUcyLUE4LVhwS09BbUI0clJDTkt0M3ozSDcyc0tJRmxJcGhmUHQ1UDBFOXZ1aFhVN1lJS1p6ZTBTVVdXd193?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- OPINION | Amit Shah nips Tejashwi’s narrative in the bud - India TV News
+  Amit Shah: Tejashwi's narrative
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdHhVQXlEeExGLURUN1drRXpFZnJLQ0FKUmJnSFdvYTBEY0RwSFNtUzBZaDlJeDNCeXp6WC1sWEFXX2twMVZvSzRRaElEVEhzeDVqZko4T0JXVTFhZVpmNEhZQVdaMUNhRHdtanlUcDRoWlhmRlQ4Z3psNUN6bXdyVThHeGlzeFZNSW5LM0xpWTZOYm1vYU9xTHpXOW81amVHWDFQRWZ5UjZPcC1uOGNWYkVScHZ1TFVkNjQyNlV5STZiYnBHMjRNX1l1OEU4ZnpBVE9WeXlRei1RZmZKbGRXanlmUVBMUdIB6wFBVV95cUxPQWYwTUxYYVR3dHRiMEZBWXJuY1l0S2F1NzBBMVI0UktUMTBnYTQ0WUhWbmtlMUNfMFFzM05tTjFNNDBDYlNjSnBnb2lad3RvOFBEY0tlZkxTT0dZQ2Z1a09pLS1xOExDLWtYd25EUkxBMXEtTDJQcWRKTlJ6SXhoa2FJS05Wc3Q3b0R6aUVnWnpPYk5kVk9DelBqYnlzMW5meXlxLUtudXA0Mk9YcDlrVFVES0hCXzJSZzlCRC1DMXduZW9YOUZyaXI4aEhzZ2dESF9LRVlhM2oxR2x6a09MTHFUWjNXUWFPb29N?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- India is the perfect harbour for investing in maritime sector: PM Modi - DD News
+  India is the perfect harbour for investing in maritime sector:
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPTlUwRjFrSmNkT3Q1T0Y3WVdOYkp1ZktZZW82bkMyTkthOHpEUU1VUV9XUDQwZUVRRHZLVzRJUktQaGVMbkNYN0ZmVUdFWndidVBxX3poVXBpLUJISU5wbDBGWF9YbEExd1BMOUlZVU9fTzhLNFJ0TXAyeXJSSVpROG5xanVDUlM4SzN4eHRvcUxGejVzRzc4M212aw?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
+  'You'll Never Do Business': Trump Brags Of
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Fabulist Donald Trump indicates trade deal with India imminent - The Times of India
+  The Times of India reported that President Donald Trump
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUFNqM1JyX0g2T0lub1pKTWZQY2ZxbEhpYV9qVkZJcUMwZTlHTUM1dVRkSXk1NDNNaU1nVTk5OHRoTXpiakJCN0JxdVI2RTNIcTEyT0ZESUNRZHh4a1lBQzZmVHBSdmc0WmZUTGV0R1VQZkpYSi1zR3JZbXc4ZHRJTHdJb3I1TWpzQXNpa3Zid1k4UHVOM2VXRDBBcC1sUjdwRkc1YS15MmxpdlpQa29remtIMUJLRVVNMWN1QnJEYVpsZ0VGdjFyOU80aVJ0ZEZrV01YQVMtbzhjSkpZR3hHUzRB0gHnAUFVX3lxTE9vNTVpZTBxU3NrcnlNRUJHcWlUbDdKOXBkR1FSaWxIeUhPZnNkbF9aMmo2MFRaNjN2bDhfYTQ3MFpDN2NBNkdzQ3d4Y3BoZGpVSmNrVUFQbUFXR1ZOY1QwanM5YmVWa3JlbzVpdm9Bd0RTSktVZmU3MkRTYWlmaHVIYzcwZU91MkdJZUxtcnNtci1FcWxHV0R2dmJmd0JXRkU5WmY2SXlyT2lWb1o3ZldpVF9yMmJ4VGRnTVp3bE5aXzR2TjE4NXFSRXN4X3pOaThYOXNKMkg4M001U19NcEdRM25lLWt1QQ?oc=5
+
+- Top news of the day: October 29, 2025 - The Hindu
+  Top news of the day: October
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOaXFNd2NIRTFfNzI5a2JrenZQVV9JWDBaWXRTcDdxT2F4TjVtbm9ucE11dmZtNmdoS1A5T0V4QnNnOXZRXzhNSkRvME9WSjBMblVVLWdXRVR3Z0hjWDVlMW14a004VWdxNUJ1M3NKTnZvY01UdTVQYk5sM25fNG5hYUF6dG5UVDBXWHdXWHFqSll1c2YxeTBvcjBUNTlIeE93WGJpaWtKUUo4TWZEQVVVdkNiQjhYcW8zZ0RiNGRmY2pWNE9DWFVnZ0MwUEl2cVVOTVBZRnI2a3FLZzRmRU1HNE53eERZQ0JXRk5JX0xyWjJ3bVBUMnc3Z3R0dVByRDNHMmdzbWUzNi13MHFYSmEw0gGWAkFVX3lxTE12TWtMY0VjWEh2OHFzckhYYVZsbjFsRXd6U2dHTDdicUtESVN1TGdEUWFtblFIZjRpSkt2MFBINjY5anlvN3lLY0NVYWxWZ0xoQ0kwMWlrMWFOaUp1TjJrRTRzSmFlOXdoNkpHeEwzQlNLanRiWGF0eHZwTlJSQ3UzdmZjWTRvTjl4LTJYbWtQcmQtckh1Z2hfOXV4cTczN2paaVNMU0x6Z2Q3dWNyLVZmSW4xaG1NWjV3QUtvTmFEUWI2bVdNT3VHSG1Qd29ZMmp0Ql9NbGFmbUcyLUE4LVhwS09BbUI0clJDTkt0M3ozSDcyc0tJRmxJcGhmUHQ1UDBFOXZ1aFhVN1lJS1p6ZTBTVVdXd193?oc=5
+
+- OPINION | Amit Shah nips Tejashwi’s narrative in the bud - India TV News
+  Amit Shah: Tejashwi's narrative
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdHhVQXlEeExGLURUN1drRXpFZnJLQ0FKUmJnSFdvYTBEY0RwSFNtUzBZaDlJeDNCeXp6WC1sWEFXX2twMVZvSzRRaElEVEhzeDVqZko4T0JXVTFhZVpmNEhZQVdaMUNhRHdtanlUcDRoWlhmRlQ4Z3psNUN6bXdyVThHeGlzeFZNSW5LM0xpWTZOYm1vYU9xTHpXOW81amVHWDFQRWZ5UjZPcC1uOGNWYkVScHZ1TFVkNjQyNlV5STZiYnBHMjRNX1l1OEU4ZnpBVE9WeXlRei1RZmZKbGRXanlmUVBMUdIB6wFBVV95cUxPQWYwTUxYYVR3dHRiMEZBWXJuY1l0S2F1NzBBMVI0UktUMTBnYTQ0WUhWbmtlMUNfMFFzM05tTjFNNDBDYlNjSnBnb2lad3RvOFBEY0tlZkxTT0dZQ2Z1a09pLS1xOExDLWtYd25EUkxBMXEtTDJQcWRKTlJ6SXhoa2FJS05Wc3Q3b0R6aUVnWnpPYk5kVk9DelBqYnlzMW5meXlxLUtudXA0Mk9YcDlrVFVES0hCXzJSZzlCRC1DMXduZW9YOUZyaXI4aEhzZ2dESF9LRVlhM2oxR2x6a09MTHFUWjNXUWFPb29N?oc=5
+
+- India is the perfect harbour for investing in maritime sector: PM Modi - DD News
+  India is the perfect harbour for investing in maritime sector:
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPTlUwRjFrSmNkT3Q1T0Y3WVdOYkp1ZktZZW82bkMyTkthOHpEUU1VUV9XUDQwZUVRRHZLVzRJUktQaGVMbkNYN0ZmVUdFWndidVBxX3poVXBpLUJISU5wbDBGWF9YbEExd1BMOUlZVU9fTzhLNFJ0TXAyeXJSSVpROG5xanVDUlM4SzN4eHRvcUxGejVzRzc4M212aw?oc=5
 
 
-_Last updated: 2025-10-30 06:26:45 UTC_
+_Last updated: 2025-10-30 12:35:08 UTC_
