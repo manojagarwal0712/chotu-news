@@ -1,104 +1,104 @@
 # 📰 Daily News Summaries
 
-- Why is National Unity Day celebrated — History, significance, all you need to know
+- From nearby stations to fares: Soon, Delhi Metro passengers will get real-time info on Mappls app
   
-  🔗 https://indianexpress.com/article/india/national-unity-day-significance-history-10337266/
+  🔗 https://indianexpress.com/article/india/stations-fares-delhi-metro-passengers-to-get-real-time-info-mappls-app-10338167/
 
-- On National Unity Day, PM Modi says Sardar Patel wanted Kashmir as part of India but ‘Nehru didn’t allow’
+- Aadhaar, bank rules, transaction charges: Here’s a list of changes to come into effect on November 1
   
-  🔗 https://indianexpress.com/article/india/national-unity-day-pm-modi-sardar-patel-kashmir-india-nehru-10337275/
+  🔗 https://indianexpress.com/article/india/aadhar-bank-rules-charges-list-changes-november-1-10338039/
 
-- Modi ‘fuelling regional hatred’ during Bihar campaign, forgetting dignity of PM’s office, CM Stalin says
+- PM Modi fulfilled Sardar Patel’s dream of truly unified India by abrogating Article 370: Amit Shah
   
-  🔗 https://indianexpress.com/article/india/tamil-nadu-cm-stalin-pm-modi-divisive-comments-hindi-bihar-10337268/
+  🔗 https://indianexpress.com/article/india/pm-modi-fulfilled-sardar-patels-dream-of-truly-unified-india-by-abrogating-article-370-amit-shah-10338033/
 
-- Watch: Paramilitary forces, IAF put up breathtaking display of strength at Statue of Unity
+- From kin to killer: Nephew gets death penalty for decade-old murder of Chittoor’s first woman mayor, her husband
   
-  🔗 https://indianexpress.com/article/india/watch-pm-modi-national-unity-day-celebrations-parade-statue-of-unity-sardar-patel-10337194/
+  🔗 https://indianexpress.com/article/india/from-kin-to-killer-nephew-gets-death-penalty-for-decade-old-murder-of-chittoors-first-woman-mayor-her-husband-10338060/
 
-- Bihar Election 2025 LIVE Updates: NDA releases manifesto ahead of assembly polls; promises Rs 10 lakh to EBC
+- Indian Railways lower berth reservation rules 2025: From sleeping time to seat allocation – Here’s all you need to know
   
-  🔗 https://indianexpress.com/article/india/bihar-elections-nda-bjp-jdu-manifesto-live-congress-updates-10337257/
+  🔗 https://indianexpress.com/article/india/indian-railways-lower-berth-reservation-rules-2025-all-you-need-know-10337790/
 
-- Collaborative Innovation making Smartphones Smarter
+- What happens in your brain when the lights go out: Why we can’t see true black
   
-  🔗 https://indianexpress.com/article/technology/sponsored/collaborative-innovation-making-smartphones-smarter-10337422/
+  🔗 https://indianexpress.com/article/technology/science/what-happen-in-your-brain-when-the-lights-go-out-why-we-cant-see-true-black-10338147/
 
-- ‘Most jobs aren’t what humans should do’: Vinod Khosla on how AI could free workers
+- November 2025 Stargazing Guide: Full Beaver Supermoon, Taurids & Leonids Meteor Showers, and Saturn’s Ring Plane Crossing
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/most-jobs-arent-what-humans-should-do-vinod-khosla-on-how-ai-could-free-workers-10337340/
+  🔗 https://indianexpress.com/article/technology/science/november-2025-stargazing-beaver-supermoon-taurids-leonids-meteor-showers-and-saturns-10337709/
 
-- Amazon’s Profit Is Up 38% on Strong Performance
+- Gemini can turn your documents into Google Slides presentations: Here’s how to do it in 5 easy steps
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazons-profit-is-up-38-on-strong-performance-10337200/
+  🔗 https://indianexpress.com/article/technology/techook/google-gemini-ai-slides-presentations-10337696/
 
-- Apple crushes expectations with $100B+ quarter, iPhone sales surge
+- System changes are being made in how organisations hire, train, and incentivise employees: Microsoft’s Jay Parikh on AI’s impact on tech industry
   
-  🔗 https://indianexpress.com/article/technology/apples-iphones-fuel-record-sales-and-profit-10337139/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsofts-jay-parikh-on-ais-impact-on-tech-industry-10337683/
 
-- Apple hits record $102.5 billion revenue in Q4; again record sales in India
+- WhatsApp now lets you restore encrypted chats with face, fingerprint or screen lock: Here’s how
   
-  🔗 https://indianexpress.com/article/technology/apple-record-102-5-billion-revenue-q4-record-sales-india-10337115/
+  🔗 https://indianexpress.com/article/technology/social/whatsapp-chat-backup-passkey-support-10337460/
 
-- Amazon CEO Andy Jassy defends 14,000 job cuts, says ‘not about costs or AI’ — so what's behind it?
-  Amazon cut 14,000 jobs this week. The move wasn't driven by financial concerns or AI, says CEO Andy Jassy.
-  🔗 https://www.livemint.com/companies/news/amazon-ceo-andy-jassy-defends-14-000-job-cuts-says-not-about-costs-or-ai-so-whats-behind-it-11761879448459.html
+- Viral video: Nvidia's Jensen Huang enjoys beer and fried chicken with Hyundai, Samsung chiefs; brings gifts for fans
+  Jensen Huang had earlier met the cheifs of Samsung Electronics and Hyundai Motor. It was his first official visit
+  🔗 https://www.livemint.com/companies/people/viral-video-nvidias-jensen-huang-enjoys-beer-and-fried-chicken-with-hyundai-samsung-chiefs-brings-gifts-for-fans-11761905353278.html
 
-- No YouTube TV-Disney deal yet, subscribers may get $20 credit as ABC, ESPN, other 21 channels go dark
-  Google's YouTube TV said that Disney's channels, including ESPN and
-  🔗 https://www.livemint.com/companies/news/youtube-tv-disney-deal-yet-members-to-get-20-credit-as-abc-espn-other-channels-go-dark-11761883539926.html
+- Who is Bankim Brahmbhatt? Indian-origin CEO under BlackRock's radar for ‘breathtaking’ $500 million scam in US
+  Bankim Brahmbhatt accused of fabricating accounts receivable that were supposed to be used as loan collateral
+  🔗 https://www.livemint.com/companies/news/bankim-brahmbhatt-indian-origin-ceo-under-blackrocks-radar-for-breathtaking-500-million-scam-who-is-he-11761907173700.html
 
-- Meta could get left behind in the AI arms race—and the stock is paying for it
-   Meta expects to invest aggressively to meet
-  🔗 https://www.livemint.com/companies/meta-could-get-left-behind-in-the-ai-arms-race-and-the-stock-is-paying-for-it-11761882158272.html
+- Will provide support, says Singapore Airlines amid Air India seeking  ₹10,000 crore aid from owners
+  Singapore Airlines said that the company will provide support to Air India. Air India is seeking  ₹10,
+  🔗 https://www.livemint.com/companies/news/will-provide-support-says-singapore-airlines-amid-air-india-seeking-rs-10-000-crore-aid-from-owners-11761905469628.html
 
-- Air India seeks over $1 billion in financial support from owners Tata Sons, Singapore Airlines: Report
-  Air India reportedly sought &amp;nbsp;$1.14 billion lifeline from SIA and Tata
-  🔗 https://www.livemint.com/companies/news/air-india-seeks-1-14-billion-in-financial-support-from-owners-tata-sons-singapore-airlines-report-11761877757914.html
+- How lean marketing can help Indian start-ups avoid the ‘growth at all costs’ trap
+  The Unstoppables panel highlighted the need for sound business structures, effective brand building, and a focus on customer engagement.
+  🔗 https://www.livemint.com/companies/start-ups/how-lean-marketing-can-help-indian-start-ups-avoid-the-growth-at-all-costs-trap-11761907637251.html
 
-- MEIL Energy buys 100% stake in 250 MW power plant in Neyveli, Tamil Nadu; boosts power generation portfolio to 5.2 GW
-  The goal is to seamlessly integrate the plant into its energy portfolio, with a focus on operational excellence.
-  🔗 https://www.livemint.com/companies/news/meil-energy-buys-100-stake-in-250-mw-power-plant-in-neyveli-tamil-nadu-boosts-power-generation-portfolio-to-5-2-gw-11761873135948.html
+- Japanese carmakers eye innovation, India boost to overcome US, China speed bump
+  Toyota, Suzuki, Nissan, Honda, and other Japanese players unveil aggressive expansion plans, ranging from smaller
+  🔗 https://www.livemint.com/companies/japan-auto-industry-china-competition-india-market-strategy-11761892345848.html
 
-- Ashish Kacholia portfolio stock hits 20% upper circuit after trading ex-record for 1:2 stock split, 4:1 bonus issue
-  If an investor held 50 shares of Fineotex Chemical before the record date, they will end
-  🔗 https://www.livemint.com/market/stock-market-news/ashish-kacholia-portfolio-stock-hits-20-upper-circuit-after-trading-ex-record-for-1-2-stock-split-4-1-bonus-issue-11761891188421.html
+- Orkla India IPO booked nearly 49 times by third day. Check latest GMP
+  Orkla India IPO was entirely an offer for sale of 2.28 crore shares. This means all the proceeds will go to the shareholders
+  🔗 https://www.livemint.com/market/ipo/orkla-india-ipo-booked-nearly-49-times-by-third-day-check-latest-gmp-11761911889128.html
 
-- 1000% rally in one year! Hospitality stock hits upper circuit despite stock market sell-off
-   Spice Lounge Food Works share price hit a 5% upper circuit limit amid a sluggish Indian stock market. The company plans to enter luxury hospitality, acquiring Rightfest Hospitality and considering a majority stake
-  🔗 https://www.livemint.com/market/stock-market-news/1000-rally-in-one-year-hospitality-stock-hits-upper-circuit-despite-stock-market-selloff-11761889278445.html
+- Lenskart IPO fully subscribed on Day 1—will investors still see value at 260x earnings?
+  Lenskart’s IPO has drawn strong demand on the first day. Can the eyewear retailer justify
+  🔗 https://www.livemint.com/market/ipo/lenskart-ipo-fully-subscribed-day-1-valuation-investor-sentiment-11761900525978.html
 
-- Maruti Suzuki Q2 Results 2025 LIVE: Net profit likely to rise 7% YoY, margin seen under pressure
-  Maruti Suzuki is expected to report steady revenue growth in Q2FY26 of around 7% YoY, led by nearly 2% increase
-  🔗 https://www.livemint.com/market/stock-market-news/maruti-suzuki-q2-results-2025-live-maruti-suzuki-q2-earnings-profit-maruti-suzuki-share-price-gst-cut-31-october-2025-11761889801560.html
+- Bank of Baroda Q2 Results: Net profit drops 8% YoY to  ₹4,809 crore; NIMs stable, asset quality improves
+  Bank of Baroda reported a Q2FY26 profit of  ₹4,809 crore, an 8.2% decline from  �
+  🔗 https://www.livemint.com/market/stock-market-news/bank-of-baroda-q2-results-net-profit-drops-8-yoy-to-rs-4-809-crore-nims-stable-asset-quality-improves-11761909874873.html
 
-- Orkla India IPO Day 3: GMP, subscription status, review, other key details. Should you apply on last day?
-  Orkla India IPO opened for subscription on Wednesday, October 29, and closes today, Friday, October 31. IPO allotment date is likely November 3, and the IPO listing date is November 6.
-  🔗 https://www.livemint.com/market/ipo/orkla-india-ipo-day-3-gmp-subscription-status-review-other-key-details-should-you-apply-on-last-day-11761886741624.html
+- Equitas Small Finance Bank Q2 results: Profit rises, NII declines. Check key details
+  Net interest income (NII) for the quarter stood at  ₹77,367.61 lakh. The bank's net interest margin (NIM) for
+  🔗 https://www.livemint.com/market/stock-market-news/equitas-small-finance-bank-q2-results-profit-rises-nii-declines-check-key-details-11761909545515.html
 
-- Stocks to buy: Rajesh Palviya of Axis Sec suggests BPCL, HUDCO, Graphite India shares today
-  The Indian stock market opened slightly lower, driven by optimism over potential EU-US trade agreements. Despite recent consolidation, a breakout above 26,100 may lead to upward momentum.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-rajesh-palviya-of-axis-sec-suggests-bpcl-hudco-graphite-india-shares-today-11761884013965.html
+- Gold prices set for third straight monthly gain, rise 5% in October. Will bullion's bull run continue?
+  October 2025 saw a nearly 5% rise, hitting a record high of  ₹132,294 per 10 grams. However, recent declines followed international market weakness and a strong dollar.
+  🔗 https://www.livemint.com/market/commodities/gold-prices-set-for-third-straight-monthly-gain-rise-5-in-october-will-bullions-bull-run-continue-11761902802243.html
 
-- Aravind Srinivas introduces ‘Perplexity Patents’, an AI-powered patent research tool: Who can use it and how it works
-  Perplexity AI has launched Perplexity Patents. It is an AI-powered tool that simplifies patent research using natural language queries.
-  🔗 https://www.livemint.com/technology/tech-news/aravind-srinivas-introduces-perplexity-patents-an-ai-powered-patent-research-tool-who-can-use-it-and-how-it-works-11761879026339.html
+- Low maintenance black and white printers that keep running without hassle: Deals live on Amazon!
+  Black and white printers deliver fast, clear prints and need little care. Great deals are live on Amazon right now.
+  🔗 https://www.livemint.com/technology/gadgets/low-maintenance-black-and-white-printers-that-keep-running-without-hassle-deals-live-on-amazon-11761900410163.html
 
-- WhatsApp users can now secure chat backups using passkeys: How to enable the feature
-  Passkey-based encryption for chat backups allows users to secure their data using fingerprint, face recognition, or screen lock. The update enhances privacy and simplifies backup protection
-  🔗 https://www.livemint.com/technology/tech-news/whatsapp-users-can-now-secure-chat-backups-using-passkeys-how-to-enable-the-feature-11761873307478.html
+- Price drop alert! Top 5 ASUS TUF gaming laptop deals you can’t miss
+  ASUS TUF gaming laptops blend durability with performance on a budget
+  🔗 https://www.livemint.com/technology/gadgets/price-drop-alert-top-5-asus-tuf-gaming-laptop-deals-you-can-t-miss-11761894799298.html
 
-- Decoding the missing pieces in India’s tech puzzle: Mint CEO roundtable
-  Experts highlighted India’s tech potential hindered by insufficient financial capital. They called for strategic policy changes to foster innovation and reduce dependency
-  🔗 https://www.livemint.com/technology/india-tech-sector-artificial-intelligence-investment-startups-funding-11761759275847.html
+- Sora’s free video generations slashed as OpenAI adds fees: All you need to know
+  OpenAI has introduced a monetisation model for its Sora video generation app on iOS, ending unlimited free use. Users can now buy 10 extra video generations for $4 after reaching daily limits
+  🔗 https://www.livemint.com/technology/tech-news/soras-free-video-generations-slashed-as-openai-adds-fees-all-you-need-to-know-11761901902700.html
 
-- Elon Musk’s Starlink begins hiring for India rollout
-  The SpaceX-owned Starlink is hiring in finance and accounting domains. The company is
-  🔗 https://www.livemint.com/technology/starlink-india-hiring-elon-musk-satellite-internet-launch-update-11761835576415.html
+- Gemini can now create full Google Slides presentations from a simple prompt: Here's how| Explained
+  Google is rolling out a new Gemini feature that can automatically create full Google Slides presentations from a text prompt or uploaded file. Using the “Canvas” tool, users can turn ideas or documents into themed
+  🔗 https://www.livemint.com/technology/tech-news/gemini-can-now-create-full-google-slides-presentations-from-a-simple-prompt-heres-how-explained-11761896060554.html
 
-- Google AI Pro vs Perplexity Pro vs ChatGPT Go: Which free subscription is best?
-  Jio users can access Google AI Pro for free. OpenAI offers ChatGPT Go for free for a year. Perplexity provides a subscription for A
-  🔗 https://www.livemint.com/technology/tech-news/google-ai-pro-vs-perplexity-pro-vs-chatgpt-go-which-free-subscription-is-best-11761839352843.html
+- Halloween 2025: Transform your selfie into the spookiest AI portrait with Google Gemini Nano Banana | 7 viral prompts
+  Use Gemini’s Nano Banana to turn selfies into hyper-realistic ghostly portraits, gothic pumpkin-lit scenes, and the spookiest cinematic art.
+  🔗 https://www.livemint.com/technology/tech-news/halloween-2025-how-to-transform-your-selfie-into-a-spookie-ai-portrait-with-gemini-7-viral-prompts-11761891976064.html
 
 - Stock Market News, Oct. 30, 2025: Nasdaq Dragged Lower by Meta, Microsoft Earnings - The Wall Street Journal
   The Wall Street Journal published a story on Oct. 30, 2025:
@@ -108,145 +108,137 @@
   Stocks close lower, with Nasdaq down 1.6% as Big
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBBenpXeEp6QlB1RmRUMkFZNnNGMUxsY3pzTzJoWlVsd1FZazRMR0VPWW1ydGVkYlZuZkhMOXBzcWhVcmFiQnZaMXp6TzU5VG5mYk4tNGZtS1BhVDJxVHd4R01TTmM3c3BDbjVTMFZqX082Q2t5ZFdF0gF8QVVfeXFMUHNFMVdXWTV6ZjBub1RLaXliS0xDZjVkSTNqQWZoODJxaGk2LVVEU216TnhSZFZ6OVV4b2p4TVROUnVBNXpqYXd2aDhldUdLS2FUdmsxbmxJc0wyX2lKZTNpeWtiQkpVcFpjSi1xWll2MzZMQkV4VEVBTUJTdA?oc=5
 
-- Tech Stocks Slide on Meta’s Big AI Spending Plans: Markets Wrap - Bloomberg.com
-  Tech Stocks Slide on Meta’s
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNc2dES0VLajZ5R05CQmJTamd5bWljNGN0cVBONU51RHpWM085cnp2MXkzZl9ib3U5UWNFZmRYVXVaTkpMUGtuU25DSEdrNWlNTXZIU0w1QXpSZmVNRTRoZnRVOUd0R2pHdDJMS3U3Y29BbktRSzZYMjVUamVDSVE3YURPamdfSnFRUzdlM0VTWDk3NjB4?oc=5
+- Stock market today: S&P 500, Nasdaq futures rebound after Apple, Amazon earnings revive faith in Big Tech - Yahoo Finance
+  The tech sector has been in the news for the wrong reasons. Apple, Amazon
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMG9ZRmVmT1Z3Y1g1eEpsLXF5MGRyWDVuRDBkd1BQd0Q2bDBaQld4NXYxV0ZkazNwZ1NEdjdTa1VCNUI1Tk5BbFVaQ1R4ZUlLREJVaXdkU1o0ZUFNVllGQ01OOGl3VmxrT2JEN1FWd1VyOVZwWDgyVFNmb1RWSV94TmMxT25VVWZCUDZZU1Q0ODNEUXlqa0R0cVYzZjVPNWpmZzdQY1FQTVNsTmx1SkxCWUZjd1BucV81T1dYbXNMUGJHUHlNRGRjYXNfOU92alZ1X2lMVEZoblRVRVo0VVMtUHV4MVdsVDA?oc=5
 
-- Stock Market LIVE Updates: Sensex down 240 pts, Nifty at 25,800; FMCG, PSU Banks outshine - Moneycontrol
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSWNYU1RfRDEzMXNxLVVreE1PdDVmZlY0eUNDem1TUDhLcG9nbmlxeko3QktJMktsYkJGeVNfVzREVnhiUDZUU0FqNFNlUFVmNWVPZC0zQXFjeWdxcXBRS2dHYWlTSlRjWk
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSWNYU1RfRDEzMXNxLVVreE1PdDVmZlY0eUNDem1TUDhLcG9nbmlxeko3QktJMktsYkJGeVNfVzREVnhiUDZUU0FqNFNlUFVmNWVPZC0zQXFjeWdxcXBRS2dHYWlTSlRjWk1JdjA4blhjc2tGWGlCQUVqRnhfUjBFSWxaeElBcjFNczB3ZXlJNUswMFk4a0JfQjVXZjRSSWRudDBwU1p0MWk2WmxSZ3dLZEdWVnc3eFBYaVdDVjB5b0h0NDFtZHJqMFdDZHQ2V3dVTmJmTEVzZEs3M2pjVEJPYTA5X0IxbVRNV2FuMA?oc=5
+- Market Highlights: Sensex settles 466 pts lower, Nifty below 25,750; Eternal drops 3%, Kotak Bank 2% - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGt6MGgyb2ZWSUJVQ2NYcFduR3NoYWQ0bUk2TldIblpaWTd3MnRrREh3ZjdPb3FHWnNnOG0tWDd4cmtjR1o0blZCVVRuZlpVazYzYlFfU01BX3dzeks2NzdTX3ZuT1NaaT
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGt6MGgyb2ZWSUJVQ2NYcFduR3NoYWQ0bUk2TldIblpaWTd3MnRrREh3ZjdPb3FHWnNnOG0tWDd4cmtjR1o0blZCVVRuZlpVazYzYlFfU01BX3dzeks2NzdTX3ZuT1NaaTFpdFdNSWZWR0VNYzNyRENGQUllYnVwY3pTcVFzVVpLeGN1andRc3lHYmZJbFRaWG5CNzNINjQ3bjNVOEs1Tmo3cVdUTUFtLVVaSFZkTWpwMlFKOVV5dnI5UEw3Q2puSFJWcThzOE5Jc19VWjVZSdIB3AFBVV95cUxNTUpKa1ZpdHlTS0lBUm1BNWZ5ZEFOVjlZMjFiN1U5ekV3NDZEMmdGcGhJVUZ6RmhSeHZYVWNuTlB1QU1EMExRT3ZKbm5rcXcxOWVib3dUYnpqRGJ0MUZXZ0g0Z2lKNlNSREhYOFM0bnJrM0lrOG1rd2dIcUVydVFRSmZQUVJWRWt0TGx4OGJHOU1FaW9RMzlnbW4wSmxRU0NOVDlzWHEtcS1XcEtmSzk2VW84OTctd2tLU19UVWlDRG5TdlhIN3ROdnp3Q1dzckluNkNGbV9pVUl6YWFO?oc=5
 
-- 1000% rally in one year! Hospitality stock hits upper circuit despite stock market sell-off - livemint.com
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYnlidzlVdUNwMnhQYjZpU0NzLTQ3eWRTRnB6TjVwQ2FYQWlxaEJZTVltaHpaUVFQaDQzTkxzSUpCUEFZUUgta2c2dmlQeWR0TzJBZ0pBYmxJQjEtRVhfWVVuLU1lYlJYeFpiMlAwSHhSeWNSN2Y4YkZqcDlaMWdxT2gyNW9LVmQ2UmVfM0hpWjJOY2gtU3JtMDMzQ0xEMmpfM3ZFeWlmZXlRbjR4UlBJQWFCamtMRzl6a1lmV20yZ0tuN29KcGl4R2RZZ0VqSTdlOVh5M0RuWENUUk5DM0ZnaHNCelpNekkxajhKWWx3WdIB9AFBVV95cUxQMDRYWDNXd202M3hZbnExeXN1T0dkek1LTnhFaWFaSWtqb3FHc0lDaFJ2bERxVHcya1BKLW04a2hIdzVzZlJieXd3NktBb2MwdnpPMkhZeWhKSll5QkdzLTdPNGkxaFZZUkhNOFZMZzI2NnpxTWxaMDkwazFaUUJEU0E1MzFKR1I5Yl9xaFBzQXJUZDRBd3RNNVpKWEY3M2ItZ3dHakJHUS1YQ05KT1dJcTgtZ1ZMRTJRbnNpMlFhalpWZHBmdHVvaVEzNlpVQXhRVC0yNHVJbFhTZkZ6R1VVSldzQzAta2dCX3JBYURlM1VfWHMt?oc=5
+- The job market is getting worse. So why are stocks booming? - vox.com
+  The job market is getting worse. So why
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHNYQ2xKVjRvVVRzYU5aelNCS0hSaVEzMHNUQTRURlhTc0hUbW52SzFNMkxSeEl3WWVHWllNYkFvSDV0YWtsQ25WVzhrdTVrWXdNVlRxZUdCQjEtdjByM3Z2VHJHdnlKNVJRbHpCNmFzaDM2ZkxQLVU1N25NTG1HRFZYYTlscHpfdk56TEJHbEkwRGlvcGk4QkdWbmhvRmM?oc=5
 
-- Japan's Kansai Electric shares rise 5% after forecasting higher profit, dividend
-  Kansai Electric Power Co. shares surged 5% after the utility boosted its profit forecast by 22% to 360 billion yen. This positive outlook, coupled with activist investor Elliott's increased stake, has driven the stock's
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/japans-kansai-electric-shares-rise-5-after-forecasting-higher-profit-dividend/articleshow/124986238.cms
+- BPCL Q2 Results: Cons PAT shoots up 170% YoY to Rs 6,191 crore; Rs 7.5 per share dividend announced
+  BPCL posted a 170% YoY surge in consolidated net profit to Rs 6,191 crore in Q2FY26. Revenue rose 3% to Rs 1.21 lakh crore
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/bpcl-q2-results-cons-pat-shoots-up-170-yoy-to-rs-6191-crore-rs-7-5-per-share-dividend-announced/articleshow/124993965.cms
 
-- Mphasis Q2 Results: Net profit up 11% YoY to Rs 469 crore; revenue rises to Rs 3,902 crore
-  Mphasis reported a 10.79% increase in net profit to Rs 469 crore for the July-September quarter. The company's CEO highlighted strong total contract value wins of USD 528 million.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/mphasis-q2-results-net-profit-up-11-yoy-to-rs-469-crore-revenue-rises-to-rs-3902-crore/articleshow/124986190.cms
+- Bank of India, Canara Bank among 6 PSU banking stocks to hit 52-week highs; gain up to 14% in a month
+  On Friday, the benchmark Sensex declined by around 465 points, settling at 83,938. Six PSU banking stocks from the BSE PSU Bank Index scaled fresh 52-week highs. Indian Bank, Bank of India, and Can
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bank-of-india-canara-bank-among-6-psu-banking-stocks-to-hit-52-week-highs-gain-up-to-14-in-a-month/slideshow/124993838.cms
 
-- US-China find temporary truce: What it means for India and global markets
-  A recent US-China meeting signals a pause in trade tensions. The outcome suggests ongoing concessions and a move towards negotiation. This development could impact India's supply-chain advantage.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/us-china-find-temporary-truce-what-it-means-for-india-and-global-markets/articleshow/124986167.cms
+- Euro area bond yields on track for two straight weekly rise after Fed, ECB
+  Euro zone government bond yields are on track for a second straight weekly rise.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/euro-area-bond-yields-on-track-for-two-straight-weekly-rise-after-fed-ecb/articleshow/124993495.cms
 
-- Bitcoin shows signs of recovery, hovers near $109K after profit booking-led pullback
-  Bitcoin stabilised around $109,000 after a brief correction triggered by profit booking and cautious Fed signals. Analysts cite
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-shows-signs-of-recovery-hovers-near-109k-after-profit-booking-led-pullback/articleshow/124986003.cms
+- India bonds rebound as RBI lowers auction supply
+  Indian government bonds rose by close of trade on Friday as the central bank sold lesser debt than scheduled at a weekly auction.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-rebound-as-rbi-lowers-auction-supply/articleshow/124993458.cms
 
-- Maruti Suzuki Q2 Results Live Updates: Profit to likely jump 18% YoY; revenue may rise 8%
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/maruti-suzuki-q2-results-maruti-suzuki-india-q2-fy26-revenue-earning-net-profit-dividend-date-time-31-october-2025/liveblog/124985726.cms
+- Shriram Finance Q2 Results: Profit rises 7% to Rs 2,314 crore
+  Shriram Finance Ltd reported a 7 per cent increase in consolidated net profit at Rs 2,314 crore in the second quarter of the current fiscal year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q2-profit-rises-7-pc-to-rs-2314-cr/articleshow/124992500.cms
 
-- 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
-  'You'll Never Do Business': Trump Brags Of
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
+- India, U.S. ink 10-year defence framework pact as Hegseth meets Rajnath Singh - The Hindu
+  India, U.S. ink 10-year defence
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2wtcXd3NkM2cHFacUs3RTZWTGlDaXZVUktNRkJLRUpkNEpwa1VVeWVzWmlFbDVvaDROV1NvU0lFeGRUSk1Tc0lPeGg2RmY3d1U3cXhIeWc4X3czSTQwZmE4Nm9jZU5nekJmU0ZKUGl2NEhWSzB1TGpKTWYxbjhRQnViOEd2dC1URlNZMTNqSTBpc0ZWbzlGc3g1UFQwTzF1U1FCNjRB0gGsAUFVX3lxTE1jeVdhUG0yUEVXVjFaVTBBUGFwQUw1UUVSVW9vTFFERkYwS0FiMm1sdjV3T0tGT3FaOWliZ21aM25tT3JiNm03TVU5Snota242NXVoYm9iSFlrSTZ1WG53QUxPcmgzQ29ITkRvY3Mta3U4ZlE0VHhTX2JKdlh1UDdMU0loWElzcDJfN2pKUFhKbGtIbVpqUEFyUnY0anlmX1N6c3h3dnFQRGVPaUk?oc=5
 
-- Pakistan blamed India for failed talks with Taliban, but secret US drone deal the real cause | World News - Hindustan Times
-  Pakistan blamed India for failed talks with Taliban, but secret US drone deal the real cause.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZVNUVmJqZEJQbHJYV28xcDREbF9aVElEaTZRdVVib0R0T2lYaG02SzVFd2p4MkFNUm1SQmxSSVVJX2FOT21DSGlkellxcWN1YTlqdTRyUnJmcjZpMmQ5M0tCVGl2MVRjQ3VZdHB0Z1F5WDZDdkM0dVFsQXphZ1B5bGZMMFB6MGphSlR2dHg0VC02YjZldVA1XzZLTlA0TGJlalN0eE5ERTFtenF4MXNmWHhOdldZancxblF3YlpmWXpmeDRQMFZRM1Q0djNibUdrb045T3hyajF0OHQ5ckJyWW9GcGNqd1hqLWfSAe8BQVVfeXFMUDhQbEFiMk5CUE9nSy05MmFWNWt3ZWNLWVl3T3N2TWY3ZS1lN1V3RnU2M0pSaXg3OGhYZjl6UG9nNXZreGlRNHd6SlhDbXRIYS1NeXUxS01BY2tpbTFnZmI3SzFhNUVyRElPNkFTZW9BNTZ0UUl6RmZ1YjNnYV94dC10eF95a1VtMkc2c2R5MVhXNkFRZG5xLUs5VllqTlpGVlRXcEFVRzFQWkY4N2t2c0pxZWxFemJ3bUdzMFdRYkx6djQ1ZUVKMk04UzRwTmU4bFIwR1FoNWl6VWdwdFJmSjcxZndOVzFPSi1GRmN5bmc?oc=5
+- Rajnath Singh, Pete Hegseth Sign 10-Year India-US Defence Pact To Strengthen Indo-Pacific Security - Times of India
+  Rajnath Singh, Pete Hegseth Sign 10
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQWNYY3VBdUJYWllaQ0lyM09zOFYwbmdoSTRMTzlPVTJKeWFmUjBaYXVDV1l6Q05wbWhTWjRMdFFXVDA0clFxa0hiWVdYTmI3QmhkUkhOXzc4R3pWa2ZUWmdXOHJQb0NzUlowM0hUQ3g2cWlQODJoWDdrcUxIM2FfZHV5NGoxR0JNakx4TVE4ZUVkZWtlUjcxX3B1elJiOUluZFFfcnl5LUQ3TklQY1AzUGtZY1MzMVY4OW5IRms5UUdLN0NlU2U3T204dHlpdUo1TVJhRE1xNFhIc3Q5RFBvd1pJQnBydUJxLXhJcDM3X1dFYW02M1NiRk90VU1YQdIBgwJBVV95cUxOTUdMdXc1ZVM2MHo3TUpKSlRYX1VpR3UxcUYwUXJWY1EzQTVEazQ3RFhtdUNXTnczM1Z3OXY3NGdrbnlDYks3S1RGMWZSY0lmd29XdTZWbDl1cFBaMEVUNEdFaVZ4dTBuUnlHMkFyTkhIV3RoZW0yQXBlQlJtdEhsM1l0eHM0U2tYUERMVnpVSWdEbHFGdmlXcGFfMEozVDVVa2JoMDJwZ3pldnhqOXp5V25uTlB1RnY0WmJBbEE2cExuMDFNMFZHTUlyUFJBSU5tMTMwNmV2RWtwcWR4ZGdkaHU1NGFNTjlXc2ZNeDVOdF9tVEJkWHBnVzRJYnFPaUExbEZF?oc=5
 
-- India to launch its own caller ID tech CNAP, here is how it could rival Truecaller - India Today
-  India to launch its own caller ID tech CNAP, here is how it
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdTN6Mml5RHRUY052a1hDR2hwZUJTTDFfSTRybF81eUlWaWtQMGdsN3pSZkpIT0l0MjNmTzEzeVB6NlRyTnZHY29FWFRTdy04WHFVUVBwdi1yRlBISWRLZVNBNWFhSEtISUFKeXdNNHlONnljcExyZG13LTlSb3FLQnJUbXRtd3pvR3l5eWM2TUR2dUtLRGk1NUxQUlVMZ2pLN1pJal9TWk1senF5YkRicmd0RlY2MEJKZ1dnem1BcGoybl9PZFZ4dWI4ZExmYTNVQ0ZocEE2dXN0cVJEWHRKWHVB0gHnAUFVX3lxTFBxUHpZSEJsaml0aVFHN2RqNkNmODktY25HQjMxaUtRTUtvUTU1TmRhdFV5NmowOWhJa0VVVWRBdWZQUldlTTZXMjB3Q2h4dE83ZzhkOG9rSW5TSW5xSzUxZXNqWWc4TW4wbXg0U1lDaWRVeDVzNjk1MDk0cGFRYmtMeVMxeThZMFNwT2xlZ2ZIRU52S0hmSXRhTF9DTE5wc0R3cjJzVjB0QnZCbVZKU25XZ0dnbU1ic1pkWV9YUGNpeHIyV0FrSTd3TG10WUJsd0hjUVdRUXNZdTE3V2N0TFJ0ZzJQR2MzOA?oc=5
-
-- Rashtriya Ekta Diwas: PM Modi pays tributes to Sardar Patel at Statue of Unity in Gujarat - The Hindu
-  Rashtriya Ekta Diwas: PM Modi pays tributes to
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSUw3dm1kSUM3bU16QVRTcC0tOE5EdGdjZjN4eG5WSFQwaTdiUUMwdjduOFpuTG1sS05wZkZ0VG1Xdzdrb29KNV9pbFdIQnZPQ2ZYd1dJUFJ3dzdqbFlnVkNCcGVMQkd0dlFvNGE1a0N6ZXBSWURSR3JEQ3BBbGhFcHFmZEhHSElDakxjMTBMdEp1YVFoS0VtVmlURk1IZWgxNDlSN1VDcVhfV25DMjZZaFV1SHJaTEVVYklmZldSSUFBSE5RbWpvUHNyWE5ZWFBoZlhyNm43UDJMZmRFc2NiUW9wVlJ1eVRtcWx4RWQwWQ?oc=5
-
-- Pics: PM Modi Pays Tributes To Sardar Vallabhbhai Patel At Statue Of Unity - NDTV
-  PM Modi Pays Tributes To Sardar Vallab
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQMHBCZmtob09paFVxd2tqZkJmOHB4UFowZUpUWFhTOFJ3SVpGaHdJLTZUS1VXcjlzcnZWRld6YjAzZ2duVG5xS1E3Y2pqUjd2ZnFHa3hmTVhwRmJiSzNlLVFTZW5tY2VtM295QXpWY1dnRXRFSTdjVHNlZ1ZPT3hzTU52RlREYUtlRjJlYUZDcDA5N2tnZUZtejIzRmtINTd0b0xhelhwR3U5QUZMNnM4UlpwRlJuSFVOa181cDFrcTVlQUpXMGtLcGE4VXVjVm9xLUdaVnl0cDZ1MWtjc00ta0w4ZUpCb01TQkVtUDlXME1uWktiM2I0clJGZTg5NDc3anhF0gGLAkFVX3lxTE1EZnlaaTJXWlE0ZUNqTkJKSGZmenNCYzgzS1FLUFR4UUxzS1oyekR3OV9lQWVIRl82NnRJb0tGaXMwYzllMzN1dXNDRzRKSmVzem1XWHVrbUZIWjNoLWhFSHpHVVBBLVBQNzE4TGJ2X3dwYXNxV3Q1N19UMDRqVklkVllSQllWNk1WSjduczhZeW9CTUxFTkZTMjZLRjhzWHl5alhfRzZnYWlIZlJjbURKZDVIXzFJaThST1lmRzBPSnk5VEh6QVY5b1NIQjhncnFCX0M4Ul9EQ0lwejlxd2pmQTN6NnBpUllPdFpUSXlENDNMUEZmdGxheG9PQ3BFZVFkREVIZ3ZjOHRoVQ?oc=5
+- 'Ties never been stronger': US signs big 10-year Defence Framework with India | Latest News India - Hindustan Times
+  'Ties never been stronger': US signs big 10-year Defence Framework
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVE9RRnpGQ0plelRwQjJTVm9GQS1WY0hpSUpMREt1ZnB4b082ckFoU2NybWphMjEtbkdfNHdoX2RyNE11X25icWxWLVZiTm9POHBxVXVEOTgwblo0X0FWcnJNcnh2X1l2XzlnNlJvbmlScERUQU9xUWVNUlBKQXBIeEZLWXhRb2Y5V3lRUXhpRDJWNGcxcE5Ca1ZtazZCS0dIM2w1Y0Z6LV9TWTlHaVFGZkhNUHFScmQxbmQ1dERvbXN3Uk05bS1UQTFIWlFERGFqdlNv0gHYAUFVX3lxTE93UFFISXc0R0hEc2N1cHdNMjRkcEVBclhHVG9tVHk1WDZ3Wm1BX1VoNi13RTdXREZCQndYMFpvM3VBbloweVRTSkFXTktZTmNWLS1kY05ld1Q2eVotLTVZRUZkaDFMTkVEZnBka3lKN1hFTUk2WDEyTl9NTVhjbnpzNTVveGFELXlBUl9hbk9TU3EzR1EyMGNEN1NmamxiZmd5azlHMERrVW9CTmhrazZfN2FTVEs1Sno1Ql8zUWxRbEhHRkpTcmNuTnB5VG9lVFZ5ZkFBRUtHaQ?oc=5
 
 - 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
   'You'll Never Do Business': Trump Brags Of
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
 
-- Pakistan blamed India for failed talks with Taliban, but secret US drone deal the real cause | World News - Hindustan Times
-  Pakistan blamed India for failed talks with Taliban, but secret US drone deal the real cause.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZVNUVmJqZEJQbHJYV28xcDREbF9aVElEaTZRdVVib0R0T2lYaG02SzVFd2p4MkFNUm1SQmxSSVVJX2FOT21DSGlkellxcWN1YTlqdTRyUnJmcjZpMmQ5M0tCVGl2MVRjQ3VZdHB0Z1F5WDZDdkM0dVFsQXphZ1B5bGZMMFB6MGphSlR2dHg0VC02YjZldVA1XzZLTlA0TGJlalN0eE5ERTFtenF4MXNmWHhOdldZancxblF3YlpmWXpmeDRQMFZRM1Q0djNibUdrb045T3hyajF0OHQ5ckJyWW9GcGNqd1hqLWfSAe8BQVVfeXFMUDhQbEFiMk5CUE9nSy05MmFWNWt3ZWNLWVl3T3N2TWY3ZS1lN1V3RnU2M0pSaXg3OGhYZjl6UG9nNXZreGlRNHd6SlhDbXRIYS1NeXUxS01BY2tpbTFnZmI3SzFhNUVyRElPNkFTZW9BNTZ0UUl6RmZ1YjNnYV94dC10eF95a1VtMkc2c2R5MVhXNkFRZG5xLUs5VllqTlpGVlRXcEFVRzFQWkY4N2t2c0pxZWxFemJ3bUdzMFdRYkx6djQ1ZUVKMk04UzRwTmU4bFIwR1FoNWl6VWdwdFJmSjcxZndOVzFPSi1GRmN5bmc?oc=5
+- Can impact India-Russia ties: Top court asks Centre to act in custody battle case - India Today
+  The case could impact India-Russia ties. It is
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbV9tRHBvTTA0c1VkTDlncXpuNjVPVnlmelJIdGZPX2hTNGgxZlFrbnRsdEF1d214LVJHUlE3dDBVdWIxMG1UYS1IMDVHUE5HZ1dpamJDb0YwM0NuSnRsZUU3cFNRZWh5TVVxZUhhNjdrc3VaN1VXdUVkLVhaWkxFY3dvTGMwWkJId3JjVlUwTFhiRFAwZTAzOXUzQkRrQVJDOVJkaWhvWHllSUozbUQwV1VvT3UwZUxVcWZHVXpNS3g4UzcyYm1JSzRZV1EwbFBBcWFkMmRyOHNWWmlSTUJ2dWR6bF8wVEUyU1pscmhOdHBTT3cwenJIUXNUOTh4N1pWM3NlTy1MUkUxSlHSAZACQVVfeXFMTlFwejkyVnBsQnIyeWdiVGlFN0xOY0tSeHN0LXloRWJ0VmF4Qk9iMVNPMlR0cndqQU44Z2thZW0wRmhkSUtnczdQejZucVpySW9PLUZ3NWJYcjFCZUNlUkx4T0ZFLVpNeU9LMVJIcDFmSDR1bXN2d3ZpdjVzb3BhTDkzZUllZWJkTkZjWGZMeTB0SWVPbVVBSkZERWo4QWxubFFpbGRTb2N0WC05eUg4Y1ZuV2E0VU9Jc2ttZEppMzk3d3g0NDNCRmdHdXpDa1RZUF9VSnhoZTNXOGlmTnppa09HRnF5UHNrbXRwczRUZjhxcFRtTDczTjZxbXhMZTBoNTFGenlnbFFPZzhPTTZoQVg?oc=5
 
-- India to launch its own caller ID tech CNAP, here is how it could rival Truecaller - India Today
-  India to launch its own caller ID tech CNAP, here is how it
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdTN6Mml5RHRUY052a1hDR2hwZUJTTDFfSTRybF81eUlWaWtQMGdsN3pSZkpIT0l0MjNmTzEzeVB6NlRyTnZHY29FWFRTdy04WHFVUVBwdi1yRlBISWRLZVNBNWFhSEtISUFKeXdNNHlONnljcExyZG13LTlSb3FLQnJUbXRtd3pvR3l5eWM2TUR2dUtLRGk1NUxQUlVMZ2pLN1pJal9TWk1senF5YkRicmd0RlY2MEJKZ1dnem1BcGoybl9PZFZ4dWI4ZExmYTNVQ0ZocEE2dXN0cVJEWHRKWHVB0gHnAUFVX3lxTFBxUHpZSEJsaml0aVFHN2RqNkNmODktY25HQjMxaUtRTUtvUTU1TmRhdFV5NmowOWhJa0VVVWRBdWZQUldlTTZXMjB3Q2h4dE83ZzhkOG9rSW5TSW5xSzUxZXNqWWc4TW4wbXg0U1lDaWRVeDVzNjk1MDk0cGFRYmtMeVMxeThZMFNwT2xlZ2ZIRU52S0hmSXRhTF9DTE5wc0R3cjJzVjB0QnZCbVZKU25XZ0dnbU1ic1pkWV9YUGNpeHIyV0FrSTd3TG10WUJsd0hjUVdRUXNZdTE3V2N0TFJ0ZzJQR2MzOA?oc=5
+- India, U.S. ink 10-year defence framework pact as Hegseth meets Rajnath Singh - The Hindu
+  India, U.S. ink 10-year defence
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2wtcXd3NkM2cHFacUs3RTZWTGlDaXZVUktNRkJLRUpkNEpwa1VVeWVzWmlFbDVvaDROV1NvU0lFeGRUSk1Tc0lPeGg2RmY3d1U3cXhIeWc4X3czSTQwZmE4Nm9jZU5nekJmU0ZKUGl2NEhWSzB1TGpKTWYxbjhRQnViOEd2dC1URlNZMTNqSTBpc0ZWbzlGc3g1UFQwTzF1U1FCNjRB0gGsAUFVX3lxTE1jeVdhUG0yUEVXVjFaVTBBUGFwQUw1UUVSVW9vTFFERkYwS0FiMm1sdjV3T0tGT3FaOWliZ21aM25tT3JiNm03TVU5Snota242NXVoYm9iSFlrSTZ1WG53QUxPcmgzQ29ITkRvY3Mta3U4ZlE0VHhTX2JKdlh1UDdMU0loWElzcDJfN2pKUFhKbGtIbVpqUEFyUnY0anlmX1N6c3h3dnFQRGVPaUk?oc=5
 
-- Rashtriya Ekta Diwas: PM Modi pays tributes to Sardar Patel at Statue of Unity in Gujarat - The Hindu
-  Rashtriya Ekta Diwas: PM Modi pays tributes to
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSUw3dm1kSUM3bU16QVRTcC0tOE5EdGdjZjN4eG5WSFQwaTdiUUMwdjduOFpuTG1sS05wZkZ0VG1Xdzdrb29KNV9pbFdIQnZPQ2ZYd1dJUFJ3dzdqbFlnVkNCcGVMQkd0dlFvNGE1a0N6ZXBSWURSR3JEQ3BBbGhFcHFmZEhHSElDakxjMTBMdEp1YVFoS0VtVmlURk1IZWgxNDlSN1VDcVhfV25DMjZZaFV1SHJaTEVVYklmZldSSUFBSE5RbWpvUHNyWE5ZWFBoZlhyNm43UDJMZmRFc2NiUW9wVlJ1eVRtcWx4RWQwWQ?oc=5
+- Rajnath Singh, Pete Hegseth Sign 10-Year India-US Defence Pact To Strengthen Indo-Pacific Security - Times of India
+  Rajnath Singh, Pete Hegseth Sign 10
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQWNYY3VBdUJYWllaQ0lyM09zOFYwbmdoSTRMTzlPVTJKeWFmUjBaYXVDV1l6Q05wbWhTWjRMdFFXVDA0clFxa0hiWVdYTmI3QmhkUkhOXzc4R3pWa2ZUWmdXOHJQb0NzUlowM0hUQ3g2cWlQODJoWDdrcUxIM2FfZHV5NGoxR0JNakx4TVE4ZUVkZWtlUjcxX3B1elJiOUluZFFfcnl5LUQ3TklQY1AzUGtZY1MzMVY4OW5IRms5UUdLN0NlU2U3T204dHlpdUo1TVJhRE1xNFhIc3Q5RFBvd1pJQnBydUJxLXhJcDM3X1dFYW02M1NiRk90VU1YQdIBgwJBVV95cUxOTUdMdXc1ZVM2MHo3TUpKSlRYX1VpR3UxcUYwUXJWY1EzQTVEazQ3RFhtdUNXTnczM1Z3OXY3NGdrbnlDYks3S1RGMWZSY0lmd29XdTZWbDl1cFBaMEVUNEdFaVZ4dTBuUnlHMkFyTkhIV3RoZW0yQXBlQlJtdEhsM1l0eHM0U2tYUERMVnpVSWdEbHFGdmlXcGFfMEozVDVVa2JoMDJwZ3pldnhqOXp5V25uTlB1RnY0WmJBbEE2cExuMDFNMFZHTUlyUFJBSU5tMTMwNmV2RWtwcWR4ZGdkaHU1NGFNTjlXc2ZNeDVOdF9tVEJkWHBnVzRJYnFPaUExbEZF?oc=5
 
-- Pics: PM Modi Pays Tributes To Sardar Vallabhbhai Patel At Statue Of Unity - NDTV
-  PM Modi Pays Tributes To Sardar Vallab
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQMHBCZmtob09paFVxd2tqZkJmOHB4UFowZUpUWFhTOFJ3SVpGaHdJLTZUS1VXcjlzcnZWRld6YjAzZ2duVG5xS1E3Y2pqUjd2ZnFHa3hmTVhwRmJiSzNlLVFTZW5tY2VtM295QXpWY1dnRXRFSTdjVHNlZ1ZPT3hzTU52RlREYUtlRjJlYUZDcDA5N2tnZUZtejIzRmtINTd0b0xhelhwR3U5QUZMNnM4UlpwRlJuSFVOa181cDFrcTVlQUpXMGtLcGE4VXVjVm9xLUdaVnl0cDZ1MWtjc00ta0w4ZUpCb01TQkVtUDlXME1uWktiM2I0clJGZTg5NDc3anhF0gGLAkFVX3lxTE1EZnlaaTJXWlE0ZUNqTkJKSGZmenNCYzgzS1FLUFR4UUxzS1oyekR3OV9lQWVIRl82NnRJb0tGaXMwYzllMzN1dXNDRzRKSmVzem1XWHVrbUZIWjNoLWhFSHpHVVBBLVBQNzE4TGJ2X3dwYXNxV3Q1N19UMDRqVklkVllSQllWNk1WSjduczhZeW9CTUxFTkZTMjZLRjhzWHl5alhfRzZnYWlIZlJjbURKZDVIXzFJaThST1lmRzBPSnk5VEh6QVY5b1NIQjhncnFCX0M4Ul9EQ0lwejlxd2pmQTN6NnBpUllPdFpUSXlENDNMUEZmdGxheG9PQ3BFZVFkREVIZ3ZjOHRoVQ?oc=5
-
-- 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
-  'You'll Never Do Business': Trump Brags Of
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
-
-- Pakistan blamed India for failed talks with Taliban, but secret US drone deal the real cause | World News - Hindustan Times
-  Pakistan blamed India for failed talks with Taliban, but secret US drone deal the real cause.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZVNUVmJqZEJQbHJYV28xcDREbF9aVElEaTZRdVVib0R0T2lYaG02SzVFd2p4MkFNUm1SQmxSSVVJX2FOT21DSGlkellxcWN1YTlqdTRyUnJmcjZpMmQ5M0tCVGl2MVRjQ3VZdHB0Z1F5WDZDdkM0dVFsQXphZ1B5bGZMMFB6MGphSlR2dHg0VC02YjZldVA1XzZLTlA0TGJlalN0eE5ERTFtenF4MXNmWHhOdldZancxblF3YlpmWXpmeDRQMFZRM1Q0djNibUdrb045T3hyajF0OHQ5ckJyWW9GcGNqd1hqLWfSAe8BQVVfeXFMUDhQbEFiMk5CUE9nSy05MmFWNWt3ZWNLWVl3T3N2TWY3ZS1lN1V3RnU2M0pSaXg3OGhYZjl6UG9nNXZreGlRNHd6SlhDbXRIYS1NeXUxS01BY2tpbTFnZmI3SzFhNUVyRElPNkFTZW9BNTZ0UUl6RmZ1YjNnYV94dC10eF95a1VtMkc2c2R5MVhXNkFRZG5xLUs5VllqTlpGVlRXcEFVRzFQWkY4N2t2c0pxZWxFemJ3bUdzMFdRYkx6djQ1ZUVKMk04UzRwTmU4bFIwR1FoNWl6VWdwdFJmSjcxZndOVzFPSi1GRmN5bmc?oc=5
-
-- India to launch its own caller ID tech CNAP, here is how it could rival Truecaller - India Today
-  India to launch its own caller ID tech CNAP, here is how it
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdTN6Mml5RHRUY052a1hDR2hwZUJTTDFfSTRybF81eUlWaWtQMGdsN3pSZkpIT0l0MjNmTzEzeVB6NlRyTnZHY29FWFRTdy04WHFVUVBwdi1yRlBISWRLZVNBNWFhSEtISUFKeXdNNHlONnljcExyZG13LTlSb3FLQnJUbXRtd3pvR3l5eWM2TUR2dUtLRGk1NUxQUlVMZ2pLN1pJal9TWk1senF5YkRicmd0RlY2MEJKZ1dnem1BcGoybl9PZFZ4dWI4ZExmYTNVQ0ZocEE2dXN0cVJEWHRKWHVB0gHnAUFVX3lxTFBxUHpZSEJsaml0aVFHN2RqNkNmODktY25HQjMxaUtRTUtvUTU1TmRhdFV5NmowOWhJa0VVVWRBdWZQUldlTTZXMjB3Q2h4dE83ZzhkOG9rSW5TSW5xSzUxZXNqWWc4TW4wbXg0U1lDaWRVeDVzNjk1MDk0cGFRYmtMeVMxeThZMFNwT2xlZ2ZIRU52S0hmSXRhTF9DTE5wc0R3cjJzVjB0QnZCbVZKU25XZ0dnbU1ic1pkWV9YUGNpeHIyV0FrSTd3TG10WUJsd0hjUVdRUXNZdTE3V2N0TFJ0ZzJQR2MzOA?oc=5
-
-- Rashtriya Ekta Diwas: PM Modi pays tributes to Sardar Patel at Statue of Unity in Gujarat - The Hindu
-  Rashtriya Ekta Diwas: PM Modi pays tributes to
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSUw3dm1kSUM3bU16QVRTcC0tOE5EdGdjZjN4eG5WSFQwaTdiUUMwdjduOFpuTG1sS05wZkZ0VG1Xdzdrb29KNV9pbFdIQnZPQ2ZYd1dJUFJ3dzdqbFlnVkNCcGVMQkd0dlFvNGE1a0N6ZXBSWURSR3JEQ3BBbGhFcHFmZEhHSElDakxjMTBMdEp1YVFoS0VtVmlURk1IZWgxNDlSN1VDcVhfV25DMjZZaFV1SHJaTEVVYklmZldSSUFBSE5RbWpvUHNyWE5ZWFBoZlhyNm43UDJMZmRFc2NiUW9wVlJ1eVRtcWx4RWQwWQ?oc=5
-
-- Pics: PM Modi Pays Tributes To Sardar Vallabhbhai Patel At Statue Of Unity - NDTV
-  PM Modi Pays Tributes To Sardar Vallab
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQMHBCZmtob09paFVxd2tqZkJmOHB4UFowZUpUWFhTOFJ3SVpGaHdJLTZUS1VXcjlzcnZWRld6YjAzZ2duVG5xS1E3Y2pqUjd2ZnFHa3hmTVhwRmJiSzNlLVFTZW5tY2VtM295QXpWY1dnRXRFSTdjVHNlZ1ZPT3hzTU52RlREYUtlRjJlYUZDcDA5N2tnZUZtejIzRmtINTd0b0xhelhwR3U5QUZMNnM4UlpwRlJuSFVOa181cDFrcTVlQUpXMGtLcGE4VXVjVm9xLUdaVnl0cDZ1MWtjc00ta0w4ZUpCb01TQkVtUDlXME1uWktiM2I0clJGZTg5NDc3anhF0gGLAkFVX3lxTE1EZnlaaTJXWlE0ZUNqTkJKSGZmenNCYzgzS1FLUFR4UUxzS1oyekR3OV9lQWVIRl82NnRJb0tGaXMwYzllMzN1dXNDRzRKSmVzem1XWHVrbUZIWjNoLWhFSHpHVVBBLVBQNzE4TGJ2X3dwYXNxV3Q1N19UMDRqVklkVllSQllWNk1WSjduczhZeW9CTUxFTkZTMjZLRjhzWHl5alhfRzZnYWlIZlJjbURKZDVIXzFJaThST1lmRzBPSnk5VEh6QVY5b1NIQjhncnFCX0M4Ul9EQ0lwejlxd2pmQTN6NnBpUllPdFpUSXlENDNMUEZmdGxheG9PQ3BFZVFkREVIZ3ZjOHRoVQ?oc=5
+- 'Ties never been stronger': US signs big 10-year Defence Framework with India | Latest News India - Hindustan Times
+  'Ties never been stronger': US signs big 10-year Defence Framework
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVE9RRnpGQ0plelRwQjJTVm9GQS1WY0hpSUpMREt1ZnB4b082ckFoU2NybWphMjEtbkdfNHdoX2RyNE11X25icWxWLVZiTm9POHBxVXVEOTgwblo0X0FWcnJNcnh2X1l2XzlnNlJvbmlScERUQU9xUWVNUlBKQXBIeEZLWXhRb2Y5V3lRUXhpRDJWNGcxcE5Ca1ZtazZCS0dIM2w1Y0Z6LV9TWTlHaVFGZkhNUHFScmQxbmQ1dERvbXN3Uk05bS1UQTFIWlFERGFqdlNv0gHYAUFVX3lxTE93UFFISXc0R0hEc2N1cHdNMjRkcEVBclhHVG9tVHk1WDZ3Wm1BX1VoNi13RTdXREZCQndYMFpvM3VBbloweVRTSkFXTktZTmNWLS1kY05ld1Q2eVotLTVZRUZkaDFMTkVEZnBka3lKN1hFTUk2WDEyTl9NTVhjbnpzNTVveGFELXlBUl9hbk9TU3EzR1EyMGNEN1NmamxiZmd5azlHMERrVW9CTmhrazZfN2FTVEs1Sno1Ql8zUWxRbEhHRkpTcmNuTnB5VG9lVFZ5ZkFBRUtHaQ?oc=5
 
 - 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
   'You'll Never Do Business': Trump Brags Of
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
 
-- Pakistan blamed India for failed talks with Taliban, but secret US drone deal the real cause | World News - Hindustan Times
-  Pakistan blamed India for failed talks with Taliban, but secret US drone deal the real cause.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZVNUVmJqZEJQbHJYV28xcDREbF9aVElEaTZRdVVib0R0T2lYaG02SzVFd2p4MkFNUm1SQmxSSVVJX2FOT21DSGlkellxcWN1YTlqdTRyUnJmcjZpMmQ5M0tCVGl2MVRjQ3VZdHB0Z1F5WDZDdkM0dVFsQXphZ1B5bGZMMFB6MGphSlR2dHg0VC02YjZldVA1XzZLTlA0TGJlalN0eE5ERTFtenF4MXNmWHhOdldZancxblF3YlpmWXpmeDRQMFZRM1Q0djNibUdrb045T3hyajF0OHQ5ckJyWW9GcGNqd1hqLWfSAe8BQVVfeXFMUDhQbEFiMk5CUE9nSy05MmFWNWt3ZWNLWVl3T3N2TWY3ZS1lN1V3RnU2M0pSaXg3OGhYZjl6UG9nNXZreGlRNHd6SlhDbXRIYS1NeXUxS01BY2tpbTFnZmI3SzFhNUVyRElPNkFTZW9BNTZ0UUl6RmZ1YjNnYV94dC10eF95a1VtMkc2c2R5MVhXNkFRZG5xLUs5VllqTlpGVlRXcEFVRzFQWkY4N2t2c0pxZWxFemJ3bUdzMFdRYkx6djQ1ZUVKMk04UzRwTmU4bFIwR1FoNWl6VWdwdFJmSjcxZndOVzFPSi1GRmN5bmc?oc=5
+- Can impact India-Russia ties: Top court asks Centre to act in custody battle case - India Today
+  The case could impact India-Russia ties. It is
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbV9tRHBvTTA0c1VkTDlncXpuNjVPVnlmelJIdGZPX2hTNGgxZlFrbnRsdEF1d214LVJHUlE3dDBVdWIxMG1UYS1IMDVHUE5HZ1dpamJDb0YwM0NuSnRsZUU3cFNRZWh5TVVxZUhhNjdrc3VaN1VXdUVkLVhaWkxFY3dvTGMwWkJId3JjVlUwTFhiRFAwZTAzOXUzQkRrQVJDOVJkaWhvWHllSUozbUQwV1VvT3UwZUxVcWZHVXpNS3g4UzcyYm1JSzRZV1EwbFBBcWFkMmRyOHNWWmlSTUJ2dWR6bF8wVEUyU1pscmhOdHBTT3cwenJIUXNUOTh4N1pWM3NlTy1MUkUxSlHSAZACQVVfeXFMTlFwejkyVnBsQnIyeWdiVGlFN0xOY0tSeHN0LXloRWJ0VmF4Qk9iMVNPMlR0cndqQU44Z2thZW0wRmhkSUtnczdQejZucVpySW9PLUZ3NWJYcjFCZUNlUkx4T0ZFLVpNeU9LMVJIcDFmSDR1bXN2d3ZpdjVzb3BhTDkzZUllZWJkTkZjWGZMeTB0SWVPbVVBSkZERWo4QWxubFFpbGRTb2N0WC05eUg4Y1ZuV2E0VU9Jc2ttZEppMzk3d3g0NDNCRmdHdXpDa1RZUF9VSnhoZTNXOGlmTnppa09HRnF5UHNrbXRwczRUZjhxcFRtTDczTjZxbXhMZTBoNTFGenlnbFFPZzhPTTZoQVg?oc=5
 
-- India to launch its own caller ID tech CNAP, here is how it could rival Truecaller - India Today
-  India to launch its own caller ID tech CNAP, here is how it
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdTN6Mml5RHRUY052a1hDR2hwZUJTTDFfSTRybF81eUlWaWtQMGdsN3pSZkpIT0l0MjNmTzEzeVB6NlRyTnZHY29FWFRTdy04WHFVUVBwdi1yRlBISWRLZVNBNWFhSEtISUFKeXdNNHlONnljcExyZG13LTlSb3FLQnJUbXRtd3pvR3l5eWM2TUR2dUtLRGk1NUxQUlVMZ2pLN1pJal9TWk1senF5YkRicmd0RlY2MEJKZ1dnem1BcGoybl9PZFZ4dWI4ZExmYTNVQ0ZocEE2dXN0cVJEWHRKWHVB0gHnAUFVX3lxTFBxUHpZSEJsaml0aVFHN2RqNkNmODktY25HQjMxaUtRTUtvUTU1TmRhdFV5NmowOWhJa0VVVWRBdWZQUldlTTZXMjB3Q2h4dE83ZzhkOG9rSW5TSW5xSzUxZXNqWWc4TW4wbXg0U1lDaWRVeDVzNjk1MDk0cGFRYmtMeVMxeThZMFNwT2xlZ2ZIRU52S0hmSXRhTF9DTE5wc0R3cjJzVjB0QnZCbVZKU25XZ0dnbU1ic1pkWV9YUGNpeHIyV0FrSTd3TG10WUJsd0hjUVdRUXNZdTE3V2N0TFJ0ZzJQR2MzOA?oc=5
+- India, U.S. ink 10-year defence framework pact as Hegseth meets Rajnath Singh - The Hindu
+  India, U.S. ink 10-year defence
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2wtcXd3NkM2cHFacUs3RTZWTGlDaXZVUktNRkJLRUpkNEpwa1VVeWVzWmlFbDVvaDROV1NvU0lFeGRUSk1Tc0lPeGg2RmY3d1U3cXhIeWc4X3czSTQwZmE4Nm9jZU5nekJmU0ZKUGl2NEhWSzB1TGpKTWYxbjhRQnViOEd2dC1URlNZMTNqSTBpc0ZWbzlGc3g1UFQwTzF1U1FCNjRB0gGsAUFVX3lxTE1jeVdhUG0yUEVXVjFaVTBBUGFwQUw1UUVSVW9vTFFERkYwS0FiMm1sdjV3T0tGT3FaOWliZ21aM25tT3JiNm03TVU5Snota242NXVoYm9iSFlrSTZ1WG53QUxPcmgzQ29ITkRvY3Mta3U4ZlE0VHhTX2JKdlh1UDdMU0loWElzcDJfN2pKUFhKbGtIbVpqUEFyUnY0anlmX1N6c3h3dnFQRGVPaUk?oc=5
 
-- Rashtriya Ekta Diwas: PM Modi pays tributes to Sardar Patel at Statue of Unity in Gujarat - The Hindu
-  Rashtriya Ekta Diwas: PM Modi pays tributes to
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSUw3dm1kSUM3bU16QVRTcC0tOE5EdGdjZjN4eG5WSFQwaTdiUUMwdjduOFpuTG1sS05wZkZ0VG1Xdzdrb29KNV9pbFdIQnZPQ2ZYd1dJUFJ3dzdqbFlnVkNCcGVMQkd0dlFvNGE1a0N6ZXBSWURSR3JEQ3BBbGhFcHFmZEhHSElDakxjMTBMdEp1YVFoS0VtVmlURk1IZWgxNDlSN1VDcVhfV25DMjZZaFV1SHJaTEVVYklmZldSSUFBSE5RbWpvUHNyWE5ZWFBoZlhyNm43UDJMZmRFc2NiUW9wVlJ1eVRtcWx4RWQwWQ?oc=5
+- Rajnath Singh, Pete Hegseth Sign 10-Year India-US Defence Pact To Strengthen Indo-Pacific Security - Times of India
+  Rajnath Singh, Pete Hegseth Sign 10
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQWNYY3VBdUJYWllaQ0lyM09zOFYwbmdoSTRMTzlPVTJKeWFmUjBaYXVDV1l6Q05wbWhTWjRMdFFXVDA0clFxa0hiWVdYTmI3QmhkUkhOXzc4R3pWa2ZUWmdXOHJQb0NzUlowM0hUQ3g2cWlQODJoWDdrcUxIM2FfZHV5NGoxR0JNakx4TVE4ZUVkZWtlUjcxX3B1elJiOUluZFFfcnl5LUQ3TklQY1AzUGtZY1MzMVY4OW5IRms5UUdLN0NlU2U3T204dHlpdUo1TVJhRE1xNFhIc3Q5RFBvd1pJQnBydUJxLXhJcDM3X1dFYW02M1NiRk90VU1YQdIBgwJBVV95cUxOTUdMdXc1ZVM2MHo3TUpKSlRYX1VpR3UxcUYwUXJWY1EzQTVEazQ3RFhtdUNXTnczM1Z3OXY3NGdrbnlDYks3S1RGMWZSY0lmd29XdTZWbDl1cFBaMEVUNEdFaVZ4dTBuUnlHMkFyTkhIV3RoZW0yQXBlQlJtdEhsM1l0eHM0U2tYUERMVnpVSWdEbHFGdmlXcGFfMEozVDVVa2JoMDJwZ3pldnhqOXp5V25uTlB1RnY0WmJBbEE2cExuMDFNMFZHTUlyUFJBSU5tMTMwNmV2RWtwcWR4ZGdkaHU1NGFNTjlXc2ZNeDVOdF9tVEJkWHBnVzRJYnFPaUExbEZF?oc=5
 
-- Pics: PM Modi Pays Tributes To Sardar Vallabhbhai Patel At Statue Of Unity - NDTV
-  PM Modi Pays Tributes To Sardar Vallab
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQMHBCZmtob09paFVxd2tqZkJmOHB4UFowZUpUWFhTOFJ3SVpGaHdJLTZUS1VXcjlzcnZWRld6YjAzZ2duVG5xS1E3Y2pqUjd2ZnFHa3hmTVhwRmJiSzNlLVFTZW5tY2VtM295QXpWY1dnRXRFSTdjVHNlZ1ZPT3hzTU52RlREYUtlRjJlYUZDcDA5N2tnZUZtejIzRmtINTd0b0xhelhwR3U5QUZMNnM4UlpwRlJuSFVOa181cDFrcTVlQUpXMGtLcGE4VXVjVm9xLUdaVnl0cDZ1MWtjc00ta0w4ZUpCb01TQkVtUDlXME1uWktiM2I0clJGZTg5NDc3anhF0gGLAkFVX3lxTE1EZnlaaTJXWlE0ZUNqTkJKSGZmenNCYzgzS1FLUFR4UUxzS1oyekR3OV9lQWVIRl82NnRJb0tGaXMwYzllMzN1dXNDRzRKSmVzem1XWHVrbUZIWjNoLWhFSHpHVVBBLVBQNzE4TGJ2X3dwYXNxV3Q1N19UMDRqVklkVllSQllWNk1WSjduczhZeW9CTUxFTkZTMjZLRjhzWHl5alhfRzZnYWlIZlJjbURKZDVIXzFJaThST1lmRzBPSnk5VEh6QVY5b1NIQjhncnFCX0M4Ul9EQ0lwejlxd2pmQTN6NnBpUllPdFpUSXlENDNMUEZmdGxheG9PQ3BFZVFkREVIZ3ZjOHRoVQ?oc=5
+- 'Ties never been stronger': US signs big 10-year Defence Framework with India | Latest News India - Hindustan Times
+  'Ties never been stronger': US signs big 10-year Defence Framework
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVE9RRnpGQ0plelRwQjJTVm9GQS1WY0hpSUpMREt1ZnB4b082ckFoU2NybWphMjEtbkdfNHdoX2RyNE11X25icWxWLVZiTm9POHBxVXVEOTgwblo0X0FWcnJNcnh2X1l2XzlnNlJvbmlScERUQU9xUWVNUlBKQXBIeEZLWXhRb2Y5V3lRUXhpRDJWNGcxcE5Ca1ZtazZCS0dIM2w1Y0Z6LV9TWTlHaVFGZkhNUHFScmQxbmQ1dERvbXN3Uk05bS1UQTFIWlFERGFqdlNv0gHYAUFVX3lxTE93UFFISXc0R0hEc2N1cHdNMjRkcEVBclhHVG9tVHk1WDZ3Wm1BX1VoNi13RTdXREZCQndYMFpvM3VBbloweVRTSkFXTktZTmNWLS1kY05ld1Q2eVotLTVZRUZkaDFMTkVEZnBka3lKN1hFTUk2WDEyTl9NTVhjbnpzNTVveGFELXlBUl9hbk9TU3EzR1EyMGNEN1NmamxiZmd5azlHMERrVW9CTmhrazZfN2FTVEs1Sno1Ql8zUWxRbEhHRkpTcmNuTnB5VG9lVFZ5ZkFBRUtHaQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
+  'You'll Never Do Business': Trump Brags Of
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Can impact India-Russia ties: Top court asks Centre to act in custody battle case - India Today
+  The case could impact India-Russia ties. It is
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbV9tRHBvTTA0c1VkTDlncXpuNjVPVnlmelJIdGZPX2hTNGgxZlFrbnRsdEF1d214LVJHUlE3dDBVdWIxMG1UYS1IMDVHUE5HZ1dpamJDb0YwM0NuSnRsZUU3cFNRZWh5TVVxZUhhNjdrc3VaN1VXdUVkLVhaWkxFY3dvTGMwWkJId3JjVlUwTFhiRFAwZTAzOXUzQkRrQVJDOVJkaWhvWHllSUozbUQwV1VvT3UwZUxVcWZHVXpNS3g4UzcyYm1JSzRZV1EwbFBBcWFkMmRyOHNWWmlSTUJ2dWR6bF8wVEUyU1pscmhOdHBTT3cwenJIUXNUOTh4N1pWM3NlTy1MUkUxSlHSAZACQVVfeXFMTlFwejkyVnBsQnIyeWdiVGlFN0xOY0tSeHN0LXloRWJ0VmF4Qk9iMVNPMlR0cndqQU44Z2thZW0wRmhkSUtnczdQejZucVpySW9PLUZ3NWJYcjFCZUNlUkx4T0ZFLVpNeU9LMVJIcDFmSDR1bXN2d3ZpdjVzb3BhTDkzZUllZWJkTkZjWGZMeTB0SWVPbVVBSkZERWo4QWxubFFpbGRTb2N0WC05eUg4Y1ZuV2E0VU9Jc2ttZEppMzk3d3g0NDNCRmdHdXpDa1RZUF9VSnhoZTNXOGlmTnppa09HRnF5UHNrbXRwczRUZjhxcFRtTDczTjZxbXhMZTBoNTFGenlnbFFPZzhPTTZoQVg?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- India, U.S. ink 10-year defence framework pact as Hegseth meets Rajnath Singh - The Hindu
+  India, U.S. ink 10-year defence
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2wtcXd3NkM2cHFacUs3RTZWTGlDaXZVUktNRkJLRUpkNEpwa1VVeWVzWmlFbDVvaDROV1NvU0lFeGRUSk1Tc0lPeGg2RmY3d1U3cXhIeWc4X3czSTQwZmE4Nm9jZU5nekJmU0ZKUGl2NEhWSzB1TGpKTWYxbjhRQnViOEd2dC1URlNZMTNqSTBpc0ZWbzlGc3g1UFQwTzF1U1FCNjRB0gGsAUFVX3lxTE1jeVdhUG0yUEVXVjFaVTBBUGFwQUw1UUVSVW9vTFFERkYwS0FiMm1sdjV3T0tGT3FaOWliZ21aM25tT3JiNm03TVU5Snota242NXVoYm9iSFlrSTZ1WG53QUxPcmgzQ29ITkRvY3Mta3U4ZlE0VHhTX2JKdlh1UDdMU0loWElzcDJfN2pKUFhKbGtIbVpqUEFyUnY0anlmX1N6c3h3dnFQRGVPaUk?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Rajnath Singh, Pete Hegseth Sign 10-Year India-US Defence Pact To Strengthen Indo-Pacific Security - Times of India
+  Rajnath Singh, Pete Hegseth Sign 10
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQWNYY3VBdUJYWllaQ0lyM09zOFYwbmdoSTRMTzlPVTJKeWFmUjBaYXVDV1l6Q05wbWhTWjRMdFFXVDA0clFxa0hiWVdYTmI3QmhkUkhOXzc4R3pWa2ZUWmdXOHJQb0NzUlowM0hUQ3g2cWlQODJoWDdrcUxIM2FfZHV5NGoxR0JNakx4TVE4ZUVkZWtlUjcxX3B1elJiOUluZFFfcnl5LUQ3TklQY1AzUGtZY1MzMVY4OW5IRms5UUdLN0NlU2U3T204dHlpdUo1TVJhRE1xNFhIc3Q5RFBvd1pJQnBydUJxLXhJcDM3X1dFYW02M1NiRk90VU1YQdIBgwJBVV95cUxOTUdMdXc1ZVM2MHo3TUpKSlRYX1VpR3UxcUYwUXJWY1EzQTVEazQ3RFhtdUNXTnczM1Z3OXY3NGdrbnlDYks3S1RGMWZSY0lmd29XdTZWbDl1cFBaMEVUNEdFaVZ4dTBuUnlHMkFyTkhIV3RoZW0yQXBlQlJtdEhsM1l0eHM0U2tYUERMVnpVSWdEbHFGdmlXcGFfMEozVDVVa2JoMDJwZ3pldnhqOXp5V25uTlB1RnY0WmJBbEE2cExuMDFNMFZHTUlyUFJBSU5tMTMwNmV2RWtwcWR4ZGdkaHU1NGFNTjlXc2ZNeDVOdF9tVEJkWHBnVzRJYnFPaUExbEZF?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- 'Ties never been stronger': US signs big 10-year Defence Framework with India | Latest News India - Hindustan Times
+  'Ties never been stronger': US signs big 10-year Defence Framework
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVE9RRnpGQ0plelRwQjJTVm9GQS1WY0hpSUpMREt1ZnB4b082ckFoU2NybWphMjEtbkdfNHdoX2RyNE11X25icWxWLVZiTm9POHBxVXVEOTgwblo0X0FWcnJNcnh2X1l2XzlnNlJvbmlScERUQU9xUWVNUlBKQXBIeEZLWXhRb2Y5V3lRUXhpRDJWNGcxcE5Ca1ZtazZCS0dIM2w1Y0Z6LV9TWTlHaVFGZkhNUHFScmQxbmQ1dERvbXN3Uk05bS1UQTFIWlFERGFqdlNv0gHYAUFVX3lxTE93UFFISXc0R0hEc2N1cHdNMjRkcEVBclhHVG9tVHk1WDZ3Wm1BX1VoNi13RTdXREZCQndYMFpvM3VBbloweVRTSkFXTktZTmNWLS1kY05ld1Q2eVotLTVZRUZkaDFMTkVEZnBka3lKN1hFTUk2WDEyTl9NTVhjbnpzNTVveGFELXlBUl9hbk9TU3EzR1EyMGNEN1NmamxiZmd5azlHMERrVW9CTmhrazZfN2FTVEs1Sno1Ql8zUWxRbEhHRkpTcmNuTnB5VG9lVFZ5ZkFBRUtHaQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
+  'You'll Never Do Business': Trump Brags Of
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Can impact India-Russia ties: Top court asks Centre to act in custody battle case - India Today
+  The case could impact India-Russia ties. It is
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbV9tRHBvTTA0c1VkTDlncXpuNjVPVnlmelJIdGZPX2hTNGgxZlFrbnRsdEF1d214LVJHUlE3dDBVdWIxMG1UYS1IMDVHUE5HZ1dpamJDb0YwM0NuSnRsZUU3cFNRZWh5TVVxZUhhNjdrc3VaN1VXdUVkLVhaWkxFY3dvTGMwWkJId3JjVlUwTFhiRFAwZTAzOXUzQkRrQVJDOVJkaWhvWHllSUozbUQwV1VvT3UwZUxVcWZHVXpNS3g4UzcyYm1JSzRZV1EwbFBBcWFkMmRyOHNWWmlSTUJ2dWR6bF8wVEUyU1pscmhOdHBTT3cwenJIUXNUOTh4N1pWM3NlTy1MUkUxSlHSAZACQVVfeXFMTlFwejkyVnBsQnIyeWdiVGlFN0xOY0tSeHN0LXloRWJ0VmF4Qk9iMVNPMlR0cndqQU44Z2thZW0wRmhkSUtnczdQejZucVpySW9PLUZ3NWJYcjFCZUNlUkx4T0ZFLVpNeU9LMVJIcDFmSDR1bXN2d3ZpdjVzb3BhTDkzZUllZWJkTkZjWGZMeTB0SWVPbVVBSkZERWo4QWxubFFpbGRTb2N0WC05eUg4Y1ZuV2E0VU9Jc2ttZEppMzk3d3g0NDNCRmdHdXpDa1RZUF9VSnhoZTNXOGlmTnppa09HRnF5UHNrbXRwczRUZjhxcFRtTDczTjZxbXhMZTBoNTFGenlnbFFPZzhPTTZoQVg?oc=5
+
+- India, U.S. ink 10-year defence framework pact as Hegseth meets Rajnath Singh - The Hindu
+  India, U.S. ink 10-year defence
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2wtcXd3NkM2cHFacUs3RTZWTGlDaXZVUktNRkJLRUpkNEpwa1VVeWVzWmlFbDVvaDROV1NvU0lFeGRUSk1Tc0lPeGg2RmY3d1U3cXhIeWc4X3czSTQwZmE4Nm9jZU5nekJmU0ZKUGl2NEhWSzB1TGpKTWYxbjhRQnViOEd2dC1URlNZMTNqSTBpc0ZWbzlGc3g1UFQwTzF1U1FCNjRB0gGsAUFVX3lxTE1jeVdhUG0yUEVXVjFaVTBBUGFwQUw1UUVSVW9vTFFERkYwS0FiMm1sdjV3T0tGT3FaOWliZ21aM25tT3JiNm03TVU5Snota242NXVoYm9iSFlrSTZ1WG53QUxPcmgzQ29ITkRvY3Mta3U4ZlE0VHhTX2JKdlh1UDdMU0loWElzcDJfN2pKUFhKbGtIbVpqUEFyUnY0anlmX1N6c3h3dnFQRGVPaUk?oc=5
+
+- Rajnath Singh, Pete Hegseth Sign 10-Year India-US Defence Pact To Strengthen Indo-Pacific Security - Times of India
+  Rajnath Singh, Pete Hegseth Sign 10
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQWNYY3VBdUJYWllaQ0lyM09zOFYwbmdoSTRMTzlPVTJKeWFmUjBaYXVDV1l6Q05wbWhTWjRMdFFXVDA0clFxa0hiWVdYTmI3QmhkUkhOXzc4R3pWa2ZUWmdXOHJQb0NzUlowM0hUQ3g2cWlQODJoWDdrcUxIM2FfZHV5NGoxR0JNakx4TVE4ZUVkZWtlUjcxX3B1elJiOUluZFFfcnl5LUQ3TklQY1AzUGtZY1MzMVY4OW5IRms5UUdLN0NlU2U3T204dHlpdUo1TVJhRE1xNFhIc3Q5RFBvd1pJQnBydUJxLXhJcDM3X1dFYW02M1NiRk90VU1YQdIBgwJBVV95cUxOTUdMdXc1ZVM2MHo3TUpKSlRYX1VpR3UxcUYwUXJWY1EzQTVEazQ3RFhtdUNXTnczM1Z3OXY3NGdrbnlDYks3S1RGMWZSY0lmd29XdTZWbDl1cFBaMEVUNEdFaVZ4dTBuUnlHMkFyTkhIV3RoZW0yQXBlQlJtdEhsM1l0eHM0U2tYUERMVnpVSWdEbHFGdmlXcGFfMEozVDVVa2JoMDJwZ3pldnhqOXp5V25uTlB1RnY0WmJBbEE2cExuMDFNMFZHTUlyUFJBSU5tMTMwNmV2RWtwcWR4ZGdkaHU1NGFNTjlXc2ZNeDVOdF9tVEJkWHBnVzRJYnFPaUExbEZF?oc=5
+
+- 'Ties never been stronger': US signs big 10-year Defence Framework with India | Latest News India - Hindustan Times
+  'Ties never been stronger': US signs big 10-year Defence Framework
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVE9RRnpGQ0plelRwQjJTVm9GQS1WY0hpSUpMREt1ZnB4b082ckFoU2NybWphMjEtbkdfNHdoX2RyNE11X25icWxWLVZiTm9POHBxVXVEOTgwblo0X0FWcnJNcnh2X1l2XzlnNlJvbmlScERUQU9xUWVNUlBKQXBIeEZLWXhRb2Y5V3lRUXhpRDJWNGcxcE5Ca1ZtazZCS0dIM2w1Y0Z6LV9TWTlHaVFGZkhNUHFScmQxbmQ1dERvbXN3Uk05bS1UQTFIWlFERGFqdlNv0gHYAUFVX3lxTE93UFFISXc0R0hEc2N1cHdNMjRkcEVBclhHVG9tVHk1WDZ3Wm1BX1VoNi13RTdXREZCQndYMFpvM3VBbloweVRTSkFXTktZTmNWLS1kY05ld1Q2eVotLTVZRUZkaDFMTkVEZnBka3lKN1hFTUk2WDEyTl9NTVhjbnpzNTVveGFELXlBUl9hbk9TU3EzR1EyMGNEN1NmamxiZmd5azlHMERrVW9CTmhrazZfN2FTVEs1Sno1Ql8zUWxRbEhHRkpTcmNuTnB5VG9lVFZ5ZkFBRUtHaQ?oc=5
+
+- 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
+  'You'll Never Do Business': Trump Brags Of
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
+
+- Can impact India-Russia ties: Top court asks Centre to act in custody battle case - India Today
+  The case could impact India-Russia ties. It is
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbV9tRHBvTTA0c1VkTDlncXpuNjVPVnlmelJIdGZPX2hTNGgxZlFrbnRsdEF1d214LVJHUlE3dDBVdWIxMG1UYS1IMDVHUE5HZ1dpamJDb0YwM0NuSnRsZUU3cFNRZWh5TVVxZUhhNjdrc3VaN1VXdUVkLVhaWkxFY3dvTGMwWkJId3JjVlUwTFhiRFAwZTAzOXUzQkRrQVJDOVJkaWhvWHllSUozbUQwV1VvT3UwZUxVcWZHVXpNS3g4UzcyYm1JSzRZV1EwbFBBcWFkMmRyOHNWWmlSTUJ2dWR6bF8wVEUyU1pscmhOdHBTT3cwenJIUXNUOTh4N1pWM3NlTy1MUkUxSlHSAZACQVVfeXFMTlFwejkyVnBsQnIyeWdiVGlFN0xOY0tSeHN0LXloRWJ0VmF4Qk9iMVNPMlR0cndqQU44Z2thZW0wRmhkSUtnczdQejZucVpySW9PLUZ3NWJYcjFCZUNlUkx4T0ZFLVpNeU9LMVJIcDFmSDR1bXN2d3ZpdjVzb3BhTDkzZUllZWJkTkZjWGZMeTB0SWVPbVVBSkZERWo4QWxubFFpbGRTb2N0WC05eUg4Y1ZuV2E0VU9Jc2ttZEppMzk3d3g0NDNCRmdHdXpDa1RZUF9VSnhoZTNXOGlmTnppa09HRnF5UHNrbXRwczRUZjhxcFRtTDczTjZxbXhMZTBoNTFGenlnbFFPZzhPTTZoQVg?oc=5
 
 
-_Last updated: 2025-10-31 06:27:46 UTC_
+_Last updated: 2025-10-31 12:36:26 UTC_
