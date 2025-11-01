@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Firozpur Cantt-Delhi Vande Bharat Express train: Check route, travel time, stoppages, timings
+- Himachal: Snow leopard falls into dam’s filter inlet in Kinnaur, rescued
   
-  🔗 https://indianexpress.com/article/india/firozpur-cantt-delhi-vande-bharat-train-route-travel-time-stops-timings-10339927/
+  🔗 https://indianexpress.com/article/india/himachal-snow-leopard-falls-into-dams-filter-inlet-in-kinnaur-rescued-10340694/
 
-- Hyderabad-bound IndiGo flight diverted to Mumbai after ‘human bomb’ threat, aircraft lands safely
+- No role of India in stopping Nepali citizen from travelling to Berlin: MHA
   
-  🔗 https://indianexpress.com/article/india/hyderabad-indigo-flight-mumbai-human-bomb-threat-aircraft-10340179/
+  🔗 https://indianexpress.com/article/india/no-role-of-india-in-stopping-nepali-citizen-from-travelling-to-berlin-mha-10340583/
 
-- Severed head of newborn found in Jharkhand’s Palamu, possibility of human sacrifice not ruled out
+- Armed Forces carry out mega drills along Western border to test combat readiness
   
-  🔗 https://indianexpress.com/article/india/severed-head-newborn-jharkhand-palamu-human-sacrifice-10340069/
+  🔗 https://indianexpress.com/article/india/armed-forces-carry-out-mega-drills-along-western-border-to-test-combat-readiness-10340560/
 
-- India-China direct flights: After Kolkata, IndiGo’s Delhi-Guangzhou flight service to begin from Nov 10 – check timing, ticket price, frequency
+- Not against any country, freedom of navigation in Indo-Pacific is to safeguard interests of all: Rajnath
   
-  🔗 https://indianexpress.com/article/india/india-china-direct-flights-after-kolkata-indigo-delhi-guangzhou-service-november-10-10340013/
+  🔗 https://indianexpress.com/article/india/indias-indo-pacific-policy-not-against-any-nation-says-rajnath-at-asean-defence-meet-10340517/
 
-- Andhra Pradesh temple stampede: Focus on 3 apparent lapses – crowd control, entry and exit, makeshift construction
+- Modi’s veiled dig at Rahul: ‘Those who show off copy of Constitution…’
   
-  🔗 https://indianexpress.com/article/india/andhra-pradesh-temple-stampede-apparent-lapses-crowd-control-entry-exit-construction-10339917/
+  🔗 https://indianexpress.com/article/india/modis-veiled-dig-at-rahul-those-who-show-off-copy-of-constitution-10340514/
+
+- Best privacy-friendly browsers in 2025: Tor, Brave, DuckDuckGo and more
+  
+  🔗 https://indianexpress.com/article/technology/techook/private-browsers-firefox-librewolf-tor-brave-duckduckgo-10340217/
+
+- Job hunting made easy with ChatGPT: 7 prompts to boost your career
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/job-hunting-made-easy-with-chatgpt-7-prompts-to-boost-your-career-10340286/
 
 - 5 free photo-editing apps you need to amp up the social media game
   
@@ -32,13 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/jiomart-slashes-iphone-16-plus-price-by-rs-25000-heres-what-to-know-10339830/
 
-- Unprecedented brightening of interstellar Comet 3I/ATLAS reported in new research
-  
-  🔗 https://indianexpress.com/article/technology/science/unprecedented-brightening-of-interstellar-comet-3i-atlas-reported-in-new-research-10339790/
+- Warren Buffett's Berkshire Hathaway sees cash pile at record high of $382 billion, earnings soar
+  Berkshire Hathaway's cash pile soared to $381.7 billion in the quarter gone by. The company declared its Q3 report on Saturday —
+  🔗 https://www.livemint.com/companies/news/warren-buffett-berkshire-hathaway-q3-result-sees-cash-pile-at-record-high-of-382-billion-earnings-soar-11762016207412.html
 
-- Tim Cook: Apple on track for AI Siri in 2026, open to ChatGPT and Gemini integration
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tim-cook-apple-on-track-for-ai-siri-in-2026-open-to-chatgpt-and-gemini-integration-10339590/
+- Urban Company books a loss in first post-IPO results on Insta Help push
+  Urban Company saw its revenue from operations rise 37% year-on-year to  ₹380 crore
+  🔗 https://www.livemint.com/companies/company-results/urban-company-posts-significant-loss-invests-long-term-growth-future-expansion-11762007481089.html
 
 - Popular US donut chain files for Chapter 11 bankruptcy: What next for Indiana-based Jack's Donuts?
   Jack's Donuts of Indiana Commissary has more than 100 creditors and $14.2 million in liabilities. Founded in 1961 in
@@ -52,13 +60,9 @@
   Major tech firms Alphabet, Meta, Microsoft, and Amazon are boosting AI investments. Capital expenditures to exceed $380 billion this year.
   🔗 https://www.livemint.com/companies/news/alphabet-meta-and-amazon-poured-380-billion-into-ai-but-not-everyone-is-winning-from-the-spend-11761971104027.html
 
-- Titan dials down on thinness to take aim at precision in watches
-  The new Ultra Slim uses one of the world’s thinnest quartz movements. It features a floating-disc hand just 160 microns thin — thinner
-  🔗 https://www.livemint.com/companies/news/titan-dials-down-on-thinness-to-take-aim-at-precision-in-watches-11761923506913.html
-
-- $380 billion! From Microsoft and Meta to Amazon and Alphabet — tech giants on spending spree amid AI boom
-  Companies including Microsoft, Meta, Alphabet and Amazon race to invest in and build infrastructure for AI services.
-  🔗 https://www.livemint.com/companies/news/ai-investment-380-billion-microsoft-meta-amazon-alphabet-capex-spend-tech-giants-on-spending-spree-amid-ai-boom-11761930750382.html
+- Pine Labs IPO to open next week: From key dates to offer details — Here are 10 things to know
+  Indian fintech company, Pine Labs' initial public offering (IPO) is set to open for public bidding next week. The firm aims to raise funds from the stock market through a fresh issue and offer
+  🔗 https://www.livemint.com/market/ipo/pine-labs-ipo-to-open-next-week-from-key-dates-to-offer-details-here-are-10-things-to-know-11761998385374.html
 
 - Is the Indian stock market hostile in short term as uncertainty looms over investors? Geojit's Vinod Nair explains
   Vinod Nair, Head of Research, Geojit Financial Services, sheds light on how the Indian stock market has become hostile.
@@ -75,10 +79,6 @@
 - FPIs return to Indian stock market after 3 months with $1.6 billion inflows: Will the momentum last?
   FPI buying in October renewed bullish sentiment in the Indian equity market. Analysts caution that sustained interest depends on macro stability, earnings growth, and trade discussions, particularly between the US and
   🔗 https://www.livemint.com/market/stock-market-news/fpis-return-to-indian-stock-market-after-3-months-with-1-6-billion-inflows-will-the-momentum-last-11761987376473.html
-
-- China scraps gold tax perk, sending shockwaves through the bullion market
-  China is scrapping a long-standing gold tax incentive in a potential setback for consumers
-  🔗 https://www.livemint.com/market/china-scraps-gold-tax-perk-sending-shockwaves-through-the-bullion-market-11761979264014.html
 
 - Elon Musk teases Tesla’s flying Roadster prototype, promises ‘crazy technology’ on Rogan podcast
   Elon Musk reveals plans to demo a ‘crazy technology’ Tesla Roadster prototype before year-end. Speaking on The Joe Rogan Experience, the billionaire hinted the vehicle could blur
@@ -120,85 +120,45 @@
   Several blue-chip and mid-cap names across FMCG, pharma, finance, and indust
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/hul-coal-india-among-30-companies-set-record-dates-for-interim-dividends-stock-splits-next-week-full-list-here/slideshow/125013474.cms
 
-- India-US sign 10-year defence pact amid tariff turmoil - BBC
-  India-US sign 10-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aQTI1czNJUk90c2NnUFdreVpzYl9SUl9fekJsTTNJbkcxM2kybjJITWxXWHZ1b1dCODlYQkd6RDE5YWlFR3VKeXdkN3Z6aDZyd3h0NE16V25xQdIBX0FVX3lxTE5qNTFxZm9yU3phN2ZtZGhnTjRwdjg3TXpqN0NFWG1OWEp3TDdqN05uMTFaZDI1YzlXOTZFdnlud1Z5anhPWnNWNWU0aWtwaUJEdmstRHN4dXFaODlaUEo4?oc=5
+- Henley Passport Index: Why Indian passport is falling in global ranking - BBC
+  &nbsp;<font color="#6
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZjZDM2JPbzQ1TlFVRXJpZTRxR3hkSzBtZldKMWpaNVdGOHF4ZGdTX3RjUl80S0xlaTgtLUNsR3JTSTViV3lTZlBWMW50SWVZUk9Ycml2Y2ZQUdIBX0FVX3lxTE1FcXY1bXJFS1dPekhQUVJ5VTlhcnBoUHNmVXZ3RGp3NEVtRHJvWXhybDdpaURCaTk1a2tGdllPckx5WU94WDBiQzRsSVFsbk5fUFJjOTJjbUoweGQ5ZEhv?oc=5
 
-- "Don't Want To Hurt India-Russia Ties, Worry For Kid": Court On Custody Row - NDTV
-  "Don't Want To Hurt India-Russia Ties
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPOEVPZlp4YXJGbjJ1ZHh0SkhxSWV3eG9ESTdQdXhRVnhBS1JPSmpfOV9qUUFINUdEcU5UazJTM2R6bW1hUHV4Uk13d3VqZlcxS2RFeUxnakhObnpmcmZYcnNWQ0lZZzRHemZBd09ZSGJlcF9ySEtYVGRfTnlRZVRMcEFQeHU0cVJMRHFDVS1fYUtBZ1ZWdE52bFprVEE1U05OdXFfdlBwZVVxbnlHQWFtenc3MUZWR3BKU3BPaDF1Z2xULXRkeUpLNXRNT2JlbTNGbmQ0NmV4VGkzVmhoVVk3cFk3U1gyMGktRzkzb01VUGZ0ZU5aQ2RvOGE3R1pRSWhIbG0zM9IBjAJBVV95cUxPN2hOZ2c4RENlR3ZhbWhaeC1hdnJmYkVubWctLUdOVU9HMm1ETGRtY29SaElVQ094a2dLSjBUUGFwVEFOR3NoT0dMS0NNWjN6cDhwcjJ4VS1taDJVSnl2U2Q0Y2tDaUVmX09JUy01SERCdC1DYThsNzdaSVpXWEZRY0VZM0hkSjhvZDFiY2NOa1Z3Q0R0Mi1ZR3lXZDh5UFVSS2h0aEJ3V2NwMjQtaXdYUy1jYzNWX3g1V3BLODR5c3lhNEMwdUVVaGNnc0xGYkx5c1M4aWNlQ2hfV0E1cFFBVmNDMlJZMTQ5TDBEdFhaV3dNd0VnYklwWDNFcFZhQXgyRUFqZHV3cGdGcTJT?oc=5
+- India, US ink new defence framework for 10 years; aim to deepen cooperation in all domains - The Times of India
+  India, US ink new defence framework for 10 years; aim to deepen cooperation.
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeWhvNWtxZFBfN2thUjNSNGVKcllWUVpRYzctX1JpUTNIbVZlaGVDZjFjdl9POU1tQVZMTThLZ0M4dkJLR2ZhbHRoQXVfTmp4a1FVN3VVRVc3Ty1ibUpfY2Y5MDRJTWVMYzFHZkFWOUZwLU8zX2dFdUlFU0NmTDVxOUg2ZG12ejV6UWZTTWp0N1ZKaTNvdE5XWWpvNXZxUW9MRFduM2RqS2dBak5fbGkzVjItZ0lNZXhwSWJ4X2VYMHFCV2VoR0VSMnA4TlFsQ1F4UDZMVndCM0pzRHVCbGxUa1FJQnBYLUN0VnBWUtIB8gFBVV95cUxOSWh0d2JBUGw1S0h6UmRpNXNLVjBveHZvLV9UWlJUWDVZVG92azhfaEpGZ2R0d2NyM0dyWmpHWDZULXJXSjBGb3RnYWpZaElrSVQxTzBndVVseFlaeVZlZENsTkFRaHRFdXdFTXBRUHpSNDhYc0c4ZGZOY1FUNG50UFBmZ0o4ZHFJbnp4VllkSS1vazBsczByNHAzMktlN2xJZUhWN3ZxLXdqWjNzaHQzVDlGZHhaSG1UNjNwODFvVkdDR0IzbE5aRk1Sd0h0cHNidTBRSFpmcU5zUVlNWVlGbEdvR3hxVnkwVk92R1V0VndFdw?oc=5
 
-- Evening news wrap: 9 killed, 25 injured in AP's Venkateswara Swamy temple stampede; PM Modi unveils Rs 14 - The Times of India
-  The Times of India reported that 9 people were killed and 25 injured in the stampede.
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxNYUdSc2FYdnlidnJMYjVydVJIZkdINU9vcFUwUHZaMmt0U2U1STFURm1hSGJQXzVfVktwWENrY0I4dUdBQ2tiQWZhOUVNRUpWa0ZNYzFtSkQ3dGthOEtjd1lDQUIxbTA3cjcyYzNuOGUxYWd0Wm1PRS1TVE9FeE1JWHA0UEZ0OHM5WFF4bWdNMmlUNHJrTWxMeml1RVRyMXBveVAzV0t6d3NxblRoS1R0aFpUSm50NDRROWlDMW82VlZRN2hiMGhMeDJQYkxyM3phTGtGZGRfWUE5R2ZTVHZleWFLblZ3WlJybm5ZTjBLVE9pZDBQYTktZlhwVXlkUmwtTVF4bFk0RFJEd1gySzQ4XzBGY0MxYTRJX1FTbG91MHlpbE96TFIxeFZoblZ3SlJQdHfSAbcCQVVfeXFMTVROZjZiUGw5c1gtaFQ0ZDU0NDFNb1YteXFhLURNZlJSd1RscS1URzZqQXBsSWo5R0dYOHgwV25ESTJILWFJN25tbkNIc1JVWDFpZ2VQZ3J0LXV6SEtuOVNHZWhxb3BVcW9YMjRnVlN6WkQ1ZVVPSVh2S0FTSlpfZTZ0b1BySURiQVZJVXN4a2NEQzk2aVpLdTh3Z0V5dTlUU2IwclFJc0ZCQzZkRFE1emFaV1ZGTF8tWVVGODlwYUdQOWNESWdRQXVjaHBqZkgtV2lKQWRsRWlPYzZoaVRRazJMMUxMVjhULVduU1RMWE5iN0RJbTV1NFVRNUZRR3FSaHg0UDlGZG5mdXJQVTB5aW55SUVMb1B4aF9IUkVqcVBzMElXanY2aG9qbFBZbjZXdUpVWDlLcHc?oc=5
+- 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
+  'You'll Never Do Business': Trump Brags Of
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
 
-- Tyler Oliveira responds to criticism over posts on Indian cow dung festival, ‘Already getting mass reported’ | Hindustan Times - Hindustan Times
-  Tyler Oliveira responds to criticism over posts on Indian cow dung festival. ‘Already
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNTkRDekxtUlcwc3FRZ1lTanJON2pYZWNkczVMSlRCdWFuelk0VVVuQ2hFVk1mNGxQZDZHaU4yeEU4YkE4d21SOE56bFp2QkFjb3M1aHc5Z0lQZjVUN0lUS2ZXQTZLNU0yRGxSS2REckloMEk1a2hfR0J1Q2ZkZkE2elc4N3hZa3FNbnBHYV9GenZVeHkwR0V2cGFLblhCYm1kYXV3bVJmTnhVUUpLU0QtMGN5WUpiT2h5UFA5elphbThDekh6QWNuOGNOTlI4OUJpNEFFNnlrZ2hfTDVBMHZxazZ0dTgxOUg5dGNQYXZKUllmTzJvdVREVTg1WFRzYUg2cWJMR0s3ONIBjAJBVV95cUxNSEU5WVp3THA5dmtybWl3S3lBWlhVWm11aHFEMXVyZk9qUW9FdUJxRWZDYzJuUUNkdER3VHo1OURINWo5aklfYWI3LXVRVWdMTk1mUDVJckhEcENGTXpvNUZHbzZROEVtTXo3MlBCdGFTOGZFUXVaV3JLcENkUndEZ3oxSl9GS2pZSUM3UF9aUW45cVFfMzktLTlKNXdrSE9aakFJdG9hRDdPV0tfUkJPS2doS05WRHVqdUpBOURvdGEyVW9xX01ybmRCTXJWaFNLc3l1VmJ5djZSdVM4Rm5lX1pVeVFVZFYyWkxQZjU5NnpyWTloSm83NnpxZkdsWUFTMm5kQklxUDU5eXIy?oc=5
+- India-US Trade Deal Soon? Piyush Goyal Shares Big Update - Times Now
+  India-US Trade Deal Soon? P
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzk4bWtQRExMU0RQNXItNzlIbVh0b05ybXJXWG9LUURnM2FIZVNvZlY5VGlTODVSS3ZPbnd4ZFZIMW5tYnpqcFR4UTFhdGZOdXNuUC1DVk8zRHFyTkZvYWl0dG4zQ2ZMVUxMOHpOUDZrbXJGaEJJRW9fT3pSZzI3bndMa3hSQVp6U2FsMWh5cVhpRUlKOEZ2d2tyQXdiRzhHLTI2LU9yZzQ1SS1r0gGyAUFVX3lxTE0zVGwya0VjTnJuSkpEZ0hCdkxuUjNwQlloTWRBTFF2R0Zqal9NdHhwMjlKX1FPbU1HaWxIS05FNEVuLUEwdWZNR1Z0c1hjNVhUM3NQamJubDdNMTRyeFJraDJpWjI5NmtlTWgxVU5FM0Y4N0NSbENad21EMl8tclFobEtBVzQxZXQxN2h2UDZMQ1FwLW1sQTdsdkF2MnFpNFlRRUh2MFp2TWxMWEJYZkhaaGc?oc=5
 
-- "Bihari Doesn't Mean Backward": JioStar Vice Chairman Uday Shankar To NDTV - NDTV
-  "Bihari Doesn't Mean Backward
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWh4RzVFMFRNVGI2bFhUUjZRSWdjME9URUI5MW12NkhBVEJMQWRGYlFMdFA2QWpZX2tNM2hFcTJIaFpTaWtSdTJOUUROc3pjRzlfMnI3WHZFYXdZX0dZejhFa1BVZnNYT1FmT0swb2Flb0VRZk1VRkxCNnNKbUZKU2dMOFU2NFRrMU9HdDFVcVlDdjRvRVB3RnlkcGdYZlByaVNseUdBbjZOdlJBdUFqOE5CTGpnQXVWUVRyaU5yXzZSdXFjVzNWZlBKNNIB0wFBVV95cUxQdDRhYWZ1QXFhRE9fblhOQUFScFpuVzMycFVLb2NOel9Zdm9MZnluT2ZhMkN6ckFPVmlyMTlxaWo2YnA4RFU0b09zWVR6Mk5Qb3I1OGVpQUxMalYxS1Zrd3pqc0dVal9YTGFYeG5JaXBqOEY5MlJmNkxZYXl0a3o3SFprWUZyVU5NMnY4dVBycDRXMHlmbEVqX2RFOFN1ZnFmamNoMm80MEtFS0lxUGZMWE8wd21OZ0lpVnI4M1RHNmNLTmtyVmw0aU52dlZXS1hIT3hj?oc=5
+- Anti-Indian move? Trump govt's new ad targets foreign workers over H1-B visa abuse, ‘American Dream stolen’ | Hindustan Times - Hindustan Times
+  'American Dream stolen' ad targets foreign workers over H1-B visa abuse.
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ1VMOGhXOF96cFZzWWZ1c1VKaV8zc0o3X3BkZU52cnRaNmx2WU1IQ0E5RGFwRjhWMzBvTF9Gd2pmTFpuMEoxUU9NZzZhdm00c2swaDZXa2JfU3hOaElRX3poNkZaMHB0ZzNjdW1IUGtYN2NaOWpuUUlGVG9zZ0RWZmZEV1VqUzJZaHhQazIxOTJnaVAzMkhLLUxtMXRNMG5NMlk0ZnN2b0lnQmxiNUxhVEVzdl8zU2JYeHpPS2dqN0FhMmVaTFdYdDJNMDFXV1UwaEgzNGNvLVNzRkJzWWpHX3l6R3BuM3BrbXVMaEFkdnpTN0FTd1VrMF9IbzVST3BKTWfSAYcCQVVfeXFMTWxVc2dqM2xkOUxkTGhpZG5FcWQ4ZHZTd3pfS09CQS11Q3c1WEtJcWIzSFZoaVBkWGwyZkhwT1UyS0htZG5wUXBmQmtERmpVc3M2NUJOQnZrZ3RpM3JXdmdYeWdhbEtVYVMwUnhjeDZhaU4zWkN3LWRHUjVZcWFCOWtqclZQdzExaVFvNWZzNmUzNWllX1N0ZWtfWWhsM1g4QUFfd0tuS1o4eW41MmZWN3c0WTNWampxdURoZnVvbHFMcV9YcUloa1VWbkttTFowblMwdWZ6WnlXRWtxd2VYaGxWV0lQVEZVOFFXWURFMnd0UTVEbktwejkwdTE0enBUN1Y4Z3g0Qk0?oc=5
 
-- India-US sign 10-year defence pact amid tariff turmoil - BBC
-  India-US sign 10-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aQTI1czNJUk90c2NnUFdreVpzYl9SUl9fekJsTTNJbkcxM2kybjJITWxXWHZ1b1dCODlYQkd6RDE5YWlFR3VKeXdkN3Z6aDZyd3h0NE16V25xQdIBX0FVX3lxTE5qNTFxZm9yU3phN2ZtZGhnTjRwdjg3TXpqN0NFWG1OWEp3TDdqN05uMTFaZDI1YzlXOTZFdnlud1Z5anhPWnNWNWU0aWtwaUJEdmstRHN4dXFaODlaUEo4?oc=5
+- Henley Passport Index: Why Indian passport is falling in global ranking - BBC
+  &nbsp;<font color="#6
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZjZDM2JPbzQ1TlFVRXJpZTRxR3hkSzBtZldKMWpaNVdGOHF4ZGdTX3RjUl80S0xlaTgtLUNsR3JTSTViV3lTZlBWMW50SWVZUk9Ycml2Y2ZQUdIBX0FVX3lxTE1FcXY1bXJFS1dPekhQUVJ5VTlhcnBoUHNmVXZ3RGp3NEVtRHJvWXhybDdpaURCaTk1a2tGdllPckx5WU94WDBiQzRsSVFsbk5fUFJjOTJjbUoweGQ5ZEhv?oc=5
 
-- "Don't Want To Hurt India-Russia Ties, Worry For Kid": Court On Custody Row - NDTV
-  "Don't Want To Hurt India-Russia Ties
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPOEVPZlp4YXJGbjJ1ZHh0SkhxSWV3eG9ESTdQdXhRVnhBS1JPSmpfOV9qUUFINUdEcU5UazJTM2R6bW1hUHV4Uk13d3VqZlcxS2RFeUxnakhObnpmcmZYcnNWQ0lZZzRHemZBd09ZSGJlcF9ySEtYVGRfTnlRZVRMcEFQeHU0cVJMRHFDVS1fYUtBZ1ZWdE52bFprVEE1U05OdXFfdlBwZVVxbnlHQWFtenc3MUZWR3BKU3BPaDF1Z2xULXRkeUpLNXRNT2JlbTNGbmQ0NmV4VGkzVmhoVVk3cFk3U1gyMGktRzkzb01VUGZ0ZU5aQ2RvOGE3R1pRSWhIbG0zM9IBjAJBVV95cUxPN2hOZ2c4RENlR3ZhbWhaeC1hdnJmYkVubWctLUdOVU9HMm1ETGRtY29SaElVQ094a2dLSjBUUGFwVEFOR3NoT0dMS0NNWjN6cDhwcjJ4VS1taDJVSnl2U2Q0Y2tDaUVmX09JUy01SERCdC1DYThsNzdaSVpXWEZRY0VZM0hkSjhvZDFiY2NOa1Z3Q0R0Mi1ZR3lXZDh5UFVSS2h0aEJ3V2NwMjQtaXdYUy1jYzNWX3g1V3BLODR5c3lhNEMwdUVVaGNnc0xGYkx5c1M4aWNlQ2hfV0E1cFFBVmNDMlJZMTQ5TDBEdFhaV3dNd0VnYklwWDNFcFZhQXgyRUFqZHV3cGdGcTJT?oc=5
+- India, US ink new defence framework for 10 years; aim to deepen cooperation in all domains - The Times of India
+  India, US ink new defence framework for 10 years; aim to deepen cooperation.
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeWhvNWtxZFBfN2thUjNSNGVKcllWUVpRYzctX1JpUTNIbVZlaGVDZjFjdl9POU1tQVZMTThLZ0M4dkJLR2ZhbHRoQXVfTmp4a1FVN3VVRVc3Ty1ibUpfY2Y5MDRJTWVMYzFHZkFWOUZwLU8zX2dFdUlFU0NmTDVxOUg2ZG12ejV6UWZTTWp0N1ZKaTNvdE5XWWpvNXZxUW9MRFduM2RqS2dBak5fbGkzVjItZ0lNZXhwSWJ4X2VYMHFCV2VoR0VSMnA4TlFsQ1F4UDZMVndCM0pzRHVCbGxUa1FJQnBYLUN0VnBWUtIB8gFBVV95cUxOSWh0d2JBUGw1S0h6UmRpNXNLVjBveHZvLV9UWlJUWDVZVG92azhfaEpGZ2R0d2NyM0dyWmpHWDZULXJXSjBGb3RnYWpZaElrSVQxTzBndVVseFlaeVZlZENsTkFRaHRFdXdFTXBRUHpSNDhYc0c4ZGZOY1FUNG50UFBmZ0o4ZHFJbnp4VllkSS1vazBsczByNHAzMktlN2xJZUhWN3ZxLXdqWjNzaHQzVDlGZHhaSG1UNjNwODFvVkdDR0IzbE5aRk1Sd0h0cHNidTBRSFpmcU5zUVlNWVlGbEdvR3hxVnkwVk92R1V0VndFdw?oc=5
 
-- Evening news wrap: 9 killed, 25 injured in AP's Venkateswara Swamy temple stampede; PM Modi unveils Rs 14 - The Times of India
-  The Times of India reported that 9 people were killed and 25 injured in the stampede.
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxNYUdSc2FYdnlidnJMYjVydVJIZkdINU9vcFUwUHZaMmt0U2U1STFURm1hSGJQXzVfVktwWENrY0I4dUdBQ2tiQWZhOUVNRUpWa0ZNYzFtSkQ3dGthOEtjd1lDQUIxbTA3cjcyYzNuOGUxYWd0Wm1PRS1TVE9FeE1JWHA0UEZ0OHM5WFF4bWdNMmlUNHJrTWxMeml1RVRyMXBveVAzV0t6d3NxblRoS1R0aFpUSm50NDRROWlDMW82VlZRN2hiMGhMeDJQYkxyM3phTGtGZGRfWUE5R2ZTVHZleWFLblZ3WlJybm5ZTjBLVE9pZDBQYTktZlhwVXlkUmwtTVF4bFk0RFJEd1gySzQ4XzBGY0MxYTRJX1FTbG91MHlpbE96TFIxeFZoblZ3SlJQdHfSAbcCQVVfeXFMTVROZjZiUGw5c1gtaFQ0ZDU0NDFNb1YteXFhLURNZlJSd1RscS1URzZqQXBsSWo5R0dYOHgwV25ESTJILWFJN25tbkNIc1JVWDFpZ2VQZ3J0LXV6SEtuOVNHZWhxb3BVcW9YMjRnVlN6WkQ1ZVVPSVh2S0FTSlpfZTZ0b1BySURiQVZJVXN4a2NEQzk2aVpLdTh3Z0V5dTlUU2IwclFJc0ZCQzZkRFE1emFaV1ZGTF8tWVVGODlwYUdQOWNESWdRQXVjaHBqZkgtV2lKQWRsRWlPYzZoaVRRazJMMUxMVjhULVduU1RMWE5iN0RJbTV1NFVRNUZRR3FSaHg0UDlGZG5mdXJQVTB5aW55SUVMb1B4aF9IUkVqcVBzMElXanY2aG9qbFBZbjZXdUpVWDlLcHc?oc=5
+- 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
+  'You'll Never Do Business': Trump Brags Of
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
 
-- Tyler Oliveira responds to criticism over posts on Indian cow dung festival, ‘Already getting mass reported’ | Hindustan Times - Hindustan Times
-  Tyler Oliveira responds to criticism over posts on Indian cow dung festival. ‘Already
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNTkRDekxtUlcwc3FRZ1lTanJON2pYZWNkczVMSlRCdWFuelk0VVVuQ2hFVk1mNGxQZDZHaU4yeEU4YkE4d21SOE56bFp2QkFjb3M1aHc5Z0lQZjVUN0lUS2ZXQTZLNU0yRGxSS2REckloMEk1a2hfR0J1Q2ZkZkE2elc4N3hZa3FNbnBHYV9GenZVeHkwR0V2cGFLblhCYm1kYXV3bVJmTnhVUUpLU0QtMGN5WUpiT2h5UFA5elphbThDekh6QWNuOGNOTlI4OUJpNEFFNnlrZ2hfTDVBMHZxazZ0dTgxOUg5dGNQYXZKUllmTzJvdVREVTg1WFRzYUg2cWJMR0s3ONIBjAJBVV95cUxNSEU5WVp3THA5dmtybWl3S3lBWlhVWm11aHFEMXVyZk9qUW9FdUJxRWZDYzJuUUNkdER3VHo1OURINWo5aklfYWI3LXVRVWdMTk1mUDVJckhEcENGTXpvNUZHbzZROEVtTXo3MlBCdGFTOGZFUXVaV3JLcENkUndEZ3oxSl9GS2pZSUM3UF9aUW45cVFfMzktLTlKNXdrSE9aakFJdG9hRDdPV0tfUkJPS2doS05WRHVqdUpBOURvdGEyVW9xX01ybmRCTXJWaFNLc3l1VmJ5djZSdVM4Rm5lX1pVeVFVZFYyWkxQZjU5NnpyWTloSm83NnpxZkdsWUFTMm5kQklxUDU5eXIy?oc=5
+- India-US Trade Deal Soon? Piyush Goyal Shares Big Update - Times Now
+  India-US Trade Deal Soon? P
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzk4bWtQRExMU0RQNXItNzlIbVh0b05ybXJXWG9LUURnM2FIZVNvZlY5VGlTODVSS3ZPbnd4ZFZIMW5tYnpqcFR4UTFhdGZOdXNuUC1DVk8zRHFyTkZvYWl0dG4zQ2ZMVUxMOHpOUDZrbXJGaEJJRW9fT3pSZzI3bndMa3hSQVp6U2FsMWh5cVhpRUlKOEZ2d2tyQXdiRzhHLTI2LU9yZzQ1SS1r0gGyAUFVX3lxTE0zVGwya0VjTnJuSkpEZ0hCdkxuUjNwQlloTWRBTFF2R0Zqal9NdHhwMjlKX1FPbU1HaWxIS05FNEVuLUEwdWZNR1Z0c1hjNVhUM3NQamJubDdNMTRyeFJraDJpWjI5NmtlTWgxVU5FM0Y4N0NSbENad21EMl8tclFobEtBVzQxZXQxN2h2UDZMQ1FwLW1sQTdsdkF2MnFpNFlRRUh2MFp2TWxMWEJYZkhaaGc?oc=5
 
-- "Bihari Doesn't Mean Backward": JioStar Vice Chairman Uday Shankar To NDTV - NDTV
-  "Bihari Doesn't Mean Backward
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWh4RzVFMFRNVGI2bFhUUjZRSWdjME9URUI5MW12NkhBVEJMQWRGYlFMdFA2QWpZX2tNM2hFcTJIaFpTaWtSdTJOUUROc3pjRzlfMnI3WHZFYXdZX0dZejhFa1BVZnNYT1FmT0swb2Flb0VRZk1VRkxCNnNKbUZKU2dMOFU2NFRrMU9HdDFVcVlDdjRvRVB3RnlkcGdYZlByaVNseUdBbjZOdlJBdUFqOE5CTGpnQXVWUVRyaU5yXzZSdXFjVzNWZlBKNNIB0wFBVV95cUxQdDRhYWZ1QXFhRE9fblhOQUFScFpuVzMycFVLb2NOel9Zdm9MZnluT2ZhMkN6ckFPVmlyMTlxaWo2YnA4RFU0b09zWVR6Mk5Qb3I1OGVpQUxMalYxS1Zrd3pqc0dVal9YTGFYeG5JaXBqOEY5MlJmNkxZYXl0a3o3SFprWUZyVU5NMnY4dVBycDRXMHlmbEVqX2RFOFN1ZnFmamNoMm80MEtFS0lxUGZMWE8wd21OZ0lpVnI4M1RHNmNLTmtyVmw0aU52dlZXS1hIT3hj?oc=5
-
-- India-US sign 10-year defence pact amid tariff turmoil - BBC
-  India-US sign 10-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aQTI1czNJUk90c2NnUFdreVpzYl9SUl9fekJsTTNJbkcxM2kybjJITWxXWHZ1b1dCODlYQkd6RDE5YWlFR3VKeXdkN3Z6aDZyd3h0NE16V25xQdIBX0FVX3lxTE5qNTFxZm9yU3phN2ZtZGhnTjRwdjg3TXpqN0NFWG1OWEp3TDdqN05uMTFaZDI1YzlXOTZFdnlud1Z5anhPWnNWNWU0aWtwaUJEdmstRHN4dXFaODlaUEo4?oc=5
-
-- "Don't Want To Hurt India-Russia Ties, Worry For Kid": Court On Custody Row - NDTV
-  "Don't Want To Hurt India-Russia Ties
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPOEVPZlp4YXJGbjJ1ZHh0SkhxSWV3eG9ESTdQdXhRVnhBS1JPSmpfOV9qUUFINUdEcU5UazJTM2R6bW1hUHV4Uk13d3VqZlcxS2RFeUxnakhObnpmcmZYcnNWQ0lZZzRHemZBd09ZSGJlcF9ySEtYVGRfTnlRZVRMcEFQeHU0cVJMRHFDVS1fYUtBZ1ZWdE52bFprVEE1U05OdXFfdlBwZVVxbnlHQWFtenc3MUZWR3BKU3BPaDF1Z2xULXRkeUpLNXRNT2JlbTNGbmQ0NmV4VGkzVmhoVVk3cFk3U1gyMGktRzkzb01VUGZ0ZU5aQ2RvOGE3R1pRSWhIbG0zM9IBjAJBVV95cUxPN2hOZ2c4RENlR3ZhbWhaeC1hdnJmYkVubWctLUdOVU9HMm1ETGRtY29SaElVQ094a2dLSjBUUGFwVEFOR3NoT0dMS0NNWjN6cDhwcjJ4VS1taDJVSnl2U2Q0Y2tDaUVmX09JUy01SERCdC1DYThsNzdaSVpXWEZRY0VZM0hkSjhvZDFiY2NOa1Z3Q0R0Mi1ZR3lXZDh5UFVSS2h0aEJ3V2NwMjQtaXdYUy1jYzNWX3g1V3BLODR5c3lhNEMwdUVVaGNnc0xGYkx5c1M4aWNlQ2hfV0E1cFFBVmNDMlJZMTQ5TDBEdFhaV3dNd0VnYklwWDNFcFZhQXgyRUFqZHV3cGdGcTJT?oc=5
-
-- Evening news wrap: 9 killed, 25 injured in AP's Venkateswara Swamy temple stampede; PM Modi unveils Rs 14 - The Times of India
-  The Times of India reported that 9 people were killed and 25 injured in the stampede.
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxNYUdSc2FYdnlidnJMYjVydVJIZkdINU9vcFUwUHZaMmt0U2U1STFURm1hSGJQXzVfVktwWENrY0I4dUdBQ2tiQWZhOUVNRUpWa0ZNYzFtSkQ3dGthOEtjd1lDQUIxbTA3cjcyYzNuOGUxYWd0Wm1PRS1TVE9FeE1JWHA0UEZ0OHM5WFF4bWdNMmlUNHJrTWxMeml1RVRyMXBveVAzV0t6d3NxblRoS1R0aFpUSm50NDRROWlDMW82VlZRN2hiMGhMeDJQYkxyM3phTGtGZGRfWUE5R2ZTVHZleWFLblZ3WlJybm5ZTjBLVE9pZDBQYTktZlhwVXlkUmwtTVF4bFk0RFJEd1gySzQ4XzBGY0MxYTRJX1FTbG91MHlpbE96TFIxeFZoblZ3SlJQdHfSAbcCQVVfeXFMTVROZjZiUGw5c1gtaFQ0ZDU0NDFNb1YteXFhLURNZlJSd1RscS1URzZqQXBsSWo5R0dYOHgwV25ESTJILWFJN25tbkNIc1JVWDFpZ2VQZ3J0LXV6SEtuOVNHZWhxb3BVcW9YMjRnVlN6WkQ1ZVVPSVh2S0FTSlpfZTZ0b1BySURiQVZJVXN4a2NEQzk2aVpLdTh3Z0V5dTlUU2IwclFJc0ZCQzZkRFE1emFaV1ZGTF8tWVVGODlwYUdQOWNESWdRQXVjaHBqZkgtV2lKQWRsRWlPYzZoaVRRazJMMUxMVjhULVduU1RMWE5iN0RJbTV1NFVRNUZRR3FSaHg0UDlGZG5mdXJQVTB5aW55SUVMb1B4aF9IUkVqcVBzMElXanY2aG9qbFBZbjZXdUpVWDlLcHc?oc=5
-
-- Tyler Oliveira responds to criticism over posts on Indian cow dung festival, ‘Already getting mass reported’ | Hindustan Times - Hindustan Times
-  Tyler Oliveira responds to criticism over posts on Indian cow dung festival. ‘Already
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNTkRDekxtUlcwc3FRZ1lTanJON2pYZWNkczVMSlRCdWFuelk0VVVuQ2hFVk1mNGxQZDZHaU4yeEU4YkE4d21SOE56bFp2QkFjb3M1aHc5Z0lQZjVUN0lUS2ZXQTZLNU0yRGxSS2REckloMEk1a2hfR0J1Q2ZkZkE2elc4N3hZa3FNbnBHYV9GenZVeHkwR0V2cGFLblhCYm1kYXV3bVJmTnhVUUpLU0QtMGN5WUpiT2h5UFA5elphbThDekh6QWNuOGNOTlI4OUJpNEFFNnlrZ2hfTDVBMHZxazZ0dTgxOUg5dGNQYXZKUllmTzJvdVREVTg1WFRzYUg2cWJMR0s3ONIBjAJBVV95cUxNSEU5WVp3THA5dmtybWl3S3lBWlhVWm11aHFEMXVyZk9qUW9FdUJxRWZDYzJuUUNkdER3VHo1OURINWo5aklfYWI3LXVRVWdMTk1mUDVJckhEcENGTXpvNUZHbzZROEVtTXo3MlBCdGFTOGZFUXVaV3JLcENkUndEZ3oxSl9GS2pZSUM3UF9aUW45cVFfMzktLTlKNXdrSE9aakFJdG9hRDdPV0tfUkJPS2doS05WRHVqdUpBOURvdGEyVW9xX01ybmRCTXJWaFNLc3l1VmJ5djZSdVM4Rm5lX1pVeVFVZFYyWkxQZjU5NnpyWTloSm83NnpxZkdsWUFTMm5kQklxUDU5eXIy?oc=5
-
-- "Bihari Doesn't Mean Backward": JioStar Vice Chairman Uday Shankar To NDTV - NDTV
-  "Bihari Doesn't Mean Backward
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWh4RzVFMFRNVGI2bFhUUjZRSWdjME9URUI5MW12NkhBVEJMQWRGYlFMdFA2QWpZX2tNM2hFcTJIaFpTaWtSdTJOUUROc3pjRzlfMnI3WHZFYXdZX0dZejhFa1BVZnNYT1FmT0swb2Flb0VRZk1VRkxCNnNKbUZKU2dMOFU2NFRrMU9HdDFVcVlDdjRvRVB3RnlkcGdYZlByaVNseUdBbjZOdlJBdUFqOE5CTGpnQXVWUVRyaU5yXzZSdXFjVzNWZlBKNNIB0wFBVV95cUxQdDRhYWZ1QXFhRE9fblhOQUFScFpuVzMycFVLb2NOel9Zdm9MZnluT2ZhMkN6ckFPVmlyMTlxaWo2YnA4RFU0b09zWVR6Mk5Qb3I1OGVpQUxMalYxS1Zrd3pqc0dVal9YTGFYeG5JaXBqOEY5MlJmNkxZYXl0a3o3SFprWUZyVU5NMnY4dVBycDRXMHlmbEVqX2RFOFN1ZnFmamNoMm80MEtFS0lxUGZMWE8wd21OZ0lpVnI4M1RHNmNLTmtyVmw0aU52dlZXS1hIT3hj?oc=5
-
-- India-US sign 10-year defence pact amid tariff turmoil - BBC
-  India-US sign 10-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aQTI1czNJUk90c2NnUFdreVpzYl9SUl9fekJsTTNJbkcxM2kybjJITWxXWHZ1b1dCODlYQkd6RDE5YWlFR3VKeXdkN3Z6aDZyd3h0NE16V25xQdIBX0FVX3lxTE5qNTFxZm9yU3phN2ZtZGhnTjRwdjg3TXpqN0NFWG1OWEp3TDdqN05uMTFaZDI1YzlXOTZFdnlud1Z5anhPWnNWNWU0aWtwaUJEdmstRHN4dXFaODlaUEo4?oc=5
-
-- "Don't Want To Hurt India-Russia Ties, Worry For Kid": Court On Custody Row - NDTV
-  "Don't Want To Hurt India-Russia Ties
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPOEVPZlp4YXJGbjJ1ZHh0SkhxSWV3eG9ESTdQdXhRVnhBS1JPSmpfOV9qUUFINUdEcU5UazJTM2R6bW1hUHV4Uk13d3VqZlcxS2RFeUxnakhObnpmcmZYcnNWQ0lZZzRHemZBd09ZSGJlcF9ySEtYVGRfTnlRZVRMcEFQeHU0cVJMRHFDVS1fYUtBZ1ZWdE52bFprVEE1U05OdXFfdlBwZVVxbnlHQWFtenc3MUZWR3BKU3BPaDF1Z2xULXRkeUpLNXRNT2JlbTNGbmQ0NmV4VGkzVmhoVVk3cFk3U1gyMGktRzkzb01VUGZ0ZU5aQ2RvOGE3R1pRSWhIbG0zM9IBjAJBVV95cUxPN2hOZ2c4RENlR3ZhbWhaeC1hdnJmYkVubWctLUdOVU9HMm1ETGRtY29SaElVQ094a2dLSjBUUGFwVEFOR3NoT0dMS0NNWjN6cDhwcjJ4VS1taDJVSnl2U2Q0Y2tDaUVmX09JUy01SERCdC1DYThsNzdaSVpXWEZRY0VZM0hkSjhvZDFiY2NOa1Z3Q0R0Mi1ZR3lXZDh5UFVSS2h0aEJ3V2NwMjQtaXdYUy1jYzNWX3g1V3BLODR5c3lhNEMwdUVVaGNnc0xGYkx5c1M4aWNlQ2hfV0E1cFFBVmNDMlJZMTQ5TDBEdFhaV3dNd0VnYklwWDNFcFZhQXgyRUFqZHV3cGdGcTJT?oc=5
-
-- Evening news wrap: 9 killed, 25 injured in AP's Venkateswara Swamy temple stampede; PM Modi unveils Rs 14 - The Times of India
-  The Times of India reported that 9 people were killed and 25 injured in the stampede.
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxNYUdSc2FYdnlidnJMYjVydVJIZkdINU9vcFUwUHZaMmt0U2U1STFURm1hSGJQXzVfVktwWENrY0I4dUdBQ2tiQWZhOUVNRUpWa0ZNYzFtSkQ3dGthOEtjd1lDQUIxbTA3cjcyYzNuOGUxYWd0Wm1PRS1TVE9FeE1JWHA0UEZ0OHM5WFF4bWdNMmlUNHJrTWxMeml1RVRyMXBveVAzV0t6d3NxblRoS1R0aFpUSm50NDRROWlDMW82VlZRN2hiMGhMeDJQYkxyM3phTGtGZGRfWUE5R2ZTVHZleWFLblZ3WlJybm5ZTjBLVE9pZDBQYTktZlhwVXlkUmwtTVF4bFk0RFJEd1gySzQ4XzBGY0MxYTRJX1FTbG91MHlpbE96TFIxeFZoblZ3SlJQdHfSAbcCQVVfeXFMTVROZjZiUGw5c1gtaFQ0ZDU0NDFNb1YteXFhLURNZlJSd1RscS1URzZqQXBsSWo5R0dYOHgwV25ESTJILWFJN25tbkNIc1JVWDFpZ2VQZ3J0LXV6SEtuOVNHZWhxb3BVcW9YMjRnVlN6WkQ1ZVVPSVh2S0FTSlpfZTZ0b1BySURiQVZJVXN4a2NEQzk2aVpLdTh3Z0V5dTlUU2IwclFJc0ZCQzZkRFE1emFaV1ZGTF8tWVVGODlwYUdQOWNESWdRQXVjaHBqZkgtV2lKQWRsRWlPYzZoaVRRazJMMUxMVjhULVduU1RMWE5iN0RJbTV1NFVRNUZRR3FSaHg0UDlGZG5mdXJQVTB5aW55SUVMb1B4aF9IUkVqcVBzMElXanY2aG9qbFBZbjZXdUpVWDlLcHc?oc=5
-
-- Tyler Oliveira responds to criticism over posts on Indian cow dung festival, ‘Already getting mass reported’ | Hindustan Times - Hindustan Times
-  Tyler Oliveira responds to criticism over posts on Indian cow dung festival. ‘Already
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNTkRDekxtUlcwc3FRZ1lTanJON2pYZWNkczVMSlRCdWFuelk0VVVuQ2hFVk1mNGxQZDZHaU4yeEU4YkE4d21SOE56bFp2QkFjb3M1aHc5Z0lQZjVUN0lUS2ZXQTZLNU0yRGxSS2REckloMEk1a2hfR0J1Q2ZkZkE2elc4N3hZa3FNbnBHYV9GenZVeHkwR0V2cGFLblhCYm1kYXV3bVJmTnhVUUpLU0QtMGN5WUpiT2h5UFA5elphbThDekh6QWNuOGNOTlI4OUJpNEFFNnlrZ2hfTDVBMHZxazZ0dTgxOUg5dGNQYXZKUllmTzJvdVREVTg1WFRzYUg2cWJMR0s3ONIBjAJBVV95cUxNSEU5WVp3THA5dmtybWl3S3lBWlhVWm11aHFEMXVyZk9qUW9FdUJxRWZDYzJuUUNkdER3VHo1OURINWo5aklfYWI3LXVRVWdMTk1mUDVJckhEcENGTXpvNUZHbzZROEVtTXo3MlBCdGFTOGZFUXVaV3JLcENkUndEZ3oxSl9GS2pZSUM3UF9aUW45cVFfMzktLTlKNXdrSE9aakFJdG9hRDdPV0tfUkJPS2doS05WRHVqdUpBOURvdGEyVW9xX01ybmRCTXJWaFNLc3l1VmJ5djZSdVM4Rm5lX1pVeVFVZFYyWkxQZjU5NnpyWTloSm83NnpxZkdsWUFTMm5kQklxUDU5eXIy?oc=5
-
-- "Bihari Doesn't Mean Backward": JioStar Vice Chairman Uday Shankar To NDTV - NDTV
-  "Bihari Doesn't Mean Backward
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWh4RzVFMFRNVGI2bFhUUjZRSWdjME9URUI5MW12NkhBVEJMQWRGYlFMdFA2QWpZX2tNM2hFcTJIaFpTaWtSdTJOUUROc3pjRzlfMnI3WHZFYXdZX0dZejhFa1BVZnNYT1FmT0swb2Flb0VRZk1VRkxCNnNKbUZKU2dMOFU2NFRrMU9HdDFVcVlDdjRvRVB3RnlkcGdYZlByaVNseUdBbjZOdlJBdUFqOE5CTGpnQXVWUVRyaU5yXzZSdXFjVzNWZlBKNNIB0wFBVV95cUxQdDRhYWZ1QXFhRE9fblhOQUFScFpuVzMycFVLb2NOel9Zdm9MZnluT2ZhMkN6ckFPVmlyMTlxaWo2YnA4RFU0b09zWVR6Mk5Qb3I1OGVpQUxMalYxS1Zrd3pqc0dVal9YTGFYeG5JaXBqOEY5MlJmNkxZYXl0a3o3SFprWUZyVU5NMnY4dVBycDRXMHlmbEVqX2RFOFN1ZnFmamNoMm80MEtFS0lxUGZMWE8wd21OZ0lpVnI4M1RHNmNLTmtyVmw0aU52dlZXS1hIT3hj?oc=5
+- Anti-Indian move? Trump govt's new ad targets foreign workers over H1-B visa abuse, ‘American Dream stolen’ | Hindustan Times - Hindustan Times
+  'American Dream stolen' ad targets foreign workers over H1-B visa abuse.
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ1VMOGhXOF96cFZzWWZ1c1VKaV8zc0o3X3BkZU52cnRaNmx2WU1IQ0E5RGFwRjhWMzBvTF9Gd2pmTFpuMEoxUU9NZzZhdm00c2swaDZXa2JfU3hOaElRX3poNkZaMHB0ZzNjdW1IUGtYN2NaOWpuUUlGVG9zZ0RWZmZEV1VqUzJZaHhQazIxOTJnaVAzMkhLLUxtMXRNMG5NMlk0ZnN2b0lnQmxiNUxhVEVzdl8zU2JYeHpPS2dqN0FhMmVaTFdYdDJNMDFXV1UwaEgzNGNvLVNzRkJzWWpHX3l6R3BuM3BrbXVMaEFkdnpTN0FTd1VrMF9IbzVST3BKTWfSAYcCQVVfeXFMTWxVc2dqM2xkOUxkTGhpZG5FcWQ4ZHZTd3pfS09CQS11Q3c1WEtJcWIzSFZoaVBkWGwyZkhwT1UyS0htZG5wUXBmQmtERmpVc3M2NUJOQnZrZ3RpM3JXdmdYeWdhbEtVYVMwUnhjeDZhaU4zWkN3LWRHUjVZcWFCOWtqclZQdzExaVFvNWZzNmUzNWllX1N0ZWtfWWhsM1g4QUFfd0tuS1o4eW41MmZWN3c0WTNWampxdURoZnVvbHFMcV9YcUloa1VWbkttTFowblMwdWZ6WnlXRWtxd2VYaGxWV0lQVEZVOFFXWURFMnd0UTVEbktwejkwdTE0enBUN1Y4Z3g0Qk0?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-11-01 12:31:48 UTC_
+_Last updated: 2025-11-01 18:24:11 UTC_
