@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- India needs more decentralisation, use of tech in agriculture: EAC-PM chair S Mahendra Dev
+- INX case: PMLA tribunal upholds ED order to attach Karti’s assets
   
-  🔗 https://indianexpress.com/article/india/india-needs-more-decentralisation-use-of-tech-in-agriculture-eac-pm-chair-s-mahendra-dev-10338895/
+  🔗 https://indianexpress.com/article/india/inx-case-pmla-tribunal-upholds-ed-order-to-attach-kartis-assets-10339158/
 
-- GST reforms power small car sales for Maruti Suzuki, outpace SUV demand
+- EC seeks report on Mokama clash
   
-  🔗 https://indianexpress.com/article/india/gst-reforms-maruti-suzuki-small-car-outpace-suv-10338794/
+  🔗 https://indianexpress.com/article/india/ec-seeks-report-on-mokama-clash-10339175/
 
-- Karnataka HC restores bail to accused police officer in BJP worker Yogesh Gowda murder case
+- Kharge calls for ban on RSS: ‘Most law & order issues because of them’
   
-  🔗 https://indianexpress.com/article/india/karnataka-hc-restores-bail-to-accused-police-officer-in-bjp-worker-yogesh-gowda-murder-case-10338869/
+  🔗 https://indianexpress.com/article/india/kharge-calls-for-ban-on-rss-most-law-order-issues-because-of-them-10339153/
 
-- IMD forecast for November: Normal to above-normal rainfall, cooler days, warmer nights
+- Patel wanted to merge all of Kashmir with India, Nehru didn’t let him: PM Modi
   
-  🔗 https://indianexpress.com/article/india/imd-forecast-for-november-normal-to-above-normal-rainfall-cooler-days-warmer-nights-10338840/
+  🔗 https://indianexpress.com/article/india/patel-wanted-to-merge-all-of-kashmir-with-india-nehru-didnt-let-him-pm-modi-10339077/
 
-- US, Russia among over 55 nations to be part of mega navy drill in Feb
+- As Ukraine war grinds on, Georgia new hub for Indian medical students
   
-  🔗 https://indianexpress.com/article/india/us-russia-among-over-55-nations-to-be-part-of-mega-navy-drill-in-feb-10338830/
+  🔗 https://indianexpress.com/article/india/as-ukraine-war-grinds-on-georgia-new-hub-for-indian-medical-students-10339087/
 
 - ‘Apple Watch saved my life’: Madhya Pradesh man credits smartwatch after health scare
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/science/november-2025-stargazing-beaver-supermoon-taurids-leonids-meteor-showers-and-saturns-10337709/
 
+- Titan dials down on thinness to take aim at precision in watches
+  The new Ultra Slim uses one of the world’s thinnest quartz movements. It features a floating-disc hand just 160 microns thin — thinner
+  🔗 https://www.livemint.com/companies/news/titan-dials-down-on-thinness-to-take-aim-at-precision-in-watches-11761923506913.html
+
 - $380 billion! From Microsoft and Meta to Amazon and Alphabet — tech giants on spending spree amid AI boom
   Companies including Microsoft, Meta, Alphabet and Amazon race to invest in and build infrastructure for AI services.
   🔗 https://www.livemint.com/companies/news/ai-investment-380-billion-microsoft-meta-amazon-alphabet-capex-spend-tech-giants-on-spending-spree-amid-ai-boom-11761930750382.html
@@ -56,9 +60,9 @@
   Novo Nordisk CEO Mike Doustdar said the company has notified its employees who have been impacted by the job cuts. Novo Nordisk announced the job
   🔗 https://www.livemint.com/companies/news/novo-nordisk-layoffs-pharma-major-notifies-employees-impacted-by-9-000-job-cuts-amid-restructuring-drive-11761924733759.html
 
-- Netflix mulls acquiring Warner Bros Discovery; company hires bank, gains financial data access — Key things to know
-  Netflix has also gained access access to the data room, which the company needs to make the bid as it contains the
-  🔗 https://www.livemint.com/companies/news/netflix-mulls-acquiring-warner-bros-discovery-company-hires-bank-gains-financial-data-access-key-things-to-know-11761922335074.html
+- Distributor incomes at risk as Sebi’s fee overhaul threatens AMC margins
+  Sebi is likely to compel asset management companies to cut distributor commissions to protect their profit margins.
+  🔗 https://www.livemint.com/market/sebi-fee-distributor-income-amc-margins-india-mutual-fund-industry-sip-hdfc-bank-sbi-asset-management-11761894847457.html
 
 - NSE IPO will see the light of day during my tenure: Sebi chief Tuhin Kanta Pandey
   Tuhin Kanta Pandey didn't provide a specific timeline. His assertion suggests
@@ -76,9 +80,9 @@
   At 12:01 p.m. ET, the Dow Jones Industrial Average fell 0
   🔗 https://www.livemint.com/market/us-stock-market-today-wall-street-rebounds-after-upbeat-forecasts-from-apple-amazon-11761918085822.html
 
-- Orkla India IPO booked nearly 49 times by third day. Check latest GMP
-  Orkla India IPO was entirely an offer for sale of 2.28 crore shares. This means all the proceeds will go to the shareholders
-  🔗 https://www.livemint.com/market/ipo/orkla-india-ipo-booked-nearly-49-times-by-third-day-check-latest-gmp-11761911889128.html
+- Tata, Reliance, Adani outpace Big Tech outspend on new-age, digital factories
+  While the American firms are digital natives, India’s investments are led by traditional conglomerates diversifying into the factories of the AI age.
+  🔗 https://www.livemint.com/technology/tata-reliance-adani-us-big-tech-cloud-computing-in-india-digital-factories-ai-infra-india-data-centre-investment-llm-11761912830550.html
 
 - iOS 26.1 expected soon: What's in store for iPhone users? Here are the changes it could bring
   Apple is gearing up to launch iOS 26.1 soon. Here are the
@@ -96,29 +100,25 @@
   ASUS TUF gaming laptops blend durability with performance on a budget
   🔗 https://www.livemint.com/technology/gadgets/price-drop-alert-top-5-asus-tuf-gaming-laptop-deals-you-can-t-miss-11761894799298.html
 
-- Sora’s free video generations slashed as OpenAI adds fees: All you need to know
-  OpenAI has introduced a monetisation model for its Sora video generation app on iOS, ending unlimited free use. Users can now buy 10 extra video generations for $4 after reaching daily limits
-  🔗 https://www.livemint.com/technology/tech-news/soras-free-video-generations-slashed-as-openai-adds-fees-all-you-need-to-know-11761901902700.html
-
-- Stock Market Today: Amazon Surges to Record High, Boosting Nasdaq - The Wall Street Journal
-  ‘Magnificent Seven’ Drive Stocks to Historic Rally: Markets Wrap. Nasdaq, S&amp;P 500 rise as Amazon pushes indexes higher.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0tKbUs0bE5UNzhYQmRiUkY2dHF0QmxCMFZacjFlVnBxaVlWY2QwX1VrY0w2VGdlVE1mSmxXT2E5ZnVTc3I4ZUJ2XzZ2X3FiSGZHZ2w2VzcyZ21RMGhRN0VYaXhJN0RCWkpvUFdDR2xXYkNtS3BPMGNtdl95WDVSeHhiM0tpc2s?oc=5
+- Markets News, Oct. 31, 2025: Stocks End Higher as Amazon Boosts Nasdaq; Indexes Post Weekly, Monthly Gains - Investopedia
+  <ol><li><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBvM0hpYlJjbV95emNpOEJkdXYxMm91eFMwZVVtc2Z2Zk9EOUg3V0JZMDl4SlJFYmMwY3BkMzlKSllXUjdaMXVWcy1Zc2NhWXpqUm9iaVZWQ1EwNEFhdEFkQlI0d3JpM1FTQ2
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBvM0hpYlJjbV95emNpOEJkdXYxMm91eFMwZVVtc2Z2Zk9EOUg3V0JZMDl4SlJFYmMwY3BkMzlKSllXUjdaMXVWcy1Zc2NhWXpqUm9iaVZWQ1EwNEFhdEFkQlI0d3JpM1FTQ2V2dlhCbw?oc=5
 
 - Stock markets rebound in early trade - The Hindu
   <ol><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQZjRIZ1o4Mm5FY3VtUUhTa1ZrYm9kcmFYTlVKT2hqc2dfa3NIcEZub0pJaXlIZGNFS1ZDWWNTQnY5ZHRSRFFiZm4xY1RWSzlyLVJYRWVHWVZPU2FTTDhVa29pa1RMYmh6Tj
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQZjRIZ1o4Mm5FY3VtUUhTa1ZrYm9kcmFYTlVKT2hqc2dfa3NIcEZub0pJaXlIZGNFS1ZDWWNTQnY5ZHRSRFFiZm4xY1RWSzlyLVJYRWVHWVZPU2FTTDhVa29pa1RMYmh6TjZIYS1PZUJNY2V0U1JPSHJaOGZaSmtNUTBvOFhoRUwxVklQeDlZQmtMSUNyQWc5SXAyWHREdEHSAaYBQVVfeXFMTWxrZXhLVHhaRUZPN2VaZlB1SGZnb09JaHg3eHVybExQQWdfcXFPWEtGYUZ2Zlp3WWY3ZFh2ZE56WmVPWEJRMDRsRDZWZlRIaWsyb3JrSDFwQ2hFWk02QVl3SkFYT1BWUFNiZjVmTFBGM2lkX0ozcWtFQkpTUGc1aXZmWEtMaWI1UHh5bzBZTFVBOEpsVTdEWjJOdnZhdVItbG5HYnUzQQ?oc=5
 
-- India Exports Grow in Non-US Markets - Rediff MoneyWiz
-  India Exports Grow in
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNcEhUSWJUNXRhN0YxRGJNTUFIV1JySUhwNW9rR3g4OEV5TW53SEdRampDMGhmU3lNel9EWGV6MnhURFZHU3gxUDd4SEdoNHZVVjRtWjJaVzllOEJZNE9xVW53TDRRcUg1MzQ4VGo2OUxFYTBiTXR3S3FQZFJFR0ZzQm8zTS1lS2s5UzhKdmNpbFg2UdIBlwFBVV95cUxPVmpwdzRsYzlxUGFRVW4xV2pLOXp2Wk0xRHJCUGg2TjBNUFBBRGdoQWdHc096RDZiX2dBUGZoSUpIR1B1MVA1bnFvUVlaMlpFallOU0txUlMwOE1KVkxMczVHdkN3Sy01aUhsTS1BZjZFcXpsQUd2aUthTEtiUUpZR0pFV0gyNWJrcllKVlJyR3BrMjJDOXhr?oc=5
+- Global Money Markets Are Flashing Signals Liquidity Is Drying Up - Bloomberg.com
+  Global Money Markets Are Flashing Signals
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQdllWWjRsVWp4RXZBN050Z2xqT2NGV09kNWNTSThqY19sTWkzYmxzUXdGak9IckxocTRsUzgyZUE0dUxWYm1QazFrLVVpdFRvWU5UQUF6VVJwenNkUlFjLW03dlRyQ0kwRllITzh0bUlWVFVBRDYzYS1YWEI5S3BMXzBmLUcwZTduMW9Bbk8zQm9lT3dmQXVzOGxub0gteUg3X2I1ZHBHb056LWlDc2dQM1ZzckJ0UQ?oc=5
 
-- BNB vs XRP: Here’s How Traders Are Playing These Markets - Decrypt
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE0yX2prbkFmSXBGNTZsaW5HdEJRUnpUWVJFY2Fia1lSTWIxYlBpVTVSek1LcVNManVDRG1sZ3R2MDB0WHlqT2QtclBlTGNLQ2pieFAtQk9fVzVJUkFsZGpwOVVlcHNWVnA2S3JScG9yTUxWM2V6U0lJTNIBgAFBVV95cUxQMkZIdG5JbHJJUDFSenhJR3Rac05LQlpPR29wOUJ1TjIxbXB3cndhT2RFQS01bURJY0R2eTZHbkliTjM4Vll2UTFyQWhkb01LcWJCOU1QWmxyclRxaXpNVGwxd1U3Z2duaDBFQzdvRi1FT3JXMVVZLU1Gc0dobGRidw?oc=5
+- Is Eyantra Ventures Limited Stock a Good Defensive Play During Bear Markets - Earnings Season Recap & Breakout Portfolio Performance - earlytimes.in
+  Is Eyantra Ventures Limited Stock a Good Defensive Play During Bear Markets?
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHB1aHZWNHk3WUs5V3phOXY4UlgzOGxvc1dxaGZmTEJ3cFl3VEhIckc1dW15dnVmY3ZveVdTcVdKNzc2OGoxbzVtQlNrbXl2SlRIUm40bUF1TXdBYkgxT09qUEJvRHFyUnBVUU5kbUY3RUtQUzVVQV82eXlPQkNrT3NjTkl5akF5enYxWFNCYWhqTFFXVkFqNm9IZnVjRHRPUTBYVjNDSFMtMEcy?oc=5
 
-- Markets Wanted a Boost From Earnings, Fed and China Talks. How Powell Disappointed. - Barron's
-  Markets Wanted a Boost From Earnings, Fed and
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0RISHVjbDdXbkppaDFISlZpT3FwdzYwWnZmdGk3a1RUSU5qSTJIUTJ1c2kyLTNINHZxampqVDYwdGUxMnVweVFFZHcyZU9lN3ljWTNzWGQ5eUpHLUlvbkVyakJieUh6U2g4QUt3bmxZOXNOcUt5VWFoTVotam14cmw2aGtUdzUtRTltM0hONEpvZzI5VGk3dTY1YXZhSWc1dFE?oc=5
+- The Commodity Markets Outlook in eight charts - World Bank Blogs
+  The Commodity Markets Outlook in
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPanZHOXNTMTh2TlpLc2JaTjZ4cFktY2pDTVk4Nmw2X1FtWXplTjY1UGo2MHNmNGtCdWdBZ0lDVDBibElJRDN0eG9XVDhjeWZDNnhnRXFpd1VpUXFIUXE4YXpVQ21FR0tZLTI3YUdNUEY4bG1QTUdZN082MnV6cFJCTjJuOTU1eE40Qld1UzNOdDZWN0lwTl9lTw?oc=5
 
 - United Spirits warns of tough H2 despite strong Q2 led by premium brands
   United Spirits’ MD Praveen Someshwar said strong Q2 sales were driven by urban demand and premium brands. He warned of a challenging second half due to
@@ -148,17 +148,17 @@
   'Ties never been stronger': US signs big 10-year Defence Framework
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVE9RRnpGQ0plelRwQjJTVm9GQS1WY0hpSUpMREt1ZnB4b082ckFoU2NybWphMjEtbkdfNHdoX2RyNE11X25icWxWLVZiTm9POHBxVXVEOTgwblo0X0FWcnJNcnh2X1l2XzlnNlJvbmlScERUQU9xUWVNUlBKQXBIeEZLWXhRb2Y5V3lRUXhpRDJWNGcxcE5Ca1ZtazZCS0dIM2w1Y0Z6LV9TWTlHaVFGZkhNUHFScmQxbmQ1dERvbXN3Uk05bS1UQTFIWlFERGFqdlNv0gHYAUFVX3lxTE93UFFISXc0R0hEc2N1cHdNMjRkcEVBclhHVG9tVHk1WDZ3Wm1BX1VoNi13RTdXREZCQndYMFpvM3VBbloweVRTSkFXTktZTmNWLS1kY05ld1Q2eVotLTVZRUZkaDFMTkVEZnBka3lKN1hFTUk2WDEyTl9NTVhjbnpzNTVveGFELXlBUl9hbk9TU3EzR1EyMGNEN1NmamxiZmd5azlHMERrVW9CTmhrazZfN2FTVEs1Sno1Ql8zUWxRbEhHRkpTcmNuTnB5VG9lVFZ5ZkFBRUtHaQ?oc=5
 
-- India, US Sign Landmark 10-Year Defence Framework In Malaysia - NDTV
-  India, US Sign Landmark 10
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjdDamd0TlpVTFRnR3pBMEpVTVpKa1VPeXFJREtMdlBoVkN0NG5aY2MxLUlfalM4MEJvcTFMdDYtNGFUS3NTZVhCc2FpUU9KTmU4VzlfVmhaM1hHdnhyRmtEQzlUM2NlX2xmeWp0c2s0NDFqQ1ltY1dab3ZINEZWcGdtWXluOTE2V2xRbjRkMS12eHNBcXA0cHM2a0Nwd3lJNmfSAaoBQVVfeXFMTWZoaGNDazgzWWtnOUNLd3IzV0pGV2pIenpKRHZSMDdEZWc4TTJvVHNUaXZoV0RBekk3UHh6cnlxTHRIR0hhelo1WHpwTkxhSzhKQ0ZNWENfNDZ1aTJHRkpDOW4tdjIxQ0N6N3BOS1JnTTlYa3dmTWNHLTRGZmFVVkdpN0hmMi0zbFh0Z1hWeWRFLTFkaUw5WXNRT3hZSGlmNmtfeGs3U1FJaHc?oc=5
+- India, US ink new defence framework for 10 years; aim to deepen cooperation in all domains - The Times of India
+  India, US ink new defence framework for 10 years; aim to deepen cooperation.
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeWhvNWtxZFBfN2thUjNSNGVKcllWUVpRYzctX1JpUTNIbVZlaGVDZjFjdl9POU1tQVZMTThLZ0M4dkJLR2ZhbHRoQXVfTmp4a1FVN3VVRVc3Ty1ibUpfY2Y5MDRJTWVMYzFHZkFWOUZwLU8zX2dFdUlFU0NmTDVxOUg2ZG12ejV6UWZTTWp0N1ZKaTNvdE5XWWpvNXZxUW9MRFduM2RqS2dBak5fbGkzVjItZ0lNZXhwSWJ4X2VYMHFCV2VoR0VSMnA4TlFsQ1F4UDZMVndCM0pzRHVCbGxUa1FJQnBYLUN0VnBWUtIB8gFBVV95cUxOSWh0d2JBUGw1S0h6UmRpNXNLVjBveHZvLV9UWlJUWDVZVG92azhfaEpGZ2R0d2NyM0dyWmpHWDZULXJXSjBGb3RnYWpZaElrSVQxTzBndVVseFlaeVZlZENsTkFRaHRFdXdFTXBRUHpSNDhYc0c4ZGZOY1FUNG50UFBmZ0o4ZHFJbnp4VllkSS1vazBsczByNHAzMktlN2xJZUhWN3ZxLXdqWjNzaHQzVDlGZHhaSG1UNjNwODFvVkdDR0IzbE5aRk1Sd0h0cHNidTBRSFpmcU5zUVlNWVlGbEdvR3hxVnkwVk92R1V0VndFdw?oc=5
 
 - 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
   'You'll Never Do Business': Trump Brags Of
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
 
-- 'Severe water shortages': Pakistan faces 'acute risk' after India’s IWT suspension - report - Times of India
-  'Severe water shortages': Pakistan faces 'acute risk'
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVkgxenpiZlpjVFhCRklrV2NmSE1VMDA3RlNYZ2ExdVFUUTA5WVJrTV9JSnhSX2tTcFJRRUZhdDFndnRuRzkxbVo5cVU0RGtjd1NwQXBJNHpFeFN4aDlXQVhncGVaRTVMaTY4SVpjdDZ3clNudTVJU2R2bklib3FVZkt5d0h6M01ZU3FsUDZjaVp4UHJKanNYNTlyQWJQM0ZCRFozQmw0VTgxR3VJQUlOUlRMZEZMMFpMMDJtZjZ0T0gxZlZ2SV9ZQ1h4MjB0N09PMUY4TmJTa3BOZ0toYXNSTzFSTTF0eTBjU09iX2ZUbE1wd9IB9wFBVV95cUxOYnVHeXlCcVROMzI2aWxsOEE3UC1iamtYdjVwZWhrbFpMQmxjQXc2QjZ5R1JCSDFpQ2x3cGJaUksxWlFkNTIydG9PeW1vbnlyTnB0dWxnNXVJWGswaWk4MHRnU3lZMElEXzRKTDBCU2trR3dkUXNPbUhNclM4cjZuaHdkVElzOWg5T05makpLaHhXbTdIVGUwZ0J6SDBTODNTaGF0bUtrTDdjVDQ1dEJ5bzVVRWx6WE9LdzlQdkxEU244Nm1xOVUtMEF4bHYzWWxhd0QzU1Ryc1hPZHdjNFd2SzA2X2VPOUFhN3lsY0kxMzhmcExGanpR?oc=5
+- PMLA tribunal upholds ED's attachment of Karti's assets - The Times of India
+  PMLA tribunal upholds ED's attachment
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxONVVNeTBGc2xVMHZja2dtTTM2cE1OU3NOSGhtV09VWXhrb2xPZ3NCOXFOc2Jub01vOWdfQ3FnbWxhZ05aNTJ3UFY4Vm00ZjY5cXI0WEItQUF2YkZKSng0Q2M5MzltYnUtRWdwSVpkenNEQVUxN3JucU5HdWhwclRKNGxmenU1S3RwWnhIeEFqZDVxRnNxTWx2dTFQZU16bVdmaDhYbVBWQ0ZLTzI1RnBWOW45Q1l5UDE3V1F5Mk130gHDAUFVX3lxTE9UdUxLbkFlN1pvaGdwUm0yQ29NWDMxWFhtd3hFR3dkR2pXWlFoMGVrODBxUnVUQy1PQmEtZHVHeVF5Rmh3MFpqYUhoSi14U2VIWmFmNUxEMzNQUmZLYkppZUItN25obWdQVWQyU3N5c2VTYUlEYmFwQmlXNnV5WDRxcjB4TWpuemhCVTQ3aS0wQXZmZXF5dDBJRWlOMl90WVlGdVVBdDZJbndzUHBCN0hOTXZiYUsxUGxJZG5RTXhLcU1LZw?oc=5
 
 - India-US sign 10-year defence pact amid tariff turmoil - BBC
   India-US sign 10-
@@ -168,17 +168,17 @@
   'Ties never been stronger': US signs big 10-year Defence Framework
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVE9RRnpGQ0plelRwQjJTVm9GQS1WY0hpSUpMREt1ZnB4b082ckFoU2NybWphMjEtbkdfNHdoX2RyNE11X25icWxWLVZiTm9POHBxVXVEOTgwblo0X0FWcnJNcnh2X1l2XzlnNlJvbmlScERUQU9xUWVNUlBKQXBIeEZLWXhRb2Y5V3lRUXhpRDJWNGcxcE5Ca1ZtazZCS0dIM2w1Y0Z6LV9TWTlHaVFGZkhNUHFScmQxbmQ1dERvbXN3Uk05bS1UQTFIWlFERGFqdlNv0gHYAUFVX3lxTE93UFFISXc0R0hEc2N1cHdNMjRkcEVBclhHVG9tVHk1WDZ3Wm1BX1VoNi13RTdXREZCQndYMFpvM3VBbloweVRTSkFXTktZTmNWLS1kY05ld1Q2eVotLTVZRUZkaDFMTkVEZnBka3lKN1hFTUk2WDEyTl9NTVhjbnpzNTVveGFELXlBUl9hbk9TU3EzR1EyMGNEN1NmamxiZmd5azlHMERrVW9CTmhrazZfN2FTVEs1Sno1Ql8zUWxRbEhHRkpTcmNuTnB5VG9lVFZ5ZkFBRUtHaQ?oc=5
 
-- India, US Sign Landmark 10-Year Defence Framework In Malaysia - NDTV
-  India, US Sign Landmark 10
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjdDamd0TlpVTFRnR3pBMEpVTVpKa1VPeXFJREtMdlBoVkN0NG5aY2MxLUlfalM4MEJvcTFMdDYtNGFUS3NTZVhCc2FpUU9KTmU4VzlfVmhaM1hHdnhyRmtEQzlUM2NlX2xmeWp0c2s0NDFqQ1ltY1dab3ZINEZWcGdtWXluOTE2V2xRbjRkMS12eHNBcXA0cHM2a0Nwd3lJNmfSAaoBQVVfeXFMTWZoaGNDazgzWWtnOUNLd3IzV0pGV2pIenpKRHZSMDdEZWc4TTJvVHNUaXZoV0RBekk3UHh6cnlxTHRIR0hhelo1WHpwTkxhSzhKQ0ZNWENfNDZ1aTJHRkpDOW4tdjIxQ0N6N3BOS1JnTTlYa3dmTWNHLTRGZmFVVkdpN0hmMi0zbFh0Z1hWeWRFLTFkaUw5WXNRT3hZSGlmNmtfeGs3U1FJaHc?oc=5
+- India, US ink new defence framework for 10 years; aim to deepen cooperation in all domains - The Times of India
+  India, US ink new defence framework for 10 years; aim to deepen cooperation.
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeWhvNWtxZFBfN2thUjNSNGVKcllWUVpRYzctX1JpUTNIbVZlaGVDZjFjdl9POU1tQVZMTThLZ0M4dkJLR2ZhbHRoQXVfTmp4a1FVN3VVRVc3Ty1ibUpfY2Y5MDRJTWVMYzFHZkFWOUZwLU8zX2dFdUlFU0NmTDVxOUg2ZG12ejV6UWZTTWp0N1ZKaTNvdE5XWWpvNXZxUW9MRFduM2RqS2dBak5fbGkzVjItZ0lNZXhwSWJ4X2VYMHFCV2VoR0VSMnA4TlFsQ1F4UDZMVndCM0pzRHVCbGxUa1FJQnBYLUN0VnBWUtIB8gFBVV95cUxOSWh0d2JBUGw1S0h6UmRpNXNLVjBveHZvLV9UWlJUWDVZVG92azhfaEpGZ2R0d2NyM0dyWmpHWDZULXJXSjBGb3RnYWpZaElrSVQxTzBndVVseFlaeVZlZENsTkFRaHRFdXdFTXBRUHpSNDhYc0c4ZGZOY1FUNG50UFBmZ0o4ZHFJbnp4VllkSS1vazBsczByNHAzMktlN2xJZUhWN3ZxLXdqWjNzaHQzVDlGZHhaSG1UNjNwODFvVkdDR0IzbE5aRk1Sd0h0cHNidTBRSFpmcU5zUVlNWVlGbEdvR3hxVnkwVk92R1V0VndFdw?oc=5
 
 - 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
   'You'll Never Do Business': Trump Brags Of
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
 
-- 'Severe water shortages': Pakistan faces 'acute risk' after India’s IWT suspension - report - Times of India
-  'Severe water shortages': Pakistan faces 'acute risk'
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVkgxenpiZlpjVFhCRklrV2NmSE1VMDA3RlNYZ2ExdVFUUTA5WVJrTV9JSnhSX2tTcFJRRUZhdDFndnRuRzkxbVo5cVU0RGtjd1NwQXBJNHpFeFN4aDlXQVhncGVaRTVMaTY4SVpjdDZ3clNudTVJU2R2bklib3FVZkt5d0h6M01ZU3FsUDZjaVp4UHJKanNYNTlyQWJQM0ZCRFozQmw0VTgxR3VJQUlOUlRMZEZMMFpMMDJtZjZ0T0gxZlZ2SV9ZQ1h4MjB0N09PMUY4TmJTa3BOZ0toYXNSTzFSTTF0eTBjU09iX2ZUbE1wd9IB9wFBVV95cUxOYnVHeXlCcVROMzI2aWxsOEE3UC1iamtYdjVwZWhrbFpMQmxjQXc2QjZ5R1JCSDFpQ2x3cGJaUksxWlFkNTIydG9PeW1vbnlyTnB0dWxnNXVJWGswaWk4MHRnU3lZMElEXzRKTDBCU2trR3dkUXNPbUhNclM4cjZuaHdkVElzOWg5T05makpLaHhXbTdIVGUwZ0J6SDBTODNTaGF0bUtrTDdjVDQ1dEJ5bzVVRWx6WE9LdzlQdkxEU244Nm1xOVUtMEF4bHYzWWxhd0QzU1Ryc1hPZHdjNFd2SzA2X2VPOUFhN3lsY0kxMzhmcExGanpR?oc=5
+- PMLA tribunal upholds ED's attachment of Karti's assets - The Times of India
+  PMLA tribunal upholds ED's attachment
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxONVVNeTBGc2xVMHZja2dtTTM2cE1OU3NOSGhtV09VWXhrb2xPZ3NCOXFOc2Jub01vOWdfQ3FnbWxhZ05aNTJ3UFY4Vm00ZjY5cXI0WEItQUF2YkZKSng0Q2M5MzltYnUtRWdwSVpkenNEQVUxN3JucU5HdWhwclRKNGxmenU1S3RwWnhIeEFqZDVxRnNxTWx2dTFQZU16bVdmaDhYbVBWQ0ZLTzI1RnBWOW45Q1l5UDE3V1F5Mk130gHDAUFVX3lxTE9UdUxLbkFlN1pvaGdwUm0yQ29NWDMxWFhtd3hFR3dkR2pXWlFoMGVrODBxUnVUQy1PQmEtZHVHeVF5Rmh3MFpqYUhoSi14U2VIWmFmNUxEMzNQUmZLYkppZUItN25obWdQVWQyU3N5c2VTYUlEYmFwQmlXNnV5WDRxcjB4TWpuemhCVTQ3aS0wQXZmZXF5dDBJRWlOMl90WVlGdVVBdDZJbndzUHBCN0hOTXZiYUsxUGxJZG5RTXhLcU1LZw?oc=5
 
 - India-US sign 10-year defence pact amid tariff turmoil - BBC
   India-US sign 10-
@@ -188,65 +188,37 @@
   'Ties never been stronger': US signs big 10-year Defence Framework
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVE9RRnpGQ0plelRwQjJTVm9GQS1WY0hpSUpMREt1ZnB4b082ckFoU2NybWphMjEtbkdfNHdoX2RyNE11X25icWxWLVZiTm9POHBxVXVEOTgwblo0X0FWcnJNcnh2X1l2XzlnNlJvbmlScERUQU9xUWVNUlBKQXBIeEZLWXhRb2Y5V3lRUXhpRDJWNGcxcE5Ca1ZtazZCS0dIM2w1Y0Z6LV9TWTlHaVFGZkhNUHFScmQxbmQ1dERvbXN3Uk05bS1UQTFIWlFERGFqdlNv0gHYAUFVX3lxTE93UFFISXc0R0hEc2N1cHdNMjRkcEVBclhHVG9tVHk1WDZ3Wm1BX1VoNi13RTdXREZCQndYMFpvM3VBbloweVRTSkFXTktZTmNWLS1kY05ld1Q2eVotLTVZRUZkaDFMTkVEZnBka3lKN1hFTUk2WDEyTl9NTVhjbnpzNTVveGFELXlBUl9hbk9TU3EzR1EyMGNEN1NmamxiZmd5azlHMERrVW9CTmhrazZfN2FTVEs1Sno1Ql8zUWxRbEhHRkpTcmNuTnB5VG9lVFZ5ZkFBRUtHaQ?oc=5
 
-- India, US Sign Landmark 10-Year Defence Framework In Malaysia - NDTV
-  India, US Sign Landmark 10
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjdDamd0TlpVTFRnR3pBMEpVTVpKa1VPeXFJREtMdlBoVkN0NG5aY2MxLUlfalM4MEJvcTFMdDYtNGFUS3NTZVhCc2FpUU9KTmU4VzlfVmhaM1hHdnhyRmtEQzlUM2NlX2xmeWp0c2s0NDFqQ1ltY1dab3ZINEZWcGdtWXluOTE2V2xRbjRkMS12eHNBcXA0cHM2a0Nwd3lJNmfSAaoBQVVfeXFMTWZoaGNDazgzWWtnOUNLd3IzV0pGV2pIenpKRHZSMDdEZWc4TTJvVHNUaXZoV0RBekk3UHh6cnlxTHRIR0hhelo1WHpwTkxhSzhKQ0ZNWENfNDZ1aTJHRkpDOW4tdjIxQ0N6N3BOS1JnTTlYa3dmTWNHLTRGZmFVVkdpN0hmMi0zbFh0Z1hWeWRFLTFkaUw5WXNRT3hZSGlmNmtfeGs3U1FJaHc?oc=5
+- India, US ink new defence framework for 10 years; aim to deepen cooperation in all domains - The Times of India
+  India, US ink new defence framework for 10 years; aim to deepen cooperation.
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeWhvNWtxZFBfN2thUjNSNGVKcllWUVpRYzctX1JpUTNIbVZlaGVDZjFjdl9POU1tQVZMTThLZ0M4dkJLR2ZhbHRoQXVfTmp4a1FVN3VVRVc3Ty1ibUpfY2Y5MDRJTWVMYzFHZkFWOUZwLU8zX2dFdUlFU0NmTDVxOUg2ZG12ejV6UWZTTWp0N1ZKaTNvdE5XWWpvNXZxUW9MRFduM2RqS2dBak5fbGkzVjItZ0lNZXhwSWJ4X2VYMHFCV2VoR0VSMnA4TlFsQ1F4UDZMVndCM0pzRHVCbGxUa1FJQnBYLUN0VnBWUtIB8gFBVV95cUxOSWh0d2JBUGw1S0h6UmRpNXNLVjBveHZvLV9UWlJUWDVZVG92azhfaEpGZ2R0d2NyM0dyWmpHWDZULXJXSjBGb3RnYWpZaElrSVQxTzBndVVseFlaeVZlZENsTkFRaHRFdXdFTXBRUHpSNDhYc0c4ZGZOY1FUNG50UFBmZ0o4ZHFJbnp4VllkSS1vazBsczByNHAzMktlN2xJZUhWN3ZxLXdqWjNzaHQzVDlGZHhaSG1UNjNwODFvVkdDR0IzbE5aRk1Sd0h0cHNidTBRSFpmcU5zUVlNWVlGbEdvR3hxVnkwVk92R1V0VndFdw?oc=5
 
 - 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
   'You'll Never Do Business': Trump Brags Of
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
 
-- 'Severe water shortages': Pakistan faces 'acute risk' after India’s IWT suspension - report - Times of India
-  'Severe water shortages': Pakistan faces 'acute risk'
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVkgxenpiZlpjVFhCRklrV2NmSE1VMDA3RlNYZ2ExdVFUUTA5WVJrTV9JSnhSX2tTcFJRRUZhdDFndnRuRzkxbVo5cVU0RGtjd1NwQXBJNHpFeFN4aDlXQVhncGVaRTVMaTY4SVpjdDZ3clNudTVJU2R2bklib3FVZkt5d0h6M01ZU3FsUDZjaVp4UHJKanNYNTlyQWJQM0ZCRFozQmw0VTgxR3VJQUlOUlRMZEZMMFpMMDJtZjZ0T0gxZlZ2SV9ZQ1h4MjB0N09PMUY4TmJTa3BOZ0toYXNSTzFSTTF0eTBjU09iX2ZUbE1wd9IB9wFBVV95cUxOYnVHeXlCcVROMzI2aWxsOEE3UC1iamtYdjVwZWhrbFpMQmxjQXc2QjZ5R1JCSDFpQ2x3cGJaUksxWlFkNTIydG9PeW1vbnlyTnB0dWxnNXVJWGswaWk4MHRnU3lZMElEXzRKTDBCU2trR3dkUXNPbUhNclM4cjZuaHdkVElzOWg5T05makpLaHhXbTdIVGUwZ0J6SDBTODNTaGF0bUtrTDdjVDQ1dEJ5bzVVRWx6WE9LdzlQdkxEU244Nm1xOVUtMEF4bHYzWWxhd0QzU1Ryc1hPZHdjNFd2SzA2X2VPOUFhN3lsY0kxMzhmcExGanpR?oc=5
+- PMLA tribunal upholds ED's attachment of Karti's assets - The Times of India
+  PMLA tribunal upholds ED's attachment
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxONVVNeTBGc2xVMHZja2dtTTM2cE1OU3NOSGhtV09VWXhrb2xPZ3NCOXFOc2Jub01vOWdfQ3FnbWxhZ05aNTJ3UFY4Vm00ZjY5cXI0WEItQUF2YkZKSng0Q2M5MzltYnUtRWdwSVpkenNEQVUxN3JucU5HdWhwclRKNGxmenU1S3RwWnhIeEFqZDVxRnNxTWx2dTFQZU16bVdmaDhYbVBWQ0ZLTzI1RnBWOW45Q1l5UDE3V1F5Mk130gHDAUFVX3lxTE9UdUxLbkFlN1pvaGdwUm0yQ29NWDMxWFhtd3hFR3dkR2pXWlFoMGVrODBxUnVUQy1PQmEtZHVHeVF5Rmh3MFpqYUhoSi14U2VIWmFmNUxEMzNQUmZLYkppZUItN25obWdQVWQyU3N5c2VTYUlEYmFwQmlXNnV5WDRxcjB4TWpuemhCVTQ3aS0wQXZmZXF5dDBJRWlOMl90WVlGdVVBdDZJbndzUHBCN0hOTXZiYUsxUGxJZG5RTXhLcU1LZw?oc=5
 
-- India-US sign 10-year defence pact amid tariff turmoil - BBC
-  India-US sign 10-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aQTI1czNJUk90c2NnUFdreVpzYl9SUl9fekJsTTNJbkcxM2kybjJITWxXWHZ1b1dCODlYQkd6RDE5YWlFR3VKeXdkN3Z6aDZyd3h0NE16V25xQdIBX0FVX3lxTE5qNTFxZm9yU3phN2ZtZGhnTjRwdjg3TXpqN0NFWG1OWEp3TDdqN05uMTFaZDI1YzlXOTZFdnlud1Z5anhPWnNWNWU0aWtwaUJEdmstRHN4dXFaODlaUEo4?oc=5
+- China Is Building the Future - The Atlantic
+  The Atlantic is a
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQa2ZGd3pMWmpjV0lIRlVhVnlGR1Z6VWVQdzNCTzRSZGlmWjRobWpXZlFuVkh2T3pwcVNaVmRLTUhkSElSMmdjd0daOGwxQkZmSzhSajQtT2p2Zmd1WG5HRV84aG1pRk1rSHdIWlIyU2ZMTjVmQ29OTFhqTDFGUUxmYmhocEh6Q0lTcmNKTkZiQjZCdw?oc=5
 
-- 'Ties never been stronger': US signs big 10-year Defence Framework with India | Latest News India - Hindustan Times
-  'Ties never been stronger': US signs big 10-year Defence Framework
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVE9RRnpGQ0plelRwQjJTVm9GQS1WY0hpSUpMREt1ZnB4b082ckFoU2NybWphMjEtbkdfNHdoX2RyNE11X25icWxWLVZiTm9POHBxVXVEOTgwblo0X0FWcnJNcnh2X1l2XzlnNlJvbmlScERUQU9xUWVNUlBKQXBIeEZLWXhRb2Y5V3lRUXhpRDJWNGcxcE5Ca1ZtazZCS0dIM2w1Y0Z6LV9TWTlHaVFGZkhNUHFScmQxbmQ1dERvbXN3Uk05bS1UQTFIWlFERGFqdlNv0gHYAUFVX3lxTE93UFFISXc0R0hEc2N1cHdNMjRkcEVBclhHVG9tVHk1WDZ3Wm1BX1VoNi13RTdXREZCQndYMFpvM3VBbloweVRTSkFXTktZTmNWLS1kY05ld1Q2eVotLTVZRUZkaDFMTkVEZnBka3lKN1hFTUk2WDEyTl9NTVhjbnpzNTVveGFELXlBUl9hbk9TU3EzR1EyMGNEN1NmamxiZmd5azlHMERrVW9CTmhrazZfN2FTVEs1Sno1Ql8zUWxRbEhHRkpTcmNuTnB5VG9lVFZ5ZkFBRUtHaQ?oc=5
+- Quantum technology is coming to the real world - Financial Times
+  Quantum technology is coming to the
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTFAzSXZMZlNmRUE2SENQb1Z6dzVZLVF4TmF5SkdSaS00dTBMYXNfek85YWZ5VE9fN0FrRmUzMzVVeFNfWDRXUS1wV1J6UldQcUNHWUllYkFkbC1XZGw4d2JyTVB2bW9pMDJ6VUhaaTlZMlA?oc=5
 
-- India, US Sign Landmark 10-Year Defence Framework In Malaysia - NDTV
-  India, US Sign Landmark 10
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjdDamd0TlpVTFRnR3pBMEpVTVpKa1VPeXFJREtMdlBoVkN0NG5aY2MxLUlfalM4MEJvcTFMdDYtNGFUS3NTZVhCc2FpUU9KTmU4VzlfVmhaM1hHdnhyRmtEQzlUM2NlX2xmeWp0c2s0NDFqQ1ltY1dab3ZINEZWcGdtWXluOTE2V2xRbjRkMS12eHNBcXA0cHM2a0Nwd3lJNmfSAaoBQVVfeXFMTWZoaGNDazgzWWtnOUNLd3IzV0pGV2pIenpKRHZSMDdEZWc4TTJvVHNUaXZoV0RBekk3UHh6cnlxTHRIR0hhelo1WHpwTkxhSzhKQ0ZNWENfNDZ1aTJHRkpDOW4tdjIxQ0N6N3BOS1JnTTlYa3dmTWNHLTRGZmFVVkdpN0hmMi0zbFh0Z1hWeWRFLTFkaUw5WXNRT3hZSGlmNmtfeGs3U1FJaHc?oc=5
+- Odisha startup awarded for innovation in defence technology - The Times of India
+  Odisha startup awarded for innovation in defence
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVkgxaThYSDFwOVhISElJR1pPTkZzZGE0eEs4aUNXYlRWYUpYNEg4QjVPTmIxbEFOd0VSQlMxYTljWUtzNkVub2JsZk9RVFQyT056Z2tqQnNBSHc2dlcxT0MwM2d2ak82RGxtMV9HUzFwSlU0R1ltMm9WZll6dFFRRk9mMjNIaHl1eVJpVGNnVENJeDdLM21SYUg0clNiRjlFMG84aTcyQThTMWFrNG1iZVh3REJWRmR6cFhhMVZ0X0t2VkR0UHhXYzlOZ1ZGbl91TnVVddIB2gFBVV95cUxNcWR2U1RFRnJlRDUxMFNUTVhCVS1VN1lLemFFS3NKWjBnMk9adFljamlMT0tKbWdKbFAtdWNnOHR4Z0VZUmI3RnpQTTk2NGdDaC01bUlZY0puWXpBc1lnLW1GdmtKcTJISUtWdXNMbHNQeE1nVzFxT2FaMHhvQmE2TWNENzhhQVdyU0lzTjdFSlBzNXZwTm44RzJPdl9wbkswSWc2UTJwLUNkTzVReXlHVmN2MHVHTlM3dDItT090OFdRZHNHX01jV1VRNlJOTzhlSldSU25xa1lEQQ?oc=5
 
-- 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
-  'You'll Never Do Business': Trump Brags Of
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
+- Real technology bets will define India's market future: Shankar Sharma - Business Standard
+  Real technology bets will define India's market future
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ0MwTlgyN19peFNxVHJnVmZRejZjdW16QUtSM1hKcFZoejdrUE51SjdwcTdGY1JDbm42XzR5NGxxc2pVN2VJUkhEY21qcjkyNWw2cDlkT2NkRmhNX2YyRjd4V3dPb2wwVXZIZXJTRFRGSkNINFl3bmJ3TzR0b09zMmRVQmpSX2xTdlplMEl6aTV5SnkyTXBRb3hKNUl3eDl5OXJVR0JWWmdQOV9uWmhpQll6MDJhR2Q0cGRoelZzaFRLYnpEcDV2LVJKYlJWbEt6cV9nUzN3d9IB3AFBVV95cUxQUUMzR0ZmOGZkWG16SGFDWVVSRWgtdzk3bjU3eXRCaVRoTllQcTRxaUVtOUNrWWo0UUFuYVkyYTFBcy0xTHVIY3F2TWlreXRnNHZfSkhaYVFlM0NhNzVhVzlFaDczY1FqTVRtOW9DMm9mSjVaVVN2YWJWckFENGxzNUh1VXNUNnZMbjBLTzVRRnRTYkpZdXZPc3BmenlRdVEyQ1RZMlJDMnA3ZENQWVB2ZkdURXBsc0pIeTRHM1FqSXBILXJxUlFJWGV4a1EzeDhXNllrSXhqcEFERXA2?oc=5
 
-- 'Severe water shortages': Pakistan faces 'acute risk' after India’s IWT suspension - report - Times of India
-  'Severe water shortages': Pakistan faces 'acute risk'
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVkgxenpiZlpjVFhCRklrV2NmSE1VMDA3RlNYZ2ExdVFUUTA5WVJrTV9JSnhSX2tTcFJRRUZhdDFndnRuRzkxbVo5cVU0RGtjd1NwQXBJNHpFeFN4aDlXQVhncGVaRTVMaTY4SVpjdDZ3clNudTVJU2R2bklib3FVZkt5d0h6M01ZU3FsUDZjaVp4UHJKanNYNTlyQWJQM0ZCRFozQmw0VTgxR3VJQUlOUlRMZEZMMFpMMDJtZjZ0T0gxZlZ2SV9ZQ1h4MjB0N09PMUY4TmJTa3BOZ0toYXNSTzFSTTF0eTBjU09iX2ZUbE1wd9IB9wFBVV95cUxOYnVHeXlCcVROMzI2aWxsOEE3UC1iamtYdjVwZWhrbFpMQmxjQXc2QjZ5R1JCSDFpQ2x3cGJaUksxWlFkNTIydG9PeW1vbnlyTnB0dWxnNXVJWGswaWk4MHRnU3lZMElEXzRKTDBCU2trR3dkUXNPbUhNclM4cjZuaHdkVElzOWg5T05makpLaHhXbTdIVGUwZ0J6SDBTODNTaGF0bUtrTDdjVDQ1dEJ5bzVVRWx6WE9LdzlQdkxEU244Nm1xOVUtMEF4bHYzWWxhd0QzU1Ryc1hPZHdjNFd2SzA2X2VPOUFhN3lsY0kxMzhmcExGanpR?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Technology enriched India beckons others to follow - Daily Excelsior
+  Technology enriched India beckons others
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWhvZkNhZHdXSTM2ellsZnlUeEFOekwxSUVKYTBOM2ExUTUzYlM1dlNMelhaTjM5aTJtUFhFRXF0OFJWUXJwUkhJNEZOU2tzOExQdHNKQjZWVExWb2ZHVkVqczZLOThNWDBMc3NDVGM4V212d0ZDWERVdGlGeU5qUzhCeGVzRUZFc2c?oc=5
 
 
-_Last updated: 2025-10-31 18:27:00 UTC_
+_Last updated: 2025-11-01 01:17:41 UTC_
