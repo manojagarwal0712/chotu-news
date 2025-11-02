@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Railways approves third Vande Bharat train for Kerala – check route, travel time, stoppages, timings
+- 15 die as tempo traveller rams stationary truck in Rajasthan’s Phalodi
   
-  🔗 https://indianexpress.com/article/india/railways-third-vande-bharat-train-kerala-ernakulam-bengaluru-stops-timings-10341729/
+  🔗 https://indianexpress.com/article/india/15-die-as-tempo-traveller-rams-stationary-truck-in-rajasthans-phalodi-10342298/
 
-- Indian Railways extends New Delhi-Moga Express up to Firozpur Cantt – check stoppages, timings
+- ISRO launches heaviest comm satellite from India: Five things to know about LVM3-M5
   
-  🔗 https://indianexpress.com/article/india/railways-extends-new-delhi-moga-express-to-firozpur-cantt-stops-timings-ticket-price-10340455/
+  🔗 https://indianexpress.com/article/india/isro-bahubali-rocket-heaviest-satellite-orbit-lvm3-m5-10342210/
 
-- ‘Even Trump doesn’t know what could happen tomorrow’: Army Chief Upendra Dwivedi says future threats unpredictable
+- Life Certificate for Pensioners 2025: Know how to submit online, check status, last date | Step-by-step guide
   
-  🔗 https://indianexpress.com/article/india/trump-tomorrow-army-chief-upendra-dwivedi-future-threats-unpredictable-10341542/
+  🔗 https://indianexpress.com/article/india/life-certificate-for-pensioners-2025-know-how-to-submit-online-check-status-last-date-step-by-step-guide-10342092/
 
-- NHSRCL invites bids for final alignment design of Amritsar–Jammu High Speed Rail Corridor
+- Rahul jumps into muddy pond, interacts with fishermen in poll-bound Bihar
   
-  🔗 https://indianexpress.com/article/india/nhsrcl-tender-final-alignment-design-amritsar-jammu-bullet-train-project-10341489/
+  🔗 https://indianexpress.com/article/india/rahul-jumps-into-muddy-pond-interacts-with-fishermen-in-poll-bound-bihar-10342041/
 
-- ‘Not a CPI-CPM tussle, but a test of conviction on ideology’: Binoy Viswam on Kerala’s PM-SHRI row
+- 5 stories you must read today, November 2: From Army chief’s ‘Trump’ remark to ISRO satellite launch and more
   
-  🔗 https://indianexpress.com/article/india/cpi-cpm-tussle-test-conviction-ideology-binoy-viswam-kerala-pm-shri-row-10341522/
+  🔗 https://indianexpress.com/article/india/5-stories-you-must-read-today-november-2-isro-trump-army-chief-pakistan-uk-mokama-10342019/
 
 - Fifty per cent off: Compact Leica camera delight now at a mid-segment price
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-turned-google-cloud-from-also-ran-into-alphabets-growth-driver-10341255/
 
+- Zepto removes handling, surge fees on all orders — How does it compare with Instamart and Blinkit?
+  Zepo is the only mainstream quick commerce platform as on date to levy zero handling and platform fees. Swiggy Instamart and Blinkit charge  ⁹9.8 and  �
+  🔗 https://www.livemint.com/companies/news/zepto-removes-handling-surge-fees-on-all-orders-how-does-it-compare-with-instamart-and-blinkit-11762085771388.html
+
+- Dine-out sees a facelift as Swiggy tastes profits while Zomato builds breadth
+  Out-of-home consumption
+  🔗 https://www.livemint.com/companies/news/dineout-swiggy-profit-revenue-eternal-zomato-out-of-home-consumption-food-tech-gross-order-value-net-order-value-11762070138055.html
+
+- Do you want to live longer? Startups are selling biohacks—for a premium.
+  Zomato's Deepinder Goyal has committed $25 million to longevity research. Entrepreneurs and investors are tapping into
+  🔗 https://www.livemint.com/companies/longer-life-startups-biohacks-health-nutitionists-wellness-therapies-investors-ageing-genomic-testing-supplements-11761720541398.html
+
 - Mint Explainer: Is Shadowfax’s client concentration the canary in the logistics coal mine?
   Nearly half of Shadowfax's  ₹2,485-crore operating revenue in FY25 came from a single large client. It isn't
   🔗 https://www.livemint.com/companies/news/shadowfax-ipo-shadowfax-technologies-shadowfax-concentration-risk-11762066562663.html
@@ -48,17 +60,9 @@
   Invesco Asset Management Company India is the 16th-largest asset manager in the country. IIHL
   🔗 https://www.livemint.com/companies/news/iihl-invesco-joint-venture-indusind-bank-amc-acquisition-11762075319260.html
 
-- Warren Buffett's Berkshire Hathaway offloads billions in stocks for 12th straight quarter — What does it signal?
-  The company sold $12.5 billion of stock in the three months ended September and bought $6.
-  🔗 https://www.livemint.com/companies/news/warren-buffetts-berkshire-hathaway-offloads-billions-in-stocks-for-12th-straight-quarter-what-does-it-signal-11762074054211.html
-
-- Satya Nadella says Microsoft will increase headcount following major layoffs, but there is a rider
-  Microsoft CEO Satya Nadella announced plans to expand the workforce following recent layoffs. The company aims to grow headcount in a smarter way,
-  🔗 https://www.livemint.com/companies/news/satya-nadella-says-microsoft-will-increase-headcount-following-major-layoffs-but-there-is-a-rider-11762071653869.html
-
-- Elon Musk vs Sam Altman again! OpenAI CEO alleges Tesla order issues, Musk hits back with, ‘you stole a non-profit’
-  Elon Musk and Sam Altman's feud intensified after Altman alleged his Tesla reservation was not canceled. While Altman claimed delays
-  🔗 https://www.livemint.com/companies/people/elon-musk-vs-sam-altman-again-openai-ceo-alleges-tesla-order-issues-musk-hits-back-with-you-stole-a-nonprofit-11762065022753.html
+- Wall Street week ahead: Market’s focus on Q3 earnings amid longest US government shutdown
+  Market participants will also be monitoring several important economic data releases, including the job openings figures, manufacturing and services PMIs.
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-market-s-focus-on-q3-earnings-amid-longest-us-government-shutdown-11762103611986.html
 
 - Millions will be wiped out - Rich Dad Poor Dad author Robert Kiyosaki warns of market crash, shares safe bets
   Kiyosaki warns of an approaching stock market crash. He suggests investors turn to hard assets like gold, silver, and cryptocurrencies for protection.
@@ -76,49 +80,45 @@
   Bharti Airtel, State Bank of India, Life Insurance Corporation of India among marquee companies to declare their Q2
   🔗 https://www.livemint.com/market/stock-market-news/q2-results-2025-bharti-airtel-sbi-lic-paytm-adani-ent-m-m-among-companies-to-declare-earnings-next-week-11762061558175.html
 
-- Gold prices on Sunday: Check rates in Mumbai, Bengaluru, Chennai, New Delhi, Kolkata on November 2
-  Here's how much gold costs in Mumbai, Bengaluru, Chennai, Hyder
-  🔗 https://www.livemint.com/market/commodities/gold-prices-on-sunday-check-rates-in-mumbai-bengaluru-chennai-new-delhi-kolkata-on-november-2-11762058897276.html
+- Lava Agni 4 to launch in India on 20 November: here's what to expect
+  Lava will launch the Agni 4 on 20 November. It could feature a 6.67-inch OLED display and
+  🔗 https://www.livemint.com/technology/gadgets/lava-agni-4-to-launch-in-india-on-20-november-heres-what-to-expect-11762102390529.html
+
+- Apple to ‘lean’ on Google for Siri revamp, Gemini set to be the brain behind AI assistant: Report
+  Apple's Siri upgrade, powered by Google's Gemini, is set for March next year, with a focus on improved AI features. This aligns with Apple's
+  🔗 https://www.livemint.com/technology/tech-news/apple-to-lean-on-google-for-siri-revamp-gemini-set-to-be-the-brain-behind-ai-assistant-report-11762093658145.html
+
+- Meta denies using pirated porn to train AI, says downloads were for ‘personal use’
+   Meta rejected allegations from Strike 3 Holdings that it used pirated adult films for AI training. The company criticized the lawsuit as baseless, pointed to its prohibition against adult content generation
+  🔗 https://www.livemint.com/technology/tech-news/meta-denies-using-pirated-porn-to-train-ai-says-downloads-were-for-personal-use-11762088117519.html
+
+- Are ads coming to Gemini? Google executive says ‘Users are starting to see…’
+  Google is enhancing its search with AI features amid challenges to its ad revenue model. The company plans to introduce ads in various AI experiences.
+  🔗 https://www.livemint.com/technology/tech-news/are-ads-coming-to-gemini-google-executive-says-users-are-starting-to-see-11762083650247.html
 
 - OnePlus 13, OnePlus 13s start receiving OxygenOS 16 update in India: How to download, new features and more
   The OxygenOS 16 update is now available for the OnePlus 13 and 13s. Other devices will receive the update in phases until March 2026.
   🔗 https://www.livemint.com/technology/tech-news/oneplus-13-oneplus-13s-start-receiving-oxygenos-16-update-in-india-how-to-download-new-features-and-more-11762076741634.html
 
-- 7 Viral Gemini Nano Banana prompts to turn your selfies into studio-style business portraits
-  Gemini Nano Banana AI lets users transform selfies into glossy, studio-style portraits. Here's a step-by-step guide to try.
-  🔗 https://www.livemint.com/technology/tech-news/from-selfies-to-studio-shots-gemini-nano-banana-sparks-viral-ai-portrait-trend-7-prompts-to-try-11762075776309.html
-
-- Elon Musk accuses Sam Altman of lying about Tesla Roadster refund: ‘That's in your nature…’
-  Elon Musk refuted Sam Altman's claims regarding a refund for a canceled Tesla Roadster. Musk also accused Altman of stealing a non-profit amid ongoing lawsuits related to OpenAI
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-accuses-sam-altman-of-lying-about-tesla-roadster-refund-thats-in-your-nature-11762072763153.html
-
-- Zoho co-founder Sridhar Vembu believes AI creativity lies outside the training distribution: Here's why
-  Zoho co-founder Sridhar Vembu says true creativity lies outside the training distribution. He explained why AI models like LLMs struggle compared to game engines such as those for chess or Go.
-  🔗 https://www.livemint.com/technology/tech-news/zoho-co-founder-sridhar-vembu-believes-ai-creativity-lies-outside-the-training-distribution-heres-why-11762063783146.html
-
-- Samsung Galaxy S26 series full Specs leaked: 200MP camera, Snapdragon 8 Gen 5 Power SoC and 5400mAh battery tipped
-  Samsung’s upcoming Galaxy S26 series is tipped to bring major upgrades in cameras, AI, and display tech. Leaks suggest M14 OLED panels, powerful Exynos 2600 or Snapdragon
-  🔗 https://www.livemint.com/technology/tech-news/samsung-galaxy-s26-series-full-specs-leaked-200mp-camera-snapdragon-8-gen-5-power-soc-and-5400mah-battery-tipped-11762056842171.html
-
-- Stock market today: Dow, S&P 500, Nasdaq climb to cap winning month as strong earnings, easing rates fuel Amazon, tech stocks - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq climb to cap winning month as strong earnings
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMHAycFBzbVRaMlBnMDYxZFpONjQ4cVM1NUY2WWJiWVV4ZkRVR3JXN3ZMdjFBYlI5dElEZEVCWVdnYWtLd3k3QXdBOFpER3l0ekxxdTJqM3NDbllsV0prWTJPZHJJaXZNUjRCQWUwVmtVWE00UldMVDJxY2ZUd1gzUFk5YzVlaDFWMDhYVEcyOGlXQWxmQk10MVlvYlhvUjdaeUttWTlWUi0tVUIxUHU1am1JYjRnZXlwSi1UbERkQ0NuSzlNOFkwQ2ZsTjN0MG5RajhjYnpTdGY2eHRPWHhyekdRY0NFbHpPWXJOUF8zVDVSSGdrbXVmbDRNaHNJQXc?oc=5
+- After August gasp, market draws its deepest breath in four months - Business Standard
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQN05aOGliazJjd3hFc1lBNVB5bDVaOTlxUHIyV25ZR0NybTZyMXVmV0FoZzJfazJqcU9reGFjRnp6N3hhdHYzaTZabnZXN0hmRnZMWllyQllGeG4wNGZPV29WdVhMR29yX0
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQN05aOGliazJjd3hFc1lBNVB5bDVaOTlxUHIyV25ZR0NybTZyMXVmV0FoZzJfazJqcU9reGFjRnp6N3hhdHYzaTZabnZXN0hmRnZMWllyQllGeG4wNGZPV29WdVhMR29yX0dQbE5pZmZ3aWdCUlBJSjRiRlRsbXA3eFYwTXJiNENCdmZiMW1zNEJIYVVyYTFtYXV5eWx6UjZPUVE3OFMtYTUxbkhpMVZ0czU4SFI5Vm1FTjY3RGFhdFNpU29VWjlZWUxvTdIB0AFBVV95cUxPdHZBcTdwQlFVQkdUYnJUOUJWcVI1bW4tM2RQUUVWNFFsS014TnBDY3FXWGZYZEZaTzVZTW1zeFdjbDFKVG1lQjVxRXY3LVVyUnZoNUxsdzVPaTBqWi1vRGZKRVRzQ1hRSzFGQUxuWko1V3JkdTJMUHI1dVVJbll6ckFQUzNDYjRnUmlSelFvZC00VFFydWY3cktCcE5xbC1DeFc3WmtGTC16TGZRT2NxNV9JTE53bW1obDVZWGFJS24yc0lTdFNwMHFsbHpscnQy?oc=5
 
 - ‘Magnificent Seven’ Drive Stocks to Historic Rally: Markets Wrap - Bloomberg.com
   ‘Magnificent Seven’
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOVHNVaU9vT2hVZXZ5Vk96UDdxV1J6bXZ6aS1ZRmZUcGVCbzRfN0xadXA4d3NnWkl1amtIZFVqQ1Q4WHBGN3lwUWdnaTFyOWROSjBHU25taUtYZmpYbk1aRjVBNF81OVRaQWxCS2g3WHVQQ3Q3eUJ3RFVPVFZSZ0RLMHFEZ0FiRFpxRzJ1bzNUWXBNQnlL?oc=5
 
-- Markets News, Oct. 31, 2025: Stocks End Higher as Amazon Boosts Nasdaq; Indexes Post Weekly, Monthly Gains - Investopedia
-  The Nasdaq Composite Index is up 1.7% this year. The
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBvM0hpYlJjbV95emNpOEJkdXYxMm91eFMwZVVtc2Z2Zk9EOUg3V0JZMDl4SlJFYmMwY3BkMzlKSllXUjdaMXVWcy1Zc2NhWXpqUm9iaVZWQ1EwNEFhdEFkQlI0d3JpM1FTQ2V2dlhCbw?oc=5
+- Wall Street week ahead: Market’s focus on Q3 earnings amid longest US government shutdown - livemint.com
+  Wall Street week ahead: Market’s focus on Q
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNc0VkX0Vtd19wWGtVS001b1hOdmUyQ29EcU0tTS1rVzg1MTVKU0hoOGVxSHFleTJKaERHN0Jid2VfeHJwaWtNWWVzT1U1MFpHcjlXaVZ1V1k1c0ZaNjZjMndFcXY5N09uZDExOUlUYXhvbUdZNFlWTVljWVp5V2xiRGRFNXpfdXIxWVI0Q0M4bld0dWdpZENtT2FkX3ZLLWV2VUFQYnBwNTdzR2x5bUY2TmFlOVE1MGlaU21fczg4NkxmZG9qQkUzZDNEU0tjYzdoaG8yR1dLdElhcktDNGtHUHdRbzJrT0dHTjJva3NOQdIB9AFBVV95cUxPbDZLYjBhWUNhWG5DR3ZoS2dqWGVFZHFWeHJhejR3UDVyODV3aGRSeU5pUjgtRDVaVVRsNzl2bU9FelZ0NGFndGJ1RWZzQ1hYUWZ6ZVRGWk94SzhVTmU4eU5Ta2xWYmZLNnZNcExRaU5aV1RNZmJLekM4TEQxRHhqNmlNM1V6WDFBQ19aSUllMVNYTTM2WVlUb2ltdDVJVDgxTEJFaDRveXkybVQzVElsTUdqWmhDbE55UGNram04UFZHOWFGdU5ydU9FSW9ZX0tUSXZ4VGhZQ25kUmUybURBV3A5aDczWkFoZ1NlbnlYQ3BrWU5f?oc=5
 
-- IIHL and Invesco complete JV formation to grab a piece of fast-growing asset management market in India - The Economic Times
-  IIHL and Invesco complete JV formation to grab a piece of fast-
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxPYm83azNfdlY4OXF4UFg3bnY4ZWxJN1AxdVFleHFKZ291X0xYVGdqQnQ5WUJFdEcwaUswRG1nMG9ibG5CNVMyOFRvbmgxZHh0UzV5WjAtUnkydHpIa3RWMi16aEVpM0FYOFE3eFBQd05Md3RNNkt3UWVWZ1RPbk9kNTNtMzI1cm9LWEp6cUotM3Y0UUxWTFY5RnZ6bXhJZGdGc0xhTjNJMXhfQTdDQk5pa0Jxd3BablVOclh5aENVcU9uQ0lLSEY0R2dSWVBGODdCaFNBTTFRV2ZJTXZXdDUxWDgtQy1hdWthVW1DNGFfZFFSNmRJb0NSZERrTjhwNTZKM3N5dDVGYVBlY2JockHSAY4CQVVfeXFMT2JvN2szX3ZWODlxeFBYN252OGVsSTdQMXVRZXhxSmdvdV9MWFRnakJ0OVlCRXRHMGlLMERtZzBvYmxuQjVTMjhUb25oMWR4dFM1eVowLVJ5MnR6SGt0VjItemhFaTNBWDhRN3hQUHdOTHd0TTZLd1FlVmdUT25PZDUzbTMyNXJvS1hKenFKLTN2NFFMVkxWOUZ2em14SWRnRnNMYU4zSTF4X0E3Q0JOaWtCcXdwWm5VTnJYeWhDVXFPbkNJS0hGNEdnUllQRjg3QmhTQU0xUVdmSU12V3Q1MVg4LUMtYXVrYVVtQzRhX2RRUjZkSW9DUmREa044cDU2SjNzeXQ1RmFQZWNiaHJB?oc=5
+- FPIs bought bonds worth ₹13,397 cr via FAR in Oct, highest in FY26 so far - Business Standard
+  FPIs bought bonds worth ₹13,397 cr via FAR
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZFZ5MU0xc1lFdmZmeVo1YS1aZFVrRHhyWDhwSzJ1aXJ6bXZiQlU1TjB5UmdvRjhmRjd3dHJoMWE5TmVtV0dMNDNQUDZhVW5BYWg2M2Q0a1J1c2t1VXVka2F0Vkd6ZHM0V3pFYnlka0hRbTcyZ3hFNGNpazZRdkZsN2x1c2R3dmNHR1RiZHhRT1pUS0tnUTF2c2pfaGdOSHZxZTJkTEl2VW55WUFtenVfeGMtYXNQY1RjU29zZ0JGTjl5eVVBUkNnZEdXaUh2bk9lMVo1TdIB2gFBVV95cUxNWmVEZDJpXzRjVHA1VFUtZHZWUGFCNGhKT21HWGZ0eXg3NzhYS2RZUG9pTkN4b0lGWFpzLWRsN3JMOW9MYXgxanZyYWJ5dXAzZzB4X1kxRGtDQ2drS2NIRV95emVfdndLVTI0d1FtREVscXFOQWp4YkZlaUdSd2pzVDlkXzFyckQ5MkM2RldoZGlwV1N5cG9xQXpTZVNUUHBDd29ja2pZZm5zVGxXWldwczFhM19CZlZ6Wm1ySkkyV1BWLU0zWlBGZFhTc0R6TWptV1lVRE9mMUxzdw?oc=5
 
-- Big drivers for markets this week: Analysts say focus on Q2 earnings, macro data, global trends - financialexpress.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxObzF4QldqSC1Sdk5jazhvWmxSOUVYMmpRQlpvUEtpT1l2X3FWOHh1VEMycUtvTGE4UG5XdThiVzFxYXd5bGVZenFEeEpHZGxjZlZuT0Y5RFQ4UXhScDBJNURVTk1XaUNWbj
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxObzF4QldqSC1Sdk5jazhvWmxSOUVYMmpRQlpvUEtpT1l2X3FWOHh1VEMycUtvTGE4UG5XdThiVzFxYXd5bGVZenFEeEpHZGxjZlZuT0Y5RFQ4UXhScDBJNURVTk1XaUNWbjg2Y3pRZ2ozemd5ZnpMNEg1SmZVR2YxQmlFck5PME1DcUxBbENPLVFpT2ZIbktCMTFsek5HbzZ1RUd3eTdzbGlYUzlJSGtNakxCTkN0NDB6VEd1dEU5ZGEwQUtyLWZ2dkxFRHhrUVpJSUtoM3JDYUzSAd8BQVVfeXFMUHVlNFA3M3BPanhCbmlGZ1BTNEtvRV8wcG52NXljajdrODkzemNzRlBrbXR5SUdiZzNvYWhWMnR0RmxXVTVsOFM1WHYtQmZFUzFIUTNOU0RINnpqcGJZOFI5Tk15TG1PWU5PazRnTnZvNkF1UVVsb2psMk9JeVN3UUlCS0g2cWJYZm94S3JLdlo4a3VOV3d6cjlpTVdNSDFHckhxOElQVk9DZVZPQ3dOSDlFdktoU2VzUktBQnhnVkZqVndueHVib3M5MmI0c0tXSFZlcmltZzYwbjFBRy1NNA?oc=5
+- Storytelling is the biggest bullshit in stock markets, says Sanjoy Bhattacharya - Moneycontrol
+  Storytelling is the biggest bullshit in stock markets
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQlhnVXFhXzhWUUpSZVhFdWY5aTR2TVhRd09iQVp0Q2hxUDhOMEpnN2pjLWZaRk1WZjQ0SF92M2VodGViRTUzRERqMy1sbWQxQlkwZUEwUWZnUGk5WDN4LWZ3ZTBKaU1ZV3F5QWxyTEVUdFR6cEVra2xKamYzNGVMNmljbnJnZjhLN0NiYk9PUndwbFdxY29zMnJnODBZaVdxNWVUSFBnc2hqNzUtUXdkYXRlR244VU5NNnFYeVNoa0hrQjFTbllKSVBuYkdkSkFSWTF6alc1dnVFME0?oc=5
 
 - IIHL and Invesco complete JV formation to grab a piece of fast-growing asset management market in India
   IndusInd International Holdings and Invesco have finalised their joint venture in India’s mutual fund space. IIHL takes a 60% stake and Invevco retains 40%. The partnership combines Inves
@@ -140,85 +140,85 @@
   PRISM, the parent company of Oyo, has extended the deadline for its bonus issue. This move allows equity shareholders more time to select their preferred bonus option.
   🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/oyo-parent-prism-extends-deadline-for-bonus-issue-for-equity-shareholders/articleshow/125030991.cms
 
-- Henley Passport Index: Why Indian passport is falling in global ranking - BBC
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZjZDM2JPbzQ1TlFVRXJpZTRxR3hkSzBtZldKMWpaNVdGOHF4ZGdTX3RjUl80S0xlaTgtLUNsR3JTSTViV3lTZlBWMW50SWVZUk9Ycml2Y2ZQUdIBX0FVX3lxTE1FcXY1bXJFS1dPekhQUVJ5VTlhcnBoUHNmVXZ3RGp3NEVtRHJvWXhybDdpaURCaTk1a2tGdllPckx5WU94WDBiQzRsSVFsbk5fUFJjOTJjbUoweGQ5ZEhv?oc=5
+- "India Needs To Grow Thicker Skin": Shashi Tharoor After Scholar Deported - NDTV
+  "India Needs To Grow Thicker Skin":
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjQxSHpMcTZ6M2NvdkRQNTk2cXR4REQyd2pYMW1BdHF1ZDRNWVJJaDBRT2NDN01GdGNrMTZXSVRPTGU0MnYtTGc3dzNpNktBVE56QnR6QzdOMkpjeGwxTjVMVUFwSFk2RFhySU9yREZxV2VTTklTM2swcTF4RzFfV0hmOG44V255Q3dvZGNrbTlUa3NkTW5Fdjg1YklleGRmMFVmZXRtQjl0VlZvTDctWmMyanpIcHdfdW1zdUVwTnl1VGFqUjVyOTRVVDdsam1SdDBpZEFoVdIB3wFBVV95cUxNZDV5QXV5ZHZpbUlsU2hkMy0tTnVlQnZxMkJlLUpKZElQZVZmN2hMQ1JYMXZITUlQQ3RXT2dyMnFtS1kyMVhXN1VncTBPSExSY09DSXo4Y1NJVll3N05BckJ4TVNYUExUbi1LT0VJbkZUdlVJRnBNSXlyalFaX1FjUlMtRWJPNElydHRlem5qRjlwSzhYajU4YlNDV2V4ZVBza0xJaTNqcFdtR3l4RWlmNk1NNVZvTlV0c3pfcE0zY0ViX1U1endkekV6eFB4UUxwejl0UWs1QURyRC1wNm1J?oc=5
 
-- Temple stampede in India’s Andhra Pradesh kills at least 9 - Al Jazeera
-  Temple stampede in India’s
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPbHU4YlhZYU14YlhuUTVUVzVVWFE0eTAwV1o0c3BVbHVMcG1GQm5WcUlDX3N3VEUtTWV6Q0ZXdV9KQXJDX3NtZkJ0aVFwZnRkQml0dXh5d2dxOC1uS195SXhaQlVuSUJacEZiN2EtY25NamxTcnd6T0N5dFA5djdJTEJLejhtdnVoRXFJLTR2QVRYQdIBlwFBVV95cUxPUmtmRElJRlg3M25hWjlva29OemgtUFM4Y24zQ0lpVmk0X0w5X0VnMEF3Sm5aai1iLUExTkJUWXotUHl6c3VTVXBsbUE0VnBSUkhpbEJXVXhmWlVmc1pfZHVnc1FtWFJkeTZmNHBjd1hQMEEwNFZCM053dldzV1ctWFI0ZnM0MXlRN2J3X0ctRkpSc1dhSlBB?oc=5
+- ‘India wants to keep Pakistan busy on…’: Defence Minister Khawaja Asif's fresh claim | Latest News India - Hindustan Times
+  ‘India wants to keep Pakistan busy on…’: Defence Minister Kh
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTJ4MHptcGF0SzZlU1VDcENCR0JmWW96c0owWTRwV3ZoMHExZnJWYnFqaHZCc29ySDZVWWxWZ0V6VmVZUGw2cWhRTnQ3Mmlfd0ZKNlhPMm9oVnIycEx5bF9xUVk0Q2RwMmNSNWc3M2FSWTRhUHhrS2x6ZVpnM2lUZ20xOGtWSFJWVDFuc0V6Vm5lU0YwRGQwT2RiVVdGal9lbnpQeUExUW1WSVJaem1EckJvVWZjdnB2d1JzZTJVNGpRaElNcXMtYXgyN1VmN2p5ZXE0TVFqSlVYQdIB3wFBVV95cUxNb2NBMmZteExGRld2OVJuZFpQR1lxQlhaU2tNc2dDQTIzN1ZYX0xuT2lndWdJNzU1NGxZWl9XdXRWUmZfZ2Vya05xQjQtTHB1SUhWMkJfby1pVHViX0VIZXJPejc3RXdEYlpXMjRFY0JpZ3hqNV92UDN5ZVhHa0tfekdEazJGZVhoVFQ0aU1yYzFNZEpUM3llN1k5alNiS0pPa1dTUGVpTDY3Zkp4ZTJlMHNTQm5yX3JoLVBVS1U4VENIUnNYRjJXYzVnWXBuMmxrSk5Lc1ZIdjZYNko0dFRv?oc=5
 
-- Training For Roll Revision Sees Protests Over Duty Hours, Security In West Bengal - NDTV
-  Training For Roll Revision Sees Protests Over Duty Hours
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOYllyMWtnR1hreGZzd19SSWxtbUd0UXZfLUZFRi1IR19od0xRZ1FJcTlDSTFMYUgyOWlBakFDQi1tRzk5NjFNWTdEUjEwdGl0MHNqWFljM19MX2M1bEd3NTYtUkI3SUJIdWN0Rjl1RTgxaFhoWndBUWhZUzFhbVVSSmNCOFJQMFJici1qVVRBNEFzczFWZkl6Qk9qNFJvM1pNTnA5QzVuekJVR0luRUl6ZmZaa2JNQdIBvgFBVV95cUxQb08ta3NUYnJ4WVpqQUdHdVRaa1NZQnFKRUtBM0VlN0JlanZ4YjVSOHhjdC02WW5sYnFPbnhOV0IxWTNIdThEVXBmdm9yME9SOXhkd0Q0LUZsc1BPTkU4ZllpMEstTEZwVjYwQ3lSZWFWaTNHbXpDZ1lEWENWc3R1ZzZ2S0pNWndOLUttZS0wV3VUUm1oRHpDakxyMFpDam9WbjJyUWtmRWNncjRJQWcxVmtBVE4xUHo0U0dSa1d3?oc=5
-
-- ISRO Launches Its Heaviest Communication Satellite Onboard 'Bahubali' Indian Rocket - News18
-  ISRO Launches Its Heaviest
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG4wd3BiSXc3UHU4SnNHaFFNUDhzb3IybVVyYW1NY0lmYVR5d0RfajVEdy1KanpPVkdMbVVFcFJxemg2WDl0NzBlN1R1YTYwckJUSl9aM2tEUjVMbHJZSFZJRkY4VXJtdG1yWU84b0ZMWUVGUzVtNW1rTzlUMFFHSTJDRnpwXzQ0UExvYXRWdmNZNEdHR0U3SmR2ckZ3UDlDemI1VmpzeGxWaG9CVXd2SHNJb0FoMzdZNWh1atIBwgFBVV95cUxQWkI4U1hjYUFQaVpBSnNHcXIyYVJSZFJEb3pKekJNalBYd0NMMXlUWVUxQXBzUF9FTlpCeld5YV9GUlBLbFJ0WEpmeXJPeHFXRGZfTWpsOE1Vc2xHT3ZiX3dKTGp2Q2RORWlSTWYxWWp1d2Rja3JoUXY3aUc3aEw3UkExMTBtbkZodWhvNTd6Y2RyR0xlUGE3S0ZiVUlBM29lT01Dc19rbk55MkFXYTNiRVdXZjNVNExHRmVlMUxaRWozUQ?oc=5
-
-- School Assembly News Today (November 3): Ind Vs South Africa Final, ISRO’s heaviest satellite & more - The Indian Express
-  School Assembly News Today (November 3): Ind Vs South Africa Final, ISRO
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNF9Bbkdob0U3NjRkMFVyZEt0SWlzRk5MVFVYdndwYlJhLUlIdzBReWc5YUJPMTk2QUhjUnJ1ajAzbE9EYW9zWG5UcGo2UGU1RWhudUoxV2N1X0o0UHZNZ012SjlJVUh6RHhpMWx1LWlFUldpZTNveTQ0ME1YbG5JaVRGUmJLVFdXSmRfOWMxVGZSejVBQ1kwMU54MFZDem9uclp4X0dFYjRkZG9fY2RPS3Q4cHNBSDZIbmd4NjNiNTRic3FHVmQxanFGVUdVSUZWZHNJbXBvNjVEbXBHaVVHQ9IB5wFBVV95cUxOQjhHanFUQjVNX3JkQnJ6MTBuUU1lR204WURKVVhPckdna0d4T0E3WnRQSXBvY2NfVWNuRkc4V2s2Z1NrNFJpOTBadVNQQWdQb2hTN0d1Rk81RGphUkZHQWZUcFVrYlFtSnVJNEdZNkpiSmFOOGNvRUZQcVVhbThUckJnQV9zTjNVLWxDN2VjNjVrUlBSTmRCd2hyclZ0RTVXVmtGWjZvcmhaMTk2NlVDRDRNUzNkYzZiSG1zUTZ0TFB1Wk9iQlVPYWRoa1RIa0pQUGh0RkFFLXZualRNV2tGZ240ejNmdmM?oc=5
+- Cases Filed Against My Family Members To 'Coerce' Me: Ex-CJI NV Ramana - NDTV
+  Cases Filed Against My Family Members To '
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajdudWNBSUhCa25IY1IzaGpSekhRXzROeVo4b2ZKMVhIZ01IV2FTVmpCRTJ5czZtSWFQRlh4ZzRnRy1GZXJuWnk5VHdNaTNDY0JZUmRlWlRjd29HUDZGY3RTWGlFWU5Qc1RnVXhyZ3lGSEZzdHZYeHA5NmhTMGcycUpiLXdOcGV6RXFnbjNKUzN2UnpTNmw5bVZ0d2xVZzdKd1Vqc2I4eG5pdGfSAbMBQVVfeXFMT2laZ3FCUXBSYmN5LWdMdm5tMVdsN05oaEVFdkw0VE9OV3RnSUdzVFlacGs2RU1VWm51NXFSdFlDVHplY05hVGhMTjBPdlVUZC1KMWYzRHQ1U0NKWGdMeXI1bHVsR182MzhIbkd0b1ZzSUtkWEdlbGoxWXlSYzB5V1dpY3QyYXN5c2Z2aTk1a0wxZldJeVFyWWFKM3drUkhYS2dBWTlqc2dUSzhFM1U3TVRpWk0?oc=5
 
 - Henley Passport Index: Why Indian passport is falling in global ranking - BBC
   &nbsp;<font color="#6
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZjZDM2JPbzQ1TlFVRXJpZTRxR3hkSzBtZldKMWpaNVdGOHF4ZGdTX3RjUl80S0xlaTgtLUNsR3JTSTViV3lTZlBWMW50SWVZUk9Ycml2Y2ZQUdIBX0FVX3lxTE1FcXY1bXJFS1dPekhQUVJ5VTlhcnBoUHNmVXZ3RGp3NEVtRHJvWXhybDdpaURCaTk1a2tGdllPckx5WU94WDBiQzRsSVFsbk5fUFJjOTJjbUoweGQ5ZEhv?oc=5
 
-- Temple stampede in India’s Andhra Pradesh kills at least 9 - Al Jazeera
-  Temple stampede in India’s
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPbHU4YlhZYU14YlhuUTVUVzVVWFE0eTAwV1o0c3BVbHVMcG1GQm5WcUlDX3N3VEUtTWV6Q0ZXdV9KQXJDX3NtZkJ0aVFwZnRkQml0dXh5d2dxOC1uS195SXhaQlVuSUJacEZiN2EtY25NamxTcnd6T0N5dFA5djdJTEJLejhtdnVoRXFJLTR2QVRYQdIBlwFBVV95cUxPUmtmRElJRlg3M25hWjlva29OemgtUFM4Y24zQ0lpVmk0X0w5X0VnMEF3Sm5aai1iLUExTkJUWXotUHl6c3VTVXBsbUE0VnBSUkhpbEJXVXhmWlVmc1pfZHVnc1FtWFJkeTZmNHBjd1hQMEEwNFZCM053dldzV1ctWFI0ZnM0MXlRN2J3X0ctRkpSc1dhSlBB?oc=5
+- ISRO Set To Launch India's Heaviest Satellite CMS-03 From Sriharikota - NDTV
+  ISRO Set To Launch India's He
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFhfTGpkQk5qQnFxYzNrN0VNQUs1WmJveFJBTXZfZGZQcXNnRU1zNXBycHlra3hlQnhNYzctb3B0MTZMXy1ZaS1vSWgtdFdWNU9kNFo5OXdrbnlpOU81V3VYdVA1UmtISGhEcnNNcWRrUlhwRzJPbTA0QWhrT3BDb0FyNGdZTUhaX2owalFVak5sdDQxQ1pTdC1nN19OMGdCcEg4aUdhcnFvS2xO0gG0AUFVX3lxTFA4dVBLVnMySGRZbDE1SHA1SmpYSERWMW9HaGJtMTBCeUszel9wcHBOUGNTQkpROXFpMTI4SU9JX3Rqa18zdjd1UU80OHEzaS1QUTNzUFQ5Y2dwejM4ZzRPRHU2ekRKaVVkMElralFjeFFTUko3YjRDczE3UE9VWUwzY24zX1dzS0Q4T1ZLay0wMEh5Q1RMdmNPUktsMDZHM2padjdvY0EtM0hkdmtfdUp3SGJxWA?oc=5
 
-- Training For Roll Revision Sees Protests Over Duty Hours, Security In West Bengal - NDTV
-  Training For Roll Revision Sees Protests Over Duty Hours
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOYllyMWtnR1hreGZzd19SSWxtbUd0UXZfLUZFRi1IR19od0xRZ1FJcTlDSTFMYUgyOWlBakFDQi1tRzk5NjFNWTdEUjEwdGl0MHNqWFljM19MX2M1bEd3NTYtUkI3SUJIdWN0Rjl1RTgxaFhoWndBUWhZUzFhbVVSSmNCOFJQMFJici1qVVRBNEFzczFWZkl6Qk9qNFJvM1pNTnA5QzVuekJVR0luRUl6ZmZaa2JNQdIBvgFBVV95cUxQb08ta3NUYnJ4WVpqQUdHdVRaa1NZQnFKRUtBM0VlN0JlanZ4YjVSOHhjdC02WW5sYnFPbnhOV0IxWTNIdThEVXBmdm9yME9SOXhkd0Q0LUZsc1BPTkU4ZllpMEstTEZwVjYwQ3lSZWFWaTNHbXpDZ1lEWENWc3R1ZzZ2S0pNWndOLUttZS0wV3VUUm1oRHpDakxyMFpDam9WbjJyUWtmRWNncjRJQWcxVmtBVE4xUHo0U0dSa1d3?oc=5
+- "India Needs To Grow Thicker Skin": Shashi Tharoor After Scholar Deported - NDTV
+  "India Needs To Grow Thicker Skin":
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjQxSHpMcTZ6M2NvdkRQNTk2cXR4REQyd2pYMW1BdHF1ZDRNWVJJaDBRT2NDN01GdGNrMTZXSVRPTGU0MnYtTGc3dzNpNktBVE56QnR6QzdOMkpjeGwxTjVMVUFwSFk2RFhySU9yREZxV2VTTklTM2swcTF4RzFfV0hmOG44V255Q3dvZGNrbTlUa3NkTW5Fdjg1YklleGRmMFVmZXRtQjl0VlZvTDctWmMyanpIcHdfdW1zdUVwTnl1VGFqUjVyOTRVVDdsam1SdDBpZEFoVdIB3wFBVV95cUxNZDV5QXV5ZHZpbUlsU2hkMy0tTnVlQnZxMkJlLUpKZElQZVZmN2hMQ1JYMXZITUlQQ3RXT2dyMnFtS1kyMVhXN1VncTBPSExSY09DSXo4Y1NJVll3N05BckJ4TVNYUExUbi1LT0VJbkZUdlVJRnBNSXlyalFaX1FjUlMtRWJPNElydHRlem5qRjlwSzhYajU4YlNDV2V4ZVBza0xJaTNqcFdtR3l4RWlmNk1NNVZvTlV0c3pfcE0zY0ViX1U1endkekV6eFB4UUxwejl0UWs1QURyRC1wNm1J?oc=5
 
-- ISRO Launches Its Heaviest Communication Satellite Onboard 'Bahubali' Indian Rocket - News18
-  ISRO Launches Its Heaviest
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG4wd3BiSXc3UHU4SnNHaFFNUDhzb3IybVVyYW1NY0lmYVR5d0RfajVEdy1KanpPVkdMbVVFcFJxemg2WDl0NzBlN1R1YTYwckJUSl9aM2tEUjVMbHJZSFZJRkY4VXJtdG1yWU84b0ZMWUVGUzVtNW1rTzlUMFFHSTJDRnpwXzQ0UExvYXRWdmNZNEdHR0U3SmR2ckZ3UDlDemI1VmpzeGxWaG9CVXd2SHNJb0FoMzdZNWh1atIBwgFBVV95cUxQWkI4U1hjYUFQaVpBSnNHcXIyYVJSZFJEb3pKekJNalBYd0NMMXlUWVUxQXBzUF9FTlpCeld5YV9GUlBLbFJ0WEpmeXJPeHFXRGZfTWpsOE1Vc2xHT3ZiX3dKTGp2Q2RORWlSTWYxWWp1d2Rja3JoUXY3aUc3aEw3UkExMTBtbkZodWhvNTd6Y2RyR0xlUGE3S0ZiVUlBM29lT01Dc19rbk55MkFXYTNiRVdXZjNVNExHRmVlMUxaRWozUQ?oc=5
+- ‘India wants to keep Pakistan busy on…’: Defence Minister Khawaja Asif's fresh claim | Latest News India - Hindustan Times
+  ‘India wants to keep Pakistan busy on…’: Defence Minister Kh
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTJ4MHptcGF0SzZlU1VDcENCR0JmWW96c0owWTRwV3ZoMHExZnJWYnFqaHZCc29ySDZVWWxWZ0V6VmVZUGw2cWhRTnQ3Mmlfd0ZKNlhPMm9oVnIycEx5bF9xUVk0Q2RwMmNSNWc3M2FSWTRhUHhrS2x6ZVpnM2lUZ20xOGtWSFJWVDFuc0V6Vm5lU0YwRGQwT2RiVVdGal9lbnpQeUExUW1WSVJaem1EckJvVWZjdnB2d1JzZTJVNGpRaElNcXMtYXgyN1VmN2p5ZXE0TVFqSlVYQdIB3wFBVV95cUxNb2NBMmZteExGRld2OVJuZFpQR1lxQlhaU2tNc2dDQTIzN1ZYX0xuT2lndWdJNzU1NGxZWl9XdXRWUmZfZ2Vya05xQjQtTHB1SUhWMkJfby1pVHViX0VIZXJPejc3RXdEYlpXMjRFY0JpZ3hqNV92UDN5ZVhHa0tfekdEazJGZVhoVFQ0aU1yYzFNZEpUM3llN1k5alNiS0pPa1dTUGVpTDY3Zkp4ZTJlMHNTQm5yX3JoLVBVS1U4VENIUnNYRjJXYzVnWXBuMmxrSk5Lc1ZIdjZYNko0dFRv?oc=5
 
-- School Assembly News Today (November 3): Ind Vs South Africa Final, ISRO’s heaviest satellite & more - The Indian Express
-  School Assembly News Today (November 3): Ind Vs South Africa Final, ISRO
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNF9Bbkdob0U3NjRkMFVyZEt0SWlzRk5MVFVYdndwYlJhLUlIdzBReWc5YUJPMTk2QUhjUnJ1ajAzbE9EYW9zWG5UcGo2UGU1RWhudUoxV2N1X0o0UHZNZ012SjlJVUh6RHhpMWx1LWlFUldpZTNveTQ0ME1YbG5JaVRGUmJLVFdXSmRfOWMxVGZSejVBQ1kwMU54MFZDem9uclp4X0dFYjRkZG9fY2RPS3Q4cHNBSDZIbmd4NjNiNTRic3FHVmQxanFGVUdVSUZWZHNJbXBvNjVEbXBHaVVHQ9IB5wFBVV95cUxOQjhHanFUQjVNX3JkQnJ6MTBuUU1lR204WURKVVhPckdna0d4T0E3WnRQSXBvY2NfVWNuRkc4V2s2Z1NrNFJpOTBadVNQQWdQb2hTN0d1Rk81RGphUkZHQWZUcFVrYlFtSnVJNEdZNkpiSmFOOGNvRUZQcVVhbThUckJnQV9zTjNVLWxDN2VjNjVrUlBSTmRCd2hyclZ0RTVXVmtGWjZvcmhaMTk2NlVDRDRNUzNkYzZiSG1zUTZ0TFB1Wk9iQlVPYWRoa1RIa0pQUGh0RkFFLXZualRNV2tGZ240ejNmdmM?oc=5
-
-- Henley Passport Index: Why Indian passport is falling in global ranking - BBC
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZjZDM2JPbzQ1TlFVRXJpZTRxR3hkSzBtZldKMWpaNVdGOHF4ZGdTX3RjUl80S0xlaTgtLUNsR3JTSTViV3lTZlBWMW50SWVZUk9Ycml2Y2ZQUdIBX0FVX3lxTE1FcXY1bXJFS1dPekhQUVJ5VTlhcnBoUHNmVXZ3RGp3NEVtRHJvWXhybDdpaURCaTk1a2tGdllPckx5WU94WDBiQzRsSVFsbk5fUFJjOTJjbUoweGQ5ZEhv?oc=5
-
-- Temple stampede in India’s Andhra Pradesh kills at least 9 - Al Jazeera
-  Temple stampede in India’s
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPbHU4YlhZYU14YlhuUTVUVzVVWFE0eTAwV1o0c3BVbHVMcG1GQm5WcUlDX3N3VEUtTWV6Q0ZXdV9KQXJDX3NtZkJ0aVFwZnRkQml0dXh5d2dxOC1uS195SXhaQlVuSUJacEZiN2EtY25NamxTcnd6T0N5dFA5djdJTEJLejhtdnVoRXFJLTR2QVRYQdIBlwFBVV95cUxPUmtmRElJRlg3M25hWjlva29OemgtUFM4Y24zQ0lpVmk0X0w5X0VnMEF3Sm5aai1iLUExTkJUWXotUHl6c3VTVXBsbUE0VnBSUkhpbEJXVXhmWlVmc1pfZHVnc1FtWFJkeTZmNHBjd1hQMEEwNFZCM053dldzV1ctWFI0ZnM0MXlRN2J3X0ctRkpSc1dhSlBB?oc=5
-
-- Training For Roll Revision Sees Protests Over Duty Hours, Security In West Bengal - NDTV
-  Training For Roll Revision Sees Protests Over Duty Hours
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOYllyMWtnR1hreGZzd19SSWxtbUd0UXZfLUZFRi1IR19od0xRZ1FJcTlDSTFMYUgyOWlBakFDQi1tRzk5NjFNWTdEUjEwdGl0MHNqWFljM19MX2M1bEd3NTYtUkI3SUJIdWN0Rjl1RTgxaFhoWndBUWhZUzFhbVVSSmNCOFJQMFJici1qVVRBNEFzczFWZkl6Qk9qNFJvM1pNTnA5QzVuekJVR0luRUl6ZmZaa2JNQdIBvgFBVV95cUxQb08ta3NUYnJ4WVpqQUdHdVRaa1NZQnFKRUtBM0VlN0JlanZ4YjVSOHhjdC02WW5sYnFPbnhOV0IxWTNIdThEVXBmdm9yME9SOXhkd0Q0LUZsc1BPTkU4ZllpMEstTEZwVjYwQ3lSZWFWaTNHbXpDZ1lEWENWc3R1ZzZ2S0pNWndOLUttZS0wV3VUUm1oRHpDakxyMFpDam9WbjJyUWtmRWNncjRJQWcxVmtBVE4xUHo0U0dSa1d3?oc=5
-
-- ISRO Launches Its Heaviest Communication Satellite Onboard 'Bahubali' Indian Rocket - News18
-  ISRO Launches Its Heaviest
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG4wd3BiSXc3UHU4SnNHaFFNUDhzb3IybVVyYW1NY0lmYVR5d0RfajVEdy1KanpPVkdMbVVFcFJxemg2WDl0NzBlN1R1YTYwckJUSl9aM2tEUjVMbHJZSFZJRkY4VXJtdG1yWU84b0ZMWUVGUzVtNW1rTzlUMFFHSTJDRnpwXzQ0UExvYXRWdmNZNEdHR0U3SmR2ckZ3UDlDemI1VmpzeGxWaG9CVXd2SHNJb0FoMzdZNWh1atIBwgFBVV95cUxQWkI4U1hjYUFQaVpBSnNHcXIyYVJSZFJEb3pKekJNalBYd0NMMXlUWVUxQXBzUF9FTlpCeld5YV9GUlBLbFJ0WEpmeXJPeHFXRGZfTWpsOE1Vc2xHT3ZiX3dKTGp2Q2RORWlSTWYxWWp1d2Rja3JoUXY3aUc3aEw3UkExMTBtbkZodWhvNTd6Y2RyR0xlUGE3S0ZiVUlBM29lT01Dc19rbk55MkFXYTNiRVdXZjNVNExHRmVlMUxaRWozUQ?oc=5
-
-- School Assembly News Today (November 3): Ind Vs South Africa Final, ISRO’s heaviest satellite & more - The Indian Express
-  School Assembly News Today (November 3): Ind Vs South Africa Final, ISRO
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNF9Bbkdob0U3NjRkMFVyZEt0SWlzRk5MVFVYdndwYlJhLUlIdzBReWc5YUJPMTk2QUhjUnJ1ajAzbE9EYW9zWG5UcGo2UGU1RWhudUoxV2N1X0o0UHZNZ012SjlJVUh6RHhpMWx1LWlFUldpZTNveTQ0ME1YbG5JaVRGUmJLVFdXSmRfOWMxVGZSejVBQ1kwMU54MFZDem9uclp4X0dFYjRkZG9fY2RPS3Q4cHNBSDZIbmd4NjNiNTRic3FHVmQxanFGVUdVSUZWZHNJbXBvNjVEbXBHaVVHQ9IB5wFBVV95cUxOQjhHanFUQjVNX3JkQnJ6MTBuUU1lR204WURKVVhPckdna0d4T0E3WnRQSXBvY2NfVWNuRkc4V2s2Z1NrNFJpOTBadVNQQWdQb2hTN0d1Rk81RGphUkZHQWZUcFVrYlFtSnVJNEdZNkpiSmFOOGNvRUZQcVVhbThUckJnQV9zTjNVLWxDN2VjNjVrUlBSTmRCd2hyclZ0RTVXVmtGWjZvcmhaMTk2NlVDRDRNUzNkYzZiSG1zUTZ0TFB1Wk9iQlVPYWRoa1RIa0pQUGh0RkFFLXZualRNV2tGZ240ejNmdmM?oc=5
+- Cases Filed Against My Family Members To 'Coerce' Me: Ex-CJI NV Ramana - NDTV
+  Cases Filed Against My Family Members To '
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajdudWNBSUhCa25IY1IzaGpSekhRXzROeVo4b2ZKMVhIZ01IV2FTVmpCRTJ5czZtSWFQRlh4ZzRnRy1GZXJuWnk5VHdNaTNDY0JZUmRlWlRjd29HUDZGY3RTWGlFWU5Qc1RnVXhyZ3lGSEZzdHZYeHA5NmhTMGcycUpiLXdOcGV6RXFnbjNKUzN2UnpTNmw5bVZ0d2xVZzdKd1Vqc2I4eG5pdGfSAbMBQVVfeXFMT2laZ3FCUXBSYmN5LWdMdm5tMVdsN05oaEVFdkw0VE9OV3RnSUdzVFlacGs2RU1VWm51NXFSdFlDVHplY05hVGhMTjBPdlVUZC1KMWYzRHQ1U0NKWGdMeXI1bHVsR182MzhIbkd0b1ZzSUtkWEdlbGoxWXlSYzB5V1dpY3QyYXN5c2Z2aTk1a0wxZldJeVFyWWFKM3drUkhYS2dBWTlqc2dUSzhFM1U3TVRpWk0?oc=5
 
 - Henley Passport Index: Why Indian passport is falling in global ranking - BBC
   &nbsp;<font color="#6
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZjZDM2JPbzQ1TlFVRXJpZTRxR3hkSzBtZldKMWpaNVdGOHF4ZGdTX3RjUl80S0xlaTgtLUNsR3JTSTViV3lTZlBWMW50SWVZUk9Ycml2Y2ZQUdIBX0FVX3lxTE1FcXY1bXJFS1dPekhQUVJ5VTlhcnBoUHNmVXZ3RGp3NEVtRHJvWXhybDdpaURCaTk1a2tGdllPckx5WU94WDBiQzRsSVFsbk5fUFJjOTJjbUoweGQ5ZEhv?oc=5
 
-- Temple stampede in India’s Andhra Pradesh kills at least 9 - Al Jazeera
-  Temple stampede in India’s
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPbHU4YlhZYU14YlhuUTVUVzVVWFE0eTAwV1o0c3BVbHVMcG1GQm5WcUlDX3N3VEUtTWV6Q0ZXdV9KQXJDX3NtZkJ0aVFwZnRkQml0dXh5d2dxOC1uS195SXhaQlVuSUJacEZiN2EtY25NamxTcnd6T0N5dFA5djdJTEJLejhtdnVoRXFJLTR2QVRYQdIBlwFBVV95cUxPUmtmRElJRlg3M25hWjlva29OemgtUFM4Y24zQ0lpVmk0X0w5X0VnMEF3Sm5aai1iLUExTkJUWXotUHl6c3VTVXBsbUE0VnBSUkhpbEJXVXhmWlVmc1pfZHVnc1FtWFJkeTZmNHBjd1hQMEEwNFZCM053dldzV1ctWFI0ZnM0MXlRN2J3X0ctRkpSc1dhSlBB?oc=5
+- ISRO Set To Launch India's Heaviest Satellite CMS-03 From Sriharikota - NDTV
+  ISRO Set To Launch India's He
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFhfTGpkQk5qQnFxYzNrN0VNQUs1WmJveFJBTXZfZGZQcXNnRU1zNXBycHlra3hlQnhNYzctb3B0MTZMXy1ZaS1vSWgtdFdWNU9kNFo5OXdrbnlpOU81V3VYdVA1UmtISGhEcnNNcWRrUlhwRzJPbTA0QWhrT3BDb0FyNGdZTUhaX2owalFVak5sdDQxQ1pTdC1nN19OMGdCcEg4aUdhcnFvS2xO0gG0AUFVX3lxTFA4dVBLVnMySGRZbDE1SHA1SmpYSERWMW9HaGJtMTBCeUszel9wcHBOUGNTQkpROXFpMTI4SU9JX3Rqa18zdjd1UU80OHEzaS1QUTNzUFQ5Y2dwejM4ZzRPRHU2ekRKaVVkMElralFjeFFTUko3YjRDczE3UE9VWUwzY24zX1dzS0Q4T1ZLay0wMEh5Q1RMdmNPUktsMDZHM2padjdvY0EtM0hkdmtfdUp3SGJxWA?oc=5
 
-- Training For Roll Revision Sees Protests Over Duty Hours, Security In West Bengal - NDTV
-  Training For Roll Revision Sees Protests Over Duty Hours
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOYllyMWtnR1hreGZzd19SSWxtbUd0UXZfLUZFRi1IR19od0xRZ1FJcTlDSTFMYUgyOWlBakFDQi1tRzk5NjFNWTdEUjEwdGl0MHNqWFljM19MX2M1bEd3NTYtUkI3SUJIdWN0Rjl1RTgxaFhoWndBUWhZUzFhbVVSSmNCOFJQMFJici1qVVRBNEFzczFWZkl6Qk9qNFJvM1pNTnA5QzVuekJVR0luRUl6ZmZaa2JNQdIBvgFBVV95cUxQb08ta3NUYnJ4WVpqQUdHdVRaa1NZQnFKRUtBM0VlN0JlanZ4YjVSOHhjdC02WW5sYnFPbnhOV0IxWTNIdThEVXBmdm9yME9SOXhkd0Q0LUZsc1BPTkU4ZllpMEstTEZwVjYwQ3lSZWFWaTNHbXpDZ1lEWENWc3R1ZzZ2S0pNWndOLUttZS0wV3VUUm1oRHpDakxyMFpDam9WbjJyUWtmRWNncjRJQWcxVmtBVE4xUHo0U0dSa1d3?oc=5
+- "India Needs To Grow Thicker Skin": Shashi Tharoor After Scholar Deported - NDTV
+  "India Needs To Grow Thicker Skin":
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjQxSHpMcTZ6M2NvdkRQNTk2cXR4REQyd2pYMW1BdHF1ZDRNWVJJaDBRT2NDN01GdGNrMTZXSVRPTGU0MnYtTGc3dzNpNktBVE56QnR6QzdOMkpjeGwxTjVMVUFwSFk2RFhySU9yREZxV2VTTklTM2swcTF4RzFfV0hmOG44V255Q3dvZGNrbTlUa3NkTW5Fdjg1YklleGRmMFVmZXRtQjl0VlZvTDctWmMyanpIcHdfdW1zdUVwTnl1VGFqUjVyOTRVVDdsam1SdDBpZEFoVdIB3wFBVV95cUxNZDV5QXV5ZHZpbUlsU2hkMy0tTnVlQnZxMkJlLUpKZElQZVZmN2hMQ1JYMXZITUlQQ3RXT2dyMnFtS1kyMVhXN1VncTBPSExSY09DSXo4Y1NJVll3N05BckJ4TVNYUExUbi1LT0VJbkZUdlVJRnBNSXlyalFaX1FjUlMtRWJPNElydHRlem5qRjlwSzhYajU4YlNDV2V4ZVBza0xJaTNqcFdtR3l4RWlmNk1NNVZvTlV0c3pfcE0zY0ViX1U1endkekV6eFB4UUxwejl0UWs1QURyRC1wNm1J?oc=5
 
-- ISRO Launches Its Heaviest Communication Satellite Onboard 'Bahubali' Indian Rocket - News18
-  ISRO Launches Its Heaviest
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNbG4wd3BiSXc3UHU4SnNHaFFNUDhzb3IybVVyYW1NY0lmYVR5d0RfajVEdy1KanpPVkdMbVVFcFJxemg2WDl0NzBlN1R1YTYwckJUSl9aM2tEUjVMbHJZSFZJRkY4VXJtdG1yWU84b0ZMWUVGUzVtNW1rTzlUMFFHSTJDRnpwXzQ0UExvYXRWdmNZNEdHR0U3SmR2ckZ3UDlDemI1VmpzeGxWaG9CVXd2SHNJb0FoMzdZNWh1atIBwgFBVV95cUxQWkI4U1hjYUFQaVpBSnNHcXIyYVJSZFJEb3pKekJNalBYd0NMMXlUWVUxQXBzUF9FTlpCeld5YV9GUlBLbFJ0WEpmeXJPeHFXRGZfTWpsOE1Vc2xHT3ZiX3dKTGp2Q2RORWlSTWYxWWp1d2Rja3JoUXY3aUc3aEw3UkExMTBtbkZodWhvNTd6Y2RyR0xlUGE3S0ZiVUlBM29lT01Dc19rbk55MkFXYTNiRVdXZjNVNExHRmVlMUxaRWozUQ?oc=5
+- ‘India wants to keep Pakistan busy on…’: Defence Minister Khawaja Asif's fresh claim | Latest News India - Hindustan Times
+  ‘India wants to keep Pakistan busy on…’: Defence Minister Kh
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTJ4MHptcGF0SzZlU1VDcENCR0JmWW96c0owWTRwV3ZoMHExZnJWYnFqaHZCc29ySDZVWWxWZ0V6VmVZUGw2cWhRTnQ3Mmlfd0ZKNlhPMm9oVnIycEx5bF9xUVk0Q2RwMmNSNWc3M2FSWTRhUHhrS2x6ZVpnM2lUZ20xOGtWSFJWVDFuc0V6Vm5lU0YwRGQwT2RiVVdGal9lbnpQeUExUW1WSVJaem1EckJvVWZjdnB2d1JzZTJVNGpRaElNcXMtYXgyN1VmN2p5ZXE0TVFqSlVYQdIB3wFBVV95cUxNb2NBMmZteExGRld2OVJuZFpQR1lxQlhaU2tNc2dDQTIzN1ZYX0xuT2lndWdJNzU1NGxZWl9XdXRWUmZfZ2Vya05xQjQtTHB1SUhWMkJfby1pVHViX0VIZXJPejc3RXdEYlpXMjRFY0JpZ3hqNV92UDN5ZVhHa0tfekdEazJGZVhoVFQ0aU1yYzFNZEpUM3llN1k5alNiS0pPa1dTUGVpTDY3Zkp4ZTJlMHNTQm5yX3JoLVBVS1U4VENIUnNYRjJXYzVnWXBuMmxrSk5Lc1ZIdjZYNko0dFRv?oc=5
 
-- School Assembly News Today (November 3): Ind Vs South Africa Final, ISRO’s heaviest satellite & more - The Indian Express
-  School Assembly News Today (November 3): Ind Vs South Africa Final, ISRO
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNF9Bbkdob0U3NjRkMFVyZEt0SWlzRk5MVFVYdndwYlJhLUlIdzBReWc5YUJPMTk2QUhjUnJ1ajAzbE9EYW9zWG5UcGo2UGU1RWhudUoxV2N1X0o0UHZNZ012SjlJVUh6RHhpMWx1LWlFUldpZTNveTQ0ME1YbG5JaVRGUmJLVFdXSmRfOWMxVGZSejVBQ1kwMU54MFZDem9uclp4X0dFYjRkZG9fY2RPS3Q4cHNBSDZIbmd4NjNiNTRic3FHVmQxanFGVUdVSUZWZHNJbXBvNjVEbXBHaVVHQ9IB5wFBVV95cUxOQjhHanFUQjVNX3JkQnJ6MTBuUU1lR204WURKVVhPckdna0d4T0E3WnRQSXBvY2NfVWNuRkc4V2s2Z1NrNFJpOTBadVNQQWdQb2hTN0d1Rk81RGphUkZHQWZUcFVrYlFtSnVJNEdZNkpiSmFOOGNvRUZQcVVhbThUckJnQV9zTjNVLWxDN2VjNjVrUlBSTmRCd2hyclZ0RTVXVmtGWjZvcmhaMTk2NlVDRDRNUzNkYzZiSG1zUTZ0TFB1Wk9iQlVPYWRoa1RIa0pQUGh0RkFFLXZualRNV2tGZ240ejNmdmM?oc=5
+- Cases Filed Against My Family Members To 'Coerce' Me: Ex-CJI NV Ramana - NDTV
+  Cases Filed Against My Family Members To '
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajdudWNBSUhCa25IY1IzaGpSekhRXzROeVo4b2ZKMVhIZ01IV2FTVmpCRTJ5czZtSWFQRlh4ZzRnRy1GZXJuWnk5VHdNaTNDY0JZUmRlWlRjd29HUDZGY3RTWGlFWU5Qc1RnVXhyZ3lGSEZzdHZYeHA5NmhTMGcycUpiLXdOcGV6RXFnbjNKUzN2UnpTNmw5bVZ0d2xVZzdKd1Vqc2I4eG5pdGfSAbMBQVVfeXFMT2laZ3FCUXBSYmN5LWdMdm5tMVdsN05oaEVFdkw0VE9OV3RnSUdzVFlacGs2RU1VWm51NXFSdFlDVHplY05hVGhMTjBPdlVUZC1KMWYzRHQ1U0NKWGdMeXI1bHVsR182MzhIbkd0b1ZzSUtkWEdlbGoxWXlSYzB5V1dpY3QyYXN5c2Z2aTk1a0wxZldJeVFyWWFKM3drUkhYS2dBWTlqc2dUSzhFM1U3TVRpWk0?oc=5
+
+- Henley Passport Index: Why Indian passport is falling in global ranking - BBC
+  &nbsp;<font color="#6
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZjZDM2JPbzQ1TlFVRXJpZTRxR3hkSzBtZldKMWpaNVdGOHF4ZGdTX3RjUl80S0xlaTgtLUNsR3JTSTViV3lTZlBWMW50SWVZUk9Ycml2Y2ZQUdIBX0FVX3lxTE1FcXY1bXJFS1dPekhQUVJ5VTlhcnBoUHNmVXZ3RGp3NEVtRHJvWXhybDdpaURCaTk1a2tGdllPckx5WU94WDBiQzRsSVFsbk5fUFJjOTJjbUoweGQ5ZEhv?oc=5
+
+- ISRO Set To Launch India's Heaviest Satellite CMS-03 From Sriharikota - NDTV
+  ISRO Set To Launch India's He
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFhfTGpkQk5qQnFxYzNrN0VNQUs1WmJveFJBTXZfZGZQcXNnRU1zNXBycHlra3hlQnhNYzctb3B0MTZMXy1ZaS1vSWgtdFdWNU9kNFo5OXdrbnlpOU81V3VYdVA1UmtISGhEcnNNcWRrUlhwRzJPbTA0QWhrT3BDb0FyNGdZTUhaX2owalFVak5sdDQxQ1pTdC1nN19OMGdCcEg4aUdhcnFvS2xO0gG0AUFVX3lxTFA4dVBLVnMySGRZbDE1SHA1SmpYSERWMW9HaGJtMTBCeUszel9wcHBOUGNTQkpROXFpMTI4SU9JX3Rqa18zdjd1UU80OHEzaS1QUTNzUFQ5Y2dwejM4ZzRPRHU2ekRKaVVkMElralFjeFFTUko3YjRDczE3UE9VWUwzY24zX1dzS0Q4T1ZLay0wMEh5Q1RMdmNPUktsMDZHM2padjdvY0EtM0hkdmtfdUp3SGJxWA?oc=5
+
+- "India Needs To Grow Thicker Skin": Shashi Tharoor After Scholar Deported - NDTV
+  "India Needs To Grow Thicker Skin":
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjQxSHpMcTZ6M2NvdkRQNTk2cXR4REQyd2pYMW1BdHF1ZDRNWVJJaDBRT2NDN01GdGNrMTZXSVRPTGU0MnYtTGc3dzNpNktBVE56QnR6QzdOMkpjeGwxTjVMVUFwSFk2RFhySU9yREZxV2VTTklTM2swcTF4RzFfV0hmOG44V255Q3dvZGNrbTlUa3NkTW5Fdjg1YklleGRmMFVmZXRtQjl0VlZvTDctWmMyanpIcHdfdW1zdUVwTnl1VGFqUjVyOTRVVDdsam1SdDBpZEFoVdIB3wFBVV95cUxNZDV5QXV5ZHZpbUlsU2hkMy0tTnVlQnZxMkJlLUpKZElQZVZmN2hMQ1JYMXZITUlQQ3RXT2dyMnFtS1kyMVhXN1VncTBPSExSY09DSXo4Y1NJVll3N05BckJ4TVNYUExUbi1LT0VJbkZUdlVJRnBNSXlyalFaX1FjUlMtRWJPNElydHRlem5qRjlwSzhYajU4YlNDV2V4ZVBza0xJaTNqcFdtR3l4RWlmNk1NNVZvTlV0c3pfcE0zY0ViX1U1endkekV6eFB4UUxwejl0UWs1QURyRC1wNm1J?oc=5
+
+- ‘India wants to keep Pakistan busy on…’: Defence Minister Khawaja Asif's fresh claim | Latest News India - Hindustan Times
+  ‘India wants to keep Pakistan busy on…’: Defence Minister Kh
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTJ4MHptcGF0SzZlU1VDcENCR0JmWW96c0owWTRwV3ZoMHExZnJWYnFqaHZCc29ySDZVWWxWZ0V6VmVZUGw2cWhRTnQ3Mmlfd0ZKNlhPMm9oVnIycEx5bF9xUVk0Q2RwMmNSNWc3M2FSWTRhUHhrS2x6ZVpnM2lUZ20xOGtWSFJWVDFuc0V6Vm5lU0YwRGQwT2RiVVdGal9lbnpQeUExUW1WSVJaem1EckJvVWZjdnB2d1JzZTJVNGpRaElNcXMtYXgyN1VmN2p5ZXE0TVFqSlVYQdIB3wFBVV95cUxNb2NBMmZteExGRld2OVJuZFpQR1lxQlhaU2tNc2dDQTIzN1ZYX0xuT2lndWdJNzU1NGxZWl9XdXRWUmZfZ2Vya05xQjQtTHB1SUhWMkJfby1pVHViX0VIZXJPejc3RXdEYlpXMjRFY0JpZ3hqNV92UDN5ZVhHa0tfekdEazJGZVhoVFQ0aU1yYzFNZEpUM3llN1k5alNiS0pPa1dTUGVpTDY3Zkp4ZTJlMHNTQm5yX3JoLVBVS1U4VENIUnNYRjJXYzVnWXBuMmxrSk5Lc1ZIdjZYNko0dFRv?oc=5
+
+- Cases Filed Against My Family Members To 'Coerce' Me: Ex-CJI NV Ramana - NDTV
+  Cases Filed Against My Family Members To '
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajdudWNBSUhCa25IY1IzaGpSekhRXzROeVo4b2ZKMVhIZ01IV2FTVmpCRTJ5czZtSWFQRlh4ZzRnRy1GZXJuWnk5VHdNaTNDY0JZUmRlWlRjd29HUDZGY3RTWGlFWU5Qc1RnVXhyZ3lGSEZzdHZYeHA5NmhTMGcycUpiLXdOcGV6RXFnbjNKUzN2UnpTNmw5bVZ0d2xVZzdKd1Vqc2I4eG5pdGfSAbMBQVVfeXFMT2laZ3FCUXBSYmN5LWdMdm5tMVdsN05oaEVFdkw0VE9OV3RnSUdzVFlacGs2RU1VWm51NXFSdFlDVHplY05hVGhMTjBPdlVUZC1KMWYzRHQ1U0NKWGdMeXI1bHVsR182MzhIbkd0b1ZzSUtkWEdlbGoxWXlSYzB5V1dpY3QyYXN5c2Z2aTk1a0wxZldJeVFyWWFKM3drUkhYS2dBWTlqc2dUSzhFM1U3TVRpWk0?oc=5
+
+- Henley Passport Index: Why Indian passport is falling in global ranking - BBC
+  &nbsp;<font color="#6
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZjZDM2JPbzQ1TlFVRXJpZTRxR3hkSzBtZldKMWpaNVdGOHF4ZGdTX3RjUl80S0xlaTgtLUNsR3JTSTViV3lTZlBWMW50SWVZUk9Ycml2Y2ZQUdIBX0FVX3lxTE1FcXY1bXJFS1dPekhQUVJ5VTlhcnBoUHNmVXZ3RGp3NEVtRHJvWXhybDdpaURCaTk1a2tGdllPckx5WU94WDBiQzRsSVFsbk5fUFJjOTJjbUoweGQ5ZEhv?oc=5
+
+- ISRO Set To Launch India's Heaviest Satellite CMS-03 From Sriharikota - NDTV
+  ISRO Set To Launch India's He
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFhfTGpkQk5qQnFxYzNrN0VNQUs1WmJveFJBTXZfZGZQcXNnRU1zNXBycHlra3hlQnhNYzctb3B0MTZMXy1ZaS1vSWgtdFdWNU9kNFo5OXdrbnlpOU81V3VYdVA1UmtISGhEcnNNcWRrUlhwRzJPbTA0QWhrT3BDb0FyNGdZTUhaX2owalFVak5sdDQxQ1pTdC1nN19OMGdCcEg4aUdhcnFvS2xO0gG0AUFVX3lxTFA4dVBLVnMySGRZbDE1SHA1SmpYSERWMW9HaGJtMTBCeUszel9wcHBOUGNTQkpROXFpMTI4SU9JX3Rqa18zdjd1UU80OHEzaS1QUTNzUFQ5Y2dwejM4ZzRPRHU2ekRKaVVkMElralFjeFFTUko3YjRDczE3UE9VWUwzY24zX1dzS0Q4T1ZLay0wMEh5Q1RMdmNPUktsMDZHM2padjdvY0EtM0hkdmtfdUp3SGJxWA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-11-02 12:31:31 UTC_
+_Last updated: 2025-11-02 18:23:32 UTC_
