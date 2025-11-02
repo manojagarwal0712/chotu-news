@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
+- In Zubeen’s film, glimpses of his life — and death
+  
+  🔗 https://indianexpress.com/article/india/in-zubeens-film-glimpses-of-his-life-and-death-10340847/
+
+- It’s growth vs jungle raj in polls: Shah, Nadda dial up heat on RJD
+  
+  🔗 https://indianexpress.com/article/india/its-growth-vs-jungle-raj-in-polls-shah-nadda-dial-up-heat-on-rjd-10340881/
+
+- Manipur to export white rice variety to Japan
+  
+  🔗 https://indianexpress.com/article/india/manipur-to-export-white-rice-variety-to-japan-10340863/
+
+- Mokama murder case: Anant singh arrested days before Bihar elections
+  
+  🔗 https://indianexpress.com/article/india/mokama-case-anant-singh-arrested-days-before-bihar-elections-10340852/
+
 - Himachal: Snow leopard falls into dam’s filter inlet in Kinnaur, rescued
   
   🔗 https://indianexpress.com/article/india/himachal-snow-leopard-falls-into-dams-filter-inlet-in-kinnaur-rescued-10340694/
-
-- No role of India in stopping Nepali citizen from travelling to Berlin: MHA
-  
-  🔗 https://indianexpress.com/article/india/no-role-of-india-in-stopping-nepali-citizen-from-travelling-to-berlin-mha-10340583/
-
-- Armed Forces carry out mega drills along Western border to test combat readiness
-  
-  🔗 https://indianexpress.com/article/india/armed-forces-carry-out-mega-drills-along-western-border-to-test-combat-readiness-10340560/
-
-- Not against any country, freedom of navigation in Indo-Pacific is to safeguard interests of all: Rajnath
-  
-  🔗 https://indianexpress.com/article/india/indias-indo-pacific-policy-not-against-any-nation-says-rajnath-at-asean-defence-meet-10340517/
-
-- Modi’s veiled dig at Rahul: ‘Those who show off copy of Constitution…’
-  
-  🔗 https://indianexpress.com/article/india/modis-veiled-dig-at-rahul-those-who-show-off-copy-of-constitution-10340514/
 
 - Best privacy-friendly browsers in 2025: Tor, Brave, DuckDuckGo and more
   
@@ -60,6 +60,10 @@
   Major tech firms Alphabet, Meta, Microsoft, and Amazon are boosting AI investments. Capital expenditures to exceed $380 billion this year.
   🔗 https://www.livemint.com/companies/news/alphabet-meta-and-amazon-poured-380-billion-into-ai-but-not-everyone-is-winning-from-the-spend-11761971104027.html
 
+- Dividend Stocks: Coal India, Mazagon Dock, BPCL, among others to trade ex-dividend next week; Full list here
+  Coal India, Mazagon Dock, BPCL, Hindustan Unilever, NTPC, RR Kabel, HP
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-coal-india-mazagon-dock-bpcl-among-others-to-trade-ex-dividend-next-week-full-list-here-11762020447383.html
+
 - Pine Labs IPO to open next week: From key dates to offer details — Here are 10 things to know
   Indian fintech company, Pine Labs' initial public offering (IPO) is set to open for public bidding next week. The firm aims to raise funds from the stock market through a fresh issue and offer
   🔗 https://www.livemint.com/market/ipo/pine-labs-ipo-to-open-next-week-from-key-dates-to-offer-details-here-are-10-things-to-know-11761998385374.html
@@ -76,9 +80,9 @@
   Lenskart IPO sailed through on the first day amid a strong grey market premium. Meanwhile, helmet-maker Studds continued to see decent traction for its offer, with 5 times bids
   🔗 https://www.livemint.com/market/ipo/lenskart-ipo-vs-studds-accessories-ipo-what-does-gmp-signal-about-listing-gain-11761989288537.html
 
-- FPIs return to Indian stock market after 3 months with $1.6 billion inflows: Will the momentum last?
-  FPI buying in October renewed bullish sentiment in the Indian equity market. Analysts caution that sustained interest depends on macro stability, earnings growth, and trade discussions, particularly between the US and
-  🔗 https://www.livemint.com/market/stock-market-news/fpis-return-to-indian-stock-market-after-3-months-with-1-6-billion-inflows-will-the-momentum-last-11761987376473.html
+- Epic Games down: Fortnite, Rocket League and Fall Guys hit by major outage - here's what's happening
+   Epic Games Store (EGS) is facing a major outage on Sunday, affecting Fortnite, Rocket League, Fall Guys and many other titles. Thousands of users report login and server issues.
+  🔗 https://www.livemint.com/technology/tech-news/epic-games-down-fortnite-rocket-league-and-fall-guys-hit-by-major-outage-heres-whats-happening-11762043644730.html
 
 - Elon Musk teases Tesla’s flying Roadster prototype, promises ‘crazy technology’ on Rogan podcast
   Elon Musk reveals plans to demo a ‘crazy technology’ Tesla Roadster prototype before year-end. Speaking on The Joe Rogan Experience, the billionaire hinted the vehicle could blur
@@ -96,9 +100,25 @@
   Samsung has partnered with Nvidia on Friday to build a next-generation AI megafactory. Using over 50,000 Nvidia GPUs, the platform will optimise chip design, manufacturing and
   🔗 https://www.livemint.com/technology/tech-news/samsung-and-nvidia-are-building-an-ai-megafactory-powered-by-50-000-gpus-here-s-what-it-means-for-the-future-of-chips-11761972345101.html
 
-- Google Pixel 9 becomes cheaper than ever — Here’s how you can save up to  ₹35,000
-   Flipkart is offering up to  ₹35,000 off on the Google Pixel 9. Buyers can combine bank and exchange offers for extra savings. Powered by the Tensor G4
-  🔗 https://www.livemint.com/technology/gadgets/google-pixel-9-becomes-cheaper-than-ever-here-s-how-you-can-save-up-to-rs-35000-11761967787653.html
+- Stock Market News, October 31, 2025: Amazon Surges to Record High, Boosting Nasdaq - The Wall Street Journal
+  The Wall Street Journal published an article on October 31, 2025. The
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0tKbUs0bE5UNzhYQmRiUkY2dHF0QmxCMFZacjFlVnBxaVlWY2QwX1VrY0w2VGdlVE1mSmxXT2E5ZnVTc3I4ZUJ2XzZ2X3FiSGZHZ2w2VzcyZ21RMGhRN0VYaXhJN0RCWkpvUFdDR2xXYkNtS3BPMGNtdl95WDVSeHhiM0tpc2s?oc=5
+
+- Stock market today: Dow, S&P 500, Nasdaq climb to cap winning month as strong earnings, easing rates fuel Amazon, tech stocks - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq climb to cap winning month as strong earnings
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaVVwdklPcjB6SGZnZU8tZGVTY3Jvb25XV3dmTVlQdjJtdTkxOGdvTFZCTVcwOFgyZjlCVVNCbVlEZUttem5KdlQxTWdTNTBlMkJQbi1WTTk4aTY3ZXl0T3pPRVFjcXZSVV9OWi1GM1M4ZHRmR1JPN0hoR1phTHQ0WW9CMnZmVnJINjJ5Mm5QaHk4UkJCYTJnV0IxWlFWeFFHYmVkVVotblI3cXBHZVF4ZGFQa2FZUnlpdmRING9VempNa3VJdDJvZnhZWnBHZGJ6?oc=5
+
+- Why did the US markets surge on Friday? - financialexpress.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPakdnbFJ2MlpKNU5sMGJZMHJ1SHh0R0owRmEwQTFVdFNnOUFoMkRsUzNZcEg3TnZDZU80VGt4dUQxMHNvSS1mUmpDSUR3OUl3TkJIVXpJaDJBT0ROTjlHSm1pYm55ZnA0VkVSMm1RUkZuWFE2UVBGdnRxWTFLUXFMM192VDRNZk5ETVVhUHpndGdaSWRqTlRvM3ZJeFN0TmNoOTVsY3RGenhMQdIBsAFBVV95cUxNeFlVVERnX204bnBRa2hvamFtNkN2Skd4eHNiQVNaVzV4TW5KeXE2T1o4QmxfajVQNWJIY3NrTzM3OWF1ZmVTVldhTU42VVNESm1DcnAtMzVsdTZqd1ZuZzByM01GUWxzY2p3N0tHb1NHRmFKbDlKdjZBdHlERFlRMENLTWJyQ2ZCNlFBT21RVTAyVUt2YXBCMUFoZnlQZEtIN0JIMFg1dldkaXFibkRKRQ?oc=5
+
+- Centre Says Textiles, Gems And Jewellery Exports Grow In Non-US Markets - NDTV
+  Centre Says Textiles, Gems And Jew
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0dNUXY5SDN4RVRfZTZoamM5b1M1RElGeW1YQ0J3aHItQ2lremlSUzcxMXhyT0lVZTlKbFpWTWRoQ3JKUXFTOGZncHpkYUQtd08tNzl4VDB0aHJRZWxYWi1uSXFtcWtwUTFydmlja0l1cmZmcVVqZEt6TTVzaXM0aThJZ2R4RXZ2N0RtdW9tTkRKb1FWWmcwMk9POEprMlJiWjJIRlBsMEw0ZENVVzVlSnBIbWRXNWtMVDNiZVEtTGhpQdIBygFBVV95cUxPS3hCQUh0elFpWlFFWFVuckdnN2d0X0FGQkM3LU5Ob1Zfeng2ZGxONXhadThDQ0xLVWhhUzJFN3I5MGRWV2IyYU5uR0NnRlJiUlNua19pNWlCQzNoVWRBeXg4UXBWN3E1Y3E1YzR3eGhJOFFjOGVEQzI0VjU1bE1uUXVraWRSYnNFb2tLcFRBQVhkR3BybHFaem9CZE1GVnV0cnJpSDczbzAzSGVuZE05eU9hUmJ4OG9NcXc4YTBTSFczVzJ3UWpFa2J3?oc=5
+
+- Stock market holidays in November: When will BSE, NSE be closed for trading this month? - livemint.com
+  &nbsp;&ngt;<font color="#
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQ2NPQnI5bHBsUHFZOUtydlQwWFFhOEJLYmlxeWdDclVxLWYtQ2tzTGF0bXF3SWc4M3RiM3VrUjhDU2JQWXZKZ1ZEQ0FtNVlxbkNrbHhtVEtfRE90UmEtYWVNakxfVTFtSVdENExkTGEzX2R0LVVIT0E3U1Z2YkdJRXo5N3FpMXNGaGwxdzZlczRHZlRKWm5jb0JLUEtILVBJM2g5R2lnbkhZTFk1NFd2M0Y5WlZtZWkwWjdUeHM0RHg3Sy1Pdmo5c3czaEExU3NUTHMzdzVfMFpHODZaVW5wVVZjdC1VcExFOVHSAe8BQVVfeXFMTnpMVzVTTkxBeVM0TDMxbnFvbVBQd0FvZXVEMFVWQ01vVXlWWTR0QktVOFVrT05ZSkIwTF9abk1EYXRIQ3BPSG94THdXdUk0cndjZXNBQXczLXpWMXF3cXg5aTEtcGxob1hwZDd0dDlFZ05mNm8wQlNiSExuTTVRYVhRU0ltX2NZdVMtbVdVamJMVXVCSXduUHdBTVVuNWhsZVBFNDM1Wk5lRU42Rkk4NXpEdkUwR3ZRVTFESERaRzYycEN4cEhPLTZ3eVJLQmFkc3J0bC0xOUVyXzVESDNYTlZMc2R3THBTN0N6eFdKNHc?oc=5
 
 - Dalal Street Week Ahead: Technical charts signal bullish bias despite mild fatigue
   Indian markets traded rangebound last week, ending slightly lower. The Nifty broke a long-term trendline but faces resistance. PSU Bank and Metal sectors are outperforming.
@@ -120,73 +140,45 @@
   Several blue-chip and mid-cap names across FMCG, pharma, finance, and indust
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/hul-coal-india-among-30-companies-set-record-dates-for-interim-dividends-stock-splits-next-week-full-list-here/slideshow/125013474.cms
 
-- Henley Passport Index: Why Indian passport is falling in global ranking - BBC
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZjZDM2JPbzQ1TlFVRXJpZTRxR3hkSzBtZldKMWpaNVdGOHF4ZGdTX3RjUl80S0xlaTgtLUNsR3JTSTViV3lTZlBWMW50SWVZUk9Ycml2Y2ZQUdIBX0FVX3lxTE1FcXY1bXJFS1dPekhQUVJ5VTlhcnBoUHNmVXZ3RGp3NEVtRHJvWXhybDdpaURCaTk1a2tGdllPckx5WU94WDBiQzRsSVFsbk5fUFJjOTJjbUoweGQ5ZEhv?oc=5
+- ‘India wants to keep Pakistan busy on…’: Defence Minister Khawaja Asif's fresh claim | Latest News India - Hindustan Times
+  ‘India wants to keep Pakistan busy on…’: Defence Minister Kh
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTJ4MHptcGF0SzZlU1VDcENCR0JmWW96c0owWTRwV3ZoMHExZnJWYnFqaHZCc29ySDZVWWxWZ0V6VmVZUGw2cWhRTnQ3Mmlfd0ZKNlhPMm9oVnIycEx5bF9xUVk0Q2RwMmNSNWc3M2FSWTRhUHhrS2x6ZVpnM2lUZ20xOGtWSFJWVDFuc0V6Vm5lU0YwRGQwT2RiVVdGal9lbnpQeUExUW1WSVJaem1EckJvVWZjdnB2d1JzZTJVNGpRaElNcXMtYXgyN1VmN2p5ZXE0TVFqSlVYQdIB3wFBVV95cUxNb2NBMmZteExGRld2OVJuZFpQR1lxQlhaU2tNc2dDQTIzN1ZYX0xuT2lndWdJNzU1NGxZWl9XdXRWUmZfZ2Vya05xQjQtTHB1SUhWMkJfby1pVHViX0VIZXJPejc3RXdEYlpXMjRFY0JpZ3hqNV92UDN5ZVhHa0tfekdEazJGZVhoVFQ0aU1yYzFNZEpUM3llN1k5alNiS0pPa1dTUGVpTDY3Zkp4ZTJlMHNTQm5yX3JoLVBVS1U4VENIUnNYRjJXYzVnWXBuMmxrSk5Lc1ZIdjZYNko0dFRv?oc=5
 
-- India, US ink new defence framework for 10 years; aim to deepen cooperation in all domains - The Times of India
-  India, US ink new defence framework for 10 years; aim to deepen cooperation.
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeWhvNWtxZFBfN2thUjNSNGVKcllWUVpRYzctX1JpUTNIbVZlaGVDZjFjdl9POU1tQVZMTThLZ0M4dkJLR2ZhbHRoQXVfTmp4a1FVN3VVRVc3Ty1ibUpfY2Y5MDRJTWVMYzFHZkFWOUZwLU8zX2dFdUlFU0NmTDVxOUg2ZG12ejV6UWZTTWp0N1ZKaTNvdE5XWWpvNXZxUW9MRFduM2RqS2dBak5fbGkzVjItZ0lNZXhwSWJ4X2VYMHFCV2VoR0VSMnA4TlFsQ1F4UDZMVndCM0pzRHVCbGxUa1FJQnBYLUN0VnBWUtIB8gFBVV95cUxOSWh0d2JBUGw1S0h6UmRpNXNLVjBveHZvLV9UWlJUWDVZVG92azhfaEpGZ2R0d2NyM0dyWmpHWDZULXJXSjBGb3RnYWpZaElrSVQxTzBndVVseFlaeVZlZENsTkFRaHRFdXdFTXBRUHpSNDhYc0c4ZGZOY1FUNG50UFBmZ0o4ZHFJbnp4VllkSS1vazBsczByNHAzMktlN2xJZUhWN3ZxLXdqWjNzaHQzVDlGZHhaSG1UNjNwODFvVkdDR0IzbE5aRk1Sd0h0cHNidTBRSFpmcU5zUVlNWVlGbEdvR3hxVnkwVk92R1V0VndFdw?oc=5
+- India, U.S. ink 10-year defence framework pact as Hegseth meets Rajnath Singh - The Hindu
+  India, U.S. ink 10-year defence
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2wtcXd3NkM2cHFacUs3RTZWTGlDaXZVUktNRkJLRUpkNEpwa1VVeWVzWmlFbDVvaDROV1NvU0lFeGRUSk1Tc0lPeGg2RmY3d1U3cXhIeWc4X3czSTQwZmE4Nm9jZU5nekJmU0ZKUGl2NEhWSzB1TGpKTWYxbjhRQnViOEd2dC1URlNZMTNqSTBpc0ZWbzlGc3g1UFQwTzF1U1FCNjRB0gGsAUFVX3lxTE1jeVdhUG0yUEVXVjFaVTBBUGFwQUw1UUVSVW9vTFFERkYwS0FiMm1sdjV3T0tGT3FaOWliZ21aM25tT3JiNm03TVU5Snota242NXVoYm9iSFlrSTZ1WG53QUxPcmgzQ29ITkRvY3Mta3U4ZlE0VHhTX2JKdlh1UDdMU0loWElzcDJfN2pKUFhKbGtIbVpqUEFyUnY0anlmX1N6c3h3dnFQRGVPaUk?oc=5
 
-- 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
-  'You'll Never Do Business': Trump Brags Of
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
+- Inside story of why Shreyas Iyer chose to stay back in Sydney for few more days - The Times of India
+  Shreyas Iyer had to stay back in Sydney for a few more days.
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPSEJCMUJBSjE2aURwVXpxTWxpNlZiZ1RZUjlrWkVURzgzdjRUNVg1Vm83U0RmUk96NURiWWhCY2RYT2M3NjhrRHFCZ0pRUjZoZnY3cEZJT3VPb1QtU2FkMnp4eDlRQmxuQmpURUE5ZE1RRkJBQUd3YlBqbGd1Z0JBRXFDSGx5UlVMaGU4ZkpoUGFjOUIyYmpGbFc1UWZqb0JCX01oWC1URi14Wldmb3JKazNfd2hxOUl4RDF6eU9CTldtYWVxZ2JRMWdUdU1RMHdIdk9uUU9FcmNsSXhleGY3TlZQR3Q2cTR1aUZ4SHlLb0NYazctMFJoaHZFZ21JRFpoRlVlY0Nn0gGLAkFVX3lxTE9BUmN0dG5qT1hoelNxWHNkRjRvTm9wMnpBQzcxTEh0VUxpWEhUaEhTWGE4NVNzWDhuTUdXVTRVd25Jc2VRU2NyUkNxT29VM3hmRzFVaTQ4b1RSMzRCanBGREpzQ0hpZHpSdVhXcHpaeHZGMlhQbEI2MVhQdS10OHZGUEhaeGtJX05laEdYTlBnUmdzQU9sWDlNdjJRRGxKN0ZiZzBUY2xoS280enJiMzZiX19mT2plSlVzX0Q1Z3lrZ2NIMDFVTk8tME4zM05IOExoajBNdExTbWFvenB1NzlPdFN0Wm4tZzdBVlNpNFZDODY2YVhlRTBZUW1YcnZwc01uYnZYbmhkY2t5WQ?oc=5
 
-- India-US Trade Deal Soon? Piyush Goyal Shares Big Update - Times Now
-  India-US Trade Deal Soon? P
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzk4bWtQRExMU0RQNXItNzlIbVh0b05ybXJXWG9LUURnM2FIZVNvZlY5VGlTODVSS3ZPbnd4ZFZIMW5tYnpqcFR4UTFhdGZOdXNuUC1DVk8zRHFyTkZvYWl0dG4zQ2ZMVUxMOHpOUDZrbXJGaEJJRW9fT3pSZzI3bndMa3hSQVp6U2FsMWh5cVhpRUlKOEZ2d2tyQXdiRzhHLTI2LU9yZzQ1SS1r0gGyAUFVX3lxTE0zVGwya0VjTnJuSkpEZ0hCdkxuUjNwQlloTWRBTFF2R0Zqal9NdHhwMjlKX1FPbU1HaWxIS05FNEVuLUEwdWZNR1Z0c1hjNVhUM3NQamJubDdNMTRyeFJraDJpWjI5NmtlTWgxVU5FM0Y4N0NSbENad21EMl8tclFobEtBVzQxZXQxN2h2UDZMQ1FwLW1sQTdsdkF2MnFpNFlRRUh2MFp2TWxMWEJYZkhaaGc?oc=5
+- BLOs on Bengal SIR duty demand security | Latest News India - Hindustan Times
+  BLOs on Bengal SIR duty demand security.
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPRjY1cmJVRU5ZMmpCM2hjUE41MXdsZkhIWFlUelJWM1R1Q29FemowTVNvQ0l6T0g0NVBiSU9oZ1dYU2JRMFJBZ2NpakNkSGJfMEtkb3Z3QTVvVkpvRGdnemlFU1dRQVd2c1VEN3dETU5oc1kwejZvcFlYb0REd3RXYkFwV283OVpYM3NWOXVoVmx3UGRROEdhUUdpdTh4TjE2WUpLQdIBqgFBVV95cUxPSFowV3U1ME1CWFVINy0zVU94LW81RGZ5bTF2bkxCTlNaNUJZTHlfa2I2X0p5OUk5S0ZtTF84UUhyR3hfNXlrQ3BYX1Y3STRaRzRuYWtOSW10dy1pM1pzNE9KMHVfS3pvVXZrMGxiOHdZWE05Z3d1ZWFBZ2RlSHVQdU5XLXQtU05pcl9LVzZwMmdNZkkxbVB0NFh3N01TQkYxTERHbGlEbGpDdw?oc=5
 
-- Anti-Indian move? Trump govt's new ad targets foreign workers over H1-B visa abuse, ‘American Dream stolen’ | Hindustan Times - Hindustan Times
-  'American Dream stolen' ad targets foreign workers over H1-B visa abuse.
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ1VMOGhXOF96cFZzWWZ1c1VKaV8zc0o3X3BkZU52cnRaNmx2WU1IQ0E5RGFwRjhWMzBvTF9Gd2pmTFpuMEoxUU9NZzZhdm00c2swaDZXa2JfU3hOaElRX3poNkZaMHB0ZzNjdW1IUGtYN2NaOWpuUUlGVG9zZ0RWZmZEV1VqUzJZaHhQazIxOTJnaVAzMkhLLUxtMXRNMG5NMlk0ZnN2b0lnQmxiNUxhVEVzdl8zU2JYeHpPS2dqN0FhMmVaTFdYdDJNMDFXV1UwaEgzNGNvLVNzRkJzWWpHX3l6R3BuM3BrbXVMaEFkdnpTN0FTd1VrMF9IbzVST3BKTWfSAYcCQVVfeXFMTWxVc2dqM2xkOUxkTGhpZG5FcWQ4ZHZTd3pfS09CQS11Q3c1WEtJcWIzSFZoaVBkWGwyZkhwT1UyS0htZG5wUXBmQmtERmpVc3M2NUJOQnZrZ3RpM3JXdmdYeWdhbEtVYVMwUnhjeDZhaU4zWkN3LWRHUjVZcWFCOWtqclZQdzExaVFvNWZzNmUzNWllX1N0ZWtfWWhsM1g4QUFfd0tuS1o4eW41MmZWN3c0WTNWampxdURoZnVvbHFMcV9YcUloa1VWbkttTFowblMwdWZ6WnlXRWtxd2VYaGxWV0lQVEZVOFFXWURFMnd0UTVEbktwejkwdTE0enBUN1Y4Z3g0Qk0?oc=5
+- Chhattisgarh HC upholds validity of banners against pastors - Hindustan Times
+  Chhattisgarh HC uphold
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3BDVDIzTE1Pd1pNS2cydmNHMVJ5UXZiaEd6R2g5SjhrcXRucGIwcEhZSWhYVjRfekVNTXpxRHYyMjJuLTdPMHhIRkVNNlpBYWN0RnBWOHlfd2lrYXE1SFY4Q2hzcnBFRU1xRUctaXN4Q21aY3hPMEczZXI2aV9ZTENKX3V1VDZRdTFCblhiRV9NTnR0c1ZabnBjN0dBREFpOEZiMDk3Y2hkOTBrSjNVb3RFVkZEM3BYME1JMTFHRQ?oc=5
 
-- Henley Passport Index: Why Indian passport is falling in global ranking - BBC
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZjZDM2JPbzQ1TlFVRXJpZTRxR3hkSzBtZldKMWpaNVdGOHF4ZGdTX3RjUl80S0xlaTgtLUNsR3JTSTViV3lTZlBWMW50SWVZUk9Ycml2Y2ZQUdIBX0FVX3lxTE1FcXY1bXJFS1dPekhQUVJ5VTlhcnBoUHNmVXZ3RGp3NEVtRHJvWXhybDdpaURCaTk1a2tGdllPckx5WU94WDBiQzRsSVFsbk5fUFJjOTJjbUoweGQ5ZEhv?oc=5
+- ‘India wants to keep Pakistan busy on…’: Defence Minister Khawaja Asif's fresh claim | Latest News India - Hindustan Times
+  ‘India wants to keep Pakistan busy on…’: Defence Minister Kh
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTJ4MHptcGF0SzZlU1VDcENCR0JmWW96c0owWTRwV3ZoMHExZnJWYnFqaHZCc29ySDZVWWxWZ0V6VmVZUGw2cWhRTnQ3Mmlfd0ZKNlhPMm9oVnIycEx5bF9xUVk0Q2RwMmNSNWc3M2FSWTRhUHhrS2x6ZVpnM2lUZ20xOGtWSFJWVDFuc0V6Vm5lU0YwRGQwT2RiVVdGal9lbnpQeUExUW1WSVJaem1EckJvVWZjdnB2d1JzZTJVNGpRaElNcXMtYXgyN1VmN2p5ZXE0TVFqSlVYQdIB3wFBVV95cUxNb2NBMmZteExGRld2OVJuZFpQR1lxQlhaU2tNc2dDQTIzN1ZYX0xuT2lndWdJNzU1NGxZWl9XdXRWUmZfZ2Vya05xQjQtTHB1SUhWMkJfby1pVHViX0VIZXJPejc3RXdEYlpXMjRFY0JpZ3hqNV92UDN5ZVhHa0tfekdEazJGZVhoVFQ0aU1yYzFNZEpUM3llN1k5alNiS0pPa1dTUGVpTDY3Zkp4ZTJlMHNTQm5yX3JoLVBVS1U4VENIUnNYRjJXYzVnWXBuMmxrSk5Lc1ZIdjZYNko0dFRv?oc=5
 
-- India, US ink new defence framework for 10 years; aim to deepen cooperation in all domains - The Times of India
-  India, US ink new defence framework for 10 years; aim to deepen cooperation.
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeWhvNWtxZFBfN2thUjNSNGVKcllWUVpRYzctX1JpUTNIbVZlaGVDZjFjdl9POU1tQVZMTThLZ0M4dkJLR2ZhbHRoQXVfTmp4a1FVN3VVRVc3Ty1ibUpfY2Y5MDRJTWVMYzFHZkFWOUZwLU8zX2dFdUlFU0NmTDVxOUg2ZG12ejV6UWZTTWp0N1ZKaTNvdE5XWWpvNXZxUW9MRFduM2RqS2dBak5fbGkzVjItZ0lNZXhwSWJ4X2VYMHFCV2VoR0VSMnA4TlFsQ1F4UDZMVndCM0pzRHVCbGxUa1FJQnBYLUN0VnBWUtIB8gFBVV95cUxOSWh0d2JBUGw1S0h6UmRpNXNLVjBveHZvLV9UWlJUWDVZVG92azhfaEpGZ2R0d2NyM0dyWmpHWDZULXJXSjBGb3RnYWpZaElrSVQxTzBndVVseFlaeVZlZENsTkFRaHRFdXdFTXBRUHpSNDhYc0c4ZGZOY1FUNG50UFBmZ0o4ZHFJbnp4VllkSS1vazBsczByNHAzMktlN2xJZUhWN3ZxLXdqWjNzaHQzVDlGZHhaSG1UNjNwODFvVkdDR0IzbE5aRk1Sd0h0cHNidTBRSFpmcU5zUVlNWVlGbEdvR3hxVnkwVk92R1V0VndFdw?oc=5
+- India, U.S. ink 10-year defence framework pact as Hegseth meets Rajnath Singh - The Hindu
+  India, U.S. ink 10-year defence
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2wtcXd3NkM2cHFacUs3RTZWTGlDaXZVUktNRkJLRUpkNEpwa1VVeWVzWmlFbDVvaDROV1NvU0lFeGRUSk1Tc0lPeGg2RmY3d1U3cXhIeWc4X3czSTQwZmE4Nm9jZU5nekJmU0ZKUGl2NEhWSzB1TGpKTWYxbjhRQnViOEd2dC1URlNZMTNqSTBpc0ZWbzlGc3g1UFQwTzF1U1FCNjRB0gGsAUFVX3lxTE1jeVdhUG0yUEVXVjFaVTBBUGFwQUw1UUVSVW9vTFFERkYwS0FiMm1sdjV3T0tGT3FaOWliZ21aM25tT3JiNm03TVU5Snota242NXVoYm9iSFlrSTZ1WG53QUxPcmgzQ29ITkRvY3Mta3U4ZlE0VHhTX2JKdlh1UDdMU0loWElzcDJfN2pKUFhKbGtIbVpqUEFyUnY0anlmX1N6c3h3dnFQRGVPaUk?oc=5
 
-- 'You'll Never Do Business': Trump Brags Of 250% Tariff 'Threat' To India, Pak - NDTV
-  'You'll Never Do Business': Trump Brags Of
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG5PaW1UUFZ3QXRSeVZVdGdTSWVQRWNNdGxGUUkzdms4ZWY4YThwOC1HbWFqOGNZZzVLVldCQlYxYWplN3lmSElTN05GY3NWcVFreTVnRXJzRmJHZTR5UGIzdEJpLXIwZWtJa0xPQjdZcHhVWDJnZEFjd1lBTjlxNk9WaEJScUhEV3M0bU90eF9ORkkzRTY1N0wzQ1JKVVU0NzUwX0JleG5yUkNTalY4RkVybkF2ZjFtblVJbFJ3UG9HWFVjV21vUTltOHVNY0JiVC1NeUloYlZiSnFoZ0VxYktHUXRjNWtSQkY2MGdSZm11VHZ4OEY3QtIBgAJBVV95cUxPRnFOdWoyVC0tT1pvalhJcTNaSkRKT0g4by1mTzRTNnYwWU5DNDA4WDVUdW5sSUVJTVJ4TUduMUZjQ2hxOTBYZlZia0pybXR3Q25UTnJDV1hDTmc3bFEyOGE1OHlhaXJVcVlLMUoxcVFXR0FIVXNwSE5fVlRHaERFeGVSejBVNXJZY0VaRm55STBKOFp5N1RhS2w4ZVFYNU5KRDNTNGtJZDBHZ0RWMjU2NXFfcC1hMGFqbVRlOUhiOVVSUEFRSjdXTURsZGZxdzg2QnZwSnJuNng3MWhWNFloWGNvZ0ZJLU1pby1pc0N1UGtRUGhwaXl4SV9sWFV1STdk?oc=5
+- Inside story of why Shreyas Iyer chose to stay back in Sydney for few more days - The Times of India
+  Shreyas Iyer had to stay back in Sydney for a few more days.
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPSEJCMUJBSjE2aURwVXpxTWxpNlZiZ1RZUjlrWkVURzgzdjRUNVg1Vm83U0RmUk96NURiWWhCY2RYT2M3NjhrRHFCZ0pRUjZoZnY3cEZJT3VPb1QtU2FkMnp4eDlRQmxuQmpURUE5ZE1RRkJBQUd3YlBqbGd1Z0JBRXFDSGx5UlVMaGU4ZkpoUGFjOUIyYmpGbFc1UWZqb0JCX01oWC1URi14Wldmb3JKazNfd2hxOUl4RDF6eU9CTldtYWVxZ2JRMWdUdU1RMHdIdk9uUU9FcmNsSXhleGY3TlZQR3Q2cTR1aUZ4SHlLb0NYazctMFJoaHZFZ21JRFpoRlVlY0Nn0gGLAkFVX3lxTE9BUmN0dG5qT1hoelNxWHNkRjRvTm9wMnpBQzcxTEh0VUxpWEhUaEhTWGE4NVNzWDhuTUdXVTRVd25Jc2VRU2NyUkNxT29VM3hmRzFVaTQ4b1RSMzRCanBGREpzQ0hpZHpSdVhXcHpaeHZGMlhQbEI2MVhQdS10OHZGUEhaeGtJX05laEdYTlBnUmdzQU9sWDlNdjJRRGxKN0ZiZzBUY2xoS280enJiMzZiX19mT2plSlVzX0Q1Z3lrZ2NIMDFVTk8tME4zM05IOExoajBNdExTbWFvenB1NzlPdFN0Wm4tZzdBVlNpNFZDODY2YVhlRTBZUW1YcnZwc01uYnZYbmhkY2t5WQ?oc=5
 
-- India-US Trade Deal Soon? Piyush Goyal Shares Big Update - Times Now
-  India-US Trade Deal Soon? P
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzk4bWtQRExMU0RQNXItNzlIbVh0b05ybXJXWG9LUURnM2FIZVNvZlY5VGlTODVSS3ZPbnd4ZFZIMW5tYnpqcFR4UTFhdGZOdXNuUC1DVk8zRHFyTkZvYWl0dG4zQ2ZMVUxMOHpOUDZrbXJGaEJJRW9fT3pSZzI3bndMa3hSQVp6U2FsMWh5cVhpRUlKOEZ2d2tyQXdiRzhHLTI2LU9yZzQ1SS1r0gGyAUFVX3lxTE0zVGwya0VjTnJuSkpEZ0hCdkxuUjNwQlloTWRBTFF2R0Zqal9NdHhwMjlKX1FPbU1HaWxIS05FNEVuLUEwdWZNR1Z0c1hjNVhUM3NQamJubDdNMTRyeFJraDJpWjI5NmtlTWgxVU5FM0Y4N0NSbENad21EMl8tclFobEtBVzQxZXQxN2h2UDZMQ1FwLW1sQTdsdkF2MnFpNFlRRUh2MFp2TWxMWEJYZkhaaGc?oc=5
+- BLOs on Bengal SIR duty demand security | Latest News India - Hindustan Times
+  BLOs on Bengal SIR duty demand security.
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPRjY1cmJVRU5ZMmpCM2hjUE41MXdsZkhIWFlUelJWM1R1Q29FemowTVNvQ0l6T0g0NVBiSU9oZ1dYU2JRMFJBZ2NpakNkSGJfMEtkb3Z3QTVvVkpvRGdnemlFU1dRQVd2c1VEN3dETU5oc1kwejZvcFlYb0REd3RXYkFwV283OVpYM3NWOXVoVmx3UGRROEdhUUdpdTh4TjE2WUpLQdIBqgFBVV95cUxPSFowV3U1ME1CWFVINy0zVU94LW81RGZ5bTF2bkxCTlNaNUJZTHlfa2I2X0p5OUk5S0ZtTF84UUhyR3hfNXlrQ3BYX1Y3STRaRzRuYWtOSW10dy1pM1pzNE9KMHVfS3pvVXZrMGxiOHdZWE05Z3d1ZWFBZ2RlSHVQdU5XLXQtU05pcl9LVzZwMmdNZkkxbVB0NFh3N01TQkYxTERHbGlEbGpDdw?oc=5
 
-- Anti-Indian move? Trump govt's new ad targets foreign workers over H1-B visa abuse, ‘American Dream stolen’ | Hindustan Times - Hindustan Times
-  'American Dream stolen' ad targets foreign workers over H1-B visa abuse.
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ1VMOGhXOF96cFZzWWZ1c1VKaV8zc0o3X3BkZU52cnRaNmx2WU1IQ0E5RGFwRjhWMzBvTF9Gd2pmTFpuMEoxUU9NZzZhdm00c2swaDZXa2JfU3hOaElRX3poNkZaMHB0ZzNjdW1IUGtYN2NaOWpuUUlGVG9zZ0RWZmZEV1VqUzJZaHhQazIxOTJnaVAzMkhLLUxtMXRNMG5NMlk0ZnN2b0lnQmxiNUxhVEVzdl8zU2JYeHpPS2dqN0FhMmVaTFdYdDJNMDFXV1UwaEgzNGNvLVNzRkJzWWpHX3l6R3BuM3BrbXVMaEFkdnpTN0FTd1VrMF9IbzVST3BKTWfSAYcCQVVfeXFMTWxVc2dqM2xkOUxkTGhpZG5FcWQ4ZHZTd3pfS09CQS11Q3c1WEtJcWIzSFZoaVBkWGwyZkhwT1UyS0htZG5wUXBmQmtERmpVc3M2NUJOQnZrZ3RpM3JXdmdYeWdhbEtVYVMwUnhjeDZhaU4zWkN3LWRHUjVZcWFCOWtqclZQdzExaVFvNWZzNmUzNWllX1N0ZWtfWWhsM1g4QUFfd0tuS1o4eW41MmZWN3c0WTNWampxdURoZnVvbHFMcV9YcUloa1VWbkttTFowblMwdWZ6WnlXRWtxd2VYaGxWV0lQVEZVOFFXWURFMnd0UTVEbktwejkwdTE0enBUN1Y4Z3g0Qk0?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Chhattisgarh HC upholds validity of banners against pastors - Hindustan Times
+  Chhattisgarh HC uphold
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3BDVDIzTE1Pd1pNS2cydmNHMVJ5UXZiaEd6R2g5SjhrcXRucGIwcEhZSWhYVjRfekVNTXpxRHYyMjJuLTdPMHhIRkVNNlpBYWN0RnBWOHlfd2lrYXE1SFY4Q2hzcnBFRU1xRUctaXN4Q21aY3hPMEczZXI2aV9ZTENKX3V1VDZRdTFCblhiRV9NTnR0c1ZabnBjN0dBREFpOEZiMDk3Y2hkOTBrSjNVb3RFVkZEM3BYME1JMTFHRQ?oc=5
 
 
-_Last updated: 2025-11-01 18:24:11 UTC_
+_Last updated: 2025-11-02 01:18:01 UTC_
