@@ -1,44 +1,16 @@
 # 📰 Daily News Summaries
 
-- 15 die as tempo traveller rams stationary truck in Rajasthan’s Phalodi
-  
-  🔗 https://indianexpress.com/article/india/15-die-as-tempo-traveller-rams-stationary-truck-in-rajasthans-phalodi-10342298/
+- Ratan Tata's sisters speak up: “Future of the Tata Trusts troubled him the most”
+  Sisters Shireen, 73, and Deanna, 72, discuss their relationship with Ratan Tata and their concerns about
+  🔗 https://www.livemint.com/companies/people/ratan-tatas-sisters-speak-up-future-of-the-tata-trusts-troubled-him-the-most-shireen-deanna-jejeebhoy-11762078437692.html
 
-- ISRO launches heaviest comm satellite from India: Five things to know about LVM3-M5
-  
-  🔗 https://indianexpress.com/article/india/isro-bahubali-rocket-heaviest-satellite-orbit-lvm3-m5-10342210/
+- Mehli makes his move, files caveat on his ouster
+  Caveat gives Mistry a chance to be heard before the Charity
+  🔗 https://www.livemint.com/companies/mehli-mistry-files-caveat-against-ouster-from-tata-trusts-11762092952413.html
 
-- Life Certificate for Pensioners 2025: Know how to submit online, check status, last date | Step-by-step guide
-  
-  🔗 https://indianexpress.com/article/india/life-certificate-for-pensioners-2025-know-how-to-submit-online-check-status-last-date-step-by-step-guide-10342092/
-
-- Rahul jumps into muddy pond, interacts with fishermen in poll-bound Bihar
-  
-  🔗 https://indianexpress.com/article/india/rahul-jumps-into-muddy-pond-interacts-with-fishermen-in-poll-bound-bihar-10342041/
-
-- 5 stories you must read today, November 2: From Army chief’s ‘Trump’ remark to ISRO satellite launch and more
-  
-  🔗 https://indianexpress.com/article/india/5-stories-you-must-read-today-november-2-isro-trump-army-chief-pakistan-uk-mokama-10342019/
-
-- Fifty per cent off: Compact Leica camera delight now at a mid-segment price
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/fifty-per-cent-off-xiaomi-14-civi-compact-leica-camera-10341803/
-
-- I know more about my troubled sleep thanks to the new Apple Watch Series 11
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/apple-watch-series-11-review-sleep-score-battery-life-10341721/
-
-- Meta denies using porn to train AI models, says downloads were for ‘personal use’
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-denies-using-porn-ai-training-copyright-lawsuit-10341615/
-
-- Amid mass layoffs, Satya Nadella says Microsoft will grow headcount again with more ‘AI leverage’
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/mass-layoffs-satya-nadella-microsoft-headcount-ai-leverage-10341379/
-
-- AI turned Google Cloud from also-ran into Alphabet’s growth driver
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-turned-google-cloud-from-also-ran-into-alphabets-growth-driver-10341255/
+- TCS says $6.5 bn data-centre bet will lag IT business on profitability
+  CS management hopes this particular investment will not be a significant drag on TCS’s return
+  🔗 https://www.livemint.com/companies/tcss-data-centre-business-to-fetch-lower-returns-as-compared-with-it-arm-11762083654132.html
 
 - Zepto removes handling, surge fees on all orders — How does it compare with Instamart and Blinkit?
   Zepo is the only mainstream quick commerce platform as on date to levy zero handling and platform fees. Swiggy Instamart and Blinkit charge  ⁹9.8 and  �
@@ -48,37 +20,25 @@
   Out-of-home consumption
   🔗 https://www.livemint.com/companies/news/dineout-swiggy-profit-revenue-eternal-zomato-out-of-home-consumption-food-tech-gross-order-value-net-order-value-11762070138055.html
 
-- Do you want to live longer? Startups are selling biohacks—for a premium.
-  Zomato's Deepinder Goyal has committed $25 million to longevity research. Entrepreneurs and investors are tapping into
-  🔗 https://www.livemint.com/companies/longer-life-startups-biohacks-health-nutitionists-wellness-therapies-investors-ageing-genomic-testing-supplements-11761720541398.html
+- South Korea's Kospi rises 1%, Australia's S&amp;P trades flat ahead of PMI data from China
+  Futures for Hong Kong’s Hang Seng Index were at 25,975, slightly below the previous close of 25,906
+  🔗 https://www.livemint.com/market/stock-market-news/south-koreas-kospi-rises-1-australias-s-p-trades-flat-ahead-of-pmi-data-from-china-11762130412599.html
 
-- Mint Explainer: Is Shadowfax’s client concentration the canary in the logistics coal mine?
-  Nearly half of Shadowfax's  ₹2,485-crore operating revenue in FY25 came from a single large client. It isn't
-  🔗 https://www.livemint.com/companies/news/shadowfax-ipo-shadowfax-technologies-shadowfax-concentration-risk-11762066562663.html
+- Stock market today: Trade setup for Nifty 50, Lenskart IPO, US-China trade talks to gold prices - 8 stocks to buy
+  The Indian stock market experienced strong growth in October, with Nifty 50 and BSE Sensex up 4.5% and 4.6%. However, recent declines were observed, primarily
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-lenskart-ipo-us-china-trade-talks-to-gold-prices-8-stocks-to-buy-11762092796557.html
 
-- Induslnd Bank promoter and Invesco launch joint venture for asset management business
-  Invesco Asset Management Company India is the 16th-largest asset manager in the country. IIHL
-  🔗 https://www.livemint.com/companies/news/iihl-invesco-joint-venture-indusind-bank-amc-acquisition-11762075319260.html
+- Sebi’s curbs take hold as India’s options boom wanes, small investors retreat amid heavy losses
+  Regulatory measures to rein in retail investor frenzy for options trading begins bearing fruit. Impact might guide Sebi's hand on weekly option expiries,
+  🔗 https://www.livemint.com/market/small-investor-count-plumbs-sebi-f-o-reform-impact-takes-root-jane-street-11762074015564.html
 
-- Wall Street week ahead: Market’s focus on Q3 earnings amid longest US government shutdown
-  Market participants will also be monitoring several important economic data releases, including the job openings figures, manufacturing and services PMIs.
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-market-s-focus-on-q3-earnings-amid-longest-us-government-shutdown-11762103611986.html
+- Maruti bets on small-car boom after GST 2.0. But will it sustain?
+  From 22 September to 31 October, Maruti’s bookings reached 500,000 units versus 350
+  🔗 https://www.livemint.com/market/mark-to-market/maruti-suzuki-small-car-sales-surge-gst-tax-cuts-11762077566644.html
 
-- Millions will be wiped out - Rich Dad Poor Dad author Robert Kiyosaki warns of market crash, shares safe bets
-  Kiyosaki warns of an approaching stock market crash. He suggests investors turn to hard assets like gold, silver, and cryptocurrencies for protection.
-  🔗 https://www.livemint.com/market/millions-will-be-wiped-out-rich-dad-poor-dad-author-robert-kiyosaki-warns-of-market-crash-shares-safe-bets-11762068095675.html
-
-- M-cap of four of India's most-valued firms gains  ₹95,447 crore; Reliance Industries biggest gainer
-  Mcap of four of top 10 valued firms jumps
-  🔗 https://www.livemint.com/market/stock-market-news/mcap-of-four-of-indias-most-valued-firms-gains-95-447-crore-reliance-industries-biggest-gainer-11762066406023.html
-
-- Upcoming IPOs: Groww IPO, Pine Labs IPO among public issues to open next week; check full list here
-  The primary market will witness the opening of five new IPOs - two in the mainboard and three in the SME segment. The IPOs will gauge investor sentiment toward India’s
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-groww-ipo-pine-labs-ipo-among-public-issues-to-open-next-week-check-full-list-here-11762063962702.html
-
-- Q2 results 2025: Bharti Airtel, SBI, LIC, Paytm, Adani Ent, M&amp;M among companies to declare earnings next week
-  Bharti Airtel, State Bank of India, Life Insurance Corporation of India among marquee companies to declare their Q2
-  🔗 https://www.livemint.com/market/stock-market-news/q2-results-2025-bharti-airtel-sbi-lic-paytm-adani-ent-m-m-among-companies-to-declare-earnings-next-week-11762061558175.html
+- Stock recommendations for 3 November from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 3 November. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-3-november-marketsmith-india-trade-set-up-nifty-sensex-outlook-11761913603582.html
 
 - Lava Agni 4 to launch in India on 20 November: here's what to expect
   Lava will launch the Agni 4 on 20 November. It could feature a 6.67-inch OLED display and
@@ -100,125 +60,65 @@
   The OxygenOS 16 update is now available for the OnePlus 13 and 13s. Other devices will receive the update in phases until March 2026.
   🔗 https://www.livemint.com/technology/tech-news/oneplus-13-oneplus-13s-start-receiving-oxygenos-16-update-in-india-how-to-download-new-features-and-more-11762076741634.html
 
-- After August gasp, market draws its deepest breath in four months - Business Standard
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQN05aOGliazJjd3hFc1lBNVB5bDVaOTlxUHIyV25ZR0NybTZyMXVmV0FoZzJfazJqcU9reGFjRnp6N3hhdHYzaTZabnZXN0hmRnZMWllyQllGeG4wNGZPV29WdVhMR29yX0
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQN05aOGliazJjd3hFc1lBNVB5bDVaOTlxUHIyV25ZR0NybTZyMXVmV0FoZzJfazJqcU9reGFjRnp6N3hhdHYzaTZabnZXN0hmRnZMWllyQllGeG4wNGZPV29WdVhMR29yX0dQbE5pZmZ3aWdCUlBJSjRiRlRsbXA3eFYwTXJiNENCdmZiMW1zNEJIYVVyYTFtYXV5eWx6UjZPUVE3OFMtYTUxbkhpMVZ0czU4SFI5Vm1FTjY3RGFhdFNpU29VWjlZWUxvTdIB0AFBVV95cUxPdHZBcTdwQlFVQkdUYnJUOUJWcVI1bW4tM2RQUUVWNFFsS014TnBDY3FXWGZYZEZaTzVZTW1zeFdjbDFKVG1lQjVxRXY3LVVyUnZoNUxsdzVPaTBqWi1vRGZKRVRzQ1hRSzFGQUxuWko1V3JkdTJMUHI1dVVJbll6ckFQUzNDYjRnUmlSelFvZC00VFFydWY3cktCcE5xbC1DeFc3WmtGTC16TGZRT2NxNV9JTE53bW1obDVZWGFJS24yc0lTdFNwMHFsbHpscnQy?oc=5
+- Q2 results FY26 to trade deals: Top five triggers for Indian stock market this week - livemint.com
+  " target="_blank">Q2 results FY26 to trade
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWjEzdkg5TFVxemdSSk1WRktKeDBEOFo3WHQtc3BCejNMUGNiNHA2bGJVa25iT0F0N3JYeTNmcmFHa2dKM1ZkTzUxVlZaM2VESjNwR2FSNFp5VVVFVW1GUmFXbnNlQ2pnalgwYnlvWEdfUkFUY2xjVHA1RG1KbUJmUno5dDRvM1g1NHM3Rno5ZS1tSlZPeGZJNEU2ZEh4WXV6dHJmN2hLM01vZkZjeUJuVkphZ05lZkdHVFRTa1huak1UTTVWYTc2cy04UEQ4NEQ1NFB4REVJU1lYUUpCWWo5d3hXcE0yQ0XSAewBQVVfeXFMUFFZWGRlSkhlYkZGTWw3SzI5SUdwZHRFLTY5SF94Q3daaFVYU0w5XzlIRHBjMWlsZ21CUkg0TU1yaFAtc2pRRC1UZFBMd1BnbUNLQ1FCN1NDWDY1N2ZUU25aUU5CNEtaZEdONjhYLVg4QlZZNWpDU2ctdzJqQXIxWVZOWlRSZjNlQUxRYWs2bFgyRVNoTkZQRTRWYnp1OGU3ZEpzU25SZTg0NldfdVVWSG55RVJLYWNTM1c3MVdBajM3TFo0QzdfR1dVSHJfM25KTTI4aC1KTHVvbTZhZmVwNTFDR012c3lVYlJLMGY?oc=5
 
-- ‘Magnificent Seven’ Drive Stocks to Historic Rally: Markets Wrap - Bloomberg.com
-  ‘Magnificent Seven’
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOVHNVaU9vT2hVZXZ5Vk96UDdxV1J6bXZ6aS1ZRmZUcGVCbzRfN0xadXA4d3NnWkl1amtIZFVqQ1Q4WHBGN3lwUWdnaTFyOWROSjBHU25taUtYZmpYbk1aRjVBNF81OVRaQWxCS2g3WHVQQ3Q3eUJ3RFVPVFZSZ0RLMHFEZ0FiRFpxRzJ1bzNUWXBNQnlL?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times
+  Ahead of Market: 10 things that will decide stock market action
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdXJpeUhUaHkyd0RNVVhpUXh2MnhDM0Ftc2ZoSG1RQm5mQnMtUFVqN3dKNDdxMVRfLTNVQmE5a3kxZmhKa2V1R0VGcmdRSnp2RV9uR2pOTGNSNFFrQ0FIR1VacFl1MWpQSHdZT0pmTHI0WXVoLXpOejlzWUNTcWRlbms1TFgyTnhqWmhudjRmTUtsSkhEc2VoOWd4WXVLWUVmLVNhTlRIc3RJaWZsNVJ5WUZUemNzMFVES0tGM0hKNWlxNGotXy04bU9IZ083WmljbTFXT0ZhZG1OYkJqSUNZ0gHkAUFVX3lxTE9ZdnhCbU5zREFhSnp0VnpRY0tXeFRtSTNKdy1oQ0NNckh4YXZUZGVTMGR2elNmZmlGVE1sRXMybUlhVEdkaUthSEViX014cloyRjlVUmQ5QlYxYWM3TGVBUTNSajFfUlNlMGtBVnpWZzZDWTNhVzhZVjNnV19sV3psREgyeGpEcnFONmFibFYwemdHcUJFMFJUckotS3dYcTZtVzR2QjJWdzd5eWx6b01PdlpxWndmSlJQVTZUSDNTSDM0cWUyeUNValp0QjRuTnRiRmJheXlXdjBnaENCaTlMU19ZOA?oc=5
 
-- Wall Street week ahead: Market’s focus on Q3 earnings amid longest US government shutdown - livemint.com
-  Wall Street week ahead: Market’s focus on Q
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNc0VkX0Vtd19wWGtVS001b1hOdmUyQ29EcU0tTS1rVzg1MTVKU0hoOGVxSHFleTJKaERHN0Jid2VfeHJwaWtNWWVzT1U1MFpHcjlXaVZ1V1k1c0ZaNjZjMndFcXY5N09uZDExOUlUYXhvbUdZNFlWTVljWVp5V2xiRGRFNXpfdXIxWVI0Q0M4bld0dWdpZENtT2FkX3ZLLWV2VUFQYnBwNTdzR2x5bUY2TmFlOVE1MGlaU21fczg4NkxmZG9qQkUzZDNEU0tjYzdoaG8yR1dLdElhcktDNGtHUHdRbzJrT0dHTjJva3NOQdIB9AFBVV95cUxPbDZLYjBhWUNhWG5DR3ZoS2dqWGVFZHFWeHJhejR3UDVyODV3aGRSeU5pUjgtRDVaVVRsNzl2bU9FelZ0NGFndGJ1RWZzQ1hYUWZ6ZVRGWk94SzhVTmU4eU5Ta2xWYmZLNnZNcExRaU5aV1RNZmJLekM4TEQxRHhqNmlNM1V6WDFBQ19aSUllMVNYTTM2WVlUb2ltdDVJVDgxTEJFaDRveXkybVQzVElsTUdqWmhDbE55UGNram04UFZHOWFGdU5ydU9FSW9ZX0tUSXZ4VGhZQ25kUmUybURBV3A5aDczWkFoZ1NlbnlYQ3BrWU5f?oc=5
+- Nifty In Technical Charts: Still A Buy-The-Dip Market - NDTV Profit
+  Nifty In Technical Charts:
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmhHTXZrbmlRRXdsRWZURHJCMjdtbUp5SXdsdWtmZExrWWFXYlh6eU9aWlZyenNKYmxJN1ZiVzJZT2RzX3hPc2JQemdWUWJPV08yTVZlanRvVEVpWExOYlZOc0hvMXJNa2trV0RaVUlpdVZmcW9vNE1zWGJfQzRSZldvNVdDcjhfVzVadzk1LWVZYVVqYjlVdENnLUUtSFJXTHd3UmNHYnRWTEZl0gGyAUFVX3lxTE0tcjB2cmNaa0FQQ0dNbmZldHcta2FJMGpjOGRCaENfQkMtR1ExV0pwaGFMaU1UQXVmNGk2RWF0dVZEbGg2R3poTUd5cTVKM1Y2dnJXMXlXWjZuTUVsMkJ3WjlBSU4xTDN5d2FEckJ0b3JCU3JqVFJwbWNCbmJfSHNjR3BfVjVFdmpzSlN3d2dweUtpSmdLZFh3SjJpWVAyOS13NkpxVG1iZHI0MlItblF5bVE?oc=5
 
-- FPIs bought bonds worth ₹13,397 cr via FAR in Oct, highest in FY26 so far - Business Standard
-  FPIs bought bonds worth ₹13,397 cr via FAR
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZFZ5MU0xc1lFdmZmeVo1YS1aZFVrRHhyWDhwSzJ1aXJ6bXZiQlU1TjB5UmdvRjhmRjd3dHJoMWE5TmVtV0dMNDNQUDZhVW5BYWg2M2Q0a1J1c2t1VXVka2F0Vkd6ZHM0V3pFYnlka0hRbTcyZ3hFNGNpazZRdkZsN2x1c2R3dmNHR1RiZHhRT1pUS0tnUTF2c2pfaGdOSHZxZTJkTEl2VW55WUFtenVfeGMtYXNQY1RjU29zZ0JGTjl5eVVBUkNnZEdXaUh2bk9lMVo1TdIB2gFBVV95cUxNWmVEZDJpXzRjVHA1VFUtZHZWUGFCNGhKT21HWGZ0eXg3NzhYS2RZUG9pTkN4b0lGWFpzLWRsN3JMOW9MYXgxanZyYWJ5dXAzZzB4X1kxRGtDQ2drS2NIRV95emVfdndLVTI0d1FtREVscXFOQWp4YkZlaUdSd2pzVDlkXzFyckQ5MkM2RldoZGlwV1N5cG9xQXpTZVNUUHBDd29ja2pZZm5zVGxXWldwczFhM19CZlZ6Wm1ySkkyV1BWLU0zWlBGZFhTc0R6TWptV1lVRE9mMUxzdw?oc=5
+- Asia-Pacific markets trade mixed ahead of PMI data from China - CNBC
+  Asia-Pacific markets trade mixed ahead of
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnJsMUdlb2ppMkxJQWhjeEJRNE5IbUdRSVZKQVJiRVZVX3Y3bUw1ejY3VFJOX1FfdmVMS3V3UzM4VDJncXg4TlNoNjNaakNwZmJ6elk0Vk80ZV9OWFZtTktleVUya1hHM3huXzZjal9UMFpJTGs4eENIakl1VEVxWHRkQVp0U2M0ZWtZb0hmX2sxOHV6Ynp1NnctVUJWRmPSAaQBQVVfeXFMT2ZwclJsUkQ2eFNaWnhXYnhjMW81azU3UzNlenktNnM3cXpaeXhKQWtZRkFQeGZqZEFRYUdiWUMyeEFzUkxZRHYxYXc2ZHplY2xxUGY0T3g3ekQxRjdSZ2ZWd3p3cEVoQVR1aGxOYklfUTZnMFdmcFJTbEJkaUx2MjNuTUcxTlhtZUhQY2EzUG9XTFA3UlhmaFVqcVFmWW8ydm9IWVM?oc=5
 
-- Storytelling is the biggest bullshit in stock markets, says Sanjoy Bhattacharya - Moneycontrol
-  Storytelling is the biggest bullshit in stock markets
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQlhnVXFhXzhWUUpSZVhFdWY5aTR2TVhRd09iQVp0Q2hxUDhOMEpnN2pjLWZaRk1WZjQ0SF92M2VodGViRTUzRERqMy1sbWQxQlkwZUEwUWZnUGk5WDN4LWZ3ZTBKaU1ZV3F5QWxyTEVUdFR6cEVra2xKamYzNGVMNmljbnJnZjhLN0NiYk9PUndwbFdxY29zMnJnODBZaVdxNWVUSFBnc2hqNzUtUXdkYXRlR244VU5NNnFYeVNoa0hrQjFTbllKSVBuYkdkSkFSWTF6alc1dnVFME0?oc=5
+- Markets with Bertie: Two Diwali parties and the contrasting faith in overseas returns - livemint.com
+  Bertie is a well-known Indian businessman.
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPNHFuMzNKVDUtOEpyUWR5NGNNWmd3cVdHWEdqS3VUTzBYSFVxbk5mWmdjNjRyeHlWcUdLcHcxV0lmX0RXU3dUMDVDM1RjWEo5RDhFWE01YUFTSk5hTkFWVngySzAtMkpCYXN0YmV2OWF6YldkSXd1V1BHbFd5dGMyUFhWaUxBbGl1WjB0RGJMUFB6dTB5QzhJeWduRGtUY3RMXzZwTW9VejhjTi1BS2fSAbMBQVVfeXFMTmRVQWhZUWl6MFhhX2RQZjdYekl2c3k1YS1vbF9MZzJJNmp1b1gtS25UdmE2dng3R3I0dmZ4SzlwSTZqbkFpWUN4SDFlNldaTk00U09lQ3BQWEZSdjMwYXJiVzNxcU8xSnVwME9tUlVxZVZucTBtVU5oZ3doWnZnUnN6NkpnVUlQNWtlaFdrX3B0UDdfU1pWdktqY29TeU1oMlhoSGowR0xrYWxvajA3ZUtWY0E?oc=5
 
-- IIHL and Invesco complete JV formation to grab a piece of fast-growing asset management market in India
-  IndusInd International Holdings and Invesco have finalised their joint venture in India’s mutual fund space. IIHL takes a 60% stake and Invevco retains 40%. The partnership combines Inves
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/iihl-and-invesco-complete-jv-formation-to-grab-a-piece-of-fast-growing-asset-management-market-in-india/articleshow/125032956.cms
+- Which stocks could outperform amid improving market sentiment?
+  Key stocks like Aditya Birla Capital, Aurobindo Pharma, BSE, BPCL, Bharat Electronics, and UPL are showing significant upward momentum. Analysts are highlighting fresh breakouts and increased investor interest
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/which-stocks-could-outperform-amid-improving-market-sentiment/articleshow/125044268.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  Indian stock markets closed lower on Friday. Sensex and Nifty experienced a second day of declines. Investors booked profits amid mixed corporate results.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/125032600.cms
+- Can Sebi’s new panel revive retail participation in online bond trading?
+  India's market regulator is launching a new initiative to boost online bond trading. A newly formed advisory group will address operational challenges and review regulations.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/can-sebis-new-panel-revive-retail-participation-in-online-bond-trading/articleshow/125044238.cms
 
-- In the race toward AI, copper is the strategic edge the world overlooks
-  The real opportunity may lie in copper, the unseen backbone of the digital and green revolutions. With rising demand from data centres, EVs, and renewables, and constrained global supply, copper stands as a critical, undervalued en
-  🔗 https://economictimes.indiatimes.com/markets/commodities/in-the-race-toward-ai-copper-is-the-strategic-edge-the-world-overlooks/articleshow/125031962.cms
+- FPIs pour Rs 10,708 crore into domestic primary market in October
+  Foreign portfolio investors significantly boosted their primary market investments in October. This marks the fourth consecutive month of greater primary than secondary market investment. Overall FPI inflows turned positive in October, reaching $1.7 billion.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/fpis-pour-rs-10708-crore-into-domestic-primary-market-in-october/articleshow/125044221.cms
 
-- Vedanta well-positioned to gain from commodity cycle, deleveraging efforts: Analysts
-  Vedanta's second-quarter results met street expectations on robust operational performance. Analysts viewing the miner as well
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vedanta-well-positioned-to-gain-from-commodity-cycle-deleveraging-efforts-analysts/articleshow/125031055.cms
+- Nifty may take a breather after rally, but bullish bias intact
+  Nifty's strong rally is showing signs of slowing near record highs. Traders are becoming cautious as the index consolidates. A move above 26,100-26,300 could lead to new all-time highs.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-may-take-a-breather-after-rally-but-bullish-bias-intact/articleshow/125044154.cms
 
-- Oyo parent PRISM extends deadline for bonus issue for equity shareholders
-  PRISM, the parent company of Oyo, has extended the deadline for its bonus issue. This move allows equity shareholders more time to select their preferred bonus option.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/oyo-parent-prism-extends-deadline-for-bonus-issue-for-equity-shareholders/articleshow/125030991.cms
-
-- "India Needs To Grow Thicker Skin": Shashi Tharoor After Scholar Deported - NDTV
-  "India Needs To Grow Thicker Skin":
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjQxSHpMcTZ6M2NvdkRQNTk2cXR4REQyd2pYMW1BdHF1ZDRNWVJJaDBRT2NDN01GdGNrMTZXSVRPTGU0MnYtTGc3dzNpNktBVE56QnR6QzdOMkpjeGwxTjVMVUFwSFk2RFhySU9yREZxV2VTTklTM2swcTF4RzFfV0hmOG44V255Q3dvZGNrbTlUa3NkTW5Fdjg1YklleGRmMFVmZXRtQjl0VlZvTDctWmMyanpIcHdfdW1zdUVwTnl1VGFqUjVyOTRVVDdsam1SdDBpZEFoVdIB3wFBVV95cUxNZDV5QXV5ZHZpbUlsU2hkMy0tTnVlQnZxMkJlLUpKZElQZVZmN2hMQ1JYMXZITUlQQ3RXT2dyMnFtS1kyMVhXN1VncTBPSExSY09DSXo4Y1NJVll3N05BckJ4TVNYUExUbi1LT0VJbkZUdlVJRnBNSXlyalFaX1FjUlMtRWJPNElydHRlem5qRjlwSzhYajU4YlNDV2V4ZVBza0xJaTNqcFdtR3l4RWlmNk1NNVZvTlV0c3pfcE0zY0ViX1U1endkekV6eFB4UUxwejl0UWs1QURyRC1wNm1J?oc=5
-
-- ‘India wants to keep Pakistan busy on…’: Defence Minister Khawaja Asif's fresh claim | Latest News India - Hindustan Times
-  ‘India wants to keep Pakistan busy on…’: Defence Minister Kh
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTJ4MHptcGF0SzZlU1VDcENCR0JmWW96c0owWTRwV3ZoMHExZnJWYnFqaHZCc29ySDZVWWxWZ0V6VmVZUGw2cWhRTnQ3Mmlfd0ZKNlhPMm9oVnIycEx5bF9xUVk0Q2RwMmNSNWc3M2FSWTRhUHhrS2x6ZVpnM2lUZ20xOGtWSFJWVDFuc0V6Vm5lU0YwRGQwT2RiVVdGal9lbnpQeUExUW1WSVJaem1EckJvVWZjdnB2d1JzZTJVNGpRaElNcXMtYXgyN1VmN2p5ZXE0TVFqSlVYQdIB3wFBVV95cUxNb2NBMmZteExGRld2OVJuZFpQR1lxQlhaU2tNc2dDQTIzN1ZYX0xuT2lndWdJNzU1NGxZWl9XdXRWUmZfZ2Vya05xQjQtTHB1SUhWMkJfby1pVHViX0VIZXJPejc3RXdEYlpXMjRFY0JpZ3hqNV92UDN5ZVhHa0tfekdEazJGZVhoVFQ0aU1yYzFNZEpUM3llN1k5alNiS0pPa1dTUGVpTDY3Zkp4ZTJlMHNTQm5yX3JoLVBVS1U4VENIUnNYRjJXYzVnWXBuMmxrSk5Lc1ZIdjZYNko0dFRv?oc=5
-
-- Cases Filed Against My Family Members To 'Coerce' Me: Ex-CJI NV Ramana - NDTV
-  Cases Filed Against My Family Members To '
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajdudWNBSUhCa25IY1IzaGpSekhRXzROeVo4b2ZKMVhIZ01IV2FTVmpCRTJ5czZtSWFQRlh4ZzRnRy1GZXJuWnk5VHdNaTNDY0JZUmRlWlRjd29HUDZGY3RTWGlFWU5Qc1RnVXhyZ3lGSEZzdHZYeHA5NmhTMGcycUpiLXdOcGV6RXFnbjNKUzN2UnpTNmw5bVZ0d2xVZzdKd1Vqc2I4eG5pdGfSAbMBQVVfeXFMT2laZ3FCUXBSYmN5LWdMdm5tMVdsN05oaEVFdkw0VE9OV3RnSUdzVFlacGs2RU1VWm51NXFSdFlDVHplY05hVGhMTjBPdlVUZC1KMWYzRHQ1U0NKWGdMeXI1bHVsR182MzhIbkd0b1ZzSUtkWEdlbGoxWXlSYzB5V1dpY3QyYXN5c2Z2aTk1a0wxZldJeVFyWWFKM3drUkhYS2dBWTlqc2dUSzhFM1U3TVRpWk0?oc=5
-
-- Henley Passport Index: Why Indian passport is falling in global ranking - BBC
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZjZDM2JPbzQ1TlFVRXJpZTRxR3hkSzBtZldKMWpaNVdGOHF4ZGdTX3RjUl80S0xlaTgtLUNsR3JTSTViV3lTZlBWMW50SWVZUk9Ycml2Y2ZQUdIBX0FVX3lxTE1FcXY1bXJFS1dPekhQUVJ5VTlhcnBoUHNmVXZ3RGp3NEVtRHJvWXhybDdpaURCaTk1a2tGdllPckx5WU94WDBiQzRsSVFsbk5fUFJjOTJjbUoweGQ5ZEhv?oc=5
-
-- ISRO Set To Launch India's Heaviest Satellite CMS-03 From Sriharikota - NDTV
-  ISRO Set To Launch India's He
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFhfTGpkQk5qQnFxYzNrN0VNQUs1WmJveFJBTXZfZGZQcXNnRU1zNXBycHlra3hlQnhNYzctb3B0MTZMXy1ZaS1vSWgtdFdWNU9kNFo5OXdrbnlpOU81V3VYdVA1UmtISGhEcnNNcWRrUlhwRzJPbTA0QWhrT3BDb0FyNGdZTUhaX2owalFVak5sdDQxQ1pTdC1nN19OMGdCcEg4aUdhcnFvS2xO0gG0AUFVX3lxTFA4dVBLVnMySGRZbDE1SHA1SmpYSERWMW9HaGJtMTBCeUszel9wcHBOUGNTQkpROXFpMTI4SU9JX3Rqa18zdjd1UU80OHEzaS1QUTNzUFQ5Y2dwejM4ZzRPRHU2ekRKaVVkMElralFjeFFTUko3YjRDczE3UE9VWUwzY24zX1dzS0Q4T1ZLay0wMEh5Q1RMdmNPUktsMDZHM2padjdvY0EtM0hkdmtfdUp3SGJxWA?oc=5
+- Indian Hotels, EIH, ITC join race for JW Marriott Bengaluru
+  As many as 40 companies, mostly from the hospitality and real estate sectors, have submitted expressions of interest. The five-star hotel, owned by the Advantage Raheja Group, has 281 rooms and is located in
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-hotels-eih-itc-join-race-for-jw-marriott-bengaluru/articleshow/125044195.cms
 
 - "India Needs To Grow Thicker Skin": Shashi Tharoor After Scholar Deported - NDTV
   "India Needs To Grow Thicker Skin":
   🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjQxSHpMcTZ6M2NvdkRQNTk2cXR4REQyd2pYMW1BdHF1ZDRNWVJJaDBRT2NDN01GdGNrMTZXSVRPTGU0MnYtTGc3dzNpNktBVE56QnR6QzdOMkpjeGwxTjVMVUFwSFk2RFhySU9yREZxV2VTTklTM2swcTF4RzFfV0hmOG44V255Q3dvZGNrbTlUa3NkTW5Fdjg1YklleGRmMFVmZXRtQjl0VlZvTDctWmMyanpIcHdfdW1zdUVwTnl1VGFqUjVyOTRVVDdsam1SdDBpZEFoVdIB3wFBVV95cUxNZDV5QXV5ZHZpbUlsU2hkMy0tTnVlQnZxMkJlLUpKZElQZVZmN2hMQ1JYMXZITUlQQ3RXT2dyMnFtS1kyMVhXN1VncTBPSExSY09DSXo4Y1NJVll3N05BckJ4TVNYUExUbi1LT0VJbkZUdlVJRnBNSXlyalFaX1FjUlMtRWJPNElydHRlem5qRjlwSzhYajU4YlNDV2V4ZVBza0xJaTNqcFdtR3l4RWlmNk1NNVZvTlV0c3pfcE0zY0ViX1U1endkekV6eFB4UUxwejl0UWs1QURyRC1wNm1J?oc=5
 
-- ‘India wants to keep Pakistan busy on…’: Defence Minister Khawaja Asif's fresh claim | Latest News India - Hindustan Times
-  ‘India wants to keep Pakistan busy on…’: Defence Minister Kh
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTJ4MHptcGF0SzZlU1VDcENCR0JmWW96c0owWTRwV3ZoMHExZnJWYnFqaHZCc29ySDZVWWxWZ0V6VmVZUGw2cWhRTnQ3Mmlfd0ZKNlhPMm9oVnIycEx5bF9xUVk0Q2RwMmNSNWc3M2FSWTRhUHhrS2x6ZVpnM2lUZ20xOGtWSFJWVDFuc0V6Vm5lU0YwRGQwT2RiVVdGal9lbnpQeUExUW1WSVJaem1EckJvVWZjdnB2d1JzZTJVNGpRaElNcXMtYXgyN1VmN2p5ZXE0TVFqSlVYQdIB3wFBVV95cUxNb2NBMmZteExGRld2OVJuZFpQR1lxQlhaU2tNc2dDQTIzN1ZYX0xuT2lndWdJNzU1NGxZWl9XdXRWUmZfZ2Vya05xQjQtTHB1SUhWMkJfby1pVHViX0VIZXJPejc3RXdEYlpXMjRFY0JpZ3hqNV92UDN5ZVhHa0tfekdEazJGZVhoVFQ0aU1yYzFNZEpUM3llN1k5alNiS0pPa1dTUGVpTDY3Zkp4ZTJlMHNTQm5yX3JoLVBVS1U4VENIUnNYRjJXYzVnWXBuMmxrSk5Lc1ZIdjZYNko0dFRv?oc=5
+- Trump tariffs trigger 37.5% drop in Indian exports, alarm bells ring across key sectors - The Economic Times
+  The Economic Times reported that India's exports to the U.S.
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcmdYUF9LWnhJSGZGdVR0U0g1a1RQa1pRQUxyZW9wdXgzbVdEVHZnbm83UWx0dXF2WERiQllBNjJNNlF3ZC1SUXZuenV4cnlfUDVHRHI5UGxtakpUV0stMExjZ084VE45VHk1c2hPRWJ3Tk95SVRjR25iV1l4Y2xWa0c1ckU3SEh4RXZ4d1MwbjFjcUNta21vbFk5bWhaOFUzYUIxVHhHOFhyekdjdWFZRFBQclEtaXc5WU94MHhES2tQSXZFRklYckJxOHptd3Z3anB5MTFMLWt5OVo2Rk50TTIyRlNsZUhFMklxUU9nTk1TWF9IbVHSAfsBQVVfeXFMTWZvS3ozUDNpY3Q4bjVfbmVGOG1LTDdfelc4X0R6RE92U2ExS09mVDE5UEVWWnd2d3dkb2Y0SHZEV1V4VGlldUR2QkR1Sm9FVHNOeUROUVIydUQ0QW9pSlliNzNoREs0d29Xd3otaHFZSzRxdU1vQm9Cc3ZSaHNtYmkyWDJBcHh2andUMjBrVFlOTWZ0eEtlMWtqaVA4cFVoZ3ZLYk5IcnBleFZiQlVDNGN4cGpxa2VTVU5jbDQ3NXYyRXNaVU4xcWFkdGY3NldXMVFTQ0hpclY0THVOOFYzamxJVlZ2V250UGR2Nng2LUFGMTVZS1RsNmw1Zkk?oc=5
 
-- Cases Filed Against My Family Members To 'Coerce' Me: Ex-CJI NV Ramana - NDTV
-  Cases Filed Against My Family Members To '
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajdudWNBSUhCa25IY1IzaGpSekhRXzROeVo4b2ZKMVhIZ01IV2FTVmpCRTJ5czZtSWFQRlh4ZzRnRy1GZXJuWnk5VHdNaTNDY0JZUmRlWlRjd29HUDZGY3RTWGlFWU5Qc1RnVXhyZ3lGSEZzdHZYeHA5NmhTMGcycUpiLXdOcGV6RXFnbjNKUzN2UnpTNmw5bVZ0d2xVZzdKd1Vqc2I4eG5pdGfSAbMBQVVfeXFMT2laZ3FCUXBSYmN5LWdMdm5tMVdsN05oaEVFdkw0VE9OV3RnSUdzVFlacGs2RU1VWm51NXFSdFlDVHplY05hVGhMTjBPdlVUZC1KMWYzRHQ1U0NKWGdMeXI1bHVsR182MzhIbkd0b1ZzSUtkWEdlbGoxWXlSYzB5V1dpY3QyYXN5c2Z2aTk1a0wxZldJeVFyWWFKM3drUkhYS2dBWTlqc2dUSzhFM1U3TVRpWk0?oc=5
+- India's Exports To US Dip 37.5% During May-Sept: Think Tank - NDTV
+  India's Exports To US Dip 37
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxONmQtT0FZYTRsUzBocThUZFYzakh0MWhkME1CRUl2NndNZzZURkQtckRZSHcxUUV1RExVOUowRTZDampsU2xSSkJyYjcwLU1QakRqeThreGR6NGFMc1JWaDVkYVRVdnV2dlZWX1M1N3lyRnpHcnExY1QxNnp5aWltTW1faFRzYldyclRyNkI3cFFjaFlOSEZMb0F5alDSAaQBQVVfeXFMTmgtcGEyWFpHOFpPbDN5czNEeldmVWE2V3ppNEJmZHNHWEZzR0d0ZGc0N1VNdXp1QV8xX2FiTTNBb2d2bjJaMzJlTkg3aWE0WXlrXzZ3OGl6RmpaUEUxbExTSmYya0JTb2JSa09zM2lwbHg1dXB0UU9NeGFFN1RUaXJJeEpsVXJHb2pVSUVkVXVVRGx5ZFVQRWZsZ3JHdlJUM2tXN0E?oc=5
 
-- Henley Passport Index: Why Indian passport is falling in global ranking - BBC
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZjZDM2JPbzQ1TlFVRXJpZTRxR3hkSzBtZldKMWpaNVdGOHF4ZGdTX3RjUl80S0xlaTgtLUNsR3JTSTViV3lTZlBWMW50SWVZUk9Ycml2Y2ZQUdIBX0FVX3lxTE1FcXY1bXJFS1dPekhQUVJ5VTlhcnBoUHNmVXZ3RGp3NEVtRHJvWXhybDdpaURCaTk1a2tGdllPckx5WU94WDBiQzRsSVFsbk5fUFJjOTJjbUoweGQ5ZEhv?oc=5
+- Tariff effect now showing in data: India's US exports dip sharply, analysis lists risks | Latest News India - Hindustan Times
+  Tariff effect now showing in data: India's US exports dip sharply. Analysis lists
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNEZ5SW9pMjh3WUpKYWZaaHg3YXptU3ZpblptakZXSnF6LW56UTktNm5IZXpMVk5pal9tdGhKckJJbFhtaVgyc3dvV1N4M1I1NVlPY0N3YkMtNHB2aDRTNlVIT0lGUHJMTTlILWVxZWFHRlZreG1LYW1KZ2JiQmZwZ0NaMU1NWl8zaEo2cWZMVmtMQjhmV29ic1VVd2FTek82WGtUalNCeHNGeFJ1cy1zME84MW1yY01UQmpRX0lrSWZxYnF2Q3lmMlRQOXRSM08wa3NXdnhvSnpYWm1HdUZDV9IB5gFBVV95cUxNUGNLa1JLa0hJaF8tNWJrcS1YQV85SlhHRzN0MS16cDFEYkRTRDNMeF9mNnVDcGtXTDg4OUR5UTZOZUpUQlJGNGlUNEhpU1M3MXN5NlprV0tTZWNWdHp0elNvQ25RdWVzaUtJSVZOS0g4eXNQNHMtYi1WeVFoSGFlVEx6NGVDT1J4ZHdHelN4d2tYT1dpTGp6TzhiQjVUSWxkdW1LbC00Q0lJVjUxMTlpaHJVTUlEdmNwRmdCTmU1N0RWaXcySmJrR0x3TFpJdTdUOWFSNkZGNjlldkVKS0x5YjItdmlyZw?oc=5
 
-- ISRO Set To Launch India's Heaviest Satellite CMS-03 From Sriharikota - NDTV
-  ISRO Set To Launch India's He
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFhfTGpkQk5qQnFxYzNrN0VNQUs1WmJveFJBTXZfZGZQcXNnRU1zNXBycHlra3hlQnhNYzctb3B0MTZMXy1ZaS1vSWgtdFdWNU9kNFo5OXdrbnlpOU81V3VYdVA1UmtISGhEcnNNcWRrUlhwRzJPbTA0QWhrT3BDb0FyNGdZTUhaX2owalFVak5sdDQxQ1pTdC1nN19OMGdCcEg4aUdhcnFvS2xO0gG0AUFVX3lxTFA4dVBLVnMySGRZbDE1SHA1SmpYSERWMW9HaGJtMTBCeUszel9wcHBOUGNTQkpROXFpMTI4SU9JX3Rqa18zdjd1UU80OHEzaS1QUTNzUFQ5Y2dwejM4ZzRPRHU2ekRKaVVkMElralFjeFFTUko3YjRDczE3UE9VWUwzY24zX1dzS0Q4T1ZLay0wMEh5Q1RMdmNPUktsMDZHM2padjdvY0EtM0hkdmtfdUp3SGJxWA?oc=5
-
-- "India Needs To Grow Thicker Skin": Shashi Tharoor After Scholar Deported - NDTV
-  "India Needs To Grow Thicker Skin":
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjQxSHpMcTZ6M2NvdkRQNTk2cXR4REQyd2pYMW1BdHF1ZDRNWVJJaDBRT2NDN01GdGNrMTZXSVRPTGU0MnYtTGc3dzNpNktBVE56QnR6QzdOMkpjeGwxTjVMVUFwSFk2RFhySU9yREZxV2VTTklTM2swcTF4RzFfV0hmOG44V255Q3dvZGNrbTlUa3NkTW5Fdjg1YklleGRmMFVmZXRtQjl0VlZvTDctWmMyanpIcHdfdW1zdUVwTnl1VGFqUjVyOTRVVDdsam1SdDBpZEFoVdIB3wFBVV95cUxNZDV5QXV5ZHZpbUlsU2hkMy0tTnVlQnZxMkJlLUpKZElQZVZmN2hMQ1JYMXZITUlQQ3RXT2dyMnFtS1kyMVhXN1VncTBPSExSY09DSXo4Y1NJVll3N05BckJ4TVNYUExUbi1LT0VJbkZUdlVJRnBNSXlyalFaX1FjUlMtRWJPNElydHRlem5qRjlwSzhYajU4YlNDV2V4ZVBza0xJaTNqcFdtR3l4RWlmNk1NNVZvTlV0c3pfcE0zY0ViX1U1endkekV6eFB4UUxwejl0UWs1QURyRC1wNm1J?oc=5
-
-- ‘India wants to keep Pakistan busy on…’: Defence Minister Khawaja Asif's fresh claim | Latest News India - Hindustan Times
-  ‘India wants to keep Pakistan busy on…’: Defence Minister Kh
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTJ4MHptcGF0SzZlU1VDcENCR0JmWW96c0owWTRwV3ZoMHExZnJWYnFqaHZCc29ySDZVWWxWZ0V6VmVZUGw2cWhRTnQ3Mmlfd0ZKNlhPMm9oVnIycEx5bF9xUVk0Q2RwMmNSNWc3M2FSWTRhUHhrS2x6ZVpnM2lUZ20xOGtWSFJWVDFuc0V6Vm5lU0YwRGQwT2RiVVdGal9lbnpQeUExUW1WSVJaem1EckJvVWZjdnB2d1JzZTJVNGpRaElNcXMtYXgyN1VmN2p5ZXE0TVFqSlVYQdIB3wFBVV95cUxNb2NBMmZteExGRld2OVJuZFpQR1lxQlhaU2tNc2dDQTIzN1ZYX0xuT2lndWdJNzU1NGxZWl9XdXRWUmZfZ2Vya05xQjQtTHB1SUhWMkJfby1pVHViX0VIZXJPejc3RXdEYlpXMjRFY0JpZ3hqNV92UDN5ZVhHa0tfekdEazJGZVhoVFQ0aU1yYzFNZEpUM3llN1k5alNiS0pPa1dTUGVpTDY3Zkp4ZTJlMHNTQm5yX3JoLVBVS1U4VENIUnNYRjJXYzVnWXBuMmxrSk5Lc1ZIdjZYNko0dFRv?oc=5
-
-- Cases Filed Against My Family Members To 'Coerce' Me: Ex-CJI NV Ramana - NDTV
-  Cases Filed Against My Family Members To '
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajdudWNBSUhCa25IY1IzaGpSekhRXzROeVo4b2ZKMVhIZ01IV2FTVmpCRTJ5czZtSWFQRlh4ZzRnRy1GZXJuWnk5VHdNaTNDY0JZUmRlWlRjd29HUDZGY3RTWGlFWU5Qc1RnVXhyZ3lGSEZzdHZYeHA5NmhTMGcycUpiLXdOcGV6RXFnbjNKUzN2UnpTNmw5bVZ0d2xVZzdKd1Vqc2I4eG5pdGfSAbMBQVVfeXFMT2laZ3FCUXBSYmN5LWdMdm5tMVdsN05oaEVFdkw0VE9OV3RnSUdzVFlacGs2RU1VWm51NXFSdFlDVHplY05hVGhMTjBPdlVUZC1KMWYzRHQ1U0NKWGdMeXI1bHVsR182MzhIbkd0b1ZzSUtkWEdlbGoxWXlSYzB5V1dpY3QyYXN5c2Z2aTk1a0wxZldJeVFyWWFKM3drUkhYS2dBWTlqc2dUSzhFM1U3TVRpWk0?oc=5
-
-- Henley Passport Index: Why Indian passport is falling in global ranking - BBC
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZjZDM2JPbzQ1TlFVRXJpZTRxR3hkSzBtZldKMWpaNVdGOHF4ZGdTX3RjUl80S0xlaTgtLUNsR3JTSTViV3lTZlBWMW50SWVZUk9Ycml2Y2ZQUdIBX0FVX3lxTE1FcXY1bXJFS1dPekhQUVJ5VTlhcnBoUHNmVXZ3RGp3NEVtRHJvWXhybDdpaURCaTk1a2tGdllPckx5WU94WDBiQzRsSVFsbk5fUFJjOTJjbUoweGQ5ZEhv?oc=5
-
-- ISRO Set To Launch India's Heaviest Satellite CMS-03 From Sriharikota - NDTV
-  ISRO Set To Launch India's He
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFhfTGpkQk5qQnFxYzNrN0VNQUs1WmJveFJBTXZfZGZQcXNnRU1zNXBycHlra3hlQnhNYzctb3B0MTZMXy1ZaS1vSWgtdFdWNU9kNFo5OXdrbnlpOU81V3VYdVA1UmtISGhEcnNNcWRrUlhwRzJPbTA0QWhrT3BDb0FyNGdZTUhaX2owalFVak5sdDQxQ1pTdC1nN19OMGdCcEg4aUdhcnFvS2xO0gG0AUFVX3lxTFA4dVBLVnMySGRZbDE1SHA1SmpYSERWMW9HaGJtMTBCeUszel9wcHBOUGNTQkpROXFpMTI4SU9JX3Rqa18zdjd1UU80OHEzaS1QUTNzUFQ5Y2dwejM4ZzRPRHU2ekRKaVVkMElralFjeFFTUko3YjRDczE3UE9VWUwzY24zX1dzS0Q4T1ZLay0wMEh5Q1RMdmNPUktsMDZHM2padjdvY0EtM0hkdmtfdUp3SGJxWA?oc=5
-
-- "India Needs To Grow Thicker Skin": Shashi Tharoor After Scholar Deported - NDTV
-  "India Needs To Grow Thicker Skin":
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjQxSHpMcTZ6M2NvdkRQNTk2cXR4REQyd2pYMW1BdHF1ZDRNWVJJaDBRT2NDN01GdGNrMTZXSVRPTGU0MnYtTGc3dzNpNktBVE56QnR6QzdOMkpjeGwxTjVMVUFwSFk2RFhySU9yREZxV2VTTklTM2swcTF4RzFfV0hmOG44V255Q3dvZGNrbTlUa3NkTW5Fdjg1YklleGRmMFVmZXRtQjl0VlZvTDctWmMyanpIcHdfdW1zdUVwTnl1VGFqUjVyOTRVVDdsam1SdDBpZEFoVdIB3wFBVV95cUxNZDV5QXV5ZHZpbUlsU2hkMy0tTnVlQnZxMkJlLUpKZElQZVZmN2hMQ1JYMXZITUlQQ3RXT2dyMnFtS1kyMVhXN1VncTBPSExSY09DSXo4Y1NJVll3N05BckJ4TVNYUExUbi1LT0VJbkZUdlVJRnBNSXlyalFaX1FjUlMtRWJPNElydHRlem5qRjlwSzhYajU4YlNDV2V4ZVBza0xJaTNqcFdtR3l4RWlmNk1NNVZvTlV0c3pfcE0zY0ViX1U1endkekV6eFB4UUxwejl0UWs1QURyRC1wNm1J?oc=5
-
-- ‘India wants to keep Pakistan busy on…’: Defence Minister Khawaja Asif's fresh claim | Latest News India - Hindustan Times
-  ‘India wants to keep Pakistan busy on…’: Defence Minister Kh
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTJ4MHptcGF0SzZlU1VDcENCR0JmWW96c0owWTRwV3ZoMHExZnJWYnFqaHZCc29ySDZVWWxWZ0V6VmVZUGw2cWhRTnQ3Mmlfd0ZKNlhPMm9oVnIycEx5bF9xUVk0Q2RwMmNSNWc3M2FSWTRhUHhrS2x6ZVpnM2lUZ20xOGtWSFJWVDFuc0V6Vm5lU0YwRGQwT2RiVVdGal9lbnpQeUExUW1WSVJaem1EckJvVWZjdnB2d1JzZTJVNGpRaElNcXMtYXgyN1VmN2p5ZXE0TVFqSlVYQdIB3wFBVV95cUxNb2NBMmZteExGRld2OVJuZFpQR1lxQlhaU2tNc2dDQTIzN1ZYX0xuT2lndWdJNzU1NGxZWl9XdXRWUmZfZ2Vya05xQjQtTHB1SUhWMkJfby1pVHViX0VIZXJPejc3RXdEYlpXMjRFY0JpZ3hqNV92UDN5ZVhHa0tfekdEazJGZVhoVFQ0aU1yYzFNZEpUM3llN1k5alNiS0pPa1dTUGVpTDY3Zkp4ZTJlMHNTQm5yX3JoLVBVS1U4VENIUnNYRjJXYzVnWXBuMmxrSk5Lc1ZIdjZYNko0dFRv?oc=5
-
-- Cases Filed Against My Family Members To 'Coerce' Me: Ex-CJI NV Ramana - NDTV
-  Cases Filed Against My Family Members To '
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajdudWNBSUhCa25IY1IzaGpSekhRXzROeVo4b2ZKMVhIZ01IV2FTVmpCRTJ5czZtSWFQRlh4ZzRnRy1GZXJuWnk5VHdNaTNDY0JZUmRlWlRjd29HUDZGY3RTWGlFWU5Qc1RnVXhyZ3lGSEZzdHZYeHA5NmhTMGcycUpiLXdOcGV6RXFnbjNKUzN2UnpTNmw5bVZ0d2xVZzdKd1Vqc2I4eG5pdGfSAbMBQVVfeXFMT2laZ3FCUXBSYmN5LWdMdm5tMVdsN05oaEVFdkw0VE9OV3RnSUdzVFlacGs2RU1VWm51NXFSdFlDVHplY05hVGhMTjBPdlVUZC1KMWYzRHQ1U0NKWGdMeXI1bHVsR182MzhIbkd0b1ZzSUtkWEdlbGoxWXlSYzB5V1dpY3QyYXN5c2Z2aTk1a0wxZldJeVFyWWFKM3drUkhYS2dBWTlqc2dUSzhFM1U3TVRpWk0?oc=5
-
-- Henley Passport Index: Why Indian passport is falling in global ranking - BBC
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZjZDM2JPbzQ1TlFVRXJpZTRxR3hkSzBtZldKMWpaNVdGOHF4ZGdTX3RjUl80S0xlaTgtLUNsR3JTSTViV3lTZlBWMW50SWVZUk9Ycml2Y2ZQUdIBX0FVX3lxTE1FcXY1bXJFS1dPekhQUVJ5VTlhcnBoUHNmVXZ3RGp3NEVtRHJvWXhybDdpaURCaTk1a2tGdllPckx5WU94WDBiQzRsSVFsbk5fUFJjOTJjbUoweGQ5ZEhv?oc=5
-
-- ISRO Set To Launch India's Heaviest Satellite CMS-03 From Sriharikota - NDTV
-  ISRO Set To Launch India's He
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFhfTGpkQk5qQnFxYzNrN0VNQUs1WmJveFJBTXZfZGZQcXNnRU1zNXBycHlra3hlQnhNYzctb3B0MTZMXy1ZaS1vSWgtdFdWNU9kNFo5OXdrbnlpOU81V3VYdVA1UmtISGhEcnNNcWRrUlhwRzJPbTA0QWhrT3BDb0FyNGdZTUhaX2owalFVak5sdDQxQ1pTdC1nN19OMGdCcEg4aUdhcnFvS2xO0gG0AUFVX3lxTFA4dVBLVnMySGRZbDE1SHA1SmpYSERWMW9HaGJtMTBCeUszel9wcHBOUGNTQkpROXFpMTI4SU9JX3Rqa18zdjd1UU80OHEzaS1QUTNzUFQ5Y2dwejM4ZzRPRHU2ekRKaVVkMElralFjeFFTUko3YjRDczE3UE9VWUwzY24zX1dzS0Q4T1ZLay0wMEh5Q1RMdmNPUktsMDZHM2padjdvY0EtM0hkdmtfdUp3SGJxWA?oc=5
+- ‘WE ARE THE CHAMPIONS!’: Harmanpreet’s leap, Deepti’s strike, and India’s tears of glory – Watch the winn - The Times of India
+  ‘WE ARE THE CHAMPIONS!’: Harmanpreet’
+  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxPU0U5Wk9naXJGdGhKbXB0c1ZiTkt0Y0YzZlVRX0MxcXFIb0IySTNGNU9MUDhtbU95MExNd3BkVVVoaUpERXg1eHJROEx6MlFhSnhEQ3lfRVJHX3NKWUl2X1JVaW1QanBtQ3dJQkIxZ0dyN2NtWU9CNklKd0Fra24tTWJuMzdJX0VoSWc5ejJuRzlLNW90a2FYSkF3amJYUnE0NHozTGlJYjFWS0xGZ1NyMy1JSnI2Y08zN1JNX2hMWjlfREFXTnNROEpueHlxRGVCRHAyVXRuTnZzVzA4SG15d1N0NjZpeTRjUXc2RFdHdVF2dDdaNDlDVEhBS0R2aXU5V0s1YXdTMzNrdG96dmxSYVNyTnVLeHdJTFlYUHBVWTcyWjhpMThyaTBqWDlJQWxq0gG2AkFVX3lxTE94emhqNi1KWkRmM0lLYk12WkJRWEJ4VS1ZbERrZm9zd0w3UjRLSnBVTGNQdEQ4NEN2VnNFS0VDTzE2WDJyZFBYZEliS0YxM0pXbk5TWUg3b1JST1N2dTRTUE5FbDBFMzJqczBQOTh3MnA3YnE4cng1VHVEVlY5dHNMdzgxc1RHWjN2M0VMUVlNSW5sTktRR3Jld1E2Z0pidEgtZ25QM2c0TVNBYkoySnJtT2JNd3pKV0RfMm4xN3V5T2kteHFhUFdxdXZPT1ZrMEVENE1RRGJxazNiYlRQVkFpN2RMN0RKVXdfRmszdnhVY09pN1FtZWZTMHlkR0NEYUxIem5Sa3VaeGMzOENGVk9PTGpUaHFXZ3VqRDIzMjViZWhscTRKRk5wTWhGOEVJNVVpV3BXbEE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +149,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-11-02 18:23:32 UTC_
+_Last updated: 2025-11-03 01:17:14 UTC_
