@@ -1,44 +1,92 @@
 # 📰 Daily News Summaries
 
+- Plans afoot to develop quantum tech-driven network to safeguard India’s digital assets, economy: DST secy Abhay Karandikar
+  
+  🔗 https://indianexpress.com/article/india/plans-quantum-tech-network-safeguard-india-digital-assets-economy-abhay-karandikar-10342912/
+
+- Gold Today Rate, November 3: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+  
+  🔗 https://indianexpress.com/article/india/gold-today-rate-november-3-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10342660/
+
+- Bihar Assembly Elections LIVE Updates: ‘Rahul Gandhi, Tejashwi Yadav, Akhilesh Yadav three monkeys of Mahatma Gandhi’, says Yogi Adityanath at rally in Darbhanga
+  
+  🔗 https://indianexpress.com/article/india/bihar-assembly-elections-pm-modi-amit-shah-priyanka-gandhi-rally-live-updates-10342791/
+
+- 19 dead, 8 injured as truck rams into government bus near Hyderabad
+  
+  🔗 https://indianexpress.com/article/india/death-toll-truck-rams-government-bus-hyderabad-injured-rtc-driver-police-10342744/
+
+- From Mumbai to Kancheepuram, ED attaches Anil Ambani Group properties worth Rs 3,000 crore
+  
+  🔗 https://indianexpress.com/article/india/ed-attaches-anil-ambani-group-properties-worth-%e2%82%b93000-crore-10342734/
+
+- Apple’s delayed AI revamp of Siri will ‘lean’ on custom Google Gemini model: Report
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/apple-delayed-ai-siri-google-gemini-model-report-10342945/
+
+- Who is Zico Kolter? A professor leads OpenAI safety panel with power to halt unsafe AI releases
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/who-is-zico-kolter-a-professor-leads-openai-safety-panel-with-power-to-halt-unsafe-ai-releases-10342817/
+
+- Trump says China, other countries can’t have Nvidia’s top AI chips
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/trump-says-china-other-countries-cant-have-nvidias-top-ai-chips-10342809/
+
+- Fifty per cent off: Compact Leica camera delight now at a mid-segment price
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/fifty-per-cent-off-xiaomi-14-civi-compact-leica-camera-10341803/
+
+- I know more about my troubled sleep thanks to the new Apple Watch Series 11
+  
+  🔗 https://indianexpress.com/article/technology/tech-reviews/apple-watch-series-11-review-sleep-score-battery-life-10341721/
+
+- ED attaches 40 assets worth  ₹3,000 crore linked to Anil Ambani’s Reliance Group across Delhi, Mumbai, Chennai
+  The ED has attached 40 properties worth  ₹3,000 crore linked to a money laundering probe against the Reliance
+  🔗 https://www.livemint.com/companies/news/ed-attaches-40-assets-across-delhi-mumbai-chennai-mor-worth-rs-3-000-crore-linked-to-anil-ambanis-reliance-grou-11762141863819.html
+
+- Pine Labs’ early investors set to bag stellar gains from IPO
+  The selling shareholders include Peak XV Partners, Actis, Temasek’s MacRitchie Investments, PayPal, Master
+  🔗 https://www.livemint.com/companies/start-ups/pine-labs-ipo-shares-stock-valuation-investors-peak-xv-temasek-paypal-11762139485331.html
+
+- Groww's founders won't sell a single share in the IPO. Is their long-term conviction justified?
+  Groww’s four co-founders Lalit Keshre, Harsh Jain, Ishan Bansal, and Neeraj Singh hold a combined 26.6%
+  🔗 https://www.livemint.com/companies/news/groww-ipo-stock-market-india-investors-urban-company-lenskart-nse-nbfc-indiabulls-angel-one-asset-management-11762082707993.html
+
+- ‘Ratan Tata was my mother’s favourite— Hands down,’ says sister Shireen Jejeebhoy
+  Ratan Tata was supportive of his family, but his personal relationships never influenced his
+  🔗 https://www.livemint.com/companies/ratan-tata-was-mother-s-favourite-hands-down-sisters-shireen-and-deanna-jejeebhoy-noel-tata-11762102788503.html
+
 - Ratan Tata's sisters speak up: “Future of the Tata Trusts troubled him the most”
   Sisters Shireen, 73, and Deanna, 72, discuss their relationship with Ratan Tata and their concerns about
   🔗 https://www.livemint.com/companies/people/ratan-tatas-sisters-speak-up-future-of-the-tata-trusts-troubled-him-the-most-shireen-deanna-jejeebhoy-11762078437692.html
 
-- Mehli makes his move, files caveat on his ouster
-  Caveat gives Mistry a chance to be heard before the Charity
-  🔗 https://www.livemint.com/companies/mehli-mistry-files-caveat-against-ouster-from-tata-trusts-11762092952413.html
+- Bank of Baroda share price soars over 5% to 1-year high after Q2 beat, up 52% in eight months
+  The bank improved its asset quality and saw a notable increase in NII, while provisions decreased significantly by 47.2% YoY. Shares of Bank of Baroda rose to
+  🔗 https://www.livemint.com/market/stock-market-news/bank-of-baroda-share-price-soars-over-5-to-1-year-high-after-q2-beat-up-52-in-eight-months-11762149955510.html
 
-- TCS says $6.5 bn data-centre bet will lag IT business on profitability
-  CS management hopes this particular investment will not be a significant drag on TCS’s return
-  🔗 https://www.livemint.com/companies/tcss-data-centre-business-to-fetch-lower-returns-as-compared-with-it-arm-11762083654132.html
+- Gold prices jump today! Check rates in Mumbai, Bengaluru, Chennai, New Delhi, Kolkata and other cities on November 3
+  Gold prices have changed in Mumbai, Bengaluru, Chennai, Hyderabad, Delhi and Kolk
+  🔗 https://www.livemint.com/market/commodities/gold-prices-jump-today-check-rates-in-mumbai-bengaluru-chennai-new-delhi-kolkata-and-other-cities-on-november-3-11762146911889.html
 
-- Zepto removes handling, surge fees on all orders — How does it compare with Instamart and Blinkit?
-  Zepo is the only mainstream quick commerce platform as on date to levy zero handling and platform fees. Swiggy Instamart and Blinkit charge  ⁹9.8 and  �
-  🔗 https://www.livemint.com/companies/news/zepto-removes-handling-surge-fees-on-all-orders-how-does-it-compare-with-instamart-and-blinkit-11762085771388.html
+- Orkla India IPO Allotment LIVE: GMP, steps to check share allotment status online on BSE, NSE, Kfin Technologies
+  Investors can check Orkla India IPO allotment status online through the websites of BSE and NSE, and on the official portal of the IPO registrar.
+  🔗 https://www.livemint.com/market/ipo/orkla-india-ipo-allotment-live-orkla-india-ipo-gmp-today-orkla-india-ipo-allotment-status-online-kfin-technologies-11762149563680.html
 
-- Dine-out sees a facelift as Swiggy tastes profits while Zomato builds breadth
-  Out-of-home consumption
-  🔗 https://www.livemint.com/companies/news/dineout-swiggy-profit-revenue-eternal-zomato-out-of-home-consumption-food-tech-gross-order-value-net-order-value-11762070138055.html
+- Vodafone Idea share price jumps over 5% as reports signal TGH likely to infuse $6 billion capital
+  Tillman Global Holdings (TGH) is in negotiations to invest $4-6 billion in Vodafone Idea (Vi
+  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-share-price-jumps-over-5-as-reports-signal-tgh-likely-to-infuse-6-billion-capital-11762147679685.html
 
-- South Korea's Kospi rises 1%, Australia's S&amp;P trades flat ahead of PMI data from China
-  Futures for Hong Kong’s Hang Seng Index were at 25,975, slightly below the previous close of 25,906
-  🔗 https://www.livemint.com/market/stock-market-news/south-koreas-kospi-rises-1-australias-s-p-trades-flat-ahead-of-pmi-data-from-china-11762130412599.html
+- Zomato vs Swiggy: Which stock should investors buy after Q2 results? Explained
+  Eternal shares rose 27% in the past year but dropped 5% recently. Swiggy shares fell 25% year-to-date, reflecting stronger investor interest in Eternal.
+  🔗 https://www.livemint.com/market/stock-market-news/zomato-vs-swiggy-which-stock-should-investors-buy-after-q2-results-explained-11762146081063.html
 
-- Stock market today: Trade setup for Nifty 50, Lenskart IPO, US-China trade talks to gold prices - 8 stocks to buy
-  The Indian stock market experienced strong growth in October, with Nifty 50 and BSE Sensex up 4.5% and 4.6%. However, recent declines were observed, primarily
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-lenskart-ipo-us-china-trade-talks-to-gold-prices-8-stocks-to-buy-11762092796557.html
+- Google says Pixel 10 Pro leads iPhone 17 in scam protection — Android users report 58% fewer messages
+  Android users were 58% more likely to report receiving no scam texts in the week prior to the survey, according to research by Leviathan Security Group.
+  🔗 https://www.livemint.com/technology/tech-news/android-users-58-less-likely-to-receive-scam-texts-as-pixel-10-pro-outshines-iphone-17-says-google-11762137431939.html
 
-- Sebi’s curbs take hold as India’s options boom wanes, small investors retreat amid heavy losses
-  Regulatory measures to rein in retail investor frenzy for options trading begins bearing fruit. Impact might guide Sebi's hand on weekly option expiries,
-  🔗 https://www.livemint.com/market/small-investor-count-plumbs-sebi-f-o-reform-impact-takes-root-jane-street-11762074015564.html
-
-- Maruti bets on small-car boom after GST 2.0. But will it sustain?
-  From 22 September to 31 October, Maruti’s bookings reached 500,000 units versus 350
-  🔗 https://www.livemint.com/market/mark-to-market/maruti-suzuki-small-car-sales-surge-gst-tax-cuts-11762077566644.html
-
-- Stock recommendations for 3 November from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 3 November. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-3-november-marketsmith-india-trade-set-up-nifty-sensex-outlook-11761913603582.html
+- Apple’s iOS 26.2 beta could launch Tuesday, right after iOS 26.1 release: Mark Gurman
+  Apple may roll out iOS 26.1 on Monday, with the iOS. 26.2 beta landing as early as Tuesday, according to Bloomberg’s Mark Gurman. Apple may introduce minor refin
+  🔗 https://www.livemint.com/technology/tech-news/apple-could-launch-ios-26-2-beta-on-tuesday-just-after-ios-26-1-release-mark-gurman-11762133619984.html
 
 - Lava Agni 4 to launch in India on 20 November: here's what to expect
   Lava will launch the Agni 4 on 20 November. It could feature a 6.67-inch OLED display and
@@ -52,73 +100,85 @@
    Meta rejected allegations from Strike 3 Holdings that it used pirated adult films for AI training. The company criticized the lawsuit as baseless, pointed to its prohibition against adult content generation
   🔗 https://www.livemint.com/technology/tech-news/meta-denies-using-pirated-porn-to-train-ai-says-downloads-were-for-personal-use-11762088117519.html
 
-- Are ads coming to Gemini? Google executive says ‘Users are starting to see…’
-  Google is enhancing its search with AI features amid challenges to its ad revenue model. The company plans to introduce ads in various AI experiences.
-  🔗 https://www.livemint.com/technology/tech-news/are-ads-coming-to-gemini-google-executive-says-users-are-starting-to-see-11762083650247.html
-
-- OnePlus 13, OnePlus 13s start receiving OxygenOS 16 update in India: How to download, new features and more
-  The OxygenOS 16 update is now available for the OnePlus 13 and 13s. Other devices will receive the update in phases until March 2026.
-  🔗 https://www.livemint.com/technology/tech-news/oneplus-13-oneplus-13s-start-receiving-oxygenos-16-update-in-india-how-to-download-new-features-and-more-11762076741634.html
-
-- Q2 results FY26 to trade deals: Top five triggers for Indian stock market this week - livemint.com
-  " target="_blank">Q2 results FY26 to trade
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWjEzdkg5TFVxemdSSk1WRktKeDBEOFo3WHQtc3BCejNMUGNiNHA2bGJVa25iT0F0N3JYeTNmcmFHa2dKM1ZkTzUxVlZaM2VESjNwR2FSNFp5VVVFVW1GUmFXbnNlQ2pnalgwYnlvWEdfUkFUY2xjVHA1RG1KbUJmUno5dDRvM1g1NHM3Rno5ZS1tSlZPeGZJNEU2ZEh4WXV6dHJmN2hLM01vZkZjeUJuVkphZ05lZkdHVFRTa1huak1UTTVWYTc2cy04UEQ4NEQ1NFB4REVJU1lYUUpCWWo5d3hXcE0yQ0XSAewBQVVfeXFMUFFZWGRlSkhlYkZGTWw3SzI5SUdwZHRFLTY5SF94Q3daaFVYU0w5XzlIRHBjMWlsZ21CUkg0TU1yaFAtc2pRRC1UZFBMd1BnbUNLQ1FCN1NDWDY1N2ZUU25aUU5CNEtaZEdONjhYLVg4QlZZNWpDU2ctdzJqQXIxWVZOWlRSZjNlQUxRYWs2bFgyRVNoTkZQRTRWYnp1OGU3ZEpzU25SZTg0NldfdVVWSG55RVJLYWNTM1c3MVdBajM3TFo0QzdfR1dVSHJfM25KTTI4aC1KTHVvbTZhZmVwNTFDR012c3lVYlJLMGY?oc=5
+- Stock market today: Trade setup for Nifty 50, Lenskart IPO, US-China trade talks to gold prices - 8 stocks to buy - livemint.com
+  " target="_blank">Stock market today: Trade setup for Nifty 50, Lens
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxORFFhbmRRb3FhdUdqOW9kd3NhQWxzZVJvdzNJb2JyRGVDRDRKd0RRNnRDSmVaRHN4Zl8yR29LaWhhc0hvRDFvcW5zaHJQa29XLUZSa3VwR3RjMVdQUEhHV2gxUWFXek1tYTZpaDM3SkFtVzgxcmtWS0c1N2IzanppbTg0OUs1Zm1lTi1FWmNPRzBmajlTUXNra0RmQnVPdjVNT1ZEUkJ1bkQtYWFiUEVBVEhjT0lYejNPY2REUHoxc2c0ZWM1REhINnV6dVUwbDBqNVRNUWN4ZTdMd05oeV9CSXQxQWhyb0hUR3RzbWpGUlNQbWxzYjNFQW51VXhwNjR1WjV0WkFSVDU2QdIBjwJBVV95cUxNdk1wYktpNktyZXVSVkRHVmRISnVORlIxNnF6ak5fOWF0ZWVGSHVkSjBkSTViN2tlU1BmWGd4cm5GZWt5R3ZVZ0U3aFNNQjc0ZUc0cmRDNkZETk0tUWVDbUJjd0t0ZWt0RjBzUjZQQklhQ2lKcE1VdHRBaERQbGhqU09jSGVIdjBOR0hyX29iNGdpYmtDOGJrYlRPanZ0bnBQb1pDSm9jLTNaQVhfekRTdlVGc1BaQ1N0SjM0Mk8yY1R1WmJmWUJLLVcwOEJoRlpYakRlQmlNNGtpVFRIUlk4R3l4VVp5Z3FMelJ1aDAxdmhHUVd2NUoxcnBvT0IyYlF0UTN6VnJhN002aTd2NDc0?oc=5
 
 - Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times
   Ahead of Market: 10 things that will decide stock market action
   🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdXJpeUhUaHkyd0RNVVhpUXh2MnhDM0Ftc2ZoSG1RQm5mQnMtUFVqN3dKNDdxMVRfLTNVQmE5a3kxZmhKa2V1R0VGcmdRSnp2RV9uR2pOTGNSNFFrQ0FIR1VacFl1MWpQSHdZT0pmTHI0WXVoLXpOejlzWUNTcWRlbms1TFgyTnhqWmhudjRmTUtsSkhEc2VoOWd4WXVLWUVmLVNhTlRIc3RJaWZsNVJ5WUZUemNzMFVES0tGM0hKNWlxNGotXy04bU9IZ083WmljbTFXT0ZhZG1OYkJqSUNZ0gHkAUFVX3lxTE9ZdnhCbU5zREFhSnp0VnpRY0tXeFRtSTNKdy1oQ0NNckh4YXZUZGVTMGR2elNmZmlGVE1sRXMybUlhVEdkaUthSEViX014cloyRjlVUmQ5QlYxYWM3TGVBUTNSajFfUlNlMGtBVnpWZzZDWTNhVzhZVjNnV19sV3psREgyeGpEcnFONmFibFYwemdHcUJFMFJUckotS3dYcTZtVzR2QjJWdzd5eWx6b01PdlpxWndmSlJQVTZUSDNTSDM0cWUyeUNValp0QjRuTnRiRmJheXlXdjBnaENCaTlMU19ZOA?oc=5
 
-- Nifty In Technical Charts: Still A Buy-The-Dip Market - NDTV Profit
-  Nifty In Technical Charts:
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmhHTXZrbmlRRXdsRWZURHJCMjdtbUp5SXdsdWtmZExrWWFXYlh6eU9aWlZyenNKYmxJN1ZiVzJZT2RzX3hPc2JQemdWUWJPV08yTVZlanRvVEVpWExOYlZOc0hvMXJNa2trV0RaVUlpdVZmcW9vNE1zWGJfQzRSZldvNVdDcjhfVzVadzk1LWVZYVVqYjlVdENnLUUtSFJXTHd3UmNHYnRWTEZl0gGyAUFVX3lxTE0tcjB2cmNaa0FQQ0dNbmZldHcta2FJMGpjOGRCaENfQkMtR1ExV0pwaGFMaU1UQXVmNGk2RWF0dVZEbGg2R3poTUd5cTVKM1Y2dnJXMXlXWjZuTUVsMkJ3WjlBSU4xTDN5d2FEckJ0b3JCU3JqVFJwbWNCbmJfSHNjR3BfVjVFdmpzSlN3d2dweUtpSmdLZFh3SjJpWVAyOS13NkpxVG1iZHI0MlItblF5bVE?oc=5
+- Shriram Finance shares surge 6% after Q2 net profit rises 7% YoY to Rs 2,314 crore - The Economic Times
+  Shriram Finance shares surge 6% after Q2 net profit rises 7%
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQVNNWGpYdlY4QXhUQnFkQjQzQUlTYTk3VkVueC1MSGZDMjJjdDJHQWhuNEdpMjQ2a0wzNUY0ZTFVelVDdXVtd1ZlZER5YzJTdUdRZmFoam1GVGtTM0RILURjdGtnQmtfd3cxN3EwbnBwcFZ4a2ozSUlPb2tZZEhkcjdrSTZ1dzFBOU9xQmg2ZzB1ZlNtVk45dS1PRmx0QllQTk1FdVhWSjZ1eUxwcVYwNFhteFRwQXhMaEJScHlqUV9vR1VHanp3Y2lnZ0V2T0tscUFfMV9XNldMQl80YTFxamVqWXdoWXYydHB5MHRn0gHuAUFVX3lxTE5BU01Yalh2VjhBeFRCcWRCNDNBSVNhOTdWRW54LUxIZkMyMmN0MkdBaG40R2kyNDZrTDM1RjRlMVV6VUN1dW13VmVkRHljMlN1R1FmYWhqbUZUa1MzREgtRGN0a2dCa193dzE3cTBucHBwVnhrajNJSU9va1lkSGRyN2tJNnV3MUE5T3FCaDZnMHVmU21WTjl1LU9GbHRCWVBOTUV1WFZKNnV5THBxVjA0WG14VHBBeExoQlJweWpRX29HVUdqendjaWdnRXZPS2xxQV8xX1c2V0xCXzRhMXFqZWpZd2hZdjJ0cHkwdGc?oc=5
 
-- Asia-Pacific markets trade mixed ahead of PMI data from China - CNBC
-  Asia-Pacific markets trade mixed ahead of
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnJsMUdlb2ppMkxJQWhjeEJRNE5IbUdRSVZKQVJiRVZVX3Y3bUw1ejY3VFJOX1FfdmVMS3V3UzM4VDJncXg4TlNoNjNaakNwZmJ6elk0Vk80ZV9OWFZtTktleVUya1hHM3huXzZjal9UMFpJTGs4eENIakl1VEVxWHRkQVp0U2M0ZWtZb0hmX2sxOHV6Ynp1NnctVUJWRmPSAaQBQVVfeXFMT2ZwclJsUkQ2eFNaWnhXYnhjMW81azU3UzNlenktNnM3cXpaeXhKQWtZRkFQeGZqZEFRYUdiWUMyeEFzUkxZRHYxYXc2ZHplY2xxUGY0T3g3ekQxRjdSZ2ZWd3p3cEVoQVR1aGxOYklfUTZnMFdmcFJTbEJkaUx2MjNuTUcxTlhtZUhQY2EzUG9XTFA3UlhmaFVqcVFmWW8ydm9IWVM?oc=5
+- Stock Market LIVE Updates: Sensex, Nifty flat; Shriram Finance, BSE Limited, Navin Fluorine most active - Moneycontrol
+  Stock Market LIVE Updates: Sensex, Nifty flat; Sh
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdi1yMko5WFNUOFZTYjFNODQ2TVktYVZIamt1bXZhR253RlczMlVFOERqQk5Bdk5wVVM0QkhoZWhwRHR4ZUtLYjRfZl8tTkNyUlRUUWpKU0dSWC1nQTRpWnhuemJ1cEt1Q09nWklJSGVuREc5clJlcTlKQkVIX0RSdDEwNHJGcElON1AxVE1ZNmdkRGk0eEJXbWt0NVU0Rl9BNGFsUzV6ZEN5N1Q1UmlvMFZkX3BxTTRoNVlIODZwUHBNdVRFY3ZwejRvVnFNUUVRU2hMVGxTeGxNTjNrNjdvQ1BsMk5fRk9lSWR4YQ?oc=5
 
-- Markets with Bertie: Two Diwali parties and the contrasting faith in overseas returns - livemint.com
-  Bertie is a well-known Indian businessman.
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPNHFuMzNKVDUtOEpyUWR5NGNNWmd3cVdHWEdqS3VUTzBYSFVxbk5mWmdjNjRyeHlWcUdLcHcxV0lmX0RXU3dUMDVDM1RjWEo5RDhFWE01YUFTSk5hTkFWVngySzAtMkpCYXN0YmV2OWF6YldkSXd1V1BHbFd5dGMyUFhWaUxBbGl1WjB0RGJMUFB6dTB5QzhJeWduRGtUY3RMXzZwTW9VejhjTi1BS2fSAbMBQVVfeXFMTmRVQWhZUWl6MFhhX2RQZjdYekl2c3k1YS1vbF9MZzJJNmp1b1gtS25UdmE2dng3R3I0dmZ4SzlwSTZqbkFpWUN4SDFlNldaTk00U09lQ3BQWEZSdjMwYXJiVzNxcU8xSnVwME9tUlVxZVZucTBtVU5oZ3doWnZnUnN6NkpnVUlQNWtlaFdrX3B0UDdfU1pWdktqY29TeU1oMlhoSGowR0xrYWxvajA3ZUtWY0E?oc=5
+- Stock Market LIVE Updates: Sensex, Nifty flat; Broader indices up; PSU Bank, realty shares rally - Business Standard
+  Stock Market LIVE Updates: Sensex, Nifty flat; Broader
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNY0FoS3Y3aEQ0bTlQdGtZbU1SYVNSZ1pYZy1mdmg0d2dfY3QycVg3TGdmbzYxLUdMcFJEMFQ4V2pzM3VWX2VYSlJjamZIbTBVdm4xTm80Vl84Q1QwXzZKRVo3a3U5YnFlcldSRGlaSEZvcFQwMW5vaDVBSUhlVFZBWnZzS195VHhTTHZMT1BqTHN2VDJOQndzTmExbWluVmJuWDU2UUtfSWVpVFBEbms4aEM4cHo4dmFZWG1JVXFCMlhSLTNZX3otdG9ERVAxQXpBY3RjQXNyVllPN3loOEIyMmMxQkdoYkNpRk1TM1Y1LUxVTUhPaEVYTmJyQVUtYTZ5ZEJlVHU4RFjSAY4CQVVfeXFMT1Q3SmxRUWZXdHJfM1duVmxoNzlqeVVrYjFZMk1ibFFNTXZ0N0JJTldmdGIwMTN5alRBb0V5Q212bW5YU2xHSGNCb1BSQktPVV8wWXh0NnZkY0hMeWVLZndrOVJMMGxmMDhYeUFJYk0taXZYVmFlbTFLdnBKYlBON2JTSUVSODR5amp3LWQ4dXJ5TFlsSERScTBWUG5qQUU3RUlka0hJaFdOVEMwX3JZODZMWkhEMC1QQ3hxUFNoSXlqQWdfU0Jpb0xwTGdXV2xPRzlpbnBucjdYZXF6N0JXLUd6RUU2RF9NRlJTcG9QUkxKMXM1bWk3Q0hZOXpiV2c2R0Z6QzljM2htSU1QT2h3?oc=5
 
-- Which stocks could outperform amid improving market sentiment?
-  Key stocks like Aditya Birla Capital, Aurobindo Pharma, BSE, BPCL, Bharat Electronics, and UPL are showing significant upward momentum. Analysts are highlighting fresh breakouts and increased investor interest
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/which-stocks-could-outperform-amid-improving-market-sentiment/articleshow/125044268.cms
+- Canara Bank shares rise 10% in 3 sessions to hit fresh 52-week high. What’s fuelling the spike?
+  Canara Bank shares surged 10% in three sessions to a fresh 52-week high on Monday. Strong Q2 earnings, improved asset quality, and renewed optimism in PSU banks.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/canara-bank-shares-rise-10-in-3-sessions-to-hit-fresh-52-week-high-whats-fuelling-the-spike/articleshow/125048360.cms
 
-- Can Sebi’s new panel revive retail participation in online bond trading?
-  India's market regulator is launching a new initiative to boost online bond trading. A newly formed advisory group will address operational challenges and review regulations.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/can-sebis-new-panel-revive-retail-participation-in-online-bond-trading/articleshow/125044238.cms
+- High beta pain: Aditya Birla Fashion, Siemens, 8 other BSE500 stocks sink up to 73% in 1 year
+  Out of 272 high volatility stocks, 135 have declined, with 100 recording double-digit losses. Aditya Birla Fashion topped the losers with a 73% fall. Siemens and Sterling and Wilson Renewable
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/high-beta-pain-aditya-birla-fashion-siemens-8-other-bse500-stocks-sink-up-to-73-in-1-year/slideshow/125048313.cms
 
-- FPIs pour Rs 10,708 crore into domestic primary market in October
-  Foreign portfolio investors significantly boosted their primary market investments in October. This marks the fourth consecutive month of greater primary than secondary market investment. Overall FPI inflows turned positive in October, reaching $1.7 billion.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/fpis-pour-rs-10708-crore-into-domestic-primary-market-in-october/articleshow/125044221.cms
+- India bonds dip as weaker rupee, tight liquidity weighs on sentiment
+  Indian government bonds declined in early trade as a weaker rupee and tight liquidity countered the Reserve Bank of India's move to cancel bond sales. The central bank's action was intended to signal discomfort with rising yields.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-dip-as-weaker-rupee-tight-liquidity-weighs-on-sentiment/articleshow/125047818.cms
 
-- Nifty may take a breather after rally, but bullish bias intact
-  Nifty's strong rally is showing signs of slowing near record highs. Traders are becoming cautious as the index consolidates. A move above 26,100-26,300 could lead to new all-time highs.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-may-take-a-breather-after-rally-but-bullish-bias-intact/articleshow/125044154.cms
+- PSU lenders climb 7% in a week. Here are 3 forces behind the rally, but is it time to buy?
+  The Nifty PSU Bank index has surged nearly 7% in a week, reflecting optimism about policy support. Analysts caution the momentum may not last.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/psu-lenders-climb-7-in-a-week-here-are-3-forces-behind-the-rally-but-is-it-time-to-buy/articleshow/125047773.cms
 
-- Indian Hotels, EIH, ITC join race for JW Marriott Bengaluru
-  As many as 40 companies, mostly from the hospitality and real estate sectors, have submitted expressions of interest. The five-star hotel, owned by the Advantage Raheja Group, has 281 rooms and is located in
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-hotels-eih-itc-join-race-for-jw-marriott-bengaluru/articleshow/125044195.cms
+- High beta stocks hit higher peaks and deeper troughs. Laurus Labs, Paytm shine with 99% gains, Trent, IRFC slip in double digits
+   ETMarkets analysis of Ace Equity data shows high-beta stocks outperformed low-beta peers over the past year. Low-beta counters like JSW Holdings and Manappuram Finance delivered steady
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/high-beta-stocks-hit-higher-peaks-and-deeper-troughs-laurus-labs-paytm-shine-with-99-gains-trent-irfc-slip-in-double-digits/articleshow/125047664.cms
 
 - "India Needs To Grow Thicker Skin": Shashi Tharoor After Scholar Deported - NDTV
   "India Needs To Grow Thicker Skin":
   🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjQxSHpMcTZ6M2NvdkRQNTk2cXR4REQyd2pYMW1BdHF1ZDRNWVJJaDBRT2NDN01GdGNrMTZXSVRPTGU0MnYtTGc3dzNpNktBVE56QnR6QzdOMkpjeGwxTjVMVUFwSFk2RFhySU9yREZxV2VTTklTM2swcTF4RzFfV0hmOG44V255Q3dvZGNrbTlUa3NkTW5Fdjg1YklleGRmMFVmZXRtQjl0VlZvTDctWmMyanpIcHdfdW1zdUVwTnl1VGFqUjVyOTRVVDdsam1SdDBpZEFoVdIB3wFBVV95cUxNZDV5QXV5ZHZpbUlsU2hkMy0tTnVlQnZxMkJlLUpKZElQZVZmN2hMQ1JYMXZITUlQQ3RXT2dyMnFtS1kyMVhXN1VncTBPSExSY09DSXo4Y1NJVll3N05BckJ4TVNYUExUbi1LT0VJbkZUdlVJRnBNSXlyalFaX1FjUlMtRWJPNElydHRlem5qRjlwSzhYajU4YlNDV2V4ZVBza0xJaTNqcFdtR3l4RWlmNk1NNVZvTlV0c3pfcE0zY0ViX1U1endkekV6eFB4UUxwejl0UWs1QURyRC1wNm1J?oc=5
 
-- Trump tariffs trigger 37.5% drop in Indian exports, alarm bells ring across key sectors - The Economic Times
-  The Economic Times reported that India's exports to the U.S.
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcmdYUF9LWnhJSGZGdVR0U0g1a1RQa1pRQUxyZW9wdXgzbVdEVHZnbm83UWx0dXF2WERiQllBNjJNNlF3ZC1SUXZuenV4cnlfUDVHRHI5UGxtakpUV0stMExjZ084VE45VHk1c2hPRWJ3Tk95SVRjR25iV1l4Y2xWa0c1ckU3SEh4RXZ4d1MwbjFjcUNta21vbFk5bWhaOFUzYUIxVHhHOFhyekdjdWFZRFBQclEtaXc5WU94MHhES2tQSXZFRklYckJxOHptd3Z3anB5MTFMLWt5OVo2Rk50TTIyRlNsZUhFMklxUU9nTk1TWF9IbVHSAfsBQVVfeXFMTWZvS3ozUDNpY3Q4bjVfbmVGOG1LTDdfelc4X0R6RE92U2ExS09mVDE5UEVWWnd2d3dkb2Y0SHZEV1V4VGlldUR2QkR1Sm9FVHNOeUROUVIydUQ0QW9pSlliNzNoREs0d29Xd3otaHFZSzRxdU1vQm9Cc3ZSaHNtYmkyWDJBcHh2andUMjBrVFlOTWZ0eEtlMWtqaVA4cFVoZ3ZLYk5IcnBleFZiQlVDNGN4cGpxa2VTVU5jbDQ3NXYyRXNaVU4xcWFkdGY3NldXMVFTQ0hpclY0THVOOFYzamxJVlZ2V250UGR2Nng2LUFGMTVZS1RsNmw1Zkk?oc=5
+- Tariff effect now showing in data: India's US exports dip sharply, analysis lists risks | Latest News India - Hindustan Times
+  Tariff effect now showing in data: India's US exports dip sharply. Analysis lists
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNEZ5SW9pMjh3WUpKYWZaaHg3YXptU3ZpblptakZXSnF6LW56UTktNm5IZXpMVk5pal9tdGhKckJJbFhtaVgyc3dvV1N4M1I1NVlPY0N3YkMtNHB2aDRTNlVIT0lGUHJMTTlILWVxZWFHRlZreG1LYW1KZ2JiQmZwZ0NaMU1NWl8zaEo2cWZMVmtMQjhmV29ic1VVd2FTek82WGtUalNCeHNGeFJ1cy1zME84MW1yY01UQmpRX0lrSWZxYnF2Q3lmMlRQOXRSM08wa3NXdnhvSnpYWm1HdUZDV9IB5gFBVV95cUxNUGNLa1JLa0hJaF8tNWJrcS1YQV85SlhHRzN0MS16cDFEYkRTRDNMeF9mNnVDcGtXTDg4OUR5UTZOZUpUQlJGNGlUNEhpU1M3MXN5NlprV0tTZWNWdHp0elNvQ25RdWVzaUtJSVZOS0g4eXNQNHMtYi1WeVFoSGFlVEx6NGVDT1J4ZHdHelN4d2tYT1dpTGp6TzhiQjVUSWxkdW1LbC00Q0lJVjUxMTlpaHJVTUlEdmNwRmdCTmU1N0RWaXcySmJrR0x3TFpJdTdUOWFSNkZGNjlldkVKS0x5YjItdmlyZw?oc=5
 
-- India's Exports To US Dip 37.5% During May-Sept: Think Tank - NDTV
-  India's Exports To US Dip 37
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxONmQtT0FZYTRsUzBocThUZFYzakh0MWhkME1CRUl2NndNZzZURkQtckRZSHcxUUV1RExVOUowRTZDampsU2xSSkJyYjcwLU1QakRqeThreGR6NGFMc1JWaDVkYVRVdnV2dlZWX1M1N3lyRnpHcnExY1QxNnp5aWltTW1faFRzYldyclRyNkI3cFFjaFlOSEZMb0F5alDSAaQBQVVfeXFMTmgtcGEyWFpHOFpPbDN5czNEeldmVWE2V3ppNEJmZHNHWEZzR0d0ZGc0N1VNdXp1QV8xX2FiTTNBb2d2bjJaMzJlTkg3aWE0WXlrXzZ3OGl6RmpaUEUxbExTSmYya0JTb2JSa09zM2lwbHg1dXB0UU9NeGFFN1RUaXJJeEpsVXJHb2pVSUVkVXVVRGx5ZFVQRWZsZ3JHdlJUM2tXN0E?oc=5
+- Ex RBI Governor Raghuram Rajan says US' HIRE Act a bigger threat to India than H-1B visa fee hike—What is it? - livemint.com
+  Ex RBI Governor Raghuram Rajan says US' HIRE Act a bigger threat to
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWm9jSlc3dXU4ZmhZampkbUhDdWNXS3QzZ3o2TnBfdExVWG84M3BTOEpzYTlwaFlRZzdrbjIyNkRNMkx2cWVDUmFNNkEyZkN1NW45bDlvM2lEc1V1OUIwZ3hUYzRHUGFPdFM3U2lqVWJTVnZYbU12RFR3QjNOTFBDTFhwQTN6eV9RUzI1MG5PR3I5VEYyamhydGloY0VPR3dVSXNVMHNGSTNwV1VLbTg5TzFVbGVyVXpBLWlMT2RISHEtVEVrWFZNdVVXYXQtSHR6eC1nOTZpMHhaaEV1RVZFN2lFRURrcFo0SWZnc3pEdnJ1UURFc3Zr0gH8AUFVX3lxTE9reE5nUnVrZ0d5NmotRnV2YU5GS25RMGlLbFB3TzJuX1FUMmFVaTZxaDBLbFg3Y3VtUTlpTFB3UUlGaDhXSF9UMzkyOTdZdTdjVlpzY1gyVHcwZE9RZ25PNkRmRUNEVDB6VndoTW8wVFJWdEVGRnBpYVJBcE9fOTlMelhaQVRDWHMxeVd4cVpSVFFlNXBGZE1fMm93QTZ3WGo4eFNKU1BEZUZ1a2FuUXhmYzZBdHhqOW5IQXRFdGdUMlFzSWRkWmNLYlNoX0J1T0l1QXNOdmdwZGx1dFdBWnQ0amtmUm1jSW1FRTFPdWpFdkc4cWQwZHlkbkdkNA?oc=5
+
+- CITES flags Vantara’s 'exceptionally high' care standards after India visit - Moneycontrol
+  CITES flags Vantara�
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxObFgtWHVMSFBGSy1oRFR5VXB5NWw1R3dUV2plelpuN2pfNFhTYk5BbkNoV0Z4RVEteU1ia3gxU3ZqbGdkdXNrM0hhdF9qZEI1aHh0djVhOV9DaFRHTUlha284aGZBa2lXNFFlSVlSYWFmZk1kU1Z0c3RNT3JjOFNLR1dybzBGY3YzR2tabjJVcnhjMFlFYThBWGYtZWFaSTgzVUlXSFdqX2MxdkFndXpnUVdRV0NDRlFBdVlDckFocU9QYVVwakHSAcsBQVVfeXFMT1ZHcmU4WWhabHpQSjYxdk5Ba2l2ZmJ0emNFLVRsWE5iWEtla3FaOEQyc3lKVEI0N0hCbUt1Qlk3QS1pXzdrV3dKckdaRWJNaEh4YVNhREJxZDJzYzN0eGhCQ19Pa2hLMHFNbU5kakI0TkpLa1hEaEZTVlV5bDVGTXBOZ1RfM19GOWE0eldOd2l2QV9ObGlhTjVReTZxYkJaalFnbFQtSG1DVnVVdThWVERpZlhpMjJwcXl1bExwbUhuQ3NqNnVCSmRrWUU?oc=5
+
+- Trishul, Astra, Sentinel: India Flexes Military Power, Prepares for Pak, China With 3 War Exercises - The Times of India
+  The Times of India: India Flexes Military Power, Prepares for Pak,
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZlZFLU5DNXNLNEgyZndZYWY1SV9Wd1VPY3ZYYnZiLXV2enZfdkhIZmM3RWFyV3RubFRPblQ5RUhGUTU4VnlwNDVMMHh1OWcxbXM2bjFSUGh0QzhmTUg5ckNDTDQzZmd0c19vY3NlUEVWS1ZFeW93WHl3SEFtSXk5RFlPX1RsdDlCVmh2b1M4TGtHY2FiY296c2liVXdiOTlrVUN2bHhTM1FaNjFtcG95ZVNrLTdFdS1oODdGeTJGbGlvTEJyWGRrSTVVWGxZY3NzeDItNnJvSzhlTV9mbkhwOWJwMk1JVG16NGJSUjdvamZ2OUlYU0N5QXBR?oc=5
+
+- "India Needs To Grow Thicker Skin": Shashi Tharoor After Scholar Deported - NDTV
+  "India Needs To Grow Thicker Skin":
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjQxSHpMcTZ6M2NvdkRQNTk2cXR4REQyd2pYMW1BdHF1ZDRNWVJJaDBRT2NDN01GdGNrMTZXSVRPTGU0MnYtTGc3dzNpNktBVE56QnR6QzdOMkpjeGwxTjVMVUFwSFk2RFhySU9yREZxV2VTTklTM2swcTF4RzFfV0hmOG44V255Q3dvZGNrbTlUa3NkTW5Fdjg1YklleGRmMFVmZXRtQjl0VlZvTDctWmMyanpIcHdfdW1zdUVwTnl1VGFqUjVyOTRVVDdsam1SdDBpZEFoVdIB3wFBVV95cUxNZDV5QXV5ZHZpbUlsU2hkMy0tTnVlQnZxMkJlLUpKZElQZVZmN2hMQ1JYMXZITUlQQ3RXT2dyMnFtS1kyMVhXN1VncTBPSExSY09DSXo4Y1NJVll3N05BckJ4TVNYUExUbi1LT0VJbkZUdlVJRnBNSXlyalFaX1FjUlMtRWJPNElydHRlem5qRjlwSzhYajU4YlNDV2V4ZVBza0xJaTNqcFdtR3l4RWlmNk1NNVZvTlV0c3pfcE0zY0ViX1U1endkekV6eFB4UUxwejl0UWs1QURyRC1wNm1J?oc=5
 
 - Tariff effect now showing in data: India's US exports dip sharply, analysis lists risks | Latest News India - Hindustan Times
   Tariff effect now showing in data: India's US exports dip sharply. Analysis lists
   🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNEZ5SW9pMjh3WUpKYWZaaHg3YXptU3ZpblptakZXSnF6LW56UTktNm5IZXpMVk5pal9tdGhKckJJbFhtaVgyc3dvV1N4M1I1NVlPY0N3YkMtNHB2aDRTNlVIT0lGUHJMTTlILWVxZWFHRlZreG1LYW1KZ2JiQmZwZ0NaMU1NWl8zaEo2cWZMVmtMQjhmV29ic1VVd2FTek82WGtUalNCeHNGeFJ1cy1zME84MW1yY01UQmpRX0lrSWZxYnF2Q3lmMlRQOXRSM08wa3NXdnhvSnpYWm1HdUZDV9IB5gFBVV95cUxNUGNLa1JLa0hJaF8tNWJrcS1YQV85SlhHRzN0MS16cDFEYkRTRDNMeF9mNnVDcGtXTDg4OUR5UTZOZUpUQlJGNGlUNEhpU1M3MXN5NlprV0tTZWNWdHp0elNvQ25RdWVzaUtJSVZOS0g4eXNQNHMtYi1WeVFoSGFlVEx6NGVDT1J4ZHdHelN4d2tYT1dpTGp6TzhiQjVUSWxkdW1LbC00Q0lJVjUxMTlpaHJVTUlEdmNwRmdCTmU1N0RWaXcySmJrR0x3TFpJdTdUOWFSNkZGNjlldkVKS0x5YjItdmlyZw?oc=5
 
-- ‘WE ARE THE CHAMPIONS!’: Harmanpreet’s leap, Deepti’s strike, and India’s tears of glory – Watch the winn - The Times of India
-  ‘WE ARE THE CHAMPIONS!’: Harmanpreet’
-  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxPU0U5Wk9naXJGdGhKbXB0c1ZiTkt0Y0YzZlVRX0MxcXFIb0IySTNGNU9MUDhtbU95MExNd3BkVVVoaUpERXg1eHJROEx6MlFhSnhEQ3lfRVJHX3NKWUl2X1JVaW1QanBtQ3dJQkIxZ0dyN2NtWU9CNklKd0Fra24tTWJuMzdJX0VoSWc5ejJuRzlLNW90a2FYSkF3amJYUnE0NHozTGlJYjFWS0xGZ1NyMy1JSnI2Y08zN1JNX2hMWjlfREFXTnNROEpueHlxRGVCRHAyVXRuTnZzVzA4SG15d1N0NjZpeTRjUXc2RFdHdVF2dDdaNDlDVEhBS0R2aXU5V0s1YXdTMzNrdG96dmxSYVNyTnVLeHdJTFlYUHBVWTcyWjhpMThyaTBqWDlJQWxq0gG2AkFVX3lxTE94emhqNi1KWkRmM0lLYk12WkJRWEJ4VS1ZbERrZm9zd0w3UjRLSnBVTGNQdEQ4NEN2VnNFS0VDTzE2WDJyZFBYZEliS0YxM0pXbk5TWUg3b1JST1N2dTRTUE5FbDBFMzJqczBQOTh3MnA3YnE4cng1VHVEVlY5dHNMdzgxc1RHWjN2M0VMUVlNSW5sTktRR3Jld1E2Z0pidEgtZ25QM2c0TVNBYkoySnJtT2JNd3pKV0RfMm4xN3V5T2kteHFhUFdxdXZPT1ZrMEVENE1RRGJxazNiYlRQVkFpN2RMN0RKVXdfRmszdnhVY09pN1FtZWZTMHlkR0NEYUxIem5Sa3VaeGMzOENGVk9PTGpUaHFXZ3VqRDIzMjViZWhscTRKRk5wTWhGOEVJNVVpV3BXbEE?oc=5
+- Ex RBI Governor Raghuram Rajan says US' HIRE Act a bigger threat to India than H-1B visa fee hike—What is it? - livemint.com
+  Ex RBI Governor Raghuram Rajan says US' HIRE Act a bigger threat to
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWm9jSlc3dXU4ZmhZampkbUhDdWNXS3QzZ3o2TnBfdExVWG84M3BTOEpzYTlwaFlRZzdrbjIyNkRNMkx2cWVDUmFNNkEyZkN1NW45bDlvM2lEc1V1OUIwZ3hUYzRHUGFPdFM3U2lqVWJTVnZYbU12RFR3QjNOTFBDTFhwQTN6eV9RUzI1MG5PR3I5VEYyamhydGloY0VPR3dVSXNVMHNGSTNwV1VLbTg5TzFVbGVyVXpBLWlMT2RISHEtVEVrWFZNdVVXYXQtSHR6eC1nOTZpMHhaaEV1RVZFN2lFRURrcFo0SWZnc3pEdnJ1UURFc3Zr0gH8AUFVX3lxTE9reE5nUnVrZ0d5NmotRnV2YU5GS25RMGlLbFB3TzJuX1FUMmFVaTZxaDBLbFg3Y3VtUTlpTFB3UUlGaDhXSF9UMzkyOTdZdTdjVlpzY1gyVHcwZE9RZ25PNkRmRUNEVDB6VndoTW8wVFJWdEVGRnBpYVJBcE9fOTlMelhaQVRDWHMxeVd4cVpSVFFlNXBGZE1fMm93QTZ3WGo4eFNKU1BEZUZ1a2FuUXhmYzZBdHhqOW5IQXRFdGdUMlFzSWRkWmNLYlNoX0J1T0l1QXNOdmdwZGx1dFdBWnQ0amtmUm1jSW1FRTFPdWpFdkc4cWQwZHlkbkdkNA?oc=5
+
+- CITES flags Vantara’s 'exceptionally high' care standards after India visit - Moneycontrol
+  CITES flags Vantara�
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxObFgtWHVMSFBGSy1oRFR5VXB5NWw1R3dUV2plelpuN2pfNFhTYk5BbkNoV0Z4RVEteU1ia3gxU3ZqbGdkdXNrM0hhdF9qZEI1aHh0djVhOV9DaFRHTUlha284aGZBa2lXNFFlSVlSYWFmZk1kU1Z0c3RNT3JjOFNLR1dybzBGY3YzR2tabjJVcnhjMFlFYThBWGYtZWFaSTgzVUlXSFdqX2MxdkFndXpnUVdRV0NDRlFBdVlDckFocU9QYVVwakHSAcsBQVVfeXFMT1ZHcmU4WWhabHpQSjYxdk5Ba2l2ZmJ0emNFLVRsWE5iWEtla3FaOEQyc3lKVEI0N0hCbUt1Qlk3QS1pXzdrV3dKckdaRWJNaEh4YVNhREJxZDJzYzN0eGhCQ19Pa2hLMHFNbU5kakI0TkpLa1hEaEZTVlV5bDVGTXBOZ1RfM19GOWE0eldOd2l2QV9ObGlhTjVReTZxYkJaalFnbFQtSG1DVnVVdThWVERpZlhpMjJwcXl1bExwbUhuQ3NqNnVCSmRrWUU?oc=5
+
+- Trishul, Astra, Sentinel: India Flexes Military Power, Prepares for Pak, China With 3 War Exercises - The Times of India
+  The Times of India: India Flexes Military Power, Prepares for Pak,
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZlZFLU5DNXNLNEgyZndZYWY1SV9Wd1VPY3ZYYnZiLXV2enZfdkhIZmM3RWFyV3RubFRPblQ5RUhGUTU4VnlwNDVMMHh1OWcxbXM2bjFSUGh0QzhmTUg5ckNDTDQzZmd0c19vY3NlUEVWS1ZFeW93WHl3SEFtSXk5RFlPX1RsdDlCVmh2b1M4TGtHY2FiY296c2liVXdiOTlrVUN2bHhTM1FaNjFtcG95ZVNrLTdFdS1oODdGeTJGbGlvTEJyWGRrSTVVWGxZY3NzeDItNnJvSzhlTV9mbkhwOWJwMk1JVG16NGJSUjdvamZ2OUlYU0N5QXBR?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -149,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-11-03 01:17:14 UTC_
+_Last updated: 2025-11-03 06:28:50 UTC_
