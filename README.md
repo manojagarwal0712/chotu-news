@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Bengaluru’s Museum of Art and Photography shines a light on figures from the supporting cast of Indian myth
+- News Today Live Updates, 4 November: 14 out of 39 stations log ‘very poor’ air quality, Wazirpur most polluted as AQI hits 403
   
-  🔗 https://indianexpress.com/article/india/bengalurus-museum-of-art-and-photography-shines-a-light-on-figures-from-the-supporting-cast-of-indian-myth-10344632/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-11-04-2025-news-headlines-10344704/
 
-- UAE to have India House, set to declare yoga a competitive sport
+- Gold Today Rate, November 4: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/uae-to-have-india-house-set-to-declare-yoga-a-competitive-sport-10344597/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-november-4-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10344907/
 
-- India and Bahrain to cooperate on fighting terrorism
+- ‘For God’s sake, move the files’: Farooq Abdullah accuses L-G of delaying government work in J-K
   
-  🔗 https://indianexpress.com/article/india/india-and-bahrain-to-cooperate-on-fighting-terrorism-10344590/
+  🔗 https://indianexpress.com/article/india/for-gods-sake-move-the-files-farooq-abdullah-accuses-l-g-of-delaying-government-work-in-j-k-10344477/
 
-- Bihar Assembly Elections: Tejashwi trying to hide Lalu’s ‘sins’, says PM Modi
+- Physics Wallah ad showing 6 Scorpios driving through Gulmarg forest sparks outrage, FIR filed
   
-  🔗 https://indianexpress.com/article/india/bihar-assembly-elections-tejashwi-trying-to-hide-lalus-sins-says-pm-modi-10344582/
+  🔗 https://indianexpress.com/article/india/physics-wallah-ad-showing-6-scorpios-illegally-driving-through-gulmarg-forest-sparks-outrage-fir-filed-10344476/
 
-- Drums, flowers: Rousing welcome for Omar Abdullah in Jammu after first Darbar Move in 4 years
+- CM says Madhya Pradesh facing financial loss due to Centre’s ‘inadequate reimbursement’, seeks shift to centralised grain procurement
   
-  🔗 https://indianexpress.com/article/india/drums-flowers-rousing-welcome-for-omar-abdullah-in-jammu-after-first-darbar-move-in-4-years-10344575/
+  🔗 https://indianexpress.com/article/india/cm-says-madhya-pradesh-facing-financial-loss-due-to-centres-inadequate-reimbursement-seeks-shift-to-centralised-grain-procurement-10344464/
+
+- Microsoft AI chief Mustafa Suleyman is against the idea of ‘conscious AI’; here’s why
+  
+  🔗 https://indianexpress.com/article/technology/microsoft-ai-chief-mustafa-suleyman-is-against-the-idea-of-conscious-ai-heres-why-10344988/
 
 - OnePlus unveils chip-level gaming architecture for smoother, high-frame-rate mobile play
   
@@ -36,49 +40,57 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/apple-delayed-ai-siri-google-gemini-model-report-10342945/
 
-- Who is Zico Kolter? A professor leads OpenAI safety panel with power to halt unsafe AI releases
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/who-is-zico-kolter-a-professor-leads-openai-safety-panel-with-power-to-halt-unsafe-ai-releases-10342817/
+- SpiceJet names former IndiGo exec Sanjay Kumar as Executive Director, starting November 2025. Details here
+  Sanjay Kumar will join SpiceJet as Executive Director on November 3, 2025
+  🔗 https://www.livemint.com/companies/news/spicejet-names-sanjay-kumar-as-executive-director-starting-november-2025-details-here-11762234864659.html
+
+- Palantir CEO Alex Karp claims the tech giant is first anti-woke company, advocates meritocracy - here's what it means
+  Palantir CEO Alex Karp declared the company as anti-woke during an earnings call. The firm reported a 63% revenue increase to nearly $1.2 billion.
+  🔗 https://www.livemint.com/companies/news/palantir-ceo-alex-karp-claims-the-defence-giant-is-first-anti-woke-company-advocates-meritocracy-heres-what-it-means-11762223196291.html
+
+- Starbucks to sell 60% China business to Boyu Capital for $4 billion amid competition from local brands. Details here
+  Starbucks agrees to sell a 60% stake in its China business to Boyu Capital for $4 billion.
+  🔗 https://www.livemint.com/companies/news/starbucks-to-sell-60-china-business-to-boyu-capital-for-4-billion-amid-competition-from-local-brands-details-here-11762216778804.html
 
 - Why Pine Labs’ head believes Ebitda is a better measure of the company’s value
   Rau said the market views private firms differently from listed ones. Growing confidence in Pine Labs’ brand makes
   🔗 https://www.livemint.com/companies/pine-labs-chairman-amrish-rau-on-ipo-ebitda-11762180595545.html
 
-- Indian IT services companies are facing AI impact on future hiring
+- Blame it on AI: Revenue, hirings diverge at top IT services companies
   Indian IT services companies are signalling a fundamental shift in their business model. The change has significant implications for India
   🔗 https://www.livemint.com/companies/india-it-services-automation-ai-hcltech-cognizant-tcs-jobs-it-sector-evolution-engineering-11762156172053.html
 
-- Paytm CEO Vijay Shekhar Sharma has a suggestion for WhatsApp that may benefit you, and netizens love it
-  Vijay Shekhar Sharma appreciated WhatsApp's recently-implemented feature of automatically blocking
-  🔗 https://www.livemint.com/companies/people/paytm-ceo-vijay-shekhar-sharma-has-a-suggestion-for-whatsapp-that-may-benefit-you-and-netizens-love-it-11762184548110.html
+- Small-cap IT stock Blue Cloud jumps 14% after a $150 million deal with an Israel-based tech firm. Details here
+  Blue Cloud Softech Solutions saw a nearly 14% surge in intraday trading on November 4 after announcing a $150 million technology ownership transfer agreement with an
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-it-stock-blue-cloud-jumps-14-after-a-150-million-deal-with-an-israel-based-tech-firm-details-here-11762236238879.html
 
-- ED attaches RCom's land worth over  ₹4,462 crore in money laundering case
-  RCom and its group companies allegedly availed loans from domestic and foreign lenders. Five banks have alleged that the loan accounts of the group are fraudulent.
-  🔗 https://www.livemint.com/companies/news/ed-rcom-land-pmla-money-laundering-case-reliance-infrastructure-foreign-exchange-rcom-11762182981173.html
+- Penny stock under  ₹2 sets board meeting date to declare Q2 results 2025, evaluate revised fundraise proposal
+  Excel Realty N Infra said its board will meet on Tuesday, November 11. The board will consider and approve the unaudited standalone and consolidated financial results of the company.
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-2-sets-board-meeting-date-to-declare-q2-results-2025-evaluate-revised-fundraise-proposal-11762236343209.html
 
-- Amazon inks $38 billion deal with OpenAI for Nvidia chips
-  Amazon.com’s cloud unit has signed a $38 billion deal to supply a slice
-  🔗 https://www.livemint.com/companies/news/amazon-inks-38-billion-deal-with-openai-for-nvidia-chips-11762184505772.html
+- Titan shares jump 3% to 1-year high as analysts stay bullish post Q2 numbers
+  Titan shares rose 3% to a one-year high of  ₹3,823, following strong September quarter results. The jewelry segment grew
+  🔗 https://www.livemint.com/market/stock-market-news/titan-shares-jump-3-to-1-year-high-as-analysts-stay-bullish-post-q2-numbers-11762234506185.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 4 November 2025
-  Sumeet Bagadia recommends five breakout stocks to buy today. PDS,
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-4-november-2025-11762217362914.html
+- Mangalam Industrial Finance rights issue 2025: Date, price, other details you may like to know
+  Mangalam Industrial Finance Ltd has opened its extended rights issue of 48,08,21,750 equity shares at Re 1 each. The issue will increase total shares to 1,44,
+  🔗 https://www.livemint.com/market/stock-market-news/mangalam-industrial-finance-rights-issue-2025-date-price-other-details-you-may-like-to-know-11762233885573.html
 
-- Stock market today: Trade setup for Nifty 50, Q2 results, Groww IPO to gold prices - 8 stocks to buy
-  The Indian stock market showed mixed results with Nifty 50 closing flat and Bank Nifty gaining 0.56%. Investors remain cautious ahead of corporate earnings and policy decisions.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-q2-results-groww-ipo-to-gold-prices-8-stocks-to-buy-11762186439420.html
+- Adani Enterprises Q2 results today: Is it a stock to buy ahead of September quarter earnings?
+  Adani Enterprises' share price is down by over a per cent in November. Analysts predict a mixed bag: potential revenue growth amidst stable EBITDA.
+  🔗 https://www.livemint.com/market/stock-market-news/adani-enterprises-q2-results-today-is-it-a-stock-to-buy-ahead-of-september-quarter-earnings-11762234328331.html
 
-- Stocks to buy: Raja Venkatraman's top picks for 4 November
-  Market expert Raja Venkatraman shares his top three stock picks to buy today, 4 November.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-stock-recommendation-raja-venkatraman-sensex-nifty-11762172719559.html
+- ChatGPT Go now free in India: How it stacks up against Plus, Pro, and other plans
+  OpenAI has made its ChatGPT Go plan free for one year in India. The subscription usually costs  ₹399 per month.
+  🔗 https://www.livemint.com/technology/tech-news/chatgpt-go-now-free-in-india-how-it-stacks-up-against-plus-pro-and-other-plans-11762233347403.html
 
-- Quantum Mutual Fund stages a comeback with a new CEO and revamped strategies; eyes sustainable growth
-  Quantum Mutual Fund, established in 2005, is revamping its strategies under new CEO Seemant Shukla. Its assets under management have increased significantly
-  🔗 https://www.livemint.com/market/quantum-mutual-fund-comeback-new-ceo-revamped-strategies-sustainable-growth-partners-mf-distributors-investment-advisors-11762157662962.html
+- Studio Ghibli-backed group urges Sam Altman's OpenAI to stop using Japanese art in Sora 2 AI training
+  A Japanese trade group representing major publishers, including Studio Ghibli, urged OpenAI to stop using Japanese copyrighted works to train its video generation AI model.
+  🔗 https://www.livemint.com/technology/tech-news/studio-ghibli-backed-group-urges-sam-altmans-openai-to-stop-using-japanese-art-in-sora-2-ai-training-11762230046335.html
 
-- Stock recommendations for 4 November from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 4 November. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-4-november-marketsmith-india-sensex-nifty-mcx-india-glycols-11762172565197.html
+- ChatGPT Go now free for one year: What it offers and how to activate your plan
+  ChatGPT Go subscription will be free for one year in India. Normally priced at  ₹399 per month, it offers access to GPT-5 with enhanced features.
+  🔗 https://www.livemint.com/technology/tech-news/openai-offers-chatgpt-go-free-for-one-year-what-it-offers-and-how-to-activate-your-plan-11762223107562.html
 
 - Google is finally bringing an AI feature to Play Store that Apple and Amazon have had for months
   Google is rolling out AI-generated app review summaries to make it easier for users to assess app reviews on the Play Store. A similar feature has already been part of Apple's
@@ -88,97 +100,105 @@
   Rockstar Games co-founder Dan Houser says GTA's identity is inherently American. While the company had experimented with a London
   🔗 https://www.livemint.com/technology/tech-news/rockstar-games-co-founder-says-gtas-identity-is-americana-inherent-won-t-work-if-set-outside-the-us-11762183187960.html
 
-- New phishing scam on LinkedIn is using fake board offers to steal corporate credentials: here's how
-  A new phishing scam is targetting finance leaders on LinkedIn. It offers them fake
-  🔗 https://www.livemint.com/technology/tech-news/new-phishing-scam-on-linkedin-is-using-fake-board-offers-to-steal-corporate-credentials-heres-how-microsoft-11762181267574.html
+- Asian Stocks to Track Tech Rally After Amazon Deal: Markets Wrap - Bloomberg.com
+  Asian Stocks to Track Tech Rally After Amazon
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxONkhWY2p5dGsyUmQxMV9mcllWZFktSkxxZDIyUTdjZ0d5TWVUaUhmeTM3ZUl0Tjc0eGNQSzBhUkhEYjVZOHNZajFHeUE0OXp0ajdBdlN1Smh4eHBUNGUta0JTSG56SUlCd1JNMzQzX0VfU1F4NWswQi1mNFR0a0pCeF83MDNMdmhyM3BGV3BtMmRQc0NN?oc=5
 
-- Google removes AI model after US Senator accuses it of fabricating rape allegations
-  Google removes Gemma AI model from its AI Studio platform. Republican senator claimed it generated false sexual assault allegations against her.
-  🔗 https://www.livemint.com/technology/tech-news/google-removes-ai-model-after-us-senator-accuses-it-of-fabricating-rape-allegations-11762173770050.html
+- ‘Mag Seven’ Surge as Amazon’s Deal Fuels AI Wagers: Markets Wrap - Bloomberg.com
+  ‘Mag Seven’ Surge as Amazon
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPRG9BVlpqYkdUSTl1VjVJUXd1YUVmbVRMb3Zqb3IwTThTaERaRDZISU13WnI5TVJtY1JHOHRaZEQ4SzNxb21DOW85bVNRWWl3cGN1VEZZdFVzMW56TUZxUFNuWVpueVIzZDh6QVltamZEQUJCYlJMcUtDTFd5VEJJZElidnd5ZElnSXM0dGdoanNQdHM0YlgxeGxEYktDTm1uOXc1MGhtdHR3bmg4alE?oc=5
 
-- Top 5 ergonomic mice to reduce wrist strain and boost productivity
-  We list the 5 best ergonomic mice of the year, including vertical and sculpted
-  🔗 https://www.livemint.com/technology/gadgets/top-5-ergonomic-mice-to-reduce-wrist-strain-and-boost-productivity-11762164613697.html
+- US markets today: Nvidia and AI stocks lift Wall Street even as most shares decline; Dow dips, S&P 500 ne - Times of India
+  Nvidia and AI stocks lift Wall Street even as most shares decline. Dow dips, S&amp
+  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxNQzA5TUF0NnlENE50d2tuOWtTcFF6QkgyOUhxYzl4TzJub3lINzVsem5HbDRTMVRzSHQzdTladVpmOWEwLXllZXUtQTVWUTV2eTFrc0QzeDhjdTQzWk5Rc3dJX0U3QWh6MnhITS1rcDNBeFNyenN2SE4tbGJPRmdNREk4SzRhY3EyYkJZTkNmbElscDFxRjAzVmh4NDZIYVJUd1RpQ24xMV9TMFI4TlppN2p6TV9fTUZiRHZKRlhhdkp6VlgxR2F4RmVobWRLRDZIelhCRHQ2NjlUN2xDTkNfRUtId25RVklDN3Q4YllLZ3dWWEl3bGtRVFBGRm9aM0dPWW9rNzNUeWxoMDFmUVdxMlM5eXA2YU1IbGNXNTRBOU5WZ2VHVS1fRWg5VXFGM1A2MjNfc9IBugJBVV95cUxNUWdvcS1ZNXhNT09TSWhPalY5bU9udFhwblJ6cFdNNFhZYjJsckpKcW9IbUR6VDVmaHppc3dEbXJMdkZVU2xvQ1ZkWktJQ29nQm9QYWhyLS1rc29rRVBDTUh2QUZybkhva2dtandBLWltNkt0YVE5aXBONkJTUlg5VTlhUWd3anFEQzdUa2VKRjB4dnp5YnFxMS1rekR6TWk0SWt5QWpPZzNkeFduNWhxVFhzYV9QN2tRcFI4T05VWFVfQVpUajdNaFRmT1ZCZEQxWkljRmVDU3NzVU1kMkJoOFlhc3RBM0NPbGtXbEs2MlJkU3Q2T25zR0dDZFVyWTVaWEFmLUM3ZkVKS3RKX283RXJDSkwzbHJDSjVQX1BXRUQtV3lndnMtNDdwM254c2JPSE1MeWVNWXp4Zw?oc=5
 
-- Stocks in news: SBI, M&amp;M, Airtel, Adani Enterprises, Power Grid
-  Indian markets showed stability, consolidating after October's gains. Corporate earnings and trade developments are now key drivers. Titan reported strong Q2 profit growth, while Bharti Airtel saw a significant jump.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-sbi-mm-airtel-adani-enterprises-power-grid/articleshow/125072325.cms
+- Brains and stock markets follow the same rules in crisis, study finds - Phys.org
+  Brains and stock markets follow the same rules in
+  🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FSVNOb1BHYVJUcXpXMUdNNnBSQ25XMUxpUWRoSmdfNWRmUHNQSWM3eFA3cld1RXZZOVhmMzlUV2pBTHFwMklXNVVtUlVMWWJpNnU0aGVLZFkzclZsb2NqaWRwT0I?oc=5
 
-- Asian stocks edge lower after Wall Street gains
-  Asian stocks opened lower Tuesday, diverging from Wall Street's tech-driven gains fueled by AI enthusiasm. Traders eyed central bank decisions and economic data, with concerns over high val
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-edge-lower-after-wall-street-gains/articleshow/125072304.cms
+- Stock Market LIVE: Sensex slips 250 pts; Nifty below 25,700; SMIDs drop; Hero MotoCorp plunges 5% - Business Standard
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxPS0hlLXVNSzd3dkJqaVZ5M1h1Mk13UUoya1VVd2VXNlFPMlR2Rjg3N1puZmNhQVhHWkhrVmV2TWNaOFJWVmNTZHhBMGUwakhlVEdfbWFfQ2FxM0Q1VGg3T0lLQkV3cE12OF
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPS0hlLXVNSzd3dkJqaVZ5M1h1Mk13UUoya1VVd2VXNlFPMlR2Rjg3N1puZmNhQVhHWkhrVmV2TWNaOFJWVmNTZHhBMGUwakhlVEdfbWFfQ2FxM0Q1VGg3T0lLQkV3cE12OFpaa09TbklpaE1QWF92MGl6SnRIUTNCZ241OVZic3FRbVBYQlhQb3hjemFWc1NwSHFYWTNRRU5rMXpBX0lQYk5BV2tYTXJSeWxBWVQ4RWg2LXNZUkNKMFdINnFST1VId05MdmNfaVc0REFrNVEyVm5wV1JTbUJ1YjhwdGRJazRwd2xMMmo3clc3d1Y1NmZiQVU1MEZqRkpyMEc4WkFR0gGLAkFVX3lxTE5NRlRhck1qMklqUWh5UVNEcVNnUTVyRzRRMmVkZnFHc2Z3WVRNbkhmdGZmYjl6N0RXR2pBNTNmMElDTjFTMnNHQ3FqdjAtdzhtNThDczB5UklKNlBRVkE5bXhldV9hbUxrTmhSZldIbTVzX3MzcXFCZkRmaTJMLXdyVGJRYzBWYnNOZUxqODVKd05GRFBpVWh0c2hqN193ZkVOYVBIS3pqcHh0V3NvTzN0bGN3aGpOWkNzUVhsdmJDQU5XTUZWUzZ3T0FGX3ZIOTI2ZjMzOHhjMHlfa0FxaDhuZF8tWmpMS2dEcm5DdEhnVVVTN3RES2dFMVF3aEtoelgyUmE0M29HS2NoSQ?oc=5
 
-- BSE shares surge as traders build fresh bullish F&amp;O bets
-  BSE shares surged on Monday following Sebi's assurance against a ban on weekly options. The stock jumped 4% and ended 2.6% higher, with analysts citing trader confidence.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-surge-as-traders-build-fresh-bullish-fo-bets/articleshow/125072285.cms
+- Gold prices hold steady, hover near Rs 1.21 lakh resistance. Expert-approved trade setup inside
+  Gold and silver extended their losses amid strength in the dollar index. Prices opening at Rs 1,20,743/10 grams, lower by Rs 666 or 0.55%.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/gold-prices-hold-steady-hover-near-rs-1-21-lakh-resistance-expert-approved-trade-setup-inside/articleshow/125076470.cms
 
-- Nifty Next 50 poised for catch-up rally as valuations turn attractive
-  Cost-conscious investors can consider the Nifty Next 50 index fund for value in large-cap stocks. This index provides diversification with exposure to unique industries and lower concentration risk.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-next-50-poised-for-catch-up-rally-as-valuations-turn-attractive/articleshow/125072245.cms
+- 3M India shares zoom 13% after reporting 43% YoY surge in Q2 PAT, ICICI Securities raises target price
+  Shares of 3M India surged 13% to Rs 34,700 after reporting a 43% year-on-year rise in Q2FY26 profit to Rs 191 crore. Revenue grew 14%, led by broad-
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/3m-india-shares-zoom-13-after-reporting-43-yoy-surge-in-q2-pat-icici-securities-raises-target-price/articleshow/125076296.cms
 
-- A month without data muddles the economic picture in the US
-  The US economy faces unprecedented uncertainty due to a prolonged government shutdown. This data blackout, the longest in history, leaves economists and policymakers struggling to assess the labor market's health and inflation trends.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/a-month-without-data-muddles-the-economic-picture-in-the-us/articleshow/125072232.cms
+- Thangamayil Jewellery shares rise 19%, up 50% in 4 sessions. What’s fuelling the sharp surge?
+  Thangamayil Jewellery surged 19% to a record high of Rs 3,089. The company reported a net profit of Rs 58.5 crore versus a loss last year. October revenue crossed Rs 1,000 crore for
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/thangamayil-jewellery-shares-rise-19-up-50-in-4-sessions-whats-fuelling-the-sharp-surge/articleshow/125076185.cms
 
-- In Shashi Tharoor's 'direct attack' on Rahul, BJP gets Bihar poll ammo | What Cong MP said on Gandhis, others | Latest News India - Hindustan Times
-  " target="_blank">In Shashi Tharoor's 'direct attack' on Rahul, BJP gets
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMkxPdm1KQzVmRVItbkVkb2hOcThuWlQwZGptMW5qU192RUVmM0ZscWFib1ZDNi1zN1J6WnRHZmtFbzN2UEVDODJOSVFZT0pkVnhxTGlBQ2Q4QWtTZHBRWkJLdmNiWktQa2R4VVJmRmVVcEN2WG1pT0U0NlNfZzhVM05fdk9uUkR4QldnLVJUa0FrbWRRcnB1MEZxRmxkSWpjN0FpQTZaMUs4dnFmOGtQUWQ3LVJZbUhRdkloN05iazJXSmMya3EzTncxWkRBTVdqZVZUbWdGamx3N2FLY3pwUE83S2V5Q2VJNEMtUHpGM01sdWVUWkpfTzBTeWlOd2d2bVIxYk1hcU3SAY4CQVVfeXFMUE9VN3ZMa3dQTldMMkxWaXBKN1VobnVlQWZBVGNPVlNXNGVxSlkxa1B2dGZTYXVaODhKLWZkZ3ZTNkVGbFg0d3dTZGktcU0xZWpGcENSeEttN0U4WjVsaTdxNkdTM05qaGIwMXFlYzdLTktFaGJXbHJCTkxMVm9YcUo1VXZ5U0owSWJOR19aZXRfU0ptSkJDeWRUMFBMMDh0V1Y5S252SWcwLVlMQk1Vdm56SUE3Q0ptYXlySWtpOW84RnNPZ0NFNVA4T0owSFVFSnZVazduTjM4ZVpCUmFSaVNEelJtbHdheEtTUTFTeXdZOS1fSUxQcW82Tmk2a1BiSHE1Nm5FdUZ5NTljV25R?oc=5
+- India bonds rise on likely central bank support; rupee strength
+  Indian government bonds rose in early trading on Tuesday. Speculation of central bank support and the rupee's
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-on-likely-central-bank-support-rupee-strength/articleshow/125076050.cms
 
-- "High Time India Traded Dynasty For Meritocracy": Shashi Tharoor - NDTV
-  "High Time India Traded Dynasty
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmRNclNpVDg0V3gyc09mMGhVc0w3cWtrY3JBbWJhNWJ6VFVyU0gyN1VMMVpTV3B3UUdEU0g0YWlJTmxFTjM0X3hRdk5zaVZhcXJraTBLUnpKS19pbGJnbFBQTFRLcWh2aXlZd2pJVXJGNmZkWk5tSGwtYUhhX0wyZ0pONFNqSEx3dy1XRWJteEhscWUxTjNwNEtqallJT0Vnakww0gGrAUFVX3lxTFB0dzVIOWFtVjJFZC1jaGZ6TUJ3TDhXdWV0aTJzNWtOUkFfQWdSeHQ5enlkcjBkcVpNZEtxM0toSWJvMHdOWHV6d2NxT1BiLWxkcnYydGdOemJSTXQtYXc4TXlrUFAxbFlUWjRVZkJ3b3NFTWhhSkhxdXBwZGZOcU1RRXlDaDZBN3BWeXI0dXlxWGFwTWN4MHkwQXhTcnNWRlNpNDVLSklVOUhlOA?oc=5
+- 4 stocks Ashish Kacholia trimmed in September quarter amid Rs 2,740 crore portfolio reshuffle
+  Kacholia's portfolio currently holds 48 stocks valued over Rs 2,739 crore. He trimmed stakes in Dhabriya Polywood, Fineotex Chemical, Xpro India, and Brand Concepts.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/4-stocks-ashish-kacholia-trimmed-in-september-quarter-amid-rs-2740-crore-portfolio-reshuffle/slideshow/125076015.cms
 
-- "India Needs To Grow Thicker Skin": Shashi Tharoor After Scholar Deported - NDTV
-  "India Needs To Grow Thicker Skin":
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjQxSHpMcTZ6M2NvdkRQNTk2cXR4REQyd2pYMW1BdHF1ZDRNWVJJaDBRT2NDN01GdGNrMTZXSVRPTGU0MnYtTGc3dzNpNktBVE56QnR6QzdOMkpjeGwxTjVMVUFwSFk2RFhySU9yREZxV2VTTklTM2swcTF4RzFfV0hmOG44V255Q3dvZGNrbTlUa3NkTW5Fdjg1YklleGRmMFVmZXRtQjl0VlZvTDctWmMyanpIcHdfdW1zdUVwTnl1VGFqUjVyOTRVVDdsam1SdDBpZEFoVdIB3wFBVV95cUxNZDV5QXV5ZHZpbUlsU2hkMy0tTnVlQnZxMkJlLUpKZElQZVZmN2hMQ1JYMXZITUlQQ3RXT2dyMnFtS1kyMVhXN1VncTBPSExSY09DSXo4Y1NJVll3N05BckJ4TVNYUExUbi1LT0VJbkZUdlVJRnBNSXlyalFaX1FjUlMtRWJPNElydHRlem5qRjlwSzhYajU4YlNDV2V4ZVBza0xJaTNqcFdtR3l4RWlmNk1NNVZvTlV0c3pfcE0zY0ViX1U1endkekV6eFB4UUxwejl0UWs1QURyRC1wNm1J?oc=5
+- "You Know What Happened To Me": BJP Leader's Warning For Shashi Tharoor - NDTV
+  "You Know What Happened To Me": BJP
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblpHdlV4ODBEQUM0eXZnV2x4NHpUNWVubFNVNm9zdXotMkQ2S2JSNHIxLVo3YUljSC0tR3gtUDhvS0Rwak5jc3BPaldaMmJzd0lSbnplMVNFRGFfMmRWcVItT2VkRmFMVU4wd0dNazFwMzExMGl0VDQ5WXY0aGhFU2phdGkyenpBQVhNZEJBZGZjbFFCRnlpLV9vdFpwNFoyczF3a1FZSnl5TzB1UjllR3plUkUxcDZnMFJ0eFRaS0JpV1A1RFZCZHN4ckpnOGdsVWRkQVJ1VGbSAeABQVVfeXFMTlFndlRmNXB3UjFSRl9oN1paemRjakwzWTVqZXNtNkxKSXo4ZXhraUVSS045aF9laWs5VnVma3pVWVJtZ0xZWG1XVFBwX2Y4VC1KSE1YcS14dDRKUXl4Ul9ac19QdmV2WGNIVjFGRFVTaWZqempnQnhTWkd4ZEVzWmVJWEp1ZVJwRHdJX0t5d2NaNW00aENHOHJ3OGhRWTRvWldZeUZsbkJPQkxxaDNxb3B4c1l6U0lzRUdJNzZGRkVoNm8wNjNrZ1EydEU4RVFnclUwaFVjYkp4MHFNOXk1Skw?oc=5
 
-- Tariff effect now showing in data: India's US exports dip sharply, analysis lists risks | Latest News India - Hindustan Times
-  Tariff effect now showing in data: India's US exports dip sharply. Analysis lists
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNEZ5SW9pMjh3WUpKYWZaaHg3YXptU3ZpblptakZXSnF6LW56UTktNm5IZXpMVk5pal9tdGhKckJJbFhtaVgyc3dvV1N4M1I1NVlPY0N3YkMtNHB2aDRTNlVIT0lGUHJMTTlILWVxZWFHRlZreG1LYW1KZ2JiQmZwZ0NaMU1NWl8zaEo2cWZMVmtMQjhmV29ic1VVd2FTek82WGtUalNCeHNGeFJ1cy1zME84MW1yY01UQmpRX0lrSWZxYnF2Q3lmMlRQOXRSM08wa3NXdnhvSnpYWm1HdUZDV9IB5gFBVV95cUxNUGNLa1JLa0hJaF8tNWJrcS1YQV85SlhHRzN0MS16cDFEYkRTRDNMeF9mNnVDcGtXTDg4OUR5UTZOZUpUQlJGNGlUNEhpU1M3MXN5NlprV0tTZWNWdHp0elNvQ25RdWVzaUtJSVZOS0g4eXNQNHMtYi1WeVFoSGFlVEx6NGVDT1J4ZHdHelN4d2tYT1dpTGp6TzhiQjVUSWxkdW1LbC00Q0lJVjUxMTlpaHJVTUlEdmNwRmdCTmU1N0RWaXcySmJrR0x3TFpJdTdUOWFSNkZGNjlldkVKS0x5YjItdmlyZw?oc=5
+- Shashi Tharoor earns rare praise from BJP after piece on Nehru-Gandhi dynasty | Who said what | Latest News India - Hindustan Times
+  Shashi Tharoor's piece on Nehru-Gandhi dynasty was published in
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVUpURWNMYVA1YjU5UWplRGVjVmtXajVjdjBJMFBOd0plZzZDQjdlUkhlRk9NVkNlb1hJZldaMTRnNGxEZGdPdmdnbDI5TFlxVURjRVNIQ3NzdlRUeE9tNkhkeVQzWmJwQ0VrZkxaUUkxX3R6SzhMWkhFdXgza21lRWs1a042RGNKQmgyWmlESEpnOHB2TS00dHFCUVVBenpJUkYyMHBQaWFGcWp0WDZPTzk3Vnc3Y3VuQkdYaXRWblB1LTRrMUNqTk1xd0xVYVg2c2hlZGNPRVBaREZwOXhMc19QeVZfRDJMVUdtVDUxZl9tRV9xMlFROTlsUdIBgAJBVV95cUxOSjFFNW1wVDZEVXMzSU82NF8wbUs4dm01WExKaDl5RHIwMVE2dDJwZENxelNXMjFQaGV1Qnh3b0hrM19rNDdhelFjVVlmckwwbXp0WFA4MGRQc2hZREVRQ1dKSEZUcnIycURFVVlDeDFEMXNXY2R5X3lyWnhqWkp2cnh1YVJaTndDaXZFWFpOUk9mME9haV9VVkpPeWFLYnlRbFljZHFqOEwya1pqeXIyNnZUZVVtSm4tZ0NBV3N2dXBPRV8xdno0bFVKWDNhRnF0c0NVR2FDRXdVWmFTOFMyXzJRMF9NanlLRFdaSVpOajZCMlZFVUtOVXUyM1libW9Z?oc=5
 
-- School assembly news headlines, November 4: Top India, world, sports, business news - India Today
-  School assembly news headlines, November 4: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWZQRzE0NVNNUG1UTTNXcXlUWWxoaVhFNTVrN0pwWDl5U0hqNHRBTk5ORXpTWDRHSjhETTU5OHpCWXRvWmQ1NGxVX3V3ZDR1c3JkMWdmcmhNNEotT1QxMXlCYVRrNFZDRzdJZWRNN2lJZ21hWmVKSDBGeHpKUm5xNDFCMDh2MFI2Ymg3WG5ZWXljS0dYaEc5ZjRpa0NneHdoWTB2VWtvMnpBV2F4NUV2MEF0cGNUMk5SYzRVc1VzcFI0T3ZuMDUzUUkzVko0SlN5ZjlZSTdpT1RVQ1hYOVM5SlhJdDPSAeoBQVVfeXFMUHNBVmNUX0toM3hWTXd1VG4yZlg3TUk5Rnc1SHFfdWZuSlpnUjFYN3B6RG9NMW1lY1JqdGlPTF9DRVVIY0VYaVBKeTl6YnlLaDd2Z21PRnZkX3N1WmxrbzFQcjVjWDlkOVJPanlQRHJXckFYd1Y1UnVQOG5yQmpuNGZjUFZfTEVKX2dLVzhucWNBNG1lTU42aUdpelRxNkRjeDdoVkdzZXdjRk5oajdaTkRGZ3g3MjRoQWpMODR4cWZTd1IxUFZtMHVHN2xiVmp2VmQweEJiYWZMWmduLW9CUFN4NHJyY0lGU0xR?oc=5
-
-- In Shashi Tharoor's 'direct attack' on Rahul, BJP gets Bihar poll ammo | What Cong MP said on Gandhis, others | Latest News India - Hindustan Times
-  " target="_blank">In Shashi Tharoor's 'direct attack' on Rahul, BJP gets
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMkxPdm1KQzVmRVItbkVkb2hOcThuWlQwZGptMW5qU192RUVmM0ZscWFib1ZDNi1zN1J6WnRHZmtFbzN2UEVDODJOSVFZT0pkVnhxTGlBQ2Q4QWtTZHBRWkJLdmNiWktQa2R4VVJmRmVVcEN2WG1pT0U0NlNfZzhVM05fdk9uUkR4QldnLVJUa0FrbWRRcnB1MEZxRmxkSWpjN0FpQTZaMUs4dnFmOGtQUWQ3LVJZbUhRdkloN05iazJXSmMya3EzTncxWkRBTVdqZVZUbWdGamx3N2FLY3pwUE83S2V5Q2VJNEMtUHpGM01sdWVUWkpfTzBTeWlOd2d2bVIxYk1hcU3SAY4CQVVfeXFMUE9VN3ZMa3dQTldMMkxWaXBKN1VobnVlQWZBVGNPVlNXNGVxSlkxa1B2dGZTYXVaODhKLWZkZ3ZTNkVGbFg0d3dTZGktcU0xZWpGcENSeEttN0U4WjVsaTdxNkdTM05qaGIwMXFlYzdLTktFaGJXbHJCTkxMVm9YcUo1VXZ5U0owSWJOR19aZXRfU0ptSkJDeWRUMFBMMDh0V1Y5S252SWcwLVlMQk1Vdm56SUE3Q0ptYXlySWtpOW84RnNPZ0NFNVA4T0owSFVFSnZVazduTjM4ZVpCUmFSaVNEelJtbHdheEtTUTFTeXdZOS1fSUxQcW82Tmk2a1BiSHE1Nm5FdUZ5NTljV25R?oc=5
-
-- "High Time India Traded Dynasty For Meritocracy": Shashi Tharoor - NDTV
-  "High Time India Traded Dynasty
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmRNclNpVDg0V3gyc09mMGhVc0w3cWtrY3JBbWJhNWJ6VFVyU0gyN1VMMVpTV3B3UUdEU0g0YWlJTmxFTjM0X3hRdk5zaVZhcXJraTBLUnpKS19pbGJnbFBQTFRLcWh2aXlZd2pJVXJGNmZkWk5tSGwtYUhhX0wyZ0pONFNqSEx3dy1XRWJteEhscWUxTjNwNEtqallJT0Vnakww0gGrAUFVX3lxTFB0dzVIOWFtVjJFZC1jaGZ6TUJ3TDhXdWV0aTJzNWtOUkFfQWdSeHQ5enlkcjBkcVpNZEtxM0toSWJvMHdOWHV6d2NxT1BiLWxkcnYydGdOemJSTXQtYXc4TXlrUFAxbFlUWjRVZkJ3b3NFTWhhSkhxdXBwZGZOcU1RRXlDaDZBN3BWeXI0dXlxWGFwTWN4MHkwQXhTcnNWRlNpNDVLSklVOUhlOA?oc=5
-
-- "India Needs To Grow Thicker Skin": Shashi Tharoor After Scholar Deported - NDTV
-  "India Needs To Grow Thicker Skin":
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjQxSHpMcTZ6M2NvdkRQNTk2cXR4REQyd2pYMW1BdHF1ZDRNWVJJaDBRT2NDN01GdGNrMTZXSVRPTGU0MnYtTGc3dzNpNktBVE56QnR6QzdOMkpjeGwxTjVMVUFwSFk2RFhySU9yREZxV2VTTklTM2swcTF4RzFfV0hmOG44V255Q3dvZGNrbTlUa3NkTW5Fdjg1YklleGRmMFVmZXRtQjl0VlZvTDctWmMyanpIcHdfdW1zdUVwTnl1VGFqUjVyOTRVVDdsam1SdDBpZEFoVdIB3wFBVV95cUxNZDV5QXV5ZHZpbUlsU2hkMy0tTnVlQnZxMkJlLUpKZElQZVZmN2hMQ1JYMXZITUlQQ3RXT2dyMnFtS1kyMVhXN1VncTBPSExSY09DSXo4Y1NJVll3N05BckJ4TVNYUExUbi1LT0VJbkZUdlVJRnBNSXlyalFaX1FjUlMtRWJPNElydHRlem5qRjlwSzhYajU4YlNDV2V4ZVBza0xJaTNqcFdtR3l4RWlmNk1NNVZvTlV0c3pfcE0zY0ViX1U1endkekV6eFB4UUxwejl0UWs1QURyRC1wNm1J?oc=5
-
-- Tariff effect now showing in data: India's US exports dip sharply, analysis lists risks | Latest News India - Hindustan Times
-  Tariff effect now showing in data: India's US exports dip sharply. Analysis lists
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNEZ5SW9pMjh3WUpKYWZaaHg3YXptU3ZpblptakZXSnF6LW56UTktNm5IZXpMVk5pal9tdGhKckJJbFhtaVgyc3dvV1N4M1I1NVlPY0N3YkMtNHB2aDRTNlVIT0lGUHJMTTlILWVxZWFHRlZreG1LYW1KZ2JiQmZwZ0NaMU1NWl8zaEo2cWZMVmtMQjhmV29ic1VVd2FTek82WGtUalNCeHNGeFJ1cy1zME84MW1yY01UQmpRX0lrSWZxYnF2Q3lmMlRQOXRSM08wa3NXdnhvSnpYWm1HdUZDV9IB5gFBVV95cUxNUGNLa1JLa0hJaF8tNWJrcS1YQV85SlhHRzN0MS16cDFEYkRTRDNMeF9mNnVDcGtXTDg4OUR5UTZOZUpUQlJGNGlUNEhpU1M3MXN5NlprV0tTZWNWdHp0elNvQ25RdWVzaUtJSVZOS0g4eXNQNHMtYi1WeVFoSGFlVEx6NGVDT1J4ZHdHelN4d2tYT1dpTGp6TzhiQjVUSWxkdW1LbC00Q0lJVjUxMTlpaHJVTUlEdmNwRmdCTmU1N0RWaXcySmJrR0x3TFpJdTdUOWFSNkZGNjlldkVKS0x5YjItdmlyZw?oc=5
+- India’s IT dream is at a crossroads - The Hindu
+  India’s IT dream
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGZMazdGWTl5Q0t6VDV6ZU9EaW5iSEt0T2FGQ1Q5aEhlU2huR2NsdkRfOE1NNzdGdERqS2VMUDdQSnZDMzd0TnZLSUFoQ2RsTGdaazBEczNTTWhBb1dTS1FBazVWbUNicmM4al9IcWRxcjBhX3RrcEZZRVBHSFlUeEZwLWFSWlp0ZVVDQ3NtLWFwM0dUVmtCYtIBnwFBVV95cUxQd1JuYVN6VENFZ1RKdEZmemFhdUpKY1JRUXNlLVJrZUt3eTQ2QzhZYVFSZVdrWmtZUmdWcnRCOTRMUlVHOTlpOUs4VnhSTGlweHdQS3BJUDVJck52bTk3VDdrOW52d0E3SnA5OEZuNUc4cExtcXl5aEdfV2V5aWtURjZSWTROVFhrU1Ryck9WU2ZybUJlOVdQWWtfdGlOckE?oc=5
 
 - School assembly news headlines, November 4: Top India, world, sports, business news - India Today
   School assembly news headlines, November 4: Top India,
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWZQRzE0NVNNUG1UTTNXcXlUWWxoaVhFNTVrN0pwWDl5U0hqNHRBTk5ORXpTWDRHSjhETTU5OHpCWXRvWmQ1NGxVX3V3ZDR1c3JkMWdmcmhNNEotT1QxMXlCYVRrNFZDRzdJZWRNN2lJZ21hWmVKSDBGeHpKUm5xNDFCMDh2MFI2Ymg3WG5ZWXljS0dYaEc5ZjRpa0NneHdoWTB2VWtvMnpBV2F4NUV2MEF0cGNUMk5SYzRVc1VzcFI0T3ZuMDUzUUkzVko0SlN5ZjlZSTdpT1RVQ1hYOVM5SlhJdDPSAeoBQVVfeXFMUHNBVmNUX0toM3hWTXd1VG4yZlg3TUk5Rnc1SHFfdWZuSlpnUjFYN3B6RG9NMW1lY1JqdGlPTF9DRVVIY0VYaVBKeTl6YnlLaDd2Z21PRnZkX3N1WmxrbzFQcjVjWDlkOVJPanlQRHJXckFYd1Y1UnVQOG5yQmpuNGZjUFZfTEVKX2dLVzhucWNBNG1lTU42aUdpelRxNkRjeDdoVkdzZXdjRk5oajdaTkRGZ3g3MjRoQWpMODR4cWZTd1IxUFZtMHVHN2xiVmp2VmQweEJiYWZMWmduLW9CUFN4NHJyY0lGU0xR?oc=5
 
-- In Shashi Tharoor's 'direct attack' on Rahul, BJP gets Bihar poll ammo | What Cong MP said on Gandhis, others | Latest News India - Hindustan Times
-  " target="_blank">In Shashi Tharoor's 'direct attack' on Rahul, BJP gets
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMkxPdm1KQzVmRVItbkVkb2hOcThuWlQwZGptMW5qU192RUVmM0ZscWFib1ZDNi1zN1J6WnRHZmtFbzN2UEVDODJOSVFZT0pkVnhxTGlBQ2Q4QWtTZHBRWkJLdmNiWktQa2R4VVJmRmVVcEN2WG1pT0U0NlNfZzhVM05fdk9uUkR4QldnLVJUa0FrbWRRcnB1MEZxRmxkSWpjN0FpQTZaMUs4dnFmOGtQUWQ3LVJZbUhRdkloN05iazJXSmMya3EzTncxWkRBTVdqZVZUbWdGamx3N2FLY3pwUE83S2V5Q2VJNEMtUHpGM01sdWVUWkpfTzBTeWlOd2d2bVIxYk1hcU3SAY4CQVVfeXFMUE9VN3ZMa3dQTldMMkxWaXBKN1VobnVlQWZBVGNPVlNXNGVxSlkxa1B2dGZTYXVaODhKLWZkZ3ZTNkVGbFg0d3dTZGktcU0xZWpGcENSeEttN0U4WjVsaTdxNkdTM05qaGIwMXFlYzdLTktFaGJXbHJCTkxMVm9YcUo1VXZ5U0owSWJOR19aZXRfU0ptSkJDeWRUMFBMMDh0V1Y5S252SWcwLVlMQk1Vdm56SUE3Q0ptYXlySWtpOW84RnNPZ0NFNVA4T0owSFVFSnZVazduTjM4ZVpCUmFSaVNEelJtbHdheEtTUTFTeXdZOS1fSUxQcW82Tmk2a1BiSHE1Nm5FdUZ5NTljV25R?oc=5
+- After Western Front's 'Trishul', Indian Forces Look East For War Game 'Poorvi Prachand Prahar' - News18
+  'Trishul', Indian Forces Look East For War Game
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN3htdGg1ZVd5RVlyMTJabk5MT2JYZkFMRlFjNXZVeXV4Um00QlZhZlB4dnVPVHNCNlBQT1A0SlF3bmpiSnZSbHc5QkprV09WcE1RM3prb0JvVFhoWWtqNTBhZjNNeTh3RGZVQ1RCb3FMaWI1YWZ1VER1cHdLOVNNd3VuZnR6clJYOUNoMkdXUmVYY2RnS2NJNjR5NThsUlRjZURLNS1OUHpVTDk0WjVJNW5VMHhScFdLV0FKQzNKbWYyV2dORVBXQ21CMmw1Q1djYl8wdGdhR3lLMHPSAeABQVVfeXFMT2RKWWJjb2FiRklOUjFHU1hONHlwSkJXOEl1SmlnZlQ4U05TMGpUdk5iUVYtdW83XzdhSmxtbEhpUC0tNHJneVJFeFVZMEktYkVMWE9RQ2tMdmR1dFBiWjFLd0wxOHN3MjNRd09xVlFNU2JTa0tlVkUtMU9pZm5sb3UtTjJPYkFiQUVtMW9rZzJ5MGloZ29TcDNCOXJWaTJaU19sSGFrRF9zcFRQYnpFaGFDdjBrY29CVEljVTZtUndtazNGMjl1MDdKaHI3ZVVwZHRSTzRmQlhadHUwLVZYY2k?oc=5
 
-- "High Time India Traded Dynasty For Meritocracy": Shashi Tharoor - NDTV
-  "High Time India Traded Dynasty
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmRNclNpVDg0V3gyc09mMGhVc0w3cWtrY3JBbWJhNWJ6VFVyU0gyN1VMMVpTV3B3UUdEU0g0YWlJTmxFTjM0X3hRdk5zaVZhcXJraTBLUnpKS19pbGJnbFBQTFRLcWh2aXlZd2pJVXJGNmZkWk5tSGwtYUhhX0wyZ0pONFNqSEx3dy1XRWJteEhscWUxTjNwNEtqallJT0Vnakww0gGrAUFVX3lxTFB0dzVIOWFtVjJFZC1jaGZ6TUJ3TDhXdWV0aTJzNWtOUkFfQWdSeHQ5enlkcjBkcVpNZEtxM0toSWJvMHdOWHV6d2NxT1BiLWxkcnYydGdOemJSTXQtYXc4TXlrUFAxbFlUWjRVZkJ3b3NFTWhhSkhxdXBwZGZOcU1RRXlDaDZBN3BWeXI0dXlxWGFwTWN4MHkwQXhTcnNWRlNpNDVLSklVOUhlOA?oc=5
+- "You Know What Happened To Me": BJP Leader's Warning For Shashi Tharoor - NDTV
+  "You Know What Happened To Me": BJP
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblpHdlV4ODBEQUM0eXZnV2x4NHpUNWVubFNVNm9zdXotMkQ2S2JSNHIxLVo3YUljSC0tR3gtUDhvS0Rwak5jc3BPaldaMmJzd0lSbnplMVNFRGFfMmRWcVItT2VkRmFMVU4wd0dNazFwMzExMGl0VDQ5WXY0aGhFU2phdGkyenpBQVhNZEJBZGZjbFFCRnlpLV9vdFpwNFoyczF3a1FZSnl5TzB1UjllR3plUkUxcDZnMFJ0eFRaS0JpV1A1RFZCZHN4ckpnOGdsVWRkQVJ1VGbSAeABQVVfeXFMTlFndlRmNXB3UjFSRl9oN1paemRjakwzWTVqZXNtNkxKSXo4ZXhraUVSS045aF9laWs5VnVma3pVWVJtZ0xZWG1XVFBwX2Y4VC1KSE1YcS14dDRKUXl4Ul9ac19QdmV2WGNIVjFGRFVTaWZqempnQnhTWkd4ZEVzWmVJWEp1ZVJwRHdJX0t5d2NaNW00aENHOHJ3OGhRWTRvWldZeUZsbkJPQkxxaDNxb3B4c1l6U0lzRUdJNzZGRkVoNm8wNjNrZ1EydEU4RVFnclUwaFVjYkp4MHFNOXk1Skw?oc=5
 
-- "India Needs To Grow Thicker Skin": Shashi Tharoor After Scholar Deported - NDTV
-  "India Needs To Grow Thicker Skin":
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjQxSHpMcTZ6M2NvdkRQNTk2cXR4REQyd2pYMW1BdHF1ZDRNWVJJaDBRT2NDN01GdGNrMTZXSVRPTGU0MnYtTGc3dzNpNktBVE56QnR6QzdOMkpjeGwxTjVMVUFwSFk2RFhySU9yREZxV2VTTklTM2swcTF4RzFfV0hmOG44V255Q3dvZGNrbTlUa3NkTW5Fdjg1YklleGRmMFVmZXRtQjl0VlZvTDctWmMyanpIcHdfdW1zdUVwTnl1VGFqUjVyOTRVVDdsam1SdDBpZEFoVdIB3wFBVV95cUxNZDV5QXV5ZHZpbUlsU2hkMy0tTnVlQnZxMkJlLUpKZElQZVZmN2hMQ1JYMXZITUlQQ3RXT2dyMnFtS1kyMVhXN1VncTBPSExSY09DSXo4Y1NJVll3N05BckJ4TVNYUExUbi1LT0VJbkZUdlVJRnBNSXlyalFaX1FjUlMtRWJPNElydHRlem5qRjlwSzhYajU4YlNDV2V4ZVBza0xJaTNqcFdtR3l4RWlmNk1NNVZvTlV0c3pfcE0zY0ViX1U1endkekV6eFB4UUxwejl0UWs1QURyRC1wNm1J?oc=5
+- Shashi Tharoor earns rare praise from BJP after piece on Nehru-Gandhi dynasty | Who said what | Latest News India - Hindustan Times
+  Shashi Tharoor's piece on Nehru-Gandhi dynasty was published in
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVUpURWNMYVA1YjU5UWplRGVjVmtXajVjdjBJMFBOd0plZzZDQjdlUkhlRk9NVkNlb1hJZldaMTRnNGxEZGdPdmdnbDI5TFlxVURjRVNIQ3NzdlRUeE9tNkhkeVQzWmJwQ0VrZkxaUUkxX3R6SzhMWkhFdXgza21lRWs1a042RGNKQmgyWmlESEpnOHB2TS00dHFCUVVBenpJUkYyMHBQaWFGcWp0WDZPTzk3Vnc3Y3VuQkdYaXRWblB1LTRrMUNqTk1xd0xVYVg2c2hlZGNPRVBaREZwOXhMc19QeVZfRDJMVUdtVDUxZl9tRV9xMlFROTlsUdIBgAJBVV95cUxOSjFFNW1wVDZEVXMzSU82NF8wbUs4dm01WExKaDl5RHIwMVE2dDJwZENxelNXMjFQaGV1Qnh3b0hrM19rNDdhelFjVVlmckwwbXp0WFA4MGRQc2hZREVRQ1dKSEZUcnIycURFVVlDeDFEMXNXY2R5X3lyWnhqWkp2cnh1YVJaTndDaXZFWFpOUk9mME9haV9VVkpPeWFLYnlRbFljZHFqOEwya1pqeXIyNnZUZVVtSm4tZ0NBV3N2dXBPRV8xdno0bFVKWDNhRnF0c0NVR2FDRXdVWmFTOFMyXzJRMF9NanlLRFdaSVpOajZCMlZFVUtOVXUyM1libW9Z?oc=5
 
-- Tariff effect now showing in data: India's US exports dip sharply, analysis lists risks | Latest News India - Hindustan Times
-  Tariff effect now showing in data: India's US exports dip sharply. Analysis lists
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNEZ5SW9pMjh3WUpKYWZaaHg3YXptU3ZpblptakZXSnF6LW56UTktNm5IZXpMVk5pal9tdGhKckJJbFhtaVgyc3dvV1N4M1I1NVlPY0N3YkMtNHB2aDRTNlVIT0lGUHJMTTlILWVxZWFHRlZreG1LYW1KZ2JiQmZwZ0NaMU1NWl8zaEo2cWZMVmtMQjhmV29ic1VVd2FTek82WGtUalNCeHNGeFJ1cy1zME84MW1yY01UQmpRX0lrSWZxYnF2Q3lmMlRQOXRSM08wa3NXdnhvSnpYWm1HdUZDV9IB5gFBVV95cUxNUGNLa1JLa0hJaF8tNWJrcS1YQV85SlhHRzN0MS16cDFEYkRTRDNMeF9mNnVDcGtXTDg4OUR5UTZOZUpUQlJGNGlUNEhpU1M3MXN5NlprV0tTZWNWdHp0elNvQ25RdWVzaUtJSVZOS0g4eXNQNHMtYi1WeVFoSGFlVEx6NGVDT1J4ZHdHelN4d2tYT1dpTGp6TzhiQjVUSWxkdW1LbC00Q0lJVjUxMTlpaHJVTUlEdmNwRmdCTmU1N0RWaXcySmJrR0x3TFpJdTdUOWFSNkZGNjlldkVKS0x5YjItdmlyZw?oc=5
+- India’s IT dream is at a crossroads - The Hindu
+  India’s IT dream
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGZMazdGWTl5Q0t6VDV6ZU9EaW5iSEt0T2FGQ1Q5aEhlU2huR2NsdkRfOE1NNzdGdERqS2VMUDdQSnZDMzd0TnZLSUFoQ2RsTGdaazBEczNTTWhBb1dTS1FBazVWbUNicmM4al9IcWRxcjBhX3RrcEZZRVBHSFlUeEZwLWFSWlp0ZVVDQ3NtLWFwM0dUVmtCYtIBnwFBVV95cUxQd1JuYVN6VENFZ1RKdEZmemFhdUpKY1JRUXNlLVJrZUt3eTQ2QzhZYVFSZVdrWmtZUmdWcnRCOTRMUlVHOTlpOUs4VnhSTGlweHdQS3BJUDVJck52bTk3VDdrOW52d0E3SnA5OEZuNUc4cExtcXl5aEdfV2V5aWtURjZSWTROVFhrU1Ryck9WU2ZybUJlOVdQWWtfdGlOckE?oc=5
 
 - School assembly news headlines, November 4: Top India, world, sports, business news - India Today
   School assembly news headlines, November 4: Top India,
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWZQRzE0NVNNUG1UTTNXcXlUWWxoaVhFNTVrN0pwWDl5U0hqNHRBTk5ORXpTWDRHSjhETTU5OHpCWXRvWmQ1NGxVX3V3ZDR1c3JkMWdmcmhNNEotT1QxMXlCYVRrNFZDRzdJZWRNN2lJZ21hWmVKSDBGeHpKUm5xNDFCMDh2MFI2Ymg3WG5ZWXljS0dYaEc5ZjRpa0NneHdoWTB2VWtvMnpBV2F4NUV2MEF0cGNUMk5SYzRVc1VzcFI0T3ZuMDUzUUkzVko0SlN5ZjlZSTdpT1RVQ1hYOVM5SlhJdDPSAeoBQVVfeXFMUHNBVmNUX0toM3hWTXd1VG4yZlg3TUk5Rnc1SHFfdWZuSlpnUjFYN3B6RG9NMW1lY1JqdGlPTF9DRVVIY0VYaVBKeTl6YnlLaDd2Z21PRnZkX3N1WmxrbzFQcjVjWDlkOVJPanlQRHJXckFYd1Y1UnVQOG5yQmpuNGZjUFZfTEVKX2dLVzhucWNBNG1lTU42aUdpelRxNkRjeDdoVkdzZXdjRk5oajdaTkRGZ3g3MjRoQWpMODR4cWZTd1IxUFZtMHVHN2xiVmp2VmQweEJiYWZMWmduLW9CUFN4NHJyY0lGU0xR?oc=5
+
+- After Western Front's 'Trishul', Indian Forces Look East For War Game 'Poorvi Prachand Prahar' - News18
+  'Trishul', Indian Forces Look East For War Game
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN3htdGg1ZVd5RVlyMTJabk5MT2JYZkFMRlFjNXZVeXV4Um00QlZhZlB4dnVPVHNCNlBQT1A0SlF3bmpiSnZSbHc5QkprV09WcE1RM3prb0JvVFhoWWtqNTBhZjNNeTh3RGZVQ1RCb3FMaWI1YWZ1VER1cHdLOVNNd3VuZnR6clJYOUNoMkdXUmVYY2RnS2NJNjR5NThsUlRjZURLNS1OUHpVTDk0WjVJNW5VMHhScFdLV0FKQzNKbWYyV2dORVBXQ21CMmw1Q1djYl8wdGdhR3lLMHPSAeABQVVfeXFMT2RKWWJjb2FiRklOUjFHU1hONHlwSkJXOEl1SmlnZlQ4U05TMGpUdk5iUVYtdW83XzdhSmxtbEhpUC0tNHJneVJFeFVZMEktYkVMWE9RQ2tMdmR1dFBiWjFLd0wxOHN3MjNRd09xVlFNU2JTa0tlVkUtMU9pZm5sb3UtTjJPYkFiQUVtMW9rZzJ5MGloZ29TcDNCOXJWaTJaU19sSGFrRF9zcFRQYnpFaGFDdjBrY29CVEljVTZtUndtazNGMjl1MDdKaHI3ZVVwZHRSTzRmQlhadHUwLVZYY2k?oc=5
+
+- "You Know What Happened To Me": BJP Leader's Warning For Shashi Tharoor - NDTV
+  "You Know What Happened To Me": BJP
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblpHdlV4ODBEQUM0eXZnV2x4NHpUNWVubFNVNm9zdXotMkQ2S2JSNHIxLVo3YUljSC0tR3gtUDhvS0Rwak5jc3BPaldaMmJzd0lSbnplMVNFRGFfMmRWcVItT2VkRmFMVU4wd0dNazFwMzExMGl0VDQ5WXY0aGhFU2phdGkyenpBQVhNZEJBZGZjbFFCRnlpLV9vdFpwNFoyczF3a1FZSnl5TzB1UjllR3plUkUxcDZnMFJ0eFRaS0JpV1A1RFZCZHN4ckpnOGdsVWRkQVJ1VGbSAeABQVVfeXFMTlFndlRmNXB3UjFSRl9oN1paemRjakwzWTVqZXNtNkxKSXo4ZXhraUVSS045aF9laWs5VnVma3pVWVJtZ0xZWG1XVFBwX2Y4VC1KSE1YcS14dDRKUXl4Ul9ac19QdmV2WGNIVjFGRFVTaWZqempnQnhTWkd4ZEVzWmVJWEp1ZVJwRHdJX0t5d2NaNW00aENHOHJ3OGhRWTRvWldZeUZsbkJPQkxxaDNxb3B4c1l6U0lzRUdJNzZGRkVoNm8wNjNrZ1EydEU4RVFnclUwaFVjYkp4MHFNOXk1Skw?oc=5
+
+- Shashi Tharoor earns rare praise from BJP after piece on Nehru-Gandhi dynasty | Who said what | Latest News India - Hindustan Times
+  Shashi Tharoor's piece on Nehru-Gandhi dynasty was published in
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVUpURWNMYVA1YjU5UWplRGVjVmtXajVjdjBJMFBOd0plZzZDQjdlUkhlRk9NVkNlb1hJZldaMTRnNGxEZGdPdmdnbDI5TFlxVURjRVNIQ3NzdlRUeE9tNkhkeVQzWmJwQ0VrZkxaUUkxX3R6SzhMWkhFdXgza21lRWs1a042RGNKQmgyWmlESEpnOHB2TS00dHFCUVVBenpJUkYyMHBQaWFGcWp0WDZPTzk3Vnc3Y3VuQkdYaXRWblB1LTRrMUNqTk1xd0xVYVg2c2hlZGNPRVBaREZwOXhMc19QeVZfRDJMVUdtVDUxZl9tRV9xMlFROTlsUdIBgAJBVV95cUxOSjFFNW1wVDZEVXMzSU82NF8wbUs4dm01WExKaDl5RHIwMVE2dDJwZENxelNXMjFQaGV1Qnh3b0hrM19rNDdhelFjVVlmckwwbXp0WFA4MGRQc2hZREVRQ1dKSEZUcnIycURFVVlDeDFEMXNXY2R5X3lyWnhqWkp2cnh1YVJaTndDaXZFWFpOUk9mME9haV9VVkpPeWFLYnlRbFljZHFqOEwya1pqeXIyNnZUZVVtSm4tZ0NBV3N2dXBPRV8xdno0bFVKWDNhRnF0c0NVR2FDRXdVWmFTOFMyXzJRMF9NanlLRFdaSVpOajZCMlZFVUtOVXUyM1libW9Z?oc=5
+
+- India’s IT dream is at a crossroads - The Hindu
+  India’s IT dream
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGZMazdGWTl5Q0t6VDV6ZU9EaW5iSEt0T2FGQ1Q5aEhlU2huR2NsdkRfOE1NNzdGdERqS2VMUDdQSnZDMzd0TnZLSUFoQ2RsTGdaazBEczNTTWhBb1dTS1FBazVWbUNicmM4al9IcWRxcjBhX3RrcEZZRVBHSFlUeEZwLWFSWlp0ZVVDQ3NtLWFwM0dUVmtCYtIBnwFBVV95cUxQd1JuYVN6VENFZ1RKdEZmemFhdUpKY1JRUXNlLVJrZUt3eTQ2QzhZYVFSZVdrWmtZUmdWcnRCOTRMUlVHOTlpOUs4VnhSTGlweHdQS3BJUDVJck52bTk3VDdrOW52d0E3SnA5OEZuNUc4cExtcXl5aEdfV2V5aWtURjZSWTROVFhrU1Ryck9WU2ZybUJlOVdQWWtfdGlOckE?oc=5
+
+- School assembly news headlines, November 4: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 4: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWZQRzE0NVNNUG1UTTNXcXlUWWxoaVhFNTVrN0pwWDl5U0hqNHRBTk5ORXpTWDRHSjhETTU5OHpCWXRvWmQ1NGxVX3V3ZDR1c3JkMWdmcmhNNEotT1QxMXlCYVRrNFZDRzdJZWRNN2lJZ21hWmVKSDBGeHpKUm5xNDFCMDh2MFI2Ymg3WG5ZWXljS0dYaEc5ZjRpa0NneHdoWTB2VWtvMnpBV2F4NUV2MEF0cGNUMk5SYzRVc1VzcFI0T3ZuMDUzUUkzVko0SlN5ZjlZSTdpT1RVQ1hYOVM5SlhJdDPSAeoBQVVfeXFMUHNBVmNUX0toM3hWTXd1VG4yZlg3TUk5Rnc1SHFfdWZuSlpnUjFYN3B6RG9NMW1lY1JqdGlPTF9DRVVIY0VYaVBKeTl6YnlLaDd2Z21PRnZkX3N1WmxrbzFQcjVjWDlkOVJPanlQRHJXckFYd1Y1UnVQOG5yQmpuNGZjUFZfTEVKX2dLVzhucWNBNG1lTU42aUdpelRxNkRjeDdoVkdzZXdjRk5oajdaTkRGZ3g3MjRoQWpMODR4cWZTd1IxUFZtMHVHN2xiVmp2VmQweEJiYWZMWmduLW9CUFN4NHJyY0lGU0xR?oc=5
+
+- After Western Front's 'Trishul', Indian Forces Look East For War Game 'Poorvi Prachand Prahar' - News18
+  'Trishul', Indian Forces Look East For War Game
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN3htdGg1ZVd5RVlyMTJabk5MT2JYZkFMRlFjNXZVeXV4Um00QlZhZlB4dnVPVHNCNlBQT1A0SlF3bmpiSnZSbHc5QkprV09WcE1RM3prb0JvVFhoWWtqNTBhZjNNeTh3RGZVQ1RCb3FMaWI1YWZ1VER1cHdLOVNNd3VuZnR6clJYOUNoMkdXUmVYY2RnS2NJNjR5NThsUlRjZURLNS1OUHpVTDk0WjVJNW5VMHhScFdLV0FKQzNKbWYyV2dORVBXQ21CMmw1Q1djYl8wdGdhR3lLMHPSAeABQVVfeXFMT2RKWWJjb2FiRklOUjFHU1hONHlwSkJXOEl1SmlnZlQ4U05TMGpUdk5iUVYtdW83XzdhSmxtbEhpUC0tNHJneVJFeFVZMEktYkVMWE9RQ2tMdmR1dFBiWjFLd0wxOHN3MjNRd09xVlFNU2JTa0tlVkUtMU9pZm5sb3UtTjJPYkFiQUVtMW9rZzJ5MGloZ29TcDNCOXJWaTJaU19sSGFrRF9zcFRQYnpFaGFDdjBrY29CVEljVTZtUndtazNGMjl1MDdKaHI3ZVVwZHRSTzRmQlhadHUwLVZYY2k?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-11-04 01:14:50 UTC_
+_Last updated: 2025-11-04 06:28:20 UTC_
