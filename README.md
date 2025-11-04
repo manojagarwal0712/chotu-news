@@ -1,204 +1,224 @@
 # 📰 Daily News Summaries
 
-- News Today Live Updates, 4 November: 14 out of 39 stations log ‘very poor’ air quality, Wazirpur most polluted as AQI hits 403
+- Private schools can’t oppose govt just because of their status: Rajasthan education minister interview
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-11-04-2025-news-headlines-10344704/
+  🔗 https://indianexpress.com/article/india/private-schools-govt-status-rajasthan-education-minister-interview-10345601/
 
-- Gold Today Rate, November 4: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- Passenger train collides with goods train in Bilaspur, multiple injuries reported
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-november-4-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10344907/
+  🔗 https://indianexpress.com/article/india/passenger-train-collides-goods-train-bilaspur-injuries-death-10345598/
 
-- ‘For God’s sake, move the files’: Farooq Abdullah accuses L-G of delaying government work in J-K
+- ‘Green bonus’ for Himalayan states, ecological value evaluation changes: Ex-bureaucrats’ proposal amid disasters
   
-  🔗 https://indianexpress.com/article/india/for-gods-sake-move-the-files-farooq-abdullah-accuses-l-g-of-delaying-government-work-in-j-k-10344477/
+  🔗 https://indianexpress.com/article/india/green-bonus-for-himalayan-states-eco-value-evaluation-changes-10345221/
 
-- Physics Wallah ad showing 6 Scorpios driving through Gulmarg forest sparks outrage, FIR filed
+- Exclusive: Stretch of deadly collision near Hyderabad at centre of NGT case, expansion stuck for years
   
-  🔗 https://indianexpress.com/article/india/physics-wallah-ad-showing-6-scorpios-illegally-driving-through-gulmarg-forest-sparks-outrage-fir-filed-10344476/
+  🔗 https://indianexpress.com/article/india/stretch-deadly-collision-hyderabad-centre-ngt-case-expansion-stuck-10345279/
 
-- CM says Madhya Pradesh facing financial loss due to Centre’s ‘inadequate reimbursement’, seeks shift to centralised grain procurement
+- Central forces gun down 4 Kuki militants in Manipur’s Churachandpur
   
-  🔗 https://indianexpress.com/article/india/cm-says-madhya-pradesh-facing-financial-loss-due-to-centres-inadequate-reimbursement-seeks-shift-to-centralised-grain-procurement-10344464/
+  🔗 https://indianexpress.com/article/india/central-forces-kuki-militants-manipur-churachandpur-10345156/
 
-- Microsoft AI chief Mustafa Suleyman is against the idea of ‘conscious AI’; here’s why
-  
-  🔗 https://indianexpress.com/article/technology/microsoft-ai-chief-mustafa-suleyman-is-against-the-idea-of-conscious-ai-heres-why-10344988/
+- Technology: A Magnificent Servant, a Dangerous Master - The Sunday Guardian
+  Technology: A Magnificent Servant
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0tWOEpBZjZxYVhQOFhYMGJIUnZNUUVucnQtaFI4YXVhT2t0QlJzcnN2Um5KR25tdE02SU9lVmJUSVBnVjJ3MG05V0tkN3ppeW56OE0zMS0wa25KbllYQmpLV3VlT2hRaGhLZFR2eUI0b1BSektYUWFZZFRfVGxVY0gwT1B4czlWMm1yMlNzclV6WWphVVpRRFVEOWdtYW8?oc=5
 
-- OnePlus unveils chip-level gaming architecture for smoother, high-frame-rate mobile play
-  
-  🔗 https://indianexpress.com/article/technology/oneplus-unveils-chip-level-gaming-architecture-for-smoother-high-frame-rate-mobile-play-10344057/
+- WeBank and WeBank Technology Services Debut at Hong Kong FinTech Week x StartmeupHK Festival 2025 - TheWire.in
+  WeBank and WeBank Technology Services Debut at Hong Kong Fin
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLUZJZWpBWHExem9XOV8ydW1MYTgxcWx2NV9oNE9iN2RzNGlFUGpSV2N0VE54WHQ4TWZSSnhIc05HTDEzSDBFSXhxc1BHZU5OWHNFUW1BOFdrMEJWOVlwUUZKWVVydUp6SFQtdW9vRzViSmU0SURQOUs4Vk9xalQ1OVVUV3lITTZ3blNrUmNZU1M0MUFaNWJTN1Zoc1laVzdzT0QxWFBNWHlWa1V1VWcwdmlKbFlZa1RqcmlucktMXzFmREJRYUFxSnBjTlN6MkpvUmfSAdcBQVVfeXFMTmVMamp5YmFCUXZRWWFBWlhwMU1CMEFLSE9mTVBHU3pqWEV2dWYtcWRqMDQzdDg5Mm1rWWhOYjVqb2pIcUlWQ3BrWl9tVzlHc1ljbVR5Z1ZYVGlVQmZRalRpRVJYcnNZV2plNVowX2swLThtYzVHUjVCMEFqQjBaekMxeUxKdDZHWHludVgzTlBPMnBQbTFOTVVPWWJIRnVOenkyNkhQT0xhcWFMcFktY2JyU3RhQkpQeTM0am1reEJCQm1zTzNoQmJfQ0NyaFoyNGQ4clF0SGM?oc=5
 
-- Google takes down AI model after US senator accuses it of making up rape allegations
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-takes-down-ai-model-us-senator-rape-allegations-10343563/
+- NITI Aayog’s Frontier Tech Hub Unveils “Reimagining Agriculture: A Roadmap for Frontier Technology Led Transformation” - Vision IAS
+  NITI Aayog’s Frontier Tech Hub Unve
+  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxQRHhDVDVybGMyWmsxM3ljNW5xSm1FcDBFTHZuN0hrQmVmVE4yR0VwM0JfRmJJOGVEY0QzSkRLMlctd3JfYXk5aXNLY1Nnb1RmNU03UlI4UXVfM1RBYUczbW5yZkp5bTVtZ3J1Rkg1Rncyc0xDX1BKY1pKeTFTNnl2VUQ4RTFqZjFmNnBtUFhsVWdCanhURERVX2NLVENVdExDZDN4OGw2YUMtRDFZQlBSeXYzblJPM2hmeDZHZ21WQ193YUZoM09TaVBHMDg4Zm9oTnQ5dzFLaXpoa1M1alNYQUxnU29BSEh5TGlIY3k5QURmRTZDVk5OcXZaQjZQOTF1b1J0X0NDZmQ3NG1uOG9YY01vMV9NVzItdnJkb3o3dUJ2YmVuU19J?oc=5
 
-- ‘Enough’: Sam Altman shuts down question on OpenAI’s revenue amid AI bubble concerns
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-revenue-ai-bubble-concerns-10343151/
+- Investing in tech is real entrepreneurship, says Ather’s Swapnil Jain - ET Auto
+  Investing in tech is real entrepreneurship, says
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV3FqYWpVNDFCV0tYYmtIaV9YUEhhMXJuZzhJNHl5b0JVeFNRSXpJX0tzVGdKWmhmSkVZdFN3YXZCODlvbzNveHdycWduY0tDWUtjaXlIQnNXWTNiS21oUEV4SFlJckhWUG9BZGtPMTc5YU0zNXJoeVZ3M25JeENKT2ZhZFVabkJvMjBGN2poS0RDQm5FUFhzSkZnM1pVdHE1cTVKNnR6VkdkU2JnUWgxVW1kVmpTM0o1dmN2NjR5X3lZME9TVzI1V0lmOEwzeEZPWFpRaDlURUxMZ3A0M3JoUVZoN2VEcEJmZ0FkZWhR0gHzAUFVX3lxTFBmR3Vvd0VzMlVHYi1ReDZzOG1oUkh6UGI4TVhNSVpQdTFHblVhZVpTVUFhbHFraXVjbW9GWGFzeXNvSnZRQkFUUGpDUDk0c0s4bi1PYzl6RUVIbjdqUk5YUEJ3blNoVWpGczNCeUhlT1IwRi1acVhaU3ZJOGtsNWxrZ0ZwY0lOdUNkYWU4YV9qa3k0SWVzeUp6bHl1SDAycGRyT1ZoLXNtbUV2NlEwUzIzSDY3dUswbGk3TEdvc1htQXFPQTBMMXlDVlJPYzV5M0VMNzl4c3JRWkc3RUNZVGxKTFlpNnduUHhEdkhuODlBSXQ0Zw?oc=5
 
-- Apple’s delayed AI revamp of Siri will ‘lean’ on custom Google Gemini model: Report
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/apple-delayed-ai-siri-google-gemini-model-report-10342945/
+- PM Modi to inaugurate Emerging Science and Technology Innovation Conclave - The Hindu
+  PM Modi to inaugurate Emerging Science and Technology
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOVy1yYlNwOUFkeFFseS0yNjEtUGZnMlNnejZEVDdXM0wtYVlLeHBiNV9Hem9XclI0WlY0bVktWEFCbW1yYUkxN2cxNDZqWGNXeTc3MUxNS3RBMGZ4c1lQVnVJODVfZDVOZXNYTVhFUnZwQkplbk0zQ1gyYm11dHI0cl9VMmtvOWxYeXBIcWV0VjBqWWZlRzA2ZFpkMXBBYVRFRjVhTHh5LXgyY1dqSXh1MXI3cy1NcHFVVWpoc2VTdXlpMkJpZEJ2OWttVzHSAdMBQVVfeXFMTWJGdlNnRGVDcV8tY1JJWWc1WkhuX2lNQ0Vod3hibFZBRXBodmdLSjZ1TjlpODNsd1AxYnA1cU5FS1VjekZOUDNocWNTaFR1R1Q4enlxV0JpS2I0Q1I1bVFhbWY3R01JdGpKTkJ6VkNmQklWWmxCV0dEcXZCU21FTEtiWkJzcGxucnIxOHFvWnVBajhEVTk1WTh1cDNZX05TRks2aDBJQlRCdXZuVGtqVDA0NnNrTjBDMjl2QkJsdWNqall4bXBEYU9EZHJzbjJLOEJQbw?oc=5
 
-- SpiceJet names former IndiGo exec Sanjay Kumar as Executive Director, starting November 2025. Details here
-  Sanjay Kumar will join SpiceJet as Executive Director on November 3, 2025
-  🔗 https://www.livemint.com/companies/news/spicejet-names-sanjay-kumar-as-executive-director-starting-november-2025-details-here-11762234864659.html
+- Hinduja Group Chairman Gopichand Hinduja passes away: Career, family, net worth, and all you need to know
+  Gopinath Hinduja, known popularly as GP among business partners, was unwell for past few weeks and died in a
+  🔗 https://www.livemint.com/companies/people/hinduja-group-chairman-gopichand-p-hinduja-passes-away-career-family-net-worth-and-all-you-need-to-know-11762252251213.html
 
-- Palantir CEO Alex Karp claims the tech giant is first anti-woke company, advocates meritocracy - here's what it means
-  Palantir CEO Alex Karp declared the company as anti-woke during an earnings call. The firm reported a 63% revenue increase to nearly $1.2 billion.
-  🔗 https://www.livemint.com/companies/news/palantir-ceo-alex-karp-claims-the-defence-giant-is-first-anti-woke-company-advocates-meritocracy-heres-what-it-means-11762223196291.html
+- Gopichand P. Hinduja, chairman of the Hinduja Group, passes away at 85
+  Hinduja Group chairman Gopichand Hinduja dies at 85 in London
+  🔗 https://www.livemint.com/companies/people/gopichand-p-hinduja-chairman-of-the-hinduja-group-passes-away-at-85-11762252369725.html
 
-- Starbucks to sell 60% China business to Boyu Capital for $4 billion amid competition from local brands. Details here
-  Starbucks agrees to sell a 60% stake in its China business to Boyu Capital for $4 billion.
-  🔗 https://www.livemint.com/companies/news/starbucks-to-sell-60-china-business-to-boyu-capital-for-4-billion-amid-competition-from-local-brands-details-here-11762216778804.html
+- Aakash CFO Vipan Joshi quits; leadership churn deepens as rights issue proceeds
+  Joshi's departure follows CEO Deepak Mehrotra's resignation in August
+  🔗 https://www.livemint.com/companies/aakash-cfo-vipan-joshi-leadership-churn-rights-issue-aakash-blackstone-dispute-manipal-group-layoffs-11762246531922.html
 
-- Why Pine Labs’ head believes Ebitda is a better measure of the company’s value
-  Rau said the market views private firms differently from listed ones. Growing confidence in Pine Labs’ brand makes
-  🔗 https://www.livemint.com/companies/pine-labs-chairman-amrish-rau-on-ipo-ebitda-11762180595545.html
+- SBI Q2 profit rises 10% led by exceptional gain from stake sale in Yes Bank
+  SBI's Q2 profitability was bolstered by a one-
+  🔗 https://www.livemint.com/companies/sbi-state-bank-of-india-q2-earnings-yes-bank-sbi-asset-quality-11762231026603.html
 
-- Blame it on AI: Revenue, hirings diverge at top IT services companies
-  Indian IT services companies are signalling a fundamental shift in their business model. The change has significant implications for India
-  🔗 https://www.livemint.com/companies/india-it-services-automation-ai-hcltech-cognizant-tcs-jobs-it-sector-evolution-engineering-11762156172053.html
+- After Vodafone Idea relief from Supreme Court, Airtel to approach govt for AGR waiver
+  The Supreme Court ordered the government to reassess the adjusted gross revenue (AGR) dues for Vodafone Idea for up to FY17. Bharti
+  🔗 https://www.livemint.com/companies/news/vodafone-idea-india-bharti-airtel-dot-agr-waiver-relief-11762243151723.html
 
-- Small-cap IT stock Blue Cloud jumps 14% after a $150 million deal with an Israel-based tech firm. Details here
-  Blue Cloud Softech Solutions saw a nearly 14% surge in intraday trading on November 4 after announcing a $150 million technology ownership transfer agreement with an
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-it-stock-blue-cloud-jumps-14-after-a-150-million-deal-with-an-israel-based-tech-firm-details-here-11762236238879.html
+- Goldman Sachs, Morgan Stanley warn of a market correction: 'Things run and then they pull back' - CNBC
+  Goldman Sachs, Morgan Stanley warn of a market correction: 'Things
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNMDRUaWxDNkdNQTlPTFpPVkJkM0JKWlBCSjY4X0tWOFJpS1Z1Q3AwbzdCWURELWFuVFZBRTJra3Y0Zk1SSHNFTEowVWpHVnp6Xy1YeHowMUxlNlptWjlXXzdJVWRYWlJ1Nnk1SVI3LWtDcGc2X1N3aW5vMkk3TnJLbGllOUM2anVKM2tYRGNIUHJHeVVQQkk0UdIBngFBVV95cUxPMkZLdWZUUWMtbU5pSnV0M19UQlg4X08xZHRDU2FiRTZSS2xqMWpER2hsMk4zV2ZmWXhXQ3hfbFNFZkNzeEtPajlsSHVtLTRId2VPdEFHNzFmcmg2ak5HVEhiMmRjSDAxMl9yeG5acVZCN2RnemNvSUVsQXpNdWpLUm5tWWlWd1QtNDVoeDlOZG91b0VuRVM3NVZMdW5EUQ?oc=5
 
-- Penny stock under  ₹2 sets board meeting date to declare Q2 results 2025, evaluate revised fundraise proposal
-  Excel Realty N Infra said its board will meet on Tuesday, November 11. The board will consider and approve the unaudited standalone and consolidated financial results of the company.
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-2-sets-board-meeting-date-to-declare-q2-results-2025-evaluate-revised-fundraise-proposal-11762236343209.html
+- Wall Street CEOs Flag High Market Valuations, Pullback Risk - Yahoo Finance
+  Wall Street CEOs Flag High Market Valuations
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZVW82bXl3dzVQZU43VFd2REdHSlcySUczbW5WN0xvcjYyQzZUU3ZRQVk1TERZMGtueFRJTFlkQ0NzVkE3dnI1YkM3cFg2RUNncW14SEtDSmJCOV9wREVtb05iWG54Y1JNSXZuNU4tVmFRczZqc3RXQ0ljUHlraHM?oc=5
 
-- Titan shares jump 3% to 1-year high as analysts stay bullish post Q2 numbers
-  Titan shares rose 3% to a one-year high of  ₹3,823, following strong September quarter results. The jewelry segment grew
-  🔗 https://www.livemint.com/market/stock-market-news/titan-shares-jump-3-to-1-year-high-as-analysts-stay-bullish-post-q2-numbers-11762234506185.html
+- Morgan Stanley CEO warns of market heading towards correction By Reuters - Investing.com
+  Morgan Stanley CEO warns of market heading towards correction
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVZROVpidC1Md1VTNmZwNUR5OHNDbDllZzR2NTBtMjVuSG1USG5QcjVQVEdxU1h1MW9lcGhMNHI3MS15YzVWRUtBaldjTUJpaW1fblIzMHRDYmlLWjY1d083MFBzLUo2WHhNZUpQRHRycmFJS1AtZHZtRHNOYVM0NDVTZGMya0UweXlJVDFMLWgyREhOcVpxS1FYM2ducV9qT1VUR1hhZF9mVmFWaHptN211ZUJNRTU5cnc?oc=5
 
-- Mangalam Industrial Finance rights issue 2025: Date, price, other details you may like to know
-  Mangalam Industrial Finance Ltd has opened its extended rights issue of 48,08,21,750 equity shares at Re 1 each. The issue will increase total shares to 1,44,
-  🔗 https://www.livemint.com/market/stock-market-news/mangalam-industrial-finance-rights-issue-2025-date-price-other-details-you-may-like-to-know-11762233885573.html
+- Stocks Tumble as Bank Chiefs Flag Sky-High Prices: Markets Wrap - Bloomberg.com
+  Stocks Tumble as Bank Chiefs Flag
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxONkhWY2p5dGsyUmQxMV9mcllWZFktSkxxZDIyUTdjZ0d5TWVUaUhmeTM3ZUl0Tjc0eGNQSzBhUkhEYjVZOHNZajFHeUE0OXp0ajdBdlN1Smh4eHBUNGUta0JTSG56SUlCd1JNMzQzX0VfU1F4NWswQi1mNFR0a0pCeF83MDNMdmhyM3BGV3BtMmRQc0NN?oc=5
 
-- Adani Enterprises Q2 results today: Is it a stock to buy ahead of September quarter earnings?
-  Adani Enterprises' share price is down by over a per cent in November. Analysts predict a mixed bag: potential revenue growth amidst stable EBITDA.
-  🔗 https://www.livemint.com/market/stock-market-news/adani-enterprises-q2-results-today-is-it-a-stock-to-buy-ahead-of-september-quarter-earnings-11762234328331.html
+- S&P 500 futures slide 1% on Palantir decline, rising concerns about AI stock valuations: Live updates - CNBC
+  S&amp;P 500 futures slide 1% on Palantir
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5nOHA5QzZJTWxDRkZIRW5uZzZhb2F5T3FORW41dHREdzVyVk44aTI0X042MTFlclNGaVNIc011QU9RMWJFczE0YmVwZWxmVXpzY1gtUXJ5R1k1eGRQRGhMa29kSFhQOGpHYUYzaVNneHdOUEhOMng40gF8QVVfeXFMTWZYeWtFbU5XMDAwRTdDV0RPRlB2VjZ2R051ZE5FbEhLaTVCU3BGYWI4QURGTjBwWmtlZTdxUGR3RmRTZ1JyMVFORzE1cGdSa1hzMHczZXhHSkJtbDNaQllsSjk1Z3VWMTQ0ekloRXJNRW1TUWU1QjhNamROWQ?oc=5
+
+- Apple’s new iOS 26.1 update makes you work harder to snooze your alarm: here's how
+  Apple is trying to get rid of the accidental alarm negations. The Cupertino based tech giant released the new update on Tuesday.
+  🔗 https://www.livemint.com/technology/tech-news/apples-new-ios-26-1-update-makes-you-work-harder-to-snooze-your-alarm-heres-how-11762251852869.html
+
+- ChatGPT Go is now free in India: here’s what happens if you already paid for the plan
+  OpenAI has made its ChatGPT Go subscription free in India for all users. Existing subscribers do not need to cancel their plans to
+  🔗 https://www.livemint.com/technology/tech-news/chatgpt-go-is-now-free-in-india-here-s-what-happens-if-you-already-paid-for-the-plan-11762246232596.html
+
+- I tried ChatGPT x Gemini Nano Banana prompt to edit my car photo — It looked like a DSLR shot| 6 Viral hacks
+  A viral AI photography prompt is transforming simple car images into cinematic long-exposure masterpieces. Using ChatGPT and Gemini Nano Banana, creators are recreating DSLR-style shots with light
+  🔗 https://www.livemint.com/technology/tech-news/i-tried-chatgpt-x-gemini-nano-banana-prompt-to-edit-my-car-photo-it-looked-like-a-dslr-shot-try-viral-hacks-11762242149129.html
+
+- Apple releases iOS 26.1 with new Liquid Glass control: How to install, eligible users and what's new
+  Apple released iOS 26.1 on Monday. It brings new Liquid Glass customization, expanded Apple Intelligence and AirPods translation languages, improved Music and Fitness apps, and enhanced child safety features.
+  🔗 https://www.livemint.com/technology/tech-news/apple-releases-ios-26-1-with-new-liquid-glass-control-how-to-install-eligible-users-and-whats-new-11762238500238.html
 
 - ChatGPT Go now free in India: How it stacks up against Plus, Pro, and other plans
   OpenAI has made its ChatGPT Go plan free for one year in India. The subscription usually costs  ₹399 per month.
   🔗 https://www.livemint.com/technology/tech-news/chatgpt-go-now-free-in-india-how-it-stacks-up-against-plus-pro-and-other-plans-11762233347403.html
 
-- Studio Ghibli-backed group urges Sam Altman's OpenAI to stop using Japanese art in Sora 2 AI training
-  A Japanese trade group representing major publishers, including Studio Ghibli, urged OpenAI to stop using Japanese copyrighted works to train its video generation AI model.
-  🔗 https://www.livemint.com/technology/tech-news/studio-ghibli-backed-group-urges-sam-altmans-openai-to-stop-using-japanese-art-in-sora-2-ai-training-11762230046335.html
+- Goldman Sachs, Morgan Stanley warn of a market correction: 'Things run and then they pull back' - CNBC
+  Goldman Sachs, Morgan Stanley warn of a market correction: 'Things
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNMDRUaWxDNkdNQTlPTFpPVkJkM0JKWlBCSjY4X0tWOFJpS1Z1Q3AwbzdCWURELWFuVFZBRTJra3Y0Zk1SSHNFTEowVWpHVnp6Xy1YeHowMUxlNlptWjlXXzdJVWRYWlJ1Nnk1SVI3LWtDcGc2X1N3aW5vMkk3TnJLbGllOUM2anVKM2tYRGNIUHJHeVVQQkk0UdIBngFBVV95cUxPMkZLdWZUUWMtbU5pSnV0M19UQlg4X08xZHRDU2FiRTZSS2xqMWpER2hsMk4zV2ZmWXhXQ3hfbFNFZkNzeEtPajlsSHVtLTRId2VPdEFHNzFmcmg2ak5HVEhiMmRjSDAxMl9yeG5acVZCN2RnemNvSUVsQXpNdWpLUm5tWWlWd1QtNDVoeDlOZG91b0VuRVM3NVZMdW5EUQ?oc=5
 
-- ChatGPT Go now free for one year: What it offers and how to activate your plan
-  ChatGPT Go subscription will be free for one year in India. Normally priced at  ₹399 per month, it offers access to GPT-5 with enhanced features.
-  🔗 https://www.livemint.com/technology/tech-news/openai-offers-chatgpt-go-free-for-one-year-what-it-offers-and-how-to-activate-your-plan-11762223107562.html
+- Wall Street CEOs Flag High Market Valuations, Pullback Risk - Yahoo Finance
+  Wall Street CEOs Flag High Market Valuations
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZVW82bXl3dzVQZU43VFd2REdHSlcySUczbW5WN0xvcjYyQzZUU3ZRQVk1TERZMGtueFRJTFlkQ0NzVkE3dnI1YkM3cFg2RUNncW14SEtDSmJCOV9wREVtb05iWG54Y1JNSXZuNU4tVmFRczZqc3RXQ0ljUHlraHM?oc=5
 
-- Google is finally bringing an AI feature to Play Store that Apple and Amazon have had for months
-  Google is rolling out AI-generated app review summaries to make it easier for users to assess app reviews on the Play Store. A similar feature has already been part of Apple's
-  🔗 https://www.livemint.com/technology/tech-news/google-is-finally-bringing-an-ai-feature-to-play-store-that-apple-and-amazon-have-had-for-months-11762188948556.html
+- Morgan Stanley CEO warns of market heading towards correction By Reuters - Investing.com
+  Morgan Stanley CEO warns of market heading towards correction
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVZROVpidC1Md1VTNmZwNUR5OHNDbDllZzR2NTBtMjVuSG1USG5QcjVQVEdxU1h1MW9lcGhMNHI3MS15YzVWRUtBaldjTUJpaW1fblIzMHRDYmlLWjY1d083MFBzLUo2WHhNZUpQRHRycmFJS1AtZHZtRHNOYVM0NDVTZGMya0UweXlJVDFMLWgyREhOcVpxS1FYM2ducV9qT1VUR1hhZF9mVmFWaHptN211ZUJNRTU5cnc?oc=5
 
-- Rockstar Games co-founder says GTA's identity is ‘Americana inherent’, won’t work if set outside the US
-  Rockstar Games co-founder Dan Houser says GTA's identity is inherently American. While the company had experimented with a London
-  🔗 https://www.livemint.com/technology/tech-news/rockstar-games-co-founder-says-gtas-identity-is-americana-inherent-won-t-work-if-set-outside-the-us-11762183187960.html
-
-- Asian Stocks to Track Tech Rally After Amazon Deal: Markets Wrap - Bloomberg.com
-  Asian Stocks to Track Tech Rally After Amazon
+- Stocks Tumble as Bank Chiefs Flag Sky-High Prices: Markets Wrap - Bloomberg.com
+  Stocks Tumble as Bank Chiefs Flag
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxONkhWY2p5dGsyUmQxMV9mcllWZFktSkxxZDIyUTdjZ0d5TWVUaUhmeTM3ZUl0Tjc0eGNQSzBhUkhEYjVZOHNZajFHeUE0OXp0ajdBdlN1Smh4eHBUNGUta0JTSG56SUlCd1JNMzQzX0VfU1F4NWswQi1mNFR0a0pCeF83MDNMdmhyM3BGV3BtMmRQc0NN?oc=5
 
-- ‘Mag Seven’ Surge as Amazon’s Deal Fuels AI Wagers: Markets Wrap - Bloomberg.com
-  ‘Mag Seven’ Surge as Amazon
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPRG9BVlpqYkdUSTl1VjVJUXd1YUVmbVRMb3Zqb3IwTThTaERaRDZISU13WnI5TVJtY1JHOHRaZEQ4SzNxb21DOW85bVNRWWl3cGN1VEZZdFVzMW56TUZxUFNuWVpueVIzZDh6QVltamZEQUJCYlJMcUtDTFd5VEJJZElidnd5ZElnSXM0dGdoanNQdHM0YlgxeGxEYktDTm1uOXc1MGhtdHR3bmg4alE?oc=5
+- S&P 500 futures slide 1% on Palantir decline, rising concerns about AI stock valuations: Live updates - CNBC
+  S&amp;P 500 futures slide 1% on Palantir
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5nOHA5QzZJTWxDRkZIRW5uZzZhb2F5T3FORW41dHREdzVyVk44aTI0X042MTFlclNGaVNIc011QU9RMWJFczE0YmVwZWxmVXpzY1gtUXJ5R1k1eGRQRGhMa29kSFhQOGpHYUYzaVNneHdOUEhOMng40gF8QVVfeXFMTWZYeWtFbU5XMDAwRTdDV0RPRlB2VjZ2R051ZE5FbEhLaTVCU3BGYWI4QURGTjBwWmtlZTdxUGR3RmRTZ1JyMVFORzE1cGdSa1hzMHczZXhHSkJtbDNaQllsSjk1Z3VWMTQ0ekloRXJNRW1TUWU1QjhNamROWQ?oc=5
 
-- US markets today: Nvidia and AI stocks lift Wall Street even as most shares decline; Dow dips, S&P 500 ne - Times of India
-  Nvidia and AI stocks lift Wall Street even as most shares decline. Dow dips, S&amp
-  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxNQzA5TUF0NnlENE50d2tuOWtTcFF6QkgyOUhxYzl4TzJub3lINzVsem5HbDRTMVRzSHQzdTladVpmOWEwLXllZXUtQTVWUTV2eTFrc0QzeDhjdTQzWk5Rc3dJX0U3QWh6MnhITS1rcDNBeFNyenN2SE4tbGJPRmdNREk4SzRhY3EyYkJZTkNmbElscDFxRjAzVmh4NDZIYVJUd1RpQ24xMV9TMFI4TlppN2p6TV9fTUZiRHZKRlhhdkp6VlgxR2F4RmVobWRLRDZIelhCRHQ2NjlUN2xDTkNfRUtId25RVklDN3Q4YllLZ3dWWEl3bGtRVFBGRm9aM0dPWW9rNzNUeWxoMDFmUVdxMlM5eXA2YU1IbGNXNTRBOU5WZ2VHVS1fRWg5VXFGM1A2MjNfc9IBugJBVV95cUxNUWdvcS1ZNXhNT09TSWhPalY5bU9udFhwblJ6cFdNNFhZYjJsckpKcW9IbUR6VDVmaHppc3dEbXJMdkZVU2xvQ1ZkWktJQ29nQm9QYWhyLS1rc29rRVBDTUh2QUZybkhva2dtandBLWltNkt0YVE5aXBONkJTUlg5VTlhUWd3anFEQzdUa2VKRjB4dnp5YnFxMS1rekR6TWk0SWt5QWpPZzNkeFduNWhxVFhzYV9QN2tRcFI4T05VWFVfQVpUajdNaFRmT1ZCZEQxWkljRmVDU3NzVU1kMkJoOFlhc3RBM0NPbGtXbEs2MlJkU3Q2T25zR0dDZFVyWTVaWEFmLUM3ZkVKS3RKX283RXJDSkwzbHJDSjVQX1BXRUQtV3lndnMtNDdwM254c2JPSE1MeWVNWXp4Zw?oc=5
+- Shriram Finance, Bharti Airtel among 9 stocks that hit 52-week highs and gained up to 25% in a month
+  Nine BSE 200 stocks including Shriram Finance, SBI, Bharti Airtel, and Titan touched
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/shriram-finance-bharti-airtel-among-9-stocks-that-hit-52-week-highs-and-gained-up-to-25-in-a-month/slideshow/125087010.cms
 
-- Brains and stock markets follow the same rules in crisis, study finds - Phys.org
-  Brains and stock markets follow the same rules in
-  🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FSVNOb1BHYVJUcXpXMUdNNnBSQ25XMUxpUWRoSmdfNWRmUHNQSWM3eFA3cld1RXZZOVhmMzlUV2pBTHFwMklXNVVtUlVMWWJpNnU0aGVLZFkzclZsb2NqaWRwT0I?oc=5
+- Gainers &amp; Losers: Hitachi Energy, Hero MotoCorp among 6 stocks that moved most on Tuesday
+  Nifty and Sensex fell 0.64% each as IT, auto, and metal stocks dragged markets. Key mo
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-losers-hitachi-energy-hero-motocorp-among-6-stocks-that-moved-most-on-tuesday/slideshow/125085887.cms
 
-- Stock Market LIVE: Sensex slips 250 pts; Nifty below 25,700; SMIDs drop; Hero MotoCorp plunges 5% - Business Standard
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxPS0hlLXVNSzd3dkJqaVZ5M1h1Mk13UUoya1VVd2VXNlFPMlR2Rjg3N1puZmNhQVhHWkhrVmV2TWNaOFJWVmNTZHhBMGUwakhlVEdfbWFfQ2FxM0Q1VGg3T0lLQkV3cE12OF
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPS0hlLXVNSzd3dkJqaVZ5M1h1Mk13UUoya1VVd2VXNlFPMlR2Rjg3N1puZmNhQVhHWkhrVmV2TWNaOFJWVmNTZHhBMGUwakhlVEdfbWFfQ2FxM0Q1VGg3T0lLQkV3cE12OFpaa09TbklpaE1QWF92MGl6SnRIUTNCZ241OVZic3FRbVBYQlhQb3hjemFWc1NwSHFYWTNRRU5rMXpBX0lQYk5BV2tYTXJSeWxBWVQ4RWg2LXNZUkNKMFdINnFST1VId05MdmNfaVc0REFrNVEyVm5wV1JTbUJ1YjhwdGRJazRwd2xMMmo3clc3d1Y1NmZiQVU1MEZqRkpyMEc4WkFR0gGLAkFVX3lxTE5NRlRhck1qMklqUWh5UVNEcVNnUTVyRzRRMmVkZnFHc2Z3WVRNbkhmdGZmYjl6N0RXR2pBNTNmMElDTjFTMnNHQ3FqdjAtdzhtNThDczB5UklKNlBRVkE5bXhldV9hbUxrTmhSZldIbTVzX3MzcXFCZkRmaTJMLXdyVGJRYzBWYnNOZUxqODVKd05GRFBpVWh0c2hqN193ZkVOYVBIS3pqcHh0V3NvTzN0bGN3aGpOWkNzUVhsdmJDQU5XTUZWUzZ3T0FGX3ZIOTI2ZjMzOHhjMHlfa0FxaDhuZF8tWmpMS2dEcm5DdEhnVVVTN3RES2dFMVF3aEtoelgyUmE0M29HS2NoSQ?oc=5
+- Rupee rebounds to settle 11 paise higher at 88.66 against US dollar
+  The Indian rupee made a modest comeback, strengthening by 11 paise to reach 88.66 against the dollar. The strength of the dollar alongside the withdrawal of foreign investments kept the rupee in check. The domestic stock markets also faced
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rebounds-to-settle-11-paise-higher-at-88-66-against-us-dollar/articleshow/125085689.cms
 
-- Gold prices hold steady, hover near Rs 1.21 lakh resistance. Expert-approved trade setup inside
-  Gold and silver extended their losses amid strength in the dollar index. Prices opening at Rs 1,20,743/10 grams, lower by Rs 666 or 0.55%.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/gold-prices-hold-steady-hover-near-rs-1-21-lakh-resistance-expert-approved-trade-setup-inside/articleshow/125076470.cms
+- Angel One pays Rs 34.57 lakh to Sebi to settle case of disclosure lapses
+  Angel One settles case of alleged disclosure lapses with markets regulator Sebi. Broker
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/angel-one-pays-rs-34-57-lakh-to-sebi-to-settle-case-of-disclosure-lapses/articleshow/125085521.cms
 
-- 3M India shares zoom 13% after reporting 43% YoY surge in Q2 PAT, ICICI Securities raises target price
-  Shares of 3M India surged 13% to Rs 34,700 after reporting a 43% year-on-year rise in Q2FY26 profit to Rs 191 crore. Revenue grew 14%, led by broad-
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/3m-india-shares-zoom-13-after-reporting-43-yoy-surge-in-q2-pat-icici-securities-raises-target-price/articleshow/125076296.cms
+- IndiGo Q2 Results: Airline back in red, posts loss of Rs 2,582 crore on currency depreciation
+  Aviation major IndiGo slipped into a loss of Rs 2,582 crore in the September quarter. However, when compared with the year-ago period, the airline's loss widened from Rs 987
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/indigo-q2-results-airline-reports-loss-of-rs-2582-crore-in-a-complete-u-turn-from-june-quarter/articleshow/125085374.cms
 
-- Thangamayil Jewellery shares rise 19%, up 50% in 4 sessions. What’s fuelling the sharp surge?
-  Thangamayil Jewellery surged 19% to a record high of Rs 3,089. The company reported a net profit of Rs 58.5 crore versus a loss last year. October revenue crossed Rs 1,000 crore for
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/thangamayil-jewellery-shares-rise-19-up-50-in-4-sessions-whats-fuelling-the-sharp-surge/articleshow/125076185.cms
-
-- India bonds rise on likely central bank support; rupee strength
-  Indian government bonds rose in early trading on Tuesday. Speculation of central bank support and the rupee's
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-on-likely-central-bank-support-rupee-strength/articleshow/125076050.cms
-
-- 4 stocks Ashish Kacholia trimmed in September quarter amid Rs 2,740 crore portfolio reshuffle
-  Kacholia's portfolio currently holds 48 stocks valued over Rs 2,739 crore. He trimmed stakes in Dhabriya Polywood, Fineotex Chemical, Xpro India, and Brand Concepts.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/4-stocks-ashish-kacholia-trimmed-in-september-quarter-amid-rs-2740-crore-portfolio-reshuffle/slideshow/125076015.cms
-
-- "You Know What Happened To Me": BJP Leader's Warning For Shashi Tharoor - NDTV
-  "You Know What Happened To Me": BJP
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblpHdlV4ODBEQUM0eXZnV2x4NHpUNWVubFNVNm9zdXotMkQ2S2JSNHIxLVo3YUljSC0tR3gtUDhvS0Rwak5jc3BPaldaMmJzd0lSbnplMVNFRGFfMmRWcVItT2VkRmFMVU4wd0dNazFwMzExMGl0VDQ5WXY0aGhFU2phdGkyenpBQVhNZEJBZGZjbFFCRnlpLV9vdFpwNFoyczF3a1FZSnl5TzB1UjllR3plUkUxcDZnMFJ0eFRaS0JpV1A1RFZCZHN4ckpnOGdsVWRkQVJ1VGbSAeABQVVfeXFMTlFndlRmNXB3UjFSRl9oN1paemRjakwzWTVqZXNtNkxKSXo4ZXhraUVSS045aF9laWs5VnVma3pVWVJtZ0xZWG1XVFBwX2Y4VC1KSE1YcS14dDRKUXl4Ul9ac19QdmV2WGNIVjFGRFVTaWZqempnQnhTWkd4ZEVzWmVJWEp1ZVJwRHdJX0t5d2NaNW00aENHOHJ3OGhRWTRvWldZeUZsbkJPQkxxaDNxb3B4c1l6U0lzRUdJNzZGRkVoNm8wNjNrZ1EydEU4RVFnclUwaFVjYkp4MHFNOXk1Skw?oc=5
-
-- Shashi Tharoor earns rare praise from BJP after piece on Nehru-Gandhi dynasty | Who said what | Latest News India - Hindustan Times
-  Shashi Tharoor's piece on Nehru-Gandhi dynasty was published in
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVUpURWNMYVA1YjU5UWplRGVjVmtXajVjdjBJMFBOd0plZzZDQjdlUkhlRk9NVkNlb1hJZldaMTRnNGxEZGdPdmdnbDI5TFlxVURjRVNIQ3NzdlRUeE9tNkhkeVQzWmJwQ0VrZkxaUUkxX3R6SzhMWkhFdXgza21lRWs1a042RGNKQmgyWmlESEpnOHB2TS00dHFCUVVBenpJUkYyMHBQaWFGcWp0WDZPTzk3Vnc3Y3VuQkdYaXRWblB1LTRrMUNqTk1xd0xVYVg2c2hlZGNPRVBaREZwOXhMc19QeVZfRDJMVUdtVDUxZl9tRV9xMlFROTlsUdIBgAJBVV95cUxOSjFFNW1wVDZEVXMzSU82NF8wbUs4dm01WExKaDl5RHIwMVE2dDJwZENxelNXMjFQaGV1Qnh3b0hrM19rNDdhelFjVVlmckwwbXp0WFA4MGRQc2hZREVRQ1dKSEZUcnIycURFVVlDeDFEMXNXY2R5X3lyWnhqWkp2cnh1YVJaTndDaXZFWFpOUk9mME9haV9VVkpPeWFLYnlRbFljZHFqOEwya1pqeXIyNnZUZVVtSm4tZ0NBV3N2dXBPRV8xdno0bFVKWDNhRnF0c0NVR2FDRXdVWmFTOFMyXzJRMF9NanlLRFdaSVpOajZCMlZFVUtOVXUyM1libW9Z?oc=5
-
-- India’s IT dream is at a crossroads - The Hindu
-  India’s IT dream
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGZMazdGWTl5Q0t6VDV6ZU9EaW5iSEt0T2FGQ1Q5aEhlU2huR2NsdkRfOE1NNzdGdERqS2VMUDdQSnZDMzd0TnZLSUFoQ2RsTGdaazBEczNTTWhBb1dTS1FBazVWbUNicmM4al9IcWRxcjBhX3RrcEZZRVBHSFlUeEZwLWFSWlp0ZVVDQ3NtLWFwM0dUVmtCYtIBnwFBVV95cUxQd1JuYVN6VENFZ1RKdEZmemFhdUpKY1JRUXNlLVJrZUt3eTQ2QzhZYVFSZVdrWmtZUmdWcnRCOTRMUlVHOTlpOUs4VnhSTGlweHdQS3BJUDVJck52bTk3VDdrOW52d0E3SnA5OEZuNUc4cExtcXl5aEdfV2V5aWtURjZSWTROVFhrU1Ryck9WU2ZybUJlOVdQWWtfdGlOckE?oc=5
+- India Steps Away From Pro-Monarchist Nepali Activist Durga Prasai - NDTV
+  India Steps Away From Pro-Mon
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOclViblZUejQwT0VzLVo0eVI4YkJCcDlicDU5RjJnNy1BUmFIWDNERVNDRU9ETFRsMkJkNjBDRGFTRGtQQ2lRbHVfeHI5TVNFUVlZNUVteTZHV0FlSE85X3pCNTktdHhHX2tJd0cwbnhmOGpZUWV4TC1rZkJJbGRqLUNLc1hNSVpKM25weTlreXJzTWtfQTVXZXZFNE9FTDctTFhHdHdwMjhhNjZqZUMtRm1IMXRWQlJvUWRJWnBBVjF4ZW9SRlRmMmV4MEhfOVVHbGVQQV9qYWlmaFZuUk4xTHZPdGxOcm5seGNLNWV30gH2AUFVX3lxTE5ublVXYnVjYWxzbDQ5bFJBeXlub1VzcllFSWFLQkwzZ2xzWHN1RTNXZlBHbmU5SEdiNDNJeXZuYnhfU3VxWkcyY1hWMFJWU2ZYSGMyd2lGNUxORThxSkRGeXZUSEpmdXYwOEc0V2pJblVnOHBRWFFtR1p5dFRoZUlwZUYzSTN6UzVWVVZKS25nYWs2cUVhTlFjS2I0bF9zQUxrMi0yM3Joc1lVeXlpVGtVTFBkckJZbGFURnpxeDdETlFuNjJEVUcwZDB0aFNMUXc5QjJIczVBbld6V2d6cXl6em9DeGt1UFkwVzlPc2VXMEw2YUtVdw?oc=5
 
 - School assembly news headlines, November 4: Top India, world, sports, business news - India Today
   School assembly news headlines, November 4: Top India,
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWZQRzE0NVNNUG1UTTNXcXlUWWxoaVhFNTVrN0pwWDl5U0hqNHRBTk5ORXpTWDRHSjhETTU5OHpCWXRvWmQ1NGxVX3V3ZDR1c3JkMWdmcmhNNEotT1QxMXlCYVRrNFZDRzdJZWRNN2lJZ21hWmVKSDBGeHpKUm5xNDFCMDh2MFI2Ymg3WG5ZWXljS0dYaEc5ZjRpa0NneHdoWTB2VWtvMnpBV2F4NUV2MEF0cGNUMk5SYzRVc1VzcFI0T3ZuMDUzUUkzVko0SlN5ZjlZSTdpT1RVQ1hYOVM5SlhJdDPSAeoBQVVfeXFMUHNBVmNUX0toM3hWTXd1VG4yZlg3TUk5Rnc1SHFfdWZuSlpnUjFYN3B6RG9NMW1lY1JqdGlPTF9DRVVIY0VYaVBKeTl6YnlLaDd2Z21PRnZkX3N1WmxrbzFQcjVjWDlkOVJPanlQRHJXckFYd1Y1UnVQOG5yQmpuNGZjUFZfTEVKX2dLVzhucWNBNG1lTU42aUdpelRxNkRjeDdoVkdzZXdjRk5oajdaTkRGZ3g3MjRoQWpMODR4cWZTd1IxUFZtMHVHN2xiVmp2VmQweEJiYWZMWmduLW9CUFN4NHJyY0lGU0xR?oc=5
 
-- After Western Front's 'Trishul', Indian Forces Look East For War Game 'Poorvi Prachand Prahar' - News18
-  'Trishul', Indian Forces Look East For War Game
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN3htdGg1ZVd5RVlyMTJabk5MT2JYZkFMRlFjNXZVeXV4Um00QlZhZlB4dnVPVHNCNlBQT1A0SlF3bmpiSnZSbHc5QkprV09WcE1RM3prb0JvVFhoWWtqNTBhZjNNeTh3RGZVQ1RCb3FMaWI1YWZ1VER1cHdLOVNNd3VuZnR6clJYOUNoMkdXUmVYY2RnS2NJNjR5NThsUlRjZURLNS1OUHpVTDk0WjVJNW5VMHhScFdLV0FKQzNKbWYyV2dORVBXQ21CMmw1Q1djYl8wdGdhR3lLMHPSAeABQVVfeXFMT2RKWWJjb2FiRklOUjFHU1hONHlwSkJXOEl1SmlnZlQ4U05TMGpUdk5iUVYtdW83XzdhSmxtbEhpUC0tNHJneVJFeFVZMEktYkVMWE9RQ2tMdmR1dFBiWjFLd0wxOHN3MjNRd09xVlFNU2JTa0tlVkUtMU9pZm5sb3UtTjJPYkFiQUVtMW9rZzJ5MGloZ29TcDNCOXJWaTJaU19sSGFrRF9zcFRQYnpFaGFDdjBrY29CVEljVTZtUndtazNGMjl1MDdKaHI3ZVVwZHRSTzRmQlhadHUwLVZYY2k?oc=5
+- Australian traveller praises India's unmatched hospitality, gets emotional in viral video - India Today
+  Australian traveller praises India's unmatched hospitality in viral video
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQjBINjJHclBFNHhLT09uelpDcGJKckQyQXoxVVBVejNKd3BnU2ozZ1Z6NzdSSmZZZmVGeE5LQ3NrVVdLaWFGSzVZOU1JQmRYN3lJbm95eGZVWVlRRmFjbzNUcTFxUW9hT0w1R2pEWEdFaFNYVlZnU0Z5M3RDaTh5b0ZocVVRMDRxdE1MTjVza05POG5FMzRyODR1a1VaZWZHQlNGTGRqdjUtRjdVWWlyQXo3SU9RZFFYN2JQN3pyY0xXdlVhRHktdEpOVC1ZS08wTHpucThVRkRpRzIwZ21JVlhMMTAzZ9IB6wFBVV95cUxNWFNoQ2o4dHlQT0pON1JPZ1dkbk8xeWFERnF5UGV0akZXb3VaZjhoZ0dlUzFzNzdKWC1KN284ZE9DNVVORmhwWVRWQVFLVjViM2l5Wkc0bjhTTlZnd01ZdFllV3VVMHhDU01HVW51QWVGdWptY2EtTTBQeGtPNzdjVXNQcW1DLVlJRG1ILWs3NF9Xa0JVZ1F4SUpfNnFZTTl5Ym01NjdEc0VtSV92OTR1ZElsWUViZHBCSXVCU0V3UndOeWxSWFFzb3NRYzdpdUUtelA0ckFHeDRzTjNrRkl6VXNRSDdLclBQRUdv?oc=5
 
-- "You Know What Happened To Me": BJP Leader's Warning For Shashi Tharoor - NDTV
-  "You Know What Happened To Me": BJP
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblpHdlV4ODBEQUM0eXZnV2x4NHpUNWVubFNVNm9zdXotMkQ2S2JSNHIxLVo3YUljSC0tR3gtUDhvS0Rwak5jc3BPaldaMmJzd0lSbnplMVNFRGFfMmRWcVItT2VkRmFMVU4wd0dNazFwMzExMGl0VDQ5WXY0aGhFU2phdGkyenpBQVhNZEJBZGZjbFFCRnlpLV9vdFpwNFoyczF3a1FZSnl5TzB1UjllR3plUkUxcDZnMFJ0eFRaS0JpV1A1RFZCZHN4ckpnOGdsVWRkQVJ1VGbSAeABQVVfeXFMTlFndlRmNXB3UjFSRl9oN1paemRjakwzWTVqZXNtNkxKSXo4ZXhraUVSS045aF9laWs5VnVma3pVWVJtZ0xZWG1XVFBwX2Y4VC1KSE1YcS14dDRKUXl4Ul9ac19QdmV2WGNIVjFGRFVTaWZqempnQnhTWkd4ZEVzWmVJWEp1ZVJwRHdJX0t5d2NaNW00aENHOHJ3OGhRWTRvWldZeUZsbkJPQkxxaDNxb3B4c1l6U0lzRUdJNzZGRkVoNm8wNjNrZ1EydEU4RVFnclUwaFVjYkp4MHFNOXk1Skw?oc=5
+- UAE supplying weapons to Rapid Support Forces: Sudanese Ambassador to India Eltom - The Hindu
+  UAE supplying weapons to Rapid Support Forces: Sudanese
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVVNtUUxCbXNmWFhtMzFDTmRFY1Ytb01LSnhISDhfeXE1Skt6QXA4X1lsSUxnazZUWnBvNVI0eFVuUEJzci1IVXdYNmptbFhkNUhCSzdiZTRSbzRyTHNOYmp2a3BBVE10eFJreTd0UDRKbmhOT2w1N2tOdHY2OW1YSGNiS3FEdy1hZE9VM3V5ai05dGVxbVBlRU5SQUNiRUpIM1Mtck43amQwWFgyOEF4cjZ6U2tpQnFESGZGUUNYYjg4ZXJpOF96MlNaSmQ4Z0dUNmVrY2tYUWdBcW5T0gHjAUFVX3lxTE9LTk02ekdPYXkwZG9pUkpDS0xRU09QS3Nza3ZORUVRalAtTm9OMTFRNlNpY3BLYS1CcWlQeEhubGlFSjd3ZzF1MjBEb2IyM0VNYVlwR2lyRV9SVVZqNVN6LXkxMmQyUDh6LVFhZXkzT2xpcHJ4cUdHcDZoVjFKQklWTHp6bjNUSVR6M2NFVUIxZXNocmJJR21vVWxUS0Y2ZmRJbzFnbHFpYkxTX2hqYXRrX2tCbTVBc25ET1VuUUI3bnNuWEd5LVowVmFuaGxFQVdLSXFOVHhkNlpNSktzM2hXbm5N?oc=5
 
-- Shashi Tharoor earns rare praise from BJP after piece on Nehru-Gandhi dynasty | Who said what | Latest News India - Hindustan Times
-  Shashi Tharoor's piece on Nehru-Gandhi dynasty was published in
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVUpURWNMYVA1YjU5UWplRGVjVmtXajVjdjBJMFBOd0plZzZDQjdlUkhlRk9NVkNlb1hJZldaMTRnNGxEZGdPdmdnbDI5TFlxVURjRVNIQ3NzdlRUeE9tNkhkeVQzWmJwQ0VrZkxaUUkxX3R6SzhMWkhFdXgza21lRWs1a042RGNKQmgyWmlESEpnOHB2TS00dHFCUVVBenpJUkYyMHBQaWFGcWp0WDZPTzk3Vnc3Y3VuQkdYaXRWblB1LTRrMUNqTk1xd0xVYVg2c2hlZGNPRVBaREZwOXhMc19QeVZfRDJMVUdtVDUxZl9tRV9xMlFROTlsUdIBgAJBVV95cUxOSjFFNW1wVDZEVXMzSU82NF8wbUs4dm01WExKaDl5RHIwMVE2dDJwZENxelNXMjFQaGV1Qnh3b0hrM19rNDdhelFjVVlmckwwbXp0WFA4MGRQc2hZREVRQ1dKSEZUcnIycURFVVlDeDFEMXNXY2R5X3lyWnhqWkp2cnh1YVJaTndDaXZFWFpOUk9mME9haV9VVkpPeWFLYnlRbFljZHFqOEwya1pqeXIyNnZUZVVtSm4tZ0NBV3N2dXBPRV8xdno0bFVKWDNhRnF0c0NVR2FDRXdVWmFTOFMyXzJRMF9NanlLRFdaSVpOajZCMlZFVUtOVXUyM1libW9Z?oc=5
+- 'If they make too much fuss …': Lalan Singh’s warning sparks row; FIR filed after video examination - The Times of India
+  'If they make too much fuss …': Lalan Singh’s warning sparks row
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPekQtbnRFUllKUDFVbmloVmR4a2tfSTRSMm5NTnFJcWd1WGZocmdFTVFWVml4c2lQWmEyQUZkaWx1YnB1UmlJOU9rQ0hWVFk1RUZzZXhsYzBkcXg0SEF5ajBBdUFhM2F0emNjTjZYSWtkejBCQk1IUTlRVkMyYWRvZEtzbFdnWFlqTms3WG0wMEJNMUpVS1BkVlBCRHNsRjJEbkMtSVdNVk1aQl91eEVrMUh5R19FNnF5dTlDTEh4NjJwQ3VlaFJTQ1VzeDRiZzZxTERuOU5UbE1NaFFVOFRvb2hRc0hjYnZUQW1V0gHwAUFVX3lxTE4zNXJxMzNGVzYyMHlNMmFmWUdFT05aaldMQTYwMk5hMFhLdXQzeHZrdDBZNElxLURoYXo2YXd1N1RrbE1VZnZfT3ZvSE94Y2E5UUg0bGZxNEF1Z2lDZ3drb0lPQmFmbWpTYURFZ3dEWDYyeWIxMnBaSWt2Z2x4R2FhdUc5aEFPYXdILTR1ekRTa0x5eGFGbWdPOEFsS1l3X3VNcFNEd2wwa2dCQWdQdjlzdS1weDV2NTE0MmFMYlFEZUxoSGNkbzJYT0xiYXFtUGpKeEdIMFBRZm1XZ1ozSFU4T1ZVWEtTTjJScnhJNEk3Mg?oc=5
 
-- India’s IT dream is at a crossroads - The Hindu
-  India’s IT dream
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGZMazdGWTl5Q0t6VDV6ZU9EaW5iSEt0T2FGQ1Q5aEhlU2huR2NsdkRfOE1NNzdGdERqS2VMUDdQSnZDMzd0TnZLSUFoQ2RsTGdaazBEczNTTWhBb1dTS1FBazVWbUNicmM4al9IcWRxcjBhX3RrcEZZRVBHSFlUeEZwLWFSWlp0ZVVDQ3NtLWFwM0dUVmtCYtIBnwFBVV95cUxQd1JuYVN6VENFZ1RKdEZmemFhdUpKY1JRUXNlLVJrZUt3eTQ2QzhZYVFSZVdrWmtZUmdWcnRCOTRMUlVHOTlpOUs4VnhSTGlweHdQS3BJUDVJck52bTk3VDdrOW52d0E3SnA5OEZuNUc4cExtcXl5aEdfV2V5aWtURjZSWTROVFhrU1Ryck9WU2ZybUJlOVdQWWtfdGlOckE?oc=5
-
-- School assembly news headlines, November 4: Top India, world, sports, business news - India Today
-  School assembly news headlines, November 4: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWZQRzE0NVNNUG1UTTNXcXlUWWxoaVhFNTVrN0pwWDl5U0hqNHRBTk5ORXpTWDRHSjhETTU5OHpCWXRvWmQ1NGxVX3V3ZDR1c3JkMWdmcmhNNEotT1QxMXlCYVRrNFZDRzdJZWRNN2lJZ21hWmVKSDBGeHpKUm5xNDFCMDh2MFI2Ymg3WG5ZWXljS0dYaEc5ZjRpa0NneHdoWTB2VWtvMnpBV2F4NUV2MEF0cGNUMk5SYzRVc1VzcFI0T3ZuMDUzUUkzVko0SlN5ZjlZSTdpT1RVQ1hYOVM5SlhJdDPSAeoBQVVfeXFMUHNBVmNUX0toM3hWTXd1VG4yZlg3TUk5Rnc1SHFfdWZuSlpnUjFYN3B6RG9NMW1lY1JqdGlPTF9DRVVIY0VYaVBKeTl6YnlLaDd2Z21PRnZkX3N1WmxrbzFQcjVjWDlkOVJPanlQRHJXckFYd1Y1UnVQOG5yQmpuNGZjUFZfTEVKX2dLVzhucWNBNG1lTU42aUdpelRxNkRjeDdoVkdzZXdjRk5oajdaTkRGZ3g3MjRoQWpMODR4cWZTd1IxUFZtMHVHN2xiVmp2VmQweEJiYWZMWmduLW9CUFN4NHJyY0lGU0xR?oc=5
-
-- After Western Front's 'Trishul', Indian Forces Look East For War Game 'Poorvi Prachand Prahar' - News18
-  'Trishul', Indian Forces Look East For War Game
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN3htdGg1ZVd5RVlyMTJabk5MT2JYZkFMRlFjNXZVeXV4Um00QlZhZlB4dnVPVHNCNlBQT1A0SlF3bmpiSnZSbHc5QkprV09WcE1RM3prb0JvVFhoWWtqNTBhZjNNeTh3RGZVQ1RCb3FMaWI1YWZ1VER1cHdLOVNNd3VuZnR6clJYOUNoMkdXUmVYY2RnS2NJNjR5NThsUlRjZURLNS1OUHpVTDk0WjVJNW5VMHhScFdLV0FKQzNKbWYyV2dORVBXQ21CMmw1Q1djYl8wdGdhR3lLMHPSAeABQVVfeXFMT2RKWWJjb2FiRklOUjFHU1hONHlwSkJXOEl1SmlnZlQ4U05TMGpUdk5iUVYtdW83XzdhSmxtbEhpUC0tNHJneVJFeFVZMEktYkVMWE9RQ2tMdmR1dFBiWjFLd0wxOHN3MjNRd09xVlFNU2JTa0tlVkUtMU9pZm5sb3UtTjJPYkFiQUVtMW9rZzJ5MGloZ29TcDNCOXJWaTJaU19sSGFrRF9zcFRQYnpFaGFDdjBrY29CVEljVTZtUndtazNGMjl1MDdKaHI3ZVVwZHRSTzRmQlhadHUwLVZYY2k?oc=5
-
-- "You Know What Happened To Me": BJP Leader's Warning For Shashi Tharoor - NDTV
-  "You Know What Happened To Me": BJP
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblpHdlV4ODBEQUM0eXZnV2x4NHpUNWVubFNVNm9zdXotMkQ2S2JSNHIxLVo3YUljSC0tR3gtUDhvS0Rwak5jc3BPaldaMmJzd0lSbnplMVNFRGFfMmRWcVItT2VkRmFMVU4wd0dNazFwMzExMGl0VDQ5WXY0aGhFU2phdGkyenpBQVhNZEJBZGZjbFFCRnlpLV9vdFpwNFoyczF3a1FZSnl5TzB1UjllR3plUkUxcDZnMFJ0eFRaS0JpV1A1RFZCZHN4ckpnOGdsVWRkQVJ1VGbSAeABQVVfeXFMTlFndlRmNXB3UjFSRl9oN1paemRjakwzWTVqZXNtNkxKSXo4ZXhraUVSS045aF9laWs5VnVma3pVWVJtZ0xZWG1XVFBwX2Y4VC1KSE1YcS14dDRKUXl4Ul9ac19QdmV2WGNIVjFGRFVTaWZqempnQnhTWkd4ZEVzWmVJWEp1ZVJwRHdJX0t5d2NaNW00aENHOHJ3OGhRWTRvWldZeUZsbkJPQkxxaDNxb3B4c1l6U0lzRUdJNzZGRkVoNm8wNjNrZ1EydEU4RVFnclUwaFVjYkp4MHFNOXk1Skw?oc=5
-
-- Shashi Tharoor earns rare praise from BJP after piece on Nehru-Gandhi dynasty | Who said what | Latest News India - Hindustan Times
-  Shashi Tharoor's piece on Nehru-Gandhi dynasty was published in
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVUpURWNMYVA1YjU5UWplRGVjVmtXajVjdjBJMFBOd0plZzZDQjdlUkhlRk9NVkNlb1hJZldaMTRnNGxEZGdPdmdnbDI5TFlxVURjRVNIQ3NzdlRUeE9tNkhkeVQzWmJwQ0VrZkxaUUkxX3R6SzhMWkhFdXgza21lRWs1a042RGNKQmgyWmlESEpnOHB2TS00dHFCUVVBenpJUkYyMHBQaWFGcWp0WDZPTzk3Vnc3Y3VuQkdYaXRWblB1LTRrMUNqTk1xd0xVYVg2c2hlZGNPRVBaREZwOXhMc19QeVZfRDJMVUdtVDUxZl9tRV9xMlFROTlsUdIBgAJBVV95cUxOSjFFNW1wVDZEVXMzSU82NF8wbUs4dm01WExKaDl5RHIwMVE2dDJwZENxelNXMjFQaGV1Qnh3b0hrM19rNDdhelFjVVlmckwwbXp0WFA4MGRQc2hZREVRQ1dKSEZUcnIycURFVVlDeDFEMXNXY2R5X3lyWnhqWkp2cnh1YVJaTndDaXZFWFpOUk9mME9haV9VVkpPeWFLYnlRbFljZHFqOEwya1pqeXIyNnZUZVVtSm4tZ0NBV3N2dXBPRV8xdno0bFVKWDNhRnF0c0NVR2FDRXdVWmFTOFMyXzJRMF9NanlLRFdaSVpOajZCMlZFVUtOVXUyM1libW9Z?oc=5
-
-- India’s IT dream is at a crossroads - The Hindu
-  India’s IT dream
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGZMazdGWTl5Q0t6VDV6ZU9EaW5iSEt0T2FGQ1Q5aEhlU2huR2NsdkRfOE1NNzdGdERqS2VMUDdQSnZDMzd0TnZLSUFoQ2RsTGdaazBEczNTTWhBb1dTS1FBazVWbUNicmM4al9IcWRxcjBhX3RrcEZZRVBHSFlUeEZwLWFSWlp0ZVVDQ3NtLWFwM0dUVmtCYtIBnwFBVV95cUxQd1JuYVN6VENFZ1RKdEZmemFhdUpKY1JRUXNlLVJrZUt3eTQ2QzhZYVFSZVdrWmtZUmdWcnRCOTRMUlVHOTlpOUs4VnhSTGlweHdQS3BJUDVJck52bTk3VDdrOW52d0E3SnA5OEZuNUc4cExtcXl5aEdfV2V5aWtURjZSWTROVFhrU1Ryck9WU2ZybUJlOVdQWWtfdGlOckE?oc=5
+- India Steps Away From Pro-Monarchist Nepali Activist Durga Prasai - NDTV
+  India Steps Away From Pro-Mon
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOclViblZUejQwT0VzLVo0eVI4YkJCcDlicDU5RjJnNy1BUmFIWDNERVNDRU9ETFRsMkJkNjBDRGFTRGtQQ2lRbHVfeHI5TVNFUVlZNUVteTZHV0FlSE85X3pCNTktdHhHX2tJd0cwbnhmOGpZUWV4TC1rZkJJbGRqLUNLc1hNSVpKM25weTlreXJzTWtfQTVXZXZFNE9FTDctTFhHdHdwMjhhNjZqZUMtRm1IMXRWQlJvUWRJWnBBVjF4ZW9SRlRmMmV4MEhfOVVHbGVQQV9qYWlmaFZuUk4xTHZPdGxOcm5seGNLNWV30gH2AUFVX3lxTE5ublVXYnVjYWxzbDQ5bFJBeXlub1VzcllFSWFLQkwzZ2xzWHN1RTNXZlBHbmU5SEdiNDNJeXZuYnhfU3VxWkcyY1hWMFJWU2ZYSGMyd2lGNUxORThxSkRGeXZUSEpmdXYwOEc0V2pJblVnOHBRWFFtR1p5dFRoZUlwZUYzSTN6UzVWVVZKS25nYWs2cUVhTlFjS2I0bF9zQUxrMi0yM3Joc1lVeXlpVGtVTFBkckJZbGFURnpxeDdETlFuNjJEVUcwZDB0aFNMUXc5QjJIczVBbld6V2d6cXl6em9DeGt1UFkwVzlPc2VXMEw2YUtVdw?oc=5
 
 - School assembly news headlines, November 4: Top India, world, sports, business news - India Today
   School assembly news headlines, November 4: Top India,
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWZQRzE0NVNNUG1UTTNXcXlUWWxoaVhFNTVrN0pwWDl5U0hqNHRBTk5ORXpTWDRHSjhETTU5OHpCWXRvWmQ1NGxVX3V3ZDR1c3JkMWdmcmhNNEotT1QxMXlCYVRrNFZDRzdJZWRNN2lJZ21hWmVKSDBGeHpKUm5xNDFCMDh2MFI2Ymg3WG5ZWXljS0dYaEc5ZjRpa0NneHdoWTB2VWtvMnpBV2F4NUV2MEF0cGNUMk5SYzRVc1VzcFI0T3ZuMDUzUUkzVko0SlN5ZjlZSTdpT1RVQ1hYOVM5SlhJdDPSAeoBQVVfeXFMUHNBVmNUX0toM3hWTXd1VG4yZlg3TUk5Rnc1SHFfdWZuSlpnUjFYN3B6RG9NMW1lY1JqdGlPTF9DRVVIY0VYaVBKeTl6YnlLaDd2Z21PRnZkX3N1WmxrbzFQcjVjWDlkOVJPanlQRHJXckFYd1Y1UnVQOG5yQmpuNGZjUFZfTEVKX2dLVzhucWNBNG1lTU42aUdpelRxNkRjeDdoVkdzZXdjRk5oajdaTkRGZ3g3MjRoQWpMODR4cWZTd1IxUFZtMHVHN2xiVmp2VmQweEJiYWZMWmduLW9CUFN4NHJyY0lGU0xR?oc=5
 
-- After Western Front's 'Trishul', Indian Forces Look East For War Game 'Poorvi Prachand Prahar' - News18
-  'Trishul', Indian Forces Look East For War Game
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN3htdGg1ZVd5RVlyMTJabk5MT2JYZkFMRlFjNXZVeXV4Um00QlZhZlB4dnVPVHNCNlBQT1A0SlF3bmpiSnZSbHc5QkprV09WcE1RM3prb0JvVFhoWWtqNTBhZjNNeTh3RGZVQ1RCb3FMaWI1YWZ1VER1cHdLOVNNd3VuZnR6clJYOUNoMkdXUmVYY2RnS2NJNjR5NThsUlRjZURLNS1OUHpVTDk0WjVJNW5VMHhScFdLV0FKQzNKbWYyV2dORVBXQ21CMmw1Q1djYl8wdGdhR3lLMHPSAeABQVVfeXFMT2RKWWJjb2FiRklOUjFHU1hONHlwSkJXOEl1SmlnZlQ4U05TMGpUdk5iUVYtdW83XzdhSmxtbEhpUC0tNHJneVJFeFVZMEktYkVMWE9RQ2tMdmR1dFBiWjFLd0wxOHN3MjNRd09xVlFNU2JTa0tlVkUtMU9pZm5sb3UtTjJPYkFiQUVtMW9rZzJ5MGloZ29TcDNCOXJWaTJaU19sSGFrRF9zcFRQYnpFaGFDdjBrY29CVEljVTZtUndtazNGMjl1MDdKaHI3ZVVwZHRSTzRmQlhadHUwLVZYY2k?oc=5
+- Australian traveller praises India's unmatched hospitality, gets emotional in viral video - India Today
+  Australian traveller praises India's unmatched hospitality in viral video
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQjBINjJHclBFNHhLT09uelpDcGJKckQyQXoxVVBVejNKd3BnU2ozZ1Z6NzdSSmZZZmVGeE5LQ3NrVVdLaWFGSzVZOU1JQmRYN3lJbm95eGZVWVlRRmFjbzNUcTFxUW9hT0w1R2pEWEdFaFNYVlZnU0Z5M3RDaTh5b0ZocVVRMDRxdE1MTjVza05POG5FMzRyODR1a1VaZWZHQlNGTGRqdjUtRjdVWWlyQXo3SU9RZFFYN2JQN3pyY0xXdlVhRHktdEpOVC1ZS08wTHpucThVRkRpRzIwZ21JVlhMMTAzZ9IB6wFBVV95cUxNWFNoQ2o4dHlQT0pON1JPZ1dkbk8xeWFERnF5UGV0akZXb3VaZjhoZ0dlUzFzNzdKWC1KN284ZE9DNVVORmhwWVRWQVFLVjViM2l5Wkc0bjhTTlZnd01ZdFllV3VVMHhDU01HVW51QWVGdWptY2EtTTBQeGtPNzdjVXNQcW1DLVlJRG1ILWs3NF9Xa0JVZ1F4SUpfNnFZTTl5Ym01NjdEc0VtSV92OTR1ZElsWUViZHBCSXVCU0V3UndOeWxSWFFzb3NRYzdpdUUtelA0ckFHeDRzTjNrRkl6VXNRSDdLclBQRUdv?oc=5
+
+- UAE supplying weapons to Rapid Support Forces: Sudanese Ambassador to India Eltom - The Hindu
+  UAE supplying weapons to Rapid Support Forces: Sudanese
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVVNtUUxCbXNmWFhtMzFDTmRFY1Ytb01LSnhISDhfeXE1Skt6QXA4X1lsSUxnazZUWnBvNVI0eFVuUEJzci1IVXdYNmptbFhkNUhCSzdiZTRSbzRyTHNOYmp2a3BBVE10eFJreTd0UDRKbmhOT2w1N2tOdHY2OW1YSGNiS3FEdy1hZE9VM3V5ai05dGVxbVBlRU5SQUNiRUpIM1Mtck43amQwWFgyOEF4cjZ6U2tpQnFESGZGUUNYYjg4ZXJpOF96MlNaSmQ4Z0dUNmVrY2tYUWdBcW5T0gHjAUFVX3lxTE9LTk02ekdPYXkwZG9pUkpDS0xRU09QS3Nza3ZORUVRalAtTm9OMTFRNlNpY3BLYS1CcWlQeEhubGlFSjd3ZzF1MjBEb2IyM0VNYVlwR2lyRV9SVVZqNVN6LXkxMmQyUDh6LVFhZXkzT2xpcHJ4cUdHcDZoVjFKQklWTHp6bjNUSVR6M2NFVUIxZXNocmJJR21vVWxUS0Y2ZmRJbzFnbHFpYkxTX2hqYXRrX2tCbTVBc25ET1VuUUI3bnNuWEd5LVowVmFuaGxFQVdLSXFOVHhkNlpNSktzM2hXbm5N?oc=5
+
+- 'If they make too much fuss …': Lalan Singh’s warning sparks row; FIR filed after video examination - The Times of India
+  'If they make too much fuss …': Lalan Singh’s warning sparks row
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPekQtbnRFUllKUDFVbmloVmR4a2tfSTRSMm5NTnFJcWd1WGZocmdFTVFWVml4c2lQWmEyQUZkaWx1YnB1UmlJOU9rQ0hWVFk1RUZzZXhsYzBkcXg0SEF5ajBBdUFhM2F0emNjTjZYSWtkejBCQk1IUTlRVkMyYWRvZEtzbFdnWFlqTms3WG0wMEJNMUpVS1BkVlBCRHNsRjJEbkMtSVdNVk1aQl91eEVrMUh5R19FNnF5dTlDTEh4NjJwQ3VlaFJTQ1VzeDRiZzZxTERuOU5UbE1NaFFVOFRvb2hRc0hjYnZUQW1V0gHwAUFVX3lxTE4zNXJxMzNGVzYyMHlNMmFmWUdFT05aaldMQTYwMk5hMFhLdXQzeHZrdDBZNElxLURoYXo2YXd1N1RrbE1VZnZfT3ZvSE94Y2E5UUg0bGZxNEF1Z2lDZ3drb0lPQmFmbWpTYURFZ3dEWDYyeWIxMnBaSWt2Z2x4R2FhdUc5aEFPYXdILTR1ekRTa0x5eGFGbWdPOEFsS1l3X3VNcFNEd2wwa2dCQWdQdjlzdS1weDV2NTE0MmFMYlFEZUxoSGNkbzJYT0xiYXFtUGpKeEdIMFBRZm1XZ1ozSFU4T1ZVWEtTTjJScnhJNEk3Mg?oc=5
+
+- India Steps Away From Pro-Monarchist Nepali Activist Durga Prasai - NDTV
+  India Steps Away From Pro-Mon
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOclViblZUejQwT0VzLVo0eVI4YkJCcDlicDU5RjJnNy1BUmFIWDNERVNDRU9ETFRsMkJkNjBDRGFTRGtQQ2lRbHVfeHI5TVNFUVlZNUVteTZHV0FlSE85X3pCNTktdHhHX2tJd0cwbnhmOGpZUWV4TC1rZkJJbGRqLUNLc1hNSVpKM25weTlreXJzTWtfQTVXZXZFNE9FTDctTFhHdHdwMjhhNjZqZUMtRm1IMXRWQlJvUWRJWnBBVjF4ZW9SRlRmMmV4MEhfOVVHbGVQQV9qYWlmaFZuUk4xTHZPdGxOcm5seGNLNWV30gH2AUFVX3lxTE5ublVXYnVjYWxzbDQ5bFJBeXlub1VzcllFSWFLQkwzZ2xzWHN1RTNXZlBHbmU5SEdiNDNJeXZuYnhfU3VxWkcyY1hWMFJWU2ZYSGMyd2lGNUxORThxSkRGeXZUSEpmdXYwOEc0V2pJblVnOHBRWFFtR1p5dFRoZUlwZUYzSTN6UzVWVVZKS25nYWs2cUVhTlFjS2I0bF9zQUxrMi0yM3Joc1lVeXlpVGtVTFBkckJZbGFURnpxeDdETlFuNjJEVUcwZDB0aFNMUXc5QjJIczVBbld6V2d6cXl6em9DeGt1UFkwVzlPc2VXMEw2YUtVdw?oc=5
+
+- School assembly news headlines, November 4: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 4: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWZQRzE0NVNNUG1UTTNXcXlUWWxoaVhFNTVrN0pwWDl5U0hqNHRBTk5ORXpTWDRHSjhETTU5OHpCWXRvWmQ1NGxVX3V3ZDR1c3JkMWdmcmhNNEotT1QxMXlCYVRrNFZDRzdJZWRNN2lJZ21hWmVKSDBGeHpKUm5xNDFCMDh2MFI2Ymg3WG5ZWXljS0dYaEc5ZjRpa0NneHdoWTB2VWtvMnpBV2F4NUV2MEF0cGNUMk5SYzRVc1VzcFI0T3ZuMDUzUUkzVko0SlN5ZjlZSTdpT1RVQ1hYOVM5SlhJdDPSAeoBQVVfeXFMUHNBVmNUX0toM3hWTXd1VG4yZlg3TUk5Rnc1SHFfdWZuSlpnUjFYN3B6RG9NMW1lY1JqdGlPTF9DRVVIY0VYaVBKeTl6YnlLaDd2Z21PRnZkX3N1WmxrbzFQcjVjWDlkOVJPanlQRHJXckFYd1Y1UnVQOG5yQmpuNGZjUFZfTEVKX2dLVzhucWNBNG1lTU42aUdpelRxNkRjeDdoVkdzZXdjRk5oajdaTkRGZ3g3MjRoQWpMODR4cWZTd1IxUFZtMHVHN2xiVmp2VmQweEJiYWZMWmduLW9CUFN4NHJyY0lGU0xR?oc=5
+
+- Australian traveller praises India's unmatched hospitality, gets emotional in viral video - India Today
+  Australian traveller praises India's unmatched hospitality in viral video
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQjBINjJHclBFNHhLT09uelpDcGJKckQyQXoxVVBVejNKd3BnU2ozZ1Z6NzdSSmZZZmVGeE5LQ3NrVVdLaWFGSzVZOU1JQmRYN3lJbm95eGZVWVlRRmFjbzNUcTFxUW9hT0w1R2pEWEdFaFNYVlZnU0Z5M3RDaTh5b0ZocVVRMDRxdE1MTjVza05POG5FMzRyODR1a1VaZWZHQlNGTGRqdjUtRjdVWWlyQXo3SU9RZFFYN2JQN3pyY0xXdlVhRHktdEpOVC1ZS08wTHpucThVRkRpRzIwZ21JVlhMMTAzZ9IB6wFBVV95cUxNWFNoQ2o4dHlQT0pON1JPZ1dkbk8xeWFERnF5UGV0akZXb3VaZjhoZ0dlUzFzNzdKWC1KN284ZE9DNVVORmhwWVRWQVFLVjViM2l5Wkc0bjhTTlZnd01ZdFllV3VVMHhDU01HVW51QWVGdWptY2EtTTBQeGtPNzdjVXNQcW1DLVlJRG1ILWs3NF9Xa0JVZ1F4SUpfNnFZTTl5Ym01NjdEc0VtSV92OTR1ZElsWUViZHBCSXVCU0V3UndOeWxSWFFzb3NRYzdpdUUtelA0ckFHeDRzTjNrRkl6VXNRSDdLclBQRUdv?oc=5
+
+- UAE supplying weapons to Rapid Support Forces: Sudanese Ambassador to India Eltom - The Hindu
+  UAE supplying weapons to Rapid Support Forces: Sudanese
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVVNtUUxCbXNmWFhtMzFDTmRFY1Ytb01LSnhISDhfeXE1Skt6QXA4X1lsSUxnazZUWnBvNVI0eFVuUEJzci1IVXdYNmptbFhkNUhCSzdiZTRSbzRyTHNOYmp2a3BBVE10eFJreTd0UDRKbmhOT2w1N2tOdHY2OW1YSGNiS3FEdy1hZE9VM3V5ai05dGVxbVBlRU5SQUNiRUpIM1Mtck43amQwWFgyOEF4cjZ6U2tpQnFESGZGUUNYYjg4ZXJpOF96MlNaSmQ4Z0dUNmVrY2tYUWdBcW5T0gHjAUFVX3lxTE9LTk02ekdPYXkwZG9pUkpDS0xRU09QS3Nza3ZORUVRalAtTm9OMTFRNlNpY3BLYS1CcWlQeEhubGlFSjd3ZzF1MjBEb2IyM0VNYVlwR2lyRV9SVVZqNVN6LXkxMmQyUDh6LVFhZXkzT2xpcHJ4cUdHcDZoVjFKQklWTHp6bjNUSVR6M2NFVUIxZXNocmJJR21vVWxUS0Y2ZmRJbzFnbHFpYkxTX2hqYXRrX2tCbTVBc25ET1VuUUI3bnNuWEd5LVowVmFuaGxFQVdLSXFOVHhkNlpNSktzM2hXbm5N?oc=5
+
+- 'If they make too much fuss …': Lalan Singh’s warning sparks row; FIR filed after video examination - The Times of India
+  'If they make too much fuss …': Lalan Singh’s warning sparks row
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPekQtbnRFUllKUDFVbmloVmR4a2tfSTRSMm5NTnFJcWd1WGZocmdFTVFWVml4c2lQWmEyQUZkaWx1YnB1UmlJOU9rQ0hWVFk1RUZzZXhsYzBkcXg0SEF5ajBBdUFhM2F0emNjTjZYSWtkejBCQk1IUTlRVkMyYWRvZEtzbFdnWFlqTms3WG0wMEJNMUpVS1BkVlBCRHNsRjJEbkMtSVdNVk1aQl91eEVrMUh5R19FNnF5dTlDTEh4NjJwQ3VlaFJTQ1VzeDRiZzZxTERuOU5UbE1NaFFVOFRvb2hRc0hjYnZUQW1V0gHwAUFVX3lxTE4zNXJxMzNGVzYyMHlNMmFmWUdFT05aaldMQTYwMk5hMFhLdXQzeHZrdDBZNElxLURoYXo2YXd1N1RrbE1VZnZfT3ZvSE94Y2E5UUg0bGZxNEF1Z2lDZ3drb0lPQmFmbWpTYURFZ3dEWDYyeWIxMnBaSWt2Z2x4R2FhdUc5aEFPYXdILTR1ekRTa0x5eGFGbWdPOEFsS1l3X3VNcFNEd2wwa2dCQWdQdjlzdS1weDV2NTE0MmFMYlFEZUxoSGNkbzJYT0xiYXFtUGpKeEdIMFBRZm1XZ1ozSFU4T1ZVWEtTTjJScnhJNEk3Mg?oc=5
+
+- India Steps Away From Pro-Monarchist Nepali Activist Durga Prasai - NDTV
+  India Steps Away From Pro-Mon
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOclViblZUejQwT0VzLVo0eVI4YkJCcDlicDU5RjJnNy1BUmFIWDNERVNDRU9ETFRsMkJkNjBDRGFTRGtQQ2lRbHVfeHI5TVNFUVlZNUVteTZHV0FlSE85X3pCNTktdHhHX2tJd0cwbnhmOGpZUWV4TC1rZkJJbGRqLUNLc1hNSVpKM25weTlreXJzTWtfQTVXZXZFNE9FTDctTFhHdHdwMjhhNjZqZUMtRm1IMXRWQlJvUWRJWnBBVjF4ZW9SRlRmMmV4MEhfOVVHbGVQQV9qYWlmaFZuUk4xTHZPdGxOcm5seGNLNWV30gH2AUFVX3lxTE5ublVXYnVjYWxzbDQ5bFJBeXlub1VzcllFSWFLQkwzZ2xzWHN1RTNXZlBHbmU5SEdiNDNJeXZuYnhfU3VxWkcyY1hWMFJWU2ZYSGMyd2lGNUxORThxSkRGeXZUSEpmdXYwOEc0V2pJblVnOHBRWFFtR1p5dFRoZUlwZUYzSTN6UzVWVVZKS25nYWs2cUVhTlFjS2I0bF9zQUxrMi0yM3Joc1lVeXlpVGtVTFBkckJZbGFURnpxeDdETlFuNjJEVUcwZDB0aFNMUXc5QjJIczVBbld6V2d6cXl6em9DeGt1UFkwVzlPc2VXMEw2YUtVdw?oc=5
+
+- School assembly news headlines, November 4: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 4: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWZQRzE0NVNNUG1UTTNXcXlUWWxoaVhFNTVrN0pwWDl5U0hqNHRBTk5ORXpTWDRHSjhETTU5OHpCWXRvWmQ1NGxVX3V3ZDR1c3JkMWdmcmhNNEotT1QxMXlCYVRrNFZDRzdJZWRNN2lJZ21hWmVKSDBGeHpKUm5xNDFCMDh2MFI2Ymg3WG5ZWXljS0dYaEc5ZjRpa0NneHdoWTB2VWtvMnpBV2F4NUV2MEF0cGNUMk5SYzRVc1VzcFI0T3ZuMDUzUUkzVko0SlN5ZjlZSTdpT1RVQ1hYOVM5SlhJdDPSAeoBQVVfeXFMUHNBVmNUX0toM3hWTXd1VG4yZlg3TUk5Rnc1SHFfdWZuSlpnUjFYN3B6RG9NMW1lY1JqdGlPTF9DRVVIY0VYaVBKeTl6YnlLaDd2Z21PRnZkX3N1WmxrbzFQcjVjWDlkOVJPanlQRHJXckFYd1Y1UnVQOG5yQmpuNGZjUFZfTEVKX2dLVzhucWNBNG1lTU42aUdpelRxNkRjeDdoVkdzZXdjRk5oajdaTkRGZ3g3MjRoQWpMODR4cWZTd1IxUFZtMHVHN2xiVmp2VmQweEJiYWZMWmduLW9CUFN4NHJyY0lGU0xR?oc=5
+
+- Australian traveller praises India's unmatched hospitality, gets emotional in viral video - India Today
+  Australian traveller praises India's unmatched hospitality in viral video
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQjBINjJHclBFNHhLT09uelpDcGJKckQyQXoxVVBVejNKd3BnU2ozZ1Z6NzdSSmZZZmVGeE5LQ3NrVVdLaWFGSzVZOU1JQmRYN3lJbm95eGZVWVlRRmFjbzNUcTFxUW9hT0w1R2pEWEdFaFNYVlZnU0Z5M3RDaTh5b0ZocVVRMDRxdE1MTjVza05POG5FMzRyODR1a1VaZWZHQlNGTGRqdjUtRjdVWWlyQXo3SU9RZFFYN2JQN3pyY0xXdlVhRHktdEpOVC1ZS08wTHpucThVRkRpRzIwZ21JVlhMMTAzZ9IB6wFBVV95cUxNWFNoQ2o4dHlQT0pON1JPZ1dkbk8xeWFERnF5UGV0akZXb3VaZjhoZ0dlUzFzNzdKWC1KN284ZE9DNVVORmhwWVRWQVFLVjViM2l5Wkc0bjhTTlZnd01ZdFllV3VVMHhDU01HVW51QWVGdWptY2EtTTBQeGtPNzdjVXNQcW1DLVlJRG1ILWs3NF9Xa0JVZ1F4SUpfNnFZTTl5Ym01NjdEc0VtSV92OTR1ZElsWUViZHBCSXVCU0V3UndOeWxSWFFzb3NRYzdpdUUtelA0ckFHeDRzTjNrRkl6VXNRSDdLclBQRUdv?oc=5
+
+- UAE supplying weapons to Rapid Support Forces: Sudanese Ambassador to India Eltom - The Hindu
+  UAE supplying weapons to Rapid Support Forces: Sudanese
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVVNtUUxCbXNmWFhtMzFDTmRFY1Ytb01LSnhISDhfeXE1Skt6QXA4X1lsSUxnazZUWnBvNVI0eFVuUEJzci1IVXdYNmptbFhkNUhCSzdiZTRSbzRyTHNOYmp2a3BBVE10eFJreTd0UDRKbmhOT2w1N2tOdHY2OW1YSGNiS3FEdy1hZE9VM3V5ai05dGVxbVBlRU5SQUNiRUpIM1Mtck43amQwWFgyOEF4cjZ6U2tpQnFESGZGUUNYYjg4ZXJpOF96MlNaSmQ4Z0dUNmVrY2tYUWdBcW5T0gHjAUFVX3lxTE9LTk02ekdPYXkwZG9pUkpDS0xRU09QS3Nza3ZORUVRalAtTm9OMTFRNlNpY3BLYS1CcWlQeEhubGlFSjd3ZzF1MjBEb2IyM0VNYVlwR2lyRV9SVVZqNVN6LXkxMmQyUDh6LVFhZXkzT2xpcHJ4cUdHcDZoVjFKQklWTHp6bjNUSVR6M2NFVUIxZXNocmJJR21vVWxUS0Y2ZmRJbzFnbHFpYkxTX2hqYXRrX2tCbTVBc25ET1VuUUI3bnNuWEd5LVowVmFuaGxFQVdLSXFOVHhkNlpNSktzM2hXbm5N?oc=5
+
+- 'If they make too much fuss …': Lalan Singh’s warning sparks row; FIR filed after video examination - The Times of India
+  'If they make too much fuss …': Lalan Singh’s warning sparks row
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPekQtbnRFUllKUDFVbmloVmR4a2tfSTRSMm5NTnFJcWd1WGZocmdFTVFWVml4c2lQWmEyQUZkaWx1YnB1UmlJOU9rQ0hWVFk1RUZzZXhsYzBkcXg0SEF5ajBBdUFhM2F0emNjTjZYSWtkejBCQk1IUTlRVkMyYWRvZEtzbFdnWFlqTms3WG0wMEJNMUpVS1BkVlBCRHNsRjJEbkMtSVdNVk1aQl91eEVrMUh5R19FNnF5dTlDTEh4NjJwQ3VlaFJTQ1VzeDRiZzZxTERuOU5UbE1NaFFVOFRvb2hRc0hjYnZUQW1V0gHwAUFVX3lxTE4zNXJxMzNGVzYyMHlNMmFmWUdFT05aaldMQTYwMk5hMFhLdXQzeHZrdDBZNElxLURoYXo2YXd1N1RrbE1VZnZfT3ZvSE94Y2E5UUg0bGZxNEF1Z2lDZ3drb0lPQmFmbWpTYURFZ3dEWDYyeWIxMnBaSWt2Z2x4R2FhdUc5aEFPYXdILTR1ekRTa0x5eGFGbWdPOEFsS1l3X3VNcFNEd2wwa2dCQWdQdjlzdS1weDV2NTE0MmFMYlFEZUxoSGNkbzJYT0xiYXFtUGpKeEdIMFBRZm1XZ1ozSFU4T1ZVWEtTTjJScnhJNEk3Mg?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-11-04 06:28:20 UTC_
+_Last updated: 2025-11-04 12:38:34 UTC_
