@@ -1,64 +1,108 @@
 # 📰 Daily News Summaries
 
-- Trade tension, oil pressure — but Donald Trump keeps dialing PM Modi: White House says trade team in 'ser - The Times of India
-  The Times of India reports that the White House is trying to renegotiate a trade deal with India
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNd2tSZVVTN1dLV3picUEwSXdScUI5alpNV284Qm52TzZqQXU0dXZacGhSNE01RUpEVTZiN0ZkUUFJZVBuSi1aWWg1RkV3UUhDMlFVSUNuZzNkd2JQcE4wMTc3UFZSeHJpMUM5QzBIdnF5c0tPb3ZBa1F2SGFoSm0tY3IybENEbHdJNDhZY3lPdTZQa09BeWozOVphVUZ2SFpxYXVRbXdhSzBMQjRqb2hkdkgzcDY4X1RnT1pqYzFfYzZKVG52SDQzM3IyclRGTHoybVBQY0U3bVZOb0pReVlfTlp4VWRrYkY4WU5NeTB4ckJnZHJtVURTaE9sYlUxa0dVSHlteUIybWNSNUtDd0ZzZ0NB0gGXAkFVX3lxTFAxc0tfX2xZYW5kaXlhcDk5R1lhU3VFYW9zTldBWmVJdE1MQ0dQWldDdkZzTHdhdXZ2N085Z0ZoMU50WGxzTDB1RWhYbWstUE0yUkdtYW04dlp6dGJsY0N5MTlONW13UkR1OVhjR3l4Qi1EaDBfT3RYX2h2bnY0Nm5rbkNOM2Fla2ZvZ19JYlVqYTlCT3d2Y1B3VjJneVFjaldzcFlYWERHeWxLM2ZsM29KN0E1Y2U4MXQzLWE0emJrUXlvX0xuT2dYeWdFTDhKaDdGYU5qZlRxM0p5WVI3MGxTSkF1WVhubFh5Z1gyeXpTNE5jcGRIOWU5YjQ4OW9jd1poTjVXOVdUMjNQMGRDdURTTzM1WmYwRQ?oc=5
+- In Kashmir, officials seek details, salary slips of journalists to create ‘verified’ list
+  
+  🔗 https://indianexpress.com/article/india/in-kashmir-officials-seek-details-salary-slips-of-journalists-to-create-verified-list-10348621/
 
-- NDTV Exclusive: Israel Calls India A Global Superpower, Says Ties "Stronger Than Ever" - NDTV
-  NDTV Exclusive: Israel Calls India A Global Superpower
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaFhPd0EzT1BlSXdnaVdCR0FpSE9MRmpVM3hhOG5mdXJEU1pHMkFTa1ZjREhDU2VVblBXVURLbXRYN1hlZEtjSDMtbTZKWS1uMlp0cnUyeGtXajFvUDVaaDd2M2JKeHp0RWVkRVVJSzZ5U3ZXVURmOXZrMVlvR1JWYTJmSXpqRF9KaWpDb2d0dnhnVFhIZ1g0OXQ2SVRhVnlWMWdpOE5tcG9IeklOc3VHLWNIMzVaUnhVQWc1ajdaVTJJTnFwMGNjdUxpX3BWY2pVT0hVSHlKc3o5MkZzQWhJVTl1YVBwQdIB7gFBVV95cUxNeHpFTzlHLWwxN053NzI1cmN6M0xGSHpmdDBEY2VEQ1J3ejJka3pYaGhpOEFxd1dNODAxOUJSd0Fua0FZYVhqM3c0czVlWl82Vi1kS2NaNmZLNm53MGRWNEVuQUxZak0xZlQtMDhCT29hcVRCdnJJYUxpR2Yxa0RJTVFQSDN4UFNYRjV3Vk5ocldjZktlYURlNGNfTHhqTTZjQVNBbXhfWmxoUjRlVnNydTBnWUJJYVUzaThvUHdoV2d4QnR5bU5GZlV1S09wbmI0dGF3SUlVc1ZmUVNRV2ZjM0pjRjg3UGFodWV4a19R?oc=5
+- ‘Blood on coach wall, people falling on each other’: Scenes from Chhattisgarh train crash
+  
+  🔗 https://indianexpress.com/article/india/blood-on-coach-wall-people-falling-on-each-other-scenes-from-chhattisgarh-train-crash-10348620/
 
-- Delhi AQI discrepancy: Ground readings much worse than official data - India Today
-  Delhi AQI discrepancy: Ground readings much
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc01XSXAzeU5LRk4ySHFuTWs2UVRmUEJzYnZmd1d2MElUSl9KZ245NFp1dW9zR3ZwZUgtLVpxWEl0c2NVZ3ZBNGJKX00tQ0JsM0dLYmphbUFpWnN4OVljVmR0TC1tYW5HeV9mWkZyekNJdGIyN1FyT21FN0oycnlITHA5dGVpR1JmQnlhYzJzdEdSZnR2ZTdmMWtoTk4tSHN5dFByRkRxdHhTZFRDYzNaaDZFQmFZb3hwbXpHOU4wNnhZOWo1SVpTNmktVVVKV1hfOWNOcVNuckJOQmxEN1UzNWlFV0LSAeoBQVVfeXFMUEg3VWFvRE5kcWMwbVRnUjNWSXVaM3g2T21YREpHaXZ1ZTFabXJQbGF1VDhjOUdYcEs1dVF2eUR1NmdJd2d6ZHJJM0hQSlhqWkZycU0zRFJJR2xzMVE5b3pOY2k3ZGRKbXRoeS00RFd1MjFCWFgxLVpEc1h4d0x3VDRqSUlhS2Y5WWlEM0hsZG5GTUhnRHNQQ1NpMFE4Smx5UlNCM0FoM3lLc2R3TG5aci1NbnNWZDVDTnNBNWpqdERSRUZnY1Bxal95UTNRcTV1dEVaUFBIeUtzMG5RanZaMkRLZWZrU1JCMzJB?oc=5
+- Climate Finance Report ahead of COP30: Plans on funding sought from developed nations
+  
+  🔗 https://indianexpress.com/article/india/climate-finance-report-ahead-of-cop30-plans-on-funding-sought-from-developed-nations-10348663/
 
-- 30-Year-Old Was Bowling, Stopped To Have Water. Then Collapsed And Died - NDTV
-  30-year-old was Bowling, Sto
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOVnZiM0dDZlQyQkdoUTN6SFJDU3dreWtTb0pXVEt5WWljdTRTS0wwYUxiRXBGdmdlUGpYQ20tYk1IQTNvU3BaemFwT2tEWXVEcEdnODM5QjZxbjFmLUh6ZklUZjVyNDNYSTlLSENsV1BKUHdMTE1nR3BRbzFZYi1JLXIxcE5CT0pBNVNhdTdpdDBNWWtVcHBta1ZlYjB4X1RnSkIzN241dWhiQ3hRYlHSAbYBQVVfeXFMUEVQRnNzdU5TY25hN3p6SzloRWF6VDQtMS0xQVQ0clpMS2xEM09wZTI0eW9hMmQ2eUVUMXc5clpPTzY0UVk3VGo4UjJvcnFFMVV3ZXBpTkdEQ3Bwbnl6VlFPNVhDaThPWmRLbHlfOVJ3eV9WbHFlM21EM2dqLVZvMEJpdDlGaHlpYmItWkFtZlpEQ0ktWG5XRUI0NllYTGRhZW16RWs3VS1leE5TSVpkNDZuMVRkcHc?oc=5
+- Opp’s Bihar defeat certain, looking for excuses: Rajnath Singh
+  
+  🔗 https://indianexpress.com/article/india/opps-bihar-defeat-certain-looking-for-excuses-rajnath-singh-10348646/
 
-- How Zohran Mamdani sees India beyond ‘Dhoom Machale’: Flaunts desi heritage, with a ‘vision’ caveat on PM Modi | Latest News India - Hindustan Times
-  Zohran Mamdani sees India beyond ‘Dhoom Machale’.
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQQzQ4MmlpMlZkaFRRaUcyVzFPbHcwbzYwVHdIdk1qc2VvMkpXbUUybmRkNGt6Z2ZiSzlBSkRUOWlSaXAyTktyMGMyang0anlkX3FKSkxfeUhJZzlHYU5FVk1JVnZsekFsZ25OamdBQWRNN0pYTVg0U0R0Ulh6UHJWZU1xc29namlHbmdzMWZpd1VGSmdQZnBiT0NPdTZRbVc1THRXc3pGbFRqbUotRXVIV1hRQXVMZXNIVkhqUHNGd3hjZmtuMlNkMzJockxNNlpCbjZqSTBkVTlSNURYR1pnS0xuZGdZQjdPTHk5VmM5alpDVzVidTJ1WFR1SmNVRHlIN1J1WkFhTdIBjAJBVV95cUxNRTFPUDdGVElncHlzMVNEYm1JdDRtRE1YUllOSF9IMXlxQUJwR3NOVlg2Qm5qM1pPOVJlb3dLc0ZDZVZjckFWcWpWSHJTN1BzOU9uaUVheDR3aU0zTV82Qmc3am9oMzBnQmVnT19kd1l4dFNsdkE2U3BVZXpoMzRiMWdNd2Jza3Y4Z1NlZjdQbHJVUHVkYTZUbGRMeXRuQXBZcGlaRllDWVpfRXBqTVB6YzRjMnNHTDdIUGxITjBsYnhvR19SMUpHTnNWTXlYeWhYYUFaUkloRDFfWi1MTzNmNWFJbUxaTTJ3a2JoYzRqMW5HeENYWHJ1RzRKU2NKZDVMcHdNMzNneW5rZGZz?oc=5
+- 3rd home for cheetahs coming but there’s a challenge: 25 tigers there
+  
+  🔗 https://indianexpress.com/article/india/3rd-home-for-cheetahs-coming-but-theres-a-challenge-25-tigers-there-10348634/
 
-- France moves to suspend Shein over sex dolls &amp; weapons on day Paris store opens
-  The discovery of the sex dolls on Shein's website by France's consumer watchdog fuelled an outcry and heightened the pressure
-  🔗 https://www.livemint.com/companies/news/france-moves-to-suspend-shein-over-sex-dolls-weapons-on-day-paris-store-opens-11762362818942.html
+- Apple to use Google’s AI model to run new Siri, report says
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-to-use-google-ai-model-to-run-new-siri-10348660/
 
-- United Spirits puts RCB cricket team under strategic review as alcobev giant aims to focus on its core business
-  United Spirits has put the cricket team RCB under strategic review. Diageo's India arm aims to focus its attention on its core business.
-  🔗 https://www.livemint.com/companies/news/rcb-united-spirits-puts-cricket-team-kohli-under-strategic-review-as-alcobev-giant-aims-to-focus-on-its-core-business-11762360726680.html
+- Can OpenAI’s new ‘IndQA’ benchmark help Indic LLMs close the gap?
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/can-openai-new-indqa-benchmark-help-indic-llms-close-gap-10348131/
 
-- Post Ecom Express deal, Delhivery ditches discounts to boost margins
-  Delhivery seeks to boost profit margins after acquiring Ecom Express, reducing the need for heavy discounts. The company reported a 16.3% revenue increase, while logging a net loss
-  🔗 https://www.livemint.com/companies/ecom-express-deal-delhivery-india-logistics-industry-gst-reforms-quick-commerce-parcel-11762352852027.html
+- Google introduces agentic AI features to search, expanding booking capabilities
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-introduces-agentic-ai-features-to-search-expanding-booking-capabilities-10347961/
 
-- Birla Opus CEO Rakshit Hargave quits to lead Britannia
-  Hargave was appointed chief of the challenger paint brand less than a year ago. He will take on the CEO position at biscuit maker
-  🔗 https://www.livemint.com/companies/britannia-rakshit-hargave-new-ceo-birla-opus-11762352136400.html
+- Moto G67 Power launch confirmed in India; entire specifications leaked before debut
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/moto-g67-power-launch-confirmed-in-india-entire-specifications-leaked-before-debut-10347940/
 
-- Tesla board in fix ahead of 6 November vote on Elon Musk's mega pay package; this major shareholder opposes it
-  The company is set to hold its shareholder meeting on Thursday, 6 November 2025. Tesla's board of directors are set to witness shareholders crucial vote which will determine the fate of the mega pay package proposed
-  🔗 https://www.livemint.com/companies/people/tesla-board-faces-elon-musks-mega-pay-package-crucial-vote-on-november-6-this-major-shareholder-stands-against-it-11762346578334.html
+- Apple’s first budget MacBook may launch in early 2026: Here’s what to expect
+  
+  🔗 https://indianexpress.com/article/technology/laptops/apple-macbook-budget-specs-2026-launch-10347560/
 
-- US Stock Market today: Wall Street gains as more firms report results, McDonald’s jumps 3%
-  The S&amp;amp;P 500 rose 0.5%, the Dow Jones Industrial Average
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-gains-as-more-firms-report-results-mcdonald-s-jumps-3-11762355263851.html
+- Piramal Finance open to patient foreign capital, but no quick deals yet: CEO
+  Piramal Finance is open to strategic foreign investment. The company aims to double its assets under management to  ₹1.5 trillion by FY28.
+  🔗 https://www.livemint.com/companies/piramal-finance-foreign-investors-jairam-sridharan-non-bank-lender-nbfc-abu-dhabi-ihc-samman-capital-11762346112532.html
 
-- Traders exploit import loophole to reap big platinum gains
-  An oversight during the amendment of an import rule has given traders and jewellers an opportunity to make a significant profit
-  🔗 https://www.livemint.com/market/platinum-imports-precious-metals-platinum-demand-silver-imports-india-gold-prices-forex-impact-tariff-effect-us-dollar-11762348700555.html
+- Evonith targets aggressive ramp-up in steel capacity by 2030
+  The company plans to scale up to 6 million tonnes per annum of capacity over the next three to five years.
+  🔗 https://www.livemint.com/companies/news/evonith-steel-targets-aggressive-capacity-ramp-up-2030-fifth-largest-steelmaker-jsw-tata-jindal-steel-authority-of-india-11762352327493.html
 
-- Multibagger Praj Industries to be in focus on Thursday as company reports 65% YoY drop in Q2 net profit
-  The company reported a 65% YoY drop in its consolidated net profit at  ₹19.2 crore in Q2. It had reported a net profit of 
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-praj-industries-to-be-in-focus-on-thursday-as-company-reports-65-yoy-drop-in-q2-net-profit-11762353786012.html
+- Full circle: Three years after it sold Sprng to Shell, Actis wants to buy it back
+  The massive scale of India’s green energy space has attracted
+  🔗 https://www.livemint.com/companies/news/actis-eyes-sprng-buy-back-from-shell-in-1-55-billion-deal-blackstone-and-brookfield-also-interested-11762342374985.html
 
-- Britannia Industries Q2 Results: Net profit rises 23% to  ₹655 crore, beats estimates; revenue up 4% YoY
-   Britannia Industries announced a 23% increase in Q2FY26 net profit. Revenue rose to  ₹4,
-  🔗 https://www.livemint.com/market/stock-market-news/britannia-industries-q2-results-net-profit-rises-23-to-rs-655-crore-beats-estimates-revenue-up-4-yoy-11762351011021.html
+- Centre’s big corporate revamp: more RoCs, more oversight, easier compliance
+  The shake-up will see the creation of six new registrars of companies (RoCs) and three new regional directors (RDs)
+  🔗 https://www.livemint.com/companies/news/revamped-company-law-administration-from-january-for-better-services-oversight-11762340046135.html
 
-- Multibagger stock declares 5% interim dividend. Record date, other details declared
-  Elitecon International Ltd declared a 5% interim dividend along with its July-September quarter results on Wednesday, 5 November
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-stock-elitecon-international-declares-5-interim-dividend-record-date-other-details-declared-11762351067586.html
+- Top clients keep Indian IT afloat amid AI uncertainties
+  India’s largest IT firms are leaning heavily on their biggest clients to weather a slowdown
+  🔗 https://www.livemint.com/companies/top-clients-keep-indian-it-afloat-amid-ai-uncertainties-11762318559773.html
+
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 6 November 2025
+  Sumeet Bagadia recommends five breakout stocks to buy today. Anand Rathi Share and Stock Brokers
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-6-november-2025-11762389807419.html
+
+- MSCI Rejig: Paytm, Fortis, GE Vernova, Siemens Energy included in India Standard index; Concor, Tata Elxsi deleted
+  MSCI India Index is a part of the MSCI Global Standard Index. Fortis Healthcare, One 97 Communications, GE Vernova T
+  🔗 https://www.livemint.com/market/stock-market-news/msci-rejig-paytm-fortis-ge-vernova-siemens-energy-included-in-india-standard-index-concor-tata-elxsi-deleted-11762390229172.html
+
+- Orkla India IPO listing date today. GMP, experts signal strong debut of shares in stock market today
+  Orkla India IPO listing date is today, 6 November 2025. The shares will be listed on BSE and NSE.
+  🔗 https://www.livemint.com/market/ipo/orkla-india-ipo-listing-date-today-gmp-experts-signal-strong-debut-of-shares-in-stock-market-today-11762365672304.html
+
+- Stock market today: Trade setup for Nifty 50, Q2 results, IPO frenzy to gold prices - 8 stocks to buy
+  Nifty 50 dipped below 25,600, while investor sentiment remained low amid persistent FIIs outflows.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-q2-results-ipo-frenzy-to-gold-prices-8-stocks-to-buy-11762357113346.html
+
+- Stocks to buy: Raja Venkatraman's top picks for 6 November
+  Market expert Raja Venkatraman shares his top three stock picks to buy today, 6 November.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-best-stock-picks-raja-venkatraman-6-november-sensex-nifty-11762317059627.html
+
+- Google Maps integrates Gemini for hands-free routing, real-world landmark navigation and more
+  Google Maps is rolling out a Gemini update that enables hands-free navigation and traffic alerts. Users can ask about nearby
+  🔗 https://www.livemint.com/technology/tech-news/google-maps-integrates-gemini-for-hands-free-routing-real-world-landmark-navigation-and-more-11762360500805.html
+
+- iOS 26.2 may have just leaked Apple’s surprise smart home gadget: here's what we know
+  A new report suggests that Apple is developing a new smart home accessory, likely a camera or door
+  🔗 https://www.livemint.com/technology/tech-news/ios-26-2-may-have-just-leaked-apple-s-surprise-smart-home-gadget-heres-what-we-know-11762356871572.html
+
+- AI data centers need electricity. They need this, too.
+  Industrial companies are beefing up on
+  🔗 https://www.livemint.com/technology/ai-data-centers-need-electricity-they-need-this-too-11762356579233.html
+
+- Maharashtra becomes first state to team up with Elon Musk's Starlink, CM Fadnavis calls it ‘giant leap’
+  The Maharashtra government announced a partnership with Starlink to deliver satellite internet services
+  🔗 https://www.livemint.com/technology/tech-news/maharashtra-becomes-first-state-to-team-up-with-elon-musks-starlink-cm-fadnavis-calls-it-giant-leap-11762352381186.html
+
+- Nebius takes on Microsoft and AWS with new open-model AI platform: All you need to know
+  Nebius introduced Token Factory, a platform for deploying open-source AI models efficiently. Supporting over 60
+  🔗 https://www.livemint.com/technology/tech-news/nebius-takes-on-microsoft-and-aws-with-new-open-model-ai-platform-all-you-need-to-know-11762346558903.html
+
+- Asian stocks set to rise after Wall Street gains
+  Asian stocks are poised for a rebound, mirroring Wall Street's positive sentiment driven by resilient US labor market data. Investors see opportunities in the current market pullback, with strong earnings momentum and encouraging economic indicators supporting a bullish outlook.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-set-to-rise-after-wall-street-gains-markets-wrap/articleshow/125120358.cms
 
 - Don't panic yet, investors say, as high-flying AI stocks tumble
   Technology stocks experienced sharp declines, with bourses in Seoul and Tokyo falling significantly from recent peaks. While the selloff appears largely positioning-driven, with recent outperformers taking the brunt, investors
@@ -76,29 +120,25 @@
   Indian markets were closed for a holiday on Wednesday. On Tuesday, the Sensex and Nifty closed lower, extending their losing streak. Investor sentiment remained subdued amid FII selling and rising US bond yields.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/125111701.cms
 
-- Stock market sentiment likely to remain constructive after sharp rally in October: Analysts
-  Analysts anticipate new record highs for Nifty and Sensex by year-end. October saw a significant rally driven by strong corporate results, FII inflows, and easing global yields.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-market-sentiment-likely-to-remain-constructive-after-sharp-rally-in-october-analysts/articleshow/125111043.cms
-
-- Trade tension, oil pressure — but Donald Trump keeps dialing PM Modi: White House says trade team in 'ser - The Times of India
-  The Times of India reports that the White House is trying to renegotiate a trade deal with India
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNd2tSZVVTN1dLV3picUEwSXdScUI5alpNV284Qm52TzZqQXU0dXZacGhSNE01RUpEVTZiN0ZkUUFJZVBuSi1aWWg1RkV3UUhDMlFVSUNuZzNkd2JQcE4wMTc3UFZSeHJpMUM5QzBIdnF5c0tPb3ZBa1F2SGFoSm0tY3IybENEbHdJNDhZY3lPdTZQa09BeWozOVphVUZ2SFpxYXVRbXdhSzBMQjRqb2hkdkgzcDY4X1RnT1pqYzFfYzZKVG52SDQzM3IyclRGTHoybVBQY0U3bVZOb0pReVlfTlp4VWRrYkY4WU5NeTB4ckJnZHJtVURTaE9sYlUxa0dVSHlteUIybWNSNUtDd0ZzZ0NB0gGXAkFVX3lxTFAxc0tfX2xZYW5kaXlhcDk5R1lhU3VFYW9zTldBWmVJdE1MQ0dQWldDdkZzTHdhdXZ2N085Z0ZoMU50WGxzTDB1RWhYbWstUE0yUkdtYW04dlp6dGJsY0N5MTlONW13UkR1OVhjR3l4Qi1EaDBfT3RYX2h2bnY0Nm5rbkNOM2Fla2ZvZ19JYlVqYTlCT3d2Y1B3VjJneVFjaldzcFlYWERHeWxLM2ZsM29KN0E1Y2U4MXQzLWE0emJrUXlvX0xuT2dYeWdFTDhKaDdGYU5qZlRxM0p5WVI3MGxTSkF1WVhubFh5Z1gyeXpTNE5jcGRIOWU5YjQ4OW9jd1poTjVXOVdUMjNQMGRDdURTTzM1WmYwRQ?oc=5
-
-- NDTV Exclusive: Israel Calls India A Global Superpower, Says Ties "Stronger Than Ever" - NDTV
-  NDTV Exclusive: Israel Calls India A Global Superpower
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaFhPd0EzT1BlSXdnaVdCR0FpSE9MRmpVM3hhOG5mdXJEU1pHMkFTa1ZjREhDU2VVblBXVURLbXRYN1hlZEtjSDMtbTZKWS1uMlp0cnUyeGtXajFvUDVaaDd2M2JKeHp0RWVkRVVJSzZ5U3ZXVURmOXZrMVlvR1JWYTJmSXpqRF9KaWpDb2d0dnhnVFhIZ1g0OXQ2SVRhVnlWMWdpOE5tcG9IeklOc3VHLWNIMzVaUnhVQWc1ajdaVTJJTnFwMGNjdUxpX3BWY2pVT0hVSHlKc3o5MkZzQWhJVTl1YVBwQdIB7gFBVV95cUxNeHpFTzlHLWwxN053NzI1cmN6M0xGSHpmdDBEY2VEQ1J3ejJka3pYaGhpOEFxd1dNODAxOUJSd0Fua0FZYVhqM3c0czVlWl82Vi1kS2NaNmZLNm53MGRWNEVuQUxZak0xZlQtMDhCT29hcVRCdnJJYUxpR2Yxa0RJTVFQSDN4UFNYRjV3Vk5ocldjZktlYURlNGNfTHhqTTZjQVNBbXhfWmxoUjRlVnNydTBnWUJJYVUzaThvUHdoV2d4QnR5bU5GZlV1S09wbmI0dGF3SUlVc1ZmUVNRV2ZjM0pjRjg3UGFodWV4a19R?oc=5
-
-- Delhi AQI discrepancy: Ground readings much worse than official data - India Today
-  Delhi AQI discrepancy: Ground readings much
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc01XSXAzeU5LRk4ySHFuTWs2UVRmUEJzYnZmd1d2MElUSl9KZ245NFp1dW9zR3ZwZUgtLVpxWEl0c2NVZ3ZBNGJKX00tQ0JsM0dLYmphbUFpWnN4OVljVmR0TC1tYW5HeV9mWkZyekNJdGIyN1FyT21FN0oycnlITHA5dGVpR1JmQnlhYzJzdEdSZnR2ZTdmMWtoTk4tSHN5dFByRkRxdHhTZFRDYzNaaDZFQmFZb3hwbXpHOU4wNnhZOWo1SVpTNmktVVVKV1hfOWNOcVNuckJOQmxEN1UzNWlFV0LSAeoBQVVfeXFMUEg3VWFvRE5kcWMwbVRnUjNWSXVaM3g2T21YREpHaXZ1ZTFabXJQbGF1VDhjOUdYcEs1dVF2eUR1NmdJd2d6ZHJJM0hQSlhqWkZycU0zRFJJR2xzMVE5b3pOY2k3ZGRKbXRoeS00RFd1MjFCWFgxLVpEc1h4d0x3VDRqSUlhS2Y5WWlEM0hsZG5GTUhnRHNQQ1NpMFE4Smx5UlNCM0FoM3lLc2R3TG5aci1NbnNWZDVDTnNBNWpqdERSRUZnY1Bxal95UTNRcTV1dEVaUFBIeUtzMG5RanZaMkRLZWZrU1JCMzJB?oc=5
-
-- 30-Year-Old Was Bowling, Stopped To Have Water. Then Collapsed And Died - NDTV
-  30-year-old was Bowling, Sto
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOVnZiM0dDZlQyQkdoUTN6SFJDU3dreWtTb0pXVEt5WWljdTRTS0wwYUxiRXBGdmdlUGpYQ20tYk1IQTNvU3BaemFwT2tEWXVEcEdnODM5QjZxbjFmLUh6ZklUZjVyNDNYSTlLSENsV1BKUHdMTE1nR3BRbzFZYi1JLXIxcE5CT0pBNVNhdTdpdDBNWWtVcHBta1ZlYjB4X1RnSkIzN241dWhiQ3hRYlHSAbYBQVVfeXFMUEVQRnNzdU5TY25hN3p6SzloRWF6VDQtMS0xQVQ0clpMS2xEM09wZTI0eW9hMmQ2eUVUMXc5clpPTzY0UVk3VGo4UjJvcnFFMVV3ZXBpTkdEQ3Bwbnl6VlFPNVhDaThPWmRLbHlfOVJ3eV9WbHFlM21EM2dqLVZvMEJpdDlGaHlpYmItWkFtZlpEQ0ktWG5XRUI0NllYTGRhZW16RWs3VS1leE5TSVpkNDZuMVRkcHc?oc=5
-
 - How Zohran Mamdani sees India beyond ‘Dhoom Machale’: Flaunts desi heritage, with a ‘vision’ caveat on PM Modi | Latest News India - Hindustan Times
   Zohran Mamdani sees India beyond ‘Dhoom Machale’.
   🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQQzQ4MmlpMlZkaFRRaUcyVzFPbHcwbzYwVHdIdk1qc2VvMkpXbUUybmRkNGt6Z2ZiSzlBSkRUOWlSaXAyTktyMGMyang0anlkX3FKSkxfeUhJZzlHYU5FVk1JVnZsekFsZ25OamdBQWRNN0pYTVg0U0R0Ulh6UHJWZU1xc29namlHbmdzMWZpd1VGSmdQZnBiT0NPdTZRbVc1THRXc3pGbFRqbUotRXVIV1hRQXVMZXNIVkhqUHNGd3hjZmtuMlNkMzJockxNNlpCbjZqSTBkVTlSNURYR1pnS0xuZGdZQjdPTHk5VmM5alpDVzVidTJ1WFR1SmNVRHlIN1J1WkFhTdIBjAJBVV95cUxNRTFPUDdGVElncHlzMVNEYm1JdDRtRE1YUllOSF9IMXlxQUJwR3NOVlg2Qm5qM1pPOVJlb3dLc0ZDZVZjckFWcWpWSHJTN1BzOU9uaUVheDR3aU0zTV82Qmc3am9oMzBnQmVnT19kd1l4dFNsdkE2U3BVZXpoMzRiMWdNd2Jza3Y4Z1NlZjdQbHJVUHVkYTZUbGRMeXRuQXBZcGlaRllDWVpfRXBqTVB6YzRjMnNHTDdIUGxITjBsYnhvR19SMUpHTnNWTXlYeWhYYUFaUkloRDFfWi1MTzNmNWFJbUxaTTJ3a2JoYzRqMW5HeENYWHJ1RzRKU2NKZDVMcHdNMzNneW5rZGZz?oc=5
+
+- In Mamdani's New York win, India's Nehru finds an echo - BBC
+  In Mamdani's New York win
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BRm9YUlN0M3BkSkpiYVBuUlF0RFdjTjcwVUg0YWMzaEJQMzU4R3o2TjRHVzdBMEtUOHB0NGtvUmN3SlZSZ09nTUpJb0FaQW5TbzEzUTNKRkVid9IBX0FVX3lxTE9uSHVQaVRSbmNJR0JYV3RZQTBwWXU5YkNHejZEVmNmTHJmNUZPT2xDZnhVZUliemN1RjcwNVpJNlp6YnB2VWxJS3RGVVZ0SWgtNVVFdm1UaFUyQldIZENZ?oc=5
+
+- Zohran Mamdani: Democrat With India Link To Be New York's 1st Muslim Mayor - NDTV
+  Zohran Mamdani: Democrat With India Link
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQelFQcnhHME5YV0ltOEF2SmpUZlI3Z1JFOUJYNFB2SGtVZWJELVBDeThrbk5LZlVnNlpRdndiRWJKM280dVlBeTlfdXJWamlWOW4zSVNxLVBZRnBoM2pZSGFBQkJjU0pyM05hX0VDVnhXMzJOTHg5RWpNbzgxQTFwMWJCbFVYeDR5SXAtWmRfLVRlRE5FWXpxM3VKSDJVUXFFeUdMVjYxTHVLRnZfQ3lhT3pR0gG6AUFVX3lxTE82R0UyWWNfVHYydjI3Zk9ZWGVFNmd1QXQzTzNLRE1sTldURmlaeDMydnZUQWNXLXdmVzVDTzZPQzZZalAxNkF6S0d5OTdKdzY3bS13LVJGQXdKNEViaHpLaHFfSmk4bWh3S3cyV2hpa2xYV1VXWUxsZ3lRbEROSDhiN2s2MEVaMGZtVkhQcGl3V1pTdzJmd1Rad2k0bklSYVdUQWZxMXVtWGduWjg3RTgyRnhYMmxoTWZWQQ?oc=5
+
+- India, U.S. holding continuous discussions for bilateral trade agreement: Goyal - The Hindu
+  India, U.S. holding continuous discussions
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnZnbnM0QUp2czZ4SGM2RmxMY1BySlZqVWVYa2xBaUV3UWtlT29ldmttUGsyLVNKN1ZpcVJwNEZPT0czZXdUc0pGSlMxVXNjZXhtOHBmNTRoc0xGN1VzSHBxMW1YVV9zbnZDd19Zd0M0Qk1JT290dWd2aVc5d0pnUTFpd0RUVV9QZU5RSm1KLUJEak11azBobzdGWjdoc2xmM3NyMnNTSkZmNEJ6ekl5QzVMYkZURmFLbWJpSVNxOFNVaHRpN2l6X9IBzwFBVV95cUxOZjUtc0YxTlJCZk9NWVVFaXJUcm4xZUJObXVNaEIzSEZ2UzU2Tnc0TVBZVjh3c0d2T1NHUUkwamJHckY3R0k1UHpMMW84Y1RlYzJHLXUzQWpPaDhHaUhtOWZ4bnlmTjRST1NzTWlzTGVmdUR3N1BmaU1jS0ZRU1lGNktqQUZDazVKaFJFa0JLLXk1RHo2eEdCdG93OVFFSThyUEpiTW1vM3RqZ2xLcldGa21wdHpHbFI0andtVWN1NnR0TmNRU3BWWGlwV1lhTEU?oc=5
+
+- Trump Has Great Respect For PM Modi, Holding Trade Talks With India: US - NDTV
+  The US is holding trade talks with India. The talks
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOZm9TaExlaXJpV2dwOUJyZ1Z5SDNCTk9OTmUxQ2p4SDVseU0takNZVEpySXhvTDREQS10ZXUyWDN1ZzRDYkxFZ2paTlhUU3VvbXo1OVM0cENfdWRZNURHd0lINU9NZUE0NTdFU3JZX3Bqc1B3UFNDQ2dVODlaOUNNUFFTNUw1T3JjeWxqYXdQb3B0dVlDY3Jqc0ZvVGlpRnB0QTRIRHM0bmhfVnpKcXfSAbYBQVVfeXFMUEFDSUJCdU5TckpZZWhNTFBOLXNFV3JtaTA4LUJWazRoUVFLeGlVU3djYmRwZUM2c3hiUWlVWEJHR3ZpeHZtNlhjaUdoSWtqa2ZnRjhQLW5kNWxKZ2ozeGZJcURtVEpZZXBEa0ZDU2s2QXAta3ZsYVZRc0RmS0tjYkNnbVNTc3ZDOV9henNYdjR6cVdNd1RNekk5cjM0ZFdHeGppSXdVTTRQckVUOXhNUGJ1RE1UMlE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -120,5 +160,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-_Last updated: 2025-11-05 18:26:38 UTC_
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+
+
+_Last updated: 2025-11-06 01:15:11 UTC_
