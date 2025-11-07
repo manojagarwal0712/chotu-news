@@ -1,110 +1,118 @@
 # 📰 Daily News Summaries
 
-- ‘8 jets shot down, but…’: Donald Trump adds fresh twist to his India-Pakistan conflict claims | India News - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0tnVTBUSWN1V3RHR3VrdHozZVlKa0RmU0Y3WHo0dm1zOFdIYTBDbFZTOGlKUHFGUTFWNm9PZXNfcWltY00zYzdYRktrck55M1pQUllVakJuYmZCRWFvd2tKVEtvQWNOTk
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0tnVTBUSWN1V3RHR3VrdHozZVlKa0RmU0Y3WHo0dm1zOFdIYTBDbFZTOGlKUHFGUTFWNm9PZXNfcWltY00zYzdYRktrck55M1pQUllVakJuYmZCRWFvd2tKVEtvQWNOTkZ1ZEhTOU5kcnVpYnk5a293V0JETm9lbk5SLUNZelpSdDhzWnlBT2dZaUhIZmtaYmxZNnhicG9qOGczcHBfd1ZZdkhFRnBSX0pCa1ppNUJCMXVpZmFIYWJRZkRSRVFmamVDMlVRdGJQLTl1N1N0ampQX21p0gHiAUFVX3lxTFBsU0VTMFBOcFM4Uk5QOXZMRzdJWExRTnAyNWhTWGhOUFN5Z010cnJXX3lrSDRLSVczTElSb0Zzbi1iVXhfRXJmbEdJeEZTdnZnYzNudFJvbGI3ZHo1NTRHNE5QZk55WkxfZHpXTzd2V013NVN6Y1BzRUw5TUQzSDN2QlA0TkpLZml1R0NTSWIteDE5MHdmcFZ4NDJSUzBLU2RZTENBMzJlVzZzTUhVZktMUmlYTFhDSDhoOGNCX3VyTnBTeGRnQkFKWWZNMFo3MHZzLXNKNWlYYkRUMjYwa1NtMWc?oc=5
+- ‘Illegal nuclear activities are in keeping with Pak’s history’: India responds to Trump’s nuke test claim
+  
+  🔗 https://indianexpress.com/article/india/pakistan-history-smuggling-aq-khan-network-mea-trump-nuclear-tests-10351847/
 
-- Nobody in country believes it was pilot's fault, Supreme Court remarks on father's plea over Air India crash - India Today
-  The pilot was the only person on board at the time of the crash. The crash
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxOQlFQRlM4a3o3V2lKeWNIc0E0QnVMTHl5WnpJRjZXZ1BGVkYzWlJ6bzJQWTF6eFB4WDlBSURWYlNFZEh0Ml80MDFWT3BFemxnYmotNFpMT1BrUGpnVDhtY29uOTI2cmlCdl8xWjk5X0h5NlpZMkVTc1ZCVjRPVEVIMTFTZFpFdk03TEYyX2h6d2hIbDM1eEo0SEwzRGdlRWx2cTUyenFYdmNqMjNJN2NIYVhjTU55NkJnQ05nZE8wazFkVjZSSU1wRHVaaUY1TXhkSjZjZ0pEeGNmVFFrMzBBMUlhaFhpamNNMGNYbFBwdmhSNWQtalZrRXNTOEJ6aDhO0gGGAkFVX3lxTE4taG11azlQRWtnUjhXbmMybEhYcENLdURzNjcydkFLdEFCcUNyaktwTXVvUjVNVnlHSk5ZaDBsSm1NdnZjYkt6cGROZ1RBWkhuaGxScHNTZ0kwNXhmWGlqN052aUJUczJ3ZEVNcFR4dEVyb0IxSW16UVJiNnNIVWx4bXhLdjh1VnMydlJ0TzJUYlJtWGY0Vmg1VGJEaTBKbnJZR241d2ktUENId3BVOVd2RXRIem1iSlNtYlBoTHNhVW54Zmk0bm80T0ZhR200alNhZ3FTYzFVRk52dVJsLW9VZ295bnF3dVlwaFRUUlhkNHBaSWl5emotRmlBYmVGV21adnBZY0E?oc=5
+- Varanasi-Khajuraho Vande Bharat train to run as ‘unreserved’ on Nov 8 – check inaugural run timing, stoppages
+  
+  🔗 https://indianexpress.com/article/india/varanasi-khajuraho-vande-bharat-inaugural-train-run-unreserved-november-8-10351540/
 
-- Delhi IGI Airport: Air Traffic Control glitch triggers massive delays, over 60 flights affected - The Hindu
-  Delhi IGI Airport: Air Traffic Control glitch triggers massive delays
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTk1aOUp2RVJEMFl5b2FjRUxiMmdtN3VqNU83ODZuZmJZdHM1TUVPbmRxT3p2Yzd0VEFfeWRMdFFOSVJFWTlianFMR3MxUDlNMmlFa21CZUR3MVdpRFZESHg2enBWTFZfcXVIS0lFNF9LR0VsdkZqXzJfNVI2c3JsY2JSMjJmdUYxamVGdWVOWHRELTU2VnRpSlh0R2tRa01Qc2pIY3puVmZlSlBlb3dwQnU2ZWZFakRobUlOLWgtSEdKTkR3emNiVmlZT3hjckVkazVPS3hn0gHcAUFVX3lxTFB0OFRhOHJtbjRoM1NrVnhuU3MtbmI5a0swWnB5a0ZRbS1NOENWZUpqbjQ5YVhZWUhQNmhwMHBCeU81NnMyanVQUzFQZFlkMzQwLWVTVUNUVHRBei05Y2d4MFl5WVFQVWE3ZXBRb0VMVFdOZmphTXpHTFIzclpjLVVtRkVsMWFVWmtlRDkwVHVyTUdCa2ZaaERrbFE3SlNCM0xiX1RrVjZ1MWx2NExnT0Z1SjNUQWJvNmRyNmxLSklLVEFZbVZJdmlPSUJMS3gxWWdmWHFqOXNIRFc3NjA?oc=5
+- Prashant Kishor has two reasons why Bihar voting broke all records this time
+  
+  🔗 https://indianexpress.com/article/india/prashant-kishor-reasons-why-bihar-voting-broke-records-10351543/
 
-- Explained: Why flights are running late at Delhi's IGI airport today | India News - Hindustan Times
-  . India News: Why flights are running late at Delhi
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRzItNkl2N1ZOSVdPRm5qd2NxUmI4aThZbnhRT0otNXpGcnQwRkVPMXpaWWlKeDJuZ0tFVkZYWTlvU3BvZ1JBRlJuRTFVTDRjZUhOakg3MjJFTDdXSm40YUk0ZVg0NXd5WTF4VHl4a0pmaTRYT1pZYk14N25YdzA1RTRtaml6LVM2N0FWbld1aEtlbVFmS1NrXzNnSFBUckQyeG5RaTh6Nm9vd3FsUHdNUGtFbU5mdlpvMXVUemtONVFGd0RPaFBJQdIBzgFBVV95cUxOa2Z6d2htUmpJclpXbUxoM0VyQUx5RmxUMThWZnBpelJXX3FvdGxIa2JRWkNaMFBNOGZvb3pQZFVhd09NRmZLQ0hOTjdfWHVubDJHclBfQ2RXSkd3S1h2ZEd1UzYyWHowcURsdFJDLVQ2c3YwSkMwTEpmTERJUTZ0ZG5kTW02c0dqTF9nU19aZnR0bDNJejVXSnV5Z0h1Qmx6WVlwemtXdlBSTnJqQmk3eG5ud3p6TTNuaTZtUG5LNko0amd0VUotaTNjRUg3Zw?oc=5
+- ‘Sowed the seeds of partition’: PM Modi alleges Congress dropped important stanzas of ‘Vande Mataram’
+  
+  🔗 https://indianexpress.com/article/india/vande-mataram-pm-address-congress-khadge-comments-10351448/
 
-- Delhi Airport Chaos: Over 100 Flights Hit Due To Air Traffic Control Glitch - NDTV
-  Delhi Airport Chaos: Over 100 Flights Hit Due
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVhFLWg5MXVhaWxONzd5aGlTVlFnajMzRHo0UUhma3Rzc1BDcGRKbWdYTUVQU0tHeEI2RWdLX2pSQlRNZXVraFpDS3B1Z0sxdVg4SkV1WTlKQVQtZ0dsY1lqYXlwVndLOGJIYk9qNXlSY1FoaGlzQ2JMa1ZPeGJaLThZNUlNNkVsdFJjOHB1d29iWk1tZlVYZFZCM2ZOQlFVQ1o4Z1JNZW9qbmRBWUpTcDhwaXlDSDjSAb8BQVVfeXFMTWxrZWRNbDZkU1Z2c2lDYUJvTl8zbTdLN2JkMW9fQXJONjVhTEpFTmFFZl9MWUlMdTRtMVlMMkpoWDQ4RTh6MEFsQlJXZ3l4WkVUVFluV0gxZVFoWUpBeHN0TmZrSFAxQkR4QmlfTFdvV2dZUl9FSldvMlRwZ2l5N1NwOTF5NGwxWWhxRGJjcEpnYkVLWTZFdWxLMlRKb0ZyQWVjd2NwMVpzYTl0Z1VDZHJWZlRwaU13THRqdlA4dnc?oc=5
+- Indian Railways to install AI-based technology to enhance security in freight trains – Here’s how it will work
+  
+  🔗 https://indianexpress.com/article/india/indian-railways-ai-technology-security-freight-trains-10351355/
 
-- Samsung Celebrated for Transformative Tech by Consumer Technology Association - samsung.com
-  Samsung Celebrated for Transformative Tech
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPYlcyV1o3eTQxZHh2eXNXRjdsRE94cE9sWnNPTTk3SldzMWhNS3NRZThLRjNnYzJKU1RjNGJjTk5GWlQ4ZGxzaU15SXVUQVYwV05makdLOEVVTmU3SndXZzZyZmlZOFAtaTU1ZU8yaFV5ZHlRX09YaVpFMzdyLWNpV181a2o1eGdMVi1zOTR0ekZlRmRnUnpDdkhnMUtqeUNYYlJvektscExkNUdqSVE?oc=5
+- 9 ways Google is helping students study smarter, not harder
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/9-ways-google-is-helping-students-study-smarter-not-harder-10351775/
 
-- Karnataka High Court directs government to develop unified and technology-driven platform for Bengaluru’s sold waste management - The Hindu
-  Karnataka High Court directs government to develop unified and technology-driven platform
-  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxPOUhHVDgyeEsyOGp2eFg1RXFyWTNkaFJIa1ZFMHB4MGlJZVBpazJlSnhfTXpQQW5md2dOVXMxdzdVTUt2OFFaS184NUF4V1ZOXzFOaDFPSXJ0TnNCc29QcnA3R1hrZ2RiYlB0M1VJWUtaNk0ySXBESkdEek1Odk9DSkZYQmF4UWFqVV90bnRWcUhKR0w1TkZncnNXSkNGTjAxUXdfY2g0dnUyeUUwUVFGOVY4bTEyX1ZlTkgzMkZkS1FEU2RMcS1pa2x5M1ByZ0xVWVV5ZHZqZHIxRGxfSTZOWDlDX3BmQklpcHFheVpHTkhubVlHSWhTODFGdkRFem5SMU9QM093dTBfRXpCOHA5eThmUlhMQmR5aXptdXVKNjPSAacCQVVfeXFMUDRGMV9BVmVaNkNwVEtSV0JOd3VzLXdoaVdQTFJ1VnN3cHE3bzE4TVgwZEZBNXVpQUhWVThjQVBuNGhFRUFlMG1XdDFSanRFNFNLUUhDQWljYWthSGwyNG54OWdRUGYycE5rb1RLWVZQTWh5bGFLV3pkY2o3LUdWaF9oN1FQYWhRd2NmWHl0eTFNYWNWVUxQSmluSnllaF94bXpUQTZ4X2VZc2wtWTRfR1QyaUdkS2YxNTcydzNDQjZ5ZzZ3YldIZUNQaDhjcjd2ZkNpcVFfMFdZNXhZWE15Tmp0RVU2WkJBdG5TZlJXUFBtelIyanZVdU1jcVVER2ZOOHhxWTVyVm5pbUNzc1lIbmc2Wll4TE9oN29iczhGZjNwRU5DY1Bhaw?oc=5
+- UPI offline payments: How to send money without internet
+  
+  🔗 https://indianexpress.com/article/technology/techook/upi-offline-payments-how-to-send-money-without-internet-10351319/
 
-- Jaykumar Rawal calls for ethical, human-centric innovation at World Technology Summit in city - Times of India
-  Jaykumar Rawal calls for ethical, human-centric innovation
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYzJVN29MVWEyYVFBelEtZjl1X21fd3BQT1EwdHZsYkJoU0t0RXFYVGl6WElMS21BSTZsSVZ4RzNEdEZKRk5WdUhqNWF5ZWhFemZiOW5CZU5HZVctVHJsbFJrTUI4REtaTXBzNFpuWVZMaEhRQjhxY1dieDlmd01NY1FSTmhQYmR3cnR5SEY3dXRUR05SOUdVWlhQMWxBTmdvZ3czaWF5ZThSYlRTTUNEUnVReGRDWUo0OVk5cUJFZk5iWFRCQmpsckpCdnVEMWtUdUF6cVNXb3FfcFc4Tm9CVkxjSFRBSDJ4QUp3cmRhSHl0Y0Q3QW5v0gH8AUFVX3lxTE5USmhIWXNmMU4zZ3ZKVnBPUVhBVy03OWxKOGZUVEhtU0R2YUN0ZmY0S09UMzFmb3Jhbm8waV9NX2lWck9aWmVDeWpXZEtVdWpMQXlQeHF1d043QjAwVmFXcnpNM2J1R25sc0ltdlNKVEUzLUZ6R0tsX294NkV1V1JuRkdaNUgtelBIUEwteVY5cWZuNHBPengwa0YzSF9BcFJyc3U1REExdUxJTEtwZ1VQekZybVVtTVloa3NfMjBESW0xakFyYUdZT1FoZnJxdjZwWU9EQ2p2OHgwZ3RBZ0ZfdW5IWXpoZmJRT0tMWjZoZjd2d25PbEtyc2lfbQ?oc=5
+- GTA 6 delayed again as Rockstar Games pushes release to November 2026
+  
+  🔗 https://indianexpress.com/article/technology/gaming/gta-6-delayed-again-as-rockstar-games-pushes-release-to-november-2026-10351470/
 
-- Why Does So Much New Technology Feel Inspired by Dystopian Sci-Fi Movies? - The New York Times
-  Why Does So Much New Technology Feel Inspired by Dystopian Sci
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnRadl95Y2xlYW45cDdoQm9xSE5FUExQUFV2RG9yQi0yem4yTHM0TWhmdXA2R3RwaFVuTzQya3hBd2RQMkxmUzVOMVpVVmRvWG4yamgwbEsta3ZfSXFTT3Jad3cyaFhjN3NtVUMzQ2EzNzZYUzBNeTRkZTJxTWwxendhVnZNSEMwNko4bDhNMA?oc=5
+- NASA prepares twin probes to uncover Mars’s lost air and measure solar storm impact
+  
+  🔗 https://indianexpress.com/article/technology/science/nasa-prepares-twin-probes-to-uncover-marss-lost-air-and-measure-solar-storm-impact-10351443/
 
-- From Vision to Vigilance: India’s AI rules and the future of technology business - Exchange4Media
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPVzN6VjVQZ3dIeTJ2NU9qbmIxbi1TX1ByOFlZQWRxUWJWOTZxR2RnVG5wSzV5bWV0MnVPWTZ5OUtObUJSaExuZDVNM0VJWVRueGQ5RWhzcWZtVlRQcHhxd2ZxNFBPV0NZVl9qTmkyYjhuX0dCZkE4REwzVlhkZUxDcG5qakt2dmxvX1JXeFMwd0FRS2w4d1Nrc1NTYWpoeFhCWmNOaUNyZm14eUYtX2VQR0NtVHNXbF9LX0YydlVkdlU4MWd3MHc3c1VsSDB0Qlk?oc=5
+- ‘Alien’ 3I/ATLAS hurtling towards solar system: What we know about the interstellar comet that has piqued curiosity
+  
+  🔗 https://indianexpress.com/article/technology/science/alien-3i-atlas-hurtling-towards-solar-system-what-we-know-about-the-interstellar-comet-that-has-piqued-curiosity-10351154/
 
-- ‘8 jets shot down, but…’: Donald Trump adds fresh twist to his India-Pakistan conflict claims | India News - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0tnVTBUSWN1V3RHR3VrdHozZVlKa0RmU0Y3WHo0dm1zOFdIYTBDbFZTOGlKUHFGUTFWNm9PZXNfcWltY00zYzdYRktrck55M1pQUllVakJuYmZCRWFvd2tKVEtvQWNOTk
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0tnVTBUSWN1V3RHR3VrdHozZVlKa0RmU0Y3WHo0dm1zOFdIYTBDbFZTOGlKUHFGUTFWNm9PZXNfcWltY00zYzdYRktrck55M1pQUllVakJuYmZCRWFvd2tKVEtvQWNOTkZ1ZEhTOU5kcnVpYnk5a293V0JETm9lbk5SLUNZelpSdDhzWnlBT2dZaUhIZmtaYmxZNnhicG9qOGczcHBfd1ZZdkhFRnBSX0pCa1ppNUJCMXVpZmFIYWJRZkRSRVFmamVDMlVRdGJQLTl1N1N0ampQX21p0gHiAUFVX3lxTFBsU0VTMFBOcFM4Uk5QOXZMRzdJWExRTnAyNWhTWGhOUFN5Z010cnJXX3lrSDRLSVczTElSb0Zzbi1iVXhfRXJmbEdJeEZTdnZnYzNudFJvbGI3ZHo1NTRHNE5QZk55WkxfZHpXTzd2V013NVN6Y1BzRUw5TUQzSDN2QlA0TkpLZml1R0NTSWIteDE5MHdmcFZ4NDJSUzBLU2RZTENBMzJlVzZzTUhVZktMUmlYTFhDSDhoOGNCX3VyTnBTeGRnQkFKWWZNMFo3MHZzLXNKNWlYYkRUMjYwa1NtMWc?oc=5
+- Eli Lilly's weight loss drug Mounjaro becomes top selling medicine in India by value in October
+  Augmentin was way higher than Mounjaro with 5,784 units sold during October, compared to just 85 units sale
+  🔗 https://www.livemint.com/companies/news/eli-lillys-weight-loss-drug-mounjaro-becomes-top-selling-medicine-in-india-by-value-in-october-11762516369419.html
 
-- Nobody in country believes it was pilot's fault, Supreme Court remarks on father's plea over Air India crash - India Today
-  The pilot was the only person on board at the time of the crash. The crash
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxOQlFQRlM4a3o3V2lKeWNIc0E0QnVMTHl5WnpJRjZXZ1BGVkYzWlJ6bzJQWTF6eFB4WDlBSURWYlNFZEh0Ml80MDFWT3BFemxnYmotNFpMT1BrUGpnVDhtY29uOTI2cmlCdl8xWjk5X0h5NlpZMkVTc1ZCVjRPVEVIMTFTZFpFdk03TEYyX2h6d2hIbDM1eEo0SEwzRGdlRWx2cTUyenFYdmNqMjNJN2NIYVhjTU55NkJnQ05nZE8wazFkVjZSSU1wRHVaaUY1TXhkSjZjZ0pEeGNmVFFrMzBBMUlhaFhpamNNMGNYbFBwdmhSNWQtalZrRXNTOEJ6aDhO0gGGAkFVX3lxTE4taG11azlQRWtnUjhXbmMybEhYcENLdURzNjcydkFLdEFCcUNyaktwTXVvUjVNVnlHSk5ZaDBsSm1NdnZjYkt6cGROZ1RBWkhuaGxScHNTZ0kwNXhmWGlqN052aUJUczJ3ZEVNcFR4dEVyb0IxSW16UVJiNnNIVWx4bXhLdjh1VnMydlJ0TzJUYlJtWGY0Vmg1VGJEaTBKbnJZR241d2ktUENId3BVOVd2RXRIem1iSlNtYlBoTHNhVW54Zmk0bm80T0ZhR200alNhZ3FTYzFVRk52dVJsLW9VZ295bnF3dVlwaFRUUlhkNHBaSWl5emotRmlBYmVGV21adnBZY0E?oc=5
+- DGCA gets IDERA request for deregistration of all three FlyBig aircraft
+  The number of impacted passengers would be significantly lower than that of any major airline in the case of FlyBig. But this will impact the count of operational airports in the country.
+  🔗 https://www.livemint.com/companies/dgca-gets-idera-request-for-deregistration-of-all-three-flybig-aircraft-11762511072251.html
 
-- Delhi IGI Airport: Air Traffic Control glitch triggers massive delays, over 60 flights affected - The Hindu
-  Delhi IGI Airport: Air Traffic Control glitch triggers massive delays
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTk1aOUp2RVJEMFl5b2FjRUxiMmdtN3VqNU83ODZuZmJZdHM1TUVPbmRxT3p2Yzd0VEFfeWRMdFFOSVJFWTlianFMR3MxUDlNMmlFa21CZUR3MVdpRFZESHg2enBWTFZfcXVIS0lFNF9LR0VsdkZqXzJfNVI2c3JsY2JSMjJmdUYxamVGdWVOWHRELTU2VnRpSlh0R2tRa01Qc2pIY3puVmZlSlBlb3dwQnU2ZWZFakRobUlOLWgtSEdKTkR3emNiVmlZT3hjckVkazVPS3hn0gHcAUFVX3lxTFB0OFRhOHJtbjRoM1NrVnhuU3MtbmI5a0swWnB5a0ZRbS1NOENWZUpqbjQ5YVhZWUhQNmhwMHBCeU81NnMyanVQUzFQZFlkMzQwLWVTVUNUVHRBei05Y2d4MFl5WVFQVWE3ZXBRb0VMVFdOZmphTXpHTFIzclpjLVVtRkVsMWFVWmtlRDkwVHVyTUdCa2ZaaERrbFE3SlNCM0xiX1RrVjZ1MWx2NExnT0Z1SjNUQWJvNmRyNmxLSklLVEFZbVZJdmlPSUJMS3gxWWdmWHFqOXNIRFc3NjA?oc=5
+- Elon Musk’s path to ‘trillionaire’ status isn’t guaranteed — The devil is in the details
+  Tesla shareholders approved Elon Musk's historic $1 trillion pay package. Critics argue that the board's intent is to enforce mandates.
+  🔗 https://www.livemint.com/companies/people/elon-musk-world-first-ever-trillionaire-history-no-guarantee-details-tesla-pay-package-sale-target-self-drive-cars-robot-11762507780062.html
 
-- Explained: Why flights are running late at Delhi's IGI airport today | India News - Hindustan Times
-  . India News: Why flights are running late at Delhi
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRzItNkl2N1ZOSVdPRm5qd2NxUmI4aThZbnhRT0otNXpGcnQwRkVPMXpaWWlKeDJuZ0tFVkZYWTlvU3BvZ1JBRlJuRTFVTDRjZUhOakg3MjJFTDdXSm40YUk0ZVg0NXd5WTF4VHl4a0pmaTRYT1pZYk14N25YdzA1RTRtaml6LVM2N0FWbld1aEtlbVFmS1NrXzNnSFBUckQyeG5RaTh6Nm9vd3FsUHdNUGtFbU5mdlpvMXVUemtONVFGd0RPaFBJQdIBzgFBVV95cUxOa2Z6d2htUmpJclpXbUxoM0VyQUx5RmxUMThWZnBpelJXX3FvdGxIa2JRWkNaMFBNOGZvb3pQZFVhd09NRmZLQ0hOTjdfWHVubDJHclBfQ2RXSkd3S1h2ZEd1UzYyWHowcURsdFJDLVQ2c3YwSkMwTEpmTERJUTZ0ZG5kTW02c0dqTF9nU19aZnR0bDNJejVXSnV5Z0h1Qmx6WVlwemtXdlBSTnJqQmk3eG5ud3p6TTNuaTZtUG5LNko0amd0VUotaTNjRUg3Zw?oc=5
+- Weekly options ban to have limited impact on NSE financials, says CEO Chauhan
+  NSE expects limited impact from Sebi’s proposed rule change.
+  🔗 https://www.livemint.com/companies/news/weekly-options-ban-to-have-limited-impact-on-nse-financials-says-ceo-chauhan-11762502539601.html
 
-- Delhi Airport Chaos: Over 100 Flights Hit Due To Air Traffic Control Glitch - NDTV
-  Delhi Airport Chaos: Over 100 Flights Hit Due
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVhFLWg5MXVhaWxONzd5aGlTVlFnajMzRHo0UUhma3Rzc1BDcGRKbWdYTUVQU0tHeEI2RWdLX2pSQlRNZXVraFpDS3B1Z0sxdVg4SkV1WTlKQVQtZ0dsY1lqYXlwVndLOGJIYk9qNXlSY1FoaGlzQ2JMa1ZPeGJaLThZNUlNNkVsdFJjOHB1d29iWk1tZlVYZFZCM2ZOQlFVQ1o4Z1JNZW9qbmRBWUpTcDhwaXlDSDjSAb8BQVVfeXFMTWxrZWRNbDZkU1Z2c2lDYUJvTl8zbTdLN2JkMW9fQXJONjVhTEpFTmFFZl9MWUlMdTRtMVlMMkpoWDQ4RTh6MEFsQlJXZ3l4WkVUVFluV0gxZVFoWUpBeHN0TmZrSFAxQkR4QmlfTFdvV2dZUl9FSldvMlRwZ2l5N1NwOTF5NGwxWWhxRGJjcEpnYkVLWTZFdWxLMlRKb0ZyQWVjd2NwMVpzYTl0Z1VDZHJWZlRwaU13THRqdlA4dnc?oc=5
+- LIC hopes it can off-set GST hit by managing expenses, selling more policies
+  LIC said it will pass the full benefit to customers through premiums. Some private insurers are reconsidering commission payouts to offset the loss of input tax credit.
+  🔗 https://www.livemint.com/companies/lic-gst-impact-insurance-policies-premiums-11762505355077.html
 
-- Muthoot Finance sets board meeting date to declare Q2 results, raising of funds via NCDs
-  Gold financier Muthoot Finance on Friday, November 7, announced the board meeting date for the consideration of
-  🔗 https://www.livemint.com/market/stock-market-news/muthoot-finance-sets-board-meeting-date-to-declare-q2-results-2025-raising-of-funds-via-ncds-11762495963441.html
+- Pine Labs IPO receives 13% bids on first day; GMP falls sharply — Check details
+  Pine Labs IPO's grey market premium (GMP) has seen a significant fall. Pine Labs IPO GMP today is  ₹5. This means
+  🔗 https://www.livemint.com/market/ipo/pine-labs-ipo-receives-13-bids-on-first-day-gmp-falls-sharply-check-details-11762517295077.html
 
-- 1750% rally in five years! Multibagger small-cap stock trades green despite weak trends on Dalal Street
-  One Point One Solution shares rose over 1% after announcing a new subsidiary in Dubai to enhance global market presence. The subsidiary will manage and invest in other entities, with an initial capital of US$
-  🔗 https://www.livemint.com/market/stock-market-news/1750-rally-in-five-years-multibagger-small-cap-stock-trades-green-despite-weak-trends-on-dalal-street-11762493913421.html
+- Mint Explainer | Sebi’s certification revamp plan and why it is needed
+  Sebi's certification revamp proposal for market professionals seeks to modernize a framework that has stayed largely unchanged for over a decade
+  🔗 https://www.livemint.com/market/stock-market-news/sebi-certification-norms-sebi-new-regulations-market-professionals-11762506225373.html
 
-- Amber Enterprises share price crashes 14% to four-month low after weak Q2 performance. Time to sell?
-  Amber Enterprises India saw a 14% drop in stock prices after Q2 earnings showed a net loss of  ₹32 crore. The decline was attributed to weak RAC performance and
-  🔗 https://www.livemint.com/market/stock-market-news/amber-enterprises-share-price-crashes-14-to-four-month-low-after-weak-q2-performance-time-to-sell-11762494936851.html
+- Bajaj Auto Q2 Results: Automaker posts highest-ever quarterly PAT &amp; revenue — 5 key highlights from earnings
+  Two-wheeler maker Bajaj Auto posted its highest-ever quarterly revenue and profit after tax (PAT) for the second quarter.
+  🔗 https://www.livemint.com/market/stock-market-news/bajaj-auto-q2-results-automaker-posts-highest-ever-quarterly-pat-revenue-5-key-highlights-from-earnings-11762515333488.html
 
-- Airtel, IndiGo to Polycab: 10 stocks that saw highest promoter selling in Q2. Do you own any?
-  Airtel, InterGlobe Aviation, Apollo Enterprises and Polycab emerged as key names.
-  🔗 https://www.livemint.com/market/stock-market-news/airtel-indigo-to-polycab-10-stocks-that-saw-highest-promoter-selling-in-q2-do-you-own-any-11762494491617.html
+- Trent Q2 results: Profit rises 11% YoY to  ₹373 crore
+  Trent Q2 results: Profit rose by 11.45 per cent year-on-year (YoY)
+  🔗 https://www.livemint.com/market/stock-market-news/trent-q2-results-profit-rises-11-yoy-to-373-crore-revenue-11762515150854.html
 
-- Multibagger defence stock Apollo Micro Systems rises despite stock market sell-off; here’s why
-  Apollo Micro System share price has fallen 19% in one month, but has rallied 50% in three months. The defence stock has jumped 127% in the past six months
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-systems-rises-despite-stock-market-sell-off-here-s-why-11762494443234.html
+- NALCO Q2 Results: Net profit improves 37% YoY to  ₹1,430 crore, announces interim dividend of  ₹4 per share
+  NALCO reported a net profit of  ₹1,430 crore for Q2 FY26, reflecting a 37% year-on-year growth. Revenue rose to 
+  🔗 https://www.livemint.com/market/stock-market-news/nalco-q2-results-net-profit-improves-37-yoy-to-rs-1-430-crore-announces-interim-dividend-of-rs-4-per-share-11762514695647.html
 
-- Samsung Celebrated for Transformative Tech by Consumer Technology Association - samsung.com
-  Samsung Celebrated for Transformative Tech
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPYlcyV1o3eTQxZHh2eXNXRjdsRE94cE9sWnNPTTk3SldzMWhNS3NRZThLRjNnYzJKU1RjNGJjTk5GWlQ4ZGxzaU15SXVUQVYwV05makdLOEVVTmU3SndXZzZyZmlZOFAtaTU1ZU8yaFV5ZHlRX09YaVpFMzdyLWNpV181a2o1eGdMVi1zOTR0ekZlRmRnUnpDdkhnMUtqeUNYYlJvektscExkNUdqSVE?oc=5
+- WEF says AI, robotics, nanotech to transform agriculture; cites case studies from India
+   WEF says AI, robotics, nan
+  🔗 https://www.livemint.com/technology/tech-news/wef-says-ai-robotics-nanotech-to-transform-agriculture-cites-case-studies-from-india-11762508233680.html
 
-- Karnataka High Court directs government to develop unified and technology-driven platform for Bengaluru’s sold waste management - The Hindu
-  Karnataka High Court directs government to develop unified and technology-driven platform
-  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxPOUhHVDgyeEsyOGp2eFg1RXFyWTNkaFJIa1ZFMHB4MGlJZVBpazJlSnhfTXpQQW5md2dOVXMxdzdVTUt2OFFaS184NUF4V1ZOXzFOaDFPSXJ0TnNCc29QcnA3R1hrZ2RiYlB0M1VJWUtaNk0ySXBESkdEek1Odk9DSkZYQmF4UWFqVV90bnRWcUhKR0w1TkZncnNXSkNGTjAxUXdfY2g0dnUyeUUwUVFGOVY4bTEyX1ZlTkgzMkZkS1FEU2RMcS1pa2x5M1ByZ0xVWVV5ZHZqZHIxRGxfSTZOWDlDX3BmQklpcHFheVpHTkhubVlHSWhTODFGdkRFem5SMU9QM093dTBfRXpCOHA5eThmUlhMQmR5aXptdXVKNjPSAacCQVVfeXFMUDRGMV9BVmVaNkNwVEtSV0JOd3VzLXdoaVdQTFJ1VnN3cHE3bzE4TVgwZEZBNXVpQUhWVThjQVBuNGhFRUFlMG1XdDFSanRFNFNLUUhDQWljYWthSGwyNG54OWdRUGYycE5rb1RLWVZQTWh5bGFLV3pkY2o3LUdWaF9oN1FQYWhRd2NmWHl0eTFNYWNWVUxQSmluSnllaF94bXpUQTZ4X2VZc2wtWTRfR1QyaUdkS2YxNTcydzNDQjZ5ZzZ3YldIZUNQaDhjcjd2ZkNpcVFfMFdZNXhZWE15Tmp0RVU2WkJBdG5TZlJXUFBtelIyanZVdU1jcVVER2ZOOHhxWTVyVm5pbUNzc1lIbmc2Wll4TE9oN29iczhGZjNwRU5DY1Bhaw?oc=5
+- Sam Altman clarifies OpenAI will scale AI Cloud to meet global demand, market decides success
+  OpenAI's CEO Sam Altman said the company does not seek government guarantees for datacentres. Altman suggested governments could own AI infrastructure to serve strategic interests.
+  🔗 https://www.livemint.com/technology/tech-news/sam-altman-clarifies-openai-will-scale-ai-cloud-to-meet-global-demand-market-decides-success-11762507122989.html
 
-- Jaykumar Rawal calls for ethical, human-centric innovation at World Technology Summit in city - Times of India
-  Jaykumar Rawal calls for ethical, human-centric innovation
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYzJVN29MVWEyYVFBelEtZjl1X21fd3BQT1EwdHZsYkJoU0t0RXFYVGl6WElMS21BSTZsSVZ4RzNEdEZKRk5WdUhqNWF5ZWhFemZiOW5CZU5HZVctVHJsbFJrTUI4REtaTXBzNFpuWVZMaEhRQjhxY1dieDlmd01NY1FSTmhQYmR3cnR5SEY3dXRUR05SOUdVWlhQMWxBTmdvZ3czaWF5ZThSYlRTTUNEUnVReGRDWUo0OVk5cUJFZk5iWFRCQmpsckpCdnVEMWtUdUF6cVNXb3FfcFc4Tm9CVkxjSFRBSDJ4QUp3cmRhSHl0Y0Q3QW5v0gH8AUFVX3lxTE5USmhIWXNmMU4zZ3ZKVnBPUVhBVy03OWxKOGZUVEhtU0R2YUN0ZmY0S09UMzFmb3Jhbm8waV9NX2lWck9aWmVDeWpXZEtVdWpMQXlQeHF1d043QjAwVmFXcnpNM2J1R25sc0ltdlNKVEUzLUZ6R0tsX294NkV1V1JuRkdaNUgtelBIUEwteVY5cWZuNHBPengwa0YzSF9BcFJyc3U1REExdUxJTEtwZ1VQekZybVVtTVloa3NfMjBESW0xakFyYUdZT1FoZnJxdjZwWU9EQ2p2OHgwZ3RBZ0ZfdW5IWXpoZmJRT0tMWjZoZjd2d25PbEtyc2lfbQ?oc=5
+- Up to 75% off smartwatches on Amazon as budget Noise, boAt and premium Samsung, Amazfit models see major price drops
+  Amazon is offering up to 75% off smartwatches. Smartwatches range from budget picks to premium models from Samsung and Am
+  🔗 https://www.livemint.com/technology/gadgets/up-to-75-off-smartwatches-on-amazon-as-budget-noise-boat-and-premium-samsung-amazfit-models-see-major-price-drops-11762500903467.html
 
-- Why Does So Much New Technology Feel Inspired by Dystopian Sci-Fi Movies? - The New York Times
-  Why Does So Much New Technology Feel Inspired by Dystopian Sci
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnRadl95Y2xlYW45cDdoQm9xSE5FUExQUFV2RG9yQi0yem4yTHM0TWhmdXA2R3RwaFVuTzQya3hBd2RQMkxmUzVOMVpVVmRvWG4yamgwbEsta3ZfSXFTT3Jad3cyaFhjN3NtVUMzQ2EzNzZYUzBNeTRkZTJxTWwxendhVnZNSEMwNko4bDhNMA?oc=5
+- Can GTA VI surpass Duke Nukem Forever’s world record for longest game development? Release pushed to Nov 2026
+  Rockstar Games has delayed Grand Theft Auto VI to 19 November 2026. Fans now wonder if it could rival Duke Nukem Forever’s 14-year, 43-day development
+  🔗 https://www.livemint.com/technology/tech-news/can-gta-vi-surpass-duke-nukem-forever-s-world-record-for-longest-game-development-release-pushed-to-nov-2026-11762499999240.html
 
-- From Vision to Vigilance: India’s AI rules and the future of technology business - Exchange4Media
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPVzN6VjVQZ3dIeTJ2NU9qbmIxbi1TX1ByOFlZQWRxUWJWOTZxR2RnVG5wSzV5bWV0MnVPWTZ5OUtObUJSaExuZDVNM0VJWVRueGQ5RWhzcWZtVlRQcHhxd2ZxNFBPV0NZVl9qTmkyYjhuX0dCZkE4REwzVlhkZUxDcG5qakt2dmxvX1JXeFMwd0FRS2w4d1Nrc1NTYWpoeFhCWmNOaUNyZm14eUYtX2VQR0NtVHNXbF9LX0YydlVkdlU4MWd3MHc3c1VsSDB0Qlk?oc=5
+- Realme UI 7.0 brings Live Wallpapers, Fingerprint Animations, and more: List of eligible devices
+  Realme has unveiled Realme UI 7.0 based on Android 16. It features a Light Glass Design, Ice Cube Icons, Misty Glass Control Centre, AI tools, and performance
+  🔗 https://www.livemint.com/technology/tech-news/realme-ui-7-0-brings-live-wallpapers-fingerprint-animations-and-more-list-of-eligible-devices-11762498428870.html
 
-- Stocks Tumble as Bleak Jobs Spur Rally in Bonds: Markets Wrap - Bloomberg.com
-  The Dow Jones Industrial Average fell 300 points on Friday. The S&P 500, Nasdaq and the Dow Jones were also down.
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmpXT1l2QzdKRUxGNktwVzg0dWpPN2tkYl9BTDYxQnlvbDRhX0M1MEExM3pZVDlRbmdTV1NRRkhaekVCMmhVRXNQQW8tLUZOWTh4aFZiUUtzMGtQd3Rnb1VCMXVTbEFaOXJnaGFNSFdEYVBaMWFUQXlwbVluYU0zT1V0aVNSUllKRldFaU0xcnN4R1c1?oc=5
+- Stock market today: Dow, S&P 500, Nasdaq sink as valuation concerns mount amid bleak jobs data - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq sink as valuation
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOTVVM2R6b09DdjlWb3VXaklxa2VBb29wU3J4dWNLbXZEa011bDVobER0dFFVSEpoZHotQ1M2b014R1lTcjVxQlNuUTFxUmpKNWxaQ18wZktLOHZxOVJtTnRjOUdURW9pZDRWMFRPS2F5UEg2Ri1SQVUwcmotX0RaY0xPZGdSajVqVm01MlpSa2haWnRvblNEcGU0a1hOVXBJQzFKSnVoYTRwSlhZSjdxQUN6dkNDU3MwclU4d0UzdzhPbE9ob0N6c2dUN1Z3Um5Qbmd6S3NEMVQ?oc=5
 
-- Stock Market LIVE Updates: Sensex recovers 450 pts, Nifty 140 pts from day's low; metal, private banks outshine - Moneycontrol
+- Stock Market Today: Dow Futures Waver; Asian Stocks Fall — Live Updates - The Wall Street Journal
+  The Dow Futures Waver; Asian Stocks Fall — Live
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPSVFuOGxpN1NKUXhkc3pXV3JEeG1HTUF0OGF1ZEcxbUpBeTk5cjdvT3AxU0JzcTdhYi1ZTHVhYWFQaVRCck5hUWlTcFQ4d0RmQ0lCTHAyTl9pVE5ZWHZaeFU2RlZOWXVfVmRmWDNfV05NSDBPSDB1Ri13NnlsakNQZlR0eThLazg?oc=5
+
+- Dow closes lower by nearly 400 points, Nasdaq drops 1.9% as AI stocks resume their decline - CNBC
+  Dow closes lower by nearly 400 points, Nasdaq drops 1.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1FWlFCd0ZIaHliYVhfSUFSUXJYM1Jnd1VBVVVVZ21TRTFYLWVYSUdjZG5CTUJFRHUweFE2bjBRSGFYLXFSS2pFaGZYcGU4cGI5TjZqajJZUXJiVTl0Y3J5TkxoRnpqaFJvRWRzYlA3UDNoV3NXLS1R0gF8QVVfeXFMTmFyOGJ5aTBjNnFOczQyaDNPR1BHVnN1LVZyX3NiNWJpaGgwODdPSkZYSWV3WGdleEFOcmxiZ3pBTkctaVJaZHRLSkpoNmFKMmFkcW9xNmE2UmI0VzJpZlZjODlEbVpnNUxQd21OOHNDYUlnTE03elgyblFjMw?oc=5
+
+- Closing Bell: Sensex, Nifty recover from day's lows to end flat; metals outperform - Moneycontrol
   <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZUI3cmpibW12T3RlU2lhanBjWGRfZk9OZUdFQ1FWckcwSWxiREY0SllBSGNRRWtod3MyeVZWcXNlZnpDSTc3ajlRdkF4OVZSbTFyREN0aXJYeGpxUUxwTFRYRE02dVh6dy
   🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZUI3cmpibW12T3RlU2lhanBjWGRfZk9OZUdFQ1FWckcwSWxiREY0SllBSGNRRWtod3MyeVZWcXNlZnpDSTc3ajlRdkF4OVZSbTFyREN0aXJYeGpxUUxwTFRYRE02dVh6dy04aWZBRndrOEk0WnB4UzYwdjB1bWVTTDJEYWNZdWp0bjlSRG1UOWRFUjU0OE9fbFF6SGFST191UUphOS1MSEEtU1JLTHMxZ0NMdGtGMWVBc1JFM0U2TVdPTXVETVFIcldxUlRRRjF2Q3B0YkJLU1BwN2xvdDBlMVRWcFh5aE4yd0RRZg?oc=5
 
@@ -112,141 +120,65 @@
   Asian stocks today: Markets track Wall Street losses; HSI falls over 240 points
   🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQMG81OHBrZV9maFNzMUt4VTBySTZJSXJ6UVpIWDZ3cHJKdWJtQVgzRTVRcEpFR2RIaW1zWmFTeHltQVk1SDVaZ0hpUzFrTm1kcDJmUld3R1BEV0IwQnlSMndFdlRPcjlrQV8tQ2xBWE91OGxxenplbnNrTUFqREVaekV3RUo4QURnZ3RycElUZ3p6Y1Vlby12eWxqYWdzQVd3WGladzRiZU1XYW5VMnRWd1ZuOTdRWU1VbzdIZXNtYXlfMkdzYy1nNDAyUUZaYm9pWG1XUjBhWlA4OXBrbl9Nb0x0Z0F1LWl0TVNNM1phdnRyZmpsVVMxTWZobHhDUXluc2lISVFDQUw1cGJJNW82S2J3UHfSAZoCQVVfeXFMTU5DN2xyTmhQMTVjUlE4QVUzc1IwcUtOd1dHRUQ3bnpselEzeGI3b041cGh1Tzh0b1FCd1RscC1aTVRSdVhhZFM1eXU4M0gyaTB6ekVnNFIwSS1taUwyRHJ6YU5LeEpqanJTaS1vdXZvMFVBODRiOVhuZjljVjR3dmRLdWtQaDd1UDVGYzM0cEZJSTZSeElNR09UWi01R2VrMUxQU1FnRm9WNU5WS08tN2lYVm9PQk9fMVFvelNNalljbEtLeUFkcjBpcGItVnNQeGdnRVExYUVRTGtoUmRta2dMaHVyVWxqR3ZINnhtRzc1WWFSb2hwQzNSVl81QkV4WDMyYWdJM0oyWm1kZ3IyMHdTaTM1NTdkdGtB?oc=5
 
-- L&T Finance rallies 9% in weak market; why NBFC stock hit new high? - Business Standard
-  Business Standard: T Finance rallies 9% in weak market;
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQSWt0TnRKQkNfOElWSWFoN241NnM2OUt4blJzc3dpZGZWYmwxM3BfYlE2X1dqVHFOVUNFN0REcGx1cTQ4QTJMZTB6cVlpQTlxRWJwYXQzaXFZVmdwZ3doZWc0NDRuelJseUNjUF9tTmluUWtzdDgycTNKXzg2LWM1NWNhNmYtN1VzVkdsY1pjVXdBMks4OTBOWklBSHVKcjljNWJMWHBFLWp2UkZZc1hscXFoNV9oYVp4X0ExaG51TjVfSnM2VXVDblBCWdIB0AFBVV95cUxOREVETzVOWDUxQ25PWnJkUWZiTzJieERnOFAxc0dCdGh2TmtoaWducXBEemtLQkliS0xrQlVaTmUtVmRUaWlfemQ1emhsQmczSU5kLXhSeW52ZnRSYURyVi1pOTE3blBhRkE3LUtGSG1Fa1E1VEpmTlcyaEk5SW1RcmJtOHh0QXZnOGZhenhURFJXeTItRFN2TXZvSi1WOTRSQ1FsaWlNbGdXNnYtRTlPOVFPdmJUcWRNNkQxckI2cWNoYUFQbjFWVldXX0hYUDhy?oc=5
+- 8 stocks with rising EPS over four quarters. Are you missing out?
+  Nine Nifty500 firms, including Navin Fluorine, Waaree Energies, Coforge, and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/8-stocks-with-rising-eps-over-four-quarters-are-you-missing-out/slideshow/125160239.cms
 
-- Global stock markets fall sharply over AI bubble fears - The Guardian
-  Global stock markets fall sharply over AI bubble
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVFQYkdMZHdfazZUdm9HaUhZX0lUVGtuR08tdFQ1YzVEMlZERjVsaGVscHhwb3BRZU5hZUtPX29PSWNiLVBuQU5neUIyb0dIa2NVVWFmd19BX2ZQY3RCdGJTWkdqWGJobGI0bzlrb1psdFRGc0QwV2lIRTJkdF9yN2FTdEdlZGlqa28tWlRscUF0VDFibkhDekZRMG1DRW1hMTR6amhn?oc=5
+- Nalco Q2 Results: Profit rises 37% to Rs 1,430 crore
+  State-owned National Aluminium Company Ltd (Nalco) reported a 36.7 per cent rise in consolidated
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/nalco-q2-results-profit-rises-37-to-rs-1430-crore/articleshow/125159959.cms
 
-- Studds Accessories shares slip 2% below IPO price. What should investors do?
-  Studds Accessories shares dropped 2% on debut amid weak market sentiment. Despite a 73x IPO subscription, strong
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/studds-accessories-shares-slip-2-below-ipo-price-what-should-investors-do/articleshow/125150937.cms
+- Bajaj Auto Q2 Results: Cons PAT soars 53% YoY to Rs 2,122 crore, revenue rises 19%
+  Two-wheeler major Bajaj Auto reported a 53% YoY jump in its consolidated Q2 net profit at Rs 2,122 crore versus Rs 1,385 crore in the year ago period.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-auto-q2-results-cons-pat-soars-53-yoy-to-rs-2122-crore-revenue-rises-19/articleshow/125159539.cms
 
-- LIC’s margins surprises street; JM Financial sees strong H2, maintains ‘Buy’ on stock with Rs 1,111 target
-  LIC stock edged higher after the insurer reported stronger-than-expected margins of 17.6% in 1H FY26. Analysts expect margin resilience, product diversification, and potential GST
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lics-margins-surprises-street-jm-financial-sees-strong-h2-maintains-buy-on-stock-with-rs-1111-target/articleshow/125150855.cms
+- Trent Q2 Results: Profit rises 11% YoY to Rs 377 crore, revenue up 16%
+  Trent Ltd reported an 11% year-on-year increase in second-quarter consolidated profit to Rs 377 crore. For the first half of FY26, revenue surged 18% to Rs 9,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/trent-q2-results-profit-rises-11-yoy-to-rs-377-crore-revenue-up-16/articleshow/125159074.cms
 
-- MCX shares rise 1% as exchange posts 29% YoY surge in Q2FY26 PAT
-  MCX shares rose on Friday after the exchange reported a 29% YoY surge in Q2FY26 PAT to Rs 197.47 crore. Average daily turnover jumped 87% Yoy, led by increased participation in
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-rise-1-as-exchange-posts-29-yoy-surge-in-q2fy26-pat/articleshow/125150715.cms
+- Smartworks reports 21% growth in revenue during Q2FY26
+  Smartworks reported a 21% year-on-year revenue growth to Rs 424 crore in Q2FY26. The company also secured the world's largest managed office campus in Mumbai.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/smartworks-reports-21-growth-in-revenue-during-q2fy26/articleshow/125159233.cms
 
-- Piramal Finance makes strong debut at Rs 1,270 on BSE, lists at 13% premium over discovered price
-  Piramal Finance made its market debut on November 7 at ₹1,270 per share on the BSE. The listing came via a merger with Piramal Enterprises Ltd (PEL)
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/piramal-finance-makes-strong-debut-at-rs-1270-on-bse-lists-at-13-premium-over-discovered-price/articleshow/125150676.cms
+- Air India crash: SC tells pilot’s father ‘you shouldn’t carry burden on yourself’; notice to Centre issue - Times of India
+  Air India crash: SC tells pilot’s father ‘you shouldn’
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbFh6RlRGTk1qdEVNNEp3Y3ZlVzVVRnllNlIwNkRVZEVsdXlGVVFEblVRYUg0RTJLSUNaZFpySzlHUGZjbUZ4bUtTY29Sd0hKN2pULW9oTFdKMUVBWHpjWnY5NGJiT3M1WmR2eENwU3VkWVVrNTZpdGRhTzVXVi1WRDNWa2VqV0wxcEdEQ091b0o3cmtMQXUxOHQzZmh2V2xPYU5xU3VGbmhVTkwzNFJHbVhfZklUS2tMVkthUEJsNm1ua1JWNld2RG53TzNiZnJqS1RlYms5UnRvdVAyXy0wbGRxelF0dVNUX3VTdlUzWW1ncTJldjVtTko4cmLSAYICQVVfeXFMUFhoaXJlamR3ak43c3Q0SjhUSmV2RVdMQkxsSzRfbHVuX3NOMlBFNFNFUFpLRjE3WEdHZjBqelppdzBtNk1leTZvUDlpYTJlaDY5ckIyYkNpeUdWWW94SlYyWktxYWotblljaHdOblpJTkdUelhnQXp1c1luQmNKMXdnUnhLdUx0bjNQNk0tTjJod2dRN05FSE5US19fMTdPeEpYM29KQUZTYVMyRnpoZENWRUFvUC1TTTJ0anFPSFlsZ3lIbnB2T3JWdU1pN2N0Njk5R1ZRbjhoVzlqcXUyYVFNamNmODN6SzZSUzVmVkFpdTZYQXBDOTNFOThDUEI5QkRn?oc=5
 
-- Multibaggers in a mixed year: 10 SME IPOs doubled, even tripled investor wealth in 2025
-  Despite a mixed year for the SME market, ten IPOs delivered exceptional returns. Companies like Zelio E-Mobility and TechD Cybersecurity saw significant gains. These outperformers highlight opportunities within specialized sectors
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-in-a-mixed-year-10-sme-ipos-doubled-even-tripled-investor-wealth-in-2025/slideshow/125150629.cms
+- Grateful to Indian people for providing me with safe haven: Sheikh Hasina | India News - Hindustan Times
+  Sheikh Hasina: Indian people for providing me with safe
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZkRCd3lPMXc1OEFldFpaYU1vdF9faHZlVnV1ZDB0VVc1MElicGp6QXNldnhIdXQzQTBBR3pqUDFsTGdiT3I1eVk0UjRuUm1hNVlwM2tNRy1wZFlqc2RXQjdGOUNrZFdwbXlMSzZxWmxCLVdUOE90YkNsdFRVZDluYVlTYzFpbnlFWUVqbVk3TUVra0lIYUxzNWV3eDhENU5MRnhQSDJyT2lxLXJ5eC1qSGpTNnlWRjB5d3NzTllDNjRTbEJnUWxUZllmWTh1YjM20gHWAUFVX3lxTE1LYXNxdERFRnZuV0t0V1hLY0szYmJ0QWs1MDRmT0RheFY4eEE4VHZjRXAxSS13Z1ZwYm5OaEx6Ny04U0NiVktoV1NrdkYxdnRwVEN6RmJvU21xSFRJSEtTSWt3dkdtaTlWUVhHT2laTjlBLUwzYkk0dUFMRXNFbkVpbVByemVLUm4yWEZOQVc5ZWRiM0tNaUJZSVVLWXBlWFEwRWFoR1ozRXRlQ2FqVFZPRlRjb2QwVnBhSWVwb1hzU0toN19BaThFbjNpSm85ZkVPcWlyWmc?oc=5
 
-- ‘8 jets shot down, but…’: Donald Trump adds fresh twist to his India-Pakistan conflict claims | India News - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0tnVTBUSWN1V3RHR3VrdHozZVlKa0RmU0Y3WHo0dm1zOFdIYTBDbFZTOGlKUHFGUTFWNm9PZXNfcWltY00zYzdYRktrck55M1pQUllVakJuYmZCRWFvd2tKVEtvQWNOTk
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0tnVTBUSWN1V3RHR3VrdHozZVlKa0RmU0Y3WHo0dm1zOFdIYTBDbFZTOGlKUHFGUTFWNm9PZXNfcWltY00zYzdYRktrck55M1pQUllVakJuYmZCRWFvd2tKVEtvQWNOTkZ1ZEhTOU5kcnVpYnk5a293V0JETm9lbk5SLUNZelpSdDhzWnlBT2dZaUhIZmtaYmxZNnhicG9qOGczcHBfd1ZZdkhFRnBSX0pCa1ppNUJCMXVpZmFIYWJRZkRSRVFmamVDMlVRdGJQLTl1N1N0ampQX21p0gHiAUFVX3lxTFBsU0VTMFBOcFM4Uk5QOXZMRzdJWExRTnAyNWhTWGhOUFN5Z010cnJXX3lrSDRLSVczTElSb0Zzbi1iVXhfRXJmbEdJeEZTdnZnYzNudFJvbGI3ZHo1NTRHNE5QZk55WkxfZHpXTzd2V013NVN6Y1BzRUw5TUQzSDN2QlA0TkpLZml1R0NTSWIteDE5MHdmcFZ4NDJSUzBLU2RZTENBMzJlVzZzTUhVZktMUmlYTFhDSDhoOGNCX3VyTnBTeGRnQkFKWWZNMFo3MHZzLXNKNWlYYkRUMjYwa1NtMWc?oc=5
+- TVK stages protest in Nagapattinam against arrest of Indian fishermen by Sri Lankan Navy - The Hindu
+  TVK stages protest in Nagapattinam against arrest of
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ19pU3ZhclVrWFBuM28wck9HbUhqQjAwZzcwYnVjOVhVak1IcFJEbmYwZ0lSc21vaGNfMnN0akhtVWt5R0huaHMtQUUtQW5vS2hMYmJSOHIwZ29mVzdfYVVyWFFFVDV5Q3ZGUExBTTc5X0xxYk9jcmE4azE5NTlBTlVEZ2FPYVN6WjBpaU9iSDNpYk4zZ3BXNENsblJtM1BnVzN6amJrNUQwNmxmaFF6MEVSYmFSN3h5RERocHFtNThDQlRwM3JtaVRUaWdJbzI0aE43NzVqclRGZlRQc3prTjBNNVhSTjNXSXJIclFLanhxUQ?oc=5
 
-- Nobody in country believes it was pilot's fault, Supreme Court remarks on father's plea over Air India crash - India Today
-  The pilot was the only person on board at the time of the crash. The crash
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxOQlFQRlM4a3o3V2lKeWNIc0E0QnVMTHl5WnpJRjZXZ1BGVkYzWlJ6bzJQWTF6eFB4WDlBSURWYlNFZEh0Ml80MDFWT3BFemxnYmotNFpMT1BrUGpnVDhtY29uOTI2cmlCdl8xWjk5X0h5NlpZMkVTc1ZCVjRPVEVIMTFTZFpFdk03TEYyX2h6d2hIbDM1eEo0SEwzRGdlRWx2cTUyenFYdmNqMjNJN2NIYVhjTU55NkJnQ05nZE8wazFkVjZSSU1wRHVaaUY1TXhkSjZjZ0pEeGNmVFFrMzBBMUlhaFhpamNNMGNYbFBwdmhSNWQtalZrRXNTOEJ6aDhO0gGGAkFVX3lxTE4taG11azlQRWtnUjhXbmMybEhYcENLdURzNjcydkFLdEFCcUNyaktwTXVvUjVNVnlHSk5ZaDBsSm1NdnZjYkt6cGROZ1RBWkhuaGxScHNTZ0kwNXhmWGlqN052aUJUczJ3ZEVNcFR4dEVyb0IxSW16UVJiNnNIVWx4bXhLdjh1VnMydlJ0TzJUYlJtWGY0Vmg1VGJEaTBKbnJZR241d2ktUENId3BVOVd2RXRIem1iSlNtYlBoTHNhVW54Zmk0bm80T0ZhR200alNhZ3FTYzFVRk52dVJsLW9VZ295bnF3dVlwaFRUUlhkNHBaSWl5emotRmlBYmVGV21adnBZY0E?oc=5
+- ‘Illegal nuclear activities part of Pakistan’s history': India takes note of Trump's remark | India News - Hindustan Times
+  'Illegal nuclear activities part of Pakistan’s history': India takes
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV0h4UjFUS1dGTDNSUG4xSVdCcTZyWE4zNVJaZVljUmprV3JSRTRULVpmeWlfR0xOcGVfY052d193dmhadTllcC1qOTNpSW5xR01aX3ZTWC1oaGhLbWhMSTRaR2ZKcGoxQnNoR3JnQ2tORVltajZlZUZIcU5aM2JVTWJoZU9rQ1YwMmRpd0trQjNwajBVeU43SlBWNXRLWWpQbDlqdGxtV3FNNHU3UkJiRjIybFRVaTUwcG5FcURjb1FBRl85SjFTVnc0Q3pGT25PV2ZxdG9VSHJOTm1BZW9BSGRiQkzSAeoBQVVfeXFMUEgzdG9YM3NFdUxBN3A4OGVIQmxDeVJwMS1Ed01uWDI5bFgtSnNZaW04dzVmaFowS3ZVdHFrX25QZUpXOEp5Y3JzZ3AyX3VlYXQtRFVBdW9naDhQOFNMdWxJVGJ0cDdqOW9yOVc0djZoNE16d01RamcwVXRFSWVjOXp0dTFfcVR4ZG1vSldkQVVybTFOSE5SeWJ6RU10MmZUUmJYZXZOdm5uZFlNdGI0MkpuWmVtVTU2VDRNbmpwbTZaaHlrVllrcE1JN2xWR3Z2Ui1nZVBNdmNObjdDdkloWktlSG5HWG4zcTlB?oc=5
 
-- Delhi IGI Airport: Air Traffic Control glitch triggers massive delays, over 60 flights affected - The Hindu
-  Delhi IGI Airport: Air Traffic Control glitch triggers massive delays
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTk1aOUp2RVJEMFl5b2FjRUxiMmdtN3VqNU83ODZuZmJZdHM1TUVPbmRxT3p2Yzd0VEFfeWRMdFFOSVJFWTlianFMR3MxUDlNMmlFa21CZUR3MVdpRFZESHg2enBWTFZfcXVIS0lFNF9LR0VsdkZqXzJfNVI2c3JsY2JSMjJmdUYxamVGdWVOWHRELTU2VnRpSlh0R2tRa01Qc2pIY3puVmZlSlBlb3dwQnU2ZWZFakRobUlOLWgtSEdKTkR3emNiVmlZT3hjckVkazVPS3hn0gHcAUFVX3lxTFB0OFRhOHJtbjRoM1NrVnhuU3MtbmI5a0swWnB5a0ZRbS1NOENWZUpqbjQ5YVhZWUhQNmhwMHBCeU81NnMyanVQUzFQZFlkMzQwLWVTVUNUVHRBei05Y2d4MFl5WVFQVWE3ZXBRb0VMVFdOZmphTXpHTFIzclpjLVVtRkVsMWFVWmtlRDkwVHVyTUdCa2ZaaERrbFE3SlNCM0xiX1RrVjZ1MWx2NExnT0Z1SjNUQWJvNmRyNmxLSklLVEFZbVZJdmlPSUJMS3gxWWdmWHFqOXNIRFc3NjA?oc=5
+- Trump Calls PM Modi A "Great Man", Hints At Possible India Visit Next Year - NDTV
+  Trump calls PM Modi A "Great Man", Hints At
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWduRVIteHFNT3RlRUpYYW9mTXgtb0N4SHBra250UWhvallJdjBXbURrTE0xaU54SmxvcWhJTlJTRXUyYi1JNkhtWU14eXRNVjFQR3J2b19KOE9MR1VGOFdnd3RHQVhGSmdNdVBGWEJaMDRpd3ZMN2xZSVFxaEtCMGdpazNXcGRzSy01VERBRUszNkROZUNlR1MzUXNpbnVNemZsSG50YVNDdVhfMnhz0gG3AUFVX3lxTE9mb2pmdzVkUmRGYTc4TkxBb2JsRWlfZFpDWDVpdWF3bVo0a241bmYxMXlWcEttc2JRNFFROElKajFzWkpMMDFFT2I4aWJxTDFpTEVaaDdlUFhtVGdXX0R5ZjRtSE1vcWZJRENMUjlscGNzc2llT2VqLTBCM3NLWnVsU2RNZnJqT3hhMnVwUVpCei1CX19aTGZOR0ZBNEJxd29aaVk4VlV1TnlfcFhrLTJMNTZxM1p4TQ?oc=5
 
-- Explained: Why flights are running late at Delhi's IGI airport today | India News - Hindustan Times
-  . India News: Why flights are running late at Delhi
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRzItNkl2N1ZOSVdPRm5qd2NxUmI4aThZbnhRT0otNXpGcnQwRkVPMXpaWWlKeDJuZ0tFVkZYWTlvU3BvZ1JBRlJuRTFVTDRjZUhOakg3MjJFTDdXSm40YUk0ZVg0NXd5WTF4VHl4a0pmaTRYT1pZYk14N25YdzA1RTRtaml6LVM2N0FWbld1aEtlbVFmS1NrXzNnSFBUckQyeG5RaTh6Nm9vd3FsUHdNUGtFbU5mdlpvMXVUemtONVFGd0RPaFBJQdIBzgFBVV95cUxOa2Z6d2htUmpJclpXbUxoM0VyQUx5RmxUMThWZnBpelJXX3FvdGxIa2JRWkNaMFBNOGZvb3pQZFVhd09NRmZLQ0hOTjdfWHVubDJHclBfQ2RXSkd3S1h2ZEd1UzYyWHowcURsdFJDLVQ2c3YwSkMwTEpmTERJUTZ0ZG5kTW02c0dqTF9nU19aZnR0bDNJejVXSnV5Z0h1Qmx6WVlwemtXdlBSTnJqQmk3eG5ud3p6TTNuaTZtUG5LNko0amd0VUotaTNjRUg3Zw?oc=5
+- Air India crash: SC tells pilot’s father ‘you shouldn’t carry burden on yourself’; notice to Centre issue - Times of India
+  Air India crash: SC tells pilot’s father ‘you shouldn’
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbFh6RlRGTk1qdEVNNEp3Y3ZlVzVVRnllNlIwNkRVZEVsdXlGVVFEblVRYUg0RTJLSUNaZFpySzlHUGZjbUZ4bUtTY29Sd0hKN2pULW9oTFdKMUVBWHpjWnY5NGJiT3M1WmR2eENwU3VkWVVrNTZpdGRhTzVXVi1WRDNWa2VqV0wxcEdEQ091b0o3cmtMQXUxOHQzZmh2V2xPYU5xU3VGbmhVTkwzNFJHbVhfZklUS2tMVkthUEJsNm1ua1JWNld2RG53TzNiZnJqS1RlYms5UnRvdVAyXy0wbGRxelF0dVNUX3VTdlUzWW1ncTJldjVtTko4cmLSAYICQVVfeXFMUFhoaXJlamR3ak43c3Q0SjhUSmV2RVdMQkxsSzRfbHVuX3NOMlBFNFNFUFpLRjE3WEdHZjBqelppdzBtNk1leTZvUDlpYTJlaDY5ckIyYkNpeUdWWW94SlYyWktxYWotblljaHdOblpJTkdUelhnQXp1c1luQmNKMXdnUnhLdUx0bjNQNk0tTjJod2dRN05FSE5US19fMTdPeEpYM29KQUZTYVMyRnpoZENWRUFvUC1TTTJ0anFPSFlsZ3lIbnB2T3JWdU1pN2N0Njk5R1ZRbjhoVzlqcXUyYVFNamNmODN6SzZSUzVmVkFpdTZYQXBDOTNFOThDUEI5QkRn?oc=5
 
-- Delhi Airport Chaos: Over 100 Flights Hit Due To Air Traffic Control Glitch - NDTV
-  Delhi Airport Chaos: Over 100 Flights Hit Due
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVhFLWg5MXVhaWxONzd5aGlTVlFnajMzRHo0UUhma3Rzc1BDcGRKbWdYTUVQU0tHeEI2RWdLX2pSQlRNZXVraFpDS3B1Z0sxdVg4SkV1WTlKQVQtZ0dsY1lqYXlwVndLOGJIYk9qNXlSY1FoaGlzQ2JMa1ZPeGJaLThZNUlNNkVsdFJjOHB1d29iWk1tZlVYZFZCM2ZOQlFVQ1o4Z1JNZW9qbmRBWUpTcDhwaXlDSDjSAb8BQVVfeXFMTWxrZWRNbDZkU1Z2c2lDYUJvTl8zbTdLN2JkMW9fQXJONjVhTEpFTmFFZl9MWUlMdTRtMVlMMkpoWDQ4RTh6MEFsQlJXZ3l4WkVUVFluV0gxZVFoWUpBeHN0TmZrSFAxQkR4QmlfTFdvV2dZUl9FSldvMlRwZ2l5N1NwOTF5NGwxWWhxRGJjcEpnYkVLWTZFdWxLMlRKb0ZyQWVjd2NwMVpzYTl0Z1VDZHJWZlRwaU13THRqdlA4dnc?oc=5
+- Grateful to Indian people for providing me with safe haven: Sheikh Hasina | India News - Hindustan Times
+  Sheikh Hasina: Indian people for providing me with safe
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZkRCd3lPMXc1OEFldFpaYU1vdF9faHZlVnV1ZDB0VVc1MElicGp6QXNldnhIdXQzQTBBR3pqUDFsTGdiT3I1eVk0UjRuUm1hNVlwM2tNRy1wZFlqc2RXQjdGOUNrZFdwbXlMSzZxWmxCLVdUOE90YkNsdFRVZDluYVlTYzFpbnlFWUVqbVk3TUVra0lIYUxzNWV3eDhENU5MRnhQSDJyT2lxLXJ5eC1qSGpTNnlWRjB5d3NzTllDNjRTbEJnUWxUZllmWTh1YjM20gHWAUFVX3lxTE1LYXNxdERFRnZuV0t0V1hLY0szYmJ0QWs1MDRmT0RheFY4eEE4VHZjRXAxSS13Z1ZwYm5OaEx6Ny04U0NiVktoV1NrdkYxdnRwVEN6RmJvU21xSFRJSEtTSWt3dkdtaTlWUVhHT2laTjlBLUwzYkk0dUFMRXNFbkVpbVByemVLUm4yWEZOQVc5ZWRiM0tNaUJZSVVLWXBlWFEwRWFoR1ozRXRlQ2FqVFZPRlRjb2QwVnBhSWVwb1hzU0toN19BaThFbjNpSm85ZkVPcWlyWmc?oc=5
 
-- ‘8 jets shot down, but…’: Donald Trump adds fresh twist to his India-Pakistan conflict claims | India News - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0tnVTBUSWN1V3RHR3VrdHozZVlKa0RmU0Y3WHo0dm1zOFdIYTBDbFZTOGlKUHFGUTFWNm9PZXNfcWltY00zYzdYRktrck55M1pQUllVakJuYmZCRWFvd2tKVEtvQWNOTk
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0tnVTBUSWN1V3RHR3VrdHozZVlKa0RmU0Y3WHo0dm1zOFdIYTBDbFZTOGlKUHFGUTFWNm9PZXNfcWltY00zYzdYRktrck55M1pQUllVakJuYmZCRWFvd2tKVEtvQWNOTkZ1ZEhTOU5kcnVpYnk5a293V0JETm9lbk5SLUNZelpSdDhzWnlBT2dZaUhIZmtaYmxZNnhicG9qOGczcHBfd1ZZdkhFRnBSX0pCa1ppNUJCMXVpZmFIYWJRZkRSRVFmamVDMlVRdGJQLTl1N1N0ampQX21p0gHiAUFVX3lxTFBsU0VTMFBOcFM4Uk5QOXZMRzdJWExRTnAyNWhTWGhOUFN5Z010cnJXX3lrSDRLSVczTElSb0Zzbi1iVXhfRXJmbEdJeEZTdnZnYzNudFJvbGI3ZHo1NTRHNE5QZk55WkxfZHpXTzd2V013NVN6Y1BzRUw5TUQzSDN2QlA0TkpLZml1R0NTSWIteDE5MHdmcFZ4NDJSUzBLU2RZTENBMzJlVzZzTUhVZktMUmlYTFhDSDhoOGNCX3VyTnBTeGRnQkFKWWZNMFo3MHZzLXNKNWlYYkRUMjYwa1NtMWc?oc=5
+- TVK stages protest in Nagapattinam against arrest of Indian fishermen by Sri Lankan Navy - The Hindu
+  TVK stages protest in Nagapattinam against arrest of
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ19pU3ZhclVrWFBuM28wck9HbUhqQjAwZzcwYnVjOVhVak1IcFJEbmYwZ0lSc21vaGNfMnN0akhtVWt5R0huaHMtQUUtQW5vS2hMYmJSOHIwZ29mVzdfYVVyWFFFVDV5Q3ZGUExBTTc5X0xxYk9jcmE4azE5NTlBTlVEZ2FPYVN6WjBpaU9iSDNpYk4zZ3BXNENsblJtM1BnVzN6amJrNUQwNmxmaFF6MEVSYmFSN3h5RERocHFtNThDQlRwM3JtaVRUaWdJbzI0aE43NzVqclRGZlRQc3prTjBNNVhSTjNXSXJIclFLanhxUQ?oc=5
 
-- Nobody in country believes it was pilot's fault, Supreme Court remarks on father's plea over Air India crash - India Today
-  The pilot was the only person on board at the time of the crash. The crash
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxOQlFQRlM4a3o3V2lKeWNIc0E0QnVMTHl5WnpJRjZXZ1BGVkYzWlJ6bzJQWTF6eFB4WDlBSURWYlNFZEh0Ml80MDFWT3BFemxnYmotNFpMT1BrUGpnVDhtY29uOTI2cmlCdl8xWjk5X0h5NlpZMkVTc1ZCVjRPVEVIMTFTZFpFdk03TEYyX2h6d2hIbDM1eEo0SEwzRGdlRWx2cTUyenFYdmNqMjNJN2NIYVhjTU55NkJnQ05nZE8wazFkVjZSSU1wRHVaaUY1TXhkSjZjZ0pEeGNmVFFrMzBBMUlhaFhpamNNMGNYbFBwdmhSNWQtalZrRXNTOEJ6aDhO0gGGAkFVX3lxTE4taG11azlQRWtnUjhXbmMybEhYcENLdURzNjcydkFLdEFCcUNyaktwTXVvUjVNVnlHSk5ZaDBsSm1NdnZjYkt6cGROZ1RBWkhuaGxScHNTZ0kwNXhmWGlqN052aUJUczJ3ZEVNcFR4dEVyb0IxSW16UVJiNnNIVWx4bXhLdjh1VnMydlJ0TzJUYlJtWGY0Vmg1VGJEaTBKbnJZR241d2ktUENId3BVOVd2RXRIem1iSlNtYlBoTHNhVW54Zmk0bm80T0ZhR200alNhZ3FTYzFVRk52dVJsLW9VZ295bnF3dVlwaFRUUlhkNHBaSWl5emotRmlBYmVGV21adnBZY0E?oc=5
+- ‘Illegal nuclear activities part of Pakistan’s history': India takes note of Trump's remark | India News - Hindustan Times
+  'Illegal nuclear activities part of Pakistan’s history': India takes
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV0h4UjFUS1dGTDNSUG4xSVdCcTZyWE4zNVJaZVljUmprV3JSRTRULVpmeWlfR0xOcGVfY052d193dmhadTllcC1qOTNpSW5xR01aX3ZTWC1oaGhLbWhMSTRaR2ZKcGoxQnNoR3JnQ2tORVltajZlZUZIcU5aM2JVTWJoZU9rQ1YwMmRpd0trQjNwajBVeU43SlBWNXRLWWpQbDlqdGxtV3FNNHU3UkJiRjIybFRVaTUwcG5FcURjb1FBRl85SjFTVnc0Q3pGT25PV2ZxdG9VSHJOTm1BZW9BSGRiQkzSAeoBQVVfeXFMUEgzdG9YM3NFdUxBN3A4OGVIQmxDeVJwMS1Ed01uWDI5bFgtSnNZaW04dzVmaFowS3ZVdHFrX25QZUpXOEp5Y3JzZ3AyX3VlYXQtRFVBdW9naDhQOFNMdWxJVGJ0cDdqOW9yOVc0djZoNE16d01RamcwVXRFSWVjOXp0dTFfcVR4ZG1vSldkQVVybTFOSE5SeWJ6RU10MmZUUmJYZXZOdm5uZFlNdGI0MkpuWmVtVTU2VDRNbmpwbTZaaHlrVllrcE1JN2xWR3Z2Ui1nZVBNdmNObjdDdkloWktlSG5HWG4zcTlB?oc=5
 
-- Delhi IGI Airport: Air Traffic Control glitch triggers massive delays, over 60 flights affected - The Hindu
-  Delhi IGI Airport: Air Traffic Control glitch triggers massive delays
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTk1aOUp2RVJEMFl5b2FjRUxiMmdtN3VqNU83ODZuZmJZdHM1TUVPbmRxT3p2Yzd0VEFfeWRMdFFOSVJFWTlianFMR3MxUDlNMmlFa21CZUR3MVdpRFZESHg2enBWTFZfcXVIS0lFNF9LR0VsdkZqXzJfNVI2c3JsY2JSMjJmdUYxamVGdWVOWHRELTU2VnRpSlh0R2tRa01Qc2pIY3puVmZlSlBlb3dwQnU2ZWZFakRobUlOLWgtSEdKTkR3emNiVmlZT3hjckVkazVPS3hn0gHcAUFVX3lxTFB0OFRhOHJtbjRoM1NrVnhuU3MtbmI5a0swWnB5a0ZRbS1NOENWZUpqbjQ5YVhZWUhQNmhwMHBCeU81NnMyanVQUzFQZFlkMzQwLWVTVUNUVHRBei05Y2d4MFl5WVFQVWE3ZXBRb0VMVFdOZmphTXpHTFIzclpjLVVtRkVsMWFVWmtlRDkwVHVyTUdCa2ZaaERrbFE3SlNCM0xiX1RrVjZ1MWx2NExnT0Z1SjNUQWJvNmRyNmxLSklLVEFZbVZJdmlPSUJMS3gxWWdmWHFqOXNIRFc3NjA?oc=5
-
-- Explained: Why flights are running late at Delhi's IGI airport today | India News - Hindustan Times
-  . India News: Why flights are running late at Delhi
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRzItNkl2N1ZOSVdPRm5qd2NxUmI4aThZbnhRT0otNXpGcnQwRkVPMXpaWWlKeDJuZ0tFVkZYWTlvU3BvZ1JBRlJuRTFVTDRjZUhOakg3MjJFTDdXSm40YUk0ZVg0NXd5WTF4VHl4a0pmaTRYT1pZYk14N25YdzA1RTRtaml6LVM2N0FWbld1aEtlbVFmS1NrXzNnSFBUckQyeG5RaTh6Nm9vd3FsUHdNUGtFbU5mdlpvMXVUemtONVFGd0RPaFBJQdIBzgFBVV95cUxOa2Z6d2htUmpJclpXbUxoM0VyQUx5RmxUMThWZnBpelJXX3FvdGxIa2JRWkNaMFBNOGZvb3pQZFVhd09NRmZLQ0hOTjdfWHVubDJHclBfQ2RXSkd3S1h2ZEd1UzYyWHowcURsdFJDLVQ2c3YwSkMwTEpmTERJUTZ0ZG5kTW02c0dqTF9nU19aZnR0bDNJejVXSnV5Z0h1Qmx6WVlwemtXdlBSTnJqQmk3eG5ud3p6TTNuaTZtUG5LNko0amd0VUotaTNjRUg3Zw?oc=5
-
-- Delhi Airport Chaos: Over 100 Flights Hit Due To Air Traffic Control Glitch - NDTV
-  Delhi Airport Chaos: Over 100 Flights Hit Due
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVhFLWg5MXVhaWxONzd5aGlTVlFnajMzRHo0UUhma3Rzc1BDcGRKbWdYTUVQU0tHeEI2RWdLX2pSQlRNZXVraFpDS3B1Z0sxdVg4SkV1WTlKQVQtZ0dsY1lqYXlwVndLOGJIYk9qNXlSY1FoaGlzQ2JMa1ZPeGJaLThZNUlNNkVsdFJjOHB1d29iWk1tZlVYZFZCM2ZOQlFVQ1o4Z1JNZW9qbmRBWUpTcDhwaXlDSDjSAb8BQVVfeXFMTWxrZWRNbDZkU1Z2c2lDYUJvTl8zbTdLN2JkMW9fQXJONjVhTEpFTmFFZl9MWUlMdTRtMVlMMkpoWDQ4RTh6MEFsQlJXZ3l4WkVUVFluV0gxZVFoWUpBeHN0TmZrSFAxQkR4QmlfTFdvV2dZUl9FSldvMlRwZ2l5N1NwOTF5NGwxWWhxRGJjcEpnYkVLWTZFdWxLMlRKb0ZyQWVjd2NwMVpzYTl0Z1VDZHJWZlRwaU13THRqdlA4dnc?oc=5
-
-- ‘8 jets shot down, but…’: Donald Trump adds fresh twist to his India-Pakistan conflict claims | India News - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0tnVTBUSWN1V3RHR3VrdHozZVlKa0RmU0Y3WHo0dm1zOFdIYTBDbFZTOGlKUHFGUTFWNm9PZXNfcWltY00zYzdYRktrck55M1pQUllVakJuYmZCRWFvd2tKVEtvQWNOTk
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0tnVTBUSWN1V3RHR3VrdHozZVlKa0RmU0Y3WHo0dm1zOFdIYTBDbFZTOGlKUHFGUTFWNm9PZXNfcWltY00zYzdYRktrck55M1pQUllVakJuYmZCRWFvd2tKVEtvQWNOTkZ1ZEhTOU5kcnVpYnk5a293V0JETm9lbk5SLUNZelpSdDhzWnlBT2dZaUhIZmtaYmxZNnhicG9qOGczcHBfd1ZZdkhFRnBSX0pCa1ppNUJCMXVpZmFIYWJRZkRSRVFmamVDMlVRdGJQLTl1N1N0ampQX21p0gHiAUFVX3lxTFBsU0VTMFBOcFM4Uk5QOXZMRzdJWExRTnAyNWhTWGhOUFN5Z010cnJXX3lrSDRLSVczTElSb0Zzbi1iVXhfRXJmbEdJeEZTdnZnYzNudFJvbGI3ZHo1NTRHNE5QZk55WkxfZHpXTzd2V013NVN6Y1BzRUw5TUQzSDN2QlA0TkpLZml1R0NTSWIteDE5MHdmcFZ4NDJSUzBLU2RZTENBMzJlVzZzTUhVZktMUmlYTFhDSDhoOGNCX3VyTnBTeGRnQkFKWWZNMFo3MHZzLXNKNWlYYkRUMjYwa1NtMWc?oc=5
-
-- Nobody in country believes it was pilot's fault, Supreme Court remarks on father's plea over Air India crash - India Today
-  The pilot was the only person on board at the time of the crash. The crash
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxOQlFQRlM4a3o3V2lKeWNIc0E0QnVMTHl5WnpJRjZXZ1BGVkYzWlJ6bzJQWTF6eFB4WDlBSURWYlNFZEh0Ml80MDFWT3BFemxnYmotNFpMT1BrUGpnVDhtY29uOTI2cmlCdl8xWjk5X0h5NlpZMkVTc1ZCVjRPVEVIMTFTZFpFdk03TEYyX2h6d2hIbDM1eEo0SEwzRGdlRWx2cTUyenFYdmNqMjNJN2NIYVhjTU55NkJnQ05nZE8wazFkVjZSSU1wRHVaaUY1TXhkSjZjZ0pEeGNmVFFrMzBBMUlhaFhpamNNMGNYbFBwdmhSNWQtalZrRXNTOEJ6aDhO0gGGAkFVX3lxTE4taG11azlQRWtnUjhXbmMybEhYcENLdURzNjcydkFLdEFCcUNyaktwTXVvUjVNVnlHSk5ZaDBsSm1NdnZjYkt6cGROZ1RBWkhuaGxScHNTZ0kwNXhmWGlqN052aUJUczJ3ZEVNcFR4dEVyb0IxSW16UVJiNnNIVWx4bXhLdjh1VnMydlJ0TzJUYlJtWGY0Vmg1VGJEaTBKbnJZR241d2ktUENId3BVOVd2RXRIem1iSlNtYlBoTHNhVW54Zmk0bm80T0ZhR200alNhZ3FTYzFVRk52dVJsLW9VZ295bnF3dVlwaFRUUlhkNHBaSWl5emotRmlBYmVGV21adnBZY0E?oc=5
-
-- Delhi IGI Airport: Air Traffic Control glitch triggers massive delays, over 60 flights affected - The Hindu
-  Delhi IGI Airport: Air Traffic Control glitch triggers massive delays
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTk1aOUp2RVJEMFl5b2FjRUxiMmdtN3VqNU83ODZuZmJZdHM1TUVPbmRxT3p2Yzd0VEFfeWRMdFFOSVJFWTlianFMR3MxUDlNMmlFa21CZUR3MVdpRFZESHg2enBWTFZfcXVIS0lFNF9LR0VsdkZqXzJfNVI2c3JsY2JSMjJmdUYxamVGdWVOWHRELTU2VnRpSlh0R2tRa01Qc2pIY3puVmZlSlBlb3dwQnU2ZWZFakRobUlOLWgtSEdKTkR3emNiVmlZT3hjckVkazVPS3hn0gHcAUFVX3lxTFB0OFRhOHJtbjRoM1NrVnhuU3MtbmI5a0swWnB5a0ZRbS1NOENWZUpqbjQ5YVhZWUhQNmhwMHBCeU81NnMyanVQUzFQZFlkMzQwLWVTVUNUVHRBei05Y2d4MFl5WVFQVWE3ZXBRb0VMVFdOZmphTXpHTFIzclpjLVVtRkVsMWFVWmtlRDkwVHVyTUdCa2ZaaERrbFE3SlNCM0xiX1RrVjZ1MWx2NExnT0Z1SjNUQWJvNmRyNmxLSklLVEFZbVZJdmlPSUJMS3gxWWdmWHFqOXNIRFc3NjA?oc=5
-
-- Explained: Why flights are running late at Delhi's IGI airport today | India News - Hindustan Times
-  . India News: Why flights are running late at Delhi
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRzItNkl2N1ZOSVdPRm5qd2NxUmI4aThZbnhRT0otNXpGcnQwRkVPMXpaWWlKeDJuZ0tFVkZYWTlvU3BvZ1JBRlJuRTFVTDRjZUhOakg3MjJFTDdXSm40YUk0ZVg0NXd5WTF4VHl4a0pmaTRYT1pZYk14N25YdzA1RTRtaml6LVM2N0FWbld1aEtlbVFmS1NrXzNnSFBUckQyeG5RaTh6Nm9vd3FsUHdNUGtFbU5mdlpvMXVUemtONVFGd0RPaFBJQdIBzgFBVV95cUxOa2Z6d2htUmpJclpXbUxoM0VyQUx5RmxUMThWZnBpelJXX3FvdGxIa2JRWkNaMFBNOGZvb3pQZFVhd09NRmZLQ0hOTjdfWHVubDJHclBfQ2RXSkd3S1h2ZEd1UzYyWHowcURsdFJDLVQ2c3YwSkMwTEpmTERJUTZ0ZG5kTW02c0dqTF9nU19aZnR0bDNJejVXSnV5Z0h1Qmx6WVlwemtXdlBSTnJqQmk3eG5ud3p6TTNuaTZtUG5LNko0amd0VUotaTNjRUg3Zw?oc=5
-
-- Delhi Airport Chaos: Over 100 Flights Hit Due To Air Traffic Control Glitch - NDTV
-  Delhi Airport Chaos: Over 100 Flights Hit Due
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVhFLWg5MXVhaWxONzd5aGlTVlFnajMzRHo0UUhma3Rzc1BDcGRKbWdYTUVQU0tHeEI2RWdLX2pSQlRNZXVraFpDS3B1Z0sxdVg4SkV1WTlKQVQtZ0dsY1lqYXlwVndLOGJIYk9qNXlSY1FoaGlzQ2JMa1ZPeGJaLThZNUlNNkVsdFJjOHB1d29iWk1tZlVYZFZCM2ZOQlFVQ1o4Z1JNZW9qbmRBWUpTcDhwaXlDSDjSAb8BQVVfeXFMTWxrZWRNbDZkU1Z2c2lDYUJvTl8zbTdLN2JkMW9fQXJONjVhTEpFTmFFZl9MWUlMdTRtMVlMMkpoWDQ4RTh6MEFsQlJXZ3l4WkVUVFluV0gxZVFoWUpBeHN0TmZrSFAxQkR4QmlfTFdvV2dZUl9FSldvMlRwZ2l5N1NwOTF5NGwxWWhxRGJjcEpnYkVLWTZFdWxLMlRKb0ZyQWVjd2NwMVpzYTl0Z1VDZHJWZlRwaU13THRqdlA4dnc?oc=5
-
-- ‘8 jets shot down, but…’: Donald Trump adds fresh twist to his India-Pakistan conflict claims | India News - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0tnVTBUSWN1V3RHR3VrdHozZVlKa0RmU0Y3WHo0dm1zOFdIYTBDbFZTOGlKUHFGUTFWNm9PZXNfcWltY00zYzdYRktrck55M1pQUllVakJuYmZCRWFvd2tKVEtvQWNOTk
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0tnVTBUSWN1V3RHR3VrdHozZVlKa0RmU0Y3WHo0dm1zOFdIYTBDbFZTOGlKUHFGUTFWNm9PZXNfcWltY00zYzdYRktrck55M1pQUllVakJuYmZCRWFvd2tKVEtvQWNOTkZ1ZEhTOU5kcnVpYnk5a293V0JETm9lbk5SLUNZelpSdDhzWnlBT2dZaUhIZmtaYmxZNnhicG9qOGczcHBfd1ZZdkhFRnBSX0pCa1ppNUJCMXVpZmFIYWJRZkRSRVFmamVDMlVRdGJQLTl1N1N0ampQX21p0gHiAUFVX3lxTFBsU0VTMFBOcFM4Uk5QOXZMRzdJWExRTnAyNWhTWGhOUFN5Z010cnJXX3lrSDRLSVczTElSb0Zzbi1iVXhfRXJmbEdJeEZTdnZnYzNudFJvbGI3ZHo1NTRHNE5QZk55WkxfZHpXTzd2V013NVN6Y1BzRUw5TUQzSDN2QlA0TkpLZml1R0NTSWIteDE5MHdmcFZ4NDJSUzBLU2RZTENBMzJlVzZzTUhVZktMUmlYTFhDSDhoOGNCX3VyTnBTeGRnQkFKWWZNMFo3MHZzLXNKNWlYYkRUMjYwa1NtMWc?oc=5
-
-- Nobody in country believes it was pilot's fault, Supreme Court remarks on father's plea over Air India crash - India Today
-  The pilot was the only person on board at the time of the crash. The crash
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxOQlFQRlM4a3o3V2lKeWNIc0E0QnVMTHl5WnpJRjZXZ1BGVkYzWlJ6bzJQWTF6eFB4WDlBSURWYlNFZEh0Ml80MDFWT3BFemxnYmotNFpMT1BrUGpnVDhtY29uOTI2cmlCdl8xWjk5X0h5NlpZMkVTc1ZCVjRPVEVIMTFTZFpFdk03TEYyX2h6d2hIbDM1eEo0SEwzRGdlRWx2cTUyenFYdmNqMjNJN2NIYVhjTU55NkJnQ05nZE8wazFkVjZSSU1wRHVaaUY1TXhkSjZjZ0pEeGNmVFFrMzBBMUlhaFhpamNNMGNYbFBwdmhSNWQtalZrRXNTOEJ6aDhO0gGGAkFVX3lxTE4taG11azlQRWtnUjhXbmMybEhYcENLdURzNjcydkFLdEFCcUNyaktwTXVvUjVNVnlHSk5ZaDBsSm1NdnZjYkt6cGROZ1RBWkhuaGxScHNTZ0kwNXhmWGlqN052aUJUczJ3ZEVNcFR4dEVyb0IxSW16UVJiNnNIVWx4bXhLdjh1VnMydlJ0TzJUYlJtWGY0Vmg1VGJEaTBKbnJZR241d2ktUENId3BVOVd2RXRIem1iSlNtYlBoTHNhVW54Zmk0bm80T0ZhR200alNhZ3FTYzFVRk52dVJsLW9VZ295bnF3dVlwaFRUUlhkNHBaSWl5emotRmlBYmVGV21adnBZY0E?oc=5
-
-- Delhi IGI Airport: Air Traffic Control glitch triggers massive delays, over 60 flights affected - The Hindu
-  Delhi IGI Airport: Air Traffic Control glitch triggers massive delays
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTk1aOUp2RVJEMFl5b2FjRUxiMmdtN3VqNU83ODZuZmJZdHM1TUVPbmRxT3p2Yzd0VEFfeWRMdFFOSVJFWTlianFMR3MxUDlNMmlFa21CZUR3MVdpRFZESHg2enBWTFZfcXVIS0lFNF9LR0VsdkZqXzJfNVI2c3JsY2JSMjJmdUYxamVGdWVOWHRELTU2VnRpSlh0R2tRa01Qc2pIY3puVmZlSlBlb3dwQnU2ZWZFakRobUlOLWgtSEdKTkR3emNiVmlZT3hjckVkazVPS3hn0gHcAUFVX3lxTFB0OFRhOHJtbjRoM1NrVnhuU3MtbmI5a0swWnB5a0ZRbS1NOENWZUpqbjQ5YVhZWUhQNmhwMHBCeU81NnMyanVQUzFQZFlkMzQwLWVTVUNUVHRBei05Y2d4MFl5WVFQVWE3ZXBRb0VMVFdOZmphTXpHTFIzclpjLVVtRkVsMWFVWmtlRDkwVHVyTUdCa2ZaaERrbFE3SlNCM0xiX1RrVjZ1MWx2NExnT0Z1SjNUQWJvNmRyNmxLSklLVEFZbVZJdmlPSUJMS3gxWWdmWHFqOXNIRFc3NjA?oc=5
-
-- Explained: Why flights are running late at Delhi's IGI airport today | India News - Hindustan Times
-  . India News: Why flights are running late at Delhi
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRzItNkl2N1ZOSVdPRm5qd2NxUmI4aThZbnhRT0otNXpGcnQwRkVPMXpaWWlKeDJuZ0tFVkZYWTlvU3BvZ1JBRlJuRTFVTDRjZUhOakg3MjJFTDdXSm40YUk0ZVg0NXd5WTF4VHl4a0pmaTRYT1pZYk14N25YdzA1RTRtaml6LVM2N0FWbld1aEtlbVFmS1NrXzNnSFBUckQyeG5RaTh6Nm9vd3FsUHdNUGtFbU5mdlpvMXVUemtONVFGd0RPaFBJQdIBzgFBVV95cUxOa2Z6d2htUmpJclpXbUxoM0VyQUx5RmxUMThWZnBpelJXX3FvdGxIa2JRWkNaMFBNOGZvb3pQZFVhd09NRmZLQ0hOTjdfWHVubDJHclBfQ2RXSkd3S1h2ZEd1UzYyWHowcURsdFJDLVQ2c3YwSkMwTEpmTERJUTZ0ZG5kTW02c0dqTF9nU19aZnR0bDNJejVXSnV5Z0h1Qmx6WVlwemtXdlBSTnJqQmk3eG5ud3p6TTNuaTZtUG5LNko0amd0VUotaTNjRUg3Zw?oc=5
-
-- Delhi Airport Chaos: Over 100 Flights Hit Due To Air Traffic Control Glitch - NDTV
-  Delhi Airport Chaos: Over 100 Flights Hit Due
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVhFLWg5MXVhaWxONzd5aGlTVlFnajMzRHo0UUhma3Rzc1BDcGRKbWdYTUVQU0tHeEI2RWdLX2pSQlRNZXVraFpDS3B1Z0sxdVg4SkV1WTlKQVQtZ0dsY1lqYXlwVndLOGJIYk9qNXlSY1FoaGlzQ2JMa1ZPeGJaLThZNUlNNkVsdFJjOHB1d29iWk1tZlVYZFZCM2ZOQlFVQ1o4Z1JNZW9qbmRBWUpTcDhwaXlDSDjSAb8BQVVfeXFMTWxrZWRNbDZkU1Z2c2lDYUJvTl8zbTdLN2JkMW9fQXJONjVhTEpFTmFFZl9MWUlMdTRtMVlMMkpoWDQ4RTh6MEFsQlJXZ3l4WkVUVFluV0gxZVFoWUpBeHN0TmZrSFAxQkR4QmlfTFdvV2dZUl9FSldvMlRwZ2l5N1NwOTF5NGwxWWhxRGJjcEpnYkVLWTZFdWxLMlRKb0ZyQWVjd2NwMVpzYTl0Z1VDZHJWZlRwaU13THRqdlA4dnc?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Trump Calls PM Modi A "Great Man", Hints At Possible India Visit Next Year - NDTV
+  Trump calls PM Modi A "Great Man", Hints At
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWduRVIteHFNT3RlRUpYYW9mTXgtb0N4SHBra250UWhvallJdjBXbURrTE0xaU54SmxvcWhJTlJTRXUyYi1JNkhtWU14eXRNVjFQR3J2b19KOE9MR1VGOFdnd3RHQVhGSmdNdVBGWEJaMDRpd3ZMN2xZSVFxaEtCMGdpazNXcGRzSy01VERBRUszNkROZUNlR1MzUXNpbnVNemZsSG50YVNDdVhfMnhz0gG3AUFVX3lxTE9mb2pmdzVkUmRGYTc4TkxBb2JsRWlfZFpDWDVpdWF3bVo0a241bmYxMXlWcEttc2JRNFFROElKajFzWkpMMDFFT2I4aWJxTDFpTEVaaDdlUFhtVGdXX0R5ZjRtSE1vcWZJRENMUjlscGNzc2llT2VqLTBCM3NLWnVsU2RNZnJqT3hhMnVwUVpCei1CX19aTGZOR0ZBNEJxd29aaVk4VlV1TnlfcFhrLTJMNTZxM1p4TQ?oc=5
 
 
-_Last updated: 2025-11-07 06:28:47 UTC_
+_Last updated: 2025-11-07 12:35:02 UTC_
