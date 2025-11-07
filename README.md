@@ -1,84 +1,68 @@
 # 📰 Daily News Summaries
 
-- President Murmu to undertake 6-day visit to Angola, Botswana
-  
-  🔗 https://indianexpress.com/article/india/president-murmu-6-day-visit-to-angola-botswana-10350173/
+- "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
+  "8 Planes Shot Down": Trump Updates Key Figure
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3F1T1VfaU83YmV1RHhBdWlyeTFjZ0ZhaVBFa3lsR1p1N05vc2pCT2ZDRFJ4dDcwc2RpeEI4UmRzVEEwc2RsWkxzVmRTbThVZ2tRTnp1MEpKTkp6TFd3ZUJBU185ZG9hT0hHVlBfaDVJeW9LWHVWdkoxSzZFOVYyRklUVzVFVHoxTGw2TUc2S190cVdMeHRLZ1J1Y0xSa1BCbGxZeDNXNnZDdTNjZEdsakJISUN3SzRRM0tHTTdOYXTSAcgBQVVfeXFMTV9JUDBEWkNlX3R5MjlITlNhTnQySXZ6V1BZN0RsVnl0cTlRd1U1OTBzcU1oNllFdjhjc0VkSWVvTUE1UEIyWGw5c1BHaG1ObVZCTzhnc243WUlvczdMZ1Z3a0I1dWNiTFdSelE3T1FXNjJSRkh5TGprZ0pTc0hmbmZKRkd5RnJKaXV6Y254N1hzaDJmR0w5NlcyaDNlRktsdjRGZmt0MkVFLVJyVkpBMldMOEZTTFNwbUszcUl3SXJOTXlPUlEwSWE?oc=5
 
-- Kerala voter list 2025: Step-by-step guide to check your name in the electoral roll of 2002 SIR
-  
-  🔗 https://indianexpress.com/article/india/kerala-voter-list-2025-step-by-step-guide-to-check-your-name-in-the-electoral-roll-of-2002-sir-10350156/
+- 'A call next day...': Trump adds new details to rejected India-Pakistan truce claim | India News - Hindustan Times
+  'A call next day...': Trump adds new details to rejected India-
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM0pQLTFOSzM3cWxmWTc0dUE1eHdzTlQycUxfOWxILWY0RXQtV1U1WDFRYkk0TjBUUWdhQ2xSM3BfdFk4NmxBSzl0X2JMbzNzNkE2b0NiOWE1Z3dxWGpXRHJ0VV9xLV9ZSUtNNDE5Tlp4akJyZEljSm42REhFeXNibzJzZHV2dVZyVWZ4V2RRSVRGTFFsc09HbUduNmdvYi01RDl0N2ZxdHFBX2R1aWtDbXNySE5qY1R4TjNZUjl4M3pzdmZZc0dOYUhkQlNJbXhKRU9ZemRBVlotUEdnUEpJUGtYQ1RQOUFBNGRlQ2JZaGl4N09J0gH6AUFVX3lxTFAxX2pGWTdkaUFTUElCakVLSVgxbTdjNkdEWDdEMHR0WkNhdm00LWhnSGhHNE1Pdlc2NVp2bVRuRnE2dDUxSWFWQ3Ixa0VnN2NPQVR3bEVOeFQ4Vl9rZ19RRnhlY2FtN3QycWtlT1BGaV9xQ19JaWFyRW84cENVdFpBcXJZWWtPUVpyTE5JLWVVdUduTUl0aThvcWszMFNyNzFiUENhZ0ZqSmdMOHFZZFJZZHRnbVg2M3FpbnRCQVFPTFVvSlR3OTR5aUFRakMxbDhxdi1tQTJXSnpWZUpvTzdWbmRUNWFlYkp2SEw2WTlzVFdNc0VJeXBTWFE?oc=5
 
-- Tripura finance minister on ‘pension dues’ of retired TTAADC workers: ‘Govt has no responsibility for employees hired by tribal council’
-  
-  🔗 https://indianexpress.com/article/india/tripura-finance-minister-pension-dues-retired-ttaadc-workers-10350158/
+- Maharashtra orders probe into land sale to Ajit son's company - Times of India
+  Maharashtra orders probe into land sale to Aj
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQQnFvVmJrbjlDNkJ2TWNmNjBrUUJBM1NYeGlRRHRVWmRPclJGWUdfdjVDMHpVV1BoR0g1RDVIZjJvQmVMb1BzZmVJaExBMlE3UU5ya1NCMXJzQkhPdzFpZGNxWk56QXUwdnZJVEpwSnkwcDljaExmdTZuYUM4OXlPRnpNYWlJQWlzZ1lqQVJLYmZjSWRqZGZ1STN3ZlhWRkx2R2Uzc18yVVlITFBscGUyeGJPOGNYSmZxMkFhWnkxNUI1aTAtdV9F0gHMAUFVX3lxTE50WktzVEFsSXV4Zmx0bk1aRV9HVkd5Ym1Gd2JGTExmVlhOSWVTc3hjWjNpSE41QnlUQmk5SU1tS24yOHZ2VjMzYkhPRl9lNkx1d1dZSTFVdGlVTFh0d0xsaVAtaWIxOU5mVnA0d1BSRjFIWURTSG9tZ0VOTWtrYVJETjdEUmRMUmI4eVhvNGpWRDY1WWI3X2VsY0pXTWlEeUFsS3o0S3ZtZ3Y2N2pHdHc1cXZvUnJ6ZkJNbkY5NjJQZ0Q5Zlk3dnM2d2NUZQ?oc=5
 
-- Chhattisgarh train collision: Loco pilots’ union alleges factual error in initial probe report
-  
-  🔗 https://indianexpress.com/article/india/chhattisgarh-train-collision-loco-pilots-union-alleges-factual-error-in-initial-probe-report-10350022/
+- IAF enthrals spectators as Chhattisgarh marks 25 years of formation - The Indian Express
+  The Indian Express reports that the IAF is celebrating
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkVEcC1uQ1lDbG1tb2NOem96cmFmaWxaaW5uQk1DQ1I2SnJVM2J0aE1SS3JDOEtnN0JTenNvd01rc0FmYUR6UFBzOEtMVTdBQVdrRTJEQ3NjZTVGbUM0a3VPeW1feVZRT29ac2o4NEpQQ2FsMGZ5dXczNkZrOURLQm1IaE1WR1NCc3Z1dEpSZjhBVlVQZS1RdW5XZ2lBenlVTGxNSEZJaVY4Um9YQmtvVm5iSlZUTWdr0gG_AUFVX3lxTE1RRnVKdkw0YV9jb25SMUIzbms5WjVHS21RbDRhOFhfSXlNNk85eU9MZXV1TEh2NWlpd29aaWVEMDNqWHpLLWFpTG8yUWNPZm02eVoxS0dBcHpoSDdkLXBnR20wMERIMDMyTHNkV2JpZHZLMDdleEtraXBodHBzVEtoNmZ0OGV6LVRTNjU5azlNWnpSa2UyQ1NYRWE3Y05lRGpzNjBFX1F4OTNBRUlSOENPTnVsWjdHU0tqeHRTOElR?oc=5
 
-- Day after Haryana allegations, Rahul says BJP will try to steal votes in Bihar
-  
-  🔗 https://indianexpress.com/article/india/day-after-haryana-allegations-rahul-says-bjp-will-try-to-steal-votes-in-bihar-10350129/
+- School assembly news headlines, November 3: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 3: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTmtzdXQxQmdqejhHd3o4ZHNvSFg5LVVBS2F5UkxPcGI2NVdIMl9nWGdiTnBkeDF6Tm0yQlNNSXJ2RTRBbmo5M09fbjFPb19MTHhSYmdibXhOanExMG9yM05DYU9tWmMwRGtMc3M2Q29LbFVtTS0za0hLbTZodGlKUGJ1WElzYzFKbXQ2ai1vWWhhOFdnRHJDempmcUx3U0VQTjNUVld2UEpwYll0aXRfbkJ5VW1GY1NZY3dfcXdaYk8yaVFBTTZONGhDTTRuRDJhYWVmWnhmWVlydDNNVmc1VWJzeDfSAeoBQVVfeXFMUGdXZWV1eURNYjk2Vk5NRGRoRXMwczdzY2loYzNTcFhSSVp1bDVmQmxPdm5WT2xBc3FhYUFwWkZRbl9ZaXIwbkszV2Nmb2NHVUtvdUJjUjVsUXpDOUhYdTUyb2dMeFplWndudTV6RkZHSksxVWtoMjNiOTJFM2FRVWhuRGRLb25KNnItNzRwbVprSHd1d1hQMVBhZzNZaXY0OEhmanp0bWZyWkZyN2Q5R0pITkQwTHdKbXdmUXNKVkpndmZUNzc4WGU3dE9SM21fZTYtTHdxS2hsa04tXzVlU0toaWZZSUVrOGR3?oc=5
 
-- AWS expands marketplace in India, enables software purchases in rupees
-  
-  🔗 https://indianexpress.com/article/technology/aws-expands-marketplace-in-india-enables-software-purchases-in-rupees-10350240/
+- Tata Sons' electronics bet crosses $1.3 billion
+  Tata group’s investments in aviation, electronics and e-commerce topped $11 billion as of H1FY26. Its electronics
+  🔗 https://www.livemint.com/companies/news/tata-sons-electronics-bet-crosses-1-3-billion-apple-iphone-11762334452195.html
 
-- Health-tech company Ultrahuman partners with Tata 1mg, ‘Blood Vision’ service now available in over 60 cities across the country
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/health-tech-company-ultrahuman-partners-with-tata-1mg-blood-vision-service-now-available-in-over-60-cities-across-the-country-10350070/
+- Elon Musk secures record $1 trillion Tesla pay package, largest ever for a CEO
+  The pay package was designed to secure Musk’s ongoing commitment to Tesla as the company advances its work in artificial intelligence and robotics. According to a Tesla official at the company�
+  🔗 https://www.livemint.com/companies/news/elon-musk-secures-record-1-trillion-tesla-pay-package-largest-ever-for-a-ceo-11762471824513.html
 
-- Canon’s EOS R6 Mark III is a video powerhouse with 7K/60p RAW and full-size HDMI
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/canons-eos-r6-mark-iii-is-a-video-powerhouse-with-7k-60p-raw-and-full-size-hdmi-10349960/
+- Delta pilot didnt recall instructions before NYC airport ground collision, NTSB report says
+  Delta pilot didn't recall instructions before NYC
+  🔗 https://www.livemint.com/companies/news/delta-pilot-didnt-recall-instructions-before-nyc-airport-ground-collision-ntsb-report-says-11762466777489.html
 
-- Realme UI 7.0: Full list of eligible phones, rollout schedule and new features
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/realme-ui-7-0-full-list-of-eligible-phones-rollout-schedule-and-new-features-10349644/
+- Two US regional banks sidestep proxy fight with activist investor HoldCo
+  Two US regional banks sidest
+  🔗 https://www.livemint.com/companies/news/two-us-regional-banks-sidestep-proxy-fight-with-activist-investor-holdco-11762462649385.html
 
-- Industry body representing Microsoft, AWS seeks copyright exemption to train AI in India
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/industry-body-seeks-copyright-exemption-ai-training-india-10349887/
+- UpGrad in talks to acquire Unacademy in $300–400 million deal: Report
+  UpGrad is in talks to acquire Unacademy for $300–400 million. That's a steep drop
+  🔗 https://www.livemint.com/companies/news/upgrad-in-talks-to-acquire-unacademy-in-300-400-million-deal-report-11762456944255.html
 
-- Mark Zuckerberg drops below top 5 richest people, loses $5 billion wealth as Meta stock slides 2.3% — here's why
-  Mark Zuckerberg lost $5 billion of his wealth tied to Meta stocks. Shares dropped over 2% on Q3 earnings projections that the company would make a
-  🔗 https://www.livemint.com/companies/people/mark-zuckerberg-loses-5-billion-wealth-below-top-5-meta-stock-slides-internal-document-show-revenues-advertisement-scams-11762448159154.html
+- Q2 results today: Nykaa, Trent, Hindalco among companies to declare earnings on Friday — 7 Nov 2025
+  Nykaa, Trent, Hindalco Industries, Bajaj Auto, K
+  🔗 https://www.livemint.com/market/stock-market-news/q2-results-today-nykaa-trent-hindalco-among-companies-to-declare-earnings-on-friday-7-nov-2025-11762453021996.html
 
-- Elon Musk may soon get $1 trillion salary, but will it make him work better? Esther Duflo, Abhijit Banerjee weigh in
-  Tesla has argued that the mammoth pay package of Elon Musk, if approved, will result in the CEO making more efforts towards his work. The company has even said that not getting the approval may
-  🔗 https://www.livemint.com/companies/people/elon-musk-may-soon-get-1-trillion-salary-but-will-it-make-him-work-better-esther-duflo-abhijit-banerjee-weigh-in-11762443743677.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 7 November 2025
+  Sumeet Bagadia recommends five breakout stocks to buy today: Aditya Infotech, Sen
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-7-november-2025-11762452189179.html
 
-- These Indian philanthropists have donated over  ₹100 crore in FY25: Shiv Nadar, Mukesh Ambani, Bajaj family—See full list
-   191 philanthropists cumulatively donated  ₹10,380 crore — up by 85%, compared to three years ago. EdelGive-Hurun India Phil
-  🔗 https://www.livemint.com/companies/people/indian-philanthropists-donate-over-100-crore-fy25-shiv-nadar-mukesh-ambani-bajaj-birla-adani-nilekani-hinduja-full-list-11762438464752.html
+- Studds Accessories IPO listing date today. GMP, experts signal debut of shares at modest premium in stock market today
+  Studds Accessories IPO listing date is today, November 7. Equity shares will be listed on BSE and NSE.
+  🔗 https://www.livemint.com/market/ipo/studds-accessories-ipo-listing-date-today-gmp-experts-signal-debut-of-shares-at-modest-premium-in-stock-market-today-11762450053748.html
 
-- Godrej Properties says on track to achieve record  ₹32,500 crore sales in FY26
-  Mumbai-based firm saw a drop in revenue due to
-  🔗 https://www.livemint.com/companies/company-results/godrej-properties-q2-earnings-godrej-fy26-sales-real-estate-india-11762365353674.html
+- Stock market today: Trade setup for Nifty 50, Q2 results, Pine Labs IPO to gold prices - 8 stocks to buy
+  Indian stock markets closed lower on Thursday, with Nifty 50 down 88 points and Sensex declining by 148 points. Broader indices also fell due to FII sell-offs. Analysts suggest
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-q2-results-pine-labs-ipo-to-gold-prices-8-stocks-to-buy-11762443850628.html
 
-- IndiGo vs Mahindra: Mediation fails in ‘6E’ trademark dispute
-  IndiGo had filed the trademark infringement suit in December 2024, objecting to Mah
-  🔗 https://www.livemint.com/companies/indigo-mahindra-6e-trademark-dispute-indigo-vs-mahindra-case-11762431711732.html
+- Stocks to buy: Raja Venkatraman's top picks for 7 November
+  Market expert Raja Venkatraman shares his top three stock picks to buy today, 6 November.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-stock-picks-for-7-november-sensex-nifty-11762433576309.html
 
-- Oil slips as investors weigh potential supply glut, weak demand
-  Oil slips as investors weigh
-  🔗 https://www.livemint.com/market/commodities/oil-slips-as-investors-weigh-potential-supply-glut-weak-demand-11762448202806.html
-
-- Aluminium falls to two-week low as lower stocks drag metals down
-  Aluminium falls to two-week low
-  🔗 https://www.livemint.com/market/commodities/aluminium-falls-to-two-week-low-as-lower-stocks-drag-metals-down-11762447267476.html
-
-- Infosys announces record date for  ₹18,000 crore share buyback — Check key details, eligibility criteria here
-  IT major Infosys announced the record date for its mega share buyback offer. Check key details
-  🔗 https://www.livemint.com/market/stock-market-news/infosys-announces-record-date-for-rs-18-000-crore-share-buyback-check-key-details-eligibility-criteria-here-11762446839556.html
-
-- Gold ticks higher as US shutdown, tariff uncertainty lift safe-haven demand
-  Gold ticks higher as US shutdown
-  🔗 https://www.livemint.com/market/commodities/gold-ticks-higher-as-us-shutdown-tariff-uncertainty-lift-safe-haven-demand-11762446022290.html
-
-- Wall St drops as tech sell-off resumes; tariff, economic data uncertainty lingers
-  Wall St drops as tech sell-off resumes;
-  🔗 https://www.livemint.com/market/stock-market-news/wall-st-drops-as-tech-sell-off-resumes-tariff-economic-data-uncertainty-lingers-11762443779819.html
+- Rockstar delays Grand Theft Auto VI again, new release slated for November 2026: Here's what happened
+  Rockstar Games has delayed the release of Grand Theft Auto VI to 19 November 2026, citing the need for more
+  🔗 https://www.livemint.com/technology/tech-news/rockstar-delays-grand-theft-auto-vi-again-new-release-slated-for-november-2026-heres-what-happened-11762476656586.html
 
 - Zuckerbergs put AI at heart of pledge to cure diseases
    Zuckerbergs put AI at
@@ -96,29 +80,29 @@
   Users will also be able to customize two-wheeler navigation icons and save tickets in Google Wallet. Google Maps is bringing 10 new features to users in India.
   🔗 https://www.livemint.com/technology/tech-news/gemini-in-navigation-to-proactive-traffic-alerts-google-maps-brings-10-new-powerful-features-to-india-11762430566097.html
 
-- Tinder wants to fight ‘swipe fatigue’ with AI that analyses your photo gallery: here's how it works
-  Tinder is piloting an AI-based 'Chemistry' feature that analyzes users' camera rolls to enhance
-  🔗 https://www.livemint.com/technology/tech-news/tinder-to-fight-swipe-fatigue-with-ai-that-analyses-your-photo-gallery-heres-how-it-works-11762434460369.html
-
-- Stock Market Today: Dow Slips With Tesla Vote, Earnings in Focus — Live Updates - The Wall Street Journal
-  The Wall Street Journal reports on the latest developments in the stock market.
+- Stock Market Today: Dow Slips 300 Points With Tesla Vote, Earnings in Focus — Live Updates - The Wall Street Journal
+  The Wall Street Journal, Yahoo Finance and The New York Times lead Wall Street's tech sell-off.
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxObjc4dDNfa01mSWR2UzI5VnNlRzBHOEp1TGI0cXdkai01YmQyODFMa3FSWFpvazZhTkFfNUJ6enJkR3FKNWV2Njl3dUFnWjh6dXFMTlVBQ2lGTVBiSS1KRkp0Tl9sUkZ0WXIzLTZTZHRJdkNZeEl2Um1NM09YQzFVN25GU254bWM?oc=5
 
-- Stock market today: Dow, S&P 500, Nasdaq waver as layoffs jump, key Tesla vote looms - Yahoo Finance
-  &nbsp;&ngt;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzRyZ1FCYUt3S3NrOTBNaTJzcGNGaG9sNUUxeFR4b3JhajNQUVFQUXowa3VqMFoxNjJtd3lwLUppYXVwdDRqd1g2TWNUbzlGVkh4dXBwRkI5MVdwT1I2NGxwQzlKSkhnWVM1VGNRNlJxLWRqQjFRRlhobkUzWU9ZYU5VVUZiZ1RLRFk2N1hBUXZUdHF1Z3FIV3lJdXpuVjJrSEROeHBKcWdUM3VERDI2ZVB2ODMwVVUtS2d1cm5ldi1BTDJiY3VzdjNB?oc=5
+- Daily Voice: AI bubble burst could hit global markets, help India later, says Marcellus Investment... - Moneycontrol
+  "Moneycontrol" is an online news service that provides real-
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQMEZ4Vl9ERlVCTTNRR2lUVmJLcEVHNC03Y0RzZW1rX19HV2g0VHRTMkNIX1lzVEhXSXVXR0pOTzdHdFRUNFp5Yllmb1dBSm0xVDRDMlpQMnQ5M2hOSlhmOXJBOEFCN2diQk5rVVprN3ItZjZlQ3hYU1dGZXgwUXByUlZackVXWUo2OXhYVGExeWVNZnlId21Ed3RfWWxmZkJicGJmV2VLUGpsd0RzQm56dnl6VnF0V1pEaWplcHVZTXlFUFA4N3h4cGFmM0p3clg3N1ZEUTZBSmI5U3ExVmNNcHNudmpHOU00ZGRjSDJIb255cHJ0OXZrWHJZQ2FjR3FkemNGWjV30gGLAkFVX3lxTE1hMmVpNHh4akdhbExTcU42eU5hM2hLVFoyRGhacGZHcGwtVFhVRVNrWXJ5Ry1INFNDYXRKVTFJNU01LUYxU0hRSGFTcnF4c1BCQWNhX1BXblZuNjFHbjJqazZMOHhRSjJ0UXdwb1M4NlNkWUVCMUMxZkxEOU15VVFoc01JeVJoWXotajJIV1I2YUlaUDRNTlByOUh6VWRFSEZDa1FWc3NuX0l2dGlTVnZqSXdDcEc5YWRGRHpqTTg1RzRFejNHZXh1MmxFM3NoSWpGU1JTeFM0OUtHT1JNRHFjRzZpWmt5RDFJMnJ2LU12QTNYa0NPZ3ZLWUR1YVIzY29qT2FrUG1zRWc0NA?oc=5
 
-- Dow slides 500 points as AI stocks resume their decline, Nasdaq falls 1.8%: Live updates - CNBC
-  Dow slides 500 points as AI stocks resume their decline, Nas
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1FWlFCd0ZIaHliYVhfSUFSUXJYM1Jnd1VBVVVVZ21TRTFYLWVYSUdjZG5CTUJFRHUweFE2bjBRSGFYLXFSS2pFaGZYcGU4cGI5TjZqajJZUXJiVTl0Y3J5TkxoRnpqaFJvRWRzYlA3UDNoV3NXLS1R0gF8QVVfeXFMTmFyOGJ5aTBjNnFOczQyaDNPR1BHVnN1LVZyX3NiNWJpaGgwODdPSkZYSWV3WGdleEFOcmxiZ3pBTkctaVJaZHRLSkpoNmFKMmFkcW9xNmE2UmI0VzJpZlZjODlEbVpnNUxQd21OOHNDYUlnTE03elgyblFjMw?oc=5
-
-- Stock Market Highlights: Nifty extends losses; Sensex drops 150 pts; Media, Metal crack 2% - Business Standard
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcm5xNXYxVC1oOWFVcUpaMWx4UldPVVdVLUIxOGZBNGtJY3RMUVdzSHhNZHV1VXpWaE5IdU9JcThjY1M4VjBlZjNPY2JyOG1RdUw3NTB1SzI5S3VEZFlRUDcxM2w5bFkxQk
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcm5xNXYxVC1oOWFVcUpaMWx4UldPVVdVLUIxOGZBNGtJY3RMUVdzSHhNZHV1VXpWaE5IdU9JcThjY1M4VjBlZjNPY2JyOG1RdUw3NTB1SzI5S3VEZFlRUDcxM2w5bFkxQk9GVy1sZWZRMXZoSE90N08zTy1nTHpLNHowcGZRM0NtblhQOVlmQjBmV3dXMVgyanV0M1Q1TW1CMVJuTEFUdTlfdnRNOTZkWm93YWlFRnU4U3hWRjRlSkVrQXM1emEtZnNpSEx2WFZSTFZ3eERlQWREd0dFQnRYSEVpam9XMUpBR0hJdl9neEV1ZHNUZ2lGN2d4Y9IBgAJBVV95cUxOai1Jc3dYenhFZG9GZGZ2QW0tSzdFb1J1Q0xncDBjVWxLYVBXRXBtNHBTV3p1SUo2N2JwV1g3NDRGODJlTmsybGpsSDZYZVk1TVU3eWFGem9sSnN3LS1lejFKdXZ1RURzM2NGQkp6RjY1eDRLVjhLOHE0ckgxdmthcnVqMVNMV2Rpc1h4ODFPQW1uZ1BsOUYxSHFhb1pyUXpPSHp3VWpKN1BWVzN3NERqVldKb2NwLVMxSTZLQzgyVHpUUXY2cU5iQmxGUWd0UGI5bm53UUdocVIzUVROYnZQNVB3OFhKUzRmS2lEYUFjMEd2N0R6aWlpaEZSeDdMNUJ2?oc=5
+- Sensex can hit 100,000 by June 2026; market correction over: Morgan Stanley - Business Standard
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSmJBdUJMalA3OHlXNVB0SG00c0p6SmpzRXVFbF9nZ2pad3JMbVVOZDdLS3V1U2tZeFpvX2dkOTkwbGNrQTU0U3dUS3hzNGJIWFNUODJXOXJfZy02OFZ5Y2pNTGs4WE1XOF
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSmJBdUJMalA3OHlXNVB0SG00c0p6SmpzRXVFbF9nZ2pad3JMbVVOZDdLS3V1U2tZeFpvX2dkOTkwbGNrQTU0U3dUS3hzNGJIWFNUODJXOXJfZy02OFZ5Y2pNTGs4WE1XOFhVZkFTd04xQU4xSGw4dTN2dkI4bGxpalp1Nm96M1RNM3RTZHFycFZwZU4tbDl0WUJZMzBGV1o0UTE3dlh1Mlpydm5TbTBDVDFwbEhpZnBWU2FxVnBpWkM5UW1HVWVpR3VJM2wteGZTRm1URF84U3IzNzVGQTRTQmR0WnNPaFFhYS1OWGRRYkpoTjTSAfgBQVVfeXFMUENOSmNXOGRpTTc0OVpIek1vaG9fejl1dzJKRFI1ZUc4alVrR09DejVKczhMa1hPTlpHUGNqTnRDdnlRTnRxUXhJX3gxMm9LZU5kM3lMQjhzSmhod2dHdkNfSGFpSld1WEc1REdVUGR1MEF4MXRoZU43VFlYMUl5RTlrRjR6RzdWUmUwMlFPZ25hWUNSSHVDOXFpekV4ZlQ2cnFaNjBid1g1M09iWS02NmZrTjVYSUpTMU5temZwSnJPeWZvUHo1bWkycGY0cFpRd19RQlNuMnR1Mk9aZHpZZGdva3UwYko5RXNrWkpha2MzQjRUMmlCTUE?oc=5
 
 - Global stock markets fall sharply over AI bubble fears - The Guardian
   Global stock markets fall sharply over AI bubble
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVFQYkdMZHdfazZUdm9HaUhZX0lUVGtuR08tdFQ1YzVEMlZERjVsaGVscHhwb3BRZU5hZUtPX29PSWNiLVBuQU5neUIyb0dIa2NVVWFmd19BX2ZQY3RCdGJTWkdqWGJobGI0bzlrb1psdFRGc0QwV2lIRTJkdF9yN2FTdEdlZGlqa28tWlRscUF0VDFibkhDekZRMG1DRW1hMTR6amhn?oc=5
+
+- ‘Big Short’ investor Michael Burry has a $1.1 billion bet against AI stocks, and markets are plunging - Fortune
+  ‘Big Short’ investor Michael Burry has a $1.
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxQaHdkR2JBMTIxMnFHeF9wRTg2dF9WVHlOTVhoS3dwWnlFbVkyT0JQR21zdmJfUERSR0hnMGs0b1hQQjM1TFBHVFVSVkNSTlVCTnV5c21BbEtWcnQ3anFzTkZQRlBuRjF4RjJtRXZrQUd4S1g5amxUSmo3N05ycEFmLTh2cWZrdw?oc=5
+
+- Asian stocks dip after volatile US day, bonds ease
+  Markets reacting to private data as economic figures are scarce due to the US government shutdown. Job cuts are rising, particularly in technology and warehousing. Concerns about high tech valuations are also unsettling investors.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-dip-after-volatile-us-day-bonds-ease/articleshow/125147289.cms
 
 - Zydus Lifesciences to raise Rs 5,000 cr via equity; Q2 profit up 38%
   Zydus Lifesciences plans to raise Rs 5,000 crore via share sales. This move aims to reduce debt and boost future expansion. Funds will support R&amp;D, international
@@ -136,9 +120,25 @@
   Indian markets closed lower for a second consecutive session. Financial and metal stocks led the decline. Investors paused after October's rally.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/125138437.cms
 
-- Market Trading Guide: Buy Astral, Dabur and 3 more smallcap stocks on Friday for up to 9% gains
-  Nifty closed lower for the second consecutive day, impacted by selling in financials, metals, and realty stocks. Analysts suggest a potential trend reversal if the index holds above 25,450, otherwise, further weakening is anticipated.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-astral-dabur-and-3-more-smallcap-stocks-on-friday-for-up-to-9-gains/articleshow/125138329.cms
+- "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
+  "8 Planes Shot Down": Trump Updates Key Figure
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3F1T1VfaU83YmV1RHhBdWlyeTFjZ0ZhaVBFa3lsR1p1N05vc2pCT2ZDRFJ4dDcwc2RpeEI4UmRzVEEwc2RsWkxzVmRTbThVZ2tRTnp1MEpKTkp6TFd3ZUJBU185ZG9hT0hHVlBfaDVJeW9LWHVWdkoxSzZFOVYyRklUVzVFVHoxTGw2TUc2S190cVdMeHRLZ1J1Y0xSa1BCbGxZeDNXNnZDdTNjZEdsakJISUN3SzRRM0tHTTdOYXTSAcgBQVVfeXFMTV9JUDBEWkNlX3R5MjlITlNhTnQySXZ6V1BZN0RsVnl0cTlRd1U1OTBzcU1oNllFdjhjc0VkSWVvTUE1UEIyWGw5c1BHaG1ObVZCTzhnc243WUlvczdMZ1Z3a0I1dWNiTFdSelE3T1FXNjJSRkh5TGprZ0pTc0hmbmZKRkd5RnJKaXV6Y254N1hzaDJmR0w5NlcyaDNlRktsdjRGZmt0MkVFLVJyVkpBMldMOEZTTFNwbUszcUl3SXJOTXlPUlEwSWE?oc=5
+
+- 'A call next day...': Trump adds new details to rejected India-Pakistan truce claim | India News - Hindustan Times
+  'A call next day...': Trump adds new details to rejected India-
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM0pQLTFOSzM3cWxmWTc0dUE1eHdzTlQycUxfOWxILWY0RXQtV1U1WDFRYkk0TjBUUWdhQ2xSM3BfdFk4NmxBSzl0X2JMbzNzNkE2b0NiOWE1Z3dxWGpXRHJ0VV9xLV9ZSUtNNDE5Tlp4akJyZEljSm42REhFeXNibzJzZHV2dVZyVWZ4V2RRSVRGTFFsc09HbUduNmdvYi01RDl0N2ZxdHFBX2R1aWtDbXNySE5qY1R4TjNZUjl4M3pzdmZZc0dOYUhkQlNJbXhKRU9ZemRBVlotUEdnUEpJUGtYQ1RQOUFBNGRlQ2JZaGl4N09J0gH6AUFVX3lxTFAxX2pGWTdkaUFTUElCakVLSVgxbTdjNkdEWDdEMHR0WkNhdm00LWhnSGhHNE1Pdlc2NVp2bVRuRnE2dDUxSWFWQ3Ixa0VnN2NPQVR3bEVOeFQ4Vl9rZ19RRnhlY2FtN3QycWtlT1BGaV9xQ19JaWFyRW84cENVdFpBcXJZWWtPUVpyTE5JLWVVdUduTUl0aThvcWszMFNyNzFiUENhZ0ZqSmdMOHFZZFJZZHRnbVg2M3FpbnRCQVFPTFVvSlR3OTR5aUFRakMxbDhxdi1tQTJXSnpWZUpvTzdWbmRUNWFlYkp2SEw2WTlzVFdNc0VJeXBTWFE?oc=5
+
+- Maharashtra orders probe into land sale to Ajit son's company - Times of India
+  Maharashtra orders probe into land sale to Aj
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQQnFvVmJrbjlDNkJ2TWNmNjBrUUJBM1NYeGlRRHRVWmRPclJGWUdfdjVDMHpVV1BoR0g1RDVIZjJvQmVMb1BzZmVJaExBMlE3UU5ya1NCMXJzQkhPdzFpZGNxWk56QXUwdnZJVEpwSnkwcDljaExmdTZuYUM4OXlPRnpNYWlJQWlzZ1lqQVJLYmZjSWRqZGZ1STN3ZlhWRkx2R2Uzc18yVVlITFBscGUyeGJPOGNYSmZxMkFhWnkxNUI1aTAtdV9F0gHMAUFVX3lxTE50WktzVEFsSXV4Zmx0bk1aRV9HVkd5Ym1Gd2JGTExmVlhOSWVTc3hjWjNpSE41QnlUQmk5SU1tS24yOHZ2VjMzYkhPRl9lNkx1d1dZSTFVdGlVTFh0d0xsaVAtaWIxOU5mVnA0d1BSRjFIWURTSG9tZ0VOTWtrYVJETjdEUmRMUmI4eVhvNGpWRDY1WWI3X2VsY0pXTWlEeUFsS3o0S3ZtZ3Y2N2pHdHc1cXZvUnJ6ZkJNbkY5NjJQZ0Q5Zlk3dnM2d2NUZQ?oc=5
+
+- IAF enthrals spectators as Chhattisgarh marks 25 years of formation - The Indian Express
+  The Indian Express reports that the IAF is celebrating
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkVEcC1uQ1lDbG1tb2NOem96cmFmaWxaaW5uQk1DQ1I2SnJVM2J0aE1SS3JDOEtnN0JTenNvd01rc0FmYUR6UFBzOEtMVTdBQVdrRTJEQ3NjZTVGbUM0a3VPeW1feVZRT29ac2o4NEpQQ2FsMGZ5dXczNkZrOURLQm1IaE1WR1NCc3Z1dEpSZjhBVlVQZS1RdW5XZ2lBenlVTGxNSEZJaVY4Um9YQmtvVm5iSlZUTWdr0gG_AUFVX3lxTE1RRnVKdkw0YV9jb25SMUIzbms5WjVHS21RbDRhOFhfSXlNNk85eU9MZXV1TEh2NWlpd29aaWVEMDNqWHpLLWFpTG8yUWNPZm02eVoxS0dBcHpoSDdkLXBnR20wMERIMDMyTHNkV2JpZHZLMDdleEtraXBodHBzVEtoNmZ0OGV6LVRTNjU5azlNWnpSa2UyQ1NYRWE3Y05lRGpzNjBFX1F4OTNBRUlSOENPTnVsWjdHU0tqeHRTOElR?oc=5
+
+- School assembly news headlines, November 3: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 3: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTmtzdXQxQmdqejhHd3o4ZHNvSFg5LVVBS2F5UkxPcGI2NVdIMl9nWGdiTnBkeDF6Tm0yQlNNSXJ2RTRBbmo5M09fbjFPb19MTHhSYmdibXhOanExMG9yM05DYU9tWmMwRGtMc3M2Q29LbFVtTS0za0hLbTZodGlKUGJ1WElzYzFKbXQ2ai1vWWhhOFdnRHJDempmcUx3U0VQTjNUVld2UEpwYll0aXRfbkJ5VW1GY1NZY3dfcXdaYk8yaVFBTTZONGhDTTRuRDJhYWVmWnhmWVlydDNNVmc1VWJzeDfSAeoBQVVfeXFMUGdXZWV1eURNYjk2Vk5NRGRoRXMwczdzY2loYzNTcFhSSVp1bDVmQmxPdm5WT2xBc3FhYUFwWkZRbl9ZaXIwbkszV2Nmb2NHVUtvdUJjUjVsUXpDOUhYdTUyb2dMeFplWndudTV6RkZHSksxVWtoMjNiOTJFM2FRVWhuRGRLb25KNnItNzRwbVprSHd1d1hQMVBhZzNZaXY0OEhmanp0bWZyWkZyN2Q5R0pITkQwTHdKbXdmUXNKVkpndmZUNzc4WGU3dE9SM21fZTYtTHdxS2hsa04tXzVlU0toaWZZSUVrOGR3?oc=5
 
 - "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
   "8 Planes Shot Down": Trump Updates Key Figure
@@ -148,37 +148,17 @@
   'A call next day...': Trump adds new details to rejected India-
   🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM0pQLTFOSzM3cWxmWTc0dUE1eHdzTlQycUxfOWxILWY0RXQtV1U1WDFRYkk0TjBUUWdhQ2xSM3BfdFk4NmxBSzl0X2JMbzNzNkE2b0NiOWE1Z3dxWGpXRHJ0VV9xLV9ZSUtNNDE5Tlp4akJyZEljSm42REhFeXNibzJzZHV2dVZyVWZ4V2RRSVRGTFFsc09HbUduNmdvYi01RDl0N2ZxdHFBX2R1aWtDbXNySE5qY1R4TjNZUjl4M3pzdmZZc0dOYUhkQlNJbXhKRU9ZemRBVlotUEdnUEpJUGtYQ1RQOUFBNGRlQ2JZaGl4N09J0gH6AUFVX3lxTFAxX2pGWTdkaUFTUElCakVLSVgxbTdjNkdEWDdEMHR0WkNhdm00LWhnSGhHNE1Pdlc2NVp2bVRuRnE2dDUxSWFWQ3Ixa0VnN2NPQVR3bEVOeFQ4Vl9rZ19RRnhlY2FtN3QycWtlT1BGaV9xQ19JaWFyRW84cENVdFpBcXJZWWtPUVpyTE5JLWVVdUduTUl0aThvcWszMFNyNzFiUENhZ0ZqSmdMOHFZZFJZZHRnbVg2M3FpbnRCQVFPTFVvSlR3OTR5aUFRakMxbDhxdi1tQTJXSnpWZUpvTzdWbmRUNWFlYkp2SEw2WTlzVFdNc0VJeXBTWFE?oc=5
 
-- ‘Safeguarding ecosystem resilience not optional’ - Times of India
-  ‘Safegu
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzVlZFdaakMwOUotb2xBV0VxRXFfSUhxdHZpSlpVSXNCUmtGdFFCU1ZCWWozaTRzV3pnYlFaY0FUeDctOG52a0loMWR2UjNOOE5xcTlXeUVmSmNBSkpvWTZoZXJXVXdqZ1NiQ0hsQzZzMmpXanN5NTNlY2VBOC1fdW4zaGFGd0FFUGJSRGVzWG5nTzRONFpJWlBiQTgtbHZobVNpYnhxZW9BSW4weGhhV0xYUWlXMGJOeW92SkNWNNIBxAFBVV95cUxNaXBNMm1zdGE1V1l4alA3VzRiY3NuaUp3c3NzTWxUQmRmMjBMZzhtOTF2bzRuS1Z4eGRxemkxUG9TMmNxeW9vbUdyYVpRaElqaEtrWk5TU21valdBOUNKNk1GUkhLaW9VWDY3Q0JRR0N3dnA0MER0eHdMVUFhN2RLNWswUFlFOU9Ob21sTkdqYjk3LTctSFloaVBlWmR6WnhPMUJySGNxN3JOMnV1WURvY2lZZ08yQUNsNzNvNXNEUEg1R0t4?oc=5
+- Maharashtra orders probe into land sale to Ajit son's company - Times of India
+  Maharashtra orders probe into land sale to Aj
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQQnFvVmJrbjlDNkJ2TWNmNjBrUUJBM1NYeGlRRHRVWmRPclJGWUdfdjVDMHpVV1BoR0g1RDVIZjJvQmVMb1BzZmVJaExBMlE3UU5ya1NCMXJzQkhPdzFpZGNxWk56QXUwdnZJVEpwSnkwcDljaExmdTZuYUM4OXlPRnpNYWlJQWlzZ1lqQVJLYmZjSWRqZGZ1STN3ZlhWRkx2R2Uzc18yVVlITFBscGUyeGJPOGNYSmZxMkFhWnkxNUI1aTAtdV9F0gHMAUFVX3lxTE50WktzVEFsSXV4Zmx0bk1aRV9HVkd5Ym1Gd2JGTExmVlhOSWVTc3hjWjNpSE41QnlUQmk5SU1tS24yOHZ2VjMzYkhPRl9lNkx1d1dZSTFVdGlVTFh0d0xsaVAtaWIxOU5mVnA0d1BSRjFIWURTSG9tZ0VOTWtrYVJETjdEUmRMUmI4eVhvNGpWRDY1WWI3X2VsY0pXTWlEeUFsS3o0S3ZtZ3Y2N2pHdHc1cXZvUnJ6ZkJNbkY5NjJQZ0Q5Zlk3dnM2d2NUZQ?oc=5
 
-- BJP Attacks Revanth Reddy Over "Congress Means Muslims" Remark - NDTV
-  "Congress Means Muslims" Remark
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPazJ5RkEwTTFNWng1MzVoWElhVjFIOVZJanB6b2txNm4xdkhjUlRncVZ1azYzai1yTUVUbUZndmVNTjB5WlByek4zM3Nqbk1MTklvVXZwV2F6VDZ5NDdqRFRFdGZuTGhSdDJGd3pQNlhWempGcWtranN2MUFCbDdWb3J0Y0NFempCUjFZR3pRbFh3QjQzR3QzVFlrNm9LMm1xUVFCNDR5Z3ZZbWE3THVzcjBvZ2JJNk1ybmM1d1kta0NCYW5C0gHMAUFVX3lxTE1xSi1MRDhJT3ZITGNiWUtVTVAxZ3d0UmdyYUF1U3FOeXFjNFVpTXJwTktHYmFtOXY4UzNNa2RocVF6bXRTcGNINVRIaWZJWGw2NjhGWm0yQWxWMnE1cnQtUzJ1TTM1SHREVkVvaE5hcDFYQkg2VGlTZk5rREZmeVBaV3VGSnNTclQyS1Y2ejZzRWp3bjY5ZXZnZHFhcDJSQkptSXV1Q2sxOEdMTWw5UjF4eHlkbmJvbExJRVJqYkxRV0NZa2VhcmFEbVdsOA?oc=5
+- IAF enthrals spectators as Chhattisgarh marks 25 years of formation - The Indian Express
+  The Indian Express reports that the IAF is celebrating
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkVEcC1uQ1lDbG1tb2NOem96cmFmaWxaaW5uQk1DQ1I2SnJVM2J0aE1SS3JDOEtnN0JTenNvd01rc0FmYUR6UFBzOEtMVTdBQVdrRTJEQ3NjZTVGbUM0a3VPeW1feVZRT29ac2o4NEpQQ2FsMGZ5dXczNkZrOURLQm1IaE1WR1NCc3Z1dEpSZjhBVlVQZS1RdW5XZ2lBenlVTGxNSEZJaVY4Um9YQmtvVm5iSlZUTWdr0gG_AUFVX3lxTE1RRnVKdkw0YV9jb25SMUIzbms5WjVHS21RbDRhOFhfSXlNNk85eU9MZXV1TEh2NWlpd29aaWVEMDNqWHpLLWFpTG8yUWNPZm02eVoxS0dBcHpoSDdkLXBnR20wMERIMDMyTHNkV2JpZHZLMDdleEtraXBodHBzVEtoNmZ0OGV6LVRTNjU5azlNWnpSa2UyQ1NYRWE3Y05lRGpzNjBFX1F4OTNBRUlSOENPTnVsWjdHU0tqeHRTOElR?oc=5
 
-- Bihar election: Modi's party faces test in crucial Indian state - BBC
-  Bihar election: Modi's party faces
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VT2V5SVI4bi10Y0wyOW9GUk9QOThFWmpMNGJRZmZ1cFJTYTB6YUZlYzNYT3VrbmROZVJzVWpFVzEycXBWS2JHM2lybnpYdmRhOU5wZFRuaXMtd9IBX0FVX3lxTE51U1pUb1Z0WGNwRWloR1JUMlFoU2FkWUJiOXpTa1g2YzB4enJUU1N1b1hFLVE1MEVjOHJWVDViMnlYTnk2dkFweHYxSW1XaTlXMFVVSDVSWDBiNU5hLUgw?oc=5
-
-- "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
-  "8 Planes Shot Down": Trump Updates Key Figure
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3F1T1VfaU83YmV1RHhBdWlyeTFjZ0ZhaVBFa3lsR1p1N05vc2pCT2ZDRFJ4dDcwc2RpeEI4UmRzVEEwc2RsWkxzVmRTbThVZ2tRTnp1MEpKTkp6TFd3ZUJBU185ZG9hT0hHVlBfaDVJeW9LWHVWdkoxSzZFOVYyRklUVzVFVHoxTGw2TUc2S190cVdMeHRLZ1J1Y0xSa1BCbGxZeDNXNnZDdTNjZEdsakJISUN3SzRRM0tHTTdOYXTSAcgBQVVfeXFMTV9JUDBEWkNlX3R5MjlITlNhTnQySXZ6V1BZN0RsVnl0cTlRd1U1OTBzcU1oNllFdjhjc0VkSWVvTUE1UEIyWGw5c1BHaG1ObVZCTzhnc243WUlvczdMZ1Z3a0I1dWNiTFdSelE3T1FXNjJSRkh5TGprZ0pTc0hmbmZKRkd5RnJKaXV6Y254N1hzaDJmR0w5NlcyaDNlRktsdjRGZmt0MkVFLVJyVkpBMldMOEZTTFNwbUszcUl3SXJOTXlPUlEwSWE?oc=5
-
-- 'A call next day...': Trump adds new details to rejected India-Pakistan truce claim | India News - Hindustan Times
-  'A call next day...': Trump adds new details to rejected India-
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM0pQLTFOSzM3cWxmWTc0dUE1eHdzTlQycUxfOWxILWY0RXQtV1U1WDFRYkk0TjBUUWdhQ2xSM3BfdFk4NmxBSzl0X2JMbzNzNkE2b0NiOWE1Z3dxWGpXRHJ0VV9xLV9ZSUtNNDE5Tlp4akJyZEljSm42REhFeXNibzJzZHV2dVZyVWZ4V2RRSVRGTFFsc09HbUduNmdvYi01RDl0N2ZxdHFBX2R1aWtDbXNySE5qY1R4TjNZUjl4M3pzdmZZc0dOYUhkQlNJbXhKRU9ZemRBVlotUEdnUEpJUGtYQ1RQOUFBNGRlQ2JZaGl4N09J0gH6AUFVX3lxTFAxX2pGWTdkaUFTUElCakVLSVgxbTdjNkdEWDdEMHR0WkNhdm00LWhnSGhHNE1Pdlc2NVp2bVRuRnE2dDUxSWFWQ3Ixa0VnN2NPQVR3bEVOeFQ4Vl9rZ19RRnhlY2FtN3QycWtlT1BGaV9xQ19JaWFyRW84cENVdFpBcXJZWWtPUVpyTE5JLWVVdUduTUl0aThvcWszMFNyNzFiUENhZ0ZqSmdMOHFZZFJZZHRnbVg2M3FpbnRCQVFPTFVvSlR3OTR5aUFRakMxbDhxdi1tQTJXSnpWZUpvTzdWbmRUNWFlYkp2SEw2WTlzVFdNc0VJeXBTWFE?oc=5
-
-- ‘Safeguarding ecosystem resilience not optional’ - Times of India
-  ‘Safegu
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzVlZFdaakMwOUotb2xBV0VxRXFfSUhxdHZpSlpVSXNCUmtGdFFCU1ZCWWozaTRzV3pnYlFaY0FUeDctOG52a0loMWR2UjNOOE5xcTlXeUVmSmNBSkpvWTZoZXJXVXdqZ1NiQ0hsQzZzMmpXanN5NTNlY2VBOC1fdW4zaGFGd0FFUGJSRGVzWG5nTzRONFpJWlBiQTgtbHZobVNpYnhxZW9BSW4weGhhV0xYUWlXMGJOeW92SkNWNNIBxAFBVV95cUxNaXBNMm1zdGE1V1l4alA3VzRiY3NuaUp3c3NzTWxUQmRmMjBMZzhtOTF2bzRuS1Z4eGRxemkxUG9TMmNxeW9vbUdyYVpRaElqaEtrWk5TU21valdBOUNKNk1GUkhLaW9VWDY3Q0JRR0N3dnA0MER0eHdMVUFhN2RLNWswUFlFOU9Ob21sTkdqYjk3LTctSFloaVBlWmR6WnhPMUJySGNxN3JOMnV1WURvY2lZZ08yQUNsNzNvNXNEUEg1R0t4?oc=5
-
-- BJP Attacks Revanth Reddy Over "Congress Means Muslims" Remark - NDTV
-  "Congress Means Muslims" Remark
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPazJ5RkEwTTFNWng1MzVoWElhVjFIOVZJanB6b2txNm4xdkhjUlRncVZ1azYzai1yTUVUbUZndmVNTjB5WlByek4zM3Nqbk1MTklvVXZwV2F6VDZ5NDdqRFRFdGZuTGhSdDJGd3pQNlhWempGcWtranN2MUFCbDdWb3J0Y0NFempCUjFZR3pRbFh3QjQzR3QzVFlrNm9LMm1xUVFCNDR5Z3ZZbWE3THVzcjBvZ2JJNk1ybmM1d1kta0NCYW5C0gHMAUFVX3lxTE1xSi1MRDhJT3ZITGNiWUtVTVAxZ3d0UmdyYUF1U3FOeXFjNFVpTXJwTktHYmFtOXY4UzNNa2RocVF6bXRTcGNINVRIaWZJWGw2NjhGWm0yQWxWMnE1cnQtUzJ1TTM1SHREVkVvaE5hcDFYQkg2VGlTZk5rREZmeVBaV3VGSnNTclQyS1Y2ejZzRWp3bjY5ZXZnZHFhcDJSQkptSXV1Q2sxOEdMTWw5UjF4eHlkbmJvbExJRVJqYkxRV0NZa2VhcmFEbVdsOA?oc=5
-
-- Bihar election: Modi's party faces test in crucial Indian state - BBC
-  Bihar election: Modi's party faces
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VT2V5SVI4bi10Y0wyOW9GUk9QOThFWmpMNGJRZmZ1cFJTYTB6YUZlYzNYT3VrbmROZVJzVWpFVzEycXBWS2JHM2lybnpYdmRhOU5wZFRuaXMtd9IBX0FVX3lxTE51U1pUb1Z0WGNwRWloR1JUMlFoU2FkWUJiOXpTa1g2YzB4enJUU1N1b1hFLVE1MEVjOHJWVDViMnlYTnk2dkFweHYxSW1XaTlXMFVVSDVSWDBiNU5hLUgw?oc=5
+- School assembly news headlines, November 3: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 3: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTmtzdXQxQmdqejhHd3o4ZHNvSFg5LVVBS2F5UkxPcGI2NVdIMl9nWGdiTnBkeDF6Tm0yQlNNSXJ2RTRBbmo5M09fbjFPb19MTHhSYmdibXhOanExMG9yM05DYU9tWmMwRGtMc3M2Q29LbFVtTS0za0hLbTZodGlKUGJ1WElzYzFKbXQ2ai1vWWhhOFdnRHJDempmcUx3U0VQTjNUVld2UEpwYll0aXRfbkJ5VW1GY1NZY3dfcXdaYk8yaVFBTTZONGhDTTRuRDJhYWVmWnhmWVlydDNNVmc1VWJzeDfSAeoBQVVfeXFMUGdXZWV1eURNYjk2Vk5NRGRoRXMwczdzY2loYzNTcFhSSVp1bDVmQmxPdm5WT2xBc3FhYUFwWkZRbl9ZaXIwbkszV2Nmb2NHVUtvdUJjUjVsUXpDOUhYdTUyb2dMeFplWndudTV6RkZHSksxVWtoMjNiOTJFM2FRVWhuRGRLb25KNnItNzRwbVprSHd1d1hQMVBhZzNZaXY0OEhmanp0bWZyWkZyN2Q5R0pITkQwTHdKbXdmUXNKVkpndmZUNzc4WGU3dE9SM21fZTYtTHdxS2hsa04tXzVlU0toaWZZSUVrOGR3?oc=5
 
 - "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
   "8 Planes Shot Down": Trump Updates Key Figure
@@ -188,37 +168,17 @@
   'A call next day...': Trump adds new details to rejected India-
   🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM0pQLTFOSzM3cWxmWTc0dUE1eHdzTlQycUxfOWxILWY0RXQtV1U1WDFRYkk0TjBUUWdhQ2xSM3BfdFk4NmxBSzl0X2JMbzNzNkE2b0NiOWE1Z3dxWGpXRHJ0VV9xLV9ZSUtNNDE5Tlp4akJyZEljSm42REhFeXNibzJzZHV2dVZyVWZ4V2RRSVRGTFFsc09HbUduNmdvYi01RDl0N2ZxdHFBX2R1aWtDbXNySE5qY1R4TjNZUjl4M3pzdmZZc0dOYUhkQlNJbXhKRU9ZemRBVlotUEdnUEpJUGtYQ1RQOUFBNGRlQ2JZaGl4N09J0gH6AUFVX3lxTFAxX2pGWTdkaUFTUElCakVLSVgxbTdjNkdEWDdEMHR0WkNhdm00LWhnSGhHNE1Pdlc2NVp2bVRuRnE2dDUxSWFWQ3Ixa0VnN2NPQVR3bEVOeFQ4Vl9rZ19RRnhlY2FtN3QycWtlT1BGaV9xQ19JaWFyRW84cENVdFpBcXJZWWtPUVpyTE5JLWVVdUduTUl0aThvcWszMFNyNzFiUENhZ0ZqSmdMOHFZZFJZZHRnbVg2M3FpbnRCQVFPTFVvSlR3OTR5aUFRakMxbDhxdi1tQTJXSnpWZUpvTzdWbmRUNWFlYkp2SEw2WTlzVFdNc0VJeXBTWFE?oc=5
 
-- ‘Safeguarding ecosystem resilience not optional’ - Times of India
-  ‘Safegu
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzVlZFdaakMwOUotb2xBV0VxRXFfSUhxdHZpSlpVSXNCUmtGdFFCU1ZCWWozaTRzV3pnYlFaY0FUeDctOG52a0loMWR2UjNOOE5xcTlXeUVmSmNBSkpvWTZoZXJXVXdqZ1NiQ0hsQzZzMmpXanN5NTNlY2VBOC1fdW4zaGFGd0FFUGJSRGVzWG5nTzRONFpJWlBiQTgtbHZobVNpYnhxZW9BSW4weGhhV0xYUWlXMGJOeW92SkNWNNIBxAFBVV95cUxNaXBNMm1zdGE1V1l4alA3VzRiY3NuaUp3c3NzTWxUQmRmMjBMZzhtOTF2bzRuS1Z4eGRxemkxUG9TMmNxeW9vbUdyYVpRaElqaEtrWk5TU21valdBOUNKNk1GUkhLaW9VWDY3Q0JRR0N3dnA0MER0eHdMVUFhN2RLNWswUFlFOU9Ob21sTkdqYjk3LTctSFloaVBlWmR6WnhPMUJySGNxN3JOMnV1WURvY2lZZ08yQUNsNzNvNXNEUEg1R0t4?oc=5
+- Maharashtra orders probe into land sale to Ajit son's company - Times of India
+  Maharashtra orders probe into land sale to Aj
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQQnFvVmJrbjlDNkJ2TWNmNjBrUUJBM1NYeGlRRHRVWmRPclJGWUdfdjVDMHpVV1BoR0g1RDVIZjJvQmVMb1BzZmVJaExBMlE3UU5ya1NCMXJzQkhPdzFpZGNxWk56QXUwdnZJVEpwSnkwcDljaExmdTZuYUM4OXlPRnpNYWlJQWlzZ1lqQVJLYmZjSWRqZGZ1STN3ZlhWRkx2R2Uzc18yVVlITFBscGUyeGJPOGNYSmZxMkFhWnkxNUI1aTAtdV9F0gHMAUFVX3lxTE50WktzVEFsSXV4Zmx0bk1aRV9HVkd5Ym1Gd2JGTExmVlhOSWVTc3hjWjNpSE41QnlUQmk5SU1tS24yOHZ2VjMzYkhPRl9lNkx1d1dZSTFVdGlVTFh0d0xsaVAtaWIxOU5mVnA0d1BSRjFIWURTSG9tZ0VOTWtrYVJETjdEUmRMUmI4eVhvNGpWRDY1WWI3X2VsY0pXTWlEeUFsS3o0S3ZtZ3Y2N2pHdHc1cXZvUnJ6ZkJNbkY5NjJQZ0Q5Zlk3dnM2d2NUZQ?oc=5
 
-- BJP Attacks Revanth Reddy Over "Congress Means Muslims" Remark - NDTV
-  "Congress Means Muslims" Remark
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPazJ5RkEwTTFNWng1MzVoWElhVjFIOVZJanB6b2txNm4xdkhjUlRncVZ1azYzai1yTUVUbUZndmVNTjB5WlByek4zM3Nqbk1MTklvVXZwV2F6VDZ5NDdqRFRFdGZuTGhSdDJGd3pQNlhWempGcWtranN2MUFCbDdWb3J0Y0NFempCUjFZR3pRbFh3QjQzR3QzVFlrNm9LMm1xUVFCNDR5Z3ZZbWE3THVzcjBvZ2JJNk1ybmM1d1kta0NCYW5C0gHMAUFVX3lxTE1xSi1MRDhJT3ZITGNiWUtVTVAxZ3d0UmdyYUF1U3FOeXFjNFVpTXJwTktHYmFtOXY4UzNNa2RocVF6bXRTcGNINVRIaWZJWGw2NjhGWm0yQWxWMnE1cnQtUzJ1TTM1SHREVkVvaE5hcDFYQkg2VGlTZk5rREZmeVBaV3VGSnNTclQyS1Y2ejZzRWp3bjY5ZXZnZHFhcDJSQkptSXV1Q2sxOEdMTWw5UjF4eHlkbmJvbExJRVJqYkxRV0NZa2VhcmFEbVdsOA?oc=5
+- IAF enthrals spectators as Chhattisgarh marks 25 years of formation - The Indian Express
+  The Indian Express reports that the IAF is celebrating
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkVEcC1uQ1lDbG1tb2NOem96cmFmaWxaaW5uQk1DQ1I2SnJVM2J0aE1SS3JDOEtnN0JTenNvd01rc0FmYUR6UFBzOEtMVTdBQVdrRTJEQ3NjZTVGbUM0a3VPeW1feVZRT29ac2o4NEpQQ2FsMGZ5dXczNkZrOURLQm1IaE1WR1NCc3Z1dEpSZjhBVlVQZS1RdW5XZ2lBenlVTGxNSEZJaVY4Um9YQmtvVm5iSlZUTWdr0gG_AUFVX3lxTE1RRnVKdkw0YV9jb25SMUIzbms5WjVHS21RbDRhOFhfSXlNNk85eU9MZXV1TEh2NWlpd29aaWVEMDNqWHpLLWFpTG8yUWNPZm02eVoxS0dBcHpoSDdkLXBnR20wMERIMDMyTHNkV2JpZHZLMDdleEtraXBodHBzVEtoNmZ0OGV6LVRTNjU5azlNWnpSa2UyQ1NYRWE3Y05lRGpzNjBFX1F4OTNBRUlSOENPTnVsWjdHU0tqeHRTOElR?oc=5
 
-- Bihar election: Modi's party faces test in crucial Indian state - BBC
-  Bihar election: Modi's party faces
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VT2V5SVI4bi10Y0wyOW9GUk9QOThFWmpMNGJRZmZ1cFJTYTB6YUZlYzNYT3VrbmROZVJzVWpFVzEycXBWS2JHM2lybnpYdmRhOU5wZFRuaXMtd9IBX0FVX3lxTE51U1pUb1Z0WGNwRWloR1JUMlFoU2FkWUJiOXpTa1g2YzB4enJUU1N1b1hFLVE1MEVjOHJWVDViMnlYTnk2dkFweHYxSW1XaTlXMFVVSDVSWDBiNU5hLUgw?oc=5
-
-- "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
-  "8 Planes Shot Down": Trump Updates Key Figure
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3F1T1VfaU83YmV1RHhBdWlyeTFjZ0ZhaVBFa3lsR1p1N05vc2pCT2ZDRFJ4dDcwc2RpeEI4UmRzVEEwc2RsWkxzVmRTbThVZ2tRTnp1MEpKTkp6TFd3ZUJBU185ZG9hT0hHVlBfaDVJeW9LWHVWdkoxSzZFOVYyRklUVzVFVHoxTGw2TUc2S190cVdMeHRLZ1J1Y0xSa1BCbGxZeDNXNnZDdTNjZEdsakJISUN3SzRRM0tHTTdOYXTSAcgBQVVfeXFMTV9JUDBEWkNlX3R5MjlITlNhTnQySXZ6V1BZN0RsVnl0cTlRd1U1OTBzcU1oNllFdjhjc0VkSWVvTUE1UEIyWGw5c1BHaG1ObVZCTzhnc243WUlvczdMZ1Z3a0I1dWNiTFdSelE3T1FXNjJSRkh5TGprZ0pTc0hmbmZKRkd5RnJKaXV6Y254N1hzaDJmR0w5NlcyaDNlRktsdjRGZmt0MkVFLVJyVkpBMldMOEZTTFNwbUszcUl3SXJOTXlPUlEwSWE?oc=5
-
-- 'A call next day...': Trump adds new details to rejected India-Pakistan truce claim | India News - Hindustan Times
-  'A call next day...': Trump adds new details to rejected India-
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM0pQLTFOSzM3cWxmWTc0dUE1eHdzTlQycUxfOWxILWY0RXQtV1U1WDFRYkk0TjBUUWdhQ2xSM3BfdFk4NmxBSzl0X2JMbzNzNkE2b0NiOWE1Z3dxWGpXRHJ0VV9xLV9ZSUtNNDE5Tlp4akJyZEljSm42REhFeXNibzJzZHV2dVZyVWZ4V2RRSVRGTFFsc09HbUduNmdvYi01RDl0N2ZxdHFBX2R1aWtDbXNySE5qY1R4TjNZUjl4M3pzdmZZc0dOYUhkQlNJbXhKRU9ZemRBVlotUEdnUEpJUGtYQ1RQOUFBNGRlQ2JZaGl4N09J0gH6AUFVX3lxTFAxX2pGWTdkaUFTUElCakVLSVgxbTdjNkdEWDdEMHR0WkNhdm00LWhnSGhHNE1Pdlc2NVp2bVRuRnE2dDUxSWFWQ3Ixa0VnN2NPQVR3bEVOeFQ4Vl9rZ19RRnhlY2FtN3QycWtlT1BGaV9xQ19JaWFyRW84cENVdFpBcXJZWWtPUVpyTE5JLWVVdUduTUl0aThvcWszMFNyNzFiUENhZ0ZqSmdMOHFZZFJZZHRnbVg2M3FpbnRCQVFPTFVvSlR3OTR5aUFRakMxbDhxdi1tQTJXSnpWZUpvTzdWbmRUNWFlYkp2SEw2WTlzVFdNc0VJeXBTWFE?oc=5
-
-- ‘Safeguarding ecosystem resilience not optional’ - Times of India
-  ‘Safegu
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzVlZFdaakMwOUotb2xBV0VxRXFfSUhxdHZpSlpVSXNCUmtGdFFCU1ZCWWozaTRzV3pnYlFaY0FUeDctOG52a0loMWR2UjNOOE5xcTlXeUVmSmNBSkpvWTZoZXJXVXdqZ1NiQ0hsQzZzMmpXanN5NTNlY2VBOC1fdW4zaGFGd0FFUGJSRGVzWG5nTzRONFpJWlBiQTgtbHZobVNpYnhxZW9BSW4weGhhV0xYUWlXMGJOeW92SkNWNNIBxAFBVV95cUxNaXBNMm1zdGE1V1l4alA3VzRiY3NuaUp3c3NzTWxUQmRmMjBMZzhtOTF2bzRuS1Z4eGRxemkxUG9TMmNxeW9vbUdyYVpRaElqaEtrWk5TU21valdBOUNKNk1GUkhLaW9VWDY3Q0JRR0N3dnA0MER0eHdMVUFhN2RLNWswUFlFOU9Ob21sTkdqYjk3LTctSFloaVBlWmR6WnhPMUJySGNxN3JOMnV1WURvY2lZZ08yQUNsNzNvNXNEUEg1R0t4?oc=5
-
-- BJP Attacks Revanth Reddy Over "Congress Means Muslims" Remark - NDTV
-  "Congress Means Muslims" Remark
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPazJ5RkEwTTFNWng1MzVoWElhVjFIOVZJanB6b2txNm4xdkhjUlRncVZ1azYzai1yTUVUbUZndmVNTjB5WlByek4zM3Nqbk1MTklvVXZwV2F6VDZ5NDdqRFRFdGZuTGhSdDJGd3pQNlhWempGcWtranN2MUFCbDdWb3J0Y0NFempCUjFZR3pRbFh3QjQzR3QzVFlrNm9LMm1xUVFCNDR5Z3ZZbWE3THVzcjBvZ2JJNk1ybmM1d1kta0NCYW5C0gHMAUFVX3lxTE1xSi1MRDhJT3ZITGNiWUtVTVAxZ3d0UmdyYUF1U3FOeXFjNFVpTXJwTktHYmFtOXY4UzNNa2RocVF6bXRTcGNINVRIaWZJWGw2NjhGWm0yQWxWMnE1cnQtUzJ1TTM1SHREVkVvaE5hcDFYQkg2VGlTZk5rREZmeVBaV3VGSnNTclQyS1Y2ejZzRWp3bjY5ZXZnZHFhcDJSQkptSXV1Q2sxOEdMTWw5UjF4eHlkbmJvbExJRVJqYkxRV0NZa2VhcmFEbVdsOA?oc=5
-
-- Bihar election: Modi's party faces test in crucial Indian state - BBC
-  Bihar election: Modi's party faces
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VT2V5SVI4bi10Y0wyOW9GUk9QOThFWmpMNGJRZmZ1cFJTYTB6YUZlYzNYT3VrbmROZVJzVWpFVzEycXBWS2JHM2lybnpYdmRhOU5wZFRuaXMtd9IBX0FVX3lxTE51U1pUb1Z0WGNwRWloR1JUMlFoU2FkWUJiOXpTa1g2YzB4enJUU1N1b1hFLVE1MEVjOHJWVDViMnlYTnk2dkFweHYxSW1XaTlXMFVVSDVSWDBiNU5hLUgw?oc=5
+- School assembly news headlines, November 3: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 3: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTmtzdXQxQmdqejhHd3o4ZHNvSFg5LVVBS2F5UkxPcGI2NVdIMl9nWGdiTnBkeDF6Tm0yQlNNSXJ2RTRBbmo5M09fbjFPb19MTHhSYmdibXhOanExMG9yM05DYU9tWmMwRGtMc3M2Q29LbFVtTS0za0hLbTZodGlKUGJ1WElzYzFKbXQ2ai1vWWhhOFdnRHJDempmcUx3U0VQTjNUVld2UEpwYll0aXRfbkJ5VW1GY1NZY3dfcXdaYk8yaVFBTTZONGhDTTRuRDJhYWVmWnhmWVlydDNNVmc1VWJzeDfSAeoBQVVfeXFMUGdXZWV1eURNYjk2Vk5NRGRoRXMwczdzY2loYzNTcFhSSVp1bDVmQmxPdm5WT2xBc3FhYUFwWkZRbl9ZaXIwbkszV2Nmb2NHVUtvdUJjUjVsUXpDOUhYdTUyb2dMeFplWndudTV6RkZHSksxVWtoMjNiOTJFM2FRVWhuRGRLb25KNnItNzRwbVprSHd1d1hQMVBhZzNZaXY0OEhmanp0bWZyWkZyN2Q5R0pITkQwTHdKbXdmUXNKVkpndmZUNzc4WGU3dE9SM21fZTYtTHdxS2hsa04tXzVlU0toaWZZSUVrOGR3?oc=5
 
 - "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
   "8 Planes Shot Down": Trump Updates Key Figure
@@ -228,37 +188,45 @@
   'A call next day...': Trump adds new details to rejected India-
   🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM0pQLTFOSzM3cWxmWTc0dUE1eHdzTlQycUxfOWxILWY0RXQtV1U1WDFRYkk0TjBUUWdhQ2xSM3BfdFk4NmxBSzl0X2JMbzNzNkE2b0NiOWE1Z3dxWGpXRHJ0VV9xLV9ZSUtNNDE5Tlp4akJyZEljSm42REhFeXNibzJzZHV2dVZyVWZ4V2RRSVRGTFFsc09HbUduNmdvYi01RDl0N2ZxdHFBX2R1aWtDbXNySE5qY1R4TjNZUjl4M3pzdmZZc0dOYUhkQlNJbXhKRU9ZemRBVlotUEdnUEpJUGtYQ1RQOUFBNGRlQ2JZaGl4N09J0gH6AUFVX3lxTFAxX2pGWTdkaUFTUElCakVLSVgxbTdjNkdEWDdEMHR0WkNhdm00LWhnSGhHNE1Pdlc2NVp2bVRuRnE2dDUxSWFWQ3Ixa0VnN2NPQVR3bEVOeFQ4Vl9rZ19RRnhlY2FtN3QycWtlT1BGaV9xQ19JaWFyRW84cENVdFpBcXJZWWtPUVpyTE5JLWVVdUduTUl0aThvcWszMFNyNzFiUENhZ0ZqSmdMOHFZZFJZZHRnbVg2M3FpbnRCQVFPTFVvSlR3OTR5aUFRakMxbDhxdi1tQTJXSnpWZUpvTzdWbmRUNWFlYkp2SEw2WTlzVFdNc0VJeXBTWFE?oc=5
 
-- ‘Safeguarding ecosystem resilience not optional’ - Times of India
-  ‘Safegu
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzVlZFdaakMwOUotb2xBV0VxRXFfSUhxdHZpSlpVSXNCUmtGdFFCU1ZCWWozaTRzV3pnYlFaY0FUeDctOG52a0loMWR2UjNOOE5xcTlXeUVmSmNBSkpvWTZoZXJXVXdqZ1NiQ0hsQzZzMmpXanN5NTNlY2VBOC1fdW4zaGFGd0FFUGJSRGVzWG5nTzRONFpJWlBiQTgtbHZobVNpYnhxZW9BSW4weGhhV0xYUWlXMGJOeW92SkNWNNIBxAFBVV95cUxNaXBNMm1zdGE1V1l4alA3VzRiY3NuaUp3c3NzTWxUQmRmMjBMZzhtOTF2bzRuS1Z4eGRxemkxUG9TMmNxeW9vbUdyYVpRaElqaEtrWk5TU21valdBOUNKNk1GUkhLaW9VWDY3Q0JRR0N3dnA0MER0eHdMVUFhN2RLNWswUFlFOU9Ob21sTkdqYjk3LTctSFloaVBlWmR6WnhPMUJySGNxN3JOMnV1WURvY2lZZ08yQUNsNzNvNXNEUEg1R0t4?oc=5
+- Maharashtra orders probe into land sale to Ajit son's company - Times of India
+  Maharashtra orders probe into land sale to Aj
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQQnFvVmJrbjlDNkJ2TWNmNjBrUUJBM1NYeGlRRHRVWmRPclJGWUdfdjVDMHpVV1BoR0g1RDVIZjJvQmVMb1BzZmVJaExBMlE3UU5ya1NCMXJzQkhPdzFpZGNxWk56QXUwdnZJVEpwSnkwcDljaExmdTZuYUM4OXlPRnpNYWlJQWlzZ1lqQVJLYmZjSWRqZGZ1STN3ZlhWRkx2R2Uzc18yVVlITFBscGUyeGJPOGNYSmZxMkFhWnkxNUI1aTAtdV9F0gHMAUFVX3lxTE50WktzVEFsSXV4Zmx0bk1aRV9HVkd5Ym1Gd2JGTExmVlhOSWVTc3hjWjNpSE41QnlUQmk5SU1tS24yOHZ2VjMzYkhPRl9lNkx1d1dZSTFVdGlVTFh0d0xsaVAtaWIxOU5mVnA0d1BSRjFIWURTSG9tZ0VOTWtrYVJETjdEUmRMUmI4eVhvNGpWRDY1WWI3X2VsY0pXTWlEeUFsS3o0S3ZtZ3Y2N2pHdHc1cXZvUnJ6ZkJNbkY5NjJQZ0Q5Zlk3dnM2d2NUZQ?oc=5
 
-- BJP Attacks Revanth Reddy Over "Congress Means Muslims" Remark - NDTV
-  "Congress Means Muslims" Remark
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPazJ5RkEwTTFNWng1MzVoWElhVjFIOVZJanB6b2txNm4xdkhjUlRncVZ1azYzai1yTUVUbUZndmVNTjB5WlByek4zM3Nqbk1MTklvVXZwV2F6VDZ5NDdqRFRFdGZuTGhSdDJGd3pQNlhWempGcWtranN2MUFCbDdWb3J0Y0NFempCUjFZR3pRbFh3QjQzR3QzVFlrNm9LMm1xUVFCNDR5Z3ZZbWE3THVzcjBvZ2JJNk1ybmM1d1kta0NCYW5C0gHMAUFVX3lxTE1xSi1MRDhJT3ZITGNiWUtVTVAxZ3d0UmdyYUF1U3FOeXFjNFVpTXJwTktHYmFtOXY4UzNNa2RocVF6bXRTcGNINVRIaWZJWGw2NjhGWm0yQWxWMnE1cnQtUzJ1TTM1SHREVkVvaE5hcDFYQkg2VGlTZk5rREZmeVBaV3VGSnNTclQyS1Y2ejZzRWp3bjY5ZXZnZHFhcDJSQkptSXV1Q2sxOEdMTWw5UjF4eHlkbmJvbExJRVJqYkxRV0NZa2VhcmFEbVdsOA?oc=5
+- IAF enthrals spectators as Chhattisgarh marks 25 years of formation - The Indian Express
+  The Indian Express reports that the IAF is celebrating
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkVEcC1uQ1lDbG1tb2NOem96cmFmaWxaaW5uQk1DQ1I2SnJVM2J0aE1SS3JDOEtnN0JTenNvd01rc0FmYUR6UFBzOEtMVTdBQVdrRTJEQ3NjZTVGbUM0a3VPeW1feVZRT29ac2o4NEpQQ2FsMGZ5dXczNkZrOURLQm1IaE1WR1NCc3Z1dEpSZjhBVlVQZS1RdW5XZ2lBenlVTGxNSEZJaVY4Um9YQmtvVm5iSlZUTWdr0gG_AUFVX3lxTE1RRnVKdkw0YV9jb25SMUIzbms5WjVHS21RbDRhOFhfSXlNNk85eU9MZXV1TEh2NWlpd29aaWVEMDNqWHpLLWFpTG8yUWNPZm02eVoxS0dBcHpoSDdkLXBnR20wMERIMDMyTHNkV2JpZHZLMDdleEtraXBodHBzVEtoNmZ0OGV6LVRTNjU5azlNWnpSa2UyQ1NYRWE3Y05lRGpzNjBFX1F4OTNBRUlSOENPTnVsWjdHU0tqeHRTOElR?oc=5
 
-- Bihar election: Modi's party faces test in crucial Indian state - BBC
-  Bihar election: Modi's party faces
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VT2V5SVI4bi10Y0wyOW9GUk9QOThFWmpMNGJRZmZ1cFJTYTB6YUZlYzNYT3VrbmROZVJzVWpFVzEycXBWS2JHM2lybnpYdmRhOU5wZFRuaXMtd9IBX0FVX3lxTE51U1pUb1Z0WGNwRWloR1JUMlFoU2FkWUJiOXpTa1g2YzB4enJUU1N1b1hFLVE1MEVjOHJWVDViMnlYTnk2dkFweHYxSW1XaTlXMFVVSDVSWDBiNU5hLUgw?oc=5
+- School assembly news headlines, November 3: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 3: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTmtzdXQxQmdqejhHd3o4ZHNvSFg5LVVBS2F5UkxPcGI2NVdIMl9nWGdiTnBkeDF6Tm0yQlNNSXJ2RTRBbmo5M09fbjFPb19MTHhSYmdibXhOanExMG9yM05DYU9tWmMwRGtMc3M2Q29LbFVtTS0za0hLbTZodGlKUGJ1WElzYzFKbXQ2ai1vWWhhOFdnRHJDempmcUx3U0VQTjNUVld2UEpwYll0aXRfbkJ5VW1GY1NZY3dfcXdaYk8yaVFBTTZONGhDTTRuRDJhYWVmWnhmWVlydDNNVmc1VWJzeDfSAeoBQVVfeXFMUGdXZWV1eURNYjk2Vk5NRGRoRXMwczdzY2loYzNTcFhSSVp1bDVmQmxPdm5WT2xBc3FhYUFwWkZRbl9ZaXIwbkszV2Nmb2NHVUtvdUJjUjVsUXpDOUhYdTUyb2dMeFplWndudTV6RkZHSksxVWtoMjNiOTJFM2FRVWhuRGRLb25KNnItNzRwbVprSHd1d1hQMVBhZzNZaXY0OEhmanp0bWZyWkZyN2Q5R0pITkQwTHdKbXdmUXNKVkpndmZUNzc4WGU3dE9SM21fZTYtTHdxS2hsa04tXzVlU0toaWZZSUVrOGR3?oc=5
 
-- Why Does So Much New Technology Feel Inspired by Dystopian Sci-Fi Movies? - The New York Times
-  Why Does So Much New Technology Feel Inspired by Dystopian Sci
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnRadl95Y2xlYW45cDdoQm9xSE5FUExQUFV2RG9yQi0yem4yTHM0TWhmdXA2R3RwaFVuTzQya3hBd2RQMkxmUzVOMVpVVmRvWG4yamgwbEsta3ZfSXFTT3Jad3cyaFhjN3NtVUMzQ2EzNzZYUzBNeTRkZTJxTWwxendhVnZNSEMwNko4bDhNMA?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Samsung Celebrated for Transformative Tech by Consumer Technology Association - samsung.com
-  Samsung Celebrated for Transformative Tech
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPYlcyV1o3eTQxZHh2eXNXRjdsRE94cE9sWnNPTTk3SldzMWhNS3NRZThLRjNnYzJKU1RjNGJjTk5GWlQ4ZGxzaU15SXVUQVYwV05makdLOEVVTmU3SndXZzZyZmlZOFAtaTU1ZU8yaFV5ZHlRX09YaVpFMzdyLWNpV181a2o1eGdMVi1zOTR0ekZlRmRnUnpDdkhnMUtqeUNYYlJvektscExkNUdqSVE?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Karnataka High Court directs government to develop unified and technology-driven platform for Bengaluru’s sold waste management - The Hindu
-  Karnataka High Court directs government to develop unified and technology-driven platform
-  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxPOUhHVDgyeEsyOGp2eFg1RXFyWTNkaFJIa1ZFMHB4MGlJZVBpazJlSnhfTXpQQW5md2dOVXMxdzdVTUt2OFFaS184NUF4V1ZOXzFOaDFPSXJ0TnNCc29QcnA3R1hrZ2RiYlB0M1VJWUtaNk0ySXBESkdEek1Odk9DSkZYQmF4UWFqVV90bnRWcUhKR0w1TkZncnNXSkNGTjAxUXdfY2g0dnUyeUUwUVFGOVY4bTEyX1ZlTkgzMkZkS1FEU2RMcS1pa2x5M1ByZ0xVWVV5ZHZqZHIxRGxfSTZOWDlDX3BmQklpcHFheVpHTkhubVlHSWhTODFGdkRFem5SMU9QM093dTBfRXpCOHA5eThmUlhMQmR5aXptdXVKNjPSAacCQVVfeXFMUDRGMV9BVmVaNkNwVEtSV0JOd3VzLXdoaVdQTFJ1VnN3cHE3bzE4TVgwZEZBNXVpQUhWVThjQVBuNGhFRUFlMG1XdDFSanRFNFNLUUhDQWljYWthSGwyNG54OWdRUGYycE5rb1RLWVZQTWh5bGFLV3pkY2o3LUdWaF9oN1FQYWhRd2NmWHl0eTFNYWNWVUxQSmluSnllaF94bXpUQTZ4X2VZc2wtWTRfR1QyaUdkS2YxNTcydzNDQjZ5ZzZ3YldIZUNQaDhjcjd2ZkNpcVFfMFdZNXhZWE15Tmp0RVU2WkJBdG5TZlJXUFBtelIyanZVdU1jcVVER2ZOOHhxWTVyVm5pbUNzc1lIbmc2Wll4TE9oN29iczhGZjNwRU5DY1Bhaw?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Emoha appoints Gaurav Bagga as Chief Technology Officer - Exchange4Media
-  Emoha appoints Gaur
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2pMRGFKN2JDOGo0VzBnUmdxV3NXYU1yTG9oQmVtZ1hzU29hd1E3S0RNeVQxNFNRZmZiQjF0Q0F1WWIxRnNNRGVCeVV4b25pZHc2ZGNBbDU3R00zcDB4Um0yaDZYSlg3eEgxZlhXSzVoeFhjYUhfMWR4aXBtMVphZmlOY2kwZFhuY2d0ei1URXcwdXNHSE9KbkQ3NEVIZExCZGRWeFJBUkowR21TYmlaNndrN24xQW9weEFPNldB?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- The Rise of Smarter Trading Platforms: How technology is simplifying market access - Zee Business
-  The Rise of Smarter Trading Platforms: How technology
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQOTRCZ1NzLXhOSHNNdU9QeGV2dUVlZkhCNjhERlJxcjd4MEV3NWxqOUZKUkpvYU9fQWxhMG56Tm5rRnc5THF6dGxiTkdCakJ3blkyY2J3YnN0V0UySFdZWG93UFNnTXFON01NRkIyanVaUjlVcWtBRjJaemRtSVBzZXpTajBHOFZ2Q1J0QWJfWGZ4Wkw2QTBwcWg1NnpPOEVkaktTTnY5dEZ5eWtEU0pFM1UxWGpTdHdCQ1VsSnJUM0ZfenZT?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-11-06 18:27:43 UTC_
+_Last updated: 2025-11-07 01:16:11 UTC_
