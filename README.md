@@ -1,224 +1,204 @@
 # 📰 Daily News Summaries
 
-- Panel seeks higher protection for Rhesus Macaque under Wildlife Act
+- ‘Cornered militants opened fire’: How Operation Pimple stopped infiltration bid in Kashmir
   
-  🔗 https://indianexpress.com/article/india/panel-seeks-higher-protection-for-rhesus-macaque-under-wildlife-act-10352785/
+  🔗 https://indianexpress.com/article/india/cornered-militants-opened-fire-how-operation-pimple-stopped-infiltration-bid-in-kashmir-10353006/
 
-- HAL, GE ink deal for supply of engines to power Tejas
+- Bihar Assembly Elections 2025 LIVE Updates: PM Modi attacks RJD at Sitamarhi rally, says first phase voter turnout ’65-volt jhatka to jungle raj’
   
-  🔗 https://indianexpress.com/article/india/hal-ge-ink-deal-for-supply-of-engines-to-power-tejas-10352779/
+  🔗 https://indianexpress.com/article/india/bihar-assembly-elections-pm-modi-nda-congress-jdu-live-updates-10352978/
 
-- Wildlife board panel clears 12 key defence projects in Ladakh
+- India joins Brazil-led forest fund as observer, calls for stronger ambition 10 yrs after Paris pact
   
-  🔗 https://indianexpress.com/article/india/wildlife-board-panel-clears-12-key-defence-projects-in-ladakh-10352782/
+  🔗 https://indianexpress.com/article/india/india-joins-brazil-forest-fund-observer-stronger-ambition-10-yrs-paris-pact-10352945/
 
-- PM Bhutan visit likely soon; energy, connectivity on table
+- Narendra Modi Varanasi Visit: PM Modi flags off 4 new Vande Bharat trains – Full list, routes
   
-  🔗 https://indianexpress.com/article/india/pm-bhutan-visit-likely-soon-energy-connectivity-on-table-10352761/
+  🔗 https://indianexpress.com/article/india/pm-modi-flags-off-4-new-vande-bharat-trains-full-list-routes-10352359/
 
-- PM Modi targets Congress over Vande Mataram: Key stanzas dropped, still face divisive mindset
+- Watch: PM Modi flags off 4 new Vande Bharat trains from Varanasi
   
-  🔗 https://indianexpress.com/article/india/pm-modi-targets-congress-over-vande-mataram-key-stanzas-dropped-still-face-divisive-mindset-10352563/
+  🔗 https://indianexpress.com/article/india/watch-video-pm-modi-flags-off-4-new-vande-bharat-trains-from-varanasi-10352946/
 
-- What is ‘B by Lenskart’? The AI-powered glasses made in India for the world
+- Will AI match human intelligence? Experts split on answers and the question
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/what-is-b-by-lenskart-the-ai-powered-glasses-made-in-india-for-the-world-10352155/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/will-ai-match-human-intelligence-experts-split-on-answers-and-the-question-10353136/
 
-- Dyson launches new Hot+Cool purifiers to tackle winter pollution in India
+- Scientists create brain implant smaller than a grain of rice
   
-  🔗 https://indianexpress.com/article/technology/dyson-launches-new-hotcool-purifiers-to-tackle-winter-pollution-in-india-10352148/
+  🔗 https://indianexpress.com/article/technology/science/scientists-create-brain-implant-smaller-than-a-grain-of-rice-10353073/
 
-- December 2025 Supermoon: When, where, and how to see this year’s final big moon
+- Electric mobility is a vibrant sector and we are ecosystem builders: Shilpa Kumar, India Head, British International Investment
   
-  🔗 https://indianexpress.com/article/technology/science/december-2025-supermoon-when-where-and-how-to-see-this-years-final-big-moon-10351840/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/electric-mobility-is-a-vibrant-sector-and-we-are-ecosystem-builders-shilpa-kumar-india-head-british-international-investment-10352017/
 
-- ‘I was threatened with arrest for watching porn’: Inside the rise of fake cyber policing
+- Vigilante lawyers expose the rising tide of AI slop in court filings
   
-  🔗 https://indianexpress.com/article/technology/i-was-threatened-with-arrest-for-watching-porn-inside-the-rise-of-fake-cyber-policing-10351898/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/vigilante-lawyers-expose-the-rising-tide-of-ai-slop-in-court-filings-10352972/
 
-- 9 ways Google is helping students study smarter, not harder
+- Elon Musk could become world’s highest-paid CEO with $1 trillion Tesla package: What it means
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/9-ways-google-is-helping-students-study-smarter-not-harder-10351775/
+  🔗 https://indianexpress.com/article/technology/elon-musk-could-become-worlds-highest-paid-ceo-with-1-trillion-tesla-package-what-it-means-10352864/
 
-- Onex CEO Sees Potential for More Insurance Deals After AIG Win
-  Onex Corp.’s top executive says the alternative asset manager is open to making further large bets on insurance companies.
-  🔗 https://www.livemint.com/companies/news/onex-ceo-sees-potential-for-more-insurance-deals-after-aig-win-11762541547504.html
+- Grateful to Indian people for providing me with safe haven: Sheikh Hasina | India News - Hindustan Times
+  Sheikh Hasina: Indian people for providing me with safe
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZkRCd3lPMXc1OEFldFpaYU1vdF9faHZlVnV1ZDB0VVc1MElicGp6QXNldnhIdXQzQTBBR3pqUDFsTGdiT3I1eVk0UjRuUm1hNVlwM2tNRy1wZFlqc2RXQjdGOUNrZFdwbXlMSzZxWmxCLVdUOE90YkNsdFRVZDluYVlTYzFpbnlFWUVqbVk3TUVra0lIYUxzNWV3eDhENU5MRnhQSDJyT2lxLXJ5eC1qSGpTNnlWRjB5d3NzTllDNjRTbEJnUWxUZllmWTh1YjM20gHWAUFVX3lxTE1LYXNxdERFRnZuV0t0V1hLY0szYmJ0QWs1MDRmT0RheFY4eEE4VHZjRXAxSS13Z1ZwYm5OaEx6Ny04U0NiVktoV1NrdkYxdnRwVEN6RmJvU21xSFRJSEtTSWt3dkdtaTlWUVhHT2laTjlBLUwzYkk0dUFMRXNFbkVpbVByemVLUm4yWEZOQVc5ZWRiM0tNaUJZSVVLWXBlWFEwRWFoR1ozRXRlQ2FqVFZPRlRjb2QwVnBhSWVwb1hzU0toN19BaThFbjNpSm85ZkVPcWlyWmc?oc=5
 
-- Petrobras’s Top Oil Field to Start Next Platform in December
-  Petrobras will continue expanding production at the world’s biggest oil field
-  🔗 https://www.livemint.com/companies/news/petrobrass-top-oil-field-to-start-next-platform-in-december-11762540746753.html
+- "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
+  "8 Planes Shot Down": Trump Updates Key Figure
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3F1T1VfaU83YmV1RHhBdWlyeTFjZ0ZhaVBFa3lsR1p1N05vc2pCT2ZDRFJ4dDcwc2RpeEI4UmRzVEEwc2RsWkxzVmRTbThVZ2tRTnp1MEpKTkp6TFd3ZUJBU185ZG9hT0hHVlBfaDVJeW9LWHVWdkoxSzZFOVYyRklUVzVFVHoxTGw2TUc2S190cVdMeHRLZ1J1Y0xSa1BCbGxZeDNXNnZDdTNjZEdsakJISUN3SzRRM0tHTTdOYXTSAcgBQVVfeXFMTV9JUDBEWkNlX3R5MjlITlNhTnQySXZ6V1BZN0RsVnl0cTlRd1U1OTBzcU1oNllFdjhjc0VkSWVvTUE1UEIyWGw5c1BHaG1ObVZCTzhnc243WUlvczdMZ1Z3a0I1dWNiTFdSelE3T1FXNjJSRkh5TGprZ0pTc0hmbmZKRkd5RnJKaXV6Y254N1hzaDJmR0w5NlcyaDNlRktsdjRGZmt0MkVFLVJyVkpBMldMOEZTTFNwbUszcUl3SXJOTXlPUlEwSWE?oc=5
 
-- Losses widen for parent company of Trump's Truth Social in Q3: How has the US President's businesses fared in 2025?
-  The company reported a net loss of $54.8 million in the third quarter. This was wider than the $19.2 million loss reported in the same period last year.
-  🔗 https://www.livemint.com/companies/news/losses-widen-for-parent-company-of-trumps-truth-social-in-q3-how-has-the-us-presidents-businesses-fared-in-2025-11762535241278.html
+- Electric mobility is a vibrant sector and we are ecosystem builders: Shilpa Kumar, India Head, British International Investment - The Indian Express
+  Electric mobility is a vibrant sector and we are ecosystem builders: Shilpa Kumar, India
+  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxONEdnVnVpOGdwMUVtN1lIcFZTcWszR2tXYTBnUGgzUGxiREw3N0ZGRnFxWjlVd3YtUlJzUTlBU2lEVXd1Vk5qME9BeFRZalhSYWtQTGpWSVl6blVoVUJBeVhFcDFKQnhWa0hoeUlSVjgwSXpyNy01VGszcXdVeUlXS3hSbW9PU2E5b1h6aGY5SnhRUEJjRnlJTWNJb1Q3X3FEMHZZQWJCRjMtRGlfSWlxalVGbmFsVFVBbEVVem4wUUxFWHBxZDd4Qk96d3Y5SmpOT0lVZXRDRXBXejduUk9IQjlCeDVCdWNhaDkxYk9BTEMyWUY2U1JvellubFFvY3M5aURFMmlySklUZFh0SkJ2UmxsYmVnNzNjYnpBVHBfMWdrdVNHT3c40gGuAkFVX3lxTE8wUTQycFdMNV9YeHBoQW5CYUdqYmJwdmFDTW5UTXIzTmpfV0ZjYzdtb1lJYUpsMFFLMklLQnhKRXFsdUdfWHlxdGZwNENSZGplVkdqcUhIZE9zSEdQQVBrTDhkanY2dllaUE5Qa21QOXFVX2VFT1h1bi0zVUtJRTNjWERUMjc1TkVqcllnenhQLVpLZGI4LXc4c1FjRGpXM0c3WEhmWjFjVTRTRGJidGF4SEhoeGtHLUtjZktST3hnLUpuc1BiRGJRdlpoaGQzT1BheTJhSndjR29EaUNMamlvbWNqSUtleEVNb2UtTFJPMzlBdmFidzFqeEhVb3kzdW5DMGVPVktDeUFqQWF3b1QyTWNjWDdBVkpDcDFDUUxEbHRONjAtc01ZUmdaMTJB?oc=5
 
-- Qantas announces 22-hour non-stop flights from Australia to London and New York: See Project Sunrise specs and images
-  Qantas and Airbus released first images of the A350-1000ULR in Toulouse. The specially configured aircraft will allow Australia's national carrier to operate the world’
-  🔗 https://www.livemint.com/companies/news/qantas-first-22-hour-non-stop-flight-between-australia-london-new-york-specs-airbus-a350-1000-ulr-images-project-sunrise-11762532256432.html
+- 'Getting Future-Ready': Indian Army Highlights Modernisation Drive In New Video - News18
+  'Getting Future-Ready': Indian Army
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPREtCY0hmRzR4Ym5wTXd4dWozSjN4VE55R1llcWZUczNhNEd1RkFSb0FJSS1RSDN2STgxS3NNNXRBLWhfVkpaalBwcDhsYXlrWXZYT2dLS3Fmb3lzb2w2U18tRVFKbUs5SkFkX1RxeEhWaGhXUmc0LXE1S0E5c2xBWmdMM3NOYTVzRngyTUR1cGsxdUp1OHBTUkRDS21NbFRGMk9UTk1VdU9rMWJ5NVB4ZkcwX3pyTkV2c0dVaHREY3TSAcYBQVVfeXFMTUVLSXFYc1RxRk4zbG1QZGY1VS1zQkFSSU1VODNKbm1tTWlzWGJFc3RfUXBKcndpTUZNSVFudkh3RURsNlpVVXNKOERIOUpUQUtFVXZpWXl6YlhPTjF6dnlrYXdqTXEybVhJUEVtODM2WXJYYThVUmxxMGVLSTkzM2tSdGZvLWZZYWxVVU9sbGg4LUpEbG9TOHI2c2ZoS2dvUnBzNDJkQTZrU2QwbzZSdDFXNUFRRURGdU5RR1NqLUVTa3J0MW5R?oc=5
 
-- ReNew gets $331 mn financing from ADB for large-scale renewable energy project in Andhra
-  ReNew's $331 million deal with the Asian Development Bank will fund a renewable energy project in Andhra Pradesh. The project is expected to deliver significant clean energy and support India's
-  🔗 https://www.livemint.com/companies/news/renew-financing-adb-renewable-energy-debt-andhra-pradesh-11762531270488.html
+- PM Modi To Flag Off 4 New Vande Bharat Trains. Check Routes - NDTV
+  PM Modi To Flag Off 4 New Vande Bhar
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNWRtTFc2ajQzcmpQLW43Tkw3RW9nWklxdEpMbkExVjYxanJWcENSQk5DQW5DVG5rSTN4Vlc1enJXM3pQVlFOMHhHSFg2MHg0LVpwVkdxM3czaTBmc095TkdrWDRodHRILW8wN1pLUFFGTTFrdUdmcXJLVXRsS2dKUnZwXzlzU011UWktZU8zYjdydDMzYTVzdHpQcGtabzR4VG9SQ3A2aHIzd2hUYlBDRmRidkt2WjRqb3h30gHDAUFVX3lxTE5ldU1jdHdILWhKbENwQmY2TGdRLUhxQVhGS1I4RUJZWnZMdnlCS2NWUVp5RklRU1EtRXlEQjl0amtEaWJlMndxVnI2OG5oTml3Yk1MZjN3Rk1HX3hUMEhsaE54aGp2UmJhR05ON0gtLWdYSkd3V2VENlJ5cFdzdW4zMlc0ZTJNbjN1RWtXdE91UE1zWGh1N3lyMHRoNThsWXRKbUNQMEZDX1NqZEhDeWZVVEw1bm9Kd1pHWkRiRzIzaDk4MA?oc=5
 
-- Dollar ends week lower amid Fed outlook, US government shutdown
-  Dollar ends week lower amid Fed
-  🔗 https://www.livemint.com/market/stock-market-news/dollar-ends-week-lower-amid-fed-outlook-us-government-shutdown-11762552315547.html
+- Stock market today: Dow, S&P 500, Nasdaq end volatile week lower amid worst tech sell-off since April - Yahoo Finance
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTDJuNjI4WFRiSVFhMFdEVVdjaGZhTHFVd2hJVF9jUUhwY1hpRGNlTks4R2k1ZXI5dHRPVkk3LW91Wk5FNDBzTDRPZldDUmhjSWpHcVluV2VIM3dJQ09TOWRTOGJ3QWpSSG
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTDJuNjI4WFRiSVFhMFdEVVdjaGZhTHFVd2hJVF9jUUhwY1hpRGNlTks4R2k1ZXI5dHRPVkk3LW91Wk5FNDBzTDRPZldDUmhjSWpHcVluV2VIM3dJQ09TOWRTOGJ3QWpSSGRYRlNWS1Q0U2lFNHFxdWt6bXU1eXZPZlQ5ZGpJTzZDLVlLMmNUSm82bUdFQnc4VlZXek9Ha0FNT0RNdHNNZWNYX1NTclFBMFNTNUJhTU92VVNRS3paM1NQN014TFdVRDVpYWh5b3hrbkJJM2Nqc2ZnbDBCdklmMjNR?oc=5
 
-- Wall St Week Ahead-Investors watching US economic signs as market pulls back, tech teeters
-  Wall St Week Ahead-Investors watching US economic signs as market
-  🔗 https://www.livemint.com/market/stock-market-news/wall-st-week-ahead-investors-watching-us-economic-signs-as-market-pulls-back-tech-teeters-11762552244090.html
+- Vanguard’s India Portfolio Shines: 10 Stocks rally up to 90% in FY26. Do you own any? - The Economic Times
+  Vanguard’s India Portfolio Shines: 10 Stocks rally up
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdVR3OGRqd1laMFlZWXp6QU84S3JwSy1OdU5Xd3R5UE9jMURwcUdMWEJpUlVVUTY5dFFNdkdQT3lvWWIzeWlPM3dCVHlVb3pibTFWNnRiOVFCVzZoZlJFaHBVcGtMbGxnYkR5cVM4ZHlUSVM0TE5IMHdtcXpxSVNNZmk1VVhhRlJZNmJMUGM1LVpvaThrNmZ0UVFZNHdfdG5jajA3bmlCWGU3RmhRVXljaTFPOWN2UjhXYThrS2ttTHFSLUdXbFd5dWpUMWRvcjdOeTNDRHE1TGRBN2hnX3ZWSG1Qa1loU3QtcTY1YlpXT1RkZ2RmVThVdWtEMm4?oc=5
 
-- Oil Notches Second Weekly Loss Amid Sanctions, Looming Surplus
-  Oil rose on Friday but still notched a second weekly loss. Market continues to weigh the threat to output from sanctions on
-  🔗 https://www.livemint.com/market/commodities/oil-notches-second-weekly-loss-amid-sanctions-looming-surplus-11762549912500.html
-
-- Gold gains as dollar softens, US shutdown jitters persist
-  Gold gains as dollar
-  🔗 https://www.livemint.com/market/commodities/gold-gains-as-dollar-softens-us-shutdown-jitters-persist-11762548247421.html
-
-- Grand Theft Auto VI Delay Fails to Faze Take-Two Stock Analysts
-  Gamers took the latest delay to the long-awaited Grand Theft Auto VI hard. Stock analysts are undaunted, with the
-  🔗 https://www.livemint.com/market/stock-market-news/grand-theft-auto-vi-delay-fails-to-faze-take-two-stock-analysts-11762544682445.html
-
-- OpenAIs Altman urges US to expand Chips Act tax credit for AI growth
-  OpenAI's Altman urges US to expand
-  🔗 https://www.livemint.com/technology/tech-news/openais-altman-urges-us-to-expand-chips-act-tax-credit-for-ai-growth-11762558915336.html
-
-- Trump Administration Rules Out AI Backstop Amid OpenAI Uproar
-  Trump administration officials are dismissing the idea of a financial backstop for artificial intelligence companies.
-  🔗 https://www.livemint.com/technology/tech-news/trump-administration-rules-out-ai-backstop-amid-openai-uproar-11762547511898.html
-
-- WEF says AI, robotics, nanotech to transform agriculture; cites case studies from India
-   WEF says AI, robotics, nan
-  🔗 https://www.livemint.com/technology/tech-news/wef-says-ai-robotics-nanotech-to-transform-agriculture-cites-case-studies-from-india-11762508233680.html
-
-- Sam Altman clarifies OpenAI will scale AI Cloud to meet global demand, market decides success
-  OpenAI's CEO Sam Altman said the company does not seek government guarantees for datacentres. Altman suggested governments could own AI infrastructure to serve strategic interests.
-  🔗 https://www.livemint.com/technology/tech-news/sam-altman-clarifies-openai-will-scale-ai-cloud-to-meet-global-demand-market-decides-success-11762507122989.html
-
-- Up to 75% off smartwatches on Amazon as budget Noise, boAt and premium Samsung, Amazfit models see major price drops
-  Amazon is offering up to 75% off smartwatches. Smartwatches range from budget picks to premium models from Samsung and Am
-  🔗 https://www.livemint.com/technology/gadgets/up-to-75-off-smartwatches-on-amazon-as-budget-noise-boat-and-premium-samsung-amazfit-models-see-major-price-drops-11762500903467.html
-
-- Stock market today: Nasdaq, S&P 500, Dow come off lows as rough week for tech nears end - Yahoo Finance
-  The Nasdaq has had its worst week since April. The S&amp;P 500 and Dow have also come off lows.
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2wtdW85Sm9Yd2d6STJTcmt3VXV3WHpfMmNzUlJsUUxJcG13allCbTlJNkxzbndiazlWblA3U25XNmM4Vmg3XzUzVXZnR0VOUFg1MlJGT2ZYMVhMSFZyU1ZxRnlUYjkxUGJRWmV3YWo5QmhKRTh3Y3B5TkptbEI3dVRiSlBOS2VuVlBXdy1ycUl3UG5QVlBVOFhVWDBUSkRzODV4Z0VJbm0wYXU0YnhCWVM0SXB3YWhDR2l2Z0xPLWVqMGNRYWZESjdFZmd3OUE?oc=5
-
-- Sensex Today | Stock Market Highlights: Stock markets fall for 2nd day in volatile trade on foreign fund outfl - CNBC TV18
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxPYmFrV2g5U093VlpHLXdZMkppTDRQMjZvSVdBZ0xTcG9LUmVCdFlDNEJZU3JzdjBWV1JHeWpFbVZZSEk0OWxsYzluaWpKb0h1UVJ1aW9wb05NcjNfVjFOTXQwY0dDWndoaE
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPYmFrV2g5U093VlpHLXdZMkppTDRQMjZvSVdBZ0xTcG9LUmVCdFlDNEJZU3JzdjBWV1JHeWpFbVZZSEk0OWxsYzluaWpKb0h1UVJ1aW9wb05NcjNfVjFOTXQwY0dDWndoaElJTkpjb0c1NXFzUEI0cEVndWtfeUcxOUVBNDhkUjI5b2x5WWJOT0trelplbkVWNFhCaERGLWo0eFJuQ3JweU1GbmZGQ2l6VzFGQnB5bkRlOV9FYzFDczFrZlBqbnNmcVdtNkp0Y0Y4U2xLRTBMNmRpRU5HUkJhZEF1d0ktSmwxSWxGOExiVVNMMXB2ZlVTc1RiM1Vnck1FQjNmcGp3UdIBjAJBVV95cUxNTG04VVdkU0QxNEgzTkwxYXdzMEJ6NzI5dDBRS3lkTTNsUTN5Q1YyYUh0Yno0S3dsU3JZUkQtdVpOWWlBX0RoRHlXNDJ0WmFmNm92dFJ0aGZpYnUtMUwyWE92QU1MdG94TklsSG9vTktuOVZGbE1PRUh2bEpfVG5yZHFTa2VUSHZSM20tNDlvbDlLRl80bTFjWENjcXZPdDRHQmJIUG9uby1LQzBKaWlJd1prb0pFdGp2LUw4VHdmendPUFdZOWdoUTVEdm53a0kxMm8wLUxxWHNoSW1Ld1J1UkFDdWd0cWpPUHBwMUZ5SnJqNU0wdkh3eGJ6OWYtR0w2RHRmb1BaeHRRWjk4?oc=5
+- ET Market Watch: Profit booking, weak global cues drag markets; Sensex ends marginally lower - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxQd25BdlMwcVo0UTdaYlVqcWh0a0VKRmRZTW1nR1RBd2w3LVp4dmVTWHZnZDZlaF9TZTB3cGhJWnZnbE1UT25kcTNNb3djZ2Ffd0NQOXVGWkJJNGozZnFQUU1NM19MRDk4dD
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQd25BdlMwcVo0UTdaYlVqcWh0a0VKRmRZTW1nR1RBd2w3LVp4dmVTWHZnZDZlaF9TZTB3cGhJWnZnbE1UT25kcTNNb3djZ2Ffd0NQOXVGWkJJNGozZnFQUU1NM19MRDk4dDVvYTRGdE1MYkNidDZuRGVua3VtYURVOEJlTmwwUkIydUZsMGJqdU1XVXZDY3QtWkZKV1V5VUFHd21sc0xTNXkxOVd4cFlzYUdCczJTM2xmZ2s0RXF5UWw5S3g0cF9JVGlSTDJuc0ZnU3JJUllLNEhpM2Y0WjkyRno2d3NEQTEzX2tZYnRrZ1VnZnowbnhvd0QwSnQ5SDdtM1HSAYcCQVVfeXFMUEFOQmlIME5iOThycDBuNWVpY3p4dnVHb0FVX3lyNFpWYzJUZ2JTdkU5NzJ0b1NPT19Dajh0QllGUzVHeFJ1TDRBb0VPdWZQaTBFcjJVNmhFam9CRk9iSHFzazVyaFdHRW9Rc0V4bUpXajdNVFM2bVlMY1IwRTQ0YUpudEhYOUdjNDY3NFBob0ljZXFLdkxROWxyOEJ1aGxLbnN4RmxnS3JVYmJCR2RBZnAxcGdDYXhJal9XbjZzaDNucUlJMVltbi1xWTl0LWpMWWFhN2FHLWtVTHcxUGZ4UGJpTnh0LTNtZHFITzhibDVORVpXLTdYUWF2YWZTZzlGVGZObGpvbGM?oc=5
 
 - IPO markets are robust:SEBI Chairperson - The Hindu
   IPO markets are
   🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEFzd1Jwa0preTdMLVJZX3JnNVRCcXFqZnpheXBnUjlZcVlwa0Z6Wm9zb1lUQnowbm0zV2YtbUZvVFZyTnk5Vk1XS0lVRjlfSmxaX2Y0dlh1eFNBaVhBS3NudXpFNXN6TEJ0Z1Y0R1JpZ2xOYnJPMHF5Qm9vc3k2NUdWNGhiMzdtWmI4dktJc3V1ZVhRWGtv0gGeAUFVX3lxTFA5emVyRDJBOGVIaDZVZENpUHFJejROWFZtMUMwOXFTOTc0WkVlYmdMb0d2bUJnS0dLMEFuOEVxTHU4VVNfcHFKZ0JyN203ZEcxZ3ZraXdBVlFjS3l2RmRxSWplM2xwX0pGS0pzUGJMbDJkVVJHUUFpallIQkt1U0xnN1I1Z1J5MEV2dlEzTEY0eF9IbkQwWV9LNmtEVFNn?oc=5
 
-- Qatar opens 2025/2026 local agricultural markets featuring over 100 Qatari farms nationwide - Times of India
-  Qatar opens 2025/2026 local agricultural markets featuring over
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNTk1xeS1GdXdWV3AzVDRBTVBvZEplOWE4aGhUYllsUEtiYVhfWjdodWxFNk9pblktYmdDOFAwMWNIY3RZcTFocHcxeGNtdC03VDdmSTVtUHMtS1ZHdlJWNXZWQWl1ZncyN1YwMnR3WEZMNWFUdnRXS0x3YklPUURJNzdHMkN2OUhsR2xZdUlwV1dINk45ZkVKUHo2d2lzMEdXMXY4RGEzd2VHekxtd0QzQlJic3pBXzg2UVJ0cW0zbGZMemF5cVdVYUZyTVY4ZF9sVzBuXzk3MkhkdGh4RERPRVVVQ0ZGWGQ0WThvRkdqLURHdEl0NTdESkZ6Q2lmdklX0gGGAkFVX3lxTE84TEZPT0JEemhtc0ZEekpkQXBwckVjV0RWcmNudW9KZVc3V0lRWWhLYjEtSmVJT2luQUJWQUF3ejA2U2hIYmNVS0ExbXZHMWlVNnF5akFjTmFWY2xoTkl1NmhSWUpBcTh6aE1vMjVHWVBWWUxWeUlXdmZGMGItek5PWHhrWXN0RzVSUUh5cUJ5S0V3dmo0TnRURW5WZDFSWmhfSjZORzllT0c4SlYwUlpOTmxDTlFyMHBFeTRMbzlhOXExVGVZd0FuUG1XLXRGVGtFOVVDV1J2dXJUaFh2Mk9pVmtqQ1BOUzBlQkdMQmZtRkN4VnB5RGRWQktWc3g1WUpmSS1nN3c?oc=5
+- SEBI to review F&O, short-selling, and buyback norms to deepen market liquidity: SEBI Chief - livemint.com
+  SEBI to review F&amp;O, short-
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRWxCdXpSazdCNDdBMXpYbGtXYlNrSVE2Skp0YmY4dTN2NGZDMUt3emRlakE5MVdRc0ZMYkc0UkxmUE1HeXF5ZXlXUEV4WG5nS3UtM3hzekZwV3ZBbU1BeGJ4WHV0aVg0MTd5R084eUVvcjdZZ0hqTG95bDNCOV9RVmo5MEN4RGFmZkFyaWFMc0lYaUJDVmUzd0dKbHF3NnYxRXR0VUdreVdySVNhejRzNEl2dlVuZjlzZzhSOENad3dRdndVLUtkbWZkdlFlQ3F2T29RYUp5UjhGMVFJWTF6NkVuclBwZ0U2U3hLLU5ra9IB9AFBVV95cUxNTmVTTndvZDhmUTZ5MmZ2MWVWUG1nTTNNcGkyRW5iWWJHM2VwVjFmLVhtM2Zyb0Z1ZUtQemQwQVdvVTFwTHNZWGc5anBqOGNjUFctQ0ZvTEpwdGpuX3pIT2NYSXVxNWFKOGhvbmZFd2Q3TlRVenR5bWEtZFhzYWh0R2NqRWpjdGc2cHYzdGhJQzdWeHAxZHR0bXJxNDc3aGQxa1RmRDhxUEd2bzZFaEZ4c29vTXBseHZiaFU0Q19GTjFiQTVISEVhMlNCT1NnVFVYTVd2bThjSW1ReUZfSktFajVIeWpISC05ZWFoVlZnYVRfbTBr?oc=5
 
-- Global stock markets fall sharply over AI bubble fears - The Guardian
-  Global stock markets fall sharply over AI bubble
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVFQYkdMZHdfazZUdm9HaUhZX0lUVGtuR08tdFQ1YzVEMlZERjVsaGVscHhwb3BRZU5hZUtPX29PSWNiLVBuQU5neUIyb0dIa2NVVWFmd19BX2ZQY3RCdGJTWkdqWGJobGI0bzlrb1psdFRGc0QwV2lIRTJkdF9yN2FTdEdlZGlqa28tWlRscUF0VDFibkhDekZRMG1DRW1hMTR6amhn?oc=5
+- Will AI match human intelligence? Experts split on answers and the question - The Indian Express
+  The Indian Express asks: Will AI match human intelligence?
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcWNmR2k2NnlqLWFOdnNhZDFjaVJjRmM4MkJ6dS1KbkhvSm16U3VMQ2ptR18zcm93d0JYMkNBQ1JPOWRZU3BPaHNGLU11dzRmQ2RLdS1BSDVpejQ5aVFzUGoxRHZqVDBJa05NT3NXWTNUM2dDb3FrakpkdTA5bHJ2S0t5MGFpZDZEVHdYekNtV01DX1JWQ3I4bWpFU1J3Smd5TTJEVWFOQTktQ2VSQXNyOVR1WFp0S3FmVkI3WjhmaUZKQ2ZzbVR1OUNZZko1ZmNyUUVNeFRLOGdwaVQ0Y1JPd3pSZHRTN2FE0gHvAUFVX3lxTFA0V3dlWTRZU2JjVXFOckFPNGlTdXRIOWxmUlZKeXE3RHJWVDFpRmpkSlhzSERJRFJIeXZObllzbENzSnEyQ21QS2hCb3BhN3NLLVVNSDBad1hzZEFIYmlzQmpCd0R5WnpfSE1TT2MwRmhpa2ZTV1BJdFhrRFFmY2dxa2p5WVZCZS05MTJ0UE5YQldkc2M2MGNObnFqY2JZTHZjd3pIVGdSRUFaWXBIYXBJX1ZOdFVHLWkzSW9SZFptX2JHTHVJWHlhY252OFQ4dHhRem1Md2hTSTZFUEhjMnYxd2VVSU9RX3A3SWtSb1pR?oc=5
 
-- Arvind Ltd realigns supply chain, expands beyond US to beat tariff hit
-  The company is realigning its supply chain and expanding into new markets. Cost optimization measures are in place to counter margin pressure.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/arvind-ltd-realigns-supply-chain-expands-beyond-us-to-beat-tariff-hit/articleshow/125165928.cms
+- iPhone 18 Pro tipped to follow Nothing’s transparent rear panel design | Technology News - Hindustan Times
+  iPhone 18 Pro tipped to follow Nothing’s transparent rear panel
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOSnNtN010LU1oVUJMX1JTbm5sN3NnLXZYdlE0T0JEUFppVEFJMS0zcS1fTlFEblUyWllXd014cWxoc2hHSjlXa3lILWNLdjNUY1FZd01lLWZYSld1ZVRUMU9PRUZtS1NNSGt4eDA1dHlfbXIwMFk0VVN1LU85SU1FbnB2MVgxcERnVFF4Qk9jOUIyelZGQzYwLUd5SkVVY1V2LUVueWFyMmpjSjBEUVRKcU14RHpMTjVSZkZlT3gybGhpdEVFdW12dE9aNllFUdIB0wFBVV95cUxNT0ltbnhyZ2kwV2V5R091Vlp3Y0FuZlNNRWplVjVwclAzdm9TRTFld0psRWRHNGdTcnp5VWpYQzFDaDRWOUFYdnFmUENaWFRKbWVtMWF4X1RjRm5QdXdZaUU3ZDFrM2pOcWhheHBQUTZWU2JMcktpYS0tU1RrUW0zOEx1YUthMHJEN1drTmdCNjFweURaVTZncm5nUHFMSUF0ZDFFMVNDS0lzSHJ2TFdwVjR2OTBEM2tvZmpMV0VVNkMteWhvaGRDUDVfaVk3OWNPRFk4?oc=5
 
-- Puravankara reports Rs 663 crore revenue in Q2FY26, 28% growth YoY
-  Puravankara Limited saw revenue climb 28% year-on-year in Q2FY26. Sales reached Rs 1,322 crore, with collections at Rs1,047 crore. The company added significant development potential to its
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/puravankara-reports-rs-663-crore-revenue-in-q2fy26-28-growth-yoy/articleshow/125165902.cms
+- Indian government issues big Google warning, users under high risk of... | Technology News - Hindustan Times
+  Indian government issues big Google warning, users under high risk of
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQT1JGWXZqcWsxM2U4a01tejVTQktRbEpab3kyRGlkNmt5WmdTTlRuZUZqSkI3NzZtNWNEaHJybHFSOU43TzdpTjM1OGhDY1kzQlp5N0ZxUWcyZnpXT2w1NDlJTVFVMTMwRkFma2dSV2tuVWZ6VE1RNlM4MzBzd0MwN0R6UVNscWotR2h5N1ZPcUlMSWJuQS1DTF83dXhMRGhPNk9xdTloblNxY3NsVE5QdlR0S1VGaklYMDhEcVFuLW5NRW9XQ3lIZlhXZ9IB0AFBVV95cUxNeF85MkZjdjM0VklpRDRjTmFLMlFyQ1hIbEh4bTczaF93bnN5Y0NTQTBETUVCWDVmRVVjLTNpZjJFa1BERGdGQVM4R0JOT1JxUzJXRXV4cE9WX2hxUzRPNlo0UTFKZ0wzbHE4QVdaTnVlUzJiNmNHcWU0N2ZiRzlTSElMbWt2RU9qZmpOcGlMeHdiSnVmS3dNeGR5LUZVN01Bc3Z3UUtVNWMyYWpqQXRhMkVuSGtnbVFLcnhVeENpWDBxbGFEYTNoU1NFQ001ekdR?oc=5
 
-- Shipping Corporation declares Rs 3 per share dividend, sets Nov 19 as record date
-  SCI announced a ₹3 per share interim dividend for FY26, with November 19 as the record date. Q2FY26 profit fell 35
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/shipping-corporation-declares-rs-3-per-share-dividend-sets-nov-19-as-record-date/articleshow/125164885.cms
+- Google CEO Sundar Pichai praises SpaceX’s launch technology, Elon Musk replies: ‘All done without AI…’ - Times of India
+  Google CEO Sundar Pichai praises SpaceX’s launch technology.
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNLVlrNTg3WWx0Zm91Q21LVlJZODVkMFIzdkxBZ2RWdDJLN3B5cVRrQzhUbkpfY1NBN2dMSWlWVzlhZWpoV1RvN3VEcU16QVo1MHpibTQ1SkdKLVVCQ0NEcVlHQWlpUlg1S0F1bmY0bkVMSGRsN3EyY0luY1JwUFRMLThld3pNcTJqXzNjUmR6eTJGM01jWFRTTVo1Q09TRVFZbE5jUHBadGsyZnY2N3hNeXhuM3VENlZpbmZObTk2LUNWandyYm9sOHhkWjN2U3NacW1JNmFSR3NqTzRwWm9hZmkzUk1sRmtnbVdBcU1qZDlIdlJYSnNBREY2NWdlQ25lemkzNW9ob9IBjAJBVV95cUxPMmdhLXhRYlVtNGEycHdJZ3BsRW54WEJ3eWxFM0tYdkEyWEdGbXJDa2M5aGY3eUNtSmF1bUh3WHRvNW9qVmtxamRfZEtOR3I3RnhVRnpMdDZOOHhfZmRDcHZrb0FUTk1iUmswZ0NnZlRBYjFrOUUyU0t3NmQ0Nm9wUngwT19naWQ3MEI5cGllVlY0R2lpZ01PcnJ5WlJhWlQ4TTNrQ3lzeTVzMVdlYXhIc1U0X3o4LTQyVHdrZ3JaT3hudjF4a2FmOTZfTENSbDZBaUUtT1g5aHVhM3Z4SEhBVlVDTkw1TWw3U2NxZ0pzcTVyLWt0TnY1RmpiM1BuaU95Z2RoY2FtMUM5aVJR?oc=5
 
-- Fed Vice Chair Jefferson: Slow approach to cuts makes sense as policy rate approaches neutral
-  The Federal Reserve should "proceed slowly" in approving further interest rate cuts. The Fed's monetary policy moves closer to
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fed-vice-chair-jefferson-slow-approach-to-cuts-makes-sense-as-policy-rate-approaches-neutral/articleshow/125164671.cms
+- For children: How Jawaharlal Nehru sparked technology education for jobs in the 1960s - Scroll.in
+  For children: How Jawaharlal Nehru sparked
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3poQktadHRmbW51cFRjVEdiZ21lLUlQS0kybkgwbUFxZnctWWgxRmJuSWNGUW5kY096TmdjSk9FeTFhNlJDY0FFaUdHUUtVYmZPeHkybE1rUzdHM2ZQblVOWHdBQUtQeTVlVzlYR0pkbzZVZWdWcTBtTWQ2LUtvdDVOcWJ5WDgzN0YyWWdTVk0taEZfQVlJZXRIQnNLX3A4c3dET3R1UmU2SG9fOFRmVFFFWEhrLUdsNlHSAb8BQVVfeXFMUDd4ZFJpaGtyRWNJdlhEM0M5T2Q4cmtuUGdZTlZOWk41UkU4RlZsdUZSa002SzFHTUlZMFhVbDJjMDBDWG9icnd3bVRkd0xQdThxa1A2eVpLaTNwZ0Jwdm11cmhUT0hPUDlqQWhNMmRTX3hqNjFCOXRsMHJaa29rNl9xVDZzaERmR3pVZVR1NFF2ZXFvSC0wS0J1cFJUYWlUTXhHYVFzWHB6SE5vZzRaTFd5ZmlMUlhwNDI1ZndhTXc?oc=5
 
-- Jack Dorsey-led Block's shares fall 11% amid concerns over Square profitability
-  Shares of fintech Block fell 11.1% on Friday. Investors balked
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jack-dorsey-led-blocks-shares-fall-11-amid-concerns-over-square-profitability/articleshow/125164531.cms
+- Lenskart, PhysicsWallah, and Groww: GMP trends suggest up to 22% listing gains for 9 IPOs next week
+  Grey market trends indicate potential listing gains of 4–22% for nine upcoming IPOs next week. Lenskart, PhysicsWallah
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lenskart-physicswallah-and-groww-gmp-trends-suggest-up-to-22-listing-gains-for-9-ipos-next-week/slideshow/125179173.cms
 
-- Trump hints at India visit amid high-stakes trade deal talks - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUm
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUmxYM0dQdW9xU2Y5NDEwQ3hXbkVUdHZTa3JaM3VNZTU1ZmsxaUhRd1Bsam9RR1MyWlRUMUpfZEhqZG1aWnZsUFZhQzRuUXptQU1NRnMzYmpfQ0pB?oc=5
+- Groww IPO allotment date: Check status on MUFG Intime India and BSE; GMP holds steady
+  Groww’s Rs 6,632 crore IPO saw strong demand, with 17.6 times overall subscription. Investors can check allotment status via MUFG Intime
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/groww-ipo-allotment-date-check-status-on-mufg-intime-india-and-bse-gmp-holds-steady/articleshow/125178948.cms
 
-- School assembly news headlines, November 8: Top India, world, sports, business news - India Today
-  School assembly news headlines, November 8: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXpiT185aHF2QzJES1pXLUxIQmZXeGFham1uT3JYRnc5NlFVZTBUbEM2VkdGczRTRFlHX0JTUEd5b29BMExodGpfaWJaekozZjJUa1Nub3BvWm1jb001cGJsU2VRUnlRZ3dUUS1mU3dYUFpuVnFKbDZfZnNkcGdMaTNNUVd3RG1mUnhHQXEtVFZMcnkxVmtGdzJzSjNKSXV4bmoyX1VXejFCNE02R1dTU25CV3hqUG5NTUZRU2RCQXFabjc4X1dsTUdoTG5KVF9WTURYM0hwNE1EY0lnUkt0WTJWTkPSAeoBQVVfeXFMUHVLUFktMDBJekwxMV9HMERBaHVMNlQ3aXpLOXItU3lNSmJwMlFfUHNMVC10dDJ6SUFPS1pkTVQ0YXRtdGc4Zm4zVllBTk9oQW5GYkdiRXhZUzE1bVpNcGZTQWo2aFFRcUc0eXRwUlRyV2NieXFXYy1jc2hvS1BjTHRXSExlTlBtMGpBcEhJUl9GMndtRkVac21oWHljd2YtY3ljNUJnbjBnMkxxc1V1VElTM2R3bFA3VmFSVW1rQWM5ZEd3ZWdNOFRPTWVORkh3WDVpMThlV1l6RDBjOTFKMjR6RmtXdm13cENn?oc=5
+- Scared of the AI bubble? Hedge your fears with D-St bets: HSBC
+  HSBC is positive on Indian equities, setting a 2026 Sensex target of 94,000. India offers value compared to Chinese equities. Increased investment could significantly benefit India.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/scared-of-the-ai-bubble-hedge-your-fears-with-d-st-bets-hsbc/articleshow/125178737.cms
 
-- India hits out at Pakistan’s ‘illegal nuclear’ history; Delhi CM orders staggered timings for government offices in view of air pollution, and more - The Hindu
-  India hits out at Pakistan’s ‘illegal nuclear’ history. Delhi CM orders staggered timings
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFNVekdkYmxfUWlaSjBWejNkeVBiWVFpYnJFUFlxdjRPYW44Wk8wbGpzOWktWml1SEtZT1hpdko2SkR6emNDUzFlbHRkSGRQMkxHSEJ3RjYwdktCelNiNjZfWVNZbkNiOVNYWkVZMEdaa0Z1UjRQUUk3RWZkMDRvYzF6b01aV3PSAY4BQVVfeXFMTlFIOHVZWmVjX3VOUlRJWUZwU3FIcGl6OVItcE95RTR5SGc1UWc2dkVfQ0U0MjliQ2FjTjlxTWp5cWtXT1NwNmZydGZmWTYzWjJJcWZqLUhkcWRNYUx1aDNfS255WXlnMVhPSGVjVmhJTDBWLUdQdHJwZXdobEU2VlZyS2h1RnAwRldjUWxUQQ?oc=5
+- Torrent Pharma Q2 PAT jumps 30% YoY to Rs 591 crore
+  Torrent Pharmaceuticals has disclosed a staggering 30% rise in after-tax profit for the September quarter. This impressive growth is attributed to thriving sales in various markets, which escalated their total revenue
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/torrent-pharma-q2-pat-jumps-30-yoy-to-rs-591-crore/articleshow/125178686.cms
 
-- Panel seeks higher protection for Rhesus Macaque under Wildlife Act - The Indian Express
-  Panel seeks higher protection for Rhesus Macaque
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEJ1bGdmeE5zaXEtcmJtRkZmT1NpTXJtYzRSZmJGVDFvOWZsNUtZemZ4QUFxMVh5Q1RtRlJzVHBUUUFTTHYtdzQ5MzNNOGFJUWpXVlJxNU10YV9mNHVoWmdGeUJ3cHZ5X3JGNzFLU2JudzhERXVzTGQ2V0dIcGVibmNTb2VXMkhlV1Vyd1BKeEM0UWJfLXQ1ekVvZVZLUllfWktUakp2eWZjeDY2ak52akMwU0p2c2dr0gG_AUFVX3lxTE5SX1oyOWtzb1A4YkQ3cVB2N216eDFMMFdoSU1DdWROM2FJejhONEhTYnJPT0xnc1oydjhmVWxXLUtLS1ZNWlM4bjdkcjNidWpRRTVIbVY5MURidG5QWVhDMml2Qm1DVS1ybXNQcERxQVhrb0x6ZlhSWGs0UHFoUXk4Zm1BSGxieXJtamExWDZ2YnNYYTRMeG1RN19nYS1uMV90MjRBek9uTXRIdldaMVZBUXV1M0NFR2pJTlpkMW9J?oc=5
+- Time Technoplast floats QIP for Rs 800 crore
+  Time Technoplast, a polymer product maker, is raising funds through a qualified institutional placement. This move will dilute nearly 8.8% of its equity. The issue opens on November 6 at a floor price of ₹
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/time-technoplast-floats-qip-for-rs-800-crore/articleshow/125178646.cms
 
-- Ex-CIA Officer's Claim On Secret India-Israel Plan To Strike Pak Nuke Site - NDTV
-  Ex-CIA Officer's Claim On Secret India-
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUjJvcVRWY1U0NWtMVGtJY0tnYmVRRWprM1Q4dHdscXFIZWc2bXBOay1lQjFqbjRPTXBsSFVEdUR3OVRKZzRDeEJ4Ni1GaDVfaXIyb1pveDVQVEo3ZzJrcG5nVVRJRXlkNFBmOWM5OUV0S1MxSEFNQWRJTmpLRTBzXzJyYVhBdVlxY2t2Z3ROc09fcFExUnVOZHk1aUtuN1B2MFVpeWxKVW8yRnRVUC0xVS1iclpxSEJRZy1FbF9OU0VnUkxKOGRaNlBjR2haN3ZBck9PdjN4QkdXbHpvanVQSWR6aUdUalNsR2pWQUZzX2NoRjBhNEtR0gH_AUFVX3lxTE4zejZ4dk5TNWo5U2U1Y2NJR3NSa1NpQkd6X1J3OE56QXBDU0tDUF9FZ0w2TlRoc1BudmcwcFVJVWNGMktJRnFNV1NQTUw1ekdRRmxKUGs0V0txOVRUVFl4dnNXdmR6dHVkbnRkdk56ZEQzTDhWbGVibXNHMDBudmJXcDJseldWOVJ4SG1zdW55V2VRQjhnZV9yZzZ0QjdWRVVFRjl1c0xublhwZWVxbWJXalgxSVFBQjRXWTBKOWF2VnlndjhRWkFYMUdZc2ZVTFJtekV0UFFDNWI4UE9CWmVyTDdpN3QzVXBqZFpxcHFrdHdPb0ZoMXk3ZmJUdEdUNA?oc=5
+- Grateful to Indian people for providing me with safe haven: Sheikh Hasina | India News - Hindustan Times
+  Sheikh Hasina: Indian people for providing me with safe
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZkRCd3lPMXc1OEFldFpaYU1vdF9faHZlVnV1ZDB0VVc1MElicGp6QXNldnhIdXQzQTBBR3pqUDFsTGdiT3I1eVk0UjRuUm1hNVlwM2tNRy1wZFlqc2RXQjdGOUNrZFdwbXlMSzZxWmxCLVdUOE90YkNsdFRVZDluYVlTYzFpbnlFWUVqbVk3TUVra0lIYUxzNWV3eDhENU5MRnhQSDJyT2lxLXJ5eC1qSGpTNnlWRjB5d3NzTllDNjRTbEJnUWxUZllmWTh1YjM20gHWAUFVX3lxTE1LYXNxdERFRnZuV0t0V1hLY0szYmJ0QWs1MDRmT0RheFY4eEE4VHZjRXAxSS13Z1ZwYm5OaEx6Ny04U0NiVktoV1NrdkYxdnRwVEN6RmJvU21xSFRJSEtTSWt3dkdtaTlWUVhHT2laTjlBLUwzYkk0dUFMRXNFbkVpbVByemVLUm4yWEZOQVc5ZWRiM0tNaUJZSVVLWXBlWFEwRWFoR1ozRXRlQ2FqVFZPRlRjb2QwVnBhSWVwb1hzU0toN19BaThFbjNpSm85ZkVPcWlyWmc?oc=5
 
-- Trump hints at India visit amid high-stakes trade deal talks - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUm
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUmxYM0dQdW9xU2Y5NDEwQ3hXbkVUdHZTa3JaM3VNZTU1ZmsxaUhRd1Bsam9RR1MyWlRUMUpfZEhqZG1aWnZsUFZhQzRuUXptQU1NRnMzYmpfQ0pB?oc=5
+- "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
+  "8 Planes Shot Down": Trump Updates Key Figure
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3F1T1VfaU83YmV1RHhBdWlyeTFjZ0ZhaVBFa3lsR1p1N05vc2pCT2ZDRFJ4dDcwc2RpeEI4UmRzVEEwc2RsWkxzVmRTbThVZ2tRTnp1MEpKTkp6TFd3ZUJBU185ZG9hT0hHVlBfaDVJeW9LWHVWdkoxSzZFOVYyRklUVzVFVHoxTGw2TUc2S190cVdMeHRLZ1J1Y0xSa1BCbGxZeDNXNnZDdTNjZEdsakJISUN3SzRRM0tHTTdOYXTSAcgBQVVfeXFMTV9JUDBEWkNlX3R5MjlITlNhTnQySXZ6V1BZN0RsVnl0cTlRd1U1OTBzcU1oNllFdjhjc0VkSWVvTUE1UEIyWGw5c1BHaG1ObVZCTzhnc243WUlvczdMZ1Z3a0I1dWNiTFdSelE3T1FXNjJSRkh5TGprZ0pTc0hmbmZKRkd5RnJKaXV6Y254N1hzaDJmR0w5NlcyaDNlRktsdjRGZmt0MkVFLVJyVkpBMldMOEZTTFNwbUszcUl3SXJOTXlPUlEwSWE?oc=5
 
-- School assembly news headlines, November 8: Top India, world, sports, business news - India Today
-  School assembly news headlines, November 8: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXpiT185aHF2QzJES1pXLUxIQmZXeGFham1uT3JYRnc5NlFVZTBUbEM2VkdGczRTRFlHX0JTUEd5b29BMExodGpfaWJaekozZjJUa1Nub3BvWm1jb001cGJsU2VRUnlRZ3dUUS1mU3dYUFpuVnFKbDZfZnNkcGdMaTNNUVd3RG1mUnhHQXEtVFZMcnkxVmtGdzJzSjNKSXV4bmoyX1VXejFCNE02R1dTU25CV3hqUG5NTUZRU2RCQXFabjc4X1dsTUdoTG5KVF9WTURYM0hwNE1EY0lnUkt0WTJWTkPSAeoBQVVfeXFMUHVLUFktMDBJekwxMV9HMERBaHVMNlQ3aXpLOXItU3lNSmJwMlFfUHNMVC10dDJ6SUFPS1pkTVQ0YXRtdGc4Zm4zVllBTk9oQW5GYkdiRXhZUzE1bVpNcGZTQWo2aFFRcUc0eXRwUlRyV2NieXFXYy1jc2hvS1BjTHRXSExlTlBtMGpBcEhJUl9GMndtRkVac21oWHljd2YtY3ljNUJnbjBnMkxxc1V1VElTM2R3bFA3VmFSVW1rQWM5ZEd3ZWdNOFRPTWVORkh3WDVpMThlV1l6RDBjOTFKMjR6RmtXdm13cENn?oc=5
+- Electric mobility is a vibrant sector and we are ecosystem builders: Shilpa Kumar, India Head, British International Investment - The Indian Express
+  Electric mobility is a vibrant sector and we are ecosystem builders: Shilpa Kumar, India
+  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxONEdnVnVpOGdwMUVtN1lIcFZTcWszR2tXYTBnUGgzUGxiREw3N0ZGRnFxWjlVd3YtUlJzUTlBU2lEVXd1Vk5qME9BeFRZalhSYWtQTGpWSVl6blVoVUJBeVhFcDFKQnhWa0hoeUlSVjgwSXpyNy01VGszcXdVeUlXS3hSbW9PU2E5b1h6aGY5SnhRUEJjRnlJTWNJb1Q3X3FEMHZZQWJCRjMtRGlfSWlxalVGbmFsVFVBbEVVem4wUUxFWHBxZDd4Qk96d3Y5SmpOT0lVZXRDRXBXejduUk9IQjlCeDVCdWNhaDkxYk9BTEMyWUY2U1JvellubFFvY3M5aURFMmlySklUZFh0SkJ2UmxsYmVnNzNjYnpBVHBfMWdrdVNHT3c40gGuAkFVX3lxTE8wUTQycFdMNV9YeHBoQW5CYUdqYmJwdmFDTW5UTXIzTmpfV0ZjYzdtb1lJYUpsMFFLMklLQnhKRXFsdUdfWHlxdGZwNENSZGplVkdqcUhIZE9zSEdQQVBrTDhkanY2dllaUE5Qa21QOXFVX2VFT1h1bi0zVUtJRTNjWERUMjc1TkVqcllnenhQLVpLZGI4LXc4c1FjRGpXM0c3WEhmWjFjVTRTRGJidGF4SEhoeGtHLUtjZktST3hnLUpuc1BiRGJRdlpoaGQzT1BheTJhSndjR29EaUNMamlvbWNqSUtleEVNb2UtTFJPMzlBdmFidzFqeEhVb3kzdW5DMGVPVktDeUFqQWF3b1QyTWNjWDdBVkpDcDFDUUxEbHRONjAtc01ZUmdaMTJB?oc=5
 
-- India hits out at Pakistan’s ‘illegal nuclear’ history; Delhi CM orders staggered timings for government offices in view of air pollution, and more - The Hindu
-  India hits out at Pakistan’s ‘illegal nuclear’ history. Delhi CM orders staggered timings
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFNVekdkYmxfUWlaSjBWejNkeVBiWVFpYnJFUFlxdjRPYW44Wk8wbGpzOWktWml1SEtZT1hpdko2SkR6emNDUzFlbHRkSGRQMkxHSEJ3RjYwdktCelNiNjZfWVNZbkNiOVNYWkVZMEdaa0Z1UjRQUUk3RWZkMDRvYzF6b01aV3PSAY4BQVVfeXFMTlFIOHVZWmVjX3VOUlRJWUZwU3FIcGl6OVItcE95RTR5SGc1UWc2dkVfQ0U0MjliQ2FjTjlxTWp5cWtXT1NwNmZydGZmWTYzWjJJcWZqLUhkcWRNYUx1aDNfS255WXlnMVhPSGVjVmhJTDBWLUdQdHJwZXdobEU2VlZyS2h1RnAwRldjUWxUQQ?oc=5
+- 'Getting Future-Ready': Indian Army Highlights Modernisation Drive In New Video - News18
+  'Getting Future-Ready': Indian Army
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPREtCY0hmRzR4Ym5wTXd4dWozSjN4VE55R1llcWZUczNhNEd1RkFSb0FJSS1RSDN2STgxS3NNNXRBLWhfVkpaalBwcDhsYXlrWXZYT2dLS3Fmb3lzb2w2U18tRVFKbUs5SkFkX1RxeEhWaGhXUmc0LXE1S0E5c2xBWmdMM3NOYTVzRngyTUR1cGsxdUp1OHBTUkRDS21NbFRGMk9UTk1VdU9rMWJ5NVB4ZkcwX3pyTkV2c0dVaHREY3TSAcYBQVVfeXFMTUVLSXFYc1RxRk4zbG1QZGY1VS1zQkFSSU1VODNKbm1tTWlzWGJFc3RfUXBKcndpTUZNSVFudkh3RURsNlpVVXNKOERIOUpUQUtFVXZpWXl6YlhPTjF6dnlrYXdqTXEybVhJUEVtODM2WXJYYThVUmxxMGVLSTkzM2tSdGZvLWZZYWxVVU9sbGg4LUpEbG9TOHI2c2ZoS2dvUnBzNDJkQTZrU2QwbzZSdDFXNUFRRURGdU5RR1NqLUVTa3J0MW5R?oc=5
 
-- Panel seeks higher protection for Rhesus Macaque under Wildlife Act - The Indian Express
-  Panel seeks higher protection for Rhesus Macaque
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEJ1bGdmeE5zaXEtcmJtRkZmT1NpTXJtYzRSZmJGVDFvOWZsNUtZemZ4QUFxMVh5Q1RtRlJzVHBUUUFTTHYtdzQ5MzNNOGFJUWpXVlJxNU10YV9mNHVoWmdGeUJ3cHZ5X3JGNzFLU2JudzhERXVzTGQ2V0dIcGVibmNTb2VXMkhlV1Vyd1BKeEM0UWJfLXQ1ekVvZVZLUllfWktUakp2eWZjeDY2ak52akMwU0p2c2dr0gG_AUFVX3lxTE5SX1oyOWtzb1A4YkQ3cVB2N216eDFMMFdoSU1DdWROM2FJejhONEhTYnJPT0xnc1oydjhmVWxXLUtLS1ZNWlM4bjdkcjNidWpRRTVIbVY5MURidG5QWVhDMml2Qm1DVS1ybXNQcERxQVhrb0x6ZlhSWGs0UHFoUXk4Zm1BSGxieXJtamExWDZ2YnNYYTRMeG1RN19nYS1uMV90MjRBek9uTXRIdldaMVZBUXV1M0NFR2pJTlpkMW9J?oc=5
+- PM Modi To Flag Off 4 New Vande Bharat Trains. Check Routes - NDTV
+  PM Modi To Flag Off 4 New Vande Bhar
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNWRtTFc2ajQzcmpQLW43Tkw3RW9nWklxdEpMbkExVjYxanJWcENSQk5DQW5DVG5rSTN4Vlc1enJXM3pQVlFOMHhHSFg2MHg0LVpwVkdxM3czaTBmc095TkdrWDRodHRILW8wN1pLUFFGTTFrdUdmcXJLVXRsS2dKUnZwXzlzU011UWktZU8zYjdydDMzYTVzdHpQcGtabzR4VG9SQ3A2aHIzd2hUYlBDRmRidkt2WjRqb3h30gHDAUFVX3lxTE5ldU1jdHdILWhKbENwQmY2TGdRLUhxQVhGS1I4RUJZWnZMdnlCS2NWUVp5RklRU1EtRXlEQjl0amtEaWJlMndxVnI2OG5oTml3Yk1MZjN3Rk1HX3hUMEhsaE54aGp2UmJhR05ON0gtLWdYSkd3V2VENlJ5cFdzdW4zMlc0ZTJNbjN1RWtXdE91UE1zWGh1N3lyMHRoNThsWXRKbUNQMEZDX1NqZEhDeWZVVEw1bm9Kd1pHWkRiRzIzaDk4MA?oc=5
 
-- Ex-CIA Officer's Claim On Secret India-Israel Plan To Strike Pak Nuke Site - NDTV
-  Ex-CIA Officer's Claim On Secret India-
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUjJvcVRWY1U0NWtMVGtJY0tnYmVRRWprM1Q4dHdscXFIZWc2bXBOay1lQjFqbjRPTXBsSFVEdUR3OVRKZzRDeEJ4Ni1GaDVfaXIyb1pveDVQVEo3ZzJrcG5nVVRJRXlkNFBmOWM5OUV0S1MxSEFNQWRJTmpLRTBzXzJyYVhBdVlxY2t2Z3ROc09fcFExUnVOZHk1aUtuN1B2MFVpeWxKVW8yRnRVUC0xVS1iclpxSEJRZy1FbF9OU0VnUkxKOGRaNlBjR2haN3ZBck9PdjN4QkdXbHpvanVQSWR6aUdUalNsR2pWQUZzX2NoRjBhNEtR0gH_AUFVX3lxTE4zejZ4dk5TNWo5U2U1Y2NJR3NSa1NpQkd6X1J3OE56QXBDU0tDUF9FZ0w2TlRoc1BudmcwcFVJVWNGMktJRnFNV1NQTUw1ekdRRmxKUGs0V0txOVRUVFl4dnNXdmR6dHVkbnRkdk56ZEQzTDhWbGVibXNHMDBudmJXcDJseldWOVJ4SG1zdW55V2VRQjhnZV9yZzZ0QjdWRVVFRjl1c0xublhwZWVxbWJXalgxSVFBQjRXWTBKOWF2VnlndjhRWkFYMUdZc2ZVTFJtekV0UFFDNWI4UE9CWmVyTDdpN3QzVXBqZFpxcHFrdHdPb0ZoMXk3ZmJUdEdUNA?oc=5
+- Grateful to Indian people for providing me with safe haven: Sheikh Hasina | India News - Hindustan Times
+  Sheikh Hasina: Indian people for providing me with safe
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZkRCd3lPMXc1OEFldFpaYU1vdF9faHZlVnV1ZDB0VVc1MElicGp6QXNldnhIdXQzQTBBR3pqUDFsTGdiT3I1eVk0UjRuUm1hNVlwM2tNRy1wZFlqc2RXQjdGOUNrZFdwbXlMSzZxWmxCLVdUOE90YkNsdFRVZDluYVlTYzFpbnlFWUVqbVk3TUVra0lIYUxzNWV3eDhENU5MRnhQSDJyT2lxLXJ5eC1qSGpTNnlWRjB5d3NzTllDNjRTbEJnUWxUZllmWTh1YjM20gHWAUFVX3lxTE1LYXNxdERFRnZuV0t0V1hLY0szYmJ0QWs1MDRmT0RheFY4eEE4VHZjRXAxSS13Z1ZwYm5OaEx6Ny04U0NiVktoV1NrdkYxdnRwVEN6RmJvU21xSFRJSEtTSWt3dkdtaTlWUVhHT2laTjlBLUwzYkk0dUFMRXNFbkVpbVByemVLUm4yWEZOQVc5ZWRiM0tNaUJZSVVLWXBlWFEwRWFoR1ozRXRlQ2FqVFZPRlRjb2QwVnBhSWVwb1hzU0toN19BaThFbjNpSm85ZkVPcWlyWmc?oc=5
 
-- Trump hints at India visit amid high-stakes trade deal talks - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUm
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUmxYM0dQdW9xU2Y5NDEwQ3hXbkVUdHZTa3JaM3VNZTU1ZmsxaUhRd1Bsam9RR1MyWlRUMUpfZEhqZG1aWnZsUFZhQzRuUXptQU1NRnMzYmpfQ0pB?oc=5
+- "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
+  "8 Planes Shot Down": Trump Updates Key Figure
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3F1T1VfaU83YmV1RHhBdWlyeTFjZ0ZhaVBFa3lsR1p1N05vc2pCT2ZDRFJ4dDcwc2RpeEI4UmRzVEEwc2RsWkxzVmRTbThVZ2tRTnp1MEpKTkp6TFd3ZUJBU185ZG9hT0hHVlBfaDVJeW9LWHVWdkoxSzZFOVYyRklUVzVFVHoxTGw2TUc2S190cVdMeHRLZ1J1Y0xSa1BCbGxZeDNXNnZDdTNjZEdsakJISUN3SzRRM0tHTTdOYXTSAcgBQVVfeXFMTV9JUDBEWkNlX3R5MjlITlNhTnQySXZ6V1BZN0RsVnl0cTlRd1U1OTBzcU1oNllFdjhjc0VkSWVvTUE1UEIyWGw5c1BHaG1ObVZCTzhnc243WUlvczdMZ1Z3a0I1dWNiTFdSelE3T1FXNjJSRkh5TGprZ0pTc0hmbmZKRkd5RnJKaXV6Y254N1hzaDJmR0w5NlcyaDNlRktsdjRGZmt0MkVFLVJyVkpBMldMOEZTTFNwbUszcUl3SXJOTXlPUlEwSWE?oc=5
 
-- School assembly news headlines, November 8: Top India, world, sports, business news - India Today
-  School assembly news headlines, November 8: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXpiT185aHF2QzJES1pXLUxIQmZXeGFham1uT3JYRnc5NlFVZTBUbEM2VkdGczRTRFlHX0JTUEd5b29BMExodGpfaWJaekozZjJUa1Nub3BvWm1jb001cGJsU2VRUnlRZ3dUUS1mU3dYUFpuVnFKbDZfZnNkcGdMaTNNUVd3RG1mUnhHQXEtVFZMcnkxVmtGdzJzSjNKSXV4bmoyX1VXejFCNE02R1dTU25CV3hqUG5NTUZRU2RCQXFabjc4X1dsTUdoTG5KVF9WTURYM0hwNE1EY0lnUkt0WTJWTkPSAeoBQVVfeXFMUHVLUFktMDBJekwxMV9HMERBaHVMNlQ3aXpLOXItU3lNSmJwMlFfUHNMVC10dDJ6SUFPS1pkTVQ0YXRtdGc4Zm4zVllBTk9oQW5GYkdiRXhZUzE1bVpNcGZTQWo2aFFRcUc0eXRwUlRyV2NieXFXYy1jc2hvS1BjTHRXSExlTlBtMGpBcEhJUl9GMndtRkVac21oWHljd2YtY3ljNUJnbjBnMkxxc1V1VElTM2R3bFA3VmFSVW1rQWM5ZEd3ZWdNOFRPTWVORkh3WDVpMThlV1l6RDBjOTFKMjR6RmtXdm13cENn?oc=5
+- Electric mobility is a vibrant sector and we are ecosystem builders: Shilpa Kumar, India Head, British International Investment - The Indian Express
+  Electric mobility is a vibrant sector and we are ecosystem builders: Shilpa Kumar, India
+  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxONEdnVnVpOGdwMUVtN1lIcFZTcWszR2tXYTBnUGgzUGxiREw3N0ZGRnFxWjlVd3YtUlJzUTlBU2lEVXd1Vk5qME9BeFRZalhSYWtQTGpWSVl6blVoVUJBeVhFcDFKQnhWa0hoeUlSVjgwSXpyNy01VGszcXdVeUlXS3hSbW9PU2E5b1h6aGY5SnhRUEJjRnlJTWNJb1Q3X3FEMHZZQWJCRjMtRGlfSWlxalVGbmFsVFVBbEVVem4wUUxFWHBxZDd4Qk96d3Y5SmpOT0lVZXRDRXBXejduUk9IQjlCeDVCdWNhaDkxYk9BTEMyWUY2U1JvellubFFvY3M5aURFMmlySklUZFh0SkJ2UmxsYmVnNzNjYnpBVHBfMWdrdVNHT3c40gGuAkFVX3lxTE8wUTQycFdMNV9YeHBoQW5CYUdqYmJwdmFDTW5UTXIzTmpfV0ZjYzdtb1lJYUpsMFFLMklLQnhKRXFsdUdfWHlxdGZwNENSZGplVkdqcUhIZE9zSEdQQVBrTDhkanY2dllaUE5Qa21QOXFVX2VFT1h1bi0zVUtJRTNjWERUMjc1TkVqcllnenhQLVpLZGI4LXc4c1FjRGpXM0c3WEhmWjFjVTRTRGJidGF4SEhoeGtHLUtjZktST3hnLUpuc1BiRGJRdlpoaGQzT1BheTJhSndjR29EaUNMamlvbWNqSUtleEVNb2UtTFJPMzlBdmFidzFqeEhVb3kzdW5DMGVPVktDeUFqQWF3b1QyTWNjWDdBVkpDcDFDUUxEbHRONjAtc01ZUmdaMTJB?oc=5
 
-- India hits out at Pakistan’s ‘illegal nuclear’ history; Delhi CM orders staggered timings for government offices in view of air pollution, and more - The Hindu
-  India hits out at Pakistan’s ‘illegal nuclear’ history. Delhi CM orders staggered timings
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFNVekdkYmxfUWlaSjBWejNkeVBiWVFpYnJFUFlxdjRPYW44Wk8wbGpzOWktWml1SEtZT1hpdko2SkR6emNDUzFlbHRkSGRQMkxHSEJ3RjYwdktCelNiNjZfWVNZbkNiOVNYWkVZMEdaa0Z1UjRQUUk3RWZkMDRvYzF6b01aV3PSAY4BQVVfeXFMTlFIOHVZWmVjX3VOUlRJWUZwU3FIcGl6OVItcE95RTR5SGc1UWc2dkVfQ0U0MjliQ2FjTjlxTWp5cWtXT1NwNmZydGZmWTYzWjJJcWZqLUhkcWRNYUx1aDNfS255WXlnMVhPSGVjVmhJTDBWLUdQdHJwZXdobEU2VlZyS2h1RnAwRldjUWxUQQ?oc=5
+- 'Getting Future-Ready': Indian Army Highlights Modernisation Drive In New Video - News18
+  'Getting Future-Ready': Indian Army
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPREtCY0hmRzR4Ym5wTXd4dWozSjN4VE55R1llcWZUczNhNEd1RkFSb0FJSS1RSDN2STgxS3NNNXRBLWhfVkpaalBwcDhsYXlrWXZYT2dLS3Fmb3lzb2w2U18tRVFKbUs5SkFkX1RxeEhWaGhXUmc0LXE1S0E5c2xBWmdMM3NOYTVzRngyTUR1cGsxdUp1OHBTUkRDS21NbFRGMk9UTk1VdU9rMWJ5NVB4ZkcwX3pyTkV2c0dVaHREY3TSAcYBQVVfeXFMTUVLSXFYc1RxRk4zbG1QZGY1VS1zQkFSSU1VODNKbm1tTWlzWGJFc3RfUXBKcndpTUZNSVFudkh3RURsNlpVVXNKOERIOUpUQUtFVXZpWXl6YlhPTjF6dnlrYXdqTXEybVhJUEVtODM2WXJYYThVUmxxMGVLSTkzM2tSdGZvLWZZYWxVVU9sbGg4LUpEbG9TOHI2c2ZoS2dvUnBzNDJkQTZrU2QwbzZSdDFXNUFRRURGdU5RR1NqLUVTa3J0MW5R?oc=5
 
-- Panel seeks higher protection for Rhesus Macaque under Wildlife Act - The Indian Express
-  Panel seeks higher protection for Rhesus Macaque
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEJ1bGdmeE5zaXEtcmJtRkZmT1NpTXJtYzRSZmJGVDFvOWZsNUtZemZ4QUFxMVh5Q1RtRlJzVHBUUUFTTHYtdzQ5MzNNOGFJUWpXVlJxNU10YV9mNHVoWmdGeUJ3cHZ5X3JGNzFLU2JudzhERXVzTGQ2V0dIcGVibmNTb2VXMkhlV1Vyd1BKeEM0UWJfLXQ1ekVvZVZLUllfWktUakp2eWZjeDY2ak52akMwU0p2c2dr0gG_AUFVX3lxTE5SX1oyOWtzb1A4YkQ3cVB2N216eDFMMFdoSU1DdWROM2FJejhONEhTYnJPT0xnc1oydjhmVWxXLUtLS1ZNWlM4bjdkcjNidWpRRTVIbVY5MURidG5QWVhDMml2Qm1DVS1ybXNQcERxQVhrb0x6ZlhSWGs0UHFoUXk4Zm1BSGxieXJtamExWDZ2YnNYYTRMeG1RN19nYS1uMV90MjRBek9uTXRIdldaMVZBUXV1M0NFR2pJTlpkMW9J?oc=5
+- PM Modi To Flag Off 4 New Vande Bharat Trains. Check Routes - NDTV
+  PM Modi To Flag Off 4 New Vande Bhar
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNWRtTFc2ajQzcmpQLW43Tkw3RW9nWklxdEpMbkExVjYxanJWcENSQk5DQW5DVG5rSTN4Vlc1enJXM3pQVlFOMHhHSFg2MHg0LVpwVkdxM3czaTBmc095TkdrWDRodHRILW8wN1pLUFFGTTFrdUdmcXJLVXRsS2dKUnZwXzlzU011UWktZU8zYjdydDMzYTVzdHpQcGtabzR4VG9SQ3A2aHIzd2hUYlBDRmRidkt2WjRqb3h30gHDAUFVX3lxTE5ldU1jdHdILWhKbENwQmY2TGdRLUhxQVhGS1I4RUJZWnZMdnlCS2NWUVp5RklRU1EtRXlEQjl0amtEaWJlMndxVnI2OG5oTml3Yk1MZjN3Rk1HX3hUMEhsaE54aGp2UmJhR05ON0gtLWdYSkd3V2VENlJ5cFdzdW4zMlc0ZTJNbjN1RWtXdE91UE1zWGh1N3lyMHRoNThsWXRKbUNQMEZDX1NqZEhDeWZVVEw1bm9Kd1pHWkRiRzIzaDk4MA?oc=5
 
-- Ex-CIA Officer's Claim On Secret India-Israel Plan To Strike Pak Nuke Site - NDTV
-  Ex-CIA Officer's Claim On Secret India-
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUjJvcVRWY1U0NWtMVGtJY0tnYmVRRWprM1Q4dHdscXFIZWc2bXBOay1lQjFqbjRPTXBsSFVEdUR3OVRKZzRDeEJ4Ni1GaDVfaXIyb1pveDVQVEo3ZzJrcG5nVVRJRXlkNFBmOWM5OUV0S1MxSEFNQWRJTmpLRTBzXzJyYVhBdVlxY2t2Z3ROc09fcFExUnVOZHk1aUtuN1B2MFVpeWxKVW8yRnRVUC0xVS1iclpxSEJRZy1FbF9OU0VnUkxKOGRaNlBjR2haN3ZBck9PdjN4QkdXbHpvanVQSWR6aUdUalNsR2pWQUZzX2NoRjBhNEtR0gH_AUFVX3lxTE4zejZ4dk5TNWo5U2U1Y2NJR3NSa1NpQkd6X1J3OE56QXBDU0tDUF9FZ0w2TlRoc1BudmcwcFVJVWNGMktJRnFNV1NQTUw1ekdRRmxKUGs0V0txOVRUVFl4dnNXdmR6dHVkbnRkdk56ZEQzTDhWbGVibXNHMDBudmJXcDJseldWOVJ4SG1zdW55V2VRQjhnZV9yZzZ0QjdWRVVFRjl1c0xublhwZWVxbWJXalgxSVFBQjRXWTBKOWF2VnlndjhRWkFYMUdZc2ZVTFJtekV0UFFDNWI4UE9CWmVyTDdpN3QzVXBqZFpxcHFrdHdPb0ZoMXk3ZmJUdEdUNA?oc=5
+- Grateful to Indian people for providing me with safe haven: Sheikh Hasina | India News - Hindustan Times
+  Sheikh Hasina: Indian people for providing me with safe
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZkRCd3lPMXc1OEFldFpaYU1vdF9faHZlVnV1ZDB0VVc1MElicGp6QXNldnhIdXQzQTBBR3pqUDFsTGdiT3I1eVk0UjRuUm1hNVlwM2tNRy1wZFlqc2RXQjdGOUNrZFdwbXlMSzZxWmxCLVdUOE90YkNsdFRVZDluYVlTYzFpbnlFWUVqbVk3TUVra0lIYUxzNWV3eDhENU5MRnhQSDJyT2lxLXJ5eC1qSGpTNnlWRjB5d3NzTllDNjRTbEJnUWxUZllmWTh1YjM20gHWAUFVX3lxTE1LYXNxdERFRnZuV0t0V1hLY0szYmJ0QWs1MDRmT0RheFY4eEE4VHZjRXAxSS13Z1ZwYm5OaEx6Ny04U0NiVktoV1NrdkYxdnRwVEN6RmJvU21xSFRJSEtTSWt3dkdtaTlWUVhHT2laTjlBLUwzYkk0dUFMRXNFbkVpbVByemVLUm4yWEZOQVc5ZWRiM0tNaUJZSVVLWXBlWFEwRWFoR1ozRXRlQ2FqVFZPRlRjb2QwVnBhSWVwb1hzU0toN19BaThFbjNpSm85ZkVPcWlyWmc?oc=5
 
-- Trump hints at India visit amid high-stakes trade deal talks - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUm
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUmxYM0dQdW9xU2Y5NDEwQ3hXbkVUdHZTa3JaM3VNZTU1ZmsxaUhRd1Bsam9RR1MyWlRUMUpfZEhqZG1aWnZsUFZhQzRuUXptQU1NRnMzYmpfQ0pB?oc=5
+- "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
+  "8 Planes Shot Down": Trump Updates Key Figure
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3F1T1VfaU83YmV1RHhBdWlyeTFjZ0ZhaVBFa3lsR1p1N05vc2pCT2ZDRFJ4dDcwc2RpeEI4UmRzVEEwc2RsWkxzVmRTbThVZ2tRTnp1MEpKTkp6TFd3ZUJBU185ZG9hT0hHVlBfaDVJeW9LWHVWdkoxSzZFOVYyRklUVzVFVHoxTGw2TUc2S190cVdMeHRLZ1J1Y0xSa1BCbGxZeDNXNnZDdTNjZEdsakJISUN3SzRRM0tHTTdOYXTSAcgBQVVfeXFMTV9JUDBEWkNlX3R5MjlITlNhTnQySXZ6V1BZN0RsVnl0cTlRd1U1OTBzcU1oNllFdjhjc0VkSWVvTUE1UEIyWGw5c1BHaG1ObVZCTzhnc243WUlvczdMZ1Z3a0I1dWNiTFdSelE3T1FXNjJSRkh5TGprZ0pTc0hmbmZKRkd5RnJKaXV6Y254N1hzaDJmR0w5NlcyaDNlRktsdjRGZmt0MkVFLVJyVkpBMldMOEZTTFNwbUszcUl3SXJOTXlPUlEwSWE?oc=5
 
-- School assembly news headlines, November 8: Top India, world, sports, business news - India Today
-  School assembly news headlines, November 8: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXpiT185aHF2QzJES1pXLUxIQmZXeGFham1uT3JYRnc5NlFVZTBUbEM2VkdGczRTRFlHX0JTUEd5b29BMExodGpfaWJaekozZjJUa1Nub3BvWm1jb001cGJsU2VRUnlRZ3dUUS1mU3dYUFpuVnFKbDZfZnNkcGdMaTNNUVd3RG1mUnhHQXEtVFZMcnkxVmtGdzJzSjNKSXV4bmoyX1VXejFCNE02R1dTU25CV3hqUG5NTUZRU2RCQXFabjc4X1dsTUdoTG5KVF9WTURYM0hwNE1EY0lnUkt0WTJWTkPSAeoBQVVfeXFMUHVLUFktMDBJekwxMV9HMERBaHVMNlQ3aXpLOXItU3lNSmJwMlFfUHNMVC10dDJ6SUFPS1pkTVQ0YXRtdGc4Zm4zVllBTk9oQW5GYkdiRXhZUzE1bVpNcGZTQWo2aFFRcUc0eXRwUlRyV2NieXFXYy1jc2hvS1BjTHRXSExlTlBtMGpBcEhJUl9GMndtRkVac21oWHljd2YtY3ljNUJnbjBnMkxxc1V1VElTM2R3bFA3VmFSVW1rQWM5ZEd3ZWdNOFRPTWVORkh3WDVpMThlV1l6RDBjOTFKMjR6RmtXdm13cENn?oc=5
+- Electric mobility is a vibrant sector and we are ecosystem builders: Shilpa Kumar, India Head, British International Investment - The Indian Express
+  Electric mobility is a vibrant sector and we are ecosystem builders: Shilpa Kumar, India
+  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxONEdnVnVpOGdwMUVtN1lIcFZTcWszR2tXYTBnUGgzUGxiREw3N0ZGRnFxWjlVd3YtUlJzUTlBU2lEVXd1Vk5qME9BeFRZalhSYWtQTGpWSVl6blVoVUJBeVhFcDFKQnhWa0hoeUlSVjgwSXpyNy01VGszcXdVeUlXS3hSbW9PU2E5b1h6aGY5SnhRUEJjRnlJTWNJb1Q3X3FEMHZZQWJCRjMtRGlfSWlxalVGbmFsVFVBbEVVem4wUUxFWHBxZDd4Qk96d3Y5SmpOT0lVZXRDRXBXejduUk9IQjlCeDVCdWNhaDkxYk9BTEMyWUY2U1JvellubFFvY3M5aURFMmlySklUZFh0SkJ2UmxsYmVnNzNjYnpBVHBfMWdrdVNHT3c40gGuAkFVX3lxTE8wUTQycFdMNV9YeHBoQW5CYUdqYmJwdmFDTW5UTXIzTmpfV0ZjYzdtb1lJYUpsMFFLMklLQnhKRXFsdUdfWHlxdGZwNENSZGplVkdqcUhIZE9zSEdQQVBrTDhkanY2dllaUE5Qa21QOXFVX2VFT1h1bi0zVUtJRTNjWERUMjc1TkVqcllnenhQLVpLZGI4LXc4c1FjRGpXM0c3WEhmWjFjVTRTRGJidGF4SEhoeGtHLUtjZktST3hnLUpuc1BiRGJRdlpoaGQzT1BheTJhSndjR29EaUNMamlvbWNqSUtleEVNb2UtTFJPMzlBdmFidzFqeEhVb3kzdW5DMGVPVktDeUFqQWF3b1QyTWNjWDdBVkpDcDFDUUxEbHRONjAtc01ZUmdaMTJB?oc=5
 
-- India hits out at Pakistan’s ‘illegal nuclear’ history; Delhi CM orders staggered timings for government offices in view of air pollution, and more - The Hindu
-  India hits out at Pakistan’s ‘illegal nuclear’ history. Delhi CM orders staggered timings
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFNVekdkYmxfUWlaSjBWejNkeVBiWVFpYnJFUFlxdjRPYW44Wk8wbGpzOWktWml1SEtZT1hpdko2SkR6emNDUzFlbHRkSGRQMkxHSEJ3RjYwdktCelNiNjZfWVNZbkNiOVNYWkVZMEdaa0Z1UjRQUUk3RWZkMDRvYzF6b01aV3PSAY4BQVVfeXFMTlFIOHVZWmVjX3VOUlRJWUZwU3FIcGl6OVItcE95RTR5SGc1UWc2dkVfQ0U0MjliQ2FjTjlxTWp5cWtXT1NwNmZydGZmWTYzWjJJcWZqLUhkcWRNYUx1aDNfS255WXlnMVhPSGVjVmhJTDBWLUdQdHJwZXdobEU2VlZyS2h1RnAwRldjUWxUQQ?oc=5
+- 'Getting Future-Ready': Indian Army Highlights Modernisation Drive In New Video - News18
+  'Getting Future-Ready': Indian Army
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPREtCY0hmRzR4Ym5wTXd4dWozSjN4VE55R1llcWZUczNhNEd1RkFSb0FJSS1RSDN2STgxS3NNNXRBLWhfVkpaalBwcDhsYXlrWXZYT2dLS3Fmb3lzb2w2U18tRVFKbUs5SkFkX1RxeEhWaGhXUmc0LXE1S0E5c2xBWmdMM3NOYTVzRngyTUR1cGsxdUp1OHBTUkRDS21NbFRGMk9UTk1VdU9rMWJ5NVB4ZkcwX3pyTkV2c0dVaHREY3TSAcYBQVVfeXFMTUVLSXFYc1RxRk4zbG1QZGY1VS1zQkFSSU1VODNKbm1tTWlzWGJFc3RfUXBKcndpTUZNSVFudkh3RURsNlpVVXNKOERIOUpUQUtFVXZpWXl6YlhPTjF6dnlrYXdqTXEybVhJUEVtODM2WXJYYThVUmxxMGVLSTkzM2tSdGZvLWZZYWxVVU9sbGg4LUpEbG9TOHI2c2ZoS2dvUnBzNDJkQTZrU2QwbzZSdDFXNUFRRURGdU5RR1NqLUVTa3J0MW5R?oc=5
 
-- Panel seeks higher protection for Rhesus Macaque under Wildlife Act - The Indian Express
-  Panel seeks higher protection for Rhesus Macaque
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEJ1bGdmeE5zaXEtcmJtRkZmT1NpTXJtYzRSZmJGVDFvOWZsNUtZemZ4QUFxMVh5Q1RtRlJzVHBUUUFTTHYtdzQ5MzNNOGFJUWpXVlJxNU10YV9mNHVoWmdGeUJ3cHZ5X3JGNzFLU2JudzhERXVzTGQ2V0dIcGVibmNTb2VXMkhlV1Vyd1BKeEM0UWJfLXQ1ekVvZVZLUllfWktUakp2eWZjeDY2ak52akMwU0p2c2dr0gG_AUFVX3lxTE5SX1oyOWtzb1A4YkQ3cVB2N216eDFMMFdoSU1DdWROM2FJejhONEhTYnJPT0xnc1oydjhmVWxXLUtLS1ZNWlM4bjdkcjNidWpRRTVIbVY5MURidG5QWVhDMml2Qm1DVS1ybXNQcERxQVhrb0x6ZlhSWGs0UHFoUXk4Zm1BSGxieXJtamExWDZ2YnNYYTRMeG1RN19nYS1uMV90MjRBek9uTXRIdldaMVZBUXV1M0NFR2pJTlpkMW9J?oc=5
+- PM Modi To Flag Off 4 New Vande Bharat Trains. Check Routes - NDTV
+  PM Modi To Flag Off 4 New Vande Bhar
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNWRtTFc2ajQzcmpQLW43Tkw3RW9nWklxdEpMbkExVjYxanJWcENSQk5DQW5DVG5rSTN4Vlc1enJXM3pQVlFOMHhHSFg2MHg0LVpwVkdxM3czaTBmc095TkdrWDRodHRILW8wN1pLUFFGTTFrdUdmcXJLVXRsS2dKUnZwXzlzU011UWktZU8zYjdydDMzYTVzdHpQcGtabzR4VG9SQ3A2aHIzd2hUYlBDRmRidkt2WjRqb3h30gHDAUFVX3lxTE5ldU1jdHdILWhKbENwQmY2TGdRLUhxQVhGS1I4RUJZWnZMdnlCS2NWUVp5RklRU1EtRXlEQjl0amtEaWJlMndxVnI2OG5oTml3Yk1MZjN3Rk1HX3hUMEhsaE54aGp2UmJhR05ON0gtLWdYSkd3V2VENlJ5cFdzdW4zMlc0ZTJNbjN1RWtXdE91UE1zWGh1N3lyMHRoNThsWXRKbUNQMEZDX1NqZEhDeWZVVEw1bm9Kd1pHWkRiRzIzaDk4MA?oc=5
 
-- Ex-CIA Officer's Claim On Secret India-Israel Plan To Strike Pak Nuke Site - NDTV
-  Ex-CIA Officer's Claim On Secret India-
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUjJvcVRWY1U0NWtMVGtJY0tnYmVRRWprM1Q4dHdscXFIZWc2bXBOay1lQjFqbjRPTXBsSFVEdUR3OVRKZzRDeEJ4Ni1GaDVfaXIyb1pveDVQVEo3ZzJrcG5nVVRJRXlkNFBmOWM5OUV0S1MxSEFNQWRJTmpLRTBzXzJyYVhBdVlxY2t2Z3ROc09fcFExUnVOZHk1aUtuN1B2MFVpeWxKVW8yRnRVUC0xVS1iclpxSEJRZy1FbF9OU0VnUkxKOGRaNlBjR2haN3ZBck9PdjN4QkdXbHpvanVQSWR6aUdUalNsR2pWQUZzX2NoRjBhNEtR0gH_AUFVX3lxTE4zejZ4dk5TNWo5U2U1Y2NJR3NSa1NpQkd6X1J3OE56QXBDU0tDUF9FZ0w2TlRoc1BudmcwcFVJVWNGMktJRnFNV1NQTUw1ekdRRmxKUGs0V0txOVRUVFl4dnNXdmR6dHVkbnRkdk56ZEQzTDhWbGVibXNHMDBudmJXcDJseldWOVJ4SG1zdW55V2VRQjhnZV9yZzZ0QjdWRVVFRjl1c0xublhwZWVxbWJXalgxSVFBQjRXWTBKOWF2VnlndjhRWkFYMUdZc2ZVTFJtekV0UFFDNWI4UE9CWmVyTDdpN3QzVXBqZFpxcHFrdHdPb0ZoMXk3ZmJUdEdUNA?oc=5
+- Grateful to Indian people for providing me with safe haven: Sheikh Hasina | India News - Hindustan Times
+  Sheikh Hasina: Indian people for providing me with safe
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZkRCd3lPMXc1OEFldFpaYU1vdF9faHZlVnV1ZDB0VVc1MElicGp6QXNldnhIdXQzQTBBR3pqUDFsTGdiT3I1eVk0UjRuUm1hNVlwM2tNRy1wZFlqc2RXQjdGOUNrZFdwbXlMSzZxWmxCLVdUOE90YkNsdFRVZDluYVlTYzFpbnlFWUVqbVk3TUVra0lIYUxzNWV3eDhENU5MRnhQSDJyT2lxLXJ5eC1qSGpTNnlWRjB5d3NzTllDNjRTbEJnUWxUZllmWTh1YjM20gHWAUFVX3lxTE1LYXNxdERFRnZuV0t0V1hLY0szYmJ0QWs1MDRmT0RheFY4eEE4VHZjRXAxSS13Z1ZwYm5OaEx6Ny04U0NiVktoV1NrdkYxdnRwVEN6RmJvU21xSFRJSEtTSWt3dkdtaTlWUVhHT2laTjlBLUwzYkk0dUFMRXNFbkVpbVByemVLUm4yWEZOQVc5ZWRiM0tNaUJZSVVLWXBlWFEwRWFoR1ozRXRlQ2FqVFZPRlRjb2QwVnBhSWVwb1hzU0toN19BaThFbjNpSm85ZkVPcWlyWmc?oc=5
+
+- "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
+  "8 Planes Shot Down": Trump Updates Key Figure
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3F1T1VfaU83YmV1RHhBdWlyeTFjZ0ZhaVBFa3lsR1p1N05vc2pCT2ZDRFJ4dDcwc2RpeEI4UmRzVEEwc2RsWkxzVmRTbThVZ2tRTnp1MEpKTkp6TFd3ZUJBU185ZG9hT0hHVlBfaDVJeW9LWHVWdkoxSzZFOVYyRklUVzVFVHoxTGw2TUc2S190cVdMeHRLZ1J1Y0xSa1BCbGxZeDNXNnZDdTNjZEdsakJISUN3SzRRM0tHTTdOYXTSAcgBQVVfeXFMTV9JUDBEWkNlX3R5MjlITlNhTnQySXZ6V1BZN0RsVnl0cTlRd1U1OTBzcU1oNllFdjhjc0VkSWVvTUE1UEIyWGw5c1BHaG1ObVZCTzhnc243WUlvczdMZ1Z3a0I1dWNiTFdSelE3T1FXNjJSRkh5TGprZ0pTc0hmbmZKRkd5RnJKaXV6Y254N1hzaDJmR0w5NlcyaDNlRktsdjRGZmt0MkVFLVJyVkpBMldMOEZTTFNwbUszcUl3SXJOTXlPUlEwSWE?oc=5
+
+- Electric mobility is a vibrant sector and we are ecosystem builders: Shilpa Kumar, India Head, British International Investment - The Indian Express
+  Electric mobility is a vibrant sector and we are ecosystem builders: Shilpa Kumar, India
+  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxONEdnVnVpOGdwMUVtN1lIcFZTcWszR2tXYTBnUGgzUGxiREw3N0ZGRnFxWjlVd3YtUlJzUTlBU2lEVXd1Vk5qME9BeFRZalhSYWtQTGpWSVl6blVoVUJBeVhFcDFKQnhWa0hoeUlSVjgwSXpyNy01VGszcXdVeUlXS3hSbW9PU2E5b1h6aGY5SnhRUEJjRnlJTWNJb1Q3X3FEMHZZQWJCRjMtRGlfSWlxalVGbmFsVFVBbEVVem4wUUxFWHBxZDd4Qk96d3Y5SmpOT0lVZXRDRXBXejduUk9IQjlCeDVCdWNhaDkxYk9BTEMyWUY2U1JvellubFFvY3M5aURFMmlySklUZFh0SkJ2UmxsYmVnNzNjYnpBVHBfMWdrdVNHT3c40gGuAkFVX3lxTE8wUTQycFdMNV9YeHBoQW5CYUdqYmJwdmFDTW5UTXIzTmpfV0ZjYzdtb1lJYUpsMFFLMklLQnhKRXFsdUdfWHlxdGZwNENSZGplVkdqcUhIZE9zSEdQQVBrTDhkanY2dllaUE5Qa21QOXFVX2VFT1h1bi0zVUtJRTNjWERUMjc1TkVqcllnenhQLVpLZGI4LXc4c1FjRGpXM0c3WEhmWjFjVTRTRGJidGF4SEhoeGtHLUtjZktST3hnLUpuc1BiRGJRdlpoaGQzT1BheTJhSndjR29EaUNMamlvbWNqSUtleEVNb2UtTFJPMzlBdmFidzFqeEhVb3kzdW5DMGVPVktDeUFqQWF3b1QyTWNjWDdBVkpDcDFDUUxEbHRONjAtc01ZUmdaMTJB?oc=5
+
+- 'Getting Future-Ready': Indian Army Highlights Modernisation Drive In New Video - News18
+  'Getting Future-Ready': Indian Army
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPREtCY0hmRzR4Ym5wTXd4dWozSjN4VE55R1llcWZUczNhNEd1RkFSb0FJSS1RSDN2STgxS3NNNXRBLWhfVkpaalBwcDhsYXlrWXZYT2dLS3Fmb3lzb2w2U18tRVFKbUs5SkFkX1RxeEhWaGhXUmc0LXE1S0E5c2xBWmdMM3NOYTVzRngyTUR1cGsxdUp1OHBTUkRDS21NbFRGMk9UTk1VdU9rMWJ5NVB4ZkcwX3pyTkV2c0dVaHREY3TSAcYBQVVfeXFMTUVLSXFYc1RxRk4zbG1QZGY1VS1zQkFSSU1VODNKbm1tTWlzWGJFc3RfUXBKcndpTUZNSVFudkh3RURsNlpVVXNKOERIOUpUQUtFVXZpWXl6YlhPTjF6dnlrYXdqTXEybVhJUEVtODM2WXJYYThVUmxxMGVLSTkzM2tSdGZvLWZZYWxVVU9sbGg4LUpEbG9TOHI2c2ZoS2dvUnBzNDJkQTZrU2QwbzZSdDFXNUFRRURGdU5RR1NqLUVTa3J0MW5R?oc=5
+
+- PM Modi To Flag Off 4 New Vande Bharat Trains. Check Routes - NDTV
+  PM Modi To Flag Off 4 New Vande Bhar
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNWRtTFc2ajQzcmpQLW43Tkw3RW9nWklxdEpMbkExVjYxanJWcENSQk5DQW5DVG5rSTN4Vlc1enJXM3pQVlFOMHhHSFg2MHg0LVpwVkdxM3czaTBmc095TkdrWDRodHRILW8wN1pLUFFGTTFrdUdmcXJLVXRsS2dKUnZwXzlzU011UWktZU8zYjdydDMzYTVzdHpQcGtabzR4VG9SQ3A2aHIzd2hUYlBDRmRidkt2WjRqb3h30gHDAUFVX3lxTE5ldU1jdHdILWhKbENwQmY2TGdRLUhxQVhGS1I4RUJZWnZMdnlCS2NWUVp5RklRU1EtRXlEQjl0amtEaWJlMndxVnI2OG5oTml3Yk1MZjN3Rk1HX3hUMEhsaE54aGp2UmJhR05ON0gtLWdYSkd3V2VENlJ5cFdzdW4zMlc0ZTJNbjN1RWtXdE91UE1zWGh1N3lyMHRoNThsWXRKbUNQMEZDX1NqZEhDeWZVVEw1bm9Kd1pHWkRiRzIzaDk4MA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-11-08 01:11:26 UTC_
+_Last updated: 2025-11-08 06:25:23 UTC_
