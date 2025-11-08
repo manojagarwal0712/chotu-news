@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Karnataka HC allows state to go ahead with Bengaluru garbage tender, directs creation of tech-based platform to manage solid waste
+- Panel seeks higher protection for Rhesus Macaque under Wildlife Act
   
-  🔗 https://indianexpress.com/article/india/karnataka-hc-allows-state-to-go-ahead-with-bengaluru-garbage-tender-directs-creation-of-tech-based-platform-to-manage-solid-waste-10352502/
+  🔗 https://indianexpress.com/article/india/panel-seeks-higher-protection-for-rhesus-macaque-under-wildlife-act-10352785/
 
-- Indian national captured by RSF militia in Sudan; New Delhi in touch with authorities to secure release
+- HAL, GE ink deal for supply of engines to power Tejas
   
-  🔗 https://indianexpress.com/article/india/indian-national-captured-by-rsf-militia-in-sudan-new-delhi-in-touch-with-authorities-to-secure-release-10352448/
+  🔗 https://indianexpress.com/article/india/hal-ge-ink-deal-for-supply-of-engines-to-power-tejas-10352779/
 
-- People trust Narendra, Nitish will deliver: PM after record turnout in Bihar
+- Wildlife board panel clears 12 key defence projects in Ladakh
   
-  🔗 https://indianexpress.com/article/india/people-trust-narendra-nitish-will-deliver-pm-after-record-turnout-in-bihar-10352425/
+  🔗 https://indianexpress.com/article/india/wildlife-board-panel-clears-12-key-defence-projects-in-ladakh-10352782/
 
-- Tipra Motha founder Pradyot Kishore meets Tripura CM Manik Saha, says talks to benefit everyone in state
+- PM Bhutan visit likely soon; energy, connectivity on table
   
-  🔗 https://indianexpress.com/article/india/tipra-motha-founder-pradyot-kishore-tripura-cm-manik-saha-10352336/
+  🔗 https://indianexpress.com/article/india/pm-bhutan-visit-likely-soon-energy-connectivity-on-table-10352761/
 
-- ‘SIR must be monitored, vote theft must not be allowed in Tamil Nadu,’ says TN CM
+- PM Modi targets Congress over Vande Mataram: Key stanzas dropped, still face divisive mindset
   
-  🔗 https://indianexpress.com/article/india/sir-must-be-monitored-vote-theft-must-not-be-allowed-in-tamil-nadu-tn-cm-10352274/
+  🔗 https://indianexpress.com/article/india/pm-modi-targets-congress-over-vande-mataram-key-stanzas-dropped-still-face-divisive-mindset-10352563/
 
 - What is ‘B by Lenskart’? The AI-powered glasses made in India for the world
   
@@ -40,11 +40,19 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/9-ways-google-is-helping-students-study-smarter-not-harder-10351775/
 
+- Onex CEO Sees Potential for More Insurance Deals After AIG Win
+  Onex Corp.’s top executive says the alternative asset manager is open to making further large bets on insurance companies.
+  🔗 https://www.livemint.com/companies/news/onex-ceo-sees-potential-for-more-insurance-deals-after-aig-win-11762541547504.html
+
+- Petrobras’s Top Oil Field to Start Next Platform in December
+  Petrobras will continue expanding production at the world’s biggest oil field
+  🔗 https://www.livemint.com/companies/news/petrobrass-top-oil-field-to-start-next-platform-in-december-11762540746753.html
+
 - Losses widen for parent company of Trump's Truth Social in Q3: How has the US President's businesses fared in 2025?
   The company reported a net loss of $54.8 million in the third quarter. This was wider than the $19.2 million loss reported in the same period last year.
   🔗 https://www.livemint.com/companies/news/losses-widen-for-parent-company-of-trumps-truth-social-in-q3-how-has-the-us-presidents-businesses-fared-in-2025-11762535241278.html
 
-- Qantas announces 22-hr non-stop flight between Australia and London and New York: See specs, images from Project Sunrise
+- Qantas announces 22-hour non-stop flights from Australia to London and New York: See Project Sunrise specs and images
   Qantas and Airbus released first images of the A350-1000ULR in Toulouse. The specially configured aircraft will allow Australia's national carrier to operate the world’
   🔗 https://www.livemint.com/companies/news/qantas-first-22-hour-non-stop-flight-between-australia-london-new-york-specs-airbus-a350-1000-ulr-images-project-sunrise-11762532256432.html
 
@@ -52,33 +60,33 @@
   ReNew's $331 million deal with the Asian Development Bank will fund a renewable energy project in Andhra Pradesh. The project is expected to deliver significant clean energy and support India's
   🔗 https://www.livemint.com/companies/news/renew-financing-adb-renewable-energy-debt-andhra-pradesh-11762531270488.html
 
-- Hindalco's domestic biz fires up Q2 earnings, net profit up 18% q-o-q
-  Managing director Satish Pai attributed the uptick to “dis
-  🔗 https://www.livemint.com/companies/hindalcos-aluminium-q2-earnings-beats-street-novelis-copper-evs-aditya-birla-cost-automotive-sector-lme-trump-tariffs-11762522447800.html
+- Dollar ends week lower amid Fed outlook, US government shutdown
+  Dollar ends week lower amid Fed
+  🔗 https://www.livemint.com/market/stock-market-news/dollar-ends-week-lower-amid-fed-outlook-us-government-shutdown-11762552315547.html
 
-- ₹10,380 donations in FY25! Here's which causes got support from philanthropists Mukesh Ambani, Shiv Nadar, Hindujas
-  Education, healthcare and the environment were top three causes. EdelGive Hurun India Philanthropy List 2025 ranked 191 philanthropists
-  🔗 https://www.livemint.com/companies/people/billionaires-donate-10380-cr-fy25-edelgive-hurun-philanthropy-mukesh-ambani-shiv-nadar-education-healthcare-environment-11762528473740.html
+- Wall St Week Ahead-Investors watching US economic signs as market pulls back, tech teeters
+  Wall St Week Ahead-Investors watching US economic signs as market
+  🔗 https://www.livemint.com/market/stock-market-news/wall-st-week-ahead-investors-watching-us-economic-signs-as-market-pulls-back-tech-teeters-11762552244090.html
 
-- Wall Street falls as concerns over economy, tech valuations weigh
-  Wall Street falls as concerns over economy,
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-falls-as-concerns-over-economy-tech-valuations-weigh-11762529698533.html
+- Oil Notches Second Weekly Loss Amid Sanctions, Looming Surplus
+  Oil rose on Friday but still notched a second weekly loss. Market continues to weigh the threat to output from sanctions on
+  🔗 https://www.livemint.com/market/commodities/oil-notches-second-weekly-loss-amid-sanctions-looming-surplus-11762549912500.html
 
-- Tesla stock drops 4.8% in US stock market as CEO Elon Musk secures shareholder nod for $1 trillion pay package
-  Tesla's stock price dropped 4.8% as the US stock markets opened on 7 November 2025. Shareholders approved CEO Elon Musk's $1 trillion pay package at the
-  🔗 https://www.livemint.com/market/stock-market-news/tesla-stock-drops-4-8-on-us-stock-market-after-ceo-elon-musk-secured-shareholder-nod-for-1-trillion-pay-package-11762526814280.html
+- Gold gains as dollar softens, US shutdown jitters persist
+  Gold gains as dollar
+  🔗 https://www.livemint.com/market/commodities/gold-gains-as-dollar-softens-us-shutdown-jitters-persist-11762548247421.html
 
-- Shining Tools IPO: Issue receives tepid response from investors on Day 01, subscribed 0.5 times
-  Shining Tools' IPO opened on November 07 but garnered a lukewarm response, with just 50% subscription on Day 1. The firm aims to raise  �
-  🔗 https://www.livemint.com/market/stock-market-news/shining-tools-ipo-issue-receives-tepid-response-from-investors-on-day-01-subscribed-0-5-times-11762525546905.html
+- Grand Theft Auto VI Delay Fails to Faze Take-Two Stock Analysts
+  Gamers took the latest delay to the long-awaited Grand Theft Auto VI hard. Stock analysts are undaunted, with the
+  🔗 https://www.livemint.com/market/stock-market-news/grand-theft-auto-vi-delay-fails-to-faze-take-two-stock-analysts-11762544682445.html
 
-- Nifty PSU Bank index shines in a volatile week; soars over 2%, third straight advance
-  7 out of 12 Nifty PSU Bank index constituents gained this week. Bank of Baroda led the charge. Analysts remain optimistic due to increasing credit growth.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-psu-bank-index-shines-in-a-volatile-week-soars-over-2-third-straight-advance-11762504839541.html
+- OpenAIs Altman urges US to expand Chips Act tax credit for AI growth
+  OpenAI's Altman urges US to expand
+  🔗 https://www.livemint.com/technology/tech-news/openais-altman-urges-us-to-expand-chips-act-tax-credit-for-ai-growth-11762558915336.html
 
-- Groww IPO: Issue subscribed 17.6 times on Day 3; strong demand from QIBs and NIIs, GMP signals decent listing
-  Groww IPO received healthy interest, being oversubscribed 17.6 times. The total issue size is  ₹6,632 crore, with shares
-  🔗 https://www.livemint.com/market/stock-market-news/groww-ipo-issue-subscribed-17-6-times-on-day-3-strong-demand-from-qibs-and-niis-gmp-signals-decent-listing-11762520387692.html
+- Trump Administration Rules Out AI Backstop Amid OpenAI Uproar
+  Trump administration officials are dismissing the idea of a financial backstop for artificial intelligence companies.
+  🔗 https://www.livemint.com/technology/tech-news/trump-administration-rules-out-ai-backstop-amid-openai-uproar-11762547511898.html
 
 - WEF says AI, robotics, nanotech to transform agriculture; cites case studies from India
    WEF says AI, robotics, nan
@@ -92,33 +100,25 @@
   Amazon is offering up to 75% off smartwatches. Smartwatches range from budget picks to premium models from Samsung and Am
   🔗 https://www.livemint.com/technology/gadgets/up-to-75-off-smartwatches-on-amazon-as-budget-noise-boat-and-premium-samsung-amazfit-models-see-major-price-drops-11762500903467.html
 
-- Can GTA VI surpass Duke Nukem Forever’s world record for longest game development? Release pushed to Nov 2026
-  Rockstar Games has delayed Grand Theft Auto VI to 19 November 2026. Fans now wonder if it could rival Duke Nukem Forever’s 14-year, 43-day development
-  🔗 https://www.livemint.com/technology/tech-news/can-gta-vi-surpass-duke-nukem-forever-s-world-record-for-longest-game-development-release-pushed-to-nov-2026-11762499999240.html
+- Stock market today: Nasdaq, S&P 500, Dow come off lows as rough week for tech nears end - Yahoo Finance
+  The Nasdaq has had its worst week since April. The S&amp;P 500 and Dow have also come off lows.
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2wtdW85Sm9Yd2d6STJTcmt3VXV3WHpfMmNzUlJsUUxJcG13allCbTlJNkxzbndiazlWblA3U25XNmM4Vmg3XzUzVXZnR0VOUFg1MlJGT2ZYMVhMSFZyU1ZxRnlUYjkxUGJRWmV3YWo5QmhKRTh3Y3B5TkptbEI3dVRiSlBOS2VuVlBXdy1ycUl3UG5QVlBVOFhVWDBUSkRzODV4Z0VJbm0wYXU0YnhCWVM0SXB3YWhDR2l2Z0xPLWVqMGNRYWZESjdFZmd3OUE?oc=5
 
-- Realme UI 7.0 brings Live Wallpapers, Fingerprint Animations, and more: List of eligible devices
-  Realme has unveiled Realme UI 7.0 based on Android 16. It features a Light Glass Design, Ice Cube Icons, Misty Glass Control Centre, AI tools, and performance
-  🔗 https://www.livemint.com/technology/tech-news/realme-ui-7-0-brings-live-wallpapers-fingerprint-animations-and-more-list-of-eligible-devices-11762498428870.html
-
-- Stock market today: Nasdaq, S&P 500, Dow sink as another tech sell-off has stocks on track for brutal week - Yahoo Finance
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU1IxNmcyMTBrRXE3RkxoV3RNUlZlLWRPeU5NMGgtdnJBX29EWHBybDQ0dTc1MzNXcGJ5Zlp2d1NSX3dRMENKZGFOaG9EWWJBbVdrNTBTS1pWWVZwamdIUTlNdW50MmxLX1
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU1IxNmcyMTBrRXE3RkxoV3RNUlZlLWRPeU5NMGgtdnJBX29EWHBybDQ0dTc1MzNXcGJ5Zlp2d1NSX3dRMENKZGFOaG9EWWJBbVdrNTBTS1pWWVZwamdIUTlNdW50MmxLX1BKb1BRUzJDQXJhUmZ3VG02TXZVb2VJNVdseVNzWG9HVk52ZGVmcnY3UUdxN3NGdUxpZ09hSHkzckIyUXdFc2ZaMEpQa29FcWhVaXotaTZoOHZMMkJ3dVoxS1o5dEdscUJMV25WeWpqbG5QcnNpcl9hWWpxMHNyYXl2QkQzSU5U?oc=5
-
-- MFs turn to covered call strategy to squeeze out gains in flat market - Business Standard
-  MFs turn to covered call strategy to squeeze out gains in
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjdVZzNQUlduTmlvdzVicVlLWDBBTnl2SlhfQXFVQlU1R2ZQakRrUEpXTmtVQ1dWOEdwMXZtYUxTUjM5MG5pa3V1VjhCdWh4c2pMblktMXJvcmg5a0pUeDhjR0hIN1VzRjJSWVhqZE5scEdpaGxsUmxmcExsSzVVRU1hdVk3OVJ5QUs1ZnAzR3d6TVJsaUpTcnVDR09tXzNXdzlHLUdCdG9pUzBqUVBhR1d5VURBRndmWWZXRWtZY1lNVTlaS25aMHVyOG95Uk9pTWxNNHRsdUFSdjDSAeABQVVfeXFMUEZXUEJjMUo1VXY5RC0xYUJZYndXeW1UMEN3TzVnZU1GRVpraU4wZ01TdjVQcmJrT0RsbEc0VVBkNUVIT0pPaFJCQ1BOWWg5OTBBc3JRMHROYzhCSGlRUkJZRy1MWlJQdmNmYjk2ZjNJRTYxQllLOHo1NE1nNHAtR3RSSklLbFNPZXpiVExueENPX1lhdXhsMUlTdUo1ejBET2VsTGVaaU4zX3lWNFJObU9DT0ttYk9GR0U2VFVHbkhYTndiQlowdnpteGp3ZUM5bWxSaEd2R2NwRXBlanVHZHM?oc=5
-
-- Nasdaq set for worst week since April as AI nerves flare - CNN
-  Nasdaq set for worst week since April
-  🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ENHVYbjFNdG0wREN1VWNPYjBVRmhtcmlObjNYa1d6aXVNaGlDZTJiZ3N6TS1rSGlMdkRObS1SRUhFSnBweFVJZWRvVmpaOUwtUkVSenZOcnpKbGR3bVRfS1Nhb2ZyNWc?oc=5
-
-- Asian stocks today: Markets track Wall Street losses; HSI falls over 240 points, Kospi dips 2.4% - The Times of India
-  Asian stocks today: Markets track Wall Street losses; HSI falls over 240 points,
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQMG81OHBrZV9maFNzMUt4VTBySTZJSXJ6UVpIWDZ3cHJKdWJtQVgzRTVRcEpFR2RIaW1zWmFTeHltQVk1SDVaZ0hpUzFrTm1kcDJmUld3R1BEV0IwQnlSMndFdlRPcjlrQV8tQ2xBWE91OGxxenplbnNrTUFqREVaekV3RUo4QURnZ3RycElUZ3p6Y1Vlby12eWxqYWdzQVd3WGladzRiZU1XYW5VMnRWd1ZuOTdRWU1VbzdIZXNtYXlfMkdzYy1nNDAyUUZaYm9pWG1XUjBhWlA4OXBrbl9Nb0x0Z0F1LWl0TVNNM1phdnRyZmpsVVMxTWZobHhDUXluc2lISVFDQUw1cGJJNW82S2J3UHfSAZoCQVVfeXFMTU5DN2xyTmhQMTVjUlE4QVUzc1IwcUtOd1dHRUQ3bnpselEzeGI3b041cGh1Tzh0b1FCd1RscC1aTVRSdVhhZFM1eXU4M0gyaTB6ekVnNFIwSS1taUwyRHJ6YU5LeEpqanJTaS1vdXZvMFVBODRiOVhuZjljVjR3dmRLdWtQaDd1UDVGYzM0cEZJSTZSeElNR09UWi01R2VrMUxQU1FnRm9WNU5WS08tN2lYVm9PQk9fMVFvelNNalljbEtLeUFkcjBpcGItVnNQeGdnRVExYUVRTGtoUmRta2dMaHVyVWxqR3ZINnhtRzc1WWFSb2hwQzNSVl81QkV4WDMyYWdJM0oyWm1kZ3IyMHdTaTM1NTdkdGtB?oc=5
+- Sensex Today | Stock Market Highlights: Stock markets fall for 2nd day in volatile trade on foreign fund outfl - CNBC TV18
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxPYmFrV2g5U093VlpHLXdZMkppTDRQMjZvSVdBZ0xTcG9LUmVCdFlDNEJZU3JzdjBWV1JHeWpFbVZZSEk0OWxsYzluaWpKb0h1UVJ1aW9wb05NcjNfVjFOTXQwY0dDWndoaE
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPYmFrV2g5U093VlpHLXdZMkppTDRQMjZvSVdBZ0xTcG9LUmVCdFlDNEJZU3JzdjBWV1JHeWpFbVZZSEk0OWxsYzluaWpKb0h1UVJ1aW9wb05NcjNfVjFOTXQwY0dDWndoaElJTkpjb0c1NXFzUEI0cEVndWtfeUcxOUVBNDhkUjI5b2x5WWJOT0trelplbkVWNFhCaERGLWo0eFJuQ3JweU1GbmZGQ2l6VzFGQnB5bkRlOV9FYzFDczFrZlBqbnNmcVdtNkp0Y0Y4U2xLRTBMNmRpRU5HUkJhZEF1d0ktSmwxSWxGOExiVVNMMXB2ZlVTc1RiM1Vnck1FQjNmcGp3UdIBjAJBVV95cUxNTG04VVdkU0QxNEgzTkwxYXdzMEJ6NzI5dDBRS3lkTTNsUTN5Q1YyYUh0Yno0S3dsU3JZUkQtdVpOWWlBX0RoRHlXNDJ0WmFmNm92dFJ0aGZpYnUtMUwyWE92QU1MdG94TklsSG9vTktuOVZGbE1PRUh2bEpfVG5yZHFTa2VUSHZSM20tNDlvbDlLRl80bTFjWENjcXZPdDRHQmJIUG9uby1LQzBKaWlJd1prb0pFdGp2LUw4VHdmendPUFdZOWdoUTVEdm53a0kxMm8wLUxxWHNoSW1Ld1J1UkFDdWd0cWpPUHBwMUZ5SnJqNU0wdkh3eGJ6OWYtR0w2RHRmb1BaeHRRWjk4?oc=5
 
 - IPO markets are robust:SEBI Chairperson - The Hindu
   IPO markets are
   🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEFzd1Jwa0preTdMLVJZX3JnNVRCcXFqZnpheXBnUjlZcVlwa0Z6Wm9zb1lUQnowbm0zV2YtbUZvVFZyTnk5Vk1XS0lVRjlfSmxaX2Y0dlh1eFNBaVhBS3NudXpFNXN6TEJ0Z1Y0R1JpZ2xOYnJPMHF5Qm9vc3k2NUdWNGhiMzdtWmI4dktJc3V1ZVhRWGtv0gGeAUFVX3lxTFA5emVyRDJBOGVIaDZVZENpUHFJejROWFZtMUMwOXFTOTc0WkVlYmdMb0d2bUJnS0dLMEFuOEVxTHU4VVNfcHFKZ0JyN203ZEcxZ3ZraXdBVlFjS3l2RmRxSWplM2xwX0pGS0pzUGJMbDJkVVJHUUFpallIQkt1U0xnN1I1Z1J5MEV2dlEzTEY0eF9IbkQwWV9LNmtEVFNn?oc=5
+
+- Qatar opens 2025/2026 local agricultural markets featuring over 100 Qatari farms nationwide - Times of India
+  Qatar opens 2025/2026 local agricultural markets featuring over
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNTk1xeS1GdXdWV3AzVDRBTVBvZEplOWE4aGhUYllsUEtiYVhfWjdodWxFNk9pblktYmdDOFAwMWNIY3RZcTFocHcxeGNtdC03VDdmSTVtUHMtS1ZHdlJWNXZWQWl1ZncyN1YwMnR3WEZMNWFUdnRXS0x3YklPUURJNzdHMkN2OUhsR2xZdUlwV1dINk45ZkVKUHo2d2lzMEdXMXY4RGEzd2VHekxtd0QzQlJic3pBXzg2UVJ0cW0zbGZMemF5cVdVYUZyTVY4ZF9sVzBuXzk3MkhkdGh4RERPRVVVQ0ZGWGQ0WThvRkdqLURHdEl0NTdESkZ6Q2lmdklX0gGGAkFVX3lxTE84TEZPT0JEemhtc0ZEekpkQXBwckVjV0RWcmNudW9KZVc3V0lRWWhLYjEtSmVJT2luQUJWQUF3ejA2U2hIYmNVS0ExbXZHMWlVNnF5akFjTmFWY2xoTkl1NmhSWUpBcTh6aE1vMjVHWVBWWUxWeUlXdmZGMGItek5PWHhrWXN0RzVSUUh5cUJ5S0V3dmo0TnRURW5WZDFSWmhfSjZORzllT0c4SlYwUlpOTmxDTlFyMHBFeTRMbzlhOXExVGVZd0FuUG1XLXRGVGtFOVVDV1J2dXJUaFh2Mk9pVmtqQ1BOUzBlQkdMQmZtRkN4VnB5RGRWQktWc3g1WUpmSS1nN3c?oc=5
+
+- Global stock markets fall sharply over AI bubble fears - The Guardian
+  Global stock markets fall sharply over AI bubble
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVFQYkdMZHdfazZUdm9HaUhZX0lUVGtuR08tdFQ1YzVEMlZERjVsaGVscHhwb3BRZU5hZUtPX29PSWNiLVBuQU5neUIyb0dIa2NVVWFmd19BX2ZQY3RCdGJTWkdqWGJobGI0bzlrb1psdFRGc0QwV2lIRTJkdF9yN2FTdEdlZGlqa28tWlRscUF0VDFibkhDekZRMG1DRW1hMTR6amhn?oc=5
 
 - Arvind Ltd realigns supply chain, expands beyond US to beat tariff hit
   The company is realigning its supply chain and expanding into new markets. Cost optimization measures are in place to counter margin pressure.
@@ -140,85 +140,85 @@
   Shares of fintech Block fell 11.1% on Friday. Investors balked
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/jack-dorsey-led-blocks-shares-fall-11-amid-concerns-over-square-profitability/articleshow/125164531.cms
 
-- U.S. Commerce Secretary cites India while defending Trump's tariff powers amid Supreme Court case - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcmNTdEpXTTVodlJza1BleGVuRUxaclNzXy02cWx1NWFGTGFKVFNyQkJMOXBqZFBnMmQxX1lNeGdDWUZpaExQMm9VM1Y2a1lVbGtlY1RHN2hFM2x5SkkwUU9mNDdRM2s1Nj
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcmNTdEpXTTVodlJza1BleGVuRUxaclNzXy02cWx1NWFGTGFKVFNyQkJMOXBqZFBnMmQxX1lNeGdDWUZpaExQMm9VM1Y2a1lVbGtlY1RHN2hFM2x5SkkwUU9mNDdRM2s1NjUzZlZRX0RFREgybVFHTkZKZUNlN1pBQkVXWlpxV3VWdkJzbkp3eUZqNV9iTmJfaXdwYldueURDaU51S3FjOEp1UG1HcngyYmIwbHNkaTFIVHdnTGhwQnhiSkh5WG9OaTI3RVNZaWdXSlhUTWtTV3VldU9iRzZuLVg2eS1yaHlFaVQxZEdCMNIB9gFBVV95cUxNcXZDdXVSS0xQT2ROUElfTzdjVUNwcDRnZ1pxNmxWUzNTVXpmWXZUYlVmZHpUTVVHbXBBMHRNQ28yRlJPMHFxMGZxOFZQZlpURW42QTFxUW5MTDZjc2dqSkFlRXRYSVdWVW1uQUQ2QWRGemVlR3o4SjBkb1o1Y01TSXJNQ2c5TUo2ME8tNmhpN09TMTRta2JOWkV6NzFjalpEakhFRjZhVUZZS3RVcnl4Z012c2lURU9UOUN4TktxeGlJZFl4WXMtM0Z0Um1uT21MN3h2TlJidndZZmlGRDBuUmFuVmlwWWNuSjBkMHhkT2prdGxpQ2c?oc=5
+- Trump hints at India visit amid high-stakes trade deal talks - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUm
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUmxYM0dQdW9xU2Y5NDEwQ3hXbkVUdHZTa3JaM3VNZTU1ZmsxaUhRd1Bsam9RR1MyWlRUMUpfZEhqZG1aWnZsUFZhQzRuUXptQU1NRnMzYmpfQ0pB?oc=5
 
-- "Historic Moment": Last Active Maoist In Chhattisgarh's Gariaband Surrenders - NDTV
-  "Historic Moment": Last Active
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUNnclpOZ0s2X1pRZWdOYlE1Wi1YTDFjMnU4WmZDdURZR1VNXzg2V01VSXhVc25PaWJUanJZVDVKdFdBT05XZER3T0xfb3dabkFtaWI5UzVPTXRqRmxCOGgySlQwVW9SM28xR0VPVzBnYl9ybFZvc2VXVTlwYnVON1NIX19iZjRRQW1VVm9Ja0h2UERfZzNLbHhnN0p0bEhxd3AtSnR3T3JSYTMySEhILUxR0gG6AUFVX3lxTE9rRU5VZHRwaXNFTlRycHdodmFhMUxqa2tGOWozYTRHVWhZa3ZCaHp6R0hwamVSQ1RDWWx0NWpNelM3c3VubTJUY3dXN05xdFFSbE1qYU8zOXptT21FVUhJX1p4SlM5RC1BUFBQMGx5UWFaRHBRVm5hSWVjWXFWZ2dpcXlwTmdTaS05NTR1aDRnZEtwWmF5UjkteV9rQkEzZnNMQUFBdHpHQXJPZHRtY3ZkSkdNMDlndTFGZw?oc=5
+- School assembly news headlines, November 8: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 8: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXpiT185aHF2QzJES1pXLUxIQmZXeGFham1uT3JYRnc5NlFVZTBUbEM2VkdGczRTRFlHX0JTUEd5b29BMExodGpfaWJaekozZjJUa1Nub3BvWm1jb001cGJsU2VRUnlRZ3dUUS1mU3dYUFpuVnFKbDZfZnNkcGdMaTNNUVd3RG1mUnhHQXEtVFZMcnkxVmtGdzJzSjNKSXV4bmoyX1VXejFCNE02R1dTU25CV3hqUG5NTUZRU2RCQXFabjc4X1dsTUdoTG5KVF9WTURYM0hwNE1EY0lnUkt0WTJWTkPSAeoBQVVfeXFMUHVLUFktMDBJekwxMV9HMERBaHVMNlQ3aXpLOXItU3lNSmJwMlFfUHNMVC10dDJ6SUFPS1pkTVQ0YXRtdGc4Zm4zVllBTk9oQW5GYkdiRXhZUzE1bVpNcGZTQWo2aFFRcUc0eXRwUlRyV2NieXFXYy1jc2hvS1BjTHRXSExlTlBtMGpBcEhJUl9GMndtRkVac21oWHljd2YtY3ljNUJnbjBnMkxxc1V1VElTM2R3bFA3VmFSVW1rQWM5ZEd3ZWdNOFRPTWVORkh3WDVpMThlV1l6RDBjOTFKMjR6RmtXdm13cENn?oc=5
 
-- Delhi airport flight status live updates: Air traffic system 'up and functional' after glitch; 800 flights delayed | India News - Hindustan Times
-  Delhi airport flight status live updates: Air traffic system 'up and functional' after glitch.
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZkxWNWNiWjVuS1UzR2RkSVo5Qkp0SVVzTThnOE5hUnVhRzRlLVhqQTQwdloyXzNhMzk3b1l0N29HRC1Hd3pRYzJqMGhIWk9hb29mNjVsc2hHY0FrbUVncW1Ra1c0Yk9rVENWczNlQU9hRE9QTlFUa0dtWFM0S0RmYzJ4VHc0QUtaUVA5dTRudkp0dnZ4V0QxTU5kclk3N3BDRVZLUTRBV2xreXVWVjc3ekZvMU9KZ1d0UXQ0c2poNGtjUUVhRDBQVDhLYkJRbDF0V3Nrdlc1NlJfN09fT1RKbVlZWGtrRGw2bm10cjc1SElHNXl0ZXhxREY0RXV6bUIwTDludHhzRXXSAY4CQVVfeXFMUFVGZ1VZYnJGU0xIZW9Za3pmTDIzM2V4RVpOeVEteldtZkRZQVlqSXRGUjZvNlNzV2dfSm9QTTY4RkVwT0tfOF9UaHpCYzROclVCM2JteXhuTGJGRjZYemdqRGx4MVhzNFlkUERZajJzZk1XYUUwdHJySGI3Y2JwV0EzQTMwQ1Z3WUl5WTV4NW1NT3dRajRGZzZLNjcya1pMNXoxVWZYRjEzMFBKY2dtX1ZRbDRWTjRsdk5abkJmZmZkNkRNOWZ1MXBzVXNVZXJBMkc0alk1S0JWc19EMjkxNDhLRVV0ZXpHcVNmbXlra1RuSUp6eUo2b2Rwbzd6ZUZiLUxUZ0NFYV9UVVRqZE5B?oc=5
+- India hits out at Pakistan’s ‘illegal nuclear’ history; Delhi CM orders staggered timings for government offices in view of air pollution, and more - The Hindu
+  India hits out at Pakistan’s ‘illegal nuclear’ history. Delhi CM orders staggered timings
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFNVekdkYmxfUWlaSjBWejNkeVBiWVFpYnJFUFlxdjRPYW44Wk8wbGpzOWktWml1SEtZT1hpdko2SkR6emNDUzFlbHRkSGRQMkxHSEJ3RjYwdktCelNiNjZfWVNZbkNiOVNYWkVZMEdaa0Z1UjRQUUk3RWZkMDRvYzF6b01aV3PSAY4BQVVfeXFMTlFIOHVZWmVjX3VOUlRJWUZwU3FIcGl6OVItcE95RTR5SGc1UWc2dkVfQ0U0MjliQ2FjTjlxTWp5cWtXT1NwNmZydGZmWTYzWjJJcWZqLUhkcWRNYUx1aDNfS255WXlnMVhPSGVjVmhJTDBWLUdQdHJwZXdobEU2VlZyS2h1RnAwRldjUWxUQQ?oc=5
 
-- Explained: Delhi Airport Tech Glitch That Delayed Nearly 800 Flights - NDTV
-  The delay was caused by a glitch in
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPVlFDR3ZaOU8zLVZBMGhTbnJsUFBSdWJlMGloUXQ1WkxEX3lxRVpGMGhDZ1lRWnpFLTZIUUp1eXhram52QmdqbjVtaEo0OEwxLUx4YmZ2YmFvSWp5NnZlS0t2TGxwLUNGcmt1Mm53OWR6cE01R2JMUUw2RUNaY2hFeElFcnlWWTg1Vy1YQURMMC00RER3Y1h4LXNlWU1oOGhXYlIyQ1JUM3RMWlVIc1U2QXhEZ0JoT29MRmhjVV9rTDR3T0hwamfSAc4BQVVfeXFMTlBDQmhSQVNISXQyLXZSM2ZVQThhMDNfZFp1NlNGemFmS085NGxFVV9vSWljVFRPYzZ4SWJ3Q0I1U0FFYjJtT1k5Q3YtN0NDdkkzUjFzaVo5WUp0aUp6VDR6by05alZrc3F3QWVLWEJ5ejJISEkteHpFbjJiekNyTDFGaGdNRXhBalVPZTVJSmJ5dkgzTFNFUF95cTFJRld6d0pKWjJ1SmZZaWpDdlJxYTlTcmh2TjdtRDgwb2k0N1N5V2hQN1JNblVHN1IzV3c?oc=5
+- Panel seeks higher protection for Rhesus Macaque under Wildlife Act - The Indian Express
+  Panel seeks higher protection for Rhesus Macaque
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEJ1bGdmeE5zaXEtcmJtRkZmT1NpTXJtYzRSZmJGVDFvOWZsNUtZemZ4QUFxMVh5Q1RtRlJzVHBUUUFTTHYtdzQ5MzNNOGFJUWpXVlJxNU10YV9mNHVoWmdGeUJ3cHZ5X3JGNzFLU2JudzhERXVzTGQ2V0dIcGVibmNTb2VXMkhlV1Vyd1BKeEM0UWJfLXQ1ekVvZVZLUllfWktUakp2eWZjeDY2ak52akMwU0p2c2dr0gG_AUFVX3lxTE5SX1oyOWtzb1A4YkQ3cVB2N216eDFMMFdoSU1DdWROM2FJejhONEhTYnJPT0xnc1oydjhmVWxXLUtLS1ZNWlM4bjdkcjNidWpRRTVIbVY5MURidG5QWVhDMml2Qm1DVS1ybXNQcERxQVhrb0x6ZlhSWGs0UHFoUXk4Zm1BSGxieXJtamExWDZ2YnNYYTRMeG1RN19nYS1uMV90MjRBek9uTXRIdldaMVZBUXV1M0NFR2pJTlpkMW9J?oc=5
 
-- Delhi IGI Airport: Air Traffic Control glitch triggers massive delays, over 60 flights affected - The Hindu
-  Delhi IGI Airport: Air Traffic Control glitch triggers massive delays
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTk1aOUp2RVJEMFl5b2FjRUxiMmdtN3VqNU83ODZuZmJZdHM1TUVPbmRxT3p2Yzd0VEFfeWRMdFFOSVJFWTlianFMR3MxUDlNMmlFa21CZUR3MVdpRFZESHg2enBWTFZfcXVIS0lFNF9LR0VsdkZqXzJfNVI2c3JsY2JSMjJmdUYxamVGdWVOWHRELTU2VnRpSlh0R2tRa01Qc2pIY3puVmZlSlBlb3dwQnU2ZWZFakRobUlOLWgtSEdKTkR3emNiVmlZT3hjckVkazVPS3hn0gHcAUFVX3lxTFB0OFRhOHJtbjRoM1NrVnhuU3MtbmI5a0swWnB5a0ZRbS1NOENWZUpqbjQ5YVhZWUhQNmhwMHBCeU81NnMyanVQUzFQZFlkMzQwLWVTVUNUVHRBei05Y2d4MFl5WVFQVWE3ZXBRb0VMVFdOZmphTXpHTFIzclpjLVVtRkVsMWFVWmtlRDkwVHVyTUdCa2ZaaERrbFE3SlNCM0xiX1RrVjZ1MWx2NExnT0Z1SjNUQWJvNmRyNmxLSklLVEFZbVZJdmlPSUJMS3gxWWdmWHFqOXNIRFc3NjA?oc=5
+- Ex-CIA Officer's Claim On Secret India-Israel Plan To Strike Pak Nuke Site - NDTV
+  Ex-CIA Officer's Claim On Secret India-
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUjJvcVRWY1U0NWtMVGtJY0tnYmVRRWprM1Q4dHdscXFIZWc2bXBOay1lQjFqbjRPTXBsSFVEdUR3OVRKZzRDeEJ4Ni1GaDVfaXIyb1pveDVQVEo3ZzJrcG5nVVRJRXlkNFBmOWM5OUV0S1MxSEFNQWRJTmpLRTBzXzJyYVhBdVlxY2t2Z3ROc09fcFExUnVOZHk1aUtuN1B2MFVpeWxKVW8yRnRVUC0xVS1iclpxSEJRZy1FbF9OU0VnUkxKOGRaNlBjR2haN3ZBck9PdjN4QkdXbHpvanVQSWR6aUdUalNsR2pWQUZzX2NoRjBhNEtR0gH_AUFVX3lxTE4zejZ4dk5TNWo5U2U1Y2NJR3NSa1NpQkd6X1J3OE56QXBDU0tDUF9FZ0w2TlRoc1BudmcwcFVJVWNGMktJRnFNV1NQTUw1ekdRRmxKUGs0V0txOVRUVFl4dnNXdmR6dHVkbnRkdk56ZEQzTDhWbGVibXNHMDBudmJXcDJseldWOVJ4SG1zdW55V2VRQjhnZV9yZzZ0QjdWRVVFRjl1c0xublhwZWVxbWJXalgxSVFBQjRXWTBKOWF2VnlndjhRWkFYMUdZc2ZVTFJtekV0UFFDNWI4UE9CWmVyTDdpN3QzVXBqZFpxcHFrdHdPb0ZoMXk3ZmJUdEdUNA?oc=5
 
-- U.S. Commerce Secretary cites India while defending Trump's tariff powers amid Supreme Court case - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcmNTdEpXTTVodlJza1BleGVuRUxaclNzXy02cWx1NWFGTGFKVFNyQkJMOXBqZFBnMmQxX1lNeGdDWUZpaExQMm9VM1Y2a1lVbGtlY1RHN2hFM2x5SkkwUU9mNDdRM2s1Nj
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcmNTdEpXTTVodlJza1BleGVuRUxaclNzXy02cWx1NWFGTGFKVFNyQkJMOXBqZFBnMmQxX1lNeGdDWUZpaExQMm9VM1Y2a1lVbGtlY1RHN2hFM2x5SkkwUU9mNDdRM2s1NjUzZlZRX0RFREgybVFHTkZKZUNlN1pBQkVXWlpxV3VWdkJzbkp3eUZqNV9iTmJfaXdwYldueURDaU51S3FjOEp1UG1HcngyYmIwbHNkaTFIVHdnTGhwQnhiSkh5WG9OaTI3RVNZaWdXSlhUTWtTV3VldU9iRzZuLVg2eS1yaHlFaVQxZEdCMNIB9gFBVV95cUxNcXZDdXVSS0xQT2ROUElfTzdjVUNwcDRnZ1pxNmxWUzNTVXpmWXZUYlVmZHpUTVVHbXBBMHRNQ28yRlJPMHFxMGZxOFZQZlpURW42QTFxUW5MTDZjc2dqSkFlRXRYSVdWVW1uQUQ2QWRGemVlR3o4SjBkb1o1Y01TSXJNQ2c5TUo2ME8tNmhpN09TMTRta2JOWkV6NzFjalpEakhFRjZhVUZZS3RVcnl4Z012c2lURU9UOUN4TktxeGlJZFl4WXMtM0Z0Um1uT21MN3h2TlJidndZZmlGRDBuUmFuVmlwWWNuSjBkMHhkT2prdGxpQ2c?oc=5
+- Trump hints at India visit amid high-stakes trade deal talks - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUm
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUmxYM0dQdW9xU2Y5NDEwQ3hXbkVUdHZTa3JaM3VNZTU1ZmsxaUhRd1Bsam9RR1MyWlRUMUpfZEhqZG1aWnZsUFZhQzRuUXptQU1NRnMzYmpfQ0pB?oc=5
 
-- "Historic Moment": Last Active Maoist In Chhattisgarh's Gariaband Surrenders - NDTV
-  "Historic Moment": Last Active
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUNnclpOZ0s2X1pRZWdOYlE1Wi1YTDFjMnU4WmZDdURZR1VNXzg2V01VSXhVc25PaWJUanJZVDVKdFdBT05XZER3T0xfb3dabkFtaWI5UzVPTXRqRmxCOGgySlQwVW9SM28xR0VPVzBnYl9ybFZvc2VXVTlwYnVON1NIX19iZjRRQW1VVm9Ja0h2UERfZzNLbHhnN0p0bEhxd3AtSnR3T3JSYTMySEhILUxR0gG6AUFVX3lxTE9rRU5VZHRwaXNFTlRycHdodmFhMUxqa2tGOWozYTRHVWhZa3ZCaHp6R0hwamVSQ1RDWWx0NWpNelM3c3VubTJUY3dXN05xdFFSbE1qYU8zOXptT21FVUhJX1p4SlM5RC1BUFBQMGx5UWFaRHBRVm5hSWVjWXFWZ2dpcXlwTmdTaS05NTR1aDRnZEtwWmF5UjkteV9rQkEzZnNMQUFBdHpHQXJPZHRtY3ZkSkdNMDlndTFGZw?oc=5
+- School assembly news headlines, November 8: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 8: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXpiT185aHF2QzJES1pXLUxIQmZXeGFham1uT3JYRnc5NlFVZTBUbEM2VkdGczRTRFlHX0JTUEd5b29BMExodGpfaWJaekozZjJUa1Nub3BvWm1jb001cGJsU2VRUnlRZ3dUUS1mU3dYUFpuVnFKbDZfZnNkcGdMaTNNUVd3RG1mUnhHQXEtVFZMcnkxVmtGdzJzSjNKSXV4bmoyX1VXejFCNE02R1dTU25CV3hqUG5NTUZRU2RCQXFabjc4X1dsTUdoTG5KVF9WTURYM0hwNE1EY0lnUkt0WTJWTkPSAeoBQVVfeXFMUHVLUFktMDBJekwxMV9HMERBaHVMNlQ3aXpLOXItU3lNSmJwMlFfUHNMVC10dDJ6SUFPS1pkTVQ0YXRtdGc4Zm4zVllBTk9oQW5GYkdiRXhZUzE1bVpNcGZTQWo2aFFRcUc0eXRwUlRyV2NieXFXYy1jc2hvS1BjTHRXSExlTlBtMGpBcEhJUl9GMndtRkVac21oWHljd2YtY3ljNUJnbjBnMkxxc1V1VElTM2R3bFA3VmFSVW1rQWM5ZEd3ZWdNOFRPTWVORkh3WDVpMThlV1l6RDBjOTFKMjR6RmtXdm13cENn?oc=5
 
-- Delhi airport flight status live updates: Air traffic system 'up and functional' after glitch; 800 flights delayed | India News - Hindustan Times
-  Delhi airport flight status live updates: Air traffic system 'up and functional' after glitch.
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZkxWNWNiWjVuS1UzR2RkSVo5Qkp0SVVzTThnOE5hUnVhRzRlLVhqQTQwdloyXzNhMzk3b1l0N29HRC1Hd3pRYzJqMGhIWk9hb29mNjVsc2hHY0FrbUVncW1Ra1c0Yk9rVENWczNlQU9hRE9QTlFUa0dtWFM0S0RmYzJ4VHc0QUtaUVA5dTRudkp0dnZ4V0QxTU5kclk3N3BDRVZLUTRBV2xreXVWVjc3ekZvMU9KZ1d0UXQ0c2poNGtjUUVhRDBQVDhLYkJRbDF0V3Nrdlc1NlJfN09fT1RKbVlZWGtrRGw2bm10cjc1SElHNXl0ZXhxREY0RXV6bUIwTDludHhzRXXSAY4CQVVfeXFMUFVGZ1VZYnJGU0xIZW9Za3pmTDIzM2V4RVpOeVEteldtZkRZQVlqSXRGUjZvNlNzV2dfSm9QTTY4RkVwT0tfOF9UaHpCYzROclVCM2JteXhuTGJGRjZYemdqRGx4MVhzNFlkUERZajJzZk1XYUUwdHJySGI3Y2JwV0EzQTMwQ1Z3WUl5WTV4NW1NT3dRajRGZzZLNjcya1pMNXoxVWZYRjEzMFBKY2dtX1ZRbDRWTjRsdk5abkJmZmZkNkRNOWZ1MXBzVXNVZXJBMkc0alk1S0JWc19EMjkxNDhLRVV0ZXpHcVNmbXlra1RuSUp6eUo2b2Rwbzd6ZUZiLUxUZ0NFYV9UVVRqZE5B?oc=5
+- India hits out at Pakistan’s ‘illegal nuclear’ history; Delhi CM orders staggered timings for government offices in view of air pollution, and more - The Hindu
+  India hits out at Pakistan’s ‘illegal nuclear’ history. Delhi CM orders staggered timings
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFNVekdkYmxfUWlaSjBWejNkeVBiWVFpYnJFUFlxdjRPYW44Wk8wbGpzOWktWml1SEtZT1hpdko2SkR6emNDUzFlbHRkSGRQMkxHSEJ3RjYwdktCelNiNjZfWVNZbkNiOVNYWkVZMEdaa0Z1UjRQUUk3RWZkMDRvYzF6b01aV3PSAY4BQVVfeXFMTlFIOHVZWmVjX3VOUlRJWUZwU3FIcGl6OVItcE95RTR5SGc1UWc2dkVfQ0U0MjliQ2FjTjlxTWp5cWtXT1NwNmZydGZmWTYzWjJJcWZqLUhkcWRNYUx1aDNfS255WXlnMVhPSGVjVmhJTDBWLUdQdHJwZXdobEU2VlZyS2h1RnAwRldjUWxUQQ?oc=5
 
-- Explained: Delhi Airport Tech Glitch That Delayed Nearly 800 Flights - NDTV
-  The delay was caused by a glitch in
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPVlFDR3ZaOU8zLVZBMGhTbnJsUFBSdWJlMGloUXQ1WkxEX3lxRVpGMGhDZ1lRWnpFLTZIUUp1eXhram52QmdqbjVtaEo0OEwxLUx4YmZ2YmFvSWp5NnZlS0t2TGxwLUNGcmt1Mm53OWR6cE01R2JMUUw2RUNaY2hFeElFcnlWWTg1Vy1YQURMMC00RER3Y1h4LXNlWU1oOGhXYlIyQ1JUM3RMWlVIc1U2QXhEZ0JoT29MRmhjVV9rTDR3T0hwamfSAc4BQVVfeXFMTlBDQmhSQVNISXQyLXZSM2ZVQThhMDNfZFp1NlNGemFmS085NGxFVV9vSWljVFRPYzZ4SWJ3Q0I1U0FFYjJtT1k5Q3YtN0NDdkkzUjFzaVo5WUp0aUp6VDR6by05alZrc3F3QWVLWEJ5ejJISEkteHpFbjJiekNyTDFGaGdNRXhBalVPZTVJSmJ5dkgzTFNFUF95cTFJRld6d0pKWjJ1SmZZaWpDdlJxYTlTcmh2TjdtRDgwb2k0N1N5V2hQN1JNblVHN1IzV3c?oc=5
+- Panel seeks higher protection for Rhesus Macaque under Wildlife Act - The Indian Express
+  Panel seeks higher protection for Rhesus Macaque
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEJ1bGdmeE5zaXEtcmJtRkZmT1NpTXJtYzRSZmJGVDFvOWZsNUtZemZ4QUFxMVh5Q1RtRlJzVHBUUUFTTHYtdzQ5MzNNOGFJUWpXVlJxNU10YV9mNHVoWmdGeUJ3cHZ5X3JGNzFLU2JudzhERXVzTGQ2V0dIcGVibmNTb2VXMkhlV1Vyd1BKeEM0UWJfLXQ1ekVvZVZLUllfWktUakp2eWZjeDY2ak52akMwU0p2c2dr0gG_AUFVX3lxTE5SX1oyOWtzb1A4YkQ3cVB2N216eDFMMFdoSU1DdWROM2FJejhONEhTYnJPT0xnc1oydjhmVWxXLUtLS1ZNWlM4bjdkcjNidWpRRTVIbVY5MURidG5QWVhDMml2Qm1DVS1ybXNQcERxQVhrb0x6ZlhSWGs0UHFoUXk4Zm1BSGxieXJtamExWDZ2YnNYYTRMeG1RN19nYS1uMV90MjRBek9uTXRIdldaMVZBUXV1M0NFR2pJTlpkMW9J?oc=5
 
-- Delhi IGI Airport: Air Traffic Control glitch triggers massive delays, over 60 flights affected - The Hindu
-  Delhi IGI Airport: Air Traffic Control glitch triggers massive delays
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTk1aOUp2RVJEMFl5b2FjRUxiMmdtN3VqNU83ODZuZmJZdHM1TUVPbmRxT3p2Yzd0VEFfeWRMdFFOSVJFWTlianFMR3MxUDlNMmlFa21CZUR3MVdpRFZESHg2enBWTFZfcXVIS0lFNF9LR0VsdkZqXzJfNVI2c3JsY2JSMjJmdUYxamVGdWVOWHRELTU2VnRpSlh0R2tRa01Qc2pIY3puVmZlSlBlb3dwQnU2ZWZFakRobUlOLWgtSEdKTkR3emNiVmlZT3hjckVkazVPS3hn0gHcAUFVX3lxTFB0OFRhOHJtbjRoM1NrVnhuU3MtbmI5a0swWnB5a0ZRbS1NOENWZUpqbjQ5YVhZWUhQNmhwMHBCeU81NnMyanVQUzFQZFlkMzQwLWVTVUNUVHRBei05Y2d4MFl5WVFQVWE3ZXBRb0VMVFdOZmphTXpHTFIzclpjLVVtRkVsMWFVWmtlRDkwVHVyTUdCa2ZaaERrbFE3SlNCM0xiX1RrVjZ1MWx2NExnT0Z1SjNUQWJvNmRyNmxLSklLVEFZbVZJdmlPSUJMS3gxWWdmWHFqOXNIRFc3NjA?oc=5
+- Ex-CIA Officer's Claim On Secret India-Israel Plan To Strike Pak Nuke Site - NDTV
+  Ex-CIA Officer's Claim On Secret India-
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUjJvcVRWY1U0NWtMVGtJY0tnYmVRRWprM1Q4dHdscXFIZWc2bXBOay1lQjFqbjRPTXBsSFVEdUR3OVRKZzRDeEJ4Ni1GaDVfaXIyb1pveDVQVEo3ZzJrcG5nVVRJRXlkNFBmOWM5OUV0S1MxSEFNQWRJTmpLRTBzXzJyYVhBdVlxY2t2Z3ROc09fcFExUnVOZHk1aUtuN1B2MFVpeWxKVW8yRnRVUC0xVS1iclpxSEJRZy1FbF9OU0VnUkxKOGRaNlBjR2haN3ZBck9PdjN4QkdXbHpvanVQSWR6aUdUalNsR2pWQUZzX2NoRjBhNEtR0gH_AUFVX3lxTE4zejZ4dk5TNWo5U2U1Y2NJR3NSa1NpQkd6X1J3OE56QXBDU0tDUF9FZ0w2TlRoc1BudmcwcFVJVWNGMktJRnFNV1NQTUw1ekdRRmxKUGs0V0txOVRUVFl4dnNXdmR6dHVkbnRkdk56ZEQzTDhWbGVibXNHMDBudmJXcDJseldWOVJ4SG1zdW55V2VRQjhnZV9yZzZ0QjdWRVVFRjl1c0xublhwZWVxbWJXalgxSVFBQjRXWTBKOWF2VnlndjhRWkFYMUdZc2ZVTFJtekV0UFFDNWI4UE9CWmVyTDdpN3QzVXBqZFpxcHFrdHdPb0ZoMXk3ZmJUdEdUNA?oc=5
 
-- U.S. Commerce Secretary cites India while defending Trump's tariff powers amid Supreme Court case - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcmNTdEpXTTVodlJza1BleGVuRUxaclNzXy02cWx1NWFGTGFKVFNyQkJMOXBqZFBnMmQxX1lNeGdDWUZpaExQMm9VM1Y2a1lVbGtlY1RHN2hFM2x5SkkwUU9mNDdRM2s1Nj
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcmNTdEpXTTVodlJza1BleGVuRUxaclNzXy02cWx1NWFGTGFKVFNyQkJMOXBqZFBnMmQxX1lNeGdDWUZpaExQMm9VM1Y2a1lVbGtlY1RHN2hFM2x5SkkwUU9mNDdRM2s1NjUzZlZRX0RFREgybVFHTkZKZUNlN1pBQkVXWlpxV3VWdkJzbkp3eUZqNV9iTmJfaXdwYldueURDaU51S3FjOEp1UG1HcngyYmIwbHNkaTFIVHdnTGhwQnhiSkh5WG9OaTI3RVNZaWdXSlhUTWtTV3VldU9iRzZuLVg2eS1yaHlFaVQxZEdCMNIB9gFBVV95cUxNcXZDdXVSS0xQT2ROUElfTzdjVUNwcDRnZ1pxNmxWUzNTVXpmWXZUYlVmZHpUTVVHbXBBMHRNQ28yRlJPMHFxMGZxOFZQZlpURW42QTFxUW5MTDZjc2dqSkFlRXRYSVdWVW1uQUQ2QWRGemVlR3o4SjBkb1o1Y01TSXJNQ2c5TUo2ME8tNmhpN09TMTRta2JOWkV6NzFjalpEakhFRjZhVUZZS3RVcnl4Z012c2lURU9UOUN4TktxeGlJZFl4WXMtM0Z0Um1uT21MN3h2TlJidndZZmlGRDBuUmFuVmlwWWNuSjBkMHhkT2prdGxpQ2c?oc=5
+- Trump hints at India visit amid high-stakes trade deal talks - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUm
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUmxYM0dQdW9xU2Y5NDEwQ3hXbkVUdHZTa3JaM3VNZTU1ZmsxaUhRd1Bsam9RR1MyWlRUMUpfZEhqZG1aWnZsUFZhQzRuUXptQU1NRnMzYmpfQ0pB?oc=5
 
-- "Historic Moment": Last Active Maoist In Chhattisgarh's Gariaband Surrenders - NDTV
-  "Historic Moment": Last Active
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUNnclpOZ0s2X1pRZWdOYlE1Wi1YTDFjMnU4WmZDdURZR1VNXzg2V01VSXhVc25PaWJUanJZVDVKdFdBT05XZER3T0xfb3dabkFtaWI5UzVPTXRqRmxCOGgySlQwVW9SM28xR0VPVzBnYl9ybFZvc2VXVTlwYnVON1NIX19iZjRRQW1VVm9Ja0h2UERfZzNLbHhnN0p0bEhxd3AtSnR3T3JSYTMySEhILUxR0gG6AUFVX3lxTE9rRU5VZHRwaXNFTlRycHdodmFhMUxqa2tGOWozYTRHVWhZa3ZCaHp6R0hwamVSQ1RDWWx0NWpNelM3c3VubTJUY3dXN05xdFFSbE1qYU8zOXptT21FVUhJX1p4SlM5RC1BUFBQMGx5UWFaRHBRVm5hSWVjWXFWZ2dpcXlwTmdTaS05NTR1aDRnZEtwWmF5UjkteV9rQkEzZnNMQUFBdHpHQXJPZHRtY3ZkSkdNMDlndTFGZw?oc=5
+- School assembly news headlines, November 8: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 8: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXpiT185aHF2QzJES1pXLUxIQmZXeGFham1uT3JYRnc5NlFVZTBUbEM2VkdGczRTRFlHX0JTUEd5b29BMExodGpfaWJaekozZjJUa1Nub3BvWm1jb001cGJsU2VRUnlRZ3dUUS1mU3dYUFpuVnFKbDZfZnNkcGdMaTNNUVd3RG1mUnhHQXEtVFZMcnkxVmtGdzJzSjNKSXV4bmoyX1VXejFCNE02R1dTU25CV3hqUG5NTUZRU2RCQXFabjc4X1dsTUdoTG5KVF9WTURYM0hwNE1EY0lnUkt0WTJWTkPSAeoBQVVfeXFMUHVLUFktMDBJekwxMV9HMERBaHVMNlQ3aXpLOXItU3lNSmJwMlFfUHNMVC10dDJ6SUFPS1pkTVQ0YXRtdGc4Zm4zVllBTk9oQW5GYkdiRXhZUzE1bVpNcGZTQWo2aFFRcUc0eXRwUlRyV2NieXFXYy1jc2hvS1BjTHRXSExlTlBtMGpBcEhJUl9GMndtRkVac21oWHljd2YtY3ljNUJnbjBnMkxxc1V1VElTM2R3bFA3VmFSVW1rQWM5ZEd3ZWdNOFRPTWVORkh3WDVpMThlV1l6RDBjOTFKMjR6RmtXdm13cENn?oc=5
 
-- Delhi airport flight status live updates: Air traffic system 'up and functional' after glitch; 800 flights delayed | India News - Hindustan Times
-  Delhi airport flight status live updates: Air traffic system 'up and functional' after glitch.
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZkxWNWNiWjVuS1UzR2RkSVo5Qkp0SVVzTThnOE5hUnVhRzRlLVhqQTQwdloyXzNhMzk3b1l0N29HRC1Hd3pRYzJqMGhIWk9hb29mNjVsc2hHY0FrbUVncW1Ra1c0Yk9rVENWczNlQU9hRE9QTlFUa0dtWFM0S0RmYzJ4VHc0QUtaUVA5dTRudkp0dnZ4V0QxTU5kclk3N3BDRVZLUTRBV2xreXVWVjc3ekZvMU9KZ1d0UXQ0c2poNGtjUUVhRDBQVDhLYkJRbDF0V3Nrdlc1NlJfN09fT1RKbVlZWGtrRGw2bm10cjc1SElHNXl0ZXhxREY0RXV6bUIwTDludHhzRXXSAY4CQVVfeXFMUFVGZ1VZYnJGU0xIZW9Za3pmTDIzM2V4RVpOeVEteldtZkRZQVlqSXRGUjZvNlNzV2dfSm9QTTY4RkVwT0tfOF9UaHpCYzROclVCM2JteXhuTGJGRjZYemdqRGx4MVhzNFlkUERZajJzZk1XYUUwdHJySGI3Y2JwV0EzQTMwQ1Z3WUl5WTV4NW1NT3dRajRGZzZLNjcya1pMNXoxVWZYRjEzMFBKY2dtX1ZRbDRWTjRsdk5abkJmZmZkNkRNOWZ1MXBzVXNVZXJBMkc0alk1S0JWc19EMjkxNDhLRVV0ZXpHcVNmbXlra1RuSUp6eUo2b2Rwbzd6ZUZiLUxUZ0NFYV9UVVRqZE5B?oc=5
+- India hits out at Pakistan’s ‘illegal nuclear’ history; Delhi CM orders staggered timings for government offices in view of air pollution, and more - The Hindu
+  India hits out at Pakistan’s ‘illegal nuclear’ history. Delhi CM orders staggered timings
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFNVekdkYmxfUWlaSjBWejNkeVBiWVFpYnJFUFlxdjRPYW44Wk8wbGpzOWktWml1SEtZT1hpdko2SkR6emNDUzFlbHRkSGRQMkxHSEJ3RjYwdktCelNiNjZfWVNZbkNiOVNYWkVZMEdaa0Z1UjRQUUk3RWZkMDRvYzF6b01aV3PSAY4BQVVfeXFMTlFIOHVZWmVjX3VOUlRJWUZwU3FIcGl6OVItcE95RTR5SGc1UWc2dkVfQ0U0MjliQ2FjTjlxTWp5cWtXT1NwNmZydGZmWTYzWjJJcWZqLUhkcWRNYUx1aDNfS255WXlnMVhPSGVjVmhJTDBWLUdQdHJwZXdobEU2VlZyS2h1RnAwRldjUWxUQQ?oc=5
 
-- Explained: Delhi Airport Tech Glitch That Delayed Nearly 800 Flights - NDTV
-  The delay was caused by a glitch in
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPVlFDR3ZaOU8zLVZBMGhTbnJsUFBSdWJlMGloUXQ1WkxEX3lxRVpGMGhDZ1lRWnpFLTZIUUp1eXhram52QmdqbjVtaEo0OEwxLUx4YmZ2YmFvSWp5NnZlS0t2TGxwLUNGcmt1Mm53OWR6cE01R2JMUUw2RUNaY2hFeElFcnlWWTg1Vy1YQURMMC00RER3Y1h4LXNlWU1oOGhXYlIyQ1JUM3RMWlVIc1U2QXhEZ0JoT29MRmhjVV9rTDR3T0hwamfSAc4BQVVfeXFMTlBDQmhSQVNISXQyLXZSM2ZVQThhMDNfZFp1NlNGemFmS085NGxFVV9vSWljVFRPYzZ4SWJ3Q0I1U0FFYjJtT1k5Q3YtN0NDdkkzUjFzaVo5WUp0aUp6VDR6by05alZrc3F3QWVLWEJ5ejJISEkteHpFbjJiekNyTDFGaGdNRXhBalVPZTVJSmJ5dkgzTFNFUF95cTFJRld6d0pKWjJ1SmZZaWpDdlJxYTlTcmh2TjdtRDgwb2k0N1N5V2hQN1JNblVHN1IzV3c?oc=5
+- Panel seeks higher protection for Rhesus Macaque under Wildlife Act - The Indian Express
+  Panel seeks higher protection for Rhesus Macaque
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEJ1bGdmeE5zaXEtcmJtRkZmT1NpTXJtYzRSZmJGVDFvOWZsNUtZemZ4QUFxMVh5Q1RtRlJzVHBUUUFTTHYtdzQ5MzNNOGFJUWpXVlJxNU10YV9mNHVoWmdGeUJ3cHZ5X3JGNzFLU2JudzhERXVzTGQ2V0dIcGVibmNTb2VXMkhlV1Vyd1BKeEM0UWJfLXQ1ekVvZVZLUllfWktUakp2eWZjeDY2ak52akMwU0p2c2dr0gG_AUFVX3lxTE5SX1oyOWtzb1A4YkQ3cVB2N216eDFMMFdoSU1DdWROM2FJejhONEhTYnJPT0xnc1oydjhmVWxXLUtLS1ZNWlM4bjdkcjNidWpRRTVIbVY5MURidG5QWVhDMml2Qm1DVS1ybXNQcERxQVhrb0x6ZlhSWGs0UHFoUXk4Zm1BSGxieXJtamExWDZ2YnNYYTRMeG1RN19nYS1uMV90MjRBek9uTXRIdldaMVZBUXV1M0NFR2pJTlpkMW9J?oc=5
 
-- Delhi IGI Airport: Air Traffic Control glitch triggers massive delays, over 60 flights affected - The Hindu
-  Delhi IGI Airport: Air Traffic Control glitch triggers massive delays
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTk1aOUp2RVJEMFl5b2FjRUxiMmdtN3VqNU83ODZuZmJZdHM1TUVPbmRxT3p2Yzd0VEFfeWRMdFFOSVJFWTlianFMR3MxUDlNMmlFa21CZUR3MVdpRFZESHg2enBWTFZfcXVIS0lFNF9LR0VsdkZqXzJfNVI2c3JsY2JSMjJmdUYxamVGdWVOWHRELTU2VnRpSlh0R2tRa01Qc2pIY3puVmZlSlBlb3dwQnU2ZWZFakRobUlOLWgtSEdKTkR3emNiVmlZT3hjckVkazVPS3hn0gHcAUFVX3lxTFB0OFRhOHJtbjRoM1NrVnhuU3MtbmI5a0swWnB5a0ZRbS1NOENWZUpqbjQ5YVhZWUhQNmhwMHBCeU81NnMyanVQUzFQZFlkMzQwLWVTVUNUVHRBei05Y2d4MFl5WVFQVWE3ZXBRb0VMVFdOZmphTXpHTFIzclpjLVVtRkVsMWFVWmtlRDkwVHVyTUdCa2ZaaERrbFE3SlNCM0xiX1RrVjZ1MWx2NExnT0Z1SjNUQWJvNmRyNmxLSklLVEFZbVZJdmlPSUJMS3gxWWdmWHFqOXNIRFc3NjA?oc=5
+- Ex-CIA Officer's Claim On Secret India-Israel Plan To Strike Pak Nuke Site - NDTV
+  Ex-CIA Officer's Claim On Secret India-
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUjJvcVRWY1U0NWtMVGtJY0tnYmVRRWprM1Q4dHdscXFIZWc2bXBOay1lQjFqbjRPTXBsSFVEdUR3OVRKZzRDeEJ4Ni1GaDVfaXIyb1pveDVQVEo3ZzJrcG5nVVRJRXlkNFBmOWM5OUV0S1MxSEFNQWRJTmpLRTBzXzJyYVhBdVlxY2t2Z3ROc09fcFExUnVOZHk1aUtuN1B2MFVpeWxKVW8yRnRVUC0xVS1iclpxSEJRZy1FbF9OU0VnUkxKOGRaNlBjR2haN3ZBck9PdjN4QkdXbHpvanVQSWR6aUdUalNsR2pWQUZzX2NoRjBhNEtR0gH_AUFVX3lxTE4zejZ4dk5TNWo5U2U1Y2NJR3NSa1NpQkd6X1J3OE56QXBDU0tDUF9FZ0w2TlRoc1BudmcwcFVJVWNGMktJRnFNV1NQTUw1ekdRRmxKUGs0V0txOVRUVFl4dnNXdmR6dHVkbnRkdk56ZEQzTDhWbGVibXNHMDBudmJXcDJseldWOVJ4SG1zdW55V2VRQjhnZV9yZzZ0QjdWRVVFRjl1c0xublhwZWVxbWJXalgxSVFBQjRXWTBKOWF2VnlndjhRWkFYMUdZc2ZVTFJtekV0UFFDNWI4UE9CWmVyTDdpN3QzVXBqZFpxcHFrdHdPb0ZoMXk3ZmJUdEdUNA?oc=5
 
-- U.S. Commerce Secretary cites India while defending Trump's tariff powers amid Supreme Court case - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcmNTdEpXTTVodlJza1BleGVuRUxaclNzXy02cWx1NWFGTGFKVFNyQkJMOXBqZFBnMmQxX1lNeGdDWUZpaExQMm9VM1Y2a1lVbGtlY1RHN2hFM2x5SkkwUU9mNDdRM2s1Nj
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcmNTdEpXTTVodlJza1BleGVuRUxaclNzXy02cWx1NWFGTGFKVFNyQkJMOXBqZFBnMmQxX1lNeGdDWUZpaExQMm9VM1Y2a1lVbGtlY1RHN2hFM2x5SkkwUU9mNDdRM2s1NjUzZlZRX0RFREgybVFHTkZKZUNlN1pBQkVXWlpxV3VWdkJzbkp3eUZqNV9iTmJfaXdwYldueURDaU51S3FjOEp1UG1HcngyYmIwbHNkaTFIVHdnTGhwQnhiSkh5WG9OaTI3RVNZaWdXSlhUTWtTV3VldU9iRzZuLVg2eS1yaHlFaVQxZEdCMNIB9gFBVV95cUxNcXZDdXVSS0xQT2ROUElfTzdjVUNwcDRnZ1pxNmxWUzNTVXpmWXZUYlVmZHpUTVVHbXBBMHRNQ28yRlJPMHFxMGZxOFZQZlpURW42QTFxUW5MTDZjc2dqSkFlRXRYSVdWVW1uQUQ2QWRGemVlR3o4SjBkb1o1Y01TSXJNQ2c5TUo2ME8tNmhpN09TMTRta2JOWkV6NzFjalpEakhFRjZhVUZZS3RVcnl4Z012c2lURU9UOUN4TktxeGlJZFl4WXMtM0Z0Um1uT21MN3h2TlJidndZZmlGRDBuUmFuVmlwWWNuSjBkMHhkT2prdGxpQ2c?oc=5
+- Trump hints at India visit amid high-stakes trade deal talks - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUm
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5LWE4QkYzX0pvdFN6YS1aeGx4WXljRDlUZjQ1d1A2RUxVbnpmT1owTkRfUWV5SkhyWVJONHJQY1R0UGh2Nmo5UEhtRlhmTmJzX0hRdjQtSTFnZ9IBX0FVX3lxTE9aV2NnUmxYM0dQdW9xU2Y5NDEwQ3hXbkVUdHZTa3JaM3VNZTU1ZmsxaUhRd1Bsam9RR1MyWlRUMUpfZEhqZG1aWnZsUFZhQzRuUXptQU1NRnMzYmpfQ0pB?oc=5
 
-- "Historic Moment": Last Active Maoist In Chhattisgarh's Gariaband Surrenders - NDTV
-  "Historic Moment": Last Active
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUNnclpOZ0s2X1pRZWdOYlE1Wi1YTDFjMnU4WmZDdURZR1VNXzg2V01VSXhVc25PaWJUanJZVDVKdFdBT05XZER3T0xfb3dabkFtaWI5UzVPTXRqRmxCOGgySlQwVW9SM28xR0VPVzBnYl9ybFZvc2VXVTlwYnVON1NIX19iZjRRQW1VVm9Ja0h2UERfZzNLbHhnN0p0bEhxd3AtSnR3T3JSYTMySEhILUxR0gG6AUFVX3lxTE9rRU5VZHRwaXNFTlRycHdodmFhMUxqa2tGOWozYTRHVWhZa3ZCaHp6R0hwamVSQ1RDWWx0NWpNelM3c3VubTJUY3dXN05xdFFSbE1qYU8zOXptT21FVUhJX1p4SlM5RC1BUFBQMGx5UWFaRHBRVm5hSWVjWXFWZ2dpcXlwTmdTaS05NTR1aDRnZEtwWmF5UjkteV9rQkEzZnNMQUFBdHpHQXJPZHRtY3ZkSkdNMDlndTFGZw?oc=5
+- School assembly news headlines, November 8: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 8: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXpiT185aHF2QzJES1pXLUxIQmZXeGFham1uT3JYRnc5NlFVZTBUbEM2VkdGczRTRFlHX0JTUEd5b29BMExodGpfaWJaekozZjJUa1Nub3BvWm1jb001cGJsU2VRUnlRZ3dUUS1mU3dYUFpuVnFKbDZfZnNkcGdMaTNNUVd3RG1mUnhHQXEtVFZMcnkxVmtGdzJzSjNKSXV4bmoyX1VXejFCNE02R1dTU25CV3hqUG5NTUZRU2RCQXFabjc4X1dsTUdoTG5KVF9WTURYM0hwNE1EY0lnUkt0WTJWTkPSAeoBQVVfeXFMUHVLUFktMDBJekwxMV9HMERBaHVMNlQ3aXpLOXItU3lNSmJwMlFfUHNMVC10dDJ6SUFPS1pkTVQ0YXRtdGc4Zm4zVllBTk9oQW5GYkdiRXhZUzE1bVpNcGZTQWo2aFFRcUc0eXRwUlRyV2NieXFXYy1jc2hvS1BjTHRXSExlTlBtMGpBcEhJUl9GMndtRkVac21oWHljd2YtY3ljNUJnbjBnMkxxc1V1VElTM2R3bFA3VmFSVW1rQWM5ZEd3ZWdNOFRPTWVORkh3WDVpMThlV1l6RDBjOTFKMjR6RmtXdm13cENn?oc=5
 
-- Delhi airport flight status live updates: Air traffic system 'up and functional' after glitch; 800 flights delayed | India News - Hindustan Times
-  Delhi airport flight status live updates: Air traffic system 'up and functional' after glitch.
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZkxWNWNiWjVuS1UzR2RkSVo5Qkp0SVVzTThnOE5hUnVhRzRlLVhqQTQwdloyXzNhMzk3b1l0N29HRC1Hd3pRYzJqMGhIWk9hb29mNjVsc2hHY0FrbUVncW1Ra1c0Yk9rVENWczNlQU9hRE9QTlFUa0dtWFM0S0RmYzJ4VHc0QUtaUVA5dTRudkp0dnZ4V0QxTU5kclk3N3BDRVZLUTRBV2xreXVWVjc3ekZvMU9KZ1d0UXQ0c2poNGtjUUVhRDBQVDhLYkJRbDF0V3Nrdlc1NlJfN09fT1RKbVlZWGtrRGw2bm10cjc1SElHNXl0ZXhxREY0RXV6bUIwTDludHhzRXXSAY4CQVVfeXFMUFVGZ1VZYnJGU0xIZW9Za3pmTDIzM2V4RVpOeVEteldtZkRZQVlqSXRGUjZvNlNzV2dfSm9QTTY4RkVwT0tfOF9UaHpCYzROclVCM2JteXhuTGJGRjZYemdqRGx4MVhzNFlkUERZajJzZk1XYUUwdHJySGI3Y2JwV0EzQTMwQ1Z3WUl5WTV4NW1NT3dRajRGZzZLNjcya1pMNXoxVWZYRjEzMFBKY2dtX1ZRbDRWTjRsdk5abkJmZmZkNkRNOWZ1MXBzVXNVZXJBMkc0alk1S0JWc19EMjkxNDhLRVV0ZXpHcVNmbXlra1RuSUp6eUo2b2Rwbzd6ZUZiLUxUZ0NFYV9UVVRqZE5B?oc=5
+- India hits out at Pakistan’s ‘illegal nuclear’ history; Delhi CM orders staggered timings for government offices in view of air pollution, and more - The Hindu
+  India hits out at Pakistan’s ‘illegal nuclear’ history. Delhi CM orders staggered timings
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFNVekdkYmxfUWlaSjBWejNkeVBiWVFpYnJFUFlxdjRPYW44Wk8wbGpzOWktWml1SEtZT1hpdko2SkR6emNDUzFlbHRkSGRQMkxHSEJ3RjYwdktCelNiNjZfWVNZbkNiOVNYWkVZMEdaa0Z1UjRQUUk3RWZkMDRvYzF6b01aV3PSAY4BQVVfeXFMTlFIOHVZWmVjX3VOUlRJWUZwU3FIcGl6OVItcE95RTR5SGc1UWc2dkVfQ0U0MjliQ2FjTjlxTWp5cWtXT1NwNmZydGZmWTYzWjJJcWZqLUhkcWRNYUx1aDNfS255WXlnMVhPSGVjVmhJTDBWLUdQdHJwZXdobEU2VlZyS2h1RnAwRldjUWxUQQ?oc=5
 
-- Explained: Delhi Airport Tech Glitch That Delayed Nearly 800 Flights - NDTV
-  The delay was caused by a glitch in
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPVlFDR3ZaOU8zLVZBMGhTbnJsUFBSdWJlMGloUXQ1WkxEX3lxRVpGMGhDZ1lRWnpFLTZIUUp1eXhram52QmdqbjVtaEo0OEwxLUx4YmZ2YmFvSWp5NnZlS0t2TGxwLUNGcmt1Mm53OWR6cE01R2JMUUw2RUNaY2hFeElFcnlWWTg1Vy1YQURMMC00RER3Y1h4LXNlWU1oOGhXYlIyQ1JUM3RMWlVIc1U2QXhEZ0JoT29MRmhjVV9rTDR3T0hwamfSAc4BQVVfeXFMTlBDQmhSQVNISXQyLXZSM2ZVQThhMDNfZFp1NlNGemFmS085NGxFVV9vSWljVFRPYzZ4SWJ3Q0I1U0FFYjJtT1k5Q3YtN0NDdkkzUjFzaVo5WUp0aUp6VDR6by05alZrc3F3QWVLWEJ5ejJISEkteHpFbjJiekNyTDFGaGdNRXhBalVPZTVJSmJ5dkgzTFNFUF95cTFJRld6d0pKWjJ1SmZZaWpDdlJxYTlTcmh2TjdtRDgwb2k0N1N5V2hQN1JNblVHN1IzV3c?oc=5
+- Panel seeks higher protection for Rhesus Macaque under Wildlife Act - The Indian Express
+  Panel seeks higher protection for Rhesus Macaque
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEJ1bGdmeE5zaXEtcmJtRkZmT1NpTXJtYzRSZmJGVDFvOWZsNUtZemZ4QUFxMVh5Q1RtRlJzVHBUUUFTTHYtdzQ5MzNNOGFJUWpXVlJxNU10YV9mNHVoWmdGeUJ3cHZ5X3JGNzFLU2JudzhERXVzTGQ2V0dIcGVibmNTb2VXMkhlV1Vyd1BKeEM0UWJfLXQ1ekVvZVZLUllfWktUakp2eWZjeDY2ak52akMwU0p2c2dr0gG_AUFVX3lxTE5SX1oyOWtzb1A4YkQ3cVB2N216eDFMMFdoSU1DdWROM2FJejhONEhTYnJPT0xnc1oydjhmVWxXLUtLS1ZNWlM4bjdkcjNidWpRRTVIbVY5MURidG5QWVhDMml2Qm1DVS1ybXNQcERxQVhrb0x6ZlhSWGs0UHFoUXk4Zm1BSGxieXJtamExWDZ2YnNYYTRMeG1RN19nYS1uMV90MjRBek9uTXRIdldaMVZBUXV1M0NFR2pJTlpkMW9J?oc=5
 
-- Delhi IGI Airport: Air Traffic Control glitch triggers massive delays, over 60 flights affected - The Hindu
-  Delhi IGI Airport: Air Traffic Control glitch triggers massive delays
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTk1aOUp2RVJEMFl5b2FjRUxiMmdtN3VqNU83ODZuZmJZdHM1TUVPbmRxT3p2Yzd0VEFfeWRMdFFOSVJFWTlianFMR3MxUDlNMmlFa21CZUR3MVdpRFZESHg2enBWTFZfcXVIS0lFNF9LR0VsdkZqXzJfNVI2c3JsY2JSMjJmdUYxamVGdWVOWHRELTU2VnRpSlh0R2tRa01Qc2pIY3puVmZlSlBlb3dwQnU2ZWZFakRobUlOLWgtSEdKTkR3emNiVmlZT3hjckVkazVPS3hn0gHcAUFVX3lxTFB0OFRhOHJtbjRoM1NrVnhuU3MtbmI5a0swWnB5a0ZRbS1NOENWZUpqbjQ5YVhZWUhQNmhwMHBCeU81NnMyanVQUzFQZFlkMzQwLWVTVUNUVHRBei05Y2d4MFl5WVFQVWE3ZXBRb0VMVFdOZmphTXpHTFIzclpjLVVtRkVsMWFVWmtlRDkwVHVyTUdCa2ZaaERrbFE3SlNCM0xiX1RrVjZ1MWx2NExnT0Z1SjNUQWJvNmRyNmxLSklLVEFZbVZJdmlPSUJMS3gxWWdmWHFqOXNIRFc3NjA?oc=5
+- Ex-CIA Officer's Claim On Secret India-Israel Plan To Strike Pak Nuke Site - NDTV
+  Ex-CIA Officer's Claim On Secret India-
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUjJvcVRWY1U0NWtMVGtJY0tnYmVRRWprM1Q4dHdscXFIZWc2bXBOay1lQjFqbjRPTXBsSFVEdUR3OVRKZzRDeEJ4Ni1GaDVfaXIyb1pveDVQVEo3ZzJrcG5nVVRJRXlkNFBmOWM5OUV0S1MxSEFNQWRJTmpLRTBzXzJyYVhBdVlxY2t2Z3ROc09fcFExUnVOZHk1aUtuN1B2MFVpeWxKVW8yRnRVUC0xVS1iclpxSEJRZy1FbF9OU0VnUkxKOGRaNlBjR2haN3ZBck9PdjN4QkdXbHpvanVQSWR6aUdUalNsR2pWQUZzX2NoRjBhNEtR0gH_AUFVX3lxTE4zejZ4dk5TNWo5U2U1Y2NJR3NSa1NpQkd6X1J3OE56QXBDU0tDUF9FZ0w2TlRoc1BudmcwcFVJVWNGMktJRnFNV1NQTUw1ekdRRmxKUGs0V0txOVRUVFl4dnNXdmR6dHVkbnRkdk56ZEQzTDhWbGVibXNHMDBudmJXcDJseldWOVJ4SG1zdW55V2VRQjhnZV9yZzZ0QjdWRVVFRjl1c0xublhwZWVxbWJXalgxSVFBQjRXWTBKOWF2VnlndjhRWkFYMUdZc2ZVTFJtekV0UFFDNWI4UE9CWmVyTDdpN3QzVXBqZFpxcHFrdHdPb0ZoMXk3ZmJUdEdUNA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-11-07 18:26:32 UTC_
+_Last updated: 2025-11-08 01:11:26 UTC_
