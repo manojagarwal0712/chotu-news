@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Kerala govt doctor slams poor conditions at medical college after patient’s death
+- ‘Hope issues flagged by Tiprasa Accord will be solved soon’: Tripura CM Manik Saha
   
-  🔗 https://indianexpress.com/article/india/kerala-govt-doctor-slams-poor-conditions-at-medical-college-after-patients-death-10353866/
+  🔗 https://indianexpress.com/article/india/issues-flagged-tiprasa-accord-solved-soon-tripura-cm-manik-saha-10354235/
 
-- If he’s really concerned, Rahul should have appointed SC, ST or minority person as LoP: Rajnath
+- 2 BSF personnel injured by cattle smugglers, 1 suspect detained by Tripura Police
   
-  🔗 https://indianexpress.com/article/india/rahul-appointed-sc-st-or-minority-person-lop-rajnath-10353824/
+  🔗 https://indianexpress.com/article/india/2-bsf-personnel-injured-cattle-smugglersdetained-by-tripura-police-10354192/
 
-- VVPAT slips found dumped in Samastipur; official suspended
+- ‘Notice’ claiming students will get 50 marks for attending Modi event is fake, Dehradun university says
   
-  🔗 https://indianexpress.com/article/india/vpat-slips-dumped-samastipur-official-suspended-bihar-elections-10353765/
+  🔗 https://indianexpress.com/article/india/notice-claiming-students-will-get-50-marks-for-attending-modi-event-is-fake-dehradun-university-says-10354203/
 
-- Ernakulam-Bengaluru Vande Bharat train sees huge demand; tickets sold out within hours of launch
+- 3 students from NIT Silchar fall into waterfall in Dima Hasao, search ops underway
   
-  🔗 https://indianexpress.com/article/india/ernakulam-bengaluru-vande-bharat-train-launch-demand-tickets-sold-out-irctc-10353625/
+  🔗 https://indianexpress.com/article/india/3-students-from-nit-silchar-fall-into-waterfall-in-dima-hasao-search-ops-underway-10354124/
 
-- As Uttarakhand turns 25, what is the state doing for those who led agitation?
+- PM Modi meets BJP veteran Advani to extend wishes on his birthday
   
-  🔗 https://indianexpress.com/article/india/as-uttarakhand-turns-25-what-is-the-state-doing-for-those-who-led-agitation-10353742/
+  🔗 https://indianexpress.com/article/india/pm-modi-meets-bjp-veteran-advani-to-extend-wishes-on-his-birthday-10354129/
+
+- India’s Top 5 AI Startups: Here is what the do and What their LLMs do
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/indias-top-5-ai-startups-here-is-what-the-do-and-what-their-llms-are-10353903/
+
+- iPhone 16: Apple’s Flagship at a Steal on Flipkart and Amazon
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-16-apples-flagship-at-a-steal-on-flipkart-and-amazon-10353917/
 
 - OnePlus 15 arriving on November 13 with Snapdragon 8 Elite Gen 5 and 165Hz display
   
@@ -32,13 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/tech-reviews/milagrow-coinsucker-pro-review-a-smile-antidote-for-dust-10353266/
 
-- Will AI match human intelligence? Experts split on answers and the question
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/will-ai-match-human-intelligence-experts-split-on-answers-and-the-question-10353136/
+- X user bullies Forbes 30 under 30 startup founders for their looks, netizens call out racism against Indians online
+  Giga, co-founded by IIT Kharagpur alumni Varun Vummadi and Esha Manideep, secured $61 million in funding and partnered with DoorDash
+  🔗 https://www.livemint.com/companies/people/x-user-bullies-forbes-30-under-30-startup-founders-for-their-looks-netizens-call-out-racism-against-indians-online-11762621494497.html
 
-- Scientists create brain implant smaller than a grain of rice
-  
-  🔗 https://indianexpress.com/article/technology/science/scientists-create-brain-implant-smaller-than-a-grain-of-rice-10353073/
+- Forget coding, Amazon’s AWS CEO wants his own children to master these soft skills in AI age — can you guess them?
+  Matt Garman, CEO of AWS, emphasizes the importance of soft skills like critical thinking, adaptability, and communication. He advises his children to develop these skills in college.
+  🔗 https://www.livemint.com/companies/people/amazon-aws-ceo-wants-his-children-develop-soft-skills-critical-thinking-creative-communication-adaptable-success-ai-age-11762604403305.html
 
 - Nvidia sees ‘very strong’ demand for Blackwell chips — here's what CEO Jensen Huang said
   Nvidia CEO Jensen Huang reported strong demand for chips from TSMC.
@@ -52,13 +60,13 @@
   Onex Corp.’s top executive says the alternative asset manager is open to making further large bets on insurance companies.
   🔗 https://www.livemint.com/companies/news/onex-ceo-sees-potential-for-more-insurance-deals-after-aig-win-11762541547504.html
 
-- Petrobras’s Top Oil Field to Start Next Platform in December
-  Petrobras will continue expanding production at the world’s biggest oil field
-  🔗 https://www.livemint.com/companies/news/petrobrass-top-oil-field-to-start-next-platform-in-december-11762540746753.html
+- Dividend Stocks: ONGC, Nuvama Wealth, Amara Raja, among others to trade ex-dividend next week; Full list here
+  ONGC, Nuvama Wealth, Amara Raja, Godfrey Phillips India, Power Grid Corp, Garden Reach Shipbuilders are among
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-ongc-nuvama-wealth-amara-raja-among-others-to-trade-ex-dividend-next-week-full-list-here-11762615515279.html
 
-- Losses widen for parent company of Trump's Truth Social in Q3: How has the US President's businesses fared in 2025?
-  The company reported a net loss of $54.8 million in the third quarter. This was wider than the $19.2 million loss reported in the same period last year.
-  🔗 https://www.livemint.com/companies/news/losses-widen-for-parent-company-of-trumps-truth-social-in-q3-how-has-the-us-presidents-businesses-fared-in-2025-11762535241278.html
+- Investors are on the hunt for the next hot stock. They're taking cues from Donald Trump's picks
+  Since January 2025, the Trump administration invested in private American companies. Now, investors are trying to predict the next White House pick to get ahead
+  🔗 https://www.livemint.com/market/stock-market-news/investors-on-hunt-next-hot-stock-take-cues-donald-trump-picks-us-govt-strategy-critical-sectors-private-company-markets-11762612177308.html
 
 - Swatch to be removed from benchmark Swiss stock index after trading volumes, shares fall
   Swatch to be removed from benchmark Swiss stock index
@@ -71,14 +79,6 @@
 - GREED & fear: Jefferies sees room to accumulate gold if prices correct
   's 200-day moving average is currently about 23 per cent below the peak. Christopher Wood, Jefferies' Global Head of Equity Strategy, has indicated that accumulating gold would be a good idea
   🔗 https://www.livemint.com/market/commodities/greed-fear-jefferies-sees-room-to-accumulate-gold-if-prices-correct-11762586246632.html
-
-- Dr. Reddy’s Labs to Orkla India - Prashanth Tapse of Mehta Equities suggests stocks to buy in the short term
-  The Indian stock market remained flat on Friday, with the Sensex falling 95 points. Mixed investor sentiment and global market weakness led to subdued trading.
-  🔗 https://www.livemint.com/market/stock-market-news/dr-reddy-s-labs-to-orkla-india-prashanth-tapse-of-mehta-equities-suggests-stocks-to-buy-in-the-short-term-11762584890484.html
-
-- Pine Labs IPO vs Emmvee Photovoltaic IPO vs PhysicsWallah IPO vs Tenneco Clean IPO - how much gain grey market signals?
-  The IPO market in November 2025 is vibrant with varied subscriptions from companies like Emmvee Photovoltaic and Tenneco Clean Air India. Investor focus is
-  🔗 https://www.livemint.com/market/ipo/pine-labs-ipo-gmp-emmvee-photovoltaic-ipo-gmp-physicswallah-ipo-gmp-tenneco-clean-air-india-ipo-gmp-ipo-gmps-11762581049619.html
 
 - Reliance Jio expands free Google AI Pro offer to all age groups: How to claim it and what all it offers
   Reliance Jio is offering users 18 months of free access to Google AI Pro. The offer is available to all Jio 5G users through the MyJio app.
@@ -100,6 +100,26 @@
   Gemini can turn text prompts and images into 8-second animated clips with sound and dialogue. Here's how you can create the
   🔗 https://www.livemint.com/technology/tech-news/gemini-can-turn-simple-prompts-into-8-second-videos-with-sound-and-dialogue-here-s-how-explains-google-11762572560578.html
 
+- Stock market today: Nasdaq, S&P 500, Dow come off lows as rough week for tech nears end - Yahoo Finance
+  <ol><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2wtdW85Sm9Yd2d6STJTcmt3VXV3WHpfMmNzUlJsUUxJcG13allCbTlJNkxzbndiazlWblA3U25XNmM4Vmg3XzUzVXZnR0VOUFg1MlJGT2ZYMVhMSFZyU1ZxRnlUYjkxUG
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2wtdW85Sm9Yd2d6STJTcmt3VXV3WHpfMmNzUlJsUUxJcG13allCbTlJNkxzbndiazlWblA3U25XNmM4Vmg3XzUzVXZnR0VOUFg1MlJGT2ZYMVhMSFZyU1ZxRnlUYjkxUGJRWmV3YWo5QmhKRTh3Y3B5TkptbEI3dVRiSlBOS2VuVlBXdy1ycUl3UG5QVlBVOFhVWDBUSkRzODV4Z0VJbm0wYXU0YnhCWVM0SXB3YWhDR2l2Z0xPLWVqMGNRYWZESjdFZmd3OUE?oc=5
+
+- The Astonishing Bull Market Will End One Day. Are You Ready? - The New York Times
+  The New York Times asks: Are you ready for the end
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5jVkpmX1dNTjd5Znh6WUJHT3VVT1NWY28zX2pIaW83UWp6TlZneUYzU0hPNFNNSHM2SXZQS2NaTUJjd3g3VVdtRDRWRWhYV0dMVEZEdndWWUhTaDBGN1NvV08xS25va2FrZ3ZTNGxVa1JvaWRYdjVj?oc=5
+
+- Investors are on the hunt for the next hot stock. They're taking cues from Donald Trump's picks - livemint.com
+  Investors are on the hunt for the next hot stock. They're taking
+  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxNaGdXYjFMTk03Y093c3MxcXBQUzBvTDNuMFdwVVV5a0t4ekhadHhLMXotaDhKdmlqU1llQ1hDd1dhenFDV1d2c2RUZXVHYnNFMThkbDA2U1hzZmRhWnJ3VlF1aE9MWHhjVmFaNWp5eHktdV8zdExEX0Zzd0NqX2dhbUJpZGdrRlFCempHSE1oWjVTN2tMRHphemFuSWJiUVRCeGhKbm1uYjRRSGlwUXZwd1hMSFBXYWxubkVhZEtoYUtnNnExeHByZ3V0bE1Reld6WlljamFfZzRwTXMwWHg3LTdTVU5qTjBRaHlBenFsTW9fMElpX1VReHhjNzc2ZWp6c01XYnlGdXpoZlk2SENQQUlyejdaUHpX0gGeAkFVX3lxTE1tYXNVN3pZVTRYSkJlVkhkY1JsQVgwWlZXdTY2SVBKamplbmZQWXQyWVZXZ3hpdnFlSEZOZXU0Mm56eHo3aFFNTnBoakU1MHpVU3JyVUpYTERSUjhmLTBhUXZLV0N1WmhUWWlDN0xaN1JxaHVwOGdjZ2UwRl9xcWlTNGIzNS11aWNxWFhQdUpmOUZ6a2dXMGN1UmhmWUQ5RGhpakx5N1RFOElDMmxxZ1hsZnJnSUt0a3llNDQtWDNtcGJ2a2xsUXppWHVNV0E1WldZcnhFcG1rbFZDai1qbURsSF9mcjkzMUFJZ2NvQWFVa0JzWERGT1ZNVjNUeklmVUJaRmhWZXY4aXR6cHlhcTZjeGRuT01lMFBjMjZZWHc?oc=5
+
+- Tech bloodbath: Over $1 trillion erased from US giants as AI-fueled selloff rocks markets - The Economic Times
+  The Economic Times reports that over $1 trillion was erased from
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSkVRdzM1MUdTUGZJY0lRUG9Zb0x5WnBfRkFWYTdDSHIyNldyVmVhWHJpNzkwX3BfSzJzQjQ3bndLWjBFNmxTaEk5czFxZklBdjRCRUMwYU9fU0N3LTRKUnl3NmN5UzJmTmt2RE5OZTE3djRqaHZZaDQ5N2d0RlE4cXZYbzVxc192VjcwelJjeHJyb2hqdDEyUmE1UFkyNU1jaWl0cVAwYWw1eTNJenlfZHlsbG1VVHRxeGdocEwtTFdIc095WWVMakpFMjl6dTVuZndQWDh4cExoSkhLaGJGaDdRWkVxVmxuNTJGNlZzeExXOFdKS2fSAfsBQVVfeXFMTlRPeWZlY3g5YjJ5aVZQemFpLW13czdBQnRsejNJT3N6LURvcXVBcW1UMjdnckFzS05RV2JXTC1FYVJVWUhmRU9pRTl5OHRVRXVob0RkLUIta3F3T0F5YndwVGJQRnlnUnpIOGhYNW1mYThKT2pfYnNJNGpJbFVYNUNhTkMtbi1ZazRKZUtXZVdneHVRUGd6UkRudTk1cjY1elFUWjVPQklnWmhnTkpPOEhsZHpvT3VQSV9GbzJ3d2VodWt6T3lPTlliaG55SlRqc19LWHdScWNZbHl1TFpxY0x1bm10S1BuSndBcTNIN2t6MkpFV0ZBZUdGNzA?oc=5
+
+- IPO markets are robust:SEBI Chairperson - The Hindu
+  IPO markets are
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEFzd1Jwa0preTdMLVJZX3JnNVRCcXFqZnpheXBnUjlZcVlwa0Z6Wm9zb1lUQnowbm0zV2YtbUZvVFZyTnk5Vk1XS0lVRjlfSmxaX2Y0dlh1eFNBaVhBS3NudXpFNXN6TEJ0Z1Y0R1JpZ2xOYnJPMHF5Qm9vc3k2NUdWNGhiMzdtWmI4dktJc3V1ZVhRWGtv0gGeAUFVX3lxTFA5emVyRDJBOGVIaDZVZENpUHFJejROWFZtMUMwOXFTOTc0WkVlYmdMb0d2bUJnS0dLMEFuOEVxTHU4VVNfcHFKZ0JyN203ZEcxZ3ZraXdBVlFjS3l2RmRxSWplM2xwX0pGS0pzUGJMbDJkVVJHUUFpallIQkt1U0xnN1I1Z1J5MEV2dlEzTEY0eF9IbkQwWV9LNmtEVFNn?oc=5
+
 - IPO Calendar: Busy week ahead with PhysicsWallah, Emmvee and Tenneco leading Rs 10,000 crore line-up
   The coming week will see a flurry of IPO activity with five public issues looking to raise over Rs 10,000 crore across sectors like edtech, clean energy, automotive, and pharma.
   🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-busy-week-ahead-with-physicswallah-emmvee-and-tenneco-leading-rs-10000-crore-line-up/articleshow/125184643.cms
@@ -120,45 +140,85 @@
   Sebi has cautioned investors against unregulated online platforms offering digital gold products. Such investments carry significant counterparty and operational risks, says Sebi.
   🔗 https://economictimes.indiatimes.com/markets/commodities/news/sebi-warns-investors-against-unregulated-platforms-offering-digital-gold-products/articleshow/125183540.cms
 
-- Breaking News Live Updates, November 7: Trump says may visit India next year; calls PM Modi 'great friend' - Times of India
-  &nbsp;&ngt;<font color="#6f6F6f
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxObUp0dFNaa2luMGdzVGNRbG54NEZ2XzJlM3NwWDlNQ3U1VERqd0dFUmF1T3YxdExnWklVQi12eUdSX3k0cUUtZHE2M2VBY29NWEx3TkgxUDQzbjI3TGVfcEN1RDlqMURBcG5RMjhlR1VCdnpscFVRNVZNbDgwd0pmQU5YTTBDeC1aajdOdmZiaXRjYUJ3T2FIMUQwX1RsTDRNQ1lRag?oc=5
-
-- "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
-  "8 Planes Shot Down": Trump Updates Key Figure
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3F1T1VfaU83YmV1RHhBdWlyeTFjZ0ZhaVBFa3lsR1p1N05vc2pCT2ZDRFJ4dDcwc2RpeEI4UmRzVEEwc2RsWkxzVmRTbThVZ2tRTnp1MEpKTkp6TFd3ZUJBU185ZG9hT0hHVlBfaDVJeW9LWHVWdkoxSzZFOVYyRklUVzVFVHoxTGw2TUc2S190cVdMeHRLZ1J1Y0xSa1BCbGxZeDNXNnZDdTNjZEdsakJISUN3SzRRM0tHTTdOYXTSAcgBQVVfeXFMTV9JUDBEWkNlX3R5MjlITlNhTnQySXZ6V1BZN0RsVnl0cTlRd1U1OTBzcU1oNllFdjhjc0VkSWVvTUE1UEIyWGw5c1BHaG1ObVZCTzhnc243WUlvczdMZ1Z3a0I1dWNiTFdSelE3T1FXNjJSRkh5TGprZ0pTc0hmbmZKRkd5RnJKaXV6Y254N1hzaDJmR0w5NlcyaDNlRktsdjRGZmt0MkVFLVJyVkpBMldMOEZTTFNwbUszcUl3SXJOTXlPUlEwSWE?oc=5
+- After India war lessons, Pakistan plans a unified command. More power for Munir? - India Today
+  After India war lessons, Pakistan plans a unified command.
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUHJrbTZoWmRoN2NRRFd1Y3phU0x0SlZFRG9CdGsxUHhUc2t5QjJiZXlLejhWSGlmODdVU2hoQVFjcnJHdkxsU205NGRyTm1IMzhqaVZyRjhyRUxsZXl4dWZ5anRIcGo2RFpDa0FsRjgzcU5KQVU0WkdtSHBtR2Z3OWFSd0xoSGFjUWlVNmMweTFyZzRYWTMwa3daTkRkLXBUSm9CVTVmQmVuWDF3aHFlRlAyaGExeVoyVEVqM1VNS3UzcVNQMXJ3RURHS1B6dTF6a1Y1ZmtYaVFoZm00dWxxTU930gHnAUFVX3lxTE9xeU5qc0xoVEoyQ3BzWlZMemlhTTRPZDF5UE43MlU1MDl3bmlSR2JTV3QzY0VpWjJnZkQwRkkwMS1lRUsyLWRTdHFUUUc3ZjFfS1hrcm8yNGFvSHlMVlVrMVJVQmxsU0xaNzJ3cjZZMkloczZlMW03a1pOdlRXTlFNQTNIZkJBaXBMVkVQcEZQV2V4VVlfTGJKTFU1Wk9CSDMyc3Y3TVR4WGpHSTEwZFJlbkQwMVNtQlZoVWtHMEI3QnM3TXNEcHhjaGNsWXBGNmpvbXZDMEhuX2M2TVpIbURvSXNxVzhjWQ?oc=5
 
 - Trump to visit India next year? US President shares update | India News - Hindustan Times
   US President shares update on his visit to India.
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFBBaEUyVXNURHFoVW9iaVNtbVpsaC1NdWwzb180d2ROZmpLcEd0dnFtdnUta0hOUUlNNy1LcmhaOXA1ZWdpWmxWWVJwQ09GUnpQODZSUEZjNUFwYXd0a2FOVTBBak55OVF5OGdXNGlGV3RLV3ZoZ1hGbU8zeHdXYUxaX2ppZ2h2VkxWRjYyaTlwZGJ4ZWtqWFpKTXFYMVNsY1djeGdCSG51cXB2SVVXaEhnQjNzdGxrYjFjRXBsVEswbUk0UFlFRzJQYzdic1kxYTdLZDlhbG00OGfSAeABQVVfeXFMT0xTaUNmQ1Z0Q1U1Tm5xbE1QU1RJb1RRZHNXSkZnak1RbzZvTjVYdHdzQXczZEtVaUdrMmozMUh1OWduT0RKRGI4ZkFMWjk1dDl0VlNGTTBuUnEwSFdlOThudnJMV1Q3VVpyMm1UVVFib3dMbDRtZkxUS1J2NHpZS1hNTENtQTJxT0RtNkwzd21lZHJoY0c4VXFsSE1TWUJScjBFZ2Vfdk53ZGN1Q1c3SktDSV9hTzhkaUZ6SkdaeFRCV1BqQXBSTDZJdmNxemFYOEU1eXpKcC1ORTZOVEE1TDU?oc=5
 
-- VVPAT slips found dumped in Samastipur; official suspended - The Indian Express
-  VVPAT slips found dumped in Sam
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPWi1zbXhqcUY2b2UwNWZnb2dZUkZEUDd0emt3WGcwNWR3dWwwR1FlYVU3cnNZb3ZEejNGRF9rZThjLTFwckVucUs5YllwTkdUS2d3V1pLal9BT0dtd2tnUUpxUmdYUnQ4eHE0bHlCVGlyaDl0V3p6dldELWVleFhkZHRjSnlGd240QnVSbW9tZ3ZlcHN3Q2xnSjRPVlpsMlVRY2QtTUhmZGZpLUZCS3JDXzVFYw?oc=5
-
-- Khattar unveils national programme to fast-track landfill remediation | India News - Hindustan Times
-  Khattar unveils national programme to fast-
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWZ2UFBkUUg0VnVvSzZYdHIxWmMteDBoZnl3cFlUSjd4NXBISTlrYnpnTDMtZk1jWFhhUGtRTEoxcUtzWmVva1o0SFlNRDhlbHVDbDlIaWFpWWQxRjRxakpGSGtGTmJPUkh5YTA5cXJLQW14QlhyUEZxQVNwdXZDTDZJazJKblJySmdSZlBXb3hyc2pWSTA2ZzM0ZWtuRjBubnV5NGZUYUVlUFdJd3ZKSHBtbWNwM3lLeUEzWDc1WXppT01MOEo1N00xcWPSAdIBQVVfeXFMTjdGUlpFay1jVEhaQ2RQbGg0YVBJb0pCMHNnUlpEYjNTUWRwcmRYLVNQQzdvTG9VcWFCV1U4Ml9mWlJEakFqZmRvcXJWc3hCZ3lGRXBLdmZ4RHpLRkM4ZE1ZZFdYTndwX19wcm0wWHIxLVBmdWxIa0NsWjNNLVFCaThKR2pwTE5adkZ2Z2dlSF8xdG9nVnJEVkhOYkZtdkNPWmlaUnhtMHpTOEZoZlFZR0cxNkN6UWNWU1FpTFFyajN5LU1tUzIxQnFmZEVEYWtlb2pR?oc=5
-
-- Breaking News Live Updates, November 7: Trump says may visit India next year; calls PM Modi 'great friend' - Times of India
-  &nbsp;&ngt;<font color="#6f6F6f
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxObUp0dFNaa2luMGdzVGNRbG54NEZ2XzJlM3NwWDlNQ3U1VERqd0dFUmF1T3YxdExnWklVQi12eUdSX3k0cUUtZHE2M2VBY29NWEx3TkgxUDQzbjI3TGVfcEN1RDlqMURBcG5RMjhlR1VCdnpscFVRNVZNbDgwd0pmQU5YTTBDeC1aajdOdmZiaXRjYUJ3T2FIMUQwX1RsTDRNQ1lRag?oc=5
-
 - "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
   "8 Planes Shot Down": Trump Updates Key Figure
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3F1T1VfaU83YmV1RHhBdWlyeTFjZ0ZhaVBFa3lsR1p1N05vc2pCT2ZDRFJ4dDcwc2RpeEI4UmRzVEEwc2RsWkxzVmRTbThVZ2tRTnp1MEpKTkp6TFd3ZUJBU185ZG9hT0hHVlBfaDVJeW9LWHVWdkoxSzZFOVYyRklUVzVFVHoxTGw2TUc2S190cVdMeHRLZ1J1Y0xSa1BCbGxZeDNXNnZDdTNjZEdsakJISUN3SzRRM0tHTTdOYXTSAcgBQVVfeXFMTV9JUDBEWkNlX3R5MjlITlNhTnQySXZ6V1BZN0RsVnl0cTlRd1U1OTBzcU1oNllFdjhjc0VkSWVvTUE1UEIyWGw5c1BHaG1ObVZCTzhnc243WUlvczdMZ1Z3a0I1dWNiTFdSelE3T1FXNjJSRkh5TGprZ0pTc0hmbmZKRkd5RnJKaXV6Y254N1hzaDJmR0w5NlcyaDNlRktsdjRGZmt0MkVFLVJyVkpBMldMOEZTTFNwbUszcUl3SXJOTXlPUlEwSWE?oc=5
+
+- Trump Calls PM Modi A "Great Man", Hints At Possible India Visit Next Year - NDTV
+  Trump calls PM Modi A "Great Man", Hints At
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWduRVIteHFNT3RlRUpYYW9mTXgtb0N4SHBra250UWhvallJdjBXbURrTE0xaU54SmxvcWhJTlJTRXUyYi1JNkhtWU14eXRNVjFQR3J2b19KOE9MR1VGOFdnd3RHQVhGSmdNdVBGWEJaMDRpd3ZMN2xZSVFxaEtCMGdpazNXcGRzSy01VERBRUszNkROZUNlR1MzUXNpbnVNemZsSG50YVNDdVhfMnhz0gG3AUFVX3lxTE9mb2pmdzVkUmRGYTc4TkxBb2JsRWlfZFpDWDVpdWF3bVo0a241bmYxMXlWcEttc2JRNFFROElKajFzWkpMMDFFT2I4aWJxTDFpTEVaaDdlUFhtVGdXX0R5ZjRtSE1vcWZJRENMUjlscGNzc2llT2VqLTBCM3NLWnVsU2RNZnJqT3hhMnVwUVpCei1CX19aTGZOR0ZBNEJxd29aaVk4VlV1TnlfcFhrLTJMNTZxM1p4TQ?oc=5
+
+- Harmanpreet Kaur and Radha Yadav: The Indian players who made history at ICC Women's Cricket World Cup - BBC
+  Harmanpreet Kaur and Radha Yadav made history at ICC
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1dWZaLS1MSWc0dkozRFBIM0ZTdkozMU9CX3QtSlFYRlNTZ2swYlJqN096QU03bVRULTI5S2FfRGFtcnIzTkJjT2xrZkMxckw2MFFTT2V1TGFkQdIBX0FVX3lxTFBLcDVTOGl2UmlZSUg4WjJHSEExM2hVTDlaYk1kblJDQXFUcG1fSjlxOFMxbmpWeVZWM2p0a0ZrbDFENUs4c181ODQ3dkVSd0czQzRZV2RtaUI2VE5hTkJv?oc=5
+
+- After India war lessons, Pakistan plans a unified command. More power for Munir? - India Today
+  After India war lessons, Pakistan plans a unified command.
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUHJrbTZoWmRoN2NRRFd1Y3phU0x0SlZFRG9CdGsxUHhUc2t5QjJiZXlLejhWSGlmODdVU2hoQVFjcnJHdkxsU205NGRyTm1IMzhqaVZyRjhyRUxsZXl4dWZ5anRIcGo2RFpDa0FsRjgzcU5KQVU0WkdtSHBtR2Z3OWFSd0xoSGFjUWlVNmMweTFyZzRYWTMwa3daTkRkLXBUSm9CVTVmQmVuWDF3aHFlRlAyaGExeVoyVEVqM1VNS3UzcVNQMXJ3RURHS1B6dTF6a1Y1ZmtYaVFoZm00dWxxTU930gHnAUFVX3lxTE9xeU5qc0xoVEoyQ3BzWlZMemlhTTRPZDF5UE43MlU1MDl3bmlSR2JTV3QzY0VpWjJnZkQwRkkwMS1lRUsyLWRTdHFUUUc3ZjFfS1hrcm8yNGFvSHlMVlVrMVJVQmxsU0xaNzJ3cjZZMkloczZlMW03a1pOdlRXTlFNQTNIZkJBaXBMVkVQcEZQV2V4VVlfTGJKTFU1Wk9CSDMyc3Y3TVR4WGpHSTEwZFJlbkQwMVNtQlZoVWtHMEI3QnM3TXNEcHhjaGNsWXBGNmpvbXZDMEhuX2M2TVpIbURvSXNxVzhjWQ?oc=5
 
 - Trump to visit India next year? US President shares update | India News - Hindustan Times
   US President shares update on his visit to India.
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFBBaEUyVXNURHFoVW9iaVNtbVpsaC1NdWwzb180d2ROZmpLcEd0dnFtdnUta0hOUUlNNy1LcmhaOXA1ZWdpWmxWWVJwQ09GUnpQODZSUEZjNUFwYXd0a2FOVTBBak55OVF5OGdXNGlGV3RLV3ZoZ1hGbU8zeHdXYUxaX2ppZ2h2VkxWRjYyaTlwZGJ4ZWtqWFpKTXFYMVNsY1djeGdCSG51cXB2SVVXaEhnQjNzdGxrYjFjRXBsVEswbUk0UFlFRzJQYzdic1kxYTdLZDlhbG00OGfSAeABQVVfeXFMT0xTaUNmQ1Z0Q1U1Tm5xbE1QU1RJb1RRZHNXSkZnak1RbzZvTjVYdHdzQXczZEtVaUdrMmozMUh1OWduT0RKRGI4ZkFMWjk1dDl0VlNGTTBuUnEwSFdlOThudnJMV1Q3VVpyMm1UVVFib3dMbDRtZkxUS1J2NHpZS1hNTENtQTJxT0RtNkwzd21lZHJoY0c4VXFsSE1TWUJScjBFZ2Vfdk53ZGN1Q1c3SktDSV9hTzhkaUZ6SkdaeFRCV1BqQXBSTDZJdmNxemFYOEU1eXpKcC1ORTZOVEE1TDU?oc=5
 
-- VVPAT slips found dumped in Samastipur; official suspended - The Indian Express
-  VVPAT slips found dumped in Sam
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPWi1zbXhqcUY2b2UwNWZnb2dZUkZEUDd0emt3WGcwNWR3dWwwR1FlYVU3cnNZb3ZEejNGRF9rZThjLTFwckVucUs5YllwTkdUS2d3V1pLal9BT0dtd2tnUUpxUmdYUnQ4eHE0bHlCVGlyaDl0V3p6dldELWVleFhkZHRjSnlGd240QnVSbW9tZ3ZlcHN3Q2xnSjRPVlpsMlVRY2QtTUhmZGZpLUZCS3JDXzVFYw?oc=5
+- "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
+  "8 Planes Shot Down": Trump Updates Key Figure
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3F1T1VfaU83YmV1RHhBdWlyeTFjZ0ZhaVBFa3lsR1p1N05vc2pCT2ZDRFJ4dDcwc2RpeEI4UmRzVEEwc2RsWkxzVmRTbThVZ2tRTnp1MEpKTkp6TFd3ZUJBU185ZG9hT0hHVlBfaDVJeW9LWHVWdkoxSzZFOVYyRklUVzVFVHoxTGw2TUc2S190cVdMeHRLZ1J1Y0xSa1BCbGxZeDNXNnZDdTNjZEdsakJISUN3SzRRM0tHTTdOYXTSAcgBQVVfeXFMTV9JUDBEWkNlX3R5MjlITlNhTnQySXZ6V1BZN0RsVnl0cTlRd1U1OTBzcU1oNllFdjhjc0VkSWVvTUE1UEIyWGw5c1BHaG1ObVZCTzhnc243WUlvczdMZ1Z3a0I1dWNiTFdSelE3T1FXNjJSRkh5TGprZ0pTc0hmbmZKRkd5RnJKaXV6Y254N1hzaDJmR0w5NlcyaDNlRktsdjRGZmt0MkVFLVJyVkpBMldMOEZTTFNwbUszcUl3SXJOTXlPUlEwSWE?oc=5
 
-- Khattar unveils national programme to fast-track landfill remediation | India News - Hindustan Times
-  Khattar unveils national programme to fast-
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWZ2UFBkUUg0VnVvSzZYdHIxWmMteDBoZnl3cFlUSjd4NXBISTlrYnpnTDMtZk1jWFhhUGtRTEoxcUtzWmVva1o0SFlNRDhlbHVDbDlIaWFpWWQxRjRxakpGSGtGTmJPUkh5YTA5cXJLQW14QlhyUEZxQVNwdXZDTDZJazJKblJySmdSZlBXb3hyc2pWSTA2ZzM0ZWtuRjBubnV5NGZUYUVlUFdJd3ZKSHBtbWNwM3lLeUEzWDc1WXppT01MOEo1N00xcWPSAdIBQVVfeXFMTjdGUlpFay1jVEhaQ2RQbGg0YVBJb0pCMHNnUlpEYjNTUWRwcmRYLVNQQzdvTG9VcWFCV1U4Ml9mWlJEakFqZmRvcXJWc3hCZ3lGRXBLdmZ4RHpLRkM4ZE1ZZFdYTndwX19wcm0wWHIxLVBmdWxIa0NsWjNNLVFCaThKR2pwTE5adkZ2Z2dlSF8xdG9nVnJEVkhOYkZtdkNPWmlaUnhtMHpTOEZoZlFZR0cxNkN6UWNWU1FpTFFyajN5LU1tUzIxQnFmZEVEYWtlb2pR?oc=5
+- Trump Calls PM Modi A "Great Man", Hints At Possible India Visit Next Year - NDTV
+  Trump calls PM Modi A "Great Man", Hints At
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWduRVIteHFNT3RlRUpYYW9mTXgtb0N4SHBra250UWhvallJdjBXbURrTE0xaU54SmxvcWhJTlJTRXUyYi1JNkhtWU14eXRNVjFQR3J2b19KOE9MR1VGOFdnd3RHQVhGSmdNdVBGWEJaMDRpd3ZMN2xZSVFxaEtCMGdpazNXcGRzSy01VERBRUszNkROZUNlR1MzUXNpbnVNemZsSG50YVNDdVhfMnhz0gG3AUFVX3lxTE9mb2pmdzVkUmRGYTc4TkxBb2JsRWlfZFpDWDVpdWF3bVo0a241bmYxMXlWcEttc2JRNFFROElKajFzWkpMMDFFT2I4aWJxTDFpTEVaaDdlUFhtVGdXX0R5ZjRtSE1vcWZJRENMUjlscGNzc2llT2VqLTBCM3NLWnVsU2RNZnJqT3hhMnVwUVpCei1CX19aTGZOR0ZBNEJxd29aaVk4VlV1TnlfcFhrLTJMNTZxM1p4TQ?oc=5
+
+- Harmanpreet Kaur and Radha Yadav: The Indian players who made history at ICC Women's Cricket World Cup - BBC
+  Harmanpreet Kaur and Radha Yadav made history at ICC
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1dWZaLS1MSWc0dkozRFBIM0ZTdkozMU9CX3QtSlFYRlNTZ2swYlJqN096QU03bVRULTI5S2FfRGFtcnIzTkJjT2xrZkMxckw2MFFTT2V1TGFkQdIBX0FVX3lxTFBLcDVTOGl2UmlZSUg4WjJHSEExM2hVTDlaYk1kblJDQXFUcG1fSjlxOFMxbmpWeVZWM2p0a0ZrbDFENUs4c181ODQ3dkVSd0czQzRZV2RtaUI2VE5hTkJv?oc=5
+
+- After India war lessons, Pakistan plans a unified command. More power for Munir? - India Today
+  After India war lessons, Pakistan plans a unified command.
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUHJrbTZoWmRoN2NRRFd1Y3phU0x0SlZFRG9CdGsxUHhUc2t5QjJiZXlLejhWSGlmODdVU2hoQVFjcnJHdkxsU205NGRyTm1IMzhqaVZyRjhyRUxsZXl4dWZ5anRIcGo2RFpDa0FsRjgzcU5KQVU0WkdtSHBtR2Z3OWFSd0xoSGFjUWlVNmMweTFyZzRYWTMwa3daTkRkLXBUSm9CVTVmQmVuWDF3aHFlRlAyaGExeVoyVEVqM1VNS3UzcVNQMXJ3RURHS1B6dTF6a1Y1ZmtYaVFoZm00dWxxTU930gHnAUFVX3lxTE9xeU5qc0xoVEoyQ3BzWlZMemlhTTRPZDF5UE43MlU1MDl3bmlSR2JTV3QzY0VpWjJnZkQwRkkwMS1lRUsyLWRTdHFUUUc3ZjFfS1hrcm8yNGFvSHlMVlVrMVJVQmxsU0xaNzJ3cjZZMkloczZlMW03a1pOdlRXTlFNQTNIZkJBaXBMVkVQcEZQV2V4VVlfTGJKTFU1Wk9CSDMyc3Y3TVR4WGpHSTEwZFJlbkQwMVNtQlZoVWtHMEI3QnM3TXNEcHhjaGNsWXBGNmpvbXZDMEhuX2M2TVpIbURvSXNxVzhjWQ?oc=5
+
+- Trump to visit India next year? US President shares update | India News - Hindustan Times
+  US President shares update on his visit to India.
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFBBaEUyVXNURHFoVW9iaVNtbVpsaC1NdWwzb180d2ROZmpLcEd0dnFtdnUta0hOUUlNNy1LcmhaOXA1ZWdpWmxWWVJwQ09GUnpQODZSUEZjNUFwYXd0a2FOVTBBak55OVF5OGdXNGlGV3RLV3ZoZ1hGbU8zeHdXYUxaX2ppZ2h2VkxWRjYyaTlwZGJ4ZWtqWFpKTXFYMVNsY1djeGdCSG51cXB2SVVXaEhnQjNzdGxrYjFjRXBsVEswbUk0UFlFRzJQYzdic1kxYTdLZDlhbG00OGfSAeABQVVfeXFMT0xTaUNmQ1Z0Q1U1Tm5xbE1QU1RJb1RRZHNXSkZnak1RbzZvTjVYdHdzQXczZEtVaUdrMmozMUh1OWduT0RKRGI4ZkFMWjk1dDl0VlNGTTBuUnEwSFdlOThudnJMV1Q3VVpyMm1UVVFib3dMbDRtZkxUS1J2NHpZS1hNTENtQTJxT0RtNkwzd21lZHJoY0c4VXFsSE1TWUJScjBFZ2Vfdk53ZGN1Q1c3SktDSV9hTzhkaUZ6SkdaeFRCV1BqQXBSTDZJdmNxemFYOEU1eXpKcC1ORTZOVEE1TDU?oc=5
+
+- "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
+  "8 Planes Shot Down": Trump Updates Key Figure
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3F1T1VfaU83YmV1RHhBdWlyeTFjZ0ZhaVBFa3lsR1p1N05vc2pCT2ZDRFJ4dDcwc2RpeEI4UmRzVEEwc2RsWkxzVmRTbThVZ2tRTnp1MEpKTkp6TFd3ZUJBU185ZG9hT0hHVlBfaDVJeW9LWHVWdkoxSzZFOVYyRklUVzVFVHoxTGw2TUc2S190cVdMeHRLZ1J1Y0xSa1BCbGxZeDNXNnZDdTNjZEdsakJISUN3SzRRM0tHTTdOYXTSAcgBQVVfeXFMTV9JUDBEWkNlX3R5MjlITlNhTnQySXZ6V1BZN0RsVnl0cTlRd1U1OTBzcU1oNllFdjhjc0VkSWVvTUE1UEIyWGw5c1BHaG1ObVZCTzhnc243WUlvczdMZ1Z3a0I1dWNiTFdSelE3T1FXNjJSRkh5TGprZ0pTc0hmbmZKRkd5RnJKaXV6Y254N1hzaDJmR0w5NlcyaDNlRktsdjRGZmt0MkVFLVJyVkpBMldMOEZTTFNwbUszcUl3SXJOTXlPUlEwSWE?oc=5
+
+- Trump Calls PM Modi A "Great Man", Hints At Possible India Visit Next Year - NDTV
+  Trump calls PM Modi A "Great Man", Hints At
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWduRVIteHFNT3RlRUpYYW9mTXgtb0N4SHBra250UWhvallJdjBXbURrTE0xaU54SmxvcWhJTlJTRXUyYi1JNkhtWU14eXRNVjFQR3J2b19KOE9MR1VGOFdnd3RHQVhGSmdNdVBGWEJaMDRpd3ZMN2xZSVFxaEtCMGdpazNXcGRzSy01VERBRUszNkROZUNlR1MzUXNpbnVNemZsSG50YVNDdVhfMnhz0gG3AUFVX3lxTE9mb2pmdzVkUmRGYTc4TkxBb2JsRWlfZFpDWDVpdWF3bVo0a241bmYxMXlWcEttc2JRNFFROElKajFzWkpMMDFFT2I4aWJxTDFpTEVaaDdlUFhtVGdXX0R5ZjRtSE1vcWZJRENMUjlscGNzc2llT2VqLTBCM3NLWnVsU2RNZnJqT3hhMnVwUVpCei1CX19aTGZOR0ZBNEJxd29aaVk4VlV1TnlfcFhrLTJMNTZxM1p4TQ?oc=5
+
+- Harmanpreet Kaur and Radha Yadav: The Indian players who made history at ICC Women's Cricket World Cup - BBC
+  Harmanpreet Kaur and Radha Yadav made history at ICC
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1dWZaLS1MSWc0dkozRFBIM0ZTdkozMU9CX3QtSlFYRlNTZ2swYlJqN096QU03bVRULTI5S2FfRGFtcnIzTkJjT2xrZkMxckw2MFFTT2V1TGFkQdIBX0FVX3lxTFBLcDVTOGl2UmlZSUg4WjJHSEExM2hVTDlaYk1kblJDQXFUcG1fSjlxOFMxbmpWeVZWM2p0a0ZrbDFENUs4c181ODQ3dkVSd0czQzRZV2RtaUI2VE5hTkJv?oc=5
+
+- After India war lessons, Pakistan plans a unified command. More power for Munir? - India Today
+  After India war lessons, Pakistan plans a unified command.
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUHJrbTZoWmRoN2NRRFd1Y3phU0x0SlZFRG9CdGsxUHhUc2t5QjJiZXlLejhWSGlmODdVU2hoQVFjcnJHdkxsU205NGRyTm1IMzhqaVZyRjhyRUxsZXl4dWZ5anRIcGo2RFpDa0FsRjgzcU5KQVU0WkdtSHBtR2Z3OWFSd0xoSGFjUWlVNmMweTFyZzRYWTMwa3daTkRkLXBUSm9CVTVmQmVuWDF3aHFlRlAyaGExeVoyVEVqM1VNS3UzcVNQMXJ3RURHS1B6dTF6a1Y1ZmtYaVFoZm00dWxxTU930gHnAUFVX3lxTE9xeU5qc0xoVEoyQ3BzWlZMemlhTTRPZDF5UE43MlU1MDl3bmlSR2JTV3QzY0VpWjJnZkQwRkkwMS1lRUsyLWRTdHFUUUc3ZjFfS1hrcm8yNGFvSHlMVlVrMVJVQmxsU0xaNzJ3cjZZMkloczZlMW03a1pOdlRXTlFNQTNIZkJBaXBMVkVQcEZQV2V4VVlfTGJKTFU1Wk9CSDMyc3Y3TVR4WGpHSTEwZFJlbkQwMVNtQlZoVWtHMEI3QnM3TXNEcHhjaGNsWXBGNmpvbXZDMEhuX2M2TVpIbURvSXNxVzhjWQ?oc=5
+
+- Trump to visit India next year? US President shares update | India News - Hindustan Times
+  US President shares update on his visit to India.
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFBBaEUyVXNURHFoVW9iaVNtbVpsaC1NdWwzb180d2ROZmpLcEd0dnFtdnUta0hOUUlNNy1LcmhaOXA1ZWdpWmxWWVJwQ09GUnpQODZSUEZjNUFwYXd0a2FOVTBBak55OVF5OGdXNGlGV3RLV3ZoZ1hGbU8zeHdXYUxaX2ppZ2h2VkxWRjYyaTlwZGJ4ZWtqWFpKTXFYMVNsY1djeGdCSG51cXB2SVVXaEhnQjNzdGxrYjFjRXBsVEswbUk0UFlFRzJQYzdic1kxYTdLZDlhbG00OGfSAeABQVVfeXFMT0xTaUNmQ1Z0Q1U1Tm5xbE1QU1RJb1RRZHNXSkZnak1RbzZvTjVYdHdzQXczZEtVaUdrMmozMUh1OWduT0RKRGI4ZkFMWjk1dDl0VlNGTTBuUnEwSFdlOThudnJMV1Q3VVpyMm1UVVFib3dMbDRtZkxUS1J2NHpZS1hNTENtQTJxT0RtNkwzd21lZHJoY0c4VXFsSE1TWUJScjBFZ2Vfdk53ZGN1Q1c3SktDSV9hTzhkaUZ6SkdaeFRCV1BqQXBSTDZJdmNxemFYOEU1eXpKcC1ORTZOVEE1TDU?oc=5
+
+- "8 Planes Shot Down": Trump Updates Key Figure In India-Pak Peace Claim - NDTV
+  "8 Planes Shot Down": Trump Updates Key Figure
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3F1T1VfaU83YmV1RHhBdWlyeTFjZ0ZhaVBFa3lsR1p1N05vc2pCT2ZDRFJ4dDcwc2RpeEI4UmRzVEEwc2RsWkxzVmRTbThVZ2tRTnp1MEpKTkp6TFd3ZUJBU185ZG9hT0hHVlBfaDVJeW9LWHVWdkoxSzZFOVYyRklUVzVFVHoxTGw2TUc2S190cVdMeHRLZ1J1Y0xSa1BCbGxZeDNXNnZDdTNjZEdsakJISUN3SzRRM0tHTTdOYXTSAcgBQVVfeXFMTV9JUDBEWkNlX3R5MjlITlNhTnQySXZ6V1BZN0RsVnl0cTlRd1U1OTBzcU1oNllFdjhjc0VkSWVvTUE1UEIyWGw5c1BHaG1ObVZCTzhnc243WUlvczdMZ1Z3a0I1dWNiTFdSelE3T1FXNjJSRkh5TGprZ0pTc0hmbmZKRkd5RnJKaXV6Y254N1hzaDJmR0w5NlcyaDNlRktsdjRGZmt0MkVFLVJyVkpBMldMOEZTTFNwbUszcUl3SXJOTXlPUlEwSWE?oc=5
+
+- Trump Calls PM Modi A "Great Man", Hints At Possible India Visit Next Year - NDTV
+  Trump calls PM Modi A "Great Man", Hints At
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWduRVIteHFNT3RlRUpYYW9mTXgtb0N4SHBra250UWhvallJdjBXbURrTE0xaU54SmxvcWhJTlJTRXUyYi1JNkhtWU14eXRNVjFQR3J2b19KOE9MR1VGOFdnd3RHQVhGSmdNdVBGWEJaMDRpd3ZMN2xZSVFxaEtCMGdpazNXcGRzSy01VERBRUszNkROZUNlR1MzUXNpbnVNemZsSG50YVNDdVhfMnhz0gG3AUFVX3lxTE9mb2pmdzVkUmRGYTc4TkxBb2JsRWlfZFpDWDVpdWF3bVo0a241bmYxMXlWcEttc2JRNFFROElKajFzWkpMMDFFT2I4aWJxTDFpTEVaaDdlUFhtVGdXX0R5ZjRtSE1vcWZJRENMUjlscGNzc2llT2VqLTBCM3NLWnVsU2RNZnJqT3hhMnVwUVpCei1CX19aTGZOR0ZBNEJxd29aaVk4VlV1TnlfcFhrLTJMNTZxM1p4TQ?oc=5
+
+- Harmanpreet Kaur and Radha Yadav: The Indian players who made history at ICC Women's Cricket World Cup - BBC
+  Harmanpreet Kaur and Radha Yadav made history at ICC
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1dWZaLS1MSWc0dkozRFBIM0ZTdkozMU9CX3QtSlFYRlNTZ2swYlJqN096QU03bVRULTI5S2FfRGFtcnIzTkJjT2xrZkMxckw2MFFTT2V1TGFkQdIBX0FVX3lxTFBLcDVTOGl2UmlZSUg4WjJHSEExM2hVTDlaYk1kblJDQXFUcG1fSjlxOFMxbmpWeVZWM2p0a0ZrbDFENUs4c181ODQ3dkVSd0czQzRZV2RtaUI2VE5hTkJv?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-11-08 12:31:17 UTC_
+_Last updated: 2025-11-08 18:24:40 UTC_
