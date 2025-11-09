@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- ‘This is the era of Uttarakhand’s rise’: PM Modi hails ‘double-engine’ impact as state marks 25 years since formation
+- ‘Like always, Dr Shashi Tharoor speaks for himself’: Congress says after his birthday greetings to Advani drew ire online
   
-  🔗 https://indianexpress.com/article/india/pm-modi-double-engine-impact-uttarakhand-rise-10355542/
+  🔗 https://indianexpress.com/article/india/shashi-tharoor-congress-lk-advani-birthday-greetings-10355768/
 
-- West Bengal voter list: EPIC-mobile number link mandatory for online submission of SIR forms | Step-by-Step guide to link your EPIC and mobile number
+- Uttar Pradesh voter list: Step-by-step guide to check your name in the electoral roll of 2003 SIR
   
-  🔗 https://indianexpress.com/article/india/west-bengal-voter-list-epic-mobile-number-link-online-submission-sir-2026-forms-10355153/
+  🔗 https://indianexpress.com/article/india/uttar-pradesh-voter-list-guide-check-name-electoral-roll-2003-sir-10355568/
 
-- Watch: Rahul Gandhi embarks on a jungle safari in MP’s Panchmarhi
+- After students sing RSS song at Vande Bharat launch, Kerala minister warns school can lose NOC, orders probe
   
-  🔗 https://indianexpress.com/article/india/watch-rahul-gandhi-jungle-safari-madhya-pradesh-panchmarhi-10355129/
+  🔗 https://indianexpress.com/article/india/students-rss-song-vande-bharat-launch-kerala-minister-probe-10355808/
 
-- Railways plans Mega Coaching Terminals to double train handling capacity in 20 cities
+- Bihar Election 2025 Phase 2: Lost your Voter ID card? Carry any of these 12 documents to cast your vote on Nov 11
   
-  🔗 https://indianexpress.com/article/india/railways-mega-coaching-terminals-double-train-handling-capacity-10355054/
+  🔗 https://indianexpress.com/article/india/bihar-election-2025-phase-2-lost-voter-id-card-12-documents-to-cast-vote-10355699/
 
-- ‘Even Hindu Dharma is not registered’: Mohan Bhagwat hits back after Congress questions RSS’ legal status
+- J-K police pick up 2 Kashmiri doctors from Uttar Pradesh, ‘seize’ rifle from Anantnag hospital locker
   
-  🔗 https://indianexpress.com/article/india/mohan-bhagwat-registration-of-rss-congress-tri-colour-10355023/
+  🔗 https://indianexpress.com/article/india/jammu-and-kashmir-police-pick-up-2-kashmiri-doctors-from-uttar-pradesh-seize-rifle-from-anantnag-hospital-locker-10355727/
 
 - Perseverance rover reveals multiple habitable water periods in Mars’ Jezero Crater
   
@@ -40,11 +40,19 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/ios-26-2-beta-lands-with-key-updates-for-reminders-sleep-and-privacy-10354938/
 
+- Soon to a be trillionaire, what does world's richest man Elon Musk spend his money on?
+  Elon Musk's former wife Grimes claimed his lifestyle is ‘below poverty line’
+  🔗 https://www.livemint.com/companies/people/elon-musk-trillionaire-tesla-pay-package-what-does-worlds-richest-man-spend-money-mansions-cars-planes-charity-criticism-11762696030003.html
+
+- Jack Dorsey backs Elon Musk's $1 trillion Tesla pay package — Why former Twitter CEO supports the plan
+  The former Twitter CEO said that the proposal was not just about the $1 trillion pay package. Musk replied with a
+  🔗 https://www.livemint.com/companies/people/jack-dorsey-backs-elon-musks-1-trillion-tesla-pay-package-why-former-twitter-ceo-supports-the-plan-11762696124986.html
+
 - Some Nexperia chip shipments resume as Germany welcomes de-escalation
   Some Nexperia chip shipments resume as Germany welcomes
   🔗 https://www.livemint.com/companies/news/some-nexperia-chip-shipments-resume-as-germany-welcomes-deescalation-11762689792252.html
 
-- InvestBae: Why Nippon favours ‘passive advertising’, Gen Z slang
+- InvestBae: How Nippon India MF is talking to Gen Z about investing
   Nippon India invests in ‘passive advertising’, says chief marketing officer.
   🔗 https://www.livemint.com/companies/people/investbae-nippon-india-mutual-fund-kaiyomurz-daver-passive-advertising-gen-z-slang-brand-identity-atms-hnis-epfo-lic-sip-11762430879387.html
 
@@ -52,13 +60,13 @@
   Indi
   🔗 https://www.livemint.com/companies/news/indigo-aims-evidence-based-training-programmes-for-pilots-11762683813215.html
 
-- NCLT approves merger of Suzuki Motor Gujarat with parent Maruti Suzuki India: Here's all you need to know
-  The NCLT has approved the merger of Suzuki Motor Gujarat and Maruti Suzuki India. The move aims to streamline operations and improve efficiencies for both
-  🔗 https://www.livemint.com/companies/news/nclt-delhi-approves-merger-scheme-of-suzuki-motor-gujarat-parent-maruti-suzuki-india-largest-auto-company-growth-details-11762679040804.html
+- Wall Street week ahead: US shutdown crisis overshadows earnings season close, AI stocks in focus
+  The shutdown reached its 40th day on Sunday, even as senators held a weekend sitting in the hope
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-us-shutdown-crisis-overshadows-earnings-season-close-ai-stocks-in-focus-11762708375980.html
 
-- Panasonic India now seen more as Indian company with Japanese roots: Manish Sharma
-  Panasonic India now seen more as Indian
-  🔗 https://www.livemint.com/companies/news/panasonic-india-now-seen-more-as-indian-company-with-japanese-roots-manish-sharma-11762679842653.html
+- Wall St Week Ahead-Investors watching US economic signs as market pulls back, tech teeters
+  Investors watching US economic signs as market pulls back, tech teeters
+  🔗 https://www.livemint.com/market/stock-market-news/wall-st-week-ahead-investors-watching-us-economic-signs-as-market-pulls-back-tech-teeters-11762696876518.html
 
 - Rapido expects to start working on IPO by 2026-end: Co-Founder Aravind Sanka
   Rapido expects to start working on
@@ -72,53 +80,29 @@
   InCred Group has submitted a draft red herring prospectus for its IPO, via the pre-filing route. The company reported a profit
   🔗 https://www.livemint.com/market/ipo/incred-holdings-files-confidential-draft-rhp-ipo-papers-sebi-rs-3000-4000-crore-issue-prefiling-route-what-means-markets-11762681854736.html
 
-- Mcap of 7 of top-10 most valued firms falls by  ₹88,635 crore; Airtel, TCS biggest laggards
-  The combined market capitalisation of seven out of India’s ten most valued companies fell by ₹88,635.28 crore in the holiday-shortened
-  🔗 https://www.livemint.com/market/stock-market-news/mcap-of-7-of-top-10-most-valued-firms-falls-by-88-635-crore-airtel-tcs-biggest-laggards-11762673325316.html
+- Who is Noam Shazeer? AI leader Google paid $2.7 billion to hire, now sparking internal tensions
+  Noam Shazeer was re-hired by Google in 2024 after a licensing deal with Character.AI. His impactful role in developing
+  🔗 https://www.livemint.com/technology/tech-news/who-is-noam-shazeer-ai-leader-google-paid-2-7-billion-to-hire-now-sparking-internal-tensions-11762693980616.html
 
-- Upcoming IPOs: PhysicsWallah IPO, Emmvee Photovoltaic IPO among public issues to open next week; check full list here
-  In the mainboard segment, PhysicsWallah IPO, Emmvee Photovoltaic IPO, Tenneco
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-physicswallah-ipo-emmvee-photovoltaic-ipo-among-public-issues-to-open-next-week-check-full-list-here-11762670762681.html
+- Oppo Find X9, Find X9 Pro price in India leaked ahead of launch: here's what to expect
+  Oppo Find X9 and Find X 9 Pro are launching in India on 18 November. The devices will have a MediaTek 9500 processor and ColorOS
+  🔗 https://www.livemint.com/technology/tech-news/oppo-find-x9-find-x9-pro-price-in-india-leaked-ahead-of-launch-heres-what-to-expect-11762692641167.html
 
-- ChatGPT memories are vanishing without warning for some users: here's how to protect yours
-  Some ChatGPT users are reporting issues with disappearing memories. OpenAI confirmed the issue in a status page but later
-  🔗 https://www.livemint.com/technology/tech-news/chatgpt-memories-are-vanishing-without-warning-for-some-users-heres-how-to-protect-yours-11762677906954.html
+- Apple may be preparing five new satellite features for iPhones: here’s what we know
+  Apple could be planning to add 5 new satellite connectivity features for iPhone. The company could offer enhanced messaging and navigation without
+  🔗 https://www.livemint.com/technology/tech-news/apple-may-be-preparing-five-new-satellite-features-for-iphones-here-s-what-we-know-11762700106889.html
 
-- Google Maps update brings Gemini integration in India: 6 Big ways it’s changing navigation
-  Google Maps India has received a major upgrade with Gemini integration. Gemini integration offers AI-powered voice assistance, real-time traffic and more
-  🔗 https://www.livemint.com/technology/tech-news/google-maps-update-brings-gemini-integration-in-india-6-big-ways-it-s-changing-navigation-11762680536644.html
+- Perplexity AI is finally bringing Comet browser to Android: here's who gets access first
+  Perplexity has begun sending out invites for its agentic AI backed browser Comet on Android. Then new browser would
+  🔗 https://www.livemint.com/technology/tech-news/perplexity-ai-is-finally-bringing-comet-browser-to-android-heres-who-gets-access-first-11762692936708.html
 
-- GTA VI delayed to Nov 2026 — 5 games that made fans wait, including Red Dead Redemption 2, Hogwarts Legacy &amp; more
-  Rockstar Games has officially delayed Grand Theft Auto VI to 19 November 2026. Here's a look at five other major games that faced long delays.
-  🔗 https://www.livemint.com/technology/tech-news/gta-vi-delayed-to-november-2026-5-games-that-also-tested-fans-patience-red-dead-redemption-2-hogwarts-legacy-11762673505354.html
+- ColorOS 16 rollout begins in India: When will your Oppo phone get Android 16 powered update?
+  The ColorOS 16 update from Oppo, based on Android 16, is rolling out globally, starting this month. The new update brings improved animations, a full-screen Always on Display
+  🔗 https://www.livemint.com/technology/tech-news/coloros-16-rollout-begins-in-india-when-will-your-oppo-phone-get-android-16-powered-update-11762690112858.html
 
-- Flipkart deal alert: Samsung Galaxy S24 Ultra 5G available with up to  ₹50,000 savings - here's how the deal works
-  The Samsung Galaxy S24 Ultra 5G is now available on Flipkart at a massive 36% discount. Interested buyers can further reduced the price and avail a discount of up to  ₹
-  🔗 https://www.livemint.com/technology/gadgets/flipkart-deal-alert-samsung-galaxy-s24-ultra-5g-available-with-up-to-rs-50-000-savings-heres-how-the-deal-works-11762668451182.html
-
-- Apple hack: How to adjust the Liquid Glass transparency on your iPhone with iOS 26.1
-  Apple's iOS 26.1 update adds transparency controls for menus and widgets. Clear and Tinted options improve readability without turning off the visual effect entirely.
-  🔗 https://www.livemint.com/technology/tech-news/apple-hack-how-to-adjust-the-liquid-glass-transparency-on-your-iphone-with-ios-261-11762661737473.html
-
-- The Astonishing Bull Market Will End One Day. Are You Ready? - The New York Times
-  The New York Times asks: Are you ready for the end
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5jVkpmX1dNTjd5Znh6WUJHT3VVT1NWY28zX2pIaW83UWp6TlZneUYzU0hPNFNNSHM2SXZQS2NaTUJjd3g3VVdtRDRWRWhYV0dMVEZEdndWWUhTaDBGN1NvV08xS25va2FrZ3ZTNGxVa1JvaWRYdjVj?oc=5
-
-- Stock market today: Nasdaq, S&P 500, Dow come off lows as rough week for tech nears end - Yahoo Finance
-  <ol><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2wtdW85Sm9Yd2d6STJTcmt3VXV3WHpfMmNzUlJsUUxJcG13allCbTlJNkxzbndiazlWblA3U25XNmM4Vmg3XzUzVXZnR0VOUFg1MlJGT2ZYMVhMSFZyU1ZxRnlUYjkxUG
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2wtdW85Sm9Yd2d6STJTcmt3VXV3WHpfMmNzUlJsUUxJcG13allCbTlJNkxzbndiazlWblA3U25XNmM4Vmg3XzUzVXZnR0VOUFg1MlJGT2ZYMVhMSFZyU1ZxRnlUYjkxUGJRWmV3YWo5QmhKRTh3Y3B5TkptbEI3dVRiSlBOS2VuVlBXdy1ycUl3UG5QVlBVOFhVWDBUSkRzODV4Z0VJbm0wYXU0YnhCWVM0SXB3YWhDR2l2Z0xPLWVqMGNRYWZESjdFZmd3OUE?oc=5
-
-- The bond market is wrong. Reeves should not cut welfare to placate the City - The Guardian
-  The bond market is wrong. Reeves should not cut welfare to plac
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOVFhmdGo2ZXRabWlWQ2h4MVJOYzNSeXZoUURKTGF6UlRTQzNpdUFXRkd5R3hiY0hiSmRhODd2OEZFNmQxdDlEYlNGVXZvdGZvcG01M280N01LVHItd2dZbGhIQm9PWjc4SmhQMVQwUjhjRlU2dmk1TWRiMjlEOERycHNVREZDSDczTlhwN2YyZkZ0cmFjaWVqSXBDLVNVbnVWYWNqRXd6clNTVm9sa3ItZjZ6M0ZPbzA?oc=5
-
-- Lenskart GMP crashes to zero, wiping out all pre-listing buzz ahead of Monday debut - The Economic Times
-  Lenskart GMP crashes to zero, wiping out all pre-
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeVBEeVpmMkJSQnhNMkZadmlBMnEtbThCMnlYLWVyTnIyTG45M0hURjY3YjNZX0tZQ2ZMTjlOOHRlSmZaSE9yMTAwU3RNdE5PREtPcW1zX2gtMU1GWUpLOERvdDdvSFJBa0ZfbDBKTy1Gb3NUN3NUUzZaOVRmSWJpZnI5V2tNemhTY0xBRmdYaFpuamN5aU1zUUYtbVVYVlF4emhVVDJzVko4cnlaVkYtNy0wMVUwMmhfVzQ4d0NNbzVaSWRKbVhUODhsYll4RmRodzI2djJLY0tLUnY5dExNUU9RMmJEVERHM2E1V0FFa3dWUdIB8gFBVV95cUxQeVBEeVpmMkJSQnhNMkZadmlBMnEtbThCMnlYLWVyTnIyTG45M0hURjY3YjNZX0tZQ2ZMTjlOOHRlSmZaSE9yMTAwU3RNdE5PREtPcW1zX2gtMU1GWUpLOERvdDdvSFJBa0ZfbDBKTy1Gb3NUN3NUUzZaOVRmSWJpZnI5V2tNemhTY0xBRmdYaFpuamN5aU1zUUYtbVVYVlF4emhVVDJzVko4cnlaVkYtNy0wMVUwMmhfVzQ4d0NNbzVaSWRKbVhUODhsYll4RmRodzI2djJLY0tLUnY5dExNUU9RMmJEVERHM2E1V0FFa3dWUQ?oc=5
-
-- Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times
-  Ahead of Market: 10 things that will decide stock market action
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbVNuVGtqb3JLTlB5Q1AtV19EMDQxRjNPOFZrT200cDV3SkswYTNxMXJ3YWpYcU5Ub1p0NVNpVEx1c3htajYzdlRKbGxlZmxodzYyeGxoNmNqWkxrMGo2NXZWMEMtcDEtTVNfckxHN1J6VlF1RUQyQV9pRkhfQkR0YTYxSGZfMkcxTjlPUmN0TmdselFKZUhpOGpSZ1Jma3RHYVdDSzVfRElnS3RqOXJNVFZYYUY1U2NjV1BtcGFHX3BnX2VET3pCZUR0YTBCOTFYNHpvZHVLQjVhbTkyYTl0dXdrMHDSAeQBQVVfeXFMUG1TblRram9yS05QeUNQLVdfRDA0MUYzTzhWa09tNHA1d0pLMGEzcTFyd2FqWHFOVG9adDVTaVRMdXN4bWo2M3ZUSmxsZWZsaHc2MnhsaDZjalpMazBqNjV2VjBDLXAxLU1TX3JMRzdSelZRdUVEMkFfaUZIX0JEdGE2MUhmXzJHMU45T1JjdE5nbHpRSmVIaThqUmdSZmt0R2FXQ0s1X0RJZ0t0ajlyTVRWWGFGNVNjY1dQbXBhR19wZ19lRE96QmVEdGEwQjkxWDR6b2R1S0I1YW05MmE5dHV3azBw?oc=5
+- 'Lenskart wasn't built to chase valuations, but...': Peyush Bansal pens an emotional note ahead of listing
+  Peyush Bansal penned a heartfelt note to shareholders ahead of the company's IPO. He emphasised Lenskart's 15-year journey, driven by a mission to help people see clearly and live fully.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lenskart-wasnt-built-to-chase-valuations-but-peyush-bansal-pens-an-emotional-note-ahead-of-listing/articleshow/125204316.cms
 
 - Lenskart GMP crashes to zero, wiping out all pre-listing buzz ahead of Monday debut
   The grey market premium (GMP) for eyewear retailer Lenskart Solutions has crashed to zero
@@ -136,89 +120,85 @@
   
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-astral-and-angel-one-on-monday-for-up-to-15-gains-heres-why/slideshow/125200609.cms
 
-- Robert Kiyosaki predicts market crash again, bets on gold at $27K and Bitcoin at $250K
-  Robert Kiyosaki, the best-selling author of Rich Dad Poor Dad, has sounded another warning of an impending market crash, but says he’s not selling. In a post on X (formerly Twitter) on Sunday
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/robert-kiyosaki-predicts-market-crash-again-bets-on-gold-at-27k-and-bitcoin-at-250k/articleshow/125200182.cms
+- Delhi air pollution: Parents, activists protest at India Gate, detained for assembling without permission - The Hindu
+  Parents, activists protest at India Gate, detained for assembling without permission
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPemtSY29ZX0tlaXF3eW9mY2ZxcEZmM1FPVGR4dkZBQm1wTnloN2JzUXRDeTdmVHFCdWVnRHhmN3B2ZE9WaEg1V1ZzMHd0eUQzckNwajdSQVV6TDN5b0dmeG9jNlowTzhaa1VkX0JvdzdCaGc4UTZPSjJvZ0FFODNMVVg0WlhIVDltX3VjZWs1dFpobjFXa1Zpd0xPdU95UU5ZaW5qS19aRmlUT24tbl9SbWxBUUFETWVqd3lSR3c2TGR2amx5ZjczaEhiZFRfZjJrbzJibWtxSWxtUGpNcjJ2OW1KNEpGY2hjakl6LVh2S3J0Ykw5WG1aONIB_wFBVV95cUxQdDdlSjZ4WEc2Z2NMSEx4UnNxQWNjYXFNbWczdDdCaGVaZzQ5UGRWc3M2NkJPRnRvVWVETzZBU0xIcjZYbkdJU3J3WHhtaHZYVTY4VkpmeWhtcm00cGt5dDNUb2N3cVk2WDNBMUNfRHlyTW9PYkxfSklWV1k1NTU4RlFKNmJWTHJoem5heE05bDBQZEgxOWs0MDdqMUpGS1ZlOE5fX0gzUEI5ZTJqdHJsc1VNN08zN0ZpVWhsT1lHelB6OThXdVVCTXpQdWtQNVNWdnNMSVIwUDlpRHROQ2EzY21UV0dkV0M5Ym93RnBWVGh0RmNJYVhoV1dOMERDdGc?oc=5
 
-- 2 Of India's Most Wanted Gangsters Arrested In Georgia, US, To Be Deported - NDTV
-  2 Of India's Most Wanted Gangsters Arrested In
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ExYl9XS2NTVjNCYWs2WDZHZXFnZklBcXRXSkViUm1WdXZMTDA4RE1abGpfV1pxVEZ3UHMwY2RVdmtqcDQyYkV5TXN4LUVJdlAxTUQyVTlFcjk2RjAxcU1sRGhBQXRyUndUYzhNdnoxdUJMVWoyYVBfcnl5YWFEM3ZhblQyYU5FVl9PS0VCUTJqQ3BOMy10ZlItZ01ibTctYlpUMVVNLVQyNVhyZWpYZdIBuAFBVV95cUxOMWc1azNFbmk1MkV2Q0kzT3ZSTlFjZTdQaTI5bjVxSmRSX1pYcmRPZnFoNmVyWG1OX1VPRGRuSE9IaVlQdlpaU1VWNUVNcW1ERkZQdmVjT2dQbE5fZHdLWExuQ1had0RadFR4WnJqNm9uWlZHMl9DWXo2aUZYV3hpdmlJaDctVjY0d3N4SGlnMmNCUlBNbmdvUnVKaW1DbE9DdjBTS2JYbmNXZmVwRmJDUUpWeUdEYWpv?oc=5
+- "Every 3rd Child Has Damaged Lungs": Protest Over Air Pollution In Delhi - NDTV
+  "Every 3rd Child Has Damaged Lungs
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPdnhzeFNhbENOT2Z4eHhfOFlUaHhVNFItQVVXSUZfV2UxeFE1N214TUoyekpXOHdkeVZWLXgyWlp0MGR6Rmo2NUFNWThIWFY0RzVUTUhDb01ZRzZleGdpTkh3UEtXeURyOEUyYjJjc2Z5U3lfZzVpXzBaY2VBY2ktdFdYNjctNDByNnNDdnpkTjRWY1VnLV9UcnRDMThYRXBGd1N2Sjk0RF9heWJtaUllRWZuQXhxREpnZlU0c3FR0gHGAUFVX3lxTE1mOTRHZ05jVTBQWWdyeVg4dTZmV1VCYjUwUldpQnQtTm5qeDFmWWk0MXhGc2tKX05LRDliN2E2ZGFmajlreGlTTGtrY3paS2l3UTc5WlNGa3c0MWdMS1pXVXVYZmVidDlHdWpBRktETWFHWl8weHVqanAwM1YwOGNZSWdGcUVYaTBZOS02MWw5RDM3T3Q5d2EwNVZwZlg4WWJtUVFyWS1YY3BEVUd2RGRrcmpYYnpVNldLalAtZFJIRmFjZW1nUQ?oc=5
 
-- ‘Pakistan Doesn’t Want Peace’: RSS Chief Bhagwat Says India Must Be Prepared To Give Befitting Reply - News18
-  ‘Pakistan Doesn’t Want Peace’: RSS Chief
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0Rhd3pndnRxYzZTbHNaRFh2YWwwcWVnUHRkSWdKUHVVdVltcnMwSWpDRkh2dVVFYXkyc1dvcGhEUkRSN1hCclEzdVNFS1ZpWWVpN29FSVJtZnlXWFRzcGhqWkZWTklIZG9kcWpfSXdLaW5qWW03bDlKMzJwV2NJSGVVajY4NmdCNUkzckZMdFQtRlRIcXFtTlVjdWd2THJ4QzV2aWg4QnppNlRyeFhZa1hoSFlBa0IzeFJqay1kRkQtb0F3M2Ftc09JN25HSFdkc25WWnBBaEQwUERPcXM2RnZ5U1psSUFqd0RmeDA4bHrSAfYBQVVfeXFMTnJTeHJPMm52NHUwb2ZocllBcEdld2M1QjF0S29ONmlPekR5RGhrS2RpQmtTNlRhQ3VaNVB1NTd3aHpDUEJzXzNsZng2U1VEQTAxWEkzY2tSY19RMVhwTEpDT09VcDUxTTUzSE4ya2k3SmM2aTA3bEdVOTlkdTM2TEJlRkY1OHRGOUhmbW5kNXVXNm9JOWlQcmt6NHVCQ29WeDItcEVTLXVJaXk0Z0VPN1QyQnhtdXhfc3dqN3U0dExfR3F2Y2YtVmVlTHh1MFBEMDJhMk8wbW83M3UwbGVlZE1FY1VTc1N0SGpDUVF2SFZBclVNa2RR?oc=5
-
-- Mohan Bhagwat Was Asked If Muslims Are Allowed In RSS. His Response - NDTV
-  Mohan Bhagwat was asked if Muslims are
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONHB6b0tEQU9wYnpNVUlsNVZhZlZQc284YVRGOHVaZ1o2OUhFSWJobXcxV1VHdTh3Wjl3bk1CLXhHUlZfWHNxOFRwY0Y5OXhVYjZ0MUhja2luUzlTVktpYnN1Vl83eUlYZ3N2NURyc2dHeFBnTHg1dW5EUUkyNzMwRGJBVERoUnYzS0dSbmVOZHhPZnFKLUZUaUljRTlpaFF5aXlEbFJyUzNEOG9oVGc3ZFZCNDB5MlZYMms3dllXZnp0YXfSAcsBQVVfeXFMTjJ5VnBlVmdfekZsZU05cnQ2YWVnY3dybjRyRjVQVjUwU0FlNmUyckNuUWhPX1RWSFBCWUdyT29lSmJWdGZaTW90V3BTUUphbkZNT2RnYTZ0VjJMSXFQcGVOcEJLV3lHeWdNcUNtWUZUME5jbVlRenAtdV8tckJ4SThYUTBReDA0UkQ2X0dFTG52SEpldG1VS1I5SVZuUzRXRVhBX3BBLVhtN19La193dnMzZi1QZ0NVR1hjMkZBRF96QTltTC1scGdianM?oc=5
-
-- RSS Chief Says Muslims, Christians "Descendants Of Same Ancestors" - NDTV
-  RSS Chief Says Muslims, Christians
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkZxSHRuNUhWcGVGWHNITm1Fa1MwRkZrQXRVaG9nbXU5TGdmbkZRbG13d1EtdDJ3dENFNDRsVnVxenpyWENDM2t5Vm1TdjJrOGtWbnFzelpaRFpxTXUtMlJDTjJ3c0tueEdGSVFpaGtSdjFhMlBrRHRhQVB4dDY4c3dNMGNFYjJibXVSOUZ1QnR6VTJXN3fSAZ4BQVVfeXFMTmlZeWE4ZTAyTUFEd2k2eW10UUp0UFg5ZVF2X0tJOUMydU04TnJleXBTbkdpOXdlOFljelVyZzRtbVpzLWNFVzc0bkVnRFRwRXFBLVNMNTBmN2RHRFZnRjc4aFBuVHVFNmFsZmM4cjItUFNCTnN4TWZsbUpBQlM1eDBVZ2xxLW1YbndsZFZsOVRta3o0eEltYjVkODltRmc?oc=5
-
-- Evening news wrap: Mohan Bhagwat's stern warning to Pakistan; ATS arrests 3 planning terror attacks acros - Times of India
-  ATS arrests 3 planning terror attacks acros in India.
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQRXJRVFp5dmcxUVVTSnZsME00YXhBTmNrTVZFbUluQm51SzN5T1dFMWY3by1qU3FDdndxcUJGaGt4U0s3S3NsZE9qcW5iLVNvSGg3S01HNjMxcGkwVTF3QVBvdmtUdGd5ajBKNTNuZnlKN0I1OWdMd3dQLS1zSzUtVVo4WW5Qc3daMWpvYXVPR0hTQkVhcnJpcmFWYU1JblJTY1FOLVVtNkY5MXNTOWVrR1ZEYmJBTmdQOHR1WkVaZjkwWEx4OV9HQU5LdVRVbkhuRGRRRWQwMnhQc2VPY1VxcnJJVnBBM3RCdkdLbWdwVmdYUHoxTXNoT1drOGU3WkRrRldSSFJKTkRYQklmTTRv0gGUAkFVX3lxTE12bEI0YmJoc3hyTGlwLWt3UjZycko1NlZmYTJ3dnNGbTdxTjloeUthakhZNHpqcnl0OWNZV1AzT0c5Tmk4bWVBR0twZVFxQ0xxZDc4cEpnYXhDR0VsTFYwWUU2b3c5MFI0VzdOU19yeHgyTHk2blpETmF1b3BzbmZlRDhRVkhUSXgweFpHRmRqdkpHX081cWhVb2Y5bG1nMHJfVEg5N2FqQjgtX19PSlhiQzFJemhMd2ZtOU1zSFhWVUpIdFdndkpzY2UzS0I1NWlvOHRJTElVLVVTcmlBc1FlcDZIRzNUNHZYa0FNSURhN2dmT3FUV3psbUZFQUE1dkEwS1djWWdzWWlmSk1xQUFBSGdxUw?oc=5
-
-- 2 Of India's Most Wanted Gangsters Arrested In Georgia, US, To Be Deported - NDTV
-  2 Of India's Most Wanted Gangsters Arrested In
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ExYl9XS2NTVjNCYWs2WDZHZXFnZklBcXRXSkViUm1WdXZMTDA4RE1abGpfV1pxVEZ3UHMwY2RVdmtqcDQyYkV5TXN4LUVJdlAxTUQyVTlFcjk2RjAxcU1sRGhBQXRyUndUYzhNdnoxdUJMVWoyYVBfcnl5YWFEM3ZhblQyYU5FVl9PS0VCUTJqQ3BOMy10ZlItZ01ibTctYlpUMVVNLVQyNVhyZWpYZdIBuAFBVV95cUxOMWc1azNFbmk1MkV2Q0kzT3ZSTlFjZTdQaTI5bjVxSmRSX1pYcmRPZnFoNmVyWG1OX1VPRGRuSE9IaVlQdlpaU1VWNUVNcW1ERkZQdmVjT2dQbE5fZHdLWExuQ1had0RadFR4WnJqNm9uWlZHMl9DWXo2aUZYV3hpdmlJaDctVjY0d3N4SGlnMmNCUlBNbmdvUnVKaW1DbE9DdjBTS2JYbmNXZmVwRmJDUUpWeUdEYWpv?oc=5
-
-- ‘Pakistan Doesn’t Want Peace’: RSS Chief Bhagwat Says India Must Be Prepared To Give Befitting Reply - News18
-  ‘Pakistan Doesn’t Want Peace’: RSS Chief
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0Rhd3pndnRxYzZTbHNaRFh2YWwwcWVnUHRkSWdKUHVVdVltcnMwSWpDRkh2dVVFYXkyc1dvcGhEUkRSN1hCclEzdVNFS1ZpWWVpN29FSVJtZnlXWFRzcGhqWkZWTklIZG9kcWpfSXdLaW5qWW03bDlKMzJwV2NJSGVVajY4NmdCNUkzckZMdFQtRlRIcXFtTlVjdWd2THJ4QzV2aWg4QnppNlRyeFhZa1hoSFlBa0IzeFJqay1kRkQtb0F3M2Ftc09JN25HSFdkc25WWnBBaEQwUERPcXM2RnZ5U1psSUFqd0RmeDA4bHrSAfYBQVVfeXFMTnJTeHJPMm52NHUwb2ZocllBcEdld2M1QjF0S29ONmlPekR5RGhrS2RpQmtTNlRhQ3VaNVB1NTd3aHpDUEJzXzNsZng2U1VEQTAxWEkzY2tSY19RMVhwTEpDT09VcDUxTTUzSE4ya2k3SmM2aTA3bEdVOTlkdTM2TEJlRkY1OHRGOUhmbW5kNXVXNm9JOWlQcmt6NHVCQ29WeDItcEVTLXVJaXk0Z0VPN1QyQnhtdXhfc3dqN3U0dExfR3F2Y2YtVmVlTHh1MFBEMDJhMk8wbW83M3UwbGVlZE1FY1VTc1N0SGpDUVF2SFZBclVNa2RR?oc=5
+- Delhi's air quality improving, says pollution body; no GRAP 3 for now | India News - Hindustan Times
+  Delhi's air quality improving, says pollution body; no GRAP
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbGNBTjVDMk9qbWpPZTVLdGFzQjI4NVV5RjR4VVllR0oxZXlfTEV3czFIUkNPYmQzS3NqdWlFcFlIS2VwQWlEYW5wam9McGstVXg5TmVsQU4wd0p3YU1IWGNmOEI5ZGVqRXVYWGxCU19DQnBaWjNtTnU5YVJjeDVCVzF2WFhBR3Q0MmFwdzktYVd1YVVqUTJvZ0VUNldpUUpUZXNGWmNMV21zMUhpR2x3YVdnX0puUmxnSUtGQXFSUUNQZWRqY3diWTRFLUl2cVXSAdQBQVVfeXFMUE5GcVNCSFhmSFdxUXhRdkVsYWFTS0gzck5EVWF5UXoyRWdsN3Fhb1NOUE1PLW1GZTd1cEFUSEU3UnJHRk1MQ3hrQTdwaVdON0VhMjdWcTdBNW9ZdlZ4cHd0OHRhWTIyakNvSm5pUmRUNW51RFJKUWJTTFJQRVV6QXBmWnE5ZzA4TkZNalJZaElPMTJSLVB3eWNNTjVjVHRRc2RleE5iYmJfRy14bVdUTGtZeEZpTnozbnQwb0F5ODVLWUsyQWg5R3duLTNpYVZwTms4Z2c?oc=5
 
 - Mohan Bhagwat Was Asked If Muslims Are Allowed In RSS. His Response - NDTV
   Mohan Bhagwat was asked if Muslims are
   🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONHB6b0tEQU9wYnpNVUlsNVZhZlZQc284YVRGOHVaZ1o2OUhFSWJobXcxV1VHdTh3Wjl3bk1CLXhHUlZfWHNxOFRwY0Y5OXhVYjZ0MUhja2luUzlTVktpYnN1Vl83eUlYZ3N2NURyc2dHeFBnTHg1dW5EUUkyNzMwRGJBVERoUnYzS0dSbmVOZHhPZnFKLUZUaUljRTlpaFF5aXlEbFJyUzNEOG9oVGc3ZFZCNDB5MlZYMms3dllXZnp0YXfSAcsBQVVfeXFMTjJ5VnBlVmdfekZsZU05cnQ2YWVnY3dybjRyRjVQVjUwU0FlNmUyckNuUWhPX1RWSFBCWUdyT29lSmJWdGZaTW90V3BTUUphbkZNT2RnYTZ0VjJMSXFQcGVOcEJLV3lHeWdNcUNtWUZUME5jbVlRenAtdV8tckJ4SThYUTBReDA0UkQ2X0dFTG52SEpldG1VS1I5SVZuUzRXRVhBX3BBLVhtN19La193dnMzZi1QZ0NVR1hjMkZBRF96QTltTC1scGdianM?oc=5
 
-- RSS Chief Says Muslims, Christians "Descendants Of Same Ancestors" - NDTV
-  RSS Chief Says Muslims, Christians
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkZxSHRuNUhWcGVGWHNITm1Fa1MwRkZrQXRVaG9nbXU5TGdmbkZRbG13d1EtdDJ3dENFNDRsVnVxenpyWENDM2t5Vm1TdjJrOGtWbnFzelpaRFpxTXUtMlJDTjJ3c0tueEdGSVFpaGtSdjFhMlBrRHRhQVB4dDY4c3dNMGNFYjJibXVSOUZ1QnR6VTJXN3fSAZ4BQVVfeXFMTmlZeWE4ZTAyTUFEd2k2eW10UUp0UFg5ZVF2X0tJOUMydU04TnJleXBTbkdpOXdlOFljelVyZzRtbVpzLWNFVzc0bkVnRFRwRXFBLVNMNTBmN2RHRFZnRjc4aFBuVHVFNmFsZmM4cjItUFNCTnN4TWZsbUpBQlM1eDBVZ2xxLW1YbndsZFZsOVRta3o0eEltYjVkODltRmc?oc=5
+- Can Muslims join RSS? Mohan Bhagwat answers; explains who is 'not allowed' in Sangh - The Times of India
+  Can Muslims join RSS? Mohan Bhagwat answers; explains who is
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbHNTMjFxdjM5VWtPZ1FPRHhPeUZIeElGOHpsbmh0WTN1aV84RnBLZjFkWVR6TEFLZURKdUwxVldfYXU1eWtHWGFaVENvb1VOemo2YzJ5SWFLckRyV3J0T3Z0eVdCQ21vRFA3aExMUlVDZWl3eHhRdmxJakZ4MmZsU3NsQ3k3d0J4eExSWlctOGkydVNpeTJOa0JxcjdtcW9uNUJTR1VvRXdoeGktaFVNck94R0VQSVpzMlplbVB2bmduZUVoY2puaXkxQi10d0Y0VFl3SldoUV81R3UzNUhtR9IB5gFBVV95cUxNVkg0OUdfQk1nQ3ZxZVlBa1NkcFU4S1F5R3ZOeklaQ3BiYzhkcVRrb2VCeVZRUkRkTHM3aWxjUFMxR2JpVW95bGJuUGdQRng0Y2ZvdDdWZUdvMEZXUFNfSmNxaUlPMVVjeGhlc25kdl9YWHJaNHZ1Wk5GQWEwVmYxVjlMdWVtd3VYRV9NYVhPdHVGV0dpdVE2VU1CU0plWmhfU0F1ZlU0QWRSamNTWUZ0bjlOOEZfRnRHaEF1MnkzRE5JZW1EWkJfaXlYRm1HdmczMHpldmxjVTZ5RHU3TVowcC10dlFaZw?oc=5
 
-- Evening news wrap: Mohan Bhagwat's stern warning to Pakistan; ATS arrests 3 planning terror attacks acros - Times of India
-  ATS arrests 3 planning terror attacks acros in India.
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQRXJRVFp5dmcxUVVTSnZsME00YXhBTmNrTVZFbUluQm51SzN5T1dFMWY3by1qU3FDdndxcUJGaGt4U0s3S3NsZE9qcW5iLVNvSGg3S01HNjMxcGkwVTF3QVBvdmtUdGd5ajBKNTNuZnlKN0I1OWdMd3dQLS1zSzUtVVo4WW5Qc3daMWpvYXVPR0hTQkVhcnJpcmFWYU1JblJTY1FOLVVtNkY5MXNTOWVrR1ZEYmJBTmdQOHR1WkVaZjkwWEx4OV9HQU5LdVRVbkhuRGRRRWQwMnhQc2VPY1VxcnJJVnBBM3RCdkdLbWdwVmdYUHoxTXNoT1drOGU3WkRrRldSSFJKTkRYQklmTTRv0gGUAkFVX3lxTE12bEI0YmJoc3hyTGlwLWt3UjZycko1NlZmYTJ3dnNGbTdxTjloeUthakhZNHpqcnl0OWNZV1AzT0c5Tmk4bWVBR0twZVFxQ0xxZDc4cEpnYXhDR0VsTFYwWUU2b3c5MFI0VzdOU19yeHgyTHk2blpETmF1b3BzbmZlRDhRVkhUSXgweFpHRmRqdkpHX081cWhVb2Y5bG1nMHJfVEg5N2FqQjgtX19PSlhiQzFJemhMd2ZtOU1zSFhWVUpIdFdndkpzY2UzS0I1NWlvOHRJTElVLVVTcmlBc1FlcDZIRzNUNHZYa0FNSURhN2dmT3FUV3psbUZFQUE1dkEwS1djWWdzWWlmSk1xQUFBSGdxUw?oc=5
+- Delhi air pollution: Parents, activists protest at India Gate, detained for assembling without permission - The Hindu
+  Parents, activists protest at India Gate, detained for assembling without permission
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPemtSY29ZX0tlaXF3eW9mY2ZxcEZmM1FPVGR4dkZBQm1wTnloN2JzUXRDeTdmVHFCdWVnRHhmN3B2ZE9WaEg1V1ZzMHd0eUQzckNwajdSQVV6TDN5b0dmeG9jNlowTzhaa1VkX0JvdzdCaGc4UTZPSjJvZ0FFODNMVVg0WlhIVDltX3VjZWs1dFpobjFXa1Zpd0xPdU95UU5ZaW5qS19aRmlUT24tbl9SbWxBUUFETWVqd3lSR3c2TGR2amx5ZjczaEhiZFRfZjJrbzJibWtxSWxtUGpNcjJ2OW1KNEpGY2hjakl6LVh2S3J0Ykw5WG1aONIB_wFBVV95cUxQdDdlSjZ4WEc2Z2NMSEx4UnNxQWNjYXFNbWczdDdCaGVaZzQ5UGRWc3M2NkJPRnRvVWVETzZBU0xIcjZYbkdJU3J3WHhtaHZYVTY4VkpmeWhtcm00cGt5dDNUb2N3cVk2WDNBMUNfRHlyTW9PYkxfSklWV1k1NTU4RlFKNmJWTHJoem5heE05bDBQZEgxOWs0MDdqMUpGS1ZlOE5fX0gzUEI5ZTJqdHJsc1VNN08zN0ZpVWhsT1lHelB6OThXdVVCTXpQdWtQNVNWdnNMSVIwUDlpRHROQ2EzY21UV0dkV0M5Ym93RnBWVGh0RmNJYVhoV1dOMERDdGc?oc=5
 
-- 2 Of India's Most Wanted Gangsters Arrested In Georgia, US, To Be Deported - NDTV
-  2 Of India's Most Wanted Gangsters Arrested In
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ExYl9XS2NTVjNCYWs2WDZHZXFnZklBcXRXSkViUm1WdXZMTDA4RE1abGpfV1pxVEZ3UHMwY2RVdmtqcDQyYkV5TXN4LUVJdlAxTUQyVTlFcjk2RjAxcU1sRGhBQXRyUndUYzhNdnoxdUJMVWoyYVBfcnl5YWFEM3ZhblQyYU5FVl9PS0VCUTJqQ3BOMy10ZlItZ01ibTctYlpUMVVNLVQyNVhyZWpYZdIBuAFBVV95cUxOMWc1azNFbmk1MkV2Q0kzT3ZSTlFjZTdQaTI5bjVxSmRSX1pYcmRPZnFoNmVyWG1OX1VPRGRuSE9IaVlQdlpaU1VWNUVNcW1ERkZQdmVjT2dQbE5fZHdLWExuQ1had0RadFR4WnJqNm9uWlZHMl9DWXo2aUZYV3hpdmlJaDctVjY0d3N4SGlnMmNCUlBNbmdvUnVKaW1DbE9DdjBTS2JYbmNXZmVwRmJDUUpWeUdEYWpv?oc=5
+- "Every 3rd Child Has Damaged Lungs": Protest Over Air Pollution In Delhi - NDTV
+  "Every 3rd Child Has Damaged Lungs
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPdnhzeFNhbENOT2Z4eHhfOFlUaHhVNFItQVVXSUZfV2UxeFE1N214TUoyekpXOHdkeVZWLXgyWlp0MGR6Rmo2NUFNWThIWFY0RzVUTUhDb01ZRzZleGdpTkh3UEtXeURyOEUyYjJjc2Z5U3lfZzVpXzBaY2VBY2ktdFdYNjctNDByNnNDdnpkTjRWY1VnLV9UcnRDMThYRXBGd1N2Sjk0RF9heWJtaUllRWZuQXhxREpnZlU0c3FR0gHGAUFVX3lxTE1mOTRHZ05jVTBQWWdyeVg4dTZmV1VCYjUwUldpQnQtTm5qeDFmWWk0MXhGc2tKX05LRDliN2E2ZGFmajlreGlTTGtrY3paS2l3UTc5WlNGa3c0MWdMS1pXVXVYZmVidDlHdWpBRktETWFHWl8weHVqanAwM1YwOGNZSWdGcUVYaTBZOS02MWw5RDM3T3Q5d2EwNVZwZlg4WWJtUVFyWS1YY3BEVUd2RGRrcmpYYnpVNldLalAtZFJIRmFjZW1nUQ?oc=5
 
-- ‘Pakistan Doesn’t Want Peace’: RSS Chief Bhagwat Says India Must Be Prepared To Give Befitting Reply - News18
-  ‘Pakistan Doesn’t Want Peace’: RSS Chief
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0Rhd3pndnRxYzZTbHNaRFh2YWwwcWVnUHRkSWdKUHVVdVltcnMwSWpDRkh2dVVFYXkyc1dvcGhEUkRSN1hCclEzdVNFS1ZpWWVpN29FSVJtZnlXWFRzcGhqWkZWTklIZG9kcWpfSXdLaW5qWW03bDlKMzJwV2NJSGVVajY4NmdCNUkzckZMdFQtRlRIcXFtTlVjdWd2THJ4QzV2aWg4QnppNlRyeFhZa1hoSFlBa0IzeFJqay1kRkQtb0F3M2Ftc09JN25HSFdkc25WWnBBaEQwUERPcXM2RnZ5U1psSUFqd0RmeDA4bHrSAfYBQVVfeXFMTnJTeHJPMm52NHUwb2ZocllBcEdld2M1QjF0S29ONmlPekR5RGhrS2RpQmtTNlRhQ3VaNVB1NTd3aHpDUEJzXzNsZng2U1VEQTAxWEkzY2tSY19RMVhwTEpDT09VcDUxTTUzSE4ya2k3SmM2aTA3bEdVOTlkdTM2TEJlRkY1OHRGOUhmbW5kNXVXNm9JOWlQcmt6NHVCQ29WeDItcEVTLXVJaXk0Z0VPN1QyQnhtdXhfc3dqN3U0dExfR3F2Y2YtVmVlTHh1MFBEMDJhMk8wbW83M3UwbGVlZE1FY1VTc1N0SGpDUVF2SFZBclVNa2RR?oc=5
-
-- Mohan Bhagwat Was Asked If Muslims Are Allowed In RSS. His Response - NDTV
-  Mohan Bhagwat was asked if Muslims are
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONHB6b0tEQU9wYnpNVUlsNVZhZlZQc284YVRGOHVaZ1o2OUhFSWJobXcxV1VHdTh3Wjl3bk1CLXhHUlZfWHNxOFRwY0Y5OXhVYjZ0MUhja2luUzlTVktpYnN1Vl83eUlYZ3N2NURyc2dHeFBnTHg1dW5EUUkyNzMwRGJBVERoUnYzS0dSbmVOZHhPZnFKLUZUaUljRTlpaFF5aXlEbFJyUzNEOG9oVGc3ZFZCNDB5MlZYMms3dllXZnp0YXfSAcsBQVVfeXFMTjJ5VnBlVmdfekZsZU05cnQ2YWVnY3dybjRyRjVQVjUwU0FlNmUyckNuUWhPX1RWSFBCWUdyT29lSmJWdGZaTW90V3BTUUphbkZNT2RnYTZ0VjJMSXFQcGVOcEJLV3lHeWdNcUNtWUZUME5jbVlRenAtdV8tckJ4SThYUTBReDA0UkQ2X0dFTG52SEpldG1VS1I5SVZuUzRXRVhBX3BBLVhtN19La193dnMzZi1QZ0NVR1hjMkZBRF96QTltTC1scGdianM?oc=5
-
-- RSS Chief Says Muslims, Christians "Descendants Of Same Ancestors" - NDTV
-  RSS Chief Says Muslims, Christians
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkZxSHRuNUhWcGVGWHNITm1Fa1MwRkZrQXRVaG9nbXU5TGdmbkZRbG13d1EtdDJ3dENFNDRsVnVxenpyWENDM2t5Vm1TdjJrOGtWbnFzelpaRFpxTXUtMlJDTjJ3c0tueEdGSVFpaGtSdjFhMlBrRHRhQVB4dDY4c3dNMGNFYjJibXVSOUZ1QnR6VTJXN3fSAZ4BQVVfeXFMTmlZeWE4ZTAyTUFEd2k2eW10UUp0UFg5ZVF2X0tJOUMydU04TnJleXBTbkdpOXdlOFljelVyZzRtbVpzLWNFVzc0bkVnRFRwRXFBLVNMNTBmN2RHRFZnRjc4aFBuVHVFNmFsZmM4cjItUFNCTnN4TWZsbUpBQlM1eDBVZ2xxLW1YbndsZFZsOVRta3o0eEltYjVkODltRmc?oc=5
-
-- Evening news wrap: Mohan Bhagwat's stern warning to Pakistan; ATS arrests 3 planning terror attacks acros - Times of India
-  ATS arrests 3 planning terror attacks acros in India.
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQRXJRVFp5dmcxUVVTSnZsME00YXhBTmNrTVZFbUluQm51SzN5T1dFMWY3by1qU3FDdndxcUJGaGt4U0s3S3NsZE9qcW5iLVNvSGg3S01HNjMxcGkwVTF3QVBvdmtUdGd5ajBKNTNuZnlKN0I1OWdMd3dQLS1zSzUtVVo4WW5Qc3daMWpvYXVPR0hTQkVhcnJpcmFWYU1JblJTY1FOLVVtNkY5MXNTOWVrR1ZEYmJBTmdQOHR1WkVaZjkwWEx4OV9HQU5LdVRVbkhuRGRRRWQwMnhQc2VPY1VxcnJJVnBBM3RCdkdLbWdwVmdYUHoxTXNoT1drOGU3WkRrRldSSFJKTkRYQklmTTRv0gGUAkFVX3lxTE12bEI0YmJoc3hyTGlwLWt3UjZycko1NlZmYTJ3dnNGbTdxTjloeUthakhZNHpqcnl0OWNZV1AzT0c5Tmk4bWVBR0twZVFxQ0xxZDc4cEpnYXhDR0VsTFYwWUU2b3c5MFI0VzdOU19yeHgyTHk2blpETmF1b3BzbmZlRDhRVkhUSXgweFpHRmRqdkpHX081cWhVb2Y5bG1nMHJfVEg5N2FqQjgtX19PSlhiQzFJemhMd2ZtOU1zSFhWVUpIdFdndkpzY2UzS0I1NWlvOHRJTElVLVVTcmlBc1FlcDZIRzNUNHZYa0FNSURhN2dmT3FUV3psbUZFQUE1dkEwS1djWWdzWWlmSk1xQUFBSGdxUw?oc=5
-
-- 2 Of India's Most Wanted Gangsters Arrested In Georgia, US, To Be Deported - NDTV
-  2 Of India's Most Wanted Gangsters Arrested In
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ExYl9XS2NTVjNCYWs2WDZHZXFnZklBcXRXSkViUm1WdXZMTDA4RE1abGpfV1pxVEZ3UHMwY2RVdmtqcDQyYkV5TXN4LUVJdlAxTUQyVTlFcjk2RjAxcU1sRGhBQXRyUndUYzhNdnoxdUJMVWoyYVBfcnl5YWFEM3ZhblQyYU5FVl9PS0VCUTJqQ3BOMy10ZlItZ01ibTctYlpUMVVNLVQyNVhyZWpYZdIBuAFBVV95cUxOMWc1azNFbmk1MkV2Q0kzT3ZSTlFjZTdQaTI5bjVxSmRSX1pYcmRPZnFoNmVyWG1OX1VPRGRuSE9IaVlQdlpaU1VWNUVNcW1ERkZQdmVjT2dQbE5fZHdLWExuQ1had0RadFR4WnJqNm9uWlZHMl9DWXo2aUZYV3hpdmlJaDctVjY0d3N4SGlnMmNCUlBNbmdvUnVKaW1DbE9DdjBTS2JYbmNXZmVwRmJDUUpWeUdEYWpv?oc=5
-
-- ‘Pakistan Doesn’t Want Peace’: RSS Chief Bhagwat Says India Must Be Prepared To Give Befitting Reply - News18
-  ‘Pakistan Doesn’t Want Peace’: RSS Chief
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0Rhd3pndnRxYzZTbHNaRFh2YWwwcWVnUHRkSWdKUHVVdVltcnMwSWpDRkh2dVVFYXkyc1dvcGhEUkRSN1hCclEzdVNFS1ZpWWVpN29FSVJtZnlXWFRzcGhqWkZWTklIZG9kcWpfSXdLaW5qWW03bDlKMzJwV2NJSGVVajY4NmdCNUkzckZMdFQtRlRIcXFtTlVjdWd2THJ4QzV2aWg4QnppNlRyeFhZa1hoSFlBa0IzeFJqay1kRkQtb0F3M2Ftc09JN25HSFdkc25WWnBBaEQwUERPcXM2RnZ5U1psSUFqd0RmeDA4bHrSAfYBQVVfeXFMTnJTeHJPMm52NHUwb2ZocllBcEdld2M1QjF0S29ONmlPekR5RGhrS2RpQmtTNlRhQ3VaNVB1NTd3aHpDUEJzXzNsZng2U1VEQTAxWEkzY2tSY19RMVhwTEpDT09VcDUxTTUzSE4ya2k3SmM2aTA3bEdVOTlkdTM2TEJlRkY1OHRGOUhmbW5kNXVXNm9JOWlQcmt6NHVCQ29WeDItcEVTLXVJaXk0Z0VPN1QyQnhtdXhfc3dqN3U0dExfR3F2Y2YtVmVlTHh1MFBEMDJhMk8wbW83M3UwbGVlZE1FY1VTc1N0SGpDUVF2SFZBclVNa2RR?oc=5
+- Delhi's air quality improving, says pollution body; no GRAP 3 for now | India News - Hindustan Times
+  Delhi's air quality improving, says pollution body; no GRAP
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbGNBTjVDMk9qbWpPZTVLdGFzQjI4NVV5RjR4VVllR0oxZXlfTEV3czFIUkNPYmQzS3NqdWlFcFlIS2VwQWlEYW5wam9McGstVXg5TmVsQU4wd0p3YU1IWGNmOEI5ZGVqRXVYWGxCU19DQnBaWjNtTnU5YVJjeDVCVzF2WFhBR3Q0MmFwdzktYVd1YVVqUTJvZ0VUNldpUUpUZXNGWmNMV21zMUhpR2x3YVdnX0puUmxnSUtGQXFSUUNQZWRqY3diWTRFLUl2cVXSAdQBQVVfeXFMUE5GcVNCSFhmSFdxUXhRdkVsYWFTS0gzck5EVWF5UXoyRWdsN3Fhb1NOUE1PLW1GZTd1cEFUSEU3UnJHRk1MQ3hrQTdwaVdON0VhMjdWcTdBNW9ZdlZ4cHd0OHRhWTIyakNvSm5pUmRUNW51RFJKUWJTTFJQRVV6QXBmWnE5ZzA4TkZNalJZaElPMTJSLVB3eWNNTjVjVHRRc2RleE5iYmJfRy14bVdUTGtZeEZpTnozbnQwb0F5ODVLWUsyQWg5R3duLTNpYVZwTms4Z2c?oc=5
 
 - Mohan Bhagwat Was Asked If Muslims Are Allowed In RSS. His Response - NDTV
   Mohan Bhagwat was asked if Muslims are
   🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONHB6b0tEQU9wYnpNVUlsNVZhZlZQc284YVRGOHVaZ1o2OUhFSWJobXcxV1VHdTh3Wjl3bk1CLXhHUlZfWHNxOFRwY0Y5OXhVYjZ0MUhja2luUzlTVktpYnN1Vl83eUlYZ3N2NURyc2dHeFBnTHg1dW5EUUkyNzMwRGJBVERoUnYzS0dSbmVOZHhPZnFKLUZUaUljRTlpaFF5aXlEbFJyUzNEOG9oVGc3ZFZCNDB5MlZYMms3dllXZnp0YXfSAcsBQVVfeXFMTjJ5VnBlVmdfekZsZU05cnQ2YWVnY3dybjRyRjVQVjUwU0FlNmUyckNuUWhPX1RWSFBCWUdyT29lSmJWdGZaTW90V3BTUUphbkZNT2RnYTZ0VjJMSXFQcGVOcEJLV3lHeWdNcUNtWUZUME5jbVlRenAtdV8tckJ4SThYUTBReDA0UkQ2X0dFTG52SEpldG1VS1I5SVZuUzRXRVhBX3BBLVhtN19La193dnMzZi1QZ0NVR1hjMkZBRF96QTltTC1scGdianM?oc=5
 
-- RSS Chief Says Muslims, Christians "Descendants Of Same Ancestors" - NDTV
-  RSS Chief Says Muslims, Christians
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkZxSHRuNUhWcGVGWHNITm1Fa1MwRkZrQXRVaG9nbXU5TGdmbkZRbG13d1EtdDJ3dENFNDRsVnVxenpyWENDM2t5Vm1TdjJrOGtWbnFzelpaRFpxTXUtMlJDTjJ3c0tueEdGSVFpaGtSdjFhMlBrRHRhQVB4dDY4c3dNMGNFYjJibXVSOUZ1QnR6VTJXN3fSAZ4BQVVfeXFMTmlZeWE4ZTAyTUFEd2k2eW10UUp0UFg5ZVF2X0tJOUMydU04TnJleXBTbkdpOXdlOFljelVyZzRtbVpzLWNFVzc0bkVnRFRwRXFBLVNMNTBmN2RHRFZnRjc4aFBuVHVFNmFsZmM4cjItUFNCTnN4TWZsbUpBQlM1eDBVZ2xxLW1YbndsZFZsOVRta3o0eEltYjVkODltRmc?oc=5
+- Can Muslims join RSS? Mohan Bhagwat answers; explains who is 'not allowed' in Sangh - The Times of India
+  Can Muslims join RSS? Mohan Bhagwat answers; explains who is
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbHNTMjFxdjM5VWtPZ1FPRHhPeUZIeElGOHpsbmh0WTN1aV84RnBLZjFkWVR6TEFLZURKdUwxVldfYXU1eWtHWGFaVENvb1VOemo2YzJ5SWFLckRyV3J0T3Z0eVdCQ21vRFA3aExMUlVDZWl3eHhRdmxJakZ4MmZsU3NsQ3k3d0J4eExSWlctOGkydVNpeTJOa0JxcjdtcW9uNUJTR1VvRXdoeGktaFVNck94R0VQSVpzMlplbVB2bmduZUVoY2puaXkxQi10d0Y0VFl3SldoUV81R3UzNUhtR9IB5gFBVV95cUxNVkg0OUdfQk1nQ3ZxZVlBa1NkcFU4S1F5R3ZOeklaQ3BiYzhkcVRrb2VCeVZRUkRkTHM3aWxjUFMxR2JpVW95bGJuUGdQRng0Y2ZvdDdWZUdvMEZXUFNfSmNxaUlPMVVjeGhlc25kdl9YWHJaNHZ1Wk5GQWEwVmYxVjlMdWVtd3VYRV9NYVhPdHVGV0dpdVE2VU1CU0plWmhfU0F1ZlU0QWRSamNTWUZ0bjlOOEZfRnRHaEF1MnkzRE5JZW1EWkJfaXlYRm1HdmczMHpldmxjVTZ5RHU3TVowcC10dlFaZw?oc=5
 
-- Evening news wrap: Mohan Bhagwat's stern warning to Pakistan; ATS arrests 3 planning terror attacks acros - Times of India
-  ATS arrests 3 planning terror attacks acros in India.
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQRXJRVFp5dmcxUVVTSnZsME00YXhBTmNrTVZFbUluQm51SzN5T1dFMWY3by1qU3FDdndxcUJGaGt4U0s3S3NsZE9qcW5iLVNvSGg3S01HNjMxcGkwVTF3QVBvdmtUdGd5ajBKNTNuZnlKN0I1OWdMd3dQLS1zSzUtVVo4WW5Qc3daMWpvYXVPR0hTQkVhcnJpcmFWYU1JblJTY1FOLVVtNkY5MXNTOWVrR1ZEYmJBTmdQOHR1WkVaZjkwWEx4OV9HQU5LdVRVbkhuRGRRRWQwMnhQc2VPY1VxcnJJVnBBM3RCdkdLbWdwVmdYUHoxTXNoT1drOGU3WkRrRldSSFJKTkRYQklmTTRv0gGUAkFVX3lxTE12bEI0YmJoc3hyTGlwLWt3UjZycko1NlZmYTJ3dnNGbTdxTjloeUthakhZNHpqcnl0OWNZV1AzT0c5Tmk4bWVBR0twZVFxQ0xxZDc4cEpnYXhDR0VsTFYwWUU2b3c5MFI0VzdOU19yeHgyTHk2blpETmF1b3BzbmZlRDhRVkhUSXgweFpHRmRqdkpHX081cWhVb2Y5bG1nMHJfVEg5N2FqQjgtX19PSlhiQzFJemhMd2ZtOU1zSFhWVUpIdFdndkpzY2UzS0I1NWlvOHRJTElVLVVTcmlBc1FlcDZIRzNUNHZYa0FNSURhN2dmT3FUV3psbUZFQUE1dkEwS1djWWdzWWlmSk1xQUFBSGdxUw?oc=5
+- Delhi air pollution: Parents, activists protest at India Gate, detained for assembling without permission - The Hindu
+  Parents, activists protest at India Gate, detained for assembling without permission
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPemtSY29ZX0tlaXF3eW9mY2ZxcEZmM1FPVGR4dkZBQm1wTnloN2JzUXRDeTdmVHFCdWVnRHhmN3B2ZE9WaEg1V1ZzMHd0eUQzckNwajdSQVV6TDN5b0dmeG9jNlowTzhaa1VkX0JvdzdCaGc4UTZPSjJvZ0FFODNMVVg0WlhIVDltX3VjZWs1dFpobjFXa1Zpd0xPdU95UU5ZaW5qS19aRmlUT24tbl9SbWxBUUFETWVqd3lSR3c2TGR2amx5ZjczaEhiZFRfZjJrbzJibWtxSWxtUGpNcjJ2OW1KNEpGY2hjakl6LVh2S3J0Ykw5WG1aONIB_wFBVV95cUxQdDdlSjZ4WEc2Z2NMSEx4UnNxQWNjYXFNbWczdDdCaGVaZzQ5UGRWc3M2NkJPRnRvVWVETzZBU0xIcjZYbkdJU3J3WHhtaHZYVTY4VkpmeWhtcm00cGt5dDNUb2N3cVk2WDNBMUNfRHlyTW9PYkxfSklWV1k1NTU4RlFKNmJWTHJoem5heE05bDBQZEgxOWs0MDdqMUpGS1ZlOE5fX0gzUEI5ZTJqdHJsc1VNN08zN0ZpVWhsT1lHelB6OThXdVVCTXpQdWtQNVNWdnNMSVIwUDlpRHROQ2EzY21UV0dkV0M5Ym93RnBWVGh0RmNJYVhoV1dOMERDdGc?oc=5
+
+- "Every 3rd Child Has Damaged Lungs": Protest Over Air Pollution In Delhi - NDTV
+  "Every 3rd Child Has Damaged Lungs
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPdnhzeFNhbENOT2Z4eHhfOFlUaHhVNFItQVVXSUZfV2UxeFE1N214TUoyekpXOHdkeVZWLXgyWlp0MGR6Rmo2NUFNWThIWFY0RzVUTUhDb01ZRzZleGdpTkh3UEtXeURyOEUyYjJjc2Z5U3lfZzVpXzBaY2VBY2ktdFdYNjctNDByNnNDdnpkTjRWY1VnLV9UcnRDMThYRXBGd1N2Sjk0RF9heWJtaUllRWZuQXhxREpnZlU0c3FR0gHGAUFVX3lxTE1mOTRHZ05jVTBQWWdyeVg4dTZmV1VCYjUwUldpQnQtTm5qeDFmWWk0MXhGc2tKX05LRDliN2E2ZGFmajlreGlTTGtrY3paS2l3UTc5WlNGa3c0MWdMS1pXVXVYZmVidDlHdWpBRktETWFHWl8weHVqanAwM1YwOGNZSWdGcUVYaTBZOS02MWw5RDM3T3Q5d2EwNVZwZlg4WWJtUVFyWS1YY3BEVUd2RGRrcmpYYnpVNldLalAtZFJIRmFjZW1nUQ?oc=5
+
+- Delhi's air quality improving, says pollution body; no GRAP 3 for now | India News - Hindustan Times
+  Delhi's air quality improving, says pollution body; no GRAP
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbGNBTjVDMk9qbWpPZTVLdGFzQjI4NVV5RjR4VVllR0oxZXlfTEV3czFIUkNPYmQzS3NqdWlFcFlIS2VwQWlEYW5wam9McGstVXg5TmVsQU4wd0p3YU1IWGNmOEI5ZGVqRXVYWGxCU19DQnBaWjNtTnU5YVJjeDVCVzF2WFhBR3Q0MmFwdzktYVd1YVVqUTJvZ0VUNldpUUpUZXNGWmNMV21zMUhpR2x3YVdnX0puUmxnSUtGQXFSUUNQZWRqY3diWTRFLUl2cVXSAdQBQVVfeXFMUE5GcVNCSFhmSFdxUXhRdkVsYWFTS0gzck5EVWF5UXoyRWdsN3Fhb1NOUE1PLW1GZTd1cEFUSEU3UnJHRk1MQ3hrQTdwaVdON0VhMjdWcTdBNW9ZdlZ4cHd0OHRhWTIyakNvSm5pUmRUNW51RFJKUWJTTFJQRVV6QXBmWnE5ZzA4TkZNalJZaElPMTJSLVB3eWNNTjVjVHRRc2RleE5iYmJfRy14bVdUTGtZeEZpTnozbnQwb0F5ODVLWUsyQWg5R3duLTNpYVZwTms4Z2c?oc=5
+
+- Mohan Bhagwat Was Asked If Muslims Are Allowed In RSS. His Response - NDTV
+  Mohan Bhagwat was asked if Muslims are
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONHB6b0tEQU9wYnpNVUlsNVZhZlZQc284YVRGOHVaZ1o2OUhFSWJobXcxV1VHdTh3Wjl3bk1CLXhHUlZfWHNxOFRwY0Y5OXhVYjZ0MUhja2luUzlTVktpYnN1Vl83eUlYZ3N2NURyc2dHeFBnTHg1dW5EUUkyNzMwRGJBVERoUnYzS0dSbmVOZHhPZnFKLUZUaUljRTlpaFF5aXlEbFJyUzNEOG9oVGc3ZFZCNDB5MlZYMms3dllXZnp0YXfSAcsBQVVfeXFMTjJ5VnBlVmdfekZsZU05cnQ2YWVnY3dybjRyRjVQVjUwU0FlNmUyckNuUWhPX1RWSFBCWUdyT29lSmJWdGZaTW90V3BTUUphbkZNT2RnYTZ0VjJMSXFQcGVOcEJLV3lHeWdNcUNtWUZUME5jbVlRenAtdV8tckJ4SThYUTBReDA0UkQ2X0dFTG52SEpldG1VS1I5SVZuUzRXRVhBX3BBLVhtN19La193dnMzZi1QZ0NVR1hjMkZBRF96QTltTC1scGdianM?oc=5
+
+- Can Muslims join RSS? Mohan Bhagwat answers; explains who is 'not allowed' in Sangh - The Times of India
+  Can Muslims join RSS? Mohan Bhagwat answers; explains who is
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbHNTMjFxdjM5VWtPZ1FPRHhPeUZIeElGOHpsbmh0WTN1aV84RnBLZjFkWVR6TEFLZURKdUwxVldfYXU1eWtHWGFaVENvb1VOemo2YzJ5SWFLckRyV3J0T3Z0eVdCQ21vRFA3aExMUlVDZWl3eHhRdmxJakZ4MmZsU3NsQ3k3d0J4eExSWlctOGkydVNpeTJOa0JxcjdtcW9uNUJTR1VvRXdoeGktaFVNck94R0VQSVpzMlplbVB2bmduZUVoY2puaXkxQi10d0Y0VFl3SldoUV81R3UzNUhtR9IB5gFBVV95cUxNVkg0OUdfQk1nQ3ZxZVlBa1NkcFU4S1F5R3ZOeklaQ3BiYzhkcVRrb2VCeVZRUkRkTHM3aWxjUFMxR2JpVW95bGJuUGdQRng0Y2ZvdDdWZUdvMEZXUFNfSmNxaUlPMVVjeGhlc25kdl9YWHJaNHZ1Wk5GQWEwVmYxVjlMdWVtd3VYRV9NYVhPdHVGV0dpdVE2VU1CU0plWmhfU0F1ZlU0QWRSamNTWUZ0bjlOOEZfRnRHaEF1MnkzRE5JZW1EWkJfaXlYRm1HdmczMHpldmxjVTZ5RHU3TVowcC10dlFaZw?oc=5
+
+- Delhi air pollution: Parents, activists protest at India Gate, detained for assembling without permission - The Hindu
+  Parents, activists protest at India Gate, detained for assembling without permission
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPemtSY29ZX0tlaXF3eW9mY2ZxcEZmM1FPVGR4dkZBQm1wTnloN2JzUXRDeTdmVHFCdWVnRHhmN3B2ZE9WaEg1V1ZzMHd0eUQzckNwajdSQVV6TDN5b0dmeG9jNlowTzhaa1VkX0JvdzdCaGc4UTZPSjJvZ0FFODNMVVg0WlhIVDltX3VjZWs1dFpobjFXa1Zpd0xPdU95UU5ZaW5qS19aRmlUT24tbl9SbWxBUUFETWVqd3lSR3c2TGR2amx5ZjczaEhiZFRfZjJrbzJibWtxSWxtUGpNcjJ2OW1KNEpGY2hjakl6LVh2S3J0Ykw5WG1aONIB_wFBVV95cUxQdDdlSjZ4WEc2Z2NMSEx4UnNxQWNjYXFNbWczdDdCaGVaZzQ5UGRWc3M2NkJPRnRvVWVETzZBU0xIcjZYbkdJU3J3WHhtaHZYVTY4VkpmeWhtcm00cGt5dDNUb2N3cVk2WDNBMUNfRHlyTW9PYkxfSklWV1k1NTU4RlFKNmJWTHJoem5heE05bDBQZEgxOWs0MDdqMUpGS1ZlOE5fX0gzUEI5ZTJqdHJsc1VNN08zN0ZpVWhsT1lHelB6OThXdVVCTXpQdWtQNVNWdnNMSVIwUDlpRHROQ2EzY21UV0dkV0M5Ym93RnBWVGh0RmNJYVhoV1dOMERDdGc?oc=5
+
+- "Every 3rd Child Has Damaged Lungs": Protest Over Air Pollution In Delhi - NDTV
+  "Every 3rd Child Has Damaged Lungs
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPdnhzeFNhbENOT2Z4eHhfOFlUaHhVNFItQVVXSUZfV2UxeFE1N214TUoyekpXOHdkeVZWLXgyWlp0MGR6Rmo2NUFNWThIWFY0RzVUTUhDb01ZRzZleGdpTkh3UEtXeURyOEUyYjJjc2Z5U3lfZzVpXzBaY2VBY2ktdFdYNjctNDByNnNDdnpkTjRWY1VnLV9UcnRDMThYRXBGd1N2Sjk0RF9heWJtaUllRWZuQXhxREpnZlU0c3FR0gHGAUFVX3lxTE1mOTRHZ05jVTBQWWdyeVg4dTZmV1VCYjUwUldpQnQtTm5qeDFmWWk0MXhGc2tKX05LRDliN2E2ZGFmajlreGlTTGtrY3paS2l3UTc5WlNGa3c0MWdMS1pXVXVYZmVidDlHdWpBRktETWFHWl8weHVqanAwM1YwOGNZSWdGcUVYaTBZOS02MWw5RDM3T3Q5d2EwNVZwZlg4WWJtUVFyWS1YY3BEVUd2RGRrcmpYYnpVNldLalAtZFJIRmFjZW1nUQ?oc=5
+
+- Delhi's air quality improving, says pollution body; no GRAP 3 for now | India News - Hindustan Times
+  Delhi's air quality improving, says pollution body; no GRAP
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbGNBTjVDMk9qbWpPZTVLdGFzQjI4NVV5RjR4VVllR0oxZXlfTEV3czFIUkNPYmQzS3NqdWlFcFlIS2VwQWlEYW5wam9McGstVXg5TmVsQU4wd0p3YU1IWGNmOEI5ZGVqRXVYWGxCU19DQnBaWjNtTnU5YVJjeDVCVzF2WFhBR3Q0MmFwdzktYVd1YVVqUTJvZ0VUNldpUUpUZXNGWmNMV21zMUhpR2x3YVdnX0puUmxnSUtGQXFSUUNQZWRqY3diWTRFLUl2cVXSAdQBQVVfeXFMUE5GcVNCSFhmSFdxUXhRdkVsYWFTS0gzck5EVWF5UXoyRWdsN3Fhb1NOUE1PLW1GZTd1cEFUSEU3UnJHRk1MQ3hrQTdwaVdON0VhMjdWcTdBNW9ZdlZ4cHd0OHRhWTIyakNvSm5pUmRUNW51RFJKUWJTTFJQRVV6QXBmWnE5ZzA4TkZNalJZaElPMTJSLVB3eWNNTjVjVHRRc2RleE5iYmJfRy14bVdUTGtZeEZpTnozbnQwb0F5ODVLWUsyQWg5R3duLTNpYVZwTms4Z2c?oc=5
+
+- Mohan Bhagwat Was Asked If Muslims Are Allowed In RSS. His Response - NDTV
+  Mohan Bhagwat was asked if Muslims are
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONHB6b0tEQU9wYnpNVUlsNVZhZlZQc284YVRGOHVaZ1o2OUhFSWJobXcxV1VHdTh3Wjl3bk1CLXhHUlZfWHNxOFRwY0Y5OXhVYjZ0MUhja2luUzlTVktpYnN1Vl83eUlYZ3N2NURyc2dHeFBnTHg1dW5EUUkyNzMwRGJBVERoUnYzS0dSbmVOZHhPZnFKLUZUaUljRTlpaFF5aXlEbFJyUzNEOG9oVGc3ZFZCNDB5MlZYMms3dllXZnp0YXfSAcsBQVVfeXFMTjJ5VnBlVmdfekZsZU05cnQ2YWVnY3dybjRyRjVQVjUwU0FlNmUyckNuUWhPX1RWSFBCWUdyT29lSmJWdGZaTW90V3BTUUphbkZNT2RnYTZ0VjJMSXFQcGVOcEJLV3lHeWdNcUNtWUZUME5jbVlRenAtdV8tckJ4SThYUTBReDA0UkQ2X0dFTG52SEpldG1VS1I5SVZuUzRXRVhBX3BBLVhtN19La193dnMzZi1QZ0NVR1hjMkZBRF96QTltTC1scGdianM?oc=5
+
+- Can Muslims join RSS? Mohan Bhagwat answers; explains who is 'not allowed' in Sangh - The Times of India
+  Can Muslims join RSS? Mohan Bhagwat answers; explains who is
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbHNTMjFxdjM5VWtPZ1FPRHhPeUZIeElGOHpsbmh0WTN1aV84RnBLZjFkWVR6TEFLZURKdUwxVldfYXU1eWtHWGFaVENvb1VOemo2YzJ5SWFLckRyV3J0T3Z0eVdCQ21vRFA3aExMUlVDZWl3eHhRdmxJakZ4MmZsU3NsQ3k3d0J4eExSWlctOGkydVNpeTJOa0JxcjdtcW9uNUJTR1VvRXdoeGktaFVNck94R0VQSVpzMlplbVB2bmduZUVoY2puaXkxQi10d0Y0VFl3SldoUV81R3UzNUhtR9IB5gFBVV95cUxNVkg0OUdfQk1nQ3ZxZVlBa1NkcFU4S1F5R3ZOeklaQ3BiYzhkcVRrb2VCeVZRUkRkTHM3aWxjUFMxR2JpVW95bGJuUGdQRng0Y2ZvdDdWZUdvMEZXUFNfSmNxaUlPMVVjeGhlc25kdl9YWHJaNHZ1Wk5GQWEwVmYxVjlMdWVtd3VYRV9NYVhPdHVGV0dpdVE2VU1CU0plWmhfU0F1ZlU0QWRSamNTWUZ0bjlOOEZfRnRHaEF1MnkzRE5JZW1EWkJfaXlYRm1HdmczMHpldmxjVTZ5RHU3TVowcC10dlFaZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-11-09 12:31:44 UTC_
+_Last updated: 2025-11-09 18:24:15 UTC_
