@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- 580 more families face eviction as Assam resumes demolition drive
+- ‘This is the era of Uttarakhand’s rise’: PM Modi hails ‘double-engine’ impact as state marks 25 years since formation
   
-  🔗 https://indianexpress.com/article/india/580-more-families-face-eviction-as-assam-resumes-demolition-drive-10354857/
+  🔗 https://indianexpress.com/article/india/pm-modi-double-engine-impact-uttarakhand-rise-10355542/
 
-- Misuse of SIM cards by terror operatives: Searches at various places in Kashmir valley
+- West Bengal voter list: EPIC-mobile number link mandatory for online submission of SIR forms | Step-by-Step guide to link your EPIC and mobile number
   
-  🔗 https://indianexpress.com/article/india/misuse-sim-cards-terror-operatives-searches-kashmir-valley-10354807/
+  🔗 https://indianexpress.com/article/india/west-bengal-voter-list-epic-mobile-number-link-online-submission-sir-2026-forms-10355153/
 
-- ‘Sacred land today accelerating progress in every field’: PM Modi extends greetings as Uttarakhand marks 25th Foundation Day
+- Watch: Rahul Gandhi embarks on a jungle safari in MP’s Panchmarhi
   
-  🔗 https://indianexpress.com/article/india/uttarakhand-25th-foundation-day-narendra-modi-amit-shah-10354736/
+  🔗 https://indianexpress.com/article/india/watch-rahul-gandhi-jungle-safari-madhya-pradesh-panchmarhi-10355129/
 
-- News Today Live Updates, 9 November | 580 more families face eviction as Assam resumes demolition drive
+- Railways plans Mega Coaching Terminals to double train handling capacity in 20 cities
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-11-09-2025-news-headlines-10354523/
+  🔗 https://indianexpress.com/article/india/railways-mega-coaching-terminals-double-train-handling-capacity-10355054/
 
-- In Goa, as crime spurt puts his govt on defensive, chief minister blames migrants
+- ‘Even Hindu Dharma is not registered’: Mohan Bhagwat hits back after Congress questions RSS’ legal status
   
-  🔗 https://indianexpress.com/article/india/in-goa-as-crime-spurt-puts-his-govt-on-defensive-chief-minister-blames-migrants-10354385/
+  🔗 https://indianexpress.com/article/india/mohan-bhagwat-registration-of-rss-congress-tri-colour-10355023/
 
-- Perplexity’s latest AI upgrades: From smarter Comet Assistant to new patent search tool
+- Perseverance rover reveals multiple habitable water periods in Mars’ Jezero Crater
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/perplexity-latest-ai-upgrades-smarter-comet-assistant-patent-tool-10354832/
+  🔗 https://indianexpress.com/article/technology/science/perseverance-rover-reveals-multiple-habitable-water-periods-in-mars-jezero-crater-10355460/
 
-- Where you see a fancy fish, engineers see Alan Turing’s math
+- Google touts big step toward continual learning with new AI model ‘HOPE’
   
-  🔗 https://indianexpress.com/article/technology/science/where-you-see-a-fancy-fish-engineers-see-alan-turings-math-10354706/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-big-step-continual-learning-new-ai-model-10355454/
 
-- Lawsuits blame ChatGPT for suicides and harmful delusions
+- SHARP QNET Zensational Air Purifier review: Go beyond pollution with device intelligence
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/lawsuits-blame-chatgpt-for-suicides-and-harmful-delusions-10354695/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/sharp-qnet-zensational-air-purifier-review-10355265/
 
-- India’s Top 5 AI startups: Here is what they do and what their LLMs do
+- OpenAI warns of ‘potentially catastrophic’ risks from superintelligent AI, outlines global safety measures
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/indias-top-5-ai-startups-here-is-what-the-do-and-what-their-llms-are-10353903/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-warns-potentially-catastrophic-risks-superintelligent-ai-safety-measures-10355075/
 
-- iPhone 16: Apple’s Flagship at a Steal on Flipkart and Amazon
+- iOS 26.2 Beta lands with key updates for reminders, sleep, and privacy
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-16-apples-flagship-at-a-steal-on-flipkart-and-amazon-10353917/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ios-26-2-beta-lands-with-key-updates-for-reminders-sleep-and-privacy-10354938/
 
-- Reliance Chairman Mukesh Ambani visits Sri Venkateswara Swamy Temple in Tirumala to offer prayers | Watch video
-  Mukesh Ambani visited Sri Venkateswara Swamy Temple in Tirumala.
-  🔗 https://www.livemint.com/companies/people/reliance-chairman-mukesh-ambani-visits-sri-venkateswara-swamy-temple-in-tirumala-to-offer-prayers-watch-video-11762666224265.html
+- Some Nexperia chip shipments resume as Germany welcomes de-escalation
+  Some Nexperia chip shipments resume as Germany welcomes
+  🔗 https://www.livemint.com/companies/news/some-nexperia-chip-shipments-resume-as-germany-welcomes-deescalation-11762689792252.html
 
-- Salon chains feel the heat from home service platforms, dermatology clinics
-  The beauty service market in India is changing. Tech-powered home service providers such as Urban Company are gaining traction and specialized skin clinics are sprouting up. Traditional salons maintain their value but the two new
-  🔗 https://www.livemint.com/companies/salon-chains-india-lakme-kaya-urban-company-yes-madam-ylg-11762426634679.html
+- InvestBae: Why Nippon favours ‘passive advertising’, Gen Z slang
+  Nippon India invests in ‘passive advertising’, says chief marketing officer.
+  🔗 https://www.livemint.com/companies/people/investbae-nippon-india-mutual-fund-kaiyomurz-daver-passive-advertising-gen-z-slang-brand-identity-atms-hnis-epfo-lic-sip-11762430879387.html
 
-- String Metaverse Q2FY26 revenue jumps 213%, profit surges 229% YoY in H1FY26
-  For H1FY26, the company's revenue jumped 213.49 per cent YoY to  ₹432.34 crore. PAT jumped 229
-  🔗 https://www.livemint.com/companies/company-results/string-metaverse-q2fy26-revenue-jumps-213-profit-surges-229-yoy-in-h1fy26-11762657242652.html
+- IndiGo aims evidence-based training programmes for pilots
+  Indi
+  🔗 https://www.livemint.com/companies/news/indigo-aims-evidence-based-training-programmes-for-pilots-11762683813215.html
 
-- Amazon's AI comeback: Inside the cloud king’s race to close the Big Tech gap
-  Amazon's $38 billion OpenAI deal, record capex, and surging Amazon Web Services growth
-  🔗 https://www.livemint.com/companies/amazon-ai-aws-cloud-amazon-vs-microsoft-vs-google-vs-meta-amazon-openai-deal-11762519447694.html
+- NCLT approves merger of Suzuki Motor Gujarat with parent Maruti Suzuki India: Here's all you need to know
+  The NCLT has approved the merger of Suzuki Motor Gujarat and Maruti Suzuki India. The move aims to streamline operations and improve efficiencies for both
+  🔗 https://www.livemint.com/companies/news/nclt-delhi-approves-merger-scheme-of-suzuki-motor-gujarat-parent-maruti-suzuki-india-largest-auto-company-growth-details-11762679040804.html
 
-- X user bullies Forbes 30 under 30 startup founders for their looks, netizens call out racism against Indians online
-  Giga, co-founded by IIT Kharagpur alumni Varun Vummadi and Esha Manideep, secured $61 million in funding and partnered with DoorDash
-  🔗 https://www.livemint.com/companies/people/x-user-bullies-forbes-30-under-30-startup-founders-for-their-looks-netizens-call-out-racism-against-indians-online-11762621494497.html
+- Panasonic India now seen more as Indian company with Japanese roots: Manish Sharma
+  Panasonic India now seen more as Indian
+  🔗 https://www.livemint.com/companies/news/panasonic-india-now-seen-more-as-indian-company-with-japanese-roots-manish-sharma-11762679842653.html
 
-- Multibagger stock sets board meeting date to declare 5:1 bonus shares, 10:1 stock split
-  The chemical stock has given multibagger returns of whopping 225% in just six months and 369% in one year. A-1
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-stock-a-1-ltd-sets-board-meeting-date-to-declare-5-1-bonus-shares-10-1-stock-split-11762666960414.html
+- Rapido expects to start working on IPO by 2026-end: Co-Founder Aravind Sanka
+  Rapido expects to start working on
+  🔗 https://www.livemint.com/market/ipo/rapido-expects-to-start-working-on-ipo-by-2026-end-co-founder-aravind-sanka-11762689169946.html
 
-- Gold prices on Sunday: Check 24 karat and 22 karat rates in Mumbai, Delhi, Bengaluru and other cities on November 9
-  Check how much gold costs in Mumbai, Bengaluru, Chennai, Hyderabad
-  🔗 https://www.livemint.com/market/commodities/gold-prices-on-sunday-check-24-karat-and-22-karat-rates-in-mumbai-delhi-bengaluru-and-other-cities-on-november-9-11762665109563.html
+- Stock market hits speed bump but investors stay on bullish path
+  The U.S. stock market hit
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-hits-speed-bump-but-investors-stay-on-bullish-path-11762686068057.html
 
-- Q2 results 2025: Vodafone Idea, HAL, Tata Motors, IRCTC, SJVN, RVNL among companies to declare earnings next week
-  Vodafone Idea, Oil and Natural Gas Corporation, SJVN, Rail Vikas Nigam, Bharat Forge, Hindustan Aeronautics, IRCTC -
-  🔗 https://www.livemint.com/market/stock-market-news/q2-results-2025-vodafone-idea-hal-tata-motors-irctc-sjvn-rvnl-among-companies-to-declare-earnings-next-week-11762661104939.html
+- InCred Holdings files draft RHP with SEBI for  ₹3,000-4,000 crore IPO via prefiling route: What does this mean?
+  InCred Group has submitted a draft red herring prospectus for its IPO, via the pre-filing route. The company reported a profit
+  🔗 https://www.livemint.com/market/ipo/incred-holdings-files-confidential-draft-rhp-ipo-papers-sebi-rs-3000-4000-crore-issue-prefiling-route-what-means-markets-11762681854736.html
 
-- Global uncertainty, key economic data to keep Indian markets volatile, say analysts
-  Global uncertainty and heavy flow of Data to Keep
-  🔗 https://www.livemint.com/market/stock-market-news/global-uncertainty-key-economic-data-to-keep-indian-markets-volatile-say-analysts-11762665060143.html
+- Mcap of 7 of top-10 most valued firms falls by  ₹88,635 crore; Airtel, TCS biggest laggards
+  The combined market capitalisation of seven out of India’s ten most valued companies fell by ₹88,635.28 crore in the holiday-shortened
+  🔗 https://www.livemint.com/market/stock-market-news/mcap-of-7-of-top-10-most-valued-firms-falls-by-88-635-crore-airtel-tcs-biggest-laggards-11762673325316.html
 
-- Devina Mehra questions Swiggy's need to raise  ₹10,000 crore via QIP, highlights the risk of frequent fund raises
-  Devina Mehra, founder of First Global, questions Swiggy's need for an additional  ₹
-  🔗 https://www.livemint.com/market/stock-market-news/devina-mehra-questions-swiggys-need-to-raise-rs-10-000-crore-via-qip-highlights-the-risk-of-frequent-fund-raises-11762658759452.html
+- Upcoming IPOs: PhysicsWallah IPO, Emmvee Photovoltaic IPO among public issues to open next week; check full list here
+  In the mainboard segment, PhysicsWallah IPO, Emmvee Photovoltaic IPO, Tenneco
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-physicswallah-ipo-emmvee-photovoltaic-ipo-among-public-issues-to-open-next-week-check-full-list-here-11762670762681.html
+
+- ChatGPT memories are vanishing without warning for some users: here's how to protect yours
+  Some ChatGPT users are reporting issues with disappearing memories. OpenAI confirmed the issue in a status page but later
+  🔗 https://www.livemint.com/technology/tech-news/chatgpt-memories-are-vanishing-without-warning-for-some-users-heres-how-to-protect-yours-11762677906954.html
+
+- Google Maps update brings Gemini integration in India: 6 Big ways it’s changing navigation
+  Google Maps India has received a major upgrade with Gemini integration. Gemini integration offers AI-powered voice assistance, real-time traffic and more
+  🔗 https://www.livemint.com/technology/tech-news/google-maps-update-brings-gemini-integration-in-india-6-big-ways-it-s-changing-navigation-11762680536644.html
+
+- GTA VI delayed to Nov 2026 — 5 games that made fans wait, including Red Dead Redemption 2, Hogwarts Legacy &amp; more
+  Rockstar Games has officially delayed Grand Theft Auto VI to 19 November 2026. Here's a look at five other major games that faced long delays.
+  🔗 https://www.livemint.com/technology/tech-news/gta-vi-delayed-to-november-2026-5-games-that-also-tested-fans-patience-red-dead-redemption-2-hogwarts-legacy-11762673505354.html
 
 - Flipkart deal alert: Samsung Galaxy S24 Ultra 5G available with up to  ₹50,000 savings - here's how the deal works
   The Samsung Galaxy S24 Ultra 5G is now available on Flipkart at a massive 36% discount. Interested buyers can further reduced the price and avail a discount of up to  ₹
@@ -88,57 +100,125 @@
   Apple's iOS 26.1 update adds transparency controls for menus and widgets. Clear and Tinted options improve readability without turning off the visual effect entirely.
   🔗 https://www.livemint.com/technology/tech-news/apple-hack-how-to-adjust-the-liquid-glass-transparency-on-your-iphone-with-ios-261-11762661737473.html
 
-- Grok can turn images into videos with a simple long press — Elon Musk reveals how
-  Elon Musk showcased Grok’s AI feature that turns any image into a video with a simple long press. His demo, featuring a playful “muppet�
-  🔗 https://www.livemint.com/technology/tech-news/grok-can-turn-images-into-videos-with-a-simple-long-press-elon-musk-reveals-how-11762657050580.html
+- The Astonishing Bull Market Will End One Day. Are You Ready? - The New York Times
+  The New York Times asks: Are you ready for the end
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5jVkpmX1dNTjd5Znh6WUJHT3VVT1NWY28zX2pIaW83UWp6TlZneUYzU0hPNFNNSHM2SXZQS2NaTUJjd3g3VVdtRDRWRWhYV0dMVEZEdndWWUhTaDBGN1NvV08xS25va2FrZ3ZTNGxVa1JvaWRYdjVj?oc=5
 
-- AI won’t be your doctor. It could make you a better patient.
-  It's better than Google or WebMD and could help your doctor be more
-  🔗 https://www.livemint.com/technology/ai-won-t-be-your-doctor-it-could-make-you-a-better-patient-11762604784391.html
+- Stock market today: Nasdaq, S&P 500, Dow come off lows as rough week for tech nears end - Yahoo Finance
+  <ol><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2wtdW85Sm9Yd2d6STJTcmt3VXV3WHpfMmNzUlJsUUxJcG13allCbTlJNkxzbndiazlWblA3U25XNmM4Vmg3XzUzVXZnR0VOUFg1MlJGT2ZYMVhMSFZyU1ZxRnlUYjkxUG
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2wtdW85Sm9Yd2d6STJTcmt3VXV3WHpfMmNzUlJsUUxJcG13allCbTlJNkxzbndiazlWblA3U25XNmM4Vmg3XzUzVXZnR0VOUFg1MlJGT2ZYMVhMSFZyU1ZxRnlUYjkxUGJRWmV3YWo5QmhKRTh3Y3B5TkptbEI3dVRiSlBOS2VuVlBXdy1ycUl3UG5QVlBVOFhVWDBUSkRzODV4Z0VJbm0wYXU0YnhCWVM0SXB3YWhDR2l2Z0xPLWVqMGNRYWZESjdFZmd3OUE?oc=5
 
-- OpenAI warns of catastrophic risk amid exponential AI development: Here's why
-  OpenAI warns that AI progress is accelerating far faster than most realise. The company calls for stronger public oversight.
-  🔗 https://www.livemint.com/technology/tech-news/openai-warns-of-catastrophic-risk-amid-exponential-ai-development-heres-why-11762650700012.html
+- The bond market is wrong. Reeves should not cut welfare to placate the City - The Guardian
+  The bond market is wrong. Reeves should not cut welfare to plac
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOVFhmdGo2ZXRabWlWQ2h4MVJOYzNSeXZoUURKTGF6UlRTQzNpdUFXRkd5R3hiY0hiSmRhODd2OEZFNmQxdDlEYlNGVXZvdGZvcG01M280N01LVHItd2dZbGhIQm9PWjc4SmhQMVQwUjhjRlU2dmk1TWRiMjlEOERycHNVREZDSDczTlhwN2YyZkZ0cmFjaWVqSXBDLVNVbnVWYWNqRXd6clNTVm9sa3ItZjZ6M0ZPbzA?oc=5
 
-- India's most underowned and overowned stocks: Where big money is crowded and where it's missing
-   Axis Bank, Maruti Suzuki, SBI, ICICI Bank, and SBI Life among the most overowned stocks.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indias-most-underowned-and-overowned-stocks-where-big-money-is-crowded-and-where-its-missing/articleshow/125197537.cms
+- Lenskart GMP crashes to zero, wiping out all pre-listing buzz ahead of Monday debut - The Economic Times
+  Lenskart GMP crashes to zero, wiping out all pre-
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeVBEeVpmMkJSQnhNMkZadmlBMnEtbThCMnlYLWVyTnIyTG45M0hURjY3YjNZX0tZQ2ZMTjlOOHRlSmZaSE9yMTAwU3RNdE5PREtPcW1zX2gtMU1GWUpLOERvdDdvSFJBa0ZfbDBKTy1Gb3NUN3NUUzZaOVRmSWJpZnI5V2tNemhTY0xBRmdYaFpuamN5aU1zUUYtbVVYVlF4emhVVDJzVko4cnlaVkYtNy0wMVUwMmhfVzQ4d0NNbzVaSWRKbVhUODhsYll4RmRodzI2djJLY0tLUnY5dExNUU9RMmJEVERHM2E1V0FFa3dWUdIB8gFBVV95cUxQeVBEeVpmMkJSQnhNMkZadmlBMnEtbThCMnlYLWVyTnIyTG45M0hURjY3YjNZX0tZQ2ZMTjlOOHRlSmZaSE9yMTAwU3RNdE5PREtPcW1zX2gtMU1GWUpLOERvdDdvSFJBa0ZfbDBKTy1Gb3NUN3NUUzZaOVRmSWJpZnI5V2tNemhTY0xBRmdYaFpuamN5aU1zUUYtbVVYVlF4emhVVDJzVko4cnlaVkYtNy0wMVUwMmhfVzQ4d0NNbzVaSWRKbVhUODhsYll4RmRodzI2djJLY0tLUnY5dExNUU9RMmJEVERHM2E1V0FFa3dWUQ?oc=5
 
-- FIIs sell consumer stocks despite GST2.0 boost to buy financials worth Rs 13,300 crore in October
-  Foreign institutional investors (FIIs) offloaded consumer-centric stocks worth Rs 9,477 crore in October. Interestingly, the selling in consumer stocks came despite the rollout of GST 2.0.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-consumer-stocks-despite-gst2-0-boost-to-buy-financials-worth-rs-13300-crore-in-october/articleshow/125197491.cms
+- Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times
+  Ahead of Market: 10 things that will decide stock market action
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbVNuVGtqb3JLTlB5Q1AtV19EMDQxRjNPOFZrT200cDV3SkswYTNxMXJ3YWpYcU5Ub1p0NVNpVEx1c3htajYzdlRKbGxlZmxodzYyeGxoNmNqWkxrMGo2NXZWMEMtcDEtTVNfckxHN1J6VlF1RUQyQV9pRkhfQkR0YTYxSGZfMkcxTjlPUmN0TmdselFKZUhpOGpSZ1Jma3RHYVdDSzVfRElnS3RqOXJNVFZYYUY1U2NjV1BtcGFHX3BnX2VET3pCZUR0YTBCOTFYNHpvZHVLQjVhbTkyYTl0dXdrMHDSAeQBQVVfeXFMUG1TblRram9yS05QeUNQLVdfRDA0MUYzTzhWa09tNHA1d0pLMGEzcTFyd2FqWHFOVG9adDVTaVRMdXN4bWo2M3ZUSmxsZWZsaHc2MnhsaDZjalpMazBqNjV2VjBDLXAxLU1TX3JMRzdSelZRdUVEMkFfaUZIX0JEdGE2MUhmXzJHMU45T1JjdE5nbHpRSmVIaThqUmdSZmt0R2FXQ0s1X0RJZ0t0ajlyTVRWWGFGNVNjY1dQbXBhR19wZ19lRE96QmVEdGEwQjkxWDR6b2R1S0I1YW05MmE5dHV3azBw?oc=5
 
-- Mcap of 7 of top-10 most valued firms erodes by Rs 88,635 cr; Airtel, TCS biggest laggards
-  The combined market valuation of seven of the top-10 most valued firms eroded by Rs 88,635.28 crore in a holiday-shortened last week. Bharti A
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-7-of-top-10-most-valued-firms-erodes-by-rs-88635-cr-airtel-tcs-biggest-laggards/articleshow/125197465.cms
+- Lenskart GMP crashes to zero, wiping out all pre-listing buzz ahead of Monday debut
+  The grey market premium (GMP) for eyewear retailer Lenskart Solutions has crashed to zero
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lenskart-gmp-crashes-to-zero-wiping-out-all-pre-listing-buzz-ahead-of-monday-debut/articleshow/125201152.cms
 
-- Axis Securities names 15 stocks as its top picks. How many do you have in your portfolio?
+- Vodafone Idea Q2 Preview: Losses to narrow on better ARPU and cost control
+  Vodafone Idea (Vi) is expected to post another weak quarter for Q2FY26.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-q2-preview-losses-to-narrow-on-better-arpu-and-cost-control/articleshow/125201106.cms
+
+- Ahead of Market: 10 things that will decide stock market action on Monday
+  The Indian market bounced back from steep early declines but still closed lower on Friday. It was the third straight session of losses for the Sensex and Nifty
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/125201015.cms
+
+- Market Trading Guide: Buy Astral and Angel One on Monday for up to 15% gains. Here’s why
   
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/axis-securities-names-15-stocks-as-its-top-picks-how-many-do-you-have-in-your-portfolio/slideshow/125197453.cms
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-astral-and-angel-one-on-monday-for-up-to-15-gains-heres-why/slideshow/125200609.cms
 
-- Lenskart listing, Infosys buyback and FII trends among 7 factors to steer markets this week
-  Indian benchmark indices Nifty and BSE Sensex ended with weekly declines of 0.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lenskart-listing-infosys-buyback-and-fii-trends-among-7-factors-to-steer-markets-this-week/articleshow/125196839.cms
+- Robert Kiyosaki predicts market crash again, bets on gold at $27K and Bitcoin at $250K
+  Robert Kiyosaki, the best-selling author of Rich Dad Poor Dad, has sounded another warning of an impending market crash, but says he’s not selling. In a post on X (formerly Twitter) on Sunday
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/robert-kiyosaki-predicts-market-crash-again-bets-on-gold-at-27k-and-bitcoin-at-250k/articleshow/125200182.cms
 
 - 2 Of India's Most Wanted Gangsters Arrested In Georgia, US, To Be Deported - NDTV
   2 Of India's Most Wanted Gangsters Arrested In
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ExYl9XS2NTVjNCYWs2WDZHZXFnZklBcXRXSkViUm1WdXZMTDA4RE1abGpfV1pxVEZ3UHMwY2RVdmtqcDQyYkV5TXN4LUVJdlAxTUQyVTlFcjk2RjAxcU1sRGhBQXRyUndUYzhNdnoxdUJMVWoyYVBfcnl5YWFEM3ZhblQyYU5FVl9PS0VCUTJqQ3BOMy10ZlItZ01ibTctYlpUMVVNLVQyNVhyZWpYZdIBuAFBVV95cUxOMWc1azNFbmk1MkV2Q0kzT3ZSTlFjZTdQaTI5bjVxSmRSX1pYcmRPZnFoNmVyWG1OX1VPRGRuSE9IaVlQdlpaU1VWNUVNcW1ERkZQdmVjT2dQbE5fZHdLWExuQ1had0RadFR4WnJqNm9uWlZHMl9DWXo2aUZYV3hpdmlJaDctVjY0d3N4SGlnMmNCUlBNbmdvUnVKaW1DbE9DdjBTS2JYbmNXZmVwRmJDUUpWeUdEYWpv?oc=5
 
-- After India war lessons, Pakistan plans a unified command. More power for Munir? - India Today
-  After India war lessons, Pakistan plans a unified command.
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUHJrbTZoWmRoN2NRRFd1Y3phU0x0SlZFRG9CdGsxUHhUc2t5QjJiZXlLejhWSGlmODdVU2hoQVFjcnJHdkxsU205NGRyTm1IMzhqaVZyRjhyRUxsZXl4dWZ5anRIcGo2RFpDa0FsRjgzcU5KQVU0WkdtSHBtR2Z3OWFSd0xoSGFjUWlVNmMweTFyZzRYWTMwa3daTkRkLXBUSm9CVTVmQmVuWDF3aHFlRlAyaGExeVoyVEVqM1VNS3UzcVNQMXJ3RURHS1B6dTF6a1Y1ZmtYaVFoZm00dWxxTU930gHnAUFVX3lxTE9xeU5qc0xoVEoyQ3BzWlZMemlhTTRPZDF5UE43MlU1MDl3bmlSR2JTV3QzY0VpWjJnZkQwRkkwMS1lRUsyLWRTdHFUUUc3ZjFfS1hrcm8yNGFvSHlMVlVrMVJVQmxsU0xaNzJ3cjZZMkloczZlMW03a1pOdlRXTlFNQTNIZkJBaXBMVkVQcEZQV2V4VVlfTGJKTFU1Wk9CSDMyc3Y3TVR4WGpHSTEwZFJlbkQwMVNtQlZoVWtHMEI3QnM3TXNEcHhjaGNsWXBGNmpvbXZDMEhuX2M2TVpIbURvSXNxVzhjWQ?oc=5
+- ‘Pakistan Doesn’t Want Peace’: RSS Chief Bhagwat Says India Must Be Prepared To Give Befitting Reply - News18
+  ‘Pakistan Doesn’t Want Peace’: RSS Chief
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0Rhd3pndnRxYzZTbHNaRFh2YWwwcWVnUHRkSWdKUHVVdVltcnMwSWpDRkh2dVVFYXkyc1dvcGhEUkRSN1hCclEzdVNFS1ZpWWVpN29FSVJtZnlXWFRzcGhqWkZWTklIZG9kcWpfSXdLaW5qWW03bDlKMzJwV2NJSGVVajY4NmdCNUkzckZMdFQtRlRIcXFtTlVjdWd2THJ4QzV2aWg4QnppNlRyeFhZa1hoSFlBa0IzeFJqay1kRkQtb0F3M2Ftc09JN25HSFdkc25WWnBBaEQwUERPcXM2RnZ5U1psSUFqd0RmeDA4bHrSAfYBQVVfeXFMTnJTeHJPMm52NHUwb2ZocllBcEdld2M1QjF0S29ONmlPekR5RGhrS2RpQmtTNlRhQ3VaNVB1NTd3aHpDUEJzXzNsZng2U1VEQTAxWEkzY2tSY19RMVhwTEpDT09VcDUxTTUzSE4ya2k3SmM2aTA3bEdVOTlkdTM2TEJlRkY1OHRGOUhmbW5kNXVXNm9JOWlQcmt6NHVCQ29WeDItcEVTLXVJaXk0Z0VPN1QyQnhtdXhfc3dqN3U0dExfR3F2Y2YtVmVlTHh1MFBEMDJhMk8wbW83M3UwbGVlZE1FY1VTc1N0SGpDUVF2SFZBclVNa2RR?oc=5
 
-- ‘…if they do it’: Rajnath Singh on India's response if Pak conducts nuclear tests | India News - Hindustan Times
-  ‘…if they do it’: Rajnath Singh on India
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYWJhX3BJdEJBVW9XVmZFd2VwWlZ2bHUwSkpvejQyMVJkLXkwNGNFQTJDRy1oZlNxb0dOLWs2RlhrQkU4SHhMSUtkdmJNWWlCTGhocUpkVnI0UVBpcXhESUNPSGhQRTBLNmlHbVR2ZWE2dEZBbVZEWWhXMWR1TWZlY0h2TmEyVlI3OUZDdmw0SXNNX0FsTGh2bm11VTNyZXdxa2xkRmRzT2x6NU9XbVBpalZ3SVlRRXltVDRvTzhsVU5idlNxZnI3NFB5QWN6UDMxRkRxWXhn0gHbAUFVX3lxTFBKVHl6bUVkYzhEUHJtcEFSTFBsWkZlbmprODFQMGN3eFRFQmRQWjQ1TDBWTmUzUkZSVnhPa1lWZjkzUzQwbVYtLU43UmQ3QjFyUmR6elJMMVJLWkVuMDhGQW9TRnRnTkVCb1ZheVh1YWxMLTRTTHBQMzFPWENkQ3ZiWDAxLUQ2T1dvNzV5UndCWGNPdGtVZkNvdl9fb2ZFeUV3a1VMclpjTm1pM1JaUmdlYVJtOThoTlhzV2NRTjZCV2Nvb2Z6aUlKQUMwMzJrVm5ONVk2U014NDRHNA?oc=5
+- Mohan Bhagwat Was Asked If Muslims Are Allowed In RSS. His Response - NDTV
+  Mohan Bhagwat was asked if Muslims are
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONHB6b0tEQU9wYnpNVUlsNVZhZlZQc284YVRGOHVaZ1o2OUhFSWJobXcxV1VHdTh3Wjl3bk1CLXhHUlZfWHNxOFRwY0Y5OXhVYjZ0MUhja2luUzlTVktpYnN1Vl83eUlYZ3N2NURyc2dHeFBnTHg1dW5EUUkyNzMwRGJBVERoUnYzS0dSbmVOZHhPZnFKLUZUaUljRTlpaFF5aXlEbFJyUzNEOG9oVGc3ZFZCNDB5MlZYMms3dllXZnp0YXfSAcsBQVVfeXFMTjJ5VnBlVmdfekZsZU05cnQ2YWVnY3dybjRyRjVQVjUwU0FlNmUyckNuUWhPX1RWSFBCWUdyT29lSmJWdGZaTW90V3BTUUphbkZNT2RnYTZ0VjJMSXFQcGVOcEJLV3lHeWdNcUNtWUZUME5jbVlRenAtdV8tckJ4SThYUTBReDA0UkQ2X0dFTG52SEpldG1VS1I5SVZuUzRXRVhBX3BBLVhtN19La193dnMzZi1QZ0NVR1hjMkZBRF96QTltTC1scGdianM?oc=5
 
-- 580 more families face eviction as Assam resumes demolition drive - The Indian Express
-  580 more families face eviction as Assam resumes demolition
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOd21sZno0ME1XT2FSUlF5VWJpdVJ5Rld0dDQyUGk1bnVkeG8wMmpwWUtpcFdlUUlVRjdUNjBlMHRyWTNQR0wxdjZtLW1sVmxIcXFQUndFZG9HVUtxLXpTcFkxTHpEcW5fZEsyOE1sSlFTb1QzUW9NVklsNmpTU2hRa3V4bVFiZmFJNHpGY3ZnUW1vcjNwUVNEWkVDNHI2ai1URWRzZ0RQNzRDWHZjb3JwNzBvRS1hZ9IBvAFBVV95cUxNS0p5STl3VGsxOU9zVFlvTEszUzJrTk95RDYwcWxDYVoyQ0ZyLTdaVDVRUzNJS2xjOUJ4U2FiTGtiVjN0Q01aaHBLNnJnVGhIaVpHWGV6ekF5SDN0YjhldE94VnRSNmNuaGJzWDJaNm1MampkVGNwSE9hXzVzbm04eFN6dmdyQkNhQ3NqWVNYb1dBdXdlWFZoOS1Lc2plcWhzNnEzN2MxUjBrMEFRdG04QlR1QUFrcUlKUWZaNg?oc=5
+- RSS Chief Says Muslims, Christians "Descendants Of Same Ancestors" - NDTV
+  RSS Chief Says Muslims, Christians
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkZxSHRuNUhWcGVGWHNITm1Fa1MwRkZrQXRVaG9nbXU5TGdmbkZRbG13d1EtdDJ3dENFNDRsVnVxenpyWENDM2t5Vm1TdjJrOGtWbnFzelpaRFpxTXUtMlJDTjJ3c0tueEdGSVFpaGtSdjFhMlBrRHRhQVB4dDY4c3dNMGNFYjJibXVSOUZ1QnR6VTJXN3fSAZ4BQVVfeXFMTmlZeWE4ZTAyTUFEd2k2eW10UUp0UFg5ZVF2X0tJOUMydU04TnJleXBTbkdpOXdlOFljelVyZzRtbVpzLWNFVzc0bkVnRFRwRXFBLVNMNTBmN2RHRFZnRjc4aFBuVHVFNmFsZmM4cjItUFNCTnN4TWZsbUpBQlM1eDBVZ2xxLW1YbndsZFZsOVRta3o0eEltYjVkODltRmc?oc=5
 
-- Exclusive! Now You See Me: Now You Don’t star Isla Fisher says, 'I’m really desperate to visit India' - The Times of India
-  Isla Fisher says she is 'desperate' to visit India.
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZVJMaWlFV1N2UEIteTg3aFoyN3FtbndnS2dVZnR4TWlaQ1ZPeE9MNkhNSTZXWmNkT2xmYkt3aF94MDN4eXE4LUVhYVBHdldFek1QSUVLVXJvNDY3TDRBZkcyZFpYc2VGQlJSb1EtMThTcEp1QThZWjFDNk9qZlprWEdtMWE4emc1bWhYaUpDYnIxc0hxYmZ1LVNhcmVQODNqVVpJeXRUUG5wQkdwaHJaZnpPR1pvSHF5T1dDRGNxNmpFWHJ5aGhud2tZTDl6OUs2NDdwVzliWTlQT2pkNHFsSGVzcGlXWkhRS0ZNeTZDWkpqSjjSAfgBQVVfeXFMT3dzbS16ZzJQVFpTZTBkMUx2MGtJOWZvdE8wUTVsVDBWZ09HLXRkaDV6Q0JINU45LXJoT1VDdERPU0tjY2JsVlB2ZWFheDRpc3dLaTFQQUQ5a0RFZ0FRTjdvc2lsUHZTcHpPdEpuY2FPcG4zMFdlX0ZHNUVPT21LQTdXclU5ejF5cElNMVRYZGljTUIzQm82b0xXekVia3Z1MXR6M2NTSkdxWkI5ZDZiaS1zVUh6YUE5VE9EMEhrYWFTRWlma3JCSTJSNUVQb3RCYXpJZnJuaEdwSS0yeDNUeTBVMWJ1ckcwSzZuSzZLMkNLX211VEJEWDU?oc=5
+- Evening news wrap: Mohan Bhagwat's stern warning to Pakistan; ATS arrests 3 planning terror attacks acros - Times of India
+  ATS arrests 3 planning terror attacks acros in India.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQRXJRVFp5dmcxUVVTSnZsME00YXhBTmNrTVZFbUluQm51SzN5T1dFMWY3by1qU3FDdndxcUJGaGt4U0s3S3NsZE9qcW5iLVNvSGg3S01HNjMxcGkwVTF3QVBvdmtUdGd5ajBKNTNuZnlKN0I1OWdMd3dQLS1zSzUtVVo4WW5Qc3daMWpvYXVPR0hTQkVhcnJpcmFWYU1JblJTY1FOLVVtNkY5MXNTOWVrR1ZEYmJBTmdQOHR1WkVaZjkwWEx4OV9HQU5LdVRVbkhuRGRRRWQwMnhQc2VPY1VxcnJJVnBBM3RCdkdLbWdwVmdYUHoxTXNoT1drOGU3WkRrRldSSFJKTkRYQklmTTRv0gGUAkFVX3lxTE12bEI0YmJoc3hyTGlwLWt3UjZycko1NlZmYTJ3dnNGbTdxTjloeUthakhZNHpqcnl0OWNZV1AzT0c5Tmk4bWVBR0twZVFxQ0xxZDc4cEpnYXhDR0VsTFYwWUU2b3c5MFI0VzdOU19yeHgyTHk2blpETmF1b3BzbmZlRDhRVkhUSXgweFpHRmRqdkpHX081cWhVb2Y5bG1nMHJfVEg5N2FqQjgtX19PSlhiQzFJemhMd2ZtOU1zSFhWVUpIdFdndkpzY2UzS0I1NWlvOHRJTElVLVVTcmlBc1FlcDZIRzNUNHZYa0FNSURhN2dmT3FUV3psbUZFQUE1dkEwS1djWWdzWWlmSk1xQUFBSGdxUw?oc=5
+
+- 2 Of India's Most Wanted Gangsters Arrested In Georgia, US, To Be Deported - NDTV
+  2 Of India's Most Wanted Gangsters Arrested In
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ExYl9XS2NTVjNCYWs2WDZHZXFnZklBcXRXSkViUm1WdXZMTDA4RE1abGpfV1pxVEZ3UHMwY2RVdmtqcDQyYkV5TXN4LUVJdlAxTUQyVTlFcjk2RjAxcU1sRGhBQXRyUndUYzhNdnoxdUJMVWoyYVBfcnl5YWFEM3ZhblQyYU5FVl9PS0VCUTJqQ3BOMy10ZlItZ01ibTctYlpUMVVNLVQyNVhyZWpYZdIBuAFBVV95cUxOMWc1azNFbmk1MkV2Q0kzT3ZSTlFjZTdQaTI5bjVxSmRSX1pYcmRPZnFoNmVyWG1OX1VPRGRuSE9IaVlQdlpaU1VWNUVNcW1ERkZQdmVjT2dQbE5fZHdLWExuQ1had0RadFR4WnJqNm9uWlZHMl9DWXo2aUZYV3hpdmlJaDctVjY0d3N4SGlnMmNCUlBNbmdvUnVKaW1DbE9DdjBTS2JYbmNXZmVwRmJDUUpWeUdEYWpv?oc=5
+
+- ‘Pakistan Doesn’t Want Peace’: RSS Chief Bhagwat Says India Must Be Prepared To Give Befitting Reply - News18
+  ‘Pakistan Doesn’t Want Peace’: RSS Chief
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0Rhd3pndnRxYzZTbHNaRFh2YWwwcWVnUHRkSWdKUHVVdVltcnMwSWpDRkh2dVVFYXkyc1dvcGhEUkRSN1hCclEzdVNFS1ZpWWVpN29FSVJtZnlXWFRzcGhqWkZWTklIZG9kcWpfSXdLaW5qWW03bDlKMzJwV2NJSGVVajY4NmdCNUkzckZMdFQtRlRIcXFtTlVjdWd2THJ4QzV2aWg4QnppNlRyeFhZa1hoSFlBa0IzeFJqay1kRkQtb0F3M2Ftc09JN25HSFdkc25WWnBBaEQwUERPcXM2RnZ5U1psSUFqd0RmeDA4bHrSAfYBQVVfeXFMTnJTeHJPMm52NHUwb2ZocllBcEdld2M1QjF0S29ONmlPekR5RGhrS2RpQmtTNlRhQ3VaNVB1NTd3aHpDUEJzXzNsZng2U1VEQTAxWEkzY2tSY19RMVhwTEpDT09VcDUxTTUzSE4ya2k3SmM2aTA3bEdVOTlkdTM2TEJlRkY1OHRGOUhmbW5kNXVXNm9JOWlQcmt6NHVCQ29WeDItcEVTLXVJaXk0Z0VPN1QyQnhtdXhfc3dqN3U0dExfR3F2Y2YtVmVlTHh1MFBEMDJhMk8wbW83M3UwbGVlZE1FY1VTc1N0SGpDUVF2SFZBclVNa2RR?oc=5
+
+- Mohan Bhagwat Was Asked If Muslims Are Allowed In RSS. His Response - NDTV
+  Mohan Bhagwat was asked if Muslims are
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONHB6b0tEQU9wYnpNVUlsNVZhZlZQc284YVRGOHVaZ1o2OUhFSWJobXcxV1VHdTh3Wjl3bk1CLXhHUlZfWHNxOFRwY0Y5OXhVYjZ0MUhja2luUzlTVktpYnN1Vl83eUlYZ3N2NURyc2dHeFBnTHg1dW5EUUkyNzMwRGJBVERoUnYzS0dSbmVOZHhPZnFKLUZUaUljRTlpaFF5aXlEbFJyUzNEOG9oVGc3ZFZCNDB5MlZYMms3dllXZnp0YXfSAcsBQVVfeXFMTjJ5VnBlVmdfekZsZU05cnQ2YWVnY3dybjRyRjVQVjUwU0FlNmUyckNuUWhPX1RWSFBCWUdyT29lSmJWdGZaTW90V3BTUUphbkZNT2RnYTZ0VjJMSXFQcGVOcEJLV3lHeWdNcUNtWUZUME5jbVlRenAtdV8tckJ4SThYUTBReDA0UkQ2X0dFTG52SEpldG1VS1I5SVZuUzRXRVhBX3BBLVhtN19La193dnMzZi1QZ0NVR1hjMkZBRF96QTltTC1scGdianM?oc=5
+
+- RSS Chief Says Muslims, Christians "Descendants Of Same Ancestors" - NDTV
+  RSS Chief Says Muslims, Christians
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkZxSHRuNUhWcGVGWHNITm1Fa1MwRkZrQXRVaG9nbXU5TGdmbkZRbG13d1EtdDJ3dENFNDRsVnVxenpyWENDM2t5Vm1TdjJrOGtWbnFzelpaRFpxTXUtMlJDTjJ3c0tueEdGSVFpaGtSdjFhMlBrRHRhQVB4dDY4c3dNMGNFYjJibXVSOUZ1QnR6VTJXN3fSAZ4BQVVfeXFMTmlZeWE4ZTAyTUFEd2k2eW10UUp0UFg5ZVF2X0tJOUMydU04TnJleXBTbkdpOXdlOFljelVyZzRtbVpzLWNFVzc0bkVnRFRwRXFBLVNMNTBmN2RHRFZnRjc4aFBuVHVFNmFsZmM4cjItUFNCTnN4TWZsbUpBQlM1eDBVZ2xxLW1YbndsZFZsOVRta3o0eEltYjVkODltRmc?oc=5
+
+- Evening news wrap: Mohan Bhagwat's stern warning to Pakistan; ATS arrests 3 planning terror attacks acros - Times of India
+  ATS arrests 3 planning terror attacks acros in India.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQRXJRVFp5dmcxUVVTSnZsME00YXhBTmNrTVZFbUluQm51SzN5T1dFMWY3by1qU3FDdndxcUJGaGt4U0s3S3NsZE9qcW5iLVNvSGg3S01HNjMxcGkwVTF3QVBvdmtUdGd5ajBKNTNuZnlKN0I1OWdMd3dQLS1zSzUtVVo4WW5Qc3daMWpvYXVPR0hTQkVhcnJpcmFWYU1JblJTY1FOLVVtNkY5MXNTOWVrR1ZEYmJBTmdQOHR1WkVaZjkwWEx4OV9HQU5LdVRVbkhuRGRRRWQwMnhQc2VPY1VxcnJJVnBBM3RCdkdLbWdwVmdYUHoxTXNoT1drOGU3WkRrRldSSFJKTkRYQklmTTRv0gGUAkFVX3lxTE12bEI0YmJoc3hyTGlwLWt3UjZycko1NlZmYTJ3dnNGbTdxTjloeUthakhZNHpqcnl0OWNZV1AzT0c5Tmk4bWVBR0twZVFxQ0xxZDc4cEpnYXhDR0VsTFYwWUU2b3c5MFI0VzdOU19yeHgyTHk2blpETmF1b3BzbmZlRDhRVkhUSXgweFpHRmRqdkpHX081cWhVb2Y5bG1nMHJfVEg5N2FqQjgtX19PSlhiQzFJemhMd2ZtOU1zSFhWVUpIdFdndkpzY2UzS0I1NWlvOHRJTElVLVVTcmlBc1FlcDZIRzNUNHZYa0FNSURhN2dmT3FUV3psbUZFQUE1dkEwS1djWWdzWWlmSk1xQUFBSGdxUw?oc=5
+
+- 2 Of India's Most Wanted Gangsters Arrested In Georgia, US, To Be Deported - NDTV
+  2 Of India's Most Wanted Gangsters Arrested In
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ExYl9XS2NTVjNCYWs2WDZHZXFnZklBcXRXSkViUm1WdXZMTDA4RE1abGpfV1pxVEZ3UHMwY2RVdmtqcDQyYkV5TXN4LUVJdlAxTUQyVTlFcjk2RjAxcU1sRGhBQXRyUndUYzhNdnoxdUJMVWoyYVBfcnl5YWFEM3ZhblQyYU5FVl9PS0VCUTJqQ3BOMy10ZlItZ01ibTctYlpUMVVNLVQyNVhyZWpYZdIBuAFBVV95cUxOMWc1azNFbmk1MkV2Q0kzT3ZSTlFjZTdQaTI5bjVxSmRSX1pYcmRPZnFoNmVyWG1OX1VPRGRuSE9IaVlQdlpaU1VWNUVNcW1ERkZQdmVjT2dQbE5fZHdLWExuQ1had0RadFR4WnJqNm9uWlZHMl9DWXo2aUZYV3hpdmlJaDctVjY0d3N4SGlnMmNCUlBNbmdvUnVKaW1DbE9DdjBTS2JYbmNXZmVwRmJDUUpWeUdEYWpv?oc=5
+
+- ‘Pakistan Doesn’t Want Peace’: RSS Chief Bhagwat Says India Must Be Prepared To Give Befitting Reply - News18
+  ‘Pakistan Doesn’t Want Peace’: RSS Chief
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0Rhd3pndnRxYzZTbHNaRFh2YWwwcWVnUHRkSWdKUHVVdVltcnMwSWpDRkh2dVVFYXkyc1dvcGhEUkRSN1hCclEzdVNFS1ZpWWVpN29FSVJtZnlXWFRzcGhqWkZWTklIZG9kcWpfSXdLaW5qWW03bDlKMzJwV2NJSGVVajY4NmdCNUkzckZMdFQtRlRIcXFtTlVjdWd2THJ4QzV2aWg4QnppNlRyeFhZa1hoSFlBa0IzeFJqay1kRkQtb0F3M2Ftc09JN25HSFdkc25WWnBBaEQwUERPcXM2RnZ5U1psSUFqd0RmeDA4bHrSAfYBQVVfeXFMTnJTeHJPMm52NHUwb2ZocllBcEdld2M1QjF0S29ONmlPekR5RGhrS2RpQmtTNlRhQ3VaNVB1NTd3aHpDUEJzXzNsZng2U1VEQTAxWEkzY2tSY19RMVhwTEpDT09VcDUxTTUzSE4ya2k3SmM2aTA3bEdVOTlkdTM2TEJlRkY1OHRGOUhmbW5kNXVXNm9JOWlQcmt6NHVCQ29WeDItcEVTLXVJaXk0Z0VPN1QyQnhtdXhfc3dqN3U0dExfR3F2Y2YtVmVlTHh1MFBEMDJhMk8wbW83M3UwbGVlZE1FY1VTc1N0SGpDUVF2SFZBclVNa2RR?oc=5
+
+- Mohan Bhagwat Was Asked If Muslims Are Allowed In RSS. His Response - NDTV
+  Mohan Bhagwat was asked if Muslims are
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONHB6b0tEQU9wYnpNVUlsNVZhZlZQc284YVRGOHVaZ1o2OUhFSWJobXcxV1VHdTh3Wjl3bk1CLXhHUlZfWHNxOFRwY0Y5OXhVYjZ0MUhja2luUzlTVktpYnN1Vl83eUlYZ3N2NURyc2dHeFBnTHg1dW5EUUkyNzMwRGJBVERoUnYzS0dSbmVOZHhPZnFKLUZUaUljRTlpaFF5aXlEbFJyUzNEOG9oVGc3ZFZCNDB5MlZYMms3dllXZnp0YXfSAcsBQVVfeXFMTjJ5VnBlVmdfekZsZU05cnQ2YWVnY3dybjRyRjVQVjUwU0FlNmUyckNuUWhPX1RWSFBCWUdyT29lSmJWdGZaTW90V3BTUUphbkZNT2RnYTZ0VjJMSXFQcGVOcEJLV3lHeWdNcUNtWUZUME5jbVlRenAtdV8tckJ4SThYUTBReDA0UkQ2X0dFTG52SEpldG1VS1I5SVZuUzRXRVhBX3BBLVhtN19La193dnMzZi1QZ0NVR1hjMkZBRF96QTltTC1scGdianM?oc=5
+
+- RSS Chief Says Muslims, Christians "Descendants Of Same Ancestors" - NDTV
+  RSS Chief Says Muslims, Christians
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkZxSHRuNUhWcGVGWHNITm1Fa1MwRkZrQXRVaG9nbXU5TGdmbkZRbG13d1EtdDJ3dENFNDRsVnVxenpyWENDM2t5Vm1TdjJrOGtWbnFzelpaRFpxTXUtMlJDTjJ3c0tueEdGSVFpaGtSdjFhMlBrRHRhQVB4dDY4c3dNMGNFYjJibXVSOUZ1QnR6VTJXN3fSAZ4BQVVfeXFMTmlZeWE4ZTAyTUFEd2k2eW10UUp0UFg5ZVF2X0tJOUMydU04TnJleXBTbkdpOXdlOFljelVyZzRtbVpzLWNFVzc0bkVnRFRwRXFBLVNMNTBmN2RHRFZnRjc4aFBuVHVFNmFsZmM4cjItUFNCTnN4TWZsbUpBQlM1eDBVZ2xxLW1YbndsZFZsOVRta3o0eEltYjVkODltRmc?oc=5
+
+- Evening news wrap: Mohan Bhagwat's stern warning to Pakistan; ATS arrests 3 planning terror attacks acros - Times of India
+  ATS arrests 3 planning terror attacks acros in India.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQRXJRVFp5dmcxUVVTSnZsME00YXhBTmNrTVZFbUluQm51SzN5T1dFMWY3by1qU3FDdndxcUJGaGt4U0s3S3NsZE9qcW5iLVNvSGg3S01HNjMxcGkwVTF3QVBvdmtUdGd5ajBKNTNuZnlKN0I1OWdMd3dQLS1zSzUtVVo4WW5Qc3daMWpvYXVPR0hTQkVhcnJpcmFWYU1JblJTY1FOLVVtNkY5MXNTOWVrR1ZEYmJBTmdQOHR1WkVaZjkwWEx4OV9HQU5LdVRVbkhuRGRRRWQwMnhQc2VPY1VxcnJJVnBBM3RCdkdLbWdwVmdYUHoxTXNoT1drOGU3WkRrRldSSFJKTkRYQklmTTRv0gGUAkFVX3lxTE12bEI0YmJoc3hyTGlwLWt3UjZycko1NlZmYTJ3dnNGbTdxTjloeUthakhZNHpqcnl0OWNZV1AzT0c5Tmk4bWVBR0twZVFxQ0xxZDc4cEpnYXhDR0VsTFYwWUU2b3c5MFI0VzdOU19yeHgyTHk2blpETmF1b3BzbmZlRDhRVkhUSXgweFpHRmRqdkpHX081cWhVb2Y5bG1nMHJfVEg5N2FqQjgtX19PSlhiQzFJemhMd2ZtOU1zSFhWVUpIdFdndkpzY2UzS0I1NWlvOHRJTElVLVVTcmlBc1FlcDZIRzNUNHZYa0FNSURhN2dmT3FUV3psbUZFQUE1dkEwS1djWWdzWWlmSk1xQUFBSGdxUw?oc=5
+
+- 2 Of India's Most Wanted Gangsters Arrested In Georgia, US, To Be Deported - NDTV
+  2 Of India's Most Wanted Gangsters Arrested In
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ExYl9XS2NTVjNCYWs2WDZHZXFnZklBcXRXSkViUm1WdXZMTDA4RE1abGpfV1pxVEZ3UHMwY2RVdmtqcDQyYkV5TXN4LUVJdlAxTUQyVTlFcjk2RjAxcU1sRGhBQXRyUndUYzhNdnoxdUJMVWoyYVBfcnl5YWFEM3ZhblQyYU5FVl9PS0VCUTJqQ3BOMy10ZlItZ01ibTctYlpUMVVNLVQyNVhyZWpYZdIBuAFBVV95cUxOMWc1azNFbmk1MkV2Q0kzT3ZSTlFjZTdQaTI5bjVxSmRSX1pYcmRPZnFoNmVyWG1OX1VPRGRuSE9IaVlQdlpaU1VWNUVNcW1ERkZQdmVjT2dQbE5fZHdLWExuQ1had0RadFR4WnJqNm9uWlZHMl9DWXo2aUZYV3hpdmlJaDctVjY0d3N4SGlnMmNCUlBNbmdvUnVKaW1DbE9DdjBTS2JYbmNXZmVwRmJDUUpWeUdEYWpv?oc=5
+
+- ‘Pakistan Doesn’t Want Peace’: RSS Chief Bhagwat Says India Must Be Prepared To Give Befitting Reply - News18
+  ‘Pakistan Doesn’t Want Peace’: RSS Chief
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0Rhd3pndnRxYzZTbHNaRFh2YWwwcWVnUHRkSWdKUHVVdVltcnMwSWpDRkh2dVVFYXkyc1dvcGhEUkRSN1hCclEzdVNFS1ZpWWVpN29FSVJtZnlXWFRzcGhqWkZWTklIZG9kcWpfSXdLaW5qWW03bDlKMzJwV2NJSGVVajY4NmdCNUkzckZMdFQtRlRIcXFtTlVjdWd2THJ4QzV2aWg4QnppNlRyeFhZa1hoSFlBa0IzeFJqay1kRkQtb0F3M2Ftc09JN25HSFdkc25WWnBBaEQwUERPcXM2RnZ5U1psSUFqd0RmeDA4bHrSAfYBQVVfeXFMTnJTeHJPMm52NHUwb2ZocllBcEdld2M1QjF0S29ONmlPekR5RGhrS2RpQmtTNlRhQ3VaNVB1NTd3aHpDUEJzXzNsZng2U1VEQTAxWEkzY2tSY19RMVhwTEpDT09VcDUxTTUzSE4ya2k3SmM2aTA3bEdVOTlkdTM2TEJlRkY1OHRGOUhmbW5kNXVXNm9JOWlQcmt6NHVCQ29WeDItcEVTLXVJaXk0Z0VPN1QyQnhtdXhfc3dqN3U0dExfR3F2Y2YtVmVlTHh1MFBEMDJhMk8wbW83M3UwbGVlZE1FY1VTc1N0SGpDUVF2SFZBclVNa2RR?oc=5
+
+- Mohan Bhagwat Was Asked If Muslims Are Allowed In RSS. His Response - NDTV
+  Mohan Bhagwat was asked if Muslims are
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONHB6b0tEQU9wYnpNVUlsNVZhZlZQc284YVRGOHVaZ1o2OUhFSWJobXcxV1VHdTh3Wjl3bk1CLXhHUlZfWHNxOFRwY0Y5OXhVYjZ0MUhja2luUzlTVktpYnN1Vl83eUlYZ3N2NURyc2dHeFBnTHg1dW5EUUkyNzMwRGJBVERoUnYzS0dSbmVOZHhPZnFKLUZUaUljRTlpaFF5aXlEbFJyUzNEOG9oVGc3ZFZCNDB5MlZYMms3dllXZnp0YXfSAcsBQVVfeXFMTjJ5VnBlVmdfekZsZU05cnQ2YWVnY3dybjRyRjVQVjUwU0FlNmUyckNuUWhPX1RWSFBCWUdyT29lSmJWdGZaTW90V3BTUUphbkZNT2RnYTZ0VjJMSXFQcGVOcEJLV3lHeWdNcUNtWUZUME5jbVlRenAtdV8tckJ4SThYUTBReDA0UkQ2X0dFTG52SEpldG1VS1I5SVZuUzRXRVhBX3BBLVhtN19La193dnMzZi1QZ0NVR1hjMkZBRF96QTltTC1scGdianM?oc=5
+
+- RSS Chief Says Muslims, Christians "Descendants Of Same Ancestors" - NDTV
+  RSS Chief Says Muslims, Christians
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkZxSHRuNUhWcGVGWHNITm1Fa1MwRkZrQXRVaG9nbXU5TGdmbkZRbG13d1EtdDJ3dENFNDRsVnVxenpyWENDM2t5Vm1TdjJrOGtWbnFzelpaRFpxTXUtMlJDTjJ3c0tueEdGSVFpaGtSdjFhMlBrRHRhQVB4dDY4c3dNMGNFYjJibXVSOUZ1QnR6VTJXN3fSAZ4BQVVfeXFMTmlZeWE4ZTAyTUFEd2k2eW10UUp0UFg5ZVF2X0tJOUMydU04TnJleXBTbkdpOXdlOFljelVyZzRtbVpzLWNFVzc0bkVnRFRwRXFBLVNMNTBmN2RHRFZnRjc4aFBuVHVFNmFsZmM4cjItUFNCTnN4TWZsbUpBQlM1eDBVZ2xxLW1YbndsZFZsOVRta3o0eEltYjVkODltRmc?oc=5
+
+- Evening news wrap: Mohan Bhagwat's stern warning to Pakistan; ATS arrests 3 planning terror attacks acros - Times of India
+  ATS arrests 3 planning terror attacks acros in India.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQRXJRVFp5dmcxUVVTSnZsME00YXhBTmNrTVZFbUluQm51SzN5T1dFMWY3by1qU3FDdndxcUJGaGt4U0s3S3NsZE9qcW5iLVNvSGg3S01HNjMxcGkwVTF3QVBvdmtUdGd5ajBKNTNuZnlKN0I1OWdMd3dQLS1zSzUtVVo4WW5Qc3daMWpvYXVPR0hTQkVhcnJpcmFWYU1JblJTY1FOLVVtNkY5MXNTOWVrR1ZEYmJBTmdQOHR1WkVaZjkwWEx4OV9HQU5LdVRVbkhuRGRRRWQwMnhQc2VPY1VxcnJJVnBBM3RCdkdLbWdwVmdYUHoxTXNoT1drOGU3WkRrRldSSFJKTkRYQklmTTRv0gGUAkFVX3lxTE12bEI0YmJoc3hyTGlwLWt3UjZycko1NlZmYTJ3dnNGbTdxTjloeUthakhZNHpqcnl0OWNZV1AzT0c5Tmk4bWVBR0twZVFxQ0xxZDc4cEpnYXhDR0VsTFYwWUU2b3c5MFI0VzdOU19yeHgyTHk2blpETmF1b3BzbmZlRDhRVkhUSXgweFpHRmRqdkpHX081cWhVb2Y5bG1nMHJfVEg5N2FqQjgtX19PSlhiQzFJemhMd2ZtOU1zSFhWVUpIdFdndkpzY2UzS0I1NWlvOHRJTElVLVVTcmlBc1FlcDZIRzNUNHZYa0FNSURhN2dmT3FUV3psbUZFQUE1dkEwS1djWWdzWWlmSk1xQUFBSGdxUw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-11-09 06:25:19 UTC_
+_Last updated: 2025-11-09 12:31:44 UTC_
