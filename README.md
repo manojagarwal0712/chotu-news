@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Bihar Assembly Elections 2025: Tejashwi Yadav questions poll body, asks why EC didn’t disclose gender-wise data for Phase I voting
+- Red Fort blast ripples in Bihar, police fan out as state votes today
   
-  🔗 https://indianexpress.com/article/india/bihar-assembly-elections-2025-live-updates-tejashwi-yadav-nitish-kumar-rjd-jdu-bjp-10356969/
+  🔗 https://indianexpress.com/article/india/red-fort-blast-delhi-bihar-police-fan-out-votes-10357927/
 
-- Firozpur-Delhi Vande Bharat train to commence commercial run on Nov 11 – check stoppage, time table, ticket price
+- Bihar Election 2025: How to Check Your Polling Booth, Voter List for 2nd Phase Voting
   
-  🔗 https://indianexpress.com/article/india/firozpur-delhi-vande-bharat-train-commence-commercial-run-nov-11-stops-time-table-ticket-price-10356919/
+  🔗 https://indianexpress.com/article/india/bihar-election-2025-how-to-check-your-polling-booth-voter-list-and-booth-number-for-2nd-phase-voting-10357063/
 
-- Behind explosives in Faridabad doctor’s house, ‘transnational terror module’ busted during J-K police probe into posters
+- Evil forces trying to weaken country, need to stay vigilant: Tripura CM Manik Saha
   
-  🔗 https://indianexpress.com/article/india/explosives-in-faridabad-doctors-house-transnational-terror-module-busted-j-k-police-probe-10356894/
+  🔗 https://indianexpress.com/article/india/evil-forces-trying-to-weaken-country-need-to-stay-vigilant-tripura-cm-manik-saha-10357770/
 
-- Indian Railways child ticket policy: IRCTC ticket booking rules parents must know before travelling with kids
+- Tripura Board of Secondary Education Class 12 and Class 10 exams from February 25 and 26
   
-  🔗 https://indianexpress.com/article/india/indian-railways-irctc-child-ticket-booking-rules-for-kids-10356758/
+  🔗 https://indianexpress.com/article/india/tripura-board-exam-class-12-10-february-25-and-26-10357745/
 
-- Dates set: Crucial test for CPM and Congress, Kerala local body polls to be held in December
+- Delhi Red Fort car blast: Northern Railway tightens security at these 5 stations – Full list
   
-  🔗 https://indianexpress.com/article/india/dates-set-crucial-test-for-cpm-and-congress-kerala-local-body-polls-to-be-held-in-december-10356799/
+  🔗 https://indianexpress.com/article/india/delhi-blast-northern-railway-tightens-security-at-these-5-stations-full-list-10357616/
 
 - What is ‘Landfall’ spyware, and how was it used to target Samsung Galaxy phones?
   
@@ -40,185 +40,185 @@
   
   🔗 https://indianexpress.com/article/technology/science/blue-origin-scrubs-launch-of-nasas-escapade-mission-to-mars-10356287/
 
-- Novo Nordisk bets on Emcure to win India’s weight-loss drug war
-  Danish drugmaker Novo Nordisk has teamed up with Emcure Pharmaceuticals to increase access to its weight-loss drug semaglutide in India
-  🔗 https://www.livemint.com/companies/news/novo-nordisk-emcure-india-s-weight-loss-drug-war-poviztra-obesity-semaglutide-11762768237583.html
+- Telangana govt sells less than an acre land in Hyderabad for  ₹160.42 crore in state record
+   Hyderabad-based developer Vamsiram Builders bought the 0.97-acre plot. The land parcel will be used for
+  🔗 https://www.livemint.com/companies/news/hyderabad-real-estate-land-deal-state-record-premium-mixed-used-development-project-vamsiram-builders-11762790776379.html
 
-- Fintech SaaS player Lentra aims to grow revenues 4x in three years, plans IPO on hitting target
-   MUFG Bank and Bessemer-backed Lentra is betting on AI to power its next phase of business growth. If the bet works, it could leave behind challenges of tepid demand
-  🔗 https://www.livemint.com/companies/start-ups/india-fintech-saas-lentra-ipo-revenue-target-mufg-bessemer-ai-mufg-bank-hdfc-kotak-tvs-tata-capital-11762743131177.html
+- Ather races ahead of Ola Electric on total income for the first time
+  Ather's sales surged 67%, while Ola's dropped significantly. Both companies aim for profitability, with Ather expanding its retail presence across India
+  🔗 https://www.livemint.com/companies/news/athers-total-income-in-a-quarter-crosses-ola-electric-for-the-first-time-as-sales-surge-11762784031460.html
 
-- Mint Explainer | How India's FMCG companies navigated sales after structural GST changes
-  The implementation of new GST rates disrupted India's FMCG sector in September. Companies anticipate a return to normalcy in demand by early November as inventory adjustments
-  🔗 https://www.livemint.com/companies/fmcg-companies-gst-changes-sales-return-to-normalcy-inventory-adjustments-trade-channels-temporary-sales-moderation-11762763535511.html
+- Pfizer is buying weight-loss drugmaker Metsera. Why Novo Nordisk is the real winner.
+  The Danish drugmaker's shareholders appear relieved that
+  🔗 https://www.livemint.com/companies/news/pfizer-is-buying-weight-loss-drugmaker-metsera-why-novo-nordisk-is-the-real-winner-11762789424360.html
 
-- Stepping away from the workstation? Cognizant says think again
-  Cognizant has started a course to familiarize executives with workforce-management
-  🔗 https://www.livemint.com/companies/break-workplace-cognizant-ai-tools-micro-management-it-firms-tracking-evaluating-prohance-sapience-wipro-11762747164929.html
+- Britannia CEO Varun Berry quits abruptly, Hargave to take over on 15 Dec
+   Britannia Industries announced the departure of Varun Berry executive vice-chairman, managing director and chief executive officer. Rakshit Hargave will succeed him as CEO
+  🔗 https://www.livemint.com/companies/varun-berry-resignation-britannia-industries-rakshit-hargave-11762784919253.html
 
-- Google, Meta &amp; Microsoft scale back diversity data disclosures amid Trump-era anti-DEI push; Apple &amp; Amazon publish
-  Major US tech companies, including Google, Microsoft, and Meta, are halting the publication of diversity statistics. This contrasts with peers like Apple and Amazon, which
-  🔗 https://www.livemint.com/companies/news/google-microsoft-and-meta-halt-publication-of-diversity-data-amid-trump-s-anti-dei-push-apple-amazon-publish-11762761894946.html
+- Akasa Air eyes China, Africa routes but fleet shortage clips expansion plans
+  Akasa Air plans to expand internationally, targeting destinations like China and Africa. The airline, with only 30 aircraft, aims to increase its international
+  🔗 https://www.livemint.com/companies/akasa-air-eyes-china-africa-routes-but-fleet-shortage-clips-expansion-plans-11762781766890.html
 
-- What is bond laddering and how does it help manage interest rate risk?
-  Bond laddering is a smart investment strategy that diversifies maturities, reduces interest rate risk,
-  🔗 https://www.livemint.com/market/bonds/what-is-bond-laddering-and-how-does-it-help-manage-interest-rate-risk-11762774473367.html
+- Who is Siddhant Awasthi? Tesla shares climb 3.6% following Cybertruck chief’s departure after 8-year stint
+  Siddhant Awasthi, programme manager for both the Cybertruck and the established Model 3, confirmed his departure on LinkedIn
+  🔗 https://www.livemint.com/market/stock-market-news/who-is-siddhant-awasthi-tesla-shares-climb-3-6-following-cybertruck-chief-s-departure-after-8-year-stint-11762791466714.html
 
-- Penny stock under  ₹5 soars 46% in November, 63% in seven weeks — what’s driving it?
-  Ashnisha Industries stock has gained 63% since early October. The recent surge just came ahead of the earnings report set for November 14.
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-5-soars-46-in-november-63-in-seven-weeks-what-s-driving-it-11762774716469.html
+- PhysicsWallah IPO: Edtech firm raises  ₹1,562.85 crore from anchor investors ahead of public issue — Details inside
+  ICICI Prudential MF, Kotak MF, Nippon MF, Aditya Birla Sun Life
+  🔗 https://www.livemint.com/market/ipo/physicswallah-ipo-edtech-firm-raises-1-562-85-crore-from-anchor-investors-ahead-of-public-issue-details-inside-11762792894995.html
 
-- Bajaj Finance Q2 Results: Profit tumbles 24% YoY even as interest income grows — 5 key takeaways for investors
-  Non-banking finance company, Bajaj Finance, announced a decline in its quarterly profit for the second quarter of
-  🔗 https://www.livemint.com/market/stock-market-news/bajaj-finance-q2-results-profit-tumbles-24-yoy-even-as-interest-income-grows-5-key-takeaways-for-investors-11762775251587.html
+- US Stock Market today: Wall Street surges on signs shutdown may end soon, Nvidia jumps 3.7%, Alphabet soars 3%
+  The Dow Jones Industrial Average rose 0.02%, the S&amp;amp
+  🔗 https://www.livemint.com/market/us-stock-market-today-wall-street-surges-on-signs-government-shutdown-may-soon-end-11762785820788.html
 
-- Trent’s growth deceleration continues. Is the worst over?
-  For the Trent stock to re-rate, investors will need proof in the form of improving growth rates. In this context, store additions are a
-  🔗 https://www.livemint.com/market/mark-to-market/tata-trent-growth-deceleration-continues-is-the-worst-over-zudio-gst-westside-11762766230654.html
+- Pine Labs IPO: Issue receives tepid response on Day 2; subscribed 0.55 times, employee portion sees strong demand
+  Pine Labs IPO has seen a modest response, with a subscription rate of 0.55 times. Retail interest remains strong at 1.91 times. The IPO, open until November 11, is valued at 
+  🔗 https://www.livemint.com/market/stock-market-news/pine-labs-ipo-issue-receives-tepid-response-on-day-2-subscribed-0-55-times-employee-portion-sees-strong-demand-11762783540431.html
 
-- Emmvee Photovoltaic IPO opens tomorrow: Price band, GMP among 10 key things about  ₹2,900 cr public offer you must know
-  Emmvee Photovoltaic IPO is a book-built issue of  ₹2,900 crore. IPO consists of a fresh share
-  🔗 https://www.livemint.com/market/ipo/emmvee-photovoltaic-ipo-opens-tomorrow-price-band-gmp-among-10-key-things-about-rs-2-900-cr-public-offer-you-must-know-11762771391702.html
+- Brazil central bank tightens rules for virtual assets, cryptocurrency
+  Brazil central bank tight
+  🔗 https://www.livemint.com/market/cryptocurrency/brazil-central-bank-tightens-rules-for-virtual-assets-cryptocurrency-11762781882052.html
 
-- DeepSeek researcher highlights ‘massive’ problem for society, says AI will take over human jobs in a decade
-  DeepSeek's Chen Deli highlighted the risk of AI replacing human jobs within a decade. He also urged &amp
-  🔗 https://www.livemint.com/technology/tech-news/deepseek-researcher-highlights-massive-problem-for-society-says-ai-will-take-over-human-jobs-in-a-decade-11762765970041.html
+- EU Eyes Banning Huawei From Mobile Networks of Member Countries
+  The European Commission is exploring ways to force European Union member states to phase out Huawei Technologies Co. and ZTE Corp.
+  🔗 https://www.livemint.com/technology/tech-news/eu-eyes-banning-huawei-from-mobile-networks-of-member-countries-11762798143670.html
 
-- Sam Altman says Slack creates ‘fake work’; Elon Musk renews warning for Microsoft
-  OpenAI CEO Sam Altman criticized Slack for causing 'fake work' Elon Musk warned Microsoft about the competition from OpenAI
-  🔗 https://www.livemint.com/technology/tech-news/sam-altman-says-slack-creates-fake-work-elon-musk-renews-warning-for-microsoft-11762767511559.html
+- You can now share Spotify songs straight to WhatsApp Status on Android: here's how it works
+  Spotify's new feature allows Android users to share music and media on their WhatsApp status for 24 hours. Users will be able share tracks with an audio preview
+  🔗 https://www.livemint.com/technology/tech-news/you-can-now-share-spotify-songs-straight-to-whatsapp-status-on-android-heres-how-it-works-11762773665725.html
 
-- Motorola Edge 70 Ultra tipped to feature Snapdragon 8 Gen 5, 1.5K OLED display: What to expect
-  Motorola is reportedly developing the Edge 70 Ultra, a flagship successor to the Edge 50 Ultra. Expected to feature a 1.5K OLED display, Snapdragon 8 Gen 5 chip
-  🔗 https://www.livemint.com/technology/tech-news/motorola-edge-70-ultra-tipped-to-feature-snapdragon-8-gen-5-1-5k-oled-display-what-to-expect-11762767929372.html
+- Google Nano Banan 2 images are going viral even before launch: Check out the top 5 examples
+  Google hasn't officially launched its Nano Banana 2 model. Social media users have shared wild examples of some images that
+  🔗 https://www.livemint.com/technology/tech-news/google-nano-banan-2-images-are-going-viral-even-before-launch-check-out-the-top-5-examples-11762787780061.html
 
-- Online gaming puts childrens health at risk: age check methodology and policy action like legal vetting needed: Report
-  Online gaming has raised concerns over addiction and exploitation, report says.
-  🔗 https://www.livemint.com/technology/tech-news/online-gaming-puts-childrens-health-at-risk-age-check-methodology-and-policy-action-like-legal-vetting-needed-report-11762766737222.html
+- Paytm app gets big makeover with AI tools and new payment features: here's what you need to know
+  Paytm has upgraded its app by streamlined UI, adding smarter payment history, and AI-driven insights. Users can now view total balances, hide payment
+  🔗 https://www.livemint.com/technology/tech-news/paytm-app-gets-big-makeover-with-ai-tools-and-new-payment-features-heres-what-you-need-to-know-11762782791761.html
 
-- Elon Musk says Grok is ‘getting there’ as AI nears Midjourney-level visuals. How both tools stack against each other
-  Elon Musk has hinted that xAI’s Grok may have reached “Midjourney-level aesthetics” after retweeting
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-says-grok-is-getting-there-as-ai-nears-midjourney-level-visuals-how-both-tools-stack-against-each-other-11762764245190.html
+- Are ads coming to Apple TV? Top Apple executive puts an end to all rumours
+  Apple's Services chief Eddy Cue confirmed there are no current plans for ads on Apple TV. He acknowledged the possibility for future changes but also emphasized the importance
+  🔗 https://www.livemint.com/technology/tech-news/are-ads-coming-to-apple-tv-top-apple-executive-puts-an-end-to-all-rumours-11762779469135.html
 
-- Markets rally on relief over US shutdown breakthrough – business live - The Guardian
-  <ol><li><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQNzBxMllzSElfSTJzSWl2V0IyV0VBRjhDdTdMcFc5WjNXaVFPYmNoYlNMclNkdHM3ZTdXSm13d1BnZ0dJMkNpSjJLUjR1dG5QbzN1OVBFanRRdTJVa2VGRVpNZmNxMlNpQj
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQNzBxMllzSElfSTJzSWl2V0IyV0VBRjhDdTdMcFc5WjNXaVFPYmNoYlNMclNkdHM3ZTdXSm13d1BnZ0dJMkNpSjJLUjR1dG5QbzN1OVBFanRRdTJVa2VGRVpNZmNxMlNpQjRKUjZLVTgzT01SaHgwTnRwTlAwanljX2t5U0tsYTdsTXdaaUEwUGtlOVA2RExTSm9ZMFlmWE90bi15ZERhU0hocnVIQ1A5aVZfYU1UMnlVTlExeUo4YnhkekFMeUxqY1hwQWVqUQ?oc=5
+- Stocks Rally on Bets Shutdown Endgame Is Near: Markets Wrap - Bloomberg.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTNjdTYyeDBqT1NzN3BSdklDRzV4Vm5kcHA0UDZHZDE3LXJCeHNTZ3FNQ19sQVRuSkw0VmxxX1EwOEpBdlh0WlRYWV9lY2ZWMEtJUmo5TDFENGxrTFNhTS1lTWQtWXZuU2
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTNjdTYyeDBqT1NzN3BSdklDRzV4Vm5kcHA0UDZHZDE3LXJCeHNTZ3FNQ19sQVRuSkw0VmxxX1EwOEpBdlh0WlRYWV9lY2ZWMEtJUmo5TDFENGxrTFNhTS1lTWQtWXZuU202WW1sdkhRU2owNjVNdEtKREJxZzlLNjJJNmxxUUJvMEhwUFRZelZzZ2FHWTktd0pLUUQxenB4VXI1bUlLSE5aeUVlUE8zNnBB?oc=5
 
-- Market Highlights: Sensex settles 319 pts higher, Nifty above 25,550; HCL Tech, Bajaj Finance rise 2% each - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPei1EWGRueTlldVRyejhWbEYzZmtMSGRqYm5yOGpDZGJlZG9sUlVHaFROX0dSZHE0WDUteWctWDRPR1ZoWjE0MTYxcjd4UVgteFpSb2dCb0QwNENmTzh5VG9Vc3oxSlR5ej
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPei1EWGRueTlldVRyejhWbEYzZmtMSGRqYm5yOGpDZGJlZG9sUlVHaFROX0dSZHE0WDUteWctWDRPR1ZoWjE0MTYxcjd4UVgteFpSb2dCb0QwNENmTzh5VG9Vc3oxSlR5ejRhSG5fZUw4NzgtdUc2RTdYZFV3S21sdGJKcl9jeXRGSTRDZDd0QUc0cTdyTUFhZ3dlN0ZhYjJYRWhjZHYzY1dzTmNua2lvQVdHdXpKRDZyLVRSUXg1R0Z5elhnQlM5WmZNLUp3TFVJRWV6TUxNSzE?oc=5
+- AI’s $5 Trillion Data-Center Boom Will Dip Into Every Debt Market, JPMorgan Says - Bloomberg.com
+  AI’s $5 Trillion Data-Center
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTFBZMnFqWWstSmFpQk5NZ2lMeUlYOS1VQ18wMXNaMm9xa0syZUFxa3pJZERpZGJUNTFiaV9NRVhpS1ZILUVWSTFHYTU0OXlDbXowS3JIbFkzN19BVFpZX0xMMWlkc3o0YVl0UkNCTldOUFBEZ1BiUWFkZ0trNnFSZGVBRzNJWk1hLXJTQUFkcnVoX0M5Q3d2enVKcllGUnlJUjVNWmlnRnVoZFdkeFo4SVZQaVVGaDVJUjZjUWxONGFXWG1oQTVmSA?oc=5
 
-- JK Tyre to pump in Rs 5,000 crore for capacity boost, eyes new export markets - The Economic Times
-  JK Tyre to pump in Rs 5,000 crore for capacity boost
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSlY1Z0pzZHdBcWkxOXc5amExaktCNjYtSHIyUU9DVHNyeXNNZEcxR042cHh5ZEQ5bVI5ZmIwcmJyQVZzMEJpd0o3RjJlQzI5cHYyUHlvSDltYTRPOExIMjNuOG1HbVIyVFEydWV3QTIydF9lb0szLUVZWmZPMDUzWXBVVGs3X3BBVXpHODh5cFZvZDhzTWw3akFHd2cyS0RWSFJKVk9VYlhyNzZ2S2hQdG1XVlE5dTF5QktZUVNDMENwUWxIS0pFN0gzam9saVdaMk4ydE1IaGdBNWpaNzhqOXRGZkwxUkdj0gHoAUFVX3lxTE5KVjVnSnNkd0FxaTE5dzlqYTFqS0I2Ni1IcjJRT0NUc3J5c01kRzFHTjZweHlkRDltUjlmYjByYnJBVnMwQml3SjdGMmVDMjlwdjJQeW9IOW1hNE84TEgyM244bUdtUjJUUTJ1ZXdBMjJ0X2VvSzMtRVlaZk8wNTNZcFVUazdfcEFVekc4OHlwVm9kOHNNbDdqQUd3ZzJLRFZIUkpWT1ViWHI3NnZLaFB0bVdWUTl1MXlCS1lRU0MwQ3BRbEhLSkU3SDNqb2xpV1oyTjJ0TUhoZ0E1alo3OGo5dEZmTDFSR2M?oc=5
+- Cramer considers a trim of a red hot drug stock nearing a $1 trillion market cap - CNBC
+  Cramer considers a trim of a red hot drug stock nearing a $
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORFRHQVN5QVpxQlpCR2tvWDFjWkw4VFNOWTlCUC1aNG9HbkVZeDFmOHJkWEZqZF9pSnhJV0N1dnJycnlETlZtRk9ZWTcxWmE4WkFlSkcycUJJQlRZSWlmTjh2UkNUdnh2N3MwTVhCblh3Z1JiMVBVMUNjZUFCR1E5MkUyX2pUbmlfd3lVd0V1amRaZHBCUG5fRklwZVJwYTF5RUJlYXAzSU5KV1RzVUtCWnd1ZktCMGs?oc=5
 
-- Stock Market Outlook: Markets Likely to Stay Range-Bound Amid Mixed Global Cues - Deccan Herald
-  Stock Market Outlook: Markets Likely to Stay Range-Bound
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOOHVTWlFBUjRlRm5Vck8xVFVZYkJiVzktOHloQjBta25pdEhJaFlRV016Z3FxWmZETW9nWGhuRGtTdXNoSVZ5Z2NwX1hjaW9YNjJnVS1MU3hkTEJRSE85NW9QOEdIQjFGODBmSTl2SVlyZ0lOWDlEZ1k2LTdYOXFRVGdWUWZxYzJib1E?oc=5
+- Markets rebound after 3-day fall on firm Asian peers, FII inflows - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWpsM1ZXZGVUZ016VlRhR19KNEdCeTNqaGFZaGtLc3lSMzQyZEFQVFRONm5nTjJYNkpCMFh5R2dqaEpsel9uZmR6VDlkZDdLREctZmxRTFpvWmVvZV9xbVhBVTZ6M0d5dU
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWpsM1ZXZGVUZ016VlRhR19KNEdCeTNqaGFZaGtLc3lSMzQyZEFQVFRONm5nTjJYNkpCMFh5R2dqaEpsel9uZmR6VDlkZDdLREctZmxRTFpvWmVvZV9xbVhBVTZ6M0d5dUM1LUhoaVdVbnFGNFhPVk5EcEs5Z2hBR1lqaW15YVdZVnpTd2xJVGFQSnZuaGZBUmhlbFMyY2h6b2RidmJ4TjJHUU9pdFZoZFg1aExhYkJDWmVpbUMyZ0o2WVpF0gHLAUFVX3lxTE40X3p3ZHp0eG04dkF1RVdtWTB1R1dud2R0ekpwaXJNYWc1VnRQS01LT050cFVpZDczRmpSeGpzRHFGdWExUW5iOTNnR3FxTXBXY3hYSHptTnYzamZzczBieDU4ZEpudTQzVEdXcTV6WEtNTE9EREduLW9BMTA3YnpibllTSW03UGNmSFdxdFFGUk1jRmVXRDRuaUNsRngzUUJqQWNIQlFwSERGOHBUM2JHZEd3VUFxRXE2TEl0WUduWGh2R0lHS191QlFR?oc=5
 
 - The Astonishing Bull Market Will End One Day. Are You Ready? - The New York Times
   The New York Times asks: Are you ready for the end
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5jVkpmX1dNTjd5Znh6WUJHT3VVT1NWY28zX2pIaW83UWp6TlZneUYzU0hPNFNNSHM2SXZQS2NaTUJjd3g3VVdtRDRWRWhYV0dMVEZEdndWWUhTaDBGN1NvV08xS25va2FrZ3ZTNGxVa1JvaWRYdjVj?oc=5
 
-- Fujiyama Power fixes IPO price band at Rs 216-228 per share; issue opens November 13
-   Fujiyama Power launches Rs 828 crore IPO with a price band of Rs 216–228 per share.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/fujiyama-power-fixes-ipo-price-band-at-rs-216-228-per-share-issue-opens-november-13/articleshow/125224293.cms
+- Goldman Sachs, Fidelity among investors in PhysicsWallah's Rs 1,563 crore anchor round ahead of IPO
+  Edtech giant PhysicsWallah secured Rs 1,563 crore from anchor investors. The company's Rs 3,480 crore public offering, set to launch soon, aims to fund expansion.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/physicswallah-garners-rs-1563-cr-from-anchor-investors-ahead-of-ipo/articleshow/125228796.cms
 
-- 8 midcapcap stocks with sales rising steadily over 4 quarters
-  Eight NSE midcap companies have reported consistent net sales growth for four consecutive quarters up to September 2025.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/8-midcapcap-stocks-with-sales-rising-steadily-over-4-quarters/slideshow/125224205.cms
+- Ahead of Market: 10 things that will decide stock market action on Tuesday
+  Indian markets closed higher on Monday with Sensex up 319 points and Nifty rising 82 points. Tracking global optimism over a potential US government
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/125228231.cms
 
-- Shriram Finance, One97 Comm among 9 financial services stocks that hit 52-week highs; gained up to 23% in a month
-  On Monday, the Sensex gained about 319 points to close at 83,535. During the broader market rally, nine stocks from the BSE Financial Services Index hit fresh 52-
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/shriram-finance-one97-comm-among-9-financial-services-stocks-that-hit-52-week-highs-gained-up-to-23-in-a-month/slideshow/125224080.cms
+- Tata Motors CV arm listing date announced. Check details
+  Tata Motors’ commercial vehicle arm (TMCV) will debut on exchanges on November 12. Analysts see strong value unlocking potential.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-cv-arm-listing-date-announced-check-details/articleshow/125228095.cms
 
-- Bajaj Finance Q2 Results: Cons PAT jumps 22% YoY to Rs 4,875 crore, NII too rises 22%
-  Bajaj Finance reported a 22% jump in its consolidated Q2 net profit. The profit after tax (PAT) is attributable to the owners of the company.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-results-cons-pat-jumps-22-yoy-to-rs-4875-crore-misses-estimates/articleshow/125223888.cms
+- Block deal: BofA turns buyer, Goldman seller in Nifty stocks ICICI Bank and Apollo Hospitals
+  BofA acquired ICICI Bank and Apollo Hospitals shares worth Rs 88 crore in Monday’s block deals. Goldman Sachs was the seller.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/block-deal-bofa-turns-buyer-goldman-seller-in-nifty-stocks-icici-bank-and-apollo-hospitals/articleshow/125228007.cms
 
-- Jindal Stainless Q2 Results: Net profit grows 32% to Rs 808 crore on higher sales
-  Jindal Stainless on Monday reported an over 32 per cent year-on-year rise in consolidated net profit to Rs 808 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jindal-stainless-q2-net-profit-grows-32-pc-to-rs-808-cr-driven-by-sales/articleshow/125223793.cms
+- Market Trading Guide: Buy Nykaa, BHEL and 3 more stocks on Tuesday for up to 20% gains
+  Nifty closed higher after a three-day fall, supported by IT and pharma gains. Analysts see near-term consolidation. Experts recommend Indian
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-nykaa-bhel-and-3-more-stocks-on-tuesday-for-up-to-20-gains/slideshow/125227786.cms
 
-- Exclusive: Inside Pak's Secret Unit 'S1' That Trains Terrorists To Attack India - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPU2tXOThRektWRGVPejh2eS1tMFRWcklOeE5zbm5yN0pGakFENlM3S1gydTRhd2pxTU9TSjRNS19mbjZjYm12RkZyVlFjSGpaa2ZwNmg4NUl3MjEwcGpraHFGQU9TZmVzZzh0cjhJdEtwY3BKMF9xdlZ0dkpLVUlKOVB3R1d1UTJwUGVHT3lwRWZuLThKQXZaSkNjb0xJbmhnUE5xS3JmZ3Myc3FTNXd1bVVNakpVNUZvcGdkNdIBxAFBVV95cUxPM1FoQ0M5XzNsYzlyTmVjZXpkZHNWS2FlMVJQOHJ3am5jcU04RUpzSEhxVDF5TFBQOGhVZHI2aGhxalpvdmtoNnRiM0FGNndHM0xQUHNsRndYeHR6V3IxclFkNVV3SWZlSkE5WEZoWmdLRzJOQ28zUDFpVHNsWUMtb3A3TkFleDctNmVxZ19UNThlRjRIZXhrNlV5NWVlZUpQUzdKV0hVMUE4bERqNnItMUctUmY5cU1ObzNnc0htXzhTdEhS?oc=5
-
-- Hafiz plotting India attacks using Bangladesh as launchpad: Intel - Times of India
-  Hafiz plotting India attacks using Bangladesh as
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWVYOVV2OUl2R2hIVThTQVBhWXpjbmRoejVLMWxKS0FtOW1lcUpHeVNZM1dHS21VSzN1RVc3UE5WRzYwOUhqUUl4QjdWU1B1Z2VMbFZvUHdZY3BXeGdvQ0pnQWRFLU9GVFRZTEtFTG1xQ0Nfb0ljUEFWSEFLbjhqTUM2cVdJOHFNYUpaRTNiNEdMMDJyVTBxV3VsYVlDTC1reHhKUURTUUJVbFJOYUg1NWhLbHg4VGtWTlQ4NW5rQlFEWVAzQVJfLXl0WEfSAdIBQVVfeXFMT3dPUDA3Ri10QUM2dDJvUVRqYkhNejE0SmNRNlgwTlFUdGkxSWxpVkV4Qng3ZVZLc25nLXdWUmJ3VGM2a3JldUVudW0tam1xSERUX05wNm5rNTh2ck5tN0FaaUQxME5xbUgySndrZHN4cGNpQ2J3eWpGZXgxZzU5ajN4bUk3S0hSOUdnMi1ZOHNNZExzeVc1SDZxT0tUcTNPbEMwX0ttbmM1VUJkQWljdGpfdXZPaUtjeGp1SlVUWmdGdFFxNlZBSVlRdmdOc2hweE1R?oc=5
-
-- ‘…if they do it’: Rajnath Singh on India's response if Pak conducts nuclear tests | India News - Hindustan Times
-  ‘…if they do it’: Rajnath Singh on India
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYWJhX3BJdEJBVW9XVmZFd2VwWlZ2bHUwSkpvejQyMVJkLXkwNGNFQTJDRy1oZlNxb0dOLWs2RlhrQkU4SHhMSUtkdmJNWWlCTGhocUpkVnI0UVBpcXhESUNPSGhQRTBLNmlHbVR2ZWE2dEZBbVZEWWhXMWR1TWZlY0h2TmEyVlI3OUZDdmw0SXNNX0FsTGh2bm11VTNyZXdxa2xkRmRzT2x6NU9XbVBpalZ3SVlRRXltVDRvTzhsVU5idlNxZnI3NFB5QWN6UDMxRkRxWXhn0gHbAUFVX3lxTFBKVHl6bUVkYzhEUHJtcEFSTFBsWkZlbmprODFQMGN3eFRFQmRQWjQ1TDBWTmUzUkZSVnhPa1lWZjkzUzQwbVYtLU43UmQ3QjFyUmR6elJMMVJLWkVuMDhGQW9TRnRnTkVCb1ZheVh1YWxMLTRTTHBQMzFPWENkQ3ZiWDAxLUQ2T1dvNzV5UndCWGNPdGtVZkNvdl9fb2ZFeUV3a1VMclpjTm1pM1JaUmdlYVJtOThoTlhzV2NRTjZCV2Nvb2Z6aUlKQUMwMzJrVm5ONVk2U014NDRHNA?oc=5
-
-- Nagaland CM seeks Centre's urgent support for key projects in state | India News - Hindustan Times
-  Nagaland CM seeks Centre's urgent support for key projects
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZUQ4UjJXQzI4bXRuek8tUXRSeHlJbDVaTFFzbGxqcHkzellvSFJuM2VPVGNsN2ppY1RNeUdmZHpyNkJqdFpNNWlKSzJ2X2V1NkVZa0g3V2QtdXJSNVJYb0FWYTFPdFRfYTFzVFM3S1N6dF9WUmN6ekxfWXJkbGJreUFaczRRNWVMcGJkUEpSSHlZbm9wRWRjLXI5cGpqMHFPMUZBWkxrU1NpNUt5NVF5ZGVzdzlQcEh2TzUwYUpUZjA3bWhxaGcwaEV30gHPAUFVX3lxTE1lVExCSW5RTnZWb1QzeFpLWG1wZWxzY0JxWVFHdV9uaUJmOGdkUVNZVmFwaUU3Wk4yNU5MZmdfVTFMX0NNdGpxNXRMdVcxOTJIWWNCbTZCSGNHS0Q0RDRpZEtncVhGcGJpRHlEMWc4UGpDbnIxVkQ2bENLbHZ1c1RjM0NNYnQ5VnA2RTFLOXZic2swWTgtS0pXQXUzaXBhWGhLbmg1c1doNS1mYS00ejNzTE5kWmJvSm9JNVc2ektWYk9LLV83MmN5WXBqcHlEWQ?oc=5
-
-- AIIMS Survey Finds Private Sector Dominates India's Eye Care; Only 15% Centres Government-Run - NDTV
-  AIIMS Survey Finds Private Sector Dominates India
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOeHRVXzIxVHI2UDI5VGsycjZFRmhlVkZjSXJMY0VxODBySjJPZTYtY1UzN2JXM0hnbHZNeEs5RHVKdUxvUU1nX3lDb1BCRTctLU1nN1lTQmxxSmZUTVZvbjJiNG54c05lYTg4ZnB6Z3NNMFNIcDNqRERYa2NUMzNXOWc5UzNYM0pCbldDb1MxTW1iTjhRaW1YY0I5VHFVZTZ1bVpfZEh1anVMWVZVU1N4S1I5bTdtUElpMWdVVW9pUFVZanBsWFFscTNn0gHSAUFVX3lxTE42aEVkbDhVdHd6VHh1a2dpYjRaMkZYck94RVhpdG1UZUs1dXJwRHdqakJIaEpUMDlXdGpOZjhQdmNJSlpYb0ppV0kzRV9HQmxGRERfV0dlbTVMWm12NWhDTkwyamkyZ0pXQ09zY1YyZ3ota0lVQ25XRkY3Tk5jcHB1SGt2allvb0N6ZUw3Ynp3UWEzaEItalNrY2xwSFVUSUFoSlB2ZmNJUV8xZ3lxMmxHTjBUMWhmT3R0eUZkOEZsSEJxdWpiaXdEOXRlVm0zdEhKQQ?oc=5
-
-- Exclusive: Inside Pak's Secret Unit 'S1' That Trains Terrorists To Attack India - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPU2tXOThRektWRGVPejh2eS1tMFRWcklOeE5zbm5yN0pGakFENlM3S1gydTRhd2pxTU9TSjRNS19mbjZjYm12RkZyVlFjSGpaa2ZwNmg4NUl3MjEwcGpraHFGQU9TZmVzZzh0cjhJdEtwY3BKMF9xdlZ0dkpLVUlKOVB3R1d1UTJwUGVHT3lwRWZuLThKQXZaSkNjb0xJbmhnUE5xS3JmZ3Myc3FTNXd1bVVNakpVNUZvcGdkNdIBxAFBVV95cUxPM1FoQ0M5XzNsYzlyTmVjZXpkZHNWS2FlMVJQOHJ3am5jcU04RUpzSEhxVDF5TFBQOGhVZHI2aGhxalpvdmtoNnRiM0FGNndHM0xQUHNsRndYeHR6V3IxclFkNVV3SWZlSkE5WEZoWmdLRzJOQ28zUDFpVHNsWUMtb3A3TkFleDctNmVxZ19UNThlRjRIZXhrNlV5NWVlZUpQUzdKV0hVMUE4bERqNnItMUctUmY5cU1ObzNnc0htXzhTdEhS?oc=5
+- Red Fort Blast Live: 8 Dead After Explosion In Car Near Red Fort In Delhi, Amit Shah Visits Blast Site - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2JvNDFuazZ2ZXd6eUItYVZkZFlFTzZ5bkxHVWhGY3BuTDRpZC05OHhKcGQ1MTJjOS0zZU9DemEtbXc3Q2xTY014dTlWYnR1cTA4Ykk4clR2MExLMUFLbzNFa2xRMmctOFVCRU1meE1XSG11c0Y0REt4a3V3Nnp1X291YVFBenBJcTVkSlJfQkFkTG1ObWJCaVV6TnZJci11ZDV2N1dVc9IBjwJBVV95cUxPRlA1dGxXemVQVWprQTVRQWJ5LW12anY0Y1dnVExmQ1lhSVcxTGxlZVU3cjFZbTcxQlZUUVNscnkwN2NGdE9DYkNrUERIbmUyMWpsTHZsVHZZREFaZTZfVGhkaUdRYVB0dFYyNERzVGx5Q2hUT2ZoMHJNWXlyemsxNnVsMTc2dmMxY0FhSEtiSzA1TDlkUGJOeTBvT1FBRzRzSFVpcGdBR00yczNUNUxXYU9zODZaOElYckdCdmlpY1ZEOGZUa3RGNVhpam4ySExFNHk5ZnFPQ3l3b1phMnlITlBNNTZDZ3VlNVdtVTE2M0cyemtKUE9RNmZqbTlJNkhvMEdtYnMtb2JFRXlHWWJV?oc=5
 
 - Hafiz plotting India attacks using Bangladesh as launchpad: Intel - Times of India
   Hafiz plotting India attacks using Bangladesh as
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWVYOVV2OUl2R2hIVThTQVBhWXpjbmRoejVLMWxKS0FtOW1lcUpHeVNZM1dHS21VSzN1RVc3UE5WRzYwOUhqUUl4QjdWU1B1Z2VMbFZvUHdZY3BXeGdvQ0pnQWRFLU9GVFRZTEtFTG1xQ0Nfb0ljUEFWSEFLbjhqTUM2cVdJOHFNYUpaRTNiNEdMMDJyVTBxV3VsYVlDTC1reHhKUURTUUJVbFJOYUg1NWhLbHg4VGtWTlQ4NW5rQlFEWVAzQVJfLXl0WEfSAdIBQVVfeXFMT3dPUDA3Ri10QUM2dDJvUVRqYkhNejE0SmNRNlgwTlFUdGkxSWxpVkV4Qng3ZVZLc25nLXdWUmJ3VGM2a3JldUVudW0tam1xSERUX05wNm5rNTh2ck5tN0FaaUQxME5xbUgySndrZHN4cGNpQ2J3eWpGZXgxZzU5ajN4bUk3S0hSOUdnMi1ZOHNNZExzeVc1SDZxT0tUcTNPbEMwX0ttbmM1VUJkQWljdGpfdXZPaUtjeGp1SlVUWmdGdFFxNlZBSVlRdmdOc2hweE1R?oc=5
 
-- ‘…if they do it’: Rajnath Singh on India's response if Pak conducts nuclear tests | India News - Hindustan Times
-  ‘…if they do it’: Rajnath Singh on India
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYWJhX3BJdEJBVW9XVmZFd2VwWlZ2bHUwSkpvejQyMVJkLXkwNGNFQTJDRy1oZlNxb0dOLWs2RlhrQkU4SHhMSUtkdmJNWWlCTGhocUpkVnI0UVBpcXhESUNPSGhQRTBLNmlHbVR2ZWE2dEZBbVZEWWhXMWR1TWZlY0h2TmEyVlI3OUZDdmw0SXNNX0FsTGh2bm11VTNyZXdxa2xkRmRzT2x6NU9XbVBpalZ3SVlRRXltVDRvTzhsVU5idlNxZnI3NFB5QWN6UDMxRkRxWXhn0gHbAUFVX3lxTFBKVHl6bUVkYzhEUHJtcEFSTFBsWkZlbmprODFQMGN3eFRFQmRQWjQ1TDBWTmUzUkZSVnhPa1lWZjkzUzQwbVYtLU43UmQ3QjFyUmR6elJMMVJLWkVuMDhGQW9TRnRnTkVCb1ZheVh1YWxMLTRTTHBQMzFPWENkQ3ZiWDAxLUQ2T1dvNzV5UndCWGNPdGtVZkNvdl9fb2ZFeUV3a1VMclpjTm1pM1JaUmdlYVJtOThoTlhzV2NRTjZCV2Nvb2Z6aUlKQUMwMzJrVm5ONVk2U014NDRHNA?oc=5
+- Who is Matt Forney? US H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian’ | Hindustan Times - Hindustan Times
+  H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxORWI3M3UtMEg0SVNBeXpFQWpyZzhfLUlZY1oxczJaVEVGR0JpSkhzc2JPNGpuekp3ZW5zTnlFOEwycEViYm1sMHoyX1l4TU1sWEZSSGZxTEFvbEZiZGZYQ3BHMGZsYklZamRTc1FQWXd2UWdwYjRTVURJQXJCd2dTdnVScXQzbDVObTJYcjJFczBnaVBZdWwzRGJ0NHNieFBWY09QejdUU3M3U01ROXJ5LUxuZHpnYll5b0hsTy1rSDk0OTg0dmlueC1sVjJVbk83UU9tTk5tN2lBNEZhR1dFZk9sZFFaUXVMVFRjUDlCN1hPOGdJbFI5a2ZsSTVhcmpBS2owMHgwSk91dFpTOVRDM9IBlgJBVV95cUxNb092aks1THB5V3E3MklndVMxM2dIbkFHdU9mXzVOTTNLeG1FbnVMT3Z2MmNmT1VzZTJuamQwNGgxMjdEQ0JILTFXQWxyN040NkZzMi1IaFh3RWFBYmtBYVh5WUR2N1djRnVYNjlZNVA3SW8wa0YwTWlFX3pUdEFmSlZWZWduWFZpeGxyQW9CeGYxejByaEVfUHptdENqSEJ6SkwtZ2YzYVJ1V2JfeGE4dldXMF9WeWNUNXExaDlDLWtTa2NQQkxJUHVYOERmdW8wczlUb3B6d096VnlSOU9aUTctbXozNnhDSjZDTTVqcWVyN2lXNHBpcXN3RGM1WXdpaXVCVVR5RlB1M0ROZHp0SEhXdm9HZw?oc=5
 
-- Nagaland CM seeks Centre's urgent support for key projects in state | India News - Hindustan Times
-  Nagaland CM seeks Centre's urgent support for key projects
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZUQ4UjJXQzI4bXRuek8tUXRSeHlJbDVaTFFzbGxqcHkzellvSFJuM2VPVGNsN2ppY1RNeUdmZHpyNkJqdFpNNWlKSzJ2X2V1NkVZa0g3V2QtdXJSNVJYb0FWYTFPdFRfYTFzVFM3S1N6dF9WUmN6ekxfWXJkbGJreUFaczRRNWVMcGJkUEpSSHlZbm9wRWRjLXI5cGpqMHFPMUZBWkxrU1NpNUt5NVF5ZGVzdzlQcEh2TzUwYUpUZjA3bWhxaGcwaEV30gHPAUFVX3lxTE1lVExCSW5RTnZWb1QzeFpLWG1wZWxzY0JxWVFHdV9uaUJmOGdkUVNZVmFwaUU3Wk4yNU5MZmdfVTFMX0NNdGpxNXRMdVcxOTJIWWNCbTZCSGNHS0Q0RDRpZEtncVhGcGJpRHlEMWc4UGpDbnIxVkQ2bENLbHZ1c1RjM0NNYnQ5VnA2RTFLOXZic2swWTgtS0pXQXUzaXBhWGhLbmg1c1doNS1mYS00ejNzTE5kWmJvSm9JNVc2ektWYk9LLV83MmN5WXBqcHlEWQ?oc=5
+- India, Russia To Ink Mobility Pact During Putin's Visit; 70,000 Indians Set To Get Legal Work Grant - News18
+  India, Russia To Ink Mobility Pact During Putin's Visit. 70,000
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1czdGc3cnY1RmdVMGJ6M29jYm9hM1hNNzNDdXg1N2pPSGx3TFJjVmY2b2hmVXI0RDJFM1E4ekZFZTAwRVQyWURlbzJ2LTdwczAzM2VXSS1YOXJKckJqZFhjdGNKb1JYcXI1MDUtQnVuSEV3aXB5b1I2T1g5eHozTGxKR3NzaUt3MnFNXzNVdmJnaGpoY3lwUnMxV2pMTmxnZk4wY1VLTV9hdkRkX3hQdFNsNVdvaWF6WEMydXE1bXVYTW8wTF9tWDZvZUpCMGg4Q2Fn0gHYAUFVX3lxTE10ckI3NmNUVjB6dGdoNm9JdG04Y2VJRDV3d0g4ODQ0NXE1Vk1EaTJ0SnVOamR6Mlpjamc4dlh4dlBWcENiU2xtZXZBZTBQZ0trX1huczBqYmVnZDB1cDZsb1pGR3lTN1hlOFoxQll1VXZaMTBoZVQ2TndJSmpYY2pMX3dyTlVWWFBqLVAzUy1zN3YwRDhpWXNRODg4bmlGaVpybzRxUnkyUGtWckdZWDNENEtNTUZGbUx3YW1xUGVnVXd2ZHNhY2ktSGk1N0lMTHFSME5BbXRzOA?oc=5
 
-- AIIMS Survey Finds Private Sector Dominates India's Eye Care; Only 15% Centres Government-Run - NDTV
-  AIIMS Survey Finds Private Sector Dominates India
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOeHRVXzIxVHI2UDI5VGsycjZFRmhlVkZjSXJMY0VxODBySjJPZTYtY1UzN2JXM0hnbHZNeEs5RHVKdUxvUU1nX3lDb1BCRTctLU1nN1lTQmxxSmZUTVZvbjJiNG54c05lYTg4ZnB6Z3NNMFNIcDNqRERYa2NUMzNXOWc5UzNYM0pCbldDb1MxTW1iTjhRaW1YY0I5VHFVZTZ1bVpfZEh1anVMWVZVU1N4S1I5bTdtUElpMWdVVW9pUFVZanBsWFFscTNn0gHSAUFVX3lxTE42aEVkbDhVdHd6VHh1a2dpYjRaMkZYck94RVhpdG1UZUs1dXJwRHdqakJIaEpUMDlXdGpOZjhQdmNJSlpYb0ppV0kzRV9HQmxGRERfV0dlbTVMWm12NWhDTkwyamkyZ0pXQ09zY1YyZ3ota0lVQ25XRkY3Tk5jcHB1SGt2allvb0N6ZUw3Ynp3UWEzaEItalNrY2xwSFVUSUFoSlB2ZmNJUV8xZ3lxMmxHTjBUMWhmT3R0eUZkOEZsSEJxdWpiaXdEOXRlVm0zdEhKQQ?oc=5
+- India's population-adjusted road deaths at 30-year high, shows data - Business Standard
+  India's population-adjusted road deaths at
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXl0czEySGctdVVLWHlWTE5iUUNUZHlseHBsT3NlTF9qV3B5SjlxZG5JNmpSazUtbXdDTjdGT1NuaWxQUi1TcnNPeWdhTkcxVnNUd1ZWaFNzMEJudUg4TWRBS1ZFeV9kVW1UMnZ5RjhLUnJfbTJVb3RLYmxXSzVmTVhRSE1ndF9uc1RYY0dpOUJ4TEdDTEc3cDI4dkJobE40MVY2Z1Vfb1JxM1R0Y0xDVy0yLVdpRXBLQ0txZmN3UTRlcmREWWJrSm52ZjlVQdIB0wFBVV95cUxOSmhSVHZlODVUbmdVVU5QV2swamlwa25sem1TOGh5M21TRVN5cE1KcXBMMVNKTzM4RHpUU1RGaEg0WS0xcVVIM0QwYy1LNExQb2ZMSzdkUmdWd0xkaHpWV1dPeFRPa2pvT21CdXhteHIxUkcwQllqVFVlNTFwbXdNREhkazUxNV9LeUxyYW1CMlZjeC10V0F5TUZRQWlReUhabVJlX0Y2dnFhMS1YQ2xBakpGV1k4bkVQTUpkQ1FSMXdLcUE5dnV1TkM3cWViV05adDdz?oc=5
 
-- Exclusive: Inside Pak's Secret Unit 'S1' That Trains Terrorists To Attack India - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPU2tXOThRektWRGVPejh2eS1tMFRWcklOeE5zbm5yN0pGakFENlM3S1gydTRhd2pxTU9TSjRNS19mbjZjYm12RkZyVlFjSGpaa2ZwNmg4NUl3MjEwcGpraHFGQU9TZmVzZzh0cjhJdEtwY3BKMF9xdlZ0dkpLVUlKOVB3R1d1UTJwUGVHT3lwRWZuLThKQXZaSkNjb0xJbmhnUE5xS3JmZ3Myc3FTNXd1bVVNakpVNUZvcGdkNdIBxAFBVV95cUxPM1FoQ0M5XzNsYzlyTmVjZXpkZHNWS2FlMVJQOHJ3am5jcU04RUpzSEhxVDF5TFBQOGhVZHI2aGhxalpvdmtoNnRiM0FGNndHM0xQUHNsRndYeHR6V3IxclFkNVV3SWZlSkE5WEZoWmdLRzJOQ28zUDFpVHNsWUMtb3A3TkFleDctNmVxZ19UNThlRjRIZXhrNlV5NWVlZUpQUzdKV0hVMUE4bERqNnItMUctUmY5cU1ObzNnc0htXzhTdEhS?oc=5
-
-- Hafiz plotting India attacks using Bangladesh as launchpad: Intel - Times of India
-  Hafiz plotting India attacks using Bangladesh as
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWVYOVV2OUl2R2hIVThTQVBhWXpjbmRoejVLMWxKS0FtOW1lcUpHeVNZM1dHS21VSzN1RVc3UE5WRzYwOUhqUUl4QjdWU1B1Z2VMbFZvUHdZY3BXeGdvQ0pnQWRFLU9GVFRZTEtFTG1xQ0Nfb0ljUEFWSEFLbjhqTUM2cVdJOHFNYUpaRTNiNEdMMDJyVTBxV3VsYVlDTC1reHhKUURTUUJVbFJOYUg1NWhLbHg4VGtWTlQ4NW5rQlFEWVAzQVJfLXl0WEfSAdIBQVVfeXFMT3dPUDA3Ri10QUM2dDJvUVRqYkhNejE0SmNRNlgwTlFUdGkxSWxpVkV4Qng3ZVZLc25nLXdWUmJ3VGM2a3JldUVudW0tam1xSERUX05wNm5rNTh2ck5tN0FaaUQxME5xbUgySndrZHN4cGNpQ2J3eWpGZXgxZzU5ajN4bUk3S0hSOUdnMi1ZOHNNZExzeVc1SDZxT0tUcTNPbEMwX0ttbmM1VUJkQWljdGpfdXZPaUtjeGp1SlVUWmdGdFFxNlZBSVlRdmdOc2hweE1R?oc=5
-
-- ‘…if they do it’: Rajnath Singh on India's response if Pak conducts nuclear tests | India News - Hindustan Times
-  ‘…if they do it’: Rajnath Singh on India
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYWJhX3BJdEJBVW9XVmZFd2VwWlZ2bHUwSkpvejQyMVJkLXkwNGNFQTJDRy1oZlNxb0dOLWs2RlhrQkU4SHhMSUtkdmJNWWlCTGhocUpkVnI0UVBpcXhESUNPSGhQRTBLNmlHbVR2ZWE2dEZBbVZEWWhXMWR1TWZlY0h2TmEyVlI3OUZDdmw0SXNNX0FsTGh2bm11VTNyZXdxa2xkRmRzT2x6NU9XbVBpalZ3SVlRRXltVDRvTzhsVU5idlNxZnI3NFB5QWN6UDMxRkRxWXhn0gHbAUFVX3lxTFBKVHl6bUVkYzhEUHJtcEFSTFBsWkZlbmprODFQMGN3eFRFQmRQWjQ1TDBWTmUzUkZSVnhPa1lWZjkzUzQwbVYtLU43UmQ3QjFyUmR6elJMMVJLWkVuMDhGQW9TRnRnTkVCb1ZheVh1YWxMLTRTTHBQMzFPWENkQ3ZiWDAxLUQ2T1dvNzV5UndCWGNPdGtVZkNvdl9fb2ZFeUV3a1VMclpjTm1pM1JaUmdlYVJtOThoTlhzV2NRTjZCV2Nvb2Z6aUlKQUMwMzJrVm5ONVk2U014NDRHNA?oc=5
-
-- Nagaland CM seeks Centre's urgent support for key projects in state | India News - Hindustan Times
-  Nagaland CM seeks Centre's urgent support for key projects
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZUQ4UjJXQzI4bXRuek8tUXRSeHlJbDVaTFFzbGxqcHkzellvSFJuM2VPVGNsN2ppY1RNeUdmZHpyNkJqdFpNNWlKSzJ2X2V1NkVZa0g3V2QtdXJSNVJYb0FWYTFPdFRfYTFzVFM3S1N6dF9WUmN6ekxfWXJkbGJreUFaczRRNWVMcGJkUEpSSHlZbm9wRWRjLXI5cGpqMHFPMUZBWkxrU1NpNUt5NVF5ZGVzdzlQcEh2TzUwYUpUZjA3bWhxaGcwaEV30gHPAUFVX3lxTE1lVExCSW5RTnZWb1QzeFpLWG1wZWxzY0JxWVFHdV9uaUJmOGdkUVNZVmFwaUU3Wk4yNU5MZmdfVTFMX0NNdGpxNXRMdVcxOTJIWWNCbTZCSGNHS0Q0RDRpZEtncVhGcGJpRHlEMWc4UGpDbnIxVkQ2bENLbHZ1c1RjM0NNYnQ5VnA2RTFLOXZic2swWTgtS0pXQXUzaXBhWGhLbmg1c1doNS1mYS00ejNzTE5kWmJvSm9JNVc2ektWYk9LLV83MmN5WXBqcHlEWQ?oc=5
-
-- AIIMS Survey Finds Private Sector Dominates India's Eye Care; Only 15% Centres Government-Run - NDTV
-  AIIMS Survey Finds Private Sector Dominates India
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOeHRVXzIxVHI2UDI5VGsycjZFRmhlVkZjSXJMY0VxODBySjJPZTYtY1UzN2JXM0hnbHZNeEs5RHVKdUxvUU1nX3lDb1BCRTctLU1nN1lTQmxxSmZUTVZvbjJiNG54c05lYTg4ZnB6Z3NNMFNIcDNqRERYa2NUMzNXOWc5UzNYM0pCbldDb1MxTW1iTjhRaW1YY0I5VHFVZTZ1bVpfZEh1anVMWVZVU1N4S1I5bTdtUElpMWdVVW9pUFVZanBsWFFscTNn0gHSAUFVX3lxTE42aEVkbDhVdHd6VHh1a2dpYjRaMkZYck94RVhpdG1UZUs1dXJwRHdqakJIaEpUMDlXdGpOZjhQdmNJSlpYb0ppV0kzRV9HQmxGRERfV0dlbTVMWm12NWhDTkwyamkyZ0pXQ09zY1YyZ3ota0lVQ25XRkY3Tk5jcHB1SGt2allvb0N6ZUw3Ynp3UWEzaEItalNrY2xwSFVUSUFoSlB2ZmNJUV8xZ3lxMmxHTjBUMWhmT3R0eUZkOEZsSEJxdWpiaXdEOXRlVm0zdEhKQQ?oc=5
-
-- Exclusive: Inside Pak's Secret Unit 'S1' That Trains Terrorists To Attack India - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPU2tXOThRektWRGVPejh2eS1tMFRWcklOeE5zbm5yN0pGakFENlM3S1gydTRhd2pxTU9TSjRNS19mbjZjYm12RkZyVlFjSGpaa2ZwNmg4NUl3MjEwcGpraHFGQU9TZmVzZzh0cjhJdEtwY3BKMF9xdlZ0dkpLVUlKOVB3R1d1UTJwUGVHT3lwRWZuLThKQXZaSkNjb0xJbmhnUE5xS3JmZ3Myc3FTNXd1bVVNakpVNUZvcGdkNdIBxAFBVV95cUxPM1FoQ0M5XzNsYzlyTmVjZXpkZHNWS2FlMVJQOHJ3am5jcU04RUpzSEhxVDF5TFBQOGhVZHI2aGhxalpvdmtoNnRiM0FGNndHM0xQUHNsRndYeHR6V3IxclFkNVV3SWZlSkE5WEZoWmdLRzJOQ28zUDFpVHNsWUMtb3A3TkFleDctNmVxZ19UNThlRjRIZXhrNlV5NWVlZUpQUzdKV0hVMUE4bERqNnItMUctUmY5cU1ObzNnc0htXzhTdEhS?oc=5
+- Red Fort Blast Live: 8 Dead After Explosion In Car Near Red Fort In Delhi, Amit Shah Visits Blast Site - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2JvNDFuazZ2ZXd6eUItYVZkZFlFTzZ5bkxHVWhGY3BuTDRpZC05OHhKcGQ1MTJjOS0zZU9DemEtbXc3Q2xTY014dTlWYnR1cTA4Ykk4clR2MExLMUFLbzNFa2xRMmctOFVCRU1meE1XSG11c0Y0REt4a3V3Nnp1X291YVFBenBJcTVkSlJfQkFkTG1ObWJCaVV6TnZJci11ZDV2N1dVc9IBjwJBVV95cUxPRlA1dGxXemVQVWprQTVRQWJ5LW12anY0Y1dnVExmQ1lhSVcxTGxlZVU3cjFZbTcxQlZUUVNscnkwN2NGdE9DYkNrUERIbmUyMWpsTHZsVHZZREFaZTZfVGhkaUdRYVB0dFYyNERzVGx5Q2hUT2ZoMHJNWXlyemsxNnVsMTc2dmMxY0FhSEtiSzA1TDlkUGJOeTBvT1FBRzRzSFVpcGdBR00yczNUNUxXYU9zODZaOElYckdCdmlpY1ZEOGZUa3RGNVhpam4ySExFNHk5ZnFPQ3l3b1phMnlITlBNNTZDZ3VlNVdtVTE2M0cyemtKUE9RNmZqbTlJNkhvMEdtYnMtb2JFRXlHWWJV?oc=5
 
 - Hafiz plotting India attacks using Bangladesh as launchpad: Intel - Times of India
   Hafiz plotting India attacks using Bangladesh as
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWVYOVV2OUl2R2hIVThTQVBhWXpjbmRoejVLMWxKS0FtOW1lcUpHeVNZM1dHS21VSzN1RVc3UE5WRzYwOUhqUUl4QjdWU1B1Z2VMbFZvUHdZY3BXeGdvQ0pnQWRFLU9GVFRZTEtFTG1xQ0Nfb0ljUEFWSEFLbjhqTUM2cVdJOHFNYUpaRTNiNEdMMDJyVTBxV3VsYVlDTC1reHhKUURTUUJVbFJOYUg1NWhLbHg4VGtWTlQ4NW5rQlFEWVAzQVJfLXl0WEfSAdIBQVVfeXFMT3dPUDA3Ri10QUM2dDJvUVRqYkhNejE0SmNRNlgwTlFUdGkxSWxpVkV4Qng3ZVZLc25nLXdWUmJ3VGM2a3JldUVudW0tam1xSERUX05wNm5rNTh2ck5tN0FaaUQxME5xbUgySndrZHN4cGNpQ2J3eWpGZXgxZzU5ajN4bUk3S0hSOUdnMi1ZOHNNZExzeVc1SDZxT0tUcTNPbEMwX0ttbmM1VUJkQWljdGpfdXZPaUtjeGp1SlVUWmdGdFFxNlZBSVlRdmdOc2hweE1R?oc=5
 
-- ‘…if they do it’: Rajnath Singh on India's response if Pak conducts nuclear tests | India News - Hindustan Times
-  ‘…if they do it’: Rajnath Singh on India
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYWJhX3BJdEJBVW9XVmZFd2VwWlZ2bHUwSkpvejQyMVJkLXkwNGNFQTJDRy1oZlNxb0dOLWs2RlhrQkU4SHhMSUtkdmJNWWlCTGhocUpkVnI0UVBpcXhESUNPSGhQRTBLNmlHbVR2ZWE2dEZBbVZEWWhXMWR1TWZlY0h2TmEyVlI3OUZDdmw0SXNNX0FsTGh2bm11VTNyZXdxa2xkRmRzT2x6NU9XbVBpalZ3SVlRRXltVDRvTzhsVU5idlNxZnI3NFB5QWN6UDMxRkRxWXhn0gHbAUFVX3lxTFBKVHl6bUVkYzhEUHJtcEFSTFBsWkZlbmprODFQMGN3eFRFQmRQWjQ1TDBWTmUzUkZSVnhPa1lWZjkzUzQwbVYtLU43UmQ3QjFyUmR6elJMMVJLWkVuMDhGQW9TRnRnTkVCb1ZheVh1YWxMLTRTTHBQMzFPWENkQ3ZiWDAxLUQ2T1dvNzV5UndCWGNPdGtVZkNvdl9fb2ZFeUV3a1VMclpjTm1pM1JaUmdlYVJtOThoTlhzV2NRTjZCV2Nvb2Z6aUlKQUMwMzJrVm5ONVk2U014NDRHNA?oc=5
+- Who is Matt Forney? US H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian’ | Hindustan Times - Hindustan Times
+  H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxORWI3M3UtMEg0SVNBeXpFQWpyZzhfLUlZY1oxczJaVEVGR0JpSkhzc2JPNGpuekp3ZW5zTnlFOEwycEViYm1sMHoyX1l4TU1sWEZSSGZxTEFvbEZiZGZYQ3BHMGZsYklZamRTc1FQWXd2UWdwYjRTVURJQXJCd2dTdnVScXQzbDVObTJYcjJFczBnaVBZdWwzRGJ0NHNieFBWY09QejdUU3M3U01ROXJ5LUxuZHpnYll5b0hsTy1rSDk0OTg0dmlueC1sVjJVbk83UU9tTk5tN2lBNEZhR1dFZk9sZFFaUXVMVFRjUDlCN1hPOGdJbFI5a2ZsSTVhcmpBS2owMHgwSk91dFpTOVRDM9IBlgJBVV95cUxNb092aks1THB5V3E3MklndVMxM2dIbkFHdU9mXzVOTTNLeG1FbnVMT3Z2MmNmT1VzZTJuamQwNGgxMjdEQ0JILTFXQWxyN040NkZzMi1IaFh3RWFBYmtBYVh5WUR2N1djRnVYNjlZNVA3SW8wa0YwTWlFX3pUdEFmSlZWZWduWFZpeGxyQW9CeGYxejByaEVfUHptdENqSEJ6SkwtZ2YzYVJ1V2JfeGE4dldXMF9WeWNUNXExaDlDLWtTa2NQQkxJUHVYOERmdW8wczlUb3B6d096VnlSOU9aUTctbXozNnhDSjZDTTVqcWVyN2lXNHBpcXN3RGM1WXdpaXVCVVR5RlB1M0ROZHp0SEhXdm9HZw?oc=5
 
-- Nagaland CM seeks Centre's urgent support for key projects in state | India News - Hindustan Times
-  Nagaland CM seeks Centre's urgent support for key projects
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZUQ4UjJXQzI4bXRuek8tUXRSeHlJbDVaTFFzbGxqcHkzellvSFJuM2VPVGNsN2ppY1RNeUdmZHpyNkJqdFpNNWlKSzJ2X2V1NkVZa0g3V2QtdXJSNVJYb0FWYTFPdFRfYTFzVFM3S1N6dF9WUmN6ekxfWXJkbGJreUFaczRRNWVMcGJkUEpSSHlZbm9wRWRjLXI5cGpqMHFPMUZBWkxrU1NpNUt5NVF5ZGVzdzlQcEh2TzUwYUpUZjA3bWhxaGcwaEV30gHPAUFVX3lxTE1lVExCSW5RTnZWb1QzeFpLWG1wZWxzY0JxWVFHdV9uaUJmOGdkUVNZVmFwaUU3Wk4yNU5MZmdfVTFMX0NNdGpxNXRMdVcxOTJIWWNCbTZCSGNHS0Q0RDRpZEtncVhGcGJpRHlEMWc4UGpDbnIxVkQ2bENLbHZ1c1RjM0NNYnQ5VnA2RTFLOXZic2swWTgtS0pXQXUzaXBhWGhLbmg1c1doNS1mYS00ejNzTE5kWmJvSm9JNVc2ektWYk9LLV83MmN5WXBqcHlEWQ?oc=5
+- India, Russia To Ink Mobility Pact During Putin's Visit; 70,000 Indians Set To Get Legal Work Grant - News18
+  India, Russia To Ink Mobility Pact During Putin's Visit. 70,000
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1czdGc3cnY1RmdVMGJ6M29jYm9hM1hNNzNDdXg1N2pPSGx3TFJjVmY2b2hmVXI0RDJFM1E4ekZFZTAwRVQyWURlbzJ2LTdwczAzM2VXSS1YOXJKckJqZFhjdGNKb1JYcXI1MDUtQnVuSEV3aXB5b1I2T1g5eHozTGxKR3NzaUt3MnFNXzNVdmJnaGpoY3lwUnMxV2pMTmxnZk4wY1VLTV9hdkRkX3hQdFNsNVdvaWF6WEMydXE1bXVYTW8wTF9tWDZvZUpCMGg4Q2Fn0gHYAUFVX3lxTE10ckI3NmNUVjB6dGdoNm9JdG04Y2VJRDV3d0g4ODQ0NXE1Vk1EaTJ0SnVOamR6Mlpjamc4dlh4dlBWcENiU2xtZXZBZTBQZ0trX1huczBqYmVnZDB1cDZsb1pGR3lTN1hlOFoxQll1VXZaMTBoZVQ2TndJSmpYY2pMX3dyTlVWWFBqLVAzUy1zN3YwRDhpWXNRODg4bmlGaVpybzRxUnkyUGtWckdZWDNENEtNTUZGbUx3YW1xUGVnVXd2ZHNhY2ktSGk1N0lMTHFSME5BbXRzOA?oc=5
 
-- AIIMS Survey Finds Private Sector Dominates India's Eye Care; Only 15% Centres Government-Run - NDTV
-  AIIMS Survey Finds Private Sector Dominates India
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOeHRVXzIxVHI2UDI5VGsycjZFRmhlVkZjSXJMY0VxODBySjJPZTYtY1UzN2JXM0hnbHZNeEs5RHVKdUxvUU1nX3lDb1BCRTctLU1nN1lTQmxxSmZUTVZvbjJiNG54c05lYTg4ZnB6Z3NNMFNIcDNqRERYa2NUMzNXOWc5UzNYM0pCbldDb1MxTW1iTjhRaW1YY0I5VHFVZTZ1bVpfZEh1anVMWVZVU1N4S1I5bTdtUElpMWdVVW9pUFVZanBsWFFscTNn0gHSAUFVX3lxTE42aEVkbDhVdHd6VHh1a2dpYjRaMkZYck94RVhpdG1UZUs1dXJwRHdqakJIaEpUMDlXdGpOZjhQdmNJSlpYb0ppV0kzRV9HQmxGRERfV0dlbTVMWm12NWhDTkwyamkyZ0pXQ09zY1YyZ3ota0lVQ25XRkY3Tk5jcHB1SGt2allvb0N6ZUw3Ynp3UWEzaEItalNrY2xwSFVUSUFoSlB2ZmNJUV8xZ3lxMmxHTjBUMWhmT3R0eUZkOEZsSEJxdWpiaXdEOXRlVm0zdEhKQQ?oc=5
+- India's population-adjusted road deaths at 30-year high, shows data - Business Standard
+  India's population-adjusted road deaths at
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXl0czEySGctdVVLWHlWTE5iUUNUZHlseHBsT3NlTF9qV3B5SjlxZG5JNmpSazUtbXdDTjdGT1NuaWxQUi1TcnNPeWdhTkcxVnNUd1ZWaFNzMEJudUg4TWRBS1ZFeV9kVW1UMnZ5RjhLUnJfbTJVb3RLYmxXSzVmTVhRSE1ndF9uc1RYY0dpOUJ4TEdDTEc3cDI4dkJobE40MVY2Z1Vfb1JxM1R0Y0xDVy0yLVdpRXBLQ0txZmN3UTRlcmREWWJrSm52ZjlVQdIB0wFBVV95cUxOSmhSVHZlODVUbmdVVU5QV2swamlwa25sem1TOGh5M21TRVN5cE1KcXBMMVNKTzM4RHpUU1RGaEg0WS0xcVVIM0QwYy1LNExQb2ZMSzdkUmdWd0xkaHpWV1dPeFRPa2pvT21CdXhteHIxUkcwQllqVFVlNTFwbXdNREhkazUxNV9LeUxyYW1CMlZjeC10V0F5TUZRQWlReUhabVJlX0Y2dnFhMS1YQ2xBakpGV1k4bkVQTUpkQ1FSMXdLcUE5dnV1TkM3cWViV05adDdz?oc=5
+
+- Red Fort Blast Live: 8 Dead After Explosion In Car Near Red Fort In Delhi, Amit Shah Visits Blast Site - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2JvNDFuazZ2ZXd6eUItYVZkZFlFTzZ5bkxHVWhGY3BuTDRpZC05OHhKcGQ1MTJjOS0zZU9DemEtbXc3Q2xTY014dTlWYnR1cTA4Ykk4clR2MExLMUFLbzNFa2xRMmctOFVCRU1meE1XSG11c0Y0REt4a3V3Nnp1X291YVFBenBJcTVkSlJfQkFkTG1ObWJCaVV6TnZJci11ZDV2N1dVc9IBjwJBVV95cUxPRlA1dGxXemVQVWprQTVRQWJ5LW12anY0Y1dnVExmQ1lhSVcxTGxlZVU3cjFZbTcxQlZUUVNscnkwN2NGdE9DYkNrUERIbmUyMWpsTHZsVHZZREFaZTZfVGhkaUdRYVB0dFYyNERzVGx5Q2hUT2ZoMHJNWXlyemsxNnVsMTc2dmMxY0FhSEtiSzA1TDlkUGJOeTBvT1FBRzRzSFVpcGdBR00yczNUNUxXYU9zODZaOElYckdCdmlpY1ZEOGZUa3RGNVhpam4ySExFNHk5ZnFPQ3l3b1phMnlITlBNNTZDZ3VlNVdtVTE2M0cyemtKUE9RNmZqbTlJNkhvMEdtYnMtb2JFRXlHWWJV?oc=5
+
+- Hafiz plotting India attacks using Bangladesh as launchpad: Intel - Times of India
+  Hafiz plotting India attacks using Bangladesh as
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWVYOVV2OUl2R2hIVThTQVBhWXpjbmRoejVLMWxKS0FtOW1lcUpHeVNZM1dHS21VSzN1RVc3UE5WRzYwOUhqUUl4QjdWU1B1Z2VMbFZvUHdZY3BXeGdvQ0pnQWRFLU9GVFRZTEtFTG1xQ0Nfb0ljUEFWSEFLbjhqTUM2cVdJOHFNYUpaRTNiNEdMMDJyVTBxV3VsYVlDTC1reHhKUURTUUJVbFJOYUg1NWhLbHg4VGtWTlQ4NW5rQlFEWVAzQVJfLXl0WEfSAdIBQVVfeXFMT3dPUDA3Ri10QUM2dDJvUVRqYkhNejE0SmNRNlgwTlFUdGkxSWxpVkV4Qng3ZVZLc25nLXdWUmJ3VGM2a3JldUVudW0tam1xSERUX05wNm5rNTh2ck5tN0FaaUQxME5xbUgySndrZHN4cGNpQ2J3eWpGZXgxZzU5ajN4bUk3S0hSOUdnMi1ZOHNNZExzeVc1SDZxT0tUcTNPbEMwX0ttbmM1VUJkQWljdGpfdXZPaUtjeGp1SlVUWmdGdFFxNlZBSVlRdmdOc2hweE1R?oc=5
+
+- Who is Matt Forney? US H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian’ | Hindustan Times - Hindustan Times
+  H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxORWI3M3UtMEg0SVNBeXpFQWpyZzhfLUlZY1oxczJaVEVGR0JpSkhzc2JPNGpuekp3ZW5zTnlFOEwycEViYm1sMHoyX1l4TU1sWEZSSGZxTEFvbEZiZGZYQ3BHMGZsYklZamRTc1FQWXd2UWdwYjRTVURJQXJCd2dTdnVScXQzbDVObTJYcjJFczBnaVBZdWwzRGJ0NHNieFBWY09QejdUU3M3U01ROXJ5LUxuZHpnYll5b0hsTy1rSDk0OTg0dmlueC1sVjJVbk83UU9tTk5tN2lBNEZhR1dFZk9sZFFaUXVMVFRjUDlCN1hPOGdJbFI5a2ZsSTVhcmpBS2owMHgwSk91dFpTOVRDM9IBlgJBVV95cUxNb092aks1THB5V3E3MklndVMxM2dIbkFHdU9mXzVOTTNLeG1FbnVMT3Z2MmNmT1VzZTJuamQwNGgxMjdEQ0JILTFXQWxyN040NkZzMi1IaFh3RWFBYmtBYVh5WUR2N1djRnVYNjlZNVA3SW8wa0YwTWlFX3pUdEFmSlZWZWduWFZpeGxyQW9CeGYxejByaEVfUHptdENqSEJ6SkwtZ2YzYVJ1V2JfeGE4dldXMF9WeWNUNXExaDlDLWtTa2NQQkxJUHVYOERmdW8wczlUb3B6d096VnlSOU9aUTctbXozNnhDSjZDTTVqcWVyN2lXNHBpcXN3RGM1WXdpaXVCVVR5RlB1M0ROZHp0SEhXdm9HZw?oc=5
+
+- India, Russia To Ink Mobility Pact During Putin's Visit; 70,000 Indians Set To Get Legal Work Grant - News18
+  India, Russia To Ink Mobility Pact During Putin's Visit. 70,000
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1czdGc3cnY1RmdVMGJ6M29jYm9hM1hNNzNDdXg1N2pPSGx3TFJjVmY2b2hmVXI0RDJFM1E4ekZFZTAwRVQyWURlbzJ2LTdwczAzM2VXSS1YOXJKckJqZFhjdGNKb1JYcXI1MDUtQnVuSEV3aXB5b1I2T1g5eHozTGxKR3NzaUt3MnFNXzNVdmJnaGpoY3lwUnMxV2pMTmxnZk4wY1VLTV9hdkRkX3hQdFNsNVdvaWF6WEMydXE1bXVYTW8wTF9tWDZvZUpCMGg4Q2Fn0gHYAUFVX3lxTE10ckI3NmNUVjB6dGdoNm9JdG04Y2VJRDV3d0g4ODQ0NXE1Vk1EaTJ0SnVOamR6Mlpjamc4dlh4dlBWcENiU2xtZXZBZTBQZ0trX1huczBqYmVnZDB1cDZsb1pGR3lTN1hlOFoxQll1VXZaMTBoZVQ2TndJSmpYY2pMX3dyTlVWWFBqLVAzUy1zN3YwRDhpWXNRODg4bmlGaVpybzRxUnkyUGtWckdZWDNENEtNTUZGbUx3YW1xUGVnVXd2ZHNhY2ktSGk1N0lMTHFSME5BbXRzOA?oc=5
+
+- India's population-adjusted road deaths at 30-year high, shows data - Business Standard
+  India's population-adjusted road deaths at
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXl0czEySGctdVVLWHlWTE5iUUNUZHlseHBsT3NlTF9qV3B5SjlxZG5JNmpSazUtbXdDTjdGT1NuaWxQUi1TcnNPeWdhTkcxVnNUd1ZWaFNzMEJudUg4TWRBS1ZFeV9kVW1UMnZ5RjhLUnJfbTJVb3RLYmxXSzVmTVhRSE1ndF9uc1RYY0dpOUJ4TEdDTEc3cDI4dkJobE40MVY2Z1Vfb1JxM1R0Y0xDVy0yLVdpRXBLQ0txZmN3UTRlcmREWWJrSm52ZjlVQdIB0wFBVV95cUxOSmhSVHZlODVUbmdVVU5QV2swamlwa25sem1TOGh5M21TRVN5cE1KcXBMMVNKTzM4RHpUU1RGaEg0WS0xcVVIM0QwYy1LNExQb2ZMSzdkUmdWd0xkaHpWV1dPeFRPa2pvT21CdXhteHIxUkcwQllqVFVlNTFwbXdNREhkazUxNV9LeUxyYW1CMlZjeC10V0F5TUZRQWlReUhabVJlX0Y2dnFhMS1YQ2xBakpGV1k4bkVQTUpkQ1FSMXdLcUE5dnV1TkM3cWViV05adDdz?oc=5
+
+- Red Fort Blast Live: 8 Dead After Explosion In Car Near Red Fort In Delhi, Amit Shah Visits Blast Site - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2JvNDFuazZ2ZXd6eUItYVZkZFlFTzZ5bkxHVWhGY3BuTDRpZC05OHhKcGQ1MTJjOS0zZU9DemEtbXc3Q2xTY014dTlWYnR1cTA4Ykk4clR2MExLMUFLbzNFa2xRMmctOFVCRU1meE1XSG11c0Y0REt4a3V3Nnp1X291YVFBenBJcTVkSlJfQkFkTG1ObWJCaVV6TnZJci11ZDV2N1dVc9IBjwJBVV95cUxPRlA1dGxXemVQVWprQTVRQWJ5LW12anY0Y1dnVExmQ1lhSVcxTGxlZVU3cjFZbTcxQlZUUVNscnkwN2NGdE9DYkNrUERIbmUyMWpsTHZsVHZZREFaZTZfVGhkaUdRYVB0dFYyNERzVGx5Q2hUT2ZoMHJNWXlyemsxNnVsMTc2dmMxY0FhSEtiSzA1TDlkUGJOeTBvT1FBRzRzSFVpcGdBR00yczNUNUxXYU9zODZaOElYckdCdmlpY1ZEOGZUa3RGNVhpam4ySExFNHk5ZnFPQ3l3b1phMnlITlBNNTZDZ3VlNVdtVTE2M0cyemtKUE9RNmZqbTlJNkhvMEdtYnMtb2JFRXlHWWJV?oc=5
+
+- Hafiz plotting India attacks using Bangladesh as launchpad: Intel - Times of India
+  Hafiz plotting India attacks using Bangladesh as
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWVYOVV2OUl2R2hIVThTQVBhWXpjbmRoejVLMWxKS0FtOW1lcUpHeVNZM1dHS21VSzN1RVc3UE5WRzYwOUhqUUl4QjdWU1B1Z2VMbFZvUHdZY3BXeGdvQ0pnQWRFLU9GVFRZTEtFTG1xQ0Nfb0ljUEFWSEFLbjhqTUM2cVdJOHFNYUpaRTNiNEdMMDJyVTBxV3VsYVlDTC1reHhKUURTUUJVbFJOYUg1NWhLbHg4VGtWTlQ4NW5rQlFEWVAzQVJfLXl0WEfSAdIBQVVfeXFMT3dPUDA3Ri10QUM2dDJvUVRqYkhNejE0SmNRNlgwTlFUdGkxSWxpVkV4Qng3ZVZLc25nLXdWUmJ3VGM2a3JldUVudW0tam1xSERUX05wNm5rNTh2ck5tN0FaaUQxME5xbUgySndrZHN4cGNpQ2J3eWpGZXgxZzU5ajN4bUk3S0hSOUdnMi1ZOHNNZExzeVc1SDZxT0tUcTNPbEMwX0ttbmM1VUJkQWljdGpfdXZPaUtjeGp1SlVUWmdGdFFxNlZBSVlRdmdOc2hweE1R?oc=5
+
+- Who is Matt Forney? US H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian’ | Hindustan Times - Hindustan Times
+  H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxORWI3M3UtMEg0SVNBeXpFQWpyZzhfLUlZY1oxczJaVEVGR0JpSkhzc2JPNGpuekp3ZW5zTnlFOEwycEViYm1sMHoyX1l4TU1sWEZSSGZxTEFvbEZiZGZYQ3BHMGZsYklZamRTc1FQWXd2UWdwYjRTVURJQXJCd2dTdnVScXQzbDVObTJYcjJFczBnaVBZdWwzRGJ0NHNieFBWY09QejdUU3M3U01ROXJ5LUxuZHpnYll5b0hsTy1rSDk0OTg0dmlueC1sVjJVbk83UU9tTk5tN2lBNEZhR1dFZk9sZFFaUXVMVFRjUDlCN1hPOGdJbFI5a2ZsSTVhcmpBS2owMHgwSk91dFpTOVRDM9IBlgJBVV95cUxNb092aks1THB5V3E3MklndVMxM2dIbkFHdU9mXzVOTTNLeG1FbnVMT3Z2MmNmT1VzZTJuamQwNGgxMjdEQ0JILTFXQWxyN040NkZzMi1IaFh3RWFBYmtBYVh5WUR2N1djRnVYNjlZNVA3SW8wa0YwTWlFX3pUdEFmSlZWZWduWFZpeGxyQW9CeGYxejByaEVfUHptdENqSEJ6SkwtZ2YzYVJ1V2JfeGE4dldXMF9WeWNUNXExaDlDLWtTa2NQQkxJUHVYOERmdW8wczlUb3B6d096VnlSOU9aUTctbXozNnhDSjZDTTVqcWVyN2lXNHBpcXN3RGM1WXdpaXVCVVR5RlB1M0ROZHp0SEhXdm9HZw?oc=5
+
+- India, Russia To Ink Mobility Pact During Putin's Visit; 70,000 Indians Set To Get Legal Work Grant - News18
+  India, Russia To Ink Mobility Pact During Putin's Visit. 70,000
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1czdGc3cnY1RmdVMGJ6M29jYm9hM1hNNzNDdXg1N2pPSGx3TFJjVmY2b2hmVXI0RDJFM1E4ekZFZTAwRVQyWURlbzJ2LTdwczAzM2VXSS1YOXJKckJqZFhjdGNKb1JYcXI1MDUtQnVuSEV3aXB5b1I2T1g5eHozTGxKR3NzaUt3MnFNXzNVdmJnaGpoY3lwUnMxV2pMTmxnZk4wY1VLTV9hdkRkX3hQdFNsNVdvaWF6WEMydXE1bXVYTW8wTF9tWDZvZUpCMGg4Q2Fn0gHYAUFVX3lxTE10ckI3NmNUVjB6dGdoNm9JdG04Y2VJRDV3d0g4ODQ0NXE1Vk1EaTJ0SnVOamR6Mlpjamc4dlh4dlBWcENiU2xtZXZBZTBQZ0trX1huczBqYmVnZDB1cDZsb1pGR3lTN1hlOFoxQll1VXZaMTBoZVQ2TndJSmpYY2pMX3dyTlVWWFBqLVAzUy1zN3YwRDhpWXNRODg4bmlGaVpybzRxUnkyUGtWckdZWDNENEtNTUZGbUx3YW1xUGVnVXd2ZHNhY2ktSGk1N0lMTHFSME5BbXRzOA?oc=5
+
+- India's population-adjusted road deaths at 30-year high, shows data - Business Standard
+  India's population-adjusted road deaths at
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXl0czEySGctdVVLWHlWTE5iUUNUZHlseHBsT3NlTF9qV3B5SjlxZG5JNmpSazUtbXdDTjdGT1NuaWxQUi1TcnNPeWdhTkcxVnNUd1ZWaFNzMEJudUg4TWRBS1ZFeV9kVW1UMnZ5RjhLUnJfbTJVb3RLYmxXSzVmTVhRSE1ndF9uc1RYY0dpOUJ4TEdDTEc3cDI4dkJobE40MVY2Z1Vfb1JxM1R0Y0xDVy0yLVdpRXBLQ0txZmN3UTRlcmREWWJrSm52ZjlVQdIB0wFBVV95cUxOSmhSVHZlODVUbmdVVU5QV2swamlwa25sem1TOGh5M21TRVN5cE1KcXBMMVNKTzM4RHpUU1RGaEg0WS0xcVVIM0QwYy1LNExQb2ZMSzdkUmdWd0xkaHpWV1dPeFRPa2pvT21CdXhteHIxUkcwQllqVFVlNTFwbXdNREhkazUxNV9LeUxyYW1CMlZjeC10V0F5TUZRQWlReUhabVJlX0Y2dnFhMS1YQ2xBakpGV1k4bkVQTUpkQ1FSMXdLcUE5dnV1TkM3cWViV05adDdz?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-11-10 12:36:00 UTC_
+_Last updated: 2025-11-10 18:27:20 UTC_
