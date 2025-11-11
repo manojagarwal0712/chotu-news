@@ -1,204 +1,252 @@
 # 📰 Daily News Summaries
 
-- Bihar Assembly Election 2025 Exit Polls LIVE Updates: Will Tejashwi be able to end Nitish’s two-decade reign? All eyes on exit polls today
+- Bihar sees highest ever turnout at 67.14% in final phase; exit polls predict NDA win
   
-  🔗 https://indianexpress.com/article/india/bihar-assembly-elections-exit-polls-live-updates-nitish-kumar-tejashwi-yadav-jdu-rjd-congress-bjp-10358810/
+  🔗 https://indianexpress.com/article/india/bihar-highest-turnout-final-phase-exit-polls-nda-win-10359884/
 
-- Local polls won’t affect SIR in Kerala, 1 crore forms distributed in state in 1 week: Chief Electoral Officer
+- Tripura can emerge as IT and data hub in Northeast, says MeitY Secretary S Krishnan
   
-  🔗 https://indianexpress.com/article/india/local-polls-kerala-sir-forms-chief-electoral-officer-10359400/
+  🔗 https://indianexpress.com/article/india/tripura-it-data-hub-northeast-meity-secretary-s-krishnan-10359872/
 
-- Delhi Red Fort blast: Delhi Airport issues passenger advisory; security screening may take more time
+- As links emerge between Red Fort blast suspect and terror module busted by JK police, officials say bigger attack averted
   
-  🔗 https://indianexpress.com/article/india/red-fort-blast-delhi-airport-issues-passenger-advisory-security-screening-may-take-more-time-10359072/
+  🔗 https://indianexpress.com/article/india/links-red-fort-blast-suspect-terror-module-busted-jk-police-officials-bigger-attack-averted-10359823/
 
-- ‘Terror module’ bust: AK-47 recovery from Anantnag doctor’s locker prompts Valley hospitals to take urgent steps
+- Minor girl abducted from South Tripura district rescued from Nepal, reunited with parents
   
-  🔗 https://indianexpress.com/article/india/terror-module-bust-ak-47-recovery-anantnag-doctors-locker-prompts-10359143/
+  🔗 https://indianexpress.com/article/india/minor-girl-abducted-from-south-tripura-district-rescued-from-nepal-reunited-with-parents-10359770/
 
-- Red Fort blast: DNA from Umar Nabi’s mother could prove crucial link in confirming bomber’s identity
+- Retired principal in Assam makes ‘election’ comment on Facebook post about Red Fort blast, detained
   
-  🔗 https://indianexpress.com/article/india/dna-umar-nabi-mother-link-confirming-bombers-identity-10359018/
+  🔗 https://indianexpress.com/article/india/retired-principal-assam-election-delhi-red-fort-blast-facebook-post-10359715/
+
+- GoPro launches MAX2, LIT HERO and Fluid Pro AI for Indian creators
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/gopro-launches-max2-lit-hero-and-fluid-pro-ai-for-indian-creators-10359752/
+
+- Meta chief AI scientist Yann LeCun plans to exit to launch startup: Report
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-chief-ai-scientist-yann-lecun-plans-to-exit-to-launch-startup-report-10359701/
+
+- SoftBank has sold all its shares in Nvidia for $5.8 billion, turning focus to OpenAI
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/softbank-has-sold-all-its-shares-in-nvidia-for-5-8-billion-turning-focus-to-openai-10359690/
+
+- OnePlus OxygenOS 16: Release date, eligible phones, features, and everything you need to know
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/oneplus-oxygenos-16-release-date-eligible-phones-features-details-10359332/
 
 - Jio Prepaid Plans 2025: Best OTT plans with free Netflix, Prime Video, Hotstar, and more
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/jio-prepaid-plans-2025-best-ott-plans-with-free-netflix-prime-video-hotstar-and-more-10359290/
 
-- OnePlus 15: Launch date, expected price in India, features, specifications and everything you need to know
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/oneplus-15-launch-date-price-india-features-specifications-10359201/
+- Warren Buffett and Charlie Munger worked at the same store, yet met years later — Investing icon pens emotional note
+  Buffett reminisced how he met Charlie Munger, who became a lifelong friend and his business counterpart at Berkshire Hath
+  🔗 https://www.livemint.com/companies/people/warren-buffett-and-charlie-munger-worked-at-the-same-store-yet-met-years-later-investing-icon-pens-emotional-note-11762880396710.html
 
-- Blue Origin postpones launch of its first NASA mission on New Glenn rocket. Check details of next attempt
-  
-  🔗 https://indianexpress.com/article/technology/science/blue-origin-postpones-first-nasa-mission-new-glenn-rocket-check-details-next-attempt-10359084/
+- Tata Power planning 10 GW solar wafer and ingot capacity: CEO
+  Tata Power is set to launch a 10GW wafer and ingot plant, expanding its solar component capabilities. With a current capacity of 4.9GW
+  🔗 https://www.livemint.com/companies/tata-power-wafer-ingot-plant-solar-manufacturing-renewable-energy-11762878518005.html
 
-- Meta’s new speech-to-text AI models cover 1,600 languages, including rare Indian dialects
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-speech-to-text-ai-models-1600-languages-indian-dialects-10359125/
+- Novo Nordisk slashes weight-loss drug Wegovy's prices as competition heats up
+  The Danish drugmaker struggles to grab significant market share in the Indian market. Once the drug loses patent, top Indian generic drugmakers are poised to enter the market.
+  🔗 https://www.livemint.com/companies/novo-nordisk-weight-loss-drug-anti-obesity-wegovy-prices-pharma-11762875482842.html
 
-- India’s smartphone market hits 5-year high as Apple leads premium segment
-  
-  🔗 https://indianexpress.com/article/technology/indias-smartphone-market-hits-5-year-high-as-apple-leads-premium-segment-10359109/
+- Tata Trusts revises Venu Srinivasan's term from life to three years to comply with Maharashtra Ordinance
+  The Maharashtra Public Trusts (Amendment) Ordinance issued on 30 August stipulates that only
+  🔗 https://www.livemint.com/companies/tata-trusts-revises-venu-srinivasans-term-from-life-to-three-years-to-comply-with-maharashtra-ordinance-11762868594423.html
 
-- SoftBank sells Nvidia stake for $5.8 billion to fund AI investments — What does it mean for shareholders?
-  SoftBank Group's sale of the Nvidia stake reflects a shift of focus on OpenAI. It highlights its positive outlook on AI investments.
-  🔗 https://www.livemint.com/companies/news/softbank-sells-nvidia-stake-for-5-8-billion-to-fund-ai-investments-what-does-it-mean-for-shareholders-11762861139365.html
+- Tata Trusts inducts chair Noel Tata's son Neville on the principal trust
+  Bhaskar Bhat, former CEO Titan Ltd
+  🔗 https://www.livemint.com/companies/people/tata-trusts-inducts-chair-noel-tata-son-neville-on-the-principal-trust-bhaskar-bhat-11762875605547.html
 
-- Warren Buffett shares near-death experience in farewell letter: ‘Surprised by my luck in being alive’
-  Warren Buffett, at 95, reflects on his near-death experience from
-  🔗 https://www.livemint.com/companies/people/warren-buffett-shares-near-death-experience-in-farewell-letter-surprised-by-my-luck-in-being-alive-11762840091596.html
+- Tenneco Clean Air India IPO raises  ₹1,079 crore from anchor investors ahead of public issue — Check details
+  The IPO will open for stock market investors from Wednesday, 12 October 2025. Tenneco Clean Air India IPO raises  ₹1,079 crore from its
+  🔗 https://www.livemint.com/market/ipo/tenneco-clean-air-india-ipo-raises-rs-1-079-crore-from-anchor-investors-ahead-of-public-issue-check-details-11762879810432.html
 
-- Vodafone Idea, on a comeback trail, looks for a COO after Abhijit Kishore was elevated CEO
-  The telco has to catch up with rivals Jio and Airtel on subscribers and average revenue per user. A new COO along with CEO Abhijit Kishore are expected
-  🔗 https://www.livemint.com/companies/news/vodafone-idea-coo-hunt-ceo-government-agr-jio-airtel-11762846006106.html
+- US Stock Market today: Nasdaq, S&amp;P 500 open lower amid elevated tech valuation concerns, Dow Jones up 0.17%
+  Nasdaq and S&amp;amp;P 500 opened lower while Dow Jones index opened higher on Tuesday, 11 November 2025.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-nasdaq-s-p-500-open-lower-amid-elevated-tech-valuation-concerns-dow-jones-up-017-11762870843507.html
 
-- Biscuit maker Anmol Industries puts fundraising back on the table, hires PwC
-  The fresh fundraising will give Anmol the necessary boost to double down in its existing geographies
-  🔗 https://www.livemint.com/companies/anmol-industries-talks-pwc-fundraise-biscuit-makers-urbanization-britannia-parle-itc-haldiram-11762837577290.html
+- Pine Labs IPO sails through on Day 3: Check price band, subscription status, GMP and other key details
+  Pine Labs IPO received 2.48 times subscription despite initial weak demand. The company plans to utilize  ₹3,899.91 crore for debt and tech investments.
+  🔗 https://www.livemint.com/market/stock-market-news/pine-labs-ipo-sails-through-on-day-3-check-price-band-subscription-status-gmp-and-other-key-details-11762870904115.html
 
-- Bhavish Aggarwal pledges more Ola Electric shares for loans as stock continues to slide
-  This is the third time Aggarwal has pledged his Ola Electric shares since the company went public in August 2024. He previously did so in November 2024 and February to fund his private AI venture Krut
-  🔗 https://www.livemint.com/companies/news/bhavish-aggarwal-ola-electric-shares-for-loans-stock-slide-ather-tvs-ipo-debt-evs-11762834693826.html
+- Bihar election 2025: Exit polls indicate victory for NDA; what it means for the Indian stock market?
+   exit polls hint at an NDA victory in Bihar elections. Analysts weigh in on potential market reactions.
+  🔗 https://www.livemint.com/market/stock-market-news/bihar-election-2025-exit-polls-indicate-victory-for-nda-what-it-means-for-the-indian-stock-market-11762866316404.html
 
-- Hindustan Copper Q2 Results: Profit grows 85% YoY to  ₹186 crore on increased income
-  Hindustan Copper posted around 85 per cent rise in consolidated net profit at  ₹186
-  🔗 https://www.livemint.com/market/stock-market-news/hindustan-copper-q2-results-profit-grows-85-yoy-to-rs-186-crore-on-increased-income-11762864023956.html
+- PC Jeweller Q2 Results: Net profit jumps 17.3% YoY to  ₹210 crore, revenue up 63%
+  PC Jeweller reported a 17.3% increase in Q2FY26 net profit to  ₹209.5 crore. The company aims for debt-
+  🔗 https://www.livemint.com/market/stock-market-news/pc-jeweller-q2-results-net-profit-jumps-17-3-yoy-to-rs-210-crore-revenue-up-63-11762864781683.html
 
-- PhysicsWallah IPO off to a slow start, sees only 7% bids on Day 1. Check GMP and subscription details
-   PhysicsWallah IPO received bids for 1,31,22,
-  🔗 https://www.livemint.com/market/ipo/physicswallah-ipo-off-to-a-slow-start-sees-only-7-bids-on-day-1-check-gmp-and-subscription-details-11762863563721.html
+- Microsoft may soon ‘bribe’ users for choosing Edge over Google Chrome: here's how
+  Microsoft is offering users 1,300 Rewards points to encourage them to keep using Edge. Edge holds a 15.48% market share compared to Chrome's 69.3%.
+  🔗 https://www.livemint.com/technology/tech-news/microsoft-may-soon-bribe-users-for-choosing-edge-over-google-chrome-heres-how-11762880722579.html
 
-- Small-cap industrial stock jumps following bounce back in Indian stock market; do you own?
-  Standard Glass share price jumped 3.2% during the intraday session on 11 November 2025. Here's how the company performed in the July-September quarter of
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-industrial-stock-standard-glass-shares-jumps-following-bounce-back-in-indian-stock-market-do-you-own-11762857624601.html
+- Chinas cryptoqueen jailed in UK over $6.6 billion Bitcoin scam
+  China's 'crypto
+  🔗 https://www.livemint.com/technology/tech-news/chinas-cryptoqueen-jailed-in-uk-over-6-6-billion-bitcoin-scam-11762880184861.html
 
-- Expert view: US stock market not in bubble territory, says Marcellus' head of global equities
-  US stock market isn't in bubble territory but is marked by extremes, says Arindam Mandal. Large-cap tech is dominating returns
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-us-stock-market-not-in-bubble-territory-says-marcellus-head-of-global-equities-11762859851067.html
+- Elon Musk’s X rolls out new ‘Banger’ badge for top posts: here’s how to get one
+  Elon Musk's X has introduced a Certified Bangers feature that identifies top posts monthly based on user interactions. The company says there is no follower criteria to get
+  🔗 https://www.livemint.com/technology/tech-news/elon-musk-s-x-rolls-out-new-banger-badge-for-top-posts-here-s-how-to-get-one-11762875606720.html
 
-- Gold ETFs see solid inflows for 3rd month in a row: Has bullion transitioned from hedge to habit?
-  Net inflows into gold ETFs accelerated from  ₹2,189.51 crore in August, followed by a record buying of  $8
-  🔗 https://www.livemint.com/market/commodities/gold-etf-aum-crosses-1-lakh-crore-mark-has-gold-transitioned-from-hedge-to-habit-11762860026001.html
+- Over 40% of Indias IT, gig workforce uses AI tools; employability soars to 56%: Report
+  Over 40% of India's IT, gig workforce
+  🔗 https://www.livemint.com/technology/tech-news/over-40-of-indias-it-gig-workforce-uses-ai-tools-employability-soars-to-56-report-11762875560969.html
 
-- WhatsApp Set to Face Stricter Content Moderation Rules in the EU
-  WhatsApp will face stricter rules under the European Union’s content moderation rulebook.
-  🔗 https://www.livemint.com/technology/tech-news/whatsapp-set-to-face-stricter-content-moderation-rules-in-the-eu-11762862127207.html
+- Meta’s AI Chief Scientist Yann LeCun set to exit, to launch new AI startup: Report
+   Meta's AI chief Yann LeCun plans to leave the company to start his own venture amid Mark Zuckerberg restructuring efforts. He has led the Fundamental AI
+  🔗 https://www.livemint.com/technology/tech-news/metas-ai-chief-scientist-yann-lecun-set-to-exit-to-launch-new-ai-startup-report-11762871608811.html
 
-- Microsoft launches Xbox Cloud Gaming in India: Here's how to start streaming games on your phone, PC and TV
-  Microsoft Game Pass plans begin at  ₹499/month and users also need to have a compatible controller to play most games. Xbox Cloud Gaming is now
-  🔗 https://www.livemint.com/technology/tech-news/microsoft-launches-xbox-cloud-gaming-in-india-heres-how-to-start-streaming-games-on-your-phone-pc-and-tv-11762856540423.html
+- Stock Market Today: S&P 500 Slips; ADP Data Points to Softer Jobs Market — Live Updates - The Wall Street Journal
+  The Wall Street Journal, Yahoo Finance and the BBC provide live updates on the stock market.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNckFTTzlXcGpKcnhaSGhYN0JLRWU2Q2NnUmF4VDZqTlJNWnpmX3NQWWNBRlZiUkM3QWpCY2RfNmRHdDFPR0VCZE5xc0Q3ZWVKZGpBNDJBVjZaXzRDaFdZVFdaWVdqZUNWTmZRd3J0Q0lLa0EyQkNnRWhSdWFsMXlCR3VlanRlQlk?oc=5
 
-- AI holds immense potential to transform healthcare delivery, says CII Healthcare Council
-  Artificial Intelligence (AI) could become a key tool in reshaping how healthcare is delivered. The Summit, held in New Delhi under the theme "Adding Life to Years in the Age of Artificial Intelligence," focused on how technology can help
-  🔗 https://www.livemint.com/technology/tech-news/ai-holds-immense-potential-to-transform-healthcare-delivery-says-cii-healthcare-council-11762860132517.html
+- China’s EV Market Is Imploding - The Atlantic
+  China’s
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNVTE4S1JGV1pVU05seDVUQnZMOXhOU1RJVENLZDhIdGpteVJVSjMtTzd3YTJwdldfbVB5Z3RubjFqc3ZrdkJPc0h0b3NHTzJVeGkwZ0lpY3l0VUVDaUVfMGlERm1MTi10WkNQRlg4SmFwN3NxVWY3cktUZUVXQmNyQ2dqUTRYMDNJMjI2dA?oc=5
 
-- Fortnite servers down for v38.10 update: Here’s when downtime ends and what’s new in the Simpsons crossover
-  Fortnite servers are down for the v38.10 update on November 11. Here�
-  🔗 https://www.livemint.com/technology/fortnite-servers-down-for-v38-10-update-here-s-when-downtime-ends-and-what-s-new-in-the-simpsons-crossover-11762857861930.html
+- Asia-Pacific markets lose gains in volating trading, breaking ranks with Wall Street on AI trade revival - CNBC
+  Asia-Pacific markets lose gains in volating trading, breaking ranks with
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQOC1XUFpleElTbTRoeGtkNnNoRmVWWmhUdWhybHgteENPUkoxTjc1YUdaVVUyUEVWQWxtVzEzMmdLbWFsbnJReDR1c3pZRUFQN18tR1g5TjBIaGFVQ3FWWmktT2FxTWhUVVdXOGdpamZiMmplYUtjNUZtUmFmSHlJQUxWeFExVmViWHFKM0JfLVlRRzVQRzZ4elVZZExCdFZtRFpB0gGoAUFVX3lxTE8tQ2xURjV1VjdZRTk1bUpGbU9aSnY0eTFVWU5SZEJjN1RyMDJKRERBd3dSc2hBdWlYazljSWktbzlwMnl0MjV1WkxfUE9oNFBLVXdyUXpmeEdpTjBoWHQ3MnRuNmVRTlRXcFQweU9XNlphcTNxRlEyNnlpZ09tbHFSdE0wNFJiaDdjSmZ1cE9xQ3VoRzZ4NlREUG51VGV5SDRpYzRJREZlNw?oc=5
 
-- Meta AI Chief gives valuable advice to young teens, says learn from Bill Gates and Mark Zuckerberg
-   Meta's AI chief Alexandr Wang issued an important advice for 13 year old's. He told them to spend all their time learning to
-  🔗 https://www.livemint.com/technology/tech-news/meta-ai-chief-gives-valuable-advice-to-young-teens-says-learn-from-bill-gates-and-mark-zuckerberg-11762851372415.html
+- Stock market highlights: Sensex ends 336pts up in volatile session; Nifty at 25,695; IT shares shine - Business Standard
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOFFjRVZXVWw3WVpGQkgtVHUtZWktcEJ1UnJ5anFic2loTy10SS0zdGpHZkg2Qy1KUVBhX2Z3M3NVdUk0RnhXRXQ0Z2dDbFZIU2M4NWtIbmpPUTlaLW5GVlc0X0Y3ZFVoVW
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOFFjRVZXVWw3WVpGQkgtVHUtZWktcEJ1UnJ5anFic2loTy10SS0zdGpHZkg2Qy1KUVBhX2Z3M3NVdUk0RnhXRXQ0Z2dDbFZIU2M4NWtIbmpPUTlaLW5GVlc0X0Y3ZFVoVWZaVFBfS0xPRE5jSUFmWGxwNEItT0FZZGlsd2NIMmJ2SHZpTEFzY0RVV240SkktYlY4OVFrd3FLMHN1U3dueTRHMzRCMzFvWHNOb3lLVEFPcXdKWUhxNUN5QXRCS0Q2WVI3TTlaMkthRTA4NEYyR2hvNEZieHRna0FKSU9PTG9WUmw1cnFBVzVCWk1kMXfSAfsBQVVfeXFMTkZNS0Vjd0dMVmY3aU1xajFpQlVhcjRXbFhpM1piS3RTTnJnS1htZGVBdGFPU3p3a0lLQXVVSmxqeS1aeU1UTkRpOEhJbmJoZEpzTXZRMHc1bVhUWmx1cE9URVNaU1NFM1piWnJBM3pCRjZDTnl0Vm9aV3ZTR3VMSjZuazRDWUgyb0JrMTcyMWlnUFo4TElPQjhlZU56bVMzSm5yeUo1NFh1bXQ5cnZEdzdzcTJfMGJSZDNhYmdHM3lpeHJXZXlyZFU0OUFwUzJ1VF9RZlQ4cTNFelNsb0Jlek9kWFJXb000WEU5eHhscnZpRHV1U3Y3ZzlvRUE?oc=5
 
-- UK's Vodafone to increase dividend for first time in 8 years, shares rise 5%
-  Vodafone shareholders will be rewarded with the first dividend increase in eight years. A return to growth in Germany helped the European
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/uks-vodafone-to-increase-dividend-for-first-time-in-8-years-shares-rise-5/articleshow/125249246.cms
+- The great inversion on emerging markets - Financial Times
+  The great inversion on
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5WalMwTEZBWUc0aUI2RjFMX2FnVjZ6RXliWE1YcWpXV2h2NE1tU0dxMk1rRTE4b3dWNWhRbW9RdlBRcWZBQkd4ZzRDU205NWdmSzBoNnZHd3Y1ellxd3VZZldtQXpqbWU5NzdQQXlRZHU?oc=5
 
-- Hindustan Copper Q2 Results: Profit grows 85% to Rs 186 crore
-  Hindustan Copper posted around 85 per cent rise in consolidated net profit at Rs 186.02 crore for
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hindustan-copper-q2-results-profit-grows-85-to-rs-186-crore/articleshow/125249191.cms
+- Biocon Q2 Results: Profit soars 428% YoY to Rs 85 crore on strong biosimilar and generics growth
+  Biocon Group reported a strong Q2 FY26 with a 20% year-on-year increase in operating revenue to Rs 4,296 crore. Net profit surged 428% to Rs 85 crore, boosted by debt settlement.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/biocon-q2-results-profit-soars-428-yoy-to-rs-85-crore-on-strong-biosimilar-and-generics-growth/articleshow/125253698.cms
 
-- Can bonds build steady secondary income? Jiraaf’s Vineet Agarwal explains
-  Primary income is crucial for evolving lifestyles and financial security. Fixed-income instruments like bonds offer predictable cash flows, acting as a reliable alternative to traditional assets.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/can-bonds-build-steady-secondary-income-jiraafs-vineet-agarwal-explains/articleshow/125248608.cms
+- RBI allows participants to use municipal bonds as collateral in overnight repo transactions
+  The Reserve Bank of India has permitted money market participants to pledge municipal bonds. Unlisted firms holding government securities can also participate. Municipal bonds will carry a 2% minimum haircut.
+  🔗 https://economictimes.indiatimes.com/markets/forex/rbi-allows-participants-to-use-municipal-bonds-as-collateral-in-overnight-repo-transactions/articleshow/125253336.cms
 
-- Commodity Radar: Zinc’s tight inventories bolster fundamentals; favourable charts hint at buying opportunity, says Religare analyst
-  Zinc futures fell 0.8% on MCX to Rs 302.35 as traders cut positions amid sluggish domestic demand.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/commodity-radar-zincs-tight-inventories-bolster-fundamentals-favourable-charts-hint-at-buying-opportunity-says-religare-analyst/articleshow/125248902.cms
+- Ahead of Market: 10 things that will decide stock market action on Wednesday
+  Sensex gained 336 points and Nifty 121 points. Gains in IT, auto, and metal stocks offset weakness in financials.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/125252891.cms
 
-- 10 midcap stocks with strong net profit growth in September ’25 quarter
-  Several NSE Midcap companies reported exceptional year-on-year profit growth in the September 2025 quarter. Hindustan Petroleum, Laurus Labs, and Suzlon Energy led with massive gains.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-midcap-stocks-with-strong-net-profit-growth-in-september-25-quarter/slideshow/125248787.cms
+- Welspun Enterprises Q2 Results: Net profit grows to Rs 98 crore; company to raise Rs 1,000 cr
+  Welspun Enterprises on Tuesday said it has posted a 59 per cent rise in consolidated net profit at Rs 98.08 crore in September quarter of FY26. The company looks to raise
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/welspun-enterprises-q2-results-net-profit-grows-to-rs-98-crore-company-to-raise-rs-1000-cr/articleshow/125252370.cms
 
-- Delhi Red Fort blast live: India’s Modi alleges ‘conspiracy’ after 13 dead - Al Jazeera
-  <ol><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObk
+- Market Trading Guide: Buy Mahindra &amp; Mahindra, GRSE and 3 more stocks on Wednesday for up to 12% gains
+  Nifty closed higher after a three-day fall, supported by IT and pharma gains. Analysts see near-term consolidation. Experts recommend Indian
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-mahindra-amp-mahindra-grse-and-3-more-stocks-on-wednesday-for-up-to-12-gains/slideshow/125252171.cms
+
+- Delhi Red Fort blast updates: India’s Modi alleges ‘conspiracy’ as 13 dead - Al Jazeera
+  &nbsp;&ngt;&
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObkpDb2d4OGdtMEFWaDB5cDNkZ0U0R1RWRkkxdlJnc0thcGhwanQ0V0F1Z1l3aHJ5bDgwSlRCYnR0X3VTYi03cGt3MkktVzFlWEFoUjQ3Yi13eEpsOWtmb9IBxAFBVV95cUxNUTgzM2VvcFgtTVlKRG5Pby1EMG1QYnZMNVhKaWtsLTd4MnVPMXd4OGl4RzdJVkRoNGpKMnJWS1hBVWZWQUs2NXJiZG80SHRnSDN4RW5VOG9lM3NpRTI5Tkp2Nm0yQmtaWWI2Yko0YzR2SWlBdlZMNU9Yc3FsZkQ2a3FHSk1DX1BLNDZYTWlocmRqWkJPRzRZZ29pYnBHRGlWcHdxdGNkOWs0M3JPV1Jxa3pFYjkxSVVzOUpCYnZ1T2k0ODVy?oc=5
 
-- Jaishankar to visit Canada on Nov 12 for G7 meet, signals thaw in bilateral ties | India News - Hindustan Times
-  Jaishankar to visit Canada on Nov 12 for G7 meet, signals th
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSVk1M2hPMm5wNURza3BDLXdfNmkzSTFHZElFREs3bmFsMi1aUjFzS09FVkxmVTBVNTQyMGtUaDRCWWhwNzU2VkV1QXQ3R3lDclBhWWhDN2RiMXN4NTVyemRqVlVhTU5GSS05VXFCTklKV19qMFE1c0hRNzVBYmE1MHlST0czQnVSc3RZaTQ4NlN0TGJtY2xqSWlPQkVqQUpCVDl6YktySHR5eDdQc2tfeThjNFh6dlJQZ3kzd3lXNVJQY0VWMG02Mi1wTHBFX1hhNUVsVU94c05vd9IB3wFBVV95cUxQZ1BMYzBudTgyNENWNGlUR1JMcldjNnhtOTlVOHI4bmVvalFyekpqY3JWdjJhUlZPM3ZCVUNxTEkwVjlUWDhhTThDSVRjOXB1UVNaREcxNjljaUZkNk9oaEZEMFZnSDhCaDhhbmw2ejl1b3lHUmF3VS1KLXpsdi1tWFZXTEZUV1laNklIelRza3NENjVfenNKWEVRU3UzQUJ6SGUzRWxOS21pNFZQYVIxTWcwSVVLV1hlUk5JamNwTk9Db1dfNm1WbUoxazhUUnJaeVJNb2FvYlNOVWZzU1N3?oc=5
+- Trade talks: Trump says US close to getting 'fair deal' with India; adds a 'love us again' twist - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxQczEyOG45bnlsMkkyX1NfekNsOTVKbDdfVG5DdTZzWXZzcXVJZUtmR21HSmtZU1ZFY3pWUEVFeDNxX19fbHo5WmVUR0xpcUNiREdkNzBmYWFIdEZkbUFVc1otMDhaRktYSm
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQczEyOG45bnlsMkkyX1NfekNsOTVKbDdfVG5DdTZzWXZzcXVJZUtmR21HSmtZU1ZFY3pWUEVFeDNxX19fbHo5WmVUR0xpcUNiREdkNzBmYWFIdEZkbUFVc1otMDhaRktYSmFmUW8zc3ltcUw2RE83WHZNa2JKUE91VlNhRnhLZzFNaGdESnRLa1dONTN3Y0pHOWZfdk91WHpUcUViX19jNTF2Q2kzclN4dkE2Y0w5TkRaUVBYc1pMR3F2X01YaGVjc3NkSU9FMlJUSXlYckZfZlpfRUlBQlpoYkNHNGZvRlFIbHE5Qmt0ZjhrbFpMYkRKNTloNDBjNlNkZHR1bDVn0gGLAkFVX3lxTE1ieW9sbFpJb3F0dnd4WjRFWk1Pb0h5S1JwVnRmaldaOU9rVGRkVXMwdldjci1xS0tjUnhiNWpoNzRmck9IY180YUdkT3VOMElEbjBVdzl5b0h1cXNieHhLeUVRbzhUZVdKd3Y3bnhfeGhWNW5wTllGaU1aSHNNT2dUZWtSQmRIOFUxNEJhLUk5S0V3R2NqaWppS3ZORXA4QnJnV3VVNWhGZlp3YjhtRHV1S1djTFRKMzZ2WHdjUjN0ckRkdDdUbTJqUDNxdm9lREJFNnEtbnMtSjM1QWl2bXFwR0R1bE1PeHNpVzdzTzBOdmdQRnBNdVQ1RDd1RldwTWowWG5rSkZ3WWhCcw?oc=5
 
-- Microsoft to invest ₹1,772 crore for India's largest quantum computing facility in Amaravati - The Hindu
-  Microsoft to invest ₹1,772 crore for India
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQam56RDVxNVdVRWtOX2NOS2t5ZTBydTdRRk1pQm9QQi03czZadnpPUjRCazFiUHZJZGNKRW42eGNiMUcxd1c2OElRVXpXVV9meHBHNDRmMUpKYUh2MWQ4SXJ0WUlvSFJodUdnMjRIRE5BUXdBOXVYQUYyc0tjbXQzSFRWbnpZZHQ0WUdOQk1oUTNFbzN6S3Fobk9MS25vSnpkUDZvN3dIeFQ4RUpQMFQ5V1VHUWpPaDJUamdsbFJoWS1QanJ4WHl1QkZHUVcxS1RWWUY4S1BEUEJwRFVoN181M281czg5RG10eFduN3hKNWRvZ9IB-AFBVV95cUxOTnBjeVJ1NnRTejBhWHgtYnJBOWJ6NmNZdVRsRExPNW10LWM2SjE0YXVXdW9VaV9Xai1xRDA0TjBtUnl5ZFoxWFN3SUVEYW1VMGxSN2d0eHZ2S291eklHU09Fb0dRQ2dCSHR6aFlRS0Yxa1EyaE5oRTkxaVc3M2tKRy1iRlZ2OVNSZVlPLVFfZjVJUmVBVktudnVkSWxwR3RZbGVRcWNRNDFYZFRGdnF3WFBKbEpmaWxaQm5kUjVydVM3OWxiRmE0UWttVGJlQk1GZjYwTDdYUlJKak9fOThZMWZ6SU1QYkxGd3oyVkhMTVlhX0ltTE00Tg?oc=5
+- Maharashtra Opposition Fine-Tunes Civic Poll Plan, Says No Request From MNS Yet - NDTV
+  Maharashtra Opposition Fine-Tunes Civic Poll
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeVJSbkVUZjhfdmpkX2VxaWhCX3VVUDFEZlJud1NEWF9kRDRLUVpTRzR5aUhwLWFXdS01M19hNzhFOFFvQnlTdFpFQk02dVEycGRoU25kTkF4eXRlYlc4SmRNOFBzVzlfSXJkSmFGakxjV01HcDh6SklESXd6d0RWR2FNSHVjMFI2YS1XcW4zVUJMbGRYX3hJT3g3a3pITm1VQWpOOG83VEpZY3BqOUdicWFUNkgzQXZi0gHAAUFVX3lxTE9UTllVLUYxOGp2SEtuN25fLTBTRU9JTUVzNG9RQmg4UjhEeUpTdm1UMVFNVWs1SHl0V01KOUZGVW1mY2VETTJ0cFRyMUNHcnRLOGNUWjZpNDlaTzNUaEFsY3FUa05NZFRNdHlvN0dCNVJJWWJtRVA1cEtiSU5wYTdHX2d1aXpTX2tyMWZtV3NfbWFXMnQ2T2tFRGI4NFpUejN1MGZ5RjdqU2NndUN0TUFuTUhORGRIUTVhZk95NlYzeA?oc=5
 
-- They'll love us again: Trump says tariffs on India to be reduced in fair trade deal - India Today
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd283RWwyMGs4OFVGcHdHbmxQWHpLTU1XbjZ3T1YyMnk5bkVhQlFnR3lCa1lPZTQ0M3lLR1REVWoyeXB4ZWtya29ZeEt3OHUwN29Fa2VkaEhpTUNQVGFTSks2dk9QVHpsX3
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd283RWwyMGs4OFVGcHdHbmxQWHpLTU1XbjZ3T1YyMnk5bkVhQlFnR3lCa1lPZTQ0M3lLR1REVWoyeXB4ZWtya29ZeEt3OHUwN29Fa2VkaEhpTUNQVGFTSks2dk9QVHpsX3ZycVBqVThNb09kZERwdU1oNnFLcnhlbXdMWnBOcmZGLXNFS0VjS2hVOG8zQ1VTYXh1UFJQMjI0ZzNyejdQVy01bzkwSmJUejFYdUYtdVkwdlBB0gHAAUFVX3lxTE9LeXV2R1VjNzdwMThnVVZUV1FBdlVJSTZvZTNhdDIxV05vT3E0T25zcWNZSVRYN2tWYmYxOUlPMkowMDQ0MlBpdUpNV28xX09DVW5KLVc1N1RMc2pZY1JjLVJ5OHc5VmZMaTgzUHhQMm52YndFMkY4WDZXTnprbzhUYlMxOG4xT0NsbnhfNXlERkhKb3VwNFl6eWYya2VSLXdiNDUxdGd2ZV9xS0dmaFBERXZ4Tmt5ZjNiZkhDX1BwNQ?oc=5
+- In US Posts On Blasts, "Terrorism" In Pak And "Terrible Explosion" In India - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVc5SndhS2h3WjRYaXFGSlpVQXZfRm5CaktKZGtXLVh6NURkUGFvUnowb0hzZmd4dDEzZHR1OER0MTc0clYtOHpLUmlBZ04wQ1RHU19FMXVlTGdyRWZwek1meGNNOS1yTX
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVc5SndhS2h3WjRYaXFGSlpVQXZfRm5CaktKZGtXLVh6NURkUGFvUnowb0hzZmd4dDEzZHR1OER0MTc0clYtOHpLUmlBZ04wQ1RHU19FMXVlTGdyRWZwek1meGNNOS1yTXZmYTBHNDdraWZLa2Fyd2VQajhOcW9zTnFtbFBrOWJnX2xvcTJJMjRteFY4V09NcXpxcmFPTnc1cWcyblgzeDl2LW9FVjdZ0gG3AUFVX3lxTE9oYjBYSTdyRTdUM05GRnlQNDV3Nm5ndjY4RlMyRTZpX3VubGdYcVpCaHA4RF95c3Q3aV9lODdCQUdFdWY3QzZnMXFveG5MczZ6VS04QjhzZ1hJa2JWbTRVUEFveU1aeHVrV0J0Rl9PV216OEFOMGRKNTBzbVU2X2JtUE5vbTFCNmtPZGhWUUdqMnpnWnRLN0ZSaExmMjlHSFVYNUJlWlRpdHcyUjNTV0FHa3dhOWg0TQ?oc=5
 
-- India, China look to restart cultural, people exchanges - Times of India
-  India, China look to restart cultural,
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFNOVVlmNTl6VEJtVE93VHI4dUtFZ01yOWo0bWVsZXZidkJESUZkX3pVUHdDajlYbTdaT0MxdzBfUW5BZU9BVjdCanZvbEV3Wk5lQVNySzF5UU1QQzVSSlJLYzVFM1RjSHYxVlp3ZlRLMXNuTDAxLUNSaG04UUtELVVBUENackRsM3JJb3pPSlhhem9IZVlJamxVLUJsREpLY0szdkZLRUVlWDMxdlZCTFVFWEVtWFZ1b1VtNWF30gHDAUFVX3lxTE41a1ZkTzRRb3Raak5MNTVTTS01Y3RNUDRHMl9hWndhMzhhQlh5ZEFsb01zLVo5cE5NdDlaRGJwUEhhUHpTTUdmUWRCVTM3UWdfVlAxVmxWaFRvNDc2c1B3SzdYejdOVXNNUl9jZFRMNHFTZ2hRRWJldXNfM252Y3hsd3FCaUphOGpON0FCTUhZd0c3dE1TYWtmZnlFaEJKZFIzOWZ6UmpGa181SHVXSFV0WlFDMzFfOVg3SUEyQUJ2ZHpZSQ?oc=5
+- Top News Headlines of November 10, 2025 | Red Fort blast ripples in Bihar, police fan out as state votes today - The Indian Express
+  The Indian Express will publish the top news stories of November 10, 2025.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdnE5N205MDk5THNuMnJtaFh6TlZfNjUzUmhiQk5YcHdkcU01YWc3NDNsZVU0NC1ja2pMRWRGdzRTWlBnNFBLTlowamNqc0xhLWljOGl3RVFrVmtTS19oVjJjdlY1RVZwQzl5ekdTRUE0NVdXdUZZN3VGaDdyX1lYTnYzaFR3NDY0d3pfRXBUaXRkM0FGbkQ4bnF5WFhfeld6WkRKeTg3dWFVaDE0ZWJ0MlpxRnB3NnBkNkE0Xzc5Qm9PVFFBV1lieDhwTENlQ0N4c3NaQk9aN2FkLVE5M3ZPV3ljM2pmX1Nw0gHvAUFVX3lxTE1pVHA1WHhDQVhQUTE4SHp1ZVpzaFhjX0IwZmozOWliMWQ3NHhRa0ZLYVF3VTJldnNMNVRjNXRvWXpYRXFsTGZta1p3cDZ1MGl4b29uNDZkT2s2UXdVb1dXZDAzYUpKWU1kYzZfbG5QRVJiWEw1eEF0WmxZRnN0dWlMWU1xNmF6ZGlVYmRiY1llZU1MODlyQ0hWN1pBbFo4M0VIZGtYdmw4TmZmUEtsYkVrNTE1TDFQdmp6QjhRdzh6R3hvX29hdU5jeDN6S0hMLXBrWm5aU2NJYmY5UVlJZ0RKY0lQMDRFRjJHNTJ2UHlr?oc=5
 
-- Delhi Red Fort blast live: India’s Modi alleges ‘conspiracy’ after 13 dead - Al Jazeera
-  <ol><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObk
+- Delhi Red Fort blast updates: India’s Modi alleges ‘conspiracy’ as 13 dead - Al Jazeera
+  &nbsp;&ngt;&
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObkpDb2d4OGdtMEFWaDB5cDNkZ0U0R1RWRkkxdlJnc0thcGhwanQ0V0F1Z1l3aHJ5bDgwSlRCYnR0X3VTYi03cGt3MkktVzFlWEFoUjQ3Yi13eEpsOWtmb9IBxAFBVV95cUxNUTgzM2VvcFgtTVlKRG5Pby1EMG1QYnZMNVhKaWtsLTd4MnVPMXd4OGl4RzdJVkRoNGpKMnJWS1hBVWZWQUs2NXJiZG80SHRnSDN4RW5VOG9lM3NpRTI5Tkp2Nm0yQmtaWWI2Yko0YzR2SWlBdlZMNU9Yc3FsZkQ2a3FHSk1DX1BLNDZYTWlocmRqWkJPRzRZZ29pYnBHRGlWcHdxdGNkOWs0M3JPV1Jxa3pFYjkxSVVzOUpCYnZ1T2k0ODVy?oc=5
 
-- Jaishankar to visit Canada on Nov 12 for G7 meet, signals thaw in bilateral ties | India News - Hindustan Times
-  Jaishankar to visit Canada on Nov 12 for G7 meet, signals th
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSVk1M2hPMm5wNURza3BDLXdfNmkzSTFHZElFREs3bmFsMi1aUjFzS09FVkxmVTBVNTQyMGtUaDRCWWhwNzU2VkV1QXQ3R3lDclBhWWhDN2RiMXN4NTVyemRqVlVhTU5GSS05VXFCTklKV19qMFE1c0hRNzVBYmE1MHlST0czQnVSc3RZaTQ4NlN0TGJtY2xqSWlPQkVqQUpCVDl6YktySHR5eDdQc2tfeThjNFh6dlJQZ3kzd3lXNVJQY0VWMG02Mi1wTHBFX1hhNUVsVU94c05vd9IB3wFBVV95cUxQZ1BMYzBudTgyNENWNGlUR1JMcldjNnhtOTlVOHI4bmVvalFyekpqY3JWdjJhUlZPM3ZCVUNxTEkwVjlUWDhhTThDSVRjOXB1UVNaREcxNjljaUZkNk9oaEZEMFZnSDhCaDhhbmw2ejl1b3lHUmF3VS1KLXpsdi1tWFZXTEZUV1laNklIelRza3NENjVfenNKWEVRU3UzQUJ6SGUzRWxOS21pNFZQYVIxTWcwSVVLV1hlUk5JamNwTk9Db1dfNm1WbUoxazhUUnJaeVJNb2FvYlNOVWZzU1N3?oc=5
+- Trade talks: Trump says US close to getting 'fair deal' with India; adds a 'love us again' twist - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxQczEyOG45bnlsMkkyX1NfekNsOTVKbDdfVG5DdTZzWXZzcXVJZUtmR21HSmtZU1ZFY3pWUEVFeDNxX19fbHo5WmVUR0xpcUNiREdkNzBmYWFIdEZkbUFVc1otMDhaRktYSm
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQczEyOG45bnlsMkkyX1NfekNsOTVKbDdfVG5DdTZzWXZzcXVJZUtmR21HSmtZU1ZFY3pWUEVFeDNxX19fbHo5WmVUR0xpcUNiREdkNzBmYWFIdEZkbUFVc1otMDhaRktYSmFmUW8zc3ltcUw2RE83WHZNa2JKUE91VlNhRnhLZzFNaGdESnRLa1dONTN3Y0pHOWZfdk91WHpUcUViX19jNTF2Q2kzclN4dkE2Y0w5TkRaUVBYc1pMR3F2X01YaGVjc3NkSU9FMlJUSXlYckZfZlpfRUlBQlpoYkNHNGZvRlFIbHE5Qmt0ZjhrbFpMYkRKNTloNDBjNlNkZHR1bDVn0gGLAkFVX3lxTE1ieW9sbFpJb3F0dnd4WjRFWk1Pb0h5S1JwVnRmaldaOU9rVGRkVXMwdldjci1xS0tjUnhiNWpoNzRmck9IY180YUdkT3VOMElEbjBVdzl5b0h1cXNieHhLeUVRbzhUZVdKd3Y3bnhfeGhWNW5wTllGaU1aSHNNT2dUZWtSQmRIOFUxNEJhLUk5S0V3R2NqaWppS3ZORXA4QnJnV3VVNWhGZlp3YjhtRHV1S1djTFRKMzZ2WHdjUjN0ckRkdDdUbTJqUDNxdm9lREJFNnEtbnMtSjM1QWl2bXFwR0R1bE1PeHNpVzdzTzBOdmdQRnBNdVQ1RDd1RldwTWowWG5rSkZ3WWhCcw?oc=5
 
-- Microsoft to invest ₹1,772 crore for India's largest quantum computing facility in Amaravati - The Hindu
-  Microsoft to invest ₹1,772 crore for India
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQam56RDVxNVdVRWtOX2NOS2t5ZTBydTdRRk1pQm9QQi03czZadnpPUjRCazFiUHZJZGNKRW42eGNiMUcxd1c2OElRVXpXVV9meHBHNDRmMUpKYUh2MWQ4SXJ0WUlvSFJodUdnMjRIRE5BUXdBOXVYQUYyc0tjbXQzSFRWbnpZZHQ0WUdOQk1oUTNFbzN6S3Fobk9MS25vSnpkUDZvN3dIeFQ4RUpQMFQ5V1VHUWpPaDJUamdsbFJoWS1QanJ4WHl1QkZHUVcxS1RWWUY4S1BEUEJwRFVoN181M281czg5RG10eFduN3hKNWRvZ9IB-AFBVV95cUxOTnBjeVJ1NnRTejBhWHgtYnJBOWJ6NmNZdVRsRExPNW10LWM2SjE0YXVXdW9VaV9Xai1xRDA0TjBtUnl5ZFoxWFN3SUVEYW1VMGxSN2d0eHZ2S291eklHU09Fb0dRQ2dCSHR6aFlRS0Yxa1EyaE5oRTkxaVc3M2tKRy1iRlZ2OVNSZVlPLVFfZjVJUmVBVktudnVkSWxwR3RZbGVRcWNRNDFYZFRGdnF3WFBKbEpmaWxaQm5kUjVydVM3OWxiRmE0UWttVGJlQk1GZjYwTDdYUlJKak9fOThZMWZ6SU1QYkxGd3oyVkhMTVlhX0ltTE00Tg?oc=5
+- Maharashtra Opposition Fine-Tunes Civic Poll Plan, Says No Request From MNS Yet - NDTV
+  Maharashtra Opposition Fine-Tunes Civic Poll
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeVJSbkVUZjhfdmpkX2VxaWhCX3VVUDFEZlJud1NEWF9kRDRLUVpTRzR5aUhwLWFXdS01M19hNzhFOFFvQnlTdFpFQk02dVEycGRoU25kTkF4eXRlYlc4SmRNOFBzVzlfSXJkSmFGakxjV01HcDh6SklESXd6d0RWR2FNSHVjMFI2YS1XcW4zVUJMbGRYX3hJT3g3a3pITm1VQWpOOG83VEpZY3BqOUdicWFUNkgzQXZi0gHAAUFVX3lxTE9UTllVLUYxOGp2SEtuN25fLTBTRU9JTUVzNG9RQmg4UjhEeUpTdm1UMVFNVWs1SHl0V01KOUZGVW1mY2VETTJ0cFRyMUNHcnRLOGNUWjZpNDlaTzNUaEFsY3FUa05NZFRNdHlvN0dCNVJJWWJtRVA1cEtiSU5wYTdHX2d1aXpTX2tyMWZtV3NfbWFXMnQ2T2tFRGI4NFpUejN1MGZ5RjdqU2NndUN0TUFuTUhORGRIUTVhZk95NlYzeA?oc=5
 
-- They'll love us again: Trump says tariffs on India to be reduced in fair trade deal - India Today
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd283RWwyMGs4OFVGcHdHbmxQWHpLTU1XbjZ3T1YyMnk5bkVhQlFnR3lCa1lPZTQ0M3lLR1REVWoyeXB4ZWtya29ZeEt3OHUwN29Fa2VkaEhpTUNQVGFTSks2dk9QVHpsX3
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd283RWwyMGs4OFVGcHdHbmxQWHpLTU1XbjZ3T1YyMnk5bkVhQlFnR3lCa1lPZTQ0M3lLR1REVWoyeXB4ZWtya29ZeEt3OHUwN29Fa2VkaEhpTUNQVGFTSks2dk9QVHpsX3ZycVBqVThNb09kZERwdU1oNnFLcnhlbXdMWnBOcmZGLXNFS0VjS2hVOG8zQ1VTYXh1UFJQMjI0ZzNyejdQVy01bzkwSmJUejFYdUYtdVkwdlBB0gHAAUFVX3lxTE9LeXV2R1VjNzdwMThnVVZUV1FBdlVJSTZvZTNhdDIxV05vT3E0T25zcWNZSVRYN2tWYmYxOUlPMkowMDQ0MlBpdUpNV28xX09DVW5KLVc1N1RMc2pZY1JjLVJ5OHc5VmZMaTgzUHhQMm52YndFMkY4WDZXTnprbzhUYlMxOG4xT0NsbnhfNXlERkhKb3VwNFl6eWYya2VSLXdiNDUxdGd2ZV9xS0dmaFBERXZ4Tmt5ZjNiZkhDX1BwNQ?oc=5
+- In US Posts On Blasts, "Terrorism" In Pak And "Terrible Explosion" In India - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVc5SndhS2h3WjRYaXFGSlpVQXZfRm5CaktKZGtXLVh6NURkUGFvUnowb0hzZmd4dDEzZHR1OER0MTc0clYtOHpLUmlBZ04wQ1RHU19FMXVlTGdyRWZwek1meGNNOS1yTX
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVc5SndhS2h3WjRYaXFGSlpVQXZfRm5CaktKZGtXLVh6NURkUGFvUnowb0hzZmd4dDEzZHR1OER0MTc0clYtOHpLUmlBZ04wQ1RHU19FMXVlTGdyRWZwek1meGNNOS1yTXZmYTBHNDdraWZLa2Fyd2VQajhOcW9zTnFtbFBrOWJnX2xvcTJJMjRteFY4V09NcXpxcmFPTnc1cWcyblgzeDl2LW9FVjdZ0gG3AUFVX3lxTE9oYjBYSTdyRTdUM05GRnlQNDV3Nm5ndjY4RlMyRTZpX3VubGdYcVpCaHA4RF95c3Q3aV9lODdCQUdFdWY3QzZnMXFveG5MczZ6VS04QjhzZ1hJa2JWbTRVUEFveU1aeHVrV0J0Rl9PV216OEFOMGRKNTBzbVU2X2JtUE5vbTFCNmtPZGhWUUdqMnpnWnRLN0ZSaExmMjlHSFVYNUJlWlRpdHcyUjNTV0FHa3dhOWg0TQ?oc=5
 
-- India, China look to restart cultural, people exchanges - Times of India
-  India, China look to restart cultural,
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFNOVVlmNTl6VEJtVE93VHI4dUtFZ01yOWo0bWVsZXZidkJESUZkX3pVUHdDajlYbTdaT0MxdzBfUW5BZU9BVjdCanZvbEV3Wk5lQVNySzF5UU1QQzVSSlJLYzVFM1RjSHYxVlp3ZlRLMXNuTDAxLUNSaG04UUtELVVBUENackRsM3JJb3pPSlhhem9IZVlJamxVLUJsREpLY0szdkZLRUVlWDMxdlZCTFVFWEVtWFZ1b1VtNWF30gHDAUFVX3lxTE41a1ZkTzRRb3Raak5MNTVTTS01Y3RNUDRHMl9hWndhMzhhQlh5ZEFsb01zLVo5cE5NdDlaRGJwUEhhUHpTTUdmUWRCVTM3UWdfVlAxVmxWaFRvNDc2c1B3SzdYejdOVXNNUl9jZFRMNHFTZ2hRRWJldXNfM252Y3hsd3FCaUphOGpON0FCTUhZd0c3dE1TYWtmZnlFaEJKZFIzOWZ6UmpGa181SHVXSFV0WlFDMzFfOVg3SUEyQUJ2ZHpZSQ?oc=5
+- Top News Headlines of November 10, 2025 | Red Fort blast ripples in Bihar, police fan out as state votes today - The Indian Express
+  The Indian Express will publish the top news stories of November 10, 2025.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdnE5N205MDk5THNuMnJtaFh6TlZfNjUzUmhiQk5YcHdkcU01YWc3NDNsZVU0NC1ja2pMRWRGdzRTWlBnNFBLTlowamNqc0xhLWljOGl3RVFrVmtTS19oVjJjdlY1RVZwQzl5ekdTRUE0NVdXdUZZN3VGaDdyX1lYTnYzaFR3NDY0d3pfRXBUaXRkM0FGbkQ4bnF5WFhfeld6WkRKeTg3dWFVaDE0ZWJ0MlpxRnB3NnBkNkE0Xzc5Qm9PVFFBV1lieDhwTENlQ0N4c3NaQk9aN2FkLVE5M3ZPV3ljM2pmX1Nw0gHvAUFVX3lxTE1pVHA1WHhDQVhQUTE4SHp1ZVpzaFhjX0IwZmozOWliMWQ3NHhRa0ZLYVF3VTJldnNMNVRjNXRvWXpYRXFsTGZta1p3cDZ1MGl4b29uNDZkT2s2UXdVb1dXZDAzYUpKWU1kYzZfbG5QRVJiWEw1eEF0WmxZRnN0dWlMWU1xNmF6ZGlVYmRiY1llZU1MODlyQ0hWN1pBbFo4M0VIZGtYdmw4TmZmUEtsYkVrNTE1TDFQdmp6QjhRdzh6R3hvX29hdU5jeDN6S0hMLXBrWm5aU2NJYmY5UVlJZ0RKY0lQMDRFRjJHNTJ2UHlr?oc=5
 
-- Delhi Red Fort blast live: India’s Modi alleges ‘conspiracy’ after 13 dead - Al Jazeera
-  <ol><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObk
+- Delhi Red Fort blast updates: India’s Modi alleges ‘conspiracy’ as 13 dead - Al Jazeera
+  &nbsp;&ngt;&
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObkpDb2d4OGdtMEFWaDB5cDNkZ0U0R1RWRkkxdlJnc0thcGhwanQ0V0F1Z1l3aHJ5bDgwSlRCYnR0X3VTYi03cGt3MkktVzFlWEFoUjQ3Yi13eEpsOWtmb9IBxAFBVV95cUxNUTgzM2VvcFgtTVlKRG5Pby1EMG1QYnZMNVhKaWtsLTd4MnVPMXd4OGl4RzdJVkRoNGpKMnJWS1hBVWZWQUs2NXJiZG80SHRnSDN4RW5VOG9lM3NpRTI5Tkp2Nm0yQmtaWWI2Yko0YzR2SWlBdlZMNU9Yc3FsZkQ2a3FHSk1DX1BLNDZYTWlocmRqWkJPRzRZZ29pYnBHRGlWcHdxdGNkOWs0M3JPV1Jxa3pFYjkxSVVzOUpCYnZ1T2k0ODVy?oc=5
 
-- Jaishankar to visit Canada on Nov 12 for G7 meet, signals thaw in bilateral ties | India News - Hindustan Times
-  Jaishankar to visit Canada on Nov 12 for G7 meet, signals th
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSVk1M2hPMm5wNURza3BDLXdfNmkzSTFHZElFREs3bmFsMi1aUjFzS09FVkxmVTBVNTQyMGtUaDRCWWhwNzU2VkV1QXQ3R3lDclBhWWhDN2RiMXN4NTVyemRqVlVhTU5GSS05VXFCTklKV19qMFE1c0hRNzVBYmE1MHlST0czQnVSc3RZaTQ4NlN0TGJtY2xqSWlPQkVqQUpCVDl6YktySHR5eDdQc2tfeThjNFh6dlJQZ3kzd3lXNVJQY0VWMG02Mi1wTHBFX1hhNUVsVU94c05vd9IB3wFBVV95cUxQZ1BMYzBudTgyNENWNGlUR1JMcldjNnhtOTlVOHI4bmVvalFyekpqY3JWdjJhUlZPM3ZCVUNxTEkwVjlUWDhhTThDSVRjOXB1UVNaREcxNjljaUZkNk9oaEZEMFZnSDhCaDhhbmw2ejl1b3lHUmF3VS1KLXpsdi1tWFZXTEZUV1laNklIelRza3NENjVfenNKWEVRU3UzQUJ6SGUzRWxOS21pNFZQYVIxTWcwSVVLV1hlUk5JamNwTk9Db1dfNm1WbUoxazhUUnJaeVJNb2FvYlNOVWZzU1N3?oc=5
+- Trade talks: Trump says US close to getting 'fair deal' with India; adds a 'love us again' twist - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxQczEyOG45bnlsMkkyX1NfekNsOTVKbDdfVG5DdTZzWXZzcXVJZUtmR21HSmtZU1ZFY3pWUEVFeDNxX19fbHo5WmVUR0xpcUNiREdkNzBmYWFIdEZkbUFVc1otMDhaRktYSm
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQczEyOG45bnlsMkkyX1NfekNsOTVKbDdfVG5DdTZzWXZzcXVJZUtmR21HSmtZU1ZFY3pWUEVFeDNxX19fbHo5WmVUR0xpcUNiREdkNzBmYWFIdEZkbUFVc1otMDhaRktYSmFmUW8zc3ltcUw2RE83WHZNa2JKUE91VlNhRnhLZzFNaGdESnRLa1dONTN3Y0pHOWZfdk91WHpUcUViX19jNTF2Q2kzclN4dkE2Y0w5TkRaUVBYc1pMR3F2X01YaGVjc3NkSU9FMlJUSXlYckZfZlpfRUlBQlpoYkNHNGZvRlFIbHE5Qmt0ZjhrbFpMYkRKNTloNDBjNlNkZHR1bDVn0gGLAkFVX3lxTE1ieW9sbFpJb3F0dnd4WjRFWk1Pb0h5S1JwVnRmaldaOU9rVGRkVXMwdldjci1xS0tjUnhiNWpoNzRmck9IY180YUdkT3VOMElEbjBVdzl5b0h1cXNieHhLeUVRbzhUZVdKd3Y3bnhfeGhWNW5wTllGaU1aSHNNT2dUZWtSQmRIOFUxNEJhLUk5S0V3R2NqaWppS3ZORXA4QnJnV3VVNWhGZlp3YjhtRHV1S1djTFRKMzZ2WHdjUjN0ckRkdDdUbTJqUDNxdm9lREJFNnEtbnMtSjM1QWl2bXFwR0R1bE1PeHNpVzdzTzBOdmdQRnBNdVQ1RDd1RldwTWowWG5rSkZ3WWhCcw?oc=5
 
-- Microsoft to invest ₹1,772 crore for India's largest quantum computing facility in Amaravati - The Hindu
-  Microsoft to invest ₹1,772 crore for India
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQam56RDVxNVdVRWtOX2NOS2t5ZTBydTdRRk1pQm9QQi03czZadnpPUjRCazFiUHZJZGNKRW42eGNiMUcxd1c2OElRVXpXVV9meHBHNDRmMUpKYUh2MWQ4SXJ0WUlvSFJodUdnMjRIRE5BUXdBOXVYQUYyc0tjbXQzSFRWbnpZZHQ0WUdOQk1oUTNFbzN6S3Fobk9MS25vSnpkUDZvN3dIeFQ4RUpQMFQ5V1VHUWpPaDJUamdsbFJoWS1QanJ4WHl1QkZHUVcxS1RWWUY4S1BEUEJwRFVoN181M281czg5RG10eFduN3hKNWRvZ9IB-AFBVV95cUxOTnBjeVJ1NnRTejBhWHgtYnJBOWJ6NmNZdVRsRExPNW10LWM2SjE0YXVXdW9VaV9Xai1xRDA0TjBtUnl5ZFoxWFN3SUVEYW1VMGxSN2d0eHZ2S291eklHU09Fb0dRQ2dCSHR6aFlRS0Yxa1EyaE5oRTkxaVc3M2tKRy1iRlZ2OVNSZVlPLVFfZjVJUmVBVktudnVkSWxwR3RZbGVRcWNRNDFYZFRGdnF3WFBKbEpmaWxaQm5kUjVydVM3OWxiRmE0UWttVGJlQk1GZjYwTDdYUlJKak9fOThZMWZ6SU1QYkxGd3oyVkhMTVlhX0ltTE00Tg?oc=5
+- Maharashtra Opposition Fine-Tunes Civic Poll Plan, Says No Request From MNS Yet - NDTV
+  Maharashtra Opposition Fine-Tunes Civic Poll
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeVJSbkVUZjhfdmpkX2VxaWhCX3VVUDFEZlJud1NEWF9kRDRLUVpTRzR5aUhwLWFXdS01M19hNzhFOFFvQnlTdFpFQk02dVEycGRoU25kTkF4eXRlYlc4SmRNOFBzVzlfSXJkSmFGakxjV01HcDh6SklESXd6d0RWR2FNSHVjMFI2YS1XcW4zVUJMbGRYX3hJT3g3a3pITm1VQWpOOG83VEpZY3BqOUdicWFUNkgzQXZi0gHAAUFVX3lxTE9UTllVLUYxOGp2SEtuN25fLTBTRU9JTUVzNG9RQmg4UjhEeUpTdm1UMVFNVWs1SHl0V01KOUZGVW1mY2VETTJ0cFRyMUNHcnRLOGNUWjZpNDlaTzNUaEFsY3FUa05NZFRNdHlvN0dCNVJJWWJtRVA1cEtiSU5wYTdHX2d1aXpTX2tyMWZtV3NfbWFXMnQ2T2tFRGI4NFpUejN1MGZ5RjdqU2NndUN0TUFuTUhORGRIUTVhZk95NlYzeA?oc=5
 
-- They'll love us again: Trump says tariffs on India to be reduced in fair trade deal - India Today
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd283RWwyMGs4OFVGcHdHbmxQWHpLTU1XbjZ3T1YyMnk5bkVhQlFnR3lCa1lPZTQ0M3lLR1REVWoyeXB4ZWtya29ZeEt3OHUwN29Fa2VkaEhpTUNQVGFTSks2dk9QVHpsX3
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd283RWwyMGs4OFVGcHdHbmxQWHpLTU1XbjZ3T1YyMnk5bkVhQlFnR3lCa1lPZTQ0M3lLR1REVWoyeXB4ZWtya29ZeEt3OHUwN29Fa2VkaEhpTUNQVGFTSks2dk9QVHpsX3ZycVBqVThNb09kZERwdU1oNnFLcnhlbXdMWnBOcmZGLXNFS0VjS2hVOG8zQ1VTYXh1UFJQMjI0ZzNyejdQVy01bzkwSmJUejFYdUYtdVkwdlBB0gHAAUFVX3lxTE9LeXV2R1VjNzdwMThnVVZUV1FBdlVJSTZvZTNhdDIxV05vT3E0T25zcWNZSVRYN2tWYmYxOUlPMkowMDQ0MlBpdUpNV28xX09DVW5KLVc1N1RMc2pZY1JjLVJ5OHc5VmZMaTgzUHhQMm52YndFMkY4WDZXTnprbzhUYlMxOG4xT0NsbnhfNXlERkhKb3VwNFl6eWYya2VSLXdiNDUxdGd2ZV9xS0dmaFBERXZ4Tmt5ZjNiZkhDX1BwNQ?oc=5
+- In US Posts On Blasts, "Terrorism" In Pak And "Terrible Explosion" In India - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVc5SndhS2h3WjRYaXFGSlpVQXZfRm5CaktKZGtXLVh6NURkUGFvUnowb0hzZmd4dDEzZHR1OER0MTc0clYtOHpLUmlBZ04wQ1RHU19FMXVlTGdyRWZwek1meGNNOS1yTX
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVc5SndhS2h3WjRYaXFGSlpVQXZfRm5CaktKZGtXLVh6NURkUGFvUnowb0hzZmd4dDEzZHR1OER0MTc0clYtOHpLUmlBZ04wQ1RHU19FMXVlTGdyRWZwek1meGNNOS1yTXZmYTBHNDdraWZLa2Fyd2VQajhOcW9zTnFtbFBrOWJnX2xvcTJJMjRteFY4V09NcXpxcmFPTnc1cWcyblgzeDl2LW9FVjdZ0gG3AUFVX3lxTE9oYjBYSTdyRTdUM05GRnlQNDV3Nm5ndjY4RlMyRTZpX3VubGdYcVpCaHA4RF95c3Q3aV9lODdCQUdFdWY3QzZnMXFveG5MczZ6VS04QjhzZ1hJa2JWbTRVUEFveU1aeHVrV0J0Rl9PV216OEFOMGRKNTBzbVU2X2JtUE5vbTFCNmtPZGhWUUdqMnpnWnRLN0ZSaExmMjlHSFVYNUJlWlRpdHcyUjNTV0FHa3dhOWg0TQ?oc=5
 
-- India, China look to restart cultural, people exchanges - Times of India
-  India, China look to restart cultural,
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFNOVVlmNTl6VEJtVE93VHI4dUtFZ01yOWo0bWVsZXZidkJESUZkX3pVUHdDajlYbTdaT0MxdzBfUW5BZU9BVjdCanZvbEV3Wk5lQVNySzF5UU1QQzVSSlJLYzVFM1RjSHYxVlp3ZlRLMXNuTDAxLUNSaG04UUtELVVBUENackRsM3JJb3pPSlhhem9IZVlJamxVLUJsREpLY0szdkZLRUVlWDMxdlZCTFVFWEVtWFZ1b1VtNWF30gHDAUFVX3lxTE41a1ZkTzRRb3Raak5MNTVTTS01Y3RNUDRHMl9hWndhMzhhQlh5ZEFsb01zLVo5cE5NdDlaRGJwUEhhUHpTTUdmUWRCVTM3UWdfVlAxVmxWaFRvNDc2c1B3SzdYejdOVXNNUl9jZFRMNHFTZ2hRRWJldXNfM252Y3hsd3FCaUphOGpON0FCTUhZd0c3dE1TYWtmZnlFaEJKZFIzOWZ6UmpGa181SHVXSFV0WlFDMzFfOVg3SUEyQUJ2ZHpZSQ?oc=5
+- Top News Headlines of November 10, 2025 | Red Fort blast ripples in Bihar, police fan out as state votes today - The Indian Express
+  The Indian Express will publish the top news stories of November 10, 2025.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdnE5N205MDk5THNuMnJtaFh6TlZfNjUzUmhiQk5YcHdkcU01YWc3NDNsZVU0NC1ja2pMRWRGdzRTWlBnNFBLTlowamNqc0xhLWljOGl3RVFrVmtTS19oVjJjdlY1RVZwQzl5ekdTRUE0NVdXdUZZN3VGaDdyX1lYTnYzaFR3NDY0d3pfRXBUaXRkM0FGbkQ4bnF5WFhfeld6WkRKeTg3dWFVaDE0ZWJ0MlpxRnB3NnBkNkE0Xzc5Qm9PVFFBV1lieDhwTENlQ0N4c3NaQk9aN2FkLVE5M3ZPV3ljM2pmX1Nw0gHvAUFVX3lxTE1pVHA1WHhDQVhQUTE4SHp1ZVpzaFhjX0IwZmozOWliMWQ3NHhRa0ZLYVF3VTJldnNMNVRjNXRvWXpYRXFsTGZta1p3cDZ1MGl4b29uNDZkT2s2UXdVb1dXZDAzYUpKWU1kYzZfbG5QRVJiWEw1eEF0WmxZRnN0dWlMWU1xNmF6ZGlVYmRiY1llZU1MODlyQ0hWN1pBbFo4M0VIZGtYdmw4TmZmUEtsYkVrNTE1TDFQdmp6QjhRdzh6R3hvX29hdU5jeDN6S0hMLXBrWm5aU2NJYmY5UVlJZ0RKY0lQMDRFRjJHNTJ2UHlr?oc=5
 
-- Is human imitation the right goal for technology? - Financial Times
-  Is human imitation the right goal for
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE9YTFdjZjFWMUdVQUlIakRrTG5EZHlBdzYzMjhMWmdfeXV3YjF2U09GRkpTY3BoSVhUZnFqN05RVzZmZEZsQWlEdldYSGFlbmJtZU4tX3hCaXlxYk9BS3ZlT1Y1M09Ya2c0UV9LVWxOU0E?oc=5
+- Delhi Red Fort blast updates: India’s Modi alleges ‘conspiracy’ as 13 dead - Al Jazeera
+  &nbsp;&ngt;&
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObkpDb2d4OGdtMEFWaDB5cDNkZ0U0R1RWRkkxdlJnc0thcGhwanQ0V0F1Z1l3aHJ5bDgwSlRCYnR0X3VTYi03cGt3MkktVzFlWEFoUjQ3Yi13eEpsOWtmb9IBxAFBVV95cUxNUTgzM2VvcFgtTVlKRG5Pby1EMG1QYnZMNVhKaWtsLTd4MnVPMXd4OGl4RzdJVkRoNGpKMnJWS1hBVWZWQUs2NXJiZG80SHRnSDN4RW5VOG9lM3NpRTI5Tkp2Nm0yQmtaWWI2Yko0YzR2SWlBdlZMNU9Yc3FsZkQ2a3FHSk1DX1BLNDZYTWlocmRqWkJPRzRZZ29pYnBHRGlWcHdxdGNkOWs0M3JPV1Jxa3pFYjkxSVVzOUpCYnZ1T2k0ODVy?oc=5
 
-- Microsoft AI CEO Mustafa Suleyman repeats his warning on AI technology Mark Zuckerberg is spending billio - Times of India
-  Microsoft AI CEO Mustafa Suleyman repeats his warning on AI technology Mark Zuckerberg
-  🔗 https://news.google.com/rss/articles/CBMi3gJBVV95cUxPRkp1VXNOX2lFZ1FoNGxzZG5NWDJyN3VUUm1IeHRuNHBNWV93amZpTURXX3paR0ZXS0s5ajJYMnVBM0tkbDdjcjh1YWItT2ZsY25TTlFpTVZKSjhhbi0xbXJqcDkzTWNjRHRERThhOHBwaEw1dEd1S1pvTUwtZmRqZS1EUEF4U3pBanVLTU03aE9XWFdXcVh0bFd6MTBoN3RxdW9iVThlRTdVTk1oZFRHd0k3WmV1WFJuVmhaMTdCUEJ5M2Y2ZzR2ZVd3Z294SGdGWGpFbkx3TFlUeEZsalBrT1dtTTN4bXN0UUJGWXphallIcHRBbzZzVnpEUUkxRVItVzh4YXc4SHJlcEdJbXZRTFRzQTZjeUxveUl1bkM4ZGNsa0Y0RmxpU3RtVmtwQzItZkVnaXZ6ZDRGY3c1ck9JcXNYNG8yNHQ5YnZ1ZS0xZFlmYmNlOXZsR05oSTJZZ9IB4wJBVV95cUxPSFpOVmZQWWUzUFMtSHVqd0Z3UHBhNnFBUWpVRHpQcjZCQ092NDBNNFkwZ2ZTOE9oWFdCMkFGb2Y0dHY1SlpyRjByYTIzM0FFbF9KaXZjb0dzblFsNlRvT0VUMk1ocVpaS0NERmhWOTNRNVlnWkJ1TlI0TGt3VFpSY1R5MlA0UDVqY2dJaEpIYWNvYmUxQm1LRUVnM1EzdmcwVkdwdU9ZbGZDNlNCRHhMOEl5SU56TmNRczUtS1NGQWJ3Yy01TXNLc093SmlvNmxxclRfNDVTbGxaM0YwYlN3RVN2bDJzY3dQVzlVR25pd3F6dl9FWE9XOFdFaDNLM2VvZTNuVHBrQmJRM1R5M21aSXV4eWFCbDN0eF9jUllKQ2prQTlWRzNMb0FlY3VpU3NHNkxTY2lhY1hpOVFlSlFWeVBoRDRVcC16c1BkeWczLV9TbzZJdzB4WnlJLU4wWDA3ZTlv?oc=5
+- Trade talks: Trump says US close to getting 'fair deal' with India; adds a 'love us again' twist - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxQczEyOG45bnlsMkkyX1NfekNsOTVKbDdfVG5DdTZzWXZzcXVJZUtmR21HSmtZU1ZFY3pWUEVFeDNxX19fbHo5WmVUR0xpcUNiREdkNzBmYWFIdEZkbUFVc1otMDhaRktYSm
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQczEyOG45bnlsMkkyX1NfekNsOTVKbDdfVG5DdTZzWXZzcXVJZUtmR21HSmtZU1ZFY3pWUEVFeDNxX19fbHo5WmVUR0xpcUNiREdkNzBmYWFIdEZkbUFVc1otMDhaRktYSmFmUW8zc3ltcUw2RE83WHZNa2JKUE91VlNhRnhLZzFNaGdESnRLa1dONTN3Y0pHOWZfdk91WHpUcUViX19jNTF2Q2kzclN4dkE2Y0w5TkRaUVBYc1pMR3F2X01YaGVjc3NkSU9FMlJUSXlYckZfZlpfRUlBQlpoYkNHNGZvRlFIbHE5Qmt0ZjhrbFpMYkRKNTloNDBjNlNkZHR1bDVn0gGLAkFVX3lxTE1ieW9sbFpJb3F0dnd4WjRFWk1Pb0h5S1JwVnRmaldaOU9rVGRkVXMwdldjci1xS0tjUnhiNWpoNzRmck9IY180YUdkT3VOMElEbjBVdzl5b0h1cXNieHhLeUVRbzhUZVdKd3Y3bnhfeGhWNW5wTllGaU1aSHNNT2dUZWtSQmRIOFUxNEJhLUk5S0V3R2NqaWppS3ZORXA4QnJnV3VVNWhGZlp3YjhtRHV1S1djTFRKMzZ2WHdjUjN0ckRkdDdUbTJqUDNxdm9lREJFNnEtbnMtSjM1QWl2bXFwR0R1bE1PeHNpVzdzTzBOdmdQRnBNdVQ1RDd1RldwTWowWG5rSkZ3WWhCcw?oc=5
 
-- NATO Defense Technology Spending by Country in 2024 - Visual Capitalist
-  NATO Defense Technology Spending by Country
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPMDlENnVoTXAyZFVvWUNKb19ZVGxrZVN4UllKMkJpNFo4ZGs5NktkZk11Rk9VV1dBRUc0WWlWYWFnM3pnUjhXM0VSMmZTNUhOME1QM2l1Ti13OGNBSWJ5djhxNUpmdXpSMEVtdW9NWkxJcXg1amExUXc5LXh2U3pNWXFKVmJ2N1FVRWVmS29FTGlsakFHM3JuSGE0MA?oc=5
+- Maharashtra Opposition Fine-Tunes Civic Poll Plan, Says No Request From MNS Yet - NDTV
+  Maharashtra Opposition Fine-Tunes Civic Poll
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeVJSbkVUZjhfdmpkX2VxaWhCX3VVUDFEZlJud1NEWF9kRDRLUVpTRzR5aUhwLWFXdS01M19hNzhFOFFvQnlTdFpFQk02dVEycGRoU25kTkF4eXRlYlc4SmRNOFBzVzlfSXJkSmFGakxjV01HcDh6SklESXd6d0RWR2FNSHVjMFI2YS1XcW4zVUJMbGRYX3hJT3g3a3pITm1VQWpOOG83VEpZY3BqOUdicWFUNkgzQXZi0gHAAUFVX3lxTE9UTllVLUYxOGp2SEtuN25fLTBTRU9JTUVzNG9RQmg4UjhEeUpTdm1UMVFNVWs1SHl0V01KOUZGVW1mY2VETTJ0cFRyMUNHcnRLOGNUWjZpNDlaTzNUaEFsY3FUa05NZFRNdHlvN0dCNVJJWWJtRVA1cEtiSU5wYTdHX2d1aXpTX2tyMWZtV3NfbWFXMnQ2T2tFRGI4NFpUejN1MGZ5RjdqU2NndUN0TUFuTUhORGRIUTVhZk95NlYzeA?oc=5
 
-- Huawei flags $630mn in revenue from licensing patents and technology - Nikkei Asia
-  Huawei flags $630mn in revenue from
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjZaY2xLV2t4cUhpcWtTLV9YZGZaZTYyeVlFY2pweXh4aEQwYjJlUUpSOEhiVXk2eEVpc1I5ZExCdDIwZC1qQlFrUXZmYk5sbjkyaWhiaGFjOFV2UFpXUWw5cWVLY3VMTllMYlZsV25MUm0yUFJPaEFucnRSS0xKRUFpOFJPUnRfejBsbzBIRVhaZTE2ZndXUVk4UEVOUkpiaW9vWUhsUlZIRkhJZXNwag?oc=5
+- In US Posts On Blasts, "Terrorism" In Pak And "Terrible Explosion" In India - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVc5SndhS2h3WjRYaXFGSlpVQXZfRm5CaktKZGtXLVh6NURkUGFvUnowb0hzZmd4dDEzZHR1OER0MTc0clYtOHpLUmlBZ04wQ1RHU19FMXVlTGdyRWZwek1meGNNOS1yTX
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVc5SndhS2h3WjRYaXFGSlpVQXZfRm5CaktKZGtXLVh6NURkUGFvUnowb0hzZmd4dDEzZHR1OER0MTc0clYtOHpLUmlBZ04wQ1RHU19FMXVlTGdyRWZwek1meGNNOS1yTXZmYTBHNDdraWZLa2Fyd2VQajhOcW9zTnFtbFBrOWJnX2xvcTJJMjRteFY4V09NcXpxcmFPTnc1cWcyblgzeDl2LW9FVjdZ0gG3AUFVX3lxTE9oYjBYSTdyRTdUM05GRnlQNDV3Nm5ndjY4RlMyRTZpX3VubGdYcVpCaHA4RF95c3Q3aV9lODdCQUdFdWY3QzZnMXFveG5MczZ6VS04QjhzZ1hJa2JWbTRVUEFveU1aeHVrV0J0Rl9PV216OEFOMGRKNTBzbVU2X2JtUE5vbTFCNmtPZGhWUUdqMnpnWnRLN0ZSaExmMjlHSFVYNUJlWlRpdHcyUjNTV0FHa3dhOWg0TQ?oc=5
 
-- At COP30 in Belém, Brazil, Chinese Technology Is Shifting Climate Politics - The New York Times
-  At COP30 in Belém, Brazil, Chinese Technology
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0plNlVtRUVoazh6Tm9yYnpMeWYySWJUZEpGWlpTY2JRM1M1by1NQ1hmc0R1bWtLTDFaRV9ZZzEtWE5BdjVfMFFnMWstRk1RN3ppR0NqekhGS0VXUFFIR0ZNdUJsOGNzQ0FodEhWaWwzR1VFWERUTVNnckg2NTZKaFI4WTE2eXhFWXU3NkxwSFh2dUNLcHc?oc=5
+- Top News Headlines of November 10, 2025 | Red Fort blast ripples in Bihar, police fan out as state votes today - The Indian Express
+  The Indian Express will publish the top news stories of November 10, 2025.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdnE5N205MDk5THNuMnJtaFh6TlZfNjUzUmhiQk5YcHdkcU01YWc3NDNsZVU0NC1ja2pMRWRGdzRTWlBnNFBLTlowamNqc0xhLWljOGl3RVFrVmtTS19oVjJjdlY1RVZwQzl5ekdTRUE0NVdXdUZZN3VGaDdyX1lYTnYzaFR3NDY0d3pfRXBUaXRkM0FGbkQ4bnF5WFhfeld6WkRKeTg3dWFVaDE0ZWJ0MlpxRnB3NnBkNkE0Xzc5Qm9PVFFBV1lieDhwTENlQ0N4c3NaQk9aN2FkLVE5M3ZPV3ljM2pmX1Nw0gHvAUFVX3lxTE1pVHA1WHhDQVhQUTE4SHp1ZVpzaFhjX0IwZmozOWliMWQ3NHhRa0ZLYVF3VTJldnNMNVRjNXRvWXpYRXFsTGZta1p3cDZ1MGl4b29uNDZkT2s2UXdVb1dXZDAzYUpKWU1kYzZfbG5QRVJiWEw1eEF0WmxZRnN0dWlMWU1xNmF6ZGlVYmRiY1llZU1MODlyQ0hWN1pBbFo4M0VIZGtYdmw4TmZmUEtsYkVrNTE1TDFQdmp6QjhRdzh6R3hvX29hdU5jeDN6S0hMLXBrWm5aU2NJYmY5UVlJZ0RKY0lQMDRFRjJHNTJ2UHlr?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-11-11 12:35:12 UTC_
+_Last updated: 2025-11-11 18:26:40 UTC_
