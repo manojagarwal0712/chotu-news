@@ -1,252 +1,204 @@
 # 📰 Daily News Summaries
 
-- News Today Live Updates, 11 November | In pacer Renuka Thakur’s unprecedented success,  her native village of Parsa reclaimed its lost glory
+- Bihar Assembly Election 2025 Exit Polls LIVE Updates: Will Tejashwi be able to end Nitish’s two-decade reign? All eyes on exit polls today
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-11-11-2025-news-headlines-10358234/
+  🔗 https://indianexpress.com/article/india/bihar-assembly-elections-exit-polls-live-updates-nitish-kumar-tejashwi-yadav-jdu-rjd-congress-bjp-10358810/
 
-- Red Fort blast: Police join dots from Pulwama to Faridabad hospital, doctor who went missing after Jaish module bust could be bomber
+- Local polls won’t affect SIR in Kerala, 1 crore forms distributed in state in 1 week: Chief Electoral Officer
   
-  🔗 https://indianexpress.com/article/india/red-fort-blast-pulwana-faridabad-doctor-suspect-bomber-updates-10358568/
+  🔗 https://indianexpress.com/article/india/local-polls-kerala-sir-forms-chief-electoral-officer-10359400/
 
-- Angered by repeated ‘thief’ taunts from villagers, Chhattisgarh teen ‘throws 2 toddler cousins in well’
+- Delhi Red Fort blast: Delhi Airport issues passenger advisory; security screening may take more time
   
-  🔗 https://indianexpress.com/article/india/angered-by-repeated-thief-taunts-from-villagers-chhattisgarh-teen-throws-2-toddler-cousins-in-well-10358125/
+  🔗 https://indianexpress.com/article/india/red-fort-blast-delhi-airport-issues-passenger-advisory-security-screening-may-take-more-time-10359072/
 
-- Elderly ‘faith healer’ arrested after pregnant teen’s body found in septic tank in Assam
+- ‘Terror module’ bust: AK-47 recovery from Anantnag doctor’s locker prompts Valley hospitals to take urgent steps
   
-  🔗 https://indianexpress.com/article/india/elderly-faith-healer-arrested-after-pregnant-teens-body-found-in-septic-tank-in-assam-10358116/
+  🔗 https://indianexpress.com/article/india/terror-module-bust-ak-47-recovery-anantnag-doctors-locker-prompts-10359143/
 
-- Gangster ‘involved in Disha Patani house shooting’ arrested in Rajasthan
+- Red Fort blast: DNA from Umar Nabi’s mother could prove crucial link in confirming bomber’s identity
   
-  🔗 https://indianexpress.com/article/india/gangster-involved-in-disha-patani-house-shooting-arrested-in-rajasthan-10358124/
+  🔗 https://indianexpress.com/article/india/dna-umar-nabi-mother-link-confirming-bombers-identity-10359018/
 
-- OpenAI considers consumer health tools in push beyond core AI offerings: Report
+- Jio Prepaid Plans 2025: Best OTT plans with free Netflix, Prime Video, Hotstar, and more
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-considers-consumer-health-tools-in-push-beyond-core-ai-offerings-report-10358452/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/jio-prepaid-plans-2025-best-ott-plans-with-free-netflix-prime-video-hotstar-and-more-10359290/
 
-- What whales can teach us about cancer
+- OnePlus 15: Launch date, expected price in India, features, specifications and everything you need to know
   
-  🔗 https://indianexpress.com/article/technology/science/what-whales-can-teach-us-about-cancer-10358381/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/oneplus-15-launch-date-price-india-features-specifications-10359201/
 
-- What is ‘Landfall’ spyware, and how was it used to target Samsung Galaxy phones?
+- Blue Origin postpones launch of its first NASA mission on New Glenn rocket. Check details of next attempt
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/what-is-landfall-spyware-samsung-galaxy-phones-android-targets-10356852/
+  🔗 https://indianexpress.com/article/technology/science/blue-origin-postpones-first-nasa-mission-new-glenn-rocket-check-details-next-attempt-10359084/
 
-- Apple to expand iPhone satellite features with offline maps, photo messaging: Report
+- Meta’s new speech-to-text AI models cover 1,600 languages, including rare Indian dialects
   
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/apple-to-expand-iphone-satellite-features-with-offline-maps-photo-messaging-report-10356641/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-speech-to-text-ai-models-1600-languages-indian-dialects-10359125/
 
-- Perplexity’s AI browser ‘Comet’ coming to Android: Follow these steps for early access
+- India’s smartphone market hits 5-year high as Apple leads premium segment
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/perplexity-comet-android-follow-steps-early-access-10356526/
+  🔗 https://indianexpress.com/article/technology/indias-smartphone-market-hits-5-year-high-as-apple-leads-premium-segment-10359109/
 
-- Asian Paints Q2 preview: Will the market leader blink as rivals trade margins for market share?
-  Berger Paints declares that it is open to sacrificing margins to protect its turf. Competition in the paints industry has intensified after the entry
-  🔗 https://www.livemint.com/companies/asian-paints-q2-earnings-berger-birla-opus-jsw-paints-paint-makers-diwali-rain-market-share-kansai-nerolac-11762837058345.html
+- SoftBank sells Nvidia stake for $5.8 billion to fund AI investments — What does it mean for shareholders?
+  SoftBank Group's sale of the Nvidia stake reflects a shift of focus on OpenAI. It highlights its positive outlook on AI investments.
+  🔗 https://www.livemint.com/companies/news/softbank-sells-nvidia-stake-for-5-8-billion-to-fund-ai-investments-what-does-it-mean-for-shareholders-11762861139365.html
 
-- Tata Steel Q2 preview: Another crucial quarter as Europe turnaround and India expansion remain key tests
-  Tata Steel’s Q2 results tomorrow will test its Europe revival plans, UK profitability drive, and India
-  🔗 https://www.livemint.com/companies/tata-steel-q2-europe-turnaround-india-expansion-iron-ore-decarbonization-profit-tariff-wars-sales-prices-11762782880747.html
+- Warren Buffett shares near-death experience in farewell letter: ‘Surprised by my luck in being alive’
+  Warren Buffett, at 95, reflects on his near-death experience from
+  🔗 https://www.livemint.com/companies/people/warren-buffett-shares-near-death-experience-in-farewell-letter-surprised-by-my-luck-in-being-alive-11762840091596.html
 
-- Kae Capital’s maiden fund wins big from part exits in Porter &amp; HealthKart
-  Kae Capital’s maiden $25 mn fund delivers over 5x
-  🔗 https://www.livemint.com/companies/start-ups/kae-capital-s-maiden-fund-wins-big-from-part-exits-in-porter-healthkart-11762828335038.html
+- Vodafone Idea, on a comeback trail, looks for a COO after Abhijit Kishore was elevated CEO
+  The telco has to catch up with rivals Jio and Airtel on subscribers and average revenue per user. A new COO along with CEO Abhijit Kishore are expected
+  🔗 https://www.livemint.com/companies/news/vodafone-idea-coo-hunt-ceo-government-agr-jio-airtel-11762846006106.html
 
-- Warren Buffett’s farewell letter to Berkshire Hathaway shareholders: ‘I’m going quiet’ - Key takeaways
-  Warren Buffett announced that he will stop writing annual reports and step down as CEO of Berkshire Hathaway. He reflected on his life in Omaha and expressed gratitude for his
-  🔗 https://www.livemint.com/companies/people/warren-buffett-s-farewell-letter-to-berkshire-hathaway-shareholders-i-m-going-quiet-key-takeaways-11762821431354.html
+- Biscuit maker Anmol Industries puts fundraising back on the table, hires PwC
+  The fresh fundraising will give Anmol the necessary boost to double down in its existing geographies
+  🔗 https://www.livemint.com/companies/anmol-industries-talks-pwc-fundraise-biscuit-makers-urbanization-britannia-parle-itc-haldiram-11762837577290.html
 
-- Telangana govt sells less than an acre land in Hyderabad for  ₹160.42 crore in state record
-   Hyderabad-based developer Vamsiram Builders bought the 0.97-acre plot. The land parcel will be used for
-  🔗 https://www.livemint.com/companies/news/hyderabad-real-estate-land-deal-state-record-premium-mixed-used-development-project-vamsiram-builders-11762790776379.html
+- Bhavish Aggarwal pledges more Ola Electric shares for loans as stock continues to slide
+  This is the third time Aggarwal has pledged his Ola Electric shares since the company went public in August 2024. He previously did so in November 2024 and February to fund his private AI venture Krut
+  🔗 https://www.livemint.com/companies/news/bhavish-aggarwal-ola-electric-shares-for-loans-stock-slide-ather-tvs-ipo-debt-evs-11762834693826.html
 
-- Bharat Electronics shares extend rally for third straight session on  ₹792 crore order win, rise 2%
-  Bharat Electronics Ltd (BEL) continued its upward trend, gaining 2% to  ₹425.50 after announcing new orders worth
-  🔗 https://www.livemint.com/market/stock-market-news/bharat-electronics-shares-extend-rally-for-third-straight-session-on-rs-792-crore-order-win-rise-2-11762840352507.html
+- Hindustan Copper Q2 Results: Profit grows 85% YoY to  ₹186 crore on increased income
+  Hindustan Copper posted around 85 per cent rise in consolidated net profit at  ₹186
+  🔗 https://www.livemint.com/market/stock-market-news/hindustan-copper-q2-results-profit-grows-85-yoy-to-rs-186-crore-on-increased-income-11762864023956.html
 
-- Small-cap stock under  ₹100 jumps despite stock market sell-off; here’s why
-  RDB Infrastructure share price has gained 12% in one month and more than 15% in three months. The smallcap stock has gained 7% on a YTD basis, while it has jumped
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-100-rdb-infrastructure-share-price-jumps-despite-stock-market-sell-off-here-s-why-11762839992654.html
+- PhysicsWallah IPO off to a slow start, sees only 7% bids on Day 1. Check GMP and subscription details
+   PhysicsWallah IPO received bids for 1,31,22,
+  🔗 https://www.livemint.com/market/ipo/physicswallah-ipo-off-to-a-slow-start-sees-only-7-bids-on-day-1-check-gmp-and-subscription-details-11762863563721.html
 
-- Upcoming IPOs: CleanMax, NephroPlus get Sebi nod to float public issue
-  Clean Max Enviro Energy Solutions and NephroPlus have received nod from markets regulator Securities and Exchange Board of India
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-cleanmax-nephroplus-get-sebi-nod-for-public-issue-11762838616304.html
+- Small-cap industrial stock jumps following bounce back in Indian stock market; do you own?
+  Standard Glass share price jumped 3.2% during the intraday session on 11 November 2025. Here's how the company performed in the July-September quarter of
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-industrial-stock-standard-glass-shares-jumps-following-bounce-back-in-indian-stock-market-do-you-own-11762857624601.html
 
-- Mahamaya Lifesciences IPO day 1: GMP, subscription status, price band, other details of BSE SME IPO
-  Mahamaya Lifesciences' IPO opened for subscription on November 11. It is aiming to raise  ₹70.44 crore through a fresh issue and an offer for
-  🔗 https://www.livemint.com/market/ipo/mahamaya-lifesciences-ipo-day-1-gmp-subscription-status-price-band-other-details-of-bse-sme-ipo-11762836503051.html
+- Expert view: US stock market not in bubble territory, says Marcellus' head of global equities
+  US stock market isn't in bubble territory but is marked by extremes, says Arindam Mandal. Large-cap tech is dominating returns
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-us-stock-market-not-in-bubble-territory-says-marcellus-head-of-global-equities-11762859851067.html
 
-- Gold prices today: Check 24 karat and 22 karat rates in Mumbai, Delhi, Bengaluru and other cities on November 11
-  Check gold rates in Mumbai, Bengaluru, Chennai, Hyder
-  🔗 https://www.livemint.com/market/commodities/gold-prices-today-check-24-karat-and-22-karat-rates-in-mumbai-delhi-bengaluru-and-other-cities-on-november-11-11762835920800.html
+- Gold ETFs see solid inflows for 3rd month in a row: Has bullion transitioned from hedge to habit?
+  Net inflows into gold ETFs accelerated from  ₹2,189.51 crore in August, followed by a record buying of  $8
+  🔗 https://www.livemint.com/market/commodities/gold-etf-aum-crosses-1-lakh-crore-mark-has-gold-transitioned-from-hedge-to-habit-11762860026001.html
 
-- Apple's iPhone Air demand disappoints, next model reportedly delayed
-  The iPhone Air was initially planned for autumn 2026. The sleek, eSIM-only phone faced muted demand in China.
-  🔗 https://www.livemint.com/technology/tech-news/apples-iphone-air-demand-disappoints-next-model-reportedly-delayed-11762837386357.html
+- WhatsApp Set to Face Stricter Content Moderation Rules in the EU
+  WhatsApp will face stricter rules under the European Union’s content moderation rulebook.
+  🔗 https://www.livemint.com/technology/tech-news/whatsapp-set-to-face-stricter-content-moderation-rules-in-the-eu-11762862127207.html
 
-- Google Gemini turns study partner for midterm season: 3 Must-try prompts to check before exams
-  Google is positioning its Gemini app as a personalised study partner for students this exam season. It helps them upload notes, summarise readings, clarify concepts, and create custom quizzes.
-  🔗 https://www.livemint.com/technology/tech-news/google-gemini-turns-study-partner-for-midterm-season-3-must-try-prompts-for-revision-11762833431084.html
+- Microsoft launches Xbox Cloud Gaming in India: Here's how to start streaming games on your phone, PC and TV
+  Microsoft Game Pass plans begin at  ₹499/month and users also need to have a compatible controller to play most games. Xbox Cloud Gaming is now
+  🔗 https://www.livemint.com/technology/tech-news/microsoft-launches-xbox-cloud-gaming-in-india-heres-how-to-start-streaming-games-on-your-phone-pc-and-tv-11762856540423.html
 
-- OnePlus 15 to launch in India on November 13 with Snapdragon 8 Elite Gen 5 SoC: Price, specs and early sale details leak
-  The OnePlus 15 is set to launch in India on November 13. It is expected to debut with the Snapdragon 8 Elite Gen 5 chip and a 7,300mAh battery.
-  🔗 https://www.livemint.com/technology/tech-news/oneplus-15-to-launch-in-india-on-november-13-with-snapdragon-8-elite-gen-5-soc-price-specs-and-early-sale-details-leak-11762826683519.html
+- AI holds immense potential to transform healthcare delivery, says CII Healthcare Council
+  Artificial Intelligence (AI) could become a key tool in reshaping how healthcare is delivered. The Summit, held in New Delhi under the theme "Adding Life to Years in the Age of Artificial Intelligence," focused on how technology can help
+  🔗 https://www.livemint.com/technology/tech-news/ai-holds-immense-potential-to-transform-healthcare-delivery-says-cii-healthcare-council-11762860132517.html
 
-- Is Wizard 101 game down? Players report login and connection issues
-  Wizard101 is experiencing server issues, with over 1,151 reports on Downdetector. 82% users faced connection problems
-  🔗 https://www.livemint.com/technology/tech-news/is-wizard-101-game-down-users-report-issues-with-servers-11762826010313.html
+- Fortnite servers down for v38.10 update: Here’s when downtime ends and what’s new in the Simpsons crossover
+  Fortnite servers are down for the v38.10 update on November 11. Here�
+  🔗 https://www.livemint.com/technology/fortnite-servers-down-for-v38-10-update-here-s-when-downtime-ends-and-what-s-new-in-the-simpsons-crossover-11762857861930.html
 
-- EU Eyes Banning Huawei From Mobile Networks of Member Countries
-  The European Commission is exploring ways to force European Union member states to phase out Huawei Technologies Co. and ZTE Corp.
-  🔗 https://www.livemint.com/technology/tech-news/eu-eyes-banning-huawei-from-mobile-networks-of-member-countries-11762798143670.html
+- Meta AI Chief gives valuable advice to young teens, says learn from Bill Gates and Mark Zuckerberg
+   Meta's AI chief Alexandr Wang issued an important advice for 13 year old's. He told them to spend all their time learning to
+  🔗 https://www.livemint.com/technology/tech-news/meta-ai-chief-gives-valuable-advice-to-young-teens-says-learn-from-bill-gates-and-mark-zuckerberg-11762851372415.html
 
-- Stocks Rally on Bets Shutdown Endgame Is in Sight: Markets Wrap - Bloomberg.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTNjdTYyeDBqT1NzN3BSdklDRzV4Vm5kcHA0UDZHZDE3LXJCeHNTZ3FNQ19sQVRuSkw0VmxxX1EwOEpBdlh0WlRYWV9lY2ZWMEtJUmo5TDFENGxrTFNhTS1lTWQtWXZuU2
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTNjdTYyeDBqT1NzN3BSdklDRzV4Vm5kcHA0UDZHZDE3LXJCeHNTZ3FNQ19sQVRuSkw0VmxxX1EwOEpBdlh0WlRYWV9lY2ZWMEtJUmo5TDFENGxrTFNhTS1lTWQtWXZuU202WW1sdkhRU2owNjVNdEtKREJxZzlLNjJJNmxxUUJvMEhwUFRZelZzZ2FHWTktd0pLUUQxenB4VXI1bUlLSE5aeUVlUE8zNnBB?oc=5
+- UK's Vodafone to increase dividend for first time in 8 years, shares rise 5%
+  Vodafone shareholders will be rewarded with the first dividend increase in eight years. A return to growth in Germany helped the European
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/uks-vodafone-to-increase-dividend-for-first-time-in-8-years-shares-rise-5/articleshow/125249246.cms
 
-- Stock Market LIVE Updates: Sensex down 300 pts, Nifty below 25,500; Bajaj twins, ONGC top losers - Moneycontrol
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ2xISHhrN0k5Ri1TWGRvWUUwYzJYdThncTR4aVhmV0gzMXEzckFCUjZYVGk0LVVndlpiT0ZQaWNTUXp6bFFIXzc0STYwUWVvQXJFNXM2c3lDSkQtclVkczlIQS01bE9Ud1
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ2xISHhrN0k5Ri1TWGRvWUUwYzJYdThncTR4aVhmV0gzMXEzckFCUjZYVGk0LVVndlpiT0ZQaWNTUXp6bFFIXzc0STYwUWVvQXJFNXM2c3lDSkQtclVkczlIQS01bE9Ud1FxNi1LZS1weUM4WE5LQTdzNmQxNTk1U25JT0c5aWtIR0pHYUlnSy0wbS1fVFpMWE56RklIby1ZV3ZkVTBfWFVTMEhKOGxIeFR6UURrdGtDVXhSOXFQeEZoODV5ODJEb3lmR3hhQTVBY3FsZzV4WV9JdkRFQXllQWxkZDVxQ2d0U1E1Zw?oc=5
+- Hindustan Copper Q2 Results: Profit grows 85% to Rs 186 crore
+  Hindustan Copper posted around 85 per cent rise in consolidated net profit at Rs 186.02 crore for
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hindustan-copper-q2-results-profit-grows-85-to-rs-186-crore/articleshow/125249191.cms
 
-- Small-cap stock under ₹100 jumps despite stock market sell-off; here’s why - livemint.com
-  Small-cap stock under ₹100
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQVlQwaGk4cmw0UWgtNi1JXzNwb0IzM3hON2hOdEVGYUR1c19BYXc3SXcwZmRtZm1YMjZTODJiaEFfNDNkX1UxeDBIYktVUE94XzFDc3BOTUhvN21SeGhYWktXMm9GaFl5bHFMMXNVR1Zic1BVMVA3X2F4b2xaN2FFSkJyMEt5Mm54dldOUjdhSTFCUDNfclNIZm13VlZpU3p5cmM5MjhNQUp5bUhNSWVhZmJ0U2lXWWhLVkF2c2V6XzNLZExtUGFkVWFUekUtYlBPZ3hTQ08xTDFUT3k1WWxNZmtnempJd3FrOF9qVDIzVFZ0b2gweWpoejIyaEttTVJHZzZHZlJR0gGLAkFVX3lxTE9VWjV6QjZGTy1LU3A4QjJRcTBMZG1SZXhpRnZYb1N1Yl9ZMUtBUk5rVHJCMG9ZeUxhbGh2dFliUzE0NFY1N2haNHRTZ0F0Ui1kbURvTEVFR1BLYjlzYjMwRHpMNk1qV3ZONnk2TkVIdDdyZWlhYlM4WVFxWkRJUzFkU3dtLUNodkJKaW41LTBkWTFxeW5MdXd1amVCZXFJU2FuNF9RQW5kVjZJcFRDYVBNeDJWaHJLSTZvLVJ4QnhKRF9MdGZNWXNWaGpYclA0RDFKRG1mcWVQMkNVdGFpeGExeW5jUEgwcWJaZFdRM2h2R2pYYUtRM0g3aTd1OXZzUU1BRGhjSDQwNk9Pbw?oc=5
+- Can bonds build steady secondary income? Jiraaf’s Vineet Agarwal explains
+  Primary income is crucial for evolving lifestyles and financial security. Fixed-income instruments like bonds offer predictable cash flows, acting as a reliable alternative to traditional assets.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/can-bonds-build-steady-secondary-income-jiraafs-vineet-agarwal-explains/articleshow/125248608.cms
 
-- Few stocks driving S&P gains, global markets offering better returns: Andrew Freris - The Economic Times
-  Few stocks driving S&amp;P gains, global markets
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcVFVeW5aTHhkOXJGenpLc2ZCWXI1a01zMzRMZGNlOFZXZU54Y0RxcFJuV2xINm5ZdEN5V3BtNzhvUmVEQ1hHbDBlbElscmJPbl9nd0pTa2l6R3l1NWstejNuYklwY0hxck5LTjhHcGJjTE16SFZrRV9WMmw5U19mTkpKLXpNQXlwWGtaNkxERGpaYURWenNycTlkNHY0a1VrMExzaE9HWkVJMC1oVEtWTGpIWmVzaF9TX0ZVR2REeDlQVG5DQnZRNi1velBCSVVkblJjTV9QbEdhS1A4cDc1ZlVHVGcwNFZnUkHSAe8BQVVfeXFMUGtaVE5XTnlsM1o3eC12SG52ZzhRSXVoQkZUaEdNUTlZS0QyZFhCR09JcFJLbHdFNmZuTjMxUEE5ZUpsbEVRcWt5bHdQOUtEZGRoYUlQY2xWNnFSemFTNlRLWklCMXZXZDlvSWQ2blVjX0dmd2RkbnM0X3ZXc1FxeUdBOGNDVGxuV003bjBvdmpkc1lsY3daaWxnYm9WdHZKOWN5RzlZUTV1ZGd4YThzOXJLcXNsOGgyY1N0WXk5THh5ZzBwaEkxVUhMZVJ5UlRvUE5FazE5LUloUUV1dnhsVG9hNDJsMmExVW9YRVZzaDg?oc=5
+- Commodity Radar: Zinc’s tight inventories bolster fundamentals; favourable charts hint at buying opportunity, says Religare analyst
+  Zinc futures fell 0.8% on MCX to Rs 302.35 as traders cut positions amid sluggish domestic demand.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/commodity-radar-zincs-tight-inventories-bolster-fundamentals-favourable-charts-hint-at-buying-opportunity-says-religare-analyst/articleshow/125248902.cms
 
-- Quality control orders have helped open markets: Officials - Times of India
-  Quality control orders have helped open markets,
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdmlwZFc3V0h3b0tsMm92UWlEcWk4YmZvTm1XdTE4eFN5dUc3LUx2TVBRWGNmc011c0JaYWxhQklCdlRIdXJoeGR5aVAxQ0VRT0tlTWtqYWtMS20xeW1NX2VLOWhlcVFacUdrUlByMkZWVk1zZWdyNm12NEFfWldERVNkY1hWWVNra2ltSDU2aS1TOGhhR2NDck9jczBZMG5fc09ydEFGNVBxQVhXV3JmV0NRX2xFZlFxSy1pajNPZlJGeVdPeWVBMXoyZjNUdmVxX2RicWtmTVc2ek3SAeABQVVfeXFMT2g4N002M0J3QVVOZkd6SEkyMGdPT2VkbG01TWdjU1BuZmtGNFl2YnFBYjRKekNyLXctUFZiTy1qRy15RUhmTnR0NXotMDFJS1RObklTU1VWZXdWTG5oUlBQX2JtaThublhkWFpZeGxmZnhpeXI2YUtLamd1N3JUeHdnXzRaMFhfbVRaOVVMN0Jfay1ER3lyOG0yRGxqWUNQdVREdXFzSjFFWG5QZ1BMOGcyYW5CUklzV1k3MTIyT0M3bzhPQzFZdVA2WnVKZ3ZQbWdKdm1KZkJGeFJ4ZXZ5Sl8?oc=5
+- 10 midcap stocks with strong net profit growth in September ’25 quarter
+  Several NSE Midcap companies reported exceptional year-on-year profit growth in the September 2025 quarter. Hindustan Petroleum, Laurus Labs, and Suzlon Energy led with massive gains.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-midcap-stocks-with-strong-net-profit-growth-in-september-25-quarter/slideshow/125248787.cms
 
-- Suzlon’s multibagger rally stalls despite soaring profits and P/E moderation as stock slips 30% from peak. What's ailing?
-  Suzlon Energy's stock has stalled, slipping 30% from its peak despite soaring profits. Experts suggest the stock is fully priced, with limited upside potential in the short to medium term.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/suzlons-multibagger-rally-stalls-despite-soaring-profits-and-p/e-moderation-as-stock-slips-30-from-peak-whats-ailing/articleshow/125241540.cms
+- Delhi Red Fort blast live: India’s Modi alleges ‘conspiracy’ after 13 dead - Al Jazeera
+  <ol><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObk
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObkpDb2d4OGdtMEFWaDB5cDNkZ0U0R1RWRkkxdlJnc0thcGhwanQ0V0F1Z1l3aHJ5bDgwSlRCYnR0X3VTYi03cGt3MkktVzFlWEFoUjQ3Yi13eEpsOWtmb9IBxAFBVV95cUxNUTgzM2VvcFgtTVlKRG5Pby1EMG1QYnZMNVhKaWtsLTd4MnVPMXd4OGl4RzdJVkRoNGpKMnJWS1hBVWZWQUs2NXJiZG80SHRnSDN4RW5VOG9lM3NpRTI5Tkp2Nm0yQmtaWWI2Yko0YzR2SWlBdlZMNU9Yc3FsZkQ2a3FHSk1DX1BLNDZYTWlocmRqWkJPRzRZZ29pYnBHRGlWcHdxdGNkOWs0M3JPV1Jxa3pFYjkxSVVzOUpCYnZ1T2k0ODVy?oc=5
 
-- Tata Steel Q2 Preview: Revenue may rise 2% YoY; low base to lift profit
-  Analysts expect a 2% rise in revenue and nearly 270% jump in profit year-on-year. India operations offsetting European weakness.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-steel-q2-preview-revenue-may-rise-2-yoy-low-base-to-lift-profit/articleshow/125241479.cms
+- Jaishankar to visit Canada on Nov 12 for G7 meet, signals thaw in bilateral ties | India News - Hindustan Times
+  Jaishankar to visit Canada on Nov 12 for G7 meet, signals th
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSVk1M2hPMm5wNURza3BDLXdfNmkzSTFHZElFREs3bmFsMi1aUjFzS09FVkxmVTBVNTQyMGtUaDRCWWhwNzU2VkV1QXQ3R3lDclBhWWhDN2RiMXN4NTVyemRqVlVhTU5GSS05VXFCTklKV19qMFE1c0hRNzVBYmE1MHlST0czQnVSc3RZaTQ4NlN0TGJtY2xqSWlPQkVqQUpCVDl6YktySHR5eDdQc2tfeThjNFh6dlJQZ3kzd3lXNVJQY0VWMG02Mi1wTHBFX1hhNUVsVU94c05vd9IB3wFBVV95cUxQZ1BMYzBudTgyNENWNGlUR1JMcldjNnhtOTlVOHI4bmVvalFyekpqY3JWdjJhUlZPM3ZCVUNxTEkwVjlUWDhhTThDSVRjOXB1UVNaREcxNjljaUZkNk9oaEZEMFZnSDhCaDhhbmw2ejl1b3lHUmF3VS1KLXpsdi1tWFZXTEZUV1laNklIelRza3NENjVfenNKWEVRU3UzQUJ6SGUzRWxOS21pNFZQYVIxTWcwSVVLV1hlUk5JamNwTk9Db1dfNm1WbUoxazhUUnJaeVJNb2FvYlNOVWZzU1N3?oc=5
 
-- Lenskart shares rise 3% on day 2 of trading after volatile debut. Should you buy, sell or hold?
-  Lenskart shares rose on their second trading day after a volatile debut. Despite strong listing recovery and robust revenue growth, brokerages like Ambit Capital have turned cautious.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lenskart-shares-rise-3-on-day-2-of-trading-after-volatile-debut-should-you-buy-sell-or-hold/articleshow/125241447.cms
+- Microsoft to invest ₹1,772 crore for India's largest quantum computing facility in Amaravati - The Hindu
+  Microsoft to invest ₹1,772 crore for India
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQam56RDVxNVdVRWtOX2NOS2t5ZTBydTdRRk1pQm9QQi03czZadnpPUjRCazFiUHZJZGNKRW42eGNiMUcxd1c2OElRVXpXVV9meHBHNDRmMUpKYUh2MWQ4SXJ0WUlvSFJodUdnMjRIRE5BUXdBOXVYQUYyc0tjbXQzSFRWbnpZZHQ0WUdOQk1oUTNFbzN6S3Fobk9MS25vSnpkUDZvN3dIeFQ4RUpQMFQ5V1VHUWpPaDJUamdsbFJoWS1QanJ4WHl1QkZHUVcxS1RWWUY4S1BEUEJwRFVoN181M281czg5RG10eFduN3hKNWRvZ9IB-AFBVV95cUxOTnBjeVJ1NnRTejBhWHgtYnJBOWJ6NmNZdVRsRExPNW10LWM2SjE0YXVXdW9VaV9Xai1xRDA0TjBtUnl5ZFoxWFN3SUVEYW1VMGxSN2d0eHZ2S291eklHU09Fb0dRQ2dCSHR6aFlRS0Yxa1EyaE5oRTkxaVc3M2tKRy1iRlZ2OVNSZVlPLVFfZjVJUmVBVktudnVkSWxwR3RZbGVRcWNRNDFYZFRGdnF3WFBKbEpmaWxaQm5kUjVydVM3OWxiRmE0UWttVGJlQk1GZjYwTDdYUlJKak9fOThZMWZ6SU1QYkxGd3oyVkhMTVlhX0ltTE00Tg?oc=5
 
-- NALCO shares zoom 12% in 2 days on strong Q2 earnings, brokerage optimism. What should investors do?
-  NALCO shares saw a sharp uptick in two days after reporting strong Q2 results, with net profit up 37% YoY to Rs 1,430 crore. Brokerages including Axis Securities, PL Capital,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nalco-shares-zoom-12-in-2-days-on-strong-q2-earnings-brokerage-optimism-what-should-investors-do/articleshow/125241402.cms
-
-- Infosys share buyback: What should investors do ahead of November 14 record date?
-  Infosys' share buyback, with a record date of November 14, is drawing investor attention. Shareholders approved the proposal, which is the company's largest ever. Experts
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/infosys-share-buyback-what-should-investors-do-ahead-of-november-14-record-date/articleshow/125241330.cms
-
-- Red Fort Blast Live Updates: "Those Responsible For Delhi Blast Won't Be Spared", Says Rajnath Singh - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2JvNDFuazZ2ZXd6eUItYVZkZFlFTzZ5bkxHVWhGY3BuTDRpZC05OHhKcGQ1MTJjOS0zZU9DemEtbXc3Q2xTY014dTlWYnR1cTA4Ykk4clR2MExLMUFLbzNFa2xRMmctOFVCRU1meE1XSG11c0Y0REt4a3V3Nnp1X291YVFBenBJcTVkSlJfQkFkTG1ObWJCaVV6TnZJci11ZDV2N1dVc9IBjwJBVV95cUxPRlA1dGxXemVQVWprQTVRQWJ5LW12anY0Y1dnVExmQ1lhSVcxTGxlZVU3cjFZbTcxQlZUUVNscnkwN2NGdE9DYkNrUERIbmUyMWpsTHZsVHZZREFaZTZfVGhkaUdRYVB0dFYyNERzVGx5Q2hUT2ZoMHJNWXlyemsxNnVsMTc2dmMxY0FhSEtiSzA1TDlkUGJOeTBvT1FBRzRzSFVpcGdBR00yczNUNUxXYU9zODZaOElYckdCdmlpY1ZEOGZUa3RGNVhpam4ySExFNHk5ZnFPQ3l3b1phMnlITlBNNTZDZ3VlNVdtVTE2M0cyemtKUE9RNmZqbTlJNkhvMEdtYnMtb2JFRXlHWWJV?oc=5
-
-- They'll love us again: Trump hints at tariff cuts in fair trade deal with India - India Today
-  India Today: Trump hints at tariff cuts in fair trade deal with India
+- They'll love us again: Trump says tariffs on India to be reduced in fair trade deal - India Today
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd283RWwyMGs4OFVGcHdHbmxQWHpLTU1XbjZ3T1YyMnk5bkVhQlFnR3lCa1lPZTQ0M3lLR1REVWoyeXB4ZWtya29ZeEt3OHUwN29Fa2VkaEhpTUNQVGFTSks2dk9QVHpsX3
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd283RWwyMGs4OFVGcHdHbmxQWHpLTU1XbjZ3T1YyMnk5bkVhQlFnR3lCa1lPZTQ0M3lLR1REVWoyeXB4ZWtya29ZeEt3OHUwN29Fa2VkaEhpTUNQVGFTSks2dk9QVHpsX3ZycVBqVThNb09kZERwdU1oNnFLcnhlbXdMWnBOcmZGLXNFS0VjS2hVOG8zQ1VTYXh1UFJQMjI0ZzNyejdQVy01bzkwSmJUejFYdUYtdVkwdlBB0gHAAUFVX3lxTE9LeXV2R1VjNzdwMThnVVZUV1FBdlVJSTZvZTNhdDIxV05vT3E0T25zcWNZSVRYN2tWYmYxOUlPMkowMDQ0MlBpdUpNV28xX09DVW5KLVc1N1RMc2pZY1JjLVJ5OHc5VmZMaTgzUHhQMm52YndFMkY4WDZXTnprbzhUYlMxOG4xT0NsbnhfNXlERkhKb3VwNFl6eWYya2VSLXdiNDUxdGd2ZV9xS0dmaFBERXZ4Tmt5ZjNiZkhDX1BwNQ?oc=5
 
-- Trump Says US "Getting Close" To Reaching A "Fair Trade Deal" With India - NDTV
-  Trump says US "Getting Close" To Reaching a
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzhyRDdCU0h0SVo4T1pwUXlBSUVNNlRybmZlV05KOGZ1aFR0b3pmMkdUWUhnRWQtbXV4TkdDRWpRck91S1cteHVkZUNuWVJ2ei0zM3Bsb2RucVZONW9OMXk3aDh4RjIxUWRwd3BZbS13c1R4eE0wRk5YVFNxaE1MakhYTjEzLVBpUDhYSUZpM1R3M0R4VmNsVGw0dlc1cGp4ZURPMnNyYkF3eGVB0gG0AUFVX3lxTFBnM3Fyb2FGNzdpR09wNS1fbFBSQVYxNFY3RUlYNU9vVEJHZEdSRjg2MnlpOUFsWDRtTEFEZnZsSDFiaW1mVXlTbnhaS05yRk9UZ2FhWjJ5WVdHd2p1blhEQWg5WjFzRE9SaTZzY2lMWmw5eUJxRVFOZURaYWRuV0lYbG9xTkhCOUo2NXY2ZlExUVo2Y200WC14eFU5NC1BOHRfRXI1dURzNXVxYnBTeldfT2lOTw?oc=5
+- India, China look to restart cultural, people exchanges - Times of India
+  India, China look to restart cultural,
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFNOVVlmNTl6VEJtVE93VHI4dUtFZ01yOWo0bWVsZXZidkJESUZkX3pVUHdDajlYbTdaT0MxdzBfUW5BZU9BVjdCanZvbEV3Wk5lQVNySzF5UU1QQzVSSlJLYzVFM1RjSHYxVlp3ZlRLMXNuTDAxLUNSaG04UUtELVVBUENackRsM3JJb3pPSlhhem9IZVlJamxVLUJsREpLY0szdkZLRUVlWDMxdlZCTFVFWEVtWFZ1b1VtNWF30gHDAUFVX3lxTE41a1ZkTzRRb3Raak5MNTVTTS01Y3RNUDRHMl9hWndhMzhhQlh5ZEFsb01zLVo5cE5NdDlaRGJwUEhhUHpTTUdmUWRCVTM3UWdfVlAxVmxWaFRvNDc2c1B3SzdYejdOVXNNUl9jZFRMNHFTZ2hRRWJldXNfM252Y3hsd3FCaUphOGpON0FCTUhZd0c3dE1TYWtmZnlFaEJKZFIzOWZ6UmpGa181SHVXSFV0WlFDMzFfOVg3SUEyQUJ2ZHpZSQ?oc=5
 
-- India, US trade deal not priced in yet; can bring back FII flows: Analysts - Business Standard
-  India, US trade deal not priced in yet; can bring back
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbmJwaE45WFZpdkpnem1tbXMxaV9Hb1YyWmdsTDI0SXR1RGtGcDdMcjVPd2RCUDFoTWVDaFh5MVV3Z2dJTkUxMzh4b2F6dGxGb01NWXBTUUhOZFRwT0JwOU9NbW1mYTlzWmVzMVFlcjFtbnZyUms1ZWhHQ1l5S29XMzBQQU9oeGZvVjJLM0ZPOTZGaDBwRDNJSHJPcVg1SmFXdDdsY2xyT1ZkNUpwcU5QckJrVE9GOWMwMmFKVFY3OGxWY05WWWFFMjFxUFRVNlFVMVR5aw?oc=5
+- Delhi Red Fort blast live: India’s Modi alleges ‘conspiracy’ after 13 dead - Al Jazeera
+  <ol><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObk
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObkpDb2d4OGdtMEFWaDB5cDNkZ0U0R1RWRkkxdlJnc0thcGhwanQ0V0F1Z1l3aHJ5bDgwSlRCYnR0X3VTYi03cGt3MkktVzFlWEFoUjQ3Yi13eEpsOWtmb9IBxAFBVV95cUxNUTgzM2VvcFgtTVlKRG5Pby1EMG1QYnZMNVhKaWtsLTd4MnVPMXd4OGl4RzdJVkRoNGpKMnJWS1hBVWZWQUs2NXJiZG80SHRnSDN4RW5VOG9lM3NpRTI5Tkp2Nm0yQmtaWWI2Yko0YzR2SWlBdlZMNU9Yc3FsZkQ2a3FHSk1DX1BLNDZYTWlocmRqWkJPRzRZZ29pYnBHRGlWcHdxdGNkOWs0M3JPV1Jxa3pFYjkxSVVzOUpCYnZ1T2k0ODVy?oc=5
 
-- Saudi delegation to visit India to showcase investment opportunities - The Hindu
-  Saudi delegation to visit India to showcase investment
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOUTZRSHdRZ1ZjQTlmbXRuVWIwZkRXdFF1WXNMa1dfdzB2bk1CX2lGODdfYnY0WDhwQ2hia3lDTFFCNVhfYmltWm5PY2phZkx5UmJwODR0SDZjRURrLXEwS3pVeU1kdEVXc2lOX3JvUDR1bnMyMXp0bDItV3RkeTRVRF9pZk5PcG1kc3pEUDlLY243WEU4Y1RWZ1BoVFFDQ05iTmdWNXJOSEcweGRwanZaRWk1QzB3VXoyRDFxb2hZaXhOUU1MS0VWRnJFOWI?oc=5
+- Jaishankar to visit Canada on Nov 12 for G7 meet, signals thaw in bilateral ties | India News - Hindustan Times
+  Jaishankar to visit Canada on Nov 12 for G7 meet, signals th
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSVk1M2hPMm5wNURza3BDLXdfNmkzSTFHZElFREs3bmFsMi1aUjFzS09FVkxmVTBVNTQyMGtUaDRCWWhwNzU2VkV1QXQ3R3lDclBhWWhDN2RiMXN4NTVyemRqVlVhTU5GSS05VXFCTklKV19qMFE1c0hRNzVBYmE1MHlST0czQnVSc3RZaTQ4NlN0TGJtY2xqSWlPQkVqQUpCVDl6YktySHR5eDdQc2tfeThjNFh6dlJQZ3kzd3lXNVJQY0VWMG02Mi1wTHBFX1hhNUVsVU94c05vd9IB3wFBVV95cUxQZ1BMYzBudTgyNENWNGlUR1JMcldjNnhtOTlVOHI4bmVvalFyekpqY3JWdjJhUlZPM3ZCVUNxTEkwVjlUWDhhTThDSVRjOXB1UVNaREcxNjljaUZkNk9oaEZEMFZnSDhCaDhhbmw2ejl1b3lHUmF3VS1KLXpsdi1tWFZXTEZUV1laNklIelRza3NENjVfenNKWEVRU3UzQUJ6SGUzRWxOS21pNFZQYVIxTWcwSVVLV1hlUk5JamNwTk9Db1dfNm1WbUoxazhUUnJaeVJNb2FvYlNOVWZzU1N3?oc=5
 
-- Red Fort Blast Live Updates: "Those Responsible For Delhi Blast Won't Be Spared", Says Rajnath Singh - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2JvNDFuazZ2ZXd6eUItYVZkZFlFTzZ5bkxHVWhGY3BuTDRpZC05OHhKcGQ1MTJjOS0zZU9DemEtbXc3Q2xTY014dTlWYnR1cTA4Ykk4clR2MExLMUFLbzNFa2xRMmctOFVCRU1meE1XSG11c0Y0REt4a3V3Nnp1X291YVFBenBJcTVkSlJfQkFkTG1ObWJCaVV6TnZJci11ZDV2N1dVc9IBjwJBVV95cUxPRlA1dGxXemVQVWprQTVRQWJ5LW12anY0Y1dnVExmQ1lhSVcxTGxlZVU3cjFZbTcxQlZUUVNscnkwN2NGdE9DYkNrUERIbmUyMWpsTHZsVHZZREFaZTZfVGhkaUdRYVB0dFYyNERzVGx5Q2hUT2ZoMHJNWXlyemsxNnVsMTc2dmMxY0FhSEtiSzA1TDlkUGJOeTBvT1FBRzRzSFVpcGdBR00yczNUNUxXYU9zODZaOElYckdCdmlpY1ZEOGZUa3RGNVhpam4ySExFNHk5ZnFPQ3l3b1phMnlITlBNNTZDZ3VlNVdtVTE2M0cyemtKUE9RNmZqbTlJNkhvMEdtYnMtb2JFRXlHWWJV?oc=5
+- Microsoft to invest ₹1,772 crore for India's largest quantum computing facility in Amaravati - The Hindu
+  Microsoft to invest ₹1,772 crore for India
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQam56RDVxNVdVRWtOX2NOS2t5ZTBydTdRRk1pQm9QQi03czZadnpPUjRCazFiUHZJZGNKRW42eGNiMUcxd1c2OElRVXpXVV9meHBHNDRmMUpKYUh2MWQ4SXJ0WUlvSFJodUdnMjRIRE5BUXdBOXVYQUYyc0tjbXQzSFRWbnpZZHQ0WUdOQk1oUTNFbzN6S3Fobk9MS25vSnpkUDZvN3dIeFQ4RUpQMFQ5V1VHUWpPaDJUamdsbFJoWS1QanJ4WHl1QkZHUVcxS1RWWUY4S1BEUEJwRFVoN181M281czg5RG10eFduN3hKNWRvZ9IB-AFBVV95cUxOTnBjeVJ1NnRTejBhWHgtYnJBOWJ6NmNZdVRsRExPNW10LWM2SjE0YXVXdW9VaV9Xai1xRDA0TjBtUnl5ZFoxWFN3SUVEYW1VMGxSN2d0eHZ2S291eklHU09Fb0dRQ2dCSHR6aFlRS0Yxa1EyaE5oRTkxaVc3M2tKRy1iRlZ2OVNSZVlPLVFfZjVJUmVBVktudnVkSWxwR3RZbGVRcWNRNDFYZFRGdnF3WFBKbEpmaWxaQm5kUjVydVM3OWxiRmE0UWttVGJlQk1GZjYwTDdYUlJKak9fOThZMWZ6SU1QYkxGd3oyVkhMTVlhX0ltTE00Tg?oc=5
 
-- They'll love us again: Trump hints at tariff cuts in fair trade deal with India - India Today
-  India Today: Trump hints at tariff cuts in fair trade deal with India
+- They'll love us again: Trump says tariffs on India to be reduced in fair trade deal - India Today
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd283RWwyMGs4OFVGcHdHbmxQWHpLTU1XbjZ3T1YyMnk5bkVhQlFnR3lCa1lPZTQ0M3lLR1REVWoyeXB4ZWtya29ZeEt3OHUwN29Fa2VkaEhpTUNQVGFTSks2dk9QVHpsX3
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd283RWwyMGs4OFVGcHdHbmxQWHpLTU1XbjZ3T1YyMnk5bkVhQlFnR3lCa1lPZTQ0M3lLR1REVWoyeXB4ZWtya29ZeEt3OHUwN29Fa2VkaEhpTUNQVGFTSks2dk9QVHpsX3ZycVBqVThNb09kZERwdU1oNnFLcnhlbXdMWnBOcmZGLXNFS0VjS2hVOG8zQ1VTYXh1UFJQMjI0ZzNyejdQVy01bzkwSmJUejFYdUYtdVkwdlBB0gHAAUFVX3lxTE9LeXV2R1VjNzdwMThnVVZUV1FBdlVJSTZvZTNhdDIxV05vT3E0T25zcWNZSVRYN2tWYmYxOUlPMkowMDQ0MlBpdUpNV28xX09DVW5KLVc1N1RMc2pZY1JjLVJ5OHc5VmZMaTgzUHhQMm52YndFMkY4WDZXTnprbzhUYlMxOG4xT0NsbnhfNXlERkhKb3VwNFl6eWYya2VSLXdiNDUxdGd2ZV9xS0dmaFBERXZ4Tmt5ZjNiZkhDX1BwNQ?oc=5
 
-- Trump Says US "Getting Close" To Reaching A "Fair Trade Deal" With India - NDTV
-  Trump says US "Getting Close" To Reaching a
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzhyRDdCU0h0SVo4T1pwUXlBSUVNNlRybmZlV05KOGZ1aFR0b3pmMkdUWUhnRWQtbXV4TkdDRWpRck91S1cteHVkZUNuWVJ2ei0zM3Bsb2RucVZONW9OMXk3aDh4RjIxUWRwd3BZbS13c1R4eE0wRk5YVFNxaE1MakhYTjEzLVBpUDhYSUZpM1R3M0R4VmNsVGw0dlc1cGp4ZURPMnNyYkF3eGVB0gG0AUFVX3lxTFBnM3Fyb2FGNzdpR09wNS1fbFBSQVYxNFY3RUlYNU9vVEJHZEdSRjg2MnlpOUFsWDRtTEFEZnZsSDFiaW1mVXlTbnhaS05yRk9UZ2FhWjJ5WVdHd2p1blhEQWg5WjFzRE9SaTZzY2lMWmw5eUJxRVFOZURaYWRuV0lYbG9xTkhCOUo2NXY2ZlExUVo2Y200WC14eFU5NC1BOHRfRXI1dURzNXVxYnBTeldfT2lOTw?oc=5
+- India, China look to restart cultural, people exchanges - Times of India
+  India, China look to restart cultural,
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFNOVVlmNTl6VEJtVE93VHI4dUtFZ01yOWo0bWVsZXZidkJESUZkX3pVUHdDajlYbTdaT0MxdzBfUW5BZU9BVjdCanZvbEV3Wk5lQVNySzF5UU1QQzVSSlJLYzVFM1RjSHYxVlp3ZlRLMXNuTDAxLUNSaG04UUtELVVBUENackRsM3JJb3pPSlhhem9IZVlJamxVLUJsREpLY0szdkZLRUVlWDMxdlZCTFVFWEVtWFZ1b1VtNWF30gHDAUFVX3lxTE41a1ZkTzRRb3Raak5MNTVTTS01Y3RNUDRHMl9hWndhMzhhQlh5ZEFsb01zLVo5cE5NdDlaRGJwUEhhUHpTTUdmUWRCVTM3UWdfVlAxVmxWaFRvNDc2c1B3SzdYejdOVXNNUl9jZFRMNHFTZ2hRRWJldXNfM252Y3hsd3FCaUphOGpON0FCTUhZd0c3dE1TYWtmZnlFaEJKZFIzOWZ6UmpGa181SHVXSFV0WlFDMzFfOVg3SUEyQUJ2ZHpZSQ?oc=5
 
-- India, US trade deal not priced in yet; can bring back FII flows: Analysts - Business Standard
-  India, US trade deal not priced in yet; can bring back
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbmJwaE45WFZpdkpnem1tbXMxaV9Hb1YyWmdsTDI0SXR1RGtGcDdMcjVPd2RCUDFoTWVDaFh5MVV3Z2dJTkUxMzh4b2F6dGxGb01NWXBTUUhOZFRwT0JwOU9NbW1mYTlzWmVzMVFlcjFtbnZyUms1ZWhHQ1l5S29XMzBQQU9oeGZvVjJLM0ZPOTZGaDBwRDNJSHJPcVg1SmFXdDdsY2xyT1ZkNUpwcU5QckJrVE9GOWMwMmFKVFY3OGxWY05WWWFFMjFxUFRVNlFVMVR5aw?oc=5
+- Delhi Red Fort blast live: India’s Modi alleges ‘conspiracy’ after 13 dead - Al Jazeera
+  <ol><li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObk
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObkpDb2d4OGdtMEFWaDB5cDNkZ0U0R1RWRkkxdlJnc0thcGhwanQ0V0F1Z1l3aHJ5bDgwSlRCYnR0X3VTYi03cGt3MkktVzFlWEFoUjQ3Yi13eEpsOWtmb9IBxAFBVV95cUxNUTgzM2VvcFgtTVlKRG5Pby1EMG1QYnZMNVhKaWtsLTd4MnVPMXd4OGl4RzdJVkRoNGpKMnJWS1hBVWZWQUs2NXJiZG80SHRnSDN4RW5VOG9lM3NpRTI5Tkp2Nm0yQmtaWWI2Yko0YzR2SWlBdlZMNU9Yc3FsZkQ2a3FHSk1DX1BLNDZYTWlocmRqWkJPRzRZZ29pYnBHRGlWcHdxdGNkOWs0M3JPV1Jxa3pFYjkxSVVzOUpCYnZ1T2k0ODVy?oc=5
 
-- Saudi delegation to visit India to showcase investment opportunities - The Hindu
-  Saudi delegation to visit India to showcase investment
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOUTZRSHdRZ1ZjQTlmbXRuVWIwZkRXdFF1WXNMa1dfdzB2bk1CX2lGODdfYnY0WDhwQ2hia3lDTFFCNVhfYmltWm5PY2phZkx5UmJwODR0SDZjRURrLXEwS3pVeU1kdEVXc2lOX3JvUDR1bnMyMXp0bDItV3RkeTRVRF9pZk5PcG1kc3pEUDlLY243WEU4Y1RWZ1BoVFFDQ05iTmdWNXJOSEcweGRwanZaRWk1QzB3VXoyRDFxb2hZaXhOUU1MS0VWRnJFOWI?oc=5
+- Jaishankar to visit Canada on Nov 12 for G7 meet, signals thaw in bilateral ties | India News - Hindustan Times
+  Jaishankar to visit Canada on Nov 12 for G7 meet, signals th
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSVk1M2hPMm5wNURza3BDLXdfNmkzSTFHZElFREs3bmFsMi1aUjFzS09FVkxmVTBVNTQyMGtUaDRCWWhwNzU2VkV1QXQ3R3lDclBhWWhDN2RiMXN4NTVyemRqVlVhTU5GSS05VXFCTklKV19qMFE1c0hRNzVBYmE1MHlST0czQnVSc3RZaTQ4NlN0TGJtY2xqSWlPQkVqQUpCVDl6YktySHR5eDdQc2tfeThjNFh6dlJQZ3kzd3lXNVJQY0VWMG02Mi1wTHBFX1hhNUVsVU94c05vd9IB3wFBVV95cUxQZ1BMYzBudTgyNENWNGlUR1JMcldjNnhtOTlVOHI4bmVvalFyekpqY3JWdjJhUlZPM3ZCVUNxTEkwVjlUWDhhTThDSVRjOXB1UVNaREcxNjljaUZkNk9oaEZEMFZnSDhCaDhhbmw2ejl1b3lHUmF3VS1KLXpsdi1tWFZXTEZUV1laNklIelRza3NENjVfenNKWEVRU3UzQUJ6SGUzRWxOS21pNFZQYVIxTWcwSVVLV1hlUk5JamNwTk9Db1dfNm1WbUoxazhUUnJaeVJNb2FvYlNOVWZzU1N3?oc=5
 
-- Red Fort Blast Live Updates: "Those Responsible For Delhi Blast Won't Be Spared", Says Rajnath Singh - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2JvNDFuazZ2ZXd6eUItYVZkZFlFTzZ5bkxHVWhGY3BuTDRpZC05OHhKcGQ1MTJjOS0zZU9DemEtbXc3Q2xTY014dTlWYnR1cTA4Ykk4clR2MExLMUFLbzNFa2xRMmctOFVCRU1meE1XSG11c0Y0REt4a3V3Nnp1X291YVFBenBJcTVkSlJfQkFkTG1ObWJCaVV6TnZJci11ZDV2N1dVc9IBjwJBVV95cUxPRlA1dGxXemVQVWprQTVRQWJ5LW12anY0Y1dnVExmQ1lhSVcxTGxlZVU3cjFZbTcxQlZUUVNscnkwN2NGdE9DYkNrUERIbmUyMWpsTHZsVHZZREFaZTZfVGhkaUdRYVB0dFYyNERzVGx5Q2hUT2ZoMHJNWXlyemsxNnVsMTc2dmMxY0FhSEtiSzA1TDlkUGJOeTBvT1FBRzRzSFVpcGdBR00yczNUNUxXYU9zODZaOElYckdCdmlpY1ZEOGZUa3RGNVhpam4ySExFNHk5ZnFPQ3l3b1phMnlITlBNNTZDZ3VlNVdtVTE2M0cyemtKUE9RNmZqbTlJNkhvMEdtYnMtb2JFRXlHWWJV?oc=5
+- Microsoft to invest ₹1,772 crore for India's largest quantum computing facility in Amaravati - The Hindu
+  Microsoft to invest ₹1,772 crore for India
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQam56RDVxNVdVRWtOX2NOS2t5ZTBydTdRRk1pQm9QQi03czZadnpPUjRCazFiUHZJZGNKRW42eGNiMUcxd1c2OElRVXpXVV9meHBHNDRmMUpKYUh2MWQ4SXJ0WUlvSFJodUdnMjRIRE5BUXdBOXVYQUYyc0tjbXQzSFRWbnpZZHQ0WUdOQk1oUTNFbzN6S3Fobk9MS25vSnpkUDZvN3dIeFQ4RUpQMFQ5V1VHUWpPaDJUamdsbFJoWS1QanJ4WHl1QkZHUVcxS1RWWUY4S1BEUEJwRFVoN181M281czg5RG10eFduN3hKNWRvZ9IB-AFBVV95cUxOTnBjeVJ1NnRTejBhWHgtYnJBOWJ6NmNZdVRsRExPNW10LWM2SjE0YXVXdW9VaV9Xai1xRDA0TjBtUnl5ZFoxWFN3SUVEYW1VMGxSN2d0eHZ2S291eklHU09Fb0dRQ2dCSHR6aFlRS0Yxa1EyaE5oRTkxaVc3M2tKRy1iRlZ2OVNSZVlPLVFfZjVJUmVBVktudnVkSWxwR3RZbGVRcWNRNDFYZFRGdnF3WFBKbEpmaWxaQm5kUjVydVM3OWxiRmE0UWttVGJlQk1GZjYwTDdYUlJKak9fOThZMWZ6SU1QYkxGd3oyVkhMTVlhX0ltTE00Tg?oc=5
 
-- They'll love us again: Trump hints at tariff cuts in fair trade deal with India - India Today
-  India Today: Trump hints at tariff cuts in fair trade deal with India
+- They'll love us again: Trump says tariffs on India to be reduced in fair trade deal - India Today
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd283RWwyMGs4OFVGcHdHbmxQWHpLTU1XbjZ3T1YyMnk5bkVhQlFnR3lCa1lPZTQ0M3lLR1REVWoyeXB4ZWtya29ZeEt3OHUwN29Fa2VkaEhpTUNQVGFTSks2dk9QVHpsX3
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd283RWwyMGs4OFVGcHdHbmxQWHpLTU1XbjZ3T1YyMnk5bkVhQlFnR3lCa1lPZTQ0M3lLR1REVWoyeXB4ZWtya29ZeEt3OHUwN29Fa2VkaEhpTUNQVGFTSks2dk9QVHpsX3ZycVBqVThNb09kZERwdU1oNnFLcnhlbXdMWnBOcmZGLXNFS0VjS2hVOG8zQ1VTYXh1UFJQMjI0ZzNyejdQVy01bzkwSmJUejFYdUYtdVkwdlBB0gHAAUFVX3lxTE9LeXV2R1VjNzdwMThnVVZUV1FBdlVJSTZvZTNhdDIxV05vT3E0T25zcWNZSVRYN2tWYmYxOUlPMkowMDQ0MlBpdUpNV28xX09DVW5KLVc1N1RMc2pZY1JjLVJ5OHc5VmZMaTgzUHhQMm52YndFMkY4WDZXTnprbzhUYlMxOG4xT0NsbnhfNXlERkhKb3VwNFl6eWYya2VSLXdiNDUxdGd2ZV9xS0dmaFBERXZ4Tmt5ZjNiZkhDX1BwNQ?oc=5
 
-- Trump Says US "Getting Close" To Reaching A "Fair Trade Deal" With India - NDTV
-  Trump says US "Getting Close" To Reaching a
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzhyRDdCU0h0SVo4T1pwUXlBSUVNNlRybmZlV05KOGZ1aFR0b3pmMkdUWUhnRWQtbXV4TkdDRWpRck91S1cteHVkZUNuWVJ2ei0zM3Bsb2RucVZONW9OMXk3aDh4RjIxUWRwd3BZbS13c1R4eE0wRk5YVFNxaE1MakhYTjEzLVBpUDhYSUZpM1R3M0R4VmNsVGw0dlc1cGp4ZURPMnNyYkF3eGVB0gG0AUFVX3lxTFBnM3Fyb2FGNzdpR09wNS1fbFBSQVYxNFY3RUlYNU9vVEJHZEdSRjg2MnlpOUFsWDRtTEFEZnZsSDFiaW1mVXlTbnhaS05yRk9UZ2FhWjJ5WVdHd2p1blhEQWg5WjFzRE9SaTZzY2lMWmw5eUJxRVFOZURaYWRuV0lYbG9xTkhCOUo2NXY2ZlExUVo2Y200WC14eFU5NC1BOHRfRXI1dURzNXVxYnBTeldfT2lOTw?oc=5
+- India, China look to restart cultural, people exchanges - Times of India
+  India, China look to restart cultural,
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFNOVVlmNTl6VEJtVE93VHI4dUtFZ01yOWo0bWVsZXZidkJESUZkX3pVUHdDajlYbTdaT0MxdzBfUW5BZU9BVjdCanZvbEV3Wk5lQVNySzF5UU1QQzVSSlJLYzVFM1RjSHYxVlp3ZlRLMXNuTDAxLUNSaG04UUtELVVBUENackRsM3JJb3pPSlhhem9IZVlJamxVLUJsREpLY0szdkZLRUVlWDMxdlZCTFVFWEVtWFZ1b1VtNWF30gHDAUFVX3lxTE41a1ZkTzRRb3Raak5MNTVTTS01Y3RNUDRHMl9hWndhMzhhQlh5ZEFsb01zLVo5cE5NdDlaRGJwUEhhUHpTTUdmUWRCVTM3UWdfVlAxVmxWaFRvNDc2c1B3SzdYejdOVXNNUl9jZFRMNHFTZ2hRRWJldXNfM252Y3hsd3FCaUphOGpON0FCTUhZd0c3dE1TYWtmZnlFaEJKZFIzOWZ6UmpGa181SHVXSFV0WlFDMzFfOVg3SUEyQUJ2ZHpZSQ?oc=5
 
-- India, US trade deal not priced in yet; can bring back FII flows: Analysts - Business Standard
-  India, US trade deal not priced in yet; can bring back
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbmJwaE45WFZpdkpnem1tbXMxaV9Hb1YyWmdsTDI0SXR1RGtGcDdMcjVPd2RCUDFoTWVDaFh5MVV3Z2dJTkUxMzh4b2F6dGxGb01NWXBTUUhOZFRwT0JwOU9NbW1mYTlzWmVzMVFlcjFtbnZyUms1ZWhHQ1l5S29XMzBQQU9oeGZvVjJLM0ZPOTZGaDBwRDNJSHJPcVg1SmFXdDdsY2xyT1ZkNUpwcU5QckJrVE9GOWMwMmFKVFY3OGxWY05WWWFFMjFxUFRVNlFVMVR5aw?oc=5
+- Is human imitation the right goal for technology? - Financial Times
+  Is human imitation the right goal for
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE9YTFdjZjFWMUdVQUlIakRrTG5EZHlBdzYzMjhMWmdfeXV3YjF2U09GRkpTY3BoSVhUZnFqN05RVzZmZEZsQWlEdldYSGFlbmJtZU4tX3hCaXlxYk9BS3ZlT1Y1M09Ya2c0UV9LVWxOU0E?oc=5
 
-- Saudi delegation to visit India to showcase investment opportunities - The Hindu
-  Saudi delegation to visit India to showcase investment
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOUTZRSHdRZ1ZjQTlmbXRuVWIwZkRXdFF1WXNMa1dfdzB2bk1CX2lGODdfYnY0WDhwQ2hia3lDTFFCNVhfYmltWm5PY2phZkx5UmJwODR0SDZjRURrLXEwS3pVeU1kdEVXc2lOX3JvUDR1bnMyMXp0bDItV3RkeTRVRF9pZk5PcG1kc3pEUDlLY243WEU4Y1RWZ1BoVFFDQ05iTmdWNXJOSEcweGRwanZaRWk1QzB3VXoyRDFxb2hZaXhOUU1MS0VWRnJFOWI?oc=5
+- Microsoft AI CEO Mustafa Suleyman repeats his warning on AI technology Mark Zuckerberg is spending billio - Times of India
+  Microsoft AI CEO Mustafa Suleyman repeats his warning on AI technology Mark Zuckerberg
+  🔗 https://news.google.com/rss/articles/CBMi3gJBVV95cUxPRkp1VXNOX2lFZ1FoNGxzZG5NWDJyN3VUUm1IeHRuNHBNWV93amZpTURXX3paR0ZXS0s5ajJYMnVBM0tkbDdjcjh1YWItT2ZsY25TTlFpTVZKSjhhbi0xbXJqcDkzTWNjRHRERThhOHBwaEw1dEd1S1pvTUwtZmRqZS1EUEF4U3pBanVLTU03aE9XWFdXcVh0bFd6MTBoN3RxdW9iVThlRTdVTk1oZFRHd0k3WmV1WFJuVmhaMTdCUEJ5M2Y2ZzR2ZVd3Z294SGdGWGpFbkx3TFlUeEZsalBrT1dtTTN4bXN0UUJGWXphallIcHRBbzZzVnpEUUkxRVItVzh4YXc4SHJlcEdJbXZRTFRzQTZjeUxveUl1bkM4ZGNsa0Y0RmxpU3RtVmtwQzItZkVnaXZ6ZDRGY3c1ck9JcXNYNG8yNHQ5YnZ1ZS0xZFlmYmNlOXZsR05oSTJZZ9IB4wJBVV95cUxPSFpOVmZQWWUzUFMtSHVqd0Z3UHBhNnFBUWpVRHpQcjZCQ092NDBNNFkwZ2ZTOE9oWFdCMkFGb2Y0dHY1SlpyRjByYTIzM0FFbF9KaXZjb0dzblFsNlRvT0VUMk1ocVpaS0NERmhWOTNRNVlnWkJ1TlI0TGt3VFpSY1R5MlA0UDVqY2dJaEpIYWNvYmUxQm1LRUVnM1EzdmcwVkdwdU9ZbGZDNlNCRHhMOEl5SU56TmNRczUtS1NGQWJ3Yy01TXNLc093SmlvNmxxclRfNDVTbGxaM0YwYlN3RVN2bDJzY3dQVzlVR25pd3F6dl9FWE9XOFdFaDNLM2VvZTNuVHBrQmJRM1R5M21aSXV4eWFCbDN0eF9jUllKQ2prQTlWRzNMb0FlY3VpU3NHNkxTY2lhY1hpOVFlSlFWeVBoRDRVcC16c1BkeWczLV9TbzZJdzB4WnlJLU4wWDA3ZTlv?oc=5
 
-- Red Fort Blast Live Updates: "Those Responsible For Delhi Blast Won't Be Spared", Says Rajnath Singh - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2JvNDFuazZ2ZXd6eUItYVZkZFlFTzZ5bkxHVWhGY3BuTDRpZC05OHhKcGQ1MTJjOS0zZU9DemEtbXc3Q2xTY014dTlWYnR1cTA4Ykk4clR2MExLMUFLbzNFa2xRMmctOFVCRU1meE1XSG11c0Y0REt4a3V3Nnp1X291YVFBenBJcTVkSlJfQkFkTG1ObWJCaVV6TnZJci11ZDV2N1dVc9IBjwJBVV95cUxPRlA1dGxXemVQVWprQTVRQWJ5LW12anY0Y1dnVExmQ1lhSVcxTGxlZVU3cjFZbTcxQlZUUVNscnkwN2NGdE9DYkNrUERIbmUyMWpsTHZsVHZZREFaZTZfVGhkaUdRYVB0dFYyNERzVGx5Q2hUT2ZoMHJNWXlyemsxNnVsMTc2dmMxY0FhSEtiSzA1TDlkUGJOeTBvT1FBRzRzSFVpcGdBR00yczNUNUxXYU9zODZaOElYckdCdmlpY1ZEOGZUa3RGNVhpam4ySExFNHk5ZnFPQ3l3b1phMnlITlBNNTZDZ3VlNVdtVTE2M0cyemtKUE9RNmZqbTlJNkhvMEdtYnMtb2JFRXlHWWJV?oc=5
+- NATO Defense Technology Spending by Country in 2024 - Visual Capitalist
+  NATO Defense Technology Spending by Country
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPMDlENnVoTXAyZFVvWUNKb19ZVGxrZVN4UllKMkJpNFo4ZGs5NktkZk11Rk9VV1dBRUc0WWlWYWFnM3pnUjhXM0VSMmZTNUhOME1QM2l1Ti13OGNBSWJ5djhxNUpmdXpSMEVtdW9NWkxJcXg1amExUXc5LXh2U3pNWXFKVmJ2N1FVRWVmS29FTGlsakFHM3JuSGE0MA?oc=5
 
-- They'll love us again: Trump hints at tariff cuts in fair trade deal with India - India Today
-  India Today: Trump hints at tariff cuts in fair trade deal with India
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd283RWwyMGs4OFVGcHdHbmxQWHpLTU1XbjZ3T1YyMnk5bkVhQlFnR3lCa1lPZTQ0M3lLR1REVWoyeXB4ZWtya29ZeEt3OHUwN29Fa2VkaEhpTUNQVGFTSks2dk9QVHpsX3ZycVBqVThNb09kZERwdU1oNnFLcnhlbXdMWnBOcmZGLXNFS0VjS2hVOG8zQ1VTYXh1UFJQMjI0ZzNyejdQVy01bzkwSmJUejFYdUYtdVkwdlBB0gHAAUFVX3lxTE9LeXV2R1VjNzdwMThnVVZUV1FBdlVJSTZvZTNhdDIxV05vT3E0T25zcWNZSVRYN2tWYmYxOUlPMkowMDQ0MlBpdUpNV28xX09DVW5KLVc1N1RMc2pZY1JjLVJ5OHc5VmZMaTgzUHhQMm52YndFMkY4WDZXTnprbzhUYlMxOG4xT0NsbnhfNXlERkhKb3VwNFl6eWYya2VSLXdiNDUxdGd2ZV9xS0dmaFBERXZ4Tmt5ZjNiZkhDX1BwNQ?oc=5
+- Huawei flags $630mn in revenue from licensing patents and technology - Nikkei Asia
+  Huawei flags $630mn in revenue from
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjZaY2xLV2t4cUhpcWtTLV9YZGZaZTYyeVlFY2pweXh4aEQwYjJlUUpSOEhiVXk2eEVpc1I5ZExCdDIwZC1qQlFrUXZmYk5sbjkyaWhiaGFjOFV2UFpXUWw5cWVLY3VMTllMYlZsV25MUm0yUFJPaEFucnRSS0xKRUFpOFJPUnRfejBsbzBIRVhaZTE2ZndXUVk4UEVOUkpiaW9vWUhsUlZIRkhJZXNwag?oc=5
 
-- Trump Says US "Getting Close" To Reaching A "Fair Trade Deal" With India - NDTV
-  Trump says US "Getting Close" To Reaching a
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzhyRDdCU0h0SVo4T1pwUXlBSUVNNlRybmZlV05KOGZ1aFR0b3pmMkdUWUhnRWQtbXV4TkdDRWpRck91S1cteHVkZUNuWVJ2ei0zM3Bsb2RucVZONW9OMXk3aDh4RjIxUWRwd3BZbS13c1R4eE0wRk5YVFNxaE1MakhYTjEzLVBpUDhYSUZpM1R3M0R4VmNsVGw0dlc1cGp4ZURPMnNyYkF3eGVB0gG0AUFVX3lxTFBnM3Fyb2FGNzdpR09wNS1fbFBSQVYxNFY3RUlYNU9vVEJHZEdSRjg2MnlpOUFsWDRtTEFEZnZsSDFiaW1mVXlTbnhaS05yRk9UZ2FhWjJ5WVdHd2p1blhEQWg5WjFzRE9SaTZzY2lMWmw5eUJxRVFOZURaYWRuV0lYbG9xTkhCOUo2NXY2ZlExUVo2Y200WC14eFU5NC1BOHRfRXI1dURzNXVxYnBTeldfT2lOTw?oc=5
-
-- India, US trade deal not priced in yet; can bring back FII flows: Analysts - Business Standard
-  India, US trade deal not priced in yet; can bring back
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbmJwaE45WFZpdkpnem1tbXMxaV9Hb1YyWmdsTDI0SXR1RGtGcDdMcjVPd2RCUDFoTWVDaFh5MVV3Z2dJTkUxMzh4b2F6dGxGb01NWXBTUUhOZFRwT0JwOU9NbW1mYTlzWmVzMVFlcjFtbnZyUms1ZWhHQ1l5S29XMzBQQU9oeGZvVjJLM0ZPOTZGaDBwRDNJSHJPcVg1SmFXdDdsY2xyT1ZkNUpwcU5QckJrVE9GOWMwMmFKVFY3OGxWY05WWWFFMjFxUFRVNlFVMVR5aw?oc=5
-
-- Saudi delegation to visit India to showcase investment opportunities - The Hindu
-  Saudi delegation to visit India to showcase investment
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOUTZRSHdRZ1ZjQTlmbXRuVWIwZkRXdFF1WXNMa1dfdzB2bk1CX2lGODdfYnY0WDhwQ2hia3lDTFFCNVhfYmltWm5PY2phZkx5UmJwODR0SDZjRURrLXEwS3pVeU1kdEVXc2lOX3JvUDR1bnMyMXp0bDItV3RkeTRVRF9pZk5PcG1kc3pEUDlLY243WEU4Y1RWZ1BoVFFDQ05iTmdWNXJOSEcweGRwanZaRWk1QzB3VXoyRDFxb2hZaXhOUU1MS0VWRnJFOWI?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- At COP30 in Belém, Brazil, Chinese Technology Is Shifting Climate Politics - The New York Times
+  At COP30 in Belém, Brazil, Chinese Technology
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0plNlVtRUVoazh6Tm9yYnpMeWYySWJUZEpGWlpTY2JRM1M1by1NQ1hmc0R1bWtLTDFaRV9ZZzEtWE5BdjVfMFFnMWstRk1RN3ppR0NqekhGS0VXUFFIR0ZNdUJsOGNzQ0FodEhWaWwzR1VFWERUTVNnckg2NTZKaFI4WTE2eXhFWXU3NkxwSFh2dUNLcHc?oc=5
 
 
-_Last updated: 2025-11-11 06:28:15 UTC_
+_Last updated: 2025-11-11 12:35:12 UTC_
