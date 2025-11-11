@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Red Fort blast ripples in Bihar, police fan out as state votes today
+- From cyberslave to conman: Man held in Rs 46 lakh fraud
   
-  🔗 https://indianexpress.com/article/india/red-fort-blast-delhi-bihar-police-fan-out-votes-10357927/
+  🔗 https://indianexpress.com/article/india/from-cyberslave-to-conman-man-held-in-rs-46-lakh-fraud-10358167/
 
-- Bihar Election 2025: How to Check Your Polling Booth, Voter List for 2nd Phase Voting
+- Finance, trade key agenda items, climate meet likely to be stormy
   
-  🔗 https://indianexpress.com/article/india/bihar-election-2025-how-to-check-your-polling-booth-voter-list-and-booth-number-for-2nd-phase-voting-10357063/
+  🔗 https://indianexpress.com/article/india/finance-trade-key-agenda-items-climate-meet-likely-to-be-stormy-10358160/
 
-- Evil forces trying to weaken country, need to stay vigilant: Tripura CM Manik Saha
+- Tejashwi press conference in silence period shows he has admitted defeat: Ravi Shankar Prasad
   
-  🔗 https://indianexpress.com/article/india/evil-forces-trying-to-weaken-country-need-to-stay-vigilant-tripura-cm-manik-saha-10357770/
+  🔗 https://indianexpress.com/article/india/tejashwi-press-conference-in-silence-period-shows-he-has-admitted-defeat-ravi-shankar-prasad-10358138/
 
-- Tripura Board of Secondary Education Class 12 and Class 10 exams from February 25 and 26
+- BL Santhosh to visit Manipur amid pressure for popular govt
   
-  🔗 https://indianexpress.com/article/india/tripura-board-exam-class-12-10-february-25-and-26-10357745/
+  🔗 https://indianexpress.com/article/india/bl-santhosh-to-visit-manipur-amid-pressure-for-popular-govt-10358135/
 
-- Delhi Red Fort car blast: Northern Railway tightens security at these 5 stations – Full list
+- Enforce global standards by January, launch inspections: DCGI to states
   
-  🔗 https://indianexpress.com/article/india/delhi-blast-northern-railway-tightens-security-at-these-5-stations-full-list-10357616/
+  🔗 https://indianexpress.com/article/india/dcgi-medicines-inspections-january-global-10357951/
 
 - What is ‘Landfall’ spyware, and how was it used to target Samsung Galaxy phones?
   
@@ -60,25 +60,25 @@
   Akasa Air plans to expand internationally, targeting destinations like China and Africa. The airline, with only 30 aircraft, aims to increase its international
   🔗 https://www.livemint.com/companies/akasa-air-eyes-china-africa-routes-but-fleet-shortage-clips-expansion-plans-11762781766890.html
 
-- Who is Siddhant Awasthi? Tesla shares climb 3.6% following Cybertruck chief’s departure after 8-year stint
-  Siddhant Awasthi, programme manager for both the Cybertruck and the established Model 3, confirmed his departure on LinkedIn
-  🔗 https://www.livemint.com/market/stock-market-news/who-is-siddhant-awasthi-tesla-shares-climb-3-6-following-cybertruck-chief-s-departure-after-8-year-stint-11762791466714.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 11 November 2025
+  Sumeet Bagadia recommends five breakout stocks to buy today. HBL Engineering, J B Chemicals and Pharmaceuticals
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-11-november-2025-11762821850078.html
 
-- PhysicsWallah IPO: Edtech firm raises  ₹1,562.85 crore from anchor investors ahead of public issue — Details inside
-  ICICI Prudential MF, Kotak MF, Nippon MF, Aditya Birla Sun Life
-  🔗 https://www.livemint.com/market/ipo/physicswallah-ipo-edtech-firm-raises-1-562-85-crore-from-anchor-investors-ahead-of-public-issue-details-inside-11762792894995.html
+- Stock market today: Trade setup for Nifty 50, Q2 results, IPO frenzy to gold prices - 8 stocks to buy
+  The Sensex rose by 319 points to 83,535 and Nifty 50 by 82 points to 25,574. Factors like optimism over the US government shutdown resolution and foreign institutional investments contributed to this
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-q2-results-ipo-frenzy-to-gold-prices-8-stocks-to-buy-11762790913430.html
 
-- US Stock Market today: Wall Street surges on signs shutdown may end soon, Nvidia jumps 3.7%, Alphabet soars 3%
-  The Dow Jones Industrial Average rose 0.02%, the S&amp;amp
-  🔗 https://www.livemint.com/market/us-stock-market-today-wall-street-surges-on-signs-government-shutdown-may-soon-end-11762785820788.html
+- Four fundamentally strong stocks near 52-week lows
+  Some stocks may be facing genuine issues due to a host of factors. It’s therefore important to
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-near-52-week-lows-fundamentally-strong-stocks-quess-godrej-agrovet-maharashtra-seamless-11762770361951.html
 
-- Pine Labs IPO: Issue receives tepid response on Day 2; subscribed 0.55 times, employee portion sees strong demand
-  Pine Labs IPO has seen a modest response, with a subscription rate of 0.55 times. Retail interest remains strong at 1.91 times. The IPO, open until November 11, is valued at 
-  🔗 https://www.livemint.com/market/stock-market-news/pine-labs-ipo-issue-receives-tepid-response-on-day-2-subscribed-0-55-times-employee-portion-sees-strong-demand-11762783540431.html
+- Waaree Energies pulls ahead of Premier in solar race, but faces US headwinds
+  The fortunes of the two largest listed module producers have starkly diverged. The industry is benefitting from strong demand and
+  🔗 https://www.livemint.com/market/stock-market-news/waaree-energies-share-price-premier-energies-shares-solar-module-industry-jsw-tata-11762747506411.html
 
-- Brazil central bank tightens rules for virtual assets, cryptocurrency
-  Brazil central bank tight
-  🔗 https://www.livemint.com/market/cryptocurrency/brazil-central-bank-tightens-rules-for-virtual-assets-cryptocurrency-11762781882052.html
+- Stocks to buy: Raja Venkatraman's top picks for 11 November
+  Market expert Raja Venkatraman shares his top three stock picks to buy today, 11 November.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-picks-11-november-11762782345036.html
 
 - EU Eyes Banning Huawei From Mobile Networks of Member Countries
   The European Commission is exploring ways to force European Union member states to phase out Huawei Technologies Co. and ZTE Corp.
@@ -100,17 +100,17 @@
   Apple's Services chief Eddy Cue confirmed there are no current plans for ads on Apple TV. He acknowledged the possibility for future changes but also emphasized the importance
   🔗 https://www.livemint.com/technology/tech-news/are-ads-coming-to-apple-tv-top-apple-executive-puts-an-end-to-all-rumours-11762779469135.html
 
-- Stocks Rally on Bets Shutdown Endgame Is Near: Markets Wrap - Bloomberg.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTNjdTYyeDBqT1NzN3BSdklDRzV4Vm5kcHA0UDZHZDE3LXJCeHNTZ3FNQ19sQVRuSkw0VmxxX1EwOEpBdlh0WlRYWV9lY2ZWMEtJUmo5TDFENGxrTFNhTS1lTWQtWXZuU2
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTNjdTYyeDBqT1NzN3BSdklDRzV4Vm5kcHA0UDZHZDE3LXJCeHNTZ3FNQ19sQVRuSkw0VmxxX1EwOEpBdlh0WlRYWV9lY2ZWMEtJUmo5TDFENGxrTFNhTS1lTWQtWXZuU202WW1sdkhRU2owNjVNdEtKREJxZzlLNjJJNmxxUUJvMEhwUFRZelZzZ2FHWTktd0pLUUQxenB4VXI1bUlLSE5aeUVlUE8zNnBB?oc=5
+- US stocks today: Markets rise on hopes of US govt shutdown ending; Nasdaq jumps over 440 points, S&P 500 - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqgJBVV95cUxOQmNPVm5ocWFoOUluX05pX1ozOWFVN3pYVFFUNlNlUzJYWjR5Z2lFLUVEQ003WkF5R0QzMnJUcUsxNzRqZzlUMmRubGVkTnFRX3dJaUZCbTZuMnNlbmdZWk5fb1VNd1lUVU
+  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxOQmNPVm5ocWFoOUluX05pX1ozOWFVN3pYVFFUNlNlUzJYWjR5Z2lFLUVEQ003WkF5R0QzMnJUcUsxNzRqZzlUMmRubGVkTnFRX3dJaUZCbTZuMnNlbmdZWk5fb1VNd1lUVUZSdDdRYWptMFFRNUhfRWZvQ3pROHpacTZNU1FrZ3BYdGg2cmdyb2RwS0d3MnBIdEZhRktlQjE2eGEwalMyclBtbmdxMFFlWWh4SFByZjU2UmFNSGZKaEJCZ0NQSWpNMDdiR05iYXpHWkRmZGM2cGNQcXpQWlRhLTVwU2prSHRQNDJ0aFZRZFViRWFMZzdwb1YyVHc4NHJWQ2dnZzZlZGJDZzlaaW5VR1Btd1ZOWkotZWJ6SXZyQ3NIZDVfeU4tTUhR0gGvAkFVX3lxTE40RkIzSTJDNEw1TjE2enNWbnFEMFoxZ2dNcXFiNWZLV28wT3pHcllhRkdrdXVIUTNwU0t0OG50SUxGZXJPNld0Y3pNQ2d5UUNTV0dHcUVVVHNkNUtfejl5U2oxWmx0am9QN2xCX0N3dTNJejBtYUt3UXU0YnVGcS1IY0p6QUYyd1VIVE5xVWIwRE1ock9XSkZtVElhdlItR25HS3ZHSHJ2S3k4QTZ0dGN4c002UUtYS1R5NVhUZzVTWFVyU2hCWmhNeXNmMVEwTGdUNVppbTExMWdfeE14Ym04SnpORjItOFB3NFJWdlpCaXpRbmdGcVFNeTJ3ZjJBd0hfc1FuVUptenhnUWtfMUxhVTlBV29LYUs4RzJvZ3liRWFyQ0ZPcmZ2azRIMmVrWQ?oc=5
 
-- AI’s $5 Trillion Data-Center Boom Will Dip Into Every Debt Market, JPMorgan Says - Bloomberg.com
-  AI’s $5 Trillion Data-Center
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTFBZMnFqWWstSmFpQk5NZ2lMeUlYOS1VQ18wMXNaMm9xa0syZUFxa3pJZERpZGJUNTFiaV9NRVhpS1ZILUVWSTFHYTU0OXlDbXowS3JIbFkzN19BVFpZX0xMMWlkc3o0YVl0UkNCTldOUFBEZ1BiUWFkZ0trNnFSZGVBRzNJWk1hLXJTQUFkcnVoX0M5Q3d2enVKcllGUnlJUjVNWmlnRnVoZFdkeFo4SVZQaVVGaDVJUjZjUWxONGFXWG1oQTVmSA?oc=5
+- Dollar Carry Trades Set to Trounce World’s Booming Stock Markets - Bloomberg.com
+  Dollar Carry Trades Set to Trou
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdHM5S21hTkk3THZGWDVNeXE5a2lpaGh4OTNlMG9yb2VhSENVQnY4UUE5THZ3bXZqLVFndWY1elljcllVbTNubDRpZXJOT2ZRbDV5T0J4UEJ6WE5qbERsVHBDWkJQVkRSYk9aX2lGWFBYQjFBNWdGZjN4REtpZjdjZlA1LW8yeG9DaVdxb3ljd3RkcngzQUNoSDViTm13VE5IcTNjTG5rTVNZT3JuLWRNcTY4UmppUQ?oc=5
 
-- Cramer considers a trim of a red hot drug stock nearing a $1 trillion market cap - CNBC
-  Cramer considers a trim of a red hot drug stock nearing a $
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORFRHQVN5QVpxQlpCR2tvWDFjWkw4VFNOWTlCUC1aNG9HbkVZeDFmOHJkWEZqZF9pSnhJV0N1dnJycnlETlZtRk9ZWTcxWmE4WkFlSkcycUJJQlRZSWlmTjh2UkNUdnh2N3MwTVhCblh3Z1JiMVBVMUNjZUFCR1E5MkUyX2pUbmlfd3lVd0V1amRaZHBCUG5fRklwZVJwYTF5RUJlYXAzSU5KV1RzVUtCWnd1ZktCMGs?oc=5
+- Not rushing our firms to public markets; no pressure to exit: SoftBank's Sumer Juneja - The Economic Times
+  SoftBank's Sumer Juneja says there is no pressure to exit
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZmZOaWlvdVRYaXRHeFlERGxXUHdmeWRtc0o0Yy12TzE3MGF2VTJzMUZKZ3JSbXUzZEpiTmllSVRCcF84SUtXQTNSanVVT244WGlLQ2Z6OUJ0cjdwLTlqUDFhMU1xRGJuX0o4ZDg0MFpDeW5XZkNNOWpKenVLc09kcEJZWDdvekthZVo5MXRSbGlHYlNDYlNHWGFaWkhSSmtLSjdNYUdzN2Jxa0pIMlRuQUZ1ZEplOXl0RlBJeXhvOVVqaDVXZnMtaXk3ekpicnkyYWpablhQdjUzeVlENGIzb3pyal9BWUXSAewBQVVfeXFMTTkwZjRXemg4aHNQWnN0RTlrbW80R0k0azNJQkg5cGpSS3JzV0FMbnM2RkhDdTBtY0NGQkdBV2F1MTAtdXluaUhSR0pFZDFNX2RIMVFXanM1aDlwWEE1Tno0VFd4cDlWMUN3eGwxVDdLNEtuZ3NNbjFOMUo0STYyb2wxWDc0SWtDRWl2VW5sMU84SkFUQ3M0NThUTnZIbHdkcDFtRFhZcVdiTlJzUGhXRk1qVVVzeFdCYjlWNkJKRHBkMDR2SjlUTUFudG5HNWF3eXJGS3FFT3FqRkhXbjNMbE8xS0kycGEtZEM3MUg?oc=5
 
 - Markets rebound after 3-day fall on firm Asian peers, FII inflows - The Hindu
   <ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWpsM1ZXZGVUZ016VlRhR19KNEdCeTNqaGFZaGtLc3lSMzQyZEFQVFRONm5nTjJYNkpCMFh5R2dqaEpsel9uZmR6VDlkZDdLREctZmxRTFpvWmVvZV9xbVhBVTZ6M0d5dU
@@ -120,105 +120,105 @@
   The New York Times asks: Are you ready for the end
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5jVkpmX1dNTjd5Znh6WUJHT3VVT1NWY28zX2pIaW83UWp6TlZneUYzU0hPNFNNSHM2SXZQS2NaTUJjd3g3VVdtRDRWRWhYV0dMVEZEdndWWUhTaDBGN1NvV08xS25va2FrZ3ZTNGxVa1JvaWRYdjVj?oc=5
 
-- Goldman Sachs, Fidelity among investors in PhysicsWallah's Rs 1,563 crore anchor round ahead of IPO
-  Edtech giant PhysicsWallah secured Rs 1,563 crore from anchor investors. The company's Rs 3,480 crore public offering, set to launch soon, aims to fund expansion.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/physicswallah-garners-rs-1563-cr-from-anchor-investors-ahead-of-ipo/articleshow/125228796.cms
+- WestBridge raises Star Health stake by $12 million
+  WestBridge Capital has boosted its stake in Star Health and Allied Insurance with a $12 million investment. The private equity firm clarified its Star Health investment was disclosed to Irdai during Kiwi's licensing process.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/westbridge-raises-star-health-stake-by-12-million/articleshow/125237427.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Indian markets closed higher on Monday with Sensex up 319 points and Nifty rising 82 points. Tracking global optimism over a potential US government
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/125228231.cms
+- Investors should exit 'unregulated' digital gold: Analysts
+  Financial planners are advising investors to shift from unregulated digital gold platforms to regulated gold ETFs and funds. Concerns over counterparty risks and lack of regulatory oversight on digital gold apps are prompting this shift.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/investors-should-exit-unregulated-digital-gold-analysts/articleshow/125237410.cms
 
-- Tata Motors CV arm listing date announced. Check details
-  Tata Motors’ commercial vehicle arm (TMCV) will debut on exchanges on November 12. Analysts see strong value unlocking potential.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-cv-arm-listing-date-announced-check-details/articleshow/125228095.cms
+- Pre-market action: Here's the trade setup for today's session
+  Indian stock markets opened flat this week. Analysts anticipate markets will trade within a defined range. Strong corporate earnings and progress in India-US trade talks could offer further upward movement.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/125229021.cms
 
-- Block deal: BofA turns buyer, Goldman seller in Nifty stocks ICICI Bank and Apollo Hospitals
-  BofA acquired ICICI Bank and Apollo Hospitals shares worth Rs 88 crore in Monday’s block deals. Goldman Sachs was the seller.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/block-deal-bofa-turns-buyer-goldman-seller-in-nifty-stocks-icici-bank-and-apollo-hospitals/articleshow/125228007.cms
+- Stocks in news: Bajaj Finance, Vodafone Idea, Britannia, Ather Energy, Hero MotoCorp
+  Shares of Bajaj Finance, Vodafone Idea, Britannia, Ather Energy, Hero MotoCorp among
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-bajaj-finance-vodafone-idea-britannia-ather-energy-hero-motocorp/articleshow/125228937.cms
 
-- Market Trading Guide: Buy Nykaa, BHEL and 3 more stocks on Tuesday for up to 20% gains
-  Nifty closed higher after a three-day fall, supported by IT and pharma gains. Analysts see near-term consolidation. Experts recommend Indian
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-nykaa-bhel-and-3-more-stocks-on-tuesday-for-up-to-20-gains/slideshow/125227786.cms
+- Is PhysicsWallah IPO a smart investment or a risky bet for investors?
+  Edtech firm Physicswallah is set to raise ₹3,480 crore via IPO to fund expansion. The company, which has aggressively grown its offline centres, saw revenue surge but profitability remain elusive.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/is-physicswallah-ipo-a-smart-investment-or-a-risky-bet-for-investors/articleshow/125237372.cms
 
-- Red Fort Blast Live: 8 Dead After Explosion In Car Near Red Fort In Delhi, Amit Shah Visits Blast Site - NDTV
+- Red Fort Blast Live: 9 Dead After Explosion In Car Near Red Fort In Delhi, Amit Shah Visits Blast Site - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2
   🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2JvNDFuazZ2ZXd6eUItYVZkZFlFTzZ5bkxHVWhGY3BuTDRpZC05OHhKcGQ1MTJjOS0zZU9DemEtbXc3Q2xTY014dTlWYnR1cTA4Ykk4clR2MExLMUFLbzNFa2xRMmctOFVCRU1meE1XSG11c0Y0REt4a3V3Nnp1X291YVFBenBJcTVkSlJfQkFkTG1ObWJCaVV6TnZJci11ZDV2N1dVc9IBjwJBVV95cUxPRlA1dGxXemVQVWprQTVRQWJ5LW12anY0Y1dnVExmQ1lhSVcxTGxlZVU3cjFZbTcxQlZUUVNscnkwN2NGdE9DYkNrUERIbmUyMWpsTHZsVHZZREFaZTZfVGhkaUdRYVB0dFYyNERzVGx5Q2hUT2ZoMHJNWXlyemsxNnVsMTc2dmMxY0FhSEtiSzA1TDlkUGJOeTBvT1FBRzRzSFVpcGdBR00yczNUNUxXYU9zODZaOElYckdCdmlpY1ZEOGZUa3RGNVhpam4ySExFNHk5ZnFPQ3l3b1phMnlITlBNNTZDZ3VlNVdtVTE2M0cyemtKUE9RNmZqbTlJNkhvMEdtYnMtb2JFRXlHWWJV?oc=5
 
-- Hafiz plotting India attacks using Bangladesh as launchpad: Intel - Times of India
-  Hafiz plotting India attacks using Bangladesh as
+- Hafiz plotting India attacks using Bangladesh as launchpad: Intel - The Times of India
+  Hafiz plotting India attacks using Bangladesh as launch
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWVYOVV2OUl2R2hIVThTQVBhWXpjbmRoejVLMWxKS0FtOW1lcUpHeVNZM1dHS21VSzN1RVc3UE5WRzYwOUhqUUl4QjdWU1B1Z2VMbFZvUHdZY3BXeGdvQ0pnQWRFLU9GVFRZTEtFTG1xQ0Nfb0ljUEFWSEFLbjhqTUM2cVdJOHFNYUpaRTNiNEdMMDJyVTBxV3VsYVlDTC1reHhKUURTUUJVbFJOYUg1NWhLbHg4VGtWTlQ4NW5rQlFEWVAzQVJfLXl0WEfSAdIBQVVfeXFMT3dPUDA3Ri10QUM2dDJvUVRqYkhNejE0SmNRNlgwTlFUdGkxSWxpVkV4Qng3ZVZLc25nLXdWUmJ3VGM2a3JldUVudW0tam1xSERUX05wNm5rNTh2ck5tN0FaaUQxME5xbUgySndrZHN4cGNpQ2J3eWpGZXgxZzU5ajN4bUk3S0hSOUdnMi1ZOHNNZExzeVc1SDZxT0tUcTNPbEMwX0ttbmM1VUJkQWljdGpfdXZPaUtjeGp1SlVUWmdGdFFxNlZBSVlRdmdOc2hweE1R?oc=5
 
-- Who is Matt Forney? US H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian’ | Hindustan Times - Hindustan Times
-  H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxORWI3M3UtMEg0SVNBeXpFQWpyZzhfLUlZY1oxczJaVEVGR0JpSkhzc2JPNGpuekp3ZW5zTnlFOEwycEViYm1sMHoyX1l4TU1sWEZSSGZxTEFvbEZiZGZYQ3BHMGZsYklZamRTc1FQWXd2UWdwYjRTVURJQXJCd2dTdnVScXQzbDVObTJYcjJFczBnaVBZdWwzRGJ0NHNieFBWY09QejdUU3M3U01ROXJ5LUxuZHpnYll5b0hsTy1rSDk0OTg0dmlueC1sVjJVbk83UU9tTk5tN2lBNEZhR1dFZk9sZFFaUXVMVFRjUDlCN1hPOGdJbFI5a2ZsSTVhcmpBS2owMHgwSk91dFpTOVRDM9IBlgJBVV95cUxNb092aks1THB5V3E3MklndVMxM2dIbkFHdU9mXzVOTTNLeG1FbnVMT3Z2MmNmT1VzZTJuamQwNGgxMjdEQ0JILTFXQWxyN040NkZzMi1IaFh3RWFBYmtBYVh5WUR2N1djRnVYNjlZNVA3SW8wa0YwTWlFX3pUdEFmSlZWZWduWFZpeGxyQW9CeGYxejByaEVfUHptdENqSEJ6SkwtZ2YzYVJ1V2JfeGE4dldXMF9WeWNUNXExaDlDLWtTa2NQQkxJUHVYOERmdW8wczlUb3B6d096VnlSOU9aUTctbXozNnhDSjZDTTVqcWVyN2lXNHBpcXN3RGM1WXdpaXVCVVR5RlB1M0ROZHp0SEhXdm9HZw?oc=5
+- School assembly news headlines, November 3: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 3: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeHF5OF9IaVVxc0x4eGtkay1LekR4OVBUMFV3bkFidmVsb2pWcjBSaVhFTTN0eTk0eVVFSXN4ZnBtc1NkZXJiNDlDMFJ4UHVvWE5MUzRBaGZmWnFILXdoTUhvMEpJRkJLa2NUcXozNy1NcVlLWWwzb1NCZmFpQkkxMnlaRjlHSUVtYjJ6ckxhVW01SklrNkpNd0tQSVRDNXJtczQ3dkJVWm9ZQ05Icnp4VGJOWTQtWTRBS3lMNHQ1ejhQU3drS3JMeGx5QTNRNnZyOEd4RF9WTmc5M0VveFdPemxzdzLSAeoBQVVfeXFMTy1VZF9Mei15VV9oeGhUT2lzRUpQQ21ZT1AtNGZfcm9ubUl6Q29hN1BXOTBBU1JPYkFOQ0J0REJFeU1zOG1BeGRUSFJNN0IxQkpyLTJoVjlfS3puUmpxOHYyTEctemcwU1pNRUlNUUJaRnkxa3lwaWtxUGtzN1hDdFRSV0p5ZGtVdDRLdEpMYUlPcENZeFJDZTRMSUQ3Mko1bEd4ZUJEYU5Ud2pKNEhyLVIyWDFkQ0pmUWV2UnFDdGR5U2dwQWc2RWhWWWJCcTBZOXZaY2pnV0VZVUl5Z1ZCbWFrSjltU3gwOVhB?oc=5
 
-- India, Russia To Ink Mobility Pact During Putin's Visit; 70,000 Indians Set To Get Legal Work Grant - News18
-  India, Russia To Ink Mobility Pact During Putin's Visit. 70,000
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1czdGc3cnY1RmdVMGJ6M29jYm9hM1hNNzNDdXg1N2pPSGx3TFJjVmY2b2hmVXI0RDJFM1E4ekZFZTAwRVQyWURlbzJ2LTdwczAzM2VXSS1YOXJKckJqZFhjdGNKb1JYcXI1MDUtQnVuSEV3aXB5b1I2T1g5eHozTGxKR3NzaUt3MnFNXzNVdmJnaGpoY3lwUnMxV2pMTmxnZk4wY1VLTV9hdkRkX3hQdFNsNVdvaWF6WEMydXE1bXVYTW8wTF9tWDZvZUpCMGg4Q2Fn0gHYAUFVX3lxTE10ckI3NmNUVjB6dGdoNm9JdG04Y2VJRDV3d0g4ODQ0NXE1Vk1EaTJ0SnVOamR6Mlpjamc4dlh4dlBWcENiU2xtZXZBZTBQZ0trX1huczBqYmVnZDB1cDZsb1pGR3lTN1hlOFoxQll1VXZaMTBoZVQ2TndJSmpYY2pMX3dyTlVWWFBqLVAzUy1zN3YwRDhpWXNRODg4bmlGaVpybzRxUnkyUGtWckdZWDNENEtNTUZGbUx3YW1xUGVnVXd2ZHNhY2ktSGk1N0lMTHFSME5BbXRzOA?oc=5
+- In Phase 2 Of Bihar Assembly Polls, The Seats Due For Big Fights - NDTV
+  In Phase 2 Of Bihar Assembly Polls, The Se
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPNFdDT1hRSGJwZ3pVZXR1S1BpOVhXRFlmS2pMZWJTUnVjVTVDUTFfWWhvRGY5bDlaeEo5TktMQUd5eThGZWYwQmlGR0plRHVsbDF0SGVUdm1FLVJSZzFzNk5lRURrRnJ3WDhlbURSSDRCdmJLaTJGVmtKai04eXcxOThhcU9Fd0xObjBGblI4RGc1VjNOMzRibTdRc3lWOV95ZDVDVXlxc2NSQTJLdkJOZUpwV0wxeHNrQjRMd3FUaWJLOFJTVzN2V2VBcF9IZw?oc=5
 
-- India's population-adjusted road deaths at 30-year high, shows data - Business Standard
-  India's population-adjusted road deaths at
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXl0czEySGctdVVLWHlWTE5iUUNUZHlseHBsT3NlTF9qV3B5SjlxZG5JNmpSazUtbXdDTjdGT1NuaWxQUi1TcnNPeWdhTkcxVnNUd1ZWaFNzMEJudUg4TWRBS1ZFeV9kVW1UMnZ5RjhLUnJfbTJVb3RLYmxXSzVmTVhRSE1ndF9uc1RYY0dpOUJ4TEdDTEc3cDI4dkJobE40MVY2Z1Vfb1JxM1R0Y0xDVy0yLVdpRXBLQ0txZmN3UTRlcmREWWJrSm52ZjlVQdIB0wFBVV95cUxOSmhSVHZlODVUbmdVVU5QV2swamlwa25sem1TOGh5M21TRVN5cE1KcXBMMVNKTzM4RHpUU1RGaEg0WS0xcVVIM0QwYy1LNExQb2ZMSzdkUmdWd0xkaHpWV1dPeFRPa2pvT21CdXhteHIxUkcwQllqVFVlNTFwbXdNREhkazUxNV9LeUxyYW1CMlZjeC10V0F5TUZRQWlReUhabVJlX0Y2dnFhMS1YQ2xBakpGV1k4bkVQTUpkQ1FSMXdLcUE5dnV1TkM3cWViV05adDdz?oc=5
+- ‘We are in a moment where minority rights in US are under attack... we need to step up’ | India News - Hindustan Times
+  ‘We are in a moment where minority rights in US are under attack... we need to step
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV2hoRU13ZmZPbFd4M1pSUWpNT0pDdE9jUVNmOGp0aDF3SGNSWXgwS2ttdkZEU1pwTjA4UGpSRE9iY3lRZ3JtNDBReXo1enZ4dWNSc1U3aV9uVnh3d0hlQ0E1Ty1LaDR1RjZvSHJIeG1DanliWW5wR2ZsWkFOZmUtQzZOWWttN2pKMEt2ZFJ0dEpyUHNhMS1NN1hmQVZPcUJLQXpTOWRDN04tZk5kcWVaa19rU19TUVRtSmxKOGNYWUZmekRRZHUzU0pJS1JyNXpfa1pZNl9XdEJDejhjbkHSAeMBQVVfeXFMT2RXM2JCRzNtQVVtel9CcVhTR3lLWEZwWXJvYVV0REhXRS1NWE9iQkV2MFlzdm5ocnVZNTY4S2tVbE55ZkZGaTh1TldoVHVRQUI1emJoelNSNFhRVmgzUGloZUZqVFhacTNfYW1RZWYya1VKd0JQUTZkSHg0MUdudVhwQllDZmsxSGFEekU3ZFh1azhrSGdSNlhMa3A2RjlwRERHV0x1cGpOaEZ2QmJBT3VRcVF6dE9CTGhkQk1ZYkx1ajhDY2hGcFdSa0Itd0szUzk0X3ZBMlZQV2lGQjg3aFBrNHM?oc=5
 
-- Red Fort Blast Live: 8 Dead After Explosion In Car Near Red Fort In Delhi, Amit Shah Visits Blast Site - NDTV
+- Red Fort Blast Live: 9 Dead After Explosion In Car Near Red Fort In Delhi, Amit Shah Visits Blast Site - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2
   🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2JvNDFuazZ2ZXd6eUItYVZkZFlFTzZ5bkxHVWhGY3BuTDRpZC05OHhKcGQ1MTJjOS0zZU9DemEtbXc3Q2xTY014dTlWYnR1cTA4Ykk4clR2MExLMUFLbzNFa2xRMmctOFVCRU1meE1XSG11c0Y0REt4a3V3Nnp1X291YVFBenBJcTVkSlJfQkFkTG1ObWJCaVV6TnZJci11ZDV2N1dVc9IBjwJBVV95cUxPRlA1dGxXemVQVWprQTVRQWJ5LW12anY0Y1dnVExmQ1lhSVcxTGxlZVU3cjFZbTcxQlZUUVNscnkwN2NGdE9DYkNrUERIbmUyMWpsTHZsVHZZREFaZTZfVGhkaUdRYVB0dFYyNERzVGx5Q2hUT2ZoMHJNWXlyemsxNnVsMTc2dmMxY0FhSEtiSzA1TDlkUGJOeTBvT1FBRzRzSFVpcGdBR00yczNUNUxXYU9zODZaOElYckdCdmlpY1ZEOGZUa3RGNVhpam4ySExFNHk5ZnFPQ3l3b1phMnlITlBNNTZDZ3VlNVdtVTE2M0cyemtKUE9RNmZqbTlJNkhvMEdtYnMtb2JFRXlHWWJV?oc=5
 
-- Hafiz plotting India attacks using Bangladesh as launchpad: Intel - Times of India
-  Hafiz plotting India attacks using Bangladesh as
+- Hafiz plotting India attacks using Bangladesh as launchpad: Intel - The Times of India
+  Hafiz plotting India attacks using Bangladesh as launch
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWVYOVV2OUl2R2hIVThTQVBhWXpjbmRoejVLMWxKS0FtOW1lcUpHeVNZM1dHS21VSzN1RVc3UE5WRzYwOUhqUUl4QjdWU1B1Z2VMbFZvUHdZY3BXeGdvQ0pnQWRFLU9GVFRZTEtFTG1xQ0Nfb0ljUEFWSEFLbjhqTUM2cVdJOHFNYUpaRTNiNEdMMDJyVTBxV3VsYVlDTC1reHhKUURTUUJVbFJOYUg1NWhLbHg4VGtWTlQ4NW5rQlFEWVAzQVJfLXl0WEfSAdIBQVVfeXFMT3dPUDA3Ri10QUM2dDJvUVRqYkhNejE0SmNRNlgwTlFUdGkxSWxpVkV4Qng3ZVZLc25nLXdWUmJ3VGM2a3JldUVudW0tam1xSERUX05wNm5rNTh2ck5tN0FaaUQxME5xbUgySndrZHN4cGNpQ2J3eWpGZXgxZzU5ajN4bUk3S0hSOUdnMi1ZOHNNZExzeVc1SDZxT0tUcTNPbEMwX0ttbmM1VUJkQWljdGpfdXZPaUtjeGp1SlVUWmdGdFFxNlZBSVlRdmdOc2hweE1R?oc=5
 
-- Who is Matt Forney? US H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian’ | Hindustan Times - Hindustan Times
-  H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxORWI3M3UtMEg0SVNBeXpFQWpyZzhfLUlZY1oxczJaVEVGR0JpSkhzc2JPNGpuekp3ZW5zTnlFOEwycEViYm1sMHoyX1l4TU1sWEZSSGZxTEFvbEZiZGZYQ3BHMGZsYklZamRTc1FQWXd2UWdwYjRTVURJQXJCd2dTdnVScXQzbDVObTJYcjJFczBnaVBZdWwzRGJ0NHNieFBWY09QejdUU3M3U01ROXJ5LUxuZHpnYll5b0hsTy1rSDk0OTg0dmlueC1sVjJVbk83UU9tTk5tN2lBNEZhR1dFZk9sZFFaUXVMVFRjUDlCN1hPOGdJbFI5a2ZsSTVhcmpBS2owMHgwSk91dFpTOVRDM9IBlgJBVV95cUxNb092aks1THB5V3E3MklndVMxM2dIbkFHdU9mXzVOTTNLeG1FbnVMT3Z2MmNmT1VzZTJuamQwNGgxMjdEQ0JILTFXQWxyN040NkZzMi1IaFh3RWFBYmtBYVh5WUR2N1djRnVYNjlZNVA3SW8wa0YwTWlFX3pUdEFmSlZWZWduWFZpeGxyQW9CeGYxejByaEVfUHptdENqSEJ6SkwtZ2YzYVJ1V2JfeGE4dldXMF9WeWNUNXExaDlDLWtTa2NQQkxJUHVYOERmdW8wczlUb3B6d096VnlSOU9aUTctbXozNnhDSjZDTTVqcWVyN2lXNHBpcXN3RGM1WXdpaXVCVVR5RlB1M0ROZHp0SEhXdm9HZw?oc=5
+- School assembly news headlines, November 3: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 3: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeHF5OF9IaVVxc0x4eGtkay1LekR4OVBUMFV3bkFidmVsb2pWcjBSaVhFTTN0eTk0eVVFSXN4ZnBtc1NkZXJiNDlDMFJ4UHVvWE5MUzRBaGZmWnFILXdoTUhvMEpJRkJLa2NUcXozNy1NcVlLWWwzb1NCZmFpQkkxMnlaRjlHSUVtYjJ6ckxhVW01SklrNkpNd0tQSVRDNXJtczQ3dkJVWm9ZQ05Icnp4VGJOWTQtWTRBS3lMNHQ1ejhQU3drS3JMeGx5QTNRNnZyOEd4RF9WTmc5M0VveFdPemxzdzLSAeoBQVVfeXFMTy1VZF9Mei15VV9oeGhUT2lzRUpQQ21ZT1AtNGZfcm9ubUl6Q29hN1BXOTBBU1JPYkFOQ0J0REJFeU1zOG1BeGRUSFJNN0IxQkpyLTJoVjlfS3puUmpxOHYyTEctemcwU1pNRUlNUUJaRnkxa3lwaWtxUGtzN1hDdFRSV0p5ZGtVdDRLdEpMYUlPcENZeFJDZTRMSUQ3Mko1bEd4ZUJEYU5Ud2pKNEhyLVIyWDFkQ0pmUWV2UnFDdGR5U2dwQWc2RWhWWWJCcTBZOXZaY2pnV0VZVUl5Z1ZCbWFrSjltU3gwOVhB?oc=5
 
-- India, Russia To Ink Mobility Pact During Putin's Visit; 70,000 Indians Set To Get Legal Work Grant - News18
-  India, Russia To Ink Mobility Pact During Putin's Visit. 70,000
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1czdGc3cnY1RmdVMGJ6M29jYm9hM1hNNzNDdXg1N2pPSGx3TFJjVmY2b2hmVXI0RDJFM1E4ekZFZTAwRVQyWURlbzJ2LTdwczAzM2VXSS1YOXJKckJqZFhjdGNKb1JYcXI1MDUtQnVuSEV3aXB5b1I2T1g5eHozTGxKR3NzaUt3MnFNXzNVdmJnaGpoY3lwUnMxV2pMTmxnZk4wY1VLTV9hdkRkX3hQdFNsNVdvaWF6WEMydXE1bXVYTW8wTF9tWDZvZUpCMGg4Q2Fn0gHYAUFVX3lxTE10ckI3NmNUVjB6dGdoNm9JdG04Y2VJRDV3d0g4ODQ0NXE1Vk1EaTJ0SnVOamR6Mlpjamc4dlh4dlBWcENiU2xtZXZBZTBQZ0trX1huczBqYmVnZDB1cDZsb1pGR3lTN1hlOFoxQll1VXZaMTBoZVQ2TndJSmpYY2pMX3dyTlVWWFBqLVAzUy1zN3YwRDhpWXNRODg4bmlGaVpybzRxUnkyUGtWckdZWDNENEtNTUZGbUx3YW1xUGVnVXd2ZHNhY2ktSGk1N0lMTHFSME5BbXRzOA?oc=5
+- In Phase 2 Of Bihar Assembly Polls, The Seats Due For Big Fights - NDTV
+  In Phase 2 Of Bihar Assembly Polls, The Se
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPNFdDT1hRSGJwZ3pVZXR1S1BpOVhXRFlmS2pMZWJTUnVjVTVDUTFfWWhvRGY5bDlaeEo5TktMQUd5eThGZWYwQmlGR0plRHVsbDF0SGVUdm1FLVJSZzFzNk5lRURrRnJ3WDhlbURSSDRCdmJLaTJGVmtKai04eXcxOThhcU9Fd0xObjBGblI4RGc1VjNOMzRibTdRc3lWOV95ZDVDVXlxc2NSQTJLdkJOZUpwV0wxeHNrQjRMd3FUaWJLOFJTVzN2V2VBcF9IZw?oc=5
 
-- India's population-adjusted road deaths at 30-year high, shows data - Business Standard
-  India's population-adjusted road deaths at
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXl0czEySGctdVVLWHlWTE5iUUNUZHlseHBsT3NlTF9qV3B5SjlxZG5JNmpSazUtbXdDTjdGT1NuaWxQUi1TcnNPeWdhTkcxVnNUd1ZWaFNzMEJudUg4TWRBS1ZFeV9kVW1UMnZ5RjhLUnJfbTJVb3RLYmxXSzVmTVhRSE1ndF9uc1RYY0dpOUJ4TEdDTEc3cDI4dkJobE40MVY2Z1Vfb1JxM1R0Y0xDVy0yLVdpRXBLQ0txZmN3UTRlcmREWWJrSm52ZjlVQdIB0wFBVV95cUxOSmhSVHZlODVUbmdVVU5QV2swamlwa25sem1TOGh5M21TRVN5cE1KcXBMMVNKTzM4RHpUU1RGaEg0WS0xcVVIM0QwYy1LNExQb2ZMSzdkUmdWd0xkaHpWV1dPeFRPa2pvT21CdXhteHIxUkcwQllqVFVlNTFwbXdNREhkazUxNV9LeUxyYW1CMlZjeC10V0F5TUZRQWlReUhabVJlX0Y2dnFhMS1YQ2xBakpGV1k4bkVQTUpkQ1FSMXdLcUE5dnV1TkM3cWViV05adDdz?oc=5
+- ‘We are in a moment where minority rights in US are under attack... we need to step up’ | India News - Hindustan Times
+  ‘We are in a moment where minority rights in US are under attack... we need to step
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV2hoRU13ZmZPbFd4M1pSUWpNT0pDdE9jUVNmOGp0aDF3SGNSWXgwS2ttdkZEU1pwTjA4UGpSRE9iY3lRZ3JtNDBReXo1enZ4dWNSc1U3aV9uVnh3d0hlQ0E1Ty1LaDR1RjZvSHJIeG1DanliWW5wR2ZsWkFOZmUtQzZOWWttN2pKMEt2ZFJ0dEpyUHNhMS1NN1hmQVZPcUJLQXpTOWRDN04tZk5kcWVaa19rU19TUVRtSmxKOGNYWUZmekRRZHUzU0pJS1JyNXpfa1pZNl9XdEJDejhjbkHSAeMBQVVfeXFMT2RXM2JCRzNtQVVtel9CcVhTR3lLWEZwWXJvYVV0REhXRS1NWE9iQkV2MFlzdm5ocnVZNTY4S2tVbE55ZkZGaTh1TldoVHVRQUI1emJoelNSNFhRVmgzUGloZUZqVFhacTNfYW1RZWYya1VKd0JQUTZkSHg0MUdudVhwQllDZmsxSGFEekU3ZFh1azhrSGdSNlhMa3A2RjlwRERHV0x1cGpOaEZ2QmJBT3VRcVF6dE9CTGhkQk1ZYkx1ajhDY2hGcFdSa0Itd0szUzk0X3ZBMlZQV2lGQjg3aFBrNHM?oc=5
 
-- Red Fort Blast Live: 8 Dead After Explosion In Car Near Red Fort In Delhi, Amit Shah Visits Blast Site - NDTV
+- Red Fort Blast Live: 9 Dead After Explosion In Car Near Red Fort In Delhi, Amit Shah Visits Blast Site - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2
   🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2JvNDFuazZ2ZXd6eUItYVZkZFlFTzZ5bkxHVWhGY3BuTDRpZC05OHhKcGQ1MTJjOS0zZU9DemEtbXc3Q2xTY014dTlWYnR1cTA4Ykk4clR2MExLMUFLbzNFa2xRMmctOFVCRU1meE1XSG11c0Y0REt4a3V3Nnp1X291YVFBenBJcTVkSlJfQkFkTG1ObWJCaVV6TnZJci11ZDV2N1dVc9IBjwJBVV95cUxPRlA1dGxXemVQVWprQTVRQWJ5LW12anY0Y1dnVExmQ1lhSVcxTGxlZVU3cjFZbTcxQlZUUVNscnkwN2NGdE9DYkNrUERIbmUyMWpsTHZsVHZZREFaZTZfVGhkaUdRYVB0dFYyNERzVGx5Q2hUT2ZoMHJNWXlyemsxNnVsMTc2dmMxY0FhSEtiSzA1TDlkUGJOeTBvT1FBRzRzSFVpcGdBR00yczNUNUxXYU9zODZaOElYckdCdmlpY1ZEOGZUa3RGNVhpam4ySExFNHk5ZnFPQ3l3b1phMnlITlBNNTZDZ3VlNVdtVTE2M0cyemtKUE9RNmZqbTlJNkhvMEdtYnMtb2JFRXlHWWJV?oc=5
 
-- Hafiz plotting India attacks using Bangladesh as launchpad: Intel - Times of India
-  Hafiz plotting India attacks using Bangladesh as
+- Hafiz plotting India attacks using Bangladesh as launchpad: Intel - The Times of India
+  Hafiz plotting India attacks using Bangladesh as launch
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWVYOVV2OUl2R2hIVThTQVBhWXpjbmRoejVLMWxKS0FtOW1lcUpHeVNZM1dHS21VSzN1RVc3UE5WRzYwOUhqUUl4QjdWU1B1Z2VMbFZvUHdZY3BXeGdvQ0pnQWRFLU9GVFRZTEtFTG1xQ0Nfb0ljUEFWSEFLbjhqTUM2cVdJOHFNYUpaRTNiNEdMMDJyVTBxV3VsYVlDTC1reHhKUURTUUJVbFJOYUg1NWhLbHg4VGtWTlQ4NW5rQlFEWVAzQVJfLXl0WEfSAdIBQVVfeXFMT3dPUDA3Ri10QUM2dDJvUVRqYkhNejE0SmNRNlgwTlFUdGkxSWxpVkV4Qng3ZVZLc25nLXdWUmJ3VGM2a3JldUVudW0tam1xSERUX05wNm5rNTh2ck5tN0FaaUQxME5xbUgySndrZHN4cGNpQ2J3eWpGZXgxZzU5ajN4bUk3S0hSOUdnMi1ZOHNNZExzeVc1SDZxT0tUcTNPbEMwX0ttbmM1VUJkQWljdGpfdXZPaUtjeGp1SlVUWmdGdFFxNlZBSVlRdmdOc2hweE1R?oc=5
 
-- Who is Matt Forney? US H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian’ | Hindustan Times - Hindustan Times
-  H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxORWI3M3UtMEg0SVNBeXpFQWpyZzhfLUlZY1oxczJaVEVGR0JpSkhzc2JPNGpuekp3ZW5zTnlFOEwycEViYm1sMHoyX1l4TU1sWEZSSGZxTEFvbEZiZGZYQ3BHMGZsYklZamRTc1FQWXd2UWdwYjRTVURJQXJCd2dTdnVScXQzbDVObTJYcjJFczBnaVBZdWwzRGJ0NHNieFBWY09QejdUU3M3U01ROXJ5LUxuZHpnYll5b0hsTy1rSDk0OTg0dmlueC1sVjJVbk83UU9tTk5tN2lBNEZhR1dFZk9sZFFaUXVMVFRjUDlCN1hPOGdJbFI5a2ZsSTVhcmpBS2owMHgwSk91dFpTOVRDM9IBlgJBVV95cUxNb092aks1THB5V3E3MklndVMxM2dIbkFHdU9mXzVOTTNLeG1FbnVMT3Z2MmNmT1VzZTJuamQwNGgxMjdEQ0JILTFXQWxyN040NkZzMi1IaFh3RWFBYmtBYVh5WUR2N1djRnVYNjlZNVA3SW8wa0YwTWlFX3pUdEFmSlZWZWduWFZpeGxyQW9CeGYxejByaEVfUHptdENqSEJ6SkwtZ2YzYVJ1V2JfeGE4dldXMF9WeWNUNXExaDlDLWtTa2NQQkxJUHVYOERmdW8wczlUb3B6d096VnlSOU9aUTctbXozNnhDSjZDTTVqcWVyN2lXNHBpcXN3RGM1WXdpaXVCVVR5RlB1M0ROZHp0SEhXdm9HZw?oc=5
+- School assembly news headlines, November 3: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 3: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeHF5OF9IaVVxc0x4eGtkay1LekR4OVBUMFV3bkFidmVsb2pWcjBSaVhFTTN0eTk0eVVFSXN4ZnBtc1NkZXJiNDlDMFJ4UHVvWE5MUzRBaGZmWnFILXdoTUhvMEpJRkJLa2NUcXozNy1NcVlLWWwzb1NCZmFpQkkxMnlaRjlHSUVtYjJ6ckxhVW01SklrNkpNd0tQSVRDNXJtczQ3dkJVWm9ZQ05Icnp4VGJOWTQtWTRBS3lMNHQ1ejhQU3drS3JMeGx5QTNRNnZyOEd4RF9WTmc5M0VveFdPemxzdzLSAeoBQVVfeXFMTy1VZF9Mei15VV9oeGhUT2lzRUpQQ21ZT1AtNGZfcm9ubUl6Q29hN1BXOTBBU1JPYkFOQ0J0REJFeU1zOG1BeGRUSFJNN0IxQkpyLTJoVjlfS3puUmpxOHYyTEctemcwU1pNRUlNUUJaRnkxa3lwaWtxUGtzN1hDdFRSV0p5ZGtVdDRLdEpMYUlPcENZeFJDZTRMSUQ3Mko1bEd4ZUJEYU5Ud2pKNEhyLVIyWDFkQ0pmUWV2UnFDdGR5U2dwQWc2RWhWWWJCcTBZOXZaY2pnV0VZVUl5Z1ZCbWFrSjltU3gwOVhB?oc=5
 
-- India, Russia To Ink Mobility Pact During Putin's Visit; 70,000 Indians Set To Get Legal Work Grant - News18
-  India, Russia To Ink Mobility Pact During Putin's Visit. 70,000
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1czdGc3cnY1RmdVMGJ6M29jYm9hM1hNNzNDdXg1N2pPSGx3TFJjVmY2b2hmVXI0RDJFM1E4ekZFZTAwRVQyWURlbzJ2LTdwczAzM2VXSS1YOXJKckJqZFhjdGNKb1JYcXI1MDUtQnVuSEV3aXB5b1I2T1g5eHozTGxKR3NzaUt3MnFNXzNVdmJnaGpoY3lwUnMxV2pMTmxnZk4wY1VLTV9hdkRkX3hQdFNsNVdvaWF6WEMydXE1bXVYTW8wTF9tWDZvZUpCMGg4Q2Fn0gHYAUFVX3lxTE10ckI3NmNUVjB6dGdoNm9JdG04Y2VJRDV3d0g4ODQ0NXE1Vk1EaTJ0SnVOamR6Mlpjamc4dlh4dlBWcENiU2xtZXZBZTBQZ0trX1huczBqYmVnZDB1cDZsb1pGR3lTN1hlOFoxQll1VXZaMTBoZVQ2TndJSmpYY2pMX3dyTlVWWFBqLVAzUy1zN3YwRDhpWXNRODg4bmlGaVpybzRxUnkyUGtWckdZWDNENEtNTUZGbUx3YW1xUGVnVXd2ZHNhY2ktSGk1N0lMTHFSME5BbXRzOA?oc=5
+- In Phase 2 Of Bihar Assembly Polls, The Seats Due For Big Fights - NDTV
+  In Phase 2 Of Bihar Assembly Polls, The Se
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPNFdDT1hRSGJwZ3pVZXR1S1BpOVhXRFlmS2pMZWJTUnVjVTVDUTFfWWhvRGY5bDlaeEo5TktMQUd5eThGZWYwQmlGR0plRHVsbDF0SGVUdm1FLVJSZzFzNk5lRURrRnJ3WDhlbURSSDRCdmJLaTJGVmtKai04eXcxOThhcU9Fd0xObjBGblI4RGc1VjNOMzRibTdRc3lWOV95ZDVDVXlxc2NSQTJLdkJOZUpwV0wxeHNrQjRMd3FUaWJLOFJTVzN2V2VBcF9IZw?oc=5
 
-- India's population-adjusted road deaths at 30-year high, shows data - Business Standard
-  India's population-adjusted road deaths at
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXl0czEySGctdVVLWHlWTE5iUUNUZHlseHBsT3NlTF9qV3B5SjlxZG5JNmpSazUtbXdDTjdGT1NuaWxQUi1TcnNPeWdhTkcxVnNUd1ZWaFNzMEJudUg4TWRBS1ZFeV9kVW1UMnZ5RjhLUnJfbTJVb3RLYmxXSzVmTVhRSE1ndF9uc1RYY0dpOUJ4TEdDTEc3cDI4dkJobE40MVY2Z1Vfb1JxM1R0Y0xDVy0yLVdpRXBLQ0txZmN3UTRlcmREWWJrSm52ZjlVQdIB0wFBVV95cUxOSmhSVHZlODVUbmdVVU5QV2swamlwa25sem1TOGh5M21TRVN5cE1KcXBMMVNKTzM4RHpUU1RGaEg0WS0xcVVIM0QwYy1LNExQb2ZMSzdkUmdWd0xkaHpWV1dPeFRPa2pvT21CdXhteHIxUkcwQllqVFVlNTFwbXdNREhkazUxNV9LeUxyYW1CMlZjeC10V0F5TUZRQWlReUhabVJlX0Y2dnFhMS1YQ2xBakpGV1k4bkVQTUpkQ1FSMXdLcUE5dnV1TkM3cWViV05adDdz?oc=5
+- ‘We are in a moment where minority rights in US are under attack... we need to step up’ | India News - Hindustan Times
+  ‘We are in a moment where minority rights in US are under attack... we need to step
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV2hoRU13ZmZPbFd4M1pSUWpNT0pDdE9jUVNmOGp0aDF3SGNSWXgwS2ttdkZEU1pwTjA4UGpSRE9iY3lRZ3JtNDBReXo1enZ4dWNSc1U3aV9uVnh3d0hlQ0E1Ty1LaDR1RjZvSHJIeG1DanliWW5wR2ZsWkFOZmUtQzZOWWttN2pKMEt2ZFJ0dEpyUHNhMS1NN1hmQVZPcUJLQXpTOWRDN04tZk5kcWVaa19rU19TUVRtSmxKOGNYWUZmekRRZHUzU0pJS1JyNXpfa1pZNl9XdEJDejhjbkHSAeMBQVVfeXFMT2RXM2JCRzNtQVVtel9CcVhTR3lLWEZwWXJvYVV0REhXRS1NWE9iQkV2MFlzdm5ocnVZNTY4S2tVbE55ZkZGaTh1TldoVHVRQUI1emJoelNSNFhRVmgzUGloZUZqVFhacTNfYW1RZWYya1VKd0JQUTZkSHg0MUdudVhwQllDZmsxSGFEekU3ZFh1azhrSGdSNlhMa3A2RjlwRERHV0x1cGpOaEZ2QmJBT3VRcVF6dE9CTGhkQk1ZYkx1ajhDY2hGcFdSa0Itd0szUzk0X3ZBMlZQV2lGQjg3aFBrNHM?oc=5
 
-- Red Fort Blast Live: 8 Dead After Explosion In Car Near Red Fort In Delhi, Amit Shah Visits Blast Site - NDTV
+- Red Fort Blast Live: 9 Dead After Explosion In Car Near Red Fort In Delhi, Amit Shah Visits Blast Site - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2
   🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUk2NFNsckZPN3cwZVh5TzRVZkQxMWdxX0tqMHZlWGRYZkZSQUUxOGVSVU84RnBRWmtwTk40em9UVlRSakVIakQ2empDdlZfQlVPTE0ySlduWXIzT3hnMmdoQl9zWVJSM2JvNDFuazZ2ZXd6eUItYVZkZFlFTzZ5bkxHVWhGY3BuTDRpZC05OHhKcGQ1MTJjOS0zZU9DemEtbXc3Q2xTY014dTlWYnR1cTA4Ykk4clR2MExLMUFLbzNFa2xRMmctOFVCRU1meE1XSG11c0Y0REt4a3V3Nnp1X291YVFBenBJcTVkSlJfQkFkTG1ObWJCaVV6TnZJci11ZDV2N1dVc9IBjwJBVV95cUxPRlA1dGxXemVQVWprQTVRQWJ5LW12anY0Y1dnVExmQ1lhSVcxTGxlZVU3cjFZbTcxQlZUUVNscnkwN2NGdE9DYkNrUERIbmUyMWpsTHZsVHZZREFaZTZfVGhkaUdRYVB0dFYyNERzVGx5Q2hUT2ZoMHJNWXlyemsxNnVsMTc2dmMxY0FhSEtiSzA1TDlkUGJOeTBvT1FBRzRzSFVpcGdBR00yczNUNUxXYU9zODZaOElYckdCdmlpY1ZEOGZUa3RGNVhpam4ySExFNHk5ZnFPQ3l3b1phMnlITlBNNTZDZ3VlNVdtVTE2M0cyemtKUE9RNmZqbTlJNkhvMEdtYnMtb2JFRXlHWWJV?oc=5
 
-- Hafiz plotting India attacks using Bangladesh as launchpad: Intel - Times of India
-  Hafiz plotting India attacks using Bangladesh as
+- Hafiz plotting India attacks using Bangladesh as launchpad: Intel - The Times of India
+  Hafiz plotting India attacks using Bangladesh as launch
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWVYOVV2OUl2R2hIVThTQVBhWXpjbmRoejVLMWxKS0FtOW1lcUpHeVNZM1dHS21VSzN1RVc3UE5WRzYwOUhqUUl4QjdWU1B1Z2VMbFZvUHdZY3BXeGdvQ0pnQWRFLU9GVFRZTEtFTG1xQ0Nfb0ljUEFWSEFLbjhqTUM2cVdJOHFNYUpaRTNiNEdMMDJyVTBxV3VsYVlDTC1reHhKUURTUUJVbFJOYUg1NWhLbHg4VGtWTlQ4NW5rQlFEWVAzQVJfLXl0WEfSAdIBQVVfeXFMT3dPUDA3Ri10QUM2dDJvUVRqYkhNejE0SmNRNlgwTlFUdGkxSWxpVkV4Qng3ZVZLc25nLXdWUmJ3VGM2a3JldUVudW0tam1xSERUX05wNm5rNTh2ck5tN0FaaUQxME5xbUgySndrZHN4cGNpQ2J3eWpGZXgxZzU5ajN4bUk3S0hSOUdnMi1ZOHNNZExzeVc1SDZxT0tUcTNPbEMwX0ttbmM1VUJkQWljdGpfdXZPaUtjeGp1SlVUWmdGdFFxNlZBSVlRdmdOc2hweE1R?oc=5
 
-- Who is Matt Forney? US H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian’ | Hindustan Times - Hindustan Times
-  H-1B journalist fired after shocking remarks against Indian origin CEO, ‘Deport every Indian
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxORWI3M3UtMEg0SVNBeXpFQWpyZzhfLUlZY1oxczJaVEVGR0JpSkhzc2JPNGpuekp3ZW5zTnlFOEwycEViYm1sMHoyX1l4TU1sWEZSSGZxTEFvbEZiZGZYQ3BHMGZsYklZamRTc1FQWXd2UWdwYjRTVURJQXJCd2dTdnVScXQzbDVObTJYcjJFczBnaVBZdWwzRGJ0NHNieFBWY09QejdUU3M3U01ROXJ5LUxuZHpnYll5b0hsTy1rSDk0OTg0dmlueC1sVjJVbk83UU9tTk5tN2lBNEZhR1dFZk9sZFFaUXVMVFRjUDlCN1hPOGdJbFI5a2ZsSTVhcmpBS2owMHgwSk91dFpTOVRDM9IBlgJBVV95cUxNb092aks1THB5V3E3MklndVMxM2dIbkFHdU9mXzVOTTNLeG1FbnVMT3Z2MmNmT1VzZTJuamQwNGgxMjdEQ0JILTFXQWxyN040NkZzMi1IaFh3RWFBYmtBYVh5WUR2N1djRnVYNjlZNVA3SW8wa0YwTWlFX3pUdEFmSlZWZWduWFZpeGxyQW9CeGYxejByaEVfUHptdENqSEJ6SkwtZ2YzYVJ1V2JfeGE4dldXMF9WeWNUNXExaDlDLWtTa2NQQkxJUHVYOERmdW8wczlUb3B6d096VnlSOU9aUTctbXozNnhDSjZDTTVqcWVyN2lXNHBpcXN3RGM1WXdpaXVCVVR5RlB1M0ROZHp0SEhXdm9HZw?oc=5
+- School assembly news headlines, November 3: Top India, world, sports, business news - India Today
+  School assembly news headlines, November 3: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeHF5OF9IaVVxc0x4eGtkay1LekR4OVBUMFV3bkFidmVsb2pWcjBSaVhFTTN0eTk0eVVFSXN4ZnBtc1NkZXJiNDlDMFJ4UHVvWE5MUzRBaGZmWnFILXdoTUhvMEpJRkJLa2NUcXozNy1NcVlLWWwzb1NCZmFpQkkxMnlaRjlHSUVtYjJ6ckxhVW01SklrNkpNd0tQSVRDNXJtczQ3dkJVWm9ZQ05Icnp4VGJOWTQtWTRBS3lMNHQ1ejhQU3drS3JMeGx5QTNRNnZyOEd4RF9WTmc5M0VveFdPemxzdzLSAeoBQVVfeXFMTy1VZF9Mei15VV9oeGhUT2lzRUpQQ21ZT1AtNGZfcm9ubUl6Q29hN1BXOTBBU1JPYkFOQ0J0REJFeU1zOG1BeGRUSFJNN0IxQkpyLTJoVjlfS3puUmpxOHYyTEctemcwU1pNRUlNUUJaRnkxa3lwaWtxUGtzN1hDdFRSV0p5ZGtVdDRLdEpMYUlPcENZeFJDZTRMSUQ3Mko1bEd4ZUJEYU5Ud2pKNEhyLVIyWDFkQ0pmUWV2UnFDdGR5U2dwQWc2RWhWWWJCcTBZOXZaY2pnV0VZVUl5Z1ZCbWFrSjltU3gwOVhB?oc=5
 
-- India, Russia To Ink Mobility Pact During Putin's Visit; 70,000 Indians Set To Get Legal Work Grant - News18
-  India, Russia To Ink Mobility Pact During Putin's Visit. 70,000
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1czdGc3cnY1RmdVMGJ6M29jYm9hM1hNNzNDdXg1N2pPSGx3TFJjVmY2b2hmVXI0RDJFM1E4ekZFZTAwRVQyWURlbzJ2LTdwczAzM2VXSS1YOXJKckJqZFhjdGNKb1JYcXI1MDUtQnVuSEV3aXB5b1I2T1g5eHozTGxKR3NzaUt3MnFNXzNVdmJnaGpoY3lwUnMxV2pMTmxnZk4wY1VLTV9hdkRkX3hQdFNsNVdvaWF6WEMydXE1bXVYTW8wTF9tWDZvZUpCMGg4Q2Fn0gHYAUFVX3lxTE10ckI3NmNUVjB6dGdoNm9JdG04Y2VJRDV3d0g4ODQ0NXE1Vk1EaTJ0SnVOamR6Mlpjamc4dlh4dlBWcENiU2xtZXZBZTBQZ0trX1huczBqYmVnZDB1cDZsb1pGR3lTN1hlOFoxQll1VXZaMTBoZVQ2TndJSmpYY2pMX3dyTlVWWFBqLVAzUy1zN3YwRDhpWXNRODg4bmlGaVpybzRxUnkyUGtWckdZWDNENEtNTUZGbUx3YW1xUGVnVXd2ZHNhY2ktSGk1N0lMTHFSME5BbXRzOA?oc=5
+- In Phase 2 Of Bihar Assembly Polls, The Seats Due For Big Fights - NDTV
+  In Phase 2 Of Bihar Assembly Polls, The Se
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPNFdDT1hRSGJwZ3pVZXR1S1BpOVhXRFlmS2pMZWJTUnVjVTVDUTFfWWhvRGY5bDlaeEo5TktMQUd5eThGZWYwQmlGR0plRHVsbDF0SGVUdm1FLVJSZzFzNk5lRURrRnJ3WDhlbURSSDRCdmJLaTJGVmtKai04eXcxOThhcU9Fd0xObjBGblI4RGc1VjNOMzRibTdRc3lWOV95ZDVDVXlxc2NSQTJLdkJOZUpwV0wxeHNrQjRMd3FUaWJLOFJTVzN2V2VBcF9IZw?oc=5
 
-- India's population-adjusted road deaths at 30-year high, shows data - Business Standard
-  India's population-adjusted road deaths at
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXl0czEySGctdVVLWHlWTE5iUUNUZHlseHBsT3NlTF9qV3B5SjlxZG5JNmpSazUtbXdDTjdGT1NuaWxQUi1TcnNPeWdhTkcxVnNUd1ZWaFNzMEJudUg4TWRBS1ZFeV9kVW1UMnZ5RjhLUnJfbTJVb3RLYmxXSzVmTVhRSE1ndF9uc1RYY0dpOUJ4TEdDTEc3cDI4dkJobE40MVY2Z1Vfb1JxM1R0Y0xDVy0yLVdpRXBLQ0txZmN3UTRlcmREWWJrSm52ZjlVQdIB0wFBVV95cUxOSmhSVHZlODVUbmdVVU5QV2swamlwa25sem1TOGh5M21TRVN5cE1KcXBMMVNKTzM4RHpUU1RGaEg0WS0xcVVIM0QwYy1LNExQb2ZMSzdkUmdWd0xkaHpWV1dPeFRPa2pvT21CdXhteHIxUkcwQllqVFVlNTFwbXdNREhkazUxNV9LeUxyYW1CMlZjeC10V0F5TUZRQWlReUhabVJlX0Y2dnFhMS1YQ2xBakpGV1k4bkVQTUpkQ1FSMXdLcUE5dnV1TkM3cWViV05adDdz?oc=5
+- ‘We are in a moment where minority rights in US are under attack... we need to step up’ | India News - Hindustan Times
+  ‘We are in a moment where minority rights in US are under attack... we need to step
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV2hoRU13ZmZPbFd4M1pSUWpNT0pDdE9jUVNmOGp0aDF3SGNSWXgwS2ttdkZEU1pwTjA4UGpSRE9iY3lRZ3JtNDBReXo1enZ4dWNSc1U3aV9uVnh3d0hlQ0E1Ty1LaDR1RjZvSHJIeG1DanliWW5wR2ZsWkFOZmUtQzZOWWttN2pKMEt2ZFJ0dEpyUHNhMS1NN1hmQVZPcUJLQXpTOWRDN04tZk5kcWVaa19rU19TUVRtSmxKOGNYWUZmekRRZHUzU0pJS1JyNXpfa1pZNl9XdEJDejhjbkHSAeMBQVVfeXFMT2RXM2JCRzNtQVVtel9CcVhTR3lLWEZwWXJvYVV0REhXRS1NWE9iQkV2MFlzdm5ocnVZNTY4S2tVbE55ZkZGaTh1TldoVHVRQUI1emJoelNSNFhRVmgzUGloZUZqVFhacTNfYW1RZWYya1VKd0JQUTZkSHg0MUdudVhwQllDZmsxSGFEekU3ZFh1azhrSGdSNlhMa3A2RjlwRERHV0x1cGpOaEZ2QmJBT3VRcVF6dE9CTGhkQk1ZYkx1ajhDY2hGcFdSa0Itd0szUzk0X3ZBMlZQV2lGQjg3aFBrNHM?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-11-10 18:27:20 UTC_
+_Last updated: 2025-11-11 01:15:57 UTC_
