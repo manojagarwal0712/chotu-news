@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- Infosys Prize 2025 recognises research on Prakrit languages, DNA repair and renewable electricity
+- R&AW chief gets additional charge of security secretary, days after Delhi blast
   
-  🔗 https://indianexpress.com/article/india/infosys-prize-2025-research-prakrit-languages-dna-repair-renewable-electricity-10361420/
+  🔗 https://indianexpress.com/article/india/raw-chief-gets-additional-charge-of-security-secretary-days-after-delhi-blast-10361826/
 
-- Exit polls may give NDA the edge but Tejashwi has a different prediction: 160-plus for Mahagathbandhan in Bihar
+- Week into SIR 2, EC says 72% voters have got enumeration forms
   
-  🔗 https://indianexpress.com/article/india/exit-polls-nda-edge-tejashwi-different-prediction-160-plus-mahagathbandhan-bihar-10361186/
+  🔗 https://indianexpress.com/article/india/week-into-sir-2-ec-says-72-voters-have-got-enumeration-forms-10361823/
 
-- MP sarpanchs now have power implement projects worth Rs 25 lakh: CM Mohan Yadav
+- Chidambaram after Red Fort blast: Should ask what turns educated Indians into terrorists
   
-  🔗 https://indianexpress.com/article/india/mp-sarpanchs-now-have-power-implement-projects-worth-rs-25-lakh-cm-mohan-yadav-10361117/
+  🔗 https://indianexpress.com/article/india/chidambaram-red-fort-blast-ask-what-turns-educated-indians-terrorists-10361773/
 
-- Police sweep across Kashmir sees raids on 200 locations, hundreds of detentions
+- ‘Senseless act of violence’: Cabinet condemns Red Fort ‘terror incident,’ orders swift probe into Delhi blast
   
-  🔗 https://indianexpress.com/article/india/police-sweep-across-kashmir-sees-raids-on-200-locations-hundreds-of-detentions-10360972/
+  🔗 https://indianexpress.com/article/india/senseless-act-of-violence-cabinet-condemns-red-fort-terror-incident-orders-swift-probe-into-delhi-blast-10361682/
 
-- India to set up immigration check post in Assam, announces PM Modi during 2-day visit to Bhutan
+- House panel on Bills for removal of jailed ministers set up, 26 of 31 members from NDA
   
-  🔗 https://indianexpress.com/article/india/india-immigration-check-post-hatisar-assam-pm-modi-visit-bhutan-10360659/
+  🔗 https://indianexpress.com/article/india/house-panel-bills-removal-jailed-ministers-set-up-26-of-31-members-nda-10361680/
 
-- First radio signal from Interstellar Comet 3I/ATLAS debunks ‘Alien Craft’ theories
+- Quick Heal Tech rolls out upgraded antivirus with AI assistant, dark web monitoring
   
-  🔗 https://indianexpress.com/article/technology/science/first-radio-signal-from-interstellar-comet-3i-atlas-debunks-alien-craft-theories-10361379/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/quick-heal-antivirus-solution-ai-assistant-dark-web-monitoring-10361679/
 
-- Uber introduces new teen and senior features for safer family rides
+- OPPO Find X9 Series debuts with LUMO image engine and Real-Time HDR
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/uber-introduces-new-teen-and-senior-features-for-safer-family-rides-10361107/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/oppo-find-x9-series-debuts-with-lumo-image-engine-and-real-time-hdr-10361537/
 
-- ‘Need to be self-sufficient in AI’: Mustafa Suleyman on Microsoft’s superintelligence quest
+- Samsung might launch Galaxy S26 in January instead of March: Report
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/need-to-be-self-sufficient-ai-mustafa-suleyman-microsoft-10361187/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-s26-series-launch-date-10361076/
 
-- World’s first Microwave Neural Network (MNN) chip outperforms traditional CPUs
+- Google unveils ‘Private AI Compute’: Bringing on-device privacy to Cloud AI
   
-  🔗 https://indianexpress.com/article/technology/science/worlds-first-microwave-neural-network-mnn-chip-outperforms-traditional-cpus-10361092/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-unveils-private-ai-compute-bringing-on-device-privacy-to-cloud-ai-10361523/
 
-- IIT Madras’ AI4Bharat unveils new benchmark test for Indian languages, context
+- Is there a Planet Nine beyond Neptune? Mapping the solar system’s hidden worlds
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/iit-madras-ai4bharat-benchmark-ai-indian-languages-10360996/
+  🔗 https://indianexpress.com/article/technology/science/is-there-a-planet-nine-beyond-neptune-mapping-the-solar-systems-hidden-worlds-10361464/
 
-- Warren Buffett’s $1.3 billion gift — Which four foundations received Berkshire Hathaway stocks
-  Berkshire Hathaway CEO Warren Buffett announced that he is leaving his four family foundations with a billion-dollar parting gift. The four foundations received Berkshire Hathaway stocks.
-  🔗 https://www.livemint.com/companies/news/warren-buffett-s-1-3-billion-gift-which-four-foundations-received-berkshire-hathaway-stocks-11762937591040.html
+- Ford CEO Jim Farley says automaker's had shakeup after ‘humbling’ discovery he found in Tesla Model 3, Chinese EV cars
+  Ford CEO Jim Farley discovered significant differences in wiring when analysing Tesla and Chinese EVs. Despite challenges, the company is investing heavily in EV
+  🔗 https://www.livemint.com/companies/people/ford-ceo-jim-farley-automaker-shakeup-humbling-shocking-discovery-tesla-model-3-less-wiring-chinese-ev-cars-innovation-11762967520839.html
 
-- Quick commerce no longer a mad dash as firms use algos to group orders and cut costs
-  Swiggy Instamart, Blinkit, Zepto, Flipkart Minutes and BigBasket are using algorithms to save on
-  🔗 https://www.livemint.com/companies/quick-commerce-firms-algorithms-group-orders-cut-costs-swiggy-zomato-bigbasket-blinkit-delivery-workers-11762933728601.html
+- Face wash to oral care: Mamaearth parent's new growth path post profit surge
+  Quick commerce now accounts for nearly 10% of the firm's overall revenue.
+  🔗 https://www.livemint.com/companies/face-wash-oral-care-mamaearth-parent-honasaprofit-surge-varun-alagh-quick-commerce-beauty-11762955351811.html
 
-- Reliance International: How global oil dynamics made Abu Dhabi unit a vital trade artery for Reliance
-  Reliance International contributes nearly one-fifths of parent's consolidated revenues. Abu Dhabi-based, oil-trading unit has emerged a key piece in operations at India's largest company
-  🔗 https://www.livemint.com/companies/reliance-international-industries-russia-oil-trade-abu-dhabi-uae-crude-sikka-port-petroleum-products-11762885889173.html
+- Vacation nightmare! Sonder guests left stranded as hotel firm abruptly went out of business after Marriott fallout
+  Marriott's licensing deal with rental company Sonder was terminated. Guests who checked in with Marriott hotels were left
+  🔗 https://www.livemint.com/companies/news/vacation-nightmare-sonder-guests-left-stranded-hotel-firm-abruptly-went-out-business-after-marriott-fallout-bankruptcy-11762952015384.html
 
-- Fed’s Barr Calls for Guardrails as Financial Sector Adopts AI
-  Federal Reserve Governor Michael Barr said there needs to be clear guardrails to prevent risks.
-  🔗 https://www.livemint.com/companies/news/feds-barr-calls-for-guardrails-as-financial-sector-adopts-ai-11762929849484.html
+- Palantir CEO Alex Karp calls out 4-yr college degrees, tells Yale students to learn ‘specific’ skills to make more money
+  Palantir co-founder and CEO Alex Karp feels that four-year college degrees, even from prestigious institutions, may become irrelevant in the AI era.
+  🔗 https://www.livemint.com/companies/people/palantir-ceo-alex-karp-learn-something-specific-not-generalised-4-yr-college-yale-graduate-money-success-students-ai-age-11762956599343.html
 
-- Ratan Tata's 27 year-old vision comes true as Tata Motors demerger completes with trucks business listing
-  The market cap of the two entities adds up to  ₹2.7 trillion. Wednesday's listing of bus and truck maker Tata Motors marks the demerger of the erstwhile company's passenger and commercial
-  🔗 https://www.livemint.com/companies/tata-motors-ratan-passenger-vehicles-demerger-listing-investments-turnaround-automobiles-buses-trucks-iveco-11762925234536.html
+- Debt-laden Kinara Capital looks to sell majority stake for survival
+  Kinara Capital will continue to explore portfolio sales, says founder Hardika Shah.
+  🔗 https://www.livemint.com/companies/news/kinara-capital-majority-stake-sale-strategic-investors-liquidity-crisis-11762952010511.html
 
-- Sebi panel proposes sweeping reforms on conflicts of interest, disclosures and recusals
-  The committee has proposed that candidates for the roles of Sebi chairman, whole-time member, and other lateral entrants make pre-appointment disclosures of all actual,
-  🔗 https://www.livemint.com/market/sebi-panel-proposes-sweeping-reforms-on-conflicts-of-interest-disclosures-and-recusals-11762946569772.html
+- Small-cap stock declares 22.5% second interim dividend, Q2 results 2025 — Check record date here
+  Small-cap stock Man Infraconstruction declared a 22.5% second interim dividend along with a 27% rise in its second-quarter net profits to
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-man-infra-declares-22-5-second-interim-dividend-q2-results-2025-check-record-date-here-11762966545359.html
 
-- Shining Tools IPO allotment expected to be finalised today: Check steps to track status online
-  Shining Tools IPO was open for bidding from November 7 to November 11. The allotment is generally
-  🔗 https://www.livemint.com/market/ipo/shining-tools-ipo-allotment-expected-to-be-finalised-today-check-steps-to-track-status-online-11762948435377.html
+- US stock market today: Dow Jones gains, S&amp;P 500 &amp; Nasdaq slip amid optimism on end to shutdown, AMD rallies 9.6%
+  The S&amp;amp;P 500 dipped 0.1%, the Dow Jones Industrial Average jumped
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-gains-as-investors-anticipate-end-to-shutdown-11762958436989.html
 
-- SpiceJet Q2 Results: Net loss widens to  ₹621 crore on higher costs, revenue drops 13% YoY
-  SpiceJet reported a net loss of  ₹621 crore for Q2 FY26. Revenue fell 13.4% YoY to  ⁹792 crore, impacted by operational costs and
-  🔗 https://www.livemint.com/market/stock-market-news/spicejet-q2-results-net-loss-widens-to-rs-621-crore-revenue-drops-13-yoy-11762946497235.html
+- IRCTC Q2 Results: Net profit rises 13% YoY to  ₹345 crore; interim dividend declared — Check record date, details here
+  IRCTC announced a 13% YoY rise in net profits to  ₹345 crore in the July-September quarter of FY2025-26. The company also
+  🔗 https://www.livemint.com/market/stock-market-news/irctc-q2-results-net-profit-rises-13-yoy-to-rs-345-crore-interim-dividend-declared-check-record-date-details-here-11762958950128.html
 
-- Honasa Consumer Q2 Result: Mamaearth parent posts  ₹39 crore profit vs loss YoY; revenue jumps 16.5%
-  Honasa Consumer posted a strong set of earnings for the second quarter of the financial year 2025-26 (Q2 FY26)
-  🔗 https://www.livemint.com/market/stock-market-news/honasa-consumer-q2-result-mamaearth-parent-posts-rs-39-crore-profit-vs-loss-yoy-revenue-jumps-165-11762945730368.html
+- BCL Industries Q2 Results: Small-cap firm's net profit stands flat at  ₹32 crore; operating margin improves
+  BCL Industries reported Q2FY26 revenue of  ₹720 crore, a 12.4% decline from the previous quarter. The distillery segment showed growth, while
+  🔗 https://www.livemint.com/market/stock-market-news/bcl-industries-q2-results-revenue-slips-4-yoy-to-rs-720-crore-net-profit-nearly-flat-at-rs-32-crore-11762958422752.html
 
-- Sensex-to-gold ratio below historical average: Is it time to sell gold and buy equities? Explained
-  Sensex-to-Gold ratio has dipped well below its long-term average of 1.02x to 0.70x. Past such instances have coincided with periods when equities outperform gold over
-  🔗 https://www.livemint.com/market/commodities/sensex-to-gold-ratio-below-historical-average-is-it-time-to-sell-gold-and-buy-equities-explained-11762944478629.html
+- AMD stock jumps over 6% pre-market Wall Street as chipmaker forecasts data centre-driven sales growth
+   AMD stock price jumped more than 6% during the pre-market trading session on the US stock market. The chipmaker forecasted data centre-driven sales growth in
+  🔗 https://www.livemint.com/market/stock-market-news/amd-stock-jumps-over-6-pre-market-wall-street-as-chipmaker-forecasts-data-centre-driven-sales-growth-11762956222371.html
+
+- Nano Banana to AI Templates: Google Photos is getting 6 big new features
+  Google introduces new features for Google Photos. Can remove sunglasses and edit images using natural language. The Nano Banana model is now available.
+  🔗 https://www.livemint.com/technology/tech-news/nano-banana-to-ai-templates-google-photos-is-getting-6-big-new-features-11762961802211.html
+
+- Sridhar Vembu just dropped a big warning for Arattai users ahead of new update: here's what to know
+  Zoho's Arattai app will add end-to-end encryption to text messages. An update is expected in a couple of weeks, addressing backup complexities.
+  🔗 https://www.livemint.com/technology/tech-news/sridhar-vembu-just-dropped-a-big-warning-for-arattai-users-ahead-of-new-update-11762954025456.html
+
+- Google warns about global ‘smishing’ ring stealing millions via text scams, files lawsuit in US
+  Google has filed a lawsuit against a cybercriminal organization for SMS phishing attacks. The attackers used a service called Lighthouse to create fake websites, exploiting brands.
+  🔗 https://www.livemint.com/technology/tech-news/google-warns-about-global-smishing-ring-stealing-millions-via-text-scams-files-lawsuit-in-us-11762950357927.html
 
 - This anti-drone technology is used on the Ukrainian battlefield and in NATO airspace after flyovers
   Anti-drone technology is used on the Ukrainian
@@ -88,57 +100,25 @@
   The iPhone Pocket has divided opinions online. Critics deem it overpriced, reminiscent of the iPod Sock. Supporters appreciate its
   🔗 https://www.livemint.com/technology/tech-news/steve-jobs-would-never-do-that-netizens-brutally-troll-apple-after-iphone-pocket-launch-11762943912793.html
 
-- What is iPhone Pocket? Apple's $150 accessory inspired by 'piece of cloth' to wear your iPhone
-  Apple has launched the iPhone Pocket a new accessoy which the company has designed in collaboartion with ISSEY MIYAKE. It starts
-  🔗 https://www.livemint.com/technology/tech-news/what-is-iphone-pocket-apples-150-accessory-inspired-by-piece-of-cloth-to-wear-your-iphone-11762937365162.html
+- Fujiyama Power Systems IPO: Solar roof-top manufacturer raises Rs 247 crore from anchor investors ahead of Thursday launch
+   Fujiyama Power Systems (UTL Solar) has secured ₹247 crore from 15 anchor investors ahead of its IPO, which opens on Thursday. The company, a roof-top solar manufacturer, allocated over 1.08 crore
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/fujiyama-power-systems-ipo-solar-roof-top-manufacturer-raises-rs-247-crore-from-anchor-investors-ahead-of-thursday-launch/articleshow/125278809.cms
 
-- Australia Spy Chief Warns of China Hackers Probing Networks
-  Australia’s spy chief has accused hackers working for China�
-  🔗 https://www.livemint.com/technology/tech-news/australia-spy-chief-warns-of-china-hackers-probing-networks-11762935299191.html
+- Ahead of Market: 10 things that will decide stock market action on Thursday
+  Indian markets closed higher for the third straight day. Sensex rose 595 points and Nifty up 181 points, led by gains in financials, IT, and auto stocks.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/125277907.cms
 
-- Best smartwatches that aren't Apple watch: Top 10 picks for everyday wear with modern designs and features
-  These smartwatches come with brilliant displays and fitness-focused sensors. Find the best
-  🔗 https://www.livemint.com/technology/gadgets/best-smartwatches-that-arent-apple-watch-top-10-picks-for-everyday-wear-with-modern-designs-and-features-11762859786612.html
+- Market Trading Guide: Buy CarTrade, CDSL and 3 more stocks on Thursday for up to 12% gains
+  Nifty advanced for a third session, led by IT and auto stocks, confirming its uptrend above the 21EMA. Analysts expect further strength, with potential targets near 26,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-cartrade-cdsl-and-3-more-stocks-on-thursday-for-up-to-12-gains/slideshow/125277854.cms
 
-- Stock Market News, Nov. 11, 2025: Dow Jumps, Nasdaq Slips; ADP Data Points to Softer Jobs Market - The Wall Street Journal
-  The Wall Street Journal reports that ADP data points to Softer Jobs Market. Yahoo Finance reports that the S&amp;P 500, Nasdaq slip as AI angst overshadows hopes for end to US shutdown.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNckFTTzlXcGpKcnhaSGhYN0JLRWU2Q2NnUmF4VDZqTlJNWnpmX3NQWWNBRlZiUkM3QWpCY2RfNmRHdDFPR0VCZE5xc0Q3ZWVKZGpBNDJBVjZaXzRDaFdZVFdaWVdqZUNWTmZRd3J0Q0lLa0EyQkNnRWhSdWFsMXlCR3VlanRlQlk?oc=5
+- Unregulated digital gold's return risk: You lose 6% the moment you buy, explains Zerodha’s Nithin Kamath
+  Zerodha CEO Nithin Kamath supported Sebi’s warning on digital gold. He cautioned that buyers lose nearly 6% upfront due to GST
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/unregulated-digital-golds-return-risk-you-lose-6-the-moment-you-buy-explains-zerodhas-nithin-kamath/articleshow/125277390.cms
 
-- Rupee depreciates 16 paise to close at 88.66 against U.S. dollar - The Hindu
-  Rupee depreciates 16 paise to close
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2ZpTWpsQy1zdHFkN0YxX2RURmJkTHhubXdiLXE5dmRMM21jZWxhSFBVdmJnMVFxVTEwVDg1YmxwZE1PRjIwWGFBVEpkN1ZFZG4wbllsdkQ5ZUhobnVyRy1YaWlFSlNkVFRpRHc2ZmdPa09ocTM2a2J6N1QyYlFma1lYSmZGVTVULXljYldJQzVxVkhtM3pjVFI4LS1NVXUtN2R1aWdCbW5PYlFJUjhiWmNVSVRaTGlWNzNtTzctUmPSAccBQVVfeXFMT2QxMFF2RnhLSHU1akt1c0I0cGQyc2lLbVhvZ0JQb2R6N2hndFNlOFAzVTl5dGV5SFIxRnZyUzhTaWtraVBOYnVCQUNZUElKUkMySXlSRzE5Z2pHWXRDNGFjSEZqNnh5SjBLU1VELWJ6WmhRX2N2NnRrS0JmdG96LWZSSU5ueGQ3c1EzS1FXbXVMTzd2eVNoa0xRMTNJVHAyQTBvaWZpQTc4NEFKTmdoNFhlQWpIRHluYXE4aUhXSC1oN2JOQWZBUQ?oc=5
-
-- Market Highlights: Sensex settles 595 pts higher, Nifty above 25,850; Asian Paints rises 7%, TechM 3% - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMm9adlJFc3Z3VjI2YTRDYWFaZHA4MHd5ZEkwOXVzdW5VdmdaQzVkeEtQX0RqQUlLWThoY0RWUjdoQkx3WkYzQ0RlRWxFOFdEX0VZZHZRWml0N0hIZFExTHo0TlEtR3pzQW
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMm9adlJFc3Z3VjI2YTRDYWFaZHA4MHd5ZEkwOXVzdW5VdmdaQzVkeEtQX0RqQUlLWThoY0RWUjdoQkx3WkYzQ0RlRWxFOFdEX0VZZHZRWml0N0hIZFExTHo0TlEtR3pzQWZ1eWpwTDIxaUdlNUhxQi1Wa0ZKOWt2M3BKMHYwYVdIeFA2V241U2tmS3NKRnhSYUFvTDZtdFU5OUVuYmk4ZFJPSU44dDAxcVhaQURuNk9aM0RmZ3BBcmV4ZmN1Z2dLb1dsS0tILTRNT1J4Q2V5UTE?oc=5
-
-- Rupee edges lower as corporate dollar bids persist, Asia FX slips - The Economic Times
-  Rupee edges lower as corporate dollar bids persist, Asia
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT1ZRTjY2WG1WZm5mSkRuMEk3RUpUNlRUb1B3R1h5RjQwSUNJWjR4XzRPejJqRXBSeGxlM0VONjhORElpQ1JMd2VBcm1UUl9CWXJkSmRERDM1MmoyTTVnT3hSRWd1ejE4OVFqTTFfYnVrZDBGLUgtSFpKaS05akExcklMWHMtMHdqQmx1V2RrQlN3NkRBSzZPR1IxS1NSbGpXRVI2amdGTTVDaEVOUWlURTdJM1JSYjY2ZS1IYWFFVGhoNHhfV0UtVEVobFdjMWYwdnlCOUxxZmV0Y1p2cFVmT9IB4AFBVV95cUxPT1ZRTjY2WG1WZm5mSkRuMEk3RUpUNlRUb1B3R1h5RjQwSUNJWjR4XzRPejJqRXBSeGxlM0VONjhORElpQ1JMd2VBcm1UUl9CWXJkSmRERDM1MmoyTTVnT3hSRWd1ejE4OVFqTTFfYnVrZDBGLUgtSFpKaS05akExcklMWHMtMHdqQmx1V2RrQlN3NkRBSzZPR1IxS1NSbGpXRVI2amdGTTVDaEVOUWlURTdJM1JSYjY2ZS1IYWFFVGhoNHhfV0UtVEVobFdjMWYwdnlCOUxxZmV0Y1p2cFVmTw?oc=5
-
-- Markets watch: Asian stocks gain on US budget deal hopes; crude steadies on demand outlook - The Times of India
-  The Times of India is a leading English-language newspaper.
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOeUZiS2VqUmlkLWx4UG1QdkdZLVk1QXpyOVcteXRKeGd3YnVJVmZGRXdweWdrRV9tVTR2aENMUEFiVHlaUU9vckFPUkVFc2p0dFNEYTQzc0pOclVmM0lXa2NJMTFYMkRPb3NqRzUzV20wZTVBVnR2ZV8yaW42UDJHTUFza2R4UFVzYkNRMGZONXNPYjdYelBZdTRqdkMtNEtuTzk3M25WVGtpLVRiTWpucWppYklsVjIwZUdJclV5MS1ldnA2ZmtHb3dmNlBnZ3lqQmlyMUlvNU5Ma3BSSDIyaUpxYjF2ZF8zeGdRcXd2NTBUaG9lSlVoNWYwaTBKcEJVUXZBdHFxMVA0QXNCVnpj0gGUAkFVX3lxTE9uMXhCN0lMYm15bnFRVk9SRjhZaGFnaWsxTjVlQXJ4WmxqT3lUdHpRWmRjUnhCOVdZMnh0TVFzNUhjZWZOTG8wa3ZEWlVpX3E1VnRRM1dxRlJHelRNaXdmalJPcExSUGU3U1hDa2RJUVdZQWRPcXgzZVJ1TVZUNTFjU3h4WUh3c2l3bl9GUGc1QkNaOGhLXzlpTTJmQTdic20wd1p2dnFFUnNRWnk5YUhHbzRDS01zcGxFb3dXNEg5ajE4Z0xpT0lDb3FOakxzSFdSdTRIenZDbUtFZFZnalJyZEZlNEkxWUJDdkdqYXlFVkNtZEZQSnE0VmlyUmxqZ2toNkFPdkozVnc0b25la0Zya2VyMg?oc=5
-
-- 10 midcap stocks where DIIs trimmed stakes in Q2
-  Domestic institutional investors reduced stakes in key NSE midcap stocks. Major declines were seen in Yes Bank, HDFC AMC, IndusInd Bank, Hero
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-midcap-stocks-where-diis-trimmed-stakes-in-q2/slideshow/125274830.cms
-
-- Sedemac Mechatronics files DRHP with SEBI for 100% OFS IPO
-  A91 Partners, Catamaran Ventures, and Xponentia-backed Sedemac Mechatronics has filed its DRHP with SEBI for a full OFS
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sedemac-mechatronics-files-drhp-with-sebi-for-100-ofs-ipo/articleshow/125274585.cms
-
-- Sebi's chair, senior officers should make assets public, panel says
-  The Indian markets regulator's chairperson and senior officers should disclose their assets and liabilities publicly to boost transparency
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebis-chair-senior-officers-should-make-assets-public-panel-says/articleshow/125274476.cms
-
-- Asian Paints shares jump 6% to fresh 52-week high on 43% Q2 PAT growth, interim dividend announcement
-  Asian Paints shares hit a fresh 52-week high of Rs 2,838.70 on Wednesday. The rally came after the company reported a 43% YoY rise in Q2 consolidated net profit to Rs 994
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-paints-shares-jump-6-to-fresh-52-week-high-on-43-q2-pat-growth-interim-dividend-announcement/articleshow/125274443.cms
-
-- Rupee edges lower as corporate dollar bids persist, Asia FX slips
-  The Indian rupee slipped on Wednesday, weighed down by dollar demand from local companies. Expectations of central bank intervention on the path to its all-
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-edges-lower-as-corporate-dollar-bids-persist-asia-fx-slips/articleshow/125273994.cms
+- US stocks gain as investors anticipate end to federal shutdown
+  Wall Street opened higher on Wednesday with the Dow at a record high. Investors cheered a likely end to the longest U.S. government shutdown. An upbeat earnings outlook
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-open-higher-as-traders-anticipate-end-to-federal-shutdown/articleshow/125277232.cms
 
 - Delhi Red Fort blast updates: India’s Modi alleges ‘conspiracy’ as 13 dead - Al Jazeera
   &nbsp;&ngt;&
@@ -148,105 +128,37 @@
   In US Posts On Blasts, "Terrorism"
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVc5SndhS2h3WjRYaXFGSlpVQXZfRm5CaktKZGtXLVh6NURkUGFvUnowb0hzZmd4dDEzZHR1OER0MTc0clYtOHpLUmlBZ04wQ1RHU19FMXVlTGdyRWZwek1meGNNOS1yTXZmYTBHNDdraWZLa2Fyd2VQajhOcW9zTnFtbFBrOWJnX2xvcTJJMjRteFY4V09NcXpxcmFPTnc1cWcyblgzeDl2LW9FVjdZ0gG3AUFVX3lxTE9oYjBYSTdyRTdUM05GRnlQNDV3Nm5ndjY4RlMyRTZpX3VubGdYcVpCaHA4RF95c3Q3aV9lODdCQUdFdWY3QzZnMXFveG5MczZ6VS04QjhzZ1hJa2JWbTRVUEFveU1aeHVrV0J0Rl9PV216OEFOMGRKNTBzbVU2X2JtUE5vbTFCNmtPZGhWUUdqMnpnWnRLN0ZSaExmMjlHSFVYNUJlWlRpdHcyUjNTV0FHa3dhOWg0TQ?oc=5
 
-- Gurugram police ask housing societies to list J&K residents, foreigners | India News - Hindustan Times
-  Gurugram police ask housing societies to list J&
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0lVaXIzZzVkZ28xQnF5dVZzUWVOUG5za3FkZDREZF91Zl9zWGxoNUo2SGJkdnEzejlkSW91SW1xTFFyOHE4VU54eEhrMUZoRVNoYVhCX2JKWGNqTFd1Y2hEemhLT1RSTG5DdFUzbVFFV0NtMVVmQ253d004eHJzSWtaUW1KcnRDX2dPNUVHYmlaSWZMRGNRYmFOV2ZqY1JwR28xejVFN2lENUJoSFAwM0RnYVBwa0FNMndBYnAwUi10c0pwNnA0NHBqbzRMQdIB0wFBVV95cUxPbEdFQ2hkcnZqM2xYa3FGNmtNUlY1SDZZMFNuQklfREtJNVBmRi1BNnF6THpSSXQ1dWJxclpVajlZMkZqU2Z5ZlNSR0NnQkI4enhjak1IcENyRlZOQTZrOWtoZXUwTjNTZ0RDVzJwd0h5V3BGZ0hHSnNhaTh5YW9UWDNzaHc5c3BlYmthbGVOSmVNTFpMaTRaODNqTk1OX2U1eElhczBVSm9KR3RwTENOcHVxRDhnTXZKSWtnaU5BNGNiVFczZEZFcXFxUDZuOE1MX3Q4?oc=5
+- US sanctions against entities, individuals linked to India, other nations for ‘supporting’ Iran’s ballistic missile | India News - Hindustan Times
+  US sanctions against entities, individuals linked to India, other nations for ‘supporting
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxOYjctZ1E4RElSVjY2STc0Yk5hYnVfQlNjWU02S3RkOWZCU3hMOTFxdnRlSTViNnBmNHVPaTZ0dXlwQlp0M3pCRmo0RzNnZG5iSjlEamVUaVdqcFNnWXVNX1lYZ3kyNEh3OUhOaExHQzE5YkNNR1M0YW9JWG9TTElGYS14NVpJcGNNX0ltUFBTTGFDVDYwNDJ0VlNRc1VNS0lKOG96TXk1bXZmUmRveDVzYUV4SWVhQW51ZHRJcjZnYXFlTlhzVk9qTHF1NTZpckJBeUdaYjVudW9BQVBBRHMzVTJ2b0hPTURsaWJZNVJ5dkFKT3lxV2ZpLVlLSmlPLVFpZzAwcNIBigJBVV95cUxPc21wYlIySlo0SElqeW0wM2FhMVlTZFMwWThZVXpIbkw0Mmc0WG1iM29aOGJFUVFiVEg2ZnhjSmJycGRUeExSSm12SVdmRnBhdFNOZ0tfbFRUUzJsQ2hPdjNyMDBpZ0NUOUdSNEtGMFVfV0trSU8tZ3FodzJDZExrZ3psVmpETVlCV0xoeUJaZnRaTnN2ZWFIcUttSC1MN0t2WkFCS3VESzBYTl9Sb1pMSHE4a0JCMXd6RFFfVEtzZGV0UTF0MW10UjB5Y1R3azBjbGMtYm1KMmZJd3ROSnNnRzZjUjJvUkhtQmhDRXlONWJtcmVVWWI2alZ5c3R5ckdMWDZXSTlWZzYtUQ?oc=5
 
-- India’s low October inflation reading explained in five charts - Moneycontrol
-  India's low October inflation reading explained
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNb0h5RDk2RWpVdWZRLVlGdHJ2aFoyNHZnOEpzYnY4NnczczNOTldRX0EwemFyUHI1Q1ZOb2VEQ3htY2h6bTdBVU56bW9iMmtRQzhaOWo1UWkxcjhpMHNuYWVrMXRsb25TWnJKTzJFZ2VOSGR4d09fRk8yVWkyUExTWVRGTUFUUFhGX0txc09ucUs5MWlsNW4tQ2pMalctek01VVQtTFB5aWRVRlNVTnNuSG84bVpyMmFxYmwzb3pYTHFnaG1UMEHSAcsBQVVfeXFMT1dfempDX0wxcS1KNHJiRk9VWE84bWN1UGNyZWFhYkhrcGRBTHhDcHNlYVRTU2lKdVNJX08wSmc4SS10Y2pGdEFtMnZFQTFoT0pCMVlQanVTUXcyWFZxNS02MDhLRTVIZVZwT0d3REs0Y05rUDFOX19KV3VLdmNnODZWTjE2ZDhUcTdHSVFOU2M3ZTc2WlB5Wl8yNE91VUp5VDlXYTJsU2hkSGJzcnpBcE1pdmF0d1VqQUZXT004MGZJNjZYaml0RWNzb0U?oc=5
+- India confirms deadly Delhi car blast being treated as ‘terror incident’ - The Guardian
+  India confirms deadly Delhi car blast being treated as �
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcklhM3NXRHp1RExUdHNZUmdmN2l0a21fM2FoMS16X3l3YklSeU1SX3FRV1lXaXRxSGZ4VFNVTTBXejc4NjdSeUFkaFZTdFZjdDRaOWF3SjV6cXlQaG9UcjBIbEtiUk1CdTZSQkl6YTd2SlJPRHFPVTByWmV5c1hNVFRrTnJUXzd2N25KMERMSWw1SUNCOUp6VGZGLUZtbElNSFVKdldMdWhZZmNyZi10UmIxSm84Z3g4dC1qTUlhajBPQ1k?oc=5
 
-- Evening news wrap: PM Modi meets Delhi blast victims; Police launch hunt for second car linked to terror - The Times of India
-  The Times of India reports that two cars were involved in the blast. PM Modi meets Delhi
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxPVjlXZzNUWndkQW1pLUJkTlZlYTdFQVptRzFBWWU3NHBETE81SEx5cTdQRDk4YlZuNnBpTzl4QVJ4MXBRLWVfTTVVbk5EY2xsN1U0WWRFMVBmSXdYWjdvWThFWV92QUZlMU12dzZKZ2ZZV0dFcER6WFBpMHhDZy1rc2NDX2VfMko0V3prOGV2eW02czlMbUpiZGd0TlNLZ3BPYjdidmdVNHhnZEc4Nzh0NS1iQmZkNnFCRzgxRWNqQTY5LU1VN2dfblUxNWJ6RTlLTDc5UU9JRlk4NlF3MHdvMHlzWmtFbjJhQkJrTUtHVzd5ck1objVCbXZObFVYMmFraHRLWGtPTXFsQndzM2pjNWRR0gGXAkFVX3lxTE9pVFVUR2NnelF1VDNfWUdiTTFQb09IdVNfaHJ4WEFQdmg3ZUNBOUhPZGt1Tlo1N0MtVEtSdkZLLTdUSTlYU0pVN0dEVUxWZ2VWdWpaZ0VjQTdnTHhaRS1FV3BSanNyMjk0R2tjeURmWHZGRUhlYmxOLWpaRDdkM1drdjAzLUxwbXhjZUh1dUtPVmszdjZTWVhoZHR6OGdDNC1jTFBVeGpJQmEtVnlSZXB3RWw0NXRuTHJiakJsOXRYdFhYQjBIUGVIaUNLS3k0VVZSSUxtdmQyXzNUU09TR3JHVlNtNmN3aHZ6dVkxMjZ3Z2k3a1I5cmdLcWtqLVlxdjRoUUxmSG93T1g4cGhxRjhoT3dhVldyUQ?oc=5
+- Canada stands with India after Delhi blasts, says foreign minister Anita Anand at G7 meet - The Economic Times
+  Canada stands with India after Delhi blasts, says foreign minister Anita Anand at
+  🔗 https://news.google.com/rss/articles/CBMi5wJBVV95cUxPZHlzdy04SjVqUmNXSF9tSGkzUE1iYU0tNHNXelFBMjJwSENEVFBuSHpMWU5zRnA1UVB4WjdLRUxuOVk3M2dza182MUVGbE5jdG9ZN0RzV0dPclB1WUxMT01WU3ZLbU5kRmR2VjF6SktYcTc5OHhoTmF2bGhaSXFHSm9JcEN0aTc4eHBqdllqYjdCaXprTU92ZktxeXNSckx6Q2pSS2Nld21uWHkyWEdkamdrMUF1S243WnkwRUJpazhzWml0QU0wVjgzREU4TE9VTV9Lbko1YmxuVnpSdTVMNnpMelVXWjF4ODE2SjRvSVNxdnJGdXNDa1RmbDdnUjFIVXc0dGRKSVNIdF9IME1uSENQTWVxM0kzbHY3ODg5a284Rmk3UjhPNlhINWVjOFo0NE9GdXByWVNXTUdnLTM4TXNPcGtNWGtYS3dnQnNleS1ZazhqV1pBVGMyX0V2MndIS0NfWDdhc9IBgwJBVV95cUxPb25VWTNFTDE4aXAyN2NPdHRtb2NtZDN5VjVqYTV6UWVMOW9RaWowb21wRzJwTEVLYkxCeC05M2l3Y3diLURhSENZOFhPbzJNSWVaTldBTThGWTB1c3JlUjRNdlBvUXZHWDM1b1Y3aTVkcksyZW9ORDcxLV9QUXBBZGpSaFAzRWtVemV2ZTNFcmd6aTlKeTlhU3piUVZEZ054WU9VREcxMERjMDRjTWJEQ2JTS2hpUmhLbzhWVnI4VExCOGZxZ1U3c25teWl6bXFOTmJRQW54MmVUM3hMZThBdXhQaGRuSkswcVhfeTlSaGx4UWpKNmw2M2NCU2tpZEYxbHM4?oc=5
 
-- Delhi Red Fort blast updates: India’s Modi alleges ‘conspiracy’ as 13 dead - Al Jazeera
-  &nbsp;&ngt;&
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObkpDb2d4OGdtMEFWaDB5cDNkZ0U0R1RWRkkxdlJnc0thcGhwanQ0V0F1Z1l3aHJ5bDgwSlRCYnR0X3VTYi03cGt3MkktVzFlWEFoUjQ3Yi13eEpsOWtmb9IBxAFBVV95cUxNUTgzM2VvcFgtTVlKRG5Pby1EMG1QYnZMNVhKaWtsLTd4MnVPMXd4OGl4RzdJVkRoNGpKMnJWS1hBVWZWQUs2NXJiZG80SHRnSDN4RW5VOG9lM3NpRTI5Tkp2Nm0yQmtaWWI2Yko0YzR2SWlBdlZMNU9Yc3FsZkQ2a3FHSk1DX1BLNDZYTWlocmRqWkJPRzRZZ29pYnBHRGlWcHdxdGNkOWs0M3JPV1Jxa3pFYjkxSVVzOUpCYnZ1T2k0ODVy?oc=5
+- Opinion | I’m a Psychoanalyst. This Is What Technology Is Doing to Us. - The New York Times
+  The New York Times published an article titled 'I'm a Psychoan
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1E0Qy1CYngwLWVOSEticVh2aVN5Q1h0WlBzNVRKUkpZU1FkLUxFZVJtaHIzUmJfeG1IS1QwLVJabVZnZGE3ZWlvSGZlMHNlc2tORUxnWXhaMDZzT0FvZ2Z5aXFwdDBieTBTUHgzVUpnMk9pNUU1aHhGYWtDR0JxcmlDZ3hDWW1vRElncnVR?oc=5
 
-- In US Posts On Blasts, "Terrorism" In Pak And "Terrible Explosion" In India - NDTV
-  In US Posts On Blasts, "Terrorism"
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVc5SndhS2h3WjRYaXFGSlpVQXZfRm5CaktKZGtXLVh6NURkUGFvUnowb0hzZmd4dDEzZHR1OER0MTc0clYtOHpLUmlBZ04wQ1RHU19FMXVlTGdyRWZwek1meGNNOS1yTXZmYTBHNDdraWZLa2Fyd2VQajhOcW9zTnFtbFBrOWJnX2xvcTJJMjRteFY4V09NcXpxcmFPTnc1cWcyblgzeDl2LW9FVjdZ0gG3AUFVX3lxTE9oYjBYSTdyRTdUM05GRnlQNDV3Nm5ndjY4RlMyRTZpX3VubGdYcVpCaHA4RF95c3Q3aV9lODdCQUdFdWY3QzZnMXFveG5MczZ6VS04QjhzZ1hJa2JWbTRVUEFveU1aeHVrV0J0Rl9PV216OEFOMGRKNTBzbVU2X2JtUE5vbTFCNmtPZGhWUUdqMnpnWnRLN0ZSaExmMjlHSFVYNUJlWlRpdHcyUjNTV0FHa3dhOWg0TQ?oc=5
+- Workshop on Corrosion and Wear Resistant Coating Technology for MSMEs Held in Jamshedpur - The Times of India
+  Workshop on Corrosion and Wear Resistant Coating Technology for
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMU9NNGR4RXZXalg5VlBpeGFuQUw1c3h5WWF2NlBuMEFmM3BNZ0tHUkdLbnJBTGxEOTYzS1JaLTFHYlJnS3lhaFRaUXlPR2wtUXg5emcxWHV1dS1XaWZZaDcyWFJsOUdzVkFoY2J0bkNOZzlVaG1UNG9WM2owbUxIcjQ1cDZxcWN2U24tblVWbmhfZ05wTnJVcjlYOS1BSDFPWU83amlscTlnQmJjaW9paGR1aE8xU3YwNUU0WEx4Q09nMDRxTGMzYjN0MVg3d3lRMTFCazRBREtQbVRjelVPUnpwNVVrRHppSDJVMVFMd0tvNDVx0gH6AUFVX3lxTFBSTE40SmVWNDFMMzhIZmdyeUN3VU1jSUN4bjJXLUctaHMyVjh3czdIcWFVaUVfQjdUV21FRXJJX0ZlYklqU2F4RHZyVDRFTDFGNC1lNnBwNERhQTZGcHpReldUNlBnbWdRQnpuR3J4VnBoMGVRdnlCT1lMSWtCdnlsRFd2cFFmTUJGRmNYSW85MTFmc1BUbzZrdUJnSlh1R0lJcWtPQ3ZDaFVVdkxUYklRX3lnMEJFRExyMjRCS1V5c0QyYWs0ZWFtczF6YnotWlVwRFcyU3g2NTQ2SFdobFI3S1Zid2hNQzhOWGhlNzdhb0FoX0c4WFBOOVE?oc=5
 
-- Gurugram police ask housing societies to list J&K residents, foreigners | India News - Hindustan Times
-  Gurugram police ask housing societies to list J&
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0lVaXIzZzVkZ28xQnF5dVZzUWVOUG5za3FkZDREZF91Zl9zWGxoNUo2SGJkdnEzejlkSW91SW1xTFFyOHE4VU54eEhrMUZoRVNoYVhCX2JKWGNqTFd1Y2hEemhLT1RSTG5DdFUzbVFFV0NtMVVmQ253d004eHJzSWtaUW1KcnRDX2dPNUVHYmlaSWZMRGNRYmFOV2ZqY1JwR28xejVFN2lENUJoSFAwM0RnYVBwa0FNMndBYnAwUi10c0pwNnA0NHBqbzRMQdIB0wFBVV95cUxPbEdFQ2hkcnZqM2xYa3FGNmtNUlY1SDZZMFNuQklfREtJNVBmRi1BNnF6THpSSXQ1dWJxclpVajlZMkZqU2Z5ZlNSR0NnQkI4enhjak1IcENyRlZOQTZrOWtoZXUwTjNTZ0RDVzJwd0h5V3BGZ0hHSnNhaTh5YW9UWDNzaHc5c3BlYmthbGVOSmVNTFpMaTRaODNqTk1OX2U1eElhczBVSm9KR3RwTENOcHVxRDhnTXZKSWtnaU5BNGNiVFczZEZFcXFxUDZuOE1MX3Q4?oc=5
+- New A.I. translation technology helps police officers - NBC News
+  New A.I. translation
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPRXgwX0dueEs4SHU0TmlIdm5PWnNSZGdla1ZDRlVEWUNkWUJpMHJUQlBUeDB5bmZCbDNTZ1dQNDJNNzhkTFo1Q1owUDRpSDAwN2s2VVRDZ2xwS1hyRTFpODRXaWdoZnlsQlI2cl9tVHp5THNBaTc3Vm4ydzZYb1g5cXAyLTIwVDR2dUxaWGtVQUJOY1UzY0Y3bGlRNTRmU2tsT2ZQYThTdFlQT3pE0gFmQVVfeXFMUGxHaHRyZGhqbVZ2THNiNDc1bmFCV1VYQWxYQmpMZDFyTDNTaTNKbGtqTlFVeHJ0VUh5R2o4WXpQMzR5X2dId1A4SVVQM1JwQWRsVWpsNl9ybmFsSmpNaVY0T2lrb05R?oc=5
 
-- India’s low October inflation reading explained in five charts - Moneycontrol
-  India's low October inflation reading explained
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNb0h5RDk2RWpVdWZRLVlGdHJ2aFoyNHZnOEpzYnY4NnczczNOTldRX0EwemFyUHI1Q1ZOb2VEQ3htY2h6bTdBVU56bW9iMmtRQzhaOWo1UWkxcjhpMHNuYWVrMXRsb25TWnJKTzJFZ2VOSGR4d09fRk8yVWkyUExTWVRGTUFUUFhGX0txc09ucUs5MWlsNW4tQ2pMalctek01VVQtTFB5aWRVRlNVTnNuSG84bVpyMmFxYmwzb3pYTHFnaG1UMEHSAcsBQVVfeXFMT1dfempDX0wxcS1KNHJiRk9VWE84bWN1UGNyZWFhYkhrcGRBTHhDcHNlYVRTU2lKdVNJX08wSmc4SS10Y2pGdEFtMnZFQTFoT0pCMVlQanVTUXcyWFZxNS02MDhLRTVIZVZwT0d3REs0Y05rUDFOX19KV3VLdmNnODZWTjE2ZDhUcTdHSVFOU2M3ZTc2WlB5Wl8yNE91VUp5VDlXYTJsU2hkSGJzcnpBcE1pdmF0d1VqQUZXT004MGZJNjZYaml0RWNzb0U?oc=5
+- Hyundai Motor’s All-New NEXO Sets New Standards in Hydrogen Technology and Electrified Mobility - hyundai.com
+  Hyundai Motor’s All-New NEX
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPRUxfRE9JbXZXd3I4ekxJMU93S25EREJUYXVmS2NEQTlBVkRKeE8xQ1BxMm9HRG5wajZGT3RjZlQzZFp3aTB1T3c5RU5qZkgtMGdlQUducE0wMWMxUlhNUm9uX2hSUmJ2ZEc2cXRtOGR6X0gyeXljWFJvN2dHaEV3b0lEeElRVzFpdno1Si1HZmNzMjZCZXNiS25GMGRKaTRtSmtQMTdfMTBFMUFsSE1oNXBhN1VPWEtKX1llMUd0WG5RRjNiRzdJaW5mWFEzLS00Y1lPeUJNNjMybGxBZVlYUE1MRndWU1NTc2MzdmhEUTl5MVdqeFE4cEVnUTN2cmcwNnBr?oc=5
 
-- Evening news wrap: PM Modi meets Delhi blast victims; Police launch hunt for second car linked to terror - The Times of India
-  The Times of India reports that two cars were involved in the blast. PM Modi meets Delhi
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxPVjlXZzNUWndkQW1pLUJkTlZlYTdFQVptRzFBWWU3NHBETE81SEx5cTdQRDk4YlZuNnBpTzl4QVJ4MXBRLWVfTTVVbk5EY2xsN1U0WWRFMVBmSXdYWjdvWThFWV92QUZlMU12dzZKZ2ZZV0dFcER6WFBpMHhDZy1rc2NDX2VfMko0V3prOGV2eW02czlMbUpiZGd0TlNLZ3BPYjdidmdVNHhnZEc4Nzh0NS1iQmZkNnFCRzgxRWNqQTY5LU1VN2dfblUxNWJ6RTlLTDc5UU9JRlk4NlF3MHdvMHlzWmtFbjJhQkJrTUtHVzd5ck1objVCbXZObFVYMmFraHRLWGtPTXFsQndzM2pjNWRR0gGXAkFVX3lxTE9pVFVUR2NnelF1VDNfWUdiTTFQb09IdVNfaHJ4WEFQdmg3ZUNBOUhPZGt1Tlo1N0MtVEtSdkZLLTdUSTlYU0pVN0dEVUxWZ2VWdWpaZ0VjQTdnTHhaRS1FV3BSanNyMjk0R2tjeURmWHZGRUhlYmxOLWpaRDdkM1drdjAzLUxwbXhjZUh1dUtPVmszdjZTWVhoZHR6OGdDNC1jTFBVeGpJQmEtVnlSZXB3RWw0NXRuTHJiakJsOXRYdFhYQjBIUGVIaUNLS3k0VVZSSUxtdmQyXzNUU09TR3JHVlNtNmN3aHZ6dVkxMjZ3Z2k3a1I5cmdLcWtqLVlxdjRoUUxmSG93T1g4cGhxRjhoT3dhVldyUQ?oc=5
-
-- Delhi Red Fort blast updates: India’s Modi alleges ‘conspiracy’ as 13 dead - Al Jazeera
-  &nbsp;&ngt;&
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObkpDb2d4OGdtMEFWaDB5cDNkZ0U0R1RWRkkxdlJnc0thcGhwanQ0V0F1Z1l3aHJ5bDgwSlRCYnR0X3VTYi03cGt3MkktVzFlWEFoUjQ3Yi13eEpsOWtmb9IBxAFBVV95cUxNUTgzM2VvcFgtTVlKRG5Pby1EMG1QYnZMNVhKaWtsLTd4MnVPMXd4OGl4RzdJVkRoNGpKMnJWS1hBVWZWQUs2NXJiZG80SHRnSDN4RW5VOG9lM3NpRTI5Tkp2Nm0yQmtaWWI2Yko0YzR2SWlBdlZMNU9Yc3FsZkQ2a3FHSk1DX1BLNDZYTWlocmRqWkJPRzRZZ29pYnBHRGlWcHdxdGNkOWs0M3JPV1Jxa3pFYjkxSVVzOUpCYnZ1T2k0ODVy?oc=5
-
-- In US Posts On Blasts, "Terrorism" In Pak And "Terrible Explosion" In India - NDTV
-  In US Posts On Blasts, "Terrorism"
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVc5SndhS2h3WjRYaXFGSlpVQXZfRm5CaktKZGtXLVh6NURkUGFvUnowb0hzZmd4dDEzZHR1OER0MTc0clYtOHpLUmlBZ04wQ1RHU19FMXVlTGdyRWZwek1meGNNOS1yTXZmYTBHNDdraWZLa2Fyd2VQajhOcW9zTnFtbFBrOWJnX2xvcTJJMjRteFY4V09NcXpxcmFPTnc1cWcyblgzeDl2LW9FVjdZ0gG3AUFVX3lxTE9oYjBYSTdyRTdUM05GRnlQNDV3Nm5ndjY4RlMyRTZpX3VubGdYcVpCaHA4RF95c3Q3aV9lODdCQUdFdWY3QzZnMXFveG5MczZ6VS04QjhzZ1hJa2JWbTRVUEFveU1aeHVrV0J0Rl9PV216OEFOMGRKNTBzbVU2X2JtUE5vbTFCNmtPZGhWUUdqMnpnWnRLN0ZSaExmMjlHSFVYNUJlWlRpdHcyUjNTV0FHa3dhOWg0TQ?oc=5
-
-- Gurugram police ask housing societies to list J&K residents, foreigners | India News - Hindustan Times
-  Gurugram police ask housing societies to list J&
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0lVaXIzZzVkZ28xQnF5dVZzUWVOUG5za3FkZDREZF91Zl9zWGxoNUo2SGJkdnEzejlkSW91SW1xTFFyOHE4VU54eEhrMUZoRVNoYVhCX2JKWGNqTFd1Y2hEemhLT1RSTG5DdFUzbVFFV0NtMVVmQ253d004eHJzSWtaUW1KcnRDX2dPNUVHYmlaSWZMRGNRYmFOV2ZqY1JwR28xejVFN2lENUJoSFAwM0RnYVBwa0FNMndBYnAwUi10c0pwNnA0NHBqbzRMQdIB0wFBVV95cUxPbEdFQ2hkcnZqM2xYa3FGNmtNUlY1SDZZMFNuQklfREtJNVBmRi1BNnF6THpSSXQ1dWJxclpVajlZMkZqU2Z5ZlNSR0NnQkI4enhjak1IcENyRlZOQTZrOWtoZXUwTjNTZ0RDVzJwd0h5V3BGZ0hHSnNhaTh5YW9UWDNzaHc5c3BlYmthbGVOSmVNTFpMaTRaODNqTk1OX2U1eElhczBVSm9KR3RwTENOcHVxRDhnTXZKSWtnaU5BNGNiVFczZEZFcXFxUDZuOE1MX3Q4?oc=5
-
-- India’s low October inflation reading explained in five charts - Moneycontrol
-  India's low October inflation reading explained
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNb0h5RDk2RWpVdWZRLVlGdHJ2aFoyNHZnOEpzYnY4NnczczNOTldRX0EwemFyUHI1Q1ZOb2VEQ3htY2h6bTdBVU56bW9iMmtRQzhaOWo1UWkxcjhpMHNuYWVrMXRsb25TWnJKTzJFZ2VOSGR4d09fRk8yVWkyUExTWVRGTUFUUFhGX0txc09ucUs5MWlsNW4tQ2pMalctek01VVQtTFB5aWRVRlNVTnNuSG84bVpyMmFxYmwzb3pYTHFnaG1UMEHSAcsBQVVfeXFMT1dfempDX0wxcS1KNHJiRk9VWE84bWN1UGNyZWFhYkhrcGRBTHhDcHNlYVRTU2lKdVNJX08wSmc4SS10Y2pGdEFtMnZFQTFoT0pCMVlQanVTUXcyWFZxNS02MDhLRTVIZVZwT0d3REs0Y05rUDFOX19KV3VLdmNnODZWTjE2ZDhUcTdHSVFOU2M3ZTc2WlB5Wl8yNE91VUp5VDlXYTJsU2hkSGJzcnpBcE1pdmF0d1VqQUZXT004MGZJNjZYaml0RWNzb0U?oc=5
-
-- Evening news wrap: PM Modi meets Delhi blast victims; Police launch hunt for second car linked to terror - The Times of India
-  The Times of India reports that two cars were involved in the blast. PM Modi meets Delhi
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxPVjlXZzNUWndkQW1pLUJkTlZlYTdFQVptRzFBWWU3NHBETE81SEx5cTdQRDk4YlZuNnBpTzl4QVJ4MXBRLWVfTTVVbk5EY2xsN1U0WWRFMVBmSXdYWjdvWThFWV92QUZlMU12dzZKZ2ZZV0dFcER6WFBpMHhDZy1rc2NDX2VfMko0V3prOGV2eW02czlMbUpiZGd0TlNLZ3BPYjdidmdVNHhnZEc4Nzh0NS1iQmZkNnFCRzgxRWNqQTY5LU1VN2dfblUxNWJ6RTlLTDc5UU9JRlk4NlF3MHdvMHlzWmtFbjJhQkJrTUtHVzd5ck1objVCbXZObFVYMmFraHRLWGtPTXFsQndzM2pjNWRR0gGXAkFVX3lxTE9pVFVUR2NnelF1VDNfWUdiTTFQb09IdVNfaHJ4WEFQdmg3ZUNBOUhPZGt1Tlo1N0MtVEtSdkZLLTdUSTlYU0pVN0dEVUxWZ2VWdWpaZ0VjQTdnTHhaRS1FV3BSanNyMjk0R2tjeURmWHZGRUhlYmxOLWpaRDdkM1drdjAzLUxwbXhjZUh1dUtPVmszdjZTWVhoZHR6OGdDNC1jTFBVeGpJQmEtVnlSZXB3RWw0NXRuTHJiakJsOXRYdFhYQjBIUGVIaUNLS3k0VVZSSUxtdmQyXzNUU09TR3JHVlNtNmN3aHZ6dVkxMjZ3Z2k3a1I5cmdLcWtqLVlxdjRoUUxmSG93T1g4cGhxRjhoT3dhVldyUQ?oc=5
-
-- Delhi Red Fort blast updates: India’s Modi alleges ‘conspiracy’ as 13 dead - Al Jazeera
-  &nbsp;&ngt;&
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObkpDb2d4OGdtMEFWaDB5cDNkZ0U0R1RWRkkxdlJnc0thcGhwanQ0V0F1Z1l3aHJ5bDgwSlRCYnR0X3VTYi03cGt3MkktVzFlWEFoUjQ3Yi13eEpsOWtmb9IBxAFBVV95cUxNUTgzM2VvcFgtTVlKRG5Pby1EMG1QYnZMNVhKaWtsLTd4MnVPMXd4OGl4RzdJVkRoNGpKMnJWS1hBVWZWQUs2NXJiZG80SHRnSDN4RW5VOG9lM3NpRTI5Tkp2Nm0yQmtaWWI2Yko0YzR2SWlBdlZMNU9Yc3FsZkQ2a3FHSk1DX1BLNDZYTWlocmRqWkJPRzRZZ29pYnBHRGlWcHdxdGNkOWs0M3JPV1Jxa3pFYjkxSVVzOUpCYnZ1T2k0ODVy?oc=5
-
-- In US Posts On Blasts, "Terrorism" In Pak And "Terrible Explosion" In India - NDTV
-  In US Posts On Blasts, "Terrorism"
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVc5SndhS2h3WjRYaXFGSlpVQXZfRm5CaktKZGtXLVh6NURkUGFvUnowb0hzZmd4dDEzZHR1OER0MTc0clYtOHpLUmlBZ04wQ1RHU19FMXVlTGdyRWZwek1meGNNOS1yTXZmYTBHNDdraWZLa2Fyd2VQajhOcW9zTnFtbFBrOWJnX2xvcTJJMjRteFY4V09NcXpxcmFPTnc1cWcyblgzeDl2LW9FVjdZ0gG3AUFVX3lxTE9oYjBYSTdyRTdUM05GRnlQNDV3Nm5ndjY4RlMyRTZpX3VubGdYcVpCaHA4RF95c3Q3aV9lODdCQUdFdWY3QzZnMXFveG5MczZ6VS04QjhzZ1hJa2JWbTRVUEFveU1aeHVrV0J0Rl9PV216OEFOMGRKNTBzbVU2X2JtUE5vbTFCNmtPZGhWUUdqMnpnWnRLN0ZSaExmMjlHSFVYNUJlWlRpdHcyUjNTV0FHa3dhOWg0TQ?oc=5
-
-- Gurugram police ask housing societies to list J&K residents, foreigners | India News - Hindustan Times
-  Gurugram police ask housing societies to list J&
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0lVaXIzZzVkZ28xQnF5dVZzUWVOUG5za3FkZDREZF91Zl9zWGxoNUo2SGJkdnEzejlkSW91SW1xTFFyOHE4VU54eEhrMUZoRVNoYVhCX2JKWGNqTFd1Y2hEemhLT1RSTG5DdFUzbVFFV0NtMVVmQ253d004eHJzSWtaUW1KcnRDX2dPNUVHYmlaSWZMRGNRYmFOV2ZqY1JwR28xejVFN2lENUJoSFAwM0RnYVBwa0FNMndBYnAwUi10c0pwNnA0NHBqbzRMQdIB0wFBVV95cUxPbEdFQ2hkcnZqM2xYa3FGNmtNUlY1SDZZMFNuQklfREtJNVBmRi1BNnF6THpSSXQ1dWJxclpVajlZMkZqU2Z5ZlNSR0NnQkI4enhjak1IcENyRlZOQTZrOWtoZXUwTjNTZ0RDVzJwd0h5V3BGZ0hHSnNhaTh5YW9UWDNzaHc5c3BlYmthbGVOSmVNTFpMaTRaODNqTk1OX2U1eElhczBVSm9KR3RwTENOcHVxRDhnTXZKSWtnaU5BNGNiVFczZEZFcXFxUDZuOE1MX3Q4?oc=5
-
-- India’s low October inflation reading explained in five charts - Moneycontrol
-  India's low October inflation reading explained
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNb0h5RDk2RWpVdWZRLVlGdHJ2aFoyNHZnOEpzYnY4NnczczNOTldRX0EwemFyUHI1Q1ZOb2VEQ3htY2h6bTdBVU56bW9iMmtRQzhaOWo1UWkxcjhpMHNuYWVrMXRsb25TWnJKTzJFZ2VOSGR4d09fRk8yVWkyUExTWVRGTUFUUFhGX0txc09ucUs5MWlsNW4tQ2pMalctek01VVQtTFB5aWRVRlNVTnNuSG84bVpyMmFxYmwzb3pYTHFnaG1UMEHSAcsBQVVfeXFMT1dfempDX0wxcS1KNHJiRk9VWE84bWN1UGNyZWFhYkhrcGRBTHhDcHNlYVRTU2lKdVNJX08wSmc4SS10Y2pGdEFtMnZFQTFoT0pCMVlQanVTUXcyWFZxNS02MDhLRTVIZVZwT0d3REs0Y05rUDFOX19KV3VLdmNnODZWTjE2ZDhUcTdHSVFOU2M3ZTc2WlB5Wl8yNE91VUp5VDlXYTJsU2hkSGJzcnpBcE1pdmF0d1VqQUZXT004MGZJNjZYaml0RWNzb0U?oc=5
-
-- Evening news wrap: PM Modi meets Delhi blast victims; Police launch hunt for second car linked to terror - The Times of India
-  The Times of India reports that two cars were involved in the blast. PM Modi meets Delhi
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxPVjlXZzNUWndkQW1pLUJkTlZlYTdFQVptRzFBWWU3NHBETE81SEx5cTdQRDk4YlZuNnBpTzl4QVJ4MXBRLWVfTTVVbk5EY2xsN1U0WWRFMVBmSXdYWjdvWThFWV92QUZlMU12dzZKZ2ZZV0dFcER6WFBpMHhDZy1rc2NDX2VfMko0V3prOGV2eW02czlMbUpiZGd0TlNLZ3BPYjdidmdVNHhnZEc4Nzh0NS1iQmZkNnFCRzgxRWNqQTY5LU1VN2dfblUxNWJ6RTlLTDc5UU9JRlk4NlF3MHdvMHlzWmtFbjJhQkJrTUtHVzd5ck1objVCbXZObFVYMmFraHRLWGtPTXFsQndzM2pjNWRR0gGXAkFVX3lxTE9pVFVUR2NnelF1VDNfWUdiTTFQb09IdVNfaHJ4WEFQdmg3ZUNBOUhPZGt1Tlo1N0MtVEtSdkZLLTdUSTlYU0pVN0dEVUxWZ2VWdWpaZ0VjQTdnTHhaRS1FV3BSanNyMjk0R2tjeURmWHZGRUhlYmxOLWpaRDdkM1drdjAzLUxwbXhjZUh1dUtPVmszdjZTWVhoZHR6OGdDNC1jTFBVeGpJQmEtVnlSZXB3RWw0NXRuTHJiakJsOXRYdFhYQjBIUGVIaUNLS3k0VVZSSUxtdmQyXzNUU09TR3JHVlNtNmN3aHZ6dVkxMjZ3Z2k3a1I5cmdLcWtqLVlxdjRoUUxmSG93T1g4cGhxRjhoT3dhVldyUQ?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Huawei flags $630m in revenue from licensing patents and technology - Nikkei Asia
+  Huawei flags $630m in revenue from
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUpaTGluTFI4R1RGc3E4OTJNRUV1SEkyMHU2cFYya0Ywa3dLV1llei10VFdzdkZ1ZFF6eEl0OUkyMUFRNjJvS2pYVW0yNnJKSVlrRDJXSk4tdmlhaXBxMlR5a3psT1VpU0YySk1CTWgyTVNJaHFXbW04ZmFEcnFsREFKWG5SMFozTlIwZzdIa0taanlUZm1HM04yOC1TSWx2RHk0TUJYdFFrb2MxNVFF?oc=5
 
 
-_Last updated: 2025-11-12 12:35:34 UTC_
+_Last updated: 2025-11-12 18:26:35 UTC_
