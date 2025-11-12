@@ -1,44 +1,56 @@
 # 📰 Daily News Summaries
 
-- Blast outside Red Fort: Give report at earliest, Amit Shah directs officials
+- News Today Live Updates, 12 November | Mohali municipal limits: 42 objections filed, only one in favour
   
-  🔗 https://indianexpress.com/article/india/blast-outside-red-fort-give-report-at-earliest-amit-shah-directs-officials-10360349/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-11-12-2025-news-headlines-10360424/
 
-- Can Gaganyaan remain stable if one of the parachutes fails to open on time? ISRO conducts test to find out
+- Gold Today Rate, November 12: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/isro-finishes-another-key-test-in-preparation-for-gaganyaan-10360262/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-november-12-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10360621/
 
-- Day after it was taken off agenda, India raises contentious finance provision at COP30 meet
+- ‘If I hadn’t been forced to quit, I would have earned lakhs by now’: Trans woman petitioner Jane Kaushik
   
-  🔗 https://indianexpress.com/article/india/day-after-it-was-taken-off-agenda-india-raises-contentious-finance-provision-at-cop30-meet-10360270/
+  🔗 https://indianexpress.com/article/india/forced-quit-would-have-earned-lakhs-by-now-trans-woman-petitioner-jane-kaushik-10360504/
 
-- States’ plea against SIR: EC entitled to protect privacy of voters’ list data, says Supreme Court
+- Before Red Fort blast, who were the 7 arrested as part of ‘terror module’ bust?
   
-  🔗 https://indianexpress.com/article/india/states-plea-against-sir-ec-entitled-to-protect-privacy-of-voters-list-data-says-supreme-court-10360206/
+  🔗 https://indianexpress.com/article/india/before-red-fort-blast-who-were-the-7-arrested-as-part-of-terror-module-bust-10360157/
 
-- With 5.2 lakh structures, Telangana tops in water conservation projects
+- Sabarimala ‘missing gold’: Former temple board chief latest to be arrested
   
-  🔗 https://indianexpress.com/article/india/with-5-2-lakh-structures-telangana-tops-in-water-conservation-projects-10360282/
+  🔗 https://indianexpress.com/article/india/sabarimala-missing-gold-former-temple-board-chief-latest-to-be-arrested-10360161/
+
+- Intel CEO to oversee its AI efforts after executive departs for OpenAI
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/intel-ceo-to-oversee-its-ai-efforts-after-executive-departs-for-openai-10360731/
+
+- OpenAI used song lyrics in violation of copyright laws, German court says
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-used-song-lyrics-in-violation-of-copyright-laws-german-court-says-10360719/
+
+- UIDAI’s new Aadhaar App brings face unlock, QR sharing: How to set it up
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/uidais-new-aadhaar-app-brings-face-unlock-qr-sharing-how-to-set-it-up-10360572/
+
+- ‘India’s AI edge will come from our deep understanding of language’: Mission Bhashini architect
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/india-ai-edge-deep-understanding-language-mission-bhashini-architect-10359812/
 
 - GoPro launches MAX2, LIT HERO and Fluid Pro AI for Indian creators
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/gopro-launches-max2-lit-hero-and-fluid-pro-ai-for-indian-creators-10359752/
 
-- Meta chief AI scientist Yann LeCun plans to exit to launch startup: Report
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-chief-ai-scientist-yann-lecun-plans-to-exit-to-launch-startup-report-10359701/
+- AI Gains for Big Banks Pose a Competition Headache
+  Bank of America Corp. first launched its artificial-intelligence driven chatbot, Erica, nearly a decade ago in 2016. Several iterations and a wealth of patents later, the platform handles about 2
+  🔗 https://www.livemint.com/companies/news/ai-gains-for-big-banks-pose-a-competition-headache-11762926554611.html
 
-- SoftBank has sold all its shares in Nvidia for $5.8 billion, turning focus to OpenAI
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/softbank-has-sold-all-its-shares-in-nvidia-for-5-8-billion-turning-focus-to-openai-10359690/
+- Juspay turns profitable with  ₹62 crore PAT in FY25
+  Juspay also records its highest-ever revenue
+  🔗 https://www.livemint.com/companies/company-results/juspay-financial-turnaround-profit-revenue-growth-digital-payments-11762869329997.html
 
-- OnePlus OxygenOS 16: Release date, eligible phones, features, and everything you need to know
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/oneplus-oxygenos-16-release-date-eligible-phones-features-details-10359332/
-
-- Jio Prepaid Plans 2025: Best OTT plans with free Netflix, Prime Video, Hotstar, and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/jio-prepaid-plans-2025-best-ott-plans-with-free-netflix-prime-video-hotstar-and-more-10359290/
+- Teck Held Talks With Vale Metals Unit Before Anglo Deal
+  Teck Resources Ltd. held on-and-off talks about a combination with Vale SA’s base metals unit.
+  🔗 https://www.livemint.com/companies/news/teck-held-talks-with-vale-metals-unit-before-anglo-deal-11762911502448.html
 
 - ‘AI is about transforming lives, not balance sheets’: Google India head Preeti Lobana
   As competition for data centres and users of AI products heats up in India, Google will focus on staying 'AI-first'
@@ -48,37 +60,29 @@
   The transaction could be finalized this quarter. It would give JFE a 50% stake in the subsidiary and help JSW pare debt.
   🔗 https://www.livemint.com/companies/news/jsw-steel-to-sell-50-bhushan-power-and-steel-to-this-japanese-steelmaker-for-15-000-16-000-crore-jfe-steel-corporation-11762868340061.html
 
-- Surprise! Air India is now a smaller airline, a year after Vistara merger
-  The merger was expected to create a bigger airline, except that Air India now
-  🔗 https://www.livemint.com/companies/surprise-air-india-is-now-a-smaller-airline-a-year-after-vistara-merger-11762872328470.html
+- TCS to Bajaj Auto - Jay Thakkar suggests three stocks to buy or sell for short-term in F&amp;O segment
+  Nifty 50 climbed 0.75% to 25,887.65, while Sensex rose 0.76%. Key levels for market movement identified at 25,750 for Nifty 50
+  🔗 https://www.livemint.com/market/stock-market-news/tcs-to-bajaj-auto-jay-thakkar-suggests-three-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11762925989406.html
 
-- Bankrupt First Brands Seeks to Raise New Financing Amid Fraud Probe
-  Bankrupt auto supplier First Brands Group is seeking to raise new financing backed by receivables invoices, reviving a tool that was once
-  🔗 https://www.livemint.com/companies/news/bankrupt-first-brands-seeks-to-raise-new-financing-amid-fraud-probe-11762899750200.html
+- RVNL share price slips 3% after 20% drop in Q2 net profit; now down 40% from 1-year high
+  Rail Vikas Nigam's shares fell 3% to  ₹308 after disappointing September quarter results. The company’s operating expenses increased significantly, while the
+  🔗 https://www.livemint.com/market/stock-market-news/rvnl-share-price-slips-3-after-20-drop-in-q2-net-profit-now-down-40-from-1-year-high-11762926699848.html
 
-- FDA names longtime cancer scientist Pazdur to lead drug center
-  FDA names longtime cancer
-  🔗 https://www.livemint.com/companies/news/fda-names-longtime-cancer-scientist-pazdur-to-lead-drug-center-11762899438405.html
+- Gold prices on Wednesday: Check 24 karat and 22 karat rates in Mumbai, Delhi, Bengaluru and other cities on November 12
+  Check how much gold prices have changed in Mumbai, Bengaluru, Chennai, Hyderabad
+  🔗 https://www.livemint.com/market/gold-prices-on-wednesday-check-24-karat-and-22-karat-rates-in-mumbai-delhi-bengaluru-and-other-cities-on-november-12-11762921163128.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 12 November 2025
-  Sumeet Bagadia recommends five breakout stocks to buy today. Yatra Online, Anand Rathi Share and Stock Brokers,
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-12-november-2025-11762908065199.html
+- Tenneco Clean Air IPO Day 1 LIVE: GMP, subscription status, price band, other key details as issue opens
+  The company aims to raise  ₹3,600 crore from the book-building issue which is entirely an offer for sale (OFS) of 9.07 crore equity shares. Tenne
+  🔗 https://www.livemint.com/market/ipo/tenneco-clean-air-ipo-day-1-live-tenneco-clean-air-ipo-gmp-tenneco-clean-air-india-ipo-subscription-status-price-band-11762923400549.html
 
-- RBA Warns of Market Complacency Toward Rising Geopolitical Risks
-  A senior Reserve Bank of Australia official warned that markets may be underestimating geopolitical and macroeconomic risks. The global financial system is showing
-  🔗 https://www.livemint.com/market/stock-market-news/rba-warns-of-market-complacency-toward-rising-geopolitical-risks-11762908858026.html
+- Stocks to buy: Sagar Doshi suggests Union Bank of India, Minda Corp, Bajaj Auto shares to buy today
+  The stock market opened higher with Nifty 50 at 25,834.30 and BSE Sensex at 84,238.86. Positive investor sentiment from
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-sagar-doshi-suggests-union-bank-of-india-minda-corp-bajaj-auto-shares-to-buy-today-11762922655544.html
 
-- Tata Motors demerger: Commercial Vehicles arm shares to list today; here’s what experts feel the listing price should be
-  Tata Motors Commercial Vehicle listing follows the Tata Motors demerger which took effect from October 1. Tata Motors Passenger Vehicles Ltd (TMPV) shares began trading as a standalone
-  🔗 https://www.livemint.com/market/stock-market-news/tata-motors-demerger-commercial-vehicles-arm-shares-to-list-today-here-s-what-experts-feel-the-listing-price-should-be-11762877518331.html
-
-- Stock market today: Trade setup for Nifty 50, Tata Motors CV listing, Trump tariffs to Bihar exit poll - 8 stocks to buy
-  Sensex and Nifty 50 finished strong on Tuesday due to buying in services and telecom stocks. Positive sentiment from a potential US-India trade agreement boosted the market.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-tata-motors-cv-listing-trump-tariffs-to-bihar-exit-poll-8-stocks-to-buy-11762875666544.html
-
-- Buy or sell: Vaishali Parekh recommends three stocks to buy today - 12 November 2025
-  Vaishali Parekh of Prabhudas Lilladher
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-stocks-to-buy-today-12-november-2025-11762876140910.html
+- Best smartwatches that aren't Apple watch: Top 10 picks for everyday wear with modern designs and features
+  These smartwatches come with brilliant displays and fitness-focused sensors. Find the best
+  🔗 https://www.livemint.com/technology/gadgets/best-smartwatches-that-arent-apple-watch-top-10-picks-for-everyday-wear-with-modern-designs-and-features-11762859786612.html
 
 - AMD expects data center chip market to grow to $1 trillion by 2030
   AMD expects data center chip market to grow
@@ -96,137 +100,65 @@
   Elon Musk's X has introduced a Certified Bangers feature that identifies top posts monthly based on user interactions. The company says there is no follower criteria to get
   🔗 https://www.livemint.com/technology/tech-news/elon-musk-s-x-rolls-out-new-banger-badge-for-top-posts-here-s-how-to-get-one-11762875606720.html
 
-- Over 40% of Indias IT, gig workforce uses AI tools; employability soars to 56%: Report
-  Over 40% of India's IT, gig workforce
-  🔗 https://www.livemint.com/technology/tech-news/over-40-of-indias-it-gig-workforce-uses-ai-tools-employability-soars-to-56-report-11762875560969.html
+- Harsha Upadhyaya advises bottom-up stock selection amid steady market fundamentals
+  India's earnings season is concluding with results meeting expectations. Government initiatives and a good monsoon are expected to boost demand. Capital expenditure is growing steadily. Consumption is gradually improving.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/harsha-upadhyaya-advises-bottom-up-stock-selection-amid-steady-market-fundamentals/articleshow/125266921.cms
 
-- Gold loans shed regional tag, go pan-India
-  New financial institutions are entering the market, expanding access to formal credit for many. This trend is reshaping the lending landscape, making gold a key asset for borrowers.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-loans-shed-regional-tag-go-pan-india/articleshow/125262591.cms
+- Vietnam raises $153 mln in government bond auction
+  Vietnam’s State Treasury raised 4 trillion dong ($153 million) in its latest government bond auction.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/vietnam-raises-153-mln-in-government-bond-auction/articleshow/125266879.cms
 
-- Adani Enterprises sets rights issue at Rs 1,800 a share
-  Adani Enterprises has set its rights issue price at ₹1,800 per share. This represents a 24% discount to its current stock price. Shareholders as of November 14 will be eligible to subscribe.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-sets-rights-issue-at-rs-1800-a-share/articleshow/125262530.cms
+- Indian bonds rise on possible RBI buying and U.S. yield dip
+  Indian government bonds saw an early rise on Wednesday. This movement followed gains in US Treasuries. Traders believe the Reserve Bank of India is actively buying securities.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rise-on-possible-rbi-buying-and-u-s-yield-dip/articleshow/125266837.cms
 
-- Can Tenneco Clean Air India’s IPO deliver long term gains for investors?
-  Tenneco Clean Air India is set to raise ₹3,600 crore via an offer for sale. This will reduce its promoter stake to 74.8%.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/can-tenneco-clean-air-indias-ipo-deliver-long-term-gains-for-investors/articleshow/125262437.cms
+- Reliance Infra shares gain 5% despite 50% drop in Q2 net profit to Rs 1,911 crore
+  Reliance Infrastructure shares rose sharply despite a 50% year-on-year drop in Q2FY26 net profit to Rs 1,911 crore. Revenue from operations fell 14% to Rs
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/reliance-infra-shares-gain-5-despite-50-drop-in-q2-net-profit-to-rs-1911-crore/articleshow/125266827.cms
 
-- Transformers and Rectifiers shares plunge 30% in two days, hit lower circuit again
-  Transformers and Rectifiers (India) shares plummeted 10% for the second consecutive day following a profit dip and a World Bank ban due to alleged corruption.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/transformers-and-rectifiers-shares-plunge-30-in-two-days-hit-lower-circuit-again/articleshow/125262409.cms
-
-- Why did Bajaj Finserv's stock plunge despite an increase in Q2 profit?
-  Bajaj Finserv reported a 8% rise in Q2 net profit to ₹2,244 crore. Its lending arm, Bajaj Finance, saw its stock slump over 6%. This decline was triggered by a
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/why-did-bajaj-finservs-stock-plunge-despite-an-increase-in-q2-profit/articleshow/125262376.cms
+- Smallcaps on fire! Top 10 stocks that have rallied up to 178% in just 3 months
+  Indian smallcap stocks are performing exceptionally well. Several companies have delivered impressive returns, with some surging over 178% in just three months. Investors are showing renewed interest in these high-growth opportunities.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/smallcaps-on-fire-top-10-stocks-that-have-rallied-up-to-178-in-just-3-months/slideshow/125266783.cms
 
 - Delhi Red Fort blast updates: India’s Modi alleges ‘conspiracy’ as 13 dead - Al Jazeera
   &nbsp;&ngt;&
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObkpDb2d4OGdtMEFWaDB5cDNkZ0U0R1RWRkkxdlJnc0thcGhwanQ0V0F1Z1l3aHJ5bDgwSlRCYnR0X3VTYi03cGt3MkktVzFlWEFoUjQ3Yi13eEpsOWtmb9IBxAFBVV95cUxNUTgzM2VvcFgtTVlKRG5Pby1EMG1QYnZMNVhKaWtsLTd4MnVPMXd4OGl4RzdJVkRoNGpKMnJWS1hBVWZWQUs2NXJiZG80SHRnSDN4RW5VOG9lM3NpRTI5Tkp2Nm0yQmtaWWI2Yko0YzR2SWlBdlZMNU9Yc3FsZkQ2a3FHSk1DX1BLNDZYTWlocmRqWkJPRzRZZ29pYnBHRGlWcHdxdGNkOWs0M3JPV1Jxa3pFYjkxSVVzOUpCYnZ1T2k0ODVy?oc=5
 
-- Trump Says US "Getting Close" To Reaching A "Fair Trade Deal" With India - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzhyRDdCU0h0SVo4T1pwUXlBSUVNNlRybmZlV05KOGZ1aFR0b3pmMkdUWUhnRWQtbXV4TkdDRWpRck91S1cteHVkZUNuWVJ2ei0zM3Bsb2RucVZONW9OMXk3aDh4RjIxUW
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzhyRDdCU0h0SVo4T1pwUXlBSUVNNlRybmZlV05KOGZ1aFR0b3pmMkdUWUhnRWQtbXV4TkdDRWpRck91S1cteHVkZUNuWVJ2ei0zM3Bsb2RucVZONW9OMXk3aDh4RjIxUWRwd3BZbS13c1R4eE0wRk5YVFNxaE1MakhYTjEzLVBpUDhYSUZpM1R3M0R4VmNsVGw0dlc1cGp4ZURPMnNyYkF3eGVB0gG0AUFVX3lxTFBnM3Fyb2FGNzdpR09wNS1fbFBSQVYxNFY3RUlYNU9vVEJHZEdSRjg2MnlpOUFsWDRtTEFEZnZsSDFiaW1mVXlTbnhaS05yRk9UZ2FhWjJ5WVdHd2p1blhEQWg5WjFzRE9SaTZzY2lMWmw5eUJxRVFOZURaYWRuV0lYbG9xTkhCOUo2NXY2ZlExUVo2Y200WC14eFU5NC1BOHRfRXI1dURzNXVxYnBTeldfT2lOTw?oc=5
+- 'Predictable tactic': India calls out Pakistan's 'delirious' leadership over terror claims, says remark t - The Times of India
+  'Predictable tactic': India calls out Pakistan's 'delirious
+  🔗 https://news.google.com/rss/articles/CBMiuAJBVV95cUxNMGEtY1pqYTR3TVBoZmhqVEUwVzI2X2x5RDZ6ckFRMlFMTUt2SkpaSVAtUVR0YWV3bHN0SlBUaXdBOE5vaHNCVUozNlZVRnhmRUdMZzJCc0dRMDFRYW10OHBYallxcXRxRllobjliaHBfLVRSVHpHWmthWlVDbElTUFhxYjhvM2Fvam83cDhlUUNzRjJYZVlVTmtBOVA4UG0tRVo3NlYzUmFXSmxjaDlRREFpcUNYTlVzX1dmMnpjTnE0VVpkR3RYa2F6T2wyWmtWOTBTRTItVHRHNHFZTHEzalRNcEU0X3VTay1QZURpR05yNFp1WE1wRDJDaXQ1aDJzWWpFVEJieHhkZGRxdE5qTnRJTXY5VHhkMmRlUjhvZG1NTVZaOURZVGkzV2hpOExTcmpUcVROaV_SAb4CQVVfeXFMT1BVTHNXMHpvVURoY2pfd2xsa2J6c3BTbXJVMHJka21pQjk2Ni1SR2xuZ3JpRzE5RkY3QXVDNVVNNHZ1T3M5REV1TThHQ3d4dE5mOGdqcWRxdGdFX1JkRjFBWWxCOXVSc1hjalBVTTF6ZktXbF9kdTlLRkpLRnRBYnB0WXV0R1NVbE14S0h0ZUJOQmt5V3BhaklYLW8tN2NOWUxfUXdCc2EyNTA3TWlWZ1BZakJwOXp0QzhSMWFkQWtjYnJwSGFNQllvb2pBeVVTN0txWUpkMTFfeEM3WkdxX19LcVprSDhmczdJZzl0QTUxNlgzenpJWUwwLTdNOTR3RzZHYkFjMWYwWGoxN0FYa21Ub0xmMWpHVkFTU25iazRvSy03OGFzejAyTWQtbE9UUUExQkppN0NnX2Q5VFNR?oc=5
 
-- Connectivity key to better India, Bhutan ties: PM | India News - Hindustan Times
-  Connectivity key to better India, Bhutan ties
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWVVZE9FYzIzZGc5ZGpFc1A3T2JXdnNsM1lXZFlhUGR3amdQR1pnNmRzbjlxZW5OaFdGNUl5djktQ2RPWE4wQnJFVlM2ZHBvTkxiRjV1MXkxR0Q0ay1sNlduTHBwc1g2VkJLSDlxQllJUlYzZTViZ3NudmVMcW1mOFBfM3VtYVB3Z3F1YlhUekkzMkM3alZpbnNXNWNfdHZiVWdrazFZTXBocHFuT2xB0gG0AUFVX3lxTE5jcVJsNVdoc1dBUkRZb1E3S0R2MUszS0Y4QUdHM1U2czBaTXZCYzBhWU1GZkxPczVVcURXNWlialFXM092ZzJlN2ozX0luejNWZ1Y4TkJLUjhxYXpzWkFlRlFhc09hVkJ4QlByOUNQLWRweWN4NlBCa1h2ZFV6OGtET3BPYXJvMHBCbFlwSEJXY290U0xxVVJxMWlIZzNYV2RRZVJWdDlDc3N3Q1pHT2R4SEtxbg?oc=5
+- Updates: Pakistan blames India for deadly Islamabad bomb blast - Al Jazeera
+  The blast occurred in Pakistan's capital,
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOMV9qV1l6NGxCVF9tdEFPRkg4YndzM1Q0VXlPeng3UEJmNDQwVk8wQTZ0SFd6ak5ZampqNXdzdDVKdlk1MDZhMTlycDRvMlJQN1A1LXZGczdvaGhMc3hIOTFLNDRteDZNYTNrS1ltU2xjS2JCVkp6VEQ2djI0b3R1bS1WSkQzX0xodjRlYjhJczBSa1FUUkNHdWNERHFyb3psbEk1Mm90NV9NVE9PTGlid1lLUDR6SVBwU1kyQXZXSdIBxAFBVV95cUxQdW1TMm8wQnJfcmY0ZlpBLXZYd3pDYXdDc1JrcVJtVE9JMWVlOXJMdFA2NlpQWUdZcy1sakVJcEN5YmNqcXZJNF9zcTJZbk9qWHBnMnlZdEZSTnVyVkVrZlJtdTJjSW5JaVJ1ZS1jX2hZVUpTMUpxLXZoa0xwcHVuSVIwdmktMmVSMWpOODJuV1pHSjNFYjNNQUJ1NTVFRXVDVnhBdVBwbmlTeDJOS2dEdHQ2ZmRwZXIyekFBWjc0UXVDTG1W?oc=5
 
-- Top News Headlines of November 10, 2025 | Red Fort blast ripples in Bihar, police fan out as state votes today - The Indian Express
-  The Indian Express will publish the top news stories of November 10, 2025.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdnE5N205MDk5THNuMnJtaFh6TlZfNjUzUmhiQk5YcHdkcU01YWc3NDNsZVU0NC1ja2pMRWRGdzRTWlBnNFBLTlowamNqc0xhLWljOGl3RVFrVmtTS19oVjJjdlY1RVZwQzl5ekdTRUE0NVdXdUZZN3VGaDdyX1lYTnYzaFR3NDY0d3pfRXBUaXRkM0FGbkQ4bnF5WFhfeld6WkRKeTg3dWFVaDE0ZWJ0MlpxRnB3NnBkNkE0Xzc5Qm9PVFFBV1lieDhwTENlQ0N4c3NaQk9aN2FkLVE5M3ZPV3ljM2pmX1Nw0gHvAUFVX3lxTE1pVHA1WHhDQVhQUTE4SHp1ZVpzaFhjX0IwZmozOWliMWQ3NHhRa0ZLYVF3VTJldnNMNVRjNXRvWXpYRXFsTGZta1p3cDZ1MGl4b29uNDZkT2s2UXdVb1dXZDAzYUpKWU1kYzZfbG5QRVJiWEw1eEF0WmxZRnN0dWlMWU1xNmF6ZGlVYmRiY1llZU1MODlyQ0hWN1pBbFo4M0VIZGtYdmw4TmZmUEtsYkVrNTE1TDFQdmp6QjhRdzh6R3hvX29hdU5jeDN6S0hMLXBrWm5aU2NJYmY5UVlJZ0RKY0lQMDRFRjJHNTJ2UHlr?oc=5
+- Live: Pakistan, India launch probes after blasts in Islamabad, New Delhi - Al Jazeera
+  The blasts took place in Islamabad and New Delhi.
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNM1FWZnVGMVZtaENvYTNXeXVYM0tUZmVpVUtWZzNpampaOXh1UlF4QXhiWEZZZFAzZFo5ZlRaeS1jbW5SYmtrZ0xib04yMVUwcmE3MGlndFRBemJDMFFOb010clJPOTVOTXBnWW4yS25KOXBZUVQzWklhS2EzeDJpVlA4a2xRaVFRZnE3eWc2UjZNNjZ0eXdwMkREN0gxSHRZWFpHejVTOUhFR0V2STJQMDhHdVEtQdIBuwFBVV95cUxNSUVLYmFWdk5YdElqWmoxVEZULWY3SHRuNXViNEdBTkRycWQzUjVYdWlVRVcwSGVHeDBPeTczb0kxcTdpN2R2N1B2OHRSb1Fvc19WVktmWDhvY0lBRmRlamp6VGZMTXF2WDI3WG1oNk1RdjA0Y3UtaXREMS0xTE84LWV5X3NIX0x6LUR2ODhVOVNmSm1GUjNLRmo0enhMcmpfZG80UXN5S2NnQmRkZTF5ak4wMlgwTER1Qnlv?oc=5
 
-- Top News Headlines of November 11, 2025 | Singaporean moneylender who fatally stabbed debtor pleads guilty at the age of 80 after 33 years on the run - The Indian Express
-  The Indian Express has published a list of top news stories of November 11, 2025. It includes a story about a moneylender who
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMDF1SVp2NHdnb3dUM0JTdUF3di1EWDlfaTN3cUIzTU13aUFBeTJPSjRWTzNiUzBKSUFwem1PeTRldnFnSkI3ZDMtU0NFZWRxZ3gtWHZ6QUJoQmppcDNrNmNKYzNoV2kwVktkYm1FZG1KdHAzenpBdDFTSnY1X050V2ZldW52ZlBFVnlSMEp5X1pTcHhMWVpXTzZtYkctb2pIX0JxWF90dUY5c0VXcXQ4OWxYZ3B6MUxFbW4zcjI0U1FxOHRfLTZ5UmtKcncxdHUxbDRnSVhMQ3M3QW9vamVNTXE4ak9Tb0xQ0gHvAUFVX3lxTE9vNTJhMGtmX2FJRFl3VkZ6ZDNTNVVyeGxWbXFEUWpmcVZzVTFfX1doUm0yYnhTd3g4Y1FpTUg3SjdqSEV2OVV5Q0NxR1VFaGFuYkdEc3ZjU0NoRDhXd1Z6azBIU0hVNXd4SDJVZ0cwMVVjZnp3TnZFanhaN2RwX3NpNFpTa0R1YzlSTkJnTl9xVUtwWnBjbEZTZ0laRm5qbjg5SzltNmJQMC1KN1cwdGZUWlI3Rk1LY2tVSlBLZ3U2ekdKM1BlMmVMN1Zxc3pQWnBPWFl4YTdZOFAySHlvVmd4T093T0V5aTY2eFliZVpJ?oc=5
-
-- Delhi Red Fort blast updates: India’s Modi alleges ‘conspiracy’ as 13 dead - Al Jazeera
-  &nbsp;&ngt;&
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObkpDb2d4OGdtMEFWaDB5cDNkZ0U0R1RWRkkxdlJnc0thcGhwanQ0V0F1Z1l3aHJ5bDgwSlRCYnR0X3VTYi03cGt3MkktVzFlWEFoUjQ3Yi13eEpsOWtmb9IBxAFBVV95cUxNUTgzM2VvcFgtTVlKRG5Pby1EMG1QYnZMNVhKaWtsLTd4MnVPMXd4OGl4RzdJVkRoNGpKMnJWS1hBVWZWQUs2NXJiZG80SHRnSDN4RW5VOG9lM3NpRTI5Tkp2Nm0yQmtaWWI2Yko0YzR2SWlBdlZMNU9Yc3FsZkQ2a3FHSk1DX1BLNDZYTWlocmRqWkJPRzRZZ29pYnBHRGlWcHdxdGNkOWs0M3JPV1Jxa3pFYjkxSVVzOUpCYnZ1T2k0ODVy?oc=5
-
-- Trump Says US "Getting Close" To Reaching A "Fair Trade Deal" With India - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzhyRDdCU0h0SVo4T1pwUXlBSUVNNlRybmZlV05KOGZ1aFR0b3pmMkdUWUhnRWQtbXV4TkdDRWpRck91S1cteHVkZUNuWVJ2ei0zM3Bsb2RucVZONW9OMXk3aDh4RjIxUW
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzhyRDdCU0h0SVo4T1pwUXlBSUVNNlRybmZlV05KOGZ1aFR0b3pmMkdUWUhnRWQtbXV4TkdDRWpRck91S1cteHVkZUNuWVJ2ei0zM3Bsb2RucVZONW9OMXk3aDh4RjIxUWRwd3BZbS13c1R4eE0wRk5YVFNxaE1MakhYTjEzLVBpUDhYSUZpM1R3M0R4VmNsVGw0dlc1cGp4ZURPMnNyYkF3eGVB0gG0AUFVX3lxTFBnM3Fyb2FGNzdpR09wNS1fbFBSQVYxNFY3RUlYNU9vVEJHZEdSRjg2MnlpOUFsWDRtTEFEZnZsSDFiaW1mVXlTbnhaS05yRk9UZ2FhWjJ5WVdHd2p1blhEQWg5WjFzRE9SaTZzY2lMWmw5eUJxRVFOZURaYWRuV0lYbG9xTkhCOUo2NXY2ZlExUVo2Y200WC14eFU5NC1BOHRfRXI1dURzNXVxYnBTeldfT2lOTw?oc=5
-
-- Connectivity key to better India, Bhutan ties: PM | India News - Hindustan Times
-  Connectivity key to better India, Bhutan ties
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWVVZE9FYzIzZGc5ZGpFc1A3T2JXdnNsM1lXZFlhUGR3amdQR1pnNmRzbjlxZW5OaFdGNUl5djktQ2RPWE4wQnJFVlM2ZHBvTkxiRjV1MXkxR0Q0ay1sNlduTHBwc1g2VkJLSDlxQllJUlYzZTViZ3NudmVMcW1mOFBfM3VtYVB3Z3F1YlhUekkzMkM3alZpbnNXNWNfdHZiVWdrazFZTXBocHFuT2xB0gG0AUFVX3lxTE5jcVJsNVdoc1dBUkRZb1E3S0R2MUszS0Y4QUdHM1U2czBaTXZCYzBhWU1GZkxPczVVcURXNWlialFXM092ZzJlN2ozX0luejNWZ1Y4TkJLUjhxYXpzWkFlRlFhc09hVkJ4QlByOUNQLWRweWN4NlBCa1h2ZFV6OGtET3BPYXJvMHBCbFlwSEJXY290U0xxVVJxMWlIZzNYV2RRZVJWdDlDc3N3Q1pHT2R4SEtxbg?oc=5
-
-- Top News Headlines of November 10, 2025 | Red Fort blast ripples in Bihar, police fan out as state votes today - The Indian Express
-  The Indian Express will publish the top news stories of November 10, 2025.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdnE5N205MDk5THNuMnJtaFh6TlZfNjUzUmhiQk5YcHdkcU01YWc3NDNsZVU0NC1ja2pMRWRGdzRTWlBnNFBLTlowamNqc0xhLWljOGl3RVFrVmtTS19oVjJjdlY1RVZwQzl5ekdTRUE0NVdXdUZZN3VGaDdyX1lYTnYzaFR3NDY0d3pfRXBUaXRkM0FGbkQ4bnF5WFhfeld6WkRKeTg3dWFVaDE0ZWJ0MlpxRnB3NnBkNkE0Xzc5Qm9PVFFBV1lieDhwTENlQ0N4c3NaQk9aN2FkLVE5M3ZPV3ljM2pmX1Nw0gHvAUFVX3lxTE1pVHA1WHhDQVhQUTE4SHp1ZVpzaFhjX0IwZmozOWliMWQ3NHhRa0ZLYVF3VTJldnNMNVRjNXRvWXpYRXFsTGZta1p3cDZ1MGl4b29uNDZkT2s2UXdVb1dXZDAzYUpKWU1kYzZfbG5QRVJiWEw1eEF0WmxZRnN0dWlMWU1xNmF6ZGlVYmRiY1llZU1MODlyQ0hWN1pBbFo4M0VIZGtYdmw4TmZmUEtsYkVrNTE1TDFQdmp6QjhRdzh6R3hvX29hdU5jeDN6S0hMLXBrWm5aU2NJYmY5UVlJZ0RKY0lQMDRFRjJHNTJ2UHlr?oc=5
-
-- Top News Headlines of November 11, 2025 | Singaporean moneylender who fatally stabbed debtor pleads guilty at the age of 80 after 33 years on the run - The Indian Express
-  The Indian Express has published a list of top news stories of November 11, 2025. It includes a story about a moneylender who
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMDF1SVp2NHdnb3dUM0JTdUF3di1EWDlfaTN3cUIzTU13aUFBeTJPSjRWTzNiUzBKSUFwem1PeTRldnFnSkI3ZDMtU0NFZWRxZ3gtWHZ6QUJoQmppcDNrNmNKYzNoV2kwVktkYm1FZG1KdHAzenpBdDFTSnY1X050V2ZldW52ZlBFVnlSMEp5X1pTcHhMWVpXTzZtYkctb2pIX0JxWF90dUY5c0VXcXQ4OWxYZ3B6MUxFbW4zcjI0U1FxOHRfLTZ5UmtKcncxdHUxbDRnSVhMQ3M3QW9vamVNTXE4ak9Tb0xQ0gHvAUFVX3lxTE9vNTJhMGtmX2FJRFl3VkZ6ZDNTNVVyeGxWbXFEUWpmcVZzVTFfX1doUm0yYnhTd3g4Y1FpTUg3SjdqSEV2OVV5Q0NxR1VFaGFuYkdEc3ZjU0NoRDhXd1Z6azBIU0hVNXd4SDJVZ0cwMVVjZnp3TnZFanhaN2RwX3NpNFpTa0R1YzlSTkJnTl9xVUtwWnBjbEZTZ0laRm5qbjg5SzltNmJQMC1KN1cwdGZUWlI3Rk1LY2tVSlBLZ3U2ekdKM1BlMmVMN1Zxc3pQWnBPWFl4YTdZOFAySHlvVmd4T093T0V5aTY2eFliZVpJ?oc=5
+- Slow-Moving Traffic, Then Big Explosion: CCTV Footage Of Delhi Red Fort Blast - NDTV
+  " target="_blank">Slow-Moving
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSkdiSHE5eHhzLTBnUXNVcmZEYXlqVktXaWc1WjQ5M3RhX0xfYjNtQXB1cFNPa3RhQTEtNnFEOVRQUTZWY0YwYTVMd0o4TzdqcEVWM01IbVFFWDVYQk5iQ0Z1a1B5R1p4ZlE1QWowcXJRWkdNN0lqZzBLRWs1dGxaOGstS1BsTHlJLXYtX0VCNTVJcUpvelN6RElfQUhvZmdOdkFkOGdNdkR4NTBNM0ZObkxudEJpam5yMTRUSmg3TGhnNkI1dldlQVpreHczUFRPRGNRM183djVlakxMalduTG9Gb9IB6wFBVV95cUxPS1YxUjhtTWdwNmpVZXA2aVZTT0RObUNiUUtZeDBMNUhEX3NuSlBQaE0xam5oVVdrYk9Rc00zT3JpLU1RV3JwRFdZdmNxNWdXUnRCVmpqclFUQV96R2dGQWJ0OWQxNGNJc2dRdmVVQ3l1S2tTTmJyTWtYRV9wM2ZZa3hvZ1FRN1BoR2Y4aE95amdQVUlMejBWTTFHd1AxZ3o2ajFWWjNBQk41blBYSzlnUlBoNHFRTGVLOTVVa2V3aGVrZDBnUmZNRExhYV96TXk2bVpxaDVEQVlydElaTlJMU2JOeE9iR0NNWndN?oc=5
 
 - Delhi Red Fort blast updates: India’s Modi alleges ‘conspiracy’ as 13 dead - Al Jazeera
   &nbsp;&ngt;&
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObkpDb2d4OGdtMEFWaDB5cDNkZ0U0R1RWRkkxdlJnc0thcGhwanQ0V0F1Z1l3aHJ5bDgwSlRCYnR0X3VTYi03cGt3MkktVzFlWEFoUjQ3Yi13eEpsOWtmb9IBxAFBVV95cUxNUTgzM2VvcFgtTVlKRG5Pby1EMG1QYnZMNVhKaWtsLTd4MnVPMXd4OGl4RzdJVkRoNGpKMnJWS1hBVWZWQUs2NXJiZG80SHRnSDN4RW5VOG9lM3NpRTI5Tkp2Nm0yQmtaWWI2Yko0YzR2SWlBdlZMNU9Yc3FsZkQ2a3FHSk1DX1BLNDZYTWlocmRqWkJPRzRZZ29pYnBHRGlWcHdxdGNkOWs0M3JPV1Jxa3pFYjkxSVVzOUpCYnZ1T2k0ODVy?oc=5
 
-- Trump Says US "Getting Close" To Reaching A "Fair Trade Deal" With India - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzhyRDdCU0h0SVo4T1pwUXlBSUVNNlRybmZlV05KOGZ1aFR0b3pmMkdUWUhnRWQtbXV4TkdDRWpRck91S1cteHVkZUNuWVJ2ei0zM3Bsb2RucVZONW9OMXk3aDh4RjIxUW
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzhyRDdCU0h0SVo4T1pwUXlBSUVNNlRybmZlV05KOGZ1aFR0b3pmMkdUWUhnRWQtbXV4TkdDRWpRck91S1cteHVkZUNuWVJ2ei0zM3Bsb2RucVZONW9OMXk3aDh4RjIxUWRwd3BZbS13c1R4eE0wRk5YVFNxaE1MakhYTjEzLVBpUDhYSUZpM1R3M0R4VmNsVGw0dlc1cGp4ZURPMnNyYkF3eGVB0gG0AUFVX3lxTFBnM3Fyb2FGNzdpR09wNS1fbFBSQVYxNFY3RUlYNU9vVEJHZEdSRjg2MnlpOUFsWDRtTEFEZnZsSDFiaW1mVXlTbnhaS05yRk9UZ2FhWjJ5WVdHd2p1blhEQWg5WjFzRE9SaTZzY2lMWmw5eUJxRVFOZURaYWRuV0lYbG9xTkhCOUo2NXY2ZlExUVo2Y200WC14eFU5NC1BOHRfRXI1dURzNXVxYnBTeldfT2lOTw?oc=5
+- 'Predictable tactic': India calls out Pakistan's 'delirious' leadership over terror claims, says remark t - The Times of India
+  'Predictable tactic': India calls out Pakistan's 'delirious
+  🔗 https://news.google.com/rss/articles/CBMiuAJBVV95cUxNMGEtY1pqYTR3TVBoZmhqVEUwVzI2X2x5RDZ6ckFRMlFMTUt2SkpaSVAtUVR0YWV3bHN0SlBUaXdBOE5vaHNCVUozNlZVRnhmRUdMZzJCc0dRMDFRYW10OHBYallxcXRxRllobjliaHBfLVRSVHpHWmthWlVDbElTUFhxYjhvM2Fvam83cDhlUUNzRjJYZVlVTmtBOVA4UG0tRVo3NlYzUmFXSmxjaDlRREFpcUNYTlVzX1dmMnpjTnE0VVpkR3RYa2F6T2wyWmtWOTBTRTItVHRHNHFZTHEzalRNcEU0X3VTay1QZURpR05yNFp1WE1wRDJDaXQ1aDJzWWpFVEJieHhkZGRxdE5qTnRJTXY5VHhkMmRlUjhvZG1NTVZaOURZVGkzV2hpOExTcmpUcVROaV_SAb4CQVVfeXFMT1BVTHNXMHpvVURoY2pfd2xsa2J6c3BTbXJVMHJka21pQjk2Ni1SR2xuZ3JpRzE5RkY3QXVDNVVNNHZ1T3M5REV1TThHQ3d4dE5mOGdqcWRxdGdFX1JkRjFBWWxCOXVSc1hjalBVTTF6ZktXbF9kdTlLRkpLRnRBYnB0WXV0R1NVbE14S0h0ZUJOQmt5V3BhaklYLW8tN2NOWUxfUXdCc2EyNTA3TWlWZ1BZakJwOXp0QzhSMWFkQWtjYnJwSGFNQllvb2pBeVVTN0txWUpkMTFfeEM3WkdxX19LcVprSDhmczdJZzl0QTUxNlgzenpJWUwwLTdNOTR3RzZHYkFjMWYwWGoxN0FYa21Ub0xmMWpHVkFTU25iazRvSy03OGFzejAyTWQtbE9UUUExQkppN0NnX2Q5VFNR?oc=5
 
-- Connectivity key to better India, Bhutan ties: PM | India News - Hindustan Times
-  Connectivity key to better India, Bhutan ties
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWVVZE9FYzIzZGc5ZGpFc1A3T2JXdnNsM1lXZFlhUGR3amdQR1pnNmRzbjlxZW5OaFdGNUl5djktQ2RPWE4wQnJFVlM2ZHBvTkxiRjV1MXkxR0Q0ay1sNlduTHBwc1g2VkJLSDlxQllJUlYzZTViZ3NudmVMcW1mOFBfM3VtYVB3Z3F1YlhUekkzMkM3alZpbnNXNWNfdHZiVWdrazFZTXBocHFuT2xB0gG0AUFVX3lxTE5jcVJsNVdoc1dBUkRZb1E3S0R2MUszS0Y4QUdHM1U2czBaTXZCYzBhWU1GZkxPczVVcURXNWlialFXM092ZzJlN2ozX0luejNWZ1Y4TkJLUjhxYXpzWkFlRlFhc09hVkJ4QlByOUNQLWRweWN4NlBCa1h2ZFV6OGtET3BPYXJvMHBCbFlwSEJXY290U0xxVVJxMWlIZzNYV2RRZVJWdDlDc3N3Q1pHT2R4SEtxbg?oc=5
+- Updates: Pakistan blames India for deadly Islamabad bomb blast - Al Jazeera
+  The blast occurred in Pakistan's capital,
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOMV9qV1l6NGxCVF9tdEFPRkg4YndzM1Q0VXlPeng3UEJmNDQwVk8wQTZ0SFd6ak5ZampqNXdzdDVKdlk1MDZhMTlycDRvMlJQN1A1LXZGczdvaGhMc3hIOTFLNDRteDZNYTNrS1ltU2xjS2JCVkp6VEQ2djI0b3R1bS1WSkQzX0xodjRlYjhJczBSa1FUUkNHdWNERHFyb3psbEk1Mm90NV9NVE9PTGlid1lLUDR6SVBwU1kyQXZXSdIBxAFBVV95cUxQdW1TMm8wQnJfcmY0ZlpBLXZYd3pDYXdDc1JrcVJtVE9JMWVlOXJMdFA2NlpQWUdZcy1sakVJcEN5YmNqcXZJNF9zcTJZbk9qWHBnMnlZdEZSTnVyVkVrZlJtdTJjSW5JaVJ1ZS1jX2hZVUpTMUpxLXZoa0xwcHVuSVIwdmktMmVSMWpOODJuV1pHSjNFYjNNQUJ1NTVFRXVDVnhBdVBwbmlTeDJOS2dEdHQ2ZmRwZXIyekFBWjc0UXVDTG1W?oc=5
 
-- Top News Headlines of November 10, 2025 | Red Fort blast ripples in Bihar, police fan out as state votes today - The Indian Express
-  The Indian Express will publish the top news stories of November 10, 2025.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdnE5N205MDk5THNuMnJtaFh6TlZfNjUzUmhiQk5YcHdkcU01YWc3NDNsZVU0NC1ja2pMRWRGdzRTWlBnNFBLTlowamNqc0xhLWljOGl3RVFrVmtTS19oVjJjdlY1RVZwQzl5ekdTRUE0NVdXdUZZN3VGaDdyX1lYTnYzaFR3NDY0d3pfRXBUaXRkM0FGbkQ4bnF5WFhfeld6WkRKeTg3dWFVaDE0ZWJ0MlpxRnB3NnBkNkE0Xzc5Qm9PVFFBV1lieDhwTENlQ0N4c3NaQk9aN2FkLVE5M3ZPV3ljM2pmX1Nw0gHvAUFVX3lxTE1pVHA1WHhDQVhQUTE4SHp1ZVpzaFhjX0IwZmozOWliMWQ3NHhRa0ZLYVF3VTJldnNMNVRjNXRvWXpYRXFsTGZta1p3cDZ1MGl4b29uNDZkT2s2UXdVb1dXZDAzYUpKWU1kYzZfbG5QRVJiWEw1eEF0WmxZRnN0dWlMWU1xNmF6ZGlVYmRiY1llZU1MODlyQ0hWN1pBbFo4M0VIZGtYdmw4TmZmUEtsYkVrNTE1TDFQdmp6QjhRdzh6R3hvX29hdU5jeDN6S0hMLXBrWm5aU2NJYmY5UVlJZ0RKY0lQMDRFRjJHNTJ2UHlr?oc=5
+- Live: Pakistan, India launch probes after blasts in Islamabad, New Delhi - Al Jazeera
+  The blasts took place in Islamabad and New Delhi.
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNM1FWZnVGMVZtaENvYTNXeXVYM0tUZmVpVUtWZzNpampaOXh1UlF4QXhiWEZZZFAzZFo5ZlRaeS1jbW5SYmtrZ0xib04yMVUwcmE3MGlndFRBemJDMFFOb010clJPOTVOTXBnWW4yS25KOXBZUVQzWklhS2EzeDJpVlA4a2xRaVFRZnE3eWc2UjZNNjZ0eXdwMkREN0gxSHRZWFpHejVTOUhFR0V2STJQMDhHdVEtQdIBuwFBVV95cUxNSUVLYmFWdk5YdElqWmoxVEZULWY3SHRuNXViNEdBTkRycWQzUjVYdWlVRVcwSGVHeDBPeTczb0kxcTdpN2R2N1B2OHRSb1Fvc19WVktmWDhvY0lBRmRlamp6VGZMTXF2WDI3WG1oNk1RdjA0Y3UtaXREMS0xTE84LWV5X3NIX0x6LUR2ODhVOVNmSm1GUjNLRmo0enhMcmpfZG80UXN5S2NnQmRkZTF5ak4wMlgwTER1Qnlv?oc=5
 
-- Top News Headlines of November 11, 2025 | Singaporean moneylender who fatally stabbed debtor pleads guilty at the age of 80 after 33 years on the run - The Indian Express
-  The Indian Express has published a list of top news stories of November 11, 2025. It includes a story about a moneylender who
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMDF1SVp2NHdnb3dUM0JTdUF3di1EWDlfaTN3cUIzTU13aUFBeTJPSjRWTzNiUzBKSUFwem1PeTRldnFnSkI3ZDMtU0NFZWRxZ3gtWHZ6QUJoQmppcDNrNmNKYzNoV2kwVktkYm1FZG1KdHAzenpBdDFTSnY1X050V2ZldW52ZlBFVnlSMEp5X1pTcHhMWVpXTzZtYkctb2pIX0JxWF90dUY5c0VXcXQ4OWxYZ3B6MUxFbW4zcjI0U1FxOHRfLTZ5UmtKcncxdHUxbDRnSVhMQ3M3QW9vamVNTXE4ak9Tb0xQ0gHvAUFVX3lxTE9vNTJhMGtmX2FJRFl3VkZ6ZDNTNVVyeGxWbXFEUWpmcVZzVTFfX1doUm0yYnhTd3g4Y1FpTUg3SjdqSEV2OVV5Q0NxR1VFaGFuYkdEc3ZjU0NoRDhXd1Z6azBIU0hVNXd4SDJVZ0cwMVVjZnp3TnZFanhaN2RwX3NpNFpTa0R1YzlSTkJnTl9xVUtwWnBjbEZTZ0laRm5qbjg5SzltNmJQMC1KN1cwdGZUWlI3Rk1LY2tVSlBLZ3U2ekdKM1BlMmVMN1Zxc3pQWnBPWFl4YTdZOFAySHlvVmd4T093T0V5aTY2eFliZVpJ?oc=5
-
-- Delhi Red Fort blast updates: India’s Modi alleges ‘conspiracy’ as 13 dead - Al Jazeera
-  &nbsp;&ngt;&
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnczei10di1xeHpPTE1MTmI3M2VjMFFFOE1JMmdZS1hXTzg1VEVXbGZiMkt5YmZtcG1qZGZQQ09YMmRGaXJQZ1RUVjRpYmNRaTVETThqejlwZmdmV0NRM053R3BnVjRObkpDb2d4OGdtMEFWaDB5cDNkZ0U0R1RWRkkxdlJnc0thcGhwanQ0V0F1Z1l3aHJ5bDgwSlRCYnR0X3VTYi03cGt3MkktVzFlWEFoUjQ3Yi13eEpsOWtmb9IBxAFBVV95cUxNUTgzM2VvcFgtTVlKRG5Pby1EMG1QYnZMNVhKaWtsLTd4MnVPMXd4OGl4RzdJVkRoNGpKMnJWS1hBVWZWQUs2NXJiZG80SHRnSDN4RW5VOG9lM3NpRTI5Tkp2Nm0yQmtaWWI2Yko0YzR2SWlBdlZMNU9Yc3FsZkQ2a3FHSk1DX1BLNDZYTWlocmRqWkJPRzRZZ29pYnBHRGlWcHdxdGNkOWs0M3JPV1Jxa3pFYjkxSVVzOUpCYnZ1T2k0ODVy?oc=5
-
-- Trump Says US "Getting Close" To Reaching A "Fair Trade Deal" With India - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzhyRDdCU0h0SVo4T1pwUXlBSUVNNlRybmZlV05KOGZ1aFR0b3pmMkdUWUhnRWQtbXV4TkdDRWpRck91S1cteHVkZUNuWVJ2ei0zM3Bsb2RucVZONW9OMXk3aDh4RjIxUW
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzhyRDdCU0h0SVo4T1pwUXlBSUVNNlRybmZlV05KOGZ1aFR0b3pmMkdUWUhnRWQtbXV4TkdDRWpRck91S1cteHVkZUNuWVJ2ei0zM3Bsb2RucVZONW9OMXk3aDh4RjIxUWRwd3BZbS13c1R4eE0wRk5YVFNxaE1MakhYTjEzLVBpUDhYSUZpM1R3M0R4VmNsVGw0dlc1cGp4ZURPMnNyYkF3eGVB0gG0AUFVX3lxTFBnM3Fyb2FGNzdpR09wNS1fbFBSQVYxNFY3RUlYNU9vVEJHZEdSRjg2MnlpOUFsWDRtTEFEZnZsSDFiaW1mVXlTbnhaS05yRk9UZ2FhWjJ5WVdHd2p1blhEQWg5WjFzRE9SaTZzY2lMWmw5eUJxRVFOZURaYWRuV0lYbG9xTkhCOUo2NXY2ZlExUVo2Y200WC14eFU5NC1BOHRfRXI1dURzNXVxYnBTeldfT2lOTw?oc=5
-
-- Connectivity key to better India, Bhutan ties: PM | India News - Hindustan Times
-  Connectivity key to better India, Bhutan ties
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWVVZE9FYzIzZGc5ZGpFc1A3T2JXdnNsM1lXZFlhUGR3amdQR1pnNmRzbjlxZW5OaFdGNUl5djktQ2RPWE4wQnJFVlM2ZHBvTkxiRjV1MXkxR0Q0ay1sNlduTHBwc1g2VkJLSDlxQllJUlYzZTViZ3NudmVMcW1mOFBfM3VtYVB3Z3F1YlhUekkzMkM3alZpbnNXNWNfdHZiVWdrazFZTXBocHFuT2xB0gG0AUFVX3lxTE5jcVJsNVdoc1dBUkRZb1E3S0R2MUszS0Y4QUdHM1U2czBaTXZCYzBhWU1GZkxPczVVcURXNWlialFXM092ZzJlN2ozX0luejNWZ1Y4TkJLUjhxYXpzWkFlRlFhc09hVkJ4QlByOUNQLWRweWN4NlBCa1h2ZFV6OGtET3BPYXJvMHBCbFlwSEJXY290U0xxVVJxMWlIZzNYV2RRZVJWdDlDc3N3Q1pHT2R4SEtxbg?oc=5
-
-- Top News Headlines of November 10, 2025 | Red Fort blast ripples in Bihar, police fan out as state votes today - The Indian Express
-  The Indian Express will publish the top news stories of November 10, 2025.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdnE5N205MDk5THNuMnJtaFh6TlZfNjUzUmhiQk5YcHdkcU01YWc3NDNsZVU0NC1ja2pMRWRGdzRTWlBnNFBLTlowamNqc0xhLWljOGl3RVFrVmtTS19oVjJjdlY1RVZwQzl5ekdTRUE0NVdXdUZZN3VGaDdyX1lYTnYzaFR3NDY0d3pfRXBUaXRkM0FGbkQ4bnF5WFhfeld6WkRKeTg3dWFVaDE0ZWJ0MlpxRnB3NnBkNkE0Xzc5Qm9PVFFBV1lieDhwTENlQ0N4c3NaQk9aN2FkLVE5M3ZPV3ljM2pmX1Nw0gHvAUFVX3lxTE1pVHA1WHhDQVhQUTE4SHp1ZVpzaFhjX0IwZmozOWliMWQ3NHhRa0ZLYVF3VTJldnNMNVRjNXRvWXpYRXFsTGZta1p3cDZ1MGl4b29uNDZkT2s2UXdVb1dXZDAzYUpKWU1kYzZfbG5QRVJiWEw1eEF0WmxZRnN0dWlMWU1xNmF6ZGlVYmRiY1llZU1MODlyQ0hWN1pBbFo4M0VIZGtYdmw4TmZmUEtsYkVrNTE1TDFQdmp6QjhRdzh6R3hvX29hdU5jeDN6S0hMLXBrWm5aU2NJYmY5UVlJZ0RKY0lQMDRFRjJHNTJ2UHlr?oc=5
-
-- Top News Headlines of November 11, 2025 | Singaporean moneylender who fatally stabbed debtor pleads guilty at the age of 80 after 33 years on the run - The Indian Express
-  The Indian Express has published a list of top news stories of November 11, 2025. It includes a story about a moneylender who
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMDF1SVp2NHdnb3dUM0JTdUF3di1EWDlfaTN3cUIzTU13aUFBeTJPSjRWTzNiUzBKSUFwem1PeTRldnFnSkI3ZDMtU0NFZWRxZ3gtWHZ6QUJoQmppcDNrNmNKYzNoV2kwVktkYm1FZG1KdHAzenpBdDFTSnY1X050V2ZldW52ZlBFVnlSMEp5X1pTcHhMWVpXTzZtYkctb2pIX0JxWF90dUY5c0VXcXQ4OWxYZ3B6MUxFbW4zcjI0U1FxOHRfLTZ5UmtKcncxdHUxbDRnSVhMQ3M3QW9vamVNTXE4ak9Tb0xQ0gHvAUFVX3lxTE9vNTJhMGtmX2FJRFl3VkZ6ZDNTNVVyeGxWbXFEUWpmcVZzVTFfX1doUm0yYnhTd3g4Y1FpTUg3SjdqSEV2OVV5Q0NxR1VFaGFuYkdEc3ZjU0NoRDhXd1Z6azBIU0hVNXd4SDJVZ0cwMVVjZnp3TnZFanhaN2RwX3NpNFpTa0R1YzlSTkJnTl9xVUtwWnBjbEZTZ0laRm5qbjg5SzltNmJQMC1KN1cwdGZUWlI3Rk1LY2tVSlBLZ3U2ekdKM1BlMmVMN1Zxc3pQWnBPWFl4YTdZOFAySHlvVmd4T093T0V5aTY2eFliZVpJ?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Slow-Moving Traffic, Then Big Explosion: CCTV Footage Of Delhi Red Fort Blast - NDTV
+  " target="_blank">Slow-Moving
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSkdiSHE5eHhzLTBnUXNVcmZEYXlqVktXaWc1WjQ5M3RhX0xfYjNtQXB1cFNPa3RhQTEtNnFEOVRQUTZWY0YwYTVMd0o4TzdqcEVWM01IbVFFWDVYQk5iQ0Z1a1B5R1p4ZlE1QWowcXJRWkdNN0lqZzBLRWs1dGxaOGstS1BsTHlJLXYtX0VCNTVJcUpvelN6RElfQUhvZmdOdkFkOGdNdkR4NTBNM0ZObkxudEJpam5yMTRUSmg3TGhnNkI1dldlQVpreHczUFRPRGNRM183djVlakxMalduTG9Gb9IB6wFBVV95cUxPS1YxUjhtTWdwNmpVZXA2aVZTT0RObUNiUUtZeDBMNUhEX3NuSlBQaE0xam5oVVdrYk9Rc00zT3JpLU1RV3JwRFdZdmNxNWdXUnRCVmpqclFUQV96R2dGQWJ0OWQxNGNJc2dRdmVVQ3l1S2tTTmJyTWtYRV9wM2ZZa3hvZ1FRN1BoR2Y4aE95amdQVUlMejBWTTFHd1AxZ3o2ajFWWjNBQk41blBYSzlnUlBoNHFRTGVLOTVVa2V3aGVrZDBnUmZNRExhYV96TXk2bVpxaDVEQVlydElaTlJMU2JOeE9iR0NNWndN?oc=5
 
 
-_Last updated: 2025-11-12 01:16:02 UTC_
+_Last updated: 2025-11-12 06:27:59 UTC_
