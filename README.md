@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Before and after Red Fort blast, the 2 clerics arrested, 800 kilometres apart
+- Gold Today Rate, November 13: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/before-and-after-red-fort-blast-the-2-clerics-arrested-800-kilometres-apart-10362069/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-november-13-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10362625/
 
-- Andhra Pradesh eyes $1 trillion investments in five years, job creation priority: Nara Lokesh
+- Jubilee Hills and Nuapada By Election Results 2025: Know date, time, and where to watch the By-Election Results
   
-  🔗 https://indianexpress.com/article/india/andhra-pradesh-eyes-1-trillion-investments-in-five-years-job-creation-priority-nara-lokesh-10362123/
+  🔗 https://indianexpress.com/article/india/jubilee-hills-and-nuapada-by-election-results-2025-know-date-time-and-where-to-watch-the-by-election-results-10362434/
 
-- Election Commission eases BLA appointment rules, TMC says it will benefit BJP in SIR
+- US Secretary of State Rubio calls Delhi blast ‘terrorist attack,’ praises India’s ‘measured’ response
   
-  🔗 https://indianexpress.com/article/india/election-commission-eases-bla-appointment-rules-tmc-says-it-will-benefit-bjp-in-sir-10362145/
+  🔗 https://indianexpress.com/article/india/us-secretary-of-state-rubio-calls-delhi-blast-terrorist-attack-10362265/
 
-- As Jaishankar meets  Canada counterpart, its trade minister sets out to boost India ties
+- NIA raids in Gujarat, Bengal, and 3 other states in al-Qaida terror conspiracy case
   
-  🔗 https://indianexpress.com/article/india/as-jaishankar-meets-canada-counterpart-its-trade-minister-sets-out-to-boost-india-ties-10362136/
+  🔗 https://indianexpress.com/article/india/nia-raids-in-gujarat-bengal-in-al-qaida-terror-case-10362303/
 
-- ‘Bangladesh can’t and won’t remain in this state… will rise again’: Ousted PM Sheikh Hasina
+- Byelection results 2025 date and time: Anta, Budgam, Dampa, Ghatsila, Nagrota, Tarn Taran, Jubilee Hills results to be out on November 14
   
-  🔗 https://indianexpress.com/article/india/bangladesh-cant-and-wont-remain-in-this-state-will-rise-again-ousted-pm-sheikh-hasina-10361988/
+  🔗 https://indianexpress.com/article/india/byelection-results-2025-date-and-time-please-tap-anta-budgam-dampa-ghatsila-nagrota-tarn-taran-jubilee-hills-10362330/
+
+- OnePlus 15 India launch today: Date, timings, how to watch livestream
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/oneplus-15-india-launch-how-to-watch-livestream-10362591/
+
+- OpenAI unveils GPT-5.1 with ‘Instant’ and ‘Thinking’ variants for a more engaging ChatGPT experience
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-unveils-gpt-5-1-with-instant-and-thinking-variants-for-a-more-engaging-chatgpt-experience-10362441/
+
+- ‘The possibility of human extinction’: What keeps the ‘Godfather of AI’ awake at night
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/the-possibility-of-human-extinction-what-keeps-the-godfather-of-ai-awake-at-night-10362300/
 
 - Quick Heal Tech rolls out upgraded antivirus with AI assistant, dark web monitoring
   
@@ -28,57 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/oppo-find-x9-series-debuts-with-lumo-image-engine-and-real-time-hdr-10361537/
 
-- Samsung might launch Galaxy S26 in January instead of March: Report
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-s26-series-launch-date-10361076/
+- Thailand extradites a suspect in illegal gambling operations to China
+  Thailand extradites a
+  🔗 https://www.livemint.com/companies/news/thailand-extradites-a-suspect-in-illegal-gambling-operations-to-china-11763005683622.html
 
-- Google unveils ‘Private AI Compute’: Bringing on-device privacy to Cloud AI
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-unveils-private-ai-compute-bringing-on-device-privacy-to-cloud-ai-10361523/
+- Kasikornbank turns to AI, prudent lending as Thailands economy slows, chief exec says
+  Kasikornbank turns to AI
+  🔗 https://www.livemint.com/companies/news/kasikornbank-turns-to-ai-prudent-lending-as-thailands-economy-slows-chief-exec-says-11763004702767.html
 
-- Is there a Planet Nine beyond Neptune? Mapping the solar system’s hidden worlds
-  
-  🔗 https://indianexpress.com/article/technology/science/is-there-a-planet-nine-beyond-neptune-mapping-the-solar-systems-hidden-worlds-10361464/
+- Edtech company upGrad pushes big ticket courses in expansion of offline centres to 40 this fiscal
+  UpGrad is increasing its offline presence by expanding its so-called learning support centres to 40, initially targeting South India. This approach aims to meet the demand for &amp;nbsp;big
+  🔗 https://www.livemint.com/companies/news/edtech-upgrad-offline-expansion-unacademy-11762913272126.html
+
+- An upended market is ending the era of long-serving consumer, retail CEOs in India
+  India's consumer businesses face leadership churn as CEOs face pressure from tech-led market shifts. Recruiters note a generational shift is needed to connect with young shoppers.
+  🔗 https://www.livemint.com/companies/india-consumer-retail-ceo-churn-britannia-unilever-castrol-arvind-puma-benetton-11762939708894.html
 
 - California revokes 17,000 commercial drivers licenses for immigrants
   California revokes
   🔗 https://www.livemint.com/companies/news/california-revokes-17-000-commercial-drivers-licenses-for-immigrants-11762994289563.html
 
-- Google bets on AI to rival Microsoft, Amazon’s cloud dominance in India
-  Google announced a $15 billion investment to set up a 1 GW data centre in Andhra Pradesh.
-  🔗 https://www.livemint.com/companies/news/google-bets-on-ai-to-rival-microsoft-amazon-s-cloud-dominance-in-india-11762946936635.html
+- Tenneco Clean Air India IPO Day 2: Here's GMP, subscription status, other key details - apply or not?
+  Tenneco Clean Air India IPO was subscribed over 42% on the first day of bidding. The mainboard issue will close for subscription
+  🔗 https://www.livemint.com/market/ipo/tenneco-clean-air-india-ipo-day-2-heres-gmp-subscription-status-other-key-details-apply-or-not-11763013772353.html
 
-- Hirings at LTI, Coforge, other mid-tier tech cos to outpace the Big Five this fiscal
-  Mid-sized tech services companies in India are expected to continue hiring. In FY26, these firms might hire about 16,000 employees, outpacing the Big Five.
-  🔗 https://www.livemint.com/companies/midsize-it-tech-companies-lti-coforge-mphasis-persistent-hirings-employees-tcs-infosys-hcl-wipro-tech-mahindra-2026-11762869216096.html
+- Tata Motors demerger: What is cost split ratio? Check details of cost allocation ratio announced by company
+  Shareholders will allocate 68.85% of their original investment cost to Tata Motors Passenger Vehicles Ltd
+  🔗 https://www.livemint.com/market/stock-market-news/tata-motors-demerger-what-is-cost-split-ratio-check-details-of-cost-allocation-ratio-announced-by-company-11763013375794.html
 
-- OneSource optimistic on weight-loss drug prospects, raises FY28 revenue guidance to over $500 mn
-  OneSource Specialty Pharma has raised its FY28 revenue forecast from $400 million to over $500 million
-  🔗 https://www.livemint.com/companies/news/onesource-weight-loss-drug-prospects-fy28-revenue-guidance-to-over-500-mn-11762959009112.html
+- State-run banks dollar sales echo defence of rupees record low territory
+  State-run banks' dollar
+  🔗 https://www.livemint.com/market/staterun-banks-dollar-sales-echo-defence-of-rupees-record-low-territory-11763013474468.html
 
-- Why only one of the two big Tata Trusts inducted Neville Tata and Bhaskar Bhat
-  Venu Srinivasan, who attended only one of the two trust meetings, opposed inducting
-  🔗 https://www.livemint.com/companies/people/tata-trusts-remains-a-divided-house-as-venu-srinivasan-opposed-induction-of-neville-and-bhat-sdtt-srtt-11762949373721.html
+- Asian Paints share price rises over 4% to hit 52-week high after Q2 results; what should investors do?
+  Asian Paints share price rose over 4 per cent to hit a 52-week high in intraday trade on the BSE on Thursday
+  🔗 https://www.livemint.com/market/stock-market-news/asian-paints-share-price-rises-over-4-to-hit-52-week-high-after-q2-results-should-investors-buy-sell-or-hold-11763011702822.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 13 November 2025
-  Sumeet Bagadia recommends five breakout stocks to buy today. Remsons Industries, PDS,
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-13-november-2025-11762994528146.html
+- Emmvee Photovoltaic IPO Day 3: GMP dips sharply! Check review, subscription status, key dates and other details
+  Emmvee Photovoltaic IPO, worth  ₹2,900 crore, is priced in the range of 
+  🔗 https://www.livemint.com/market/ipo/emmvee-photovoltaic-ipo-day-3-gmp-dips-sharply-check-review-subscription-status-key-dates-and-other-details-11763010507615.html
 
-- Mahindra &amp; Mahindra, Manulife form 50:50 life insurance joint venture in India
-  M&amp;amp;M will hold 50% of paid-up share capital in the proposed joint venture company, and the balance 50% will be held by Man
-  🔗 https://www.livemint.com/market/stock-market-news/mahindra-and-mahindra-manulife-form-50-50-life-insurance-joint-venture-in-india-11762995154630.html
-
-- Buy or sell: Vaishali Parekh recommends three stocks to buy today - 13 November 2025
-  Vaishali Parekh of Prabhudas Lilladher recommends three stocks to
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-stocks-to-buy-today-13-november-2025-11762963289051.html
-
-- Stock market today: Trade setup for Nifty 50, India-US trade talks, Cabinet decisions to gold prices - 8 stocks to buy
-  The Indian stock market closed strong on Wednesday, with the Sensex up 595 points. Key factors included optimism from trade talks and positive Bihar election results.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-india-us-trade-talks-cabinet-decisions-to-gold-prices-8-stocks-to-buy-11762962043401.html
-
-- Stock recommendations for 13 November from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 13 November. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-13-november-marketsmith-india-sensex-nifty-garden-reach-shipbuilders-the-south-indian-bank-11762961086703.html
+- Eveready Ultima PB10 and PB31 review: Are these sub- ₹2,000 powerbanks worth your money?
+  The Eveready Ultima PB10 and PB31 powerbanks provide good charging performance. The absence of advanced
+  🔗 https://www.livemint.com/technology/gadgets/eveready-ultima-pb10-and-pb13-review-are-these-sub-rs-2-000-powerbanks-worth-your-money-11763006981116.html
 
 - Google Drive, Docs, and Sheets down for thousands of users in US; engineering team investigating
   Google Drive, Docs, and Sheets experienced widespread outages on November 12. Nearly 3,000 users reported issues, including server connection errors and difficulty accessing files. Google confirmed
@@ -96,157 +100,145 @@
   Google introduces new features for Google Photos. Can remove sunglasses and edit images using natural language. The Nano Banana model is now available.
   🔗 https://www.livemint.com/technology/tech-news/nano-banana-to-ai-templates-google-photos-is-getting-6-big-new-features-11762961802211.html
 
-- Sridhar Vembu just dropped a big warning for Arattai users ahead of new update: here's what to know
-  Zoho's Arattai app will add end-to-end encryption to text messages. An update is expected in a couple of weeks, addressing backup complexities.
-  🔗 https://www.livemint.com/technology/tech-news/sridhar-vembu-just-dropped-a-big-warning-for-arattai-users-ahead-of-new-update-11762954025456.html
-
-- Stock Market Today: Dow Tops 48000; Gold and Silver Rally - The Wall Street Journal
-  The Wall Street Journal reports that the Dow closed at 48,000. Yahoo Finance reports the S&amp;P 500, Nasdaq slip as AI angst overshadows hopes for end to US shutdown.
+- Stock Market News, Nov. 12, 2025: Dow Tops 48000; Gold and Silver Rally - The Wall Street Journal
+  Stock Market News, Nov. 12, 2025: Dow Tops 48
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOT0JPUHBtSHRIM1Ztcm9tWjVkSmZTYTJZNUZjUTVqSEh5eWU2c3VMb2JER2NCWlphejVJQlJyeDd3SmVzVWk4WnN0TWRJOXBWblh5cEY4VHdLY04yVmlEb3cyWS1fdnVoZzVsMnFlUkhETHRjSURzdTBla0g1X19WODVBZGtCT0E?oc=5
 
-- The stock market lags dozens of countries, in a year of record highs - NBC News
-  The stock market lags dozens of countries, in a year
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkhmbmQ3anVla0R4cmpIbm1veXQ2WTY2WUhQLW5hcXNydU1acGFHcFY4Z25iU2hVMkp3QUNuRnZCNHhSWDlRQzUtS210OEtrLThpb3VHY2RWRzdXZ2NlcWNnMTBBRjF0UXJVQ1dadmVqOS1UZnI4V1YzX191dHp5QkRYMXVmeXJkZi1uU1ZqNNIBVkFVX3lxTE0zRzR2SWU3TEsxT1ZtY3JGNkZGTVVxSzBTQ0lrcFRDYWFWVTU4elJabHhnSmtOZWFaUFd6YUVBRTc2RHV6ZnBjMktuVmNQWDM3azFsekp3?oc=5
+- Markets News, Nov. 12, 2025: Dow Closes Above 48000 for the First Time Ahead of House Vote to End US Government Shutdown; Nasdaq Slips - Investopedia
+  Markets News, Nov. 12, 2025: Dow Closes Above 48,000 for the First Time.
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE15WHZBb0VSSW94cV9VYWVXdHhBZjNVcjBjU2hncjN0UDNvR0l6NW5KTlhleXNFSlEwQS1CbzFVNmYyQmJBWEFUZ05KNHRDZUxSSmt3NWZic0FXRTZkbXV1aUU0ckQzX2hneW5TNEVGcw?oc=5
 
-- Market Highlights: Sensex settles 595 pts higher, Nifty above 25,850; Asian Paints rises 7%, TechM 3% - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMm9adlJFc3Z3VjI2YTRDYWFaZHA4MHd5ZEkwOXVzdW5VdmdaQzVkeEtQX0RqQUlLWThoY0RWUjdoQkx3WkYzQ0RlRWxFOFdEX0VZZHZRWml0N0hIZFExTHo0TlEtR3pzQW
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMm9adlJFc3Z3VjI2YTRDYWFaZHA4MHd5ZEkwOXVzdW5VdmdaQzVkeEtQX0RqQUlLWThoY0RWUjdoQkx3WkYzQ0RlRWxFOFdEX0VZZHZRWml0N0hIZFExTHo0TlEtR3pzQWZ1eWpwTDIxaUdlNUhxQi1Wa0ZKOWt2M3BKMHYwYVdIeFA2V241U2tmS3NKRnhSYUFvTDZtdFU5OUVuYmk4ZFJPSU44dDAxcVhaQURuNk9aM0RmZ3BBcmV4ZmN1Z2dLb1dsS0tILTRNT1J4Q2V5UTHSAd4BQVVfeXFMUERCM0tqakxGbE83V3Z0bU9XNjBMZ19FNXg0c2ItOF9nVi1VZEZPYjNsWXg2N090a092QzZjSzVEZEFpZzhwdFpJY05tYldVVzhReHlHcjJHczZSV1g3STZtWVhFLUtVM01UOERzVXB6c3diWVl5dzQxenJLcldwQ0pvVDM5RkVFMlRBdl9qTUw3aEhucV9KbGIyRWxLdFMtQ01JajlBblB4RVlLTFluM3FwNUF4Vk9mMnduM0lfaVBwTlluYXBTY0lqVUk5MkwtR2Z1VVNqck5weHFqS3dR?oc=5
+- Dow Average Hits All-Time Highs Before House Vote: Markets Wrap - Bloomberg.com
+  Dow Average Hits All-Time High
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPTzJsNWMyR3ZWa3pyYTZ4eVBsMmpaVTJjSW5nX3dRX1JZNEJvWW9GX3RXNlBBWGpHNFpiWUI4QXNqY2VHX0plOURET0VJZUo1OFBkM0Y2Q0lFSFJiUUlhWFhNbHhyODZMMmxBUGw1RmFXbTRvQ3JsaXdGZmZ0UGpzMDNPYkZ5UUE4Ul9KeEZWeHFCU0Vs?oc=5
 
-- US shutdown breakthrough providing clarity to markets - BBC
-  US shutdown breakthrough providing clarity
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOaFJaWUM2blZqeXB0ckFjWFdTeHNmZjVNbFUyMGRVQ1hMVkV3LUlOcHhOaVZfNmlRcTVrNEJ6RUY4TWotRDFYX20tVFpRWGR6UDN1RjN3emc5S3M4YUhDeU1GX2hna3lPQ0ZhR2JsWjJ1dXFxM0dva0RXVUpPMERXQzY4QzJEN21DREljM3hXUTdxZ3JWQ05UWA?oc=5
+- Stock Market LIVE Updates: Sensex up 310 pts, Nifty above 25,950; Nifty Bank hits fresh high - Moneycontrol
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxNclRaZUxrdF9FTGNMTDlaODFSLUJWMm5RV0Z0a0dZODdXTzNIV0gwenlHTGxlVnFTODR3R0dILWd0T3VSWlVwNnI1M0Fkdnlac0dxemR3a2tkWmNvNUhsVXh0QVpfd1NlMm
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNclRaZUxrdF9FTGNMTDlaODFSLUJWMm5RV0Z0a0dZODdXTzNIV0gwenlHTGxlVnFTODR3R0dILWd0T3VSWlVwNnI1M0Fkdnlac0dxemR3a2tkWmNvNUhsVXh0QVpfd1NlMmFqMEc2WWNGYmdFWlhJenJ6OFVIQnhuUW1iaGFnR0t5TXh2bUZybS1ldjdVVUxYSUk0TEdBbXZTZVlVR242VmxtRGZEdEdxZGEwaUtHQTIyN2RLSXJTVUZSMEZMeVZaZU82cG56dnpTSHJKX2dOT0dJemM5TEl0VHo0b0VUSkFkblZDSg?oc=5
 
-- Exclusive: India markets regulator plans wide-ranging reforms to woo foreign investors, chief says - Reuters
-  India markets regulator plans wide-ranging reforms to woo foreign
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaDY3Yk9mUmlqdktSVFBPcXRSeDlwVV9ZWVI4Q1YwSklWWU94bXpuOWRCMHNKWnY0RndVMnZwQkQ4bFVsR3MwblBNa2lfZ2VTVG5jTjR1NVJNU2oxd1JzLXRsTFhMNGJhaHdvQ3lfMEl4OWUxMmFKdmZCbjNWMV8xZjY0MXBzcDR1aWJfc3J4VGliRFczV05QT0pJZk9VYVluekV0QWlaN1ZqdkFMMTFKZWk4VTJ5bVM3Ry1IOXFjVVJ6d21TZkZfMzh5NGxxcXY3VzZWSnllMXpTMWwyRGFFeHFaSzVDcVlLVEE?oc=5
+- Groww shares extend gains for 2nd day, rise 13%; m-cap surges to Rs 91,500 crore - Moneycontrol
+  Groww shares extend gains for 2nd day, rise 13
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTFmVVVtWWVzenJRVDRuTHRfZG9qNVpFRlQ5NWVIT0psMUhaazNPbnVsQ1B0dDdydWlUT1Y4bGFnYVRBcGxYRThnVTZ2NHlWU0hreWxuZThzSV9LdlRJdW9BakF3RlZWNjZUZ0ZteUw0aDV6UU5uYW1MVVNpalRYaDhoQnhGa0hUVHBEdXo2YlVLVGxvYXU2REZZU3ZLVUtWb3BDZ3o0Y3poRGk3WG56ejZIQk9HWjJrX0VWVTBrU21YWlphQTNSUVZWLVpMa2VoeElLdUx3NFpfUQ?oc=5
 
-- A $25 billion Bitcoin bet is fraying as doubt hits big buyers
-  The retreat follows a difficult October, halting Bitcoin's recovery. Previously, these large buyers drove the digital currency's value and legitimacy.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/a-25-billion-bitcoin-bet-is-fraying-as-doubt-hits-big-buyers/articleshow/125287824.cms
+- Rupee falls 7 paise to 88.69 against US dollar in early trade
+  The rupee depreciated by 7 paise to 88.69 against the US dollar in early trade on Thursday. A strong US dollar index and muted domestic equities.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-7-paise-to-88-69-against-us-dollar-in-early-trade/articleshow/125291816.cms
 
-- Is Fujiyama Power's upcoming IPO a smart bet for high-risk investors?
-   Fujiyama Power Systems is set to raise ₹828 crore via IPO. The company has shown impressive revenue and profit growth. Despite elevated debt, its valuation appears attractive compared to peers.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/is-fujiyama-powers-upcoming-ipo-a-smart-bet-for-high-risk-investors/articleshow/125287802.cms
+- India bonds dip as purchases from investor group that includes RBI slow
+  Retail inflation hit a record low in October, but steady core inflation around 4.4% disappointed markets. Bond yields rose as prices fell.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-dip-as-purchases-from-investor-group-that-includes-rbi-slow/articleshow/125291772.cms
 
-- Rupee swings shrink to 60 paise amid active support from RBI
-  The Indian rupee's trading range has significantly tightened recently. This is due to increased intervention by the Reserve Bank of India. Market participants are observing the RBI's actions closely.
-  🔗 https://economictimes.indiatimes.com/markets/forex/rupee-swings-shrink-to-60-paise-amid-active-support-from-rbi/articleshow/125287778.cms
+- PhysicsWallah IPO final day: Weak GMP, tepid subscription. Should you consider bidding?
+   PhysicsWallah’s Rs 3,480 crore IPO entered its final day with weak demand. The issue was subscribed only 16% by Day 2 so far, led by retail interest.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/physicswallah-ipo-final-day-weak-gmp-tepid-subscription-should-you-consider-bidding/articleshow/125291764.cms
 
-- Sebi to tighten conflict-of-interest and insider trading norms for top officials
-  A Sebi-formed committee has proposed classifying the Sebi chairman and whole-time members as 'insiders' under insider trading rules. This move aims to prevent them
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-tighten-conflict-of-interest-and-insider-trading-norms-for-top-officials/articleshow/125287700.cms
+- Indian stocks are the cheapest vs US in nearly 2 decades. Rare bargain or growth warning? 6 takeaways for investors
+  Indian stocks are now trading at their cheapest valuation versus US equities in nearly two decades. This divergence is driven by the US AI boom boosting its market, while Indian earnings consolidate. Experts are divided on whether this presents a rare buying opportunity
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-stocks-are-the-cheapest-vs-us-in-nearly-2-decades-rare-bargain-or-growth-warning-6-takeaways-for-investors/articleshow/125291702.cms
 
-- Will Groww's stock continue to climb after its IPO debut?
-  Billionbrains Garage Ventures, the parent of broking firm Groww, made a strong debut on the stock market. The company's shares listed at a premium, surpassing initial expectations.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/will-growws-stock-continue-to-climb-after-its-ipo-debut/articleshow/125287660.cms
+- Bitcoin hovers near $101K as investors book profits at higher levels
+  Analysts say pullback reflects caution ahead of key US macro data. Experts see strong support around $100K, with potential upside toward $108K if inflows stay positive.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-hovers-near-101k-as-investors-book-profits-at-higher-levels/articleshow/125291625.cms
 
-- India says deadly car blast was ‘terror’ attack by ‘antinational forces’ - Al Jazeera
-  India says deadly car blast was ‘terror�
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWFHM0JFcGhEekp4dTJ2VTZxRVNoVWtKR3JnZVFyNi10bGEtOUc5WjMtUWpPRUJacDZNdUI5eUd6bTI5MWRtdVNZSkhlb0kyS1JBbk5JbDdiVUVzOFFjc25VQU9vT1B6b25jQjl2bWF0bVlwMzNRUVVEOEJyWFFVcXozNTVpdEtoYS1zR2FYaV9jVE05QlhsNHFuYzA0N1kzMDUySEtIWWsxa29qY05YQtIBtgFBVV95cUxQY1NDRndWd2JGcWtGVlN1RUd5MnFGQ2xiLVNIMTM1NkUwUEJUTlplQWVXNnI3VWMxWmRFSVM2eW42VTZVR1ZGZTgxS1FMaHA4azFScVBRWXd2bTFhMGZseFRHUVpVNWlRYTF3M2I0ME5PSkFPczRyMEdvSzE5enVxWVFpank2azF0YWVUOVQtT0VfZ0VVR0xFSXc2TW9hZzlpUEFZMElEUkNnUXdTMkVWb3UySTZ4UQ?oc=5
+- Delhi explosion: Red Fort blast was terror incident, Indian government says - BBC
+  The Red Fort blast was a terror incident
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yMG42UzZHWGh4VUNUQ0JjeGNaNlMxWml2c2VWOXpOOGNEUE1pcnZBQkl4bUVWeEJ1cEtsMWV6cVgyMlZRNDNlWnF4dzZUTXJ5S205Tk5HVngzQdIBX0FVX3lxTFB5UHF0UW9MMnU0M2hUQ0dEdHRhNEJDbVZ1Z3BXTHk5bUxnOExXZDVuUlh1QnNwd3JZNzBwYzNVLWhoaUNnLVpmeklaU3F6RTRYQ1RacEdwZzUyUkN6OUhZ?oc=5
 
-- US sanctions against entities, individuals linked to India, other nations for ‘supporting’ Iran’s ballistic missile | India News - Hindustan Times
-  US sanctions against entities, individuals linked to India, other nations for ‘supporting
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxOYjctZ1E4RElSVjY2STc0Yk5hYnVfQlNjWU02S3RkOWZCU3hMOTFxdnRlSTViNnBmNHVPaTZ0dXlwQlp0M3pCRmo0RzNnZG5iSjlEamVUaVdqcFNnWXVNX1lYZ3kyNEh3OUhOaExHQzE5YkNNR1M0YW9JWG9TTElGYS14NVpJcGNNX0ltUFBTTGFDVDYwNDJ0VlNRc1VNS0lKOG96TXk1bXZmUmRveDVzYUV4SWVhQW51ZHRJcjZnYXFlTlhzVk9qTHF1NTZpckJBeUdaYjVudW9BQVBBRHMzVTJ2b0hPTURsaWJZNVJ5dkFKT3lxV2ZpLVlLSmlPLVFpZzAwcNIBigJBVV95cUxPc21wYlIySlo0SElqeW0wM2FhMVlTZFMwWThZVXpIbkw0Mmc0WG1iM29aOGJFUVFiVEg2ZnhjSmJycGRUeExSSm12SVdmRnBhdFNOZ0tfbFRUUzJsQ2hPdjNyMDBpZ0NUOUdSNEtGMFVfV0trSU8tZ3FodzJDZExrZ3psVmpETVlCV0xoeUJaZnRaTnN2ZWFIcUttSC1MN0t2WkFCS3VESzBYTl9Sb1pMSHE4a0JCMXd6RFFfVEtzZGV0UTF0MW10UjB5Y1R3azBjbGMtYm1KMmZJd3ROSnNnRzZjUjJvUkhtQmhDRXlONWJtcmVVWWI2alZ5c3R5ckdMWDZXSTlWZzYtUQ?oc=5
+- ‘Don’t need our help': Marco Rubio praises India’s ‘professionalism’ in Delhi blast probe | India News - Hindustan Times
+  Marco Rubio praises India’s ‘professionalism’ in Delhi
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc3pCTW9TTXNnN1NyOEphRFFzTjlIRVNWQ3EzWE5rZ245SktlN3dBank2N1IyTlY0Zkg2X3dvbjhBUXk1cEpZQWNWYTFtVko0UGpxakdnZTRVTzN4UTJpbnE1YU1WdEdlVk83NHFManY3WDMtVEhEV2U5RVVfSUZORndyeW9INWdfMVhjeTBLR2RHS1R1R0h3cEljd1NmYk1sZ2xiMW4zWDk3b3hXakZSRHREVXZhd0dYTC1xWExLNlZJUU9nZlE3YWNtcmk4bTYzTGNIVWxiUU1La2k1TER4bHZjRXNjenRwMjl4U0c4cXlnZjM1d192N21Yc29IRHE4WEgtRFNZR2bSAY4CQVVfeXFMTmZiaE9zVE13RFhmXzNQQkhBYkNTYjBvZ0xha09HWGlCU3EtMmNmYWxzTGlkTkhCOTVPb0dtX2VTUzBmYWNWeGJpTHRmOWtQWXZQRm5zTTgwRTZObnV4aVd1WFcyUC1jQ3lyWF9qN2lQWmlNX3lpaXZ2NjZZOWZ1WlQ3WWZuS0RJa1A2UFhQWGdlc3ZVTEdKdmZKekhlLW92anBiSW5CbHVYUzBLNnJhSjFKZTAzbjJwaGhFdTRFWUhycGs0NnF2bnV1YWxqVXA4cmw0a2o1TjRfT0lpNDFfRTYxSVJXd2NtYjM4S1F3YjhVNWlTeFBJaFNudV9LcFZXYWFQLXhRWnZWOU1xNU5R?oc=5
 
-- School assembly news headlines, November 13: Top India, world, sports, business news - India Today
-  School assembly news headlines, November 13: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYUNKd0ctbVVyMnJONVhRVDFSaEpxZ1JKYU0wUVhjQ2p3ZHNPck1hUjh2M1dZbFRVR3JzQUFVQXlMQ0xtdEJ4azlaM0NVcEJEWTBlWkNaTGV1S3ZONE84STB2RkZPZDFhclQ5OXMxRlNkUW9ZYmZLcHA2MEdaN1hVQ1o2YUZZTUFYbWg3bndzUDk3NHUtQXRyMFJRMi1pREFMdmJIcmlCV0JTTzRtblZZVTRtdWI3TzREeE03ajRBcG8yRW9ob0pqa0c4Q25aSmNudzczaHl6ZW9oX2d6dkdQZ0JSZjdpQQ?oc=5
+- In Bihar's Record Voter Turnout, A Warning From History For NDA - NDTV
+  In Bihar's Record Voter Turnout, A
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOaUVHeEE4Q0ZReVFhT3BidFliODEyRDhzMEFITndXUjl3RGpCMWdGWFJZQk9jamZXcWVaR2xYM3ZQRUlnRUxqNDNHOVFxUk5reWtERmNhenEtZ2pTcU84OFY2bXBMc193d1F0eURlTlRqR1lSczNnQWQ1Ti1JbHd3YkRpZTBjb0FVUTVkeks5SENaRmRmMkVRRm5OUEY2Y2thU2pWLV9QX2NnYnBIWnp5Vl9LcTBSNHlJTzBtbmdmdzdMcFF0S2swRFROTTRvZGduX1NBUVRSTlpJd1hRb0FGQlIwblh2RzhPZURxTEswcW12OVAydlU1dll5S2p6clBpMENJ0gGLAkFVX3lxTFBQbUMzenFVOU1ybzc4OEIzd1dBSjIweGpHMW16WFZnSTg3NnUyUlM4bmFUNWI4Tk51Q21JMDk1UkMtWEJZMWF4cFNoQjZ6dU05UFRPS0VWN1ZjTXRUYWZkNDg0bWVDcDMxdWM2Vjd5VlVpSkJnSVk2SHlZSnhoTnpZeGVoSklYMV9sWDhva0QxYnB5clNEbm8wcjFoUnA2cEdxTXJ4cXZZYk9Ebjd0SmdkSERMOGt1TWE5LWZPakNwZXNWTm5fVXA3SmRrZDRiT3ZMVm9oQmU0Q3czWUthN0xRdVBhaFcxZGtTZjBSbG1LUHBJcUxDNlFpY050NFhzUFFoQm5EcS1vYmxjNA?oc=5
 
-- Google bets on AI to rival Microsoft, Amazon’s cloud dominance in India | Company Business News - livemint.com
-  Google bets on AI to rival Microsoft, Amazon’s cloud dominance
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxONFNGTjloTWU3VlpSZThNcjZCNkd0QXZ4cXFKYk14R04xQzdKQ29fZmJLd0VzTGZPZnh5RGZncUxFcE9JYkszVnJSaGtWUGFCZE84c2JaWm1pRlJsX0xQNU5LUXItNElka2RTeFZaQTVoMHk3WkRNbnEwSDFPb0xMLTI3R3BscGZyWTA2Vk8zdkFwbC04UWhqMHVxdnVTLU9BVVBoWEdCTHlPcUlOblJFS1h0UmNjSVFMQ2QwZkJ4dFEtdFlXNWRSM1dn0gHPAUFVX3lxTE9veVhjQ0lGd044eGlIdXdXbmpNcjZIOVNoblA0Q2RZekJDVXNtRWc1RFBTbGRxdGxQRk9EYl8yQ2daYlMwb0Y4U1NPME9fdVlxcG1tSUwzVkdlajhJZ240OEtNU1BIWHlqYzN3RnJNa0NsVFdacTNCcVJMTGw3SGZvY1l0MVFyOEJycklmZkFjS1ZzZ2pKZVZNd3AzZjRDbC1UVl81OFVZMFVsR3VFZEplaHFmQlU3c3Z4ZWE5MWVKWWVjTWhFVVJDWGNXZC1yOA?oc=5
+- Bihar election result 2025: When will counting of votes take place? | India News - Hindustan Times
+  Bihar election result 2025: When will counting of votes take place
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVtamFNWGZOc3ZtQkFnbnBLYzR1aG54OVJud3RRTUo3SmpNQzJZbjZDSGR6RlMwcTdDYnhVemk1RV9aUW96cWtpcklGczV5bzJoeWpGbEhDZ0RHZkVwSkxVOVFWa21tSDliakQ1XzRtYkt4MENtcDZOOU96S0FkcEhGUG9vWXJaMGhIMWhCTDdnVU02MTE2UUFoZ2x6OU96NkQyTm9VekxZUDZtaHBxSjlBZmxoUndsNkd1QUdNZkh0QTFGOGxr0gHMAUFVX3lxTE52NWFNamw1a2RjYTBESGRoSVpiSVpFV0RJTGowdWVNY2d4UVVNeVpFaDFrblpzdDVab2puTFd6bGZ3ZnpvUW5rYkZKSVhSakF3VVpldDNYcVhRMzQyWllsbC1ObUZpUDZpVkxOZGRXV0FBV3ltZUxPeS1JZl9ldlF2aUdIWS0zaGlCNW0zVkZYRDNMOS15TW0wRjlGa1dZdXhSSERCazlJYlprbS1qTWEyQmlZN0NFai1tajA5WHFJUkp0amY3MlBNUkFwYw?oc=5
 
-- CJI Gavai on '79 rape ruling: 'Moment of institutional embarrassment' - The Times of India
-  CJI Gavai on '79 rape ruling
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQck9jcjRQZEg2c1FNVkkzb2duNXMwc1dLOU5rU2hWMkVxTkVyR0M5UkZTSDdhd2tuSnU3TUtmMXFIWlZrVzNxMldWaEwzVTR3TldDbHpEbllyWDdnT1NuNGlmV1o0T0lsb29lOEFPdWRteWpFeFhIU3E3Ry02dzc0b1lVTE5HaGJ4MHFfamJVSU1hVVdlVWZTUy1adjRNUTFGcmdkeFkwbWwtYmlNX0hkUGlGNTl6UnJFM2plWUZRWU5MWkVndkHSAcsBQVVfeXFMTUJ1UGU5SFpIc05SNUJ6TTk2Sk41MzRocXRzNXRGTkV6TnVaRTdyUW1fdXI2UjVxa2xCVWlEclpOeW1wUzZDQzRxbzNONVp3endpR1VzQ08wWlVuVWV1VE9ZR3dNYkoweXBwVUMyNmxXOUYtMzV0QkFPcHRXMDBkbHV3SGN6UUxGRlBreTNLS0VyM2Z4eFdLS0M2VnBKb3pGMDNmdkhTNHVUa1NhN2FiQzY3MHpIeHRzX1dTUktCdTRSNE1jNWh6cjcwTmc?oc=5
+- Bihar elections: 'Tiger abhi zinda hai' poster featuring Nitish surfaces; results to be out tomorrow - The Times of India
+  Bihar elections: 'Tiger abhi zinda hai' poster featuring
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV29COFRLXzV4aDZSSTRUdjRhNUl6ZkhmYU1kdWp6WG0tNU1WTHpTQmVGZzIzc3pMMl84bWxxMGhGVDVIYkFmN0RUc3ZGM3FxU1c0Uklpc1pTX0hxeE9IVHBydU1QZllCMW5nMlBWTHN0MjZtMGVkX0dCdHhyc3ZQZ2Uxa1lVS1N3Q2R2X0xpenR0cEJlYnhGYXE5T0N5NGlDc3ZNZHI2NUhmTm5Vbm1GUXllNExiQV8wVWdHQWZuTHB3LUFuaWtoTmNYVF9Lc0h0T3BuLV9KU19udnFRNGhIMGVfRzlOcmJ0TFo1TjhsQkVYOVN3VW130gH8AUFVX3lxTE9xelZDMlJZaEZYTFdUdlNjZmZMWVhNbDViNHl4MXU2X1dJUXZKMkFjS2E4V1pNQWwzU0Q1WVNJc2J3TWZFYll4aV9xRk5oWVBkTEItM1ZWQUJEakY4TExLeWFZVmxvQWc4dTN0aHFjWVU1RXJ2MGlEZzg2Ujh1WXM4Ym5LaXBXSnl3OXp4Y0tiNTNaWS1EZGpoZ1E5MC1McE1hT2JwWmduZTJIc3c0b0pnTXY2NG52RkNSbzIzZzhIQVhjaTd0S1NGaFdBeHlKeWY4OHhQbTlqZTY2em5CVnkxNUxEbzYzUEZNRkg5Y0gxaUhVbGMxNmxuWTlyVw?oc=5
 
-- India says deadly car blast was ‘terror’ attack by ‘antinational forces’ - Al Jazeera
-  India says deadly car blast was ‘terror�
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWFHM0JFcGhEekp4dTJ2VTZxRVNoVWtKR3JnZVFyNi10bGEtOUc5WjMtUWpPRUJacDZNdUI5eUd6bTI5MWRtdVNZSkhlb0kyS1JBbk5JbDdiVUVzOFFjc25VQU9vT1B6b25jQjl2bWF0bVlwMzNRUVVEOEJyWFFVcXozNTVpdEtoYS1zR2FYaV9jVE05QlhsNHFuYzA0N1kzMDUySEtIWWsxa29qY05YQtIBtgFBVV95cUxQY1NDRndWd2JGcWtGVlN1RUd5MnFGQ2xiLVNIMTM1NkUwUEJUTlplQWVXNnI3VWMxWmRFSVM2eW42VTZVR1ZGZTgxS1FMaHA4azFScVBRWXd2bTFhMGZseFRHUVpVNWlRYTF3M2I0ME5PSkFPczRyMEdvSzE5enVxWVFpank2azF0YWVUOVQtT0VfZ0VVR0xFSXc2TW9hZzlpUEFZMElEUkNnUXdTMkVWb3UySTZ4UQ?oc=5
+- Delhi explosion: Red Fort blast was terror incident, Indian government says - BBC
+  The Red Fort blast was a terror incident
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yMG42UzZHWGh4VUNUQ0JjeGNaNlMxWml2c2VWOXpOOGNEUE1pcnZBQkl4bUVWeEJ1cEtsMWV6cVgyMlZRNDNlWnF4dzZUTXJ5S205Tk5HVngzQdIBX0FVX3lxTFB5UHF0UW9MMnU0M2hUQ0dEdHRhNEJDbVZ1Z3BXTHk5bUxnOExXZDVuUlh1QnNwd3JZNzBwYzNVLWhoaUNnLVpmeklaU3F6RTRYQ1RacEdwZzUyUkN6OUhZ?oc=5
 
-- US sanctions against entities, individuals linked to India, other nations for ‘supporting’ Iran’s ballistic missile | India News - Hindustan Times
-  US sanctions against entities, individuals linked to India, other nations for ‘supporting
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxOYjctZ1E4RElSVjY2STc0Yk5hYnVfQlNjWU02S3RkOWZCU3hMOTFxdnRlSTViNnBmNHVPaTZ0dXlwQlp0M3pCRmo0RzNnZG5iSjlEamVUaVdqcFNnWXVNX1lYZ3kyNEh3OUhOaExHQzE5YkNNR1M0YW9JWG9TTElGYS14NVpJcGNNX0ltUFBTTGFDVDYwNDJ0VlNRc1VNS0lKOG96TXk1bXZmUmRveDVzYUV4SWVhQW51ZHRJcjZnYXFlTlhzVk9qTHF1NTZpckJBeUdaYjVudW9BQVBBRHMzVTJ2b0hPTURsaWJZNVJ5dkFKT3lxV2ZpLVlLSmlPLVFpZzAwcNIBigJBVV95cUxPc21wYlIySlo0SElqeW0wM2FhMVlTZFMwWThZVXpIbkw0Mmc0WG1iM29aOGJFUVFiVEg2ZnhjSmJycGRUeExSSm12SVdmRnBhdFNOZ0tfbFRUUzJsQ2hPdjNyMDBpZ0NUOUdSNEtGMFVfV0trSU8tZ3FodzJDZExrZ3psVmpETVlCV0xoeUJaZnRaTnN2ZWFIcUttSC1MN0t2WkFCS3VESzBYTl9Sb1pMSHE4a0JCMXd6RFFfVEtzZGV0UTF0MW10UjB5Y1R3azBjbGMtYm1KMmZJd3ROSnNnRzZjUjJvUkhtQmhDRXlONWJtcmVVWWI2alZ5c3R5ckdMWDZXSTlWZzYtUQ?oc=5
+- ‘Don’t need our help': Marco Rubio praises India’s ‘professionalism’ in Delhi blast probe | India News - Hindustan Times
+  Marco Rubio praises India’s ‘professionalism’ in Delhi
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc3pCTW9TTXNnN1NyOEphRFFzTjlIRVNWQ3EzWE5rZ245SktlN3dBank2N1IyTlY0Zkg2X3dvbjhBUXk1cEpZQWNWYTFtVko0UGpxakdnZTRVTzN4UTJpbnE1YU1WdEdlVk83NHFManY3WDMtVEhEV2U5RVVfSUZORndyeW9INWdfMVhjeTBLR2RHS1R1R0h3cEljd1NmYk1sZ2xiMW4zWDk3b3hXakZSRHREVXZhd0dYTC1xWExLNlZJUU9nZlE3YWNtcmk4bTYzTGNIVWxiUU1La2k1TER4bHZjRXNjenRwMjl4U0c4cXlnZjM1d192N21Yc29IRHE4WEgtRFNZR2bSAY4CQVVfeXFMTmZiaE9zVE13RFhmXzNQQkhBYkNTYjBvZ0xha09HWGlCU3EtMmNmYWxzTGlkTkhCOTVPb0dtX2VTUzBmYWNWeGJpTHRmOWtQWXZQRm5zTTgwRTZObnV4aVd1WFcyUC1jQ3lyWF9qN2lQWmlNX3lpaXZ2NjZZOWZ1WlQ3WWZuS0RJa1A2UFhQWGdlc3ZVTEdKdmZKekhlLW92anBiSW5CbHVYUzBLNnJhSjFKZTAzbjJwaGhFdTRFWUhycGs0NnF2bnV1YWxqVXA4cmw0a2o1TjRfT0lpNDFfRTYxSVJXd2NtYjM4S1F3YjhVNWlTeFBJaFNudV9LcFZXYWFQLXhRWnZWOU1xNU5R?oc=5
 
-- School assembly news headlines, November 13: Top India, world, sports, business news - India Today
-  School assembly news headlines, November 13: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYUNKd0ctbVVyMnJONVhRVDFSaEpxZ1JKYU0wUVhjQ2p3ZHNPck1hUjh2M1dZbFRVR3JzQUFVQXlMQ0xtdEJ4azlaM0NVcEJEWTBlWkNaTGV1S3ZONE84STB2RkZPZDFhclQ5OXMxRlNkUW9ZYmZLcHA2MEdaN1hVQ1o2YUZZTUFYbWg3bndzUDk3NHUtQXRyMFJRMi1pREFMdmJIcmlCV0JTTzRtblZZVTRtdWI3TzREeE03ajRBcG8yRW9ob0pqa0c4Q25aSmNudzczaHl6ZW9oX2d6dkdQZ0JSZjdpQQ?oc=5
+- In Bihar's Record Voter Turnout, A Warning From History For NDA - NDTV
+  In Bihar's Record Voter Turnout, A
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOaUVHeEE4Q0ZReVFhT3BidFliODEyRDhzMEFITndXUjl3RGpCMWdGWFJZQk9jamZXcWVaR2xYM3ZQRUlnRUxqNDNHOVFxUk5reWtERmNhenEtZ2pTcU84OFY2bXBMc193d1F0eURlTlRqR1lSczNnQWQ1Ti1JbHd3YkRpZTBjb0FVUTVkeks5SENaRmRmMkVRRm5OUEY2Y2thU2pWLV9QX2NnYnBIWnp5Vl9LcTBSNHlJTzBtbmdmdzdMcFF0S2swRFROTTRvZGduX1NBUVRSTlpJd1hRb0FGQlIwblh2RzhPZURxTEswcW12OVAydlU1dll5S2p6clBpMENJ0gGLAkFVX3lxTFBQbUMzenFVOU1ybzc4OEIzd1dBSjIweGpHMW16WFZnSTg3NnUyUlM4bmFUNWI4Tk51Q21JMDk1UkMtWEJZMWF4cFNoQjZ6dU05UFRPS0VWN1ZjTXRUYWZkNDg0bWVDcDMxdWM2Vjd5VlVpSkJnSVk2SHlZSnhoTnpZeGVoSklYMV9sWDhva0QxYnB5clNEbm8wcjFoUnA2cEdxTXJ4cXZZYk9Ebjd0SmdkSERMOGt1TWE5LWZPakNwZXNWTm5fVXA3SmRrZDRiT3ZMVm9oQmU0Q3czWUthN0xRdVBhaFcxZGtTZjBSbG1LUHBJcUxDNlFpY050NFhzUFFoQm5EcS1vYmxjNA?oc=5
 
-- Google bets on AI to rival Microsoft, Amazon’s cloud dominance in India | Company Business News - livemint.com
-  Google bets on AI to rival Microsoft, Amazon’s cloud dominance
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxONFNGTjloTWU3VlpSZThNcjZCNkd0QXZ4cXFKYk14R04xQzdKQ29fZmJLd0VzTGZPZnh5RGZncUxFcE9JYkszVnJSaGtWUGFCZE84c2JaWm1pRlJsX0xQNU5LUXItNElka2RTeFZaQTVoMHk3WkRNbnEwSDFPb0xMLTI3R3BscGZyWTA2Vk8zdkFwbC04UWhqMHVxdnVTLU9BVVBoWEdCTHlPcUlOblJFS1h0UmNjSVFMQ2QwZkJ4dFEtdFlXNWRSM1dn0gHPAUFVX3lxTE9veVhjQ0lGd044eGlIdXdXbmpNcjZIOVNoblA0Q2RZekJDVXNtRWc1RFBTbGRxdGxQRk9EYl8yQ2daYlMwb0Y4U1NPME9fdVlxcG1tSUwzVkdlajhJZ240OEtNU1BIWHlqYzN3RnJNa0NsVFdacTNCcVJMTGw3SGZvY1l0MVFyOEJycklmZkFjS1ZzZ2pKZVZNd3AzZjRDbC1UVl81OFVZMFVsR3VFZEplaHFmQlU3c3Z4ZWE5MWVKWWVjTWhFVVJDWGNXZC1yOA?oc=5
+- Bihar election result 2025: When will counting of votes take place? | India News - Hindustan Times
+  Bihar election result 2025: When will counting of votes take place
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVtamFNWGZOc3ZtQkFnbnBLYzR1aG54OVJud3RRTUo3SmpNQzJZbjZDSGR6RlMwcTdDYnhVemk1RV9aUW96cWtpcklGczV5bzJoeWpGbEhDZ0RHZkVwSkxVOVFWa21tSDliakQ1XzRtYkt4MENtcDZOOU96S0FkcEhGUG9vWXJaMGhIMWhCTDdnVU02MTE2UUFoZ2x6OU96NkQyTm9VekxZUDZtaHBxSjlBZmxoUndsNkd1QUdNZkh0QTFGOGxr0gHMAUFVX3lxTE52NWFNamw1a2RjYTBESGRoSVpiSVpFV0RJTGowdWVNY2d4UVVNeVpFaDFrblpzdDVab2puTFd6bGZ3ZnpvUW5rYkZKSVhSakF3VVpldDNYcVhRMzQyWllsbC1ObUZpUDZpVkxOZGRXV0FBV3ltZUxPeS1JZl9ldlF2aUdIWS0zaGlCNW0zVkZYRDNMOS15TW0wRjlGa1dZdXhSSERCazlJYlprbS1qTWEyQmlZN0NFai1tajA5WHFJUkp0amY3MlBNUkFwYw?oc=5
 
-- CJI Gavai on '79 rape ruling: 'Moment of institutional embarrassment' - The Times of India
-  CJI Gavai on '79 rape ruling
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQck9jcjRQZEg2c1FNVkkzb2duNXMwc1dLOU5rU2hWMkVxTkVyR0M5UkZTSDdhd2tuSnU3TUtmMXFIWlZrVzNxMldWaEwzVTR3TldDbHpEbllyWDdnT1NuNGlmV1o0T0lsb29lOEFPdWRteWpFeFhIU3E3Ry02dzc0b1lVTE5HaGJ4MHFfamJVSU1hVVdlVWZTUy1adjRNUTFGcmdkeFkwbWwtYmlNX0hkUGlGNTl6UnJFM2plWUZRWU5MWkVndkHSAcsBQVVfeXFMTUJ1UGU5SFpIc05SNUJ6TTk2Sk41MzRocXRzNXRGTkV6TnVaRTdyUW1fdXI2UjVxa2xCVWlEclpOeW1wUzZDQzRxbzNONVp3endpR1VzQ08wWlVuVWV1VE9ZR3dNYkoweXBwVUMyNmxXOUYtMzV0QkFPcHRXMDBkbHV3SGN6UUxGRlBreTNLS0VyM2Z4eFdLS0M2VnBKb3pGMDNmdkhTNHVUa1NhN2FiQzY3MHpIeHRzX1dTUktCdTRSNE1jNWh6cjcwTmc?oc=5
+- Bihar elections: 'Tiger abhi zinda hai' poster featuring Nitish surfaces; results to be out tomorrow - The Times of India
+  Bihar elections: 'Tiger abhi zinda hai' poster featuring
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV29COFRLXzV4aDZSSTRUdjRhNUl6ZkhmYU1kdWp6WG0tNU1WTHpTQmVGZzIzc3pMMl84bWxxMGhGVDVIYkFmN0RUc3ZGM3FxU1c0Uklpc1pTX0hxeE9IVHBydU1QZllCMW5nMlBWTHN0MjZtMGVkX0dCdHhyc3ZQZ2Uxa1lVS1N3Q2R2X0xpenR0cEJlYnhGYXE5T0N5NGlDc3ZNZHI2NUhmTm5Vbm1GUXllNExiQV8wVWdHQWZuTHB3LUFuaWtoTmNYVF9Lc0h0T3BuLV9KU19udnFRNGhIMGVfRzlOcmJ0TFo1TjhsQkVYOVN3VW130gH8AUFVX3lxTE9xelZDMlJZaEZYTFdUdlNjZmZMWVhNbDViNHl4MXU2X1dJUXZKMkFjS2E4V1pNQWwzU0Q1WVNJc2J3TWZFYll4aV9xRk5oWVBkTEItM1ZWQUJEakY4TExLeWFZVmxvQWc4dTN0aHFjWVU1RXJ2MGlEZzg2Ujh1WXM4Ym5LaXBXSnl3OXp4Y0tiNTNaWS1EZGpoZ1E5MC1McE1hT2JwWmduZTJIc3c0b0pnTXY2NG52RkNSbzIzZzhIQVhjaTd0S1NGaFdBeHlKeWY4OHhQbTlqZTY2em5CVnkxNUxEbzYzUEZNRkg5Y0gxaUhVbGMxNmxuWTlyVw?oc=5
 
-- India says deadly car blast was ‘terror’ attack by ‘antinational forces’ - Al Jazeera
-  India says deadly car blast was ‘terror�
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWFHM0JFcGhEekp4dTJ2VTZxRVNoVWtKR3JnZVFyNi10bGEtOUc5WjMtUWpPRUJacDZNdUI5eUd6bTI5MWRtdVNZSkhlb0kyS1JBbk5JbDdiVUVzOFFjc25VQU9vT1B6b25jQjl2bWF0bVlwMzNRUVVEOEJyWFFVcXozNTVpdEtoYS1zR2FYaV9jVE05QlhsNHFuYzA0N1kzMDUySEtIWWsxa29qY05YQtIBtgFBVV95cUxQY1NDRndWd2JGcWtGVlN1RUd5MnFGQ2xiLVNIMTM1NkUwUEJUTlplQWVXNnI3VWMxWmRFSVM2eW42VTZVR1ZGZTgxS1FMaHA4azFScVBRWXd2bTFhMGZseFRHUVpVNWlRYTF3M2I0ME5PSkFPczRyMEdvSzE5enVxWVFpank2azF0YWVUOVQtT0VfZ0VVR0xFSXc2TW9hZzlpUEFZMElEUkNnUXdTMkVWb3UySTZ4UQ?oc=5
+- Delhi explosion: Red Fort blast was terror incident, Indian government says - BBC
+  The Red Fort blast was a terror incident
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yMG42UzZHWGh4VUNUQ0JjeGNaNlMxWml2c2VWOXpOOGNEUE1pcnZBQkl4bUVWeEJ1cEtsMWV6cVgyMlZRNDNlWnF4dzZUTXJ5S205Tk5HVngzQdIBX0FVX3lxTFB5UHF0UW9MMnU0M2hUQ0dEdHRhNEJDbVZ1Z3BXTHk5bUxnOExXZDVuUlh1QnNwd3JZNzBwYzNVLWhoaUNnLVpmeklaU3F6RTRYQ1RacEdwZzUyUkN6OUhZ?oc=5
 
-- US sanctions against entities, individuals linked to India, other nations for ‘supporting’ Iran’s ballistic missile | India News - Hindustan Times
-  US sanctions against entities, individuals linked to India, other nations for ‘supporting
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxOYjctZ1E4RElSVjY2STc0Yk5hYnVfQlNjWU02S3RkOWZCU3hMOTFxdnRlSTViNnBmNHVPaTZ0dXlwQlp0M3pCRmo0RzNnZG5iSjlEamVUaVdqcFNnWXVNX1lYZ3kyNEh3OUhOaExHQzE5YkNNR1M0YW9JWG9TTElGYS14NVpJcGNNX0ltUFBTTGFDVDYwNDJ0VlNRc1VNS0lKOG96TXk1bXZmUmRveDVzYUV4SWVhQW51ZHRJcjZnYXFlTlhzVk9qTHF1NTZpckJBeUdaYjVudW9BQVBBRHMzVTJ2b0hPTURsaWJZNVJ5dkFKT3lxV2ZpLVlLSmlPLVFpZzAwcNIBigJBVV95cUxPc21wYlIySlo0SElqeW0wM2FhMVlTZFMwWThZVXpIbkw0Mmc0WG1iM29aOGJFUVFiVEg2ZnhjSmJycGRUeExSSm12SVdmRnBhdFNOZ0tfbFRUUzJsQ2hPdjNyMDBpZ0NUOUdSNEtGMFVfV0trSU8tZ3FodzJDZExrZ3psVmpETVlCV0xoeUJaZnRaTnN2ZWFIcUttSC1MN0t2WkFCS3VESzBYTl9Sb1pMSHE4a0JCMXd6RFFfVEtzZGV0UTF0MW10UjB5Y1R3azBjbGMtYm1KMmZJd3ROSnNnRzZjUjJvUkhtQmhDRXlONWJtcmVVWWI2alZ5c3R5ckdMWDZXSTlWZzYtUQ?oc=5
+- ‘Don’t need our help': Marco Rubio praises India’s ‘professionalism’ in Delhi blast probe | India News - Hindustan Times
+  Marco Rubio praises India’s ‘professionalism’ in Delhi
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc3pCTW9TTXNnN1NyOEphRFFzTjlIRVNWQ3EzWE5rZ245SktlN3dBank2N1IyTlY0Zkg2X3dvbjhBUXk1cEpZQWNWYTFtVko0UGpxakdnZTRVTzN4UTJpbnE1YU1WdEdlVk83NHFManY3WDMtVEhEV2U5RVVfSUZORndyeW9INWdfMVhjeTBLR2RHS1R1R0h3cEljd1NmYk1sZ2xiMW4zWDk3b3hXakZSRHREVXZhd0dYTC1xWExLNlZJUU9nZlE3YWNtcmk4bTYzTGNIVWxiUU1La2k1TER4bHZjRXNjenRwMjl4U0c4cXlnZjM1d192N21Yc29IRHE4WEgtRFNZR2bSAY4CQVVfeXFMTmZiaE9zVE13RFhmXzNQQkhBYkNTYjBvZ0xha09HWGlCU3EtMmNmYWxzTGlkTkhCOTVPb0dtX2VTUzBmYWNWeGJpTHRmOWtQWXZQRm5zTTgwRTZObnV4aVd1WFcyUC1jQ3lyWF9qN2lQWmlNX3lpaXZ2NjZZOWZ1WlQ3WWZuS0RJa1A2UFhQWGdlc3ZVTEdKdmZKekhlLW92anBiSW5CbHVYUzBLNnJhSjFKZTAzbjJwaGhFdTRFWUhycGs0NnF2bnV1YWxqVXA4cmw0a2o1TjRfT0lpNDFfRTYxSVJXd2NtYjM4S1F3YjhVNWlTeFBJaFNudV9LcFZXYWFQLXhRWnZWOU1xNU5R?oc=5
 
-- School assembly news headlines, November 13: Top India, world, sports, business news - India Today
-  School assembly news headlines, November 13: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYUNKd0ctbVVyMnJONVhRVDFSaEpxZ1JKYU0wUVhjQ2p3ZHNPck1hUjh2M1dZbFRVR3JzQUFVQXlMQ0xtdEJ4azlaM0NVcEJEWTBlWkNaTGV1S3ZONE84STB2RkZPZDFhclQ5OXMxRlNkUW9ZYmZLcHA2MEdaN1hVQ1o2YUZZTUFYbWg3bndzUDk3NHUtQXRyMFJRMi1pREFMdmJIcmlCV0JTTzRtblZZVTRtdWI3TzREeE03ajRBcG8yRW9ob0pqa0c4Q25aSmNudzczaHl6ZW9oX2d6dkdQZ0JSZjdpQQ?oc=5
+- In Bihar's Record Voter Turnout, A Warning From History For NDA - NDTV
+  In Bihar's Record Voter Turnout, A
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOaUVHeEE4Q0ZReVFhT3BidFliODEyRDhzMEFITndXUjl3RGpCMWdGWFJZQk9jamZXcWVaR2xYM3ZQRUlnRUxqNDNHOVFxUk5reWtERmNhenEtZ2pTcU84OFY2bXBMc193d1F0eURlTlRqR1lSczNnQWQ1Ti1JbHd3YkRpZTBjb0FVUTVkeks5SENaRmRmMkVRRm5OUEY2Y2thU2pWLV9QX2NnYnBIWnp5Vl9LcTBSNHlJTzBtbmdmdzdMcFF0S2swRFROTTRvZGduX1NBUVRSTlpJd1hRb0FGQlIwblh2RzhPZURxTEswcW12OVAydlU1dll5S2p6clBpMENJ0gGLAkFVX3lxTFBQbUMzenFVOU1ybzc4OEIzd1dBSjIweGpHMW16WFZnSTg3NnUyUlM4bmFUNWI4Tk51Q21JMDk1UkMtWEJZMWF4cFNoQjZ6dU05UFRPS0VWN1ZjTXRUYWZkNDg0bWVDcDMxdWM2Vjd5VlVpSkJnSVk2SHlZSnhoTnpZeGVoSklYMV9sWDhva0QxYnB5clNEbm8wcjFoUnA2cEdxTXJ4cXZZYk9Ebjd0SmdkSERMOGt1TWE5LWZPakNwZXNWTm5fVXA3SmRrZDRiT3ZMVm9oQmU0Q3czWUthN0xRdVBhaFcxZGtTZjBSbG1LUHBJcUxDNlFpY050NFhzUFFoQm5EcS1vYmxjNA?oc=5
 
-- Google bets on AI to rival Microsoft, Amazon’s cloud dominance in India | Company Business News - livemint.com
-  Google bets on AI to rival Microsoft, Amazon’s cloud dominance
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxONFNGTjloTWU3VlpSZThNcjZCNkd0QXZ4cXFKYk14R04xQzdKQ29fZmJLd0VzTGZPZnh5RGZncUxFcE9JYkszVnJSaGtWUGFCZE84c2JaWm1pRlJsX0xQNU5LUXItNElka2RTeFZaQTVoMHk3WkRNbnEwSDFPb0xMLTI3R3BscGZyWTA2Vk8zdkFwbC04UWhqMHVxdnVTLU9BVVBoWEdCTHlPcUlOblJFS1h0UmNjSVFMQ2QwZkJ4dFEtdFlXNWRSM1dn0gHPAUFVX3lxTE9veVhjQ0lGd044eGlIdXdXbmpNcjZIOVNoblA0Q2RZekJDVXNtRWc1RFBTbGRxdGxQRk9EYl8yQ2daYlMwb0Y4U1NPME9fdVlxcG1tSUwzVkdlajhJZ240OEtNU1BIWHlqYzN3RnJNa0NsVFdacTNCcVJMTGw3SGZvY1l0MVFyOEJycklmZkFjS1ZzZ2pKZVZNd3AzZjRDbC1UVl81OFVZMFVsR3VFZEplaHFmQlU3c3Z4ZWE5MWVKWWVjTWhFVVJDWGNXZC1yOA?oc=5
+- Bihar election result 2025: When will counting of votes take place? | India News - Hindustan Times
+  Bihar election result 2025: When will counting of votes take place
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVtamFNWGZOc3ZtQkFnbnBLYzR1aG54OVJud3RRTUo3SmpNQzJZbjZDSGR6RlMwcTdDYnhVemk1RV9aUW96cWtpcklGczV5bzJoeWpGbEhDZ0RHZkVwSkxVOVFWa21tSDliakQ1XzRtYkt4MENtcDZOOU96S0FkcEhGUG9vWXJaMGhIMWhCTDdnVU02MTE2UUFoZ2x6OU96NkQyTm9VekxZUDZtaHBxSjlBZmxoUndsNkd1QUdNZkh0QTFGOGxr0gHMAUFVX3lxTE52NWFNamw1a2RjYTBESGRoSVpiSVpFV0RJTGowdWVNY2d4UVVNeVpFaDFrblpzdDVab2puTFd6bGZ3ZnpvUW5rYkZKSVhSakF3VVpldDNYcVhRMzQyWllsbC1ObUZpUDZpVkxOZGRXV0FBV3ltZUxPeS1JZl9ldlF2aUdIWS0zaGlCNW0zVkZYRDNMOS15TW0wRjlGa1dZdXhSSERCazlJYlprbS1qTWEyQmlZN0NFai1tajA5WHFJUkp0amY3MlBNUkFwYw?oc=5
 
-- CJI Gavai on '79 rape ruling: 'Moment of institutional embarrassment' - The Times of India
-  CJI Gavai on '79 rape ruling
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQck9jcjRQZEg2c1FNVkkzb2duNXMwc1dLOU5rU2hWMkVxTkVyR0M5UkZTSDdhd2tuSnU3TUtmMXFIWlZrVzNxMldWaEwzVTR3TldDbHpEbllyWDdnT1NuNGlmV1o0T0lsb29lOEFPdWRteWpFeFhIU3E3Ry02dzc0b1lVTE5HaGJ4MHFfamJVSU1hVVdlVWZTUy1adjRNUTFGcmdkeFkwbWwtYmlNX0hkUGlGNTl6UnJFM2plWUZRWU5MWkVndkHSAcsBQVVfeXFMTUJ1UGU5SFpIc05SNUJ6TTk2Sk41MzRocXRzNXRGTkV6TnVaRTdyUW1fdXI2UjVxa2xCVWlEclpOeW1wUzZDQzRxbzNONVp3endpR1VzQ08wWlVuVWV1VE9ZR3dNYkoweXBwVUMyNmxXOUYtMzV0QkFPcHRXMDBkbHV3SGN6UUxGRlBreTNLS0VyM2Z4eFdLS0M2VnBKb3pGMDNmdkhTNHVUa1NhN2FiQzY3MHpIeHRzX1dTUktCdTRSNE1jNWh6cjcwTmc?oc=5
+- Bihar elections: 'Tiger abhi zinda hai' poster featuring Nitish surfaces; results to be out tomorrow - The Times of India
+  Bihar elections: 'Tiger abhi zinda hai' poster featuring
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV29COFRLXzV4aDZSSTRUdjRhNUl6ZkhmYU1kdWp6WG0tNU1WTHpTQmVGZzIzc3pMMl84bWxxMGhGVDVIYkFmN0RUc3ZGM3FxU1c0Uklpc1pTX0hxeE9IVHBydU1QZllCMW5nMlBWTHN0MjZtMGVkX0dCdHhyc3ZQZ2Uxa1lVS1N3Q2R2X0xpenR0cEJlYnhGYXE5T0N5NGlDc3ZNZHI2NUhmTm5Vbm1GUXllNExiQV8wVWdHQWZuTHB3LUFuaWtoTmNYVF9Lc0h0T3BuLV9KU19udnFRNGhIMGVfRzlOcmJ0TFo1TjhsQkVYOVN3VW130gH8AUFVX3lxTE9xelZDMlJZaEZYTFdUdlNjZmZMWVhNbDViNHl4MXU2X1dJUXZKMkFjS2E4V1pNQWwzU0Q1WVNJc2J3TWZFYll4aV9xRk5oWVBkTEItM1ZWQUJEakY4TExLeWFZVmxvQWc4dTN0aHFjWVU1RXJ2MGlEZzg2Ujh1WXM4Ym5LaXBXSnl3OXp4Y0tiNTNaWS1EZGpoZ1E5MC1McE1hT2JwWmduZTJIc3c0b0pnTXY2NG52RkNSbzIzZzhIQVhjaTd0S1NGaFdBeHlKeWY4OHhQbTlqZTY2em5CVnkxNUxEbzYzUEZNRkg5Y0gxaUhVbGMxNmxuWTlyVw?oc=5
 
-- India says deadly car blast was ‘terror’ attack by ‘antinational forces’ - Al Jazeera
-  India says deadly car blast was ‘terror�
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWFHM0JFcGhEekp4dTJ2VTZxRVNoVWtKR3JnZVFyNi10bGEtOUc5WjMtUWpPRUJacDZNdUI5eUd6bTI5MWRtdVNZSkhlb0kyS1JBbk5JbDdiVUVzOFFjc25VQU9vT1B6b25jQjl2bWF0bVlwMzNRUVVEOEJyWFFVcXozNTVpdEtoYS1zR2FYaV9jVE05QlhsNHFuYzA0N1kzMDUySEtIWWsxa29qY05YQtIBtgFBVV95cUxQY1NDRndWd2JGcWtGVlN1RUd5MnFGQ2xiLVNIMTM1NkUwUEJUTlplQWVXNnI3VWMxWmRFSVM2eW42VTZVR1ZGZTgxS1FMaHA4azFScVBRWXd2bTFhMGZseFRHUVpVNWlRYTF3M2I0ME5PSkFPczRyMEdvSzE5enVxWVFpank2azF0YWVUOVQtT0VfZ0VVR0xFSXc2TW9hZzlpUEFZMElEUkNnUXdTMkVWb3UySTZ4UQ?oc=5
+- Delhi explosion: Red Fort blast was terror incident, Indian government says - BBC
+  The Red Fort blast was a terror incident
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yMG42UzZHWGh4VUNUQ0JjeGNaNlMxWml2c2VWOXpOOGNEUE1pcnZBQkl4bUVWeEJ1cEtsMWV6cVgyMlZRNDNlWnF4dzZUTXJ5S205Tk5HVngzQdIBX0FVX3lxTFB5UHF0UW9MMnU0M2hUQ0dEdHRhNEJDbVZ1Z3BXTHk5bUxnOExXZDVuUlh1QnNwd3JZNzBwYzNVLWhoaUNnLVpmeklaU3F6RTRYQ1RacEdwZzUyUkN6OUhZ?oc=5
 
-- US sanctions against entities, individuals linked to India, other nations for ‘supporting’ Iran’s ballistic missile | India News - Hindustan Times
-  US sanctions against entities, individuals linked to India, other nations for ‘supporting
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxOYjctZ1E4RElSVjY2STc0Yk5hYnVfQlNjWU02S3RkOWZCU3hMOTFxdnRlSTViNnBmNHVPaTZ0dXlwQlp0M3pCRmo0RzNnZG5iSjlEamVUaVdqcFNnWXVNX1lYZ3kyNEh3OUhOaExHQzE5YkNNR1M0YW9JWG9TTElGYS14NVpJcGNNX0ltUFBTTGFDVDYwNDJ0VlNRc1VNS0lKOG96TXk1bXZmUmRveDVzYUV4SWVhQW51ZHRJcjZnYXFlTlhzVk9qTHF1NTZpckJBeUdaYjVudW9BQVBBRHMzVTJ2b0hPTURsaWJZNVJ5dkFKT3lxV2ZpLVlLSmlPLVFpZzAwcNIBigJBVV95cUxPc21wYlIySlo0SElqeW0wM2FhMVlTZFMwWThZVXpIbkw0Mmc0WG1iM29aOGJFUVFiVEg2ZnhjSmJycGRUeExSSm12SVdmRnBhdFNOZ0tfbFRUUzJsQ2hPdjNyMDBpZ0NUOUdSNEtGMFVfV0trSU8tZ3FodzJDZExrZ3psVmpETVlCV0xoeUJaZnRaTnN2ZWFIcUttSC1MN0t2WkFCS3VESzBYTl9Sb1pMSHE4a0JCMXd6RFFfVEtzZGV0UTF0MW10UjB5Y1R3azBjbGMtYm1KMmZJd3ROSnNnRzZjUjJvUkhtQmhDRXlONWJtcmVVWWI2alZ5c3R5ckdMWDZXSTlWZzYtUQ?oc=5
+- ‘Don’t need our help': Marco Rubio praises India’s ‘professionalism’ in Delhi blast probe | India News - Hindustan Times
+  Marco Rubio praises India’s ‘professionalism’ in Delhi
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc3pCTW9TTXNnN1NyOEphRFFzTjlIRVNWQ3EzWE5rZ245SktlN3dBank2N1IyTlY0Zkg2X3dvbjhBUXk1cEpZQWNWYTFtVko0UGpxakdnZTRVTzN4UTJpbnE1YU1WdEdlVk83NHFManY3WDMtVEhEV2U5RVVfSUZORndyeW9INWdfMVhjeTBLR2RHS1R1R0h3cEljd1NmYk1sZ2xiMW4zWDk3b3hXakZSRHREVXZhd0dYTC1xWExLNlZJUU9nZlE3YWNtcmk4bTYzTGNIVWxiUU1La2k1TER4bHZjRXNjenRwMjl4U0c4cXlnZjM1d192N21Yc29IRHE4WEgtRFNZR2bSAY4CQVVfeXFMTmZiaE9zVE13RFhmXzNQQkhBYkNTYjBvZ0xha09HWGlCU3EtMmNmYWxzTGlkTkhCOTVPb0dtX2VTUzBmYWNWeGJpTHRmOWtQWXZQRm5zTTgwRTZObnV4aVd1WFcyUC1jQ3lyWF9qN2lQWmlNX3lpaXZ2NjZZOWZ1WlQ3WWZuS0RJa1A2UFhQWGdlc3ZVTEdKdmZKekhlLW92anBiSW5CbHVYUzBLNnJhSjFKZTAzbjJwaGhFdTRFWUhycGs0NnF2bnV1YWxqVXA4cmw0a2o1TjRfT0lpNDFfRTYxSVJXd2NtYjM4S1F3YjhVNWlTeFBJaFNudV9LcFZXYWFQLXhRWnZWOU1xNU5R?oc=5
 
-- School assembly news headlines, November 13: Top India, world, sports, business news - India Today
-  School assembly news headlines, November 13: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYUNKd0ctbVVyMnJONVhRVDFSaEpxZ1JKYU0wUVhjQ2p3ZHNPck1hUjh2M1dZbFRVR3JzQUFVQXlMQ0xtdEJ4azlaM0NVcEJEWTBlWkNaTGV1S3ZONE84STB2RkZPZDFhclQ5OXMxRlNkUW9ZYmZLcHA2MEdaN1hVQ1o2YUZZTUFYbWg3bndzUDk3NHUtQXRyMFJRMi1pREFMdmJIcmlCV0JTTzRtblZZVTRtdWI3TzREeE03ajRBcG8yRW9ob0pqa0c4Q25aSmNudzczaHl6ZW9oX2d6dkdQZ0JSZjdpQQ?oc=5
+- In Bihar's Record Voter Turnout, A Warning From History For NDA - NDTV
+  In Bihar's Record Voter Turnout, A
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOaUVHeEE4Q0ZReVFhT3BidFliODEyRDhzMEFITndXUjl3RGpCMWdGWFJZQk9jamZXcWVaR2xYM3ZQRUlnRUxqNDNHOVFxUk5reWtERmNhenEtZ2pTcU84OFY2bXBMc193d1F0eURlTlRqR1lSczNnQWQ1Ti1JbHd3YkRpZTBjb0FVUTVkeks5SENaRmRmMkVRRm5OUEY2Y2thU2pWLV9QX2NnYnBIWnp5Vl9LcTBSNHlJTzBtbmdmdzdMcFF0S2swRFROTTRvZGduX1NBUVRSTlpJd1hRb0FGQlIwblh2RzhPZURxTEswcW12OVAydlU1dll5S2p6clBpMENJ0gGLAkFVX3lxTFBQbUMzenFVOU1ybzc4OEIzd1dBSjIweGpHMW16WFZnSTg3NnUyUlM4bmFUNWI4Tk51Q21JMDk1UkMtWEJZMWF4cFNoQjZ6dU05UFRPS0VWN1ZjTXRUYWZkNDg0bWVDcDMxdWM2Vjd5VlVpSkJnSVk2SHlZSnhoTnpZeGVoSklYMV9sWDhva0QxYnB5clNEbm8wcjFoUnA2cEdxTXJ4cXZZYk9Ebjd0SmdkSERMOGt1TWE5LWZPakNwZXNWTm5fVXA3SmRrZDRiT3ZMVm9oQmU0Q3czWUthN0xRdVBhaFcxZGtTZjBSbG1LUHBJcUxDNlFpY050NFhzUFFoQm5EcS1vYmxjNA?oc=5
 
-- Google bets on AI to rival Microsoft, Amazon’s cloud dominance in India | Company Business News - livemint.com
-  Google bets on AI to rival Microsoft, Amazon’s cloud dominance
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxONFNGTjloTWU3VlpSZThNcjZCNkd0QXZ4cXFKYk14R04xQzdKQ29fZmJLd0VzTGZPZnh5RGZncUxFcE9JYkszVnJSaGtWUGFCZE84c2JaWm1pRlJsX0xQNU5LUXItNElka2RTeFZaQTVoMHk3WkRNbnEwSDFPb0xMLTI3R3BscGZyWTA2Vk8zdkFwbC04UWhqMHVxdnVTLU9BVVBoWEdCTHlPcUlOblJFS1h0UmNjSVFMQ2QwZkJ4dFEtdFlXNWRSM1dn0gHPAUFVX3lxTE9veVhjQ0lGd044eGlIdXdXbmpNcjZIOVNoblA0Q2RZekJDVXNtRWc1RFBTbGRxdGxQRk9EYl8yQ2daYlMwb0Y4U1NPME9fdVlxcG1tSUwzVkdlajhJZ240OEtNU1BIWHlqYzN3RnJNa0NsVFdacTNCcVJMTGw3SGZvY1l0MVFyOEJycklmZkFjS1ZzZ2pKZVZNd3AzZjRDbC1UVl81OFVZMFVsR3VFZEplaHFmQlU3c3Z4ZWE5MWVKWWVjTWhFVVJDWGNXZC1yOA?oc=5
+- Bihar election result 2025: When will counting of votes take place? | India News - Hindustan Times
+  Bihar election result 2025: When will counting of votes take place
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVtamFNWGZOc3ZtQkFnbnBLYzR1aG54OVJud3RRTUo3SmpNQzJZbjZDSGR6RlMwcTdDYnhVemk1RV9aUW96cWtpcklGczV5bzJoeWpGbEhDZ0RHZkVwSkxVOVFWa21tSDliakQ1XzRtYkt4MENtcDZOOU96S0FkcEhGUG9vWXJaMGhIMWhCTDdnVU02MTE2UUFoZ2x6OU96NkQyTm9VekxZUDZtaHBxSjlBZmxoUndsNkd1QUdNZkh0QTFGOGxr0gHMAUFVX3lxTE52NWFNamw1a2RjYTBESGRoSVpiSVpFV0RJTGowdWVNY2d4UVVNeVpFaDFrblpzdDVab2puTFd6bGZ3ZnpvUW5rYkZKSVhSakF3VVpldDNYcVhRMzQyWllsbC1ObUZpUDZpVkxOZGRXV0FBV3ltZUxPeS1JZl9ldlF2aUdIWS0zaGlCNW0zVkZYRDNMOS15TW0wRjlGa1dZdXhSSERCazlJYlprbS1qTWEyQmlZN0NFai1tajA5WHFJUkp0amY3MlBNUkFwYw?oc=5
 
-- CJI Gavai on '79 rape ruling: 'Moment of institutional embarrassment' - The Times of India
-  CJI Gavai on '79 rape ruling
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQck9jcjRQZEg2c1FNVkkzb2duNXMwc1dLOU5rU2hWMkVxTkVyR0M5UkZTSDdhd2tuSnU3TUtmMXFIWlZrVzNxMldWaEwzVTR3TldDbHpEbllyWDdnT1NuNGlmV1o0T0lsb29lOEFPdWRteWpFeFhIU3E3Ry02dzc0b1lVTE5HaGJ4MHFfamJVSU1hVVdlVWZTUy1adjRNUTFGcmdkeFkwbWwtYmlNX0hkUGlGNTl6UnJFM2plWUZRWU5MWkVndkHSAcsBQVVfeXFMTUJ1UGU5SFpIc05SNUJ6TTk2Sk41MzRocXRzNXRGTkV6TnVaRTdyUW1fdXI2UjVxa2xCVWlEclpOeW1wUzZDQzRxbzNONVp3endpR1VzQ08wWlVuVWV1VE9ZR3dNYkoweXBwVUMyNmxXOUYtMzV0QkFPcHRXMDBkbHV3SGN6UUxGRlBreTNLS0VyM2Z4eFdLS0M2VnBKb3pGMDNmdkhTNHVUa1NhN2FiQzY3MHpIeHRzX1dTUktCdTRSNE1jNWh6cjcwTmc?oc=5
+- Bihar elections: 'Tiger abhi zinda hai' poster featuring Nitish surfaces; results to be out tomorrow - The Times of India
+  Bihar elections: 'Tiger abhi zinda hai' poster featuring
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV29COFRLXzV4aDZSSTRUdjRhNUl6ZkhmYU1kdWp6WG0tNU1WTHpTQmVGZzIzc3pMMl84bWxxMGhGVDVIYkFmN0RUc3ZGM3FxU1c0Uklpc1pTX0hxeE9IVHBydU1QZllCMW5nMlBWTHN0MjZtMGVkX0dCdHhyc3ZQZ2Uxa1lVS1N3Q2R2X0xpenR0cEJlYnhGYXE5T0N5NGlDc3ZNZHI2NUhmTm5Vbm1GUXllNExiQV8wVWdHQWZuTHB3LUFuaWtoTmNYVF9Lc0h0T3BuLV9KU19udnFRNGhIMGVfRzlOcmJ0TFo1TjhsQkVYOVN3VW130gH8AUFVX3lxTE9xelZDMlJZaEZYTFdUdlNjZmZMWVhNbDViNHl4MXU2X1dJUXZKMkFjS2E4V1pNQWwzU0Q1WVNJc2J3TWZFYll4aV9xRk5oWVBkTEItM1ZWQUJEakY4TExLeWFZVmxvQWc4dTN0aHFjWVU1RXJ2MGlEZzg2Ujh1WXM4Ym5LaXBXSnl3OXp4Y0tiNTNaWS1EZGpoZ1E5MC1McE1hT2JwWmduZTJIc3c0b0pnTXY2NG52RkNSbzIzZzhIQVhjaTd0S1NGaFdBeHlKeWY4OHhQbTlqZTY2em5CVnkxNUxEbzYzUEZNRkg5Y0gxaUhVbGMxNmxuWTlyVw?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Delhi explosion: Red Fort blast was terror incident, Indian government says - BBC
+  The Red Fort blast was a terror incident
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yMG42UzZHWGh4VUNUQ0JjeGNaNlMxWml2c2VWOXpOOGNEUE1pcnZBQkl4bUVWeEJ1cEtsMWV6cVgyMlZRNDNlWnF4dzZUTXJ5S205Tk5HVngzQdIBX0FVX3lxTFB5UHF0UW9MMnU0M2hUQ0dEdHRhNEJDbVZ1Z3BXTHk5bUxnOExXZDVuUlh1QnNwd3JZNzBwYzNVLWhoaUNnLVpmeklaU3F6RTRYQ1RacEdwZzUyUkN6OUhZ?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- ‘Don’t need our help': Marco Rubio praises India’s ‘professionalism’ in Delhi blast probe | India News - Hindustan Times
+  Marco Rubio praises India’s ‘professionalism’ in Delhi
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc3pCTW9TTXNnN1NyOEphRFFzTjlIRVNWQ3EzWE5rZ245SktlN3dBank2N1IyTlY0Zkg2X3dvbjhBUXk1cEpZQWNWYTFtVko0UGpxakdnZTRVTzN4UTJpbnE1YU1WdEdlVk83NHFManY3WDMtVEhEV2U5RVVfSUZORndyeW9INWdfMVhjeTBLR2RHS1R1R0h3cEljd1NmYk1sZ2xiMW4zWDk3b3hXakZSRHREVXZhd0dYTC1xWExLNlZJUU9nZlE3YWNtcmk4bTYzTGNIVWxiUU1La2k1TER4bHZjRXNjenRwMjl4U0c4cXlnZjM1d192N21Yc29IRHE4WEgtRFNZR2bSAY4CQVVfeXFMTmZiaE9zVE13RFhmXzNQQkhBYkNTYjBvZ0xha09HWGlCU3EtMmNmYWxzTGlkTkhCOTVPb0dtX2VTUzBmYWNWeGJpTHRmOWtQWXZQRm5zTTgwRTZObnV4aVd1WFcyUC1jQ3lyWF9qN2lQWmlNX3lpaXZ2NjZZOWZ1WlQ3WWZuS0RJa1A2UFhQWGdlc3ZVTEdKdmZKekhlLW92anBiSW5CbHVYUzBLNnJhSjFKZTAzbjJwaGhFdTRFWUhycGs0NnF2bnV1YWxqVXA4cmw0a2o1TjRfT0lpNDFfRTYxSVJXd2NtYjM4S1F3YjhVNWlTeFBJaFNudV9LcFZXYWFQLXhRWnZWOU1xNU5R?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- In Bihar's Record Voter Turnout, A Warning From History For NDA - NDTV
+  In Bihar's Record Voter Turnout, A
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOaUVHeEE4Q0ZReVFhT3BidFliODEyRDhzMEFITndXUjl3RGpCMWdGWFJZQk9jamZXcWVaR2xYM3ZQRUlnRUxqNDNHOVFxUk5reWtERmNhenEtZ2pTcU84OFY2bXBMc193d1F0eURlTlRqR1lSczNnQWQ1Ti1JbHd3YkRpZTBjb0FVUTVkeks5SENaRmRmMkVRRm5OUEY2Y2thU2pWLV9QX2NnYnBIWnp5Vl9LcTBSNHlJTzBtbmdmdzdMcFF0S2swRFROTTRvZGduX1NBUVRSTlpJd1hRb0FGQlIwblh2RzhPZURxTEswcW12OVAydlU1dll5S2p6clBpMENJ0gGLAkFVX3lxTFBQbUMzenFVOU1ybzc4OEIzd1dBSjIweGpHMW16WFZnSTg3NnUyUlM4bmFUNWI4Tk51Q21JMDk1UkMtWEJZMWF4cFNoQjZ6dU05UFRPS0VWN1ZjTXRUYWZkNDg0bWVDcDMxdWM2Vjd5VlVpSkJnSVk2SHlZSnhoTnpZeGVoSklYMV9sWDhva0QxYnB5clNEbm8wcjFoUnA2cEdxTXJ4cXZZYk9Ebjd0SmdkSERMOGt1TWE5LWZPakNwZXNWTm5fVXA3SmRrZDRiT3ZMVm9oQmU0Q3czWUthN0xRdVBhaFcxZGtTZjBSbG1LUHBJcUxDNlFpY050NFhzUFFoQm5EcS1vYmxjNA?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Bihar election result 2025: When will counting of votes take place? | India News - Hindustan Times
+  Bihar election result 2025: When will counting of votes take place
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVtamFNWGZOc3ZtQkFnbnBLYzR1aG54OVJud3RRTUo3SmpNQzJZbjZDSGR6RlMwcTdDYnhVemk1RV9aUW96cWtpcklGczV5bzJoeWpGbEhDZ0RHZkVwSkxVOVFWa21tSDliakQ1XzRtYkt4MENtcDZOOU96S0FkcEhGUG9vWXJaMGhIMWhCTDdnVU02MTE2UUFoZ2x6OU96NkQyTm9VekxZUDZtaHBxSjlBZmxoUndsNkd1QUdNZkh0QTFGOGxr0gHMAUFVX3lxTE52NWFNamw1a2RjYTBESGRoSVpiSVpFV0RJTGowdWVNY2d4UVVNeVpFaDFrblpzdDVab2puTFd6bGZ3ZnpvUW5rYkZKSVhSakF3VVpldDNYcVhRMzQyWllsbC1ObUZpUDZpVkxOZGRXV0FBV3ltZUxPeS1JZl9ldlF2aUdIWS0zaGlCNW0zVkZYRDNMOS15TW0wRjlGa1dZdXhSSERCazlJYlprbS1qTWEyQmlZN0NFai1tajA5WHFJUkp0amY3MlBNUkFwYw?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Bihar elections: 'Tiger abhi zinda hai' poster featuring Nitish surfaces; results to be out tomorrow - The Times of India
+  Bihar elections: 'Tiger abhi zinda hai' poster featuring
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV29COFRLXzV4aDZSSTRUdjRhNUl6ZkhmYU1kdWp6WG0tNU1WTHpTQmVGZzIzc3pMMl84bWxxMGhGVDVIYkFmN0RUc3ZGM3FxU1c0Uklpc1pTX0hxeE9IVHBydU1QZllCMW5nMlBWTHN0MjZtMGVkX0dCdHhyc3ZQZ2Uxa1lVS1N3Q2R2X0xpenR0cEJlYnhGYXE5T0N5NGlDc3ZNZHI2NUhmTm5Vbm1GUXllNExiQV8wVWdHQWZuTHB3LUFuaWtoTmNYVF9Lc0h0T3BuLV9KU19udnFRNGhIMGVfRzlOcmJ0TFo1TjhsQkVYOVN3VW130gH8AUFVX3lxTE9xelZDMlJZaEZYTFdUdlNjZmZMWVhNbDViNHl4MXU2X1dJUXZKMkFjS2E4V1pNQWwzU0Q1WVNJc2J3TWZFYll4aV9xRk5oWVBkTEItM1ZWQUJEakY4TExLeWFZVmxvQWc4dTN0aHFjWVU1RXJ2MGlEZzg2Ujh1WXM4Ym5LaXBXSnl3OXp4Y0tiNTNaWS1EZGpoZ1E5MC1McE1hT2JwWmduZTJIc3c0b0pnTXY2NG52RkNSbzIzZzhIQVhjaTd0S1NGaFdBeHlKeWY4OHhQbTlqZTY2em5CVnkxNUxEbzYzUEZNRkg5Y0gxaUhVbGMxNmxuWTlyVw?oc=5
 
 
-_Last updated: 2025-11-13 01:16:23 UTC_
+_Last updated: 2025-11-13 06:28:49 UTC_
