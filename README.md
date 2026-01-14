@@ -1,224 +1,232 @@
 # 📰 Daily News Summaries
 
-- Mehul Choksi’s appeal against extradition rejected by Belgium’s supreme court
+- Cut-off reduced for PG medical seats as 18,000 remain vacant after 2nd counselling
   
-  🔗 https://indianexpress.com/article/india/mehul-choksi-appeal-against-extradition-rejected-belgium-supreme-court-10411727/
+  🔗 https://indianexpress.com/article/india/cut-off-reduced-pg-medical-seats-18000-vacant-2nd-counselling-10473959/
 
-- 4 Khajuraho hotel employees dead, 5 critical after meal at staff quarters; probe ordered
+- In Telangana, mass killing of stray dogs, police action put entire villages on edge
   
-  🔗 https://indianexpress.com/article/india/4-khajuraho-hotel-employees-dead-5-critical-after-meal-staff-quarters-10411765/
+  🔗 https://indianexpress.com/article/india/telangana-mass-killing-stray-dogs-police-action-villages-on-edge-10473944/
 
-- ‘Made Rs 20,000 a month, it was good money’: Among Goa fire dead, 5 from Uttarakhand
+- BJP slams Rahul over ‘suppression of Tamil’ remark; says Modi has given highest honour to the language, culture
   
-  🔗 https://indianexpress.com/article/india/made-rs-20000-month-good-money-goa-fire-dead-uttarakhand-10411700/
+  🔗 https://indianexpress.com/article/india/bjp-slams-rahul-gandhi-suppression-of-tamil-modi-language-culture-10473918/
 
-- FY26 end nears, Housing Ministry spends only 27% of budget for urban development schemes
+- ‘Well-planned conspiracy’: In Barmer, Congress protests against proposed redrawing of district boundaries
   
-  🔗 https://indianexpress.com/article/india/fy26-end-nears-housing-ministry-spends-27-budget-urban-development-schemes-10411669/
+  🔗 https://indianexpress.com/article/india/barmer-congress-protests-proposed-redrawing-district-boundaries-10473910/
 
-- SIR aims to delete voters… trust in EC lost, doubts about EVMs: Opposition
+- ‘Stay in the kitchen’: Dayanidhi Maran’s sharp ‘contrast’ between Tamil Nadu and north India sparks fresh political row
   
-  🔗 https://indianexpress.com/article/india/sir-ec-evm-opposition-10411631/
+  🔗 https://indianexpress.com/article/india/dmk-dayanidhi-maran-tamil-nadu-north-india-girls-study-kitche-bear-children-10473544/
 
-- Scientists link hobbits’ extinction to severe rainfall decline on Indonesian island of Flores
+- YouTube gives parents new controls over kids’ and teens’ viewing habits
   
-  🔗 https://indianexpress.com/article/technology/science/scientists-link-hobbits-extinction-to-severe-rainfall-decline-10411684/
+  🔗 https://indianexpress.com/article/technology/youtube-shorts-time-limit-teen-accounts-10473721/
 
-- Study changes picture of evolution, says humans lived in southern Africa for 100,000 years in genetic isolation
+- Could sound therapy become a future Alzheimer’s treatment?
   
-  🔗 https://indianexpress.com/article/technology/science/humans-lived-in-southern-africa-for-100000-years-in-genetic-isolation-10411477/
+  🔗 https://indianexpress.com/article/technology/science/could-sound-therapy-become-a-future-alzheimers-treatment-10473567/
 
-- Microsoft pledges $17.5 billion to expand AI and cloud capacity in India
+- Roblox rolls out age verification in India, makes it mandatory for chat
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-17-billion-expand-ai-cloud-capacity-in-india-10411523/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/roblox-age-verification-check-chat-rollout-india-10473087/
 
-- Could one gene be responsible for mental illness? New study says yes
+- Apple Creator Studio to be launched in India this month-end, price starts at Rs 399
   
-  🔗 https://indianexpress.com/article/technology/science/mental-illness-grin2a-gene-mutation-null-missense-10411077/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-creator-studio-to-be-launched-in-india-this-month-end-price-starts-at-rs-399-10473118/
 
-- Google upgrades Chrome security to mitigate risks posed by AI browser agents
+- Google Veo 3.1 gets vertical video, improved ‘Ingredients to Video’ and 4K output
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-chrome-security-risks-ai-browser-agents-10411384/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-veo-31-ai-video-generator-new-features-10472800/
 
-- BlackRock unit to invest up to  ₹3,000 crore in Grasim’s renewable energy platform
-  BlackRock-owned Global Infrastructure Partners is set to invest up to  ₹3,000 crore in Ad
-  🔗 https://www.livemint.com/companies/news/blackrock-unit-to-invest-up-to-3-000-crore-in-grasim-s-renewable-energy-platform-11765299102534.html
+- Infosys beats revenue estimates in Q3, sees demand recovery gathering pace
+  Infosys Ltd exceeded revenue expectations for the December quarter, reporting $5.1
+  🔗 https://www.livemint.com/companies/infosys-beats-revenue-estimates-q3-sees-demand-recovery-gathering-pace-tcs-hcl-11768394990415.html
 
-- Microsoft, Cognizant and Intel Chiefs meet PM Modi in efforts to boost AI adoption in India — Here's what we know
-  Microsoft committed $17.5 billion to develop the infrastructure, skills, and sovereign capabilities in India. Microsoft, Cognizant, and Intel Corporation CEO had individual meetings with Indian PM Narendra
-  🔗 https://www.livemint.com/companies/news/microsoft-cognizant-and-intel-chiefs-meet-pm-modi-in-efforts-to-boost-ai-adoption-in-india-heres-what-we-know-11765297978136.html
+- Air India partners with Saudia for codeshare agreement, effective February – what should passengers expect?
+  Air India and Saudia have signed a codeshare agreement to enhance travel benefits for
+  🔗 https://www.livemint.com/companies/news/air-india-partners-with-saudia-for-codeshare-agreement-effective-february-what-should-passengers-expect-11768401496052.html
 
-- IndiGo chaos: How many flights cancelled, what's the status of pending luggage and which airports affected? Full details
-  IndiGo's operations face an eighth consecutive day of disruptions due to a government mandate aimed at reducing pilot fatigue. The mandate was later withdrawn.
-  🔗 https://www.livemint.com/companies/news/indigo-chaos-how-many-flights-cancelled-whats-the-status-of-pending-luggage-which-airports-affected-full-details-11765284317103.html
+- State Street to buy 23% stake in Groww Mutual Fund for  ₹580 crore
+  The deal will dilute Billionbrains's stake by up to 23%. State Street’s voting power will be capped at 4.99%.
+  🔗 https://www.livemint.com/companies/news/state-street-groww-mutual-fund-investment-india-asset-management-market-expansion-11768395943099.html
 
-- IndiGo fiasco: ICSI flags governance lapses; CEO says airline 'back on its feet'
-  The institute advocated for robust governance frameworks that emphasize proactive risk identification, timely corrective action
-  🔗 https://www.livemint.com/companies/news/indigo-fiasco-icsi-flags-governance-lapses-ceo-says-airline-back-on-its-feet-11765285478999.html
+- Japan's SMBC gets RBI nod to open India subsidiary after Yes Bank stake deal
+  Sumitomo Mistsui Banking Corp gets approval of the Indian central bank to open a wholly-owned subsidiary in India. This comes after SMBC's Yes Bank stake deal last year and
+  🔗 https://www.livemint.com/companies/news/japans-smbc-gets-rbi-nod-to-open-india-subsidiary-after-firms-yes-bank-stake-deal-11768383887615.html
 
-- Who is Milan Nedeljkovic? BMW appoints new CEO amid EV bets to take on Tesla, Chinese automakers
-  Milan Nedeljkovic has been appointed as the Chairman and CEO of the company. The appointment comes amid the EV bets to take on rivals like Tesla and other Chinese companies.
-  🔗 https://www.livemint.com/companies/people/who-is-milan-nedeljkovic-bmw-appoints-new-ceo-amid-ev-bets-to-take-on-tesla-chinese-automakers-11765285459001.html
+- Mercedes-Benz will stick to top-end luxury cars even as BMW closes in
+  Mercedes sales in India declined 3% to 19,007 in 2025. BMW closed the gap with 14% growth to 18,001 units.
+  🔗 https://www.livemint.com/companies/mercedes-benz-to-stick-to-its-luxury-strategy-even-as-bmw-piles-on-pressure-11768385766110.html
 
-- FMCG stock GRM Overseas declares bonus shares move, increase in authorised capital — Details here
-  Small-cap FMCG stock GRM Overseas on 9 December 2025, disclosed that the board of directors has approved a bonus issue of shares and increased the authorised share capital.
-  🔗 https://www.livemint.com/market/stock-market-news/fmcg-stock-grm-overseas-declares-bonus-shares-move-increase-in-authorised-capital-details-here-11765301758307.html
+- Silver rate today climbs to new peak as US Supreme Court extends Trump's tariff decision. Will silver touch $100/oz?
+  Silver prices at COMEX climbed to hit a fresh all-time high during Wednesday's commodity market session. US Supreme Court decided to extend the decision on US President Donald
+  🔗 https://www.livemint.com/market/commodities/silver-rate-today-climbs-to-new-peak-as-us-supreme-court-extends-trumps-tariff-decision-will-silver-touch-100oz-11768407210288.html
 
-- Crypto firm Twenty One stock plunges 24% post Cantor Equity merger —why the share price is falling
-  Shares of Twenty One Capital dropped 24% in its trading debut after merging with Cantor Equity Partners. The combined company is now publicly listed as 'XXI' on NYSE
-  🔗 https://www.livemint.com/market/cryptocurrency/crypto-firm-twenty-one-stock-plunges-24-post-cantor-equity-merger-why-the-share-price-is-falling-11765299108827.html
+- Gold rates today: MCX gold rises  ₹1,350 per 10g, silver surges  ₹16,220 per kg on geopolitical tensions
+  Gold and silver prices reached record highs amid strong investor demand due to Middle East tensions. February gold futures rose to  ₹1,43,
+  🔗 https://www.livemint.com/market/commodities/gold-rates-today-mcx-gold-rises-rs-1-350-per-10g-silver-surges-rs-16-220-per-kg-on-geopolitical-tensions-11768396570184.html
 
-- US Fed meeting: Date, time, when and where to watch Jerome Powell’s December speech
-  Investors around the world now await Jerome Powell-led US Fed's FOMC policy meeting outcome. Check the date, time, when and where to watch, and all you
-  🔗 https://www.livemint.com/market/stock-market-news/us-fed-meeting-date-time-when-and-where-to-watch-jerome-powell-s-december-speech-11765282050359.html
+- Wall Street declines as investors digest bank earnings
+  The S&amp;amp;P 500 fell 0.7%, the Dow Jones Industrial Average was down
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-declines-as-investors-digest-bank-earnings-11768401069083.html
 
-- Sebi settles fraudulent-trading case against former TV anchor for  ₹1.45 crore
-  The settlement comes after a Sebi investigation found a high correlation between Hemant Ghai’s recommendations on the CNBC Awaz show ‘Stock 20
-  🔗 https://www.livemint.com/market/stock-market-news/hemant-ghai-sebi-settlement-hemant-ghai-case-11765285874916.html
+- Infosys ADR stock jumps over 10% on Wall Street after IT major revises revenue guidance for FY2026 — Details here
+  Infosys' ADR stock price jumped more than 10% after the US stock market opened on Wednesday, 14 January 2026. The IT services major revised its revenue guidance for the fiscal year to the range of 3-
+  🔗 https://www.livemint.com/market/stock-market-news/infosys-adr-stock-jumps-over-5-on-wall-street-after-it-major-revises-revenue-guidance-for-fy2026-details-here-11768400617062.html
 
-- US Stock Market Today: S&amp;P 500, Dow Jones, Nasdaq rise ahead of Federal Reserve’s rate decision
-  The Dow Jones Industrial Average rose 0.32%, the S&amp;amp
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-muted-ahead-of-federal-reserve-s-rate-decision-11765289479458.html
+- Budget 2026: Defence, nuclear and critical minerals sectors likely to get a boost, says Motilal Oswal
+  Motilal Oswal sees scope for an increase in capex in non-traditional or sunrise sectors. Defence and allied industries, infrastructure-linked
+  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-defence-nuclear-and-critical-minerals-sectors-likely-to-get-a-boost-says-motilal-oswal-11768390059632.html
 
-- Instagram now lets you reshare Stories even if you are not tagged: here’s how it works
-  Instagram has introduced a feature allowing users to reshare stories from public accounts. Public accounts who don't want to be a part of the new experience will have to opt out
-  🔗 https://www.livemint.com/technology/tech-news/instagram-now-lets-you-reshare-stories-even-if-you-are-not-tagged-here-s-how-it-works-11765301158674.html
+- Samsung Galaxy S26 could finally match Plus and Ultra models in charging speed: Report
+  The Samsung Galaxy S26 may include 45W charging, a notable enhancement from the previous model's 25W. While the battery and camera specs could remain unchanged, the device is expected to follow
+  🔗 https://www.livemint.com/technology/tech-news/samsung-galaxy-s26-could-finally-match-plus-and-ultra-models-in-charging-speed-report-11768411043269.html
 
-- Meta could launch a new AI model early next year to take on Gemini and ChatGPT: here's what we know
-   Meta could launch a new AI model next year, codenamed ‘Avocado’ which could be a product of the company's Meta Superintelligence Labs. The
-  🔗 https://www.livemint.com/technology/tech-news/meta-could-launch-a-new-ai-model-early-next-year-to-take-on-gemini-and-chatgpt-heres-what-we-know-11765296890276.html
+- YouTube introduces new parental controls and limits on Shorts for teens: How it works
+  YouTube has introduced new tools for families, including limits on Shorts viewing, clearer guidance on quality teen content, and a simplified account setup. Here's everything you need to know on the policy changes.
+  🔗 https://www.livemint.com/technology/tech-news/youtube-introduces-new-parental-controls-and-limits-on-shorts-for-teens-how-it-works-11768407968171.html
 
-- ‘Give the people what they want’: Here's what OpenAI's ‘Code Red’ for ChatGPT may mean for users
-  OpenAI's Sam Altman declared ‘Code Red’ for ChatGPT earlier this week. A new report has revealed what changes that could entail for Chat
-  🔗 https://www.livemint.com/technology/tech-news/give-the-people-what-they-want-heres-what-openais-code-red-for-chatgpt-may-mean-for-users-11765283316532.html
+- EA pushes Battlefield 6 Season 2 launch to February: Here's why
+  Electronic Arts has delayed Battlefield 6 Season 2 to February 17. EA says the decision follows community feedback and aims to deliver more polished content.
+  🔗 https://www.livemint.com/technology/tech-news/ea-pushes-battlefield-6-season-2-launch-to-february-heres-why-11768402613325.html
 
-- India moving with confidence toward becoming major force in global 6G patents: Scindia
-  India moving with confidence toward becoming major force
-  🔗 https://www.livemint.com/technology/tech-news/india-moving-with-confidence-toward-becoming-major-force-in-global-6g-patents-scindia-11765295521246.html
+- Elon Musk pushes back against Grok AI image abuse claims, ‘It will refuse to produce anything illegal’
+  Elon Musk has dismissed allegations that Grok produces illegal images of minors. He says the AI only responds to user prompts and refuses unlawful requests.
+  🔗 https://www.livemint.com/technology/tech-news/elon-musk-pushes-back-against-grok-ai-image-abuse-claims-it-will-refuse-to-produce-anything-illegal-11768401535196.html
 
-- Redmi Note 15 5G confirmed to launch in India: Expected price, specs, launch date and more
-  The Redmi Note 15 series is set to launch in India, likely on January 6. The phone is likely to feature a 6
-  🔗 https://www.livemint.com/technology/gadgets/redmi-note-15-5g-confirmed-to-launch-in-india-expected-price-specs-launch-date-and-more-11765284382151.html
+- Amazon Republic Day Sale pre deals reveal discounts on laptops under  ₹40,000 from brands like HP, Dell, Asus and more
+  Amazon Republic Day Sale pre-deals reveal discounts on laptops under  ₹40,
+  🔗 https://www.livemint.com/technology/gadgets/amazon-republic-day-sale-pre-deals-reveal-discounts-on-laptops-under-rs-40-000-from-brands-like-hp-dell-asus-and-more-11768313420667.html
 
-- Stock Market Today: Dow Opens Higher Ahead of Job Openings Data; Fed Meeting Begins — Live Updates - The Wall Street Journal
-  Stock Market Today: Dow Opens Higher Ahead of Job Openings Data; Fed Meeting Begins
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNdmZhbmdpakg0YTk5U0Y4Z0wxS0tfX0NaX3JFZDNKUGtTeXFwS2trZUs4U182SUxtakVIcnZ3ZWNXNnhta09ZaXl4NUhRbE9SYjBMekpyVk9xdkFwWnB2dS10cjItQ0VSS1lkdmVqbm84OWpCcnhJMTdZYmlKdTNOcHhUMGFrUEU?oc=5
+- ET Market Watch: Why markets fell today - Tariff fears, FII selling hit Sensex, Nifty
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/etmarkets-podcast/et-market-watch-why-markets-fell-today-tariff-fears-fii-selling-hit-sensex-nifty/podcast/126531646.cms
 
-- Stock market today: Dow, S&P 500, Nasdaq trade mixed as Fed rate meeting kicks off - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq trade mixed
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc05WMUtwcVlaY2c3ck5lS2Jrck9OMUZXNGV6ckxoTU1GSWIxZ1UwTzAyQ0ZXM2hvOGpuRXBteG5CSUtURUk2akdHRXpqVWdBelVlemg3Y3ZHN3ozOWNOLURhQ3Nyc0Q5Sl9mRzZubFZGQVdReG9UcGFTR2pPQkVmaC05MXRQTGJIbWNUSHlldE1RNXpzbFhmU0NScDJHV0U0MjdvQ1Nabk1DNXU1ZE9iVHdjOXNGdTl3dzA3NDE3RkROa3RGTnV6Xw?oc=5
+- US retail sales beat expectations in November on holiday boost
+  Retail sales saw a 0.6 percent increase, beating forecasts. This rise signals a stronger start to the holiday
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-retail-sales-beat-expectations-in-november-on-holiday-boost/articleshow/126530375.cms
 
-- Stocks Inch Higher After Job Openings Data: Markets Wrap - Bloomberg.com
-  Stocks Inch Higher After Job
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNWUhpVWxtQjVjd0xCeFVwc3UzY0JNQjlmSVJlQVJTbUZqZk1CYzBDLXpuOUdVcVRuSWpsdUl5U1k1ak1LRGtQM1U1ZDgwdkc4ajVFNWU2ZFRYWGlkTjJWbWMyWERWc2JIYktSQTZCQWVxeTdaYkF4ai1iOU03b1plTThMWko5a1NDZ285R295OGlERzN1?oc=5
+- US bank stocks fall as results, credit card cap in focus
+  US bank stocks fell as investors digested mixed earnings from major lenders. Concerns over a proposed credit card interest cap, which could pressure profitability.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-bank-stocks-fall-as-results-credit-card-cap-in-focus/articleshow/126530025.cms
 
-- Stock Market Highlights: Sensex slips 435 pts, Nifty ends at 25,840; SMIDs outperform; IT leads fall - Business Standard
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxObHJJV1llTlZudl83cXpiNlVzVmYzT3ZHMlYya25tQlRBbmZpdmU4N05wdUROQ1EwYmNGMTFQVnlWbFZURWhEM2ZkZFZGaHRSc3FJWjV2S3I0YzFIdE1HS1MzOW9zME5SbT
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxObHJJV1llTlZudl83cXpiNlVzVmYzT3ZHMlYya25tQlRBbmZpdmU4N05wdUROQ1EwYmNGMTFQVnlWbFZURWhEM2ZkZFZGaHRSc3FJWjV2S3I0YzFIdE1HS1MzOW9zME5SbTVxZV9qR1YtaE0zT2JrRm1xZXBMS2dtWnNEWE9WVEUtSjRmOGNzN1ZWdk9RVWx1VVp4bm9PRTdLbE1hVE8tWjZmZnJYcWRJWDBvMDh6TjBTT2Q0ME5PNGNieGhUV21PNmNjVWZlLWFFU1licHdCeFg3aHNpOEJ4THlDQXRNU1pQUlZZRDJHTVVHaU9nRGpXNW1sZjBvTERoSnJVQdIBigJBVV95cUxOdE50bGNHdDE0SnRfNHk0WmdBYkRublBVcC0yTV9JRTB3cXlrR3N3UnRKb0ZRbThQVXlGdjVFaVRRLWNHNW5jYl9Yc0Zyb0JlbmFWSWlmYy1GQWx0YzhqNE01UW9rUjE5MXFXV3ZsNXcxZ05nYmVDdTFNY1FHQmtZcnJPY195bXJwU3F1eEdibXhEcEE0WUI5aWNfUHF6cGVRbkhJTl9fbEZud2dGTXJDR0dXSVMxV2tBN0xRNFROY2R3OUhhWGFGNFZpOXhxV0ROdTl4d0ktZHh0a0d5V3FtZVYwTlNGeURWWjc5bE9YLUNvVlZOaGpHMS1DZjZBczhOYktqQzJHcjFsdw?oc=5
+- US Fed's Neel Kashkari says it is 'way too soon' to cut rates
+   Minneapolis Federal ‍Reserve President Neel Kashkari did ​not want to cut interest rates last month. He sees no need to cut them any time soon given labor market resilience
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-feds-neel-kashkari-says-it-is-way-too-soon-to-cut-rates/articleshow/126529869.cms
 
-- Asian stocks today: Markets slip as Fed anxiety builds; HSI slips 1%, Nikkei sheds 16 points - The Times of India
-  Asian stocks slip as Fed anxiety builds; HSI slips 1%, Nikkei sheds
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOYWtuVlo0TUlLbG1EdnVRMHljVWlwZmZqdEFYeEtvWGoxWVgxMm1peXZlNzhYQ3Z0YTdDMnVpVmhnRTllLTZnSnk0RmhVMWo0QWZ0c2pkNXA3TDJFclA3bWFBRzhRVnZrVDdIVHI0cjhVcjFWdGVQazlTUUdhOV9LVnQ5U0JQZ0hMZnhqWnpWZFhIamxuNy1ta1djSmhZcUROd2pNZFdVOVI2YlV3SU9mNV9tRmZQUnpQYlY4OXh4bTJJcHJMMERVVUJHR1pLNUhoRmE0Z2V2V0swbjd4bjR1NWV3NGxOblNWY2tWbWVBUmdrSXRfbmhaN0VmMHRydHJVRUVpX3lIcGtNWDd0cXNB0gGUAkFVX3lxTFBoWXI3dDg2T093Wk5hcVlrdU1fd1A4VFU5S1MxTGg0OURjcmdqS2dLR3FnWlJrZDZLNi1SN0d4WTh0V0VDQzd3a1JoMWJiZlNQZTV5eEVNNUVwQ1lFci1BMTBNV0w4ZDc4cC1Ocl9UUXdKQ0JRNmY3b0d6c2lUWk5rbzBuajhQUExCU3pEMzZwWFBGZHRkYWNwSlF5VkJpeUN3aTlnWk95b2FXcDRITkh2cUd6LUdSQWpSNG5pU1lId0xwWVRzbXJBSExuTWNscTkwVEdYVkRkTkNqTDlLWXlONUNtZEV0VWY4aUZJdThERWhILXQxYWRPRERIOEhMVWliRlRybmlnSG5iRzM2TldTc3J0OA?oc=5
+- Infosys ADRs fall 2% as Q3 profit dip, margin pressure offset guidance upgrade
+  Infosys ADRs fell as December-quarter results showed modest profit decline and sharp margin pressure. However, strong revenue growth and an upgraded FY26 guidance reassured investors.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/infosys-adrs-fall-2-as-q3-profit-dip-margin-pressure-offset-guidance-upgrade/articleshow/126529822.cms
 
-- Silver hits $60 per ounce for first time, gold rises ahead of Fed rate decision
-  Gold prices edged higher as traders anticipated the U.S. Federal Reserve's interest rate decision. Silver surged to an all-time high of over $60 per ounce, driven by strong industrial demand expectations
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/silver-hits-60-per-ounce-for-first-time-gold-rises-ahead-of-fed-rate-decision/articleshow/125873995.cms
+- Australia Puts India In 'Highest-Risk' Tier For Student Visas. What It Means - NDTV
+  Australia Puts India In 'Highest-R
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbkl2TS1YbUNlQlpEU1VRQzQyaHlERDRIZDlwT1Yxa1ZGWEJoYnlyeGRpSXBYRWJsRFdJa2xEZEtpalRIQzR3NUtLVHdDV2tzNEhMMHdySTNTbWhMN2F0a2ZRb2tRRDk3dlFaZHV6aHphYWtJeEdXZ000REVMckwtWklLa2FxRjZ4ZG9HT3lQOTdlZGVrTGFodUU2clhuTDlMSUdoT2ZONlVEenQ1REY1VFhwR3XSAbwBQVVfeXFMTnNpZVlTZUUxTXhYbnREZzVzbTBQNVFXdDBURHNaVF9fNHF6Zi1wV1B3c1hjaUxZZ2kxSU5CdW9vd3ZRMzgtMHFCMnZCTUNHRDhKTFp2cUxmeWRIMHl3cEtnQWhrT084SEM3THZaR1VJSmJiNm4zdEp0S3JCVFJBMExON3JZQVBuRGl0SlhjbFpJUXhKdjEyOW5sek8xM1dFUVZJNDVzd0FDN0dFV01uUzVhR285eDJxY1ZqMjc?oc=5
 
-- Two former Brightcom Group officials settle with Sebi in financial reporting case
-  Two former Brightcom Group officials have settled with Sebi over alleged financial statement irregularities and disclosure failures. Compliance officer M Manohar and independent director M Vijaya Bhasker Reddy will pay Rs 12.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/two-former-brightcom-group-officials-settle-with-sebi-in-financial-reporting-case/articleshow/125873808.cms
+- Good News For Modi Govt: नहीं रुकेगा भारत... ट्रंप का टैरिफ भी धुआं-धुआं, विदेश से आई ये गुड न्यूज - AajTak
+  " target="_blank">Good News For Modi Govt:  "
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa1JHSnRaNDhTUTdZVDk3UlJnU003bjJNSE90Y2M3QldHTlRMMGpKS2huaEZhaWYwakhlSHU5TVA2MS1mXzhyX0xONk1hOE5GcEZMS2pMNmFyOUdGT0IxZl9KOE9BX2hTU0IxNlBqX2FCYWpVd3Y1eWFXc2laT0pHZG5IenpMQnJSMEtzbmNHNWlRU2REbElfdmZoWXBWSWxVTnFCdHBoQVM0cEtOVXpkS3FJbW1oMFNLTzJ4VTNGX2RCTE13Nm1zdk81LVY3M3pfNFNVeUJwa2FIT2FVRlI3eVcycXB6Xy1yLXlTRXNNbkxMQdIB9wFBVV95cUxOV3BPcG52S1U0SmpfejZ4TS1aNE5EWWkwWk9qYk5VNXNPby1xWkhzRzNxbmdJdUxqZDdnU3lSU1dmZHRFdHBRbTktWnZLUzdyS1Z2bjZhRlBzY2RTR2xmS1dDRVJOUkloNFUtNElGRW5tT01NeHJpVzBoU1QwNHBiWWljRXc1WWZmalpXdndSQ1VlQXVBTFBGRXIwUHdHRll2QmtnRF9uZUdqc21ubm9wU3BnZWxZSDVwMW9idkdWWnNnYXI1cGsxamxLc2ZpaXNtRTJQTEFnMmluelpFSG9GaUpQNWpqenRGeWo3TnlveVpOZnFaZDQ0?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Indian markets extended losses ahead of the US Fed decision and trade uncertainties. Analysts flagged weak short-term sentiment as Nifty trades below key EMAs. Global cues and FII
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/125873279.cms
+- "Trump May Visit Next Year": US Says No Country More Essential Than India - NDTV
+  "Trump May Visit Next Year": US Says No Country
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWVQUjF1WGh4RS1ESW9ZbEpzM1VaZlQ0Y1o2MUhMeDF6QTZrLTZXSEpuS29nbEh4VXdWMXRtQ0dKQ1ZCYWxURVV0X2R3NW5JRDdkRTJOV2hwajJQYVQ3cDl4R0pvOGpiN09hZl9HTXZJeXYzLVJ6cDJRV1UxRXV3ak5XSnZTU2IyYzV1c0gtZHVMQTJKNk1VLVI0S1BtM1E1R1V5WjFFMGFldWVQSFRIetIBuAFBVV95cUxQd3prNzFEdTdlMm16QjY2QTNGVXZVVnBXVEFocHQ0cHVPd2ZHZE5ZVGUwLVJWclZsdE55Nmhfc00yUGdxdEEtclZoenJOMDRUdC11TEdFV3BISUlIeU5EekdzT3lEZDk0WmZobktEazB5N0lTcy0tY196ZDB0WlZZcjYyQWhHM2VzajZBUW9mN2JxUUkwSHUtdFdlNVFFMi1VMTNYUjVRWUs4U19KeDlBMjgwRG1qSmhH?oc=5
 
-- JSW Energy block deal: Rajiv Jain–backed GQG Partners sells stake worth Rs 677 crore
-  GQG Partners sold 1.52 crore JSW Energy shares worth Rs 677 crore at a slight discount. The stock’s sharp one-year underperformance.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jsw-energy-block-deal-rajiv-jainbacked-gqg-partners-sells-stake-worth-rs-677-crore/articleshow/125872938.cms
+- Marco Rubio Talks To Jaishankar On India-US Trade Deal Talks, Congratulates On Enacting Nuclear Bill - Times of India
+  Marco Rubio talks to Jaishankar on India-US Trade Deal Talks
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPb0FMeFU1VTkwTVhDZlVCY29kOGg4OHdab2hYN1VYNE5fX1gxQURWVl9SdkVHZFhsY0ZWTGRWVl9xRlJOSDktLVhWWk5MQmhtVjhsSnhEZTFYaDFaMmdXUFowRUFyM0hkeVg4WWZ3UldaNDJVV3dlMHlrVHR6dFQ0dGJVU0xJQmtKSWk2T0R2Qlk3aWhBd0tqUTllckxWQ2FSdWFnYjFlQmJyTmxEcFlVc0R3dndiN2lVVUJqZVlELVYwMUQ5V25fLUpmdnRPc2EwOHBJWXd0bXJnWG9vQ01DTi1SLURIRlBNRDRlSXRfZ3pYYTdid2Rka0I5V1pnNVVo0gGGAkFVX3lxTFBOdmlxMkZwVVpxZGktLXlJOFBTSXRDbmZsamJCckJmdHlOUHdHTEViQkNNNTZJZzZ4N0dUVDJtRUl1bDlYcl9tb3BUQlRxOVh5TjdEcXVPWkZrZEFDdDY3RVlFNnJnT0lnX2VNb1V5aTA1V0NlSUxGcXlvMEtWbDJ5cVMtT0lRZ2NZc0pLdzZ2R2paOU9STEotRWNBTXRXN09WM3ZpSkNBelBuaXNBQ1lNek8xSFBXNU05Um4tWmRNUVVOYUtNNGN6dWF6WWE5c3hFdUhXTkU3VnQyQ0N5Y2hYdVU3cVlLX1N3SUI1N3lFYU5vZWdWc1g5WGozR0JuYVdXeHlzZ3c?oc=5
 
-- US stocks subdued as Fed rate decision approaches
-  Indian markets watching Wall Street's mixed performance. Investors are focused on the US Federal Reserve's upcoming policy decision. Signals regarding US AI chip exports to China are also creating uncertainty.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-subdued-at-open-as-fed-rate-cut-decision-nears/articleshow/125872283.cms
+- As US burdens India with 75% tariffs amid Iran tensions, Shashi Tharoor expresses concern, calls situation ‘troubling’ | India News - Hindustan Times
+  Shashi Tharoor expresses concern, calls situation ‘troubling’
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQMlIzWVhLTHU5dVoyZTFySGd5QmpXTURlWWgwQ2FDRzMzMWxMSDZTMDFuWWJKV1NocXBmQTVMNHQwLXg1SkUzbEpDalByeFBST0t6X2VYOHN4NzZsSkkwNFVWdW9zc2E2c3ZkdnNlbWFHUml5SFFEZWNsVXlDd1RwM0hIOXdLcGlodWl0NDZrYnZaenEzRGNDQlo0eE44UHl4c1c3VnFPcVU0ZFJQZFMzVWlDRDh1TThmUUZ1bUNwREk0WUlPSktWczVWR3RMRFc0d211NzRDUlpkbjlhTloxUFFudU1iZXJPWDVuTDEtTGdueThiNzFrSmNOdXZ3YzZLVlNGNUJJMNIBjAJBVV95cUxONW9QUEdTcXFvekNCNlJKeW5zXzdsY2N6NTNRemlObmxHbmRSS3MzeEpmeGNBVXo3d2VIVTVvUlhRcUthZ2JrSHlpMzRwRDNDTWRENUM1NTVxalpNWTRyYmExZ3FacG9FLUZqZmVubXdpeXhYd0prR25WeVRTc1JjRnVXYS1nQktxUzBZd0I4WUl2N01QVW91Vi1wODlUejE1QmcwaTNta0JhOVk0Zk8wNUpfRDNWck4wbmxBdmZ0ak1SMTB6NWY5elB6Zl8yX1ladUhNc0IwOGFSdkFubHlOOEpjQlQzQnRwaUlOMFk4OUp2MUVPb2U1OTVGbHFMbEtGUlp5V0FHUGlwV2Jw?oc=5
 
-- Trump Warns Of New Tariffs On India, Says They Should Not "Dump Rice" In US - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNTV9QS0RZeFFaYmsxdVdCdjhONlYtVXlFdFloV0prM0txRzNoSkl6Qm93cE9IN1dVRjZyZlBLank1eTRnUXR3eDRzNEpKZHBKZGwtNkdWQURLMmVlUURFSV9kREQyZFAwYV
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNTV9QS0RZeFFaYmsxdVdCdjhONlYtVXlFdFloV0prM0txRzNoSkl6Qm93cE9IN1dVRjZyZlBLank1eTRnUXR3eDRzNEpKZHBKZGwtNkdWQURLMmVlUURFSV9kREQyZFAwYVN2U1BwWkIwQTBkcnRQWDV0RTl5NFV0c1dURnFtUGRWRDZQcnUxUFVPbEptT3pqY3ZwT3VXMTQ2T0NQWEw1VVNaSDQyem1HV25B0gG6AUFVX3lxTE5zVS1fSWNIYkxHdGlILXdYc2ZIVnZsdGwteTZkakltS09VMEJrQTJ6dXNBODFvMlBiQ2t4SXJad0hPOTJsR2p1ekFpX1NEWlFwNGltTmNvc0RNQXN2cEhQZTZCR3dWMERKYXJPdmtXUzlzX01KdlNhV0wtVVQzSC1RMktXeTdyN085QjlBWUpvUkJ4TmZXUkhnY00zdk5YdjdsQ3NTRUtnb2tTaml5Q1FwY1BXUlJJa3BBdw?oc=5
+- Australia Puts India In 'Highest-Risk' Tier For Student Visas. What It Means - NDTV
+  Australia Puts India In 'Highest-R
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbkl2TS1YbUNlQlpEU1VRQzQyaHlERDRIZDlwT1Yxa1ZGWEJoYnlyeGRpSXBYRWJsRFdJa2xEZEtpalRIQzR3NUtLVHdDV2tzNEhMMHdySTNTbWhMN2F0a2ZRb2tRRDk3dlFaZHV6aHphYWtJeEdXZ000REVMckwtWklLa2FxRjZ4ZG9HT3lQOTdlZGVrTGFodUU2clhuTDlMSUdoT2ZONlVEenQ1REY1VFhwR3XSAbwBQVVfeXFMTnNpZVlTZUUxTXhYbnREZzVzbTBQNVFXdDBURHNaVF9fNHF6Zi1wV1B3c1hjaUxZZ2kxSU5CdW9vd3ZRMzgtMHFCMnZCTUNHRDhKTFp2cUxmeWRIMHl3cEtnQWhrT084SEM3THZaR1VJSmJiNm4zdEp0S3JCVFJBMExON3JZQVBuRGl0SlhjbFpJUXhKdjEyOW5sek8xM1dFUVZJNDVzd0FDN0dFV01uUzVhR285eDJxY1ZqMjc?oc=5
 
-- 'Send your wife, kids back to India': JD Vance faces backlash for calling mass migration 'theft' of American Dream | Hindustan Times - Hindustan Times
-  'Send your wife, kids back to India': JD Vance faces backlash for calling mass migration 'theft
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTWNtSFN4THA0Nzc3Vmx3eXBvRmowQmR3TkV4dlcwNmN0WDRSY3lYa0hwLUxWd0JVajZQQ1otYTZpMnlIS3RRRDR1Q3hZUmpmZE9XUkNGUF8xZUtYTXFydkxQX3F4ZDB1b1Vwb0c5RGJkcDVjMFVWdF8wU255enJ2ZzdXaUxOV3Y1cGlUbDFTMU1JYi1aMlpyWHh5eklDbGVwWk9fWk9OSjY2NlNTOUFvdTA3SkFaTDdINTUwaUdOZ3BYZUFDeTdJbDVmRTJsSnd5UjFueWpHQmxHQUtSTU1UcERkTzBpd3NWbnBzT1dMcnBTUFBPRi0wRjBWemxDQ3NfX3RXMEpjTHdsbGfSAZACQVVfeXFMTVpxYV8wbkJpcml0b0txZDJtaVBaaU04bF9ESVRNeEdNMm90N0JTWl9tWVhCc2xTWXFjU3VJMF9uck1IaS13NWdzUWZtakdLNElpYnQ3SjBBWU1ZUFMyR1JGajhqZWNPV2FSbGdBU3dUQnlZTkdJRzNqU2J5bFowMnlaUHJub25xMS0yZmdHLTRWd1JKSDYyMnFmT01lbEdKNEFTWWdHaDFLeXQ1UWtIWHNLUkVzSjExU2RRa3FIWm5Zb014bEZablgxMTNxQ2pUUEVCUE12cmJqVENMbllBMnVGeU1ZV0Z5QUV6eDFmZEdaV01WcUVBUHRpY080SmVqNkU2TERhWURudTRUT3JlTHE?oc=5
+- Good News For Modi Govt: नहीं रुकेगा भारत... ट्रंप का टैरिफ भी धुआं-धुआं, विदेश से आई ये गुड न्यूज - AajTak
+  " target="_blank">Good News For Modi Govt:  "
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa1JHSnRaNDhTUTdZVDk3UlJnU003bjJNSE90Y2M3QldHTlRMMGpKS2huaEZhaWYwakhlSHU5TVA2MS1mXzhyX0xONk1hOE5GcEZMS2pMNmFyOUdGT0IxZl9KOE9BX2hTU0IxNlBqX2FCYWpVd3Y1eWFXc2laT0pHZG5IenpMQnJSMEtzbmNHNWlRU2REbElfdmZoWXBWSWxVTnFCdHBoQVM0cEtOVXpkS3FJbW1oMFNLTzJ4VTNGX2RCTE13Nm1zdk81LVY3M3pfNFNVeUJwa2FIT2FVRlI3eVcycXB6Xy1yLXlTRXNNbkxMQdIB9wFBVV95cUxOV3BPcG52S1U0SmpfejZ4TS1aNE5EWWkwWk9qYk5VNXNPby1xWkhzRzNxbmdJdUxqZDdnU3lSU1dmZHRFdHBRbTktWnZLUzdyS1Z2bjZhRlBzY2RTR2xmS1dDRVJOUkloNFUtNElGRW5tT01NeHJpVzBoU1QwNHBiWWljRXc1WWZmalpXdndSQ1VlQXVBTFBGRXIwUHdHRll2QmtnRF9uZUdqc21ubm9wU3BnZWxZSDVwMW9idkdWWnNnYXI1cGsxamxLc2ZpaXNtRTJQTEFnMmluelpFSG9GaUpQNWpqenRGeWo3TnlveVpOZnFaZDQ0?oc=5
 
-- Belgium's Supreme Court rejects Mehul Choksi's appeal against extradition order - India Today
-  Belgium's Supreme Court rejects Mehul
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOXEtWlUwdG16ZzRTVzJBek54Mk5iT0d1dWxlOWplaXc0NF9VZFc2V2RHc2RUZTUzdk5ZVHlPaUlKUF9GMWhlZHlFc0htcmdxdTRkUEQ1Mm15SlBoNGV6MnVRSGpzYWtNUTJqdjRqamxodzUyYWRYWVZkWHlaS2Y4XzNKUE5SNHpPUWNuM0NEN2E5NEI2ME1JZjhBTlFTMG9wUUp4dk9HaWVfRFI5RW5NemhoZFdqX2RXWXJYcFpSWUFnMzhYaElCSWJ2QmFrMTRwN3U1VnhFN0xJdnpCMzEyRmdGMzFDNHV0dGNSOVgtONIB9AFBVV95cUxPT0RJVmtoVTVVSDBTWVB0UUNyMDhCRHEtX0t0N1g1WVZWMXo0dks3TEpRbkc4bkhRMURHQ0FFYjJCaGlUTjlpY0FubDJQY0Y4SG1CYWZHcWU4clZickxLVEJOLW51czBPUkdYX0c5UHZxSk0tWkhfXy1iRnJRV1VyUklINzVKaHBiRkVMWWotYnplN2ZKUEUxYW5EQzVhMGVVMEM4Y3hTaDQwRlJhYkxXTy01MElrTkxCaUxCVFNNRUpONkY2MF93N3JZazYxTHhKbDBpS1p6UHpUYjRSMEVIeE9mRzQ5VU9JWDZDam5lb056Q0Zs?oc=5
+- "Trump May Visit Next Year": US Says No Country More Essential Than India - NDTV
+  "Trump May Visit Next Year": US Says No Country
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWVQUjF1WGh4RS1ESW9ZbEpzM1VaZlQ0Y1o2MUhMeDF6QTZrLTZXSEpuS29nbEh4VXdWMXRtQ0dKQ1ZCYWxURVV0X2R3NW5JRDdkRTJOV2hwajJQYVQ3cDl4R0pvOGpiN09hZl9HTXZJeXYzLVJ6cDJRV1UxRXV3ak5XSnZTU2IyYzV1c0gtZHVMQTJKNk1VLVI0S1BtM1E1R1V5WjFFMGFldWVQSFRIetIBuAFBVV95cUxQd3prNzFEdTdlMm16QjY2QTNGVXZVVnBXVEFocHQ0cHVPd2ZHZE5ZVGUwLVJWclZsdE55Nmhfc00yUGdxdEEtclZoenJOMDRUdC11TEdFV3BISUlIeU5EekdzT3lEZDk0WmZobktEazB5N0lTcy0tY196ZDB0WlZZcjYyQWhHM2VzajZBUW9mN2JxUUkwSHUtdFdlNVFFMi1VMTNYUjVRWUs4U19KeDlBMjgwRG1qSmhH?oc=5
 
-- Mehul Choksi's Appeal Against India's Extradition Request Rejected By Belgium's Supreme Court - NDTV
-  Mehul Choksi's appeal against India
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxORThSWEtsZ2ZWaTRTSTRVcEZRb3ZRNS1KT1NQYXlEMW1vNG1qSUJ4ZTlLTE9DTXhUYktVZjg5ZE8wUlJFZjYxOGhlamJFWFBjdkpvLXBCM0c4aGwzaHU3QUJ6eE5KUUNFZGE1aVFtYzVLUzhWU3lYSmpjV0xXM09WcXh3QlhvZHlRMTBHczVLcUhsdXVTR2Y3OTJaM21YR1k1SDU2eGlpUElYa0dENi1YcjJvLUlUMEVEVXdtOG13dUV6ZjNBanI5RlZR0gHSAUFVX3lxTE1IakVjUDBla0E4OURuUzE0TU5vSHBuR2dlMzFtZUtSX1BMVV8wZTMwczZ6QUU3ZGdvVENsaEEydTBDbmFWM1ExVF9ObzZtTXFlTE1pOGNZWnl4aWxEelExeTBwdHdmaFpMNDN0V3dzNWx0dTRxdXJXcllkNTZkSEdxN1c2TGstdnhtLV80UUVqYl9UNzRXSEVEbmd2UFdtMEV2enAyNEJSMjF6X05iRzZwaUpQWFBodmllYnFJTTdteEdYMXNUUE9TNU9SQzlpd1p4QQ?oc=5
+- Marco Rubio Talks To Jaishankar On India-US Trade Deal Talks, Congratulates On Enacting Nuclear Bill - Times of India
+  Marco Rubio talks to Jaishankar on India-US Trade Deal Talks
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPb0FMeFU1VTkwTVhDZlVCY29kOGg4OHdab2hYN1VYNE5fX1gxQURWVl9SdkVHZFhsY0ZWTGRWVl9xRlJOSDktLVhWWk5MQmhtVjhsSnhEZTFYaDFaMmdXUFowRUFyM0hkeVg4WWZ3UldaNDJVV3dlMHlrVHR6dFQ0dGJVU0xJQmtKSWk2T0R2Qlk3aWhBd0tqUTllckxWQ2FSdWFnYjFlQmJyTmxEcFlVc0R3dndiN2lVVUJqZVlELVYwMUQ5V25fLUpmdnRPc2EwOHBJWXd0bXJnWG9vQ01DTi1SLURIRlBNRDRlSXRfZ3pYYTdid2Rka0I5V1pnNVVo0gGGAkFVX3lxTFBOdmlxMkZwVVpxZGktLXlJOFBTSXRDbmZsamJCckJmdHlOUHdHTEViQkNNNTZJZzZ4N0dUVDJtRUl1bDlYcl9tb3BUQlRxOVh5TjdEcXVPWkZrZEFDdDY3RVlFNnJnT0lnX2VNb1V5aTA1V0NlSUxGcXlvMEtWbDJ5cVMtT0lRZ2NZc0pLdzZ2R2paOU9STEotRWNBTXRXN09WM3ZpSkNBelBuaXNBQ1lNek8xSFBXNU05Um4tWmRNUVVOYUtNNGN6dWF6WWE5c3hFdUhXTkU3VnQyQ0N5Y2hYdVU3cVlLX1N3SUI1N3lFYU5vZWdWc1g5WGozR0JuYVdXeHlzZ3c?oc=5
 
-- Belgium's Top Court Rejects Mehul Choksi's Appeal Against Extradition - News18
-  Belgium's Top Court Re
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxORER5WXNyMDFkU0hWTC1xbnpyWU82d0d6bGVaaXdWOXBiSWFvSjRGdURwMkJwRm4zNS1fb2tzX213TmdPZ3RZcF91RFN2V05KQzhMYk80bkNWa253aFpUWE5qT3c0M1pOQVRmSTBFbmFyQnJ0SGFJaldFVjNhaWxtLVh0cTg3RjBCTk9YbXFMeXdDYWVNWEF0NGQ0dXRUaUgtd3A4cUxNeFJhaXoxZTRmbTQzQdIBuAFBVV95cUxQM3hFcnBJVzVzTmp3ZGp2QzJkWkRHcWM1el9HbFFYWVltM05kYlV0MW1ubmw2LXVkcXl0VDhHVXgwUEUwRENEXzlheHpBcVR6dGN6djFhRE5ud1FSRE5pZmw3MlBpTlJfWXBkZWQzVEhmUWlUd1h3SnZjY3dXcndFTGQyYUFOV3YzWjlfMFQwVUZMLUN3Tzk2WDlQMHY1TTRsal9OaXhyVW5vWXlUZWlTTUdydFg5dnNv?oc=5
+- As US burdens India with 75% tariffs amid Iran tensions, Shashi Tharoor expresses concern, calls situation ‘troubling’ | India News - Hindustan Times
+  Shashi Tharoor expresses concern, calls situation ‘troubling’
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQMlIzWVhLTHU5dVoyZTFySGd5QmpXTURlWWgwQ2FDRzMzMWxMSDZTMDFuWWJKV1NocXBmQTVMNHQwLXg1SkUzbEpDalByeFBST0t6X2VYOHN4NzZsSkkwNFVWdW9zc2E2c3ZkdnNlbWFHUml5SFFEZWNsVXlDd1RwM0hIOXdLcGlodWl0NDZrYnZaenEzRGNDQlo0eE44UHl4c1c3VnFPcVU0ZFJQZFMzVWlDRDh1TThmUUZ1bUNwREk0WUlPSktWczVWR3RMRFc0d211NzRDUlpkbjlhTloxUFFudU1iZXJPWDVuTDEtTGdueThiNzFrSmNOdXZ3YzZLVlNGNUJJMNIBjAJBVV95cUxONW9QUEdTcXFvekNCNlJKeW5zXzdsY2N6NTNRemlObmxHbmRSS3MzeEpmeGNBVXo3d2VIVTVvUlhRcUthZ2JrSHlpMzRwRDNDTWRENUM1NTVxalpNWTRyYmExZ3FacG9FLUZqZmVubXdpeXhYd0prR25WeVRTc1JjRnVXYS1nQktxUzBZd0I4WUl2N01QVW91Vi1wODlUejE1QmcwaTNta0JhOVk0Zk8wNUpfRDNWck4wbmxBdmZ0ak1SMTB6NWY5elB6Zl8yX1ladUhNc0IwOGFSdkFubHlOOEpjQlQzQnRwaUlOMFk4OUp2MUVPb2U1OTVGbHFMbEtGUlp5V0FHUGlwV2Jw?oc=5
 
-- Trump Warns Of New Tariffs On India, Says They Should Not "Dump Rice" In US - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNTV9QS0RZeFFaYmsxdVdCdjhONlYtVXlFdFloV0prM0txRzNoSkl6Qm93cE9IN1dVRjZyZlBLank1eTRnUXR3eDRzNEpKZHBKZGwtNkdWQURLMmVlUURFSV9kREQyZFAwYV
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNTV9QS0RZeFFaYmsxdVdCdjhONlYtVXlFdFloV0prM0txRzNoSkl6Qm93cE9IN1dVRjZyZlBLank1eTRnUXR3eDRzNEpKZHBKZGwtNkdWQURLMmVlUURFSV9kREQyZFAwYVN2U1BwWkIwQTBkcnRQWDV0RTl5NFV0c1dURnFtUGRWRDZQcnUxUFVPbEptT3pqY3ZwT3VXMTQ2T0NQWEw1VVNaSDQyem1HV25B0gG6AUFVX3lxTE5zVS1fSWNIYkxHdGlILXdYc2ZIVnZsdGwteTZkakltS09VMEJrQTJ6dXNBODFvMlBiQ2t4SXJad0hPOTJsR2p1ekFpX1NEWlFwNGltTmNvc0RNQXN2cEhQZTZCR3dWMERKYXJPdmtXUzlzX01KdlNhV0wtVVQzSC1RMktXeTdyN085QjlBWUpvUkJ4TmZXUkhnY00zdk5YdjdsQ3NTRUtnb2tTaml5Q1FwY1BXUlJJa3BBdw?oc=5
+- Australia Puts India In 'Highest-Risk' Tier For Student Visas. What It Means - NDTV
+  Australia Puts India In 'Highest-R
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbkl2TS1YbUNlQlpEU1VRQzQyaHlERDRIZDlwT1Yxa1ZGWEJoYnlyeGRpSXBYRWJsRFdJa2xEZEtpalRIQzR3NUtLVHdDV2tzNEhMMHdySTNTbWhMN2F0a2ZRb2tRRDk3dlFaZHV6aHphYWtJeEdXZ000REVMckwtWklLa2FxRjZ4ZG9HT3lQOTdlZGVrTGFodUU2clhuTDlMSUdoT2ZONlVEenQ1REY1VFhwR3XSAbwBQVVfeXFMTnNpZVlTZUUxTXhYbnREZzVzbTBQNVFXdDBURHNaVF9fNHF6Zi1wV1B3c1hjaUxZZ2kxSU5CdW9vd3ZRMzgtMHFCMnZCTUNHRDhKTFp2cUxmeWRIMHl3cEtnQWhrT084SEM3THZaR1VJSmJiNm4zdEp0S3JCVFJBMExON3JZQVBuRGl0SlhjbFpJUXhKdjEyOW5sek8xM1dFUVZJNDVzd0FDN0dFV01uUzVhR285eDJxY1ZqMjc?oc=5
 
-- 'Send your wife, kids back to India': JD Vance faces backlash for calling mass migration 'theft' of American Dream | Hindustan Times - Hindustan Times
-  'Send your wife, kids back to India': JD Vance faces backlash for calling mass migration 'theft
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTWNtSFN4THA0Nzc3Vmx3eXBvRmowQmR3TkV4dlcwNmN0WDRSY3lYa0hwLUxWd0JVajZQQ1otYTZpMnlIS3RRRDR1Q3hZUmpmZE9XUkNGUF8xZUtYTXFydkxQX3F4ZDB1b1Vwb0c5RGJkcDVjMFVWdF8wU255enJ2ZzdXaUxOV3Y1cGlUbDFTMU1JYi1aMlpyWHh5eklDbGVwWk9fWk9OSjY2NlNTOUFvdTA3SkFaTDdINTUwaUdOZ3BYZUFDeTdJbDVmRTJsSnd5UjFueWpHQmxHQUtSTU1UcERkTzBpd3NWbnBzT1dMcnBTUFBPRi0wRjBWemxDQ3NfX3RXMEpjTHdsbGfSAZACQVVfeXFMTVpxYV8wbkJpcml0b0txZDJtaVBaaU04bF9ESVRNeEdNMm90N0JTWl9tWVhCc2xTWXFjU3VJMF9uck1IaS13NWdzUWZtakdLNElpYnQ3SjBBWU1ZUFMyR1JGajhqZWNPV2FSbGdBU3dUQnlZTkdJRzNqU2J5bFowMnlaUHJub25xMS0yZmdHLTRWd1JKSDYyMnFmT01lbEdKNEFTWWdHaDFLeXQ1UWtIWHNLUkVzSjExU2RRa3FIWm5Zb014bEZablgxMTNxQ2pUUEVCUE12cmJqVENMbllBMnVGeU1ZV0Z5QUV6eDFmZEdaV01WcUVBUHRpY080SmVqNkU2TERhWURudTRUT3JlTHE?oc=5
+- Good News For Modi Govt: नहीं रुकेगा भारत... ट्रंप का टैरिफ भी धुआं-धुआं, विदेश से आई ये गुड न्यूज - AajTak
+  " target="_blank">Good News For Modi Govt:  "
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa1JHSnRaNDhTUTdZVDk3UlJnU003bjJNSE90Y2M3QldHTlRMMGpKS2huaEZhaWYwakhlSHU5TVA2MS1mXzhyX0xONk1hOE5GcEZMS2pMNmFyOUdGT0IxZl9KOE9BX2hTU0IxNlBqX2FCYWpVd3Y1eWFXc2laT0pHZG5IenpMQnJSMEtzbmNHNWlRU2REbElfdmZoWXBWSWxVTnFCdHBoQVM0cEtOVXpkS3FJbW1oMFNLTzJ4VTNGX2RCTE13Nm1zdk81LVY3M3pfNFNVeUJwa2FIT2FVRlI3eVcycXB6Xy1yLXlTRXNNbkxMQdIB9wFBVV95cUxOV3BPcG52S1U0SmpfejZ4TS1aNE5EWWkwWk9qYk5VNXNPby1xWkhzRzNxbmdJdUxqZDdnU3lSU1dmZHRFdHBRbTktWnZLUzdyS1Z2bjZhRlBzY2RTR2xmS1dDRVJOUkloNFUtNElGRW5tT01NeHJpVzBoU1QwNHBiWWljRXc1WWZmalpXdndSQ1VlQXVBTFBGRXIwUHdHRll2QmtnRF9uZUdqc21ubm9wU3BnZWxZSDVwMW9idkdWWnNnYXI1cGsxamxLc2ZpaXNtRTJQTEFnMmluelpFSG9GaUpQNWpqenRGeWo3TnlveVpOZnFaZDQ0?oc=5
 
-- Belgium's Supreme Court rejects Mehul Choksi's appeal against extradition order - India Today
-  Belgium's Supreme Court rejects Mehul
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOXEtWlUwdG16ZzRTVzJBek54Mk5iT0d1dWxlOWplaXc0NF9VZFc2V2RHc2RUZTUzdk5ZVHlPaUlKUF9GMWhlZHlFc0htcmdxdTRkUEQ1Mm15SlBoNGV6MnVRSGpzYWtNUTJqdjRqamxodzUyYWRYWVZkWHlaS2Y4XzNKUE5SNHpPUWNuM0NEN2E5NEI2ME1JZjhBTlFTMG9wUUp4dk9HaWVfRFI5RW5NemhoZFdqX2RXWXJYcFpSWUFnMzhYaElCSWJ2QmFrMTRwN3U1VnhFN0xJdnpCMzEyRmdGMzFDNHV0dGNSOVgtONIB9AFBVV95cUxPT0RJVmtoVTVVSDBTWVB0UUNyMDhCRHEtX0t0N1g1WVZWMXo0dks3TEpRbkc4bkhRMURHQ0FFYjJCaGlUTjlpY0FubDJQY0Y4SG1CYWZHcWU4clZickxLVEJOLW51czBPUkdYX0c5UHZxSk0tWkhfXy1iRnJRV1VyUklINzVKaHBiRkVMWWotYnplN2ZKUEUxYW5EQzVhMGVVMEM4Y3hTaDQwRlJhYkxXTy01MElrTkxCaUxCVFNNRUpONkY2MF93N3JZazYxTHhKbDBpS1p6UHpUYjRSMEVIeE9mRzQ5VU9JWDZDam5lb056Q0Zs?oc=5
+- "Trump May Visit Next Year": US Says No Country More Essential Than India - NDTV
+  "Trump May Visit Next Year": US Says No Country
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWVQUjF1WGh4RS1ESW9ZbEpzM1VaZlQ0Y1o2MUhMeDF6QTZrLTZXSEpuS29nbEh4VXdWMXRtQ0dKQ1ZCYWxURVV0X2R3NW5JRDdkRTJOV2hwajJQYVQ3cDl4R0pvOGpiN09hZl9HTXZJeXYzLVJ6cDJRV1UxRXV3ak5XSnZTU2IyYzV1c0gtZHVMQTJKNk1VLVI0S1BtM1E1R1V5WjFFMGFldWVQSFRIetIBuAFBVV95cUxQd3prNzFEdTdlMm16QjY2QTNGVXZVVnBXVEFocHQ0cHVPd2ZHZE5ZVGUwLVJWclZsdE55Nmhfc00yUGdxdEEtclZoenJOMDRUdC11TEdFV3BISUlIeU5EekdzT3lEZDk0WmZobktEazB5N0lTcy0tY196ZDB0WlZZcjYyQWhHM2VzajZBUW9mN2JxUUkwSHUtdFdlNVFFMi1VMTNYUjVRWUs4U19KeDlBMjgwRG1qSmhH?oc=5
 
-- Mehul Choksi's Appeal Against India's Extradition Request Rejected By Belgium's Supreme Court - NDTV
-  Mehul Choksi's appeal against India
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxORThSWEtsZ2ZWaTRTSTRVcEZRb3ZRNS1KT1NQYXlEMW1vNG1qSUJ4ZTlLTE9DTXhUYktVZjg5ZE8wUlJFZjYxOGhlamJFWFBjdkpvLXBCM0c4aGwzaHU3QUJ6eE5KUUNFZGE1aVFtYzVLUzhWU3lYSmpjV0xXM09WcXh3QlhvZHlRMTBHczVLcUhsdXVTR2Y3OTJaM21YR1k1SDU2eGlpUElYa0dENi1YcjJvLUlUMEVEVXdtOG13dUV6ZjNBanI5RlZR0gHSAUFVX3lxTE1IakVjUDBla0E4OURuUzE0TU5vSHBuR2dlMzFtZUtSX1BMVV8wZTMwczZ6QUU3ZGdvVENsaEEydTBDbmFWM1ExVF9ObzZtTXFlTE1pOGNZWnl4aWxEelExeTBwdHdmaFpMNDN0V3dzNWx0dTRxdXJXcllkNTZkSEdxN1c2TGstdnhtLV80UUVqYl9UNzRXSEVEbmd2UFdtMEV2enAyNEJSMjF6X05iRzZwaUpQWFBodmllYnFJTTdteEdYMXNUUE9TNU9SQzlpd1p4QQ?oc=5
+- Marco Rubio Talks To Jaishankar On India-US Trade Deal Talks, Congratulates On Enacting Nuclear Bill - Times of India
+  Marco Rubio talks to Jaishankar on India-US Trade Deal Talks
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPb0FMeFU1VTkwTVhDZlVCY29kOGg4OHdab2hYN1VYNE5fX1gxQURWVl9SdkVHZFhsY0ZWTGRWVl9xRlJOSDktLVhWWk5MQmhtVjhsSnhEZTFYaDFaMmdXUFowRUFyM0hkeVg4WWZ3UldaNDJVV3dlMHlrVHR6dFQ0dGJVU0xJQmtKSWk2T0R2Qlk3aWhBd0tqUTllckxWQ2FSdWFnYjFlQmJyTmxEcFlVc0R3dndiN2lVVUJqZVlELVYwMUQ5V25fLUpmdnRPc2EwOHBJWXd0bXJnWG9vQ01DTi1SLURIRlBNRDRlSXRfZ3pYYTdid2Rka0I5V1pnNVVo0gGGAkFVX3lxTFBOdmlxMkZwVVpxZGktLXlJOFBTSXRDbmZsamJCckJmdHlOUHdHTEViQkNNNTZJZzZ4N0dUVDJtRUl1bDlYcl9tb3BUQlRxOVh5TjdEcXVPWkZrZEFDdDY3RVlFNnJnT0lnX2VNb1V5aTA1V0NlSUxGcXlvMEtWbDJ5cVMtT0lRZ2NZc0pLdzZ2R2paOU9STEotRWNBTXRXN09WM3ZpSkNBelBuaXNBQ1lNek8xSFBXNU05Um4tWmRNUVVOYUtNNGN6dWF6WWE5c3hFdUhXTkU3VnQyQ0N5Y2hYdVU3cVlLX1N3SUI1N3lFYU5vZWdWc1g5WGozR0JuYVdXeHlzZ3c?oc=5
 
-- Belgium's Top Court Rejects Mehul Choksi's Appeal Against Extradition - News18
-  Belgium's Top Court Re
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxORER5WXNyMDFkU0hWTC1xbnpyWU82d0d6bGVaaXdWOXBiSWFvSjRGdURwMkJwRm4zNS1fb2tzX213TmdPZ3RZcF91RFN2V05KQzhMYk80bkNWa253aFpUWE5qT3c0M1pOQVRmSTBFbmFyQnJ0SGFJaldFVjNhaWxtLVh0cTg3RjBCTk9YbXFMeXdDYWVNWEF0NGQ0dXRUaUgtd3A4cUxNeFJhaXoxZTRmbTQzQdIBuAFBVV95cUxQM3hFcnBJVzVzTmp3ZGp2QzJkWkRHcWM1el9HbFFYWVltM05kYlV0MW1ubmw2LXVkcXl0VDhHVXgwUEUwRENEXzlheHpBcVR6dGN6djFhRE5ud1FSRE5pZmw3MlBpTlJfWXBkZWQzVEhmUWlUd1h3SnZjY3dXcndFTGQyYUFOV3YzWjlfMFQwVUZMLUN3Tzk2WDlQMHY1TTRsal9OaXhyVW5vWXlUZWlTTUdydFg5dnNv?oc=5
+- As US burdens India with 75% tariffs amid Iran tensions, Shashi Tharoor expresses concern, calls situation ‘troubling’ | India News - Hindustan Times
+  Shashi Tharoor expresses concern, calls situation ‘troubling’
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQMlIzWVhLTHU5dVoyZTFySGd5QmpXTURlWWgwQ2FDRzMzMWxMSDZTMDFuWWJKV1NocXBmQTVMNHQwLXg1SkUzbEpDalByeFBST0t6X2VYOHN4NzZsSkkwNFVWdW9zc2E2c3ZkdnNlbWFHUml5SFFEZWNsVXlDd1RwM0hIOXdLcGlodWl0NDZrYnZaenEzRGNDQlo0eE44UHl4c1c3VnFPcVU0ZFJQZFMzVWlDRDh1TThmUUZ1bUNwREk0WUlPSktWczVWR3RMRFc0d211NzRDUlpkbjlhTloxUFFudU1iZXJPWDVuTDEtTGdueThiNzFrSmNOdXZ3YzZLVlNGNUJJMNIBjAJBVV95cUxONW9QUEdTcXFvekNCNlJKeW5zXzdsY2N6NTNRemlObmxHbmRSS3MzeEpmeGNBVXo3d2VIVTVvUlhRcUthZ2JrSHlpMzRwRDNDTWRENUM1NTVxalpNWTRyYmExZ3FacG9FLUZqZmVubXdpeXhYd0prR25WeVRTc1JjRnVXYS1nQktxUzBZd0I4WUl2N01QVW91Vi1wODlUejE1QmcwaTNta0JhOVk0Zk8wNUpfRDNWck4wbmxBdmZ0ak1SMTB6NWY5elB6Zl8yX1ladUhNc0IwOGFSdkFubHlOOEpjQlQzQnRwaUlOMFk4OUp2MUVPb2U1OTVGbHFMbEtGUlp5V0FHUGlwV2Jw?oc=5
 
-- Trump Warns Of New Tariffs On India, Says They Should Not "Dump Rice" In US - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNTV9QS0RZeFFaYmsxdVdCdjhONlYtVXlFdFloV0prM0txRzNoSkl6Qm93cE9IN1dVRjZyZlBLank1eTRnUXR3eDRzNEpKZHBKZGwtNkdWQURLMmVlUURFSV9kREQyZFAwYV
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNTV9QS0RZeFFaYmsxdVdCdjhONlYtVXlFdFloV0prM0txRzNoSkl6Qm93cE9IN1dVRjZyZlBLank1eTRnUXR3eDRzNEpKZHBKZGwtNkdWQURLMmVlUURFSV9kREQyZFAwYVN2U1BwWkIwQTBkcnRQWDV0RTl5NFV0c1dURnFtUGRWRDZQcnUxUFVPbEptT3pqY3ZwT3VXMTQ2T0NQWEw1VVNaSDQyem1HV25B0gG6AUFVX3lxTE5zVS1fSWNIYkxHdGlILXdYc2ZIVnZsdGwteTZkakltS09VMEJrQTJ6dXNBODFvMlBiQ2t4SXJad0hPOTJsR2p1ekFpX1NEWlFwNGltTmNvc0RNQXN2cEhQZTZCR3dWMERKYXJPdmtXUzlzX01KdlNhV0wtVVQzSC1RMktXeTdyN085QjlBWUpvUkJ4TmZXUkhnY00zdk5YdjdsQ3NTRUtnb2tTaml5Q1FwY1BXUlJJa3BBdw?oc=5
+- Australia Puts India In 'Highest-Risk' Tier For Student Visas. What It Means - NDTV
+  Australia Puts India In 'Highest-R
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbkl2TS1YbUNlQlpEU1VRQzQyaHlERDRIZDlwT1Yxa1ZGWEJoYnlyeGRpSXBYRWJsRFdJa2xEZEtpalRIQzR3NUtLVHdDV2tzNEhMMHdySTNTbWhMN2F0a2ZRb2tRRDk3dlFaZHV6aHphYWtJeEdXZ000REVMckwtWklLa2FxRjZ4ZG9HT3lQOTdlZGVrTGFodUU2clhuTDlMSUdoT2ZONlVEenQ1REY1VFhwR3XSAbwBQVVfeXFMTnNpZVlTZUUxTXhYbnREZzVzbTBQNVFXdDBURHNaVF9fNHF6Zi1wV1B3c1hjaUxZZ2kxSU5CdW9vd3ZRMzgtMHFCMnZCTUNHRDhKTFp2cUxmeWRIMHl3cEtnQWhrT084SEM3THZaR1VJSmJiNm4zdEp0S3JCVFJBMExON3JZQVBuRGl0SlhjbFpJUXhKdjEyOW5sek8xM1dFUVZJNDVzd0FDN0dFV01uUzVhR285eDJxY1ZqMjc?oc=5
 
-- 'Send your wife, kids back to India': JD Vance faces backlash for calling mass migration 'theft' of American Dream | Hindustan Times - Hindustan Times
-  'Send your wife, kids back to India': JD Vance faces backlash for calling mass migration 'theft
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTWNtSFN4THA0Nzc3Vmx3eXBvRmowQmR3TkV4dlcwNmN0WDRSY3lYa0hwLUxWd0JVajZQQ1otYTZpMnlIS3RRRDR1Q3hZUmpmZE9XUkNGUF8xZUtYTXFydkxQX3F4ZDB1b1Vwb0c5RGJkcDVjMFVWdF8wU255enJ2ZzdXaUxOV3Y1cGlUbDFTMU1JYi1aMlpyWHh5eklDbGVwWk9fWk9OSjY2NlNTOUFvdTA3SkFaTDdINTUwaUdOZ3BYZUFDeTdJbDVmRTJsSnd5UjFueWpHQmxHQUtSTU1UcERkTzBpd3NWbnBzT1dMcnBTUFBPRi0wRjBWemxDQ3NfX3RXMEpjTHdsbGfSAZACQVVfeXFMTVpxYV8wbkJpcml0b0txZDJtaVBaaU04bF9ESVRNeEdNMm90N0JTWl9tWVhCc2xTWXFjU3VJMF9uck1IaS13NWdzUWZtakdLNElpYnQ3SjBBWU1ZUFMyR1JGajhqZWNPV2FSbGdBU3dUQnlZTkdJRzNqU2J5bFowMnlaUHJub25xMS0yZmdHLTRWd1JKSDYyMnFmT01lbEdKNEFTWWdHaDFLeXQ1UWtIWHNLUkVzSjExU2RRa3FIWm5Zb014bEZablgxMTNxQ2pUUEVCUE12cmJqVENMbllBMnVGeU1ZV0Z5QUV6eDFmZEdaV01WcUVBUHRpY080SmVqNkU2TERhWURudTRUT3JlTHE?oc=5
+- Good News For Modi Govt: नहीं रुकेगा भारत... ट्रंप का टैरिफ भी धुआं-धुआं, विदेश से आई ये गुड न्यूज - AajTak
+  " target="_blank">Good News For Modi Govt:  "
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa1JHSnRaNDhTUTdZVDk3UlJnU003bjJNSE90Y2M3QldHTlRMMGpKS2huaEZhaWYwakhlSHU5TVA2MS1mXzhyX0xONk1hOE5GcEZMS2pMNmFyOUdGT0IxZl9KOE9BX2hTU0IxNlBqX2FCYWpVd3Y1eWFXc2laT0pHZG5IenpMQnJSMEtzbmNHNWlRU2REbElfdmZoWXBWSWxVTnFCdHBoQVM0cEtOVXpkS3FJbW1oMFNLTzJ4VTNGX2RCTE13Nm1zdk81LVY3M3pfNFNVeUJwa2FIT2FVRlI3eVcycXB6Xy1yLXlTRXNNbkxMQdIB9wFBVV95cUxOV3BPcG52S1U0SmpfejZ4TS1aNE5EWWkwWk9qYk5VNXNPby1xWkhzRzNxbmdJdUxqZDdnU3lSU1dmZHRFdHBRbTktWnZLUzdyS1Z2bjZhRlBzY2RTR2xmS1dDRVJOUkloNFUtNElGRW5tT01NeHJpVzBoU1QwNHBiWWljRXc1WWZmalpXdndSQ1VlQXVBTFBGRXIwUHdHRll2QmtnRF9uZUdqc21ubm9wU3BnZWxZSDVwMW9idkdWWnNnYXI1cGsxamxLc2ZpaXNtRTJQTEFnMmluelpFSG9GaUpQNWpqenRGeWo3TnlveVpOZnFaZDQ0?oc=5
 
-- Belgium's Supreme Court rejects Mehul Choksi's appeal against extradition order - India Today
-  Belgium's Supreme Court rejects Mehul
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOXEtWlUwdG16ZzRTVzJBek54Mk5iT0d1dWxlOWplaXc0NF9VZFc2V2RHc2RUZTUzdk5ZVHlPaUlKUF9GMWhlZHlFc0htcmdxdTRkUEQ1Mm15SlBoNGV6MnVRSGpzYWtNUTJqdjRqamxodzUyYWRYWVZkWHlaS2Y4XzNKUE5SNHpPUWNuM0NEN2E5NEI2ME1JZjhBTlFTMG9wUUp4dk9HaWVfRFI5RW5NemhoZFdqX2RXWXJYcFpSWUFnMzhYaElCSWJ2QmFrMTRwN3U1VnhFN0xJdnpCMzEyRmdGMzFDNHV0dGNSOVgtONIB9AFBVV95cUxPT0RJVmtoVTVVSDBTWVB0UUNyMDhCRHEtX0t0N1g1WVZWMXo0dks3TEpRbkc4bkhRMURHQ0FFYjJCaGlUTjlpY0FubDJQY0Y4SG1CYWZHcWU4clZickxLVEJOLW51czBPUkdYX0c5UHZxSk0tWkhfXy1iRnJRV1VyUklINzVKaHBiRkVMWWotYnplN2ZKUEUxYW5EQzVhMGVVMEM4Y3hTaDQwRlJhYkxXTy01MElrTkxCaUxCVFNNRUpONkY2MF93N3JZazYxTHhKbDBpS1p6UHpUYjRSMEVIeE9mRzQ5VU9JWDZDam5lb056Q0Zs?oc=5
+- "Trump May Visit Next Year": US Says No Country More Essential Than India - NDTV
+  "Trump May Visit Next Year": US Says No Country
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWVQUjF1WGh4RS1ESW9ZbEpzM1VaZlQ0Y1o2MUhMeDF6QTZrLTZXSEpuS29nbEh4VXdWMXRtQ0dKQ1ZCYWxURVV0X2R3NW5JRDdkRTJOV2hwajJQYVQ3cDl4R0pvOGpiN09hZl9HTXZJeXYzLVJ6cDJRV1UxRXV3ak5XSnZTU2IyYzV1c0gtZHVMQTJKNk1VLVI0S1BtM1E1R1V5WjFFMGFldWVQSFRIetIBuAFBVV95cUxQd3prNzFEdTdlMm16QjY2QTNGVXZVVnBXVEFocHQ0cHVPd2ZHZE5ZVGUwLVJWclZsdE55Nmhfc00yUGdxdEEtclZoenJOMDRUdC11TEdFV3BISUlIeU5EekdzT3lEZDk0WmZobktEazB5N0lTcy0tY196ZDB0WlZZcjYyQWhHM2VzajZBUW9mN2JxUUkwSHUtdFdlNVFFMi1VMTNYUjVRWUs4U19KeDlBMjgwRG1qSmhH?oc=5
 
-- Mehul Choksi's Appeal Against India's Extradition Request Rejected By Belgium's Supreme Court - NDTV
-  Mehul Choksi's appeal against India
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxORThSWEtsZ2ZWaTRTSTRVcEZRb3ZRNS1KT1NQYXlEMW1vNG1qSUJ4ZTlLTE9DTXhUYktVZjg5ZE8wUlJFZjYxOGhlamJFWFBjdkpvLXBCM0c4aGwzaHU3QUJ6eE5KUUNFZGE1aVFtYzVLUzhWU3lYSmpjV0xXM09WcXh3QlhvZHlRMTBHczVLcUhsdXVTR2Y3OTJaM21YR1k1SDU2eGlpUElYa0dENi1YcjJvLUlUMEVEVXdtOG13dUV6ZjNBanI5RlZR0gHSAUFVX3lxTE1IakVjUDBla0E4OURuUzE0TU5vSHBuR2dlMzFtZUtSX1BMVV8wZTMwczZ6QUU3ZGdvVENsaEEydTBDbmFWM1ExVF9ObzZtTXFlTE1pOGNZWnl4aWxEelExeTBwdHdmaFpMNDN0V3dzNWx0dTRxdXJXcllkNTZkSEdxN1c2TGstdnhtLV80UUVqYl9UNzRXSEVEbmd2UFdtMEV2enAyNEJSMjF6X05iRzZwaUpQWFBodmllYnFJTTdteEdYMXNUUE9TNU9SQzlpd1p4QQ?oc=5
+- Marco Rubio Talks To Jaishankar On India-US Trade Deal Talks, Congratulates On Enacting Nuclear Bill - Times of India
+  Marco Rubio talks to Jaishankar on India-US Trade Deal Talks
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPb0FMeFU1VTkwTVhDZlVCY29kOGg4OHdab2hYN1VYNE5fX1gxQURWVl9SdkVHZFhsY0ZWTGRWVl9xRlJOSDktLVhWWk5MQmhtVjhsSnhEZTFYaDFaMmdXUFowRUFyM0hkeVg4WWZ3UldaNDJVV3dlMHlrVHR6dFQ0dGJVU0xJQmtKSWk2T0R2Qlk3aWhBd0tqUTllckxWQ2FSdWFnYjFlQmJyTmxEcFlVc0R3dndiN2lVVUJqZVlELVYwMUQ5V25fLUpmdnRPc2EwOHBJWXd0bXJnWG9vQ01DTi1SLURIRlBNRDRlSXRfZ3pYYTdid2Rka0I5V1pnNVVo0gGGAkFVX3lxTFBOdmlxMkZwVVpxZGktLXlJOFBTSXRDbmZsamJCckJmdHlOUHdHTEViQkNNNTZJZzZ4N0dUVDJtRUl1bDlYcl9tb3BUQlRxOVh5TjdEcXVPWkZrZEFDdDY3RVlFNnJnT0lnX2VNb1V5aTA1V0NlSUxGcXlvMEtWbDJ5cVMtT0lRZ2NZc0pLdzZ2R2paOU9STEotRWNBTXRXN09WM3ZpSkNBelBuaXNBQ1lNek8xSFBXNU05Um4tWmRNUVVOYUtNNGN6dWF6WWE5c3hFdUhXTkU3VnQyQ0N5Y2hYdVU3cVlLX1N3SUI1N3lFYU5vZWdWc1g5WGozR0JuYVdXeHlzZ3c?oc=5
 
-- Belgium's Top Court Rejects Mehul Choksi's Appeal Against Extradition - News18
-  Belgium's Top Court Re
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxORER5WXNyMDFkU0hWTC1xbnpyWU82d0d6bGVaaXdWOXBiSWFvSjRGdURwMkJwRm4zNS1fb2tzX213TmdPZ3RZcF91RFN2V05KQzhMYk80bkNWa253aFpUWE5qT3c0M1pOQVRmSTBFbmFyQnJ0SGFJaldFVjNhaWxtLVh0cTg3RjBCTk9YbXFMeXdDYWVNWEF0NGQ0dXRUaUgtd3A4cUxNeFJhaXoxZTRmbTQzQdIBuAFBVV95cUxQM3hFcnBJVzVzTmp3ZGp2QzJkWkRHcWM1el9HbFFYWVltM05kYlV0MW1ubmw2LXVkcXl0VDhHVXgwUEUwRENEXzlheHpBcVR6dGN6djFhRE5ud1FSRE5pZmw3MlBpTlJfWXBkZWQzVEhmUWlUd1h3SnZjY3dXcndFTGQyYUFOV3YzWjlfMFQwVUZMLUN3Tzk2WDlQMHY1TTRsal9OaXhyVW5vWXlUZWlTTUdydFg5dnNv?oc=5
+- As US burdens India with 75% tariffs amid Iran tensions, Shashi Tharoor expresses concern, calls situation ‘troubling’ | India News - Hindustan Times
+  Shashi Tharoor expresses concern, calls situation ‘troubling’
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQMlIzWVhLTHU5dVoyZTFySGd5QmpXTURlWWgwQ2FDRzMzMWxMSDZTMDFuWWJKV1NocXBmQTVMNHQwLXg1SkUzbEpDalByeFBST0t6X2VYOHN4NzZsSkkwNFVWdW9zc2E2c3ZkdnNlbWFHUml5SFFEZWNsVXlDd1RwM0hIOXdLcGlodWl0NDZrYnZaenEzRGNDQlo0eE44UHl4c1c3VnFPcVU0ZFJQZFMzVWlDRDh1TThmUUZ1bUNwREk0WUlPSktWczVWR3RMRFc0d211NzRDUlpkbjlhTloxUFFudU1iZXJPWDVuTDEtTGdueThiNzFrSmNOdXZ3YzZLVlNGNUJJMNIBjAJBVV95cUxONW9QUEdTcXFvekNCNlJKeW5zXzdsY2N6NTNRemlObmxHbmRSS3MzeEpmeGNBVXo3d2VIVTVvUlhRcUthZ2JrSHlpMzRwRDNDTWRENUM1NTVxalpNWTRyYmExZ3FacG9FLUZqZmVubXdpeXhYd0prR25WeVRTc1JjRnVXYS1nQktxUzBZd0I4WUl2N01QVW91Vi1wODlUejE1QmcwaTNta0JhOVk0Zk8wNUpfRDNWck4wbmxBdmZ0ak1SMTB6NWY5elB6Zl8yX1ladUhNc0IwOGFSdkFubHlOOEpjQlQzQnRwaUlOMFk4OUp2MUVPb2U1OTVGbHFMbEtGUlp5V0FHUGlwV2Jw?oc=5
 
-- Trump Warns Of New Tariffs On India, Says They Should Not "Dump Rice" In US - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNTV9QS0RZeFFaYmsxdVdCdjhONlYtVXlFdFloV0prM0txRzNoSkl6Qm93cE9IN1dVRjZyZlBLank1eTRnUXR3eDRzNEpKZHBKZGwtNkdWQURLMmVlUURFSV9kREQyZFAwYV
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNTV9QS0RZeFFaYmsxdVdCdjhONlYtVXlFdFloV0prM0txRzNoSkl6Qm93cE9IN1dVRjZyZlBLank1eTRnUXR3eDRzNEpKZHBKZGwtNkdWQURLMmVlUURFSV9kREQyZFAwYVN2U1BwWkIwQTBkcnRQWDV0RTl5NFV0c1dURnFtUGRWRDZQcnUxUFVPbEptT3pqY3ZwT3VXMTQ2T0NQWEw1VVNaSDQyem1HV25B0gG6AUFVX3lxTE5zVS1fSWNIYkxHdGlILXdYc2ZIVnZsdGwteTZkakltS09VMEJrQTJ6dXNBODFvMlBiQ2t4SXJad0hPOTJsR2p1ekFpX1NEWlFwNGltTmNvc0RNQXN2cEhQZTZCR3dWMERKYXJPdmtXUzlzX01KdlNhV0wtVVQzSC1RMktXeTdyN085QjlBWUpvUkJ4TmZXUkhnY00zdk5YdjdsQ3NTRUtnb2tTaml5Q1FwY1BXUlJJa3BBdw?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- 'Send your wife, kids back to India': JD Vance faces backlash for calling mass migration 'theft' of American Dream | Hindustan Times - Hindustan Times
-  'Send your wife, kids back to India': JD Vance faces backlash for calling mass migration 'theft
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTWNtSFN4THA0Nzc3Vmx3eXBvRmowQmR3TkV4dlcwNmN0WDRSY3lYa0hwLUxWd0JVajZQQ1otYTZpMnlIS3RRRDR1Q3hZUmpmZE9XUkNGUF8xZUtYTXFydkxQX3F4ZDB1b1Vwb0c5RGJkcDVjMFVWdF8wU255enJ2ZzdXaUxOV3Y1cGlUbDFTMU1JYi1aMlpyWHh5eklDbGVwWk9fWk9OSjY2NlNTOUFvdTA3SkFaTDdINTUwaUdOZ3BYZUFDeTdJbDVmRTJsSnd5UjFueWpHQmxHQUtSTU1UcERkTzBpd3NWbnBzT1dMcnBTUFBPRi0wRjBWemxDQ3NfX3RXMEpjTHdsbGfSAZACQVVfeXFMTVpxYV8wbkJpcml0b0txZDJtaVBaaU04bF9ESVRNeEdNMm90N0JTWl9tWVhCc2xTWXFjU3VJMF9uck1IaS13NWdzUWZtakdLNElpYnQ3SjBBWU1ZUFMyR1JGajhqZWNPV2FSbGdBU3dUQnlZTkdJRzNqU2J5bFowMnlaUHJub25xMS0yZmdHLTRWd1JKSDYyMnFmT01lbEdKNEFTWWdHaDFLeXQ1UWtIWHNLUkVzSjExU2RRa3FIWm5Zb014bEZablgxMTNxQ2pUUEVCUE12cmJqVENMbllBMnVGeU1ZV0Z5QUV6eDFmZEdaV01WcUVBUHRpY080SmVqNkU2TERhWURudTRUT3JlTHE?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Belgium's Supreme Court rejects Mehul Choksi's appeal against extradition order - India Today
-  Belgium's Supreme Court rejects Mehul
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOXEtWlUwdG16ZzRTVzJBek54Mk5iT0d1dWxlOWplaXc0NF9VZFc2V2RHc2RUZTUzdk5ZVHlPaUlKUF9GMWhlZHlFc0htcmdxdTRkUEQ1Mm15SlBoNGV6MnVRSGpzYWtNUTJqdjRqamxodzUyYWRYWVZkWHlaS2Y4XzNKUE5SNHpPUWNuM0NEN2E5NEI2ME1JZjhBTlFTMG9wUUp4dk9HaWVfRFI5RW5NemhoZFdqX2RXWXJYcFpSWUFnMzhYaElCSWJ2QmFrMTRwN3U1VnhFN0xJdnpCMzEyRmdGMzFDNHV0dGNSOVgtONIB9AFBVV95cUxPT0RJVmtoVTVVSDBTWVB0UUNyMDhCRHEtX0t0N1g1WVZWMXo0dks3TEpRbkc4bkhRMURHQ0FFYjJCaGlUTjlpY0FubDJQY0Y4SG1CYWZHcWU4clZickxLVEJOLW51czBPUkdYX0c5UHZxSk0tWkhfXy1iRnJRV1VyUklINzVKaHBiRkVMWWotYnplN2ZKUEUxYW5EQzVhMGVVMEM4Y3hTaDQwRlJhYkxXTy01MElrTkxCaUxCVFNNRUpONkY2MF93N3JZazYxTHhKbDBpS1p6UHpUYjRSMEVIeE9mRzQ5VU9JWDZDam5lb056Q0Zs?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Mehul Choksi's Appeal Against India's Extradition Request Rejected By Belgium's Supreme Court - NDTV
-  Mehul Choksi's appeal against India
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxORThSWEtsZ2ZWaTRTSTRVcEZRb3ZRNS1KT1NQYXlEMW1vNG1qSUJ4ZTlLTE9DTXhUYktVZjg5ZE8wUlJFZjYxOGhlamJFWFBjdkpvLXBCM0c4aGwzaHU3QUJ6eE5KUUNFZGE1aVFtYzVLUzhWU3lYSmpjV0xXM09WcXh3QlhvZHlRMTBHczVLcUhsdXVTR2Y3OTJaM21YR1k1SDU2eGlpUElYa0dENi1YcjJvLUlUMEVEVXdtOG13dUV6ZjNBanI5RlZR0gHSAUFVX3lxTE1IakVjUDBla0E4OURuUzE0TU5vSHBuR2dlMzFtZUtSX1BMVV8wZTMwczZ6QUU3ZGdvVENsaEEydTBDbmFWM1ExVF9ObzZtTXFlTE1pOGNZWnl4aWxEelExeTBwdHdmaFpMNDN0V3dzNWx0dTRxdXJXcllkNTZkSEdxN1c2TGstdnhtLV80UUVqYl9UNzRXSEVEbmd2UFdtMEV2enAyNEJSMjF6X05iRzZwaUpQWFBodmllYnFJTTdteEdYMXNUUE9TNU9SQzlpd1p4QQ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Belgium's Top Court Rejects Mehul Choksi's Appeal Against Extradition - News18
-  Belgium's Top Court Re
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxORER5WXNyMDFkU0hWTC1xbnpyWU82d0d6bGVaaXdWOXBiSWFvSjRGdURwMkJwRm4zNS1fb2tzX213TmdPZ3RZcF91RFN2V05KQzhMYk80bkNWa253aFpUWE5qT3c0M1pOQVRmSTBFbmFyQnJ0SGFJaldFVjNhaWxtLVh0cTg3RjBCTk9YbXFMeXdDYWVNWEF0NGQ0dXRUaUgtd3A4cUxNeFJhaXoxZTRmbTQzQdIBuAFBVV95cUxQM3hFcnBJVzVzTmp3ZGp2QzJkWkRHcWM1el9HbFFYWVltM05kYlV0MW1ubmw2LXVkcXl0VDhHVXgwUEUwRENEXzlheHpBcVR6dGN6djFhRE5ud1FSRE5pZmw3MlBpTlJfWXBkZWQzVEhmUWlUd1h3SnZjY3dXcndFTGQyYUFOV3YzWjlfMFQwVUZMLUN3Tzk2WDlQMHY1TTRsal9OaXhyVW5vWXlUZWlTTUdydFg5dnNv?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2025-12-09 18:28:35 UTC_
+_Last updated: 2026-01-14 18:31:52 UTC_
