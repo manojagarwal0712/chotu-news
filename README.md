@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Cut-off reduced for PG medical seats as 18,000 remain vacant after 2nd counselling
+- 2 journalists arrested in Hyderabad for ‘libellous content against woman IAS officer’, Opp slams state govt
   
-  🔗 https://indianexpress.com/article/india/cut-off-reduced-pg-medical-seats-18000-vacant-2nd-counselling-10473959/
+  🔗 https://indianexpress.com/article/india/2-journalists-arrested-in-hyderabad-for-libellous-content-against-woman-ias-officer-opp-slams-state-govt-10474622/
 
-- In Telangana, mass killing of stray dogs, police action put entire villages on edge
+- Gold Today Rate, January 15: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/telangana-mass-killing-stray-dogs-police-action-villages-on-edge-10473944/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-january-15-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10474591/
 
-- BJP slams Rahul over ‘suppression of Tamil’ remark; says Modi has given highest honour to the language, culture
+- Air India, IndiGo reroute flights over safety concerns as Iran shuts airspace
   
-  🔗 https://indianexpress.com/article/india/bjp-slams-rahul-gandhi-suppression-of-tamil-modi-language-culture-10473918/
+  🔗 https://indianexpress.com/article/india/airindia-indigo-advisory-iran-airspace-protests-closed-flights-rerouted-10474387/
 
-- ‘Well-planned conspiracy’: In Barmer, Congress protests against proposed redrawing of district boundaries
+- Who is Asiya Andrabi, separatist leader convicted by NIA court in UAPA case?
   
-  🔗 https://indianexpress.com/article/india/barmer-congress-protests-proposed-redrawing-district-boundaries-10473910/
+  🔗 https://indianexpress.com/article/india/who-is-asiya-andrabi-separatist-leader-convicted-10474117/
 
-- ‘Stay in the kitchen’: Dayanidhi Maran’s sharp ‘contrast’ between Tamil Nadu and north India sparks fresh political row
+- His govt under fire for Indore water deaths, Madhya Pradesh CM warns Congress: ‘Don’t play politics’
   
-  🔗 https://indianexpress.com/article/india/dmk-dayanidhi-maran-tamil-nadu-north-india-girls-study-kitche-bear-children-10473544/
+  🔗 https://indianexpress.com/article/india/his-govt-under-fire-for-indore-water-deaths-madhya-pradesh-10474115/
+
+- I wore the New Ray-Ban Meta Glasses 2 for two weeks: Here is why they might finally replace your smartphone
+  
+  🔗 https://indianexpress.com/article/technology/opinion-technology/i-wore-the-new-ray-ban-meta-glasses-2-for-two-weeks-10474537/
 
 - YouTube gives parents new controls over kids’ and teens’ viewing habits
   
@@ -36,169 +40,185 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-creator-studio-to-be-launched-in-india-this-month-end-price-starts-at-rs-399-10473118/
 
-- Google Veo 3.1 gets vertical video, improved ‘Ingredients to Video’ and 4K output
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-veo-31-ai-video-generator-new-features-10472800/
+- KKR closes $2.5 billion Asia-Pacific credit fund, deploys more than half across 10 deals
+  The global investment firm’s second performing credit fund targets senior lending, capital solutions, and
+  🔗 https://www.livemint.com/companies/news/kkr-closes-second-asia-pacific-private-credit-fund-with-2-5-billion-corpus-11768450101265.html
 
-- Infosys beats revenue estimates in Q3, sees demand recovery gathering pace
-  Infosys Ltd exceeded revenue expectations for the December quarter, reporting $5.1
-  🔗 https://www.livemint.com/companies/infosys-beats-revenue-estimates-q3-sees-demand-recovery-gathering-pace-tcs-hcl-11768394990415.html
+- Military surveillance–the new lucrative front for India’s space startups
+  Pixxel and Digantara target at least half of their business by launching satellites. Experts say private startups can't simply piggyback Isro.
+  🔗 https://www.livemint.com/companies/start-ups/military-surveillance-lucrative-front-for-india-s-space-startups-pixxel-digantara-skyroot-11768403572574.html
 
-- Air India partners with Saudia for codeshare agreement, effective February – what should passengers expect?
-  Air India and Saudia have signed a codeshare agreement to enhance travel benefits for
-  🔗 https://www.livemint.com/companies/news/air-india-partners-with-saudia-for-codeshare-agreement-effective-february-what-should-passengers-expect-11768401496052.html
+- IHG Hotels sets ambitious plan to have 400 properties signed and in operation in India by 2030
+  IHG CEO Elie Maalouf outlines a road map to 400 hotels in India by 2030. leveraging
+  🔗 https://www.livemint.com/companies/news/ihg-hotels-sets-ambitious-plan-to-have-400-owned-franchise-properties-signed-and-in-operation-in-india-by-2030-11768386284307.html
 
-- State Street to buy 23% stake in Groww Mutual Fund for  ₹580 crore
-  The deal will dilute Billionbrains's stake by up to 23%. State Street’s voting power will be capped at 4.99%.
-  🔗 https://www.livemint.com/companies/news/state-street-groww-mutual-fund-investment-india-asset-management-market-expansion-11768395943099.html
+- The Gentari stake sale gets cracking. Will Actis, Macquarie and Sembcorp bid?
+  Global energy majors operating in India have either cashed out fully or are looking to monetise their business. This weaves into the larger playbook adopted by global
+  🔗 https://www.livemint.com/companies/global-pes-strategics-to-bid-for-stake-in-gentaris-india-biz-renewable-energy-actis-macquarie-sembcorp-11768391023831.html
 
-- Japan's SMBC gets RBI nod to open India subsidiary after Yes Bank stake deal
-  Sumitomo Mistsui Banking Corp gets approval of the Indian central bank to open a wholly-owned subsidiary in India. This comes after SMBC's Yes Bank stake deal last year and
-  🔗 https://www.livemint.com/companies/news/japans-smbc-gets-rbi-nod-to-open-india-subsidiary-after-firms-yes-bank-stake-deal-11768383887615.html
+- JPMorgan and Citi Aren’t Feeling the Affordability Crisis
+  Consumer spending is growing, people are saving and investing too, while losses on bad credit cards are falling.
+  🔗 https://www.livemint.com/companies/jpmorgan-and-citi-aren-t-feeling-the-affordability-crisis-11768416797988.html
 
-- Mercedes-Benz will stick to top-end luxury cars even as BMW closes in
-  Mercedes sales in India declined 3% to 19,007 in 2025. BMW closed the gap with 14% growth to 18,001 units.
-  🔗 https://www.livemint.com/companies/mercedes-benz-to-stick-to-its-luxury-strategy-even-as-bmw-piles-on-pressure-11768385766110.html
+- Four stocks where promoters see value despite market volatility
+   2025 saw record promoter selling of over  ₹1.5 trillion. Yet, even as holdings fell across
+  🔗 https://www.livemint.com/market/stock-market-news/four-stocks-where-promoters-see-value-despite-market-volatility-11768453555911.html
 
-- Silver rate today climbs to new peak as US Supreme Court extends Trump's tariff decision. Will silver touch $100/oz?
-  Silver prices at COMEX climbed to hit a fresh all-time high during Wednesday's commodity market session. US Supreme Court decided to extend the decision on US President Donald
-  🔗 https://www.livemint.com/market/commodities/silver-rate-today-climbs-to-new-peak-as-us-supreme-court-extends-trumps-tariff-decision-will-silver-touch-100oz-11768407210288.html
+- Stock market closure for a local municipal election reflects poor planning: Zerodha's Nithin Kamath
+  Zerodha CEO criticises closure of Indian stock exchanges for local municipal elections. Nithin Kamath says it
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-closure-for-a-local-municipal-election-reflects-poor-planning-zerodhas-nithin-kamath-11768455020913.html
 
-- Gold rates today: MCX gold rises  ₹1,350 per 10g, silver surges  ₹16,220 per kg on geopolitical tensions
-  Gold and silver prices reached record highs amid strong investor demand due to Middle East tensions. February gold futures rose to  ₹1,43,
-  🔗 https://www.livemint.com/market/commodities/gold-rates-today-mcx-gold-rises-rs-1-350-per-10g-silver-surges-rs-16-220-per-kg-on-geopolitical-tensions-11768396570184.html
+- Amagi Media Labs IPO: GMP rises ahead of last bidding day. Should you apply?
+  Amagi Media Labs IPO has seen a lukewarm response, with a 13% subscription rate as of the second day. The IPO price band is set at  ₹343-361
+  🔗 https://www.livemint.com/market/ipo/amagi-media-labs-ipo-gmp-gmp-rises-ahead-of-last-bidding-day-should-you-apply-11768453204793.html
 
-- Wall Street declines as investors digest bank earnings
-  The S&amp;amp;P 500 fell 0.7%, the Dow Jones Industrial Average was down
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-declines-as-investors-digest-bank-earnings-11768401069083.html
+- Infosys shares to be in focus tomorrow after Q3 results. Should you buy, sell or hold the large-cap IT stock?
+  Infosys ADR ended 10.45% higher at $19.35. Infosys raised its constant-
+  🔗 https://www.livemint.com/market/stock-market-news/infosys-shares-to-be-in-focus-tomorrow-after-q3-results-should-you-buy-sell-or-hold-the-large-cap-it-stock-11768454184226.html
 
-- Infosys ADR stock jumps over 10% on Wall Street after IT major revises revenue guidance for FY2026 — Details here
-  Infosys' ADR stock price jumped more than 10% after the US stock market opened on Wednesday, 14 January 2026. The IT services major revised its revenue guidance for the fiscal year to the range of 3-
-  🔗 https://www.livemint.com/market/stock-market-news/infosys-adr-stock-jumps-over-5-on-wall-street-after-it-major-revises-revenue-guidance-for-fy2026-details-here-11768400617062.html
+- A laggard no more: Why analysts are betting on Somany Ceramics even after a tough year
+  Somany Ceramics' shares have fallen sharply amid weak tile demand and margin pressure. But brokerages remain bullish
+  🔗 https://www.livemint.com/market/stock-market-news/analysts-betting-somany-ceramics-tough-year-kajaria-ceramics-tiles-11768401221257.html
 
-- Budget 2026: Defence, nuclear and critical minerals sectors likely to get a boost, says Motilal Oswal
-  Motilal Oswal sees scope for an increase in capex in non-traditional or sunrise sectors. Defence and allied industries, infrastructure-linked
-  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-defence-nuclear-and-critical-minerals-sectors-likely-to-get-a-boost-says-motilal-oswal-11768390059632.html
+- One Tech Tip: Californians have a new privacy tool for deleting their data
+  Californians have a new privacy tool
+  🔗 https://www.livemint.com/technology/one-tech-tip-californians-have-a-new-privacy-tool-for-deleting-their-data-11768457084674.html
 
-- Samsung Galaxy S26 could finally match Plus and Ultra models in charging speed: Report
-  The Samsung Galaxy S26 may include 45W charging, a notable enhancement from the previous model's 25W. While the battery and camera specs could remain unchanged, the device is expected to follow
-  🔗 https://www.livemint.com/technology/tech-news/samsung-galaxy-s26-could-finally-match-plus-and-ultra-models-in-charging-speed-report-11768411043269.html
+- Realme could launch the first 10,000 mAh battery phone in India this month: here's what to expect
+  Realme's 10,000 mAh battery phone has received BIS certification. The device is expected to
+  🔗 https://www.livemint.com/technology/tech-news/realme-could-launch-the-first-10-000-mah-battery-phone-in-india-this-month-heres-what-to-expect-11768443707493.html
 
-- YouTube introduces new parental controls and limits on Shorts for teens: How it works
-  YouTube has introduced new tools for families, including limits on Shorts viewing, clearer guidance on quality teen content, and a simplified account setup. Here's everything you need to know on the policy changes.
-  🔗 https://www.livemint.com/technology/tech-news/youtube-introduces-new-parental-controls-and-limits-on-shorts-for-teens-how-it-works-11768407968171.html
+- Google makes Gemini ‘proactive and powerful’ with Personal Intelligence: here's how it works
+  The feature is currently in beta and enables users to get tailored responses and proactive suggestions from the chatbot. Google's Gemini chatbot introduces Personal Intelligence.
+  🔗 https://www.livemint.com/technology/tech-news/google-makes-gemini-proactive-and-powerful-with-personal-intelligence-heres-how-it-works-11768451713329.html
 
-- EA pushes Battlefield 6 Season 2 launch to February: Here's why
-  Electronic Arts has delayed Battlefield 6 Season 2 to February 17. EA says the decision follows community feedback and aims to deliver more polished content.
-  🔗 https://www.livemint.com/technology/tech-news/ea-pushes-battlefield-6-season-2-launch-to-february-heres-why-11768402613325.html
+- Verizon outage leaves thousands of users without signal: When will network be restored? Check latest update
+  Verizon is facing a significant cellular and data outage affecting thousands of customers. The company has acknowledged the situation, apologized, and is working to restore services.
+  🔗 https://www.livemint.com/technology/tech-news/verizon-outage-leaves-thousands-of-users-without-signal-when-will-network-be-restored-check-latest-update-11768444545869.html
 
-- Elon Musk pushes back against Grok AI image abuse claims, ‘It will refuse to produce anything illegal’
-  Elon Musk has dismissed allegations that Grok produces illegal images of minors. He says the AI only responds to user prompts and refuses unlawful requests.
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-pushes-back-against-grok-ai-image-abuse-claims-it-will-refuse-to-produce-anything-illegal-11768401535196.html
+- Verizon outage disrupts calling and data services for wireless customers across the US
+   Verizon outage disrupts calling and data services
+  🔗 https://www.livemint.com/technology/verizon-outage-disrupts-calling-and-data-services-for-wireless-customers-across-the-us-11768424961214.html
 
-- Amazon Republic Day Sale pre deals reveal discounts on laptops under  ₹40,000 from brands like HP, Dell, Asus and more
-  Amazon Republic Day Sale pre-deals reveal discounts on laptops under  ₹40,
-  🔗 https://www.livemint.com/technology/gadgets/amazon-republic-day-sale-pre-deals-reveal-discounts-on-laptops-under-rs-40-000-from-brands-like-hp-dell-asus-and-more-11768313420667.html
+- Stock market today: Dow, S&P 500, Nasdaq retreat as tech leads market lower, banks slide after earnings - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq retreat as tech leads market lower, banks slide after earnings.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZy03VDl3Y3VuYVdJclgzODVDc2tYTjAxZVlybkxMUHJfTlBYTlhtTWJXNDlMQS1LYU45U0piZ3dpb090ajg2MDhydENoX3Jic0RaeklhX0J3RFVadjdsd2Z0cmpWbFM5N3NPMl9EYm1LX1V3OUN5dThHSFVsQ1RNelZmSHlyUGxzLV9LWlEyeW1DQUNpTlRhYlFQWW1NT2ZoV29GbWJCVVpBemhlaUNuMnF0ejJXRUQzTFpUVy0waG1MUmVoUTRNNXVEdEJrdEpFbDBSeWFEZWhPa25OWi1fdmwzOHE?oc=5
 
-- ET Market Watch: Why markets fell today - Tariff fears, FII selling hit Sensex, Nifty
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/etmarkets-podcast/et-market-watch-why-markets-fell-today-tariff-fears-fii-selling-hit-sensex-nifty/podcast/126531646.cms
+- Stock market holiday: Why BSE and NSE are closed on January 15; what investors should know - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikAJBVV95cUxQSEREbkxjVE1YUG4yRXVpM0U5dTB2SF9pdF9KUFR6NkVNczZkWGxkV0xlQkJjZVQ0eE4xamFFbG80eTBrRDFQbkdvdGR0NU4ySXBMVXJiVnVxalNBZ05fX0NlZWotOXIzT2
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxQSEREbkxjVE1YUG4yRXVpM0U5dTB2SF9pdF9KUFR6NkVNczZkWGxkV0xlQkJjZVQ0eE4xamFFbG80eTBrRDFQbkdvdGR0NU4ySXBMVXJiVnVxalNBZ05fX0NlZWotOXIzT2JkMnZteENQVUVaSGdOZlFvREV2cXprZXRkNjF6TmtvNnNyb2lZZThKbDZhT3Z6bjVZUF85UVpERWNhMUo3ZzYwemlwcDNia05IdWhYaEVHa2MxYW44SzNacjBBQ0dPQ05GOTh4QXFJRXpDTWlpQmVBQTdMSGpKUVFOWjhlMGVKTVAzb0ttUnBXdmFPWlNJRmJ3OWhmaDBxZUp0c2hzLVJZV1QwdDRWTNIBlgJBVV95cUxPWUhyd1NzaFFkLTBZRTBqZlZ0VjVEM1RHNklIb1ZEXzlHb3hEMlJTSmV0M2lLbDNmRzlxRndoYV9MeXZkbUJ5MlMweUdpcTRTWkl6X1QtRXRMNUp5SmdoOHJsV0xWUjh0X2lmVDhMMkZEV3UwUF9ueUtTaGE2Rzl5SjNXR3lsbDJEUnlBNlExZ3l1aURMU1pzVENBUDNBTzE3WW1IM0NubWEwbGh3VGlhQ1BQd3lDVHpfVmZsblhzSkxOdzhyNDBmVVBxSTRFUktZSTQ4X3NXQXduY2E5dERUR3VaREhDam1CWEFqdmRIQVBreGhldXg5d01QcEp6QlVtellRUmZaeWZPLWJ2RFRuWkZXUk8xQQ?oc=5
 
-- US retail sales beat expectations in November on holiday boost
-  Retail sales saw a 0.6 percent increase, beating forecasts. This rise signals a stronger start to the holiday
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-retail-sales-beat-expectations-in-november-on-holiday-boost/articleshow/126530375.cms
+- BTC, ETH price news: Bitcoin could lose $96,000 as traders take profits - CoinDesk
+  CoinDesk: Bitcoin could lose $96,000
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNeHRzMy1NVm9aTHV1VzlMdGVMbWdkTkFPbG83WWlDTkdobHBqZl9xdUhOakI4LU1ybjJEZkMxcFZuV0tPazdsVDc4NWRxdXJUXzR5dXBOcjZsQ3l0UU1lUGhCby1EN3VUSzdQOEllNXZ1YTE5RlpLajZ0WUdzYzV6SzZ5US1lSTduVGoxVFZKbUxnRjJUMVpXY2NqT3lxLVRDdlJTZ1lzNm9LbXRjdDV6dkRReXNsUDBDV2I4Z0gyWEhid29jUExpczRR?oc=5
 
-- US bank stocks fall as results, credit card cap in focus
-  US bank stocks fell as investors digested mixed earnings from major lenders. Concerns over a proposed credit card interest cap, which could pressure profitability.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-bank-stocks-fall-as-results-credit-card-cap-in-focus/articleshow/126530025.cms
+- Asia-Pacific markets trade mixed; Bank of Korea keeps interest rate unchanged - CNBC
+  Asia-Pacific markets trade mixed; Bank of
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNTy14dXNHbW5mWXFWWElFemp1S3VxRTRVbDVHODRyUGg5bmNTS3I1MEtwVlpuTl94MVBRMWdpYjZYa20xVWFSdWNpZm9aY1lQbDRNR2tpWmZ6R3kxX19GQlhZMXdoQzJqbmxfV0VTM0RuYlJ5U2FHMVNkNTktNjQ0U1dNcFJ0UG85bVIxWDlvcGtDSmdFUXRQWU9ycUxlUXZRaHNXZ0VTTnp0QzU4ZWFEd21R0gG3AUFVX3lxTE1qU3Y5SlI1WkhwbzhOUEJzYmZfemlJSWZUeVlzWjdvQUlrRklsb2dKXzVxRTRwd2dpeXZBZS14LXdhZ3RjTjg1S2lmYWV5WmJQNDZNejdQYWZvR2hNbFp6VDlLeElfZlRTbXlRVV9ET3hYY2U5eG94M3lCcWdHQ0tqOEdCdW8ybXhQWGphanA1YWxINmxZNUxLZ2dfbWc5MjlpX1lqT3RMMDBwbS1uX3BsNDZrSjlGdw?oc=5
 
-- US Fed's Neel Kashkari says it is 'way too soon' to cut rates
-   Minneapolis Federal ‍Reserve President Neel Kashkari did ​not want to cut interest rates last month. He sees no need to cut them any time soon given labor market resilience
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-feds-neel-kashkari-says-it-is-way-too-soon-to-cut-rates/articleshow/126529869.cms
+- Stock markets extend losses for 2nd day; Sensex drops 245 points - The Hindu
+  Stock markets extend losses for 2nd day; Sense
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjVaTjhvb0FvX0ZHXy1MVDdVUTBlNGFZYzFKUm1wTEowRWMyUVJybDdlQUpGRXVaWG1uaXBxZldweDhqamZHUk5rQ1U3UFhQaXlxTTV0d3ptTDROMll6eWZFWXVvNFBoOTc3NjBHQWEzZU9PVUFZTTVUbDdJQVQ0OU9QQnN0V2JnNkVuWU43a3BxdTZqYm5WaUdnYmwwMF9NeDdJd1RnWWpXM0hucUppSEVmM2tGeUIzS3RCYXVNbnQwR2vSAcoBQVVfeXFMT3FhUDh4cWNreWZadzZGTEVjMFdBNTdLRUlweUV5UUpJUTB3d3dFR2tqdTZ4QjUzdEwyc1d2TVhDMUJsdDVYZGdEclNPbDVyT0dydUY5VVhQcV9qZDVTeFRGdGpiVGR2NmFVdk5UMUZVSFBvdXpCZ1JubHl1ZTl3S2JxWnhvcGEwWkZyR1B1NHFPSDV1UWt1Nk15R0dLYmx3NWVzanpmbk1jQm9iVUNheEROWEhXWUEzcUVfdU9lM29ZcnRYb1RLSUgydw?oc=5
 
-- Infosys ADRs fall 2% as Q3 profit dip, margin pressure offset guidance upgrade
-  Infosys ADRs fell as December-quarter results showed modest profit decline and sharp margin pressure. However, strong revenue growth and an upgraded FY26 guidance reassured investors.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/infosys-adrs-fall-2-as-q3-profit-dip-margin-pressure-offset-guidance-upgrade/articleshow/126529822.cms
+- China Vanke seeks 90-day grace period extension for 2 billion yuan bond
+  China Vanke is seeking to extend the grace period for a 2 billion yuan bond repayment. The developer also proposed a one-year deferral, using project receivables as credit enhancements.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/china-vanke-seeks-90-day-grace-period-extension-for-2-billion-yuan-bond/articleshow/126539855.cms
 
-- Australia Puts India In 'Highest-Risk' Tier For Student Visas. What It Means - NDTV
-  Australia Puts India In 'Highest-R
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbkl2TS1YbUNlQlpEU1VRQzQyaHlERDRIZDlwT1Yxa1ZGWEJoYnlyeGRpSXBYRWJsRFdJa2xEZEtpalRIQzR3NUtLVHdDV2tzNEhMMHdySTNTbWhMN2F0a2ZRb2tRRDk3dlFaZHV6aHphYWtJeEdXZ000REVMckwtWklLa2FxRjZ4ZG9HT3lQOTdlZGVrTGFodUU2clhuTDlMSUdoT2ZONlVEenQ1REY1VFhwR3XSAbwBQVVfeXFMTnNpZVlTZUUxTXhYbnREZzVzbTBQNVFXdDBURHNaVF9fNHF6Zi1wV1B3c1hjaUxZZ2kxSU5CdW9vd3ZRMzgtMHFCMnZCTUNHRDhKTFp2cUxmeWRIMHl3cEtnQWhrT084SEM3THZaR1VJSmJiNm4zdEp0S3JCVFJBMExON3JZQVBuRGl0SlhjbFpJUXhKdjEyOW5sek8xM1dFUVZJNDVzd0FDN0dFV01uUzVhR285eDJxY1ZqMjc?oc=5
+- Fixed income in focus ahead of Budget 2026: why bonds are back on investors’ radar
+   Fixed-income markets are back in focus ahead of Budget 2026. Investors track fiscal consolidation, stable sovereign yields and global rate volatility.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/fixed-income-in-focus-ahead-of-budget-2026-why-bonds-are-back-on-investors-radar/articleshow/126539849.cms
 
-- Good News For Modi Govt: नहीं रुकेगा भारत... ट्रंप का टैरिफ भी धुआं-धुआं, विदेश से आई ये गुड न्यूज - AajTak
-  " target="_blank">Good News For Modi Govt:  "
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa1JHSnRaNDhTUTdZVDk3UlJnU003bjJNSE90Y2M3QldHTlRMMGpKS2huaEZhaWYwakhlSHU5TVA2MS1mXzhyX0xONk1hOE5GcEZMS2pMNmFyOUdGT0IxZl9KOE9BX2hTU0IxNlBqX2FCYWpVd3Y1eWFXc2laT0pHZG5IenpMQnJSMEtzbmNHNWlRU2REbElfdmZoWXBWSWxVTnFCdHBoQVM0cEtOVXpkS3FJbW1oMFNLTzJ4VTNGX2RCTE13Nm1zdk81LVY3M3pfNFNVeUJwa2FIT2FVRlI3eVcycXB6Xy1yLXlTRXNNbkxMQdIB9wFBVV95cUxOV3BPcG52S1U0SmpfejZ4TS1aNE5EWWkwWk9qYk5VNXNPby1xWkhzRzNxbmdJdUxqZDdnU3lSU1dmZHRFdHBRbTktWnZLUzdyS1Z2bjZhRlBzY2RTR2xmS1dDRVJOUkloNFUtNElGRW5tT01NeHJpVzBoU1QwNHBiWWljRXc1WWZmalpXdndSQ1VlQXVBTFBGRXIwUHdHRll2QmtnRF9uZUdqc21ubm9wU3BnZWxZSDVwMW9idkdWWnNnYXI1cGsxamxLc2ZpaXNtRTJQTEFnMmluelpFSG9GaUpQNWpqenRGeWo3TnlveVpOZnFaZDQ0?oc=5
+- Volume Shocker: 6 stocks see over 1 crore MF share additions in Dec’25; rally up to 20%
+  Six stocks witnessed massive mutual fund buying with over 1 crore shares added in December 2025, triggering rallies of up to
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-6-stocks-see-over-1-crore-mf-share-additions-in-dec25-rally-up-to-20/slideshow/126539800.cms
 
-- "Trump May Visit Next Year": US Says No Country More Essential Than India - NDTV
-  "Trump May Visit Next Year": US Says No Country
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWVQUjF1WGh4RS1ESW9ZbEpzM1VaZlQ0Y1o2MUhMeDF6QTZrLTZXSEpuS29nbEh4VXdWMXRtQ0dKQ1ZCYWxURVV0X2R3NW5JRDdkRTJOV2hwajJQYVQ3cDl4R0pvOGpiN09hZl9HTXZJeXYzLVJ6cDJRV1UxRXV3ak5XSnZTU2IyYzV1c0gtZHVMQTJKNk1VLVI0S1BtM1E1R1V5WjFFMGFldWVQSFRIetIBuAFBVV95cUxQd3prNzFEdTdlMm16QjY2QTNGVXZVVnBXVEFocHQ0cHVPd2ZHZE5ZVGUwLVJWclZsdE55Nmhfc00yUGdxdEEtclZoenJOMDRUdC11TEdFV3BISUlIeU5EekdzT3lEZDk0WmZobktEazB5N0lTcy0tY196ZDB0WlZZcjYyQWhHM2VzajZBUW9mN2JxUUkwSHUtdFdlNVFFMi1VMTNYUjVRWUs4U19KeDlBMjgwRG1qSmhH?oc=5
+- Prestige Estates Q3 sales bookings jump 39 pc to Rs 4,184 cr
+  Prestige Estates Projects Ltd reported a significant 39% increase in sales bookings to Rs 4183.6 crore in Q3 FY26. The company achieved record-breaking sales of Rs 22,327
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/prestige-estates-q3-sales-bookings-jump-39-pc-to-rs-4184-cr/articleshow/126539233.cms
 
-- Marco Rubio Talks To Jaishankar On India-US Trade Deal Talks, Congratulates On Enacting Nuclear Bill - Times of India
-  Marco Rubio talks to Jaishankar on India-US Trade Deal Talks
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPb0FMeFU1VTkwTVhDZlVCY29kOGg4OHdab2hYN1VYNE5fX1gxQURWVl9SdkVHZFhsY0ZWTGRWVl9xRlJOSDktLVhWWk5MQmhtVjhsSnhEZTFYaDFaMmdXUFowRUFyM0hkeVg4WWZ3UldaNDJVV3dlMHlrVHR6dFQ0dGJVU0xJQmtKSWk2T0R2Qlk3aWhBd0tqUTllckxWQ2FSdWFnYjFlQmJyTmxEcFlVc0R3dndiN2lVVUJqZVlELVYwMUQ5V25fLUpmdnRPc2EwOHBJWXd0bXJnWG9vQ01DTi1SLURIRlBNRDRlSXRfZ3pYYTdid2Rka0I5V1pnNVVo0gGGAkFVX3lxTFBOdmlxMkZwVVpxZGktLXlJOFBTSXRDbmZsamJCckJmdHlOUHdHTEViQkNNNTZJZzZ4N0dUVDJtRUl1bDlYcl9tb3BUQlRxOVh5TjdEcXVPWkZrZEFDdDY3RVlFNnJnT0lnX2VNb1V5aTA1V0NlSUxGcXlvMEtWbDJ5cVMtT0lRZ2NZc0pLdzZ2R2paOU9STEotRWNBTXRXN09WM3ZpSkNBelBuaXNBQ1lNek8xSFBXNU05Um4tWmRNUVVOYUtNNGN6dWF6WWE5c3hFdUhXTkU3VnQyQ0N5Y2hYdVU3cVlLX1N3SUI1N3lFYU5vZWdWc1g5WGozR0JuYVdXeHlzZ3c?oc=5
+- Wipro Q3 Preview: Revenue may rise 4% YoY; margins under pressure
+  Wipro is expected to post muted Q3 performance, with revenue rising about 4% YoY. Brokerages see flat profit growth and limited sequential momentum. Q4 guidance and large deal conversions will be key investor focus
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q3-preview-revenue-may-rise-4-yoy-margins-under-pressure/articleshow/126539218.cms
 
-- As US burdens India with 75% tariffs amid Iran tensions, Shashi Tharoor expresses concern, calls situation ‘troubling’ | India News - Hindustan Times
-  Shashi Tharoor expresses concern, calls situation ‘troubling’
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQMlIzWVhLTHU5dVoyZTFySGd5QmpXTURlWWgwQ2FDRzMzMWxMSDZTMDFuWWJKV1NocXBmQTVMNHQwLXg1SkUzbEpDalByeFBST0t6X2VYOHN4NzZsSkkwNFVWdW9zc2E2c3ZkdnNlbWFHUml5SFFEZWNsVXlDd1RwM0hIOXdLcGlodWl0NDZrYnZaenEzRGNDQlo0eE44UHl4c1c3VnFPcVU0ZFJQZFMzVWlDRDh1TThmUUZ1bUNwREk0WUlPSktWczVWR3RMRFc0d211NzRDUlpkbjlhTloxUFFudU1iZXJPWDVuTDEtTGdueThiNzFrSmNOdXZ3YzZLVlNGNUJJMNIBjAJBVV95cUxONW9QUEdTcXFvekNCNlJKeW5zXzdsY2N6NTNRemlObmxHbmRSS3MzeEpmeGNBVXo3d2VIVTVvUlhRcUthZ2JrSHlpMzRwRDNDTWRENUM1NTVxalpNWTRyYmExZ3FacG9FLUZqZmVubXdpeXhYd0prR25WeVRTc1JjRnVXYS1nQktxUzBZd0I4WUl2N01QVW91Vi1wODlUejE1QmcwaTNta0JhOVk0Zk8wNUpfRDNWck4wbmxBdmZ0ak1SMTB6NWY5elB6Zl8yX1ladUhNc0IwOGFSdkFubHlOOEpjQlQzQnRwaUlOMFk4OUp2MUVPb2U1OTVGbHFMbEtGUlp5V0FHUGlwV2Jw?oc=5
+- Trump aide's 'Modi didn't call' claim, then a Jaishankar-Rubio call. What next for India-US trade deal? | India News - Hindustan Times
+  'Modi didn't call' claim, then a Jaishankar-Rubio
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSk1hckhzNENVV2U5M1BKSzk3aW9nUElGMnp1QUhQUnhHUV9YSjdRRVhyM1RhNXhiLW5IaTdLSHVsd2JwWUNOTnFKXzRyM3dWckVKWGlnN2lfMXpYemx0N2hmUHdPY3dvMDhwWGlxTWZ3VEZONjFhQ3dCS1p6UzRvU1BFaTVfVVRublN1NUo4aHRHNC14UjdkNXI4VmdhNU9hRW5NQmwycUlNM0ZGOTJVOWZISmhzSWNjSXBjOEhRMnlKZUpwQVd5NlZBakF3Q0hydEVmX0NTRnlYcHl0RjJNeWxDODE5blhheGU5OU5wZDY3TknSAfgBQVVfeXFMT0pQSVk1dVFTWTNBM3MybHIxT0ZUMVBFb09iZ0twZF8tN2J5RE53N2NBY1JxcmEydGYxYkJsdVAtMGw0UzJpODNQLTlQajhoZW5WbTZIZFNoaUhjaXRST1A3TDBQM2VKUUp5Y2FSVHdwMHh0bmpobDdjTDBuX1hBVm9DSkZsbWVWSHotcm9tZ2R0VFdCZ1lRVC01bDdZdFpOM1FzTExXSDdyZ1huTUVDQWNkNm9xbUZfRXdoYWNkM0hLbFh5aWlBaXRRNGtReldMWlUyWXNEZEIyNlFRZjRVNnNUWGhpUEJFamQ0cFE5WVl2LVlFU19LaGY?oc=5
 
-- Australia Puts India In 'Highest-Risk' Tier For Student Visas. What It Means - NDTV
-  Australia Puts India In 'Highest-R
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbkl2TS1YbUNlQlpEU1VRQzQyaHlERDRIZDlwT1Yxa1ZGWEJoYnlyeGRpSXBYRWJsRFdJa2xEZEtpalRIQzR3NUtLVHdDV2tzNEhMMHdySTNTbWhMN2F0a2ZRb2tRRDk3dlFaZHV6aHphYWtJeEdXZ000REVMckwtWklLa2FxRjZ4ZG9HT3lQOTdlZGVrTGFodUU2clhuTDlMSUdoT2ZONlVEenQ1REY1VFhwR3XSAbwBQVVfeXFMTnNpZVlTZUUxTXhYbnREZzVzbTBQNVFXdDBURHNaVF9fNHF6Zi1wV1B3c1hjaUxZZ2kxSU5CdW9vd3ZRMzgtMHFCMnZCTUNHRDhKTFp2cUxmeWRIMHl3cEtnQWhrT084SEM3THZaR1VJSmJiNm4zdEp0S3JCVFJBMExON3JZQVBuRGl0SlhjbFpJUXhKdjEyOW5sek8xM1dFUVZJNDVzd0FDN0dFV01uUzVhR285eDJxY1ZqMjc?oc=5
+- Germany Announces Visa-Free Transit For Indian Passport Holders - NDTV
+  Germany Announces Visa-Free
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVFwaFJ0ekRPR0xIUzZEVnVHLXdnM2poOHZsOVg3ZWJrdS1wS1BtRzNkaGRRSTA5d2Jqd0sxTTY1aFdsXzNGdmJBczBkclM4Z0pYUUVHZ3BhMlU2MFJNcTNueUxKRG1VcEllbThTcWJNcDRIc1FMbmV1bVkyazd6SkcxcmxKSEcxcTJ4Ul9pZ0ZrRDYtdUtPWnkySWZRdmpPMzBGSlhrb9IBrwFBVV95cUxQaWQzbUMzcGd1SmxuTlNCanVMUlRxaUhJMy1ZTWV3NnlSTlRLSHpfcWRzeTlTZEhQejczLVlYb0xqakVEUUpqanVJYXRoS3ZxNEpHM2ZTQURhU2c4c05KRTY2bWlDcGdRSHNObkJlNUFUUl8zcWctN1VIR1EtUVczSGg0emt2eVhXOU5lVkNQSEJRQnI5dnF2ZWJVb044eVJpalVWMXdRX3V0RVRCRkVF?oc=5
 
-- Good News For Modi Govt: नहीं रुकेगा भारत... ट्रंप का टैरिफ भी धुआं-धुआं, विदेश से आई ये गुड न्यूज - AajTak
-  " target="_blank">Good News For Modi Govt:  "
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa1JHSnRaNDhTUTdZVDk3UlJnU003bjJNSE90Y2M3QldHTlRMMGpKS2huaEZhaWYwakhlSHU5TVA2MS1mXzhyX0xONk1hOE5GcEZMS2pMNmFyOUdGT0IxZl9KOE9BX2hTU0IxNlBqX2FCYWpVd3Y1eWFXc2laT0pHZG5IenpMQnJSMEtzbmNHNWlRU2REbElfdmZoWXBWSWxVTnFCdHBoQVM0cEtOVXpkS3FJbW1oMFNLTzJ4VTNGX2RCTE13Nm1zdk81LVY3M3pfNFNVeUJwa2FIT2FVRlI3eVcycXB6Xy1yLXlTRXNNbkxMQdIB9wFBVV95cUxOV3BPcG52S1U0SmpfejZ4TS1aNE5EWWkwWk9qYk5VNXNPby1xWkhzRzNxbmdJdUxqZDdnU3lSU1dmZHRFdHBRbTktWnZLUzdyS1Z2bjZhRlBzY2RTR2xmS1dDRVJOUkloNFUtNElGRW5tT01NeHJpVzBoU1QwNHBiWWljRXc1WWZmalpXdndSQ1VlQXVBTFBGRXIwUHdHRll2QmtnRF9uZUdqc21ubm9wU3BnZWxZSDVwMW9idkdWWnNnYXI1cGsxamxLc2ZpaXNtRTJQTEFnMmluelpFSG9GaUpQNWpqenRGeWo3TnlveVpOZnFaZDQ0?oc=5
+- Is it the end of the line for one of India’s most distinctive garments? - The Guardian
+  Is it the end of the line for one of India’
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDdTeXhZNTlGZGs5RTFjX0JyS1NlYzdCRzVSOXVyVjEwcUh2Um5UV3hDclJVLUlrMXpYNzNiclhQZVB5cHB2N3NZOUoxVENPLVg1QXRNdDlfUGxsMTR6MmpNSlBWU0Z4RnR0TkplcFE2VjR1NjhVYURMc1FDMUozS2tDQkZ0T0tnaXZJY0dzWHBycDhQd3AxWmRwODV2MXVMaDhJM3JabE1zNy1CSXlxcjlNSDZXZw?oc=5
 
-- "Trump May Visit Next Year": US Says No Country More Essential Than India - NDTV
-  "Trump May Visit Next Year": US Says No Country
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWVQUjF1WGh4RS1ESW9ZbEpzM1VaZlQ0Y1o2MUhMeDF6QTZrLTZXSEpuS29nbEh4VXdWMXRtQ0dKQ1ZCYWxURVV0X2R3NW5JRDdkRTJOV2hwajJQYVQ3cDl4R0pvOGpiN09hZl9HTXZJeXYzLVJ6cDJRV1UxRXV3ak5XSnZTU2IyYzV1c0gtZHVMQTJKNk1VLVI0S1BtM1E1R1V5WjFFMGFldWVQSFRIetIBuAFBVV95cUxQd3prNzFEdTdlMm16QjY2QTNGVXZVVnBXVEFocHQ0cHVPd2ZHZE5ZVGUwLVJWclZsdE55Nmhfc00yUGdxdEEtclZoenJOMDRUdC11TEdFV3BISUlIeU5EekdzT3lEZDk0WmZobktEazB5N0lTcy0tY196ZDB0WlZZcjYyQWhHM2VzajZBUW9mN2JxUUkwSHUtdFdlNVFFMi1VMTNYUjVRWUs4U19KeDlBMjgwRG1qSmhH?oc=5
+- India shuts Kashmir medical college – after Muslims earned most admissions - Al Jazeera
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2xpU3l2bXZtd3p4Q0JrYkNCU2VmdHFUWmZtb2M5cGNfXzMtUDR0RVBvY3k5OEM1MGQ3Y09DbHZhUmxLWmtLdTNNYW85RUNpWjF4eFAxWHdZWGNTUTlxX05rX01FcGpudkNnME80bXBaU2tXVmVWbllhdU4zUzluSTRQSk9HazlkYnBGd0hhM0gwSE51Y2JNYkVDbFc5Z2dYTmZQaC1tSUNla2wzTnVzcjEySdIBuAFBVV95cUxQVy1tTGR4M08xNGRac3hxRjU1c21LUldSM25ndlRlNkgydHYtUmRRbW5aRUZlanM4RWZmUDJJTXRRVS1FZ25YdUIzb0dIX2psR0FMUm1OT2VkbXZjQ0hlcXdfb29Wd0gwZEdmbFdiTGFjR292ZmNvdVE0QVVvMDZUbzdBYm9SN1FOeVh5R3pudWRHbFlHU0FsVzhOYXcyUFRoQk1fbWdiRGlncE5vcmpadzM5bE80eDBN?oc=5
 
-- Marco Rubio Talks To Jaishankar On India-US Trade Deal Talks, Congratulates On Enacting Nuclear Bill - Times of India
-  Marco Rubio talks to Jaishankar on India-US Trade Deal Talks
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPb0FMeFU1VTkwTVhDZlVCY29kOGg4OHdab2hYN1VYNE5fX1gxQURWVl9SdkVHZFhsY0ZWTGRWVl9xRlJOSDktLVhWWk5MQmhtVjhsSnhEZTFYaDFaMmdXUFowRUFyM0hkeVg4WWZ3UldaNDJVV3dlMHlrVHR6dFQ0dGJVU0xJQmtKSWk2T0R2Qlk3aWhBd0tqUTllckxWQ2FSdWFnYjFlQmJyTmxEcFlVc0R3dndiN2lVVUJqZVlELVYwMUQ5V25fLUpmdnRPc2EwOHBJWXd0bXJnWG9vQ01DTi1SLURIRlBNRDRlSXRfZ3pYYTdid2Rka0I5V1pnNVVo0gGGAkFVX3lxTFBOdmlxMkZwVVpxZGktLXlJOFBTSXRDbmZsamJCckJmdHlOUHdHTEViQkNNNTZJZzZ4N0dUVDJtRUl1bDlYcl9tb3BUQlRxOVh5TjdEcXVPWkZrZEFDdDY3RVlFNnJnT0lnX2VNb1V5aTA1V0NlSUxGcXlvMEtWbDJ5cVMtT0lRZ2NZc0pLdzZ2R2paOU9STEotRWNBTXRXN09WM3ZpSkNBelBuaXNBQ1lNek8xSFBXNU05Um4tWmRNUVVOYUtNNGN6dWF6WWE5c3hFdUhXTkU3VnQyQ0N5Y2hYdVU3cVlLX1N3SUI1N3lFYU5vZWdWc1g5WGozR0JuYVdXeHlzZ3c?oc=5
+- India Open: Sindhu exits; Srikanth, Prannoy advance - Times of India
+  India Open: Sindhu exits;
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNREF6M0hVVEtCVjZIN0lPNTFvTTNpQ3M0b01DRnpQV0VkcFo2X3RESE1hUjdBY3lOVHlyY19aRWo0ZmFiX1NZemFWemxaVGUwZTNKaFNXRUZMeTNFZGc1Q2IyaHlGYUpLX253ckN6VHhHVW0zSGs5RTgtUWR2b1BEaUVBU0FVaGFNVTNuR05LUlpyWkxmbHlURzVXSFVJVURwUU9NUUZWOFhDcDhyMWJmS0pqbEswQzZhdFo5MXJDX0NrZHoybXc?oc=5
 
-- As US burdens India with 75% tariffs amid Iran tensions, Shashi Tharoor expresses concern, calls situation ‘troubling’ | India News - Hindustan Times
-  Shashi Tharoor expresses concern, calls situation ‘troubling’
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQMlIzWVhLTHU5dVoyZTFySGd5QmpXTURlWWgwQ2FDRzMzMWxMSDZTMDFuWWJKV1NocXBmQTVMNHQwLXg1SkUzbEpDalByeFBST0t6X2VYOHN4NzZsSkkwNFVWdW9zc2E2c3ZkdnNlbWFHUml5SFFEZWNsVXlDd1RwM0hIOXdLcGlodWl0NDZrYnZaenEzRGNDQlo0eE44UHl4c1c3VnFPcVU0ZFJQZFMzVWlDRDh1TThmUUZ1bUNwREk0WUlPSktWczVWR3RMRFc0d211NzRDUlpkbjlhTloxUFFudU1iZXJPWDVuTDEtTGdueThiNzFrSmNOdXZ3YzZLVlNGNUJJMNIBjAJBVV95cUxONW9QUEdTcXFvekNCNlJKeW5zXzdsY2N6NTNRemlObmxHbmRSS3MzeEpmeGNBVXo3d2VIVTVvUlhRcUthZ2JrSHlpMzRwRDNDTWRENUM1NTVxalpNWTRyYmExZ3FacG9FLUZqZmVubXdpeXhYd0prR25WeVRTc1JjRnVXYS1nQktxUzBZd0I4WUl2N01QVW91Vi1wODlUejE1QmcwaTNta0JhOVk0Zk8wNUpfRDNWck4wbmxBdmZ0ak1SMTB6NWY5elB6Zl8yX1ladUhNc0IwOGFSdkFubHlOOEpjQlQzQnRwaUlOMFk4OUp2MUVPb2U1OTVGbHFMbEtGUlp5V0FHUGlwV2Jw?oc=5
+- Trump aide's 'Modi didn't call' claim, then a Jaishankar-Rubio call. What next for India-US trade deal? | India News - Hindustan Times
+  'Modi didn't call' claim, then a Jaishankar-Rubio
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSk1hckhzNENVV2U5M1BKSzk3aW9nUElGMnp1QUhQUnhHUV9YSjdRRVhyM1RhNXhiLW5IaTdLSHVsd2JwWUNOTnFKXzRyM3dWckVKWGlnN2lfMXpYemx0N2hmUHdPY3dvMDhwWGlxTWZ3VEZONjFhQ3dCS1p6UzRvU1BFaTVfVVRublN1NUo4aHRHNC14UjdkNXI4VmdhNU9hRW5NQmwycUlNM0ZGOTJVOWZISmhzSWNjSXBjOEhRMnlKZUpwQVd5NlZBakF3Q0hydEVmX0NTRnlYcHl0RjJNeWxDODE5blhheGU5OU5wZDY3TknSAfgBQVVfeXFMT0pQSVk1dVFTWTNBM3MybHIxT0ZUMVBFb09iZ0twZF8tN2J5RE53N2NBY1JxcmEydGYxYkJsdVAtMGw0UzJpODNQLTlQajhoZW5WbTZIZFNoaUhjaXRST1A3TDBQM2VKUUp5Y2FSVHdwMHh0bmpobDdjTDBuX1hBVm9DSkZsbWVWSHotcm9tZ2R0VFdCZ1lRVC01bDdZdFpOM1FzTExXSDdyZ1huTUVDQWNkNm9xbUZfRXdoYWNkM0hLbFh5aWlBaXRRNGtReldMWlUyWXNEZEIyNlFRZjRVNnNUWGhpUEJFamQ0cFE5WVl2LVlFU19LaGY?oc=5
 
-- Australia Puts India In 'Highest-Risk' Tier For Student Visas. What It Means - NDTV
-  Australia Puts India In 'Highest-R
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbkl2TS1YbUNlQlpEU1VRQzQyaHlERDRIZDlwT1Yxa1ZGWEJoYnlyeGRpSXBYRWJsRFdJa2xEZEtpalRIQzR3NUtLVHdDV2tzNEhMMHdySTNTbWhMN2F0a2ZRb2tRRDk3dlFaZHV6aHphYWtJeEdXZ000REVMckwtWklLa2FxRjZ4ZG9HT3lQOTdlZGVrTGFodUU2clhuTDlMSUdoT2ZONlVEenQ1REY1VFhwR3XSAbwBQVVfeXFMTnNpZVlTZUUxTXhYbnREZzVzbTBQNVFXdDBURHNaVF9fNHF6Zi1wV1B3c1hjaUxZZ2kxSU5CdW9vd3ZRMzgtMHFCMnZCTUNHRDhKTFp2cUxmeWRIMHl3cEtnQWhrT084SEM3THZaR1VJSmJiNm4zdEp0S3JCVFJBMExON3JZQVBuRGl0SlhjbFpJUXhKdjEyOW5sek8xM1dFUVZJNDVzd0FDN0dFV01uUzVhR285eDJxY1ZqMjc?oc=5
+- Germany Announces Visa-Free Transit For Indian Passport Holders - NDTV
+  Germany Announces Visa-Free
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVFwaFJ0ekRPR0xIUzZEVnVHLXdnM2poOHZsOVg3ZWJrdS1wS1BtRzNkaGRRSTA5d2Jqd0sxTTY1aFdsXzNGdmJBczBkclM4Z0pYUUVHZ3BhMlU2MFJNcTNueUxKRG1VcEllbThTcWJNcDRIc1FMbmV1bVkyazd6SkcxcmxKSEcxcTJ4Ul9pZ0ZrRDYtdUtPWnkySWZRdmpPMzBGSlhrb9IBrwFBVV95cUxQaWQzbUMzcGd1SmxuTlNCanVMUlRxaUhJMy1ZTWV3NnlSTlRLSHpfcWRzeTlTZEhQejczLVlYb0xqakVEUUpqanVJYXRoS3ZxNEpHM2ZTQURhU2c4c05KRTY2bWlDcGdRSHNObkJlNUFUUl8zcWctN1VIR1EtUVczSGg0emt2eVhXOU5lVkNQSEJRQnI5dnF2ZWJVb044eVJpalVWMXdRX3V0RVRCRkVF?oc=5
 
-- Good News For Modi Govt: नहीं रुकेगा भारत... ट्रंप का टैरिफ भी धुआं-धुआं, विदेश से आई ये गुड न्यूज - AajTak
-  " target="_blank">Good News For Modi Govt:  "
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa1JHSnRaNDhTUTdZVDk3UlJnU003bjJNSE90Y2M3QldHTlRMMGpKS2huaEZhaWYwakhlSHU5TVA2MS1mXzhyX0xONk1hOE5GcEZMS2pMNmFyOUdGT0IxZl9KOE9BX2hTU0IxNlBqX2FCYWpVd3Y1eWFXc2laT0pHZG5IenpMQnJSMEtzbmNHNWlRU2REbElfdmZoWXBWSWxVTnFCdHBoQVM0cEtOVXpkS3FJbW1oMFNLTzJ4VTNGX2RCTE13Nm1zdk81LVY3M3pfNFNVeUJwa2FIT2FVRlI3eVcycXB6Xy1yLXlTRXNNbkxMQdIB9wFBVV95cUxOV3BPcG52S1U0SmpfejZ4TS1aNE5EWWkwWk9qYk5VNXNPby1xWkhzRzNxbmdJdUxqZDdnU3lSU1dmZHRFdHBRbTktWnZLUzdyS1Z2bjZhRlBzY2RTR2xmS1dDRVJOUkloNFUtNElGRW5tT01NeHJpVzBoU1QwNHBiWWljRXc1WWZmalpXdndSQ1VlQXVBTFBGRXIwUHdHRll2QmtnRF9uZUdqc21ubm9wU3BnZWxZSDVwMW9idkdWWnNnYXI1cGsxamxLc2ZpaXNtRTJQTEFnMmluelpFSG9GaUpQNWpqenRGeWo3TnlveVpOZnFaZDQ0?oc=5
+- Is it the end of the line for one of India’s most distinctive garments? - The Guardian
+  Is it the end of the line for one of India’
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDdTeXhZNTlGZGs5RTFjX0JyS1NlYzdCRzVSOXVyVjEwcUh2Um5UV3hDclJVLUlrMXpYNzNiclhQZVB5cHB2N3NZOUoxVENPLVg1QXRNdDlfUGxsMTR6MmpNSlBWU0Z4RnR0TkplcFE2VjR1NjhVYURMc1FDMUozS2tDQkZ0T0tnaXZJY0dzWHBycDhQd3AxWmRwODV2MXVMaDhJM3JabE1zNy1CSXlxcjlNSDZXZw?oc=5
 
-- "Trump May Visit Next Year": US Says No Country More Essential Than India - NDTV
-  "Trump May Visit Next Year": US Says No Country
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWVQUjF1WGh4RS1ESW9ZbEpzM1VaZlQ0Y1o2MUhMeDF6QTZrLTZXSEpuS29nbEh4VXdWMXRtQ0dKQ1ZCYWxURVV0X2R3NW5JRDdkRTJOV2hwajJQYVQ3cDl4R0pvOGpiN09hZl9HTXZJeXYzLVJ6cDJRV1UxRXV3ak5XSnZTU2IyYzV1c0gtZHVMQTJKNk1VLVI0S1BtM1E1R1V5WjFFMGFldWVQSFRIetIBuAFBVV95cUxQd3prNzFEdTdlMm16QjY2QTNGVXZVVnBXVEFocHQ0cHVPd2ZHZE5ZVGUwLVJWclZsdE55Nmhfc00yUGdxdEEtclZoenJOMDRUdC11TEdFV3BISUlIeU5EekdzT3lEZDk0WmZobktEazB5N0lTcy0tY196ZDB0WlZZcjYyQWhHM2VzajZBUW9mN2JxUUkwSHUtdFdlNVFFMi1VMTNYUjVRWUs4U19KeDlBMjgwRG1qSmhH?oc=5
+- India shuts Kashmir medical college – after Muslims earned most admissions - Al Jazeera
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2xpU3l2bXZtd3p4Q0JrYkNCU2VmdHFUWmZtb2M5cGNfXzMtUDR0RVBvY3k5OEM1MGQ3Y09DbHZhUmxLWmtLdTNNYW85RUNpWjF4eFAxWHdZWGNTUTlxX05rX01FcGpudkNnME80bXBaU2tXVmVWbllhdU4zUzluSTRQSk9HazlkYnBGd0hhM0gwSE51Y2JNYkVDbFc5Z2dYTmZQaC1tSUNla2wzTnVzcjEySdIBuAFBVV95cUxQVy1tTGR4M08xNGRac3hxRjU1c21LUldSM25ndlRlNkgydHYtUmRRbW5aRUZlanM4RWZmUDJJTXRRVS1FZ25YdUIzb0dIX2psR0FMUm1OT2VkbXZjQ0hlcXdfb29Wd0gwZEdmbFdiTGFjR292ZmNvdVE0QVVvMDZUbzdBYm9SN1FOeVh5R3pudWRHbFlHU0FsVzhOYXcyUFRoQk1fbWdiRGlncE5vcmpadzM5bE80eDBN?oc=5
 
-- Marco Rubio Talks To Jaishankar On India-US Trade Deal Talks, Congratulates On Enacting Nuclear Bill - Times of India
-  Marco Rubio talks to Jaishankar on India-US Trade Deal Talks
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPb0FMeFU1VTkwTVhDZlVCY29kOGg4OHdab2hYN1VYNE5fX1gxQURWVl9SdkVHZFhsY0ZWTGRWVl9xRlJOSDktLVhWWk5MQmhtVjhsSnhEZTFYaDFaMmdXUFowRUFyM0hkeVg4WWZ3UldaNDJVV3dlMHlrVHR6dFQ0dGJVU0xJQmtKSWk2T0R2Qlk3aWhBd0tqUTllckxWQ2FSdWFnYjFlQmJyTmxEcFlVc0R3dndiN2lVVUJqZVlELVYwMUQ5V25fLUpmdnRPc2EwOHBJWXd0bXJnWG9vQ01DTi1SLURIRlBNRDRlSXRfZ3pYYTdid2Rka0I5V1pnNVVo0gGGAkFVX3lxTFBOdmlxMkZwVVpxZGktLXlJOFBTSXRDbmZsamJCckJmdHlOUHdHTEViQkNNNTZJZzZ4N0dUVDJtRUl1bDlYcl9tb3BUQlRxOVh5TjdEcXVPWkZrZEFDdDY3RVlFNnJnT0lnX2VNb1V5aTA1V0NlSUxGcXlvMEtWbDJ5cVMtT0lRZ2NZc0pLdzZ2R2paOU9STEotRWNBTXRXN09WM3ZpSkNBelBuaXNBQ1lNek8xSFBXNU05Um4tWmRNUVVOYUtNNGN6dWF6WWE5c3hFdUhXTkU3VnQyQ0N5Y2hYdVU3cVlLX1N3SUI1N3lFYU5vZWdWc1g5WGozR0JuYVdXeHlzZ3c?oc=5
+- India Open: Sindhu exits; Srikanth, Prannoy advance - Times of India
+  India Open: Sindhu exits;
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNREF6M0hVVEtCVjZIN0lPNTFvTTNpQ3M0b01DRnpQV0VkcFo2X3RESE1hUjdBY3lOVHlyY19aRWo0ZmFiX1NZemFWemxaVGUwZTNKaFNXRUZMeTNFZGc1Q2IyaHlGYUpLX253ckN6VHhHVW0zSGs5RTgtUWR2b1BEaUVBU0FVaGFNVTNuR05LUlpyWkxmbHlURzVXSFVJVURwUU9NUUZWOFhDcDhyMWJmS0pqbEswQzZhdFo5MXJDX0NrZHoybXc?oc=5
 
-- As US burdens India with 75% tariffs amid Iran tensions, Shashi Tharoor expresses concern, calls situation ‘troubling’ | India News - Hindustan Times
-  Shashi Tharoor expresses concern, calls situation ‘troubling’
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQMlIzWVhLTHU5dVoyZTFySGd5QmpXTURlWWgwQ2FDRzMzMWxMSDZTMDFuWWJKV1NocXBmQTVMNHQwLXg1SkUzbEpDalByeFBST0t6X2VYOHN4NzZsSkkwNFVWdW9zc2E2c3ZkdnNlbWFHUml5SFFEZWNsVXlDd1RwM0hIOXdLcGlodWl0NDZrYnZaenEzRGNDQlo0eE44UHl4c1c3VnFPcVU0ZFJQZFMzVWlDRDh1TThmUUZ1bUNwREk0WUlPSktWczVWR3RMRFc0d211NzRDUlpkbjlhTloxUFFudU1iZXJPWDVuTDEtTGdueThiNzFrSmNOdXZ3YzZLVlNGNUJJMNIBjAJBVV95cUxONW9QUEdTcXFvekNCNlJKeW5zXzdsY2N6NTNRemlObmxHbmRSS3MzeEpmeGNBVXo3d2VIVTVvUlhRcUthZ2JrSHlpMzRwRDNDTWRENUM1NTVxalpNWTRyYmExZ3FacG9FLUZqZmVubXdpeXhYd0prR25WeVRTc1JjRnVXYS1nQktxUzBZd0I4WUl2N01QVW91Vi1wODlUejE1QmcwaTNta0JhOVk0Zk8wNUpfRDNWck4wbmxBdmZ0ak1SMTB6NWY5elB6Zl8yX1ladUhNc0IwOGFSdkFubHlOOEpjQlQzQnRwaUlOMFk4OUp2MUVPb2U1OTVGbHFMbEtGUlp5V0FHUGlwV2Jw?oc=5
+- Trump aide's 'Modi didn't call' claim, then a Jaishankar-Rubio call. What next for India-US trade deal? | India News - Hindustan Times
+  'Modi didn't call' claim, then a Jaishankar-Rubio
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSk1hckhzNENVV2U5M1BKSzk3aW9nUElGMnp1QUhQUnhHUV9YSjdRRVhyM1RhNXhiLW5IaTdLSHVsd2JwWUNOTnFKXzRyM3dWckVKWGlnN2lfMXpYemx0N2hmUHdPY3dvMDhwWGlxTWZ3VEZONjFhQ3dCS1p6UzRvU1BFaTVfVVRublN1NUo4aHRHNC14UjdkNXI4VmdhNU9hRW5NQmwycUlNM0ZGOTJVOWZISmhzSWNjSXBjOEhRMnlKZUpwQVd5NlZBakF3Q0hydEVmX0NTRnlYcHl0RjJNeWxDODE5blhheGU5OU5wZDY3TknSAfgBQVVfeXFMT0pQSVk1dVFTWTNBM3MybHIxT0ZUMVBFb09iZ0twZF8tN2J5RE53N2NBY1JxcmEydGYxYkJsdVAtMGw0UzJpODNQLTlQajhoZW5WbTZIZFNoaUhjaXRST1A3TDBQM2VKUUp5Y2FSVHdwMHh0bmpobDdjTDBuX1hBVm9DSkZsbWVWSHotcm9tZ2R0VFdCZ1lRVC01bDdZdFpOM1FzTExXSDdyZ1huTUVDQWNkNm9xbUZfRXdoYWNkM0hLbFh5aWlBaXRRNGtReldMWlUyWXNEZEIyNlFRZjRVNnNUWGhpUEJFamQ0cFE5WVl2LVlFU19LaGY?oc=5
 
-- Australia Puts India In 'Highest-Risk' Tier For Student Visas. What It Means - NDTV
-  Australia Puts India In 'Highest-R
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbkl2TS1YbUNlQlpEU1VRQzQyaHlERDRIZDlwT1Yxa1ZGWEJoYnlyeGRpSXBYRWJsRFdJa2xEZEtpalRIQzR3NUtLVHdDV2tzNEhMMHdySTNTbWhMN2F0a2ZRb2tRRDk3dlFaZHV6aHphYWtJeEdXZ000REVMckwtWklLa2FxRjZ4ZG9HT3lQOTdlZGVrTGFodUU2clhuTDlMSUdoT2ZONlVEenQ1REY1VFhwR3XSAbwBQVVfeXFMTnNpZVlTZUUxTXhYbnREZzVzbTBQNVFXdDBURHNaVF9fNHF6Zi1wV1B3c1hjaUxZZ2kxSU5CdW9vd3ZRMzgtMHFCMnZCTUNHRDhKTFp2cUxmeWRIMHl3cEtnQWhrT084SEM3THZaR1VJSmJiNm4zdEp0S3JCVFJBMExON3JZQVBuRGl0SlhjbFpJUXhKdjEyOW5sek8xM1dFUVZJNDVzd0FDN0dFV01uUzVhR285eDJxY1ZqMjc?oc=5
+- Germany Announces Visa-Free Transit For Indian Passport Holders - NDTV
+  Germany Announces Visa-Free
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVFwaFJ0ekRPR0xIUzZEVnVHLXdnM2poOHZsOVg3ZWJrdS1wS1BtRzNkaGRRSTA5d2Jqd0sxTTY1aFdsXzNGdmJBczBkclM4Z0pYUUVHZ3BhMlU2MFJNcTNueUxKRG1VcEllbThTcWJNcDRIc1FMbmV1bVkyazd6SkcxcmxKSEcxcTJ4Ul9pZ0ZrRDYtdUtPWnkySWZRdmpPMzBGSlhrb9IBrwFBVV95cUxQaWQzbUMzcGd1SmxuTlNCanVMUlRxaUhJMy1ZTWV3NnlSTlRLSHpfcWRzeTlTZEhQejczLVlYb0xqakVEUUpqanVJYXRoS3ZxNEpHM2ZTQURhU2c4c05KRTY2bWlDcGdRSHNObkJlNUFUUl8zcWctN1VIR1EtUVczSGg0emt2eVhXOU5lVkNQSEJRQnI5dnF2ZWJVb044eVJpalVWMXdRX3V0RVRCRkVF?oc=5
 
-- Good News For Modi Govt: नहीं रुकेगा भारत... ट्रंप का टैरिफ भी धुआं-धुआं, विदेश से आई ये गुड न्यूज - AajTak
-  " target="_blank">Good News For Modi Govt:  "
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa1JHSnRaNDhTUTdZVDk3UlJnU003bjJNSE90Y2M3QldHTlRMMGpKS2huaEZhaWYwakhlSHU5TVA2MS1mXzhyX0xONk1hOE5GcEZMS2pMNmFyOUdGT0IxZl9KOE9BX2hTU0IxNlBqX2FCYWpVd3Y1eWFXc2laT0pHZG5IenpMQnJSMEtzbmNHNWlRU2REbElfdmZoWXBWSWxVTnFCdHBoQVM0cEtOVXpkS3FJbW1oMFNLTzJ4VTNGX2RCTE13Nm1zdk81LVY3M3pfNFNVeUJwa2FIT2FVRlI3eVcycXB6Xy1yLXlTRXNNbkxMQdIB9wFBVV95cUxOV3BPcG52S1U0SmpfejZ4TS1aNE5EWWkwWk9qYk5VNXNPby1xWkhzRzNxbmdJdUxqZDdnU3lSU1dmZHRFdHBRbTktWnZLUzdyS1Z2bjZhRlBzY2RTR2xmS1dDRVJOUkloNFUtNElGRW5tT01NeHJpVzBoU1QwNHBiWWljRXc1WWZmalpXdndSQ1VlQXVBTFBGRXIwUHdHRll2QmtnRF9uZUdqc21ubm9wU3BnZWxZSDVwMW9idkdWWnNnYXI1cGsxamxLc2ZpaXNtRTJQTEFnMmluelpFSG9GaUpQNWpqenRGeWo3TnlveVpOZnFaZDQ0?oc=5
+- Is it the end of the line for one of India’s most distinctive garments? - The Guardian
+  Is it the end of the line for one of India’
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDdTeXhZNTlGZGs5RTFjX0JyS1NlYzdCRzVSOXVyVjEwcUh2Um5UV3hDclJVLUlrMXpYNzNiclhQZVB5cHB2N3NZOUoxVENPLVg1QXRNdDlfUGxsMTR6MmpNSlBWU0Z4RnR0TkplcFE2VjR1NjhVYURMc1FDMUozS2tDQkZ0T0tnaXZJY0dzWHBycDhQd3AxWmRwODV2MXVMaDhJM3JabE1zNy1CSXlxcjlNSDZXZw?oc=5
 
-- "Trump May Visit Next Year": US Says No Country More Essential Than India - NDTV
-  "Trump May Visit Next Year": US Says No Country
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWVQUjF1WGh4RS1ESW9ZbEpzM1VaZlQ0Y1o2MUhMeDF6QTZrLTZXSEpuS29nbEh4VXdWMXRtQ0dKQ1ZCYWxURVV0X2R3NW5JRDdkRTJOV2hwajJQYVQ3cDl4R0pvOGpiN09hZl9HTXZJeXYzLVJ6cDJRV1UxRXV3ak5XSnZTU2IyYzV1c0gtZHVMQTJKNk1VLVI0S1BtM1E1R1V5WjFFMGFldWVQSFRIetIBuAFBVV95cUxQd3prNzFEdTdlMm16QjY2QTNGVXZVVnBXVEFocHQ0cHVPd2ZHZE5ZVGUwLVJWclZsdE55Nmhfc00yUGdxdEEtclZoenJOMDRUdC11TEdFV3BISUlIeU5EekdzT3lEZDk0WmZobktEazB5N0lTcy0tY196ZDB0WlZZcjYyQWhHM2VzajZBUW9mN2JxUUkwSHUtdFdlNVFFMi1VMTNYUjVRWUs4U19KeDlBMjgwRG1qSmhH?oc=5
+- India shuts Kashmir medical college – after Muslims earned most admissions - Al Jazeera
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2xpU3l2bXZtd3p4Q0JrYkNCU2VmdHFUWmZtb2M5cGNfXzMtUDR0RVBvY3k5OEM1MGQ3Y09DbHZhUmxLWmtLdTNNYW85RUNpWjF4eFAxWHdZWGNTUTlxX05rX01FcGpudkNnME80bXBaU2tXVmVWbllhdU4zUzluSTRQSk9HazlkYnBGd0hhM0gwSE51Y2JNYkVDbFc5Z2dYTmZQaC1tSUNla2wzTnVzcjEySdIBuAFBVV95cUxQVy1tTGR4M08xNGRac3hxRjU1c21LUldSM25ndlRlNkgydHYtUmRRbW5aRUZlanM4RWZmUDJJTXRRVS1FZ25YdUIzb0dIX2psR0FMUm1OT2VkbXZjQ0hlcXdfb29Wd0gwZEdmbFdiTGFjR292ZmNvdVE0QVVvMDZUbzdBYm9SN1FOeVh5R3pudWRHbFlHU0FsVzhOYXcyUFRoQk1fbWdiRGlncE5vcmpadzM5bE80eDBN?oc=5
 
-- Marco Rubio Talks To Jaishankar On India-US Trade Deal Talks, Congratulates On Enacting Nuclear Bill - Times of India
-  Marco Rubio talks to Jaishankar on India-US Trade Deal Talks
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPb0FMeFU1VTkwTVhDZlVCY29kOGg4OHdab2hYN1VYNE5fX1gxQURWVl9SdkVHZFhsY0ZWTGRWVl9xRlJOSDktLVhWWk5MQmhtVjhsSnhEZTFYaDFaMmdXUFowRUFyM0hkeVg4WWZ3UldaNDJVV3dlMHlrVHR6dFQ0dGJVU0xJQmtKSWk2T0R2Qlk3aWhBd0tqUTllckxWQ2FSdWFnYjFlQmJyTmxEcFlVc0R3dndiN2lVVUJqZVlELVYwMUQ5V25fLUpmdnRPc2EwOHBJWXd0bXJnWG9vQ01DTi1SLURIRlBNRDRlSXRfZ3pYYTdid2Rka0I5V1pnNVVo0gGGAkFVX3lxTFBOdmlxMkZwVVpxZGktLXlJOFBTSXRDbmZsamJCckJmdHlOUHdHTEViQkNNNTZJZzZ4N0dUVDJtRUl1bDlYcl9tb3BUQlRxOVh5TjdEcXVPWkZrZEFDdDY3RVlFNnJnT0lnX2VNb1V5aTA1V0NlSUxGcXlvMEtWbDJ5cVMtT0lRZ2NZc0pLdzZ2R2paOU9STEotRWNBTXRXN09WM3ZpSkNBelBuaXNBQ1lNek8xSFBXNU05Um4tWmRNUVVOYUtNNGN6dWF6WWE5c3hFdUhXTkU3VnQyQ0N5Y2hYdVU3cVlLX1N3SUI1N3lFYU5vZWdWc1g5WGozR0JuYVdXeHlzZ3c?oc=5
+- India Open: Sindhu exits; Srikanth, Prannoy advance - Times of India
+  India Open: Sindhu exits;
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNREF6M0hVVEtCVjZIN0lPNTFvTTNpQ3M0b01DRnpQV0VkcFo2X3RESE1hUjdBY3lOVHlyY19aRWo0ZmFiX1NZemFWemxaVGUwZTNKaFNXRUZMeTNFZGc1Q2IyaHlGYUpLX253ckN6VHhHVW0zSGs5RTgtUWR2b1BEaUVBU0FVaGFNVTNuR05LUlpyWkxmbHlURzVXSFVJVURwUU9NUUZWOFhDcDhyMWJmS0pqbEswQzZhdFo5MXJDX0NrZHoybXc?oc=5
 
-- As US burdens India with 75% tariffs amid Iran tensions, Shashi Tharoor expresses concern, calls situation ‘troubling’ | India News - Hindustan Times
-  Shashi Tharoor expresses concern, calls situation ‘troubling’
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxQMlIzWVhLTHU5dVoyZTFySGd5QmpXTURlWWgwQ2FDRzMzMWxMSDZTMDFuWWJKV1NocXBmQTVMNHQwLXg1SkUzbEpDalByeFBST0t6X2VYOHN4NzZsSkkwNFVWdW9zc2E2c3ZkdnNlbWFHUml5SFFEZWNsVXlDd1RwM0hIOXdLcGlodWl0NDZrYnZaenEzRGNDQlo0eE44UHl4c1c3VnFPcVU0ZFJQZFMzVWlDRDh1TThmUUZ1bUNwREk0WUlPSktWczVWR3RMRFc0d211NzRDUlpkbjlhTloxUFFudU1iZXJPWDVuTDEtTGdueThiNzFrSmNOdXZ3YzZLVlNGNUJJMNIBjAJBVV95cUxONW9QUEdTcXFvekNCNlJKeW5zXzdsY2N6NTNRemlObmxHbmRSS3MzeEpmeGNBVXo3d2VIVTVvUlhRcUthZ2JrSHlpMzRwRDNDTWRENUM1NTVxalpNWTRyYmExZ3FacG9FLUZqZmVubXdpeXhYd0prR25WeVRTc1JjRnVXYS1nQktxUzBZd0I4WUl2N01QVW91Vi1wODlUejE1QmcwaTNta0JhOVk0Zk8wNUpfRDNWck4wbmxBdmZ0ak1SMTB6NWY5elB6Zl8yX1ladUhNc0IwOGFSdkFubHlOOEpjQlQzQnRwaUlOMFk4OUp2MUVPb2U1OTVGbHFMbEtGUlp5V0FHUGlwV2Jw?oc=5
+- Trump aide's 'Modi didn't call' claim, then a Jaishankar-Rubio call. What next for India-US trade deal? | India News - Hindustan Times
+  'Modi didn't call' claim, then a Jaishankar-Rubio
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSk1hckhzNENVV2U5M1BKSzk3aW9nUElGMnp1QUhQUnhHUV9YSjdRRVhyM1RhNXhiLW5IaTdLSHVsd2JwWUNOTnFKXzRyM3dWckVKWGlnN2lfMXpYemx0N2hmUHdPY3dvMDhwWGlxTWZ3VEZONjFhQ3dCS1p6UzRvU1BFaTVfVVRublN1NUo4aHRHNC14UjdkNXI4VmdhNU9hRW5NQmwycUlNM0ZGOTJVOWZISmhzSWNjSXBjOEhRMnlKZUpwQVd5NlZBakF3Q0hydEVmX0NTRnlYcHl0RjJNeWxDODE5blhheGU5OU5wZDY3TknSAfgBQVVfeXFMT0pQSVk1dVFTWTNBM3MybHIxT0ZUMVBFb09iZ0twZF8tN2J5RE53N2NBY1JxcmEydGYxYkJsdVAtMGw0UzJpODNQLTlQajhoZW5WbTZIZFNoaUhjaXRST1A3TDBQM2VKUUp5Y2FSVHdwMHh0bmpobDdjTDBuX1hBVm9DSkZsbWVWSHotcm9tZ2R0VFdCZ1lRVC01bDdZdFpOM1FzTExXSDdyZ1huTUVDQWNkNm9xbUZfRXdoYWNkM0hLbFh5aWlBaXRRNGtReldMWlUyWXNEZEIyNlFRZjRVNnNUWGhpUEJFamQ0cFE5WVl2LVlFU19LaGY?oc=5
+
+- Germany Announces Visa-Free Transit For Indian Passport Holders - NDTV
+  Germany Announces Visa-Free
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVFwaFJ0ekRPR0xIUzZEVnVHLXdnM2poOHZsOVg3ZWJrdS1wS1BtRzNkaGRRSTA5d2Jqd0sxTTY1aFdsXzNGdmJBczBkclM4Z0pYUUVHZ3BhMlU2MFJNcTNueUxKRG1VcEllbThTcWJNcDRIc1FMbmV1bVkyazd6SkcxcmxKSEcxcTJ4Ul9pZ0ZrRDYtdUtPWnkySWZRdmpPMzBGSlhrb9IBrwFBVV95cUxQaWQzbUMzcGd1SmxuTlNCanVMUlRxaUhJMy1ZTWV3NnlSTlRLSHpfcWRzeTlTZEhQejczLVlYb0xqakVEUUpqanVJYXRoS3ZxNEpHM2ZTQURhU2c4c05KRTY2bWlDcGdRSHNObkJlNUFUUl8zcWctN1VIR1EtUVczSGg0emt2eVhXOU5lVkNQSEJRQnI5dnF2ZWJVb044eVJpalVWMXdRX3V0RVRCRkVF?oc=5
+
+- Is it the end of the line for one of India’s most distinctive garments? - The Guardian
+  Is it the end of the line for one of India’
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDdTeXhZNTlGZGs5RTFjX0JyS1NlYzdCRzVSOXVyVjEwcUh2Um5UV3hDclJVLUlrMXpYNzNiclhQZVB5cHB2N3NZOUoxVENPLVg1QXRNdDlfUGxsMTR6MmpNSlBWU0Z4RnR0TkplcFE2VjR1NjhVYURMc1FDMUozS2tDQkZ0T0tnaXZJY0dzWHBycDhQd3AxWmRwODV2MXVMaDhJM3JabE1zNy1CSXlxcjlNSDZXZw?oc=5
+
+- India shuts Kashmir medical college – after Muslims earned most admissions - Al Jazeera
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2xpU3l2bXZtd3p4Q0JrYkNCU2VmdHFUWmZtb2M5cGNfXzMtUDR0RVBvY3k5OEM1MGQ3Y09DbHZhUmxLWmtLdTNNYW85RUNpWjF4eFAxWHdZWGNTUTlxX05rX01FcGpudkNnME80bXBaU2tXVmVWbllhdU4zUzluSTRQSk9HazlkYnBGd0hhM0gwSE51Y2JNYkVDbFc5Z2dYTmZQaC1tSUNla2wzTnVzcjEySdIBuAFBVV95cUxQVy1tTGR4M08xNGRac3hxRjU1c21LUldSM25ndlRlNkgydHYtUmRRbW5aRUZlanM4RWZmUDJJTXRRVS1FZ25YdUIzb0dIX2psR0FMUm1OT2VkbXZjQ0hlcXdfb29Wd0gwZEdmbFdiTGFjR292ZmNvdVE0QVVvMDZUbzdBYm9SN1FOeVh5R3pudWRHbFlHU0FsVzhOYXcyUFRoQk1fbWdiRGlncE5vcmpadzM5bE80eDBN?oc=5
+
+- India Open: Sindhu exits; Srikanth, Prannoy advance - Times of India
+  India Open: Sindhu exits;
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNREF6M0hVVEtCVjZIN0lPNTFvTTNpQ3M0b01DRnpQV0VkcFo2X3RESE1hUjdBY3lOVHlyY19aRWo0ZmFiX1NZemFWemxaVGUwZTNKaFNXRUZMeTNFZGc1Q2IyaHlGYUpLX253ckN6VHhHVW0zSGs5RTgtUWR2b1BEaUVBU0FVaGFNVTNuR05LUlpyWkxmbHlURzVXSFVJVURwUU9NUUZWOFhDcDhyMWJmS0pqbEswQzZhdFo5MXJDX0NrZHoybXc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-14 18:31:52 UTC_
+_Last updated: 2026-01-15 06:31:51 UTC_
