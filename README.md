@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-gemini-personal-intelligence-feature-gmail-drive-photos-10474949/
 
+- Infosys might grow more than management’s expectations
+  Infosys has upgraded its FY26 guidance to 3–3.
+  🔗 https://www.livemint.com/companies/infosys-might-grow-more-than-management-s-expectations-fy26-guidance-versent-acquisition-11768469351297.html
+
+- Jain Hedge Fund Costs Cut Into $750 Million Profits Last Year
+  Running a multistrategy hedge fund is expensive
+  🔗 https://www.livemint.com/companies/jain-hedge-fund-costs-cut-into-750-million-profits-last-year-11768502077044.html
+
+- Xreal Files Patent Suit Against Rival Smart Glasses Maker Viture
+  Xreal Inc., a Chinese pioneer in smart glasses, is suing Viture Inc. for patent infringement in the US. Xreal argues its
+  🔗 https://www.livemint.com/companies/xreal-files-patent-suit-against-rival-smart-glasses-maker-viture-11768501956292.html
+
 - Publishers seek to join lawsuit against Google over AI training
   Publishers seek to join law
   🔗 https://www.livemint.com/companies/publishers-seek-to-join-lawsuit-against-google-over-ai-training-11768501828568.html
@@ -48,37 +60,33 @@
   McKinsey plans to recruit liberal arts graduates to enhance creativity. The firm's hiring process now includes assessments using its AI tool, Lilli.
   🔗 https://www.livemint.com/companies/news/mckinsey-to-hire-liberal-arts-candidates-consulting-giant-looks-for-creativity-potential-amid-growing-ai-adoption-11768482565191.html
 
-- Why Elon Musk’s Tesla is betting on FSD subscriptions to protect its $1.5 trillion valuation?
-  Tesla eliminates the option for a one-time $8,000 upfront payment for Full Self-
-  🔗 https://www.livemint.com/companies/news/why-elon-musk-s-tesla-is-betting-on-fsd-subscriptions-to-protect-its-1-5-trillion-valuation-11768486511976.html
+- Stock market today: Day trading guide for Nifty 50, gold, silver to US-Iran news; eight stocks to buy or sell on Friday
+  Experts have recommended eight shares to buy today. NTPC, PNB, Mankind Pharma, LT,
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-day-trading-guide-for-nifty-50-gold-silver-to-us-iran-news-eight-stocks-to-buy-or-sell-on-friday-11768479270856.html
 
-- Taj Hotels parent IHCL buys majority stake in Brij Hotels for  ₹193 crore —details here
-  Indian Hotels Company (IHCL) has acquired a majority stake of 51% in Brij Hospitality.
-  🔗 https://www.livemint.com/companies/news/taj-hotels-parent-ihcl-buys-majority-stake-in-brij-hotels-for-rs-193-crore-details-here-11768491599828.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 16 January 2026
+  IndusInd Bank, Dalmia Bharat, SAIL, NH, and KEI Industries
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-16-january-2026-11768482870529.html
 
-- Spotify announces price hike for premium users in US after two years – here's what customers should know
-   Spotify will increase its premium subscription price in the US. This change, affecting subscribers in Estonia and Latvia as well, follows previous price hikes in other countries.
-  🔗 https://www.livemint.com/companies/news/spotify-announces-price-hike-for-premium-users-in-us-after-two-years-heres-what-customers-should-know-11768478932798.html
+- Buy or sell: Vaishali Parekh recommends three intraday stocks to buy today — 16 January 2026
+   Vaishali Parekh recommends three intraday stocks to buy today
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-16-january-2026-11768478587479.html
 
-- Silver rate today in Delhi: One kg silver worth  ₹3,955 turns into  ₹2,86,180 in 40 years. Details here
-  Investors who purchased one kilogram of the precious metal for an average annual price of  ₹3,955 in 1985 ended up with massive returns over the last 40 years
-  🔗 https://www.livemint.com/market/commodities/silver-rate-today-in-delhi-one-kg-silver-worth-rs-3-955-turns-into-rs-2-86-180-in-40-years-details-here-11768488032217.html
+- Stocks to buy: Raja Venkatraman recommends top picks for 16 January
+  Market expert Raja Venkatraman shares his top stocks to buy today, 16 January.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-picks-16-january-nifty-sensex-graphite-india-hindalco-industries-bank-of-india-11768391052585.html
 
-- Direct retail share in cash market falls to lowest in a decade
-  Underperforming Nifty 50, reallocation to IPOs, and shift towards mutual funds drag direct contribution to gross turnover on NSE's
-  🔗 https://www.livemint.com/market/stock-market-news/direct-retail-share-in-nse-cash-market-turnover-falls-to-lowest-in-a-decade-11768485445016.html
+- Infosys Q3 beats, guidance up. Is this the long-awaited turnaround?
+  Infosys delivered strong Q3 results and upgraded its FY26 growth outlook.
+  🔗 https://www.livemint.com/market/mark-to-market/infosys-q3-earnings-strong-guidance-upgrade-stock-turnaround-prospects-analyst-view-11768467986688.html
 
-- Wall Street rises, led by chip stocks after TSMC blockbuster earnings, Nvidia surges 3%, BlackRock soars 4.5%
-  The Dow Jones Industrial Average rose 0.30%, the S
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-rises-led-by-chip-stocks-after-tsmc-blockbuster-earnings-11768488252483.html
+- OpenAI is taking on Google Translate with new ChatGPT powered translator: how to use, features and more
+  OpenAI has introduced ChatGPT Translate, a new AI tool aimed at competing with Google Translate. The new tool offers translation for
+  🔗 https://www.livemint.com/technology/tech-news/openai-is-taking-on-google-translate-with-new-chatgpt-powered-translator-how-to-use-features-and-more-11768515837437.html
 
-- Angel One Q3 results: Profit jumps 27% QoQ; board approves interim dividend, stock-split
-  Angel One's Q3 results showed a 26.9% rise in profit to  ₹268.7 crore. The company declared a 
-  🔗 https://www.livemint.com/market/stock-market-news/angel-one-q3-results-profit-jumps-27-qoq-board-approves-interim-dividend-stocksplit-11768483657878.html
-
-- Krishival Foods share price to be in focus on Friday after  ₹100 crore rights issue update — Details here
-  FMCG firm Krishival Foods' share price will be in focus of the stock market investors on Friday, 16 January 2026. The firm completed its nearly  �
-  🔗 https://www.livemint.com/market/stock-market-news/krishival-foods-share-price-to-be-in-focus-on-friday-after-rs-100-crore-rights-issue-update-details-here-11768482043036.html
+- Verizon issues $20 credits to customers after massive outage: How to claim, when will you get it? — all FAQs answered
+  $20 credits issued to customers affected by massive outage caused by a ‘software issue’ The company acknowledged not meeting customer expectations.
+  🔗 https://www.livemint.com/technology/verizon-issues-20-credits-to-customers-day-after-massive-outage-how-to-avail-it-all-faqs-answered-11768502315990.html
 
 - Nothing confirms its first India flagship store in Bengaluru: All you need to know
   Nothing has confirmed plans to open its first flagship store in India in Bengaluru. The upcoming outlet will offer hands-on access to its smartphones, ear
@@ -92,73 +100,73 @@
   The Prime Members countdown highlights the top 5G tablets for work and entertainment, combining speed, performance, and connectivity.
   🔗 https://www.livemint.com/technology/gadgets/prime-members-countdown-best-5g-tablets-for-productivity-and-entertainment-from-top-brands-11768403706899.html
 
-- Amazon Great Republic Day Sale 2026 is just hours away with top gadget deals lined up
-  As the Amazon Sale 2026 nears, early highlights include strong deals on earphones, headphones, tablets
-  🔗 https://www.livemint.com/technology/gadgets/amazon-great-republic-day-sale-2026-is-just-hours-away-with-top-gadget-deals-lined-up-11768384552344.html
+- Asian stocks head for fourth weekly gain on tech
+  Asian stocks on track for their best weekly run since May. Follows positive news from Taiwan Semiconductor Manufacturing Company, boosting confidence in the tech sector.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-head-for-fourth-weekly-gain-on-tech/articleshow/126555221.cms
 
-- Sony PlayStation Plus January 2026 adds Resident Evil Village and Like a Dragon: Infinite Wealth
-  Sony has revealed the PS Plus Game Catalogue lineup for January 2026. Resident Evil Village and Like a Dragon: Infinite Wealth headline a strong mix of horror, RPG and racing.
-  🔗 https://www.livemint.com/technology/tech-news/sony-playstation-plus-january-2026-adds-resident-evil-village-and-like-a-dragon-infinite-wealth-11768483040025.html
+- Goldman, Wells Fargo kick off dollar-bond sales after earnings
+  Goldman Sachs and Wells Fargo are issuing new high-grade bonds in the US market. Goldman Sachs is offering notes across six tranches with maturities from three to 21 years. Wells Fargo is marketing bonds
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-wells-fargo-kick-off-dollar-bond-sales-after-earnings/articleshow/126555187.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Friday
-  Metals led gains on expectations of U.S. rate cuts and safe-haven demand. Domestic markets showed caution due to trade deal uncertainty.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/126549884.cms
+- US stock leadership may broaden beyond tech
+  Investors are shifting focus from technology stocks to industrial, healthcare, and small-cap companies. Fourth-quarter earnings reports will be crucial in determining the sustainability of this trend. Experts believe conditions are favorable for this expansion.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-leadership-may-broaden-beyond-tech/articleshow/126555166.cms
 
-- Crude oil price sinks 5% after Trump eases Iran concerns
-  International benchmark Brent North Sea crude fell 4.4 percent to $63.61. Oil prices extended losses on Thursday after remarks by US President Donald Trump appeared to dial
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-price-sinks-5-after-trump-eases-iran-concerns/articleshow/126549233.cms
+- GST hit HDFC Life's profit, but we will neutralise it soon: Vibha Padalkar
+  HDFC Life Insurance CEO: We are slightly ahead of plan. Over the next two quarters, we will reduce it (GST impact
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/gst-hit-hdfc-lifes-profit-but-we-will-neutralise-it-soon-vibha-padalkar/articleshow/126555151.cms
 
-- Goolsbee says lowering inflation is US Fed's main job
-  Chicago Fed President Austan Goolsbee says the central bank's priority is reducing inflation. He indicated that interest rate cuts are possible later this year, provided there's convincing data.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/goolsbee-says-lowering-inflation-is-us-feds-main-job/articleshow/126549036.cms
+- BluPine raises Rs 5,400 cr loan underwritten by Axis Bank
+   BluPine Energy, backed by Actis, has secured a significant ₹5,400 crore loan from Axis Bank. This long-term financing will support its renewable energy portfolio.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/blupine-raises-rs-5400-cr-loan-underwritten-by-axis-bank/articleshow/126555124.cms
 
-- BlackRock's assets hit record $14 trillion on fourth-quarter markets rally
-  BlackRock's fourth-quarter profit exceeded expectations. assets under management reached a record $14 trillion. The company increased its dividend and share buybacks.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/blackrocks-assets-hit-record-14-trillion-on-fourth-quarter-markets-rally/articleshow/126548882.cms
+- Iran unrest: MEA prepares evacuation of Indians; first flight from Tehran to Delhi tomorrow, say sources - Times of India
+  Iran unrest: MEA prepares evacuation of Indians; first flight from Tehran to Delhi
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaUd3MDZabjNUeW5MR3ZPYWdmcTlUNlcxSjNRS2ZSV1ZJLW1iLWhzRk5PcjRVVmp5TDFnQWFJa2hiRTNXX2xUZ2o1eDlJRU5QRndqSmxpVlljYi1CQ25TVXNoNm9CLUx0VVIzRHFYalM3WDRrUFBrMWZhZ1FjanFoZlZObUtSMHo4VGdKdlRCLXhFdXF1ZkQ4M0xVamN5em9sRHFCSG1BTlQwalR0aDQ3M2FHVjVOTDlSU0hWQWpYUUhmSEtLeklIV0JqUnc3Uk9XLV9ZTWJTa015Wlc0aElpdE5fcEtDUGtHY1hzWTBqS0JiX1V0aVNOekFUNmNzNm_SAYQCQVVfeXFMTm4tR1VKV2NiMXpuZTg3SXZoOUttN2ZrT0Y2YloxUHZmTWZ2U21qdEhrWG9wc1VrdVF5Z0Y4MGdMM1BJUmV5RDlzbjZPTkVSN3N6YWh6TWxJRnhRNlZ6WmV0dGhfdkVLakhhSGhJTmdWUjFtU2NVWVQzZ2hBUDF2TlZuRDZoeFZacGxzR0Rfc0tFRkhyWVpISWFmaGtKUnBaNUZuOERjVGdPTHIzZ2hVTFBNWDRjZ2VtX2JVMVg1eXE5THl5bDViR3cwa0dzQi1GbDVBajNPTmZydzFTVzZDRVVqZUJZWnF5ZlRHVngydmwwUjJhVExIVXI1aFVab2wwb1FKZkE?oc=5
 
-- US weekly jobless claims fall, but labor market is still in a holding pattern
-  New jobless claims in the US saw a surprise drop last week. Layoffs remain low, and hiring is slow. Economists point to trade and immigration policies affecting worker supply and demand.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-weekly-jobless-claims-fall-but-labor-market-is-still-in-a-holding-pattern/articleshow/126548829.cms
+- India Preparing To Facilitate Return Of Indians From Iran: Sources - NDTV
+  India Preparing To Facilitate Return
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNeTZCVUNLc0VlVUUzWWs0aWg2U2ZoWWRGcTl4Z0FCT0FDc0lORUpUcVFmOWl5VXg2Xzg2X0ZsZ1d1UzF5LTBZdXdlNGNjUzZfV1dvWFFrMUlacW9qRHZxemk5Zmd0cmJxZGZ5dmZ1RW12bENILWlJRDVKbHRyZjF3bXV4V2VHM2VfSzlQMVJrRFQ0UmlUM2FDU29DVXZ3cDRCaG40WFNVb2FTdlZo0gG0AUFVX3lxTE9QdVp2WDJKbUhkdDNiS292dnpuY0c0UHFmc1RaV1ZwYmgwOUVwTmVSbGhlWTZmQjd1cXlYbGR4U0JuSnZiVUtON1RGenhIYjB0Q0FubnVxeXoybDRuejM3OHF2NTcxZy1vZUhJNzkwcExOQlI3a2dfLUxlUkVfd1ZSazJLZEpLNmstU2VJTS1ZWktMQURVdE5fbU9scW5UVDdmUXdzN0pjbWVJYkJPbXc2SkxOMQ?oc=5
 
-- Why Regime Change In Iran Could Hurt India, But Benefit Pakistan, China - NDTV
-  Why Regime Change In Iran Could Hurt India,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2FnMjFZVTJNXzNSTHp2TTlGcGxHZGFiNnpoY0ZKaGItam1LTDRUanJpNVp2ek4zRlU3RXlITlREMHItZk5pdFlQbExhNVI5OF82Q0t2MTM3bDJhaGhUT1VEVXUwTFQ4cWxKSEJGLWFLdW5ObHZxODVIeVA4RkI0cUQ4SjZXb0ZCaEtMVXZieUc1NjhJU19RU3ZNa2ZTaWpESndsT1c2bXo3bHFpQWo00gG3AUFVX3lxTFBvNkRPT05DMWxyLXQ5eXFHdVBySEoxTDNYNE1hdXdhWlhrRWM5c3ZLZW9kSlFZaDhWRkN2c053cU1xM2pBMjF4M1ZWaDBpYS1pWWl5MEdhVnkzX1hnLWFpN2poU0NvclE4el94SzFWSi1iQVlJZEk1ajdOdUxsTE9HUkk3Ujd6ZXdrSEhGM3lEdThoSWdiak1zSzZmNW42bG9OVGlDRGN1R1otV0pLUXVnRU9Pa2FjMA?oc=5
+- India tells citizens to exit Iran; Tehran dials Delhi | India News - Hindustan Times
+  India tells citizens to exit Iran; Tehran dials Delhi
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3BjODhJSXB4RkNwRFE5WGhkVHo1WU50eUVVZDdQTkhzY1dlU2J5RzcySnZzT2Y4c0V6UzNTbkpBLW1QSXYtT2lRV2VEdnY5VHhuQ1k0RlNGZHU4YlpBMWZHYVFJd0dKT3cwa19XWlpacElqUkt3T05ud3o0LTFFQUdNU1Z1Sl9HcC1ZdzVzLVR6NG1QdU9nQzdXTmJESzBhWEtIb1ZHRkp6RjhMWXBUcGdBMknSAboBQVVfeXFMTWppdGlwMkRyaXF3ZjRiUDdXbGVublJ5RmotbU51a3VRRzcxdWt6Z1h0Zm1CUDlJeVFkSGVtb3k1NDFXaFppZjNzbFJnTnM4N3NOVlU3SEtuR09ySUJ0UXdXejdVTDRvVldfeWRwaW00ZWZZaFBaVlhrRlVDNm80bm5UWUsyXzA1S24xcDhyLVNmUEpLazFTckFuR2FGNHRSWjV3VllEbDN4cUhBeVpZRTN3eWZic0hSaDd3?oc=5
 
-- Leave Iran by any means, New Delhi tells Indians - Times of India
-  "Leave Iran by any means, New Delhi
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNa3U3bDZJWVA3NlpucElOZFpzOEJfd1BEUnVtd0NraUVRS2tjc2FsZ3poWnFVTTV3OE9WTWRhQXdoNHNLc0JoLUNQcTJqMWhEY0l2bExyWGVWM0ZfQXRQT3lxZXprMDk3c3hCbkU4NnBRVDVqd2FHWEJEa09fYUZhdGJBdEppU05MY3gtbURkTzNFUlJpLWx4ZnZ6MnR3Rko2ZTRvRE5tVmFsWjl3d01YZ1BnV21hUdIBuwFBVV95cUxOTHJyLUpwN1NBMU8zZDBhcFpqTTM4N0pOY2RpWERZNFlpWDdoeGs5N0JjTTJTTnhTcjNUbEdVeTZWMmZBQ1lMMGJseGpyaTJKOUoyUy1XbVJ4ZHpCSWgxNi1kOUh3ZGlvcHB5RUxZbmktWXJkWm1wOGVhOWpCbEpoYjhfMll6V2hvOElCWFkwam9nakJITzUzQktXQmw5WDRPLUd3QU9uUWo0ZU55SDc0UjUwaEVnajZnU0RZ?oc=5
+- ‘Stay vigilant’: India issues urgent advisory for nationals in Israel as Iran protests intensify - The Financial Express
+  ‘Stay vigilant’: India issues urgent advisory for nationals in
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY2xScWc4azFNY1dqdlc3WFpPcUFQU1hnRUdCVVgxRHBvdWsxOU5VVkc0VF81MzdsREJNRHJ0TzA3ZzMyNGVZaklMbzEwckdWOGxsRjkzbkNremV5bmV1SkwyS09xQTFNb3BjWnVyUldVd0NZeko5dWJxaXFvMDNhajJCeWxmMk5KNzI1NkpIWXJzbTgwbVJyYkdfbFU2c2R2dmt3SHpfTTg0RlZrYmlJSWFXTjdndE9Pckg1dVNXUlZhV09WMTlEZTBnTEpSaWNRaUY2VkpNd2ZzVmNBZ3d2eW5BZ9IB6gFBVV95cUxNalNKSUh2YWhac2Q4WU54QThyYU9tczJXT2s3ZExLSEVUZHR1ZEZnS3NVR2dVNlRrcG02WnB5YW9KVWhPVXVaMUpQdjlkMk9mN0JaTmo2ak14ZFNBSi1jOWZVNFZJLXQ1Q1RETlZLWlVDQ3VrSDlKS0p6alhyRk15cnp6WC05OC1KNU8zNkV6bjFldXg5YTU5RFVpVUpncXFUaFlVOVJ3MHk3clg5dkRMZ1lqa0JaUVFnYWl3QUY4VGo0SWtuZ3FCZWwyVC1PRG1KbkczeUVmQ1h1ajF1a2RGQi1EUklVVWc4UFE?oc=5
 
-- India moves to evacuate its nationals from Iran - The Indian Express
-  India moves to evacuate its nationals from Iran
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzRtUEQwR1Y0dGhDVTBqZDhydmVwbi13dmVISk83MUR0d1hlLVB4cXlBcjVKWkxvemswNFRqQWZaa0pyTG42VWMxeTlDSXZhSjRZM3NFTFBJcUpmdGtRSWwta3llYmhDNmtYbXQtbndGN3NUSGFfeUp5bEVXUjdGbTJFclJPUklVam9Bdlh5SWJxeEc0OFducnU2YWZDaVZQcGFtTU9vMUhoTDJTQ1J4UmdKRjjSAbsBQVVfeXFMUDhpMTl5cmVZa1BlYTJ2Rlgyd01fbEVsQWVKRmNWOXM4S0lTMU03RWRmWm00enBCSFJmMmQwX2hZcVllTW94Qy10LUFhX212SFZuNTBrUC03U1Z3ZDBZTVNmaUJqUzJkbVRocUdGU2ZrN182OXplMTVOWWxTLVdNZVFMMWJwS3Q4SG9UZFFVNUQtNVhuQms2NDdPVU9SZGY3VEFoNW01aVo4QXBqSjA5NU9LT2hwNHRTOEJiWQ?oc=5
+- Avoid All Non-Essential Travel To Israel: India Amid Iran Tensions - NDTV
+  Avoid All Non-Essential Travel To
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDI2VGM3QnZFRjhKX3ZubUhaaXhfS1dXWmZySlFmT2FfS3F1UEFqLTQySl96Q0pKdzhqWlBfV2x2THp5Uzk0UDBvNG55R1pZRWhremY0c0J0VUVhNXdBUVBZNTdsd082TW1wRzdjdXJ2V0pDWkp2Tjd0aFUxbEp4WnE2VDd0T1ppdGVibkcxU0huRUZpSHctM3lfTVN4VlRVdlBmR3htcnRmd9IBsgFBVV95cUxQRm5ITjNtOXRMdXRUOXhhVnM1R0xfaWowMVZNUEQ3SHZHWklzbDI0aEdaWkhpRndOLU0xaXpoS3B5WDh3TmY5V1h0Yl8tYm1sTjJYX1lldmlDV1hwZS1TZWFGckdNT2FRaUs1NjdTa01WNFA2VXN6T0dERndYVUh1cXRzNFNCRUhTZlNib0x1Z0MyYWZGajhYMHVEbFdodmpIejVzTFJMdGpXZ3RvZFlFOWd3?oc=5
 
-- "No Indian Company Will Be...": Shashi Tharoor On Trump's Iran Tariffs - NDTV
-  "No Indian Company Will Be...": Sh
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOUVltbk9NTnhDZ04wT3E1Y01lcFJXdlNRTS1NV096a2JBVEd1a2lPdFB5VlQ2clR3TU83RkVicXVLUFp4bE04alBKbENZRnhpc1hrbWtLV3Z6cE5UcXBwRUZFdGJBb1BkWGZoQThoM1AzNWpULTNvOHFzbjg3NElxaklrRERNc0J3dllrZUltdmZXMXVZbkZQQklRdEs0RjF0SFlua3hxRk9jaGQ5VFpTdE9zdWQwXzdvc0R3ZnR30gHGAUFVX3lxTFBsN1N3QjJOZm5hWVVMRi1KbEFqVEFEM0RkQjAtZ3duSElBRDl1ZEQzS1FONzM4SHpTTlJ6aDFRbXhCTHJZMjVzR3VQSGNHQjB3QjlIWlhZVUFNX3UzVDdpbHRYYzNQTGRnRDhLVllvVFhJbEdWTDUyN2hpQnl6cVZiejFxUHZVVXdaSzZRdlBibGliTzJoRWNHZW83RXU0YzhCdElSUlZwYTRpbzQyamFLbVVKX0xTTkZLQ3lFeGRhYS1laWMyZw?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Skip NH toll, lose NOC: New rule before MLFF rollout - Times of India
-  The new rule will be rolled out across India.
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPc21UMjhsbGdlYm9GZFRyLUI2WEJwOVhyQkt4bFRkU2lfWHJma3UxbHNJalVlZXdKRWRfMmpHZHNrOUZRVmNWV1hhN240dG9HdEo2bjdGbzZlMXFhV2NSd1ZjRWh2UVZuOUVObmpoOEVFaDJKRXFxT2VEUUpKamRGdkFEXzhqVkVLeWdfcnd0Y3ctWkFPTkhMM0RMM0xVcTNLQUg4UmxiQl8xUEc4QUdRT2piY1RWMVlMd2fSAb8BQVVfeXFMUHkyV2tZZ3lEU1lUZjEwaHdNVEVQNk1sVVZtblI3T1JKSDJ3SkR3dF9UMTdsUTBkX3ZRUGV1bTVWTTJLX2tHZGRxb2pVRVJCSHlWMWJOTUhrWEM4dUNHSDFjTTc5WHJYcEdIWWhiTFdYZ0l0RXlROVNBdEVfYXB0T0lfbl9qa0N1YklBWmR3b0gxaG53aDBDS05CMnBUdmJEUG1ONjZ2ajJWZTBWcVNsVlIydURGS0VwZk01RUpyYXM?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Why Regime Change In Iran Could Hurt India, But Benefit Pakistan, China - NDTV
-  Why Regime Change In Iran Could Hurt India,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2FnMjFZVTJNXzNSTHp2TTlGcGxHZGFiNnpoY0ZKaGItam1LTDRUanJpNVp2ek4zRlU3RXlITlREMHItZk5pdFlQbExhNVI5OF82Q0t2MTM3bDJhaGhUT1VEVXUwTFQ4cWxKSEJGLWFLdW5ObHZxODVIeVA4RkI0cUQ4SjZXb0ZCaEtMVXZieUc1NjhJU19RU3ZNa2ZTaWpESndsT1c2bXo3bHFpQWo00gG3AUFVX3lxTFBvNkRPT05DMWxyLXQ5eXFHdVBySEoxTDNYNE1hdXdhWlhrRWM5c3ZLZW9kSlFZaDhWRkN2c053cU1xM2pBMjF4M1ZWaDBpYS1pWWl5MEdhVnkzX1hnLWFpN2poU0NvclE4el94SzFWSi1iQVlJZEk1ajdOdUxsTE9HUkk3Ujd6ZXdrSEhGM3lEdThoSWdiak1zSzZmNW42bG9OVGlDRGN1R1otV0pLUXVnRU9Pa2FjMA?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Leave Iran by any means, New Delhi tells Indians - Times of India
-  "Leave Iran by any means, New Delhi
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNa3U3bDZJWVA3NlpucElOZFpzOEJfd1BEUnVtd0NraUVRS2tjc2FsZ3poWnFVTTV3OE9WTWRhQXdoNHNLc0JoLUNQcTJqMWhEY0l2bExyWGVWM0ZfQXRQT3lxZXprMDk3c3hCbkU4NnBRVDVqd2FHWEJEa09fYUZhdGJBdEppU05MY3gtbURkTzNFUlJpLWx4ZnZ6MnR3Rko2ZTRvRE5tVmFsWjl3d01YZ1BnV21hUdIBuwFBVV95cUxOTHJyLUpwN1NBMU8zZDBhcFpqTTM4N0pOY2RpWERZNFlpWDdoeGs5N0JjTTJTTnhTcjNUbEdVeTZWMmZBQ1lMMGJseGpyaTJKOUoyUy1XbVJ4ZHpCSWgxNi1kOUh3ZGlvcHB5RUxZbmktWXJkWm1wOGVhOWpCbEpoYjhfMll6V2hvOElCWFkwam9nakJITzUzQktXQmw5WDRPLUd3QU9uUWo0ZU55SDc0UjUwaEVnajZnU0RZ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- India moves to evacuate its nationals from Iran - The Indian Express
-  India moves to evacuate its nationals from Iran
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzRtUEQwR1Y0dGhDVTBqZDhydmVwbi13dmVISk83MUR0d1hlLVB4cXlBcjVKWkxvemswNFRqQWZaa0pyTG42VWMxeTlDSXZhSjRZM3NFTFBJcUpmdGtRSWwta3llYmhDNmtYbXQtbndGN3NUSGFfeUp5bEVXUjdGbTJFclJPUklVam9Bdlh5SWJxeEc0OFducnU2YWZDaVZQcGFtTU9vMUhoTDJTQ1J4UmdKRjjSAbsBQVVfeXFMUDhpMTl5cmVZa1BlYTJ2Rlgyd01fbEVsQWVKRmNWOXM4S0lTMU03RWRmWm00enBCSFJmMmQwX2hZcVllTW94Qy10LUFhX212SFZuNTBrUC03U1Z3ZDBZTVNmaUJqUzJkbVRocUdGU2ZrN182OXplMTVOWWxTLVdNZVFMMWJwS3Q4SG9UZFFVNUQtNVhuQms2NDdPVU9SZGY3VEFoNW01aVo4QXBqSjA5NU9LT2hwNHRTOEJiWQ?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- "No Indian Company Will Be...": Shashi Tharoor On Trump's Iran Tariffs - NDTV
-  "No Indian Company Will Be...": Sh
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOUVltbk9NTnhDZ04wT3E1Y01lcFJXdlNRTS1NV096a2JBVEd1a2lPdFB5VlQ2clR3TU83RkVicXVLUFp4bE04alBKbENZRnhpc1hrbWtLV3Z6cE5UcXBwRUZFdGJBb1BkWGZoQThoM1AzNWpULTNvOHFzbjg3NElxaklrRERNc0J3dllrZUltdmZXMXVZbkZQQklRdEs0RjF0SFlua3hxRk9jaGQ5VFpTdE9zdWQwXzdvc0R3ZnR30gHGAUFVX3lxTFBsN1N3QjJOZm5hWVVMRi1KbEFqVEFEM0RkQjAtZ3duSElBRDl1ZEQzS1FONzM4SHpTTlJ6aDFRbXhCTHJZMjVzR3VQSGNHQjB3QjlIWlhZVUFNX3UzVDdpbHRYYzNQTGRnRDhLVllvVFhJbEdWTDUyN2hpQnl6cVZiejFxUHZVVXdaSzZRdlBibGliTzJoRWNHZW83RXU0YzhCdElSUlZwYTRpbzQyamFLbVVKX0xTTkZLQ3lFeGRhYS1laWMyZw?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Skip NH toll, lose NOC: New rule before MLFF rollout - Times of India
-  The new rule will be rolled out across India.
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPc21UMjhsbGdlYm9GZFRyLUI2WEJwOVhyQkt4bFRkU2lfWHJma3UxbHNJalVlZXdKRWRfMmpHZHNrOUZRVmNWV1hhN240dG9HdEo2bjdGbzZlMXFhV2NSd1ZjRWh2UVZuOUVObmpoOEVFaDJKRXFxT2VEUUpKamRGdkFEXzhqVkVLeWdfcnd0Y3ctWkFPTkhMM0RMM0xVcTNLQUg4UmxiQl8xUEc4QUdRT2piY1RWMVlMd2fSAb8BQVVfeXFMUHkyV2tZZ3lEU1lUZjEwaHdNVEVQNk1sVVZtblI3T1JKSDJ3SkR3dF9UMTdsUTBkX3ZRUGV1bTVWTTJLX2tHZGRxb2pVRVJCSHlWMWJOTUhrWEM4dUNHSDFjTTc5WHJYcEdIWWhiTFdYZ0l0RXlROVNBdEVfYXB0T0lfbl9qa0N1YklBWmR3b0gxaG53aDBDS05CMnBUdmJEUG1ONjZ2ajJWZTBWcVNsVlIydURGS0VwZk01RUpyYXM?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-15 18:34:00 UTC_
+_Last updated: 2026-01-16 01:21:51 UTC_
