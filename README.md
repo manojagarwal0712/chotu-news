@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Over a year after Goa’s ‘biggest seizure of LSD blots’, ED raids across country in narcotics trafficking case
+  
+  🔗 https://indianexpress.com/article/india/over-a-year-after-goas-biggest-seizure-of-lsd-blots-ed-raids-across-country-in-narcotics-trafficking-case-10478332/
+
+- Three days later, one Cabinet colleague backs PWD minister, Vikramaditya Singh
+  
+  🔗 https://indianexpress.com/article/india/one-cabinet-colleague-backs-pwd-minister-vikramaditya-singh-10478312/
+
+- Evacuation from Iran only once regular flights stop: Govt
+  
+  🔗 https://indianexpress.com/article/india/iran-evacuation-once-regular-flights-stop-mea-chabahar-port-10478106/
+
 - Vande Bharat expansion: Indian Railways plans 800 trainsets by 2030; 4,500 by 2047
   
   🔗 https://indianexpress.com/article/india/vande-bharat-expansion-indian-railways-plans-800-trainsets-by-2030-4500-by-2047-10477644/
@@ -8,17 +20,17 @@
   
   🔗 https://indianexpress.com/article/india/pm-modi-flag-off-howrah-guwahati-vande-bharat-sleeper-train-january-17-10474881/
 
-- Vande Bharat Sleeper launch: Platform numbers changed for 30 trains at Malda Town station on Jan 16-17 | Full list
+- Elon Musk’s X down for tens of thousands of users globally, Downdetector shows
   
-  🔗 https://indianexpress.com/article/india/vande-bharat-sleeper-launch-platform-numbers-changed-30-trains-malda-town-station-jan-16-17-10477396/
+  🔗 https://indianexpress.com/article/technology/elon-musk-x-twitter-down-globally-downdetector-10478257/
 
-- BJP announces schedule for election of national president; party to name JP Nadda’s successor on January 20
+- New map reveals Antarctica’s dramatic terrain hidden under miles of ice
   
-  🔗 https://indianexpress.com/article/india/bjp-announce-schedule-election-national-president-jp-naddas-successor-jan20-10477286/
+  🔗 https://indianexpress.com/article/technology/science/new-map-reveals-antarcticas-dramatic-terrain-hidden-under-miles-of-ice-10478154/
 
-- Guwahati (Kamakhya)-Howrah Vande Bharat Sleeper train to commence inaugural run on Jan 17 – check timings, stoppages
+- Google confirms Gmail users will soon be able to change their @gmail.com email IDs
   
-  🔗 https://indianexpress.com/article/india/guwahati-kamakhya-howrah-vande-bharat-sleeper-train-inaugural-run-january-17-timings-stops-10476873/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-gmail-email-id-change-how-to-10477977/
 
 - From pilots to deployment: OpenAI’s nonprofit push targets AI scale in India
   
@@ -28,57 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-adoption-rises-in-india-but-job-redesign-lags-accenture-report-10477315/
 
-- In 5 years, everybody will have their own AI companion, says Microsoft AI’s Mustafa Suleyman
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/mustafa-suleyman-microsoft-ai-companion-prediction-10477197/
+- SAT sets aside Sebi’s order against Bombay Dyeing, Wadia family
+  Sebi had in 2022 barred 10 entities, including Bombay Dyeing and its promoters Nusli N. Wadia, Ness Wadia and Jehangir
+  🔗 https://www.livemint.com/companies/bombay-dyeing-sat-sebi-order-wadia-family-nusli-wadia-ness-wadia-11768575099883.html
 
-- Google brings generative AI to Gmail, raising new privacy questions
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-brings-generative-ai-to-gmail-raising-new-privacy-questions-10476920/
+- Delhi HC rejects Natasha Oberoi’s plea to arbitrate family feud over PRS Oberoi estate
+   Disputes involving Wills, inheritance, and family succession cannot be decided by private arbitrators.
+  🔗 https://www.livemint.com/companies/news/delhi-high-court-natasha-oberoi-prs-oberoi-estate-family-dispute-arbitration-inheritance-11768571019963.html
 
-- ‘Half of India’s next wave of unicorns will be AI companies’: Google exec Seema Rao at AI Startups Conclave
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-india-ai-startups-seema-rao-10476210/
+- Thunder on wheels: Coca-Cola expands last-mile reach with micromobility
+   direct-to-store delivery, using small vehicles like bikes, and electric vans, helps the company expand last-mile reach, cut reliance
+  🔗 https://www.livemint.com/companies/news/coca-cola-india-market-share-competition-hccb-ipo-zero-sugar-beverages-11768563833487.html
 
-- Mint Explainer: What the Karnataka HC’s share attachment means for the Aakash rights issue
-  The Karnataka high court order raises the question of whether Aakash can produce a clean paper trail.
-  🔗 https://www.livemint.com/companies/aakash-rights-issue-karnataka-high-court-byju-raveendran-share-attachment-implications-11768556663098.html
+- What is China's ‘Are you dead’ app and why is it going viral? Here's how the platform works
+  A new app in China, designed to check on people living alone, has gone viral. Originally named Sileme, which translates to ‘Are you dead�
+  🔗 https://www.livemint.com/companies/news/what-is-chinas-are-you-dead-app-and-why-is-it-going-viral-heres-how-the-platform-works-11768562814799.html
 
-- JPMorgan ramps up hiring across Europe amid rising investor confidence, says it has ‘capital to deploy’
-  JPMorgan Chase plans to expand its dealmaking team in Europe. The bank sees investor confidence growing, and expects favourable conditions for mergers and acquisitions.
-  🔗 https://www.livemint.com/companies/news/jpmorgan-ramps-up-hiring-across-europe-amid-rising-investor-confidence-says-it-has-capital-to-deploy-11768553902810.html
+- Jio Platforms Q3 profit rises 11% as higher-value users drive growth
+  Jio Platforms reported a 3.4% sequential and 11.2% year-on-year growth in net
+  🔗 https://www.livemint.com/companies/company-results/jio-platforms-results-reliance-jio-11768541491925.html
 
-- LTIMindtree bags $330 million contract from central tax department to upgrade tax analytics platform with AI
-  The deal strengthens LTIMindtree's position in digital transformation, following significant
-  🔗 https://www.livemint.com/companies/ltimindtree-330-million-contract-central-tax-department-cbdt-ai-tax-analytics-platform-11768549748207.html
+- Sebi overhauls mutual fund rules to boost transparency
+  Sebi has introduced new regulations effective April 1, 2026, lowering expense ratio caps for
+  🔗 https://www.livemint.com/market/stock-market-news/sebi-overhauls-mutual-fund-rules-to-boost-transparency-11768578758660.html
 
-- Federal Bank's Q3 profit up 9% on strong loan growth, better asset quality
-  Federal Bank's net profit rose 9% year-on-year to  ₹
-  🔗 https://www.livemint.com/companies/company-results/federal-banks-q3-results-profit-loan-asset-quality-federal-bank-share-price-11768551272424.html
+- Gold rates today: MCX gold slips  ₹720 per 10g, silver plunges  ₹7,000 per kg on easing geopolitical worries
+  Gold and silver prices fell on 16 January due to a stronger US dollar and reduced geopolitical tensions. Gold futures dropped by  ₹721 to  ⁹1,42
+  🔗 https://www.livemint.com/market/commodities/gold-rates-today-mcx-gold-falls-rs-1-560-per-10g-silver-plunges-rs-7-000-per-kg-on-easing-geopolitical-worries-11768573750198.html
 
-- Mint Explainer: What Justice Pardiwala’s sovereignty note in the Tiger Global case means for India’s tax treaties
-  Justice R. Mahadevan authored the main Tiger Global judgment. Justice J.B. Pardiwala wrote a separate concurring opinion.
-  🔗 https://www.livemint.com/companies/news/justice-pardiwala-note-tiger-global-tax-ruling-india-treaty-implications-11768545660688.html
+- Reliance Retail Q3 net profit rises 2% to  ₹3,558 crore, revenue jumps record  ₹97,605 crore. Details here
+  Reliance Retail reported a net profit of 3,558 crore, a 2% rise. Gross revenue hit
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-retail-q3-net-profit-rises-2-to-rs-3-558-crore-revenue-jumps-record-rs-97-605-crore-details-here-11768572452072.html
 
-- Budget 2026: Indian stock market to remain open on Sunday, February 1
-  Indian stock market will remain open on Sunday, February 1 on account
-  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-indian-stock-market-to-remain-open-on-sunday-february-1-11768566151053.html
+- DLF to declare Q3FY26 results on this date. Check details
+  DLF will announce its Q3FY26 financial results on January 22, 2026. The trading window for insiders is closed until 48 hours after the results. The company reported a 15% decline
+  🔗 https://www.livemint.com/market/stock-market-news/dlf-to-declare-q3fy26-results-on-this-date-check-details-11768570349687.html
 
-- Jefferies withdraws from bitcoin, shifts to gold amid concerns of quantum computing
-  Jefferies' strategist Christopher Wood announced a complete withdrawal of its 10% Bitcoin allocation due to long-term concerns
-  🔗 https://www.livemint.com/market/cryptocurrency/jefferies-withdraws-from-bitcoin-shifts-to-gold-amid-concerns-of-quantum-computing-11768554917347.html
-
-- Tata Tech Q3 results: Revenue from operations climbs nearly 4% YoY; profit plunges 96%, impacted by new labour codes
-  Tata Tech Q3 results: Profit plunged 96% due to the impact of new labour codes. Consolidated revenue from operations for the quarter rose 3.7
-  🔗 https://www.livemint.com/market/stock-market-news/tata-tech-q3-results-revenue-from-operations-climbs-nearly-4-yoy-profit-plunged-96-impacted-by-new-labour-codes-11768561577358.html
-
-- Budget 2026: Preventive care push to Nutraceutical manufacturing: 5 key asks by Healthcare sector
-  The Indian healthcare sector anticipates an increase in government spending to 2.5%-3% of GDP in the upcoming Union Budget 2026. Experts emphasize the need for enhanced public health allocation
-  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-preventive-care-push-to-nutraceutical-manufacturing-5-key-asks-by-healthcare-sector-11768556689076.html
-
-- Tech Mahindra Q3 results: Net profit rises 14% to 1,122 crore YoY; revenue up 8%
-  Revenue rose 8% to  ₹14,393 crore, with EBIT up 40.1%. The firm secured new contracts worth USD 1.1 billion, reflecting strong demand.
-  🔗 https://www.livemint.com/market/stock-market-news/tech-mahindra-q3-results-net-profit-rises-14-to-1-122-crore-yoy-revenue-up-8-11768559939806.html
+- Reliance Q3 results: From profit, revenue to New Energy update— 5 key highlights from RIL Q3 earnings
+  Mukesh Ambani-owned Reliance Industries (RIL) reported a nearly 2% year-on-year (YoY) rise in its consolidated profit to  ₹22
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-q3-results-profit-revenue-ebitda-jio-reliance-retail-key-highlights-from-mukesh-ambani-ril-q3-earnings-11768560885033.html
 
 - Philippines Bans Grok Website, Eyes X Talks as Backlash Grows
   The Philippines blocked access to the website of Elon Musk’s Grok artificial intelligence chatbot as a global backlash grows
@@ -100,45 +100,105 @@
   Ashley St Clair, Elon Musk's child's mother, has sued xAI for generating explicit deepfake images of her via Grok AI. She claims emotional distress and loss of privacy, while xAI counters that
   🔗 https://www.livemint.com/technology/tech-news/mother-of-elon-musk-s-child-sues-xai-alleges-grok-generated-explicit-deepfakes-of-her-11768531290007.html
 
-- Tech Mahindra Q3 Results: Profit jumps 14% YoY to Rs 1,122 cr, EBIT margin expands 290 bps to 13.1%
+- Vijay Kedia buys stake in smallcap SPML Infra via bulk deal
+  Kedia Securities bought over 14 lakh shares for approximately Rs 25 crore. SPML Infra is a smallcap infrastructure firm with expertise in power, water and environment sectors.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-buys-stake-in-smallcap-spml-infra-via-bulk-deal/articleshow/126584652.cms
+
+- Sebi approves separate auction session to determine closing stock prices
+  Sebi is revamping how stock closing prices are determined in India's equity cash market. The move aims to enhance price discovery and transparency. Initially, CAS will apply to derivative-linked stocks.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-approves-separate-auction-session-to-determine-closing-stock-prices/articleshow/126583422.cms
+
+- Gaudium IVF, Sillverton Industries among 7 IPOs approved by Sebi
+  India's capital markets regulator Sebi has approved seven Initial Public Offerings. Companies in manufacturing, chemicals, logistics, healthcare, real estate, engineering, and precious metals can now raise funds.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/gaudium-ivf-sillverton-industries-among-7-ipos-approved-by-sebi/articleshow/126582236.cms
+
+- Wipro ADRs fall 6% as Q3 profit declines, deal activity goes down
+  Wipro's US-listed ADRs dropped nearly 6% following its December-quarter results. Investors reacted to a 7% year-on-year decline in net profit.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wipro-adrs-fall-6-as-q3-profit-declines-deal-activity-goes-down/articleshow/126576117.cms
+
+- Reliance Industries sees marginal profit growth in Q3 driven by O2C, Jio
   
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q3-results-profit-jumps-14-yoy-to-rs-1122-cr-ebit-margin-expands-290-bps-to-13-1/videoshow/126566314.cms
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-sees-marginal-profit-growth-in-q3-driven-by-o2c-jio/videoshow/126575390.cms
 
-- Binance lists 12 themes that will shape crypto market in 2026. Check details
-  Crypto crossed major milestones in 2025 amid volatility, with market cap topping $4 trillion and Bitcoin hitting record highs. As 2026 begins, Binance highlights key themes shaping
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/binance-lists-12-themes-that-will-shape-crypto-market-in-2026-check-details/articleshow/126566047.cms
-
-- February 1 Budget to make it a working Sunday for stock market traders. BSE, NSE announce schedule
-  BSE and NSE have decided to keep the equity market open for trading on February 1. Finance Minister Nirmala Sitharaman would present the Union Budget on that day.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/february-1-budget-to-make-it-a-working-sunday-for-stock-market-traders-bse-nse-announce-schedule/articleshow/126565598.cms
-
-- Tech Mahindra Q3 results: Revenue &amp; profit likely to jump on margin gains
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q3-results-revenue-profit-likely-to-jump-on-margin-gains/videoshow/126565159.cms
-
-- Wipro Q3 Results Press Conference Live: Margins, deal wins, Harman impact in focus
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q3-results-press-conference-live-margins-deal-wins-harman-impact-in-focus/videoshow/126565100.cms
-
-- Why Regime Change In Iran Could Hurt India, But Benefit Pakistan, China - NDTV
-  Why Regime Change In Iran Could Hurt India,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2FnMjFZVTJNXzNSTHp2TTlGcGxHZGFiNnpoY0ZKaGItam1LTDRUanJpNVp2ek4zRlU3RXlITlREMHItZk5pdFlQbExhNVI5OF82Q0t2MTM3bDJhaGhUT1VEVXUwTFQ4cWxKSEJGLWFLdW5ObHZxODVIeVA4RkI0cUQ4SjZXb0ZCaEtMVXZieUc1NjhJU19RU3ZNa2ZTaWpESndsT1c2bXo3bHFpQWo00gG3AUFVX3lxTFBvNkRPT05DMWxyLXQ5eXFHdVBySEoxTDNYNE1hdXdhWlhrRWM5c3ZLZW9kSlFZaDhWRkN2c053cU1xM2pBMjF4M1ZWaDBpYS1pWWl5MEdhVnkzX1hnLWFpN2poU0NvclE4el94SzFWSi1iQVlJZEk1ajdOdUxsTE9HUkk3Ujd6ZXdrSEhGM3lEdThoSWdiak1zSzZmNW42bG9OVGlDRGN1R1otV0pLUXVnRU9Pa2FjMA?oc=5
+- Trade Deal On Cards As EU Leaders Visit India For Republic Day Celebrations - NDTV
+  " target="_blank">Trade Deal On Cards
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlJUaXMtUkdscDF5dG9NQ0ZsQmlWNnZZZEthWlB4dzFUcXVERzQ4UC04bkdVcjZNZS0wOEhlNWFuVHk1NEc4TVhXSUpQWEdUOWdlWWNWbFRFTUVRcVpPN2Nob0haOGFRXzJOZ3hHWEZickkxV25NUnYtUzF4MURRdElxOUdRaGhraXFtTWp0b1ItOHRXMElEZ1VxTk5jYjZ2NjdiWkRNUmh5Q09uR0Zhd1ZibDBJVDTSAb8BQVVfeXFMUE1nX0JZRV9CM2FtVDBDWlkzSHczWk9RQmVtZFBENUlKSzdVd1B2SGhCdG9uTndlQkZsZUNpWDJUbEM1T3I3ZFZoclc2VHhTQ3NIZE1WNlFYZndsbHRlQUhoaDRqRVRpN1F0MHVSNjk5TkQ1RnRsOUpZT3NLU21GVG9QZ2NZbnVGanpzV3hoRExLVENHRms3VjRKU0ViSGdyMDdUd19yeGc3cVFJclJYNFhIa0ZFcHB2N1pJU3lMczQ?oc=5
 
 - As trade talks with US drag, Republican leader defends India: ‘They bring investments’ | India News - Hindustan Times
   The Indian government is in talks with the US over a possible trade deal.
   🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTc0U1l0ejVkZW1WVmJkbjNyN1VfNk1fcG5yUThPbkhoZDBNbnBwa19xOUQzSTNlWUN0cDhTR3RKQURuZ1RMMlN1emNxemdUTV9FOEpNekp6akVPOEtyMHAxSGtXZklrc1RMQTU0dHJ2Mm9SOFF1Uk84VzhGUk5Dc3BRUVZ1M3gyeENhYXJ0RWJFc0dTUm90U1hXajZsQkNYUERJOC1tUS1IT2g4S1lXZVpiMDJJekpvSUxpNjR6d01pZkpTTGlneWRYSU5RRERQM3B5eDQxeHJjM2t5ZzZqRl9kdUhtYjJhWWYxZjMtWXktenlEeldVWm5RVUE4ZG85MWthN0JRd9IBjAJBVV95cUxQMHBCMjMwRVhZal9ZbDNZVGJTRjJtRVR3NklqRV9PU3E4dGtCTzlMcDVUcGFGUGlRcGpZZ094RU1jZkhOSWhFZzNKUFdud0Jha2JmcllZSEZPVElsVDJDV3dNRFM2NnBpQ3FNS0gtajdGTC1HZEtOdjIyMkdLbkF4Nm82UW9hV3JibFMtUUxodzlBaEpVa29QVW1FRW5pQmh5QWlqb216N25XZ1dfT3J5NVEwcGd2dUl0VTFYTkZEMXk3MmkzeU9WMTJTQzRCZHIxR3c2WVBzSEEtOW5xOGFKZXZoeWRFRFNYWFI5aFh1dXdlRDlld0dYQ3VXSHVScEJYQzFIMU9pNDZON1I2?oc=5
 
-- Evening news wrap: BJP sweeps Mumbai civic polls; Trump unveils US-backed Gaza 'board of peace' & more - Times of India
-  The Times of India reports that the BJP swept Mumbai civic polls. The party is
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYVk2VmtXSEJBWjNTRGRya3ZweGVnSVFvMnc3RGJrRjM3TjVFYjVxS1lJY09KRFFKY2hNZXhVSHk5ZUY5Z0RLY2NjRWxXMGpIN0lzQjZXWlpnSDlGVFNCSmJWYXNheXRUM0hOeFloUmJuZjRqSk1mV1lseVF6WDNONXVVWFJXdjZRT3JnOHp2VmtiUDNnX0MwQUVleHp2amoyZVFLeGowbHZTQndxbnJjOFM1UmV0Qm9kcllUbDZMY2s5aVBtVno2WVZESkhpdGpXWUlGOWc1X3p3RFVWaFhORklXOVpYUkFpY1o3WTN0XzFmTHloSURN0gH8AUFVX3lxTE9KZWlBbmFmQWNBeEZjcGJnRXRIM1dDbXZ2ZmxFNm5PU2pWYzZjLVNiRG1sU2JVUDBzV19fcFZENi15ZW1za01iRVdXMDRxYWpGd2lMNGNpQnFGV01TRERmNVFHb0dmOVA1T3FURDVVb0FtTmM0RVFXd3gtb2hsb3RCN3djVXBYRl9pdlhlamV3aFY1QWlmV01lZ0VsN0xUUmNBZVFTd0ptV1VHRVd5a2I1Z0FfOXMyaHFOQmJPZkNidk1SdGhxM1VscU5tWHBoZU9iQk9HaWdWQnY5R09DX0EyNklaSFBlUVlubzJTdXdlZWl4Mi1tajQ4ZkZidQ?oc=5
+- Delhi High Court seeks Centre’s response on Iran’s detention of 16 Indian seafarers - The Hindu
+  Delhi High Court seeks Centre’s response on Iran
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVNrTWd1YUtqRlYyLWhfclNHcU5aYmUzX0UtVzBGd2o2ZnQ1NTJOTURMaXNFbEswR01aVmZLcG5DeGI2QkhXOVpaRnBIRDdiemtGYXA3TWNOck8wejkwSG9fRFlKNExpWUU2V05GamlNTGxYOTlZU1B4LWxMRnpEWW5jYXJjM2lsMXJfQkIwQUV6TVllRWVmRW9tQXpUTFdfZHVkczZ4R3NmbFlLNWhaVWVUOFlraU9KZVFKZDBlTnZJbldjVjJWMkVXdnNOY3ZZeUNYWWxIRdIB3gFBVV95cUxPbTg2OXF0RDg1RHllV2s3WTZJdEpvVVFPSUdHbjBLZEl2Vjl4V295RWk1TVhRVzVOVVdUNS01SEI0RUMxd1dYakVYaWg2b0l2OXYzNk84SFlUZ1hmc0pxamhWZ3F4V1JZcjF1UVlDa3EyQ3N0WGwtR21JV2ZTYnd1NURveGZMRlU5YWh5OGk0bHdLN09FV2syVklBY3dicmRHWVV5QU56MTliLWR6VGFJUHlnNnB5Y3pxYVBWQWw3VzA1dWJIRjZZM1piUklNTXA4cmhwTHBWazBpc3cxa2c?oc=5
 
-- Vice President C P Radhakrishnan says Lord McFall’s visit reflects strong India-UK parliamentary ties - News On AIR
-  Vice President C P Radhakrishnan says Lord McFall’
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSUlpMnBTbmVpWlRvYnROYVF6X3pYZjhaSUhfODI5TlNpSzJvcENLMUxGX2pmQk9SODF4MFlnV1NkQTJoUHZnM1dVdmd1RHBhRTRoSC15SGJJX2J6Nl9kUHo4ZTRMOTRnQXRYNnRQanIzbHhYazJXZTB3dzNCVXhqTHVZalBzLWhGbFk2VDhWSV9yUVlrT2Z0R0tUQ0NjZ05ickNnWmlhQlJDUU5kNTlObXk5WUFRd3F1LTVJTGJ2U3RXMHpIWWRuUkpB?oc=5
+- India Won't Leave Iran's Chabahar Port, Working With US For Middle Path: Sources - NDTV
+  India Won't Leave Iran's Chabahar Port,
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWE0UjBfMFJCeVFyS0FGd2dVWTVmUXlNeTUwUGtVRGZ1UmV3LW1FNGpCcGlQWUpoR0cyaVIzWWZYQkNtS3d6MXU2bE9MLVlGZ0RWeDAwRHZTMW9hOElhMi0welV2TkM0aU1SR01uWWxvSlNqSm1mZTF6YUdPM0tMWjhqMnpLaVNfRmxQRVhnZkZjUExGM3l3V0E1VGhpSExzN3NkZlZQZnBGbGQzTE9sMXgwSnZnWTNXMjRUeUN6Slk5ZlQ1ZHQ2bXNzY3MxU21zQnlPUkswcWxHd9IB4gFBVV95cUxPb2syT3dDS0VkVURIaU5zVTg3MS1KVzhMZTdyNGVWeUpOU0JCTHJweVNJQVQ4Z1I5VUxsSGRYNjQ3U0VrVXk3RExDQTVuNk1Nc1lSMldGWUQ5QnR3SjRYV2xBMmUzanplTDFiUWx2dERMN0JpWEwyR19JUGJ4amJEb0JmMXpjd2lzZzlzQjNLQUxDXzBEQmplUEhjajBla2JEM3V1YmRvaEtPYUl0SEsydi03R016VGRpck5rTGdSdE9OYkhwQThRdWg5R1pYVDUwRS1wcWU0Z2VNMElPaGgtRlJn?oc=5
 
-- BJP Repeats 2017 Performance On RSS Turf Nagpur, Deja Vu For Congress - NDTV
-  BJP Repeats 2017 Performance On RSS Turf
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQYkNoSlVtT1R3RXhmUUZJZ1YxRDIzTXZMNnVGbUJTd2xCNlA2aUl1ODVOLTMwbmdjYWJxdjh4XzdjQWJYSUhKZ1M4d1hrZXI4SzNZSkZuTWl1Rnp2Wmxkal9jZ2pPYnU1TWRybzI2TkhMN3BOTXZnM09obE9Ob1ZEdXU2Ym9wNnZmWmtEMV94Ti1aLVB2NlRjQWF6TDJBckUtTjhRMlBVVkpBVVBEb0hxci1NX0ZqeDBWaXViTGtZYldOUFpuRHlYRjk3TEtxdmMwZXlrcUlvd1RubEQ3U1dTTVFIS3Fwd2dqQWxSVlhYeU1ORW55bTR4VUlCOUV1WEp1d0p0WUhGdjM2alBa0gGUAkFVX3lxTE1CYUNPVlJzaVVZN0E2R0hDMDNpX21LdmVfZk5adFBnVk1TanlEZzJNX3UtTWhsenh2UERrbFFhM05xY0YtbHJpU0xVbXQ4dVFiR0VHajFzdGxOLUt6YXZOcTBNajczQmxOazR1bUNRTlhrVjRYb2lLS0NPc3I0aDd5UUdoa3lQZ2NEMEZrMDVNQk95MllFTTYzMFI2RUJyajA5OTlKNENxdW5RbFVkX0VaY0FPOWgwNlBPdTRSdlhUYnZvX3o3YU9mOFUxdUV4QjlaUjBucTEtLTFJMUFZUGxERjM1TE55cE1PWVdmbjBOb3dKdmJKTE8tSGc0N0EtYzA2eXlvazFFaV9YMHc5bGdFeXNRMA?oc=5
+- India-Myanmar border fence cut in Manipur again - Times of India
+  India-Myanmar border fence cut
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdktKVFFBQ0hkZGJOOXBPdFZBZko3TXZhQlBLX1gyYXdhV3BfOEExVUJ2VUNSczFtLWlYSS1jMVN5TTNyR0pzTXhwRExXcjQ3V0RYWVhJcHdSY1I4WWg4Tl9abXQ5dkNEd2EtQWlmYXRTQmpyV2VocWZmeVdsa1JjRldZeklsSy1mUjRuMElqQkJ3X2JyQ1NOUk1sN2RWVFlyVXhIMG5UdUVaNl8tYmxVNjdNWkt5YXJza28wNkVpUjLSAcYBQVVfeXFMTjJoS1pYaGppZVAwQ3NKenJUMXp1M2IydkFsRktNS0hEY1FRXzdJWG9Ib3pkRGhmZGxoMFFEQk1HODlsdmRPM054ZlpmdGNTSndkdmJycWVZbnZJRHk4SmFOdDJGd3RTMU0yeGNOM3ZHamJkS0JYUy1RNGFya0dMSjFSWDRQdE02ZmhpOWwxNDhURmttMGNqRzl5Mm1fQlQ3ZnA3Q0w5UEw3YWFmcTNDOEJJcmVzMmFhdkhDVGk2VTc0X3VkaTFR?oc=5
+
+- Trade Deal On Cards As EU Leaders Visit India For Republic Day Celebrations - NDTV
+  " target="_blank">Trade Deal On Cards
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlJUaXMtUkdscDF5dG9NQ0ZsQmlWNnZZZEthWlB4dzFUcXVERzQ4UC04bkdVcjZNZS0wOEhlNWFuVHk1NEc4TVhXSUpQWEdUOWdlWWNWbFRFTUVRcVpPN2Nob0haOGFRXzJOZ3hHWEZickkxV25NUnYtUzF4MURRdElxOUdRaGhraXFtTWp0b1ItOHRXMElEZ1VxTk5jYjZ2NjdiWkRNUmh5Q09uR0Zhd1ZibDBJVDTSAb8BQVVfeXFMUE1nX0JZRV9CM2FtVDBDWlkzSHczWk9RQmVtZFBENUlKSzdVd1B2SGhCdG9uTndlQkZsZUNpWDJUbEM1T3I3ZFZoclc2VHhTQ3NIZE1WNlFYZndsbHRlQUhoaDRqRVRpN1F0MHVSNjk5TkQ1RnRsOUpZT3NLU21GVG9QZ2NZbnVGanpzV3hoRExLVENHRms3VjRKU0ViSGdyMDdUd19yeGc3cVFJclJYNFhIa0ZFcHB2N1pJU3lMczQ?oc=5
+
+- As trade talks with US drag, Republican leader defends India: ‘They bring investments’ | India News - Hindustan Times
+  The Indian government is in talks with the US over a possible trade deal.
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTc0U1l0ejVkZW1WVmJkbjNyN1VfNk1fcG5yUThPbkhoZDBNbnBwa19xOUQzSTNlWUN0cDhTR3RKQURuZ1RMMlN1emNxemdUTV9FOEpNekp6akVPOEtyMHAxSGtXZklrc1RMQTU0dHJ2Mm9SOFF1Uk84VzhGUk5Dc3BRUVZ1M3gyeENhYXJ0RWJFc0dTUm90U1hXajZsQkNYUERJOC1tUS1IT2g4S1lXZVpiMDJJekpvSUxpNjR6d01pZkpTTGlneWRYSU5RRERQM3B5eDQxeHJjM2t5ZzZqRl9kdUhtYjJhWWYxZjMtWXktenlEeldVWm5RVUE4ZG85MWthN0JRd9IBjAJBVV95cUxQMHBCMjMwRVhZal9ZbDNZVGJTRjJtRVR3NklqRV9PU3E4dGtCTzlMcDVUcGFGUGlRcGpZZ094RU1jZkhOSWhFZzNKUFdud0Jha2JmcllZSEZPVElsVDJDV3dNRFM2NnBpQ3FNS0gtajdGTC1HZEtOdjIyMkdLbkF4Nm82UW9hV3JibFMtUUxodzlBaEpVa29QVW1FRW5pQmh5QWlqb216N25XZ1dfT3J5NVEwcGd2dUl0VTFYTkZEMXk3MmkzeU9WMTJTQzRCZHIxR3c2WVBzSEEtOW5xOGFKZXZoeWRFRFNYWFI5aFh1dXdlRDlld0dYQ3VXSHVScEJYQzFIMU9pNDZON1I2?oc=5
+
+- Delhi High Court seeks Centre’s response on Iran’s detention of 16 Indian seafarers - The Hindu
+  Delhi High Court seeks Centre’s response on Iran
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVNrTWd1YUtqRlYyLWhfclNHcU5aYmUzX0UtVzBGd2o2ZnQ1NTJOTURMaXNFbEswR01aVmZLcG5DeGI2QkhXOVpaRnBIRDdiemtGYXA3TWNOck8wejkwSG9fRFlKNExpWUU2V05GamlNTGxYOTlZU1B4LWxMRnpEWW5jYXJjM2lsMXJfQkIwQUV6TVllRWVmRW9tQXpUTFdfZHVkczZ4R3NmbFlLNWhaVWVUOFlraU9KZVFKZDBlTnZJbldjVjJWMkVXdnNOY3ZZeUNYWWxIRdIB3gFBVV95cUxPbTg2OXF0RDg1RHllV2s3WTZJdEpvVVFPSUdHbjBLZEl2Vjl4V295RWk1TVhRVzVOVVdUNS01SEI0RUMxd1dYakVYaWg2b0l2OXYzNk84SFlUZ1hmc0pxamhWZ3F4V1JZcjF1UVlDa3EyQ3N0WGwtR21JV2ZTYnd1NURveGZMRlU5YWh5OGk0bHdLN09FV2syVklBY3dicmRHWVV5QU56MTliLWR6VGFJUHlnNnB5Y3pxYVBWQWw3VzA1dWJIRjZZM1piUklNTXA4cmhwTHBWazBpc3cxa2c?oc=5
+
+- India Won't Leave Iran's Chabahar Port, Working With US For Middle Path: Sources - NDTV
+  India Won't Leave Iran's Chabahar Port,
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWE0UjBfMFJCeVFyS0FGd2dVWTVmUXlNeTUwUGtVRGZ1UmV3LW1FNGpCcGlQWUpoR0cyaVIzWWZYQkNtS3d6MXU2bE9MLVlGZ0RWeDAwRHZTMW9hOElhMi0welV2TkM0aU1SR01uWWxvSlNqSm1mZTF6YUdPM0tMWjhqMnpLaVNfRmxQRVhnZkZjUExGM3l3V0E1VGhpSExzN3NkZlZQZnBGbGQzTE9sMXgwSnZnWTNXMjRUeUN6Slk5ZlQ1ZHQ2bXNzY3MxU21zQnlPUkswcWxHd9IB4gFBVV95cUxPb2syT3dDS0VkVURIaU5zVTg3MS1KVzhMZTdyNGVWeUpOU0JCTHJweVNJQVQ4Z1I5VUxsSGRYNjQ3U0VrVXk3RExDQTVuNk1Nc1lSMldGWUQ5QnR3SjRYV2xBMmUzanplTDFiUWx2dERMN0JpWEwyR19JUGJ4amJEb0JmMXpjd2lzZzlzQjNLQUxDXzBEQmplUEhjajBla2JEM3V1YmRvaEtPYUl0SEsydi03R016VGRpck5rTGdSdE9OYkhwQThRdWg5R1pYVDUwRS1wcWU0Z2VNMElPaGgtRlJn?oc=5
+
+- India-Myanmar border fence cut in Manipur again - Times of India
+  India-Myanmar border fence cut
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdktKVFFBQ0hkZGJOOXBPdFZBZko3TXZhQlBLX1gyYXdhV3BfOEExVUJ2VUNSczFtLWlYSS1jMVN5TTNyR0pzTXhwRExXcjQ3V0RYWVhJcHdSY1I4WWg4Tl9abXQ5dkNEd2EtQWlmYXRTQmpyV2VocWZmeVdsa1JjRldZeklsSy1mUjRuMElqQkJ3X2JyQ1NOUk1sN2RWVFlyVXhIMG5UdUVaNl8tYmxVNjdNWkt5YXJza28wNkVpUjLSAcYBQVVfeXFMTjJoS1pYaGppZVAwQ3NKenJUMXp1M2IydkFsRktNS0hEY1FRXzdJWG9Ib3pkRGhmZGxoMFFEQk1HODlsdmRPM054ZlpmdGNTSndkdmJycWVZbnZJRHk4SmFOdDJGd3RTMU0yeGNOM3ZHamJkS0JYUy1RNGFya0dMSjFSWDRQdE02ZmhpOWwxNDhURmttMGNqRzl5Mm1fQlQ3ZnA3Q0w5UEw3YWFmcTNDOEJJcmVzMmFhdkhDVGk2VTc0X3VkaTFR?oc=5
+
+- Trade Deal On Cards As EU Leaders Visit India For Republic Day Celebrations - NDTV
+  " target="_blank">Trade Deal On Cards
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlJUaXMtUkdscDF5dG9NQ0ZsQmlWNnZZZEthWlB4dzFUcXVERzQ4UC04bkdVcjZNZS0wOEhlNWFuVHk1NEc4TVhXSUpQWEdUOWdlWWNWbFRFTUVRcVpPN2Nob0haOGFRXzJOZ3hHWEZickkxV25NUnYtUzF4MURRdElxOUdRaGhraXFtTWp0b1ItOHRXMElEZ1VxTk5jYjZ2NjdiWkRNUmh5Q09uR0Zhd1ZibDBJVDTSAb8BQVVfeXFMUE1nX0JZRV9CM2FtVDBDWlkzSHczWk9RQmVtZFBENUlKSzdVd1B2SGhCdG9uTndlQkZsZUNpWDJUbEM1T3I3ZFZoclc2VHhTQ3NIZE1WNlFYZndsbHRlQUhoaDRqRVRpN1F0MHVSNjk5TkQ1RnRsOUpZT3NLU21GVG9QZ2NZbnVGanpzV3hoRExLVENHRms3VjRKU0ViSGdyMDdUd19yeGc3cVFJclJYNFhIa0ZFcHB2N1pJU3lMczQ?oc=5
+
+- As trade talks with US drag, Republican leader defends India: ‘They bring investments’ | India News - Hindustan Times
+  The Indian government is in talks with the US over a possible trade deal.
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTc0U1l0ejVkZW1WVmJkbjNyN1VfNk1fcG5yUThPbkhoZDBNbnBwa19xOUQzSTNlWUN0cDhTR3RKQURuZ1RMMlN1emNxemdUTV9FOEpNekp6akVPOEtyMHAxSGtXZklrc1RMQTU0dHJ2Mm9SOFF1Uk84VzhGUk5Dc3BRUVZ1M3gyeENhYXJ0RWJFc0dTUm90U1hXajZsQkNYUERJOC1tUS1IT2g4S1lXZVpiMDJJekpvSUxpNjR6d01pZkpTTGlneWRYSU5RRERQM3B5eDQxeHJjM2t5ZzZqRl9kdUhtYjJhWWYxZjMtWXktenlEeldVWm5RVUE4ZG85MWthN0JRd9IBjAJBVV95cUxQMHBCMjMwRVhZal9ZbDNZVGJTRjJtRVR3NklqRV9PU3E4dGtCTzlMcDVUcGFGUGlRcGpZZ094RU1jZkhOSWhFZzNKUFdud0Jha2JmcllZSEZPVElsVDJDV3dNRFM2NnBpQ3FNS0gtajdGTC1HZEtOdjIyMkdLbkF4Nm82UW9hV3JibFMtUUxodzlBaEpVa29QVW1FRW5pQmh5QWlqb216N25XZ1dfT3J5NVEwcGd2dUl0VTFYTkZEMXk3MmkzeU9WMTJTQzRCZHIxR3c2WVBzSEEtOW5xOGFKZXZoeWRFRFNYWFI5aFh1dXdlRDlld0dYQ3VXSHVScEJYQzFIMU9pNDZON1I2?oc=5
+
+- Delhi High Court seeks Centre’s response on Iran’s detention of 16 Indian seafarers - The Hindu
+  Delhi High Court seeks Centre’s response on Iran
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVNrTWd1YUtqRlYyLWhfclNHcU5aYmUzX0UtVzBGd2o2ZnQ1NTJOTURMaXNFbEswR01aVmZLcG5DeGI2QkhXOVpaRnBIRDdiemtGYXA3TWNOck8wejkwSG9fRFlKNExpWUU2V05GamlNTGxYOTlZU1B4LWxMRnpEWW5jYXJjM2lsMXJfQkIwQUV6TVllRWVmRW9tQXpUTFdfZHVkczZ4R3NmbFlLNWhaVWVUOFlraU9KZVFKZDBlTnZJbldjVjJWMkVXdnNOY3ZZeUNYWWxIRdIB3gFBVV95cUxPbTg2OXF0RDg1RHllV2s3WTZJdEpvVVFPSUdHbjBLZEl2Vjl4V295RWk1TVhRVzVOVVdUNS01SEI0RUMxd1dYakVYaWg2b0l2OXYzNk84SFlUZ1hmc0pxamhWZ3F4V1JZcjF1UVlDa3EyQ3N0WGwtR21JV2ZTYnd1NURveGZMRlU5YWh5OGk0bHdLN09FV2syVklBY3dicmRHWVV5QU56MTliLWR6VGFJUHlnNnB5Y3pxYVBWQWw3VzA1dWJIRjZZM1piUklNTXA4cmhwTHBWazBpc3cxa2c?oc=5
+
+- India Won't Leave Iran's Chabahar Port, Working With US For Middle Path: Sources - NDTV
+  India Won't Leave Iran's Chabahar Port,
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWE0UjBfMFJCeVFyS0FGd2dVWTVmUXlNeTUwUGtVRGZ1UmV3LW1FNGpCcGlQWUpoR0cyaVIzWWZYQkNtS3d6MXU2bE9MLVlGZ0RWeDAwRHZTMW9hOElhMi0welV2TkM0aU1SR01uWWxvSlNqSm1mZTF6YUdPM0tMWjhqMnpLaVNfRmxQRVhnZkZjUExGM3l3V0E1VGhpSExzN3NkZlZQZnBGbGQzTE9sMXgwSnZnWTNXMjRUeUN6Slk5ZlQ1ZHQ2bXNzY3MxU21zQnlPUkswcWxHd9IB4gFBVV95cUxPb2syT3dDS0VkVURIaU5zVTg3MS1KVzhMZTdyNGVWeUpOU0JCTHJweVNJQVQ4Z1I5VUxsSGRYNjQ3U0VrVXk3RExDQTVuNk1Nc1lSMldGWUQ5QnR3SjRYV2xBMmUzanplTDFiUWx2dERMN0JpWEwyR19JUGJ4amJEb0JmMXpjd2lzZzlzQjNLQUxDXzBEQmplUEhjajBla2JEM3V1YmRvaEtPYUl0SEsydi03R016VGRpck5rTGdSdE9OYkhwQThRdWg5R1pYVDUwRS1wcWU0Z2VNMElPaGgtRlJn?oc=5
+
+- India-Myanmar border fence cut in Manipur again - Times of India
+  India-Myanmar border fence cut
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdktKVFFBQ0hkZGJOOXBPdFZBZko3TXZhQlBLX1gyYXdhV3BfOEExVUJ2VUNSczFtLWlYSS1jMVN5TTNyR0pzTXhwRExXcjQ3V0RYWVhJcHdSY1I4WWg4Tl9abXQ5dkNEd2EtQWlmYXRTQmpyV2VocWZmeVdsa1JjRldZeklsSy1mUjRuMElqQkJ3X2JyQ1NOUk1sN2RWVFlyVXhIMG5UdUVaNl8tYmxVNjdNWkt5YXJza28wNkVpUjLSAcYBQVVfeXFMTjJoS1pYaGppZVAwQ3NKenJUMXp1M2IydkFsRktNS0hEY1FRXzdJWG9Ib3pkRGhmZGxoMFFEQk1HODlsdmRPM054ZlpmdGNTSndkdmJycWVZbnZJRHk4SmFOdDJGd3RTMU0yeGNOM3ZHamJkS0JYUy1RNGFya0dMSjFSWDRQdE02ZmhpOWwxNDhURmttMGNqRzl5Mm1fQlQ3ZnA3Q0w5UEw3YWFmcTNDOEJJcmVzMmFhdkhDVGk2VTc0X3VkaTFR?oc=5
+
+- Trade Deal On Cards As EU Leaders Visit India For Republic Day Celebrations - NDTV
+  " target="_blank">Trade Deal On Cards
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlJUaXMtUkdscDF5dG9NQ0ZsQmlWNnZZZEthWlB4dzFUcXVERzQ4UC04bkdVcjZNZS0wOEhlNWFuVHk1NEc4TVhXSUpQWEdUOWdlWWNWbFRFTUVRcVpPN2Nob0haOGFRXzJOZ3hHWEZickkxV25NUnYtUzF4MURRdElxOUdRaGhraXFtTWp0b1ItOHRXMElEZ1VxTk5jYjZ2NjdiWkRNUmh5Q09uR0Zhd1ZibDBJVDTSAb8BQVVfeXFMUE1nX0JZRV9CM2FtVDBDWlkzSHczWk9RQmVtZFBENUlKSzdVd1B2SGhCdG9uTndlQkZsZUNpWDJUbEM1T3I3ZFZoclc2VHhTQ3NIZE1WNlFYZndsbHRlQUhoaDRqRVRpN1F0MHVSNjk5TkQ1RnRsOUpZT3NLU21GVG9QZ2NZbnVGanpzV3hoRExLVENHRms3VjRKU0ViSGdyMDdUd19yeGc3cVFJclJYNFhIa0ZFcHB2N1pJU3lMczQ?oc=5
+
+- As trade talks with US drag, Republican leader defends India: ‘They bring investments’ | India News - Hindustan Times
+  The Indian government is in talks with the US over a possible trade deal.
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTc0U1l0ejVkZW1WVmJkbjNyN1VfNk1fcG5yUThPbkhoZDBNbnBwa19xOUQzSTNlWUN0cDhTR3RKQURuZ1RMMlN1emNxemdUTV9FOEpNekp6akVPOEtyMHAxSGtXZklrc1RMQTU0dHJ2Mm9SOFF1Uk84VzhGUk5Dc3BRUVZ1M3gyeENhYXJ0RWJFc0dTUm90U1hXajZsQkNYUERJOC1tUS1IT2g4S1lXZVpiMDJJekpvSUxpNjR6d01pZkpTTGlneWRYSU5RRERQM3B5eDQxeHJjM2t5ZzZqRl9kdUhtYjJhWWYxZjMtWXktenlEeldVWm5RVUE4ZG85MWthN0JRd9IBjAJBVV95cUxQMHBCMjMwRVhZal9ZbDNZVGJTRjJtRVR3NklqRV9PU3E4dGtCTzlMcDVUcGFGUGlRcGpZZ094RU1jZkhOSWhFZzNKUFdud0Jha2JmcllZSEZPVElsVDJDV3dNRFM2NnBpQ3FNS0gtajdGTC1HZEtOdjIyMkdLbkF4Nm82UW9hV3JibFMtUUxodzlBaEpVa29QVW1FRW5pQmh5QWlqb216N25XZ1dfT3J5NVEwcGd2dUl0VTFYTkZEMXk3MmkzeU9WMTJTQzRCZHIxR3c2WVBzSEEtOW5xOGFKZXZoeWRFRFNYWFI5aFh1dXdlRDlld0dYQ3VXSHVScEJYQzFIMU9pNDZON1I2?oc=5
+
+- Delhi High Court seeks Centre’s response on Iran’s detention of 16 Indian seafarers - The Hindu
+  Delhi High Court seeks Centre’s response on Iran
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVNrTWd1YUtqRlYyLWhfclNHcU5aYmUzX0UtVzBGd2o2ZnQ1NTJOTURMaXNFbEswR01aVmZLcG5DeGI2QkhXOVpaRnBIRDdiemtGYXA3TWNOck8wejkwSG9fRFlKNExpWUU2V05GamlNTGxYOTlZU1B4LWxMRnpEWW5jYXJjM2lsMXJfQkIwQUV6TVllRWVmRW9tQXpUTFdfZHVkczZ4R3NmbFlLNWhaVWVUOFlraU9KZVFKZDBlTnZJbldjVjJWMkVXdnNOY3ZZeUNYWWxIRdIB3gFBVV95cUxPbTg2OXF0RDg1RHllV2s3WTZJdEpvVVFPSUdHbjBLZEl2Vjl4V295RWk1TVhRVzVOVVdUNS01SEI0RUMxd1dYakVYaWg2b0l2OXYzNk84SFlUZ1hmc0pxamhWZ3F4V1JZcjF1UVlDa3EyQ3N0WGwtR21JV2ZTYnd1NURveGZMRlU5YWh5OGk0bHdLN09FV2syVklBY3dicmRHWVV5QU56MTliLWR6VGFJUHlnNnB5Y3pxYVBWQWw3VzA1dWJIRjZZM1piUklNTXA4cmhwTHBWazBpc3cxa2c?oc=5
+
+- India Won't Leave Iran's Chabahar Port, Working With US For Middle Path: Sources - NDTV
+  India Won't Leave Iran's Chabahar Port,
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWE0UjBfMFJCeVFyS0FGd2dVWTVmUXlNeTUwUGtVRGZ1UmV3LW1FNGpCcGlQWUpoR0cyaVIzWWZYQkNtS3d6MXU2bE9MLVlGZ0RWeDAwRHZTMW9hOElhMi0welV2TkM0aU1SR01uWWxvSlNqSm1mZTF6YUdPM0tMWjhqMnpLaVNfRmxQRVhnZkZjUExGM3l3V0E1VGhpSExzN3NkZlZQZnBGbGQzTE9sMXgwSnZnWTNXMjRUeUN6Slk5ZlQ1ZHQ2bXNzY3MxU21zQnlPUkswcWxHd9IB4gFBVV95cUxPb2syT3dDS0VkVURIaU5zVTg3MS1KVzhMZTdyNGVWeUpOU0JCTHJweVNJQVQ4Z1I5VUxsSGRYNjQ3U0VrVXk3RExDQTVuNk1Nc1lSMldGWUQ5QnR3SjRYV2xBMmUzanplTDFiUWx2dERMN0JpWEwyR19JUGJ4amJEb0JmMXpjd2lzZzlzQjNLQUxDXzBEQmplUEhjajBla2JEM3V1YmRvaEtPYUl0SEsydi03R016VGRpck5rTGdSdE9OYkhwQThRdWg5R1pYVDUwRS1wcWU0Z2VNMElPaGgtRlJn?oc=5
+
+- India-Myanmar border fence cut in Manipur again - Times of India
+  India-Myanmar border fence cut
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdktKVFFBQ0hkZGJOOXBPdFZBZko3TXZhQlBLX1gyYXdhV3BfOEExVUJ2VUNSczFtLWlYSS1jMVN5TTNyR0pzTXhwRExXcjQ3V0RYWVhJcHdSY1I4WWg4Tl9abXQ5dkNEd2EtQWlmYXRTQmpyV2VocWZmeVdsa1JjRldZeklsSy1mUjRuMElqQkJ3X2JyQ1NOUk1sN2RWVFlyVXhIMG5UdUVaNl8tYmxVNjdNWkt5YXJza28wNkVpUjLSAcYBQVVfeXFMTjJoS1pYaGppZVAwQ3NKenJUMXp1M2IydkFsRktNS0hEY1FRXzdJWG9Ib3pkRGhmZGxoMFFEQk1HODlsdmRPM054ZlpmdGNTSndkdmJycWVZbnZJRHk4SmFOdDJGd3RTMU0yeGNOM3ZHamJkS0JYUy1RNGFya0dMSjFSWDRQdE02ZmhpOWwxNDhURmttMGNqRzl5Mm1fQlQ3ZnA3Q0w5UEw3YWFmcTNDOEJJcmVzMmFhdkhDVGk2VTc0X3VkaTFR?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-16 12:38:47 UTC_
+_Last updated: 2026-01-16 18:30:44 UTC_
