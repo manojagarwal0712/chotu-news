@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
+- Vande Bharat expansion: Indian Railways plans 800 trainsets by 2030; 4,500 by 2047
+  
+  🔗 https://indianexpress.com/article/india/vande-bharat-expansion-indian-railways-plans-800-trainsets-by-2030-4500-by-2047-10477644/
+
+- PM Modi to flag off Howrah-Guwahati Vande Bharat Sleeper train on Jan 17 – All you need to know
+  
+  🔗 https://indianexpress.com/article/india/pm-modi-flag-off-howrah-guwahati-vande-bharat-sleeper-train-january-17-10474881/
+
+- Vande Bharat Sleeper launch: Platform numbers changed for 30 trains at Malda Town station on Jan 16-17 | Full list
+  
+  🔗 https://indianexpress.com/article/india/vande-bharat-sleeper-launch-platform-numbers-changed-30-trains-malda-town-station-jan-16-17-10477396/
+
+- BJP announces schedule for election of national president; party to name JP Nadda’s successor on January 20
+  
+  🔗 https://indianexpress.com/article/india/bjp-announce-schedule-election-national-president-jp-naddas-successor-jan20-10477286/
+
 - Guwahati (Kamakhya)-Howrah Vande Bharat Sleeper train to commence inaugural run on Jan 17 – check timings, stoppages
   
   🔗 https://indianexpress.com/article/india/guwahati-kamakhya-howrah-vande-bharat-sleeper-train-inaugural-run-january-17-timings-stops-10476873/
 
-- ECI Maharashtra Municipal Corporation Election Results 2026: Check Live Counting update online on mahasec.maharashtra.gov.in
+- From pilots to deployment: OpenAI’s nonprofit push targets AI scale in India
   
-  🔗 https://indianexpress.com/article/india/maharashtra-municipal-corporation-election-results-2026-how-to-check-results-online-10474987/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openais-nonprofit-push-targets-ai-scale-in-india-10477735/
 
-- Howrah-Guwahati Vande Bharat Sleeper ticket booking to begin soon – 5 things every passengers should know
+- AI adoption rises in India, but job redesign lags: Accenture report
   
-  🔗 https://indianexpress.com/article/india/howrah-guwahati-vande-bharat-sleeper-ticket-booking-irctc-begin-soon-10476148/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-adoption-rises-in-india-but-job-redesign-lags-accenture-report-10477315/
 
-- Opposition flags ‘SIR deletion’, Goa CM says he’ll seek deadline extension
+- In 5 years, everybody will have their own AI companion, says Microsoft AI’s Mustafa Suleyman
   
-  🔗 https://indianexpress.com/article/india/opposition-flags-sir-deletion-goa-cm-says-hell-seek-deadline-extension-10476537/
-
-- Patna NEET aspirant’s death: Post-mortem says sexual violence can’t be ruled out
-  
-  🔗 https://indianexpress.com/article/india/patna-neet-aspirants-death-post-mortem-says-sexual-violence-cant-be-ruled-out-10476485/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/mustafa-suleyman-microsoft-ai-companion-prediction-10477197/
 
 - Google brings generative AI to Gmail, raising new privacy questions
   
@@ -28,57 +40,57 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-india-ai-startups-seema-rao-10476210/
 
-- Feeling drunk without alcohol? Gut bacteria may be to blame
-  
-  🔗 https://indianexpress.com/article/technology/science/feeling-drunk-without-alcohol-gut-bacteria-may-be-to-blame-10476010/
+- Mint Explainer: What the Karnataka HC’s share attachment means for the Aakash rights issue
+  The Karnataka high court order raises the question of whether Aakash can produce a clean paper trail.
+  🔗 https://www.livemint.com/companies/aakash-rights-issue-karnataka-high-court-byju-raveendran-share-attachment-implications-11768556663098.html
 
-- Google Pixel 10a: Expected price, launch date, specs and design leaks
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/google-pixel-10a-expected-price-launch-date-specs-and-design-leaks-10475309/
+- JPMorgan ramps up hiring across Europe amid rising investor confidence, says it has ‘capital to deploy’
+  JPMorgan Chase plans to expand its dealmaking team in Europe. The bank sees investor confidence growing, and expects favourable conditions for mergers and acquisitions.
+  🔗 https://www.livemint.com/companies/news/jpmorgan-ramps-up-hiring-across-europe-amid-rising-investor-confidence-says-it-has-capital-to-deploy-11768553902810.html
 
-- Artemis II: Nasa’s crewed lunar mission eyes a February 6 liftoff
-  
-  🔗 https://indianexpress.com/article/technology/science/artemis-ii-nasas-crewed-lunar-mission-eyes-a-february-6-liftoff-10475230/
+- LTIMindtree bags $330 million contract from central tax department to upgrade tax analytics platform with AI
+  The deal strengthens LTIMindtree's position in digital transformation, following significant
+  🔗 https://www.livemint.com/companies/ltimindtree-330-million-contract-central-tax-department-cbdt-ai-tax-analytics-platform-11768549748207.html
 
-- Anthropic names ex-Microsoft MD Irina Ghose to head India operations
-   AI startup Anthropic has tapped former Microsoft India managing director Irina Ghose as its first senior leader in India.
-  🔗 https://www.livemint.com/companies/news/anthropic-hires-former-microsoft-india-md-irina-ghose-to-lead-india-charge-11768542117982.html
+- Federal Bank's Q3 profit up 9% on strong loan growth, better asset quality
+  Federal Bank's net profit rose 9% year-on-year to  ₹
+  🔗 https://www.livemint.com/companies/company-results/federal-banks-q3-results-profit-loan-asset-quality-federal-bank-share-price-11768551272424.html
 
-- Elon Musk vs OpenAI and Microsoft case heads to jury trial in April as judge allows lawsuit — Here's all we know
-  Elon Musk's lawsuit against AI leaders OpenAI and Microsoft will head to a jury trial in April. The lawsuit claims the ChatGPT maker betrayed its charitable mission by becoming
-  🔗 https://www.livemint.com/companies/news/elon-musk-openai-microsoft-case-jury-trial-april-federal-judge-allows-lawsuit-became-for-profit-betray-charity-mission-11768533919164.html
+- Mint Explainer: What Justice Pardiwala’s sovereignty note in the Tiger Global case means for India’s tax treaties
+  Justice R. Mahadevan authored the main Tiger Global judgment. Justice J.B. Pardiwala wrote a separate concurring opinion.
+  🔗 https://www.livemint.com/companies/news/justice-pardiwala-note-tiger-global-tax-ruling-india-treaty-implications-11768545660688.html
 
-- Big tech to soon pay for power costs for AI data centres? Trump has a plan amid surging energy demands: Report
-  Data centres have become an absolute necessity for tech companies aggressively pushing AI to gain an edge in the global race. However, power costs have surged
-  🔗 https://www.livemint.com/companies/news/big-tech-to-soon-pay-for-power-costs-for-ai-data-centres-trump-has-a-plan-amid-surging-energy-demands-report-11768536344513.html
+- Budget 2026: Indian stock market to remain open on Sunday, February 1
+  Indian stock market will remain open on Sunday, February 1 on account
+  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-indian-stock-market-to-remain-open-on-sunday-february-1-11768566151053.html
 
-- Wikipedia signs AI deal with Amazon, Meta, Microsoft and Perplexity on 25th anniversary: Here's what this means
-   Wikipedia has signed artificial intelligence deals with companies including Amazon, Meta Platforms, Microsoft, Mistral AI,
-  🔗 https://www.livemint.com/companies/news/wikipedia-ai-deals-amazon-meta-microsoft-perplexity-mistral-25th-anniversary-why-what-free-online-encyclopedia-internet-11768528033284.html
+- Jefferies withdraws from bitcoin, shifts to gold amid concerns of quantum computing
+  Jefferies' strategist Christopher Wood announced a complete withdrawal of its 10% Bitcoin allocation due to long-term concerns
+  🔗 https://www.livemint.com/market/cryptocurrency/jefferies-withdraws-from-bitcoin-shifts-to-gold-amid-concerns-of-quantum-computing-11768554917347.html
 
-- Infosys might grow more than management’s expectations
-  Infosys has upgraded its FY26 guidance to 3–3.
-  🔗 https://www.livemint.com/companies/infosys-might-grow-more-than-management-s-expectations-fy26-guidance-versent-acquisition-11768469351297.html
+- Tata Tech Q3 results: Revenue from operations climbs nearly 4% YoY; profit plunges 96%, impacted by new labour codes
+  Tata Tech Q3 results: Profit plunged 96% due to the impact of new labour codes. Consolidated revenue from operations for the quarter rose 3.7
+  🔗 https://www.livemint.com/market/stock-market-news/tata-tech-q3-results-revenue-from-operations-climbs-nearly-4-yoy-profit-plunged-96-impacted-by-new-labour-codes-11768561577358.html
 
-- Crude oil prices fall for the second day on easing fears of a US strike on Iran. What's behind the fall?
-  Brent crude slipped 21 cents, or 0.3%, to $63.55 a barrel,
-  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-fall-for-the-second-day-on-easing-fears-of-a-us-strike-on-iran-whats-behind-the-fall-11768540231459.html
+- Budget 2026: Preventive care push to Nutraceutical manufacturing: 5 key asks by Healthcare sector
+  The Indian healthcare sector anticipates an increase in government spending to 2.5%-3% of GDP in the upcoming Union Budget 2026. Experts emphasize the need for enhanced public health allocation
+  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-preventive-care-push-to-nutraceutical-manufacturing-5-key-asks-by-healthcare-sector-11768556689076.html
 
-- South Indian Bank share price soars over 6% to fresh record high on strong Q3 numbers
-  South Indian Bank shares rose 6.4% to an all-time high of  ₹45.20. Retail deposits grew by 13%, while gross NPAs
-  🔗 https://www.livemint.com/market/stock-market-news/south-indian-bank-share-price-soars-over-6-to-fresh-record-high-on-strong-q3-numbers-11768542921370.html
+- Tech Mahindra Q3 results: Net profit rises 14% to 1,122 crore YoY; revenue up 8%
+  Revenue rose 8% to  ₹14,393 crore, with EBIT up 40.1%. The firm secured new contracts worth USD 1.1 billion, reflecting strong demand.
+  🔗 https://www.livemint.com/market/stock-market-news/tech-mahindra-q3-results-net-profit-rises-14-to-1-122-crore-yoy-revenue-up-8-11768559939806.html
 
-- INR vs USD: Rupee drops amid strong dollar; 5 key reasons that may keep INR under pressure
-  The rupee depreciated by 10 paise to 90.44 against the US dollar. Despite lower crude prices and positive equity sentiment, challenges persist as the trade deficit widens.
-  🔗 https://www.livemint.com/market/stock-market-news/inr-vs-usd-rupee-drops-amid-strong-dollar-5-key-reasons-that-may-keep-inr-under-pressure-11768539055660.html
+- Philippines Bans Grok Website, Eyes X Talks as Backlash Grows
+  The Philippines blocked access to the website of Elon Musk’s Grok artificial intelligence chatbot as a global backlash grows
+  🔗 https://www.livemint.com/technology/philippines-bans-grok-website-eyes-x-talks-as-backlash-grows-11768552894311.html
 
-- Reliance Industries shares trade flat as investors await Q3 results 2026 today. Should you buy?
-  Reliance Industries share price today opened flat at  ₹1458.80
-  🔗 https://www.livemint.com/market/stock-market-news/reliance-industries-shares-trade-flat-as-investors-await-q3-results-2026-today-should-you-buy-11768535818518.html
+- Instagram announces AI-powered reel translation for five more Indian languages: here's how it works
+  Instagram is expanding its AI voice translate feature to five Indian languages. Users will soon be able to dub and lip-sync reels, preserving the
+  🔗 https://www.livemint.com/technology/tech-news/instagram-announces-ai-powered-reel-translation-for-five-more-indian-languages-heres-how-it-works-11768548730077.html
 
-- Groww to Coforge - Prashanth Tapse of Mehta Equities suggests stocks to buy in the short term
-  Nifty 50 and Sensex opened positively, driven by Infosys's strong quarterly results. Key support levels are noted, with traders advised to monitor resistance levels for potential market
-  🔗 https://www.livemint.com/market/stock-market-news/groww-to-coforge-prashanth-tapse-of-mehta-equities-suggests-stocks-to-buy-in-the-short-term-11768537013298.html
+- Motorola Signature to launch in India on 23 January: Snapdragon 8 Gen 5, 165Hz display and other key specs revealed
+  Motorola will launch its flagship device, the Motorola Signature, in India on January 23 via Flipkart. It features a Snapdragon 8 Gen 5 processor, 16GB RAM, and 1
+  🔗 https://www.livemint.com/technology/tech-news/motorola-signature-to-launch-in-india-o23-january-snapdragon-8-gen-5-processor-165hz-amoled-display-and-other-key-spec-11768513034271.html
 
 - iPhone 17 Pro, iPhone 17 Pro Max, iPhone Air get massive discount during Amazon Republic Day sale: Check complete offer
   The iPhone 17 Pro Max is available for  ₹1,40,400 after discounts. The iPhone Air is priced at 
@@ -88,117 +100,45 @@
   Ashley St Clair, Elon Musk's child's mother, has sued xAI for generating explicit deepfake images of her via Grok AI. She claims emotional distress and loss of privacy, while xAI counters that
   🔗 https://www.livemint.com/technology/tech-news/mother-of-elon-musk-s-child-sues-xai-alleges-grok-generated-explicit-deepfakes-of-her-11768531290007.html
 
-- What is Merge Labs? OpenAI invests in Sam Altman-backed BCI startup taking on Neuralink
-  OpenAI is investing in Sam Altman's BCI startup Merge Labs.
-  🔗 https://www.livemint.com/technology/tech-news/what-is-merge-labs-openai-invests-in-sam-altman-backed-bci-startup-taking-on-neuralink-11768527758182.html
+- Tech Mahindra Q3 Results: Profit jumps 14% YoY to Rs 1,122 cr, EBIT margin expands 290 bps to 13.1%
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q3-results-profit-jumps-14-yoy-to-rs-1122-cr-ebit-margin-expands-290-bps-to-13-1/videoshow/126566314.cms
 
-- OpenAI is taking on Google Translate with new ChatGPT powered translator: how to use, features and more
-  OpenAI has introduced ChatGPT Translate, a new AI tool aimed at competing with Google Translate. The new tool offers translation for
-  🔗 https://www.livemint.com/technology/tech-news/openai-is-taking-on-google-translate-with-new-chatgpt-powered-translator-how-to-use-features-and-more-11768515837437.html
+- Binance lists 12 themes that will shape crypto market in 2026. Check details
+  Crypto crossed major milestones in 2025 amid volatility, with market cap topping $4 trillion and Bitcoin hitting record highs. As 2026 begins, Binance highlights key themes shaping
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/binance-lists-12-themes-that-will-shape-crypto-market-in-2026-check-details/articleshow/126566047.cms
 
-- Verizon issues $20 credits to customers after massive outage: How to claim, when will you get it? — all FAQs answered
-  $20 credits issued to customers affected by massive outage caused by a ‘software issue’ The company acknowledged not meeting customer expectations.
-  🔗 https://www.livemint.com/technology/verizon-issues-20-credits-to-customers-day-after-massive-outage-how-to-avail-it-all-faqs-answered-11768502315990.html
+- February 1 Budget to make it a working Sunday for stock market traders. BSE, NSE announce schedule
+  BSE and NSE have decided to keep the equity market open for trading on February 1. Finance Minister Nirmala Sitharaman would present the Union Budget on that day.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/february-1-budget-to-make-it-a-working-sunday-for-stock-market-traders-bse-nse-announce-schedule/articleshow/126565598.cms
 
-- Yes Bank shares jump 3% ahead of Q3 results tomorrow. Here’s what investors can expect
-  Yes Bank shares saw an uptick on Friday ahead of Q3FY26 results scheduled tomorrow. Investors are optimistic about earnings recovery, with NII and PPOP expected to improve.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-shares-jump-3-ahead-of-q3-results-tomorrow-heres-what-investors-can-expect/articleshow/126558769.cms
+- Tech Mahindra Q3 results: Revenue &amp; profit likely to jump on margin gains
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q3-results-revenue-profit-likely-to-jump-on-margin-gains/videoshow/126565159.cms
 
-- HDFC Bank Q3 preview: PAT growth seen up to 13% YoY, NII likely to rise 4-8%. Here’s what investors can expect
-  HDFC Bank is set to announce its Q3 earnings on January 17th, with analysts projecting a year-on-year net profit growth of up to 13%. Net Interest Income is expected to rise between 4-8%.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-q3-preview-pat-growth-seen-up-to-13-yoy-nii-likely-to-rise-4-8-heres-what-investors-can-expect/articleshow/126558714.cms
-
-- South Indian Bank shares rise nearly 4% after Q3 profit growth, asset quality improves
-  South Indian Bank shares rose nearly 4% after strong Q3 results. Lower NPAs, stable capital adequacy and bullish technical indicators supported investor
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/south-indian-bank-shares-rise-nearly-4-after-q3-profit-growth-asset-quality-improves/articleshow/126558673.cms
-
-- Zen Technologies rallies over 9% after bagging Rs 404 crore Defence orders
-  Zen Tech’s 14-day Relative Strength Index (RSI) stands at 26.5. An RSI below 30 typically signals an oversold condition, suggesting the stock may have
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-rallies-over-9-after-bagging-rs-404-crore-defence-orders/articleshow/126558616.cms
-
-- Global money returns to US debt, lifting treasury holdings to all-time peak
-  Foreign holdings of U.S. Treasuries hit an all-time high of $9.355 trillion in November. Japan, the UK, and Canada led the gains, while China reduced exposure.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/global-money-returns-to-us-debt-lifting-treasury-holdings-to-all-time-peak/articleshow/126558428.cms
+- Wipro Q3 Results Press Conference Live: Margins, deal wins, Harman impact in focus
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q3-results-press-conference-live-margins-deal-wins-harman-impact-in-focus/videoshow/126565100.cms
 
 - Why Regime Change In Iran Could Hurt India, But Benefit Pakistan, China - NDTV
   Why Regime Change In Iran Could Hurt India,
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2FnMjFZVTJNXzNSTHp2TTlGcGxHZGFiNnpoY0ZKaGItam1LTDRUanJpNVp2ek4zRlU3RXlITlREMHItZk5pdFlQbExhNVI5OF82Q0t2MTM3bDJhaGhUT1VEVXUwTFQ4cWxKSEJGLWFLdW5ObHZxODVIeVA4RkI0cUQ4SjZXb0ZCaEtMVXZieUc1NjhJU19RU3ZNa2ZTaWpESndsT1c2bXo3bHFpQWo00gG3AUFVX3lxTFBvNkRPT05DMWxyLXQ5eXFHdVBySEoxTDNYNE1hdXdhWlhrRWM5c3ZLZW9kSlFZaDhWRkN2c053cU1xM2pBMjF4M1ZWaDBpYS1pWWl5MEdhVnkzX1hnLWFpN2poU0NvclE4el94SzFWSi1iQVlJZEk1ajdOdUxsTE9HUkk3Ujd6ZXdrSEhGM3lEdThoSWdiak1zSzZmNW42bG9OVGlDRGN1R1otV0pLUXVnRU9Pa2FjMA?oc=5
 
-- India issues advisory for citizens in Israel amid regional tensions: ‘Remain vigilant’ | India News - Hindustan Times
-  India issues advisory for citizens in Israel amid regional tensions: ‘Rem
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY1Bzd3p2YkE4MjNSbmlqM3RZOVNhaWg1YkFDcmljdFRadzlCREZ6dHBSR1pBN1N1TnZRRnkwbk5UYXFXMkRpdmJ1dGMydGEyYnZxaDlMenp5dDF2Vm5VMDN0eGJVTlIwREx1Zmh3Y1E0RjBhN3haLU1GVm56NXB6WUdVazR3TE1LWV81V1hJWHpzckY4a0ZJd3U3SzhvT1owY3FmOUZLa0xJVldEWXc5TjBTVWJocTFuekZNOWFHY19PZHNpS09DUGxhVVMycDNPenYyZkVwY1JERWxsdnJz0gHkAUFVX3lxTFAzUl9TZ3NGbWtBSEJTa283Um45TnhmeE4wYlBZOVoyRXpHUVZ4NmtfTXhHYlg3UHdtb3h5UFRDb1hKdEkwSVlWNEFVaHNtX0s2U1VONVFWSHcyenVpb3JHSVBMWGFEZGxwTUhCaFMwajYtM1FzekNDdUtpS0VOUWVMQ21mYkhMcVU2Z3pkZ2RsOUJpc29yNjI2TUwwamtSTkpURkktbThoc3BjR1Brdkd1aHltNElJeFpzNE85dGtnanFUWGRaMHJGWExHbktsMHhUVEoxYndNTW1XMmdFQVlCcmtxRg?oc=5
+- As trade talks with US drag, Republican leader defends India: ‘They bring investments’ | India News - Hindustan Times
+  The Indian government is in talks with the US over a possible trade deal.
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTc0U1l0ejVkZW1WVmJkbjNyN1VfNk1fcG5yUThPbkhoZDBNbnBwa19xOUQzSTNlWUN0cDhTR3RKQURuZ1RMMlN1emNxemdUTV9FOEpNekp6akVPOEtyMHAxSGtXZklrc1RMQTU0dHJ2Mm9SOFF1Uk84VzhGUk5Dc3BRUVZ1M3gyeENhYXJ0RWJFc0dTUm90U1hXajZsQkNYUERJOC1tUS1IT2g4S1lXZVpiMDJJekpvSUxpNjR6d01pZkpTTGlneWRYSU5RRERQM3B5eDQxeHJjM2t5ZzZqRl9kdUhtYjJhWWYxZjMtWXktenlEeldVWm5RVUE4ZG85MWthN0JRd9IBjAJBVV95cUxQMHBCMjMwRVhZal9ZbDNZVGJTRjJtRVR3NklqRV9PU3E4dGtCTzlMcDVUcGFGUGlRcGpZZ094RU1jZkhOSWhFZzNKUFdud0Jha2JmcllZSEZPVElsVDJDV3dNRFM2NnBpQ3FNS0gtajdGTC1HZEtOdjIyMkdLbkF4Nm82UW9hV3JibFMtUUxodzlBaEpVa29QVW1FRW5pQmh5QWlqb216N25XZ1dfT3J5NVEwcGd2dUl0VTFYTkZEMXk3MmkzeU9WMTJTQzRCZHIxR3c2WVBzSEEtOW5xOGFKZXZoeWRFRFNYWFI5aFh1dXdlRDlld0dYQ3VXSHVScEJYQzFIMU9pNDZON1I2?oc=5
 
-- BJP's "Leader Of Pessimism" Jab At Rahul Gandhi After IMF's India Praise - NDTV
-  BJP's "Leader Of Pessimism"
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNdF9iTGF1Mll5ekprOXJ4el9naHZtSTh2NTc4dmpVb1ZTTDR6enNrN3Q2NU9jUi1HbnozUzF5LXdoSGVKMVVMdnQ0b1cybFMxQXQ2ZkJka216ZkF5WnJidFJOZVZwMmFSNl8wZlNGb01UTFVjN29IM0FuNUh6Wm9GNWgxQ2J5bW5NcVV1aUdKQ3IyVWJWTDRBZWdrRnZwaWFKbHMzb1BxWWFjYzFldGNNTG1DX1Q0ekVlQkd2WHlHcVFDTTF5MmfSAc4BQVVfeXFMTjdMNWxOYzh4cDc2Z1NrVWxIaFJLTUhjLUhSU1ZUMGhydC1QTDk3Y2pILVRqQTlwZFBYSlFYd3dWMktEWUVnazd2b09aWWxkOGpoVWFseUhKZVI0d3lWbXJMQ2Z4UXhReE0weFBGVzVpTjZfVFJwX0lPNFEwSVEydExLVU5IaHZxVWN3bDF4Ul82dU1FTE9wVnZrTVdFSWFqa1AzYkFZTnlDNDNnVjBrVU5RMnpGRHhGa1Ntc0Q0S1dING03Y1BUQTZnT3U4Vnc?oc=5
+- Evening news wrap: BJP sweeps Mumbai civic polls; Trump unveils US-backed Gaza 'board of peace' & more - Times of India
+  The Times of India reports that the BJP swept Mumbai civic polls. The party is
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYVk2VmtXSEJBWjNTRGRya3ZweGVnSVFvMnc3RGJrRjM3TjVFYjVxS1lJY09KRFFKY2hNZXhVSHk5ZUY5Z0RLY2NjRWxXMGpIN0lzQjZXWlpnSDlGVFNCSmJWYXNheXRUM0hOeFloUmJuZjRqSk1mV1lseVF6WDNONXVVWFJXdjZRT3JnOHp2VmtiUDNnX0MwQUVleHp2amoyZVFLeGowbHZTQndxbnJjOFM1UmV0Qm9kcllUbDZMY2s5aVBtVno2WVZESkhpdGpXWUlGOWc1X3p3RFVWaFhORklXOVpYUkFpY1o3WTN0XzFmTHloSURN0gH8AUFVX3lxTE9KZWlBbmFmQWNBeEZjcGJnRXRIM1dDbXZ2ZmxFNm5PU2pWYzZjLVNiRG1sU2JVUDBzV19fcFZENi15ZW1za01iRVdXMDRxYWpGd2lMNGNpQnFGV01TRERmNVFHb0dmOVA1T3FURDVVb0FtTmM0RVFXd3gtb2hsb3RCN3djVXBYRl9pdlhlamV3aFY1QWlmV01lZ0VsN0xUUmNBZVFTd0ptV1VHRVd5a2I1Z0FfOXMyaHFOQmJPZkNidk1SdGhxM1VscU5tWHBoZU9iQk9HaWdWQnY5R09DX0EyNklaSFBlUVlubzJTdXdlZWl4Mi1tajQ4ZkZidQ?oc=5
 
-- Shaksgam Valley: India bristles over China's fresh claim - dispute explained - Times of India
-  The dispute over the disputed region of Shaks
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS0JVdGM3S3MzOWcwa1UwMTJLTlhfdjR6TVlIUG1seDVKb0o2S0dBYTdiQmx3TjNlZEVURE8zUEFnRll6eDJZWjM1aGlaSUFWQWhZQW5IQnluQTJqM1c4SENzbGVmc1NPUlRtQTh5cGtsNjRFdlZaTGJWb2kzb29Tek1UWlROc2hSckxORlp2U3J2azg0dWpnZ0ZxWXo5d0tIdUo2STRDS0h0akZhc3gwSTNQREdlREZHZDdWSVFZcUpoOXlRWUszZjVfdlFmQUZkdHh4ZTlDUdIB3AFBVV95cUxOTVI0ZDNHaXJTVE1pcGFjVUZhLWpaUGNydG92dW9DTGNKSlpReF9tTVVRa1hjc3V3eUFQVkRMaFhxaFRUc2pfZjFTMTJwdFo0WW1oZjhjMU9sWXhpN1MyTXRPUnplY1lPeG1EZzhSamlGVEFLb2xGQ01tR3RFVHA0WjRSd2VvbHYtckZLUVh6b2RmOC1Yb0haTnEyQXlUMmRUd2tXTFVpWjdyTl9ITEdMZWY0NnJSQlpwZHVOU0ZvTGp0amdDZlhOR0RmNTNmck54Yzg4UnBMOHlrcXlp?oc=5
+- Vice President C P Radhakrishnan says Lord McFall’s visit reflects strong India-UK parliamentary ties - News On AIR
+  Vice President C P Radhakrishnan says Lord McFall’
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSUlpMnBTbmVpWlRvYnROYVF6X3pYZjhaSUhfODI5TlNpSzJvcENLMUxGX2pmQk9SODF4MFlnV1NkQTJoUHZnM1dVdmd1RHBhRTRoSC15SGJJX2J6Nl9kUHo4ZTRMOTRnQXRYNnRQanIzbHhYazJXZTB3dzNCVXhqTHVZalBzLWhGbFk2VDhWSV9yUVlrT2Z0R0tUQ0NjZ05ickNnWmlhQlJDUU5kNTlObXk5WUFRd3F1LTVJTGJ2U3RXMHpIWWRuUkpB?oc=5
 
-- Top News Headlines of January 15, 2026 | Ward housing Colaba records lowest turnout at 15.73 % - The Indian Express
-  The Indian Express has published a list of top news stories of January 15, 2026
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOElENTFlNnFBeHFldDVJNWJvdHp2Umlid2dJeXZmSFpTQXlQUGwwenZvUk1HWV83b0U5N0Rlcm5HWTRmQTNpN3NPWENOZ3VyRGk5Nm9MQUdDWGI5TFdQdnJ1NG9yMU00VlJIT19ZdWUyMWJmVVdkZnRGZkw2Q3VQYnhhRnB2UDZWVFpkQlU4aVJVY2szS0c4a0tUYmtWLVpWN3VLdHNhU0FpZjhNVDZ2T3FRZzZnT19TdWlFYW5lVTRxV3BMN0R4UmhPWk1waks3VDhUYzVBaHFlakV3UV9uT1N3aXRIZnVy0gHvAUFVX3lxTE9ILXVmUUNXbWM1V2gwclh2M0oxZFJyX2NteHFBLWZfczE5cnJLcGlyVC1jcGV1cnRTTzJHclNEczdkc0VnUEdQVl9PYkh6NkVsNkMwSGFxY3FJdTFwbFQ2RmswOFBkWXpIWGdYVjlSVllCNUxLOEgxRjJmTkwtTlRvc0RPSTU0NWU2M2RNTV95SXJoUTB1N2FNQ2lUQ0J1OGFmYXN2a2NfTEJVTF9UM2c0cExtTUU2QXZ0cHFYSk43bjZEaDRUUTVjNDFuQy11U0cycExhUWNRNGwtZHM1elB2WTI0TlVfYWdobmNpaFIw?oc=5
-
-- Why Regime Change In Iran Could Hurt India, But Benefit Pakistan, China - NDTV
-  Why Regime Change In Iran Could Hurt India,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2FnMjFZVTJNXzNSTHp2TTlGcGxHZGFiNnpoY0ZKaGItam1LTDRUanJpNVp2ek4zRlU3RXlITlREMHItZk5pdFlQbExhNVI5OF82Q0t2MTM3bDJhaGhUT1VEVXUwTFQ4cWxKSEJGLWFLdW5ObHZxODVIeVA4RkI0cUQ4SjZXb0ZCaEtMVXZieUc1NjhJU19RU3ZNa2ZTaWpESndsT1c2bXo3bHFpQWo00gG3AUFVX3lxTFBvNkRPT05DMWxyLXQ5eXFHdVBySEoxTDNYNE1hdXdhWlhrRWM5c3ZLZW9kSlFZaDhWRkN2c053cU1xM2pBMjF4M1ZWaDBpYS1pWWl5MEdhVnkzX1hnLWFpN2poU0NvclE4el94SzFWSi1iQVlJZEk1ajdOdUxsTE9HUkk3Ujd6ZXdrSEhGM3lEdThoSWdiak1zSzZmNW42bG9OVGlDRGN1R1otV0pLUXVnRU9Pa2FjMA?oc=5
-
-- India issues advisory for citizens in Israel amid regional tensions: ‘Remain vigilant’ | India News - Hindustan Times
-  India issues advisory for citizens in Israel amid regional tensions: ‘Rem
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY1Bzd3p2YkE4MjNSbmlqM3RZOVNhaWg1YkFDcmljdFRadzlCREZ6dHBSR1pBN1N1TnZRRnkwbk5UYXFXMkRpdmJ1dGMydGEyYnZxaDlMenp5dDF2Vm5VMDN0eGJVTlIwREx1Zmh3Y1E0RjBhN3haLU1GVm56NXB6WUdVazR3TE1LWV81V1hJWHpzckY4a0ZJd3U3SzhvT1owY3FmOUZLa0xJVldEWXc5TjBTVWJocTFuekZNOWFHY19PZHNpS09DUGxhVVMycDNPenYyZkVwY1JERWxsdnJz0gHkAUFVX3lxTFAzUl9TZ3NGbWtBSEJTa283Um45TnhmeE4wYlBZOVoyRXpHUVZ4NmtfTXhHYlg3UHdtb3h5UFRDb1hKdEkwSVlWNEFVaHNtX0s2U1VONVFWSHcyenVpb3JHSVBMWGFEZGxwTUhCaFMwajYtM1FzekNDdUtpS0VOUWVMQ21mYkhMcVU2Z3pkZ2RsOUJpc29yNjI2TUwwamtSTkpURkktbThoc3BjR1Brdkd1aHltNElJeFpzNE85dGtnanFUWGRaMHJGWExHbktsMHhUVEoxYndNTW1XMmdFQVlCcmtxRg?oc=5
-
-- BJP's "Leader Of Pessimism" Jab At Rahul Gandhi After IMF's India Praise - NDTV
-  BJP's "Leader Of Pessimism"
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNdF9iTGF1Mll5ekprOXJ4el9naHZtSTh2NTc4dmpVb1ZTTDR6enNrN3Q2NU9jUi1HbnozUzF5LXdoSGVKMVVMdnQ0b1cybFMxQXQ2ZkJka216ZkF5WnJidFJOZVZwMmFSNl8wZlNGb01UTFVjN29IM0FuNUh6Wm9GNWgxQ2J5bW5NcVV1aUdKQ3IyVWJWTDRBZWdrRnZwaWFKbHMzb1BxWWFjYzFldGNNTG1DX1Q0ekVlQkd2WHlHcVFDTTF5MmfSAc4BQVVfeXFMTjdMNWxOYzh4cDc2Z1NrVWxIaFJLTUhjLUhSU1ZUMGhydC1QTDk3Y2pILVRqQTlwZFBYSlFYd3dWMktEWUVnazd2b09aWWxkOGpoVWFseUhKZVI0d3lWbXJMQ2Z4UXhReE0weFBGVzVpTjZfVFJwX0lPNFEwSVEydExLVU5IaHZxVWN3bDF4Ul82dU1FTE9wVnZrTVdFSWFqa1AzYkFZTnlDNDNnVjBrVU5RMnpGRHhGa1Ntc0Q0S1dING03Y1BUQTZnT3U4Vnc?oc=5
-
-- Shaksgam Valley: India bristles over China's fresh claim - dispute explained - Times of India
-  The dispute over the disputed region of Shaks
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS0JVdGM3S3MzOWcwa1UwMTJLTlhfdjR6TVlIUG1seDVKb0o2S0dBYTdiQmx3TjNlZEVURE8zUEFnRll6eDJZWjM1aGlaSUFWQWhZQW5IQnluQTJqM1c4SENzbGVmc1NPUlRtQTh5cGtsNjRFdlZaTGJWb2kzb29Tek1UWlROc2hSckxORlp2U3J2azg0dWpnZ0ZxWXo5d0tIdUo2STRDS0h0akZhc3gwSTNQREdlREZHZDdWSVFZcUpoOXlRWUszZjVfdlFmQUZkdHh4ZTlDUdIB3AFBVV95cUxOTVI0ZDNHaXJTVE1pcGFjVUZhLWpaUGNydG92dW9DTGNKSlpReF9tTVVRa1hjc3V3eUFQVkRMaFhxaFRUc2pfZjFTMTJwdFo0WW1oZjhjMU9sWXhpN1MyTXRPUnplY1lPeG1EZzhSamlGVEFLb2xGQ01tR3RFVHA0WjRSd2VvbHYtckZLUVh6b2RmOC1Yb0haTnEyQXlUMmRUd2tXTFVpWjdyTl9ITEdMZWY0NnJSQlpwZHVOU0ZvTGp0amdDZlhOR0RmNTNmck54Yzg4UnBMOHlrcXlp?oc=5
-
-- Top News Headlines of January 15, 2026 | Ward housing Colaba records lowest turnout at 15.73 % - The Indian Express
-  The Indian Express has published a list of top news stories of January 15, 2026
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOElENTFlNnFBeHFldDVJNWJvdHp2Umlid2dJeXZmSFpTQXlQUGwwenZvUk1HWV83b0U5N0Rlcm5HWTRmQTNpN3NPWENOZ3VyRGk5Nm9MQUdDWGI5TFdQdnJ1NG9yMU00VlJIT19ZdWUyMWJmVVdkZnRGZkw2Q3VQYnhhRnB2UDZWVFpkQlU4aVJVY2szS0c4a0tUYmtWLVpWN3VLdHNhU0FpZjhNVDZ2T3FRZzZnT19TdWlFYW5lVTRxV3BMN0R4UmhPWk1waks3VDhUYzVBaHFlakV3UV9uT1N3aXRIZnVy0gHvAUFVX3lxTE9ILXVmUUNXbWM1V2gwclh2M0oxZFJyX2NteHFBLWZfczE5cnJLcGlyVC1jcGV1cnRTTzJHclNEczdkc0VnUEdQVl9PYkh6NkVsNkMwSGFxY3FJdTFwbFQ2RmswOFBkWXpIWGdYVjlSVllCNUxLOEgxRjJmTkwtTlRvc0RPSTU0NWU2M2RNTV95SXJoUTB1N2FNQ2lUQ0J1OGFmYXN2a2NfTEJVTF9UM2c0cExtTUU2QXZ0cHFYSk43bjZEaDRUUTVjNDFuQy11U0cycExhUWNRNGwtZHM1elB2WTI0TlVfYWdobmNpaFIw?oc=5
-
-- Why Regime Change In Iran Could Hurt India, But Benefit Pakistan, China - NDTV
-  Why Regime Change In Iran Could Hurt India,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2FnMjFZVTJNXzNSTHp2TTlGcGxHZGFiNnpoY0ZKaGItam1LTDRUanJpNVp2ek4zRlU3RXlITlREMHItZk5pdFlQbExhNVI5OF82Q0t2MTM3bDJhaGhUT1VEVXUwTFQ4cWxKSEJGLWFLdW5ObHZxODVIeVA4RkI0cUQ4SjZXb0ZCaEtMVXZieUc1NjhJU19RU3ZNa2ZTaWpESndsT1c2bXo3bHFpQWo00gG3AUFVX3lxTFBvNkRPT05DMWxyLXQ5eXFHdVBySEoxTDNYNE1hdXdhWlhrRWM5c3ZLZW9kSlFZaDhWRkN2c053cU1xM2pBMjF4M1ZWaDBpYS1pWWl5MEdhVnkzX1hnLWFpN2poU0NvclE4el94SzFWSi1iQVlJZEk1ajdOdUxsTE9HUkk3Ujd6ZXdrSEhGM3lEdThoSWdiak1zSzZmNW42bG9OVGlDRGN1R1otV0pLUXVnRU9Pa2FjMA?oc=5
-
-- India issues advisory for citizens in Israel amid regional tensions: ‘Remain vigilant’ | India News - Hindustan Times
-  India issues advisory for citizens in Israel amid regional tensions: ‘Rem
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY1Bzd3p2YkE4MjNSbmlqM3RZOVNhaWg1YkFDcmljdFRadzlCREZ6dHBSR1pBN1N1TnZRRnkwbk5UYXFXMkRpdmJ1dGMydGEyYnZxaDlMenp5dDF2Vm5VMDN0eGJVTlIwREx1Zmh3Y1E0RjBhN3haLU1GVm56NXB6WUdVazR3TE1LWV81V1hJWHpzckY4a0ZJd3U3SzhvT1owY3FmOUZLa0xJVldEWXc5TjBTVWJocTFuekZNOWFHY19PZHNpS09DUGxhVVMycDNPenYyZkVwY1JERWxsdnJz0gHkAUFVX3lxTFAzUl9TZ3NGbWtBSEJTa283Um45TnhmeE4wYlBZOVoyRXpHUVZ4NmtfTXhHYlg3UHdtb3h5UFRDb1hKdEkwSVlWNEFVaHNtX0s2U1VONVFWSHcyenVpb3JHSVBMWGFEZGxwTUhCaFMwajYtM1FzekNDdUtpS0VOUWVMQ21mYkhMcVU2Z3pkZ2RsOUJpc29yNjI2TUwwamtSTkpURkktbThoc3BjR1Brdkd1aHltNElJeFpzNE85dGtnanFUWGRaMHJGWExHbktsMHhUVEoxYndNTW1XMmdFQVlCcmtxRg?oc=5
-
-- BJP's "Leader Of Pessimism" Jab At Rahul Gandhi After IMF's India Praise - NDTV
-  BJP's "Leader Of Pessimism"
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNdF9iTGF1Mll5ekprOXJ4el9naHZtSTh2NTc4dmpVb1ZTTDR6enNrN3Q2NU9jUi1HbnozUzF5LXdoSGVKMVVMdnQ0b1cybFMxQXQ2ZkJka216ZkF5WnJidFJOZVZwMmFSNl8wZlNGb01UTFVjN29IM0FuNUh6Wm9GNWgxQ2J5bW5NcVV1aUdKQ3IyVWJWTDRBZWdrRnZwaWFKbHMzb1BxWWFjYzFldGNNTG1DX1Q0ekVlQkd2WHlHcVFDTTF5MmfSAc4BQVVfeXFMTjdMNWxOYzh4cDc2Z1NrVWxIaFJLTUhjLUhSU1ZUMGhydC1QTDk3Y2pILVRqQTlwZFBYSlFYd3dWMktEWUVnazd2b09aWWxkOGpoVWFseUhKZVI0d3lWbXJMQ2Z4UXhReE0weFBGVzVpTjZfVFJwX0lPNFEwSVEydExLVU5IaHZxVWN3bDF4Ul82dU1FTE9wVnZrTVdFSWFqa1AzYkFZTnlDNDNnVjBrVU5RMnpGRHhGa1Ntc0Q0S1dING03Y1BUQTZnT3U4Vnc?oc=5
-
-- Shaksgam Valley: India bristles over China's fresh claim - dispute explained - Times of India
-  The dispute over the disputed region of Shaks
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS0JVdGM3S3MzOWcwa1UwMTJLTlhfdjR6TVlIUG1seDVKb0o2S0dBYTdiQmx3TjNlZEVURE8zUEFnRll6eDJZWjM1aGlaSUFWQWhZQW5IQnluQTJqM1c4SENzbGVmc1NPUlRtQTh5cGtsNjRFdlZaTGJWb2kzb29Tek1UWlROc2hSckxORlp2U3J2azg0dWpnZ0ZxWXo5d0tIdUo2STRDS0h0akZhc3gwSTNQREdlREZHZDdWSVFZcUpoOXlRWUszZjVfdlFmQUZkdHh4ZTlDUdIB3AFBVV95cUxOTVI0ZDNHaXJTVE1pcGFjVUZhLWpaUGNydG92dW9DTGNKSlpReF9tTVVRa1hjc3V3eUFQVkRMaFhxaFRUc2pfZjFTMTJwdFo0WW1oZjhjMU9sWXhpN1MyTXRPUnplY1lPeG1EZzhSamlGVEFLb2xGQ01tR3RFVHA0WjRSd2VvbHYtckZLUVh6b2RmOC1Yb0haTnEyQXlUMmRUd2tXTFVpWjdyTl9ITEdMZWY0NnJSQlpwZHVOU0ZvTGp0amdDZlhOR0RmNTNmck54Yzg4UnBMOHlrcXlp?oc=5
-
-- Top News Headlines of January 15, 2026 | Ward housing Colaba records lowest turnout at 15.73 % - The Indian Express
-  The Indian Express has published a list of top news stories of January 15, 2026
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOElENTFlNnFBeHFldDVJNWJvdHp2Umlid2dJeXZmSFpTQXlQUGwwenZvUk1HWV83b0U5N0Rlcm5HWTRmQTNpN3NPWENOZ3VyRGk5Nm9MQUdDWGI5TFdQdnJ1NG9yMU00VlJIT19ZdWUyMWJmVVdkZnRGZkw2Q3VQYnhhRnB2UDZWVFpkQlU4aVJVY2szS0c4a0tUYmtWLVpWN3VLdHNhU0FpZjhNVDZ2T3FRZzZnT19TdWlFYW5lVTRxV3BMN0R4UmhPWk1waks3VDhUYzVBaHFlakV3UV9uT1N3aXRIZnVy0gHvAUFVX3lxTE9ILXVmUUNXbWM1V2gwclh2M0oxZFJyX2NteHFBLWZfczE5cnJLcGlyVC1jcGV1cnRTTzJHclNEczdkc0VnUEdQVl9PYkh6NkVsNkMwSGFxY3FJdTFwbFQ2RmswOFBkWXpIWGdYVjlSVllCNUxLOEgxRjJmTkwtTlRvc0RPSTU0NWU2M2RNTV95SXJoUTB1N2FNQ2lUQ0J1OGFmYXN2a2NfTEJVTF9UM2c0cExtTUU2QXZ0cHFYSk43bjZEaDRUUTVjNDFuQy11U0cycExhUWNRNGwtZHM1elB2WTI0TlVfYWdobmNpaFIw?oc=5
-
-- Why Regime Change In Iran Could Hurt India, But Benefit Pakistan, China - NDTV
-  Why Regime Change In Iran Could Hurt India,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2FnMjFZVTJNXzNSTHp2TTlGcGxHZGFiNnpoY0ZKaGItam1LTDRUanJpNVp2ek4zRlU3RXlITlREMHItZk5pdFlQbExhNVI5OF82Q0t2MTM3bDJhaGhUT1VEVXUwTFQ4cWxKSEJGLWFLdW5ObHZxODVIeVA4RkI0cUQ4SjZXb0ZCaEtMVXZieUc1NjhJU19RU3ZNa2ZTaWpESndsT1c2bXo3bHFpQWo00gG3AUFVX3lxTFBvNkRPT05DMWxyLXQ5eXFHdVBySEoxTDNYNE1hdXdhWlhrRWM5c3ZLZW9kSlFZaDhWRkN2c053cU1xM2pBMjF4M1ZWaDBpYS1pWWl5MEdhVnkzX1hnLWFpN2poU0NvclE4el94SzFWSi1iQVlJZEk1ajdOdUxsTE9HUkk3Ujd6ZXdrSEhGM3lEdThoSWdiak1zSzZmNW42bG9OVGlDRGN1R1otV0pLUXVnRU9Pa2FjMA?oc=5
-
-- India issues advisory for citizens in Israel amid regional tensions: ‘Remain vigilant’ | India News - Hindustan Times
-  India issues advisory for citizens in Israel amid regional tensions: ‘Rem
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY1Bzd3p2YkE4MjNSbmlqM3RZOVNhaWg1YkFDcmljdFRadzlCREZ6dHBSR1pBN1N1TnZRRnkwbk5UYXFXMkRpdmJ1dGMydGEyYnZxaDlMenp5dDF2Vm5VMDN0eGJVTlIwREx1Zmh3Y1E0RjBhN3haLU1GVm56NXB6WUdVazR3TE1LWV81V1hJWHpzckY4a0ZJd3U3SzhvT1owY3FmOUZLa0xJVldEWXc5TjBTVWJocTFuekZNOWFHY19PZHNpS09DUGxhVVMycDNPenYyZkVwY1JERWxsdnJz0gHkAUFVX3lxTFAzUl9TZ3NGbWtBSEJTa283Um45TnhmeE4wYlBZOVoyRXpHUVZ4NmtfTXhHYlg3UHdtb3h5UFRDb1hKdEkwSVlWNEFVaHNtX0s2U1VONVFWSHcyenVpb3JHSVBMWGFEZGxwTUhCaFMwajYtM1FzekNDdUtpS0VOUWVMQ21mYkhMcVU2Z3pkZ2RsOUJpc29yNjI2TUwwamtSTkpURkktbThoc3BjR1Brdkd1aHltNElJeFpzNE85dGtnanFUWGRaMHJGWExHbktsMHhUVEoxYndNTW1XMmdFQVlCcmtxRg?oc=5
-
-- BJP's "Leader Of Pessimism" Jab At Rahul Gandhi After IMF's India Praise - NDTV
-  BJP's "Leader Of Pessimism"
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNdF9iTGF1Mll5ekprOXJ4el9naHZtSTh2NTc4dmpVb1ZTTDR6enNrN3Q2NU9jUi1HbnozUzF5LXdoSGVKMVVMdnQ0b1cybFMxQXQ2ZkJka216ZkF5WnJidFJOZVZwMmFSNl8wZlNGb01UTFVjN29IM0FuNUh6Wm9GNWgxQ2J5bW5NcVV1aUdKQ3IyVWJWTDRBZWdrRnZwaWFKbHMzb1BxWWFjYzFldGNNTG1DX1Q0ekVlQkd2WHlHcVFDTTF5MmfSAc4BQVVfeXFMTjdMNWxOYzh4cDc2Z1NrVWxIaFJLTUhjLUhSU1ZUMGhydC1QTDk3Y2pILVRqQTlwZFBYSlFYd3dWMktEWUVnazd2b09aWWxkOGpoVWFseUhKZVI0d3lWbXJMQ2Z4UXhReE0weFBGVzVpTjZfVFJwX0lPNFEwSVEydExLVU5IaHZxVWN3bDF4Ul82dU1FTE9wVnZrTVdFSWFqa1AzYkFZTnlDNDNnVjBrVU5RMnpGRHhGa1Ntc0Q0S1dING03Y1BUQTZnT3U4Vnc?oc=5
-
-- Shaksgam Valley: India bristles over China's fresh claim - dispute explained - Times of India
-  The dispute over the disputed region of Shaks
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS0JVdGM3S3MzOWcwa1UwMTJLTlhfdjR6TVlIUG1seDVKb0o2S0dBYTdiQmx3TjNlZEVURE8zUEFnRll6eDJZWjM1aGlaSUFWQWhZQW5IQnluQTJqM1c4SENzbGVmc1NPUlRtQTh5cGtsNjRFdlZaTGJWb2kzb29Tek1UWlROc2hSckxORlp2U3J2azg0dWpnZ0ZxWXo5d0tIdUo2STRDS0h0akZhc3gwSTNQREdlREZHZDdWSVFZcUpoOXlRWUszZjVfdlFmQUZkdHh4ZTlDUdIB3AFBVV95cUxOTVI0ZDNHaXJTVE1pcGFjVUZhLWpaUGNydG92dW9DTGNKSlpReF9tTVVRa1hjc3V3eUFQVkRMaFhxaFRUc2pfZjFTMTJwdFo0WW1oZjhjMU9sWXhpN1MyTXRPUnplY1lPeG1EZzhSamlGVEFLb2xGQ01tR3RFVHA0WjRSd2VvbHYtckZLUVh6b2RmOC1Yb0haTnEyQXlUMmRUd2tXTFVpWjdyTl9ITEdMZWY0NnJSQlpwZHVOU0ZvTGp0amdDZlhOR0RmNTNmck54Yzg4UnBMOHlrcXlp?oc=5
-
-- Top News Headlines of January 15, 2026 | Ward housing Colaba records lowest turnout at 15.73 % - The Indian Express
-  The Indian Express has published a list of top news stories of January 15, 2026
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOElENTFlNnFBeHFldDVJNWJvdHp2Umlid2dJeXZmSFpTQXlQUGwwenZvUk1HWV83b0U5N0Rlcm5HWTRmQTNpN3NPWENOZ3VyRGk5Nm9MQUdDWGI5TFdQdnJ1NG9yMU00VlJIT19ZdWUyMWJmVVdkZnRGZkw2Q3VQYnhhRnB2UDZWVFpkQlU4aVJVY2szS0c4a0tUYmtWLVpWN3VLdHNhU0FpZjhNVDZ2T3FRZzZnT19TdWlFYW5lVTRxV3BMN0R4UmhPWk1waks3VDhUYzVBaHFlakV3UV9uT1N3aXRIZnVy0gHvAUFVX3lxTE9ILXVmUUNXbWM1V2gwclh2M0oxZFJyX2NteHFBLWZfczE5cnJLcGlyVC1jcGV1cnRTTzJHclNEczdkc0VnUEdQVl9PYkh6NkVsNkMwSGFxY3FJdTFwbFQ2RmswOFBkWXpIWGdYVjlSVllCNUxLOEgxRjJmTkwtTlRvc0RPSTU0NWU2M2RNTV95SXJoUTB1N2FNQ2lUQ0J1OGFmYXN2a2NfTEJVTF9UM2c0cExtTUU2QXZ0cHFYSk43bjZEaDRUUTVjNDFuQy11U0cycExhUWNRNGwtZHM1elB2WTI0TlVfYWdobmNpaFIw?oc=5
+- BJP Repeats 2017 Performance On RSS Turf Nagpur, Deja Vu For Congress - NDTV
+  BJP Repeats 2017 Performance On RSS Turf
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQYkNoSlVtT1R3RXhmUUZJZ1YxRDIzTXZMNnVGbUJTd2xCNlA2aUl1ODVOLTMwbmdjYWJxdjh4XzdjQWJYSUhKZ1M4d1hrZXI4SzNZSkZuTWl1Rnp2Wmxkal9jZ2pPYnU1TWRybzI2TkhMN3BOTXZnM09obE9Ob1ZEdXU2Ym9wNnZmWmtEMV94Ti1aLVB2NlRjQWF6TDJBckUtTjhRMlBVVkpBVVBEb0hxci1NX0ZqeDBWaXViTGtZYldOUFpuRHlYRjk3TEtxdmMwZXlrcUlvd1RubEQ3U1dTTVFIS3Fwd2dqQWxSVlhYeU1ORW55bTR4VUlCOUV1WEp1d0p0WUhGdjM2alBa0gGUAkFVX3lxTE1CYUNPVlJzaVVZN0E2R0hDMDNpX21LdmVfZk5adFBnVk1TanlEZzJNX3UtTWhsenh2UERrbFFhM05xY0YtbHJpU0xVbXQ4dVFiR0VHajFzdGxOLUt6YXZOcTBNajczQmxOazR1bUNRTlhrVjRYb2lLS0NPc3I0aDd5UUdoa3lQZ2NEMEZrMDVNQk95MllFTTYzMFI2RUJyajA5OTlKNENxdW5RbFVkX0VaY0FPOWgwNlBPdTRSdlhUYnZvX3o3YU9mOFUxdUV4QjlaUjBucTEtLTFJMUFZUGxERjM1TE55cE1PWVdmbjBOb3dKdmJKTE8tSGc0N0EtYzA2eXlvazFFaV9YMHc5bGdFeXNRMA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-16 06:32:04 UTC_
+_Last updated: 2026-01-16 12:38:47 UTC_
