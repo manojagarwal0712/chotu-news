@@ -1,84 +1,104 @@
 # 📰 Daily News Summaries
 
-- "No Internet, Dangerous Protests": First Flights From Iran Land In Delhi - NDTV
-  "No Internet, Dangerous Protests": First
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXVyNENqT0xsWnJxS3V6TTJUdnlnRWRhV29rQndZSzNmMDJkajJYTk5UUTFpcDByTTh3WmhBc29RRmZuWVRqSExoazB1ZDd2MHVMdko3NjlwaXBEdVpWZHdMQ0s5VlktbTZRbXBhUk0wclJVdkVFeE5mc2JfUUhDZ1BhcGVFTkVBTjh1bzU4TDBWcjIxTmhkeVY1aHB4NjRkX3ZvdEcwTTJqMnVBRlh1T3dYVVFuQzFNSkx0X2tqQUh5anZnZUQ0YnhxV2rSAdQBQVVfeXFMT09OTUh0bmplRFNjWUJiT0lNUXdJV3JZeTNrSFdoVUJ0SmZ5dWFESmMxMDFIeldGQzlpRVVxTkg4S25WQ0pkN0pXeThZNF9TYWowbXFhM1RGUjI1a2tsQmhlcUV6emZTQUJJUUJwMy1WUjZWS3RGeDBvRlVranR1dHVYdG9na3pBaUNDYXNBMEJEM3V4WnV6WVhRSjA5RVI0MU1QTE5ZSFFUbkpJcVJlRUFmZ3M0TXlwcXB1Z2oxX25YcVhtZVlNbXBMOTI5bkh5UHNNV0c?oc=5
+- Kaziranga Elevated Corridor: Here’s why Rs 6,950 crore infra project is crucial for Assam
+  
+  🔗 https://indianexpress.com/article/india/here-why-rs-6950-crore-kaziranga-elevated-corridor-project-crucial-assam-10479646/
 
-- At UN, India thrashes Pakistan, calls for rising 'beyond their narrow considerations’ | India News - Hindustan Times
-  At UN, India thrashes Pakistan, calls for rising 'beyond
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkI1VHRuUkN2MXdWalMtdGo3VVptb3NhbkdLbXFEb1A0bEEtYjJxLXM5cmRBUTNFU2E2eXY1azU2OVRkd1ozOWNXQVNxNWpJXzVIbzN3RlBwMWpRczV5ZVF4cTJKVXREdVVsaGF2UzE2c3lOS1d5T2c4S25NUnEtbVRubEFhU09XRnJNTDFkcF9MbFNXZWpHOU5SYzN3aVk4NlFyaVh3c1FnUzhnLXRPNHhiVVZRcFRJTHJCcVZIZWZNVW5oR3M1UUlTWnFrYUtoOHF4UTAta3rSAd4BQVVfeXFMTmJwTE9WbjJwYU5WRnEyY0tJV2lJaUtMel9OWkM3Si1ENGhzd2VoOG1xUmxfLU1LWEllRy1qaGFnRk5KTmR0MTRDWXNoRTFHY2g4Vjl0WEhPQUE3bVEzWnU5RS10X2RscXU3N1hBaEFrY2FRb2tJVVpCYlF1X2VESjNZdGV4MHlpRFFHTndkRjJYNDhiUWc4ZFZKN0FSZFN6cEJpU1hnNDl0N3U1RWRKQm1wYkZxU3E1QzlSS3BsNm1wQlg4MWFsbUZ6U19ZTEVfc0R2VUg3azlNYVU5NVFn?oc=5
+- Congress MLA’s ‘theory’: SC, ST and OBC women raped because of religious scriptures
+  
+  🔗 https://indianexpress.com/article/india/congress-mla-rape-of-sc-st-and-obc-women-religious-scriptures-10479706/
 
-- Evening news wrap: Uddhav Thackeray hits out at BJP after BMC loss; PM Modi calls for ‘Asli Poribortan’ i - Times of India
-  Evening news wrap: Uddhav Thackeray hits out at BJP after BMC loss
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxORGh4bUxGbHhiUEVTV2tJZlFFc3B4Y1B3LVVoa1NxdjFYVlRobVp0ZkdOSWEtVU5KcXBfOUhGbzVmY29KRmtRaWJFcFJjUmFpMjNWdFNPV1Q5WEc0dlZRaGlRZnRQb25hblVLaWx6OUVWaFE5RS1MUjgtTlQwdXlUNFhpZW1kUDNhMS1FNHBXYTBRTnNtWjFpZ1Z5R3NiN0hBMzROMDVVS2pCVHBhUF9DaF9NUHVma244alZoRGdzOTF4MmhxYnYybE04bTFZR0hoTU9KTlNFdUI2SU5IRk1ma3ZraWI1clNuQmVTZFBLT2JmanY5R2otdW1TNWt3QVc0anFkNHl1TW1SLUxrVUNF0gGUAkFVX3lxTE1VejdYVnlKWE5maTQ0Ukt2MFRtb1pxU3AxQl9XRkQ0cUhBek9QY2dxZ2dYRUhhM0tCVVphV1ZXczdRaVl2aUR4dm0wb1VnaWhLYzJlRi1uQ1RkdTVZaFpMMGNkdzZBaFBESWdNM053T3VuQjd2c3ZkdlRKS2l2T3RXZ3NCOVA5a2JyWG1aVkZVcFBmMmQ0RXRMeVpEQ1oxTWpKSnZ0eElDczRka0xfZi1VdGdqTEZ4bUlJS00ySVN2WFVwZXlIV3Zpc293TmVBSi1RRVh2ZkNxQzlzZXN5ei1Gc0luQXZYZWdMUlJ3ZFV2bzhUdFF0S1QyaXdPSFhMXzg2cUVSR1otZmQtM0NWQXl5M2gwYg?oc=5
+- Two Kerala tourists drown after Arunachal’s frozen Sela Lake cracks under their weight
+  
+  🔗 https://indianexpress.com/article/india/ice-arunachal-sela-lake-two-kerala-tourists-drown-10479642/
 
-- Talks on Chabahar will continue with U.S. and Iran: India - The Hindu
-  Talks on Chabahar will continue with
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPcU5HSUd3UmhGUWlKMEphN3lQc3U1dlhPby1Nd2FXa0ZxUDhUTV9JMXlLMENraWV6OEk4UUNLQjh3d1hOS2FFTjZ5LXJzMks5U2Nkazh5SGhycmtZRkozTkEwQ3ZYcUhCelpEYlowdzZ1UjU4VXh6ODdxRjdFZjNDTnRJc0l6TmI3QllHVFJUYUk5MEtjOWxHMEJQaVZRcm_SAaYBQVVfeXFMTmpvallva1Zuc1NieXlqVEttZWY3Z1BWY3puTVRWRzh3UkhoRUdqa0FkS1dibmMwUHY5Q2NIcXVkOUpCYmh4Mncwa3cxRjFKUTNRd1ZBZzRFaHpmU09vUmNEU215bENhVDBkYTFfRG1ETm50Q09TSlktZi02MXMtN05EazNKVDRlZzctYWI0YU9pVWU5UDRPU1ZEV3pRSmNsUjdkWWNxQQ?oc=5
+- Facing dwindling numbers, Kerala Church’s appeal – ‘Actively come to politics, public governance’
+  
+  🔗 https://indianexpress.com/article/india/kerala-church-politics-public-governance-numbers-10479610/
 
-- India Gets New Vande Bharat Sleeper Trains. Check Out Its Features - NDTV
-  India Gets New Vande Bharat Sleeper
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGgtdmJuNldnVDhBZzh3RWRjdDVUckwyc2htRFF5UE5fVmVFX1VWazhzYVBXcVI0bmtvS25CX1BxZ2F5eEo5TjlIVllHZkhfWEJzTTYxWTFBNGJhVjZkNFU5RV9NeW5qR2JrUWdjYjhnVGd2RjZJZ3lzQ1B4ekdZRmg2RW43RW5PeWN5Tjc0TUUwVGF1UGU3eW1sY0VaNEVTYnM4c2tSbEVuTTlFRXZWUGV6cWHSAbwBQVVfeXFMTnRUVnAxMmpoTXBteUZIMlhmQk5hLUxCcGZPeHlsalRPNnY1YVRWSmo0M1J3cWdQbnAyOGF6Njg3cjB3OWpTbXJ2SnhTQkZQdXlxOGF1N09yZFRORkt4cWo2dzFpWWFRa3RUUy1LRHg5TDE1dXNpeGNBYk1iTXJfNERvcC1Vb0lHX1RLRktrQ2RSMHhvdjZfTkVQOS1VMExTRl96M3picjJWWlhHQlY5bmR5QTlpRkNPcndqUlM?oc=5
+- Ahmedabad cops crack jewellery heist: How 19-year-old ‘broke through’ store, gave himself away
+  
+  🔗 https://indianexpress.com/article/india/ahmedabad-cops-crack-jewellery-heist-10479390/
 
-- Reliance Consumer acquires global rights of personal care brands, including Brylcreem, Toni &amp; Guy
-  Reliance Consumer has acquired global rights to brands like Brylcreem and Toni &amp;amp; Guy
-  🔗 https://www.livemint.com/companies/news/reliance-consumer-acquires-global-rights-of-personal-care-brands-including-brylcreem-toni-guy-11768639941201.html
+- iPhone 17 at Rs 47,990, Galaxy S25 Ultra at Rs 79,999 as Croma announces Republic Day Sale
+  
+  🔗 https://indianexpress.com/article/technology/croma-announces-republic-day-sale-discounts-on-iphone-17-s25-ultra-10479793/
 
-- Alphabet plans appeal after US court rules Google illegally monopolised search—Here's all we know
-  Alphabet has said it will file an appeal against a federal court ruling that found Google illegally monopolised online search and advertising. This would likely delay changes
-  🔗 https://www.livemint.com/companies/news/alphabet-to-appeal-us-court-ruling-google-illegally-monopolised-search-advertising-delays-extend-business-change-process-11768639383747.html
+- Study reveals Pompeii’s public baths were riddled with human waste
+  
+  🔗 https://indianexpress.com/article/technology/science/study-reveals-pompeiis-public-baths-were-riddled-with-human-waste-10479752/
 
-- ChatGPT is introducing ads this year. Why it makes sense.
-  ChatGPT Go service is available globally for $8 a month. It is billed as offering more than the free service, at a lower
-  🔗 https://www.livemint.com/companies/chatgpt-is-introducing-ads-this-year-why-it-makes-sense-11768632022480.html
+- OnePlus Pad Go 2 review: A surprisingly complete Android tablet
+  
+  🔗 https://indianexpress.com/article/technology/tech-reviews/oneplus-pad-go-2-review-10479625/
 
-- JioStar Q3 revenue rises on strong subscription and digital ad growth
-  JioStar’s third-quarter revenue rose 11.6% quarter-on-quarter to  ₹6,896 crore. Its profit before tax
-  🔗 https://www.livemint.com/companies/company-results/jiostar-q3-results-reliance-jio-q3-results-11768576654039.html
+- Amazon Republic Day Sale 2026: 5 must-buy laptops under Rs 50,000
+  
+  🔗 https://indianexpress.com/article/technology/amazon-republic-day-sale-2026-5-must-buy-laptops-under-rs-50000-10479617/
 
-- A $1 million promise and new monetization model: Elon Musk's X updates creator payouts — Check details
-  X has promised $1 million for the top long form Article in the next payout period. Elon Musk's X has called on content creators to “earn a living from your content
-  🔗 https://www.livemint.com/companies/news/elon-musk-x-content-creators-1-million-payout-long-format-article-how-monetization-model-premium-subscription-engagement-11768623772832.html
+- Tyrannosaurus rex did not reach full size until age 40, reveals study
+  
+  🔗 https://indianexpress.com/article/technology/science/tyrannosaurus-rex-did-not-reach-full-size-until-age-40-reveals-study-10479401/
 
-- S&P 500 closes little changed Friday, posts weekly loss amid raft of Trump comments: Live updates - CNBC
-  S&amp;P 500 closes little changed Friday, posts weekly loss
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9pMDdPUGpGQThZN2Vpa3hzYUVDREZ1R01wa25KdnpGcU9OVXV6RGhjODgwUllURHV6eEhpRHpFVnNxY2pEVHp0UnBtZWM2UlR5TUhHZWtXUDB3RWM5QkVpRlBITnkxcU1WZFRRMk5zTkktajlNQ2M40gF8QVVfeXFMTU9Bb3p1dUhwZGhuR1FmaGJoSWxoenoxaE9DbGNTZTVYLW9GWGZGUWZFUXNtUUtrdjlmanN1X3FEb1RRZmRmdWVCenlTQ2laa2FUY0Zta2xmQlFpSDNQUTIwdE83Rm9USnBTbXBFTnlTc0tZV0EtTU5lUDMwSA?oc=5
+- IndiGo’s first reaction after DGCA fines airline  ₹22.2 cr for December flight chaos: ‘Will take appropriate measure'
+  InterGlobe Aviation's Board said it is committed to addressing DGCA findings regarding IndiGo's December disruptions. The Directorate General
+  🔗 https://www.livemint.com/companies/indigos-first-reaction-after-dgca-fines-airline-rs-22-2-cr-for-december-flight-chaos-will-take-appropriate-measure-11768672634789.html
 
-- Weekly Market Wrap: SENSEX, NIFTY50 end flat for the week, broader markets shine; ONGC and Tech Mahindra lead gains - Upstox
-  The SENSEX, NIFTY50 end flat for the week. ONGC
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxONFktTElBT2FfT2lhZU9VZUd5WHpSYjZKRXp5SlJEdEtOLVhUcUdueUdmNkV0bXdYSUhkeVNGdm14enkxaWdOdWttTHIzQUhWV25SaXpwOUg0YkY5N3ZVU0pXTzh0Z200eUk3aV95NGEzek1oS2hTNU1sSHpRUzV3dk9UUFA5cWtQVHh2TTN4d09xMXA5WklqcS1mMUZzeGdULS1MSm5GUmdBRmxVQzV2MGV6ZlgtOGJMUGJfRWJSQmpqTXNMMmdxcnAxOV9Pcm5ZUy1jQV8tMVc2SzNxeFhnS2dlV2dEY1p5QTBQZFQyLVR3bjRZeHZvWGhPQTh2YnhXLUtaY0lINGd0MllNYXc?oc=5
+- IndiGo fined  ₹22 crore for Dec disruptions, senior management warned, DGCA to identify systemic lapses within its org
+  The DGCA warned senior management for inadequate preparedness and is conducting an internal inquiry to address systemic lapses within the organization. IndiGo has been fined  �
+  🔗 https://www.livemint.com/companies/news/india-indigo-dgca-airline-fine-22-crore-december-disruption-management-warned-11768667400683.html
 
-- Stock markets end higher on rally in Infosys shares - The Hindu
-  The Hindu reports that Infosys shares
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGZ6bVE5SnFVOTRTTy1BenJmeU9XeHZGNkZWRVljektsZThfaFozTU5GSzRtTHFGT3VVN1FUQWNCRTgzZDNQS2l2a0xvNkdHWDdITkFSTEltTkx4U3dNZHloemNOQnVPOWJ1WWN6SE9sNDQ4NXVzb2E2YWRmZTBrNy01QUdFYk1keTh5dS1xbi0wa1lscFljYVE0VWZtRmJ0NVdTbU9Bd25IQnk3eVR3OHQ2Y9IBugFBVV95cUxNMGtwWERYQnRIZ3Z1bHZGZHF4bWhhRWtjOGNHcDUwUkJsbzRLMGJ0YmJHWEowQ2c3YzBTY3d6WkJ6MkY1dnplNkdyRjFRdGJ1Nm9YMU1naUdGZmd0MnhCbFJOWW80VDRyNVdWNzdXbDN5MGZlNEFlaFljSklXdTY1QkhieVhKWW1XS19VNGNQdVR5OTI5aVJXUjM4UFZDME5Zb1dzUFYxcHozQ1BHYllpeDZqVC1oNFhuNGc?oc=5
+- ₹3 lakh a day for 68 days: IndiGo fined  ₹22.2 crore by DGCA for mass flight cancellations, disruptions
+  IndiGo has been fined  ₹22.2 crore by DGCA for mass flight cancellations and disruptions. Charging a fine of  ⁹3 lakh per day for 68 days,
+  🔗 https://www.livemint.com/companies/news/rs-3-lakh-a-day-for-68-days-indigo-fined-rs-22-2-crore-by-dgca-for-mass-flight-cancellations-disruptions-december-11768662981576.html
 
-- Closing Bell: Sensex settles 550 points lower from day's high; Nifty ends below 25,700; metals, FMCG drag - Moneycontrol
-  Nifty ends below 25,700; metals, FMCG drag.
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxONTVnWmgtbjB3Rmp3Z3pYWmYzZzgxMlUtcmwwNk1YLTl3eFpoLWYyOFR2QXNPMHhPOF9HRnRaYWkzZ2VJSExQUGZaS3JJcW9SNGVOWnFYREV6N0NtLTBZRTJyV2VMalBfV2VUTWdHdUhKaHJMSjc4ckVzand3eDhVbmdsdk55a09xTGd1M1dFQUY4NzFyazZRdE1nREV3eXNBTWZZQUQzc2ltenI3Rjhrell6ZEswNlM1ZEJ2eUhuSVdqUHJLSUsxMFRBeE1rVnM5by1FWmVvaFRfbWFwOXhWdXFfSjE1UnZxcy1SRGstaFplZ0xn?oc=5
+- Netweb Technologies Q3 results: Net profit rises nearly 147% to  ₹73.3 crore, announces re-appointment of MD
+  Net profit for Q3 FY26 was up 146.7% year-on-year
+  🔗 https://www.livemint.com/companies/news/netweb-technologies-q3-results-net-profit-rises-nearly-147-to-73-3-crore-announces-re-appointment-of-md-11768653839709.html
 
-- They quit their day jobs to bet on current events. A look inside the prediction market mania - NPR
-  They quit their day jobs to bet on current events. A look inside the
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcG1McklnZ0M2c2RJVk9xS3ZMVW9IV0Fzc0szSExuMzEwUHI0ekVUdko0YnNCMEEtZzFxdWM0TXNiQ0c2VFRlaGVpc2dsQzltbXlOdWR5OWh5WUNMaURGU05DSEx1N0w3RnFzWVJUaTluNHBlRWRyeUtsa0R1SzVyWXFEMVlmaEhqdjBMVWRSbHFhMGduZXBlNnY5VVNYUEkxUmluaWFBdkUtZmpU?oc=5
+- Q3 Results: Punjab &amp; Sind Bank profit surges 19% to  ₹336 crore
+  Punjab &amp;amp; Sind Bank’s total income increased to 
+  🔗 https://www.livemint.com/companies/company-results/q3-results-punjab-sind-bank-profit-surges-19-to-rs-336-crore-11768655211760.html
 
-- S&P 500 closes little changed Friday, posts weekly loss amid raft of Trump comments: Live updates - CNBC
-  S&amp;P 500 closes little changed Friday, posts weekly loss
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9pMDdPUGpGQThZN2Vpa3hzYUVDREZ1R01wa25KdnpGcU9OVXV6RGhjODgwUllURHV6eEhpRHpFVnNxY2pEVHp0UnBtZWM2UlR5TUhHZWtXUDB3RWM5QkVpRlBITnkxcU1WZFRRMk5zTkktajlNQ2M40gF8QVVfeXFMTU9Bb3p1dUhwZGhuR1FmaGJoSWxoenoxaE9DbGNTZTVYLW9GWGZGUWZFUXNtUUtrdjlmanN1X3FEb1RRZmRmdWVCenlTQ2laa2FUY0Zta2xmQlFpSDNQUTIwdE83Rm9USnBTbXBFTnlTc0tZV0EtTU5lUDMwSA?oc=5
+- IT sector Q3 results review: What TCS, Infosys, Wipro, Tech Mahindra earnings signal?
+  Indian IT services firms report Q3 earnings that exceed expectations. Experts believe a measured recovery is in sight, despite ongoing global challenges.
+  🔗 https://www.livemint.com/market/stock-market-news/it-sector-q3-results-review-what-tcs-infosys-wipro-tech-mahindra-earnings-signal-11768645069543.html
 
-- Weekly Market Wrap: SENSEX, NIFTY50 end flat for the week, broader markets shine; ONGC and Tech Mahindra lead gains - Upstox
-  The SENSEX, NIFTY50 end flat for the week. ONGC
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxONFktTElBT2FfT2lhZU9VZUd5WHpSYjZKRXp5SlJEdEtOLVhUcUdueUdmNkV0bXdYSUhkeVNGdm14enkxaWdOdWttTHIzQUhWV25SaXpwOUg0YkY5N3ZVU0pXTzh0Z200eUk3aV95NGEzek1oS2hTNU1sSHpRUzV3dk9UUFA5cWtQVHh2TTN4d09xMXA5WklqcS1mMUZzeGdULS1MSm5GUmdBRmxVQzV2MGV6ZlgtOGJMUGJfRWJSQmpqTXNMMmdxcnAxOV9Pcm5ZUy1jQV8tMVc2SzNxeFhnS2dlV2dEY1p5QTBQZFQyLVR3bjRZeHZvWGhPQTh2YnhXLUtaY0lINGd0MllNYXc?oc=5
+- UCO Bank Q3 results: Kolkata-based lender's net profit rises 15.8% to  ₹739.5 crore. Details here
+  UCO Bank reported a 15.76% increase in net profit for Q4
+  🔗 https://www.livemint.com/market/stock-market-news/uco-bank-q3-results-kolkata-based-lenders-net-profit-rises-15-8-to-rs-739-5-crore-details-here-11768646811489.html
 
-- Stock markets end higher on rally in Infosys shares - The Hindu
-  The Hindu reports that Infosys shares
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGZ6bVE5SnFVOTRTTy1BenJmeU9XeHZGNkZWRVljektsZThfaFozTU5GSzRtTHFGT3VVN1FUQWNCRTgzZDNQS2l2a0xvNkdHWDdITkFSTEltTkx4U3dNZHloemNOQnVPOWJ1WWN6SE9sNDQ4NXVzb2E2YWRmZTBrNy01QUdFYk1keTh5dS1xbi0wa1lscFljYVE0VWZtRmJ0NVdTbU9Bd25IQnk3eVR3OHQ2Y9IBugFBVV95cUxNMGtwWERYQnRIZ3Z1bHZGZHF4bWhhRWtjOGNHcDUwUkJsbzRLMGJ0YmJHWEowQ2c3YzBTY3d6WkJ6MkY1dnplNkdyRjFRdGJ1Nm9YMU1naUdGZmd0MnhCbFJOWW80VDRyNVdWNzdXbDN5MGZlNEFlaFljSklXdTY1QkhieVhKWW1XS19VNGNQdVR5OTI5aVJXUjM4UFZDME5Zb1dzUFYxcHozQ1BHYllpeDZqVC1oNFhuNGc?oc=5
+- Why so many stocks are suddenly defying gravity
+   AI demand and Trump-era policy shifts are fueling rallies in
+  🔗 https://www.livemint.com/market/stock-market-news/why-so-many-stocks-are-suddenly-defying-gravity-11768646615711.html
 
-- Closing Bell: Sensex settles 550 points lower from day's high; Nifty ends below 25,700; metals, FMCG drag - Moneycontrol
-  Nifty ends below 25,700; metals, FMCG drag.
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxONTVnWmgtbjB3Rmp3Z3pYWmYzZzgxMlUtcmwwNk1YLTl3eFpoLWYyOFR2QXNPMHhPOF9HRnRaYWkzZ2VJSExQUGZaS3JJcW9SNGVOWnFYREV6N0NtLTBZRTJyV2VMalBfV2VUTWdHdUhKaHJMSjc4ckVzand3eDhVbmdsdk55a09xTGd1M1dFQUY4NzFyazZRdE1nREV3eXNBTWZZQUQzc2ltenI3Rjhrell6ZEswNlM1ZEJ2eUhuSVdqUHJLSUsxMFRBeE1rVnM5by1FWmVvaFRfbWFwOXhWdXFfSjE1UnZxcy1SRGstaFplZ0xn?oc=5
+- IDBI Bank Q3 results: Net profit jumps 1.4% to  ₹1 ,935 crore from last year; NII down 24% YoY
+   IDBI Bank's Q3 profit rose 1.42% to  ₹1,935.45 crore, despite a 24% decline in net interest income
+  🔗 https://www.livemint.com/market/stock-market-news/idbi-bank-q3-results-net-profit-jumps-1-4-at-rs-1-935-crore-from-last-year-11768640235125.html
 
-- They quit their day jobs to bet on current events. A look inside the prediction market mania - NPR
-  They quit their day jobs to bet on current events. A look inside the
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcG1McklnZ0M2c2RJVk9xS3ZMVW9IV0Fzc0szSExuMzEwUHI0ekVUdko0YnNCMEEtZzFxdWM0TXNiQ0c2VFRlaGVpc2dsQzltbXlOdWR5OWh5WUNMaURGU05DSEx1N0w3RnFzWVJUaTluNHBlRWRyeUtsa0R1SzVyWXFEMVlmaEhqdjBMVWRSbHFhMGduZXBlNnY5VVNYUEkxUmluaWFBdkUtZmpU?oc=5
+- YES Bank Q3 results: Profit jumps 55% to  ₹952 crore; NIM improves 20bps YoY
+   YES Bank Q3 results: Profit jumped 55% YoY. NII for Q3FY26 grew 10.9% Yo
+  🔗 https://www.livemint.com/market/stock-market-news/yes-bank-q3-results-consolidated-profit-jumps-54-yoy-to-957-crore-revenue-nii-nim-11768634552676.html
+
+- The Effort to Stop AI Nudes Is Missing a Deterrent
+  Users on X were asking the platform’s AI chatbot, Grok, to turn photos of celebrities and non-public figures into sexualized images. The majority of this content targets women, and it causes reputational damage
+  🔗 https://www.livemint.com/technology/the-effort-to-stop-ai-nudes-is-missing-a-deterrent-11768656071046.html
+
+- Amazon Great Republic Day Sale 2026: Best smartwatches under  ₹10,000 to grab
+  The Amazon Great Republic Day Sale 2026 is live, bringing strong deals on smartwatches under  ₹10,000
+  🔗 https://www.livemint.com/technology/gadgets/amazon-great-republic-day-sale-2026-best-smartwatches-under-rs-10-000-to-grab-11768474280416.html
+
+- Elon Musk's xAI is hiring native Hindi and Bengali speakers to train Grok AI: Here's how to apply
+   xAI seeks native speakers of Bengali and Hindi to improve its Grok AI chatbot. This hiring effort aligns with a trend of AI companies entering the Indian market.
+  🔗 https://www.livemint.com/technology/tech-news/elon-musks-xai-is-hiring-native-hindi-and-bengali-speakers-to-train-grok-ai-heres-how-to-apply-11768647745237.html
+
+- Elon Musk’s X is offering  ₹9 crore prize for best long-form article: Eligibility, rules and deadline
+  Elon Musk's X is launching a contest offering $1 million for the top article on the platform. Users need to
+  🔗 https://www.livemint.com/technology/tech-news/elon-musk-s-x-is-offering-rs-9-crore-prize-for-best-long-form-article-eligibility-rules-and-deadline-11768642682262.html
+
+- Elon Musk vs OpenAI and Microsoft battle heats up as billionaire demands up to $134 billion in damages
+  Elon Musk is claiming $79 billion to $134 billion in damages from OpenAI and Microsoft. The billionaire argues he deserves a portion of OpenAI's $500 billion valuation due to his initial investment of
+  🔗 https://www.livemint.com/technology/tech-news/elon-musk-vs-openai-and-microsoft-battle-heats-up-as-billionaire-demands-up-to-134-billion-in-damages-11768633408465.html
 
 - SIP stocks! HDFC Securities names 10 companies to accumulate in 2026. Check details
   
@@ -104,81 +124,81 @@
   "No Internet, Dangerous Protests": First
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXVyNENqT0xsWnJxS3V6TTJUdnlnRWRhV29rQndZSzNmMDJkajJYTk5UUTFpcDByTTh3WmhBc29RRmZuWVRqSExoazB1ZDd2MHVMdko3NjlwaXBEdVpWZHdMQ0s5VlktbTZRbXBhUk0wclJVdkVFeE5mc2JfUUhDZ1BhcGVFTkVBTjh1bzU4TDBWcjIxTmhkeVY1aHB4NjRkX3ZvdEcwTTJqMnVBRlh1T3dYVVFuQzFNSkx0X2tqQUh5anZnZUQ0YnhxV2rSAdQBQVVfeXFMT09OTUh0bmplRFNjWUJiT0lNUXdJV3JZeTNrSFdoVUJ0SmZ5dWFESmMxMDFIeldGQzlpRVVxTkg4S25WQ0pkN0pXeThZNF9TYWowbXFhM1RGUjI1a2tsQmhlcUV6emZTQUJJUUJwMy1WUjZWS3RGeDBvRlVranR1dHVYdG9na3pBaUNDYXNBMEJEM3V4WnV6WVhRSjA5RVI0MU1QTE5ZSFFUbkpJcVJlRUFmZ3M0TXlwcXB1Z2oxX25YcVhtZVlNbXBMOTI5bkh5UHNNV0c?oc=5
 
-- At UN, India thrashes Pakistan, calls for rising 'beyond their narrow considerations’ | India News - Hindustan Times
-  At UN, India thrashes Pakistan, calls for rising 'beyond
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkI1VHRuUkN2MXdWalMtdGo3VVptb3NhbkdLbXFEb1A0bEEtYjJxLXM5cmRBUTNFU2E2eXY1azU2OVRkd1ozOWNXQVNxNWpJXzVIbzN3RlBwMWpRczV5ZVF4cTJKVXREdVVsaGF2UzE2c3lOS1d5T2c4S25NUnEtbVRubEFhU09XRnJNTDFkcF9MbFNXZWpHOU5SYzN3aVk4NlFyaVh3c1FnUzhnLXRPNHhiVVZRcFRJTHJCcVZIZWZNVW5oR3M1UUlTWnFrYUtoOHF4UTAta3rSAd4BQVVfeXFMTmJwTE9WbjJwYU5WRnEyY0tJV2lJaUtMel9OWkM3Si1ENGhzd2VoOG1xUmxfLU1LWEllRy1qaGFnRk5KTmR0MTRDWXNoRTFHY2g4Vjl0WEhPQUE3bVEzWnU5RS10X2RscXU3N1hBaEFrY2FRb2tJVVpCYlF1X2VESjNZdGV4MHlpRFFHTndkRjJYNDhiUWc4ZFZKN0FSZFN6cEJpU1hnNDl0N3U1RWRKQm1wYkZxU3E1QzlSS3BsNm1wQlg4MWFsbUZ6U19ZTEVfc0R2VUg3azlNYVU5NVFn?oc=5
+- Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India-Pakistan conflict - The Hindu
+  Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
 
-- Evening news wrap: Uddhav Thackeray hits out at BJP after BMC loss; PM Modi calls for ‘Asli Poribortan’ i - Times of India
-  Evening news wrap: Uddhav Thackeray hits out at BJP after BMC loss
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxORGh4bUxGbHhiUEVTV2tJZlFFc3B4Y1B3LVVoa1NxdjFYVlRobVp0ZkdOSWEtVU5KcXBfOUhGbzVmY29KRmtRaWJFcFJjUmFpMjNWdFNPV1Q5WEc0dlZRaGlRZnRQb25hblVLaWx6OUVWaFE5RS1MUjgtTlQwdXlUNFhpZW1kUDNhMS1FNHBXYTBRTnNtWjFpZ1Z5R3NiN0hBMzROMDVVS2pCVHBhUF9DaF9NUHVma244alZoRGdzOTF4MmhxYnYybE04bTFZR0hoTU9KTlNFdUI2SU5IRk1ma3ZraWI1clNuQmVTZFBLT2JmanY5R2otdW1TNWt3QVc0anFkNHl1TW1SLUxrVUNF0gGUAkFVX3lxTE1VejdYVnlKWE5maTQ0Ukt2MFRtb1pxU3AxQl9XRkQ0cUhBek9QY2dxZ2dYRUhhM0tCVVphV1ZXczdRaVl2aUR4dm0wb1VnaWhLYzJlRi1uQ1RkdTVZaFpMMGNkdzZBaFBESWdNM053T3VuQjd2c3ZkdlRKS2l2T3RXZ3NCOVA5a2JyWG1aVkZVcFBmMmQ0RXRMeVpEQ1oxTWpKSnZ0eElDczRka0xfZi1VdGdqTEZ4bUlJS00ySVN2WFVwZXlIV3Zpc293TmVBSi1RRVh2ZkNxQzlzZXN5ei1Gc0luQXZYZWdMUlJ3ZFV2bzhUdFF0S1QyaXdPSFhMXzg2cUVSR1otZmQtM0NWQXl5M2gwYg?oc=5
+- Promote scientific temper, rational analysis for progressive India: Minister - Times of India
+  The Indian government is trying to promote scientific temper
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMGNBS1MzYmh6NGlyU3JsNHJjZmQxSEIzVDU4dGE4cGJIV0xZSnBYTUpBc1NIMlMxaUtDTWY4MFRTMXhiMWV1X2h0anNyaHhGaUdEQmUwU0ViUll1NHdURVdna2tRenBsYjFQdlJvQkIzT3MteVFVa1AzM0NWZnF6NGRQYVhjSlNMYkZIbnlwT0xvWnJvdzJWbUZ1YmJycWdSaGUzY2V5Mmk5X3FfaWZXX1QtV0o0THVqUnlRdTNsOVJITzVMNmZkaWtaMi1lSGNXMENhQWxrdmRuZFZrTjNUU0JB0gHnAUFVX3lxTE5wNlFNakY0ZXVkTG9SbW95MEJEWEFXYzBzR2FSRzhCNFkzWFZqMHlhVldTWURXcENUTmFTRV9hQWtGYWdIbHZ4QkI3RDJzbC1wYXRIWm5JMExVSWhHald2ZnUxaHhjdlJoMThZT3NhQk12WUp3aEQ2d3NmRTFLamRPWEltU2VXUTFLUVo3YXh2Ml9mSm91b0Ezc3ZsNkd6amFPeVpzZ1pNbFM2LXZsWVVGY1g1RlVibm1NOXJQUkozQ3VjUXpTd2cxNzM5N0lXTG5iTHlCNnlGZm5pMHA4bEk4dldnNmxERQ?oc=5
 
-- Talks on Chabahar will continue with U.S. and Iran: India - The Hindu
-  Talks on Chabahar will continue with
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPcU5HSUd3UmhGUWlKMEphN3lQc3U1dlhPby1Nd2FXa0ZxUDhUTV9JMXlLMENraWV6OEk4UUNLQjh3d1hOS2FFTjZ5LXJzMks5U2Nkazh5SGhycmtZRkozTkEwQ3ZYcUhCelpEYlowdzZ1UjU4VXh6ODdxRjdFZjNDTnRJc0l6TmI3QllHVFJUYUk5MEtjOWxHMEJQaVZRcm_SAaYBQVVfeXFMTmpvallva1Zuc1NieXlqVEttZWY3Z1BWY3puTVRWRzh3UkhoRUdqa0FkS1dibmMwUHY5Q2NIcXVkOUpCYmh4Mncwa3cxRjFKUTNRd1ZBZzRFaHpmU09vUmNEU215bENhVDBkYTFfRG1ETm50Q09TSlktZi02MXMtN05EazNKVDRlZzctYWI0YU9pVWU5UDRPU1ZEV3pRSmNsUjdkWWNxQQ?oc=5
+- ‘Unfair’: As world seeks Trump mercy, US senators now want him to ask India for tariff ease | India News - Hindustan Times
+  'Unfair': As world seeks Trump mercy, US senators now want him to ask India
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSG1ZdU1hRG9Fb1I1ZGZPV1Zxd01RY3VRMjZmSFpPV3hqNVRQd1NqNnV2ak9ENFYxWXpBZU5ZMUtaRFluOXI3dUlHcS1JSW9oTDZPM1VndWMtSEJjUE42aW1QWUVaWUJHeUh3Qk1Wem41MVNITXU4akxjQWVlNGZKMXloZnJZcXN1dndiWmJySXJGMTZLSEY4TWNmZFhfUGt1bUw4aTJTWmdYQmgwdTdLa21pUW9CVWhkOFJhdWdCV0k4TXl5T01uZzRTWnBQTVZwOWoyNjhia3RCTm1CSW5uc2k1eGtoN1BRUHpn0gHwAUFVX3lxTFBNZk5DRFo1eUtkWkNyNk5BQldNSFBocmFLb3FXd2xhUTdVU2s4NzZNcl9sak9fWWtxVzZnZjFuYUJ4aVA4dExjalpQLTh0MzJnUTJwY0gzaDFwTFZMS2wxUHYzNEZsMF9EeVgtWGdJZFZtRG5ncVNkclJGblRwNXd3V1V2bllBcVdzOXN6Zm5MYXpVM3hnSWZfcnJkRkhGemFjMkNqY1gzUUx0UHVhYUZjeUdCbzNBZWVYVnAtZDFqd0dLRm9zNW1fdzFITkhHNDQ0LUtuRXBubkFkRnBNRXRKS2toXzV4NDNQYkxTV3BQMQ?oc=5
 
-- India Gets New Vande Bharat Sleeper Trains. Check Out Its Features - NDTV
-  India Gets New Vande Bharat Sleeper
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGgtdmJuNldnVDhBZzh3RWRjdDVUckwyc2htRFF5UE5fVmVFX1VWazhzYVBXcVI0bmtvS25CX1BxZ2F5eEo5TjlIVllHZkhfWEJzTTYxWTFBNGJhVjZkNFU5RV9NeW5qR2JrUWdjYjhnVGd2RjZJZ3lzQ1B4ekdZRmg2RW43RW5PeWN5Tjc0TUUwVGF1UGU3eW1sY0VaNEVTYnM4c2tSbEVuTTlFRXZWUGV6cWHSAbwBQVVfeXFMTnRUVnAxMmpoTXBteUZIMlhmQk5hLUxCcGZPeHlsalRPNnY1YVRWSmo0M1J3cWdQbnAyOGF6Njg3cjB3OWpTbXJ2SnhTQkZQdXlxOGF1N09yZFRORkt4cWo2dzFpWWFRa3RUUy1LRHg5TDE1dXNpeGNBYk1iTXJfNERvcC1Vb0lHX1RLRktrQ2RSMHhvdjZfTkVQOS1VMExTRl96M3picjJWWlhHQlY5bmR5QTlpRkNPcndqUlM?oc=5
-
-- "No Internet, Dangerous Protests": First Flights From Iran Land In Delhi - NDTV
-  "No Internet, Dangerous Protests": First
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXVyNENqT0xsWnJxS3V6TTJUdnlnRWRhV29rQndZSzNmMDJkajJYTk5UUTFpcDByTTh3WmhBc29RRmZuWVRqSExoazB1ZDd2MHVMdko3NjlwaXBEdVpWZHdMQ0s5VlktbTZRbXBhUk0wclJVdkVFeE5mc2JfUUhDZ1BhcGVFTkVBTjh1bzU4TDBWcjIxTmhkeVY1aHB4NjRkX3ZvdEcwTTJqMnVBRlh1T3dYVVFuQzFNSkx0X2tqQUh5anZnZUQ0YnhxV2rSAdQBQVVfeXFMT09OTUh0bmplRFNjWUJiT0lNUXdJV3JZeTNrSFdoVUJ0SmZ5dWFESmMxMDFIeldGQzlpRVVxTkg4S25WQ0pkN0pXeThZNF9TYWowbXFhM1RGUjI1a2tsQmhlcUV6emZTQUJJUUJwMy1WUjZWS3RGeDBvRlVranR1dHVYdG9na3pBaUNDYXNBMEJEM3V4WnV6WVhRSjA5RVI0MU1QTE5ZSFFUbkpJcVJlRUFmZ3M0TXlwcXB1Z2oxX25YcVhtZVlNbXBMOTI5bkh5UHNNV0c?oc=5
-
-- At UN, India thrashes Pakistan, calls for rising 'beyond their narrow considerations’ | India News - Hindustan Times
-  At UN, India thrashes Pakistan, calls for rising 'beyond
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkI1VHRuUkN2MXdWalMtdGo3VVptb3NhbkdLbXFEb1A0bEEtYjJxLXM5cmRBUTNFU2E2eXY1azU2OVRkd1ozOWNXQVNxNWpJXzVIbzN3RlBwMWpRczV5ZVF4cTJKVXREdVVsaGF2UzE2c3lOS1d5T2c4S25NUnEtbVRubEFhU09XRnJNTDFkcF9MbFNXZWpHOU5SYzN3aVk4NlFyaVh3c1FnUzhnLXRPNHhiVVZRcFRJTHJCcVZIZWZNVW5oR3M1UUlTWnFrYUtoOHF4UTAta3rSAd4BQVVfeXFMTmJwTE9WbjJwYU5WRnEyY0tJV2lJaUtMel9OWkM3Si1ENGhzd2VoOG1xUmxfLU1LWEllRy1qaGFnRk5KTmR0MTRDWXNoRTFHY2g4Vjl0WEhPQUE3bVEzWnU5RS10X2RscXU3N1hBaEFrY2FRb2tJVVpCYlF1X2VESjNZdGV4MHlpRFFHTndkRjJYNDhiUWc4ZFZKN0FSZFN6cEJpU1hnNDl0N3U1RWRKQm1wYkZxU3E1QzlSS3BsNm1wQlg4MWFsbUZ6U19ZTEVfc0R2VUg3azlNYVU5NVFn?oc=5
-
-- Evening news wrap: Uddhav Thackeray hits out at BJP after BMC loss; PM Modi calls for ‘Asli Poribortan’ i - Times of India
-  Evening news wrap: Uddhav Thackeray hits out at BJP after BMC loss
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxORGh4bUxGbHhiUEVTV2tJZlFFc3B4Y1B3LVVoa1NxdjFYVlRobVp0ZkdOSWEtVU5KcXBfOUhGbzVmY29KRmtRaWJFcFJjUmFpMjNWdFNPV1Q5WEc0dlZRaGlRZnRQb25hblVLaWx6OUVWaFE5RS1MUjgtTlQwdXlUNFhpZW1kUDNhMS1FNHBXYTBRTnNtWjFpZ1Z5R3NiN0hBMzROMDVVS2pCVHBhUF9DaF9NUHVma244alZoRGdzOTF4MmhxYnYybE04bTFZR0hoTU9KTlNFdUI2SU5IRk1ma3ZraWI1clNuQmVTZFBLT2JmanY5R2otdW1TNWt3QVc0anFkNHl1TW1SLUxrVUNF0gGUAkFVX3lxTE1VejdYVnlKWE5maTQ0Ukt2MFRtb1pxU3AxQl9XRkQ0cUhBek9QY2dxZ2dYRUhhM0tCVVphV1ZXczdRaVl2aUR4dm0wb1VnaWhLYzJlRi1uQ1RkdTVZaFpMMGNkdzZBaFBESWdNM053T3VuQjd2c3ZkdlRKS2l2T3RXZ3NCOVA5a2JyWG1aVkZVcFBmMmQ0RXRMeVpEQ1oxTWpKSnZ0eElDczRka0xfZi1VdGdqTEZ4bUlJS00ySVN2WFVwZXlIV3Zpc293TmVBSi1RRVh2ZkNxQzlzZXN5ei1Gc0luQXZYZWdMUlJ3ZFV2bzhUdFF0S1QyaXdPSFhMXzg2cUVSR1otZmQtM0NWQXl5M2gwYg?oc=5
-
-- Talks on Chabahar will continue with U.S. and Iran: India - The Hindu
-  Talks on Chabahar will continue with
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPcU5HSUd3UmhGUWlKMEphN3lQc3U1dlhPby1Nd2FXa0ZxUDhUTV9JMXlLMENraWV6OEk4UUNLQjh3d1hOS2FFTjZ5LXJzMks5U2Nkazh5SGhycmtZRkozTkEwQ3ZYcUhCelpEYlowdzZ1UjU4VXh6ODdxRjdFZjNDTnRJc0l6TmI3QllHVFJUYUk5MEtjOWxHMEJQaVZRcm_SAaYBQVVfeXFMTmpvallva1Zuc1NieXlqVEttZWY3Z1BWY3puTVRWRzh3UkhoRUdqa0FkS1dibmMwUHY5Q2NIcXVkOUpCYmh4Mncwa3cxRjFKUTNRd1ZBZzRFaHpmU09vUmNEU215bENhVDBkYTFfRG1ETm50Q09TSlktZi02MXMtN05EazNKVDRlZzctYWI0YU9pVWU5UDRPU1ZEV3pRSmNsUjdkWWNxQQ?oc=5
-
-- India Gets New Vande Bharat Sleeper Trains. Check Out Its Features - NDTV
-  India Gets New Vande Bharat Sleeper
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGgtdmJuNldnVDhBZzh3RWRjdDVUckwyc2htRFF5UE5fVmVFX1VWazhzYVBXcVI0bmtvS25CX1BxZ2F5eEo5TjlIVllHZkhfWEJzTTYxWTFBNGJhVjZkNFU5RV9NeW5qR2JrUWdjYjhnVGd2RjZJZ3lzQ1B4ekdZRmg2RW43RW5PeWN5Tjc0TUUwVGF1UGU3eW1sY0VaNEVTYnM4c2tSbEVuTTlFRXZWUGV6cWHSAbwBQVVfeXFMTnRUVnAxMmpoTXBteUZIMlhmQk5hLUxCcGZPeHlsalRPNnY1YVRWSmo0M1J3cWdQbnAyOGF6Njg3cjB3OWpTbXJ2SnhTQkZQdXlxOGF1N09yZFRORkt4cWo2dzFpWWFRa3RUUy1LRHg5TDE1dXNpeGNBYk1iTXJfNERvcC1Vb0lHX1RLRktrQ2RSMHhvdjZfTkVQOS1VMExTRl96M3picjJWWlhHQlY5bmR5QTlpRkNPcndqUlM?oc=5
+- UAE President Mohamed bin Zayed Al Nahyan to visit India on Monday - WION
+  UAE President Mohamed bin Zayed Al Nahyan
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWpNNC03c0JYbE1uWnVIQk85Qk5OVXd2djR3UzBlaGY1Tkc1d2FRUkhGdnFUODFydjdKakhGLXZlNUJzT3NGYzhzdjBBUW9hYU9zZ2tMb3BpTF9FbDd4b1gyMGpOSlJYNlI1a0tkZzc1ek9sYmNWN0ZqTXlEd3R1T3lnRi1QbVNMVVBwby1xSmF6UDRwVWtjS2tvckg2cXExS3ZHdGROVXhiYTcxZ2JqcGVTTHhGUdIBuwFBVV95cUxQYm80T081T0J3U3hhRVhjQXVONFNhZ3I1RFFVdUlHZl9GTjdqUjBISkd1dGNoZVRRbEloVGZWOGJmWkhHVGVtYUwzRGJyRUk1YUdsR2JERjVVcUdQdkZDc3dNQ1JHeGlMUXRqWlBsTk9UeVl4a0ZYMzY1dXAzUDNVSEhZNG5Ndm1lYU0xY0h4cTFYWS1fT3o2amdUVE45VExzazdKb0JyWVVwNExBLXdIRkZoUTAzdm9SS19J?oc=5
 
 - "No Internet, Dangerous Protests": First Flights From Iran Land In Delhi - NDTV
   "No Internet, Dangerous Protests": First
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXVyNENqT0xsWnJxS3V6TTJUdnlnRWRhV29rQndZSzNmMDJkajJYTk5UUTFpcDByTTh3WmhBc29RRmZuWVRqSExoazB1ZDd2MHVMdko3NjlwaXBEdVpWZHdMQ0s5VlktbTZRbXBhUk0wclJVdkVFeE5mc2JfUUhDZ1BhcGVFTkVBTjh1bzU4TDBWcjIxTmhkeVY1aHB4NjRkX3ZvdEcwTTJqMnVBRlh1T3dYVVFuQzFNSkx0X2tqQUh5anZnZUQ0YnhxV2rSAdQBQVVfeXFMT09OTUh0bmplRFNjWUJiT0lNUXdJV3JZeTNrSFdoVUJ0SmZ5dWFESmMxMDFIeldGQzlpRVVxTkg4S25WQ0pkN0pXeThZNF9TYWowbXFhM1RGUjI1a2tsQmhlcUV6emZTQUJJUUJwMy1WUjZWS3RGeDBvRlVranR1dHVYdG9na3pBaUNDYXNBMEJEM3V4WnV6WVhRSjA5RVI0MU1QTE5ZSFFUbkpJcVJlRUFmZ3M0TXlwcXB1Z2oxX25YcVhtZVlNbXBMOTI5bkh5UHNNV0c?oc=5
 
-- At UN, India thrashes Pakistan, calls for rising 'beyond their narrow considerations’ | India News - Hindustan Times
-  At UN, India thrashes Pakistan, calls for rising 'beyond
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkI1VHRuUkN2MXdWalMtdGo3VVptb3NhbkdLbXFEb1A0bEEtYjJxLXM5cmRBUTNFU2E2eXY1azU2OVRkd1ozOWNXQVNxNWpJXzVIbzN3RlBwMWpRczV5ZVF4cTJKVXREdVVsaGF2UzE2c3lOS1d5T2c4S25NUnEtbVRubEFhU09XRnJNTDFkcF9MbFNXZWpHOU5SYzN3aVk4NlFyaVh3c1FnUzhnLXRPNHhiVVZRcFRJTHJCcVZIZWZNVW5oR3M1UUlTWnFrYUtoOHF4UTAta3rSAd4BQVVfeXFMTmJwTE9WbjJwYU5WRnEyY0tJV2lJaUtMel9OWkM3Si1ENGhzd2VoOG1xUmxfLU1LWEllRy1qaGFnRk5KTmR0MTRDWXNoRTFHY2g4Vjl0WEhPQUE3bVEzWnU5RS10X2RscXU3N1hBaEFrY2FRb2tJVVpCYlF1X2VESjNZdGV4MHlpRFFHTndkRjJYNDhiUWc4ZFZKN0FSZFN6cEJpU1hnNDl0N3U1RWRKQm1wYkZxU3E1QzlSS3BsNm1wQlg4MWFsbUZ6U19ZTEVfc0R2VUg3azlNYVU5NVFn?oc=5
+- Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India-Pakistan conflict - The Hindu
+  Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
 
-- Evening news wrap: Uddhav Thackeray hits out at BJP after BMC loss; PM Modi calls for ‘Asli Poribortan’ i - Times of India
-  Evening news wrap: Uddhav Thackeray hits out at BJP after BMC loss
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxORGh4bUxGbHhiUEVTV2tJZlFFc3B4Y1B3LVVoa1NxdjFYVlRobVp0ZkdOSWEtVU5KcXBfOUhGbzVmY29KRmtRaWJFcFJjUmFpMjNWdFNPV1Q5WEc0dlZRaGlRZnRQb25hblVLaWx6OUVWaFE5RS1MUjgtTlQwdXlUNFhpZW1kUDNhMS1FNHBXYTBRTnNtWjFpZ1Z5R3NiN0hBMzROMDVVS2pCVHBhUF9DaF9NUHVma244alZoRGdzOTF4MmhxYnYybE04bTFZR0hoTU9KTlNFdUI2SU5IRk1ma3ZraWI1clNuQmVTZFBLT2JmanY5R2otdW1TNWt3QVc0anFkNHl1TW1SLUxrVUNF0gGUAkFVX3lxTE1VejdYVnlKWE5maTQ0Ukt2MFRtb1pxU3AxQl9XRkQ0cUhBek9QY2dxZ2dYRUhhM0tCVVphV1ZXczdRaVl2aUR4dm0wb1VnaWhLYzJlRi1uQ1RkdTVZaFpMMGNkdzZBaFBESWdNM053T3VuQjd2c3ZkdlRKS2l2T3RXZ3NCOVA5a2JyWG1aVkZVcFBmMmQ0RXRMeVpEQ1oxTWpKSnZ0eElDczRka0xfZi1VdGdqTEZ4bUlJS00ySVN2WFVwZXlIV3Zpc293TmVBSi1RRVh2ZkNxQzlzZXN5ei1Gc0luQXZYZWdMUlJ3ZFV2bzhUdFF0S1QyaXdPSFhMXzg2cUVSR1otZmQtM0NWQXl5M2gwYg?oc=5
+- Promote scientific temper, rational analysis for progressive India: Minister - Times of India
+  The Indian government is trying to promote scientific temper
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMGNBS1MzYmh6NGlyU3JsNHJjZmQxSEIzVDU4dGE4cGJIV0xZSnBYTUpBc1NIMlMxaUtDTWY4MFRTMXhiMWV1X2h0anNyaHhGaUdEQmUwU0ViUll1NHdURVdna2tRenBsYjFQdlJvQkIzT3MteVFVa1AzM0NWZnF6NGRQYVhjSlNMYkZIbnlwT0xvWnJvdzJWbUZ1YmJycWdSaGUzY2V5Mmk5X3FfaWZXX1QtV0o0THVqUnlRdTNsOVJITzVMNmZkaWtaMi1lSGNXMENhQWxrdmRuZFZrTjNUU0JB0gHnAUFVX3lxTE5wNlFNakY0ZXVkTG9SbW95MEJEWEFXYzBzR2FSRzhCNFkzWFZqMHlhVldTWURXcENUTmFTRV9hQWtGYWdIbHZ4QkI3RDJzbC1wYXRIWm5JMExVSWhHald2ZnUxaHhjdlJoMThZT3NhQk12WUp3aEQ2d3NmRTFLamRPWEltU2VXUTFLUVo3YXh2Ml9mSm91b0Ezc3ZsNkd6amFPeVpzZ1pNbFM2LXZsWVVGY1g1RlVibm1NOXJQUkozQ3VjUXpTd2cxNzM5N0lXTG5iTHlCNnlGZm5pMHA4bEk4dldnNmxERQ?oc=5
 
-- Talks on Chabahar will continue with U.S. and Iran: India - The Hindu
-  Talks on Chabahar will continue with
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPcU5HSUd3UmhGUWlKMEphN3lQc3U1dlhPby1Nd2FXa0ZxUDhUTV9JMXlLMENraWV6OEk4UUNLQjh3d1hOS2FFTjZ5LXJzMks5U2Nkazh5SGhycmtZRkozTkEwQ3ZYcUhCelpEYlowdzZ1UjU4VXh6ODdxRjdFZjNDTnRJc0l6TmI3QllHVFJUYUk5MEtjOWxHMEJQaVZRcm_SAaYBQVVfeXFMTmpvallva1Zuc1NieXlqVEttZWY3Z1BWY3puTVRWRzh3UkhoRUdqa0FkS1dibmMwUHY5Q2NIcXVkOUpCYmh4Mncwa3cxRjFKUTNRd1ZBZzRFaHpmU09vUmNEU215bENhVDBkYTFfRG1ETm50Q09TSlktZi02MXMtN05EazNKVDRlZzctYWI0YU9pVWU5UDRPU1ZEV3pRSmNsUjdkWWNxQQ?oc=5
+- ‘Unfair’: As world seeks Trump mercy, US senators now want him to ask India for tariff ease | India News - Hindustan Times
+  'Unfair': As world seeks Trump mercy, US senators now want him to ask India
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSG1ZdU1hRG9Fb1I1ZGZPV1Zxd01RY3VRMjZmSFpPV3hqNVRQd1NqNnV2ak9ENFYxWXpBZU5ZMUtaRFluOXI3dUlHcS1JSW9oTDZPM1VndWMtSEJjUE42aW1QWUVaWUJHeUh3Qk1Wem41MVNITXU4akxjQWVlNGZKMXloZnJZcXN1dndiWmJySXJGMTZLSEY4TWNmZFhfUGt1bUw4aTJTWmdYQmgwdTdLa21pUW9CVWhkOFJhdWdCV0k4TXl5T01uZzRTWnBQTVZwOWoyNjhia3RCTm1CSW5uc2k1eGtoN1BRUHpn0gHwAUFVX3lxTFBNZk5DRFo1eUtkWkNyNk5BQldNSFBocmFLb3FXd2xhUTdVU2s4NzZNcl9sak9fWWtxVzZnZjFuYUJ4aVA4dExjalpQLTh0MzJnUTJwY0gzaDFwTFZMS2wxUHYzNEZsMF9EeVgtWGdJZFZtRG5ncVNkclJGblRwNXd3V1V2bllBcVdzOXN6Zm5MYXpVM3hnSWZfcnJkRkhGemFjMkNqY1gzUUx0UHVhYUZjeUdCbzNBZWVYVnAtZDFqd0dLRm9zNW1fdzFITkhHNDQ0LUtuRXBubkFkRnBNRXRKS2toXzV4NDNQYkxTV3BQMQ?oc=5
 
-- India Gets New Vande Bharat Sleeper Trains. Check Out Its Features - NDTV
-  India Gets New Vande Bharat Sleeper
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGgtdmJuNldnVDhBZzh3RWRjdDVUckwyc2htRFF5UE5fVmVFX1VWazhzYVBXcVI0bmtvS25CX1BxZ2F5eEo5TjlIVllHZkhfWEJzTTYxWTFBNGJhVjZkNFU5RV9NeW5qR2JrUWdjYjhnVGd2RjZJZ3lzQ1B4ekdZRmg2RW43RW5PeWN5Tjc0TUUwVGF1UGU3eW1sY0VaNEVTYnM4c2tSbEVuTTlFRXZWUGV6cWHSAbwBQVVfeXFMTnRUVnAxMmpoTXBteUZIMlhmQk5hLUxCcGZPeHlsalRPNnY1YVRWSmo0M1J3cWdQbnAyOGF6Njg3cjB3OWpTbXJ2SnhTQkZQdXlxOGF1N09yZFRORkt4cWo2dzFpWWFRa3RUUy1LRHg5TDE1dXNpeGNBYk1iTXJfNERvcC1Vb0lHX1RLRktrQ2RSMHhvdjZfTkVQOS1VMExTRl96M3picjJWWlhHQlY5bmR5QTlpRkNPcndqUlM?oc=5
+- UAE President Mohamed bin Zayed Al Nahyan to visit India on Monday - WION
+  UAE President Mohamed bin Zayed Al Nahyan
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWpNNC03c0JYbE1uWnVIQk85Qk5OVXd2djR3UzBlaGY1Tkc1d2FRUkhGdnFUODFydjdKakhGLXZlNUJzT3NGYzhzdjBBUW9hYU9zZ2tMb3BpTF9FbDd4b1gyMGpOSlJYNlI1a0tkZzc1ek9sYmNWN0ZqTXlEd3R1T3lnRi1QbVNMVVBwby1xSmF6UDRwVWtjS2tvckg2cXExS3ZHdGROVXhiYTcxZ2JqcGVTTHhGUdIBuwFBVV95cUxQYm80T081T0J3U3hhRVhjQXVONFNhZ3I1RFFVdUlHZl9GTjdqUjBISkd1dGNoZVRRbEloVGZWOGJmWkhHVGVtYUwzRGJyRUk1YUdsR2JERjVVcUdQdkZDc3dNQ1JHeGlMUXRqWlBsTk9UeVl4a0ZYMzY1dXAzUDNVSEhZNG5Ndm1lYU0xY0h4cTFYWS1fT3o2amdUVE45VExzazdKb0JyWVVwNExBLXdIRkZoUTAzdm9SS19J?oc=5
 
 - "No Internet, Dangerous Protests": First Flights From Iran Land In Delhi - NDTV
   "No Internet, Dangerous Protests": First
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXVyNENqT0xsWnJxS3V6TTJUdnlnRWRhV29rQndZSzNmMDJkajJYTk5UUTFpcDByTTh3WmhBc29RRmZuWVRqSExoazB1ZDd2MHVMdko3NjlwaXBEdVpWZHdMQ0s5VlktbTZRbXBhUk0wclJVdkVFeE5mc2JfUUhDZ1BhcGVFTkVBTjh1bzU4TDBWcjIxTmhkeVY1aHB4NjRkX3ZvdEcwTTJqMnVBRlh1T3dYVVFuQzFNSkx0X2tqQUh5anZnZUQ0YnhxV2rSAdQBQVVfeXFMT09OTUh0bmplRFNjWUJiT0lNUXdJV3JZeTNrSFdoVUJ0SmZ5dWFESmMxMDFIeldGQzlpRVVxTkg4S25WQ0pkN0pXeThZNF9TYWowbXFhM1RGUjI1a2tsQmhlcUV6emZTQUJJUUJwMy1WUjZWS3RGeDBvRlVranR1dHVYdG9na3pBaUNDYXNBMEJEM3V4WnV6WVhRSjA5RVI0MU1QTE5ZSFFUbkpJcVJlRUFmZ3M0TXlwcXB1Z2oxX25YcVhtZVlNbXBMOTI5bkh5UHNNV0c?oc=5
 
-- At UN, India thrashes Pakistan, calls for rising 'beyond their narrow considerations’ | India News - Hindustan Times
-  At UN, India thrashes Pakistan, calls for rising 'beyond
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkI1VHRuUkN2MXdWalMtdGo3VVptb3NhbkdLbXFEb1A0bEEtYjJxLXM5cmRBUTNFU2E2eXY1azU2OVRkd1ozOWNXQVNxNWpJXzVIbzN3RlBwMWpRczV5ZVF4cTJKVXREdVVsaGF2UzE2c3lOS1d5T2c4S25NUnEtbVRubEFhU09XRnJNTDFkcF9MbFNXZWpHOU5SYzN3aVk4NlFyaVh3c1FnUzhnLXRPNHhiVVZRcFRJTHJCcVZIZWZNVW5oR3M1UUlTWnFrYUtoOHF4UTAta3rSAd4BQVVfeXFMTmJwTE9WbjJwYU5WRnEyY0tJV2lJaUtMel9OWkM3Si1ENGhzd2VoOG1xUmxfLU1LWEllRy1qaGFnRk5KTmR0MTRDWXNoRTFHY2g4Vjl0WEhPQUE3bVEzWnU5RS10X2RscXU3N1hBaEFrY2FRb2tJVVpCYlF1X2VESjNZdGV4MHlpRFFHTndkRjJYNDhiUWc4ZFZKN0FSZFN6cEJpU1hnNDl0N3U1RWRKQm1wYkZxU3E1QzlSS3BsNm1wQlg4MWFsbUZ6U19ZTEVfc0R2VUg3azlNYVU5NVFn?oc=5
+- Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India-Pakistan conflict - The Hindu
+  Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
 
-- Evening news wrap: Uddhav Thackeray hits out at BJP after BMC loss; PM Modi calls for ‘Asli Poribortan’ i - Times of India
-  Evening news wrap: Uddhav Thackeray hits out at BJP after BMC loss
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxORGh4bUxGbHhiUEVTV2tJZlFFc3B4Y1B3LVVoa1NxdjFYVlRobVp0ZkdOSWEtVU5KcXBfOUhGbzVmY29KRmtRaWJFcFJjUmFpMjNWdFNPV1Q5WEc0dlZRaGlRZnRQb25hblVLaWx6OUVWaFE5RS1MUjgtTlQwdXlUNFhpZW1kUDNhMS1FNHBXYTBRTnNtWjFpZ1Z5R3NiN0hBMzROMDVVS2pCVHBhUF9DaF9NUHVma244alZoRGdzOTF4MmhxYnYybE04bTFZR0hoTU9KTlNFdUI2SU5IRk1ma3ZraWI1clNuQmVTZFBLT2JmanY5R2otdW1TNWt3QVc0anFkNHl1TW1SLUxrVUNF0gGUAkFVX3lxTE1VejdYVnlKWE5maTQ0Ukt2MFRtb1pxU3AxQl9XRkQ0cUhBek9QY2dxZ2dYRUhhM0tCVVphV1ZXczdRaVl2aUR4dm0wb1VnaWhLYzJlRi1uQ1RkdTVZaFpMMGNkdzZBaFBESWdNM053T3VuQjd2c3ZkdlRKS2l2T3RXZ3NCOVA5a2JyWG1aVkZVcFBmMmQ0RXRMeVpEQ1oxTWpKSnZ0eElDczRka0xfZi1VdGdqTEZ4bUlJS00ySVN2WFVwZXlIV3Zpc293TmVBSi1RRVh2ZkNxQzlzZXN5ei1Gc0luQXZYZWdMUlJ3ZFV2bzhUdFF0S1QyaXdPSFhMXzg2cUVSR1otZmQtM0NWQXl5M2gwYg?oc=5
+- Promote scientific temper, rational analysis for progressive India: Minister - Times of India
+  The Indian government is trying to promote scientific temper
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMGNBS1MzYmh6NGlyU3JsNHJjZmQxSEIzVDU4dGE4cGJIV0xZSnBYTUpBc1NIMlMxaUtDTWY4MFRTMXhiMWV1X2h0anNyaHhGaUdEQmUwU0ViUll1NHdURVdna2tRenBsYjFQdlJvQkIzT3MteVFVa1AzM0NWZnF6NGRQYVhjSlNMYkZIbnlwT0xvWnJvdzJWbUZ1YmJycWdSaGUzY2V5Mmk5X3FfaWZXX1QtV0o0THVqUnlRdTNsOVJITzVMNmZkaWtaMi1lSGNXMENhQWxrdmRuZFZrTjNUU0JB0gHnAUFVX3lxTE5wNlFNakY0ZXVkTG9SbW95MEJEWEFXYzBzR2FSRzhCNFkzWFZqMHlhVldTWURXcENUTmFTRV9hQWtGYWdIbHZ4QkI3RDJzbC1wYXRIWm5JMExVSWhHald2ZnUxaHhjdlJoMThZT3NhQk12WUp3aEQ2d3NmRTFLamRPWEltU2VXUTFLUVo3YXh2Ml9mSm91b0Ezc3ZsNkd6amFPeVpzZ1pNbFM2LXZsWVVGY1g1RlVibm1NOXJQUkozQ3VjUXpTd2cxNzM5N0lXTG5iTHlCNnlGZm5pMHA4bEk4dldnNmxERQ?oc=5
 
-- Talks on Chabahar will continue with U.S. and Iran: India - The Hindu
-  Talks on Chabahar will continue with
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPcU5HSUd3UmhGUWlKMEphN3lQc3U1dlhPby1Nd2FXa0ZxUDhUTV9JMXlLMENraWV6OEk4UUNLQjh3d1hOS2FFTjZ5LXJzMks5U2Nkazh5SGhycmtZRkozTkEwQ3ZYcUhCelpEYlowdzZ1UjU4VXh6ODdxRjdFZjNDTnRJc0l6TmI3QllHVFJUYUk5MEtjOWxHMEJQaVZRcm_SAaYBQVVfeXFMTmpvallva1Zuc1NieXlqVEttZWY3Z1BWY3puTVRWRzh3UkhoRUdqa0FkS1dibmMwUHY5Q2NIcXVkOUpCYmh4Mncwa3cxRjFKUTNRd1ZBZzRFaHpmU09vUmNEU215bENhVDBkYTFfRG1ETm50Q09TSlktZi02MXMtN05EazNKVDRlZzctYWI0YU9pVWU5UDRPU1ZEV3pRSmNsUjdkWWNxQQ?oc=5
+- ‘Unfair’: As world seeks Trump mercy, US senators now want him to ask India for tariff ease | India News - Hindustan Times
+  'Unfair': As world seeks Trump mercy, US senators now want him to ask India
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSG1ZdU1hRG9Fb1I1ZGZPV1Zxd01RY3VRMjZmSFpPV3hqNVRQd1NqNnV2ak9ENFYxWXpBZU5ZMUtaRFluOXI3dUlHcS1JSW9oTDZPM1VndWMtSEJjUE42aW1QWUVaWUJHeUh3Qk1Wem41MVNITXU4akxjQWVlNGZKMXloZnJZcXN1dndiWmJySXJGMTZLSEY4TWNmZFhfUGt1bUw4aTJTWmdYQmgwdTdLa21pUW9CVWhkOFJhdWdCV0k4TXl5T01uZzRTWnBQTVZwOWoyNjhia3RCTm1CSW5uc2k1eGtoN1BRUHpn0gHwAUFVX3lxTFBNZk5DRFo1eUtkWkNyNk5BQldNSFBocmFLb3FXd2xhUTdVU2s4NzZNcl9sak9fWWtxVzZnZjFuYUJ4aVA4dExjalpQLTh0MzJnUTJwY0gzaDFwTFZMS2wxUHYzNEZsMF9EeVgtWGdJZFZtRG5ncVNkclJGblRwNXd3V1V2bllBcVdzOXN6Zm5MYXpVM3hnSWZfcnJkRkhGemFjMkNqY1gzUUx0UHVhYUZjeUdCbzNBZWVYVnAtZDFqd0dLRm9zNW1fdzFITkhHNDQ0LUtuRXBubkFkRnBNRXRKS2toXzV4NDNQYkxTV3BQMQ?oc=5
 
-- India Gets New Vande Bharat Sleeper Trains. Check Out Its Features - NDTV
-  India Gets New Vande Bharat Sleeper
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGgtdmJuNldnVDhBZzh3RWRjdDVUckwyc2htRFF5UE5fVmVFX1VWazhzYVBXcVI0bmtvS25CX1BxZ2F5eEo5TjlIVllHZkhfWEJzTTYxWTFBNGJhVjZkNFU5RV9NeW5qR2JrUWdjYjhnVGd2RjZJZ3lzQ1B4ekdZRmg2RW43RW5PeWN5Tjc0TUUwVGF1UGU3eW1sY0VaNEVTYnM4c2tSbEVuTTlFRXZWUGV6cWHSAbwBQVVfeXFMTnRUVnAxMmpoTXBteUZIMlhmQk5hLUxCcGZPeHlsalRPNnY1YVRWSmo0M1J3cWdQbnAyOGF6Njg3cjB3OWpTbXJ2SnhTQkZQdXlxOGF1N09yZFRORkt4cWo2dzFpWWFRa3RUUy1LRHg5TDE1dXNpeGNBYk1iTXJfNERvcC1Vb0lHX1RLRktrQ2RSMHhvdjZfTkVQOS1VMExTRl96M3picjJWWlhHQlY5bmR5QTlpRkNPcndqUlM?oc=5
+- UAE President Mohamed bin Zayed Al Nahyan to visit India on Monday - WION
+  UAE President Mohamed bin Zayed Al Nahyan
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWpNNC03c0JYbE1uWnVIQk85Qk5OVXd2djR3UzBlaGY1Tkc1d2FRUkhGdnFUODFydjdKakhGLXZlNUJzT3NGYzhzdjBBUW9hYU9zZ2tMb3BpTF9FbDd4b1gyMGpOSlJYNlI1a0tkZzc1ek9sYmNWN0ZqTXlEd3R1T3lnRi1QbVNMVVBwby1xSmF6UDRwVWtjS2tvckg2cXExS3ZHdGROVXhiYTcxZ2JqcGVTTHhGUdIBuwFBVV95cUxQYm80T081T0J3U3hhRVhjQXVONFNhZ3I1RFFVdUlHZl9GTjdqUjBISkd1dGNoZVRRbEloVGZWOGJmWkhHVGVtYUwzRGJyRUk1YUdsR2JERjVVcUdQdkZDc3dNQ1JHeGlMUXRqWlBsTk9UeVl4a0ZYMzY1dXAzUDNVSEhZNG5Ndm1lYU0xY0h4cTFYWS1fT3o2amdUVE45VExzazdKb0JyWVVwNExBLXdIRkZoUTAzdm9SS19J?oc=5
+
+- "No Internet, Dangerous Protests": First Flights From Iran Land In Delhi - NDTV
+  "No Internet, Dangerous Protests": First
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXVyNENqT0xsWnJxS3V6TTJUdnlnRWRhV29rQndZSzNmMDJkajJYTk5UUTFpcDByTTh3WmhBc29RRmZuWVRqSExoazB1ZDd2MHVMdko3NjlwaXBEdVpWZHdMQ0s5VlktbTZRbXBhUk0wclJVdkVFeE5mc2JfUUhDZ1BhcGVFTkVBTjh1bzU4TDBWcjIxTmhkeVY1aHB4NjRkX3ZvdEcwTTJqMnVBRlh1T3dYVVFuQzFNSkx0X2tqQUh5anZnZUQ0YnhxV2rSAdQBQVVfeXFMT09OTUh0bmplRFNjWUJiT0lNUXdJV3JZeTNrSFdoVUJ0SmZ5dWFESmMxMDFIeldGQzlpRVVxTkg4S25WQ0pkN0pXeThZNF9TYWowbXFhM1RGUjI1a2tsQmhlcUV6emZTQUJJUUJwMy1WUjZWS3RGeDBvRlVranR1dHVYdG9na3pBaUNDYXNBMEJEM3V4WnV6WVhRSjA5RVI0MU1QTE5ZSFFUbkpJcVJlRUFmZ3M0TXlwcXB1Z2oxX25YcVhtZVlNbXBMOTI5bkh5UHNNV0c?oc=5
+
+- Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India-Pakistan conflict - The Hindu
+  Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
+
+- Promote scientific temper, rational analysis for progressive India: Minister - Times of India
+  The Indian government is trying to promote scientific temper
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMGNBS1MzYmh6NGlyU3JsNHJjZmQxSEIzVDU4dGE4cGJIV0xZSnBYTUpBc1NIMlMxaUtDTWY4MFRTMXhiMWV1X2h0anNyaHhGaUdEQmUwU0ViUll1NHdURVdna2tRenBsYjFQdlJvQkIzT3MteVFVa1AzM0NWZnF6NGRQYVhjSlNMYkZIbnlwT0xvWnJvdzJWbUZ1YmJycWdSaGUzY2V5Mmk5X3FfaWZXX1QtV0o0THVqUnlRdTNsOVJITzVMNmZkaWtaMi1lSGNXMENhQWxrdmRuZFZrTjNUU0JB0gHnAUFVX3lxTE5wNlFNakY0ZXVkTG9SbW95MEJEWEFXYzBzR2FSRzhCNFkzWFZqMHlhVldTWURXcENUTmFTRV9hQWtGYWdIbHZ4QkI3RDJzbC1wYXRIWm5JMExVSWhHald2ZnUxaHhjdlJoMThZT3NhQk12WUp3aEQ2d3NmRTFLamRPWEltU2VXUTFLUVo3YXh2Ml9mSm91b0Ezc3ZsNkd6amFPeVpzZ1pNbFM2LXZsWVVGY1g1RlVibm1NOXJQUkozQ3VjUXpTd2cxNzM5N0lXTG5iTHlCNnlGZm5pMHA4bEk4dldnNmxERQ?oc=5
+
+- ‘Unfair’: As world seeks Trump mercy, US senators now want him to ask India for tariff ease | India News - Hindustan Times
+  'Unfair': As world seeks Trump mercy, US senators now want him to ask India
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSG1ZdU1hRG9Fb1I1ZGZPV1Zxd01RY3VRMjZmSFpPV3hqNVRQd1NqNnV2ak9ENFYxWXpBZU5ZMUtaRFluOXI3dUlHcS1JSW9oTDZPM1VndWMtSEJjUE42aW1QWUVaWUJHeUh3Qk1Wem41MVNITXU4akxjQWVlNGZKMXloZnJZcXN1dndiWmJySXJGMTZLSEY4TWNmZFhfUGt1bUw4aTJTWmdYQmgwdTdLa21pUW9CVWhkOFJhdWdCV0k4TXl5T01uZzRTWnBQTVZwOWoyNjhia3RCTm1CSW5uc2k1eGtoN1BRUHpn0gHwAUFVX3lxTFBNZk5DRFo1eUtkWkNyNk5BQldNSFBocmFLb3FXd2xhUTdVU2s4NzZNcl9sak9fWWtxVzZnZjFuYUJ4aVA4dExjalpQLTh0MzJnUTJwY0gzaDFwTFZMS2wxUHYzNEZsMF9EeVgtWGdJZFZtRG5ncVNkclJGblRwNXd3V1V2bllBcVdzOXN6Zm5MYXpVM3hnSWZfcnJkRkhGemFjMkNqY1gzUUx0UHVhYUZjeUdCbzNBZWVYVnAtZDFqd0dLRm9zNW1fdzFITkhHNDQ0LUtuRXBubkFkRnBNRXRKS2toXzV4NDNQYkxTV3BQMQ?oc=5
+
+- UAE President Mohamed bin Zayed Al Nahyan to visit India on Monday - WION
+  UAE President Mohamed bin Zayed Al Nahyan
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWpNNC03c0JYbE1uWnVIQk85Qk5OVXd2djR3UzBlaGY1Tkc1d2FRUkhGdnFUODFydjdKakhGLXZlNUJzT3NGYzhzdjBBUW9hYU9zZ2tMb3BpTF9FbDd4b1gyMGpOSlJYNlI1a0tkZzc1ek9sYmNWN0ZqTXlEd3R1T3lnRi1QbVNMVVBwby1xSmF6UDRwVWtjS2tvckg2cXExS3ZHdGROVXhiYTcxZ2JqcGVTTHhGUdIBuwFBVV95cUxQYm80T081T0J3U3hhRVhjQXVONFNhZ3I1RFFVdUlHZl9GTjdqUjBISkd1dGNoZVRRbEloVGZWOGJmWkhHVGVtYUwzRGJyRUk1YUdsR2JERjVVcUdQdkZDc3dNQ1JHeGlMUXRqWlBsTk9UeVl4a0ZYMzY1dXAzUDNVSEhZNG5Ndm1lYU0xY0h4cTFYWS1fT3o2amdUVE45VExzazdKb0JyWVVwNExBLXdIRkZoUTAzdm9SS19J?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-17 12:35:22 UTC_
+_Last updated: 2026-01-17 18:26:37 UTC_
