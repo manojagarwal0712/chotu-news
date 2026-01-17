@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Over a year after Goa’s ‘biggest seizure of LSD blots’, ED raids across country in narcotics trafficking case
+- Praveen Vashista appointed Vigilance Commissioner
   
-  🔗 https://indianexpress.com/article/india/over-a-year-after-goas-biggest-seizure-of-lsd-blots-ed-raids-across-country-in-narcotics-trafficking-case-10478332/
+  🔗 https://indianexpress.com/article/india/praveen-vashista-appointed-vigilance-commissioner-10478578/
 
-- Three days later, one Cabinet colleague backs PWD minister, Vikramaditya Singh
+- R-Day Parade: 18 contingents, 30 tableaux, 13 bands, Bhairav Battalion debut
   
-  🔗 https://indianexpress.com/article/india/one-cabinet-colleague-backs-pwd-minister-vikramaditya-singh-10478312/
+  🔗 https://indianexpress.com/article/india/r-day-parade-18-contingents-30-tableaux-13-bands-bhairav-battalion-debut-10478568/
 
-- Evacuation from Iran only once regular flights stop: Govt
+- V-P meets UK House of Lords Speaker, underlines shared democratic values­
   
-  🔗 https://indianexpress.com/article/india/iran-evacuation-once-regular-flights-stop-mea-chabahar-port-10478106/
+  🔗 https://indianexpress.com/article/india/v-p-meets-uk-house-of-lords-speaker-underlines-shared-democratic-values-10478585/
 
-- Vande Bharat expansion: Indian Railways plans 800 trainsets by 2030; 4,500 by 2047
+- Democratic institutions have to be transparent, inclusive: Om Birla
   
-  🔗 https://indianexpress.com/article/india/vande-bharat-expansion-indian-railways-plans-800-trainsets-by-2030-4500-by-2047-10477644/
+  🔗 https://indianexpress.com/article/india/democratic-institutions-have-to-be-transparent-inclusive-om-birla-10478586/
 
-- PM Modi to flag off Howrah-Guwahati Vande Bharat Sleeper train on Jan 17 – All you need to know
+- Raids on Punjab Kesari planned attack on media freedom: Bansuri Swaraj
   
-  🔗 https://indianexpress.com/article/india/pm-modi-flag-off-howrah-guwahati-vande-bharat-sleeper-train-january-17-10474881/
+  🔗 https://indianexpress.com/article/india/raids-on-punjab-kesari-planned-attack-on-media-freedom-bansuri-swaraj-10478587/
 
 - Elon Musk’s X down for tens of thousands of users globally, Downdetector shows
   
@@ -40,25 +40,37 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-adoption-rises-in-india-but-job-redesign-lags-accenture-report-10477315/
 
-- SAT sets aside Sebi’s order against Bombay Dyeing, Wadia family
-  Sebi had in 2022 barred 10 entities, including Bombay Dyeing and its promoters Nusli N. Wadia, Ness Wadia and Jehangir
-  🔗 https://www.livemint.com/companies/bombay-dyeing-sat-sebi-order-wadia-family-nusli-wadia-ness-wadia-11768575099883.html
+- Indian IT’s Big Five face $500 million labour code hit to profitability
+  The labour codes increased statutory payouts such as provident fund and gratuity. The requirement lopped off 260
+  🔗 https://www.livemint.com/companies/tcs-infosys-hcl-wipro-tech-mahindra-face-500-mn-labour-code-hit-it-sector-employers-11768560423511.html
 
-- Delhi HC rejects Natasha Oberoi’s plea to arbitrate family feud over PRS Oberoi estate
-   Disputes involving Wills, inheritance, and family succession cannot be decided by private arbitrators.
-  🔗 https://www.livemint.com/companies/news/delhi-high-court-natasha-oberoi-prs-oberoi-estate-family-dispute-arbitration-inheritance-11768571019963.html
+- Shark Tank India: Turning TV exposure into startup growth
+  Startups on Shark Tank India often gain more than funding. National TV exposure
+  🔗 https://www.livemint.com/companies/start-ups/how-much-does-shark-tank-actually-help-in-scaling-a-startup-growth-investors-exposure-11768535588121.html
 
-- Thunder on wheels: Coca-Cola expands last-mile reach with micromobility
-   direct-to-store delivery, using small vehicles like bikes, and electric vans, helps the company expand last-mile reach, cut reliance
-  🔗 https://www.livemint.com/companies/news/coca-cola-india-market-share-competition-hccb-ipo-zero-sugar-beverages-11768563833487.html
+- From build to buy: Indian startups chase scale through overseas acquisitions
+  In 2025, companies pursued 26 outbound deals worth $1.1 billion, the highest on record. Domestic acquisitions touched a three-
+  🔗 https://www.livemint.com/companies/start-ups/indian-startups-global-expansion-cross-border-acquisitions-record-deals-11768547239220.html
 
-- What is China's ‘Are you dead’ app and why is it going viral? Here's how the platform works
-  A new app in China, designed to check on people living alone, has gone viral. Originally named Sileme, which translates to ‘Are you dead�
-  🔗 https://www.livemint.com/companies/news/what-is-chinas-are-you-dead-app-and-why-is-it-going-viral-heres-how-the-platform-works-11768562814799.html
+- Govt treads with caution as it plans to reopen tax case against Tiger Global
+  The move signals the Narendra Modi administration’s patient approach in complex and sensitive tax matters. Field officers are restrained from
+  🔗 https://www.livemint.com/companies/news/tiger-global-mauritius-entities-flipkart-tax-dispute-assessment-proceedings-11768577548263.html
 
-- Jio Platforms Q3 profit rises 11% as higher-value users drive growth
-  Jio Platforms reported a 3.4% sequential and 11.2% year-on-year growth in net
-  🔗 https://www.livemint.com/companies/company-results/jio-platforms-results-reliance-jio-11768541491925.html
+- Ralph Lauren front row draws celebrities to Milan show
+  Ralph Lauren's
+  🔗 https://www.livemint.com/companies/ralph-lauren-front-row-draws-celebrities-to-milan-show-11768591103479.html
+
+- MARKETS-U.S. stocks jittery, Fed chair talk ripples through markets
+  U.S. stocks
+  🔗 https://www.livemint.com/market/marketsus-stocks-jittery-fed-chair-talk-ripples-through-markets-11768593381047.html
+
+- Fannie, Freddie Stock Woes Deepen as IPO Questions Mount
+  Shares of Fannie Mae and Freddie Mac extended days-long losing streaks. Concerns about impact of President Donald Trump’s policy moves
+  🔗 https://www.livemint.com/market/fannie-freddie-stock-woes-deepen-as-ipo-questions-mount-11768591164571.html
+
+- European Stocks Set for Longest Weekly Winning Streak Since May
+  European stocks were set for their fifth straight weekly advance, the longest streak of gains since May.
+  🔗 https://www.livemint.com/market/european-stocks-set-for-longest-weekly-winning-streak-since-may-11768588457692.html
 
 - Sebi overhauls mutual fund rules to boost transparency
   Sebi has introduced new regulations effective April 1, 2026, lowering expense ratio caps for
@@ -68,17 +80,9 @@
   Gold and silver prices fell on 16 January due to a stronger US dollar and reduced geopolitical tensions. Gold futures dropped by  ₹721 to  ⁹1,42
   🔗 https://www.livemint.com/market/commodities/gold-rates-today-mcx-gold-falls-rs-1-560-per-10g-silver-plunges-rs-7-000-per-kg-on-easing-geopolitical-worries-11768573750198.html
 
-- Reliance Retail Q3 net profit rises 2% to  ₹3,558 crore, revenue jumps record  ₹97,605 crore. Details here
-  Reliance Retail reported a net profit of 3,558 crore, a 2% rise. Gross revenue hit
-  🔗 https://www.livemint.com/market/stock-market-news/reliance-retail-q3-net-profit-rises-2-to-rs-3-558-crore-revenue-jumps-record-rs-97-605-crore-details-here-11768572452072.html
-
-- DLF to declare Q3FY26 results on this date. Check details
-  DLF will announce its Q3FY26 financial results on January 22, 2026. The trading window for insiders is closed until 48 hours after the results. The company reported a 15% decline
-  🔗 https://www.livemint.com/market/stock-market-news/dlf-to-declare-q3fy26-results-on-this-date-check-details-11768570349687.html
-
-- Reliance Q3 results: From profit, revenue to New Energy update— 5 key highlights from RIL Q3 earnings
-  Mukesh Ambani-owned Reliance Industries (RIL) reported a nearly 2% year-on-year (YoY) rise in its consolidated profit to  ₹22
-  🔗 https://www.livemint.com/market/stock-market-news/reliance-q3-results-profit-revenue-ebitda-jio-reliance-retail-key-highlights-from-mukesh-ambani-ril-q3-earnings-11768560885033.html
+- Supreme Court will decide on use of warrants that collect the location history of cellphone users
+  Supreme Court will decide on use of warrants that collect
+  🔗 https://www.livemint.com/technology/supreme-court-will-decide-on-use-of-warrants-that-collect-the-location-history-of-cellphone-users-11768595525444.html
 
 - Philippines Bans Grok Website, Eyes X Talks as Backlash Grows
   The Philippines blocked access to the website of Elon Musk’s Grok artificial intelligence chatbot as a global backlash grows
@@ -95,10 +99,6 @@
 - iPhone 17 Pro, iPhone 17 Pro Max, iPhone Air get massive discount during Amazon Republic Day sale: Check complete offer
   The iPhone 17 Pro Max is available for  ₹1,40,400 after discounts. The iPhone Air is priced at 
   🔗 https://www.livemint.com/technology/tech-news/iphone-17-pro-iphone-17-pro-iphone-air-get-massive-discount-during-amazon-republic-day-sale-check-complete-offers-her-11768515720072.html
-
-- Mother of Elon Musk’s child sues xAI, alleges Grok generated explicit deepfakes of her
-  Ashley St Clair, Elon Musk's child's mother, has sued xAI for generating explicit deepfake images of her via Grok AI. She claims emotional distress and loss of privacy, while xAI counters that
-  🔗 https://www.livemint.com/technology/tech-news/mother-of-elon-musk-s-child-sues-xai-alleges-grok-generated-explicit-deepfakes-of-her-11768531290007.html
 
 - Vijay Kedia buys stake in smallcap SPML Infra via bulk deal
   Kedia Securities bought over 14 lakh shares for approximately Rs 25 crore. SPML Infra is a smallcap infrastructure firm with expertise in power, water and environment sectors.
@@ -120,113 +120,45 @@
   
   🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-sees-marginal-profit-growth-in-q3-driven-by-o2c-jio/videoshow/126575390.cms
 
-- Trade Deal On Cards As EU Leaders Visit India For Republic Day Celebrations - NDTV
-  " target="_blank">Trade Deal On Cards
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlJUaXMtUkdscDF5dG9NQ0ZsQmlWNnZZZEthWlB4dzFUcXVERzQ4UC04bkdVcjZNZS0wOEhlNWFuVHk1NEc4TVhXSUpQWEdUOWdlWWNWbFRFTUVRcVpPN2Nob0haOGFRXzJOZ3hHWEZickkxV25NUnYtUzF4MURRdElxOUdRaGhraXFtTWp0b1ItOHRXMElEZ1VxTk5jYjZ2NjdiWkRNUmh5Q09uR0Zhd1ZibDBJVDTSAb8BQVVfeXFMUE1nX0JZRV9CM2FtVDBDWlkzSHczWk9RQmVtZFBENUlKSzdVd1B2SGhCdG9uTndlQkZsZUNpWDJUbEM1T3I3ZFZoclc2VHhTQ3NIZE1WNlFYZndsbHRlQUhoaDRqRVRpN1F0MHVSNjk5TkQ1RnRsOUpZT3NLU21GVG9QZ2NZbnVGanpzV3hoRExLVENHRms3VjRKU0ViSGdyMDdUd19yeGc3cVFJclJYNFhIa0ZFcHB2N1pJU3lMczQ?oc=5
+- India Won't Leave Iran's Chabahar Port, Working With US For Middle Path: Sources - NDTV
+  India Won't Leave Iran's Chabahar Port,
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWE0UjBfMFJCeVFyS0FGd2dVWTVmUXlNeTUwUGtVRGZ1UmV3LW1FNGpCcGlQWUpoR0cyaVIzWWZYQkNtS3d6MXU2bE9MLVlGZ0RWeDAwRHZTMW9hOElhMi0welV2TkM0aU1SR01uWWxvSlNqSm1mZTF6YUdPM0tMWjhqMnpLaVNfRmxQRVhnZkZjUExGM3l3V0E1VGhpSExzN3NkZlZQZnBGbGQzTE9sMXgwSnZnWTNXMjRUeUN6Slk5ZlQ1ZHQ2bXNzY3MxU21zQnlPUkswcWxHd9IB4gFBVV95cUxPb2syT3dDS0VkVURIaU5zVTg3MS1KVzhMZTdyNGVWeUpOU0JCTHJweVNJQVQ4Z1I5VUxsSGRYNjQ3U0VrVXk3RExDQTVuNk1Nc1lSMldGWUQ5QnR3SjRYV2xBMmUzanplTDFiUWx2dERMN0JpWEwyR19JUGJ4amJEb0JmMXpjd2lzZzlzQjNLQUxDXzBEQmplUEhjajBla2JEM3V1YmRvaEtPYUl0SEsydi03R016VGRpck5rTGdSdE9OYkhwQThRdWg5R1pYVDUwRS1wcWU0Z2VNMElPaGgtRlJn?oc=5
 
-- As trade talks with US drag, Republican leader defends India: ‘They bring investments’ | India News - Hindustan Times
-  The Indian government is in talks with the US over a possible trade deal.
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTc0U1l0ejVkZW1WVmJkbjNyN1VfNk1fcG5yUThPbkhoZDBNbnBwa19xOUQzSTNlWUN0cDhTR3RKQURuZ1RMMlN1emNxemdUTV9FOEpNekp6akVPOEtyMHAxSGtXZklrc1RMQTU0dHJ2Mm9SOFF1Uk84VzhGUk5Dc3BRUVZ1M3gyeENhYXJ0RWJFc0dTUm90U1hXajZsQkNYUERJOC1tUS1IT2g4S1lXZVpiMDJJekpvSUxpNjR6d01pZkpTTGlneWRYSU5RRERQM3B5eDQxeHJjM2t5ZzZqRl9kdUhtYjJhWWYxZjMtWXktenlEeldVWm5RVUE4ZG85MWthN0JRd9IBjAJBVV95cUxQMHBCMjMwRVhZal9ZbDNZVGJTRjJtRVR3NklqRV9PU3E4dGtCTzlMcDVUcGFGUGlRcGpZZ094RU1jZkhOSWhFZzNKUFdud0Jha2JmcllZSEZPVElsVDJDV3dNRFM2NnBpQ3FNS0gtajdGTC1HZEtOdjIyMkdLbkF4Nm82UW9hV3JibFMtUUxodzlBaEpVa29QVW1FRW5pQmh5QWlqb216N25XZ1dfT3J5NVEwcGd2dUl0VTFYTkZEMXk3MmkzeU9WMTJTQzRCZHIxR3c2WVBzSEEtOW5xOGFKZXZoeWRFRFNYWFI5aFh1dXdlRDlld0dYQ3VXSHVScEJYQzFIMU9pNDZON1I2?oc=5
+- At UN, India thrashes Pakistan, calls for rising 'beyond their narrow considerations’ | India News - Hindustan Times
+  At UN, India thrashes Pakistan, calls for rising 'beyond
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkI1VHRuUkN2MXdWalMtdGo3VVptb3NhbkdLbXFEb1A0bEEtYjJxLXM5cmRBUTNFU2E2eXY1azU2OVRkd1ozOWNXQVNxNWpJXzVIbzN3RlBwMWpRczV5ZVF4cTJKVXREdVVsaGF2UzE2c3lOS1d5T2c4S25NUnEtbVRubEFhU09XRnJNTDFkcF9MbFNXZWpHOU5SYzN3aVk4NlFyaVh3c1FnUzhnLXRPNHhiVVZRcFRJTHJCcVZIZWZNVW5oR3M1UUlTWnFrYUtoOHF4UTAta3rSAd4BQVVfeXFMTmJwTE9WbjJwYU5WRnEyY0tJV2lJaUtMel9OWkM3Si1ENGhzd2VoOG1xUmxfLU1LWEllRy1qaGFnRk5KTmR0MTRDWXNoRTFHY2g4Vjl0WEhPQUE3bVEzWnU5RS10X2RscXU3N1hBaEFrY2FRb2tJVVpCYlF1X2VESjNZdGV4MHlpRFFHTndkRjJYNDhiUWc4ZFZKN0FSZFN6cEJpU1hnNDl0N3U1RWRKQm1wYkZxU3E1QzlSS3BsNm1wQlg4MWFsbUZ6U19ZTEVfc0R2VUg3azlNYVU5NVFn?oc=5
 
-- Delhi High Court seeks Centre’s response on Iran’s detention of 16 Indian seafarers - The Hindu
-  Delhi High Court seeks Centre’s response on Iran
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVNrTWd1YUtqRlYyLWhfclNHcU5aYmUzX0UtVzBGd2o2ZnQ1NTJOTURMaXNFbEswR01aVmZLcG5DeGI2QkhXOVpaRnBIRDdiemtGYXA3TWNOck8wejkwSG9fRFlKNExpWUU2V05GamlNTGxYOTlZU1B4LWxMRnpEWW5jYXJjM2lsMXJfQkIwQUV6TVllRWVmRW9tQXpUTFdfZHVkczZ4R3NmbFlLNWhaVWVUOFlraU9KZVFKZDBlTnZJbldjVjJWMkVXdnNOY3ZZeUNYWWxIRdIB3gFBVV95cUxPbTg2OXF0RDg1RHllV2s3WTZJdEpvVVFPSUdHbjBLZEl2Vjl4V295RWk1TVhRVzVOVVdUNS01SEI0RUMxd1dYakVYaWg2b0l2OXYzNk84SFlUZ1hmc0pxamhWZ3F4V1JZcjF1UVlDa3EyQ3N0WGwtR21JV2ZTYnd1NURveGZMRlU5YWh5OGk0bHdLN09FV2syVklBY3dicmRHWVV5QU56MTliLWR6VGFJUHlnNnB5Y3pxYVBWQWw3VzA1dWJIRjZZM1piUklNTXA4cmhwTHBWazBpc3cxa2c?oc=5
+- Gain knowledge abroad, use it for India: Bhagwat - Times of India
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVHlrRzJubHhNVktVWHY2RkNBYjJSU1dqWE9FWDJhaHBvYjIxbm9USGE3OGNPVkswcHRWeWJHZkhRREw2b1JRcVh6S29sMFJPZjhtZHZBdzRUR0hsZlhRSHg0eDNUbXUtaHJjSkljOFBKcmhWcmVqRTRTYlI5ZDV3RDhLOEhXMkJxQXhIcWhYWnpQS1BOYUI1bmJoV3JIUUYzTnl1Z21tWUZaaUtCVFgzTXNna2tnX0hHU0hsQ2R3R0Z6UdIBxwFBVV95cUxQMEQzMlRVc1dZVXNoQVpWWVFPY0kzVWJkMmp5VnljbG0xSHIwWUloODBTNGFBSUZUUHRlTDRlVWRQSEk5bHIwZjhLUWc1WjdIeWpzLWdoYnpNSFE1d1FkOUxNQndUQVp1OUVqRlpwcTVtWmF3T29pUld2bm5fdzlURWwtQ1d0dEpHbFBaenhsajFvYXh1NDEtb1FUNHp0dlV5U0JqTGFvUmt6UHpiNlZIMFJ4elBEMVpZLUNLZTNJR3Qxczl1ZW9J?oc=5
+
+- Top News Headlines of January 15, 2026 | Ward housing Colaba records lowest turnout at 15.73 % - The Indian Express
+  The Indian Express has published a list of top news stories of January 15, 2026
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOElENTFlNnFBeHFldDVJNWJvdHp2Umlid2dJeXZmSFpTQXlQUGwwenZvUk1HWV83b0U5N0Rlcm5HWTRmQTNpN3NPWENOZ3VyRGk5Nm9MQUdDWGI5TFdQdnJ1NG9yMU00VlJIT19ZdWUyMWJmVVdkZnRGZkw2Q3VQYnhhRnB2UDZWVFpkQlU4aVJVY2szS0c4a0tUYmtWLVpWN3VLdHNhU0FpZjhNVDZ2T3FRZzZnT19TdWlFYW5lVTRxV3BMN0R4UmhPWk1waks3VDhUYzVBaHFlakV3UV9uT1N3aXRIZnVy0gHvAUFVX3lxTE9ILXVmUUNXbWM1V2gwclh2M0oxZFJyX2NteHFBLWZfczE5cnJLcGlyVC1jcGV1cnRTTzJHclNEczdkc0VnUEdQVl9PYkh6NkVsNkMwSGFxY3FJdTFwbFQ2RmswOFBkWXpIWGdYVjlSVllCNUxLOEgxRjJmTkwtTlRvc0RPSTU0NWU2M2RNTV95SXJoUTB1N2FNQ2lUQ0J1OGFmYXN2a2NfTEJVTF9UM2c0cExtTUU2QXZ0cHFYSk43bjZEaDRUUTVjNDFuQy11U0cycExhUWNRNGwtZHM1elB2WTI0TlVfYWdobmNpaFIw?oc=5
+
+- India Is a Major Growth Engine for Global Economy: IMF - News On AIR
+  India Is a Major Growth Engine for Global Economy:
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWmk5VEZyUE8yZ2ZzR1hoVDNXSy1DT2czRXVNUmwzZVZkc1RUTk1mUTIyUWJKdFJ2emRHekZ5bGloSVVGVXJrSXZBVkwtN0FYTWZrcFJZRVQ2X0p3MGRIWDR5dkNiS3YwT2k0ODNkN3lzUmJwb0hsZno0bVpkZ1hqVTMtM3NWUFU1dFhB?oc=5
 
 - India Won't Leave Iran's Chabahar Port, Working With US For Middle Path: Sources - NDTV
   India Won't Leave Iran's Chabahar Port,
   🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWE0UjBfMFJCeVFyS0FGd2dVWTVmUXlNeTUwUGtVRGZ1UmV3LW1FNGpCcGlQWUpoR0cyaVIzWWZYQkNtS3d6MXU2bE9MLVlGZ0RWeDAwRHZTMW9hOElhMi0welV2TkM0aU1SR01uWWxvSlNqSm1mZTF6YUdPM0tMWjhqMnpLaVNfRmxQRVhnZkZjUExGM3l3V0E1VGhpSExzN3NkZlZQZnBGbGQzTE9sMXgwSnZnWTNXMjRUeUN6Slk5ZlQ1ZHQ2bXNzY3MxU21zQnlPUkswcWxHd9IB4gFBVV95cUxPb2syT3dDS0VkVURIaU5zVTg3MS1KVzhMZTdyNGVWeUpOU0JCTHJweVNJQVQ4Z1I5VUxsSGRYNjQ3U0VrVXk3RExDQTVuNk1Nc1lSMldGWUQ5QnR3SjRYV2xBMmUzanplTDFiUWx2dERMN0JpWEwyR19JUGJ4amJEb0JmMXpjd2lzZzlzQjNLQUxDXzBEQmplUEhjajBla2JEM3V1YmRvaEtPYUl0SEsydi03R016VGRpck5rTGdSdE9OYkhwQThRdWg5R1pYVDUwRS1wcWU0Z2VNMElPaGgtRlJn?oc=5
 
-- India-Myanmar border fence cut in Manipur again - Times of India
-  India-Myanmar border fence cut
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdktKVFFBQ0hkZGJOOXBPdFZBZko3TXZhQlBLX1gyYXdhV3BfOEExVUJ2VUNSczFtLWlYSS1jMVN5TTNyR0pzTXhwRExXcjQ3V0RYWVhJcHdSY1I4WWg4Tl9abXQ5dkNEd2EtQWlmYXRTQmpyV2VocWZmeVdsa1JjRldZeklsSy1mUjRuMElqQkJ3X2JyQ1NOUk1sN2RWVFlyVXhIMG5UdUVaNl8tYmxVNjdNWkt5YXJza28wNkVpUjLSAcYBQVVfeXFMTjJoS1pYaGppZVAwQ3NKenJUMXp1M2IydkFsRktNS0hEY1FRXzdJWG9Ib3pkRGhmZGxoMFFEQk1HODlsdmRPM054ZlpmdGNTSndkdmJycWVZbnZJRHk4SmFOdDJGd3RTMU0yeGNOM3ZHamJkS0JYUy1RNGFya0dMSjFSWDRQdE02ZmhpOWwxNDhURmttMGNqRzl5Mm1fQlQ3ZnA3Q0w5UEw3YWFmcTNDOEJJcmVzMmFhdkhDVGk2VTc0X3VkaTFR?oc=5
+- At UN, India thrashes Pakistan, calls for rising 'beyond their narrow considerations’ | India News - Hindustan Times
+  At UN, India thrashes Pakistan, calls for rising 'beyond
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkI1VHRuUkN2MXdWalMtdGo3VVptb3NhbkdLbXFEb1A0bEEtYjJxLXM5cmRBUTNFU2E2eXY1azU2OVRkd1ozOWNXQVNxNWpJXzVIbzN3RlBwMWpRczV5ZVF4cTJKVXREdVVsaGF2UzE2c3lOS1d5T2c4S25NUnEtbVRubEFhU09XRnJNTDFkcF9MbFNXZWpHOU5SYzN3aVk4NlFyaVh3c1FnUzhnLXRPNHhiVVZRcFRJTHJCcVZIZWZNVW5oR3M1UUlTWnFrYUtoOHF4UTAta3rSAd4BQVVfeXFMTmJwTE9WbjJwYU5WRnEyY0tJV2lJaUtMel9OWkM3Si1ENGhzd2VoOG1xUmxfLU1LWEllRy1qaGFnRk5KTmR0MTRDWXNoRTFHY2g4Vjl0WEhPQUE3bVEzWnU5RS10X2RscXU3N1hBaEFrY2FRb2tJVVpCYlF1X2VESjNZdGV4MHlpRFFHTndkRjJYNDhiUWc4ZFZKN0FSZFN6cEJpU1hnNDl0N3U1RWRKQm1wYkZxU3E1QzlSS3BsNm1wQlg4MWFsbUZ6U19ZTEVfc0R2VUg3azlNYVU5NVFn?oc=5
 
-- Trade Deal On Cards As EU Leaders Visit India For Republic Day Celebrations - NDTV
-  " target="_blank">Trade Deal On Cards
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlJUaXMtUkdscDF5dG9NQ0ZsQmlWNnZZZEthWlB4dzFUcXVERzQ4UC04bkdVcjZNZS0wOEhlNWFuVHk1NEc4TVhXSUpQWEdUOWdlWWNWbFRFTUVRcVpPN2Nob0haOGFRXzJOZ3hHWEZickkxV25NUnYtUzF4MURRdElxOUdRaGhraXFtTWp0b1ItOHRXMElEZ1VxTk5jYjZ2NjdiWkRNUmh5Q09uR0Zhd1ZibDBJVDTSAb8BQVVfeXFMUE1nX0JZRV9CM2FtVDBDWlkzSHczWk9RQmVtZFBENUlKSzdVd1B2SGhCdG9uTndlQkZsZUNpWDJUbEM1T3I3ZFZoclc2VHhTQ3NIZE1WNlFYZndsbHRlQUhoaDRqRVRpN1F0MHVSNjk5TkQ1RnRsOUpZT3NLU21GVG9QZ2NZbnVGanpzV3hoRExLVENHRms3VjRKU0ViSGdyMDdUd19yeGc3cVFJclJYNFhIa0ZFcHB2N1pJU3lMczQ?oc=5
+- Gain knowledge abroad, use it for India: Bhagwat - Times of India
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVHlrRzJubHhNVktVWHY2RkNBYjJSU1dqWE9FWDJhaHBvYjIxbm9USGE3OGNPVkswcHRWeWJHZkhRREw2b1JRcVh6S29sMFJPZjhtZHZBdzRUR0hsZlhRSHg0eDNUbXUtaHJjSkljOFBKcmhWcmVqRTRTYlI5ZDV3RDhLOEhXMkJxQXhIcWhYWnpQS1BOYUI1bmJoV3JIUUYzTnl1Z21tWUZaaUtCVFgzTXNna2tnX0hHU0hsQ2R3R0Z6UdIBxwFBVV95cUxQMEQzMlRVc1dZVXNoQVpWWVFPY0kzVWJkMmp5VnljbG0xSHIwWUloODBTNGFBSUZUUHRlTDRlVWRQSEk5bHIwZjhLUWc1WjdIeWpzLWdoYnpNSFE1d1FkOUxNQndUQVp1OUVqRlpwcTVtWmF3T29pUld2bm5fdzlURWwtQ1d0dEpHbFBaenhsajFvYXh1NDEtb1FUNHp0dlV5U0JqTGFvUmt6UHpiNlZIMFJ4elBEMVpZLUNLZTNJR3Qxczl1ZW9J?oc=5
 
-- As trade talks with US drag, Republican leader defends India: ‘They bring investments’ | India News - Hindustan Times
-  The Indian government is in talks with the US over a possible trade deal.
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTc0U1l0ejVkZW1WVmJkbjNyN1VfNk1fcG5yUThPbkhoZDBNbnBwa19xOUQzSTNlWUN0cDhTR3RKQURuZ1RMMlN1emNxemdUTV9FOEpNekp6akVPOEtyMHAxSGtXZklrc1RMQTU0dHJ2Mm9SOFF1Uk84VzhGUk5Dc3BRUVZ1M3gyeENhYXJ0RWJFc0dTUm90U1hXajZsQkNYUERJOC1tUS1IT2g4S1lXZVpiMDJJekpvSUxpNjR6d01pZkpTTGlneWRYSU5RRERQM3B5eDQxeHJjM2t5ZzZqRl9kdUhtYjJhWWYxZjMtWXktenlEeldVWm5RVUE4ZG85MWthN0JRd9IBjAJBVV95cUxQMHBCMjMwRVhZal9ZbDNZVGJTRjJtRVR3NklqRV9PU3E4dGtCTzlMcDVUcGFGUGlRcGpZZ094RU1jZkhOSWhFZzNKUFdud0Jha2JmcllZSEZPVElsVDJDV3dNRFM2NnBpQ3FNS0gtajdGTC1HZEtOdjIyMkdLbkF4Nm82UW9hV3JibFMtUUxodzlBaEpVa29QVW1FRW5pQmh5QWlqb216N25XZ1dfT3J5NVEwcGd2dUl0VTFYTkZEMXk3MmkzeU9WMTJTQzRCZHIxR3c2WVBzSEEtOW5xOGFKZXZoeWRFRFNYWFI5aFh1dXdlRDlld0dYQ3VXSHVScEJYQzFIMU9pNDZON1I2?oc=5
+- Top News Headlines of January 15, 2026 | Ward housing Colaba records lowest turnout at 15.73 % - The Indian Express
+  The Indian Express has published a list of top news stories of January 15, 2026
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOElENTFlNnFBeHFldDVJNWJvdHp2Umlid2dJeXZmSFpTQXlQUGwwenZvUk1HWV83b0U5N0Rlcm5HWTRmQTNpN3NPWENOZ3VyRGk5Nm9MQUdDWGI5TFdQdnJ1NG9yMU00VlJIT19ZdWUyMWJmVVdkZnRGZkw2Q3VQYnhhRnB2UDZWVFpkQlU4aVJVY2szS0c4a0tUYmtWLVpWN3VLdHNhU0FpZjhNVDZ2T3FRZzZnT19TdWlFYW5lVTRxV3BMN0R4UmhPWk1waks3VDhUYzVBaHFlakV3UV9uT1N3aXRIZnVy0gHvAUFVX3lxTE9ILXVmUUNXbWM1V2gwclh2M0oxZFJyX2NteHFBLWZfczE5cnJLcGlyVC1jcGV1cnRTTzJHclNEczdkc0VnUEdQVl9PYkh6NkVsNkMwSGFxY3FJdTFwbFQ2RmswOFBkWXpIWGdYVjlSVllCNUxLOEgxRjJmTkwtTlRvc0RPSTU0NWU2M2RNTV95SXJoUTB1N2FNQ2lUQ0J1OGFmYXN2a2NfTEJVTF9UM2c0cExtTUU2QXZ0cHFYSk43bjZEaDRUUTVjNDFuQy11U0cycExhUWNRNGwtZHM1elB2WTI0TlVfYWdobmNpaFIw?oc=5
 
-- Delhi High Court seeks Centre’s response on Iran’s detention of 16 Indian seafarers - The Hindu
-  Delhi High Court seeks Centre’s response on Iran
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVNrTWd1YUtqRlYyLWhfclNHcU5aYmUzX0UtVzBGd2o2ZnQ1NTJOTURMaXNFbEswR01aVmZLcG5DeGI2QkhXOVpaRnBIRDdiemtGYXA3TWNOck8wejkwSG9fRFlKNExpWUU2V05GamlNTGxYOTlZU1B4LWxMRnpEWW5jYXJjM2lsMXJfQkIwQUV6TVllRWVmRW9tQXpUTFdfZHVkczZ4R3NmbFlLNWhaVWVUOFlraU9KZVFKZDBlTnZJbldjVjJWMkVXdnNOY3ZZeUNYWWxIRdIB3gFBVV95cUxPbTg2OXF0RDg1RHllV2s3WTZJdEpvVVFPSUdHbjBLZEl2Vjl4V295RWk1TVhRVzVOVVdUNS01SEI0RUMxd1dYakVYaWg2b0l2OXYzNk84SFlUZ1hmc0pxamhWZ3F4V1JZcjF1UVlDa3EyQ3N0WGwtR21JV2ZTYnd1NURveGZMRlU5YWh5OGk0bHdLN09FV2syVklBY3dicmRHWVV5QU56MTliLWR6VGFJUHlnNnB5Y3pxYVBWQWw3VzA1dWJIRjZZM1piUklNTXA4cmhwTHBWazBpc3cxa2c?oc=5
-
-- India Won't Leave Iran's Chabahar Port, Working With US For Middle Path: Sources - NDTV
-  India Won't Leave Iran's Chabahar Port,
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWE0UjBfMFJCeVFyS0FGd2dVWTVmUXlNeTUwUGtVRGZ1UmV3LW1FNGpCcGlQWUpoR0cyaVIzWWZYQkNtS3d6MXU2bE9MLVlGZ0RWeDAwRHZTMW9hOElhMi0welV2TkM0aU1SR01uWWxvSlNqSm1mZTF6YUdPM0tMWjhqMnpLaVNfRmxQRVhnZkZjUExGM3l3V0E1VGhpSExzN3NkZlZQZnBGbGQzTE9sMXgwSnZnWTNXMjRUeUN6Slk5ZlQ1ZHQ2bXNzY3MxU21zQnlPUkswcWxHd9IB4gFBVV95cUxPb2syT3dDS0VkVURIaU5zVTg3MS1KVzhMZTdyNGVWeUpOU0JCTHJweVNJQVQ4Z1I5VUxsSGRYNjQ3U0VrVXk3RExDQTVuNk1Nc1lSMldGWUQ5QnR3SjRYV2xBMmUzanplTDFiUWx2dERMN0JpWEwyR19JUGJ4amJEb0JmMXpjd2lzZzlzQjNLQUxDXzBEQmplUEhjajBla2JEM3V1YmRvaEtPYUl0SEsydi03R016VGRpck5rTGdSdE9OYkhwQThRdWg5R1pYVDUwRS1wcWU0Z2VNMElPaGgtRlJn?oc=5
-
-- India-Myanmar border fence cut in Manipur again - Times of India
-  India-Myanmar border fence cut
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdktKVFFBQ0hkZGJOOXBPdFZBZko3TXZhQlBLX1gyYXdhV3BfOEExVUJ2VUNSczFtLWlYSS1jMVN5TTNyR0pzTXhwRExXcjQ3V0RYWVhJcHdSY1I4WWg4Tl9abXQ5dkNEd2EtQWlmYXRTQmpyV2VocWZmeVdsa1JjRldZeklsSy1mUjRuMElqQkJ3X2JyQ1NOUk1sN2RWVFlyVXhIMG5UdUVaNl8tYmxVNjdNWkt5YXJza28wNkVpUjLSAcYBQVVfeXFMTjJoS1pYaGppZVAwQ3NKenJUMXp1M2IydkFsRktNS0hEY1FRXzdJWG9Ib3pkRGhmZGxoMFFEQk1HODlsdmRPM054ZlpmdGNTSndkdmJycWVZbnZJRHk4SmFOdDJGd3RTMU0yeGNOM3ZHamJkS0JYUy1RNGFya0dMSjFSWDRQdE02ZmhpOWwxNDhURmttMGNqRzl5Mm1fQlQ3ZnA3Q0w5UEw3YWFmcTNDOEJJcmVzMmFhdkhDVGk2VTc0X3VkaTFR?oc=5
-
-- Trade Deal On Cards As EU Leaders Visit India For Republic Day Celebrations - NDTV
-  " target="_blank">Trade Deal On Cards
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlJUaXMtUkdscDF5dG9NQ0ZsQmlWNnZZZEthWlB4dzFUcXVERzQ4UC04bkdVcjZNZS0wOEhlNWFuVHk1NEc4TVhXSUpQWEdUOWdlWWNWbFRFTUVRcVpPN2Nob0haOGFRXzJOZ3hHWEZickkxV25NUnYtUzF4MURRdElxOUdRaGhraXFtTWp0b1ItOHRXMElEZ1VxTk5jYjZ2NjdiWkRNUmh5Q09uR0Zhd1ZibDBJVDTSAb8BQVVfeXFMUE1nX0JZRV9CM2FtVDBDWlkzSHczWk9RQmVtZFBENUlKSzdVd1B2SGhCdG9uTndlQkZsZUNpWDJUbEM1T3I3ZFZoclc2VHhTQ3NIZE1WNlFYZndsbHRlQUhoaDRqRVRpN1F0MHVSNjk5TkQ1RnRsOUpZT3NLU21GVG9QZ2NZbnVGanpzV3hoRExLVENHRms3VjRKU0ViSGdyMDdUd19yeGc3cVFJclJYNFhIa0ZFcHB2N1pJU3lMczQ?oc=5
-
-- As trade talks with US drag, Republican leader defends India: ‘They bring investments’ | India News - Hindustan Times
-  The Indian government is in talks with the US over a possible trade deal.
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTc0U1l0ejVkZW1WVmJkbjNyN1VfNk1fcG5yUThPbkhoZDBNbnBwa19xOUQzSTNlWUN0cDhTR3RKQURuZ1RMMlN1emNxemdUTV9FOEpNekp6akVPOEtyMHAxSGtXZklrc1RMQTU0dHJ2Mm9SOFF1Uk84VzhGUk5Dc3BRUVZ1M3gyeENhYXJ0RWJFc0dTUm90U1hXajZsQkNYUERJOC1tUS1IT2g4S1lXZVpiMDJJekpvSUxpNjR6d01pZkpTTGlneWRYSU5RRERQM3B5eDQxeHJjM2t5ZzZqRl9kdUhtYjJhWWYxZjMtWXktenlEeldVWm5RVUE4ZG85MWthN0JRd9IBjAJBVV95cUxQMHBCMjMwRVhZal9ZbDNZVGJTRjJtRVR3NklqRV9PU3E4dGtCTzlMcDVUcGFGUGlRcGpZZ094RU1jZkhOSWhFZzNKUFdud0Jha2JmcllZSEZPVElsVDJDV3dNRFM2NnBpQ3FNS0gtajdGTC1HZEtOdjIyMkdLbkF4Nm82UW9hV3JibFMtUUxodzlBaEpVa29QVW1FRW5pQmh5QWlqb216N25XZ1dfT3J5NVEwcGd2dUl0VTFYTkZEMXk3MmkzeU9WMTJTQzRCZHIxR3c2WVBzSEEtOW5xOGFKZXZoeWRFRFNYWFI5aFh1dXdlRDlld0dYQ3VXSHVScEJYQzFIMU9pNDZON1I2?oc=5
-
-- Delhi High Court seeks Centre’s response on Iran’s detention of 16 Indian seafarers - The Hindu
-  Delhi High Court seeks Centre’s response on Iran
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVNrTWd1YUtqRlYyLWhfclNHcU5aYmUzX0UtVzBGd2o2ZnQ1NTJOTURMaXNFbEswR01aVmZLcG5DeGI2QkhXOVpaRnBIRDdiemtGYXA3TWNOck8wejkwSG9fRFlKNExpWUU2V05GamlNTGxYOTlZU1B4LWxMRnpEWW5jYXJjM2lsMXJfQkIwQUV6TVllRWVmRW9tQXpUTFdfZHVkczZ4R3NmbFlLNWhaVWVUOFlraU9KZVFKZDBlTnZJbldjVjJWMkVXdnNOY3ZZeUNYWWxIRdIB3gFBVV95cUxPbTg2OXF0RDg1RHllV2s3WTZJdEpvVVFPSUdHbjBLZEl2Vjl4V295RWk1TVhRVzVOVVdUNS01SEI0RUMxd1dYakVYaWg2b0l2OXYzNk84SFlUZ1hmc0pxamhWZ3F4V1JZcjF1UVlDa3EyQ3N0WGwtR21JV2ZTYnd1NURveGZMRlU5YWh5OGk0bHdLN09FV2syVklBY3dicmRHWVV5QU56MTliLWR6VGFJUHlnNnB5Y3pxYVBWQWw3VzA1dWJIRjZZM1piUklNTXA4cmhwTHBWazBpc3cxa2c?oc=5
-
-- India Won't Leave Iran's Chabahar Port, Working With US For Middle Path: Sources - NDTV
-  India Won't Leave Iran's Chabahar Port,
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWE0UjBfMFJCeVFyS0FGd2dVWTVmUXlNeTUwUGtVRGZ1UmV3LW1FNGpCcGlQWUpoR0cyaVIzWWZYQkNtS3d6MXU2bE9MLVlGZ0RWeDAwRHZTMW9hOElhMi0welV2TkM0aU1SR01uWWxvSlNqSm1mZTF6YUdPM0tMWjhqMnpLaVNfRmxQRVhnZkZjUExGM3l3V0E1VGhpSExzN3NkZlZQZnBGbGQzTE9sMXgwSnZnWTNXMjRUeUN6Slk5ZlQ1ZHQ2bXNzY3MxU21zQnlPUkswcWxHd9IB4gFBVV95cUxPb2syT3dDS0VkVURIaU5zVTg3MS1KVzhMZTdyNGVWeUpOU0JCTHJweVNJQVQ4Z1I5VUxsSGRYNjQ3U0VrVXk3RExDQTVuNk1Nc1lSMldGWUQ5QnR3SjRYV2xBMmUzanplTDFiUWx2dERMN0JpWEwyR19JUGJ4amJEb0JmMXpjd2lzZzlzQjNLQUxDXzBEQmplUEhjajBla2JEM3V1YmRvaEtPYUl0SEsydi03R016VGRpck5rTGdSdE9OYkhwQThRdWg5R1pYVDUwRS1wcWU0Z2VNMElPaGgtRlJn?oc=5
-
-- India-Myanmar border fence cut in Manipur again - Times of India
-  India-Myanmar border fence cut
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdktKVFFBQ0hkZGJOOXBPdFZBZko3TXZhQlBLX1gyYXdhV3BfOEExVUJ2VUNSczFtLWlYSS1jMVN5TTNyR0pzTXhwRExXcjQ3V0RYWVhJcHdSY1I4WWg4Tl9abXQ5dkNEd2EtQWlmYXRTQmpyV2VocWZmeVdsa1JjRldZeklsSy1mUjRuMElqQkJ3X2JyQ1NOUk1sN2RWVFlyVXhIMG5UdUVaNl8tYmxVNjdNWkt5YXJza28wNkVpUjLSAcYBQVVfeXFMTjJoS1pYaGppZVAwQ3NKenJUMXp1M2IydkFsRktNS0hEY1FRXzdJWG9Ib3pkRGhmZGxoMFFEQk1HODlsdmRPM054ZlpmdGNTSndkdmJycWVZbnZJRHk4SmFOdDJGd3RTMU0yeGNOM3ZHamJkS0JYUy1RNGFya0dMSjFSWDRQdE02ZmhpOWwxNDhURmttMGNqRzl5Mm1fQlQ3ZnA3Q0w5UEw3YWFmcTNDOEJJcmVzMmFhdkhDVGk2VTc0X3VkaTFR?oc=5
-
-- Trade Deal On Cards As EU Leaders Visit India For Republic Day Celebrations - NDTV
-  " target="_blank">Trade Deal On Cards
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlJUaXMtUkdscDF5dG9NQ0ZsQmlWNnZZZEthWlB4dzFUcXVERzQ4UC04bkdVcjZNZS0wOEhlNWFuVHk1NEc4TVhXSUpQWEdUOWdlWWNWbFRFTUVRcVpPN2Nob0haOGFRXzJOZ3hHWEZickkxV25NUnYtUzF4MURRdElxOUdRaGhraXFtTWp0b1ItOHRXMElEZ1VxTk5jYjZ2NjdiWkRNUmh5Q09uR0Zhd1ZibDBJVDTSAb8BQVVfeXFMUE1nX0JZRV9CM2FtVDBDWlkzSHczWk9RQmVtZFBENUlKSzdVd1B2SGhCdG9uTndlQkZsZUNpWDJUbEM1T3I3ZFZoclc2VHhTQ3NIZE1WNlFYZndsbHRlQUhoaDRqRVRpN1F0MHVSNjk5TkQ1RnRsOUpZT3NLU21GVG9QZ2NZbnVGanpzV3hoRExLVENHRms3VjRKU0ViSGdyMDdUd19yeGc3cVFJclJYNFhIa0ZFcHB2N1pJU3lMczQ?oc=5
-
-- As trade talks with US drag, Republican leader defends India: ‘They bring investments’ | India News - Hindustan Times
-  The Indian government is in talks with the US over a possible trade deal.
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTc0U1l0ejVkZW1WVmJkbjNyN1VfNk1fcG5yUThPbkhoZDBNbnBwa19xOUQzSTNlWUN0cDhTR3RKQURuZ1RMMlN1emNxemdUTV9FOEpNekp6akVPOEtyMHAxSGtXZklrc1RMQTU0dHJ2Mm9SOFF1Uk84VzhGUk5Dc3BRUVZ1M3gyeENhYXJ0RWJFc0dTUm90U1hXajZsQkNYUERJOC1tUS1IT2g4S1lXZVpiMDJJekpvSUxpNjR6d01pZkpTTGlneWRYSU5RRERQM3B5eDQxeHJjM2t5ZzZqRl9kdUhtYjJhWWYxZjMtWXktenlEeldVWm5RVUE4ZG85MWthN0JRd9IBjAJBVV95cUxQMHBCMjMwRVhZal9ZbDNZVGJTRjJtRVR3NklqRV9PU3E4dGtCTzlMcDVUcGFGUGlRcGpZZ094RU1jZkhOSWhFZzNKUFdud0Jha2JmcllZSEZPVElsVDJDV3dNRFM2NnBpQ3FNS0gtajdGTC1HZEtOdjIyMkdLbkF4Nm82UW9hV3JibFMtUUxodzlBaEpVa29QVW1FRW5pQmh5QWlqb216N25XZ1dfT3J5NVEwcGd2dUl0VTFYTkZEMXk3MmkzeU9WMTJTQzRCZHIxR3c2WVBzSEEtOW5xOGFKZXZoeWRFRFNYWFI5aFh1dXdlRDlld0dYQ3VXSHVScEJYQzFIMU9pNDZON1I2?oc=5
-
-- Delhi High Court seeks Centre’s response on Iran’s detention of 16 Indian seafarers - The Hindu
-  Delhi High Court seeks Centre’s response on Iran
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVNrTWd1YUtqRlYyLWhfclNHcU5aYmUzX0UtVzBGd2o2ZnQ1NTJOTURMaXNFbEswR01aVmZLcG5DeGI2QkhXOVpaRnBIRDdiemtGYXA3TWNOck8wejkwSG9fRFlKNExpWUU2V05GamlNTGxYOTlZU1B4LWxMRnpEWW5jYXJjM2lsMXJfQkIwQUV6TVllRWVmRW9tQXpUTFdfZHVkczZ4R3NmbFlLNWhaVWVUOFlraU9KZVFKZDBlTnZJbldjVjJWMkVXdnNOY3ZZeUNYWWxIRdIB3gFBVV95cUxPbTg2OXF0RDg1RHllV2s3WTZJdEpvVVFPSUdHbjBLZEl2Vjl4V295RWk1TVhRVzVOVVdUNS01SEI0RUMxd1dYakVYaWg2b0l2OXYzNk84SFlUZ1hmc0pxamhWZ3F4V1JZcjF1UVlDa3EyQ3N0WGwtR21JV2ZTYnd1NURveGZMRlU5YWh5OGk0bHdLN09FV2syVklBY3dicmRHWVV5QU56MTliLWR6VGFJUHlnNnB5Y3pxYVBWQWw3VzA1dWJIRjZZM1piUklNTXA4cmhwTHBWazBpc3cxa2c?oc=5
-
-- India Won't Leave Iran's Chabahar Port, Working With US For Middle Path: Sources - NDTV
-  India Won't Leave Iran's Chabahar Port,
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWE0UjBfMFJCeVFyS0FGd2dVWTVmUXlNeTUwUGtVRGZ1UmV3LW1FNGpCcGlQWUpoR0cyaVIzWWZYQkNtS3d6MXU2bE9MLVlGZ0RWeDAwRHZTMW9hOElhMi0welV2TkM0aU1SR01uWWxvSlNqSm1mZTF6YUdPM0tMWjhqMnpLaVNfRmxQRVhnZkZjUExGM3l3V0E1VGhpSExzN3NkZlZQZnBGbGQzTE9sMXgwSnZnWTNXMjRUeUN6Slk5ZlQ1ZHQ2bXNzY3MxU21zQnlPUkswcWxHd9IB4gFBVV95cUxPb2syT3dDS0VkVURIaU5zVTg3MS1KVzhMZTdyNGVWeUpOU0JCTHJweVNJQVQ4Z1I5VUxsSGRYNjQ3U0VrVXk3RExDQTVuNk1Nc1lSMldGWUQ5QnR3SjRYV2xBMmUzanplTDFiUWx2dERMN0JpWEwyR19JUGJ4amJEb0JmMXpjd2lzZzlzQjNLQUxDXzBEQmplUEhjajBla2JEM3V1YmRvaEtPYUl0SEsydi03R016VGRpck5rTGdSdE9OYkhwQThRdWg5R1pYVDUwRS1wcWU0Z2VNMElPaGgtRlJn?oc=5
-
-- India-Myanmar border fence cut in Manipur again - Times of India
-  India-Myanmar border fence cut
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdktKVFFBQ0hkZGJOOXBPdFZBZko3TXZhQlBLX1gyYXdhV3BfOEExVUJ2VUNSczFtLWlYSS1jMVN5TTNyR0pzTXhwRExXcjQ3V0RYWVhJcHdSY1I4WWg4Tl9abXQ5dkNEd2EtQWlmYXRTQmpyV2VocWZmeVdsa1JjRldZeklsSy1mUjRuMElqQkJ3X2JyQ1NOUk1sN2RWVFlyVXhIMG5UdUVaNl8tYmxVNjdNWkt5YXJza28wNkVpUjLSAcYBQVVfeXFMTjJoS1pYaGppZVAwQ3NKenJUMXp1M2IydkFsRktNS0hEY1FRXzdJWG9Ib3pkRGhmZGxoMFFEQk1HODlsdmRPM054ZlpmdGNTSndkdmJycWVZbnZJRHk4SmFOdDJGd3RTMU0yeGNOM3ZHamJkS0JYUy1RNGFya0dMSjFSWDRQdE02ZmhpOWwxNDhURmttMGNqRzl5Mm1fQlQ3ZnA3Q0w5UEw3YWFmcTNDOEJJcmVzMmFhdkhDVGk2VTc0X3VkaTFR?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- India Is a Major Growth Engine for Global Economy: IMF - News On AIR
+  India Is a Major Growth Engine for Global Economy:
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWmk5VEZyUE8yZ2ZzR1hoVDNXSy1DT2czRXVNUmwzZVZkc1RUTk1mUTIyUWJKdFJ2emRHekZ5bGloSVVGVXJrSXZBVkwtN0FYTWZrcFJZRVQ2X0p3MGRIWDR5dkNiS3YwT2k0ODNkN3lzUmJwb0hsZno0bVpkZ1hqVTMtM3NWUFU1dFhB?oc=5
 
 
-_Last updated: 2026-01-16 18:30:44 UTC_
+_Last updated: 2026-01-17 01:19:23 UTC_
