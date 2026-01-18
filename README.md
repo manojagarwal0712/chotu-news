@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- News Today Live Updates, 18 January | Delhi wakes up to thick blanket of smog; IGI airport issues advisory
+- Lucknow to Kanpur in just 30 minutes: Here’s how the new expressway in Uttar Pradesh could transform everyday travel
+  
+  🔗 https://indianexpress.com/article/india/lucknow-to-kanpur-in-just-30-minutes-heres-how-the-new-expressway-in-uttar-pradesh-could-transform-everyday-travel-10481047/
+
+- Indian Railways targets renewal of 7,900 track km in FY27 to improve safety, speed
+  
+  🔗 https://indianexpress.com/article/india/indian-railways-targets-renewal-of-7900-track-km-in-fy27-to-improve-safety-speed-10480883/
+
+- PM Modi lays foundation stone for Kaziranga corridor, flags off 2 Amrit Bharat trains
+  
+  🔗 https://indianexpress.com/article/india/pm-modi-foundation-stone-kaziranga-corridor-amrit-bharat-trains-assam-10480615/
+
+- ‘Congress-led UDF win in Kerala will mean Muslim League rule’: Ezhava community leader Vellappally Natesan
+  
+  🔗 https://indianexpress.com/article/india/congress-led-udf-win-kerala-will-mean-muslim-league-rule-ezhava-community-leader-vellappally-natesan-10480614/
+
+- News Today Live Updates, 18 January | Santragachi-Anand Vihar Terminal Amrit Bharat Express train begins inaugural run – check timings, stoppages
   
   🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-01-18-2026-news-headlines-10480324/
 
-- ‘Keep sports free of politics, don’t suspect every selection’: J&K L-G amid row over picking players
+- ‘Today’s AI models are missing critical capabilities’: Google DeepMind’s Demis Hassabis
   
-  🔗 https://indianexpress.com/article/india/keep-sports-free-of-politics-dont-suspect-every-selection-jk-l-g-amid-row-over-picking-players-10480158/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-models-missing-critical-capabilities-demis-hassabis-10481161/
 
-- Odisha Police crackdown on cattle smugglers; identify properties worth Rs 50 crore
+- Elon Musk vs OpenAI: What newly unsealed court docs reveal and what they don’t
   
-  🔗 https://indianexpress.com/article/india/odisha-police-crackdown-on-cattle-smugglers-identify-properties-worth-rs-50-crore-10480106/
-
-- At Bodo outreach, PM Modi’s allegation — ‘Congress created instability in Assam, helped infiltrators for vote bank’
-  
-  🔗 https://indianexpress.com/article/india/at-bodo-outreach-pm-modis-allegation-congress-created-instability-in-assam-helped-infiltrators-for-vote-bank-10480136/
-
-- The story of 176 cases, stock witnesses, and one Indore police station
-  
-  🔗 https://indianexpress.com/article/india/the-story-of-176-cases-stock-witnesses-and-one-indore-police-station-10480142/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-what-unsealed-court-docs-reveal-10481002/
 
 - Nothing CMF Headphone Pro review: Vintage looks, modern sound
   
@@ -32,13 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/croma-announces-republic-day-sale-discounts-on-iphone-17-s25-ultra-10479793/
 
-- Study reveals Pompeii’s public baths were riddled with human waste
-  
-  🔗 https://indianexpress.com/article/technology/science/study-reveals-pompeiis-public-baths-were-riddled-with-human-waste-10479752/
+- Climate funding: Why PSUs are stepping in where VCs fear to tread
+  Shipyards, gas utilities, global asset managers are reshaping India’s climate-tech funding. While venture capital steers clear, these legacy institutions
+  🔗 https://www.livemint.com/companies/start-ups/india-climate-tech-startups-funding-trends-2025-11768730059725.html
 
-- OnePlus Pad Go 2 review: A surprisingly complete Android tablet
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/oneplus-pad-go-2-review-10479625/
+- Musk Seeks Up to $134 Billion Damages From OpenAI, Microsoft
+  Elon Musk wants OpenAI Inc. and Microsoft to pay him damages in the range of $79 billion to $134 billion. Musk claims that the generative AI company defra
+  🔗 https://www.livemint.com/companies/musk-seeks-up-to-134-billion-damages-from-openai-microsoft-11768720823032.html
 
 - Battle for AI talent heats up as former OpenAI staff who left for Mira Murati's Thinking Machines return
   OpenAI has onboarded three former staff. Barret Zoph, Luke Metz and Sam Schoenholz had left to join Thinking Machines.
@@ -52,53 +60,45 @@
   US President Donald Trump has lashed out at Jamie Dimon, chief of JPMorgan Chase. He threatened to sue the lender for debanking him following the 6 January Capitol riot in 2021.
   🔗 https://www.livemint.com/companies/news/donald-trump-threatens-sue-jpmorgan-debanking-capitol-jan-6-riots-why-unhappy-with-jamie-dimon-deny-offer-fed-chief-role-11768699834996.html
 
-- Trump Blasts Dimon, Threatens to Sue JP Morgan Over Debanking
-  Trump threatens to sue JPMorgan Chase &amp; Co. over his claim that he was debanked after the Jan. 6, 2021, Capitol riot
-  🔗 https://www.livemint.com/companies/trump-blasts-dimon-threatens-to-sue-jp-morgan-over-debanking-11768674874669.html
+- 68% returns in 6 months! Multibagger stock in focus after firm issues assurance for  ₹5 crore subsidiary loan
+  Shanti Educational issued a ‘letter of comfort’ assurance to ICICI Bank for a repayment of a  ₹5 crore subsidiary loan.
+  🔗 https://www.livemint.com/market/stock-market-news/68-returns-in-6-months-multibagger-stock-shanti-educational-in-focus-after-issues-assurance-rs-5-crore-subsidiary-loan-11768730080891.html
 
-- IndiGo’s first reaction after DGCA fines airline  ₹22.2 cr for December flight chaos: ‘Will take appropriate measure'
-  InterGlobe Aviation's Board said it is committed to addressing DGCA findings regarding IndiGo's December disruptions. The Directorate General
-  🔗 https://www.livemint.com/companies/indigos-first-reaction-after-dgca-fines-airline-rs-22-2-cr-for-december-flight-chaos-will-take-appropriate-measure-11768672634789.html
+- India is not at an absolute rock bottom valuation, but much better than 2024: Tata Mutual Fund's Rahul Singh
+  Tata Tata Mutual Fund's Equity head Rahul Singh warns that manufacturing and capital goods still harbour pockets of unjustified optimism. Investors are likely to rotate back into
+  🔗 https://www.livemint.com/market/stock-market-news/india-market-valuation-foreign-investors-emerging-markets-flows-tata-mutual-fund-11768680233652.html
 
-- Nifty IT index surges nearly 3% last week on Infosys-led rally, biggest jump in over a month
-  The Nifty IT index surged 3.34%, led by Infosys and Tech Mahindra. Top firms posted better-than-expected earnings despite challenges like
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-it-index-surges-nearly-3-last-week-on-infosys-led-rally-biggest-jump-in-over-a-month-11768710993376.html
+- Ashish Kacholia portfolio stock Fineotex Chemical to be in focus on Monday; here's why
+  Ashish Kacholia's portfolio stock Fineotex Chemical to be in focus of investors on Monday, 19 January 2026. The company approved the allotment of equity shares upon conversion of share warrants
+  🔗 https://www.livemint.com/market/stock-market-news/ashish-kacholia-portfolio-stock-fineotex-chemical-to-be-in-focus-on-monday-heres-why-11768727524875.html
 
-- HDFC Bank vs ICICI Bank vs Yes Bank vs RBL Bank: Which stock to buy after Q3 results 2026?
-  HDFC Bank posted robust growth, while ICICI Bank reported steady earnings. Yes Bank's PAT surged by over 50%, and RBL Bank's performance remained stable
-  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-vs-icici-bank-vs-yes-bank-vs-rbl-bank-which-stock-to-buy-after-q3-results-2026-11768712630288.html
+- Silver rate today: Is silver price getting ready for a big crash after a Hunt Brothers-like rally?
+  If COMEX silver price closes below $82 per ounce without breaking the current peak, then one can assume that white metal rally has
+  🔗 https://www.livemint.com/market/commodities/silver-rate-today-is-silver-price-getting-ready-for-a-big-crash-after-a-hunt-brothers-like-rally-11768727973154.html
 
-- What Trump's Greenland tariffs on NATO countries mean for gold, silver, Indian stock market?
-  Gold and silver rates may have a gap-up opening on Monday due to escalation in the geopolitical tension and global uncertainty
-  🔗 https://www.livemint.com/market/stock-market-news/what-trumps-greenland-tariffs-on-nato-countries-mean-for-gold-silver-indian-stock-market-11768706999377.html
+- Silver rate today: White metal rises over 200% in less than 9 months. Is the  ₹3 lakh mark next?
+  Silver prices have surged 200% since April. Structural supply deficits and increasing industrial demand, along with central banks' interest, support
+  🔗 https://www.livemint.com/market/commodities/silver-rate-today-white-metal-rises-over-200-in-less-than-9-months-is-the-rs-3-lakh-mark-next-11768724738126.html
 
-- TCS vs Infosys vs Wipro vs HCL Technologies: Which IT stock to buy after Q3 results 2026?
-  Infosys delivered a resilient Q3 results, while TCS reported a modest Q-o-Q revenue growth. HCL Tech emerged as one of
-  🔗 https://www.livemint.com/market/stock-market-news/tcs-vs-infosys-vs-wipro-vs-hcl-technologies-which-it-stock-to-buy-after-q3-results-2026-11768701462777.html
+- Amazon Great Republic Day Sale: 10 best wireless headphones for gym use we trust for sweaty sessions, up to 75% off
+  Amazon Great Republic Day Sale hits up to 75% off. We picked these wireless headphones for gym use for secure fit and sweat resistance.
+  🔗 https://www.livemint.com/technology/gadgets/amazon-great-republic-day-sale-10-best-wireless-headphones-for-gym-use-we-trust-for-sweaty-sessions-up-to-75-off-11768548376673.html
 
-- Q3 results 2026: BHEL, Indigo, Kotak Bank, BPCL, Adani Green among companies to declare earnings next week
-  BHEL, Indigo, Kotak Bank, BPCL, Adani Green, Eternal
-  🔗 https://www.livemint.com/market/stock-market-news/q3-results-2026-bhel-indigo-kotak-bank-bpcl-adani-green-among-companies-to-declare-earnings-next-week-11768637896815.html
+- Apple iPhone 17 drops to  ₹47,990 in Croma’s Republic Day Sale? How the deal works
+  Croma’s Republic Day Sale brings major discounts across electronics. The iPhone 17 sees a sharp price cut. Originally priced at  ₹82,900, the iPhone is now available
+  🔗 https://www.livemint.com/technology/gadgets/apple-iphone-17-drops-to-rs-47-990-in-croma-s-republic-day-sale-how-the-deal-works-11768730281880.html
 
-- Moto Watch with 13-day battery and AMOLED display launching in India on 23 January: Check confirmed features and specs
-  Motorola will launch its new Moto Watch in India on January 23. The watch features a 1.4 inch OLED display, IP68 rating
-  🔗 https://www.livemint.com/technology/gadgets/moto-watch-with-13-day-battery-and-amoled-display-launching-in-india-on-23-january-check-confirmed-features-and-specs-11768709645791.html
+- Vivo X200T vs Oppo Reno 15 Pro: Price, camera, display, battery and more compared
+  The X200T is expected to start at  ₹59,999, featuring a 6.67-inch AMOLED display, MediaTek Dimensity
+  🔗 https://www.livemint.com/technology/gadgets/vivo-x200t-vs-oppo-reno-15-pro-price-camera-display-battery-and-more-compared-11768728256686.html
 
-- Republic Day Sale 2026: Top iPhone deals on Flipkart, Amazon, and Vijay Sales – check prices here
-  Republic Day sales have started on major e-commerce sites with discounts on various iPhone models, including iPhone 17, iPhone 17 Pro, and
-  🔗 https://www.livemint.com/technology/tech-news/republic-day-sale-2026-top-iphone-deals-on-flipkart-amazon-and-vijay-sales-check-prices-here-11768697981004.html
+- Vivo X200T India launch imminent: Check leaked price, full specs, and storage variants
+  Vivo will launch the X200T in India soon, available on Flipkart. The
+  🔗 https://www.livemint.com/technology/gadgets/vivo-x200t-india-launch-imminent-check-leaked-price-full-specs-and-storage-variants-11768721672628.html
 
-- Vijay Sales Republic Day Sale live: iPhone 17 prices slashed. Check complete deal
-  Vijay Sales has launched its Republic Day sale where the company if offering a various offers on the iPhone 17. The flagship Apple product
-  🔗 https://www.livemint.com/technology/tech-news/vijay-sales-republic-day-sale-apple-iphone-17-gets-a-big-discount-check-complete-deal-here-11768697099013.html
-
-- The Effort to Stop AI Nudes Is Missing a Deterrent
-  Users on X were asking the platform’s AI chatbot, Grok, to turn photos of celebrities and non-public figures into sexualized images. The majority of this content targets women, and it causes reputational damage
-  🔗 https://www.livemint.com/technology/the-effort-to-stop-ai-nudes-is-missing-a-deterrent-11768656071046.html
-
-- Amazon Great Republic Day Sale 2026: Best smartwatches under  ₹10,000 to grab
-  The Amazon Great Republic Day Sale 2026 is live, bringing strong deals on smartwatches under  ₹10,000
-  🔗 https://www.livemint.com/technology/gadgets/amazon-great-republic-day-sale-2026-best-smartwatches-under-rs-10-000-to-grab-11768474280416.html
+- iPhone 17e launching soon: Expected India price, release date, top upgrades and more
+  The iPhone 17e is expected to debut soon, featuring a 6.1-
+  🔗 https://www.livemint.com/technology/tech-news/iphone-17e-launching-soon-expected-india-price-release-date-top-upgrades-and-more-11768719449625.html
 
 - Stock Market News, Jan. 16, 2026: Trump Suggests Hassett Might Not Be Named Fed Chair - The Wall Street Journal
   The Wall Street Journal reports that Hassett might not be named Fed Chair.
@@ -108,117 +108,117 @@
   Stock markets open on Sunday for Budget 2026. BSE, NSE say it
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNelhIVTZSb2ozV0tUYUhiVFlZNlpKX0RoTl9ibVdhQUY4WFNIVzhKQVl3S294dlJXbXA2OXloYmFaOXN0Nk5ZS3dYV2ptRWsyRndTd0hnRjNqMzM2S3VFRVVKXzFrNG9OeE54ckpvZXEwdzhoWTAzeVEzZ24teGZBYmN4NmdMTTFfOExKWHVyS3IycTduWVV5ZVFkSzFqbTRsWUFmWDl0ZGtQcmpjX19MejdHTVJWUnlVQUNZbFU4N2I3YUNyc0RyaFFQdEc5dXJnN2dtMXRjTXIzaFlldDE1RVE3OUZxUmRHMjhsM2hPZy1LUVdHdUN2atIB_gFBVV95cUxQaFpNV2l4OTVjdDVEajVMOV9MN0FxZjF2d0hxUzJXc1U3V09EcXRXbmpab0ZDUEpYWk0ya3VUeFd0eFhkWk4wZDJYbURZWmwySVlWbWdPY2xMd2NJSmRYNFgyVjc2WEdzUFZvODMxa1RCVTZVYzFuOS1HX1RuUmtZOWlwQmkxOXQ0RExVTnhnWV81SlhlVlhrc1NqMDZVMXNvdEZIUUJYeWh1UDAxYTgzNU9tOXZpc2VRVUhhZjZPMzdOVG83cVh0Sk91QVBjOWc3R2VwN1BTZmk5RmYtREpvSmFlVmUtdXlhUHZscnVwUkJiQlZQZ3YtSWUxb1Jidw?oc=5
 
-- Top picks: 3 stocks to buy this week that can give returns of up to 19% in short term. Do you own any? - The Economic Times
-  The Economic Times picks three stocks to buy this week that can give returns of up to 19% in short term.
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxOeC0zdVl6Y2hzOHpKLVVCOW5OQzhyNXpKWDNfbjB0Um9IbFBxaFc4M3VlYktYTjAycVk3N1hGbFd2YXUzSWVEYjc5YVlGM05OdXBnN2tUQzVERU9CNVpPTEk3amEyMWZwN25zZ1I5TEc2TTByeTlUX2VvUXBrOE0wNG1PVkJtR2gzUnVFX3otRjdWZjF5RW5ZS0lYQzAyUFZuZ2I4Rk40M1cwaG9yTHpaa0kzZy1xRnZ2YWJIdFo4NXVHZ3M3WkJVRHJRV0pDRm0wNHZFeUtKaWI0NDltQ2JyWVZ4U2hCSEk3aS1FZlZ2a3VhY2Ffdm9XbHhDLTd0QUJrUndJOEZPU2Z0QURrY1E?oc=5
-
 - S&P 500 closes little changed Friday, posts weekly loss amid raft of Trump comments: Live updates - CNBC
   S&amp;P 500 closes little changed Friday, posts weekly loss
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9pMDdPUGpGQThZN2Vpa3hzYUVDREZ1R01wa25KdnpGcU9OVXV6RGhjODgwUllURHV6eEhpRHpFVnNxY2pEVHp0UnBtZWM2UlR5TUhHZWtXUDB3RWM5QkVpRlBITnkxcU1WZFRRMk5zTkktajlNQ2M40gF8QVVfeXFMTU9Bb3p1dUhwZGhuR1FmaGJoSWxoenoxaE9DbGNTZTVYLW9GWGZGUWZFUXNtUUtrdjlmanN1X3FEb1RRZmRmdWVCenlTQ2laa2FUY0Zta2xmQlFpSDNQUTIwdE83Rm9USnBTbXBFTnlTc0tZV0EtTU5lUDMwSA?oc=5
 
-- Weekly Market Wrap: SENSEX, NIFTY50 end flat for the week, broader markets shine; ONGC and Tech Mahindra lead gains - Upstox
-  The SENSEX, NIFTY50 end flat for the week. ONGC
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxONFktTElBT2FfT2lhZU9VZUd5WHpSYjZKRXp5SlJEdEtOLVhUcUdueUdmNkV0bXdYSUhkeVNGdm14enkxaWdOdWttTHIzQUhWV25SaXpwOUg0YkY5N3ZVU0pXTzh0Z200eUk3aV95NGEzek1oS2hTNU1sSHpRUzV3dk9UUFA5cWtQVHh2TTN4d09xMXA5WklqcS1mMUZzeGdULS1MSm5GUmdBRmxVQzV2MGV6ZlgtOGJMUGJfRWJSQmpqTXNMMmdxcnAxOV9Pcm5ZUy1jQV8tMVc2SzNxeFhnS2dlV2dEY1p5QTBQZFQyLVR3bjRZeHZvWGhPQTh2YnhXLUtaY0lINGd0MllNYXc?oc=5
+- Pricey Equity Markets Charge Into a High-Stakes Earnings Season - Bloomberg.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNZzM3ZW11LXBJUk1DWTNRZ1hWMkF3TFc4RlZPSVF1Z2tiTEI1T3NkQlFlXzMzeWxBNmxzRG5ZYjhwcldUcXotNkp2MTR3dk1YMVc3R3hWdHJHMWtUejRpbEx6Rm1YbXVNV3JmSmV5SjN0eXVERVVNRjMyTThQSlZMczRId3RTekpwbE13YU9UTVpqaUxnVGd1aXFveDduSGVyYi04SXhqeE9BTnVDM1RLMzV0Sl8?oc=5
 
-- FII shorts highest since March 2025. How to trade Nifty now
-  Rising FII short positions in index futures and a near-record low long–short ratio point to heightened volatility in the January series. Market focus remains on key Nifty levels, PSU banks, metals and select
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fii-shorts-highest-since-march-2025-how-to-trade-nifty-now/articleshow/126637853.cms
+- Trump plans 10% tariffs on European countries over Greenland: What it means for markets. - MarketWatch
+  Trump plans 10% tariffs on European countries over Greenland.
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQUU1wcTlxQzRURjNlbU1OY2NBc3gwUkMyRUZzYzd6cDVldTRwZjh4Q19uakh1X1dvT3NPYVpjMGdiMGEydm5Tb2FhR0s3QzU4U3Q5bTFHejlIMkIwTXd0LUJaZzNXdkYwOE1fZFdlcGZXR3REeDVxQjY3ZHF4M2hUVnZGc0x2LXB3c2ZleldlUjVRVElNNFJzWmlpSnNFZnZTU2dPVG94ZHNGcWs2TDlYcVhYZm9Ybm91cUlQLUpwbGM2M0RaSUtR?oc=5
 
-- HDFC Securities’ top 7 technical picks for 2026. How many in your portfolio?
-  HDFC Securities has identified seven technically strong stocks for accumulation across small-, mid- and large-cap segments. These picks are based on technical indicators, defined buying ranges, targets and stop-loss levels.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-securities-top-7-technical-picks-for-2026-how-many-in-your-portfolio/slideshow/126637713.cms
+- Ahead of Market: 10 things that will decide stock market action on Monday
+  Indian equities closed higher as a strong earnings surprise from Infosys boosted risk appetite and lifted IT stocks. Analysts flagged mixed global cues, sector-specific strength and cautious technical signals.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/126642143.cms
 
-- Punjab &amp; Sind Bank Q3 profit surges 19% YoY
-  State-run Punjab &amp; Sind Bank reported a 19% increase in net profit to ₹336 crore in the December quarter. The Delhi-headquartered bank
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/punjab-sind-bank-q3-profit-surges-19-yoy/articleshow/126637217.cms
+- BCCL IPO boosts confidence as Coal India weighs more subsidiary listings: CMD
+  Strong investor response to the initial public offering of Bharat Coking Coal Ltd has boosted confidence within CIL. Chairman-cum-Managing Director B Sairam
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/bccl-ipo-boosts-confidence-as-coal-india-weighs-more-subsidiary-listings-cmd/articleshow/126640693.cms
 
-- Digilogic Systems IPO set to open on Jan 20 with price band at Rs 98 - Rs 104
-  Digilogic Systems Limited, a city-based automated test equipment systems and application software provider to the defence and aerospace sector, announced that its Initial
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/digilogic-systems-ipo-set-to-open-on-jan-20-with-price-band-at-rs-98-rs-104/articleshow/126637158.cms
+- Mcap of 3 of top 10 most valued firms jumps by Rs 75,855 cr; SBI, Infosys biggest winners
+  The combined market valuation of three of the top-10 most valued firms jumped Rs 75,855.43 crore in a holiday-shortened last week. State Bank of India
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-3-of-top-10-most-valued-firms-jumps-by-rs-75855-cr-sbi-infosys-biggest-winners/articleshow/126640613.cms
 
-- 12 penny stocks rally up to 589% in FY26 so far; 6 turn multibaggers. Do you own any?
-  So far in FY26, 12 penny stocks have delivered sharp gains, with returns ranging from 40% to 589%, including six multibaggers.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/12-penny-stocks-rally-up-to-589-in-fy26-so-far-6-turn-multibaggers-do-you-own-any/slideshow/126637121.cms
+- What do Trump’s Greenland tariff threats to NATO allies mean for gold, silver and Dalal Street?
+  Fresh tariff threats by U.S. President Donald Trump linked to Greenland have unsettled global markets. Analysts see potential longer-term opportunities for India through accelerated trade negotiations.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/what-do-trumps-greenland-tariff-threats-to-nato-allies-mean-for-gold-silver-and-dalal-street/articleshow/126640083.cms
 
-- India Brings Money To America, Not Pakistan: US Lawmaker On New Delhi Ties - NDTV
-  India Brings Money To America, Not Pakistan: US
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbExmaWFDcUVaMWVySDhBZHNxSEdoTUZENHZjR0lxTEd3Z1VfV21YYWpCcl93Uy0tLWdUbzk3ZkdvZEJ5d1VVQmpPcEVjaVNkQ2txZVc3LU1uWVZtX3pyM2hVQk1GQUl3cUR3bTlJRXlvSFQ4a2lGdG9yeTdvSmVXWmFaODR5THU0dzA3djllUFZZbDdvZm82RkFqYXFwRmZzWlNRdExlWldFLXZVT0pyNzBxTdIBuwFBVV95cUxQV2Y5SzhQYzdyYVJBbXgxV2tKSmNVTXhoaFBCQ1dxLVA5bnMzOGphX0ZiOVlOWHRNc2RJV2djOU9wVzJFVjBGdXpZS2RPRGc5dWhDaTZCVjBKXzhkalpjVi1SZFY5SlZxOUl6VFpXMDRRVVdPMUx6NXY5SkhPbHlvZ3dyUUNndjdnRjhQZG5mbWxrOUZHUE84RmNiUzJIb1oxZGdzX1pBNFQtZHVKalFDYmNVQmUzN1ZKbEU0?oc=5
+- UCO Bank Q3 profit rises 16% YoY to Rs 739 crore
+  UCO Bank's net profit surged 16% to Rs 739 crore in the third quarter. The bank also saw its non-performing assets ratio decline to 2.4%.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/uco-bank-q3-profit-rises-16-yoy/articleshow/126640065.cms
 
-- Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India-Pakistan conflict - The Hindu
-  Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
-
-- Union Budget 2026: What Is The Economic Survey And Why It Is Important - NDTV
-  " target="_blank">Union Budget 2026
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWTdGTU56ZkdkZXFJZWpaam1hYnhHU3doR3Q3eUxDeXRJS3NMSHlSbnUxeHRRRVJ4ejRLOWt4bVR0bDh5c093YUhNb3NCMVk0WXBsZ25Kd0M0U1F1dFNYWnZFWExDZjktUTlIX2xjXzRiYWw0bGhId3E4Rmo0cUR0Y2hhbTkyZjJTTjhDanRrclpMNUs2RllPQmowb3RrMjBwS0pfMEloQnkydjFqc0FmX2x1R3o5RFZwWUNpQWRiZVNZR0Y0dzAtNEo1U18tLXFVb3ZpenIxU1N1UXBJ0gHkAUFVX3lxTFA1RTJ0emszc25qWkIxOWJDR3F3WXpNYlgzWUVLbmxRZzRiS240c3JhcDdPeHcwTVo4ak12U2NjUlowVlp1MTNVWUEzSnZ3aHFDWU1OTWVKMG5ya0tQVU5yODROTHJDNjJWTnRtckJ4UjloVkN6YXBzdUNMVHBzcjVMUDVoWDNEdTBKSDlGYmtBYlprTFgtcWdGTDlLTjRfNDFRQ2pWVm0waUhwZ3pNU0xzUjVWVkc4YVRvdjNxN3dTYk5jQjNjcVBZZEhkR2gwbHQ3Z2NMZXdKUktrRmxVdDJsYTJMVQ?oc=5
-
-- India defends decision to skip Brics naval drill - Times of India
-  India defends decision to skip Brics naval
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
-
-- India name white-ball squads for Australia tour - ICC
-  India name white-ball
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQTk9VM0lvbFIxamdPUk9Sb0gtbVdCQTg3OG8yNV9pVDcyZ2tTZG5Vbldjc2YxSDlMNFVTX1hOU3NKZmxMd1ZrcDhKVkh1c0RTU1doSi10TjNfZ0E1anZlT0J2M0tna2N2bEI2ejhPUEhENXNxVXQyNG1QVUVpWnVpTUNILXVSOFk?oc=5
+- Will dal derail deal? New irritant looms over India-US trade talks - The Economic Times
+  The Economic Times: Will dal derail deal?
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbnZRY25BX3JzaUoyOW1OZU9FT01TRjVSSDl4d3JvVlBtNjVOQWkzXzBJYTUxeVc4TlJIdS1lbkxmYU4wZ0tiVnJaUWUta2Y0T0ZrcHJSUHFpZUlkbUMxblAwNWI0bWNQNDAtTl9wSmZtMGpvYmIyTXFEdl9qdEgyaEV0YzJOZkdDWk1sWWtDY0x3S1ktWHZxcUdOeDFudTA5UHN2dURVek5pRE1PcG9HYl9wOUh1amxHQ3hHV2NXNzVLNFRYNXlWdE1LMGlLLURHbzdTc2FwdjhuLWVubnJz0gHkAUFVX3lxTE9HSXRLMV9ya01uamhfaHBMR20xQjN5bFUyLXlVS1JmTDQ4V1p2ME5VRGFPY2w1YW5feThtVXBIMENwUU1KTFAtNU1TSndUNks5SUhBXzRjQlR1TkFRQ29LRFN3dEVOZHVSdjFUUjBNT1A3LXJmMFphbHJiXy1XQW96REkySnk2emZqR1FNamhIbk5xWFROTXRtZl9ERURzNVJDT3Q4XzNxeG1BQVBwbFZNT0JhaHk2TDFUN1ZjdVdQTUpfUG5jdWx5b05zeEZEMnBhX1NJTGYyeGRjb1FIbUNUWEtEag?oc=5
 
 - India Brings Money To America, Not Pakistan: US Lawmaker On New Delhi Ties - NDTV
   India Brings Money To America, Not Pakistan: US
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbExmaWFDcUVaMWVySDhBZHNxSEdoTUZENHZjR0lxTEd3Z1VfV21YYWpCcl93Uy0tLWdUbzk3ZkdvZEJ5d1VVQmpPcEVjaVNkQ2txZVc3LU1uWVZtX3pyM2hVQk1GQUl3cUR3bTlJRXlvSFQ4a2lGdG9yeTdvSmVXWmFaODR5THU0dzA3djllUFZZbDdvZm82RkFqYXFwRmZzWlNRdExlWldFLXZVT0pyNzBxTdIBuwFBVV95cUxQV2Y5SzhQYzdyYVJBbXgxV2tKSmNVTXhoaFBCQ1dxLVA5bnMzOGphX0ZiOVlOWHRNc2RJV2djOU9wVzJFVjBGdXpZS2RPRGc5dWhDaTZCVjBKXzhkalpjVi1SZFY5SlZxOUl6VFpXMDRRVVdPMUx6NXY5SkhPbHlvZ3dyUUNndjdnRjhQZG5mbWxrOUZHUE84RmNiUzJIb1oxZGdzX1pBNFQtZHVKalFDYmNVQmUzN1ZKbEU0?oc=5
 
-- Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India-Pakistan conflict - The Hindu
-  Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
+- ‘Unfair’: As world seeks Trump mercy, US senators now want him to ask India for tariff ease | India News - Hindustan Times
+  'Unfair': As world seeks Trump mercy, US senators now want him to ask India
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSG1ZdU1hRG9Fb1I1ZGZPV1Zxd01RY3VRMjZmSFpPV3hqNVRQd1NqNnV2ak9ENFYxWXpBZU5ZMUtaRFluOXI3dUlHcS1JSW9oTDZPM1VndWMtSEJjUE42aW1QWUVaWUJHeUh3Qk1Wem41MVNITXU4akxjQWVlNGZKMXloZnJZcXN1dndiWmJySXJGMTZLSEY4TWNmZFhfUGt1bUw4aTJTWmdYQmgwdTdLa21pUW9CVWhkOFJhdWdCV0k4TXl5T01uZzRTWnBQTVZwOWoyNjhia3RCTm1CSW5uc2k1eGtoN1BRUHpn0gHwAUFVX3lxTFBNZk5DRFo1eUtkWkNyNk5BQldNSFBocmFLb3FXd2xhUTdVU2s4NzZNcl9sak9fWWtxVzZnZjFuYUJ4aVA4dExjalpQLTh0MzJnUTJwY0gzaDFwTFZMS2wxUHYzNEZsMF9EeVgtWGdJZFZtRG5ncVNkclJGblRwNXd3V1V2bllBcVdzOXN6Zm5MYXpVM3hnSWZfcnJkRkhGemFjMkNqY1gzUUx0UHVhYUZjeUdCbzNBZWVYVnAtZDFqd0dLRm9zNW1fdzFITkhHNDQ0LUtuRXBubkFkRnBNRXRKS2toXzV4NDNQYkxTV3BQMQ?oc=5
 
-- Union Budget 2026: What Is The Economic Survey And Why It Is Important - NDTV
-  " target="_blank">Union Budget 2026
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWTdGTU56ZkdkZXFJZWpaam1hYnhHU3doR3Q3eUxDeXRJS3NMSHlSbnUxeHRRRVJ4ejRLOWt4bVR0bDh5c093YUhNb3NCMVk0WXBsZ25Kd0M0U1F1dFNYWnZFWExDZjktUTlIX2xjXzRiYWw0bGhId3E4Rmo0cUR0Y2hhbTkyZjJTTjhDanRrclpMNUs2RllPQmowb3RrMjBwS0pfMEloQnkydjFqc0FmX2x1R3o5RFZwWUNpQWRiZVNZR0Y0dzAtNEo1U18tLXFVb3ZpenIxU1N1UXBJ0gHkAUFVX3lxTFA1RTJ0emszc25qWkIxOWJDR3F3WXpNYlgzWUVLbmxRZzRiS240c3JhcDdPeHcwTVo4ak12U2NjUlowVlp1MTNVWUEzSnZ3aHFDWU1OTWVKMG5ya0tQVU5yODROTHJDNjJWTnRtckJ4UjloVkN6YXBzdUNMVHBzcjVMUDVoWDNEdTBKSDlGYmtBYlprTFgtcWdGTDlLTjRfNDFRQ2pWVm0waUhwZ3pNU0xzUjVWVkc4YVRvdjNxN3dTYk5jQjNjcVBZZEhkR2gwbHQ3Z2NMZXdKUktrRmxVdDJsYTJMVQ?oc=5
+- ‘Subject to judicial process’: Embassy on Indian crew detained in Iran; seeks ‘consular access’ - Times of India
+  The Indian Embassy on Indian crew detained in Iran; seeks ‘cons
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTms2dm1IZ0hKMlVka0c0TTBtSWpHcVNNbHRVZkhJVVhHOC02Nk5wREo0Z2tQUFY0NHQ1YVVzZHp4bGdjZzNPWE00ckN5Q25zRVFSdUp1c0c2UDlYNzEyMkp0Wjl0R1RydGhDVGNocWVJTEVqRzFNNmVHeU1ZeS0zUkx1anRzX3dkU25SRHQyQUhFSWNUWkxYYzJwZG5hb05GbjhLQ1lVcFRtUW5kTnd4aTlzNy1uTk1XYUdRZVZnVmx6aHJfLWFua25CYWZEMDR6bFR1OV8zZGFPbkJRZVhLT9IB5gFBVV95cUxOTENTZS1PZ25vZ1JCYWxTSzVXUnZKRjExbGJDeDhzQkVRcjhaRUZfMmhoT2doVGV2M3JVZXFINzQ2dlpVa2RqS1VhSV9KalNaWkRTTlZHLWFTMXlRaFlUV0hHZXdFUEdCMkhOUkNLQzdxTE5VQ3p3Q1kxQlhUVzNVQ0ZsWE4zUDE1RWNQOFp1T3RrS2hTZm5GajRBZUhqci1nM2I2eHVHSDBhV1Z4T25BbVd4dnlHdG0xVThoWDhkSzNLSUFCV0l6RThoYnJhUmgyUmNNLVUzQ19EZHJyamJvSmpTNklLZw?oc=5
 
-- India defends decision to skip Brics naval drill - Times of India
-  India defends decision to skip Brics naval
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
+- India Presses Iran For Early Consular Access To 16 Detained Indians - NDTV
+  India Presses Iran For Early Consular Access
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQall2ZkRucTYxMVpyc3JzUGs0YlVBRVRjYkt3ZkJnTXdJM2p4QXM1NlhNMXhMQmxfbDFfbXJ2LWVObm02cjJtd2psbkFXREh1ZFFZUk9WRk9TTzMxaUV2STJVbEt2aGZBWkJIaWcyNTc1ZGVmZWlSeWRYZk9KQnZ2MndJeU1Ta2ExRG11YWNyU3BxSVNsSzFOT3ZlRDlvY1pOVzZUT25tVWZiVmJO0gG0AUFVX3lxTE9KVE5nYVN4bkdQeVdsOWxBQzJhaUFGTEt4NnRFbWpubnF1OWl1R1lNZndNY2kzSHNHWThTQWRFNjJQWjlWMGxHTnlrQW9Vd2t2NVBZNjN6eGExVGhkRjdhMFFtRmlLdE0tcTVFU21aOEZ1Z2psWjUtblNmbGhHa3l4dkZycnhGdC1OM3NQeWNkQnRaVlczZkxmRnZaMkd5dkFYVzRVMmtMNTRxMHFWb1RKRUk0UQ?oc=5
 
-- India name white-ball squads for Australia tour - ICC
-  India name white-ball
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQTk9VM0lvbFIxamdPUk9Sb0gtbVdCQTg3OG8yNV9pVDcyZ2tTZG5Vbldjc2YxSDlMNFVTX1hOU3NKZmxMd1ZrcDhKVkh1c0RTU1doSi10TjNfZ0E1anZlT0J2M0tna2N2bEI2ejhPUEhENXNxVXQyNG1QVUVpWnVpTUNILXVSOFk?oc=5
-
-- India Brings Money To America, Not Pakistan: US Lawmaker On New Delhi Ties - NDTV
-  India Brings Money To America, Not Pakistan: US
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbExmaWFDcUVaMWVySDhBZHNxSEdoTUZENHZjR0lxTEd3Z1VfV21YYWpCcl93Uy0tLWdUbzk3ZkdvZEJ5d1VVQmpPcEVjaVNkQ2txZVc3LU1uWVZtX3pyM2hVQk1GQUl3cUR3bTlJRXlvSFQ4a2lGdG9yeTdvSmVXWmFaODR5THU0dzA3djllUFZZbDdvZm82RkFqYXFwRmZzWlNRdExlWldFLXZVT0pyNzBxTdIBuwFBVV95cUxQV2Y5SzhQYzdyYVJBbXgxV2tKSmNVTXhoaFBCQ1dxLVA5bnMzOGphX0ZiOVlOWHRNc2RJV2djOU9wVzJFVjBGdXpZS2RPRGc5dWhDaTZCVjBKXzhkalpjVi1SZFY5SlZxOUl6VFpXMDRRVVdPMUx6NXY5SkhPbHlvZ3dyUUNndjdnRjhQZG5mbWxrOUZHUE84RmNiUzJIb1oxZGdzX1pBNFQtZHVKalFDYmNVQmUzN1ZKbEU0?oc=5
-
-- Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India-Pakistan conflict - The Hindu
-  Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
-
-- Union Budget 2026: What Is The Economic Survey And Why It Is Important - NDTV
-  " target="_blank">Union Budget 2026
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWTdGTU56ZkdkZXFJZWpaam1hYnhHU3doR3Q3eUxDeXRJS3NMSHlSbnUxeHRRRVJ4ejRLOWt4bVR0bDh5c093YUhNb3NCMVk0WXBsZ25Kd0M0U1F1dFNYWnZFWExDZjktUTlIX2xjXzRiYWw0bGhId3E4Rmo0cUR0Y2hhbTkyZjJTTjhDanRrclpMNUs2RllPQmowb3RrMjBwS0pfMEloQnkydjFqc0FmX2x1R3o5RFZwWUNpQWRiZVNZR0Y0dzAtNEo1U18tLXFVb3ZpenIxU1N1UXBJ0gHkAUFVX3lxTFA1RTJ0emszc25qWkIxOWJDR3F3WXpNYlgzWUVLbmxRZzRiS240c3JhcDdPeHcwTVo4ak12U2NjUlowVlp1MTNVWUEzSnZ3aHFDWU1OTWVKMG5ya0tQVU5yODROTHJDNjJWTnRtckJ4UjloVkN6YXBzdUNMVHBzcjVMUDVoWDNEdTBKSDlGYmtBYlprTFgtcWdGTDlLTjRfNDFRQ2pWVm0waUhwZ3pNU0xzUjVWVkc4YVRvdjNxN3dTYk5jQjNjcVBZZEhkR2gwbHQ3Z2NMZXdKUktrRmxVdDJsYTJMVQ?oc=5
-
-- India defends decision to skip Brics naval drill - Times of India
-  India defends decision to skip Brics naval
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
-
-- India name white-ball squads for Australia tour - ICC
-  India name white-ball
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQTk9VM0lvbFIxamdPUk9Sb0gtbVdCQTg3OG8yNV9pVDcyZ2tTZG5Vbldjc2YxSDlMNFVTX1hOU3NKZmxMd1ZrcDhKVkh1c0RTU1doSi10TjNfZ0E1anZlT0J2M0tna2N2bEI2ejhPUEhENXNxVXQyNG1QVUVpWnVpTUNILXVSOFk?oc=5
+- Will dal derail deal? New irritant looms over India-US trade talks - The Economic Times
+  The Economic Times: Will dal derail deal?
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbnZRY25BX3JzaUoyOW1OZU9FT01TRjVSSDl4d3JvVlBtNjVOQWkzXzBJYTUxeVc4TlJIdS1lbkxmYU4wZ0tiVnJaUWUta2Y0T0ZrcHJSUHFpZUlkbUMxblAwNWI0bWNQNDAtTl9wSmZtMGpvYmIyTXFEdl9qdEgyaEV0YzJOZkdDWk1sWWtDY0x3S1ktWHZxcUdOeDFudTA5UHN2dURVek5pRE1PcG9HYl9wOUh1amxHQ3hHV2NXNzVLNFRYNXlWdE1LMGlLLURHbzdTc2FwdjhuLWVubnJz0gHkAUFVX3lxTE9HSXRLMV9ya01uamhfaHBMR20xQjN5bFUyLXlVS1JmTDQ4V1p2ME5VRGFPY2w1YW5feThtVXBIMENwUU1KTFAtNU1TSndUNks5SUhBXzRjQlR1TkFRQ29LRFN3dEVOZHVSdjFUUjBNT1A3LXJmMFphbHJiXy1XQW96REkySnk2emZqR1FNamhIbk5xWFROTXRtZl9ERURzNVJDT3Q4XzNxeG1BQVBwbFZNT0JhaHk2TDFUN1ZjdVdQTUpfUG5jdWx5b05zeEZEMnBhX1NJTGYyeGRjb1FIbUNUWEtEag?oc=5
 
 - India Brings Money To America, Not Pakistan: US Lawmaker On New Delhi Ties - NDTV
   India Brings Money To America, Not Pakistan: US
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbExmaWFDcUVaMWVySDhBZHNxSEdoTUZENHZjR0lxTEd3Z1VfV21YYWpCcl93Uy0tLWdUbzk3ZkdvZEJ5d1VVQmpPcEVjaVNkQ2txZVc3LU1uWVZtX3pyM2hVQk1GQUl3cUR3bTlJRXlvSFQ4a2lGdG9yeTdvSmVXWmFaODR5THU0dzA3djllUFZZbDdvZm82RkFqYXFwRmZzWlNRdExlWldFLXZVT0pyNzBxTdIBuwFBVV95cUxQV2Y5SzhQYzdyYVJBbXgxV2tKSmNVTXhoaFBCQ1dxLVA5bnMzOGphX0ZiOVlOWHRNc2RJV2djOU9wVzJFVjBGdXpZS2RPRGc5dWhDaTZCVjBKXzhkalpjVi1SZFY5SlZxOUl6VFpXMDRRVVdPMUx6NXY5SkhPbHlvZ3dyUUNndjdnRjhQZG5mbWxrOUZHUE84RmNiUzJIb1oxZGdzX1pBNFQtZHVKalFDYmNVQmUzN1ZKbEU0?oc=5
 
-- Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India-Pakistan conflict - The Hindu
-  Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
+- ‘Unfair’: As world seeks Trump mercy, US senators now want him to ask India for tariff ease | India News - Hindustan Times
+  'Unfair': As world seeks Trump mercy, US senators now want him to ask India
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSG1ZdU1hRG9Fb1I1ZGZPV1Zxd01RY3VRMjZmSFpPV3hqNVRQd1NqNnV2ak9ENFYxWXpBZU5ZMUtaRFluOXI3dUlHcS1JSW9oTDZPM1VndWMtSEJjUE42aW1QWUVaWUJHeUh3Qk1Wem41MVNITXU4akxjQWVlNGZKMXloZnJZcXN1dndiWmJySXJGMTZLSEY4TWNmZFhfUGt1bUw4aTJTWmdYQmgwdTdLa21pUW9CVWhkOFJhdWdCV0k4TXl5T01uZzRTWnBQTVZwOWoyNjhia3RCTm1CSW5uc2k1eGtoN1BRUHpn0gHwAUFVX3lxTFBNZk5DRFo1eUtkWkNyNk5BQldNSFBocmFLb3FXd2xhUTdVU2s4NzZNcl9sak9fWWtxVzZnZjFuYUJ4aVA4dExjalpQLTh0MzJnUTJwY0gzaDFwTFZMS2wxUHYzNEZsMF9EeVgtWGdJZFZtRG5ncVNkclJGblRwNXd3V1V2bllBcVdzOXN6Zm5MYXpVM3hnSWZfcnJkRkhGemFjMkNqY1gzUUx0UHVhYUZjeUdCbzNBZWVYVnAtZDFqd0dLRm9zNW1fdzFITkhHNDQ0LUtuRXBubkFkRnBNRXRKS2toXzV4NDNQYkxTV3BQMQ?oc=5
 
-- Union Budget 2026: What Is The Economic Survey And Why It Is Important - NDTV
-  " target="_blank">Union Budget 2026
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWTdGTU56ZkdkZXFJZWpaam1hYnhHU3doR3Q3eUxDeXRJS3NMSHlSbnUxeHRRRVJ4ejRLOWt4bVR0bDh5c093YUhNb3NCMVk0WXBsZ25Kd0M0U1F1dFNYWnZFWExDZjktUTlIX2xjXzRiYWw0bGhId3E4Rmo0cUR0Y2hhbTkyZjJTTjhDanRrclpMNUs2RllPQmowb3RrMjBwS0pfMEloQnkydjFqc0FmX2x1R3o5RFZwWUNpQWRiZVNZR0Y0dzAtNEo1U18tLXFVb3ZpenIxU1N1UXBJ0gHkAUFVX3lxTFA1RTJ0emszc25qWkIxOWJDR3F3WXpNYlgzWUVLbmxRZzRiS240c3JhcDdPeHcwTVo4ak12U2NjUlowVlp1MTNVWUEzSnZ3aHFDWU1OTWVKMG5ya0tQVU5yODROTHJDNjJWTnRtckJ4UjloVkN6YXBzdUNMVHBzcjVMUDVoWDNEdTBKSDlGYmtBYlprTFgtcWdGTDlLTjRfNDFRQ2pWVm0waUhwZ3pNU0xzUjVWVkc4YVRvdjNxN3dTYk5jQjNjcVBZZEhkR2gwbHQ3Z2NMZXdKUktrRmxVdDJsYTJMVQ?oc=5
+- ‘Subject to judicial process’: Embassy on Indian crew detained in Iran; seeks ‘consular access’ - Times of India
+  The Indian Embassy on Indian crew detained in Iran; seeks ‘cons
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTms2dm1IZ0hKMlVka0c0TTBtSWpHcVNNbHRVZkhJVVhHOC02Nk5wREo0Z2tQUFY0NHQ1YVVzZHp4bGdjZzNPWE00ckN5Q25zRVFSdUp1c0c2UDlYNzEyMkp0Wjl0R1RydGhDVGNocWVJTEVqRzFNNmVHeU1ZeS0zUkx1anRzX3dkU25SRHQyQUhFSWNUWkxYYzJwZG5hb05GbjhLQ1lVcFRtUW5kTnd4aTlzNy1uTk1XYUdRZVZnVmx6aHJfLWFua25CYWZEMDR6bFR1OV8zZGFPbkJRZVhLT9IB5gFBVV95cUxOTENTZS1PZ25vZ1JCYWxTSzVXUnZKRjExbGJDeDhzQkVRcjhaRUZfMmhoT2doVGV2M3JVZXFINzQ2dlpVa2RqS1VhSV9KalNaWkRTTlZHLWFTMXlRaFlUV0hHZXdFUEdCMkhOUkNLQzdxTE5VQ3p3Q1kxQlhUVzNVQ0ZsWE4zUDE1RWNQOFp1T3RrS2hTZm5GajRBZUhqci1nM2I2eHVHSDBhV1Z4T25BbVd4dnlHdG0xVThoWDhkSzNLSUFCV0l6RThoYnJhUmgyUmNNLVUzQ19EZHJyamJvSmpTNklLZw?oc=5
 
-- India defends decision to skip Brics naval drill - Times of India
-  India defends decision to skip Brics naval
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
+- India Presses Iran For Early Consular Access To 16 Detained Indians - NDTV
+  India Presses Iran For Early Consular Access
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQall2ZkRucTYxMVpyc3JzUGs0YlVBRVRjYkt3ZkJnTXdJM2p4QXM1NlhNMXhMQmxfbDFfbXJ2LWVObm02cjJtd2psbkFXREh1ZFFZUk9WRk9TTzMxaUV2STJVbEt2aGZBWkJIaWcyNTc1ZGVmZWlSeWRYZk9KQnZ2MndJeU1Ta2ExRG11YWNyU3BxSVNsSzFOT3ZlRDlvY1pOVzZUT25tVWZiVmJO0gG0AUFVX3lxTE9KVE5nYVN4bkdQeVdsOWxBQzJhaUFGTEt4NnRFbWpubnF1OWl1R1lNZndNY2kzSHNHWThTQWRFNjJQWjlWMGxHTnlrQW9Vd2t2NVBZNjN6eGExVGhkRjdhMFFtRmlLdE0tcTVFU21aOEZ1Z2psWjUtblNmbGhHa3l4dkZycnhGdC1OM3NQeWNkQnRaVlczZkxmRnZaMkd5dkFYVzRVMmtMNTRxMHFWb1RKRUk0UQ?oc=5
 
-- India name white-ball squads for Australia tour - ICC
-  India name white-ball
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQTk9VM0lvbFIxamdPUk9Sb0gtbVdCQTg3OG8yNV9pVDcyZ2tTZG5Vbldjc2YxSDlMNFVTX1hOU3NKZmxMd1ZrcDhKVkh1c0RTU1doSi10TjNfZ0E1anZlT0J2M0tna2N2bEI2ejhPUEhENXNxVXQyNG1QVUVpWnVpTUNILXVSOFk?oc=5
+- Will dal derail deal? New irritant looms over India-US trade talks - The Economic Times
+  The Economic Times: Will dal derail deal?
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbnZRY25BX3JzaUoyOW1OZU9FT01TRjVSSDl4d3JvVlBtNjVOQWkzXzBJYTUxeVc4TlJIdS1lbkxmYU4wZ0tiVnJaUWUta2Y0T0ZrcHJSUHFpZUlkbUMxblAwNWI0bWNQNDAtTl9wSmZtMGpvYmIyTXFEdl9qdEgyaEV0YzJOZkdDWk1sWWtDY0x3S1ktWHZxcUdOeDFudTA5UHN2dURVek5pRE1PcG9HYl9wOUh1amxHQ3hHV2NXNzVLNFRYNXlWdE1LMGlLLURHbzdTc2FwdjhuLWVubnJz0gHkAUFVX3lxTE9HSXRLMV9ya01uamhfaHBMR20xQjN5bFUyLXlVS1JmTDQ4V1p2ME5VRGFPY2w1YW5feThtVXBIMENwUU1KTFAtNU1TSndUNks5SUhBXzRjQlR1TkFRQ29LRFN3dEVOZHVSdjFUUjBNT1A3LXJmMFphbHJiXy1XQW96REkySnk2emZqR1FNamhIbk5xWFROTXRtZl9ERURzNVJDT3Q4XzNxeG1BQVBwbFZNT0JhaHk2TDFUN1ZjdVdQTUpfUG5jdWx5b05zeEZEMnBhX1NJTGYyeGRjb1FIbUNUWEtEag?oc=5
+
+- India Brings Money To America, Not Pakistan: US Lawmaker On New Delhi Ties - NDTV
+  India Brings Money To America, Not Pakistan: US
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbExmaWFDcUVaMWVySDhBZHNxSEdoTUZENHZjR0lxTEd3Z1VfV21YYWpCcl93Uy0tLWdUbzk3ZkdvZEJ5d1VVQmpPcEVjaVNkQ2txZVc3LU1uWVZtX3pyM2hVQk1GQUl3cUR3bTlJRXlvSFQ4a2lGdG9yeTdvSmVXWmFaODR5THU0dzA3djllUFZZbDdvZm82RkFqYXFwRmZzWlNRdExlWldFLXZVT0pyNzBxTdIBuwFBVV95cUxQV2Y5SzhQYzdyYVJBbXgxV2tKSmNVTXhoaFBCQ1dxLVA5bnMzOGphX0ZiOVlOWHRNc2RJV2djOU9wVzJFVjBGdXpZS2RPRGc5dWhDaTZCVjBKXzhkalpjVi1SZFY5SlZxOUl6VFpXMDRRVVdPMUx6NXY5SkhPbHlvZ3dyUUNndjdnRjhQZG5mbWxrOUZHUE84RmNiUzJIb1oxZGdzX1pBNFQtZHVKalFDYmNVQmUzN1ZKbEU0?oc=5
+
+- ‘Unfair’: As world seeks Trump mercy, US senators now want him to ask India for tariff ease | India News - Hindustan Times
+  'Unfair': As world seeks Trump mercy, US senators now want him to ask India
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSG1ZdU1hRG9Fb1I1ZGZPV1Zxd01RY3VRMjZmSFpPV3hqNVRQd1NqNnV2ak9ENFYxWXpBZU5ZMUtaRFluOXI3dUlHcS1JSW9oTDZPM1VndWMtSEJjUE42aW1QWUVaWUJHeUh3Qk1Wem41MVNITXU4akxjQWVlNGZKMXloZnJZcXN1dndiWmJySXJGMTZLSEY4TWNmZFhfUGt1bUw4aTJTWmdYQmgwdTdLa21pUW9CVWhkOFJhdWdCV0k4TXl5T01uZzRTWnBQTVZwOWoyNjhia3RCTm1CSW5uc2k1eGtoN1BRUHpn0gHwAUFVX3lxTFBNZk5DRFo1eUtkWkNyNk5BQldNSFBocmFLb3FXd2xhUTdVU2s4NzZNcl9sak9fWWtxVzZnZjFuYUJ4aVA4dExjalpQLTh0MzJnUTJwY0gzaDFwTFZMS2wxUHYzNEZsMF9EeVgtWGdJZFZtRG5ncVNkclJGblRwNXd3V1V2bllBcVdzOXN6Zm5MYXpVM3hnSWZfcnJkRkhGemFjMkNqY1gzUUx0UHVhYUZjeUdCbzNBZWVYVnAtZDFqd0dLRm9zNW1fdzFITkhHNDQ0LUtuRXBubkFkRnBNRXRKS2toXzV4NDNQYkxTV3BQMQ?oc=5
+
+- ‘Subject to judicial process’: Embassy on Indian crew detained in Iran; seeks ‘consular access’ - Times of India
+  The Indian Embassy on Indian crew detained in Iran; seeks ‘cons
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTms2dm1IZ0hKMlVka0c0TTBtSWpHcVNNbHRVZkhJVVhHOC02Nk5wREo0Z2tQUFY0NHQ1YVVzZHp4bGdjZzNPWE00ckN5Q25zRVFSdUp1c0c2UDlYNzEyMkp0Wjl0R1RydGhDVGNocWVJTEVqRzFNNmVHeU1ZeS0zUkx1anRzX3dkU25SRHQyQUhFSWNUWkxYYzJwZG5hb05GbjhLQ1lVcFRtUW5kTnd4aTlzNy1uTk1XYUdRZVZnVmx6aHJfLWFua25CYWZEMDR6bFR1OV8zZGFPbkJRZVhLT9IB5gFBVV95cUxOTENTZS1PZ25vZ1JCYWxTSzVXUnZKRjExbGJDeDhzQkVRcjhaRUZfMmhoT2doVGV2M3JVZXFINzQ2dlpVa2RqS1VhSV9KalNaWkRTTlZHLWFTMXlRaFlUV0hHZXdFUEdCMkhOUkNLQzdxTE5VQ3p3Q1kxQlhUVzNVQ0ZsWE4zUDE1RWNQOFp1T3RrS2hTZm5GajRBZUhqci1nM2I2eHVHSDBhV1Z4T25BbVd4dnlHdG0xVThoWDhkSzNLSUFCV0l6RThoYnJhUmgyUmNNLVUzQ19EZHJyamJvSmpTNklLZw?oc=5
+
+- India Presses Iran For Early Consular Access To 16 Detained Indians - NDTV
+  India Presses Iran For Early Consular Access
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQall2ZkRucTYxMVpyc3JzUGs0YlVBRVRjYkt3ZkJnTXdJM2p4QXM1NlhNMXhMQmxfbDFfbXJ2LWVObm02cjJtd2psbkFXREh1ZFFZUk9WRk9TTzMxaUV2STJVbEt2aGZBWkJIaWcyNTc1ZGVmZWlSeWRYZk9KQnZ2MndJeU1Ta2ExRG11YWNyU3BxSVNsSzFOT3ZlRDlvY1pOVzZUT25tVWZiVmJO0gG0AUFVX3lxTE9KVE5nYVN4bkdQeVdsOWxBQzJhaUFGTEt4NnRFbWpubnF1OWl1R1lNZndNY2kzSHNHWThTQWRFNjJQWjlWMGxHTnlrQW9Vd2t2NVBZNjN6eGExVGhkRjdhMFFtRmlLdE0tcTVFU21aOEZ1Z2psWjUtblNmbGhHa3l4dkZycnhGdC1OM3NQeWNkQnRaVlczZkxmRnZaMkd5dkFYVzRVMmtMNTRxMHFWb1RKRUk0UQ?oc=5
+
+- Will dal derail deal? New irritant looms over India-US trade talks - The Economic Times
+  The Economic Times: Will dal derail deal?
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbnZRY25BX3JzaUoyOW1OZU9FT01TRjVSSDl4d3JvVlBtNjVOQWkzXzBJYTUxeVc4TlJIdS1lbkxmYU4wZ0tiVnJaUWUta2Y0T0ZrcHJSUHFpZUlkbUMxblAwNWI0bWNQNDAtTl9wSmZtMGpvYmIyTXFEdl9qdEgyaEV0YzJOZkdDWk1sWWtDY0x3S1ktWHZxcUdOeDFudTA5UHN2dURVek5pRE1PcG9HYl9wOUh1amxHQ3hHV2NXNzVLNFRYNXlWdE1LMGlLLURHbzdTc2FwdjhuLWVubnJz0gHkAUFVX3lxTE9HSXRLMV9ya01uamhfaHBMR20xQjN5bFUyLXlVS1JmTDQ4V1p2ME5VRGFPY2w1YW5feThtVXBIMENwUU1KTFAtNU1TSndUNks5SUhBXzRjQlR1TkFRQ29LRFN3dEVOZHVSdjFUUjBNT1A3LXJmMFphbHJiXy1XQW96REkySnk2emZqR1FNamhIbk5xWFROTXRtZl9ERURzNVJDT3Q4XzNxeG1BQVBwbFZNT0JhaHk2TDFUN1ZjdVdQTUpfUG5jdWx5b05zeEZEMnBhX1NJTGYyeGRjb1FIbUNUWEtEag?oc=5
+
+- India Brings Money To America, Not Pakistan: US Lawmaker On New Delhi Ties - NDTV
+  India Brings Money To America, Not Pakistan: US
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbExmaWFDcUVaMWVySDhBZHNxSEdoTUZENHZjR0lxTEd3Z1VfV21YYWpCcl93Uy0tLWdUbzk3ZkdvZEJ5d1VVQmpPcEVjaVNkQ2txZVc3LU1uWVZtX3pyM2hVQk1GQUl3cUR3bTlJRXlvSFQ4a2lGdG9yeTdvSmVXWmFaODR5THU0dzA3djllUFZZbDdvZm82RkFqYXFwRmZzWlNRdExlWldFLXZVT0pyNzBxTdIBuwFBVV95cUxQV2Y5SzhQYzdyYVJBbXgxV2tKSmNVTXhoaFBCQ1dxLVA5bnMzOGphX0ZiOVlOWHRNc2RJV2djOU9wVzJFVjBGdXpZS2RPRGc5dWhDaTZCVjBKXzhkalpjVi1SZFY5SlZxOUl6VFpXMDRRVVdPMUx6NXY5SkhPbHlvZ3dyUUNndjdnRjhQZG5mbWxrOUZHUE84RmNiUzJIb1oxZGdzX1pBNFQtZHVKalFDYmNVQmUzN1ZKbEU0?oc=5
+
+- ‘Unfair’: As world seeks Trump mercy, US senators now want him to ask India for tariff ease | India News - Hindustan Times
+  'Unfair': As world seeks Trump mercy, US senators now want him to ask India
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSG1ZdU1hRG9Fb1I1ZGZPV1Zxd01RY3VRMjZmSFpPV3hqNVRQd1NqNnV2ak9ENFYxWXpBZU5ZMUtaRFluOXI3dUlHcS1JSW9oTDZPM1VndWMtSEJjUE42aW1QWUVaWUJHeUh3Qk1Wem41MVNITXU4akxjQWVlNGZKMXloZnJZcXN1dndiWmJySXJGMTZLSEY4TWNmZFhfUGt1bUw4aTJTWmdYQmgwdTdLa21pUW9CVWhkOFJhdWdCV0k4TXl5T01uZzRTWnBQTVZwOWoyNjhia3RCTm1CSW5uc2k1eGtoN1BRUHpn0gHwAUFVX3lxTFBNZk5DRFo1eUtkWkNyNk5BQldNSFBocmFLb3FXd2xhUTdVU2s4NzZNcl9sak9fWWtxVzZnZjFuYUJ4aVA4dExjalpQLTh0MzJnUTJwY0gzaDFwTFZMS2wxUHYzNEZsMF9EeVgtWGdJZFZtRG5ncVNkclJGblRwNXd3V1V2bllBcVdzOXN6Zm5MYXpVM3hnSWZfcnJkRkhGemFjMkNqY1gzUUx0UHVhYUZjeUdCbzNBZWVYVnAtZDFqd0dLRm9zNW1fdzFITkhHNDQ0LUtuRXBubkFkRnBNRXRKS2toXzV4NDNQYkxTV3BQMQ?oc=5
+
+- ‘Subject to judicial process’: Embassy on Indian crew detained in Iran; seeks ‘consular access’ - Times of India
+  The Indian Embassy on Indian crew detained in Iran; seeks ‘cons
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTms2dm1IZ0hKMlVka0c0TTBtSWpHcVNNbHRVZkhJVVhHOC02Nk5wREo0Z2tQUFY0NHQ1YVVzZHp4bGdjZzNPWE00ckN5Q25zRVFSdUp1c0c2UDlYNzEyMkp0Wjl0R1RydGhDVGNocWVJTEVqRzFNNmVHeU1ZeS0zUkx1anRzX3dkU25SRHQyQUhFSWNUWkxYYzJwZG5hb05GbjhLQ1lVcFRtUW5kTnd4aTlzNy1uTk1XYUdRZVZnVmx6aHJfLWFua25CYWZEMDR6bFR1OV8zZGFPbkJRZVhLT9IB5gFBVV95cUxOTENTZS1PZ25vZ1JCYWxTSzVXUnZKRjExbGJDeDhzQkVRcjhaRUZfMmhoT2doVGV2M3JVZXFINzQ2dlpVa2RqS1VhSV9KalNaWkRTTlZHLWFTMXlRaFlUV0hHZXdFUEdCMkhOUkNLQzdxTE5VQ3p3Q1kxQlhUVzNVQ0ZsWE4zUDE1RWNQOFp1T3RrS2hTZm5GajRBZUhqci1nM2I2eHVHSDBhV1Z4T25BbVd4dnlHdG0xVThoWDhkSzNLSUFCV0l6RThoYnJhUmgyUmNNLVUzQ19EZHJyamJvSmpTNklLZw?oc=5
+
+- India Presses Iran For Early Consular Access To 16 Detained Indians - NDTV
+  India Presses Iran For Early Consular Access
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQall2ZkRucTYxMVpyc3JzUGs0YlVBRVRjYkt3ZkJnTXdJM2p4QXM1NlhNMXhMQmxfbDFfbXJ2LWVObm02cjJtd2psbkFXREh1ZFFZUk9WRk9TTzMxaUV2STJVbEt2aGZBWkJIaWcyNTc1ZGVmZWlSeWRYZk9KQnZ2MndJeU1Ta2ExRG11YWNyU3BxSVNsSzFOT3ZlRDlvY1pOVzZUT25tVWZiVmJO0gG0AUFVX3lxTE9KVE5nYVN4bkdQeVdsOWxBQzJhaUFGTEt4NnRFbWpubnF1OWl1R1lNZndNY2kzSHNHWThTQWRFNjJQWjlWMGxHTnlrQW9Vd2t2NVBZNjN6eGExVGhkRjdhMFFtRmlLdE0tcTVFU21aOEZ1Z2psWjUtblNmbGhHa3l4dkZycnhGdC1OM3NQeWNkQnRaVlczZkxmRnZaMkd5dkFYVzRVMmtMNTRxMHFWb1RKRUk0UQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-18 06:28:18 UTC_
+_Last updated: 2026-01-18 12:34:33 UTC_
