@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Kaziranga Elevated Corridor: Here’s why Rs 6,950 crore infra project is crucial for Assam
+- Amrit Bharat Express launch: PM Modi to flag off 5 new trains today – check routes
   
-  🔗 https://indianexpress.com/article/india/here-why-rs-6950-crore-kaziranga-elevated-corridor-project-crucial-assam-10479646/
+  🔗 https://indianexpress.com/article/india/amrit-bharat-express-launch-pm-modi-flag-off-5-new-trains-jan-18-routes-10479826/
 
-- Congress MLA’s ‘theory’: SC, ST and OBC women raped because of religious scriptures
+- Probing murder of two Russian women, Goa cops baffled by ‘a third killing’
   
-  🔗 https://indianexpress.com/article/india/congress-mla-rape-of-sc-st-and-obc-women-religious-scriptures-10479706/
+  🔗 https://indianexpress.com/article/india/probing-murder-of-two-russian-women-goa-cops-baffled-by-a-third-killing-10480171/
 
-- Two Kerala tourists drown after Arunachal’s frozen Sela Lake cracks under their weight
+- Exclusive: In first R-Day after Operation Sindoor, on display: How battle formations move
   
-  🔗 https://indianexpress.com/article/india/ice-arunachal-sela-lake-two-kerala-tourists-drown-10479642/
+  🔗 https://indianexpress.com/article/india/in-first-r-day-after-operation-sindoor-on-display-how-battle-formations-move-10480141/
 
-- Facing dwindling numbers, Kerala Church’s appeal – ‘Actively come to politics, public governance’
+- Uttarakhand awarded ‘Leader’ status in Startup India Ranking
   
-  🔗 https://indianexpress.com/article/india/kerala-church-politics-public-governance-numbers-10479610/
+  🔗 https://indianexpress.com/article/india/uttarakhand-awarded-leader-status-in-startup-india-ranking-10480200/
 
-- Ahmedabad cops crack jewellery heist: How 19-year-old ‘broke through’ store, gave himself away
+- Santragachi-Anand Vihar Terminal Amrit Bharat Express train to commence inaugural run today – check timings, stoppages
   
-  🔗 https://indianexpress.com/article/india/ahmedabad-cops-crack-jewellery-heist-10479390/
+  🔗 https://indianexpress.com/article/india/santragachi-howrah-anand-vihar-delhi-amrit-bharat-express-train-inaugural-run-timings-stops-10480113/
 
 - iPhone 17 at Rs 47,990, Galaxy S25 Ultra at Rs 79,999 as Croma announces Republic Day Sale
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/science/tyrannosaurus-rex-did-not-reach-full-size-until-age-40-reveals-study-10479401/
 
+- Trump Blasts Dimon, Threatens to Sue JP Morgan Over Debanking
+  Trump threatens to sue JPMorgan Chase &amp; Co. over his claim that he was debanked after the Jan. 6, 2021, Capitol riot
+  🔗 https://www.livemint.com/companies/trump-blasts-dimon-threatens-to-sue-jp-morgan-over-debanking-11768674874669.html
+
 - IndiGo’s first reaction after DGCA fines airline  ₹22.2 cr for December flight chaos: ‘Will take appropriate measure'
   InterGlobe Aviation's Board said it is committed to addressing DGCA findings regarding IndiGo's December disruptions. The Directorate General
   🔗 https://www.livemint.com/companies/indigos-first-reaction-after-dgca-fines-airline-rs-22-2-cr-for-december-flight-chaos-will-take-appropriate-measure-11768672634789.html
@@ -56,9 +60,17 @@
   Net profit for Q3 FY26 was up 146.7% year-on-year
   🔗 https://www.livemint.com/companies/news/netweb-technologies-q3-results-net-profit-rises-nearly-147-to-73-3-crore-announces-re-appointment-of-md-11768653839709.html
 
-- Q3 Results: Punjab &amp; Sind Bank profit surges 19% to  ₹336 crore
-  Punjab &amp;amp; Sind Bank’s total income increased to 
-  🔗 https://www.livemint.com/companies/company-results/q3-results-punjab-sind-bank-profit-surges-19-to-rs-336-crore-11768655211760.html
+- Upcoming IPOs: Shadowfax Technologies IPO to Bharat Coking Coal IPO — 4 new issues, 7 listings scheduled for next week
+  In the mainboard segment, Shadowfax Technologies IPO will open on Tuesday, January 20. In the SME segment, Digilogic Systems IPO,
+  🔗 https://www.livemint.com/market/upcoming-ipos-shadowfax-technologies-ipo-to-bharat-coking-coal-ipo-4-new-issues-7-listings-scheduled-for-next-week-11768646033685.html
+
+- Q3 results, gold, silver rates to India-US trade deal: Top five triggers that may dictate Indian stock market this week
+  Indian markets head into the new week with a cautious but stock-specific tone. Investors balance domestic earnings cues against global macro and geopolitical developments
+  🔗 https://www.livemint.com/market/stock-market-news/q3-results-gold-silver-rates-to-india-us-trade-deal-top-five-triggers-that-may-dictate-indian-stock-market-this-week-11768641823168.html
+
+- MBS Gains Are Another Reason to Buy Company Debt: Credit Weekly
+  Investors taking profits on US mortgage bond holdings who need another asset to buy.
+  🔗 https://www.livemint.com/market/mbs-gains-are-another-reason-to-buy-company-debt-credit-weekly-11768681965188.html
 
 - IT sector Q3 results review: What TCS, Infosys, Wipro, Tech Mahindra earnings signal?
   Indian IT services firms report Q3 earnings that exceed expectations. Experts believe a measured recovery is in sight, despite ongoing global challenges.
@@ -67,18 +79,6 @@
 - UCO Bank Q3 results: Kolkata-based lender's net profit rises 15.8% to  ₹739.5 crore. Details here
   UCO Bank reported a 15.76% increase in net profit for Q4
   🔗 https://www.livemint.com/market/stock-market-news/uco-bank-q3-results-kolkata-based-lenders-net-profit-rises-15-8-to-rs-739-5-crore-details-here-11768646811489.html
-
-- Why so many stocks are suddenly defying gravity
-   AI demand and Trump-era policy shifts are fueling rallies in
-  🔗 https://www.livemint.com/market/stock-market-news/why-so-many-stocks-are-suddenly-defying-gravity-11768646615711.html
-
-- IDBI Bank Q3 results: Net profit jumps 1.4% to  ₹1 ,935 crore from last year; NII down 24% YoY
-   IDBI Bank's Q3 profit rose 1.42% to  ₹1,935.45 crore, despite a 24% decline in net interest income
-  🔗 https://www.livemint.com/market/stock-market-news/idbi-bank-q3-results-net-profit-jumps-1-4-at-rs-1-935-crore-from-last-year-11768640235125.html
-
-- YES Bank Q3 results: Profit jumps 55% to  ₹952 crore; NIM improves 20bps YoY
-   YES Bank Q3 results: Profit jumped 55% YoY. NII for Q3FY26 grew 10.9% Yo
-  🔗 https://www.livemint.com/market/stock-market-news/yes-bank-q3-results-consolidated-profit-jumps-54-yoy-to-957-crore-revenue-nii-nim-11768634552676.html
 
 - The Effort to Stop AI Nudes Is Missing a Deterrent
   Users on X were asking the platform’s AI chatbot, Grok, to turn photos of celebrities and non-public figures into sexualized images. The majority of this content targets women, and it causes reputational damage
@@ -99,6 +99,26 @@
 - Elon Musk vs OpenAI and Microsoft battle heats up as billionaire demands up to $134 billion in damages
   Elon Musk is claiming $79 billion to $134 billion in damages from OpenAI and Microsoft. The billionaire argues he deserves a portion of OpenAI's $500 billion valuation due to his initial investment of
   🔗 https://www.livemint.com/technology/tech-news/elon-musk-vs-openai-and-microsoft-battle-heats-up-as-billionaire-demands-up-to-134-billion-in-damages-11768633408465.html
+
+- S&P 500 closes little changed Friday, posts weekly loss amid raft of Trump comments: Live updates - CNBC
+  S&amp;P 500 closes little changed Friday, posts weekly loss
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9pMDdPUGpGQThZN2Vpa3hzYUVDREZ1R01wa25KdnpGcU9OVXV6RGhjODgwUllURHV6eEhpRHpFVnNxY2pEVHp0UnBtZWM2UlR5TUhHZWtXUDB3RWM5QkVpRlBITnkxcU1WZFRRMk5zTkktajlNQ2M40gF8QVVfeXFMTU9Bb3p1dUhwZGhuR1FmaGJoSWxoenoxaE9DbGNTZTVYLW9GWGZGUWZFUXNtUUtrdjlmanN1X3FEb1RRZmRmdWVCenlTQ2laa2FUY0Zta2xmQlFpSDNQUTIwdE83Rm9USnBTbXBFTnlTc0tZV0EtTU5lUDMwSA?oc=5
+
+- Stock Market News, Jan. 16, 2026: Trump Suggests Hassett Might Not Be Named Fed Chair - The Wall Street Journal
+  The Wall Street Journal reports that Hassett might not be named Fed Chair.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPU2VqQzYxSk91d3AxbjRZMWs1MkwxLWhpRkRsSzE2ZWJqb2dNemlpMzU5SXRidkpaNEtJMGo3SHl0TlB1U0oyTlIwMWNaS3lZUFoybE50RFg4MFhBamtyYy02MDRQM3dpaHhzV1NMWkFnQ2thT3FQQi1acG9CT0lWbWlWVGlOYmM?oc=5
+
+- Weekly Market Wrap: SENSEX, NIFTY50 end flat for the week, broader markets shine; ONGC and Tech Mahindra lead gains - Upstox
+  The SENSEX, NIFTY50 end flat for the week. ONGC
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxONFktTElBT2FfT2lhZU9VZUd5WHpSYjZKRXp5SlJEdEtOLVhUcUdueUdmNkV0bXdYSUhkeVNGdm14enkxaWdOdWttTHIzQUhWV25SaXpwOUg0YkY5N3ZVU0pXTzh0Z200eUk3aV95NGEzek1oS2hTNU1sSHpRUzV3dk9UUFA5cWtQVHh2TTN4d09xMXA5WklqcS1mMUZzeGdULS1MSm5GUmdBRmxVQzV2MGV6ZlgtOGJMUGJfRWJSQmpqTXNMMmdxcnAxOV9Pcm5ZUy1jQV8tMVc2SzNxeFhnS2dlV2dEY1p5QTBQZFQyLVR3bjRZeHZvWGhPQTh2YnhXLUtaY0lINGd0MllNYXc?oc=5
+
+- Closing Bell: Sensex settles 550 points lower from day's high; Nifty ends below 25,700; metals, FMCG drag - Moneycontrol
+  Nifty ends below 25,700; metals, FMCG drag.
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxONTVnWmgtbjB3Rmp3Z3pYWmYzZzgxMlUtcmwwNk1YLTl3eFpoLWYyOFR2QXNPMHhPOF9HRnRaYWkzZ2VJSExQUGZaS3JJcW9SNGVOWnFYREV6N0NtLTBZRTJyV2VMalBfV2VUTWdHdUhKaHJMSjc4ckVzand3eDhVbmdsdk55a09xTGd1M1dFQUY4NzFyazZRdE1nREV3eXNBTWZZQUQzc2ltenI3Rjhrell6ZEswNlM1ZEJ2eUhuSVdqUHJLSUsxMFRBeE1rVnM5by1FWmVvaFRfbWFwOXhWdXFfSjE1UnZxcy1SRGstaFplZ0xn?oc=5
+
+- Markets rebound amid strong Q3 performance - The Hans India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNaWJrbzVWUXZHU096eFVNUmxWcXNscEFaNVgwY0RpSmVjMkJUdWxQOXZjYXJNLTM2ZXEtLXhkc1Q0a0V4aG56RGYtLVVhX2hCeDJVVVV4LUl6SUFEbXl5MnVfQlBpSTZVOFU1akZyX1FnaG5ueVVFT1ctQURXYzJnVWlsZ25zakZnanl2VS1hMk1XUdIBlwFBVV95cUxQcW5vS3dIcldnWGVEVzVzRkJxQ1N1MkRpbjZOUnZLS1dUdU5CQTA2czZvNDBMbEdlR2lNTDNPSXZ6UHdzWElYTEM1b0RKNTh6Nk1TRGhUQzJoeTJrdS1SemZMczNES3VLQ1FWVHBibUgzcXJvWTRoQzJKbU42WXV1V0xzcVRhWDdIVzFHVnpEajd3ZHNuVzIw?oc=5
 
 - SIP stocks! HDFC Securities names 10 companies to accumulate in 2026. Check details
   
@@ -128,37 +148,17 @@
   Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
 
-- Promote scientific temper, rational analysis for progressive India: Minister - Times of India
-  The Indian government is trying to promote scientific temper
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMGNBS1MzYmh6NGlyU3JsNHJjZmQxSEIzVDU4dGE4cGJIV0xZSnBYTUpBc1NIMlMxaUtDTWY4MFRTMXhiMWV1X2h0anNyaHhGaUdEQmUwU0ViUll1NHdURVdna2tRenBsYjFQdlJvQkIzT3MteVFVa1AzM0NWZnF6NGRQYVhjSlNMYkZIbnlwT0xvWnJvdzJWbUZ1YmJycWdSaGUzY2V5Mmk5X3FfaWZXX1QtV0o0THVqUnlRdTNsOVJITzVMNmZkaWtaMi1lSGNXMENhQWxrdmRuZFZrTjNUU0JB0gHnAUFVX3lxTE5wNlFNakY0ZXVkTG9SbW95MEJEWEFXYzBzR2FSRzhCNFkzWFZqMHlhVldTWURXcENUTmFTRV9hQWtGYWdIbHZ4QkI3RDJzbC1wYXRIWm5JMExVSWhHald2ZnUxaHhjdlJoMThZT3NhQk12WUp3aEQ2d3NmRTFLamRPWEltU2VXUTFLUVo3YXh2Ml9mSm91b0Ezc3ZsNkd6amFPeVpzZ1pNbFM2LXZsWVVGY1g1RlVibm1NOXJQUkozQ3VjUXpTd2cxNzM5N0lXTG5iTHlCNnlGZm5pMHA4bEk4dldnNmxERQ?oc=5
+- Indian Students Stranded Amid Iran’s Internet Blackout, Unrest - Times of India
+  Indian Students Stranded Amid Iran’
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGMtTWRsNXdZdTVLWjYyVjhGay1jMjdPOHh2NUowclB5ZFBDa2F1TGNGVG1OWTlRY2hacFdMcTVYMnc4TGtyb3hickRidlJxcHFJbXNMd3o2OXktWTc5SmRBUWVaSWdOdEp2YXgtbWNtc1JwQ2M3azV0Mm9GcEprX0s3bWwxVVNBYzc1RFR3VjdnVzlwY1lGR2RjRDBZSGNzU0dXRktUOEp1SUM4a1Jfc09COHhZc2diOF8wVTRpemVzTGFHX0R4OWZocWZSd9IB0wFBVV95cUxObHU4RG9lSzR0aHJyQUx1ZUVOUVRkMThGdktNbDN4VDl0akJLNlA2amlsWUpmUHN6Zk9DblQ2ZXcyTUFiSDhyZWlwdk9jZ2R5Qk5KbnVzdFRNX01xVGt5eGdFd0I0Sm1MMS1COThidDVrTzF5LWxrbHROWjJFTldHdnRMNGdfcEdXaENVbzU0SlBSQ1pRcjMxeUl2QXo3T1pnT2ppdlRHSldkN1F3N2ZoRDdKa1pBamduY1BYVDY4Q2haNjdKUmdoZTQ1WWhUSFk5d0Vv?oc=5
 
-- ‘Unfair’: As world seeks Trump mercy, US senators now want him to ask India for tariff ease | India News - Hindustan Times
-  'Unfair': As world seeks Trump mercy, US senators now want him to ask India
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSG1ZdU1hRG9Fb1I1ZGZPV1Zxd01RY3VRMjZmSFpPV3hqNVRQd1NqNnV2ak9ENFYxWXpBZU5ZMUtaRFluOXI3dUlHcS1JSW9oTDZPM1VndWMtSEJjUE42aW1QWUVaWUJHeUh3Qk1Wem41MVNITXU4akxjQWVlNGZKMXloZnJZcXN1dndiWmJySXJGMTZLSEY4TWNmZFhfUGt1bUw4aTJTWmdYQmgwdTdLa21pUW9CVWhkOFJhdWdCV0k4TXl5T01uZzRTWnBQTVZwOWoyNjhia3RCTm1CSW5uc2k1eGtoN1BRUHpn0gHwAUFVX3lxTFBNZk5DRFo1eUtkWkNyNk5BQldNSFBocmFLb3FXd2xhUTdVU2s4NzZNcl9sak9fWWtxVzZnZjFuYUJ4aVA4dExjalpQLTh0MzJnUTJwY0gzaDFwTFZMS2wxUHYzNEZsMF9EeVgtWGdJZFZtRG5ncVNkclJGblRwNXd3V1V2bllBcVdzOXN6Zm5MYXpVM3hnSWZfcnJkRkhGemFjMkNqY1gzUUx0UHVhYUZjeUdCbzNBZWVYVnAtZDFqd0dLRm9zNW1fdzFITkhHNDQ0LUtuRXBubkFkRnBNRXRKS2toXzV4NDNQYkxTV3BQMQ?oc=5
+- Exports brave US tariffs, global churn to log rise | India News - Hindustan Times
+  "Exports brave US tariffs, global churn
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzBNdGlsVEdyTzgtNlhuTjE5OVpLM1pOZFYzdmE3XzhrenBJdll0cHRGQ2lsVVo5TmtWdlAtTWNuaklVandxOVJzSXdOcFc1RUREcVhDTDdKSC15UmV1ZDdYcmx1UWtyNkFNNm9IbmtneEptcUVGblp4MXBuNWNtOEdIRG50LTVJWTRuSWZuZWVuN1pIN0RaemlUN3pLWF9KNkpJMnJucjZoNGE4eGZoNXFB0gG3AUFVX3lxTFAxaXFFaG1nSlFjSHk5RjJSS1BWN1NCWGFmakxVdkdiWF9fenRwUkRHRV8taXJOcm43VUtQUmNWcGV3M0J6d1VUZXoxSlh5NTQ1aGlHVVp3OUNLcmo0cHhyczkzc3JnUGZLYXprWU1YV1NMb3Z5Q2U2MGs5NnhVMVdiRV9tXzZJUjk0MWxGdDNYN1dxN2llWGJXSHhnVFZUR0dpSTN0WDFmZWFqMDQzNkhuU3NmX181cw?oc=5
 
-- UAE President Mohamed bin Zayed Al Nahyan to visit India on Monday - WION
-  UAE President Mohamed bin Zayed Al Nahyan
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWpNNC03c0JYbE1uWnVIQk85Qk5OVXd2djR3UzBlaGY1Tkc1d2FRUkhGdnFUODFydjdKakhGLXZlNUJzT3NGYzhzdjBBUW9hYU9zZ2tMb3BpTF9FbDd4b1gyMGpOSlJYNlI1a0tkZzc1ek9sYmNWN0ZqTXlEd3R1T3lnRi1QbVNMVVBwby1xSmF6UDRwVWtjS2tvckg2cXExS3ZHdGROVXhiYTcxZ2JqcGVTTHhGUdIBuwFBVV95cUxQYm80T081T0J3U3hhRVhjQXVONFNhZ3I1RFFVdUlHZl9GTjdqUjBISkd1dGNoZVRRbEloVGZWOGJmWkhHVGVtYUwzRGJyRUk1YUdsR2JERjVVcUdQdkZDc3dNQ1JHeGlMUXRqWlBsTk9UeVl4a0ZYMzY1dXAzUDNVSEhZNG5Ndm1lYU0xY0h4cTFYWS1fT3o2amdUVE45VExzazdKb0JyWVVwNExBLXdIRkZoUTAzdm9SS19J?oc=5
-
-- "No Internet, Dangerous Protests": First Flights From Iran Land In Delhi - NDTV
-  "No Internet, Dangerous Protests": First
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXVyNENqT0xsWnJxS3V6TTJUdnlnRWRhV29rQndZSzNmMDJkajJYTk5UUTFpcDByTTh3WmhBc29RRmZuWVRqSExoazB1ZDd2MHVMdko3NjlwaXBEdVpWZHdMQ0s5VlktbTZRbXBhUk0wclJVdkVFeE5mc2JfUUhDZ1BhcGVFTkVBTjh1bzU4TDBWcjIxTmhkeVY1aHB4NjRkX3ZvdEcwTTJqMnVBRlh1T3dYVVFuQzFNSkx0X2tqQUh5anZnZUQ0YnhxV2rSAdQBQVVfeXFMT09OTUh0bmplRFNjWUJiT0lNUXdJV3JZeTNrSFdoVUJ0SmZ5dWFESmMxMDFIeldGQzlpRVVxTkg4S25WQ0pkN0pXeThZNF9TYWowbXFhM1RGUjI1a2tsQmhlcUV6emZTQUJJUUJwMy1WUjZWS3RGeDBvRlVranR1dHVYdG9na3pBaUNDYXNBMEJEM3V4WnV6WVhRSjA5RVI0MU1QTE5ZSFFUbkpJcVJlRUFmZ3M0TXlwcXB1Z2oxX25YcVhtZVlNbXBMOTI5bkh5UHNNV0c?oc=5
-
-- Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India-Pakistan conflict - The Hindu
-  Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
-
-- Promote scientific temper, rational analysis for progressive India: Minister - Times of India
-  The Indian government is trying to promote scientific temper
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMGNBS1MzYmh6NGlyU3JsNHJjZmQxSEIzVDU4dGE4cGJIV0xZSnBYTUpBc1NIMlMxaUtDTWY4MFRTMXhiMWV1X2h0anNyaHhGaUdEQmUwU0ViUll1NHdURVdna2tRenBsYjFQdlJvQkIzT3MteVFVa1AzM0NWZnF6NGRQYVhjSlNMYkZIbnlwT0xvWnJvdzJWbUZ1YmJycWdSaGUzY2V5Mmk5X3FfaWZXX1QtV0o0THVqUnlRdTNsOVJITzVMNmZkaWtaMi1lSGNXMENhQWxrdmRuZFZrTjNUU0JB0gHnAUFVX3lxTE5wNlFNakY0ZXVkTG9SbW95MEJEWEFXYzBzR2FSRzhCNFkzWFZqMHlhVldTWURXcENUTmFTRV9hQWtGYWdIbHZ4QkI3RDJzbC1wYXRIWm5JMExVSWhHald2ZnUxaHhjdlJoMThZT3NhQk12WUp3aEQ2d3NmRTFLamRPWEltU2VXUTFLUVo3YXh2Ml9mSm91b0Ezc3ZsNkd6amFPeVpzZ1pNbFM2LXZsWVVGY1g1RlVibm1NOXJQUkozQ3VjUXpTd2cxNzM5N0lXTG5iTHlCNnlGZm5pMHA4bEk4dldnNmxERQ?oc=5
-
-- ‘Unfair’: As world seeks Trump mercy, US senators now want him to ask India for tariff ease | India News - Hindustan Times
-  'Unfair': As world seeks Trump mercy, US senators now want him to ask India
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSG1ZdU1hRG9Fb1I1ZGZPV1Zxd01RY3VRMjZmSFpPV3hqNVRQd1NqNnV2ak9ENFYxWXpBZU5ZMUtaRFluOXI3dUlHcS1JSW9oTDZPM1VndWMtSEJjUE42aW1QWUVaWUJHeUh3Qk1Wem41MVNITXU4akxjQWVlNGZKMXloZnJZcXN1dndiWmJySXJGMTZLSEY4TWNmZFhfUGt1bUw4aTJTWmdYQmgwdTdLa21pUW9CVWhkOFJhdWdCV0k4TXl5T01uZzRTWnBQTVZwOWoyNjhia3RCTm1CSW5uc2k1eGtoN1BRUHpn0gHwAUFVX3lxTFBNZk5DRFo1eUtkWkNyNk5BQldNSFBocmFLb3FXd2xhUTdVU2s4NzZNcl9sak9fWWtxVzZnZjFuYUJ4aVA4dExjalpQLTh0MzJnUTJwY0gzaDFwTFZMS2wxUHYzNEZsMF9EeVgtWGdJZFZtRG5ncVNkclJGblRwNXd3V1V2bllBcVdzOXN6Zm5MYXpVM3hnSWZfcnJkRkhGemFjMkNqY1gzUUx0UHVhYUZjeUdCbzNBZWVYVnAtZDFqd0dLRm9zNW1fdzFITkhHNDQ0LUtuRXBubkFkRnBNRXRKS2toXzV4NDNQYkxTV3BQMQ?oc=5
-
-- UAE President Mohamed bin Zayed Al Nahyan to visit India on Monday - WION
-  UAE President Mohamed bin Zayed Al Nahyan
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWpNNC03c0JYbE1uWnVIQk85Qk5OVXd2djR3UzBlaGY1Tkc1d2FRUkhGdnFUODFydjdKakhGLXZlNUJzT3NGYzhzdjBBUW9hYU9zZ2tMb3BpTF9FbDd4b1gyMGpOSlJYNlI1a0tkZzc1ek9sYmNWN0ZqTXlEd3R1T3lnRi1QbVNMVVBwby1xSmF6UDRwVWtjS2tvckg2cXExS3ZHdGROVXhiYTcxZ2JqcGVTTHhGUdIBuwFBVV95cUxQYm80T081T0J3U3hhRVhjQXVONFNhZ3I1RFFVdUlHZl9GTjdqUjBISkd1dGNoZVRRbEloVGZWOGJmWkhHVGVtYUwzRGJyRUk1YUdsR2JERjVVcUdQdkZDc3dNQ1JHeGlMUXRqWlBsTk9UeVl4a0ZYMzY1dXAzUDNVSEhZNG5Ndm1lYU0xY0h4cTFYWS1fT3o2amdUVE45VExzazdKb0JyWVVwNExBLXdIRkZoUTAzdm9SS19J?oc=5
+- Uttarakhand awarded ‘Leader’ status in Startup India Ranking - The Indian Express
+  Uttarakhand awarded ‘Leader
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPb1NmSnBRSzlJY0x4OVZTNFRuSjFTSWMxY3B1QkFHdXFXRlNiX0VDOFM1bDRJV09xbmFHYnNxWlRRUld1VnJGOGxDTVBYVGVRb0xoT0x4R0N1ZDBCQjF3dEsyd2ZTcGxWYVJROF9VUWVvOVFxRUlvX3l1MkF3Wk9pTWM3c3E5UnV2bzdueTdMVEh1OHRXM1pkcHU4dnBfeGY1T3ZGa2c5RS1EcDNQ0gGzAUFVX3lxTE9peVpwWkRfazRsc1l6ZXdXZ3NpdVl4UU5fUk1mSGFGdHA4RGhZdWFKcXl3Wkg4MUxNU3BELXJYMFNNaWJKN1pGTHNTYmNtUkZzcVpCakFmSTIzdkE4TlJtLUNidl9DUjQ4YVg4TjFJNHBmeTBGQXhvLWJqam5kekpoaTY4VkRJeUEzRjZXY0N6QmJOTVNESWJqYjJtd2NOR2lEMXR3bDJXOWYwVVluTXp4TDU4?oc=5
 
 - "No Internet, Dangerous Protests": First Flights From Iran Land In Delhi - NDTV
   "No Internet, Dangerous Protests": First
@@ -168,17 +168,17 @@
   Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
 
-- Promote scientific temper, rational analysis for progressive India: Minister - Times of India
-  The Indian government is trying to promote scientific temper
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMGNBS1MzYmh6NGlyU3JsNHJjZmQxSEIzVDU4dGE4cGJIV0xZSnBYTUpBc1NIMlMxaUtDTWY4MFRTMXhiMWV1X2h0anNyaHhGaUdEQmUwU0ViUll1NHdURVdna2tRenBsYjFQdlJvQkIzT3MteVFVa1AzM0NWZnF6NGRQYVhjSlNMYkZIbnlwT0xvWnJvdzJWbUZ1YmJycWdSaGUzY2V5Mmk5X3FfaWZXX1QtV0o0THVqUnlRdTNsOVJITzVMNmZkaWtaMi1lSGNXMENhQWxrdmRuZFZrTjNUU0JB0gHnAUFVX3lxTE5wNlFNakY0ZXVkTG9SbW95MEJEWEFXYzBzR2FSRzhCNFkzWFZqMHlhVldTWURXcENUTmFTRV9hQWtGYWdIbHZ4QkI3RDJzbC1wYXRIWm5JMExVSWhHald2ZnUxaHhjdlJoMThZT3NhQk12WUp3aEQ2d3NmRTFLamRPWEltU2VXUTFLUVo3YXh2Ml9mSm91b0Ezc3ZsNkd6amFPeVpzZ1pNbFM2LXZsWVVGY1g1RlVibm1NOXJQUkozQ3VjUXpTd2cxNzM5N0lXTG5iTHlCNnlGZm5pMHA4bEk4dldnNmxERQ?oc=5
+- Indian Students Stranded Amid Iran’s Internet Blackout, Unrest - Times of India
+  Indian Students Stranded Amid Iran’
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGMtTWRsNXdZdTVLWjYyVjhGay1jMjdPOHh2NUowclB5ZFBDa2F1TGNGVG1OWTlRY2hacFdMcTVYMnc4TGtyb3hickRidlJxcHFJbXNMd3o2OXktWTc5SmRBUWVaSWdOdEp2YXgtbWNtc1JwQ2M3azV0Mm9GcEprX0s3bWwxVVNBYzc1RFR3VjdnVzlwY1lGR2RjRDBZSGNzU0dXRktUOEp1SUM4a1Jfc09COHhZc2diOF8wVTRpemVzTGFHX0R4OWZocWZSd9IB0wFBVV95cUxObHU4RG9lSzR0aHJyQUx1ZUVOUVRkMThGdktNbDN4VDl0akJLNlA2amlsWUpmUHN6Zk9DblQ2ZXcyTUFiSDhyZWlwdk9jZ2R5Qk5KbnVzdFRNX01xVGt5eGdFd0I0Sm1MMS1COThidDVrTzF5LWxrbHROWjJFTldHdnRMNGdfcEdXaENVbzU0SlBSQ1pRcjMxeUl2QXo3T1pnT2ppdlRHSldkN1F3N2ZoRDdKa1pBamduY1BYVDY4Q2haNjdKUmdoZTQ1WWhUSFk5d0Vv?oc=5
 
-- ‘Unfair’: As world seeks Trump mercy, US senators now want him to ask India for tariff ease | India News - Hindustan Times
-  'Unfair': As world seeks Trump mercy, US senators now want him to ask India
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSG1ZdU1hRG9Fb1I1ZGZPV1Zxd01RY3VRMjZmSFpPV3hqNVRQd1NqNnV2ak9ENFYxWXpBZU5ZMUtaRFluOXI3dUlHcS1JSW9oTDZPM1VndWMtSEJjUE42aW1QWUVaWUJHeUh3Qk1Wem41MVNITXU4akxjQWVlNGZKMXloZnJZcXN1dndiWmJySXJGMTZLSEY4TWNmZFhfUGt1bUw4aTJTWmdYQmgwdTdLa21pUW9CVWhkOFJhdWdCV0k4TXl5T01uZzRTWnBQTVZwOWoyNjhia3RCTm1CSW5uc2k1eGtoN1BRUHpn0gHwAUFVX3lxTFBNZk5DRFo1eUtkWkNyNk5BQldNSFBocmFLb3FXd2xhUTdVU2s4NzZNcl9sak9fWWtxVzZnZjFuYUJ4aVA4dExjalpQLTh0MzJnUTJwY0gzaDFwTFZMS2wxUHYzNEZsMF9EeVgtWGdJZFZtRG5ncVNkclJGblRwNXd3V1V2bllBcVdzOXN6Zm5MYXpVM3hnSWZfcnJkRkhGemFjMkNqY1gzUUx0UHVhYUZjeUdCbzNBZWVYVnAtZDFqd0dLRm9zNW1fdzFITkhHNDQ0LUtuRXBubkFkRnBNRXRKS2toXzV4NDNQYkxTV3BQMQ?oc=5
+- Exports brave US tariffs, global churn to log rise | India News - Hindustan Times
+  "Exports brave US tariffs, global churn
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzBNdGlsVEdyTzgtNlhuTjE5OVpLM1pOZFYzdmE3XzhrenBJdll0cHRGQ2lsVVo5TmtWdlAtTWNuaklVandxOVJzSXdOcFc1RUREcVhDTDdKSC15UmV1ZDdYcmx1UWtyNkFNNm9IbmtneEptcUVGblp4MXBuNWNtOEdIRG50LTVJWTRuSWZuZWVuN1pIN0RaemlUN3pLWF9KNkpJMnJucjZoNGE4eGZoNXFB0gG3AUFVX3lxTFAxaXFFaG1nSlFjSHk5RjJSS1BWN1NCWGFmakxVdkdiWF9fenRwUkRHRV8taXJOcm43VUtQUmNWcGV3M0J6d1VUZXoxSlh5NTQ1aGlHVVp3OUNLcmo0cHhyczkzc3JnUGZLYXprWU1YV1NMb3Z5Q2U2MGs5NnhVMVdiRV9tXzZJUjk0MWxGdDNYN1dxN2llWGJXSHhnVFZUR0dpSTN0WDFmZWFqMDQzNkhuU3NmX181cw?oc=5
 
-- UAE President Mohamed bin Zayed Al Nahyan to visit India on Monday - WION
-  UAE President Mohamed bin Zayed Al Nahyan
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWpNNC03c0JYbE1uWnVIQk85Qk5OVXd2djR3UzBlaGY1Tkc1d2FRUkhGdnFUODFydjdKakhGLXZlNUJzT3NGYzhzdjBBUW9hYU9zZ2tMb3BpTF9FbDd4b1gyMGpOSlJYNlI1a0tkZzc1ek9sYmNWN0ZqTXlEd3R1T3lnRi1QbVNMVVBwby1xSmF6UDRwVWtjS2tvckg2cXExS3ZHdGROVXhiYTcxZ2JqcGVTTHhGUdIBuwFBVV95cUxQYm80T081T0J3U3hhRVhjQXVONFNhZ3I1RFFVdUlHZl9GTjdqUjBISkd1dGNoZVRRbEloVGZWOGJmWkhHVGVtYUwzRGJyRUk1YUdsR2JERjVVcUdQdkZDc3dNQ1JHeGlMUXRqWlBsTk9UeVl4a0ZYMzY1dXAzUDNVSEhZNG5Ndm1lYU0xY0h4cTFYWS1fT3o2amdUVE45VExzazdKb0JyWVVwNExBLXdIRkZoUTAzdm9SS19J?oc=5
+- Uttarakhand awarded ‘Leader’ status in Startup India Ranking - The Indian Express
+  Uttarakhand awarded ‘Leader
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPb1NmSnBRSzlJY0x4OVZTNFRuSjFTSWMxY3B1QkFHdXFXRlNiX0VDOFM1bDRJV09xbmFHYnNxWlRRUld1VnJGOGxDTVBYVGVRb0xoT0x4R0N1ZDBCQjF3dEsyd2ZTcGxWYVJROF9VUWVvOVFxRUlvX3l1MkF3Wk9pTWM3c3E5UnV2bzdueTdMVEh1OHRXM1pkcHU4dnBfeGY1T3ZGa2c5RS1EcDNQ0gGzAUFVX3lxTE9peVpwWkRfazRsc1l6ZXdXZ3NpdVl4UU5fUk1mSGFGdHA4RGhZdWFKcXl3Wkg4MUxNU3BELXJYMFNNaWJKN1pGTHNTYmNtUkZzcVpCakFmSTIzdkE4TlJtLUNidl9DUjQ4YVg4TjFJNHBmeTBGQXhvLWJqam5kekpoaTY4VkRJeUEzRjZXY0N6QmJOTVNESWJqYjJtd2NOR2lEMXR3bDJXOWYwVVluTXp4TDU4?oc=5
 
 - "No Internet, Dangerous Protests": First Flights From Iran Land In Delhi - NDTV
   "No Internet, Dangerous Protests": First
@@ -188,45 +188,57 @@
   Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
 
-- Promote scientific temper, rational analysis for progressive India: Minister - Times of India
-  The Indian government is trying to promote scientific temper
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMGNBS1MzYmh6NGlyU3JsNHJjZmQxSEIzVDU4dGE4cGJIV0xZSnBYTUpBc1NIMlMxaUtDTWY4MFRTMXhiMWV1X2h0anNyaHhGaUdEQmUwU0ViUll1NHdURVdna2tRenBsYjFQdlJvQkIzT3MteVFVa1AzM0NWZnF6NGRQYVhjSlNMYkZIbnlwT0xvWnJvdzJWbUZ1YmJycWdSaGUzY2V5Mmk5X3FfaWZXX1QtV0o0THVqUnlRdTNsOVJITzVMNmZkaWtaMi1lSGNXMENhQWxrdmRuZFZrTjNUU0JB0gHnAUFVX3lxTE5wNlFNakY0ZXVkTG9SbW95MEJEWEFXYzBzR2FSRzhCNFkzWFZqMHlhVldTWURXcENUTmFTRV9hQWtGYWdIbHZ4QkI3RDJzbC1wYXRIWm5JMExVSWhHald2ZnUxaHhjdlJoMThZT3NhQk12WUp3aEQ2d3NmRTFLamRPWEltU2VXUTFLUVo3YXh2Ml9mSm91b0Ezc3ZsNkd6amFPeVpzZ1pNbFM2LXZsWVVGY1g1RlVibm1NOXJQUkozQ3VjUXpTd2cxNzM5N0lXTG5iTHlCNnlGZm5pMHA4bEk4dldnNmxERQ?oc=5
+- Indian Students Stranded Amid Iran’s Internet Blackout, Unrest - Times of India
+  Indian Students Stranded Amid Iran’
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGMtTWRsNXdZdTVLWjYyVjhGay1jMjdPOHh2NUowclB5ZFBDa2F1TGNGVG1OWTlRY2hacFdMcTVYMnc4TGtyb3hickRidlJxcHFJbXNMd3o2OXktWTc5SmRBUWVaSWdOdEp2YXgtbWNtc1JwQ2M3azV0Mm9GcEprX0s3bWwxVVNBYzc1RFR3VjdnVzlwY1lGR2RjRDBZSGNzU0dXRktUOEp1SUM4a1Jfc09COHhZc2diOF8wVTRpemVzTGFHX0R4OWZocWZSd9IB0wFBVV95cUxObHU4RG9lSzR0aHJyQUx1ZUVOUVRkMThGdktNbDN4VDl0akJLNlA2amlsWUpmUHN6Zk9DblQ2ZXcyTUFiSDhyZWlwdk9jZ2R5Qk5KbnVzdFRNX01xVGt5eGdFd0I0Sm1MMS1COThidDVrTzF5LWxrbHROWjJFTldHdnRMNGdfcEdXaENVbzU0SlBSQ1pRcjMxeUl2QXo3T1pnT2ppdlRHSldkN1F3N2ZoRDdKa1pBamduY1BYVDY4Q2haNjdKUmdoZTQ1WWhUSFk5d0Vv?oc=5
 
-- ‘Unfair’: As world seeks Trump mercy, US senators now want him to ask India for tariff ease | India News - Hindustan Times
-  'Unfair': As world seeks Trump mercy, US senators now want him to ask India
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSG1ZdU1hRG9Fb1I1ZGZPV1Zxd01RY3VRMjZmSFpPV3hqNVRQd1NqNnV2ak9ENFYxWXpBZU5ZMUtaRFluOXI3dUlHcS1JSW9oTDZPM1VndWMtSEJjUE42aW1QWUVaWUJHeUh3Qk1Wem41MVNITXU4akxjQWVlNGZKMXloZnJZcXN1dndiWmJySXJGMTZLSEY4TWNmZFhfUGt1bUw4aTJTWmdYQmgwdTdLa21pUW9CVWhkOFJhdWdCV0k4TXl5T01uZzRTWnBQTVZwOWoyNjhia3RCTm1CSW5uc2k1eGtoN1BRUHpn0gHwAUFVX3lxTFBNZk5DRFo1eUtkWkNyNk5BQldNSFBocmFLb3FXd2xhUTdVU2s4NzZNcl9sak9fWWtxVzZnZjFuYUJ4aVA4dExjalpQLTh0MzJnUTJwY0gzaDFwTFZMS2wxUHYzNEZsMF9EeVgtWGdJZFZtRG5ncVNkclJGblRwNXd3V1V2bllBcVdzOXN6Zm5MYXpVM3hnSWZfcnJkRkhGemFjMkNqY1gzUUx0UHVhYUZjeUdCbzNBZWVYVnAtZDFqd0dLRm9zNW1fdzFITkhHNDQ0LUtuRXBubkFkRnBNRXRKS2toXzV4NDNQYkxTV3BQMQ?oc=5
+- Exports brave US tariffs, global churn to log rise | India News - Hindustan Times
+  "Exports brave US tariffs, global churn
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzBNdGlsVEdyTzgtNlhuTjE5OVpLM1pOZFYzdmE3XzhrenBJdll0cHRGQ2lsVVo5TmtWdlAtTWNuaklVandxOVJzSXdOcFc1RUREcVhDTDdKSC15UmV1ZDdYcmx1UWtyNkFNNm9IbmtneEptcUVGblp4MXBuNWNtOEdIRG50LTVJWTRuSWZuZWVuN1pIN0RaemlUN3pLWF9KNkpJMnJucjZoNGE4eGZoNXFB0gG3AUFVX3lxTFAxaXFFaG1nSlFjSHk5RjJSS1BWN1NCWGFmakxVdkdiWF9fenRwUkRHRV8taXJOcm43VUtQUmNWcGV3M0J6d1VUZXoxSlh5NTQ1aGlHVVp3OUNLcmo0cHhyczkzc3JnUGZLYXprWU1YV1NMb3Z5Q2U2MGs5NnhVMVdiRV9tXzZJUjk0MWxGdDNYN1dxN2llWGJXSHhnVFZUR0dpSTN0WDFmZWFqMDQzNkhuU3NmX181cw?oc=5
 
-- UAE President Mohamed bin Zayed Al Nahyan to visit India on Monday - WION
-  UAE President Mohamed bin Zayed Al Nahyan
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWpNNC03c0JYbE1uWnVIQk85Qk5OVXd2djR3UzBlaGY1Tkc1d2FRUkhGdnFUODFydjdKakhGLXZlNUJzT3NGYzhzdjBBUW9hYU9zZ2tMb3BpTF9FbDd4b1gyMGpOSlJYNlI1a0tkZzc1ek9sYmNWN0ZqTXlEd3R1T3lnRi1QbVNMVVBwby1xSmF6UDRwVWtjS2tvckg2cXExS3ZHdGROVXhiYTcxZ2JqcGVTTHhGUdIBuwFBVV95cUxQYm80T081T0J3U3hhRVhjQXVONFNhZ3I1RFFVdUlHZl9GTjdqUjBISkd1dGNoZVRRbEloVGZWOGJmWkhHVGVtYUwzRGJyRUk1YUdsR2JERjVVcUdQdkZDc3dNQ1JHeGlMUXRqWlBsTk9UeVl4a0ZYMzY1dXAzUDNVSEhZNG5Ndm1lYU0xY0h4cTFYWS1fT3o2amdUVE45VExzazdKb0JyWVVwNExBLXdIRkZoUTAzdm9SS19J?oc=5
+- Uttarakhand awarded ‘Leader’ status in Startup India Ranking - The Indian Express
+  Uttarakhand awarded ‘Leader
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPb1NmSnBRSzlJY0x4OVZTNFRuSjFTSWMxY3B1QkFHdXFXRlNiX0VDOFM1bDRJV09xbmFHYnNxWlRRUld1VnJGOGxDTVBYVGVRb0xoT0x4R0N1ZDBCQjF3dEsyd2ZTcGxWYVJROF9VUWVvOVFxRUlvX3l1MkF3Wk9pTWM3c3E5UnV2bzdueTdMVEh1OHRXM1pkcHU4dnBfeGY1T3ZGa2c5RS1EcDNQ0gGzAUFVX3lxTE9peVpwWkRfazRsc1l6ZXdXZ3NpdVl4UU5fUk1mSGFGdHA4RGhZdWFKcXl3Wkg4MUxNU3BELXJYMFNNaWJKN1pGTHNTYmNtUkZzcVpCakFmSTIzdkE4TlJtLUNidl9DUjQ4YVg4TjFJNHBmeTBGQXhvLWJqam5kekpoaTY4VkRJeUEzRjZXY0N6QmJOTVNESWJqYjJtd2NOR2lEMXR3bDJXOWYwVVluTXp4TDU4?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- "No Internet, Dangerous Protests": First Flights From Iran Land In Delhi - NDTV
+  "No Internet, Dangerous Protests": First
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXVyNENqT0xsWnJxS3V6TTJUdnlnRWRhV29rQndZSzNmMDJkajJYTk5UUTFpcDByTTh3WmhBc29RRmZuWVRqSExoazB1ZDd2MHVMdko3NjlwaXBEdVpWZHdMQ0s5VlktbTZRbXBhUk0wclJVdkVFeE5mc2JfUUhDZ1BhcGVFTkVBTjh1bzU4TDBWcjIxTmhkeVY1aHB4NjRkX3ZvdEcwTTJqMnVBRlh1T3dYVVFuQzFNSkx0X2tqQUh5anZnZUQ0YnhxV2rSAdQBQVVfeXFMT09OTUh0bmplRFNjWUJiT0lNUXdJV3JZeTNrSFdoVUJ0SmZ5dWFESmMxMDFIeldGQzlpRVVxTkg4S25WQ0pkN0pXeThZNF9TYWowbXFhM1RGUjI1a2tsQmhlcUV6emZTQUJJUUJwMy1WUjZWS3RGeDBvRlVranR1dHVYdG9na3pBaUNDYXNBMEJEM3V4WnV6WVhRSjA5RVI0MU1QTE5ZSFFUbkpJcVJlRUFmZ3M0TXlwcXB1Z2oxX25YcVhtZVlNbXBMOTI5bkh5UHNNV0c?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India-Pakistan conflict - The Hindu
+  Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Indian Students Stranded Amid Iran’s Internet Blackout, Unrest - Times of India
+  Indian Students Stranded Amid Iran’
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGMtTWRsNXdZdTVLWjYyVjhGay1jMjdPOHh2NUowclB5ZFBDa2F1TGNGVG1OWTlRY2hacFdMcTVYMnc4TGtyb3hickRidlJxcHFJbXNMd3o2OXktWTc5SmRBUWVaSWdOdEp2YXgtbWNtc1JwQ2M3azV0Mm9GcEprX0s3bWwxVVNBYzc1RFR3VjdnVzlwY1lGR2RjRDBZSGNzU0dXRktUOEp1SUM4a1Jfc09COHhZc2diOF8wVTRpemVzTGFHX0R4OWZocWZSd9IB0wFBVV95cUxObHU4RG9lSzR0aHJyQUx1ZUVOUVRkMThGdktNbDN4VDl0akJLNlA2amlsWUpmUHN6Zk9DblQ2ZXcyTUFiSDhyZWlwdk9jZ2R5Qk5KbnVzdFRNX01xVGt5eGdFd0I0Sm1MMS1COThidDVrTzF5LWxrbHROWjJFTldHdnRMNGdfcEdXaENVbzU0SlBSQ1pRcjMxeUl2QXo3T1pnT2ppdlRHSldkN1F3N2ZoRDdKa1pBamduY1BYVDY4Q2haNjdKUmdoZTQ1WWhUSFk5d0Vv?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Exports brave US tariffs, global churn to log rise | India News - Hindustan Times
+  "Exports brave US tariffs, global churn
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzBNdGlsVEdyTzgtNlhuTjE5OVpLM1pOZFYzdmE3XzhrenBJdll0cHRGQ2lsVVo5TmtWdlAtTWNuaklVandxOVJzSXdOcFc1RUREcVhDTDdKSC15UmV1ZDdYcmx1UWtyNkFNNm9IbmtneEptcUVGblp4MXBuNWNtOEdIRG50LTVJWTRuSWZuZWVuN1pIN0RaemlUN3pLWF9KNkpJMnJucjZoNGE4eGZoNXFB0gG3AUFVX3lxTFAxaXFFaG1nSlFjSHk5RjJSS1BWN1NCWGFmakxVdkdiWF9fenRwUkRHRV8taXJOcm43VUtQUmNWcGV3M0J6d1VUZXoxSlh5NTQ1aGlHVVp3OUNLcmo0cHhyczkzc3JnUGZLYXprWU1YV1NMb3Z5Q2U2MGs5NnhVMVdiRV9tXzZJUjk0MWxGdDNYN1dxN2llWGJXSHhnVFZUR0dpSTN0WDFmZWFqMDQzNkhuU3NmX181cw?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Uttarakhand awarded ‘Leader’ status in Startup India Ranking - The Indian Express
+  Uttarakhand awarded ‘Leader
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPb1NmSnBRSzlJY0x4OVZTNFRuSjFTSWMxY3B1QkFHdXFXRlNiX0VDOFM1bDRJV09xbmFHYnNxWlRRUld1VnJGOGxDTVBYVGVRb0xoT0x4R0N1ZDBCQjF3dEsyd2ZTcGxWYVJROF9VUWVvOVFxRUlvX3l1MkF3Wk9pTWM3c3E5UnV2bzdueTdMVEh1OHRXM1pkcHU4dnBfeGY1T3ZGa2c5RS1EcDNQ0gGzAUFVX3lxTE9peVpwWkRfazRsc1l6ZXdXZ3NpdVl4UU5fUk1mSGFGdHA4RGhZdWFKcXl3Wkg4MUxNU3BELXJYMFNNaWJKN1pGTHNTYmNtUkZzcVpCakFmSTIzdkE4TlJtLUNidl9DUjQ4YVg4TjFJNHBmeTBGQXhvLWJqam5kekpoaTY4VkRJeUEzRjZXY0N6QmJOTVNESWJqYjJtd2NOR2lEMXR3bDJXOWYwVVluTXp4TDU4?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Three technologies that will shape biotech in 2026 - MIT Technology Review
+  Three technologies that will shape biotech in 20
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHFTVVlfc1pmM0VfR05USVVvZmM1cWFaTVpWdm0zaEVvaHd1NWJKNEUwekRfUThNNXEzUU1uUkcwNGpHbWxDNVNUWTBUaFoyMF96OGR4Y2dlT2RtWC1XdC1IWlZnTWpwU0tFSlRWU0s5N2xrTVkxSlMxaERvdVFQMHBiM1VpYnU2NFVYb3pvai0zcEVqQlY4NE9hLTVwQ1dUbmkwMl9MbjJnNzlMVFZ3aDFhbXZZZUI0Zi15Q0hB0gHDAUFVX3lxTE5sc3Rzeng1Q0d1S09memk0bzJsZTJ2cmtpNWJZQUhabGFhdnpEbXdIaWNzVlUzaWpSYTVpMm02ckRfTXdMbElvTTlIYjB6dlYtZGxYazVlcEt5YjF2YTlGUGR1V2E2cGxaRnN1dVdVY3NkZnB4U0xBVk15SmdtWVlqQk1xbzlIbUVscUVteEZ0M3ROclZ6LWUxSXlIa1czR1hEWjh6LXJMSXAwT0ZialVYTi01cElxSDZXazlOYTdCbnBncw?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Accenture Named a Leader in Gartner® Magic Quadrant™ for Digital Technology and Business Consulting Services - Accenture
+  Accenture Named a Leader in Gartner's Magic Quadrant
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLWFQeG1aX2tia2JscHpwWERVd3FGVjRoN3dTMHowWFJZNVJ2RWNsc0JKRWdUanZxOUZuWHd4cXdDczAxMUN2ZFc3LWtmMEdwdWVReWJEUlEwMHRjeFM5QWE3MDhoN2hXR0ZPRHFUbGFBc1JTQmQ4cDFGSFlxM1Q5ODlBLWN3VjBwOTZCWXloN0I4ekk4emhnek03RVZSYlViR25mLTBSOHJfZTRBamhWMzVrbHBnN3VNaDBmUFdJYkhqLTRsUG92V1N1UGVudTQ0ZWhQZGdXVlVyX25yZW5Tag?oc=5
+
+- NASA Develops Blockchain Technology to Enhance Air Travel Safety and Security - NASA (.gov)
+  NASA is developing the technology to enhance air travel safety
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLUJGdlZnYmpkMGthaTI0ZGZqSXhreWc2NTNLVUxQRmdRX0tnZUlnTm9Jd2U0VFlSXy12NlFiTG9IeWVxdll3VllkOFVaT1U3N2liRlMzZnMzMnBkTTdNZXZ2NGh2SFdiTlVzbkhGQktfUk5mVDhSbXlKZV9RaXZ3VEZpZGRfZlQyZXlzMjFwT2RQTzZxaG4tTndYcV9yQTNQM2tIUjhWOVJpTHc?oc=5
+
+- Dhami highlights role of technology, science in disaster resilience and mitigation - Times of India
+  Dhami highlights role of technology, science in disaster
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOFREMzQ0eWlDSjFpbUlvZjJvS2J1QjVDY3FMQm1vLWRhZ1V5cUZQZko5eDFDUW1WaEZXVFQxUjI3SGxWMkZvdC1idGhJVTZTMVBXb1BoVHQxbkNlLXJjRmxTcXRnaFpvRzd3VzhtX3d2al9xZlQyVG1YR1Q5TDVtQVp2eC1QcVJWWm1fS2NvRlpfQUFGcjNXLTQyRnRwMGYwTXM0WERwZVF4ZG5GVTRFcFAxUW9fN3JGRXBGdm1FRlVxUVllUHZyLUt3U2dfQTlhWUt3dmRkZVc5LUhKb29MMU4zN21kb3Q4Q2VmeUNR0gHzAUFVX3lxTE41Sm9BVUdWa09TNlh1VGxya2hhZ3RCM2ZFdXlvdjc3OEsxUmNfaE9iRk5BMGJwVnJfU0VsdHE3R1dxaFR1MHRUUGpibWcyYk1rTW0xNGFHQW9lcl85bUtMdV85YlppM1J3cExBVVVlLTdmN1FwalZVT3YyREs0alJyY2o2cm5WQi13T29GdU5JNGhjNGtNd0JDVGM2eFI3bi1qcTlETHpzM0xNOFc1bS1iV3hESEkyNHU4RjVHWnNraUl3bGtWMGs2a00wV2tuSlhDN2E2STMweHN1Mm9SdzdlUlJFeHBZcWFQUkwzcU53d1JVcw?oc=5
+
+- Perovskite display technology demonstrates record efficiency and industry-level operational lifetime - Phys.org
+  Perovskite display technology demonstrates record
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzlGYy0tNURyWktZWThpbWJGU3Frd0YxZ3RTQVNGeE5VNHd4VVRGbExZdFBoWVd2OS1OaHRiZWozX1dIbnlpM3AtYUpENVFObWNBZnBldFdSbVI4X1RvVnFjejM4WVRva0NuR1ZLUVFwN2p6SXRDcWhlS1lYY3VBb2pQMVVQR0R2Y21BTw?oc=5
 
 
-_Last updated: 2026-01-17 18:26:37 UTC_
+_Last updated: 2026-01-18 01:28:07 UTC_
