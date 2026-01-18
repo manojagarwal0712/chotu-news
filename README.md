@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Amrit Bharat Express launch: PM Modi to flag off 5 new trains today – check routes
+- News Today Live Updates, 18 January | Delhi wakes up to thick blanket of smog; IGI airport issues advisory
   
-  🔗 https://indianexpress.com/article/india/amrit-bharat-express-launch-pm-modi-flag-off-5-new-trains-jan-18-routes-10479826/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-01-18-2026-news-headlines-10480324/
 
-- Probing murder of two Russian women, Goa cops baffled by ‘a third killing’
+- ‘Keep sports free of politics, don’t suspect every selection’: J&K L-G amid row over picking players
   
-  🔗 https://indianexpress.com/article/india/probing-murder-of-two-russian-women-goa-cops-baffled-by-a-third-killing-10480171/
+  🔗 https://indianexpress.com/article/india/keep-sports-free-of-politics-dont-suspect-every-selection-jk-l-g-amid-row-over-picking-players-10480158/
 
-- Exclusive: In first R-Day after Operation Sindoor, on display: How battle formations move
+- Odisha Police crackdown on cattle smugglers; identify properties worth Rs 50 crore
   
-  🔗 https://indianexpress.com/article/india/in-first-r-day-after-operation-sindoor-on-display-how-battle-formations-move-10480141/
+  🔗 https://indianexpress.com/article/india/odisha-police-crackdown-on-cattle-smugglers-identify-properties-worth-rs-50-crore-10480106/
 
-- Uttarakhand awarded ‘Leader’ status in Startup India Ranking
+- At Bodo outreach, PM Modi’s allegation — ‘Congress created instability in Assam, helped infiltrators for vote bank’
   
-  🔗 https://indianexpress.com/article/india/uttarakhand-awarded-leader-status-in-startup-india-ranking-10480200/
+  🔗 https://indianexpress.com/article/india/at-bodo-outreach-pm-modis-allegation-congress-created-instability-in-assam-helped-infiltrators-for-vote-bank-10480136/
 
-- Santragachi-Anand Vihar Terminal Amrit Bharat Express train to commence inaugural run today – check timings, stoppages
+- The story of 176 cases, stock witnesses, and one Indore police station
   
-  🔗 https://indianexpress.com/article/india/santragachi-howrah-anand-vihar-delhi-amrit-bharat-express-train-inaugural-run-timings-stops-10480113/
+  🔗 https://indianexpress.com/article/india/the-story-of-176-cases-stock-witnesses-and-one-indore-police-station-10480142/
+
+- Nothing CMF Headphone Pro review: Vintage looks, modern sound
+  
+  🔗 https://indianexpress.com/article/technology/tech-reviews/nothing-cmf-headphone-pro-review-10480558/
+
+- OpenAI poaches founding members of Thinking Machines Lab in escalating AI talent battle
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-poaches-thinking-machines-lab-ai-talent-battle-10480530/
 
 - iPhone 17 at Rs 47,990, Galaxy S25 Ultra at Rs 79,999 as Croma announces Republic Day Sale
   
@@ -32,13 +40,17 @@
   
   🔗 https://indianexpress.com/article/technology/tech-reviews/oneplus-pad-go-2-review-10479625/
 
-- Amazon Republic Day Sale 2026: 5 must-buy laptops under Rs 50,000
-  
-  🔗 https://indianexpress.com/article/technology/amazon-republic-day-sale-2026-5-must-buy-laptops-under-rs-50000-10479617/
+- Battle for AI talent heats up as former OpenAI staff who left for Mira Murati's Thinking Machines return
+  OpenAI has onboarded three former staff. Barret Zoph, Luke Metz and Sam Schoenholz had left to join Thinking Machines.
+  🔗 https://www.livemint.com/companies/news/ai-talent-battle-openai-staff-barret-zoph-luke-metz-sam-schoenholz-left-for-mira-murati-thinking-machines-startup-return-11768710842512.html
 
-- Tyrannosaurus rex did not reach full size until age 40, reveals study
-  
-  🔗 https://indianexpress.com/article/technology/science/tyrannosaurus-rex-did-not-reach-full-size-until-age-40-reveals-study-10479401/
+- Somali businesses struggle during the Minneapolis ICE crackdown
+  Somali
+  🔗 https://www.livemint.com/companies/somali-businesses-struggle-during-the-minneapolis-ice-crackdown-11768713242761.html
+
+- Here's why Donald Trump lashed out at Jamie Dimon, threatened to sue JPMorgan — All you need to know
+  US President Donald Trump has lashed out at Jamie Dimon, chief of JPMorgan Chase. He threatened to sue the lender for debanking him following the 6 January Capitol riot in 2021.
+  🔗 https://www.livemint.com/companies/news/donald-trump-threatens-sue-jpmorgan-debanking-capitol-jan-6-riots-why-unhappy-with-jamie-dimon-deny-offer-fed-chief-role-11768699834996.html
 
 - Trump Blasts Dimon, Threatens to Sue JP Morgan Over Debanking
   Trump threatens to sue JPMorgan Chase &amp; Co. over his claim that he was debanked after the Jan. 6, 2021, Capitol riot
@@ -48,37 +60,37 @@
   InterGlobe Aviation's Board said it is committed to addressing DGCA findings regarding IndiGo's December disruptions. The Directorate General
   🔗 https://www.livemint.com/companies/indigos-first-reaction-after-dgca-fines-airline-rs-22-2-cr-for-december-flight-chaos-will-take-appropriate-measure-11768672634789.html
 
-- IndiGo fined  ₹22 crore for Dec disruptions, senior management warned, DGCA to identify systemic lapses within its org
-  The DGCA warned senior management for inadequate preparedness and is conducting an internal inquiry to address systemic lapses within the organization. IndiGo has been fined  �
-  🔗 https://www.livemint.com/companies/news/india-indigo-dgca-airline-fine-22-crore-december-disruption-management-warned-11768667400683.html
+- Nifty IT index surges nearly 3% last week on Infosys-led rally, biggest jump in over a month
+  The Nifty IT index surged 3.34%, led by Infosys and Tech Mahindra. Top firms posted better-than-expected earnings despite challenges like
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-it-index-surges-nearly-3-last-week-on-infosys-led-rally-biggest-jump-in-over-a-month-11768710993376.html
 
-- ₹3 lakh a day for 68 days: IndiGo fined  ₹22.2 crore by DGCA for mass flight cancellations, disruptions
-  IndiGo has been fined  ₹22.2 crore by DGCA for mass flight cancellations and disruptions. Charging a fine of  ⁹3 lakh per day for 68 days,
-  🔗 https://www.livemint.com/companies/news/rs-3-lakh-a-day-for-68-days-indigo-fined-rs-22-2-crore-by-dgca-for-mass-flight-cancellations-disruptions-december-11768662981576.html
+- HDFC Bank vs ICICI Bank vs Yes Bank vs RBL Bank: Which stock to buy after Q3 results 2026?
+  HDFC Bank posted robust growth, while ICICI Bank reported steady earnings. Yes Bank's PAT surged by over 50%, and RBL Bank's performance remained stable
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-vs-icici-bank-vs-yes-bank-vs-rbl-bank-which-stock-to-buy-after-q3-results-2026-11768712630288.html
 
-- Netweb Technologies Q3 results: Net profit rises nearly 147% to  ₹73.3 crore, announces re-appointment of MD
-  Net profit for Q3 FY26 was up 146.7% year-on-year
-  🔗 https://www.livemint.com/companies/news/netweb-technologies-q3-results-net-profit-rises-nearly-147-to-73-3-crore-announces-re-appointment-of-md-11768653839709.html
+- What Trump's Greenland tariffs on NATO countries mean for gold, silver, Indian stock market?
+  Gold and silver rates may have a gap-up opening on Monday due to escalation in the geopolitical tension and global uncertainty
+  🔗 https://www.livemint.com/market/stock-market-news/what-trumps-greenland-tariffs-on-nato-countries-mean-for-gold-silver-indian-stock-market-11768706999377.html
 
-- Upcoming IPOs: Shadowfax Technologies IPO to Bharat Coking Coal IPO — 4 new issues, 7 listings scheduled for next week
-  In the mainboard segment, Shadowfax Technologies IPO will open on Tuesday, January 20. In the SME segment, Digilogic Systems IPO,
-  🔗 https://www.livemint.com/market/upcoming-ipos-shadowfax-technologies-ipo-to-bharat-coking-coal-ipo-4-new-issues-7-listings-scheduled-for-next-week-11768646033685.html
+- TCS vs Infosys vs Wipro vs HCL Technologies: Which IT stock to buy after Q3 results 2026?
+  Infosys delivered a resilient Q3 results, while TCS reported a modest Q-o-Q revenue growth. HCL Tech emerged as one of
+  🔗 https://www.livemint.com/market/stock-market-news/tcs-vs-infosys-vs-wipro-vs-hcl-technologies-which-it-stock-to-buy-after-q3-results-2026-11768701462777.html
 
-- Q3 results, gold, silver rates to India-US trade deal: Top five triggers that may dictate Indian stock market this week
-  Indian markets head into the new week with a cautious but stock-specific tone. Investors balance domestic earnings cues against global macro and geopolitical developments
-  🔗 https://www.livemint.com/market/stock-market-news/q3-results-gold-silver-rates-to-india-us-trade-deal-top-five-triggers-that-may-dictate-indian-stock-market-this-week-11768641823168.html
+- Q3 results 2026: BHEL, Indigo, Kotak Bank, BPCL, Adani Green among companies to declare earnings next week
+  BHEL, Indigo, Kotak Bank, BPCL, Adani Green, Eternal
+  🔗 https://www.livemint.com/market/stock-market-news/q3-results-2026-bhel-indigo-kotak-bank-bpcl-adani-green-among-companies-to-declare-earnings-next-week-11768637896815.html
 
-- MBS Gains Are Another Reason to Buy Company Debt: Credit Weekly
-  Investors taking profits on US mortgage bond holdings who need another asset to buy.
-  🔗 https://www.livemint.com/market/mbs-gains-are-another-reason-to-buy-company-debt-credit-weekly-11768681965188.html
+- Moto Watch with 13-day battery and AMOLED display launching in India on 23 January: Check confirmed features and specs
+  Motorola will launch its new Moto Watch in India on January 23. The watch features a 1.4 inch OLED display, IP68 rating
+  🔗 https://www.livemint.com/technology/gadgets/moto-watch-with-13-day-battery-and-amoled-display-launching-in-india-on-23-january-check-confirmed-features-and-specs-11768709645791.html
 
-- IT sector Q3 results review: What TCS, Infosys, Wipro, Tech Mahindra earnings signal?
-  Indian IT services firms report Q3 earnings that exceed expectations. Experts believe a measured recovery is in sight, despite ongoing global challenges.
-  🔗 https://www.livemint.com/market/stock-market-news/it-sector-q3-results-review-what-tcs-infosys-wipro-tech-mahindra-earnings-signal-11768645069543.html
+- Republic Day Sale 2026: Top iPhone deals on Flipkart, Amazon, and Vijay Sales – check prices here
+  Republic Day sales have started on major e-commerce sites with discounts on various iPhone models, including iPhone 17, iPhone 17 Pro, and
+  🔗 https://www.livemint.com/technology/tech-news/republic-day-sale-2026-top-iphone-deals-on-flipkart-amazon-and-vijay-sales-check-prices-here-11768697981004.html
 
-- UCO Bank Q3 results: Kolkata-based lender's net profit rises 15.8% to  ₹739.5 crore. Details here
-  UCO Bank reported a 15.76% increase in net profit for Q4
-  🔗 https://www.livemint.com/market/stock-market-news/uco-bank-q3-results-kolkata-based-lenders-net-profit-rises-15-8-to-rs-739-5-crore-details-here-11768646811489.html
+- Vijay Sales Republic Day Sale live: iPhone 17 prices slashed. Check complete deal
+  Vijay Sales has launched its Republic Day sale where the company if offering a various offers on the iPhone 17. The flagship Apple product
+  🔗 https://www.livemint.com/technology/tech-news/vijay-sales-republic-day-sale-apple-iphone-17-gets-a-big-discount-check-complete-deal-here-11768697099013.html
 
 - The Effort to Stop AI Nudes Is Missing a Deterrent
   Users on X were asking the platform’s AI chatbot, Grok, to turn photos of celebrities and non-public figures into sexualized images. The majority of this content targets women, and it causes reputational damage
@@ -88,157 +100,153 @@
   The Amazon Great Republic Day Sale 2026 is live, bringing strong deals on smartwatches under  ₹10,000
   🔗 https://www.livemint.com/technology/gadgets/amazon-great-republic-day-sale-2026-best-smartwatches-under-rs-10-000-to-grab-11768474280416.html
 
-- Elon Musk's xAI is hiring native Hindi and Bengali speakers to train Grok AI: Here's how to apply
-   xAI seeks native speakers of Bengali and Hindi to improve its Grok AI chatbot. This hiring effort aligns with a trend of AI companies entering the Indian market.
-  🔗 https://www.livemint.com/technology/tech-news/elon-musks-xai-is-hiring-native-hindi-and-bengali-speakers-to-train-grok-ai-heres-how-to-apply-11768647745237.html
+- Stock Market News, Jan. 16, 2026: Trump Suggests Hassett Might Not Be Named Fed Chair - The Wall Street Journal
+  The Wall Street Journal reports that Hassett might not be named Fed Chair.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPU2VqQzYxSk91d3AxbjRZMWs1MkwxLWhpRkRsSzE2ZWJqb2dNemlpMzU5SXRidkpaNEtJMGo3SHl0TlB1U0oyTlIwMWNaS3lZUFoybE50RFg4MFhBamtyYy02MDRQM3dpaHhzV1NMWkFnQ2thT3FQQi1acG9CT0lWbWlWVGlOYmM?oc=5
 
-- Elon Musk’s X is offering  ₹9 crore prize for best long-form article: Eligibility, rules and deadline
-  Elon Musk's X is launching a contest offering $1 million for the top article on the platform. Users need to
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-s-x-is-offering-rs-9-crore-prize-for-best-long-form-article-eligibility-rules-and-deadline-11768642682262.html
+- Stock markets open on Sunday for Budget 2026: BSE, NSE say it'll be a regular trading session on February... - Moneycontrol
+  Stock markets open on Sunday for Budget 2026. BSE, NSE say it
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNelhIVTZSb2ozV0tUYUhiVFlZNlpKX0RoTl9ibVdhQUY4WFNIVzhKQVl3S294dlJXbXA2OXloYmFaOXN0Nk5ZS3dYV2ptRWsyRndTd0hnRjNqMzM2S3VFRVVKXzFrNG9OeE54ckpvZXEwdzhoWTAzeVEzZ24teGZBYmN4NmdMTTFfOExKWHVyS3IycTduWVV5ZVFkSzFqbTRsWUFmWDl0ZGtQcmpjX19MejdHTVJWUnlVQUNZbFU4N2I3YUNyc0RyaFFQdEc5dXJnN2dtMXRjTXIzaFlldDE1RVE3OUZxUmRHMjhsM2hPZy1LUVdHdUN2atIB_gFBVV95cUxQaFpNV2l4OTVjdDVEajVMOV9MN0FxZjF2d0hxUzJXc1U3V09EcXRXbmpab0ZDUEpYWk0ya3VUeFd0eFhkWk4wZDJYbURZWmwySVlWbWdPY2xMd2NJSmRYNFgyVjc2WEdzUFZvODMxa1RCVTZVYzFuOS1HX1RuUmtZOWlwQmkxOXQ0RExVTnhnWV81SlhlVlhrc1NqMDZVMXNvdEZIUUJYeWh1UDAxYTgzNU9tOXZpc2VRVUhhZjZPMzdOVG83cVh0Sk91QVBjOWc3R2VwN1BTZmk5RmYtREpvSmFlVmUtdXlhUHZscnVwUkJiQlZQZ3YtSWUxb1Jidw?oc=5
 
-- Elon Musk vs OpenAI and Microsoft battle heats up as billionaire demands up to $134 billion in damages
-  Elon Musk is claiming $79 billion to $134 billion in damages from OpenAI and Microsoft. The billionaire argues he deserves a portion of OpenAI's $500 billion valuation due to his initial investment of
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-vs-openai-and-microsoft-battle-heats-up-as-billionaire-demands-up-to-134-billion-in-damages-11768633408465.html
+- Top picks: 3 stocks to buy this week that can give returns of up to 19% in short term. Do you own any? - The Economic Times
+  The Economic Times picks three stocks to buy this week that can give returns of up to 19% in short term.
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxOeC0zdVl6Y2hzOHpKLVVCOW5OQzhyNXpKWDNfbjB0Um9IbFBxaFc4M3VlYktYTjAycVk3N1hGbFd2YXUzSWVEYjc5YVlGM05OdXBnN2tUQzVERU9CNVpPTEk3amEyMWZwN25zZ1I5TEc2TTByeTlUX2VvUXBrOE0wNG1PVkJtR2gzUnVFX3otRjdWZjF5RW5ZS0lYQzAyUFZuZ2I4Rk40M1cwaG9yTHpaa0kzZy1xRnZ2YWJIdFo4NXVHZ3M3WkJVRHJRV0pDRm0wNHZFeUtKaWI0NDltQ2JyWVZ4U2hCSEk3aS1FZlZ2a3VhY2Ffdm9XbHhDLTd0QUJrUndJOEZPU2Z0QURrY1E?oc=5
 
 - S&P 500 closes little changed Friday, posts weekly loss amid raft of Trump comments: Live updates - CNBC
   S&amp;P 500 closes little changed Friday, posts weekly loss
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9pMDdPUGpGQThZN2Vpa3hzYUVDREZ1R01wa25KdnpGcU9OVXV6RGhjODgwUllURHV6eEhpRHpFVnNxY2pEVHp0UnBtZWM2UlR5TUhHZWtXUDB3RWM5QkVpRlBITnkxcU1WZFRRMk5zTkktajlNQ2M40gF8QVVfeXFMTU9Bb3p1dUhwZGhuR1FmaGJoSWxoenoxaE9DbGNTZTVYLW9GWGZGUWZFUXNtUUtrdjlmanN1X3FEb1RRZmRmdWVCenlTQ2laa2FUY0Zta2xmQlFpSDNQUTIwdE83Rm9USnBTbXBFTnlTc0tZV0EtTU5lUDMwSA?oc=5
 
-- Stock Market News, Jan. 16, 2026: Trump Suggests Hassett Might Not Be Named Fed Chair - The Wall Street Journal
-  The Wall Street Journal reports that Hassett might not be named Fed Chair.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPU2VqQzYxSk91d3AxbjRZMWs1MkwxLWhpRkRsSzE2ZWJqb2dNemlpMzU5SXRidkpaNEtJMGo3SHl0TlB1U0oyTlIwMWNaS3lZUFoybE50RFg4MFhBamtyYy02MDRQM3dpaHhzV1NMWkFnQ2thT3FQQi1acG9CT0lWbWlWVGlOYmM?oc=5
-
 - Weekly Market Wrap: SENSEX, NIFTY50 end flat for the week, broader markets shine; ONGC and Tech Mahindra lead gains - Upstox
   The SENSEX, NIFTY50 end flat for the week. ONGC
   🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxONFktTElBT2FfT2lhZU9VZUd5WHpSYjZKRXp5SlJEdEtOLVhUcUdueUdmNkV0bXdYSUhkeVNGdm14enkxaWdOdWttTHIzQUhWV25SaXpwOUg0YkY5N3ZVU0pXTzh0Z200eUk3aV95NGEzek1oS2hTNU1sSHpRUzV3dk9UUFA5cWtQVHh2TTN4d09xMXA5WklqcS1mMUZzeGdULS1MSm5GUmdBRmxVQzV2MGV6ZlgtOGJMUGJfRWJSQmpqTXNMMmdxcnAxOV9Pcm5ZUy1jQV8tMVc2SzNxeFhnS2dlV2dEY1p5QTBQZFQyLVR3bjRZeHZvWGhPQTh2YnhXLUtaY0lINGd0MllNYXc?oc=5
 
-- Closing Bell: Sensex settles 550 points lower from day's high; Nifty ends below 25,700; metals, FMCG drag - Moneycontrol
-  Nifty ends below 25,700; metals, FMCG drag.
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxONTVnWmgtbjB3Rmp3Z3pYWmYzZzgxMlUtcmwwNk1YLTl3eFpoLWYyOFR2QXNPMHhPOF9HRnRaYWkzZ2VJSExQUGZaS3JJcW9SNGVOWnFYREV6N0NtLTBZRTJyV2VMalBfV2VUTWdHdUhKaHJMSjc4ckVzand3eDhVbmdsdk55a09xTGd1M1dFQUY4NzFyazZRdE1nREV3eXNBTWZZQUQzc2ltenI3Rjhrell6ZEswNlM1ZEJ2eUhuSVdqUHJLSUsxMFRBeE1rVnM5by1FWmVvaFRfbWFwOXhWdXFfSjE1UnZxcy1SRGstaFplZ0xn?oc=5
+- FII shorts highest since March 2025. How to trade Nifty now
+  Rising FII short positions in index futures and a near-record low long–short ratio point to heightened volatility in the January series. Market focus remains on key Nifty levels, PSU banks, metals and select
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fii-shorts-highest-since-march-2025-how-to-trade-nifty-now/articleshow/126637853.cms
 
-- Markets rebound amid strong Q3 performance - The Hans India
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNaWJrbzVWUXZHU096eFVNUmxWcXNscEFaNVgwY0RpSmVjMkJUdWxQOXZjYXJNLTM2ZXEtLXhkc1Q0a0V4aG56RGYtLVVhX2hCeDJVVVV4LUl6SUFEbXl5MnVfQlBpSTZVOFU1akZyX1FnaG5ueVVFT1ctQURXYzJnVWlsZ25zakZnanl2VS1hMk1XUdIBlwFBVV95cUxQcW5vS3dIcldnWGVEVzVzRkJxQ1N1MkRpbjZOUnZLS1dUdU5CQTA2czZvNDBMbEdlR2lNTDNPSXZ6UHdzWElYTEM1b0RKNTh6Nk1TRGhUQzJoeTJrdS1SemZMczNES3VLQ1FWVHBibUgzcXJvWTRoQzJKbU42WXV1V0xzcVRhWDdIVzFHVnpEajd3ZHNuVzIw?oc=5
+- HDFC Securities’ top 7 technical picks for 2026. How many in your portfolio?
+  HDFC Securities has identified seven technically strong stocks for accumulation across small-, mid- and large-cap segments. These picks are based on technical indicators, defined buying ranges, targets and stop-loss levels.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-securities-top-7-technical-picks-for-2026-how-many-in-your-portfolio/slideshow/126637713.cms
 
-- SIP stocks! HDFC Securities names 10 companies to accumulate in 2026. Check details
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sip-stocks-hdfc-securities-names-10-companies-to-accumulate-in-2026-check-details/slideshow/126613282.cms
+- Punjab &amp; Sind Bank Q3 profit surges 19% YoY
+  State-run Punjab &amp; Sind Bank reported a 19% increase in net profit to ₹336 crore in the December quarter. The Delhi-headquartered bank
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/punjab-sind-bank-q3-profit-surges-19-yoy/articleshow/126637217.cms
 
-- Rs 2.5 lakh crore IPO boom in 2026 could create ‘liquidity drain’, says HDFC Securities; pegs Nifty at 28,720
-  HDFC Securities sees policy support, domestic liquidity, easing global risks and valuation corrections driving a potential Goldilocks recovery. Indian markets enter 2026 balancing growth optimism with risks from
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rs-2-5-lakh-crore-ipo-boom-in-2026-could-create-liquidity-drain-says-hdfc-securities-pegs-nifty-at-28720/articleshow/126613059.cms
+- Digilogic Systems IPO set to open on Jan 20 with price band at Rs 98 - Rs 104
+  Digilogic Systems Limited, a city-based automated test equipment systems and application software provider to the defence and aerospace sector, announced that its Initial
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/digilogic-systems-ipo-set-to-open-on-jan-20-with-price-band-at-rs-98-rs-104/articleshow/126637158.cms
 
-- FIIs dump Rs 22,530 crore worth of domestic shares in first fortnight of January
-  Foreign institutional investors sold Rs 22,530 crore of Indian equities in early January. Analysts cite tariff uncertainties, geopolitical risks, high valuations.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-rs-22530-crore-worth-of-domestic-shares-in-first-fortnight-of-january/articleshow/126612976.cms
+- 12 penny stocks rally up to 589% in FY26 so far; 6 turn multibaggers. Do you own any?
+  So far in FY26, 12 penny stocks have delivered sharp gains, with returns ranging from 40% to 589%, including six multibaggers.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/12-penny-stocks-rally-up-to-589-in-fy26-so-far-6-turn-multibaggers-do-you-own-any/slideshow/126637121.cms
 
-- Nifty consolidates below 25,900 as markets await decisive trigger
-  Indian markets consolidated in a narrow range during the truncated week. The index remains below its recent high, awaiting a decisive catalyst. Traders are advised to be cautious and focus on
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-consolidates-below-25900-as-markets-await-decisive-trigger/articleshow/126611826.cms
-
-- Crypto market steady at $3.22 trillion as Bitcoin consolidates near $95,300
-  Crypto markets stayed stable in mid-January with total capitalization at $3.22 trillion. Bitcoin consolidated near $95,000, while select altcoins gained.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-market-steady-at-3-22-trillion-as-bitcoin-consolidates-near-95300/articleshow/126611537.cms
-
-- "No Internet, Dangerous Protests": First Flights From Iran Land In Delhi - NDTV
-  "No Internet, Dangerous Protests": First
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXVyNENqT0xsWnJxS3V6TTJUdnlnRWRhV29rQndZSzNmMDJkajJYTk5UUTFpcDByTTh3WmhBc29RRmZuWVRqSExoazB1ZDd2MHVMdko3NjlwaXBEdVpWZHdMQ0s5VlktbTZRbXBhUk0wclJVdkVFeE5mc2JfUUhDZ1BhcGVFTkVBTjh1bzU4TDBWcjIxTmhkeVY1aHB4NjRkX3ZvdEcwTTJqMnVBRlh1T3dYVVFuQzFNSkx0X2tqQUh5anZnZUQ0YnhxV2rSAdQBQVVfeXFMT09OTUh0bmplRFNjWUJiT0lNUXdJV3JZeTNrSFdoVUJ0SmZ5dWFESmMxMDFIeldGQzlpRVVxTkg4S25WQ0pkN0pXeThZNF9TYWowbXFhM1RGUjI1a2tsQmhlcUV6emZTQUJJUUJwMy1WUjZWS3RGeDBvRlVranR1dHVYdG9na3pBaUNDYXNBMEJEM3V4WnV6WVhRSjA5RVI0MU1QTE5ZSFFUbkpJcVJlRUFmZ3M0TXlwcXB1Z2oxX25YcVhtZVlNbXBMOTI5bkh5UHNNV0c?oc=5
+- India Brings Money To America, Not Pakistan: US Lawmaker On New Delhi Ties - NDTV
+  India Brings Money To America, Not Pakistan: US
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbExmaWFDcUVaMWVySDhBZHNxSEdoTUZENHZjR0lxTEd3Z1VfV21YYWpCcl93Uy0tLWdUbzk3ZkdvZEJ5d1VVQmpPcEVjaVNkQ2txZVc3LU1uWVZtX3pyM2hVQk1GQUl3cUR3bTlJRXlvSFQ4a2lGdG9yeTdvSmVXWmFaODR5THU0dzA3djllUFZZbDdvZm82RkFqYXFwRmZzWlNRdExlWldFLXZVT0pyNzBxTdIBuwFBVV95cUxQV2Y5SzhQYzdyYVJBbXgxV2tKSmNVTXhoaFBCQ1dxLVA5bnMzOGphX0ZiOVlOWHRNc2RJV2djOU9wVzJFVjBGdXpZS2RPRGc5dWhDaTZCVjBKXzhkalpjVi1SZFY5SlZxOUl6VFpXMDRRVVdPMUx6NXY5SkhPbHlvZ3dyUUNndjdnRjhQZG5mbWxrOUZHUE84RmNiUzJIb1oxZGdzX1pBNFQtZHVKalFDYmNVQmUzN1ZKbEU0?oc=5
 
 - Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India-Pakistan conflict - The Hindu
   Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
 
-- Indian Students Stranded Amid Iran’s Internet Blackout, Unrest - Times of India
-  Indian Students Stranded Amid Iran’
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGMtTWRsNXdZdTVLWjYyVjhGay1jMjdPOHh2NUowclB5ZFBDa2F1TGNGVG1OWTlRY2hacFdMcTVYMnc4TGtyb3hickRidlJxcHFJbXNMd3o2OXktWTc5SmRBUWVaSWdOdEp2YXgtbWNtc1JwQ2M3azV0Mm9GcEprX0s3bWwxVVNBYzc1RFR3VjdnVzlwY1lGR2RjRDBZSGNzU0dXRktUOEp1SUM4a1Jfc09COHhZc2diOF8wVTRpemVzTGFHX0R4OWZocWZSd9IB0wFBVV95cUxObHU4RG9lSzR0aHJyQUx1ZUVOUVRkMThGdktNbDN4VDl0akJLNlA2amlsWUpmUHN6Zk9DblQ2ZXcyTUFiSDhyZWlwdk9jZ2R5Qk5KbnVzdFRNX01xVGt5eGdFd0I0Sm1MMS1COThidDVrTzF5LWxrbHROWjJFTldHdnRMNGdfcEdXaENVbzU0SlBSQ1pRcjMxeUl2QXo3T1pnT2ppdlRHSldkN1F3N2ZoRDdKa1pBamduY1BYVDY4Q2haNjdKUmdoZTQ1WWhUSFk5d0Vv?oc=5
+- Union Budget 2026: What Is The Economic Survey And Why It Is Important - NDTV
+  " target="_blank">Union Budget 2026
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWTdGTU56ZkdkZXFJZWpaam1hYnhHU3doR3Q3eUxDeXRJS3NMSHlSbnUxeHRRRVJ4ejRLOWt4bVR0bDh5c093YUhNb3NCMVk0WXBsZ25Kd0M0U1F1dFNYWnZFWExDZjktUTlIX2xjXzRiYWw0bGhId3E4Rmo0cUR0Y2hhbTkyZjJTTjhDanRrclpMNUs2RllPQmowb3RrMjBwS0pfMEloQnkydjFqc0FmX2x1R3o5RFZwWUNpQWRiZVNZR0Y0dzAtNEo1U18tLXFVb3ZpenIxU1N1UXBJ0gHkAUFVX3lxTFA1RTJ0emszc25qWkIxOWJDR3F3WXpNYlgzWUVLbmxRZzRiS240c3JhcDdPeHcwTVo4ak12U2NjUlowVlp1MTNVWUEzSnZ3aHFDWU1OTWVKMG5ya0tQVU5yODROTHJDNjJWTnRtckJ4UjloVkN6YXBzdUNMVHBzcjVMUDVoWDNEdTBKSDlGYmtBYlprTFgtcWdGTDlLTjRfNDFRQ2pWVm0waUhwZ3pNU0xzUjVWVkc4YVRvdjNxN3dTYk5jQjNjcVBZZEhkR2gwbHQ3Z2NMZXdKUktrRmxVdDJsYTJMVQ?oc=5
 
-- Exports brave US tariffs, global churn to log rise | India News - Hindustan Times
-  "Exports brave US tariffs, global churn
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzBNdGlsVEdyTzgtNlhuTjE5OVpLM1pOZFYzdmE3XzhrenBJdll0cHRGQ2lsVVo5TmtWdlAtTWNuaklVandxOVJzSXdOcFc1RUREcVhDTDdKSC15UmV1ZDdYcmx1UWtyNkFNNm9IbmtneEptcUVGblp4MXBuNWNtOEdIRG50LTVJWTRuSWZuZWVuN1pIN0RaemlUN3pLWF9KNkpJMnJucjZoNGE4eGZoNXFB0gG3AUFVX3lxTFAxaXFFaG1nSlFjSHk5RjJSS1BWN1NCWGFmakxVdkdiWF9fenRwUkRHRV8taXJOcm43VUtQUmNWcGV3M0J6d1VUZXoxSlh5NTQ1aGlHVVp3OUNLcmo0cHhyczkzc3JnUGZLYXprWU1YV1NMb3Z5Q2U2MGs5NnhVMVdiRV9tXzZJUjk0MWxGdDNYN1dxN2llWGJXSHhnVFZUR0dpSTN0WDFmZWFqMDQzNkhuU3NmX181cw?oc=5
+- India defends decision to skip Brics naval drill - Times of India
+  India defends decision to skip Brics naval
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
 
-- Uttarakhand awarded ‘Leader’ status in Startup India Ranking - The Indian Express
-  Uttarakhand awarded ‘Leader
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPb1NmSnBRSzlJY0x4OVZTNFRuSjFTSWMxY3B1QkFHdXFXRlNiX0VDOFM1bDRJV09xbmFHYnNxWlRRUld1VnJGOGxDTVBYVGVRb0xoT0x4R0N1ZDBCQjF3dEsyd2ZTcGxWYVJROF9VUWVvOVFxRUlvX3l1MkF3Wk9pTWM3c3E5UnV2bzdueTdMVEh1OHRXM1pkcHU4dnBfeGY1T3ZGa2c5RS1EcDNQ0gGzAUFVX3lxTE9peVpwWkRfazRsc1l6ZXdXZ3NpdVl4UU5fUk1mSGFGdHA4RGhZdWFKcXl3Wkg4MUxNU3BELXJYMFNNaWJKN1pGTHNTYmNtUkZzcVpCakFmSTIzdkE4TlJtLUNidl9DUjQ4YVg4TjFJNHBmeTBGQXhvLWJqam5kekpoaTY4VkRJeUEzRjZXY0N6QmJOTVNESWJqYjJtd2NOR2lEMXR3bDJXOWYwVVluTXp4TDU4?oc=5
+- India name white-ball squads for Australia tour - ICC
+  India name white-ball
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQTk9VM0lvbFIxamdPUk9Sb0gtbVdCQTg3OG8yNV9pVDcyZ2tTZG5Vbldjc2YxSDlMNFVTX1hOU3NKZmxMd1ZrcDhKVkh1c0RTU1doSi10TjNfZ0E1anZlT0J2M0tna2N2bEI2ejhPUEhENXNxVXQyNG1QVUVpWnVpTUNILXVSOFk?oc=5
 
-- "No Internet, Dangerous Protests": First Flights From Iran Land In Delhi - NDTV
-  "No Internet, Dangerous Protests": First
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXVyNENqT0xsWnJxS3V6TTJUdnlnRWRhV29rQndZSzNmMDJkajJYTk5UUTFpcDByTTh3WmhBc29RRmZuWVRqSExoazB1ZDd2MHVMdko3NjlwaXBEdVpWZHdMQ0s5VlktbTZRbXBhUk0wclJVdkVFeE5mc2JfUUhDZ1BhcGVFTkVBTjh1bzU4TDBWcjIxTmhkeVY1aHB4NjRkX3ZvdEcwTTJqMnVBRlh1T3dYVVFuQzFNSkx0X2tqQUh5anZnZUQ0YnhxV2rSAdQBQVVfeXFMT09OTUh0bmplRFNjWUJiT0lNUXdJV3JZeTNrSFdoVUJ0SmZ5dWFESmMxMDFIeldGQzlpRVVxTkg4S25WQ0pkN0pXeThZNF9TYWowbXFhM1RGUjI1a2tsQmhlcUV6emZTQUJJUUJwMy1WUjZWS3RGeDBvRlVranR1dHVYdG9na3pBaUNDYXNBMEJEM3V4WnV6WVhRSjA5RVI0MU1QTE5ZSFFUbkpJcVJlRUFmZ3M0TXlwcXB1Z2oxX25YcVhtZVlNbXBMOTI5bkh5UHNNV0c?oc=5
-
-- Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India-Pakistan conflict - The Hindu
-  Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
-
-- Indian Students Stranded Amid Iran’s Internet Blackout, Unrest - Times of India
-  Indian Students Stranded Amid Iran’
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGMtTWRsNXdZdTVLWjYyVjhGay1jMjdPOHh2NUowclB5ZFBDa2F1TGNGVG1OWTlRY2hacFdMcTVYMnc4TGtyb3hickRidlJxcHFJbXNMd3o2OXktWTc5SmRBUWVaSWdOdEp2YXgtbWNtc1JwQ2M3azV0Mm9GcEprX0s3bWwxVVNBYzc1RFR3VjdnVzlwY1lGR2RjRDBZSGNzU0dXRktUOEp1SUM4a1Jfc09COHhZc2diOF8wVTRpemVzTGFHX0R4OWZocWZSd9IB0wFBVV95cUxObHU4RG9lSzR0aHJyQUx1ZUVOUVRkMThGdktNbDN4VDl0akJLNlA2amlsWUpmUHN6Zk9DblQ2ZXcyTUFiSDhyZWlwdk9jZ2R5Qk5KbnVzdFRNX01xVGt5eGdFd0I0Sm1MMS1COThidDVrTzF5LWxrbHROWjJFTldHdnRMNGdfcEdXaENVbzU0SlBSQ1pRcjMxeUl2QXo3T1pnT2ppdlRHSldkN1F3N2ZoRDdKa1pBamduY1BYVDY4Q2haNjdKUmdoZTQ1WWhUSFk5d0Vv?oc=5
-
-- Exports brave US tariffs, global churn to log rise | India News - Hindustan Times
-  "Exports brave US tariffs, global churn
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzBNdGlsVEdyTzgtNlhuTjE5OVpLM1pOZFYzdmE3XzhrenBJdll0cHRGQ2lsVVo5TmtWdlAtTWNuaklVandxOVJzSXdOcFc1RUREcVhDTDdKSC15UmV1ZDdYcmx1UWtyNkFNNm9IbmtneEptcUVGblp4MXBuNWNtOEdIRG50LTVJWTRuSWZuZWVuN1pIN0RaemlUN3pLWF9KNkpJMnJucjZoNGE4eGZoNXFB0gG3AUFVX3lxTFAxaXFFaG1nSlFjSHk5RjJSS1BWN1NCWGFmakxVdkdiWF9fenRwUkRHRV8taXJOcm43VUtQUmNWcGV3M0J6d1VUZXoxSlh5NTQ1aGlHVVp3OUNLcmo0cHhyczkzc3JnUGZLYXprWU1YV1NMb3Z5Q2U2MGs5NnhVMVdiRV9tXzZJUjk0MWxGdDNYN1dxN2llWGJXSHhnVFZUR0dpSTN0WDFmZWFqMDQzNkhuU3NmX181cw?oc=5
-
-- Uttarakhand awarded ‘Leader’ status in Startup India Ranking - The Indian Express
-  Uttarakhand awarded ‘Leader
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPb1NmSnBRSzlJY0x4OVZTNFRuSjFTSWMxY3B1QkFHdXFXRlNiX0VDOFM1bDRJV09xbmFHYnNxWlRRUld1VnJGOGxDTVBYVGVRb0xoT0x4R0N1ZDBCQjF3dEsyd2ZTcGxWYVJROF9VUWVvOVFxRUlvX3l1MkF3Wk9pTWM3c3E5UnV2bzdueTdMVEh1OHRXM1pkcHU4dnBfeGY1T3ZGa2c5RS1EcDNQ0gGzAUFVX3lxTE9peVpwWkRfazRsc1l6ZXdXZ3NpdVl4UU5fUk1mSGFGdHA4RGhZdWFKcXl3Wkg4MUxNU3BELXJYMFNNaWJKN1pGTHNTYmNtUkZzcVpCakFmSTIzdkE4TlJtLUNidl9DUjQ4YVg4TjFJNHBmeTBGQXhvLWJqam5kekpoaTY4VkRJeUEzRjZXY0N6QmJOTVNESWJqYjJtd2NOR2lEMXR3bDJXOWYwVVluTXp4TDU4?oc=5
-
-- "No Internet, Dangerous Protests": First Flights From Iran Land In Delhi - NDTV
-  "No Internet, Dangerous Protests": First
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXVyNENqT0xsWnJxS3V6TTJUdnlnRWRhV29rQndZSzNmMDJkajJYTk5UUTFpcDByTTh3WmhBc29RRmZuWVRqSExoazB1ZDd2MHVMdko3NjlwaXBEdVpWZHdMQ0s5VlktbTZRbXBhUk0wclJVdkVFeE5mc2JfUUhDZ1BhcGVFTkVBTjh1bzU4TDBWcjIxTmhkeVY1aHB4NjRkX3ZvdEcwTTJqMnVBRlh1T3dYVVFuQzFNSkx0X2tqQUh5anZnZUQ0YnhxV2rSAdQBQVVfeXFMT09OTUh0bmplRFNjWUJiT0lNUXdJV3JZeTNrSFdoVUJ0SmZ5dWFESmMxMDFIeldGQzlpRVVxTkg4S25WQ0pkN0pXeThZNF9TYWowbXFhM1RGUjI1a2tsQmhlcUV6emZTQUJJUUJwMy1WUjZWS3RGeDBvRlVranR1dHVYdG9na3pBaUNDYXNBMEJEM3V4WnV6WVhRSjA5RVI0MU1QTE5ZSFFUbkpJcVJlRUFmZ3M0TXlwcXB1Z2oxX25YcVhtZVlNbXBMOTI5bkh5UHNNV0c?oc=5
+- India Brings Money To America, Not Pakistan: US Lawmaker On New Delhi Ties - NDTV
+  India Brings Money To America, Not Pakistan: US
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbExmaWFDcUVaMWVySDhBZHNxSEdoTUZENHZjR0lxTEd3Z1VfV21YYWpCcl93Uy0tLWdUbzk3ZkdvZEJ5d1VVQmpPcEVjaVNkQ2txZVc3LU1uWVZtX3pyM2hVQk1GQUl3cUR3bTlJRXlvSFQ4a2lGdG9yeTdvSmVXWmFaODR5THU0dzA3djllUFZZbDdvZm82RkFqYXFwRmZzWlNRdExlWldFLXZVT0pyNzBxTdIBuwFBVV95cUxQV2Y5SzhQYzdyYVJBbXgxV2tKSmNVTXhoaFBCQ1dxLVA5bnMzOGphX0ZiOVlOWHRNc2RJV2djOU9wVzJFVjBGdXpZS2RPRGc5dWhDaTZCVjBKXzhkalpjVi1SZFY5SlZxOUl6VFpXMDRRVVdPMUx6NXY5SkhPbHlvZ3dyUUNndjdnRjhQZG5mbWxrOUZHUE84RmNiUzJIb1oxZGdzX1pBNFQtZHVKalFDYmNVQmUzN1ZKbEU0?oc=5
 
 - Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India-Pakistan conflict - The Hindu
   Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
 
-- Indian Students Stranded Amid Iran’s Internet Blackout, Unrest - Times of India
-  Indian Students Stranded Amid Iran’
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGMtTWRsNXdZdTVLWjYyVjhGay1jMjdPOHh2NUowclB5ZFBDa2F1TGNGVG1OWTlRY2hacFdMcTVYMnc4TGtyb3hickRidlJxcHFJbXNMd3o2OXktWTc5SmRBUWVaSWdOdEp2YXgtbWNtc1JwQ2M3azV0Mm9GcEprX0s3bWwxVVNBYzc1RFR3VjdnVzlwY1lGR2RjRDBZSGNzU0dXRktUOEp1SUM4a1Jfc09COHhZc2diOF8wVTRpemVzTGFHX0R4OWZocWZSd9IB0wFBVV95cUxObHU4RG9lSzR0aHJyQUx1ZUVOUVRkMThGdktNbDN4VDl0akJLNlA2amlsWUpmUHN6Zk9DblQ2ZXcyTUFiSDhyZWlwdk9jZ2R5Qk5KbnVzdFRNX01xVGt5eGdFd0I0Sm1MMS1COThidDVrTzF5LWxrbHROWjJFTldHdnRMNGdfcEdXaENVbzU0SlBSQ1pRcjMxeUl2QXo3T1pnT2ppdlRHSldkN1F3N2ZoRDdKa1pBamduY1BYVDY4Q2haNjdKUmdoZTQ1WWhUSFk5d0Vv?oc=5
+- Union Budget 2026: What Is The Economic Survey And Why It Is Important - NDTV
+  " target="_blank">Union Budget 2026
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWTdGTU56ZkdkZXFJZWpaam1hYnhHU3doR3Q3eUxDeXRJS3NMSHlSbnUxeHRRRVJ4ejRLOWt4bVR0bDh5c093YUhNb3NCMVk0WXBsZ25Kd0M0U1F1dFNYWnZFWExDZjktUTlIX2xjXzRiYWw0bGhId3E4Rmo0cUR0Y2hhbTkyZjJTTjhDanRrclpMNUs2RllPQmowb3RrMjBwS0pfMEloQnkydjFqc0FmX2x1R3o5RFZwWUNpQWRiZVNZR0Y0dzAtNEo1U18tLXFVb3ZpenIxU1N1UXBJ0gHkAUFVX3lxTFA1RTJ0emszc25qWkIxOWJDR3F3WXpNYlgzWUVLbmxRZzRiS240c3JhcDdPeHcwTVo4ak12U2NjUlowVlp1MTNVWUEzSnZ3aHFDWU1OTWVKMG5ya0tQVU5yODROTHJDNjJWTnRtckJ4UjloVkN6YXBzdUNMVHBzcjVMUDVoWDNEdTBKSDlGYmtBYlprTFgtcWdGTDlLTjRfNDFRQ2pWVm0waUhwZ3pNU0xzUjVWVkc4YVRvdjNxN3dTYk5jQjNjcVBZZEhkR2gwbHQ3Z2NMZXdKUktrRmxVdDJsYTJMVQ?oc=5
 
-- Exports brave US tariffs, global churn to log rise | India News - Hindustan Times
-  "Exports brave US tariffs, global churn
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzBNdGlsVEdyTzgtNlhuTjE5OVpLM1pOZFYzdmE3XzhrenBJdll0cHRGQ2lsVVo5TmtWdlAtTWNuaklVandxOVJzSXdOcFc1RUREcVhDTDdKSC15UmV1ZDdYcmx1UWtyNkFNNm9IbmtneEptcUVGblp4MXBuNWNtOEdIRG50LTVJWTRuSWZuZWVuN1pIN0RaemlUN3pLWF9KNkpJMnJucjZoNGE4eGZoNXFB0gG3AUFVX3lxTFAxaXFFaG1nSlFjSHk5RjJSS1BWN1NCWGFmakxVdkdiWF9fenRwUkRHRV8taXJOcm43VUtQUmNWcGV3M0J6d1VUZXoxSlh5NTQ1aGlHVVp3OUNLcmo0cHhyczkzc3JnUGZLYXprWU1YV1NMb3Z5Q2U2MGs5NnhVMVdiRV9tXzZJUjk0MWxGdDNYN1dxN2llWGJXSHhnVFZUR0dpSTN0WDFmZWFqMDQzNkhuU3NmX181cw?oc=5
+- India defends decision to skip Brics naval drill - Times of India
+  India defends decision to skip Brics naval
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
 
-- Uttarakhand awarded ‘Leader’ status in Startup India Ranking - The Indian Express
-  Uttarakhand awarded ‘Leader
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPb1NmSnBRSzlJY0x4OVZTNFRuSjFTSWMxY3B1QkFHdXFXRlNiX0VDOFM1bDRJV09xbmFHYnNxWlRRUld1VnJGOGxDTVBYVGVRb0xoT0x4R0N1ZDBCQjF3dEsyd2ZTcGxWYVJROF9VUWVvOVFxRUlvX3l1MkF3Wk9pTWM3c3E5UnV2bzdueTdMVEh1OHRXM1pkcHU4dnBfeGY1T3ZGa2c5RS1EcDNQ0gGzAUFVX3lxTE9peVpwWkRfazRsc1l6ZXdXZ3NpdVl4UU5fUk1mSGFGdHA4RGhZdWFKcXl3Wkg4MUxNU3BELXJYMFNNaWJKN1pGTHNTYmNtUkZzcVpCakFmSTIzdkE4TlJtLUNidl9DUjQ4YVg4TjFJNHBmeTBGQXhvLWJqam5kekpoaTY4VkRJeUEzRjZXY0N6QmJOTVNESWJqYjJtd2NOR2lEMXR3bDJXOWYwVVluTXp4TDU4?oc=5
+- India name white-ball squads for Australia tour - ICC
+  India name white-ball
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQTk9VM0lvbFIxamdPUk9Sb0gtbVdCQTg3OG8yNV9pVDcyZ2tTZG5Vbldjc2YxSDlMNFVTX1hOU3NKZmxMd1ZrcDhKVkh1c0RTU1doSi10TjNfZ0E1anZlT0J2M0tna2N2bEI2ejhPUEhENXNxVXQyNG1QVUVpWnVpTUNILXVSOFk?oc=5
 
-- "No Internet, Dangerous Protests": First Flights From Iran Land In Delhi - NDTV
-  "No Internet, Dangerous Protests": First
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXVyNENqT0xsWnJxS3V6TTJUdnlnRWRhV29rQndZSzNmMDJkajJYTk5UUTFpcDByTTh3WmhBc29RRmZuWVRqSExoazB1ZDd2MHVMdko3NjlwaXBEdVpWZHdMQ0s5VlktbTZRbXBhUk0wclJVdkVFeE5mc2JfUUhDZ1BhcGVFTkVBTjh1bzU4TDBWcjIxTmhkeVY1aHB4NjRkX3ZvdEcwTTJqMnVBRlh1T3dYVVFuQzFNSkx0X2tqQUh5anZnZUQ0YnhxV2rSAdQBQVVfeXFMT09OTUh0bmplRFNjWUJiT0lNUXdJV3JZeTNrSFdoVUJ0SmZ5dWFESmMxMDFIeldGQzlpRVVxTkg4S25WQ0pkN0pXeThZNF9TYWowbXFhM1RGUjI1a2tsQmhlcUV6emZTQUJJUUJwMy1WUjZWS3RGeDBvRlVranR1dHVYdG9na3pBaUNDYXNBMEJEM3V4WnV6WVhRSjA5RVI0MU1QTE5ZSFFUbkpJcVJlRUFmZ3M0TXlwcXB1Z2oxX25YcVhtZVlNbXBMOTI5bkh5UHNNV0c?oc=5
+- India Brings Money To America, Not Pakistan: US Lawmaker On New Delhi Ties - NDTV
+  India Brings Money To America, Not Pakistan: US
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbExmaWFDcUVaMWVySDhBZHNxSEdoTUZENHZjR0lxTEd3Z1VfV21YYWpCcl93Uy0tLWdUbzk3ZkdvZEJ5d1VVQmpPcEVjaVNkQ2txZVc3LU1uWVZtX3pyM2hVQk1GQUl3cUR3bTlJRXlvSFQ4a2lGdG9yeTdvSmVXWmFaODR5THU0dzA3djllUFZZbDdvZm82RkFqYXFwRmZzWlNRdExlWldFLXZVT0pyNzBxTdIBuwFBVV95cUxQV2Y5SzhQYzdyYVJBbXgxV2tKSmNVTXhoaFBCQ1dxLVA5bnMzOGphX0ZiOVlOWHRNc2RJV2djOU9wVzJFVjBGdXpZS2RPRGc5dWhDaTZCVjBKXzhkalpjVi1SZFY5SlZxOUl6VFpXMDRRVVdPMUx6NXY5SkhPbHlvZ3dyUUNndjdnRjhQZG5mbWxrOUZHUE84RmNiUzJIb1oxZGdzX1pBNFQtZHVKalFDYmNVQmUzN1ZKbEU0?oc=5
 
 - Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India-Pakistan conflict - The Hindu
   Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
 
-- Indian Students Stranded Amid Iran’s Internet Blackout, Unrest - Times of India
-  Indian Students Stranded Amid Iran’
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGMtTWRsNXdZdTVLWjYyVjhGay1jMjdPOHh2NUowclB5ZFBDa2F1TGNGVG1OWTlRY2hacFdMcTVYMnc4TGtyb3hickRidlJxcHFJbXNMd3o2OXktWTc5SmRBUWVaSWdOdEp2YXgtbWNtc1JwQ2M3azV0Mm9GcEprX0s3bWwxVVNBYzc1RFR3VjdnVzlwY1lGR2RjRDBZSGNzU0dXRktUOEp1SUM4a1Jfc09COHhZc2diOF8wVTRpemVzTGFHX0R4OWZocWZSd9IB0wFBVV95cUxObHU4RG9lSzR0aHJyQUx1ZUVOUVRkMThGdktNbDN4VDl0akJLNlA2amlsWUpmUHN6Zk9DblQ2ZXcyTUFiSDhyZWlwdk9jZ2R5Qk5KbnVzdFRNX01xVGt5eGdFd0I0Sm1MMS1COThidDVrTzF5LWxrbHROWjJFTldHdnRMNGdfcEdXaENVbzU0SlBSQ1pRcjMxeUl2QXo3T1pnT2ppdlRHSldkN1F3N2ZoRDdKa1pBamduY1BYVDY4Q2haNjdKUmdoZTQ1WWhUSFk5d0Vv?oc=5
+- Union Budget 2026: What Is The Economic Survey And Why It Is Important - NDTV
+  " target="_blank">Union Budget 2026
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWTdGTU56ZkdkZXFJZWpaam1hYnhHU3doR3Q3eUxDeXRJS3NMSHlSbnUxeHRRRVJ4ejRLOWt4bVR0bDh5c093YUhNb3NCMVk0WXBsZ25Kd0M0U1F1dFNYWnZFWExDZjktUTlIX2xjXzRiYWw0bGhId3E4Rmo0cUR0Y2hhbTkyZjJTTjhDanRrclpMNUs2RllPQmowb3RrMjBwS0pfMEloQnkydjFqc0FmX2x1R3o5RFZwWUNpQWRiZVNZR0Y0dzAtNEo1U18tLXFVb3ZpenIxU1N1UXBJ0gHkAUFVX3lxTFA1RTJ0emszc25qWkIxOWJDR3F3WXpNYlgzWUVLbmxRZzRiS240c3JhcDdPeHcwTVo4ak12U2NjUlowVlp1MTNVWUEzSnZ3aHFDWU1OTWVKMG5ya0tQVU5yODROTHJDNjJWTnRtckJ4UjloVkN6YXBzdUNMVHBzcjVMUDVoWDNEdTBKSDlGYmtBYlprTFgtcWdGTDlLTjRfNDFRQ2pWVm0waUhwZ3pNU0xzUjVWVkc4YVRvdjNxN3dTYk5jQjNjcVBZZEhkR2gwbHQ3Z2NMZXdKUktrRmxVdDJsYTJMVQ?oc=5
 
-- Exports brave US tariffs, global churn to log rise | India News - Hindustan Times
-  "Exports brave US tariffs, global churn
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzBNdGlsVEdyTzgtNlhuTjE5OVpLM1pOZFYzdmE3XzhrenBJdll0cHRGQ2lsVVo5TmtWdlAtTWNuaklVandxOVJzSXdOcFc1RUREcVhDTDdKSC15UmV1ZDdYcmx1UWtyNkFNNm9IbmtneEptcUVGblp4MXBuNWNtOEdIRG50LTVJWTRuSWZuZWVuN1pIN0RaemlUN3pLWF9KNkpJMnJucjZoNGE4eGZoNXFB0gG3AUFVX3lxTFAxaXFFaG1nSlFjSHk5RjJSS1BWN1NCWGFmakxVdkdiWF9fenRwUkRHRV8taXJOcm43VUtQUmNWcGV3M0J6d1VUZXoxSlh5NTQ1aGlHVVp3OUNLcmo0cHhyczkzc3JnUGZLYXprWU1YV1NMb3Z5Q2U2MGs5NnhVMVdiRV9tXzZJUjk0MWxGdDNYN1dxN2llWGJXSHhnVFZUR0dpSTN0WDFmZWFqMDQzNkhuU3NmX181cw?oc=5
+- India defends decision to skip Brics naval drill - Times of India
+  India defends decision to skip Brics naval
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
 
-- Uttarakhand awarded ‘Leader’ status in Startup India Ranking - The Indian Express
-  Uttarakhand awarded ‘Leader
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPb1NmSnBRSzlJY0x4OVZTNFRuSjFTSWMxY3B1QkFHdXFXRlNiX0VDOFM1bDRJV09xbmFHYnNxWlRRUld1VnJGOGxDTVBYVGVRb0xoT0x4R0N1ZDBCQjF3dEsyd2ZTcGxWYVJROF9VUWVvOVFxRUlvX3l1MkF3Wk9pTWM3c3E5UnV2bzdueTdMVEh1OHRXM1pkcHU4dnBfeGY1T3ZGa2c5RS1EcDNQ0gGzAUFVX3lxTE9peVpwWkRfazRsc1l6ZXdXZ3NpdVl4UU5fUk1mSGFGdHA4RGhZdWFKcXl3Wkg4MUxNU3BELXJYMFNNaWJKN1pGTHNTYmNtUkZzcVpCakFmSTIzdkE4TlJtLUNidl9DUjQ4YVg4TjFJNHBmeTBGQXhvLWJqam5kekpoaTY4VkRJeUEzRjZXY0N6QmJOTVNESWJqYjJtd2NOR2lEMXR3bDJXOWYwVVluTXp4TDU4?oc=5
+- India name white-ball squads for Australia tour - ICC
+  India name white-ball
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQTk9VM0lvbFIxamdPUk9Sb0gtbVdCQTg3OG8yNV9pVDcyZ2tTZG5Vbldjc2YxSDlMNFVTX1hOU3NKZmxMd1ZrcDhKVkh1c0RTU1doSi10TjNfZ0E1anZlT0J2M0tna2N2bEI2ejhPUEhENXNxVXQyNG1QVUVpWnVpTUNILXVSOFk?oc=5
 
-- Three technologies that will shape biotech in 2026 - MIT Technology Review
-  Three technologies that will shape biotech in 20
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHFTVVlfc1pmM0VfR05USVVvZmM1cWFaTVpWdm0zaEVvaHd1NWJKNEUwekRfUThNNXEzUU1uUkcwNGpHbWxDNVNUWTBUaFoyMF96OGR4Y2dlT2RtWC1XdC1IWlZnTWpwU0tFSlRWU0s5N2xrTVkxSlMxaERvdVFQMHBiM1VpYnU2NFVYb3pvai0zcEVqQlY4NE9hLTVwQ1dUbmkwMl9MbjJnNzlMVFZ3aDFhbXZZZUI0Zi15Q0hB0gHDAUFVX3lxTE5sc3Rzeng1Q0d1S09memk0bzJsZTJ2cmtpNWJZQUhabGFhdnpEbXdIaWNzVlUzaWpSYTVpMm02ckRfTXdMbElvTTlIYjB6dlYtZGxYazVlcEt5YjF2YTlGUGR1V2E2cGxaRnN1dVdVY3NkZnB4U0xBVk15SmdtWVlqQk1xbzlIbUVscUVteEZ0M3ROclZ6LWUxSXlIa1czR1hEWjh6LXJMSXAwT0ZialVYTi01cElxSDZXazlOYTdCbnBncw?oc=5
+- India Brings Money To America, Not Pakistan: US Lawmaker On New Delhi Ties - NDTV
+  India Brings Money To America, Not Pakistan: US
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbExmaWFDcUVaMWVySDhBZHNxSEdoTUZENHZjR0lxTEd3Z1VfV21YYWpCcl93Uy0tLWdUbzk3ZkdvZEJ5d1VVQmpPcEVjaVNkQ2txZVc3LU1uWVZtX3pyM2hVQk1GQUl3cUR3bTlJRXlvSFQ4a2lGdG9yeTdvSmVXWmFaODR5THU0dzA3djllUFZZbDdvZm82RkFqYXFwRmZzWlNRdExlWldFLXZVT0pyNzBxTdIBuwFBVV95cUxQV2Y5SzhQYzdyYVJBbXgxV2tKSmNVTXhoaFBCQ1dxLVA5bnMzOGphX0ZiOVlOWHRNc2RJV2djOU9wVzJFVjBGdXpZS2RPRGc5dWhDaTZCVjBKXzhkalpjVi1SZFY5SlZxOUl6VFpXMDRRVVdPMUx6NXY5SkhPbHlvZ3dyUUNndjdnRjhQZG5mbWxrOUZHUE84RmNiUzJIb1oxZGdzX1pBNFQtZHVKalFDYmNVQmUzN1ZKbEU0?oc=5
 
-- Accenture Named a Leader in Gartner® Magic Quadrant™ for Digital Technology and Business Consulting Services - Accenture
-  Accenture Named a Leader in Gartner's Magic Quadrant
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLWFQeG1aX2tia2JscHpwWERVd3FGVjRoN3dTMHowWFJZNVJ2RWNsc0JKRWdUanZxOUZuWHd4cXdDczAxMUN2ZFc3LWtmMEdwdWVReWJEUlEwMHRjeFM5QWE3MDhoN2hXR0ZPRHFUbGFBc1JTQmQ4cDFGSFlxM1Q5ODlBLWN3VjBwOTZCWXloN0I4ekk4emhnek03RVZSYlViR25mLTBSOHJfZTRBamhWMzVrbHBnN3VNaDBmUFdJYkhqLTRsUG92V1N1UGVudTQ0ZWhQZGdXVlVyX25yZW5Tag?oc=5
+- Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India-Pakistan conflict - The Hindu
+  Donald Trump claims Pakistan PM said he saved lives of 10 million by stopping India
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVkg5eG9EVVN5cUVXT3JEUmFvVG0zQUNzd1JRYlRHOVFhR1NqTnI0OGROMUMteVVLQzZqVU5RVmdsaGl0SHRRYl8zM2N5UjRUQzVxQ0JLRkdRS0ZCSHJBU0UzTlczcDQtbHhEODF0eF9OTl9DbjNpQU1haHRwdy1tb09iODJWSWRaaV9VbVluWV9OWG5hWmhnbURVYlpOeE5tMnpKcTVQcDJ1bUhwVTF0VHc3Z2FUOWtYa2phSzhSalkyM045dGU2bXdWRl9VS1ludFhwenZwWUFFWTlLOGVRWHNZc1hjV1Rwd1luQzUtNDFReXBjcDBvNdIB_wFBVV95cUxQREFaWWUtZEh1YW1iei1LYmRaRXVoTkRaMWxGQS0zVmlORF9IWHVfc0R2aUc3eDN2T0R2a3U3OGxvQ2N2bDI4UnlUUG82TWlDT1NhX0xjZU5aZUhTNWxxdVBHYVVVTXFQZlJ0LS1wTGdVVW0tUmM1bVZmS0lMcmhYd2hfMGxtN0kyYlQ4aEJhbXhPZUJuRlY1ZVg3NHNxSVVvZjA5YUZ4NVpqN2d5V2QxMzIwakc3VHNiVmVlYnRtRHBLLTdHOFA3SGJCU2JEWVh4TGMwck16d0kzMWpCVGp6X0hGMmdFRWI1UkI4NGZOWFQxR29MSFdRM3NyZ0Z4TDg?oc=5
 
-- NASA Develops Blockchain Technology to Enhance Air Travel Safety and Security - NASA (.gov)
-  NASA is developing the technology to enhance air travel safety
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLUJGdlZnYmpkMGthaTI0ZGZqSXhreWc2NTNLVUxQRmdRX0tnZUlnTm9Jd2U0VFlSXy12NlFiTG9IeWVxdll3VllkOFVaT1U3N2liRlMzZnMzMnBkTTdNZXZ2NGh2SFdiTlVzbkhGQktfUk5mVDhSbXlKZV9RaXZ3VEZpZGRfZlQyZXlzMjFwT2RQTzZxaG4tTndYcV9yQTNQM2tIUjhWOVJpTHc?oc=5
+- Union Budget 2026: What Is The Economic Survey And Why It Is Important - NDTV
+  " target="_blank">Union Budget 2026
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWTdGTU56ZkdkZXFJZWpaam1hYnhHU3doR3Q3eUxDeXRJS3NMSHlSbnUxeHRRRVJ4ejRLOWt4bVR0bDh5c093YUhNb3NCMVk0WXBsZ25Kd0M0U1F1dFNYWnZFWExDZjktUTlIX2xjXzRiYWw0bGhId3E4Rmo0cUR0Y2hhbTkyZjJTTjhDanRrclpMNUs2RllPQmowb3RrMjBwS0pfMEloQnkydjFqc0FmX2x1R3o5RFZwWUNpQWRiZVNZR0Y0dzAtNEo1U18tLXFVb3ZpenIxU1N1UXBJ0gHkAUFVX3lxTFA1RTJ0emszc25qWkIxOWJDR3F3WXpNYlgzWUVLbmxRZzRiS240c3JhcDdPeHcwTVo4ak12U2NjUlowVlp1MTNVWUEzSnZ3aHFDWU1OTWVKMG5ya0tQVU5yODROTHJDNjJWTnRtckJ4UjloVkN6YXBzdUNMVHBzcjVMUDVoWDNEdTBKSDlGYmtBYlprTFgtcWdGTDlLTjRfNDFRQ2pWVm0waUhwZ3pNU0xzUjVWVkc4YVRvdjNxN3dTYk5jQjNjcVBZZEhkR2gwbHQ3Z2NMZXdKUktrRmxVdDJsYTJMVQ?oc=5
 
-- Dhami highlights role of technology, science in disaster resilience and mitigation - Times of India
-  Dhami highlights role of technology, science in disaster
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOFREMzQ0eWlDSjFpbUlvZjJvS2J1QjVDY3FMQm1vLWRhZ1V5cUZQZko5eDFDUW1WaEZXVFQxUjI3SGxWMkZvdC1idGhJVTZTMVBXb1BoVHQxbkNlLXJjRmxTcXRnaFpvRzd3VzhtX3d2al9xZlQyVG1YR1Q5TDVtQVp2eC1QcVJWWm1fS2NvRlpfQUFGcjNXLTQyRnRwMGYwTXM0WERwZVF4ZG5GVTRFcFAxUW9fN3JGRXBGdm1FRlVxUVllUHZyLUt3U2dfQTlhWUt3dmRkZVc5LUhKb29MMU4zN21kb3Q4Q2VmeUNR0gHzAUFVX3lxTE41Sm9BVUdWa09TNlh1VGxya2hhZ3RCM2ZFdXlvdjc3OEsxUmNfaE9iRk5BMGJwVnJfU0VsdHE3R1dxaFR1MHRUUGpibWcyYk1rTW0xNGFHQW9lcl85bUtMdV85YlppM1J3cExBVVVlLTdmN1FwalZVT3YyREs0alJyY2o2cm5WQi13T29GdU5JNGhjNGtNd0JDVGM2eFI3bi1qcTlETHpzM0xNOFc1bS1iV3hESEkyNHU4RjVHWnNraUl3bGtWMGs2a00wV2tuSlhDN2E2STMweHN1Mm9SdzdlUlJFeHBZcWFQUkwzcU53d1JVcw?oc=5
+- India defends decision to skip Brics naval drill - Times of India
+  India defends decision to skip Brics naval
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
 
-- Perovskite display technology demonstrates record efficiency and industry-level operational lifetime - Phys.org
-  Perovskite display technology demonstrates record
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzlGYy0tNURyWktZWThpbWJGU3Frd0YxZ3RTQVNGeE5VNHd4VVRGbExZdFBoWVd2OS1OaHRiZWozX1dIbnlpM3AtYUpENVFObWNBZnBldFdSbVI4X1RvVnFjejM4WVRva0NuR1ZLUVFwN2p6SXRDcWhlS1lYY3VBb2pQMVVQR0R2Y21BTw?oc=5
+- India name white-ball squads for Australia tour - ICC
+  India name white-ball
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQTk9VM0lvbFIxamdPUk9Sb0gtbVdCQTg3OG8yNV9pVDcyZ2tTZG5Vbldjc2YxSDlMNFVTX1hOU3NKZmxMd1ZrcDhKVkh1c0RTU1doSi10TjNfZ0E1anZlT0J2M0tna2N2bEI2ejhPUEhENXNxVXQyNG1QVUVpWnVpTUNILXVSOFk?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-18 01:28:07 UTC_
+_Last updated: 2026-01-18 06:28:18 UTC_
