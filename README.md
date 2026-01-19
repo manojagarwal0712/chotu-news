@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- US President Trump invites PM Modi to be part of Board of Peace for Gaza
+- As PG medical seats go up, vacancies spike by nearly 6K from 2021 to over 17K in 2025
   
-  🔗 https://indianexpress.com/article/india/us-president-trump-invites-pm-modi-part-of-board-of-peace-for-gaza-10481630/
+  🔗 https://indianexpress.com/article/india/as-pg-medical-seats-go-up-vacancies-spike-by-nearly-6k-from-2021-to-over-17k-in-2025-10481784/
 
-- Speeding car runs over labourers having roadside meal in Jabalpur; 2 dead, 11 injured
+- UAE President arrives today, to hold bilateral talks with PM Modi
   
-  🔗 https://indianexpress.com/article/india/speeding-car-runs-over-labourers-roadside-jabalpur-10481541/
+  🔗 https://indianexpress.com/article/india/uae-president-arrives-today-to-hold-bilateral-talks-with-pm-modi-10481768/
 
-- Umar Khalid denied bail, former CJI Chandrachud says it’s a right before conviction. Then a ‘national security’ reminder
+- No decision yet on Su-57: HAL awaits Russian team’s report on cost
   
-  🔗 https://indianexpress.com/article/india/dy-chandrachud-umar-khalid-sharjeel-imam-denied-bail-national-security-10481451/
+  🔗 https://indianexpress.com/article/india/no-decision-yet-on-su-57-hal-awaits-russian-teams-report-on-cost-10481774/
 
-- ED files chargesheet against online betting app handled by Pak nationals
+- Dr Farid Faridasr: ‘External forces creating anarchy, but we can deal with it…Iran is not Venezuela’
   
-  🔗 https://indianexpress.com/article/india/ed-files-chargesheet-against-online-betting-app-handled-by-pak-nationals-10481429/
+  🔗 https://indianexpress.com/article/india/dr-farid-faridasr-external-forces-creating-anarchy-but-we-can-deal-with-itiran-is-not-venezuela-10481753/
 
-- Congress handed over Assam soil to infiltrators for votes: PM Modi
+- Investigation into Cambodia job scam points to a Pakistan link
   
-  🔗 https://indianexpress.com/article/india/congress-assam-soil-infiltrators-votes-pm-modi-10481331/
+  🔗 https://indianexpress.com/article/india/investigation-into-cambodia-job-scam-points-to-a-pakistan-link-10481760/
 
 - ‘Today’s AI models are missing critical capabilities’: Google DeepMind’s Demis Hassabis
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/croma-announces-republic-day-sale-discounts-on-iphone-17-s25-ultra-10479793/
 
+- Being an authority as a travel partner key to trust for visa: Atlys’ Santosh Hegde
+  Atlys was in the news for offering visas for just  ₹1 in August. Atlys is using social media, building its own channels, and relying on travel influencers.
+  🔗 https://www.livemint.com/companies/people/atlys-santosh-hegde-travel-visa-marketing-content-influencer-ecosystem-ai-11768472122169.html
+
+- A penalty and a warning later, haze persists over IndiGo pilot hirings
+  Questions remain over whether IndiGo can realistically induct enough pilots to meet India’s
+  🔗 https://www.livemint.com/companies/news/indigo-pilot-hirings-dgca-regulator-penalty-11768741074192.html
+
+- How HCLTech defied the gravity of India's four-year IT slump
+  Out of India's top five IT stocks, only one pulled ahead in the last four years. The others either had nil returns, or even lost value
+  🔗 https://www.livemint.com/companies/hcltech-emerges-as-blue-eyed-boy-for-indian-it-investors-11768731268633.html
+
+- Distrust Reigns as ‘Me’ Supplants ‘We’ in Edelman Pre-Davos Poll
+  People across the world are becoming warier of governments and institutions. geopolitical tensions fuel nationalism and economic anxieties
+  🔗 https://www.livemint.com/companies/distrust-reigns-as-me-supplants-we-in-edelman-pre-davos-poll-11768778514196.html
+
 - Fundraise or not? Time to decode the growth dilemma for India’s start-ups
   The Indian start-up ecosystem is rapidly evolving, focusing on sustainable growth over capital raised. At the second edition of Mint's ‘The Unstoppables
   🔗 https://www.livemint.com/companies/start-ups/decoding-the-growth-dilemma-for-india-s-start-ups-with-the-unstoppables-11768751778517.html
 
-- Climate funding: Why PSUs are stepping in where VCs fear to tread
-  Shipyards, gas utilities, global asset managers are reshaping India’s climate-tech funding. While venture capital steers clear, these legacy institutions
-  🔗 https://www.livemint.com/companies/start-ups/india-climate-tech-startups-funding-trends-2025-11768730059725.html
+- Stock market today: Trade guide for Nifty 50, Trump's Greenland tariffs to gold, silver rates; 8 stocks to buy or sell
+  Experts have recommended these eight shares to buy today. AU Small Finance Bank, LTIMindtree, Cholamandalam Investment
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-guide-nifty-50-trumps-greenland-tariffs-gold-silver-rates-today-8-stocks-to-buy-or-sell-11768739753312.html
 
-- Musk Seeks Up to $134 Billion Damages From OpenAI, Microsoft
-  Elon Musk wants OpenAI Inc. and Microsoft to pay him damages in the range of $79 billion to $134 billion. Musk claims that the generative AI company defra
-  🔗 https://www.livemint.com/companies/musk-seeks-up-to-134-billion-damages-from-openai-microsoft-11768720823032.html
+- Buy or sell: Amid Donald Trump's Greenland tariffs uncertainty, Vaishali Parekh recommends three stocks to buy today
+  Vaishali Parekh recommends three stocks to buy today.
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-amid-donald-trumps-greenland-tariffs-uncertainty-vaishali-parekh-recommends-three-stocks-to-buy-today-11768742886457.html
 
-- Battle for AI talent heats up as former OpenAI staff who left for Mira Murati's Thinking Machines return
-  OpenAI has onboarded three former staff. Barret Zoph, Luke Metz and Sam Schoenholz had left to join Thinking Machines.
-  🔗 https://www.livemint.com/companies/news/ai-talent-battle-openai-staff-barret-zoph-luke-metz-sam-schoenholz-left-for-mira-murati-thinking-machines-startup-return-11768710842512.html
+- Australian shares start week lower as financials drag
+  Australian shares start week
+  🔗 https://www.livemint.com/market/australian-shares-start-week-lower-as-financials-drag-11768783778544.html
 
-- Somali businesses struggle during the Minneapolis ICE crackdown
-  Somali
-  🔗 https://www.livemint.com/companies/somali-businesses-struggle-during-the-minneapolis-ice-crackdown-11768713242761.html
+- Bharat Coking Coal IPO listing date today. GMP, experts signal strong debut of shares in stock market today
+  Bharat Coking Coal IPO listing date is today 19 January 2026. Analysts expect listing to be at a strong premium over the issue price.
+  🔗 https://www.livemint.com/market/ipo/bharat-coking-coal-ipo-listing-date-today-gmp-experts-signal-strong-debut-of-shares-in-stock-market-today-11768758611086.html
 
-- Wall Street week ahead: Focus on Q4 earnings, income &amp; spending data, Trump speech at WEF amid Greenland dispute
-  Investors will be analyzing earnings statements from streaming leader Netflix, semiconductor giant Intel, healthcare major Johnson
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-focus-on-q4-earnings-income-spending-data-trump-speech-at-wef-amid-greenland-dispute-11768754763706.html
-
-- Dividend Stocks: Angel One, ICICI Prudential, NLC India, among others to trade ex-dividend next week; Full list here
-  Angel One, ICICI Prudential, NLC India, Bank of Maharashtra, and Central Bank of India are among others which will trade
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-angel-one-icici-prudential-nlc-india-among-others-to-trade-ex-dividend-next-week-full-list-here-11768750097616.html
-
-- Wall St Week Ahead-Investors bank on US earnings strength as policy noise grows louder
-  .
-  🔗 https://www.livemint.com/market/wall-st-week-ahead-investors-bank-on-us-earnings-strength-as-policy-noise-grows-louder-11768744909240.html
-
-- India's bond market: How RBI ensured resilience in fixed income returns
-  LGT Wealth India's CIO of fixed income, Chirag Doshi, shed light on how the Reserve Bank of India ensured resilience in fixed income returns
-  🔗 https://www.livemint.com/market/bonds/indias-bond-market-how-rbi-ensured-resilience-in-fixed-income-returns-11768739005825.html
-
-- 68% returns in 6 months! Multibagger stock in focus after firm issues assurance for  ₹5 crore subsidiary loan
-  Shanti Educational issued a ‘letter of comfort’ assurance to ICICI Bank for a repayment of a  ₹5 crore subsidiary loan.
-  🔗 https://www.livemint.com/market/stock-market-news/68-returns-in-6-months-multibagger-stock-shanti-educational-in-focus-after-issues-assurance-rs-5-crore-subsidiary-loan-11768730080891.html
+- Markets with Bertie: Bertie goes to China, explores fast vs slow returns
+  Bertie visited Shanghai for a conference, noting China's cashless economy, tech advancements. Talks with fellow fund managers highlighted contrasts between investing in the 2 nations.
+  🔗 https://www.livemint.com/market/bertie-india-china-investment-strategy-market-moats-creative-destruction-fund-manager-insights-11768734922712.html
 
 - iOS 27: Stability upgrades, smarter Siri and foldable iPhone support tipped
   Apple’s upcoming iOS 27 update is tipped to focus on stability and performance. It will introduce new Apple Intelligence features, Siri upgrades, AI
@@ -100,45 +100,105 @@
   Amazon Great Republic Day Sale hits up to 75% off. We picked these wireless headphones for gym use for secure fit and sweat resistance.
   🔗 https://www.livemint.com/technology/gadgets/amazon-great-republic-day-sale-10-best-wireless-headphones-for-gym-use-we-trust-for-sweaty-sessions-up-to-75-off-11768548376673.html
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  Indian equities closed higher as a strong earnings surprise from Infosys boosted risk appetite and lifted IT stocks. Analysts flagged mixed global cues, sector-specific strength and cautious technical signals.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/126642143.cms
+- Nifty Put-Call ratio signals caution amidst foreign selling and tariff uncertainty
+  An equity derivatives gauge is flashing caution as foreign selling and tariff uncertainty deter traders from chasing upside. The Nifty Put-Call Ratio (PCR) has fallen to 0.65, indicating a
+  🔗 https://economictimes.indiatimes.com/markets/options/nifty-put-call-ratio-signals-caution-amidst-foreign-selling-and-tariff-uncertainty/articleshow/126665278.cms
 
-- BCCL IPO boosts confidence as Coal India weighs more subsidiary listings: CMD
-  Strong investor response to the initial public offering of Bharat Coking Coal Ltd has boosted confidence within CIL. Chairman-cum-Managing Director B Sairam
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/bccl-ipo-boosts-confidence-as-coal-india-weighs-more-subsidiary-listings-cmd/articleshow/126640693.cms
+- Q3 earnings growth muted as IT weighs, banks lend support
+  December quarter results show mid-single digit net profit growth, primarily due to weak IT sector performance. Banking and finance companies, however, posted double-digit profit growth. IT firms faced a profit decline
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/q3-earnings-growth-muted-as-it-weighs-banks-lend-support/articleshow/126665191.cms
 
-- Mcap of 3 of top 10 most valued firms jumps by Rs 75,855 cr; SBI, Infosys biggest winners
-  The combined market valuation of three of the top-10 most valued firms jumped Rs 75,855.43 crore in a holiday-shortened last week. State Bank of India
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-3-of-top-10-most-valued-firms-jumps-by-rs-75855-cr-sbi-infosys-biggest-winners/articleshow/126640613.cms
+- What Tiger Global ruling means for foreign investors
+  Ruling impacts foreign investors in India. Investors can no longer use only a Tax Residency Certificate for tax benefits. Tax authorities will now examine the business substance of overseas investment structures.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/what-tiger-global-ruling-means-for-foreign-investors/articleshow/126665134.cms
 
-- What do Trump’s Greenland tariff threats to NATO allies mean for gold, silver and Dalal Street?
-  Fresh tariff threats by U.S. President Donald Trump linked to Greenland have unsettled global markets. Analysts see potential longer-term opportunities for India through accelerated trade negotiations.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/what-do-trumps-greenland-tariff-threats-to-nato-allies-mean-for-gold-silver-and-dalal-street/articleshow/126640083.cms
+- BOJ keeps Yen watchers on edge as hike signals loom
+  The Bank of Japan's upcoming meeting is poised for yen volatility as investors anticipate the timing of the next rate hike. Despite a recent rate increase to 0.75%, the
+  🔗 https://economictimes.indiatimes.com/markets/forex/boj-keeps-yen-watchers-on-edge-as-hike-signals-loom/articleshow/126665100.cms
 
-- UCO Bank Q3 profit rises 16% YoY to Rs 739 crore
-  UCO Bank's net profit surged 16% to Rs 739 crore in the third quarter. The bank also saw its non-performing assets ratio decline to 2.4%.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/uco-bank-q3-profit-rises-16-yoy/articleshow/126640065.cms
+- Pre-market action: Here's the trade setup for today's session
+  Indian equity markets closed marginally higher on Friday, buoyed by positive sentiment in the IT and banking sectors. Analysts anticipate a sideways trading range in the near term.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/126650964.cms
 
-- India Brings Money To America, Not Pakistan: US Lawmaker On New Delhi Ties - NDTV
-  India Brings Money To America, Not Pakistan: US
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbExmaWFDcUVaMWVySDhBZHNxSEdoTUZENHZjR0lxTEd3Z1VfV21YYWpCcl93Uy0tLWdUbzk3ZkdvZEJ5d1VVQmpPcEVjaVNkQ2txZVc3LU1uWVZtX3pyM2hVQk1GQUl3cUR3bTlJRXlvSFQ4a2lGdG9yeTdvSmVXWmFaODR5THU0dzA3djllUFZZbDdvZm82RkFqYXFwRmZzWlNRdExlWldFLXZVT0pyNzBxTdIBuwFBVV95cUxQV2Y5SzhQYzdyYVJBbXgxV2tKSmNVTXhoaFBCQ1dxLVA5bnMzOGphX0ZiOVlOWHRNc2RJV2djOU9wVzJFVjBGdXpZS2RPRGc5dWhDaTZCVjBKXzhkalpjVi1SZFY5SlZxOUl6VFpXMDRRVVdPMUx6NXY5SkhPbHlvZ3dyUUNndjdnRjhQZG5mbWxrOUZHUE84RmNiUzJIb1oxZGdzX1pBNFQtZHVKalFDYmNVQmUzN1ZKbEU0?oc=5
+- Trump Invites India To Be Part Of Gaza's "Board Of Peace" - NDTV
+  The White House has invited India to be part
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGo0d1hnYUNxeEx5S2lNUVJWdGVwcnZ3bWRJOHEyaHZTRENyR0pzY0tvbTV5bFQzUDlYMm5tYVJNUUNkWVBlRjhLZVBMSXB3OEZ5TW5JaFQ1V28zYU1yeHRJRWt4RnFqdVVZRkg4cFZSbUNpN0hrZDE4ZHIyX1gtRFlJNTNOUlZHYzlGd2hyeXAxMC1EUDlOOVBvRkhTbTNwek5DNFMyZktOdUXSAbMBQVVfeXFMT0lEWDY0NlhLRmR2TEJ0aFotV1JZZy1MM0hPREo0aUlCZHUxeUt5S2luWEdaOUFNTlRtOVUtMERjMTVuUHBfR3FlZU1iYXc2X1FYOVBnWjF5ajZjQmdLLWNxNnluUC10bDJjeERETEV0d3gzV3dwZFVpYmNoTXl5cWJXazhjYlVuZDJwcndfN21GbUlHdnhaRG04cklhaTlqTTRzN3k2SGxFZDRHX0RiZlVoY0k?oc=5
 
-- "No Internet, Dangerous Protests": First Flights From Iran Land In Delhi - NDTV
-  "No Internet, Dangerous Protests": First
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXVyNENqT0xsWnJxS3V6TTJUdnlnRWRhV29rQndZSzNmMDJkajJYTk5UUTFpcDByTTh3WmhBc29RRmZuWVRqSExoazB1ZDd2MHVMdko3NjlwaXBEdVpWZHdMQ0s5VlktbTZRbXBhUk0wclJVdkVFeE5mc2JfUUhDZ1BhcGVFTkVBTjh1bzU4TDBWcjIxTmhkeVY1aHB4NjRkX3ZvdEcwTTJqMnVBRlh1T3dYVVFuQzFNSkx0X2tqQUh5anZnZUQ0YnhxV2rSAdQBQVVfeXFMT09OTUh0bmplRFNjWUJiT0lNUXdJV3JZeTNrSFdoVUJ0SmZ5dWFESmMxMDFIeldGQzlpRVVxTkg4S25WQ0pkN0pXeThZNF9TYWowbXFhM1RGUjI1a2tsQmhlcUV6emZTQUJJUUJwMy1WUjZWS3RGeDBvRlVranR1dHVYdG9na3pBaUNDYXNBMEJEM3V4WnV6WVhRSjA5RVI0MU1QTE5ZSFFUbkpJcVJlRUFmZ3M0TXlwcXB1Z2oxX25YcVhtZVlNbXBMOTI5bkh5UHNNV0c?oc=5
+- India defends decision to skip Brics naval drill - Times of India
+  India defends decision to skip Brics naval
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
 
-- J&K: Encounter breaks out in Kishtwar, 3 injured soldiers airlifted - Times of India
-  3 injured soldiers airlifted from Kishtw
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQTDVRNndGeXRuNGpMOXdzS2RhODBCNXFlRFg0ZWhOUXRJN2Y2WHpqUjNCbDdyS3pMZUctdUJkMTQ4NkNJbWJiOEVZX3VDby1jbU55VFJSX2Y1ZFE1XzFTaTlYT180Ri01UUF4WFlObmpuT0luUWlaQldkR0lyNXdCclI2SWhOeG0xTHJVbGFWVkZURjE4bXpTR2ZVM3FMNlBpcmU2RWRsazZkYXMwWFJlTGhFb3p1STI0YjJydWlKXy05MkxzeGFMRkpRWnLSAdIBQVVfeXFMTnNPdjk3Sno0TE5yMnJkLU5mRnJDbzJNbTJMNmF4aXlrREtlTWdiMTNocHBkNTR0SnRZMGRuVkZrZFdSWVctcDhDTGZHVU1ieGtyMEp3YlI5NFpSYVpDNEszNXVYdl9sOGZFMFl3dUt2MVNINlJQdk1KdzBKbE5wTzd2eEJzWlVoVG9uc1lMOUEzX05OZ3F5eFlpX2FmNllaamNKMWtYT3RwTGFSaFVDLW9jS3hkSHExZjdHbGRxTWlJVTdidGdNSjFQeUphclhOTlRn?oc=5
+- Young India returns to roots, find solace in Sanatan Dharm - Times of India
+  Young India returns to roots, find solace in
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQOFYtLU5WT3MxT1pBWmVCT2l0Zmd2dkplNFBsc19CT1RUU2p0VXhGcklIVmktb0dnQVpZRFJNVkNzMEJIenRGblVoaWVCdUtNcm52M1VqVDQzejNjQ2NLd2d1Q21YQmlEXy13cVBPcnV2QUFzdUNxN2t1ZGVaa0JzVnpfWTZlNnZnY0NuS3NRclBoS3F0M1A4THpLQzZZWDhtNGhuN1NUVUtTZWNOX3BPb2ZXV2xQb3lPNmwwVTY5c1BwNHFJbFBRYVRaWEVyVzDSAdQBQVVfeXFMT3J1S1dkOVhWMmpOS0dnMFFxTGpqVExNamVBVnYxLWlZRE5FcWd4dHpJc3pDcjlDdHJlTjJ3WGlzS3MtaTl1QjlLTTV3RUZqbG9rOGo0V3NRdzRyaFJzWUl0LW02WFcwTE95UEJWTUx4Rktwc1JRZWdISVJpUHQ4YmVVd0NyWmRHWWtYSVJPWFFUOVBZb1hKUm8tYWpqc21VSTUxWUhtN0l5MTlQMkJQVlA1UEVlMXVXOWFDNmUyMzBfeFd4blF4MG9WTkU5NktuTlM2Ylk?oc=5
 
-- India invited to sit on Trump’s Board of Peace for Gaza - The Hindu
-  India invited to sit on Trump’s Board
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQUk8xay1rT2Z2dUhiUDNJZHZ4X2FsSzNTT08tZ0RGWmNwQXlnSG1pa1lZSzJQb2xqRko5TFJoRjEwdktabURrNlJxclFKZ3RiLVh3ZkdYcDdUSTFGNGxBWEZPeEh0b1pKZ1BhTVZJeDQxZXZidEQyaTZaeG1sb2pNVFhxdjdSWFNhMEhVZDFkbmtvbmU5WUN5aWZMbmRBYWFNR0ZFdGpIMUlxdm5PMHJnczhxWdIBugFBVV95cUxPU0pPQlRYOXptTk80T0NfLXptMGpwaVhPWGVpbnd1ajRSZ0xaY2NJUWR0aHA0Zi05NWtybGw2NTVUakxmYUxJQnhKenRvNTJ0ZThjRTFpNVpmZE9qS1dzMEswYUVQVGZHYXFTT2RYNGJ0V2tDWmZ4d3lCWFpCMW9IWXBNRFlKdnVWa2NXQmpOd3QyT0x5Y19qek81WGpURzc1NlRaZmNxQ2ZsWldzS0gzZ09JYTNvSTFjMVE?oc=5
+- Why are Americans paying for AI in India? Trump aide fumes amid trade deadlock - India Today
+  India Today: Why are Americans paying for AI in India? Trump
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxObDNFWE9kYjRORm43TnhocmFtNmItRGcwbWRrcDFSTGRIYmJZalRQTC1hNFI4RFJXVl85SFNrSDJhcDV4TE1kYkpleE80VHlJN3VQSjZ2TDNjRmRwS1Zkakt0WFFCRWpuM1c3VUdtOGhjQnVacVByVDA0QmRBT054Q3l1WFZHSXZnZ2NJcTZIWmhwaXhidXNwcEU2VlFWWERSc2tyMnJheHBaM0RFTXBqc09Kd3RSQkhKYmZvdHV4ejFOVE4yNzRpRzVaSGZiQVhjaWtwMTBYRnA0RDVTcFpSTWZGcThWal9wOFd5R2hDcXlTUkFlR09pZy1IWdIBgAJBVV95cUxOM0RhUUx2YUcxTll6c0xkclJ6X3ZnVEpzeVVHMGlldkVmbWRKWm1TSGVyZ3hDVldCeENGeGxMdGY1cUdqZ2pyRjBvT0tKeGZXWGVnTnFVa2hwWGpsenVCZzZLSlR5OVd1Qm9nRzlwZ1VEdnhobnBMMUhadFlYdVJNTV9QV2Ftcnd2TmxSc1ZweGgxNk9iWlFVSXJLc0J0SllybHhHV0Q4ODFPbFBoX0NLa05LcTFmeUFRUXJGWG5Cd082MFZQakFENk1aaG9BOUExM1h3UHpWUTVxazBmdEZNTnNCaEw4V2NmVEVvSERVelhnaVN4VE01UDVFQkNQS1V5?oc=5
 
-- 'India Can Add 20% To Global Growth This Year': WEF Chief To NDTV At Davos - NDTV
-  'India Can Add 20% To Global Growth This Year': WE
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUpIN0RqQ3hMTk1oT1V2dGV3Y0xodGVKSEpSZjBFYTBHNXo2eDlKVFUxanJPYWdHcHdwQXdVc0hRQnV5YzRvcng2bW94ck1JN1ZxY05OVVNWSV9KanRfaEJwZnFlYlVuSEFtSG43UnloblBpeElKRXRBTkFLWTB2YXlKX0hvc2VKMjNocG9WaENQLTVOUFQ5ZkJRekwxeG1PNjBlZDRJNEZtYl9tNmZGSNIBuAFBVV95cUxQRncyNEtnbktXbHp2eEd2ZUkwTlR5U3BVa1pmZXdfLW5KNmo5YXdlMGR6Y3Zrb1gzV3MwMHpiMGM2NmxkMGpTbHM1aGNBMzB0aWNTblN3ck9nS0ZQc2luYUk1N2hjSkluZXdVTHJjOUdfTHpwTlk5aS1MSGhPUzRueXRPUmJYelNxRWZ1QlVTMTdtLVRHRVV0bUNiOEFLTjFLY3FoNVVOR1RsZkVoYUFpdXFmZlRjLU01?oc=5
+- Top News Headlines of January 18, 2026 | ‘He fooled us’: Iranian protesters say they feel betrayed over Trump’s ‘help’ which never came - The Indian Express
+  The Indian Express reports that Iranian protesters say they feel betrayed over Trump’s ‘help’ which
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxONFZYM1Qxbi1SRFN6VUNVcndHX2tudTl2REZFVTZJSEE3OG1JV205WERPN2VLVUUzQm9ZRU9sOVBRdjVvVzBpdzhxekd3TE44SHp2cE10RTY0UXkyZ2NsU1hCa1NpRTJJbjFaV016T0IwdG5IUnBhYmc3Z0JLaVYyaXlWcnJKQkVkWE4wdHBPTnZZRmtGWmVZcjNQNVJ4SzJSQ1JmeEU3eHVnVTZ1ampMREkwTF9TSHk0X3BVUUhfZHRQb3BsN1BCeE1fd3N6WnNnOS1waDNmRm9paWUyODdxLXdLMlptdDNq0gHvAUFVX3lxTE85bDhFVWhtUW02Vk5mWkhfRTR4eTVpY19OUGNRTlVwMmduRDJWa0FtUUJLNFYtVTdlbzhBeURVZVVQaThqNURMbkhMbzhNbUtaQmFja0xma1M3TlNvcF9kbmFtakp1M2pFRGprV0RTNXFGdFZPMlBaVkxsTEFwbWtlQUFEaVp4bWVRMHAxRVBFWUNJU3ExMFNwVGdvQUxDQjNRUWVKSEsyQzlYam5VbExDdmlOOW1qVXo1azViMFlOVjh5NDVVVmQtdGFaNTV0SUJQNnJ2eW9VZkFGZnNYS3NkYk1iUl9lYXNuN1ZmcG5V?oc=5
+
+- Trump Invites India To Be Part Of Gaza's "Board Of Peace" - NDTV
+  The White House has invited India to be part
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGo0d1hnYUNxeEx5S2lNUVJWdGVwcnZ3bWRJOHEyaHZTRENyR0pzY0tvbTV5bFQzUDlYMm5tYVJNUUNkWVBlRjhLZVBMSXB3OEZ5TW5JaFQ1V28zYU1yeHRJRWt4RnFqdVVZRkg4cFZSbUNpN0hrZDE4ZHIyX1gtRFlJNTNOUlZHYzlGd2hyeXAxMC1EUDlOOVBvRkhTbTNwek5DNFMyZktOdUXSAbMBQVVfeXFMT0lEWDY0NlhLRmR2TEJ0aFotV1JZZy1MM0hPREo0aUlCZHUxeUt5S2luWEdaOUFNTlRtOVUtMERjMTVuUHBfR3FlZU1iYXc2X1FYOVBnWjF5ajZjQmdLLWNxNnluUC10bDJjeERETEV0d3gzV3dwZFVpYmNoTXl5cWJXazhjYlVuZDJwcndfN21GbUlHdnhaRG04cklhaTlqTTRzN3k2SGxFZDRHX0RiZlVoY0k?oc=5
+
+- India defends decision to skip Brics naval drill - Times of India
+  India defends decision to skip Brics naval
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
+
+- Young India returns to roots, find solace in Sanatan Dharm - Times of India
+  Young India returns to roots, find solace in
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQOFYtLU5WT3MxT1pBWmVCT2l0Zmd2dkplNFBsc19CT1RUU2p0VXhGcklIVmktb0dnQVpZRFJNVkNzMEJIenRGblVoaWVCdUtNcm52M1VqVDQzejNjQ2NLd2d1Q21YQmlEXy13cVBPcnV2QUFzdUNxN2t1ZGVaa0JzVnpfWTZlNnZnY0NuS3NRclBoS3F0M1A4THpLQzZZWDhtNGhuN1NUVUtTZWNOX3BPb2ZXV2xQb3lPNmwwVTY5c1BwNHFJbFBRYVRaWEVyVzDSAdQBQVVfeXFMT3J1S1dkOVhWMmpOS0dnMFFxTGpqVExNamVBVnYxLWlZRE5FcWd4dHpJc3pDcjlDdHJlTjJ3WGlzS3MtaTl1QjlLTTV3RUZqbG9rOGo0V3NRdzRyaFJzWUl0LW02WFcwTE95UEJWTUx4Rktwc1JRZWdISVJpUHQ4YmVVd0NyWmRHWWtYSVJPWFFUOVBZb1hKUm8tYWpqc21VSTUxWUhtN0l5MTlQMkJQVlA1UEVlMXVXOWFDNmUyMzBfeFd4blF4MG9WTkU5NktuTlM2Ylk?oc=5
+
+- Why are Americans paying for AI in India? Trump aide fumes amid trade deadlock - India Today
+  India Today: Why are Americans paying for AI in India? Trump
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxObDNFWE9kYjRORm43TnhocmFtNmItRGcwbWRrcDFSTGRIYmJZalRQTC1hNFI4RFJXVl85SFNrSDJhcDV4TE1kYkpleE80VHlJN3VQSjZ2TDNjRmRwS1Zkakt0WFFCRWpuM1c3VUdtOGhjQnVacVByVDA0QmRBT054Q3l1WFZHSXZnZ2NJcTZIWmhwaXhidXNwcEU2VlFWWERSc2tyMnJheHBaM0RFTXBqc09Kd3RSQkhKYmZvdHV4ejFOVE4yNzRpRzVaSGZiQVhjaWtwMTBYRnA0RDVTcFpSTWZGcThWal9wOFd5R2hDcXlTUkFlR09pZy1IWdIBgAJBVV95cUxOM0RhUUx2YUcxTll6c0xkclJ6X3ZnVEpzeVVHMGlldkVmbWRKWm1TSGVyZ3hDVldCeENGeGxMdGY1cUdqZ2pyRjBvT0tKeGZXWGVnTnFVa2hwWGpsenVCZzZLSlR5OVd1Qm9nRzlwZ1VEdnhobnBMMUhadFlYdVJNTV9QV2Ftcnd2TmxSc1ZweGgxNk9iWlFVSXJLc0J0SllybHhHV0Q4ODFPbFBoX0NLa05LcTFmeUFRUXJGWG5Cd082MFZQakFENk1aaG9BOUExM1h3UHpWUTVxazBmdEZNTnNCaEw4V2NmVEVvSERVelhnaVN4VE01UDVFQkNQS1V5?oc=5
+
+- Top News Headlines of January 18, 2026 | ‘He fooled us’: Iranian protesters say they feel betrayed over Trump’s ‘help’ which never came - The Indian Express
+  The Indian Express reports that Iranian protesters say they feel betrayed over Trump’s ‘help’ which
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxONFZYM1Qxbi1SRFN6VUNVcndHX2tudTl2REZFVTZJSEE3OG1JV205WERPN2VLVUUzQm9ZRU9sOVBRdjVvVzBpdzhxekd3TE44SHp2cE10RTY0UXkyZ2NsU1hCa1NpRTJJbjFaV016T0IwdG5IUnBhYmc3Z0JLaVYyaXlWcnJKQkVkWE4wdHBPTnZZRmtGWmVZcjNQNVJ4SzJSQ1JmeEU3eHVnVTZ1ampMREkwTF9TSHk0X3BVUUhfZHRQb3BsN1BCeE1fd3N6WnNnOS1waDNmRm9paWUyODdxLXdLMlptdDNq0gHvAUFVX3lxTE85bDhFVWhtUW02Vk5mWkhfRTR4eTVpY19OUGNRTlVwMmduRDJWa0FtUUJLNFYtVTdlbzhBeURVZVVQaThqNURMbkhMbzhNbUtaQmFja0xma1M3TlNvcF9kbmFtakp1M2pFRGprV0RTNXFGdFZPMlBaVkxsTEFwbWtlQUFEaVp4bWVRMHAxRVBFWUNJU3ExMFNwVGdvQUxDQjNRUWVKSEsyQzlYam5VbExDdmlOOW1qVXo1azViMFlOVjh5NDVVVmQtdGFaNTV0SUJQNnJ2eW9VZkFGZnNYS3NkYk1iUl9lYXNuN1ZmcG5V?oc=5
+
+- Trump Invites India To Be Part Of Gaza's "Board Of Peace" - NDTV
+  The White House has invited India to be part
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGo0d1hnYUNxeEx5S2lNUVJWdGVwcnZ3bWRJOHEyaHZTRENyR0pzY0tvbTV5bFQzUDlYMm5tYVJNUUNkWVBlRjhLZVBMSXB3OEZ5TW5JaFQ1V28zYU1yeHRJRWt4RnFqdVVZRkg4cFZSbUNpN0hrZDE4ZHIyX1gtRFlJNTNOUlZHYzlGd2hyeXAxMC1EUDlOOVBvRkhTbTNwek5DNFMyZktOdUXSAbMBQVVfeXFMT0lEWDY0NlhLRmR2TEJ0aFotV1JZZy1MM0hPREo0aUlCZHUxeUt5S2luWEdaOUFNTlRtOVUtMERjMTVuUHBfR3FlZU1iYXc2X1FYOVBnWjF5ajZjQmdLLWNxNnluUC10bDJjeERETEV0d3gzV3dwZFVpYmNoTXl5cWJXazhjYlVuZDJwcndfN21GbUlHdnhaRG04cklhaTlqTTRzN3k2SGxFZDRHX0RiZlVoY0k?oc=5
+
+- India defends decision to skip Brics naval drill - Times of India
+  India defends decision to skip Brics naval
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
+
+- Young India returns to roots, find solace in Sanatan Dharm - Times of India
+  Young India returns to roots, find solace in
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQOFYtLU5WT3MxT1pBWmVCT2l0Zmd2dkplNFBsc19CT1RUU2p0VXhGcklIVmktb0dnQVpZRFJNVkNzMEJIenRGblVoaWVCdUtNcm52M1VqVDQzejNjQ2NLd2d1Q21YQmlEXy13cVBPcnV2QUFzdUNxN2t1ZGVaa0JzVnpfWTZlNnZnY0NuS3NRclBoS3F0M1A4THpLQzZZWDhtNGhuN1NUVUtTZWNOX3BPb2ZXV2xQb3lPNmwwVTY5c1BwNHFJbFBRYVRaWEVyVzDSAdQBQVVfeXFMT3J1S1dkOVhWMmpOS0dnMFFxTGpqVExNamVBVnYxLWlZRE5FcWd4dHpJc3pDcjlDdHJlTjJ3WGlzS3MtaTl1QjlLTTV3RUZqbG9rOGo0V3NRdzRyaFJzWUl0LW02WFcwTE95UEJWTUx4Rktwc1JRZWdISVJpUHQ4YmVVd0NyWmRHWWtYSVJPWFFUOVBZb1hKUm8tYWpqc21VSTUxWUhtN0l5MTlQMkJQVlA1UEVlMXVXOWFDNmUyMzBfeFd4blF4MG9WTkU5NktuTlM2Ylk?oc=5
+
+- Why are Americans paying for AI in India? Trump aide fumes amid trade deadlock - India Today
+  India Today: Why are Americans paying for AI in India? Trump
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxObDNFWE9kYjRORm43TnhocmFtNmItRGcwbWRrcDFSTGRIYmJZalRQTC1hNFI4RFJXVl85SFNrSDJhcDV4TE1kYkpleE80VHlJN3VQSjZ2TDNjRmRwS1Zkakt0WFFCRWpuM1c3VUdtOGhjQnVacVByVDA0QmRBT054Q3l1WFZHSXZnZ2NJcTZIWmhwaXhidXNwcEU2VlFWWERSc2tyMnJheHBaM0RFTXBqc09Kd3RSQkhKYmZvdHV4ejFOVE4yNzRpRzVaSGZiQVhjaWtwMTBYRnA0RDVTcFpSTWZGcThWal9wOFd5R2hDcXlTUkFlR09pZy1IWdIBgAJBVV95cUxOM0RhUUx2YUcxTll6c0xkclJ6X3ZnVEpzeVVHMGlldkVmbWRKWm1TSGVyZ3hDVldCeENGeGxMdGY1cUdqZ2pyRjBvT0tKeGZXWGVnTnFVa2hwWGpsenVCZzZLSlR5OVd1Qm9nRzlwZ1VEdnhobnBMMUhadFlYdVJNTV9QV2Ftcnd2TmxSc1ZweGgxNk9iWlFVSXJLc0J0SllybHhHV0Q4ODFPbFBoX0NLa05LcTFmeUFRUXJGWG5Cd082MFZQakFENk1aaG9BOUExM1h3UHpWUTVxazBmdEZNTnNCaEw4V2NmVEVvSERVelhnaVN4VE01UDVFQkNQS1V5?oc=5
+
+- Top News Headlines of January 18, 2026 | ‘He fooled us’: Iranian protesters say they feel betrayed over Trump’s ‘help’ which never came - The Indian Express
+  The Indian Express reports that Iranian protesters say they feel betrayed over Trump’s ‘help’ which
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxONFZYM1Qxbi1SRFN6VUNVcndHX2tudTl2REZFVTZJSEE3OG1JV205WERPN2VLVUUzQm9ZRU9sOVBRdjVvVzBpdzhxekd3TE44SHp2cE10RTY0UXkyZ2NsU1hCa1NpRTJJbjFaV016T0IwdG5IUnBhYmc3Z0JLaVYyaXlWcnJKQkVkWE4wdHBPTnZZRmtGWmVZcjNQNVJ4SzJSQ1JmeEU3eHVnVTZ1ampMREkwTF9TSHk0X3BVUUhfZHRQb3BsN1BCeE1fd3N6WnNnOS1waDNmRm9paWUyODdxLXdLMlptdDNq0gHvAUFVX3lxTE85bDhFVWhtUW02Vk5mWkhfRTR4eTVpY19OUGNRTlVwMmduRDJWa0FtUUJLNFYtVTdlbzhBeURVZVVQaThqNURMbkhMbzhNbUtaQmFja0xma1M3TlNvcF9kbmFtakp1M2pFRGprV0RTNXFGdFZPMlBaVkxsTEFwbWtlQUFEaVp4bWVRMHAxRVBFWUNJU3ExMFNwVGdvQUxDQjNRUWVKSEsyQzlYam5VbExDdmlOOW1qVXo1azViMFlOVjh5NDVVVmQtdGFaNTV0SUJQNnJ2eW9VZkFGZnNYS3NkYk1iUl9lYXNuN1ZmcG5V?oc=5
+
+- Trump Invites India To Be Part Of Gaza's "Board Of Peace" - NDTV
+  The White House has invited India to be part
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGo0d1hnYUNxeEx5S2lNUVJWdGVwcnZ3bWRJOHEyaHZTRENyR0pzY0tvbTV5bFQzUDlYMm5tYVJNUUNkWVBlRjhLZVBMSXB3OEZ5TW5JaFQ1V28zYU1yeHRJRWt4RnFqdVVZRkg4cFZSbUNpN0hrZDE4ZHIyX1gtRFlJNTNOUlZHYzlGd2hyeXAxMC1EUDlOOVBvRkhTbTNwek5DNFMyZktOdUXSAbMBQVVfeXFMT0lEWDY0NlhLRmR2TEJ0aFotV1JZZy1MM0hPREo0aUlCZHUxeUt5S2luWEdaOUFNTlRtOVUtMERjMTVuUHBfR3FlZU1iYXc2X1FYOVBnWjF5ajZjQmdLLWNxNnluUC10bDJjeERETEV0d3gzV3dwZFVpYmNoTXl5cWJXazhjYlVuZDJwcndfN21GbUlHdnhaRG04cklhaTlqTTRzN3k2SGxFZDRHX0RiZlVoY0k?oc=5
+
+- India defends decision to skip Brics naval drill - Times of India
+  India defends decision to skip Brics naval
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
+
+- Young India returns to roots, find solace in Sanatan Dharm - Times of India
+  Young India returns to roots, find solace in
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQOFYtLU5WT3MxT1pBWmVCT2l0Zmd2dkplNFBsc19CT1RUU2p0VXhGcklIVmktb0dnQVpZRFJNVkNzMEJIenRGblVoaWVCdUtNcm52M1VqVDQzejNjQ2NLd2d1Q21YQmlEXy13cVBPcnV2QUFzdUNxN2t1ZGVaa0JzVnpfWTZlNnZnY0NuS3NRclBoS3F0M1A4THpLQzZZWDhtNGhuN1NUVUtTZWNOX3BPb2ZXV2xQb3lPNmwwVTY5c1BwNHFJbFBRYVRaWEVyVzDSAdQBQVVfeXFMT3J1S1dkOVhWMmpOS0dnMFFxTGpqVExNamVBVnYxLWlZRE5FcWd4dHpJc3pDcjlDdHJlTjJ3WGlzS3MtaTl1QjlLTTV3RUZqbG9rOGo0V3NRdzRyaFJzWUl0LW02WFcwTE95UEJWTUx4Rktwc1JRZWdISVJpUHQ4YmVVd0NyWmRHWWtYSVJPWFFUOVBZb1hKUm8tYWpqc21VSTUxWUhtN0l5MTlQMkJQVlA1UEVlMXVXOWFDNmUyMzBfeFd4blF4MG9WTkU5NktuTlM2Ylk?oc=5
+
+- Why are Americans paying for AI in India? Trump aide fumes amid trade deadlock - India Today
+  India Today: Why are Americans paying for AI in India? Trump
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxObDNFWE9kYjRORm43TnhocmFtNmItRGcwbWRrcDFSTGRIYmJZalRQTC1hNFI4RFJXVl85SFNrSDJhcDV4TE1kYkpleE80VHlJN3VQSjZ2TDNjRmRwS1Zkakt0WFFCRWpuM1c3VUdtOGhjQnVacVByVDA0QmRBT054Q3l1WFZHSXZnZ2NJcTZIWmhwaXhidXNwcEU2VlFWWERSc2tyMnJheHBaM0RFTXBqc09Kd3RSQkhKYmZvdHV4ejFOVE4yNzRpRzVaSGZiQVhjaWtwMTBYRnA0RDVTcFpSTWZGcThWal9wOFd5R2hDcXlTUkFlR09pZy1IWdIBgAJBVV95cUxOM0RhUUx2YUcxTll6c0xkclJ6X3ZnVEpzeVVHMGlldkVmbWRKWm1TSGVyZ3hDVldCeENGeGxMdGY1cUdqZ2pyRjBvT0tKeGZXWGVnTnFVa2hwWGpsenVCZzZLSlR5OVd1Qm9nRzlwZ1VEdnhobnBMMUhadFlYdVJNTV9QV2Ftcnd2TmxSc1ZweGgxNk9iWlFVSXJLc0J0SllybHhHV0Q4ODFPbFBoX0NLa05LcTFmeUFRUXJGWG5Cd082MFZQakFENk1aaG9BOUExM1h3UHpWUTVxazBmdEZNTnNCaEw4V2NmVEVvSERVelhnaVN4VE01UDVFQkNQS1V5?oc=5
+
+- Top News Headlines of January 18, 2026 | ‘He fooled us’: Iranian protesters say they feel betrayed over Trump’s ‘help’ which never came - The Indian Express
+  The Indian Express reports that Iranian protesters say they feel betrayed over Trump’s ‘help’ which
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxONFZYM1Qxbi1SRFN6VUNVcndHX2tudTl2REZFVTZJSEE3OG1JV205WERPN2VLVUUzQm9ZRU9sOVBRdjVvVzBpdzhxekd3TE44SHp2cE10RTY0UXkyZ2NsU1hCa1NpRTJJbjFaV016T0IwdG5IUnBhYmc3Z0JLaVYyaXlWcnJKQkVkWE4wdHBPTnZZRmtGWmVZcjNQNVJ4SzJSQ1JmeEU3eHVnVTZ1ampMREkwTF9TSHk0X3BVUUhfZHRQb3BsN1BCeE1fd3N6WnNnOS1waDNmRm9paWUyODdxLXdLMlptdDNq0gHvAUFVX3lxTE85bDhFVWhtUW02Vk5mWkhfRTR4eTVpY19OUGNRTlVwMmduRDJWa0FtUUJLNFYtVTdlbzhBeURVZVVQaThqNURMbkhMbzhNbUtaQmFja0xma1M3TlNvcF9kbmFtakp1M2pFRGprV0RTNXFGdFZPMlBaVkxsTEFwbWtlQUFEaVp4bWVRMHAxRVBFWUNJU3ExMFNwVGdvQUxDQjNRUWVKSEsyQzlYam5VbExDdmlOOW1qVXo1azViMFlOVjh5NDVVVmQtdGFaNTV0SUJQNnJ2eW9VZkFGZnNYS3NkYk1iUl9lYXNuN1ZmcG5V?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-18 18:25:45 UTC_
+_Last updated: 2026-01-19 01:26:38 UTC_
