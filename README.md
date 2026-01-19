@@ -1,44 +1,56 @@
 # 📰 Daily News Summaries
 
-- Gold Today Rate, January 19: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- Indian Railways Amrit Bharat train service expansion: Total count hits 48
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-january-19-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10482086/
+  🔗 https://indianexpress.com/article/india/indian-railways-amrit-bharat-train-service-expansion-total-count-hits-48-10482536/
 
-- Kamakhya to Howrah Vande Bharat Sleeper ticket price: check station-wise fare
+- SC stays Rajasthan HC direction to shift 1,102 liquor shops near national, state highways
   
-  🔗 https://indianexpress.com/article/india/kamakhya-to-howrah-vande-bharat-sleeper-ticket-price-check-station-wise-fare-10481600/
+  🔗 https://indianexpress.com/article/india/sc-stays-rajasthan-hc-direction-to-shift-1102-liquor-shops-near-national-state-highways-10482839/
 
-- Kamakhya-Howrah Vande Bharat Sleeper train ticket booking opens – Here’s how to book IRCTC e-ticket
+- Vande Bharat Sleeper cancellation rules: You could lose 100% of your fare if you wait too long to cancel
   
-  🔗 https://indianexpress.com/article/india/kamakhya-howrah-vande-bharat-sleeper-ticket-booking-opens-irctc-e-ticket-10481443/
+  🔗 https://indianexpress.com/article/india/vande-bharat-sleeper-cancellation-rules-lose-100-fare-if-wait-long-to-cancel-refund-policy-10482724/
 
-- News Today Live Updates, 19 January | How a ‘successful businessman’ promised marriage and duped a Bengaluru engineer of Rs 1.53 crore
+- Who is BJP’s Nitin Nabin, set to become party’s youngest national president?
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-01-19-2026-news-headlines-10481918/
+  🔗 https://indianexpress.com/article/india/nitin-nabin-bjp-age-caste-nomination-national-president-jp-nadda-10482534/
 
-- Bihar NEET aspirant’s death: Family says she was home just days earlier, eager to resume preparations for test
+- Forged letter and a police complaint from ex-Assam CM: ‘Meant to cause political disharmony’
   
-  🔗 https://indianexpress.com/article/india/bihar-neet-aspirants-death-family-says-she-was-home-just-days-earlier-eager-to-resume-preparations-for-test-10481706/
+  🔗 https://indianexpress.com/article/india/forged-letter-police-complaint-ex-assam-cm-10482643/
+
+- ChatGPT ads are coming: Here’s how OpenAI makes money now, and what’s about to change
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-ads-how-openai-makes-money-now-10482593/
+
+- I tried Logitech’s MX Master 4. Its ergonomic design, clever gestures and haptics won me over
+  
+  🔗 https://indianexpress.com/article/technology/tech-reviews/logitech-mx-master-4-mouse-review-10482580/
+
+- Meet Irina Ghose, hired by AI startup Anthropic to lead its India operations
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meet-irina-ghose-ai-anthropic-india-md-10482299/
+
+- Samsung Galaxy S26 series: Here’s everything we know so far
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-s26-series-heres-everything-we-know-so-far-10482268/
 
 - ‘Today’s AI models are missing critical capabilities’: Google DeepMind’s Demis Hassabis
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-models-missing-critical-capabilities-demis-hassabis-10481161/
 
-- Elon Musk vs OpenAI: What newly unsealed court docs reveal and what they don’t
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-what-unsealed-court-docs-reveal-10481002/
+- Delhi HC reserves order on Novo’s plea against Dr Reddy’s semaglutide exports
+  A single-judge bench of Delhi high court had allowed Dr Reddy’s to continue manufacturing and exporting semagl
+  🔗 https://www.livemint.com/companies/news/novo-nordisk-semaglutide-case-novo-nordisk-vs-dr-reddys-sun-pharma-weight-loss-drug-11768821160316.html
 
-- Nothing CMF Headphone Pro review: Vintage looks, modern sound
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/nothing-cmf-headphone-pro-review-10480558/
+- Fixderma co-founder Shaily Mehrotra’s message to young women: ‘You don’t have to be perfect’ | Shark Tank India Season 5
+  Shaily Mehrotra, co-founder of Fixderma, has joined Shark Tank India Season 5 as a new shark. She discusses her journey from Varanasi to
+  🔗 https://www.livemint.com/companies/people/fixderma-co-founder-shaily-mehrotra-s-message-to-young-women-you-don-t-have-to-be-perfect-shark-tank-india-season-5-11768814237457.html
 
-- OpenAI poaches founding members of Thinking Machines Lab in escalating AI talent battle
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-poaches-thinking-machines-lab-ai-talent-battle-10480530/
-
-- iPhone 17 at Rs 47,990, Galaxy S25 Ultra at Rs 79,999 as Croma announces Republic Day Sale
-  
-  🔗 https://indianexpress.com/article/technology/croma-announces-republic-day-sale-discounts-on-iphone-17-s25-ultra-10479793/
+- Can Indians build premium brands that work abroad? Nikhil Kamath says…
+  Zerodha co-founder and billionaire Nikhil Kamath celebrated the success of Indian brands such as Superyou and Nappa D
+  🔗 https://www.livemint.com/companies/news/can-indians-build-premium-brands-work-succeed-abroad-nikhil-kamath-subko-superyou-nappa-dori-hope-to-create-cool-artisan-11768807326190.html
 
 - ‘Never understand burnout, worked 80-100 hours from teen’: Blue-collar worker turned millionaire founder of Airwallex
   Jack Zhang's fintech startup, Airwallex, is valued at $8 billion. He aims for $10 billion in revenue by 2030, driven
@@ -48,97 +60,85 @@
   Atlys was in the news for offering visas for just  ₹1 in August. Atlys is using social media, building its own channels, and relying on travel influencers.
   🔗 https://www.livemint.com/companies/people/atlys-santosh-hegde-travel-visa-marketing-content-influencer-ecosystem-ai-11768472122169.html
 
-- A penalty and a warning later, haze persists over IndiGo pilot hirings
-  Questions remain over whether IndiGo can realistically induct enough pilots to meet India’s
-  🔗 https://www.livemint.com/companies/news/indigo-pilot-hirings-dgca-regulator-penalty-11768741074192.html
+- Govt likely to focus on fiscal consolidation in Budget 2026: Mirae Asset Investment Managers' head of fixed income
+  Budget 2026 may support central government bond yields, says Mirae Asset's fixed income head. Basant Bafna says the government remains committed to fiscal consolidation.
+  🔗 https://www.livemint.com/market/bonds/govt-likely-to-focus-on-fiscal-consolidation-in-budget-2026-mirae-asset-investment-managers-head-of-fixed-income-11768824625525.html
 
-- How HCLTech defied the gravity of India's four-year IT slump
-  Out of India's top five IT stocks, only one pulled ahead in the last four years. The others either had nil returns, or even lost value
-  🔗 https://www.livemint.com/companies/hcltech-emerges-as-blue-eyed-boy-for-indian-it-investors-11768731268633.html
+- Sebi proposes  ₹20,000 crore AUM bar to classify significant market indices
+  The move would bring widely tracked equity and debt benchmarks under index provider rules.
+  🔗 https://www.livemint.com/market/stock-market-news/sebi-significant-index-threshold-mutual-funds-11768820119060.html
 
-- Distrust Reigns as ‘Me’ Supplants ‘We’ in Edelman Pre-Davos Poll
-  People across the world are becoming warier of governments and institutions. geopolitical tensions fuel nationalism and economic anxieties
-  🔗 https://www.livemint.com/companies/distrust-reigns-as-me-supplants-we-in-edelman-pre-davos-poll-11768778514196.html
+- Tata Capital Q3 Results: Net profit jumps 39% YoY to  ₹1,285 crore, NII improves 26%
+  Tata Capital reported a consolidated net profit of  ₹1,285 crore for the December quarter
+  🔗 https://www.livemint.com/market/stock-market-news/tata-capital-q3-results-net-profit-jumps-39-yoy-to-rs-1-285-crore-nii-improves-26-11768821899462.html
 
-- Amagi Media Labs IPO allotment LIVE: Check steps to check status — GMP signals 6% listing gains
-  Investors can check Amagi Media Labs IPO allotment status on the BSE and NSE.
-  🔗 https://www.livemint.com/market/ipo/amagi-media-labs-ipo-allotment-date-today-check-amagi-media-labs-ipo-gmp-and-steps-to-track-status-11768803361262.html
+- In Dalal Street’s gold rush, some winners are selling the shovels
+  In 1848, Samuel Brannan struck it rich by selling shovels. Today, India’s ‘market plumbing’ follows his blueprint.
+  🔗 https://www.livemint.com/market/stock-market-news/dalal-street-infrastructure-stocks-capital-market-india-trend-11768818228522.html
 
-- BHEL Q3 Results: Defence PSU’s profit surges 190% YoY to  ₹390 crore; revenue up 16%
-  Revenue from operations in Q3FY26 increased 16.
-  🔗 https://www.livemint.com/market/stock-market-news/bhel-q3-results-defence-psu-s-profit-surges-190-yoy-to-rs-390-crore-revenue-up-16-11768803554133.html
+- Silver rate today: COMEX Silver price hits a new high. Robert Kiyosaki predicts $107/oz soon
+  Robert Kiyosaki predicted that the precious white metal's price on COMEX is set to hit $107 per ounce soon. Silver price hit a fresh high level on 19 January 2026.
+  🔗 https://www.livemint.com/market/commodities/silver-rate-today-comex-silver-price-hits-a-new-high-robert-kiyosaki-predicts-107-oz-soon-11768818836280.html
 
-- Federal Bank share price jumps 3% as brokerages lift target price after Q3 results
-  Federal Bank share price rises 3%, driven by impressive December quarter results. Analysts noted significant YoY growth in net
-  🔗 https://www.livemint.com/market/stock-market-news/federal-bank-share-price-jumps-3-as-brokerages-lift-target-price-after-q3-results-11768801336101.html
+- AI Autonomy, 6G, and Quantum Mechanics to define enterprise competitiveness in 2026
+   AI Autonomy, 6G,
+  🔗 https://www.livemint.com/technology/ai-autonomy-6g-and-quantum-mechanics-to-define-enterprise-competitiveness-in-2026-11768821092482.html
 
-- Stocks to buy for long term: NMDC, UPL to KFin Technologies - 7 technical stock picks for 2026 by HDFC Securities
-  HDFC Securities has recommended seven stocks to buy in 2026. These technical stock picks for 2026 include Engineers India, Granules India, Indus Towers
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-long-term-nmdc-upl-to-kfin-technologies-7-technical-stock-picks-for-2026-by-hdfc-securities-11768801743125.html
+- Samsung Galaxy S26 Ultra tipped to arrive in four colours including blue and violet
+  Samsung Galaxy S26 Ultra colour options have surfaced online. Leak reveals black, white, blue and violet shades ahead of February launch.
+  🔗 https://www.livemint.com/technology/tech-news/samsung-galaxy-s26-ultra-tipped-to-arrive-in-four-colours-including-blue-and-violet-11768820526274.html
 
-- GRE Renew Enertech IPO allotment to be finalised today. Here's GMP, how to check status online
-  According to grey market tracking websites, the GMP for GRE Renew Enertech IPO today stands at  ₹6 per share. These shares
-  🔗 https://www.livemint.com/market/ipo/gre-renew-enertech-ipo-allotment-to-be-finalised-today-heres-gmp-how-to-check-status-online-11768792145132.html
+- Realme P4 Power 5G tipped to feature 10,000mAh battery and 144Hz AMOLED display
+  Realme P4 Power 5G is set to launch in India soon, with its Flipkart microsite now live. The phone is expected to feature a 144Hz
+  🔗 https://www.livemint.com/technology/gadgets/realme-p4-power-5g-tipped-to-feature-10-000mah-battery-and-144hz-amoled-display-11768815702418.html
+
+- Amazon Great Republic Day Sale 2026 brings big savings on GPS smartwatches
+  The Amazon Sale 2026 is live, offering strong deals on GPS smartwatches from brands like Samsung, Amazfit, Garmin and more. Bank
+  🔗 https://www.livemint.com/technology/gadgets/amazon-great-republic-day-sale-2026-brings-big-savings-on-gps-smartwatches-11768801260846.html
 
 - AI or die; India on right track: top AI expert at WEF
    AI or die; India on right
   🔗 https://www.livemint.com/technology/ai-or-die-india-on-right-track-top-ai-expert-at-wef-11768799738046.html
 
-- iOS 27: Stability upgrades, smarter Siri and foldable iPhone support tipped
-  Apple’s upcoming iOS 27 update is tipped to focus on stability and performance. It will introduce new Apple Intelligence features, Siri upgrades, AI
-  🔗 https://www.livemint.com/technology/tech-news/ios-27-stability-upgrades-smarter-siri-and-foldable-iphone-support-tipped-11768756145550.html
+- World stock markets brace for turbulence after Trump’s latest tariff shock - The Guardian
+  World stock markets brace for turbulence after Trump’
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVRCNzh3Y3lKQjg2NlNfTkpTNFNrcGhaMTdMTXhoQmFRYmpwVFllWXJsQ3c1WEw2Q0R3NHlLb1B0TWFGTnA5eG9ILUhEelN1V2M0WTU2eUFJblp6ZGNkUThUTUFnaTRvbGU4bk1CVEtpd1hBdTNVZzN4cGd4MDdqdDBCcGxLekVjMzFzV2xscGZ2OGRDc3g1dTExQklWaVpFS01rWGFxWmk1VGNkV1kwNzFTbGw0VVJiM3VNRC05SQ?oc=5
 
-- Apple eyes OLED upgrade for iPad Air, iMac and MacBook Air: Report
-  Apple is reportedly planning a major shift to OLED displays across iPads and Macs between 2026 and 2028. The iPad mini and MacBook Pro are expected to be the
-  🔗 https://www.livemint.com/technology/tech-news/apple-eyes-oled-upgrade-for-ipad-air-imac-and-macbook-air-report-11768752206645.html
+- Stocks Tumble as Greenland Fallout Fuels Gold: Markets Wrap - Bloomberg.com
+  Stocks Tumble as Greenland Fallout
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOTDNCelpyU0xpTFNiajFId3J5TzRUekVSTWhnbEJkLWZocVY0YmpENGNKVlJsR2VFTVFPeXFhOGo4M1ViNjk1ZE1hMF92SHF0THFQTm5OWHZOZWE4Zmp2c3dtLWlYTVl4bmNHNmRiOE5nVXNBckVUX1pvZTNHbzlzVnRrZGVIeFVwYjBYcVItYmZ6eWVwRjJnX29UNkg2MU01TlhLUHRDeE1fdGpxVXl2WWFkSQ?oc=5
 
-- iPhone 18 Pro tipped for smaller cutout, new camera tech in fresh leak: All you need to know
-  A new leak video by tipster Jon Prosser claims to reveal the iPhone 18 Pro’s full design. It hints at a smaller front cutout, relocated Dynamic Island, camera upgrades, a powerful A20 Pro chip
-  🔗 https://www.livemint.com/technology/tech-news/iphone-18-pro-tipped-for-smaller-cutout-new-camera-tech-in-fresh-leak-all-you-need-to-know-11768744199502.html
+- What’s open, what’s closed on Martin Luther King Jr Day 2026 in the US: Banks, schools, post offices, mar - Times of India
+  Banks, schools, post offices, mar will be closed on Martin Luther King Jr Day 20
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxPWW9BUnd1YWZNUUZ5Vzh2aF84VnNxSWhRbVFPRl9Nd2lsVVV4MXN3QW1QQjg0YXItQjFSWnlzUVNuS2liRjY0YzZtVnhPcDNhUi1qcWdKWnZ3NlJzX0xKRTVvUkVCaXVVa3ludFRJbWREYnRrTEp6SzNyYmFVcVYxTU5PaWkzRXFzTDZsQ3dfSGVKU2FTUG9aMG00RHhCNkRRV3Q3dnRQLTc5b0Y5UW5QOTJIWUxSdlltQ1picnBxdDg5elo2YkRGSUNwUXBES2JWeGVWbVAwNFd1N3g2WU4zYWh6cmhGdE12Y21NdDZoX3p2ZnA5QmlOenlIZHhoSEVWYzdUS3FhbnRNS3hkeXdUOVpWVnFPUXljYUNBa2xsMU4tUzTSAagCQVVfeXFMUF9fTUYwWS1lRnh1MGJYSHU5b3l2SlhETjVucDE0bFliVjNMV3pCS1hLUnJhQi1TWWJ1YlJOUVhLMG1zRDVESk1sT01JbEtyd3lMNXp6ZXItNllpUUNZY1pvVVNQcURkYzlCeFhZNExuRWwtekh3b243bTNRd1RPOEVadjh6d3lIbW4tbUxzUmpsdTk0U2ZKSHFjd0ZLdFpuS1JuRDF0WXViMl9XNWhnT2diV1lhWndLaUJqMGxoZ0xWMURSczcyendWR0ZWNW5wZ3MxT1RsUEVpMGxNblQ2NnpkcmFMTWFMYmdRM1YtVXpPMEtod3dITVp3N3BybUc4MW9jai1ZVE4yTm05MWRyNmlkYklaNDZtakVULVd3OThnVnk1VURwTkw?oc=5
 
-- Croma Republic Day Sale: Top deals on iPhone 15, Samsung Galaxy S25 Ultra and more
-  Croma’s Republic Day Sale is now live across India, offering discounts on smartphones, laptops, TVs and appliances. Shoppers can avail bank cash
-  🔗 https://www.livemint.com/technology/gadgets/croma-republic-day-sale-top-deals-on-iphone-15-samsung-galaxy-s25-ultra-and-more-11768741122240.html
-
-- Global markets slide as Donald Trump threatens tariffs on Europe over Greenland - Telegraph India
-  ' global markets slide as Donald Trump threatens tariffs
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPajFVWEV3M0FETjB3dGtFU0NqVWFpWlRVODl5QTZzNjVzTE0yc1J2c2Q2U2U3RllycDVwWXYxZEswYVd0U3R5U1MyLUJNb0pyQXB3aDE0YWZ4LU9yaDN2VE5KalBpZWNMSl9zdkZNN29NOUxrVUs5WkF5UFhBUDdOY1gwZ2h6UGFuT01EbGFZMDl2aVZwSllsRnJDVERNNDhpaVU3TnNWaGNUWThWRXZvaEdJMl9RRFNuQTk2dnNSc0xLNHdyVTdv0gHMAUFVX3lxTE5Ya2VweFB6VXd1MnhPNTBjaWRPWlFFcklVbEZ3SVhobF9wVXBzNXR2SmJIaC00M2F2Wlgzd1FrZ1JqM25za3lqTXJuR2RIN0l5anhlVjhia0RzRVpaN3NYY1h5a0lHZG5yNkl1VmYyLVZkOUEta0R3bnA0TmlKLW5HcnIyZXhPSzBzbDhNM2pOeHJSM2dnRjloRjItUjVUNlNSVHBILU1uVkxZWHI0R2g4dElMX053NzFSMTJ6N2pyYkxXUXdwQkJ5dm0zTQ?oc=5
+- EM assets muted as markets navigate fresh Trump tariff threats - TradingView — Track All Markets
+  EM assets muted as markets navigate fresh Trump tariff threats.
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOOHR5TnM4b1FmbXhfU0dHejVfMkxKT28tR3owenE2ejRudGtFem55X29kYUNycmdwaUdMZy1sSTlmcTl4akxwcE1PVmNPRExybHpIb0ZPSURrT3JrNE5tWnk4VkhQUXdKVVd3NExYb1N1dzVSeU9tMndfODhlU0g2Q3ZNQ1ZzbThOcDNvVWh2UDhQRkwwQTNUSjFUcVZvb05oa2xCeUNibnk5WmIzU3kzSGhCTmZCc2N6eDY5c2c1NnB5N1Q4YWxWQnNzdmE?oc=5
 
 - Asia-Pacific markets mostly slip as investors assess Greenland developments, await key China data - CNBC
   Asia-Pacific markets mostly slip as investors assess Greenland developments
   🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNTGNiSkVid2NSb1hwZHJjeThwd2dKS0dFMXE1U094SlBfSFJHSF84Qk1vQS1XSWJmQlJ5c0VSTVJPUVlJdnNrVllWRWlzQUIyQjVqTjNXTWQ2b0lpVXlTSi1TZ2NBVXJfYkp6TEVtckNXcmt4LTlxR2pRNzAyVk1EdDVDN0FaN3FMdGhuUW53R3pRWTJ4NzRB0gGcAUFVX3lxTE9qaWpYQjBhNzhscU9fbFJabmVkZnFTTVBBY3dlN2p6MTFwMHltZDN0V1hIdU8tMnkxNnhjWUY2bUJhMkt0aFcxWThZeW11RDgyX21SV2FTOE5yZW85Sk9jTHdtdkRPVFhxNUFXdzh6S2EyLUgxUUZEdVplQnRHTzJZc2traHFMcEtPMGNlSlA5a1JFN29IU1hUWGl1cw?oc=5
 
-- World stock markets brace for turbulence after Trump’s latest tariff shock - The Guardian
-  World stock markets brace for turbulence after Trump’
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVRCNzh3Y3lKQjg2NlNfTkpTNFNrcGhaMTdMTXhoQmFRYmpwVFllWXJsQ3c1WEw2Q0R3NHlLb1B0TWFGTnA5eG9ILUhEelN1V2M0WTU2eUFJblp6ZGNkUThUTUFnaTRvbGU4bk1CVEtpd1hBdTNVZzN4cGd4MDdqdDBCcGxLekVjMzFzV2xscGZ2OGRDc3g1dTExQklWaVpFS01rWGFxWmk1VGNkV1kwNzFTbGw0VVJiM3VNRC05SQ?oc=5
+- Sebi proposes framework for 'Significant Indices' to improve governance at Index Providers
+   Markets regulator Sebi proposed a regulatory framework for 'Significant Indices' as a part of its effort to improve the
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-framework-for-significant-indices-to-improve-governance-at-index-providers/articleshow/126678559.cms
 
-- African Markets - Factors to watch on January 19 - TradingView — Track All Markets
-  African Markets - Factors to watch on January 19.
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlJmbEtySUJheUZnNFJ5YUlWX3hSTlExRmRWUmhJTVR1aVI4M3E0U29BZmhhZUZWZF93UUljVGh5cnBILUdUb2oxaVpNVHc4RjlMZ0pSdUJJdGl3bHpnZnBRMDgtZHNJRTNvWFV5ZEt1bXVHYzlhZjFHQmRUc3FpYnVrNEJyQkhRc0FiSzJNekVUM01ORVBhRi1vMGlydjBYTEJHY3JqRHVRTDFibGxqc3NqZWpxQ3c?oc=5
+- LTIMindtree Q3 results: PAT falls 11% YoY to Rs 971 crore impacted by new labour code, revenue up 12%
+   LTIMindtree reported an eleven percent YoY decline in Q3 net profit due to one-time labour code costs.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/ltimindtree-q3-results-pat-falls-11-yoy-to-rs-971-crore-impacted-by-new-labour-code-revenue-up-12/articleshow/126678470.cms
 
-- ZAWYA-PRESSR: Chestertons MENA shares insights into the trends shaping the commercial property market in 2026 - TradingView — Track All Markets
-  ZAWYA-PRESSR: Chestertons MENA shares insights into the trends
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxQTkFmVF9WUjRJdW9JeGtyVGRrUzVXQkp5WFVHYUh3c0gwRXhCZFpwalNFN3E5aFp4djRRSFNCci1aM0k2clRHbVM4V3Q2b2V6R0w4VDFOUzBRWER6NHNSMUhVVG1LcVA3ZjR6WHRzWlhreUpmRkdLOGNBSE9TV2daWk5nYk9fV1BPalZNSlhwZUZGYTB4MGJZYlExRFl6ZnhoRnNxMF9DZjRlZXkwSF9TTkozNHk1TVpyVFhGTUxfcmxyc3dEdlZqMU1jSUhGclpMN1BMaUhQT0gxeVJRRTVxa1ZUYzQtSUJMaG4tbVJJckVMTFZqQmQ2NE82alp5T25HelI1cVE3Ym16dnhVOXc0TQ?oc=5
+- INDIA BONDS-India bonds fall, tracking U.S. Treasuries as demand lags
+   weaker U.S. Treasuries set the tone for a market still feeling the ⁠sting of missing out on inclusion in Bloomberg's Global Aggregate bond index.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-fall-tracking-u-s-treasuries-as-demand-lags/articleshow/126678399.cms
 
-- Politics, Policy and Profits: What will keep global markets on edge this week
-  The World Economic Forum in Davos (Jan 19–23) will spotlight geopolitics, trade, and AI. In the U.S., the Supreme Court will hear a case tied to Trump’s attempt to remove Fed board
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/politics-policy-and-profits-what-will-keep-global-markets-on-edge-this-week/articleshow/126669726.cms
+- LKP Finance: Multibagger stock with 400% return in last one year announces 4:1 bonus issue
+  LKP Finance approved a four-for-one bonus share issue and a sharp increase in authorised capital. The NBFC’s move signals balance sheet strength
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lkp-finance-multibagger-stock-with-400-return-in-last-one-year-announces-41-bonus-issue/articleshow/126678328.cms
 
-- IFCI shares surges 30% in 5 days on NSE IPO buzz
-  The stock has seen notable swings in recent periods. While it has gained about 11% over the past year, its performance over the last three years has been far stronger, delivering a surge
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-surges-30-in-5-days-on-nse-ipo-buzz/articleshow/126669668.cms
-
-- Bharat Coking Coal shares fall 7% after stellar debut at 97% premium. Should you buy, sell or hold?
-   BCCL shares fell 7% after debuting at a 97% premium. Analysts suggest short-term profit booking but retain a long-term hold view.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bharat-coking-coal-shares-fall-7-after-stellar-debut-at-97-premium-should-you-buy-sell-or-hold/articleshow/126669608.cms
-
-- Reliance results largely in line as O2C strength offsets retail blip: Sushil Choksey
-  Reliance Industries' latest quarterly results met expectations, with the oil-to-chemicals business providing stability. Retail faced temporary pressures due to GST changes and a shifted festive season, Jio delivered steady performance.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/reliance-results-largely-in-line-as-o2c-strength-offsets-retail-blip-sushil-choksey/articleshow/126669514.cms
-
-- Billionaires' wealth hits new peak as their clout grows, Oxfam says
-  Billionaire fortunes surged to a record high last year. One in four people worldwide struggle to eat regularly. Nearly half the global population lives in poverty.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/billionaires-wealth-hits-new-peak-as-their-clout-grows-oxfam-says/articleshow/126669243.cms
+- Havells India Q3 Results: Net profit rises 8% to Rs 300 crore
+  Consumer electrical goods maker Havells India reported a 7.9 per cent increase in consolidated net profit to Rs 300.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/havells-q3-net-profit-up-8-pc-to-rs-300-cr/articleshow/126678242.cms
 
 - Trump Invites India To Be Part Of Gaza's "Board Of Peace" - NDTV
   The White House has invited India to be part
@@ -148,17 +148,17 @@
   ‘Most consequential board ever’: Trump invites India to join Gaza �
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaWJCVjhOellId2gyMXFiMnBTbFdjUjJuVVhKYkR0OUh4cUxYT0dTWVhTLV81bHZGWUhNTHFfS0RBaHJmeDJfSWZjcHlwNnFKZ0dEb0REOUxzQmpIQzZqM0RoUUJ3UXE5SDZhNVRGcTlNcVJ0blpwSHNmZjNycS13TkJvMW1CM1E1SlhaaFlRSXZrcVYzXzNsUHJhX0xaQUFIZTM5YVprVk8xVlQ1OGx1SzJiaC10UVo2WmhLUjJpWWZKdl9mUVVyUzJ6LWw5S1ByRGVn0gHYAUFVX3lxTFBlcTFzcjc4V0o4enhpbWxvTDlOb2o2NjMyV1RPOUZ4MWtmczZackExNlNTUUw2Q24yZHZCQ3pXZ0s0dVNKNm9wcldYTF8tSXgzU2JVTHBHMkp5d0VEUmRaeFNNcnYxNGlTcEJzdlRJNzl3YW5lanYwUUhSb1lJVzZ3Mmd2aTRkU2luUktFN2x5X1JudGZMWEo4MkRJUVFYMm93aU1Nb2tRVXZENnlWcHNnTWxmMzQzMkYzWFA4SF8ta0FwZTZpSEFSdGhGcHI0VWVibzRIelhJZg?oc=5
 
-- Top News Headlines of January 18, 2026 | ‘He fooled us’: Iranian protesters say they feel betrayed over Trump’s ‘help’ which never came - The Indian Express
-  The Indian Express reports that Iranian protesters say they feel betrayed over Trump’s ‘help’ which
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxONFZYM1Qxbi1SRFN6VUNVcndHX2tudTl2REZFVTZJSEE3OG1JV205WERPN2VLVUUzQm9ZRU9sOVBRdjVvVzBpdzhxekd3TE44SHp2cE10RTY0UXkyZ2NsU1hCa1NpRTJJbjFaV016T0IwdG5IUnBhYmc3Z0JLaVYyaXlWcnJKQkVkWE4wdHBPTnZZRmtGWmVZcjNQNVJ4SzJSQ1JmeEU3eHVnVTZ1ampMREkwTF9TSHk0X3BVUUhfZHRQb3BsN1BCeE1fd3N6WnNnOS1waDNmRm9paWUyODdxLXdLMlptdDNq0gHvAUFVX3lxTE85bDhFVWhtUW02Vk5mWkhfRTR4eTVpY19OUGNRTlVwMmduRDJWa0FtUUJLNFYtVTdlbzhBeURVZVVQaThqNURMbkhMbzhNbUtaQmFja0xma1M3TlNvcF9kbmFtakp1M2pFRGprV0RTNXFGdFZPMlBaVkxsTEFwbWtlQUFEaVp4bWVRMHAxRVBFWUNJU3ExMFNwVGdvQUxDQjNRUWVKSEsyQzlYam5VbExDdmlOOW1qVXo1azViMFlOVjh5NDVVVmQtdGFaNTV0SUJQNnJ2eW9VZkFGZnNYS3NkYk1iUl9lYXNuN1ZmcG5V?oc=5
+- 'For India, It Is TACO, Trump Always Chickens Out': Ian Bremmer To NDTV - NDTV
+  'For India, It Is TACO, Trump
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3hkUUU5MmlNa3JScjhPVkx0alpVME9VQ2lQVDV4d0I1dXFYRGZha202ZmFqZTQ1cHdwWER2RVpmZlhLMVlNN2lGbEF5NFNfRGRiaXJhd1AyRTRpb2EwWDgyWjRLOXZ4d0p6NFRFYjJvdXNYWi1LLVdSOTZ2Z21GQjB4bENBYjRwLXBwZG5aODRldkVoUjhZQWZjXy10bzg1TXdjM1Z1Skx3Q0JwQXQ2MTZ1MGlrcGl1MW9N0gHDAUFVX3lxTE1rNlBOeVVlZ2Ewb21mZVA2d1RFbTNEOUY1WnRDVC1ROENxYnVhSGZ4b1JiTHpvNlhJM1k3M3NNQ0ZzUHJrQ3REUHhRMkNXcm5mZnBEaFk2cHV0S2duMWhzNENGamVjYXNjdEh5QnhsOVFGNjRVMUxuS1F1aFByRnZ1THRuUFRFRnR1OURhLUVpUGcwWU1XWW0xaXVscjZTdkk3bGNNSjVLNmlwSy14UDBDOVdZRmp6THZQY0ZNRllzMU9uSQ?oc=5
 
 - India defends decision to skip Brics naval drill - Times of India
   India defends decision to skip Brics naval
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
 
-- After Hotel Shift, Team Shinde's Fresh Move To Foil Horse-Trading Attempts - NDTV
-  After Hotel Shift, Team Shinde's
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa1RibEx2c2J6LV81MDlEdy1PajJWVDZqT1ItVDlENHBfVlhaQ2FkMWhzN013TnpMeXdxNUVHZ1dYaDUyTU1PdFAydVRlOWIweWxwMFBaLXFWR3VNUGhqMy1La0NoeXlrYkdkVHNHY3JKS1h0VW1IZ1JOLVBnYXVFU2VhQ080UGV2LWs1d0o5aUhPb2VaYkZkTnJFdlZzMUFNT1c0UFNwbVpFYUFQTllZcUt6Y3VsY0h3N2JRdHNIakhRQVFndUJqSGFKbmRkVTlYcG1KOEZudkRBZWVTSXfSAeYBQVVfeXFMTjRIclRjQlFGYWtENmJpQnR6LUhZZmpONnRTS0ZSWHNLazlYWEpBcDZPdUtKQml5S0lld2hRTkRWY18zb3dNSWhIcG1pejktY2FrNWxjUFkzSG9aSVBOeHdWQWxneXB4dnhkeTFJSlZPdW9wNkxPUGgwSFJtZ0NqcUJRclNON1NCdXM2VVJNYWo5cGlycllVeEdDdmlXajFlLWhXVXJoM21QM0tWLU10VlJmZDdlUEx0dlpzZG8wNjZpRk04Z0p6bWl4em5TNkc3SHF3bUg5cEJ3RVhYdUFuOVpxZ3hQUFE?oc=5
+- India is profiling Kashmir mosques, raising new surveillance fears - Al Jazeera
+  India is profiling Kashmir mosques, raising new
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSWZ3SHFmSFAybFAxbEpmNjVJLUtNTFFYbFg3MHVWa2V6LXlvUFNMZEZuMi1ZdDltZk9BaXF6UzJkNG5fdFFIaFVqNXNyakNLTlZjcG10a1FmRzltREFuNW1aTkRtWXpFQ1UxVDhWUEF1S1NlR0ZZc0h2WHVKSUxpQUpjVmh2NXhTbm5YX3k5SFBsVEVGc2RadFVRME9mVGpqejk2dzktX3oyQdIBrwFBVV95cUxNRzIyUmp2LURDdkRaVHU1b1I2V2lLazdkQVlaOXF3WEFoQkIzZEl3N3VSRGVfRktlOGpTVHR6UGNXR3ZkeWJkWGx3dndWUlpodUhmWGRZR1ZyMTJTeEtwVlpNR05oRmw0UnZGWUEwbnVaOS1hTlBsNE9aQ29XLXNVZWdNaUt3Tkp0dC1BSWFoaFBYNXhPeGtsU08yRzBEZzVRTm9OTXVVa01aU3doZmF3?oc=5
 
 - Trump Invites India To Be Part Of Gaza's "Board Of Peace" - NDTV
   The White House has invited India to be part
@@ -168,17 +168,17 @@
   ‘Most consequential board ever’: Trump invites India to join Gaza �
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaWJCVjhOellId2gyMXFiMnBTbFdjUjJuVVhKYkR0OUh4cUxYT0dTWVhTLV81bHZGWUhNTHFfS0RBaHJmeDJfSWZjcHlwNnFKZ0dEb0REOUxzQmpIQzZqM0RoUUJ3UXE5SDZhNVRGcTlNcVJ0blpwSHNmZjNycS13TkJvMW1CM1E1SlhaaFlRSXZrcVYzXzNsUHJhX0xaQUFIZTM5YVprVk8xVlQ1OGx1SzJiaC10UVo2WmhLUjJpWWZKdl9mUVVyUzJ6LWw5S1ByRGVn0gHYAUFVX3lxTFBlcTFzcjc4V0o4enhpbWxvTDlOb2o2NjMyV1RPOUZ4MWtmczZackExNlNTUUw2Q24yZHZCQ3pXZ0s0dVNKNm9wcldYTF8tSXgzU2JVTHBHMkp5d0VEUmRaeFNNcnYxNGlTcEJzdlRJNzl3YW5lanYwUUhSb1lJVzZ3Mmd2aTRkU2luUktFN2x5X1JudGZMWEo4MkRJUVFYMm93aU1Nb2tRVXZENnlWcHNnTWxmMzQzMkYzWFA4SF8ta0FwZTZpSEFSdGhGcHI0VWVibzRIelhJZg?oc=5
 
-- Top News Headlines of January 18, 2026 | ‘He fooled us’: Iranian protesters say they feel betrayed over Trump’s ‘help’ which never came - The Indian Express
-  The Indian Express reports that Iranian protesters say they feel betrayed over Trump’s ‘help’ which
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxONFZYM1Qxbi1SRFN6VUNVcndHX2tudTl2REZFVTZJSEE3OG1JV205WERPN2VLVUUzQm9ZRU9sOVBRdjVvVzBpdzhxekd3TE44SHp2cE10RTY0UXkyZ2NsU1hCa1NpRTJJbjFaV016T0IwdG5IUnBhYmc3Z0JLaVYyaXlWcnJKQkVkWE4wdHBPTnZZRmtGWmVZcjNQNVJ4SzJSQ1JmeEU3eHVnVTZ1ampMREkwTF9TSHk0X3BVUUhfZHRQb3BsN1BCeE1fd3N6WnNnOS1waDNmRm9paWUyODdxLXdLMlptdDNq0gHvAUFVX3lxTE85bDhFVWhtUW02Vk5mWkhfRTR4eTVpY19OUGNRTlVwMmduRDJWa0FtUUJLNFYtVTdlbzhBeURVZVVQaThqNURMbkhMbzhNbUtaQmFja0xma1M3TlNvcF9kbmFtakp1M2pFRGprV0RTNXFGdFZPMlBaVkxsTEFwbWtlQUFEaVp4bWVRMHAxRVBFWUNJU3ExMFNwVGdvQUxDQjNRUWVKSEsyQzlYam5VbExDdmlOOW1qVXo1azViMFlOVjh5NDVVVmQtdGFaNTV0SUJQNnJ2eW9VZkFGZnNYS3NkYk1iUl9lYXNuN1ZmcG5V?oc=5
+- 'For India, It Is TACO, Trump Always Chickens Out': Ian Bremmer To NDTV - NDTV
+  'For India, It Is TACO, Trump
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3hkUUU5MmlNa3JScjhPVkx0alpVME9VQ2lQVDV4d0I1dXFYRGZha202ZmFqZTQ1cHdwWER2RVpmZlhLMVlNN2lGbEF5NFNfRGRiaXJhd1AyRTRpb2EwWDgyWjRLOXZ4d0p6NFRFYjJvdXNYWi1LLVdSOTZ2Z21GQjB4bENBYjRwLXBwZG5aODRldkVoUjhZQWZjXy10bzg1TXdjM1Z1Skx3Q0JwQXQ2MTZ1MGlrcGl1MW9N0gHDAUFVX3lxTE1rNlBOeVVlZ2Ewb21mZVA2d1RFbTNEOUY1WnRDVC1ROENxYnVhSGZ4b1JiTHpvNlhJM1k3M3NNQ0ZzUHJrQ3REUHhRMkNXcm5mZnBEaFk2cHV0S2duMWhzNENGamVjYXNjdEh5QnhsOVFGNjRVMUxuS1F1aFByRnZ1THRuUFRFRnR1OURhLUVpUGcwWU1XWW0xaXVscjZTdkk3bGNNSjVLNmlwSy14UDBDOVdZRmp6THZQY0ZNRllzMU9uSQ?oc=5
 
 - India defends decision to skip Brics naval drill - Times of India
   India defends decision to skip Brics naval
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
 
-- After Hotel Shift, Team Shinde's Fresh Move To Foil Horse-Trading Attempts - NDTV
-  After Hotel Shift, Team Shinde's
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa1RibEx2c2J6LV81MDlEdy1PajJWVDZqT1ItVDlENHBfVlhaQ2FkMWhzN013TnpMeXdxNUVHZ1dYaDUyTU1PdFAydVRlOWIweWxwMFBaLXFWR3VNUGhqMy1La0NoeXlrYkdkVHNHY3JKS1h0VW1IZ1JOLVBnYXVFU2VhQ080UGV2LWs1d0o5aUhPb2VaYkZkTnJFdlZzMUFNT1c0UFNwbVpFYUFQTllZcUt6Y3VsY0h3N2JRdHNIakhRQVFndUJqSGFKbmRkVTlYcG1KOEZudkRBZWVTSXfSAeYBQVVfeXFMTjRIclRjQlFGYWtENmJpQnR6LUhZZmpONnRTS0ZSWHNLazlYWEpBcDZPdUtKQml5S0lld2hRTkRWY18zb3dNSWhIcG1pejktY2FrNWxjUFkzSG9aSVBOeHdWQWxneXB4dnhkeTFJSlZPdW9wNkxPUGgwSFJtZ0NqcUJRclNON1NCdXM2VVJNYWo5cGlycllVeEdDdmlXajFlLWhXVXJoM21QM0tWLU10VlJmZDdlUEx0dlpzZG8wNjZpRk04Z0p6bWl4em5TNkc3SHF3bUg5cEJ3RVhYdUFuOVpxZ3hQUFE?oc=5
+- India is profiling Kashmir mosques, raising new surveillance fears - Al Jazeera
+  India is profiling Kashmir mosques, raising new
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSWZ3SHFmSFAybFAxbEpmNjVJLUtNTFFYbFg3MHVWa2V6LXlvUFNMZEZuMi1ZdDltZk9BaXF6UzJkNG5fdFFIaFVqNXNyakNLTlZjcG10a1FmRzltREFuNW1aTkRtWXpFQ1UxVDhWUEF1S1NlR0ZZc0h2WHVKSUxpQUpjVmh2NXhTbm5YX3k5SFBsVEVGc2RadFVRME9mVGpqejk2dzktX3oyQdIBrwFBVV95cUxNRzIyUmp2LURDdkRaVHU1b1I2V2lLazdkQVlaOXF3WEFoQkIzZEl3N3VSRGVfRktlOGpTVHR6UGNXR3ZkeWJkWGx3dndWUlpodUhmWGRZR1ZyMTJTeEtwVlpNR05oRmw0UnZGWUEwbnVaOS1hTlBsNE9aQ29XLXNVZWdNaUt3Tkp0dC1BSWFoaFBYNXhPeGtsU08yRzBEZzVRTm9OTXVVa01aU3doZmF3?oc=5
 
 - Trump Invites India To Be Part Of Gaza's "Board Of Peace" - NDTV
   The White House has invited India to be part
@@ -188,17 +188,17 @@
   ‘Most consequential board ever’: Trump invites India to join Gaza �
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaWJCVjhOellId2gyMXFiMnBTbFdjUjJuVVhKYkR0OUh4cUxYT0dTWVhTLV81bHZGWUhNTHFfS0RBaHJmeDJfSWZjcHlwNnFKZ0dEb0REOUxzQmpIQzZqM0RoUUJ3UXE5SDZhNVRGcTlNcVJ0blpwSHNmZjNycS13TkJvMW1CM1E1SlhaaFlRSXZrcVYzXzNsUHJhX0xaQUFIZTM5YVprVk8xVlQ1OGx1SzJiaC10UVo2WmhLUjJpWWZKdl9mUVVyUzJ6LWw5S1ByRGVn0gHYAUFVX3lxTFBlcTFzcjc4V0o4enhpbWxvTDlOb2o2NjMyV1RPOUZ4MWtmczZackExNlNTUUw2Q24yZHZCQ3pXZ0s0dVNKNm9wcldYTF8tSXgzU2JVTHBHMkp5d0VEUmRaeFNNcnYxNGlTcEJzdlRJNzl3YW5lanYwUUhSb1lJVzZ3Mmd2aTRkU2luUktFN2x5X1JudGZMWEo4MkRJUVFYMm93aU1Nb2tRVXZENnlWcHNnTWxmMzQzMkYzWFA4SF8ta0FwZTZpSEFSdGhGcHI0VWVibzRIelhJZg?oc=5
 
-- Top News Headlines of January 18, 2026 | ‘He fooled us’: Iranian protesters say they feel betrayed over Trump’s ‘help’ which never came - The Indian Express
-  The Indian Express reports that Iranian protesters say they feel betrayed over Trump’s ‘help’ which
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxONFZYM1Qxbi1SRFN6VUNVcndHX2tudTl2REZFVTZJSEE3OG1JV205WERPN2VLVUUzQm9ZRU9sOVBRdjVvVzBpdzhxekd3TE44SHp2cE10RTY0UXkyZ2NsU1hCa1NpRTJJbjFaV016T0IwdG5IUnBhYmc3Z0JLaVYyaXlWcnJKQkVkWE4wdHBPTnZZRmtGWmVZcjNQNVJ4SzJSQ1JmeEU3eHVnVTZ1ampMREkwTF9TSHk0X3BVUUhfZHRQb3BsN1BCeE1fd3N6WnNnOS1waDNmRm9paWUyODdxLXdLMlptdDNq0gHvAUFVX3lxTE85bDhFVWhtUW02Vk5mWkhfRTR4eTVpY19OUGNRTlVwMmduRDJWa0FtUUJLNFYtVTdlbzhBeURVZVVQaThqNURMbkhMbzhNbUtaQmFja0xma1M3TlNvcF9kbmFtakp1M2pFRGprV0RTNXFGdFZPMlBaVkxsTEFwbWtlQUFEaVp4bWVRMHAxRVBFWUNJU3ExMFNwVGdvQUxDQjNRUWVKSEsyQzlYam5VbExDdmlOOW1qVXo1azViMFlOVjh5NDVVVmQtdGFaNTV0SUJQNnJ2eW9VZkFGZnNYS3NkYk1iUl9lYXNuN1ZmcG5V?oc=5
+- 'For India, It Is TACO, Trump Always Chickens Out': Ian Bremmer To NDTV - NDTV
+  'For India, It Is TACO, Trump
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3hkUUU5MmlNa3JScjhPVkx0alpVME9VQ2lQVDV4d0I1dXFYRGZha202ZmFqZTQ1cHdwWER2RVpmZlhLMVlNN2lGbEF5NFNfRGRiaXJhd1AyRTRpb2EwWDgyWjRLOXZ4d0p6NFRFYjJvdXNYWi1LLVdSOTZ2Z21GQjB4bENBYjRwLXBwZG5aODRldkVoUjhZQWZjXy10bzg1TXdjM1Z1Skx3Q0JwQXQ2MTZ1MGlrcGl1MW9N0gHDAUFVX3lxTE1rNlBOeVVlZ2Ewb21mZVA2d1RFbTNEOUY1WnRDVC1ROENxYnVhSGZ4b1JiTHpvNlhJM1k3M3NNQ0ZzUHJrQ3REUHhRMkNXcm5mZnBEaFk2cHV0S2duMWhzNENGamVjYXNjdEh5QnhsOVFGNjRVMUxuS1F1aFByRnZ1THRuUFRFRnR1OURhLUVpUGcwWU1XWW0xaXVscjZTdkk3bGNNSjVLNmlwSy14UDBDOVdZRmp6THZQY0ZNRllzMU9uSQ?oc=5
 
 - India defends decision to skip Brics naval drill - Times of India
   India defends decision to skip Brics naval
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
 
-- After Hotel Shift, Team Shinde's Fresh Move To Foil Horse-Trading Attempts - NDTV
-  After Hotel Shift, Team Shinde's
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa1RibEx2c2J6LV81MDlEdy1PajJWVDZqT1ItVDlENHBfVlhaQ2FkMWhzN013TnpMeXdxNUVHZ1dYaDUyTU1PdFAydVRlOWIweWxwMFBaLXFWR3VNUGhqMy1La0NoeXlrYkdkVHNHY3JKS1h0VW1IZ1JOLVBnYXVFU2VhQ080UGV2LWs1d0o5aUhPb2VaYkZkTnJFdlZzMUFNT1c0UFNwbVpFYUFQTllZcUt6Y3VsY0h3N2JRdHNIakhRQVFndUJqSGFKbmRkVTlYcG1KOEZudkRBZWVTSXfSAeYBQVVfeXFMTjRIclRjQlFGYWtENmJpQnR6LUhZZmpONnRTS0ZSWHNLazlYWEpBcDZPdUtKQml5S0lld2hRTkRWY18zb3dNSWhIcG1pejktY2FrNWxjUFkzSG9aSVBOeHdWQWxneXB4dnhkeTFJSlZPdW9wNkxPUGgwSFJtZ0NqcUJRclNON1NCdXM2VVJNYWo5cGlycllVeEdDdmlXajFlLWhXVXJoM21QM0tWLU10VlJmZDdlUEx0dlpzZG8wNjZpRk04Z0p6bWl4em5TNkc3SHF3bUg5cEJ3RVhYdUFuOVpxZ3hQUFE?oc=5
+- India is profiling Kashmir mosques, raising new surveillance fears - Al Jazeera
+  India is profiling Kashmir mosques, raising new
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSWZ3SHFmSFAybFAxbEpmNjVJLUtNTFFYbFg3MHVWa2V6LXlvUFNMZEZuMi1ZdDltZk9BaXF6UzJkNG5fdFFIaFVqNXNyakNLTlZjcG10a1FmRzltREFuNW1aTkRtWXpFQ1UxVDhWUEF1S1NlR0ZZc0h2WHVKSUxpQUpjVmh2NXhTbm5YX3k5SFBsVEVGc2RadFVRME9mVGpqejk2dzktX3oyQdIBrwFBVV95cUxNRzIyUmp2LURDdkRaVHU1b1I2V2lLazdkQVlaOXF3WEFoQkIzZEl3N3VSRGVfRktlOGpTVHR6UGNXR3ZkeWJkWGx3dndWUlpodUhmWGRZR1ZyMTJTeEtwVlpNR05oRmw0UnZGWUEwbnVaOS1hTlBsNE9aQ29XLXNVZWdNaUt3Tkp0dC1BSWFoaFBYNXhPeGtsU08yRzBEZzVRTm9OTXVVa01aU3doZmF3?oc=5
 
 - Trump Invites India To Be Part Of Gaza's "Board Of Peace" - NDTV
   The White House has invited India to be part
@@ -208,17 +208,17 @@
   ‘Most consequential board ever’: Trump invites India to join Gaza �
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaWJCVjhOellId2gyMXFiMnBTbFdjUjJuVVhKYkR0OUh4cUxYT0dTWVhTLV81bHZGWUhNTHFfS0RBaHJmeDJfSWZjcHlwNnFKZ0dEb0REOUxzQmpIQzZqM0RoUUJ3UXE5SDZhNVRGcTlNcVJ0blpwSHNmZjNycS13TkJvMW1CM1E1SlhaaFlRSXZrcVYzXzNsUHJhX0xaQUFIZTM5YVprVk8xVlQ1OGx1SzJiaC10UVo2WmhLUjJpWWZKdl9mUVVyUzJ6LWw5S1ByRGVn0gHYAUFVX3lxTFBlcTFzcjc4V0o4enhpbWxvTDlOb2o2NjMyV1RPOUZ4MWtmczZackExNlNTUUw2Q24yZHZCQ3pXZ0s0dVNKNm9wcldYTF8tSXgzU2JVTHBHMkp5d0VEUmRaeFNNcnYxNGlTcEJzdlRJNzl3YW5lanYwUUhSb1lJVzZ3Mmd2aTRkU2luUktFN2x5X1JudGZMWEo4MkRJUVFYMm93aU1Nb2tRVXZENnlWcHNnTWxmMzQzMkYzWFA4SF8ta0FwZTZpSEFSdGhGcHI0VWVibzRIelhJZg?oc=5
 
-- Top News Headlines of January 18, 2026 | ‘He fooled us’: Iranian protesters say they feel betrayed over Trump’s ‘help’ which never came - The Indian Express
-  The Indian Express reports that Iranian protesters say they feel betrayed over Trump’s ‘help’ which
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxONFZYM1Qxbi1SRFN6VUNVcndHX2tudTl2REZFVTZJSEE3OG1JV205WERPN2VLVUUzQm9ZRU9sOVBRdjVvVzBpdzhxekd3TE44SHp2cE10RTY0UXkyZ2NsU1hCa1NpRTJJbjFaV016T0IwdG5IUnBhYmc3Z0JLaVYyaXlWcnJKQkVkWE4wdHBPTnZZRmtGWmVZcjNQNVJ4SzJSQ1JmeEU3eHVnVTZ1ampMREkwTF9TSHk0X3BVUUhfZHRQb3BsN1BCeE1fd3N6WnNnOS1waDNmRm9paWUyODdxLXdLMlptdDNq0gHvAUFVX3lxTE85bDhFVWhtUW02Vk5mWkhfRTR4eTVpY19OUGNRTlVwMmduRDJWa0FtUUJLNFYtVTdlbzhBeURVZVVQaThqNURMbkhMbzhNbUtaQmFja0xma1M3TlNvcF9kbmFtakp1M2pFRGprV0RTNXFGdFZPMlBaVkxsTEFwbWtlQUFEaVp4bWVRMHAxRVBFWUNJU3ExMFNwVGdvQUxDQjNRUWVKSEsyQzlYam5VbExDdmlOOW1qVXo1azViMFlOVjh5NDVVVmQtdGFaNTV0SUJQNnJ2eW9VZkFGZnNYS3NkYk1iUl9lYXNuN1ZmcG5V?oc=5
+- 'For India, It Is TACO, Trump Always Chickens Out': Ian Bremmer To NDTV - NDTV
+  'For India, It Is TACO, Trump
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3hkUUU5MmlNa3JScjhPVkx0alpVME9VQ2lQVDV4d0I1dXFYRGZha202ZmFqZTQ1cHdwWER2RVpmZlhLMVlNN2lGbEF5NFNfRGRiaXJhd1AyRTRpb2EwWDgyWjRLOXZ4d0p6NFRFYjJvdXNYWi1LLVdSOTZ2Z21GQjB4bENBYjRwLXBwZG5aODRldkVoUjhZQWZjXy10bzg1TXdjM1Z1Skx3Q0JwQXQ2MTZ1MGlrcGl1MW9N0gHDAUFVX3lxTE1rNlBOeVVlZ2Ewb21mZVA2d1RFbTNEOUY1WnRDVC1ROENxYnVhSGZ4b1JiTHpvNlhJM1k3M3NNQ0ZzUHJrQ3REUHhRMkNXcm5mZnBEaFk2cHV0S2duMWhzNENGamVjYXNjdEh5QnhsOVFGNjRVMUxuS1F1aFByRnZ1THRuUFRFRnR1OURhLUVpUGcwWU1XWW0xaXVscjZTdkk3bGNNSjVLNmlwSy14UDBDOVdZRmp6THZQY0ZNRllzMU9uSQ?oc=5
 
 - India defends decision to skip Brics naval drill - Times of India
   India defends decision to skip Brics naval
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
 
-- After Hotel Shift, Team Shinde's Fresh Move To Foil Horse-Trading Attempts - NDTV
-  After Hotel Shift, Team Shinde's
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa1RibEx2c2J6LV81MDlEdy1PajJWVDZqT1ItVDlENHBfVlhaQ2FkMWhzN013TnpMeXdxNUVHZ1dYaDUyTU1PdFAydVRlOWIweWxwMFBaLXFWR3VNUGhqMy1La0NoeXlrYkdkVHNHY3JKS1h0VW1IZ1JOLVBnYXVFU2VhQ080UGV2LWs1d0o5aUhPb2VaYkZkTnJFdlZzMUFNT1c0UFNwbVpFYUFQTllZcUt6Y3VsY0h3N2JRdHNIakhRQVFndUJqSGFKbmRkVTlYcG1KOEZudkRBZWVTSXfSAeYBQVVfeXFMTjRIclRjQlFGYWtENmJpQnR6LUhZZmpONnRTS0ZSWHNLazlYWEpBcDZPdUtKQml5S0lld2hRTkRWY18zb3dNSWhIcG1pejktY2FrNWxjUFkzSG9aSVBOeHdWQWxneXB4dnhkeTFJSlZPdW9wNkxPUGgwSFJtZ0NqcUJRclNON1NCdXM2VVJNYWo5cGlycllVeEdDdmlXajFlLWhXVXJoM21QM0tWLU10VlJmZDdlUEx0dlpzZG8wNjZpRk04Z0p6bWl4em5TNkc3SHF3bUg5cEJ3RVhYdUFuOVpxZ3hQUFE?oc=5
+- India is profiling Kashmir mosques, raising new surveillance fears - Al Jazeera
+  India is profiling Kashmir mosques, raising new
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSWZ3SHFmSFAybFAxbEpmNjVJLUtNTFFYbFg3MHVWa2V6LXlvUFNMZEZuMi1ZdDltZk9BaXF6UzJkNG5fdFFIaFVqNXNyakNLTlZjcG10a1FmRzltREFuNW1aTkRtWXpFQ1UxVDhWUEF1S1NlR0ZZc0h2WHVKSUxpQUpjVmh2NXhTbm5YX3k5SFBsVEVGc2RadFVRME9mVGpqejk2dzktX3oyQdIBrwFBVV95cUxNRzIyUmp2LURDdkRaVHU1b1I2V2lLazdkQVlaOXF3WEFoQkIzZEl3N3VSRGVfRktlOGpTVHR6UGNXR3ZkeWJkWGx3dndWUlpodUhmWGRZR1ZyMTJTeEtwVlpNR05oRmw0UnZGWUEwbnVaOS1hTlBsNE9aQ29XLXNVZWdNaUt3Tkp0dC1BSWFoaFBYNXhPeGtsU08yRzBEZzVRTm9OTXVVa01aU3doZmF3?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-19 06:35:39 UTC_
+_Last updated: 2026-01-19 12:42:19 UTC_
