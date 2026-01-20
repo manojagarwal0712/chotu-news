@@ -1,30 +1,34 @@
 # 📰 Daily News Summaries
 
-- India-EU summit on Jan 27: FTA, defence, mobility deals on table
+- ‘Inaccuracies’ in text, ‘mic switched off’: Tamil Nadu Governor RN Ravi declines to read out inaugural address, walks out of Assembly
   
-  🔗 https://indianexpress.com/article/india/india-eu-summit-on-jan-27-fta-defence-mobility-deals-on-table-10483488/
+  🔗 https://indianexpress.com/article/india/tamil-nadu-governor-rn-ravi-inaugural-address-walks-out-assembly-10484006/
 
-- PM meets UAE President: Defence, LNG, $200-billion trade target on table
+- ED raids 21 locations in Kerala, Tamil Nadu, Karnataka over Sabarimala gold misappropriation case
   
-  🔗 https://indianexpress.com/article/india/pm-modi-meets-uae-president-sheikh-mohamed-bin-zayed-al-nahyan-defence-lng-200-billion-trade-target-on-table-10483475/
+  🔗 https://indianexpress.com/article/india/ed-raids-21-locations-in-kerala-tamil-nadu-karnataka-over-sabarimala-gold-misappropriation-case-10483815/
 
-- Congress using AI videos to spread misconception about VB-G RAM G, mislead country, says Rural Development Minister Shivraj Singh Chouhan
+- Howrah-Kamakhya Vande Bharat Sleeper train ticket booking begins; check station-wise fare
   
-  🔗 https://indianexpress.com/article/india/congress-using-ai-videos-spread-misconception-vb-g-ram-g-chouhan-10483236/
+  🔗 https://indianexpress.com/article/india/howrah-kamakhya-vande-bharat-sleeper-ticket-booking-begins-station-wise-fare-10483083/
 
-- Mumbai-Ahmedabad bullet train update: India’s 1st high-speed rail project advances towards electrification
+- India’s first Push-Pull Rajdhani Express marks 7 years of service – check route, stoppages, timings
   
-  🔗 https://indianexpress.com/article/india/mumbai-ahmedabad-bullet-train-project-advances-towards-electrification-10483193/
+  🔗 https://indianexpress.com/article/india/india-first-push-pull-rajdhani-express-7-years-service-route-stops-timings-10483368/
 
-- Selective targeting on tariffs, says Jaishankar, flags Poland minister’s outreach to Pakistan
+- Kerala man’s suicide after viral bus video: Police book woman for abetment
   
-  🔗 https://indianexpress.com/article/india/selective-targeting-on-tariffs-says-jaishankar-flags-poland-ministers-outreach-to-pakistan-10483095/
+  🔗 https://indianexpress.com/article/india/kerala-mans-suicide-after-viral-video-police-book-woman-in-abetment-case-10483464/
+
+- AI job anxiety is highest among young workers, Randstad survey reveals
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-job-anxiety-is-highest-among-young-workers-randstad-survey-reveals-10483724/
 
 - Ancient pottery from Mesopotamia may hold earliest clues to mathematics
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/ancient-pottery-from-mesopotamia-may-hold-earliest-clues-to-mathematics-10483365/
+  🔗 https://indianexpress.com/article/technology/science/ancient-pottery-from-mesopotamia-may-hold-earliest-clues-to-mathematics-10483365/
 
-- Redmi 15C review: Best with the basics?
+- Redmi 15C review: Affordable, functional, and mostly sensible
   
   🔗 https://indianexpress.com/article/technology/tech-reviews/redmi-15c-review-10482845/
 
@@ -36,49 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/sonys-next-move-rumours-of-playstation-portal-with-oled-display-10482843/
 
-- ChatGPT ads are coming: Here’s how OpenAI makes money now, and what’s about to change
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-ads-how-openai-makes-money-now-10482593/
+- Tesla set to restart AI supercomputer project. Why Musk has changed his mind.
+  Tesla is restarting its Dojo AI supercomputer
+  🔗 https://www.livemint.com/companies/news/tesla-set-to-restart-ai-supercomputer-project-why-musk-has-changed-his-mind-11768888649630.html
 
-- Lab-to-fab in weeks: Why Fundamentum led Whizzo's $15 million raise
-  Whizzo was founded in 2024 by Shrestha Kukreja, a former Zetwerk executive. The startup
-  🔗 https://www.livemint.com/companies/start-ups/whizzo-series-a-funding-fundamentum-materials-science-11768825020864.html
+- Elon Musk believes Swiss account, Bitcoin worthless, says ‘money just a database’, here's the future of actual economy
+  Elon Musk believes trillions of dollars and all the bitcoin in the world is worthless when compared to what comprises the real economy
+  🔗 https://www.livemint.com/companies/people/elon-musk-trillion-dollars-swiss-bank-account-bitcoin-worthless-money-just-database-actual-economy-goods-services-labour-11768880853187.html
 
-- Young workers most worried about AI affecting jobs, Randstad survey shows
-  Young workers most worried about AI affecting jobs, Randstad survey shows.
-  🔗 https://www.livemint.com/companies/young-workers-most-worried-about-ai-affecting-jobs-randstad-survey-shows-11768863704923.html
+- Tailoring a turnaround: Satyaki Ghosh takes the helm at a struggling Raymond
+  Raymond Lifestyle has appointed Satyaki Ghosh as CEO, its fourth since 2020. slowing demand, store
+  🔗 https://www.livemint.com/companies/tailoring-a-turnaround-satyaki-ghosh-takes-the-helm-at-a-struggling-raymond-11768877446228.html
 
-- CEO revenue confidence hits 5-year low - PwC survey
-  CEO revenue confidence hits
-  🔗 https://www.livemint.com/companies/ceo-revenue-confidence-hits-5-year-low-pwc-survey-11768852241719.html
+- Elon Musk to buy Ryanair over X poll verdict? 5 times the billionaire has taken crucial decisions based on votes
+  Elon Musk called Ryanair CEO O'Leary an “utter idiot” who should be fired. The airline boss ruled out
+  🔗 https://www.livemint.com/companies/people/elon-musk-to-buy-ryanair-over-x-poll-verdict-5-times-the-billionaire-has-taken-crucial-decisions-based-on-votes-11768875214364.html
 
-- Malaysias Khazanah to steer more capital to power grids, chip firms, chief says in Davos
-  Malaysia's Khazanah to steer
-  🔗 https://www.livemint.com/companies/malaysias-khazanah-to-steer-more-capital-to-power-grids-chip-firms-chief-says-in-davos-11768849057340.html
+- After Q3 beats, is Indian IT turning the corner?
+  Strong December-quarter results have lifted sentiment. But slowing full-year growth, weak demand visibility and cautious guidance
+  🔗 https://www.livemint.com/companies/indian-it-firms-q3-earnings-growth-outlook-11768828050417.html
 
-- Who is Deepak Rastogi? Ola Electric appoints former Puravankara CFO as new finance chief
-  Ola Electric appoints ex-Puravankara CFO
-  🔗 https://www.livemint.com/companies/people/who-is-deepak-rastogi-ola-electric-appoints-former-puravankara-cfo-as-new-finance-chief-11768837874294.html
+- Madhusudan Kela picks stake in this Dolly Khanna portfolio stock in Q3. Do you own?
+  This is the first time Madhusudan Kela's name has appeared among the key shareholders of the company. Prior to this, the ace investors could have held a stake below 1%.
+  🔗 https://www.livemint.com/market/stock-market-news/madhusudan-kela-portfolio-ace-investor-picks-stake-in-this-dolly-khanna-portfolio-stock-in-q3-11768889257614.html
 
-- Stock market today: Trade guide for Nifty 50, gold, silver rates to USD vs INR — eight stocks to buy or sell on Tuesday
-  Experts have recommended eight shares to buy today. Federal Bank, Torrent Pharma, L&amp;amp;T
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-guide-for-nifty-50-gold-silver-rates-to-usd-vs-inr-eight-stocks-to-buy-or-sell-on-tuesday-11768838125755.html
+- Sensex crashes over 750 points in 2 days; Nifty 50 drops below 25,450— Why is the Indian stock market down? Explained
+  In two consecutive sessions, the 30-share pack Sensex has declined over 750 points, or nearly 1%.
+  🔗 https://www.livemint.com/market/stock-market-news/sensex-crashes-over-750-points-in-2-days-nifty-50-drops-below-25-450-why-is-the-indian-stock-market-down-explained-11768887662437.html
 
-- Why NJ mutual fund has struggled to scale despite the backing of one of India’s largest distributors
-   NJ Mutual Fund’s assets trail peers as a niche strategy, limited schemes and cautious expansion slow its
-  🔗 https://www.livemint.com/market/stock-market-news/nj-mutual-fund-aum-growth-challenges-distribution-strategy-leadership-11768546435659.html
+- 485% return in one year! Multibagger stock hits upper circuit despite weak markets
+  Elitecon International share price was locked in 5% upper circuit limit during a market downturn. The company is considering a merger with three firms to enhance operational efficiencies and boost
+  🔗 https://www.livemint.com/market/stock-market-news/485-return-in-one-year-multibagger-stock-hits-upper-circuit-despite-weak-markets-11768886572046.html
 
-- Stock recommendations for 20 January from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 20 January. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-20-january-marketsmith-india-sensex-nifty-outlook-trade-set-up-11768823718331.html
+- Aditya Birla Fashion share price slumps 9% amid block deal buzz
+  Aditya Birla Fashion and Retail shares fell 9% after a block deal involving 4.35 crore shares. Buyer and seller identities remain undisclosed
+  🔗 https://www.livemint.com/market/stock-market-news/aditya-birla-fashion-share-price-slumps-9-amid-block-deal-buzz-11768884984536.html
 
-- ‘Nifty 50 set to stay unchanged but newbies to drive churn across broader indices’
-  Big reshuffles are likely in mid- and small-cap indices. None of the current stocks meet the stringent market-capitalization and
-  🔗 https://www.livemint.com/market/nifty-50-set-to-stay-unchanged-but-newbies-to-drive-churn-across-broader-indices-11768818810528.html
-
-- Korea Bourse CEO Sees Kospi at 6,000, Vows to Cut ‘Zombie’ Firms
-  The world-beating rally in South Korean stocks is poised to extend. The nation presses ahead with efforts to improve shareholder returns and lure global capital.
-  🔗 https://www.livemint.com/market/korea-bourse-ceo-sees-kospi-at-6-000-vows-to-cut-zombie-firms-11768864795256.html
+- Q3 Results 2026 Today LIVE: ITC Hotels, AU Small Finance Bank, Gujarat Gas among 44 companies to declare earnings
+  ITC Hotels, AU Small Finance Bank, Gujarat Gas, Persistent Systems, SRF, Rallis India, and Shoppers Stop
+  🔗 https://www.livemint.com/market/stock-market-news/q3-results-2026-today-live-itc-hotels-q3-results-today-au-small-finance-bank-gujarat-gas-persistent-srf-q3-earnings-11768885559146.html
 
 - Far from crash, talk on AI ‘just getting started’ in India: Netweb CMD
   Netweb Technologies earned  ₹450 crore from a government contract last quarter. CMD Sanjay Lodha believes demand for sovereign AI will sustain for five years.
@@ -100,125 +100,105 @@
   Lava Blaze Duo 3 has launched in India with a unique dual display design. It features a rear AMOLED screen, a 120Hz front AMOLed panel,
   🔗 https://www.livemint.com/technology/tech-news/lava-blaze-duo-3-launched-with-50mp-sony-camera-and-33w-fast-charging-price-and-features-11768832856054.html
 
-- European markets fell after Trump's Greenland tariffs threat; autos and luxury sell off - CNBC
-  European markets fell after Trump's Greenland tariffs threat; autos
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVNwLWxNME9QM2xkV2VYNGdSV0lUaDE3dXU0SThIbHhIc210UnlhSW80MFEtelowLVZaMzNjbFI1d0VBT2QzNGZPUTdrYk93WWFfNlJBR1VfQnZiWW5BZ2ktTmoxTDZmbG1POGlORzhURGhISlNkX2tvWjVqTnFTcndXWjVwSlo5dGhyd3RYQnBhY0JrTVHSAZsBQVVfeXFMT1NCRWl6UFY4T2pFcWZiLVRWOHVvbGdHTTZ0dFdFdlBDZEdoaVJjS1JZQmtnSUNJbHJPX29Hc2FGcVlaQzhpenBRaTJHbGdEOTRHLUowYVczQU9vNkhpTkpFUTlmTWtUQWpoWk5HT3FTRVBKZjBIR1hhemUtb1k0UjdEMFJyamkwckxJaUpQV2U5TWJFcklEM1dXMXM?oc=5
+- Silver prices rocket nearly Rs 85,000 in first 20 days of 2026! Should you buy, sell or hold?
+  Silver has surged over 35% in early 2026. Prices hit record highs on the MCX, crossing Rs 3 lakh per kg.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-rocket-nearly-rs-85000-in-first-20-days-of-2026-should-you-buy-sell-or-hold/articleshow/126762461.cms
 
-- Markets fall and gold and silver hit new highs after Trump’s latest tariff threat | Stock markets - The Guardian
-  The Guardian reports that markets fall and gold and silver hit new highs after
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnVaRE1aZmlBMEl2N2FweUU0LWdQM3B5X1I4S0xwaFY5Sm9yZHdaeTUtdjAwSjFHb0lNNDJTOURhYzFuTWdkanpUTnVXU0dPdTZDRE9LbWM2Sm04eXNwYmlybnZSZzV1WW1XSVBJOXdWUmQ2R0NWbGh1OXdiQXcxWHNaOENLeFphMmFwU1lCZ0JUQl94UGJTOWY3TEdrNEFmbXZNMmVlVnJoLTQ?oc=5
+- Budget expectations low, says Jefferies; lists defence capex among 8 measures to watch out for
+  Jefferies expects limited surprises in the FY27 Union Budget. Government sticking to fiscal consolidation while focusing on defence-led capex and targeted consumption support.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/budget-expectations-low-says-jefferies-lists-defence-capex-among-8-measures-to-watch-out-for/articleshow/126760197.cms
 
-- The Magnificent Seven Drove Markets. Now They’re Pulling in Different Directions. - The Wall Street Journal
-  The Magnificent Seven Drove Markets. Now They’
-  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE9XeWNLREZYZW8wc1NKcEQwMmJlZDQ1ekl5NEliU3dpcUVkdVA4UzBSRU55a3BEV0RSQlB1MXJOYjhscG1Oby1xbVVWSmJ1a3ZaZ2gtUDlVcWl0R0I1S2twQm5UeEg1WWZBN2lBSW9TRVdBQ2s?oc=5
+- Ola Electric Mobility shares tank 7%, down for 10th consecutive session. What’s triggering the fall today?
+  Ola Electric Mobility shares dropped significantly after CFO Harish Abichandani resigned. This marks the second executive departure in two months. The company also launched its first residential Battery Energy Storage System, 'Shakti'
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-mobility-shares-tank-7-down-for-10th-consecutive-session-whats-triggering-the-fall-today/articleshow/126759800.cms
 
-- Asian Stocks Face Wary Start as Tariff Feud Grows: Markets Wrap - Bloomberg.com
-  Asian Stocks Face Wary Start as Tar
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQUWxTTHhHd1lkOXlNMDhMaElrakpFeFZ6MWYyLUhoZVJsZkdJYWNQR1dfSFRFek04WFRtVU9WZGdyclpMTmVlNXlKYWZEZFZpTWJVdlBhUnlJV1ZzT3EwREo2UUpMMlhqelhxU1I4XzAweTdORkRrMDFrb1V4d2gwNEVmbnBaYXN3TVBYcUxMakw2ak9H?oc=5
+- India bonds rise on bargain buying, state debt sale eyed
+  Indian government bonds saw a firming trend Tuesday, driven by bargain buying. The 10-year yield held below a crucial level. Reduced state debt supply for the week also bolstered sentiment.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-on-bargain-buying-state-debt-sale-eyed/articleshow/126759844.cms
 
-- Exclusive | DAE’s nuclear pivot: Light water push to tap global markets, retain heavy water edge - The Indian Express
-  The Indian Express reports that the DAE is planning to build a nuclear power plant
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNT0RiV1EzcUp2am1FQ3c2QmVRaHhyV0NmT3Jnd1pUU21nYk5MblhvbEJiU3pvMEJOM0M2Z1RBeHBKSlFqTHZKUk15TzVWM0Zlc1J1dTQ2cDBSelJ2LXg4NEFVR2Q1QW1FRHZMMGs2MTdyZXloTTRpcUt0bGQ0d0JXcnNCX25yak9IWktBSXhKbW9KN0RDb1hHOXhZUU5GWWY0T2xqSE92R2YxOVdBVTg5aEdZWjJmckE2VXZuUGlfeThGT2U0R01ZakQ3RXNST1nSAdYBQVVfeXFMTWp1clBTS1hFUXlSTFdyaGp0R21hOU5BTU1GVW00Mmp5VnpyV1lNOTI5Vk5lYTZkalNvMmViOWJ4bTN6UEVGVm1SbnBFNUFHNFVYai01OUNxUTZlNTRwdHllREtBcjhyVmtYZ2MzTU4wVWF4M2dsajJkM3Z3ZlcwLTF3M0JSZHhyV1FBbnpmV0l3c1hwalB5T1FqbTNrSVlwMWx0R2xSaUY5cUdyZjFESzdLQU1la3p4bVRVSzhodDdTOG90cXJZMm40eFRDSHRoa1JkNUpSZw?oc=5
-
-- Jio Platforms sets ball rolling on mega public float proposal
-  Jio Platforms has reportedly shortlisted Morgan Stanley and Goldman Sachs as lead bankers for its upcoming IPO. The company awaits finance ministry clearance for a 2.5% public float for mega IPOs. Strategic investors like Google and Meta are
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-sets-ball-rolling-on-mega-public-float-proposal/articleshow/126739131.cms
-
-- ReNew lines up $500-million dollar bond issue
-  ReNew Energy Global is planning a significant offshore fundraising of approximately $500 million through dollar-denominated bonds issued via GIFT City. The funds will be utilized for on-lending within the ReNew Group, debt repayment, and
-  🔗 https://economictimes.indiatimes.com/markets/bonds/renew-lines-up-500-million-dollar-bond-issue/articleshow/126738384.cms
-
-- Pre-market action: Here's the trade setup for today's session
-  Indian equity markets closed lower amid a cautious global sentiment and mixed earnings reports. The India VIX saw a 4% rise, indicating increased market fear.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/126704614.cms
-
-- Stocks in news: ITC Hotels, Tata Capital, Ola Electric, Adani Power, LTIMindtree
-  Indian markets opened lower, with the Nifty index falling below a crucial support level. Analysts suggest a continued corrective trend. Despite the overall weakness, some sectors are performing well.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-itc-hotels-tata-capital-ola-electric-adani-power-ltimindtree/articleshow/126704264.cms
-
-- Can Shadowfax Technologies’ IPO deliver long-term value for high-risk investors?
-  Shadowfax Technologies is set to raise ₹1,000 crore through a fresh issue. The e-commerce logistics firm has seen significant market share growth and improved profitability.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/can-shadowfax-technologies-ipo-deliver-long-term-value-for-high-risk-investors/articleshow/126737789.cms
+- Trump tariff threat casts shadow over Germany’s fragile recovery
+  Business groups in Germany have responded with alarm, warning that such measures would strain transatlantic relations and damage both sides.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-tariffs-threat-piles-pressure-on-germanys-fragile-growth-outlook-amid-greenland-tensions-over-greenland/articleshow/126759430.cms
 
 - UAE President's 3-Hour India Visit And PM Modi's Special Gesture - NDTV
   UAE President's 3-Hour India
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNW0waHZJLXI1X2ZSWWNBak9XenhzQkNDYVZiNmthTUxveVpBaVVsQWZfODRNVzk3VHZrZXhyenYzYzJjZ0dXaHI5Ylk3QWN4VFVjV1FxUjdWZUo3NHRXeHB5ZHpCWkNJNGN4ekY2eEVQZWFqVzVmQW5pbVNMRDZTd2JiMVNIcnRrRmpjOUQxWV9JSkV3YVJjUEFKTjhxRnF5STZrTmtTV2w0bFJRUXJxWUljb2YwZmp0N3h3TThzQ1BSZ2hTR25Ga0d5cjIwN3NnalRqM9IB3AFBVV95cUxNdGl5V2hZaDV0T3I2MllxaXl5WWowajE5Q0hxbDRVUnhUay1zc2VVdVBMdm00Y2dNd2ZhNktteTMxMHpxSmhhWk9ITG9BR2JXczRra28wd0lFN3A3cm1PYWhYbXZRbGduSldzSjVjNEJPQ0RkYUdVOVVxT0R1cnRIRWlHb1ZBTmxYa1dhX0d0OWstT3BMcFBFWjg4cnBtSmdfdHZQTU1Fdmo0TVBTTlNRMVJDR2FVRk5ZenJKc0ZBSkdvdExvQ19qLUtVcm5feXFvQmJXd2lsYjFKU1RK?oc=5
 
-- India invited to sit on Trump’s Board of Peace for Gaza - The Hindu
-  India invited to sit on Trump’s Board
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQUk8xay1rT2Z2dUhiUDNJZHZ4X2FsSzNTT08tZ0RGWmNwQXlnSG1pa1lZSzJQb2xqRko5TFJoRjEwdktabURrNlJxclFKZ3RiLVh3ZkdYcDdUSTFGNGxBWEZPeEh0b1pKZ1BhTVZJeDQxZXZidEQyaTZaeG1sb2pNVFhxdjdSWFNhMEhVZDFkbmtvbmU5WUN5aWZMbmRBYWFNR0ZFdGpIMUlxdm5PMHJnczhxWdIBugFBVV95cUxPU0pPQlRYOXptTk80T0NfLXptMGpwaVhPWGVpbnd1ajRSZ0xaY2NJUWR0aHA0Zi05NWtybGw2NTVUakxmYUxJQnhKenRvNTJ0ZThjRTFpNVpmZE9qS1dzMEswYUVQVGZHYXFTT2RYNGJ0V2tDWmZ4d3lCWFpCMW9IWXBNRFlKdnVWa2NXQmpOd3QyT0x5Y19qek81WGpURzc1NlRaZmNxQ2ZsWldzS0gzZ09JYTNvSTFjMVE?oc=5
+- India defends decision to skip Brics naval drill - Times of India
+  India defends decision to skip Brics naval
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
 
-- Breaking News Live updates: India sends 30 tonnes of humanitarian aid to Philippines after Super Typhoon - Times of India
-  India sends 30 tonnes of humanitarian aid to Philippines after Super Typhoon.
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQlFmUXJMemtsazFwWkdXOC1SQkVTaTBNWFZRY3k2VG9sTkRRY2E3RzNDZ28wRHk0bVNKTFRoQkhHRGxHV0gybERDR0N3UnVpVXh2dGFxMWlYTGd4amJWOXowem9JZ0FCNGFVdDFac0FJaXlYUm9yWlR2NVVBOXhKcC10SlJkTkgzYm9Uc25XekVZUGw3aVlzcGpJbVhsa1Utd1hIQm5CbFpIU0pOTm1ISmlUWWtxYUJCak0wR2lfc2tLTE1IeE0zT3VNaGh5aGNLTTM00gHYAUFVX3lxTFBrUk5TdGRxVTNFSHpnbE1HN25PUjB4SG41aVpSM0l2Ykxabm9IaHMyeWwxbUNEZ3hkYlo0Z21FQW1mT000T2RNOHV1NEdwMFRUOEJEbk0tLWNKRVRLaFcybFRSQ3FKYm1rS2I3RFE0TmMwZm9VYW9UcHhnWVVta1p3blZCcG1WV0ZaNy1KN29fQmwzbmUyYzZJbUdtQ20xREhwb1NxTF9BMzh6V3h1SGEtVmxIQkRPLUdFQ2FkRlQtd3dSXzlIbTRLbnhEVW1pWHFsaUlPSmxCdg?oc=5
+- Probe Agency ED Conducts Multi-State Raids In Sabarimala Gold Theft Case - NDTV
+  The raid was part of a multi-state
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQU9fQ3F3Ti1hcUhDVnRBSzFBLVZwUmIxa3JLdzkyUEE2UnlkUlVyVTVTSmJzc0hORzJMN1EzOERWd2p3Q0VNMHg0eDQwbVg3QUtCNDBacElob1ZhcUZMNmhkVldWNkQ1WFhPV1ZxQmhQb2dPVzNaQkNXV1lDZDk4RUQwVG9ySUZfd3Nlb3pNTFhoNzY3X2pEM1hrbG9KbVNHQ1ppMVBvQmZSaU1aTnd1VmkxZ9IBuwFBVV95cUxNR21tdXhjQ3l3bmVzZlAyb1Y3YWQ1cW1JUWFXTEk1UUUtdUVPblBLeS1zUElkWjhDSlhPX2NsaXhqZjhzRXdSWXhITkgxTm55QjN0bllaMEFXUVFPb1lHRGt2Y3JSc2gxRnZrM2NiQVY2UDFRemRPOVp5dEFFRXktZExLR1ZCcUx1NDFCalhFVW92Tzd4cTJUcEZIMkZVU3VFS2M3bzJUNlFFdGxrRnR0eGl2R0MzcXc3SGx3?oc=5
 
-- Top News Headlines of January 19, 2026 | What will Trump do if US Supreme Court strikes down global tariffs? Top aide speaks out - The Indian Express
-  The Indian Express is a leading newspaper in India. It is based in Mumbai.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMXZ5Y0hCcVp3TXFrM1FydTdJeXRSMGtMV1hjM09vUGJKTTFzRGZtZU84MFk1eVA2d0IzZVpmU1R4aFdHYnVlREk0Q1BSZDNacHc0Vlpma0lTVEZJeHpXcXpjUDZVdzlZWDJDTU1PbFVGNlU0Ui10aWZ6RlIwYTBZOEx5c3lhaGhaSm56amUwQWF3ODNNMjZZVVJxS1BYRUIzdHVtYVRadDBKMFRnZUt2aTluMUZINzVFenF4V094TXlxY2x4WU5aZXJjMG5GZF9nMnN6b3NfSGNRYm9lMlFuLTRBVzZWMzdR0gHvAUFVX3lxTE5aM2I2aDFCVHVBMnVSV0ZnLUp1QURPQlJPZGJDOGt0aE1RaVZ6ek9RQ1VZSFRsN0R3Q0FaTTdtR2FpUTh5VE15cFJwRU1OM2VDRjNESlJQQlVhYm1kUllIaVUxeVAtZ2hhZTQ0SXpaLXlGT1hDTWdibHBzdFNzdXJ2WWVHamRFdFB0ZDFMcFJSWWdkamx0WWxHaENQVE1hOE9TVHIyM0RDS1pjaEpkajZwdEZvZUtPWmt6elJvN1JSOGFvMVRVWGpPbFBHWldfOTE3VGYxeU1OamdNcjVlUDFUX1RGaWY4OTRWZ3c2NVI0?oc=5
+- "Elon Musk, Patron Of Freedom Of Speech": NCP Leader At Jaipur Lit Festival - NDTV
+  "Elon Musk, Patron Of Freedom Of Speech":
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMDlSZzFFR3M3bUF2S3BJeXprX0ViUm9ZQm1rZDFxYVdId2pSVUkwTnppcVlpZ3hESkJ2c2ZVYV82eGhPWGlRYVRBeUd1YVpuNUZCRWRvVXNOSVNTMTRhQUpvd0xQMWNjSTFyUXJEWk4xaERLMXd4S0ZpVkdBbk5jU0dlTTMyUzYzT3llY1B5UGNTS0xBcl9scTdqdHlIcGpNSVYzS1Q0cWtWWkc4Uzcxd3JTald5T2Fodlcw0gHDAUFVX3lxTE9ZdHBVUWtkdG1NOWtLVjVPRnBSaGhFZHpnNXhRSWNQWkVicWI5V29jWHVzY1ByVVM1cDZJWjZHU2QyYlp5WVFIRkJCcUdvSkwxNF9ncDUzeGJpMUx3ZE42Wkk3Ykd3WGlaTkgxaVhYZm5zM1NpYmtMMWs2R0FFUHFhelR4djhXN3EzSnBXWFJjRWpCa3FMczdnZnJpNmR6ZXhaRHBNZjFHQ3FOM0RHWC1KUXZrS1d2VEhMMlNsVXFBcWNTQQ?oc=5
 
-- India Flags "Targeting" Over Ukraine War, Urges Poland Not to Support Pakistan - NDTV
-  India Flags "Targeting" Over Ukraine War,
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQa213XzkzTEhzRnhWY01pUGFZT3dCcTc4cmJWUEMtZEprc1BCUTJFNm1wTXpJOGJab3UzclljSjlKNVU0b0E3eXFBZ0QtZU4zUXhOR3B0SjFsSC1nUVQ3RVM2bHhCNmNmZm55UHNrcWYzMjZkckQ2VjJobG1FZ2hoRTZQWFBqWmRweWk1ZVI2dnU0RWVjdFdBXzBfNjJSb3dMN2F5cFc0MnE4MnFadUJzNWd1b0FMaU3SAb8BQVVfeXFMUC1aTXM4cHNzMG40RW80UFoyNWdqR2U5aE9hbGxYeWNZSXRqbFctMEJSR013bE1uV0R5UThVX0h6T1IxY1JnT3BheEZfalRUak9nWVMxMWFNSG1pX3hEcXluSUR5LXVTUTMzNTA0MHFrZ2NzSWRzUVpiYUFyblEzM3lBRWZibGJSVVhMSkNrMFJZb2Z4SkRFcWY1NjItLUE5VDZkdHVNMU9xS0lYZTVRZFdsODMwc3ZuNEtvTmtlSmc?oc=5
-
-- UAE President's 3-Hour India Visit And PM Modi's Special Gesture - NDTV
-  UAE President's 3-Hour India
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNW0waHZJLXI1X2ZSWWNBak9XenhzQkNDYVZiNmthTUxveVpBaVVsQWZfODRNVzk3VHZrZXhyenYzYzJjZ0dXaHI5Ylk3QWN4VFVjV1FxUjdWZUo3NHRXeHB5ZHpCWkNJNGN4ekY2eEVQZWFqVzVmQW5pbVNMRDZTd2JiMVNIcnRrRmpjOUQxWV9JSkV3YVJjUEFKTjhxRnF5STZrTmtTV2w0bFJRUXJxWUljb2YwZmp0N3h3TThzQ1BSZ2hTR25Ga0d5cjIwN3NnalRqM9IB3AFBVV95cUxNdGl5V2hZaDV0T3I2MllxaXl5WWowajE5Q0hxbDRVUnhUay1zc2VVdVBMdm00Y2dNd2ZhNktteTMxMHpxSmhhWk9ITG9BR2JXczRra28wd0lFN3A3cm1PYWhYbXZRbGduSldzSjVjNEJPQ0RkYUdVOVVxT0R1cnRIRWlHb1ZBTmxYa1dhX0d0OWstT3BMcFBFWjg4cnBtSmdfdHZQTU1Fdmo0TVBTTlNRMVJDR2FVRk5ZenJKc0ZBSkdvdExvQ19qLUtVcm5feXFvQmJXd2lsYjFKU1RK?oc=5
-
-- India invited to sit on Trump’s Board of Peace for Gaza - The Hindu
-  India invited to sit on Trump’s Board
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQUk8xay1rT2Z2dUhiUDNJZHZ4X2FsSzNTT08tZ0RGWmNwQXlnSG1pa1lZSzJQb2xqRko5TFJoRjEwdktabURrNlJxclFKZ3RiLVh3ZkdYcDdUSTFGNGxBWEZPeEh0b1pKZ1BhTVZJeDQxZXZidEQyaTZaeG1sb2pNVFhxdjdSWFNhMEhVZDFkbmtvbmU5WUN5aWZMbmRBYWFNR0ZFdGpIMUlxdm5PMHJnczhxWdIBugFBVV95cUxPU0pPQlRYOXptTk80T0NfLXptMGpwaVhPWGVpbnd1ajRSZ0xaY2NJUWR0aHA0Zi05NWtybGw2NTVUakxmYUxJQnhKenRvNTJ0ZThjRTFpNVpmZE9qS1dzMEswYUVQVGZHYXFTT2RYNGJ0V2tDWmZ4d3lCWFpCMW9IWXBNRFlKdnVWa2NXQmpOd3QyT0x5Y19qek81WGpURzc1NlRaZmNxQ2ZsWldzS0gzZ09JYTNvSTFjMVE?oc=5
-
-- Breaking News Live updates: India sends 30 tonnes of humanitarian aid to Philippines after Super Typhoon - Times of India
-  India sends 30 tonnes of humanitarian aid to Philippines after Super Typhoon.
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQlFmUXJMemtsazFwWkdXOC1SQkVTaTBNWFZRY3k2VG9sTkRRY2E3RzNDZ28wRHk0bVNKTFRoQkhHRGxHV0gybERDR0N3UnVpVXh2dGFxMWlYTGd4amJWOXowem9JZ0FCNGFVdDFac0FJaXlYUm9yWlR2NVVBOXhKcC10SlJkTkgzYm9Uc25XekVZUGw3aVlzcGpJbVhsa1Utd1hIQm5CbFpIU0pOTm1ISmlUWWtxYUJCak0wR2lfc2tLTE1IeE0zT3VNaGh5aGNLTTM00gHYAUFVX3lxTFBrUk5TdGRxVTNFSHpnbE1HN25PUjB4SG41aVpSM0l2Ykxabm9IaHMyeWwxbUNEZ3hkYlo0Z21FQW1mT000T2RNOHV1NEdwMFRUOEJEbk0tLWNKRVRLaFcybFRSQ3FKYm1rS2I3RFE0TmMwZm9VYW9UcHhnWVVta1p3blZCcG1WV0ZaNy1KN29fQmwzbmUyYzZJbUdtQ20xREhwb1NxTF9BMzh6V3h1SGEtVmxIQkRPLUdFQ2FkRlQtd3dSXzlIbTRLbnhEVW1pWHFsaUlPSmxCdg?oc=5
-
-- Top News Headlines of January 19, 2026 | What will Trump do if US Supreme Court strikes down global tariffs? Top aide speaks out - The Indian Express
-  The Indian Express is a leading newspaper in India. It is based in Mumbai.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMXZ5Y0hCcVp3TXFrM1FydTdJeXRSMGtMV1hjM09vUGJKTTFzRGZtZU84MFk1eVA2d0IzZVpmU1R4aFdHYnVlREk0Q1BSZDNacHc0Vlpma0lTVEZJeHpXcXpjUDZVdzlZWDJDTU1PbFVGNlU0Ui10aWZ6RlIwYTBZOEx5c3lhaGhaSm56amUwQWF3ODNNMjZZVVJxS1BYRUIzdHVtYVRadDBKMFRnZUt2aTluMUZINzVFenF4V094TXlxY2x4WU5aZXJjMG5GZF9nMnN6b3NfSGNRYm9lMlFuLTRBVzZWMzdR0gHvAUFVX3lxTE5aM2I2aDFCVHVBMnVSV0ZnLUp1QURPQlJPZGJDOGt0aE1RaVZ6ek9RQ1VZSFRsN0R3Q0FaTTdtR2FpUTh5VE15cFJwRU1OM2VDRjNESlJQQlVhYm1kUllIaVUxeVAtZ2hhZTQ0SXpaLXlGT1hDTWdibHBzdFNzdXJ2WWVHamRFdFB0ZDFMcFJSWWdkamx0WWxHaENQVE1hOE9TVHIyM0RDS1pjaEpkajZwdEZvZUtPWmt6elJvN1JSOGFvMVRVWGpPbFBHWldfOTE3VGYxeU1OamdNcjVlUDFUX1RGaWY4OTRWZ3c2NVI0?oc=5
-
-- India Flags "Targeting" Over Ukraine War, Urges Poland Not to Support Pakistan - NDTV
-  India Flags "Targeting" Over Ukraine War,
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQa213XzkzTEhzRnhWY01pUGFZT3dCcTc4cmJWUEMtZEprc1BCUTJFNm1wTXpJOGJab3UzclljSjlKNVU0b0E3eXFBZ0QtZU4zUXhOR3B0SjFsSC1nUVQ3RVM2bHhCNmNmZm55UHNrcWYzMjZkckQ2VjJobG1FZ2hoRTZQWFBqWmRweWk1ZVI2dnU0RWVjdFdBXzBfNjJSb3dMN2F5cFc0MnE4MnFadUJzNWd1b0FMaU3SAb8BQVVfeXFMUC1aTXM4cHNzMG40RW80UFoyNWdqR2U5aE9hbGxYeWNZSXRqbFctMEJSR013bE1uV0R5UThVX0h6T1IxY1JnT3BheEZfalRUak9nWVMxMWFNSG1pX3hEcXluSUR5LXVTUTMzNTA0MHFrZ2NzSWRzUVpiYUFyblEzM3lBRWZibGJSVVhMSkNrMFJZb2Z4SkRFcWY1NjItLUE5VDZkdHVNMU9xS0lYZTVRZFdsODMwc3ZuNEtvTmtlSmc?oc=5
+- Boost For India's Defence Exports: Rajnath Flags Off First Batch Of Pinaka Guided Rockets To Armenia - Times of India
+  Rajnath Flags Off First Batch Of Pinaka Guided Rockets To
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTVZqSnpxSHJ2RG5jYW1ycmZwenl0cjdwblJzZHFYckxRMkdpV05hOXFPVDhTS3NwSFhsUTdUY0RQVk43YlE5XzUtZkRNQW5CcDJ4d1lXb19vYVFIZG9KaHA5N3dFUTZwcTVCeXYzSWE3Yy1yRUpUYThqbmNDOXhVc2FnTVRRNjVWcmxnR2pLdi16Wng1VUUwZ2RKRUhtM0FXMHdZT0ZrSG1kYVprTWp0S1UzNmpDczZIcHlaZHZ1VUltSTF2T1R0WWY5MjFGaTA4cDlBOVF6WDlPUGxEdkdSdEtQYTdVMldzTnVRNktPVWh0TFRWNG5BYm9KREk5NTjSAYQCQVVfeXFMTnJOT0JuNUctYVZYRVJkOFVkSGNRQTNBUDVkUUE3RDNVaEd1Qkl6bFZJbUt3R25NM2dNTWVKdVBwQUdKSllNbW5nMlV5Z29HR0EwVXV2YW1ESEJfNVBrZWdsSkhsRU9ZX0dnejRTVW84Z2NTMy1sN09qWnE3eFgxU091WllSY3dZMWZuOEFxLTA0UFpsYmxBZ01OM0R1RElRRm8tVzJoU0ZYM0xRVzJ2YllpSk5QMk9SSFRWQ2poY1MwNjNNYk9CNTBxUm96M3FfX3kxR0VpWVlfcElyWFE3THREdThZbTJEWDZsX0pobmJtV2w4dXJQUDE2MGhxR211b25nZjg?oc=5
 
 - UAE President's 3-Hour India Visit And PM Modi's Special Gesture - NDTV
   UAE President's 3-Hour India
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNW0waHZJLXI1X2ZSWWNBak9XenhzQkNDYVZiNmthTUxveVpBaVVsQWZfODRNVzk3VHZrZXhyenYzYzJjZ0dXaHI5Ylk3QWN4VFVjV1FxUjdWZUo3NHRXeHB5ZHpCWkNJNGN4ekY2eEVQZWFqVzVmQW5pbVNMRDZTd2JiMVNIcnRrRmpjOUQxWV9JSkV3YVJjUEFKTjhxRnF5STZrTmtTV2w0bFJRUXJxWUljb2YwZmp0N3h3TThzQ1BSZ2hTR25Ga0d5cjIwN3NnalRqM9IB3AFBVV95cUxNdGl5V2hZaDV0T3I2MllxaXl5WWowajE5Q0hxbDRVUnhUay1zc2VVdVBMdm00Y2dNd2ZhNktteTMxMHpxSmhhWk9ITG9BR2JXczRra28wd0lFN3A3cm1PYWhYbXZRbGduSldzSjVjNEJPQ0RkYUdVOVVxT0R1cnRIRWlHb1ZBTmxYa1dhX0d0OWstT3BMcFBFWjg4cnBtSmdfdHZQTU1Fdmo0TVBTTlNRMVJDR2FVRk5ZenJKc0ZBSkdvdExvQ19qLUtVcm5feXFvQmJXd2lsYjFKU1RK?oc=5
 
-- India invited to sit on Trump’s Board of Peace for Gaza - The Hindu
-  India invited to sit on Trump’s Board
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQUk8xay1rT2Z2dUhiUDNJZHZ4X2FsSzNTT08tZ0RGWmNwQXlnSG1pa1lZSzJQb2xqRko5TFJoRjEwdktabURrNlJxclFKZ3RiLVh3ZkdYcDdUSTFGNGxBWEZPeEh0b1pKZ1BhTVZJeDQxZXZidEQyaTZaeG1sb2pNVFhxdjdSWFNhMEhVZDFkbmtvbmU5WUN5aWZMbmRBYWFNR0ZFdGpIMUlxdm5PMHJnczhxWdIBugFBVV95cUxPU0pPQlRYOXptTk80T0NfLXptMGpwaVhPWGVpbnd1ajRSZ0xaY2NJUWR0aHA0Zi05NWtybGw2NTVUakxmYUxJQnhKenRvNTJ0ZThjRTFpNVpmZE9qS1dzMEswYUVQVGZHYXFTT2RYNGJ0V2tDWmZ4d3lCWFpCMW9IWXBNRFlKdnVWa2NXQmpOd3QyT0x5Y19qek81WGpURzc1NlRaZmNxQ2ZsWldzS0gzZ09JYTNvSTFjMVE?oc=5
+- India defends decision to skip Brics naval drill - Times of India
+  India defends decision to skip Brics naval
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
 
-- Breaking News Live updates: India sends 30 tonnes of humanitarian aid to Philippines after Super Typhoon - Times of India
-  India sends 30 tonnes of humanitarian aid to Philippines after Super Typhoon.
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQlFmUXJMemtsazFwWkdXOC1SQkVTaTBNWFZRY3k2VG9sTkRRY2E3RzNDZ28wRHk0bVNKTFRoQkhHRGxHV0gybERDR0N3UnVpVXh2dGFxMWlYTGd4amJWOXowem9JZ0FCNGFVdDFac0FJaXlYUm9yWlR2NVVBOXhKcC10SlJkTkgzYm9Uc25XekVZUGw3aVlzcGpJbVhsa1Utd1hIQm5CbFpIU0pOTm1ISmlUWWtxYUJCak0wR2lfc2tLTE1IeE0zT3VNaGh5aGNLTTM00gHYAUFVX3lxTFBrUk5TdGRxVTNFSHpnbE1HN25PUjB4SG41aVpSM0l2Ykxabm9IaHMyeWwxbUNEZ3hkYlo0Z21FQW1mT000T2RNOHV1NEdwMFRUOEJEbk0tLWNKRVRLaFcybFRSQ3FKYm1rS2I3RFE0TmMwZm9VYW9UcHhnWVVta1p3blZCcG1WV0ZaNy1KN29fQmwzbmUyYzZJbUdtQ20xREhwb1NxTF9BMzh6V3h1SGEtVmxIQkRPLUdFQ2FkRlQtd3dSXzlIbTRLbnhEVW1pWHFsaUlPSmxCdg?oc=5
+- Probe Agency ED Conducts Multi-State Raids In Sabarimala Gold Theft Case - NDTV
+  The raid was part of a multi-state
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQU9fQ3F3Ti1hcUhDVnRBSzFBLVZwUmIxa3JLdzkyUEE2UnlkUlVyVTVTSmJzc0hORzJMN1EzOERWd2p3Q0VNMHg0eDQwbVg3QUtCNDBacElob1ZhcUZMNmhkVldWNkQ1WFhPV1ZxQmhQb2dPVzNaQkNXV1lDZDk4RUQwVG9ySUZfd3Nlb3pNTFhoNzY3X2pEM1hrbG9KbVNHQ1ppMVBvQmZSaU1aTnd1VmkxZ9IBuwFBVV95cUxNR21tdXhjQ3l3bmVzZlAyb1Y3YWQ1cW1JUWFXTEk1UUUtdUVPblBLeS1zUElkWjhDSlhPX2NsaXhqZjhzRXdSWXhITkgxTm55QjN0bllaMEFXUVFPb1lHRGt2Y3JSc2gxRnZrM2NiQVY2UDFRemRPOVp5dEFFRXktZExLR1ZCcUx1NDFCalhFVW92Tzd4cTJUcEZIMkZVU3VFS2M3bzJUNlFFdGxrRnR0eGl2R0MzcXc3SGx3?oc=5
 
-- Top News Headlines of January 19, 2026 | What will Trump do if US Supreme Court strikes down global tariffs? Top aide speaks out - The Indian Express
-  The Indian Express is a leading newspaper in India. It is based in Mumbai.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMXZ5Y0hCcVp3TXFrM1FydTdJeXRSMGtMV1hjM09vUGJKTTFzRGZtZU84MFk1eVA2d0IzZVpmU1R4aFdHYnVlREk0Q1BSZDNacHc0Vlpma0lTVEZJeHpXcXpjUDZVdzlZWDJDTU1PbFVGNlU0Ui10aWZ6RlIwYTBZOEx5c3lhaGhaSm56amUwQWF3ODNNMjZZVVJxS1BYRUIzdHVtYVRadDBKMFRnZUt2aTluMUZINzVFenF4V094TXlxY2x4WU5aZXJjMG5GZF9nMnN6b3NfSGNRYm9lMlFuLTRBVzZWMzdR0gHvAUFVX3lxTE5aM2I2aDFCVHVBMnVSV0ZnLUp1QURPQlJPZGJDOGt0aE1RaVZ6ek9RQ1VZSFRsN0R3Q0FaTTdtR2FpUTh5VE15cFJwRU1OM2VDRjNESlJQQlVhYm1kUllIaVUxeVAtZ2hhZTQ0SXpaLXlGT1hDTWdibHBzdFNzdXJ2WWVHamRFdFB0ZDFMcFJSWWdkamx0WWxHaENQVE1hOE9TVHIyM0RDS1pjaEpkajZwdEZvZUtPWmt6elJvN1JSOGFvMVRVWGpPbFBHWldfOTE3VGYxeU1OamdNcjVlUDFUX1RGaWY4OTRWZ3c2NVI0?oc=5
+- "Elon Musk, Patron Of Freedom Of Speech": NCP Leader At Jaipur Lit Festival - NDTV
+  "Elon Musk, Patron Of Freedom Of Speech":
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMDlSZzFFR3M3bUF2S3BJeXprX0ViUm9ZQm1rZDFxYVdId2pSVUkwTnppcVlpZ3hESkJ2c2ZVYV82eGhPWGlRYVRBeUd1YVpuNUZCRWRvVXNOSVNTMTRhQUpvd0xQMWNjSTFyUXJEWk4xaERLMXd4S0ZpVkdBbk5jU0dlTTMyUzYzT3llY1B5UGNTS0xBcl9scTdqdHlIcGpNSVYzS1Q0cWtWWkc4Uzcxd3JTald5T2Fodlcw0gHDAUFVX3lxTE9ZdHBVUWtkdG1NOWtLVjVPRnBSaGhFZHpnNXhRSWNQWkVicWI5V29jWHVzY1ByVVM1cDZJWjZHU2QyYlp5WVFIRkJCcUdvSkwxNF9ncDUzeGJpMUx3ZE42Wkk3Ykd3WGlaTkgxaVhYZm5zM1NpYmtMMWs2R0FFUHFhelR4djhXN3EzSnBXWFJjRWpCa3FMczdnZnJpNmR6ZXhaRHBNZjFHQ3FOM0RHWC1KUXZrS1d2VEhMMlNsVXFBcWNTQQ?oc=5
 
-- India Flags "Targeting" Over Ukraine War, Urges Poland Not to Support Pakistan - NDTV
-  India Flags "Targeting" Over Ukraine War,
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQa213XzkzTEhzRnhWY01pUGFZT3dCcTc4cmJWUEMtZEprc1BCUTJFNm1wTXpJOGJab3UzclljSjlKNVU0b0E3eXFBZ0QtZU4zUXhOR3B0SjFsSC1nUVQ3RVM2bHhCNmNmZm55UHNrcWYzMjZkckQ2VjJobG1FZ2hoRTZQWFBqWmRweWk1ZVI2dnU0RWVjdFdBXzBfNjJSb3dMN2F5cFc0MnE4MnFadUJzNWd1b0FMaU3SAb8BQVVfeXFMUC1aTXM4cHNzMG40RW80UFoyNWdqR2U5aE9hbGxYeWNZSXRqbFctMEJSR013bE1uV0R5UThVX0h6T1IxY1JnT3BheEZfalRUak9nWVMxMWFNSG1pX3hEcXluSUR5LXVTUTMzNTA0MHFrZ2NzSWRzUVpiYUFyblEzM3lBRWZibGJSVVhMSkNrMFJZb2Z4SkRFcWY1NjItLUE5VDZkdHVNMU9xS0lYZTVRZFdsODMwc3ZuNEtvTmtlSmc?oc=5
+- Boost For India's Defence Exports: Rajnath Flags Off First Batch Of Pinaka Guided Rockets To Armenia - Times of India
+  Rajnath Flags Off First Batch Of Pinaka Guided Rockets To
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTVZqSnpxSHJ2RG5jYW1ycmZwenl0cjdwblJzZHFYckxRMkdpV05hOXFPVDhTS3NwSFhsUTdUY0RQVk43YlE5XzUtZkRNQW5CcDJ4d1lXb19vYVFIZG9KaHA5N3dFUTZwcTVCeXYzSWE3Yy1yRUpUYThqbmNDOXhVc2FnTVRRNjVWcmxnR2pLdi16Wng1VUUwZ2RKRUhtM0FXMHdZT0ZrSG1kYVprTWp0S1UzNmpDczZIcHlaZHZ1VUltSTF2T1R0WWY5MjFGaTA4cDlBOVF6WDlPUGxEdkdSdEtQYTdVMldzTnVRNktPVWh0TFRWNG5BYm9KREk5NTjSAYQCQVVfeXFMTnJOT0JuNUctYVZYRVJkOFVkSGNRQTNBUDVkUUE3RDNVaEd1Qkl6bFZJbUt3R25NM2dNTWVKdVBwQUdKSllNbW5nMlV5Z29HR0EwVXV2YW1ESEJfNVBrZWdsSkhsRU9ZX0dnejRTVW84Z2NTMy1sN09qWnE3eFgxU091WllSY3dZMWZuOEFxLTA0UFpsYmxBZ01OM0R1RElRRm8tVzJoU0ZYM0xRVzJ2YllpSk5QMk9SSFRWQ2poY1MwNjNNYk9CNTBxUm96M3FfX3kxR0VpWVlfcElyWFE3THREdThZbTJEWDZsX0pobmJtV2w4dXJQUDE2MGhxR211b25nZjg?oc=5
 
 - UAE President's 3-Hour India Visit And PM Modi's Special Gesture - NDTV
   UAE President's 3-Hour India
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNW0waHZJLXI1X2ZSWWNBak9XenhzQkNDYVZiNmthTUxveVpBaVVsQWZfODRNVzk3VHZrZXhyenYzYzJjZ0dXaHI5Ylk3QWN4VFVjV1FxUjdWZUo3NHRXeHB5ZHpCWkNJNGN4ekY2eEVQZWFqVzVmQW5pbVNMRDZTd2JiMVNIcnRrRmpjOUQxWV9JSkV3YVJjUEFKTjhxRnF5STZrTmtTV2w0bFJRUXJxWUljb2YwZmp0N3h3TThzQ1BSZ2hTR25Ga0d5cjIwN3NnalRqM9IB3AFBVV95cUxNdGl5V2hZaDV0T3I2MllxaXl5WWowajE5Q0hxbDRVUnhUay1zc2VVdVBMdm00Y2dNd2ZhNktteTMxMHpxSmhhWk9ITG9BR2JXczRra28wd0lFN3A3cm1PYWhYbXZRbGduSldzSjVjNEJPQ0RkYUdVOVVxT0R1cnRIRWlHb1ZBTmxYa1dhX0d0OWstT3BMcFBFWjg4cnBtSmdfdHZQTU1Fdmo0TVBTTlNRMVJDR2FVRk5ZenJKc0ZBSkdvdExvQ19qLUtVcm5feXFvQmJXd2lsYjFKU1RK?oc=5
 
-- India invited to sit on Trump’s Board of Peace for Gaza - The Hindu
-  India invited to sit on Trump’s Board
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQUk8xay1rT2Z2dUhiUDNJZHZ4X2FsSzNTT08tZ0RGWmNwQXlnSG1pa1lZSzJQb2xqRko5TFJoRjEwdktabURrNlJxclFKZ3RiLVh3ZkdYcDdUSTFGNGxBWEZPeEh0b1pKZ1BhTVZJeDQxZXZidEQyaTZaeG1sb2pNVFhxdjdSWFNhMEhVZDFkbmtvbmU5WUN5aWZMbmRBYWFNR0ZFdGpIMUlxdm5PMHJnczhxWdIBugFBVV95cUxPU0pPQlRYOXptTk80T0NfLXptMGpwaVhPWGVpbnd1ajRSZ0xaY2NJUWR0aHA0Zi05NWtybGw2NTVUakxmYUxJQnhKenRvNTJ0ZThjRTFpNVpmZE9qS1dzMEswYUVQVGZHYXFTT2RYNGJ0V2tDWmZ4d3lCWFpCMW9IWXBNRFlKdnVWa2NXQmpOd3QyT0x5Y19qek81WGpURzc1NlRaZmNxQ2ZsWldzS0gzZ09JYTNvSTFjMVE?oc=5
+- India defends decision to skip Brics naval drill - Times of India
+  India defends decision to skip Brics naval
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
 
-- Breaking News Live updates: India sends 30 tonnes of humanitarian aid to Philippines after Super Typhoon - Times of India
-  India sends 30 tonnes of humanitarian aid to Philippines after Super Typhoon.
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQlFmUXJMemtsazFwWkdXOC1SQkVTaTBNWFZRY3k2VG9sTkRRY2E3RzNDZ28wRHk0bVNKTFRoQkhHRGxHV0gybERDR0N3UnVpVXh2dGFxMWlYTGd4amJWOXowem9JZ0FCNGFVdDFac0FJaXlYUm9yWlR2NVVBOXhKcC10SlJkTkgzYm9Uc25XekVZUGw3aVlzcGpJbVhsa1Utd1hIQm5CbFpIU0pOTm1ISmlUWWtxYUJCak0wR2lfc2tLTE1IeE0zT3VNaGh5aGNLTTM00gHYAUFVX3lxTFBrUk5TdGRxVTNFSHpnbE1HN25PUjB4SG41aVpSM0l2Ykxabm9IaHMyeWwxbUNEZ3hkYlo0Z21FQW1mT000T2RNOHV1NEdwMFRUOEJEbk0tLWNKRVRLaFcybFRSQ3FKYm1rS2I3RFE0TmMwZm9VYW9UcHhnWVVta1p3blZCcG1WV0ZaNy1KN29fQmwzbmUyYzZJbUdtQ20xREhwb1NxTF9BMzh6V3h1SGEtVmxIQkRPLUdFQ2FkRlQtd3dSXzlIbTRLbnhEVW1pWHFsaUlPSmxCdg?oc=5
+- Probe Agency ED Conducts Multi-State Raids In Sabarimala Gold Theft Case - NDTV
+  The raid was part of a multi-state
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQU9fQ3F3Ti1hcUhDVnRBSzFBLVZwUmIxa3JLdzkyUEE2UnlkUlVyVTVTSmJzc0hORzJMN1EzOERWd2p3Q0VNMHg0eDQwbVg3QUtCNDBacElob1ZhcUZMNmhkVldWNkQ1WFhPV1ZxQmhQb2dPVzNaQkNXV1lDZDk4RUQwVG9ySUZfd3Nlb3pNTFhoNzY3X2pEM1hrbG9KbVNHQ1ppMVBvQmZSaU1aTnd1VmkxZ9IBuwFBVV95cUxNR21tdXhjQ3l3bmVzZlAyb1Y3YWQ1cW1JUWFXTEk1UUUtdUVPblBLeS1zUElkWjhDSlhPX2NsaXhqZjhzRXdSWXhITkgxTm55QjN0bllaMEFXUVFPb1lHRGt2Y3JSc2gxRnZrM2NiQVY2UDFRemRPOVp5dEFFRXktZExLR1ZCcUx1NDFCalhFVW92Tzd4cTJUcEZIMkZVU3VFS2M3bzJUNlFFdGxrRnR0eGl2R0MzcXc3SGx3?oc=5
 
-- Top News Headlines of January 19, 2026 | What will Trump do if US Supreme Court strikes down global tariffs? Top aide speaks out - The Indian Express
-  The Indian Express is a leading newspaper in India. It is based in Mumbai.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMXZ5Y0hCcVp3TXFrM1FydTdJeXRSMGtMV1hjM09vUGJKTTFzRGZtZU84MFk1eVA2d0IzZVpmU1R4aFdHYnVlREk0Q1BSZDNacHc0Vlpma0lTVEZJeHpXcXpjUDZVdzlZWDJDTU1PbFVGNlU0Ui10aWZ6RlIwYTBZOEx5c3lhaGhaSm56amUwQWF3ODNNMjZZVVJxS1BYRUIzdHVtYVRadDBKMFRnZUt2aTluMUZINzVFenF4V094TXlxY2x4WU5aZXJjMG5GZF9nMnN6b3NfSGNRYm9lMlFuLTRBVzZWMzdR0gHvAUFVX3lxTE5aM2I2aDFCVHVBMnVSV0ZnLUp1QURPQlJPZGJDOGt0aE1RaVZ6ek9RQ1VZSFRsN0R3Q0FaTTdtR2FpUTh5VE15cFJwRU1OM2VDRjNESlJQQlVhYm1kUllIaVUxeVAtZ2hhZTQ0SXpaLXlGT1hDTWdibHBzdFNzdXJ2WWVHamRFdFB0ZDFMcFJSWWdkamx0WWxHaENQVE1hOE9TVHIyM0RDS1pjaEpkajZwdEZvZUtPWmt6elJvN1JSOGFvMVRVWGpPbFBHWldfOTE3VGYxeU1OamdNcjVlUDFUX1RGaWY4OTRWZ3c2NVI0?oc=5
+- "Elon Musk, Patron Of Freedom Of Speech": NCP Leader At Jaipur Lit Festival - NDTV
+  "Elon Musk, Patron Of Freedom Of Speech":
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMDlSZzFFR3M3bUF2S3BJeXprX0ViUm9ZQm1rZDFxYVdId2pSVUkwTnppcVlpZ3hESkJ2c2ZVYV82eGhPWGlRYVRBeUd1YVpuNUZCRWRvVXNOSVNTMTRhQUpvd0xQMWNjSTFyUXJEWk4xaERLMXd4S0ZpVkdBbk5jU0dlTTMyUzYzT3llY1B5UGNTS0xBcl9scTdqdHlIcGpNSVYzS1Q0cWtWWkc4Uzcxd3JTald5T2Fodlcw0gHDAUFVX3lxTE9ZdHBVUWtkdG1NOWtLVjVPRnBSaGhFZHpnNXhRSWNQWkVicWI5V29jWHVzY1ByVVM1cDZJWjZHU2QyYlp5WVFIRkJCcUdvSkwxNF9ncDUzeGJpMUx3ZE42Wkk3Ykd3WGlaTkgxaVhYZm5zM1NpYmtMMWs2R0FFUHFhelR4djhXN3EzSnBXWFJjRWpCa3FMczdnZnJpNmR6ZXhaRHBNZjFHQ3FOM0RHWC1KUXZrS1d2VEhMMlNsVXFBcWNTQQ?oc=5
 
-- India Flags "Targeting" Over Ukraine War, Urges Poland Not to Support Pakistan - NDTV
-  India Flags "Targeting" Over Ukraine War,
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQa213XzkzTEhzRnhWY01pUGFZT3dCcTc4cmJWUEMtZEprc1BCUTJFNm1wTXpJOGJab3UzclljSjlKNVU0b0E3eXFBZ0QtZU4zUXhOR3B0SjFsSC1nUVQ3RVM2bHhCNmNmZm55UHNrcWYzMjZkckQ2VjJobG1FZ2hoRTZQWFBqWmRweWk1ZVI2dnU0RWVjdFdBXzBfNjJSb3dMN2F5cFc0MnE4MnFadUJzNWd1b0FMaU3SAb8BQVVfeXFMUC1aTXM4cHNzMG40RW80UFoyNWdqR2U5aE9hbGxYeWNZSXRqbFctMEJSR013bE1uV0R5UThVX0h6T1IxY1JnT3BheEZfalRUak9nWVMxMWFNSG1pX3hEcXluSUR5LXVTUTMzNTA0MHFrZ2NzSWRzUVpiYUFyblEzM3lBRWZibGJSVVhMSkNrMFJZb2Z4SkRFcWY1NjItLUE5VDZkdHVNMU9xS0lYZTVRZFdsODMwc3ZuNEtvTmtlSmc?oc=5
+- Boost For India's Defence Exports: Rajnath Flags Off First Batch Of Pinaka Guided Rockets To Armenia - Times of India
+  Rajnath Flags Off First Batch Of Pinaka Guided Rockets To
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTVZqSnpxSHJ2RG5jYW1ycmZwenl0cjdwblJzZHFYckxRMkdpV05hOXFPVDhTS3NwSFhsUTdUY0RQVk43YlE5XzUtZkRNQW5CcDJ4d1lXb19vYVFIZG9KaHA5N3dFUTZwcTVCeXYzSWE3Yy1yRUpUYThqbmNDOXhVc2FnTVRRNjVWcmxnR2pLdi16Wng1VUUwZ2RKRUhtM0FXMHdZT0ZrSG1kYVprTWp0S1UzNmpDczZIcHlaZHZ1VUltSTF2T1R0WWY5MjFGaTA4cDlBOVF6WDlPUGxEdkdSdEtQYTdVMldzTnVRNktPVWh0TFRWNG5BYm9KREk5NTjSAYQCQVVfeXFMTnJOT0JuNUctYVZYRVJkOFVkSGNRQTNBUDVkUUE3RDNVaEd1Qkl6bFZJbUt3R25NM2dNTWVKdVBwQUdKSllNbW5nMlV5Z29HR0EwVXV2YW1ESEJfNVBrZWdsSkhsRU9ZX0dnejRTVW84Z2NTMy1sN09qWnE3eFgxU091WllSY3dZMWZuOEFxLTA0UFpsYmxBZ01OM0R1RElRRm8tVzJoU0ZYM0xRVzJ2YllpSk5QMk9SSFRWQ2poY1MwNjNNYk9CNTBxUm96M3FfX3kxR0VpWVlfcElyWFE3THREdThZbTJEWDZsX0pobmJtV2w4dXJQUDE2MGhxR211b25nZjg?oc=5
+
+- UAE President's 3-Hour India Visit And PM Modi's Special Gesture - NDTV
+  UAE President's 3-Hour India
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNW0waHZJLXI1X2ZSWWNBak9XenhzQkNDYVZiNmthTUxveVpBaVVsQWZfODRNVzk3VHZrZXhyenYzYzJjZ0dXaHI5Ylk3QWN4VFVjV1FxUjdWZUo3NHRXeHB5ZHpCWkNJNGN4ekY2eEVQZWFqVzVmQW5pbVNMRDZTd2JiMVNIcnRrRmpjOUQxWV9JSkV3YVJjUEFKTjhxRnF5STZrTmtTV2w0bFJRUXJxWUljb2YwZmp0N3h3TThzQ1BSZ2hTR25Ga0d5cjIwN3NnalRqM9IB3AFBVV95cUxNdGl5V2hZaDV0T3I2MllxaXl5WWowajE5Q0hxbDRVUnhUay1zc2VVdVBMdm00Y2dNd2ZhNktteTMxMHpxSmhhWk9ITG9BR2JXczRra28wd0lFN3A3cm1PYWhYbXZRbGduSldzSjVjNEJPQ0RkYUdVOVVxT0R1cnRIRWlHb1ZBTmxYa1dhX0d0OWstT3BMcFBFWjg4cnBtSmdfdHZQTU1Fdmo0TVBTTlNRMVJDR2FVRk5ZenJKc0ZBSkdvdExvQ19qLUtVcm5feXFvQmJXd2lsYjFKU1RK?oc=5
+
+- India defends decision to skip Brics naval drill - Times of India
+  India defends decision to skip Brics naval
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUJaVUtmd2NRelJNY1pJRERNZUF0R25PRXlScHRnWGtaZ1IycXJzZDlLalJlQ0tMczA3YjlOdW9weHFMWkx1bi01dFdJRzd0ZHpqRnZwdEFiMUhsQ1pGUm1rWl9fUmJHY0owREhDMktaUUpsNnpjR1p5ZUpERXBZMVFzbHBYVHM1SUE5YjhTZmxxOUJORFZ3VjJ3UGdtVDZwVnE2YS1PTm5heWRBd1lRQTZGbzdybU3SAbwBQVVfeXFMTTk0ZUFRUmlHWHV2azNIejhFUU1XeVNadzNyb1h0aU1JQlBpWGFweURNVm01UFpqX3E2ZkhqTko4Q2pEblA1MUlmbUJKYURGOXIzN200SWRuZzNaUnpBZUNJUWU5T2dSZHZucnJpbGJ5VXUxS1ByVmJocWVrWmdBVW1JejhsZV9SYkVZenZwbUUyYnpVdlg3ZHBsN3ZuMEEwUFg1QjUwMHBIZ0ZLU3I1ZXdWN2E3ZUlzTDZxNWo?oc=5
+
+- Probe Agency ED Conducts Multi-State Raids In Sabarimala Gold Theft Case - NDTV
+  The raid was part of a multi-state
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQU9fQ3F3Ti1hcUhDVnRBSzFBLVZwUmIxa3JLdzkyUEE2UnlkUlVyVTVTSmJzc0hORzJMN1EzOERWd2p3Q0VNMHg0eDQwbVg3QUtCNDBacElob1ZhcUZMNmhkVldWNkQ1WFhPV1ZxQmhQb2dPVzNaQkNXV1lDZDk4RUQwVG9ySUZfd3Nlb3pNTFhoNzY3X2pEM1hrbG9KbVNHQ1ppMVBvQmZSaU1aTnd1VmkxZ9IBuwFBVV95cUxNR21tdXhjQ3l3bmVzZlAyb1Y3YWQ1cW1JUWFXTEk1UUUtdUVPblBLeS1zUElkWjhDSlhPX2NsaXhqZjhzRXdSWXhITkgxTm55QjN0bllaMEFXUVFPb1lHRGt2Y3JSc2gxRnZrM2NiQVY2UDFRemRPOVp5dEFFRXktZExLR1ZCcUx1NDFCalhFVW92Tzd4cTJUcEZIMkZVU3VFS2M3bzJUNlFFdGxrRnR0eGl2R0MzcXc3SGx3?oc=5
+
+- "Elon Musk, Patron Of Freedom Of Speech": NCP Leader At Jaipur Lit Festival - NDTV
+  "Elon Musk, Patron Of Freedom Of Speech":
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMDlSZzFFR3M3bUF2S3BJeXprX0ViUm9ZQm1rZDFxYVdId2pSVUkwTnppcVlpZ3hESkJ2c2ZVYV82eGhPWGlRYVRBeUd1YVpuNUZCRWRvVXNOSVNTMTRhQUpvd0xQMWNjSTFyUXJEWk4xaERLMXd4S0ZpVkdBbk5jU0dlTTMyUzYzT3llY1B5UGNTS0xBcl9scTdqdHlIcGpNSVYzS1Q0cWtWWkc4Uzcxd3JTald5T2Fodlcw0gHDAUFVX3lxTE9ZdHBVUWtkdG1NOWtLVjVPRnBSaGhFZHpnNXhRSWNQWkVicWI5V29jWHVzY1ByVVM1cDZJWjZHU2QyYlp5WVFIRkJCcUdvSkwxNF9ncDUzeGJpMUx3ZE42Wkk3Ykd3WGlaTkgxaVhYZm5zM1NpYmtMMWs2R0FFUHFhelR4djhXN3EzSnBXWFJjRWpCa3FMczdnZnJpNmR6ZXhaRHBNZjFHQ3FOM0RHWC1KUXZrS1d2VEhMMlNsVXFBcWNTQQ?oc=5
+
+- Boost For India's Defence Exports: Rajnath Flags Off First Batch Of Pinaka Guided Rockets To Armenia - Times of India
+  Rajnath Flags Off First Batch Of Pinaka Guided Rockets To
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTVZqSnpxSHJ2RG5jYW1ycmZwenl0cjdwblJzZHFYckxRMkdpV05hOXFPVDhTS3NwSFhsUTdUY0RQVk43YlE5XzUtZkRNQW5CcDJ4d1lXb19vYVFIZG9KaHA5N3dFUTZwcTVCeXYzSWE3Yy1yRUpUYThqbmNDOXhVc2FnTVRRNjVWcmxnR2pLdi16Wng1VUUwZ2RKRUhtM0FXMHdZT0ZrSG1kYVprTWp0S1UzNmpDczZIcHlaZHZ1VUltSTF2T1R0WWY5MjFGaTA4cDlBOVF6WDlPUGxEdkdSdEtQYTdVMldzTnVRNktPVWh0TFRWNG5BYm9KREk5NTjSAYQCQVVfeXFMTnJOT0JuNUctYVZYRVJkOFVkSGNRQTNBUDVkUUE3RDNVaEd1Qkl6bFZJbUt3R25NM2dNTWVKdVBwQUdKSllNbW5nMlV5Z29HR0EwVXV2YW1ESEJfNVBrZWdsSkhsRU9ZX0dnejRTVW84Z2NTMy1sN09qWnE3eFgxU091WllSY3dZMWZuOEFxLTA0UFpsYmxBZ01OM0R1RElRRm8tVzJoU0ZYM0xRVzJ2YllpSk5QMk9SSFRWQ2poY1MwNjNNYk9CNTBxUm96M3FfX3kxR0VpWVlfcElyWFE3THREdThZbTJEWDZsX0pobmJtV2w4dXJQUDE2MGhxR211b25nZjg?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-20 01:21:32 UTC_
+_Last updated: 2026-01-20 06:33:47 UTC_
