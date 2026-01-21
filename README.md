@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
+- ‘Poland and India are victims of transnational terror… we condemn crossing of international borders either by tanks or by terrorists in the strongest of terms’
+  
+  🔗 https://indianexpress.com/article/india/poland-and-india-are-victims-of-transnational-terror-we-condemn-crossing-of-international-borders-either-by-tanks-or-by-terrorists-in-the-strongest-of-terms-10485681/
+
+- Ram Mandir restored self-respect of Indians worldwide: V-P Radhakrishnan
+  
+  🔗 https://indianexpress.com/article/india/ram-mandir-restored-self-respect-of-indians-worldwide-v-p-radhakrishnan-10485711/
+
+- UK govt plans to increase education exports, India among five focus countries
+  
+  🔗 https://indianexpress.com/article/india/uk-govt-plans-to-increase-education-exports-india-among-five-focus-countries-10485708/
+
+- 15 hours over 4 days: J&K police call Indian Express reporter to Srinagar station
+  
+  🔗 https://indianexpress.com/article/india/15-hours-over-4-days-jk-police-call-indian-express-reporter-bashaarat-masood-to-srinagar-station-10485647/
+
 - Arasavalli Temple Ratha Saptami 2026 Ticket Booking Guide: How to book tickets online for darshan of Lord Sri Suryanarayana Swamy on Ratha Saptami
   
   🔗 https://indianexpress.com/article/india/arasavalli-temple-ratha-saptami-2026-ticket-bookingguide-lord-suryanarayana-10484470/
-
-- Maggi, spices and dry fruit: What’s inside the terror hideout busted in Jammu?
-  
-  🔗 https://indianexpress.com/article/india/maggi-spices-dry-fruit-terror-hideout-busted-jammu-10485160/
-
-- Arson, violence, internet snapped: Assam’s Kokrajhar on edge after tensions between Bodos, Adivasis
-  
-  🔗 https://indianexpress.com/article/india/arson-violence-internet-snapped-assam-kokrajhar-tensions-bodos-adivasis-10484848/
-
-- PM Modi: ‘Nitin Nabin is my boss in BJP … those who save themselves from ills of Cong will progress’
-  
-  🔗 https://indianexpress.com/article/india/pm-modi-bjp-karyakarta-nitin-nabin-boss-10484585/
-
-- Howrah-Kamakhya Vande Bharat Sleeper train sees huge demand; tickets sold out within hours
-  
-  🔗 https://indianexpress.com/article/india/howrah-kamakhya-vande-bharat-sleeper-train-sees-demand-tickets-sold-out-within-hours-10481994/
 
 - Strongest solar radiation storm in 2 decades moves toward Earth
   
@@ -40,45 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/new-ai-powered-wearable-helps-stroke-patients-communicate-by-mouthing-words-10485129/
 
-- BCCI inks  ₹270-crore sponsorship deal with Google's Gemini ahead of 2026 IPL
-  The BCCI has signed a  ₹270-crore sponsorship deal with Google
-  🔗 https://www.livemint.com/companies/news/bcci-secures-rs-270-crore-sponsorship-deal-from-googles-gemini-ahead-of-2026-ipl-11768928717379.html
+- Layoffs news: New York's iconic Met Opera to fire nearly 10% administrative staff amid financial strain
+  The Metropolitan Opera has announced a salary cut for its top-paid employees. A new production from its coming
+  🔗 https://www.livemint.com/companies/news/layoffs-news-new-yorks-iconic-met-opera-to-fire-nearly-10-administrative-staff-amid-financial-strain-11768954811777.html
 
-- Anthropic CEO slams US nod for Nvidia AI chip export to China, compares it with ’selling nuclear weapons to North Korea'
-  Anthropic's CEO warned that the Trump administration's decision to allow Nvidia to sell advanced AI chips to
-  🔗 https://www.livemint.com/companies/people/anthropic-ceo-slams-us-nod-for-nvidia-ai-chip-export-to-china-compares-it-with-selling-nuclear-weapons-to-north-korea-11768920621513.html
+- Tata Motors wants to stick to its profitable growth strategy even as rivals chip market share
+  Tata Motors is shifting its focus from pure market share to profitable growth
+  🔗 https://www.livemint.com/companies/news/tata-motors-wants-to-stick-to-its-profitable-growth-strategy-even-as-rivals-chip-market-share-11768908274688.html
 
-- LTIMindtree, Persistent lead mid-cap revenue as regulatory costs hit bottom lines in Q3
-  Both IT services firms faced significant margin pressure due to India’s new labour codes.
-  🔗 https://www.livemint.com/companies/ltimindtree-persistent-lead-mid-cap-revenue-as-regulatory-costs-hit-bottom-lines-in-q3-11768920165518.html
+- Early Q3 earnings show costs overtaking revenues, flipping the profit cycle
+  A jump in labour and input costs has flipped India Inc’s profit equation. Early prints signal that margins may no longer be doing
+  🔗 https://www.livemint.com/companies/early-q3-earnings-show-costs-overtaking-revenues-flipping-the-profit-cycle-11768908865161.html
 
-- Zydus Lifesciences eyes acquisition of US firm Ardelyx for $2.5 billion
-  Zydus Lifesciences plans to acquire a majority stake in Ardelyx Inc. for $2.2-2.5 billion. The
-  🔗 https://www.livemint.com/companies/zydus-ardelyx-acquisition-us-biotech-11768923551566.html
+- Blackstone Said to Weigh $5 Billion-Plus Sale of Beacon Offshore
+  Blackstone Inc. is in the early stages of weighing a sale of Beacon Offshore Energy, a Gulf of Mexico driller it’s owned for about a decade.
+  🔗 https://www.livemint.com/companies/blackstone-said-to-weigh-5-billion-plus-sale-of-beacon-offshore-11768940827332.html
 
-- Emergent raises $70 million as investors double down on vibe coding boom
-  Investors remain upbeat on vibe coding for the speed and flexibility it offers developers. Building successful companies may no longer hinge on founders with deep technical
-  🔗 https://www.livemint.com/companies/emergent-raises-70-million-vibe-coding-startup-khosla-softbank-11768900861076.html
+- Ex-BHP Executive to Become Minister as Chile Seeks Copper Boost
+  A former BHP Group executive will become Chile’s next mining minister. He will take charge of efforts to expand copper and lithium production.
+  🔗 https://www.livemint.com/companies/exbhp-executive-to-become-minister-as-chile-seeks-copper-boost-11768937748363.html
 
-- S&amp;P 500 drops over 1% on Trump's tariff threat to EU allies over Greenland
-  The S&amp;amp;P 500 fell over 1%, marking its largest morning decline since April.
-  🔗 https://www.livemint.com/market/sp-500-drops-over-1-per-cent-on-trumps-tariff-threat-to-eu-allies-over-greenland-11768931037222.html
+- Railways' pre-budget rally: Fare hike fuels modernization surge
+  Market expert Raja Venkatraman shares his top stocks to invest in ahead of the Budget 2026.
+  🔗 https://www.livemint.com/market/stock-market-news/indian-railway-stocks-budget-2026-rvnl-titagarh-rail-systems-sensex-nifty-raja-venkatraman-11768905870800.html
 
-- Trade tussle takes toll, Nifty logs worst fall in eight months
-  Investors are bracing more volatility ahead. Clarity may return after the Union budget, the India-EU trade deal,
-  🔗 https://www.livemint.com/market/trade-tussle-takes-toll-nifty-logs-worst-fall-in-seven-months-11768916593039.html
+- Q3 results 2026: Eternal, Dr Reddy’s, HPCL to Bank of India - 57 companies to declare earnings today; check full list
+  Dr Reddy’s Laboratories, Eternal, HPCL, Bajaj Consumer Care, Bank of India, Canara HSBC Life Insurance Company, PNB Housing Finance, Jindal Stainless
+  🔗 https://www.livemint.com/market/stock-market-news/q3-results-2026-eternal-dr-reddy-s-hpcl-to-bank-of-india-57-companies-to-declare-earnings-today-check-full-list-11768929168762.html
 
-- Edelweiss subsidiary EAAA India Alternatives files DRHP with Sebi for  ₹1,500 crore IPO
-  Edelweiss Financial Services' subsidiary EAAA India Alternatives Limited has filed a draft red herring prospectus with
-  🔗 https://www.livemint.com/market/ipo/edelweiss-subsidiary-eaaa-india-alternatives-files-drhp-for-1-500-crore-ipo-11768920741420.html
+- Amagi Media Labs IPO listing date today. GMP, experts signal debut with a modest premium on Dalal Street
+  Amagi Media Labs IPO listing date is today, 21 January 2026. Shares will be listed on both the stock exchanges, BSE and NSE.
+  🔗 https://www.livemint.com/market/ipo/amagi-media-labs-ipo-listing-date-today-gmp-experts-signal-debut-with-a-modest-premium-in-stock-market-today-11768929467441.html
 
-- Gold rates today: MCX gold rises  ₹6,800 per 10g, silver jumps  ₹17,700 as trade woes boost safe-haven demand
-  Investor demand for safe-haven assets remains high amid rising trade tensions. February gold futures hit
-  🔗 https://www.livemint.com/market/commodities/gold-rates-today-mcx-gold-rises-rs-6-800-per-10g-silver-jumps-rs-17-700-as-trade-woes-boost-safe-haven-demand-11768916465844.html
+- FPIs bank on options to raise  gains from market fall
+  Foreign investors sharply step up sale of Nifty calls to rake it in amid share price falls.
+  🔗 https://www.livemint.com/market/stock-market-news/fpis-bank-on-options-to-raise-gains-from-market-fall-11768923384729.html
 
-- Dow Jones, S&amp;P 500, Nasdaq drop as Trump's tariff threat, Greenland standoff weigh on investor sentiment — Details here
-  Dow Jones, S&amp;amp;P 500, and Nasdaq dropped after Wall Street opened on 20 January 2026. Trump's tariff threat loomed over the investors
-  🔗 https://www.livemint.com/market/stock-market-news/dow-jones-s-p-500-nasdaq-drop-as-trumps-tariff-threat-greenland-standoff-weigh-on-investor-sentiment-details-here-11768919608749.html
+- Stock recommendations for 21 January from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 21 January. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-21-january-marketsmith-india-sensex-nifty-trade-set-up-11768916891470.html
+
+- OpenAI brings age prediction to ChatGPT to limit sensitive content for under-18 users: here's how it works
+  OpenAI is rolling out age prediction for ChatGPT. The company wants to make sure that its system accurately determines the age of users.
+  🔗 https://www.livemint.com/technology/tech-news/openai-brings-age-prediction-to-chatgpt-to-limit-sensitive-content-for-under-18-users-heres-how-it-works-11768955908784.html
+
+- Tech Execs at Davos Highlight AI’s Power as a Geopolitical Tool
+  Anthropic’s Chief Executive Officer Dario Amodei compared artificial intelligence chips to nuclear weapons. Google DeepMind's CEO said China�
+  🔗 https://www.livemint.com/technology/tech-execs-at-davos-highlight-ai-s-power-as-a-geopolitical-tool-11768936770750.html
 
 - Apple iPhone 15 for  ₹31,990 on Croma Republic Day Sale? Here's how to grab the deal
   Croma’s Republic Day Sale brings a massive deal on the iPhone 15. The sale is live across stores nationwide until January 26.
@@ -92,13 +100,17 @@
   OpenAI concludes AI Jam sessions to
   🔗 https://www.livemint.com/technology/openai-concludes-ai-jam-sessions-to-drive-ai-adoption-in-social-sector-11768920891334.html
 
-- Oppo A6 5G launched in India with 7,000mAh battery: Price, features and more
-  Oppo A6 5G is a mid-range smartphone with a massive 7,000mAh battery. Priced from Rs. 17,999, it offers a stellar camera setup and durability
-  🔗 https://www.livemint.com/technology/gadgets/oppo-a6-5g-launched-in-india-with-7-000mah-battery-price-features-and-more-11768919290719.html
+- Stocks in news: Eternal, Tata Motors, Restaurant Brands Asia, AU Small Finance Bank, RBL Bank
+  Indian markets saw a decline on Tuesday due to widespread selling and weak global sentiment. Analysts are watching key sectors like banking and IT for potential rebounds. Several companies including Eternal, Tata Motors, and AU Small Finance
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-eternal-tata-motors-restaurant-brands-asia-au-small-finance-bank-rbl-bank/articleshow/126899405.cms
 
-- AI Agents ‘Perilous’ for Secure Apps Such as Signal, Whittaker Says
-  Artificial intelligence agents pose a threat to secure apps such as Signal, says Signal Foundation president.
-  🔗 https://www.livemint.com/technology/ai-agents-perilous-for-secure-apps-such-as-signal-whittaker-says-11768918327159.html
+- Asian stocks drop after Wall Street, bonds steady
+  Asian markets fell Wednesday, mirroring a Wall Street slump. Investors reacted to trade tensions over Greenland and bond market volatility.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-drop-after-wall-street-bonds-steady/articleshow/126898819.cms
+
+- Wall Street posts biggest daily drop in three months, Trump Greenland tariff threat triggers wide selloff
+  Major Wall Street indexes experienced their largest one-day drops in three months. The selloff, triggered by Trump's proposed tariffs on European goods, raises concerns about market volatility.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/wall-street-posts-biggest-daily-drop-in-three-months-trump-greenland-tariff-threat-triggers-wide-selloff/articleshow/126897472.cms
 
 - United Spirits Q3 Results: Cons PAT jumps 25% YoY to Rs 418 crore; net sales up 8%. Rs 6 per share dividend announced
   United Spirits reported a 25% year-on-year increase in its December quarter consolidated net profit, reaching Rs 418 crore. Revenue from operations saw a nearly 3% rise to Rs 7,
@@ -108,97 +120,85 @@
   U.S. bank stocks fell in ‍morning trading on Tuesday in a broader market decline. Investors waited to see if the Trump administration's January 20 deadline to implement
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-bank-stocks-fall-as-investors-await-credit-card-rate-cap-deadline/articleshow/126829020.cms
 
-- Moderna shares up 2% as skin cancer vaccine shows sustained benefit in five-year follow-up
-  Moderna and Merck said on Tuesday their ⁠experimental personalized vaccine continued to cut the risk of death or recurrence
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/moderna-shares-up-2-as-skin-cancer-vaccine-shows-sustained-benefit-in-five-year-follow-up/articleshow/126827906.cms
+- 7 Indian CEOs Invited To Trump's Reception At World Economic Forum In Davos - NDTV
+  7 Indian CEOs Invited To Trump's Reception At
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPcGNUT1o1WGpjdjAtajlLZFJqd182SzJyNlFvcEZzS2t2cERpZlNUWXl6bnViT2dKbnZHSHRJWWN1ME1xNTFNSlRpYjg3NzVORm5nbzFuTXh3eFV3OGlJQnRVMG92Mzhad3dJc0dKZGwwQ2ZqZk1BUFQwVTBnUGdkRVBNWkk5S1NPd0J3MExEWGFBMXlwNlVHYmpFNnU5R3VDR3FRZG5YN080Tk5jQUxmWnJ2Ujg5Z9IBvgFBVV95cUxOTVBobjhwNjNKSFRMMnpYcVlXQ3NOM3ZYaU9nYi1CVTJjbWpvOUtoSi1uc3d5dnAwQ21UaWt1ZWhjeTdDZEt4ZWNxVTJaUWJCUENsZzI1SnZnU2xHV09JLTdmZmFXQld6VndRdEl5dXdMWWxwdjNCMlJkbW53eUpYVGRQWGw3SVhuS05mRmRCcGVXcGRrUE9DdlpBa3c3UWlnUjRJNzZ2ZEhqYUFLSlhjd0lvcHlqaElZYm9ZQkRR?oc=5
 
-- EAAA India Alternatives files Rs 1,500-cr IPO papers with Sebi
-  EAAA India Alternatives, an arm of Edelweiss Financial Services, has filed preliminary papers with markets regulator
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-files-rs-1500-cr-ipo-papers-with-sebi/articleshow/126826301.cms
+- How India's Post-Pahalgam Indus Treaty Freeze Led To Pak's Water Panic - NDTV
+  How India's Post-Pahalgam
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXZvblVqUk14bzlZX29jb2pKZ3NTakFiVDJVMTRzRGFrdGJDM0t0Wkk0YjBILXV2SExxRjU2aFgtMjNjekRNMEl5UlNVSWRIcTRscDU2OWZoRWtUQU9OLUVpdVhpeVl5SjBTaVdvUlFMcmtsaXNua3o5a2xnYTlabnhGYTFFUTBnMnRkYWNJQjEtb2pCampyYm5tNWIwdnpFSnI2bU5fRmJWODhzX2fSAbYBQVVfeXFMTmlrZkpRNG9FTC1UR2M5SDJKRlR1OFpjYXdjNFRhOEFqZWhTc3k5eWFQNnFERHFvVm5wTDJYQ2s5ZFJvY3BISGQ2ZGhCSlBHa3dsb0h1QzRfM2Qxd1JWWHhFTkFnNUt1Rncta1J5bGhrY2t0YTFCOWNLLXRsVXBuN25hbHJucDdsaENqRnA0QjRiOWtPd0NjMFZVRUxKN1JOQWRKOWpnRUJmLXNzS0N1OXNHYVlYT2c?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Nifty technicals stayed bearish near 200-DMA, with mid and small caps underperforming. Indian markets stayed cautious amid uncertainty over US tariff rulings, persistent FII
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/126825470.cms
+- Airbus to showcase its latest fleet at Wings India 2026 - Times of India
+  Airbus to showcase its latest fleet at Wings India
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPT2hZb0R3STF2bldiN0x4aEF4eUZrSXYyV0NEdkFBVUJtZ0lwWGgxZmdoemZmREw4MFFwY214bi02SlkzbGZVZ3kzODNvbEliQjlNXzBwUjVObWF0OGRlVWVFdjJVN0ZEN3dKZVFUZXZ1X1JURkFMcC0xbkVpLTBSUTM0TXREMWJHSkZidld2bVBtNWpvRF8tTXRiOVYwRHZWX29waFNaN2U2c3Z5M2ZtVXM5bmlnU25Cdi1OSzJQdWZHdGp1eXp5Y3V3by3SAdIBQVVfeXFMTjJoVVdnNlJpSzVQcnVrZENkcEVyMjNrX25XNW5adHpNcFRuYjdhc0lNNlhvWEFER3hBWkdJNlRVTHo3X3ROaXA3eklYX05LSGdqdUQtSzhTNGRpSGZXYkIzUTNLcVVwWGZQdjQtV3p6Vnc4VjFtNUhXRUo2ZlRJaUhVRDcya1Y1ang5dnNhVjVQcFQ0cS00ejJHTkpSMTBhSFBWdnRtNkhoNVZnZWlhQmR6Ym1wcHY0ZlVnV2tMVURzaG9mM0RNekRwZ1I5S3JWZkdR?oc=5
 
-- Trump’s Gaza ‘Board Of Peace’: List of countries that are joining or snubbing US — will India, China say yes? - Mint
-  A list of countries that are joining or snubbing US’s Gaza
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSmZNM1ltVHNuRklaRU5jQm01UGF2WlhLVTd5SVVKay1SZndtR09MT2luUWJHR2dxc1psU3hRMmFXSXBxMVZiWXVQNEw4UFp6VmdzcmNGUFpmazN3RDA4U1BiT0JVaHhLazk2US1ZQ0xyaFlGRmhIbWpnZVZ3VzBxclc3VFd1dkg3SnR2bnQzdkJiclVLOWdDaEVlQjhGTVc4cGJyUGx3aTB4Z0NyRDhkUTVIQXF4bmlvWkJRSDZnazNLdWlBQWFhSDBlSW1xZGRUalBxRlExdS1nM1ZEcVhXeHVmTVdQazVtZ0FZNG1fOU3SAfYBQVVfeXFMTmhGRVVWdHZRdlhNNjlzTFNtZjlFMllQOHlMMjQxcnRlX0tKMmxTbHJKOUJQSi1TeVpYaDRMSUdDdFJqZVM1RHVGVmZEMEI1SWhMbHNKVVF6MGp4d20tWXIxdDluOEt4MlVlLXNZZkpuVWR1SXRvaWxKWWNqcXotQzZNa01FNjU4NnBlWE1hZjVlMGpSRjJnQWtVMzN4ajlTQ1BKckRjVklXWERjYkFmajJaZ09Rb0RURGhHTlJVXzZwQnRxenA5MVRyMGJqWEdWMWJiSkpTWG1pZUdyRDlLUHktZl9CWUEzYzcwbDZaUUkxVnprZ19R?oc=5
-
-- After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian oil purchase | India News - Hindustan Times
-  After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlZkR21aTkE2SkZkY3RZRDNHYkZmWF9IcURsa29velJNSWI4elJsdTh6NHNfdEJMX1BwX1F5eFhiVktIaV9RWE1ZVF9GNkZuUEFUbXpORWlrT3ZSTEY4R3g4QkxtcnEtVU5DcmNWbTlrN2dXTHNyT0ZzYXBsY2M3X3d3S19RQUJlUmxvQzMxWmNPNUVNM0d2dGFreFpFa080WlRYeW9mVWNXLTNUSVBtcDZ0MmpmZThYbVk3eWpZMllENUhwdURmelMtZW55S0wyNjZHUUhUeDJzeGlJMUY4aXg4Y01wakxUeHNSemlyS0VqMl96aHJGWERGRmhZWi1hbXRJSTBLazZXZG_SAZACQVVfeXFMTkpoWkRRaFF4TkJpVzRqR183OGt1TDJxdjUxanJQUV9SdldKWjVBLUU4M2w2dEJSNVpSNzFnWUJ5d0V0NVNJVks0cThwMlNFMGNGTXozeGJRR0JWZ056ZTdqdWpjTlM5UTlEaTVkeVZNcWtJZWJGWHhNUzB4bkMwRjNpa21XbnV6NzQ4b0FDcWRsTkJ2ZlpfdTRqRzBRX3JaWk5XVTA2dXZXQVVJdm14aUtwYjFvUlZEUEkxaHY5YVNPUjJpRWI2c05mN0RKYXRoLXpvOEVQUUpQcW1YWFBtRWhKTkxDM25MUzRHekFoeG1XNEtDMEQxaWFxM01LVFZLNWJPd0JFOHN6dFFkZUNQOTA?oc=5
+- 'New Delhi has stopped': After Trump’s 500% tariff threat, US Treasury Secretary Bessent makes big statement - india.com
+  'New Delhi has stopped': After Trump’s 500% tariff
+  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxNTDA3RC1PZ0lmeGViU2NZNTNuNl9hWXotOXNrMmdCelZGRzRTbjBxZ0c3bmo3MWVsZGFHeFdEOWt5bjFfV2Mzdk1oNklpUW56QkMxN0ppdU0zb0QzNWlUTzQ0UmJfZ2xobU5xRFhUbE5ZWHlWN1Y5UGpEcXJyLVJzRmRyOXdiM3owZXhnZmpPM28zZnduMWJ5YmFUV3YyMFlOUmRLdVVpR254dXNxd0EtdUZVSGl2QnA0NWJsTTlLZzRXS3paRzlNTDE5SnhiWEw4c21TajZPUVdGdzNBVE1zZG1mcGRlZTlwNDczYWxObHcwTExGQXc2ckx3bDhzVllsX0tBbjVVQ2xRMXlvcFZ1STZDNm5FdUhrRjBBSWUwaU9pbS1XX3lueFphcVRvUmVL0gG2AkFVX3lxTE5vS1hDNzVSUEo4alR6QU90ZjJFZnhVcEwwQS1RM0ItX0Fwb29BUmIzN05OdEtvTkEtNzVEeEpwc3J6eWFDTmVTT0lxNEMzUTF1MHpmZkZBZmVEYThoWWJXeGNrZGlNREVqR3lmZE9IV0poYWI1SG5qQ0ZLSXZqV3pqRmU5UTk4NElTR3ZILTRBaXBWVTlkNEozS2FlQW9LZUZWMXlHeXdLMFRWb3FwVUxLbTJCVGlVcmw4b1VMNmUxUVpaYXRiZUJQZ0F5bXF2dlBhdVRVSWNRSXNZai1rMHFYMmJZZDNCdHlaVWZTVFloN3NxNHlKQzJBeVpwMzdIQ3pXaTRiWkdpU3VBYmRfMGJmNjR6emU3WUlfLWkyMXNpYjQyVWJkcTlmbXNnUXlGWmc0NEZoR2c?oc=5
 
 - Will Dal Derail Trade Deal? Trump Gets Letter Over India's 30% Pulse Tariff - NDTV
   &nbsp;&ngt;&
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkxyMnNyY3NScy1wRGdlN1c2UzRCLXVQSDNCeFhDVExwUzBzSlJRVTVTMUMxemd4UzNSVGlQbkJHUEhXaEszZkNkUUlvYy15ZmNWMWZnOXU1QmNZSG9QNXgyX0lrOFRWSU1rM1Jia0lFVG15S0RqYm02U2l5X0hjZVN0V1NjdklXRkJndm5faS10OE5lYXlRS184OHpzNzI2U1FkYXJMYWloTmlDbVhtT0RUZ9IBuwFBVV95cUxOUVJxQ05Xd2gxS25hV0FhNTVvaXVQMzNaU0RzRVhMZG5FRURTc3puTEktZjJlVGFtelpRVU9ycDhaT2JNZ1VqOEVkblVBZVd4TEE2UXNDeXlGLUFPNXpYR0RoTGpwLVhaeDVEaXBjdFZ6ZmZ4ang4cmt3ZGVqdGpBdXJJUEVjSDBkaTNVaDJwQU9pMTdFbmtTMDJaMExMRTV4QlYxZVFtdnRoRnB3eS1LWm4yUGIyc0NLb0Fr?oc=5
 
-- India, UAE to elevate ties with strategic defence partnership - Times of India
-  India, UAE to elevate ties with strategic defence
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY3JWUURSMzl4VE1GamZ1V2VKRHB1dUZ3TDduTzdiUzRvdnhIRVc5cVBJWGRuSFdGbTZKTWpkejJjY2FjaW5ZX3VHUWpKU2ozQno4Tlc0bmJfR2p1djZQbTRVZFJjTnRLX0pFQWo5cXc4TVBSbkhieHVKWGFBcXVUTkd4RGFXeXpBOFhQeHBFRGotdGRsOTJoOVNUNDZKNmhhUTdGdnBpeHpleGg1dTdoaGgzc2RsdU5tSVZqc3VhMGY0NlNyRmtr0gHMAUFVX3lxTE9tQURtMFBwVEZVZTM1YXVILWFNcDdmSnV3LWVWNUlBdW84NWx5MlpHSGpvVGtzM0FvYU9GVGFlc0FQRGluMHFFV05KZ1RLRld3bWNZTElJOXhiRkJjaHFDQ0xfbDhZNURBcTZJMnNHdHFVUGR0akJydFlJdnZDQnZQOFhiVmZMUTdCTzdOOG1jSlJ0OVdOcnJLUm9HTk5iR09yWU9KdndaRWUtU0J1SVdqbVV3czhxR0tIbFd2eHJ2RjBXbWstMnkxVXJlaA?oc=5
+- 7 Indian CEOs Invited To Trump's Reception At World Economic Forum In Davos - NDTV
+  7 Indian CEOs Invited To Trump's Reception At
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPcGNUT1o1WGpjdjAtajlLZFJqd182SzJyNlFvcEZzS2t2cERpZlNUWXl6bnViT2dKbnZHSHRJWWN1ME1xNTFNSlRpYjg3NzVORm5nbzFuTXh3eFV3OGlJQnRVMG92Mzhad3dJc0dKZGwwQ2ZqZk1BUFQwVTBnUGdkRVBNWkk5S1NPd0J3MExEWGFBMXlwNlVHYmpFNnU5R3VDR3FRZG5YN080Tk5jQUxmWnJ2Ujg5Z9IBvgFBVV95cUxOTVBobjhwNjNKSFRMMnpYcVlXQ3NOM3ZYaU9nYi1CVTJjbWpvOUtoSi1uc3d5dnAwQ21UaWt1ZWhjeTdDZEt4ZWNxVTJaUWJCUENsZzI1SnZnU2xHV09JLTdmZmFXQld6VndRdEl5dXdMWWxwdjNCMlJkbW53eUpYVGRQWGw3SVhuS05mRmRCcGVXcGRrUE9DdlpBa3c3UWlnUjRJNzZ2ZEhqYUFLSlhjd0lvcHlqaElZYm9ZQkRR?oc=5
 
-- UAE President's 3-Hour India Visit And PM Modi's Special Gesture - NDTV
-  UAE President's 3-Hour India
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNW0waHZJLXI1X2ZSWWNBak9XenhzQkNDYVZiNmthTUxveVpBaVVsQWZfODRNVzk3VHZrZXhyenYzYzJjZ0dXaHI5Ylk3QWN4VFVjV1FxUjdWZUo3NHRXeHB5ZHpCWkNJNGN4ekY2eEVQZWFqVzVmQW5pbVNMRDZTd2JiMVNIcnRrRmpjOUQxWV9JSkV3YVJjUEFKTjhxRnF5STZrTmtTV2w0bFJRUXJxWUljb2YwZmp0N3h3TThzQ1BSZ2hTR25Ga0d5cjIwN3NnalRqM9IB3AFBVV95cUxNdGl5V2hZaDV0T3I2MllxaXl5WWowajE5Q0hxbDRVUnhUay1zc2VVdVBMdm00Y2dNd2ZhNktteTMxMHpxSmhhWk9ITG9BR2JXczRra28wd0lFN3A3cm1PYWhYbXZRbGduSldzSjVjNEJPQ0RkYUdVOVVxT0R1cnRIRWlHb1ZBTmxYa1dhX0d0OWstT3BMcFBFWjg4cnBtSmdfdHZQTU1Fdmo0TVBTTlNRMVJDR2FVRk5ZenJKc0ZBSkdvdExvQ19qLUtVcm5feXFvQmJXd2lsYjFKU1RK?oc=5
+- How India's Post-Pahalgam Indus Treaty Freeze Led To Pak's Water Panic - NDTV
+  How India's Post-Pahalgam
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXZvblVqUk14bzlZX29jb2pKZ3NTakFiVDJVMTRzRGFrdGJDM0t0Wkk0YjBILXV2SExxRjU2aFgtMjNjekRNMEl5UlNVSWRIcTRscDU2OWZoRWtUQU9OLUVpdVhpeVl5SjBTaVdvUlFMcmtsaXNua3o5a2xnYTlabnhGYTFFUTBnMnRkYWNJQjEtb2pCampyYm5tNWIwdnpFSnI2bU5fRmJWODhzX2fSAbYBQVVfeXFMTmlrZkpRNG9FTC1UR2M5SDJKRlR1OFpjYXdjNFRhOEFqZWhTc3k5eWFQNnFERHFvVm5wTDJYQ2s5ZFJvY3BISGQ2ZGhCSlBHa3dsb0h1QzRfM2Qxd1JWWHhFTkFnNUt1Rncta1J5bGhrY2t0YTFCOWNLLXRsVXBuN25hbHJucDdsaENqRnA0QjRiOWtPd0NjMFZVRUxKN1JOQWRKOWpnRUJmLXNzS0N1OXNHYVlYT2c?oc=5
 
-- Trump’s Gaza ‘Board Of Peace’: List of countries that are joining or snubbing US — will India, China say yes? - Mint
-  A list of countries that are joining or snubbing US’s Gaza
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSmZNM1ltVHNuRklaRU5jQm01UGF2WlhLVTd5SVVKay1SZndtR09MT2luUWJHR2dxc1psU3hRMmFXSXBxMVZiWXVQNEw4UFp6VmdzcmNGUFpmazN3RDA4U1BiT0JVaHhLazk2US1ZQ0xyaFlGRmhIbWpnZVZ3VzBxclc3VFd1dkg3SnR2bnQzdkJiclVLOWdDaEVlQjhGTVc4cGJyUGx3aTB4Z0NyRDhkUTVIQXF4bmlvWkJRSDZnazNLdWlBQWFhSDBlSW1xZGRUalBxRlExdS1nM1ZEcVhXeHVmTVdQazVtZ0FZNG1fOU3SAfYBQVVfeXFMTmhGRVVWdHZRdlhNNjlzTFNtZjlFMllQOHlMMjQxcnRlX0tKMmxTbHJKOUJQSi1TeVpYaDRMSUdDdFJqZVM1RHVGVmZEMEI1SWhMbHNKVVF6MGp4d20tWXIxdDluOEt4MlVlLXNZZkpuVWR1SXRvaWxKWWNqcXotQzZNa01FNjU4NnBlWE1hZjVlMGpSRjJnQWtVMzN4ajlTQ1BKckRjVklXWERjYkFmajJaZ09Rb0RURGhHTlJVXzZwQnRxenA5MVRyMGJqWEdWMWJiSkpTWG1pZUdyRDlLUHktZl9CWUEzYzcwbDZaUUkxVnprZ19R?oc=5
+- Airbus to showcase its latest fleet at Wings India 2026 - Times of India
+  Airbus to showcase its latest fleet at Wings India
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPT2hZb0R3STF2bldiN0x4aEF4eUZrSXYyV0NEdkFBVUJtZ0lwWGgxZmdoemZmREw4MFFwY214bi02SlkzbGZVZ3kzODNvbEliQjlNXzBwUjVObWF0OGRlVWVFdjJVN0ZEN3dKZVFUZXZ1X1JURkFMcC0xbkVpLTBSUTM0TXREMWJHSkZidld2bVBtNWpvRF8tTXRiOVYwRHZWX29waFNaN2U2c3Z5M2ZtVXM5bmlnU25Cdi1OSzJQdWZHdGp1eXp5Y3V3by3SAdIBQVVfeXFMTjJoVVdnNlJpSzVQcnVrZENkcEVyMjNrX25XNW5adHpNcFRuYjdhc0lNNlhvWEFER3hBWkdJNlRVTHo3X3ROaXA3eklYX05LSGdqdUQtSzhTNGRpSGZXYkIzUTNLcVVwWGZQdjQtV3p6Vnc4VjFtNUhXRUo2ZlRJaUhVRDcya1Y1ang5dnNhVjVQcFQ0cS00ejJHTkpSMTBhSFBWdnRtNkhoNVZnZWlhQmR6Ym1wcHY0ZlVnV2tMVURzaG9mM0RNekRwZ1I5S3JWZkdR?oc=5
 
-- After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian oil purchase | India News - Hindustan Times
-  After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlZkR21aTkE2SkZkY3RZRDNHYkZmWF9IcURsa29velJNSWI4elJsdTh6NHNfdEJMX1BwX1F5eFhiVktIaV9RWE1ZVF9GNkZuUEFUbXpORWlrT3ZSTEY4R3g4QkxtcnEtVU5DcmNWbTlrN2dXTHNyT0ZzYXBsY2M3X3d3S19RQUJlUmxvQzMxWmNPNUVNM0d2dGFreFpFa080WlRYeW9mVWNXLTNUSVBtcDZ0MmpmZThYbVk3eWpZMllENUhwdURmelMtZW55S0wyNjZHUUhUeDJzeGlJMUY4aXg4Y01wakxUeHNSemlyS0VqMl96aHJGWERGRmhZWi1hbXRJSTBLazZXZG_SAZACQVVfeXFMTkpoWkRRaFF4TkJpVzRqR183OGt1TDJxdjUxanJQUV9SdldKWjVBLUU4M2w2dEJSNVpSNzFnWUJ5d0V0NVNJVks0cThwMlNFMGNGTXozeGJRR0JWZ056ZTdqdWpjTlM5UTlEaTVkeVZNcWtJZWJGWHhNUzB4bkMwRjNpa21XbnV6NzQ4b0FDcWRsTkJ2ZlpfdTRqRzBRX3JaWk5XVTA2dXZXQVVJdm14aUtwYjFvUlZEUEkxaHY5YVNPUjJpRWI2c05mN0RKYXRoLXpvOEVQUUpQcW1YWFBtRWhKTkxDM25MUzRHekFoeG1XNEtDMEQxaWFxM01LVFZLNWJPd0JFOHN6dFFkZUNQOTA?oc=5
-
-- Will Dal Derail Trade Deal? Trump Gets Letter Over India's 30% Pulse Tariff - NDTV
-  &nbsp;&ngt;&
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkxyMnNyY3NScy1wRGdlN1c2UzRCLXVQSDNCeFhDVExwUzBzSlJRVTVTMUMxemd4UzNSVGlQbkJHUEhXaEszZkNkUUlvYy15ZmNWMWZnOXU1QmNZSG9QNXgyX0lrOFRWSU1rM1Jia0lFVG15S0RqYm02U2l5X0hjZVN0V1NjdklXRkJndm5faS10OE5lYXlRS184OHpzNzI2U1FkYXJMYWloTmlDbVhtT0RUZ9IBuwFBVV95cUxOUVJxQ05Xd2gxS25hV0FhNTVvaXVQMzNaU0RzRVhMZG5FRURTc3puTEktZjJlVGFtelpRVU9ycDhaT2JNZ1VqOEVkblVBZVd4TEE2UXNDeXlGLUFPNXpYR0RoTGpwLVhaeDVEaXBjdFZ6ZmZ4ang4cmt3ZGVqdGpBdXJJUEVjSDBkaTNVaDJwQU9pMTdFbmtTMDJaMExMRTV4QlYxZVFtdnRoRnB3eS1LWm4yUGIyc0NLb0Fr?oc=5
-
-- India, UAE to elevate ties with strategic defence partnership - Times of India
-  India, UAE to elevate ties with strategic defence
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY3JWUURSMzl4VE1GamZ1V2VKRHB1dUZ3TDduTzdiUzRvdnhIRVc5cVBJWGRuSFdGbTZKTWpkejJjY2FjaW5ZX3VHUWpKU2ozQno4Tlc0bmJfR2p1djZQbTRVZFJjTnRLX0pFQWo5cXc4TVBSbkhieHVKWGFBcXVUTkd4RGFXeXpBOFhQeHBFRGotdGRsOTJoOVNUNDZKNmhhUTdGdnBpeHpleGg1dTdoaGgzc2RsdU5tSVZqc3VhMGY0NlNyRmtr0gHMAUFVX3lxTE9tQURtMFBwVEZVZTM1YXVILWFNcDdmSnV3LWVWNUlBdW84NWx5MlpHSGpvVGtzM0FvYU9GVGFlc0FQRGluMHFFV05KZ1RLRld3bWNZTElJOXhiRkJjaHFDQ0xfbDhZNURBcTZJMnNHdHFVUGR0akJydFlJdnZDQnZQOFhiVmZMUTdCTzdOOG1jSlJ0OVdOcnJLUm9HTk5iR09yWU9KdndaRWUtU0J1SVdqbVV3czhxR0tIbFd2eHJ2RjBXbWstMnkxVXJlaA?oc=5
-
-- UAE President's 3-Hour India Visit And PM Modi's Special Gesture - NDTV
-  UAE President's 3-Hour India
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNW0waHZJLXI1X2ZSWWNBak9XenhzQkNDYVZiNmthTUxveVpBaVVsQWZfODRNVzk3VHZrZXhyenYzYzJjZ0dXaHI5Ylk3QWN4VFVjV1FxUjdWZUo3NHRXeHB5ZHpCWkNJNGN4ekY2eEVQZWFqVzVmQW5pbVNMRDZTd2JiMVNIcnRrRmpjOUQxWV9JSkV3YVJjUEFKTjhxRnF5STZrTmtTV2w0bFJRUXJxWUljb2YwZmp0N3h3TThzQ1BSZ2hTR25Ga0d5cjIwN3NnalRqM9IB3AFBVV95cUxNdGl5V2hZaDV0T3I2MllxaXl5WWowajE5Q0hxbDRVUnhUay1zc2VVdVBMdm00Y2dNd2ZhNktteTMxMHpxSmhhWk9ITG9BR2JXczRra28wd0lFN3A3cm1PYWhYbXZRbGduSldzSjVjNEJPQ0RkYUdVOVVxT0R1cnRIRWlHb1ZBTmxYa1dhX0d0OWstT3BMcFBFWjg4cnBtSmdfdHZQTU1Fdmo0TVBTTlNRMVJDR2FVRk5ZenJKc0ZBSkdvdExvQ19qLUtVcm5feXFvQmJXd2lsYjFKU1RK?oc=5
-
-- Trump’s Gaza ‘Board Of Peace’: List of countries that are joining or snubbing US — will India, China say yes? - Mint
-  A list of countries that are joining or snubbing US’s Gaza
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSmZNM1ltVHNuRklaRU5jQm01UGF2WlhLVTd5SVVKay1SZndtR09MT2luUWJHR2dxc1psU3hRMmFXSXBxMVZiWXVQNEw4UFp6VmdzcmNGUFpmazN3RDA4U1BiT0JVaHhLazk2US1ZQ0xyaFlGRmhIbWpnZVZ3VzBxclc3VFd1dkg3SnR2bnQzdkJiclVLOWdDaEVlQjhGTVc4cGJyUGx3aTB4Z0NyRDhkUTVIQXF4bmlvWkJRSDZnazNLdWlBQWFhSDBlSW1xZGRUalBxRlExdS1nM1ZEcVhXeHVmTVdQazVtZ0FZNG1fOU3SAfYBQVVfeXFMTmhGRVVWdHZRdlhNNjlzTFNtZjlFMllQOHlMMjQxcnRlX0tKMmxTbHJKOUJQSi1TeVpYaDRMSUdDdFJqZVM1RHVGVmZEMEI1SWhMbHNKVVF6MGp4d20tWXIxdDluOEt4MlVlLXNZZkpuVWR1SXRvaWxKWWNqcXotQzZNa01FNjU4NnBlWE1hZjVlMGpSRjJnQWtVMzN4ajlTQ1BKckRjVklXWERjYkFmajJaZ09Rb0RURGhHTlJVXzZwQnRxenA5MVRyMGJqWEdWMWJiSkpTWG1pZUdyRDlLUHktZl9CWUEzYzcwbDZaUUkxVnprZ19R?oc=5
-
-- After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian oil purchase | India News - Hindustan Times
-  After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlZkR21aTkE2SkZkY3RZRDNHYkZmWF9IcURsa29velJNSWI4elJsdTh6NHNfdEJMX1BwX1F5eFhiVktIaV9RWE1ZVF9GNkZuUEFUbXpORWlrT3ZSTEY4R3g4QkxtcnEtVU5DcmNWbTlrN2dXTHNyT0ZzYXBsY2M3X3d3S19RQUJlUmxvQzMxWmNPNUVNM0d2dGFreFpFa080WlRYeW9mVWNXLTNUSVBtcDZ0MmpmZThYbVk3eWpZMllENUhwdURmelMtZW55S0wyNjZHUUhUeDJzeGlJMUY4aXg4Y01wakxUeHNSemlyS0VqMl96aHJGWERGRmhZWi1hbXRJSTBLazZXZG_SAZACQVVfeXFMTkpoWkRRaFF4TkJpVzRqR183OGt1TDJxdjUxanJQUV9SdldKWjVBLUU4M2w2dEJSNVpSNzFnWUJ5d0V0NVNJVks0cThwMlNFMGNGTXozeGJRR0JWZ056ZTdqdWpjTlM5UTlEaTVkeVZNcWtJZWJGWHhNUzB4bkMwRjNpa21XbnV6NzQ4b0FDcWRsTkJ2ZlpfdTRqRzBRX3JaWk5XVTA2dXZXQVVJdm14aUtwYjFvUlZEUEkxaHY5YVNPUjJpRWI2c05mN0RKYXRoLXpvOEVQUUpQcW1YWFBtRWhKTkxDM25MUzRHekFoeG1XNEtDMEQxaWFxM01LVFZLNWJPd0JFOHN6dFFkZUNQOTA?oc=5
+- 'New Delhi has stopped': After Trump’s 500% tariff threat, US Treasury Secretary Bessent makes big statement - india.com
+  'New Delhi has stopped': After Trump’s 500% tariff
+  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxNTDA3RC1PZ0lmeGViU2NZNTNuNl9hWXotOXNrMmdCelZGRzRTbjBxZ0c3bmo3MWVsZGFHeFdEOWt5bjFfV2Mzdk1oNklpUW56QkMxN0ppdU0zb0QzNWlUTzQ0UmJfZ2xobU5xRFhUbE5ZWHlWN1Y5UGpEcXJyLVJzRmRyOXdiM3owZXhnZmpPM28zZnduMWJ5YmFUV3YyMFlOUmRLdVVpR254dXNxd0EtdUZVSGl2QnA0NWJsTTlLZzRXS3paRzlNTDE5SnhiWEw4c21TajZPUVdGdzNBVE1zZG1mcGRlZTlwNDczYWxObHcwTExGQXc2ckx3bDhzVllsX0tBbjVVQ2xRMXlvcFZ1STZDNm5FdUhrRjBBSWUwaU9pbS1XX3lueFphcVRvUmVL0gG2AkFVX3lxTE5vS1hDNzVSUEo4alR6QU90ZjJFZnhVcEwwQS1RM0ItX0Fwb29BUmIzN05OdEtvTkEtNzVEeEpwc3J6eWFDTmVTT0lxNEMzUTF1MHpmZkZBZmVEYThoWWJXeGNrZGlNREVqR3lmZE9IV0poYWI1SG5qQ0ZLSXZqV3pqRmU5UTk4NElTR3ZILTRBaXBWVTlkNEozS2FlQW9LZUZWMXlHeXdLMFRWb3FwVUxLbTJCVGlVcmw4b1VMNmUxUVpaYXRiZUJQZ0F5bXF2dlBhdVRVSWNRSXNZai1rMHFYMmJZZDNCdHlaVWZTVFloN3NxNHlKQzJBeVpwMzdIQ3pXaTRiWkdpU3VBYmRfMGJmNjR6emU3WUlfLWkyMXNpYjQyVWJkcTlmbXNnUXlGWmc0NEZoR2c?oc=5
 
 - Will Dal Derail Trade Deal? Trump Gets Letter Over India's 30% Pulse Tariff - NDTV
   &nbsp;&ngt;&
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkxyMnNyY3NScy1wRGdlN1c2UzRCLXVQSDNCeFhDVExwUzBzSlJRVTVTMUMxemd4UzNSVGlQbkJHUEhXaEszZkNkUUlvYy15ZmNWMWZnOXU1QmNZSG9QNXgyX0lrOFRWSU1rM1Jia0lFVG15S0RqYm02U2l5X0hjZVN0V1NjdklXRkJndm5faS10OE5lYXlRS184OHpzNzI2U1FkYXJMYWloTmlDbVhtT0RUZ9IBuwFBVV95cUxOUVJxQ05Xd2gxS25hV0FhNTVvaXVQMzNaU0RzRVhMZG5FRURTc3puTEktZjJlVGFtelpRVU9ycDhaT2JNZ1VqOEVkblVBZVd4TEE2UXNDeXlGLUFPNXpYR0RoTGpwLVhaeDVEaXBjdFZ6ZmZ4ang4cmt3ZGVqdGpBdXJJUEVjSDBkaTNVaDJwQU9pMTdFbmtTMDJaMExMRTV4QlYxZVFtdnRoRnB3eS1LWm4yUGIyc0NLb0Fr?oc=5
 
-- India, UAE to elevate ties with strategic defence partnership - Times of India
-  India, UAE to elevate ties with strategic defence
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY3JWUURSMzl4VE1GamZ1V2VKRHB1dUZ3TDduTzdiUzRvdnhIRVc5cVBJWGRuSFdGbTZKTWpkejJjY2FjaW5ZX3VHUWpKU2ozQno4Tlc0bmJfR2p1djZQbTRVZFJjTnRLX0pFQWo5cXc4TVBSbkhieHVKWGFBcXVUTkd4RGFXeXpBOFhQeHBFRGotdGRsOTJoOVNUNDZKNmhhUTdGdnBpeHpleGg1dTdoaGgzc2RsdU5tSVZqc3VhMGY0NlNyRmtr0gHMAUFVX3lxTE9tQURtMFBwVEZVZTM1YXVILWFNcDdmSnV3LWVWNUlBdW84NWx5MlpHSGpvVGtzM0FvYU9GVGFlc0FQRGluMHFFV05KZ1RLRld3bWNZTElJOXhiRkJjaHFDQ0xfbDhZNURBcTZJMnNHdHFVUGR0akJydFlJdnZDQnZQOFhiVmZMUTdCTzdOOG1jSlJ0OVdOcnJLUm9HTk5iR09yWU9KdndaRWUtU0J1SVdqbVV3czhxR0tIbFd2eHJ2RjBXbWstMnkxVXJlaA?oc=5
+- 7 Indian CEOs Invited To Trump's Reception At World Economic Forum In Davos - NDTV
+  7 Indian CEOs Invited To Trump's Reception At
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPcGNUT1o1WGpjdjAtajlLZFJqd182SzJyNlFvcEZzS2t2cERpZlNUWXl6bnViT2dKbnZHSHRJWWN1ME1xNTFNSlRpYjg3NzVORm5nbzFuTXh3eFV3OGlJQnRVMG92Mzhad3dJc0dKZGwwQ2ZqZk1BUFQwVTBnUGdkRVBNWkk5S1NPd0J3MExEWGFBMXlwNlVHYmpFNnU5R3VDR3FRZG5YN080Tk5jQUxmWnJ2Ujg5Z9IBvgFBVV95cUxOTVBobjhwNjNKSFRMMnpYcVlXQ3NOM3ZYaU9nYi1CVTJjbWpvOUtoSi1uc3d5dnAwQ21UaWt1ZWhjeTdDZEt4ZWNxVTJaUWJCUENsZzI1SnZnU2xHV09JLTdmZmFXQld6VndRdEl5dXdMWWxwdjNCMlJkbW53eUpYVGRQWGw3SVhuS05mRmRCcGVXcGRrUE9DdlpBa3c3UWlnUjRJNzZ2ZEhqYUFLSlhjd0lvcHlqaElZYm9ZQkRR?oc=5
 
-- UAE President's 3-Hour India Visit And PM Modi's Special Gesture - NDTV
-  UAE President's 3-Hour India
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNW0waHZJLXI1X2ZSWWNBak9XenhzQkNDYVZiNmthTUxveVpBaVVsQWZfODRNVzk3VHZrZXhyenYzYzJjZ0dXaHI5Ylk3QWN4VFVjV1FxUjdWZUo3NHRXeHB5ZHpCWkNJNGN4ekY2eEVQZWFqVzVmQW5pbVNMRDZTd2JiMVNIcnRrRmpjOUQxWV9JSkV3YVJjUEFKTjhxRnF5STZrTmtTV2w0bFJRUXJxWUljb2YwZmp0N3h3TThzQ1BSZ2hTR25Ga0d5cjIwN3NnalRqM9IB3AFBVV95cUxNdGl5V2hZaDV0T3I2MllxaXl5WWowajE5Q0hxbDRVUnhUay1zc2VVdVBMdm00Y2dNd2ZhNktteTMxMHpxSmhhWk9ITG9BR2JXczRra28wd0lFN3A3cm1PYWhYbXZRbGduSldzSjVjNEJPQ0RkYUdVOVVxT0R1cnRIRWlHb1ZBTmxYa1dhX0d0OWstT3BMcFBFWjg4cnBtSmdfdHZQTU1Fdmo0TVBTTlNRMVJDR2FVRk5ZenJKc0ZBSkdvdExvQ19qLUtVcm5feXFvQmJXd2lsYjFKU1RK?oc=5
+- How India's Post-Pahalgam Indus Treaty Freeze Led To Pak's Water Panic - NDTV
+  How India's Post-Pahalgam
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXZvblVqUk14bzlZX29jb2pKZ3NTakFiVDJVMTRzRGFrdGJDM0t0Wkk0YjBILXV2SExxRjU2aFgtMjNjekRNMEl5UlNVSWRIcTRscDU2OWZoRWtUQU9OLUVpdVhpeVl5SjBTaVdvUlFMcmtsaXNua3o5a2xnYTlabnhGYTFFUTBnMnRkYWNJQjEtb2pCampyYm5tNWIwdnpFSnI2bU5fRmJWODhzX2fSAbYBQVVfeXFMTmlrZkpRNG9FTC1UR2M5SDJKRlR1OFpjYXdjNFRhOEFqZWhTc3k5eWFQNnFERHFvVm5wTDJYQ2s5ZFJvY3BISGQ2ZGhCSlBHa3dsb0h1QzRfM2Qxd1JWWHhFTkFnNUt1Rncta1J5bGhrY2t0YTFCOWNLLXRsVXBuN25hbHJucDdsaENqRnA0QjRiOWtPd0NjMFZVRUxKN1JOQWRKOWpnRUJmLXNzS0N1OXNHYVlYT2c?oc=5
 
-- Trump’s Gaza ‘Board Of Peace’: List of countries that are joining or snubbing US — will India, China say yes? - Mint
-  A list of countries that are joining or snubbing US’s Gaza
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSmZNM1ltVHNuRklaRU5jQm01UGF2WlhLVTd5SVVKay1SZndtR09MT2luUWJHR2dxc1psU3hRMmFXSXBxMVZiWXVQNEw4UFp6VmdzcmNGUFpmazN3RDA4U1BiT0JVaHhLazk2US1ZQ0xyaFlGRmhIbWpnZVZ3VzBxclc3VFd1dkg3SnR2bnQzdkJiclVLOWdDaEVlQjhGTVc4cGJyUGx3aTB4Z0NyRDhkUTVIQXF4bmlvWkJRSDZnazNLdWlBQWFhSDBlSW1xZGRUalBxRlExdS1nM1ZEcVhXeHVmTVdQazVtZ0FZNG1fOU3SAfYBQVVfeXFMTmhGRVVWdHZRdlhNNjlzTFNtZjlFMllQOHlMMjQxcnRlX0tKMmxTbHJKOUJQSi1TeVpYaDRMSUdDdFJqZVM1RHVGVmZEMEI1SWhMbHNKVVF6MGp4d20tWXIxdDluOEt4MlVlLXNZZkpuVWR1SXRvaWxKWWNqcXotQzZNa01FNjU4NnBlWE1hZjVlMGpSRjJnQWtVMzN4ajlTQ1BKckRjVklXWERjYkFmajJaZ09Rb0RURGhHTlJVXzZwQnRxenA5MVRyMGJqWEdWMWJiSkpTWG1pZUdyRDlLUHktZl9CWUEzYzcwbDZaUUkxVnprZ19R?oc=5
+- Airbus to showcase its latest fleet at Wings India 2026 - Times of India
+  Airbus to showcase its latest fleet at Wings India
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPT2hZb0R3STF2bldiN0x4aEF4eUZrSXYyV0NEdkFBVUJtZ0lwWGgxZmdoemZmREw4MFFwY214bi02SlkzbGZVZ3kzODNvbEliQjlNXzBwUjVObWF0OGRlVWVFdjJVN0ZEN3dKZVFUZXZ1X1JURkFMcC0xbkVpLTBSUTM0TXREMWJHSkZidld2bVBtNWpvRF8tTXRiOVYwRHZWX29waFNaN2U2c3Z5M2ZtVXM5bmlnU25Cdi1OSzJQdWZHdGp1eXp5Y3V3by3SAdIBQVVfeXFMTjJoVVdnNlJpSzVQcnVrZENkcEVyMjNrX25XNW5adHpNcFRuYjdhc0lNNlhvWEFER3hBWkdJNlRVTHo3X3ROaXA3eklYX05LSGdqdUQtSzhTNGRpSGZXYkIzUTNLcVVwWGZQdjQtV3p6Vnc4VjFtNUhXRUo2ZlRJaUhVRDcya1Y1ang5dnNhVjVQcFQ0cS00ejJHTkpSMTBhSFBWdnRtNkhoNVZnZWlhQmR6Ym1wcHY0ZlVnV2tMVURzaG9mM0RNekRwZ1I5S3JWZkdR?oc=5
 
-- After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian oil purchase | India News - Hindustan Times
-  After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlZkR21aTkE2SkZkY3RZRDNHYkZmWF9IcURsa29velJNSWI4elJsdTh6NHNfdEJMX1BwX1F5eFhiVktIaV9RWE1ZVF9GNkZuUEFUbXpORWlrT3ZSTEY4R3g4QkxtcnEtVU5DcmNWbTlrN2dXTHNyT0ZzYXBsY2M3X3d3S19RQUJlUmxvQzMxWmNPNUVNM0d2dGFreFpFa080WlRYeW9mVWNXLTNUSVBtcDZ0MmpmZThYbVk3eWpZMllENUhwdURmelMtZW55S0wyNjZHUUhUeDJzeGlJMUY4aXg4Y01wakxUeHNSemlyS0VqMl96aHJGWERGRmhZWi1hbXRJSTBLazZXZG_SAZACQVVfeXFMTkpoWkRRaFF4TkJpVzRqR183OGt1TDJxdjUxanJQUV9SdldKWjVBLUU4M2w2dEJSNVpSNzFnWUJ5d0V0NVNJVks0cThwMlNFMGNGTXozeGJRR0JWZ056ZTdqdWpjTlM5UTlEaTVkeVZNcWtJZWJGWHhNUzB4bkMwRjNpa21XbnV6NzQ4b0FDcWRsTkJ2ZlpfdTRqRzBRX3JaWk5XVTA2dXZXQVVJdm14aUtwYjFvUlZEUEkxaHY5YVNPUjJpRWI2c05mN0RKYXRoLXpvOEVQUUpQcW1YWFBtRWhKTkxDM25MUzRHekFoeG1XNEtDMEQxaWFxM01LVFZLNWJPd0JFOHN6dFFkZUNQOTA?oc=5
+- 'New Delhi has stopped': After Trump’s 500% tariff threat, US Treasury Secretary Bessent makes big statement - india.com
+  'New Delhi has stopped': After Trump’s 500% tariff
+  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxNTDA3RC1PZ0lmeGViU2NZNTNuNl9hWXotOXNrMmdCelZGRzRTbjBxZ0c3bmo3MWVsZGFHeFdEOWt5bjFfV2Mzdk1oNklpUW56QkMxN0ppdU0zb0QzNWlUTzQ0UmJfZ2xobU5xRFhUbE5ZWHlWN1Y5UGpEcXJyLVJzRmRyOXdiM3owZXhnZmpPM28zZnduMWJ5YmFUV3YyMFlOUmRLdVVpR254dXNxd0EtdUZVSGl2QnA0NWJsTTlLZzRXS3paRzlNTDE5SnhiWEw4c21TajZPUVdGdzNBVE1zZG1mcGRlZTlwNDczYWxObHcwTExGQXc2ckx3bDhzVllsX0tBbjVVQ2xRMXlvcFZ1STZDNm5FdUhrRjBBSWUwaU9pbS1XX3lueFphcVRvUmVL0gG2AkFVX3lxTE5vS1hDNzVSUEo4alR6QU90ZjJFZnhVcEwwQS1RM0ItX0Fwb29BUmIzN05OdEtvTkEtNzVEeEpwc3J6eWFDTmVTT0lxNEMzUTF1MHpmZkZBZmVEYThoWWJXeGNrZGlNREVqR3lmZE9IV0poYWI1SG5qQ0ZLSXZqV3pqRmU5UTk4NElTR3ZILTRBaXBWVTlkNEozS2FlQW9LZUZWMXlHeXdLMFRWb3FwVUxLbTJCVGlVcmw4b1VMNmUxUVpaYXRiZUJQZ0F5bXF2dlBhdVRVSWNRSXNZai1rMHFYMmJZZDNCdHlaVWZTVFloN3NxNHlKQzJBeVpwMzdIQ3pXaTRiWkdpU3VBYmRfMGJmNjR6emU3WUlfLWkyMXNpYjQyVWJkcTlmbXNnUXlGWmc0NEZoR2c?oc=5
 
 - Will Dal Derail Trade Deal? Trump Gets Letter Over India's 30% Pulse Tariff - NDTV
   &nbsp;&ngt;&
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkxyMnNyY3NScy1wRGdlN1c2UzRCLXVQSDNCeFhDVExwUzBzSlJRVTVTMUMxemd4UzNSVGlQbkJHUEhXaEszZkNkUUlvYy15ZmNWMWZnOXU1QmNZSG9QNXgyX0lrOFRWSU1rM1Jia0lFVG15S0RqYm02U2l5X0hjZVN0V1NjdklXRkJndm5faS10OE5lYXlRS184OHpzNzI2U1FkYXJMYWloTmlDbVhtT0RUZ9IBuwFBVV95cUxOUVJxQ05Xd2gxS25hV0FhNTVvaXVQMzNaU0RzRVhMZG5FRURTc3puTEktZjJlVGFtelpRVU9ycDhaT2JNZ1VqOEVkblVBZVd4TEE2UXNDeXlGLUFPNXpYR0RoTGpwLVhaeDVEaXBjdFZ6ZmZ4ang4cmt3ZGVqdGpBdXJJUEVjSDBkaTNVaDJwQU9pMTdFbmtTMDJaMExMRTV4QlYxZVFtdnRoRnB3eS1LWm4yUGIyc0NLb0Fr?oc=5
 
-- India, UAE to elevate ties with strategic defence partnership - Times of India
-  India, UAE to elevate ties with strategic defence
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNY3JWUURSMzl4VE1GamZ1V2VKRHB1dUZ3TDduTzdiUzRvdnhIRVc5cVBJWGRuSFdGbTZKTWpkejJjY2FjaW5ZX3VHUWpKU2ozQno4Tlc0bmJfR2p1djZQbTRVZFJjTnRLX0pFQWo5cXc4TVBSbkhieHVKWGFBcXVUTkd4RGFXeXpBOFhQeHBFRGotdGRsOTJoOVNUNDZKNmhhUTdGdnBpeHpleGg1dTdoaGgzc2RsdU5tSVZqc3VhMGY0NlNyRmtr0gHMAUFVX3lxTE9tQURtMFBwVEZVZTM1YXVILWFNcDdmSnV3LWVWNUlBdW84NWx5MlpHSGpvVGtzM0FvYU9GVGFlc0FQRGluMHFFV05KZ1RLRld3bWNZTElJOXhiRkJjaHFDQ0xfbDhZNURBcTZJMnNHdHFVUGR0akJydFlJdnZDQnZQOFhiVmZMUTdCTzdOOG1jSlJ0OVdOcnJLUm9HTk5iR09yWU9KdndaRWUtU0J1SVdqbVV3czhxR0tIbFd2eHJ2RjBXbWstMnkxVXJlaA?oc=5
+- 7 Indian CEOs Invited To Trump's Reception At World Economic Forum In Davos - NDTV
+  7 Indian CEOs Invited To Trump's Reception At
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPcGNUT1o1WGpjdjAtajlLZFJqd182SzJyNlFvcEZzS2t2cERpZlNUWXl6bnViT2dKbnZHSHRJWWN1ME1xNTFNSlRpYjg3NzVORm5nbzFuTXh3eFV3OGlJQnRVMG92Mzhad3dJc0dKZGwwQ2ZqZk1BUFQwVTBnUGdkRVBNWkk5S1NPd0J3MExEWGFBMXlwNlVHYmpFNnU5R3VDR3FRZG5YN080Tk5jQUxmWnJ2Ujg5Z9IBvgFBVV95cUxOTVBobjhwNjNKSFRMMnpYcVlXQ3NOM3ZYaU9nYi1CVTJjbWpvOUtoSi1uc3d5dnAwQ21UaWt1ZWhjeTdDZEt4ZWNxVTJaUWJCUENsZzI1SnZnU2xHV09JLTdmZmFXQld6VndRdEl5dXdMWWxwdjNCMlJkbW53eUpYVGRQWGw3SVhuS05mRmRCcGVXcGRrUE9DdlpBa3c3UWlnUjRJNzZ2ZEhqYUFLSlhjd0lvcHlqaElZYm9ZQkRR?oc=5
 
-- UAE President's 3-Hour India Visit And PM Modi's Special Gesture - NDTV
-  UAE President's 3-Hour India
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNW0waHZJLXI1X2ZSWWNBak9XenhzQkNDYVZiNmthTUxveVpBaVVsQWZfODRNVzk3VHZrZXhyenYzYzJjZ0dXaHI5Ylk3QWN4VFVjV1FxUjdWZUo3NHRXeHB5ZHpCWkNJNGN4ekY2eEVQZWFqVzVmQW5pbVNMRDZTd2JiMVNIcnRrRmpjOUQxWV9JSkV3YVJjUEFKTjhxRnF5STZrTmtTV2w0bFJRUXJxWUljb2YwZmp0N3h3TThzQ1BSZ2hTR25Ga0d5cjIwN3NnalRqM9IB3AFBVV95cUxNdGl5V2hZaDV0T3I2MllxaXl5WWowajE5Q0hxbDRVUnhUay1zc2VVdVBMdm00Y2dNd2ZhNktteTMxMHpxSmhhWk9ITG9BR2JXczRra28wd0lFN3A3cm1PYWhYbXZRbGduSldzSjVjNEJPQ0RkYUdVOVVxT0R1cnRIRWlHb1ZBTmxYa1dhX0d0OWstT3BMcFBFWjg4cnBtSmdfdHZQTU1Fdmo0TVBTTlNRMVJDR2FVRk5ZenJKc0ZBSkdvdExvQ19qLUtVcm5feXFvQmJXd2lsYjFKU1RK?oc=5
+- How India's Post-Pahalgam Indus Treaty Freeze Led To Pak's Water Panic - NDTV
+  How India's Post-Pahalgam
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXZvblVqUk14bzlZX29jb2pKZ3NTakFiVDJVMTRzRGFrdGJDM0t0Wkk0YjBILXV2SExxRjU2aFgtMjNjekRNMEl5UlNVSWRIcTRscDU2OWZoRWtUQU9OLUVpdVhpeVl5SjBTaVdvUlFMcmtsaXNua3o5a2xnYTlabnhGYTFFUTBnMnRkYWNJQjEtb2pCampyYm5tNWIwdnpFSnI2bU5fRmJWODhzX2fSAbYBQVVfeXFMTmlrZkpRNG9FTC1UR2M5SDJKRlR1OFpjYXdjNFRhOEFqZWhTc3k5eWFQNnFERHFvVm5wTDJYQ2s5ZFJvY3BISGQ2ZGhCSlBHa3dsb0h1QzRfM2Qxd1JWWHhFTkFnNUt1Rncta1J5bGhrY2t0YTFCOWNLLXRsVXBuN25hbHJucDdsaENqRnA0QjRiOWtPd0NjMFZVRUxKN1JOQWRKOWpnRUJmLXNzS0N1OXNHYVlYT2c?oc=5
+
+- Airbus to showcase its latest fleet at Wings India 2026 - Times of India
+  Airbus to showcase its latest fleet at Wings India
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPT2hZb0R3STF2bldiN0x4aEF4eUZrSXYyV0NEdkFBVUJtZ0lwWGgxZmdoemZmREw4MFFwY214bi02SlkzbGZVZ3kzODNvbEliQjlNXzBwUjVObWF0OGRlVWVFdjJVN0ZEN3dKZVFUZXZ1X1JURkFMcC0xbkVpLTBSUTM0TXREMWJHSkZidld2bVBtNWpvRF8tTXRiOVYwRHZWX29waFNaN2U2c3Z5M2ZtVXM5bmlnU25Cdi1OSzJQdWZHdGp1eXp5Y3V3by3SAdIBQVVfeXFMTjJoVVdnNlJpSzVQcnVrZENkcEVyMjNrX25XNW5adHpNcFRuYjdhc0lNNlhvWEFER3hBWkdJNlRVTHo3X3ROaXA3eklYX05LSGdqdUQtSzhTNGRpSGZXYkIzUTNLcVVwWGZQdjQtV3p6Vnc4VjFtNUhXRUo2ZlRJaUhVRDcya1Y1ang5dnNhVjVQcFQ0cS00ejJHTkpSMTBhSFBWdnRtNkhoNVZnZWlhQmR6Ym1wcHY0ZlVnV2tMVURzaG9mM0RNekRwZ1I5S3JWZkdR?oc=5
+
+- 'New Delhi has stopped': After Trump’s 500% tariff threat, US Treasury Secretary Bessent makes big statement - india.com
+  'New Delhi has stopped': After Trump’s 500% tariff
+  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxNTDA3RC1PZ0lmeGViU2NZNTNuNl9hWXotOXNrMmdCelZGRzRTbjBxZ0c3bmo3MWVsZGFHeFdEOWt5bjFfV2Mzdk1oNklpUW56QkMxN0ppdU0zb0QzNWlUTzQ0UmJfZ2xobU5xRFhUbE5ZWHlWN1Y5UGpEcXJyLVJzRmRyOXdiM3owZXhnZmpPM28zZnduMWJ5YmFUV3YyMFlOUmRLdVVpR254dXNxd0EtdUZVSGl2QnA0NWJsTTlLZzRXS3paRzlNTDE5SnhiWEw4c21TajZPUVdGdzNBVE1zZG1mcGRlZTlwNDczYWxObHcwTExGQXc2ckx3bDhzVllsX0tBbjVVQ2xRMXlvcFZ1STZDNm5FdUhrRjBBSWUwaU9pbS1XX3lueFphcVRvUmVL0gG2AkFVX3lxTE5vS1hDNzVSUEo4alR6QU90ZjJFZnhVcEwwQS1RM0ItX0Fwb29BUmIzN05OdEtvTkEtNzVEeEpwc3J6eWFDTmVTT0lxNEMzUTF1MHpmZkZBZmVEYThoWWJXeGNrZGlNREVqR3lmZE9IV0poYWI1SG5qQ0ZLSXZqV3pqRmU5UTk4NElTR3ZILTRBaXBWVTlkNEozS2FlQW9LZUZWMXlHeXdLMFRWb3FwVUxLbTJCVGlVcmw4b1VMNmUxUVpaYXRiZUJQZ0F5bXF2dlBhdVRVSWNRSXNZai1rMHFYMmJZZDNCdHlaVWZTVFloN3NxNHlKQzJBeVpwMzdIQ3pXaTRiWkdpU3VBYmRfMGJmNjR6emU3WUlfLWkyMXNpYjQyVWJkcTlmbXNnUXlGWmc0NEZoR2c?oc=5
+
+- Will Dal Derail Trade Deal? Trump Gets Letter Over India's 30% Pulse Tariff - NDTV
+  &nbsp;&ngt;&
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkxyMnNyY3NScy1wRGdlN1c2UzRCLXVQSDNCeFhDVExwUzBzSlJRVTVTMUMxemd4UzNSVGlQbkJHUEhXaEszZkNkUUlvYy15ZmNWMWZnOXU1QmNZSG9QNXgyX0lrOFRWSU1rM1Jia0lFVG15S0RqYm02U2l5X0hjZVN0V1NjdklXRkJndm5faS10OE5lYXlRS184OHpzNzI2U1FkYXJMYWloTmlDbVhtT0RUZ9IBuwFBVV95cUxOUVJxQ05Xd2gxS25hV0FhNTVvaXVQMzNaU0RzRVhMZG5FRURTc3puTEktZjJlVGFtelpRVU9ycDhaT2JNZ1VqOEVkblVBZVd4TEE2UXNDeXlGLUFPNXpYR0RoTGpwLVhaeDVEaXBjdFZ6ZmZ4ang4cmt3ZGVqdGpBdXJJUEVjSDBkaTNVaDJwQU9pMTdFbmtTMDJaMExMRTV4QlYxZVFtdnRoRnB3eS1LWm4yUGIyc0NLb0Fr?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -220,13 +220,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- The technology that reveals what happens in 0.00000000000000000000001 second - EL PAÍS English
+  The technology that reveals what happens in 0.
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQU0QxeHFNUU52OWFTdkZHR0hQemdhWHhpV1l2VW9WN0VQeTNBVEplRFNtQ18zaXdQRTdvZnBUam9EMnNUajM0T0RVTFpoVmNQRnNsdTRhdU55dG5vLWp0N3d3QUdJTmctYUJNTlN5YnBEaVpLMF9HQ2ZjSmZuS1R1Y0FJXzFXQThJM1hNX19IRFZ4RGUxTHd6QW13UzY2RFBReUJZNEJ3bHZFUEZvYk8zajdPNklJZldLY3BTSG1zRllpbzNUaHF2LVJNRdIB3wFBVV95cUxNUGgzb25taEhCajdWcHBKRjl6WG5kLWFSSXhwT1pwX2dJOFVreG9NNS1FQXFoLWtOa1lWN1dmMVF0SXhCTVBqQ1ZzTFR1LUZNZUVGV3JudEIxd3dSS29wQXViblVGdk5xeVZxeHVVM3F4X2R1UG5YVEpzcC1YZUlyVjgybWVTMXB2SzViWlJQaVEtQlpHQ1Q5VTU4dWRDVXJHNHU5bzVKRHNBTXVLT0lScHR1RTl4aDdFanIyaEptWVRVSUF1Q2d4bnNVVEJfYU5uM3MwMXZMV0lFOGtfME1F?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Google exec ‘calls out’ the No. 1 problem that American technology companies face and Chinese don’t have - Times of India
+  Google exec ‘calls out’ the No. 1 problem that American technology
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxOM18xVlViUVhJeG5TdFY0YXRVSEJ2SWhBX2IwQ3NDRl9mdHo5YmpGRVZpUUxPSHVqSGNzVmFYN1F1MG1hekphTjliNEpRSWVIRmt4Mldjb3AwQ25VQkx5emljVnR0b0FNTTNaR0FQWHhBcmstODd4aDdTakk2ZmNRSW4zclBCMGpKNE5QUlI5aDNMZUVYNElhNlZwX005VlgwMjlGUU01WnJsbnlWc044VlhPd1BWSXpLTW45RU9xUmZWMzF6M2luZFV4bUZTMzJyeDNhS0d3UmpZMm5RTk5ybV9HOFZMN1l1VHVrcXhlWW1Jenp2X0FSSWlGdmRncDhPQXlIUjRIblJaSGdRaEF6aWtLRWbSAZoCQVVfeXFMT21oQUVLMHk2dm0xTUZWLVl3M3FQN0ZWMFJGZVVTYlNNTXl0cEVnSFNmX0ZSVFhEd0JRUk43MWJscVFPN0EtUmVOcEw5YVJsbFRmZVNYa0k1enpkOVZxLWNKUElQU3hjeWJhTkdPWEFtemh4em5ySnFzeEZNaWc0MnlOeUU3U1VDRkVxMFpYSXFOOS14czRKcDB0OGY0Ykd4VnNVUzRCend2QzZodTRQdWs1SjZvV1hBWm92Tl9pM1h4aEZOU0ViSkZ6QjZFWjJNOXVUMWkwZ3FNQjAzMGRXUlZ1Nmo0b1B2SXZHSGNfZ3FBWHJlLVV0TmQwUklEU2Nka3EyeWR2dHAxUDdqUXQ3Wmx0LU5nWnhieV9n?oc=5
+
+- Shell's projects and technology president Robin Mooldijk to step down - Reuters
+  Shell's projects and technology president Robin Mo
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVA4dWNtbHdfbkZGWVIyRXRlQkZTYmxISHJqb2lHbmpRU283UkFRUjR4d1V5aWR3Tmd0SG5RVmZXLTJ0dTN3dldoMXNMV3otVzFGQnBFQUZJSVZDOF8zVm9QVU1HSnZodllyVlJaU1dpb3pFVUhvYXlJMGt4dW1fbXVpREhBbEV4RzFpM1V3cTg4bXhqRjJvVU9CZzZDY1RNSmxmZzlIOFZQYjUwaldJc0VmVQ?oc=5
+
+- Pongte stresses on use of technology in lawmaking - arunachaltimes.in
+  Pongte stresses on use
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPMlVuOVlwdkVieUtJNFowM1duWnAwb3V1ajRuLUpMUW9JaWtnekhaUkdyX092WWt0TDZtcDhrNDAwVzRqa2liMGltQ1h4dHFNVFRTZnJBMVZsWlEyemtYSHg1czllVnVWbmMyZ3EwZENGZzNOLVZOdVRDQnZvbXJTR3JzaExidzl3NHN4dWhKUHVjcTZFR1BfMHhORlJ2dw?oc=5
+
+- Shell's technology head to step down - Upstream Online
+  Shell's technology head to
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2ZBSE42WUFmQ2RtbVpiOEYzWjZ2NDM2dXRJaEZ2Y016eXpxRS16NGtKT3F5Z1pNWmh1SWR0dmZTb3BpRUM0UVBoZ3ppcmNHV0E2YzFQYi1sUXFmNEZ2a1I2ZFl6QXAzajJoeHlXN0F2ekExdloyTXlpM3FPMVhnajdUMWlXZEctZXI3c2JB?oc=5
 
 
-_Last updated: 2026-01-20 18:33:44 UTC_
+_Last updated: 2026-01-21 01:24:19 UTC_
