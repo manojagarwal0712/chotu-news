@@ -1,184 +1,252 @@
 # 📰 Daily News Summaries
 
-- At presiding officers’ meet, calls for uniform norms for legislative bodies, AI use for capacity building
+- In Kokrajhar, where Bodos and Adivasis clashed, an uneasy calm under shadow of Army deployment
   
-  🔗 https://indianexpress.com/article/india/at-presiding-officers-meet-calls-for-uniform-norms-for-legislative-bodies-ai-use-for-capacity-building-10486080/
+  🔗 https://indianexpress.com/article/india/kokrajhar-bodos-adivasis-clashed-uneasy-calm-army-deployment-10487091/
 
-- Astronaut Sunita Williams retires after 27 years at NASA: A look at her achievements
+- Cause of democracy needs new champions, India’s leadership welcome: International expert
   
-  🔗 https://indianexpress.com/article/india/nasa-astronaut-sunita-williams-retires-10485849/
+  🔗 https://indianexpress.com/article/india/cause-of-democracy-needs-new-champions-indias-leadership-welcome-international-expert-10486945/
 
-- India decides to withdraw diplomats’ families in Bangladesh
+- Citing ‘demographic imbalance’, Rajasthan approves Bill to label some areas as ‘disturbed’, put curbs on property sale there
   
-  🔗 https://indianexpress.com/article/india/india-withdraw-families-officials-bangladesh-10485806/
+  🔗 https://indianexpress.com/article/india/demographic-imbalance-rajasthan-approves-bill-label-areas-disturbed-property-sale-10486811/
 
-- Patna High Court grants bail in record 463 cases in a day — most related to liquor
+- 100 more stray dogs poisoned in Telangana, sarpanch among 3 booked
   
-  🔗 https://indianexpress.com/article/india/patna-high-court-grants-bail-in-record-463-cases-in-a-day-most-related-to-liquor-10485576/
+  🔗 https://indianexpress.com/article/india/100-more-stray-dogs-poisoned-telangana-sarpanch-among-10486713/
 
-- On a high after mayoral success in Kerala’s capital, BJP plans to kickstart Assembly election campaign with Modi roadshow
+- Tamil Nadu churn begins: TTV Dhinakaran returns to NDA, DMK draws in R Vaithilingam, last holdout of OPS camp
   
-  🔗 https://indianexpress.com/article/india/on-a-high-after-mayoral-success-in-keralas-capital-bjp-plans-to-kickstart-assembly-election-campaign-with-modi-roadshow-10485574/
+  🔗 https://indianexpress.com/article/india/tamil-nadu-dhinakaran-returns-to-nda-dmk-draws-in-r-vaithilingam-10486649/
 
-- Xiaomi Redmi Note 15 review: The grown-up ‘mid-range’ smartphone
+- Sony to end Bravia TV production, transfer operations to TCL-led joint venture
   
-  🔗 https://indianexpress.com/article/technology/tech-reviews/xiaomi-redmi-note-15-review-10486050/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-to-end-bravia-tv-production-transfer-operations-tcl-10487116/
 
-- OpenAI unveils plan to keep data-center energy costs in check
+- ‘An incredible honour’: NASA astronaut Sunita Williams retires after 27-year space career
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-unveils-plan-to-keep-data-center-energy-costs-in-check-10486190/
+  🔗 https://indianexpress.com/article/technology/science/nasa-astronaut-sunita-williams-retires-after-27-year-space-career-10487025/
 
-- OpenAI introduces age prediction to improve teen safety on ChatGPT
+- Software engineering will be ‘automatable’ in 12 months, says Anthropic CEO Dario Amodei
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-introduces-age-prediction-to-improve-teen-safety-on-chatgpt-10486051/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-ceo-dario-amodei-wef-davos-ai-jobs-10486848/
 
-- Strongest solar radiation storm in 2 decades moves toward Earth
+- Meet Confer: Signal founder’s privacy-focused, end-to-end encrypted ChatGPT alternative
   
-  🔗 https://indianexpress.com/article/technology/science/strongest-solar-radiation-storm-in-2-decades-moves-toward-earth-10485096/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/confer-end-to-end-encryption-privacy-ai-chatgpt-alternative-10486285/
 
-- Italy uncovers basilica designed by Vitruvius, the ‘father of architecture’
+- Netflix to launch vertical video feed, app redesign to compete with rivals
   
-  🔗 https://indianexpress.com/article/technology/science/italy-uncovers-basilica-designed-by-vitruvius-the-father-of-architecture-10485244/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/netflix-to-launch-vertical-video-feed-app-redesign-to-compete-with-rivals-10486694/
 
-- L'oreal to invest RS 3500 crore in Hyderabad, signs historic deal with Telangana government at Davos
-  The hub aims to be a global base for AI‑driven beauty innovation. It also aims to create 2,000 tech jobs through 2030.
-  🔗 https://www.livemint.com/companies/news/loreal-to-invest-rs-3500-crore-in-hyderabad-signs-historic-deal-with-telangana-government-at-davos-11768973876096.html
+- New lift standards for PwDs to force redesigns for India’s property, infrastructure developers
+  The regulations will standardize lift designs and safety features, improving mobility for the 26.8 million people with disabilities.
+  🔗 https://www.livemint.com/companies/new-lift-standards-people-with-disabilities-pwds-property-developers-infra-builders-accessible-india-lift-operations-11768987070005.html
 
-- IndiGo Q3 earnings preview: Flight cancellations cloud investor outlook
-  IndiGo's Q3 earnings will be in focus on Thursday. Flight
-  🔗 https://www.livemint.com/companies/news/indigo-q3-earnings-indigo-flight-cancellation-interglobe-aviation-share-price-11768923463233.html
+- Why Deepinder Goyal quit as Eternal CEO and what's next for the company and him? He explains in letter to shareholders
+  Deepinder Goyal has stepped down as the CEO of Indian e-commerce giant Flipkart. Goyal says he felt drawn to a new set of ideas that
+  🔗 https://www.livemint.com/companies/people/why-deepinder-goel-quit-as-eternal-ceo-and-what-next-for-the-company-and-him-he-explains-in-letter-to-shareholders-11768992114468.html
 
-- Nvidia CEO Jensen Huang plans China trip amid push to reopen key market — Check out his itinerary
-  The US is loosening export restrictions on AI processors, letting Nvidia sell its H200 model in the Asian nation. The trip comes at a pivotal moment for the world's most valuable company.
-  🔗 https://www.livemint.com/companies/people/nvidia-ceo-jensen-huang-plans-china-trip-amid-push-to-reopen-key-market-check-out-his-itinerary-11768972492003.html
+- IndiaMART to step up tech investments over two years after strong Q3: CEO Dinesh Agarwal
+  IndiaMART’s long-term growth strategy now involves prioritising AI-driven tools to enhance operational efficiency and supplier retention. The company is also exploring quick-
+  🔗 https://www.livemint.com/companies/indiamart-tech-investments-strong-q3-ceo-dinesh-agarwal-ai-tools-supplier-retention-south-india-quick-commerce-b2b-11768982445699.html
 
-- Tech Mahindra's $500m-plus Telefónica deal, one of its biggest ever deal wins
-  Tech Mahindra has won a $500 million-plus, five-year deal from Telef
-  🔗 https://www.livemint.com/companies/india-tech-mahindra-500m-telef-nica-o2-deal-europe-it-infrastructure-11768951331947.html
+- Eternal CEO Deepinder Goyal resigns, Blinkit's Albinder Singh Dhindsa to take charge
+  Deepinder Goyal has resigned, effective 1 February. Albinder Singh Dhindsa will take over as the CEO. The Board has recommended him for the position of Vice Chairman.
+  🔗 https://www.livemint.com/companies/news/deepinder-goyal-to-step-down-as-eternal-ceo-blinkits-albinder-singh-dhindsa-to-take-charge-11768991358105.html
 
-- Trump's year as US President: Family wealth grows to $6.8 billion — here's how he did it and where he invested
-  Donald Trump's wealth has surged in his second term. Family earning $1.4B from crypto ventures, new industries like AI and
-  🔗 https://www.livemint.com/companies/people/trumps-year-as-us-president-family-wealth-grows-to-6-8-billion-heres-how-he-did-it-and-where-he-invested-11768963359450.html
+- Who is Ganesh Lakshminarayanan? Tata Communications appoints industry veteran as new MD &amp; CEO
+  Tata Communications appointed industry veteran Ganesh Lakshminarayanan as the company's new MD and CEO. Here
+  🔗 https://www.livemint.com/companies/people/who-is-ganesh-lakshminarayanan-tata-communications-appoints-industry-veteran-as-new-md-ceo-11768989472361.html
 
-- SRF share price crashes 6%, hits 9-month low after Q3 results. Should you buy, sell or hold?
-  SRF share price dropped 6% to  ₹2,720 after warning it may miss FY26 specialty chemicals growth targets. Despite a 59.6% rise in
-  🔗 https://www.livemint.com/market/stock-market-news/srf-share-price-crashes-6-hits-9-month-low-after-q3-results-should-you-buy-sell-or-hold-11768975040604.html
+- HPCL Q3 Results: Maharatna PSU's net profit jumps 58% to  ₹4,011 crore; revenue rises 4.6% YoY — Details here
+  Maharatna PSU's net profit jumps 58% to  �
+  🔗 https://www.livemint.com/market/stock-market-news/hpcl-q3-results-maharatna-psus-net-profit-jumps-58-to-rs-4-011-crore-revenue-rises-4-6-yoy-details-here-11768997616866.html
 
-- Stock market crash: Nifty 50 slips below 25,000 — Is it a warning sign for long-term investors?
-  Nifty has drifted below the 200-DMA near 25,150. Santosh Meena of Swastika said is widely regarded as the dividing line between a long-term
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-crash-nifty-50-slips-below-25-000-is-it-a-warning-sign-for-long-term-investors-11768975019697.html
+- Dr Reddy's Labs Q3 Results: Profit dips 14% YoY to  ₹1210 crore; revenue grows 4%
+  The pharma major, part of the Nifty 50 index, said its net profit stood at  ₹1209.
+  🔗 https://www.livemint.com/market/stock-market-news/dr-reddys-labs-q3-results-profit-dips-14-yoy-to-rs-1210-crore-revenue-grows-4-11768996142602.html
 
-- A storm blew through the bond market. What could keep the sell-off going.
-  There is potential for more
-  🔗 https://www.livemint.com/market/bonds/a-storm-blew-through-the-bond-market-what-could-keep-the-sell-off-going-11768972963350.html
+- Eternal Q3 Results: Profit surges 73% YoY to  ₹102 crore; revenue jumps 3-fold
+  Eternal's net profit surged 73% year-on-year (Yo
+  🔗 https://www.livemint.com/market/stock-market-news/eternal-q3-results-profit-surges-73-yoy-to-rs-102-crore-revenue-jumps-3fold-11768991579241.html
 
-- GRE Renew Enertech share price hits 5% lower circuit after listing at discount
-   GRE Renew Enertech shares were listed at  ₹96 apiece, a discount of 8.57% to the issue price. The SME stock rose to a high of  ⁹99
-  🔗 https://www.livemint.com/market/stock-market-news/gre-renew-enertech-share-price-hits-5-lower-circuit-after-listing-at-discount-11768972559692.html
+- Eternal Q3 results: Consolidated profit jumps 73% to  ₹102 crore; quick commerce margin turns green— 5 key highlights
+  Zomato parent Eternal reported a 72.88% year-on-year (YoY) jump in its consolidated profit to  ₹102 crore for Q3
+  🔗 https://www.livemint.com/market/stock-market-news/eternal-q3-results-zomato-parents-pat-revenue-margin-11768980637576.html
 
-- Sensex crashes 2400 points in 3 days, investors lose  ₹18 lakh crore— Why is the Indian stock market down? Explained
-  The Sensex has crashed more than 2,400 points, or 3%, while the Nifty 50, too, has plunged 3% over the last
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-crashes-1800-points-in-3-days-investors-lose-15-lakh-crore-why-is-the-indian-stock-market-down-explained-11768971176370.html
+- Hero MotoCorp board to meet on this date to consider Q3 results. Check details
+  Hero MotoCorp's board will meet on February 5, 2026, to approve Q3 results. The company reported a 40% rise in December wholesales.
+  🔗 https://www.livemint.com/market/stock-market-news/hero-motocorp-board-to-meet-on-this-date-to-consider-q3-results-check-details-11768990218091.html
 
-- OnePlus to shut down? Report claims company is being ‘dismantled’, CEO breaks silence
-  A report claimed OnePlus was shutting down due to declining sales. However, OnePlus India CEO Robin Liu denied these
-  🔗 https://www.livemint.com/technology/tech-news/oneplus-to-shut-down-report-claims-company-is-being-dismantled-ceo-breaks-silence-11768971626037.html
+- AI a key enabler for next phase of Indias telecom evolution: TRAI Chief
+  Lahoti was speaking at a Pre-Summit Event of the India - AI Impact Summit 2026. "AI is no longer a futuristic idea for telecom - it is now a foundational capability"
+  🔗 https://www.livemint.com/technology/ai-a-key-enabler-for-next-phase-of-indias-telecom-evolution-trai-chief-11768995099414.html
 
-- Realme P4 Power 5G with 10,001 mAh battery to launch in India on 29th January: Expected price, specs and more
-  Realme will launch the P4 Power in India on January 29 with a massive 10,001 mAh battery, 144Hz display and 80W fast
-  🔗 https://www.livemint.com/technology/gadgets/realme-p4-power-5g-with-10-001-mah-battery-to-launch-in-india-on-29th-january-expected-price-specs-and-more-11768966801180.html
+- Meta bets on new AI unit to reverse momentum against Google and rivals: Here's how
+  The development marks an early milestone in the company’s revamped AI strategy. CTO Andrew Bosworth calls the early results promising.
+  🔗 https://www.livemint.com/technology/tech-news/meta-bets-on-new-ai-unit-to-reverse-momentum-against-google-and-rivals-heres-how-11768994299081.html
 
-- Motorola Signature launching in India on 23rd January: Check leaked price, specs and more
-   Motorola Signature will be deubting with the Snapdragon 8 Gen 5 processor, 165Hz LTPO AMOLED display,
-  🔗 https://www.livemint.com/technology/gadgets/motorola-signature-launching-in-india-on-23rd-january-check-leaked-price-specs-and-more-11768965146245.html
+- OpenAI’s mystery AI gadget tipped to be an audio headset, suggests report
+  OpenAI is reportedly gearing up to launch its first consumer AI device. It is tipped to be an AI-powered audio headset instead of the anticipated AI pen.
+  🔗 https://www.livemint.com/technology/tech-news/openais-mystery-ai-gadget-tipped-to-be-an-audio-headset-suggests-report-11768989408943.html
 
-- OpenAI brings age prediction to ChatGPT to limit sensitive content for under-18 users: here's how it works
-  OpenAI is rolling out age prediction for ChatGPT. The company wants to make sure that its system accurately determines the age of users.
-  🔗 https://www.livemint.com/technology/tech-news/openai-brings-age-prediction-to-chatgpt-to-limit-sensitive-content-for-under-18-users-heres-how-it-works-11768955908784.html
+- Oppo A6 5G vs Realme P3 5G: Battery, display, price, performance and more compared
+  Oppo A6 5G launched in India on Tuesday. The device competes with the Realme P3 5G in mid-range segment. Here is a detailed on-paper
+  🔗 https://www.livemint.com/technology/gadgets/oppo-a6-5g-vs-realme-p3-5g-battery-display-price-performance-and-more-compared-11768988213382.html
 
-- Tech Execs at Davos Highlight AI’s Power as a Geopolitical Tool
-  Anthropic’s Chief Executive Officer Dario Amodei compared artificial intelligence chips to nuclear weapons. Google DeepMind's CEO said China�
-  🔗 https://www.livemint.com/technology/tech-execs-at-davos-highlight-ai-s-power-as-a-geopolitical-tool-11768936770750.html
+- ‘Don’t use ChatGPT’: Elon Musk reignites feud with Sam Altman, OpenAI CEO hits back with Tesla Autopilot jab
+  Elon Musk and Sam Altman spar on social media over safety concerns related to ChatGPT and Tesla's Autopilot. Musk advised against using ChatG PT,
+  🔗 https://www.livemint.com/technology/tech-news/dont-use-chatgpt-elon-musk-reignites-feud-with-altman-openai-hit-back-with-tesla-autopilot-jab-11768984937093.html
 
-- KPI Green Energy Q3 Results: Net profit grows 48% YoY to Rs 126 cr
-  The company also announced a third interim dividend of 0.20 paisa per equity share for FY 2025-26. Total income climbed to Rs 676.05 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/kpi-green-energy-q3-results-net-profit-grows-48-yoy-to-rs-126-cr/articleshow/126941459.cms
+- Dow slides 870 points, S&P 500 drops 2% for worst day since October on Trump tariff threat over Greenland: Live updates - CNBC
+  Dow slides 870 points, S&amp;P 500 drops 2% for worst day
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB6aFhReFdKU1ZXQVpTNlFRalk5VkduNFp6cXh2aFd2bGxzcTVyb2ZrZkEwbm1XeU50N1hIZFRoTDN5REhLQVI5Rk52VHlIMlQ1SkN1bXlUUWQ5N3dLbF9KRkNyeEJHTktXcHlUYUdDLVA0YkxrT1Vj?oc=5
 
-- Gold and silver rally while Bitcoin falls below $90,000, $150 billion wiped out from crypto markets
-  Gold and silver hit record highs as investors seek safety. Bitcoin slipped below $90,000 amid heavy liquidations, rising bond yields, macro uncertainty.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/gold-and-silver-rally-while-bitcoin-falls-below-90000-150-billion-wiped-out-from-crypto-markets/articleshow/126941182.cms
+- Stock Market News, Jan. 20, 2026: Dow Sinks Nearly 900 Points, Treasury Prices Drop - The Wall Street Journal
+  The Dow Sinks Nearly 900 Points, Treasury Prices Drop in 2026.
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXVzdlYzMEpWcWRyaUdIMTBFSFhqUVByXzJiMElfT2UtQ0pvWXgwTnFmUXhCRURNRVZya1VEd0ZpQ0hNZUdmTGtmUnFCSzBrUnM1OWFkNkFfakFRblZOWXQ5b0NJOXVwQ2lqbmIwNC1QRFRWOGNvekJKaVZwZXFEOGNhekY3Y1N0czVBRXRaV3hRQQ?oc=5
 
-- Dollar set to weaken in 2026; Rupee faces its own set of challenges, Abhishek Goenka decodes
-  The Indian Rupee faced significant underperformance in 2025. Experts predict the Rupee will continue to weaken in 2026. This outlook is shaped by global economic shifts and domestic Indian factors.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-set-to-weaken-in-2026-rupee-faces-its-own-set-of-challenges-abhishek-goenka-decodes/articleshow/126939061.cms
+- FTSE 100 Live: Stocks Resume Slide as Bonds Steady After Selloff - Bloomberg.com
+  The FTSE 100 is down 0.
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNLXVhRnBZYVp4bFVsamh3VzhwYm0ycWFFMzA5WXJVSGF5bGlVRmFpbzhjVnRSaHI1dkxObWUwOGgwa0xEbm9xR1BEeVExaW1sSzNtaldHQ0VBWU1fSHRyZzFUWEN5UEJYMlVhc2N5S2cxdFZuLU9mWF9qZE9najRLeG9waHpfb2RlTlRIWUJ2UTZyU2VxbTZBV3RZYVNReDE4cndEbjJRT0J6VGwzSG1ZTElhUmtJbmpFcWlvb1VRU19yQW1fOFd4bUpFNy1JaFM2bWtGLTlOR0F1bU4xeUF1OUZyWkxOaHgyUmN0T25XYmhnTVR3ZHlMMVMwNFg?oc=5
 
-- India EU trade deal closer than ever: Jefferies lists 4 sectoral winners for stock market investors
-  India’s proposed free trade agreement with the EU is nearing completion. Jefferies identifies textiles, autos, electronics and pharma as key beneficiaries. Agri and dairy remain excluded.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/india-eu-trade-deal-closer-than-ever-jefferies-lists-4-sectoral-winners-for-stock-market-investors/articleshow/126938736.cms
+- Stock markets fall for third day amid geopolitical tensions; Sensex sinks below 82,000 - The Hindu
+  Stock markets fall for third day amid geopolitical tensions; Sensex
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbGpiaHp4R3g4MGFaa3d3M3VCbGlpUnRTLWlIM01zalYtT3hWYlhNSk9TSkpMX2FNSlFocGZnS0dqbFVwQWNiSVdOQ1BBemNkZFB3LUtobkl2bUszNjFlUnpWei0yU2Y3TGlhUEJDT0RvSVA2TGllS2x4V3MwcWR2ck4tN2VhVGd2eFFQdWE5eGJ0d3Q2Tm43d1J3WHpBM05zZXNXbVA4cE5hTG4xNXhGd1FXLTltdmlsSi11Q2FEXy13ZEx4UW9XREVXLXl5T2NpaTRtcW9Ka3ZIUDBrdDAw0gHmAUFVX3lxTE80OWFDZC1Pa21RamdTbTNKTTRWeFRzLTFJdTEyVld6UHp6eUh4SFh0N3F2TUdLaTFURTlrb1JvREF3UFpQRTI1a2FrdWkzd1R5UVQ3TlhXTFR5M0xpWVg3VzNXd0sxQmdJaWNSN0FmNmp5SEtUejBuaEpuaE5QWHJiTnhLNm9aVlkzV3NmODlaTU1zbjEtdmFiTmZ2OU5paUtqZkdMZHhtRFliY2dKaFpTSTl0anVTakltVW1GVS1iWGRLcmF1N2RfSjdxUzBrYzVXSTV0Y1N1MzYwa3doUjNiZExuMUFR?oc=5
 
-- Gold outpaces silver with 5% rally today. What should investors do?
-  Gold prices have reached new record highs on the MCX. This surge is fueled by safe-haven buying due to geopolitical tensions and a weak rupee.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-outpaces-silver-with-5-rally-today-what-should-investors-do/articleshow/126936257.cms
+- Greenland Tensions Rattle Global Markets - nytimes.com
+  Greenland T
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR19ZR1ZnaW9Yclo2T0d0RHZNeWgxWUNTQ29CWS1qTUpZbm1xOG1VRFc0ZjVJTHc5eUtWMlJCclVNdnRlbk5ZTVZmTU5qbW5zMmVPWGY4Ul9hd3lMU05zcS1lcW1jYXo0b2s0VDI2cGdfeFBnOEtKWmN1TmJXVXA3QUhzMVJTLUZjZjJz?oc=5
+
+- Dhanlaxmi Bank Q3 profit rises 20% YoY to Rs 24 crore
+  Dhanlaxmi Bank posted a 20% YoY rise in Q3 net profit to Rs 24 crore. Total income grew 21%, while pre-provision operating profit jumped 52% to Rs 41 crore.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/dhanlaxmi-bank-q3-profit-rises-20-yoy-to-rs-24-crore/articleshow/126985383.cms
+
+- IndiGo Q3 Preview: Revenue growth steady, profits seen under pressure as yields soften
+  IndiGo is expected to report a mixed set of numbers for the December quarter. Brokerages pencilling in steady revenue growth but a year
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/indigo-q3-preview-revenue-growth-steady-profits-seen-under-pressure-as-yields-soften/articleshow/126984987.cms
+
+- Vedanta’s Rs 2,500 crore ESOP windfall turns factory floors into shareholder ranks
+  Vedanta has created one of India’s widest employee-wealth programmes. Its latest Rs 500 crore grant brings 1,200 employees into the shareholder fold.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vedantas-rs-2500-crore-esop-windfall-turns-factory-floors-into-shareholder-ranks/articleshow/126984395.cms
+
+- Union Budget FY27: These 6 calls could end the fiscal drag, Nuvama says
+  India’s economy appears to be bottoming out, but Nuvama warns FY27 Budget support may be modest. While fiscal consolidation could pause and capex
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/union-budget-fy27-these-6-calls-could-end-the-fiscal-drag-nuvama-says/articleshow/126983458.cms
+
+- India bonds gain on growing hopes of RBI support
+  Indian government bonds drew ‍fresh buying interest on Wednesday. Traders added positions on expectations the Reserve Bank may extend its liquidity support.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-gain-on-growing-hopes-of-rbi-support/articleshow/126982797.cms
+
+- 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
+  'It Won't Work With India': Parag Kh
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
+
+- What is Donald Trump's ‘Board of Peace’? A deep dive into the structure and India's stance - Hindustan Times
+  &nbsp;&ngt;<font color="#6f6
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFVEWFpld1hVbi1wZkhnQ05lY25kbVFQV0FTLWRzMkVGMDNaNG52UmpXenc1WGlLOXh5MXA2X3hHNzdnbmtHT20wRDFXNUxZcHgtb2J4VHM4NktQekRSdTJBNVl1d2JmZU5pZDQ2WEY4T2gyVDZ3STd4bjNkbWtyemdvZlJJTWVNX0ZPVmRsZXBaUVRiWTJGLWFKVnkwcTJFQ0FQbHdza3F1UkctUzRDSlBlMkZmd0MzWHdMcjZnOVY0N09rWF9vSnZYWHlYaXM1RkEwdDRidUxDT0ptTzQ4Xw?oc=5
 
 - "They Were Going To Go Nuke": Trump Lists India-Pak Truce As Key Win Of 2025 - NDTV
   "They Were Going To Go Nuke": Trump Lists India-
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmxMZUpkZy1vMzF0YUtCOWtWcUN6dGFkRDlVX3FhVnBNeVJKQ0xiZW5aelRsNmFhOWFZU1VLQmVyLW9leTZFMXhlY0FUek9ubGVzREtHdHhQQzYtV09BVGFuRTRxa2htTVNtXzMxWlJrRDg1a2ZhOFlvQkwyeUtsSkFNYXZFT3V1QUlfaElUTXdxblJ6c3BvRWo0aVU5eWVqOUJZbUhFNHNZU2k1bGtqNHUxYkx6Y3BT0gHAAUFVX3lxTFB4NG5FNEFKWXNZTDdiU1Zoa04zelJGdGxCUGdvYVl3cXM2T3RNdEdIeENHVmNqVVBYMTl4N21TTUtqd2x6S3ZHbDlGa09aYTVzNmNIaGh0RF9nbEZFZGJyclM2ZDNDazRPRFYwZjJyejQ5MXhDWmNxLV9sanNwcE9MeE44clpfUDJ1eW5RN3c0TFdONDZiNzRURUZqcjMxRlcyMXhrMW5sUEJpc1RkVktMM3JZUGU0cHQ4SGpxQXNxag?oc=5
 
-- How India's Post-Pahalgam Indus Treaty Freeze Led To Pak's Water Panic - NDTV
-  How India's Post-Pahalgam
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXZvblVqUk14bzlZX29jb2pKZ3NTakFiVDJVMTRzRGFrdGJDM0t0Wkk0YjBILXV2SExxRjU2aFgtMjNjekRNMEl5UlNVSWRIcTRscDU2OWZoRWtUQU9OLUVpdVhpeVl5SjBTaVdvUlFMcmtsaXNua3o5a2xnYTlabnhGYTFFUTBnMnRkYWNJQjEtb2pCampyYm5tNWIwdnpFSnI2bU5fRmJWODhzX2c?oc=5
+- Top News Headlines of January 19, 2026 | What will Trump do if US Supreme Court strikes down global tariffs? Top aide speaks out - The Indian Express
+  The Indian Express is a leading newspaper in India. It is based in Mumbai.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMXZ5Y0hCcVp3TXFrM1FydTdJeXRSMGtMV1hjM09vUGJKTTFzRGZtZU84MFk1eVA2d0IzZVpmU1R4aFdHYnVlREk0Q1BSZDNacHc0Vlpma0lTVEZJeHpXcXpjUDZVdzlZWDJDTU1PbFVGNlU0Ui10aWZ6RlIwYTBZOEx5c3lhaGhaSm56amUwQWF3ODNNMjZZVVJxS1BYRUIzdHVtYVRadDBKMFRnZUt2aTluMUZINzVFenF4V094TXlxY2x4WU5aZXJjMG5GZF9nMnN6b3NfSGNRYm9lMlFuLTRBVzZWMzdR0gHvAUFVX3lxTE5aM2I2aDFCVHVBMnVSV0ZnLUp1QURPQlJPZGJDOGt0aE1RaVZ6ek9RQ1VZSFRsN0R3Q0FaTTdtR2FpUTh5VE15cFJwRU1OM2VDRjNESlJQQlVhYm1kUllIaVUxeVAtZ2hhZTQ0SXpaLXlGT1hDTWdibHBzdFNzdXJ2WWVHamRFdFB0ZDFMcFJSWWdkamx0WWxHaENQVE1hOE9TVHIyM0RDS1pjaEpkajZwdEZvZUtPWmt6elJvN1JSOGFvMVRVWGpPbFBHWldfOTE3VGYxeU1OamdNcjVlUDFUX1RGaWY4OTRWZ3c2NVI0?oc=5
 
-- Indian-origin NASA Astronaut Sunita Williams Says Her First Act In Space Was To Spot India, Home - Times of India
-  Indian-origin NASA Astronaut Sunita Williams Says Her First Act In Space Was
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWTZFUkZPY2xkSUFGSm5fZFF1NnhuSER1bHNXdXBJM0w0SU12cmR6QU80UDhBeHV5bWRkRUZPSEJleVczWnFjNXhxeDlsRXZCQlkzQUN4OVVsblpjdzI2YVJCaXJoQTFkaC0wNGZ1RjRlWW5tem5lSjJDTnM5ZTlYS00tYmpSYlh5Um1lTlg0SlE3SldPdXBRUzlZdDV3WmhwOThnN0sxaHhwVGNPMHpaWEptSHV1OWdSRWU3cHRGM2xBM2VtTkFMWEtwbUVTZE0tQW8tNnJscWVpVy05V0puRDVQaG84UmwtbjN1R3RUU0NLN1gtMDIwWUI3SdIBgAJBVV95cUxQX3BtUG5IOWlWWmZydHFBeHgxU08xUDVSREVjSzlkYkJMMk5yOFRDdFFycUI3N1k4QzM3ZVkwOHRQbkYyMk0xWFg2X05pNVAzdkwyV3pkNHlLWlF6NklTdnJDdUpEcklkWXBTZ1B1RVRycllIc1drZVFDTk50YnVRcjY2elNvdDFxR2Z2RjEzaDRiN29KMGw3eVh1VjJTcnJQUEpMQzQ0Z3gzejZ6WUVtOFlERTVFX0Nuc2d1TXZvemttS2psbDBXYkJGQ3NqUkxhUHhGZDFfRWhkb3Yxd29FTE1Vakg3cWdXQXBnRkFNNG5pNkZERTZzQ3ZxRGh6Q2Uy?oc=5
+- 'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back At IMF For Callinf India Second Tier In AI - Times of India
+  'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMUdsUW90WG9JT2VTQjdvYkpBcUd6Qzd6MHI2eWplNlJ4eXp2NTVBd3JxRHl4VHY5X3E2bEhWSUtFVDhZZkQyY2Y2X1ZteFhrdkFha0ItU09vRGdtZW5xWmt1b2xST3hYR3hhNHdVTWtxcmIyVUtROXJ1ZHZIQlEtT2FyN3FTVDVQcmJrY3dldzBWX1RyTXJzTVpKTTNXNnNqMVNOQUF4RjJwZUhGaVI5am9xSlNCOW9sbmlJWlFwMW5NMTRLZEhOZW5RWE5KVmgyVXZDZE83Q3Rkb1lmcUpGc3B6YktvamFwTUpnZU1FZW82OWd5Z2t6MWNn0gH_AUFVX3lxTE9nemxXX24wVlhFd2xtd0YzdGpuYUE4eHlxaUIweXExNzFEcmdXVlVkaGxlVEtiVkFfa1hsLWVuQnhQR0YzQ1NmS2dDaWZwVzNCOUxGOEdPa0llNmUyZ3pXeWtGZ3FWUndfSUJIRkF4MVE1bDQ2ci1FUDcxSDltMWQzZ3BjejV1OFJXYl9TLXBBeTExMnRjV3BISGVsMExXM2gycVpZYVBOSThiYjVJRXU5U1IxWWlJU2xCZ1lFUlM5bGJ6NERfNlBpRWFYMXV4bTN4TFZDSEJpNWxjWnpYOG96LWNyaVFrQlRpQ1plUG1jazZLbjRFbnhtRUl6aFZKUQ?oc=5
 
-- After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian oil purchase | India News - Hindustan Times
-  After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlZkR21aTkE2SkZkY3RZRDNHYkZmWF9IcURsa29velJNSWI4elJsdTh6NHNfdEJMX1BwX1F5eFhiVktIaV9RWE1ZVF9GNkZuUEFUbXpORWlrT3ZSTEY4R3g4QkxtcnEtVU5DcmNWbTlrN2dXTHNyT0ZzYXBsY2M3X3d3S19RQUJlUmxvQzMxWmNPNUVNM0d2dGFreFpFa080WlRYeW9mVWNXLTNUSVBtcDZ0MmpmZThYbVk3eWpZMllENUhwdURmelMtZW55S0wyNjZHUUhUeDJzeGlJMUY4aXg4Y01wakxUeHNSemlyS0VqMl96aHJGWERGRmhZWi1hbXRJSTBLazZXZG_SAZACQVVfeXFMTkpoWkRRaFF4TkJpVzRqR183OGt1TDJxdjUxanJQUV9SdldKWjVBLUU4M2w2dEJSNVpSNzFnWUJ5d0V0NVNJVks0cThwMlNFMGNGTXozeGJRR0JWZ056ZTdqdWpjTlM5UTlEaTVkeVZNcWtJZWJGWHhNUzB4bkMwRjNpa21XbnV6NzQ4b0FDcWRsTkJ2ZlpfdTRqRzBRX3JaWk5XVTA2dXZXQVVJdm14aUtwYjFvUlZEUEkxaHY5YVNPUjJpRWI2c05mN0RKYXRoLXpvOEVQUUpQcW1YWFBtRWhKTkxDM25MUzRHekFoeG1XNEtDMEQxaWFxM01LVFZLNWJPd0JFOHN6dFFkZUNQOTA?oc=5
+- 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
+  'It Won't Work With India': Parag Kh
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
 
-- India withdraws families, dependents of diplomats and officials from all missions in Bangladesh - The Hindu
-  India withdraws families, dependents of diplomats and officials from
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcDlyOWFFTnNvQm45ZW50TldTdEVPRkhxZFJxanlGcm9IUUN0b1BoLVNUaWlLdE1KSzhwQVdvcWo0dEhKUUlQYlQ4cURsdmtfdzBfWndFMUFTVW1ZV3FDUjBoUjQyRnFLeGdGbkdhYWVXaTlUd2hwNy1MRkstM0h2R1c2TmFFdWdOSUtodHNDWUJGY2J0Nm41eHZPeEE3dzZjc0tLeXNnd3R6M1Zma1BIYzdxZWZqQktXV3c0WVBIdWxXMm9qa0haOFAyaDhEd2ZoSWFZUVVQSUtRd1U3bFV2bDJQVjZia03SAe4BQVVfeXFMTVhUUUJWZG1LWjhidk5mamxVdjVTWjNDS0FCTC02TGhtUkJ0elNqTS13NEdXbUFaNXQ5QV9PcXZoSXFJOG9MbDBDZnVWaTEyQnI0dUtqVWxFcTNxa25KaUgzRDlhQVZhMTJiMU1fbElQZ1hNVmlva0FoNEIyWmNMR29KZ3djbl9xcHMxdjFsYWlmNlJWbi1sUmRWOHA0UGRzU0xPTmJScUlmUWl6aF9BaU9jVzVyTVFWVFBGTU9tQTNGOU1jV0JHZmR3Z0ROTkhvYXZEX3lUZHFVUlBBNWFKLW80RHVvRWkzdVJfVVJBdw?oc=5
-
-- "They Were Going To Go Nuke": Trump Lists India-Pak Truce As Key Win Of 2025 - NDTV
-  "They Were Going To Go Nuke": Trump Lists India-
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmxMZUpkZy1vMzF0YUtCOWtWcUN6dGFkRDlVX3FhVnBNeVJKQ0xiZW5aelRsNmFhOWFZU1VLQmVyLW9leTZFMXhlY0FUek9ubGVzREtHdHhQQzYtV09BVGFuRTRxa2htTVNtXzMxWlJrRDg1a2ZhOFlvQkwyeUtsSkFNYXZFT3V1QUlfaElUTXdxblJ6c3BvRWo0aVU5eWVqOUJZbUhFNHNZU2k1bGtqNHUxYkx6Y3BT0gHAAUFVX3lxTFB4NG5FNEFKWXNZTDdiU1Zoa04zelJGdGxCUGdvYVl3cXM2T3RNdEdIeENHVmNqVVBYMTl4N21TTUtqd2x6S3ZHbDlGa09aYTVzNmNIaGh0RF9nbEZFZGJyclM2ZDNDazRPRFYwZjJyejQ5MXhDWmNxLV9sanNwcE9MeE44clpfUDJ1eW5RN3c0TFdONDZiNzRURUZqcjMxRlcyMXhrMW5sUEJpc1RkVktMM3JZUGU0cHQ4SGpxQXNxag?oc=5
-
-- How India's Post-Pahalgam Indus Treaty Freeze Led To Pak's Water Panic - NDTV
-  How India's Post-Pahalgam
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXZvblVqUk14bzlZX29jb2pKZ3NTakFiVDJVMTRzRGFrdGJDM0t0Wkk0YjBILXV2SExxRjU2aFgtMjNjekRNMEl5UlNVSWRIcTRscDU2OWZoRWtUQU9OLUVpdVhpeVl5SjBTaVdvUlFMcmtsaXNua3o5a2xnYTlabnhGYTFFUTBnMnRkYWNJQjEtb2pCampyYm5tNWIwdnpFSnI2bU5fRmJWODhzX2c?oc=5
-
-- Indian-origin NASA Astronaut Sunita Williams Says Her First Act In Space Was To Spot India, Home - Times of India
-  Indian-origin NASA Astronaut Sunita Williams Says Her First Act In Space Was
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWTZFUkZPY2xkSUFGSm5fZFF1NnhuSER1bHNXdXBJM0w0SU12cmR6QU80UDhBeHV5bWRkRUZPSEJleVczWnFjNXhxeDlsRXZCQlkzQUN4OVVsblpjdzI2YVJCaXJoQTFkaC0wNGZ1RjRlWW5tem5lSjJDTnM5ZTlYS00tYmpSYlh5Um1lTlg0SlE3SldPdXBRUzlZdDV3WmhwOThnN0sxaHhwVGNPMHpaWEptSHV1OWdSRWU3cHRGM2xBM2VtTkFMWEtwbUVTZE0tQW8tNnJscWVpVy05V0puRDVQaG84UmwtbjN1R3RUU0NLN1gtMDIwWUI3SdIBgAJBVV95cUxQX3BtUG5IOWlWWmZydHFBeHgxU08xUDVSREVjSzlkYkJMMk5yOFRDdFFycUI3N1k4QzM3ZVkwOHRQbkYyMk0xWFg2X05pNVAzdkwyV3pkNHlLWlF6NklTdnJDdUpEcklkWXBTZ1B1RVRycllIc1drZVFDTk50YnVRcjY2elNvdDFxR2Z2RjEzaDRiN29KMGw3eVh1VjJTcnJQUEpMQzQ0Z3gzejZ6WUVtOFlERTVFX0Nuc2d1TXZvemttS2psbDBXYkJGQ3NqUkxhUHhGZDFfRWhkb3Yxd29FTE1Vakg3cWdXQXBnRkFNNG5pNkZERTZzQ3ZxRGh6Q2Uy?oc=5
-
-- After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian oil purchase | India News - Hindustan Times
-  After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlZkR21aTkE2SkZkY3RZRDNHYkZmWF9IcURsa29velJNSWI4elJsdTh6NHNfdEJMX1BwX1F5eFhiVktIaV9RWE1ZVF9GNkZuUEFUbXpORWlrT3ZSTEY4R3g4QkxtcnEtVU5DcmNWbTlrN2dXTHNyT0ZzYXBsY2M3X3d3S19RQUJlUmxvQzMxWmNPNUVNM0d2dGFreFpFa080WlRYeW9mVWNXLTNUSVBtcDZ0MmpmZThYbVk3eWpZMllENUhwdURmelMtZW55S0wyNjZHUUhUeDJzeGlJMUY4aXg4Y01wakxUeHNSemlyS0VqMl96aHJGWERGRmhZWi1hbXRJSTBLazZXZG_SAZACQVVfeXFMTkpoWkRRaFF4TkJpVzRqR183OGt1TDJxdjUxanJQUV9SdldKWjVBLUU4M2w2dEJSNVpSNzFnWUJ5d0V0NVNJVks0cThwMlNFMGNGTXozeGJRR0JWZ056ZTdqdWpjTlM5UTlEaTVkeVZNcWtJZWJGWHhNUzB4bkMwRjNpa21XbnV6NzQ4b0FDcWRsTkJ2ZlpfdTRqRzBRX3JaWk5XVTA2dXZXQVVJdm14aUtwYjFvUlZEUEkxaHY5YVNPUjJpRWI2c05mN0RKYXRoLXpvOEVQUUpQcW1YWFBtRWhKTkxDM25MUzRHekFoeG1XNEtDMEQxaWFxM01LVFZLNWJPd0JFOHN6dFFkZUNQOTA?oc=5
-
-- India withdraws families, dependents of diplomats and officials from all missions in Bangladesh - The Hindu
-  India withdraws families, dependents of diplomats and officials from
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcDlyOWFFTnNvQm45ZW50TldTdEVPRkhxZFJxanlGcm9IUUN0b1BoLVNUaWlLdE1KSzhwQVdvcWo0dEhKUUlQYlQ4cURsdmtfdzBfWndFMUFTVW1ZV3FDUjBoUjQyRnFLeGdGbkdhYWVXaTlUd2hwNy1MRkstM0h2R1c2TmFFdWdOSUtodHNDWUJGY2J0Nm41eHZPeEE3dzZjc0tLeXNnd3R6M1Zma1BIYzdxZWZqQktXV3c0WVBIdWxXMm9qa0haOFAyaDhEd2ZoSWFZUVVQSUtRd1U3bFV2bDJQVjZia03SAe4BQVVfeXFMTVhUUUJWZG1LWjhidk5mamxVdjVTWjNDS0FCTC02TGhtUkJ0elNqTS13NEdXbUFaNXQ5QV9PcXZoSXFJOG9MbDBDZnVWaTEyQnI0dUtqVWxFcTNxa25KaUgzRDlhQVZhMTJiMU1fbElQZ1hNVmlva0FoNEIyWmNMR29KZ3djbl9xcHMxdjFsYWlmNlJWbi1sUmRWOHA0UGRzU0xPTmJScUlmUWl6aF9BaU9jVzVyTVFWVFBGTU9tQTNGOU1jV0JHZmR3Z0ROTkhvYXZEX3lUZHFVUlBBNWFKLW80RHVvRWkzdVJfVVJBdw?oc=5
+- What is Donald Trump's ‘Board of Peace’? A deep dive into the structure and India's stance - Hindustan Times
+  &nbsp;&ngt;<font color="#6f6
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFVEWFpld1hVbi1wZkhnQ05lY25kbVFQV0FTLWRzMkVGMDNaNG52UmpXenc1WGlLOXh5MXA2X3hHNzdnbmtHT20wRDFXNUxZcHgtb2J4VHM4NktQekRSdTJBNVl1d2JmZU5pZDQ2WEY4T2gyVDZ3STd4bjNkbWtyemdvZlJJTWVNX0ZPVmRsZXBaUVRiWTJGLWFKVnkwcTJFQ0FQbHdza3F1UkctUzRDSlBlMkZmd0MzWHdMcjZnOVY0N09rWF9vSnZYWHlYaXM1RkEwdDRidUxDT0ptTzQ4Xw?oc=5
 
 - "They Were Going To Go Nuke": Trump Lists India-Pak Truce As Key Win Of 2025 - NDTV
   "They Were Going To Go Nuke": Trump Lists India-
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmxMZUpkZy1vMzF0YUtCOWtWcUN6dGFkRDlVX3FhVnBNeVJKQ0xiZW5aelRsNmFhOWFZU1VLQmVyLW9leTZFMXhlY0FUek9ubGVzREtHdHhQQzYtV09BVGFuRTRxa2htTVNtXzMxWlJrRDg1a2ZhOFlvQkwyeUtsSkFNYXZFT3V1QUlfaElUTXdxblJ6c3BvRWo0aVU5eWVqOUJZbUhFNHNZU2k1bGtqNHUxYkx6Y3BT0gHAAUFVX3lxTFB4NG5FNEFKWXNZTDdiU1Zoa04zelJGdGxCUGdvYVl3cXM2T3RNdEdIeENHVmNqVVBYMTl4N21TTUtqd2x6S3ZHbDlGa09aYTVzNmNIaGh0RF9nbEZFZGJyclM2ZDNDazRPRFYwZjJyejQ5MXhDWmNxLV9sanNwcE9MeE44clpfUDJ1eW5RN3c0TFdONDZiNzRURUZqcjMxRlcyMXhrMW5sUEJpc1RkVktMM3JZUGU0cHQ4SGpxQXNxag?oc=5
 
-- How India's Post-Pahalgam Indus Treaty Freeze Led To Pak's Water Panic - NDTV
-  How India's Post-Pahalgam
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXZvblVqUk14bzlZX29jb2pKZ3NTakFiVDJVMTRzRGFrdGJDM0t0Wkk0YjBILXV2SExxRjU2aFgtMjNjekRNMEl5UlNVSWRIcTRscDU2OWZoRWtUQU9OLUVpdVhpeVl5SjBTaVdvUlFMcmtsaXNua3o5a2xnYTlabnhGYTFFUTBnMnRkYWNJQjEtb2pCampyYm5tNWIwdnpFSnI2bU5fRmJWODhzX2c?oc=5
+- Top News Headlines of January 19, 2026 | What will Trump do if US Supreme Court strikes down global tariffs? Top aide speaks out - The Indian Express
+  The Indian Express is a leading newspaper in India. It is based in Mumbai.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMXZ5Y0hCcVp3TXFrM1FydTdJeXRSMGtMV1hjM09vUGJKTTFzRGZtZU84MFk1eVA2d0IzZVpmU1R4aFdHYnVlREk0Q1BSZDNacHc0Vlpma0lTVEZJeHpXcXpjUDZVdzlZWDJDTU1PbFVGNlU0Ui10aWZ6RlIwYTBZOEx5c3lhaGhaSm56amUwQWF3ODNNMjZZVVJxS1BYRUIzdHVtYVRadDBKMFRnZUt2aTluMUZINzVFenF4V094TXlxY2x4WU5aZXJjMG5GZF9nMnN6b3NfSGNRYm9lMlFuLTRBVzZWMzdR0gHvAUFVX3lxTE5aM2I2aDFCVHVBMnVSV0ZnLUp1QURPQlJPZGJDOGt0aE1RaVZ6ek9RQ1VZSFRsN0R3Q0FaTTdtR2FpUTh5VE15cFJwRU1OM2VDRjNESlJQQlVhYm1kUllIaVUxeVAtZ2hhZTQ0SXpaLXlGT1hDTWdibHBzdFNzdXJ2WWVHamRFdFB0ZDFMcFJSWWdkamx0WWxHaENQVE1hOE9TVHIyM0RDS1pjaEpkajZwdEZvZUtPWmt6elJvN1JSOGFvMVRVWGpPbFBHWldfOTE3VGYxeU1OamdNcjVlUDFUX1RGaWY4OTRWZ3c2NVI0?oc=5
 
-- Indian-origin NASA Astronaut Sunita Williams Says Her First Act In Space Was To Spot India, Home - Times of India
-  Indian-origin NASA Astronaut Sunita Williams Says Her First Act In Space Was
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWTZFUkZPY2xkSUFGSm5fZFF1NnhuSER1bHNXdXBJM0w0SU12cmR6QU80UDhBeHV5bWRkRUZPSEJleVczWnFjNXhxeDlsRXZCQlkzQUN4OVVsblpjdzI2YVJCaXJoQTFkaC0wNGZ1RjRlWW5tem5lSjJDTnM5ZTlYS00tYmpSYlh5Um1lTlg0SlE3SldPdXBRUzlZdDV3WmhwOThnN0sxaHhwVGNPMHpaWEptSHV1OWdSRWU3cHRGM2xBM2VtTkFMWEtwbUVTZE0tQW8tNnJscWVpVy05V0puRDVQaG84UmwtbjN1R3RUU0NLN1gtMDIwWUI3SdIBgAJBVV95cUxQX3BtUG5IOWlWWmZydHFBeHgxU08xUDVSREVjSzlkYkJMMk5yOFRDdFFycUI3N1k4QzM3ZVkwOHRQbkYyMk0xWFg2X05pNVAzdkwyV3pkNHlLWlF6NklTdnJDdUpEcklkWXBTZ1B1RVRycllIc1drZVFDTk50YnVRcjY2elNvdDFxR2Z2RjEzaDRiN29KMGw3eVh1VjJTcnJQUEpMQzQ0Z3gzejZ6WUVtOFlERTVFX0Nuc2d1TXZvemttS2psbDBXYkJGQ3NqUkxhUHhGZDFfRWhkb3Yxd29FTE1Vakg3cWdXQXBnRkFNNG5pNkZERTZzQ3ZxRGh6Q2Uy?oc=5
+- 'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back At IMF For Callinf India Second Tier In AI - Times of India
+  'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMUdsUW90WG9JT2VTQjdvYkpBcUd6Qzd6MHI2eWplNlJ4eXp2NTVBd3JxRHl4VHY5X3E2bEhWSUtFVDhZZkQyY2Y2X1ZteFhrdkFha0ItU09vRGdtZW5xWmt1b2xST3hYR3hhNHdVTWtxcmIyVUtROXJ1ZHZIQlEtT2FyN3FTVDVQcmJrY3dldzBWX1RyTXJzTVpKTTNXNnNqMVNOQUF4RjJwZUhGaVI5am9xSlNCOW9sbmlJWlFwMW5NMTRLZEhOZW5RWE5KVmgyVXZDZE83Q3Rkb1lmcUpGc3B6YktvamFwTUpnZU1FZW82OWd5Z2t6MWNn0gH_AUFVX3lxTE9nemxXX24wVlhFd2xtd0YzdGpuYUE4eHlxaUIweXExNzFEcmdXVlVkaGxlVEtiVkFfa1hsLWVuQnhQR0YzQ1NmS2dDaWZwVzNCOUxGOEdPa0llNmUyZ3pXeWtGZ3FWUndfSUJIRkF4MVE1bDQ2ci1FUDcxSDltMWQzZ3BjejV1OFJXYl9TLXBBeTExMnRjV3BISGVsMExXM2gycVpZYVBOSThiYjVJRXU5U1IxWWlJU2xCZ1lFUlM5bGJ6NERfNlBpRWFYMXV4bTN4TFZDSEJpNWxjWnpYOG96LWNyaVFrQlRpQ1plUG1jazZLbjRFbnhtRUl6aFZKUQ?oc=5
 
-- After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian oil purchase | India News - Hindustan Times
-  After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlZkR21aTkE2SkZkY3RZRDNHYkZmWF9IcURsa29velJNSWI4elJsdTh6NHNfdEJMX1BwX1F5eFhiVktIaV9RWE1ZVF9GNkZuUEFUbXpORWlrT3ZSTEY4R3g4QkxtcnEtVU5DcmNWbTlrN2dXTHNyT0ZzYXBsY2M3X3d3S19RQUJlUmxvQzMxWmNPNUVNM0d2dGFreFpFa080WlRYeW9mVWNXLTNUSVBtcDZ0MmpmZThYbVk3eWpZMllENUhwdURmelMtZW55S0wyNjZHUUhUeDJzeGlJMUY4aXg4Y01wakxUeHNSemlyS0VqMl96aHJGWERGRmhZWi1hbXRJSTBLazZXZG_SAZACQVVfeXFMTkpoWkRRaFF4TkJpVzRqR183OGt1TDJxdjUxanJQUV9SdldKWjVBLUU4M2w2dEJSNVpSNzFnWUJ5d0V0NVNJVks0cThwMlNFMGNGTXozeGJRR0JWZ056ZTdqdWpjTlM5UTlEaTVkeVZNcWtJZWJGWHhNUzB4bkMwRjNpa21XbnV6NzQ4b0FDcWRsTkJ2ZlpfdTRqRzBRX3JaWk5XVTA2dXZXQVVJdm14aUtwYjFvUlZEUEkxaHY5YVNPUjJpRWI2c05mN0RKYXRoLXpvOEVQUUpQcW1YWFBtRWhKTkxDM25MUzRHekFoeG1XNEtDMEQxaWFxM01LVFZLNWJPd0JFOHN6dFFkZUNQOTA?oc=5
+- 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
+  'It Won't Work With India': Parag Kh
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
 
-- India withdraws families, dependents of diplomats and officials from all missions in Bangladesh - The Hindu
-  India withdraws families, dependents of diplomats and officials from
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcDlyOWFFTnNvQm45ZW50TldTdEVPRkhxZFJxanlGcm9IUUN0b1BoLVNUaWlLdE1KSzhwQVdvcWo0dEhKUUlQYlQ4cURsdmtfdzBfWndFMUFTVW1ZV3FDUjBoUjQyRnFLeGdGbkdhYWVXaTlUd2hwNy1MRkstM0h2R1c2TmFFdWdOSUtodHNDWUJGY2J0Nm41eHZPeEE3dzZjc0tLeXNnd3R6M1Zma1BIYzdxZWZqQktXV3c0WVBIdWxXMm9qa0haOFAyaDhEd2ZoSWFZUVVQSUtRd1U3bFV2bDJQVjZia03SAe4BQVVfeXFMTVhUUUJWZG1LWjhidk5mamxVdjVTWjNDS0FCTC02TGhtUkJ0elNqTS13NEdXbUFaNXQ5QV9PcXZoSXFJOG9MbDBDZnVWaTEyQnI0dUtqVWxFcTNxa25KaUgzRDlhQVZhMTJiMU1fbElQZ1hNVmlva0FoNEIyWmNMR29KZ3djbl9xcHMxdjFsYWlmNlJWbi1sUmRWOHA0UGRzU0xPTmJScUlmUWl6aF9BaU9jVzVyTVFWVFBGTU9tQTNGOU1jV0JHZmR3Z0ROTkhvYXZEX3lUZHFVUlBBNWFKLW80RHVvRWkzdVJfVVJBdw?oc=5
+- What is Donald Trump's ‘Board of Peace’? A deep dive into the structure and India's stance - Hindustan Times
+  &nbsp;&ngt;<font color="#6f6
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFVEWFpld1hVbi1wZkhnQ05lY25kbVFQV0FTLWRzMkVGMDNaNG52UmpXenc1WGlLOXh5MXA2X3hHNzdnbmtHT20wRDFXNUxZcHgtb2J4VHM4NktQekRSdTJBNVl1d2JmZU5pZDQ2WEY4T2gyVDZ3STd4bjNkbWtyemdvZlJJTWVNX0ZPVmRsZXBaUVRiWTJGLWFKVnkwcTJFQ0FQbHdza3F1UkctUzRDSlBlMkZmd0MzWHdMcjZnOVY0N09rWF9vSnZYWHlYaXM1RkEwdDRidUxDT0ptTzQ4Xw?oc=5
+
+- "They Were Going To Go Nuke": Trump Lists India-Pak Truce As Key Win Of 2025 - NDTV
+  "They Were Going To Go Nuke": Trump Lists India-
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmxMZUpkZy1vMzF0YUtCOWtWcUN6dGFkRDlVX3FhVnBNeVJKQ0xiZW5aelRsNmFhOWFZU1VLQmVyLW9leTZFMXhlY0FUek9ubGVzREtHdHhQQzYtV09BVGFuRTRxa2htTVNtXzMxWlJrRDg1a2ZhOFlvQkwyeUtsSkFNYXZFT3V1QUlfaElUTXdxblJ6c3BvRWo0aVU5eWVqOUJZbUhFNHNZU2k1bGtqNHUxYkx6Y3BT0gHAAUFVX3lxTFB4NG5FNEFKWXNZTDdiU1Zoa04zelJGdGxCUGdvYVl3cXM2T3RNdEdIeENHVmNqVVBYMTl4N21TTUtqd2x6S3ZHbDlGa09aYTVzNmNIaGh0RF9nbEZFZGJyclM2ZDNDazRPRFYwZjJyejQ5MXhDWmNxLV9sanNwcE9MeE44clpfUDJ1eW5RN3c0TFdONDZiNzRURUZqcjMxRlcyMXhrMW5sUEJpc1RkVktMM3JZUGU0cHQ4SGpxQXNxag?oc=5
+
+- Top News Headlines of January 19, 2026 | What will Trump do if US Supreme Court strikes down global tariffs? Top aide speaks out - The Indian Express
+  The Indian Express is a leading newspaper in India. It is based in Mumbai.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMXZ5Y0hCcVp3TXFrM1FydTdJeXRSMGtMV1hjM09vUGJKTTFzRGZtZU84MFk1eVA2d0IzZVpmU1R4aFdHYnVlREk0Q1BSZDNacHc0Vlpma0lTVEZJeHpXcXpjUDZVdzlZWDJDTU1PbFVGNlU0Ui10aWZ6RlIwYTBZOEx5c3lhaGhaSm56amUwQWF3ODNNMjZZVVJxS1BYRUIzdHVtYVRadDBKMFRnZUt2aTluMUZINzVFenF4V094TXlxY2x4WU5aZXJjMG5GZF9nMnN6b3NfSGNRYm9lMlFuLTRBVzZWMzdR0gHvAUFVX3lxTE5aM2I2aDFCVHVBMnVSV0ZnLUp1QURPQlJPZGJDOGt0aE1RaVZ6ek9RQ1VZSFRsN0R3Q0FaTTdtR2FpUTh5VE15cFJwRU1OM2VDRjNESlJQQlVhYm1kUllIaVUxeVAtZ2hhZTQ0SXpaLXlGT1hDTWdibHBzdFNzdXJ2WWVHamRFdFB0ZDFMcFJSWWdkamx0WWxHaENQVE1hOE9TVHIyM0RDS1pjaEpkajZwdEZvZUtPWmt6elJvN1JSOGFvMVRVWGpPbFBHWldfOTE3VGYxeU1OamdNcjVlUDFUX1RGaWY4OTRWZ3c2NVI0?oc=5
+
+- 'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back At IMF For Callinf India Second Tier In AI - Times of India
+  'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMUdsUW90WG9JT2VTQjdvYkpBcUd6Qzd6MHI2eWplNlJ4eXp2NTVBd3JxRHl4VHY5X3E2bEhWSUtFVDhZZkQyY2Y2X1ZteFhrdkFha0ItU09vRGdtZW5xWmt1b2xST3hYR3hhNHdVTWtxcmIyVUtROXJ1ZHZIQlEtT2FyN3FTVDVQcmJrY3dldzBWX1RyTXJzTVpKTTNXNnNqMVNOQUF4RjJwZUhGaVI5am9xSlNCOW9sbmlJWlFwMW5NMTRLZEhOZW5RWE5KVmgyVXZDZE83Q3Rkb1lmcUpGc3B6YktvamFwTUpnZU1FZW82OWd5Z2t6MWNn0gH_AUFVX3lxTE9nemxXX24wVlhFd2xtd0YzdGpuYUE4eHlxaUIweXExNzFEcmdXVlVkaGxlVEtiVkFfa1hsLWVuQnhQR0YzQ1NmS2dDaWZwVzNCOUxGOEdPa0llNmUyZ3pXeWtGZ3FWUndfSUJIRkF4MVE1bDQ2ci1FUDcxSDltMWQzZ3BjejV1OFJXYl9TLXBBeTExMnRjV3BISGVsMExXM2gycVpZYVBOSThiYjVJRXU5U1IxWWlJU2xCZ1lFUlM5bGJ6NERfNlBpRWFYMXV4bTN4TFZDSEJpNWxjWnpYOG96LWNyaVFrQlRpQ1plUG1jazZLbjRFbnhtRUl6aFZKUQ?oc=5
+
+- 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
+  'It Won't Work With India': Parag Kh
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
+
+- What is Donald Trump's ‘Board of Peace’? A deep dive into the structure and India's stance - Hindustan Times
+  &nbsp;&ngt;<font color="#6f6
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFVEWFpld1hVbi1wZkhnQ05lY25kbVFQV0FTLWRzMkVGMDNaNG52UmpXenc1WGlLOXh5MXA2X3hHNzdnbmtHT20wRDFXNUxZcHgtb2J4VHM4NktQekRSdTJBNVl1d2JmZU5pZDQ2WEY4T2gyVDZ3STd4bjNkbWtyemdvZlJJTWVNX0ZPVmRsZXBaUVRiWTJGLWFKVnkwcTJFQ0FQbHdza3F1UkctUzRDSlBlMkZmd0MzWHdMcjZnOVY0N09rWF9vSnZYWHlYaXM1RkEwdDRidUxDT0ptTzQ4Xw?oc=5
+
+- "They Were Going To Go Nuke": Trump Lists India-Pak Truce As Key Win Of 2025 - NDTV
+  "They Were Going To Go Nuke": Trump Lists India-
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmxMZUpkZy1vMzF0YUtCOWtWcUN6dGFkRDlVX3FhVnBNeVJKQ0xiZW5aelRsNmFhOWFZU1VLQmVyLW9leTZFMXhlY0FUek9ubGVzREtHdHhQQzYtV09BVGFuRTRxa2htTVNtXzMxWlJrRDg1a2ZhOFlvQkwyeUtsSkFNYXZFT3V1QUlfaElUTXdxblJ6c3BvRWo0aVU5eWVqOUJZbUhFNHNZU2k1bGtqNHUxYkx6Y3BT0gHAAUFVX3lxTFB4NG5FNEFKWXNZTDdiU1Zoa04zelJGdGxCUGdvYVl3cXM2T3RNdEdIeENHVmNqVVBYMTl4N21TTUtqd2x6S3ZHbDlGa09aYTVzNmNIaGh0RF9nbEZFZGJyclM2ZDNDazRPRFYwZjJyejQ5MXhDWmNxLV9sanNwcE9MeE44clpfUDJ1eW5RN3c0TFdONDZiNzRURUZqcjMxRlcyMXhrMW5sUEJpc1RkVktMM3JZUGU0cHQ4SGpxQXNxag?oc=5
+
+- Top News Headlines of January 19, 2026 | What will Trump do if US Supreme Court strikes down global tariffs? Top aide speaks out - The Indian Express
+  The Indian Express is a leading newspaper in India. It is based in Mumbai.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMXZ5Y0hCcVp3TXFrM1FydTdJeXRSMGtMV1hjM09vUGJKTTFzRGZtZU84MFk1eVA2d0IzZVpmU1R4aFdHYnVlREk0Q1BSZDNacHc0Vlpma0lTVEZJeHpXcXpjUDZVdzlZWDJDTU1PbFVGNlU0Ui10aWZ6RlIwYTBZOEx5c3lhaGhaSm56amUwQWF3ODNNMjZZVVJxS1BYRUIzdHVtYVRadDBKMFRnZUt2aTluMUZINzVFenF4V094TXlxY2x4WU5aZXJjMG5GZF9nMnN6b3NfSGNRYm9lMlFuLTRBVzZWMzdR0gHvAUFVX3lxTE5aM2I2aDFCVHVBMnVSV0ZnLUp1QURPQlJPZGJDOGt0aE1RaVZ6ek9RQ1VZSFRsN0R3Q0FaTTdtR2FpUTh5VE15cFJwRU1OM2VDRjNESlJQQlVhYm1kUllIaVUxeVAtZ2hhZTQ0SXpaLXlGT1hDTWdibHBzdFNzdXJ2WWVHamRFdFB0ZDFMcFJSWWdkamx0WWxHaENQVE1hOE9TVHIyM0RDS1pjaEpkajZwdEZvZUtPWmt6elJvN1JSOGFvMVRVWGpPbFBHWldfOTE3VGYxeU1OamdNcjVlUDFUX1RGaWY4OTRWZ3c2NVI0?oc=5
+
+- 'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back At IMF For Callinf India Second Tier In AI - Times of India
+  'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMUdsUW90WG9JT2VTQjdvYkpBcUd6Qzd6MHI2eWplNlJ4eXp2NTVBd3JxRHl4VHY5X3E2bEhWSUtFVDhZZkQyY2Y2X1ZteFhrdkFha0ItU09vRGdtZW5xWmt1b2xST3hYR3hhNHdVTWtxcmIyVUtROXJ1ZHZIQlEtT2FyN3FTVDVQcmJrY3dldzBWX1RyTXJzTVpKTTNXNnNqMVNOQUF4RjJwZUhGaVI5am9xSlNCOW9sbmlJWlFwMW5NMTRLZEhOZW5RWE5KVmgyVXZDZE83Q3Rkb1lmcUpGc3B6YktvamFwTUpnZU1FZW82OWd5Z2t6MWNn0gH_AUFVX3lxTE9nemxXX24wVlhFd2xtd0YzdGpuYUE4eHlxaUIweXExNzFEcmdXVlVkaGxlVEtiVkFfa1hsLWVuQnhQR0YzQ1NmS2dDaWZwVzNCOUxGOEdPa0llNmUyZ3pXeWtGZ3FWUndfSUJIRkF4MVE1bDQ2ci1FUDcxSDltMWQzZ3BjejV1OFJXYl9TLXBBeTExMnRjV3BISGVsMExXM2gycVpZYVBOSThiYjVJRXU5U1IxWWlJU2xCZ1lFUlM5bGJ6NERfNlBpRWFYMXV4bTN4TFZDSEJpNWxjWnpYOG96LWNyaVFrQlRpQ1plUG1jazZLbjRFbnhtRUl6aFZKUQ?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-21 06:33:50 UTC_
+_Last updated: 2026-01-21 12:42:10 UTC_
