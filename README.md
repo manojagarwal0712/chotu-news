@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
+- Kindergarten girl killed, 11 school children injured in jeep-school van collision in MP Betul
+  
+  🔗 https://indianexpress.com/article/india/kindergarten-girl-killed-11-school-children-injure-jeep-schoolvan-collision-10486833/
+
+- Stone pelting on trains: 1,698 cases registered, 665 arrested between July-Dec 2025
+  
+  🔗 https://indianexpress.com/article/india/stone-pelting-on-trains-1698-cases-registered-665-arrested-between-july-dec-2025-10487424/
+
+- Amrit Bharat Express launch: Kerala set to get 3 new trains this week – check routes, stoppages
+  
+  🔗 https://indianexpress.com/article/india/kerala-to-get-3-new-amrit-bharat-express-trains-routes-stops-10487352/
+
+- Basanti Pulao, Dhokar Dalna, Narikol Burfi & more: Full IRCTC food menu on India’s 1st Vande Bharat Sleeper train
+  
+  🔗 https://indianexpress.com/article/india/full-irctc-food-menu-on-india-first-vande-bharat-sleeper-train-10486988/
+
 - In Kokrajhar, where Bodos and Adivasis clashed, an uneasy calm under shadow of Army deployment
   
   🔗 https://indianexpress.com/article/india/kokrajhar-bodos-adivasis-clashed-uneasy-calm-army-deployment-10487091/
 
-- Cause of democracy needs new champions, India’s leadership welcome: International expert
+- What a giant 600-year-old shipwreck tells us about medieval Europe
   
-  🔗 https://indianexpress.com/article/india/cause-of-democracy-needs-new-champions-indias-leadership-welcome-international-expert-10486945/
+  🔗 https://indianexpress.com/article/technology/science/what-a-giant-600-year-old-shipwreck-tells-us-about-medieval-europe-10487369/
 
-- Citing ‘demographic imbalance’, Rajasthan approves Bill to label some areas as ‘disturbed’, put curbs on property sale there
+- ‘YouTube is the epicenter of culture’: Neal Mohan on YouTube’s big bets for 2026
   
-  🔗 https://indianexpress.com/article/india/demographic-imbalance-rajasthan-approves-bill-label-areas-disturbed-property-sale-10486811/
+  🔗 https://indianexpress.com/article/technology/ceo-neal-mohan-on-youtubes-big-bets-for-2026-10487318/
 
-- 100 more stray dogs poisoned in Telangana, sarpanch among 3 booked
+- Meta’s new AI team delivered first key models internally this month, CTO says
   
-  🔗 https://indianexpress.com/article/india/100-more-stray-dogs-poisoned-telangana-sarpanch-among-10486713/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/metas-new-ai-team-delivered-first-key-models-internally-this-month-cto-says-10487375/
 
-- Tamil Nadu churn begins: TTV Dhinakaran returns to NDA, DMK draws in R Vaithilingam, last holdout of OPS camp
+- Intel results to spotlight turnaround efforts as AI data centers boost chip demand
   
-  🔗 https://indianexpress.com/article/india/tamil-nadu-dhinakaran-returns-to-nda-dmk-draws-in-r-vaithilingam-10486649/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/intel-results-to-spotlight-turnaround-efforts-as-ai-data-centers-boost-chip-demand-10487362/
 
-- Sony to end Bravia TV production, transfer operations to TCL-led joint venture
+- Adobe Acrobat now lets users turn PDFs into Notebook LM-style podcasts using AI
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-to-end-bravia-tv-production-transfer-operations-tcl-10487116/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/adobe-acrobat-turn-pdfs-into-ai-podcasts-10487303/
 
-- ‘An incredible honour’: NASA astronaut Sunita Williams retires after 27-year space career
-  
-  🔗 https://indianexpress.com/article/technology/science/nasa-astronaut-sunita-williams-retires-after-27-year-space-career-10487025/
+- L&amp;T bets $1 bn on inhouse forte to face Tata, Adani, Reliance in AI data centres
+  Larsen and Toubro Ltd believes end-to-end ownership will allow it to offer some of the cheapest services to clients.
+  🔗 https://www.livemint.com/companies/lt-tata-adani-reliance-ai-data-centres-11768998685257.html
 
-- Software engineering will be ‘automatable’ in 12 months, says Anthropic CEO Dario Amodei
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-ceo-dario-amodei-wef-davos-ai-jobs-10486848/
+- Dr Reddy’s net profit beats estimates despite 14% dip, set for India semaglutide launch
+  The firm’s revenue grew nearly 4.4% year-on-year but declined marginally sequentially by 0
+  🔗 https://www.livemint.com/companies/dr-reddy-s-net-profit-beats-estimates-despite-14-dip-set-for-india-semaglutide-11768997007304.html
 
-- Meet Confer: Signal founder’s privacy-focused, end-to-end encrypted ChatGPT alternative
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/confer-end-to-end-encryption-privacy-ai-chatgpt-alternative-10486285/
+- Dalmia Bharat Q3 profit declines 46% as cement prices fall in east, south
+   weak demand, price corrections after GST rationalization and rising costs weighed on earnings. Company flagged early signs
+  🔗 https://www.livemint.com/companies/company-results/dalmia-bharat-q3-profit-declines-46-as-cement-prices-fall-in-east-south-11769002093989.html
 
-- Netflix to launch vertical video feed, app redesign to compete with rivals
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/netflix-to-launch-vertical-video-feed-app-redesign-to-compete-with-rivals-10486694/
+- When Deepinder Goyal asked Albinder Dhindsa to leave twice after Blinkit's acquisition
+  Deepinder Goyal has resigned as CEO and MD of Eternal, effective February 1. Blinkit CEO Albinder Dhindsa is set to replace him.
+  🔗 https://www.livemint.com/companies/people/when-deepinder-goyal-asked-albinder-dhindsa-to-leave-twice-after-blinkits-acquisition-eternal-zomato-11768997426754.html
 
-- New lift standards for PwDs to force redesigns for India’s property, infrastructure developers
-  The regulations will standardize lift designs and safety features, improving mobility for the 26.8 million people with disabilities.
-  🔗 https://www.livemint.com/companies/new-lift-standards-people-with-disabilities-pwds-property-developers-infra-builders-accessible-india-lift-operations-11768987070005.html
+- Intel results to spotlight turnaround efforts as AI data centers boost chip demand
+  CEO Lip-Bu Tan has overhauled Intel’s chip
+  🔗 https://www.livemint.com/companies/company-results/intel-results-to-spotlight-turnaround-efforts-as-ai-data-centers-boost-chip-demand-11769001419268.html
 
-- Why Deepinder Goyal quit as Eternal CEO and what's next for the company and him? He explains in letter to shareholders
-  Deepinder Goyal has stepped down as the CEO of Indian e-commerce giant Flipkart. Goyal says he felt drawn to a new set of ideas that
-  🔗 https://www.livemint.com/companies/people/why-deepinder-goel-quit-as-eternal-ceo-and-what-next-for-the-company-and-him-he-explains-in-letter-to-shareholders-11768992114468.html
+- European Stocks Extend Drop as Traders Wait for Trump’s Speech
+  European shares fall, extending this week’s selloff on renewed trade-war tensions. Focus turns to US
+  🔗 https://www.livemint.com/market/european-stocks-extend-drop-as-traders-wait-for-trump-s-speech-11769020497156.html
 
-- IndiaMART to step up tech investments over two years after strong Q3: CEO Dinesh Agarwal
-  IndiaMART’s long-term growth strategy now involves prioritising AI-driven tools to enhance operational efficiency and supplier retention. The company is also exploring quick-
-  🔗 https://www.livemint.com/companies/indiamart-tech-investments-strong-q3-ceo-dinesh-agarwal-ai-tools-supplier-retention-south-india-quick-commerce-b2b-11768982445699.html
+- US real estate stocks climb on fall in mortgage rates, loan demand growth, Trump comments
+  The S&amp;amp;P 1500
+  🔗 https://www.livemint.com/market/stock-market-news/us-real-estate-stocks-climb-on-fall-in-mortgage-rates-loan-demand-growth-trump-comments-11769018015608.html
 
-- Eternal CEO Deepinder Goyal resigns, Blinkit's Albinder Singh Dhindsa to take charge
-  Deepinder Goyal has resigned, effective 1 February. Albinder Singh Dhindsa will take over as the CEO. The Board has recommended him for the position of Vice Chairman.
-  🔗 https://www.livemint.com/companies/news/deepinder-goyal-to-step-down-as-eternal-ceo-blinkits-albinder-singh-dhindsa-to-take-charge-11768991358105.html
+- Stock market crash: Trade guide for Nifty 50, gold, silver rates to USD vs INR; eight stocks to buy or sell on Thursday
+  Experts have recommended these eight stocks to buy today. Bharti Hexacom, Westlife Foodworld
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-guide-for-nifty-50-gold-silver-rates-to-usd-vs-inr-eight-stocks-to-buy-or-sell-on-thursday-11769010648667.html
 
-- Who is Ganesh Lakshminarayanan? Tata Communications appoints industry veteran as new MD &amp; CEO
-  Tata Communications appointed industry veteran Ganesh Lakshminarayanan as the company's new MD and CEO. Here
-  🔗 https://www.livemint.com/companies/people/who-is-ganesh-lakshminarayanan-tata-communications-appoints-industry-veteran-as-new-md-ceo-11768989472361.html
+- PNB Housing Finance Q3 results: Net profit rises 10% to  ₹521 crore; interest income up over 9% YoY — Details here
+  PNB Housing Finance reported a 20% rise in its standalone net profit to  ₹521 crore in the third quarter of FY2025-26. The company's interest income rose
+  🔗 https://www.livemint.com/market/stock-market-news/pnb-housing-finance-q3-results-net-profit-rises-10-to-rs-521-crore-interest-income-up-over-9-yoy-details-here-11769006743143.html
 
-- HPCL Q3 Results: Maharatna PSU's net profit jumps 58% to  ₹4,011 crore; revenue rises 4.6% YoY — Details here
-  Maharatna PSU's net profit jumps 58% to  �
-  🔗 https://www.livemint.com/market/stock-market-news/hpcl-q3-results-maharatna-psus-net-profit-jumps-58-to-rs-4-011-crore-revenue-rises-4-6-yoy-details-here-11768997616866.html
+- Wall Street rises after Trump says won’t use force to acquire Greenland, Netflix  dips 2.6%, United Airlines soars 4.2%
+  The S&amp;amp;P 500, the Dow Jones Industrial Average,
+  🔗 https://www.livemint.com/market/wall-street-rises-after-sharp-selloff-spotlight-on-trump-speech-11769003230662.html
 
-- Dr Reddy's Labs Q3 Results: Profit dips 14% YoY to  ₹1210 crore; revenue grows 4%
-  The pharma major, part of the Nifty 50 index, said its net profit stood at  ₹1209.
-  🔗 https://www.livemint.com/market/stock-market-news/dr-reddys-labs-q3-results-profit-dips-14-yoy-to-rs-1210-crore-revenue-grows-4-11768996142602.html
+- Microsoft 365 down: Several users report outages with Outlook and Teams
+  Microsoft 365 experienced a significant outage on Wednesday. Issues with Teams and Outlook were reported, with over 4,000 disruptions noted on Downdetector.
+  🔗 https://www.livemint.com/technology/microsoft-365-down-several-users-report-outage-with-outlook-and-teams-11769016809096.html
 
-- Eternal Q3 Results: Profit surges 73% YoY to  ₹102 crore; revenue jumps 3-fold
-  Eternal's net profit surged 73% year-on-year (Yo
-  🔗 https://www.livemint.com/market/stock-market-news/eternal-q3-results-profit-surges-73-yoy-to-rs-102-crore-revenue-jumps-3fold-11768991579241.html
+- AI, telecom infra vital for each other, concerns remain on AI-based systems impact: Trai Chair
+  AI, telecom infra vital for each other,
+  🔗 https://www.livemint.com/technology/ai-telecom-infra-vital-for-each-other-concerns-remain-on-ai-based-systems-impact-trai-chair-11769015269295.html
 
-- Eternal Q3 results: Consolidated profit jumps 73% to  ₹102 crore; quick commerce margin turns green— 5 key highlights
-  Zomato parent Eternal reported a 72.88% year-on-year (YoY) jump in its consolidated profit to  ₹102 crore for Q3
-  🔗 https://www.livemint.com/market/stock-market-news/eternal-q3-results-zomato-parents-pat-revenue-margin-11768980637576.html
+- Motorola Signature first impressions: A sleek new flagship with big ambitions
+  Motorola's Signature boasts a 165Hz AMOLED display, Snapdragon 8 Gen 5 processor, and a triple camera system. The
+  🔗 https://www.livemint.com/technology/tech-reviews/motorola-signature-first-impressions-a-sleek-new-flagship-with-big-ambitions-11769004489299.html
 
-- Hero MotoCorp board to meet on this date to consider Q3 results. Check details
-  Hero MotoCorp's board will meet on February 5, 2026, to approve Q3 results. The company reported a 40% rise in December wholesales.
-  🔗 https://www.livemint.com/market/stock-market-news/hero-motocorp-board-to-meet-on-this-date-to-consider-q3-results-check-details-11768990218091.html
+- Are Yahoo Mail and Aol down? Thousands of users report issues in the US
+  On Tuesday, Downdetector reported widespread access problems for
+  🔗 https://www.livemint.com/technology/tech-news/are-yahoo-mail-and-aol-down-thousands-of-users-report-issues-in-the-us-11769009424877.html
 
-- AI a key enabler for next phase of Indias telecom evolution: TRAI Chief
-  Lahoti was speaking at a Pre-Summit Event of the India - AI Impact Summit 2026. "AI is no longer a futuristic idea for telecom - it is now a foundational capability"
-  🔗 https://www.livemint.com/technology/ai-a-key-enabler-for-next-phase-of-indias-telecom-evolution-trai-chief-11768995099414.html
+- Last 2 days to avail price drop deals on gaming laptops from Asus, Lenovo and more
+  Only two days left to grab gaming laptops at reduced prices. Asus, Lenovo, and more are seeing rare price drops.
+  🔗 https://www.livemint.com/technology/gadgets/last-2-days-to-avail-price-drop-deals-on-gaming-laptops-from-asus-lenovo-and-more-11768979748154.html
 
-- Meta bets on new AI unit to reverse momentum against Google and rivals: Here's how
-  The development marks an early milestone in the company’s revamped AI strategy. CTO Andrew Bosworth calls the early results promising.
-  🔗 https://www.livemint.com/technology/tech-news/meta-bets-on-new-ai-unit-to-reverse-momentum-against-google-and-rivals-heres-how-11768994299081.html
+- Stock Market Today: Dow Gains 200 Points After Trump Speech — Live Updates - The Wall Street Journal
+  The Wall Street Journal reports that the Dow rose 200 points after Trump's
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxPdUpkS1ZMMFhEeW1aNDRzWHBRUW9mdzB2eWtuZGh2TjVvR29uRmJSNzJKejJLY1dMaHhNdkhiWEVXa1hjNmRyYzg3TGRLUTU4bVFlY2pKSDNsdVZMUTBXV1R1QzUxRG80YXF2WFNuQ182QkxuZi1oalloSGEwY1J3em5INGxiX09fMjdIU2gzT25UMWs?oc=5
 
-- OpenAI’s mystery AI gadget tipped to be an audio headset, suggests report
-  OpenAI is reportedly gearing up to launch its first consumer AI device. It is tipped to be an AI-powered audio headset instead of the anticipated AI pen.
-  🔗 https://www.livemint.com/technology/tech-news/openais-mystery-ai-gadget-tipped-to-be-an-audio-headset-suggests-report-11768989408943.html
+- Stocks recover from sell-off after Trump rules out military action on Greenland: Live updates - CNBC
+  &nbsp;&ngt;<font color
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBNVHI3eFBkQ2hOOEZFSl9PdUkxRmp0c2FnbmIzTnhpRkw3d1NWQ21IdlNSeDhnMkdYNFhpcDFkd2ZDWTdUMHVKS21OeWVXZkZQMUtTenlQamxvWWhOMDRkSExfWGhtTGt0RWRleFpCS1BLY0pwTTVr0gF8QVVfeXFMUHdxZWYtQmdiWGtCSlJjbGpCRVdJSko2R2NWZlZzTEZ6QmpWVkZTRi14RlBRRy1seHRMM1o3Vy10MkQ4Vy1yVEE0bThaaGs3X2h6c1hLdV9mUGxWWkV1VDRMTkVqVzJFbHZocG4tc25PVmtsRXdRdFNrWV9nMQ?oc=5
 
-- Oppo A6 5G vs Realme P3 5G: Battery, display, price, performance and more compared
-  Oppo A6 5G launched in India on Tuesday. The device competes with the Realme P3 5G in mid-range segment. Here is a detailed on-paper
-  🔗 https://www.livemint.com/technology/gadgets/oppo-a6-5g-vs-realme-p3-5g-battery-display-price-performance-and-more-compared-11768988213382.html
+- Global markets on alert as Europe to suspend approval of US trade deal - BBC
+  Europe to suspend approval of U.S. trade deal
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTMS1kRTJGZm5RZjJKaFVTM1hTMGd4YndPcjhDMU1IUDZmTTRMY3llRG5CMG4ydkwtZ1d4bWQ1QlltZk10cDhhUW9FZXdhRlBhYlBnVzBHYTdudw?oc=5
 
-- ‘Don’t use ChatGPT’: Elon Musk reignites feud with Sam Altman, OpenAI CEO hits back with Tesla Autopilot jab
-  Elon Musk and Sam Altman spar on social media over safety concerns related to ChatGPT and Tesla's Autopilot. Musk advised against using ChatG PT,
-  🔗 https://www.livemint.com/technology/tech-news/dont-use-chatgpt-elon-musk-reignites-feud-with-altman-openai-hit-back-with-tesla-autopilot-jab-11768984937093.html
-
-- Dow slides 870 points, S&P 500 drops 2% for worst day since October on Trump tariff threat over Greenland: Live updates - CNBC
-  Dow slides 870 points, S&amp;P 500 drops 2% for worst day
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB6aFhReFdKU1ZXQVpTNlFRalk5VkduNFp6cXh2aFd2bGxzcTVyb2ZrZkEwbm1XeU50N1hIZFRoTDN5REhLQVI5Rk52VHlIMlQ1SkN1bXlUUWQ5N3dLbF9KRkNyeEJHTktXcHlUYUdDLVA0YkxrT1Vj?oc=5
-
-- Stock Market News, Jan. 20, 2026: Dow Sinks Nearly 900 Points, Treasury Prices Drop - The Wall Street Journal
-  The Dow Sinks Nearly 900 Points, Treasury Prices Drop in 2026.
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXVzdlYzMEpWcWRyaUdIMTBFSFhqUVByXzJiMElfT2UtQ0pvWXgwTnFmUXhCRURNRVZya1VEd0ZpQ0hNZUdmTGtmUnFCSzBrUnM1OWFkNkFfakFRblZOWXQ5b0NJOXVwQ2lqbmIwNC1QRFRWOGNvekJKaVZwZXFEOGNhekY3Y1N0czVBRXRaV3hRQQ?oc=5
-
-- FTSE 100 Live: Stocks Resume Slide as Bonds Steady After Selloff - Bloomberg.com
-  The FTSE 100 is down 0.
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNLXVhRnBZYVp4bFVsamh3VzhwYm0ycWFFMzA5WXJVSGF5bGlVRmFpbzhjVnRSaHI1dkxObWUwOGgwa0xEbm9xR1BEeVExaW1sSzNtaldHQ0VBWU1fSHRyZzFUWEN5UEJYMlVhc2N5S2cxdFZuLU9mWF9qZE9najRLeG9waHpfb2RlTlRIWUJ2UTZyU2VxbTZBV3RZYVNReDE4cndEbjJRT0J6VGwzSG1ZTElhUmtJbmpFcWlvb1VRU19yQW1fOFd4bUpFNy1JaFM2bWtGLTlOR0F1bU4xeUF1OUZyWkxOaHgyUmN0T25XYmhnTVR3ZHlMMVMwNFg?oc=5
-
-- Stock markets fall for third day amid geopolitical tensions; Sensex sinks below 82,000 - The Hindu
-  Stock markets fall for third day amid geopolitical tensions; Sensex
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbGpiaHp4R3g4MGFaa3d3M3VCbGlpUnRTLWlIM01zalYtT3hWYlhNSk9TSkpMX2FNSlFocGZnS0dqbFVwQWNiSVdOQ1BBemNkZFB3LUtobkl2bUszNjFlUnpWei0yU2Y3TGlhUEJDT0RvSVA2TGllS2x4V3MwcWR2ck4tN2VhVGd2eFFQdWE5eGJ0d3Q2Tm43d1J3WHpBM05zZXNXbVA4cE5hTG4xNXhGd1FXLTltdmlsSi11Q2FEXy13ZEx4UW9XREVXLXl5T2NpaTRtcW9Ka3ZIUDBrdDAw0gHmAUFVX3lxTE80OWFDZC1Pa21RamdTbTNKTTRWeFRzLTFJdTEyVld6UHp6eUh4SFh0N3F2TUdLaTFURTlrb1JvREF3UFpQRTI1a2FrdWkzd1R5UVQ3TlhXTFR5M0xpWVg3VzNXd0sxQmdJaWNSN0FmNmp5SEtUejBuaEpuaE5QWHJiTnhLNm9aVlkzV3NmODlaTU1zbjEtdmFiTmZ2OU5paUtqZkdMZHhtRFliY2dKaFpTSTl0anVTakltVW1GVS1iWGRLcmF1N2RfSjdxUzBrYzVXSTV0Y1N1MzYwa3doUjNiZExuMUFR?oc=5
-
-- Greenland Tensions Rattle Global Markets - nytimes.com
-  Greenland T
+- Greenland Tensions Rattle Global Markets - The New York Times
+  Greenland Tensions Rattle
   🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR19ZR1ZnaW9Yclo2T0d0RHZNeWgxWUNTQ29CWS1qTUpZbm1xOG1VRFc0ZjVJTHc5eUtWMlJCclVNdnRlbk5ZTVZmTU5qbW5zMmVPWGY4Ul9hd3lMU05zcS1lcW1jYXo0b2s0VDI2cGdfeFBnOEtKWmN1TmJXVXA3QUhzMVJTLUZjZjJz?oc=5
 
-- Dhanlaxmi Bank Q3 profit rises 20% YoY to Rs 24 crore
-  Dhanlaxmi Bank posted a 20% YoY rise in Q3 net profit to Rs 24 crore. Total income grew 21%, while pre-provision operating profit jumped 52% to Rs 41 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/dhanlaxmi-bank-q3-profit-rises-20-yoy-to-rs-24-crore/articleshow/126985383.cms
+- Wall Street sees worst day since October after Trump tariff threats - The Guardian
+  Wall Street sees worst day since October after Trump tariff
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmdJaFdrX0tBMWNKOHRKRFRoN3A2RXdBT3pRNjZ4d3Fra3laQlNhdE9QcEV1ZmNncW1lb3ozeFpRZEZSSVY3cEZMLVlickFGRkozM254VVdGdWw0WDIwblF0Y182Njc2LVBZVEpMcTNnR0k0VEFmREROUmVmbGhGSXFrbFhJQ1BLWkhoVVpaQUUwdHVHcFliSTQ2QndYaXJo?oc=5
 
-- IndiGo Q3 Preview: Revenue growth steady, profits seen under pressure as yields soften
-  IndiGo is expected to report a mixed set of numbers for the December quarter. Brokerages pencilling in steady revenue growth but a year
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/indigo-q3-preview-revenue-growth-steady-profits-seen-under-pressure-as-yields-soften/articleshow/126984987.cms
+- Wall Street seeks to shape Trump affordability ideas, sources say
+  Major Wall Street banks are pushing back on some of President Donald Trump's ideas for lowering the U.S. cost of living ahead of mid-term elections.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-seeks-to-shape-trump-affordability-ideas-sources-say/articleshow/127017719.cms
 
-- Vedanta’s Rs 2,500 crore ESOP windfall turns factory floors into shareholder ranks
-  Vedanta has created one of India’s widest employee-wealth programmes. Its latest Rs 500 crore grant brings 1,200 employees into the shareholder fold.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vedantas-rs-2500-crore-esop-windfall-turns-factory-floors-into-shareholder-ranks/articleshow/126984395.cms
+- Nvidia boss sees 'trillions' in AI spending ahead
+  The infrastructure to develop and power generative artificial intelligence models will require further "trillions" of dollars in investment
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-boss-sees-trillions-in-ai-spending-ahead/articleshow/127017227.cms
 
-- Union Budget FY27: These 6 calls could end the fiscal drag, Nuvama says
-  India’s economy appears to be bottoming out, but Nuvama warns FY27 Budget support may be modest. While fiscal consolidation could pause and capex
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/union-budget-fy27-these-6-calls-could-end-the-fiscal-drag-nuvama-says/articleshow/126983458.cms
+- Netflix shares fall 4% as co-CEOs go on defensive over $83 billion Warner Bros deal
+  Netflix's decision to plunk down nearly $83 billion on Warner Bros' assets marks a significant departure from the company's long-standing mantra: build, don't buy.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/netflix-shares-fall-4-as-co-ceos-go-on-defensive-over-83-billion-warner-bros-deal/articleshow/127016644.cms
 
-- India bonds gain on growing hopes of RBI support
-  Indian government bonds drew ‍fresh buying interest on Wednesday. Traders added positions on expectations the Reserve Bank may extend its liquidity support.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-gain-on-growing-hopes-of-rbi-support/articleshow/126982797.cms
+- JPMorgan's Dimon warns of 'economic disaster' as Trump backs credit card rate cap
+  JPMorgan Chase CEO Jamie Dimon warned cap on credit card interest rates would amount to economic disaster. U.S. President Donald Trump doubled down on the idea and said he was
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/jpmorgans-dimon-warns-of-economic-disaster-as-trump-backs-credit-card-rate-cap/articleshow/127015792.cms
 
-- 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
-  'It Won't Work With India': Parag Kh
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
-
-- What is Donald Trump's ‘Board of Peace’? A deep dive into the structure and India's stance - Hindustan Times
-  &nbsp;&ngt;<font color="#6f6
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFVEWFpld1hVbi1wZkhnQ05lY25kbVFQV0FTLWRzMkVGMDNaNG52UmpXenc1WGlLOXh5MXA2X3hHNzdnbmtHT20wRDFXNUxZcHgtb2J4VHM4NktQekRSdTJBNVl1d2JmZU5pZDQ2WEY4T2gyVDZ3STd4bjNkbWtyemdvZlJJTWVNX0ZPVmRsZXBaUVRiWTJGLWFKVnkwcTJFQ0FQbHdza3F1UkctUzRDSlBlMkZmd0MzWHdMcjZnOVY0N09rWF9vSnZYWHlYaXM1RkEwdDRidUxDT0ptTzQ4Xw?oc=5
-
-- "They Were Going To Go Nuke": Trump Lists India-Pak Truce As Key Win Of 2025 - NDTV
-  "They Were Going To Go Nuke": Trump Lists India-
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmxMZUpkZy1vMzF0YUtCOWtWcUN6dGFkRDlVX3FhVnBNeVJKQ0xiZW5aelRsNmFhOWFZU1VLQmVyLW9leTZFMXhlY0FUek9ubGVzREtHdHhQQzYtV09BVGFuRTRxa2htTVNtXzMxWlJrRDg1a2ZhOFlvQkwyeUtsSkFNYXZFT3V1QUlfaElUTXdxblJ6c3BvRWo0aVU5eWVqOUJZbUhFNHNZU2k1bGtqNHUxYkx6Y3BT0gHAAUFVX3lxTFB4NG5FNEFKWXNZTDdiU1Zoa04zelJGdGxCUGdvYVl3cXM2T3RNdEdIeENHVmNqVVBYMTl4N21TTUtqd2x6S3ZHbDlGa09aYTVzNmNIaGh0RF9nbEZFZGJyclM2ZDNDazRPRFYwZjJyejQ5MXhDWmNxLV9sanNwcE9MeE44clpfUDJ1eW5RN3c0TFdONDZiNzRURUZqcjMxRlcyMXhrMW5sUEJpc1RkVktMM3JZUGU0cHQ4SGpxQXNxag?oc=5
-
-- Top News Headlines of January 19, 2026 | What will Trump do if US Supreme Court strikes down global tariffs? Top aide speaks out - The Indian Express
-  The Indian Express is a leading newspaper in India. It is based in Mumbai.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMXZ5Y0hCcVp3TXFrM1FydTdJeXRSMGtMV1hjM09vUGJKTTFzRGZtZU84MFk1eVA2d0IzZVpmU1R4aFdHYnVlREk0Q1BSZDNacHc0Vlpma0lTVEZJeHpXcXpjUDZVdzlZWDJDTU1PbFVGNlU0Ui10aWZ6RlIwYTBZOEx5c3lhaGhaSm56amUwQWF3ODNNMjZZVVJxS1BYRUIzdHVtYVRadDBKMFRnZUt2aTluMUZINzVFenF4V094TXlxY2x4WU5aZXJjMG5GZF9nMnN6b3NfSGNRYm9lMlFuLTRBVzZWMzdR0gHvAUFVX3lxTE5aM2I2aDFCVHVBMnVSV0ZnLUp1QURPQlJPZGJDOGt0aE1RaVZ6ek9RQ1VZSFRsN0R3Q0FaTTdtR2FpUTh5VE15cFJwRU1OM2VDRjNESlJQQlVhYm1kUllIaVUxeVAtZ2hhZTQ0SXpaLXlGT1hDTWdibHBzdFNzdXJ2WWVHamRFdFB0ZDFMcFJSWWdkamx0WWxHaENQVE1hOE9TVHIyM0RDS1pjaEpkajZwdEZvZUtPWmt6elJvN1JSOGFvMVRVWGpPbFBHWldfOTE3VGYxeU1OamdNcjVlUDFUX1RGaWY4OTRWZ3c2NVI0?oc=5
-
-- 'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back At IMF For Callinf India Second Tier In AI - Times of India
-  'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMUdsUW90WG9JT2VTQjdvYkpBcUd6Qzd6MHI2eWplNlJ4eXp2NTVBd3JxRHl4VHY5X3E2bEhWSUtFVDhZZkQyY2Y2X1ZteFhrdkFha0ItU09vRGdtZW5xWmt1b2xST3hYR3hhNHdVTWtxcmIyVUtROXJ1ZHZIQlEtT2FyN3FTVDVQcmJrY3dldzBWX1RyTXJzTVpKTTNXNnNqMVNOQUF4RjJwZUhGaVI5am9xSlNCOW9sbmlJWlFwMW5NMTRLZEhOZW5RWE5KVmgyVXZDZE83Q3Rkb1lmcUpGc3B6YktvamFwTUpnZU1FZW82OWd5Z2t6MWNn0gH_AUFVX3lxTE9nemxXX24wVlhFd2xtd0YzdGpuYUE4eHlxaUIweXExNzFEcmdXVlVkaGxlVEtiVkFfa1hsLWVuQnhQR0YzQ1NmS2dDaWZwVzNCOUxGOEdPa0llNmUyZ3pXeWtGZ3FWUndfSUJIRkF4MVE1bDQ2ci1FUDcxSDltMWQzZ3BjejV1OFJXYl9TLXBBeTExMnRjV3BISGVsMExXM2gycVpZYVBOSThiYjVJRXU5U1IxWWlJU2xCZ1lFUlM5bGJ6NERfNlBpRWFYMXV4bTN4TFZDSEJpNWxjWnpYOG96LWNyaVFrQlRpQ1plUG1jazZLbjRFbnhtRUl6aFZKUQ?oc=5
+- Homebuyers' body FPCE seeks interest subsidy on home loans to boost demand for affordable housing
+  FPCE has demanded that the government in the upcoming Budget provide interest subsidy on home loans.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/homebuyers-body-fpce-seeks-interest-subsidy-on-home-loans-to-boost-demand-for-affordable-housing/articleshow/127015286.cms
 
 - 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
   'It Won't Work With India': Parag Kh
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
 
-- What is Donald Trump's ‘Board of Peace’? A deep dive into the structure and India's stance - Hindustan Times
-  &nbsp;&ngt;<font color="#6f6
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFVEWFpld1hVbi1wZkhnQ05lY25kbVFQV0FTLWRzMkVGMDNaNG52UmpXenc1WGlLOXh5MXA2X3hHNzdnbmtHT20wRDFXNUxZcHgtb2J4VHM4NktQekRSdTJBNVl1d2JmZU5pZDQ2WEY4T2gyVDZ3STd4bjNkbWtyemdvZlJJTWVNX0ZPVmRsZXBaUVRiWTJGLWFKVnkwcTJFQ0FQbHdza3F1UkctUzRDSlBlMkZmd0MzWHdMcjZnOVY0N09rWF9vSnZYWHlYaXM1RkEwdDRidUxDT0ptTzQ4Xw?oc=5
+- India To Bring Back Diplomats' Families In Bangladesh Amid Security Concerns - NDTV
+  India To Bring Back Diplomats' Families In
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbFg0RGlybXQ3ZDU5VEJ4Wkh3RThfLTBzYm0taXBaWTc1Z2FCQ21KZjFscWFUb3RJaGtIXzUzOUtlamFtNDVlZmkyNmNWYkdoMy1LX3NrMUVrd1cwYW1wdHZQcnRPb1NyRkJqdW5YcnJ6V1YzNkdPMGV2M051Nk5zcmVITG4wT1FBZWluVW1LOExreWdZdUFQYzJQT1VyaEdlTUJvWUZzZWdSVUJBdWlmUmctOUNQTzRndDhOVE1jdVdxdWhjUWM3OVJFZ0Vqck0wNjlxRGROOTdNbHhZUkRtZktPcl9iMmZVWEVOT3lQS2VUeTZrNlpfYVNTNEhKc2PSAYcCQVVfeXFMTzJGT3ROLUs5Vzlib213ekRSZmVYVmJhUzFndlpfb3hnb1NJS05ySVJNSmRrenFPdXFyd0RENXlSNFdBbjFlTXNrakQxRVp3X2RXYmhTN2RrVk82enU1djZFaENReHhwTFQ1dnBHYkI4ZDZRNWxnR25qazZNeFBIb1hlQjF0N3h6NGVZX0FGdkx0UGVTOVNLUnN0TXJLT0w5ZWotLXNRYmtpOHdjYmRTRUVKbTZwandXLU95WU53VGJ2b3k3UmdhU21uaV9lSkhaWXlvVHBPTkFYMkExcl9LQ0dtaFIySGlrMjBQdmlIUnZOR3ZzRTlQeFYtQ2hrQjZlXzJrZ0t3VXM?oc=5
 
-- "They Were Going To Go Nuke": Trump Lists India-Pak Truce As Key Win Of 2025 - NDTV
-  "They Were Going To Go Nuke": Trump Lists India-
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmxMZUpkZy1vMzF0YUtCOWtWcUN6dGFkRDlVX3FhVnBNeVJKQ0xiZW5aelRsNmFhOWFZU1VLQmVyLW9leTZFMXhlY0FUek9ubGVzREtHdHhQQzYtV09BVGFuRTRxa2htTVNtXzMxWlJrRDg1a2ZhOFlvQkwyeUtsSkFNYXZFT3V1QUlfaElUTXdxblJ6c3BvRWo0aVU5eWVqOUJZbUhFNHNZU2k1bGtqNHUxYkx6Y3BT0gHAAUFVX3lxTFB4NG5FNEFKWXNZTDdiU1Zoa04zelJGdGxCUGdvYVl3cXM2T3RNdEdIeENHVmNqVVBYMTl4N21TTUtqd2x6S3ZHbDlGa09aYTVzNmNIaGh0RF9nbEZFZGJyclM2ZDNDazRPRFYwZjJyejQ5MXhDWmNxLV9sanNwcE9MeE44clpfUDJ1eW5RN3c0TFdONDZiNzRURUZqcjMxRlcyMXhrMW5sUEJpc1RkVktMM3JZUGU0cHQ4SGpxQXNxag?oc=5
+- After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian oil purchase | India News - Hindustan Times
+  After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlZkR21aTkE2SkZkY3RZRDNHYkZmWF9IcURsa29velJNSWI4elJsdTh6NHNfdEJMX1BwX1F5eFhiVktIaV9RWE1ZVF9GNkZuUEFUbXpORWlrT3ZSTEY4R3g4QkxtcnEtVU5DcmNWbTlrN2dXTHNyT0ZzYXBsY2M3X3d3S19RQUJlUmxvQzMxWmNPNUVNM0d2dGFreFpFa080WlRYeW9mVWNXLTNUSVBtcDZ0MmpmZThYbVk3eWpZMllENUhwdURmelMtZW55S0wyNjZHUUhUeDJzeGlJMUY4aXg4Y01wakxUeHNSemlyS0VqMl96aHJGWERGRmhZWi1hbXRJSTBLazZXZG_SAZACQVVfeXFMTkpoWkRRaFF4TkJpVzRqR183OGt1TDJxdjUxanJQUV9SdldKWjVBLUU4M2w2dEJSNVpSNzFnWUJ5d0V0NVNJVks0cThwMlNFMGNGTXozeGJRR0JWZ056ZTdqdWpjTlM5UTlEaTVkeVZNcWtJZWJGWHhNUzB4bkMwRjNpa21XbnV6NzQ4b0FDcWRsTkJ2ZlpfdTRqRzBRX3JaWk5XVTA2dXZXQVVJdm14aUtwYjFvUlZEUEkxaHY5YVNPUjJpRWI2c05mN0RKYXRoLXpvOEVQUUpQcW1YWFBtRWhKTkxDM25MUzRHekFoeG1XNEtDMEQxaWFxM01LVFZLNWJPd0JFOHN6dFFkZUNQOTA?oc=5
 
-- Top News Headlines of January 19, 2026 | What will Trump do if US Supreme Court strikes down global tariffs? Top aide speaks out - The Indian Express
-  The Indian Express is a leading newspaper in India. It is based in Mumbai.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMXZ5Y0hCcVp3TXFrM1FydTdJeXRSMGtMV1hjM09vUGJKTTFzRGZtZU84MFk1eVA2d0IzZVpmU1R4aFdHYnVlREk0Q1BSZDNacHc0Vlpma0lTVEZJeHpXcXpjUDZVdzlZWDJDTU1PbFVGNlU0Ui10aWZ6RlIwYTBZOEx5c3lhaGhaSm56amUwQWF3ODNNMjZZVVJxS1BYRUIzdHVtYVRadDBKMFRnZUt2aTluMUZINzVFenF4V094TXlxY2x4WU5aZXJjMG5GZF9nMnN6b3NfSGNRYm9lMlFuLTRBVzZWMzdR0gHvAUFVX3lxTE5aM2I2aDFCVHVBMnVSV0ZnLUp1QURPQlJPZGJDOGt0aE1RaVZ6ek9RQ1VZSFRsN0R3Q0FaTTdtR2FpUTh5VE15cFJwRU1OM2VDRjNESlJQQlVhYm1kUllIaVUxeVAtZ2hhZTQ0SXpaLXlGT1hDTWdibHBzdFNzdXJ2WWVHamRFdFB0ZDFMcFJSWWdkamx0WWxHaENQVE1hOE9TVHIyM0RDS1pjaEpkajZwdEZvZUtPWmt6elJvN1JSOGFvMVRVWGpPbFBHWldfOTE3VGYxeU1OamdNcjVlUDFUX1RGaWY4OTRWZ3c2NVI0?oc=5
+- Government advises kin of Indian officials in Bangladesh to return - Times of India
+  Government advises kin of Indian officials in Bangladesh to return
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTVrSmFyNzJyc21EZVA4NGx1b1NraE5VOG9mZ3R5dlhtUXhkMmgwODdiUWl1a0g3WkpuV2s3V3dEWTQ2UG1iSGNYVWZYYURoNUVVSkxfNWR6X3Q5MXJQbWRub1otSWt0TVp4S1l0SVNXNm43UVA0cG1BQmlIalFTeGlMbDJqLUd5T050bDJSM3l3U3BCTkIzTFJib2Y0Y0QxdGJscjJFaGxBSE13MWxDLVk0dnUwVmFJODlWTHJMSGdkYjB3WUhV0gHMAUFVX3lxTE1tR2pfREc5MUhnMl9pY1lld0VycWdlMF9SdVV1NzB0WWZkeHotLUJaZGJYVVVjTHFlY0Z6a0dpTHJtQW0taUFpTVk1WE53UUNWcGVIcE5rN0Z4WXdMaC11UGVjbjUySFZKOEtsbUpCOWZ2UWVnQUVSenFtejdsNlFWQWdybmNKNjRVMnlGUWt1REZjSDFzYUVqU2JGeFVyTmFYSkRycEZNcXRnWm50bEVqMkxCdmtUcV9CbS1sWmNvRDB3amtEeUlSamhxcg?oc=5
 
-- 'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back At IMF For Callinf India Second Tier In AI - Times of India
-  'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMUdsUW90WG9JT2VTQjdvYkpBcUd6Qzd6MHI2eWplNlJ4eXp2NTVBd3JxRHl4VHY5X3E2bEhWSUtFVDhZZkQyY2Y2X1ZteFhrdkFha0ItU09vRGdtZW5xWmt1b2xST3hYR3hhNHdVTWtxcmIyVUtROXJ1ZHZIQlEtT2FyN3FTVDVQcmJrY3dldzBWX1RyTXJzTVpKTTNXNnNqMVNOQUF4RjJwZUhGaVI5am9xSlNCOW9sbmlJWlFwMW5NMTRLZEhOZW5RWE5KVmgyVXZDZE83Q3Rkb1lmcUpGc3B6YktvamFwTUpnZU1FZW82OWd5Z2t6MWNn0gH_AUFVX3lxTE9nemxXX24wVlhFd2xtd0YzdGpuYUE4eHlxaUIweXExNzFEcmdXVlVkaGxlVEtiVkFfa1hsLWVuQnhQR0YzQ1NmS2dDaWZwVzNCOUxGOEdPa0llNmUyZ3pXeWtGZ3FWUndfSUJIRkF4MVE1bDQ2ci1FUDcxSDltMWQzZ3BjejV1OFJXYl9TLXBBeTExMnRjV3BISGVsMExXM2gycVpZYVBOSThiYjVJRXU5U1IxWWlJU2xCZ1lFUlM5bGJ6NERfNlBpRWFYMXV4bTN4TFZDSEJpNWxjWnpYOG96LWNyaVFrQlRpQ1plUG1jazZLbjRFbnhtRUl6aFZKUQ?oc=5
-
-- 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
-  'It Won't Work With India': Parag Kh
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
-
-- What is Donald Trump's ‘Board of Peace’? A deep dive into the structure and India's stance - Hindustan Times
-  &nbsp;&ngt;<font color="#6f6
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFVEWFpld1hVbi1wZkhnQ05lY25kbVFQV0FTLWRzMkVGMDNaNG52UmpXenc1WGlLOXh5MXA2X3hHNzdnbmtHT20wRDFXNUxZcHgtb2J4VHM4NktQekRSdTJBNVl1d2JmZU5pZDQ2WEY4T2gyVDZ3STd4bjNkbWtyemdvZlJJTWVNX0ZPVmRsZXBaUVRiWTJGLWFKVnkwcTJFQ0FQbHdza3F1UkctUzRDSlBlMkZmd0MzWHdMcjZnOVY0N09rWF9vSnZYWHlYaXM1RkEwdDRidUxDT0ptTzQ4Xw?oc=5
-
-- "They Were Going To Go Nuke": Trump Lists India-Pak Truce As Key Win Of 2025 - NDTV
-  "They Were Going To Go Nuke": Trump Lists India-
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmxMZUpkZy1vMzF0YUtCOWtWcUN6dGFkRDlVX3FhVnBNeVJKQ0xiZW5aelRsNmFhOWFZU1VLQmVyLW9leTZFMXhlY0FUek9ubGVzREtHdHhQQzYtV09BVGFuRTRxa2htTVNtXzMxWlJrRDg1a2ZhOFlvQkwyeUtsSkFNYXZFT3V1QUlfaElUTXdxblJ6c3BvRWo0aVU5eWVqOUJZbUhFNHNZU2k1bGtqNHUxYkx6Y3BT0gHAAUFVX3lxTFB4NG5FNEFKWXNZTDdiU1Zoa04zelJGdGxCUGdvYVl3cXM2T3RNdEdIeENHVmNqVVBYMTl4N21TTUtqd2x6S3ZHbDlGa09aYTVzNmNIaGh0RF9nbEZFZGJyclM2ZDNDazRPRFYwZjJyejQ5MXhDWmNxLV9sanNwcE9MeE44clpfUDJ1eW5RN3c0TFdONDZiNzRURUZqcjMxRlcyMXhrMW5sUEJpc1RkVktMM3JZUGU0cHQ4SGpxQXNxag?oc=5
-
-- Top News Headlines of January 19, 2026 | What will Trump do if US Supreme Court strikes down global tariffs? Top aide speaks out - The Indian Express
-  The Indian Express is a leading newspaper in India. It is based in Mumbai.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMXZ5Y0hCcVp3TXFrM1FydTdJeXRSMGtMV1hjM09vUGJKTTFzRGZtZU84MFk1eVA2d0IzZVpmU1R4aFdHYnVlREk0Q1BSZDNacHc0Vlpma0lTVEZJeHpXcXpjUDZVdzlZWDJDTU1PbFVGNlU0Ui10aWZ6RlIwYTBZOEx5c3lhaGhaSm56amUwQWF3ODNNMjZZVVJxS1BYRUIzdHVtYVRadDBKMFRnZUt2aTluMUZINzVFenF4V094TXlxY2x4WU5aZXJjMG5GZF9nMnN6b3NfSGNRYm9lMlFuLTRBVzZWMzdR0gHvAUFVX3lxTE5aM2I2aDFCVHVBMnVSV0ZnLUp1QURPQlJPZGJDOGt0aE1RaVZ6ek9RQ1VZSFRsN0R3Q0FaTTdtR2FpUTh5VE15cFJwRU1OM2VDRjNESlJQQlVhYm1kUllIaVUxeVAtZ2hhZTQ0SXpaLXlGT1hDTWdibHBzdFNzdXJ2WWVHamRFdFB0ZDFMcFJSWWdkamx0WWxHaENQVE1hOE9TVHIyM0RDS1pjaEpkajZwdEZvZUtPWmt6elJvN1JSOGFvMVRVWGpPbFBHWldfOTE3VGYxeU1OamdNcjVlUDFUX1RGaWY4OTRWZ3c2NVI0?oc=5
-
-- 'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back At IMF For Callinf India Second Tier In AI - Times of India
-  'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMUdsUW90WG9JT2VTQjdvYkpBcUd6Qzd6MHI2eWplNlJ4eXp2NTVBd3JxRHl4VHY5X3E2bEhWSUtFVDhZZkQyY2Y2X1ZteFhrdkFha0ItU09vRGdtZW5xWmt1b2xST3hYR3hhNHdVTWtxcmIyVUtROXJ1ZHZIQlEtT2FyN3FTVDVQcmJrY3dldzBWX1RyTXJzTVpKTTNXNnNqMVNOQUF4RjJwZUhGaVI5am9xSlNCOW9sbmlJWlFwMW5NMTRLZEhOZW5RWE5KVmgyVXZDZE83Q3Rkb1lmcUpGc3B6YktvamFwTUpnZU1FZW82OWd5Z2t6MWNn0gH_AUFVX3lxTE9nemxXX24wVlhFd2xtd0YzdGpuYUE4eHlxaUIweXExNzFEcmdXVlVkaGxlVEtiVkFfa1hsLWVuQnhQR0YzQ1NmS2dDaWZwVzNCOUxGOEdPa0llNmUyZ3pXeWtGZ3FWUndfSUJIRkF4MVE1bDQ2ci1FUDcxSDltMWQzZ3BjejV1OFJXYl9TLXBBeTExMnRjV3BISGVsMExXM2gycVpZYVBOSThiYjVJRXU5U1IxWWlJU2xCZ1lFUlM5bGJ6NERfNlBpRWFYMXV4bTN4TFZDSEJpNWxjWnpYOG96LWNyaVFrQlRpQ1plUG1jazZLbjRFbnhtRUl6aFZKUQ?oc=5
+- India’s traffic chokehold: Bengaluru ranks second; Pune fifth in global congestion index for 2025 - The Hindu
+  India's traffic chokehold: Bengaluru ranks second; Pune
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeHIzbjUtMjNIZk5pWjNDelk0SGVUUXJpQkpRZ09PZWRjb2JXUVN0Q1pCWHN2OHh1LS1xRlBEam9tY2RHcWVpTUxwYUJqQ2IyQ0ZDcnRrdE1GamxMbDRjQk1kYnk5bjViZDVDR2JjUGdxRERFVE4yTjRmVUJjMXJWSW8zMHFrWFAwdS03cWJhelF4Ri1Ya3dwMzJuM1ZMWXJYbWJhU3FmQ1pndnZCTzZBdWdWcnc2NUNKTFllMWU2NFZwYW9qbjlLbnNGNzgzaVg50gHXAUFVX3lxTFB4VExMVnhMMmxDV3FiU3JEOUV6Ym1XNWJRMS1CejlHUWFFSWhfRUNrSzJTRHVOMkxWSlk1bE9BTTNhSHlEMFdiMFlBdG8tNTA0WGlBcWJLaXFRdVhFek5LNVlhdEh3Q3A1U2hXMG5zZnQ0SS0tUkV1bExZWHpSbC1VWFNuZlBDWmdFMnc2ZmtZUnNxMHRBZUc4UTZzYVlkZ3pxQVlGemNMX2tXMHRnVDNsSWVBWGZDNEJxdzFWaDZaaE1LSDJPOUpKY3ZOVGg1ZTFFc1dkdkF3?oc=5
 
 - 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
   'It Won't Work With India': Parag Kh
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
 
-- What is Donald Trump's ‘Board of Peace’? A deep dive into the structure and India's stance - Hindustan Times
-  &nbsp;&ngt;<font color="#6f6
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFVEWFpld1hVbi1wZkhnQ05lY25kbVFQV0FTLWRzMkVGMDNaNG52UmpXenc1WGlLOXh5MXA2X3hHNzdnbmtHT20wRDFXNUxZcHgtb2J4VHM4NktQekRSdTJBNVl1d2JmZU5pZDQ2WEY4T2gyVDZ3STd4bjNkbWtyemdvZlJJTWVNX0ZPVmRsZXBaUVRiWTJGLWFKVnkwcTJFQ0FQbHdza3F1UkctUzRDSlBlMkZmd0MzWHdMcjZnOVY0N09rWF9vSnZYWHlYaXM1RkEwdDRidUxDT0ptTzQ4Xw?oc=5
+- India To Bring Back Diplomats' Families In Bangladesh Amid Security Concerns - NDTV
+  India To Bring Back Diplomats' Families In
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbFg0RGlybXQ3ZDU5VEJ4Wkh3RThfLTBzYm0taXBaWTc1Z2FCQ21KZjFscWFUb3RJaGtIXzUzOUtlamFtNDVlZmkyNmNWYkdoMy1LX3NrMUVrd1cwYW1wdHZQcnRPb1NyRkJqdW5YcnJ6V1YzNkdPMGV2M051Nk5zcmVITG4wT1FBZWluVW1LOExreWdZdUFQYzJQT1VyaEdlTUJvWUZzZWdSVUJBdWlmUmctOUNQTzRndDhOVE1jdVdxdWhjUWM3OVJFZ0Vqck0wNjlxRGROOTdNbHhZUkRtZktPcl9iMmZVWEVOT3lQS2VUeTZrNlpfYVNTNEhKc2PSAYcCQVVfeXFMTzJGT3ROLUs5Vzlib213ekRSZmVYVmJhUzFndlpfb3hnb1NJS05ySVJNSmRrenFPdXFyd0RENXlSNFdBbjFlTXNrakQxRVp3X2RXYmhTN2RrVk82enU1djZFaENReHhwTFQ1dnBHYkI4ZDZRNWxnR25qazZNeFBIb1hlQjF0N3h6NGVZX0FGdkx0UGVTOVNLUnN0TXJLT0w5ZWotLXNRYmtpOHdjYmRTRUVKbTZwandXLU95WU53VGJ2b3k3UmdhU21uaV9lSkhaWXlvVHBPTkFYMkExcl9LQ0dtaFIySGlrMjBQdmlIUnZOR3ZzRTlQeFYtQ2hrQjZlXzJrZ0t3VXM?oc=5
 
-- "They Were Going To Go Nuke": Trump Lists India-Pak Truce As Key Win Of 2025 - NDTV
-  "They Were Going To Go Nuke": Trump Lists India-
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmxMZUpkZy1vMzF0YUtCOWtWcUN6dGFkRDlVX3FhVnBNeVJKQ0xiZW5aelRsNmFhOWFZU1VLQmVyLW9leTZFMXhlY0FUek9ubGVzREtHdHhQQzYtV09BVGFuRTRxa2htTVNtXzMxWlJrRDg1a2ZhOFlvQkwyeUtsSkFNYXZFT3V1QUlfaElUTXdxblJ6c3BvRWo0aVU5eWVqOUJZbUhFNHNZU2k1bGtqNHUxYkx6Y3BT0gHAAUFVX3lxTFB4NG5FNEFKWXNZTDdiU1Zoa04zelJGdGxCUGdvYVl3cXM2T3RNdEdIeENHVmNqVVBYMTl4N21TTUtqd2x6S3ZHbDlGa09aYTVzNmNIaGh0RF9nbEZFZGJyclM2ZDNDazRPRFYwZjJyejQ5MXhDWmNxLV9sanNwcE9MeE44clpfUDJ1eW5RN3c0TFdONDZiNzRURUZqcjMxRlcyMXhrMW5sUEJpc1RkVktMM3JZUGU0cHQ4SGpxQXNxag?oc=5
+- After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian oil purchase | India News - Hindustan Times
+  After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlZkR21aTkE2SkZkY3RZRDNHYkZmWF9IcURsa29velJNSWI4elJsdTh6NHNfdEJMX1BwX1F5eFhiVktIaV9RWE1ZVF9GNkZuUEFUbXpORWlrT3ZSTEY4R3g4QkxtcnEtVU5DcmNWbTlrN2dXTHNyT0ZzYXBsY2M3X3d3S19RQUJlUmxvQzMxWmNPNUVNM0d2dGFreFpFa080WlRYeW9mVWNXLTNUSVBtcDZ0MmpmZThYbVk3eWpZMllENUhwdURmelMtZW55S0wyNjZHUUhUeDJzeGlJMUY4aXg4Y01wakxUeHNSemlyS0VqMl96aHJGWERGRmhZWi1hbXRJSTBLazZXZG_SAZACQVVfeXFMTkpoWkRRaFF4TkJpVzRqR183OGt1TDJxdjUxanJQUV9SdldKWjVBLUU4M2w2dEJSNVpSNzFnWUJ5d0V0NVNJVks0cThwMlNFMGNGTXozeGJRR0JWZ056ZTdqdWpjTlM5UTlEaTVkeVZNcWtJZWJGWHhNUzB4bkMwRjNpa21XbnV6NzQ4b0FDcWRsTkJ2ZlpfdTRqRzBRX3JaWk5XVTA2dXZXQVVJdm14aUtwYjFvUlZEUEkxaHY5YVNPUjJpRWI2c05mN0RKYXRoLXpvOEVQUUpQcW1YWFBtRWhKTkxDM25MUzRHekFoeG1XNEtDMEQxaWFxM01LVFZLNWJPd0JFOHN6dFFkZUNQOTA?oc=5
 
-- Top News Headlines of January 19, 2026 | What will Trump do if US Supreme Court strikes down global tariffs? Top aide speaks out - The Indian Express
-  The Indian Express is a leading newspaper in India. It is based in Mumbai.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMXZ5Y0hCcVp3TXFrM1FydTdJeXRSMGtMV1hjM09vUGJKTTFzRGZtZU84MFk1eVA2d0IzZVpmU1R4aFdHYnVlREk0Q1BSZDNacHc0Vlpma0lTVEZJeHpXcXpjUDZVdzlZWDJDTU1PbFVGNlU0Ui10aWZ6RlIwYTBZOEx5c3lhaGhaSm56amUwQWF3ODNNMjZZVVJxS1BYRUIzdHVtYVRadDBKMFRnZUt2aTluMUZINzVFenF4V094TXlxY2x4WU5aZXJjMG5GZF9nMnN6b3NfSGNRYm9lMlFuLTRBVzZWMzdR0gHvAUFVX3lxTE5aM2I2aDFCVHVBMnVSV0ZnLUp1QURPQlJPZGJDOGt0aE1RaVZ6ek9RQ1VZSFRsN0R3Q0FaTTdtR2FpUTh5VE15cFJwRU1OM2VDRjNESlJQQlVhYm1kUllIaVUxeVAtZ2hhZTQ0SXpaLXlGT1hDTWdibHBzdFNzdXJ2WWVHamRFdFB0ZDFMcFJSWWdkamx0WWxHaENQVE1hOE9TVHIyM0RDS1pjaEpkajZwdEZvZUtPWmt6elJvN1JSOGFvMVRVWGpPbFBHWldfOTE3VGYxeU1OamdNcjVlUDFUX1RGaWY4OTRWZ3c2NVI0?oc=5
+- Government advises kin of Indian officials in Bangladesh to return - Times of India
+  Government advises kin of Indian officials in Bangladesh to return
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTVrSmFyNzJyc21EZVA4NGx1b1NraE5VOG9mZ3R5dlhtUXhkMmgwODdiUWl1a0g3WkpuV2s3V3dEWTQ2UG1iSGNYVWZYYURoNUVVSkxfNWR6X3Q5MXJQbWRub1otSWt0TVp4S1l0SVNXNm43UVA0cG1BQmlIalFTeGlMbDJqLUd5T050bDJSM3l3U3BCTkIzTFJib2Y0Y0QxdGJscjJFaGxBSE13MWxDLVk0dnUwVmFJODlWTHJMSGdkYjB3WUhV0gHMAUFVX3lxTE1tR2pfREc5MUhnMl9pY1lld0VycWdlMF9SdVV1NzB0WWZkeHotLUJaZGJYVVVjTHFlY0Z6a0dpTHJtQW0taUFpTVk1WE53UUNWcGVIcE5rN0Z4WXdMaC11UGVjbjUySFZKOEtsbUpCOWZ2UWVnQUVSenFtejdsNlFWQWdybmNKNjRVMnlGUWt1REZjSDFzYUVqU2JGeFVyTmFYSkRycEZNcXRnWm50bEVqMkxCdmtUcV9CbS1sWmNvRDB3amtEeUlSamhxcg?oc=5
 
-- 'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back At IMF For Callinf India Second Tier In AI - Times of India
-  'Stanford Ranks Us Third': Ashwini Vaishnaw Fires Back
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMUdsUW90WG9JT2VTQjdvYkpBcUd6Qzd6MHI2eWplNlJ4eXp2NTVBd3JxRHl4VHY5X3E2bEhWSUtFVDhZZkQyY2Y2X1ZteFhrdkFha0ItU09vRGdtZW5xWmt1b2xST3hYR3hhNHdVTWtxcmIyVUtROXJ1ZHZIQlEtT2FyN3FTVDVQcmJrY3dldzBWX1RyTXJzTVpKTTNXNnNqMVNOQUF4RjJwZUhGaVI5am9xSlNCOW9sbmlJWlFwMW5NMTRLZEhOZW5RWE5KVmgyVXZDZE83Q3Rkb1lmcUpGc3B6YktvamFwTUpnZU1FZW82OWd5Z2t6MWNn0gH_AUFVX3lxTE9nemxXX24wVlhFd2xtd0YzdGpuYUE4eHlxaUIweXExNzFEcmdXVlVkaGxlVEtiVkFfa1hsLWVuQnhQR0YzQ1NmS2dDaWZwVzNCOUxGOEdPa0llNmUyZ3pXeWtGZ3FWUndfSUJIRkF4MVE1bDQ2ci1FUDcxSDltMWQzZ3BjejV1OFJXYl9TLXBBeTExMnRjV3BISGVsMExXM2gycVpZYVBOSThiYjVJRXU5U1IxWWlJU2xCZ1lFUlM5bGJ6NERfNlBpRWFYMXV4bTN4TFZDSEJpNWxjWnpYOG96LWNyaVFrQlRpQ1plUG1jazZLbjRFbnhtRUl6aFZKUQ?oc=5
+- India’s traffic chokehold: Bengaluru ranks second; Pune fifth in global congestion index for 2025 - The Hindu
+  India's traffic chokehold: Bengaluru ranks second; Pune
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeHIzbjUtMjNIZk5pWjNDelk0SGVUUXJpQkpRZ09PZWRjb2JXUVN0Q1pCWHN2OHh1LS1xRlBEam9tY2RHcWVpTUxwYUJqQ2IyQ0ZDcnRrdE1GamxMbDRjQk1kYnk5bjViZDVDR2JjUGdxRERFVE4yTjRmVUJjMXJWSW8zMHFrWFAwdS03cWJhelF4Ri1Ya3dwMzJuM1ZMWXJYbWJhU3FmQ1pndnZCTzZBdWdWcnc2NUNKTFllMWU2NFZwYW9qbjlLbnNGNzgzaVg50gHXAUFVX3lxTFB4VExMVnhMMmxDV3FiU3JEOUV6Ym1XNWJRMS1CejlHUWFFSWhfRUNrSzJTRHVOMkxWSlk1bE9BTTNhSHlEMFdiMFlBdG8tNTA0WGlBcWJLaXFRdVhFek5LNVlhdEh3Q3A1U2hXMG5zZnQ0SS0tUkV1bExZWHpSbC1VWFNuZlBDWmdFMnc2ZmtZUnNxMHRBZUc4UTZzYVlkZ3pxQVlGemNMX2tXMHRnVDNsSWVBWGZDNEJxdzFWaDZaaE1LSDJPOUpKY3ZOVGg1ZTFFc1dkdkF3?oc=5
+
+- 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
+  'It Won't Work With India': Parag Kh
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
+
+- India To Bring Back Diplomats' Families In Bangladesh Amid Security Concerns - NDTV
+  India To Bring Back Diplomats' Families In
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbFg0RGlybXQ3ZDU5VEJ4Wkh3RThfLTBzYm0taXBaWTc1Z2FCQ21KZjFscWFUb3RJaGtIXzUzOUtlamFtNDVlZmkyNmNWYkdoMy1LX3NrMUVrd1cwYW1wdHZQcnRPb1NyRkJqdW5YcnJ6V1YzNkdPMGV2M051Nk5zcmVITG4wT1FBZWluVW1LOExreWdZdUFQYzJQT1VyaEdlTUJvWUZzZWdSVUJBdWlmUmctOUNQTzRndDhOVE1jdVdxdWhjUWM3OVJFZ0Vqck0wNjlxRGROOTdNbHhZUkRtZktPcl9iMmZVWEVOT3lQS2VUeTZrNlpfYVNTNEhKc2PSAYcCQVVfeXFMTzJGT3ROLUs5Vzlib213ekRSZmVYVmJhUzFndlpfb3hnb1NJS05ySVJNSmRrenFPdXFyd0RENXlSNFdBbjFlTXNrakQxRVp3X2RXYmhTN2RrVk82enU1djZFaENReHhwTFQ1dnBHYkI4ZDZRNWxnR25qazZNeFBIb1hlQjF0N3h6NGVZX0FGdkx0UGVTOVNLUnN0TXJLT0w5ZWotLXNRYmtpOHdjYmRTRUVKbTZwandXLU95WU53VGJ2b3k3UmdhU21uaV9lSkhaWXlvVHBPTkFYMkExcl9LQ0dtaFIySGlrMjBQdmlIUnZOR3ZzRTlQeFYtQ2hrQjZlXzJrZ0t3VXM?oc=5
+
+- After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian oil purchase | India News - Hindustan Times
+  After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlZkR21aTkE2SkZkY3RZRDNHYkZmWF9IcURsa29velJNSWI4elJsdTh6NHNfdEJMX1BwX1F5eFhiVktIaV9RWE1ZVF9GNkZuUEFUbXpORWlrT3ZSTEY4R3g4QkxtcnEtVU5DcmNWbTlrN2dXTHNyT0ZzYXBsY2M3X3d3S19RQUJlUmxvQzMxWmNPNUVNM0d2dGFreFpFa080WlRYeW9mVWNXLTNUSVBtcDZ0MmpmZThYbVk3eWpZMllENUhwdURmelMtZW55S0wyNjZHUUhUeDJzeGlJMUY4aXg4Y01wakxUeHNSemlyS0VqMl96aHJGWERGRmhZWi1hbXRJSTBLazZXZG_SAZACQVVfeXFMTkpoWkRRaFF4TkJpVzRqR183OGt1TDJxdjUxanJQUV9SdldKWjVBLUU4M2w2dEJSNVpSNzFnWUJ5d0V0NVNJVks0cThwMlNFMGNGTXozeGJRR0JWZ056ZTdqdWpjTlM5UTlEaTVkeVZNcWtJZWJGWHhNUzB4bkMwRjNpa21XbnV6NzQ4b0FDcWRsTkJ2ZlpfdTRqRzBRX3JaWk5XVTA2dXZXQVVJdm14aUtwYjFvUlZEUEkxaHY5YVNPUjJpRWI2c05mN0RKYXRoLXpvOEVQUUpQcW1YWFBtRWhKTkxDM25MUzRHekFoeG1XNEtDMEQxaWFxM01LVFZLNWJPd0JFOHN6dFFkZUNQOTA?oc=5
+
+- Government advises kin of Indian officials in Bangladesh to return - Times of India
+  Government advises kin of Indian officials in Bangladesh to return
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTVrSmFyNzJyc21EZVA4NGx1b1NraE5VOG9mZ3R5dlhtUXhkMmgwODdiUWl1a0g3WkpuV2s3V3dEWTQ2UG1iSGNYVWZYYURoNUVVSkxfNWR6X3Q5MXJQbWRub1otSWt0TVp4S1l0SVNXNm43UVA0cG1BQmlIalFTeGlMbDJqLUd5T050bDJSM3l3U3BCTkIzTFJib2Y0Y0QxdGJscjJFaGxBSE13MWxDLVk0dnUwVmFJODlWTHJMSGdkYjB3WUhV0gHMAUFVX3lxTE1tR2pfREc5MUhnMl9pY1lld0VycWdlMF9SdVV1NzB0WWZkeHotLUJaZGJYVVVjTHFlY0Z6a0dpTHJtQW0taUFpTVk1WE53UUNWcGVIcE5rN0Z4WXdMaC11UGVjbjUySFZKOEtsbUpCOWZ2UWVnQUVSenFtejdsNlFWQWdybmNKNjRVMnlGUWt1REZjSDFzYUVqU2JGeFVyTmFYSkRycEZNcXRnWm50bEVqMkxCdmtUcV9CbS1sWmNvRDB3amtEeUlSamhxcg?oc=5
+
+- India’s traffic chokehold: Bengaluru ranks second; Pune fifth in global congestion index for 2025 - The Hindu
+  India's traffic chokehold: Bengaluru ranks second; Pune
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeHIzbjUtMjNIZk5pWjNDelk0SGVUUXJpQkpRZ09PZWRjb2JXUVN0Q1pCWHN2OHh1LS1xRlBEam9tY2RHcWVpTUxwYUJqQ2IyQ0ZDcnRrdE1GamxMbDRjQk1kYnk5bjViZDVDR2JjUGdxRERFVE4yTjRmVUJjMXJWSW8zMHFrWFAwdS03cWJhelF4Ri1Ya3dwMzJuM1ZMWXJYbWJhU3FmQ1pndnZCTzZBdWdWcnc2NUNKTFllMWU2NFZwYW9qbjlLbnNGNzgzaVg50gHXAUFVX3lxTFB4VExMVnhMMmxDV3FiU3JEOUV6Ym1XNWJRMS1CejlHUWFFSWhfRUNrSzJTRHVOMkxWSlk1bE9BTTNhSHlEMFdiMFlBdG8tNTA0WGlBcWJLaXFRdVhFek5LNVlhdEh3Q3A1U2hXMG5zZnQ0SS0tUkV1bExZWHpSbC1VWFNuZlBDWmdFMnc2ZmtZUnNxMHRBZUc4UTZzYVlkZ3pxQVlGemNMX2tXMHRnVDNsSWVBWGZDNEJxdzFWaDZaaE1LSDJPOUpKY3ZOVGg1ZTFFc1dkdkF3?oc=5
+
+- 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
+  'It Won't Work With India': Parag Kh
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
+
+- India To Bring Back Diplomats' Families In Bangladesh Amid Security Concerns - NDTV
+  India To Bring Back Diplomats' Families In
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbFg0RGlybXQ3ZDU5VEJ4Wkh3RThfLTBzYm0taXBaWTc1Z2FCQ21KZjFscWFUb3RJaGtIXzUzOUtlamFtNDVlZmkyNmNWYkdoMy1LX3NrMUVrd1cwYW1wdHZQcnRPb1NyRkJqdW5YcnJ6V1YzNkdPMGV2M051Nk5zcmVITG4wT1FBZWluVW1LOExreWdZdUFQYzJQT1VyaEdlTUJvWUZzZWdSVUJBdWlmUmctOUNQTzRndDhOVE1jdVdxdWhjUWM3OVJFZ0Vqck0wNjlxRGROOTdNbHhZUkRtZktPcl9iMmZVWEVOT3lQS2VUeTZrNlpfYVNTNEhKc2PSAYcCQVVfeXFMTzJGT3ROLUs5Vzlib213ekRSZmVYVmJhUzFndlpfb3hnb1NJS05ySVJNSmRrenFPdXFyd0RENXlSNFdBbjFlTXNrakQxRVp3X2RXYmhTN2RrVk82enU1djZFaENReHhwTFQ1dnBHYkI4ZDZRNWxnR25qazZNeFBIb1hlQjF0N3h6NGVZX0FGdkx0UGVTOVNLUnN0TXJLT0w5ZWotLXNRYmtpOHdjYmRTRUVKbTZwandXLU95WU53VGJ2b3k3UmdhU21uaV9lSkhaWXlvVHBPTkFYMkExcl9LQ0dtaFIySGlrMjBQdmlIUnZOR3ZzRTlQeFYtQ2hrQjZlXzJrZ0t3VXM?oc=5
+
+- After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian oil purchase | India News - Hindustan Times
+  After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlZkR21aTkE2SkZkY3RZRDNHYkZmWF9IcURsa29velJNSWI4elJsdTh6NHNfdEJMX1BwX1F5eFhiVktIaV9RWE1ZVF9GNkZuUEFUbXpORWlrT3ZSTEY4R3g4QkxtcnEtVU5DcmNWbTlrN2dXTHNyT0ZzYXBsY2M3X3d3S19RQUJlUmxvQzMxWmNPNUVNM0d2dGFreFpFa080WlRYeW9mVWNXLTNUSVBtcDZ0MmpmZThYbVk3eWpZMllENUhwdURmelMtZW55S0wyNjZHUUhUeDJzeGlJMUY4aXg4Y01wakxUeHNSemlyS0VqMl96aHJGWERGRmhZWi1hbXRJSTBLazZXZG_SAZACQVVfeXFMTkpoWkRRaFF4TkJpVzRqR183OGt1TDJxdjUxanJQUV9SdldKWjVBLUU4M2w2dEJSNVpSNzFnWUJ5d0V0NVNJVks0cThwMlNFMGNGTXozeGJRR0JWZ056ZTdqdWpjTlM5UTlEaTVkeVZNcWtJZWJGWHhNUzB4bkMwRjNpa21XbnV6NzQ4b0FDcWRsTkJ2ZlpfdTRqRzBRX3JaWk5XVTA2dXZXQVVJdm14aUtwYjFvUlZEUEkxaHY5YVNPUjJpRWI2c05mN0RKYXRoLXpvOEVQUUpQcW1YWFBtRWhKTkxDM25MUzRHekFoeG1XNEtDMEQxaWFxM01LVFZLNWJPd0JFOHN6dFFkZUNQOTA?oc=5
+
+- Government advises kin of Indian officials in Bangladesh to return - Times of India
+  Government advises kin of Indian officials in Bangladesh to return
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTVrSmFyNzJyc21EZVA4NGx1b1NraE5VOG9mZ3R5dlhtUXhkMmgwODdiUWl1a0g3WkpuV2s3V3dEWTQ2UG1iSGNYVWZYYURoNUVVSkxfNWR6X3Q5MXJQbWRub1otSWt0TVp4S1l0SVNXNm43UVA0cG1BQmlIalFTeGlMbDJqLUd5T050bDJSM3l3U3BCTkIzTFJib2Y0Y0QxdGJscjJFaGxBSE13MWxDLVk0dnUwVmFJODlWTHJMSGdkYjB3WUhV0gHMAUFVX3lxTE1tR2pfREc5MUhnMl9pY1lld0VycWdlMF9SdVV1NzB0WWZkeHotLUJaZGJYVVVjTHFlY0Z6a0dpTHJtQW0taUFpTVk1WE53UUNWcGVIcE5rN0Z4WXdMaC11UGVjbjUySFZKOEtsbUpCOWZ2UWVnQUVSenFtejdsNlFWQWdybmNKNjRVMnlGUWt1REZjSDFzYUVqU2JGeFVyTmFYSkRycEZNcXRnWm50bEVqMkxCdmtUcV9CbS1sWmNvRDB3amtEeUlSamhxcg?oc=5
+
+- India’s traffic chokehold: Bengaluru ranks second; Pune fifth in global congestion index for 2025 - The Hindu
+  India's traffic chokehold: Bengaluru ranks second; Pune
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeHIzbjUtMjNIZk5pWjNDelk0SGVUUXJpQkpRZ09PZWRjb2JXUVN0Q1pCWHN2OHh1LS1xRlBEam9tY2RHcWVpTUxwYUJqQ2IyQ0ZDcnRrdE1GamxMbDRjQk1kYnk5bjViZDVDR2JjUGdxRERFVE4yTjRmVUJjMXJWSW8zMHFrWFAwdS03cWJhelF4Ri1Ya3dwMzJuM1ZMWXJYbWJhU3FmQ1pndnZCTzZBdWdWcnc2NUNKTFllMWU2NFZwYW9qbjlLbnNGNzgzaVg50gHXAUFVX3lxTFB4VExMVnhMMmxDV3FiU3JEOUV6Ym1XNWJRMS1CejlHUWFFSWhfRUNrSzJTRHVOMkxWSlk1bE9BTTNhSHlEMFdiMFlBdG8tNTA0WGlBcWJLaXFRdVhFek5LNVlhdEh3Q3A1U2hXMG5zZnQ0SS0tUkV1bExZWHpSbC1VWFNuZlBDWmdFMnc2ZmtZUnNxMHRBZUc4UTZzYVlkZ3pxQVlGemNMX2tXMHRnVDNsSWVBWGZDNEJxdzFWaDZaaE1LSDJPOUpKY3ZOVGg1ZTFFc1dkdkF3?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-21 12:42:10 UTC_
+_Last updated: 2026-01-21 18:40:02 UTC_
