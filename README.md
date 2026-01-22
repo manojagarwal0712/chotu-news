@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Felling of 17,625 trees was cleared for 13 Chardham stretches: Centre to NGT
+- 2026 Republic Day parade: Ministry of Culture to unveil a ‘moving archive’ to showcase 150 years of Vande Mataram
   
-  🔗 https://indianexpress.com/article/india/felling-of-17625-trees-was-cleared-for-13-chardham-stretches-centre-to-ngt-10487836/
+  🔗 https://indianexpress.com/article/india/2026-republic-day-parade-ministry-of-culture-to-unveil-a-moving-archive-to-showcase-150-years-of-vande-mataram-10488271/
 
-- Venezuela ex-envoy Y K Sinha is guest at Explained.Live today
+- On camera, Manipur man pleads before being shot dead, video carries chilling message
   
-  🔗 https://indianexpress.com/article/india/venezuela-ex-envoy-y-k-sinha-is-guest-at-explained-live-today-10487810/
+  🔗 https://indianexpress.com/article/india/man-from-valley-shot-dead-in-churachandpur-video-manipur-10488056/
 
-- Need robust military… look at Venezuela, Iraq: IAF chief
+- PM Modi to visit Kerala on Jan 23, flag off four new trains including 3 Amrit Bharat Express – check routes
   
-  🔗 https://indianexpress.com/article/india/need-robust-military-look-at-venezuela-iraq-iaf-chief-10487803/
+  🔗 https://indianexpress.com/article/india/pm-modi-visit-kerala-jan-23-flag-off-new-trains-3-amrit-bharat-express-routes-10486989/
 
-- First ‘Made in India’ C-295 aircraft to roll out before September: EAM Jaishankar
+- Ticket policy to luggage rules: India’s 1st Vande Bharat Sleeper train starts today – 5 things passengers must know
   
-  🔗 https://indianexpress.com/article/india/first-made-in-india-c-295-aircraft-to-roll-out-before-september-eam-jaishankar-10487824/
+  🔗 https://indianexpress.com/article/india/ticket-policy-luggage-rules-kamakhya-howrah-vande-bharat-sleeper-starts-5-things-to-know-10487207/
 
-- I-PAC said it got Rs 13.5-cr loan from Rohtak firm — company doesn’t exist
+- News Today Live Updates, 22 January | BMC race: How categories and caste line up for Mumbai’s mayoral lottery today
   
-  🔗 https://indianexpress.com/article/india/i-pac-said-it-got-rs-13-5-cr-loan-from-rohtak-firm-company-doesnt-exist-10487796/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-01-22-2026-news-headlines-10487938/
+
+- Apple prepares next-gen AI-powered Siri with chatbot features: Report
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-prepares-next-gen-ai-powered-siri-with-chatbot-features-report-10488200/
 
 - What a giant 600-year-old shipwreck tells us about medieval Europe
   
@@ -36,189 +40,185 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/intel-results-to-spotlight-turnaround-efforts-as-ai-data-centers-boost-chip-demand-10487362/
 
-- Adobe Acrobat now lets users turn PDFs into Notebook LM-style podcasts using AI
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/adobe-acrobat-turn-pdfs-into-ai-podcasts-10487303/
+- General Atlantic invests in Gujarat-based Balaji Wafers for undisclosed sum
+  There is significant growth potential in India’s packaged snacks market, says General Atlantic.
+  🔗 https://www.livemint.com/companies/news/general-atlantic-stake-in-balaji-wafers-snacking-market-india-fmcg-11769058231200.html
 
-- TikTok Gets Reprieve in Canada After Court Shelves Ban Order
-  TikTok will be able to continue operating its subsidiary in Canada for now. A previous order for it to wind down its operations in
-  🔗 https://www.livemint.com/companies/tiktok-gets-reprieve-in-canada-after-court-shelves-ban-order-11769030405326.html
+- Deepinder Goyal resigns as Zomato CEO — Check his net worth, salary, education, family
+  Deepinder Goyal says he is shifting focus to his other ventures. Goyal: "Exploration and experimentation beyond
+  🔗 https://www.livemint.com/companies/people/deepinder-goyal-resigns-as-zomato-ceo-check-his-net-worth-salary-education-family-11769057427363.html
 
-- World sees India through Bengaluru: DK Shivakumar
-  World sees
-  🔗 https://www.livemint.com/companies/world-sees-india-through-bengaluru-dk-shivakumar-11769022092254.html
+- Anand Mahindra calls Blackstone CEO's India praise ‘massive news, even by Davos standards’ — Here's why
+  Blackstone CEO Steve Schwarzman had earlier hailed India as the company's number one business. An
+  🔗 https://www.livemint.com/companies/people/anand-mahindra-calls-blackstone-ceos-india-praise-massive-news-even-by-davos-standards-heres-why-11769055718736.html
 
-- L&amp;T bets $1 bn on inhouse forte to face Tata, Adani, Reliance in AI data centres
-  Larsen and Toubro Ltd believes end-to-end ownership will allow it to offer some of the cheapest services to clients.
-  🔗 https://www.livemint.com/companies/lt-tata-adani-reliance-ai-data-centres-11768998685257.html
+- JSW Steel Q3 preview: Import curbs lift stock, but earnings seen under pressure
+  The domestic market leader saw the prices of its product fall to an absolute low during the October-December quarter. JSW Steel shares rose 5.7% since 30 December, outper
+  🔗 https://www.livemint.com/companies/news/jsw-steel-q3-earnings-preview-jsw-steel-stock-steel-prices-india-11769047894927.html
 
-- Dr Reddy’s net profit beats estimates despite 14% dip, set for India semaglutide launch
-  The firm’s revenue grew nearly 4.4% year-on-year but declined marginally sequentially by 0
-  🔗 https://www.livemint.com/companies/dr-reddy-s-net-profit-beats-estimates-despite-14-dip-set-for-india-semaglutide-11768997007304.html
+- Ubisoft shake-up: 6 Games scrapped, studios closed, and ‘Sands of Time’ remake killed in massive reset
+   Ubisoft has announced a restructuring that includes the cancellation of 6 games, including ‘Prince of Persia: The Sands of Time Remake’, and the closure of studios
+  🔗 https://www.livemint.com/companies/news/ubisoft-shake-up-6-games-scrapped-studios-closed-and-sands-of-time-remake-killed-in-massive-reset-11769049964914.html
 
-- Dalmia Bharat Q3 profit declines 46% as cement prices fall in east, south
-   weak demand, price corrections after GST rationalization and rising costs weighed on earnings. Company flagged early signs
-  🔗 https://www.livemint.com/companies/company-results/dalmia-bharat-q3-profit-declines-46-as-cement-prices-fall-in-east-south-11769002093989.html
+- Silver ETFs crash up to 24% as MCX silver rate eases 4% — What explains this divergence?
+  Tata Silver ETF on MCX crashed almost 24% to  ₹25.56 today. Edelweiss Silver ETF and Mirae Asset plunged 22% each. 360 ONE Silver ETF lost 21%, and
+  🔗 https://www.livemint.com/market/commodities/silver-etfs-crash-up-to-24-as-mcx-silver-rate-eases-4-what-explains-this-divergence-11769062166855.html
 
-- Q3 results 2026: IndiGo, Zee, Bandhan Bank to Coforge - 58 companies to declare earnings today; check full list
-  Adani Total Gas, Adani Energy Solutions, Aditya Birla Sun Life AMC, Bandhan Bank, Coforge, Cyient, DLF, Ideaforge Technology,
-  🔗 https://www.livemint.com/market/stock-market-news/q3-results-2026-indigo-zee-bandhan-bank-to-coforge-58-companies-to-declare-earnings-today-check-full-list-11769015323439.html
+- Budget 2026: Four infra stocks showing technical promise amid capex hopes
+  As the Union Budget 2026 approaches, the infrastructure sector is buzzing
+  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-infrastructure-stocks-ankush-bajaj-sensex-nifty-l-t-rvnl-ultratech-cement-irb-infrastructure-11769058858696.html
 
-- Stock recommendations for 22 January from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 22 January. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-22-january-marketsmith-india-sensex-nifty-outlook-trade-set-up-11768997714471.html
+- Zee Entertainment shares jump 4% ahead of Q3 results, look set to snap 4-day losing streak
+  Zee Entertainment Enterprises share price jumped as much as 4% in intraday trade on the BSE on
+  🔗 https://www.livemint.com/market/stock-market-news/zee-entertainment-shares-jump-4-ahead-of-q3-results-look-set-to-snap-4-day-losing-streak-11769061061795.html
 
-- Budget 2026: Raja Venkatraman shares his top oil and gas stock picks
-  Market expert Raja Venkatraman shares his top oil and gas stocks to buy in the run-up to the Budget
-  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-raja-venkatraman-shares-his-top-oil-and-gas-stock-picks-11769005952968.html
+- Share India declares board meeting date to announce Q3 results 2026, third interim dividend
+  The company reported slight growth in Q2 FY26 but a decrease compared to last year. Share India's board will meet on January 27, 2026, to approve Q3 results
+  🔗 https://www.livemint.com/market/stock-market-news/share-india-declares-board-meeting-date-to-announce-q3-results-2026-third-interim-dividend-11769060231246.html
 
-- Buy or sell: Vaishali Parekh recommends three intraday stocks to buy today — 22 January 2026
-  Vaishali Parekh recommends three intraday stocks to
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-22-january-2026-11769014841706.html
+- Ray Dalio bullish on gold despite silver price rally outshining gold rates
+  Dalio said that during times of conflicts and international geopolitical conflicts, even allies do not want to hold each other's debt.
+  🔗 https://www.livemint.com/market/commodities/ray-dalio-bullish-on-gold-despite-silver-price-rally-outshining-gold-rates-11769057794218.html
 
-- Europe Stocks Steady as Trump Rules Out Force to Take Greenland
-  European shares erase declines after US President Donald Trump said he won't use excessive
-  🔗 https://www.livemint.com/market/europe-stocks-steady-as-trump-rules-out-force-to-take-greenland-11769020560750.html
+- Clone yourself: YouTube plans to let creators make Shorts using their own AI digital twin
+  YouTube plans to allow creators to use their likeness in Shorts. Company hasn't announced a launch date for the feature yet.
+  🔗 https://www.livemint.com/technology/tech-news/clone-yourself-youtube-plans-to-let-creators-make-shorts-using-their-own-ai-digital-twin-11769051594652.html
+
+- These headphones from Sony, JBL, Bose and more stand out during the Amazon Great Republic Day Sale 2026
+  This Amazon sale brings attention to headphones that balance sound quality, comfort and battery life. They're suitable for music, work calls,
+  🔗 https://www.livemint.com/technology/gadgets/these-headphones-from-sony-jbl-bose-and-more-stand-out-during-the-amazon-great-republic-day-sale-2026-11768981786610.html
+
+- Your iPhone is about to change: Apple reportedly working to replace Siri with a Gemini-powered chatbot
+  Apple is reportedly working on developing Siri into a full fledged AI chatbot. The new chatbot could replace the current Siri interface and release with the iOS 27 update
+  🔗 https://www.livemint.com/technology/tech-news/your-iphone-is-about-to-change-apple-reportedly-working-to-replace-siri-with-a-gemini-powered-chatbot-11769045336209.html
+
+- Forget OpenAI, Apple may be working on its own AI Pin: here’s what’s leaked so far
+  Apple is reportedly developing an AI Pin to take on OpenAI. The device is said to be the size to an AirTag while featuring multiple cameras, microphones, and a speaker. It is
+  🔗 https://www.livemint.com/technology/tech-news/forget-openai-apple-may-be-working-on-its-own-ai-pin-here-s-what-s-leaked-so-far-11769042922429.html
 
 - Microsoft 365 down: Several users report outages with Outlook and Teams
   Microsoft 365 experienced a significant outage on Wednesday. Issues with Teams and Outlook were reported, with over 4,000 disruptions noted on Downdetector.
   🔗 https://www.livemint.com/technology/microsoft-365-down-several-users-report-outage-with-outlook-and-teams-11769016809096.html
 
-- AI, telecom infra vital for each other, concerns remain on AI-based systems impact: Trai Chair
-  AI, telecom infra vital for each other,
-  🔗 https://www.livemint.com/technology/ai-telecom-infra-vital-for-each-other-concerns-remain-on-ai-based-systems-impact-trai-chair-11769015269295.html
-
-- Motorola Signature first impressions: A sleek new flagship with big ambitions
-  Motorola's Signature boasts a 165Hz AMOLED display, Snapdragon 8 Gen 5 processor, and a triple camera system. The
-  🔗 https://www.livemint.com/technology/tech-reviews/motorola-signature-first-impressions-a-sleek-new-flagship-with-big-ambitions-11769004489299.html
-
-- Are Yahoo Mail and Aol down? Thousands of users report issues in the US
-  On Tuesday, Downdetector reported widespread access problems for
-  🔗 https://www.livemint.com/technology/tech-news/are-yahoo-mail-and-aol-down-thousands-of-users-report-issues-in-the-us-11769009424877.html
-
-- Last 2 days to avail price drop deals on gaming laptops from Asus, Lenovo and more
-  Only two days left to grab gaming laptops at reduced prices. Asus, Lenovo, and more are seeing rare price drops.
-  🔗 https://www.livemint.com/technology/gadgets/last-2-days-to-avail-price-drop-deals-on-gaming-laptops-from-asus-lenovo-and-more-11768979748154.html
-
-- Stock Market Today: Dow Gains 200 Points After Trump Speech — Live Updates - The Wall Street Journal
-  The Wall Street Journal reports that the Dow rose 200 points after Trump's
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxPdUpkS1ZMMFhEeW1aNDRzWHBRUW9mdzB2eWtuZGh2TjVvR29uRmJSNzJKejJLY1dMaHhNdkhiWEVXa1hjNmRyYzg3TGRLUTU4bVFlY2pKSDNsdVZMUTBXV1R1QzUxRG80YXF2WFNuQ182QkxuZi1oalloSGEwY1J3em5INGxiX09fMjdIU2gzT25UMWs?oc=5
-
 - S&P 500 pops 1%, Dow surges nearly 600 points as Trump calls off Europe tariffs tied to Greenland - CNBC
   The Dow surges nearly 600 points as Trump calls off Europe tariffs tied to Greenland.
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBNVHI3eFBkQ2hOOEZFSl9PdUkxRmp0c2FnbmIzTnhpRkw3d1NWQ21IdlNSeDhnMkdYNFhpcDFkd2ZDWTdUMHVKS21OeWVXZkZQMUtTenlQamxvWWhOMDRkSExfWGhtTGt0RWRleFpCS1BLY0pwTTVr0gF8QVVfeXFMUHdxZWYtQmdiWGtCSlJjbGpCRVdJSko2R2NWZlZzTEZ6QmpWVkZTRi14RlBRRy1seHRMM1o3Vy10MkQ4Vy1yVEE0bThaaGs3X2h6c1hLdV9mUGxWWkV1VDRMTkVqVzJFbHZocG4tc25PVmtsRXdRdFNrWV9nMQ?oc=5
 
-- Tokyo Looks to Rev Up IPO Market by Luring Startups Across Asia - Bloomberg.com
-  Tokyo Looks to Rev Up IPO Market by L
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZmk3OW9iR0ZmOEFPcG1rMHFrU1JXT3ktRW9hZ2ZaUkw5WER1UUt2MGEwc0NJQ0l4ZUZZZFdRU1lzeDQxZG9Nb2JBdEpEem9xVlY4UE9SQVRwZGpkaUswbElNUG8yMlJsakhVZnlSaDExRjRsVVpUT040M05UMEtIMmpHeEZqaHVFVHR0bmt3aGdlcjFaUmhzNzlNc2VPZWZGUXROT0dfMlZkNXhIOXRLY09SQ1g?oc=5
+- Stock Market News, Jan. 21, 2026: Dow Jumps After Trump Calls Off New Tariffs on Europe - The Wall Street Journal
+  The Wall Street Journal published an article on Jan. 21, 2026. The article
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxPdUpkS1ZMMFhEeW1aNDRzWHBRUW9mdzB2eWtuZGh2TjVvR29uRmJSNzJKejJLY1dMaHhNdkhiWEVXa1hjNmRyYzg3TGRLUTU4bVFlY2pKSDNsdVZMUTBXV1R1QzUxRG80YXF2WFNuQ182QkxuZi1oalloSGEwY1J3em5INGxiX09fMjdIU2gzT25UMWs?oc=5
 
-- South Korea’s Kospi Tops 5,000 as AI Demand Fuels Market Surge - Bloomberg.com
-  South Korea’s Kospi T
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXFlazNmdTFmUzNjMFZmSm5ieC1FRTB3bURNVW5ReDIyOHRtR1IzNFN0aVVJQ1k2aGFZNTFmZ2tOdDlzS1hwQjBvRjdSdDE2YTh6MHlvV3o2bjJWQU5QM1lkbW1ZNXh0NXlnQ0dyUjhsQkpxVkFWVzR1RjljVTNvVF8yby1QNEJRajZ2VURuS3JtY25jX3RQNFZVVmM0WjdfanFjTzVvUmpNSEoxdXRCUHhBOA?oc=5
+- London Set to Test if its IPO Market Reforms Can Deliver Results - Bloomberg.com
+  London Set to Test if its IPO Market Reforms
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPVE9ZRkNYelJDYUlWUEZYdmFqR2ItUDlvWG5ybkk3WVRIVXNPYVRVeFBNTXhneUt3U0Z3QUUyc0JiSElWMHRaSV9OTmhHdm05MG4xcUlYTHk2eEpLUlhKdnNHbzFCSDU4aFhVMzd5MXB2MTB2cUR0VGJibEJVaHl4eWVrX3JSZlhYWEQyMXN0ZDRGTko4OGlZbVVaZTRtYnQ3OUp1OS1xWF81M2VMTkJ0WVUtUWRyUQ?oc=5
 
-- Jim Cramer says Trump-fueled market volatility once again proves to be a buying opportunity - CNBC
-  Jim Cramer says Trump-fueled market volatility once again
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzgteXppaVpTa1Rta2czQnFySkRtQWVLemZRM3M4aVViNzVfX0Mtd0Zsa0FPcElpUTVpOGFWVWlxbng4R0J5S3ZCQW90VFdyZFNWdmZkRnhXZmdLOG5XWGhDcVRPYlJDNnZkY1B1UUJUMG1RczNXX040eG5jV3RneHBTSWtwdzN1OXhvc0lfV1pFSVlfOVJ6NDJjNHM5cnhmWUZYSS15UWhyR2V5RlFaTWxn0gG3AUFVX3lxTE1TMzNrT1hReFY0VS1RS1g4ZVRFbm9IQkFtQ3oyUlNNaThGU21SRjUyRnJqdzlHSDRrcmVkWkJvYm1ETnNQYXRNYXY2MlVHRXBHOGNMNjItN3pMcHJ5NzdmN3hNZjgzTnJQNjJHdTF5cmwtTTFvR1BSTjkxZ3Y2Z0xWNnBiTVc3SS1CUnBPc09NOFNnenRCUG5XZldNd05qcW9HZ1VqZmxIMUlSUnhJdWx3SllhdGRYcw?oc=5
+- Stock markets fall for third day amid geopolitical tensions; Sensex sinks below 82,000 - The Hindu
+  Stock markets fall for third day amid geopolitical tensions; Sensex
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbGpiaHp4R3g4MGFaa3d3M3VCbGlpUnRTLWlIM01zalYtT3hWYlhNSk9TSkpMX2FNSlFocGZnS0dqbFVwQWNiSVdOQ1BBemNkZFB3LUtobkl2bUszNjFlUnpWei0yU2Y3TGlhUEJDT0RvSVA2TGllS2x4V3MwcWR2ck4tN2VhVGd2eFFQdWE5eGJ0d3Q2Tm43d1J3WHpBM05zZXNXbVA4cE5hTG4xNXhGd1FXLTltdmlsSi11Q2FEXy13ZEx4UW9XREVXLXl5T2NpaTRtcW9Ka3ZIUDBrdDAw0gHmAUFVX3lxTE80OWFDZC1Pa21RamdTbTNKTTRWeFRzLTFJdTEyVld6UHp6eUh4SFh0N3F2TUdLaTFURTlrb1JvREF3UFpQRTI1a2FrdWkzd1R5UVQ3TlhXTFR5M0xpWVg3VzNXd0sxQmdJaWNSN0FmNmp5SEtUejBuaEpuaE5QWHJiTnhLNm9aVlkzV3NmODlaTU1zbjEtdmFiTmZ2OU5paUtqZkdMZHhtRFliY2dKaFpTSTl0anVTakltVW1GVS1iWGRLcmF1N2RfSjdxUzBrYzVXSTV0Y1N1MzYwa3doUjNiZExuMUFR?oc=5
 
-- Stocks in news: Eternal, IndiGo, Adani Green, Dr Reddy's, Vodafone Idea
-   markets closed lower amid weak cues, with the Nifty nearing its 200 DEMA. Select heavyweight stocks may offer short-term relief due to oversold conditions. Companies like Eternal,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-eternal-indigo-adani-green-dr-reddys-vodafone-idea/articleshow/127079288.cms
+- Stock markets, dollar plunge as Trump ramps up tensions over Greenland - Al Jazeera
+  The U.S. has been at odds with
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnJyNEpmbGxxd2FEZS1ObTBISnRtUEJfZlBvY3hTdUQtQ1dzcTFBNjBnWkx0QmpJTll4YXphVFdZZE5sOVVzeTFwSFlWY2N3d2NmTTA4ZDFzMGtnWFgxR3ZfMlRGLWFnck15YkJVX1hTa2FEYS1pcEE0QkowZ1hBUHB1eWdnM25HazFmU1IwV19FLXk0TlpXdlNVNUhwa2xDVTlPZEdn0gGrAUFVX3lxTE95VnVWZ1FsdFpUd0tYbVM0M0dKTU1QdWVOX2dGRlVuVVFkdWIyQTlMcVplQkFDN3lmZjY2cE9BSHNjY3lKbGVMWHFkOWM2MDFqd3U0Wnk4UjlOaXRWUjJsWnRkV0pXQnQ1RGtpeHJkcmlLVHVTVElGZXRRLTJBeWx0ZzRWN2xrZWU3YndsSFdmbl92VFYxTG1wNkhIV2V1aGtKQkhhU2g4d1JiUQ?oc=5
 
-- Asian stocks gain after Trump touts Greenland deal
-  Asian stocks rose, mirroring Wall Street's gains, as President Trump's comments on a "framework" deal regarding Greenland eased market concerns. Precious metals retreated, with gold and silver falling.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-gain-after-trump-touts-greenland-deal/articleshow/127078702.cms
+- Silver prices tumble Rs 18,000/kg in 2 days on MCX. Will white metal give up the Rs 3 lakh mark?
+  Silver prices on MCX have seen a significant drop, shedding Rs 18,000 in two sessions. Experts suggest buying on dips, with strong support levels identified.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-tumble-rs-18000/kg-in-2-days-on-mcx-will-white-metal-give-up-the-rs-3-lakh-mark/articleshow/127113430.cms
 
-- PFC's zero coupon bonds a smart bet with tax advantage
-  Investors are exploring Power Finance Corporation zero coupon bonds for diversification. These bonds offer attractive post-tax returns, surpassing bank deposits and tax-free bonds.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/pfcs-zero-coupon-bonds-a-smart-bet-with-tax-advantage/articleshow/127077491.cms
+- Anshul Saigal sees bottom-up opportunities in Indian market
+  Investors should focus on companies with strong cash flow and growth visibility. PSU banks and the CDMO pharma space offer strong prospects. Metals also present an attractive outlook.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/anshul-saigal-sees-bottom-up-opportunities-in-indian-market/articleshow/127113021.cms
 
-- India cracks down on ‘privacy cryptos’, flags money laundering risks
-  The Financial Intelligence Unit has directed crypto exchanges to stop dealing in these virtual assets. This move aims to curb money laundering and mask transaction trails. Privacy coins like Monero and Zcash use advanced cryptography to hide user identities.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/india-cracks-down-on-privacy-cryptos-flags-money-laundering-risks/articleshow/127076552.cms
+- Silver prices to hit $200 in 2026? Rich Dad Poor Dad author Robert Kiyosaki makes bold prediction
+  Rich Dad Poor Dad author Robert Kiyosaki predicts silver could reach $200 per ounce by 2026. He highlighted silver's significant price appreciation since 1990.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-to-hit-200-in-2026-rich-dad-poor-dad-author-robert-kiyosaki-makes-bold-prediction/articleshow/127110676.cms
 
-- Central bank sold $9.7 billion in Nov as rupee falls 0.7%
-  The Reserve Bank of India sold dollars in November. This action aimed to manage the Indian rupee's value. The rupee saw depreciation last year.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/central-bank-sold-9-7-billion-in-nov-as-rupee-falls-0-7/articleshow/127076287.cms
+- CreditAccess shares rally 20% in two days after Q3FY26 profit turnaround
+  CreditAccess Grameen shares surged sharply after the lender returned to profitability in Q3FY26. Lower provisions supported earnings, while improving asset quality and strong
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/creditaccess-shares-rally-20-in-two-days-after-q3fy26-profit-turnaround/articleshow/127110482.cms
 
-- 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
-  'It Won't Work With India': Parag Kh
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
-
-- India to withdraw diplomats’ families from Bangladesh over security situation | India News - Hindustan Times
-  India to withdraw diplomats' families from Bangladesh over security situation.
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcElEVWZNWjlreUNraWItaG5hamppWm1LcXFyaWpPYTl5ZkMxY0FOV083eWt2TWZRcmt5ZlVCbjdsM21HbjYwZFRjVHdLZlNwb3lWdlAwTnNsdDdzSzY2bXZsbE4zR3BjdE1mV0pRN3dwdlFhaUpFRDVWTVpjYmVMWk1ac3hEMUtqZ1NBXzFpZDBaUkNuUGUwMUcxTmZ2b09fZ0Q2V0pOWGx0MGFobXpZTjU3dmNKMUhSckZWNkFoZ2Q4NHY3UmdTaVhKVjNfWmx4MkhqTFFZd0o2eDFJRVZKV093ZUdnNHVKaEpZaUZKUW1XNW1KWU8yaHdwQk3SAYICQVVfeXFMUHNVOFhMVVF0UHRsWTdOYWNyYkFuc3hkeXBnTEdTWEVocEhGUXNXZ0ZhQmhpbTlmMnBwSzZ5U2hUX3NrT3Bra1Ixcjk0bDU0OUlST0lsa1d4aF9PcFRXVjRRaWs1VDBpR2ZDM3RkdkxMZm9fWm02RlJBUFRVYmFrREVHdy1kY21pR1NhbDBUUHNXTGRRRnhnNl9MbHhIZVF1dklNcVBzTXhyYTdEeE5Hejg3bkZOaWxwOEdKWTM3V1o1R2o4RnBCVkkyeWNQSHhzQmdPd3JrT1FFU3FObllBMjFqTUNvRzNsSVRoRDVWYnNVNkZFZlRsU1FtcUZWOUVYenJR?oc=5
-
-- India To Bring Back Diplomats' Families In Bangladesh Amid Security Concerns - NDTV
-  India To Bring Back Diplomats' Families In
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbFg0RGlybXQ3ZDU5VEJ4Wkh3RThfLTBzYm0taXBaWTc1Z2FCQ21KZjFscWFUb3RJaGtIXzUzOUtlamFtNDVlZmkyNmNWYkdoMy1LX3NrMUVrd1cwYW1wdHZQcnRPb1NyRkJqdW5YcnJ6V1YzNkdPMGV2M051Nk5zcmVITG4wT1FBZWluVW1LOExreWdZdUFQYzJQT1VyaEdlTUJvWUZzZWdSVUJBdWlmUmctOUNQTzRndDhOVE1jdVdxdWhjUWM3OVJFZ0Vqck0wNjlxRGROOTdNbHhZUkRtZktPcl9iMmZVWEVOT3lQS2VUeTZrNlpfYVNTNEhKc2PSAYcCQVVfeXFMTzJGT3ROLUs5Vzlib213ekRSZmVYVmJhUzFndlpfb3hnb1NJS05ySVJNSmRrenFPdXFyd0RENXlSNFdBbjFlTXNrakQxRVp3X2RXYmhTN2RrVk82enU1djZFaENReHhwTFQ1dnBHYkI4ZDZRNWxnR25qazZNeFBIb1hlQjF0N3h6NGVZX0FGdkx0UGVTOVNLUnN0TXJLT0w5ZWotLXNRYmtpOHdjYmRTRUVKbTZwandXLU95WU53VGJ2b3k3UmdhU21uaV9lSkhaWXlvVHBPTkFYMkExcl9LQ0dtaFIySGlrMjBQdmlIUnZOR3ZzRTlQeFYtQ2hrQjZlXzJrZ0t3VXM?oc=5
-
-- Government advises kin of Indian officials in Bangladesh to return - Times of India
-  Government advises kin of Indian officials in Bangladesh to return
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTVrSmFyNzJyc21EZVA4NGx1b1NraE5VOG9mZ3R5dlhtUXhkMmgwODdiUWl1a0g3WkpuV2s3V3dEWTQ2UG1iSGNYVWZYYURoNUVVSkxfNWR6X3Q5MXJQbWRub1otSWt0TVp4S1l0SVNXNm43UVA0cG1BQmlIalFTeGlMbDJqLUd5T050bDJSM3l3U3BCTkIzTFJib2Y0Y0QxdGJscjJFaGxBSE13MWxDLVk0dnUwVmFJODlWTHJMSGdkYjB3WUhV0gHMAUFVX3lxTE1tR2pfREc5MUhnMl9pY1lld0VycWdlMF9SdVV1NzB0WWZkeHotLUJaZGJYVVVjTHFlY0Z6a0dpTHJtQW0taUFpTVk1WE53UUNWcGVIcE5rN0Z4WXdMaC11UGVjbjUySFZKOEtsbUpCOWZ2UWVnQUVSenFtejdsNlFWQWdybmNKNjRVMnlGUWt1REZjSDFzYUVqU2JGeFVyTmFYSkRycEZNcXRnWm50bEVqMkxCdmtUcV9CbS1sWmNvRDB3amtEeUlSamhxcg?oc=5
-
-- Boeing 787 had technical faults long before Ahmedabad crash: US safety group | India News - Hindustan Times
-  Boeing 787 had technical faults long before Ahmedabad crash.
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZUU5bXB2Rm9TMHBOdEM5S3I3czUtTksxd2c5b1NleFBqc1RnUjcyZDYxX3ZuLXdfQ1E2YXpBQ0N0aFJiLTlMZUNqMmxwSURkeWxaemRScGg1c2E2YV9Ld04zcnhGYmZNdE9pSm5WY0k4dXYwN05iMDlEUzBIaEpBMVVmc1RZYUhZNHpwRDJMcXVHSE1EbE5ETk9pcENuZVgzRzJ6eTgwYTNSdjZiQmYwdjFNelBHWVYyNzZqVUFvZzdSbm9FbjJYbUU2NHc1V05xSDlmYtIB2gFBVV95cUxPbV9VZ2N1bEZqWmluV05uS0hmY0tMSU13bFdVU1BFaERJaEVQZlJlYUJlMENKb0JjZUwzWHhmU3cyeFc5UXMzZUROVWlLUExWS2FxaUlXZnZuU2pZdnlXaENxWE5vOWFRbjBuZW9iOVMyUHBBYjVGTGtzR1ZtdkplX2diY2s0dGcxZGs5Ry0wMzhQaHVxOEhmYmFMWXI4dzNkT0dHSUk4UWNtRmF3NG9jUFlsa2w5QmtxQU12Q2gtSmNxelpOaW9vUzZZT19mRUdvYjNRX0VtTk9HQQ?oc=5
+- India bonds advance on RBI buying buzz, firm US debt
+  Indian government bonds rallied on Thursday morning. Speculation that the Reserve Bank of India was maneuvering in the secondary market.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-advance-on-rbi-buying-buzz-firm-us-debt/articleshow/127107910.cms
 
 - 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
   'It Won't Work With India': Parag Kh
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
 
-- India to withdraw diplomats’ families from Bangladesh over security situation | India News - Hindustan Times
-  India to withdraw diplomats' families from Bangladesh over security situation.
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcElEVWZNWjlreUNraWItaG5hamppWm1LcXFyaWpPYTl5ZkMxY0FOV083eWt2TWZRcmt5ZlVCbjdsM21HbjYwZFRjVHdLZlNwb3lWdlAwTnNsdDdzSzY2bXZsbE4zR3BjdE1mV0pRN3dwdlFhaUpFRDVWTVpjYmVMWk1ac3hEMUtqZ1NBXzFpZDBaUkNuUGUwMUcxTmZ2b09fZ0Q2V0pOWGx0MGFobXpZTjU3dmNKMUhSckZWNkFoZ2Q4NHY3UmdTaVhKVjNfWmx4MkhqTFFZd0o2eDFJRVZKV093ZUdnNHVKaEpZaUZKUW1XNW1KWU8yaHdwQk3SAYICQVVfeXFMUHNVOFhMVVF0UHRsWTdOYWNyYkFuc3hkeXBnTEdTWEVocEhGUXNXZ0ZhQmhpbTlmMnBwSzZ5U2hUX3NrT3Bra1Ixcjk0bDU0OUlST0lsa1d4aF9PcFRXVjRRaWs1VDBpR2ZDM3RkdkxMZm9fWm02RlJBUFRVYmFrREVHdy1kY21pR1NhbDBUUHNXTGRRRnhnNl9MbHhIZVF1dklNcVBzTXhyYTdEeE5Hejg3bkZOaWxwOEdKWTM3V1o1R2o4RnBCVkkyeWNQSHhzQmdPd3JrT1FFU3FObllBMjFqTUNvRzNsSVRoRDVWYnNVNkZFZlRsU1FtcUZWOUVYenJR?oc=5
+- Trump repeats claim that he stopped India-Pakistan war - The Hindu
+  Trump repeats claim that he stopped India
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQam1XRHVTbzJVdDc5RXhCSnlFV1l0RjkxQk43QkM2aHVZM0dSYm5EekZ3VTBNNGpkUXZVajdzTC1OanlfQnVJeDNfUFFhVkFublRUTFNkSnVRTmE5M2VlRHBBeFlaZFljWHUzaDFVeDktS0pHTktyS2RGakplaC03c05fX0pTTVNuc2ZEN0VaSXU3eFlpbHRYRVpabkhtN1RYUV9IUndrMXBDbWJvSm9XelhtQdIBugFBVV95cUxOYmdKdzl2YU9zNF93aEFPNTYtUnNKU2ZBRktGa2VtNzlHY0RILWxOeWF6MXFaNm9MT05hbzc2NTZqd2o5bWlJVUdybGh3aW1HbnlWa1FONkxXMlk4eC1jRHdFTktvUWR2eVI2bVdVQzdyYkxFeU8ycGxzall1bjBiVmtHM3o5cnQ2QmtGT2hUeHlNaXNBODAtMGpiMjFMUHg2NnRKOXJEXzVlNU11eHV1eElKRFZmbC00eHc?oc=5
 
-- India To Bring Back Diplomats' Families In Bangladesh Amid Security Concerns - NDTV
-  India To Bring Back Diplomats' Families In
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbFg0RGlybXQ3ZDU5VEJ4Wkh3RThfLTBzYm0taXBaWTc1Z2FCQ21KZjFscWFUb3RJaGtIXzUzOUtlamFtNDVlZmkyNmNWYkdoMy1LX3NrMUVrd1cwYW1wdHZQcnRPb1NyRkJqdW5YcnJ6V1YzNkdPMGV2M051Nk5zcmVITG4wT1FBZWluVW1LOExreWdZdUFQYzJQT1VyaEdlTUJvWUZzZWdSVUJBdWlmUmctOUNQTzRndDhOVE1jdVdxdWhjUWM3OVJFZ0Vqck0wNjlxRGROOTdNbHhZUkRtZktPcl9iMmZVWEVOT3lQS2VUeTZrNlpfYVNTNEhKc2PSAYcCQVVfeXFMTzJGT3ROLUs5Vzlib213ekRSZmVYVmJhUzFndlpfb3hnb1NJS05ySVJNSmRrenFPdXFyd0RENXlSNFdBbjFlTXNrakQxRVp3X2RXYmhTN2RrVk82enU1djZFaENReHhwTFQ1dnBHYkI4ZDZRNWxnR25qazZNeFBIb1hlQjF0N3h6NGVZX0FGdkx0UGVTOVNLUnN0TXJLT0w5ZWotLXNRYmtpOHdjYmRTRUVKbTZwandXLU95WU53VGJ2b3k3UmdhU21uaV9lSkhaWXlvVHBPTkFYMkExcl9LQ0dtaFIySGlrMjBQdmlIUnZOR3ZzRTlQeFYtQ2hrQjZlXzJrZ0t3VXM?oc=5
+- Trump calls PM Modi ‘fantastic leader’ at Davos, says ‘good deal’ on cards for India-US | India News - Hindustan Times
+  Trump calls PM Modi ‘fantastic leader’ at Davos, says
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdGtMdDgtY21ZbzZGRTF5b3htMzJTUmI0R2NfTi00TkstTzJ0SGlZUnNiZHRDNlFhSHZQNUFVMEloaXhDX0FpVDZMNTd6VThRbldyaTZwVFdFMzNsOFlqb2lxazBNRm1DSzU1bkQtZVE5ZnVYc3BzLXdVZUNQMnpnZTNPY2ZBMXVpT2syR0FNUVcyd0hJbUZxcndQN1pxNHRubTBic0t3dkUtaEN4azBrWmhIaFdSZWVLSXdlclZfRzEyTFZ6b01jNjVaMVNUcHl3LWhzbF9POHnSAd4BQVVfeXFMTlRxVm1DVTUwQ21yS1lMVTFSM0NWSWNaOFlzWThQUjhtNnFWNjE0SGwwY0lMVk96dTJkckk3TGlndUpTLS1jYzh6cUIyTFk5TFoxRWNzZ29vYksybmF5ZFlXUjVCS2JpbERobGdpM3ZYRXotNGhxd2RCSXhtQmxIUGxMQWJ4RXN1YXI3RWsxdWt0QkVyLTBWS3JzT00xd2g1bmMybmg2bWFkdnhmZE9HTWdxNUoxWmZDVTQtUHlDcnJ1YnFOdEZiWjJpVjFJZS10cUgzYWczLVJ2Z0hMcHFR?oc=5
 
-- Government advises kin of Indian officials in Bangladesh to return - Times of India
-  Government advises kin of Indian officials in Bangladesh to return
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTVrSmFyNzJyc21EZVA4NGx1b1NraE5VOG9mZ3R5dlhtUXhkMmgwODdiUWl1a0g3WkpuV2s3V3dEWTQ2UG1iSGNYVWZYYURoNUVVSkxfNWR6X3Q5MXJQbWRub1otSWt0TVp4S1l0SVNXNm43UVA0cG1BQmlIalFTeGlMbDJqLUd5T050bDJSM3l3U3BCTkIzTFJib2Y0Y0QxdGJscjJFaGxBSE13MWxDLVk0dnUwVmFJODlWTHJMSGdkYjB3WUhV0gHMAUFVX3lxTE1tR2pfREc5MUhnMl9pY1lld0VycWdlMF9SdVV1NzB0WWZkeHotLUJaZGJYVVVjTHFlY0Z6a0dpTHJtQW0taUFpTVk1WE53UUNWcGVIcE5rN0Z4WXdMaC11UGVjbjUySFZKOEtsbUpCOWZ2UWVnQUVSenFtejdsNlFWQWdybmNKNjRVMnlGUWt1REZjSDFzYUVqU2JGeFVyTmFYSkRycEZNcXRnWm50bEVqMkxCdmtUcV9CbS1sWmNvRDB3amtEeUlSamhxcg?oc=5
+- "Stopped 8 Wars, Including India-Pak": Trump Reiterates In Davos - NDTV
+  "Stopped 8 Wars, Including
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1J5Q1g0M21Zbi1LMV91dG05Yk95aG0tSWIyQ183ZVUya18wN0otX2NfeDFzdmtRT1lZd3hWY2dkdVRpcHpZMjNMS241Z1B1bloxbzZ2TEZkaEh0YkcwVlZaOXpGaFZBUmstUHBfU3ppWFQ1U0ZWQ0l5ZVFzcWVqREZacGxHaDBMem5mcmQtc201X09sMWpIX1BUdHBfR2U3N0dN0gGrAUFVX3lxTE9Vd0dtLVltNGF3WHE1LWFkNzFxaVV0czBVc240R1Rxc21ZME5XbzdTZXZ4ZVRQZzBXNDhWVTdDRjVYdHRvX2hZQWFnOWdjTTQxTi0xaG1JV2xDQ1RoR1Vlcl9sZlY2N0JiX3NXZy1nRlNfcExpam9kMTFSeGZiVTNFeWFnRkZYeGJCUkV1aWhiem9CTXd6OVlpVzhOOHM5czdNblc3cFFTRzV3aw?oc=5
 
-- Boeing 787 had technical faults long before Ahmedabad crash: US safety group | India News - Hindustan Times
-  Boeing 787 had technical faults long before Ahmedabad crash.
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZUU5bXB2Rm9TMHBOdEM5S3I3czUtTksxd2c5b1NleFBqc1RnUjcyZDYxX3ZuLXdfQ1E2YXpBQ0N0aFJiLTlMZUNqMmxwSURkeWxaemRScGg1c2E2YV9Ld04zcnhGYmZNdE9pSm5WY0k4dXYwN05iMDlEUzBIaEpBMVVmc1RZYUhZNHpwRDJMcXVHSE1EbE5ETk9pcENuZVgzRzJ6eTgwYTNSdjZiQmYwdjFNelBHWVYyNzZqVUFvZzdSbm9FbjJYbUU2NHc1V05xSDlmYtIB2gFBVV95cUxPbV9VZ2N1bEZqWmluV05uS0hmY0tMSU13bFdVU1BFaERJaEVQZlJlYUJlMENKb0JjZUwzWHhmU3cyeFc5UXMzZUROVWlLUExWS2FxaUlXZnZuU2pZdnlXaENxWE5vOWFRbjBuZW9iOVMyUHBBYjVGTGtzR1ZtdkplX2diY2s0dGcxZGs5Ry0wMzhQaHVxOEhmYmFMWXI4dzNkT0dHSUk4UWNtRmF3NG9jUFlsa2w5QmtxQU12Q2gtSmNxelpOaW9vUzZZT19mRUdvYjNRX0VtTk9HQQ?oc=5
-
-- 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
-  'It Won't Work With India': Parag Kh
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
-
-- India to withdraw diplomats’ families from Bangladesh over security situation | India News - Hindustan Times
-  India to withdraw diplomats' families from Bangladesh over security situation.
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcElEVWZNWjlreUNraWItaG5hamppWm1LcXFyaWpPYTl5ZkMxY0FOV083eWt2TWZRcmt5ZlVCbjdsM21HbjYwZFRjVHdLZlNwb3lWdlAwTnNsdDdzSzY2bXZsbE4zR3BjdE1mV0pRN3dwdlFhaUpFRDVWTVpjYmVMWk1ac3hEMUtqZ1NBXzFpZDBaUkNuUGUwMUcxTmZ2b09fZ0Q2V0pOWGx0MGFobXpZTjU3dmNKMUhSckZWNkFoZ2Q4NHY3UmdTaVhKVjNfWmx4MkhqTFFZd0o2eDFJRVZKV093ZUdnNHVKaEpZaUZKUW1XNW1KWU8yaHdwQk3SAYICQVVfeXFMUHNVOFhMVVF0UHRsWTdOYWNyYkFuc3hkeXBnTEdTWEVocEhGUXNXZ0ZhQmhpbTlmMnBwSzZ5U2hUX3NrT3Bra1Ixcjk0bDU0OUlST0lsa1d4aF9PcFRXVjRRaWs1VDBpR2ZDM3RkdkxMZm9fWm02RlJBUFRVYmFrREVHdy1kY21pR1NhbDBUUHNXTGRRRnhnNl9MbHhIZVF1dklNcVBzTXhyYTdEeE5Hejg3bkZOaWxwOEdKWTM3V1o1R2o4RnBCVkkyeWNQSHhzQmdPd3JrT1FFU3FObllBMjFqTUNvRzNsSVRoRDVWYnNVNkZFZlRsU1FtcUZWOUVYenJR?oc=5
-
-- India To Bring Back Diplomats' Families In Bangladesh Amid Security Concerns - NDTV
-  India To Bring Back Diplomats' Families In
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbFg0RGlybXQ3ZDU5VEJ4Wkh3RThfLTBzYm0taXBaWTc1Z2FCQ21KZjFscWFUb3RJaGtIXzUzOUtlamFtNDVlZmkyNmNWYkdoMy1LX3NrMUVrd1cwYW1wdHZQcnRPb1NyRkJqdW5YcnJ6V1YzNkdPMGV2M051Nk5zcmVITG4wT1FBZWluVW1LOExreWdZdUFQYzJQT1VyaEdlTUJvWUZzZWdSVUJBdWlmUmctOUNQTzRndDhOVE1jdVdxdWhjUWM3OVJFZ0Vqck0wNjlxRGROOTdNbHhZUkRtZktPcl9iMmZVWEVOT3lQS2VUeTZrNlpfYVNTNEhKc2PSAYcCQVVfeXFMTzJGT3ROLUs5Vzlib213ekRSZmVYVmJhUzFndlpfb3hnb1NJS05ySVJNSmRrenFPdXFyd0RENXlSNFdBbjFlTXNrakQxRVp3X2RXYmhTN2RrVk82enU1djZFaENReHhwTFQ1dnBHYkI4ZDZRNWxnR25qazZNeFBIb1hlQjF0N3h6NGVZX0FGdkx0UGVTOVNLUnN0TXJLT0w5ZWotLXNRYmtpOHdjYmRTRUVKbTZwandXLU95WU53VGJ2b3k3UmdhU21uaV9lSkhaWXlvVHBPTkFYMkExcl9LQ0dtaFIySGlrMjBQdmlIUnZOR3ZzRTlQeFYtQ2hrQjZlXzJrZ0t3VXM?oc=5
-
-- Government advises kin of Indian officials in Bangladesh to return - Times of India
-  Government advises kin of Indian officials in Bangladesh to return
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTVrSmFyNzJyc21EZVA4NGx1b1NraE5VOG9mZ3R5dlhtUXhkMmgwODdiUWl1a0g3WkpuV2s3V3dEWTQ2UG1iSGNYVWZYYURoNUVVSkxfNWR6X3Q5MXJQbWRub1otSWt0TVp4S1l0SVNXNm43UVA0cG1BQmlIalFTeGlMbDJqLUd5T050bDJSM3l3U3BCTkIzTFJib2Y0Y0QxdGJscjJFaGxBSE13MWxDLVk0dnUwVmFJODlWTHJMSGdkYjB3WUhV0gHMAUFVX3lxTE1tR2pfREc5MUhnMl9pY1lld0VycWdlMF9SdVV1NzB0WWZkeHotLUJaZGJYVVVjTHFlY0Z6a0dpTHJtQW0taUFpTVk1WE53UUNWcGVIcE5rN0Z4WXdMaC11UGVjbjUySFZKOEtsbUpCOWZ2UWVnQUVSenFtejdsNlFWQWdybmNKNjRVMnlGUWt1REZjSDFzYUVqU2JGeFVyTmFYSkRycEZNcXRnWm50bEVqMkxCdmtUcV9CbS1sWmNvRDB3amtEeUlSamhxcg?oc=5
-
-- Boeing 787 had technical faults long before Ahmedabad crash: US safety group | India News - Hindustan Times
-  Boeing 787 had technical faults long before Ahmedabad crash.
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZUU5bXB2Rm9TMHBOdEM5S3I3czUtTksxd2c5b1NleFBqc1RnUjcyZDYxX3ZuLXdfQ1E2YXpBQ0N0aFJiLTlMZUNqMmxwSURkeWxaemRScGg1c2E2YV9Ld04zcnhGYmZNdE9pSm5WY0k4dXYwN05iMDlEUzBIaEpBMVVmc1RZYUhZNHpwRDJMcXVHSE1EbE5ETk9pcENuZVgzRzJ6eTgwYTNSdjZiQmYwdjFNelBHWVYyNzZqVUFvZzdSbm9FbjJYbUU2NHc1V05xSDlmYtIB2gFBVV95cUxPbV9VZ2N1bEZqWmluV05uS0hmY0tMSU13bFdVU1BFaERJaEVQZlJlYUJlMENKb0JjZUwzWHhmU3cyeFc5UXMzZUROVWlLUExWS2FxaUlXZnZuU2pZdnlXaENxWE5vOWFRbjBuZW9iOVMyUHBBYjVGTGtzR1ZtdkplX2diY2s0dGcxZGs5Ry0wMzhQaHVxOEhmYmFMWXI4dzNkT0dHSUk4UWNtRmF3NG9jUFlsa2w5QmtxQU12Q2gtSmNxelpOaW9vUzZZT19mRUdvYjNRX0VtTk9HQQ?oc=5
+- India Becoming "Indispensable" For Europe: EU Ahead Of New Delhi Visit - NDTV
+  India Becoming "Indispensable" For
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzd6VXBVa0lWM2FZWE54S1dhNmxlczlpUUFaWG9iNWZSMzQ0WlVmckk5M2dPSzJsQlVEZ09QWUFsMmJHaWJDdHdnbmhYYkVYbXlvQ0llYkpSNFBoVFlFbmNWWlBiSWF5T1ZBMGMzS0NWZzRLWlZDTHVRQUs1Uzhad3lkM3l6eG9pWjZVM0Z1ZnQ5ZGVNbDJkUXRDWGZGLTBTdDV1NUNWOWJCTjZw0gG0AUFVX3lxTFBBRmY5TW04MXZDMTVIZnB6N3RuRU5tMlkyXy01TkdqbkJDczRjY25oZ3NCMlhHVF96Nk5zUzB3cnBjWURoMkRBdWdCYlFDYjhfTHQtNDhtWThUMGQtNFFSbXpQTXYxWDJ4T0lMSjV6SVc3emtGZmQwa2ZHR0hxR084NklvSHV4QWZtak5KU0NLZ3FqcGJDb3dra0pZT2t3UmpOY09QLVFMbkN2cnFCSzI3QnRrZw?oc=5
 
 - 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
   'It Won't Work With India': Parag Kh
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
 
-- India to withdraw diplomats’ families from Bangladesh over security situation | India News - Hindustan Times
-  India to withdraw diplomats' families from Bangladesh over security situation.
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcElEVWZNWjlreUNraWItaG5hamppWm1LcXFyaWpPYTl5ZkMxY0FOV083eWt2TWZRcmt5ZlVCbjdsM21HbjYwZFRjVHdLZlNwb3lWdlAwTnNsdDdzSzY2bXZsbE4zR3BjdE1mV0pRN3dwdlFhaUpFRDVWTVpjYmVMWk1ac3hEMUtqZ1NBXzFpZDBaUkNuUGUwMUcxTmZ2b09fZ0Q2V0pOWGx0MGFobXpZTjU3dmNKMUhSckZWNkFoZ2Q4NHY3UmdTaVhKVjNfWmx4MkhqTFFZd0o2eDFJRVZKV093ZUdnNHVKaEpZaUZKUW1XNW1KWU8yaHdwQk3SAYICQVVfeXFMUHNVOFhMVVF0UHRsWTdOYWNyYkFuc3hkeXBnTEdTWEVocEhGUXNXZ0ZhQmhpbTlmMnBwSzZ5U2hUX3NrT3Bra1Ixcjk0bDU0OUlST0lsa1d4aF9PcFRXVjRRaWs1VDBpR2ZDM3RkdkxMZm9fWm02RlJBUFRVYmFrREVHdy1kY21pR1NhbDBUUHNXTGRRRnhnNl9MbHhIZVF1dklNcVBzTXhyYTdEeE5Hejg3bkZOaWxwOEdKWTM3V1o1R2o4RnBCVkkyeWNQSHhzQmdPd3JrT1FFU3FObllBMjFqTUNvRzNsSVRoRDVWYnNVNkZFZlRsU1FtcUZWOUVYenJR?oc=5
+- Trump repeats claim that he stopped India-Pakistan war - The Hindu
+  Trump repeats claim that he stopped India
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQam1XRHVTbzJVdDc5RXhCSnlFV1l0RjkxQk43QkM2aHVZM0dSYm5EekZ3VTBNNGpkUXZVajdzTC1OanlfQnVJeDNfUFFhVkFublRUTFNkSnVRTmE5M2VlRHBBeFlaZFljWHUzaDFVeDktS0pHTktyS2RGakplaC03c05fX0pTTVNuc2ZEN0VaSXU3eFlpbHRYRVpabkhtN1RYUV9IUndrMXBDbWJvSm9XelhtQdIBugFBVV95cUxOYmdKdzl2YU9zNF93aEFPNTYtUnNKU2ZBRktGa2VtNzlHY0RILWxOeWF6MXFaNm9MT05hbzc2NTZqd2o5bWlJVUdybGh3aW1HbnlWa1FONkxXMlk4eC1jRHdFTktvUWR2eVI2bVdVQzdyYkxFeU8ycGxzall1bjBiVmtHM3o5cnQ2QmtGT2hUeHlNaXNBODAtMGpiMjFMUHg2NnRKOXJEXzVlNU11eHV1eElKRFZmbC00eHc?oc=5
 
-- India To Bring Back Diplomats' Families In Bangladesh Amid Security Concerns - NDTV
-  India To Bring Back Diplomats' Families In
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbFg0RGlybXQ3ZDU5VEJ4Wkh3RThfLTBzYm0taXBaWTc1Z2FCQ21KZjFscWFUb3RJaGtIXzUzOUtlamFtNDVlZmkyNmNWYkdoMy1LX3NrMUVrd1cwYW1wdHZQcnRPb1NyRkJqdW5YcnJ6V1YzNkdPMGV2M051Nk5zcmVITG4wT1FBZWluVW1LOExreWdZdUFQYzJQT1VyaEdlTUJvWUZzZWdSVUJBdWlmUmctOUNQTzRndDhOVE1jdVdxdWhjUWM3OVJFZ0Vqck0wNjlxRGROOTdNbHhZUkRtZktPcl9iMmZVWEVOT3lQS2VUeTZrNlpfYVNTNEhKc2PSAYcCQVVfeXFMTzJGT3ROLUs5Vzlib213ekRSZmVYVmJhUzFndlpfb3hnb1NJS05ySVJNSmRrenFPdXFyd0RENXlSNFdBbjFlTXNrakQxRVp3X2RXYmhTN2RrVk82enU1djZFaENReHhwTFQ1dnBHYkI4ZDZRNWxnR25qazZNeFBIb1hlQjF0N3h6NGVZX0FGdkx0UGVTOVNLUnN0TXJLT0w5ZWotLXNRYmtpOHdjYmRTRUVKbTZwandXLU95WU53VGJ2b3k3UmdhU21uaV9lSkhaWXlvVHBPTkFYMkExcl9LQ0dtaFIySGlrMjBQdmlIUnZOR3ZzRTlQeFYtQ2hrQjZlXzJrZ0t3VXM?oc=5
+- Trump calls PM Modi ‘fantastic leader’ at Davos, says ‘good deal’ on cards for India-US | India News - Hindustan Times
+  Trump calls PM Modi ‘fantastic leader’ at Davos, says
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdGtMdDgtY21ZbzZGRTF5b3htMzJTUmI0R2NfTi00TkstTzJ0SGlZUnNiZHRDNlFhSHZQNUFVMEloaXhDX0FpVDZMNTd6VThRbldyaTZwVFdFMzNsOFlqb2lxazBNRm1DSzU1bkQtZVE5ZnVYc3BzLXdVZUNQMnpnZTNPY2ZBMXVpT2syR0FNUVcyd0hJbUZxcndQN1pxNHRubTBic0t3dkUtaEN4azBrWmhIaFdSZWVLSXdlclZfRzEyTFZ6b01jNjVaMVNUcHl3LWhzbF9POHnSAd4BQVVfeXFMTlRxVm1DVTUwQ21yS1lMVTFSM0NWSWNaOFlzWThQUjhtNnFWNjE0SGwwY0lMVk96dTJkckk3TGlndUpTLS1jYzh6cUIyTFk5TFoxRWNzZ29vYksybmF5ZFlXUjVCS2JpbERobGdpM3ZYRXotNGhxd2RCSXhtQmxIUGxMQWJ4RXN1YXI3RWsxdWt0QkVyLTBWS3JzT00xd2g1bmMybmg2bWFkdnhmZE9HTWdxNUoxWmZDVTQtUHlDcnJ1YnFOdEZiWjJpVjFJZS10cUgzYWczLVJ2Z0hMcHFR?oc=5
 
-- Government advises kin of Indian officials in Bangladesh to return - Times of India
-  Government advises kin of Indian officials in Bangladesh to return
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTVrSmFyNzJyc21EZVA4NGx1b1NraE5VOG9mZ3R5dlhtUXhkMmgwODdiUWl1a0g3WkpuV2s3V3dEWTQ2UG1iSGNYVWZYYURoNUVVSkxfNWR6X3Q5MXJQbWRub1otSWt0TVp4S1l0SVNXNm43UVA0cG1BQmlIalFTeGlMbDJqLUd5T050bDJSM3l3U3BCTkIzTFJib2Y0Y0QxdGJscjJFaGxBSE13MWxDLVk0dnUwVmFJODlWTHJMSGdkYjB3WUhV0gHMAUFVX3lxTE1tR2pfREc5MUhnMl9pY1lld0VycWdlMF9SdVV1NzB0WWZkeHotLUJaZGJYVVVjTHFlY0Z6a0dpTHJtQW0taUFpTVk1WE53UUNWcGVIcE5rN0Z4WXdMaC11UGVjbjUySFZKOEtsbUpCOWZ2UWVnQUVSenFtejdsNlFWQWdybmNKNjRVMnlGUWt1REZjSDFzYUVqU2JGeFVyTmFYSkRycEZNcXRnWm50bEVqMkxCdmtUcV9CbS1sWmNvRDB3amtEeUlSamhxcg?oc=5
+- "Stopped 8 Wars, Including India-Pak": Trump Reiterates In Davos - NDTV
+  "Stopped 8 Wars, Including
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1J5Q1g0M21Zbi1LMV91dG05Yk95aG0tSWIyQ183ZVUya18wN0otX2NfeDFzdmtRT1lZd3hWY2dkdVRpcHpZMjNMS241Z1B1bloxbzZ2TEZkaEh0YkcwVlZaOXpGaFZBUmstUHBfU3ppWFQ1U0ZWQ0l5ZVFzcWVqREZacGxHaDBMem5mcmQtc201X09sMWpIX1BUdHBfR2U3N0dN0gGrAUFVX3lxTE9Vd0dtLVltNGF3WHE1LWFkNzFxaVV0czBVc240R1Rxc21ZME5XbzdTZXZ4ZVRQZzBXNDhWVTdDRjVYdHRvX2hZQWFnOWdjTTQxTi0xaG1JV2xDQ1RoR1Vlcl9sZlY2N0JiX3NXZy1nRlNfcExpam9kMTFSeGZiVTNFeWFnRkZYeGJCUkV1aWhiem9CTXd6OVlpVzhOOHM5czdNblc3cFFTRzV3aw?oc=5
 
-- Boeing 787 had technical faults long before Ahmedabad crash: US safety group | India News - Hindustan Times
-  Boeing 787 had technical faults long before Ahmedabad crash.
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZUU5bXB2Rm9TMHBOdEM5S3I3czUtTksxd2c5b1NleFBqc1RnUjcyZDYxX3ZuLXdfQ1E2YXpBQ0N0aFJiLTlMZUNqMmxwSURkeWxaemRScGg1c2E2YV9Ld04zcnhGYmZNdE9pSm5WY0k4dXYwN05iMDlEUzBIaEpBMVVmc1RZYUhZNHpwRDJMcXVHSE1EbE5ETk9pcENuZVgzRzJ6eTgwYTNSdjZiQmYwdjFNelBHWVYyNzZqVUFvZzdSbm9FbjJYbUU2NHc1V05xSDlmYtIB2gFBVV95cUxPbV9VZ2N1bEZqWmluV05uS0hmY0tMSU13bFdVU1BFaERJaEVQZlJlYUJlMENKb0JjZUwzWHhmU3cyeFc5UXMzZUROVWlLUExWS2FxaUlXZnZuU2pZdnlXaENxWE5vOWFRbjBuZW9iOVMyUHBBYjVGTGtzR1ZtdkplX2diY2s0dGcxZGs5Ry0wMzhQaHVxOEhmYmFMWXI4dzNkT0dHSUk4UWNtRmF3NG9jUFlsa2w5QmtxQU12Q2gtSmNxelpOaW9vUzZZT19mRUdvYjNRX0VtTk9HQQ?oc=5
+- India Becoming "Indispensable" For Europe: EU Ahead Of New Delhi Visit - NDTV
+  India Becoming "Indispensable" For
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzd6VXBVa0lWM2FZWE54S1dhNmxlczlpUUFaWG9iNWZSMzQ0WlVmckk5M2dPSzJsQlVEZ09QWUFsMmJHaWJDdHdnbmhYYkVYbXlvQ0llYkpSNFBoVFlFbmNWWlBiSWF5T1ZBMGMzS0NWZzRLWlZDTHVRQUs1Uzhad3lkM3l6eG9pWjZVM0Z1ZnQ5ZGVNbDJkUXRDWGZGLTBTdDV1NUNWOWJCTjZw0gG0AUFVX3lxTFBBRmY5TW04MXZDMTVIZnB6N3RuRU5tMlkyXy01TkdqbkJDczRjY25oZ3NCMlhHVF96Nk5zUzB3cnBjWURoMkRBdWdCYlFDYjhfTHQtNDhtWThUMGQtNFFSbXpQTXYxWDJ4T0lMSjV6SVc3emtGZmQwa2ZHR0hxR084NklvSHV4QWZtak5KU0NLZ3FqcGJDb3dra0pZT2t3UmpOY09QLVFMbkN2cnFCSzI3QnRrZw?oc=5
+
+- 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
+  'It Won't Work With India': Parag Kh
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
+
+- Trump repeats claim that he stopped India-Pakistan war - The Hindu
+  Trump repeats claim that he stopped India
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQam1XRHVTbzJVdDc5RXhCSnlFV1l0RjkxQk43QkM2aHVZM0dSYm5EekZ3VTBNNGpkUXZVajdzTC1OanlfQnVJeDNfUFFhVkFublRUTFNkSnVRTmE5M2VlRHBBeFlaZFljWHUzaDFVeDktS0pHTktyS2RGakplaC03c05fX0pTTVNuc2ZEN0VaSXU3eFlpbHRYRVpabkhtN1RYUV9IUndrMXBDbWJvSm9XelhtQdIBugFBVV95cUxOYmdKdzl2YU9zNF93aEFPNTYtUnNKU2ZBRktGa2VtNzlHY0RILWxOeWF6MXFaNm9MT05hbzc2NTZqd2o5bWlJVUdybGh3aW1HbnlWa1FONkxXMlk4eC1jRHdFTktvUWR2eVI2bVdVQzdyYkxFeU8ycGxzall1bjBiVmtHM3o5cnQ2QmtGT2hUeHlNaXNBODAtMGpiMjFMUHg2NnRKOXJEXzVlNU11eHV1eElKRFZmbC00eHc?oc=5
+
+- Trump calls PM Modi ‘fantastic leader’ at Davos, says ‘good deal’ on cards for India-US | India News - Hindustan Times
+  Trump calls PM Modi ‘fantastic leader’ at Davos, says
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdGtMdDgtY21ZbzZGRTF5b3htMzJTUmI0R2NfTi00TkstTzJ0SGlZUnNiZHRDNlFhSHZQNUFVMEloaXhDX0FpVDZMNTd6VThRbldyaTZwVFdFMzNsOFlqb2lxazBNRm1DSzU1bkQtZVE5ZnVYc3BzLXdVZUNQMnpnZTNPY2ZBMXVpT2syR0FNUVcyd0hJbUZxcndQN1pxNHRubTBic0t3dkUtaEN4azBrWmhIaFdSZWVLSXdlclZfRzEyTFZ6b01jNjVaMVNUcHl3LWhzbF9POHnSAd4BQVVfeXFMTlRxVm1DVTUwQ21yS1lMVTFSM0NWSWNaOFlzWThQUjhtNnFWNjE0SGwwY0lMVk96dTJkckk3TGlndUpTLS1jYzh6cUIyTFk5TFoxRWNzZ29vYksybmF5ZFlXUjVCS2JpbERobGdpM3ZYRXotNGhxd2RCSXhtQmxIUGxMQWJ4RXN1YXI3RWsxdWt0QkVyLTBWS3JzT00xd2g1bmMybmg2bWFkdnhmZE9HTWdxNUoxWmZDVTQtUHlDcnJ1YnFOdEZiWjJpVjFJZS10cUgzYWczLVJ2Z0hMcHFR?oc=5
+
+- "Stopped 8 Wars, Including India-Pak": Trump Reiterates In Davos - NDTV
+  "Stopped 8 Wars, Including
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1J5Q1g0M21Zbi1LMV91dG05Yk95aG0tSWIyQ183ZVUya18wN0otX2NfeDFzdmtRT1lZd3hWY2dkdVRpcHpZMjNMS241Z1B1bloxbzZ2TEZkaEh0YkcwVlZaOXpGaFZBUmstUHBfU3ppWFQ1U0ZWQ0l5ZVFzcWVqREZacGxHaDBMem5mcmQtc201X09sMWpIX1BUdHBfR2U3N0dN0gGrAUFVX3lxTE9Vd0dtLVltNGF3WHE1LWFkNzFxaVV0czBVc240R1Rxc21ZME5XbzdTZXZ4ZVRQZzBXNDhWVTdDRjVYdHRvX2hZQWFnOWdjTTQxTi0xaG1JV2xDQ1RoR1Vlcl9sZlY2N0JiX3NXZy1nRlNfcExpam9kMTFSeGZiVTNFeWFnRkZYeGJCUkV1aWhiem9CTXd6OVlpVzhOOHM5czdNblc3cFFTRzV3aw?oc=5
+
+- India Becoming "Indispensable" For Europe: EU Ahead Of New Delhi Visit - NDTV
+  India Becoming "Indispensable" For
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzd6VXBVa0lWM2FZWE54S1dhNmxlczlpUUFaWG9iNWZSMzQ0WlVmckk5M2dPSzJsQlVEZ09QWUFsMmJHaWJDdHdnbmhYYkVYbXlvQ0llYkpSNFBoVFlFbmNWWlBiSWF5T1ZBMGMzS0NWZzRLWlZDTHVRQUs1Uzhad3lkM3l6eG9pWjZVM0Z1ZnQ5ZGVNbDJkUXRDWGZGLTBTdDV1NUNWOWJCTjZw0gG0AUFVX3lxTFBBRmY5TW04MXZDMTVIZnB6N3RuRU5tMlkyXy01TkdqbkJDczRjY25oZ3NCMlhHVF96Nk5zUzB3cnBjWURoMkRBdWdCYlFDYjhfTHQtNDhtWThUMGQtNFFSbXpQTXYxWDJ4T0lMSjV6SVc3emtGZmQwa2ZHR0hxR084NklvSHV4QWZtak5KU0NLZ3FqcGJDb3dra0pZT2t3UmpOY09QLVFMbkN2cnFCSzI3QnRrZw?oc=5
+
+- 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
+  'It Won't Work With India': Parag Kh
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
+
+- Trump repeats claim that he stopped India-Pakistan war - The Hindu
+  Trump repeats claim that he stopped India
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQam1XRHVTbzJVdDc5RXhCSnlFV1l0RjkxQk43QkM2aHVZM0dSYm5EekZ3VTBNNGpkUXZVajdzTC1OanlfQnVJeDNfUFFhVkFublRUTFNkSnVRTmE5M2VlRHBBeFlaZFljWHUzaDFVeDktS0pHTktyS2RGakplaC03c05fX0pTTVNuc2ZEN0VaSXU3eFlpbHRYRVpabkhtN1RYUV9IUndrMXBDbWJvSm9XelhtQdIBugFBVV95cUxOYmdKdzl2YU9zNF93aEFPNTYtUnNKU2ZBRktGa2VtNzlHY0RILWxOeWF6MXFaNm9MT05hbzc2NTZqd2o5bWlJVUdybGh3aW1HbnlWa1FONkxXMlk4eC1jRHdFTktvUWR2eVI2bVdVQzdyYkxFeU8ycGxzall1bjBiVmtHM3o5cnQ2QmtGT2hUeHlNaXNBODAtMGpiMjFMUHg2NnRKOXJEXzVlNU11eHV1eElKRFZmbC00eHc?oc=5
+
+- Trump calls PM Modi ‘fantastic leader’ at Davos, says ‘good deal’ on cards for India-US | India News - Hindustan Times
+  Trump calls PM Modi ‘fantastic leader’ at Davos, says
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdGtMdDgtY21ZbzZGRTF5b3htMzJTUmI0R2NfTi00TkstTzJ0SGlZUnNiZHRDNlFhSHZQNUFVMEloaXhDX0FpVDZMNTd6VThRbldyaTZwVFdFMzNsOFlqb2lxazBNRm1DSzU1bkQtZVE5ZnVYc3BzLXdVZUNQMnpnZTNPY2ZBMXVpT2syR0FNUVcyd0hJbUZxcndQN1pxNHRubTBic0t3dkUtaEN4azBrWmhIaFdSZWVLSXdlclZfRzEyTFZ6b01jNjVaMVNUcHl3LWhzbF9POHnSAd4BQVVfeXFMTlRxVm1DVTUwQ21yS1lMVTFSM0NWSWNaOFlzWThQUjhtNnFWNjE0SGwwY0lMVk96dTJkckk3TGlndUpTLS1jYzh6cUIyTFk5TFoxRWNzZ29vYksybmF5ZFlXUjVCS2JpbERobGdpM3ZYRXotNGhxd2RCSXhtQmxIUGxMQWJ4RXN1YXI3RWsxdWt0QkVyLTBWS3JzT00xd2g1bmMybmg2bWFkdnhmZE9HTWdxNUoxWmZDVTQtUHlDcnJ1YnFOdEZiWjJpVjFJZS10cUgzYWczLVJ2Z0hMcHFR?oc=5
+
+- "Stopped 8 Wars, Including India-Pak": Trump Reiterates In Davos - NDTV
+  "Stopped 8 Wars, Including
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1J5Q1g0M21Zbi1LMV91dG05Yk95aG0tSWIyQ183ZVUya18wN0otX2NfeDFzdmtRT1lZd3hWY2dkdVRpcHpZMjNMS241Z1B1bloxbzZ2TEZkaEh0YkcwVlZaOXpGaFZBUmstUHBfU3ppWFQ1U0ZWQ0l5ZVFzcWVqREZacGxHaDBMem5mcmQtc201X09sMWpIX1BUdHBfR2U3N0dN0gGrAUFVX3lxTE9Vd0dtLVltNGF3WHE1LWFkNzFxaVV0czBVc240R1Rxc21ZME5XbzdTZXZ4ZVRQZzBXNDhWVTdDRjVYdHRvX2hZQWFnOWdjTTQxTi0xaG1JV2xDQ1RoR1Vlcl9sZlY2N0JiX3NXZy1nRlNfcExpam9kMTFSeGZiVTNFeWFnRkZYeGJCUkV1aWhiem9CTXd6OVlpVzhOOHM5czdNblc3cFFTRzV3aw?oc=5
+
+- India Becoming "Indispensable" For Europe: EU Ahead Of New Delhi Visit - NDTV
+  India Becoming "Indispensable" For
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzd6VXBVa0lWM2FZWE54S1dhNmxlczlpUUFaWG9iNWZSMzQ0WlVmckk5M2dPSzJsQlVEZ09QWUFsMmJHaWJDdHdnbmhYYkVYbXlvQ0llYkpSNFBoVFlFbmNWWlBiSWF5T1ZBMGMzS0NWZzRLWlZDTHVRQUs1Uzhad3lkM3l6eG9pWjZVM0Z1ZnQ5ZGVNbDJkUXRDWGZGLTBTdDV1NUNWOWJCTjZw0gG0AUFVX3lxTFBBRmY5TW04MXZDMTVIZnB6N3RuRU5tMlkyXy01TkdqbkJDczRjY25oZ3NCMlhHVF96Nk5zUzB3cnBjWURoMkRBdWdCYlFDYjhfTHQtNDhtWThUMGQtNFFSbXpQTXYxWDJ4T0lMSjV6SVc3emtGZmQwa2ZHR0hxR084NklvSHV4QWZtak5KU0NLZ3FqcGJDb3dra0pZT2t3UmpOY09QLVFMbkN2cnFCSzI3QnRrZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-22 01:23:42 UTC_
+_Last updated: 2026-01-22 06:32:42 UTC_
