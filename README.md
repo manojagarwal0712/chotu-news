@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Kindergarten girl killed, 11 school children injured in jeep-school van collision in MP Betul
+- Felling of 17,625 trees was cleared for 13 Chardham stretches: Centre to NGT
   
-  🔗 https://indianexpress.com/article/india/kindergarten-girl-killed-11-school-children-injure-jeep-schoolvan-collision-10486833/
+  🔗 https://indianexpress.com/article/india/felling-of-17625-trees-was-cleared-for-13-chardham-stretches-centre-to-ngt-10487836/
 
-- Stone pelting on trains: 1,698 cases registered, 665 arrested between July-Dec 2025
+- Venezuela ex-envoy Y K Sinha is guest at Explained.Live today
   
-  🔗 https://indianexpress.com/article/india/stone-pelting-on-trains-1698-cases-registered-665-arrested-between-july-dec-2025-10487424/
+  🔗 https://indianexpress.com/article/india/venezuela-ex-envoy-y-k-sinha-is-guest-at-explained-live-today-10487810/
 
-- Amrit Bharat Express launch: Kerala set to get 3 new trains this week – check routes, stoppages
+- Need robust military… look at Venezuela, Iraq: IAF chief
   
-  🔗 https://indianexpress.com/article/india/kerala-to-get-3-new-amrit-bharat-express-trains-routes-stops-10487352/
+  🔗 https://indianexpress.com/article/india/need-robust-military-look-at-venezuela-iraq-iaf-chief-10487803/
 
-- Basanti Pulao, Dhokar Dalna, Narikol Burfi & more: Full IRCTC food menu on India’s 1st Vande Bharat Sleeper train
+- First ‘Made in India’ C-295 aircraft to roll out before September: EAM Jaishankar
   
-  🔗 https://indianexpress.com/article/india/full-irctc-food-menu-on-india-first-vande-bharat-sleeper-train-10486988/
+  🔗 https://indianexpress.com/article/india/first-made-in-india-c-295-aircraft-to-roll-out-before-september-eam-jaishankar-10487824/
 
-- In Kokrajhar, where Bodos and Adivasis clashed, an uneasy calm under shadow of Army deployment
+- I-PAC said it got Rs 13.5-cr loan from Rohtak firm — company doesn’t exist
   
-  🔗 https://indianexpress.com/article/india/kokrajhar-bodos-adivasis-clashed-uneasy-calm-army-deployment-10487091/
+  🔗 https://indianexpress.com/article/india/i-pac-said-it-got-rs-13-5-cr-loan-from-rohtak-firm-company-doesnt-exist-10487796/
 
 - What a giant 600-year-old shipwreck tells us about medieval Europe
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/adobe-acrobat-turn-pdfs-into-ai-podcasts-10487303/
 
+- TikTok Gets Reprieve in Canada After Court Shelves Ban Order
+  TikTok will be able to continue operating its subsidiary in Canada for now. A previous order for it to wind down its operations in
+  🔗 https://www.livemint.com/companies/tiktok-gets-reprieve-in-canada-after-court-shelves-ban-order-11769030405326.html
+
+- World sees India through Bengaluru: DK Shivakumar
+  World sees
+  🔗 https://www.livemint.com/companies/world-sees-india-through-bengaluru-dk-shivakumar-11769022092254.html
+
 - L&amp;T bets $1 bn on inhouse forte to face Tata, Adani, Reliance in AI data centres
   Larsen and Toubro Ltd believes end-to-end ownership will allow it to offer some of the cheapest services to clients.
   🔗 https://www.livemint.com/companies/lt-tata-adani-reliance-ai-data-centres-11768998685257.html
@@ -52,33 +60,25 @@
    weak demand, price corrections after GST rationalization and rising costs weighed on earnings. Company flagged early signs
   🔗 https://www.livemint.com/companies/company-results/dalmia-bharat-q3-profit-declines-46-as-cement-prices-fall-in-east-south-11769002093989.html
 
-- When Deepinder Goyal asked Albinder Dhindsa to leave twice after Blinkit's acquisition
-  Deepinder Goyal has resigned as CEO and MD of Eternal, effective February 1. Blinkit CEO Albinder Dhindsa is set to replace him.
-  🔗 https://www.livemint.com/companies/people/when-deepinder-goyal-asked-albinder-dhindsa-to-leave-twice-after-blinkits-acquisition-eternal-zomato-11768997426754.html
+- Q3 results 2026: IndiGo, Zee, Bandhan Bank to Coforge - 58 companies to declare earnings today; check full list
+  Adani Total Gas, Adani Energy Solutions, Aditya Birla Sun Life AMC, Bandhan Bank, Coforge, Cyient, DLF, Ideaforge Technology,
+  🔗 https://www.livemint.com/market/stock-market-news/q3-results-2026-indigo-zee-bandhan-bank-to-coforge-58-companies-to-declare-earnings-today-check-full-list-11769015323439.html
 
-- Intel results to spotlight turnaround efforts as AI data centers boost chip demand
-  CEO Lip-Bu Tan has overhauled Intel’s chip
-  🔗 https://www.livemint.com/companies/company-results/intel-results-to-spotlight-turnaround-efforts-as-ai-data-centers-boost-chip-demand-11769001419268.html
+- Stock recommendations for 22 January from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 22 January. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-22-january-marketsmith-india-sensex-nifty-outlook-trade-set-up-11768997714471.html
 
-- European Stocks Extend Drop as Traders Wait for Trump’s Speech
-  European shares fall, extending this week’s selloff on renewed trade-war tensions. Focus turns to US
-  🔗 https://www.livemint.com/market/european-stocks-extend-drop-as-traders-wait-for-trump-s-speech-11769020497156.html
+- Budget 2026: Raja Venkatraman shares his top oil and gas stock picks
+  Market expert Raja Venkatraman shares his top oil and gas stocks to buy in the run-up to the Budget
+  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-raja-venkatraman-shares-his-top-oil-and-gas-stock-picks-11769005952968.html
 
-- US real estate stocks climb on fall in mortgage rates, loan demand growth, Trump comments
-  The S&amp;amp;P 1500
-  🔗 https://www.livemint.com/market/stock-market-news/us-real-estate-stocks-climb-on-fall-in-mortgage-rates-loan-demand-growth-trump-comments-11769018015608.html
+- Buy or sell: Vaishali Parekh recommends three intraday stocks to buy today — 22 January 2026
+  Vaishali Parekh recommends three intraday stocks to
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-22-january-2026-11769014841706.html
 
-- Stock market crash: Trade guide for Nifty 50, gold, silver rates to USD vs INR; eight stocks to buy or sell on Thursday
-  Experts have recommended these eight stocks to buy today. Bharti Hexacom, Westlife Foodworld
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-guide-for-nifty-50-gold-silver-rates-to-usd-vs-inr-eight-stocks-to-buy-or-sell-on-thursday-11769010648667.html
-
-- PNB Housing Finance Q3 results: Net profit rises 10% to  ₹521 crore; interest income up over 9% YoY — Details here
-  PNB Housing Finance reported a 20% rise in its standalone net profit to  ₹521 crore in the third quarter of FY2025-26. The company's interest income rose
-  🔗 https://www.livemint.com/market/stock-market-news/pnb-housing-finance-q3-results-net-profit-rises-10-to-rs-521-crore-interest-income-up-over-9-yoy-details-here-11769006743143.html
-
-- Wall Street rises after Trump says won’t use force to acquire Greenland, Netflix  dips 2.6%, United Airlines soars 4.2%
-  The S&amp;amp;P 500, the Dow Jones Industrial Average,
-  🔗 https://www.livemint.com/market/wall-street-rises-after-sharp-selloff-spotlight-on-trump-speech-11769003230662.html
+- Europe Stocks Steady as Trump Rules Out Force to Take Greenland
+  European shares erase declines after US President Donald Trump said he won't use excessive
+  🔗 https://www.livemint.com/market/europe-stocks-steady-as-trump-rules-out-force-to-take-greenland-11769020560750.html
 
 - Microsoft 365 down: Several users report outages with Outlook and Teams
   Microsoft 365 experienced a significant outage on Wednesday. Issues with Teams and Outlook were reported, with over 4,000 disruptions noted on Downdetector.
@@ -104,121 +104,121 @@
   The Wall Street Journal reports that the Dow rose 200 points after Trump's
   🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxPdUpkS1ZMMFhEeW1aNDRzWHBRUW9mdzB2eWtuZGh2TjVvR29uRmJSNzJKejJLY1dMaHhNdkhiWEVXa1hjNmRyYzg3TGRLUTU4bVFlY2pKSDNsdVZMUTBXV1R1QzUxRG80YXF2WFNuQ182QkxuZi1oalloSGEwY1J3em5INGxiX09fMjdIU2gzT25UMWs?oc=5
 
-- Stocks recover from sell-off after Trump rules out military action on Greenland: Live updates - CNBC
-  &nbsp;&ngt;<font color
+- S&P 500 pops 1%, Dow surges nearly 600 points as Trump calls off Europe tariffs tied to Greenland - CNBC
+  The Dow surges nearly 600 points as Trump calls off Europe tariffs tied to Greenland.
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBNVHI3eFBkQ2hOOEZFSl9PdUkxRmp0c2FnbmIzTnhpRkw3d1NWQ21IdlNSeDhnMkdYNFhpcDFkd2ZDWTdUMHVKS21OeWVXZkZQMUtTenlQamxvWWhOMDRkSExfWGhtTGt0RWRleFpCS1BLY0pwTTVr0gF8QVVfeXFMUHdxZWYtQmdiWGtCSlJjbGpCRVdJSko2R2NWZlZzTEZ6QmpWVkZTRi14RlBRRy1seHRMM1o3Vy10MkQ4Vy1yVEE0bThaaGs3X2h6c1hLdV9mUGxWWkV1VDRMTkVqVzJFbHZocG4tc25PVmtsRXdRdFNrWV9nMQ?oc=5
 
-- Global markets on alert as Europe to suspend approval of US trade deal - BBC
-  Europe to suspend approval of U.S. trade deal
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTMS1kRTJGZm5RZjJKaFVTM1hTMGd4YndPcjhDMU1IUDZmTTRMY3llRG5CMG4ydkwtZ1d4bWQ1QlltZk10cDhhUW9FZXdhRlBhYlBnVzBHYTdudw?oc=5
+- Tokyo Looks to Rev Up IPO Market by Luring Startups Across Asia - Bloomberg.com
+  Tokyo Looks to Rev Up IPO Market by L
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZmk3OW9iR0ZmOEFPcG1rMHFrU1JXT3ktRW9hZ2ZaUkw5WER1UUt2MGEwc0NJQ0l4ZUZZZFdRU1lzeDQxZG9Nb2JBdEpEem9xVlY4UE9SQVRwZGpkaUswbElNUG8yMlJsakhVZnlSaDExRjRsVVpUT040M05UMEtIMmpHeEZqaHVFVHR0bmt3aGdlcjFaUmhzNzlNc2VPZWZGUXROT0dfMlZkNXhIOXRLY09SQ1g?oc=5
 
-- Greenland Tensions Rattle Global Markets - The New York Times
-  Greenland Tensions Rattle
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR19ZR1ZnaW9Yclo2T0d0RHZNeWgxWUNTQ29CWS1qTUpZbm1xOG1VRFc0ZjVJTHc5eUtWMlJCclVNdnRlbk5ZTVZmTU5qbW5zMmVPWGY4Ul9hd3lMU05zcS1lcW1jYXo0b2s0VDI2cGdfeFBnOEtKWmN1TmJXVXA3QUhzMVJTLUZjZjJz?oc=5
+- South Korea’s Kospi Tops 5,000 as AI Demand Fuels Market Surge - Bloomberg.com
+  South Korea’s Kospi T
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXFlazNmdTFmUzNjMFZmSm5ieC1FRTB3bURNVW5ReDIyOHRtR1IzNFN0aVVJQ1k2aGFZNTFmZ2tOdDlzS1hwQjBvRjdSdDE2YTh6MHlvV3o2bjJWQU5QM1lkbW1ZNXh0NXlnQ0dyUjhsQkpxVkFWVzR1RjljVTNvVF8yby1QNEJRajZ2VURuS3JtY25jX3RQNFZVVmM0WjdfanFjTzVvUmpNSEoxdXRCUHhBOA?oc=5
 
-- Wall Street sees worst day since October after Trump tariff threats - The Guardian
-  Wall Street sees worst day since October after Trump tariff
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmdJaFdrX0tBMWNKOHRKRFRoN3A2RXdBT3pRNjZ4d3Fra3laQlNhdE9QcEV1ZmNncW1lb3ozeFpRZEZSSVY3cEZMLVlickFGRkozM254VVdGdWw0WDIwblF0Y182Njc2LVBZVEpMcTNnR0k0VEFmREROUmVmbGhGSXFrbFhJQ1BLWkhoVVpaQUUwdHVHcFliSTQ2QndYaXJo?oc=5
+- Jim Cramer says Trump-fueled market volatility once again proves to be a buying opportunity - CNBC
+  Jim Cramer says Trump-fueled market volatility once again
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzgteXppaVpTa1Rta2czQnFySkRtQWVLemZRM3M4aVViNzVfX0Mtd0Zsa0FPcElpUTVpOGFWVWlxbng4R0J5S3ZCQW90VFdyZFNWdmZkRnhXZmdLOG5XWGhDcVRPYlJDNnZkY1B1UUJUMG1RczNXX040eG5jV3RneHBTSWtwdzN1OXhvc0lfV1pFSVlfOVJ6NDJjNHM5cnhmWUZYSS15UWhyR2V5RlFaTWxn0gG3AUFVX3lxTE1TMzNrT1hReFY0VS1RS1g4ZVRFbm9IQkFtQ3oyUlNNaThGU21SRjUyRnJqdzlHSDRrcmVkWkJvYm1ETnNQYXRNYXY2MlVHRXBHOGNMNjItN3pMcHJ5NzdmN3hNZjgzTnJQNjJHdTF5cmwtTTFvR1BSTjkxZ3Y2Z0xWNnBiTVc3SS1CUnBPc09NOFNnenRCUG5XZldNd05qcW9HZ1VqZmxIMUlSUnhJdWx3SllhdGRYcw?oc=5
 
-- Wall Street seeks to shape Trump affordability ideas, sources say
-  Major Wall Street banks are pushing back on some of President Donald Trump's ideas for lowering the U.S. cost of living ahead of mid-term elections.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-seeks-to-shape-trump-affordability-ideas-sources-say/articleshow/127017719.cms
+- Stocks in news: Eternal, IndiGo, Adani Green, Dr Reddy's, Vodafone Idea
+   markets closed lower amid weak cues, with the Nifty nearing its 200 DEMA. Select heavyweight stocks may offer short-term relief due to oversold conditions. Companies like Eternal,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-eternal-indigo-adani-green-dr-reddys-vodafone-idea/articleshow/127079288.cms
 
-- Nvidia boss sees 'trillions' in AI spending ahead
-  The infrastructure to develop and power generative artificial intelligence models will require further "trillions" of dollars in investment
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-boss-sees-trillions-in-ai-spending-ahead/articleshow/127017227.cms
+- Asian stocks gain after Trump touts Greenland deal
+  Asian stocks rose, mirroring Wall Street's gains, as President Trump's comments on a "framework" deal regarding Greenland eased market concerns. Precious metals retreated, with gold and silver falling.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-gain-after-trump-touts-greenland-deal/articleshow/127078702.cms
 
-- Netflix shares fall 4% as co-CEOs go on defensive over $83 billion Warner Bros deal
-  Netflix's decision to plunk down nearly $83 billion on Warner Bros' assets marks a significant departure from the company's long-standing mantra: build, don't buy.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/netflix-shares-fall-4-as-co-ceos-go-on-defensive-over-83-billion-warner-bros-deal/articleshow/127016644.cms
+- PFC's zero coupon bonds a smart bet with tax advantage
+  Investors are exploring Power Finance Corporation zero coupon bonds for diversification. These bonds offer attractive post-tax returns, surpassing bank deposits and tax-free bonds.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/pfcs-zero-coupon-bonds-a-smart-bet-with-tax-advantage/articleshow/127077491.cms
 
-- JPMorgan's Dimon warns of 'economic disaster' as Trump backs credit card rate cap
-  JPMorgan Chase CEO Jamie Dimon warned cap on credit card interest rates would amount to economic disaster. U.S. President Donald Trump doubled down on the idea and said he was
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/jpmorgans-dimon-warns-of-economic-disaster-as-trump-backs-credit-card-rate-cap/articleshow/127015792.cms
+- India cracks down on ‘privacy cryptos’, flags money laundering risks
+  The Financial Intelligence Unit has directed crypto exchanges to stop dealing in these virtual assets. This move aims to curb money laundering and mask transaction trails. Privacy coins like Monero and Zcash use advanced cryptography to hide user identities.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/india-cracks-down-on-privacy-cryptos-flags-money-laundering-risks/articleshow/127076552.cms
 
-- Homebuyers' body FPCE seeks interest subsidy on home loans to boost demand for affordable housing
-  FPCE has demanded that the government in the upcoming Budget provide interest subsidy on home loans.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/homebuyers-body-fpce-seeks-interest-subsidy-on-home-loans-to-boost-demand-for-affordable-housing/articleshow/127015286.cms
-
-- 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
-  'It Won't Work With India': Parag Kh
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
-
-- India To Bring Back Diplomats' Families In Bangladesh Amid Security Concerns - NDTV
-  India To Bring Back Diplomats' Families In
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbFg0RGlybXQ3ZDU5VEJ4Wkh3RThfLTBzYm0taXBaWTc1Z2FCQ21KZjFscWFUb3RJaGtIXzUzOUtlamFtNDVlZmkyNmNWYkdoMy1LX3NrMUVrd1cwYW1wdHZQcnRPb1NyRkJqdW5YcnJ6V1YzNkdPMGV2M051Nk5zcmVITG4wT1FBZWluVW1LOExreWdZdUFQYzJQT1VyaEdlTUJvWUZzZWdSVUJBdWlmUmctOUNQTzRndDhOVE1jdVdxdWhjUWM3OVJFZ0Vqck0wNjlxRGROOTdNbHhZUkRtZktPcl9iMmZVWEVOT3lQS2VUeTZrNlpfYVNTNEhKc2PSAYcCQVVfeXFMTzJGT3ROLUs5Vzlib213ekRSZmVYVmJhUzFndlpfb3hnb1NJS05ySVJNSmRrenFPdXFyd0RENXlSNFdBbjFlTXNrakQxRVp3X2RXYmhTN2RrVk82enU1djZFaENReHhwTFQ1dnBHYkI4ZDZRNWxnR25qazZNeFBIb1hlQjF0N3h6NGVZX0FGdkx0UGVTOVNLUnN0TXJLT0w5ZWotLXNRYmtpOHdjYmRTRUVKbTZwandXLU95WU53VGJ2b3k3UmdhU21uaV9lSkhaWXlvVHBPTkFYMkExcl9LQ0dtaFIySGlrMjBQdmlIUnZOR3ZzRTlQeFYtQ2hrQjZlXzJrZ0t3VXM?oc=5
-
-- After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian oil purchase | India News - Hindustan Times
-  After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlZkR21aTkE2SkZkY3RZRDNHYkZmWF9IcURsa29velJNSWI4elJsdTh6NHNfdEJMX1BwX1F5eFhiVktIaV9RWE1ZVF9GNkZuUEFUbXpORWlrT3ZSTEY4R3g4QkxtcnEtVU5DcmNWbTlrN2dXTHNyT0ZzYXBsY2M3X3d3S19RQUJlUmxvQzMxWmNPNUVNM0d2dGFreFpFa080WlRYeW9mVWNXLTNUSVBtcDZ0MmpmZThYbVk3eWpZMllENUhwdURmelMtZW55S0wyNjZHUUhUeDJzeGlJMUY4aXg4Y01wakxUeHNSemlyS0VqMl96aHJGWERGRmhZWi1hbXRJSTBLazZXZG_SAZACQVVfeXFMTkpoWkRRaFF4TkJpVzRqR183OGt1TDJxdjUxanJQUV9SdldKWjVBLUU4M2w2dEJSNVpSNzFnWUJ5d0V0NVNJVks0cThwMlNFMGNGTXozeGJRR0JWZ056ZTdqdWpjTlM5UTlEaTVkeVZNcWtJZWJGWHhNUzB4bkMwRjNpa21XbnV6NzQ4b0FDcWRsTkJ2ZlpfdTRqRzBRX3JaWk5XVTA2dXZXQVVJdm14aUtwYjFvUlZEUEkxaHY5YVNPUjJpRWI2c05mN0RKYXRoLXpvOEVQUUpQcW1YWFBtRWhKTkxDM25MUzRHekFoeG1XNEtDMEQxaWFxM01LVFZLNWJPd0JFOHN6dFFkZUNQOTA?oc=5
-
-- Government advises kin of Indian officials in Bangladesh to return - Times of India
-  Government advises kin of Indian officials in Bangladesh to return
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTVrSmFyNzJyc21EZVA4NGx1b1NraE5VOG9mZ3R5dlhtUXhkMmgwODdiUWl1a0g3WkpuV2s3V3dEWTQ2UG1iSGNYVWZYYURoNUVVSkxfNWR6X3Q5MXJQbWRub1otSWt0TVp4S1l0SVNXNm43UVA0cG1BQmlIalFTeGlMbDJqLUd5T050bDJSM3l3U3BCTkIzTFJib2Y0Y0QxdGJscjJFaGxBSE13MWxDLVk0dnUwVmFJODlWTHJMSGdkYjB3WUhV0gHMAUFVX3lxTE1tR2pfREc5MUhnMl9pY1lld0VycWdlMF9SdVV1NzB0WWZkeHotLUJaZGJYVVVjTHFlY0Z6a0dpTHJtQW0taUFpTVk1WE53UUNWcGVIcE5rN0Z4WXdMaC11UGVjbjUySFZKOEtsbUpCOWZ2UWVnQUVSenFtejdsNlFWQWdybmNKNjRVMnlGUWt1REZjSDFzYUVqU2JGeFVyTmFYSkRycEZNcXRnWm50bEVqMkxCdmtUcV9CbS1sWmNvRDB3amtEeUlSamhxcg?oc=5
-
-- India’s traffic chokehold: Bengaluru ranks second; Pune fifth in global congestion index for 2025 - The Hindu
-  India's traffic chokehold: Bengaluru ranks second; Pune
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeHIzbjUtMjNIZk5pWjNDelk0SGVUUXJpQkpRZ09PZWRjb2JXUVN0Q1pCWHN2OHh1LS1xRlBEam9tY2RHcWVpTUxwYUJqQ2IyQ0ZDcnRrdE1GamxMbDRjQk1kYnk5bjViZDVDR2JjUGdxRERFVE4yTjRmVUJjMXJWSW8zMHFrWFAwdS03cWJhelF4Ri1Ya3dwMzJuM1ZMWXJYbWJhU3FmQ1pndnZCTzZBdWdWcnc2NUNKTFllMWU2NFZwYW9qbjlLbnNGNzgzaVg50gHXAUFVX3lxTFB4VExMVnhMMmxDV3FiU3JEOUV6Ym1XNWJRMS1CejlHUWFFSWhfRUNrSzJTRHVOMkxWSlk1bE9BTTNhSHlEMFdiMFlBdG8tNTA0WGlBcWJLaXFRdVhFek5LNVlhdEh3Q3A1U2hXMG5zZnQ0SS0tUkV1bExZWHpSbC1VWFNuZlBDWmdFMnc2ZmtZUnNxMHRBZUc4UTZzYVlkZ3pxQVlGemNMX2tXMHRnVDNsSWVBWGZDNEJxdzFWaDZaaE1LSDJPOUpKY3ZOVGg1ZTFFc1dkdkF3?oc=5
+- Central bank sold $9.7 billion in Nov as rupee falls 0.7%
+  The Reserve Bank of India sold dollars in November. This action aimed to manage the Indian rupee's value. The rupee saw depreciation last year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/central-bank-sold-9-7-billion-in-nov-as-rupee-falls-0-7/articleshow/127076287.cms
 
 - 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
   'It Won't Work With India': Parag Kh
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
 
+- India to withdraw diplomats’ families from Bangladesh over security situation | India News - Hindustan Times
+  India to withdraw diplomats' families from Bangladesh over security situation.
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcElEVWZNWjlreUNraWItaG5hamppWm1LcXFyaWpPYTl5ZkMxY0FOV083eWt2TWZRcmt5ZlVCbjdsM21HbjYwZFRjVHdLZlNwb3lWdlAwTnNsdDdzSzY2bXZsbE4zR3BjdE1mV0pRN3dwdlFhaUpFRDVWTVpjYmVMWk1ac3hEMUtqZ1NBXzFpZDBaUkNuUGUwMUcxTmZ2b09fZ0Q2V0pOWGx0MGFobXpZTjU3dmNKMUhSckZWNkFoZ2Q4NHY3UmdTaVhKVjNfWmx4MkhqTFFZd0o2eDFJRVZKV093ZUdnNHVKaEpZaUZKUW1XNW1KWU8yaHdwQk3SAYICQVVfeXFMUHNVOFhMVVF0UHRsWTdOYWNyYkFuc3hkeXBnTEdTWEVocEhGUXNXZ0ZhQmhpbTlmMnBwSzZ5U2hUX3NrT3Bra1Ixcjk0bDU0OUlST0lsa1d4aF9PcFRXVjRRaWs1VDBpR2ZDM3RkdkxMZm9fWm02RlJBUFRVYmFrREVHdy1kY21pR1NhbDBUUHNXTGRRRnhnNl9MbHhIZVF1dklNcVBzTXhyYTdEeE5Hejg3bkZOaWxwOEdKWTM3V1o1R2o4RnBCVkkyeWNQSHhzQmdPd3JrT1FFU3FObllBMjFqTUNvRzNsSVRoRDVWYnNVNkZFZlRsU1FtcUZWOUVYenJR?oc=5
+
 - India To Bring Back Diplomats' Families In Bangladesh Amid Security Concerns - NDTV
   India To Bring Back Diplomats' Families In
   🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbFg0RGlybXQ3ZDU5VEJ4Wkh3RThfLTBzYm0taXBaWTc1Z2FCQ21KZjFscWFUb3RJaGtIXzUzOUtlamFtNDVlZmkyNmNWYkdoMy1LX3NrMUVrd1cwYW1wdHZQcnRPb1NyRkJqdW5YcnJ6V1YzNkdPMGV2M051Nk5zcmVITG4wT1FBZWluVW1LOExreWdZdUFQYzJQT1VyaEdlTUJvWUZzZWdSVUJBdWlmUmctOUNQTzRndDhOVE1jdVdxdWhjUWM3OVJFZ0Vqck0wNjlxRGROOTdNbHhZUkRtZktPcl9iMmZVWEVOT3lQS2VUeTZrNlpfYVNTNEhKc2PSAYcCQVVfeXFMTzJGT3ROLUs5Vzlib213ekRSZmVYVmJhUzFndlpfb3hnb1NJS05ySVJNSmRrenFPdXFyd0RENXlSNFdBbjFlTXNrakQxRVp3X2RXYmhTN2RrVk82enU1djZFaENReHhwTFQ1dnBHYkI4ZDZRNWxnR25qazZNeFBIb1hlQjF0N3h6NGVZX0FGdkx0UGVTOVNLUnN0TXJLT0w5ZWotLXNRYmtpOHdjYmRTRUVKbTZwandXLU95WU53VGJ2b3k3UmdhU21uaV9lSkhaWXlvVHBPTkFYMkExcl9LQ0dtaFIySGlrMjBQdmlIUnZOR3ZzRTlQeFYtQ2hrQjZlXzJrZ0t3VXM?oc=5
-
-- After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian oil purchase | India News - Hindustan Times
-  After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlZkR21aTkE2SkZkY3RZRDNHYkZmWF9IcURsa29velJNSWI4elJsdTh6NHNfdEJMX1BwX1F5eFhiVktIaV9RWE1ZVF9GNkZuUEFUbXpORWlrT3ZSTEY4R3g4QkxtcnEtVU5DcmNWbTlrN2dXTHNyT0ZzYXBsY2M3X3d3S19RQUJlUmxvQzMxWmNPNUVNM0d2dGFreFpFa080WlRYeW9mVWNXLTNUSVBtcDZ0MmpmZThYbVk3eWpZMllENUhwdURmelMtZW55S0wyNjZHUUhUeDJzeGlJMUY4aXg4Y01wakxUeHNSemlyS0VqMl96aHJGWERGRmhZWi1hbXRJSTBLazZXZG_SAZACQVVfeXFMTkpoWkRRaFF4TkJpVzRqR183OGt1TDJxdjUxanJQUV9SdldKWjVBLUU4M2w2dEJSNVpSNzFnWUJ5d0V0NVNJVks0cThwMlNFMGNGTXozeGJRR0JWZ056ZTdqdWpjTlM5UTlEaTVkeVZNcWtJZWJGWHhNUzB4bkMwRjNpa21XbnV6NzQ4b0FDcWRsTkJ2ZlpfdTRqRzBRX3JaWk5XVTA2dXZXQVVJdm14aUtwYjFvUlZEUEkxaHY5YVNPUjJpRWI2c05mN0RKYXRoLXpvOEVQUUpQcW1YWFBtRWhKTkxDM25MUzRHekFoeG1XNEtDMEQxaWFxM01LVFZLNWJPd0JFOHN6dFFkZUNQOTA?oc=5
 
 - Government advises kin of Indian officials in Bangladesh to return - Times of India
   Government advises kin of Indian officials in Bangladesh to return
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTVrSmFyNzJyc21EZVA4NGx1b1NraE5VOG9mZ3R5dlhtUXhkMmgwODdiUWl1a0g3WkpuV2s3V3dEWTQ2UG1iSGNYVWZYYURoNUVVSkxfNWR6X3Q5MXJQbWRub1otSWt0TVp4S1l0SVNXNm43UVA0cG1BQmlIalFTeGlMbDJqLUd5T050bDJSM3l3U3BCTkIzTFJib2Y0Y0QxdGJscjJFaGxBSE13MWxDLVk0dnUwVmFJODlWTHJMSGdkYjB3WUhV0gHMAUFVX3lxTE1tR2pfREc5MUhnMl9pY1lld0VycWdlMF9SdVV1NzB0WWZkeHotLUJaZGJYVVVjTHFlY0Z6a0dpTHJtQW0taUFpTVk1WE53UUNWcGVIcE5rN0Z4WXdMaC11UGVjbjUySFZKOEtsbUpCOWZ2UWVnQUVSenFtejdsNlFWQWdybmNKNjRVMnlGUWt1REZjSDFzYUVqU2JGeFVyTmFYSkRycEZNcXRnWm50bEVqMkxCdmtUcV9CbS1sWmNvRDB3amtEeUlSamhxcg?oc=5
 
-- India’s traffic chokehold: Bengaluru ranks second; Pune fifth in global congestion index for 2025 - The Hindu
-  India's traffic chokehold: Bengaluru ranks second; Pune
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeHIzbjUtMjNIZk5pWjNDelk0SGVUUXJpQkpRZ09PZWRjb2JXUVN0Q1pCWHN2OHh1LS1xRlBEam9tY2RHcWVpTUxwYUJqQ2IyQ0ZDcnRrdE1GamxMbDRjQk1kYnk5bjViZDVDR2JjUGdxRERFVE4yTjRmVUJjMXJWSW8zMHFrWFAwdS03cWJhelF4Ri1Ya3dwMzJuM1ZMWXJYbWJhU3FmQ1pndnZCTzZBdWdWcnc2NUNKTFllMWU2NFZwYW9qbjlLbnNGNzgzaVg50gHXAUFVX3lxTFB4VExMVnhMMmxDV3FiU3JEOUV6Ym1XNWJRMS1CejlHUWFFSWhfRUNrSzJTRHVOMkxWSlk1bE9BTTNhSHlEMFdiMFlBdG8tNTA0WGlBcWJLaXFRdVhFek5LNVlhdEh3Q3A1U2hXMG5zZnQ0SS0tUkV1bExZWHpSbC1VWFNuZlBDWmdFMnc2ZmtZUnNxMHRBZUc4UTZzYVlkZ3pxQVlGemNMX2tXMHRnVDNsSWVBWGZDNEJxdzFWaDZaaE1LSDJPOUpKY3ZOVGg1ZTFFc1dkdkF3?oc=5
+- Boeing 787 had technical faults long before Ahmedabad crash: US safety group | India News - Hindustan Times
+  Boeing 787 had technical faults long before Ahmedabad crash.
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZUU5bXB2Rm9TMHBOdEM5S3I3czUtTksxd2c5b1NleFBqc1RnUjcyZDYxX3ZuLXdfQ1E2YXpBQ0N0aFJiLTlMZUNqMmxwSURkeWxaemRScGg1c2E2YV9Ld04zcnhGYmZNdE9pSm5WY0k4dXYwN05iMDlEUzBIaEpBMVVmc1RZYUhZNHpwRDJMcXVHSE1EbE5ETk9pcENuZVgzRzJ6eTgwYTNSdjZiQmYwdjFNelBHWVYyNzZqVUFvZzdSbm9FbjJYbUU2NHc1V05xSDlmYtIB2gFBVV95cUxPbV9VZ2N1bEZqWmluV05uS0hmY0tMSU13bFdVU1BFaERJaEVQZlJlYUJlMENKb0JjZUwzWHhmU3cyeFc5UXMzZUROVWlLUExWS2FxaUlXZnZuU2pZdnlXaENxWE5vOWFRbjBuZW9iOVMyUHBBYjVGTGtzR1ZtdkplX2diY2s0dGcxZGs5Ry0wMzhQaHVxOEhmYmFMWXI4dzNkT0dHSUk4UWNtRmF3NG9jUFlsa2w5QmtxQU12Q2gtSmNxelpOaW9vUzZZT19mRUdvYjNRX0VtTk9HQQ?oc=5
 
 - 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
   'It Won't Work With India': Parag Kh
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
 
+- India to withdraw diplomats’ families from Bangladesh over security situation | India News - Hindustan Times
+  India to withdraw diplomats' families from Bangladesh over security situation.
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcElEVWZNWjlreUNraWItaG5hamppWm1LcXFyaWpPYTl5ZkMxY0FOV083eWt2TWZRcmt5ZlVCbjdsM21HbjYwZFRjVHdLZlNwb3lWdlAwTnNsdDdzSzY2bXZsbE4zR3BjdE1mV0pRN3dwdlFhaUpFRDVWTVpjYmVMWk1ac3hEMUtqZ1NBXzFpZDBaUkNuUGUwMUcxTmZ2b09fZ0Q2V0pOWGx0MGFobXpZTjU3dmNKMUhSckZWNkFoZ2Q4NHY3UmdTaVhKVjNfWmx4MkhqTFFZd0o2eDFJRVZKV093ZUdnNHVKaEpZaUZKUW1XNW1KWU8yaHdwQk3SAYICQVVfeXFMUHNVOFhMVVF0UHRsWTdOYWNyYkFuc3hkeXBnTEdTWEVocEhGUXNXZ0ZhQmhpbTlmMnBwSzZ5U2hUX3NrT3Bra1Ixcjk0bDU0OUlST0lsa1d4aF9PcFRXVjRRaWs1VDBpR2ZDM3RkdkxMZm9fWm02RlJBUFRVYmFrREVHdy1kY21pR1NhbDBUUHNXTGRRRnhnNl9MbHhIZVF1dklNcVBzTXhyYTdEeE5Hejg3bkZOaWxwOEdKWTM3V1o1R2o4RnBCVkkyeWNQSHhzQmdPd3JrT1FFU3FObllBMjFqTUNvRzNsSVRoRDVWYnNVNkZFZlRsU1FtcUZWOUVYenJR?oc=5
+
 - India To Bring Back Diplomats' Families In Bangladesh Amid Security Concerns - NDTV
   India To Bring Back Diplomats' Families In
   🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbFg0RGlybXQ3ZDU5VEJ4Wkh3RThfLTBzYm0taXBaWTc1Z2FCQ21KZjFscWFUb3RJaGtIXzUzOUtlamFtNDVlZmkyNmNWYkdoMy1LX3NrMUVrd1cwYW1wdHZQcnRPb1NyRkJqdW5YcnJ6V1YzNkdPMGV2M051Nk5zcmVITG4wT1FBZWluVW1LOExreWdZdUFQYzJQT1VyaEdlTUJvWUZzZWdSVUJBdWlmUmctOUNQTzRndDhOVE1jdVdxdWhjUWM3OVJFZ0Vqck0wNjlxRGROOTdNbHhZUkRtZktPcl9iMmZVWEVOT3lQS2VUeTZrNlpfYVNTNEhKc2PSAYcCQVVfeXFMTzJGT3ROLUs5Vzlib213ekRSZmVYVmJhUzFndlpfb3hnb1NJS05ySVJNSmRrenFPdXFyd0RENXlSNFdBbjFlTXNrakQxRVp3X2RXYmhTN2RrVk82enU1djZFaENReHhwTFQ1dnBHYkI4ZDZRNWxnR25qazZNeFBIb1hlQjF0N3h6NGVZX0FGdkx0UGVTOVNLUnN0TXJLT0w5ZWotLXNRYmtpOHdjYmRTRUVKbTZwandXLU95WU53VGJ2b3k3UmdhU21uaV9lSkhaWXlvVHBPTkFYMkExcl9LQ0dtaFIySGlrMjBQdmlIUnZOR3ZzRTlQeFYtQ2hrQjZlXzJrZ0t3VXM?oc=5
-
-- After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian oil purchase | India News - Hindustan Times
-  After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlZkR21aTkE2SkZkY3RZRDNHYkZmWF9IcURsa29velJNSWI4elJsdTh6NHNfdEJMX1BwX1F5eFhiVktIaV9RWE1ZVF9GNkZuUEFUbXpORWlrT3ZSTEY4R3g4QkxtcnEtVU5DcmNWbTlrN2dXTHNyT0ZzYXBsY2M3X3d3S19RQUJlUmxvQzMxWmNPNUVNM0d2dGFreFpFa080WlRYeW9mVWNXLTNUSVBtcDZ0MmpmZThYbVk3eWpZMllENUhwdURmelMtZW55S0wyNjZHUUhUeDJzeGlJMUY4aXg4Y01wakxUeHNSemlyS0VqMl96aHJGWERGRmhZWi1hbXRJSTBLazZXZG_SAZACQVVfeXFMTkpoWkRRaFF4TkJpVzRqR183OGt1TDJxdjUxanJQUV9SdldKWjVBLUU4M2w2dEJSNVpSNzFnWUJ5d0V0NVNJVks0cThwMlNFMGNGTXozeGJRR0JWZ056ZTdqdWpjTlM5UTlEaTVkeVZNcWtJZWJGWHhNUzB4bkMwRjNpa21XbnV6NzQ4b0FDcWRsTkJ2ZlpfdTRqRzBRX3JaWk5XVTA2dXZXQVVJdm14aUtwYjFvUlZEUEkxaHY5YVNPUjJpRWI2c05mN0RKYXRoLXpvOEVQUUpQcW1YWFBtRWhKTkxDM25MUzRHekFoeG1XNEtDMEQxaWFxM01LVFZLNWJPd0JFOHN6dFFkZUNQOTA?oc=5
 
 - Government advises kin of Indian officials in Bangladesh to return - Times of India
   Government advises kin of Indian officials in Bangladesh to return
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTVrSmFyNzJyc21EZVA4NGx1b1NraE5VOG9mZ3R5dlhtUXhkMmgwODdiUWl1a0g3WkpuV2s3V3dEWTQ2UG1iSGNYVWZYYURoNUVVSkxfNWR6X3Q5MXJQbWRub1otSWt0TVp4S1l0SVNXNm43UVA0cG1BQmlIalFTeGlMbDJqLUd5T050bDJSM3l3U3BCTkIzTFJib2Y0Y0QxdGJscjJFaGxBSE13MWxDLVk0dnUwVmFJODlWTHJMSGdkYjB3WUhV0gHMAUFVX3lxTE1tR2pfREc5MUhnMl9pY1lld0VycWdlMF9SdVV1NzB0WWZkeHotLUJaZGJYVVVjTHFlY0Z6a0dpTHJtQW0taUFpTVk1WE53UUNWcGVIcE5rN0Z4WXdMaC11UGVjbjUySFZKOEtsbUpCOWZ2UWVnQUVSenFtejdsNlFWQWdybmNKNjRVMnlGUWt1REZjSDFzYUVqU2JGeFVyTmFYSkRycEZNcXRnWm50bEVqMkxCdmtUcV9CbS1sWmNvRDB3amtEeUlSamhxcg?oc=5
 
-- India’s traffic chokehold: Bengaluru ranks second; Pune fifth in global congestion index for 2025 - The Hindu
-  India's traffic chokehold: Bengaluru ranks second; Pune
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeHIzbjUtMjNIZk5pWjNDelk0SGVUUXJpQkpRZ09PZWRjb2JXUVN0Q1pCWHN2OHh1LS1xRlBEam9tY2RHcWVpTUxwYUJqQ2IyQ0ZDcnRrdE1GamxMbDRjQk1kYnk5bjViZDVDR2JjUGdxRERFVE4yTjRmVUJjMXJWSW8zMHFrWFAwdS03cWJhelF4Ri1Ya3dwMzJuM1ZMWXJYbWJhU3FmQ1pndnZCTzZBdWdWcnc2NUNKTFllMWU2NFZwYW9qbjlLbnNGNzgzaVg50gHXAUFVX3lxTFB4VExMVnhMMmxDV3FiU3JEOUV6Ym1XNWJRMS1CejlHUWFFSWhfRUNrSzJTRHVOMkxWSlk1bE9BTTNhSHlEMFdiMFlBdG8tNTA0WGlBcWJLaXFRdVhFek5LNVlhdEh3Q3A1U2hXMG5zZnQ0SS0tUkV1bExZWHpSbC1VWFNuZlBDWmdFMnc2ZmtZUnNxMHRBZUc4UTZzYVlkZ3pxQVlGemNMX2tXMHRnVDNsSWVBWGZDNEJxdzFWaDZaaE1LSDJPOUpKY3ZOVGg1ZTFFc1dkdkF3?oc=5
+- Boeing 787 had technical faults long before Ahmedabad crash: US safety group | India News - Hindustan Times
+  Boeing 787 had technical faults long before Ahmedabad crash.
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZUU5bXB2Rm9TMHBOdEM5S3I3czUtTksxd2c5b1NleFBqc1RnUjcyZDYxX3ZuLXdfQ1E2YXpBQ0N0aFJiLTlMZUNqMmxwSURkeWxaemRScGg1c2E2YV9Ld04zcnhGYmZNdE9pSm5WY0k4dXYwN05iMDlEUzBIaEpBMVVmc1RZYUhZNHpwRDJMcXVHSE1EbE5ETk9pcENuZVgzRzJ6eTgwYTNSdjZiQmYwdjFNelBHWVYyNzZqVUFvZzdSbm9FbjJYbUU2NHc1V05xSDlmYtIB2gFBVV95cUxPbV9VZ2N1bEZqWmluV05uS0hmY0tMSU13bFdVU1BFaERJaEVQZlJlYUJlMENKb0JjZUwzWHhmU3cyeFc5UXMzZUROVWlLUExWS2FxaUlXZnZuU2pZdnlXaENxWE5vOWFRbjBuZW9iOVMyUHBBYjVGTGtzR1ZtdkplX2diY2s0dGcxZGs5Ry0wMzhQaHVxOEhmYmFMWXI4dzNkT0dHSUk4UWNtRmF3NG9jUFlsa2w5QmtxQU12Q2gtSmNxelpOaW9vUzZZT19mRUdvYjNRX0VtTk9HQQ?oc=5
 
 - 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
   'It Won't Work With India': Parag Kh
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
 
+- India to withdraw diplomats’ families from Bangladesh over security situation | India News - Hindustan Times
+  India to withdraw diplomats' families from Bangladesh over security situation.
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcElEVWZNWjlreUNraWItaG5hamppWm1LcXFyaWpPYTl5ZkMxY0FOV083eWt2TWZRcmt5ZlVCbjdsM21HbjYwZFRjVHdLZlNwb3lWdlAwTnNsdDdzSzY2bXZsbE4zR3BjdE1mV0pRN3dwdlFhaUpFRDVWTVpjYmVMWk1ac3hEMUtqZ1NBXzFpZDBaUkNuUGUwMUcxTmZ2b09fZ0Q2V0pOWGx0MGFobXpZTjU3dmNKMUhSckZWNkFoZ2Q4NHY3UmdTaVhKVjNfWmx4MkhqTFFZd0o2eDFJRVZKV093ZUdnNHVKaEpZaUZKUW1XNW1KWU8yaHdwQk3SAYICQVVfeXFMUHNVOFhMVVF0UHRsWTdOYWNyYkFuc3hkeXBnTEdTWEVocEhGUXNXZ0ZhQmhpbTlmMnBwSzZ5U2hUX3NrT3Bra1Ixcjk0bDU0OUlST0lsa1d4aF9PcFRXVjRRaWs1VDBpR2ZDM3RkdkxMZm9fWm02RlJBUFRVYmFrREVHdy1kY21pR1NhbDBUUHNXTGRRRnhnNl9MbHhIZVF1dklNcVBzTXhyYTdEeE5Hejg3bkZOaWxwOEdKWTM3V1o1R2o4RnBCVkkyeWNQSHhzQmdPd3JrT1FFU3FObllBMjFqTUNvRzNsSVRoRDVWYnNVNkZFZlRsU1FtcUZWOUVYenJR?oc=5
+
 - India To Bring Back Diplomats' Families In Bangladesh Amid Security Concerns - NDTV
   India To Bring Back Diplomats' Families In
   🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbFg0RGlybXQ3ZDU5VEJ4Wkh3RThfLTBzYm0taXBaWTc1Z2FCQ21KZjFscWFUb3RJaGtIXzUzOUtlamFtNDVlZmkyNmNWYkdoMy1LX3NrMUVrd1cwYW1wdHZQcnRPb1NyRkJqdW5YcnJ6V1YzNkdPMGV2M051Nk5zcmVITG4wT1FBZWluVW1LOExreWdZdUFQYzJQT1VyaEdlTUJvWUZzZWdSVUJBdWlmUmctOUNQTzRndDhOVE1jdVdxdWhjUWM3OVJFZ0Vqck0wNjlxRGROOTdNbHhZUkRtZktPcl9iMmZVWEVOT3lQS2VUeTZrNlpfYVNTNEhKc2PSAYcCQVVfeXFMTzJGT3ROLUs5Vzlib213ekRSZmVYVmJhUzFndlpfb3hnb1NJS05ySVJNSmRrenFPdXFyd0RENXlSNFdBbjFlTXNrakQxRVp3X2RXYmhTN2RrVk82enU1djZFaENReHhwTFQ1dnBHYkI4ZDZRNWxnR25qazZNeFBIb1hlQjF0N3h6NGVZX0FGdkx0UGVTOVNLUnN0TXJLT0w5ZWotLXNRYmtpOHdjYmRTRUVKbTZwandXLU95WU53VGJ2b3k3UmdhU21uaV9lSkhaWXlvVHBPTkFYMkExcl9LQ0dtaFIySGlrMjBQdmlIUnZOR3ZzRTlQeFYtQ2hrQjZlXzJrZ0t3VXM?oc=5
-
-- After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian oil purchase | India News - Hindustan Times
-  After Trump's 500% tariff threat, US Treasury Secretary's message to India on Russian
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTlZkR21aTkE2SkZkY3RZRDNHYkZmWF9IcURsa29velJNSWI4elJsdTh6NHNfdEJMX1BwX1F5eFhiVktIaV9RWE1ZVF9GNkZuUEFUbXpORWlrT3ZSTEY4R3g4QkxtcnEtVU5DcmNWbTlrN2dXTHNyT0ZzYXBsY2M3X3d3S19RQUJlUmxvQzMxWmNPNUVNM0d2dGFreFpFa080WlRYeW9mVWNXLTNUSVBtcDZ0MmpmZThYbVk3eWpZMllENUhwdURmelMtZW55S0wyNjZHUUhUeDJzeGlJMUY4aXg4Y01wakxUeHNSemlyS0VqMl96aHJGWERGRmhZWi1hbXRJSTBLazZXZG_SAZACQVVfeXFMTkpoWkRRaFF4TkJpVzRqR183OGt1TDJxdjUxanJQUV9SdldKWjVBLUU4M2w2dEJSNVpSNzFnWUJ5d0V0NVNJVks0cThwMlNFMGNGTXozeGJRR0JWZ056ZTdqdWpjTlM5UTlEaTVkeVZNcWtJZWJGWHhNUzB4bkMwRjNpa21XbnV6NzQ4b0FDcWRsTkJ2ZlpfdTRqRzBRX3JaWk5XVTA2dXZXQVVJdm14aUtwYjFvUlZEUEkxaHY5YVNPUjJpRWI2c05mN0RKYXRoLXpvOEVQUUpQcW1YWFBtRWhKTkxDM25MUzRHekFoeG1XNEtDMEQxaWFxM01LVFZLNWJPd0JFOHN6dFFkZUNQOTA?oc=5
 
 - Government advises kin of Indian officials in Bangladesh to return - Times of India
   Government advises kin of Indian officials in Bangladesh to return
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTVrSmFyNzJyc21EZVA4NGx1b1NraE5VOG9mZ3R5dlhtUXhkMmgwODdiUWl1a0g3WkpuV2s3V3dEWTQ2UG1iSGNYVWZYYURoNUVVSkxfNWR6X3Q5MXJQbWRub1otSWt0TVp4S1l0SVNXNm43UVA0cG1BQmlIalFTeGlMbDJqLUd5T050bDJSM3l3U3BCTkIzTFJib2Y0Y0QxdGJscjJFaGxBSE13MWxDLVk0dnUwVmFJODlWTHJMSGdkYjB3WUhV0gHMAUFVX3lxTE1tR2pfREc5MUhnMl9pY1lld0VycWdlMF9SdVV1NzB0WWZkeHotLUJaZGJYVVVjTHFlY0Z6a0dpTHJtQW0taUFpTVk1WE53UUNWcGVIcE5rN0Z4WXdMaC11UGVjbjUySFZKOEtsbUpCOWZ2UWVnQUVSenFtejdsNlFWQWdybmNKNjRVMnlGUWt1REZjSDFzYUVqU2JGeFVyTmFYSkRycEZNcXRnWm50bEVqMkxCdmtUcV9CbS1sWmNvRDB3amtEeUlSamhxcg?oc=5
 
-- India’s traffic chokehold: Bengaluru ranks second; Pune fifth in global congestion index for 2025 - The Hindu
-  India's traffic chokehold: Bengaluru ranks second; Pune
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeHIzbjUtMjNIZk5pWjNDelk0SGVUUXJpQkpRZ09PZWRjb2JXUVN0Q1pCWHN2OHh1LS1xRlBEam9tY2RHcWVpTUxwYUJqQ2IyQ0ZDcnRrdE1GamxMbDRjQk1kYnk5bjViZDVDR2JjUGdxRERFVE4yTjRmVUJjMXJWSW8zMHFrWFAwdS03cWJhelF4Ri1Ya3dwMzJuM1ZMWXJYbWJhU3FmQ1pndnZCTzZBdWdWcnc2NUNKTFllMWU2NFZwYW9qbjlLbnNGNzgzaVg50gHXAUFVX3lxTFB4VExMVnhMMmxDV3FiU3JEOUV6Ym1XNWJRMS1CejlHUWFFSWhfRUNrSzJTRHVOMkxWSlk1bE9BTTNhSHlEMFdiMFlBdG8tNTA0WGlBcWJLaXFRdVhFek5LNVlhdEh3Q3A1U2hXMG5zZnQ0SS0tUkV1bExZWHpSbC1VWFNuZlBDWmdFMnc2ZmtZUnNxMHRBZUc4UTZzYVlkZ3pxQVlGemNMX2tXMHRnVDNsSWVBWGZDNEJxdzFWaDZaaE1LSDJPOUpKY3ZOVGg1ZTFFc1dkdkF3?oc=5
+- Boeing 787 had technical faults long before Ahmedabad crash: US safety group | India News - Hindustan Times
+  Boeing 787 had technical faults long before Ahmedabad crash.
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZUU5bXB2Rm9TMHBOdEM5S3I3czUtTksxd2c5b1NleFBqc1RnUjcyZDYxX3ZuLXdfQ1E2YXpBQ0N0aFJiLTlMZUNqMmxwSURkeWxaemRScGg1c2E2YV9Ld04zcnhGYmZNdE9pSm5WY0k4dXYwN05iMDlEUzBIaEpBMVVmc1RZYUhZNHpwRDJMcXVHSE1EbE5ETk9pcENuZVgzRzJ6eTgwYTNSdjZiQmYwdjFNelBHWVYyNzZqVUFvZzdSbm9FbjJYbUU2NHc1V05xSDlmYtIB2gFBVV95cUxPbV9VZ2N1bEZqWmluV05uS0hmY0tMSU13bFdVU1BFaERJaEVQZlJlYUJlMENKb0JjZUwzWHhmU3cyeFc5UXMzZUROVWlLUExWS2FxaUlXZnZuU2pZdnlXaENxWE5vOWFRbjBuZW9iOVMyUHBBYjVGTGtzR1ZtdkplX2diY2s0dGcxZGs5Ry0wMzhQaHVxOEhmYmFMWXI4dzNkT0dHSUk4UWNtRmF3NG9jUFlsa2w5QmtxQU12Q2gtSmNxelpOaW9vUzZZT19mRUdvYjNRX0VtTk9HQQ?oc=5
+
+- 'It Won't Work With India': Parag Khanna Says US Pressure Can't Move Delhi - NDTV
+  'It Won't Work With India': Parag Kh
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVsZEdkZHBIOHFBRUFtaUpCenp0OVFuWkpYSmd0YzA4UUxZM3pwZUR2M0tLeGl2WmNwY2pmZjM5c3NmM1B5eGRISUpzendwTVJnSUc5NDEyRXU5d1NEcndhc3ctWEREajBLaDdobnNWME5UcGhva3NiXzk1UGo2M0dDN21sUXBmSml2OWR4UGZMMGFoai1odlE2NlBURG9hTU5ld0k4SG9iTFBMZ1NoTEpPZm13Z9IBvgFBVV95cUxNbEVuSzNSNFBmOXVqbkRvSjV6eHZJaV9vS3o3UjlwR2VYR2dtMnMzLXZXWm83dmdHOG1yMy13cEc4b3RwWWZKVm1lWV94WEVLZzlvZkRRanlLT3lKQXhsTTZUV0pIcDhxU192N1NOeXA0aGtlaUtZVjNqVmVWQXhRdjBHZnBBQXJDajl0aWRyNVdRTXFKV1h1MlhQUWFQYUV2TFRSSDFYM01YeXc2TllyV2pKaGEzUk11UzRETUFB?oc=5
+
+- India to withdraw diplomats’ families from Bangladesh over security situation | India News - Hindustan Times
+  India to withdraw diplomats' families from Bangladesh over security situation.
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcElEVWZNWjlreUNraWItaG5hamppWm1LcXFyaWpPYTl5ZkMxY0FOV083eWt2TWZRcmt5ZlVCbjdsM21HbjYwZFRjVHdLZlNwb3lWdlAwTnNsdDdzSzY2bXZsbE4zR3BjdE1mV0pRN3dwdlFhaUpFRDVWTVpjYmVMWk1ac3hEMUtqZ1NBXzFpZDBaUkNuUGUwMUcxTmZ2b09fZ0Q2V0pOWGx0MGFobXpZTjU3dmNKMUhSckZWNkFoZ2Q4NHY3UmdTaVhKVjNfWmx4MkhqTFFZd0o2eDFJRVZKV093ZUdnNHVKaEpZaUZKUW1XNW1KWU8yaHdwQk3SAYICQVVfeXFMUHNVOFhMVVF0UHRsWTdOYWNyYkFuc3hkeXBnTEdTWEVocEhGUXNXZ0ZhQmhpbTlmMnBwSzZ5U2hUX3NrT3Bra1Ixcjk0bDU0OUlST0lsa1d4aF9PcFRXVjRRaWs1VDBpR2ZDM3RkdkxMZm9fWm02RlJBUFRVYmFrREVHdy1kY21pR1NhbDBUUHNXTGRRRnhnNl9MbHhIZVF1dklNcVBzTXhyYTdEeE5Hejg3bkZOaWxwOEdKWTM3V1o1R2o4RnBCVkkyeWNQSHhzQmdPd3JrT1FFU3FObllBMjFqTUNvRzNsSVRoRDVWYnNVNkZFZlRsU1FtcUZWOUVYenJR?oc=5
+
+- India To Bring Back Diplomats' Families In Bangladesh Amid Security Concerns - NDTV
+  India To Bring Back Diplomats' Families In
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbFg0RGlybXQ3ZDU5VEJ4Wkh3RThfLTBzYm0taXBaWTc1Z2FCQ21KZjFscWFUb3RJaGtIXzUzOUtlamFtNDVlZmkyNmNWYkdoMy1LX3NrMUVrd1cwYW1wdHZQcnRPb1NyRkJqdW5YcnJ6V1YzNkdPMGV2M051Nk5zcmVITG4wT1FBZWluVW1LOExreWdZdUFQYzJQT1VyaEdlTUJvWUZzZWdSVUJBdWlmUmctOUNQTzRndDhOVE1jdVdxdWhjUWM3OVJFZ0Vqck0wNjlxRGROOTdNbHhZUkRtZktPcl9iMmZVWEVOT3lQS2VUeTZrNlpfYVNTNEhKc2PSAYcCQVVfeXFMTzJGT3ROLUs5Vzlib213ekRSZmVYVmJhUzFndlpfb3hnb1NJS05ySVJNSmRrenFPdXFyd0RENXlSNFdBbjFlTXNrakQxRVp3X2RXYmhTN2RrVk82enU1djZFaENReHhwTFQ1dnBHYkI4ZDZRNWxnR25qazZNeFBIb1hlQjF0N3h6NGVZX0FGdkx0UGVTOVNLUnN0TXJLT0w5ZWotLXNRYmtpOHdjYmRTRUVKbTZwandXLU95WU53VGJ2b3k3UmdhU21uaV9lSkhaWXlvVHBPTkFYMkExcl9LQ0dtaFIySGlrMjBQdmlIUnZOR3ZzRTlQeFYtQ2hrQjZlXzJrZ0t3VXM?oc=5
+
+- Government advises kin of Indian officials in Bangladesh to return - Times of India
+  Government advises kin of Indian officials in Bangladesh to return
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTVrSmFyNzJyc21EZVA4NGx1b1NraE5VOG9mZ3R5dlhtUXhkMmgwODdiUWl1a0g3WkpuV2s3V3dEWTQ2UG1iSGNYVWZYYURoNUVVSkxfNWR6X3Q5MXJQbWRub1otSWt0TVp4S1l0SVNXNm43UVA0cG1BQmlIalFTeGlMbDJqLUd5T050bDJSM3l3U3BCTkIzTFJib2Y0Y0QxdGJscjJFaGxBSE13MWxDLVk0dnUwVmFJODlWTHJMSGdkYjB3WUhV0gHMAUFVX3lxTE1tR2pfREc5MUhnMl9pY1lld0VycWdlMF9SdVV1NzB0WWZkeHotLUJaZGJYVVVjTHFlY0Z6a0dpTHJtQW0taUFpTVk1WE53UUNWcGVIcE5rN0Z4WXdMaC11UGVjbjUySFZKOEtsbUpCOWZ2UWVnQUVSenFtejdsNlFWQWdybmNKNjRVMnlGUWt1REZjSDFzYUVqU2JGeFVyTmFYSkRycEZNcXRnWm50bEVqMkxCdmtUcV9CbS1sWmNvRDB3amtEeUlSamhxcg?oc=5
+
+- Boeing 787 had technical faults long before Ahmedabad crash: US safety group | India News - Hindustan Times
+  Boeing 787 had technical faults long before Ahmedabad crash.
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZUU5bXB2Rm9TMHBOdEM5S3I3czUtTksxd2c5b1NleFBqc1RnUjcyZDYxX3ZuLXdfQ1E2YXpBQ0N0aFJiLTlMZUNqMmxwSURkeWxaemRScGg1c2E2YV9Ld04zcnhGYmZNdE9pSm5WY0k4dXYwN05iMDlEUzBIaEpBMVVmc1RZYUhZNHpwRDJMcXVHSE1EbE5ETk9pcENuZVgzRzJ6eTgwYTNSdjZiQmYwdjFNelBHWVYyNzZqVUFvZzdSbm9FbjJYbUU2NHc1V05xSDlmYtIB2gFBVV95cUxPbV9VZ2N1bEZqWmluV05uS0hmY0tMSU13bFdVU1BFaERJaEVQZlJlYUJlMENKb0JjZUwzWHhmU3cyeFc5UXMzZUROVWlLUExWS2FxaUlXZnZuU2pZdnlXaENxWE5vOWFRbjBuZW9iOVMyUHBBYjVGTGtzR1ZtdkplX2diY2s0dGcxZGs5Ry0wMzhQaHVxOEhmYmFMWXI4dzNkT0dHSUk4UWNtRmF3NG9jUFlsa2w5QmtxQU12Q2gtSmNxelpOaW9vUzZZT19mRUdvYjNRX0VtTk9HQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-21 18:40:02 UTC_
+_Last updated: 2026-01-22 01:23:42 UTC_
