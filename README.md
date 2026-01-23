@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- RAC tickets not allowed on these 12 Amrit Bharat trains: Full list
+- Communal clashes in MP town after youth attacked; shops damaged, bus torched
   
-  🔗 https://indianexpress.com/article/india/rac-tickets-not-allowed-on-these-12-amrit-bharat-trains-full-list-10490779/
+  🔗 https://indianexpress.com/article/india/communal-clashes-mp-town-youth-attacked-shops-damaged-10491397/
 
-- Centre’s panel affirms Ratle hydroelectric project green nod validity till December 2030
+- Highways blocked, Srinagar airport closed as rain and snow arrive with a bang in J&K
   
-  🔗 https://indianexpress.com/article/india/centres-panel-affirms-ratle-hydroelectric-project-green-nod-validity-till-december-2030-10490895/
+  🔗 https://indianexpress.com/article/india/highways-blocked-srinagar-airport-closed-rain-and-snow-in-jk-10491391/
 
-- Decades-old ‘simmering’ fires, termites, invasive weeds: Why forests in 3 Himachal districts are in critical decline
+- Fear in Odisha pastor’s family after communal attack — ‘Is it a sin to practice one’s own faith?’
   
-  🔗 https://indianexpress.com/article/india/fire-termite-weed-himachal-district-forests-in-critical-decline-10490870/
+  🔗 https://indianexpress.com/article/india/odisha-pastor-family-communal-attack-10491364/
 
-- Katra-Srinagar Vande Bharat train passes through snow covered Kashmir amid fresh snowfall
+- Bihar minister dares MNS to stop Bihar Bhavan construction, RJD slams Nitish govt’s ‘misplaced priorities’
   
-  🔗 https://indianexpress.com/article/india/katra-srinagar-vande-bharat-train-passes-through-snow-covered-kashmir-amid-fresh-snowfall-10490507/
+  🔗 https://indianexpress.com/article/india/bihar-minister-mns-stop-bihar-bhavan-construction-rjd-nitish-govts-10491235/
 
-- Kashmir, Himachal turn into winter wonderland as fresh snow blankets region | Watch
+- Saraswati puja, Friday namaz converge at Bhojshala, under shadow of heavy security
   
-  🔗 https://indianexpress.com/article/india/watch-kashmir-himachal-turn-into-winter-wonderland-as-fresh-snow-blankets-region-10490419/
+  🔗 https://indianexpress.com/article/india/saraswati-puja-friday-namaz-converge-bhojshala-heavy-security-10491218/
+
+- M4 MacBook drops below Rs 55,000 as Croma rolls out Republic Day mega deals
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/m4-macbook-drops-below-rs-55000-as-croma-rolls-out-republic-day-mega-deals-10491297/
+
+- Spotify’s Prompted Playlist lets users manage algorithm using their listening history
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spotifys-prompted-playlist-lets-users-manage-algorithm-using-their-listening-history-10491126/
 
 - Your browser extension may be watching your bank activity: Here’s how to stop it
   
@@ -32,53 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/science/study-shows-how-earthquake-monitors-can-track-space-junk-through-sonic-booms-10490770/
 
-- Forza Horizon 6 officially announced, heads to Japan in 2026
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/forza-horizon-6-officially-announced-heads-to-japan-in-2026-10490701/
+- 2026 layoffs news: Which companies are planning job cuts as Amazon is set to trim workforce? Check details
+  Amazon and Ericsson to make substantial job cuts in early 2026. Citigroup and BlackRock also announced layoffs as part of cost-reduction strategies.
+  🔗 https://www.livemint.com/companies/news/2026-layoffs-news-which-companies-are-planning-job-cuts-as-amazon-is-set-to-trim-workforce-check-details-11769182047623.html
 
-- Motorola unveils Signature flagship smartphone and moto watch powered by Polar in India
-  
-  🔗 https://indianexpress.com/article/technology/motorola-unveils-signature-flagship-smartphone-and-moto-watch-powered-by-polar-in-india-10490468/
+- DLF to foray into senior living homes segment, plans  ₹2,000-crore project in Gurugram — check details
+  DLF is set to launch a senior living housing project in Gurugram this quarter. It is aiming to generate
+  🔗 https://www.livemint.com/companies/news/dlf-to-foray-into-senior-living-homes-segment-plans-rs-2-000-crore-project-in-gurugram-check-details-11769184642421.html
 
-- Urban Company’s losses widen in Q3 over InstaHelp investment
-  Urban Company Ltd reported revenue of  ₹382.68 crore, a 32.91% increase from the same period last year. The company reported a
-  🔗 https://www.livemint.com/companies/company-results/urban-company-q3-results-urban-company-loss-11769170204020.html
+- Adani Green Q3 profit trips 99% on higher sales in spot market, interest cost
+  The fall in profit came as a result of high sale of power in the merchant market, where prices are much lower than
+  🔗 https://www.livemint.com/companies/company-results/adani-green-energy-q3-profit-trips-99-on-higher-sales-in-spot-market-interest-cost-11769178222732.html
 
-- Nissan to sell South African manufacturing assets to China's Chery Automobile by mid-2026
-  Nissan plans to sell its South African manufacturing assets to Chery Automobile
-  🔗 https://www.livemint.com/companies/news/nissan-to-sell-south-african-manufacturing-assets-to-chinas-chery-automobile-by-mid2026-11769166721201.html
+- State-run BPCL to sign $780 mn crude sourcing deal with Brazil's Petrobras
+  PM Narendra Modi will meet global energy executives at India Energy Week in Goa next week.
+  🔗 https://www.livemint.com/companies/news/staterun-bpcl-to-sign-780-mn-crude-sourcing-deal-with-brazils-petrobras-11769179628417.html
 
-- Beyond the chatbot: The tech duo building an anti-ChatGPT for classrooms
-  Peeyush Ranjan and Mukesh Bansal’s bet is AI without an answer machine, built to make students think. Will Fermi.
-  🔗 https://www.livemint.com/companies/start-ups/exflipkart-cto-anti-chatgpt-ai-fermi-ai-students-teachers-classrooms-peeyush-ranjan-and-mukesh-bansal-edtech-11769084586411.html
+- Why is Elon Musk planning to hike Tesla's FSD subscription rate after phasing out Autopilot mode — Explained
+  Elon Musk has announced that Tesla will raise subscription prices for Full Self-Driving software. The move could potentially exceed the current $
+  🔗 https://www.livemint.com/companies/news/why-is-elon-musk-planning-to-hike-teslas-fsd-subscription-rate-after-phasing-out-autopilot-mode-explained-11769178932933.html
 
-- Ericsson layoffs: CEO Borje Ekholm says telecom giant to continue job cuts amid 5G market woes
-  Ericsson prepares for further layoffs as part of cost-cutting measures. Follows plans to
-  🔗 https://www.livemint.com/companies/news/ericsson-layoffs-ceo-borje-ekholm-says-telecom-giant-to-continue-job-cuts-amid-5g-market-woes-11769162871911.html
+- Upcoming IPOs: Sai Parenteral and Hella Infra Market get Sebi nod to raise funds via public issue
+  Sai Parenteral's offering includes a fresh issue of  ₹285 crore. Hella Infra Market filed draft papers with Sebi through a confidential
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-sai-parenteral-and-hella-infra-market-get-sebi-nod-to-raise-funds-via-public-issue-11769170347465.html
 
-- FedEx to cut up to 500 jobs in France, invest $91 million in domestic operations
-   FedEx is restructuring its French operations, cutting up to 500 jobs. Company will create over 770 new roles and consult with employee representatives.
-  🔗 https://www.livemint.com/companies/news/fedex-to-cut-up-to-500-jobs-in-france-invest-91-million-in-domestic-operations-11769164584083.html
+- Pulse of the Street: FPI exits, weak earnings leave India the worst global performer
+  Indian markets down 2.5% this week, the worst among global peers. Nifty’s slip below 25,100 has heightened fears of a
+  🔗 https://www.livemint.com/market/pulse-of-the-street-fpi-exits-weak-q3-earnings-leave-india-the-worst-global-performer-stock-market-equities-11769174085868.html
 
-- Shriram Finance Q3 Results: Profit jumps 21% to  ₹2,522 crore, beats estimates
-  Shriram Finance's first earnings report after Japan's largest bank, MUFG, agreed to buy a 20% stake.
-  🔗 https://www.livemint.com/market/stock-market-news/shriram-finance-q3-results-profit-jumps-21-to-rs-2-522-crore-beats-estimates-11769170438431.html
+- Intel’s 15% slump drags Wall Street lower, geopolitical tensions weigh, Nvidia surges 1.4%
+  The Dow Jones Industrial Average fell 0.65%, the S&amp;amp
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-falls-as-intel-slumps-15-geopolitical-tensions-weigh-nvidia-surges-1-4-11769179355321.html
 
-- Investors should not reduce equity exposure despite geopolitical risks, says DBS Bank's Senior Investment Strategist
-  DBS Bank's Senior Investment Strategist, Joanne Goh, advises against a broad reduction in equity exposure. She
-  🔗 https://www.livemint.com/market/stock-market-news/investors-should-not-reduce-equity-exposure-despite-geopolitical-risks-says-dbs-banks-senior-investment-strategist-11769169905146.html
+- UBS explores cryptocurrency investments for private banking clients: Report
+  UBS Group is currently in the process of vetting partners to facilitate this
+  🔗 https://www.livemint.com/market/cryptocurrency/ubs-explores-crypto-investments-for-private-clients-report-11769174887648.html
 
-- Tejas Network, Newgen to Zaggle: Nearly 500 small-cap stocks crash 10-30% in January so far
-  Among 1300-odd companies part of the BSE Smallcap index, around 500 have lost 10% or more in January alone. Investors have cumulatively lost nearly  ₹
-  🔗 https://www.livemint.com/market/stock-market-news/tejas-network-newgen-to-zaggle-nearly-500-small-cap-stocks-crash-10-30-in-january-so-far-11769169286204.html
+- BPCL Q3 Results: Maharatna PSU profit jumps 89% YoY to  ₹7,188 crore, dividend declared
+  BPCL reported an 88.8% increase in consolidated net profit for Q3. The company also declared a second interim dividend of  ₹10 for the
+  🔗 https://www.livemint.com/market/stock-market-news/bpcl-q3-results-maharatna-psu-profit-jumps-89-yoy-to-rs-7-188-crore-dividend-declared-11769173087824.html
 
-- Realty sector eyes tax relief for homebuyers, higher urban infra allocations from Budget: Nahar Group's Vice Chairperson
-  The Indian real estate sector anticipates crucial tax relief for homebuyers and increased funding
-  🔗 https://www.livemint.com/market/stock-market-news/realty-sector-eyes-tax-relief-for-homebuyers-higher-urban-infra-allocations-from-budget-nahar-groups-vice-chairperson-11769168087368.html
+- The coming winter storm: Theres an app for that. But how reliable is it and whats inside?
+  There's an app for that. But how reliable is it
+  🔗 https://www.livemint.com/technology/the-coming-winter-storm-theres-an-app-for-that-but-how-reliable-is-it-and-whats-inside-11769185769457.html
 
-- IndusInd Bank Q3 results: Profit stands at  ₹128 crore; NIM improves to 3.52%
-  IndusInd Bank reported a net profit of  ₹128 crore for Q3FY26 compared to a loss of   �
-  🔗 https://www.livemint.com/market/stock-market-news/indusind-bank-q3-results-profit-stands-at-128-crore-nim-improves-to-352-11769165273508.html
+- Intel faces memory-price crunch. Why Apple will be the next victim.
+  Intel stock was falling as it faces headwinds from soaring memory-chip
+  🔗 https://www.livemint.com/technology/intel-faces-memory-price-crunch-why-apple-will-be-the-next-victim-11769173169157.html
 
 - AI used in one-third of newly written code in US by 2024: Analysis
    AI used in one-third of newly
@@ -92,113 +100,45 @@
   Motorola Signature has a 6.8-inch AMOLED display, triple 50MP camera setup, and a 5,200mAh battery.
   🔗 https://www.livemint.com/technology/gadgets/motorola-signature-launched-in-india-price-specs-and-the-5-key-features-to-know-11769151405488.html
 
-- Motorola Signature Launch Live updates: Motorola Signature with Snapdragon 8 Gen 5 SoC launched
-   Motorola Signature will come with the Snadragon 8 Gen 5 processor and a triple 50
-  🔗 https://www.livemint.com/technology/gadgets/motorola-signature-launch-live-updates-motorolas-flagship-to-debut-soon-11769143395461.html
+- Nasdaq rises, S&P 500 and Dow struggle as Street wraps up wild week: Live updates - CNBC
+  Dow slides, Nasdaq pops after volatile week as Intel plunges after earnings. Dow off 200 points, S&amp;P 500 and Nasdaq shake off early losses as stocks head for losing week; silver tops $100 an
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5FRE5YQnlMTk9SeThNTFNBenp4LTR2bjdTbjVrcGlxV0ZGUkpyOXdlS2lYZERkWkJHVUVRYkxiU1N2ZU9DRXRuVWpycDcxQm5Pc1l5dS1ldmJrNjhHczUySmZxRDBTN2lENEVUd2FIVUFBc0k2YmtZ0gF8QVVfeXFMTW03cV9xdzg0LUp3Q1F0THlXQlNlWllQelpKQ1NhOXRDUXR5bHBYcVE3RXJsVmJ3LUhxSHJXZktWSEpuVUJpMVIxX2dvejNpMDNweXdzVmFPTGp6VTVmclgxQWljWS1wazU5LVhjODlvNHd0VVhKd3JBWU5BVQ?oc=5
 
-- The best-rated touchscreen laptops for graphic designers that boost creativity and productivity with new-age features
-  The best rated touchscreen laptop for graphic designers enhances precision, creativity and workflow efficiency
-  🔗 https://www.livemint.com/technology/gadgets/the-best-rated-touchscreen-laptops-for-graphic-designers-that-boost-creativity-and-productivity-with-new-age-features-11769084801281.html
+- Diversify your fish basket to woo new markets: from rohu, catla to scampi, tilapia, pangasius - The Hindu
+  Diversify your fish basket to woo new markets: from rohu
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc2FIZXR4T3hpVU9taWpLVGhHWnYzemRnQUsxYmI2a3RIbFZvUU5mdTZnUW12RUN6TUpOQldKbnU3bjRtODY3RmN4YzdlODNqME5CMnREX3NtZi1ZOEZDV1lqLU43QUFTdlo2REFJcW05cXlwazdnNkRGU2luMl9mY1gyTDNEbE1xVEZjZ3MtQ0duX0prTGpRUHdpTEtfNnBwSFhkcDhYUnpON1l0ekFVSUdaeEdKbEN1TEg3R0J5bVlBakVCbXZ4Z20xOTdQRmRYNy1QZjh6MFhYdWZteDhSNy1R0gHoAUFVX3lxTE8zTjFGVG16Q05LNlBJa3NiaVFOVERfMWV3YWdhVGpQeHFjQzhOTFFISzJGZDhpOWx1VEp4WTJnOGFia2RHN0hKb2J1MHlYNnY3OTZWYWl0eGpEOEJKQmM0bDdodDYtanBaSGRzZkU1U0JTQWlPV29WelNrU3VLcUJ4NEZxWUp6cHN5Y2RaSHdXbzUtbHlGUVpNc0RJTWpoNUVSZ0pqMS02RGhXMTR2TUlDTWl4RGJyVF9CU0RMYlcwc2E4S0FyaTlWNzcwa0J3NHFyRGV2TmMyT3Y4cS02QWRJVUZSeTI3aVk?oc=5
 
-- Gainers &amp; Losers: Adani Green, Ixigo and Paytm among 6 stocks under spotlight on Friday
-  Adani Green, Ixigo, Paytm and other major stocks
-  🔗 https://economictimes.indiatimes.com/markets/web-stories/gainers-amp-losers-adani-green-ixigo-and-paytm-among-6-stocks-under-spotlight-on-friday/slideshow/127279700.cms
+- What to watch for in the pivotal week ahead for markets - CNBC
+  CNBC looks at what to watch for in
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxONTFGdEU2X0lyRGc1YnFFRTFjdUFURFpBTnJTeGxJS1ZpU0hLUHBSWE14QTM4eGdzU0VrMHppcURraFdWWGNCNjEwcEdsQlBKcXBHM2tpazZxQnhDLXU3ZjZVR2oyMlRmRTQ4TEduNVFDR3BIR09UVkFIamF0MnpEWEN0V3FybUZEb3RpQUxtRXpISmdkUE8xOFVnTl8wSGs?oc=5
 
-- Indian bonds fall most in a week on state debt supply jitters
-  Indian government bonds fell on ‍Friday, ending a three-day winning streak. Traders feared the
-  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-fall-most-in-a-week-on-state-debt-supply-jitters/articleshow/127279313.cms
+- Sensex slumps 770 pts, Nifty below 25,100; Adani Ports drops 7%, Eternal 6% - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMilAJBVV95cUxOWmdTcVlKX25HaFZZRUNhZWFjV1JUMEZwclk0NlBoMGlzV0gwSlg5dm0xNnB3YlB1V0ctRklieDRjRlJZY25qUTNVNWZmNjJIdS1vd190SEEyNWgzTUZrUEVHcVY2RlBIdE
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxOWmdTcVlKX25HaFZZRUNhZWFjV1JUMEZwclk0NlBoMGlzV0gwSlg5dm0xNnB3YlB1V0ctRklieDRjRlJZY25qUTNVNWZmNjJIdS1vd190SEEyNWgzTUZrUEVHcVY2RlBIdEQxdGdyZTRIZkptX1lteXA3VDZzaUJGWTZacUN1N0puVkF4emFwZG1janRjOHlXMDBOeUphajJnUXlDc0ZpX1MxTWNJV2RMOWRmNVQ5VFpSVzl2aHRDSGpDM3pqakhEakl2cHZSOXFkenR6ajdIeDc0UW1meGp0VTFpOXoxT0Z6ZHNWYlZmT2Y2d2pNamJRdnBzM05kZGJZaDVaaENONnhqU1dCeXVwX2NZemrSAZoCQVVfeXFMTUdRZDJHVUd3ZUNaa0dQVF94aDJ2UjdjMkx5eFhKYjNsdFpzT3IzZkpNcnNmT0RCZHlOZUtLRk9WbnV6ZENPWmllVEJoSDVTSTVaTU10ZUhxdTZob3pCOVNEMXVqbkVrOG1OZUZlNmEwSG96dEdZR3BhUWxPNkRyRVIzZWE5X1pJX0pESTQxeUE1a3NUM3lqODdIemRBeUt5RDJZRzB4c2ZvcjQyLTNGYS03UHliUTVWTHBvdnNpX3pDY3B2SWZVTktTUmlzbHBONUFqM0dmUHJ1UDhwcWtLdy1fMFo1aEZ5M2gxdGxjRnh4Q3FGVGZ5dmZ5bUJILTg5UTFWb2wxQ1B4NEpyQ1FXR0I0bF9FcEpzWmR3?oc=5
 
-- Hindustan Zinc among 7 stocks that hit 52-week high; rally up to 17% in a month
-  Seven BSE 200 stocks, including Hindustan Zinc and Vedanta, hit fresh 52-week highs on
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-among-7-stocks-that-hit-52-week-high-rally-up-to-17-in-a-month/slideshow/127277152.cms
+- Yen choppy on intervention jitters after BOJ strikes hawkish tone - Reuters
+  Yen choppy on intervention jitters
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxOWmV6Q1RoVzNMWUpMYUt0LUlDMVJnOHpHNXljcmpPSTNna1lnNWVuOVdXRjBMaW0xajRxTmdmVEJsOHVsNUgwRnU0Yl9BaE9SQTk4bEFpNVFaT0ZWUHFLLTVwSUZQV3c4cDRXTWNhc25qd2FqMVg0ZXBINDNQc0txM0xxWQ?oc=5
 
-- DIIs raises stake in 10 largecap stocks for 4-consecutive quarters
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/diis-raises-stake-in-10-largecap-stocks-for-4-consecutive-quarters/slideshow/127276238.cms
+- Silver hits $100 an ounce for the first time in international markets; gold hits fresh record
+  Silver prices surged past $100 an ounce for the first time. Gold reached a new record near $5,000/oz. Investors are flocking to safe-haven assets due to geopolitical tensions
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/silver-hits-100-an-ounce-for-the-first-time-in-international-markets/articleshow/127304213.cms
 
-- Urban Company Q3 Results: Co reports loss of Rs 21 crore, revenue up 33%
-  Urban Company slipped to a Rs 21 crore Q3 loss as heavy investment in InstaHelp hurt earnings. Core businesses stayed profitable, margins improved, and management expects continued growth.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/urban-company-q3-results-co-reports-loss-of-rs-21-crore-revenue-up-33/articleshow/127274747.cms
+- Shriram Finance Q3 profit drops to Rs 2,522 crore
+  Shriram Finance reported a 29% drop in third quarter net profit at Rs 2,522 crore. The company attributed the fall in profit to the exceptional gain of Rs 1489 crore it received for sale of
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q3-profit-drops-to-rs-2522-crore/articleshow/127302515.cms
 
-- Invited, watching closely: Why India hasn't accepted Trump's ‘Board of Peace’ invite yet | India News - Hindustan Times
-  The Indian government has refused to accept the 'Board of Peace' invite.
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdktEVUlWaUJ1YmZjVlBRNjNyQzBuLTg2WkdDaFBMUFNBa0QtQkhwNnpoaEg3Q1VFTjJXWmUzMVJvS21SV0toamtIYW5na2Z4a3NBZWJtb0FBeFItOUIybE44RkpUbjRiWlJiRDYyTXJfbGwxanczVDRJa3hnWlJMbml4aWcxUE9WWHh3UEFNQVNzMmVXQmRPZ2lNeDBKMlM4TEhzQ0tmbUFFUG1ZMGlGaThFN2NGRE9lSmdLeWNpVjNLZWZRZThfaE04SVFzeXI5R1JLSjdNUUdTTzlJN0xlWGU3MUZROGdBaTFVanZJVUtmejlT0gH6AUFVX3lxTE9oTUd6ZEpHM2NJUHhZamxOa3oxWUFLSVoweGZabGdlUGo0VEdTZzdYbGtkV1dfZ28wZklQWGlRX0NrazJKVk9xRDNkdW4zb2JhUVIyM29YQ2kzVUNUOFRldTVqeV9iMDM4WmZLSTlFcVluT01MODQ1QUlYeVhiTVI5Y1AtMnZmRlJKSWVQR1dHU05VcVJ5cHcxZ09JbjV1WkZTM2g2RkJnSVZnb1l1bmZpd0g1amtnVHVxcEpDWUoxVVpKakczR2Q0ZXdoV001TWhvbkJ6djFqS0NEUWM4QUVLNktacDZ5RTNNZjB3cVJzNy1GWFpDdkNESmc?oc=5
+- MCX Q3 Results: Cons PAT jumps 151% YoY to Rs 401 crore, revenue soars 121%
+  MCX posted a sharp Q3FY26 surge, with profit up 151% and revenue rising 121%. The rise was driven by booming derivatives volumes
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/mcx-q3-results-cons-pat-jumps-151-yoy-to-rs-401-crore-revenue-soars-121/articleshow/127301666.cms
 
-- Trump unveils 'Board of Peace': India absent from stage; Pakistan's Shahbaz Sharif joins US President - Times of India
-  The Times of India reported that India was not invited to the 'Board of
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZ2Rablh6V1QzRmRDQjFoRGNXazQ3OTBFcHBWd21qaXhwWHNHNm0yeWNwWjRTS1EydjBjN1Nsdm1taWYwUDg1bXlWRm1nRHpJa3hMU0lJZXh0azJaVmtHY1BuZE55U0F0ZnpxMkRLaHU2aC1ITzFzZjBwZU0zMjRrX19jeUNCR0VaazhWanNFMjZqdUpMLWRSbXFnSzBXRXg4aXNOajhFd3FaeUlBek53WFhmWGoxRFo2TzRfT3ltb0dMSlNkd2lodzZHelVZVk9Ub1EtMUFqU2hFXzJLYVRZZFMySDhHaFVjejd4U0d4YUVfXzlwWC1n0gH8AUFVX3lxTFBseWVBOUlkMG96ajJyZ1ZLM1kxaXByR1k3NjBMd1RWVGhYTWlLTXNrT3ZHZlNzTFd6bi1zX1BBdHNhVUZIX2c4eUxHVGFhcXJKRWh2MGZtb2FQdVVUM3NXdTB4R0RtbnJkb0FuZm1RUkNncHpXRkxnZUo2WGcxQkV4c0JHemhoTm9Hb1d0T01OUHRfZmlOWDRiNnk4VzZ3cXFxZ3JLR3dVTk5GOERzYzhLNG9fd2N1RTZqTE8tRHdfd3I2Z084TUUzWmJUUTdSSTJhUXA4b3ZPNmpMSDVBaEVzZTZBTTJwbmtUT0E3V2dPYXl1WldQTHJuTEpBZQ?oc=5
+- Intel shares plunge 14% as supply chain snarls hamper turnaround
+  Intel's ‍shares plunged 14% on Friday after the company struggled to meet strong artificial intelligence-driven demand for
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/intel-shares-plunge-14-as-supply-chain-snarls-hamper-turnaround/articleshow/127299467.cms
 
-- 'Free Trade, Not Barriers': Norway Backs India-EU "Mother Of All Deals" - NDTV
-  'Free Trade, Not Barriers': Norway
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVS1EZFByQmdtbFFBaElkeFFvSExEbkJYN0NGNW0tSm1FTnlQOHIyX2s2UjBBMkpkVkZpdDY2TmZqZ25GdHlRUWpDSzNYSzZYU3p5R09la3lqbUZTTFRvNENrVG9pZWtPS29yMUdsTWtTcFRUbF91YlZUeXFMcTNuUkczOEtGYkx5aXVoM1hnNGZfZ2c5dDQxbnpwcS1sRjlmWFl4Uzg2VG5ZWjZCemQ3UFRfWnduaW5vbWdfbTQwdFp4SkoyU0HSAc4BQVVfeXFMTUdWZGszWFZFYUlVUjR3VnNLT1dncU9xWk5rMnhRRUllQjMwbHU0dnRZdUxIZG5XaHM5eXhRejd4dnhSdnBCckN6d2ozVFVnS2UtaDcybEVJYUt2QXF3WnUxYmhYbExiWndaam1mRXhFZE1YMzZSQzB1YTlla3o2ODZDZC0xVjdRbXVyM0dQSXhBaU1ESk5LMlo2a09YUXVUQTBHdEVCTHJtUVcwOEp4Y1ZBdWVnSjF5YWFPX2piQUpMbEJrVVUtTTNjVGxUWUE?oc=5
-
-- As Trump unveils his Board of Peace, Delhi waits, watches - The Indian Express
-  The Indian Express reports that the president-elect will
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzVhMXRLd0VjX2E3R1BRMkgzb3NJMnhzTTZ5WjBpMGozdU52MkluZ01VN2dsMjZBNjRESXRKQjJaZEVFNXYwVERpSFlSaUFOaEhnZnFxYS1NSDNKZ0ZhUjZzZmt4YXFHeHZVRzFKT2o3T21sajY5SFpJWmdXVGItd1l5R3dUTzVIYV8wZUNkX2JVNmRnQ0VmY2psRTV5MVJXeUNudkluaVZmMmtDdEE00gG2AUFVX3lxTFB2SHNOVzhfMzloTVcyU054cnBRUTdGQ0Zrck5PaXFZMEUyMTlTN3N5Q3NEZk1XdDdCc1BiYjZmaXJMcF9nUk1kMFhXZ3BpZXdlYVNPSDhCNjJOMTRhY2dUbXM3QkswSUw1TGZ5VmR6ajk3M0tmLUJGbU5EaFNQVzhvR1dQZ21UOHN4Qm9PT09xNG05RzAwVUJpMGhmMlk1OWVYVUhoRDlQc243NVc2ZTNNX2s4V2R3?oc=5
-
-- India ‘disregarded’ friendly advice on controlling Hasina’s government: Former Awami ally G.M. Quader - The Hindu
-  India ‘disregarded’ friendly advice on controlling
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcW9jdFFXMXhlTFhvakRBZWlBYnR3NF9oTjFuYllxU0hSOHBmQkk1SUpxbkx2VlM4S3lsaUJ6R1pPMWlTbGRjWjIzWW1FaVF1SjlGY1RkNnNSU1hieEZqektubGItTW5Sc3FBR1JCRlk5LXYxTlgyTm12MUpIMDFkYlc5bExTMVJNc0djc0ZfNkpmdkFvU0NBYUdBZVBOS09QOHNiU0ktX1ZnSzROZTVSWnd1UVZGeVRaREVOX0pPZnlqWURyYkFqVmxOWnM4MTFzb0tKTFlMaEQ3c3lYejJsUFM2WjJtWC1fZzI5NEVmQ3XSAfcBQVVfeXFMTXVqSmcwZ2dINGNheVFKVVRUTE9YeENlbVkwbHBtVm1JbWlDR0FCUHNJZU9ObmNUXzBESmNrY1ZSeWZicUU4NVBZQjYxVzhxaE9QT2UxdzR2Wk1Gc3hISHZrWUNEWTZvSk9TZUtNX29GLS10RFdNcVlkMlp3eENlcXNwN2ZxdlF1Vlc3d0l0dllydW5NVTRQMkhXa0JCbVg4Y0RmMGQ4UENpaHg3dmEwMjRHUEVKS1REejZEZXRkQjE0blE5OS0wVHg0OHZwWFhoNktxejYxLXMxTlYzeWpYZjBLS2I0NER3N2diTnNFRy0zb0hNdGRhcw?oc=5
-
-- Invited, watching closely: Why India hasn't accepted Trump's ‘Board of Peace’ invite yet | India News - Hindustan Times
-  The Indian government has refused to accept the 'Board of Peace' invite.
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdktEVUlWaUJ1YmZjVlBRNjNyQzBuLTg2WkdDaFBMUFNBa0QtQkhwNnpoaEg3Q1VFTjJXWmUzMVJvS21SV0toamtIYW5na2Z4a3NBZWJtb0FBeFItOUIybE44RkpUbjRiWlJiRDYyTXJfbGwxanczVDRJa3hnWlJMbml4aWcxUE9WWHh3UEFNQVNzMmVXQmRPZ2lNeDBKMlM4TEhzQ0tmbUFFUG1ZMGlGaThFN2NGRE9lSmdLeWNpVjNLZWZRZThfaE04SVFzeXI5R1JLSjdNUUdTTzlJN0xlWGU3MUZROGdBaTFVanZJVUtmejlT0gH6AUFVX3lxTE9oTUd6ZEpHM2NJUHhZamxOa3oxWUFLSVoweGZabGdlUGo0VEdTZzdYbGtkV1dfZ28wZklQWGlRX0NrazJKVk9xRDNkdW4zb2JhUVIyM29YQ2kzVUNUOFRldTVqeV9iMDM4WmZLSTlFcVluT01MODQ1QUlYeVhiTVI5Y1AtMnZmRlJKSWVQR1dHU05VcVJ5cHcxZ09JbjV1WkZTM2g2RkJnSVZnb1l1bmZpd0g1amtnVHVxcEpDWUoxVVpKakczR2Q0ZXdoV001TWhvbkJ6djFqS0NEUWM4QUVLNktacDZ5RTNNZjB3cVJzNy1GWFpDdkNESmc?oc=5
-
-- Trump unveils 'Board of Peace': India absent from stage; Pakistan's Shahbaz Sharif joins US President - Times of India
-  The Times of India reported that India was not invited to the 'Board of
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZ2Rablh6V1QzRmRDQjFoRGNXazQ3OTBFcHBWd21qaXhwWHNHNm0yeWNwWjRTS1EydjBjN1Nsdm1taWYwUDg1bXlWRm1nRHpJa3hMU0lJZXh0azJaVmtHY1BuZE55U0F0ZnpxMkRLaHU2aC1ITzFzZjBwZU0zMjRrX19jeUNCR0VaazhWanNFMjZqdUpMLWRSbXFnSzBXRXg4aXNOajhFd3FaeUlBek53WFhmWGoxRFo2TzRfT3ltb0dMSlNkd2lodzZHelVZVk9Ub1EtMUFqU2hFXzJLYVRZZFMySDhHaFVjejd4U0d4YUVfXzlwWC1n0gH8AUFVX3lxTFBseWVBOUlkMG96ajJyZ1ZLM1kxaXByR1k3NjBMd1RWVGhYTWlLTXNrT3ZHZlNzTFd6bi1zX1BBdHNhVUZIX2c4eUxHVGFhcXJKRWh2MGZtb2FQdVVUM3NXdTB4R0RtbnJkb0FuZm1RUkNncHpXRkxnZUo2WGcxQkV4c0JHemhoTm9Hb1d0T01OUHRfZmlOWDRiNnk4VzZ3cXFxZ3JLR3dVTk5GOERzYzhLNG9fd2N1RTZqTE8tRHdfd3I2Z084TUUzWmJUUTdSSTJhUXA4b3ZPNmpMSDVBaEVzZTZBTTJwbmtUT0E3V2dPYXl1WldQTHJuTEpBZQ?oc=5
-
-- 'Free Trade, Not Barriers': Norway Backs India-EU "Mother Of All Deals" - NDTV
-  'Free Trade, Not Barriers': Norway
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVS1EZFByQmdtbFFBaElkeFFvSExEbkJYN0NGNW0tSm1FTnlQOHIyX2s2UjBBMkpkVkZpdDY2TmZqZ25GdHlRUWpDSzNYSzZYU3p5R09la3lqbUZTTFRvNENrVG9pZWtPS29yMUdsTWtTcFRUbF91YlZUeXFMcTNuUkczOEtGYkx5aXVoM1hnNGZfZ2c5dDQxbnpwcS1sRjlmWFl4Uzg2VG5ZWjZCemQ3UFRfWnduaW5vbWdfbTQwdFp4SkoyU0HSAc4BQVVfeXFMTUdWZGszWFZFYUlVUjR3VnNLT1dncU9xWk5rMnhRRUllQjMwbHU0dnRZdUxIZG5XaHM5eXhRejd4dnhSdnBCckN6d2ozVFVnS2UtaDcybEVJYUt2QXF3WnUxYmhYbExiWndaam1mRXhFZE1YMzZSQzB1YTlla3o2ODZDZC0xVjdRbXVyM0dQSXhBaU1ESk5LMlo2a09YUXVUQTBHdEVCTHJtUVcwOEp4Y1ZBdWVnSjF5YWFPX2piQUpMbEJrVVUtTTNjVGxUWUE?oc=5
-
-- As Trump unveils his Board of Peace, Delhi waits, watches - The Indian Express
-  The Indian Express reports that the president-elect will
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzVhMXRLd0VjX2E3R1BRMkgzb3NJMnhzTTZ5WjBpMGozdU52MkluZ01VN2dsMjZBNjRESXRKQjJaZEVFNXYwVERpSFlSaUFOaEhnZnFxYS1NSDNKZ0ZhUjZzZmt4YXFHeHZVRzFKT2o3T21sajY5SFpJWmdXVGItd1l5R3dUTzVIYV8wZUNkX2JVNmRnQ0VmY2psRTV5MVJXeUNudkluaVZmMmtDdEE00gG2AUFVX3lxTFB2SHNOVzhfMzloTVcyU054cnBRUTdGQ0Zrck5PaXFZMEUyMTlTN3N5Q3NEZk1XdDdCc1BiYjZmaXJMcF9nUk1kMFhXZ3BpZXdlYVNPSDhCNjJOMTRhY2dUbXM3QkswSUw1TGZ5VmR6ajk3M0tmLUJGbU5EaFNQVzhvR1dQZ21UOHN4Qm9PT09xNG05RzAwVUJpMGhmMlk1OWVYVUhoRDlQc243NVc2ZTNNX2s4V2R3?oc=5
-
-- India ‘disregarded’ friendly advice on controlling Hasina’s government: Former Awami ally G.M. Quader - The Hindu
-  India ‘disregarded’ friendly advice on controlling
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcW9jdFFXMXhlTFhvakRBZWlBYnR3NF9oTjFuYllxU0hSOHBmQkk1SUpxbkx2VlM4S3lsaUJ6R1pPMWlTbGRjWjIzWW1FaVF1SjlGY1RkNnNSU1hieEZqektubGItTW5Sc3FBR1JCRlk5LXYxTlgyTm12MUpIMDFkYlc5bExTMVJNc0djc0ZfNkpmdkFvU0NBYUdBZVBOS09QOHNiU0ktX1ZnSzROZTVSWnd1UVZGeVRaREVOX0pPZnlqWURyYkFqVmxOWnM4MTFzb0tKTFlMaEQ3c3lYejJsUFM2WjJtWC1fZzI5NEVmQ3XSAfcBQVVfeXFMTXVqSmcwZ2dINGNheVFKVVRUTE9YeENlbVkwbHBtVm1JbWlDR0FCUHNJZU9ObmNUXzBESmNrY1ZSeWZicUU4NVBZQjYxVzhxaE9QT2UxdzR2Wk1Gc3hISHZrWUNEWTZvSk9TZUtNX29GLS10RFdNcVlkMlp3eENlcXNwN2ZxdlF1Vlc3d0l0dllydW5NVTRQMkhXa0JCbVg4Y0RmMGQ4UENpaHg3dmEwMjRHUEVKS1REejZEZXRkQjE0blE5OS0wVHg0OHZwWFhoNktxejYxLXMxTlYzeWpYZjBLS2I0NER3N2diTnNFRy0zb0hNdGRhcw?oc=5
-
-- Invited, watching closely: Why India hasn't accepted Trump's ‘Board of Peace’ invite yet | India News - Hindustan Times
-  The Indian government has refused to accept the 'Board of Peace' invite.
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdktEVUlWaUJ1YmZjVlBRNjNyQzBuLTg2WkdDaFBMUFNBa0QtQkhwNnpoaEg3Q1VFTjJXWmUzMVJvS21SV0toamtIYW5na2Z4a3NBZWJtb0FBeFItOUIybE44RkpUbjRiWlJiRDYyTXJfbGwxanczVDRJa3hnWlJMbml4aWcxUE9WWHh3UEFNQVNzMmVXQmRPZ2lNeDBKMlM4TEhzQ0tmbUFFUG1ZMGlGaThFN2NGRE9lSmdLeWNpVjNLZWZRZThfaE04SVFzeXI5R1JLSjdNUUdTTzlJN0xlWGU3MUZROGdBaTFVanZJVUtmejlT0gH6AUFVX3lxTE9oTUd6ZEpHM2NJUHhZamxOa3oxWUFLSVoweGZabGdlUGo0VEdTZzdYbGtkV1dfZ28wZklQWGlRX0NrazJKVk9xRDNkdW4zb2JhUVIyM29YQ2kzVUNUOFRldTVqeV9iMDM4WmZLSTlFcVluT01MODQ1QUlYeVhiTVI5Y1AtMnZmRlJKSWVQR1dHU05VcVJ5cHcxZ09JbjV1WkZTM2g2RkJnSVZnb1l1bmZpd0g1amtnVHVxcEpDWUoxVVpKakczR2Q0ZXdoV001TWhvbkJ6djFqS0NEUWM4QUVLNktacDZ5RTNNZjB3cVJzNy1GWFpDdkNESmc?oc=5
-
-- Trump unveils 'Board of Peace': India absent from stage; Pakistan's Shahbaz Sharif joins US President - Times of India
-  The Times of India reported that India was not invited to the 'Board of
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZ2Rablh6V1QzRmRDQjFoRGNXazQ3OTBFcHBWd21qaXhwWHNHNm0yeWNwWjRTS1EydjBjN1Nsdm1taWYwUDg1bXlWRm1nRHpJa3hMU0lJZXh0azJaVmtHY1BuZE55U0F0ZnpxMkRLaHU2aC1ITzFzZjBwZU0zMjRrX19jeUNCR0VaazhWanNFMjZqdUpMLWRSbXFnSzBXRXg4aXNOajhFd3FaeUlBek53WFhmWGoxRFo2TzRfT3ltb0dMSlNkd2lodzZHelVZVk9Ub1EtMUFqU2hFXzJLYVRZZFMySDhHaFVjejd4U0d4YUVfXzlwWC1n0gH8AUFVX3lxTFBseWVBOUlkMG96ajJyZ1ZLM1kxaXByR1k3NjBMd1RWVGhYTWlLTXNrT3ZHZlNzTFd6bi1zX1BBdHNhVUZIX2c4eUxHVGFhcXJKRWh2MGZtb2FQdVVUM3NXdTB4R0RtbnJkb0FuZm1RUkNncHpXRkxnZUo2WGcxQkV4c0JHemhoTm9Hb1d0T01OUHRfZmlOWDRiNnk4VzZ3cXFxZ3JLR3dVTk5GOERzYzhLNG9fd2N1RTZqTE8tRHdfd3I2Z084TUUzWmJUUTdSSTJhUXA4b3ZPNmpMSDVBaEVzZTZBTTJwbmtUT0E3V2dPYXl1WldQTHJuTEpBZQ?oc=5
-
-- 'Free Trade, Not Barriers': Norway Backs India-EU "Mother Of All Deals" - NDTV
-  'Free Trade, Not Barriers': Norway
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVS1EZFByQmdtbFFBaElkeFFvSExEbkJYN0NGNW0tSm1FTnlQOHIyX2s2UjBBMkpkVkZpdDY2TmZqZ25GdHlRUWpDSzNYSzZYU3p5R09la3lqbUZTTFRvNENrVG9pZWtPS29yMUdsTWtTcFRUbF91YlZUeXFMcTNuUkczOEtGYkx5aXVoM1hnNGZfZ2c5dDQxbnpwcS1sRjlmWFl4Uzg2VG5ZWjZCemQ3UFRfWnduaW5vbWdfbTQwdFp4SkoyU0HSAc4BQVVfeXFMTUdWZGszWFZFYUlVUjR3VnNLT1dncU9xWk5rMnhRRUllQjMwbHU0dnRZdUxIZG5XaHM5eXhRejd4dnhSdnBCckN6d2ozVFVnS2UtaDcybEVJYUt2QXF3WnUxYmhYbExiWndaam1mRXhFZE1YMzZSQzB1YTlla3o2ODZDZC0xVjdRbXVyM0dQSXhBaU1ESk5LMlo2a09YUXVUQTBHdEVCTHJtUVcwOEp4Y1ZBdWVnSjF5YWFPX2piQUpMbEJrVVUtTTNjVGxUWUE?oc=5
-
-- As Trump unveils his Board of Peace, Delhi waits, watches - The Indian Express
-  The Indian Express reports that the president-elect will
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzVhMXRLd0VjX2E3R1BRMkgzb3NJMnhzTTZ5WjBpMGozdU52MkluZ01VN2dsMjZBNjRESXRKQjJaZEVFNXYwVERpSFlSaUFOaEhnZnFxYS1NSDNKZ0ZhUjZzZmt4YXFHeHZVRzFKT2o3T21sajY5SFpJWmdXVGItd1l5R3dUTzVIYV8wZUNkX2JVNmRnQ0VmY2psRTV5MVJXeUNudkluaVZmMmtDdEE00gG2AUFVX3lxTFB2SHNOVzhfMzloTVcyU054cnBRUTdGQ0Zrck5PaXFZMEUyMTlTN3N5Q3NEZk1XdDdCc1BiYjZmaXJMcF9nUk1kMFhXZ3BpZXdlYVNPSDhCNjJOMTRhY2dUbXM3QkswSUw1TGZ5VmR6ajk3M0tmLUJGbU5EaFNQVzhvR1dQZ21UOHN4Qm9PT09xNG05RzAwVUJpMGhmMlk1OWVYVUhoRDlQc243NVc2ZTNNX2s4V2R3?oc=5
-
-- India ‘disregarded’ friendly advice on controlling Hasina’s government: Former Awami ally G.M. Quader - The Hindu
-  India ‘disregarded’ friendly advice on controlling
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcW9jdFFXMXhlTFhvakRBZWlBYnR3NF9oTjFuYllxU0hSOHBmQkk1SUpxbkx2VlM4S3lsaUJ6R1pPMWlTbGRjWjIzWW1FaVF1SjlGY1RkNnNSU1hieEZqektubGItTW5Sc3FBR1JCRlk5LXYxTlgyTm12MUpIMDFkYlc5bExTMVJNc0djc0ZfNkpmdkFvU0NBYUdBZVBOS09QOHNiU0ktX1ZnSzROZTVSWnd1UVZGeVRaREVOX0pPZnlqWURyYkFqVmxOWnM4MTFzb0tKTFlMaEQ3c3lYejJsUFM2WjJtWC1fZzI5NEVmQ3XSAfcBQVVfeXFMTXVqSmcwZ2dINGNheVFKVVRUTE9YeENlbVkwbHBtVm1JbWlDR0FCUHNJZU9ObmNUXzBESmNrY1ZSeWZicUU4NVBZQjYxVzhxaE9QT2UxdzR2Wk1Gc3hISHZrWUNEWTZvSk9TZUtNX29GLS10RFdNcVlkMlp3eENlcXNwN2ZxdlF1Vlc3d0l0dllydW5NVTRQMkhXa0JCbVg4Y0RmMGQ4UENpaHg3dmEwMjRHUEVKS1REejZEZXRkQjE0blE5OS0wVHg0OHZwWFhoNktxejYxLXMxTlYzeWpYZjBLS2I0NER3N2diTnNFRy0zb0hNdGRhcw?oc=5
-
-- Invited, watching closely: Why India hasn't accepted Trump's ‘Board of Peace’ invite yet | India News - Hindustan Times
-  The Indian government has refused to accept the 'Board of Peace' invite.
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdktEVUlWaUJ1YmZjVlBRNjNyQzBuLTg2WkdDaFBMUFNBa0QtQkhwNnpoaEg3Q1VFTjJXWmUzMVJvS21SV0toamtIYW5na2Z4a3NBZWJtb0FBeFItOUIybE44RkpUbjRiWlJiRDYyTXJfbGwxanczVDRJa3hnWlJMbml4aWcxUE9WWHh3UEFNQVNzMmVXQmRPZ2lNeDBKMlM4TEhzQ0tmbUFFUG1ZMGlGaThFN2NGRE9lSmdLeWNpVjNLZWZRZThfaE04SVFzeXI5R1JLSjdNUUdTTzlJN0xlWGU3MUZROGdBaTFVanZJVUtmejlT0gH6AUFVX3lxTE9oTUd6ZEpHM2NJUHhZamxOa3oxWUFLSVoweGZabGdlUGo0VEdTZzdYbGtkV1dfZ28wZklQWGlRX0NrazJKVk9xRDNkdW4zb2JhUVIyM29YQ2kzVUNUOFRldTVqeV9iMDM4WmZLSTlFcVluT01MODQ1QUlYeVhiTVI5Y1AtMnZmRlJKSWVQR1dHU05VcVJ5cHcxZ09JbjV1WkZTM2g2RkJnSVZnb1l1bmZpd0g1amtnVHVxcEpDWUoxVVpKakczR2Q0ZXdoV001TWhvbkJ6djFqS0NEUWM4QUVLNktacDZ5RTNNZjB3cVJzNy1GWFpDdkNESmc?oc=5
-
-- Trump unveils 'Board of Peace': India absent from stage; Pakistan's Shahbaz Sharif joins US President - Times of India
-  The Times of India reported that India was not invited to the 'Board of
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZ2Rablh6V1QzRmRDQjFoRGNXazQ3OTBFcHBWd21qaXhwWHNHNm0yeWNwWjRTS1EydjBjN1Nsdm1taWYwUDg1bXlWRm1nRHpJa3hMU0lJZXh0azJaVmtHY1BuZE55U0F0ZnpxMkRLaHU2aC1ITzFzZjBwZU0zMjRrX19jeUNCR0VaazhWanNFMjZqdUpMLWRSbXFnSzBXRXg4aXNOajhFd3FaeUlBek53WFhmWGoxRFo2TzRfT3ltb0dMSlNkd2lodzZHelVZVk9Ub1EtMUFqU2hFXzJLYVRZZFMySDhHaFVjejd4U0d4YUVfXzlwWC1n0gH8AUFVX3lxTFBseWVBOUlkMG96ajJyZ1ZLM1kxaXByR1k3NjBMd1RWVGhYTWlLTXNrT3ZHZlNzTFd6bi1zX1BBdHNhVUZIX2c4eUxHVGFhcXJKRWh2MGZtb2FQdVVUM3NXdTB4R0RtbnJkb0FuZm1RUkNncHpXRkxnZUo2WGcxQkV4c0JHemhoTm9Hb1d0T01OUHRfZmlOWDRiNnk4VzZ3cXFxZ3JLR3dVTk5GOERzYzhLNG9fd2N1RTZqTE8tRHdfd3I2Z084TUUzWmJUUTdSSTJhUXA4b3ZPNmpMSDVBaEVzZTZBTTJwbmtUT0E3V2dPYXl1WldQTHJuTEpBZQ?oc=5
-
-- 'Free Trade, Not Barriers': Norway Backs India-EU "Mother Of All Deals" - NDTV
-  'Free Trade, Not Barriers': Norway
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVS1EZFByQmdtbFFBaElkeFFvSExEbkJYN0NGNW0tSm1FTnlQOHIyX2s2UjBBMkpkVkZpdDY2TmZqZ25GdHlRUWpDSzNYSzZYU3p5R09la3lqbUZTTFRvNENrVG9pZWtPS29yMUdsTWtTcFRUbF91YlZUeXFMcTNuUkczOEtGYkx5aXVoM1hnNGZfZ2c5dDQxbnpwcS1sRjlmWFl4Uzg2VG5ZWjZCemQ3UFRfWnduaW5vbWdfbTQwdFp4SkoyU0HSAc4BQVVfeXFMTUdWZGszWFZFYUlVUjR3VnNLT1dncU9xWk5rMnhRRUllQjMwbHU0dnRZdUxIZG5XaHM5eXhRejd4dnhSdnBCckN6d2ozVFVnS2UtaDcybEVJYUt2QXF3WnUxYmhYbExiWndaam1mRXhFZE1YMzZSQzB1YTlla3o2ODZDZC0xVjdRbXVyM0dQSXhBaU1ESk5LMlo2a09YUXVUQTBHdEVCTHJtUVcwOEp4Y1ZBdWVnSjF5YWFPX2piQUpMbEJrVVUtTTNjVGxUWUE?oc=5
-
-- As Trump unveils his Board of Peace, Delhi waits, watches - The Indian Express
-  The Indian Express reports that the president-elect will
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzVhMXRLd0VjX2E3R1BRMkgzb3NJMnhzTTZ5WjBpMGozdU52MkluZ01VN2dsMjZBNjRESXRKQjJaZEVFNXYwVERpSFlSaUFOaEhnZnFxYS1NSDNKZ0ZhUjZzZmt4YXFHeHZVRzFKT2o3T21sajY5SFpJWmdXVGItd1l5R3dUTzVIYV8wZUNkX2JVNmRnQ0VmY2psRTV5MVJXeUNudkluaVZmMmtDdEE00gG2AUFVX3lxTFB2SHNOVzhfMzloTVcyU054cnBRUTdGQ0Zrck5PaXFZMEUyMTlTN3N5Q3NEZk1XdDdCc1BiYjZmaXJMcF9nUk1kMFhXZ3BpZXdlYVNPSDhCNjJOMTRhY2dUbXM3QkswSUw1TGZ5VmR6ajk3M0tmLUJGbU5EaFNQVzhvR1dQZ21UOHN4Qm9PT09xNG05RzAwVUJpMGhmMlk1OWVYVUhoRDlQc243NVc2ZTNNX2s4V2R3?oc=5
-
-- India ‘disregarded’ friendly advice on controlling Hasina’s government: Former Awami ally G.M. Quader - The Hindu
-  India ‘disregarded’ friendly advice on controlling
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcW9jdFFXMXhlTFhvakRBZWlBYnR3NF9oTjFuYllxU0hSOHBmQkk1SUpxbkx2VlM4S3lsaUJ6R1pPMWlTbGRjWjIzWW1FaVF1SjlGY1RkNnNSU1hieEZqektubGItTW5Sc3FBR1JCRlk5LXYxTlgyTm12MUpIMDFkYlc5bExTMVJNc0djc0ZfNkpmdkFvU0NBYUdBZVBOS09QOHNiU0ktX1ZnSzROZTVSWnd1UVZGeVRaREVOX0pPZnlqWURyYkFqVmxOWnM4MTFzb0tKTFlMaEQ3c3lYejJsUFM2WjJtWC1fZzI5NEVmQ3XSAfcBQVVfeXFMTXVqSmcwZ2dINGNheVFKVVRUTE9YeENlbVkwbHBtVm1JbWlDR0FCUHNJZU9ObmNUXzBESmNrY1ZSeWZicUU4NVBZQjYxVzhxaE9QT2UxdzR2Wk1Gc3hISHZrWUNEWTZvSk9TZUtNX29GLS10RFdNcVlkMlp3eENlcXNwN2ZxdlF1Vlc3d0l0dllydW5NVTRQMkhXa0JCbVg4Y0RmMGQ4UENpaHg3dmEwMjRHUEVKS1REejZEZXRkQjE0blE5OS0wVHg0OHZwWFhoNktxejYxLXMxTlYzeWpYZjBLS2I0NER3N2diTnNFRy0zb0hNdGRhcw?oc=5
+- BPCL Q3 Results: Cons PAT jumps 89% YoY to Rs 7,188 crore, revenue up 7%. Rs 10/share dividend announced
+  BPCL posted an 89% surge in Q3FY26 net profit to Rs 7,188 crore on higher refining margins and revenue growth. The oil PSU also declared a
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/bpcl-q3-results-cons-pat-jumps-89-yoy-to-rs-7188-crore-revenue-up-7-rs-10/share-dividend-announced/articleshow/127294641.cms
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-23 12:41:08 UTC_
+_Last updated: 2026-01-23 18:30:28 UTC_
