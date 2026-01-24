@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- No ink signature, no official seal: Why India’s Law Ministry refused to deliver US SEC summons to Adani
+- Trade, mobility deals with nations creating new opportunities for youths, says PM Modi: ‘Keep upgrading yourself’
   
-  🔗 https://indianexpress.com/article/india/indias-law-ministry-refused-to-deliver-us-sec-summons-to-adani-10491980/
+  🔗 https://indianexpress.com/article/india/trade-mobility-deals-new-opportunities-for-youths-pm-modi-10492619/
 
-- News Today Live Updates, 24 January | Georgia killing: Indian national among 4 dead in ‘family dispute’ shooting in US; 3 children brave 911 call from closet
+- Meat, fish, egg sale barred on Republic Day in Odisha’s Koraput district
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-01-24-2026-news-headlines-10491717/
+  🔗 https://indianexpress.com/article/india/republic-day-meat-eggs-sale-odisha-collector-10492565/
 
-- ‘Is it a sin to practice one’s faith?’: After assault, Odisha pastor now asked to vacate rented home
+- Centre revises cadre allocation policy for IAS, IPS, IFoS to increase transparency, consistency
   
-  🔗 https://indianexpress.com/article/india/assaulted-by-mob-odisha-pastor-is-now-asked-by-landlord-to-vacate-rented-home-10491537/
+  🔗 https://indianexpress.com/article/india/centre-revises-cadre-allocation-policy-ias-ips-10492422/
 
-- Heading home on a boat, 4 of family drown in Bijapur river, putting spotlight on access in Maoist belt
+- More stray dog killings come to light in Telanagana, 300 found buried in one spot
   
-  🔗 https://indianexpress.com/article/india/heading-home-on-a-boat-4-of-family-drown-in-bijapur-river-putting-spotlight-on-access-in-maoist-belt-10491526/
+  🔗 https://indianexpress.com/article/india/stray-dogs-killed-telangana-village-administrators-booked-10492414/
 
-- Great loss, self-inflicted problem for America: Lancet editor-in-chief on US’s move to quit WHO
+- Shashi Tharoor ‘unapologetic’ over Operation Sindoor stand: ‘Didn’t violate Congress line’
   
-  🔗 https://indianexpress.com/article/india/great-loss-self-inflicted-problem-for-america-lancet-editor-in-chief-on-uss-move-to-quit-who-10491509/
+  🔗 https://indianexpress.com/article/india/congress-unapologetic-shashi-tharoor-operation-sindoor-stand-10492270/
+
+- Former OpenAI research head says Google caught up after ChatGPT momentum faded
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-ai-comeback-openai-fumble-10492202/
+
+- Apple nears India launch of Apple Pay amid regulatory and partner discussions: Report
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-nears-india-launch-of-apple-pay-amid-regulatory-and-partner-discussions-10492199/
 
 - Meta halts teens’ access to AI characters globally
   
@@ -32,53 +40,57 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/lenovo-looking-to-partner-with-multiple-ai-models-cfo-says-10491825/
 
-- Davos delegates stress AI’s employment upside as layoff fears linger
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/davos-delegates-stress-ais-employment-upside-as-layoff-fears-linger-10491807/
+- Higher cement sales help UltraTech beat earnings estimates
+  UltraTech Cement's consolidated net profit rises 27%
+  🔗 https://www.livemint.com/companies/company-results/ultratech-cement-q3-profit-surge-sales-volume-estimates-beat-11769255126382.html
 
-- Physical AI is the next frontier, and we are taking up the challenge: Raghu Dharmaraju, CEO, ARTPARK
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/physical-ai-frontier-challenge-raghu-dharmaraju-ceo-artpark-10491096/
+- Citigroup plans to lay off more employees in March — who will get impacted? Here's what report says
+  Citigroup plans new layoffs in March after cutting 1,000 jobs in January. The cuts, affecting mainly senior
+  🔗 https://www.livemint.com/companies/news/citigroup-plans-to-lay-off-more-employees-in-march-who-will-get-impacted-heres-what-report-says-11769244351468.html
 
-- US bribery case: Adani makes first legal submission, asks court to defer ruling
-  Gautam Adani and his nephew Sagar Adani have requested the US court to defer its ruling on the 21 January SEC motion.
-  🔗 https://www.livemint.com/companies/news/adani-group-gautam-us-court-bribery-case-legal-submission-defer-ruling-11769231055296.html
+- Chinese apps dominated Android and iOS downloads in US in 2025 — Here's how TikTok, CapCut, Temu, Shein fared
+  Chinese apps continued to dominate download list in the United States last year. ByteDance's TikTok and CapCut and fashion retailers Temu
+  🔗 https://www.livemint.com/companies/news/chinese-apps-dominated-us-android-ios-downloads-2025-why-how-bytedance-video-tiktok-edit-capcut-fashion-temu-shein-fared-11769238527191.html
 
-- SEC agrees to dismiss case over crypto lending by Winklevoss' Gemini
-  The SEC charged Genesis Global Capital and Gemini Trust Company with illegally selling securities to hundreds of thousands of investors through their
-  🔗 https://www.livemint.com/companies/news/sec-agrees-to-dismiss-case-over-crypto-lending-by-winklevoss-gemini-11769224436889.html
+- Not just Shanghai, Nvidia CEO Jensen Huang likely to visit Beijing amid surprise customs block for H200 chip
+  Jensen Huang's annual Shanghai visit is likely to lead to a Beijing detour. Nvidia's H200 chips were met with a surprise customs block from Chinese authorities
+  🔗 https://www.livemint.com/companies/news/nvidia-ceo-jensen-huang-shanghai-staff-meet-likely-visit-beijing-surprise-china-customs-block-h200-chips-import-restrict-11769238638159.html
 
-- Nvidia director Persis Drell resigns from board, leaves with 1,43,000 shares and stock price gain of 22,000%
-   Persis Drell is leaving the board to “pursue a new professional opportunity.�
-  🔗 https://www.livemint.com/companies/people/nvidia-stock-price-gain-22000-pc-director-persis-drell-resigns-board-leaves-holding-143000-shares-worth-26-million-huang-11769218511247.html
+- This investment bank chief's pay rose 21% to $47 million for 2025, beating JPMorgan CEO Jamie Dimon's salary hike
+  Goldman Sachs Group Inc. CEO David Solomon saw his biggest pay hike yet. Solomon's compensation for 2025 jumped by 21% to $47
+  🔗 https://www.livemint.com/companies/people/goldman-sachs-ceo-david-solomon-2025-salary-hike-21-pc-compensation-pay-jumped-47-million-beat-bank-jpmorgan-jamie-dimon-11769231042363.html
 
-- Titan’s engineering arm looks to fill equipment gap as manufacturers seek China alternatives
-  Titan’s engineering arm wants to build the equipment and deep-
-  🔗 https://www.livemint.com/companies/news/titan-engineering-arm-china-semiconductors-solar-batteries-us-tariff-11769159368219.html
+- SBI Life-owned NBFC stock Paisalo Digital to be in focus on Tuesday; here's why
+  Paisalo Digital redeemed 10 NCDs from Series PDL-09-2023, seven years ahead of maturity
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-sbi-life-owned-nbfc-stock-paisalo-digital-to-be-in-focus-on-tuesday-heres-why-11769247950007.html
 
-- Live Nation Freezes Out Venues That Ditch Ticketmaster, US Says
-  The US Justice Department wants Live Nation Entertainment Inc. broken up. It says the company maintains a stranglehold over the live events industry.
-  🔗 https://www.livemint.com/companies/live-nation-freezes-out-venues-that-ditch-ticketmaster-us-says-11769198329818.html
+- Kotak Mahindra Bank Q3 Results: Net profit rises 4% as NII and operating income improve
+  Kotak Mahindra Bank reported a consolidated net profit of  ₹3,446 crore for Q3 FY26, a 4.3% increase from last year. Operating profit
+  🔗 https://www.livemint.com/market/stock-market-news/kotak-mahindra-bank-q3-results-net-profit-rises-4-as-nii-and-operating-income-improve-11769253040951.html
 
-- Stock to buy: Choice Broking's Sumeet Bagadia recommends this multibagger NBFC stock as his Republic Day Pick 2026
-  Shriram Finance is recommended by Sumeet Bagadia as a top stock for Republic Day 2026. The stock has gained 336% over five years, with targets of 
-  🔗 https://www.livemint.com/market/stock-market-news/stock-to-buy-choice-brokings-sumeet-bagadia-recommends-this-multibagger-nbfc-stock-as-his-republic-day-pick-2026-11769231864769.html
+- Why no shareholder wants to sell the PhonePe stock?
+  PhonePe's upcoming IPO in 2026, structured as an Offer for Sale, sees Walmart diluting 9% of its stake. Most shareholders, including founders, are retaining their investments
+  🔗 https://www.livemint.com/market/stock-market-news/phonepe-ipo-why-no-shareholder-wants-to-sell-the-phonepe-stock-11769246541916.html
 
-- Adani Enterprises issues clarification, says it is not party to US legal proceedings
-  Adani Enterprises says it is not involved in any legal proceedings mentioned in recent media reports. The company emphasized there are no allegations against it, following reports of a US regulator seeking legal action.
-  🔗 https://www.livemint.com/market/adani-group-stocks-adani-enterprises-issues-clarification-says-it-is-not-party-to-us-legal-proceedings-11769227494212.html
+- What is Long Term Capital Gain tax? Why do investors and other stakeholders want it removed in every budget?
+  Critics argue it hinders long-term investments, reduces post-tax returns, and promotes double taxation. The effective tax rate for high earners may drive talent abroad.
+  🔗 https://www.livemint.com/market/stock-market-news/what-is-long-term-capital-gains-tax-why-do-investors-and-other-stakeholders-want-it-removed-in-every-budget-11769242915892.html
 
-- 'I don’t care about prices..': Why Robert Kiyosaki keeps buying Gold, Silver and Bitcoin
-  Robert Kiyosaki reignited debate on X after saying he does not care about price swings in gold, silver or cryptocurrencies. The Rich Dad Poor Dad author argued that rising US debt and a weakening dollar matter more than
-  🔗 https://www.livemint.com/market/stock-market-news/i-don-t-care-about-prices-why-robert-kiyosaki-keeps-buying-gold-silver-and-bitcoin-11769225270877.html
+- From Adcounty, TechEra to Fineotex: Ashish Kacholia adds 2 stocks, exits 1 in Q3 portfolio reshuffle
+  Investor Ashish Kacholia adjusted his  ₹2,400 crore portfolio in the December quarter. He added stakes in Adcounty Media and TechEra
+  🔗 https://www.livemint.com/market/stock-market-news/from-adcounty-techera-to-fineotex-ashish-kacholia-adds-2-stocks-exits-1-in-q3-portfolio-reshuffle-11769241917316.html
 
-- Stock market holiday: NSE, BSE to remain closed on Monday for Republic Day 2026
-  The equity and currency markets are shut, but commodity derivatives will trade in the evening. India will observe 16 trading holidays in 2026, with the next on March 3 for Holi.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-nse-bse-to-remain-closed-on-monday-for-republic-day-2026-11769222373200.html
+- Singapore to invest over $779 million in public AI research through 2030
+  Singapore to invest over $779
+  🔗 https://www.livemint.com/technology/singapore-to-invest-over-779-million-in-public-ai-research-through-2030-11769256705823.html
 
-- Stocks to buy under  ₹200: Nifty 50 to Sensex — Mehul Kothari of Anand Rathi recommends three shares to buy or sell
-  Mehul Kothari of Anand Rathi recommends three shares to buy or sell — ID
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-100-nifty-50-to-sensex-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11769186941592.html
+- Massive breach exposes 149 million Instagram, Gmail, OnlyFans passwords: How to stay safe?
+  A cybersecurity breach has exposed 149 million login credentials from various online services. The data was left unsecured and accessible via an
+  🔗 https://www.livemint.com/technology/tech-news/massive-breach-exposes-149-million-instagram-gmail-onlyfans-passwords-how-to-stay-safe-11769238285603.html
+
+- No more AI friends: Meta cuts off teen access to characters on Instagram and Facebook
+   Meta is temporarily restricting teens' access to its AI characters. The ban would apply to users who have teen birthdays.
+  🔗 https://www.livemint.com/technology/tech-news/no-more-ai-friends-meta-cuts-off-teen-access-to-characters-on-instagram-and-facebook-11769233727767.html
 
 - Your App Store search is about to change: Apple confirms multiple ad slots are coming to iPhone in March
   Apple will increase ads on the App Store starting March, first in the UK and Japan, followed by other markets. This move aims to enhance developer opportunities and generate additional revenue.
@@ -88,145 +100,85 @@
   WWE has officially unveiled the WWE 2K26 'Attitude Era' Edition. The Pre-orders for the game will begin on January 30
   🔗 https://www.livemint.com/technology/tech-news/wwe-2k26-attitude-edition-announced-during-smackdown-expected-release-date-roster-and-legendary-cover-art-11769226463982.html
 
-- WhatsApp could finally let new group members see past messages on iPhone: here's how it works
-  WhatsApp is testing a new feature that allows current group members to share chat history with new members. This feature, available in the latest iOS update, enables sharing up to 100 messages from the last 14 days
-  🔗 https://www.livemint.com/technology/tech-news/whatsapp-could-finally-lets-new-group-members-see-past-messages-on-iphone-heres-how-it-works-11769216208430.html
+- Mala Gaonkar’s hedge fund assets hit $6 billion in three years
+  Mala Gaonkar's SurgoCap Partners experienced a rapid ascent, tripling its assets to $6 billion within three years of its 2023 launch. This marked one of the fastest-growing debuts in hedge fund history.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/mala-gaonkars-hedge-fund-assets-hit-6-billion-in-three-years/articleshow/127392529.cms
 
-- The coming winter storm: Theres an app for that. But how reliable is it and whats inside?
-  There's an app for that. But how reliable is it
-  🔗 https://www.livemint.com/technology/the-coming-winter-storm-theres-an-app-for-that-but-how-reliable-is-it-and-whats-inside-11769185769457.html
+- FPIs dump Indian equities worth Rs 33,598 cr in Jan so far. Is the sentiment set to worsen further?
+  FPIs continued their selling spree in the week ended January 23. The sustained outflows have wiped off Rs 16 trillion in market capitalisation.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpis-dump-indian-equities-worth-rs-33598-cr-in-jan-so-far-is-the-sentiment-set-to-worsen-further/articleshow/127390879.cms
 
-- Intel faces memory-price crunch. Why Apple will be the next victim.
-  Intel stock was falling as it faces headwinds from soaring memory-chip
-  🔗 https://www.livemint.com/technology/intel-faces-memory-price-crunch-why-apple-will-be-the-next-victim-11769173169157.html
+- Dalal Street Week Ahead: Volatility to stay elevated, traders urged to stay nimble
+   Markets experienced a sharp corrective move, with Nifty ending lower after a volatile week. India VIX surged, signaling increased risk perception. Despite a potential technical rebound due to oversold conditions, volatility is expected
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-volatility-to-stay-elevated-traders-urged-to-stay-nimble/articleshow/127390536.cms
 
-- Concurrent Losers: 15 small-cap stocks decline for 5 consecutive sessions
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-15-small-cap-stocks-decline-for-5-consecutive-sessions/slideshow/127369462.cms
+- Adani Group clarifies on US SEC summons report; says no allegations against company
+  Adani Group companies clarify via stock exchange filings that they are not parties to any US SEC legal proceedings. The group reiterated no allegations are against the company.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-group-clarifies-on-us-sec-summons-report-says-no-allegations-against-company/articleshow/127390361.cms
 
-- IPO calendar: 5 new issues to hit the market next week, Shadowfax to debut on bourses
-  The primary market anticipates a quiet week with no mainboard public offerings. Investor focus will shift to SME platforms, featuring five IPOs.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-5-new-issues-to-hit-the-market-next-week-shadowfax-to-debut-on-bourses/articleshow/127368295.cms
+- Govt of Singapore’s India portfolio: 11 stocks rally up to 90% in 10 months, new Q3 pick unveiled
+  Despite decline in overall portfolio value during FY26, stock-level performance remains encouraging. More than half of the holdings delivered positive returns, with 11 stocks surging between 25% and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/govt-of-singapores-india-portfolio-11-stocks-rally-up-to-90-in-10-months-new-q3-pick-unveiled/slideshow/127387631.cms
 
-- Bitcoin consolidates around $90K as cautious investors wait for Fed meeting
-  Both Bitcoin and Ethereum saw slight dips in the last 24 hours. Bitcoin hovers around $90,000 as investors await the Federal Reserve meeting. The global crypto market capitalization also edged down.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-consolidates-around-90k-as-cautious-investors-wait-for-fed-meeting/articleshow/127368101.cms
+- "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
+  "Path To Take Them Off": Trump Aide Hints
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
 
-- How PPFAS is marrying active with passive in its new Large Cap Fund
-   PPFAS Mutual Fund introduces the Parag Parikh Large Cap Fund. This new offering blends active and passive investing for exposure to India's top 100 companies.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/how-ppfas-is-marrying-active-with-passive-in-its-new-large-cap-fund/articleshow/127367761.cms
+- US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have collapsed' | India News - Hindustan Times
+  US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTXJfeldGNzU4MDY5LUFIbWs5TlNzWnJRc3Z2RERRSVl3VzEtTl9yTW5CQ1Z0VTg5Ujk0VEJodTVTZWpFV25OMG1SWnJZZk1wQ1U5VFNGQS1Gb085ZFhfVFZnNF95UGxOaHRMT09RS0RrTkNwSFFKcmNsRE1UYWtfUkxkd1cxSGo4UWxMWTMzZkQwNUphdzd5bTJaLUtnSWhEbW1COGhOdDB1aVJVTWdmQ1J5d001c3Jmc1Y2NmNPRFdMeVJBOE9QLWJDa2ZzZWFTVllUMmZIT2VVa0ZJcEVpVW1SWGFuSTJyR1pCUEZhb3VVUHhhOTBtZGtn0gH_AUFVX3lxTE5RYXNxb1dPTlcyeE9pZkJTX0wyNVFUb0VVT2FGaXE1U1dfLVBsWW1CbXhqYkZzeDRmVDBsUG9zc3hrUllEMHBBdUNHX0dON0l5Rk8xSXliTEZCbldrQ3otNmFDWnplTkZ5TmxrR3FrRUp3TmxrMXRSTUlUdDBOSE5jbEFIUHJxTG9xS1VyM1EwZ0MzZ0tGcEczeWVzLVV1VzRpbk9fQnM4WF9RN29SeDV4VVl3aXFSdTZ3WksyVmVUNkRRcVR5UTVyWENQU3lhUG53dTdPMkhiUXZTbk1RQktQODcxbVQ5eHdUN3oyU3ZqWjIwbFdHcVBoRlVNbVFVTQ?oc=5
 
-- Defence, self-reliance, and budgetary priorities: Sectoral opportunities in a shifting strategic landscape
-  A record budget and focus on domestic production are boosting capabilities. Exports are growing, reaching over 100 countries. New technologies and private sector involvement are key.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/defence-self-reliance-and-budgetary-priorities-sectoral-opportunities-in-a-shifting-strategic-landscape/articleshow/127367486.cms
+- Evening news wrap: Scotland replaces Bangladesh in T20 World Cup; Air India cancels all flights from New - Times of India
+  Evening news wrap: Scotland replaces Bangladesh in T20 World Cup; Air India cancel
+  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxOU0F2Y3FSSV8wRkl2cVdCcUpxaWRHUXk0Wjc3bDhNYXBnS0NOLW9FSGkxb0xBSk1FTk1zZVhxLVhBT2kwQVoxRVJ5aEVKOU9OVVhtcjUwRFp2ekNXLVhWX3RYZnRaOFBKRnFsa2NtcGowVjg0YTZ6TUJRbVZvWDFOVXRJNGxObWx1SjBjN0V3ejZlZGIyOUlBaUFIOEhnMnVaem5uWURwcUNMbGVXM1RvZ1UtanFleFJBNDltOE5SODd1MzNRQ3dRc1FyTU5UcTJRMXZHRThzeHRPQm9URUxCR0hjQ05RNjY0VXlpdGN6ZWpPNjQ0N3Vlb2tjempsdUNNYXVoRVhHejlPVFpSMnQ2cWRtYkxpdkFLVnQ4WURWNnhwVVpXZmgw0gGsAkFVX3lxTE1wTTloUlFsWWMtQ0RDNkRoLWZoNkljWEszcXllOERTNzlVUHUzYXUtUkhrWkdkbzVMX3p0RWFjbm1qeUZOblBLd0VrLVVGZW5vTFl6V0dISFdMUDNTM3J4SnU1NlRrNks0NkdqcVdRcWQ4YWs0d1VoU3FDUy1MdFdSRzc0TF94cXpVdEphZXNwbVpGNDEtZFV1eG1PZEJEOVhJbXBBTjJKRkM5Y0FfWF9tQmlhbV9vQmRnVG1CNy1fSjRxRGlDV3NNY0tuaVRiaFBxSFg1S0syVFRWc01vSHFkV2JIZFlNLXBiX3hHNWdtVnNEdEJKeHJ5V2ZQSEp2RmpOQlRwZEVKUXlSemNzMlo0cDBnWG1VbW1PNG10YmhfUEU0QkQ5TDhHenRKbw?oc=5
 
-- 'Free Trade, Not Barriers': Norway Backs India-EU "Mother Of All Deals" - NDTV
-  'Free Trade, Not Barriers': Norway
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVS1EZFByQmdtbFFBaElkeFFvSExEbkJYN0NGNW0tSm1FTnlQOHIyX2s2UjBBMkpkVkZpdDY2TmZqZ25GdHlRUWpDSzNYSzZYU3p5R09la3lqbUZTTFRvNENrVG9pZWtPS29yMUdsTWtTcFRUbF91YlZUeXFMcTNuUkczOEtGYkx5aXVoM1hnNGZfZ2c5dDQxbnpwcS1sRjlmWFl4Uzg2VG5ZWjZCemQ3UFRfWnduaW5vbWdfbTQwdFp4SkoyU0HSAc4BQVVfeXFMTUdWZGszWFZFYUlVUjR3VnNLT1dncU9xWk5rMnhRRUllQjMwbHU0dnRZdUxIZG5XaHM5eXhRejd4dnhSdnBCckN6d2ozVFVnS2UtaDcybEVJYUt2QXF3WnUxYmhYbExiWndaam1mRXhFZE1YMzZSQzB1YTlla3o2ODZDZC0xVjdRbXVyM0dQSXhBaU1ESk5LMlo2a09YUXVUQTBHdEVCTHJtUVcwOEp4Y1ZBdWVnSjF5YWFPX2piQUpMbEJrVVUtTTNjVGxUWUE?oc=5
-
-- Invited, watching closely: Why India is not on Trump's ‘Board of Peace’ yet | India News - Hindustan Times
-  India is not on Trump's ‘Board of Peace’ yet.
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdktEVUlWaUJ1YmZjVlBRNjNyQzBuLTg2WkdDaFBMUFNBa0QtQkhwNnpoaEg3Q1VFTjJXWmUzMVJvS21SV0toamtIYW5na2Z4a3NBZWJtb0FBeFItOUIybE44RkpUbjRiWlJiRDYyTXJfbGwxanczVDRJa3hnWlJMbml4aWcxUE9WWHh3UEFNQVNzMmVXQmRPZ2lNeDBKMlM4TEhzQ0tmbUFFUG1ZMGlGaThFN2NGRE9lSmdLeWNpVjNLZWZRZThfaE04SVFzeXI5R1JLSjdNUUdTTzlJN0xlWGU3MUZROGdBaTFVanZJVUtmejlT0gH6AUFVX3lxTE9oTUd6ZEpHM2NJUHhZamxOa3oxWUFLSVoweGZabGdlUGo0VEdTZzdYbGtkV1dfZ28wZklQWGlRX0NrazJKVk9xRDNkdW4zb2JhUVIyM29YQ2kzVUNUOFRldTVqeV9iMDM4WmZLSTlFcVluT01MODQ1QUlYeVhiTVI5Y1AtMnZmRlJKSWVQR1dHU05VcVJ5cHcxZ09JbjV1WkZTM2g2RkJnSVZnb1l1bmZpd0g1amtnVHVxcEpDWUoxVVpKakczR2Q0ZXdoV001TWhvbkJ6djFqS0NEUWM4QUVLNktacDZ5RTNNZjB3cVJzNy1GWFpDdkNESmc?oc=5
-
-- News Today Live Updates, 24 January | Georgia killing: Indian national among 4 dead in ‘family dispute’ shooting in US; 3 children brave 911 call from closet - The Indian Express
-  The Indian Express reported that Indian national was killed in a shooting in Georgia.
+- News Today Live Updates, 24 January | Forget China: Why Trump’s new Pentagon strategy is moving US military to Greenland and Panama Canal - The Indian Express
+  The Indian Express reports that the US is moving its military to Greenland and Panama.
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZlkyR3JoV0JwcHE1MlZEUHJxLWdmTGRPbDFfbjQxbERLUHFvLVlXOW90cWIxNjJ0NlNQelNXNE1oV2JYSG0xZVZjMDlBbVBMWDE4RTBwcFZEd1Y2V2hIdnpnb0hoQzhDY2N4cmcxMVF6NkFnZmlfUms3OU5sSHBzaDdzd01rWEQzaFFVdV9pN05mblcteDRwZXFGMHZqcWdmZjBiLXA2OGdDYXBrdFBRNDU2RUpOdTdacExGU0tQRmtWTHItVE55WkNxVDlSLUFSZk02cmhZaTkycWpnVndjbnBfaEJnUDFT0gHvAUFVX3lxTE1VUVV6Vnc4NTRsQUpGNzNjSC1LcU1wTU9sc3JHNkZ0RzliV2d5Z2ItS1duV29BVjV4c2phMnUxUGYtZzYwQ0V5bV9JYnlWY3AzaFV1QVl4WF95dnc5NWxSd3UyVWdnUnJfeEowb1FncmxwTERrejNSVzctYld0eko3LTQ1cERIdGljT3VDZ3cycm9oS1E4emI2MmRBMWVFSHZEdFBGTWZkcW1Jand3MjlfeXI3UzZHdDg2WWoxSnJoeWxmYU80WGdiMDQyb2Z2MWdabVVSazN6dkNuUDFnR2YxWTlkSDJTX2pwMXl2Qy1j?oc=5
 
-- Patent rejected for MNC’s cancer drug, generics to follow - Times of India
-  Patent rejected for MNC’s
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVYzazg4cjRQdlhTcVRSaEdtWlBYYnRPQnNadUZzTC0wQ3Z0WmFqLWVjNGhlcDhhZF91bUN0Q0wxZVNiUEViVlEzbjZCX0plS1FTQmxUVGhNazJtdXNXdGxVYlV2ZHFSaWlJa2ZkcmJiRmVycWVQX1lBTC1ueUtXeHZIbVZPTWIxSlZXOFVtekY1NkJVX1N1d0hkcml5LXNzWm1GRVhoX3pDSG1aYnluQkhjUldIQ0ZkVXRNWVRqMnDSAcYBQVVfeXFMTlRtT1V5UDhRRTlEZGZjU1h1WTQ5RTc2ZU9hb29zb2E4VUcwZE1uckx6ZUE0TDRFbUNXaG11b2Q0MDBZR2NOS2NhV0tVN3FyTjIwa0tlWkdoOVFROWsyRmc3NzEtMTlOb2hEZFluX1JYTVNGekhtdENmZEdJanR6U3kwYnVYNDlHT2VtZWY5bnE0S0NfUW9UczRYYW1OcXo4bElZbzJnMDZHYTlVZ0NoRWYyVVdBclVDRXZRbE1VeDh5eGM5S3Jn?oc=5
+- Iran Is Not Afraid, Khamenei Not Hiding In A Bunker: Consul General To NDTV - NDTV
+  Iran Is Not Afraid, Khamenei Not Hiding In
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM1pXSGJQRXRQM2stVWJJcWRLdE5NSENKdnJLWV92VGc3MUExb1YwTFB2RWFKVGhwZjdmMG5za3dlVkhpcGxsNGNSVlUxZEVCblZoRlZmaEx6dzZLZ1UyWS1fZGZQaEZ1bDRHcnA3N1BZZ1VVS1dIaUprMjhDYXJ0YUp4Z3NQeU1nSGozYV83VEoyaFgxVHNHV3R2Y0p4R2tHRlRKWTZka3EyRnJySEdZUlJyb3FvTFBCNWlDbmhCc2VCMEk3cEd0Z0xZUjVHRVZocmF6V3VPUE5WT3dMWnRTOUU1cUljelZkNE9TWUxJSXV2d0ZL0gH8AUFVX3lxTFBGckxwT3phNHFDZWVtUVJvOUVDWnhkTDRjX1VvVlhfSGhSbVd3QVZTUkZaUUYzRXFiNTRMSjJwblp4bDA5S0VTdDk1RWk3MWhSSFpYa25KY1ljWEx1a2ZpUnd1aGJ6SE1HNU9VTG5YbGxnc2l3UjZqdnV1a04tV2s0UmRZQldEd29BaUZoLXBJYWpLSmxlMjBKdm5tNXFLS1RfLWVzR2ZVd0ZiTHhSQ1UzRkdmUll5SWpEcmgwSWtGdXRZWHFxZW1YTEJlUEgtWmJtazVhTHhsaldsWnBTQ0szRXdBbzljaFVSSnJHSUdwTkNVZzdjTEVmRE5xMg?oc=5
 
-- India, EU to upgrade ties at Delhi summit, but still working out trade deal - The Hindu
-  India, EU to upgrade ties at Delhi summit, but still working
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNNTNldHp3VXNNZnMtRUV3UFZpbHU4U19lVE5vczJOeHEtekM3SVlFRUdua0JRMURuRnF5SE5DSkZJWWdlMFc0cnNyd2lCS1FmQy1qNWdpMWVBZ3h0VVNGNWZVT0N0cHQya2x2Q3FhX3FVTFNZWGpBZ2tLTDdObEh4T3R0dm1HUDR4eXdRR3FjLVM1S2xRN1JROHRVWkh2R29wZDVvR2dmbkYweU1SVWstM2JLQlRKV0l3N1BBTkg2d01xWXVjMDltNGdPaWfSAdMBQVVfeXFMTUIybC1CVkNyQTl6TDZacW5DbTFUdkdybUtTWjFHWkppaUxBekxkZGY5cUoycnk2ZEYtXzFYQ0JmMEtpTFF3Slpfb2RFQnhXVDZkeFFhZW5GMEhZUmVfcUpkTnN3ZlZ6SHQtYXFpVVFZZE9PeEhJbU03UWpRX1NmWnNhZ21WcUt5OVFBa1ppdHBLWDFSdkdRUmNUN3RnUENOay1SUFFLNWZDenJtenNtRXlIVGE1SGRCZVpmQ1pHNTl3NDlTUkw5dDJweWp3UXZUYi1oOA?oc=5
+- "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
+  "Path To Take Them Off": Trump Aide Hints
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
 
-- 'Free Trade, Not Barriers': Norway Backs India-EU "Mother Of All Deals" - NDTV
-  'Free Trade, Not Barriers': Norway
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVS1EZFByQmdtbFFBaElkeFFvSExEbkJYN0NGNW0tSm1FTnlQOHIyX2s2UjBBMkpkVkZpdDY2TmZqZ25GdHlRUWpDSzNYSzZYU3p5R09la3lqbUZTTFRvNENrVG9pZWtPS29yMUdsTWtTcFRUbF91YlZUeXFMcTNuUkczOEtGYkx5aXVoM1hnNGZfZ2c5dDQxbnpwcS1sRjlmWFl4Uzg2VG5ZWjZCemQ3UFRfWnduaW5vbWdfbTQwdFp4SkoyU0HSAc4BQVVfeXFMTUdWZGszWFZFYUlVUjR3VnNLT1dncU9xWk5rMnhRRUllQjMwbHU0dnRZdUxIZG5XaHM5eXhRejd4dnhSdnBCckN6d2ozVFVnS2UtaDcybEVJYUt2QXF3WnUxYmhYbExiWndaam1mRXhFZE1YMzZSQzB1YTlla3o2ODZDZC0xVjdRbXVyM0dQSXhBaU1ESk5LMlo2a09YUXVUQTBHdEVCTHJtUVcwOEp4Y1ZBdWVnSjF5YWFPX2piQUpMbEJrVVUtTTNjVGxUWUE?oc=5
+- US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have collapsed' | India News - Hindustan Times
+  US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTXJfeldGNzU4MDY5LUFIbWs5TlNzWnJRc3Z2RERRSVl3VzEtTl9yTW5CQ1Z0VTg5Ujk0VEJodTVTZWpFV25OMG1SWnJZZk1wQ1U5VFNGQS1Gb085ZFhfVFZnNF95UGxOaHRMT09RS0RrTkNwSFFKcmNsRE1UYWtfUkxkd1cxSGo4UWxMWTMzZkQwNUphdzd5bTJaLUtnSWhEbW1COGhOdDB1aVJVTWdmQ1J5d001c3Jmc1Y2NmNPRFdMeVJBOE9QLWJDa2ZzZWFTVllUMmZIT2VVa0ZJcEVpVW1SWGFuSTJyR1pCUEZhb3VVUHhhOTBtZGtn0gH_AUFVX3lxTE5RYXNxb1dPTlcyeE9pZkJTX0wyNVFUb0VVT2FGaXE1U1dfLVBsWW1CbXhqYkZzeDRmVDBsUG9zc3hrUllEMHBBdUNHX0dON0l5Rk8xSXliTEZCbldrQ3otNmFDWnplTkZ5TmxrR3FrRUp3TmxrMXRSTUlUdDBOSE5jbEFIUHJxTG9xS1VyM1EwZ0MzZ0tGcEczeWVzLVV1VzRpbk9fQnM4WF9RN29SeDV4VVl3aXFSdTZ3WksyVmVUNkRRcVR5UTVyWENQU3lhUG53dTdPMkhiUXZTbk1RQktQODcxbVQ5eHdUN3oyU3ZqWjIwbFdHcVBoRlVNbVFVTQ?oc=5
 
-- Invited, watching closely: Why India is not on Trump's ‘Board of Peace’ yet | India News - Hindustan Times
-  India is not on Trump's ‘Board of Peace’ yet.
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdktEVUlWaUJ1YmZjVlBRNjNyQzBuLTg2WkdDaFBMUFNBa0QtQkhwNnpoaEg3Q1VFTjJXWmUzMVJvS21SV0toamtIYW5na2Z4a3NBZWJtb0FBeFItOUIybE44RkpUbjRiWlJiRDYyTXJfbGwxanczVDRJa3hnWlJMbml4aWcxUE9WWHh3UEFNQVNzMmVXQmRPZ2lNeDBKMlM4TEhzQ0tmbUFFUG1ZMGlGaThFN2NGRE9lSmdLeWNpVjNLZWZRZThfaE04SVFzeXI5R1JLSjdNUUdTTzlJN0xlWGU3MUZROGdBaTFVanZJVUtmejlT0gH6AUFVX3lxTE9oTUd6ZEpHM2NJUHhZamxOa3oxWUFLSVoweGZabGdlUGo0VEdTZzdYbGtkV1dfZ28wZklQWGlRX0NrazJKVk9xRDNkdW4zb2JhUVIyM29YQ2kzVUNUOFRldTVqeV9iMDM4WmZLSTlFcVluT01MODQ1QUlYeVhiTVI5Y1AtMnZmRlJKSWVQR1dHU05VcVJ5cHcxZ09JbjV1WkZTM2g2RkJnSVZnb1l1bmZpd0g1amtnVHVxcEpDWUoxVVpKakczR2Q0ZXdoV001TWhvbkJ6djFqS0NEUWM4QUVLNktacDZ5RTNNZjB3cVJzNy1GWFpDdkNESmc?oc=5
+- Evening news wrap: Scotland replaces Bangladesh in T20 World Cup; Air India cancels all flights from New - Times of India
+  Evening news wrap: Scotland replaces Bangladesh in T20 World Cup; Air India cancel
+  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxOU0F2Y3FSSV8wRkl2cVdCcUpxaWRHUXk0Wjc3bDhNYXBnS0NOLW9FSGkxb0xBSk1FTk1zZVhxLVhBT2kwQVoxRVJ5aEVKOU9OVVhtcjUwRFp2ekNXLVhWX3RYZnRaOFBKRnFsa2NtcGowVjg0YTZ6TUJRbVZvWDFOVXRJNGxObWx1SjBjN0V3ejZlZGIyOUlBaUFIOEhnMnVaem5uWURwcUNMbGVXM1RvZ1UtanFleFJBNDltOE5SODd1MzNRQ3dRc1FyTU5UcTJRMXZHRThzeHRPQm9URUxCR0hjQ05RNjY0VXlpdGN6ZWpPNjQ0N3Vlb2tjempsdUNNYXVoRVhHejlPVFpSMnQ2cWRtYkxpdkFLVnQ4WURWNnhwVVpXZmgw0gGsAkFVX3lxTE1wTTloUlFsWWMtQ0RDNkRoLWZoNkljWEszcXllOERTNzlVUHUzYXUtUkhrWkdkbzVMX3p0RWFjbm1qeUZOblBLd0VrLVVGZW5vTFl6V0dISFdMUDNTM3J4SnU1NlRrNks0NkdqcVdRcWQ4YWs0d1VoU3FDUy1MdFdSRzc0TF94cXpVdEphZXNwbVpGNDEtZFV1eG1PZEJEOVhJbXBBTjJKRkM5Y0FfWF9tQmlhbV9vQmRnVG1CNy1fSjRxRGlDV3NNY0tuaVRiaFBxSFg1S0syVFRWc01vSHFkV2JIZFlNLXBiX3hHNWdtVnNEdEJKeHJ5V2ZQSEp2RmpOQlRwZEVKUXlSemNzMlo0cDBnWG1VbW1PNG10YmhfUEU0QkQ5TDhHenRKbw?oc=5
 
-- News Today Live Updates, 24 January | Georgia killing: Indian national among 4 dead in ‘family dispute’ shooting in US; 3 children brave 911 call from closet - The Indian Express
-  The Indian Express reported that Indian national was killed in a shooting in Georgia.
+- News Today Live Updates, 24 January | Forget China: Why Trump’s new Pentagon strategy is moving US military to Greenland and Panama Canal - The Indian Express
+  The Indian Express reports that the US is moving its military to Greenland and Panama.
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZlkyR3JoV0JwcHE1MlZEUHJxLWdmTGRPbDFfbjQxbERLUHFvLVlXOW90cWIxNjJ0NlNQelNXNE1oV2JYSG0xZVZjMDlBbVBMWDE4RTBwcFZEd1Y2V2hIdnpnb0hoQzhDY2N4cmcxMVF6NkFnZmlfUms3OU5sSHBzaDdzd01rWEQzaFFVdV9pN05mblcteDRwZXFGMHZqcWdmZjBiLXA2OGdDYXBrdFBRNDU2RUpOdTdacExGU0tQRmtWTHItVE55WkNxVDlSLUFSZk02cmhZaTkycWpnVndjbnBfaEJnUDFT0gHvAUFVX3lxTE1VUVV6Vnc4NTRsQUpGNzNjSC1LcU1wTU9sc3JHNkZ0RzliV2d5Z2ItS1duV29BVjV4c2phMnUxUGYtZzYwQ0V5bV9JYnlWY3AzaFV1QVl4WF95dnc5NWxSd3UyVWdnUnJfeEowb1FncmxwTERrejNSVzctYld0eko3LTQ1cERIdGljT3VDZ3cycm9oS1E4emI2MmRBMWVFSHZEdFBGTWZkcW1Jand3MjlfeXI3UzZHdDg2WWoxSnJoeWxmYU80WGdiMDQyb2Z2MWdabVVSazN6dkNuUDFnR2YxWTlkSDJTX2pwMXl2Qy1j?oc=5
 
-- Patent rejected for MNC’s cancer drug, generics to follow - Times of India
-  Patent rejected for MNC’s
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVYzazg4cjRQdlhTcVRSaEdtWlBYYnRPQnNadUZzTC0wQ3Z0WmFqLWVjNGhlcDhhZF91bUN0Q0wxZVNiUEViVlEzbjZCX0plS1FTQmxUVGhNazJtdXNXdGxVYlV2ZHFSaWlJa2ZkcmJiRmVycWVQX1lBTC1ueUtXeHZIbVZPTWIxSlZXOFVtekY1NkJVX1N1d0hkcml5LXNzWm1GRVhoX3pDSG1aYnluQkhjUldIQ0ZkVXRNWVRqMnDSAcYBQVVfeXFMTlRtT1V5UDhRRTlEZGZjU1h1WTQ5RTc2ZU9hb29zb2E4VUcwZE1uckx6ZUE0TDRFbUNXaG11b2Q0MDBZR2NOS2NhV0tVN3FyTjIwa0tlWkdoOVFROWsyRmc3NzEtMTlOb2hEZFluX1JYTVNGekhtdENmZEdJanR6U3kwYnVYNDlHT2VtZWY5bnE0S0NfUW9UczRYYW1OcXo4bElZbzJnMDZHYTlVZ0NoRWYyVVdBclVDRXZRbE1VeDh5eGM5S3Jn?oc=5
+- Iran Is Not Afraid, Khamenei Not Hiding In A Bunker: Consul General To NDTV - NDTV
+  Iran Is Not Afraid, Khamenei Not Hiding In
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM1pXSGJQRXRQM2stVWJJcWRLdE5NSENKdnJLWV92VGc3MUExb1YwTFB2RWFKVGhwZjdmMG5za3dlVkhpcGxsNGNSVlUxZEVCblZoRlZmaEx6dzZLZ1UyWS1fZGZQaEZ1bDRHcnA3N1BZZ1VVS1dIaUprMjhDYXJ0YUp4Z3NQeU1nSGozYV83VEoyaFgxVHNHV3R2Y0p4R2tHRlRKWTZka3EyRnJySEdZUlJyb3FvTFBCNWlDbmhCc2VCMEk3cEd0Z0xZUjVHRVZocmF6V3VPUE5WT3dMWnRTOUU1cUljelZkNE9TWUxJSXV2d0ZL0gH8AUFVX3lxTFBGckxwT3phNHFDZWVtUVJvOUVDWnhkTDRjX1VvVlhfSGhSbVd3QVZTUkZaUUYzRXFiNTRMSjJwblp4bDA5S0VTdDk1RWk3MWhSSFpYa25KY1ljWEx1a2ZpUnd1aGJ6SE1HNU9VTG5YbGxnc2l3UjZqdnV1a04tV2s0UmRZQldEd29BaUZoLXBJYWpLSmxlMjBKdm5tNXFLS1RfLWVzR2ZVd0ZiTHhSQ1UzRkdmUll5SWpEcmgwSWtGdXRZWHFxZW1YTEJlUEgtWmJtazVhTHhsaldsWnBTQ0szRXdBbzljaFVSSnJHSUdwTkNVZzdjTEVmRE5xMg?oc=5
 
-- India, EU to upgrade ties at Delhi summit, but still working out trade deal - The Hindu
-  India, EU to upgrade ties at Delhi summit, but still working
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNNTNldHp3VXNNZnMtRUV3UFZpbHU4U19lVE5vczJOeHEtekM3SVlFRUdua0JRMURuRnF5SE5DSkZJWWdlMFc0cnNyd2lCS1FmQy1qNWdpMWVBZ3h0VVNGNWZVT0N0cHQya2x2Q3FhX3FVTFNZWGpBZ2tLTDdObEh4T3R0dm1HUDR4eXdRR3FjLVM1S2xRN1JROHRVWkh2R29wZDVvR2dmbkYweU1SVWstM2JLQlRKV0l3N1BBTkg2d01xWXVjMDltNGdPaWfSAdMBQVVfeXFMTUIybC1CVkNyQTl6TDZacW5DbTFUdkdybUtTWjFHWkppaUxBekxkZGY5cUoycnk2ZEYtXzFYQ0JmMEtpTFF3Slpfb2RFQnhXVDZkeFFhZW5GMEhZUmVfcUpkTnN3ZlZ6SHQtYXFpVVFZZE9PeEhJbU03UWpRX1NmWnNhZ21WcUt5OVFBa1ppdHBLWDFSdkdRUmNUN3RnUENOay1SUFFLNWZDenJtenNtRXlIVGE1SGRCZVpmQ1pHNTl3NDlTUkw5dDJweWp3UXZUYi1oOA?oc=5
+- "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
+  "Path To Take Them Off": Trump Aide Hints
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
 
-- 'Free Trade, Not Barriers': Norway Backs India-EU "Mother Of All Deals" - NDTV
-  'Free Trade, Not Barriers': Norway
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVS1EZFByQmdtbFFBaElkeFFvSExEbkJYN0NGNW0tSm1FTnlQOHIyX2s2UjBBMkpkVkZpdDY2TmZqZ25GdHlRUWpDSzNYSzZYU3p5R09la3lqbUZTTFRvNENrVG9pZWtPS29yMUdsTWtTcFRUbF91YlZUeXFMcTNuUkczOEtGYkx5aXVoM1hnNGZfZ2c5dDQxbnpwcS1sRjlmWFl4Uzg2VG5ZWjZCemQ3UFRfWnduaW5vbWdfbTQwdFp4SkoyU0HSAc4BQVVfeXFMTUdWZGszWFZFYUlVUjR3VnNLT1dncU9xWk5rMnhRRUllQjMwbHU0dnRZdUxIZG5XaHM5eXhRejd4dnhSdnBCckN6d2ozVFVnS2UtaDcybEVJYUt2QXF3WnUxYmhYbExiWndaam1mRXhFZE1YMzZSQzB1YTlla3o2ODZDZC0xVjdRbXVyM0dQSXhBaU1ESk5LMlo2a09YUXVUQTBHdEVCTHJtUVcwOEp4Y1ZBdWVnSjF5YWFPX2piQUpMbEJrVVUtTTNjVGxUWUE?oc=5
+- US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have collapsed' | India News - Hindustan Times
+  US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTXJfeldGNzU4MDY5LUFIbWs5TlNzWnJRc3Z2RERRSVl3VzEtTl9yTW5CQ1Z0VTg5Ujk0VEJodTVTZWpFV25OMG1SWnJZZk1wQ1U5VFNGQS1Gb085ZFhfVFZnNF95UGxOaHRMT09RS0RrTkNwSFFKcmNsRE1UYWtfUkxkd1cxSGo4UWxMWTMzZkQwNUphdzd5bTJaLUtnSWhEbW1COGhOdDB1aVJVTWdmQ1J5d001c3Jmc1Y2NmNPRFdMeVJBOE9QLWJDa2ZzZWFTVllUMmZIT2VVa0ZJcEVpVW1SWGFuSTJyR1pCUEZhb3VVUHhhOTBtZGtn0gH_AUFVX3lxTE5RYXNxb1dPTlcyeE9pZkJTX0wyNVFUb0VVT2FGaXE1U1dfLVBsWW1CbXhqYkZzeDRmVDBsUG9zc3hrUllEMHBBdUNHX0dON0l5Rk8xSXliTEZCbldrQ3otNmFDWnplTkZ5TmxrR3FrRUp3TmxrMXRSTUlUdDBOSE5jbEFIUHJxTG9xS1VyM1EwZ0MzZ0tGcEczeWVzLVV1VzRpbk9fQnM4WF9RN29SeDV4VVl3aXFSdTZ3WksyVmVUNkRRcVR5UTVyWENQU3lhUG53dTdPMkhiUXZTbk1RQktQODcxbVQ5eHdUN3oyU3ZqWjIwbFdHcVBoRlVNbVFVTQ?oc=5
 
-- Invited, watching closely: Why India is not on Trump's ‘Board of Peace’ yet | India News - Hindustan Times
-  India is not on Trump's ‘Board of Peace’ yet.
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdktEVUlWaUJ1YmZjVlBRNjNyQzBuLTg2WkdDaFBMUFNBa0QtQkhwNnpoaEg3Q1VFTjJXWmUzMVJvS21SV0toamtIYW5na2Z4a3NBZWJtb0FBeFItOUIybE44RkpUbjRiWlJiRDYyTXJfbGwxanczVDRJa3hnWlJMbml4aWcxUE9WWHh3UEFNQVNzMmVXQmRPZ2lNeDBKMlM4TEhzQ0tmbUFFUG1ZMGlGaThFN2NGRE9lSmdLeWNpVjNLZWZRZThfaE04SVFzeXI5R1JLSjdNUUdTTzlJN0xlWGU3MUZROGdBaTFVanZJVUtmejlT0gH6AUFVX3lxTE9oTUd6ZEpHM2NJUHhZamxOa3oxWUFLSVoweGZabGdlUGo0VEdTZzdYbGtkV1dfZ28wZklQWGlRX0NrazJKVk9xRDNkdW4zb2JhUVIyM29YQ2kzVUNUOFRldTVqeV9iMDM4WmZLSTlFcVluT01MODQ1QUlYeVhiTVI5Y1AtMnZmRlJKSWVQR1dHU05VcVJ5cHcxZ09JbjV1WkZTM2g2RkJnSVZnb1l1bmZpd0g1amtnVHVxcEpDWUoxVVpKakczR2Q0ZXdoV001TWhvbkJ6djFqS0NEUWM4QUVLNktacDZ5RTNNZjB3cVJzNy1GWFpDdkNESmc?oc=5
+- Evening news wrap: Scotland replaces Bangladesh in T20 World Cup; Air India cancels all flights from New - Times of India
+  Evening news wrap: Scotland replaces Bangladesh in T20 World Cup; Air India cancel
+  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxOU0F2Y3FSSV8wRkl2cVdCcUpxaWRHUXk0Wjc3bDhNYXBnS0NOLW9FSGkxb0xBSk1FTk1zZVhxLVhBT2kwQVoxRVJ5aEVKOU9OVVhtcjUwRFp2ekNXLVhWX3RYZnRaOFBKRnFsa2NtcGowVjg0YTZ6TUJRbVZvWDFOVXRJNGxObWx1SjBjN0V3ejZlZGIyOUlBaUFIOEhnMnVaem5uWURwcUNMbGVXM1RvZ1UtanFleFJBNDltOE5SODd1MzNRQ3dRc1FyTU5UcTJRMXZHRThzeHRPQm9URUxCR0hjQ05RNjY0VXlpdGN6ZWpPNjQ0N3Vlb2tjempsdUNNYXVoRVhHejlPVFpSMnQ2cWRtYkxpdkFLVnQ4WURWNnhwVVpXZmgw0gGsAkFVX3lxTE1wTTloUlFsWWMtQ0RDNkRoLWZoNkljWEszcXllOERTNzlVUHUzYXUtUkhrWkdkbzVMX3p0RWFjbm1qeUZOblBLd0VrLVVGZW5vTFl6V0dISFdMUDNTM3J4SnU1NlRrNks0NkdqcVdRcWQ4YWs0d1VoU3FDUy1MdFdSRzc0TF94cXpVdEphZXNwbVpGNDEtZFV1eG1PZEJEOVhJbXBBTjJKRkM5Y0FfWF9tQmlhbV9vQmRnVG1CNy1fSjRxRGlDV3NNY0tuaVRiaFBxSFg1S0syVFRWc01vSHFkV2JIZFlNLXBiX3hHNWdtVnNEdEJKeHJ5V2ZQSEp2RmpOQlRwZEVKUXlSemNzMlo0cDBnWG1VbW1PNG10YmhfUEU0QkQ5TDhHenRKbw?oc=5
 
-- News Today Live Updates, 24 January | Georgia killing: Indian national among 4 dead in ‘family dispute’ shooting in US; 3 children brave 911 call from closet - The Indian Express
-  The Indian Express reported that Indian national was killed in a shooting in Georgia.
+- News Today Live Updates, 24 January | Forget China: Why Trump’s new Pentagon strategy is moving US military to Greenland and Panama Canal - The Indian Express
+  The Indian Express reports that the US is moving its military to Greenland and Panama.
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZlkyR3JoV0JwcHE1MlZEUHJxLWdmTGRPbDFfbjQxbERLUHFvLVlXOW90cWIxNjJ0NlNQelNXNE1oV2JYSG0xZVZjMDlBbVBMWDE4RTBwcFZEd1Y2V2hIdnpnb0hoQzhDY2N4cmcxMVF6NkFnZmlfUms3OU5sSHBzaDdzd01rWEQzaFFVdV9pN05mblcteDRwZXFGMHZqcWdmZjBiLXA2OGdDYXBrdFBRNDU2RUpOdTdacExGU0tQRmtWTHItVE55WkNxVDlSLUFSZk02cmhZaTkycWpnVndjbnBfaEJnUDFT0gHvAUFVX3lxTE1VUVV6Vnc4NTRsQUpGNzNjSC1LcU1wTU9sc3JHNkZ0RzliV2d5Z2ItS1duV29BVjV4c2phMnUxUGYtZzYwQ0V5bV9JYnlWY3AzaFV1QVl4WF95dnc5NWxSd3UyVWdnUnJfeEowb1FncmxwTERrejNSVzctYld0eko3LTQ1cERIdGljT3VDZ3cycm9oS1E4emI2MmRBMWVFSHZEdFBGTWZkcW1Jand3MjlfeXI3UzZHdDg2WWoxSnJoeWxmYU80WGdiMDQyb2Z2MWdabVVSazN6dkNuUDFnR2YxWTlkSDJTX2pwMXl2Qy1j?oc=5
 
-- Patent rejected for MNC’s cancer drug, generics to follow - Times of India
-  Patent rejected for MNC’s
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVYzazg4cjRQdlhTcVRSaEdtWlBYYnRPQnNadUZzTC0wQ3Z0WmFqLWVjNGhlcDhhZF91bUN0Q0wxZVNiUEViVlEzbjZCX0plS1FTQmxUVGhNazJtdXNXdGxVYlV2ZHFSaWlJa2ZkcmJiRmVycWVQX1lBTC1ueUtXeHZIbVZPTWIxSlZXOFVtekY1NkJVX1N1d0hkcml5LXNzWm1GRVhoX3pDSG1aYnluQkhjUldIQ0ZkVXRNWVRqMnDSAcYBQVVfeXFMTlRtT1V5UDhRRTlEZGZjU1h1WTQ5RTc2ZU9hb29zb2E4VUcwZE1uckx6ZUE0TDRFbUNXaG11b2Q0MDBZR2NOS2NhV0tVN3FyTjIwa0tlWkdoOVFROWsyRmc3NzEtMTlOb2hEZFluX1JYTVNGekhtdENmZEdJanR6U3kwYnVYNDlHT2VtZWY5bnE0S0NfUW9UczRYYW1OcXo4bElZbzJnMDZHYTlVZ0NoRWYyVVdBclVDRXZRbE1VeDh5eGM5S3Jn?oc=5
-
-- India, EU to upgrade ties at Delhi summit, but still working out trade deal - The Hindu
-  India, EU to upgrade ties at Delhi summit, but still working
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNNTNldHp3VXNNZnMtRUV3UFZpbHU4U19lVE5vczJOeHEtekM3SVlFRUdua0JRMURuRnF5SE5DSkZJWWdlMFc0cnNyd2lCS1FmQy1qNWdpMWVBZ3h0VVNGNWZVT0N0cHQya2x2Q3FhX3FVTFNZWGpBZ2tLTDdObEh4T3R0dm1HUDR4eXdRR3FjLVM1S2xRN1JROHRVWkh2R29wZDVvR2dmbkYweU1SVWstM2JLQlRKV0l3N1BBTkg2d01xWXVjMDltNGdPaWfSAdMBQVVfeXFMTUIybC1CVkNyQTl6TDZacW5DbTFUdkdybUtTWjFHWkppaUxBekxkZGY5cUoycnk2ZEYtXzFYQ0JmMEtpTFF3Slpfb2RFQnhXVDZkeFFhZW5GMEhZUmVfcUpkTnN3ZlZ6SHQtYXFpVVFZZE9PeEhJbU03UWpRX1NmWnNhZ21WcUt5OVFBa1ppdHBLWDFSdkdRUmNUN3RnUENOay1SUFFLNWZDenJtenNtRXlIVGE1SGRCZVpmQ1pHNTl3NDlTUkw5dDJweWp3UXZUYi1oOA?oc=5
-
-- 'Free Trade, Not Barriers': Norway Backs India-EU "Mother Of All Deals" - NDTV
-  'Free Trade, Not Barriers': Norway
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVS1EZFByQmdtbFFBaElkeFFvSExEbkJYN0NGNW0tSm1FTnlQOHIyX2s2UjBBMkpkVkZpdDY2TmZqZ25GdHlRUWpDSzNYSzZYU3p5R09la3lqbUZTTFRvNENrVG9pZWtPS29yMUdsTWtTcFRUbF91YlZUeXFMcTNuUkczOEtGYkx5aXVoM1hnNGZfZ2c5dDQxbnpwcS1sRjlmWFl4Uzg2VG5ZWjZCemQ3UFRfWnduaW5vbWdfbTQwdFp4SkoyU0HSAc4BQVVfeXFMTUdWZGszWFZFYUlVUjR3VnNLT1dncU9xWk5rMnhRRUllQjMwbHU0dnRZdUxIZG5XaHM5eXhRejd4dnhSdnBCckN6d2ozVFVnS2UtaDcybEVJYUt2QXF3WnUxYmhYbExiWndaam1mRXhFZE1YMzZSQzB1YTlla3o2ODZDZC0xVjdRbXVyM0dQSXhBaU1ESk5LMlo2a09YUXVUQTBHdEVCTHJtUVcwOEp4Y1ZBdWVnSjF5YWFPX2piQUpMbEJrVVUtTTNjVGxUWUE?oc=5
-
-- Invited, watching closely: Why India is not on Trump's ‘Board of Peace’ yet | India News - Hindustan Times
-  India is not on Trump's ‘Board of Peace’ yet.
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdktEVUlWaUJ1YmZjVlBRNjNyQzBuLTg2WkdDaFBMUFNBa0QtQkhwNnpoaEg3Q1VFTjJXWmUzMVJvS21SV0toamtIYW5na2Z4a3NBZWJtb0FBeFItOUIybE44RkpUbjRiWlJiRDYyTXJfbGwxanczVDRJa3hnWlJMbml4aWcxUE9WWHh3UEFNQVNzMmVXQmRPZ2lNeDBKMlM4TEhzQ0tmbUFFUG1ZMGlGaThFN2NGRE9lSmdLeWNpVjNLZWZRZThfaE04SVFzeXI5R1JLSjdNUUdTTzlJN0xlWGU3MUZROGdBaTFVanZJVUtmejlT0gH6AUFVX3lxTE9oTUd6ZEpHM2NJUHhZamxOa3oxWUFLSVoweGZabGdlUGo0VEdTZzdYbGtkV1dfZ28wZklQWGlRX0NrazJKVk9xRDNkdW4zb2JhUVIyM29YQ2kzVUNUOFRldTVqeV9iMDM4WmZLSTlFcVluT01MODQ1QUlYeVhiTVI5Y1AtMnZmRlJKSWVQR1dHU05VcVJ5cHcxZ09JbjV1WkZTM2g2RkJnSVZnb1l1bmZpd0g1amtnVHVxcEpDWUoxVVpKakczR2Q0ZXdoV001TWhvbkJ6djFqS0NEUWM4QUVLNktacDZ5RTNNZjB3cVJzNy1GWFpDdkNESmc?oc=5
-
-- News Today Live Updates, 24 January | Georgia killing: Indian national among 4 dead in ‘family dispute’ shooting in US; 3 children brave 911 call from closet - The Indian Express
-  The Indian Express reported that Indian national was killed in a shooting in Georgia.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZlkyR3JoV0JwcHE1MlZEUHJxLWdmTGRPbDFfbjQxbERLUHFvLVlXOW90cWIxNjJ0NlNQelNXNE1oV2JYSG0xZVZjMDlBbVBMWDE4RTBwcFZEd1Y2V2hIdnpnb0hoQzhDY2N4cmcxMVF6NkFnZmlfUms3OU5sSHBzaDdzd01rWEQzaFFVdV9pN05mblcteDRwZXFGMHZqcWdmZjBiLXA2OGdDYXBrdFBRNDU2RUpOdTdacExGU0tQRmtWTHItVE55WkNxVDlSLUFSZk02cmhZaTkycWpnVndjbnBfaEJnUDFT0gHvAUFVX3lxTE1VUVV6Vnc4NTRsQUpGNzNjSC1LcU1wTU9sc3JHNkZ0RzliV2d5Z2ItS1duV29BVjV4c2phMnUxUGYtZzYwQ0V5bV9JYnlWY3AzaFV1QVl4WF95dnc5NWxSd3UyVWdnUnJfeEowb1FncmxwTERrejNSVzctYld0eko3LTQ1cERIdGljT3VDZ3cycm9oS1E4emI2MmRBMWVFSHZEdFBGTWZkcW1Jand3MjlfeXI3UzZHdDg2WWoxSnJoeWxmYU80WGdiMDQyb2Z2MWdabVVSazN6dkNuUDFnR2YxWTlkSDJTX2pwMXl2Qy1j?oc=5
-
-- Patent rejected for MNC’s cancer drug, generics to follow - Times of India
-  Patent rejected for MNC’s
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVYzazg4cjRQdlhTcVRSaEdtWlBYYnRPQnNadUZzTC0wQ3Z0WmFqLWVjNGhlcDhhZF91bUN0Q0wxZVNiUEViVlEzbjZCX0plS1FTQmxUVGhNazJtdXNXdGxVYlV2ZHFSaWlJa2ZkcmJiRmVycWVQX1lBTC1ueUtXeHZIbVZPTWIxSlZXOFVtekY1NkJVX1N1d0hkcml5LXNzWm1GRVhoX3pDSG1aYnluQkhjUldIQ0ZkVXRNWVRqMnDSAcYBQVVfeXFMTlRtT1V5UDhRRTlEZGZjU1h1WTQ5RTc2ZU9hb29zb2E4VUcwZE1uckx6ZUE0TDRFbUNXaG11b2Q0MDBZR2NOS2NhV0tVN3FyTjIwa0tlWkdoOVFROWsyRmc3NzEtMTlOb2hEZFluX1JYTVNGekhtdENmZEdJanR6U3kwYnVYNDlHT2VtZWY5bnE0S0NfUW9UczRYYW1OcXo4bElZbzJnMDZHYTlVZ0NoRWYyVVdBclVDRXZRbE1VeDh5eGM5S3Jn?oc=5
-
-- India, EU to upgrade ties at Delhi summit, but still working out trade deal - The Hindu
-  India, EU to upgrade ties at Delhi summit, but still working
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNNTNldHp3VXNNZnMtRUV3UFZpbHU4U19lVE5vczJOeHEtekM3SVlFRUdua0JRMURuRnF5SE5DSkZJWWdlMFc0cnNyd2lCS1FmQy1qNWdpMWVBZ3h0VVNGNWZVT0N0cHQya2x2Q3FhX3FVTFNZWGpBZ2tLTDdObEh4T3R0dm1HUDR4eXdRR3FjLVM1S2xRN1JROHRVWkh2R29wZDVvR2dmbkYweU1SVWstM2JLQlRKV0l3N1BBTkg2d01xWXVjMDltNGdPaWfSAdMBQVVfeXFMTUIybC1CVkNyQTl6TDZacW5DbTFUdkdybUtTWjFHWkppaUxBekxkZGY5cUoycnk2ZEYtXzFYQ0JmMEtpTFF3Slpfb2RFQnhXVDZkeFFhZW5GMEhZUmVfcUpkTnN3ZlZ6SHQtYXFpVVFZZE9PeEhJbU03UWpRX1NmWnNhZ21WcUt5OVFBa1ppdHBLWDFSdkdRUmNUN3RnUENOay1SUFFLNWZDenJtenNtRXlIVGE1SGRCZVpmQ1pHNTl3NDlTUkw5dDJweWp3UXZUYi1oOA?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Iran Is Not Afraid, Khamenei Not Hiding In A Bunker: Consul General To NDTV - NDTV
+  Iran Is Not Afraid, Khamenei Not Hiding In
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM1pXSGJQRXRQM2stVWJJcWRLdE5NSENKdnJLWV92VGc3MUExb1YwTFB2RWFKVGhwZjdmMG5za3dlVkhpcGxsNGNSVlUxZEVCblZoRlZmaEx6dzZLZ1UyWS1fZGZQaEZ1bDRHcnA3N1BZZ1VVS1dIaUprMjhDYXJ0YUp4Z3NQeU1nSGozYV83VEoyaFgxVHNHV3R2Y0p4R2tHRlRKWTZka3EyRnJySEdZUlJyb3FvTFBCNWlDbmhCc2VCMEk3cEd0Z0xZUjVHRVZocmF6V3VPUE5WT3dMWnRTOUU1cUljelZkNE9TWUxJSXV2d0ZL0gH8AUFVX3lxTFBGckxwT3phNHFDZWVtUVJvOUVDWnhkTDRjX1VvVlhfSGhSbVd3QVZTUkZaUUYzRXFiNTRMSjJwblp4bDA5S0VTdDk1RWk3MWhSSFpYa25KY1ljWEx1a2ZpUnd1aGJ6SE1HNU9VTG5YbGxnc2l3UjZqdnV1a04tV2s0UmRZQldEd29BaUZoLXBJYWpLSmxlMjBKdm5tNXFLS1RfLWVzR2ZVd0ZiTHhSQ1UzRkdmUll5SWpEcmgwSWtGdXRZWHFxZW1YTEJlUEgtWmJtazVhTHhsaldsWnBTQ0szRXdBbzljaFVSSnJHSUdwTkNVZzdjTEVmRE5xMg?oc=5
 
 
-_Last updated: 2026-01-24 06:30:11 UTC_
+_Last updated: 2026-01-24 12:36:07 UTC_
