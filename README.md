@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Trade, mobility deals with nations creating new opportunities for youths, says PM Modi: ‘Keep upgrading yourself’
+- Before Jaish commander was killed, police had to save civilians he was holding hostage
   
-  🔗 https://indianexpress.com/article/india/trade-mobility-deals-new-opportunities-for-youths-pm-modi-10492619/
+  🔗 https://indianexpress.com/article/india/jaish-commander-killed-police-save-civilians-holding-hostage-10492912/
 
-- Meat, fish, egg sale barred on Republic Day in Odisha’s Koraput district
+- ‘EC no longer protector of democracy’: Rahul Gandhi calls poll panel key participant in ‘vote-chori’
   
-  🔗 https://indianexpress.com/article/india/republic-day-meat-eggs-sale-odisha-collector-10492565/
+  🔗 https://indianexpress.com/article/india/rahul-gandhi-vote-chori-bjp-election-commission-democracy-10492863/
 
-- Centre revises cadre allocation policy for IAS, IPS, IFoS to increase transparency, consistency
+- Bearing 2,600 tonnes of rice, first full rake of foodgrains arrive via Railways in Kashmir Valley
   
-  🔗 https://indianexpress.com/article/india/centre-revises-cadre-allocation-policy-ias-ips-10492422/
+  🔗 https://indianexpress.com/article/india/bearing-2600-tonnes-rice-full-rake-foodgrains-arrive-via-railways-kashmir-valley-10492844/
 
-- More stray dog killings come to light in Telanagana, 300 found buried in one spot
+- After heavy snowfall in Himachal, apple orchardists issued advisory to strengthen upcoming crops
   
-  🔗 https://indianexpress.com/article/india/stray-dogs-killed-telangana-village-administrators-booked-10492414/
+  🔗 https://indianexpress.com/article/india/heavy-snowfall-himachal-apple-orchardists-crops-10492827/
 
-- Shashi Tharoor ‘unapologetic’ over Operation Sindoor stand: ‘Didn’t violate Congress line’
+- Two children among five feared trapped after massive fire in Hyderabad’s Nampally
   
-  🔗 https://indianexpress.com/article/india/congress-unapologetic-shashi-tharoor-operation-sindoor-stand-10492270/
+  🔗 https://indianexpress.com/article/india/massive-fire-furniture-store-hyderabad-nampally-10492759/
+
+- Too big to hop? New research revisits how prehistoric kangaroos moved
+  
+  🔗 https://indianexpress.com/article/technology/science/too-big-to-hop-new-research-revisits-how-prehistoric-kangaroos-moved-10492733/
 
 - Former OpenAI research head says Google caught up after ChatGPT momentum faded
   
@@ -36,29 +40,29 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/google-photos-introduces-me-meme-an-ai-tool-for-personalised-memes-10491943/
 
-- Lenovo looking to partner with multiple AI models, CFO says
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/lenovo-looking-to-partner-with-multiple-ai-models-cfo-says-10491825/
+- Infosys asks employees to share remote work electricity consumption data: Report
+  Infosys is collecting data on employees' household electricity consumption to mitigate its environmental impact through clean energy. The company encourages participation in a survey aimed at enhancing
+  🔗 https://www.livemint.com/companies/news/infosys-asks-employees-to-share-remote-work-electricity-consumption-data-report-11769274057445.html
+
+- IndiGo relinquishes over 700 slots at domestic airports after 10% cut in winter flight program
+  The civil aviation ministry has invited other airlines to submit requests for operating domestic flights
+  🔗 https://www.livemint.com/companies/news/indigo-relinquishes-over-700-slots-at-domestic-airports-after-10-cut-in-winter-flight-program-11769258535834.html
+
+- APSEZ to invest  ₹30,000 crore for Vizhinjam Port development: Karan Adani
+  APSEZ will invest  �
+  🔗 https://www.livemint.com/companies/news/apsez-to-invest-rs-30-000-crore-for-vizhinjam-port-development-karan-adani-11769270113072.html
+
+- Why Shark Tank judge Anupam Mittal thinks CEOs stepping down from their own startups is not a failure
+  Anupam Mittal backs CEOs and founders resigning from their own startups. Mittal says founders
+  🔗 https://www.livemint.com/companies/people/why-shark-tank-judge-anupam-mittal-thinks-ceos-stepping-down-from-their-own-startups-is-not-a-failure-11769250000922.html
 
 - Higher cement sales help UltraTech beat earnings estimates
   UltraTech Cement's consolidated net profit rises 27%
   🔗 https://www.livemint.com/companies/company-results/ultratech-cement-q3-profit-surge-sales-volume-estimates-beat-11769255126382.html
 
-- Citigroup plans to lay off more employees in March — who will get impacted? Here's what report says
-  Citigroup plans new layoffs in March after cutting 1,000 jobs in January. The cuts, affecting mainly senior
-  🔗 https://www.livemint.com/companies/news/citigroup-plans-to-lay-off-more-employees-in-march-who-will-get-impacted-heres-what-report-says-11769244351468.html
-
-- Chinese apps dominated Android and iOS downloads in US in 2025 — Here's how TikTok, CapCut, Temu, Shein fared
-  Chinese apps continued to dominate download list in the United States last year. ByteDance's TikTok and CapCut and fashion retailers Temu
-  🔗 https://www.livemint.com/companies/news/chinese-apps-dominated-us-android-ios-downloads-2025-why-how-bytedance-video-tiktok-edit-capcut-fashion-temu-shein-fared-11769238527191.html
-
-- Not just Shanghai, Nvidia CEO Jensen Huang likely to visit Beijing amid surprise customs block for H200 chip
-  Jensen Huang's annual Shanghai visit is likely to lead to a Beijing detour. Nvidia's H200 chips were met with a surprise customs block from Chinese authorities
-  🔗 https://www.livemint.com/companies/news/nvidia-ceo-jensen-huang-shanghai-staff-meet-likely-visit-beijing-surprise-china-customs-block-h200-chips-import-restrict-11769238638159.html
-
-- This investment bank chief's pay rose 21% to $47 million for 2025, beating JPMorgan CEO Jamie Dimon's salary hike
-  Goldman Sachs Group Inc. CEO David Solomon saw his biggest pay hike yet. Solomon's compensation for 2025 jumped by 21% to $47
-  🔗 https://www.livemint.com/companies/people/goldman-sachs-ceo-david-solomon-2025-salary-hike-21-pc-compensation-pay-jumped-47-million-beat-bank-jpmorgan-jamie-dimon-11769231042363.html
+- Markets passed a TACO test. Another kind of stress test is coming.
+  Silver has been unstoppable, hitting $100 for the first time in history with a 43% year-
+  🔗 https://www.livemint.com/market/stock-market-news/markets-passed-a-taco-test-another-kind-of-stress-test-is-coming-11769260519565.html
 
 - SBI Life-owned NBFC stock Paisalo Digital to be in focus on Tuesday; here's why
   Paisalo Digital redeemed 10 NCDs from Series PDL-09-2023, seven years ahead of maturity
@@ -76,9 +80,9 @@
   Critics argue it hinders long-term investments, reduces post-tax returns, and promotes double taxation. The effective tax rate for high earners may drive talent abroad.
   🔗 https://www.livemint.com/market/stock-market-news/what-is-long-term-capital-gains-tax-why-do-investors-and-other-stakeholders-want-it-removed-in-every-budget-11769242915892.html
 
-- From Adcounty, TechEra to Fineotex: Ashish Kacholia adds 2 stocks, exits 1 in Q3 portfolio reshuffle
-  Investor Ashish Kacholia adjusted his  ₹2,400 crore portfolio in the December quarter. He added stakes in Adcounty Media and TechEra
-  🔗 https://www.livemint.com/market/stock-market-news/from-adcounty-techera-to-fineotex-ashish-kacholia-adds-2-stocks-exits-1-in-q3-portfolio-reshuffle-11769241917316.html
+- Login credentials of 149 mn accounts including Gmail, Facebook, Netflix leaked: Report
+   Login credentials of 149 mn accounts
+  🔗 https://www.livemint.com/technology/login-credentials-of-149-mn-accounts-including-gmail-facebook-netflix-leaked-report-11769267133863.html
 
 - Singapore to invest over $779 million in public AI research through 2030
   Singapore to invest over $779
@@ -95,10 +99,6 @@
 - Your App Store search is about to change: Apple confirms multiple ad slots are coming to iPhone in March
   Apple will increase ads on the App Store starting March, first in the UK and Japan, followed by other markets. This move aims to enhance developer opportunities and generate additional revenue.
   🔗 https://www.livemint.com/technology/tech-news/your-app-store-search-is-about-to-change-apple-confirms-multiple-ad-slots-are-coming-to-iphone-in-march-11769219261987.html
-
-- WWE 2K26 'Attitude Edition' announced during SmackDown: Expected release date, roster, and legendary cover art
-  WWE has officially unveiled the WWE 2K26 'Attitude Era' Edition. The Pre-orders for the game will begin on January 30
-  🔗 https://www.livemint.com/technology/tech-news/wwe-2k26-attitude-edition-announced-during-smackdown-expected-release-date-roster-and-legendary-cover-art-11769226463982.html
 
 - Mala Gaonkar’s hedge fund assets hit $6 billion in three years
   Mala Gaonkar's SurgoCap Partners experienced a rapid ascent, tripling its assets to $6 billion within three years of its 2023 launch. This marked one of the fastest-growing debuts in hedge fund history.
@@ -124,61 +124,81 @@
   "Path To Take Them Off": Trump Aide Hints
   🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
 
-- US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have collapsed' | India News - Hindustan Times
-  US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTXJfeldGNzU4MDY5LUFIbWs5TlNzWnJRc3Z2RERRSVl3VzEtTl9yTW5CQ1Z0VTg5Ujk0VEJodTVTZWpFV25OMG1SWnJZZk1wQ1U5VFNGQS1Gb085ZFhfVFZnNF95UGxOaHRMT09RS0RrTkNwSFFKcmNsRE1UYWtfUkxkd1cxSGo4UWxMWTMzZkQwNUphdzd5bTJaLUtnSWhEbW1COGhOdDB1aVJVTWdmQ1J5d001c3Jmc1Y2NmNPRFdMeVJBOE9QLWJDa2ZzZWFTVllUMmZIT2VVa0ZJcEVpVW1SWGFuSTJyR1pCUEZhb3VVUHhhOTBtZGtn0gH_AUFVX3lxTE5RYXNxb1dPTlcyeE9pZkJTX0wyNVFUb0VVT2FGaXE1U1dfLVBsWW1CbXhqYkZzeDRmVDBsUG9zc3hrUllEMHBBdUNHX0dON0l5Rk8xSXliTEZCbldrQ3otNmFDWnplTkZ5TmxrR3FrRUp3TmxrMXRSTUlUdDBOSE5jbEFIUHJxTG9xS1VyM1EwZ0MzZ0tGcEczeWVzLVV1VzRpbk9fQnM4WF9RN29SeDV4VVl3aXFSdTZ3WksyVmVUNkRRcVR5UTVyWENQU3lhUG53dTdPMkhiUXZTbk1RQktQODcxbVQ5eHdUN3oyU3ZqWjIwbFdHcVBoRlVNbVFVTQ?oc=5
-
-- Evening news wrap: Scotland replaces Bangladesh in T20 World Cup; Air India cancels all flights from New - Times of India
-  Evening news wrap: Scotland replaces Bangladesh in T20 World Cup; Air India cancel
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxOU0F2Y3FSSV8wRkl2cVdCcUpxaWRHUXk0Wjc3bDhNYXBnS0NOLW9FSGkxb0xBSk1FTk1zZVhxLVhBT2kwQVoxRVJ5aEVKOU9OVVhtcjUwRFp2ekNXLVhWX3RYZnRaOFBKRnFsa2NtcGowVjg0YTZ6TUJRbVZvWDFOVXRJNGxObWx1SjBjN0V3ejZlZGIyOUlBaUFIOEhnMnVaem5uWURwcUNMbGVXM1RvZ1UtanFleFJBNDltOE5SODd1MzNRQ3dRc1FyTU5UcTJRMXZHRThzeHRPQm9URUxCR0hjQ05RNjY0VXlpdGN6ZWpPNjQ0N3Vlb2tjempsdUNNYXVoRVhHejlPVFpSMnQ2cWRtYkxpdkFLVnQ4WURWNnhwVVpXZmgw0gGsAkFVX3lxTE1wTTloUlFsWWMtQ0RDNkRoLWZoNkljWEszcXllOERTNzlVUHUzYXUtUkhrWkdkbzVMX3p0RWFjbm1qeUZOblBLd0VrLVVGZW5vTFl6V0dISFdMUDNTM3J4SnU1NlRrNks0NkdqcVdRcWQ4YWs0d1VoU3FDUy1MdFdSRzc0TF94cXpVdEphZXNwbVpGNDEtZFV1eG1PZEJEOVhJbXBBTjJKRkM5Y0FfWF9tQmlhbV9vQmRnVG1CNy1fSjRxRGlDV3NNY0tuaVRiaFBxSFg1S0syVFRWc01vSHFkV2JIZFlNLXBiX3hHNWdtVnNEdEJKeHJ5V2ZQSEp2RmpOQlRwZEVKUXlSemNzMlo0cDBnWG1VbW1PNG10YmhfUEU0QkQ5TDhHenRKbw?oc=5
-
-- News Today Live Updates, 24 January | Forget China: Why Trump’s new Pentagon strategy is moving US military to Greenland and Panama Canal - The Indian Express
-  The Indian Express reports that the US is moving its military to Greenland and Panama.
+- News Today Live Updates, 24 January | ‘Great and very brave soldiers of UK’: Donald Trump’s U-turn after comment on NATO troops in Afghanistan - The Indian Express
+  The Indian Express reports that the US President is considering sending more troops to Afghanistan.
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZlkyR3JoV0JwcHE1MlZEUHJxLWdmTGRPbDFfbjQxbERLUHFvLVlXOW90cWIxNjJ0NlNQelNXNE1oV2JYSG0xZVZjMDlBbVBMWDE4RTBwcFZEd1Y2V2hIdnpnb0hoQzhDY2N4cmcxMVF6NkFnZmlfUms3OU5sSHBzaDdzd01rWEQzaFFVdV9pN05mblcteDRwZXFGMHZqcWdmZjBiLXA2OGdDYXBrdFBRNDU2RUpOdTdacExGU0tQRmtWTHItVE55WkNxVDlSLUFSZk02cmhZaTkycWpnVndjbnBfaEJnUDFT0gHvAUFVX3lxTE1VUVV6Vnc4NTRsQUpGNzNjSC1LcU1wTU9sc3JHNkZ0RzliV2d5Z2ItS1duV29BVjV4c2phMnUxUGYtZzYwQ0V5bV9JYnlWY3AzaFV1QVl4WF95dnc5NWxSd3UyVWdnUnJfeEowb1FncmxwTERrejNSVzctYld0eko3LTQ1cERIdGljT3VDZ3cycm9oS1E4emI2MmRBMWVFSHZEdFBGTWZkcW1Jand3MjlfeXI3UzZHdDg2WWoxSnJoeWxmYU80WGdiMDQyb2Z2MWdabVVSazN6dkNuUDFnR2YxWTlkSDJTX2pwMXl2Qy1j?oc=5
 
-- Iran Is Not Afraid, Khamenei Not Hiding In A Bunker: Consul General To NDTV - NDTV
-  Iran Is Not Afraid, Khamenei Not Hiding In
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM1pXSGJQRXRQM2stVWJJcWRLdE5NSENKdnJLWV92VGc3MUExb1YwTFB2RWFKVGhwZjdmMG5za3dlVkhpcGxsNGNSVlUxZEVCblZoRlZmaEx6dzZLZ1UyWS1fZGZQaEZ1bDRHcnA3N1BZZ1VVS1dIaUprMjhDYXJ0YUp4Z3NQeU1nSGozYV83VEoyaFgxVHNHV3R2Y0p4R2tHRlRKWTZka3EyRnJySEdZUlJyb3FvTFBCNWlDbmhCc2VCMEk3cEd0Z0xZUjVHRVZocmF6V3VPUE5WT3dMWnRTOUU1cUljelZkNE9TWUxJSXV2d0ZL0gH8AUFVX3lxTFBGckxwT3phNHFDZWVtUVJvOUVDWnhkTDRjX1VvVlhfSGhSbVd3QVZTUkZaUUYzRXFiNTRMSjJwblp4bDA5S0VTdDk1RWk3MWhSSFpYa25KY1ljWEx1a2ZpUnd1aGJ6SE1HNU9VTG5YbGxnc2l3UjZqdnV1a04tV2s0UmRZQldEd29BaUZoLXBJYWpLSmxlMjBKdm5tNXFLS1RfLWVzR2ZVd0ZiTHhSQ1UzRkdmUll5SWpEcmgwSWtGdXRZWHFxZW1YTEJlUEgtWmJtazVhTHhsaldsWnBTQ0szRXdBbzljaFVSSnJHSUdwTkNVZzdjTEVmRE5xMg?oc=5
+- Domain experts from India, U.K. discuss antimicrobial resistance at SRM-A.P. - The Hindu
+  Domain experts from India, U.K.
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa1lrcVgxYkgzaF9TdGk5TFp4dU50ZURUR05HX252YUpWa3ptSS1kTUdMRTc1XzZkUVV6bWJQZk4tTlhZZTVvMm9CX0hXR2I3OHFqMFl6VEtGMzRxNDgtNU40S0piQ3NQa28xNnJnS1RwM0h4WGNBVUw4eEcxa1A5YUlmSHFFejN5dW8xQ21mRmhqNUh0MHpYVDEzbUhGZ0RLVVVubHVGRHhrcVN3bjJYZ0hPaGJ5a1REVGtuU1I0S3NyY3hKbmlDcHlTTUNoVU5GT1NNNDV6UXc1LTlWNVHSAeQBQVVfeXFMTlJZS0RYR0JWSEkxc1cxVzZacDFCYmxabHVWbEVqOEIxY2hQN1Vjb3dCM0NxMzFvSDg5UDI5RVNxcHBqeEx1YmZITnRsYVpQWVZScUJEcnQwNlhKamZqUWYxNVc5VFlsenYxaEg2MnN2bENBQmdpU2NtMmU5dzFQem0xZlkwcTdja3Y2RVJ5aW1GOFJXV1BaOXYwUHFnTDJ1cktXZ2tua2Z3TWVxeExyYnFjTngyYVdJekxFYmgtMHpHNy1zZ2UxZURrTG1TanNYT1duMHVQbnJDSUVQWHJiTjJmcE9a?oc=5
+
+- Country Bomb Attack On Prison Convoy In Tamil Nadu, Convict Escapes - NDTV
+  Country Bomb Attack On Prison Convoy In Tamil
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxONERfc0FBdzJOY2l0b2tvamxsTUphQ21zV3hvM2hXV1JBUUxERnBLX0l5czlVUGNpRmE3YUpPTlVFcVoybTNQN1RCZWVvRlNBc2RFUEg1THgwcHhHeU93cmJFQXl2VGJqUEdsTlBpdzNoaHNudC1OX3Z2bzhEdS15STdmZEl5a2tlS0N6MDBfU2lqRVVCWGNibGdEeWhNTUZCM0xoak1RZjItLXfSAbMBQVVfeXFMTjhRQVpiUVFrOFFhMDVyZzRneDNFUFo2ZEREeXYwcU1tcW92cjkzZExlWXlSVElITDF0eUo2QzRFZGpjTHE5TWdRcUQ4a195dmJGcXVsMHY1dTZxaWw1X3hEZTQxT3FnYVM3ajRweGdaZGVycERvUDRhaVFZOC0zYlA1ZjN3eTNRNkRkUWg0cFpHWWlkVS0yMUs0X2p6MXl6ZER0NFJOdTN0a0pEQWdJM2N2Nlk?oc=5
+
+- FTA: India and EU set for 'mother of all deals' as Trump's tariffs bite - BBC
+  The EU and India are set for 'mother of all deals
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsRXdzWUxTVGpUMkJnc0wxdFFFSllMM1AxbFJlU0dhamVmQm9Bb3dzVFB1Y1dqX21xYVo1Mkg5ZVdVQWIyMzhoLXprYk9ZLW5xMXN3RndGdU9yUdIBX0FVX3lxTE9lMFRfQ3JhUXlUMG9ESm5FbnppcTVQWTB0MjFvUXdZa1BRaTlaT0RKOWs4d1hWTm95bkVvM3VaRy14TGdsc0szRUNjUzdqenNoNjZLTGJaZjM0SzktOHBN?oc=5
 
 - "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
   "Path To Take Them Off": Trump Aide Hints
   🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
 
-- US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have collapsed' | India News - Hindustan Times
-  US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTXJfeldGNzU4MDY5LUFIbWs5TlNzWnJRc3Z2RERRSVl3VzEtTl9yTW5CQ1Z0VTg5Ujk0VEJodTVTZWpFV25OMG1SWnJZZk1wQ1U5VFNGQS1Gb085ZFhfVFZnNF95UGxOaHRMT09RS0RrTkNwSFFKcmNsRE1UYWtfUkxkd1cxSGo4UWxMWTMzZkQwNUphdzd5bTJaLUtnSWhEbW1COGhOdDB1aVJVTWdmQ1J5d001c3Jmc1Y2NmNPRFdMeVJBOE9QLWJDa2ZzZWFTVllUMmZIT2VVa0ZJcEVpVW1SWGFuSTJyR1pCUEZhb3VVUHhhOTBtZGtn0gH_AUFVX3lxTE5RYXNxb1dPTlcyeE9pZkJTX0wyNVFUb0VVT2FGaXE1U1dfLVBsWW1CbXhqYkZzeDRmVDBsUG9zc3hrUllEMHBBdUNHX0dON0l5Rk8xSXliTEZCbldrQ3otNmFDWnplTkZ5TmxrR3FrRUp3TmxrMXRSTUlUdDBOSE5jbEFIUHJxTG9xS1VyM1EwZ0MzZ0tGcEczeWVzLVV1VzRpbk9fQnM4WF9RN29SeDV4VVl3aXFSdTZ3WksyVmVUNkRRcVR5UTVyWENQU3lhUG53dTdPMkhiUXZTbk1RQktQODcxbVQ5eHdUN3oyU3ZqWjIwbFdHcVBoRlVNbVFVTQ?oc=5
-
-- Evening news wrap: Scotland replaces Bangladesh in T20 World Cup; Air India cancels all flights from New - Times of India
-  Evening news wrap: Scotland replaces Bangladesh in T20 World Cup; Air India cancel
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxOU0F2Y3FSSV8wRkl2cVdCcUpxaWRHUXk0Wjc3bDhNYXBnS0NOLW9FSGkxb0xBSk1FTk1zZVhxLVhBT2kwQVoxRVJ5aEVKOU9OVVhtcjUwRFp2ekNXLVhWX3RYZnRaOFBKRnFsa2NtcGowVjg0YTZ6TUJRbVZvWDFOVXRJNGxObWx1SjBjN0V3ejZlZGIyOUlBaUFIOEhnMnVaem5uWURwcUNMbGVXM1RvZ1UtanFleFJBNDltOE5SODd1MzNRQ3dRc1FyTU5UcTJRMXZHRThzeHRPQm9URUxCR0hjQ05RNjY0VXlpdGN6ZWpPNjQ0N3Vlb2tjempsdUNNYXVoRVhHejlPVFpSMnQ2cWRtYkxpdkFLVnQ4WURWNnhwVVpXZmgw0gGsAkFVX3lxTE1wTTloUlFsWWMtQ0RDNkRoLWZoNkljWEszcXllOERTNzlVUHUzYXUtUkhrWkdkbzVMX3p0RWFjbm1qeUZOblBLd0VrLVVGZW5vTFl6V0dISFdMUDNTM3J4SnU1NlRrNks0NkdqcVdRcWQ4YWs0d1VoU3FDUy1MdFdSRzc0TF94cXpVdEphZXNwbVpGNDEtZFV1eG1PZEJEOVhJbXBBTjJKRkM5Y0FfWF9tQmlhbV9vQmRnVG1CNy1fSjRxRGlDV3NNY0tuaVRiaFBxSFg1S0syVFRWc01vSHFkV2JIZFlNLXBiX3hHNWdtVnNEdEJKeHJ5V2ZQSEp2RmpOQlRwZEVKUXlSemNzMlo0cDBnWG1VbW1PNG10YmhfUEU0QkQ5TDhHenRKbw?oc=5
-
-- News Today Live Updates, 24 January | Forget China: Why Trump’s new Pentagon strategy is moving US military to Greenland and Panama Canal - The Indian Express
-  The Indian Express reports that the US is moving its military to Greenland and Panama.
+- News Today Live Updates, 24 January | ‘Great and very brave soldiers of UK’: Donald Trump’s U-turn after comment on NATO troops in Afghanistan - The Indian Express
+  The Indian Express reports that the US President is considering sending more troops to Afghanistan.
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZlkyR3JoV0JwcHE1MlZEUHJxLWdmTGRPbDFfbjQxbERLUHFvLVlXOW90cWIxNjJ0NlNQelNXNE1oV2JYSG0xZVZjMDlBbVBMWDE4RTBwcFZEd1Y2V2hIdnpnb0hoQzhDY2N4cmcxMVF6NkFnZmlfUms3OU5sSHBzaDdzd01rWEQzaFFVdV9pN05mblcteDRwZXFGMHZqcWdmZjBiLXA2OGdDYXBrdFBRNDU2RUpOdTdacExGU0tQRmtWTHItVE55WkNxVDlSLUFSZk02cmhZaTkycWpnVndjbnBfaEJnUDFT0gHvAUFVX3lxTE1VUVV6Vnc4NTRsQUpGNzNjSC1LcU1wTU9sc3JHNkZ0RzliV2d5Z2ItS1duV29BVjV4c2phMnUxUGYtZzYwQ0V5bV9JYnlWY3AzaFV1QVl4WF95dnc5NWxSd3UyVWdnUnJfeEowb1FncmxwTERrejNSVzctYld0eko3LTQ1cERIdGljT3VDZ3cycm9oS1E4emI2MmRBMWVFSHZEdFBGTWZkcW1Jand3MjlfeXI3UzZHdDg2WWoxSnJoeWxmYU80WGdiMDQyb2Z2MWdabVVSazN6dkNuUDFnR2YxWTlkSDJTX2pwMXl2Qy1j?oc=5
 
-- Iran Is Not Afraid, Khamenei Not Hiding In A Bunker: Consul General To NDTV - NDTV
-  Iran Is Not Afraid, Khamenei Not Hiding In
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM1pXSGJQRXRQM2stVWJJcWRLdE5NSENKdnJLWV92VGc3MUExb1YwTFB2RWFKVGhwZjdmMG5za3dlVkhpcGxsNGNSVlUxZEVCblZoRlZmaEx6dzZLZ1UyWS1fZGZQaEZ1bDRHcnA3N1BZZ1VVS1dIaUprMjhDYXJ0YUp4Z3NQeU1nSGozYV83VEoyaFgxVHNHV3R2Y0p4R2tHRlRKWTZka3EyRnJySEdZUlJyb3FvTFBCNWlDbmhCc2VCMEk3cEd0Z0xZUjVHRVZocmF6V3VPUE5WT3dMWnRTOUU1cUljelZkNE9TWUxJSXV2d0ZL0gH8AUFVX3lxTFBGckxwT3phNHFDZWVtUVJvOUVDWnhkTDRjX1VvVlhfSGhSbVd3QVZTUkZaUUYzRXFiNTRMSjJwblp4bDA5S0VTdDk1RWk3MWhSSFpYa25KY1ljWEx1a2ZpUnd1aGJ6SE1HNU9VTG5YbGxnc2l3UjZqdnV1a04tV2s0UmRZQldEd29BaUZoLXBJYWpLSmxlMjBKdm5tNXFLS1RfLWVzR2ZVd0ZiTHhSQ1UzRkdmUll5SWpEcmgwSWtGdXRZWHFxZW1YTEJlUEgtWmJtazVhTHhsaldsWnBTQ0szRXdBbzljaFVSSnJHSUdwTkNVZzdjTEVmRE5xMg?oc=5
+- Domain experts from India, U.K. discuss antimicrobial resistance at SRM-A.P. - The Hindu
+  Domain experts from India, U.K.
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa1lrcVgxYkgzaF9TdGk5TFp4dU50ZURUR05HX252YUpWa3ptSS1kTUdMRTc1XzZkUVV6bWJQZk4tTlhZZTVvMm9CX0hXR2I3OHFqMFl6VEtGMzRxNDgtNU40S0piQ3NQa28xNnJnS1RwM0h4WGNBVUw4eEcxa1A5YUlmSHFFejN5dW8xQ21mRmhqNUh0MHpYVDEzbUhGZ0RLVVVubHVGRHhrcVN3bjJYZ0hPaGJ5a1REVGtuU1I0S3NyY3hKbmlDcHlTTUNoVU5GT1NNNDV6UXc1LTlWNVHSAeQBQVVfeXFMTlJZS0RYR0JWSEkxc1cxVzZacDFCYmxabHVWbEVqOEIxY2hQN1Vjb3dCM0NxMzFvSDg5UDI5RVNxcHBqeEx1YmZITnRsYVpQWVZScUJEcnQwNlhKamZqUWYxNVc5VFlsenYxaEg2MnN2bENBQmdpU2NtMmU5dzFQem0xZlkwcTdja3Y2RVJ5aW1GOFJXV1BaOXYwUHFnTDJ1cktXZ2tua2Z3TWVxeExyYnFjTngyYVdJekxFYmgtMHpHNy1zZ2UxZURrTG1TanNYT1duMHVQbnJDSUVQWHJiTjJmcE9a?oc=5
+
+- Country Bomb Attack On Prison Convoy In Tamil Nadu, Convict Escapes - NDTV
+  Country Bomb Attack On Prison Convoy In Tamil
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxONERfc0FBdzJOY2l0b2tvamxsTUphQ21zV3hvM2hXV1JBUUxERnBLX0l5czlVUGNpRmE3YUpPTlVFcVoybTNQN1RCZWVvRlNBc2RFUEg1THgwcHhHeU93cmJFQXl2VGJqUEdsTlBpdzNoaHNudC1OX3Z2bzhEdS15STdmZEl5a2tlS0N6MDBfU2lqRVVCWGNibGdEeWhNTUZCM0xoak1RZjItLXfSAbMBQVVfeXFMTjhRQVpiUVFrOFFhMDVyZzRneDNFUFo2ZEREeXYwcU1tcW92cjkzZExlWXlSVElITDF0eUo2QzRFZGpjTHE5TWdRcUQ4a195dmJGcXVsMHY1dTZxaWw1X3hEZTQxT3FnYVM3ajRweGdaZGVycERvUDRhaVFZOC0zYlA1ZjN3eTNRNkRkUWg0cFpHWWlkVS0yMUs0X2p6MXl6ZER0NFJOdTN0a0pEQWdJM2N2Nlk?oc=5
+
+- FTA: India and EU set for 'mother of all deals' as Trump's tariffs bite - BBC
+  The EU and India are set for 'mother of all deals
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsRXdzWUxTVGpUMkJnc0wxdFFFSllMM1AxbFJlU0dhamVmQm9Bb3dzVFB1Y1dqX21xYVo1Mkg5ZVdVQWIyMzhoLXprYk9ZLW5xMXN3RndGdU9yUdIBX0FVX3lxTE9lMFRfQ3JhUXlUMG9ESm5FbnppcTVQWTB0MjFvUXdZa1BRaTlaT0RKOWs4d1hWTm95bkVvM3VaRy14TGdsc0szRUNjUzdqenNoNjZLTGJaZjM0SzktOHBN?oc=5
 
 - "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
   "Path To Take Them Off": Trump Aide Hints
   🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
 
-- US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have collapsed' | India News - Hindustan Times
-  US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTXJfeldGNzU4MDY5LUFIbWs5TlNzWnJRc3Z2RERRSVl3VzEtTl9yTW5CQ1Z0VTg5Ujk0VEJodTVTZWpFV25OMG1SWnJZZk1wQ1U5VFNGQS1Gb085ZFhfVFZnNF95UGxOaHRMT09RS0RrTkNwSFFKcmNsRE1UYWtfUkxkd1cxSGo4UWxMWTMzZkQwNUphdzd5bTJaLUtnSWhEbW1COGhOdDB1aVJVTWdmQ1J5d001c3Jmc1Y2NmNPRFdMeVJBOE9QLWJDa2ZzZWFTVllUMmZIT2VVa0ZJcEVpVW1SWGFuSTJyR1pCUEZhb3VVUHhhOTBtZGtn0gH_AUFVX3lxTE5RYXNxb1dPTlcyeE9pZkJTX0wyNVFUb0VVT2FGaXE1U1dfLVBsWW1CbXhqYkZzeDRmVDBsUG9zc3hrUllEMHBBdUNHX0dON0l5Rk8xSXliTEZCbldrQ3otNmFDWnplTkZ5TmxrR3FrRUp3TmxrMXRSTUlUdDBOSE5jbEFIUHJxTG9xS1VyM1EwZ0MzZ0tGcEczeWVzLVV1VzRpbk9fQnM4WF9RN29SeDV4VVl3aXFSdTZ3WksyVmVUNkRRcVR5UTVyWENQU3lhUG53dTdPMkhiUXZTbk1RQktQODcxbVQ5eHdUN3oyU3ZqWjIwbFdHcVBoRlVNbVFVTQ?oc=5
-
-- Evening news wrap: Scotland replaces Bangladesh in T20 World Cup; Air India cancels all flights from New - Times of India
-  Evening news wrap: Scotland replaces Bangladesh in T20 World Cup; Air India cancel
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxOU0F2Y3FSSV8wRkl2cVdCcUpxaWRHUXk0Wjc3bDhNYXBnS0NOLW9FSGkxb0xBSk1FTk1zZVhxLVhBT2kwQVoxRVJ5aEVKOU9OVVhtcjUwRFp2ekNXLVhWX3RYZnRaOFBKRnFsa2NtcGowVjg0YTZ6TUJRbVZvWDFOVXRJNGxObWx1SjBjN0V3ejZlZGIyOUlBaUFIOEhnMnVaem5uWURwcUNMbGVXM1RvZ1UtanFleFJBNDltOE5SODd1MzNRQ3dRc1FyTU5UcTJRMXZHRThzeHRPQm9URUxCR0hjQ05RNjY0VXlpdGN6ZWpPNjQ0N3Vlb2tjempsdUNNYXVoRVhHejlPVFpSMnQ2cWRtYkxpdkFLVnQ4WURWNnhwVVpXZmgw0gGsAkFVX3lxTE1wTTloUlFsWWMtQ0RDNkRoLWZoNkljWEszcXllOERTNzlVUHUzYXUtUkhrWkdkbzVMX3p0RWFjbm1qeUZOblBLd0VrLVVGZW5vTFl6V0dISFdMUDNTM3J4SnU1NlRrNks0NkdqcVdRcWQ4YWs0d1VoU3FDUy1MdFdSRzc0TF94cXpVdEphZXNwbVpGNDEtZFV1eG1PZEJEOVhJbXBBTjJKRkM5Y0FfWF9tQmlhbV9vQmRnVG1CNy1fSjRxRGlDV3NNY0tuaVRiaFBxSFg1S0syVFRWc01vSHFkV2JIZFlNLXBiX3hHNWdtVnNEdEJKeHJ5V2ZQSEp2RmpOQlRwZEVKUXlSemNzMlo0cDBnWG1VbW1PNG10YmhfUEU0QkQ5TDhHenRKbw?oc=5
-
-- News Today Live Updates, 24 January | Forget China: Why Trump’s new Pentagon strategy is moving US military to Greenland and Panama Canal - The Indian Express
-  The Indian Express reports that the US is moving its military to Greenland and Panama.
+- News Today Live Updates, 24 January | ‘Great and very brave soldiers of UK’: Donald Trump’s U-turn after comment on NATO troops in Afghanistan - The Indian Express
+  The Indian Express reports that the US President is considering sending more troops to Afghanistan.
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZlkyR3JoV0JwcHE1MlZEUHJxLWdmTGRPbDFfbjQxbERLUHFvLVlXOW90cWIxNjJ0NlNQelNXNE1oV2JYSG0xZVZjMDlBbVBMWDE4RTBwcFZEd1Y2V2hIdnpnb0hoQzhDY2N4cmcxMVF6NkFnZmlfUms3OU5sSHBzaDdzd01rWEQzaFFVdV9pN05mblcteDRwZXFGMHZqcWdmZjBiLXA2OGdDYXBrdFBRNDU2RUpOdTdacExGU0tQRmtWTHItVE55WkNxVDlSLUFSZk02cmhZaTkycWpnVndjbnBfaEJnUDFT0gHvAUFVX3lxTE1VUVV6Vnc4NTRsQUpGNzNjSC1LcU1wTU9sc3JHNkZ0RzliV2d5Z2ItS1duV29BVjV4c2phMnUxUGYtZzYwQ0V5bV9JYnlWY3AzaFV1QVl4WF95dnc5NWxSd3UyVWdnUnJfeEowb1FncmxwTERrejNSVzctYld0eko3LTQ1cERIdGljT3VDZ3cycm9oS1E4emI2MmRBMWVFSHZEdFBGTWZkcW1Jand3MjlfeXI3UzZHdDg2WWoxSnJoeWxmYU80WGdiMDQyb2Z2MWdabVVSazN6dkNuUDFnR2YxWTlkSDJTX2pwMXl2Qy1j?oc=5
 
-- Iran Is Not Afraid, Khamenei Not Hiding In A Bunker: Consul General To NDTV - NDTV
-  Iran Is Not Afraid, Khamenei Not Hiding In
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM1pXSGJQRXRQM2stVWJJcWRLdE5NSENKdnJLWV92VGc3MUExb1YwTFB2RWFKVGhwZjdmMG5za3dlVkhpcGxsNGNSVlUxZEVCblZoRlZmaEx6dzZLZ1UyWS1fZGZQaEZ1bDRHcnA3N1BZZ1VVS1dIaUprMjhDYXJ0YUp4Z3NQeU1nSGozYV83VEoyaFgxVHNHV3R2Y0p4R2tHRlRKWTZka3EyRnJySEdZUlJyb3FvTFBCNWlDbmhCc2VCMEk3cEd0Z0xZUjVHRVZocmF6V3VPUE5WT3dMWnRTOUU1cUljelZkNE9TWUxJSXV2d0ZL0gH8AUFVX3lxTFBGckxwT3phNHFDZWVtUVJvOUVDWnhkTDRjX1VvVlhfSGhSbVd3QVZTUkZaUUYzRXFiNTRMSjJwblp4bDA5S0VTdDk1RWk3MWhSSFpYa25KY1ljWEx1a2ZpUnd1aGJ6SE1HNU9VTG5YbGxnc2l3UjZqdnV1a04tV2s0UmRZQldEd29BaUZoLXBJYWpLSmxlMjBKdm5tNXFLS1RfLWVzR2ZVd0ZiTHhSQ1UzRkdmUll5SWpEcmgwSWtGdXRZWHFxZW1YTEJlUEgtWmJtazVhTHhsaldsWnBTQ0szRXdBbzljaFVSSnJHSUdwTkNVZzdjTEVmRE5xMg?oc=5
+- Domain experts from India, U.K. discuss antimicrobial resistance at SRM-A.P. - The Hindu
+  Domain experts from India, U.K.
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa1lrcVgxYkgzaF9TdGk5TFp4dU50ZURUR05HX252YUpWa3ptSS1kTUdMRTc1XzZkUVV6bWJQZk4tTlhZZTVvMm9CX0hXR2I3OHFqMFl6VEtGMzRxNDgtNU40S0piQ3NQa28xNnJnS1RwM0h4WGNBVUw4eEcxa1A5YUlmSHFFejN5dW8xQ21mRmhqNUh0MHpYVDEzbUhGZ0RLVVVubHVGRHhrcVN3bjJYZ0hPaGJ5a1REVGtuU1I0S3NyY3hKbmlDcHlTTUNoVU5GT1NNNDV6UXc1LTlWNVHSAeQBQVVfeXFMTlJZS0RYR0JWSEkxc1cxVzZacDFCYmxabHVWbEVqOEIxY2hQN1Vjb3dCM0NxMzFvSDg5UDI5RVNxcHBqeEx1YmZITnRsYVpQWVZScUJEcnQwNlhKamZqUWYxNVc5VFlsenYxaEg2MnN2bENBQmdpU2NtMmU5dzFQem0xZlkwcTdja3Y2RVJ5aW1GOFJXV1BaOXYwUHFnTDJ1cktXZ2tua2Z3TWVxeExyYnFjTngyYVdJekxFYmgtMHpHNy1zZ2UxZURrTG1TanNYT1duMHVQbnJDSUVQWHJiTjJmcE9a?oc=5
+
+- Country Bomb Attack On Prison Convoy In Tamil Nadu, Convict Escapes - NDTV
+  Country Bomb Attack On Prison Convoy In Tamil
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxONERfc0FBdzJOY2l0b2tvamxsTUphQ21zV3hvM2hXV1JBUUxERnBLX0l5czlVUGNpRmE3YUpPTlVFcVoybTNQN1RCZWVvRlNBc2RFUEg1THgwcHhHeU93cmJFQXl2VGJqUEdsTlBpdzNoaHNudC1OX3Z2bzhEdS15STdmZEl5a2tlS0N6MDBfU2lqRVVCWGNibGdEeWhNTUZCM0xoak1RZjItLXfSAbMBQVVfeXFMTjhRQVpiUVFrOFFhMDVyZzRneDNFUFo2ZEREeXYwcU1tcW92cjkzZExlWXlSVElITDF0eUo2QzRFZGpjTHE5TWdRcUQ4a195dmJGcXVsMHY1dTZxaWw1X3hEZTQxT3FnYVM3ajRweGdaZGVycERvUDRhaVFZOC0zYlA1ZjN3eTNRNkRkUWg0cFpHWWlkVS0yMUs0X2p6MXl6ZER0NFJOdTN0a0pEQWdJM2N2Nlk?oc=5
+
+- FTA: India and EU set for 'mother of all deals' as Trump's tariffs bite - BBC
+  The EU and India are set for 'mother of all deals
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsRXdzWUxTVGpUMkJnc0wxdFFFSllMM1AxbFJlU0dhamVmQm9Bb3dzVFB1Y1dqX21xYVo1Mkg5ZVdVQWIyMzhoLXprYk9ZLW5xMXN3RndGdU9yUdIBX0FVX3lxTE9lMFRfQ3JhUXlUMG9ESm5FbnppcTVQWTB0MjFvUXdZa1BRaTlaT0RKOWs4d1hWTm95bkVvM3VaRy14TGdsc0szRUNjUzdqenNoNjZLTGJaZjM0SzktOHBN?oc=5
+
+- "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
+  "Path To Take Them Off": Trump Aide Hints
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
+
+- News Today Live Updates, 24 January | ‘Great and very brave soldiers of UK’: Donald Trump’s U-turn after comment on NATO troops in Afghanistan - The Indian Express
+  The Indian Express reports that the US President is considering sending more troops to Afghanistan.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZlkyR3JoV0JwcHE1MlZEUHJxLWdmTGRPbDFfbjQxbERLUHFvLVlXOW90cWIxNjJ0NlNQelNXNE1oV2JYSG0xZVZjMDlBbVBMWDE4RTBwcFZEd1Y2V2hIdnpnb0hoQzhDY2N4cmcxMVF6NkFnZmlfUms3OU5sSHBzaDdzd01rWEQzaFFVdV9pN05mblcteDRwZXFGMHZqcWdmZjBiLXA2OGdDYXBrdFBRNDU2RUpOdTdacExGU0tQRmtWTHItVE55WkNxVDlSLUFSZk02cmhZaTkycWpnVndjbnBfaEJnUDFT0gHvAUFVX3lxTE1VUVV6Vnc4NTRsQUpGNzNjSC1LcU1wTU9sc3JHNkZ0RzliV2d5Z2ItS1duV29BVjV4c2phMnUxUGYtZzYwQ0V5bV9JYnlWY3AzaFV1QVl4WF95dnc5NWxSd3UyVWdnUnJfeEowb1FncmxwTERrejNSVzctYld0eko3LTQ1cERIdGljT3VDZ3cycm9oS1E4emI2MmRBMWVFSHZEdFBGTWZkcW1Jand3MjlfeXI3UzZHdDg2WWoxSnJoeWxmYU80WGdiMDQyb2Z2MWdabVVSazN6dkNuUDFnR2YxWTlkSDJTX2pwMXl2Qy1j?oc=5
+
+- Domain experts from India, U.K. discuss antimicrobial resistance at SRM-A.P. - The Hindu
+  Domain experts from India, U.K.
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa1lrcVgxYkgzaF9TdGk5TFp4dU50ZURUR05HX252YUpWa3ptSS1kTUdMRTc1XzZkUVV6bWJQZk4tTlhZZTVvMm9CX0hXR2I3OHFqMFl6VEtGMzRxNDgtNU40S0piQ3NQa28xNnJnS1RwM0h4WGNBVUw4eEcxa1A5YUlmSHFFejN5dW8xQ21mRmhqNUh0MHpYVDEzbUhGZ0RLVVVubHVGRHhrcVN3bjJYZ0hPaGJ5a1REVGtuU1I0S3NyY3hKbmlDcHlTTUNoVU5GT1NNNDV6UXc1LTlWNVHSAeQBQVVfeXFMTlJZS0RYR0JWSEkxc1cxVzZacDFCYmxabHVWbEVqOEIxY2hQN1Vjb3dCM0NxMzFvSDg5UDI5RVNxcHBqeEx1YmZITnRsYVpQWVZScUJEcnQwNlhKamZqUWYxNVc5VFlsenYxaEg2MnN2bENBQmdpU2NtMmU5dzFQem0xZlkwcTdja3Y2RVJ5aW1GOFJXV1BaOXYwUHFnTDJ1cktXZ2tua2Z3TWVxeExyYnFjTngyYVdJekxFYmgtMHpHNy1zZ2UxZURrTG1TanNYT1duMHVQbnJDSUVQWHJiTjJmcE9a?oc=5
+
+- Country Bomb Attack On Prison Convoy In Tamil Nadu, Convict Escapes - NDTV
+  Country Bomb Attack On Prison Convoy In Tamil
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxONERfc0FBdzJOY2l0b2tvamxsTUphQ21zV3hvM2hXV1JBUUxERnBLX0l5czlVUGNpRmE3YUpPTlVFcVoybTNQN1RCZWVvRlNBc2RFUEg1THgwcHhHeU93cmJFQXl2VGJqUEdsTlBpdzNoaHNudC1OX3Z2bzhEdS15STdmZEl5a2tlS0N6MDBfU2lqRVVCWGNibGdEeWhNTUZCM0xoak1RZjItLXfSAbMBQVVfeXFMTjhRQVpiUVFrOFFhMDVyZzRneDNFUFo2ZEREeXYwcU1tcW92cjkzZExlWXlSVElITDF0eUo2QzRFZGpjTHE5TWdRcUQ4a195dmJGcXVsMHY1dTZxaWw1X3hEZTQxT3FnYVM3ajRweGdaZGVycERvUDRhaVFZOC0zYlA1ZjN3eTNRNkRkUWg0cFpHWWlkVS0yMUs0X2p6MXl6ZER0NFJOdTN0a0pEQWdJM2N2Nlk?oc=5
+
+- FTA: India and EU set for 'mother of all deals' as Trump's tariffs bite - BBC
+  The EU and India are set for 'mother of all deals
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsRXdzWUxTVGpUMkJnc0wxdFFFSllMM1AxbFJlU0dhamVmQm9Bb3dzVFB1Y1dqX21xYVo1Mkg5ZVdVQWIyMzhoLXprYk9ZLW5xMXN3RndGdU9yUdIBX0FVX3lxTE9lMFRfQ3JhUXlUMG9ESm5FbnppcTVQWTB0MjFvUXdZa1BRaTlaT0RKOWs4d1hWTm95bkVvM3VaRy14TGdsc0szRUNjUzdqenNoNjZLTGJaZjM0SzktOHBN?oc=5
 
 
-_Last updated: 2026-01-24 12:36:07 UTC_
+_Last updated: 2026-01-24 18:27:58 UTC_
