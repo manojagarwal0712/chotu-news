@@ -1,64 +1,56 @@
 # 📰 Daily News Summaries
 
-- Deportation, and re-deportation? A family looks for 14 kin, from Odisha to Bengal to Bangladesh
-  
-  🔗 https://indianexpress.com/article/india/deportation-family-kin-odisha-bengal-bangladesh-10493092/
+- US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have collapsed' | India News - Hindustan Times
+  US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTXJfeldGNzU4MDY5LUFIbWs5TlNzWnJRc3Z2RERRSVl3VzEtTl9yTW5CQ1Z0VTg5Ujk0VEJodTVTZWpFV25OMG1SWnJZZk1wQ1U5VFNGQS1Gb085ZFhfVFZnNF95UGxOaHRMT09RS0RrTkNwSFFKcmNsRE1UYWtfUkxkd1cxSGo4UWxMWTMzZkQwNUphdzd5bTJaLUtnSWhEbW1COGhOdDB1aVJVTWdmQ1J5d001c3Jmc1Y2NmNPRFdMeVJBOE9QLWJDa2ZzZWFTVllUMmZIT2VVa0ZJcEVpVW1SWGFuSTJyR1pCUEZhb3VVUHhhOTBtZGtn0gH_AUFVX3lxTE5RYXNxb1dPTlcyeE9pZkJTX0wyNVFUb0VVT2FGaXE1U1dfLVBsWW1CbXhqYkZzeDRmVDBsUG9zc3hrUllEMHBBdUNHX0dON0l5Rk8xSXliTEZCbldrQ3otNmFDWnplTkZ5TmxrR3FrRUp3TmxrMXRSTUlUdDBOSE5jbEFIUHJxTG9xS1VyM1EwZ0MzZ0tGcEczeWVzLVV1VzRpbk9fQnM4WF9RN29SeDV4VVl3aXFSdTZ3WksyVmVUNkRRcVR5UTVyWENQU3lhUG53dTdPMkhiUXZTbk1RQktQODcxbVQ5eHdUN3oyU3ZqWjIwbFdHcVBoRlVNbVFVTQ?oc=5
 
-- EU leaders begin visit, PM Modi flags trade & mobility pacts
-  
-  🔗 https://indianexpress.com/article/india/eu-leaders-begin-visit-pm-modi-flags-trade-mobility-pacts-10493089/
+- "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
+  "Path To Take Them Off": Trump Aide Hints
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
 
-- From Akola to Shimla gaushala, youth missing since 2018 reunites with family
-  
-  🔗 https://indianexpress.com/article/india/from-akola-to-shimla-gaushala-youth-missing-since-2018-reunites-with-family-10493085/
+- Bessent signals easing of Russian oil tariffs on New Delhi while frowning on EU -India FTA - The Times of India
+  The Times of India reports that Russia is easing its oil tariffs on New Delhi.
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNc2xGd0xIcnFhbEJxWHZsYTctTkFNTnpDS1hYeVpjbWMxZnU0ekRGUE9McGpqdTB2ZjdmdFFYX3NSSmtwalV6U2NBT1FRenFxSUlPMENYOE1oMm5RMHMxc1plZExzMFJXVHNVWUg4S2l0NjlxMEk4OTdKRE5DX29qYzltblZSTFpESEFKNnEwQ2tGbktZX3A4QlJEcVlVSkpoWkNXLTdvODYyNzg2MWhSLTlCZ01Td3JzT3c0SkRLUF9WX1ZHZVJ3QkxRVFloeWRnVjZ5NnhTWDAtcnJHNjI5bkxhbUZqSkZ1ZmRpUkhJTnFoS3VrMGt5NUFaQi1IR0pvMUlTS3RRcmZGUHQ3a2xZLdIBlgJBVV95cUxOZnZWZ0xnMXBpYXFLYnVhanpCUlRWNlhiZ2hqQ2hjMHNzNDRxN3RuTk5MaWJzUUh2TDhzdWRqWU5oMThCZDB1emRkUnVidHJQWTc5SHJ4cmF1N2x3UVdDT0d6WFdEUU5Da2hfNUtCdDk3QmQzQnEySXdQOUZ4cHZzUTEzVTZHWTFTYWozVDltNXFId29oYUJXcFVYWmxybUx1MjJla3d3U1YtN2EzM1VWSDJyQVZ2SkFnODZrVU5yQmxCMk00czFsZTJXS1ZUeWU4ZGNPdWZZSXdGUE10Q1c0dm9rOFQzNDhZLUE4TkROTzF2V2QxMzRiVV9QWmZyWHVPWkFMVVJXcFNTRk03VjFmRTFkYWdYZw?oc=5
 
-- SIR in remaining states, UTs soon, says Chief Election Commissioner Gyanesh Kumar
-  
-  🔗 https://indianexpress.com/article/india/sir-in-remaining-states-uts-soon-says-chief-election-commissioner-gyanesh-kumar-10493139/
+- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - The Times of India
+  India vs Pakistan bilateral series possible? BCCI reveals ultimate
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
 
-- ‘Inequitable distribution of healthcare personnel a challenge’: Vikram Patel, Commission co-chair and professor at Harvard Medical School
-  
-  🔗 https://indianexpress.com/article/india/inequitable-distribution-of-healthcare-personnel-a-challenge-vikram-patel-commission-co-chair-and-professor-at-harvard-medical-school-10493123/
+- 15-km jam, power and water cut: Manali reels under snow and tourist surge | India News - Hindustan Times
+  15-km jam, power and water cut: Manali reels under
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa3VQaUNfT3hZSC1ZZ0VTSlBDLXU3SnJpeWI5d3hzOEdGQlJValdLaE11NWQ1OG5qbHc2OWhOWHd5VS1hTkhFb0hrdm55T056bkpYLXJTX1dKYjN2emN6RV85cklYaTFoSUpZeGZhd1EwSElqckl5NmthcXdzeUtxaUxNWGlaeVFCQkJxbkxEOHNRNHBfaGJvN3IwOGZMeWxOaE9MSHlpZDVPM3p1ZFM5bDg5dmpxWDNtNjRzbmtaTnRzWTIyNnpfMVZ0WlRsLVNPV2M4ZUtZZUjSAd4BQVVfeXFMTkdyMFB0OVN2d3B5VGtHcVhsd1dIaW5INjdJYVBIb1RtNjZhY3h5ZG9TVlVtcGZTb2lEVW1kNDZzTmFXWHMyZzNUMlAtWGo3Tkdfa2R0c3MwdWh6SnEtV1ZxYnp5eE8zS09ieU9fS3dZZVJsOElMSjYweG5VYzJLcjNyTk5PQWhvTEFLQnF0dGd0WXNyUml5UjJLM3lYbDZKQWVTeGM1aVZxRXV2LW1fSFVxWUp2b3B6YmlZdXVqN2tYUGpnZXpPQ0VqYzM2NDFQUVpxVXFDVlotbUs3VnZ3?oc=5
 
-- Too big to hop? New research revisits how prehistoric kangaroos moved
-  
-  🔗 https://indianexpress.com/article/technology/science/too-big-to-hop-new-research-revisits-how-prehistoric-kangaroos-moved-10492733/
+- ACME Group plans $1.4 bn green methanol plant in Odisha, inks agreement
+  ACME Group has partnered with the Odisha government to invest $1.4 billion in a green met
+  🔗 https://www.livemint.com/companies/acme-group-green-methanol-shipping-hydrogen-mission-11769165230092.html
 
-- Former OpenAI research head says Google caught up after ChatGPT momentum faded
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-ai-comeback-openai-fumble-10492202/
+- Are your WhatsApp messages really private? Fresh lawsuit challenges Meta's privacy claims
+   Meta is being sued for allegedly misleading users about WhatsApp's encryption. An internation group of plaintiffs are arguing that the company can
+  🔗 https://www.livemint.com/companies/news/are-your-whatsapp-messages-really-private-fresh-lawsuit-challenges-metas-privacy-claims-11769314309864.html
 
-- Apple nears India launch of Apple Pay amid regulatory and partner discussions: Report
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-nears-india-launch-of-apple-pay-amid-regulatory-and-partner-discussions-10492199/
+- This founder says 73 rejections did not discourage him, ‘want to get out of bed even without pay’
+  Jake Miller is the co-founder and CEO of the social media company. He faced 73 rejections but was able to push through because he
+  🔗 https://www.livemint.com/companies/people/fellow-coffee-products-company-founder-jake-miller-73-rejections-how-career-success-want-to-get-out-of-bed-without-pay-11769310975948.html
 
-- Meta halts teens’ access to AI characters globally
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-halts-teens-access-to-ai-characters-globally-10492064/
-
-- Google Photos introduces ‘Me Meme’, an AI tool for personalised memes
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-photos-introduces-me-meme-an-ai-tool-for-personalised-memes-10491943/
+- Lawsuit Claims Meta Can See WhatsApp Chats in Breach of Privacy
+  An international group of plaintiffs sued Meta Platforms, Inc. alleging that the company has made false claims about the
+  🔗 https://www.livemint.com/companies/lawsuit-claims-meta-can-see-whatsapp-chats-in-breach-of-privacy-11769306838231.html
 
 - HHS Pauses, Then Restores, $5 Billion in State Health Grants
   The US Department of Health and Human Services notified states on Saturday that it would pause public health grants worth about $5 billion. Hours later
   🔗 https://www.livemint.com/companies/hhs-pauses-then-restores-5-billion-in-state-health-grants-11769286614440.html
 
-- Infosys asks employees to share remote work electricity consumption data: Report
-  Infosys is collecting data on employees' household electricity consumption to mitigate its environmental impact through clean energy. The company encourages participation in a survey aimed at enhancing
-  🔗 https://www.livemint.com/companies/news/infosys-asks-employees-to-share-remote-work-electricity-consumption-data-report-11769274057445.html
+- Stocks to buy under  ₹100: Sumeet Bagadia recommends three stocks to buy on Tuesday - 27 January 2025
+  Sumeet Bagadia has recommended three stocks to buy on Tuesday, January 27. Asian Granito India
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-tuesday-27-january-2025-11769315136717.html
 
-- IndiGo relinquishes over 700 slots at domestic airports after 10% cut in winter flight program
-  The civil aviation ministry has invited other airlines to submit requests for operating domestic flights
-  🔗 https://www.livemint.com/companies/news/indigo-relinquishes-over-700-slots-at-domestic-airports-after-10-cut-in-winter-flight-program-11769258535834.html
+- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Tuesday - 27 January 2026
+  Ganesh Dongre of Anand Rathi recommends three stocks to buy on Tuesday
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-tuesday-27-january-2026-11769312874046.html
 
-- APSEZ to invest  ₹30,000 crore for Vizhinjam Port development: Karan Adani
-  APSEZ will invest  �
-  🔗 https://www.livemint.com/companies/news/apsez-to-invest-rs-30-000-crore-for-vizhinjam-port-development-karan-adani-11769270113072.html
-
-- Why Shark Tank judge Anupam Mittal thinks CEOs stepping down from their own startups is not a failure
-  Anupam Mittal backs CEOs and founders resigning from their own startups. Mittal says founders
-  🔗 https://www.livemint.com/companies/people/why-shark-tank-judge-anupam-mittal-thinks-ceos-stepping-down-from-their-own-startups-is-not-a-failure-11769250000922.html
+- Union Budget 2026 to US Fed meet, Q3 results - Top five triggers that may dictate Indian stock market this week
+  On Friday, both benchmark indices took a U-turn, slipping back into the red amid profit booking. After posting notable
+  🔗 https://www.livemint.com/market/stock-market-news/union-budget-2026-to-q3-results-top-five-triggers-that-may-dictate-indian-stock-market-this-week-11769307728034.html
 
 - A Tale of Two Economies Is Reshaping China’s Stock Market
   Investors raise bets on the beneficiaries of an industrial export boom at the expense of firms mired in a consumption slump.
@@ -68,17 +60,17 @@
   Silver has been unstoppable, hitting $100 for the first time in history with a 43% year-
   🔗 https://www.livemint.com/market/stock-market-news/markets-passed-a-taco-test-another-kind-of-stress-test-is-coming-11769260519565.html
 
-- SBI Life-owned NBFC stock Paisalo Digital to be in focus on Tuesday; here's why
-  Paisalo Digital redeemed 10 NCDs from Series PDL-09-2023, seven years ahead of maturity
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-sbi-life-owned-nbfc-stock-paisalo-digital-to-be-in-focus-on-tuesday-heres-why-11769247950007.html
+- In a first, security forces will use AI-enabled smart glasses on Republic Day 2026 - How does this work?
+  Delhi Police will deploy AI-enabled smart glasses for the first time during the 77th Republic Day Parade 2026. The move is aimed at enhancing threat detection with facial recognition and thermal
+  🔗 https://www.livemint.com/technology/tech-news/in-a-first-security-forces-will-use-ai-enabled-smart-glasses-on-republic-day-2026-how-does-this-work-11769318631880.html
 
-- Kotak Mahindra Bank Q3 Results: Net profit rises 4% as NII and operating income improve
-  Kotak Mahindra Bank reported a consolidated net profit of  ₹3,446 crore for Q3 FY26, a 4.3% increase from last year. Operating profit
-  🔗 https://www.livemint.com/market/stock-market-news/kotak-mahindra-bank-q3-results-net-profit-rises-4-as-nii-and-operating-income-improve-11769253040951.html
+- Is Wikipedia dead? OpenAI's GPT-5.2 turns to Elon Musk's Grokipedia for real-time answers
+  OpenAI's GPT-5.2 was caught turning to Elon Musk's Grokipedia for real time answers. The news comes at a time when Musk and Open
+  🔗 https://www.livemint.com/technology/tech-news/is-wikipedia-dead-openais-gpt-5-2-turns-to-elon-musks-grokipedia-for-real-time-answers-11769306121956.html
 
-- Why no shareholder wants to sell the PhonePe stock?
-  PhonePe's upcoming IPO in 2026, structured as an Offer for Sale, sees Walmart diluting 9% of its stake. Most shareholders, including founders, are retaining their investments
-  🔗 https://www.livemint.com/market/stock-market-news/phonepe-ipo-why-no-shareholder-wants-to-sell-the-phonepe-stock-11769246541916.html
+- Redmi Note 15 Pro launching in India on 29 October: Pre-order details, specs, expected price and more
+  Xiaomi's Redmi Note 15 Pro+ will launch in India on January 29, with pre-bookings now open on Amazon. The device features a 6.83-
+  🔗 https://www.livemint.com/technology/gadgets/redmi-note-15-pro-launching-in-india-on-29-october-pre-order-details-specs-expected-price-and-more-11769244176000.html
 
 - Login credentials of 149 mn accounts including Gmail, Facebook, Netflix leaked: Report
    Login credentials of 149 mn accounts
@@ -88,177 +80,105 @@
   Singapore to invest over $779
   🔗 https://www.livemint.com/technology/singapore-to-invest-over-779-million-in-public-ai-research-through-2030-11769256705823.html
 
-- Massive breach exposes 149 million Instagram, Gmail, OnlyFans passwords: How to stay safe?
-  A cybersecurity breach has exposed 149 million login credentials from various online services. The data was left unsecured and accessible via an
-  🔗 https://www.livemint.com/technology/tech-news/massive-breach-exposes-149-million-instagram-gmail-onlyfans-passwords-how-to-stay-safe-11769238285603.html
-
-- No more AI friends: Meta cuts off teen access to characters on Instagram and Facebook
-   Meta is temporarily restricting teens' access to its AI characters. The ban would apply to users who have teen birthdays.
-  🔗 https://www.livemint.com/technology/tech-news/no-more-ai-friends-meta-cuts-off-teen-access-to-characters-on-instagram-and-facebook-11769233727767.html
-
-- Your App Store search is about to change: Apple confirms multiple ad slots are coming to iPhone in March
-  Apple will increase ads on the App Store starting March, first in the UK and Japan, followed by other markets. This move aims to enhance developer opportunities and generate additional revenue.
-  🔗 https://www.livemint.com/technology/tech-news/your-app-store-search-is-about-to-change-apple-confirms-multiple-ad-slots-are-coming-to-iphone-in-march-11769219261987.html
-
 - S&P 500 ends Friday little changed, but posts second straight losing week amid wild trading - CNBC
   S&amp;P 500 ends Friday little changed, but posts
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5FRE5YQnlMTk9SeThNTFNBenp4LTR2bjdTbjVrcGlxV0ZGUkpyOXdlS2lYZERkWkJHVUVRYkxiU1N2ZU9DRXRuVWpycDcxQm5Pc1l5dS1ldmJrNjhHczUySmZxRDBTN2lENEVUd2FIVUFBc0k2YmtZ0gF8QVVfeXFMTW03cV9xdzg0LUp3Q1F0THlXQlNlWllQelpKQ1NhOXRDUXR5bHBYcVE3RXJsVmJ3LUhxSHJXZktWSEpuVUJpMVIxX2dvejNpMDNweXdzVmFPTGp6VTVmclgxQWljWS1wazU5LVhjODlvNHd0VVhKd3JBWU5BVQ?oc=5
 
-- Bloodbath on D-Street! Investors lose over Rs 16 lakh crore this week as Nifty, Sensex crash; market down - Times of India
-  Investors lose over Rs 16 lakh crore this week as Nifty, Sensex crash;
-  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxQUEZ1amdLT1o5N3RmbVJqSGRRMTdZbXBaaUw1eE1XZ0FSNDhQZUVrck4tS2tkTnBCV1V3TUhDQnZyRXNpNlRNZXNEaFU4UTF0SVFwUVUxc01GMWFGUVVMWHpKZ0lsTnRnZnNRQ3k4Q1B0Vk1DZzYzUklLZTRDOVllOEF1blAzNFJQYzBqZjBTNnJ5RDV3QVI0cFFrX3ZOSE5UWENpMGMtcTM3dE1MSmlNbXJpcTQxM2R4alZkd25XcFBWcktPMy12QktZSk00SVprQm1xQUcwR0JHZW9nZTdnaThXSnFvZUNKRDE3MnJ6UUZDYkY2MWV5NWVfTlRmYTV1djBHVmRiNkYxLWc2TnpvVWxnTGlOMzVudFhHRlgySS03YUpGQ0FhbktkTXcyb2VqUkNia9IBugJBVV95cUxPajBpbkhJV3ZmRHFmLUQxbkkwcGJRT2NMUUIwWDVyRnJZZ0NLSTVtQkJmSmdMbmVoT3YxM2ZKRGh4MGkzRUJLLU1aMFVkWlF2X1RXMDJrUXgzQXRWX0JMekNhM3J3N2VraXJHVWF0TGFNblRyMjI0Vk0tOThoOWhJRzAzTnhOWFhJWGVHLWE2Z0VMLWx6LU5Tc3lxWXFuUHRNZFdhSHNwOThNQmZ5WTZMUDc5VG01VmRoanlzQlcyazNwTEhOLTh1alRDZncwLUtoVFZNTVljYTBjRUdFdW1CNlktbjRLVDVnb0RZSmZpX3BqalpFbHQzUXg5N3RIcFkxbEUzUTE5Q1NGeDdDdWUteG4tOUxRVllNQ29nQzk2NjFfN0RjaDdSSnYxRGQxUFhUVUZHbkh2V1JmZw?oc=5
-
-- Opinion | The Dangerous Power of Prediction Markets - The New York Times
-  The New York Times published an opinion piece on
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNd200NHA4WnhKSmtiZVAzVldGTDFwVE1yN1FxaDJZVENyNzNVSmtJSG1DUE9nYk5MNVNBQUdQdEZ5MVRoNXcyNDV6WkZoOG5XaVRyelk5ZDdpaXZQQWtBeDgtcmlqV05KRXhBSHZRN1ZqcVRJb1dWc2xzUkU2OERYZUhxVkc0VGduMUNwaw?oc=5
-
-- Emerging Markets Are on Fire as Traders Look Away from US - Bloomberg.com
-  Emerging Markets Are on Fire as Traders
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlB1TmN5eXI0Nzh2TzdQOFY5STFuVHJFNVo5R19rM0dFZTFMaWdVcjNON2tycmNkN1J3eWZiOC1EYnRXNThaVzFiNzd5aGRBM19FbXlJREpXX1hnSDNDYUwtbFo1ZFNUUkNVRWRMaHhrYVhTbXRmU3NNdjJWSHEzdnpZMHdPSG9xWGZaMWQ1NGF1Yk5ZY045cjBPTnZ1RjdKcV9TbDRLSXZtVEVtaS1iUw?oc=5
+- Stock Market News for Jan. 23, 2026: Dow Drops; Intel Stock Slides - The Wall Street Journal
+  Stock Market News for Jan. 23, 2026: Dow Drops
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNcU1CQ081cnlFeEY1c1lDUzFnTHVmdVNjUmJldEY5TXhrbUMwSkhYa1VJVHNOS0YxYXZzVGhJLWxveXlObENnci0yanRoUkJ5X2dSVlNUdExRR1hfeGU1dHlWNmxDNGFJZmZBcWRNVmVac2ZEOXV6RWFyYTBpSWlzTUdvRzNhdFE?oc=5
 
 - Markets News, Jan. 23, 2026: Major Indexes Post Second Straight Losing Week After Mixed Session; Intel Stock Plunges; Gold Nears $5,000 - Investopedia
   Markets News, Jan. 23, 2026: Major Indexes Post Second Straight Losing
   🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE8wbnhLOER4bTFpUnFueTMwdFNCQjV1OXBsdGJCa1lfWERMVEpjY1lnMUVJVFU3WTZFWmV1RG5QNVdVZWRjQkZ1ZzUxemZBWkRXOGlaYlg0RkpWTzdCM0pZempRVkRudUlZSE9iSE83UQ?oc=5
 
+- Opinion | The Dangerous Power of Prediction Markets - The New York Times
+  The New York Times published an opinion piece on
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNd200NHA4WnhKSmtiZVAzVldGTDFwVE1yN1FxaDJZVENyNzNVSmtJSG1DUE9nYk5MNVNBQUdQdEZ5MVRoNXcyNDV6WkZoOG5XaVRyelk5ZDdpaXZQQWtBeDgtcmlqV05KRXhBSHZRN1ZqcVRJb1dWc2xzUkU2OERYZUhxVkc0VGduMUNwaw?oc=5
+
+- Union Budget 2026: Why households and markets are watching closely - The Times of India
+  The Times of India is a leading newspaper in India.
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaUdWazFXWEt5dWhwSkg4dlVLVHJfdWJPT1ZMVERjcncxNDNlU1hGOTFqUGJYblE1VDItYTJaTUhHVDRHRkFLV2ZKak5fSWdidkgzeEdRZHBCREJXdWRQb3NQWF9heU9uUnBwdGhJMkx5NnBrQTh3azJzM3FZQXlyYnFvRWRLb2g4cG95V28xU0FwcnpaWXEySWpQWGlXM0MxMGViUkhxanpGUHV0SERjYmRYNWgxcFd3bjJoYzdRTzB3OG9JcTV0MzB3em9kbGNmM25ENDdUYldIY2lFOFlYd1dVc3lod9IB6wFBVV95cUxPZmlYOVhkc2tIUVJrUDdvZlByLXZuRFVRcVpsLWl6VWI5N2VUYU5PMjdtTmNvX1RRSkNWX2NPalhCQm1UTk93VTZrOThjNVYybnExR2JiWmViZnU5bzFMQ3ROYmUxOTY0WmIwVVFpSjlJbGlXVUJJRUN1YmRoSW1JY1psSnhHV2lsY2xZbmFMeEZ6Q3BOWW1aRm4xLVJ1SWdQdXNSSjVLc0FTTVBWUDFQd0NqeVJmbzFmclBLMEloTWJWenNSdXNkWVhJbE4zNlMyNWRWRXRwRExxczU3dHVWX2tGckdJMXhvcFhZ?oc=5
+
+- Axis Bank Q3 Preview: PAT may fall 8% YoY with margins under pressure; loan growth to recover
+  Brokerages see NII rising about 4% year-on-year, while PAT is likely to decline around 8%. Loan growth is seen rebounding to about 14% YoY, with deposits growing faster than industry.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q3-preview-pat-may-fall-8-yoy-with-margins-under-pressure-loan-growth-to-recover/articleshow/127453796.cms
+
+- 14 penny stocks crash up to 80% in three months. Check full list here
+  Low liquidity, high volatility and limited transparency make them vulnerable
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/14-penny-stocks-crash-up-to-80-in-three-months-check-full-list-here/slideshow/127451697.cms
+
+- 8 midcap stocks that could deliver over 50% upside. Do you own any?
+   Trendlyne data shows that a number of midcap stocks are poised to deliver strong returns over
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/6-midcap-stocks-that-could-deliver-over-50-upside-do-you-own-any/slideshow/127450931.cms
+
+- US Fed set to keep rates steady as officials defend independence
+  The US Federal Reserve is widely expected to keep interest rates unchanged. The Fed meets eight times a year to consider interest rate levels. Michael Pearce of Oxford Economics said the dilemma it faces has eased.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-fed-set-to-keep-rates-steady-as-officials-defend-independence/articleshow/127450286.cms
+
 - Mala Gaonkar’s hedge fund assets hit $6 billion in three years
   Mala Gaonkar's SurgoCap Partners experienced a rapid ascent, tripling its assets to $6 billion within three years of its 2023 launch. This marked one of the fastest-growing debuts in hedge fund history.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/mala-gaonkars-hedge-fund-assets-hit-6-billion-in-three-years/articleshow/127392529.cms
 
-- FPIs dump Indian equities worth Rs 33,598 cr in Jan so far. Is the sentiment set to worsen further?
-  FPIs continued their selling spree in the week ended January 23. The sustained outflows have wiped off Rs 16 trillion in market capitalisation.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpis-dump-indian-equities-worth-rs-33598-cr-in-jan-so-far-is-the-sentiment-set-to-worsen-further/articleshow/127390879.cms
-
-- Dalal Street Week Ahead: Volatility to stay elevated, traders urged to stay nimble
-   Markets experienced a sharp corrective move, with Nifty ending lower after a volatile week. India VIX surged, signaling increased risk perception. Despite a potential technical rebound due to oversold conditions, volatility is expected
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-volatility-to-stay-elevated-traders-urged-to-stay-nimble/articleshow/127390536.cms
-
-- Adani Group clarifies on US SEC summons report; says no allegations against company
-  Adani Group companies clarify via stock exchange filings that they are not parties to any US SEC legal proceedings. The group reiterated no allegations are against the company.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-group-clarifies-on-us-sec-summons-report-says-no-allegations-against-company/articleshow/127390361.cms
-
-- Govt of Singapore’s India portfolio: 11 stocks rally up to 90% in 10 months, new Q3 pick unveiled
-  Despite decline in overall portfolio value during FY26, stock-level performance remains encouraging. More than half of the holdings delivered positive returns, with 11 stocks surging between 25% and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/govt-of-singapores-india-portfolio-11-stocks-rally-up-to-90-in-10-months-new-q3-pick-unveiled/slideshow/127387631.cms
+- US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have collapsed' | India News - Hindustan Times
+  US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTXJfeldGNzU4MDY5LUFIbWs5TlNzWnJRc3Z2RERRSVl3VzEtTl9yTW5CQ1Z0VTg5Ujk0VEJodTVTZWpFV25OMG1SWnJZZk1wQ1U5VFNGQS1Gb085ZFhfVFZnNF95UGxOaHRMT09RS0RrTkNwSFFKcmNsRE1UYWtfUkxkd1cxSGo4UWxMWTMzZkQwNUphdzd5bTJaLUtnSWhEbW1COGhOdDB1aVJVTWdmQ1J5d001c3Jmc1Y2NmNPRFdMeVJBOE9QLWJDa2ZzZWFTVllUMmZIT2VVa0ZJcEVpVW1SWGFuSTJyR1pCUEZhb3VVUHhhOTBtZGtn0gH_AUFVX3lxTE5RYXNxb1dPTlcyeE9pZkJTX0wyNVFUb0VVT2FGaXE1U1dfLVBsWW1CbXhqYkZzeDRmVDBsUG9zc3hrUllEMHBBdUNHX0dON0l5Rk8xSXliTEZCbldrQ3otNmFDWnplTkZ5TmxrR3FrRUp3TmxrMXRSTUlUdDBOSE5jbEFIUHJxTG9xS1VyM1EwZ0MzZ0tGcEczeWVzLVV1VzRpbk9fQnM4WF9RN29SeDV4VVl3aXFSdTZ3WksyVmVUNkRRcVR5UTVyWENQU3lhUG53dTdPMkhiUXZTbk1RQktQODcxbVQ5eHdUN3oyU3ZqWjIwbFdHcVBoRlVNbVFVTQ?oc=5
 
 - "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
   "Path To Take Them Off": Trump Aide Hints
   🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
 
-- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
-  India vs Pakistan bilateral series possible? BCCI reveals
+- Bessent signals easing of Russian oil tariffs on New Delhi while frowning on EU -India FTA - The Times of India
+  The Times of India reports that Russia is easing its oil tariffs on New Delhi.
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNc2xGd0xIcnFhbEJxWHZsYTctTkFNTnpDS1hYeVpjbWMxZnU0ekRGUE9McGpqdTB2ZjdmdFFYX3NSSmtwalV6U2NBT1FRenFxSUlPMENYOE1oMm5RMHMxc1plZExzMFJXVHNVWUg4S2l0NjlxMEk4OTdKRE5DX29qYzltblZSTFpESEFKNnEwQ2tGbktZX3A4QlJEcVlVSkpoWkNXLTdvODYyNzg2MWhSLTlCZ01Td3JzT3c0SkRLUF9WX1ZHZVJ3QkxRVFloeWRnVjZ5NnhTWDAtcnJHNjI5bkxhbUZqSkZ1ZmRpUkhJTnFoS3VrMGt5NUFaQi1IR0pvMUlTS3RRcmZGUHQ3a2xZLdIBlgJBVV95cUxOZnZWZ0xnMXBpYXFLYnVhanpCUlRWNlhiZ2hqQ2hjMHNzNDRxN3RuTk5MaWJzUUh2TDhzdWRqWU5oMThCZDB1emRkUnVidHJQWTc5SHJ4cmF1N2x3UVdDT0d6WFdEUU5Da2hfNUtCdDk3QmQzQnEySXdQOUZ4cHZzUTEzVTZHWTFTYWozVDltNXFId29oYUJXcFVYWmxybUx1MjJla3d3U1YtN2EzM1VWSDJyQVZ2SkFnODZrVU5yQmxCMk00czFsZTJXS1ZUeWU4ZGNPdWZZSXdGUE10Q1c0dm9rOFQzNDhZLUE4TkROTzF2V2QxMzRiVV9QWmZyWHVPWkFMVVJXcFNTRk03VjFmRTFkYWdYZw?oc=5
+
+- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - The Times of India
+  India vs Pakistan bilateral series possible? BCCI reveals ultimate
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
 
-- Can India eliminate malaria by 2030? | Explained - The Hindu
-  Can India eliminate malaria by 2030?
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLXZGbVdZdWwzOXgyNnVNTnhqc2pmV2gzcl9odV95OGxscEZ0WkZJUWFQb0RFdHFvMlRkS0NVZkNDV2JaVVNZOS0wRHRMTUJ1V1VVVm42cUNPMmNCSDVNalJmTnZ1MXZHa3VCZlh4SDd6b1ItbGpIVXAzRkpNbUlkOGVPSEtacFRmRDZkX21yQkNKbThyRm95ZGZMQktVU09FWmFpMXpkYW9mQdIBsAFBVV95cUxQRVpJb2ltM0pHUm1mTE9za1owYmlSTzJhd3d2TW9NSXFfUGJOaVQ2REk2WkRQT1RqQ1VVZExjUG1kbFJJWHRqZTZFd3NGbFlTSV93OHFDNndOQlhCOHQtN3VKUmUyVl8tcVp6RFQ2OEM5c3Zpb2NfYVNyTzZpMG1NUl8wLXNhOFZ6ODN2YkliUHVfamRqSTZjMm1kTThYaVBHVXVPSHR0TVlXU3NqS2JZaw?oc=5
+- 15-km jam, power and water cut: Manali reels under snow and tourist surge | India News - Hindustan Times
+  15-km jam, power and water cut: Manali reels under
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa3VQaUNfT3hZSC1ZZ0VTSlBDLXU3SnJpeWI5d3hzOEdGQlJValdLaE11NWQ1OG5qbHc2OWhOWHd5VS1hTkhFb0hrdm55T056bkpYLXJTX1dKYjN2emN6RV85cklYaTFoSUpZeGZhd1EwSElqckl5NmthcXdzeUtxaUxNWGlaeVFCQkJxbkxEOHNRNHBfaGJvN3IwOGZMeWxOaE9MSHlpZDVPM3p1ZFM5bDg5dmpxWDNtNjRzbmtaTnRzWTIyNnpfMVZ0WlRsLVNPV2M4ZUtZZUjSAd4BQVVfeXFMTkdyMFB0OVN2d3B5VGtHcVhsd1dIaW5INjdJYVBIb1RtNjZhY3h5ZG9TVlVtcGZTb2lEVW1kNDZzTmFXWHMyZzNUMlAtWGo3Tkdfa2R0c3MwdWh6SnEtV1ZxYnp5eE8zS09ieU9fS3dZZVJsOElMSjYweG5VYzJLcjNyTk5PQWhvTEFLQnF0dGd0WXNyUml5UjJLM3lYbDZKQWVTeGM1aVZxRXV2LW1fSFVxWUp2b3B6YmlZdXVqN2tYUGpnZXpPQ0VqYzM2NDFQUVpxVXFDVlotbUs3VnZ3?oc=5
 
-- FTA: India and EU set for 'mother of all deals' as Trump's tariffs bite - BBC
-  The EU and India are set for 'mother of all deals
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsRXdzWUxTVGpUMkJnc0wxdFFFSllMM1AxbFJlU0dhamVmQm9Bb3dzVFB1Y1dqX21xYVo1Mkg5ZVdVQWIyMzhoLXprYk9ZLW5xMXN3RndGdU9yUdIBX0FVX3lxTE9lMFRfQ3JhUXlUMG9ESm5FbnppcTVQWTB0MjFvUXdZa1BRaTlaT0RKOWs4d1hWTm95bkVvM3VaRy14TGdsc0szRUNjUzdqenNoNjZLTGJaZjM0SzktOHBN?oc=5
-
-- EU refused to impose tariff on India due to ‘big trade deal’, Scott Bessent says | India News - Hindustan Times
-  EU refused to impose tariff on India due to ‘big trade deal’,
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEtyTURIV3NUZU00dU9DVm1QOUhGVWdRNzhJdmllckFXempVS1lXNExOQ09vZnRuVFFING9meXB5VWkzWnV6X2trUnNjelRkcXJzRUF6WG84NkN0Nlg3SmNpZThJdnlLX09rM0lSR2tpQ0JMbnBtVFJqYVQ3WjkxaFJya05LazJHVFRVZ2s3cm1Bbk5ncXBGZ2ZGVWU4Y0RXZVRNdjhUVHZ4dUdsNXYyNFBGUW4tWVZBTjYzOFdaNG8tNU1ZTWhLWk5EZHNJTEt5dkUwMXVlTdIB3AFBVV95cUxNSmVBVnBaX2RYU3dYZjQ4Um1ESXdzTWhoUEY1bUd3UjlrampBaGdaUlZnekNXSS0ySXBQdVlhZi1pdkxXaHdRdGhPN0NSa2xuOUowNWFQSWhESnB6TUhMbGhjU2tLUlh4WWRxLVg4ZnlOVTR5UWFObFFOeTJhczB1VURFVE10NHN3NG9BMlVuWmNxNnZLb2E4dnhYUG5OV1F6OThQbVZTcWotUkxMV09qSmtnQVRQR2I5Z3ROUmowaEU3c1NEVldXeDVmanQ3VmZVTEZJSHpVVnh6cFNa?oc=5
+- US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have collapsed' | India News - Hindustan Times
+  US may cut India tariffs by 25%, hints Trump aide, says 'Russian oil purchases have
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTXJfeldGNzU4MDY5LUFIbWs5TlNzWnJRc3Z2RERRSVl3VzEtTl9yTW5CQ1Z0VTg5Ujk0VEJodTVTZWpFV25OMG1SWnJZZk1wQ1U5VFNGQS1Gb085ZFhfVFZnNF95UGxOaHRMT09RS0RrTkNwSFFKcmNsRE1UYWtfUkxkd1cxSGo4UWxMWTMzZkQwNUphdzd5bTJaLUtnSWhEbW1COGhOdDB1aVJVTWdmQ1J5d001c3Jmc1Y2NmNPRFdMeVJBOE9QLWJDa2ZzZWFTVllUMmZIT2VVa0ZJcEVpVW1SWGFuSTJyR1pCUEZhb3VVUHhhOTBtZGtn0gH_AUFVX3lxTE5RYXNxb1dPTlcyeE9pZkJTX0wyNVFUb0VVT2FGaXE1U1dfLVBsWW1CbXhqYkZzeDRmVDBsUG9zc3hrUllEMHBBdUNHX0dON0l5Rk8xSXliTEZCbldrQ3otNmFDWnplTkZ5TmxrR3FrRUp3TmxrMXRSTUlUdDBOSE5jbEFIUHJxTG9xS1VyM1EwZ0MzZ0tGcEczeWVzLVV1VzRpbk9fQnM4WF9RN29SeDV4VVl3aXFSdTZ3WksyVmVUNkRRcVR5UTVyWENQU3lhUG53dTdPMkhiUXZTbk1RQktQODcxbVQ5eHdUN3oyU3ZqWjIwbFdHcVBoRlVNbVFVTQ?oc=5
 
 - "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
   "Path To Take Them Off": Trump Aide Hints
   🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
 
-- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
-  India vs Pakistan bilateral series possible? BCCI reveals
+- Bessent signals easing of Russian oil tariffs on New Delhi while frowning on EU -India FTA - The Times of India
+  The Times of India reports that Russia is easing its oil tariffs on New Delhi.
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNc2xGd0xIcnFhbEJxWHZsYTctTkFNTnpDS1hYeVpjbWMxZnU0ekRGUE9McGpqdTB2ZjdmdFFYX3NSSmtwalV6U2NBT1FRenFxSUlPMENYOE1oMm5RMHMxc1plZExzMFJXVHNVWUg4S2l0NjlxMEk4OTdKRE5DX29qYzltblZSTFpESEFKNnEwQ2tGbktZX3A4QlJEcVlVSkpoWkNXLTdvODYyNzg2MWhSLTlCZ01Td3JzT3c0SkRLUF9WX1ZHZVJ3QkxRVFloeWRnVjZ5NnhTWDAtcnJHNjI5bkxhbUZqSkZ1ZmRpUkhJTnFoS3VrMGt5NUFaQi1IR0pvMUlTS3RRcmZGUHQ3a2xZLdIBlgJBVV95cUxOZnZWZ0xnMXBpYXFLYnVhanpCUlRWNlhiZ2hqQ2hjMHNzNDRxN3RuTk5MaWJzUUh2TDhzdWRqWU5oMThCZDB1emRkUnVidHJQWTc5SHJ4cmF1N2x3UVdDT0d6WFdEUU5Da2hfNUtCdDk3QmQzQnEySXdQOUZ4cHZzUTEzVTZHWTFTYWozVDltNXFId29oYUJXcFVYWmxybUx1MjJla3d3U1YtN2EzM1VWSDJyQVZ2SkFnODZrVU5yQmxCMk00czFsZTJXS1ZUeWU4ZGNPdWZZSXdGUE10Q1c0dm9rOFQzNDhZLUE4TkROTzF2V2QxMzRiVV9QWmZyWHVPWkFMVVJXcFNTRk03VjFmRTFkYWdYZw?oc=5
+
+- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - The Times of India
+  India vs Pakistan bilateral series possible? BCCI reveals ultimate
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
 
-- Can India eliminate malaria by 2030? | Explained - The Hindu
-  Can India eliminate malaria by 2030?
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLXZGbVdZdWwzOXgyNnVNTnhqc2pmV2gzcl9odV95OGxscEZ0WkZJUWFQb0RFdHFvMlRkS0NVZkNDV2JaVVNZOS0wRHRMTUJ1V1VVVm42cUNPMmNCSDVNalJmTnZ1MXZHa3VCZlh4SDd6b1ItbGpIVXAzRkpNbUlkOGVPSEtacFRmRDZkX21yQkNKbThyRm95ZGZMQktVU09FWmFpMXpkYW9mQdIBsAFBVV95cUxQRVpJb2ltM0pHUm1mTE9za1owYmlSTzJhd3d2TW9NSXFfUGJOaVQ2REk2WkRQT1RqQ1VVZExjUG1kbFJJWHRqZTZFd3NGbFlTSV93OHFDNndOQlhCOHQtN3VKUmUyVl8tcVp6RFQ2OEM5c3Zpb2NfYVNyTzZpMG1NUl8wLXNhOFZ6ODN2YkliUHVfamRqSTZjMm1kTThYaVBHVXVPSHR0TVlXU3NqS2JZaw?oc=5
+- 15-km jam, power and water cut: Manali reels under snow and tourist surge | India News - Hindustan Times
+  15-km jam, power and water cut: Manali reels under
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa3VQaUNfT3hZSC1ZZ0VTSlBDLXU3SnJpeWI5d3hzOEdGQlJValdLaE11NWQ1OG5qbHc2OWhOWHd5VS1hTkhFb0hrdm55T056bkpYLXJTX1dKYjN2emN6RV85cklYaTFoSUpZeGZhd1EwSElqckl5NmthcXdzeUtxaUxNWGlaeVFCQkJxbkxEOHNRNHBfaGJvN3IwOGZMeWxOaE9MSHlpZDVPM3p1ZFM5bDg5dmpxWDNtNjRzbmtaTnRzWTIyNnpfMVZ0WlRsLVNPV2M4ZUtZZUjSAd4BQVVfeXFMTkdyMFB0OVN2d3B5VGtHcVhsd1dIaW5INjdJYVBIb1RtNjZhY3h5ZG9TVlVtcGZTb2lEVW1kNDZzTmFXWHMyZzNUMlAtWGo3Tkdfa2R0c3MwdWh6SnEtV1ZxYnp5eE8zS09ieU9fS3dZZVJsOElMSjYweG5VYzJLcjNyTk5PQWhvTEFLQnF0dGd0WXNyUml5UjJLM3lYbDZKQWVTeGM1aVZxRXV2LW1fSFVxWUp2b3B6YmlZdXVqN2tYUGpnZXpPQ0VqYzM2NDFQUVpxVXFDVlotbUs3VnZ3?oc=5
 
-- FTA: India and EU set for 'mother of all deals' as Trump's tariffs bite - BBC
-  The EU and India are set for 'mother of all deals
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsRXdzWUxTVGpUMkJnc0wxdFFFSllMM1AxbFJlU0dhamVmQm9Bb3dzVFB1Y1dqX21xYVo1Mkg5ZVdVQWIyMzhoLXprYk9ZLW5xMXN3RndGdU9yUdIBX0FVX3lxTE9lMFRfQ3JhUXlUMG9ESm5FbnppcTVQWTB0MjFvUXdZa1BRaTlaT0RKOWs4d1hWTm95bkVvM3VaRy14TGdsc0szRUNjUzdqenNoNjZLTGJaZjM0SzktOHBN?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- EU refused to impose tariff on India due to ‘big trade deal’, Scott Bessent says | India News - Hindustan Times
-  EU refused to impose tariff on India due to ‘big trade deal’,
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEtyTURIV3NUZU00dU9DVm1QOUhGVWdRNzhJdmllckFXempVS1lXNExOQ09vZnRuVFFING9meXB5VWkzWnV6X2trUnNjelRkcXJzRUF6WG84NkN0Nlg3SmNpZThJdnlLX09rM0lSR2tpQ0JMbnBtVFJqYVQ3WjkxaFJya05LazJHVFRVZ2s3cm1Bbk5ncXBGZ2ZGVWU4Y0RXZVRNdjhUVHZ4dUdsNXYyNFBGUW4tWVZBTjYzOFdaNG8tNU1ZTWhLWk5EZHNJTEt5dkUwMXVlTdIB3AFBVV95cUxNSmVBVnBaX2RYU3dYZjQ4Um1ESXdzTWhoUEY1bUd3UjlrampBaGdaUlZnekNXSS0ySXBQdVlhZi1pdkxXaHdRdGhPN0NSa2xuOUowNWFQSWhESnB6TUhMbGhjU2tLUlh4WWRxLVg4ZnlOVTR5UWFObFFOeTJhczB1VURFVE10NHN3NG9BMlVuWmNxNnZLb2E4dnhYUG5OV1F6OThQbVZTcWotUkxMV09qSmtnQVRQR2I5Z3ROUmowaEU3c1NEVldXeDVmanQ3VmZVTEZJSHpVVnh6cFNa?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
-  "Path To Take Them Off": Trump Aide Hints
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
-  India vs Pakistan bilateral series possible? BCCI reveals
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Can India eliminate malaria by 2030? | Explained - The Hindu
-  Can India eliminate malaria by 2030?
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLXZGbVdZdWwzOXgyNnVNTnhqc2pmV2gzcl9odV95OGxscEZ0WkZJUWFQb0RFdHFvMlRkS0NVZkNDV2JaVVNZOS0wRHRMTUJ1V1VVVm42cUNPMmNCSDVNalJmTnZ1MXZHa3VCZlh4SDd6b1ItbGpIVXAzRkpNbUlkOGVPSEtacFRmRDZkX21yQkNKbThyRm95ZGZMQktVU09FWmFpMXpkYW9mQdIBsAFBVV95cUxQRVpJb2ltM0pHUm1mTE9za1owYmlSTzJhd3d2TW9NSXFfUGJOaVQ2REk2WkRQT1RqQ1VVZExjUG1kbFJJWHRqZTZFd3NGbFlTSV93OHFDNndOQlhCOHQtN3VKUmUyVl8tcVp6RFQ2OEM5c3Zpb2NfYVNyTzZpMG1NUl8wLXNhOFZ6ODN2YkliUHVfamRqSTZjMm1kTThYaVBHVXVPSHR0TVlXU3NqS2JZaw?oc=5
-
-- FTA: India and EU set for 'mother of all deals' as Trump's tariffs bite - BBC
-  The EU and India are set for 'mother of all deals
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsRXdzWUxTVGpUMkJnc0wxdFFFSllMM1AxbFJlU0dhamVmQm9Bb3dzVFB1Y1dqX21xYVo1Mkg5ZVdVQWIyMzhoLXprYk9ZLW5xMXN3RndGdU9yUdIBX0FVX3lxTE9lMFRfQ3JhUXlUMG9ESm5FbnppcTVQWTB0MjFvUXdZa1BRaTlaT0RKOWs4d1hWTm95bkVvM3VaRy14TGdsc0szRUNjUzdqenNoNjZLTGJaZjM0SzktOHBN?oc=5
-
-- EU refused to impose tariff on India due to ‘big trade deal’, Scott Bessent says | India News - Hindustan Times
-  EU refused to impose tariff on India due to ‘big trade deal’,
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEtyTURIV3NUZU00dU9DVm1QOUhGVWdRNzhJdmllckFXempVS1lXNExOQ09vZnRuVFFING9meXB5VWkzWnV6X2trUnNjelRkcXJzRUF6WG84NkN0Nlg3SmNpZThJdnlLX09rM0lSR2tpQ0JMbnBtVFJqYVQ3WjkxaFJya05LazJHVFRVZ2s3cm1Bbk5ncXBGZ2ZGVWU4Y0RXZVRNdjhUVHZ4dUdsNXYyNFBGUW4tWVZBTjYzOFdaNG8tNU1ZTWhLWk5EZHNJTEt5dkUwMXVlTdIB3AFBVV95cUxNSmVBVnBaX2RYU3dYZjQ4Um1ESXdzTWhoUEY1bUd3UjlrampBaGdaUlZnekNXSS0ySXBQdVlhZi1pdkxXaHdRdGhPN0NSa2xuOUowNWFQSWhESnB6TUhMbGhjU2tLUlh4WWRxLVg4ZnlOVTR5UWFObFFOeTJhczB1VURFVE10NHN3NG9BMlVuWmNxNnZLb2E4dnhYUG5OV1F6OThQbVZTcWotUkxMV09qSmtnQVRQR2I5Z3ROUmowaEU3c1NEVldXeDVmanQ3VmZVTEZJSHpVVnh6cFNa?oc=5
-
-- "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
-  "Path To Take Them Off": Trump Aide Hints
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
-
-- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
-  India vs Pakistan bilateral series possible? BCCI reveals
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
-
-- Can India eliminate malaria by 2030? | Explained - The Hindu
-  Can India eliminate malaria by 2030?
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLXZGbVdZdWwzOXgyNnVNTnhqc2pmV2gzcl9odV95OGxscEZ0WkZJUWFQb0RFdHFvMlRkS0NVZkNDV2JaVVNZOS0wRHRMTUJ1V1VVVm42cUNPMmNCSDVNalJmTnZ1MXZHa3VCZlh4SDd6b1ItbGpIVXAzRkpNbUlkOGVPSEtacFRmRDZkX21yQkNKbThyRm95ZGZMQktVU09FWmFpMXpkYW9mQdIBsAFBVV95cUxQRVpJb2ltM0pHUm1mTE9za1owYmlSTzJhd3d2TW9NSXFfUGJOaVQ2REk2WkRQT1RqQ1VVZExjUG1kbFJJWHRqZTZFd3NGbFlTSV93OHFDNndOQlhCOHQtN3VKUmUyVl8tcVp6RFQ2OEM5c3Zpb2NfYVNyTzZpMG1NUl8wLXNhOFZ6ODN2YkliUHVfamRqSTZjMm1kTThYaVBHVXVPSHR0TVlXU3NqS2JZaw?oc=5
-
-- FTA: India and EU set for 'mother of all deals' as Trump's tariffs bite - BBC
-  The EU and India are set for 'mother of all deals
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsRXdzWUxTVGpUMkJnc0wxdFFFSllMM1AxbFJlU0dhamVmQm9Bb3dzVFB1Y1dqX21xYVo1Mkg5ZVdVQWIyMzhoLXprYk9ZLW5xMXN3RndGdU9yUdIBX0FVX3lxTE9lMFRfQ3JhUXlUMG9ESm5FbnppcTVQWTB0MjFvUXdZa1BRaTlaT0RKOWs4d1hWTm95bkVvM3VaRy14TGdsc0szRUNjUzdqenNoNjZLTGJaZjM0SzktOHBN?oc=5
-
-- EU refused to impose tariff on India due to ‘big trade deal’, Scott Bessent says | India News - Hindustan Times
-  EU refused to impose tariff on India due to ‘big trade deal’,
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEtyTURIV3NUZU00dU9DVm1QOUhGVWdRNzhJdmllckFXempVS1lXNExOQ09vZnRuVFFING9meXB5VWkzWnV6X2trUnNjelRkcXJzRUF6WG84NkN0Nlg3SmNpZThJdnlLX09rM0lSR2tpQ0JMbnBtVFJqYVQ3WjkxaFJya05LazJHVFRVZ2s3cm1Bbk5ncXBGZ2ZGVWU4Y0RXZVRNdjhUVHZ4dUdsNXYyNFBGUW4tWVZBTjYzOFdaNG8tNU1ZTWhLWk5EZHNJTEt5dkUwMXVlTdIB3AFBVV95cUxNSmVBVnBaX2RYU3dYZjQ4Um1ESXdzTWhoUEY1bUd3UjlrampBaGdaUlZnekNXSS0ySXBQdVlhZi1pdkxXaHdRdGhPN0NSa2xuOUowNWFQSWhESnB6TUhMbGhjU2tLUlh4WWRxLVg4ZnlOVTR5UWFObFFOeTJhczB1VURFVE10NHN3NG9BMlVuWmNxNnZLb2E4dnhYUG5OV1F6OThQbVZTcWotUkxMV09qSmtnQVRQR2I5Z3ROUmowaEU3c1NEVldXeDVmanQ3VmZVTEZJSHpVVnh6cFNa?oc=5
-
-- "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
-  "Path To Take Them Off": Trump Aide Hints
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
-
-- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
-  India vs Pakistan bilateral series possible? BCCI reveals
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
-
-- Can India eliminate malaria by 2030? | Explained - The Hindu
-  Can India eliminate malaria by 2030?
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLXZGbVdZdWwzOXgyNnVNTnhqc2pmV2gzcl9odV95OGxscEZ0WkZJUWFQb0RFdHFvMlRkS0NVZkNDV2JaVVNZOS0wRHRMTUJ1V1VVVm42cUNPMmNCSDVNalJmTnZ1MXZHa3VCZlh4SDd6b1ItbGpIVXAzRkpNbUlkOGVPSEtacFRmRDZkX21yQkNKbThyRm95ZGZMQktVU09FWmFpMXpkYW9mQdIBsAFBVV95cUxQRVpJb2ltM0pHUm1mTE9za1owYmlSTzJhd3d2TW9NSXFfUGJOaVQ2REk2WkRQT1RqQ1VVZExjUG1kbFJJWHRqZTZFd3NGbFlTSV93OHFDNndOQlhCOHQtN3VKUmUyVl8tcVp6RFQ2OEM5c3Zpb2NfYVNyTzZpMG1NUl8wLXNhOFZ6ODN2YkliUHVfamRqSTZjMm1kTThYaVBHVXVPSHR0TVlXU3NqS2JZaw?oc=5
-
-- FTA: India and EU set for 'mother of all deals' as Trump's tariffs bite - BBC
-  The EU and India are set for 'mother of all deals
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsRXdzWUxTVGpUMkJnc0wxdFFFSllMM1AxbFJlU0dhamVmQm9Bb3dzVFB1Y1dqX21xYVo1Mkg5ZVdVQWIyMzhoLXprYk9ZLW5xMXN3RndGdU9yUdIBX0FVX3lxTE9lMFRfQ3JhUXlUMG9ESm5FbnppcTVQWTB0MjFvUXdZa1BRaTlaT0RKOWs4d1hWTm95bkVvM3VaRy14TGdsc0szRUNjUzdqenNoNjZLTGJaZjM0SzktOHBN?oc=5
-
-- EU refused to impose tariff on India due to ‘big trade deal’, Scott Bessent says | India News - Hindustan Times
-  EU refused to impose tariff on India due to ‘big trade deal’,
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEtyTURIV3NUZU00dU9DVm1QOUhGVWdRNzhJdmllckFXempVS1lXNExOQ09vZnRuVFFING9meXB5VWkzWnV6X2trUnNjelRkcXJzRUF6WG84NkN0Nlg3SmNpZThJdnlLX09rM0lSR2tpQ0JMbnBtVFJqYVQ3WjkxaFJya05LazJHVFRVZ2s3cm1Bbk5ncXBGZ2ZGVWU4Y0RXZVRNdjhUVHZ4dUdsNXYyNFBGUW4tWVZBTjYzOFdaNG8tNU1ZTWhLWk5EZHNJTEt5dkUwMXVlTdIB3AFBVV95cUxNSmVBVnBaX2RYU3dYZjQ4Um1ESXdzTWhoUEY1bUd3UjlrampBaGdaUlZnekNXSS0ySXBQdVlhZi1pdkxXaHdRdGhPN0NSa2xuOUowNWFQSWhESnB6TUhMbGhjU2tLUlh4WWRxLVg4ZnlOVTR5UWFObFFOeTJhczB1VURFVE10NHN3NG9BMlVuWmNxNnZLb2E4dnhYUG5OV1F6OThQbVZTcWotUkxMV09qSmtnQVRQR2I5Z3ROUmowaEU3c1NEVldXeDVmanQ3VmZVTEZJSHpVVnh6cFNa?oc=5
-
-- Pope Leo: Technology must serve the human person, not replace it - Vatican News
-  Pope Leo: Technology must serve the human person,
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3dBWFhWQW0wUW9FQjFiLV9rRmN1QWtQSEloaGNxUE04X2podGVQMlRaNnJWbk44akI0ZVdsbHFUbUk2Wk01YXh4ZTdSUElpTHN3ZDVoUzJTWXMtRzRlRnBybmVaT2pNWllmakhPUEkyajlnODZWQ3p6Z2JfaTNwbkp2ek9ycURDOVFYUFpxa2J3a1doR2FfRVY4LUkwUm5kaHNYZUhWeEtsdjkzanRFcUlsV2pTQQ?oc=5
-
-- Europe wants to end its dangerous reliance on US internet technology - The Conversation
-  Europe wants to end its dangerous reliance on US internet
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQMURRdFpPOFZ6NDNOdy0zaUMxZ1JsdmF0MjFoa01GQ1ZHMms2NmtPWXJ0blJVSVhHdk13RHRRU1ppZm1GemhVSFowc0JxdFZESFJwTGZXMExEbVJpa25IRjNicF9DeDBkR0c4MHF5clpleE1vOVZabXVjME9kRGxfU2hFS2tRV0R4SDZkUXFVbTdlUXV5TzNPN2pQQ1pUV3dsOU1nd3V3?oc=5
-
-- PT365 Science & Technology: Master UPSC Prelims 2026 with India's Most Comprehensive S&T Resource - Vision IAS
-  PT365 Science & Technology: Master UPSC Prelims 2026
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOF90dkNVb1JGRVVsUzhTemM4czRtQ3VwUGFmVm1jZ0xXdlZsSFV3S09saFc4dkxDZ1NxSElSZUVDNW5sSnBydUw5VlhiSlBEeFJjVS1vMFJvYVZBTTB1akpmS3NMVllMcDhQczRBRm5QN1B2Uy1LX3dQNEVyRmRFM0VxSXFHMm54bE5JNWU3TU1melVlS3BzMHpud1F1RXJVd0EtcTBaWjBpbEo3aW1iY0J1SHYteG5fR2ZvN2pPS0g2MmNneEFLbF9KdzdlUVFuamc0aWVB?oc=5
-
-- New filtration technology could be gamechanger in removal of Pfas ‘forever chemicals’ - The Guardian
-  New filtration technology could be gamechanger in
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNSG5VcnUxWkVRMVF1dXpzdFhGYTBheF9oTTM0d3piVnF3cGdPbUc4Q19KVGt0NW1mQzgtandyRjlSU19xUXNmQVRLZjdTQXp6TjFMR0x0dW9Hc0ZDZzRxQ1hlUXU3X2FNRXVsdWFNclhGSUJYbE56blNkYkNMN0pCRlRvMWZMZU9FREpmajln?oc=5
-
-- Elon Musk at Davos 2026: why technology could shape a more 'abundant future' - weforum.org
-  Elon Musk will speak at the World Economic Forum in
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOTnhmSlQ4QzVCcXFkWlFzSXJNc1RXRXhORVowNE9zM0E0U3ZudEo1RGVaeFN5S012Y1ZvTTViUGl6UXBGdTBnZGx1U3lMYWRjMG5UcE1xQjR4emZNQXNpWERwcWN4SGdWLXhDYmRVR19aY3N6YlNKRTV1VlVXQzZndlBQZ0pnZDhfVjBEcHoydVp2UQ?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
 
-_Last updated: 2026-01-25 01:30:30 UTC_
+_Last updated: 2026-01-25 06:30:16 UTC_
