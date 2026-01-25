@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Train connectivity to Kohima: Dimapur-Zubza railway line project on track for 2029 completion
+- Talking drum of Mewat, twin flutes of Thar: Meet the Rajasthani folk artists honoured with Padma Shri
   
-  🔗 https://indianexpress.com/article/india/nagaland-dimapur-koima-zubza-rail-line-project-track-2029-completion-latest-update-10493952/
+  🔗 https://indianexpress.com/article/india/padma-shri-gafruddin-mewati-jogi-taga-ram-bheel-talking-drum-mewat-twin-flutes-thar-rajasthani-folk-artists-10494597/
 
-- Veteran journalist Mark Tully passes away at 90
+- ‘Law without compassion becomes tyranny’: CJI Surya Kant
   
-  🔗 https://indianexpress.com/article/india/mark-tully-journalist-passes-away-10493992/
+  🔗 https://indianexpress.com/article/india/law-without-compassion-becomes-tyranny-cji-surya-kant-10494559/
 
-- President Droupadi Murmu’s R-Day ‘At Home’ invite: artistic legacies of 8 Northeastern states in focus
+- Buried under tonnes of soil after clay mine collapse, 2 children among 3 dead in Madhya Pradesh
   
-  🔗 https://indianexpress.com/article/india/president-droupadi-murmus-r-day-at-home-invite-s-10493958/
+  🔗 https://indianexpress.com/article/india/buried-under-soil-clay-mine-collapse-children-dead-madhya-pradesh-10494409/
 
-- India’s 42nd Vande Bharat train to run with 20 coaches from Jan 26 – route, stoppages
+- Shubhanshu Shukla awarded Ashoka Chakra. Check full list
   
-  🔗 https://indianexpress.com/article/india/india-42nd-vande-bharat-train-run-with-20-coaches-january-26-route-stops-10491357/
+  🔗 https://indianexpress.com/article/india/shubhanshu-shukla-awarded-ashoka-chakra-check-full-list-10494365/
 
-- 2 days after order banning sale of non-veg food on Republic Day triggered storm, Odisha’s Koraput district revokes it
+- Mark Tully, the BBC’s ‘voice of India’, falls silent
   
-  🔗 https://indianexpress.com/article/india/order-banningnon-veg-food-on-republic-day-triggered-storm-odishas-koraput-10493886/
+  🔗 https://indianexpress.com/article/india/mark-tully-the-bbcs-voice-of-india-falls-silent-10494310/
+
+- Happy Republic Day 2026 WhatsApp Status Video: How to download and send status video on WhatsApp
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/happy-republic-day-2026-wishes-whatsapp-status-video-download-how-to-send-10493940/
+
+- Fifty Per Cent Off: Great looks, good sound…now at half the price!
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/fifty-per-cent-off-nothing-ear-open-10494234/
 
 - Republic Day 2026: How to send Republic Day wishes stickers on WhatsApp
   
@@ -32,13 +40,17 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-new-lawsuit-whatsapp-privacy-security-claims-10493699/
 
-- As tech layoffs stretch into 2026, role of AI in job cuts remains an open question
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-layoffs-2026-role-of-ai-job-cuts-10493537/
+- Netflix vs Paramount: Here's what investors need to know about how the numbers stack up
+  Warner Bros. and Netflix are in the midst of a battle for control of Paramount Pictures. The two companies are
+  🔗 https://www.livemint.com/companies/news/netflix-vs-paramount-heres-what-investors-need-to-know-about-how-the-numbers-stack-up-11769353434403.html
 
-- Motorola Signature review: The ‘luxe’ smartphone that combines conventional and unconventional elements
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/motorola-signature-review-10493400/
+- Moelis India CEO Girotra sees private credit surging, bets on AI and data centre deals
+  Moelis India CEO Manisha Girotra outlined a 2026 outlook defined by the rapid expansion of private credit, the rise of
+  🔗 https://www.livemint.com/companies/private-credit-market-moelis-india-artificial-intelligence-data-centre-11769328102860.html
+
+- ED chargesheets online gaming app WinZO, alleges players duped of  ₹734 cr using bots
+  The Enforcement Directorate has charged WinZO and its promoters, alleging 
+  🔗 https://www.livemint.com/companies/news/ed-chargesheets-online-gaming-app-winzo-alleges-players-duped-of-rs-734-cr-using-bots-11769351278468.html
 
 - Netflix CEO rejects Paramount's $108 billion offer for Warner Bros. amid Larry Ellison's backing — Here's why
   Netflix CEO rejected Paramount's offer and said that without Larry Ellison's financial backing via independent financing, there is allegedly no chance that the company will be able to pull off its
@@ -48,19 +60,15 @@
   The move comes as steel prices show early signs of stabilizing and the
   🔗 https://www.livemint.com/companies/news/jsw-steel-exapnsion-fy31-capacity-target-56-mtpa-11769315776048.html
 
-- JioStar moves Supreme Court against CCI probe over alleged abuse of dominance in Kerala TV market
-  The Supreme Court will hear the matter on 27 January. JioStar has appealed a 3 December 2025 Kerala High Court order declining to stay the CC
-  🔗 https://www.livemint.com/companies/news/jiostar-cci-kerala-tv-asianet-digital-network-kerala-communicators-reliance-11769318598607.html
+- Investors Hedge China, Tech Risks Amid Trump TACO Trade Drama
+  US President Donald Trump’s tariff threats over Greenland dominated the narrative for broader equity markets
+  🔗 https://www.livemint.com/market/investors-hedge-china-tech-risks-amid-trump-taco-trade-drama-11769354843658.html
 
-- ACME Group plans $1.4 bn green methanol plant in Odisha, inks agreement
-  ACME Group has partnered with the Odisha government to invest $1.4 billion in a green met
-  🔗 https://www.livemint.com/companies/acme-group-green-methanol-shipping-hydrogen-mission-11769165230092.html
+- Dividend Stocks: Persistent Systems, United Spirits, Wipro, among others to trade ex-dividend next week; Full list here
+   Persistent Systems, United Spirits, Wipro, Wendt India, IIFL Finance, Jindal Stainless, Coforge and CAMS,
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-persistent-systems-united-spirits-wipro-among-others-to-trade-ex-dividend-next-week-full-list-here-11769335533075.html
 
-- Are your WhatsApp messages really private? Fresh lawsuit challenges Meta's privacy claims
-   Meta is being sued for allegedly misleading users about WhatsApp's encryption. An internation group of plaintiffs are arguing that the company can
-  🔗 https://www.livemint.com/companies/news/are-your-whatsapp-messages-really-private-fresh-lawsuit-challenges-metas-privacy-claims-11769314309864.html
-
-- Union Budget 2026: Capex growth expected to stay central on the agenda, says expert
+- Budget 2026: ‘Capex growth expected to be in focus this year’
   Capex growth is expected to stay central on the agenda. It is imperative to address opportunities of AI-
   🔗 https://www.livemint.com/market/union-budget-2026-capex-growth-expected-to-stay-central-on-the-agenda-says-expert-11769334908544.html
 
@@ -72,13 +80,17 @@
   The India–EU trade deal is expected to play a crucial role in shaping the direction of the Indian stock market. Market participants and investors are likely to closely monitor
   🔗 https://www.livemint.com/market/stock-market-news/indiaeu-trade-deal-what-does-it-mean-for-gold-silver-indian-stock-market-11769337310612.html
 
-- Stock market holiday: Is stock market open tomorrow on Republic Day 2026? Check full list here
-  Indian stock markets are scheduled to remain closed tomorrow on Monday, 26 January 2026, on account of the country's 77th Republic Day.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-is-stock-market-open-tomorrow-on-republic-day-2026-check-full-list-here-11769336637680.html
+- Tim Cook expands John Ternus’ role to oversee Apple design strategy: Report
+  Apple reportedly appoints John Ternus as executive overseer of its design organisation. T
+  🔗 https://www.livemint.com/technology/tech-news/tim-cook-expands-john-ternus-role-to-oversee-apple-design-strategy-report-11769361599147.html
 
-- Gold, silver rates today: Metal prices continue to rise. Should you buy them before the Union Budget 2026?
-  Spot silver jumped as much as 6.9% to $102.87 an ounce on Friday. Gold also rose to a new all-time high, inching closer
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-metal-prices-continue-to-rise-should-you-buy-them-before-the-union-budget-2026-11769328342486.html
+- Apple’s MacBook Pro could get OLED screen and touchscreen in 2026 overhaul
+  Apple is expected to unveil a redesigned MacBook Pro later this year. Reports point to a slimmer chassis, OLED display technology and possible touchscreen support.
+  🔗 https://www.livemint.com/technology/tech-news/apples-macbook-pro-could-get-oled-screen-and-touchscreen-in-2026-overhaul-11769350292919.html
+
+- How Americans are using AI at work, according to a new Gallup poll
+  A new Gallup poll looks at how Americans
+  🔗 https://www.livemint.com/technology/how-americans-are-using-ai-at-work-according-to-a-new-gallup-poll-11769346145286.html
 
 - TikTok down in the United States? Hundreds of users flag glitch - Current status here
   TikTok is experiencing significant issues in the US. Thousands of users reported outages on Sunday.
@@ -87,38 +99,6 @@
 - iQOO 15 Ultra tipped to bring capacitive shoulder triggers for gamers
   The iQOO 15 Ultra is set to launch next month as a premium gaming-focused flagship. It is expected to feature capacitive shoulder triggers, haptic feedback
   🔗 https://www.livemint.com/technology/gadgets/iqoo-15-ultra-tipped-to-bring-capacitive-shoulder-triggers-for-gamers-11769334036799.html
-
-- Macron pushes for fast-track ban on social media for children under 15
-  Macron pushes for fast-track
-  🔗 https://www.livemint.com/technology/macron-pushes-for-fast-track-ban-on-social-media-for-children-under-15-11769335565758.html
-
-- How to create custom Republic Day 2026 stickers on WhatsApp using AI: Check step-by-step guide
-  As Republic Day 2026 approaches, create custom AI stickers on WhatsApp to celebrate in style using Meta AI. If you don't want to use Meta AI for creating stickers
-  🔗 https://www.livemint.com/technology/tech-news/how-to-create-custom-republic-day-2026-stickers-on-whatsapp-using-ai-check-step-by-step-guide-11769321710599.html
-
-- In a first, security forces will use AI-enabled smart glasses on Republic Day 2026 - How does this work?
-  Delhi Police will deploy AI-enabled smart glasses for the first time during the 77th Republic Day Parade 2026. The move is aimed at enhancing threat detection with facial recognition and thermal
-  🔗 https://www.livemint.com/technology/tech-news/in-a-first-security-forces-will-use-ai-enabled-smart-glasses-on-republic-day-2026-how-does-this-work-11769318631880.html
-
-- S&P 500 ends Friday little changed, but posts second straight losing week amid wild trading - CNBC
-  S&amp;P 500 ends Friday little changed, but posts
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5FRE5YQnlMTk9SeThNTFNBenp4LTR2bjdTbjVrcGlxV0ZGUkpyOXdlS2lYZERkWkJHVUVRYkxiU1N2ZU9DRXRuVWpycDcxQm5Pc1l5dS1ldmJrNjhHczUySmZxRDBTN2lENEVUd2FIVUFBc0k2YmtZ0gF8QVVfeXFMTW03cV9xdzg0LUp3Q1F0THlXQlNlWllQelpKQ1NhOXRDUXR5bHBYcVE3RXJsVmJ3LUhxSHJXZktWSEpuVUJpMVIxX2dvejNpMDNweXdzVmFPTGp6VTVmclgxQWljWS1wazU5LVhjODlvNHd0VVhKd3JBWU5BVQ?oc=5
-
-- Bloodbath on D-Street! Investors lose over Rs 16 lakh crore this week as Nifty, Sensex crash; market down - Times of India
-  Investors lose over Rs 16 lakh crore this week as Nifty, Sensex crash;
-  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxQUEZ1amdLT1o5N3RmbVJqSGRRMTdZbXBaaUw1eE1XZ0FSNDhQZUVrck4tS2tkTnBCV1V3TUhDQnZyRXNpNlRNZXNEaFU4UTF0SVFwUVUxc01GMWFGUVVMWHpKZ0lsTnRnZnNRQ3k4Q1B0Vk1DZzYzUklLZTRDOVllOEF1blAzNFJQYzBqZjBTNnJ5RDV3QVI0cFFrX3ZOSE5UWENpMGMtcTM3dE1MSmlNbXJpcTQxM2R4alZkd25XcFBWcktPMy12QktZSk00SVprQm1xQUcwR0JHZW9nZTdnaThXSnFvZUNKRDE3MnJ6UUZDYkY2MWV5NWVfTlRmYTV1djBHVmRiNkYxLWc2TnpvVWxnTGlOMzVudFhHRlgySS03YUpGQ0FhbktkTXcyb2VqUkNia9IBugJBVV95cUxPajBpbkhJV3ZmRHFmLUQxbkkwcGJRT2NMUUIwWDVyRnJZZ0NLSTVtQkJmSmdMbmVoT3YxM2ZKRGh4MGkzRUJLLU1aMFVkWlF2X1RXMDJrUXgzQXRWX0JMekNhM3J3N2VraXJHVWF0TGFNblRyMjI0Vk0tOThoOWhJRzAzTnhOWFhJWGVHLWE2Z0VMLWx6LU5Tc3lxWXFuUHRNZFdhSHNwOThNQmZ5WTZMUDc5VG01VmRoanlzQlcyazNwTEhOLTh1alRDZncwLUtoVFZNTVljYTBjRUdFdW1CNlktbjRLVDVnb0RZSmZpX3BqalpFbHQzUXg5N3RIcFkxbEUzUTE5Q1NGeDdDdWUteG4tOUxRVllNQ29nQzk2NjFfN0RjaDdSSnYxRGQxUFhUVUZHbkh2V1JmZw?oc=5
-
-- Market on High Alert for Yen Intervention After Takaichi Warning - Bloomberg
-  Market on High Alert for Yen Intervention After
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmc2U2pKTXRwdW1mZ3BWVEM3eUZWNFFGdlJSOVRvSFBqbmpUd2s3WjRac0FsNVYyOWRpeE5GdmpBbFRBLTNYWGt6T0FWbmduc2FLSmcxS2pHYkR5OVhmWlIwR1hSOHItbThjeHIwUUFuU09ZZVF5UE1QNWdxQld1dm8xNVh3NktxSmthTUxPczFDeEFxNUl6Zkc3QlNmSkFRaFhjRmZ1YTYyY1k3VmNNX1lmRlhUZw?oc=5
-
-- The uses and abuses of prediction markets - Financial Times
-  The uses and abuses of prediction
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE9kU1pDZHFrdnVHcHBQQldDUVhnWVYwd2l4YjU0WWxQb2pVTV9IMmJDTjI4M2tCS2hSejVDOU1RMVZDTEMxYURWZUhqNTZHdUwxWkdkYWkyVWhWXzVxVUtPMVNFQmUwQ2g0Tms2ZVhyTTQ?oc=5
-
-- Why stock markets often trade lower ahead of Union Budgets - IBTimes India
-  Why stock markets often trade lower ahead of Union
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQejBaVk5QRmxZU2RhWm1kb0tYeDB2OUk5N1ZMeDJodWEyWTlMRFpvdktWZEkzb0xmVmE3OHZRQnYxVHRtMXdaT0N1TGtSRFJrNXB2cG5zNlctbDVobGpUSDd0WmFnenVNLTZOcDdDVDQyaFZwTm5McGV4MDFQUDNkSjhFZzdXMEdtaW1LanN1TnRlQQ?oc=5
 
 - SIFs Explained: How ICICI Prudential AMC’s Rajat Chandak plans to use hybrid long-short strategies to smooth returns
   iSIF Hybrid Long–Short Fund blends equity and debt with limited short exposure. It aims for smoother, risk-adjusted returns across cycles by adjusting net exposure based on valuations and market conditions.
@@ -140,85 +120,85 @@
   As Budget 2026 approaches, WhiteOak CEO Aashish Somaiyaa says the focus should shift from headline reforms to fixing structural market frictions. He argues that the current securities transaction tax and dividend taxation framework amounts to double taxation
   🔗 https://economictimes.indiatimes.com/markets/expert-view/etbudget-roundtable-stt-and-dividend-double-taxation-need-a-review-says-whiteoaks-aashish-somaiyaa/articleshow/127460683.cms
 
-- "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
-  "Path To Take Them Off": Trump Aide Hints
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
+- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
+  Bangladesh protests Sheikh Hasina's Delhi address, calls her
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
+
+- "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
+  "Surprised, Shocked
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
+
+- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
+  Bangladesh slams India over fugitive ex-
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
 
 - India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
   India vs Pakistan bilateral series possible? BCCI reveals
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
 
-- Mark Tully, the BBC's 'voice of India', dies aged 90 - BBC
-  Mark Tully, the BBC's '
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE45QWo4aVJSMTdWYkkyeHcyZ0M1ajJuTzNXUmRHMFg4MU52M1pfcHJnUUl0WnhfX2x6dHRoaGdIOTFvaXNnZVNLOVBCb09LaGZ5YnJFd0kwSHhtZ9IBX0FVX3lxTE5RLTFmaWV4UWc4ZFAzbE1sbXNYQ3pkX1JDYmJCZGJrUVVjS0c5bzQ5THZaeVczTmF4bmJiaXVFZEU2QWViVWwxQkZWWk1uVTYxSGd0Q2NoUnA2S0pmUl9B?oc=5
+- Auto Driver Poses As Father, Kidnaps Toddler And Strangles Him To Death - NDTV
+  Auto Driver Poses As Father, Kidnaps
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTFCNFZsZzVJam5ySkZYNTM5MU1XR2dNa0swWEloQktmWkViSXZFbGdjd2lBUVRXZjlTdkdYcW56Nm82YzJSZWJrRmhYSUJnMzdDdjVUcWRUN29zRXVRQ3ZlNkwzU29ISE1VN2ZoRmJiNG1JZWs3akVFZ09fUTZzX2RWR0pBMnpLcWNtOFl6NUsyM1dtcnVfVEc0NnQ2WlFrRU1OS00tLS1Rdl9Jcy1OdNIBuAFBVV95cUxPQXczY3NjcTlkWWFUSGRueHNJclZQa1RpT0pRUTJVUVNwVzBaM2xqMWpQeVpNVEo2RTNTeE5BT2ROWjgyRGdvbkNJcG1MSWVtQ1RvNWxWVGEwS2phdzZHejlrZ2pSV3Z2ejdKNG1VaHltS0JPclZVQ3pJUUU2MXZCbk41OG9DR2cySGxaQTdxMVNCZVM5LVZzZGprNXBGZm8ybDRfOXRza2xKejBLdS1WZHNkRm9UWkpk?oc=5
 
-- Journalist And Author Mark Tully Dies At 90 - NDTV
-  Journalist And Author Mark T
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOZUtjWjREbUQyOERDY1JreGsySmh6YjJMbFNfR1Jfak5iZnpvWlFyeTdqaFRqYVY2N1lSSTlBUUlaMkMxNU1lamtRdnhTaVV6RjZrOWJUV0djOVNHbk9mRVotb2xIMXMyMHpvaV95eEJ6VzdNcmUwMGN3bm00S2Y4em9oRTRwclVGakRCbdIBlAFBVV95cUxQM3ExV2YtcWVzcFZkZDZsa0RDamkzdmN5dUZMUFljckhLTTdMN25FNkQxVVVoZ0RyZlYtN1VjUFZkM3VvR1FWa1RVMEdva29ZME40SHpETGdtTUp1a3dMLXdHOE1qVVRmbS1TM0RfRVc2YWdGWkNYVnZyMTdNVnA2bW9jQVJmY1VWU2hXOXlkZXFOMzd2?oc=5
+- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
+  Bangladesh protests Sheikh Hasina's Delhi address, calls her
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
 
-- Veteran journalist and author Mark Tully passes away at 90 - Times of India
-  Veteran journalist and author Mark Tully passes away
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3lxY3NPeWJmWC1SdHpyOGxuSzJZWkpuVGxteDlkZXBOR2hlbl92ZTZieHZWa3hiQndXX25haGhCRlNxOERiNzl0UzVvUVZhdlo4TWtZcHpRcEdwMy1jaVZOdU1RVTh6UWttLUxJaC1Fb0xjOUpfbzJaNjNBMVhXZWU3NDlnYkdfVHJVSEdxYWdYTnlOV0RBYmdjdTdXRjdWNkpCUUZKT2JWM2h1dVJQQ2w4Zm80QkZZVG5pRUFKRE9qUzV40gHKAUFVX3lxTE1oU1BVVDJSeDFncXl6SjBkMk00YXZfZGFsYWgzTzVhTjNqRmptT3FjVmRpdV9xd3RyS041NmQ3Skx3YTA1ekNKNjFuXzIzTmNCRldOQlNUdXBIeHFkQnhnSjFEbzVpREd1aXVuTUcxYnZtS0VBc3ZuRVBMTVB5XzlnUjMxSGp2bFoyMnBwcW1WMkVvclF5aWtMMEI1WDVTQW1HZ1ppeGNCTFlkdEFWWlZ3VHJUUXFqVjROTTVMODJhbVh4eEd4OVNQdkE?oc=5
+- "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
+  "Surprised, Shocked
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
 
-- "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
-  "Path To Take Them Off": Trump Aide Hints
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
-
-- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
-  India vs Pakistan bilateral series possible? BCCI reveals
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
-
-- Mark Tully, the BBC's 'voice of India', dies aged 90 - BBC
-  Mark Tully, the BBC's '
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE45QWo4aVJSMTdWYkkyeHcyZ0M1ajJuTzNXUmRHMFg4MU52M1pfcHJnUUl0WnhfX2x6dHRoaGdIOTFvaXNnZVNLOVBCb09LaGZ5YnJFd0kwSHhtZ9IBX0FVX3lxTE5RLTFmaWV4UWc4ZFAzbE1sbXNYQ3pkX1JDYmJCZGJrUVVjS0c5bzQ5THZaeVczTmF4bmJiaXVFZEU2QWViVWwxQkZWWk1uVTYxSGd0Q2NoUnA2S0pmUl9B?oc=5
-
-- Journalist And Author Mark Tully Dies At 90 - NDTV
-  Journalist And Author Mark T
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOZUtjWjREbUQyOERDY1JreGsySmh6YjJMbFNfR1Jfak5iZnpvWlFyeTdqaFRqYVY2N1lSSTlBUUlaMkMxNU1lamtRdnhTaVV6RjZrOWJUV0djOVNHbk9mRVotb2xIMXMyMHpvaV95eEJ6VzdNcmUwMGN3bm00S2Y4em9oRTRwclVGakRCbdIBlAFBVV95cUxQM3ExV2YtcWVzcFZkZDZsa0RDamkzdmN5dUZMUFljckhLTTdMN25FNkQxVVVoZ0RyZlYtN1VjUFZkM3VvR1FWa1RVMEdva29ZME40SHpETGdtTUp1a3dMLXdHOE1qVVRmbS1TM0RfRVc2YWdGWkNYVnZyMTdNVnA2bW9jQVJmY1VWU2hXOXlkZXFOMzd2?oc=5
-
-- Veteran journalist and author Mark Tully passes away at 90 - Times of India
-  Veteran journalist and author Mark Tully passes away
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3lxY3NPeWJmWC1SdHpyOGxuSzJZWkpuVGxteDlkZXBOR2hlbl92ZTZieHZWa3hiQndXX25haGhCRlNxOERiNzl0UzVvUVZhdlo4TWtZcHpRcEdwMy1jaVZOdU1RVTh6UWttLUxJaC1Fb0xjOUpfbzJaNjNBMVhXZWU3NDlnYkdfVHJVSEdxYWdYTnlOV0RBYmdjdTdXRjdWNkpCUUZKT2JWM2h1dVJQQ2w4Zm80QkZZVG5pRUFKRE9qUzV40gHKAUFVX3lxTE1oU1BVVDJSeDFncXl6SjBkMk00YXZfZGFsYWgzTzVhTjNqRmptT3FjVmRpdV9xd3RyS041NmQ3Skx3YTA1ekNKNjFuXzIzTmNCRldOQlNUdXBIeHFkQnhnSjFEbzVpREd1aXVuTUcxYnZtS0VBc3ZuRVBMTVB5XzlnUjMxSGp2bFoyMnBwcW1WMkVvclF5aWtMMEI1WDVTQW1HZ1ppeGNCTFlkdEFWWlZ3VHJUUXFqVjROTTVMODJhbVh4eEd4OVNQdkE?oc=5
-
-- "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
-  "Path To Take Them Off": Trump Aide Hints
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
+- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
+  Bangladesh slams India over fugitive ex-
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
 
 - India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
   India vs Pakistan bilateral series possible? BCCI reveals
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
 
-- Mark Tully, the BBC's 'voice of India', dies aged 90 - BBC
-  Mark Tully, the BBC's '
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE45QWo4aVJSMTdWYkkyeHcyZ0M1ajJuTzNXUmRHMFg4MU52M1pfcHJnUUl0WnhfX2x6dHRoaGdIOTFvaXNnZVNLOVBCb09LaGZ5YnJFd0kwSHhtZ9IBX0FVX3lxTE5RLTFmaWV4UWc4ZFAzbE1sbXNYQ3pkX1JDYmJCZGJrUVVjS0c5bzQ5THZaeVczTmF4bmJiaXVFZEU2QWViVWwxQkZWWk1uVTYxSGd0Q2NoUnA2S0pmUl9B?oc=5
+- Auto Driver Poses As Father, Kidnaps Toddler And Strangles Him To Death - NDTV
+  Auto Driver Poses As Father, Kidnaps
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTFCNFZsZzVJam5ySkZYNTM5MU1XR2dNa0swWEloQktmWkViSXZFbGdjd2lBUVRXZjlTdkdYcW56Nm82YzJSZWJrRmhYSUJnMzdDdjVUcWRUN29zRXVRQ3ZlNkwzU29ISE1VN2ZoRmJiNG1JZWs3akVFZ09fUTZzX2RWR0pBMnpLcWNtOFl6NUsyM1dtcnVfVEc0NnQ2WlFrRU1OS00tLS1Rdl9Jcy1OdNIBuAFBVV95cUxPQXczY3NjcTlkWWFUSGRueHNJclZQa1RpT0pRUTJVUVNwVzBaM2xqMWpQeVpNVEo2RTNTeE5BT2ROWjgyRGdvbkNJcG1MSWVtQ1RvNWxWVGEwS2phdzZHejlrZ2pSV3Z2ejdKNG1VaHltS0JPclZVQ3pJUUU2MXZCbk41OG9DR2cySGxaQTdxMVNCZVM5LVZzZGprNXBGZm8ybDRfOXRza2xKejBLdS1WZHNkRm9UWkpk?oc=5
 
-- Journalist And Author Mark Tully Dies At 90 - NDTV
-  Journalist And Author Mark T
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOZUtjWjREbUQyOERDY1JreGsySmh6YjJMbFNfR1Jfak5iZnpvWlFyeTdqaFRqYVY2N1lSSTlBUUlaMkMxNU1lamtRdnhTaVV6RjZrOWJUV0djOVNHbk9mRVotb2xIMXMyMHpvaV95eEJ6VzdNcmUwMGN3bm00S2Y4em9oRTRwclVGakRCbdIBlAFBVV95cUxQM3ExV2YtcWVzcFZkZDZsa0RDamkzdmN5dUZMUFljckhLTTdMN25FNkQxVVVoZ0RyZlYtN1VjUFZkM3VvR1FWa1RVMEdva29ZME40SHpETGdtTUp1a3dMLXdHOE1qVVRmbS1TM0RfRVc2YWdGWkNYVnZyMTdNVnA2bW9jQVJmY1VWU2hXOXlkZXFOMzd2?oc=5
+- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
+  Bangladesh protests Sheikh Hasina's Delhi address, calls her
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
 
-- Veteran journalist and author Mark Tully passes away at 90 - Times of India
-  Veteran journalist and author Mark Tully passes away
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3lxY3NPeWJmWC1SdHpyOGxuSzJZWkpuVGxteDlkZXBOR2hlbl92ZTZieHZWa3hiQndXX25haGhCRlNxOERiNzl0UzVvUVZhdlo4TWtZcHpRcEdwMy1jaVZOdU1RVTh6UWttLUxJaC1Fb0xjOUpfbzJaNjNBMVhXZWU3NDlnYkdfVHJVSEdxYWdYTnlOV0RBYmdjdTdXRjdWNkpCUUZKT2JWM2h1dVJQQ2w4Zm80QkZZVG5pRUFKRE9qUzV40gHKAUFVX3lxTE1oU1BVVDJSeDFncXl6SjBkMk00YXZfZGFsYWgzTzVhTjNqRmptT3FjVmRpdV9xd3RyS041NmQ3Skx3YTA1ekNKNjFuXzIzTmNCRldOQlNUdXBIeHFkQnhnSjFEbzVpREd1aXVuTUcxYnZtS0VBc3ZuRVBMTVB5XzlnUjMxSGp2bFoyMnBwcW1WMkVvclF5aWtMMEI1WDVTQW1HZ1ppeGNCTFlkdEFWWlZ3VHJUUXFqVjROTTVMODJhbVh4eEd4OVNQdkE?oc=5
+- "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
+  "Surprised, Shocked
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
 
-- "Path To Take Them Off": Trump Aide Hints At Removing 25% Tariffs On India - NDTV
-  "Path To Take Them Off": Trump Aide Hints
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTm10RmZkbHA2RGFGNWQ4SGo3MzZJek1HYlA2TDB1aWg0dmE0YmNVZU00RnRGWEZUeWJNemJBY1hzNnRMY0NfWlJnNWdIYlNZdy00cHZGSXp4UGp4a3hyMVBJMmVBVXR6Ulo4MENYYm5tUW9aREFuUmlQY1VuVFVIZ3EzN2RTc01PWUJ5bC1qS19TWC03S1FyblMxejdtTDFiX29MWGUwOVVodzZDNlJTM2xHQjAzeDk0QlI2a1NWTjhuQTJBeWlqUDFUeVEweFcxdG1saUZEUUxnNmM1NHgxVENtVUVFSmE4ZWE1QW1pYmN3RHJRN3M5c2hHeWE2Zmswbzg3WFdIVEPSAZACQVVfeXFMTXQ5QmRuZ01EaUtpcm1HY1A1N1V4UVgxQnRXS2VxVVJmc2pmSEMwckNTYmlFOEJaVFNuOF9LUmtPLUw3RU1QVVBfUkVvQ1ZmbHNzdEVfeFE2REtkVmpWdWdrZ1lRZzdUWFJqU2NjV2tpVmFwX01vLTV2MDF5bjlDVUN1MXkySDcxMjFSNTdVNk9FaDVQMjBzeVhCTy1wS3EtMC1YS1FKSnI4N3ZWX0hiMmNCdG9ObDUtOThrOVdINktCaDRKNTVCMGs0a3h3ZWJpRTlxQ3pHLWV0QmNPX3RpS3poOGVybFVZOFB6NThFcll3ZlVJYzdLUklmQmJaOTd3T01tLXZabjkxWVVCTFFpbUU?oc=5
+- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
+  Bangladesh slams India over fugitive ex-
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
 
 - India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
   India vs Pakistan bilateral series possible? BCCI reveals
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
 
-- Mark Tully, the BBC's 'voice of India', dies aged 90 - BBC
-  Mark Tully, the BBC's '
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE45QWo4aVJSMTdWYkkyeHcyZ0M1ajJuTzNXUmRHMFg4MU52M1pfcHJnUUl0WnhfX2x6dHRoaGdIOTFvaXNnZVNLOVBCb09LaGZ5YnJFd0kwSHhtZ9IBX0FVX3lxTE5RLTFmaWV4UWc4ZFAzbE1sbXNYQ3pkX1JDYmJCZGJrUVVjS0c5bzQ5THZaeVczTmF4bmJiaXVFZEU2QWViVWwxQkZWWk1uVTYxSGd0Q2NoUnA2S0pmUl9B?oc=5
+- Auto Driver Poses As Father, Kidnaps Toddler And Strangles Him To Death - NDTV
+  Auto Driver Poses As Father, Kidnaps
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTFCNFZsZzVJam5ySkZYNTM5MU1XR2dNa0swWEloQktmWkViSXZFbGdjd2lBUVRXZjlTdkdYcW56Nm82YzJSZWJrRmhYSUJnMzdDdjVUcWRUN29zRXVRQ3ZlNkwzU29ISE1VN2ZoRmJiNG1JZWs3akVFZ09fUTZzX2RWR0pBMnpLcWNtOFl6NUsyM1dtcnVfVEc0NnQ2WlFrRU1OS00tLS1Rdl9Jcy1OdNIBuAFBVV95cUxPQXczY3NjcTlkWWFUSGRueHNJclZQa1RpT0pRUTJVUVNwVzBaM2xqMWpQeVpNVEo2RTNTeE5BT2ROWjgyRGdvbkNJcG1MSWVtQ1RvNWxWVGEwS2phdzZHejlrZ2pSV3Z2ejdKNG1VaHltS0JPclZVQ3pJUUU2MXZCbk41OG9DR2cySGxaQTdxMVNCZVM5LVZzZGprNXBGZm8ybDRfOXRza2xKejBLdS1WZHNkRm9UWkpk?oc=5
 
-- Journalist And Author Mark Tully Dies At 90 - NDTV
-  Journalist And Author Mark T
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOZUtjWjREbUQyOERDY1JreGsySmh6YjJMbFNfR1Jfak5iZnpvWlFyeTdqaFRqYVY2N1lSSTlBUUlaMkMxNU1lamtRdnhTaVV6RjZrOWJUV0djOVNHbk9mRVotb2xIMXMyMHpvaV95eEJ6VzdNcmUwMGN3bm00S2Y4em9oRTRwclVGakRCbdIBlAFBVV95cUxQM3ExV2YtcWVzcFZkZDZsa0RDamkzdmN5dUZMUFljckhLTTdMN25FNkQxVVVoZ0RyZlYtN1VjUFZkM3VvR1FWa1RVMEdva29ZME40SHpETGdtTUp1a3dMLXdHOE1qVVRmbS1TM0RfRVc2YWdGWkNYVnZyMTdNVnA2bW9jQVJmY1VWU2hXOXlkZXFOMzd2?oc=5
+- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
+  Bangladesh protests Sheikh Hasina's Delhi address, calls her
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
 
-- Veteran journalist and author Mark Tully passes away at 90 - Times of India
-  Veteran journalist and author Mark Tully passes away
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3lxY3NPeWJmWC1SdHpyOGxuSzJZWkpuVGxteDlkZXBOR2hlbl92ZTZieHZWa3hiQndXX25haGhCRlNxOERiNzl0UzVvUVZhdlo4TWtZcHpRcEdwMy1jaVZOdU1RVTh6UWttLUxJaC1Fb0xjOUpfbzJaNjNBMVhXZWU3NDlnYkdfVHJVSEdxYWdYTnlOV0RBYmdjdTdXRjdWNkpCUUZKT2JWM2h1dVJQQ2w4Zm80QkZZVG5pRUFKRE9qUzV40gHKAUFVX3lxTE1oU1BVVDJSeDFncXl6SjBkMk00YXZfZGFsYWgzTzVhTjNqRmptT3FjVmRpdV9xd3RyS041NmQ3Skx3YTA1ekNKNjFuXzIzTmNCRldOQlNUdXBIeHFkQnhnSjFEbzVpREd1aXVuTUcxYnZtS0VBc3ZuRVBMTVB5XzlnUjMxSGp2bFoyMnBwcW1WMkVvclF5aWtMMEI1WDVTQW1HZ1ppeGNCTFlkdEFWWlZ3VHJUUXFqVjROTTVMODJhbVh4eEd4OVNQdkE?oc=5
+- "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
+  "Surprised, Shocked
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
+
+- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
+  Bangladesh slams India over fugitive ex-
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
+
+- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
+  India vs Pakistan bilateral series possible? BCCI reveals
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
+
+- Auto Driver Poses As Father, Kidnaps Toddler And Strangles Him To Death - NDTV
+  Auto Driver Poses As Father, Kidnaps
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTFCNFZsZzVJam5ySkZYNTM5MU1XR2dNa0swWEloQktmWkViSXZFbGdjd2lBUVRXZjlTdkdYcW56Nm82YzJSZWJrRmhYSUJnMzdDdjVUcWRUN29zRXVRQ3ZlNkwzU29ISE1VN2ZoRmJiNG1JZWs3akVFZ09fUTZzX2RWR0pBMnpLcWNtOFl6NUsyM1dtcnVfVEc0NnQ2WlFrRU1OS00tLS1Rdl9Jcy1OdNIBuAFBVV95cUxPQXczY3NjcTlkWWFUSGRueHNJclZQa1RpT0pRUTJVUVNwVzBaM2xqMWpQeVpNVEo2RTNTeE5BT2ROWjgyRGdvbkNJcG1MSWVtQ1RvNWxWVGEwS2phdzZHejlrZ2pSV3Z2ejdKNG1VaHltS0JPclZVQ3pJUUU2MXZCbk41OG9DR2cySGxaQTdxMVNCZVM5LVZzZGprNXBGZm8ybDRfOXRza2xKejBLdS1WZHNkRm9UWkpk?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-25 12:37:32 UTC_
+_Last updated: 2026-01-25 18:28:11 UTC_
