@@ -1,24 +1,52 @@
 # 📰 Daily News Summaries
 
-- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
-  Bangladesh slams India over fugitive ex-
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
+- Army move in ‘phased battle array’ formation for the first time: What it means
+  
+  🔗 https://indianexpress.com/article/india/army-move-in-phased-battle-array-formation-for-the-first-time-what-it-means-10495184/
 
-- "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
-  "Surprised, Shocked
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
+- 11 injured jawans airlifted to Raipur after IED blasts in Chhattisgarh’s Bijapur during anti-Maoist operation
+  
+  🔗 https://indianexpress.com/article/india/ied-blasts-chhattisgarh-bijapur-anti-maoist-operation-10495149/
 
-- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
-  Bangladesh protests Sheikh Hasina's Delhi address, calls her
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
+- 77th Republic Day: India showcases its military might with ‘Operation Sindoor’ formations, tableaux at Kartavya Path parade
+  
+  🔗 https://indianexpress.com/article/india/republic-day-operation-sindoor-formation-iaf-india-10495094/
 
-- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
-  India vs Pakistan bilateral series possible? BCCI reveals
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
+- India’s 77th Republic Day 2026 Parade Live Streaming: How to watch LIVE parade and flag hosting Live telecast?
+  
+  🔗 https://indianexpress.com/article/india/indias-77th-republic-day-2026-parade-live-streaming-when-and-where-to-watch-live-parade-and-flag-hosting-live-telecast-10492458/
 
-- Nation celebrates 77th Republic Day today - News On AIR
-  Nation celebrates 77th Republic Day
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1sTWdDR2ZhUFhHcVZqUkF1a1AwTThoYUFpd2NOMWZxblRWNmE2SUdiS0pBblF4OUZIbVRXa1J4TkRLZTRVOGQ5TE1jMzZZSkZiVFNQWmYwcGpTNk9vOWRXaVh0UFF2ZnJfTUNZOFd5WmtDRXZ1X1QzdW9jSQ?oc=5
+- A S Bhasin, the veteran chronicler of India’s foreign policy, passes on
+  
+  🔗 https://indianexpress.com/article/india/a-s-bhasin-the-veteran-chronicler-of-indias-foreign-policy-passes-on-10494970/
+
+- Pope Leo sounds alarm on ‘overly affectionate’ AI chatbots, calls for regulation
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/pope-leo-overly-affectionate-ai-chatbots-regulators-10495219/
+
+- How Americans are using AI at work, according to a new Gallup poll
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-americans-are-using-ai-at-work-according-to-a-new-gallup-poll-10495114/
+
+- Macron pushes for fast-track ban on social media for children under 15
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/macron-pushes-for-fast-track-ban-on-social-media-for-children-under-15-10495109/
+
+- Samsung to start production of HBM4 chips next month for Nvidia supply
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-to-start-production-of-hbm4-chips-next-month-for-nvidia-supply-10495100/
+
+- Happy Republic Day 2026 WhatsApp Status Video: How to download and send status video on WhatsApp
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/happy-republic-day-2026-wishes-whatsapp-status-video-download-how-to-send-10493940/
+
+- Republic Day 2026: Anand Mahindra, Kiran Mazumdar-Shaw, Bill Gates, other business leaders extend wishes
+  The Republic Day is celebrated across India on 26 January every year. The day is marked by flag unfurling by the President and other dignitaries of states and UTs.
+  🔗 https://www.livemint.com/companies/people/republic-day-2026-anand-mahindra-kiran-mazumadar-shaw-bill-gates-other-business-leaders-extend-wishes-11769401661933.html
+
+- Samsung Nears Nvidia’s Approval for Key HBM4 AI Memory Chips
+  Samsung is getting close to securing certification from Nvidia for the latest version of its AI memory chip, called HBM4.
+  🔗 https://www.livemint.com/companies/samsung-nears-nvidia-s-approval-for-key-hbm4-ai-memory-chips-11769393475142.html
 
 - IRFC explores some Swiss franc swap to cut dollar risk
   IRFC is considering converting part of its dollar loans into Swiss francs. With nearly $8 billion in overseas exposure, the company is also exploring refinancing metro rail projects.
@@ -32,33 +60,25 @@
   TCS, Cognizant and Infosys reported billion-dollar contracts but analysts say Fortune companies are reducing the number
   🔗 https://www.livemint.com/companies/indian-it-ends-2025-with-most-mega-deals-ai-push-nine-quarters-tcs-cognizant-infosys-11769316399970.html
 
-- Minnesota CEOs Seek De-Escalation After Border Police Shooting
-  More than 60 chief executive officers of Minnesota-based companies call for an immediate “de-escalation of tensions” between state, local and federal
-  🔗 https://www.livemint.com/companies/minnesota-ceos-seek-de-escalation-after-border-police-shooting-11769381712742.html
+- Budget 2026: Strong finance infra to bridging MSME credit gap - 4 key demands to boost fintech ecosystem
+  The fintech industry anticipates Budget 2026 to bolster digital payments through targeted policies. Key recommendations include tax incentives, regulatory clarity, and enhanced cybersecurity measures
+  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-strong-finance-infra-to-bridging-msme-credit-gap-4-key-demands-to-boost-fintech-ecosystem-11769157914924.html
 
-- Netflix vs Paramount: Here's what investors need to know about how the numbers stack up
-  Warner Bros. and Netflix are in the midst of a battle for control of Paramount Pictures. The two companies are
-  🔗 https://www.livemint.com/companies/news/netflix-vs-paramount-heres-what-investors-need-to-know-about-how-the-numbers-stack-up-11769353434403.html
+- Axis Bank Q3 Results 2026 LIVE: Net profit likely to fall on muted NII growth; asset quality may weaken
+  Axis Bank is expected to report a fall in its December quarter net profit in the range of 1% - 7% on a year-on-year (YoY) basis.
+  🔗 https://www.livemint.com/market/stock-market-news/axis-bank-q3-results-2026-live-axis-bank-q3-earnings-axis-bank-share-price-profit-nii-loans-deposits-26-january-2026-11769404338178.html
 
-- Gold, Silver Rate Today LIVE: Gold price surpasses $5,000 on Trump policy uncertainty, silver price above $100 mark
-  Gold prices have soared 64% in 2025. Gold prices have gained more than 16% this year. Silver prices are building on its 147% rise last year.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rate-today-live-mcx-gold-price-today-mcx-silver-price-today-donald-trump-greenland-tariffs-26-january-2026-11769389097118.html
+- Gold Rate Today: Check the live price of 22K, 24K and 18K gold prices on 26 January 2026
+  Over the past 20 years, gold prices have increased by 1,500%. Here are the 26 January gold rates in key cities, like Ahmed
+  🔗 https://www.livemint.com/market/commodities/gold-rate-today-check-live-price-22k-24k-18k-gold-prices-26-january-2026-markets-delhi-mumbai-kolkata-chennai-bangalore-11769403394731.html
 
-- DLF hits 52-week low as Q3 pre-sales slump overshadows strong cash flows
-  Collection surged 52% year-on-year and 78% sequentially to  ₹4,750 crore. Construction delays had kept collections muted in
-  🔗 https://www.livemint.com/market/mark-to-market/dlf-q3-results-stock-falls-pre-sales-11769321538613.html
+- Gold prices top $5,000 for first time amid safe-haven demand: More gains ahead?
+  Gold prices last year recorded their best bull run since 1979 as they surged over 75%. So far in 2026, the yellow metal has rallied 17% on a month-to-date basis
+  🔗 https://www.livemint.com/market/commodities/gold-prices-top-5-000-for-first-time-amid-safe-haven-demand-more-gains-ahead-11769402859592.html
 
-- Market returns may be 2-3% above nominal GDP growth in 2026: Anthony Heredia
-  Investor interest in IPOs expected to decline due to high supply and external challenges. Mahindra Manulife's Anthony Heredia highlights the importance of policy measures for
-  🔗 https://www.livemint.com/market/mahinda-manulife-ceo-investment-strategy-ipo-outlook-foreign-capital-flows-ai-11769313827542.html
-
-- China National Team’s $68 Billion Exit Alters Stock Strategies
-  Investors in China’s stock market took comfort in an unseen backstop: the so-called national
-  🔗 https://www.livemint.com/market/china-national-team-s-68-billion-exit-alters-stock-strategies-11769377129658.html
-
-- Investors Hedge China, Tech Risks Amid Trump TACO Trade Drama
-  US President Donald Trump’s tariff threats over Greenland dominated the narrative for broader equity markets
-  🔗 https://www.livemint.com/market/investors-hedge-china-tech-risks-amid-trump-taco-trade-drama-11769354843658.html
+- Shadowfax Technologies IPO allotment status declared; what GMP signals as focus shifts on listing date
+  Shadowfax Technologies IPO saw strong demand with a subscription status of 2.72x. The allotment date was January 23, and listing is expected on January 28.
+  🔗 https://www.livemint.com/market/ipo/shadowfax-technologies-ipo-allotment-status-shadowfax-technologies-ipo-gmp-shadowfax-ipo-gmp-shadowfax-ipo-allotment-11769398949783.html
 
 - Tim Cook expands John Ternus’ role to oversee Apple design strategy: Report
   Apple reportedly appoints John Ternus as executive overseer of its design organisation. T
@@ -80,45 +100,29 @@
   The iQOO 15 Ultra is set to launch next month as a premium gaming-focused flagship. It is expected to feature capacitive shoulder triggers, haptic feedback
   🔗 https://www.livemint.com/technology/gadgets/iqoo-15-ultra-tipped-to-bring-capacitive-shoulder-triggers-for-gamers-11769334036799.html
 
-- Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1: What to watch - Yahoo Finance
-  Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRWdyWUY0T3hLdVZkMDR4MzVRcWpRX3V6MDllVjNNVWFXeVUxM2pFbDFRTld0UlRDMVdRY0VYbEpMaU9iMFY1VEMza01vNURMYzNOU3V2VW1qTEtua1JIR0twRDFNZnExeXg5d013d0RCZWZWeFpZbndRdjFwZjhIbzA3eWdudFJzc1dDMUxhV2dQc0VEeGc2SmNoQ1FiSHFXU2l2SXctdXhacU1EbWRaQS1QSzUwY1BINFdiUk1ZdEdwUnZ5bmQxTUUxX0JvNmwyVmFuNTloeTFiR0NN?oc=5
+- Gold hits $5,000/oz, silver jumps 8%. How should traders navigate post-Republic Day?
+  Gold prices surged past $5,000 an ounce for the first time, driven by renewed safe-haven demand amid global tensions and a bond selloff. Silver also saw significant gains, with both metals continuing their strong
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-5000/oz-silver-jumps-8-how-should-traders-navigate-post-republic-day/articleshow/127530268.cms
 
-- What to Expect in Markets This Week: Fed Interest Rate Decision, Earnings From Microsoft, Meta, Tesla, Apple - Investopedia
-  What to Expect in Markets This Week: Fed Interest Rate Decision, Earnings
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGJyM2MzTFh4eFdTTUVWTDJxZGVOanJBcTB5TEFiQklwdXplRGJTUFNiSnhybDNVYlpweHRXekVvck15VU9rclFNZzFwcTgyTjR3NmhQVXNDRlRZSWZUbGFxbGpnME9rS3JpekxHMEc3dXU5YlNsNEpITEhmTGI5eUpySUtBWjVzOXp6bFl3dHdLcWIwTWxTaFcwU1BkbkVLNVNDUXAtV0JLTUNGVmZqZUVIRFhmejBDcFlaVGpOOTdhQmVObWNXRm53WXQ0a09YdXZUdkRrTWc?oc=5
+- Striking a balance: How gold, silver fit into the 2026 asset mix
+  2026 is poised to witness a renewed focus on these metals, not merely as defensive hedges, says PL Capital.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/striking-a-balance-how-gold-silver-fit-into-the-2026-asset-mix/articleshow/127529696.cms
 
-- Asia-Pacific markets trade mixed amid geopolitical uncertainties - CNBC
-  Asia-Pacific markets trade
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPbGVjU2JXbE44aTBycUVEU2M1aGU4WjJGdEZ3dENKTTNmUUlYbUUzQVRabGpPeFAyT0VudElJRmNlNVZ4a3JCNldtaVp3NExuNkk5c2c3X1RMT3BBVUlLUVRfS1pDT3VNRFVldW1TdHlzTG9LZk5jY3V2OGYxX2tVS1FHWmtSMkJOSlgtVUR0c3A5VmFMOHFEbjBubVMtZi1sOHRVRNIBqgFBVV95cUxOeHAxb0Jqb0t5YjU2ZnVIdmt0T18wZjdvTGxqcS1KWTNBR240aW01UHF0aUtHeDd1cjZwdVY5OFA5SzVfbUVyX0J5dmtLMHdCajl0U2ptTVZPQnZnazBjb2s3VjJHcmRJSUh4RTBNTFJCUjBBZU1MUGIyQUJBclZRSFhhRmdqeTdpOTV4XzYwSU53cVQ3QUtQSS03NEpLS2x1clh0RUVlRjkzdw?oc=5
+- Gold, silver, AI and Indian stocks: Joanne Goh on where value lies now
+  Joanne Goh, Senior Investment Strategist at DBS Bank, shares her outlook on gold and silver. She cautions against froth in parts of the AI trade, and
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/gold-silver-ai-and-indian-stocks-joanne-goh-on-where-value-lies-now/articleshow/127529459.cms
 
-- Yen Extends Gains Amid Threat of Intervention: Markets Wrap - Bloomberg
-  Yen Extends Gains Amid
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0pHcUMtM3RjejNfdkhVbW9JNUZRZXJrV1ZhcHEwNkZ0UVhkNGw4Sng1TDNmd0NDN2FqTzAyaE9zSHBuWXJRNFQ4Y21KX3l6c1RnS0JNbEFSWV8tbHNlQTktSEFWQ2pFQV9tbUpqR2pHS01sMEJscWJTVG9yTlhCNUFhYVNTX1Raa3lzNko0ZktSZXpEbmlpLXVWRE5lWTBSVU5OZ3h2N1JUaG5lelE?oc=5
+- Why PSU banks may be the real value play in BFSI, Alok Singh explains
+  Alok Singh, CIO at Bank of India Mutual Fund, explains why the current phase still offers a compelling entry point for BFSI investing. Singh highlights the case for PSU banks, and outlines
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/why-psu-banks-may-be-the-real-value-play-in-bfsi-alok-singh-explains/articleshow/127528866.cms
 
-- Market Volatility: Global Cues Keep Markets on Edge - deccanherald.com
-  Market Volatility: Global C
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOeXh3OFB2TnlrU3JsQnlOaG53Nl9wdEh2dWROSE85ZE5tUEtDdG1FckVndkY3dTZYczBjQ3FuVUhKUklRODB5UDhaelcyMHZ4U2g4U1hPWTYzRjU4Qjl4M3BySWd6NHZOM19PVEZLU3hlT3RDSkZXLU9QTWJTTE1wczVTT2hES2VpRndNN29LMlczNmRDOGVVRGVJdWtwZw?oc=5
+- It wasn't just a missed call: The currency clash behind the stalled US-India trade deal
+  To the casual observer, it painted a picture of bureaucratic hesitation. But to those watching the flow of global capital, the silence on the phone line masked
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/it-wasnt-just-a-missed-call-the-currency-clash-behind-the-stalled-us-india-trade-deal/articleshow/127528481.cms
 
-- Gold tops record $5,000 mark on Trump policy uncertainty
-  Gold prices have reached a record high of over $5,000 per ounce. This surge is driven by global uncertainty and policies from US President Donald Trump.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-tops-record-5000-mark-on-trump-policy-uncertainty/articleshow/127514693.cms
-
-- SIFs Explained: How ICICI Prudential AMC’s Rajat Chandak plans to use hybrid long-short strategies to smooth returns
-  iSIF Hybrid Long–Short Fund blends equity and debt with limited short exposure. It aims for smoother, risk-adjusted returns across cycles by adjusting net exposure based on valuations and market conditions.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/sifs-explained-how-icici-prudential-amcs-rajat-chandak-plans-to-use-hybrid-long-short-strategies-to-smooth-returns/articleshow/127472844.cms
-
-- Union Budget 2026: What markets need to rebuild retail investors’ confidence
-  Retail investors have stayed committed to Indian markets through multiple crises. Taxation, especially STT, CTT, and capital gains, adds friction and makes India less competitive globally. Predictable, rational tax policy and long-term support
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/union-budget-2026-what-markets-need-to-rebuild-retail-investors-confidence/articleshow/127471312.cms
-
-- Pre-Budget setup: Nifty enters high-stakes zone. How to trade before D-Day
-  Nifty slips below its 200-day moving average amid sustained FII outflows and a weakening rupee. Market sentiment has turned sharply cautious ahead of the Budget. Rupak De, Senior Technical Analyst at LKP Securities,
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/pre-budget-setup-nifty-enters-high-stakes-zone-how-to-trade-before-d-day/articleshow/127470048.cms
-
-- Stock market holiday: Will NSE and BSE remain closed on January 26 for Republic Day?
-  Indian stock markets will be closed on Monday, January 26, for Republic Day. The closure marks the second market holiday of 2026. Trading will resume on Tuesday, January 27.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-will-nse-and-bse-remain-closed-on-january-26-for-republic-day/articleshow/127467967.cms
+- Republic Day 2026 Live Updates: States Showcase Vibrant Cultural Tableau At Grand Republic Day Parade - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeH
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeHVsVXBKdkJVRFVVamdqcE5vMzl1QjdmcS1xRjh2ODYyVlpwaGF5UnpLYkZ2R3p5Nk5rX3dnUUNqWGl5dXI3ZTBjc29Dbzg3VV9OZUpPZlotNGRvdFgwbkt3UXNmeVU0QVJrU2kyMk5BMFNfWFZodlNqSzU2ZG5JclJXZldkbTlFSU01Ykg2bGp3QmVkOHVFS2Y2T1NVUVdOTWFFdlE2WTdtME8tR0NSMHhJLXhFUmxMYUHSAaICQVVfeXFMT3FqU1FSSnBfNV91Nzk1bTZ5UmRwdEllVWRYM2daLUFwVlBGQUljZVl1dHdzZy1qaWRNSVJEUkVSblNsanhCeVMzaWdjbUVtem9RakR2UEZiOWtSeHZzZ0Rma0dVeXZMVzVxR2EzWXdYb1RlX1c2clpXbU5hZGdkOHVpeUw0TWMxQzM2RzJONG1jSHY4UzJyUTVUZm5lQUMwaVNwYlR6Qm50NkJYVnlFQUoyRnVMdVRyZ1d1WTZNRGNjMERlNXlqZjAwTWZEV3N4ZTEwYUhtWmlieHozSGYxSzh4dmdQWEZLOWFEZnY5Z3AzS3l5eWFLbnRBUjZtOHYtQ01Wck5nVXRCWEN2cml3TV9wMW5mSWRFTkliS3VMTVZKV0E?oc=5
 
 - Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
   Bangladesh slams India over fugitive ex-
@@ -132,33 +136,13 @@
   Bangladesh protests Sheikh Hasina's Delhi address, calls her
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
 
-- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
-  India vs Pakistan bilateral series possible? BCCI reveals
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
+- Xi Jinping lauds India-China ties in Republic Day message: 'Good neighbours, friends, partners' | India News - Hindustan Times
+  Xi Jinping lauds India-China ties in Republic Day message: 'Good
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeGpxT2p0S0xuemZzTnJoRGFmMFdxdHdQQ0V3OXdSeW1qNFVhUHpIVkFaSzRsTVBRajNXZHZuWnRnSlU4c25ESzRLSWhJTmJIMjJVcmpVbmIxdllDbDdwRWF1SHIzckhJeTdnY21zZ1VOXzBiNk1JMWtvN0tteEotV0NndENyQTFGelVVS2RrdE9qQVFQbElkUzhxbjFDWWpmMzNGcHlVUF9UbHBKSjRpNjlIN3pSMFlnbnpBbTNCeDdjaFpETUs1enJ0bVBfM2R4cWowMVpVTEVLQm9KZ2RaatIB5gFBVV95cUxONHBwa2N6bF9ialBod29yd1dRWi1fV2w0aGotWDNWN0NoV0N1d2N4MEluRS04ZnNLV3VvTU5qX1NDUF9sVnpmZ0NJZTBvX21TSk5iR2dyVktra0EtUEFiSVRnbEpreE5tZTl5YnNnbmNUTEdRZVFkOXFVWWpjYWtGY05QTkk0TG81Z3BjeXZ6WVpmTEp2R2dXMTlxNzBweVJ5N1U2dnFvc3lxakt5OGlRRlNDbHc2SFdVUlhKcldlbGh5T3pZMGdVTXFWVzQyZzJJbzZZM0t2U2E3TlRNLVRYQ0F4QnFfQQ?oc=5
 
-- Nation celebrates 77th Republic Day today - News On AIR
-  Nation celebrates 77th Republic Day
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1sTWdDR2ZhUFhHcVZqUkF1a1AwTThoYUFpd2NOMWZxblRWNmE2SUdiS0pBblF4OUZIbVRXa1J4TkRLZTRVOGQ5TE1jMzZZSkZiVFNQWmYwcGpTNk9vOWRXaVh0UFF2ZnJfTUNZOFd5WmtDRXZ1X1QzdW9jSQ?oc=5
-
-- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
-  Bangladesh slams India over fugitive ex-
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
-
-- "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
-  "Surprised, Shocked
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
-
-- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
-  Bangladesh protests Sheikh Hasina's Delhi address, calls her
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
-
-- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
-  India vs Pakistan bilateral series possible? BCCI reveals
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
-
-- Nation celebrates 77th Republic Day today - News On AIR
-  Nation celebrates 77th Republic Day
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1sTWdDR2ZhUFhHcVZqUkF1a1AwTThoYUFpd2NOMWZxblRWNmE2SUdiS0pBblF4OUZIbVRXa1J4TkRLZTRVOGQ5TE1jMzZZSkZiVFNQWmYwcGpTNk9vOWRXaVh0UFF2ZnJfTUNZOFd5WmtDRXZ1X1QzdW9jSQ?oc=5
+- Republic Day 2026 Live Updates: States Showcase Vibrant Cultural Tableau At Grand Republic Day Parade - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeH
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeHVsVXBKdkJVRFVVamdqcE5vMzl1QjdmcS1xRjh2ODYyVlpwaGF5UnpLYkZ2R3p5Nk5rX3dnUUNqWGl5dXI3ZTBjc29Dbzg3VV9OZUpPZlotNGRvdFgwbkt3UXNmeVU0QVJrU2kyMk5BMFNfWFZodlNqSzU2ZG5JclJXZldkbTlFSU01Ykg2bGp3QmVkOHVFS2Y2T1NVUVdOTWFFdlE2WTdtME8tR0NSMHhJLXhFUmxMYUHSAaICQVVfeXFMT3FqU1FSSnBfNV91Nzk1bTZ5UmRwdEllVWRYM2daLUFwVlBGQUljZVl1dHdzZy1qaWRNSVJEUkVSblNsanhCeVMzaWdjbUVtem9RakR2UEZiOWtSeHZzZ0Rma0dVeXZMVzVxR2EzWXdYb1RlX1c2clpXbU5hZGdkOHVpeUw0TWMxQzM2RzJONG1jSHY4UzJyUTVUZm5lQUMwaVNwYlR6Qm50NkJYVnlFQUoyRnVMdVRyZ1d1WTZNRGNjMERlNXlqZjAwTWZEV3N4ZTEwYUhtWmlieHozSGYxSzh4dmdQWEZLOWFEZnY5Z3AzS3l5eWFLbnRBUjZtOHYtQ01Wck5nVXRCWEN2cml3TV9wMW5mSWRFTkliS3VMTVZKV0E?oc=5
 
 - Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
   Bangladesh slams India over fugitive ex-
@@ -172,13 +156,13 @@
   Bangladesh protests Sheikh Hasina's Delhi address, calls her
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
 
-- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
-  India vs Pakistan bilateral series possible? BCCI reveals
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
+- Xi Jinping lauds India-China ties in Republic Day message: 'Good neighbours, friends, partners' | India News - Hindustan Times
+  Xi Jinping lauds India-China ties in Republic Day message: 'Good
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeGpxT2p0S0xuemZzTnJoRGFmMFdxdHdQQ0V3OXdSeW1qNFVhUHpIVkFaSzRsTVBRajNXZHZuWnRnSlU4c25ESzRLSWhJTmJIMjJVcmpVbmIxdllDbDdwRWF1SHIzckhJeTdnY21zZ1VOXzBiNk1JMWtvN0tteEotV0NndENyQTFGelVVS2RrdE9qQVFQbElkUzhxbjFDWWpmMzNGcHlVUF9UbHBKSjRpNjlIN3pSMFlnbnpBbTNCeDdjaFpETUs1enJ0bVBfM2R4cWowMVpVTEVLQm9KZ2RaatIB5gFBVV95cUxONHBwa2N6bF9ialBod29yd1dRWi1fV2w0aGotWDNWN0NoV0N1d2N4MEluRS04ZnNLV3VvTU5qX1NDUF9sVnpmZ0NJZTBvX21TSk5iR2dyVktra0EtUEFiSVRnbEpreE5tZTl5YnNnbmNUTEdRZVFkOXFVWWpjYWtGY05QTkk0TG81Z3BjeXZ6WVpmTEp2R2dXMTlxNzBweVJ5N1U2dnFvc3lxakt5OGlRRlNDbHc2SFdVUlhKcldlbGh5T3pZMGdVTXFWVzQyZzJJbzZZM0t2U2E3TlRNLVRYQ0F4QnFfQQ?oc=5
 
-- Nation celebrates 77th Republic Day today - News On AIR
-  Nation celebrates 77th Republic Day
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1sTWdDR2ZhUFhHcVZqUkF1a1AwTThoYUFpd2NOMWZxblRWNmE2SUdiS0pBblF4OUZIbVRXa1J4TkRLZTRVOGQ5TE1jMzZZSkZiVFNQWmYwcGpTNk9vOWRXaVh0UFF2ZnJfTUNZOFd5WmtDRXZ1X1QzdW9jSQ?oc=5
+- Republic Day 2026 Live Updates: States Showcase Vibrant Cultural Tableau At Grand Republic Day Parade - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeH
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeHVsVXBKdkJVRFVVamdqcE5vMzl1QjdmcS1xRjh2ODYyVlpwaGF5UnpLYkZ2R3p5Nk5rX3dnUUNqWGl5dXI3ZTBjc29Dbzg3VV9OZUpPZlotNGRvdFgwbkt3UXNmeVU0QVJrU2kyMk5BMFNfWFZodlNqSzU2ZG5JclJXZldkbTlFSU01Ykg2bGp3QmVkOHVFS2Y2T1NVUVdOTWFFdlE2WTdtME8tR0NSMHhJLXhFUmxMYUHSAaICQVVfeXFMT3FqU1FSSnBfNV91Nzk1bTZ5UmRwdEllVWRYM2daLUFwVlBGQUljZVl1dHdzZy1qaWRNSVJEUkVSblNsanhCeVMzaWdjbUVtem9RakR2UEZiOWtSeHZzZ0Rma0dVeXZMVzVxR2EzWXdYb1RlX1c2clpXbU5hZGdkOHVpeUw0TWMxQzM2RzJONG1jSHY4UzJyUTVUZm5lQUMwaVNwYlR6Qm50NkJYVnlFQUoyRnVMdVRyZ1d1WTZNRGNjMERlNXlqZjAwTWZEV3N4ZTEwYUhtWmlieHozSGYxSzh4dmdQWEZLOWFEZnY5Z3AzS3l5eWFLbnRBUjZtOHYtQ01Wck5nVXRCWEN2cml3TV9wMW5mSWRFTkliS3VMTVZKV0E?oc=5
 
 - Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
   Bangladesh slams India over fugitive ex-
@@ -192,13 +176,29 @@
   Bangladesh protests Sheikh Hasina's Delhi address, calls her
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
 
-- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
-  India vs Pakistan bilateral series possible? BCCI reveals
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
+- Xi Jinping lauds India-China ties in Republic Day message: 'Good neighbours, friends, partners' | India News - Hindustan Times
+  Xi Jinping lauds India-China ties in Republic Day message: 'Good
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeGpxT2p0S0xuemZzTnJoRGFmMFdxdHdQQ0V3OXdSeW1qNFVhUHpIVkFaSzRsTVBRajNXZHZuWnRnSlU4c25ESzRLSWhJTmJIMjJVcmpVbmIxdllDbDdwRWF1SHIzckhJeTdnY21zZ1VOXzBiNk1JMWtvN0tteEotV0NndENyQTFGelVVS2RrdE9qQVFQbElkUzhxbjFDWWpmMzNGcHlVUF9UbHBKSjRpNjlIN3pSMFlnbnpBbTNCeDdjaFpETUs1enJ0bVBfM2R4cWowMVpVTEVLQm9KZ2RaatIB5gFBVV95cUxONHBwa2N6bF9ialBod29yd1dRWi1fV2w0aGotWDNWN0NoV0N1d2N4MEluRS04ZnNLV3VvTU5qX1NDUF9sVnpmZ0NJZTBvX21TSk5iR2dyVktra0EtUEFiSVRnbEpreE5tZTl5YnNnbmNUTEdRZVFkOXFVWWpjYWtGY05QTkk0TG81Z3BjeXZ6WVpmTEp2R2dXMTlxNzBweVJ5N1U2dnFvc3lxakt5OGlRRlNDbHc2SFdVUlhKcldlbGh5T3pZMGdVTXFWVzQyZzJJbzZZM0t2U2E3TlRNLVRYQ0F4QnFfQQ?oc=5
 
-- Nation celebrates 77th Republic Day today - News On AIR
-  Nation celebrates 77th Republic Day
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1sTWdDR2ZhUFhHcVZqUkF1a1AwTThoYUFpd2NOMWZxblRWNmE2SUdiS0pBblF4OUZIbVRXa1J4TkRLZTRVOGQ5TE1jMzZZSkZiVFNQWmYwcGpTNk9vOWRXaVh0UFF2ZnJfTUNZOFd5WmtDRXZ1X1QzdW9jSQ?oc=5
+- Republic Day 2026 Live Updates: States Showcase Vibrant Cultural Tableau At Grand Republic Day Parade - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeH
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeHVsVXBKdkJVRFVVamdqcE5vMzl1QjdmcS1xRjh2ODYyVlpwaGF5UnpLYkZ2R3p5Nk5rX3dnUUNqWGl5dXI3ZTBjc29Dbzg3VV9OZUpPZlotNGRvdFgwbkt3UXNmeVU0QVJrU2kyMk5BMFNfWFZodlNqSzU2ZG5JclJXZldkbTlFSU01Ykg2bGp3QmVkOHVFS2Y2T1NVUVdOTWFFdlE2WTdtME8tR0NSMHhJLXhFUmxMYUHSAaICQVVfeXFMT3FqU1FSSnBfNV91Nzk1bTZ5UmRwdEllVWRYM2daLUFwVlBGQUljZVl1dHdzZy1qaWRNSVJEUkVSblNsanhCeVMzaWdjbUVtem9RakR2UEZiOWtSeHZzZ0Rma0dVeXZMVzVxR2EzWXdYb1RlX1c2clpXbU5hZGdkOHVpeUw0TWMxQzM2RzJONG1jSHY4UzJyUTVUZm5lQUMwaVNwYlR6Qm50NkJYVnlFQUoyRnVMdVRyZ1d1WTZNRGNjMERlNXlqZjAwTWZEV3N4ZTEwYUhtWmlieHozSGYxSzh4dmdQWEZLOWFEZnY5Z3AzS3l5eWFLbnRBUjZtOHYtQ01Wck5nVXRCWEN2cml3TV9wMW5mSWRFTkliS3VMTVZKV0E?oc=5
+
+- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
+  Bangladesh slams India over fugitive ex-
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
+
+- "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
+  "Surprised, Shocked
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
+
+- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
+  Bangladesh protests Sheikh Hasina's Delhi address, calls her
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
+
+- Xi Jinping lauds India-China ties in Republic Day message: 'Good neighbours, friends, partners' | India News - Hindustan Times
+  Xi Jinping lauds India-China ties in Republic Day message: 'Good
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeGpxT2p0S0xuemZzTnJoRGFmMFdxdHdQQ0V3OXdSeW1qNFVhUHpIVkFaSzRsTVBRajNXZHZuWnRnSlU4c25ESzRLSWhJTmJIMjJVcmpVbmIxdllDbDdwRWF1SHIzckhJeTdnY21zZ1VOXzBiNk1JMWtvN0tteEotV0NndENyQTFGelVVS2RrdE9qQVFQbElkUzhxbjFDWWpmMzNGcHlVUF9UbHBKSjRpNjlIN3pSMFlnbnpBbTNCeDdjaFpETUs1enJ0bVBfM2R4cWowMVpVTEVLQm9KZ2RaatIB5gFBVV95cUxONHBwa2N6bF9ialBod29yd1dRWi1fV2w0aGotWDNWN0NoV0N1d2N4MEluRS04ZnNLV3VvTU5qX1NDUF9sVnpmZ0NJZTBvX21TSk5iR2dyVktra0EtUEFiSVRnbEpreE5tZTl5YnNnbmNUTEdRZVFkOXFVWWpjYWtGY05QTkk0TG81Z3BjeXZ6WVpmTEp2R2dXMTlxNzBweVJ5N1U2dnFvc3lxakt5OGlRRlNDbHc2SFdVUlhKcldlbGh5T3pZMGdVTXFWVzQyZzJJbzZZM0t2U2E3TlRNLVRYQ0F4QnFfQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-26 01:29:27 UTC_
+_Last updated: 2026-01-26 06:34:50 UTC_
