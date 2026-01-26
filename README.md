@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- More conciliatory than confrontational, what did J&K Deputy CM’s Republic Day speech focus on?
+- Houses set on fire in Manipur’s Kangpokpi district; Naga group claims responsibility, Kuki-Zo outfit threatens blockade
   
-  🔗 https://indianexpress.com/article/india/what-did-jk-deputy-cms-republic-day-speech-focus-on-10495578/
+  🔗 https://indianexpress.com/article/india/houses-fire-manipur-kangpokpi-district-naga-kuki-zo-blockade-10496007/
 
-- Operation Sindoor struck at heart of enemy: J&K LG Manoj Sinha
+- Badrinath-Kedarnath may ban non-Hindus from entering temples. Not everyone’s on board
   
-  🔗 https://indianexpress.com/article/india/operation-sindoor-struck-at-heart-of-enemy-jk-lg-manoj-sinha-10495667/
+  🔗 https://indianexpress.com/article/india/badrinath-kedarnath-ban-non-hindus-entering-temples-10495869/
 
-- RSS leader Dattatreya Hosabale hails Constitution months after questioning ‘socialist’, ‘secular’ in Preamble
+- Goa could ban social media for children under 16
   
-  🔗 https://indianexpress.com/article/india/rss-leader-dattatreya-hosabale-hails-constitution-republic-day-10495596/
+  🔗 https://indianexpress.com/article/india/goa-social-media-ban-children-under-16-10495932/
 
-- Vande Bharat Sleeper train: ICF to manufacture 50 rakes of 24-car coaches
+- Bank strike on 27 January 2026: These banks to remain closed on Tuesday | Here’s what customers can still access
   
-  🔗 https://indianexpress.com/article/india/vande-bharat-sleeper-train-icf-to-manufacture-50-rakes-of-24-car-coaches-10495486/
+  🔗 https://indianexpress.com/article/india/bank-strike-27-jan-2026-closed-customers-what-to-use-10495645/
 
-- Madhya Pradesh village panchayat says it will boycott families whose members elope and marry
+- India, Russia moving confidently to achieve USD 100 billion trade target by 2030: Ambassador
   
-  🔗 https://indianexpress.com/article/india/mp-village-social-boycott-families-elopements-inter-caste-marriage-10495483/
+  🔗 https://indianexpress.com/article/india/india-russia-usd-100-billion-trade-target-ambassador-10495706/
 
 - Over 77% Indian esports players see streaming as key income path: YouGov poll
   
@@ -40,27 +40,39 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/macron-pushes-for-fast-track-ban-on-social-media-for-children-under-15-10495109/
 
-- Why Amazon wants its sellers to create their own websites for free
-  Amazon is pushing SmartBiz, a free tool for Indian sellers to build websites. While this risks losing marketplace commissions and ad revenue, it secures Amazon�
-  🔗 https://www.livemint.com/companies/amazon-smartbiz-india-d2c-storefronts-11769413496486.html
+- Amazon layoffs to begin tomorrow? Key sectors that could be impacted
+  Amazon is set to initiate a second round of layoffs this week. The company is aiming to reduce its corporate
+  🔗 https://www.livemint.com/companies/news/amazon-layoffs-to-begin-tomorrow-key-sectors-that-could-be-impacted-11769433251852.html
 
-- Boeing expects more Dreamliner orders from India amid tariff concerns
-  Boeing anticipates an increase in Dreamliner orders in India. Despite challenges like tariffs and the AI171 crash investigation, the company is confident in overcoming hurdles.
-  🔗 https://www.livemint.com/companies/news/boeing-expects-more-dreamliner-orders-from-india-amid-tariff-concerns-11769416816309.html
+- Lodha's maiden Bengaluru project runs into legal hurdle
+  RERA has asked the company to seek approval from two-thirds of the residents. Residents of existing towers on the land Lodha acquired have
+  🔗 https://www.livemint.com/companies/lodha-developers-bengaluru-project-luxury-housing-11769400889225.html
 
-- Meta, Google, Y Combinator leaders call out Trump administration over Alex Pretti's death — ‘Only a matter of time’
-  Alex Pretti, a 37-year-old ICU nurse, was fatally shot Saturday by agents who were in
-  🔗 https://www.livemint.com/companies/news/meta-google-y-combinator-leaders-call-out-trump-administration-over-alex-prettis-death-only-a-matter-of-time-11769411015195.html
+- Nvidia invests $2 billion in CoreWeave, expands data centre partnership
+  N Nvidia and CoreWeave have expanded their strategic partnership. The move is aimed at accelerating Core
+  🔗 https://www.livemint.com/companies/news/nvidia-invests-2-billion-in-coreweave-expands-data-centre-partnership-11769433450055.html
 
-- Republic Day 2026: Anand Mahindra, Kiran Mazumdar-Shaw, Bill Gates, other business leaders extend wishes
-  The Republic Day is celebrated across India on 26 January every year. The day is marked by flag unfurling by the President and other dignitaries of states and UTs.
-  🔗 https://www.livemint.com/companies/people/republic-day-2026-anand-mahindra-kiran-mazumadar-shaw-bill-gates-other-business-leaders-extend-wishes-11769401661933.html
+- Waaree Technologies to acquire majority stake in transmission tower firm for  ₹1,225 crore
+  Waaree Renewable Technologies is acquiring a 55% stake in Associated Power Structures for 
+  🔗 https://www.livemint.com/companies/waaree-renewable-technologies-acquisitions-associated-power-structures-11769426945763.html
 
-- Samsung Nears Nvidia’s Approval for Key HBM4 AI Memory Chips
-  Samsung is getting close to securing certification from Nvidia for the latest version of its AI memory chip, called HBM4.
-  🔗 https://www.livemint.com/companies/samsung-nears-nvidia-s-approval-for-key-hbm4-ai-memory-chips-11769393475142.html
+- Tariff wall: Indian internet gear, cable makers risk missing out on US data centre boom
+  U.S. companies awarding orders worth billions of dollars to build infrastructure for AI companies. But US tarrifs have either
+  🔗 https://www.livemint.com/companies/news/us-tariffs-hit-indian-cable-internet-gear-makers-sterlite-tech-hfcl-polycab-havells-11769417089187.html
 
-- “Most people are clueless”: Peter Schiff warns of an economic crisis as Gold, Silver hit record highs
+- Wall Street surges as investors eye Big Tech results, Fed rate decision
+  The S&amp;amp;P 500 rose 0.4%, the Dow Jones Industrial Average was up
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-surges-as-investors-eye-big-tech-results-fed-rate-decision-11769439860148.html
+
+- India-EU trade deal: Is trade war caused buy Trump's tariffs preparing to shift towards bond market?
+  The India-EU Summit may facilitate a Free Trade Agreement. This could strengthen trade ties, bolster exports, and help the economy navigate current global trade uncertainties.
+  🔗 https://www.livemint.com/market/bonds/indiaeu-trade-deal-is-trade-war-caused-buy-trumps-tariffs-preparing-to-shift-towards-bond-market-11769433835811.html
+
+- Budget 2026: Can LTCG tax cut halt sharp FPI selloff in Indian stock markets?
+  FPIs have net sold  ₹33,598 crore worth of Indian stocks in January so far. It is the highest monthly outflows since August 2025. Last year, the F
+  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-can-an-ltcg-tax-cut-halt-sharp-fpi-selloff-in-indian-stock-markets-11769431984404.html
+
+- ‘Most people are clueless’: Peter Schiff warns of an economic crisis as gold, silver hit record highs
   Gold and silver reach all-time highs. Peter Schiff warns that the surge reflects underlying economic stress. He links rising precious metal prices to a weakening dollar.
   🔗 https://www.livemint.com/market/commodities/most-people-are-clueless-peter-schiff-warns-of-an-economic-crisis-as-gold-silver-hit-record-highs-11769430285579.html
 
@@ -68,137 +80,145 @@
   In April 2025, selling 1 kg of gold would fetch roughly 110 kg of silver. Today, that same 1kg of gold gets you only about 47 kg ofSilver. This is not a marginal move — it represents a structural repricing
   🔗 https://www.livemint.com/market/commodities/goldsilver-ratio-slumps-sharply-what-does-it-signal-for-investors-explained-11769426391642.html
 
-- Gold price today crosses $5,000, Silver rate nears $110: What the record rally means for your portfolio
-  Gold and silver prices soared on January 26, reaching record highs. Gold surpassed $5,000 per ounce while silver rose over 5
-  🔗 https://www.livemint.com/market/commodities/gold-price-today-crosses-5-000-silver-rate-nears-110-what-the-record-rally-means-for-your-portfolio-11769423051674.html
+- Long Island teen missing after travelling to New York City to meet Roblox contact: Report
+  Long Island teenager has been missing for over two weeks. Police are investigating his movements, while his family and authorities appeal for public help.
+  🔗 https://www.livemint.com/technology/tech-news/long-island-teen-missing-after-travelling-to-new-york-city-to-meet-roblox-contact-report-11769448440682.html
 
-- India-EU trade deal: Tata Motors, M&amp;M to Bharat Forge — why auto stocks will be on focus on Tuesday?
-  India plans to reduce car import tariffs from 110% to 40%. This move is expected to benefit European luxury brands while increasing competition for local manufacturers.
-  🔗 https://www.livemint.com/market/stock-market-news/indiaeu-trade-deal-tata-motors-m-m-to-bharat-forge-why-auto-stocks-will-be-on-focus-on-tuesday-11769421161176.html
+- Apple launches updated AirTag in India with longer range and louder speaker: Price, features and more
+  Apple has launched an updated AirTag on Monday. The item tracker keeps the same design and pricing in India. It adds Apple Watch support and enhanced Precision Finding.
+  🔗 https://www.livemint.com/technology/gadgets/apple-launches-updated-airtag-in-india-with-longer-range-and-louder-speaker-price-features-and-more-11769440345461.html
 
-- Budget Week Jitters: Will Nifty 50 stabilise or slip further? - Check key support and resistance levels
-  In the lead-up to the Union Budget, Indian equity markets are experiencing caution and volatility. Analysts highlight the significance of key support and resistance levels.
-  🔗 https://www.livemint.com/market/stock-market-news/union-budget-week-jitters-will-nifty-50-stabilise-or-slip-further-check-key-support-and-resistance-levels-11769420499489.html
+- Elon Musk’s X faces EU investigation over Grok deepfakes controversy: All you need to know
+  Elon Musk’s X is under EU investigation over claims its Grok AI chatbot failed to curb illegal deepfake content.
+  🔗 https://www.livemint.com/technology/tech-news/elon-musk-s-x-faces-eu-investigation-over-grok-deepfakes-controversy-all-you-need-to-know-11769427064947.html
 
-- Japan Bond Crash Unleashes a $7 Trillion Risk for Global Markets - Bloomberg
-  Japan Bond Crash Unleashes a $7 Tr
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2pubTdfUlk1NHkxb3BBUGxKaF9ldnN1Nms4ZDJSRzVRNHN1dFlSejhyTklRN2htS08yRHVhRDRmSjhMM0JMVVpjRGdyUEJSVVY5VzZqQnFTdjZzcHRMQzg2NlNHWk5ybWV5OEtBSVNadjZJYzB6LUZlNm5TX09XN1NieF9xZDJWamt6QUhsU2FCUXNpSUd3c1VmWDVxdC1lVU9ZT2JCUXdvZ0VfNmcyc2w2UQ?oc=5
+- European Union opens investigation into Musks AI chatbot Grok over sexual deepfakes
+  European Union opens investigation into Musk's
+  🔗 https://www.livemint.com/technology/european-union-opens-investigation-into-musks-ai-chatbot-grok-over-sexual-deepfakes-11769426967615.html
+
+- Apple plans M5-powered Mac updates ahead of OLED MacBook Pro redesign: Report
+  New MacBook Pro, MacBook Air, Mac Studio and Studio Display models expected soon. Reports point to M5 chip upgrades now, followed by a major MacBook Pro redesign with OLED and new features in 2026.
+  🔗 https://www.livemint.com/technology/gadgets/apple-plans-m5-powered-mac-updates-ahead-of-oled-macbook-pro-redesign-report-11769425882541.html
+
+- S&P 500 rises as Apple, Meta gain ahead of earnings: Live updates - CNBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFBVTDFCYVBmSlVsLVVnQWlWY3A5amVlTmE1WmhCQ2FVY09qbE9WWE1rUk5paldodmxzQ3A3LVZoOUxxdXI2YzdzaG9aQnhiQ29zTG55T1ZCMHU3YmJKa0FXNk1wdTFFNnNqeD
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBVTDFCYVBmSlVsLVVnQWlWY3A5amVlTmE1WmhCQ2FVY09qbE9WWE1rUk5paldodmxzQ3A3LVZoOUxxdXI2YzdzaG9aQnhiQ29zTG55T1ZCMHU3YmJKa0FXNk1wdTFFNnNqeDVnRlI4QzZ6TGh4al9Z0gF8QVVfeXFMUDVDNE1fd2d0MWFEWjB2ZXNLM2FIYldVb3JLX3g1NEtSZGVvZldpTzFoM0RwbWtiOEl2cG9vN2p1ZWdBLTFwbTNZYXF5cUs5dU4xODFCbzhSQmFUbWk0b0dzRjd6LXZ6aV9qanh3bkk0REdneVdEaVYzYWluXw?oc=5
 
 - Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1: What to watch - Yahoo Finance
   Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1
   🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRWdyWUY0T3hLdVZkMDR4MzVRcWpRX3V6MDllVjNNVWFXeVUxM2pFbDFRTld0UlRDMVdRY0VYbEpMaU9iMFY1VEMza01vNURMYzNOU3V2VW1qTEtua1JIR0twRDFNZnExeXg5d013d0RCZWZWeFpZbndRdjFwZjhIbzA3eWdudFJzc1dDMUxhV2dQc0VEeGc2SmNoQ1FiSHFXU2l2SXctdXhacU1EbWRaQS1QSzUwY1BINFdiUk1ZdEdwUnZ5bmQxTUUxX0JvNmwyVmFuNTloeTFiR0NN?oc=5
 
-- What to Expect in Markets This Week: Fed Interest Rate Decision, Earnings From Microsoft, Meta, Tesla, Apple - Investopedia
-  What to Expect in Markets This Week: Fed Interest Rate Decision, Earnings
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGJyM2MzTFh4eFdTTUVWTDJxZGVOanJBcTB5TEFiQklwdXplRGJTUFNiSnhybDNVYlpweHRXekVvck15VU9rclFNZzFwcTgyTjR3NmhQVXNDRlRZSWZUbGFxbGpnME9rS3JpekxHMEc3dXU5YlNsNEpITEhmTGI5eUpySUtBWjVzOXp6bFl3dHdLcWIwTWxTaFcwU1BkbkVLNVNDUXAtV0JLTUNGVmZqZUVIRFhmejBDcFlaVGpOOTdhQmVObWNXRm53WXQ0a09YdXZUdkRrTWc?oc=5
+- Weekly Markets Monitor: yen does a 180° at 160 - World Gold Council
+  The World Gold Council is the world's largest
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxORFpFSjdlckhTb2EwMTJrejYwTkxnMU1xOFdrTVFEbF9VWG9PUllGUGdPVU5ic2lpS3Y0Y1NGblVubmxWR0swY2t2OHdTUmFBdHpNck9ZT0Zpa0tXNkp5S1hpVFA2OGx3VGhZRmxodmNOcGg4ZkdrVDFaSzNHUkJYUEFqRzFHbFZVNVBwanRBOHpQTXJY?oc=5
 
-- Stock futures are little changed as traders get set for a big week of trading: Live updates - CNBC
-  Stock futures are little changed as traders get set for a big week of trading
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBVTDFCYVBmSlVsLVVnQWlWY3A5amVlTmE1WmhCQ2FVY09qbE9WWE1rUk5paldodmxzQ3A3LVZoOUxxdXI2YzdzaG9aQnhiQ29zTG55T1ZCMHU3YmJKa0FXNk1wdTFFNnNqeDVnRlI4QzZ6TGh4al9Z0gF8QVVfeXFMUDVDNE1fd2d0MWFEWjB2ZXNLM2FIYldVb3JLX3g1NEtSZGVvZldpTzFoM0RwbWtiOEl2cG9vN2p1ZWdBLTFwbTNZYXF5cUs5dU4xODFCbzhSQmFUbWk0b0dzRjd6LXZ6aV9qanh3bkk0REdneVdEaVYzYWluXw?oc=5
+- Indian exporters seek new markets after Donald Trump’s trade blitz - Financial Times
+  Indian exporters seek new markets after Donald Trump
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE02QzBWY0J3dUdYTDZocF9RNUJ0TzhPV0U4eEJpSmZVYm5EWEZBWUd1MDMtd3Z1cHpycTZEc0wyeFpNUko0V3VBNmJxTGpESXNpYUxkQVNhZjdSbW9pNU02NDN2LUNYY1NUaWVYMHlEYjI?oc=5
 
-- Futures muted; Fed decision, earnings in focus this week - what’s moving markets - Investing.com
-  Futures muted; Fed decision, earnings in focus
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQMldTSW1Nb2t3Z29GUlJlSHlSSDc2WXlkclM0UldsTjhQTEhuanFzYTU3aVlPUGxzWmFGbEVjc1hsSkE5UnRGTWVyV0R3dlQydlI2WXBnVFZXMWdEU21qM3JyT2xWcFpyR2ZpUktsRUVSeDFQR1d0RTF2OWItc0FQRkxTcHQ5VGVDdmJZZm5VMldYclJSX3J1STk3OGpQSEkxcHBlR0tFb1o2akJST3l1RW1yZzNEMTYya1JqZVctNmVfTjJ2UV9V?oc=5
+- Five things to watch in markets in the week ahead - Investing.com
+  Investing.com looks at five things
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUZmbTUwZEU2QlNFYmRQOURYNm5nNEJXdDJGeW83RFRNb25VLWJzM2cxU0ZmNngxWUxDUmdZY0xJbGVCMVA1Tkhzekxuc085dG40TFNiQkdDMFdfZEhfdTVBVkJ0ZXFUVzBGTVk5TjN5a283QWtqZU94c2dRTGxQenotTTdjakRsNGhxZEtncDBsSjQtT3pTNzAwOUlXRE5ZYzdN?oc=5
 
-- Japan Bond Crash Unleashes a $7 Trillion Risk for Global Markets - Bloomberg
-  Japan Bond Crash Unleashes a $7 Tr
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2pubTdfUlk1NHkxb3BBUGxKaF9ldnN1Nms4ZDJSRzVRNHN1dFlSejhyTklRN2htS08yRHVhRDRmSjhMM0JMVVpjRGdyUEJSVVY5VzZqQnFTdjZzcHRMQzg2NlNHWk5ybWV5OEtBSVNadjZJYzB6LUZlNm5TX09XN1NieF9xZDJWamt6QUhsU2FCUXNpSUd3c1VmWDVxdC1lVU9ZT2JCUXdvZ0VfNmcyc2w2UQ?oc=5
+- S&amp;P 500, Dow open slightly higher with big tech results, Fed decision on deck
+  The Dow Jones Industrial Average and S&amp;P 500 saw slight increases. The Nasdaq Composite experienced a minor dip in early trading.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/sp-500-dow-open-slightly-higher-with-big-tech-results-fed-decision-on-deck/articleshow/127556867.cms
 
-- Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1: What to watch - Yahoo Finance
-  Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRWdyWUY0T3hLdVZkMDR4MzVRcWpRX3V6MDllVjNNVWFXeVUxM2pFbDFRTld0UlRDMVdRY0VYbEpMaU9iMFY1VEMza01vNURMYzNOU3V2VW1qTEtua1JIR0twRDFNZnExeXg5d013d0RCZWZWeFpZbndRdjFwZjhIbzA3eWdudFJzc1dDMUxhV2dQc0VEeGc2SmNoQ1FiSHFXU2l2SXctdXhacU1EbWRaQS1QSzUwY1BINFdiUk1ZdEdwUnZ5bmQxTUUxX0JvNmwyVmFuNTloeTFiR0NN?oc=5
+- Asian Paints Q3 Preview: PAT seen up 8% YoY; volume growth to pick up
+  Asian Paints is poised for a steady December quarter performance. While margins are set to expand due to lower raw material costs, revenue growth will be moderated by weak pricing and a challenging demand environment.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-paints-q3-preview-pat-seen-up-8-yoy-volume-growth-to-pick-up/articleshow/127545920.cms
 
-- What to Expect in Markets This Week: Fed Interest Rate Decision, Earnings From Microsoft, Meta, Tesla, Apple - Investopedia
-  What to Expect in Markets This Week: Fed Interest Rate Decision, Earnings
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGJyM2MzTFh4eFdTTUVWTDJxZGVOanJBcTB5TEFiQklwdXplRGJTUFNiSnhybDNVYlpweHRXekVvck15VU9rclFNZzFwcTgyTjR3NmhQVXNDRlRZSWZUbGFxbGpnME9rS3JpekxHMEc3dXU5YlNsNEpITEhmTGI5eUpySUtBWjVzOXp6bFl3dHdLcWIwTWxTaFcwU1BkbkVLNVNDUXAtV0JLTUNGVmZqZUVIRFhmejBDcFlaVGpOOTdhQmVObWNXRm53WXQ0a09YdXZUdkRrTWc?oc=5
+- IPO GMP Watch: Shadowfax hints at discounted debut; SME issues dull
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ipo-gmp-watch-shadowfax-hints-at-discounted-debut-sme-issues-dull/slideshow/127545694.cms
 
-- Stock futures are little changed as traders get set for a big week of trading: Live updates - CNBC
-  Stock futures are little changed as traders get set for a big week of trading
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBVTDFCYVBmSlVsLVVnQWlWY3A5amVlTmE1WmhCQ2FVY09qbE9WWE1rUk5paldodmxzQ3A3LVZoOUxxdXI2YzdzaG9aQnhiQ29zTG55T1ZCMHU3YmJKa0FXNk1wdTFFNnNqeDVnRlI4QzZ6TGh4al9Z0gF8QVVfeXFMUDVDNE1fd2d0MWFEWjB2ZXNLM2FIYldVb3JLX3g1NEtSZGVvZldpTzFoM0RwbWtiOEl2cG9vN2p1ZWdBLTFwbTNZYXF5cUs5dU4xODFCbzhSQmFUbWk0b0dzRjd6LXZ6aV9qanh3bkk0REdneVdEaVYzYWluXw?oc=5
+- Global shares mostly dip as yen rises against U.S. dollar
+  Global shares mostly declined on Monday, as in Asia, Japan's benchmark took a tumble
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/global-shares-mostly-dip-as-yen-rises-against-u-s-dollar/articleshow/127544346.cms
 
-- Futures muted; Fed decision, earnings in focus this week - what’s moving markets - Investing.com
-  Futures muted; Fed decision, earnings in focus
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQMldTSW1Nb2t3Z29GUlJlSHlSSDc2WXlkclM0UldsTjhQTEhuanFzYTU3aVlPUGxzWmFGbEVjc1hsSkE5UnRGTWVyV0R3dlQydlI2WXBnVFZXMWdEU21qM3JyT2xWcFpyR2ZpUktsRUVSeDFQR1d0RTF2OWItc0FQRkxTcHQ5VGVDdmJZZm5VMldYclJSX3J1STk3OGpQSEkxcHBlR0tFb1o2akJST3l1RW1yZzNEMTYya1JqZVctNmVfTjJ2UV9V?oc=5
-
-- Republic Day 2026 Highlights: Republic Day Parade Showcases India’s ‘Sindoor’ Valour, Vibrant Cultural Pride - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeH
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeHVsVXBKdkJVRFVVamdqcE5vMzl1QjdmcS1xRjh2ODYyVlpwaGF5UnpLYkZ2R3p5Nk5rX3dnUUNqWGl5dXI3ZTBjc29Dbzg3VV9OZUpPZlotNGRvdFgwbkt3UXNmeVU0QVJrU2kyMk5BMFNfWFZodlNqSzU2ZG5JclJXZldkbTlFSU01Ykg2bGp3QmVkOHVFS2Y2T1NVUVdOTWFFdlE2WTdtME8tR0NSMHhJLXhFUmxMYUHSAaICQVVfeXFMT3FqU1FSSnBfNV91Nzk1bTZ5UmRwdEllVWRYM2daLUFwVlBGQUljZVl1dHdzZy1qaWRNSVJEUkVSblNsanhCeVMzaWdjbUVtem9RakR2UEZiOWtSeHZzZ0Rma0dVeXZMVzVxR2EzWXdYb1RlX1c2clpXbU5hZGdkOHVpeUw0TWMxQzM2RzJONG1jSHY4UzJyUTVUZm5lQUMwaVNwYlR6Qm50NkJYVnlFQUoyRnVMdVRyZ1d1WTZNRGNjMERlNXlqZjAwTWZEV3N4ZTEwYUhtWmlieHozSGYxSzh4dmdQWEZLOWFEZnY5Z3AzS3l5eWFLbnRBUjZtOHYtQ01Wck5nVXRCWEN2cml3TV9wMW5mSWRFTkliS3VMTVZKV0E?oc=5
-
-- "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
-  "Surprised, Shocked
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
-
-- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
-  Bangladesh slams India over fugitive ex-
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
-
-- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
-  Bangladesh protests Sheikh Hasina's Delhi address, calls her
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
-
-- President Xi says India, China ‘friends, partners’ in Republic Day message - Al Jazeera
-  President Xi says India, China ‘friends,
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0ZEVXlPaGRkeEFuOXVIcTdZZFV6V0JQb0hYa0VId05Bc2NWcldaVjcyRHdBUTZKcVVyOXk2aGhZeWtJWGpFXy1xTm5maFNjWmNBX2VBcy1uemszeVJfYmg2cXczMHljbVdaYjVfLXBVejhua2RsUThsNWpqb0d3dlJXMi1Edm1YN0ZRSE5pcUN5OWo3Q0ZNamxKakVQcGowMFo5UTgwMjRGODNVUWxpbtIBtgFBVV95cUxNd285Z3F3MzVWUkwtVi14eDk5eUVONW9QNTdybGJfaUdvdUZMTFVNSG50aFRRck0tNXBuRENoR0RLQ2RIandHS1R6cDRvN2I4VmFqQ05ZY3haNkZaZzdSOUdSRko3bVYxZEp4OHJiMU02RnRQTGVRSkNLTGdaMVFJUWNoN3BLQlZpNzRUOFQwRXJ4SkJhMlNnZDYtRlBjYXlscVEyd05YRWZFeElqSS1HVGIzQWhNZw?oc=5
+- Market Trading Guide: Two stocks to buy on Tuesday with up to 11% upside. Check details
+  Indian markets closed significantly lower on Friday, with the banking, energy, and auto sectors leading the decline. The Nifty fell below its 200-day moving average,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-two-stocks-to-buy-on-tuesday-with-up-to-11-upside-check-details/slideshow/127539690.cms
 
 - Republic Day 2026 Highlights: Republic Day Parade Showcases India’s ‘Sindoor’ Valour, Vibrant Cultural Pride - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeH
   🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeHVsVXBKdkJVRFVVamdqcE5vMzl1QjdmcS1xRjh2ODYyVlpwaGF5UnpLYkZ2R3p5Nk5rX3dnUUNqWGl5dXI3ZTBjc29Dbzg3VV9OZUpPZlotNGRvdFgwbkt3UXNmeVU0QVJrU2kyMk5BMFNfWFZodlNqSzU2ZG5JclJXZldkbTlFSU01Ykg2bGp3QmVkOHVFS2Y2T1NVUVdOTWFFdlE2WTdtME8tR0NSMHhJLXhFUmxMYUHSAaICQVVfeXFMT3FqU1FSSnBfNV91Nzk1bTZ5UmRwdEllVWRYM2daLUFwVlBGQUljZVl1dHdzZy1qaWRNSVJEUkVSblNsanhCeVMzaWdjbUVtem9RakR2UEZiOWtSeHZzZ0Rma0dVeXZMVzVxR2EzWXdYb1RlX1c2clpXbU5hZGdkOHVpeUw0TWMxQzM2RzJONG1jSHY4UzJyUTVUZm5lQUMwaVNwYlR6Qm50NkJYVnlFQUoyRnVMdVRyZ1d1WTZNRGNjMERlNXlqZjAwTWZEV3N4ZTEwYUhtWmlieHozSGYxSzh4dmdQWEZLOWFEZnY5Z3AzS3l5eWFLbnRBUjZtOHYtQ01Wck5nVXRCWEN2cml3TV9wMW5mSWRFTkliS3VMTVZKV0E?oc=5
 
-- "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
-  "Surprised, Shocked
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
+- Kashmir braces for heavy snowfall after last week’s spell - Times of India
+  Kashmir braces for heavy snowfall after
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNczdjUDdVV29tdEo1NnBuX1VyeUduV0x6dTFhX0xTeV9fQ2tlU1RtSm56bmRkV2pCQmEtNHNULWk4UmJOZ3UzRVFZbWpHaUVxR1VRVTNJeXA2bTl0OGlmN19EaEMxSG1EMkMtZVFnelc3VFN3em5WSWdfU29pRU1OZEtTdGFUeGF2Y2JqaTR1UjNhWHVtdjVROUYzOGExdE5nbFNobFVFYnZYY252RkhHNVdScDBBaHE0VlpsT2xZZmx3QdIBxwFBVV95cUxQdGdmNktTRlZwRVNITTg1b3BYcTBXd2JUalJsc0lZS2kzQUdXc1g1bGYzVWxZa3JIWXdLVDFZemh6cGhQX19JenJIeVNxVnhrZzJJc24tY2NPM3p0MWJ1aFAxSUtsSXlKRVRIRXU3T3lWM3NlUDdvTHM3UXV4Z2ZqZC02ejBOMGJmajlLa3I0eHhRNlRhQmZrblJGcW9RcjE0WWNOOWlEYUpSelJTS09fSXVjRnc3Z1AxT0R3SERETHNGMF9xdm9n?oc=5
 
-- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
-  Bangladesh slams India over fugitive ex-
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
+- Europe financing 'war' against itself by buying Russian oil products from India: Bessent - The Hindu
+  Europe financing 'war' against itself by buying Russian oil products
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd05vXzQ2bEF6NldmUzdBdFFuSGdMcGx1ZlBvUlpZX1NVTGlFbUd4RWRHM0NLWDlSSUsyYk9zd3g1am5YaHpWQ2g4TlIzSldvT2JfNmlxb2pEMmVLZXNDcHhuYml0TGVjOHpFdUpQZVdFQW5MOTFxYks0eUJwbHd1bmpleDZWb0x4VHZmMmROZXEyOEtzUXQ3WVQtLUZkbGdZNjBVWnBJNzBXb0xKSVBLa3NYa1J5eUJFaVRaRnJqUmxIQ2JVU1dRcjc4SEpEYTRDSVhMVVVjNUFId1FNQzdJdV9NVdIB6gFBVV95cUxPSThxbGxJcTBDZVJnc256U1lyLWhvV3V3WWNROTRuVHpUanN2NVF0QkhaRXNfMkZPbjQxc29JS1ZXNElPU0NJVERldldPam1rd19hS0t3dUdGd3BOZzVpX254TGlZVTczMVdrZXphcVd6VGpJVV9ub3BTRVRydFFVd2dPWkpGeGZ1bVZYVGQ4cjd1WktLdW9wUjBjcElOdUhZUkwzX2pJTHpXay13RUZyWVhrUHRsRFA0Unc4WUI2YkczQmpWLUltMktnTjI1Um9XOHdOaEFOZ2ktb0xOd1ZuMVplSEFBOTNTNkE?oc=5
 
-- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
-  Bangladesh protests Sheikh Hasina's Delhi address, calls her
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
+- 'Financing the war against themselves': US Treasury Secretary flags concerns over India-EU trade deal - India TV News
+  'Financing the war against themselves': US Treasury Secretary flags concerns over
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPanA1MGk1RkUxWURaaUxCNC1qd2hFXzZoNGc1VzQ2bGtuaU9EaTBKdGpiTmcwSFNBUC1SdU52bDk0SUlHYWtkTVhnMHhNdUpuTUdMeW5kX3dsS0E3NXBlSFgxZTlZTFNvX3dqNlJLZ1hsN3E5WkFjVEdrOHFZOEFXNnhPQllUMVVlMmk4MWF6TDdROWJRUXZuU19PdGR5LVM3TzNoeUt5d1pSTFNMYnBSQ1ZvQkp1MVNZVzM0UWVjRm9penVFZlBvbjd1MElvTDllS2RJbTUzbk04OG9NQ1dhOExIT0dMVzZtZ0wxd1JWVXp2Z3U4ckdscHpaTzJ3bGPSAYQCQVVfeXFMUDVYRGlNWDNmNldHd0lpTkMyU1k4aEh5YndPNUZZZVdXeVliQU1oUUU4SHlWQnJuQlEzWHMwZVJsMmFGNkxDMDhxaEpaVGZyV2pwaVVXNUlKLThiYzlfWlJFNUpJaUZtNWFPcUI3QTdUWmp6dlF2eHN5bWRuM0NzME1hUVZqTEdEcjhhZ1RaT3E2Y1lSMHZzSEtYWkhkUDZvV1BuaUVvMjdQeVB1RjdKLXE5LW42MXFtQkxHUWFhcFEtaHZtYzNfSXI4WENTa01BWFNlMUctRWZCRmpJTjIteWx2SmExUklXWlJPVExSTFJfZnJSSG5zQ3BaaU5TcWFnM0JtUTI?oc=5
 
-- President Xi says India, China ‘friends, partners’ in Republic Day message - Al Jazeera
-  President Xi says India, China ‘friends,
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0ZEVXlPaGRkeEFuOXVIcTdZZFV6V0JQb0hYa0VId05Bc2NWcldaVjcyRHdBUTZKcVVyOXk2aGhZeWtJWGpFXy1xTm5maFNjWmNBX2VBcy1uemszeVJfYmg2cXczMHljbVdaYjVfLXBVejhua2RsUThsNWpqb0d3dlJXMi1Edm1YN0ZRSE5pcUN5OWo3Q0ZNamxKakVQcGowMFo5UTgwMjRGODNVUWxpbtIBtgFBVV95cUxNd285Z3F3MzVWUkwtVi14eDk5eUVONW9QNTdybGJfaUdvdUZMTFVNSG50aFRRck0tNXBuRENoR0RLQ2RIandHS1R6cDRvN2I4VmFqQ05ZY3haNkZaZzdSOUdSRko3bVYxZEp4OHJiMU02RnRQTGVRSkNLTGdaMVFJUWNoN3BLQlZpNzRUOFQwRXJ4SkJhMlNnZDYtRlBjYXlscVEyd05YRWZFeElqSS1HVGIzQWhNZw?oc=5
-
-- Republic Day 2026 Highlights: Republic Day Parade Showcases India’s ‘Sindoor’ Valour, Vibrant Cultural Pride - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeH
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeHVsVXBKdkJVRFVVamdqcE5vMzl1QjdmcS1xRjh2ODYyVlpwaGF5UnpLYkZ2R3p5Nk5rX3dnUUNqWGl5dXI3ZTBjc29Dbzg3VV9OZUpPZlotNGRvdFgwbkt3UXNmeVU0QVJrU2kyMk5BMFNfWFZodlNqSzU2ZG5JclJXZldkbTlFSU01Ykg2bGp3QmVkOHVFS2Y2T1NVUVdOTWFFdlE2WTdtME8tR0NSMHhJLXhFUmxMYUHSAaICQVVfeXFMT3FqU1FSSnBfNV91Nzk1bTZ5UmRwdEllVWRYM2daLUFwVlBGQUljZVl1dHdzZy1qaWRNSVJEUkVSblNsanhCeVMzaWdjbUVtem9RakR2UEZiOWtSeHZzZ0Rma0dVeXZMVzVxR2EzWXdYb1RlX1c2clpXbU5hZGdkOHVpeUw0TWMxQzM2RzJONG1jSHY4UzJyUTVUZm5lQUMwaVNwYlR6Qm50NkJYVnlFQUoyRnVMdVRyZ1d1WTZNRGNjMERlNXlqZjAwTWZEV3N4ZTEwYUhtWmlieHozSGYxSzh4dmdQWEZLOWFEZnY5Z3AzS3l5eWFLbnRBUjZtOHYtQ01Wck5nVXRCWEN2cml3TV9wMW5mSWRFTkliS3VMTVZKV0E?oc=5
-
-- "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
-  "Surprised, Shocked
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
-
-- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
-  Bangladesh slams India over fugitive ex-
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
-
-- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
-  Bangladesh protests Sheikh Hasina's Delhi address, calls her
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
-
-- President Xi says India, China ‘friends, partners’ in Republic Day message - Al Jazeera
-  President Xi says India, China ‘friends,
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0ZEVXlPaGRkeEFuOXVIcTdZZFV6V0JQb0hYa0VId05Bc2NWcldaVjcyRHdBUTZKcVVyOXk2aGhZeWtJWGpFXy1xTm5maFNjWmNBX2VBcy1uemszeVJfYmg2cXczMHljbVdaYjVfLXBVejhua2RsUThsNWpqb0d3dlJXMi1Edm1YN0ZRSE5pcUN5OWo3Q0ZNamxKakVQcGowMFo5UTgwMjRGODNVUWxpbtIBtgFBVV95cUxNd285Z3F3MzVWUkwtVi14eDk5eUVONW9QNTdybGJfaUdvdUZMTFVNSG50aFRRck0tNXBuRENoR0RLQ2RIandHS1R6cDRvN2I4VmFqQ05ZY3haNkZaZzdSOUdSRko3bVYxZEp4OHJiMU02RnRQTGVRSkNLTGdaMVFJUWNoN3BLQlZpNzRUOFQwRXJ4SkJhMlNnZDYtRlBjYXlscVEyd05YRWZFeElqSS1HVGIzQWhNZw?oc=5
+- Europe financing 'war' against itself by buying Russian oil products from India: Scott Bessent - The Economic Times
+  Europe financing 'war' against itself by buying Russian oil products from India
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNM0tnV3J3NXVXZjRTOUtYUWFZajdBdjUweEtqeUlqZW9fU0xOZzJHU1BTY1RmZkRzV3pVSGgxWFNaMWtkdlFwQkdPQ0x6enEwS2g0TkwwZ1ZmTVZhUHpZa0hCcFppTnoyRmJPNWt5YnFlX19LUmVxNnR0VWs3SWtmVVc1MjFMSmcxV2FBcldsSG9QYVkyNDFiX19ucllTZnJ0eVUzSm9OQy1hVV9ENUo0UjRSVVBQeC1oSThISWhSb1owNDZWZVhVVEdYZ05DbDJvUFpldGJMc0hzM2RUWFU5SmhoTnZYX2o3N1VLeDlVLW1LNG5kUGRYajNmVm1ENmZON1HSAYcCQVVfeXFMT2xlWTJ6TXduYVhtWkJQcHE0NHlQM1FZWTJRWDlraTlqUXBJNFVGZFBERnU5VXhHYUlpMGNrOTRtVzhhMHN4NUtlYThNUWdEMlBiOUZKemdtVDNMMjQxYkxZMXR5bXE4TzNrMG1WM2F5dkRJRlhiQUhkcDNKYWQ5emJOX0I3U1BacXRsb2VFamlsVlNJZkdpejB1WENZNGRrZXZoRW1Bd2pGNVh4SzRDTTdsOEg0Sjl4c2UwdV9oRW4xTG9lTUhFRXZoSGlqc1k5V1RkcjF3Q0d0MUVEY2ZqWGpfdFB6NWtZbm00YW9IbHFhU2pSQm5rNjBTNHNQenk5Ym1PUC1La3c?oc=5
 
 - Republic Day 2026 Highlights: Republic Day Parade Showcases India’s ‘Sindoor’ Valour, Vibrant Cultural Pride - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeH
   🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeHVsVXBKdkJVRFVVamdqcE5vMzl1QjdmcS1xRjh2ODYyVlpwaGF5UnpLYkZ2R3p5Nk5rX3dnUUNqWGl5dXI3ZTBjc29Dbzg3VV9OZUpPZlotNGRvdFgwbkt3UXNmeVU0QVJrU2kyMk5BMFNfWFZodlNqSzU2ZG5JclJXZldkbTlFSU01Ykg2bGp3QmVkOHVFS2Y2T1NVUVdOTWFFdlE2WTdtME8tR0NSMHhJLXhFUmxMYUHSAaICQVVfeXFMT3FqU1FSSnBfNV91Nzk1bTZ5UmRwdEllVWRYM2daLUFwVlBGQUljZVl1dHdzZy1qaWRNSVJEUkVSblNsanhCeVMzaWdjbUVtem9RakR2UEZiOWtSeHZzZ0Rma0dVeXZMVzVxR2EzWXdYb1RlX1c2clpXbU5hZGdkOHVpeUw0TWMxQzM2RzJONG1jSHY4UzJyUTVUZm5lQUMwaVNwYlR6Qm50NkJYVnlFQUoyRnVMdVRyZ1d1WTZNRGNjMERlNXlqZjAwTWZEV3N4ZTEwYUhtWmlieHozSGYxSzh4dmdQWEZLOWFEZnY5Z3AzS3l5eWFLbnRBUjZtOHYtQ01Wck5nVXRCWEN2cml3TV9wMW5mSWRFTkliS3VMTVZKV0E?oc=5
 
-- "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
-  "Surprised, Shocked
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
+- Kashmir braces for heavy snowfall after last week’s spell - Times of India
+  Kashmir braces for heavy snowfall after
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNczdjUDdVV29tdEo1NnBuX1VyeUduV0x6dTFhX0xTeV9fQ2tlU1RtSm56bmRkV2pCQmEtNHNULWk4UmJOZ3UzRVFZbWpHaUVxR1VRVTNJeXA2bTl0OGlmN19EaEMxSG1EMkMtZVFnelc3VFN3em5WSWdfU29pRU1OZEtTdGFUeGF2Y2JqaTR1UjNhWHVtdjVROUYzOGExdE5nbFNobFVFYnZYY252RkhHNVdScDBBaHE0VlpsT2xZZmx3QdIBxwFBVV95cUxQdGdmNktTRlZwRVNITTg1b3BYcTBXd2JUalJsc0lZS2kzQUdXc1g1bGYzVWxZa3JIWXdLVDFZemh6cGhQX19JenJIeVNxVnhrZzJJc24tY2NPM3p0MWJ1aFAxSUtsSXlKRVRIRXU3T3lWM3NlUDdvTHM3UXV4Z2ZqZC02ejBOMGJmajlLa3I0eHhRNlRhQmZrblJGcW9RcjE0WWNOOWlEYUpSelJTS09fSXVjRnc3Z1AxT0R3SERETHNGMF9xdm9n?oc=5
 
-- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
-  Bangladesh slams India over fugitive ex-
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
+- Europe financing 'war' against itself by buying Russian oil products from India: Bessent - The Hindu
+  Europe financing 'war' against itself by buying Russian oil products
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd05vXzQ2bEF6NldmUzdBdFFuSGdMcGx1ZlBvUlpZX1NVTGlFbUd4RWRHM0NLWDlSSUsyYk9zd3g1am5YaHpWQ2g4TlIzSldvT2JfNmlxb2pEMmVLZXNDcHhuYml0TGVjOHpFdUpQZVdFQW5MOTFxYks0eUJwbHd1bmpleDZWb0x4VHZmMmROZXEyOEtzUXQ3WVQtLUZkbGdZNjBVWnBJNzBXb0xKSVBLa3NYa1J5eUJFaVRaRnJqUmxIQ2JVU1dRcjc4SEpEYTRDSVhMVVVjNUFId1FNQzdJdV9NVdIB6gFBVV95cUxPSThxbGxJcTBDZVJnc256U1lyLWhvV3V3WWNROTRuVHpUanN2NVF0QkhaRXNfMkZPbjQxc29JS1ZXNElPU0NJVERldldPam1rd19hS0t3dUdGd3BOZzVpX254TGlZVTczMVdrZXphcVd6VGpJVV9ub3BTRVRydFFVd2dPWkpGeGZ1bVZYVGQ4cjd1WktLdW9wUjBjcElOdUhZUkwzX2pJTHpXay13RUZyWVhrUHRsRFA0Unc4WUI2YkczQmpWLUltMktnTjI1Um9XOHdOaEFOZ2ktb0xOd1ZuMVplSEFBOTNTNkE?oc=5
 
-- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
-  Bangladesh protests Sheikh Hasina's Delhi address, calls her
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
+- 'Financing the war against themselves': US Treasury Secretary flags concerns over India-EU trade deal - India TV News
+  'Financing the war against themselves': US Treasury Secretary flags concerns over
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPanA1MGk1RkUxWURaaUxCNC1qd2hFXzZoNGc1VzQ2bGtuaU9EaTBKdGpiTmcwSFNBUC1SdU52bDk0SUlHYWtkTVhnMHhNdUpuTUdMeW5kX3dsS0E3NXBlSFgxZTlZTFNvX3dqNlJLZ1hsN3E5WkFjVEdrOHFZOEFXNnhPQllUMVVlMmk4MWF6TDdROWJRUXZuU19PdGR5LVM3TzNoeUt5d1pSTFNMYnBSQ1ZvQkp1MVNZVzM0UWVjRm9penVFZlBvbjd1MElvTDllS2RJbTUzbk04OG9NQ1dhOExIT0dMVzZtZ0wxd1JWVXp2Z3U4ckdscHpaTzJ3bGPSAYQCQVVfeXFMUDVYRGlNWDNmNldHd0lpTkMyU1k4aEh5YndPNUZZZVdXeVliQU1oUUU4SHlWQnJuQlEzWHMwZVJsMmFGNkxDMDhxaEpaVGZyV2pwaVVXNUlKLThiYzlfWlJFNUpJaUZtNWFPcUI3QTdUWmp6dlF2eHN5bWRuM0NzME1hUVZqTEdEcjhhZ1RaT3E2Y1lSMHZzSEtYWkhkUDZvV1BuaUVvMjdQeVB1RjdKLXE5LW42MXFtQkxHUWFhcFEtaHZtYzNfSXI4WENTa01BWFNlMUctRWZCRmpJTjIteWx2SmExUklXWlJPVExSTFJfZnJSSG5zQ3BaaU5TcWFnM0JtUTI?oc=5
 
-- President Xi says India, China ‘friends, partners’ in Republic Day message - Al Jazeera
-  President Xi says India, China ‘friends,
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0ZEVXlPaGRkeEFuOXVIcTdZZFV6V0JQb0hYa0VId05Bc2NWcldaVjcyRHdBUTZKcVVyOXk2aGhZeWtJWGpFXy1xTm5maFNjWmNBX2VBcy1uemszeVJfYmg2cXczMHljbVdaYjVfLXBVejhua2RsUThsNWpqb0d3dlJXMi1Edm1YN0ZRSE5pcUN5OWo3Q0ZNamxKakVQcGowMFo5UTgwMjRGODNVUWxpbtIBtgFBVV95cUxNd285Z3F3MzVWUkwtVi14eDk5eUVONW9QNTdybGJfaUdvdUZMTFVNSG50aFRRck0tNXBuRENoR0RLQ2RIandHS1R6cDRvN2I4VmFqQ05ZY3haNkZaZzdSOUdSRko3bVYxZEp4OHJiMU02RnRQTGVRSkNLTGdaMVFJUWNoN3BLQlZpNzRUOFQwRXJ4SkJhMlNnZDYtRlBjYXlscVEyd05YRWZFeElqSS1HVGIzQWhNZw?oc=5
+- Europe financing 'war' against itself by buying Russian oil products from India: Scott Bessent - The Economic Times
+  Europe financing 'war' against itself by buying Russian oil products from India
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNM0tnV3J3NXVXZjRTOUtYUWFZajdBdjUweEtqeUlqZW9fU0xOZzJHU1BTY1RmZkRzV3pVSGgxWFNaMWtkdlFwQkdPQ0x6enEwS2g0TkwwZ1ZmTVZhUHpZa0hCcFppTnoyRmJPNWt5YnFlX19LUmVxNnR0VWs3SWtmVVc1MjFMSmcxV2FBcldsSG9QYVkyNDFiX19ucllTZnJ0eVUzSm9OQy1hVV9ENUo0UjRSVVBQeC1oSThISWhSb1owNDZWZVhVVEdYZ05DbDJvUFpldGJMc0hzM2RUWFU5SmhoTnZYX2o3N1VLeDlVLW1LNG5kUGRYajNmVm1ENmZON1HSAYcCQVVfeXFMT2xlWTJ6TXduYVhtWkJQcHE0NHlQM1FZWTJRWDlraTlqUXBJNFVGZFBERnU5VXhHYUlpMGNrOTRtVzhhMHN4NUtlYThNUWdEMlBiOUZKemdtVDNMMjQxYkxZMXR5bXE4TzNrMG1WM2F5dkRJRlhiQUhkcDNKYWQ5emJOX0I3U1BacXRsb2VFamlsVlNJZkdpejB1WENZNGRrZXZoRW1Bd2pGNVh4SzRDTTdsOEg0Sjl4c2UwdV9oRW4xTG9lTUhFRXZoSGlqc1k5V1RkcjF3Q0d0MUVEY2ZqWGpfdFB6NWtZbm00YW9IbHFhU2pSQm5rNjBTNHNQenk5Ym1PUC1La3c?oc=5
+
+- Republic Day 2026 Highlights: Republic Day Parade Showcases India’s ‘Sindoor’ Valour, Vibrant Cultural Pride - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeH
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeHVsVXBKdkJVRFVVamdqcE5vMzl1QjdmcS1xRjh2ODYyVlpwaGF5UnpLYkZ2R3p5Nk5rX3dnUUNqWGl5dXI3ZTBjc29Dbzg3VV9OZUpPZlotNGRvdFgwbkt3UXNmeVU0QVJrU2kyMk5BMFNfWFZodlNqSzU2ZG5JclJXZldkbTlFSU01Ykg2bGp3QmVkOHVFS2Y2T1NVUVdOTWFFdlE2WTdtME8tR0NSMHhJLXhFUmxMYUHSAaICQVVfeXFMT3FqU1FSSnBfNV91Nzk1bTZ5UmRwdEllVWRYM2daLUFwVlBGQUljZVl1dHdzZy1qaWRNSVJEUkVSblNsanhCeVMzaWdjbUVtem9RakR2UEZiOWtSeHZzZ0Rma0dVeXZMVzVxR2EzWXdYb1RlX1c2clpXbU5hZGdkOHVpeUw0TWMxQzM2RzJONG1jSHY4UzJyUTVUZm5lQUMwaVNwYlR6Qm50NkJYVnlFQUoyRnVMdVRyZ1d1WTZNRGNjMERlNXlqZjAwTWZEV3N4ZTEwYUhtWmlieHozSGYxSzh4dmdQWEZLOWFEZnY5Z3AzS3l5eWFLbnRBUjZtOHYtQ01Wck5nVXRCWEN2cml3TV9wMW5mSWRFTkliS3VMTVZKV0E?oc=5
+
+- Kashmir braces for heavy snowfall after last week’s spell - Times of India
+  Kashmir braces for heavy snowfall after
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNczdjUDdVV29tdEo1NnBuX1VyeUduV0x6dTFhX0xTeV9fQ2tlU1RtSm56bmRkV2pCQmEtNHNULWk4UmJOZ3UzRVFZbWpHaUVxR1VRVTNJeXA2bTl0OGlmN19EaEMxSG1EMkMtZVFnelc3VFN3em5WSWdfU29pRU1OZEtTdGFUeGF2Y2JqaTR1UjNhWHVtdjVROUYzOGExdE5nbFNobFVFYnZYY252RkhHNVdScDBBaHE0VlpsT2xZZmx3QdIBxwFBVV95cUxQdGdmNktTRlZwRVNITTg1b3BYcTBXd2JUalJsc0lZS2kzQUdXc1g1bGYzVWxZa3JIWXdLVDFZemh6cGhQX19JenJIeVNxVnhrZzJJc24tY2NPM3p0MWJ1aFAxSUtsSXlKRVRIRXU3T3lWM3NlUDdvTHM3UXV4Z2ZqZC02ejBOMGJmajlLa3I0eHhRNlRhQmZrblJGcW9RcjE0WWNOOWlEYUpSelJTS09fSXVjRnc3Z1AxT0R3SERETHNGMF9xdm9n?oc=5
+
+- Europe financing 'war' against itself by buying Russian oil products from India: Bessent - The Hindu
+  Europe financing 'war' against itself by buying Russian oil products
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd05vXzQ2bEF6NldmUzdBdFFuSGdMcGx1ZlBvUlpZX1NVTGlFbUd4RWRHM0NLWDlSSUsyYk9zd3g1am5YaHpWQ2g4TlIzSldvT2JfNmlxb2pEMmVLZXNDcHhuYml0TGVjOHpFdUpQZVdFQW5MOTFxYks0eUJwbHd1bmpleDZWb0x4VHZmMmROZXEyOEtzUXQ3WVQtLUZkbGdZNjBVWnBJNzBXb0xKSVBLa3NYa1J5eUJFaVRaRnJqUmxIQ2JVU1dRcjc4SEpEYTRDSVhMVVVjNUFId1FNQzdJdV9NVdIB6gFBVV95cUxPSThxbGxJcTBDZVJnc256U1lyLWhvV3V3WWNROTRuVHpUanN2NVF0QkhaRXNfMkZPbjQxc29JS1ZXNElPU0NJVERldldPam1rd19hS0t3dUdGd3BOZzVpX254TGlZVTczMVdrZXphcVd6VGpJVV9ub3BTRVRydFFVd2dPWkpGeGZ1bVZYVGQ4cjd1WktLdW9wUjBjcElOdUhZUkwzX2pJTHpXay13RUZyWVhrUHRsRFA0Unc4WUI2YkczQmpWLUltMktnTjI1Um9XOHdOaEFOZ2ktb0xOd1ZuMVplSEFBOTNTNkE?oc=5
+
+- 'Financing the war against themselves': US Treasury Secretary flags concerns over India-EU trade deal - India TV News
+  'Financing the war against themselves': US Treasury Secretary flags concerns over
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPanA1MGk1RkUxWURaaUxCNC1qd2hFXzZoNGc1VzQ2bGtuaU9EaTBKdGpiTmcwSFNBUC1SdU52bDk0SUlHYWtkTVhnMHhNdUpuTUdMeW5kX3dsS0E3NXBlSFgxZTlZTFNvX3dqNlJLZ1hsN3E5WkFjVEdrOHFZOEFXNnhPQllUMVVlMmk4MWF6TDdROWJRUXZuU19PdGR5LVM3TzNoeUt5d1pSTFNMYnBSQ1ZvQkp1MVNZVzM0UWVjRm9penVFZlBvbjd1MElvTDllS2RJbTUzbk04OG9NQ1dhOExIT0dMVzZtZ0wxd1JWVXp2Z3U4ckdscHpaTzJ3bGPSAYQCQVVfeXFMUDVYRGlNWDNmNldHd0lpTkMyU1k4aEh5YndPNUZZZVdXeVliQU1oUUU4SHlWQnJuQlEzWHMwZVJsMmFGNkxDMDhxaEpaVGZyV2pwaVVXNUlKLThiYzlfWlJFNUpJaUZtNWFPcUI3QTdUWmp6dlF2eHN5bWRuM0NzME1hUVZqTEdEcjhhZ1RaT3E2Y1lSMHZzSEtYWkhkUDZvV1BuaUVvMjdQeVB1RjdKLXE5LW42MXFtQkxHUWFhcFEtaHZtYzNfSXI4WENTa01BWFNlMUctRWZCRmpJTjIteWx2SmExUklXWlJPVExSTFJfZnJSSG5zQ3BaaU5TcWFnM0JtUTI?oc=5
+
+- Europe financing 'war' against itself by buying Russian oil products from India: Scott Bessent - The Economic Times
+  Europe financing 'war' against itself by buying Russian oil products from India
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNM0tnV3J3NXVXZjRTOUtYUWFZajdBdjUweEtqeUlqZW9fU0xOZzJHU1BTY1RmZkRzV3pVSGgxWFNaMWtkdlFwQkdPQ0x6enEwS2g0TkwwZ1ZmTVZhUHpZa0hCcFppTnoyRmJPNWt5YnFlX19LUmVxNnR0VWs3SWtmVVc1MjFMSmcxV2FBcldsSG9QYVkyNDFiX19ucllTZnJ0eVUzSm9OQy1hVV9ENUo0UjRSVVBQeC1oSThISWhSb1owNDZWZVhVVEdYZ05DbDJvUFpldGJMc0hzM2RUWFU5SmhoTnZYX2o3N1VLeDlVLW1LNG5kUGRYajNmVm1ENmZON1HSAYcCQVVfeXFMT2xlWTJ6TXduYVhtWkJQcHE0NHlQM1FZWTJRWDlraTlqUXBJNFVGZFBERnU5VXhHYUlpMGNrOTRtVzhhMHN4NUtlYThNUWdEMlBiOUZKemdtVDNMMjQxYkxZMXR5bXE4TzNrMG1WM2F5dkRJRlhiQUhkcDNKYWQ5emJOX0I3U1BacXRsb2VFamlsVlNJZkdpejB1WENZNGRrZXZoRW1Bd2pGNVh4SzRDTTdsOEg0Sjl4c2UwdV9oRW4xTG9lTUhFRXZoSGlqc1k5V1RkcjF3Q0d0MUVEY2ZqWGpfdFB6NWtZbm00YW9IbHFhU2pSQm5rNjBTNHNQenk5Ym1PUC1La3c?oc=5
+
+- Republic Day 2026 Highlights: Republic Day Parade Showcases India’s ‘Sindoor’ Valour, Vibrant Cultural Pride - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeH
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNOUNWd0h3b1h2cEtEMjZKOXNfLUdfWWVTeVRwNVVWbGRXT3pIbnhRY3ljNVg1ZTlhVlBzekhwY3JROGFHczRNcldCMUkwcUFodUZvMTFmd0FWYUtJcFhoUm8zeDhNQVhpeHVsVXBKdkJVRFVVamdqcE5vMzl1QjdmcS1xRjh2ODYyVlpwaGF5UnpLYkZ2R3p5Nk5rX3dnUUNqWGl5dXI3ZTBjc29Dbzg3VV9OZUpPZlotNGRvdFgwbkt3UXNmeVU0QVJrU2kyMk5BMFNfWFZodlNqSzU2ZG5JclJXZldkbTlFSU01Ykg2bGp3QmVkOHVFS2Y2T1NVUVdOTWFFdlE2WTdtME8tR0NSMHhJLXhFUmxMYUHSAaICQVVfeXFMT3FqU1FSSnBfNV91Nzk1bTZ5UmRwdEllVWRYM2daLUFwVlBGQUljZVl1dHdzZy1qaWRNSVJEUkVSblNsanhCeVMzaWdjbUVtem9RakR2UEZiOWtSeHZzZ0Rma0dVeXZMVzVxR2EzWXdYb1RlX1c2clpXbU5hZGdkOHVpeUw0TWMxQzM2RzJONG1jSHY4UzJyUTVUZm5lQUMwaVNwYlR6Qm50NkJYVnlFQUoyRnVMdVRyZ1d1WTZNRGNjMERlNXlqZjAwTWZEV3N4ZTEwYUhtWmlieHozSGYxSzh4dmdQWEZLOWFEZnY5Z3AzS3l5eWFLbnRBUjZtOHYtQ01Wck5nVXRCWEN2cml3TV9wMW5mSWRFTkliS3VMTVZKV0E?oc=5
+
+- Kashmir braces for heavy snowfall after last week’s spell - Times of India
+  Kashmir braces for heavy snowfall after
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNczdjUDdVV29tdEo1NnBuX1VyeUduV0x6dTFhX0xTeV9fQ2tlU1RtSm56bmRkV2pCQmEtNHNULWk4UmJOZ3UzRVFZbWpHaUVxR1VRVTNJeXA2bTl0OGlmN19EaEMxSG1EMkMtZVFnelc3VFN3em5WSWdfU29pRU1OZEtTdGFUeGF2Y2JqaTR1UjNhWHVtdjVROUYzOGExdE5nbFNobFVFYnZYY252RkhHNVdScDBBaHE0VlpsT2xZZmx3QdIBxwFBVV95cUxQdGdmNktTRlZwRVNITTg1b3BYcTBXd2JUalJsc0lZS2kzQUdXc1g1bGYzVWxZa3JIWXdLVDFZemh6cGhQX19JenJIeVNxVnhrZzJJc24tY2NPM3p0MWJ1aFAxSUtsSXlKRVRIRXU3T3lWM3NlUDdvTHM3UXV4Z2ZqZC02ejBOMGJmajlLa3I0eHhRNlRhQmZrblJGcW9RcjE0WWNOOWlEYUpSelJTS09fSXVjRnc3Z1AxT0R3SERETHNGMF9xdm9n?oc=5
+
+- Europe financing 'war' against itself by buying Russian oil products from India: Bessent - The Hindu
+  Europe financing 'war' against itself by buying Russian oil products
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd05vXzQ2bEF6NldmUzdBdFFuSGdMcGx1ZlBvUlpZX1NVTGlFbUd4RWRHM0NLWDlSSUsyYk9zd3g1am5YaHpWQ2g4TlIzSldvT2JfNmlxb2pEMmVLZXNDcHhuYml0TGVjOHpFdUpQZVdFQW5MOTFxYks0eUJwbHd1bmpleDZWb0x4VHZmMmROZXEyOEtzUXQ3WVQtLUZkbGdZNjBVWnBJNzBXb0xKSVBLa3NYa1J5eUJFaVRaRnJqUmxIQ2JVU1dRcjc4SEpEYTRDSVhMVVVjNUFId1FNQzdJdV9NVdIB6gFBVV95cUxPSThxbGxJcTBDZVJnc256U1lyLWhvV3V3WWNROTRuVHpUanN2NVF0QkhaRXNfMkZPbjQxc29JS1ZXNElPU0NJVERldldPam1rd19hS0t3dUdGd3BOZzVpX254TGlZVTczMVdrZXphcVd6VGpJVV9ub3BTRVRydFFVd2dPWkpGeGZ1bVZYVGQ4cjd1WktLdW9wUjBjcElOdUhZUkwzX2pJTHpXay13RUZyWVhrUHRsRFA0Unc4WUI2YkczQmpWLUltMktnTjI1Um9XOHdOaEFOZ2ktb0xOd1ZuMVplSEFBOTNTNkE?oc=5
+
+- 'Financing the war against themselves': US Treasury Secretary flags concerns over India-EU trade deal - India TV News
+  'Financing the war against themselves': US Treasury Secretary flags concerns over
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPanA1MGk1RkUxWURaaUxCNC1qd2hFXzZoNGc1VzQ2bGtuaU9EaTBKdGpiTmcwSFNBUC1SdU52bDk0SUlHYWtkTVhnMHhNdUpuTUdMeW5kX3dsS0E3NXBlSFgxZTlZTFNvX3dqNlJLZ1hsN3E5WkFjVEdrOHFZOEFXNnhPQllUMVVlMmk4MWF6TDdROWJRUXZuU19PdGR5LVM3TzNoeUt5d1pSTFNMYnBSQ1ZvQkp1MVNZVzM0UWVjRm9penVFZlBvbjd1MElvTDllS2RJbTUzbk04OG9NQ1dhOExIT0dMVzZtZ0wxd1JWVXp2Z3U4ckdscHpaTzJ3bGPSAYQCQVVfeXFMUDVYRGlNWDNmNldHd0lpTkMyU1k4aEh5YndPNUZZZVdXeVliQU1oUUU4SHlWQnJuQlEzWHMwZVJsMmFGNkxDMDhxaEpaVGZyV2pwaVVXNUlKLThiYzlfWlJFNUpJaUZtNWFPcUI3QTdUWmp6dlF2eHN5bWRuM0NzME1hUVZqTEdEcjhhZ1RaT3E2Y1lSMHZzSEtYWkhkUDZvV1BuaUVvMjdQeVB1RjdKLXE5LW42MXFtQkxHUWFhcFEtaHZtYzNfSXI4WENTa01BWFNlMUctRWZCRmpJTjIteWx2SmExUklXWlJPVExSTFJfZnJSSG5zQ3BaaU5TcWFnM0JtUTI?oc=5
+
+- Europe financing 'war' against itself by buying Russian oil products from India: Scott Bessent - The Economic Times
+  Europe financing 'war' against itself by buying Russian oil products from India
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNM0tnV3J3NXVXZjRTOUtYUWFZajdBdjUweEtqeUlqZW9fU0xOZzJHU1BTY1RmZkRzV3pVSGgxWFNaMWtkdlFwQkdPQ0x6enEwS2g0TkwwZ1ZmTVZhUHpZa0hCcFppTnoyRmJPNWt5YnFlX19LUmVxNnR0VWs3SWtmVVc1MjFMSmcxV2FBcldsSG9QYVkyNDFiX19ucllTZnJ0eVUzSm9OQy1hVV9ENUo0UjRSVVBQeC1oSThISWhSb1owNDZWZVhVVEdYZ05DbDJvUFpldGJMc0hzM2RUWFU5SmhoTnZYX2o3N1VLeDlVLW1LNG5kUGRYajNmVm1ENmZON1HSAYcCQVVfeXFMT2xlWTJ6TXduYVhtWkJQcHE0NHlQM1FZWTJRWDlraTlqUXBJNFVGZFBERnU5VXhHYUlpMGNrOTRtVzhhMHN4NUtlYThNUWdEMlBiOUZKemdtVDNMMjQxYkxZMXR5bXE4TzNrMG1WM2F5dkRJRlhiQUhkcDNKYWQ5emJOX0I3U1BacXRsb2VFamlsVlNJZkdpejB1WENZNGRrZXZoRW1Bd2pGNVh4SzRDTTdsOEg0Sjl4c2UwdV9oRW4xTG9lTUhFRXZoSGlqc1k5V1RkcjF3Q0d0MUVEY2ZqWGpfdFB6NWtZbm00YW9IbHFhU2pSQm5rNjBTNHNQenk5Ym1PUC1La3c?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-26 12:42:08 UTC_
+_Last updated: 2026-01-26 18:32:52 UTC_
