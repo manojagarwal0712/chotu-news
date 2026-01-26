@@ -1,84 +1,64 @@
 # 📰 Daily News Summaries
 
-- Talking drum of Mewat, twin flutes of Thar: Meet the Rajasthani folk artists honoured with Padma Shri
-  
-  🔗 https://indianexpress.com/article/india/padma-shri-gafruddin-mewati-jogi-taga-ram-bheel-talking-drum-mewat-twin-flutes-thar-rajasthani-folk-artists-10494597/
+- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
+  Bangladesh slams India over fugitive ex-
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
 
-- ‘Law without compassion becomes tyranny’: CJI Surya Kant
-  
-  🔗 https://indianexpress.com/article/india/law-without-compassion-becomes-tyranny-cji-surya-kant-10494559/
+- "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
+  "Surprised, Shocked
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
 
-- Buried under tonnes of soil after clay mine collapse, 2 children among 3 dead in Madhya Pradesh
-  
-  🔗 https://indianexpress.com/article/india/buried-under-soil-clay-mine-collapse-children-dead-madhya-pradesh-10494409/
+- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
+  Bangladesh protests Sheikh Hasina's Delhi address, calls her
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
 
-- Shubhanshu Shukla awarded Ashoka Chakra. Check full list
-  
-  🔗 https://indianexpress.com/article/india/shubhanshu-shukla-awarded-ashoka-chakra-check-full-list-10494365/
+- India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
+  India vs Pakistan bilateral series possible? BCCI reveals
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
 
-- Mark Tully, the BBC’s ‘voice of India’, falls silent
-  
-  🔗 https://indianexpress.com/article/india/mark-tully-the-bbcs-voice-of-india-falls-silent-10494310/
+- Nation celebrates 77th Republic Day today - News On AIR
+  Nation celebrates 77th Republic Day
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1sTWdDR2ZhUFhHcVZqUkF1a1AwTThoYUFpd2NOMWZxblRWNmE2SUdiS0pBblF4OUZIbVRXa1J4TkRLZTRVOGQ5TE1jMzZZSkZiVFNQWmYwcGpTNk9vOWRXaVh0UFF2ZnJfTUNZOFd5WmtDRXZ1X1QzdW9jSQ?oc=5
 
-- Happy Republic Day 2026 WhatsApp Status Video: How to download and send status video on WhatsApp
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/happy-republic-day-2026-wishes-whatsapp-status-video-download-how-to-send-10493940/
+- IRFC explores some Swiss franc swap to cut dollar risk
+  IRFC is considering converting part of its dollar loans into Swiss francs. With nearly $8 billion in overseas exposure, the company is also exploring refinancing metro rail projects.
+  🔗 https://www.livemint.com/companies/irfc-swiss-franc-swap-inr-usd-borrowings-forex-11769314949849.html
 
-- Fifty Per Cent Off: Great looks, good sound…now at half the price!
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/fifty-per-cent-off-nothing-ear-open-10494234/
+- Fidelity Fund Beating 96% of Peers Likes Japan’s AI-Linked Firms
+  Japanese shares’ ascent to record highs at the start of the year has reinforced a Fidelity International fund manager�
+  🔗 https://www.livemint.com/companies/fidelity-fund-beating-96-of-peers-likes-japan-s-ai-linked-firms-11769386733891.html
 
-- Republic Day 2026: How to send Republic Day wishes stickers on WhatsApp
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/happy-republic-day-2026-wishes-images-whatsapp-status-video-stickers-download-gif-pics-photos-how-to-create-send-stickers-10493950/
+- Indian IT’s mega deals spike on AI push, but there’s not much to celebrate yet
+  TCS, Cognizant and Infosys reported billion-dollar contracts but analysts say Fortune companies are reducing the number
+  🔗 https://www.livemint.com/companies/indian-it-ends-2025-with-most-mega-deals-ai-push-nine-quarters-tcs-cognizant-infosys-11769316399970.html
 
-- How AI hallucinations, fake citations are creeping into scientific research
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-ai-hallucinations-creeping-into-scientific-research-10494012/
-
-- Meta faces new lawsuit over WhatsApp privacy, security claims: What are the allegations?
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-new-lawsuit-whatsapp-privacy-security-claims-10493699/
+- Minnesota CEOs Seek De-Escalation After Border Police Shooting
+  More than 60 chief executive officers of Minnesota-based companies call for an immediate “de-escalation of tensions” between state, local and federal
+  🔗 https://www.livemint.com/companies/minnesota-ceos-seek-de-escalation-after-border-police-shooting-11769381712742.html
 
 - Netflix vs Paramount: Here's what investors need to know about how the numbers stack up
   Warner Bros. and Netflix are in the midst of a battle for control of Paramount Pictures. The two companies are
   🔗 https://www.livemint.com/companies/news/netflix-vs-paramount-heres-what-investors-need-to-know-about-how-the-numbers-stack-up-11769353434403.html
 
-- Moelis India CEO Girotra sees private credit surging, bets on AI and data centre deals
-  Moelis India CEO Manisha Girotra outlined a 2026 outlook defined by the rapid expansion of private credit, the rise of
-  🔗 https://www.livemint.com/companies/private-credit-market-moelis-india-artificial-intelligence-data-centre-11769328102860.html
+- Gold, Silver Rate Today LIVE: Gold price surpasses $5,000 on Trump policy uncertainty, silver price above $100 mark
+  Gold prices have soared 64% in 2025. Gold prices have gained more than 16% this year. Silver prices are building on its 147% rise last year.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rate-today-live-mcx-gold-price-today-mcx-silver-price-today-donald-trump-greenland-tariffs-26-january-2026-11769389097118.html
 
-- ED chargesheets online gaming app WinZO, alleges players duped of  ₹734 cr using bots
-  The Enforcement Directorate has charged WinZO and its promoters, alleging 
-  🔗 https://www.livemint.com/companies/news/ed-chargesheets-online-gaming-app-winzo-alleges-players-duped-of-rs-734-cr-using-bots-11769351278468.html
+- DLF hits 52-week low as Q3 pre-sales slump overshadows strong cash flows
+  Collection surged 52% year-on-year and 78% sequentially to  ₹4,750 crore. Construction delays had kept collections muted in
+  🔗 https://www.livemint.com/market/mark-to-market/dlf-q3-results-stock-falls-pre-sales-11769321538613.html
 
-- Netflix CEO rejects Paramount's $108 billion offer for Warner Bros. amid Larry Ellison's backing — Here's why
-  Netflix CEO rejected Paramount's offer and said that without Larry Ellison's financial backing via independent financing, there is allegedly no chance that the company will be able to pull off its
-  🔗 https://www.livemint.com/companies/news/netflix-ceo-rejects-paramounts-108-billion-offer-for-warner-bros-amid-larry-ellisons-backing-heres-why-11769330654413.html
+- Market returns may be 2-3% above nominal GDP growth in 2026: Anthony Heredia
+  Investor interest in IPOs expected to decline due to high supply and external challenges. Mahindra Manulife's Anthony Heredia highlights the importance of policy measures for
+  🔗 https://www.livemint.com/market/mahinda-manulife-ceo-investment-strategy-ipo-outlook-foreign-capital-flows-ai-11769313827542.html
 
-- JSW Steel sharpens expansion roadmap, eyes 56 mtpa capacity by FY31
-  The move comes as steel prices show early signs of stabilizing and the
-  🔗 https://www.livemint.com/companies/news/jsw-steel-exapnsion-fy31-capacity-target-56-mtpa-11769315776048.html
+- China National Team’s $68 Billion Exit Alters Stock Strategies
+  Investors in China’s stock market took comfort in an unseen backstop: the so-called national
+  🔗 https://www.livemint.com/market/china-national-team-s-68-billion-exit-alters-stock-strategies-11769377129658.html
 
 - Investors Hedge China, Tech Risks Amid Trump TACO Trade Drama
   US President Donald Trump’s tariff threats over Greenland dominated the narrative for broader equity markets
   🔗 https://www.livemint.com/market/investors-hedge-china-tech-risks-amid-trump-taco-trade-drama-11769354843658.html
-
-- Dividend Stocks: Persistent Systems, United Spirits, Wipro, among others to trade ex-dividend next week; Full list here
-   Persistent Systems, United Spirits, Wipro, Wendt India, IIFL Finance, Jindal Stainless, Coforge and CAMS,
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-persistent-systems-united-spirits-wipro-among-others-to-trade-ex-dividend-next-week-full-list-here-11769335533075.html
-
-- Budget 2026: ‘Capex growth expected to be in focus this year’
-  Capex growth is expected to stay central on the agenda. It is imperative to address opportunities of AI-
-  🔗 https://www.livemint.com/market/union-budget-2026-capex-growth-expected-to-stay-central-on-the-agenda-says-expert-11769334908544.html
-
-- Indian stock market: What should be your trading strategy amid ongoing geopolitical tensions?
-  India began the new year by touching a new market high. The gains were short
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-what-should-be-your-trading-strategy-amid-ongoing-geopolitical-tensions-11769335782700.html
-
-- India-EU trade deal: What does it mean for gold, silver, Indian stock market?
-  The India–EU trade deal is expected to play a crucial role in shaping the direction of the Indian stock market. Market participants and investors are likely to closely monitor
-  🔗 https://www.livemint.com/market/stock-market-news/indiaeu-trade-deal-what-does-it-mean-for-gold-silver-indian-stock-market-11769337310612.html
 
 - Tim Cook expands John Ternus’ role to oversee Apple design strategy: Report
   Apple reportedly appoints John Ternus as executive overseer of its design organisation. T
@@ -100,6 +80,30 @@
   The iQOO 15 Ultra is set to launch next month as a premium gaming-focused flagship. It is expected to feature capacitive shoulder triggers, haptic feedback
   🔗 https://www.livemint.com/technology/gadgets/iqoo-15-ultra-tipped-to-bring-capacitive-shoulder-triggers-for-gamers-11769334036799.html
 
+- Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1: What to watch - Yahoo Finance
+  Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRWdyWUY0T3hLdVZkMDR4MzVRcWpRX3V6MDllVjNNVWFXeVUxM2pFbDFRTld0UlRDMVdRY0VYbEpMaU9iMFY1VEMza01vNURMYzNOU3V2VW1qTEtua1JIR0twRDFNZnExeXg5d013d0RCZWZWeFpZbndRdjFwZjhIbzA3eWdudFJzc1dDMUxhV2dQc0VEeGc2SmNoQ1FiSHFXU2l2SXctdXhacU1EbWRaQS1QSzUwY1BINFdiUk1ZdEdwUnZ5bmQxTUUxX0JvNmwyVmFuNTloeTFiR0NN?oc=5
+
+- What to Expect in Markets This Week: Fed Interest Rate Decision, Earnings From Microsoft, Meta, Tesla, Apple - Investopedia
+  What to Expect in Markets This Week: Fed Interest Rate Decision, Earnings
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGJyM2MzTFh4eFdTTUVWTDJxZGVOanJBcTB5TEFiQklwdXplRGJTUFNiSnhybDNVYlpweHRXekVvck15VU9rclFNZzFwcTgyTjR3NmhQVXNDRlRZSWZUbGFxbGpnME9rS3JpekxHMEc3dXU5YlNsNEpITEhmTGI5eUpySUtBWjVzOXp6bFl3dHdLcWIwTWxTaFcwU1BkbkVLNVNDUXAtV0JLTUNGVmZqZUVIRFhmejBDcFlaVGpOOTdhQmVObWNXRm53WXQ0a09YdXZUdkRrTWc?oc=5
+
+- Asia-Pacific markets trade mixed amid geopolitical uncertainties - CNBC
+  Asia-Pacific markets trade
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPbGVjU2JXbE44aTBycUVEU2M1aGU4WjJGdEZ3dENKTTNmUUlYbUUzQVRabGpPeFAyT0VudElJRmNlNVZ4a3JCNldtaVp3NExuNkk5c2c3X1RMT3BBVUlLUVRfS1pDT3VNRFVldW1TdHlzTG9LZk5jY3V2OGYxX2tVS1FHWmtSMkJOSlgtVUR0c3A5VmFMOHFEbjBubVMtZi1sOHRVRNIBqgFBVV95cUxOeHAxb0Jqb0t5YjU2ZnVIdmt0T18wZjdvTGxqcS1KWTNBR240aW01UHF0aUtHeDd1cjZwdVY5OFA5SzVfbUVyX0J5dmtLMHdCajl0U2ptTVZPQnZnazBjb2s3VjJHcmRJSUh4RTBNTFJCUjBBZU1MUGIyQUJBclZRSFhhRmdqeTdpOTV4XzYwSU53cVQ3QUtQSS03NEpLS2x1clh0RUVlRjkzdw?oc=5
+
+- Yen Extends Gains Amid Threat of Intervention: Markets Wrap - Bloomberg
+  Yen Extends Gains Amid
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0pHcUMtM3RjejNfdkhVbW9JNUZRZXJrV1ZhcHEwNkZ0UVhkNGw4Sng1TDNmd0NDN2FqTzAyaE9zSHBuWXJRNFQ4Y21KX3l6c1RnS0JNbEFSWV8tbHNlQTktSEFWQ2pFQV9tbUpqR2pHS01sMEJscWJTVG9yTlhCNUFhYVNTX1Raa3lzNko0ZktSZXpEbmlpLXVWRE5lWTBSVU5OZ3h2N1JUaG5lelE?oc=5
+
+- Market Volatility: Global Cues Keep Markets on Edge - deccanherald.com
+  Market Volatility: Global C
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOeXh3OFB2TnlrU3JsQnlOaG53Nl9wdEh2dWROSE85ZE5tUEtDdG1FckVndkY3dTZYczBjQ3FuVUhKUklRODB5UDhaelcyMHZ4U2g4U1hPWTYzRjU4Qjl4M3BySWd6NHZOM19PVEZLU3hlT3RDSkZXLU9QTWJTTE1wczVTT2hES2VpRndNN29LMlczNmRDOGVVRGVJdWtwZw?oc=5
+
+- Gold tops record $5,000 mark on Trump policy uncertainty
+  Gold prices have reached a record high of over $5,000 per ounce. This surge is driven by global uncertainty and policies from US President Donald Trump.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-tops-record-5000-mark-on-trump-policy-uncertainty/articleshow/127514693.cms
+
 - SIFs Explained: How ICICI Prudential AMC’s Rajat Chandak plans to use hybrid long-short strategies to smooth returns
   iSIF Hybrid Long–Short Fund blends equity and debt with limited short exposure. It aims for smoother, risk-adjusted returns across cycles by adjusting net exposure based on valuations and market conditions.
   🔗 https://economictimes.indiatimes.com/markets/expert-view/sifs-explained-how-icici-prudential-amcs-rajat-chandak-plans-to-use-hybrid-long-short-strategies-to-smooth-returns/articleshow/127472844.cms
@@ -116,89 +120,85 @@
   Indian stock markets will be closed on Monday, January 26, for Republic Day. The closure marks the second market holiday of 2026. Trading will resume on Tuesday, January 27.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-will-nse-and-bse-remain-closed-on-january-26-for-republic-day/articleshow/127467967.cms
 
-- ETBudget Roundtable | STT and dividend double taxation need a review, says WhiteOak’s Aashish Somaiyaa
-  As Budget 2026 approaches, WhiteOak CEO Aashish Somaiyaa says the focus should shift from headline reforms to fixing structural market frictions. He argues that the current securities transaction tax and dividend taxation framework amounts to double taxation
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/etbudget-roundtable-stt-and-dividend-double-taxation-need-a-review-says-whiteoaks-aashish-somaiyaa/articleshow/127460683.cms
-
-- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
-  Bangladesh protests Sheikh Hasina's Delhi address, calls her
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
+- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
+  Bangladesh slams India over fugitive ex-
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
 
 - "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
   "Surprised, Shocked
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
 
-- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
-  Bangladesh slams India over fugitive ex-
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
+- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
+  Bangladesh protests Sheikh Hasina's Delhi address, calls her
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
 
 - India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
   India vs Pakistan bilateral series possible? BCCI reveals
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
 
-- Auto Driver Poses As Father, Kidnaps Toddler And Strangles Him To Death - NDTV
-  Auto Driver Poses As Father, Kidnaps
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTFCNFZsZzVJam5ySkZYNTM5MU1XR2dNa0swWEloQktmWkViSXZFbGdjd2lBUVRXZjlTdkdYcW56Nm82YzJSZWJrRmhYSUJnMzdDdjVUcWRUN29zRXVRQ3ZlNkwzU29ISE1VN2ZoRmJiNG1JZWs3akVFZ09fUTZzX2RWR0pBMnpLcWNtOFl6NUsyM1dtcnVfVEc0NnQ2WlFrRU1OS00tLS1Rdl9Jcy1OdNIBuAFBVV95cUxPQXczY3NjcTlkWWFUSGRueHNJclZQa1RpT0pRUTJVUVNwVzBaM2xqMWpQeVpNVEo2RTNTeE5BT2ROWjgyRGdvbkNJcG1MSWVtQ1RvNWxWVGEwS2phdzZHejlrZ2pSV3Z2ejdKNG1VaHltS0JPclZVQ3pJUUU2MXZCbk41OG9DR2cySGxaQTdxMVNCZVM5LVZzZGprNXBGZm8ybDRfOXRza2xKejBLdS1WZHNkRm9UWkpk?oc=5
+- Nation celebrates 77th Republic Day today - News On AIR
+  Nation celebrates 77th Republic Day
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1sTWdDR2ZhUFhHcVZqUkF1a1AwTThoYUFpd2NOMWZxblRWNmE2SUdiS0pBblF4OUZIbVRXa1J4TkRLZTRVOGQ5TE1jMzZZSkZiVFNQWmYwcGpTNk9vOWRXaVh0UFF2ZnJfTUNZOFd5WmtDRXZ1X1QzdW9jSQ?oc=5
 
-- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
-  Bangladesh protests Sheikh Hasina's Delhi address, calls her
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
+- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
+  Bangladesh slams India over fugitive ex-
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
 
 - "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
   "Surprised, Shocked
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
 
-- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
-  Bangladesh slams India over fugitive ex-
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
+- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
+  Bangladesh protests Sheikh Hasina's Delhi address, calls her
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
 
 - India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
   India vs Pakistan bilateral series possible? BCCI reveals
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
 
-- Auto Driver Poses As Father, Kidnaps Toddler And Strangles Him To Death - NDTV
-  Auto Driver Poses As Father, Kidnaps
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTFCNFZsZzVJam5ySkZYNTM5MU1XR2dNa0swWEloQktmWkViSXZFbGdjd2lBUVRXZjlTdkdYcW56Nm82YzJSZWJrRmhYSUJnMzdDdjVUcWRUN29zRXVRQ3ZlNkwzU29ISE1VN2ZoRmJiNG1JZWs3akVFZ09fUTZzX2RWR0pBMnpLcWNtOFl6NUsyM1dtcnVfVEc0NnQ2WlFrRU1OS00tLS1Rdl9Jcy1OdNIBuAFBVV95cUxPQXczY3NjcTlkWWFUSGRueHNJclZQa1RpT0pRUTJVUVNwVzBaM2xqMWpQeVpNVEo2RTNTeE5BT2ROWjgyRGdvbkNJcG1MSWVtQ1RvNWxWVGEwS2phdzZHejlrZ2pSV3Z2ejdKNG1VaHltS0JPclZVQ3pJUUU2MXZCbk41OG9DR2cySGxaQTdxMVNCZVM5LVZzZGprNXBGZm8ybDRfOXRza2xKejBLdS1WZHNkRm9UWkpk?oc=5
+- Nation celebrates 77th Republic Day today - News On AIR
+  Nation celebrates 77th Republic Day
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1sTWdDR2ZhUFhHcVZqUkF1a1AwTThoYUFpd2NOMWZxblRWNmE2SUdiS0pBblF4OUZIbVRXa1J4TkRLZTRVOGQ5TE1jMzZZSkZiVFNQWmYwcGpTNk9vOWRXaVh0UFF2ZnJfTUNZOFd5WmtDRXZ1X1QzdW9jSQ?oc=5
 
-- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
-  Bangladesh protests Sheikh Hasina's Delhi address, calls her
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
+- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
+  Bangladesh slams India over fugitive ex-
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
 
 - "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
   "Surprised, Shocked
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
 
-- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
-  Bangladesh slams India over fugitive ex-
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
+- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
+  Bangladesh protests Sheikh Hasina's Delhi address, calls her
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
 
 - India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
   India vs Pakistan bilateral series possible? BCCI reveals
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
 
-- Auto Driver Poses As Father, Kidnaps Toddler And Strangles Him To Death - NDTV
-  Auto Driver Poses As Father, Kidnaps
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTFCNFZsZzVJam5ySkZYNTM5MU1XR2dNa0swWEloQktmWkViSXZFbGdjd2lBUVRXZjlTdkdYcW56Nm82YzJSZWJrRmhYSUJnMzdDdjVUcWRUN29zRXVRQ3ZlNkwzU29ISE1VN2ZoRmJiNG1JZWs3akVFZ09fUTZzX2RWR0pBMnpLcWNtOFl6NUsyM1dtcnVfVEc0NnQ2WlFrRU1OS00tLS1Rdl9Jcy1OdNIBuAFBVV95cUxPQXczY3NjcTlkWWFUSGRueHNJclZQa1RpT0pRUTJVUVNwVzBaM2xqMWpQeVpNVEo2RTNTeE5BT2ROWjgyRGdvbkNJcG1MSWVtQ1RvNWxWVGEwS2phdzZHejlrZ2pSV3Z2ejdKNG1VaHltS0JPclZVQ3pJUUU2MXZCbk41OG9DR2cySGxaQTdxMVNCZVM5LVZzZGprNXBGZm8ybDRfOXRza2xKejBLdS1WZHNkRm9UWkpk?oc=5
+- Nation celebrates 77th Republic Day today - News On AIR
+  Nation celebrates 77th Republic Day
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1sTWdDR2ZhUFhHcVZqUkF1a1AwTThoYUFpd2NOMWZxblRWNmE2SUdiS0pBblF4OUZIbVRXa1J4TkRLZTRVOGQ5TE1jMzZZSkZiVFNQWmYwcGpTNk9vOWRXaVh0UFF2ZnJfTUNZOFd5WmtDRXZ1X1QzdW9jSQ?oc=5
 
-- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
-  Bangladesh protests Sheikh Hasina's Delhi address, calls her
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
+- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
+  Bangladesh slams India over fugitive ex-
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
 
 - "Surprised, Shocked": Bangladesh On Sheikh Hasina's Speech In India - NDTV
   "Surprised, Shocked
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzQ2eXo0djd6TGpNNFpGMnRNT3MtVFdHUEdjQkpHWlkwSUd4UENQaWNvdEFfVnB2Xy1oeDRDLW0xQ2h2Rm9HcVctVGRBVHdjcTRwOVJWUWdLVGpELUhkVTU3bXkxWExjaHNkdXBWMjRDQWhlbEl2dWZMcUdqMWFLTUxhUFVvTXRUSXp0bkNlTVdoX2JGaG14aS1RVC11YkVRUEpXVWNR0gGuAUFVX3lxTFBSQ2FmLUxOa0JJWjYtV1JfYUgyVFY3MUQ5SnJKUnBpV0ZqZHNQZjFJZExCakRCbDFiUjN6eXQxdzBHTmtxWmJmQUVxNWJJeWQ1bTQ2WFc2RkVZcm5HQXVjM3pHdlZFbHQyTmtmVDhVMWxzOFV2N0VJWmNROFR4M2lfeVpXcDEwM2ljaXdlOWxQR3BpOGNTYWMtbGQyV1MxWkhiM1FHVTdTSExfaFlnQQ?oc=5
 
-- Bangladesh slams India over fugitive ex-PM Hasina’s first public address - Al Jazeera
-  Bangladesh slams India over fugitive ex-
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZThabFp1MUUwVkxNWVpiQnlDTUhsd2M2dGtuUExmMTgzRXJEMUVsMS1kX2tLdnVrc3h6ME10QkdJSDhCUWlMVmJZM2NYQzNVRklRcWxkb3E1aVotdmJtSUFLU0lERTY1b0pmYWVJZFlMLUZUY3QydlVfdkFfRzFPcEczUFQydWRFbXVRN0xnZEZQM0wyWi1FQ2pMUU5rZWdnUXdaWDBHbjRUeFRSM2dqaHR30gG3AUFVX3lxTE9kT2xKVlhxeDlQelhpa0dfOHpUTTJLaXA2VmxOUmFYZlp4QlhLd181dW84ZjZlUjdta25KNV9JUGcyQXRBdjFtTHcycDJlWGRXeU5pakJOaHdfeklhWW5HZHBoQmZ4empkd2xhc3ZzZ1VLekFXVl9qdlB5WjFyVC1tbkFKRjBSS1p4elJ4UmxqeWJlbFgtRWF6WXlhNVpEVXlselM2b3hTU2xsQlhQYVVxY3lNYUFoRQ?oc=5
+- ‘Shocked’: Bangladesh protests Sheikh Hasina's Delhi address, calls her ‘mass murderer’ | India News - Hindustan Times
+  Bangladesh protests Sheikh Hasina's Delhi address, calls her
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzhVSU1DV1EwY002VWFUUkUyV0tlWUFJQ2QzNV9CSmdfdHJ6Sk1CWEdrcUFFMlVUV3FCUE9fMjZ5VVYzOVRvaVY2SkUwNTRTVF9rS3I0Q25QLXR3WUtLcTZkc0FFN2NCZTlSZS1XWm1aS1h1aGc5NXFBZFh6WGRhRU1KRldmRURDQmxnWWQ5UTZFZmk2djR0bUI2QnQ3OUtIdkpaQ3MxYV8tUEdvS2I5MEFHWGlsbUVoWU84QkVheFBIU1k0YUVDbEYyY1NiRU5YRWU4eURncW1LODTSAeABQVVfeXFMT0tmamRtQUtPWTd2RlRYbW84WE54ekIzUHVvZ1BUSHhocl9mZWYzQzBCOHNsbG1TSFB1c1Fsd1Y0SFVtb09qa1ZHSjRqZlFCU2xrekNXdlA3dXBBNlRRWGY1a1NnX3NkeWJ0SWRLTEhLaUxyNWxHX2xDbEE1M2RkbnkzWm9YRnRBYjU0WThBTDVSdmFnVHhTcG9zckk4Tnl5Yko5WFVoZXl1ajVyZHpGbmFMU3l6aGNqempzZjhOR1ZOTVU3NGEzRUNqUXZmV3FXVjBzdmFYYm0zWFcyOFkzcks?oc=5
 
 - India vs Pakistan bilateral series possible? BCCI reveals ultimate condition - Times of India
   India vs Pakistan bilateral series possible? BCCI reveals
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmpyTVNJdlNud1ZYd3dhWUhnMk9vR0Ftc0lVeWEtZGhhTFNJMzVjQjR5c3YxY3ZvdG9JMUlUUXVSei1jS1pCV0ZkcUpYWGZ2MG1tTVVsZTdGUnZqVnJibVFVZGhUVVo2dGpoZXF4bGxZMGFfVDZDNG1iSk5ZNHZKeGpRM1JDeDZaaEQ5aEJCbWhSZUItYjhLVTItWXBBVFNiWG1XZGFhU0M3clBkeGdPR1dtYzg2NnRaUWZ6MC1reGdibUJQTnpNN3IzekVhcm5GR29uWE9yUFpRbmU3SE14YjFpRTE0M3lIWUNlR3Zn0gHzAUFVX3lxTFBXWXdyM2tlMTB0aE1kX0huZGx4bTFueHBHWXZlamJwUWtoU3BqMUJkNmF2SDdZV2ZYMGlIWDl3a2ptalZCZVEtWFdUcU8taDBkM2EzUTdyZkhlZkU0NVdpcU1aRU85Q2szdjUyMkVqdDdKZVdnMUVkSnA5THRxOHk1di1McFQ3Ul9IY203X0QzR3kyV2twX3BhT01aQTNGa3k3aGFuZ0Y1Z01idkJEZ2IwOTBNRjFmVFpvQ2doRzZkQnNmVWE3aUZXbmVfTF9Lc19sTUFobnNES3BibXM3akVBRnZIeUFOTXlkYmJXa0N4VEFnaw?oc=5
 
-- Auto Driver Poses As Father, Kidnaps Toddler And Strangles Him To Death - NDTV
-  Auto Driver Poses As Father, Kidnaps
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTFCNFZsZzVJam5ySkZYNTM5MU1XR2dNa0swWEloQktmWkViSXZFbGdjd2lBUVRXZjlTdkdYcW56Nm82YzJSZWJrRmhYSUJnMzdDdjVUcWRUN29zRXVRQ3ZlNkwzU29ISE1VN2ZoRmJiNG1JZWs3akVFZ09fUTZzX2RWR0pBMnpLcWNtOFl6NUsyM1dtcnVfVEc0NnQ2WlFrRU1OS00tLS1Rdl9Jcy1OdNIBuAFBVV95cUxPQXczY3NjcTlkWWFUSGRueHNJclZQa1RpT0pRUTJVUVNwVzBaM2xqMWpQeVpNVEo2RTNTeE5BT2ROWjgyRGdvbkNJcG1MSWVtQ1RvNWxWVGEwS2phdzZHejlrZ2pSV3Z2ejdKNG1VaHltS0JPclZVQ3pJUUU2MXZCbk41OG9DR2cySGxaQTdxMVNCZVM5LVZzZGprNXBGZm8ybDRfOXRza2xKejBLdS1WZHNkRm9UWkpk?oc=5
+- Nation celebrates 77th Republic Day today - News On AIR
+  Nation celebrates 77th Republic Day
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1sTWdDR2ZhUFhHcVZqUkF1a1AwTThoYUFpd2NOMWZxblRWNmE2SUdiS0pBblF4OUZIbVRXa1J4TkRLZTRVOGQ5TE1jMzZZSkZiVFNQWmYwcGpTNk9vOWRXaVh0UFF2ZnJfTUNZOFd5WmtDRXZ1X1QzdW9jSQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-25 18:28:11 UTC_
+_Last updated: 2026-01-26 01:29:27 UTC_
