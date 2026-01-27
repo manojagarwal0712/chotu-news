@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
-- Adani lawyers seek time until January 30 to update US court on talks with SEC
+- António Costa’s India connection: How a Goan-origin European Council head just delivered mega EU free trade deal
   
-  🔗 https://indianexpress.com/article/india/adani-lawyers-seek-time-until-january-30-to-update-us-court-on-talks-with-sec-10496517/
+  🔗 https://indianexpress.com/article/india/antonio-costa-india-goa-origin-european-council-mega-eu-free-trade-deal-10497067/
 
-- Gold Today Rate, January 27: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- ‘No one came in support’: Dalit woman assaulted with broom for refusing to clean shopfront without payment
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-january-27-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10496478/
+  🔗 https://indianexpress.com/article/india/dalit-woman-assaulted-broom-refusing-clean-shopfront-without-payment-10497440/
 
-- Snowfall disrupts Srinagar flights; rain, fog under ‘watch’ across Delhi-NCR
+- ‘Nobody will be discriminated against or oppressed’: Union Education Minister Dharmendra Pradhan on new UGC regulation
   
-  🔗 https://indianexpress.com/article/india/snowfall-disrupts-srinagar-flights-rain-fog-under-watch-across-delhi-ncr-10496378/
+  🔗 https://indianexpress.com/article/india/union-education-minister-dharmendra-pradhan-ugc-regulations-10497395/
 
-- Union Budget 2026 Expectations Live: Why infrastructure, taxes and growth matter as the FM tackles 3 macro risks
+- Hailstorms, heavy rain lash Noida; IMD issues red and orange alerts
   
-  🔗 https://indianexpress.com/article/india/union-budget-2026-expectations-live-nirmala-sitharaman-finance-ministry-infrastructure-taxes-growth-10496397/
+  🔗 https://indianexpress.com/article/india/hailstorms-heavy-rain-delhi-ncr-noida-imd-red-orange-alerts-10497349/
 
-- When 1,200 prisoners took control of a jail, and an IPS officer broke protocol
+- ‘My heart says she is alive somewhere’: Chandramuni’s 7-year search for missing daughter in Jharkhand
   
-  🔗 https://indianexpress.com/article/india/when-1200-prisoners-took-control-of-a-jail-and-an-ips-officer-broke-protocol-10496099/
+  🔗 https://indianexpress.com/article/india/chandramuni-urain-missing-daughter-jharkhand-10497265/
 
-- France’s National Assembly approves banning under-15s from social media
+- Vivo X200T debuts with Dimensity 9400+ processor, 6,200mAh battery and Zeiss cameras
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/frances-national-assembly-approves-banning-under-15s-from-social-media-10496336/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/vivo-x200t-debuts-with-dimensity-9400-processor-6200mah-battery-and-zeiss-cameras-10497447/
 
-- Microsoft rolls out next generation of its AI chips, takes aim at Nvidia’s software
+- Nasa turns to the Moon to solve a mystery about water on Earth
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-rolls-out-next-generation-of-its-ai-chips-takes-aim-at-nvidias-software-10496338/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/nasa-turns-to-the-moon-to-solve-a-mystery-about-water-on-earth-10497338/
 
-- Nvidia unveils AI models for faster, cheaper weather forecasts
+- Meta plans new paid subscriptions on Instagram, Facebook and WhatsApp
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nvidia-unveils-ai-models-for-faster-cheaper-weather-forecasts-10496337/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-plans-new-paid-subscriptions-on-instagram-facebook-and-whatsapp-10497140/
 
-- Apple launches new AirTag with longer range and louder speaker
+- From Honor to Samsung, smartphone launches to watch out for in 2026
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-launches-new-airtag-2-with-longer-range-and-louder-speaker-10496281/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-honor-apple-google-xiaomi-upcoming-smartphones-2026-10496734/
 
-- Over 77% Indian esports players see streaming as key income path: YouGov poll
+- Microsoft Paint now lets users generate colouring pages with simple prompts
   
-  🔗 https://indianexpress.com/article/technology/gaming/indian-esports-players-streaming-as-key-income-path-yougov-poll-10495488/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-paint-now-lets-users-generate-colouring-pages-with-simple-prompts-10496703/
 
-- Supreme Court rejects JioStar plea to halt CCI probe into abuse of dominance in Kerala TV market
-  Supreme Court-bench dismissed Reliance-owned JioStar’
-  🔗 https://www.livemint.com/companies/news/supreme-court-rejects-jiostar-plea-to-halt-cci-probe-into-abuse-of-dominance-in-kerala-tv-market-11769491660929.html
+- Blinkit launches RuPay powered NCMC Bharat Yatra Card
+  Blinkit’s NCMC Bharat Yatra Card supports
+  🔗 https://www.livemint.com/companies/news/blinkit-launches-rupay-powered-ncmc-bharat-yatra-card-11769512923930.html
 
-- As premium personal care booms, ITC stays measured on acquisitions
-  ITC is focusing on trust-led categories and long-term value over rapid acquisitions, says Sameer Satpathy
-  🔗 https://www.livemint.com/companies/itc-personal-care-acquisitions-fmcg-strategy-11769449457471.html
+- L&amp;T Q3 preview: Profit may jump by a third, but Middle East orders in focus
+  The company said in October that it was seeing the first signs of the return of private sector capex in India. Its infra projects segment got domestic orders worth about  ₹27,400 cr in July-September
+  🔗 https://www.livemint.com/companies/larsen-toubro-earnings-l-t-q3-results-profit-revenue-11769495383025.html
 
-- Foundation PE looks to ramp up India bets as secondary market gains momentum
-  Pan-Asian secondaries firm says rising liquidity needs among PE and VC funds are creating fresh opportunities.
-  🔗 https://www.livemint.com/companies/news/foundation-private-equity-india-investments-secondary-market-11769484260766.html
+- Renault bets on a French CEO and an old favourite to kick-start its India comeback
+  Stephane Deblaise is the only expat heading the operations of a major European carmaker in India. One of his primary tasks will be to ensure the success of
+  🔗 https://www.livemint.com/companies/news/renault-india-revival-duster-french-ceo-11769498447158.html
 
-- No-sugar soda market gets fizzy as regional firms latch on to health hook
-  Lahori Zeera plans to launch a stevia-based version of its flagship
-  🔗 https://www.livemint.com/companies/news/india-regional-beverage-makers-cutting-sugar-new-growth-lever-lahori-zeera-11769412084992.html
+- DealShare’s risky reset puts it head-to-head with retail heavyweights
+  DealShare’s pivot to a business-to-consumer model pits
+  🔗 https://www.livemint.com/companies/dealshare-ecommerce-pivot-b2c-private-labels-retail-heavyweights-competition-india-11769493573093.html
 
-- Adani Power’s India grid plan gains urgency amid Bangladesh tariff row
-  Adani's coal-fired plant in Jharkhand's Godda is currently linked only to the Bangladesh grid. It had indicated it would be connected to India’s power infrastructure by December 2025.
-  🔗 https://www.livemint.com/companies/adani-power-timely-connectivity-to-indian-grid-could-lower-risk-from-bangladesh-scrapp-godda-powers-billion-dollar-dea-11769434887958.html
+- Zensar braces for hit as Cisco likely to pare vendors, fifth Indian IT firm under top-client pressure
+  Mid-tier Indian IT companies are facing revenue risk as global clients rationalize
+  🔗 https://www.livemint.com/companies/news/zensar-revenue-hit-cisco-vendor-cuts-top-client-pressure-indian-it-companies-11769482440556.html
 
-- Hannah Joseph Hospital IPO Day 3: Issue booked 79% so far. Check GMP, price band and other details about SME IPO
-  Today is the last day to apply for Hannah Joseph Hospital IPO. The issue is entirely a fresh share sale of 0.60 crore shares priced
-  🔗 https://www.livemint.com/market/ipo/hannah-joseph-hospital-ipo-day-3-issue-booked-79-so-far-check-gmp-price-band-and-other-details-about-sme-ipo-11769494689155.html
+- Budget 2026 may offer incentives for the struggling export sector: Nuvama Group's Senior VP for Research
+  With a pause in fiscal consolidation, the budget may signal a shift towards growth. Nuvama Group's Senior VP Sandeep Raina suggests potential incentives for the struggling
+  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-may-offer-incentives-for-the-struggling-export-sector-nuvama-groups-senior-vp-for-research-11769516698270.html
 
-- ‘The monetary system as we know it is breaking down’: Ray Dalio warns as Gold price tops $5,100, hits another peak
-  Ray Dalio warns of historic shift in monetary systems. He cites geopolitical tensions and central banks increasing gold reserves as indicators of moving away from dollar-centric framework.
-  🔗 https://www.livemint.com/market/commodities/the-monetary-system-as-we-know-it-is-breaking-down-ray-dalio-warns-as-gold-price-tops-5-100-hits-another-peak-11769491791334.html
+- Budget expected to take infrastructure-led growth to the next level, says YCH India's Country General Manager
+  YCH India's Country General Manager, Jossy Sebastian, shares insights on how strategic investments in logistics infrastructure can enhance competitiveness and create jobs.
+  🔗 https://www.livemint.com/market/stock-market-news/budget-expected-to-take-infrastructure-led-growth-to-the-next-level-says-ych-indias-country-general-manager-11769515710692.html
 
-- Small-cap EV stock Mercury Ev-Tech jumps over 14% despite sideways markets
-  Small-cap EV stock Mercury Ev-Tech rose over 14% amid weak market sentiment. Surge is attributed to the India-EU Free Trade Agreement, which may exempt battery electric vehicles from import
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-ev-stock-mercury-ev-tech-jumps-over-9-despite-sideways-markets-11769490550948.html
+- US Fed meeting: Will Powell &amp; Co cut rates this week? Here's what to expect
+  The Federal Open Market Committee (FOMC) is set to meet to decide whether to lower
+  🔗 https://www.livemint.com/market/stock-market-news/us-fed-meeting-what-to-expect-from-the-upcoming-january-announcement-11769504290894.html
 
-- Ultratech Cement shares rise 3% on strong Q3 results. Should you buy, sell or hold?
-  Aditya Birla Group company reported a 27% year-on-year jump in
-  🔗 https://www.livemint.com/market/stock-market-news/ultratech-cement-shares-rise-3-on-strong-q3-results-should-you-buy-sell-or-hold-11769487340481.html
+- Budget 2026: How could LTCG tax rationalisation impact Indian stock market sentiment?
+  Investors are buzzing about potential cuts to the Long-Term Capital Gains (LTCG) tax. Experts believe that easing taxes could
+  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-how-could-ltcg-tax-rationalisation-impact-indian-stock-market-sentiment-11769514726862.html
 
-- Q3 Results 2026 LIVE: Vodafone Idea, Asian Paints, Tata Consumer, Marico, among others to declare earnings today
-  Over 50 companies, including Vodafone Idea, Asian Paints, Tata Consumer Products and Marico, set to announce December-quarter results.
-  🔗 https://www.livemint.com/market/stock-market-news/q3-results-2026-live-vodafone-idea-q3-results-today-asian-paints-tata-consumer-marico-q3-earnings-today-27-january-2026-11769489816373.html
+- Budget 2026: Capex can cross  ₹12 trillion; minor income tax benefits possible, says Sunny Agrawal of SBI Securities
+  Over the last few years, the importance of the Union Budget as the only window for reform measures has reduced. Reform measures have become round the clock process, says Sunny Agraw
+  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-capex-can-cross-rs-12-trillion-minor-income-tax-benefits-possible-says-sunny-agrawal-of-sbi-securities-11769514395471.html
+
+- EU steps in to make sure Google gives rivals access to AI services and data
+  EU steps in to make sure Google gives rivals access
+  🔗 https://www.livemint.com/technology/eu-steps-in-to-make-sure-google-gives-rivals-access-to-ai-services-and-data-11769515511796.html
+
+- I compared MacBook prices on Amazon and Flipkart so you don’t overpay
+  Before buying a MacBook, I compared prices across Amazon and Flipkart to spot real differences, discounts and better value options
+  🔗 https://www.livemint.com/technology/gadgets/i-compared-macbook-prices-on-amazon-and-flipkart-so-you-don-t-overpay-11769502505933.html
 
 - Not for Sabalenka, Sinner and Alcaraz now, but wearables could be OK at future Australian Opens
   Wearable technology could be used at future Australian Opens
@@ -92,133 +100,45 @@
   Australian lawyer apologizes
   🔗 https://www.livemint.com/technology/australian-lawyer-apologizes-for-ai-generated-errors-in-murder-case-11769461957540.html
 
-- A Breakthrough Law Won’t Kill Korea’s AI Revolution
-  Google DeepMind’s artificial intelligence system stunned South Korea when it beat legendary Go player Lee Sedol. Nearly a decade ago, long before ChatGPT
-  🔗 https://www.livemint.com/technology/a-breakthrough-law-won-t-kill-korea-s-ai-revolution-11769459143201.html
+- Marico Q3 Results: Profit up 13.3% to Rs 460 crore, revenue up 26.6%
+  Homegrown FMCG major Marico Ltd on Tuesday reported a 13.3 per cent rise in consolidated profit to Rs 460 crore.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/marico-q3-results-profit-up-13-3-to-rs-460-crore-revenue-up-26-6/articleshow/127623992.cms
 
-- Long Island teen missing after travelling to New York City to meet Roblox contact: Report
-  Long Island teenager has been missing for over two weeks. Police are investigating his movements, while his family and authorities appeal for public help.
-  🔗 https://www.livemint.com/technology/tech-news/long-island-teen-missing-after-travelling-to-new-york-city-to-meet-roblox-contact-report-11769448440682.html
+- India benchmark bond yield climbs to nearly 11-month high on deepening supply woes
+  India's government bonds yields surged ‍on Tuesday, sending the benchmark yield ​to a nearly 11-month high
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-benchmark-bond-yield-climbs-to-nearly-11-month-high-on-deepening-supply-woes/articleshow/127623699.cms
 
-- Stock market today: Dow, S&P 500, Nasdaq rise to kick off key week with Big Tech earnings, Fed decision - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq rise to kick off key week
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdkQwVjlKdUItTktMOUVIUTR2aEZLcHh1RGhaVWFDNFNYbXZQTHEwOUoxVFg0amdSRXI3c2FSM1dUSWVJQ01LellKYmhVTVMzZGx5LWt2b3lqMlVtNVpYRFEzUi1GNnhWU1A1bG5CT1VsQ3hKTGdObldPTU9rSW51ZmdRTjFocTYtaEQ2WnBGQVBBWGVxdjRBb2p3c2o4OHRUNHpvbUo1RW5rRHc2aFVlN1VNcGtBVkhUUXd4TVRGWjAzeks4Z2t6ZWdhX1U0QVllVzFFT0JjSnloZ2R1VmRFaDBPOA?oc=5
+- India-EU FTA to open duty-free window for textile exporters, says Gokaldas Exports MD
+  India’s textile exporters are set to gain duty-free access to the EU market under the India–EU FTA. Gokaldas Exports MD Sivaramakrishnan Ganapathi says Europe could
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/india-eu-fta-to-open-duty-free-window-for-textile-exporters-says-gokaldas-exports-md/articleshow/127623228.cms
 
-- Asian Stocks to Drift Higher, Yen Gains on Dollar: Markets Wrap - Bloomberg.com
-  Asian Stocks to Drift Higher, Yen G
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNbzdwYnlLb0h2d2dPYm13VDdhVTcyb0hxRlJ1Nk5RMF9fYW0yOElpNjQ5Q1pTdFpERFNiMUZnQUV2SzVLdV9KTmhneExsU21TQjJTU1lNMVM5enFqNGJ0ZE1JRXAyX29IZ28weTN6eGEwakhrazAzUVM4UFNacDd3RTFoQjNKWGRCeW4zTUQ1OU85d016cG41WnNOaEF4cHhPbGtYbGdtSjFad055XzRScUFn?oc=5
+- Gainers &amp; Losers: Adani Enterprises among 7 stocks that moved most on Tuesday. Here’s why
+  Indian markets end higher as buying in financials, IT and metals offset weakness in auto and FMCG stocks. Adani Enterprises, Axis Bank, BPCL
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-adani-enterprises-among-7-stocks-that-moved-most-on-tuesday-heres-why/slideshow/127622592.cms
 
-- Asia markets seeing 'unbelievable' rush of capital, driving equity rallies and IPO frenzy - CNBC
-  Asia markets seeing 'unbelievable' rush of
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmo1ZGlINXRMQTJYSzBxbWlMYVhhbVhqSjlNeGd5Y0xORjdQVXZxOTNjZWhUa0xqUVZ4dnNheFZPMzkyeHVxdGluUHJvRHJQY0hhLW9ZSFo0Y254ZW00TDZ2TFVfT0JxcEthQ0J0RFFaZFhrQ0RoMUg3R1Bwem8zSi0zVmtRdzNveGNocldzbGx4M1NDOGt5THgybnZuOE1XcXFzRG5UdmYtNHAydWfSAbMBQVVfeXFMTmE3dDYzTWZyaXRybms3TnJDZ3VqaUk5NGpIcmFDcmtnX0E1SXlZVkw1UzVJNlNQWXd0TllUa1luMC1sejJhbFh3MHZkVHJrTG9zZXdyMVRzUDJ1UXNOV0NhQkV1emdwY00wbWx6ZlVKRVVMSWVmLWtXRFlyRWFvMVNDUHhFYklVOXNkc3pIdzRmX2FJSEZoaDQ4ZjY5X3RFYlVEUnVsM3NESHdJMmk3dzdfX2M?oc=5
+- Mahindra shares lose Rs 18,000 crore: Is India-EU trade deal really bad for top SUV seller?
+  Mahindra &amp; Mahindra shares fell over 4%, erasing Rs 18,000 crore in value. Investors worried about tariff cuts for European cars under the India-EU trade deal.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mahindra-shares-lose-rs-18000-crore-is-india-eu-trade-deal-really-bad-for-top-suv-seller/articleshow/127621462.cms
 
-- Indian exporters seek new markets after Donald Trump’s trade blitz - Financial Times
-  Indian exporters seek new markets after Donald Trump
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE02QzBWY0J3dUdYTDZocF9RNUJ0TzhPV0U4eEJpSmZVYm5EWEZBWUd1MDMtd3Z1cHpycTZEc0wyeFpNUko0V3VBNmJxTGpESXNpYUxkQVNhZjdSbW9pNU02NDN2LUNYY1NUaWVYMHlEYjI?oc=5
-
-- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex trades flat, Nifty below 25,100; media and au... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMinAJBVV95cUxQaWZEVGZ4WmNIdTNZVEJmc2ZnYnp1V25CVGRIVFVnMC00djFVZTJ4QkVzcUx5UGtYQ204MWpfUVJEY2g3NWlRc2t0NnJmVGV5dVNfc3FDSFV5Y3c5M3NFVmd6OXdCeFRkQ2
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQaWZEVGZ4WmNIdTNZVEJmc2ZnYnp1V25CVGRIVFVnMC00djFVZTJ4QkVzcUx5UGtYQ204MWpfUVJEY2g3NWlRc2t0NnJmVGV5dVNfc3FDSFV5Y3c5M3NFVmd6OXdCeFRkQ2RoR24xeU9DUHZRMGdEODkyU1BsMnFfSnJvR3pZcmhBVUZWaVBZLXp1ZUFJZjB6ZjBqMTQ3aVk3Qm55cmZfNUsxOFZrTTRiWk9EamQ1M3dqNjB1NC1NZ2VTMThqNTdGTGRmdHJaRURrWmxfRVBfaWhsNWl1WnJQWkg3N2NXVGJtaUh4Ym5mR3Z6QXMxeFJBVGRZNEVIaklTbjIwd1pRN1l5R3V1YW9TRW94Qm40VzhPeG1ZStIBogJBVV95cUxQZmtUTzVVRG85RVA5czNoc0wyQWhaRmN6SHJ1NW5hQkJ5QTNCVjRodlNMNDl3cjMtZXhuTVRWVTlIeWJDcU82cVZiWG5URGg0ZVJQX0l4aG1tMWl4ZTFkaVFjbHZ5ZVpWRzB6STBYX2pHUjNWaHVUMXowR2VWV0RBejZ0SElaZE9RZVJfWmd2ZERBRU5DdldJSU9yRkluZllCTXBUWmZ1WFd4akxYRy1MdWtPaEczdkRWRFc2MFFNb0pVbEJnaXMxTG1XME12ei1FRU9nS0tFaURGamJuaHROdjBaZi1qdGJiSGdMQ0Exd2hnc0s2V0t2aEsyYzZsVWpJR3Z2Y3diempFWnRCV0toZ2FCVk5PU2dKS0N4ZGNLSGRQUQ?oc=5
-
-- BPCL shares rise 3% as Q3 net profit jumps 89%. Buy, sell or hold?
-  Bharat Petroleum Corporation Limited shares surged following a significant 98% rise in December quarter net profit. Improved refining margins and a stronger balance sheet contributed to the positive outlook. Analysts maintain a buy rating with a potential upside.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bpcl-shares-rise-3-as-q3-net-profit-jumps-89-buy-sell-or-hold/articleshow/127600856.cms
-
-- Crypto markets stabilise after volatile week; Bitcoin hovers near $88,300 ahead of Fed meet
-  The crypto market is stabilizing after a volatile week. Bitcoin is trading near $88,300. Investors are cautious ahead of the US Federal Reserve's policy meeting.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-markets-stabilise-after-volatile-week-bitcoin-hovers-near-88300-ahead-of-fed-meet/articleshow/127601098.cms
-
-- Global markets resilient amid tariff noise, Fed uncertainty thanks to TACO effect: Richard Harris
-  Global markets remain resilient despite tariff threats and Fed uncertainty, says Port Shelter Investment’s Richard Harris. US equities are supported by strong economic data, while investors increasingly discount aggressive trade rhetoric.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/global-markets-resilient-amid-tariff-noise-fed-uncertainty-thanks-to-taco-effect-richard-harris/articleshow/127600219.cms
-
-- Adani Enterprises, Adani Ports, Adani Green shares rebound up to 6%. What’s triggering the uptick?
-  Adani group shares rebounded up to 5% after a significant sell-off. Adani executives' willingness to negotiate with the US SEC regarding summons.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-adani-ports-adani-green-shares-rebound-up-to-6-whats-triggering-the-uptick/articleshow/127599116.cms
-
-- IndusInd Bank share price target: Should you buy, hold or sell after earnings miss? Here’s what brokerages recommend
-  IndusInd Bank reported a sharp year on year profit decline in Q3FY26. Brokerages offered mixed views, with ratings ranging from Outperform to
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indusind-bank-share-price-target-should-you-buy-hold-or-sell-after-earnings-miss-heres-what-brokerages-recommend/articleshow/127599150.cms
-
-- 'Europe Funding War Against Itself With India-EU Trade Deal': Team Trump - NDTV
-  'Europe Funding War Against Itself With India
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUY5RUZDblFjRU0wbkhhNUtNOXlpOTBLQzBzZWJ1WmIzMGJaMTJKdmpBZXI3QWZqT2hLb1hfWnJROTU4emlhV2ktbHRZRUVBeWl3QjBPaVQzX25GMnRLdzNoMnNwT053Ukh3bHQ5aXR0UFpVRkZ1Tm1mU2h5YXJNTUFXQkRTaWNrWS00OWhzVlZYdFVPU2xnQXJiY2R3OFA5SXAtS09MekxYRGEwZmpCaERuSzkydG1tc2hmT0ZUNNIBxwFBVV95cUxOWk1vLTBndVNmN2RFZGgxTVEyZ0R6TzJ4OEE4cE9qam5YNVhaaWVzUVl4d3F6bUVNZDZxRUZVSG5SMXVuWC01ell2cW02SjJnZ1BoWTc3U1NxQU5nQ3V5b1dhQUlpRjdTaHpIWWFxNkZTSWhsdFpmbExENWdpMkhxakpiRDVkSEdSYkt0X1p5WWgxWElIWjA4a3NXaWVhYlhQUldVWWZSaFkyRm9DZDAxeTNNOVYwQ2o5RUVEQXIyX2k3Si1CNk9v?oc=5
+- "We Delivered The Mother Of All Deals": India-EU Trade Pact Finally Sealed - NDTV
+  "We Delivered The Mother Of All Deals":
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT3h5eDF5VGE0RmIwbGgzR1ZOVGpDWUZOZUEzWDNzWlhtd21EYkxKeWlVRnMyN3hGTmdVQk1KR1lydW5FamlaS1dNNk9CMTB0ZVNMbTVhNmREWFNxUmkta1AzUHJPaTZHRHpkWTlqV204bkptaXgwNWJqRldTRjJGZjF0VkZ5S2ZVb1dWUGRWMGhwQzJ5b2RIMnJpWTQtUkRJNGd1Ync5dFY3SlRyUnk2bXFXaU80a1ZUa21rTHBoQ1pKMGllbE53Z1dPZ0k4d2EzOTZHa1hR0gHeAUFVX3lxTE5iRHdrM2VzM2xpcHhZSXNkYU1iYU9Nbm4xSEt1OFVqY0pzLTFmVjliSkFwemhmQzZMVlN6Z1l6WUk1MkcyNTFIQUxVZVhOdF9FYm1oRzJuWmJkWHFYTGR4c3drb25qempYYlZ2OHJFTWdNV0piREwxTnctdkxXZUQ2NEd4bjJtV3hMU1FJdm54UGNlMm03VkNjdFNMci1WcmxQVWlSZjBrWEs0U18tY2ZHNW9xenR2Q2FkcUtUT0FCeWZoZEdEQ0RKd001a3RTWWNXRERLdV8xRk1xc0VJdw?oc=5
 
 - 'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over Russian oil | India News - Hindustan Times
   'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over
   🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQamRxbGh0aUxhU285a2tEZ3Fob05OMUN3UkU4aDIxczMxcUJGZVpSM25QYnFaaHRwVXBVWEZseGZiT2M2anNYUmVpNzZLS2o2bUxxTndxMW1FUUNfbS1XcVJIWnJjVF9OdjZkNXkzZDhxWHlIS3c3Q3BDOFA0Wl9VZWxrRllsV1Y0d3NFdk0zZHphU2dyWHlyNlVXLXdoT2d5S2ZQUW9EZ3AtRk44YVNIelpqTGczRkFTY0RzMk9UZGo5amp6ZXBtWUZheEphS0c3OHloQ0wwNmxiQ084czlCSEpZQXdoSXZuVk82a2pGOXhzUzNSNHMtSFl30gH_AUFVX3lxTFB3SV9rOWJWTWhYajVFOVRlUTF3cUVoYzBDSDhLZndFTWJSbFRYZ1YxWjh2ZUFLZ25BaWNlRW1yT1JaOGVGdWVBMmp5eFBhWEVaZVFybVk0WlhZRWhUSWt4TkFoZTNrVk1JQ211NG5XbkFhR3N3VERkQktIZ1BBWHRFa2dDRGZld0JWNG5iV0k4TFBCbFNSVkRWYVp2VVh3bldybi1zUHN4QTlIYjhhcW9tQnJhM3lFXzlvcG9xUDdURHNHRW9QTzh6X0xJLXVuODZFMmJZZWRtckxOdmV4NURSN2RJUFM5bzF2MV8xdEZET0FCeXE4LTIyamh5V3FRSQ?oc=5
 
-- India-EU FTA Explained: Impact On Auto Sector And Car Prices - NDTV
-  India-EU FTA Explained: Impact
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzhPZ3lTb1BYcnA2b2prSzhOXy1ucnBybF9sTEhZQ0ZGUkdNbFFBUVRyRzJaVG5wak1DMHVpN0JkRk1oRlN5cFdfM0h1a2JfbXFPUXlnLUpSdnI2eVdpSndtRE50RVAwMkVmVV9NQ2kwMlV0V1pVTDNXX3d6dk1nUEtLY2VmTVcyS0Z5TndlQ2FqS1BxMkdUU3dB0gGiAUFVX3lxTE1aM0pkVlJ4eV9BM1BQNWJGTFNVR1p0THFPa3ItdUVDUWJvaFNfeElzeDhGdmV3cnlzcnhDZ3hGelAteEtqLU5MTWQ3QVNHdHFsb2M1TUpaMmJ2dDktcy1pQjQtU3NrXzR5Z0NGNElIX3p0c093WkNVazJyWk5xcXFsRng0V3pIV0sxYjU5R3Ezb09jWGJtQm9oWUhTeUljMU1Tdw?oc=5
+- Evening news wrap: PM Modi's double engine pitch as India-EU finalise FTA; 'gamosa' row fuels BJP–Congres - Times of India
+  The Times of India reports on PM Modi's double engine pitch as India
+  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxQemZ1QUVBVjlwcW8tUEozWHhQaERjamdINFpveFdUXzBPUUpuX211a01YWWk5ZG1hbEpzaTJMaGVCVFNDNVJoc1BwYjkxMGFuTnpqQVY1SUVoTUVXSjFtRzU2REtRcnNlRk5NVUJNTEhkdm05Ni1FeXFCUVlySEVvSmlHY1dIbDB5SkllMWV3QWk2c2xLRUYyODNEclhmeTY1TkxpZ09vcmFNd1BzZFVCNGpUUWVpTklESFluNjA1RzcxVkdKUXRKaXZqZUZyUk16YWVhcWd6dFBVS0JLSVJyUW01M3Y0TzZKVGRHRWJXNC0zdkluSUttb2hYUUx1U3N5endrMVNxc3NUTHRIaUdYNE8wUXZuaU1fNHRPRmwxNNIBpAJBVV95cUxQN1BDb1VlSFYtWGJYeVF3V092NUl6RG9xSVpHekhTX3E4WE5fTHNyakVDaE1MelVxYmxTMFdJZzk5RW5JcnVjdGF3b0RyRjJhZUZtVWkwM2VLVzNORkk3U3dydlE3NGtvakRNVjhVZnU1U3VkaWRmZDBJNGsxa0E4QVhESVRnU0twT3N3VUpLT2ptOXd2blZOT3UtREMtS3lRby1ENkdCdlZoV2RGWkx4YXdaSGl3RWkyQ3gydWNTMjk0SWVzeEw1NjFackdtVVJCemYwQURjdG9GZmJPZmFjSUJlTkExb196UHA2b1RvbDVKMHpQYjdXV3BDWGIwZjhyelo4SUsycjcxSll5V2EzRUY1dm1DVTYza1RqY2lMUFp3Rmpy?oc=5
 
-- Republic Day: How does India choose its chief guest for 26 January parade - BBC
-  &nbsp;&ngt;<font
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2UGNUSjBpWGtpUG83MWM4RWtlak84V2NIRkh0ZHZOSXgtN3A5REExYjlhLThMUUtSd0FPUWE1emUxbjBhMHNMaF9yTDdOMW1rNmZRMGt5aXJpZ9IBX0FVX3lxTE0xUnoyS3JsSTI5UjZVYVFlRmZYYUR5RnVCZVhZbHZ3dGxUZ3dNUzRpNU5DTFU3NWVfUFg3MmRrNExfNktBVlVBN3BLUmJ2YUEwbXJWZ1IzQzJFRHRVWFlN?oc=5
+- India-EU Summit 2026 Live: Modi dubs India-EU ties as global 'double engine of growth' after key FTA | India News - Hindustan Times
+  India-EU Summit 2026 Live: Modi dubs India-EU ties as global 'double
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQdTJCb2JRNG1OVHBoWWpRMWk4WkpxQ29rSEJuQktVSWptWThRYnVUSXBueW4wZ1lvR05sUmxHY2FjUmFKbHNWcGlWLWExdkZvY3k0RFlJUXg4dHc4aWNCRy0zMk5vMzZ0QTBOWGZDd1R6YzVZT2VzZTlITUwxZ3h2aXNaVWY2d2pRTWQ2SDdzZHV5OWVHcmVHZ2Z5aFFvSnAzRm9mQ29ySGUtT0dwU0djT3c3bmFFZ1RVekIxT2xsTUo3Y3FoVkh1LTlFa2RwcmtRYVdfcl9WWGlvNFhjQmRDUDlFUF8zQmxpTnBBNUtQaUM4ZzNybVRWdzRYUjdIUUl4UEtZRnVn0gGLAkFVX3lxTE5td3ZYUWdwLVlQWXFicFAweFlWOTJPSWNncnl3UXlhckRibVd3QmlpNWdEQW5HbnhXQzFKRUl5c1BfejIydjNmMmFWOG10dUEzWHY2TkdpMTlqQ0dxekN6dllFWmt5dDYzWXdXdk5kQXJOcmdWemJDVjhVRm5rdk0yd3hZd1FSLUlUdTgtOUpEMUZZeVlYNTExNzZQVldsZTc4UnVVY1FNMm1uXzdyRFFJN2pULXltYWRPcGFVejlaaXExazN6QzdGRlAtQ004ME9GTHljTFFNRDhYSUpLSU1CWUJ5dmNfWmo2dXU1YUY2QXMwc0Q1VGxBY0twQUNwUTVFUVBZaFVDUEZmbw?oc=5
 
-- Decline of Himalayan rivers could trigger nuclear war: UK report - Times of India
-  The decline of Himalayan rivers could trigger nuclear war
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPQW1fMzkwRG8xRk1WS3JITXpKY1c3cnBtVV9STHNwVzVoOTcxVUNRY3Q3T0t5YXFQRlA4TDlfRlN6ZkRqOTdYMDl6X0lGZ1Z1M2o0Y0ZIVWFJZi1mVmJ2X3NFREpCUHVoaERxYlZFeWJWTFh0ZGpBR0NJSVpDTWs4bklSQWZCdEJ6SjNuclUwYVcyODJrNW1kbTR1cXNQa2JySkd6LUVPTlNaUmJLOEpKN19xbFdSc0ROdGxfWUNQSGxTSkI3cDR5TFJKTdIB0AFBVV95cUxOWWEtRDdtQjJmVG5IMG9XVndVOE1IbG1MNmxHcnphVEdDR1hjcVJxNEFpbnJua1NpY3NWR3JEOC1LTUhUc3JNby1sRWg4VmlkZ3N1X0lVc2d3NjlGLXg2OGdIalBiY3lZWlJGRURSeGFoRF9MRGREM05SaG5LUEVuSDVwNXJEcUNlVlM2aG53RTE5VjZHTlgybFJreTZQQ05pTy1ZeG9WUlZDRjh0M1lxVGxNMHU3Vk5WbzlBRkRUa3MyS2luNXZMOEU3N0JTY2NV?oc=5
-
-- 'Europe Funding War Against Itself With India-EU Trade Deal': Team Trump - NDTV
-  'Europe Funding War Against Itself With India
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUY5RUZDblFjRU0wbkhhNUtNOXlpOTBLQzBzZWJ1WmIzMGJaMTJKdmpBZXI3QWZqT2hLb1hfWnJROTU4emlhV2ktbHRZRUVBeWl3QjBPaVQzX25GMnRLdzNoMnNwT053Ukh3bHQ5aXR0UFpVRkZ1Tm1mU2h5YXJNTUFXQkRTaWNrWS00OWhzVlZYdFVPU2xnQXJiY2R3OFA5SXAtS09MekxYRGEwZmpCaERuSzkydG1tc2hmT0ZUNNIBxwFBVV95cUxOWk1vLTBndVNmN2RFZGgxTVEyZ0R6TzJ4OEE4cE9qam5YNVhaaWVzUVl4d3F6bUVNZDZxRUZVSG5SMXVuWC01ell2cW02SjJnZ1BoWTc3U1NxQU5nQ3V5b1dhQUlpRjdTaHpIWWFxNkZTSWhsdFpmbExENWdpMkhxakpiRDVkSEdSYkt0X1p5WWgxWElIWjA4a3NXaWVhYlhQUldVWWZSaFkyRm9DZDAxeTNNOVYwQ2o5RUVEQXIyX2k3Si1CNk9v?oc=5
-
-- 'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over Russian oil | India News - Hindustan Times
-  'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQamRxbGh0aUxhU285a2tEZ3Fob05OMUN3UkU4aDIxczMxcUJGZVpSM25QYnFaaHRwVXBVWEZseGZiT2M2anNYUmVpNzZLS2o2bUxxTndxMW1FUUNfbS1XcVJIWnJjVF9OdjZkNXkzZDhxWHlIS3c3Q3BDOFA0Wl9VZWxrRllsV1Y0d3NFdk0zZHphU2dyWHlyNlVXLXdoT2d5S2ZQUW9EZ3AtRk44YVNIelpqTGczRkFTY0RzMk9UZGo5amp6ZXBtWUZheEphS0c3OHloQ0wwNmxiQ084czlCSEpZQXdoSXZuVk82a2pGOXhzUzNSNHMtSFl30gH_AUFVX3lxTFB3SV9rOWJWTWhYajVFOVRlUTF3cUVoYzBDSDhLZndFTWJSbFRYZ1YxWjh2ZUFLZ25BaWNlRW1yT1JaOGVGdWVBMmp5eFBhWEVaZVFybVk0WlhZRWhUSWt4TkFoZTNrVk1JQ211NG5XbkFhR3N3VERkQktIZ1BBWHRFa2dDRGZld0JWNG5iV0k4TFBCbFNSVkRWYVp2VVh3bldybi1zUHN4QTlIYjhhcW9tQnJhM3lFXzlvcG9xUDdURHNHRW9QTzh6X0xJLXVuODZFMmJZZWRtckxOdmV4NURSN2RJUFM5bzF2MV8xdEZET0FCeXE4LTIyamh5V3FRSQ?oc=5
-
-- India-EU FTA Explained: Impact On Auto Sector And Car Prices - NDTV
-  India-EU FTA Explained: Impact
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzhPZ3lTb1BYcnA2b2prSzhOXy1ucnBybF9sTEhZQ0ZGUkdNbFFBUVRyRzJaVG5wak1DMHVpN0JkRk1oRlN5cFdfM0h1a2JfbXFPUXlnLUpSdnI2eVdpSndtRE50RVAwMkVmVV9NQ2kwMlV0V1pVTDNXX3d6dk1nUEtLY2VmTVcyS0Z5TndlQ2FqS1BxMkdUU3dB0gGiAUFVX3lxTE1aM0pkVlJ4eV9BM1BQNWJGTFNVR1p0THFPa3ItdUVDUWJvaFNfeElzeDhGdmV3cnlzcnhDZ3hGelAteEtqLU5MTWQ3QVNHdHFsb2M1TUpaMmJ2dDktcy1pQjQtU3NrXzR5Z0NGNElIX3p0c093WkNVazJyWk5xcXFsRng0V3pIV0sxYjU5R3Ezb09jWGJtQm9oWUhTeUljMU1Tdw?oc=5
-
-- Republic Day: How does India choose its chief guest for 26 January parade - BBC
-  &nbsp;&ngt;<font
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2UGNUSjBpWGtpUG83MWM4RWtlak84V2NIRkh0ZHZOSXgtN3A5REExYjlhLThMUUtSd0FPUWE1emUxbjBhMHNMaF9yTDdOMW1rNmZRMGt5aXJpZ9IBX0FVX3lxTE0xUnoyS3JsSTI5UjZVYVFlRmZYYUR5RnVCZVhZbHZ3dGxUZ3dNUzRpNU5DTFU3NWVfUFg3MmRrNExfNktBVlVBN3BLUmJ2YUEwbXJWZ1IzQzJFRHRVWFlN?oc=5
-
-- Decline of Himalayan rivers could trigger nuclear war: UK report - Times of India
-  The decline of Himalayan rivers could trigger nuclear war
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPQW1fMzkwRG8xRk1WS3JITXpKY1c3cnBtVV9STHNwVzVoOTcxVUNRY3Q3T0t5YXFQRlA4TDlfRlN6ZkRqOTdYMDl6X0lGZ1Z1M2o0Y0ZIVWFJZi1mVmJ2X3NFREpCUHVoaERxYlZFeWJWTFh0ZGpBR0NJSVpDTWs4bklSQWZCdEJ6SjNuclUwYVcyODJrNW1kbTR1cXNQa2JySkd6LUVPTlNaUmJLOEpKN19xbFdSc0ROdGxfWUNQSGxTSkI3cDR5TFJKTdIB0AFBVV95cUxOWWEtRDdtQjJmVG5IMG9XVndVOE1IbG1MNmxHcnphVEdDR1hjcVJxNEFpbnJua1NpY3NWR3JEOC1LTUhUc3JNby1sRWg4VmlkZ3N1X0lVc2d3NjlGLXg2OGdIalBiY3lZWlJGRURSeGFoRF9MRGREM05SaG5LUEVuSDVwNXJEcUNlVlM2aG53RTE5VjZHTlgybFJreTZQQ05pTy1ZeG9WUlZDRjh0M1lxVGxNMHU3Vk5WbzlBRkRUa3MyS2luNXZMOEU3N0JTY2NV?oc=5
-
-- 'Europe Funding War Against Itself With India-EU Trade Deal': Team Trump - NDTV
-  'Europe Funding War Against Itself With India
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUY5RUZDblFjRU0wbkhhNUtNOXlpOTBLQzBzZWJ1WmIzMGJaMTJKdmpBZXI3QWZqT2hLb1hfWnJROTU4emlhV2ktbHRZRUVBeWl3QjBPaVQzX25GMnRLdzNoMnNwT053Ukh3bHQ5aXR0UFpVRkZ1Tm1mU2h5YXJNTUFXQkRTaWNrWS00OWhzVlZYdFVPU2xnQXJiY2R3OFA5SXAtS09MekxYRGEwZmpCaERuSzkydG1tc2hmT0ZUNNIBxwFBVV95cUxOWk1vLTBndVNmN2RFZGgxTVEyZ0R6TzJ4OEE4cE9qam5YNVhaaWVzUVl4d3F6bUVNZDZxRUZVSG5SMXVuWC01ell2cW02SjJnZ1BoWTc3U1NxQU5nQ3V5b1dhQUlpRjdTaHpIWWFxNkZTSWhsdFpmbExENWdpMkhxakpiRDVkSEdSYkt0X1p5WWgxWElIWjA4a3NXaWVhYlhQUldVWWZSaFkyRm9DZDAxeTNNOVYwQ2o5RUVEQXIyX2k3Si1CNk9v?oc=5
-
-- 'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over Russian oil | India News - Hindustan Times
-  'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQamRxbGh0aUxhU285a2tEZ3Fob05OMUN3UkU4aDIxczMxcUJGZVpSM25QYnFaaHRwVXBVWEZseGZiT2M2anNYUmVpNzZLS2o2bUxxTndxMW1FUUNfbS1XcVJIWnJjVF9OdjZkNXkzZDhxWHlIS3c3Q3BDOFA0Wl9VZWxrRllsV1Y0d3NFdk0zZHphU2dyWHlyNlVXLXdoT2d5S2ZQUW9EZ3AtRk44YVNIelpqTGczRkFTY0RzMk9UZGo5amp6ZXBtWUZheEphS0c3OHloQ0wwNmxiQ084czlCSEpZQXdoSXZuVk82a2pGOXhzUzNSNHMtSFl30gH_AUFVX3lxTFB3SV9rOWJWTWhYajVFOVRlUTF3cUVoYzBDSDhLZndFTWJSbFRYZ1YxWjh2ZUFLZ25BaWNlRW1yT1JaOGVGdWVBMmp5eFBhWEVaZVFybVk0WlhZRWhUSWt4TkFoZTNrVk1JQ211NG5XbkFhR3N3VERkQktIZ1BBWHRFa2dDRGZld0JWNG5iV0k4TFBCbFNSVkRWYVp2VVh3bldybi1zUHN4QTlIYjhhcW9tQnJhM3lFXzlvcG9xUDdURHNHRW9QTzh6X0xJLXVuODZFMmJZZWRtckxOdmV4NURSN2RJUFM5bzF2MV8xdEZET0FCeXE4LTIyamh5V3FRSQ?oc=5
-
-- India-EU FTA Explained: Impact On Auto Sector And Car Prices - NDTV
-  India-EU FTA Explained: Impact
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzhPZ3lTb1BYcnA2b2prSzhOXy1ucnBybF9sTEhZQ0ZGUkdNbFFBUVRyRzJaVG5wak1DMHVpN0JkRk1oRlN5cFdfM0h1a2JfbXFPUXlnLUpSdnI2eVdpSndtRE50RVAwMkVmVV9NQ2kwMlV0V1pVTDNXX3d6dk1nUEtLY2VmTVcyS0Z5TndlQ2FqS1BxMkdUU3dB0gGiAUFVX3lxTE1aM0pkVlJ4eV9BM1BQNWJGTFNVR1p0THFPa3ItdUVDUWJvaFNfeElzeDhGdmV3cnlzcnhDZ3hGelAteEtqLU5MTWQ3QVNHdHFsb2M1TUpaMmJ2dDktcy1pQjQtU3NrXzR5Z0NGNElIX3p0c093WkNVazJyWk5xcXFsRng0V3pIV0sxYjU5R3Ezb09jWGJtQm9oWUhTeUljMU1Tdw?oc=5
-
-- Republic Day: How does India choose its chief guest for 26 January parade - BBC
-  &nbsp;&ngt;<font
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2UGNUSjBpWGtpUG83MWM4RWtlak84V2NIRkh0ZHZOSXgtN3A5REExYjlhLThMUUtSd0FPUWE1emUxbjBhMHNMaF9yTDdOMW1rNmZRMGt5aXJpZ9IBX0FVX3lxTE0xUnoyS3JsSTI5UjZVYVFlRmZYYUR5RnVCZVhZbHZ3dGxUZ3dNUzRpNU5DTFU3NWVfUFg3MmRrNExfNktBVlVBN3BLUmJ2YUEwbXJWZ1IzQzJFRHRVWFlN?oc=5
-
-- Decline of Himalayan rivers could trigger nuclear war: UK report - Times of India
-  The decline of Himalayan rivers could trigger nuclear war
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPQW1fMzkwRG8xRk1WS3JITXpKY1c3cnBtVV9STHNwVzVoOTcxVUNRY3Q3T0t5YXFQRlA4TDlfRlN6ZkRqOTdYMDl6X0lGZ1Z1M2o0Y0ZIVWFJZi1mVmJ2X3NFREpCUHVoaERxYlZFeWJWTFh0ZGpBR0NJSVpDTWs4bklSQWZCdEJ6SjNuclUwYVcyODJrNW1kbTR1cXNQa2JySkd6LUVPTlNaUmJLOEpKN19xbFdSc0ROdGxfWUNQSGxTSkI3cDR5TFJKTdIB0AFBVV95cUxOWWEtRDdtQjJmVG5IMG9XVndVOE1IbG1MNmxHcnphVEdDR1hjcVJxNEFpbnJua1NpY3NWR3JEOC1LTUhUc3JNby1sRWg4VmlkZ3N1X0lVc2d3NjlGLXg2OGdIalBiY3lZWlJGRURSeGFoRF9MRGREM05SaG5LUEVuSDVwNXJEcUNlVlM2aG53RTE5VjZHTlgybFJreTZQQ05pTy1ZeG9WUlZDRjh0M1lxVGxNMHU3Vk5WbzlBRkRUa3MyS2luNXZMOEU3N0JTY2NV?oc=5
-
-- 'Europe Funding War Against Itself With India-EU Trade Deal': Team Trump - NDTV
-  'Europe Funding War Against Itself With India
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUY5RUZDblFjRU0wbkhhNUtNOXlpOTBLQzBzZWJ1WmIzMGJaMTJKdmpBZXI3QWZqT2hLb1hfWnJROTU4emlhV2ktbHRZRUVBeWl3QjBPaVQzX25GMnRLdzNoMnNwT053Ukh3bHQ5aXR0UFpVRkZ1Tm1mU2h5YXJNTUFXQkRTaWNrWS00OWhzVlZYdFVPU2xnQXJiY2R3OFA5SXAtS09MekxYRGEwZmpCaERuSzkydG1tc2hmT0ZUNNIBxwFBVV95cUxOWk1vLTBndVNmN2RFZGgxTVEyZ0R6TzJ4OEE4cE9qam5YNVhaaWVzUVl4d3F6bUVNZDZxRUZVSG5SMXVuWC01ell2cW02SjJnZ1BoWTc3U1NxQU5nQ3V5b1dhQUlpRjdTaHpIWWFxNkZTSWhsdFpmbExENWdpMkhxakpiRDVkSEdSYkt0X1p5WWgxWElIWjA4a3NXaWVhYlhQUldVWWZSaFkyRm9DZDAxeTNNOVYwQ2o5RUVEQXIyX2k3Si1CNk9v?oc=5
-
-- 'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over Russian oil | India News - Hindustan Times
-  'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQamRxbGh0aUxhU285a2tEZ3Fob05OMUN3UkU4aDIxczMxcUJGZVpSM25QYnFaaHRwVXBVWEZseGZiT2M2anNYUmVpNzZLS2o2bUxxTndxMW1FUUNfbS1XcVJIWnJjVF9OdjZkNXkzZDhxWHlIS3c3Q3BDOFA0Wl9VZWxrRllsV1Y0d3NFdk0zZHphU2dyWHlyNlVXLXdoT2d5S2ZQUW9EZ3AtRk44YVNIelpqTGczRkFTY0RzMk9UZGo5amp6ZXBtWUZheEphS0c3OHloQ0wwNmxiQ084czlCSEpZQXdoSXZuVk82a2pGOXhzUzNSNHMtSFl30gH_AUFVX3lxTFB3SV9rOWJWTWhYajVFOVRlUTF3cUVoYzBDSDhLZndFTWJSbFRYZ1YxWjh2ZUFLZ25BaWNlRW1yT1JaOGVGdWVBMmp5eFBhWEVaZVFybVk0WlhZRWhUSWt4TkFoZTNrVk1JQ211NG5XbkFhR3N3VERkQktIZ1BBWHRFa2dDRGZld0JWNG5iV0k4TFBCbFNSVkRWYVp2VVh3bldybi1zUHN4QTlIYjhhcW9tQnJhM3lFXzlvcG9xUDdURHNHRW9QTzh6X0xJLXVuODZFMmJZZWRtckxOdmV4NURSN2RJUFM5bzF2MV8xdEZET0FCeXE4LTIyamh5V3FRSQ?oc=5
-
-- India-EU FTA Explained: Impact On Auto Sector And Car Prices - NDTV
-  India-EU FTA Explained: Impact
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzhPZ3lTb1BYcnA2b2prSzhOXy1ucnBybF9sTEhZQ0ZGUkdNbFFBUVRyRzJaVG5wak1DMHVpN0JkRk1oRlN5cFdfM0h1a2JfbXFPUXlnLUpSdnI2eVdpSndtRE50RVAwMkVmVV9NQ2kwMlV0V1pVTDNXX3d6dk1nUEtLY2VmTVcyS0Z5TndlQ2FqS1BxMkdUU3dB0gGiAUFVX3lxTE1aM0pkVlJ4eV9BM1BQNWJGTFNVR1p0THFPa3ItdUVDUWJvaFNfeElzeDhGdmV3cnlzcnhDZ3hGelAteEtqLU5MTWQ3QVNHdHFsb2M1TUpaMmJ2dDktcy1pQjQtU3NrXzR5Z0NGNElIX3p0c093WkNVazJyWk5xcXFsRng0V3pIV0sxYjU5R3Ezb09jWGJtQm9oWUhTeUljMU1Tdw?oc=5
-
-- Republic Day: How does India choose its chief guest for 26 January parade - BBC
-  &nbsp;&ngt;<font
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2UGNUSjBpWGtpUG83MWM4RWtlak84V2NIRkh0ZHZOSXgtN3A5REExYjlhLThMUUtSd0FPUWE1emUxbjBhMHNMaF9yTDdOMW1rNmZRMGt5aXJpZ9IBX0FVX3lxTE0xUnoyS3JsSTI5UjZVYVFlRmZYYUR5RnVCZVhZbHZ3dGxUZ3dNUzRpNU5DTFU3NWVfUFg3MmRrNExfNktBVlVBN3BLUmJ2YUEwbXJWZ1IzQzJFRHRVWFlN?oc=5
-
-- Decline of Himalayan rivers could trigger nuclear war: UK report - Times of India
-  The decline of Himalayan rivers could trigger nuclear war
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPQW1fMzkwRG8xRk1WS3JITXpKY1c3cnBtVV9STHNwVzVoOTcxVUNRY3Q3T0t5YXFQRlA4TDlfRlN6ZkRqOTdYMDl6X0lGZ1Z1M2o0Y0ZIVWFJZi1mVmJ2X3NFREpCUHVoaERxYlZFeWJWTFh0ZGpBR0NJSVpDTWs4bklSQWZCdEJ6SjNuclUwYVcyODJrNW1kbTR1cXNQa2JySkd6LUVPTlNaUmJLOEpKN19xbFdSc0ROdGxfWUNQSGxTSkI3cDR5TFJKTdIB0AFBVV95cUxOWWEtRDdtQjJmVG5IMG9XVndVOE1IbG1MNmxHcnphVEdDR1hjcVJxNEFpbnJua1NpY3NWR3JEOC1LTUhUc3JNby1sRWg4VmlkZ3N1X0lVc2d3NjlGLXg2OGdIalBiY3lZWlJGRURSeGFoRF9MRGREM05SaG5LUEVuSDVwNXJEcUNlVlM2aG53RTE5VjZHTlgybFJreTZQQ05pTy1ZeG9WUlZDRjh0M1lxVGxNMHU3Vk5WbzlBRkRUa3MyS2luNXZMOEU3N0JTY2NV?oc=5
+- News On AIR | January 27, 2026 5:57 PM - News On AIR
+  News On AIR is a weekly news program on
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdEdEZVA1OU9DT0YzMi1XdlpYWTRybmhRWThUOERoYVF0WDN1aUtrYU1YMXB2bGlkTlZTQzNkeWRKRDJ1WkhleFB3dGg0XzR5QmtXNG96NmV1cGtfZjRiMkx2cGI3Nk9MSVU3X3EtdGRWRkVlYVU5bGQ4aFRIVGtKMjRSeTVMYThTZXRSM3J5RDBmSWtpYmh1UlhqdDF0NkxpMFhKVTI4d1RJLUE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-27 06:32:21 UTC_
+_Last updated: 2026-01-27 12:41:47 UTC_
