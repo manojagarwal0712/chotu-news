@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
+- UIDAI to launch Aadhaar App ‘full version’ on January 28: check top 5 features
+  
+  🔗 https://indianexpress.com/article/india/uidai-to-launch-aadhaar-app-full-version-on-january-28-check-top-5-features-10497760/
+
+- Inequality rising, welfare retreating: Cong targets govt on GDP, FDI data
+  
+  🔗 https://indianexpress.com/article/india/inequality-rising-welfare-retreating-cong-target-govt-gdp-fdi-data-10497857/
+
+- Republic Day shocker: MP school students served midday meal on torn notebook pages; principal to be suspended
+  
+  🔗 https://indianexpress.com/article/india/republic-day-mp-school-students-midday-meal-torn-notebook-pages-principal-suspended-10497657/
+
+- AIIMS Bhopal employee robbed of mangalsutra inside hospital lift, video captures snatching
+  
+  🔗 https://indianexpress.com/article/india/aiims-bhopal-employee-mangalsutra-hospital-lift-viral-video-10497539/
+
 - António Costa’s India connection: How a Goan-origin European Council head just delivered mega EU free trade deal
   
   🔗 https://indianexpress.com/article/india/antonio-costa-india-goa-origin-european-council-mega-eu-free-trade-deal-10497067/
 
-- ‘No one came in support’: Dalit woman assaulted with broom for refusing to clean shopfront without payment
+- WhatsApp rolls out high-security feature ‘Strict Account Settings,’ offers stronger protection
   
-  🔗 https://indianexpress.com/article/india/dalit-woman-assaulted-broom-refusing-clean-shopfront-without-payment-10497440/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-rolls-out-high-security-feature-strict-account-settings-10498049/
 
-- ‘Nobody will be discriminated against or oppressed’: Union Education Minister Dharmendra Pradhan on new UGC regulation
+- A new way to flirt: Dazzle potential mates with patterns invisible to uumans
   
-  🔗 https://indianexpress.com/article/india/union-education-minister-dharmendra-pradhan-ugc-regulations-10497395/
+  🔗 https://indianexpress.com/article/technology/science/a-new-way-to-flirt-dazzle-potential-mates-with-patterns-invisible-to-humans-10497892/
 
-- Hailstorms, heavy rain lash Noida; IMD issues red and orange alerts
+- What Apple may change with the iPhone 18 Pro and iPhone 18 Pro Max
   
-  🔗 https://indianexpress.com/article/india/hailstorms-heavy-rain-delhi-ncr-noida-imd-red-orange-alerts-10497349/
-
-- ‘My heart says she is alive somewhere’: Chandramuni’s 7-year search for missing daughter in Jharkhand
-  
-  🔗 https://indianexpress.com/article/india/chandramuni-urain-missing-daughter-jharkhand-10497265/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/what-apple-may-change-with-the-iphone-18-pro-and-iphone-18-pro-max-10497469/
 
 - Vivo X200T debuts with Dimensity 9400+ processor, 6,200mAh battery and Zeiss cameras
   
@@ -28,57 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/nasa-turns-to-the-moon-to-solve-a-mystery-about-water-on-earth-10497338/
 
-- Meta plans new paid subscriptions on Instagram, Facebook and WhatsApp
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-plans-new-paid-subscriptions-on-instagram-facebook-and-whatsapp-10497140/
+- Air India unveils first Boeing 787-9 ahead of February debut: Full recline flatbed, amenity kits - Check features, pics
+  Air India's new Boeing 787-9 Dreamliner aircraft will operate on select long-haul routes. The aircraft introduces upgraded seating, next-
+  🔗 https://www.livemint.com/companies/news/air-india-unveils-first-boeing-787-9-ahead-of-february-debut-full-recline-flatbed-amenity-kits-check-features-pics-11769532813677.html
 
-- From Honor to Samsung, smartphone launches to watch out for in 2026
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-honor-apple-google-xiaomi-upcoming-smartphones-2026-10496734/
+- Zoho's Sridhar Vembu calls Big Tech ‘East India Company’ as France replaces Zoom, Teams with domestic alternative
+  Sridhar Vembu likens Big Tech to the East India Company, emphasizing the need for technology
+  🔗 https://www.livemint.com/companies/people/zohos-sridhar-vembu-calls-big-tech-east-india-company-as-france-replaces-zoom-teams-with-domestic-alternative-11769514209880.html
 
-- Microsoft Paint now lets users generate colouring pages with simple prompts
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-paint-now-lets-users-generate-colouring-pages-with-simple-prompts-10496703/
+- ONGC reaches out to Shell, ExxonMobil, TotalEnergies, Chevron, others for production enhancement in western offshore
+  ONGC wants these global energy players to participate in its tender for
+  🔗 https://www.livemint.com/companies/news/ongc-shell-exxonmobil-chevron-bp-western-offshore-production-boost-india-11769526289967.html
 
-- Blinkit launches RuPay powered NCMC Bharat Yatra Card
-  Blinkit’s NCMC Bharat Yatra Card supports
-  🔗 https://www.livemint.com/companies/news/blinkit-launches-rupay-powered-ncmc-bharat-yatra-card-11769512923930.html
+- After SCL Mohali, Tata's Dholera plant to help startups build prototype chips
+  Tata's Dholera fab will assist Indian chip startups with design tape-outs. India targets 3-nm chip production by 2032.
+  🔗 https://www.livemint.com/companies/after-scl-mohali-tata-dholera-plant-to-help-startups-build-prototype-chips-ashwini-vaishnaw-fab-11769517648451.html
 
-- L&amp;T Q3 preview: Profit may jump by a third, but Middle East orders in focus
-  The company said in October that it was seeing the first signs of the return of private sector capex in India. Its infra projects segment got domestic orders worth about  ₹27,400 cr in July-September
-  🔗 https://www.livemint.com/companies/larsen-toubro-earnings-l-t-q3-results-profit-revenue-11769495383025.html
+- India-EU FTA may lower costs of novel drugs for Indian patients, medical equipment
+  The deal will reduce tariffs on pharmaceutical exports from Europe to India to zero from 11% for almost all products. This will also reduce input costs for specialized raw
+  🔗 https://www.livemint.com/companies/indiaeu-fta-novel-drugs-medical-equipment-indian-patients-msmes-exports-regulatory-processes-pharma-companies-11769519178344.html
 
-- Renault bets on a French CEO and an old favourite to kick-start its India comeback
-  Stephane Deblaise is the only expat heading the operations of a major European carmaker in India. One of his primary tasks will be to ensure the success of
-  🔗 https://www.livemint.com/companies/news/renault-india-revival-duster-french-ceo-11769498447158.html
+- General Motors shares climb over 9% on strong Q4 profit, higher 2026 outlook
+  The Detroit-based company anticipates earnings to bounce back this year primarily due to a vigorous
+  🔗 https://www.livemint.com/market/stock-market-news/general-motors-shares-climb-over-9-on-strong-q4-profit-higher-2026-outlook-11769535135241.html
 
-- DealShare’s risky reset puts it head-to-head with retail heavyweights
-  DealShare’s pivot to a business-to-consumer model pits
-  🔗 https://www.livemint.com/companies/dealshare-ecommerce-pivot-b2c-private-labels-retail-heavyweights-competition-india-11769493573093.html
+- PC Jeweller Q3 Results: Net profit jumps 28% YoY to  ₹187 crore, revenue up 37%
+  PC Jeweller reported a 28% rise in Q3 FY2025-26 net profit. The company aims to become debt-free and plans to expand its franchise network.
+  🔗 https://www.livemint.com/market/stock-market-news/pc-jeweller-q3-results-net-profit-jumps-28-yoy-to-rs-187-crore-revenue-up-37-11769534040556.html
 
-- Zensar braces for hit as Cisco likely to pare vendors, fifth Indian IT firm under top-client pressure
-  Mid-tier Indian IT companies are facing revenue risk as global clients rationalize
-  🔗 https://www.livemint.com/companies/news/zensar-revenue-hit-cisco-vendor-cuts-top-client-pressure-indian-it-companies-11769482440556.html
+- Upcoming IPO: PhonePe gives up  ₹1,500 crore revenue to future-proof its fintech story before going public
+  PhonePe is set for a 100% IPO offer, leveraging its cash reserves. Despite regulatory challenges, it is transitioning to a diversified fintech platform.
+  🔗 https://www.livemint.com/market/stock-market-news/upcoming-ipo-phonepe-gives-up-rs-1-500-crore-revenue-to-future-proof-its-fintech-story-before-going-public-11769532594987.html
 
-- Budget 2026 may offer incentives for the struggling export sector: Nuvama Group's Senior VP for Research
-  With a pause in fiscal consolidation, the budget may signal a shift towards growth. Nuvama Group's Senior VP Sandeep Raina suggests potential incentives for the struggling
-  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-may-offer-incentives-for-the-struggling-export-sector-nuvama-groups-senior-vp-for-research-11769516698270.html
+- Big deal, small impact: Why markets gave a cold shoulder to India-EU trade deal
+  The mother of all trade deals between India and the EU left the stock markets cold. According to market experts,
+  🔗 https://www.livemint.com/market/stock-market-news/big-deal-small-impact-why-markets-gave-a-cold-shoulder-to-india-eu-trade-deal-11769520755543.html
 
-- Budget expected to take infrastructure-led growth to the next level, says YCH India's Country General Manager
-  YCH India's Country General Manager, Jossy Sebastian, shares insights on how strategic investments in logistics infrastructure can enhance competitiveness and create jobs.
-  🔗 https://www.livemint.com/market/stock-market-news/budget-expected-to-take-infrastructure-led-growth-to-the-next-level-says-ych-indias-country-general-manager-11769515710692.html
+- Stock market today: Trade guide for Nifty 50, gold, silver rates, USD vs INR to India-EU FTA; 8 stocks to buy or sell
+   Axis Bank, APL Apollo, ICICI Bank, NTPC, BDL, Waaree Energies,
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-guide-for-nifty-50-gold-silver-rates-usd-vs-inr-to-india-eu-fta-8-stocks-to-buy-or-sell-11769528160517.html
 
-- US Fed meeting: Will Powell &amp; Co cut rates this week? Here's what to expect
-  The Federal Open Market Committee (FOMC) is set to meet to decide whether to lower
-  🔗 https://www.livemint.com/market/stock-market-news/us-fed-meeting-what-to-expect-from-the-upcoming-january-announcement-11769504290894.html
+- Elon Musk says 'WhatsApp is not secure' amid Meta privacy lawsuit; Sridhar Vembu cites 'conflict of interest'
+  A lawsuit against Meta alleges false privacy claims regarding WhatsApp. The lawsuit asserts that user conversations can be accessed. Meta has dismissed the allegations.
+  🔗 https://www.livemint.com/technology/tech-news/elon-musk-says-whatsapp-is-not-secure-amid-meta-privacy-lawsuit-sridhar-vembu-cites-conflict-of-interest-11769521658890.html
 
-- Budget 2026: How could LTCG tax rationalisation impact Indian stock market sentiment?
-  Investors are buzzing about potential cuts to the Long-Term Capital Gains (LTCG) tax. Experts believe that easing taxes could
-  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-how-could-ltcg-tax-rationalisation-impact-indian-stock-market-sentiment-11769514726862.html
-
-- Budget 2026: Capex can cross  ₹12 trillion; minor income tax benefits possible, says Sunny Agrawal of SBI Securities
-  Over the last few years, the importance of the Union Budget as the only window for reform measures has reduced. Reform measures have become round the clock process, says Sunny Agraw
-  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-capex-can-cross-rs-12-trillion-minor-income-tax-benefits-possible-says-sunny-agrawal-of-sbi-securities-11769514395471.html
+- Apple's new AirTag: 5 things to know about the updated device - Wider range, same price?
+  Apple has launched an updated AirTag, adding to its plethora of accessories. From pricing to what's new about the updated device
+  🔗 https://www.livemint.com/technology/gadgets/apples-new-airtag-5-things-to-know-about-the-updated-device-wider-range-same-price-11769514849049.html
 
 - EU steps in to make sure Google gives rivals access to AI services and data
   EU steps in to make sure Google gives rivals access
@@ -92,33 +100,25 @@
   Wearable technology could be used at future Australian Opens
   🔗 https://www.livemint.com/technology/not-for-sabalenka-sinner-and-alcaraz-now-but-wearables-could-be-ok-at-future-australian-opens-11769487930652.html
 
-- Rift at influential Silicon Valley venture firm shows techs divide over ICE shooting
-  Rift at influential Silicon
-  🔗 https://www.livemint.com/technology/rift-at-influential-silicon-valley-venture-firm-shows-techs-divide-over-ice-shooting-11769466319411.html
+- Ahead of Market: 10 things that will decide stock market action on Wednesday
+  Sensex rose 320 points and Nifty gained 0.5%, buoyed by optimism. India and the EU sealed a landmark free trade deal.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/127637199.cms
 
-- Australian lawyer apologizes for AI-generated errors in murder case
-  Australian lawyer apologizes
-  🔗 https://www.livemint.com/technology/australian-lawyer-apologizes-for-ai-generated-errors-in-murder-case-11769461957540.html
+- US consumer confidence drops to lowest level since 2014
+  All five components of the index worsened, driving the overall level to its lowest since May 2014. Consumer confidence "surpassed its Covid-19 pandemic depths," the survey says.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-consumer-confidence-drops-to-lowest-level-since-2014/articleshow/127636786.cms
 
-- Marico Q3 Results: Profit up 13.3% to Rs 460 crore, revenue up 26.6%
-  Homegrown FMCG major Marico Ltd on Tuesday reported a 13.3 per cent rise in consolidated profit to Rs 460 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/marico-q3-results-profit-up-13-3-to-rs-460-crore-revenue-up-26-6/articleshow/127623992.cms
+- UnitedHealth forecasts first revenue drop in 4 decades; shares plunge
+  UnitedHealth Group said revenue this year would decline for the first time in decades. The company's shares tumbled 19% as investors reset profit expectations.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/unitedhealth-forecasts-first-revenue-drop-in-4-decades-shares-plunge/articleshow/127636596.cms
 
-- India benchmark bond yield climbs to nearly 11-month high on deepening supply woes
-  India's government bonds yields surged ‍on Tuesday, sending the benchmark yield ​to a nearly 11-month high
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-benchmark-bond-yield-climbs-to-nearly-11-month-high-on-deepening-supply-woes/articleshow/127623699.cms
+- RTX posts higher quarterly sales on strong engine demand, aircraft repairs, shares edge up
+  RTX posts higher fourth-quarter revenue and profit. Shares of the company rose 1.7% in early trading in New York.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/rtx-posts-higher-quarterly-sales-on-strong-engine-demand-aircraft-repairs-shares-edge-up/articleshow/127636208.cms
 
-- India-EU FTA to open duty-free window for textile exporters, says Gokaldas Exports MD
-  India’s textile exporters are set to gain duty-free access to the EU market under the India–EU FTA. Gokaldas Exports MD Sivaramakrishnan Ganapathi says Europe could
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/india-eu-fta-to-open-duty-free-window-for-textile-exporters-says-gokaldas-exports-md/articleshow/127623228.cms
-
-- Gainers &amp; Losers: Adani Enterprises among 7 stocks that moved most on Tuesday. Here’s why
-  Indian markets end higher as buying in financials, IT and metals offset weakness in auto and FMCG stocks. Adani Enterprises, Axis Bank, BPCL
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-adani-enterprises-among-7-stocks-that-moved-most-on-tuesday-heres-why/slideshow/127622592.cms
-
-- Mahindra shares lose Rs 18,000 crore: Is India-EU trade deal really bad for top SUV seller?
-  Mahindra &amp; Mahindra shares fell over 4%, erasing Rs 18,000 crore in value. Investors worried about tariff cuts for European cars under the India-EU trade deal.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mahindra-shares-lose-rs-18000-crore-is-india-eu-trade-deal-really-bad-for-top-suv-seller/articleshow/127621462.cms
+- US health insurer stocks slump as 2027 Medicare Advantage payments proposal disappoints
+  The Trump administration proposed a smaller-than-expected increase to next year's Medicare
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-health-insurer-stocks-slump-as-2027-medicare-advantage-payments-proposal-disappoints/articleshow/127635771.cms
 
 - "We Delivered The Mother Of All Deals": India-EU Trade Pact Finally Sealed - NDTV
   "We Delivered The Mother Of All Deals":
@@ -128,45 +128,37 @@
   'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over
   🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQamRxbGh0aUxhU285a2tEZ3Fob05OMUN3UkU4aDIxczMxcUJGZVpSM25QYnFaaHRwVXBVWEZseGZiT2M2anNYUmVpNzZLS2o2bUxxTndxMW1FUUNfbS1XcVJIWnJjVF9OdjZkNXkzZDhxWHlIS3c3Q3BDOFA0Wl9VZWxrRllsV1Y0d3NFdk0zZHphU2dyWHlyNlVXLXdoT2d5S2ZQUW9EZ3AtRk44YVNIelpqTGczRkFTY0RzMk9UZGo5amp6ZXBtWUZheEphS0c3OHloQ0wwNmxiQ084czlCSEpZQXdoSXZuVk82a2pGOXhzUzNSNHMtSFl30gH_AUFVX3lxTFB3SV9rOWJWTWhYajVFOVRlUTF3cUVoYzBDSDhLZndFTWJSbFRYZ1YxWjh2ZUFLZ25BaWNlRW1yT1JaOGVGdWVBMmp5eFBhWEVaZVFybVk0WlhZRWhUSWt4TkFoZTNrVk1JQ211NG5XbkFhR3N3VERkQktIZ1BBWHRFa2dDRGZld0JWNG5iV0k4TFBCbFNSVkRWYVp2VVh3bldybi1zUHN4QTlIYjhhcW9tQnJhM3lFXzlvcG9xUDdURHNHRW9QTzh6X0xJLXVuODZFMmJZZWRtckxOdmV4NURSN2RJUFM5bzF2MV8xdEZET0FCeXE4LTIyamh5V3FRSQ?oc=5
 
-- Evening news wrap: PM Modi's double engine pitch as India-EU finalise FTA; 'gamosa' row fuels BJP–Congres - Times of India
-  The Times of India reports on PM Modi's double engine pitch as India
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxQemZ1QUVBVjlwcW8tUEozWHhQaERjamdINFpveFdUXzBPUUpuX211a01YWWk5ZG1hbEpzaTJMaGVCVFNDNVJoc1BwYjkxMGFuTnpqQVY1SUVoTUVXSjFtRzU2REtRcnNlRk5NVUJNTEhkdm05Ni1FeXFCUVlySEVvSmlHY1dIbDB5SkllMWV3QWk2c2xLRUYyODNEclhmeTY1TkxpZ09vcmFNd1BzZFVCNGpUUWVpTklESFluNjA1RzcxVkdKUXRKaXZqZUZyUk16YWVhcWd6dFBVS0JLSVJyUW01M3Y0TzZKVGRHRWJXNC0zdkluSUttb2hYUUx1U3N5endrMVNxc3NUTHRIaUdYNE8wUXZuaU1fNHRPRmwxNNIBpAJBVV95cUxQN1BDb1VlSFYtWGJYeVF3V092NUl6RG9xSVpHekhTX3E4WE5fTHNyakVDaE1MelVxYmxTMFdJZzk5RW5JcnVjdGF3b0RyRjJhZUZtVWkwM2VLVzNORkk3U3dydlE3NGtvakRNVjhVZnU1U3VkaWRmZDBJNGsxa0E4QVhESVRnU0twT3N3VUpLT2ptOXd2blZOT3UtREMtS3lRby1ENkdCdlZoV2RGWkx4YXdaSGl3RWkyQ3gydWNTMjk0SWVzeEw1NjFackdtVVJCemYwQURjdG9GZmJPZmFjSUJlTkExb196UHA2b1RvbDVKMHpQYjdXV3BDWGIwZjhyelo4SUsycjcxSll5V2EzRUY1dm1DVTYza1RqY2lMUFp3Rmpy?oc=5
+- UAE-India energy partnership to double: UAE industry minister - Times of India
+  UAE-India energy partnership to double
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjFqY0dZS2liTWdtemVPajNXMVBoNFZESXRUS3NWTEM1NkVEaW1OTWxUSEg4aU41WWlseldrWFhJX0ZzcllsZ2ZWQVRYYjdLSlFXNURFZDVzN0ZlRS1WM09ndWRodTc2dGE2QlgyUXRNeW5pQlJKZ1pPdmxaZ0cwODBVaUNaVTd6WThZb3I0NVJvWEl4SXZGOGVPVEtpZnlCYTBnS3pQSHF3Z0NrWEhOYkNIbURrVmlHT2pBSG5uQVJwdGJQd0ptYm8wQdIB0AFBVV95cUxPNFVUUVlsa3htaGF5QUh2Q0RJalFKTjlISXJZazlfeVRYVVA1MUpLUTNPRzlTTGJQUjZNRmxHQ0F0Sm1wU2JudktWRVh0Rk84c3llY1gwYTF3NTVDQXZUQ2FvckxEU012UGlrSHJNblJqU2RjY09OQ0hVTC1admJ5MTMxbUNvRUNxdlZjeHlPeEhoT0RLVGNZT3ZCbXlzY1dQRkc0WWNQS2I2VDhOeU85OHk2YThFR2RwTUZyQ29VUnRFWFZmbkJPYlJfYXVPdHEz?oc=5
 
-- India-EU Summit 2026 Live: Modi dubs India-EU ties as global 'double engine of growth' after key FTA | India News - Hindustan Times
-  India-EU Summit 2026 Live: Modi dubs India-EU ties as global 'double
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQdTJCb2JRNG1OVHBoWWpRMWk4WkpxQ29rSEJuQktVSWptWThRYnVUSXBueW4wZ1lvR05sUmxHY2FjUmFKbHNWcGlWLWExdkZvY3k0RFlJUXg4dHc4aWNCRy0zMk5vMzZ0QTBOWGZDd1R6YzVZT2VzZTlITUwxZ3h2aXNaVWY2d2pRTWQ2SDdzZHV5OWVHcmVHZ2Z5aFFvSnAzRm9mQ29ySGUtT0dwU0djT3c3bmFFZ1RVekIxT2xsTUo3Y3FoVkh1LTlFa2RwcmtRYVdfcl9WWGlvNFhjQmRDUDlFUF8zQmxpTnBBNUtQaUM4ZzNybVRWdzRYUjdIUUl4UEtZRnVn0gGLAkFVX3lxTE5td3ZYUWdwLVlQWXFicFAweFlWOTJPSWNncnl3UXlhckRibVd3QmlpNWdEQW5HbnhXQzFKRUl5c1BfejIydjNmMmFWOG10dUEzWHY2TkdpMTlqQ0dxekN6dllFWmt5dDYzWXdXdk5kQXJOcmdWemJDVjhVRm5rdk0yd3hZd1FSLUlUdTgtOUpEMUZZeVlYNTExNzZQVldsZTc4UnVVY1FNMm1uXzdyRFFJN2pULXltYWRPcGFVejlaaXExazN6QzdGRlAtQ004ME9GTHljTFFNRDhYSUpLSU1CWUJ5dmNfWmo2dXU1YUY2QXMwc0Q1VGxBY0twQUNwUTVFUVBZaFVDUEZmbw?oc=5
+- CPI(M) slams India-EU FTA as ‘surrender of economic interests’ - The Hindu
+  CPI(M) slams India-
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0NJWGpjOHdlVTUwZ0lwbmdlYkktbzZkZ2RQNkpuY2lJLXU4TlRYQm5zLWpvWGJ0SGFVSUlJdXVUQ045TzdUQU83VjVHOXZpNGhEODMzMVF4YmlkX2VhdWNIX3MzajRMcWpPWlUxZzZoM1BvXzh3Ym14SmNlWElnY2tCblEwb0RDRnBHcFpQb2ttZ3BPQllzQURCTm0yQmd6bWpUOExkNk53Z0ViS29GaVIwVW1zZVhm0gG_AUFVX3lxTE12YmRlaS1hRkJyelF0QmFVcHlQV1VXUFJPVEd2MUFtY0RUc0ZYRm85WFBnRktWWS1tTzJvNk9kQmtEWU5ZZnkxUkJMdGxhaG1EanNrSm84bkFRUjR1RlFCZFB4c0NNVDVjaG5ySUJtOEhIRTc5S2ZJRV8wWFdFZlBac2s1S2toUFF5TGdpQzg3aXhPZGRhSDZWRlI3ZmZOWkllYzk0QlhuamM2MVZvVXhDd3cyRzQ2VlJXY3I0cnRz?oc=5
 
-- News On AIR | January 27, 2026 5:57 PM - News On AIR
-  News On AIR is a weekly news program on
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdEdEZVA1OU9DT0YzMi1XdlpYWTRybmhRWThUOERoYVF0WDN1aUtrYU1YMXB2bGlkTlZTQzNkeWRKRDJ1WkhleFB3dGg0XzR5QmtXNG96NmV1cGtfZjRiMkx2cGI3Nk9MSVU3X3EtdGRWRkVlYVU5bGQ4aFRIVGtKMjRSeTVMYThTZXRSM3J5RDBmSWtpYmh1UlhqdDF0NkxpMFhKVTI4d1RJLUE?oc=5
+- This prominent Indian airline has launched direct flights between India and Greece and travellers can't k - Times of India
+  This prominent Indian airline has launched direct flights between India and Greece and travellers can't
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxNOTdFaktNZllCdXJwVVY0YzZQOVA3M1llOGhuLTRWdmJaQ2JCQU1VbzdrOUhRSGVSSml5aDZjeUxiblg1QkkwRUFKSE9pNnNQNHdVZjNPbDRPUDF2a3Axaml1cDdnM2VKLWVGb3VOOXI5NGVDd1VQNFZGMVh4aDltakRrQ1hPcXRyR1VxeUFSR1F0blBsU3R3T0tIWmtVUE5pZWdOVWJoZ1ZmeWIwMXFINFhaWHFJc0N4alh1MEZ4WXhuS2lsa1BWU0pIVzJLaXA1ZW1hRUxUMTNhVVVCaERWRF83dUMwZ05uWkI3QWVGVEVIWmkzMUZlelhGNHZrcWtSaEhYRzZSeU9iazkySjg4bXNsenlDUllwU1JEZzlZQTBydDDSAagCQVVfeXFMTUJpT0JKSEo2bzkwZkpQa1JDUzBxWHU2eU9RVUVld0tMVmdYdlBrajVHSHNGcDU0UGFYYnk4UlhZWUplSTM2SW9XUy01OVRDUEVTSjRCOXN3Wm1XYTZtdmk1OE9NUHNmbFlVR1NoU2lMVDJncE1Cd0gxeXpFbG8zUkUtNmxkOUFvdnlPMzVjeW5rM0lOT29vLXJhSU9NbFhlSjl1YnhaSXhaSXN3VE9vZ0lKOFNvSS1tUWZlU29RX1FkU3V2UW1RaTVocU9QSGVaMGNwWDBsVm0tQ2h1eDlMLTJobWJkdUg0X3U5RDhMNUpRLU9FVGU3alIzNGdoSy1pSXl0WjhGaEV3TDBLYmNFWEh4eDM0M0xvQ0RVc3JSenZmSFhuSWVRdW0?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- "We Delivered The Mother Of All Deals": India-EU Trade Pact Finally Sealed - NDTV
+  "We Delivered The Mother Of All Deals":
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT3h5eDF5VGE0RmIwbGgzR1ZOVGpDWUZOZUEzWDNzWlhtd21EYkxKeWlVRnMyN3hGTmdVQk1KR1lydW5FamlaS1dNNk9CMTB0ZVNMbTVhNmREWFNxUmkta1AzUHJPaTZHRHpkWTlqV204bkptaXgwNWJqRldTRjJGZjF0VkZ5S2ZVb1dWUGRWMGhwQzJ5b2RIMnJpWTQtUkRJNGd1Ync5dFY3SlRyUnk2bXFXaU80a1ZUa21rTHBoQ1pKMGllbE53Z1dPZ0k4d2EzOTZHa1hR0gHeAUFVX3lxTE5iRHdrM2VzM2xpcHhZSXNkYU1iYU9Nbm4xSEt1OFVqY0pzLTFmVjliSkFwemhmQzZMVlN6Z1l6WUk1MkcyNTFIQUxVZVhOdF9FYm1oRzJuWmJkWHFYTGR4c3drb25qempYYlZ2OHJFTWdNV0piREwxTnctdkxXZUQ2NEd4bjJtV3hMU1FJdm54UGNlMm03VkNjdFNMci1WcmxQVWlSZjBrWEs0U18tY2ZHNW9xenR2Q2FkcUtUT0FCeWZoZEdEQ0RKd001a3RTWWNXRERLdV8xRk1xc0VJdw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- 'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over Russian oil | India News - Hindustan Times
+  'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQamRxbGh0aUxhU285a2tEZ3Fob05OMUN3UkU4aDIxczMxcUJGZVpSM25QYnFaaHRwVXBVWEZseGZiT2M2anNYUmVpNzZLS2o2bUxxTndxMW1FUUNfbS1XcVJIWnJjVF9OdjZkNXkzZDhxWHlIS3c3Q3BDOFA0Wl9VZWxrRllsV1Y0d3NFdk0zZHphU2dyWHlyNlVXLXdoT2d5S2ZQUW9EZ3AtRk44YVNIelpqTGczRkFTY0RzMk9UZGo5amp6ZXBtWUZheEphS0c3OHloQ0wwNmxiQ084czlCSEpZQXdoSXZuVk82a2pGOXhzUzNSNHMtSFl30gH_AUFVX3lxTFB3SV9rOWJWTWhYajVFOVRlUTF3cUVoYzBDSDhLZndFTWJSbFRYZ1YxWjh2ZUFLZ25BaWNlRW1yT1JaOGVGdWVBMmp5eFBhWEVaZVFybVk0WlhZRWhUSWt4TkFoZTNrVk1JQ211NG5XbkFhR3N3VERkQktIZ1BBWHRFa2dDRGZld0JWNG5iV0k4TFBCbFNSVkRWYVp2VVh3bldybi1zUHN4QTlIYjhhcW9tQnJhM3lFXzlvcG9xUDdURHNHRW9QTzh6X0xJLXVuODZFMmJZZWRtckxOdmV4NURSN2RJUFM5bzF2MV8xdEZET0FCeXE4LTIyamh5V3FRSQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- UAE-India energy partnership to double: UAE industry minister - Times of India
+  UAE-India energy partnership to double
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjFqY0dZS2liTWdtemVPajNXMVBoNFZESXRUS3NWTEM1NkVEaW1OTWxUSEg4aU41WWlseldrWFhJX0ZzcllsZ2ZWQVRYYjdLSlFXNURFZDVzN0ZlRS1WM09ndWRodTc2dGE2QlgyUXRNeW5pQlJKZ1pPdmxaZ0cwODBVaUNaVTd6WThZb3I0NVJvWEl4SXZGOGVPVEtpZnlCYTBnS3pQSHF3Z0NrWEhOYkNIbURrVmlHT2pBSG5uQVJwdGJQd0ptYm8wQdIB0AFBVV95cUxPNFVUUVlsa3htaGF5QUh2Q0RJalFKTjlISXJZazlfeVRYVVA1MUpLUTNPRzlTTGJQUjZNRmxHQ0F0Sm1wU2JudktWRVh0Rk84c3llY1gwYTF3NTVDQXZUQ2FvckxEU012UGlrSHJNblJqU2RjY09OQ0hVTC1admJ5MTMxbUNvRUNxdlZjeHlPeEhoT0RLVGNZT3ZCbXlzY1dQRkc0WWNQS2I2VDhOeU85OHk2YThFR2RwTUZyQ29VUnRFWFZmbkJPYlJfYXVPdHEz?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- CPI(M) slams India-EU FTA as ‘surrender of economic interests’ - The Hindu
+  CPI(M) slams India-
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0NJWGpjOHdlVTUwZ0lwbmdlYkktbzZkZ2RQNkpuY2lJLXU4TlRYQm5zLWpvWGJ0SGFVSUlJdXVUQ045TzdUQU83VjVHOXZpNGhEODMzMVF4YmlkX2VhdWNIX3MzajRMcWpPWlUxZzZoM1BvXzh3Ym14SmNlWElnY2tCblEwb0RDRnBHcFpQb2ttZ3BPQllzQURCTm0yQmd6bWpUOExkNk53Z0ViS29GaVIwVW1zZVhm0gG_AUFVX3lxTE12YmRlaS1hRkJyelF0QmFVcHlQV1VXUFJPVEd2MUFtY0RUc0ZYRm85WFBnRktWWS1tTzJvNk9kQmtEWU5ZZnkxUkJMdGxhaG1EanNrSm84bkFRUjR1RlFCZFB4c0NNVDVjaG5ySUJtOEhIRTc5S2ZJRV8wWFdFZlBac2s1S2toUFF5TGdpQzg3aXhPZGRhSDZWRlI3ZmZOWkllYzk0QlhuamM2MVZvVXhDd3cyRzQ2VlJXY3I0cnRz?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- This prominent Indian airline has launched direct flights between India and Greece and travellers can't k - Times of India
+  This prominent Indian airline has launched direct flights between India and Greece and travellers can't
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxNOTdFaktNZllCdXJwVVY0YzZQOVA3M1llOGhuLTRWdmJaQ2JCQU1VbzdrOUhRSGVSSml5aDZjeUxiblg1QkkwRUFKSE9pNnNQNHdVZjNPbDRPUDF2a3Axaml1cDdnM2VKLWVGb3VOOXI5NGVDd1VQNFZGMVh4aDltakRrQ1hPcXRyR1VxeUFSR1F0blBsU3R3T0tIWmtVUE5pZWdOVWJoZ1ZmeWIwMXFINFhaWHFJc0N4alh1MEZ4WXhuS2lsa1BWU0pIVzJLaXA1ZW1hRUxUMTNhVVVCaERWRF83dUMwZ05uWkI3QWVGVEVIWmkzMUZlelhGNHZrcWtSaEhYRzZSeU9iazkySjg4bXNsenlDUllwU1JEZzlZQTBydDDSAagCQVVfeXFMTUJpT0JKSEo2bzkwZkpQa1JDUzBxWHU2eU9RVUVld0tMVmdYdlBrajVHSHNGcDU0UGFYYnk4UlhZWUplSTM2SW9XUy01OVRDUEVTSjRCOXN3Wm1XYTZtdmk1OE9NUHNmbFlVR1NoU2lMVDJncE1Cd0gxeXpFbG8zUkUtNmxkOUFvdnlPMzVjeW5rM0lOT29vLXJhSU9NbFhlSjl1YnhaSXhaSXN3VE9vZ0lKOFNvSS1tUWZlU29RX1FkU3V2UW1RaTVocU9QSGVaMGNwWDBsVm0tQ2h1eDlMLTJobWJkdUg0X3U5RDhMNUpRLU9FVGU3alIzNGdoSy1pSXl0WjhGaEV3TDBLYmNFWEh4eDM0M0xvQ0RVc3JSenZmSFhuSWVRdW0?oc=5
 
 
-_Last updated: 2026-01-27 12:41:47 UTC_
+_Last updated: 2026-01-27 18:37:17 UTC_
