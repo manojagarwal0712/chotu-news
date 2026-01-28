@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- UIDAI to launch Aadhaar App ‘full version’ on January 28: check top 5 features
+- 40-hour race through 6 feet of snow: BRO rescues 60 stranded at 10,500 ft in J&K
   
-  🔗 https://indianexpress.com/article/india/uidai-to-launch-aadhaar-app-full-version-on-january-28-check-top-5-features-10497760/
+  🔗 https://indianexpress.com/article/india/40-hour-race-through-6-feet-of-snow-bro-rescues-60-stranded-at-10500-ft-in-jk-10498133/
 
-- Inequality rising, welfare retreating: Cong targets govt on GDP, FDI data
+- India-EU mobility pact eases options for Indian students, workers
   
-  🔗 https://indianexpress.com/article/india/inequality-rising-welfare-retreating-cong-target-govt-gdp-fdi-data-10497857/
+  🔗 https://indianexpress.com/article/india/india-eu-mobility-pact-eases-options-for-indian-students-workers-10498269/
 
-- Republic Day shocker: MP school students served midday meal on torn notebook pages; principal to be suspended
+- No SIR, G RAM G debate in Budget Session: Govt to Opposition
   
-  🔗 https://indianexpress.com/article/india/republic-day-mp-school-students-midday-meal-torn-notebook-pages-principal-suspended-10497657/
+  🔗 https://indianexpress.com/article/india/budget-2026-no-sir-g-ram-g-debate-in-budget-session-govt-to-opposition-10498276/
 
-- AIIMS Bhopal employee robbed of mangalsutra inside hospital lift, video captures snatching
+- Subtle shift: India, EU on same page on Ukraine and Gaza Board
   
-  🔗 https://indianexpress.com/article/india/aiims-bhopal-employee-mangalsutra-hospital-lift-viral-video-10497539/
+  🔗 https://indianexpress.com/article/india/subtle-shift-india-eu-on-same-page-on-ukraine-and-gaza-board-10498237/
 
-- António Costa’s India connection: How a Goan-origin European Council head just delivered mega EU free trade deal
+- India, EU sign security, defence pacts, condemn terror in all forms
   
-  🔗 https://indianexpress.com/article/india/antonio-costa-india-goa-origin-european-council-mega-eu-free-trade-deal-10497067/
+  🔗 https://indianexpress.com/article/india/india-eu-sign-security-defence-pacts-condemn-terror-in-all-forms-10498305/
 
 - WhatsApp rolls out high-security feature ‘Strict Account Settings,’ offers stronger protection
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/nasa-turns-to-the-moon-to-solve-a-mystery-about-water-on-earth-10497338/
 
+- Looming pregnant-worker rule changes poised to curb accommodations
+  Looming pregnant-worker
+  🔗 https://www.livemint.com/companies/looming-pregnant-worker-rule-changes-poised-to-curb-accommodations-11769540669558.html
+
+- UPS looks to cut up to 30,000 jobs this year
+  UPS looks to cut
+  🔗 https://www.livemint.com/companies/ups-looks-to-cut-up-to-30-000-jobs-this-year-11769540546280.html
+
+- Disney Actress-Turned-CEO Raises $100 Million for Space Firm
+  Northwood, a maker of critical ground infrastructure for space satellites, raised $100 million in a new funding round
+  🔗 https://www.livemint.com/companies/disney-actress-turned-ceo-raises-100-million-for-space-firm-11769539234941.html
+
 - Air India unveils first Boeing 787-9 ahead of February debut: Full recline flatbed, amenity kits - Check features, pics
   Air India's new Boeing 787-9 Dreamliner aircraft will operate on select long-haul routes. The aircraft introduces upgraded seating, next-
   🔗 https://www.livemint.com/companies/news/air-india-unveils-first-boeing-787-9-ahead-of-february-debut-full-recline-flatbed-amenity-kits-check-features-pics-11769532813677.html
@@ -48,37 +60,33 @@
   Sridhar Vembu likens Big Tech to the East India Company, emphasizing the need for technology
   🔗 https://www.livemint.com/companies/people/zohos-sridhar-vembu-calls-big-tech-east-india-company-as-france-replaces-zoom-teams-with-domestic-alternative-11769514209880.html
 
-- ONGC reaches out to Shell, ExxonMobil, TotalEnergies, Chevron, others for production enhancement in western offshore
-  ONGC wants these global energy players to participate in its tender for
-  🔗 https://www.livemint.com/companies/news/ongc-shell-exxonmobil-chevron-bp-western-offshore-production-boost-india-11769526289967.html
+- What is driving gold’s relentless rally?
+  The ancient
+  🔗 https://www.livemint.com/market/what-is-driving-gold-s-relentless-rally-11769561676347.html
 
-- After SCL Mohali, Tata's Dholera plant to help startups build prototype chips
-  Tata's Dholera fab will assist Indian chip startups with design tape-outs. India targets 3-nm chip production by 2032.
-  🔗 https://www.livemint.com/companies/after-scl-mohali-tata-dholera-plant-to-help-startups-build-prototype-chips-ashwini-vaishnaw-fab-11769517648451.html
+- Shadowfax Technologies IPO listing date today. GMP, experts signal debut at a discount on Dalal Street
+  Shadowfax Technologies IPO listing date is today, January 28. Equity shares will be listed on BSE and NSE.
+  🔗 https://www.livemint.com/market/ipo/shadowfax-technologies-ipo-listing-date-today-gmp-experts-signal-debut-at-a-discount-on-dalal-street-11769534403568.html
 
-- India-EU FTA may lower costs of novel drugs for Indian patients, medical equipment
-  The deal will reduce tariffs on pharmaceutical exports from Europe to India to zero from 11% for almost all products. This will also reduce input costs for specialized raw
-  🔗 https://www.livemint.com/companies/indiaeu-fta-novel-drugs-medical-equipment-indian-patients-msmes-exports-regulatory-processes-pharma-companies-11769519178344.html
+- Corporate bond issues slip 6% so far in 2025 as high yields turn borrowers cautious
+  While the year started strong, the second half saw a significant slowdown. The
+  🔗 https://www.livemint.com/market/bonds/corporate-bond-issues-slip-6-so-far-in-2025-as-high-yields-turn-borrowers-cautious-11769503932449.html
 
-- General Motors shares climb over 9% on strong Q4 profit, higher 2026 outlook
-  The Detroit-based company anticipates earnings to bounce back this year primarily due to a vigorous
-  🔗 https://www.livemint.com/market/stock-market-news/general-motors-shares-climb-over-9-on-strong-q4-profit-higher-2026-outlook-11769535135241.html
+- Stocks to buy: Raja Venkatraman recommends top picks for 28 January
+  Market expert Raja Venkatraman shares his top stocks to buy today, 28 January.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-picks-28-january-nifty-sensex-grasim-industries-eicher-motors-blue-star-11769514139579.html
 
-- PC Jeweller Q3 Results: Net profit jumps 28% YoY to  ₹187 crore, revenue up 37%
-  PC Jeweller reported a 28% rise in Q3 FY2025-26 net profit. The company aims to become debt-free and plans to expand its franchise network.
-  🔗 https://www.livemint.com/market/stock-market-news/pc-jeweller-q3-results-net-profit-jumps-28-yoy-to-rs-187-crore-revenue-up-37-11769534040556.html
+- Stock recommendations for 28 January from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 28 January. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-28-january-marketsmith-india-11769523872292.html
 
-- Upcoming IPO: PhonePe gives up  ₹1,500 crore revenue to future-proof its fintech story before going public
-  PhonePe is set for a 100% IPO offer, leveraging its cash reserves. Despite regulatory challenges, it is transitioning to a diversified fintech platform.
-  🔗 https://www.livemint.com/market/stock-market-news/upcoming-ipo-phonepe-gives-up-rs-1-500-crore-revenue-to-future-proof-its-fintech-story-before-going-public-11769532594987.html
+- UK Pledges AI Training for All to Grasp $193 Billion Opportunity
+  Technology Secretary Liz Kendall promises to offer training in artificial intelligence for all UK workers. Government says technology has potential to boost economic output by $193 billion a year.
+  🔗 https://www.livemint.com/technology/uk-pledges-ai-training-for-all-to-grasp-193-billion-opportunity-11769554270972.html
 
-- Big deal, small impact: Why markets gave a cold shoulder to India-EU trade deal
-  The mother of all trade deals between India and the EU left the stock markets cold. According to market experts,
-  🔗 https://www.livemint.com/market/stock-market-news/big-deal-small-impact-why-markets-gave-a-cold-shoulder-to-india-eu-trade-deal-11769520755543.html
-
-- Stock market today: Trade guide for Nifty 50, gold, silver rates, USD vs INR to India-EU FTA; 8 stocks to buy or sell
-   Axis Bank, APL Apollo, ICICI Bank, NTPC, BDL, Waaree Energies,
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-guide-for-nifty-50-gold-silver-rates-usd-vs-inr-to-india-eu-fta-8-stocks-to-buy-or-sell-11769528160517.html
+- TikTok faces app deletions, censorship claims and glitches in days after its ownership change
+  TikTok faces app deletions, censorship
+  🔗 https://www.livemint.com/technology/tiktok-faces-app-deletions-censorship-claims-and-glitches-in-days-after-its-ownership-change-11769549744429.html
 
 - Elon Musk says 'WhatsApp is not secure' amid Meta privacy lawsuit; Sridhar Vembu cites 'conflict of interest'
   A lawsuit against Meta alleges false privacy claims regarding WhatsApp. The lawsuit asserts that user conversations can be accessed. Meta has dismissed the allegations.
@@ -92,33 +100,25 @@
   EU steps in to make sure Google gives rivals access
   🔗 https://www.livemint.com/technology/eu-steps-in-to-make-sure-google-gives-rivals-access-to-ai-services-and-data-11769515511796.html
 
-- I compared MacBook prices on Amazon and Flipkart so you don’t overpay
-  Before buying a MacBook, I compared prices across Amazon and Flipkart to spot real differences, discounts and better value options
-  🔗 https://www.livemint.com/technology/gadgets/i-compared-macbook-prices-on-amazon-and-flipkart-so-you-don-t-overpay-11769502505933.html
+- Asian stocks mixed; dollar weakens before Fed rate decision
+  Asian currencies strengthened as the dollar weakened to a four-year low. The dollar's decline accelerated after President Trump expressed indifference to its fall, fueling speculation about coordinated intervention.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-mixed-dollar-weakens-before-fed-rate-decision/articleshow/127665577.cms
 
-- Not for Sabalenka, Sinner and Alcaraz now, but wearables could be OK at future Australian Opens
-  Wearable technology could be used at future Australian Opens
-  🔗 https://www.livemint.com/technology/not-for-sabalenka-sinner-and-alcaraz-now-but-wearables-could-be-ok-at-future-australian-opens-11769487930652.html
+- Volatile markets split IPO strategies as firms rework listing timelines
+   IPO-bound firms are adopting divergent listing strategies amid a volatile stock market. Companies needing fresh capital for expansion are proceeding, while those with offers for sale are reassessing plans.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/volatile-markets-split-ipo-strategies-as-firms-rework-listing-timelines/articleshow/127664746.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Sensex rose 320 points and Nifty gained 0.5%, buoyed by optimism. India and the EU sealed a landmark free trade deal.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/127637199.cms
+- Pre-market action: Here's the trade setup for today's session
+  Nifty experienced 300-point swing during the monthly expiry session. Analysts suggest a 'sell-on-rise' strategy until Nifty decisively breaks above 25,500.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/127638401.cms
 
-- US consumer confidence drops to lowest level since 2014
-  All five components of the index worsened, driving the overall level to its lowest since May 2014. Consumer confidence "surpassed its Covid-19 pandemic depths," the survey says.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-consumer-confidence-drops-to-lowest-level-since-2014/articleshow/127636786.cms
+- Stocks in news: Vodafone Idea, Hindustan Zinc, Vedanta, Marico, Vishal Mega Mart, Maruti and L&amp;T
+  Nifty gained on financial, IT, and metal stocks while Sensex saw pressure from auto and FMCG. Several companies like Vodafone Idea, Vedanta, Marico, and Maruti Suzuki are in
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vodafone-idea-hindustan-zinc-vedanta-marico-vishal-mega-mart-maruti-and-lt/articleshow/127638166.cms
 
-- UnitedHealth forecasts first revenue drop in 4 decades; shares plunge
-  UnitedHealth Group said revenue this year would decline for the first time in decades. The company's shares tumbled 19% as investors reset profit expectations.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/unitedhealth-forecasts-first-revenue-drop-in-4-decades-shares-plunge/articleshow/127636596.cms
-
-- RTX posts higher quarterly sales on strong engine demand, aircraft repairs, shares edge up
-  RTX posts higher fourth-quarter revenue and profit. Shares of the company rose 1.7% in early trading in New York.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/rtx-posts-higher-quarterly-sales-on-strong-engine-demand-aircraft-repairs-shares-edge-up/articleshow/127636208.cms
-
-- US health insurer stocks slump as 2027 Medicare Advantage payments proposal disappoints
-  The Trump administration proposed a smaller-than-expected increase to next year's Medicare
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-health-insurer-stocks-slump-as-2027-medicare-advantage-payments-proposal-disappoints/articleshow/127635771.cms
+- Auto companies fall on fear of more EU imports
+  Indian auto stocks experienced a decline following reports of potential tariff reductions on EU-imported vehicles. Analysts believe the near-term impact will be limited, with the luxury segment being the primary area affected.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/auto-companies-fall-on-fear-of-more-eu-imports/articleshow/127663821.cms
 
 - "We Delivered The Mother Of All Deals": India-EU Trade Pact Finally Sealed - NDTV
   "We Delivered The Mother Of All Deals":
@@ -128,17 +128,17 @@
   'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over
   🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQamRxbGh0aUxhU285a2tEZ3Fob05OMUN3UkU4aDIxczMxcUJGZVpSM25QYnFaaHRwVXBVWEZseGZiT2M2anNYUmVpNzZLS2o2bUxxTndxMW1FUUNfbS1XcVJIWnJjVF9OdjZkNXkzZDhxWHlIS3c3Q3BDOFA0Wl9VZWxrRllsV1Y0d3NFdk0zZHphU2dyWHlyNlVXLXdoT2d5S2ZQUW9EZ3AtRk44YVNIelpqTGczRkFTY0RzMk9UZGo5amp6ZXBtWUZheEphS0c3OHloQ0wwNmxiQ084czlCSEpZQXdoSXZuVk82a2pGOXhzUzNSNHMtSFl30gH_AUFVX3lxTFB3SV9rOWJWTWhYajVFOVRlUTF3cUVoYzBDSDhLZndFTWJSbFRYZ1YxWjh2ZUFLZ25BaWNlRW1yT1JaOGVGdWVBMmp5eFBhWEVaZVFybVk0WlhZRWhUSWt4TkFoZTNrVk1JQ211NG5XbkFhR3N3VERkQktIZ1BBWHRFa2dDRGZld0JWNG5iV0k4TFBCbFNSVkRWYVp2VVh3bldybi1zUHN4QTlIYjhhcW9tQnJhM3lFXzlvcG9xUDdURHNHRW9QTzh6X0xJLXVuODZFMmJZZWRtckxOdmV4NURSN2RJUFM5bzF2MV8xdEZET0FCeXE4LTIyamh5V3FRSQ?oc=5
 
-- UAE-India energy partnership to double: UAE industry minister - Times of India
-  UAE-India energy partnership to double
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjFqY0dZS2liTWdtemVPajNXMVBoNFZESXRUS3NWTEM1NkVEaW1OTWxUSEg4aU41WWlseldrWFhJX0ZzcllsZ2ZWQVRYYjdLSlFXNURFZDVzN0ZlRS1WM09ndWRodTc2dGE2QlgyUXRNeW5pQlJKZ1pPdmxaZ0cwODBVaUNaVTd6WThZb3I0NVJvWEl4SXZGOGVPVEtpZnlCYTBnS3pQSHF3Z0NrWEhOYkNIbURrVmlHT2pBSG5uQVJwdGJQd0ptYm8wQdIB0AFBVV95cUxPNFVUUVlsa3htaGF5QUh2Q0RJalFKTjlISXJZazlfeVRYVVA1MUpLUTNPRzlTTGJQUjZNRmxHQ0F0Sm1wU2JudktWRVh0Rk84c3llY1gwYTF3NTVDQXZUQ2FvckxEU012UGlrSHJNblJqU2RjY09OQ0hVTC1admJ5MTMxbUNvRUNxdlZjeHlPeEhoT0RLVGNZT3ZCbXlzY1dQRkc0WWNQS2I2VDhOeU85OHk2YThFR2RwTUZyQ29VUnRFWFZmbkJPYlJfYXVPdHEz?oc=5
+- 'Hope to implement FTA within this calendar year': Piyush Goyal on India-EU trade pact - The Times of India
+  'Hope to implement FTA within this calendar year': Piyush Goyal
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxPLTc4MDdjOFFhZ1I1NzZBM1E1OTdpREZ2SmlUdzdmSGVYeWY1djR6LXBoYWtrMXNKSHRLaFdqQXIyaEVlcUtfZmQzdzB3WHhQQW9FeDB3YmhwWjh0dkg0dG5jYjBodlBjQXp1Y3RMREFjZmVHZTd6cEZhWDM1bWFDYmFVVXJubmpJYm9INDZmODY4OFZyOU5uejlrT0k2RG5KVEZIUnNaZDYzYmcyQllFSHRjZEdnNndlVXZWTF9fZzBkNm45a212Q1FXSm5ETmt1emRSRFVVUWRTLUd0SEZlNGF3T1ktajU1TGVPcmtrQlhwRjQtOWw3Q2dxTlI4WFBJckd1bFFRLUd3THVUUExYN1NWYVJFcWZKeUNWNNIBogJBVV95cUxONkF6eXRRZGwxcm1pWFBZb25HcngtRGx2c1ZUMXpxcFEwTEFSUlVKdzJlcWlrbnBIQlE0c1VoamU3YkM5SnJULXN0T3dSNnl2d3Y3aXNBLTF0eDlaZGR0Wkx3bW8yRUl3aEZvbDJwMEZjcFJpTkVwbjZlTHBRdl9DbkZIaHVPdFk5b2NHYXRTbmxERnJ4RUczbFZnWXlfUThBQUhBYjQtU3p6c1ZKb1FCcEg4Y1RlcmFKcVM0RGVfRHBBVHMxT2NwM2EzdUg3bUF1ZTZQQmxSZUVxQTdaX1FSSEVOY3YxeXR5ZWdGMzhZUFdRVW1kQnppVDlEVWozUlZyT2ozdkNpMlFKREZTYUM0SU4xRVk5QUNDcGRxbkp4RFFGQQ?oc=5
 
-- CPI(M) slams India-EU FTA as ‘surrender of economic interests’ - The Hindu
-  CPI(M) slams India-
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0NJWGpjOHdlVTUwZ0lwbmdlYkktbzZkZ2RQNkpuY2lJLXU4TlRYQm5zLWpvWGJ0SGFVSUlJdXVUQ045TzdUQU83VjVHOXZpNGhEODMzMVF4YmlkX2VhdWNIX3MzajRMcWpPWlUxZzZoM1BvXzh3Ym14SmNlWElnY2tCblEwb0RDRnBHcFpQb2ttZ3BPQllzQURCTm0yQmd6bWpUOExkNk53Z0ViS29GaVIwVW1zZVhm0gG_AUFVX3lxTE12YmRlaS1hRkJyelF0QmFVcHlQV1VXUFJPVEd2MUFtY0RUc0ZYRm85WFBnRktWWS1tTzJvNk9kQmtEWU5ZZnkxUkJMdGxhaG1EanNrSm84bkFRUjR1RlFCZFB4c0NNVDVjaG5ySUJtOEhIRTc5S2ZJRV8wWFdFZlBac2s1S2toUFF5TGdpQzg3aXhPZGRhSDZWRlI3ZmZOWkllYzk0QlhuamM2MVZvVXhDd3cyRzQ2VlJXY3I0cnRz?oc=5
+- Top news of the day: Military prowess and cultural flair mark India’s 77th Republic Day; Swiss Defence think tank says IAF achieved air superiority over Pakistan in Operation Sindoor, and more - The Hindu
+  The Hindu reports on the celebrations of India's 77th Republic Day. The Indian Air Force says it achieved air superiority over Pakistan.
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3FhNXpPalFBdVBvUEZFSzQ2a3B0YTVaMEk4YVJEdVZYU1phMG1OSld4Q29obF96Zzg4QlhlU3VRU3o5Q3BQeF9pekZfY0lIb3Fnb21ZS2hwNHY4VjFncEREU0twQTJjNTBLMzdqRWpWU1NWcGc5S3VBa3B0WWc3X3Vlcklua3hjRHl1OTMxNUpxd9IBmAFBVV95cUxNTTQ0QlRHUlU5NEREM09UdnZ3Y0Q4d21WblN1MU1MYTY4ajE1Z3RGWEZYRmFtM3NJR3ljRmNVd3JjU2VyMDRGQ0RpbGE0Wi1mMDZNLVpkVjEzeGUzeTNMeWhIWUNMRlhhTmRSem5YZXgxS3h6NVNxQndTOHlsbnp4MGNUaVRjUEU0TkNzTFBjRVdSSlg1WFBlcA?oc=5
 
-- This prominent Indian airline has launched direct flights between India and Greece and travellers can't k - Times of India
-  This prominent Indian airline has launched direct flights between India and Greece and travellers can't
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxNOTdFaktNZllCdXJwVVY0YzZQOVA3M1llOGhuLTRWdmJaQ2JCQU1VbzdrOUhRSGVSSml5aDZjeUxiblg1QkkwRUFKSE9pNnNQNHdVZjNPbDRPUDF2a3Axaml1cDdnM2VKLWVGb3VOOXI5NGVDd1VQNFZGMVh4aDltakRrQ1hPcXRyR1VxeUFSR1F0blBsU3R3T0tIWmtVUE5pZWdOVWJoZ1ZmeWIwMXFINFhaWHFJc0N4alh1MEZ4WXhuS2lsa1BWU0pIVzJLaXA1ZW1hRUxUMTNhVVVCaERWRF83dUMwZ05uWkI3QWVGVEVIWmkzMUZlelhGNHZrcWtSaEhYRzZSeU9iazkySjg4bXNsenlDUllwU1JEZzlZQTBydDDSAagCQVVfeXFMTUJpT0JKSEo2bzkwZkpQa1JDUzBxWHU2eU9RVUVld0tMVmdYdlBrajVHSHNGcDU0UGFYYnk4UlhZWUplSTM2SW9XUy01OVRDUEVTSjRCOXN3Wm1XYTZtdmk1OE9NUHNmbFlVR1NoU2lMVDJncE1Cd0gxeXpFbG8zUkUtNmxkOUFvdnlPMzVjeW5rM0lOT29vLXJhSU9NbFhlSjl1YnhaSXhaSXN3VE9vZ0lKOFNvSS1tUWZlU29RX1FkU3V2UW1RaTVocU9QSGVaMGNwWDBsVm0tQ2h1eDlMLTJobWJkdUg0X3U5RDhMNUpRLU9FVGU3alIzNGdoSy1pSXl0WjhGaEV3TDBLYmNFWEh4eDM0M0xvQ0RVc3JSenZmSFhuSWVRdW0?oc=5
+- India helped Bangladesh weave a success story. It'll now fight it out in Europe - India Today
+  India helped Bangladesh weave a success story. It'll now fight it
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa05fT2JYZVVPbC1xcHpwcXJmZEd3eXhkUGJwYzVud3Z2TjBjdXJ3VlJoQlg3RUNmdjQyWDNFVHNNekJTWmRka05LT1lYNWhodUFGRmNXVXNDcU5Pbkszc3dXemYtZjNaWmZubTMySldJOTdCdUhWNWV5enUyMkFiYzZQdTNEdnV5TVZFNkN4a3pXSlI4aHhNWC1iYlRsMVlRbG9hWEIwTHVFQTB6TXJodnBUZFR4MVd1NTV3Wk1JazBxdHNZLUZ2THhCUXRpbG1DUjE5QktOa3FlWk41Yk50YzFpc1dFdkhJVDVFUNIB8gFBVV95cUxQWktnOGZzYkxHQkY4M1d1b1h5azhNWEJvQ1RUTHhES25EMVo3bVd4UHUzeFNscGZlOUxmMmJjaUZNSFBibTMtNk81aDhQYy1Ea2ZjYVBYWDgxNUozU19xYXpTNlAyb1dqYWdCbjNKaVo5d3djdjhib3FSTHhSSFl2bnE0RHdVeVNlOV9HZldSeGVnbzVVRVp4Mzl2a01XX3M5SEhZdXhWeFl3TFFLZTVldGRTSWdhcWFSNDNCSVI4dmw2Q3ktVWhQV0Y5NkFnQ0d0WjgxOWwyOWhXQ2JfLWQ0TE5TZ1dhSXVzNU1abmUtMG5EQQ?oc=5
 
 - "We Delivered The Mother Of All Deals": India-EU Trade Pact Finally Sealed - NDTV
   "We Delivered The Mother Of All Deals":
@@ -148,17 +148,17 @@
   'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over
   🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQamRxbGh0aUxhU285a2tEZ3Fob05OMUN3UkU4aDIxczMxcUJGZVpSM25QYnFaaHRwVXBVWEZseGZiT2M2anNYUmVpNzZLS2o2bUxxTndxMW1FUUNfbS1XcVJIWnJjVF9OdjZkNXkzZDhxWHlIS3c3Q3BDOFA0Wl9VZWxrRllsV1Y0d3NFdk0zZHphU2dyWHlyNlVXLXdoT2d5S2ZQUW9EZ3AtRk44YVNIelpqTGczRkFTY0RzMk9UZGo5amp6ZXBtWUZheEphS0c3OHloQ0wwNmxiQ084czlCSEpZQXdoSXZuVk82a2pGOXhzUzNSNHMtSFl30gH_AUFVX3lxTFB3SV9rOWJWTWhYajVFOVRlUTF3cUVoYzBDSDhLZndFTWJSbFRYZ1YxWjh2ZUFLZ25BaWNlRW1yT1JaOGVGdWVBMmp5eFBhWEVaZVFybVk0WlhZRWhUSWt4TkFoZTNrVk1JQ211NG5XbkFhR3N3VERkQktIZ1BBWHRFa2dDRGZld0JWNG5iV0k4TFBCbFNSVkRWYVp2VVh3bldybi1zUHN4QTlIYjhhcW9tQnJhM3lFXzlvcG9xUDdURHNHRW9QTzh6X0xJLXVuODZFMmJZZWRtckxOdmV4NURSN2RJUFM5bzF2MV8xdEZET0FCeXE4LTIyamh5V3FRSQ?oc=5
 
-- UAE-India energy partnership to double: UAE industry minister - Times of India
-  UAE-India energy partnership to double
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjFqY0dZS2liTWdtemVPajNXMVBoNFZESXRUS3NWTEM1NkVEaW1OTWxUSEg4aU41WWlseldrWFhJX0ZzcllsZ2ZWQVRYYjdLSlFXNURFZDVzN0ZlRS1WM09ndWRodTc2dGE2QlgyUXRNeW5pQlJKZ1pPdmxaZ0cwODBVaUNaVTd6WThZb3I0NVJvWEl4SXZGOGVPVEtpZnlCYTBnS3pQSHF3Z0NrWEhOYkNIbURrVmlHT2pBSG5uQVJwdGJQd0ptYm8wQdIB0AFBVV95cUxPNFVUUVlsa3htaGF5QUh2Q0RJalFKTjlISXJZazlfeVRYVVA1MUpLUTNPRzlTTGJQUjZNRmxHQ0F0Sm1wU2JudktWRVh0Rk84c3llY1gwYTF3NTVDQXZUQ2FvckxEU012UGlrSHJNblJqU2RjY09OQ0hVTC1admJ5MTMxbUNvRUNxdlZjeHlPeEhoT0RLVGNZT3ZCbXlzY1dQRkc0WWNQS2I2VDhOeU85OHk2YThFR2RwTUZyQ29VUnRFWFZmbkJPYlJfYXVPdHEz?oc=5
+- 'Hope to implement FTA within this calendar year': Piyush Goyal on India-EU trade pact - The Times of India
+  'Hope to implement FTA within this calendar year': Piyush Goyal
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxPLTc4MDdjOFFhZ1I1NzZBM1E1OTdpREZ2SmlUdzdmSGVYeWY1djR6LXBoYWtrMXNKSHRLaFdqQXIyaEVlcUtfZmQzdzB3WHhQQW9FeDB3YmhwWjh0dkg0dG5jYjBodlBjQXp1Y3RMREFjZmVHZTd6cEZhWDM1bWFDYmFVVXJubmpJYm9INDZmODY4OFZyOU5uejlrT0k2RG5KVEZIUnNaZDYzYmcyQllFSHRjZEdnNndlVXZWTF9fZzBkNm45a212Q1FXSm5ETmt1emRSRFVVUWRTLUd0SEZlNGF3T1ktajU1TGVPcmtrQlhwRjQtOWw3Q2dxTlI4WFBJckd1bFFRLUd3THVUUExYN1NWYVJFcWZKeUNWNNIBogJBVV95cUxONkF6eXRRZGwxcm1pWFBZb25HcngtRGx2c1ZUMXpxcFEwTEFSUlVKdzJlcWlrbnBIQlE0c1VoamU3YkM5SnJULXN0T3dSNnl2d3Y3aXNBLTF0eDlaZGR0Wkx3bW8yRUl3aEZvbDJwMEZjcFJpTkVwbjZlTHBRdl9DbkZIaHVPdFk5b2NHYXRTbmxERnJ4RUczbFZnWXlfUThBQUhBYjQtU3p6c1ZKb1FCcEg4Y1RlcmFKcVM0RGVfRHBBVHMxT2NwM2EzdUg3bUF1ZTZQQmxSZUVxQTdaX1FSSEVOY3YxeXR5ZWdGMzhZUFdRVW1kQnppVDlEVWozUlZyT2ozdkNpMlFKREZTYUM0SU4xRVk5QUNDcGRxbkp4RFFGQQ?oc=5
 
-- CPI(M) slams India-EU FTA as ‘surrender of economic interests’ - The Hindu
-  CPI(M) slams India-
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0NJWGpjOHdlVTUwZ0lwbmdlYkktbzZkZ2RQNkpuY2lJLXU4TlRYQm5zLWpvWGJ0SGFVSUlJdXVUQ045TzdUQU83VjVHOXZpNGhEODMzMVF4YmlkX2VhdWNIX3MzajRMcWpPWlUxZzZoM1BvXzh3Ym14SmNlWElnY2tCblEwb0RDRnBHcFpQb2ttZ3BPQllzQURCTm0yQmd6bWpUOExkNk53Z0ViS29GaVIwVW1zZVhm0gG_AUFVX3lxTE12YmRlaS1hRkJyelF0QmFVcHlQV1VXUFJPVEd2MUFtY0RUc0ZYRm85WFBnRktWWS1tTzJvNk9kQmtEWU5ZZnkxUkJMdGxhaG1EanNrSm84bkFRUjR1RlFCZFB4c0NNVDVjaG5ySUJtOEhIRTc5S2ZJRV8wWFdFZlBac2s1S2toUFF5TGdpQzg3aXhPZGRhSDZWRlI3ZmZOWkllYzk0QlhuamM2MVZvVXhDd3cyRzQ2VlJXY3I0cnRz?oc=5
+- Top news of the day: Military prowess and cultural flair mark India’s 77th Republic Day; Swiss Defence think tank says IAF achieved air superiority over Pakistan in Operation Sindoor, and more - The Hindu
+  The Hindu reports on the celebrations of India's 77th Republic Day. The Indian Air Force says it achieved air superiority over Pakistan.
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3FhNXpPalFBdVBvUEZFSzQ2a3B0YTVaMEk4YVJEdVZYU1phMG1OSld4Q29obF96Zzg4QlhlU3VRU3o5Q3BQeF9pekZfY0lIb3Fnb21ZS2hwNHY4VjFncEREU0twQTJjNTBLMzdqRWpWU1NWcGc5S3VBa3B0WWc3X3Vlcklua3hjRHl1OTMxNUpxd9IBmAFBVV95cUxNTTQ0QlRHUlU5NEREM09UdnZ3Y0Q4d21WblN1MU1MYTY4ajE1Z3RGWEZYRmFtM3NJR3ljRmNVd3JjU2VyMDRGQ0RpbGE0Wi1mMDZNLVpkVjEzeGUzeTNMeWhIWUNMRlhhTmRSem5YZXgxS3h6NVNxQndTOHlsbnp4MGNUaVRjUEU0TkNzTFBjRVdSSlg1WFBlcA?oc=5
 
-- This prominent Indian airline has launched direct flights between India and Greece and travellers can't k - Times of India
-  This prominent Indian airline has launched direct flights between India and Greece and travellers can't
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxNOTdFaktNZllCdXJwVVY0YzZQOVA3M1llOGhuLTRWdmJaQ2JCQU1VbzdrOUhRSGVSSml5aDZjeUxiblg1QkkwRUFKSE9pNnNQNHdVZjNPbDRPUDF2a3Axaml1cDdnM2VKLWVGb3VOOXI5NGVDd1VQNFZGMVh4aDltakRrQ1hPcXRyR1VxeUFSR1F0blBsU3R3T0tIWmtVUE5pZWdOVWJoZ1ZmeWIwMXFINFhaWHFJc0N4alh1MEZ4WXhuS2lsa1BWU0pIVzJLaXA1ZW1hRUxUMTNhVVVCaERWRF83dUMwZ05uWkI3QWVGVEVIWmkzMUZlelhGNHZrcWtSaEhYRzZSeU9iazkySjg4bXNsenlDUllwU1JEZzlZQTBydDDSAagCQVVfeXFMTUJpT0JKSEo2bzkwZkpQa1JDUzBxWHU2eU9RVUVld0tMVmdYdlBrajVHSHNGcDU0UGFYYnk4UlhZWUplSTM2SW9XUy01OVRDUEVTSjRCOXN3Wm1XYTZtdmk1OE9NUHNmbFlVR1NoU2lMVDJncE1Cd0gxeXpFbG8zUkUtNmxkOUFvdnlPMzVjeW5rM0lOT29vLXJhSU9NbFhlSjl1YnhaSXhaSXN3VE9vZ0lKOFNvSS1tUWZlU29RX1FkU3V2UW1RaTVocU9QSGVaMGNwWDBsVm0tQ2h1eDlMLTJobWJkdUg0X3U5RDhMNUpRLU9FVGU3alIzNGdoSy1pSXl0WjhGaEV3TDBLYmNFWEh4eDM0M0xvQ0RVc3JSenZmSFhuSWVRdW0?oc=5
+- India helped Bangladesh weave a success story. It'll now fight it out in Europe - India Today
+  India helped Bangladesh weave a success story. It'll now fight it
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa05fT2JYZVVPbC1xcHpwcXJmZEd3eXhkUGJwYzVud3Z2TjBjdXJ3VlJoQlg3RUNmdjQyWDNFVHNNekJTWmRka05LT1lYNWhodUFGRmNXVXNDcU5Pbkszc3dXemYtZjNaWmZubTMySldJOTdCdUhWNWV5enUyMkFiYzZQdTNEdnV5TVZFNkN4a3pXSlI4aHhNWC1iYlRsMVlRbG9hWEIwTHVFQTB6TXJodnBUZFR4MVd1NTV3Wk1JazBxdHNZLUZ2THhCUXRpbG1DUjE5QktOa3FlWk41Yk50YzFpc1dFdkhJVDVFUNIB8gFBVV95cUxQWktnOGZzYkxHQkY4M1d1b1h5azhNWEJvQ1RUTHhES25EMVo3bVd4UHUzeFNscGZlOUxmMmJjaUZNSFBibTMtNk81aDhQYy1Ea2ZjYVBYWDgxNUozU19xYXpTNlAyb1dqYWdCbjNKaVo5d3djdjhib3FSTHhSSFl2bnE0RHdVeVNlOV9HZldSeGVnbzVVRVp4Mzl2a01XX3M5SEhZdXhWeFl3TFFLZTVldGRTSWdhcWFSNDNCSVI4dmw2Q3ktVWhQV0Y5NkFnQ0d0WjgxOWwyOWhXQ2JfLWQ0TE5TZ1dhSXVzNU1abmUtMG5EQQ?oc=5
 
 
-_Last updated: 2026-01-27 18:37:17 UTC_
+_Last updated: 2026-01-28 01:22:51 UTC_
