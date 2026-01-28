@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- 40-hour race through 6 feet of snow: BRO rescues 60 stranded at 10,500 ft in J&K
+- ‘A leader of the people’: PM Modi, Amit Shah, others condole Maharashtra Deputy CM Ajit Pawar’s death in Baramati plane crash
   
-  🔗 https://indianexpress.com/article/india/40-hour-race-through-6-feet-of-snow-bro-rescues-60-stranded-at-10500-ft-in-jk-10498133/
+  🔗 https://indianexpress.com/article/india/leader-people-pm-modi-amit-shah-others-condole-maharashtra-deputy-cm-ajit-pawar-death-baramati-plane-crash-10498663/
 
-- India-EU mobility pact eases options for Indian students, workers
+- ‘Shocking’, ‘irreparable loss’: Leaders across party lines condole Ajit Pawar’s death in Baramati plane crash
   
-  🔗 https://indianexpress.com/article/india/india-eu-mobility-pact-eases-options-for-indian-students-workers-10498269/
+  🔗 https://indianexpress.com/article/india/ajit-pawar-dead-plane-crash-modi-ncp-bjp-shiv-sena-congress-leaders-shocking-10498575/
 
-- No SIR, G RAM G debate in Budget Session: Govt to Opposition
+- PM Modi describes Ajit Pawar as ‘leader of the people’, expresses grief over lives lost in fatal plane crash
   
-  🔗 https://indianexpress.com/article/india/budget-2026-no-sir-g-ram-g-debate-in-budget-session-govt-to-opposition-10498276/
+  🔗 https://indianexpress.com/article/india/pm-modi-describes-pawar-as-leader-of-the-people-expresses-grief-over-lives-lost-in-fatal-plane-crash-10498605/
 
-- Subtle shift: India, EU on same page on Ukraine and Gaza Board
+- Gold Today Rate, January 28: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/subtle-shift-india-eu-on-same-page-on-ukraine-and-gaza-board-10498237/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-january-28-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10498540/
 
-- India, EU sign security, defence pacts, condemn terror in all forms
+- Parliament Budget Session 2026 Live Updates: President Droupadi Murmu addresses both houses; VB–G RAM G Bill mention sparks Oppn protest
   
-  🔗 https://indianexpress.com/article/india/india-eu-sign-security-defence-pacts-condemn-terror-in-all-forms-10498305/
+  🔗 https://indianexpress.com/article/india/union-budget-2026-27-parliament-session-live-updates-president-murmu-parliament-address-economic-survey-10498426/
+
+- SoftBank in talks to invest up to $30 billion more in OpenAI, source says
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/softbank-in-talks-to-invest-up-to-30-billion-more-in-openai-source-says-10498581/
+
+- Amazon bungles Wednesday layoff plan with misfired internal email
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-bungles-wednesday-layoff-plan-with-misfired-internal-email-10498450/
+
+- Apple, Google app stores still host dozens of AI ‘nudify’ apps, report claims
+  
+  🔗 https://indianexpress.com/article/technology/apple-google-app-stores-still-host-dozens-of-ai-nudify-apps-report-claims-10498397/
 
 - WhatsApp rolls out high-security feature ‘Strict Account Settings,’ offers stronger protection
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-rolls-out-high-security-feature-strict-account-settings-10498049/
 
-- A new way to flirt: Dazzle potential mates with patterns invisible to uumans
+- A new way to flirt: Dazzle potential mates with patterns invisible to humans
   
   🔗 https://indianexpress.com/article/technology/science/a-new-way-to-flirt-dazzle-potential-mates-with-patterns-invisible-to-humans-10497892/
 
-- What Apple may change with the iPhone 18 Pro and iPhone 18 Pro Max
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/what-apple-may-change-with-the-iphone-18-pro-and-iphone-18-pro-max-10497469/
+- 'My partner is half-Indian': Elon Musk invokes Indian physicist while responding to Vinod Khosla’s racism allegation
+  Elon Musk and Vinod Khosla are once again in a heated debate on social media. Sun Microsystems founder accused the Tesla CEO of racism. Musk countered with personal attacks while highlighting his
+  🔗 https://www.livemint.com/companies/news/my-partner-is-half-indian-elon-musk-invokes-indian-physicist-while-responding-to-vinod-khosla-s-racism-allegation-11769566135718.html
 
-- Vivo X200T debuts with Dimensity 9400+ processor, 6,200mAh battery and Zeiss cameras
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/vivo-x200t-debuts-with-dimensity-9400-processor-6200mah-battery-and-zeiss-cameras-10497447/
+- Four years under Tata, Air India still in recovery mode. How does it stack up against IndiGo?
+  Air India has made progress towards a turnaround in the Tata Group fold. But it’s far
+  🔗 https://www.livemint.com/companies/news/air-india-vs-indigo-air-india-express-tata-group-aviation-industry-india-11769512763547.html
 
-- Nasa turns to the Moon to solve a mystery about water on Earth
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nasa-turns-to-the-moon-to-solve-a-mystery-about-water-on-earth-10497338/
+- China's BYD considers local assembly in India as dealers sit on hundreds of orders
+   BYD Co. is considering local assembly in India to meet rising demand for its electric vehicles. This follows previous rejections for a full assembly plant, reflecting a strategic shift.
+  🔗 https://www.livemint.com/companies/news/byd-could-expand-india-operations-as-demand-begins-to-outstrip-supply-11769569908465.html
 
-- Looming pregnant-worker rule changes poised to curb accommodations
-  Looming pregnant-worker
-  🔗 https://www.livemint.com/companies/looming-pregnant-worker-rule-changes-poised-to-curb-accommodations-11769540669558.html
+- SoftBank in discussions to invest $30 billion more in OpenAI, says report - what we know
+  The move by SoftBank reflects CEO Masayoshi Son's ambitions to play a key role in developing artificial intelligence.
+  🔗 https://www.livemint.com/companies/news/softbank-in-discussions-to-invest-30-billion-more-in-openai-says-report-what-we-know-11769567085722.html
 
-- UPS looks to cut up to 30,000 jobs this year
-  UPS looks to cut
-  🔗 https://www.livemint.com/companies/ups-looks-to-cut-up-to-30-000-jobs-this-year-11769540546280.html
+- Amazon layoffs: Tech giant mistakenly confirms sacking of cloud unit employees in email
+  Employees in Amazon's cloud division, AWS, received a notice
+  🔗 https://www.livemint.com/companies/news/amazon-layoffs-tech-giant-mistakenly-confirms-sacking-of-cloud-unit-employees-in-email-11769566248625.html
 
-- Disney Actress-Turned-CEO Raises $100 Million for Space Firm
-  Northwood, a maker of critical ground infrastructure for space satellites, raised $100 million in a new funding round
-  🔗 https://www.livemint.com/companies/disney-actress-turned-ceo-raises-100-million-for-space-firm-11769539234941.html
+- MCX share price rallies over 7.5% to fresh record high as post-earnings rally extends to second day
+  Shares of Multi Commodity Exchange rose 7.7% to  ₹2,605 after strong December quarter results. Revenues up 115% YoY to
+  🔗 https://www.livemint.com/market/stock-market-news/mcx-share-price-rallies-over-7-5-to-fresh-record-high-as-post-earnings-rally-extends-to-second-day-11769579277011.html
 
-- Air India unveils first Boeing 787-9 ahead of February debut: Full recline flatbed, amenity kits - Check features, pics
-  Air India's new Boeing 787-9 Dreamliner aircraft will operate on select long-haul routes. The aircraft introduces upgraded seating, next-
-  🔗 https://www.livemint.com/companies/news/air-india-unveils-first-boeing-787-9-ahead-of-february-debut-full-recline-flatbed-amenity-kits-check-features-pics-11769532813677.html
+- Missed up to 200% gold, silver price rally? Worry not. This metal could emerge as a good bet this year
+  For investors who missed the precious metals rally, copper is increasingly viewed as a strategic opportunity.
+  🔗 https://www.livemint.com/market/stock-market-news/missed-up-to-200-gold-silver-price-rally-worry-not-this-metal-could-emerge-as-a-good-bet-this-year-11769579943438.html
 
-- Zoho's Sridhar Vembu calls Big Tech ‘East India Company’ as France replaces Zoom, Teams with domestic alternative
-  Sridhar Vembu likens Big Tech to the East India Company, emphasizing the need for technology
-  🔗 https://www.livemint.com/companies/people/zohos-sridhar-vembu-calls-big-tech-east-india-company-as-france-replaces-zoom-teams-with-domestic-alternative-11769514209880.html
+- Why is Indian stock market not witnessing a sharp rally despite India-EU free trade agreement? Explained
+  Despite the promising India-EU free trade agreement, the Indian stock market is not experiencing a strong rally. Experts cite mixed earnings,
+  🔗 https://www.livemint.com/market/stock-market-news/why-is-indian-stock-market-sensex-nifty-not-witnessing-a-sharp-rally-despite-india-eu-free-trade-agreement-explained-11769575753606.html
 
-- What is driving gold’s relentless rally?
-  The ancient
-  🔗 https://www.livemint.com/market/what-is-driving-gold-s-relentless-rally-11769561676347.html
+- Digilogic Systems share price hits 5% lower circuit after listing at discount
+  Digilogic Systems shares debuted weakly on BSE SME, opening at  ₹83.20. IPO subscription was 1.10 times, with shares priced
+  🔗 https://www.livemint.com/market/ipo/digilogic-systems-share-price-hits-5-lower-circuit-after-listing-at-discount-11769577636678.html
 
-- Shadowfax Technologies IPO listing date today. GMP, experts signal debut at a discount on Dalal Street
-  Shadowfax Technologies IPO listing date is today, January 28. Equity shares will be listed on BSE and NSE.
-  🔗 https://www.livemint.com/market/ipo/shadowfax-technologies-ipo-listing-date-today-gmp-experts-signal-debut-at-a-discount-on-dalal-street-11769534403568.html
+- 11,000% return in five years! Multibagger SME stock jumps following Indian stock market rally
+  Hazoor Multi Projects shares rose over 3% on January 28 after converting its investment in Optionally Convertible Debentures into equity shares of Square Port Shipyard
+  🔗 https://www.livemint.com/market/stock-market-news/11000-return-in-five-years-multibagger-sme-stock-hazoor-multi-projects-share-price-gains-on-indian-stock-market-rally-11769578604114.html
 
-- Corporate bond issues slip 6% so far in 2025 as high yields turn borrowers cautious
-  While the year started strong, the second half saw a significant slowdown. The
-  🔗 https://www.livemint.com/market/bonds/corporate-bond-issues-slip-6-so-far-in-2025-as-high-yields-turn-borrowers-cautious-11769503932449.html
+- Better than Perplexity and Google AI Mode? Yahoo enters chat with new AI-powered search rival
+  Yahoo Scout aims to transform search results into direct answers using user data and web content. The feature is currently available to users in the US in beta.
+  🔗 https://www.livemint.com/technology/tech-news/better-than-perplexity-and-google-ai-mode-yahoo-enters-the-chat-with-new-ai-powered-search-rival-11769575386901.html
 
-- Stocks to buy: Raja Venkatraman recommends top picks for 28 January
-  Market expert Raja Venkatraman shares his top stocks to buy today, 28 January.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-picks-28-january-nifty-sensex-grasim-industries-eicher-motors-blue-star-11769514139579.html
+- WhatsApp launches 'Strict Account Settings': How to enable the new lockdown-style mode?
+   Meta introduced Strict account settings on WhatsApp, providing extreme protections against cyber attacks for users at risk. This feature limits media from non-contacts and restricts calls and
+  🔗 https://www.livemint.com/technology/tech-news/whatsapp-launches-strict-account-settings-how-to-enable-the-new-lockdown-style-mode-11769562215677.html
 
-- Stock recommendations for 28 January from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 28 January. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-28-january-marketsmith-india-11769523872292.html
+- Taiwan, US discuss tech, AI and drone cooperation at high-level forum
+  Taiwan, US discuss tech
+  🔗 https://www.livemint.com/technology/taiwan-us-discuss-tech-ai-and-drone-cooperation-at-high-level-forum-11769564398839.html
 
 - UK Pledges AI Training for All to Grasp $193 Billion Opportunity
   Technology Secretary Liz Kendall promises to offer training in artificial intelligence for all UK workers. Government says technology has potential to boost economic output by $193 billion a year.
@@ -88,77 +100,133 @@
   TikTok faces app deletions, censorship
   🔗 https://www.livemint.com/technology/tiktok-faces-app-deletions-censorship-claims-and-glitches-in-days-after-its-ownership-change-11769549744429.html
 
-- Elon Musk says 'WhatsApp is not secure' amid Meta privacy lawsuit; Sridhar Vembu cites 'conflict of interest'
-  A lawsuit against Meta alleges false privacy claims regarding WhatsApp. The lawsuit asserts that user conversations can be accessed. Meta has dismissed the allegations.
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-says-whatsapp-is-not-secure-amid-meta-privacy-lawsuit-sridhar-vembu-cites-conflict-of-interest-11769521658890.html
+- Investors urged to wait for Budget before making big bets, says Sunil Subramaniam
+  Market experts advise investors to delay significant moves until the Union Budget is presented. Sunil Subramaniam suggests waiting for the budget to reassess opportunities, highlighting banking, IT, and consumption as
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/investors-urged-to-wait-for-budget-before-making-big-bets-says-sunil-subramaniam/articleshow/127682321.cms
 
-- Apple's new AirTag: 5 things to know about the updated device - Wider range, same price?
-  Apple has launched an updated AirTag, adding to its plethora of accessories. From pricing to what's new about the updated device
-  🔗 https://www.livemint.com/technology/gadgets/apples-new-airtag-5-things-to-know-about-the-updated-device-wider-range-same-price-11769514849049.html
+- India bonds inch up as RBI moves up debt buying after sell-off
+  Indian sovereign bonds saw a slight increase as the Reserve Bank of India advanced its open market purchases by a week. However, concerns about future supply and a potentially larger borrowing plan for the next fiscal year are expected to temper further gains.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-up-as-rbi-moves-up-debt-buying-after-sell-off/articleshow/127681598.cms
 
-- EU steps in to make sure Google gives rivals access to AI services and data
-  EU steps in to make sure Google gives rivals access
-  🔗 https://www.livemint.com/technology/eu-steps-in-to-make-sure-google-gives-rivals-access-to-ai-services-and-data-11769515511796.html
+- One 97 Communications Q3 Preview: Paytm parent may post up to 22% YoY revenue growth. Check PAT, margin expectations
+  Paytm is expected to post another profitable Q3, driven by festive-led demand in payments and financial services. Brokerages forecast a return to year-on-year profitability, around 6%
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/one-97-communications-q3-preview-paytm-parent-may-post-up-to-22-yoy-revenue-growth-check-pat-margin-expectations/articleshow/127681571.cms
 
-- Asian stocks mixed; dollar weakens before Fed rate decision
-  Asian currencies strengthened as the dollar weakened to a four-year low. The dollar's decline accelerated after President Trump expressed indifference to its fall, fueling speculation about coordinated intervention.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-mixed-dollar-weakens-before-fed-rate-decision/articleshow/127665577.cms
+- How Union Budget 2026 could impact corporate bond yields and investor returns
+  Union Budget 2026 will heavily influence bond markets as its fiscal strategy shapes borrowing levels. With consolidation expected to keep long-term yields anchored, corporate bond spreads may remain tight.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/how-union-budget-2026-could-impact-corporate-bond-yields-and-investor-returns/articleshow/127681275.cms
 
-- Volatile markets split IPO strategies as firms rework listing timelines
-   IPO-bound firms are adopting divergent listing strategies amid a volatile stock market. Companies needing fresh capital for expansion are proceeding, while those with offers for sale are reassessing plans.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/volatile-markets-split-ipo-strategies-as-firms-rework-listing-timelines/articleshow/127664746.cms
-
-- Pre-market action: Here's the trade setup for today's session
-  Nifty experienced 300-point swing during the monthly expiry session. Analysts suggest a 'sell-on-rise' strategy until Nifty decisively breaks above 25,500.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/127638401.cms
-
-- Stocks in news: Vodafone Idea, Hindustan Zinc, Vedanta, Marico, Vishal Mega Mart, Maruti and L&amp;T
-  Nifty gained on financial, IT, and metal stocks while Sensex saw pressure from auto and FMCG. Several companies like Vodafone Idea, Vedanta, Marico, and Maruti Suzuki are in
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vodafone-idea-hindustan-zinc-vedanta-marico-vishal-mega-mart-maruti-and-lt/articleshow/127638166.cms
-
-- Auto companies fall on fear of more EU imports
-  Indian auto stocks experienced a decline following reports of potential tariff reductions on EU-imported vehicles. Analysts believe the near-term impact will be limited, with the luxury segment being the primary area affected.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/auto-companies-fall-on-fear-of-more-eu-imports/articleshow/127663821.cms
+- Oil India shares jump nearly 10%, extend gains for second session. What’s behind the surge?
+  Oil India shares saw a significant jump on Wednesday. This rise followed a sharp increase in global crude oil prices, reaching a four-month peak. Geopolitical tensions, including concerns over US-Iran and Russia-Ukraine conflicts
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/oil-india-shares-jump-nearly-10-extend-gains-for-second-session-whats-behind-the-surge/articleshow/127681076.cms
 
 - "We Delivered The Mother Of All Deals": India-EU Trade Pact Finally Sealed - NDTV
   "We Delivered The Mother Of All Deals":
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT3h5eDF5VGE0RmIwbGgzR1ZOVGpDWUZOZUEzWDNzWlhtd21EYkxKeWlVRnMyN3hGTmdVQk1KR1lydW5FamlaS1dNNk9CMTB0ZVNMbTVhNmREWFNxUmkta1AzUHJPaTZHRHpkWTlqV204bkptaXgwNWJqRldTRjJGZjF0VkZ5S2ZVb1dWUGRWMGhwQzJ5b2RIMnJpWTQtUkRJNGd1Ync5dFY3SlRyUnk2bXFXaU80a1ZUa21rTHBoQ1pKMGllbE53Z1dPZ0k4d2EzOTZHa1hR0gHeAUFVX3lxTE5iRHdrM2VzM2xpcHhZSXNkYU1iYU9Nbm4xSEt1OFVqY0pzLTFmVjliSkFwemhmQzZMVlN6Z1l6WUk1MkcyNTFIQUxVZVhOdF9FYm1oRzJuWmJkWHFYTGR4c3drb25qempYYlZ2OHJFTWdNV0piREwxTnctdkxXZUQ2NEd4bjJtV3hMU1FJdm54UGNlMm03VkNjdFNMci1WcmxQVWlSZjBrWEs0U18tY2ZHNW9xenR2Q2FkcUtUT0FCeWZoZEdEQ0RKd001a3RTWWNXRERLdV8xRk1xc0VJdw?oc=5
 
-- 'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over Russian oil | India News - Hindustan Times
-  'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQamRxbGh0aUxhU285a2tEZ3Fob05OMUN3UkU4aDIxczMxcUJGZVpSM25QYnFaaHRwVXBVWEZseGZiT2M2anNYUmVpNzZLS2o2bUxxTndxMW1FUUNfbS1XcVJIWnJjVF9OdjZkNXkzZDhxWHlIS3c3Q3BDOFA0Wl9VZWxrRllsV1Y0d3NFdk0zZHphU2dyWHlyNlVXLXdoT2d5S2ZQUW9EZ3AtRk44YVNIelpqTGczRkFTY0RzMk9UZGo5amp6ZXBtWUZheEphS0c3OHloQ0wwNmxiQ084czlCSEpZQXdoSXZuVk82a2pGOXhzUzNSNHMtSFl30gH_AUFVX3lxTFB3SV9rOWJWTWhYajVFOVRlUTF3cUVoYzBDSDhLZndFTWJSbFRYZ1YxWjh2ZUFLZ25BaWNlRW1yT1JaOGVGdWVBMmp5eFBhWEVaZVFybVk0WlhZRWhUSWt4TkFoZTNrVk1JQ211NG5XbkFhR3N3VERkQktIZ1BBWHRFa2dDRGZld0JWNG5iV0k4TFBCbFNSVkRWYVp2VVh3bldybi1zUHN4QTlIYjhhcW9tQnJhM3lFXzlvcG9xUDdURHNHRW9QTzh6X0xJLXVuODZFMmJZZWRtckxOdmV4NURSN2RJUFM5bzF2MV8xdEZET0FCeXE4LTIyamh5V3FRSQ?oc=5
+- Top News Headlines of January 26, 2026 | US deploys aircraft carrier in Middle East region amid tension with Iran - The Indian Express
+  The Indian Express has published an exclusive article on Iran. The article was published on January 26, 20
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1N0RExkdTJDUE1rYXVHNFotOEwzQmNmbnNqUkZvanZ6amN5eDFDS1lTN1Q1MmlRNXdFRjlsSjFpSl9Vd2VTWnlHb1lpLWNxS29UcHlPUl9uaWVONUFmd0Q0TW85UUNjTmoxRGxrbjNncUJtTWNBY3RnUnQtaHVRY1pjWThRUHlSd0pVOVRYUUtkbkZiRlBSVUdjZzk2YzBSMXNqLU83aHhxRnVFMC03VGVTYVhFekZldlgyMkVrcmJrVHhvNGZxZ3p6Z1RIc0o1T2NHQ196eTRjdV9oa3p0RElfTXFQUlcy0gHvAUFVX3lxTE8ydTFSamt2dk1QSWozQ3ZQT1hWalpzU1VtYUwzUXRCLV9TNkFZanV5X3dWQ0FrV0YwcXotdTMyOUFVbkNpQjI1RGdEZWZfR3BaZG9hamxaaWFHWFhvZGlteUswMVBQd2ExYmFTUHk0UnAyOEJUX19UUHBmamZ2bEZXaVNERU1wOFRRdVZ5NV9YanBXMUJCYnVCa2ctd3Z3Y0w2cFdmdG1UQ0FRVkR4VXp4c3RXaHhHOE9obll3VVI5aFZvZU9jV25PMk1RZl94SUZmZ09lZEFjZWpCa05Qc0JzVWlOTGhlN1hmRnZKZG5j?oc=5
 
-- 'Hope to implement FTA within this calendar year': Piyush Goyal on India-EU trade pact - The Times of India
-  'Hope to implement FTA within this calendar year': Piyush Goyal
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxPLTc4MDdjOFFhZ1I1NzZBM1E1OTdpREZ2SmlUdzdmSGVYeWY1djR6LXBoYWtrMXNKSHRLaFdqQXIyaEVlcUtfZmQzdzB3WHhQQW9FeDB3YmhwWjh0dkg0dG5jYjBodlBjQXp1Y3RMREFjZmVHZTd6cEZhWDM1bWFDYmFVVXJubmpJYm9INDZmODY4OFZyOU5uejlrT0k2RG5KVEZIUnNaZDYzYmcyQllFSHRjZEdnNndlVXZWTF9fZzBkNm45a212Q1FXSm5ETmt1emRSRFVVUWRTLUd0SEZlNGF3T1ktajU1TGVPcmtrQlhwRjQtOWw3Q2dxTlI4WFBJckd1bFFRLUd3THVUUExYN1NWYVJFcWZKeUNWNNIBogJBVV95cUxONkF6eXRRZGwxcm1pWFBZb25HcngtRGx2c1ZUMXpxcFEwTEFSUlVKdzJlcWlrbnBIQlE0c1VoamU3YkM5SnJULXN0T3dSNnl2d3Y3aXNBLTF0eDlaZGR0Wkx3bW8yRUl3aEZvbDJwMEZjcFJpTkVwbjZlTHBRdl9DbkZIaHVPdFk5b2NHYXRTbmxERnJ4RUczbFZnWXlfUThBQUhBYjQtU3p6c1ZKb1FCcEg4Y1RlcmFKcVM0RGVfRHBBVHMxT2NwM2EzdUg3bUF1ZTZQQmxSZUVxQTdaX1FSSEVOY3YxeXR5ZWdGMzhZUFdRVW1kQnppVDlEVWozUlZyT2ozdkNpMlFKREZTYUM0SU4xRVk5QUNDcGRxbkp4RFFGQQ?oc=5
+- Ajit Pawar, Sanjay Gandhi: Indian Leaders Lost To Aviation Accidents - NDTV
+  Ajit Pawar, Sanjay Gandhi
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS2ZTNnBjSEtZeU9iZlhTZmZFVV9LTHlFbEI5LXVjVEI0WWRLb24ydU5Kc3A2VzFWUG5ncTcxbzZFVjRra090aV9YVHYzNkk3NVRIcVdzNUNFNmN4aXpRTWFadFdvYksyVVJObDJmaUU2cjZyNzdOUTNadndwVzgtU09XM2d6d25lOVVac2hvY0R3Wm41M1NaSTc4T2JLR1pDdnVBa1R1NDAyeXYyRkE0ckpaZHE5cVJfZ3R2aDdyRmwtMUd3REU1WS1PcEF2S2lnWS1aX1pB0gHeAUFVX3lxTE5ac0ttdjZEZVVHOHVZOWdSQllyNUswNXRXVF9zQ0RSV3lLYl8tTW12dzM5SWxYeFRQVmZkSmZDWHJaMXZnU1Jnal9pX190UFA4ekQzZVZ4bXowb0lFQVE3WFJMbjFRemRySGJ2d1U0cVBlTW1PZW9TdlphZlhiLU11RjFFNTNtVEhHWl9zYXN0SVVWRHpLQ2ZrSXExeTM3NzRYYkRrQmNHeUszZUZyYzFhZDNVQngtZUZsVFFNRWY2YUMyaERDT3hrVnNidjNQaW5rdkc4Mk53SEdzZG9WUQ?oc=5
 
-- Top news of the day: Military prowess and cultural flair mark India’s 77th Republic Day; Swiss Defence think tank says IAF achieved air superiority over Pakistan in Operation Sindoor, and more - The Hindu
-  The Hindu reports on the celebrations of India's 77th Republic Day. The Indian Air Force says it achieved air superiority over Pakistan.
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3FhNXpPalFBdVBvUEZFSzQ2a3B0YTVaMEk4YVJEdVZYU1phMG1OSld4Q29obF96Zzg4QlhlU3VRU3o5Q3BQeF9pekZfY0lIb3Fnb21ZS2hwNHY4VjFncEREU0twQTJjNTBLMzdqRWpWU1NWcGc5S3VBa3B0WWc3X3Vlcklua3hjRHl1OTMxNUpxd9IBmAFBVV95cUxNTTQ0QlRHUlU5NEREM09UdnZ3Y0Q4d21WblN1MU1MYTY4ajE1Z3RGWEZYRmFtM3NJR3ljRmNVd3JjU2VyMDRGQ0RpbGE0Wi1mMDZNLVpkVjEzeGUzeTNMeWhIWUNMRlhhTmRSem5YZXgxS3h6NVNxQndTOHlsbnp4MGNUaVRjUEU0TkNzTFBjRVdSSlg1WFBlcA?oc=5
+- 'I now respond': Indian envoy shreds Pakistan at UN over 'false' Operation Sindoor account | India News - Hindustan Times
+  'I now respond': Indian envoy shreds Pakistan at UN over 'false'
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTGotU2pUTnVaRDZIdDhPRnNJSmpPNS1VVzdsclJtWFVJNHRKVGdYb0JySG1vZ3pYazdpYkRmSW9SbE81d1BUajJpZ004NDItU3JOREoycmllZWk0MFZ0VUVhcnhXd09hNjdoVnpVN3M0bGs4MVQ5ckI1aG0wMXNpaGx2LVIySnRzU1pFaUNUR3lXdFl2UUozRDhoWVBkQVEtWDJnRHVWS2lVT3oyV0FMdGgtTjVaYWJxMzFOaHdSQjhvMlNmeXhMR1VNVXpzcXhjbjVhRzJ0elhuRVhqc1JxUlNERnZXcVNIN2RrREJaZFFyT2ZTZHU5eGVfcXRQbknSAYQCQVVfeXFMUDZ6RkcySXdrLWRTY2lxODhvX2dvcmMweDJFNWVQUTBZTFEtRWRORWVGTE1pVUhOUVlld0VaRDJSUnlyLWVNYmFPRVZ2Yzl5YTRHMmRwallSaXR2Q0xhWlo5Zk55aXlfNG1tWGZHc0o1SEwtZWVUSXJaRGpFNUpfMFlHYnRtOVh3ZGt1dzlvQjljUXhycHZhZDVINVBvY05UYkJQaVE1NkkyT181VXNtYmF1UW56alpfamhldEhvOGVuQ3phVTdQdVNCVVdPOUhXZUpOZE1wVUN4ZU5md0IySTV2WFJnR3RvWEV5THdIMk1qejlnb2lWSnoyRFFQUlhLUGE2dVU?oc=5
 
-- India helped Bangladesh weave a success story. It'll now fight it out in Europe - India Today
-  India helped Bangladesh weave a success story. It'll now fight it
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa05fT2JYZVVPbC1xcHpwcXJmZEd3eXhkUGJwYzVud3Z2TjBjdXJ3VlJoQlg3RUNmdjQyWDNFVHNNekJTWmRka05LT1lYNWhodUFGRmNXVXNDcU5Pbkszc3dXemYtZjNaWmZubTMySldJOTdCdUhWNWV5enUyMkFiYzZQdTNEdnV5TVZFNkN4a3pXSlI4aHhNWC1iYlRsMVlRbG9hWEIwTHVFQTB6TXJodnBUZFR4MVd1NTV3Wk1JazBxdHNZLUZ2THhCUXRpbG1DUjE5QktOa3FlWk41Yk50YzFpc1dFdkhJVDVFUNIB8gFBVV95cUxQWktnOGZzYkxHQkY4M1d1b1h5azhNWEJvQ1RUTHhES25EMVo3bVd4UHUzeFNscGZlOUxmMmJjaUZNSFBibTMtNk81aDhQYy1Ea2ZjYVBYWDgxNUozU19xYXpTNlAyb1dqYWdCbjNKaVo5d3djdjhib3FSTHhSSFl2bnE0RHdVeVNlOV9HZldSeGVnbzVVRVp4Mzl2a01XX3M5SEhZdXhWeFl3TFFLZTVldGRTSWdhcWFSNDNCSVI4dmw2Q3ktVWhQV0Y5NkFnQ0d0WjgxOWwyOWhXQ2JfLWQ0TE5TZ1dhSXVzNU1abmUtMG5EQQ?oc=5
+- Evening news wrap: India flexes might on 77th Republic Day parade; UAE scraps Pakistan airport deal & mor - Times of India
+  The Times of India reports on India's 77th Republic Day parade. India to celebrate
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaF96aEE5UG1KX0JBWlpjbmN3eE9sTHVWU2VGcTBnRkQydWZDcmdzbXk5MVMwVUx1RGFDVUc4R2pMbW9hMXg5ZHlfVUVrZWY5enRnSERlaWNiMThXVmxhbW9YM2lsYnp0SlFQWnJGLWZZSkpYNG8yM1FXb1QxaE51OWxlajJKbEpicWczMzBwd0ZpZ0M3Sm5rbFUzOUhXNi10cXJIV2h5ZWxJOUw0cXdDQXdZeTZSOHZ0ejFMdXV4ci1sOWJKRzk0OUVvYlZ6V2xjLUFoY3FHQjFLRXB5ZHAtNUF3eVFObGVkaHgyc0lTZEREY1puSE1KYlZPdk9GbWvSAYQCQVVfeXFMTV9RSjJSOXNhVGtlZEJqR3NLcWh4OG5ZdlhPV3o1T21pdjJVcFFqbFBjZG1HZ19SSHR1aVlOSkZtbDB3REg1X0hOaGZzUm1kOG85SUp3TkJpY2t1QURUbHpxWFRtT0NKS0FQd0FBTWN5ckRoRVpIZGFsbklyZGdfSTVXZU1BYmZ4MmZob1lvNXhtV25nMVUzZktrcElNcWswaUdtM19kSEZDWkU5RDQ1eUNybWNtanpXdGM5RkZ1bFcyUzdKU0tiNW5rd1FOX3RabzBtd01WWGJOcHhBcG1XNXR0ZTJRMGdZUHhfZUNld1NDX195S1VrQXFxMGN3MWRCcE1QUEY?oc=5
 
 - "We Delivered The Mother Of All Deals": India-EU Trade Pact Finally Sealed - NDTV
   "We Delivered The Mother Of All Deals":
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT3h5eDF5VGE0RmIwbGgzR1ZOVGpDWUZOZUEzWDNzWlhtd21EYkxKeWlVRnMyN3hGTmdVQk1KR1lydW5FamlaS1dNNk9CMTB0ZVNMbTVhNmREWFNxUmkta1AzUHJPaTZHRHpkWTlqV204bkptaXgwNWJqRldTRjJGZjF0VkZ5S2ZVb1dWUGRWMGhwQzJ5b2RIMnJpWTQtUkRJNGd1Ync5dFY3SlRyUnk2bXFXaU80a1ZUa21rTHBoQ1pKMGllbE53Z1dPZ0k4d2EzOTZHa1hR0gHeAUFVX3lxTE5iRHdrM2VzM2xpcHhZSXNkYU1iYU9Nbm4xSEt1OFVqY0pzLTFmVjliSkFwemhmQzZMVlN6Z1l6WUk1MkcyNTFIQUxVZVhOdF9FYm1oRzJuWmJkWHFYTGR4c3drb25qempYYlZ2OHJFTWdNV0piREwxTnctdkxXZUQ2NEd4bjJtV3hMU1FJdm54UGNlMm03VkNjdFNMci1WcmxQVWlSZjBrWEs0U18tY2ZHNW9xenR2Q2FkcUtUT0FCeWZoZEdEQ0RKd001a3RTWWNXRERLdV8xRk1xc0VJdw?oc=5
 
-- 'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over Russian oil | India News - Hindustan Times
-  'US made bigger sacrifices than…': Trump aide slams EU over India trade deal, backs tariffs over
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQamRxbGh0aUxhU285a2tEZ3Fob05OMUN3UkU4aDIxczMxcUJGZVpSM25QYnFaaHRwVXBVWEZseGZiT2M2anNYUmVpNzZLS2o2bUxxTndxMW1FUUNfbS1XcVJIWnJjVF9OdjZkNXkzZDhxWHlIS3c3Q3BDOFA0Wl9VZWxrRllsV1Y0d3NFdk0zZHphU2dyWHlyNlVXLXdoT2d5S2ZQUW9EZ3AtRk44YVNIelpqTGczRkFTY0RzMk9UZGo5amp6ZXBtWUZheEphS0c3OHloQ0wwNmxiQ084czlCSEpZQXdoSXZuVk82a2pGOXhzUzNSNHMtSFl30gH_AUFVX3lxTFB3SV9rOWJWTWhYajVFOVRlUTF3cUVoYzBDSDhLZndFTWJSbFRYZ1YxWjh2ZUFLZ25BaWNlRW1yT1JaOGVGdWVBMmp5eFBhWEVaZVFybVk0WlhZRWhUSWt4TkFoZTNrVk1JQ211NG5XbkFhR3N3VERkQktIZ1BBWHRFa2dDRGZld0JWNG5iV0k4TFBCbFNSVkRWYVp2VVh3bldybi1zUHN4QTlIYjhhcW9tQnJhM3lFXzlvcG9xUDdURHNHRW9QTzh6X0xJLXVuODZFMmJZZWRtckxOdmV4NURSN2RJUFM5bzF2MV8xdEZET0FCeXE4LTIyamh5V3FRSQ?oc=5
+- Top News Headlines of January 26, 2026 | US deploys aircraft carrier in Middle East region amid tension with Iran - The Indian Express
+  The Indian Express has published an exclusive article on Iran. The article was published on January 26, 20
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1N0RExkdTJDUE1rYXVHNFotOEwzQmNmbnNqUkZvanZ6amN5eDFDS1lTN1Q1MmlRNXdFRjlsSjFpSl9Vd2VTWnlHb1lpLWNxS29UcHlPUl9uaWVONUFmd0Q0TW85UUNjTmoxRGxrbjNncUJtTWNBY3RnUnQtaHVRY1pjWThRUHlSd0pVOVRYUUtkbkZiRlBSVUdjZzk2YzBSMXNqLU83aHhxRnVFMC03VGVTYVhFekZldlgyMkVrcmJrVHhvNGZxZ3p6Z1RIc0o1T2NHQ196eTRjdV9oa3p0RElfTXFQUlcy0gHvAUFVX3lxTE8ydTFSamt2dk1QSWozQ3ZQT1hWalpzU1VtYUwzUXRCLV9TNkFZanV5X3dWQ0FrV0YwcXotdTMyOUFVbkNpQjI1RGdEZWZfR3BaZG9hamxaaWFHWFhvZGlteUswMVBQd2ExYmFTUHk0UnAyOEJUX19UUHBmamZ2bEZXaVNERU1wOFRRdVZ5NV9YanBXMUJCYnVCa2ctd3Z3Y0w2cFdmdG1UQ0FRVkR4VXp4c3RXaHhHOE9obll3VVI5aFZvZU9jV25PMk1RZl94SUZmZ09lZEFjZWpCa05Qc0JzVWlOTGhlN1hmRnZKZG5j?oc=5
 
-- 'Hope to implement FTA within this calendar year': Piyush Goyal on India-EU trade pact - The Times of India
-  'Hope to implement FTA within this calendar year': Piyush Goyal
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxPLTc4MDdjOFFhZ1I1NzZBM1E1OTdpREZ2SmlUdzdmSGVYeWY1djR6LXBoYWtrMXNKSHRLaFdqQXIyaEVlcUtfZmQzdzB3WHhQQW9FeDB3YmhwWjh0dkg0dG5jYjBodlBjQXp1Y3RMREFjZmVHZTd6cEZhWDM1bWFDYmFVVXJubmpJYm9INDZmODY4OFZyOU5uejlrT0k2RG5KVEZIUnNaZDYzYmcyQllFSHRjZEdnNndlVXZWTF9fZzBkNm45a212Q1FXSm5ETmt1emRSRFVVUWRTLUd0SEZlNGF3T1ktajU1TGVPcmtrQlhwRjQtOWw3Q2dxTlI4WFBJckd1bFFRLUd3THVUUExYN1NWYVJFcWZKeUNWNNIBogJBVV95cUxONkF6eXRRZGwxcm1pWFBZb25HcngtRGx2c1ZUMXpxcFEwTEFSUlVKdzJlcWlrbnBIQlE0c1VoamU3YkM5SnJULXN0T3dSNnl2d3Y3aXNBLTF0eDlaZGR0Wkx3bW8yRUl3aEZvbDJwMEZjcFJpTkVwbjZlTHBRdl9DbkZIaHVPdFk5b2NHYXRTbmxERnJ4RUczbFZnWXlfUThBQUhBYjQtU3p6c1ZKb1FCcEg4Y1RlcmFKcVM0RGVfRHBBVHMxT2NwM2EzdUg3bUF1ZTZQQmxSZUVxQTdaX1FSSEVOY3YxeXR5ZWdGMzhZUFdRVW1kQnppVDlEVWozUlZyT2ozdkNpMlFKREZTYUM0SU4xRVk5QUNDcGRxbkp4RFFGQQ?oc=5
+- Ajit Pawar, Sanjay Gandhi: Indian Leaders Lost To Aviation Accidents - NDTV
+  Ajit Pawar, Sanjay Gandhi
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS2ZTNnBjSEtZeU9iZlhTZmZFVV9LTHlFbEI5LXVjVEI0WWRLb24ydU5Kc3A2VzFWUG5ncTcxbzZFVjRra090aV9YVHYzNkk3NVRIcVdzNUNFNmN4aXpRTWFadFdvYksyVVJObDJmaUU2cjZyNzdOUTNadndwVzgtU09XM2d6d25lOVVac2hvY0R3Wm41M1NaSTc4T2JLR1pDdnVBa1R1NDAyeXYyRkE0ckpaZHE5cVJfZ3R2aDdyRmwtMUd3REU1WS1PcEF2S2lnWS1aX1pB0gHeAUFVX3lxTE5ac0ttdjZEZVVHOHVZOWdSQllyNUswNXRXVF9zQ0RSV3lLYl8tTW12dzM5SWxYeFRQVmZkSmZDWHJaMXZnU1Jnal9pX190UFA4ekQzZVZ4bXowb0lFQVE3WFJMbjFRemRySGJ2d1U0cVBlTW1PZW9TdlphZlhiLU11RjFFNTNtVEhHWl9zYXN0SVVWRHpLQ2ZrSXExeTM3NzRYYkRrQmNHeUszZUZyYzFhZDNVQngtZUZsVFFNRWY2YUMyaERDT3hrVnNidjNQaW5rdkc4Mk53SEdzZG9WUQ?oc=5
 
-- Top news of the day: Military prowess and cultural flair mark India’s 77th Republic Day; Swiss Defence think tank says IAF achieved air superiority over Pakistan in Operation Sindoor, and more - The Hindu
-  The Hindu reports on the celebrations of India's 77th Republic Day. The Indian Air Force says it achieved air superiority over Pakistan.
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3FhNXpPalFBdVBvUEZFSzQ2a3B0YTVaMEk4YVJEdVZYU1phMG1OSld4Q29obF96Zzg4QlhlU3VRU3o5Q3BQeF9pekZfY0lIb3Fnb21ZS2hwNHY4VjFncEREU0twQTJjNTBLMzdqRWpWU1NWcGc5S3VBa3B0WWc3X3Vlcklua3hjRHl1OTMxNUpxd9IBmAFBVV95cUxNTTQ0QlRHUlU5NEREM09UdnZ3Y0Q4d21WblN1MU1MYTY4ajE1Z3RGWEZYRmFtM3NJR3ljRmNVd3JjU2VyMDRGQ0RpbGE0Wi1mMDZNLVpkVjEzeGUzeTNMeWhIWUNMRlhhTmRSem5YZXgxS3h6NVNxQndTOHlsbnp4MGNUaVRjUEU0TkNzTFBjRVdSSlg1WFBlcA?oc=5
+- 'I now respond': Indian envoy shreds Pakistan at UN over 'false' Operation Sindoor account | India News - Hindustan Times
+  'I now respond': Indian envoy shreds Pakistan at UN over 'false'
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTGotU2pUTnVaRDZIdDhPRnNJSmpPNS1VVzdsclJtWFVJNHRKVGdYb0JySG1vZ3pYazdpYkRmSW9SbE81d1BUajJpZ004NDItU3JOREoycmllZWk0MFZ0VUVhcnhXd09hNjdoVnpVN3M0bGs4MVQ5ckI1aG0wMXNpaGx2LVIySnRzU1pFaUNUR3lXdFl2UUozRDhoWVBkQVEtWDJnRHVWS2lVT3oyV0FMdGgtTjVaYWJxMzFOaHdSQjhvMlNmeXhMR1VNVXpzcXhjbjVhRzJ0elhuRVhqc1JxUlNERnZXcVNIN2RrREJaZFFyT2ZTZHU5eGVfcXRQbknSAYQCQVVfeXFMUDZ6RkcySXdrLWRTY2lxODhvX2dvcmMweDJFNWVQUTBZTFEtRWRORWVGTE1pVUhOUVlld0VaRDJSUnlyLWVNYmFPRVZ2Yzl5YTRHMmRwallSaXR2Q0xhWlo5Zk55aXlfNG1tWGZHc0o1SEwtZWVUSXJaRGpFNUpfMFlHYnRtOVh3ZGt1dzlvQjljUXhycHZhZDVINVBvY05UYkJQaVE1NkkyT181VXNtYmF1UW56alpfamhldEhvOGVuQ3phVTdQdVNCVVdPOUhXZUpOZE1wVUN4ZU5md0IySTV2WFJnR3RvWEV5THdIMk1qejlnb2lWSnoyRFFQUlhLUGE2dVU?oc=5
 
-- India helped Bangladesh weave a success story. It'll now fight it out in Europe - India Today
-  India helped Bangladesh weave a success story. It'll now fight it
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa05fT2JYZVVPbC1xcHpwcXJmZEd3eXhkUGJwYzVud3Z2TjBjdXJ3VlJoQlg3RUNmdjQyWDNFVHNNekJTWmRka05LT1lYNWhodUFGRmNXVXNDcU5Pbkszc3dXemYtZjNaWmZubTMySldJOTdCdUhWNWV5enUyMkFiYzZQdTNEdnV5TVZFNkN4a3pXSlI4aHhNWC1iYlRsMVlRbG9hWEIwTHVFQTB6TXJodnBUZFR4MVd1NTV3Wk1JazBxdHNZLUZ2THhCUXRpbG1DUjE5QktOa3FlWk41Yk50YzFpc1dFdkhJVDVFUNIB8gFBVV95cUxQWktnOGZzYkxHQkY4M1d1b1h5azhNWEJvQ1RUTHhES25EMVo3bVd4UHUzeFNscGZlOUxmMmJjaUZNSFBibTMtNk81aDhQYy1Ea2ZjYVBYWDgxNUozU19xYXpTNlAyb1dqYWdCbjNKaVo5d3djdjhib3FSTHhSSFl2bnE0RHdVeVNlOV9HZldSeGVnbzVVRVp4Mzl2a01XX3M5SEhZdXhWeFl3TFFLZTVldGRTSWdhcWFSNDNCSVI4dmw2Q3ktVWhQV0Y5NkFnQ0d0WjgxOWwyOWhXQ2JfLWQ0TE5TZ1dhSXVzNU1abmUtMG5EQQ?oc=5
+- Evening news wrap: India flexes might on 77th Republic Day parade; UAE scraps Pakistan airport deal & mor - Times of India
+  The Times of India reports on India's 77th Republic Day parade. India to celebrate
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaF96aEE5UG1KX0JBWlpjbmN3eE9sTHVWU2VGcTBnRkQydWZDcmdzbXk5MVMwVUx1RGFDVUc4R2pMbW9hMXg5ZHlfVUVrZWY5enRnSERlaWNiMThXVmxhbW9YM2lsYnp0SlFQWnJGLWZZSkpYNG8yM1FXb1QxaE51OWxlajJKbEpicWczMzBwd0ZpZ0M3Sm5rbFUzOUhXNi10cXJIV2h5ZWxJOUw0cXdDQXdZeTZSOHZ0ejFMdXV4ci1sOWJKRzk0OUVvYlZ6V2xjLUFoY3FHQjFLRXB5ZHAtNUF3eVFObGVkaHgyc0lTZEREY1puSE1KYlZPdk9GbWvSAYQCQVVfeXFMTV9RSjJSOXNhVGtlZEJqR3NLcWh4OG5ZdlhPV3o1T21pdjJVcFFqbFBjZG1HZ19SSHR1aVlOSkZtbDB3REg1X0hOaGZzUm1kOG85SUp3TkJpY2t1QURUbHpxWFRtT0NKS0FQd0FBTWN5ckRoRVpIZGFsbklyZGdfSTVXZU1BYmZ4MmZob1lvNXhtV25nMVUzZktrcElNcWswaUdtM19kSEZDWkU5RDQ1eUNybWNtanpXdGM5RkZ1bFcyUzdKU0tiNW5rd1FOX3RabzBtd01WWGJOcHhBcG1XNXR0ZTJRMGdZUHhfZUNld1NDX195S1VrQXFxMGN3MWRCcE1QUEY?oc=5
+
+- "We Delivered The Mother Of All Deals": India-EU Trade Pact Finally Sealed - NDTV
+  "We Delivered The Mother Of All Deals":
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT3h5eDF5VGE0RmIwbGgzR1ZOVGpDWUZOZUEzWDNzWlhtd21EYkxKeWlVRnMyN3hGTmdVQk1KR1lydW5FamlaS1dNNk9CMTB0ZVNMbTVhNmREWFNxUmkta1AzUHJPaTZHRHpkWTlqV204bkptaXgwNWJqRldTRjJGZjF0VkZ5S2ZVb1dWUGRWMGhwQzJ5b2RIMnJpWTQtUkRJNGd1Ync5dFY3SlRyUnk2bXFXaU80a1ZUa21rTHBoQ1pKMGllbE53Z1dPZ0k4d2EzOTZHa1hR0gHeAUFVX3lxTE5iRHdrM2VzM2xpcHhZSXNkYU1iYU9Nbm4xSEt1OFVqY0pzLTFmVjliSkFwemhmQzZMVlN6Z1l6WUk1MkcyNTFIQUxVZVhOdF9FYm1oRzJuWmJkWHFYTGR4c3drb25qempYYlZ2OHJFTWdNV0piREwxTnctdkxXZUQ2NEd4bjJtV3hMU1FJdm54UGNlMm03VkNjdFNMci1WcmxQVWlSZjBrWEs0U18tY2ZHNW9xenR2Q2FkcUtUT0FCeWZoZEdEQ0RKd001a3RTWWNXRERLdV8xRk1xc0VJdw?oc=5
+
+- Top News Headlines of January 26, 2026 | US deploys aircraft carrier in Middle East region amid tension with Iran - The Indian Express
+  The Indian Express has published an exclusive article on Iran. The article was published on January 26, 20
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1N0RExkdTJDUE1rYXVHNFotOEwzQmNmbnNqUkZvanZ6amN5eDFDS1lTN1Q1MmlRNXdFRjlsSjFpSl9Vd2VTWnlHb1lpLWNxS29UcHlPUl9uaWVONUFmd0Q0TW85UUNjTmoxRGxrbjNncUJtTWNBY3RnUnQtaHVRY1pjWThRUHlSd0pVOVRYUUtkbkZiRlBSVUdjZzk2YzBSMXNqLU83aHhxRnVFMC03VGVTYVhFekZldlgyMkVrcmJrVHhvNGZxZ3p6Z1RIc0o1T2NHQ196eTRjdV9oa3p0RElfTXFQUlcy0gHvAUFVX3lxTE8ydTFSamt2dk1QSWozQ3ZQT1hWalpzU1VtYUwzUXRCLV9TNkFZanV5X3dWQ0FrV0YwcXotdTMyOUFVbkNpQjI1RGdEZWZfR3BaZG9hamxaaWFHWFhvZGlteUswMVBQd2ExYmFTUHk0UnAyOEJUX19UUHBmamZ2bEZXaVNERU1wOFRRdVZ5NV9YanBXMUJCYnVCa2ctd3Z3Y0w2cFdmdG1UQ0FRVkR4VXp4c3RXaHhHOE9obll3VVI5aFZvZU9jV25PMk1RZl94SUZmZ09lZEFjZWpCa05Qc0JzVWlOTGhlN1hmRnZKZG5j?oc=5
+
+- Ajit Pawar, Sanjay Gandhi: Indian Leaders Lost To Aviation Accidents - NDTV
+  Ajit Pawar, Sanjay Gandhi
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS2ZTNnBjSEtZeU9iZlhTZmZFVV9LTHlFbEI5LXVjVEI0WWRLb24ydU5Kc3A2VzFWUG5ncTcxbzZFVjRra090aV9YVHYzNkk3NVRIcVdzNUNFNmN4aXpRTWFadFdvYksyVVJObDJmaUU2cjZyNzdOUTNadndwVzgtU09XM2d6d25lOVVac2hvY0R3Wm41M1NaSTc4T2JLR1pDdnVBa1R1NDAyeXYyRkE0ckpaZHE5cVJfZ3R2aDdyRmwtMUd3REU1WS1PcEF2S2lnWS1aX1pB0gHeAUFVX3lxTE5ac0ttdjZEZVVHOHVZOWdSQllyNUswNXRXVF9zQ0RSV3lLYl8tTW12dzM5SWxYeFRQVmZkSmZDWHJaMXZnU1Jnal9pX190UFA4ekQzZVZ4bXowb0lFQVE3WFJMbjFRemRySGJ2d1U0cVBlTW1PZW9TdlphZlhiLU11RjFFNTNtVEhHWl9zYXN0SVVWRHpLQ2ZrSXExeTM3NzRYYkRrQmNHeUszZUZyYzFhZDNVQngtZUZsVFFNRWY2YUMyaERDT3hrVnNidjNQaW5rdkc4Mk53SEdzZG9WUQ?oc=5
+
+- 'I now respond': Indian envoy shreds Pakistan at UN over 'false' Operation Sindoor account | India News - Hindustan Times
+  'I now respond': Indian envoy shreds Pakistan at UN over 'false'
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTGotU2pUTnVaRDZIdDhPRnNJSmpPNS1VVzdsclJtWFVJNHRKVGdYb0JySG1vZ3pYazdpYkRmSW9SbE81d1BUajJpZ004NDItU3JOREoycmllZWk0MFZ0VUVhcnhXd09hNjdoVnpVN3M0bGs4MVQ5ckI1aG0wMXNpaGx2LVIySnRzU1pFaUNUR3lXdFl2UUozRDhoWVBkQVEtWDJnRHVWS2lVT3oyV0FMdGgtTjVaYWJxMzFOaHdSQjhvMlNmeXhMR1VNVXpzcXhjbjVhRzJ0elhuRVhqc1JxUlNERnZXcVNIN2RrREJaZFFyT2ZTZHU5eGVfcXRQbknSAYQCQVVfeXFMUDZ6RkcySXdrLWRTY2lxODhvX2dvcmMweDJFNWVQUTBZTFEtRWRORWVGTE1pVUhOUVlld0VaRDJSUnlyLWVNYmFPRVZ2Yzl5YTRHMmRwallSaXR2Q0xhWlo5Zk55aXlfNG1tWGZHc0o1SEwtZWVUSXJaRGpFNUpfMFlHYnRtOVh3ZGt1dzlvQjljUXhycHZhZDVINVBvY05UYkJQaVE1NkkyT181VXNtYmF1UW56alpfamhldEhvOGVuQ3phVTdQdVNCVVdPOUhXZUpOZE1wVUN4ZU5md0IySTV2WFJnR3RvWEV5THdIMk1qejlnb2lWSnoyRFFQUlhLUGE2dVU?oc=5
+
+- Evening news wrap: India flexes might on 77th Republic Day parade; UAE scraps Pakistan airport deal & mor - Times of India
+  The Times of India reports on India's 77th Republic Day parade. India to celebrate
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaF96aEE5UG1KX0JBWlpjbmN3eE9sTHVWU2VGcTBnRkQydWZDcmdzbXk5MVMwVUx1RGFDVUc4R2pMbW9hMXg5ZHlfVUVrZWY5enRnSERlaWNiMThXVmxhbW9YM2lsYnp0SlFQWnJGLWZZSkpYNG8yM1FXb1QxaE51OWxlajJKbEpicWczMzBwd0ZpZ0M3Sm5rbFUzOUhXNi10cXJIV2h5ZWxJOUw0cXdDQXdZeTZSOHZ0ejFMdXV4ci1sOWJKRzk0OUVvYlZ6V2xjLUFoY3FHQjFLRXB5ZHAtNUF3eVFObGVkaHgyc0lTZEREY1puSE1KYlZPdk9GbWvSAYQCQVVfeXFMTV9RSjJSOXNhVGtlZEJqR3NLcWh4OG5ZdlhPV3o1T21pdjJVcFFqbFBjZG1HZ19SSHR1aVlOSkZtbDB3REg1X0hOaGZzUm1kOG85SUp3TkJpY2t1QURUbHpxWFRtT0NKS0FQd0FBTWN5ckRoRVpIZGFsbklyZGdfSTVXZU1BYmZ4MmZob1lvNXhtV25nMVUzZktrcElNcWswaUdtM19kSEZDWkU5RDQ1eUNybWNtanpXdGM5RkZ1bFcyUzdKU0tiNW5rd1FOX3RabzBtd01WWGJOcHhBcG1XNXR0ZTJRMGdZUHhfZUNld1NDX195S1VrQXFxMGN3MWRCcE1QUEY?oc=5
+
+- "We Delivered The Mother Of All Deals": India-EU Trade Pact Finally Sealed - NDTV
+  "We Delivered The Mother Of All Deals":
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT3h5eDF5VGE0RmIwbGgzR1ZOVGpDWUZOZUEzWDNzWlhtd21EYkxKeWlVRnMyN3hGTmdVQk1KR1lydW5FamlaS1dNNk9CMTB0ZVNMbTVhNmREWFNxUmkta1AzUHJPaTZHRHpkWTlqV204bkptaXgwNWJqRldTRjJGZjF0VkZ5S2ZVb1dWUGRWMGhwQzJ5b2RIMnJpWTQtUkRJNGd1Ync5dFY3SlRyUnk2bXFXaU80a1ZUa21rTHBoQ1pKMGllbE53Z1dPZ0k4d2EzOTZHa1hR0gHeAUFVX3lxTE5iRHdrM2VzM2xpcHhZSXNkYU1iYU9Nbm4xSEt1OFVqY0pzLTFmVjliSkFwemhmQzZMVlN6Z1l6WUk1MkcyNTFIQUxVZVhOdF9FYm1oRzJuWmJkWHFYTGR4c3drb25qempYYlZ2OHJFTWdNV0piREwxTnctdkxXZUQ2NEd4bjJtV3hMU1FJdm54UGNlMm03VkNjdFNMci1WcmxQVWlSZjBrWEs0U18tY2ZHNW9xenR2Q2FkcUtUT0FCeWZoZEdEQ0RKd001a3RTWWNXRERLdV8xRk1xc0VJdw?oc=5
+
+- Top News Headlines of January 26, 2026 | US deploys aircraft carrier in Middle East region amid tension with Iran - The Indian Express
+  The Indian Express has published an exclusive article on Iran. The article was published on January 26, 20
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1N0RExkdTJDUE1rYXVHNFotOEwzQmNmbnNqUkZvanZ6amN5eDFDS1lTN1Q1MmlRNXdFRjlsSjFpSl9Vd2VTWnlHb1lpLWNxS29UcHlPUl9uaWVONUFmd0Q0TW85UUNjTmoxRGxrbjNncUJtTWNBY3RnUnQtaHVRY1pjWThRUHlSd0pVOVRYUUtkbkZiRlBSVUdjZzk2YzBSMXNqLU83aHhxRnVFMC03VGVTYVhFekZldlgyMkVrcmJrVHhvNGZxZ3p6Z1RIc0o1T2NHQ196eTRjdV9oa3p0RElfTXFQUlcy0gHvAUFVX3lxTE8ydTFSamt2dk1QSWozQ3ZQT1hWalpzU1VtYUwzUXRCLV9TNkFZanV5X3dWQ0FrV0YwcXotdTMyOUFVbkNpQjI1RGdEZWZfR3BaZG9hamxaaWFHWFhvZGlteUswMVBQd2ExYmFTUHk0UnAyOEJUX19UUHBmamZ2bEZXaVNERU1wOFRRdVZ5NV9YanBXMUJCYnVCa2ctd3Z3Y0w2cFdmdG1UQ0FRVkR4VXp4c3RXaHhHOE9obll3VVI5aFZvZU9jV25PMk1RZl94SUZmZ09lZEFjZWpCa05Qc0JzVWlOTGhlN1hmRnZKZG5j?oc=5
+
+- Ajit Pawar, Sanjay Gandhi: Indian Leaders Lost To Aviation Accidents - NDTV
+  Ajit Pawar, Sanjay Gandhi
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS2ZTNnBjSEtZeU9iZlhTZmZFVV9LTHlFbEI5LXVjVEI0WWRLb24ydU5Kc3A2VzFWUG5ncTcxbzZFVjRra090aV9YVHYzNkk3NVRIcVdzNUNFNmN4aXpRTWFadFdvYksyVVJObDJmaUU2cjZyNzdOUTNadndwVzgtU09XM2d6d25lOVVac2hvY0R3Wm41M1NaSTc4T2JLR1pDdnVBa1R1NDAyeXYyRkE0ckpaZHE5cVJfZ3R2aDdyRmwtMUd3REU1WS1PcEF2S2lnWS1aX1pB0gHeAUFVX3lxTE5ac0ttdjZEZVVHOHVZOWdSQllyNUswNXRXVF9zQ0RSV3lLYl8tTW12dzM5SWxYeFRQVmZkSmZDWHJaMXZnU1Jnal9pX190UFA4ekQzZVZ4bXowb0lFQVE3WFJMbjFRemRySGJ2d1U0cVBlTW1PZW9TdlphZlhiLU11RjFFNTNtVEhHWl9zYXN0SVVWRHpLQ2ZrSXExeTM3NzRYYkRrQmNHeUszZUZyYzFhZDNVQngtZUZsVFFNRWY2YUMyaERDT3hrVnNidjNQaW5rdkc4Mk53SEdzZG9WUQ?oc=5
+
+- 'I now respond': Indian envoy shreds Pakistan at UN over 'false' Operation Sindoor account | India News - Hindustan Times
+  'I now respond': Indian envoy shreds Pakistan at UN over 'false'
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTGotU2pUTnVaRDZIdDhPRnNJSmpPNS1VVzdsclJtWFVJNHRKVGdYb0JySG1vZ3pYazdpYkRmSW9SbE81d1BUajJpZ004NDItU3JOREoycmllZWk0MFZ0VUVhcnhXd09hNjdoVnpVN3M0bGs4MVQ5ckI1aG0wMXNpaGx2LVIySnRzU1pFaUNUR3lXdFl2UUozRDhoWVBkQVEtWDJnRHVWS2lVT3oyV0FMdGgtTjVaYWJxMzFOaHdSQjhvMlNmeXhMR1VNVXpzcXhjbjVhRzJ0elhuRVhqc1JxUlNERnZXcVNIN2RrREJaZFFyT2ZTZHU5eGVfcXRQbknSAYQCQVVfeXFMUDZ6RkcySXdrLWRTY2lxODhvX2dvcmMweDJFNWVQUTBZTFEtRWRORWVGTE1pVUhOUVlld0VaRDJSUnlyLWVNYmFPRVZ2Yzl5YTRHMmRwallSaXR2Q0xhWlo5Zk55aXlfNG1tWGZHc0o1SEwtZWVUSXJaRGpFNUpfMFlHYnRtOVh3ZGt1dzlvQjljUXhycHZhZDVINVBvY05UYkJQaVE1NkkyT181VXNtYmF1UW56alpfamhldEhvOGVuQ3phVTdQdVNCVVdPOUhXZUpOZE1wVUN4ZU5md0IySTV2WFJnR3RvWEV5THdIMk1qejlnb2lWSnoyRFFQUlhLUGE2dVU?oc=5
+
+- Evening news wrap: India flexes might on 77th Republic Day parade; UAE scraps Pakistan airport deal & mor - Times of India
+  The Times of India reports on India's 77th Republic Day parade. India to celebrate
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaF96aEE5UG1KX0JBWlpjbmN3eE9sTHVWU2VGcTBnRkQydWZDcmdzbXk5MVMwVUx1RGFDVUc4R2pMbW9hMXg5ZHlfVUVrZWY5enRnSERlaWNiMThXVmxhbW9YM2lsYnp0SlFQWnJGLWZZSkpYNG8yM1FXb1QxaE51OWxlajJKbEpicWczMzBwd0ZpZ0M3Sm5rbFUzOUhXNi10cXJIV2h5ZWxJOUw0cXdDQXdZeTZSOHZ0ejFMdXV4ci1sOWJKRzk0OUVvYlZ6V2xjLUFoY3FHQjFLRXB5ZHAtNUF3eVFObGVkaHgyc0lTZEREY1puSE1KYlZPdk9GbWvSAYQCQVVfeXFMTV9RSjJSOXNhVGtlZEJqR3NLcWh4OG5ZdlhPV3o1T21pdjJVcFFqbFBjZG1HZ19SSHR1aVlOSkZtbDB3REg1X0hOaGZzUm1kOG85SUp3TkJpY2t1QURUbHpxWFRtT0NKS0FQd0FBTWN5ckRoRVpIZGFsbklyZGdfSTVXZU1BYmZ4MmZob1lvNXhtV25nMVUzZktrcElNcWswaUdtM19kSEZDWkU5RDQ1eUNybWNtanpXdGM5RkZ1bFcyUzdKU0tiNW5rd1FOX3RabzBtd01WWGJOcHhBcG1XNXR0ZTJRMGdZUHhfZUNld1NDX195S1VrQXFxMGN3MWRCcE1QUEY?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-28 01:22:51 UTC_
+_Last updated: 2026-01-28 06:34:55 UTC_
