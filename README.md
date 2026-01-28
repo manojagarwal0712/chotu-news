@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
-- ‘A leader of the people’: PM Modi, Amit Shah, others condole Maharashtra Deputy CM Ajit Pawar’s death in Baramati plane crash
+- Exclusive: Telangana phone tapping probe widens, ‘thousands of call, IP records accessed illegally’
   
-  🔗 https://indianexpress.com/article/india/leader-people-pm-modi-amit-shah-others-condole-maharashtra-deputy-cm-ajit-pawar-death-baramati-plane-crash-10498663/
+  🔗 https://indianexpress.com/article/india/telangana-phone-tapping-probe-call-ip-records-access-illegally-10499261/
 
-- ‘Shocking’, ‘irreparable loss’: Leaders across party lines condole Ajit Pawar’s death in Baramati plane crash
+- How Ajit Pawar plane crash unfolded: Civil Aviation ministry gives blow-by-blow account
   
-  🔗 https://indianexpress.com/article/india/ajit-pawar-dead-plane-crash-modi-ncp-bjp-shiv-sena-congress-leaders-shocking-10498575/
+  🔗 https://indianexpress.com/article/india/ajit-pawar-baramati-plane-crash-civil-aviation-ministry-blow-by-blow-account-10499234/
 
-- PM Modi describes Ajit Pawar as ‘leader of the people’, expresses grief over lives lost in fatal plane crash
+- President Droupadi Murmu highlights India–EU FTA; says India a ‘bridge’ in shifting world order, hails ‘Operation Sindoor’
   
-  🔗 https://indianexpress.com/article/india/pm-modi-describes-pawar-as-leader-of-the-people-expresses-grief-over-lives-lost-in-fatal-plane-crash-10498605/
+  🔗 https://indianexpress.com/article/india/president-murmu-highlights-india-eu-fta-hails-operation-sindoor-10499077/
 
-- Gold Today Rate, January 28: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- Ajit Pawar’s plane crash: What we know so far
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-january-28-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10498540/
+  🔗 https://indianexpress.com/article/india/ajit-pawars-plane-crash-what-we-know-so-far-10499043/
 
-- Parliament Budget Session 2026 Live Updates: President Droupadi Murmu addresses both houses; VB–G RAM G Bill mention sparks Oppn protest
+- ‘I’ve told BJP people to file complaints against Miyas… we have to practise politics of polarisation if we want to live’: Himanta
   
-  🔗 https://indianexpress.com/article/india/union-budget-2026-27-parliament-session-live-updates-president-murmu-parliament-address-economic-survey-10498426/
+  🔗 https://indianexpress.com/article/india/bjp-complaints-against-miyas-practice-politics-of-polarisation-assam-cm-himanta-10498937/
+
+- From interviews to outfit tips: 5 ways Gemini Live can help with everyday tasks
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-gemini-live-5-creative-use-cases-10499105/
+
+- Amazon to cut 16,000 corporate roles in its biggest layoffs since 2023
+  
+  🔗 https://indianexpress.com/article/technology/amazon-cuts-16000-jobs-globally-to-undo-pandemic-era-hiring-amid-ai-push-10499521/
+
+- What is  the Doomsday Clock and why does it now stand just 85 seconds from midnight
+  
+  🔗 https://indianexpress.com/article/technology/science/what-is-the-doomsday-clock-and-why-does-it-now-stand-just-85-seconds-from-midnight-10499111/
+
+- Swiggy now lets you order food using AI chatbots like ChatGPT
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/swiggy-now-lets-you-order-food-using-ai-chatbots-like-chatgpt-10498773/
 
 - SoftBank in talks to invest up to $30 billion more in OpenAI, source says
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/softbank-in-talks-to-invest-up-to-30-billion-more-in-openai-source-says-10498581/
 
-- Amazon bungles Wednesday layoff plan with misfired internal email
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-bungles-wednesday-layoff-plan-with-misfired-internal-email-10498450/
+- Amazon layoffs: Tech giant to cut 16,000 jobs in second round in next three months amid AI expansion plans
+  Amazon to cut 16,000 jobs in second round in next three months
+  🔗 https://www.livemint.com/companies/news/amazon-layoffs-tech-giant-to-cut-16-000-jobs-in-second-round-in-next-three-months-amid-ai-expansion-plans-11769598253515.html
 
-- Apple, Google app stores still host dozens of AI ‘nudify’ apps, report claims
-  
-  🔗 https://indianexpress.com/article/technology/apple-google-app-stores-still-host-dozens-of-ai-nudify-apps-report-claims-10498397/
+- Navi Mumbai airport plans to start international operations by June after getting night flight permit, CEO Bansal says
+  CEO Arun Bansal emphasized the need for easier
+  🔗 https://www.livemint.com/companies/navi-mumbai-airport-international-operations-adani-airports-wings-india-2026-11769589634138.html
 
-- WhatsApp rolls out high-security feature ‘Strict Account Settings,’ offers stronger protection
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-rolls-out-high-security-feature-strict-account-settings-10498049/
+- WhatsApp chief Will Cathcart hits back at Elon Musk over app 'not secure' remark amid Meta privacy lawsuit
+   Meta has denied allegations that it reads users' private messages on WhatsApp. WhatsApp head Will Cath
+  🔗 https://www.livemint.com/companies/news/whatsapp-chief-will-cathcart-hits-back-at-elon-musk-over-app-not-secure-remark-amid-meta-privacy-lawsuit-11769590405002.html
 
-- A new way to flirt: Dazzle potential mates with patterns invisible to humans
-  
-  🔗 https://indianexpress.com/article/technology/science/a-new-way-to-flirt-dazzle-potential-mates-with-patterns-invisible-to-humans-10497892/
+- How to fix Disney: A road map for the next CEO
+  Barron’
+  🔗 https://www.livemint.com/companies/how-to-fix-disney-a-road-map-for-the-next-ceo-11769595962690.html
 
-- 'My partner is half-Indian': Elon Musk invokes Indian physicist while responding to Vinod Khosla’s racism allegation
-  Elon Musk and Vinod Khosla are once again in a heated debate on social media. Sun Microsystems founder accused the Tesla CEO of racism. Musk countered with personal attacks while highlighting his
-  🔗 https://www.livemint.com/companies/news/my-partner-is-half-indian-elon-musk-invokes-indian-physicist-while-responding-to-vinod-khosla-s-racism-allegation-11769566135718.html
+- 4700BC popcorn adds a dash of indulgence to Marico’s food portfolio
+  Marico’s acquisition of premium popcorn brand 4700BC is aimed at adding indulgent snacking to its largely
+  🔗 https://www.livemint.com/companies/4700bc-popcorn-marico-food-portfolio-gourmet-snacks-11769577753185.html
 
-- Four years under Tata, Air India still in recovery mode. How does it stack up against IndiGo?
-  Air India has made progress towards a turnaround in the Tata Group fold. But it’s far
-  🔗 https://www.livemint.com/companies/news/air-india-vs-indigo-air-india-express-tata-group-aviation-industry-india-11769512763547.html
+- Dollar extends slide as Trump comments spark selloff: What US president said
+  The dollar is under pressure following President Trump's comments suggesting he is not worried about its decline. Despite a slight rise on Wednesday,
+  🔗 https://www.livemint.com/market/dollar-extends-slide-as-trump-comments-spark-selloff-what-us-president-said-11769597131767.html
 
-- China's BYD considers local assembly in India as dealers sit on hundreds of orders
-   BYD Co. is considering local assembly in India to meet rising demand for its electric vehicles. This follows previous rejections for a full assembly plant, reflecting a strategic shift.
-  🔗 https://www.livemint.com/companies/news/byd-could-expand-india-operations-as-demand-begins-to-outstrip-supply-11769569908465.html
+- L&amp;T Q3 results: Net profit drops 4% YoY to  ₹3,215 crore; revenue rises 10% — Details here
+  L&amp;amp;T Q3 results: Net
+  🔗 https://www.livemint.com/market/stock-market-news/lt-q3-results-larsen-toubro-net-profit-drops-4-yoy-to-rs-3-215-crore-revenue-rises-10-details-here-11769602047522.html
 
-- SoftBank in discussions to invest $30 billion more in OpenAI, says report - what we know
-  The move by SoftBank reflects CEO Masayoshi Son's ambitions to play a key role in developing artificial intelligence.
-  🔗 https://www.livemint.com/companies/news/softbank-in-discussions-to-invest-30-billion-more-in-openai-says-report-what-we-know-11769567085722.html
+- US Fed Meeting 2026 LIVE: Jerome Powell-led FOMC set to announce key interest rates; will there be a rate cut?
+  The US Federal Reserve will announce its interest rate decision on January 28, 2026. The decision will come after a recent 25-basis-point rate cut. Catch all LIVE updates
+  🔗 https://www.livemint.com/market/stock-market-news/us-fed-meeting-live-updates-jerome-powell-fomc-policy-decision-today-dow-jones-futures-trump-28-january-2026-11769600170302.html
 
-- Amazon layoffs: Tech giant mistakenly confirms sacking of cloud unit employees in email
-  Employees in Amazon's cloud division, AWS, received a notice
-  🔗 https://www.livemint.com/companies/news/amazon-layoffs-tech-giant-mistakenly-confirms-sacking-of-cloud-unit-employees-in-email-11769566248625.html
+- Gland Pharma Q3 Results: Profit surges 28% YoY to  ₹261 crore; revenue rises 22%
+  Gland Pharma reported a 27.74% increase in Q3 net profit to  ₹261.48 crore. Revenue rose 22.
+  🔗 https://www.livemint.com/market/stock-market-news/gland-pharma-q3-results-profit-surges-28-yoy-to-rs-261-crore-revenue-rises-22-11769601391294.html
 
-- MCX share price rallies over 7.5% to fresh record high as post-earnings rally extends to second day
-  Shares of Multi Commodity Exchange rose 7.7% to  ₹2,605 after strong December quarter results. Revenues up 115% YoY to
-  🔗 https://www.livemint.com/market/stock-market-news/mcx-share-price-rallies-over-7-5-to-fresh-record-high-as-post-earnings-rally-extends-to-second-day-11769579277011.html
+- Elcid Investments Q3 results: Company turns profitable with  ₹47 crore net profit; revenue jumps to  ₹61 crore
+  Elcid Investments reported a net profit of  ₹47.37 crore for the December quarter. Revenue rose to  ⁹61. 37 crore, up from a
+  🔗 https://www.livemint.com/market/stock-market-news/elcid-investments-q3-results-company-turns-profitable-with-rs-47-crore-net-profit-revenue-jumps-to-rs-61-crore-11769599396720.html
 
-- Missed up to 200% gold, silver price rally? Worry not. This metal could emerge as a good bet this year
-  For investors who missed the precious metals rally, copper is increasingly viewed as a strategic opportunity.
-  🔗 https://www.livemint.com/market/stock-market-news/missed-up-to-200-gold-silver-price-rally-worry-not-this-metal-could-emerge-as-a-good-bet-this-year-11769579943438.html
+- Is Instagram listening? How to stop the app from showing creepy hyper-personalized ads
+   Instagram ads can feel eerily personal, leading to misconceptions that the app may be listening to you. Follow this simple guide to make
+  🔗 https://www.livemint.com/technology/tech-news/is-instagram-listening-how-to-stop-the-app-from-showing-creepy-hyper-personalized-ads-11769583440032.html
 
-- Why is Indian stock market not witnessing a sharp rally despite India-EU free trade agreement? Explained
-  Despite the promising India-EU free trade agreement, the Indian stock market is not experiencing a strong rally. Experts cite mixed earnings,
-  🔗 https://www.livemint.com/market/stock-market-news/why-is-indian-stock-market-sensex-nifty-not-witnessing-a-sharp-rally-despite-india-eu-free-trade-agreement-explained-11769575753606.html
-
-- Digilogic Systems share price hits 5% lower circuit after listing at discount
-  Digilogic Systems shares debuted weakly on BSE SME, opening at  ₹83.20. IPO subscription was 1.10 times, with shares priced
-  🔗 https://www.livemint.com/market/ipo/digilogic-systems-share-price-hits-5-lower-circuit-after-listing-at-discount-11769577636678.html
-
-- 11,000% return in five years! Multibagger SME stock jumps following Indian stock market rally
-  Hazoor Multi Projects shares rose over 3% on January 28 after converting its investment in Optionally Convertible Debentures into equity shares of Square Port Shipyard
-  🔗 https://www.livemint.com/market/stock-market-news/11000-return-in-five-years-multibagger-sme-stock-hazoor-multi-projects-share-price-gains-on-indian-stock-market-rally-11769578604114.html
+- Gemini can now fix your pictures in Google Photos with a single prompt: here's how it works
+  Google Photos has now introduced an AI powerd editing feature for users in India. Users can request personalized adjustments in various Indian languages.
+  🔗 https://www.livemint.com/technology/tech-news/gemini-can-now-fix-your-pictures-in-google-photos-with-a-single-prompt-heres-how-it-works-11769586090124.html
 
 - Better than Perplexity and Google AI Mode? Yahoo enters chat with new AI-powered search rival
   Yahoo Scout aims to transform search results into direct answers using user data and web content. The feature is currently available to users in the US in beta.
@@ -92,113 +100,125 @@
   Taiwan, US discuss tech
   🔗 https://www.livemint.com/technology/taiwan-us-discuss-tech-ai-and-drone-cooperation-at-high-level-forum-11769564398839.html
 
-- UK Pledges AI Training for All to Grasp $193 Billion Opportunity
-  Technology Secretary Liz Kendall promises to offer training in artificial intelligence for all UK workers. Government says technology has potential to boost economic output by $193 billion a year.
-  🔗 https://www.livemint.com/technology/uk-pledges-ai-training-for-all-to-grasp-193-billion-opportunity-11769554270972.html
+- Stock market today: S&P 500 hits fresh record with Fed decision, Big Tech earnings bonanza on deck - Yahoo Finance
+  The S&amp;P 500 hits fresh record with Fed decision, Big Tech earnings bonanza on deck.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYi1Oamw3Q2J4dWpLZm1TSDBKblVtbTl2NFpvS0ZCUF92YmJYaEZ0ODVUZVhiTXF4NE1yeHdYVVFmXy1FX1NncmRiOGNvMzdxMmZadl96Q0p3Vm5PdFNfUnR1T2pQQnpGU05Vdm1HUnp4TFV4dmVvWXpYYVRaSmN2dmNfM2VOcFpBYmxlUWVqUGR1TTFNODg2dExEemRyeUFlWFZLTDlmay0tWHRUZWZKWjhmcXlhcGJhdXRoa0MwR2xXcm9TbUlERFBMcXktX0FnZUlhblVmRGZ1WFFTLW9Z?oc=5
 
-- TikTok faces app deletions, censorship claims and glitches in days after its ownership change
-  TikTok faces app deletions, censorship
-  🔗 https://www.livemint.com/technology/tiktok-faces-app-deletions-censorship-claims-and-glitches-in-days-after-its-ownership-change-11769549744429.html
+- BofA's Sebastian Raedler says markets are 'too optimistic' - CNBC
+  BofA's Sebastian Ra
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNamx4LWI3dU5tRVhKZDNLQlhqSjhSc1Nlblh0X3VGSXpwY3JrNHFVa2pud3NrdV9ncWcyU3pRR293d05ZVlVMbTl2X3FlS3hORS1rWVlZcTJCTlIxUU5wN3l5bGFaMEdqWUtBVy1YdlNaTTVHZUZ2Tm5BQy1vVHQ0Mk1GckxNcWdqZUtFdzRaMm1GWGdwbWpmYmxocnVDLVk?oc=5
 
-- Investors urged to wait for Budget before making big bets, says Sunil Subramaniam
-  Market experts advise investors to delay significant moves until the Union Budget is presented. Sunil Subramaniam suggests waiting for the budget to reassess opportunities, highlighting banking, IT, and consumption as
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/investors-urged-to-wait-for-budget-before-making-big-bets-says-sunil-subramaniam/articleshow/127682321.cms
+- Why Japan’s economic plans are sending jitters through global markets - Al Jazeera
+  Why Japan’s economic plans are sending
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTZrZUF4Y0h4WFEwY19CZk1PRlcwcGM1czdhQzR2a2VCQllvaVdzVEZfOXZYQUJ4QzRWdXpJNW5KM0NGZ2VOTzV2ZkpPNWRXb0MwQlRES0Z3emE2bW11SDVlVy02QUpRaWJ4WGh2SUc3WGFaSnFaVWxPTVJXNk1iVGNXN1BIcXNhMWVpQ0s4VVRNbWkwY3Ziamxvd1ZoRGtXVDlmSVliaU0yQmk3QmdYNm9B0gG3AUFVX3lxTE11aFNrWXNqcEc5TnRtdmZDcElVb2sybHZQdTdnVDA0LXRneDA4S29IWFFFNUlwNktCY0lnQWxPREhwR3Z2VHNWTGxUUlRmOF9MemJ0X2FpNXdjS1B2RTdRSFZJSmVmcGZ2aGpicGx1ZDV6dE83aWRBb0hzUWNpUmtDTVFNRUJlTHpuUkNMQW55OTlkQWVndUNscW5lQ0ZIbTFUMDlXQ0VFWmJvYk1tOTBGVjdqLXdXcw?oc=5
 
-- India bonds inch up as RBI moves up debt buying after sell-off
-  Indian sovereign bonds saw a slight increase as the Reserve Bank of India advanced its open market purchases by a week. However, concerns about future supply and a potentially larger borrowing plan for the next fiscal year are expected to temper further gains.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-up-as-rbi-moves-up-debt-buying-after-sell-off/articleshow/127681598.cms
+- FTA benefit to India: EU markets open exports worth Rs 6.4 lakh crore from various states, says Piyush Go - Times of India
+  FTA benefit to India: EU markets open exports worth Rs 6.4 lakh crore from various
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQdk90VVN6WHc0LVV6U1NxdmpSaVJVMGFmYWxIQjlXczY0OUVEN2c0emxjVlR5Uy0tRnlDNUpHdDBYUXZWZXJmLUFJMHliYjlyWTdzY0hBUjc4c2luRUdVOVRYVkN6TTE2Z0g1M3ctRXBoMFczTDlHWl9tZ0hTTHlvNmI3R2hPOVZ3V2FieG9OVHZzNkJob2R0TWMtT1RlVmNhNnZyR21JYjNuLXRsMEx2QUlaWldCaFRXZlVhUTBuUmhDcU0teXR1Z2ppWXFhMDdid29GMTBzS2xlaXF5RkFLLVR0T1hmQnpHVmhCU1dkdDVtRWQyeHJFaXB0ZkUwTnhCdV9iY3dnS0lDTl9EMl9peUU0SWFlOUZCQWFjSdIBogJBVV95cUxNS3RDcHk0V1FXTEEyLVZhU05ZOS0tVkhyblRNUnJ3T3FPZUJodzl3TXJBN2NSdVZWSWk3ZXVjRTRnbDNmd2pocGs5X09HZGJMWkJXbFk5eWt3cXNrVWtza1JSbGNidzdWcGdaTm9TZ3FvdHRyUGFPZXNEMkl5aEtKU1diNzVNZ292b0YxWFIxR0oyTDFWUW9wTERTMzhzb0VSWnR3U0Zta0ZELVN1M3pXUThqZ0RhMEowamJqVFNBUEd3eWZmTl83dnRqOE9HdVlsNTJXbTlGTTd0OFp1TzJHc1hSOVBiMjIyVU5iZC1tR3N1NS1haEMyUWtja1lYLU9DblRhZzNqdG9NbDRFb1pCWTFFWWFyN0V1d1BlcEhIeTBxUQ?oc=5
 
-- One 97 Communications Q3 Preview: Paytm parent may post up to 22% YoY revenue growth. Check PAT, margin expectations
-  Paytm is expected to post another profitable Q3, driven by festive-led demand in payments and financial services. Brokerages forecast a return to year-on-year profitability, around 6%
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/one-97-communications-q3-preview-paytm-parent-may-post-up-to-22-yoy-revenue-growth-check-pat-margin-expectations/articleshow/127681571.cms
+- ‘Mother of all deals’: How India-EU trade deal creates $27 trillion market - Al Jazeera
+  Al Jazeera: India-EU trade deal creates $27
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWJFRm5FdEZCbnNUMzJkVWR2TWlpRkgtdVpFelM1SDVKdWlIRlJEdS1YcjE3c0pvSHNINHRrWWVYaWEyaHE4RHRJUFByajFBNTUtaTdySEpXUHlaMDIxaExGSXAtdzUxRHZETDVzLTh5d2xIdmx5RlJzYUlFREdsUDhHSzY3RmxDeG01MVMzekcwclc1cjRBTmFlQ0tDdndSSmRMMW0xUzdvTm5EMGREOWtxSlPSAboBQVVfeXFMTkNHb3NBdTcwYnFKSU1mMjNWbGxkQnB4MktWZGcyX3g0TFhYemVBWWFQNFYwN2x2cFR2eDg3NTZmWHk3dThsclBpaV80MzN6M2JRLWQyOVdwYXhMSmdURXplbFFYRXE3M1VLMEJTODdPRE91UnlQckNSOFZzUzlWZVlyLWw5RFVlVmV6b2l3MmlBbE1Oc3dYZ1JLTUJYdjZwbUZ4T2tUcnJlRTJTZnJhUFZDdGoyU0Frb21n?oc=5
 
-- How Union Budget 2026 could impact corporate bond yields and investor returns
-  Union Budget 2026 will heavily influence bond markets as its fiscal strategy shapes borrowing levels. With consolidation expected to keep long-term yields anchored, corporate bond spreads may remain tight.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/how-union-budget-2026-could-impact-corporate-bond-yields-and-investor-returns/articleshow/127681275.cms
+- Larsen &amp; Toubro Q3 Results: Cons PAT drops 4% YoY to Rs 3,215 crore, but revenue grows 10%
+  Larsen &amp; Toubro (L&amp;T) reported a 4.3% YoY decline in its December quarter consolidated net profit at Rs 3,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/larsen-toubro-q3-results-cons-pat-drops-4-yoy-to-rs-3215-crore-but-revenue-grows-10/articleshow/127705049.cms
 
-- Oil India shares jump nearly 10%, extend gains for second session. What’s behind the surge?
-  Oil India shares saw a significant jump on Wednesday. This rise followed a sharp increase in global crude oil prices, reaching a four-month peak. Geopolitical tensions, including concerns over US-Iran and Russia-Ukraine conflicts
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/oil-india-shares-jump-nearly-10-extend-gains-for-second-session-whats-behind-the-surge/articleshow/127681076.cms
+- FII exposure in Nifty stocks retreats from peak after Rs 1.6 lakh crore exodus in 2025. Where’s money flowing?
+  Foreign institutional investors have reduced exposure to Nifty 50 stocks. FIIs are selectively increasing positions in mid and smallcaps. Rising DII ownership continues to reshape market structure.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fii-exposure-in-nifty-stocks-retreats-from-peak-after-rs-1-6-lakh-crore-exodus-in-2025-wheres-money-flowing/articleshow/127705083.cms
 
-- "We Delivered The Mother Of All Deals": India-EU Trade Pact Finally Sealed - NDTV
-  "We Delivered The Mother Of All Deals":
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT3h5eDF5VGE0RmIwbGgzR1ZOVGpDWUZOZUEzWDNzWlhtd21EYkxKeWlVRnMyN3hGTmdVQk1KR1lydW5FamlaS1dNNk9CMTB0ZVNMbTVhNmREWFNxUmkta1AzUHJPaTZHRHpkWTlqV204bkptaXgwNWJqRldTRjJGZjF0VkZ5S2ZVb1dWUGRWMGhwQzJ5b2RIMnJpWTQtUkRJNGd1Ync5dFY3SlRyUnk2bXFXaU80a1ZUa21rTHBoQ1pKMGllbE53Z1dPZ0k4d2EzOTZHa1hR0gHeAUFVX3lxTE5iRHdrM2VzM2xpcHhZSXNkYU1iYU9Nbm4xSEt1OFVqY0pzLTFmVjliSkFwemhmQzZMVlN6Z1l6WUk1MkcyNTFIQUxVZVhOdF9FYm1oRzJuWmJkWHFYTGR4c3drb25qempYYlZ2OHJFTWdNV0piREwxTnctdkxXZUQ2NEd4bjJtV3hMU1FJdm54UGNlMm03VkNjdFNMci1WcmxQVWlSZjBrWEs0U18tY2ZHNW9xenR2Q2FkcUtUT0FCeWZoZEdEQ0RKd001a3RTWWNXRERLdV8xRk1xc0VJdw?oc=5
+- CSB Bank shares plunge 14% on flat Q3 PAT, deterioration in asset quality. Here's what management said
+  CSB Bank shares tumbled 14% on Wednesday. The lender reported a flat Q3 profit and a sequential rise in gross and net NPAs. Management said overall business momentum remains strong.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/csb-bank-shares-plunge-14-on-flat-q3-pat-deterioration-in-asset-quality-heres-what-management-said/articleshow/127703710.cms
 
-- Top News Headlines of January 26, 2026 | US deploys aircraft carrier in Middle East region amid tension with Iran - The Indian Express
-  The Indian Express has published an exclusive article on Iran. The article was published on January 26, 20
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1N0RExkdTJDUE1rYXVHNFotOEwzQmNmbnNqUkZvanZ6amN5eDFDS1lTN1Q1MmlRNXdFRjlsSjFpSl9Vd2VTWnlHb1lpLWNxS29UcHlPUl9uaWVONUFmd0Q0TW85UUNjTmoxRGxrbjNncUJtTWNBY3RnUnQtaHVRY1pjWThRUHlSd0pVOVRYUUtkbkZiRlBSVUdjZzk2YzBSMXNqLU83aHhxRnVFMC03VGVTYVhFekZldlgyMkVrcmJrVHhvNGZxZ3p6Z1RIc0o1T2NHQ196eTRjdV9oa3p0RElfTXFQUlcy0gHvAUFVX3lxTE8ydTFSamt2dk1QSWozQ3ZQT1hWalpzU1VtYUwzUXRCLV9TNkFZanV5X3dWQ0FrV0YwcXotdTMyOUFVbkNpQjI1RGdEZWZfR3BaZG9hamxaaWFHWFhvZGlteUswMVBQd2ExYmFTUHk0UnAyOEJUX19UUHBmamZ2bEZXaVNERU1wOFRRdVZ5NV9YanBXMUJCYnVCa2ctd3Z3Y0w2cFdmdG1UQ0FRVkR4VXp4c3RXaHhHOE9obll3VVI5aFZvZU9jV25PMk1RZl94SUZmZ09lZEFjZWpCa05Qc0JzVWlOTGhlN1hmRnZKZG5j?oc=5
+- US stock index futures rise as Wall Street braces for big-tech earnings
+  U.S. stock index futures rose on Wednesday, helped by gains in chip stocks. Investors geared up for quarterly earnings results of some of the so
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-index-futures-rise-as-wall-street-braces-for-big-tech-earnings/articleshow/127703231.cms
 
-- Ajit Pawar, Sanjay Gandhi: Indian Leaders Lost To Aviation Accidents - NDTV
-  Ajit Pawar, Sanjay Gandhi
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS2ZTNnBjSEtZeU9iZlhTZmZFVV9LTHlFbEI5LXVjVEI0WWRLb24ydU5Kc3A2VzFWUG5ncTcxbzZFVjRra090aV9YVHYzNkk3NVRIcVdzNUNFNmN4aXpRTWFadFdvYksyVVJObDJmaUU2cjZyNzdOUTNadndwVzgtU09XM2d6d25lOVVac2hvY0R3Wm41M1NaSTc4T2JLR1pDdnVBa1R1NDAyeXYyRkE0ckpaZHE5cVJfZ3R2aDdyRmwtMUd3REU1WS1PcEF2S2lnWS1aX1pB0gHeAUFVX3lxTE5ac0ttdjZEZVVHOHVZOWdSQllyNUswNXRXVF9zQ0RSV3lLYl8tTW12dzM5SWxYeFRQVmZkSmZDWHJaMXZnU1Jnal9pX190UFA4ekQzZVZ4bXowb0lFQVE3WFJMbjFRemRySGJ2d1U0cVBlTW1PZW9TdlphZlhiLU11RjFFNTNtVEhHWl9zYXN0SVVWRHpLQ2ZrSXExeTM3NzRYYkRrQmNHeUszZUZyYzFhZDNVQngtZUZsVFFNRWY2YUMyaERDT3hrVnNidjNQaW5rdkc4Mk53SEdzZG9WUQ?oc=5
+- MFs trim stakes in 11 smallcap stocks over two quarters; shares tumble up to 55%
+  Mutual funds trimmed stakes in 148 small-cap stocks over two quarters. 11 names crashed up to 55% in six months.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mfs-trim-stakes-in-11-smallcap-stocks-over-two-quarters-shares-tumble-up-to-55/slideshow/127703087.cms
 
-- 'I now respond': Indian envoy shreds Pakistan at UN over 'false' Operation Sindoor account | India News - Hindustan Times
-  'I now respond': Indian envoy shreds Pakistan at UN over 'false'
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTGotU2pUTnVaRDZIdDhPRnNJSmpPNS1VVzdsclJtWFVJNHRKVGdYb0JySG1vZ3pYazdpYkRmSW9SbE81d1BUajJpZ004NDItU3JOREoycmllZWk0MFZ0VUVhcnhXd09hNjdoVnpVN3M0bGs4MVQ5ckI1aG0wMXNpaGx2LVIySnRzU1pFaUNUR3lXdFl2UUozRDhoWVBkQVEtWDJnRHVWS2lVT3oyV0FMdGgtTjVaYWJxMzFOaHdSQjhvMlNmeXhMR1VNVXpzcXhjbjVhRzJ0elhuRVhqc1JxUlNERnZXcVNIN2RrREJaZFFyT2ZTZHU5eGVfcXRQbknSAYQCQVVfeXFMUDZ6RkcySXdrLWRTY2lxODhvX2dvcmMweDJFNWVQUTBZTFEtRWRORWVGTE1pVUhOUVlld0VaRDJSUnlyLWVNYmFPRVZ2Yzl5YTRHMmRwallSaXR2Q0xhWlo5Zk55aXlfNG1tWGZHc0o1SEwtZWVUSXJaRGpFNUpfMFlHYnRtOVh3ZGt1dzlvQjljUXhycHZhZDVINVBvY05UYkJQaVE1NkkyT181VXNtYmF1UW56alpfamhldEhvOGVuQ3phVTdQdVNCVVdPOUhXZUpOZE1wVUN4ZU5md0IySTV2WFJnR3RvWEV5THdIMk1qejlnb2lWSnoyRFFQUlhLUGE2dVU?oc=5
+- 'Europe Funding War Against Itself With India-EU Trade Deal': Team Trump - NDTV
+  'Europe Funding War Against Itself With India
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUY5RUZDblFjRU0wbkhhNUtNOXlpOTBLQzBzZWJ1WmIzMGJaMTJKdmpBZXI3QWZqT2hLb1hfWnJROTU4emlhV2ktbHRZRUVBeWl3QjBPaVQzX25GMnRLdzNoMnNwT053Ukh3bHQ5aXR0UFpVRkZ1Tm1mU2h5YXJNTUFXQkRTaWNrWS00OWhzVlZYdFVPU2xnQXJiY2R3OFA5SXAtS09MekxYRGEwZmpCaERuSzkydG1tc2hmT0ZUNNIBxwFBVV95cUxOWk1vLTBndVNmN2RFZGgxTVEyZ0R6TzJ4OEE4cE9qam5YNVhaaWVzUVl4d3F6bUVNZDZxRUZVSG5SMXVuWC01ell2cW02SjJnZ1BoWTc3U1NxQU5nQ3V5b1dhQUlpRjdTaHpIWWFxNkZTSWhsdFpmbExENWdpMkhxakpiRDVkSEdSYkt0X1p5WWgxWElIWjA4a3NXaWVhYlhQUldVWWZSaFkyRm9DZDAxeTNNOVYwQ2o5RUVEQXIyX2k3Si1CNk9v?oc=5
 
-- Evening news wrap: India flexes might on 77th Republic Day parade; UAE scraps Pakistan airport deal & mor - Times of India
-  The Times of India reports on India's 77th Republic Day parade. India to celebrate
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaF96aEE5UG1KX0JBWlpjbmN3eE9sTHVWU2VGcTBnRkQydWZDcmdzbXk5MVMwVUx1RGFDVUc4R2pMbW9hMXg5ZHlfVUVrZWY5enRnSERlaWNiMThXVmxhbW9YM2lsYnp0SlFQWnJGLWZZSkpYNG8yM1FXb1QxaE51OWxlajJKbEpicWczMzBwd0ZpZ0M3Sm5rbFUzOUhXNi10cXJIV2h5ZWxJOUw0cXdDQXdZeTZSOHZ0ejFMdXV4ci1sOWJKRzk0OUVvYlZ6V2xjLUFoY3FHQjFLRXB5ZHAtNUF3eVFObGVkaHgyc0lTZEREY1puSE1KYlZPdk9GbWvSAYQCQVVfeXFMTV9RSjJSOXNhVGtlZEJqR3NLcWh4OG5ZdlhPV3o1T21pdjJVcFFqbFBjZG1HZ19SSHR1aVlOSkZtbDB3REg1X0hOaGZzUm1kOG85SUp3TkJpY2t1QURUbHpxWFRtT0NKS0FQd0FBTWN5ckRoRVpIZGFsbklyZGdfSTVXZU1BYmZ4MmZob1lvNXhtV25nMVUzZktrcElNcWswaUdtM19kSEZDWkU5RDQ1eUNybWNtanpXdGM5RkZ1bFcyUzdKU0tiNW5rd1FOX3RabzBtd01WWGJOcHhBcG1XNXR0ZTJRMGdZUHhfZUNld1NDX195S1VrQXFxMGN3MWRCcE1QUEY?oc=5
+- President Xi says India, China ‘friends, partners’ in Republic Day message - Al Jazeera
+  President Xi says India, China ‘friends,
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0ZEVXlPaGRkeEFuOXVIcTdZZFV6V0JQb0hYa0VId05Bc2NWcldaVjcyRHdBUTZKcVVyOXk2aGhZeWtJWGpFXy1xTm5maFNjWmNBX2VBcy1uemszeVJfYmg2cXczMHljbVdaYjVfLXBVejhua2RsUThsNWpqb0d3dlJXMi1Edm1YN0ZRSE5pcUN5OWo3Q0ZNamxKakVQcGowMFo5UTgwMjRGODNVUWxpbtIBtgFBVV95cUxNd285Z3F3MzVWUkwtVi14eDk5eUVONW9QNTdybGJfaUdvdUZMTFVNSG50aFRRck0tNXBuRENoR0RLQ2RIandHS1R6cDRvN2I4VmFqQ05ZY3haNkZaZzdSOUdSRko3bVYxZEp4OHJiMU02RnRQTGVRSkNLTGdaMVFJUWNoN3BLQlZpNzRUOFQwRXJ4SkJhMlNnZDYtRlBjYXlscVEyd05YRWZFeElqSS1HVGIzQWhNZw?oc=5
 
-- "We Delivered The Mother Of All Deals": India-EU Trade Pact Finally Sealed - NDTV
-  "We Delivered The Mother Of All Deals":
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT3h5eDF5VGE0RmIwbGgzR1ZOVGpDWUZOZUEzWDNzWlhtd21EYkxKeWlVRnMyN3hGTmdVQk1KR1lydW5FamlaS1dNNk9CMTB0ZVNMbTVhNmREWFNxUmkta1AzUHJPaTZHRHpkWTlqV204bkptaXgwNWJqRldTRjJGZjF0VkZ5S2ZVb1dWUGRWMGhwQzJ5b2RIMnJpWTQtUkRJNGd1Ync5dFY3SlRyUnk2bXFXaU80a1ZUa21rTHBoQ1pKMGllbE53Z1dPZ0k4d2EzOTZHa1hR0gHeAUFVX3lxTE5iRHdrM2VzM2xpcHhZSXNkYU1iYU9Nbm4xSEt1OFVqY0pzLTFmVjliSkFwemhmQzZMVlN6Z1l6WUk1MkcyNTFIQUxVZVhOdF9FYm1oRzJuWmJkWHFYTGR4c3drb25qempYYlZ2OHJFTWdNV0piREwxTnctdkxXZUQ2NEd4bjJtV3hMU1FJdm54UGNlMm03VkNjdFNMci1WcmxQVWlSZjBrWEs0U18tY2ZHNW9xenR2Q2FkcUtUT0FCeWZoZEdEQ0RKd001a3RTWWNXRERLdV8xRk1xc0VJdw?oc=5
+- Before the first missiles fly: AI, cyber & electronic warfare - how India is preparing for invisible batt - Times of India
+  The Times of India reports that India is preparing for an invisible war.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNU0pQSGl3TUVwczh1dzZCVUU1OHkxaVJoRmpvUE5DamxSX1RjXzBYQXh0NS1JVGFrUjVfTlBMT2dSUHZyc0IxN0NleFh1Snk0eU9JbDlJZUs3ODBrdUE5bzFxQnpyWUFPaFhadEJSZmNxMnBLbkFFUmZ4a0hGWDNQY09YSjgtQkcyX01QYmtkcTQyVVB0OUx4QTF5TjRsVnNybEY2NXpJSmtETTBVWFYxSTdRSk1Od3JyVFZlbUxhVlphTlVPQ1Z6MHI4SzFkckJhcHR5UmFyaUZlR2xodHJlN0N4UE00RGF5V1FzTmloR0NCa3Mzbkw4ampGbXVrUGtEYWhtaGQ2Vnh3Y19GaHkw0gGUAkFVX3lxTE12cHRTN0FWWkpCeU92aGZRN2RfVUJaV1NrME5zWU9LWDg2RndtOVdOMWJKdWNsaVdjcndWc3ZjWjVYWHQ4LXYySzVyd055N2NyOEM0enBhakdBTEhvTUtta3MtN3dRcUpneGxRejFOUzFTQUJvSWZSNzE5ME54VjAxc3BGNjhEang5VVpDRTJPenRxN0t2V29SOXF3VnZNSnNmZGoyQjdHODNCX1lFXy02TUtuYmtBaEtpbEwweV9oRS1qZjNRb19UUENOclJod0hvWVpSakxzXy1wcHJ3M3BpUDZWTE5SbU1EMXk3MEJiT2NXLVRnYXoxbEtDS1U4VVBjM2IwT3NHSG1odmd0dnhkVnZIeg?oc=5
 
-- Top News Headlines of January 26, 2026 | US deploys aircraft carrier in Middle East region amid tension with Iran - The Indian Express
-  The Indian Express has published an exclusive article on Iran. The article was published on January 26, 20
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1N0RExkdTJDUE1rYXVHNFotOEwzQmNmbnNqUkZvanZ6amN5eDFDS1lTN1Q1MmlRNXdFRjlsSjFpSl9Vd2VTWnlHb1lpLWNxS29UcHlPUl9uaWVONUFmd0Q0TW85UUNjTmoxRGxrbjNncUJtTWNBY3RnUnQtaHVRY1pjWThRUHlSd0pVOVRYUUtkbkZiRlBSVUdjZzk2YzBSMXNqLU83aHhxRnVFMC03VGVTYVhFekZldlgyMkVrcmJrVHhvNGZxZ3p6Z1RIc0o1T2NHQ196eTRjdV9oa3p0RElfTXFQUlcy0gHvAUFVX3lxTE8ydTFSamt2dk1QSWozQ3ZQT1hWalpzU1VtYUwzUXRCLV9TNkFZanV5X3dWQ0FrV0YwcXotdTMyOUFVbkNpQjI1RGdEZWZfR3BaZG9hamxaaWFHWFhvZGlteUswMVBQd2ExYmFTUHk0UnAyOEJUX19UUHBmamZ2bEZXaVNERU1wOFRRdVZ5NV9YanBXMUJCYnVCa2ctd3Z3Y0w2cFdmdG1UQ0FRVkR4VXp4c3RXaHhHOE9obll3VVI5aFZvZU9jV25PMk1RZl94SUZmZ09lZEFjZWpCa05Qc0JzVWlOTGhlN1hmRnZKZG5j?oc=5
+- India-EU trade deal under the looming shadow of Donald Trump - BBC
+  India-EU trade deal under the looming
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JbmJwZ3lpcHlMdHotNjh1djZkTk9TTFloWERRdUE2aW9PRW5aTWVWdHdSRk5ZQm0zc1JFV1dHekFkcnFfd2FKM2w3V21TaXlwXzc1M2N3OXlvZw?oc=5
 
-- Ajit Pawar, Sanjay Gandhi: Indian Leaders Lost To Aviation Accidents - NDTV
-  Ajit Pawar, Sanjay Gandhi
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS2ZTNnBjSEtZeU9iZlhTZmZFVV9LTHlFbEI5LXVjVEI0WWRLb24ydU5Kc3A2VzFWUG5ncTcxbzZFVjRra090aV9YVHYzNkk3NVRIcVdzNUNFNmN4aXpRTWFadFdvYksyVVJObDJmaUU2cjZyNzdOUTNadndwVzgtU09XM2d6d25lOVVac2hvY0R3Wm41M1NaSTc4T2JLR1pDdnVBa1R1NDAyeXYyRkE0ckpaZHE5cVJfZ3R2aDdyRmwtMUd3REU1WS1PcEF2S2lnWS1aX1pB0gHeAUFVX3lxTE5ac0ttdjZEZVVHOHVZOWdSQllyNUswNXRXVF9zQ0RSV3lLYl8tTW12dzM5SWxYeFRQVmZkSmZDWHJaMXZnU1Jnal9pX190UFA4ekQzZVZ4bXowb0lFQVE3WFJMbjFRemRySGJ2d1U0cVBlTW1PZW9TdlphZlhiLU11RjFFNTNtVEhHWl9zYXN0SVVWRHpLQ2ZrSXExeTM3NzRYYkRrQmNHeUszZUZyYzFhZDNVQngtZUZsVFFNRWY2YUMyaERDT3hrVnNidjNQaW5rdkc4Mk53SEdzZG9WUQ?oc=5
+- Deputy chief minister of India's Maharashtra state among five dead in air charter crash - Reuters
+  Deputy chief minister of India's Maharashtra state among five dead
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOcHRkU2lLdWlQMmZuak5neUxVQU9SOGh3N3RRREtjZ0hWRG04WUE3V1VPVDY0MVJrVldTTjU3ZGpxMm85UU1zcHRQdHdHbmRERzhERnVEOEZsblM1UTA2emNhb0tWZEFCUk5RNUg3eFpWUE50UnJLZjBYeU8yZmRCMi1iOGo4dmRpaWo0aWJBb1lOaVR4MHdKcHh4dTZKcnYyZ1RHVGpodVdQLUUxdXVKMU1vWDdseUVxckdLa0RR?oc=5
 
-- 'I now respond': Indian envoy shreds Pakistan at UN over 'false' Operation Sindoor account | India News - Hindustan Times
-  'I now respond': Indian envoy shreds Pakistan at UN over 'false'
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTGotU2pUTnVaRDZIdDhPRnNJSmpPNS1VVzdsclJtWFVJNHRKVGdYb0JySG1vZ3pYazdpYkRmSW9SbE81d1BUajJpZ004NDItU3JOREoycmllZWk0MFZ0VUVhcnhXd09hNjdoVnpVN3M0bGs4MVQ5ckI1aG0wMXNpaGx2LVIySnRzU1pFaUNUR3lXdFl2UUozRDhoWVBkQVEtWDJnRHVWS2lVT3oyV0FMdGgtTjVaYWJxMzFOaHdSQjhvMlNmeXhMR1VNVXpzcXhjbjVhRzJ0elhuRVhqc1JxUlNERnZXcVNIN2RrREJaZFFyT2ZTZHU5eGVfcXRQbknSAYQCQVVfeXFMUDZ6RkcySXdrLWRTY2lxODhvX2dvcmMweDJFNWVQUTBZTFEtRWRORWVGTE1pVUhOUVlld0VaRDJSUnlyLWVNYmFPRVZ2Yzl5YTRHMmRwallSaXR2Q0xhWlo5Zk55aXlfNG1tWGZHc0o1SEwtZWVUSXJaRGpFNUpfMFlHYnRtOVh3ZGt1dzlvQjljUXhycHZhZDVINVBvY05UYkJQaVE1NkkyT181VXNtYmF1UW56alpfamhldEhvOGVuQ3phVTdQdVNCVVdPOUhXZUpOZE1wVUN4ZU5md0IySTV2WFJnR3RvWEV5THdIMk1qejlnb2lWSnoyRFFQUlhLUGE2dVU?oc=5
+- 'Europe Funding War Against Itself With India-EU Trade Deal': Team Trump - NDTV
+  'Europe Funding War Against Itself With India
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUY5RUZDblFjRU0wbkhhNUtNOXlpOTBLQzBzZWJ1WmIzMGJaMTJKdmpBZXI3QWZqT2hLb1hfWnJROTU4emlhV2ktbHRZRUVBeWl3QjBPaVQzX25GMnRLdzNoMnNwT053Ukh3bHQ5aXR0UFpVRkZ1Tm1mU2h5YXJNTUFXQkRTaWNrWS00OWhzVlZYdFVPU2xnQXJiY2R3OFA5SXAtS09MekxYRGEwZmpCaERuSzkydG1tc2hmT0ZUNNIBxwFBVV95cUxOWk1vLTBndVNmN2RFZGgxTVEyZ0R6TzJ4OEE4cE9qam5YNVhaaWVzUVl4d3F6bUVNZDZxRUZVSG5SMXVuWC01ell2cW02SjJnZ1BoWTc3U1NxQU5nQ3V5b1dhQUlpRjdTaHpIWWFxNkZTSWhsdFpmbExENWdpMkhxakpiRDVkSEdSYkt0X1p5WWgxWElIWjA4a3NXaWVhYlhQUldVWWZSaFkyRm9DZDAxeTNNOVYwQ2o5RUVEQXIyX2k3Si1CNk9v?oc=5
 
-- Evening news wrap: India flexes might on 77th Republic Day parade; UAE scraps Pakistan airport deal & mor - Times of India
-  The Times of India reports on India's 77th Republic Day parade. India to celebrate
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaF96aEE5UG1KX0JBWlpjbmN3eE9sTHVWU2VGcTBnRkQydWZDcmdzbXk5MVMwVUx1RGFDVUc4R2pMbW9hMXg5ZHlfVUVrZWY5enRnSERlaWNiMThXVmxhbW9YM2lsYnp0SlFQWnJGLWZZSkpYNG8yM1FXb1QxaE51OWxlajJKbEpicWczMzBwd0ZpZ0M3Sm5rbFUzOUhXNi10cXJIV2h5ZWxJOUw0cXdDQXdZeTZSOHZ0ejFMdXV4ci1sOWJKRzk0OUVvYlZ6V2xjLUFoY3FHQjFLRXB5ZHAtNUF3eVFObGVkaHgyc0lTZEREY1puSE1KYlZPdk9GbWvSAYQCQVVfeXFMTV9RSjJSOXNhVGtlZEJqR3NLcWh4OG5ZdlhPV3o1T21pdjJVcFFqbFBjZG1HZ19SSHR1aVlOSkZtbDB3REg1X0hOaGZzUm1kOG85SUp3TkJpY2t1QURUbHpxWFRtT0NKS0FQd0FBTWN5ckRoRVpIZGFsbklyZGdfSTVXZU1BYmZ4MmZob1lvNXhtV25nMVUzZktrcElNcWswaUdtM19kSEZDWkU5RDQ1eUNybWNtanpXdGM5RkZ1bFcyUzdKU0tiNW5rd1FOX3RabzBtd01WWGJOcHhBcG1XNXR0ZTJRMGdZUHhfZUNld1NDX195S1VrQXFxMGN3MWRCcE1QUEY?oc=5
+- President Xi says India, China ‘friends, partners’ in Republic Day message - Al Jazeera
+  President Xi says India, China ‘friends,
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0ZEVXlPaGRkeEFuOXVIcTdZZFV6V0JQb0hYa0VId05Bc2NWcldaVjcyRHdBUTZKcVVyOXk2aGhZeWtJWGpFXy1xTm5maFNjWmNBX2VBcy1uemszeVJfYmg2cXczMHljbVdaYjVfLXBVejhua2RsUThsNWpqb0d3dlJXMi1Edm1YN0ZRSE5pcUN5OWo3Q0ZNamxKakVQcGowMFo5UTgwMjRGODNVUWxpbtIBtgFBVV95cUxNd285Z3F3MzVWUkwtVi14eDk5eUVONW9QNTdybGJfaUdvdUZMTFVNSG50aFRRck0tNXBuRENoR0RLQ2RIandHS1R6cDRvN2I4VmFqQ05ZY3haNkZaZzdSOUdSRko3bVYxZEp4OHJiMU02RnRQTGVRSkNLTGdaMVFJUWNoN3BLQlZpNzRUOFQwRXJ4SkJhMlNnZDYtRlBjYXlscVEyd05YRWZFeElqSS1HVGIzQWhNZw?oc=5
 
-- "We Delivered The Mother Of All Deals": India-EU Trade Pact Finally Sealed - NDTV
-  "We Delivered The Mother Of All Deals":
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT3h5eDF5VGE0RmIwbGgzR1ZOVGpDWUZOZUEzWDNzWlhtd21EYkxKeWlVRnMyN3hGTmdVQk1KR1lydW5FamlaS1dNNk9CMTB0ZVNMbTVhNmREWFNxUmkta1AzUHJPaTZHRHpkWTlqV204bkptaXgwNWJqRldTRjJGZjF0VkZ5S2ZVb1dWUGRWMGhwQzJ5b2RIMnJpWTQtUkRJNGd1Ync5dFY3SlRyUnk2bXFXaU80a1ZUa21rTHBoQ1pKMGllbE53Z1dPZ0k4d2EzOTZHa1hR0gHeAUFVX3lxTE5iRHdrM2VzM2xpcHhZSXNkYU1iYU9Nbm4xSEt1OFVqY0pzLTFmVjliSkFwemhmQzZMVlN6Z1l6WUk1MkcyNTFIQUxVZVhOdF9FYm1oRzJuWmJkWHFYTGR4c3drb25qempYYlZ2OHJFTWdNV0piREwxTnctdkxXZUQ2NEd4bjJtV3hMU1FJdm54UGNlMm03VkNjdFNMci1WcmxQVWlSZjBrWEs0U18tY2ZHNW9xenR2Q2FkcUtUT0FCeWZoZEdEQ0RKd001a3RTWWNXRERLdV8xRk1xc0VJdw?oc=5
+- Before the first missiles fly: AI, cyber & electronic warfare - how India is preparing for invisible batt - Times of India
+  The Times of India reports that India is preparing for an invisible war.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNU0pQSGl3TUVwczh1dzZCVUU1OHkxaVJoRmpvUE5DamxSX1RjXzBYQXh0NS1JVGFrUjVfTlBMT2dSUHZyc0IxN0NleFh1Snk0eU9JbDlJZUs3ODBrdUE5bzFxQnpyWUFPaFhadEJSZmNxMnBLbkFFUmZ4a0hGWDNQY09YSjgtQkcyX01QYmtkcTQyVVB0OUx4QTF5TjRsVnNybEY2NXpJSmtETTBVWFYxSTdRSk1Od3JyVFZlbUxhVlphTlVPQ1Z6MHI4SzFkckJhcHR5UmFyaUZlR2xodHJlN0N4UE00RGF5V1FzTmloR0NCa3Mzbkw4ampGbXVrUGtEYWhtaGQ2Vnh3Y19GaHkw0gGUAkFVX3lxTE12cHRTN0FWWkpCeU92aGZRN2RfVUJaV1NrME5zWU9LWDg2RndtOVdOMWJKdWNsaVdjcndWc3ZjWjVYWHQ4LXYySzVyd055N2NyOEM0enBhakdBTEhvTUtta3MtN3dRcUpneGxRejFOUzFTQUJvSWZSNzE5ME54VjAxc3BGNjhEang5VVpDRTJPenRxN0t2V29SOXF3VnZNSnNmZGoyQjdHODNCX1lFXy02TUtuYmtBaEtpbEwweV9oRS1qZjNRb19UUENOclJod0hvWVpSakxzXy1wcHJ3M3BpUDZWTE5SbU1EMXk3MEJiT2NXLVRnYXoxbEtDS1U4VVBjM2IwT3NHSG1odmd0dnhkVnZIeg?oc=5
 
-- Top News Headlines of January 26, 2026 | US deploys aircraft carrier in Middle East region amid tension with Iran - The Indian Express
-  The Indian Express has published an exclusive article on Iran. The article was published on January 26, 20
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1N0RExkdTJDUE1rYXVHNFotOEwzQmNmbnNqUkZvanZ6amN5eDFDS1lTN1Q1MmlRNXdFRjlsSjFpSl9Vd2VTWnlHb1lpLWNxS29UcHlPUl9uaWVONUFmd0Q0TW85UUNjTmoxRGxrbjNncUJtTWNBY3RnUnQtaHVRY1pjWThRUHlSd0pVOVRYUUtkbkZiRlBSVUdjZzk2YzBSMXNqLU83aHhxRnVFMC03VGVTYVhFekZldlgyMkVrcmJrVHhvNGZxZ3p6Z1RIc0o1T2NHQ196eTRjdV9oa3p0RElfTXFQUlcy0gHvAUFVX3lxTE8ydTFSamt2dk1QSWozQ3ZQT1hWalpzU1VtYUwzUXRCLV9TNkFZanV5X3dWQ0FrV0YwcXotdTMyOUFVbkNpQjI1RGdEZWZfR3BaZG9hamxaaWFHWFhvZGlteUswMVBQd2ExYmFTUHk0UnAyOEJUX19UUHBmamZ2bEZXaVNERU1wOFRRdVZ5NV9YanBXMUJCYnVCa2ctd3Z3Y0w2cFdmdG1UQ0FRVkR4VXp4c3RXaHhHOE9obll3VVI5aFZvZU9jV25PMk1RZl94SUZmZ09lZEFjZWpCa05Qc0JzVWlOTGhlN1hmRnZKZG5j?oc=5
+- India-EU trade deal under the looming shadow of Donald Trump - BBC
+  India-EU trade deal under the looming
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JbmJwZ3lpcHlMdHotNjh1djZkTk9TTFloWERRdUE2aW9PRW5aTWVWdHdSRk5ZQm0zc1JFV1dHekFkcnFfd2FKM2w3V21TaXlwXzc1M2N3OXlvZw?oc=5
 
-- Ajit Pawar, Sanjay Gandhi: Indian Leaders Lost To Aviation Accidents - NDTV
-  Ajit Pawar, Sanjay Gandhi
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS2ZTNnBjSEtZeU9iZlhTZmZFVV9LTHlFbEI5LXVjVEI0WWRLb24ydU5Kc3A2VzFWUG5ncTcxbzZFVjRra090aV9YVHYzNkk3NVRIcVdzNUNFNmN4aXpRTWFadFdvYksyVVJObDJmaUU2cjZyNzdOUTNadndwVzgtU09XM2d6d25lOVVac2hvY0R3Wm41M1NaSTc4T2JLR1pDdnVBa1R1NDAyeXYyRkE0ckpaZHE5cVJfZ3R2aDdyRmwtMUd3REU1WS1PcEF2S2lnWS1aX1pB0gHeAUFVX3lxTE5ac0ttdjZEZVVHOHVZOWdSQllyNUswNXRXVF9zQ0RSV3lLYl8tTW12dzM5SWxYeFRQVmZkSmZDWHJaMXZnU1Jnal9pX190UFA4ekQzZVZ4bXowb0lFQVE3WFJMbjFRemRySGJ2d1U0cVBlTW1PZW9TdlphZlhiLU11RjFFNTNtVEhHWl9zYXN0SVVWRHpLQ2ZrSXExeTM3NzRYYkRrQmNHeUszZUZyYzFhZDNVQngtZUZsVFFNRWY2YUMyaERDT3hrVnNidjNQaW5rdkc4Mk53SEdzZG9WUQ?oc=5
+- Deputy chief minister of India's Maharashtra state among five dead in air charter crash - Reuters
+  Deputy chief minister of India's Maharashtra state among five dead
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOcHRkU2lLdWlQMmZuak5neUxVQU9SOGh3N3RRREtjZ0hWRG04WUE3V1VPVDY0MVJrVldTTjU3ZGpxMm85UU1zcHRQdHdHbmRERzhERnVEOEZsblM1UTA2emNhb0tWZEFCUk5RNUg3eFpWUE50UnJLZjBYeU8yZmRCMi1iOGo4dmRpaWo0aWJBb1lOaVR4MHdKcHh4dTZKcnYyZ1RHVGpodVdQLUUxdXVKMU1vWDdseUVxckdLa0RR?oc=5
 
-- 'I now respond': Indian envoy shreds Pakistan at UN over 'false' Operation Sindoor account | India News - Hindustan Times
-  'I now respond': Indian envoy shreds Pakistan at UN over 'false'
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTGotU2pUTnVaRDZIdDhPRnNJSmpPNS1VVzdsclJtWFVJNHRKVGdYb0JySG1vZ3pYazdpYkRmSW9SbE81d1BUajJpZ004NDItU3JOREoycmllZWk0MFZ0VUVhcnhXd09hNjdoVnpVN3M0bGs4MVQ5ckI1aG0wMXNpaGx2LVIySnRzU1pFaUNUR3lXdFl2UUozRDhoWVBkQVEtWDJnRHVWS2lVT3oyV0FMdGgtTjVaYWJxMzFOaHdSQjhvMlNmeXhMR1VNVXpzcXhjbjVhRzJ0elhuRVhqc1JxUlNERnZXcVNIN2RrREJaZFFyT2ZTZHU5eGVfcXRQbknSAYQCQVVfeXFMUDZ6RkcySXdrLWRTY2lxODhvX2dvcmMweDJFNWVQUTBZTFEtRWRORWVGTE1pVUhOUVlld0VaRDJSUnlyLWVNYmFPRVZ2Yzl5YTRHMmRwallSaXR2Q0xhWlo5Zk55aXlfNG1tWGZHc0o1SEwtZWVUSXJaRGpFNUpfMFlHYnRtOVh3ZGt1dzlvQjljUXhycHZhZDVINVBvY05UYkJQaVE1NkkyT181VXNtYmF1UW56alpfamhldEhvOGVuQ3phVTdQdVNCVVdPOUhXZUpOZE1wVUN4ZU5md0IySTV2WFJnR3RvWEV5THdIMk1qejlnb2lWSnoyRFFQUlhLUGE2dVU?oc=5
+- 'Europe Funding War Against Itself With India-EU Trade Deal': Team Trump - NDTV
+  'Europe Funding War Against Itself With India
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUY5RUZDblFjRU0wbkhhNUtNOXlpOTBLQzBzZWJ1WmIzMGJaMTJKdmpBZXI3QWZqT2hLb1hfWnJROTU4emlhV2ktbHRZRUVBeWl3QjBPaVQzX25GMnRLdzNoMnNwT053Ukh3bHQ5aXR0UFpVRkZ1Tm1mU2h5YXJNTUFXQkRTaWNrWS00OWhzVlZYdFVPU2xnQXJiY2R3OFA5SXAtS09MekxYRGEwZmpCaERuSzkydG1tc2hmT0ZUNNIBxwFBVV95cUxOWk1vLTBndVNmN2RFZGgxTVEyZ0R6TzJ4OEE4cE9qam5YNVhaaWVzUVl4d3F6bUVNZDZxRUZVSG5SMXVuWC01ell2cW02SjJnZ1BoWTc3U1NxQU5nQ3V5b1dhQUlpRjdTaHpIWWFxNkZTSWhsdFpmbExENWdpMkhxakpiRDVkSEdSYkt0X1p5WWgxWElIWjA4a3NXaWVhYlhQUldVWWZSaFkyRm9DZDAxeTNNOVYwQ2o5RUVEQXIyX2k3Si1CNk9v?oc=5
 
-- Evening news wrap: India flexes might on 77th Republic Day parade; UAE scraps Pakistan airport deal & mor - Times of India
-  The Times of India reports on India's 77th Republic Day parade. India to celebrate
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaF96aEE5UG1KX0JBWlpjbmN3eE9sTHVWU2VGcTBnRkQydWZDcmdzbXk5MVMwVUx1RGFDVUc4R2pMbW9hMXg5ZHlfVUVrZWY5enRnSERlaWNiMThXVmxhbW9YM2lsYnp0SlFQWnJGLWZZSkpYNG8yM1FXb1QxaE51OWxlajJKbEpicWczMzBwd0ZpZ0M3Sm5rbFUzOUhXNi10cXJIV2h5ZWxJOUw0cXdDQXdZeTZSOHZ0ejFMdXV4ci1sOWJKRzk0OUVvYlZ6V2xjLUFoY3FHQjFLRXB5ZHAtNUF3eVFObGVkaHgyc0lTZEREY1puSE1KYlZPdk9GbWvSAYQCQVVfeXFMTV9RSjJSOXNhVGtlZEJqR3NLcWh4OG5ZdlhPV3o1T21pdjJVcFFqbFBjZG1HZ19SSHR1aVlOSkZtbDB3REg1X0hOaGZzUm1kOG85SUp3TkJpY2t1QURUbHpxWFRtT0NKS0FQd0FBTWN5ckRoRVpIZGFsbklyZGdfSTVXZU1BYmZ4MmZob1lvNXhtV25nMVUzZktrcElNcWswaUdtM19kSEZDWkU5RDQ1eUNybWNtanpXdGM5RkZ1bFcyUzdKU0tiNW5rd1FOX3RabzBtd01WWGJOcHhBcG1XNXR0ZTJRMGdZUHhfZUNld1NDX195S1VrQXFxMGN3MWRCcE1QUEY?oc=5
+- President Xi says India, China ‘friends, partners’ in Republic Day message - Al Jazeera
+  President Xi says India, China ‘friends,
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0ZEVXlPaGRkeEFuOXVIcTdZZFV6V0JQb0hYa0VId05Bc2NWcldaVjcyRHdBUTZKcVVyOXk2aGhZeWtJWGpFXy1xTm5maFNjWmNBX2VBcy1uemszeVJfYmg2cXczMHljbVdaYjVfLXBVejhua2RsUThsNWpqb0d3dlJXMi1Edm1YN0ZRSE5pcUN5OWo3Q0ZNamxKakVQcGowMFo5UTgwMjRGODNVUWxpbtIBtgFBVV95cUxNd285Z3F3MzVWUkwtVi14eDk5eUVONW9QNTdybGJfaUdvdUZMTFVNSG50aFRRck0tNXBuRENoR0RLQ2RIandHS1R6cDRvN2I4VmFqQ05ZY3haNkZaZzdSOUdSRko3bVYxZEp4OHJiMU02RnRQTGVRSkNLTGdaMVFJUWNoN3BLQlZpNzRUOFQwRXJ4SkJhMlNnZDYtRlBjYXlscVEyd05YRWZFeElqSS1HVGIzQWhNZw?oc=5
 
-- "We Delivered The Mother Of All Deals": India-EU Trade Pact Finally Sealed - NDTV
-  "We Delivered The Mother Of All Deals":
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT3h5eDF5VGE0RmIwbGgzR1ZOVGpDWUZOZUEzWDNzWlhtd21EYkxKeWlVRnMyN3hGTmdVQk1KR1lydW5FamlaS1dNNk9CMTB0ZVNMbTVhNmREWFNxUmkta1AzUHJPaTZHRHpkWTlqV204bkptaXgwNWJqRldTRjJGZjF0VkZ5S2ZVb1dWUGRWMGhwQzJ5b2RIMnJpWTQtUkRJNGd1Ync5dFY3SlRyUnk2bXFXaU80a1ZUa21rTHBoQ1pKMGllbE53Z1dPZ0k4d2EzOTZHa1hR0gHeAUFVX3lxTE5iRHdrM2VzM2xpcHhZSXNkYU1iYU9Nbm4xSEt1OFVqY0pzLTFmVjliSkFwemhmQzZMVlN6Z1l6WUk1MkcyNTFIQUxVZVhOdF9FYm1oRzJuWmJkWHFYTGR4c3drb25qempYYlZ2OHJFTWdNV0piREwxTnctdkxXZUQ2NEd4bjJtV3hMU1FJdm54UGNlMm03VkNjdFNMci1WcmxQVWlSZjBrWEs0U18tY2ZHNW9xenR2Q2FkcUtUT0FCeWZoZEdEQ0RKd001a3RTWWNXRERLdV8xRk1xc0VJdw?oc=5
+- Before the first missiles fly: AI, cyber & electronic warfare - how India is preparing for invisible batt - Times of India
+  The Times of India reports that India is preparing for an invisible war.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNU0pQSGl3TUVwczh1dzZCVUU1OHkxaVJoRmpvUE5DamxSX1RjXzBYQXh0NS1JVGFrUjVfTlBMT2dSUHZyc0IxN0NleFh1Snk0eU9JbDlJZUs3ODBrdUE5bzFxQnpyWUFPaFhadEJSZmNxMnBLbkFFUmZ4a0hGWDNQY09YSjgtQkcyX01QYmtkcTQyVVB0OUx4QTF5TjRsVnNybEY2NXpJSmtETTBVWFYxSTdRSk1Od3JyVFZlbUxhVlphTlVPQ1Z6MHI4SzFkckJhcHR5UmFyaUZlR2xodHJlN0N4UE00RGF5V1FzTmloR0NCa3Mzbkw4ampGbXVrUGtEYWhtaGQ2Vnh3Y19GaHkw0gGUAkFVX3lxTE12cHRTN0FWWkpCeU92aGZRN2RfVUJaV1NrME5zWU9LWDg2RndtOVdOMWJKdWNsaVdjcndWc3ZjWjVYWHQ4LXYySzVyd055N2NyOEM0enBhakdBTEhvTUtta3MtN3dRcUpneGxRejFOUzFTQUJvSWZSNzE5ME54VjAxc3BGNjhEang5VVpDRTJPenRxN0t2V29SOXF3VnZNSnNmZGoyQjdHODNCX1lFXy02TUtuYmtBaEtpbEwweV9oRS1qZjNRb19UUENOclJod0hvWVpSakxzXy1wcHJ3M3BpUDZWTE5SbU1EMXk3MEJiT2NXLVRnYXoxbEtDS1U4VVBjM2IwT3NHSG1odmd0dnhkVnZIeg?oc=5
 
-- Top News Headlines of January 26, 2026 | US deploys aircraft carrier in Middle East region amid tension with Iran - The Indian Express
-  The Indian Express has published an exclusive article on Iran. The article was published on January 26, 20
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1N0RExkdTJDUE1rYXVHNFotOEwzQmNmbnNqUkZvanZ6amN5eDFDS1lTN1Q1MmlRNXdFRjlsSjFpSl9Vd2VTWnlHb1lpLWNxS29UcHlPUl9uaWVONUFmd0Q0TW85UUNjTmoxRGxrbjNncUJtTWNBY3RnUnQtaHVRY1pjWThRUHlSd0pVOVRYUUtkbkZiRlBSVUdjZzk2YzBSMXNqLU83aHhxRnVFMC03VGVTYVhFekZldlgyMkVrcmJrVHhvNGZxZ3p6Z1RIc0o1T2NHQ196eTRjdV9oa3p0RElfTXFQUlcy0gHvAUFVX3lxTE8ydTFSamt2dk1QSWozQ3ZQT1hWalpzU1VtYUwzUXRCLV9TNkFZanV5X3dWQ0FrV0YwcXotdTMyOUFVbkNpQjI1RGdEZWZfR3BaZG9hamxaaWFHWFhvZGlteUswMVBQd2ExYmFTUHk0UnAyOEJUX19UUHBmamZ2bEZXaVNERU1wOFRRdVZ5NV9YanBXMUJCYnVCa2ctd3Z3Y0w2cFdmdG1UQ0FRVkR4VXp4c3RXaHhHOE9obll3VVI5aFZvZU9jV25PMk1RZl94SUZmZ09lZEFjZWpCa05Qc0JzVWlOTGhlN1hmRnZKZG5j?oc=5
+- India-EU trade deal under the looming shadow of Donald Trump - BBC
+  India-EU trade deal under the looming
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JbmJwZ3lpcHlMdHotNjh1djZkTk9TTFloWERRdUE2aW9PRW5aTWVWdHdSRk5ZQm0zc1JFV1dHekFkcnFfd2FKM2w3V21TaXlwXzc1M2N3OXlvZw?oc=5
 
-- Ajit Pawar, Sanjay Gandhi: Indian Leaders Lost To Aviation Accidents - NDTV
-  Ajit Pawar, Sanjay Gandhi
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS2ZTNnBjSEtZeU9iZlhTZmZFVV9LTHlFbEI5LXVjVEI0WWRLb24ydU5Kc3A2VzFWUG5ncTcxbzZFVjRra090aV9YVHYzNkk3NVRIcVdzNUNFNmN4aXpRTWFadFdvYksyVVJObDJmaUU2cjZyNzdOUTNadndwVzgtU09XM2d6d25lOVVac2hvY0R3Wm41M1NaSTc4T2JLR1pDdnVBa1R1NDAyeXYyRkE0ckpaZHE5cVJfZ3R2aDdyRmwtMUd3REU1WS1PcEF2S2lnWS1aX1pB0gHeAUFVX3lxTE5ac0ttdjZEZVVHOHVZOWdSQllyNUswNXRXVF9zQ0RSV3lLYl8tTW12dzM5SWxYeFRQVmZkSmZDWHJaMXZnU1Jnal9pX190UFA4ekQzZVZ4bXowb0lFQVE3WFJMbjFRemRySGJ2d1U0cVBlTW1PZW9TdlphZlhiLU11RjFFNTNtVEhHWl9zYXN0SVVWRHpLQ2ZrSXExeTM3NzRYYkRrQmNHeUszZUZyYzFhZDNVQngtZUZsVFFNRWY2YUMyaERDT3hrVnNidjNQaW5rdkc4Mk53SEdzZG9WUQ?oc=5
+- Deputy chief minister of India's Maharashtra state among five dead in air charter crash - Reuters
+  Deputy chief minister of India's Maharashtra state among five dead
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOcHRkU2lLdWlQMmZuak5neUxVQU9SOGh3N3RRREtjZ0hWRG04WUE3V1VPVDY0MVJrVldTTjU3ZGpxMm85UU1zcHRQdHdHbmRERzhERnVEOEZsblM1UTA2emNhb0tWZEFCUk5RNUg3eFpWUE50UnJLZjBYeU8yZmRCMi1iOGo4dmRpaWo0aWJBb1lOaVR4MHdKcHh4dTZKcnYyZ1RHVGpodVdQLUUxdXVKMU1vWDdseUVxckdLa0RR?oc=5
 
-- 'I now respond': Indian envoy shreds Pakistan at UN over 'false' Operation Sindoor account | India News - Hindustan Times
-  'I now respond': Indian envoy shreds Pakistan at UN over 'false'
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTGotU2pUTnVaRDZIdDhPRnNJSmpPNS1VVzdsclJtWFVJNHRKVGdYb0JySG1vZ3pYazdpYkRmSW9SbE81d1BUajJpZ004NDItU3JOREoycmllZWk0MFZ0VUVhcnhXd09hNjdoVnpVN3M0bGs4MVQ5ckI1aG0wMXNpaGx2LVIySnRzU1pFaUNUR3lXdFl2UUozRDhoWVBkQVEtWDJnRHVWS2lVT3oyV0FMdGgtTjVaYWJxMzFOaHdSQjhvMlNmeXhMR1VNVXpzcXhjbjVhRzJ0elhuRVhqc1JxUlNERnZXcVNIN2RrREJaZFFyT2ZTZHU5eGVfcXRQbknSAYQCQVVfeXFMUDZ6RkcySXdrLWRTY2lxODhvX2dvcmMweDJFNWVQUTBZTFEtRWRORWVGTE1pVUhOUVlld0VaRDJSUnlyLWVNYmFPRVZ2Yzl5YTRHMmRwallSaXR2Q0xhWlo5Zk55aXlfNG1tWGZHc0o1SEwtZWVUSXJaRGpFNUpfMFlHYnRtOVh3ZGt1dzlvQjljUXhycHZhZDVINVBvY05UYkJQaVE1NkkyT181VXNtYmF1UW56alpfamhldEhvOGVuQ3phVTdQdVNCVVdPOUhXZUpOZE1wVUN4ZU5md0IySTV2WFJnR3RvWEV5THdIMk1qejlnb2lWSnoyRFFQUlhLUGE2dVU?oc=5
+- 'Europe Funding War Against Itself With India-EU Trade Deal': Team Trump - NDTV
+  'Europe Funding War Against Itself With India
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUY5RUZDblFjRU0wbkhhNUtNOXlpOTBLQzBzZWJ1WmIzMGJaMTJKdmpBZXI3QWZqT2hLb1hfWnJROTU4emlhV2ktbHRZRUVBeWl3QjBPaVQzX25GMnRLdzNoMnNwT053Ukh3bHQ5aXR0UFpVRkZ1Tm1mU2h5YXJNTUFXQkRTaWNrWS00OWhzVlZYdFVPU2xnQXJiY2R3OFA5SXAtS09MekxYRGEwZmpCaERuSzkydG1tc2hmT0ZUNNIBxwFBVV95cUxOWk1vLTBndVNmN2RFZGgxTVEyZ0R6TzJ4OEE4cE9qam5YNVhaaWVzUVl4d3F6bUVNZDZxRUZVSG5SMXVuWC01ell2cW02SjJnZ1BoWTc3U1NxQU5nQ3V5b1dhQUlpRjdTaHpIWWFxNkZTSWhsdFpmbExENWdpMkhxakpiRDVkSEdSYkt0X1p5WWgxWElIWjA4a3NXaWVhYlhQUldVWWZSaFkyRm9DZDAxeTNNOVYwQ2o5RUVEQXIyX2k3Si1CNk9v?oc=5
 
-- Evening news wrap: India flexes might on 77th Republic Day parade; UAE scraps Pakistan airport deal & mor - Times of India
-  The Times of India reports on India's 77th Republic Day parade. India to celebrate
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaF96aEE5UG1KX0JBWlpjbmN3eE9sTHVWU2VGcTBnRkQydWZDcmdzbXk5MVMwVUx1RGFDVUc4R2pMbW9hMXg5ZHlfVUVrZWY5enRnSERlaWNiMThXVmxhbW9YM2lsYnp0SlFQWnJGLWZZSkpYNG8yM1FXb1QxaE51OWxlajJKbEpicWczMzBwd0ZpZ0M3Sm5rbFUzOUhXNi10cXJIV2h5ZWxJOUw0cXdDQXdZeTZSOHZ0ejFMdXV4ci1sOWJKRzk0OUVvYlZ6V2xjLUFoY3FHQjFLRXB5ZHAtNUF3eVFObGVkaHgyc0lTZEREY1puSE1KYlZPdk9GbWvSAYQCQVVfeXFMTV9RSjJSOXNhVGtlZEJqR3NLcWh4OG5ZdlhPV3o1T21pdjJVcFFqbFBjZG1HZ19SSHR1aVlOSkZtbDB3REg1X0hOaGZzUm1kOG85SUp3TkJpY2t1QURUbHpxWFRtT0NKS0FQd0FBTWN5ckRoRVpIZGFsbklyZGdfSTVXZU1BYmZ4MmZob1lvNXhtV25nMVUzZktrcElNcWswaUdtM19kSEZDWkU5RDQ1eUNybWNtanpXdGM5RkZ1bFcyUzdKU0tiNW5rd1FOX3RabzBtd01WWGJOcHhBcG1XNXR0ZTJRMGdZUHhfZUNld1NDX195S1VrQXFxMGN3MWRCcE1QUEY?oc=5
+- President Xi says India, China ‘friends, partners’ in Republic Day message - Al Jazeera
+  President Xi says India, China ‘friends,
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0ZEVXlPaGRkeEFuOXVIcTdZZFV6V0JQb0hYa0VId05Bc2NWcldaVjcyRHdBUTZKcVVyOXk2aGhZeWtJWGpFXy1xTm5maFNjWmNBX2VBcy1uemszeVJfYmg2cXczMHljbVdaYjVfLXBVejhua2RsUThsNWpqb0d3dlJXMi1Edm1YN0ZRSE5pcUN5OWo3Q0ZNamxKakVQcGowMFo5UTgwMjRGODNVUWxpbtIBtgFBVV95cUxNd285Z3F3MzVWUkwtVi14eDk5eUVONW9QNTdybGJfaUdvdUZMTFVNSG50aFRRck0tNXBuRENoR0RLQ2RIandHS1R6cDRvN2I4VmFqQ05ZY3haNkZaZzdSOUdSRko3bVYxZEp4OHJiMU02RnRQTGVRSkNLTGdaMVFJUWNoN3BLQlZpNzRUOFQwRXJ4SkJhMlNnZDYtRlBjYXlscVEyd05YRWZFeElqSS1HVGIzQWhNZw?oc=5
+
+- Before the first missiles fly: AI, cyber & electronic warfare - how India is preparing for invisible batt - Times of India
+  The Times of India reports that India is preparing for an invisible war.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNU0pQSGl3TUVwczh1dzZCVUU1OHkxaVJoRmpvUE5DamxSX1RjXzBYQXh0NS1JVGFrUjVfTlBMT2dSUHZyc0IxN0NleFh1Snk0eU9JbDlJZUs3ODBrdUE5bzFxQnpyWUFPaFhadEJSZmNxMnBLbkFFUmZ4a0hGWDNQY09YSjgtQkcyX01QYmtkcTQyVVB0OUx4QTF5TjRsVnNybEY2NXpJSmtETTBVWFYxSTdRSk1Od3JyVFZlbUxhVlphTlVPQ1Z6MHI4SzFkckJhcHR5UmFyaUZlR2xodHJlN0N4UE00RGF5V1FzTmloR0NCa3Mzbkw4ampGbXVrUGtEYWhtaGQ2Vnh3Y19GaHkw0gGUAkFVX3lxTE12cHRTN0FWWkpCeU92aGZRN2RfVUJaV1NrME5zWU9LWDg2RndtOVdOMWJKdWNsaVdjcndWc3ZjWjVYWHQ4LXYySzVyd055N2NyOEM0enBhakdBTEhvTUtta3MtN3dRcUpneGxRejFOUzFTQUJvSWZSNzE5ME54VjAxc3BGNjhEang5VVpDRTJPenRxN0t2V29SOXF3VnZNSnNmZGoyQjdHODNCX1lFXy02TUtuYmtBaEtpbEwweV9oRS1qZjNRb19UUENOclJod0hvWVpSakxzXy1wcHJ3M3BpUDZWTE5SbU1EMXk3MEJiT2NXLVRnYXoxbEtDS1U4VVBjM2IwT3NHSG1odmd0dnhkVnZIeg?oc=5
+
+- India-EU trade deal under the looming shadow of Donald Trump - BBC
+  India-EU trade deal under the looming
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JbmJwZ3lpcHlMdHotNjh1djZkTk9TTFloWERRdUE2aW9PRW5aTWVWdHdSRk5ZQm0zc1JFV1dHekFkcnFfd2FKM2w3V21TaXlwXzc1M2N3OXlvZw?oc=5
+
+- Deputy chief minister of India's Maharashtra state among five dead in air charter crash - Reuters
+  Deputy chief minister of India's Maharashtra state among five dead
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOcHRkU2lLdWlQMmZuak5neUxVQU9SOGh3N3RRREtjZ0hWRG04WUE3V1VPVDY0MVJrVldTTjU3ZGpxMm85UU1zcHRQdHdHbmRERzhERnVEOEZsblM1UTA2emNhb0tWZEFCUk5RNUg3eFpWUE50UnJLZjBYeU8yZmRCMi1iOGo4dmRpaWo0aWJBb1lOaVR4MHdKcHh4dTZKcnYyZ1RHVGpodVdQLUUxdXVKMU1vWDdseUVxckdLa0RR?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-28 06:34:55 UTC_
+_Last updated: 2026-01-28 12:42:52 UTC_
