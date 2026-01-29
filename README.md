@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- A poster threatening Garos ruffles feathers in Meghalaya
+- Exclusive: On Republic Day eve, villagers in Jammu answered call of duty, helped over 20 stranded Armymen
   
-  🔗 https://indianexpress.com/article/india/a-poster-threatening-garos-ruffles-feathers-in-meghalaya-10499953/
+  🔗 https://indianexpress.com/article/india/on-republic-day-eve-villagers-in-jammu-answered-call-of-duty-helped-over-20-stranded-armymen-10500393/
 
-- Centre’s MGNREGA overhaul is flashpoint on Day 1 of Rajasthan Assembly
+- Centre notifies new Solid Waste Management Rules, places larger onus on bulk generators
   
-  🔗 https://indianexpress.com/article/india/congress-protests-centres-mgnrega-overhaul-at-rajasthan-assembly-session-10499990/
+  🔗 https://indianexpress.com/article/india/centre-notifies-new-solid-waste-management-rules-places-larger-onus-on-bulk-generators-10500371/
 
-- Church and sacred grove coexisted in Odisha village for 18 years. Two weeks ago, that changed
+- Jaishankar to attend minerals meet hosted by Rubio on Feb 4
   
-  🔗 https://indianexpress.com/article/india/church-sacred-grove-coexist-odisha-village-two-weeks-ago-10499877/
+  🔗 https://indianexpress.com/article/india/jaishankar-to-attend-minerals-meet-hosted-by-rubio-on-feb-4-10500512/
 
-- Exclusive: Telangana phone tapping probe widens, ‘thousands of call, IP records accessed illegally’
+- Sweet, friendly: Delhi remembers pilot Pathak
   
-  🔗 https://indianexpress.com/article/india/telangana-phone-tapping-probe-call-ip-records-access-illegally-10499261/
+  🔗 https://indianexpress.com/article/india/sweet-friendly-delhi-remembers-pilot-pathak-10500498/
 
-- How Ajit Pawar plane crash unfolded: Civil Aviation ministry gives blow-by-blow account
+- India all too familiar with mindless brutality, we emphatise with those who undergo same tragedy: Foreign Secy Misri
   
-  🔗 https://indianexpress.com/article/india/ajit-pawar-baramati-plane-crash-civil-aviation-ministry-blow-by-blow-account-10499234/
+  🔗 https://indianexpress.com/article/india/india-all-too-familiar-with-mindless-brutality-we-emphatise-with-those-who-undergo-same-tragedy-foreign-secy-misri-10500494/
 
 - Sinking ground, rising danger: the hidden crisis threatening coastal cities
   
@@ -40,45 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/sonos-launches-amp-multi-a-new-multi-channel-streaming-amplifier-for-modern-homes-10499682/
 
+- Amazon layoffs: Tech giant to offer most US-based employees 90 days to look for new role internally
+  Amazon has offered most US-based employees 90 days to look for new role internally. This decision contributes to a total of 30,000 job reductions in three months.
+  🔗 https://www.livemint.com/companies/news/amazon-layoffs-tech-giant-to-offer-most-us-based-employees-90-days-to-look-for-new-role-internally-11769626022151.html
+
+- Amazon Still Doesn’t Understand Brick-and-Mortar Retail
+  The day Amazon.com announced in June 2017 that it was acquiring Whole Foods for almost $14 billion, employees of the natural grocer packed into
+  🔗 https://www.livemint.com/companies/amazon-still-doesn-t-understand-brick-and-mortar-retail-11769627961463.html
+
+- Deutsche Bank Deepens Emerging-Market Rebuild, Adds Two Traders
+  Deutsche Bank AG is deepening its push into emerging-market credit. The bank added two executives in New York as part of an expansion.
+  🔗 https://www.livemint.com/companies/deutsche-bank-deepens-emerging-market-rebuild-adds-two-traders-11769626293185.html
+
+- ASML Investors Press Executives on Outlook Despite Bookings Beat
+  ASML Holding NV failed to satisfy investors with record orders in the fourth quarter. Analysts continued to question whether the Dutch semiconductor
+  🔗 https://www.livemint.com/companies/asml-investors-press-executives-on-outlook-despite-bookings-beat-11769625928929.html
+
 - Trump Account for babies: JPMorgan, Bank of America to match $1,000 contributions for eligible employees — what we know
   JPMorgan Chase and Bank of America will match the US government's $
   🔗 https://www.livemint.com/companies/news/trump-account-jpmorgan-bank-of-america-to-match-1-000-contributions-for-eligible-employees-what-we-know-11769616450631.html
 
-- ONGC eyes partnership with ExxonMobil to jointly bid for oil &amp; gas blocks
-  ONGC will focus on exploration activities along the east coast, including the Mahanadi, Krishna-Godavari (KG) and Cau
-  🔗 https://www.livemint.com/companies/ongc-exxonmobil-collaboration-india-hydrocarbon-block-auctions-11769614641193.html
+- Economic Survey 2026 LIVE: FM Nirmala Sitharaman to table Economic Survey today; Growth outlook to capex- what to expect
+  The Economic Survey usually covers the GDP growth trends, inflation and monetary policy, fiscal position, performance of the external sector and social indicators.
+  🔗 https://www.livemint.com/market/stock-market-news/economic-survey-2026-live-fm-nirmala-sitharaman-to-table-economic-survey-today-growth-outlook-to-capex-what-to-expect-11769624272782.html
 
-- L&amp;T order inflows in Q3 surge to record  ₹1.36 trillion, top expectations
-  While order inflows were on the upside, L&amp;amp;T’s consolidated profit for the December quarter fell 4% y-o-y to  ₹3,215 crore. The
-  🔗 https://www.livemint.com/companies/company-results/lt-order-inflows-in-q3-surge-to-record-1-36-trillion-top-expectations-profit-revenue-11769611582487.html
+- Top three stocks to buy today—recommended by Ankush Bajaj for 29 January
+  Market expert Ankush Bajaj recommends
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-ankush-bajaj-29-january-nifty-sensex-oil-india-apl-apollo-tubes-coal-india-11769607528050.html
 
-- BPCL in talks with global shipping lines to source LNG from upcoming bunkering facility
-  The state-run firm is in talks with Danish shipping major Maersk, Italian major Mediterranean Shipping Company SA, and Germany's HAPAG-Lloyd.
-  🔗 https://www.livemint.com/companies/news/bpcl-lng-bunkering-vizhinjam-port-11769611933665.html
+- Stocks to buy: Raja Venkatraman recommends top picks for 29 January
+  Market expert Raja Venkatraman shares his top stocks to buy today, 29 January.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-stock-picks-29-january-11769601023579.html
 
-- Easy Home Finance raises $30 million led by Investcorp
-  Easy Home Finance plans to use the fresh capital to expand into new markets across India. Easy Home
-  🔗 https://www.livemint.com/companies/easy-home-finance-funding-mortgage-market-india-11769604124910.html
+- Stock recommendations for 29 January from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 29 January. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-29-january-marketsmith-india-11769607221196.html
 
-- Gold rates today: MCX gold rises  ₹7,200 per 10g, silver jumps  ₹26,800 per kg as US dollar hovers near four-year low
-  Gold and silver prices surged on 28 January, driven by a drop in the US Dollar Index. February gold futures hit  ₹1,64,900, while silver March futures
-  🔗 https://www.livemint.com/market/commodities/gold-rates-today-mcx-gold-rises-rs-7-200-per-10g-silver-jumps-rs-26-800-per-kg-as-us-dollar-hovers-near-four-year-low-11769609461160.html
+- Energy pips bullion for retail traders on MCX
+  Retail clients on India's largest commodity derivatives bourse are increasing their trading in crude and natural gas options. Premium turnover in gold and silver contracts
+  🔗 https://www.livemint.com/market/energy-crude-oil-natural-gas-pips-gold-silver-bullion-in-trader-interest-on-mcx-11769589399572.html
 
-- S&amp;P 500 hits 7,000-point record high, Dow Jones, Nasdaq open higher ahead of US Fed's policy outcome; Trump reacts
-  S&amp;amp;P 500 surged to over a 7,000-point record high on 28 January 2026. Dow Jones, Nasdaq Composite opened higher ahead
-  🔗 https://www.livemint.com/market/stock-market-news/sp-500-hits-7-000-record-high-dow-jones-nasdaq-open-higher-ahead-of-us-fed-policy-outcome-trump-says-america-is-back-11769611288079.html
+- Microsoft shares slide as AI spending surges
+  Microsoft shares
+  🔗 https://www.livemint.com/technology/microsoft-shares-slide-as-ai-spending-surges-11769642442393.html
 
-- US stock market: Wall Street set to open higher ahead of US Federal Reserve decision
-  Dow futures down 0.02% and Nasdaq up 0.79%. Investors expect rates to remain steady, despite pressure from President Trump. Fed officials advocate a cautious approach amid economic challenges.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-wall-street-set-to-open-higher-ahead-of-us-federal-reserve-decision-11769607540928.html
-
-- Dollar extends slide as Trump comments spark selloff: What US president said
-  The dollar is under pressure following President Trump's comments suggesting he is not worried about its decline. Despite a slight rise on Wednesday,
-  🔗 https://www.livemint.com/market/dollar-extends-slide-as-trump-comments-spark-selloff-what-us-president-said-11769597131767.html
-
-- L&amp;T Q3 results: Net profit drops 4% YoY to  ₹3,215 crore; revenue rises 10% — Details here
-  Larsen &amp;amp; Toubro announced a 4% drop in its October to December quarter of the fiscal year ending 2025-26. The company's net profit dropped due to the impact of the central
-  🔗 https://www.livemint.com/market/stock-market-news/lt-q3-results-larsen-toubro-net-profit-drops-4-yoy-to-rs-3-215-crore-revenue-rises-10-details-here-11769602047522.html
+- Nvidia helped DeepSeek hone AI models later used by Chinas military, lawmaker says
+  Nvidia helped DeepSeek hone AI models later
+  🔗 https://www.livemint.com/technology/nvidia-helped-deepseek-hone-ai-models-later-used-by-chinas-military-lawmaker-says-11769638765931.html
 
 - Google Says AI Agent Can Now Browse on Users’ Behalf
   Google is launching an artificial intelligence assistant on its Chrome browser. It can open websites and
@@ -92,133 +100,125 @@
    Instagram ads can feel eerily personal, leading to misconceptions that the app may be listening to you. Follow this simple guide to make
   🔗 https://www.livemint.com/technology/tech-news/is-instagram-listening-how-to-stop-the-app-from-showing-creepy-hyper-personalized-ads-11769583440032.html
 
-- Gemini can now fix your pictures in Google Photos with a single prompt: here's how it works
-  Google Photos has now introduced an AI powerd editing feature for users in India. Users can request personalized adjustments in various Indian languages.
-  🔗 https://www.livemint.com/technology/tech-news/gemini-can-now-fix-your-pictures-in-google-photos-with-a-single-prompt-heres-how-it-works-11769586090124.html
+- Stock market today: S&P 500 slips from record as Fed stands pat, Nasdaq rises before Big Tech earnings flurry - Yahoo Finance
+  The S&amp;P 500 slips from record as Fed stands pat. Nasdaq rises
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeXlEMFN2M2VMdE5uS0ZfNHlWMVFES2RHc0hkTlZBbnBjTEFGWFZ2SWVMR0taZHh6b2wwSk1Rdkl1RHdyRWtHNzhITlF5alVicXVZdWx4WnFKMGw5bjhWSjhaMXFoQTIyMVV2Y2MxeWN5NkcwY2hIRFVKWE8tdGlQa21mOXdfMjdVMEE1T3ZNbUFpNDIybnVSV29YQzRYYkVFa1NtOVRrRmlRZ3p4N0Z2Y1VhUS0zWVpoQnVzbFRfcnNHWElkNG5FX1Y3a1FjZFV0Mzlha0JvbXVMZHE1TUswT1BtUElvU2JzTXphbzN3?oc=5
 
-- Better than Perplexity and Google AI Mode? Yahoo enters chat with new AI-powered search rival
-  Yahoo Scout aims to transform search results into direct answers using user data and web content. The feature is currently available to users in the US in beta.
-  🔗 https://www.livemint.com/technology/tech-news/better-than-perplexity-and-google-ai-mode-yahoo-enters-the-chat-with-new-ai-powered-search-rival-11769575386901.html
-
-- S&P 500 Hits Historic 7,000 Mark as Tech Rallies: Markets Wrap - Bloomberg.com
-  S&amp;P 500 touches 7,000 for first time as traders await Fed decision.
+- Stock Rally Wanes as Bessent Fuels Dollar Advance: Markets Wrap - Bloomberg
+  Stock Rally Wanes as Bessent
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNY0FTZnkzT0NYbVR5U3pxNHgzRDYwSFF5U09NWDRJOU9xc2JDbEswZTVDckFhZEctQ2VrZWVEcmlQYWw5cDVybENpczBwNGJJN3ZJVEtSSXFJbjY0Tm01MVRycTR5UEs0TGRxb2FQREw4VVUzSG9CTlRIaVdROFRhUm1peVhQdE1hQXRhZTQzOGhRQVdJ?oc=5
 
-- Dollar Swings Finally Start to Ripple Through Treasury Market - Bloomberg.com
-  Dollar Swings Finally Start to
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0R3c241a0pWZW15aXF3MTdXdmVhUk02My1LQnNteW84aUF2YTBZdzd3X1ZBcDJ5T1dkdXhGUkNvbTIzdi11di1fdFhRcVdTLVkwY2NpY2NBM3NDRnhRZjN5YktQcFc4YlVnR2s0aUlRZy10TGlObV81WmtjMG9DV0Z6NGlvUkNTcWZrVTE1TE5MSG5OR05IclRSLWJFTjhudk44cWhVdDdWdXMwbkZnR0RR?oc=5
+- Gold jumps over 3% to fresh highs as Asia markets trade mixed after U.S. Fed holds rates - CNBC
+  Gold jumps over 3% to fresh highs as Asia markets trade mixed after U
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVZIcUtrQnFHUllDLWFtR2phVGNEUHBLa04zRGNDZlJENTByakFzUWJRaUU1X3R0WGp3eWNiX2c5eF9ETERjbjNfWnJDYVpOVGVLQjBINTd3bER1MjZ6U2dGUXBVSlpJb1A5VjlyMWFxTnd0MDhkd1o0TDFhRl9kRGZiYWtIaFVpRklxWWxxcjRJLWhh0gGaAUFVX3lxTE92VDVRVDFiZlVCUm5fV2M2dkxKNjl0M3laVXpncUpTVy1aSi1YbloyVTBNOU5JN1UtYWJRT1hIdWlRcVNIdmlzUUN2RzJjWl9oeEZxN1VXUDMwWEY5YnlhaGJuZEpXM1lTRVFyNkJtcFFnNkFvQlpiYTFiQVcyemxBQ1gtMGFVTkVQZmJ5QTRfbE55Wld1Qm1MM0E?oc=5
 
-- Robinhood CEO Vlad Tenev: 100x return in public markets will be harder to come by with AI - CNBC
-  Robinhood CEO Vlad Tenev: 100x return in public markets will
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPeWsyVkxMODlrQ053bkxmWDh2bnJma3ZHWU9NZmxXUXlnR1J1b21WVGRlSzd4ZlRxbVMzc0hvWHAtWXJTRXI5c1lqY0dLaXg1cU5IM2J3QWhHUkdKcy0xMkJJMktvbDA4cWFYMDBSZWJ4T0dYWElnWkphZm1FSkJINllDMHpYYk1aLVJuOGppSlZhdnNXZkh3V05DcmRxelBpcXhFY2w0aEcweHFFNjV2X3VhYzZaclJnV2RDaEJOeUNzN0laQlp6eUdUVQ?oc=5
+- Why Japan’s economic plans are sending jitters through global markets - Al Jazeera
+  Why Japan’s economic plans are sending
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTZrZUF4Y0h4WFEwY19CZk1PRlcwcGM1czdhQzR2a2VCQllvaVdzVEZfOXZYQUJ4QzRWdXpJNW5KM0NGZ2VOTzV2ZkpPNWRXb0MwQlRES0Z3emE2bW11SDVlVy02QUpRaWJ4WGh2SUc3WGFaSnFaVWxPTVJXNk1iVGNXN1BIcXNhMWVpQ0s4VVRNbWkwY3Ziamxvd1ZoRGtXVDlmSVliaU0yQmk3QmdYNm9B0gG3AUFVX3lxTE11aFNrWXNqcEc5TnRtdmZDcElVb2sybHZQdTdnVDA0LXRneDA4S29IWFFFNUlwNktCY0lnQWxPREhwR3Z2VHNWTGxUUlRmOF9MemJ0X2FpNXdjS1B2RTdRSFZJSmVmcGZ2aGpicGx1ZDV6dE83aWRBb0hzUWNpUmtDTVFNRUJlTHpuUkNMQW55OTlkQWVndUNscW5lQ0ZIbTFUMDlXQ0VFWmJvYk1tOTBGVjdqLXdXcw?oc=5
 
-- Stock markets rally for second day; Sensex jumps 487 points on optimism over India-EU FTA - The Hindu
-  Stock markets rally for second day; Sensex jumps 487 points on
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUUNVLW1UalFDdXZIbUFWaWRNSTdnQ09lTm4xaGhsSzY0WTJiWFV1NUtJWTdheWZiZ0FKVVRJZTByWkdaVHV4QkhiVnRvVjRxOG1kNjdyc1pnLU0xSmFSdmdxRFcydHMtVlI3NUh6Ti1Ja01VMUFtLWxMS09zallXU0g5ZDJyMGVoNTZnSWdEUWs4WGo1QnFvVE9PNDJtY1hReENfRUtmM0pJZU9FeWVYMmFxTnhEdUtIWU0xakxLcEVVVE90WVF4cHR2MGV1TTdONWJVazB4REF4d9IB4AFBVV95cUxNV2dQQl9CdFZTOXdyUVZFV1dmMWdnLXYyNjJmN3VpQTEzQ29lTTBlQi10RDRDbXNQbmZvd0tuelBDZ1FmNEtpbXFxT2tuU1cwNVZXeEZ3RkN4aHZRYmlaaWgtOHJlaWh1SmdTeVNCUDMwcl9CeGhNdGJaV1VKQ3k1U25Ecy1LT1dFM2RHVTNMNnpYZXI4LVB3M04wOUttWFBxblFpLTJCTTZJQlQ3ekswVE85UW8tM2wwanVMWF9UMEtWcGQ1N0JWYXFwblRRRjdaUmJWVGhUeFpBUnA0NGRxRA?oc=5
+- Google’s more affordable AI Plus plan rolls out to all markets, including the US - TechCrunch
+  Google’s more affordable AI Plus plan rolls out to
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQcGp1UG9GYmZ2eXRWU2JfdUdKWGU2dUFZUl9Qb1Ria0kwZGtjcWthazVxZ1ZrOWhScGgxaDN0aXlpRzN1RWtnNkFSZjZMdVIwU1lJXzJpcVBDQ3Eya3RvMVFNaFgydnhQcmh1bkc1SF91MHA4bkhNSWVBcTNSUmlWUWNxalUwQWE3aWJaQy1fREQtN3IyX2RLSmVpdUZnSlk?oc=5
 
-- Market Highlights: Sensex ends 487 pts higher, Nifty above 25,300; BEL zooms 9%, ONGC 8% - The Economic Times
-  Market Highlights: Sensex ends 487 pts higher, Nifty above 25
-  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxNb3huQ1I5ZTh3bjM2MUpDbmoySDh5YTlIZGVDTHB3Qkp3dkctQmpCRFRpSUcyZFRvd1hQbzBfTWFhdVZCZkp5cjFHSWlHTkp6M1pidmx0cTRTLTN0U3JHQ3pSWG1QaTByb011LUNBcnlELVJtcEpXV2NDNm9HMl8yZ21BY1JhMGtQZVhhaXRRbWoteUh0R0RlRjdHRGpldTJhaV94X2RCYlo4MlVLVDl1YUF3YXFuZENXZlVLQkRpVGdkNHl0THBCbTdoSnk3NUtpOHh2bjVQR1RLZ0lXSlc3NUZVUzlVRWlmRFV1VmVmSmFYUDRYUWRGNEltcnFNeEtVYm5hODl2b3NZT2pJQXBveEp2MkxpZ9IBmwJBVV95cUxQbHZDOHdyR20tc2JzR203VGNXSU01REQ5RW0yU01CQWRqangyMUU2b3dFZVI1WkNIeWZ6QmFKVVl5eVJGWldHcXNHWmVONUlkMmFvY3V3em43Um95NERFdzB3bzBRNlZHaE1BeHZhYXlXYmhjU0VyOC15LVE1eTNCYTJXbUFMUjFRaVdrTE14Y0ZUeHpSeGkxOERNUENhMnpFNTlSZlBYUDN5N0dIY0hZN050c2ozeXFRcVZ1VDM3eE84RmJ2akg2WW5Cc3EycXRVRmhwQnlEODRXMVY0Nk51ajlJb2ZsY3hVZGdKWTVSdFB4SnpXNnVGS3dTeW13NWNxRjlURUxjTW9lOVJJWXd1bmVtNi1Jb3FkamZz?oc=5
+- Sebi at odds over conflict of interest rules for top brass
+  India's market regulator Sebi faces internal division regarding new conflict-of-interest rules for its top officials. The Sebi board is debating whether it can impose a code of conduct
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-at-odds-over-conflict-of-interest-rules-for-top-brass/articleshow/127746945.cms
 
-- CSB Bank Q3 profit stays flat at Rs 153 crore amid higher slippages
-  CSB Bank reported flat Q3 profit as higher provisions and sharp slippages offset strong loan and deposit growth. Shares fell sharply amid earnings disappointment and whistleblower allegations.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/csb-bank-q3-profit-stays-flat-at-rs-153-crore-amid-higher-slippages/articleshow/127719257.cms
+- SBI secures $250 million via overseas bonds
+  The bonds would have maturity of 12 months and coupon rate of 50 bps over Secured Overnight Financing Rate (SOFR) payable quarterly in arrears.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/sbi-secures-250-million-via-overseas-bonds/articleshow/127746772.cms
 
-- Cochin Shipyard Q3 Results: Cons PAT falls 18% YoY, revenue up 18%. Rs 3.50/share dividend announced
-  Cochin Shipyard reported an 18% YoY decline in Q3 net profit, while revenue rose 18%. Sequential profit and revenue growth,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/cochin-shipyard-q3-results-cons-pat-falls-18-yoy-revenue-up-18-rs-3-50/share-dividend-announced/articleshow/127718952.cms
+- Wall Street bets a rally in riskiest stocks has staying power
+  US small-cap stocks are currently outperforming larger companies. Wall Street strategists predict this trend will continue. Falling interest rates and economic expansion are key drivers.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-bets-a-rally-in-riskiest-stocks-has-staying-power/articleshow/127746378.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Thursday
-  Sensex and Nifty extended gains, led by metals, financials, and energy sectors. Indian markets rose on optimism from the India-EU free
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/127718580.cms
+- Brokerages stay constructive on Persistent despite recent underperformance
+   Persistent Systems stock sees a dip despite positive analyst outlook. Strong order bookings and improving profitability are key drivers. Healthcare segment shows renewed growth.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/brokerages-stay-constructive-on-persistent-despite-recent-underperformance/articleshow/127745803.cms
 
-- Winter storm to cause billions of dollars in insured losses, UBS estimates
-  Major winter storm expected to cause billions of dollars in insured losses, analysts say.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/winter-storm-to-cause-billions-of-dollars-in-insured-losses-ubs-estimates/articleshow/127717209.cms
-
-- Lodha Developers Q3 net profit at Rs 960 crore, revenue at Rs 4,670 crore
-  Lodha Developers reported robust Q3 results with net profit rising slightly and revenue up 14% year-on-year. Record pre
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-q3-net-profit-at-rs-960-crore-revenue-at-rs-4670-crore/articleshow/127716334.cms
+- Reliance, Capri Global to acquire Mumbai’s SevenHills Hospital
+  Reliance Industries and Capri Global will acquire Mumbai’s 1,500-bed SevenHills Hospital. The hospital
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/reliance-capri-global-to-acquire-mumbais-sevenhills-hospital/articleshow/127747231.cms
 
 - "Very Significant Progress": India Says US Trade Pact Nearing Closure - NDTV
   "Very Significant Progress": India Says US
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalZhT3QxdFJVVHZ2R3dqTDBFaW9YSnJwZVBsdm5TRE1ucFkwblpxUWtxUnNMSHFMclJHeFpoTWg0ZEx5QVZPLVprWW4zbFpBNUFjVHpFdHlJUmcyd2FVNUdNcHRjQmpCYUc5bW5OclRqRUR2SERra1RsYjloNlM1UlRla0wwQmZVVno2MG5RU1kxTXNiUEdLZk8xYV9mUU8wTEpxZXJ0NkVPdk3SAbMBQVVfeXFMTUF5aXRlbVlCeXdXYU5ILU5wWWRpa2FJMWZEMEMzTEdfaU9td05fU0xHUFRVcU9vb3dySWNqVE5uS1BTYzBDRnZvOGpkeHAtbUdWNEMxS0Njcy1KbS1sY3dTSmJpbjFGUWtZbGpRcXNtRGNiUF82RmhEdUFFLXN5b0l6bDB0ZVM1cHh3MzBqNzNlNkllY2xuQ1JpRDVjUkMzZkt0VU5lQnlna2pvVU55dTdqUVU?oc=5
 
-- Top News Headlines of January 26, 2026 | US deploys aircraft carrier in Middle East region amid tension with Iran - The Indian Express
-  The Indian Express has published an exclusive article on Iran. The article was published on January 26, 20
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1N0RExkdTJDUE1rYXVHNFotOEwzQmNmbnNqUkZvanZ6amN5eDFDS1lTN1Q1MmlRNXdFRjlsSjFpSl9Vd2VTWnlHb1lpLWNxS29UcHlPUl9uaWVONUFmd0Q0TW85UUNjTmoxRGxrbjNncUJtTWNBY3RnUnQtaHVRY1pjWThRUHlSd0pVOVRYUUtkbkZiRlBSVUdjZzk2YzBSMXNqLU83aHhxRnVFMC03VGVTYVhFekZldlgyMkVrcmJrVHhvNGZxZ3p6Z1RIc0o1T2NHQ196eTRjdV9oa3p0RElfTXFQUlcy0gHvAUFVX3lxTE8ydTFSamt2dk1QSWozQ3ZQT1hWalpzU1VtYUwzUXRCLV9TNkFZanV5X3dWQ0FrV0YwcXotdTMyOUFVbkNpQjI1RGdEZWZfR3BaZG9hamxaaWFHWFhvZGlteUswMVBQd2ExYmFTUHk0UnAyOEJUX19UUHBmamZ2bEZXaVNERU1wOFRRdVZ5NV9YanBXMUJCYnVCa2ctd3Z3Y0w2cFdmdG1UQ0FRVkR4VXp4c3RXaHhHOE9obll3VVI5aFZvZU9jV25PMk1RZl94SUZmZ09lZEFjZWpCa05Qc0JzVWlOTGhlN1hmRnZKZG5j?oc=5
+- 'Europe Funding War Against Itself With India-EU Trade Deal': Team Trump - NDTV
+  'Europe Funding War Against Itself With India
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUY5RUZDblFjRU0wbkhhNUtNOXlpOTBLQzBzZWJ1WmIzMGJaMTJKdmpBZXI3QWZqT2hLb1hfWnJROTU4emlhV2ktbHRZRUVBeWl3QjBPaVQzX25GMnRLdzNoMnNwT053Ukh3bHQ5aXR0UFpVRkZ1Tm1mU2h5YXJNTUFXQkRTaWNrWS00OWhzVlZYdFVPU2xnQXJiY2R3OFA5SXAtS09MekxYRGEwZmpCaERuSzkydG1tc2hmT0ZUNNIBxwFBVV95cUxOWk1vLTBndVNmN2RFZGgxTVEyZ0R6TzJ4OEE4cE9qam5YNVhaaWVzUVl4d3F6bUVNZDZxRUZVSG5SMXVuWC01ell2cW02SjJnZ1BoWTc3U1NxQU5nQ3V5b1dhQUlpRjdTaHpIWWFxNkZTSWhsdFpmbExENWdpMkhxakpiRDVkSEdSYkt0X1p5WWgxWElIWjA4a3NXaWVhYlhQUldVWWZSaFkyRm9DZDAxeTNNOVYwQ2o5RUVEQXIyX2k3Si1CNk9v?oc=5
 
-- Breaking news live updates: NIA searches multiple locations in Kerala in PFI Jihadi case - Times of India
-  NIA searches multiple locations in Kerala in PFI Jihadi case.
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHdwaDB3LUV6ZjMxOVE1ZnBsVTEwVEVpbkdXaDRXZFJCNkxCaGhOWEw0MV9oOTVReEVnamVXNERaVldqYmt2bUctVHpMc3hmR3VrckhZQzl5RnhRMFBKQVR4MF9fTE9NcjdfZUdZMVdUZFFfeUlQZkFLcHdyT3lid2QyOWdJNlBYU3NVTHNPZG9jRWozLVdEMDgzM1ctYlpfUHVUNjBB?oc=5
+- FTA to open vast opportunities for India’s youth: PM - Times of India
+  The deal will open vast opportunities for India's
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3V2NGN3QWdqWUlBYm1LSmxUbUJoajNYX3ptRmJweE55Q0VrOU1oal9Qd0dqQmQyOXVHdkl1WGcwZVBrc25RR1hQZWRFOU1yU3Y1OVZ5RnE0ZFZsbnEwUE1XRmF2el9ob0I3d1ZyMVM1Uk5EbG43b3llbkdlcm9CVC1DVFpQR2g5eG5EWXFGdmhLUTU2VGh6SEw3ZVd6SFlSX1h3VERwOVhtLThMaVRZUnduODBfa0hSdEHSAb8BQVVfeXFMTWF0NkcyNDRkSDBrbzhLRlRwbWdzVHJtenU5a05FbEsxdFVka2Y0VUo3emdCbU9RTVZraHktV3I3WmY2QkFmOVIzaXF4WW9xb18wa1ZFMEl1UkFZb2tuMlFzbHVPVDREUkxhbDhUSnZaeHVFQVhPRUx2YV9WS19HaXJocWJIUFZaLVNzNjdpTmQ5YzMxUjEwbm1BTm1EVXMzZmlHeEtKeWdNdHMxVV9JT3hXR3pURVZuMmlhUnVDekU?oc=5
 
-- South Indian Sci-Fi Evolution: From Spectacle to Introspective Narratives - Times of India
-  South Indian Sci-Fi Evolution: From Spect
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS3pORXN3b0RLUlpLcGFxRlQ4WEk5bWpYU3hSaUQ1cXFRWnFseGktd0loZWNGbVBZRHRtc0xCczNkVXBMNWl6UTRSWV9zd2ZpSEZfempQRDgxVXd1OTd0S21CbUU5NDZIQmVScUpXa3g0YmN1UWxxVThVeDF3NlVYS3BZTmxza3IybWpkcWxJdFN0bUtYa3dZVjI4d0JsSnhweW1FSVR6YkJJRXpoOTg1d2ozMVktanVzOGYxRV9IWXRrWFJwMGI2MTdrLUNZTjU2R1ZKREh6MUZLdVFWTEREUtIB5gFBVV95cUxQcURDZmlTNmxnZlF0ajVOYktEZXl1LVJ2NXMwRmtaZGx5TFBKb1dnalFoWjNrX1lzVHFZVG5xaWp4ZS04Zl9NUU4zVV90OHVVVGVjS3I2czBxUzJBRDZheGV0R2M1LWRuNkU2cU0wUHpmRXVyMHE3TXhHMFlfOHA4U2xqSlhpdkRNSm9FRXNlMlQ1VEw0SVNGRlRaRk1YY1RHVkc0dnA1UmJuaDlTT3JpWDBfSUMzcTJVRHdxdTI2cW9QdWk5UnVQN2JVblNuak9PemdBbzJrZ3NvRmktdkctRFNnRU9fZw?oc=5
+- Delhi Police Wins 'Best Marching Contingent' Award At Republic Day Parade 2026 - NDTV
+  Delhi Police Wins 'Best Marching Conting
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSXhLZkRHZDA0R1htdVA0Vm1fSHFwblpWbXU1aW9VODVyeTBLS2xBT01mRzlCX0t0SzA1dGFvM000M2xJNzBRdE43NktsYUd0UU1GdnhXc1lEcnYwcXQ0b1JZZ01oUVNuX2hJMy1PZ2VDbUsyS1VSR2FBNV8yRzdMZFU2MElkb2lFRTQ2ZXl6UjZidjdkUlJJd2UtQTNKMFR3NUhaNDVWZGsxbWpQWVdLYWRwMm81Z3Zn0gHAAUFVX3lxTE92RkhGYks3b2g5OG96MGg2dWpISnFKdnN6STF1dTNhRzVQbWE3aVNsdjhMWm0wdVJLREJ5NGJQYzB3aHpoM2lVWHBTOE1pODN3ay1ZbVYyZnljaVFpMXJuMDlHeDVaRi1rdlU1YlJHUEJFS0VkRjZzbTZCTWtieU1vRUZxUl9UbHpUZHllYjB6eEhJSUd2VWd5ZkpEbk5rUmNDckpwTXZBSmNjN2lHVElJY0lSN21RbG5sSUkzUE94WQ?oc=5
 
-- ‘Big Opportunity’: Surat Traders Eye Growth For India’s Textile Industry Amid Bangladesh Crisis - Times of India
-  'Big Opportunity’: Surat Traders Eye Growth For
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR1F4SVRXWWk0cHZsZzJxd2tnNE11SzFSdGozejJEYmVRTXZNcmxBMER1Z2tlbmh5X2VpU3otQWF2Snp1UlNzbktRX0VFODRpaDZGNGI4Q1RsYTRtdWNtR3YyQkdOd2RxVWVULVBoNlpxY0tBcnNRd1U1R0xZZEdoZE9KN3d3aTYtUDRFbmtlOFRUbTlReExhc2ZZeWJOdGktVXRwcEpUQlBjZm93ZUQxNXY0RlVMR3czNjBNUWJEc2k0MC1FVjlJZUF6bzktRkxlWTVNRXpoc3RaQjZ0bHV5SFo1MjMxS3JCN3VoQXJYN0ZDU0tmclHSAfsBQVVfeXFMUFZaeWlxU2xYWmZER1RReEsxMkdKRGpncUxKUzllenBMT2dZTDBDRVBjRm5lcVhQQXZVYXBCbzZLUkpwYWhIQ2pxQ3hIMVlEVkhwRUJKVkM5ZHZZRllJcWFubnJWeE9kSDdjZHhwcG5xelJMd0xiM2lkay1kaHZTQW53NTlOTlREZThnaDNUWkU1Q0F3SnRab25EZUxUbk04LWliNDZmUlVFd0ZTbVFtd2FYdkhxbTRNeDZHcUpaenpydmxRVFJoZDBRdlFYVm4wYWE3UjRRcTFfWW1hRFlaancxZTFGdU93SkhFOFRDZV9UM3ljX2o2RHNab00?oc=5
-
-- "Very Significant Progress": India Says US Trade Pact Nearing Closure - NDTV
-  "Very Significant Progress": India Says US
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalZhT3QxdFJVVHZ2R3dqTDBFaW9YSnJwZVBsdm5TRE1ucFkwblpxUWtxUnNMSHFMclJHeFpoTWg0ZEx5QVZPLVprWW4zbFpBNUFjVHpFdHlJUmcyd2FVNUdNcHRjQmpCYUc5bW5OclRqRUR2SERra1RsYjloNlM1UlRla0wwQmZVVno2MG5RU1kxTXNiUEdLZk8xYV9mUU8wTEpxZXJ0NkVPdk3SAbMBQVVfeXFMTUF5aXRlbVlCeXdXYU5ILU5wWWRpa2FJMWZEMEMzTEdfaU9td05fU0xHUFRVcU9vb3dySWNqVE5uS1BTYzBDRnZvOGpkeHAtbUdWNEMxS0Njcy1KbS1sY3dTSmJpbjFGUWtZbGpRcXNtRGNiUF82RmhEdUFFLXN5b0l6bDB0ZVM1cHh3MzBqNzNlNkllY2xuQ1JpRDVjUkMzZkt0VU5lQnlna2pvVU55dTdqUVU?oc=5
-
-- Top News Headlines of January 26, 2026 | US deploys aircraft carrier in Middle East region amid tension with Iran - The Indian Express
-  The Indian Express has published an exclusive article on Iran. The article was published on January 26, 20
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1N0RExkdTJDUE1rYXVHNFotOEwzQmNmbnNqUkZvanZ6amN5eDFDS1lTN1Q1MmlRNXdFRjlsSjFpSl9Vd2VTWnlHb1lpLWNxS29UcHlPUl9uaWVONUFmd0Q0TW85UUNjTmoxRGxrbjNncUJtTWNBY3RnUnQtaHVRY1pjWThRUHlSd0pVOVRYUUtkbkZiRlBSVUdjZzk2YzBSMXNqLU83aHhxRnVFMC03VGVTYVhFekZldlgyMkVrcmJrVHhvNGZxZ3p6Z1RIc0o1T2NHQ196eTRjdV9oa3p0RElfTXFQUlcy0gHvAUFVX3lxTE8ydTFSamt2dk1QSWozQ3ZQT1hWalpzU1VtYUwzUXRCLV9TNkFZanV5X3dWQ0FrV0YwcXotdTMyOUFVbkNpQjI1RGdEZWZfR3BaZG9hamxaaWFHWFhvZGlteUswMVBQd2ExYmFTUHk0UnAyOEJUX19UUHBmamZ2bEZXaVNERU1wOFRRdVZ5NV9YanBXMUJCYnVCa2ctd3Z3Y0w2cFdmdG1UQ0FRVkR4VXp4c3RXaHhHOE9obll3VVI5aFZvZU9jV25PMk1RZl94SUZmZ09lZEFjZWpCa05Qc0JzVWlOTGhlN1hmRnZKZG5j?oc=5
-
-- Breaking news live updates: NIA searches multiple locations in Kerala in PFI Jihadi case - Times of India
-  NIA searches multiple locations in Kerala in PFI Jihadi case.
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHdwaDB3LUV6ZjMxOVE1ZnBsVTEwVEVpbkdXaDRXZFJCNkxCaGhOWEw0MV9oOTVReEVnamVXNERaVldqYmt2bUctVHpMc3hmR3VrckhZQzl5RnhRMFBKQVR4MF9fTE9NcjdfZUdZMVdUZFFfeUlQZkFLcHdyT3lid2QyOWdJNlBYU3NVTHNPZG9jRWozLVdEMDgzM1ctYlpfUHVUNjBB?oc=5
-
-- South Indian Sci-Fi Evolution: From Spectacle to Introspective Narratives - Times of India
-  South Indian Sci-Fi Evolution: From Spect
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS3pORXN3b0RLUlpLcGFxRlQ4WEk5bWpYU3hSaUQ1cXFRWnFseGktd0loZWNGbVBZRHRtc0xCczNkVXBMNWl6UTRSWV9zd2ZpSEZfempQRDgxVXd1OTd0S21CbUU5NDZIQmVScUpXa3g0YmN1UWxxVThVeDF3NlVYS3BZTmxza3IybWpkcWxJdFN0bUtYa3dZVjI4d0JsSnhweW1FSVR6YkJJRXpoOTg1d2ozMVktanVzOGYxRV9IWXRrWFJwMGI2MTdrLUNZTjU2R1ZKREh6MUZLdVFWTEREUtIB5gFBVV95cUxQcURDZmlTNmxnZlF0ajVOYktEZXl1LVJ2NXMwRmtaZGx5TFBKb1dnalFoWjNrX1lzVHFZVG5xaWp4ZS04Zl9NUU4zVV90OHVVVGVjS3I2czBxUzJBRDZheGV0R2M1LWRuNkU2cU0wUHpmRXVyMHE3TXhHMFlfOHA4U2xqSlhpdkRNSm9FRXNlMlQ1VEw0SVNGRlRaRk1YY1RHVkc0dnA1UmJuaDlTT3JpWDBfSUMzcTJVRHdxdTI2cW9QdWk5UnVQN2JVblNuak9PemdBbzJrZ3NvRmktdkctRFNnRU9fZw?oc=5
-
-- ‘Big Opportunity’: Surat Traders Eye Growth For India’s Textile Industry Amid Bangladesh Crisis - Times of India
-  'Big Opportunity’: Surat Traders Eye Growth For
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR1F4SVRXWWk0cHZsZzJxd2tnNE11SzFSdGozejJEYmVRTXZNcmxBMER1Z2tlbmh5X2VpU3otQWF2Snp1UlNzbktRX0VFODRpaDZGNGI4Q1RsYTRtdWNtR3YyQkdOd2RxVWVULVBoNlpxY0tBcnNRd1U1R0xZZEdoZE9KN3d3aTYtUDRFbmtlOFRUbTlReExhc2ZZeWJOdGktVXRwcEpUQlBjZm93ZUQxNXY0RlVMR3czNjBNUWJEc2k0MC1FVjlJZUF6bzktRkxlWTVNRXpoc3RaQjZ0bHV5SFo1MjMxS3JCN3VoQXJYN0ZDU0tmclHSAfsBQVVfeXFMUFZaeWlxU2xYWmZER1RReEsxMkdKRGpncUxKUzllenBMT2dZTDBDRVBjRm5lcVhQQXZVYXBCbzZLUkpwYWhIQ2pxQ3hIMVlEVkhwRUJKVkM5ZHZZRllJcWFubnJWeE9kSDdjZHhwcG5xelJMd0xiM2lkay1kaHZTQW53NTlOTlREZThnaDNUWkU1Q0F3SnRab25EZUxUbk04LWliNDZmUlVFd0ZTbVFtd2FYdkhxbTRNeDZHcUpaenpydmxRVFJoZDBRdlFYVm4wYWE3UjRRcTFfWW1hRFlaancxZTFGdU93SkhFOFRDZV9UM3ljX2o2RHNab00?oc=5
+- Western Command sets tone for India’s proactive disaster response - Times of India
+  The Indian military has stepped up its
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxObEVGbGQtOU1IcHFfYUwyUGlUdnVmR19Hdm9HaEhXeHd0MjRfSURYbHFHNHlUQkphWHlWdkFPVEVNczc3dEN1RHJYamc2NkR5LW0xQVBnbVl4blRRejhSQzZmaUVJMVhZVEJ5WEx5VnB3c1lVOXFJV0h5RWJEaF9xNmlkV2NMWlExRG9vOHlVbEhVS0ljNmhjZVJMTWtVb1o4VVJodUZBOElUTjFIeU9EZ3FBNjRwWGNoMl82UHRvM1lKbWJOTWVCYThYZ2hnVlJHVFB1U1JGaWd2Z9IB3wFBVV95cUxOYUVTdGZxZGxIVmVxOW9tVU8xV25UNEdfcVhXWXVWNk5FN0ZXZlZ3bF9ZVDlJdUZsYUV2ankyUC1VWG1raUhneUJzX0FFOWMzMk82M2s2Ui0zWVg2Mm56cXlTWU1SOXNoaEVvZGQyRE9FTjN0Y2lqTHVqbEZBcjVuTW91ektTdEF1LUZqSGIyMEJXMk1kNFBiN3NtRXhfRDBkUkdvWkd2LVJ4MEtwNHZLWkJuUzlyRkhBVTIzYzctRE5RamJHVmwyTUlvNXF1NjZRQnZ6TDZWbEZuaEY0Q1JJ?oc=5
 
 - "Very Significant Progress": India Says US Trade Pact Nearing Closure - NDTV
   "Very Significant Progress": India Says US
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalZhT3QxdFJVVHZ2R3dqTDBFaW9YSnJwZVBsdm5TRE1ucFkwblpxUWtxUnNMSHFMclJHeFpoTWg0ZEx5QVZPLVprWW4zbFpBNUFjVHpFdHlJUmcyd2FVNUdNcHRjQmpCYUc5bW5OclRqRUR2SERra1RsYjloNlM1UlRla0wwQmZVVno2MG5RU1kxTXNiUEdLZk8xYV9mUU8wTEpxZXJ0NkVPdk3SAbMBQVVfeXFMTUF5aXRlbVlCeXdXYU5ILU5wWWRpa2FJMWZEMEMzTEdfaU9td05fU0xHUFRVcU9vb3dySWNqVE5uS1BTYzBDRnZvOGpkeHAtbUdWNEMxS0Njcy1KbS1sY3dTSmJpbjFGUWtZbGpRcXNtRGNiUF82RmhEdUFFLXN5b0l6bDB0ZVM1cHh3MzBqNzNlNkllY2xuQ1JpRDVjUkMzZkt0VU5lQnlna2pvVU55dTdqUVU?oc=5
 
-- Top News Headlines of January 26, 2026 | US deploys aircraft carrier in Middle East region amid tension with Iran - The Indian Express
-  The Indian Express has published an exclusive article on Iran. The article was published on January 26, 20
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1N0RExkdTJDUE1rYXVHNFotOEwzQmNmbnNqUkZvanZ6amN5eDFDS1lTN1Q1MmlRNXdFRjlsSjFpSl9Vd2VTWnlHb1lpLWNxS29UcHlPUl9uaWVONUFmd0Q0TW85UUNjTmoxRGxrbjNncUJtTWNBY3RnUnQtaHVRY1pjWThRUHlSd0pVOVRYUUtkbkZiRlBSVUdjZzk2YzBSMXNqLU83aHhxRnVFMC03VGVTYVhFekZldlgyMkVrcmJrVHhvNGZxZ3p6Z1RIc0o1T2NHQ196eTRjdV9oa3p0RElfTXFQUlcy0gHvAUFVX3lxTE8ydTFSamt2dk1QSWozQ3ZQT1hWalpzU1VtYUwzUXRCLV9TNkFZanV5X3dWQ0FrV0YwcXotdTMyOUFVbkNpQjI1RGdEZWZfR3BaZG9hamxaaWFHWFhvZGlteUswMVBQd2ExYmFTUHk0UnAyOEJUX19UUHBmamZ2bEZXaVNERU1wOFRRdVZ5NV9YanBXMUJCYnVCa2ctd3Z3Y0w2cFdmdG1UQ0FRVkR4VXp4c3RXaHhHOE9obll3VVI5aFZvZU9jV25PMk1RZl94SUZmZ09lZEFjZWpCa05Qc0JzVWlOTGhlN1hmRnZKZG5j?oc=5
+- 'Europe Funding War Against Itself With India-EU Trade Deal': Team Trump - NDTV
+  'Europe Funding War Against Itself With India
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUY5RUZDblFjRU0wbkhhNUtNOXlpOTBLQzBzZWJ1WmIzMGJaMTJKdmpBZXI3QWZqT2hLb1hfWnJROTU4emlhV2ktbHRZRUVBeWl3QjBPaVQzX25GMnRLdzNoMnNwT053Ukh3bHQ5aXR0UFpVRkZ1Tm1mU2h5YXJNTUFXQkRTaWNrWS00OWhzVlZYdFVPU2xnQXJiY2R3OFA5SXAtS09MekxYRGEwZmpCaERuSzkydG1tc2hmT0ZUNNIBxwFBVV95cUxOWk1vLTBndVNmN2RFZGgxTVEyZ0R6TzJ4OEE4cE9qam5YNVhaaWVzUVl4d3F6bUVNZDZxRUZVSG5SMXVuWC01ell2cW02SjJnZ1BoWTc3U1NxQU5nQ3V5b1dhQUlpRjdTaHpIWWFxNkZTSWhsdFpmbExENWdpMkhxakpiRDVkSEdSYkt0X1p5WWgxWElIWjA4a3NXaWVhYlhQUldVWWZSaFkyRm9DZDAxeTNNOVYwQ2o5RUVEQXIyX2k3Si1CNk9v?oc=5
 
-- Breaking news live updates: NIA searches multiple locations in Kerala in PFI Jihadi case - Times of India
-  NIA searches multiple locations in Kerala in PFI Jihadi case.
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHdwaDB3LUV6ZjMxOVE1ZnBsVTEwVEVpbkdXaDRXZFJCNkxCaGhOWEw0MV9oOTVReEVnamVXNERaVldqYmt2bUctVHpMc3hmR3VrckhZQzl5RnhRMFBKQVR4MF9fTE9NcjdfZUdZMVdUZFFfeUlQZkFLcHdyT3lid2QyOWdJNlBYU3NVTHNPZG9jRWozLVdEMDgzM1ctYlpfUHVUNjBB?oc=5
+- FTA to open vast opportunities for India’s youth: PM - Times of India
+  The deal will open vast opportunities for India's
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3V2NGN3QWdqWUlBYm1LSmxUbUJoajNYX3ptRmJweE55Q0VrOU1oal9Qd0dqQmQyOXVHdkl1WGcwZVBrc25RR1hQZWRFOU1yU3Y1OVZ5RnE0ZFZsbnEwUE1XRmF2el9ob0I3d1ZyMVM1Uk5EbG43b3llbkdlcm9CVC1DVFpQR2g5eG5EWXFGdmhLUTU2VGh6SEw3ZVd6SFlSX1h3VERwOVhtLThMaVRZUnduODBfa0hSdEHSAb8BQVVfeXFMTWF0NkcyNDRkSDBrbzhLRlRwbWdzVHJtenU5a05FbEsxdFVka2Y0VUo3emdCbU9RTVZraHktV3I3WmY2QkFmOVIzaXF4WW9xb18wa1ZFMEl1UkFZb2tuMlFzbHVPVDREUkxhbDhUSnZaeHVFQVhPRUx2YV9WS19HaXJocWJIUFZaLVNzNjdpTmQ5YzMxUjEwbm1BTm1EVXMzZmlHeEtKeWdNdHMxVV9JT3hXR3pURVZuMmlhUnVDekU?oc=5
 
-- South Indian Sci-Fi Evolution: From Spectacle to Introspective Narratives - Times of India
-  South Indian Sci-Fi Evolution: From Spect
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS3pORXN3b0RLUlpLcGFxRlQ4WEk5bWpYU3hSaUQ1cXFRWnFseGktd0loZWNGbVBZRHRtc0xCczNkVXBMNWl6UTRSWV9zd2ZpSEZfempQRDgxVXd1OTd0S21CbUU5NDZIQmVScUpXa3g0YmN1UWxxVThVeDF3NlVYS3BZTmxza3IybWpkcWxJdFN0bUtYa3dZVjI4d0JsSnhweW1FSVR6YkJJRXpoOTg1d2ozMVktanVzOGYxRV9IWXRrWFJwMGI2MTdrLUNZTjU2R1ZKREh6MUZLdVFWTEREUtIB5gFBVV95cUxQcURDZmlTNmxnZlF0ajVOYktEZXl1LVJ2NXMwRmtaZGx5TFBKb1dnalFoWjNrX1lzVHFZVG5xaWp4ZS04Zl9NUU4zVV90OHVVVGVjS3I2czBxUzJBRDZheGV0R2M1LWRuNkU2cU0wUHpmRXVyMHE3TXhHMFlfOHA4U2xqSlhpdkRNSm9FRXNlMlQ1VEw0SVNGRlRaRk1YY1RHVkc0dnA1UmJuaDlTT3JpWDBfSUMzcTJVRHdxdTI2cW9QdWk5UnVQN2JVblNuak9PemdBbzJrZ3NvRmktdkctRFNnRU9fZw?oc=5
+- Delhi Police Wins 'Best Marching Contingent' Award At Republic Day Parade 2026 - NDTV
+  Delhi Police Wins 'Best Marching Conting
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSXhLZkRHZDA0R1htdVA0Vm1fSHFwblpWbXU1aW9VODVyeTBLS2xBT01mRzlCX0t0SzA1dGFvM000M2xJNzBRdE43NktsYUd0UU1GdnhXc1lEcnYwcXQ0b1JZZ01oUVNuX2hJMy1PZ2VDbUsyS1VSR2FBNV8yRzdMZFU2MElkb2lFRTQ2ZXl6UjZidjdkUlJJd2UtQTNKMFR3NUhaNDVWZGsxbWpQWVdLYWRwMm81Z3Zn0gHAAUFVX3lxTE92RkhGYks3b2g5OG96MGg2dWpISnFKdnN6STF1dTNhRzVQbWE3aVNsdjhMWm0wdVJLREJ5NGJQYzB3aHpoM2lVWHBTOE1pODN3ay1ZbVYyZnljaVFpMXJuMDlHeDVaRi1rdlU1YlJHUEJFS0VkRjZzbTZCTWtieU1vRUZxUl9UbHpUZHllYjB6eEhJSUd2VWd5ZkpEbk5rUmNDckpwTXZBSmNjN2lHVElJY0lSN21RbG5sSUkzUE94WQ?oc=5
 
-- ‘Big Opportunity’: Surat Traders Eye Growth For India’s Textile Industry Amid Bangladesh Crisis - Times of India
-  'Big Opportunity’: Surat Traders Eye Growth For
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR1F4SVRXWWk0cHZsZzJxd2tnNE11SzFSdGozejJEYmVRTXZNcmxBMER1Z2tlbmh5X2VpU3otQWF2Snp1UlNzbktRX0VFODRpaDZGNGI4Q1RsYTRtdWNtR3YyQkdOd2RxVWVULVBoNlpxY0tBcnNRd1U1R0xZZEdoZE9KN3d3aTYtUDRFbmtlOFRUbTlReExhc2ZZeWJOdGktVXRwcEpUQlBjZm93ZUQxNXY0RlVMR3czNjBNUWJEc2k0MC1FVjlJZUF6bzktRkxlWTVNRXpoc3RaQjZ0bHV5SFo1MjMxS3JCN3VoQXJYN0ZDU0tmclHSAfsBQVVfeXFMUFZaeWlxU2xYWmZER1RReEsxMkdKRGpncUxKUzllenBMT2dZTDBDRVBjRm5lcVhQQXZVYXBCbzZLUkpwYWhIQ2pxQ3hIMVlEVkhwRUJKVkM5ZHZZRllJcWFubnJWeE9kSDdjZHhwcG5xelJMd0xiM2lkay1kaHZTQW53NTlOTlREZThnaDNUWkU1Q0F3SnRab25EZUxUbk04LWliNDZmUlVFd0ZTbVFtd2FYdkhxbTRNeDZHcUpaenpydmxRVFJoZDBRdlFYVm4wYWE3UjRRcTFfWW1hRFlaancxZTFGdU93SkhFOFRDZV9UM3ljX2o2RHNab00?oc=5
+- Western Command sets tone for India’s proactive disaster response - Times of India
+  The Indian military has stepped up its
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxObEVGbGQtOU1IcHFfYUwyUGlUdnVmR19Hdm9HaEhXeHd0MjRfSURYbHFHNHlUQkphWHlWdkFPVEVNczc3dEN1RHJYamc2NkR5LW0xQVBnbVl4blRRejhSQzZmaUVJMVhZVEJ5WEx5VnB3c1lVOXFJV0h5RWJEaF9xNmlkV2NMWlExRG9vOHlVbEhVS0ljNmhjZVJMTWtVb1o4VVJodUZBOElUTjFIeU9EZ3FBNjRwWGNoMl82UHRvM1lKbWJOTWVCYThYZ2hnVlJHVFB1U1JGaWd2Z9IB3wFBVV95cUxOYUVTdGZxZGxIVmVxOW9tVU8xV25UNEdfcVhXWXVWNk5FN0ZXZlZ3bF9ZVDlJdUZsYUV2ankyUC1VWG1raUhneUJzX0FFOWMzMk82M2s2Ui0zWVg2Mm56cXlTWU1SOXNoaEVvZGQyRE9FTjN0Y2lqTHVqbEZBcjVuTW91ektTdEF1LUZqSGIyMEJXMk1kNFBiN3NtRXhfRDBkUkdvWkd2LVJ4MEtwNHZLWkJuUzlyRkhBVTIzYzctRE5RamJHVmwyTUlvNXF1NjZRQnZ6TDZWbEZuaEY0Q1JJ?oc=5
 
 - "Very Significant Progress": India Says US Trade Pact Nearing Closure - NDTV
   "Very Significant Progress": India Says US
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalZhT3QxdFJVVHZ2R3dqTDBFaW9YSnJwZVBsdm5TRE1ucFkwblpxUWtxUnNMSHFMclJHeFpoTWg0ZEx5QVZPLVprWW4zbFpBNUFjVHpFdHlJUmcyd2FVNUdNcHRjQmpCYUc5bW5OclRqRUR2SERra1RsYjloNlM1UlRla0wwQmZVVno2MG5RU1kxTXNiUEdLZk8xYV9mUU8wTEpxZXJ0NkVPdk3SAbMBQVVfeXFMTUF5aXRlbVlCeXdXYU5ILU5wWWRpa2FJMWZEMEMzTEdfaU9td05fU0xHUFRVcU9vb3dySWNqVE5uS1BTYzBDRnZvOGpkeHAtbUdWNEMxS0Njcy1KbS1sY3dTSmJpbjFGUWtZbGpRcXNtRGNiUF82RmhEdUFFLXN5b0l6bDB0ZVM1cHh3MzBqNzNlNkllY2xuQ1JpRDVjUkMzZkt0VU5lQnlna2pvVU55dTdqUVU?oc=5
 
-- Top News Headlines of January 26, 2026 | US deploys aircraft carrier in Middle East region amid tension with Iran - The Indian Express
-  The Indian Express has published an exclusive article on Iran. The article was published on January 26, 20
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1N0RExkdTJDUE1rYXVHNFotOEwzQmNmbnNqUkZvanZ6amN5eDFDS1lTN1Q1MmlRNXdFRjlsSjFpSl9Vd2VTWnlHb1lpLWNxS29UcHlPUl9uaWVONUFmd0Q0TW85UUNjTmoxRGxrbjNncUJtTWNBY3RnUnQtaHVRY1pjWThRUHlSd0pVOVRYUUtkbkZiRlBSVUdjZzk2YzBSMXNqLU83aHhxRnVFMC03VGVTYVhFekZldlgyMkVrcmJrVHhvNGZxZ3p6Z1RIc0o1T2NHQ196eTRjdV9oa3p0RElfTXFQUlcy0gHvAUFVX3lxTE8ydTFSamt2dk1QSWozQ3ZQT1hWalpzU1VtYUwzUXRCLV9TNkFZanV5X3dWQ0FrV0YwcXotdTMyOUFVbkNpQjI1RGdEZWZfR3BaZG9hamxaaWFHWFhvZGlteUswMVBQd2ExYmFTUHk0UnAyOEJUX19UUHBmamZ2bEZXaVNERU1wOFRRdVZ5NV9YanBXMUJCYnVCa2ctd3Z3Y0w2cFdmdG1UQ0FRVkR4VXp4c3RXaHhHOE9obll3VVI5aFZvZU9jV25PMk1RZl94SUZmZ09lZEFjZWpCa05Qc0JzVWlOTGhlN1hmRnZKZG5j?oc=5
+- 'Europe Funding War Against Itself With India-EU Trade Deal': Team Trump - NDTV
+  'Europe Funding War Against Itself With India
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUY5RUZDblFjRU0wbkhhNUtNOXlpOTBLQzBzZWJ1WmIzMGJaMTJKdmpBZXI3QWZqT2hLb1hfWnJROTU4emlhV2ktbHRZRUVBeWl3QjBPaVQzX25GMnRLdzNoMnNwT053Ukh3bHQ5aXR0UFpVRkZ1Tm1mU2h5YXJNTUFXQkRTaWNrWS00OWhzVlZYdFVPU2xnQXJiY2R3OFA5SXAtS09MekxYRGEwZmpCaERuSzkydG1tc2hmT0ZUNNIBxwFBVV95cUxOWk1vLTBndVNmN2RFZGgxTVEyZ0R6TzJ4OEE4cE9qam5YNVhaaWVzUVl4d3F6bUVNZDZxRUZVSG5SMXVuWC01ell2cW02SjJnZ1BoWTc3U1NxQU5nQ3V5b1dhQUlpRjdTaHpIWWFxNkZTSWhsdFpmbExENWdpMkhxakpiRDVkSEdSYkt0X1p5WWgxWElIWjA4a3NXaWVhYlhQUldVWWZSaFkyRm9DZDAxeTNNOVYwQ2o5RUVEQXIyX2k3Si1CNk9v?oc=5
 
-- Breaking news live updates: NIA searches multiple locations in Kerala in PFI Jihadi case - Times of India
-  NIA searches multiple locations in Kerala in PFI Jihadi case.
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHdwaDB3LUV6ZjMxOVE1ZnBsVTEwVEVpbkdXaDRXZFJCNkxCaGhOWEw0MV9oOTVReEVnamVXNERaVldqYmt2bUctVHpMc3hmR3VrckhZQzl5RnhRMFBKQVR4MF9fTE9NcjdfZUdZMVdUZFFfeUlQZkFLcHdyT3lid2QyOWdJNlBYU3NVTHNPZG9jRWozLVdEMDgzM1ctYlpfUHVUNjBB?oc=5
+- FTA to open vast opportunities for India’s youth: PM - Times of India
+  The deal will open vast opportunities for India's
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3V2NGN3QWdqWUlBYm1LSmxUbUJoajNYX3ptRmJweE55Q0VrOU1oal9Qd0dqQmQyOXVHdkl1WGcwZVBrc25RR1hQZWRFOU1yU3Y1OVZ5RnE0ZFZsbnEwUE1XRmF2el9ob0I3d1ZyMVM1Uk5EbG43b3llbkdlcm9CVC1DVFpQR2g5eG5EWXFGdmhLUTU2VGh6SEw3ZVd6SFlSX1h3VERwOVhtLThMaVRZUnduODBfa0hSdEHSAb8BQVVfeXFMTWF0NkcyNDRkSDBrbzhLRlRwbWdzVHJtenU5a05FbEsxdFVka2Y0VUo3emdCbU9RTVZraHktV3I3WmY2QkFmOVIzaXF4WW9xb18wa1ZFMEl1UkFZb2tuMlFzbHVPVDREUkxhbDhUSnZaeHVFQVhPRUx2YV9WS19HaXJocWJIUFZaLVNzNjdpTmQ5YzMxUjEwbm1BTm1EVXMzZmlHeEtKeWdNdHMxVV9JT3hXR3pURVZuMmlhUnVDekU?oc=5
 
-- South Indian Sci-Fi Evolution: From Spectacle to Introspective Narratives - Times of India
-  South Indian Sci-Fi Evolution: From Spect
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS3pORXN3b0RLUlpLcGFxRlQ4WEk5bWpYU3hSaUQ1cXFRWnFseGktd0loZWNGbVBZRHRtc0xCczNkVXBMNWl6UTRSWV9zd2ZpSEZfempQRDgxVXd1OTd0S21CbUU5NDZIQmVScUpXa3g0YmN1UWxxVThVeDF3NlVYS3BZTmxza3IybWpkcWxJdFN0bUtYa3dZVjI4d0JsSnhweW1FSVR6YkJJRXpoOTg1d2ozMVktanVzOGYxRV9IWXRrWFJwMGI2MTdrLUNZTjU2R1ZKREh6MUZLdVFWTEREUtIB5gFBVV95cUxQcURDZmlTNmxnZlF0ajVOYktEZXl1LVJ2NXMwRmtaZGx5TFBKb1dnalFoWjNrX1lzVHFZVG5xaWp4ZS04Zl9NUU4zVV90OHVVVGVjS3I2czBxUzJBRDZheGV0R2M1LWRuNkU2cU0wUHpmRXVyMHE3TXhHMFlfOHA4U2xqSlhpdkRNSm9FRXNlMlQ1VEw0SVNGRlRaRk1YY1RHVkc0dnA1UmJuaDlTT3JpWDBfSUMzcTJVRHdxdTI2cW9QdWk5UnVQN2JVblNuak9PemdBbzJrZ3NvRmktdkctRFNnRU9fZw?oc=5
+- Delhi Police Wins 'Best Marching Contingent' Award At Republic Day Parade 2026 - NDTV
+  Delhi Police Wins 'Best Marching Conting
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSXhLZkRHZDA0R1htdVA0Vm1fSHFwblpWbXU1aW9VODVyeTBLS2xBT01mRzlCX0t0SzA1dGFvM000M2xJNzBRdE43NktsYUd0UU1GdnhXc1lEcnYwcXQ0b1JZZ01oUVNuX2hJMy1PZ2VDbUsyS1VSR2FBNV8yRzdMZFU2MElkb2lFRTQ2ZXl6UjZidjdkUlJJd2UtQTNKMFR3NUhaNDVWZGsxbWpQWVdLYWRwMm81Z3Zn0gHAAUFVX3lxTE92RkhGYks3b2g5OG96MGg2dWpISnFKdnN6STF1dTNhRzVQbWE3aVNsdjhMWm0wdVJLREJ5NGJQYzB3aHpoM2lVWHBTOE1pODN3ay1ZbVYyZnljaVFpMXJuMDlHeDVaRi1rdlU1YlJHUEJFS0VkRjZzbTZCTWtieU1vRUZxUl9UbHpUZHllYjB6eEhJSUd2VWd5ZkpEbk5rUmNDckpwTXZBSmNjN2lHVElJY0lSN21RbG5sSUkzUE94WQ?oc=5
 
-- ‘Big Opportunity’: Surat Traders Eye Growth For India’s Textile Industry Amid Bangladesh Crisis - Times of India
-  'Big Opportunity’: Surat Traders Eye Growth For
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR1F4SVRXWWk0cHZsZzJxd2tnNE11SzFSdGozejJEYmVRTXZNcmxBMER1Z2tlbmh5X2VpU3otQWF2Snp1UlNzbktRX0VFODRpaDZGNGI4Q1RsYTRtdWNtR3YyQkdOd2RxVWVULVBoNlpxY0tBcnNRd1U1R0xZZEdoZE9KN3d3aTYtUDRFbmtlOFRUbTlReExhc2ZZeWJOdGktVXRwcEpUQlBjZm93ZUQxNXY0RlVMR3czNjBNUWJEc2k0MC1FVjlJZUF6bzktRkxlWTVNRXpoc3RaQjZ0bHV5SFo1MjMxS3JCN3VoQXJYN0ZDU0tmclHSAfsBQVVfeXFMUFZaeWlxU2xYWmZER1RReEsxMkdKRGpncUxKUzllenBMT2dZTDBDRVBjRm5lcVhQQXZVYXBCbzZLUkpwYWhIQ2pxQ3hIMVlEVkhwRUJKVkM5ZHZZRllJcWFubnJWeE9kSDdjZHhwcG5xelJMd0xiM2lkay1kaHZTQW53NTlOTlREZThnaDNUWkU1Q0F3SnRab25EZUxUbk04LWliNDZmUlVFd0ZTbVFtd2FYdkhxbTRNeDZHcUpaenpydmxRVFJoZDBRdlFYVm4wYWE3UjRRcTFfWW1hRFlaancxZTFGdU93SkhFOFRDZV9UM3ljX2o2RHNab00?oc=5
+- Western Command sets tone for India’s proactive disaster response - Times of India
+  The Indian military has stepped up its
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxObEVGbGQtOU1IcHFfYUwyUGlUdnVmR19Hdm9HaEhXeHd0MjRfSURYbHFHNHlUQkphWHlWdkFPVEVNczc3dEN1RHJYamc2NkR5LW0xQVBnbVl4blRRejhSQzZmaUVJMVhZVEJ5WEx5VnB3c1lVOXFJV0h5RWJEaF9xNmlkV2NMWlExRG9vOHlVbEhVS0ljNmhjZVJMTWtVb1o4VVJodUZBOElUTjFIeU9EZ3FBNjRwWGNoMl82UHRvM1lKbWJOTWVCYThYZ2hnVlJHVFB1U1JGaWd2Z9IB3wFBVV95cUxOYUVTdGZxZGxIVmVxOW9tVU8xV25UNEdfcVhXWXVWNk5FN0ZXZlZ3bF9ZVDlJdUZsYUV2ankyUC1VWG1raUhneUJzX0FFOWMzMk82M2s2Ui0zWVg2Mm56cXlTWU1SOXNoaEVvZGQyRE9FTjN0Y2lqTHVqbEZBcjVuTW91ektTdEF1LUZqSGIyMEJXMk1kNFBiN3NtRXhfRDBkUkdvWkd2LVJ4MEtwNHZLWkJuUzlyRkhBVTIzYzctRE5RamJHVmwyTUlvNXF1NjZRQnZ6TDZWbEZuaEY0Q1JJ?oc=5
+
+- "Very Significant Progress": India Says US Trade Pact Nearing Closure - NDTV
+  "Very Significant Progress": India Says US
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalZhT3QxdFJVVHZ2R3dqTDBFaW9YSnJwZVBsdm5TRE1ucFkwblpxUWtxUnNMSHFMclJHeFpoTWg0ZEx5QVZPLVprWW4zbFpBNUFjVHpFdHlJUmcyd2FVNUdNcHRjQmpCYUc5bW5OclRqRUR2SERra1RsYjloNlM1UlRla0wwQmZVVno2MG5RU1kxTXNiUEdLZk8xYV9mUU8wTEpxZXJ0NkVPdk3SAbMBQVVfeXFMTUF5aXRlbVlCeXdXYU5ILU5wWWRpa2FJMWZEMEMzTEdfaU9td05fU0xHUFRVcU9vb3dySWNqVE5uS1BTYzBDRnZvOGpkeHAtbUdWNEMxS0Njcy1KbS1sY3dTSmJpbjFGUWtZbGpRcXNtRGNiUF82RmhEdUFFLXN5b0l6bDB0ZVM1cHh3MzBqNzNlNkllY2xuQ1JpRDVjUkMzZkt0VU5lQnlna2pvVU55dTdqUVU?oc=5
+
+- 'Europe Funding War Against Itself With India-EU Trade Deal': Team Trump - NDTV
+  'Europe Funding War Against Itself With India
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUY5RUZDblFjRU0wbkhhNUtNOXlpOTBLQzBzZWJ1WmIzMGJaMTJKdmpBZXI3QWZqT2hLb1hfWnJROTU4emlhV2ktbHRZRUVBeWl3QjBPaVQzX25GMnRLdzNoMnNwT053Ukh3bHQ5aXR0UFpVRkZ1Tm1mU2h5YXJNTUFXQkRTaWNrWS00OWhzVlZYdFVPU2xnQXJiY2R3OFA5SXAtS09MekxYRGEwZmpCaERuSzkydG1tc2hmT0ZUNNIBxwFBVV95cUxOWk1vLTBndVNmN2RFZGgxTVEyZ0R6TzJ4OEE4cE9qam5YNVhaaWVzUVl4d3F6bUVNZDZxRUZVSG5SMXVuWC01ell2cW02SjJnZ1BoWTc3U1NxQU5nQ3V5b1dhQUlpRjdTaHpIWWFxNkZTSWhsdFpmbExENWdpMkhxakpiRDVkSEdSYkt0X1p5WWgxWElIWjA4a3NXaWVhYlhQUldVWWZSaFkyRm9DZDAxeTNNOVYwQ2o5RUVEQXIyX2k3Si1CNk9v?oc=5
+
+- FTA to open vast opportunities for India’s youth: PM - Times of India
+  The deal will open vast opportunities for India's
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3V2NGN3QWdqWUlBYm1LSmxUbUJoajNYX3ptRmJweE55Q0VrOU1oal9Qd0dqQmQyOXVHdkl1WGcwZVBrc25RR1hQZWRFOU1yU3Y1OVZ5RnE0ZFZsbnEwUE1XRmF2el9ob0I3d1ZyMVM1Uk5EbG43b3llbkdlcm9CVC1DVFpQR2g5eG5EWXFGdmhLUTU2VGh6SEw3ZVd6SFlSX1h3VERwOVhtLThMaVRZUnduODBfa0hSdEHSAb8BQVVfeXFMTWF0NkcyNDRkSDBrbzhLRlRwbWdzVHJtenU5a05FbEsxdFVka2Y0VUo3emdCbU9RTVZraHktV3I3WmY2QkFmOVIzaXF4WW9xb18wa1ZFMEl1UkFZb2tuMlFzbHVPVDREUkxhbDhUSnZaeHVFQVhPRUx2YV9WS19HaXJocWJIUFZaLVNzNjdpTmQ5YzMxUjEwbm1BTm1EVXMzZmlHeEtKeWdNdHMxVV9JT3hXR3pURVZuMmlhUnVDekU?oc=5
+
+- Delhi Police Wins 'Best Marching Contingent' Award At Republic Day Parade 2026 - NDTV
+  Delhi Police Wins 'Best Marching Conting
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSXhLZkRHZDA0R1htdVA0Vm1fSHFwblpWbXU1aW9VODVyeTBLS2xBT01mRzlCX0t0SzA1dGFvM000M2xJNzBRdE43NktsYUd0UU1GdnhXc1lEcnYwcXQ0b1JZZ01oUVNuX2hJMy1PZ2VDbUsyS1VSR2FBNV8yRzdMZFU2MElkb2lFRTQ2ZXl6UjZidjdkUlJJd2UtQTNKMFR3NUhaNDVWZGsxbWpQWVdLYWRwMm81Z3Zn0gHAAUFVX3lxTE92RkhGYks3b2g5OG96MGg2dWpISnFKdnN6STF1dTNhRzVQbWE3aVNsdjhMWm0wdVJLREJ5NGJQYzB3aHpoM2lVWHBTOE1pODN3ay1ZbVYyZnljaVFpMXJuMDlHeDVaRi1rdlU1YlJHUEJFS0VkRjZzbTZCTWtieU1vRUZxUl9UbHpUZHllYjB6eEhJSUd2VWd5ZkpEbk5rUmNDckpwTXZBSmNjN2lHVElJY0lSN21RbG5sSUkzUE94WQ?oc=5
+
+- Western Command sets tone for India’s proactive disaster response - Times of India
+  The Indian military has stepped up its
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxObEVGbGQtOU1IcHFfYUwyUGlUdnVmR19Hdm9HaEhXeHd0MjRfSURYbHFHNHlUQkphWHlWdkFPVEVNczc3dEN1RHJYamc2NkR5LW0xQVBnbVl4blRRejhSQzZmaUVJMVhZVEJ5WEx5VnB3c1lVOXFJV0h5RWJEaF9xNmlkV2NMWlExRG9vOHlVbEhVS0ljNmhjZVJMTWtVb1o4VVJodUZBOElUTjFIeU9EZ3FBNjRwWGNoMl82UHRvM1lKbWJOTWVCYThYZ2hnVlJHVFB1U1JGaWd2Z9IB3wFBVV95cUxOYUVTdGZxZGxIVmVxOW9tVU8xV25UNEdfcVhXWXVWNk5FN0ZXZlZ3bF9ZVDlJdUZsYUV2ankyUC1VWG1raUhneUJzX0FFOWMzMk82M2s2Ui0zWVg2Mm56cXlTWU1SOXNoaEVvZGQyRE9FTjN0Y2lqTHVqbEZBcjVuTW91ektTdEF1LUZqSGIyMEJXMk1kNFBiN3NtRXhfRDBkUkdvWkd2LVJ4MEtwNHZLWkJuUzlyRkhBVTIzYzctRE5RamJHVmwyTUlvNXF1NjZRQnZ6TDZWbEZuaEY0Q1JJ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-28 18:34:48 UTC_
+_Last updated: 2026-01-29 01:33:32 UTC_
