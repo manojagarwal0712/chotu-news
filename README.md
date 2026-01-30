@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Andhra calls tech giants for talks as it mulls social media ban for children
+- Mild tremors reported in Tamil Nadu’s Virudhunagar district
   
-  🔗 https://indianexpress.com/article/india/andhra-calls-tech-giants-for-talks-as-it-mulls-social-media-ban-for-children-10502451/
+  🔗 https://indianexpress.com/article/india/mild-tremors-reported-in-tns-virudhunagar-district-10502925/
 
-- Budget session: Economic survey 2025-26 | PISA-like Class 10 assessment proposed
+- US to return three stolen ancient bronze sculptures to India after illegal removal confirmed
   
-  🔗 https://indianexpress.com/article/india/budget-session-economic-survey-2025-26-pisa-like-class-10-assessment-proposed-10502479/
+  🔗 https://indianexpress.com/article/india/us-to-return-three-stolen-ancient-bronze-sculptures-to-india-after-illegal-removal-confirmed-10502784/
 
-- MGNREGA achieved significant gains, VB-G RAM G represents decisive shift in rural job policy
+- Congress strategically stays mum as issue over new UGC regulations push BJP into a corner: ‘Win-win situation’
   
-  🔗 https://indianexpress.com/article/india/mgnrega-achieved-significant-gains-vb-g-ram-g-represents-decisive-shift-in-rural-job-policy-10502478/
+  🔗 https://indianexpress.com/article/india/congress-strategically-stays-mum-new-ugc-regulations-push-bjp-into-corner-10502884/
 
-- Passenger safety, duopoly in civil aviation flagged in RS
+- Gold Today Rate, January 30: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/passenger-safety-duopoly-in-civil-aviation-flagged-in-rs-10502482/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-january-30-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10502828/
 
-- Economic Survey: Live entertainment sector surpassed Rs 10,000 cr in ’24
+- Amid Iran protests and US military posturing, India’s Deputy NSA visits Tehran
   
-  🔗 https://indianexpress.com/article/india/economic-survey-live-entertainment-sector-surpassed-rs-10000-cr-in-24-10502473/
+  🔗 https://indianexpress.com/article/india/amid-iran-protests-and-us-military-posturing-indias-deputy-nsa-visits-tehran-10502631/
+
+- Amazon in talks to invest as much as $50 billion in OpenAI, source says
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-in-talks-to-invest-as-much-as-50-billion-in-openai-source-says-10502740/
+
+- Why does Elon Musk want to put AI data centers in space?
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/why-does-elon-musk-want-to-put-ai-data-centers-in-space-10502739/
+
+- Apple posts most profitable quarter ever as iPhone sales surge
+  
+  🔗 https://indianexpress.com/article/technology/apple-posts-most-profitable-quarter-ever-as-iphone-sales-surge-10502638/
 
 - Researchers find a way to reuse exhaust CO₂ under real-world conditions
   
@@ -28,177 +40,193 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/devialets-phantom-ultimate-speaker-debuts-with-1100w-power-starting-at-rs-4-08-lakh-10502077/
 
-- Zuckerberg’s $135 Billion bet: Why Instagram and Facebook could be flooded with AI content
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-135-billion-ai-investment-instagram-facebook-social-media-10501809/
+- Apple India looks beyond iPhone for growth as market starts maturing
+  Analysts say Apple is now reaping the benefits of a large base of existing customers who are now looking at other products of its ecosystem.
+  🔗 https://www.livemint.com/companies/apple-india-iphone-subscription-services-mac-ipad-11769748716561.html
 
-- Samsung unveils 13-inch paper-thin digital display that uses almost zero power and cuts carbon by 40%
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-unveils-13-inch-paper-thin-digital-display-10501846/
+- Canada back in play: Indian Oil to double down on assets as ties improve
+  India's largest refine is looking to step up exploration and invest more in its Canadian subsidiary.
+  🔗 https://www.livemint.com/companies/news/indian-oil-double-down-canada-assets-diplomatic-ties-crude-diversification-11769743188782.html
 
-- Athena: Inside Nasa’s fastest-ever supercomputer powering Artemis II
-  
-  🔗 https://indianexpress.com/article/technology/science/athena-inside-nasas-fastest-ever-supercomputer-powering-artemis-ii-10501847/
+- IndiGo, Air India, Akasa to add 240 aircraft in two years
+  The new Airbus and Boeing aircraft will help Indian airlines expand their fleets, after months of delay and slowdown in route expansion plans
+  🔗 https://www.livemint.com/companies/indigo-air-india-akasa-fleet-expansion-11769692553664.html
 
-- India’s spacetech funding heats up as early startups near launches
-  Larger seed cheques, tougher competition and climbing valuations
-  🔗 https://www.livemint.com/companies/start-ups/spacetech-startups-india-venture-capital-funding-space-infra-launches-11769653987384.html
+- Sun Pharma Q3FY26 Preview: Innovative portfolio, India market to drive growth
+  Analysts will also be seeking clarity on any potential impact from the US government’s most favoured nation pricing norms.
+  🔗 https://www.livemint.com/companies/company-results/sun-pharma-q3-sun-pharma-results-preview-11769696682016.html
 
-- Mergers, headwinds, missed bets: How L&amp;T missed growth targets for IT units set five years ago
-  L&amp;amp;T's IT units, LTIMindtree and LTTS, are projected to underperform, missing ambitious growth targets
-  🔗 https://www.livemint.com/companies/india-lt-it-services-five-year-growth-target-missed-larsen-toubro-11769663359001.html
+- Apple acquires Israeli audio AI startup Q.ai, reportedly for $1.6 billion
+  Q.ai was backed by venture capital firms Matter Venture Partners, Kleiner Perkins, Spark Capital, Exor and GV, formerly known as Google Ventures. Apple did not disclose terms of the deal for Q.ai
+  🔗 https://www.livemint.com/companies/news/apple-acquires-israeli-audio-ai-startup-q-ai-reportedly-for-1-6-billion-11769739394671.html
 
-- Reliance to enter the bottled iced tea market with Brew House relaunch
-  The iced teas will be launched in two flavours, lemon and peach. The entry price
-  🔗 https://www.livemint.com/companies/reliance-brew-house-iced-tea-market-launch-strategy-pricing-11769671925461.html
+- Bitcoin slips to month low, falls 2.5% as US Fed chair weighs on risk assets
+  The world's largest cryptocurrency was down 2.5% on Friday at around $82,300. It's on track for a fourth consecutive
+  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-slips-to-month-low-falls-2-5-as-us-fed-chair-weighs-on-risk-assets-11769752260868.html
 
-- ONGC to offload stake in petchem arm OPal, eyes global investors
-  The proposed share sale in ONGC subsidiary is part of the government's
-  🔗 https://www.livemint.com/companies/news/ongc-opal-stake-sale-global-tender-india-energy-week-petrochemical-hub-11769694156711.html
+- Budget stocks 2026: Analysts recommend THESE 5 stocks to buy ahead of February 1
+  Analysts have recommended Titan, Garden Reach Shipbuilders, Grasim, Coal India and P
+  🔗 https://www.livemint.com/market/stock-market-news/budget-stocks-2026-analysts-recommend-these-5-stocks-to-buy-ahead-of-february-1-11769754499315.html
 
-- Adnoc Gas, TotalEnergies, Gunvor in fray for BPCL's  ₹35,000-crore LNG contract
-  India's refiners and gas supply firms have been actively scouting for long-term gas contracts worldover. This is in a bid to achieve energy security amid an uncertain trade scenario
-  🔗 https://www.livemint.com/companies/adnoc-totalenergies-bpcl-lng-contract-tender-11769682180052.html
+- Small-cap stock under  ₹50: IT share Blue Cloud soars 12% despite weak trends on Dalal Street
+  Blue Cloud Softech Solutions surged 12% on January 30 despite a weak market. Although it remains 53% below its 52-week high, the stock has shown long-term gains of 287%
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-under-rs-50-it-share-blue-cloud-share-price-soars-12-despite-weak-trends-on-dalal-street-11769754202369.html
 
-- Stock recommendations for 30 January from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 30 January. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-stock-picks-marketsmith-india-sensex-nifty-11769693920744.html
+- South Indian Bank share price crashes 19% to over 3-month low. Is CEO exit behind the fall?
+  South Indian Bank shares dropped nearly 19% to  ₹36 after CEO PR Seshadri announced he won't
+  🔗 https://www.livemint.com/market/stock-market-news/south-indian-bank-share-price-crashes-19-to-over-a-3-month-low-is-ceo-exit-behind-the-fall-11769752449403.html
 
-- Dollar under pressure as investors remain jittery over U.S. policy
-  Dollar under pressure as investors remain
-  🔗 https://www.livemint.com/market/dollar-under-pressure-as-investors-remain-jittery-over-u-s-policy-11769715810764.html
+- Gold rate skyrockets 115% in a year: Is yellow metal headed for a deep correction as gains fuel bubble concerns?
+  Gold rate in India has skyrocketed by 115% in a year, raising concerns of a potential correction. Experts suggest profit-booking and strategic asset
+  🔗 https://www.livemint.com/market/commodities/gold-rate-rockets-115-in-a-year-is-yellow-metal-headed-for-a-deep-correction-as-gains-fuel-bubble-concerns-11769749719716.html
 
-- Gold price crashes 6%, silver 8% as sudden selloff grips precious metals: What's behind the fall? Explained
-  Both gold and silver retreated sharply from their all-time high levels as the US dollar strengthened and amid
-  🔗 https://www.livemint.com/market/commodities/gold-price-crashes-6-silver-rate-today-8-as-sudden-selloff-grips-precious-metals-whats-behind-the-fall-explained-11769711963519.html
+- Why Nintendo Switch 2 could face a steep price hike
+  The fastest-selling game console of all time may not be enough to shelter Nintendo Co. from
+  🔗 https://www.livemint.com/technology/tech-news/why-nintendo-switch-2-could-face-a-steep-price-hike-11769751297369.html
 
-- Gold falls as investors take profits after record high
-  Gold falls as investors
-  🔗 https://www.livemint.com/market/gold-falls-as-investors-take-profits-after-record-high-11769711777015.html
+- As an uncertain 2026 begins, virtual journeys back to 2016 become a trend
+  Virtual journeys back to 2016 become a trend
+  🔗 https://www.livemint.com/technology/as-an-uncertain-2026-begins-virtual-journeys-back-to-2016-become-a-trend-11769749955104.html
 
-- Bitcoin prices today: Crypto token drops over 5% to $84,400, market capitalisation hits $1.68 trillion
-  Bitcoin hit a new low of $84,410 on January 29, marking a 5.43% drop. Its market capitalisation is $1.68 trillion, with
-  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-prices-today-crypto-token-drops-over-5-to-84-400-market-capitalisation-hits-1-68-trillion-11769702801298.html
+- Carl Pei says Nothing enters phase two, no new flagship smartphone in 2026
+  CEO Carl Pei detailed a refreshed mid-range lineup, audio focus, rising prices, leadership changes and global retail expansion. Nothing has outlined its 2026 plans,
+  🔗 https://www.livemint.com/technology/tech-news/carl-pei-says-nothing-enters-phase-two-no-new-flagship-smartphone-in-2026-11769747610763.html
 
-- Silicon Valley Policy Forum to Stress Preserving US Lead in AI
-  Hill and Valley Forum will focus its next summit in Washington on preserving the American lead in artificial intelligence and expanding advanced manufacturing.
-  🔗 https://www.livemint.com/technology/silicon-valley-policy-forum-to-stress-preserving-us-lead-in-ai-11769723004956.html
+- OpenAI launches Prism platform with free access for personal users: How it works
+   Prism lets researchers co-edit documents, share comments and manage unlimited projects. The tool is free for personal ChatGPT users, with wider access planned.
+  🔗 https://www.livemint.com/technology/tech-news/openai-launches-prism-platform-with-free-access-for-personal-users-how-it-works-11769688057346.html
 
-- Why does Elon Musk want to put AI data centers in space?
-  
-  🔗 https://www.livemint.com/technology/why-does-elon-musk-want-to-put-ai-data-centers-in-space-11769719365790.html
+- Apple warns memory costs are starting to bite as Samsung, SK Hynix prioritise AI chips
+  Apple warns memory costs are starting to bite as Samsung
+  🔗 https://www.livemint.com/technology/apple-warns-memory-costs-are-starting-to-bite-as-samsung-sk-hynix-prioritise-ai-chips-11769737737157.html
 
-- Economic Survey calls for age-based limits on social media access, urges curbs to tackle digital addiction
-  The Economic Survey stopped short of recommending a ban. It called for age-based limits, stricter verification and platform-level safeguards for
-  🔗 https://www.livemint.com/technology/economic-survey-calls-for-age-based-limits-for-social-media-urges-platforms-to-impose-age-appropriate-defaults-11769682615175.html
+- Budget 2026: Crypto markets expect regulated, transparent, compliance-driven framework
+   crypto industry leaders are urging the government to introduce a regulated, transparent and compliance-driven framework, including lower TDS and loss set-offs.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/budget-2026-crypto-markets-expect-regulated-transparent-compliance-driven-framework/articleshow/127793056.cms
 
-- Some blind fans to experience Super Bowl with tactile device that tracks ball
-  Some blind fans to experience Super Bowl with
-  🔗 https://www.livemint.com/technology/some-blind-fans-to-experience-super-bowl-with-tactile-device-that-tracks-ball-11769684535467.html
+- Dixon Tech shares soar 5% after Q3. Should you buy, sell, or hold?
+  Dixon Technologies shares jumped after a strong Q3 profit print, but brokerages remain divided. Motilal Oswal stays bullish, Goldman Sachs maintains a Sell
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-shares-soar-5-after-q3-should-you-buy-sell-or-hold/articleshow/127792990.cms
 
-- Realme P4 Power 5G launched in India with MediaTek Dimensity 7400 Ultra SoC: Price, specifications and more
-  Realme has launched the P4 Power 5G in India on Thursday. It features a massive 10,001mAh battery, 6.8-inch 1.5K 4D Curve+ HyperGlow
-  🔗 https://www.livemint.com/technology/gadgets/realme-p4-power-5g-launched-in-india-with-mediatek-dimensity-7400-ultra-soc-price-specifications-and-more-11769670830470.html
+- Brookfield India REIT Q3 net operating income jumps 14% YoY to Rs 540 crore
+  Brookfield India REIT reported a strong Q3, with net operating income rising 14% YoY to Rs 540.4 crore. Leasing hit 1.2 million sq ft with a 17% re-leasing spread, while
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/brookfield-india-reit-q3-net-operating-income-jumps-14-yoy-to-rs-540-crore/articleshow/127792722.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  Indian equity markets closed mixed on Thursday, buoyed by pre-Budget anticipation and positive sentiment surrounding the India-EU free trade agreement. Analysts anticipate a rangebound market with stock-specific
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/127788699.cms
+- Gold, silver speculation may ease after Fed clarity: Hugh Johnson
+  Precious metals saw a sharp overnight rise. Hugh Johnson advises caution on gold and silver. Johnson expects a steady Fed chair pick, likely Kevin Warsh.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/gold-silver-speculation-may-ease-after-fed-clarity-hugh-johnson/articleshow/127792603.cms
 
-- Stocks in news: Meesho, ITC, Paytm, Nestle, Vedanta, Tata Consumer
-  Key companies like Paytm and ITC released their third-quarter financial results. Paytm reported a significant profit jump, while ITC's profit remained flat. Tata Motors experienced a profit decline.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-meesho-itc-paytm-nestle-vedanta-tata-consumer/articleshow/127788682.cms
-
-- US stock futures fall on Apple warning, gold up
-  US equity futures declined as Apple warned of margin pressures. Gold and silver saw gains, while Asian shares edged higher. Investors are increasingly wary of the timing and profitability of massive tech spending on
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-stock-futures-fall-on-apple-warning-gold-up/articleshow/127788649.cms
-
-- Foreign inflows must to put rupee on strong footing
-  Tepid foreign investment has led to a balance of payments deficit. Uncertainty surrounding a US trade deal also plays a role. Survey highlights the need for proactive reforms.
-  🔗 https://economictimes.indiatimes.com/markets/forex/foreign-inflows-must-to-put-rupee-on-strong-footing/articleshow/127788574.cms
-
-- Vedanta sees better Q4 after solid Q3
-  Vedanta reported an all-time high in revenue, profit, and EBITDA for the December quarter. CFO Ajay Goel anticipates a "significantly bigger and better" March quarter performance.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-sees-better-q4-after-solid-q3/articleshow/127788546.cms
+- Bitcoin sinks to $82,000, its lowest in two months, as Fed chairmanship uncertainty spooks crypto markets
+  Bitcoin fell to a two-month low amid uncertainty over Fed leadership, triggering a broader crypto sell-off. Ethereum and major altcoins also declined sharply.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-sinks-to-82000-its-lowest-in-two-months-as-fed-chairmanship-uncertainty-spooks-crypto-markets/articleshow/127792686.cms
 
 - "Constitutional Coup": India Slams Pakistan Over Lifetime Immunity To Asim Munir - NDTV
   "Constitutional Coup": India Slams Pakistan
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYzOWpPV2lVYWtIbkYzVElEWlUycjBndFV3LVd2cm03QlRFZ2FlbWdaalV5SWRabVgzZUJmTTFTOEk2TjluaUxOUFZVd2ZpNVVyY3l4UkI1YVVBY211SmVHeDZ5WWpZa0MxS2lVeWYzSEFrUU9vT2hvSHU2SFFmTXU4VTVRRWFXNnpQYk5Kc1FHY29MdTRPaEJhMHpwRnlHcThtYUNoLW0tdGlER21SS1dCT1k5b202ZVHSAcIBQVVfeXFMUHg0aWlteWE0LVRyS0lIN2FXUHo5VmxiSkwyV3Rvcms2djVWUGVzSEx0NFdlb0VVeWplZzFBUXVYN1ZfRU9yZmlwc1FDcXB6REtTeUhoZjJmaE1JNGhoTkJLNllFanpwU3doN1ROX2ZzQ3owLUFKdVRUSjVfN0I5Z0NkYWc2MHhRQkJqN20zNWVycHpyOWRQVmdhbkUyUW5aZjNLOW9nN1V2cmtOSnR6R2ZRSk1jRktadk9ia3NNenRFeGc?oc=5
 
-- "Nothing On The Table": India Says It Is Not Joining China-Backed Trade Pact - NDTV
-  "Nothing On The Table": India Says It Is Not
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWml2TVFoVDQ5S1RIZWxpck1fVjVQSmdTMEVlTFlNX1BtYzhEWmNQQ3RJckY3aUlnS2NTTlJ2WGtWQWh2eFU3eHVlOTRjLV8wQ01lTFNhN3l5cWJiUS1DUW9FNEpaNDJZSnJkOGc4dHlLbWs4TlpHVmM2M3lZU3AyLTBEWURlcjR1TklZWnhtX0hFeTh2UnFjT2FHaGJlcHJfVEdrMjVhS0VIN1RFcWxCekhIS0HSAbwBQVVfeXFMTmoyZm92RjdjRTAtdHRTRU5wdG5PeTQ0UVRDcEI3ZlFXSzYtT2xhS1VRcHdpa1JLeEVLQWpHaWp5a3JNNlh0QjBEVzFpNWd3QTdESzZTTE5sNlJ1M09vQkpXMmhlQWwxSXA3RXF5V0Z4LWhXa0NfcWQtT3VTZzFLUm0zekpPSlpydjRETkVLZ0Q0bnQ4cmN0UEdpN0d2ZUMwWlFLblRDMGtmWk82M0w0MjJIM3J5QVRfMGgzTXU?oc=5
+- Trade deal: India and EU announce FTA amid Trump tariff tensions - BBC
+  The EU-India trade deal could be bad news for Bangladesh. India and EU announce FTA amid Trump tariff tensions.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CU1ZhYV9kcXp1UHNiTTU1SGlkZzVWamxkZTB4Uk9wcDVISXAtNzROaDNlcHBqUVBTSFB1QklGWDlHQ3d2cHFyaUN2SHZhcUQwTi1YZWlYNDk4UQ?oc=5
 
-- Medigadda barrage most unsafe in India, Centre tells LS - Times of India
-  Medigadda barrage most unsafe in India
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNV0ZaT3kycndYcXAxQWpOOWhsaS1VU3g3MThHS0pxZXp1dnlWTnp0TW5qbE1Banc1NVJIcHN2ckgxa2FGaS1xemhrLWdUbk5yLV9fSXR5Q1VqbGRkX0w4b0g2bHNIS0V5Ylkyd2VqV2lpUnNPZm9HcUVnNndoSVlYVUUwamFzekxhQWc3VDFnaGFycUk5UWs4NWhPcDEtVllHTHJOamRiNUdjRGxpT0FfMkV3U2RJUW5KcE8wR2F0d1ZXS0hjeFZ6Mm8yd9IB0AFBVV95cUxQM2o5Qi01MjZQeV9mLU9qanZYNWU0M1dQYmJ6NTRJUDNzVmtCcms4OHJZSFpZX1NMLW5rd19ndlBQTFZPVVU3R3h5TUtPTl9Rcm8zUExvYlJ5SjF5TGVKOUtMWGxYcDFndU1EY3YtZXpzN1oxd0hLcElVZHFhMGFHajZFT3YxNk1pY01pejdLZk05X0xrS1hlTDNkMHR5a3cyMzN5dmFTamZfWVRTRng2eWZiQy1KNzVkaTJJVG9vRjk0cUd2TzJ1YjlUbUh6c0px?oc=5
+- SIR logical discrepancy: SC's West Bengal order effective all-India - Times of India
+  SIR logical discrepancy: SC's West Bengal
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2NYclhMaUVHb3N3UnJsYnhRd0c5aXZGTFhaYXhta1hTa25pdkFoVVAxRXR4eXM0cTJ6ak5yTHJ5UTBacUFDTjlOeTQ3OUoxS2xFVTU0Y29lTkRRUkg3Ykg5b2k0WDVuaGxUY0l1MnB2ZmlZUU0wbV9UQmt5MzNJX3o4MldfZFJQTmU0dlpuOTB3emJnX3pyLWVFS2dwaG85UE83YzZPY2dKVFNUb3p4WDBKQnJJdWgzOEdCc2Z2akFIcWVOLU9WdXdQVFBRd9IB0wFBVV95cUxNXzNVZThDVFFmVGlibEpEckh6cW05MHVBTThoY21Rb1JHX3BweTZEUTJDaUxHQWFQYUY2SUdtT0MtS3VmMGlwR29YaVVCaUtaSnEtYkdHLVhuOWlkenBDZlhFY1psdlpCc3ZfSkFSWE1PeklKV1FTaXpXVC1XNS1UV3FYeWlEdzlsLTNXeEc2Q3k5UEZoUWhqaG5UMW52UlBSQk5MNnpBOUNSbjNaMjhSNjN1NHpWVmd6dXUzbzJfOWhtTHp5M0FYTVlwUVVySnFlb0Fj?oc=5
 
-- Who was Ajit Pawar, the Indian politician killed in plane crash? - Al Jazeera
-  Who was Ajit Pawar, the Indian politician
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNVW0tbHZGNEQtZ3oxVTdFck9TbmFuU3dFeWdNTTBFaTh1cjdmQmNaWmZuUklIQ3FyNXU4aGIxSnpRY3NtNXN1cmluN2tTZlZNaTdrNDBwUWpyTkxVUDBjVWp6aENsLTljNHR6YmlqanBadGVqWkluUm5NcklFTEY0ZVdDd0prYkxzNGd5ZC02NzQtZDVwck9Pa0VFUGNReTlNVUJuVXBB0gGrAUFVX3lxTE9zWmdCUnJ1X2lrYXJ0cFozQWpCcmJ0OXJCNEVETGJ4NFZhRTRtbkVkYl9UWHdQelcxdW5saWNjbWNmZEZWLVk1aS1nTUxZcUNyRDFEUThxM1BJQy1QdG9OclNSNXViak1yZk03Y2Q3WnM3a1hNM3pLN1FnWl82clFZTnQzanVOeTdxMmZwQ0FEU1l3bW0xZUFheDhPaG1HUDhaOFhud3ZsLWM2QQ?oc=5
+- Region on watch as India declares Nipah virus outbreak contained - Al Jazeera
+  The Nipah virus has killed at least
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWmlJb1p3a0pRSzRGNlh1V0V2UTVNSWdJYjJodFVZaUVQSHI0Tk1VR196M1RoVUlCYWU2ai1FbTNGR1c5cmF6VmxuRkJseWF5eXdWOVFzOFp0b3JNZ0Y5N1h4WXpRM0UxS3ZYM2JlanJoSURhZVBYNVRKOWJteXFYNG1fNVpvbDRya1RVUlplUzdZQloxMHZGcGNIVFlxSFNjdzJfdlFNMlFUUdIBrwFBVV95cUxNOWo4UWJkWHZ0ODFiWlFIM1hFRE4tVkdHb0o1TnZoV1poZlRmblF5T2ZBaDZUd3FrcVJNRmJvc2swVm9WNGQxbElDZWgyeTBYRGhDTzJ5X1VBUnp6WlhfVVhXMXlpRnlwZ0l3Rm9Hcm5LUUR5MWpsbVhZR3pZVU5zSGtiQW9hQS1NOEZyZFhETUJNVHpBTVpUNlE0QWFNODBlTnpEVndmUWo4d0J1ZFEw?oc=5
 
-- ‘Good News’: Shashi Tharoor Calls India-EU FTA ‘Very Big’, Highlights Long-Term Gains - News18
-  The two countries signed an agreement on a free trade
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQOW9USllmZXY2S3g3OWx3SjFtY2luT1dzZl80LXFJamNQTFpHTmxwY1ozQjFkWTdLd0laa2JvOXBHZGVDRVVYY2MwRElMQUs0bU05MkdNdjhTZnFYTDRPa2VId3ZHZWlNblBCNHVMeUpOcktNWGtmaW53aUZiMDcyc3VfcjFPVlNfNTZrMnQ2RHhIMkhIeU9jbUt5TENGaHd3amRmOUxxVGlBMlpOUnVqN3BOX2VhYjDSAbwBQVVfeXFMUGlySE1peXRVRUVxSzBFb1JzNjdqZ2ZqSFRfZW9vczF3VnhJZ1gtcjhaQ2JmdFJLYU9BaHVMUkZjUXhac2t0WmtVRzVqRGRXMFIwdjF0T0hoWHJlakRnZkNidmZvV1hQTWo1azFPN3VudWplcXFWUDFhT3g3MEwzUnVYdVg5WTBxWm83Vm1yN09qakpTaHlueXdOcW9PTmg4Qno4NHNhTmtFbVhxN1QyZmhmd3pacjZieGVpYUw?oc=5
-
-- "Constitutional Coup": India Slams Pakistan Over Lifetime Immunity To Asim Munir - NDTV
-  "Constitutional Coup": India Slams Pakistan
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYzOWpPV2lVYWtIbkYzVElEWlUycjBndFV3LVd2cm03QlRFZ2FlbWdaalV5SWRabVgzZUJmTTFTOEk2TjluaUxOUFZVd2ZpNVVyY3l4UkI1YVVBY211SmVHeDZ5WWpZa0MxS2lVeWYzSEFrUU9vT2hvSHU2SFFmTXU4VTVRRWFXNnpQYk5Kc1FHY29MdTRPaEJhMHpwRnlHcThtYUNoLW0tdGlER21SS1dCT1k5b202ZVHSAcIBQVVfeXFMUHg0aWlteWE0LVRyS0lIN2FXUHo5VmxiSkwyV3Rvcms2djVWUGVzSEx0NFdlb0VVeWplZzFBUXVYN1ZfRU9yZmlwc1FDcXB6REtTeUhoZjJmaE1JNGhoTkJLNllFanpwU3doN1ROX2ZzQ3owLUFKdVRUSjVfN0I5Z0NkYWc2MHhRQkJqN20zNWVycHpyOWRQVmdhbkUyUW5aZjNLOW9nN1V2cmtOSnR6R2ZRSk1jRktadk9ia3NNenRFeGc?oc=5
-
-- "Nothing On The Table": India Says It Is Not Joining China-Backed Trade Pact - NDTV
-  "Nothing On The Table": India Says It Is Not
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWml2TVFoVDQ5S1RIZWxpck1fVjVQSmdTMEVlTFlNX1BtYzhEWmNQQ3RJckY3aUlnS2NTTlJ2WGtWQWh2eFU3eHVlOTRjLV8wQ01lTFNhN3l5cWJiUS1DUW9FNEpaNDJZSnJkOGc4dHlLbWs4TlpHVmM2M3lZU3AyLTBEWURlcjR1TklZWnhtX0hFeTh2UnFjT2FHaGJlcHJfVEdrMjVhS0VIN1RFcWxCekhIS0HSAbwBQVVfeXFMTmoyZm92RjdjRTAtdHRTRU5wdG5PeTQ0UVRDcEI3ZlFXSzYtT2xhS1VRcHdpa1JLeEVLQWpHaWp5a3JNNlh0QjBEVzFpNWd3QTdESzZTTE5sNlJ1M09vQkpXMmhlQWwxSXA3RXF5V0Z4LWhXa0NfcWQtT3VTZzFLUm0zekpPSlpydjRETkVLZ0Q0bnQ4cmN0UEdpN0d2ZUMwWlFLblRDMGtmWk82M0w0MjJIM3J5QVRfMGgzTXU?oc=5
-
-- Medigadda barrage most unsafe in India, Centre tells LS - Times of India
-  Medigadda barrage most unsafe in India
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNV0ZaT3kycndYcXAxQWpOOWhsaS1VU3g3MThHS0pxZXp1dnlWTnp0TW5qbE1Banc1NVJIcHN2ckgxa2FGaS1xemhrLWdUbk5yLV9fSXR5Q1VqbGRkX0w4b0g2bHNIS0V5Ylkyd2VqV2lpUnNPZm9HcUVnNndoSVlYVUUwamFzekxhQWc3VDFnaGFycUk5UWs4NWhPcDEtVllHTHJOamRiNUdjRGxpT0FfMkV3U2RJUW5KcE8wR2F0d1ZXS0hjeFZ6Mm8yd9IB0AFBVV95cUxQM2o5Qi01MjZQeV9mLU9qanZYNWU0M1dQYmJ6NTRJUDNzVmtCcms4OHJZSFpZX1NMLW5rd19ndlBQTFZPVVU3R3h5TUtPTl9Rcm8zUExvYlJ5SjF5TGVKOUtMWGxYcDFndU1EY3YtZXpzN1oxd0hLcElVZHFhMGFHajZFT3YxNk1pY01pejdLZk05X0xrS1hlTDNkMHR5a3cyMzN5dmFTamZfWVRTRng2eWZiQy1KNzVkaTJJVG9vRjk0cUd2TzJ1YjlUbUh6c0px?oc=5
-
-- Who was Ajit Pawar, the Indian politician killed in plane crash? - Al Jazeera
-  Who was Ajit Pawar, the Indian politician
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNVW0tbHZGNEQtZ3oxVTdFck9TbmFuU3dFeWdNTTBFaTh1cjdmQmNaWmZuUklIQ3FyNXU4aGIxSnpRY3NtNXN1cmluN2tTZlZNaTdrNDBwUWpyTkxVUDBjVWp6aENsLTljNHR6YmlqanBadGVqWkluUm5NcklFTEY0ZVdDd0prYkxzNGd5ZC02NzQtZDVwck9Pa0VFUGNReTlNVUJuVXBB0gGrAUFVX3lxTE9zWmdCUnJ1X2lrYXJ0cFozQWpCcmJ0OXJCNEVETGJ4NFZhRTRtbkVkYl9UWHdQelcxdW5saWNjbWNmZEZWLVk1aS1nTUxZcUNyRDFEUThxM1BJQy1QdG9OclNSNXViak1yZk03Y2Q3WnM3a1hNM3pLN1FnWl82clFZTnQzanVOeTdxMmZwQ0FEU1l3bW0xZUFheDhPaG1HUDhaOFhud3ZsLWM2QQ?oc=5
-
-- ‘Good News’: Shashi Tharoor Calls India-EU FTA ‘Very Big’, Highlights Long-Term Gains - News18
-  The two countries signed an agreement on a free trade
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQOW9USllmZXY2S3g3OWx3SjFtY2luT1dzZl80LXFJamNQTFpHTmxwY1ozQjFkWTdLd0laa2JvOXBHZGVDRVVYY2MwRElMQUs0bU05MkdNdjhTZnFYTDRPa2VId3ZHZWlNblBCNHVMeUpOcktNWGtmaW53aUZiMDcyc3VfcjFPVlNfNTZrMnQ2RHhIMkhIeU9jbUt5TENGaHd3amRmOUxxVGlBMlpOUnVqN3BOX2VhYjDSAbwBQVVfeXFMUGlySE1peXRVRUVxSzBFb1JzNjdqZ2ZqSFRfZW9vczF3VnhJZ1gtcjhaQ2JmdFJLYU9BaHVMUkZjUXhac2t0WmtVRzVqRGRXMFIwdjF0T0hoWHJlakRnZkNidmZvV1hQTWo1azFPN3VudWplcXFWUDFhT3g3MEwzUnVYdVg5WTBxWm83Vm1yN09qakpTaHlueXdOcW9PTmg4Qno4NHNhTmtFbVhxN1QyZmhmd3pacjZieGVpYUw?oc=5
+- India News Live Updates: WHO says travel, trade curbs not needed after 2 cases in India - The Economic Times
+  The Economic Times published a story on the issue. The article was based on a
+  🔗 https://news.google.com/rss/articles/CBMizAJBVV95cUxOM3NMVngyZ2RzSmFlUnRsZTFXZGI4QXlZZ1FfNUZqdy1rQlBnaWZfYy0wU0I4ck0wRmV1aEZ5d2dfTTNkVjU5cDJlRDE5Rl9NQll2S1pZaTZkOUFIN0NHY0VJWUtwZDYzNHNoUmZhcHRWSHR0NTFJNFlROE5wRUtLTjduWEVBZ3YzS0YwckkxRS1MU3NwN2xJWTFIeE1ROXFia3JSYmNVa0oxZ1FxRUx5dXJMVXZOSndtT0c1VmNQRzhOa1FTbnpleDBkcktPNTRoRFJ5YjhPZjhhZWJ5aXJBSjFxdVdINlpjTFRRZUFuWTdGeElxOGd2bnlFYzdqUjcwUGdDWUt2bXVHMDAyU1pvRHNUS0lRemhMUkRheUtpZlgyZUNYY1NtWlJBMXlXSElRZ1ZKRzlCSDdMV08zZnk4cngxeGR4RWUtX3htQ9IB0gJBVV95cUxONnFFMEg0emtvbXZqX0hnWm9WNUg3Z18xX2hMSXlHOHNwTG01eGx4SHR1b0JJSENoRVRFTE5pUjVUeVByb2trQnhSVzV4MGNIVEhtRmpFNzdhM3V5RVJ1X3VIQjhlNm9XNHhXc3BfQ3A2ZlJrSm53UmUxb29sWUpxTWdtYlJHQ1JnZlhPejAwSnY5SXJVbUdhSjVuVEVxWGFORWpGTmpIcFdLczZDM0x6dF9Da3RLNnluVFdRRVp1akRrYl8tZi04aG95SjRtWXZKUDBwUUVuVUYyZmR0NVRZY0tRb0lhMGNyS2VTYml2cUtOeGJpcGdYZFJKanF4RDBaWW9FUjBmSnI2cW45RE9ETkU3QkVZTjFzR2ZmXzJ6ZlB5RUdBWFNsc2hELXk2VzNxMmx5WjBLbHJGUk9GT0xWTUtDbVVLTnAyMmp2Z0FUeW92UQ?oc=5
 
 - "Constitutional Coup": India Slams Pakistan Over Lifetime Immunity To Asim Munir - NDTV
   "Constitutional Coup": India Slams Pakistan
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYzOWpPV2lVYWtIbkYzVElEWlUycjBndFV3LVd2cm03QlRFZ2FlbWdaalV5SWRabVgzZUJmTTFTOEk2TjluaUxOUFZVd2ZpNVVyY3l4UkI1YVVBY211SmVHeDZ5WWpZa0MxS2lVeWYzSEFrUU9vT2hvSHU2SFFmTXU4VTVRRWFXNnpQYk5Kc1FHY29MdTRPaEJhMHpwRnlHcThtYUNoLW0tdGlER21SS1dCT1k5b202ZVHSAcIBQVVfeXFMUHg0aWlteWE0LVRyS0lIN2FXUHo5VmxiSkwyV3Rvcms2djVWUGVzSEx0NFdlb0VVeWplZzFBUXVYN1ZfRU9yZmlwc1FDcXB6REtTeUhoZjJmaE1JNGhoTkJLNllFanpwU3doN1ROX2ZzQ3owLUFKdVRUSjVfN0I5Z0NkYWc2MHhRQkJqN20zNWVycHpyOWRQVmdhbkUyUW5aZjNLOW9nN1V2cmtOSnR6R2ZRSk1jRktadk9ia3NNenRFeGc?oc=5
 
-- "Nothing On The Table": India Says It Is Not Joining China-Backed Trade Pact - NDTV
-  "Nothing On The Table": India Says It Is Not
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWml2TVFoVDQ5S1RIZWxpck1fVjVQSmdTMEVlTFlNX1BtYzhEWmNQQ3RJckY3aUlnS2NTTlJ2WGtWQWh2eFU3eHVlOTRjLV8wQ01lTFNhN3l5cWJiUS1DUW9FNEpaNDJZSnJkOGc4dHlLbWs4TlpHVmM2M3lZU3AyLTBEWURlcjR1TklZWnhtX0hFeTh2UnFjT2FHaGJlcHJfVEdrMjVhS0VIN1RFcWxCekhIS0HSAbwBQVVfeXFMTmoyZm92RjdjRTAtdHRTRU5wdG5PeTQ0UVRDcEI3ZlFXSzYtT2xhS1VRcHdpa1JLeEVLQWpHaWp5a3JNNlh0QjBEVzFpNWd3QTdESzZTTE5sNlJ1M09vQkpXMmhlQWwxSXA3RXF5V0Z4LWhXa0NfcWQtT3VTZzFLUm0zekpPSlpydjRETkVLZ0Q0bnQ4cmN0UEdpN0d2ZUMwWlFLblRDMGtmWk82M0w0MjJIM3J5QVRfMGgzTXU?oc=5
+- Trade deal: India and EU announce FTA amid Trump tariff tensions - BBC
+  The EU-India trade deal could be bad news for Bangladesh. India and EU announce FTA amid Trump tariff tensions.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CU1ZhYV9kcXp1UHNiTTU1SGlkZzVWamxkZTB4Uk9wcDVISXAtNzROaDNlcHBqUVBTSFB1QklGWDlHQ3d2cHFyaUN2SHZhcUQwTi1YZWlYNDk4UQ?oc=5
 
-- Medigadda barrage most unsafe in India, Centre tells LS - Times of India
-  Medigadda barrage most unsafe in India
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNV0ZaT3kycndYcXAxQWpOOWhsaS1VU3g3MThHS0pxZXp1dnlWTnp0TW5qbE1Banc1NVJIcHN2ckgxa2FGaS1xemhrLWdUbk5yLV9fSXR5Q1VqbGRkX0w4b0g2bHNIS0V5Ylkyd2VqV2lpUnNPZm9HcUVnNndoSVlYVUUwamFzekxhQWc3VDFnaGFycUk5UWs4NWhPcDEtVllHTHJOamRiNUdjRGxpT0FfMkV3U2RJUW5KcE8wR2F0d1ZXS0hjeFZ6Mm8yd9IB0AFBVV95cUxQM2o5Qi01MjZQeV9mLU9qanZYNWU0M1dQYmJ6NTRJUDNzVmtCcms4OHJZSFpZX1NMLW5rd19ndlBQTFZPVVU3R3h5TUtPTl9Rcm8zUExvYlJ5SjF5TGVKOUtMWGxYcDFndU1EY3YtZXpzN1oxd0hLcElVZHFhMGFHajZFT3YxNk1pY01pejdLZk05X0xrS1hlTDNkMHR5a3cyMzN5dmFTamZfWVRTRng2eWZiQy1KNzVkaTJJVG9vRjk0cUd2TzJ1YjlUbUh6c0px?oc=5
+- SIR logical discrepancy: SC's West Bengal order effective all-India - Times of India
+  SIR logical discrepancy: SC's West Bengal
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2NYclhMaUVHb3N3UnJsYnhRd0c5aXZGTFhaYXhta1hTa25pdkFoVVAxRXR4eXM0cTJ6ak5yTHJ5UTBacUFDTjlOeTQ3OUoxS2xFVTU0Y29lTkRRUkg3Ykg5b2k0WDVuaGxUY0l1MnB2ZmlZUU0wbV9UQmt5MzNJX3o4MldfZFJQTmU0dlpuOTB3emJnX3pyLWVFS2dwaG85UE83YzZPY2dKVFNUb3p4WDBKQnJJdWgzOEdCc2Z2akFIcWVOLU9WdXdQVFBRd9IB0wFBVV95cUxNXzNVZThDVFFmVGlibEpEckh6cW05MHVBTThoY21Rb1JHX3BweTZEUTJDaUxHQWFQYUY2SUdtT0MtS3VmMGlwR29YaVVCaUtaSnEtYkdHLVhuOWlkenBDZlhFY1psdlpCc3ZfSkFSWE1PeklKV1FTaXpXVC1XNS1UV3FYeWlEdzlsLTNXeEc2Q3k5UEZoUWhqaG5UMW52UlBSQk5MNnpBOUNSbjNaMjhSNjN1NHpWVmd6dXUzbzJfOWhtTHp5M0FYTVlwUVVySnFlb0Fj?oc=5
 
-- Who was Ajit Pawar, the Indian politician killed in plane crash? - Al Jazeera
-  Who was Ajit Pawar, the Indian politician
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNVW0tbHZGNEQtZ3oxVTdFck9TbmFuU3dFeWdNTTBFaTh1cjdmQmNaWmZuUklIQ3FyNXU4aGIxSnpRY3NtNXN1cmluN2tTZlZNaTdrNDBwUWpyTkxVUDBjVWp6aENsLTljNHR6YmlqanBadGVqWkluUm5NcklFTEY0ZVdDd0prYkxzNGd5ZC02NzQtZDVwck9Pa0VFUGNReTlNVUJuVXBB0gGrAUFVX3lxTE9zWmdCUnJ1X2lrYXJ0cFozQWpCcmJ0OXJCNEVETGJ4NFZhRTRtbkVkYl9UWHdQelcxdW5saWNjbWNmZEZWLVk1aS1nTUxZcUNyRDFEUThxM1BJQy1QdG9OclNSNXViak1yZk03Y2Q3WnM3a1hNM3pLN1FnWl82clFZTnQzanVOeTdxMmZwQ0FEU1l3bW0xZUFheDhPaG1HUDhaOFhud3ZsLWM2QQ?oc=5
+- Region on watch as India declares Nipah virus outbreak contained - Al Jazeera
+  The Nipah virus has killed at least
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWmlJb1p3a0pRSzRGNlh1V0V2UTVNSWdJYjJodFVZaUVQSHI0Tk1VR196M1RoVUlCYWU2ai1FbTNGR1c5cmF6VmxuRkJseWF5eXdWOVFzOFp0b3JNZ0Y5N1h4WXpRM0UxS3ZYM2JlanJoSURhZVBYNVRKOWJteXFYNG1fNVpvbDRya1RVUlplUzdZQloxMHZGcGNIVFlxSFNjdzJfdlFNMlFUUdIBrwFBVV95cUxNOWo4UWJkWHZ0ODFiWlFIM1hFRE4tVkdHb0o1TnZoV1poZlRmblF5T2ZBaDZUd3FrcVJNRmJvc2swVm9WNGQxbElDZWgyeTBYRGhDTzJ5X1VBUnp6WlhfVVhXMXlpRnlwZ0l3Rm9Hcm5LUUR5MWpsbVhZR3pZVU5zSGtiQW9hQS1NOEZyZFhETUJNVHpBTVpUNlE0QWFNODBlTnpEVndmUWo4d0J1ZFEw?oc=5
 
-- ‘Good News’: Shashi Tharoor Calls India-EU FTA ‘Very Big’, Highlights Long-Term Gains - News18
-  The two countries signed an agreement on a free trade
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQOW9USllmZXY2S3g3OWx3SjFtY2luT1dzZl80LXFJamNQTFpHTmxwY1ozQjFkWTdLd0laa2JvOXBHZGVDRVVYY2MwRElMQUs0bU05MkdNdjhTZnFYTDRPa2VId3ZHZWlNblBCNHVMeUpOcktNWGtmaW53aUZiMDcyc3VfcjFPVlNfNTZrMnQ2RHhIMkhIeU9jbUt5TENGaHd3amRmOUxxVGlBMlpOUnVqN3BOX2VhYjDSAbwBQVVfeXFMUGlySE1peXRVRUVxSzBFb1JzNjdqZ2ZqSFRfZW9vczF3VnhJZ1gtcjhaQ2JmdFJLYU9BaHVMUkZjUXhac2t0WmtVRzVqRGRXMFIwdjF0T0hoWHJlakRnZkNidmZvV1hQTWo1azFPN3VudWplcXFWUDFhT3g3MEwzUnVYdVg5WTBxWm83Vm1yN09qakpTaHlueXdOcW9PTmg4Qno4NHNhTmtFbVhxN1QyZmhmd3pacjZieGVpYUw?oc=5
+- India News Live Updates: WHO says travel, trade curbs not needed after 2 cases in India - The Economic Times
+  The Economic Times published a story on the issue. The article was based on a
+  🔗 https://news.google.com/rss/articles/CBMizAJBVV95cUxOM3NMVngyZ2RzSmFlUnRsZTFXZGI4QXlZZ1FfNUZqdy1rQlBnaWZfYy0wU0I4ck0wRmV1aEZ5d2dfTTNkVjU5cDJlRDE5Rl9NQll2S1pZaTZkOUFIN0NHY0VJWUtwZDYzNHNoUmZhcHRWSHR0NTFJNFlROE5wRUtLTjduWEVBZ3YzS0YwckkxRS1MU3NwN2xJWTFIeE1ROXFia3JSYmNVa0oxZ1FxRUx5dXJMVXZOSndtT0c1VmNQRzhOa1FTbnpleDBkcktPNTRoRFJ5YjhPZjhhZWJ5aXJBSjFxdVdINlpjTFRRZUFuWTdGeElxOGd2bnlFYzdqUjcwUGdDWUt2bXVHMDAyU1pvRHNUS0lRemhMUkRheUtpZlgyZUNYY1NtWlJBMXlXSElRZ1ZKRzlCSDdMV08zZnk4cngxeGR4RWUtX3htQ9IB0gJBVV95cUxONnFFMEg0emtvbXZqX0hnWm9WNUg3Z18xX2hMSXlHOHNwTG01eGx4SHR1b0JJSENoRVRFTE5pUjVUeVByb2trQnhSVzV4MGNIVEhtRmpFNzdhM3V5RVJ1X3VIQjhlNm9XNHhXc3BfQ3A2ZlJrSm53UmUxb29sWUpxTWdtYlJHQ1JnZlhPejAwSnY5SXJVbUdhSjVuVEVxWGFORWpGTmpIcFdLczZDM0x6dF9Da3RLNnluVFdRRVp1akRrYl8tZi04aG95SjRtWXZKUDBwUUVuVUYyZmR0NVRZY0tRb0lhMGNyS2VTYml2cUtOeGJpcGdYZFJKanF4RDBaWW9FUjBmSnI2cW45RE9ETkU3QkVZTjFzR2ZmXzJ6ZlB5RUdBWFNsc2hELXk2VzNxMmx5WjBLbHJGUk9GT0xWTUtDbVVLTnAyMmp2Z0FUeW92UQ?oc=5
 
 - "Constitutional Coup": India Slams Pakistan Over Lifetime Immunity To Asim Munir - NDTV
   "Constitutional Coup": India Slams Pakistan
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYzOWpPV2lVYWtIbkYzVElEWlUycjBndFV3LVd2cm03QlRFZ2FlbWdaalV5SWRabVgzZUJmTTFTOEk2TjluaUxOUFZVd2ZpNVVyY3l4UkI1YVVBY211SmVHeDZ5WWpZa0MxS2lVeWYzSEFrUU9vT2hvSHU2SFFmTXU4VTVRRWFXNnpQYk5Kc1FHY29MdTRPaEJhMHpwRnlHcThtYUNoLW0tdGlER21SS1dCT1k5b202ZVHSAcIBQVVfeXFMUHg0aWlteWE0LVRyS0lIN2FXUHo5VmxiSkwyV3Rvcms2djVWUGVzSEx0NFdlb0VVeWplZzFBUXVYN1ZfRU9yZmlwc1FDcXB6REtTeUhoZjJmaE1JNGhoTkJLNllFanpwU3doN1ROX2ZzQ3owLUFKdVRUSjVfN0I5Z0NkYWc2MHhRQkJqN20zNWVycHpyOWRQVmdhbkUyUW5aZjNLOW9nN1V2cmtOSnR6R2ZRSk1jRktadk9ia3NNenRFeGc?oc=5
 
-- "Nothing On The Table": India Says It Is Not Joining China-Backed Trade Pact - NDTV
-  "Nothing On The Table": India Says It Is Not
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWml2TVFoVDQ5S1RIZWxpck1fVjVQSmdTMEVlTFlNX1BtYzhEWmNQQ3RJckY3aUlnS2NTTlJ2WGtWQWh2eFU3eHVlOTRjLV8wQ01lTFNhN3l5cWJiUS1DUW9FNEpaNDJZSnJkOGc4dHlLbWs4TlpHVmM2M3lZU3AyLTBEWURlcjR1TklZWnhtX0hFeTh2UnFjT2FHaGJlcHJfVEdrMjVhS0VIN1RFcWxCekhIS0HSAbwBQVVfeXFMTmoyZm92RjdjRTAtdHRTRU5wdG5PeTQ0UVRDcEI3ZlFXSzYtT2xhS1VRcHdpa1JLeEVLQWpHaWp5a3JNNlh0QjBEVzFpNWd3QTdESzZTTE5sNlJ1M09vQkpXMmhlQWwxSXA3RXF5V0Z4LWhXa0NfcWQtT3VTZzFLUm0zekpPSlpydjRETkVLZ0Q0bnQ4cmN0UEdpN0d2ZUMwWlFLblRDMGtmWk82M0w0MjJIM3J5QVRfMGgzTXU?oc=5
+- Trade deal: India and EU announce FTA amid Trump tariff tensions - BBC
+  The EU-India trade deal could be bad news for Bangladesh. India and EU announce FTA amid Trump tariff tensions.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CU1ZhYV9kcXp1UHNiTTU1SGlkZzVWamxkZTB4Uk9wcDVISXAtNzROaDNlcHBqUVBTSFB1QklGWDlHQ3d2cHFyaUN2SHZhcUQwTi1YZWlYNDk4UQ?oc=5
 
-- Medigadda barrage most unsafe in India, Centre tells LS - Times of India
-  Medigadda barrage most unsafe in India
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNV0ZaT3kycndYcXAxQWpOOWhsaS1VU3g3MThHS0pxZXp1dnlWTnp0TW5qbE1Banc1NVJIcHN2ckgxa2FGaS1xemhrLWdUbk5yLV9fSXR5Q1VqbGRkX0w4b0g2bHNIS0V5Ylkyd2VqV2lpUnNPZm9HcUVnNndoSVlYVUUwamFzekxhQWc3VDFnaGFycUk5UWs4NWhPcDEtVllHTHJOamRiNUdjRGxpT0FfMkV3U2RJUW5KcE8wR2F0d1ZXS0hjeFZ6Mm8yd9IB0AFBVV95cUxQM2o5Qi01MjZQeV9mLU9qanZYNWU0M1dQYmJ6NTRJUDNzVmtCcms4OHJZSFpZX1NMLW5rd19ndlBQTFZPVVU3R3h5TUtPTl9Rcm8zUExvYlJ5SjF5TGVKOUtMWGxYcDFndU1EY3YtZXpzN1oxd0hLcElVZHFhMGFHajZFT3YxNk1pY01pejdLZk05X0xrS1hlTDNkMHR5a3cyMzN5dmFTamZfWVRTRng2eWZiQy1KNzVkaTJJVG9vRjk0cUd2TzJ1YjlUbUh6c0px?oc=5
+- SIR logical discrepancy: SC's West Bengal order effective all-India - Times of India
+  SIR logical discrepancy: SC's West Bengal
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2NYclhMaUVHb3N3UnJsYnhRd0c5aXZGTFhaYXhta1hTa25pdkFoVVAxRXR4eXM0cTJ6ak5yTHJ5UTBacUFDTjlOeTQ3OUoxS2xFVTU0Y29lTkRRUkg3Ykg5b2k0WDVuaGxUY0l1MnB2ZmlZUU0wbV9UQmt5MzNJX3o4MldfZFJQTmU0dlpuOTB3emJnX3pyLWVFS2dwaG85UE83YzZPY2dKVFNUb3p4WDBKQnJJdWgzOEdCc2Z2akFIcWVOLU9WdXdQVFBRd9IB0wFBVV95cUxNXzNVZThDVFFmVGlibEpEckh6cW05MHVBTThoY21Rb1JHX3BweTZEUTJDaUxHQWFQYUY2SUdtT0MtS3VmMGlwR29YaVVCaUtaSnEtYkdHLVhuOWlkenBDZlhFY1psdlpCc3ZfSkFSWE1PeklKV1FTaXpXVC1XNS1UV3FYeWlEdzlsLTNXeEc2Q3k5UEZoUWhqaG5UMW52UlBSQk5MNnpBOUNSbjNaMjhSNjN1NHpWVmd6dXUzbzJfOWhtTHp5M0FYTVlwUVVySnFlb0Fj?oc=5
 
-- Who was Ajit Pawar, the Indian politician killed in plane crash? - Al Jazeera
-  Who was Ajit Pawar, the Indian politician
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNVW0tbHZGNEQtZ3oxVTdFck9TbmFuU3dFeWdNTTBFaTh1cjdmQmNaWmZuUklIQ3FyNXU4aGIxSnpRY3NtNXN1cmluN2tTZlZNaTdrNDBwUWpyTkxVUDBjVWp6aENsLTljNHR6YmlqanBadGVqWkluUm5NcklFTEY0ZVdDd0prYkxzNGd5ZC02NzQtZDVwck9Pa0VFUGNReTlNVUJuVXBB0gGrAUFVX3lxTE9zWmdCUnJ1X2lrYXJ0cFozQWpCcmJ0OXJCNEVETGJ4NFZhRTRtbkVkYl9UWHdQelcxdW5saWNjbWNmZEZWLVk1aS1nTUxZcUNyRDFEUThxM1BJQy1QdG9OclNSNXViak1yZk03Y2Q3WnM3a1hNM3pLN1FnWl82clFZTnQzanVOeTdxMmZwQ0FEU1l3bW0xZUFheDhPaG1HUDhaOFhud3ZsLWM2QQ?oc=5
+- Region on watch as India declares Nipah virus outbreak contained - Al Jazeera
+  The Nipah virus has killed at least
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWmlJb1p3a0pRSzRGNlh1V0V2UTVNSWdJYjJodFVZaUVQSHI0Tk1VR196M1RoVUlCYWU2ai1FbTNGR1c5cmF6VmxuRkJseWF5eXdWOVFzOFp0b3JNZ0Y5N1h4WXpRM0UxS3ZYM2JlanJoSURhZVBYNVRKOWJteXFYNG1fNVpvbDRya1RVUlplUzdZQloxMHZGcGNIVFlxSFNjdzJfdlFNMlFUUdIBrwFBVV95cUxNOWo4UWJkWHZ0ODFiWlFIM1hFRE4tVkdHb0o1TnZoV1poZlRmblF5T2ZBaDZUd3FrcVJNRmJvc2swVm9WNGQxbElDZWgyeTBYRGhDTzJ5X1VBUnp6WlhfVVhXMXlpRnlwZ0l3Rm9Hcm5LUUR5MWpsbVhZR3pZVU5zSGtiQW9hQS1NOEZyZFhETUJNVHpBTVpUNlE0QWFNODBlTnpEVndmUWo4d0J1ZFEw?oc=5
 
-- ‘Good News’: Shashi Tharoor Calls India-EU FTA ‘Very Big’, Highlights Long-Term Gains - News18
-  The two countries signed an agreement on a free trade
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQOW9USllmZXY2S3g3OWx3SjFtY2luT1dzZl80LXFJamNQTFpHTmxwY1ozQjFkWTdLd0laa2JvOXBHZGVDRVVYY2MwRElMQUs0bU05MkdNdjhTZnFYTDRPa2VId3ZHZWlNblBCNHVMeUpOcktNWGtmaW53aUZiMDcyc3VfcjFPVlNfNTZrMnQ2RHhIMkhIeU9jbUt5TENGaHd3amRmOUxxVGlBMlpOUnVqN3BOX2VhYjDSAbwBQVVfeXFMUGlySE1peXRVRUVxSzBFb1JzNjdqZ2ZqSFRfZW9vczF3VnhJZ1gtcjhaQ2JmdFJLYU9BaHVMUkZjUXhac2t0WmtVRzVqRGRXMFIwdjF0T0hoWHJlakRnZkNidmZvV1hQTWo1azFPN3VudWplcXFWUDFhT3g3MEwzUnVYdVg5WTBxWm83Vm1yN09qakpTaHlueXdOcW9PTmg4Qno4NHNhTmtFbVhxN1QyZmhmd3pacjZieGVpYUw?oc=5
+- India News Live Updates: WHO says travel, trade curbs not needed after 2 cases in India - The Economic Times
+  The Economic Times published a story on the issue. The article was based on a
+  🔗 https://news.google.com/rss/articles/CBMizAJBVV95cUxOM3NMVngyZ2RzSmFlUnRsZTFXZGI4QXlZZ1FfNUZqdy1rQlBnaWZfYy0wU0I4ck0wRmV1aEZ5d2dfTTNkVjU5cDJlRDE5Rl9NQll2S1pZaTZkOUFIN0NHY0VJWUtwZDYzNHNoUmZhcHRWSHR0NTFJNFlROE5wRUtLTjduWEVBZ3YzS0YwckkxRS1MU3NwN2xJWTFIeE1ROXFia3JSYmNVa0oxZ1FxRUx5dXJMVXZOSndtT0c1VmNQRzhOa1FTbnpleDBkcktPNTRoRFJ5YjhPZjhhZWJ5aXJBSjFxdVdINlpjTFRRZUFuWTdGeElxOGd2bnlFYzdqUjcwUGdDWUt2bXVHMDAyU1pvRHNUS0lRemhMUkRheUtpZlgyZUNYY1NtWlJBMXlXSElRZ1ZKRzlCSDdMV08zZnk4cngxeGR4RWUtX3htQ9IB0gJBVV95cUxONnFFMEg0emtvbXZqX0hnWm9WNUg3Z18xX2hMSXlHOHNwTG01eGx4SHR1b0JJSENoRVRFTE5pUjVUeVByb2trQnhSVzV4MGNIVEhtRmpFNzdhM3V5RVJ1X3VIQjhlNm9XNHhXc3BfQ3A2ZlJrSm53UmUxb29sWUpxTWdtYlJHQ1JnZlhPejAwSnY5SXJVbUdhSjVuVEVxWGFORWpGTmpIcFdLczZDM0x6dF9Da3RLNnluVFdRRVp1akRrYl8tZi04aG95SjRtWXZKUDBwUUVuVUYyZmR0NVRZY0tRb0lhMGNyS2VTYml2cUtOeGJpcGdYZFJKanF4RDBaWW9FUjBmSnI2cW45RE9ETkU3QkVZTjFzR2ZmXzJ6ZlB5RUdBWFNsc2hELXk2VzNxMmx5WjBLbHJGUk9GT0xWTUtDbVVLTnAyMmp2Z0FUeW92UQ?oc=5
+
+- "Constitutional Coup": India Slams Pakistan Over Lifetime Immunity To Asim Munir - NDTV
+  "Constitutional Coup": India Slams Pakistan
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYzOWpPV2lVYWtIbkYzVElEWlUycjBndFV3LVd2cm03QlRFZ2FlbWdaalV5SWRabVgzZUJmTTFTOEk2TjluaUxOUFZVd2ZpNVVyY3l4UkI1YVVBY211SmVHeDZ5WWpZa0MxS2lVeWYzSEFrUU9vT2hvSHU2SFFmTXU4VTVRRWFXNnpQYk5Kc1FHY29MdTRPaEJhMHpwRnlHcThtYUNoLW0tdGlER21SS1dCT1k5b202ZVHSAcIBQVVfeXFMUHg0aWlteWE0LVRyS0lIN2FXUHo5VmxiSkwyV3Rvcms2djVWUGVzSEx0NFdlb0VVeWplZzFBUXVYN1ZfRU9yZmlwc1FDcXB6REtTeUhoZjJmaE1JNGhoTkJLNllFanpwU3doN1ROX2ZzQ3owLUFKdVRUSjVfN0I5Z0NkYWc2MHhRQkJqN20zNWVycHpyOWRQVmdhbkUyUW5aZjNLOW9nN1V2cmtOSnR6R2ZRSk1jRktadk9ia3NNenRFeGc?oc=5
+
+- Trade deal: India and EU announce FTA amid Trump tariff tensions - BBC
+  The EU-India trade deal could be bad news for Bangladesh. India and EU announce FTA amid Trump tariff tensions.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CU1ZhYV9kcXp1UHNiTTU1SGlkZzVWamxkZTB4Uk9wcDVISXAtNzROaDNlcHBqUVBTSFB1QklGWDlHQ3d2cHFyaUN2SHZhcUQwTi1YZWlYNDk4UQ?oc=5
+
+- SIR logical discrepancy: SC's West Bengal order effective all-India - Times of India
+  SIR logical discrepancy: SC's West Bengal
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2NYclhMaUVHb3N3UnJsYnhRd0c5aXZGTFhaYXhta1hTa25pdkFoVVAxRXR4eXM0cTJ6ak5yTHJ5UTBacUFDTjlOeTQ3OUoxS2xFVTU0Y29lTkRRUkg3Ykg5b2k0WDVuaGxUY0l1MnB2ZmlZUU0wbV9UQmt5MzNJX3o4MldfZFJQTmU0dlpuOTB3emJnX3pyLWVFS2dwaG85UE83YzZPY2dKVFNUb3p4WDBKQnJJdWgzOEdCc2Z2akFIcWVOLU9WdXdQVFBRd9IB0wFBVV95cUxNXzNVZThDVFFmVGlibEpEckh6cW05MHVBTThoY21Rb1JHX3BweTZEUTJDaUxHQWFQYUY2SUdtT0MtS3VmMGlwR29YaVVCaUtaSnEtYkdHLVhuOWlkenBDZlhFY1psdlpCc3ZfSkFSWE1PeklKV1FTaXpXVC1XNS1UV3FYeWlEdzlsLTNXeEc2Q3k5UEZoUWhqaG5UMW52UlBSQk5MNnpBOUNSbjNaMjhSNjN1NHpWVmd6dXUzbzJfOWhtTHp5M0FYTVlwUVVySnFlb0Fj?oc=5
+
+- Region on watch as India declares Nipah virus outbreak contained - Al Jazeera
+  The Nipah virus has killed at least
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWmlJb1p3a0pRSzRGNlh1V0V2UTVNSWdJYjJodFVZaUVQSHI0Tk1VR196M1RoVUlCYWU2ai1FbTNGR1c5cmF6VmxuRkJseWF5eXdWOVFzOFp0b3JNZ0Y5N1h4WXpRM0UxS3ZYM2JlanJoSURhZVBYNVRKOWJteXFYNG1fNVpvbDRya1RVUlplUzdZQloxMHZGcGNIVFlxSFNjdzJfdlFNMlFUUdIBrwFBVV95cUxNOWo4UWJkWHZ0ODFiWlFIM1hFRE4tVkdHb0o1TnZoV1poZlRmblF5T2ZBaDZUd3FrcVJNRmJvc2swVm9WNGQxbElDZWgyeTBYRGhDTzJ5X1VBUnp6WlhfVVhXMXlpRnlwZ0l3Rm9Hcm5LUUR5MWpsbVhZR3pZVU5zSGtiQW9hQS1NOEZyZFhETUJNVHpBTVpUNlE0QWFNODBlTnpEVndmUWo4d0J1ZFEw?oc=5
+
+- India News Live Updates: WHO says travel, trade curbs not needed after 2 cases in India - The Economic Times
+  The Economic Times published a story on the issue. The article was based on a
+  🔗 https://news.google.com/rss/articles/CBMizAJBVV95cUxOM3NMVngyZ2RzSmFlUnRsZTFXZGI4QXlZZ1FfNUZqdy1rQlBnaWZfYy0wU0I4ck0wRmV1aEZ5d2dfTTNkVjU5cDJlRDE5Rl9NQll2S1pZaTZkOUFIN0NHY0VJWUtwZDYzNHNoUmZhcHRWSHR0NTFJNFlROE5wRUtLTjduWEVBZ3YzS0YwckkxRS1MU3NwN2xJWTFIeE1ROXFia3JSYmNVa0oxZ1FxRUx5dXJMVXZOSndtT0c1VmNQRzhOa1FTbnpleDBkcktPNTRoRFJ5YjhPZjhhZWJ5aXJBSjFxdVdINlpjTFRRZUFuWTdGeElxOGd2bnlFYzdqUjcwUGdDWUt2bXVHMDAyU1pvRHNUS0lRemhMUkRheUtpZlgyZUNYY1NtWlJBMXlXSElRZ1ZKRzlCSDdMV08zZnk4cngxeGR4RWUtX3htQ9IB0gJBVV95cUxONnFFMEg0emtvbXZqX0hnWm9WNUg3Z18xX2hMSXlHOHNwTG01eGx4SHR1b0JJSENoRVRFTE5pUjVUeVByb2trQnhSVzV4MGNIVEhtRmpFNzdhM3V5RVJ1X3VIQjhlNm9XNHhXc3BfQ3A2ZlJrSm53UmUxb29sWUpxTWdtYlJHQ1JnZlhPejAwSnY5SXJVbUdhSjVuVEVxWGFORWpGTmpIcFdLczZDM0x6dF9Da3RLNnluVFdRRVp1akRrYl8tZi04aG95SjRtWXZKUDBwUUVuVUYyZmR0NVRZY0tRb0lhMGNyS2VTYml2cUtOeGJpcGdYZFJKanF4RDBaWW9FUjBmSnI2cW45RE9ETkU3QkVZTjFzR2ZmXzJ6ZlB5RUdBWFNsc2hELXk2VzNxMmx5WjBLbHJGUk9GT0xWTUtDbVVLTnAyMmp2Z0FUeW92UQ?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-30 01:32:47 UTC_
+_Last updated: 2026-01-30 06:46:06 UTC_
