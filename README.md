@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
-- Snowfall and rain to continue in northern India till early February, says IMD
+- ED files charges in Rs 6 crore fraud linked to MP businessman’s tragic suicide: The shocking details of the ‘layered’ scam
   
-  🔗 https://indianexpress.com/article/india/snowfall-rain-continue-northern-india-february-imd-10503759/
+  🔗 https://indianexpress.com/article/india/ed-files-charges-fraud-mp-businessman-suicide-scam-10504304/
 
-- 56% of Rajasthan government school rooms found unsafe or in ruins: What the state’s massive audit reveals
+- Modi, Acting Venezuelan President Delcy Rodríguez agree to expand bilateral ties
   
-  🔗 https://indianexpress.com/article/india/rajasthan-govt-school-rooms-f-audit-10503619/
+  🔗 https://indianexpress.com/article/india/modi-acting-venezuelan-president-delcy-rodriguez-bilateral-ties-10504206/
 
-- Budget 2026 Date and Time: When will FM Nirmala Sitharaman present the budget?
+- From viral fame to demotion: Why Indore’s famous ‘dancing cop’ has just been stripped of his rank
   
-  🔗 https://indianexpress.com/article/india/budget-2026-date-and-time-when-will-fm-nirmala-sitharaman-present-the-budget-10503334/
+  🔗 https://indianexpress.com/article/india/demotion-indore-famous-dancing-cop-stripped-of-his-rank-10504180/
 
-- From Bengaluru to Andes: How a Tripura engineer braved 100 kmph winds to conquer Mt Aconcagua
+- Corporate employee to real estate mogul – who is CJ Roy, who shot himself dead when IT officials were at his office?
   
-  🔗 https://indianexpress.com/article/india/tripura-engineer-mt-aconcagua-bengaluru-andes-10503387/
+  🔗 https://indianexpress.com/article/india/real-estate-mogul-who-is-cj-roy-it-officials-raid-10504148/
 
-- Late-night shootout in Jamshedpur: 3 suspects in industrialist’s son’s kidnapping injured during escape attempt
+- If BJP wins for 3rd time, infiltrators will be removed ‘one by one’: Amit Shah in Assam
   
-  🔗 https://indianexpress.com/article/india/jamshedpur-industrialist-son-kidnapping-three-accused-injured-police-encounter-10503365/
+  🔗 https://indianexpress.com/article/india/if-bjp-wins-3rd-time-infiltrators-removed-amit-shah-assam-10504060/
+
+- Google’s Project Genie allows users to explore AI-generated worlds in real time
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/googles-project-genie-allows-users-to-explore-ai-generated-worlds-in-real-time-10504000/
+
+- February Full Moon 2026: When and How to See the Snow Moon
+  
+  🔗 https://indianexpress.com/article/technology/science/when-and-how-to-spot-the-snow-moon-10504007/
+
+- Hidden for 136 years: Winter storms just unearthed a 19th-century ship on a New Jersey beach
+  
+  🔗 https://indianexpress.com/article/technology/science/winter-storms-just-unearthed-a-19th-century-ship-on-a-new-jersey-beach-10503803/
+
+- Your next walk just became a guided tour: Google Maps adds Gemini for walking and cycling
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-maps-gemini-update-walking-cycling-hands-free-navigation-10503648/
 
 - AI helps astronomers find 1,400 ‘Anomalous Objects’ buried in Hubble data
   
   🔗 https://indianexpress.com/article/technology/science/ai-helps-astronomers-find-1400-anomalous-objects-buried-in-hubble-data-10503347/
 
-- Apple to prioritise premium iPhone launches in 2026 amid memory crunch: Report
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-to-prioritise-premium-iphone-launches-in-2026-amid-memory-crunch-report-10503382/
+- Jindal Steel Q3 net profit falls almost 80% on higher costs; revenue up 11%
+  Net debt increased to  ₹15,443 crore as of 31 December. The steelmaker's net profit dropped to    �
+  🔗 https://www.livemint.com/companies/company-results/jindal-steel-q3-jindal-steel-results-11769780044543.html
 
-- Sundar Pichai says ‘Google can help with Googly’: Gemini 3 Pro demos real-time cricket insights
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/sundar-pichai-says-google-can-help-with-googly-gemini-3-pro-demos-real-time-cricket-insights-10503280/
+- Meesho bets on logistics fixes, operating leverage to lift margins after Q3 loss widens
+  The e-commerce marketplace plans to accelerate investments in advertising and sales promotion to support new user additions as well as expand its
+  🔗 https://www.livemint.com/companies/news/meesho-bets-on-logistics-fixes-operating-leverage-to-lift-margins-after-q3-loss-widens-11769777450235.html
 
-- ‘Godfather of AI’ Yann LeCun calls AGI overrated, says scaling AI won’t work
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/godfather-of-ai-yann-lecun-calls-agi-overrated-says-scaling-ai-wont-work-10503183/
+- IBM takes Gurugram office on 10-year lease for  ₹180 crore
+  IBM India leased 230,000 sq. ft at Intellion Park in Gurugram for ten years
+  🔗 https://www.livemint.com/companies/news/ibm-india-gurugram-office-lease-tata-realty-commercial-real-estate-11769765960382.html
 
-- Nothing pauses flagship launches in 2026, bets on Phone (4a) series
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/nothing-phone-4-2026-launch-carl-pei-phone-4a-series-10503120/
+- Ola Electric to lay off 5% of workforce as part of restructuring effort
+  Ola Electric reportedly announced a 5% workforce reduction as part of its restructuring efforts.
+  🔗 https://www.livemint.com/companies/news/ola-electric-to-lay-off-5-of-workforce-as-part-of-restructuring-effort-says-report-11769776581521.html
 
 - A West Delhi unicorn: Shiprocket's Saahil Goel on the long road to building India’s logistics backbone
   Saahil Goel co-founded Shiprocket to empower small businesses in India. The company evolved through various challenges to become a logistics backbone for e-commerce.
   🔗 https://www.livemint.com/companies/people/a-west-delhi-unicorn-shiprockets-saahil-goel-on-the-long-road-to-building-india-s-logistics-backbone-11769772028302.html
 
-- Amazon mulls $50 billion investment in OpenAI, report says. What’s in it for both.
-  Amazon is in talks to invest up to $50 billion in OpenAI, as part of an overall fund-raising round to
-  🔗 https://www.livemint.com/companies/news/amazon-openai-investment-openai-ipo-11769767134262.html
+- American Express stock slides 3.82% despite 13% profit growth and higher Gen-z spending
+  The New York-based company reported a quarterly profit of $2.46 billion ($3.53 per share) for October
+  🔗 https://www.livemint.com/market/stock-market-news/american-express-stock-slides-3-82-despite-13-profit-growth-and-higher-gen-z-spending-11769791130313.html
 
-- Q3 earnings: Dixon hit by mobile slowdown, Syrma turns cash flow positive
-  India's top EMS companies saw diverging fortunes as mobile pressure weighed
-  🔗 https://www.livemint.com/companies/company-results/q3-earnings-dixon-mobile-slowdown-syrma-cash-flow-positive-11769759550349.html
+- Gold rates today: MCX gold crashes  ₹15,200 per 10g, silver plunges  ₹72,000 per kg on firm US dollar
+  Silver dropped 20%, while gold fell 9%. The market reacted to President Trump's Fed chair nomination, raising concerns over policy easing.
+  🔗 https://www.livemint.com/market/commodities/gold-rates-today-mcx-gold-crashes-rs-15-200-per-10g-silver-plunges-rs-72-000-per-kg-on-firm-us-dollar-11769781832947.html
 
-- Paytm braces for near-term Ebitda impact as digital payment infra incentive lapses
-  The PIDF incentive, which contributed  ₹216 crore over the nine months ended December 2025, expired in December and will not recur. Paytm will
-  🔗 https://www.livemint.com/companies/paytm-pidf-incentive-payments-tax-sales-merchants-ebitda-11769751526410.html
+- Dow Jones, S&amp;P 500, Nasdaq slip after Trump nominates Kevin Warsh as US Fed Chairman; Apple falls 1.5%, SanDisk up 20%
+  The S&amp;amp;P 500 was down 0.8%, the Dow Jones Industrial Average
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-slips-after-trump-nominates-kevin-warsh-to-head-federal-reserve-11769784020858.html
 
-- Apple India looks beyond iPhone for growth as market starts maturing
-  Analysts say Apple is now reaping the benefits of a large base of existing customers who are now looking at other products of its ecosystem.
-  🔗 https://www.livemint.com/companies/apple-india-iphone-subscription-services-mac-ipad-11769748716561.html
+- Pulse of the Street: Markets snap three-week slide on budget hopes, earnings boost
+  The BSE Sensex closed the week 0.9% higher at 82,269.78. The Nifty50 advanced 1
+  🔗 https://www.livemint.com/market/stock-market-news/india-stock-market-fpi-outflows-budget-impact-rupee-depreciation-11769775769199.html
 
-- Rupee rebounds from record low of 92.02 to end marginally higher against US dollar
-  The rupee opened at 91.89 and gained ground, touching 91.82 against the greenback during intraday trade. The currency touched its lowest-ever
-  🔗 https://www.livemint.com/market/stock-market-news/rupee-rebounds-from-record-low-of-92-02-to-end-marginally-higher-against-us-dollar-11769774840794.html
+- Reliance Power Q3 results: Net profit drops 40% YoY to  ₹25 crore; revenues up 1% — Details here
+  Reliance Power recorded a 40% fall in its consolidated net profit to  ₹25 crore in the October to December quarter of the fiscal year ending 2025-26.
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-power-q3-results-net-profit-drops-40-yoy-to-rs-25-crore-revenues-up-1-details-here-11769782134850.html
 
-- NTPC Q3 results: Net profit rises over 8% YoY to  ₹5,597 crore; second interim dividend of  ₹2.75/share declared
-  NTPC Q3 results: Net profit rises over 8% Yo
-  🔗 https://www.livemint.com/market/stock-market-news/ntpc-q3-results-net-profit-rises-over-8-yoy-to-rs-5-597-crore-second-interim-dividend-of-rs-2-75-share-declared-11769772457361.html
+- In a multi-test series, this is just the first innings: Vaishnaw on AI evolution
+  Vishnaw: In a multi-
+  🔗 https://www.livemint.com/technology/in-a-multi-test-series-this-is-just-the-first-innings-vaishnaw-on-ai-evolution-11769794427851.html
 
-- Why fiscal policy matters more than monetary policy for bond yield currently
-  Elevated yields in developed markets, including the US, Japan and the UK,
-  🔗 https://www.livemint.com/market/bonds/why-fiscal-policy-matters-more-than-monetary-policy-for-bond-yield-currently-11769772096601.html
-
-- Accretion Nutraveda IPO: Last day to buy the SME IPO - check GMP, subscription status, and other details
-  Accretion Nutraveda's IPO opened on January 28, showing weak subscription with a closing date of January 30. The IPO was subscribed 1.83x by Day 3, with
-  🔗 https://www.livemint.com/market/ipo/accretion-nutraveda-ipo-last-day-to-buy-the-sme-ipo-check-ipo-gmp-ipo-subscription-status-and-other-details-11769769734351.html
-
-- FPIs take a bearish call in the run-up to Budget
-  The shorting of over 1.3 lakh Nifty and Bank Nifty call options ahead of the event is on anticipation of either corrective to flat markets or a
-  🔗 https://www.livemint.com/market/fpi-short-positions-nifty-bank-nifty-market-outlook-budget-impact-11769759901916.html
+- Even Tech Skeptics Can Cheer AI’s Promise in Decoding the Dark Genome
+  Google DeepMind has made another leap in its efforts to illuminate human biology. progress toward using AI to interpret the many still-mysterious chapters
+  🔗 https://www.livemint.com/technology/even-tech-skeptics-can-cheer-ai-s-promise-in-decoding-the-dark-genome-11769781705582.html
 
 - Vivo V70 and V70 Elite India launch teased as Flipkart microsite goes live: What to expect
   Vivo has confirmed the upcoming launch of its V70 series in India. The lineup will include the Vivo V70 and VivoV
@@ -92,93 +100,153 @@
   Samsung is tipped to unveil the Galaxy S26, S26+ and S26 Ultra at its first Galaxy Unpacked event of 2026 on February 25. The launch may also introduce the Galaxy Buds 4
   🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-s26-s26-and-s26-ultra-tipped-to-debut-at-galaxy-unpacked-2026-on-feb-25-11769755318786.html
 
-- Why Nintendo Switch 2 could face a steep price hike
-  The fastest-selling game console of all time may not be enough to shelter Nintendo Co. from
-  🔗 https://www.livemint.com/technology/tech-news/why-nintendo-switch-2-could-face-a-steep-price-hike-11769751297369.html
+- Gold rally stalls as prices drop after a sharp run-up; Asia-Pacific stock markets mostly fall - CNBC
+  Gold rally stalls as prices drop after a sharp run-up.
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNZHFTLV9ZVTlWUVg2LVZVSGc2ZjJwRFoxdnVxVG1VTXlTMXhadzZ6NjdGUTl3UzZEVFAtM1NMSkluZzVsVks2bjlQdG93UG56aGlFVXBUNF9hQXo2bWs0Vmt1UWpzRkNRYVZIS0NEaTY3cHlMOFhoS0pDN0VDMXdvcnVnT1hjZEtMWjU0c3VMVjVqYWNpX3hCTmFmMUJsemhOYzREc1hsQjdJcmN6ejhRRXF6X1BWVl9nS0s2ZFYtZUljaXVXZkNZNTd3X2taM0nSAdQBQVVfeXFMTUFtQl9DZ0UzSlFiejVuVzBKbVNZQng1eV9uUHY3TWZmaGJQaklQWmJnMmdHUUVyX0d0NThnby12TEtYMU56TXo3SHMyaWlpXzlod0NaUWhjTjkxRFFCTFd0WldXN0hFNDlveEJyRzdSczNoeF9BbEFCV0VQV3hPWnVhV2NZZjk1V1lOc0laLTJNT0JmTlJEbjRCbk1GaWt2VE8wNXFJWHZ3U1hkSGRzTkdKR2t2TjRvQWFkY05lWGtQQzRIX3FXZjhXUjk4Q2lJN3Q4N1Y?oc=5
 
-- As an uncertain 2026 begins, virtual journeys back to 2016 become a trend
-  Virtual journeys back to 2016 become a trend
-  🔗 https://www.livemint.com/technology/as-an-uncertain-2026-begins-virtual-journeys-back-to-2016-become-a-trend-11769749955104.html
+- Emerging markets make roaring start to 2026 as dollar slides - Financial Times
+  Emerging markets make roaring start to 2026
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZZGhGTjFTUDB5Rl92S3Fhek1JYW9ZTE16WEhYc0lMM1h0QlJwUnlhZHc0MFlYQ0Y3S0pkTERQQWdSRjBQbklKck1aRktjRXAzbzFoRDk4TzVuTnJFVTY3X0tFVWY5X1NEb3BtNk9DaHM?oc=5
 
-- Sebi approves 7 IPOs in one go as listing pipeline builds up for 2026. Check details
-  Sebi has cleared seven IPOs, signalling a strong start to the 2026 listing pipeline. Approvals include HD Fire Protect, Xtranet Technologies, Parijat Industries, Rotomag
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-7-ipos-in-one-go-as-listing-pipeline-builds-up-for-2026-check-details/articleshow/127801214.cms
+- Fiscal Fireworks: How Debt is Rewriting the Rules for the US and Japan - J.P. Morgan
+  J.P. Morgan: How Debt is Rewrit
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR2YwWmRIZXBhYTZtaDJXSFQxb3ZUa2lFa2MtUW85TUdScDh5U05fZU5xS1RMSVdPUmxBemxwU05VV1lYcWgybGpnTFZmbXZVRlRNLXBGaXFPeUYxY2dwSmE0OW5faXNjNDZjbWpXM3NHY0huZFFhR3JtNWV5OE9HM3pUdm8wdnJfNy1ITnBSUkJ3X2Y5aGFUX3gtZlBrVXlrODlONG5wUTVkcnY1cW1ucFdUTXlEei0zYjc3R2hJNnYwdjBxVlVFZ2tQb0w5Y09pQmVlbU9VY2xzU0FsNENXbDF3?oc=5
 
-- Sebi gives no-objection for NSE IPO, clearing path for listing
-   markets regulator Sebi has given its no-objection for the National Stock Exchange's initial public offering. NSE is now expected to move closer to finalizing its IPO structure and timing.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-gives-no-objection-for-nse-ipo-clearing-path-for-listing/articleshow/127800984.cms
+- Pro Talks: Investor Shannon Saccocia talks whether geopolitics could upend market rally in 2026 - CNBC
+  &nbsp;&ngt;<font color
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaGZnY3J4T3dVcVRLYlBRWjduX25zUUh0dkx5VmpLWVJUZEJJSHdiUUhfOXl6TkZaNEZBMWpkclh5VTRTd2xoZjExR0o1WFlhQjhsX2RhTDUtTmY5eFdkRnlUbEd4cGRvU3N2aFduVmVLX1V4MXBHdzZjN0VXc2luTnhFWVQ4aHpmazRnRmNwZU9BVHZaREZteWpWQkxrc1ZENEpzeHN1azBnOWNoRW1OZml0ZEVhQ2xUb2JpUEF2bjVNSWJxeERaY0VMNHlxcGJFbHpn?oc=5
 
-- US stock index futures cut losses after Trump nominates Kevin Warsh as next Fed Chair
-  U.S. stock index futures cut some losses ‍on Friday, after U.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-index-futures-cut-losses-after-trump-nominates-kevin-warsh-as-next-fed-chair/articleshow/127800708.cms
+- Gold and Silver Plummet as Traders Price Fed Pick - Bloomberg
+  Gold and Silver Plummet as Trad
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxORkxsQjJoMWszTVhVaXVzd3g2SlRnYzg0SmxMN2E4clVxS3pYVy1wa2EtaFVscExKN0FMVUdCRVZkQjk1a1BzdS1JZlh5eFlXTHBtcjBqR1dLV25hX2NadkdIb21IOWtxVlF0bnc4ZThOUElaZEFlSVFESHFuLXVnZXUxM2xNR09xbHg3TnhfYXRuMXAyS2J2cjhNMVhXMXY3WFIzSDJpb3F5MUlYbk1YWGZReVN5MkZGMlg5d0g3b1Zqa3czMEpNSmQyajB4T2FxOHFvVUpYcVNRYTVHUnd3aGNGVE9ZVV9Udkp4VW8xaTB4NDVPM0gzZWFfOTZKYmhibEE?oc=5
 
-- Budget 2026: MCX, NCDEX to stay open on Sunday, February 1. Check timings
-  MCX, NCDEX, NSE and BSE will open for a special Sunday trading session on February 1 during the Union Budget 2026. It will be only
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/budget-2026-mcx-ncdex-to-stay-open-on-sunday-february-1-check-timings/articleshow/127800589.cms
+- NSE's MD and CEO urged entrepreneurs to tap into India's capital market, 'Time has come'
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nses-md-and-ceo-urged-entrepreneurs-to-tap-into-indias-capital-market-indias-time-has-come/videoshow/127807432.cms
 
-- Trump names Kevin Warsh as next Federal Reserve chair, replacing Jerome Powell
-  Kevin Warsh, a former Fed governor, is expected to bring significant changes to the agency. Warsh's tenure could influence interest rate policies and economic strategies.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/trump-names-kevin-warsh-as-next-federal-reserve-chair-replacing-jerome-powell/articleshow/127800453.cms
+- Sebi opens one-year special window for transfer and dematerialisation of physical securities
+  Sebi has opened a special one-year window, from February 5, 2026, to February 4, 2027. This initiative aims to resolve long-standing grievances and grant rightful access to these assets.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-opens-one-year-special-window-for-transfer-and-dematerialisation-of-physical-securities/articleshow/127805646.cms
 
-- US Plans Big India-Focused Meet As Washington Seeks To Counter China - NDTV
-  US Plans Big India-Focused Meet As
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQajZhZk9uSUNVQ0V4TXVzbl9ZVEZ1eDhkcXp2UUtFcllVdE9TZ2dhT1JGS2UySFJqSktKMjhWYWd1bG1yel9FZzJzM1lMY3I0NFQyTjBwUC0wb24wLTRNNUx2bHFWLUI0bmxtcmFkRU5GR3B1TzBSSWR1Z1I2ajdaNUhzR0RmeWNGMDFqVk1hbEhUWGMySkVFVy1XQXh1dG1ubWpJblVwUGZwSjl1RHg0ZmtVdVRoXzBkcHNUaW85ejRJdm5KdWZZZGlTZldZMnFHbWfSAdoBQVVfeXFMTk43dnlFNERuYk9aWERJUXpqcnZwSS1OVWh5eVZETS0wY052b1JTMldIdmw3QUlvTW5SaDFvdDU4WFNvaWVNWUw5N21aT2VGMWlIY0Znb1ZCSHZxVlFibFNwOGlGUWdrSEFzSDJ4RzRVb1JIb2xrLWgzOUJZLW5yeld3ZzlBWi1BZXp1X1RHcGFidjN4TXZvcjdvNWZQd0pyVkpsOGMtV3ZScUJEQnRpSnJWaUNtQUJTWjh2VG1uY1YyRVNMN1JneTRBaTRkRkFIWTNQU205WktBT0E?oc=5
+- AmEx projects upbeat 2026 profit as affluent spending holds up; shares dip
+  American Express forecast annual profit largely above Wall Street expectations. But a small miss on holiday-quarter profit weighed on its shares.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/amex-projects-upbeat-2026-profit-as-affluent-spending-holds-up-shares-dip/articleshow/127805361.cms
 
-- Worried families in India urge return of crew on ship seized by Iran - BBC
-  The ship is believed to have been seized by Iran.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Oc1F6RjVPLUZkaHF1X003Ti05VFcxSG00V0hkbG0zS2o1SWpBWDNQMDU1WXVFSTM3czY4ZWtMMV9HZUZrRkpSOGpCQ1IzUy1nYzNUWHlaSk9qUQ?oc=5
+- Bombardier shares drop 9% after Trump threatens Canada with aircraft tariffs, decertification
+  Bombardier shares ‍dropped 9% on Friday after U.S. President Donald Trump threatened to decertify the private jet maker's planes.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/bombardier-shares-drop-9-after-trump-threatens-canada-with-aircraft-tariffs-decertification/articleshow/127805306.cms
 
-- Evening news wrap: Was Ajit Pawar considering an NCP merger before his death, and more - Times of India
-  Evening news wrap: Was Ajit Pawar considering an NCP merger
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQVFwLUtqOFlYSUI4amFTbzRDckpyNkxGcDN0UmxLb0t3ZzIyb29HRU9DbDFzb01nYThZWS1oeHVuNDhESHA0TFJGa2RTZnU0dWJOWjl5YnRRNkVTUXRjWlVjbmlrSzFyeFk3QklQeWlpSC1ZeUJKbjY0U3dGcFhjMGlnNDVCUlZMempzbHAyMDE5aHNDVjd3bHhIbE9Bb0Y5ZlZNOWFIOXJQY1E3YzRBOGM1RXVWSF9CaEZvOTlUNkdEVGtGVXRiaFZqVkJhS040alIwa2xmY2pGVElTMFp0SjlQTGtjcE3SAewBQVVfeXFMTzZMOTdRZ2hzX1ZScUpPT1FYYXZaQWI5SHdpNFg4REZ2ZWNBWFJOSWFmNWNsQUQzdlFsX0pBQXpnVmRNZEpBOFQ0OWlGZ2ZyaUJIckpRTDhYZW9VLUZtbzRoT1czN2dKY21vWVB0eG5kc1RKSm9IQm4tdUJZdmUtMVBhdDROMWpGSzJkcHNtOUpVdWNvVU5GNUxvZzJMTlVnRk9DQUFzZVBsNFpYb0thdEFrVFZGaUhlOWd5aGtVUkJLVEM4Z2l5VEUyazJaclVIZ1BwV21FYjd5NDRNbVVTVFJKTzQzc0YyaEF1dnU?oc=5
-
-- Union Minister Ashwini Vaishnaw says India-AI Impact Summit 2026 to be held in New Delhi - News On AIR
-  Union Minister Ashwini Vaishnaw says India-AI Impact Summit
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzJ2eDF1aGRnNk5qcndsT25XRm85bjJGcUhKci03bWZ5V0NldldrT2xUbk1wRHREaHk1M0dGNWk4czhuUEtkNUNMVWJyT1AwTDJRMTNiX3o1WkJDTnBjNlpGd0V6cy15blZybTd3cXVQNzhkUDVxV2VaUUJXb3VxSTRzamQxSFZ0enRKUGMyMjRGcHlveHdJSlV2TkhvUUo2dmZTRXdycE43emhhb3k3VENmNjI5WXRaQkE?oc=5
-
-- Asim Munir’s Bahawalpur Optics Expose Pakistan Army’s Dual Play After India’s Op Sindoor Strikes - Times of India
-  Asim Munir’s Bahawalpur Optics Ex
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb3JlaG5pdU9FdzRlZkdwaGpoejROUkVUd3RDSkxhN0pack5fR3pNUUdDd21HQXFMSmVJVzgtUUFpTE9Ibl9pNHc0dEgzOERTWmtLNURrMThlNV85WFZCZWpFV3ZKUENsQUtISTJ5ZzA1RmdQR1MtbVlMa0hnV2hZSEVPLTZ1SnRrc29lcG9leUQtYmpTN3F6bXgyd2VVVWZ4cExnNC1Ib1E4SzE3amZfYklxSmg5cUtweWQ2UGRyT0lHVXBuNFB1QUpaTXdfeHo1UVN4MjZQUkVwbHVpaVY3ZUFvR185cmZfVUtXUkhoV2FraUNWdmFfX9IB_gFBVV95cUxQaGVMRmhxRTY2cE05eFdzX1lVUUdPYXhHaTVtWWhHbERvTElKQVdHcHMxNzM4NnBieEVYZHRweGIxT1MxZDBvNzlWazEzV2xXa2M0WVJWbkpkdHZ0MThkcnN0OTV5OTZyc1pvRmhRbDFraGJFTjdodlFOWERKc1JBckRLN1hkY19aYkNRaV9NUmJvSzZKMTcyX0JpNGh3X2tvWXFtcXJTUGRITWYxWVItVlFkVGQzbER5M01fWjYzcFd3TEtBUWJIMFhVTDEwcmJlak1rVlRnTENUT1FKaDRxcWs1VFZkTDczNUpUdW1wNmFDZ25ncWR3TG9UNDRhQQ?oc=5
+- Sebi removes letter of confirmation requirement, allows direct credit of securities to demat accounts
+  A Letter of Confirmation for credit of securities will no longer be required. Instead, securities will be directly credited to investors' demat accounts. The new system will be effective from April 2, 2026.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-process-of-securities-credit-to-demat-accounts-from-april-2/articleshow/127805198.cms
 
 - US Plans Big India-Focused Meet As Washington Seeks To Counter China - NDTV
   US Plans Big India-Focused Meet As
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQajZhZk9uSUNVQ0V4TXVzbl9ZVEZ1eDhkcXp2UUtFcllVdE9TZ2dhT1JGS2UySFJqSktKMjhWYWd1bG1yel9FZzJzM1lMY3I0NFQyTjBwUC0wb24wLTRNNUx2bHFWLUI0bmxtcmFkRU5GR3B1TzBSSWR1Z1I2ajdaNUhzR0RmeWNGMDFqVk1hbEhUWGMySkVFVy1XQXh1dG1ubWpJblVwUGZwSjl1RHg0ZmtVdVRoXzBkcHNUaW85ejRJdm5KdWZZZGlTZldZMnFHbWfSAdoBQVVfeXFMTk43dnlFNERuYk9aWERJUXpqcnZwSS1OVWh5eVZETS0wY052b1JTMldIdmw3QUlvTW5SaDFvdDU4WFNvaWVNWUw5N21aT2VGMWlIY0Znb1ZCSHZxVlFibFNwOGlGUWdrSEFzSDJ4RzRVb1JIb2xrLWgzOUJZLW5yeld3ZzlBWi1BZXp1X1RHcGFidjN4TXZvcjdvNWZQd0pyVkpsOGMtV3ZScUJEQnRpSnJWaUNtQUJTWjh2VG1uY1YyRVNMN1JneTRBaTRkRkFIWTNQU205WktBT0E?oc=5
 
-- Worried families in India urge return of crew on ship seized by Iran - BBC
-  The ship is believed to have been seized by Iran.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Oc1F6RjVPLUZkaHF1X003Ti05VFcxSG00V0hkbG0zS2o1SWpBWDNQMDU1WXVFSTM3czY4ZWtMMV9HZUZrRkpSOGpCQ1IzUy1nYzNUWHlaSk9qUQ?oc=5
+- "Constitutional Coup": India Slams Pakistan Over Lifetime Immunity To Asim Munir - NDTV
+  "Constitutional Coup": India Slams Pakistan
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYzOWpPV2lVYWtIbkYzVElEWlUycjBndFV3LVd2cm03QlRFZ2FlbWdaalV5SWRabVgzZUJmTTFTOEk2TjluaUxOUFZVd2ZpNVVyY3l4UkI1YVVBY211SmVHeDZ5WWpZa0MxS2lVeWYzSEFrUU9vT2hvSHU2SFFmTXU4VTVRRWFXNnpQYk5Kc1FHY29MdTRPaEJhMHpwRnlHcThtYUNoLW0tdGlER21SS1dCT1k5b202ZVHSAcIBQVVfeXFMUHg0aWlteWE0LVRyS0lIN2FXUHo5VmxiSkwyV3Rvcms2djVWUGVzSEx0NFdlb0VVeWplZzFBUXVYN1ZfRU9yZmlwc1FDcXB6REtTeUhoZjJmaE1JNGhoTkJLNllFanpwU3doN1ROX2ZzQ3owLUFKdVRUSjVfN0I5Z0NkYWc2MHhRQkJqN20zNWVycHpyOWRQVmdhbkUyUW5aZjNLOW9nN1V2cmtOSnR6R2ZRSk1jRktadk9ia3NNenRFeGc?oc=5
 
-- Evening news wrap: Was Ajit Pawar considering an NCP merger before his death, and more - Times of India
-  Evening news wrap: Was Ajit Pawar considering an NCP merger
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQVFwLUtqOFlYSUI4amFTbzRDckpyNkxGcDN0UmxLb0t3ZzIyb29HRU9DbDFzb01nYThZWS1oeHVuNDhESHA0TFJGa2RTZnU0dWJOWjl5YnRRNkVTUXRjWlVjbmlrSzFyeFk3QklQeWlpSC1ZeUJKbjY0U3dGcFhjMGlnNDVCUlZMempzbHAyMDE5aHNDVjd3bHhIbE9Bb0Y5ZlZNOWFIOXJQY1E3YzRBOGM1RXVWSF9CaEZvOTlUNkdEVGtGVXRiaFZqVkJhS040alIwa2xmY2pGVElTMFp0SjlQTGtjcE3SAewBQVVfeXFMTzZMOTdRZ2hzX1ZScUpPT1FYYXZaQWI5SHdpNFg4REZ2ZWNBWFJOSWFmNWNsQUQzdlFsX0pBQXpnVmRNZEpBOFQ0OWlGZ2ZyaUJIckpRTDhYZW9VLUZtbzRoT1czN2dKY21vWVB0eG5kc1RKSm9IQm4tdUJZdmUtMVBhdDROMWpGSzJkcHNtOUpVdWNvVU5GNUxvZzJMTlVnRk9DQUFzZVBsNFpYb0thdEFrVFZGaUhlOWd5aGtVUkJLVEM4Z2l5VEUyazJaclVIZ1BwV21FYjd5NDRNbVVTVFJKTzQzc0YyaEF1dnU?oc=5
+- Star India player breaks silence, dismisses disciplinary rumours - Times of India
+  Star India player breaks silence, dismisses
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG5JemRxLUlJR0lmWTRTQUxtcHVkSFRXWlpaMmlrc091S1VQN1hBdFp1NU52TmthWVozdnJsNEIzbFM3dHhMU1hjX0tYOUJyMkNTdkFDMDhmTUJWdUc1RXRiZnk4VV9DSC1vTk5FOTFRTVprMG54d2s1SGFmRDYyVlI0TGcxY21Qc2ZhbHdtQlNwSUJrbGpVanRES0lKSkFrYUY2dmgtaldXZkQwcFliMU1kSUNrMXloRGY1dWItN0dEejExemppSzRJdEptcG5GRVBDX3J30gHbAUFVX3lxTE1KV01qTk9YVE5hZnVyeUlCRjRXRHFmaDFybVVYMGlnbGo1el9MbTZFZ3ZuQjRXRlRsZzFraUMyV3h5VW5KcGtneVpCS2NCa3NxTjlETThhNGNReUFnRkxpUlB6YnJaZVFRVTJzal9VMzkxZXR3ZndaS3ZzdXF1aTgzUlVIeUplTnJvM0VJT18tWVNjRE00N0RZNHdFd2Z5d2FkY2lRYXJLNUhjOGJ4Z0U2ZnRsNXhYNXJBTndoeEcwc0RGQlc4YlhPc0RBR1NfaWhKaVJudlJfenl5TQ?oc=5
 
-- Union Minister Ashwini Vaishnaw says India-AI Impact Summit 2026 to be held in New Delhi - News On AIR
-  Union Minister Ashwini Vaishnaw says India-AI Impact Summit
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzJ2eDF1aGRnNk5qcndsT25XRm85bjJGcUhKci03bWZ5V0NldldrT2xUbk1wRHREaHk1M0dGNWk4czhuUEtkNUNMVWJyT1AwTDJRMTNiX3o1WkJDTnBjNlpGd0V6cy15blZybTd3cXVQNzhkUDVxV2VaUUJXb3VxSTRzamQxSFZ0enRKUGMyMjRGcHlveHdJSlV2TkhvUUo2dmZTRXdycE43emhhb3k3VENmNjI5WXRaQkE?oc=5
+- J&K: Suspected Pakistan drone enters Indian airspace in Samba - Times of India
+  A suspected Pakistan drone entered Indian airspace in Sam
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHNiU1UxWERJblFZdjUwUzhYNy1JTktrZVRFSlUtUFZZYzRBM3JFdmg4aGU4Q0Q3bmtLVEFVM0hHVng1U2lUQkhaQTNNdHdSVWl6cnNNTkNLS3JsN3hWb1FlUGpZR0Q3UFdmYWdCbEluRlU1NFQ5VTFhUjlVYmJxNFVXUTVuaDNMUzc1U2JxM1FTd1ZOdUpiSFYzOEtWblRFMEVVbjhfMXpJUlpJOU5sS09pdGtMWF9Scnd3VlRIaTMtMnZOc1HSAcsBQVVfeXFMTjRmaDRiaGpSQktRQWNYVGVUSGU0WmVwNzFhczJKNkhIQ1NpM2hYUnVka0pfNWNVTkc5cjF1SVQxeWVhaFBONWxTbUIyd0tiajgxX1owVmtNd0Y2eXQ5VzlSazhCYUNpaHNxREd6czBhQnM1UjV1OVpiTzdtQXljRm9jSVg4eFNrV1BHa2stX1UtbHBhZ3oxT2F6WjJPSnp5bXFNd2ZWMVkzQnFITFp2anpnYlQ4SVpTbWltbXBiU1pPRkZrZ0drZHhqWTg?oc=5
 
-- Asim Munir’s Bahawalpur Optics Expose Pakistan Army’s Dual Play After India’s Op Sindoor Strikes - Times of India
-  Asim Munir’s Bahawalpur Optics Ex
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb3JlaG5pdU9FdzRlZkdwaGpoejROUkVUd3RDSkxhN0pack5fR3pNUUdDd21HQXFMSmVJVzgtUUFpTE9Ibl9pNHc0dEgzOERTWmtLNURrMThlNV85WFZCZWpFV3ZKUENsQUtISTJ5ZzA1RmdQR1MtbVlMa0hnV2hZSEVPLTZ1SnRrc29lcG9leUQtYmpTN3F6bXgyd2VVVWZ4cExnNC1Ib1E4SzE3amZfYklxSmg5cUtweWQ2UGRyT0lHVXBuNFB1QUpaTXdfeHo1UVN4MjZQUkVwbHVpaVY3ZUFvR185cmZfVUtXUkhoV2FraUNWdmFfX9IB_gFBVV95cUxQaGVMRmhxRTY2cE05eFdzX1lVUUdPYXhHaTVtWWhHbERvTElKQVdHcHMxNzM4NnBieEVYZHRweGIxT1MxZDBvNzlWazEzV2xXa2M0WVJWbkpkdHZ0MThkcnN0OTV5OTZyc1pvRmhRbDFraGJFTjdodlFOWERKc1JBckRLN1hkY19aYkNRaV9NUmJvSzZKMTcyX0JpNGh3X2tvWXFtcXJTUGRITWYxWVItVlFkVGQzbER5M01fWjYzcFd3TEtBUWJIMFhVTDEwcmJlak1rVlRnTENUT1FKaDRxcWs1VFZkTDczNUpUdW1wNmFDZ25ncWR3TG9UNDRhQQ?oc=5
+- "Very Significant Progress": India Says US Trade Pact Nearing Closure - NDTV
+  "Very Significant Progress": India Says US
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalZhT3QxdFJVVHZ2R3dqTDBFaW9YSnJwZVBsdm5TRE1ucFkwblpxUWtxUnNMSHFMclJHeFpoTWg0ZEx5QVZPLVprWW4zbFpBNUFjVHpFdHlJUmcyd2FVNUdNcHRjQmpCYUc5bW5OclRqRUR2SERra1RsYjloNlM1UlRla0wwQmZVVno2MG5RU1kxTXNiUEdLZk8xYV9mUU8wTEpxZXJ0NkVPdk3SAbMBQVVfeXFMTUF5aXRlbVlCeXdXYU5ILU5wWWRpa2FJMWZEMEMzTEdfaU9td05fU0xHUFRVcU9vb3dySWNqVE5uS1BTYzBDRnZvOGpkeHAtbUdWNEMxS0Njcy1KbS1sY3dTSmJpbjFGUWtZbGpRcXNtRGNiUF82RmhEdUFFLXN5b0l6bDB0ZVM1cHh3MzBqNzNlNkllY2xuQ1JpRDVjUkMzZkt0VU5lQnlna2pvVU55dTdqUVU?oc=5
 
 - US Plans Big India-Focused Meet As Washington Seeks To Counter China - NDTV
   US Plans Big India-Focused Meet As
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQajZhZk9uSUNVQ0V4TXVzbl9ZVEZ1eDhkcXp2UUtFcllVdE9TZ2dhT1JGS2UySFJqSktKMjhWYWd1bG1yel9FZzJzM1lMY3I0NFQyTjBwUC0wb24wLTRNNUx2bHFWLUI0bmxtcmFkRU5GR3B1TzBSSWR1Z1I2ajdaNUhzR0RmeWNGMDFqVk1hbEhUWGMySkVFVy1XQXh1dG1ubWpJblVwUGZwSjl1RHg0ZmtVdVRoXzBkcHNUaW85ejRJdm5KdWZZZGlTZldZMnFHbWfSAdoBQVVfeXFMTk43dnlFNERuYk9aWERJUXpqcnZwSS1OVWh5eVZETS0wY052b1JTMldIdmw3QUlvTW5SaDFvdDU4WFNvaWVNWUw5N21aT2VGMWlIY0Znb1ZCSHZxVlFibFNwOGlGUWdrSEFzSDJ4RzRVb1JIb2xrLWgzOUJZLW5yeld3ZzlBWi1BZXp1X1RHcGFidjN4TXZvcjdvNWZQd0pyVkpsOGMtV3ZScUJEQnRpSnJWaUNtQUJTWjh2VG1uY1YyRVNMN1JneTRBaTRkRkFIWTNQU205WktBT0E?oc=5
 
-- Worried families in India urge return of crew on ship seized by Iran - BBC
-  The ship is believed to have been seized by Iran.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Oc1F6RjVPLUZkaHF1X003Ti05VFcxSG00V0hkbG0zS2o1SWpBWDNQMDU1WXVFSTM3czY4ZWtMMV9HZUZrRkpSOGpCQ1IzUy1nYzNUWHlaSk9qUQ?oc=5
+- "Constitutional Coup": India Slams Pakistan Over Lifetime Immunity To Asim Munir - NDTV
+  "Constitutional Coup": India Slams Pakistan
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYzOWpPV2lVYWtIbkYzVElEWlUycjBndFV3LVd2cm03QlRFZ2FlbWdaalV5SWRabVgzZUJmTTFTOEk2TjluaUxOUFZVd2ZpNVVyY3l4UkI1YVVBY211SmVHeDZ5WWpZa0MxS2lVeWYzSEFrUU9vT2hvSHU2SFFmTXU4VTVRRWFXNnpQYk5Kc1FHY29MdTRPaEJhMHpwRnlHcThtYUNoLW0tdGlER21SS1dCT1k5b202ZVHSAcIBQVVfeXFMUHg0aWlteWE0LVRyS0lIN2FXUHo5VmxiSkwyV3Rvcms2djVWUGVzSEx0NFdlb0VVeWplZzFBUXVYN1ZfRU9yZmlwc1FDcXB6REtTeUhoZjJmaE1JNGhoTkJLNllFanpwU3doN1ROX2ZzQ3owLUFKdVRUSjVfN0I5Z0NkYWc2MHhRQkJqN20zNWVycHpyOWRQVmdhbkUyUW5aZjNLOW9nN1V2cmtOSnR6R2ZRSk1jRktadk9ia3NNenRFeGc?oc=5
 
-- Evening news wrap: Was Ajit Pawar considering an NCP merger before his death, and more - Times of India
-  Evening news wrap: Was Ajit Pawar considering an NCP merger
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQVFwLUtqOFlYSUI4amFTbzRDckpyNkxGcDN0UmxLb0t3ZzIyb29HRU9DbDFzb01nYThZWS1oeHVuNDhESHA0TFJGa2RTZnU0dWJOWjl5YnRRNkVTUXRjWlVjbmlrSzFyeFk3QklQeWlpSC1ZeUJKbjY0U3dGcFhjMGlnNDVCUlZMempzbHAyMDE5aHNDVjd3bHhIbE9Bb0Y5ZlZNOWFIOXJQY1E3YzRBOGM1RXVWSF9CaEZvOTlUNkdEVGtGVXRiaFZqVkJhS040alIwa2xmY2pGVElTMFp0SjlQTGtjcE3SAewBQVVfeXFMTzZMOTdRZ2hzX1ZScUpPT1FYYXZaQWI5SHdpNFg4REZ2ZWNBWFJOSWFmNWNsQUQzdlFsX0pBQXpnVmRNZEpBOFQ0OWlGZ2ZyaUJIckpRTDhYZW9VLUZtbzRoT1czN2dKY21vWVB0eG5kc1RKSm9IQm4tdUJZdmUtMVBhdDROMWpGSzJkcHNtOUpVdWNvVU5GNUxvZzJMTlVnRk9DQUFzZVBsNFpYb0thdEFrVFZGaUhlOWd5aGtVUkJLVEM4Z2l5VEUyazJaclVIZ1BwV21FYjd5NDRNbVVTVFJKTzQzc0YyaEF1dnU?oc=5
+- Star India player breaks silence, dismisses disciplinary rumours - Times of India
+  Star India player breaks silence, dismisses
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG5JemRxLUlJR0lmWTRTQUxtcHVkSFRXWlpaMmlrc091S1VQN1hBdFp1NU52TmthWVozdnJsNEIzbFM3dHhMU1hjX0tYOUJyMkNTdkFDMDhmTUJWdUc1RXRiZnk4VV9DSC1vTk5FOTFRTVprMG54d2s1SGFmRDYyVlI0TGcxY21Qc2ZhbHdtQlNwSUJrbGpVanRES0lKSkFrYUY2dmgtaldXZkQwcFliMU1kSUNrMXloRGY1dWItN0dEejExemppSzRJdEptcG5GRVBDX3J30gHbAUFVX3lxTE1KV01qTk9YVE5hZnVyeUlCRjRXRHFmaDFybVVYMGlnbGo1el9MbTZFZ3ZuQjRXRlRsZzFraUMyV3h5VW5KcGtneVpCS2NCa3NxTjlETThhNGNReUFnRkxpUlB6YnJaZVFRVTJzal9VMzkxZXR3ZndaS3ZzdXF1aTgzUlVIeUplTnJvM0VJT18tWVNjRE00N0RZNHdFd2Z5d2FkY2lRYXJLNUhjOGJ4Z0U2ZnRsNXhYNXJBTndoeEcwc0RGQlc4YlhPc0RBR1NfaWhKaVJudlJfenl5TQ?oc=5
 
-- Union Minister Ashwini Vaishnaw says India-AI Impact Summit 2026 to be held in New Delhi - News On AIR
-  Union Minister Ashwini Vaishnaw says India-AI Impact Summit
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzJ2eDF1aGRnNk5qcndsT25XRm85bjJGcUhKci03bWZ5V0NldldrT2xUbk1wRHREaHk1M0dGNWk4czhuUEtkNUNMVWJyT1AwTDJRMTNiX3o1WkJDTnBjNlpGd0V6cy15blZybTd3cXVQNzhkUDVxV2VaUUJXb3VxSTRzamQxSFZ0enRKUGMyMjRGcHlveHdJSlV2TkhvUUo2dmZTRXdycE43emhhb3k3VENmNjI5WXRaQkE?oc=5
+- J&K: Suspected Pakistan drone enters Indian airspace in Samba - Times of India
+  A suspected Pakistan drone entered Indian airspace in Sam
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHNiU1UxWERJblFZdjUwUzhYNy1JTktrZVRFSlUtUFZZYzRBM3JFdmg4aGU4Q0Q3bmtLVEFVM0hHVng1U2lUQkhaQTNNdHdSVWl6cnNNTkNLS3JsN3hWb1FlUGpZR0Q3UFdmYWdCbEluRlU1NFQ5VTFhUjlVYmJxNFVXUTVuaDNMUzc1U2JxM1FTd1ZOdUpiSFYzOEtWblRFMEVVbjhfMXpJUlpJOU5sS09pdGtMWF9Scnd3VlRIaTMtMnZOc1HSAcsBQVVfeXFMTjRmaDRiaGpSQktRQWNYVGVUSGU0WmVwNzFhczJKNkhIQ1NpM2hYUnVka0pfNWNVTkc5cjF1SVQxeWVhaFBONWxTbUIyd0tiajgxX1owVmtNd0Y2eXQ5VzlSazhCYUNpaHNxREd6czBhQnM1UjV1OVpiTzdtQXljRm9jSVg4eFNrV1BHa2stX1UtbHBhZ3oxT2F6WjJPSnp5bXFNd2ZWMVkzQnFITFp2anpnYlQ4SVpTbWltbXBiU1pPRkZrZ0drZHhqWTg?oc=5
 
-- Asim Munir’s Bahawalpur Optics Expose Pakistan Army’s Dual Play After India’s Op Sindoor Strikes - Times of India
-  Asim Munir’s Bahawalpur Optics Ex
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb3JlaG5pdU9FdzRlZkdwaGpoejROUkVUd3RDSkxhN0pack5fR3pNUUdDd21HQXFMSmVJVzgtUUFpTE9Ibl9pNHc0dEgzOERTWmtLNURrMThlNV85WFZCZWpFV3ZKUENsQUtISTJ5ZzA1RmdQR1MtbVlMa0hnV2hZSEVPLTZ1SnRrc29lcG9leUQtYmpTN3F6bXgyd2VVVWZ4cExnNC1Ib1E4SzE3amZfYklxSmg5cUtweWQ2UGRyT0lHVXBuNFB1QUpaTXdfeHo1UVN4MjZQUkVwbHVpaVY3ZUFvR185cmZfVUtXUkhoV2FraUNWdmFfX9IB_gFBVV95cUxQaGVMRmhxRTY2cE05eFdzX1lVUUdPYXhHaTVtWWhHbERvTElKQVdHcHMxNzM4NnBieEVYZHRweGIxT1MxZDBvNzlWazEzV2xXa2M0WVJWbkpkdHZ0MThkcnN0OTV5OTZyc1pvRmhRbDFraGJFTjdodlFOWERKc1JBckRLN1hkY19aYkNRaV9NUmJvSzZKMTcyX0JpNGh3X2tvWXFtcXJTUGRITWYxWVItVlFkVGQzbER5M01fWjYzcFd3TEtBUWJIMFhVTDEwcmJlak1rVlRnTENUT1FKaDRxcWs1VFZkTDczNUpUdW1wNmFDZ25ncWR3TG9UNDRhQQ?oc=5
+- "Very Significant Progress": India Says US Trade Pact Nearing Closure - NDTV
+  "Very Significant Progress": India Says US
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalZhT3QxdFJVVHZ2R3dqTDBFaW9YSnJwZVBsdm5TRE1ucFkwblpxUWtxUnNMSHFMclJHeFpoTWg0ZEx5QVZPLVprWW4zbFpBNUFjVHpFdHlJUmcyd2FVNUdNcHRjQmpCYUc5bW5OclRqRUR2SERra1RsYjloNlM1UlRla0wwQmZVVno2MG5RU1kxTXNiUEdLZk8xYV9mUU8wTEpxZXJ0NkVPdk3SAbMBQVVfeXFMTUF5aXRlbVlCeXdXYU5ILU5wWWRpa2FJMWZEMEMzTEdfaU9td05fU0xHUFRVcU9vb3dySWNqVE5uS1BTYzBDRnZvOGpkeHAtbUdWNEMxS0Njcy1KbS1sY3dTSmJpbjFGUWtZbGpRcXNtRGNiUF82RmhEdUFFLXN5b0l6bDB0ZVM1cHh3MzBqNzNlNkllY2xuQ1JpRDVjUkMzZkt0VU5lQnlna2pvVU55dTdqUVU?oc=5
+
+- US Plans Big India-Focused Meet As Washington Seeks To Counter China - NDTV
+  US Plans Big India-Focused Meet As
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQajZhZk9uSUNVQ0V4TXVzbl9ZVEZ1eDhkcXp2UUtFcllVdE9TZ2dhT1JGS2UySFJqSktKMjhWYWd1bG1yel9FZzJzM1lMY3I0NFQyTjBwUC0wb24wLTRNNUx2bHFWLUI0bmxtcmFkRU5GR3B1TzBSSWR1Z1I2ajdaNUhzR0RmeWNGMDFqVk1hbEhUWGMySkVFVy1XQXh1dG1ubWpJblVwUGZwSjl1RHg0ZmtVdVRoXzBkcHNUaW85ejRJdm5KdWZZZGlTZldZMnFHbWfSAdoBQVVfeXFMTk43dnlFNERuYk9aWERJUXpqcnZwSS1OVWh5eVZETS0wY052b1JTMldIdmw3QUlvTW5SaDFvdDU4WFNvaWVNWUw5N21aT2VGMWlIY0Znb1ZCSHZxVlFibFNwOGlGUWdrSEFzSDJ4RzRVb1JIb2xrLWgzOUJZLW5yeld3ZzlBWi1BZXp1X1RHcGFidjN4TXZvcjdvNWZQd0pyVkpsOGMtV3ZScUJEQnRpSnJWaUNtQUJTWjh2VG1uY1YyRVNMN1JneTRBaTRkRkFIWTNQU205WktBT0E?oc=5
+
+- "Constitutional Coup": India Slams Pakistan Over Lifetime Immunity To Asim Munir - NDTV
+  "Constitutional Coup": India Slams Pakistan
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYzOWpPV2lVYWtIbkYzVElEWlUycjBndFV3LVd2cm03QlRFZ2FlbWdaalV5SWRabVgzZUJmTTFTOEk2TjluaUxOUFZVd2ZpNVVyY3l4UkI1YVVBY211SmVHeDZ5WWpZa0MxS2lVeWYzSEFrUU9vT2hvSHU2SFFmTXU4VTVRRWFXNnpQYk5Kc1FHY29MdTRPaEJhMHpwRnlHcThtYUNoLW0tdGlER21SS1dCT1k5b202ZVHSAcIBQVVfeXFMUHg0aWlteWE0LVRyS0lIN2FXUHo5VmxiSkwyV3Rvcms2djVWUGVzSEx0NFdlb0VVeWplZzFBUXVYN1ZfRU9yZmlwc1FDcXB6REtTeUhoZjJmaE1JNGhoTkJLNllFanpwU3doN1ROX2ZzQ3owLUFKdVRUSjVfN0I5Z0NkYWc2MHhRQkJqN20zNWVycHpyOWRQVmdhbkUyUW5aZjNLOW9nN1V2cmtOSnR6R2ZRSk1jRktadk9ia3NNenRFeGc?oc=5
+
+- Star India player breaks silence, dismisses disciplinary rumours - Times of India
+  Star India player breaks silence, dismisses
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG5JemRxLUlJR0lmWTRTQUxtcHVkSFRXWlpaMmlrc091S1VQN1hBdFp1NU52TmthWVozdnJsNEIzbFM3dHhMU1hjX0tYOUJyMkNTdkFDMDhmTUJWdUc1RXRiZnk4VV9DSC1vTk5FOTFRTVprMG54d2s1SGFmRDYyVlI0TGcxY21Qc2ZhbHdtQlNwSUJrbGpVanRES0lKSkFrYUY2dmgtaldXZkQwcFliMU1kSUNrMXloRGY1dWItN0dEejExemppSzRJdEptcG5GRVBDX3J30gHbAUFVX3lxTE1KV01qTk9YVE5hZnVyeUlCRjRXRHFmaDFybVVYMGlnbGo1el9MbTZFZ3ZuQjRXRlRsZzFraUMyV3h5VW5KcGtneVpCS2NCa3NxTjlETThhNGNReUFnRkxpUlB6YnJaZVFRVTJzal9VMzkxZXR3ZndaS3ZzdXF1aTgzUlVIeUplTnJvM0VJT18tWVNjRE00N0RZNHdFd2Z5d2FkY2lRYXJLNUhjOGJ4Z0U2ZnRsNXhYNXJBTndoeEcwc0RGQlc4YlhPc0RBR1NfaWhKaVJudlJfenl5TQ?oc=5
+
+- J&K: Suspected Pakistan drone enters Indian airspace in Samba - Times of India
+  A suspected Pakistan drone entered Indian airspace in Sam
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHNiU1UxWERJblFZdjUwUzhYNy1JTktrZVRFSlUtUFZZYzRBM3JFdmg4aGU4Q0Q3bmtLVEFVM0hHVng1U2lUQkhaQTNNdHdSVWl6cnNNTkNLS3JsN3hWb1FlUGpZR0Q3UFdmYWdCbEluRlU1NFQ5VTFhUjlVYmJxNFVXUTVuaDNMUzc1U2JxM1FTd1ZOdUpiSFYzOEtWblRFMEVVbjhfMXpJUlpJOU5sS09pdGtMWF9Scnd3VlRIaTMtMnZOc1HSAcsBQVVfeXFMTjRmaDRiaGpSQktRQWNYVGVUSGU0WmVwNzFhczJKNkhIQ1NpM2hYUnVka0pfNWNVTkc5cjF1SVQxeWVhaFBONWxTbUIyd0tiajgxX1owVmtNd0Y2eXQ5VzlSazhCYUNpaHNxREd6czBhQnM1UjV1OVpiTzdtQXljRm9jSVg4eFNrV1BHa2stX1UtbHBhZ3oxT2F6WjJPSnp5bXFNd2ZWMVkzQnFITFp2anpnYlQ4SVpTbWltbXBiU1pPRkZrZ0drZHhqWTg?oc=5
+
+- "Very Significant Progress": India Says US Trade Pact Nearing Closure - NDTV
+  "Very Significant Progress": India Says US
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalZhT3QxdFJVVHZ2R3dqTDBFaW9YSnJwZVBsdm5TRE1ucFkwblpxUWtxUnNMSHFMclJHeFpoTWg0ZEx5QVZPLVprWW4zbFpBNUFjVHpFdHlJUmcyd2FVNUdNcHRjQmpCYUc5bW5OclRqRUR2SERra1RsYjloNlM1UlRla0wwQmZVVno2MG5RU1kxTXNiUEdLZk8xYV9mUU8wTEpxZXJ0NkVPdk3SAbMBQVVfeXFMTUF5aXRlbVlCeXdXYU5ILU5wWWRpa2FJMWZEMEMzTEdfaU9td05fU0xHUFRVcU9vb3dySWNqVE5uS1BTYzBDRnZvOGpkeHAtbUdWNEMxS0Njcy1KbS1sY3dTSmJpbjFGUWtZbGpRcXNtRGNiUF82RmhEdUFFLXN5b0l6bDB0ZVM1cHh3MzBqNzNlNkllY2xuQ1JpRDVjUkMzZkt0VU5lQnlna2pvVU55dTdqUVU?oc=5
+
+- US Plans Big India-Focused Meet As Washington Seeks To Counter China - NDTV
+  US Plans Big India-Focused Meet As
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQajZhZk9uSUNVQ0V4TXVzbl9ZVEZ1eDhkcXp2UUtFcllVdE9TZ2dhT1JGS2UySFJqSktKMjhWYWd1bG1yel9FZzJzM1lMY3I0NFQyTjBwUC0wb24wLTRNNUx2bHFWLUI0bmxtcmFkRU5GR3B1TzBSSWR1Z1I2ajdaNUhzR0RmeWNGMDFqVk1hbEhUWGMySkVFVy1XQXh1dG1ubWpJblVwUGZwSjl1RHg0ZmtVdVRoXzBkcHNUaW85ejRJdm5KdWZZZGlTZldZMnFHbWfSAdoBQVVfeXFMTk43dnlFNERuYk9aWERJUXpqcnZwSS1OVWh5eVZETS0wY052b1JTMldIdmw3QUlvTW5SaDFvdDU4WFNvaWVNWUw5N21aT2VGMWlIY0Znb1ZCSHZxVlFibFNwOGlGUWdrSEFzSDJ4RzRVb1JIb2xrLWgzOUJZLW5yeld3ZzlBWi1BZXp1X1RHcGFidjN4TXZvcjdvNWZQd0pyVkpsOGMtV3ZScUJEQnRpSnJWaUNtQUJTWjh2VG1uY1YyRVNMN1JneTRBaTRkRkFIWTNQU205WktBT0E?oc=5
+
+- "Constitutional Coup": India Slams Pakistan Over Lifetime Immunity To Asim Munir - NDTV
+  "Constitutional Coup": India Slams Pakistan
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYzOWpPV2lVYWtIbkYzVElEWlUycjBndFV3LVd2cm03QlRFZ2FlbWdaalV5SWRabVgzZUJmTTFTOEk2TjluaUxOUFZVd2ZpNVVyY3l4UkI1YVVBY211SmVHeDZ5WWpZa0MxS2lVeWYzSEFrUU9vT2hvSHU2SFFmTXU4VTVRRWFXNnpQYk5Kc1FHY29MdTRPaEJhMHpwRnlHcThtYUNoLW0tdGlER21SS1dCT1k5b202ZVHSAcIBQVVfeXFMUHg0aWlteWE0LVRyS0lIN2FXUHo5VmxiSkwyV3Rvcms2djVWUGVzSEx0NFdlb0VVeWplZzFBUXVYN1ZfRU9yZmlwc1FDcXB6REtTeUhoZjJmaE1JNGhoTkJLNllFanpwU3doN1ROX2ZzQ3owLUFKdVRUSjVfN0I5Z0NkYWc2MHhRQkJqN20zNWVycHpyOWRQVmdhbkUyUW5aZjNLOW9nN1V2cmtOSnR6R2ZRSk1jRktadk9ia3NNenRFeGc?oc=5
+
+- Star India player breaks silence, dismisses disciplinary rumours - Times of India
+  Star India player breaks silence, dismisses
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG5JemRxLUlJR0lmWTRTQUxtcHVkSFRXWlpaMmlrc091S1VQN1hBdFp1NU52TmthWVozdnJsNEIzbFM3dHhMU1hjX0tYOUJyMkNTdkFDMDhmTUJWdUc1RXRiZnk4VV9DSC1vTk5FOTFRTVprMG54d2s1SGFmRDYyVlI0TGcxY21Qc2ZhbHdtQlNwSUJrbGpVanRES0lKSkFrYUY2dmgtaldXZkQwcFliMU1kSUNrMXloRGY1dWItN0dEejExemppSzRJdEptcG5GRVBDX3J30gHbAUFVX3lxTE1KV01qTk9YVE5hZnVyeUlCRjRXRHFmaDFybVVYMGlnbGo1el9MbTZFZ3ZuQjRXRlRsZzFraUMyV3h5VW5KcGtneVpCS2NCa3NxTjlETThhNGNReUFnRkxpUlB6YnJaZVFRVTJzal9VMzkxZXR3ZndaS3ZzdXF1aTgzUlVIeUplTnJvM0VJT18tWVNjRE00N0RZNHdFd2Z5d2FkY2lRYXJLNUhjOGJ4Z0U2ZnRsNXhYNXJBTndoeEcwc0RGQlc4YlhPc0RBR1NfaWhKaVJudlJfenl5TQ?oc=5
+
+- J&K: Suspected Pakistan drone enters Indian airspace in Samba - Times of India
+  A suspected Pakistan drone entered Indian airspace in Sam
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHNiU1UxWERJblFZdjUwUzhYNy1JTktrZVRFSlUtUFZZYzRBM3JFdmg4aGU4Q0Q3bmtLVEFVM0hHVng1U2lUQkhaQTNNdHdSVWl6cnNNTkNLS3JsN3hWb1FlUGpZR0Q3UFdmYWdCbEluRlU1NFQ5VTFhUjlVYmJxNFVXUTVuaDNMUzc1U2JxM1FTd1ZOdUpiSFYzOEtWblRFMEVVbjhfMXpJUlpJOU5sS09pdGtMWF9Scnd3VlRIaTMtMnZOc1HSAcsBQVVfeXFMTjRmaDRiaGpSQktRQWNYVGVUSGU0WmVwNzFhczJKNkhIQ1NpM2hYUnVka0pfNWNVTkc5cjF1SVQxeWVhaFBONWxTbUIyd0tiajgxX1owVmtNd0Y2eXQ5VzlSazhCYUNpaHNxREd6czBhQnM1UjV1OVpiTzdtQXljRm9jSVg4eFNrV1BHa2stX1UtbHBhZ3oxT2F6WjJPSnp5bXFNd2ZWMVkzQnFITFp2anpnYlQ4SVpTbWltbXBiU1pPRkZrZ0drZHhqWTg?oc=5
+
+- "Very Significant Progress": India Says US Trade Pact Nearing Closure - NDTV
+  "Very Significant Progress": India Says US
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalZhT3QxdFJVVHZ2R3dqTDBFaW9YSnJwZVBsdm5TRE1ucFkwblpxUWtxUnNMSHFMclJHeFpoTWg0ZEx5QVZPLVprWW4zbFpBNUFjVHpFdHlJUmcyd2FVNUdNcHRjQmpCYUc5bW5OclRqRUR2SERra1RsYjloNlM1UlRla0wwQmZVVno2MG5RU1kxTXNiUEdLZk8xYV9mUU8wTEpxZXJ0NkVPdk3SAbMBQVVfeXFMTUF5aXRlbVlCeXdXYU5ILU5wWWRpa2FJMWZEMEMzTEdfaU9td05fU0xHUFRVcU9vb3dySWNqVE5uS1BTYzBDRnZvOGpkeHAtbUdWNEMxS0Njcy1KbS1sY3dTSmJpbjFGUWtZbGpRcXNtRGNiUF82RmhEdUFFLXN5b0l6bDB0ZVM1cHh3MzBqNzNlNkllY2xuQ1JpRDVjUkMzZkt0VU5lQnlna2pvVU55dTdqUVU?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-30 12:46:28 UTC_
+_Last updated: 2026-01-30 18:39:36 UTC_
