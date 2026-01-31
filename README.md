@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
+- Indore’s famous ‘dancing cop’ stripped of his rank after woman alleges misconduct
+  
+  🔗 https://indianexpress.com/article/india/indores-famous-dancing-cop-stripped-of-his-rank-after-woman-alleges-misconduct-10504501/
+
+- Vaishno Devi students begin new chapter in 7 different medical colleges, joined by a WhatsApp group
+  
+  🔗 https://indianexpress.com/article/india/vaishno-devi-students-begin-new-chapter-in-7-different-medical-colleges-joined-by-a-whatsapp-group-10504458/
+
+- Bihar seeks special package for industries, flood-control support
+  
+  🔗 https://indianexpress.com/article/india/bihar-seeks-special-package-for-industries-flood-control-support-10504503/
+
+- ED arrests former RCOM director in Rs 40,000-crore bank fraud case
+  
+  🔗 https://indianexpress.com/article/india/ed-arrests-former-rcom-director-in-rs-40000-crore-bank-fraud-case-10504483/
+
 - ED files charges in Rs 6 crore fraud linked to MP businessman’s tragic suicide: The shocking details of the ‘layered’ scam
   
   🔗 https://indianexpress.com/article/india/ed-files-charges-fraud-mp-businessman-suicide-scam-10504304/
-
-- Modi, Acting Venezuelan President Delcy Rodríguez agree to expand bilateral ties
-  
-  🔗 https://indianexpress.com/article/india/modi-acting-venezuelan-president-delcy-rodriguez-bilateral-ties-10504206/
-
-- From viral fame to demotion: Why Indore’s famous ‘dancing cop’ has just been stripped of his rank
-  
-  🔗 https://indianexpress.com/article/india/demotion-indore-famous-dancing-cop-stripped-of-his-rank-10504180/
-
-- Corporate employee to real estate mogul – who is CJ Roy, who shot himself dead when IT officials were at his office?
-  
-  🔗 https://indianexpress.com/article/india/real-estate-mogul-who-is-cj-roy-it-officials-raid-10504148/
-
-- If BJP wins for 3rd time, infiltrators will be removed ‘one by one’: Amit Shah in Assam
-  
-  🔗 https://indianexpress.com/article/india/if-bjp-wins-3rd-time-infiltrators-removed-amit-shah-assam-10504060/
 
 - Google’s Project Genie allows users to explore AI-generated worlds in real time
   
@@ -40,25 +40,33 @@
   
   🔗 https://indianexpress.com/article/technology/science/ai-helps-astronomers-find-1400-anomalous-objects-buried-in-hubble-data-10503347/
 
-- Jindal Steel Q3 net profit falls almost 80% on higher costs; revenue up 11%
-  Net debt increased to  ₹15,443 crore as of 31 December. The steelmaker's net profit dropped to    �
-  🔗 https://www.livemint.com/companies/company-results/jindal-steel-q3-jindal-steel-results-11769780044543.html
+- Peloton layoffs: Headcount reduced by 11%, engineering teams impacted in cost-cutting move
+  Peloton Interactive Inc. slashed 11% of its workforce in a cost-cutting move.
+  🔗 https://www.livemint.com/companies/news/peloton-interactive-layoffs-headcount-reduced-11-pc-job-cuts-engineering-teams-impact-cost-cutting-fitness-tech-company-11769819977215.html
 
-- Meesho bets on logistics fixes, operating leverage to lift margins after Q3 loss widens
-  The e-commerce marketplace plans to accelerate investments in advertising and sales promotion to support new user additions as well as expand its
-  🔗 https://www.livemint.com/companies/news/meesho-bets-on-logistics-fixes-operating-leverage-to-lift-margins-after-q3-loss-widens-11769777450235.html
+- PE giants line up for RedTape in deal valuing footwear maker at up to  ₹5,000 crore
+  Apax Funds and Advent International are pursuing a majority stake in Indian footwear company RedTape. The promoters, who hold 71.79%, may sell a significant
+  🔗 https://www.livemint.com/companies/apax-advent-redtape-stake-footwear-ey-11769686096956.html
 
-- IBM takes Gurugram office on 10-year lease for  ₹180 crore
-  IBM India leased 230,000 sq. ft at Intellion Park in Gurugram for ten years
-  🔗 https://www.livemint.com/companies/news/ibm-india-gurugram-office-lease-tata-realty-commercial-real-estate-11769765960382.html
+- Apple Loses More AI Researchers and a Siri Executive in Latest Departures
+  Apple has lost at least four more of its artificial intelligence researchers in recent weeks. The staff headed to employers such as Meta Platforms Inc. and Google DeepMind
+  🔗 https://www.livemint.com/companies/apple-loses-more-ai-researchers-and-a-siri-executive-in-latest-departures-11769801275860.html
 
-- Ola Electric to lay off 5% of workforce as part of restructuring effort
-  Ola Electric reportedly announced a 5% workforce reduction as part of its restructuring efforts.
-  🔗 https://www.livemint.com/companies/news/ola-electric-to-lay-off-5-of-workforce-as-part-of-restructuring-effort-says-report-11769776581521.html
+- Carney, Macklem Congratulate Warsh on Federal Reserve Nomination
+  Canadian PM Mark Carney and Bank of Canada Governor Tiff Macklem congratulate Kevin Warsh on his
+  🔗 https://www.livemint.com/companies/carney-macklem-congratulate-warsh-on-federal-reserve-nomination-11769798819803.html
 
-- A West Delhi unicorn: Shiprocket's Saahil Goel on the long road to building India’s logistics backbone
-  Saahil Goel co-founded Shiprocket to empower small businesses in India. The company evolved through various challenges to become a logistics backbone for e-commerce.
-  🔗 https://www.livemint.com/companies/people/a-west-delhi-unicorn-shiprockets-saahil-goel-on-the-long-road-to-building-india-s-logistics-backbone-11769772028302.html
+- Binance Founder Zhao Fends Off Crypto Market Crash Accusations
+  Changpeng "CZ" Zhao, co-founder and former chief executive officer of Binance, said lingering accusations that the
+  🔗 https://www.livemint.com/companies/binance-founder-zhao-fends-off-crypto-market-crash-accusations-11769798202007.html
+
+- EM Assets Pare Monthly Rally on Slump in Metals, Trump Fed Pick
+  Emerging market assets are falling for a second straight session on Friday, paring their monthly gains. metals plunge and the dollar surges to its best day since July after President Donald Trump announced his pick
+  🔗 https://www.livemint.com/market/em-assets-pare-monthly-rally-on-slump-in-metals-trump-fed-pick-11769800847625.html
+
+- Chicago grain prices fall amid profit-taking and dollar rebound
+  Chicago grain prices fall amid profit
+  🔗 https://www.livemint.com/market/chicago-grain-prices-fall-amid-profit-taking-and-dollar-rebound-11769799739360.html
 
 - American Express stock slides 3.82% despite 13% profit growth and higher Gen-z spending
   The New York-based company reported a quarterly profit of $2.46 billion ($3.53 per share) for October
@@ -71,14 +79,6 @@
 - Dow Jones, S&amp;P 500, Nasdaq slip after Trump nominates Kevin Warsh as US Fed Chairman; Apple falls 1.5%, SanDisk up 20%
   The S&amp;amp;P 500 was down 0.8%, the Dow Jones Industrial Average
   🔗 https://www.livemint.com/market/stock-market-news/wall-street-slips-after-trump-nominates-kevin-warsh-to-head-federal-reserve-11769784020858.html
-
-- Pulse of the Street: Markets snap three-week slide on budget hopes, earnings boost
-  The BSE Sensex closed the week 0.9% higher at 82,269.78. The Nifty50 advanced 1
-  🔗 https://www.livemint.com/market/stock-market-news/india-stock-market-fpi-outflows-budget-impact-rupee-depreciation-11769775769199.html
-
-- Reliance Power Q3 results: Net profit drops 40% YoY to  ₹25 crore; revenues up 1% — Details here
-  Reliance Power recorded a 40% fall in its consolidated net profit to  ₹25 crore in the October to December quarter of the fiscal year ending 2025-26.
-  🔗 https://www.livemint.com/market/stock-market-news/reliance-power-q3-results-net-profit-drops-40-yoy-to-rs-25-crore-revenues-up-1-details-here-11769782134850.html
 
 - In a multi-test series, this is just the first innings: Vaishnaw on AI evolution
   Vishnaw: In a multi-
@@ -101,24 +101,24 @@
   🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-s26-s26-and-s26-ultra-tipped-to-debut-at-galaxy-unpacked-2026-on-feb-25-11769755318786.html
 
 - Gold rally stalls as prices drop after a sharp run-up; Asia-Pacific stock markets mostly fall - CNBC
-  Gold rally stalls as prices drop after a sharp run-up.
+  Gold rally stalls as prices drop after a sharp run-up. Asia-Pacific stock markets mostly fall.
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNZHFTLV9ZVTlWUVg2LVZVSGc2ZjJwRFoxdnVxVG1VTXlTMXhadzZ6NjdGUTl3UzZEVFAtM1NMSkluZzVsVks2bjlQdG93UG56aGlFVXBUNF9hQXo2bWs0Vmt1UWpzRkNRYVZIS0NEaTY3cHlMOFhoS0pDN0VDMXdvcnVnT1hjZEtMWjU0c3VMVjVqYWNpX3hCTmFmMUJsemhOYzREc1hsQjdJcmN6ejhRRXF6X1BWVl9nS0s2ZFYtZUljaXVXZkNZNTd3X2taM0nSAdQBQVVfeXFMTUFtQl9DZ0UzSlFiejVuVzBKbVNZQng1eV9uUHY3TWZmaGJQaklQWmJnMmdHUUVyX0d0NThnby12TEtYMU56TXo3SHMyaWlpXzlod0NaUWhjTjkxRFFCTFd0WldXN0hFNDlveEJyRzdSczNoeF9BbEFCV0VQV3hPWnVhV2NZZjk1V1lOc0laLTJNT0JmTlJEbjRCbk1GaWt2VE8wNXFJWHZ3U1hkSGRzTkdKR2t2TjRvQWFkY05lWGtQQzRIX3FXZjhXUjk4Q2lJN3Q4N1Y?oc=5
+
+- Market Swings in India Surge From Historic Low as Budget Nears - Bloomberg
+  Market Swings in India Surge From Historic Low
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPcGZZY3FTMnM1RFBiWmoyX2l6SjNQRmEzRXVLZFNKLUg5ZTdiTTJqckdfX01xRF9wc01iY05MelZLT0JrMzJYNUpNVEFhc0FJcGdWdG5YNGx3S3R3cV9CVkhCdkUwQ2hycGNPblRqazk3TnQ2MVFPRjUtVVZDWVFYUEQxRENqUDF5N05uMDcwaWtzejVKYklVUDc0cExCUkZ0d0FiWWNLR2tzd19jU1hKYW5IUQ?oc=5
 
 - Emerging markets make roaring start to 2026 as dollar slides - Financial Times
   Emerging markets make roaring start to 2026
   🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZZGhGTjFTUDB5Rl92S3Fhek1JYW9ZTE16WEhYc0lMM1h0QlJwUnlhZHc0MFlYQ0Y3S0pkTERQQWdSRjBQbklKck1aRktjRXAzbzFoRDk4TzVuTnJFVTY3X0tFVWY5X1NEb3BtNk9DaHM?oc=5
 
-- Fiscal Fireworks: How Debt is Rewriting the Rules for the US and Japan - J.P. Morgan
-  J.P. Morgan: How Debt is Rewrit
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR2YwWmRIZXBhYTZtaDJXSFQxb3ZUa2lFa2MtUW85TUdScDh5U05fZU5xS1RMSVdPUmxBemxwU05VV1lYcWgybGpnTFZmbXZVRlRNLXBGaXFPeUYxY2dwSmE0OW5faXNjNDZjbWpXM3NHY0huZFFhR3JtNWV5OE9HM3pUdm8wdnJfNy1ITnBSUkJ3X2Y5aGFUX3gtZlBrVXlrODlONG5wUTVkcnY1cW1ucFdUTXlEei0zYjc3R2hJNnYwdjBxVlVFZ2tQb0w5Y09pQmVlbU9VY2xzU0FsNENXbDF3?oc=5
+- Stock Market to Remain Open on February 1, 2026, for Union Budget - Groww
+  Stock Market to Remain Open on February 1, 20
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQQWUzaWJlVzcwT1pXLXF6dnhobk94Snl0SnN1U25NQnBKWTBVTlB1RERlbTBKSnpYRnFvaEkxY1RVVkhvWDNucEo5bjJKMnRia3Byd3Q0YWYzRGZPNFN6c2YwWkFsRXpuSDBueDZWR2V5ajFDT0syTUE0aGFFRmVOOHFSaEQwYzQ?oc=5
 
-- Pro Talks: Investor Shannon Saccocia talks whether geopolitics could upend market rally in 2026 - CNBC
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaGZnY3J4T3dVcVRLYlBRWjduX25zUUh0dkx5VmpLWVJUZEJJSHdiUUhfOXl6TkZaNEZBMWpkclh5VTRTd2xoZjExR0o1WFlhQjhsX2RhTDUtTmY5eFdkRnlUbEd4cGRvU3N2aFduVmVLX1V4MXBHdzZjN0VXc2luTnhFWVQ4aHpmazRnRmNwZU9BVHZaREZteWpWQkxrc1ZENEpzeHN1azBnOWNoRW1OZml0ZEVhQ2xUb2JpUEF2bjVNSWJxeERaY0VMNHlxcGJFbHpn?oc=5
-
-- Gold and Silver Plummet as Traders Price Fed Pick - Bloomberg
-  Gold and Silver Plummet as Trad
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxORkxsQjJoMWszTVhVaXVzd3g2SlRnYzg0SmxMN2E4clVxS3pYVy1wa2EtaFVscExKN0FMVUdCRVZkQjk1a1BzdS1JZlh5eFlXTHBtcjBqR1dLV25hX2NadkdIb21IOWtxVlF0bnc4ZThOUElaZEFlSVFESHFuLXVnZXUxM2xNR09xbHg3TnhfYXRuMXAyS2J2cjhNMVhXMXY3WFIzSDJpb3F5MUlYbk1YWGZReVN5MkZGMlg5d0g3b1Zqa3czMEpNSmQyajB4T2FxOHFvVUpYcVNRYTVHUnd3aGNGVE9ZVV9Udkp4VW8xaTB4NDVPM0gzZWFfOTZKYmhibEE?oc=5
+- Stock markets tank in early trade after three-day rally - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUHVlT0ltYXdoRnNHaVp2U1N6SWFoMVo3Uy1UU3l4NWZLLThHRnc1eGtWM0cwUFdLR3UxTWx1b19KSjZFZ2pvcDNXM1E3QmJDLVEwOE5YNE1RNWtidGdINTRPeEg5OEJpT0
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUHVlT0ltYXdoRnNHaVp2U1N6SWFoMVo3Uy1UU3l4NWZLLThHRnc1eGtWM0cwUFdLR3UxTWx1b19KSjZFZ2pvcDNXM1E3QmJDLVEwOE5YNE1RNWtidGdINTRPeEg5OEJpT0REMHRYdms5WUIyblk3OGgwNnRsVzE2cU0wLXNZQ1lWZmRMS2dtUlBuR1ZaS0dXZDVpQ1JWdElTNUV4LWdtUW9NTzhtOFZpaXk2WGR5N0JQ0gG_AUFVX3lxTE9EU0pRbFJfSl9CQUc0M3hCVXEtVU8zNWRXZW55ZnhieENtbzJ6a2k1TFBQYlNTSEp5M3FCUEthUi05SHVERTZQZ2g2ZVVRbDl4a1Zpa3dVZlBJeVJQeFg1YXdoNzlOZU56MXFPYmZNd0JFLXhlTlFlYnl3ckp1VkNNcDAxUlNYMW42cFlpLTNCWDlfVEVpMW1sT0w2dHdZM2E5VUd3R1ZfVEJxMzB0ZTBLbWdKSkxhaUYwNGVUamxR?oc=5
 
 - NSE's MD and CEO urged entrepreneurs to tap into India's capital market, 'Time has come'
   
@@ -148,37 +148,17 @@
   "Constitutional Coup": India Slams Pakistan
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYzOWpPV2lVYWtIbkYzVElEWlUycjBndFV3LVd2cm03QlRFZ2FlbWdaalV5SWRabVgzZUJmTTFTOEk2TjluaUxOUFZVd2ZpNVVyY3l4UkI1YVVBY211SmVHeDZ5WWpZa0MxS2lVeWYzSEFrUU9vT2hvSHU2SFFmTXU4VTVRRWFXNnpQYk5Kc1FHY29MdTRPaEJhMHpwRnlHcThtYUNoLW0tdGlER21SS1dCT1k5b202ZVHSAcIBQVVfeXFMUHg0aWlteWE0LVRyS0lIN2FXUHo5VmxiSkwyV3Rvcms2djVWUGVzSEx0NFdlb0VVeWplZzFBUXVYN1ZfRU9yZmlwc1FDcXB6REtTeUhoZjJmaE1JNGhoTkJLNllFanpwU3doN1ROX2ZzQ3owLUFKdVRUSjVfN0I5Z0NkYWc2MHhRQkJqN20zNWVycHpyOWRQVmdhbkUyUW5aZjNLOW9nN1V2cmtOSnR6R2ZRSk1jRktadk9ia3NNenRFeGc?oc=5
 
-- Star India player breaks silence, dismisses disciplinary rumours - Times of India
-  Star India player breaks silence, dismisses
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG5JemRxLUlJR0lmWTRTQUxtcHVkSFRXWlpaMmlrc091S1VQN1hBdFp1NU52TmthWVozdnJsNEIzbFM3dHhMU1hjX0tYOUJyMkNTdkFDMDhmTUJWdUc1RXRiZnk4VV9DSC1vTk5FOTFRTVprMG54d2s1SGFmRDYyVlI0TGcxY21Qc2ZhbHdtQlNwSUJrbGpVanRES0lKSkFrYUY2dmgtaldXZkQwcFliMU1kSUNrMXloRGY1dWItN0dEejExemppSzRJdEptcG5GRVBDX3J30gHbAUFVX3lxTE1KV01qTk9YVE5hZnVyeUlCRjRXRHFmaDFybVVYMGlnbGo1el9MbTZFZ3ZuQjRXRlRsZzFraUMyV3h5VW5KcGtneVpCS2NCa3NxTjlETThhNGNReUFnRkxpUlB6YnJaZVFRVTJzal9VMzkxZXR3ZndaS3ZzdXF1aTgzUlVIeUplTnJvM0VJT18tWVNjRE00N0RZNHdFd2Z5d2FkY2lRYXJLNUhjOGJ4Z0U2ZnRsNXhYNXJBTndoeEcwc0RGQlc4YlhPc0RBR1NfaWhKaVJudlJfenl5TQ?oc=5
+- SIR logical discrepancy: SC's West Bengal order effective all-India - Times of India
+  SIR logical discrepancy: SC's West Bengal
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2NYclhMaUVHb3N3UnJsYnhRd0c5aXZGTFhaYXhta1hTa25pdkFoVVAxRXR4eXM0cTJ6ak5yTHJ5UTBacUFDTjlOeTQ3OUoxS2xFVTU0Y29lTkRRUkg3Ykg5b2k0WDVuaGxUY0l1MnB2ZmlZUU0wbV9UQmt5MzNJX3o4MldfZFJQTmU0dlpuOTB3emJnX3pyLWVFS2dwaG85UE83YzZPY2dKVFNUb3p4WDBKQnJJdWgzOEdCc2Z2akFIcWVOLU9WdXdQVFBRd9IB0wFBVV95cUxNXzNVZThDVFFmVGlibEpEckh6cW05MHVBTThoY21Rb1JHX3BweTZEUTJDaUxHQWFQYUY2SUdtT0MtS3VmMGlwR29YaVVCaUtaSnEtYkdHLVhuOWlkenBDZlhFY1psdlpCc3ZfSkFSWE1PeklKV1FTaXpXVC1XNS1UV3FYeWlEdzlsLTNXeEc2Q3k5UEZoUWhqaG5UMW52UlBSQk5MNnpBOUNSbjNaMjhSNjN1NHpWVmd6dXUzbzJfOWhtTHp5M0FYTVlwUVVySnFlb0Fj?oc=5
 
-- J&K: Suspected Pakistan drone enters Indian airspace in Samba - Times of India
-  A suspected Pakistan drone entered Indian airspace in Sam
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHNiU1UxWERJblFZdjUwUzhYNy1JTktrZVRFSlUtUFZZYzRBM3JFdmg4aGU4Q0Q3bmtLVEFVM0hHVng1U2lUQkhaQTNNdHdSVWl6cnNNTkNLS3JsN3hWb1FlUGpZR0Q3UFdmYWdCbEluRlU1NFQ5VTFhUjlVYmJxNFVXUTVuaDNMUzc1U2JxM1FTd1ZOdUpiSFYzOEtWblRFMEVVbjhfMXpJUlpJOU5sS09pdGtMWF9Scnd3VlRIaTMtMnZOc1HSAcsBQVVfeXFMTjRmaDRiaGpSQktRQWNYVGVUSGU0WmVwNzFhczJKNkhIQ1NpM2hYUnVka0pfNWNVTkc5cjF1SVQxeWVhaFBONWxTbUIyd0tiajgxX1owVmtNd0Y2eXQ5VzlSazhCYUNpaHNxREd6czBhQnM1UjV1OVpiTzdtQXljRm9jSVg4eFNrV1BHa2stX1UtbHBhZ3oxT2F6WjJPSnp5bXFNd2ZWMVkzQnFITFp2anpnYlQ4SVpTbWltbXBiU1pPRkZrZ0drZHhqWTg?oc=5
+- Why is India’s Nipah virus outbreak spooking the world? - Al Jazeera
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOb1Y0ZVY1OXoyU21hVVdKNFBGQlE5aXcxMlJoVFdWQnFfQndBMWpuYndUUFpWYWlCMW9uNnQ3YjRLLThiNUJRckxqdERsdkl3N0d4ZWZsY3VBVWgyYldnN0RuT2JHbGkyUlA5blh2NTI0TUhkbGpMcUw3Zm9xNGlqUFhleW1YS01PMUFobWtZRV9JWU1aN0U0ckV30gGfAUFVX3lxTE5sRGFxYXhjdzc0UnBlYVRCS1poWXVTVE5oOTFQTmFSSDIwNGRSNEtVeDZJUmNDTXd6TmwxZDl6bnB6TFprN1NXcVI1cUhvLXhGM1Y0NmJpMTRwN1htdEdYX3VpMDA0MXRCOU85dzlhejA5TkY2eTE4Y3BYOG1rcmZFMkZQRFFPRmhxWFVRaU5WYmxfbFZsX29zYjBEMnVJaw?oc=5
 
-- "Very Significant Progress": India Says US Trade Pact Nearing Closure - NDTV
-  "Very Significant Progress": India Says US
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalZhT3QxdFJVVHZ2R3dqTDBFaW9YSnJwZVBsdm5TRE1ucFkwblpxUWtxUnNMSHFMclJHeFpoTWg0ZEx5QVZPLVprWW4zbFpBNUFjVHpFdHlJUmcyd2FVNUdNcHRjQmpCYUc5bW5OclRqRUR2SERra1RsYjloNlM1UlRla0wwQmZVVno2MG5RU1kxTXNiUEdLZk8xYV9mUU8wTEpxZXJ0NkVPdk3SAbMBQVVfeXFMTUF5aXRlbVlCeXdXYU5ILU5wWWRpa2FJMWZEMEMzTEdfaU9td05fU0xHUFRVcU9vb3dySWNqVE5uS1BTYzBDRnZvOGpkeHAtbUdWNEMxS0Njcy1KbS1sY3dTSmJpbjFGUWtZbGpRcXNtRGNiUF82RmhEdUFFLXN5b0l6bDB0ZVM1cHh3MzBqNzNlNkllY2xuQ1JpRDVjUkMzZkt0VU5lQnlna2pvVU55dTdqUVU?oc=5
-
-- US Plans Big India-Focused Meet As Washington Seeks To Counter China - NDTV
-  US Plans Big India-Focused Meet As
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQajZhZk9uSUNVQ0V4TXVzbl9ZVEZ1eDhkcXp2UUtFcllVdE9TZ2dhT1JGS2UySFJqSktKMjhWYWd1bG1yel9FZzJzM1lMY3I0NFQyTjBwUC0wb24wLTRNNUx2bHFWLUI0bmxtcmFkRU5GR3B1TzBSSWR1Z1I2ajdaNUhzR0RmeWNGMDFqVk1hbEhUWGMySkVFVy1XQXh1dG1ubWpJblVwUGZwSjl1RHg0ZmtVdVRoXzBkcHNUaW85ejRJdm5KdWZZZGlTZldZMnFHbWfSAdoBQVVfeXFMTk43dnlFNERuYk9aWERJUXpqcnZwSS1OVWh5eVZETS0wY052b1JTMldIdmw3QUlvTW5SaDFvdDU4WFNvaWVNWUw5N21aT2VGMWlIY0Znb1ZCSHZxVlFibFNwOGlGUWdrSEFzSDJ4RzRVb1JIb2xrLWgzOUJZLW5yeld3ZzlBWi1BZXp1X1RHcGFidjN4TXZvcjdvNWZQd0pyVkpsOGMtV3ZScUJEQnRpSnJWaUNtQUJTWjh2VG1uY1YyRVNMN1JneTRBaTRkRkFIWTNQU205WktBT0E?oc=5
-
-- "Constitutional Coup": India Slams Pakistan Over Lifetime Immunity To Asim Munir - NDTV
-  "Constitutional Coup": India Slams Pakistan
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYzOWpPV2lVYWtIbkYzVElEWlUycjBndFV3LVd2cm03QlRFZ2FlbWdaalV5SWRabVgzZUJmTTFTOEk2TjluaUxOUFZVd2ZpNVVyY3l4UkI1YVVBY211SmVHeDZ5WWpZa0MxS2lVeWYzSEFrUU9vT2hvSHU2SFFmTXU4VTVRRWFXNnpQYk5Kc1FHY29MdTRPaEJhMHpwRnlHcThtYUNoLW0tdGlER21SS1dCT1k5b202ZVHSAcIBQVVfeXFMUHg0aWlteWE0LVRyS0lIN2FXUHo5VmxiSkwyV3Rvcms2djVWUGVzSEx0NFdlb0VVeWplZzFBUXVYN1ZfRU9yZmlwc1FDcXB6REtTeUhoZjJmaE1JNGhoTkJLNllFanpwU3doN1ROX2ZzQ3owLUFKdVRUSjVfN0I5Z0NkYWc2MHhRQkJqN20zNWVycHpyOWRQVmdhbkUyUW5aZjNLOW9nN1V2cmtOSnR6R2ZRSk1jRktadk9ia3NNenRFeGc?oc=5
-
-- Star India player breaks silence, dismisses disciplinary rumours - Times of India
-  Star India player breaks silence, dismisses
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG5JemRxLUlJR0lmWTRTQUxtcHVkSFRXWlpaMmlrc091S1VQN1hBdFp1NU52TmthWVozdnJsNEIzbFM3dHhMU1hjX0tYOUJyMkNTdkFDMDhmTUJWdUc1RXRiZnk4VV9DSC1vTk5FOTFRTVprMG54d2s1SGFmRDYyVlI0TGcxY21Qc2ZhbHdtQlNwSUJrbGpVanRES0lKSkFrYUY2dmgtaldXZkQwcFliMU1kSUNrMXloRGY1dWItN0dEejExemppSzRJdEptcG5GRVBDX3J30gHbAUFVX3lxTE1KV01qTk9YVE5hZnVyeUlCRjRXRHFmaDFybVVYMGlnbGo1el9MbTZFZ3ZuQjRXRlRsZzFraUMyV3h5VW5KcGtneVpCS2NCa3NxTjlETThhNGNReUFnRkxpUlB6YnJaZVFRVTJzal9VMzkxZXR3ZndaS3ZzdXF1aTgzUlVIeUplTnJvM0VJT18tWVNjRE00N0RZNHdFd2Z5d2FkY2lRYXJLNUhjOGJ4Z0U2ZnRsNXhYNXJBTndoeEcwc0RGQlc4YlhPc0RBR1NfaWhKaVJudlJfenl5TQ?oc=5
-
-- J&K: Suspected Pakistan drone enters Indian airspace in Samba - Times of India
-  A suspected Pakistan drone entered Indian airspace in Sam
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHNiU1UxWERJblFZdjUwUzhYNy1JTktrZVRFSlUtUFZZYzRBM3JFdmg4aGU4Q0Q3bmtLVEFVM0hHVng1U2lUQkhaQTNNdHdSVWl6cnNNTkNLS3JsN3hWb1FlUGpZR0Q3UFdmYWdCbEluRlU1NFQ5VTFhUjlVYmJxNFVXUTVuaDNMUzc1U2JxM1FTd1ZOdUpiSFYzOEtWblRFMEVVbjhfMXpJUlpJOU5sS09pdGtMWF9Scnd3VlRIaTMtMnZOc1HSAcsBQVVfeXFMTjRmaDRiaGpSQktRQWNYVGVUSGU0WmVwNzFhczJKNkhIQ1NpM2hYUnVka0pfNWNVTkc5cjF1SVQxeWVhaFBONWxTbUIyd0tiajgxX1owVmtNd0Y2eXQ5VzlSazhCYUNpaHNxREd6czBhQnM1UjV1OVpiTzdtQXljRm9jSVg4eFNrV1BHa2stX1UtbHBhZ3oxT2F6WjJPSnp5bXFNd2ZWMVkzQnFITFp2anpnYlQ4SVpTbWltbXBiU1pPRkZrZ0drZHhqWTg?oc=5
-
-- "Very Significant Progress": India Says US Trade Pact Nearing Closure - NDTV
-  "Very Significant Progress": India Says US
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalZhT3QxdFJVVHZ2R3dqTDBFaW9YSnJwZVBsdm5TRE1ucFkwblpxUWtxUnNMSHFMclJHeFpoTWg0ZEx5QVZPLVprWW4zbFpBNUFjVHpFdHlJUmcyd2FVNUdNcHRjQmpCYUc5bW5OclRqRUR2SERra1RsYjloNlM1UlRla0wwQmZVVno2MG5RU1kxTXNiUEdLZk8xYV9mUU8wTEpxZXJ0NkVPdk3SAbMBQVVfeXFMTUF5aXRlbVlCeXdXYU5ILU5wWWRpa2FJMWZEMEMzTEdfaU9td05fU0xHUFRVcU9vb3dySWNqVE5uS1BTYzBDRnZvOGpkeHAtbUdWNEMxS0Njcy1KbS1sY3dTSmJpbjFGUWtZbGpRcXNtRGNiUF82RmhEdUFFLXN5b0l6bDB0ZVM1cHh3MzBqNzNlNkllY2xuQ1JpRDVjUkMzZkt0VU5lQnlna2pvVU55dTdqUVU?oc=5
+- Nipah virus: Some Asia airports screen passengers after outbreak in India - BBC
+  Nipah virus: Some Asia airports screen
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Vb0ZjNHN0R01JZDZ0RHBucTIxMVVJQ25PTFdSREhkVzd3RGVidnpQWldHdXlSek5UY0dEWldPM3hvbDdrYlpXQ2x1aGRzU21GT05zM1BrdWk2QQ?oc=5
 
 - US Plans Big India-Focused Meet As Washington Seeks To Counter China - NDTV
   US Plans Big India-Focused Meet As
@@ -188,17 +168,17 @@
   "Constitutional Coup": India Slams Pakistan
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYzOWpPV2lVYWtIbkYzVElEWlUycjBndFV3LVd2cm03QlRFZ2FlbWdaalV5SWRabVgzZUJmTTFTOEk2TjluaUxOUFZVd2ZpNVVyY3l4UkI1YVVBY211SmVHeDZ5WWpZa0MxS2lVeWYzSEFrUU9vT2hvSHU2SFFmTXU4VTVRRWFXNnpQYk5Kc1FHY29MdTRPaEJhMHpwRnlHcThtYUNoLW0tdGlER21SS1dCT1k5b202ZVHSAcIBQVVfeXFMUHg0aWlteWE0LVRyS0lIN2FXUHo5VmxiSkwyV3Rvcms2djVWUGVzSEx0NFdlb0VVeWplZzFBUXVYN1ZfRU9yZmlwc1FDcXB6REtTeUhoZjJmaE1JNGhoTkJLNllFanpwU3doN1ROX2ZzQ3owLUFKdVRUSjVfN0I5Z0NkYWc2MHhRQkJqN20zNWVycHpyOWRQVmdhbkUyUW5aZjNLOW9nN1V2cmtOSnR6R2ZRSk1jRktadk9ia3NNenRFeGc?oc=5
 
-- Star India player breaks silence, dismisses disciplinary rumours - Times of India
-  Star India player breaks silence, dismisses
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG5JemRxLUlJR0lmWTRTQUxtcHVkSFRXWlpaMmlrc091S1VQN1hBdFp1NU52TmthWVozdnJsNEIzbFM3dHhMU1hjX0tYOUJyMkNTdkFDMDhmTUJWdUc1RXRiZnk4VV9DSC1vTk5FOTFRTVprMG54d2s1SGFmRDYyVlI0TGcxY21Qc2ZhbHdtQlNwSUJrbGpVanRES0lKSkFrYUY2dmgtaldXZkQwcFliMU1kSUNrMXloRGY1dWItN0dEejExemppSzRJdEptcG5GRVBDX3J30gHbAUFVX3lxTE1KV01qTk9YVE5hZnVyeUlCRjRXRHFmaDFybVVYMGlnbGo1el9MbTZFZ3ZuQjRXRlRsZzFraUMyV3h5VW5KcGtneVpCS2NCa3NxTjlETThhNGNReUFnRkxpUlB6YnJaZVFRVTJzal9VMzkxZXR3ZndaS3ZzdXF1aTgzUlVIeUplTnJvM0VJT18tWVNjRE00N0RZNHdFd2Z5d2FkY2lRYXJLNUhjOGJ4Z0U2ZnRsNXhYNXJBTndoeEcwc0RGQlc4YlhPc0RBR1NfaWhKaVJudlJfenl5TQ?oc=5
+- SIR logical discrepancy: SC's West Bengal order effective all-India - Times of India
+  SIR logical discrepancy: SC's West Bengal
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2NYclhMaUVHb3N3UnJsYnhRd0c5aXZGTFhaYXhta1hTa25pdkFoVVAxRXR4eXM0cTJ6ak5yTHJ5UTBacUFDTjlOeTQ3OUoxS2xFVTU0Y29lTkRRUkg3Ykg5b2k0WDVuaGxUY0l1MnB2ZmlZUU0wbV9UQmt5MzNJX3o4MldfZFJQTmU0dlpuOTB3emJnX3pyLWVFS2dwaG85UE83YzZPY2dKVFNUb3p4WDBKQnJJdWgzOEdCc2Z2akFIcWVOLU9WdXdQVFBRd9IB0wFBVV95cUxNXzNVZThDVFFmVGlibEpEckh6cW05MHVBTThoY21Rb1JHX3BweTZEUTJDaUxHQWFQYUY2SUdtT0MtS3VmMGlwR29YaVVCaUtaSnEtYkdHLVhuOWlkenBDZlhFY1psdlpCc3ZfSkFSWE1PeklKV1FTaXpXVC1XNS1UV3FYeWlEdzlsLTNXeEc2Q3k5UEZoUWhqaG5UMW52UlBSQk5MNnpBOUNSbjNaMjhSNjN1NHpWVmd6dXUzbzJfOWhtTHp5M0FYTVlwUVVySnFlb0Fj?oc=5
 
-- J&K: Suspected Pakistan drone enters Indian airspace in Samba - Times of India
-  A suspected Pakistan drone entered Indian airspace in Sam
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHNiU1UxWERJblFZdjUwUzhYNy1JTktrZVRFSlUtUFZZYzRBM3JFdmg4aGU4Q0Q3bmtLVEFVM0hHVng1U2lUQkhaQTNNdHdSVWl6cnNNTkNLS3JsN3hWb1FlUGpZR0Q3UFdmYWdCbEluRlU1NFQ5VTFhUjlVYmJxNFVXUTVuaDNMUzc1U2JxM1FTd1ZOdUpiSFYzOEtWblRFMEVVbjhfMXpJUlpJOU5sS09pdGtMWF9Scnd3VlRIaTMtMnZOc1HSAcsBQVVfeXFMTjRmaDRiaGpSQktRQWNYVGVUSGU0WmVwNzFhczJKNkhIQ1NpM2hYUnVka0pfNWNVTkc5cjF1SVQxeWVhaFBONWxTbUIyd0tiajgxX1owVmtNd0Y2eXQ5VzlSazhCYUNpaHNxREd6czBhQnM1UjV1OVpiTzdtQXljRm9jSVg4eFNrV1BHa2stX1UtbHBhZ3oxT2F6WjJPSnp5bXFNd2ZWMVkzQnFITFp2anpnYlQ4SVpTbWltbXBiU1pPRkZrZ0drZHhqWTg?oc=5
+- Why is India’s Nipah virus outbreak spooking the world? - Al Jazeera
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOb1Y0ZVY1OXoyU21hVVdKNFBGQlE5aXcxMlJoVFdWQnFfQndBMWpuYndUUFpWYWlCMW9uNnQ3YjRLLThiNUJRckxqdERsdkl3N0d4ZWZsY3VBVWgyYldnN0RuT2JHbGkyUlA5blh2NTI0TUhkbGpMcUw3Zm9xNGlqUFhleW1YS01PMUFobWtZRV9JWU1aN0U0ckV30gGfAUFVX3lxTE5sRGFxYXhjdzc0UnBlYVRCS1poWXVTVE5oOTFQTmFSSDIwNGRSNEtVeDZJUmNDTXd6TmwxZDl6bnB6TFprN1NXcVI1cUhvLXhGM1Y0NmJpMTRwN1htdEdYX3VpMDA0MXRCOU85dzlhejA5TkY2eTE4Y3BYOG1rcmZFMkZQRFFPRmhxWFVRaU5WYmxfbFZsX29zYjBEMnVJaw?oc=5
 
-- "Very Significant Progress": India Says US Trade Pact Nearing Closure - NDTV
-  "Very Significant Progress": India Says US
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalZhT3QxdFJVVHZ2R3dqTDBFaW9YSnJwZVBsdm5TRE1ucFkwblpxUWtxUnNMSHFMclJHeFpoTWg0ZEx5QVZPLVprWW4zbFpBNUFjVHpFdHlJUmcyd2FVNUdNcHRjQmpCYUc5bW5OclRqRUR2SERra1RsYjloNlM1UlRla0wwQmZVVno2MG5RU1kxTXNiUEdLZk8xYV9mUU8wTEpxZXJ0NkVPdk3SAbMBQVVfeXFMTUF5aXRlbVlCeXdXYU5ILU5wWWRpa2FJMWZEMEMzTEdfaU9td05fU0xHUFRVcU9vb3dySWNqVE5uS1BTYzBDRnZvOGpkeHAtbUdWNEMxS0Njcy1KbS1sY3dTSmJpbjFGUWtZbGpRcXNtRGNiUF82RmhEdUFFLXN5b0l6bDB0ZVM1cHh3MzBqNzNlNkllY2xuQ1JpRDVjUkMzZkt0VU5lQnlna2pvVU55dTdqUVU?oc=5
+- Nipah virus: Some Asia airports screen passengers after outbreak in India - BBC
+  Nipah virus: Some Asia airports screen
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Vb0ZjNHN0R01JZDZ0RHBucTIxMVVJQ25PTFdSREhkVzd3RGVidnpQWldHdXlSek5UY0dEWldPM3hvbDdrYlpXQ2x1aGRzU21GT05zM1BrdWk2QQ?oc=5
 
 - US Plans Big India-Focused Meet As Washington Seeks To Counter China - NDTV
   US Plans Big India-Focused Meet As
@@ -208,17 +188,37 @@
   "Constitutional Coup": India Slams Pakistan
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYzOWpPV2lVYWtIbkYzVElEWlUycjBndFV3LVd2cm03QlRFZ2FlbWdaalV5SWRabVgzZUJmTTFTOEk2TjluaUxOUFZVd2ZpNVVyY3l4UkI1YVVBY211SmVHeDZ5WWpZa0MxS2lVeWYzSEFrUU9vT2hvSHU2SFFmTXU4VTVRRWFXNnpQYk5Kc1FHY29MdTRPaEJhMHpwRnlHcThtYUNoLW0tdGlER21SS1dCT1k5b202ZVHSAcIBQVVfeXFMUHg0aWlteWE0LVRyS0lIN2FXUHo5VmxiSkwyV3Rvcms2djVWUGVzSEx0NFdlb0VVeWplZzFBUXVYN1ZfRU9yZmlwc1FDcXB6REtTeUhoZjJmaE1JNGhoTkJLNllFanpwU3doN1ROX2ZzQ3owLUFKdVRUSjVfN0I5Z0NkYWc2MHhRQkJqN20zNWVycHpyOWRQVmdhbkUyUW5aZjNLOW9nN1V2cmtOSnR6R2ZRSk1jRktadk9ia3NNenRFeGc?oc=5
 
-- Star India player breaks silence, dismisses disciplinary rumours - Times of India
-  Star India player breaks silence, dismisses
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG5JemRxLUlJR0lmWTRTQUxtcHVkSFRXWlpaMmlrc091S1VQN1hBdFp1NU52TmthWVozdnJsNEIzbFM3dHhMU1hjX0tYOUJyMkNTdkFDMDhmTUJWdUc1RXRiZnk4VV9DSC1vTk5FOTFRTVprMG54d2s1SGFmRDYyVlI0TGcxY21Qc2ZhbHdtQlNwSUJrbGpVanRES0lKSkFrYUY2dmgtaldXZkQwcFliMU1kSUNrMXloRGY1dWItN0dEejExemppSzRJdEptcG5GRVBDX3J30gHbAUFVX3lxTE1KV01qTk9YVE5hZnVyeUlCRjRXRHFmaDFybVVYMGlnbGo1el9MbTZFZ3ZuQjRXRlRsZzFraUMyV3h5VW5KcGtneVpCS2NCa3NxTjlETThhNGNReUFnRkxpUlB6YnJaZVFRVTJzal9VMzkxZXR3ZndaS3ZzdXF1aTgzUlVIeUplTnJvM0VJT18tWVNjRE00N0RZNHdFd2Z5d2FkY2lRYXJLNUhjOGJ4Z0U2ZnRsNXhYNXJBTndoeEcwc0RGQlc4YlhPc0RBR1NfaWhKaVJudlJfenl5TQ?oc=5
+- SIR logical discrepancy: SC's West Bengal order effective all-India - Times of India
+  SIR logical discrepancy: SC's West Bengal
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2NYclhMaUVHb3N3UnJsYnhRd0c5aXZGTFhaYXhta1hTa25pdkFoVVAxRXR4eXM0cTJ6ak5yTHJ5UTBacUFDTjlOeTQ3OUoxS2xFVTU0Y29lTkRRUkg3Ykg5b2k0WDVuaGxUY0l1MnB2ZmlZUU0wbV9UQmt5MzNJX3o4MldfZFJQTmU0dlpuOTB3emJnX3pyLWVFS2dwaG85UE83YzZPY2dKVFNUb3p4WDBKQnJJdWgzOEdCc2Z2akFIcWVOLU9WdXdQVFBRd9IB0wFBVV95cUxNXzNVZThDVFFmVGlibEpEckh6cW05MHVBTThoY21Rb1JHX3BweTZEUTJDaUxHQWFQYUY2SUdtT0MtS3VmMGlwR29YaVVCaUtaSnEtYkdHLVhuOWlkenBDZlhFY1psdlpCc3ZfSkFSWE1PeklKV1FTaXpXVC1XNS1UV3FYeWlEdzlsLTNXeEc2Q3k5UEZoUWhqaG5UMW52UlBSQk5MNnpBOUNSbjNaMjhSNjN1NHpWVmd6dXUzbzJfOWhtTHp5M0FYTVlwUVVySnFlb0Fj?oc=5
 
-- J&K: Suspected Pakistan drone enters Indian airspace in Samba - Times of India
-  A suspected Pakistan drone entered Indian airspace in Sam
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHNiU1UxWERJblFZdjUwUzhYNy1JTktrZVRFSlUtUFZZYzRBM3JFdmg4aGU4Q0Q3bmtLVEFVM0hHVng1U2lUQkhaQTNNdHdSVWl6cnNNTkNLS3JsN3hWb1FlUGpZR0Q3UFdmYWdCbEluRlU1NFQ5VTFhUjlVYmJxNFVXUTVuaDNMUzc1U2JxM1FTd1ZOdUpiSFYzOEtWblRFMEVVbjhfMXpJUlpJOU5sS09pdGtMWF9Scnd3VlRIaTMtMnZOc1HSAcsBQVVfeXFMTjRmaDRiaGpSQktRQWNYVGVUSGU0WmVwNzFhczJKNkhIQ1NpM2hYUnVka0pfNWNVTkc5cjF1SVQxeWVhaFBONWxTbUIyd0tiajgxX1owVmtNd0Y2eXQ5VzlSazhCYUNpaHNxREd6czBhQnM1UjV1OVpiTzdtQXljRm9jSVg4eFNrV1BHa2stX1UtbHBhZ3oxT2F6WjJPSnp5bXFNd2ZWMVkzQnFITFp2anpnYlQ4SVpTbWltbXBiU1pPRkZrZ0drZHhqWTg?oc=5
+- Why is India’s Nipah virus outbreak spooking the world? - Al Jazeera
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOb1Y0ZVY1OXoyU21hVVdKNFBGQlE5aXcxMlJoVFdWQnFfQndBMWpuYndUUFpWYWlCMW9uNnQ3YjRLLThiNUJRckxqdERsdkl3N0d4ZWZsY3VBVWgyYldnN0RuT2JHbGkyUlA5blh2NTI0TUhkbGpMcUw3Zm9xNGlqUFhleW1YS01PMUFobWtZRV9JWU1aN0U0ckV30gGfAUFVX3lxTE5sRGFxYXhjdzc0UnBlYVRCS1poWXVTVE5oOTFQTmFSSDIwNGRSNEtVeDZJUmNDTXd6TmwxZDl6bnB6TFprN1NXcVI1cUhvLXhGM1Y0NmJpMTRwN1htdEdYX3VpMDA0MXRCOU85dzlhejA5TkY2eTE4Y3BYOG1rcmZFMkZQRFFPRmhxWFVRaU5WYmxfbFZsX29zYjBEMnVJaw?oc=5
 
-- "Very Significant Progress": India Says US Trade Pact Nearing Closure - NDTV
-  "Very Significant Progress": India Says US
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalZhT3QxdFJVVHZ2R3dqTDBFaW9YSnJwZVBsdm5TRE1ucFkwblpxUWtxUnNMSHFMclJHeFpoTWg0ZEx5QVZPLVprWW4zbFpBNUFjVHpFdHlJUmcyd2FVNUdNcHRjQmpCYUc5bW5OclRqRUR2SERra1RsYjloNlM1UlRla0wwQmZVVno2MG5RU1kxTXNiUEdLZk8xYV9mUU8wTEpxZXJ0NkVPdk3SAbMBQVVfeXFMTUF5aXRlbVlCeXdXYU5ILU5wWWRpa2FJMWZEMEMzTEdfaU9td05fU0xHUFRVcU9vb3dySWNqVE5uS1BTYzBDRnZvOGpkeHAtbUdWNEMxS0Njcy1KbS1sY3dTSmJpbjFGUWtZbGpRcXNtRGNiUF82RmhEdUFFLXN5b0l6bDB0ZVM1cHh3MzBqNzNlNkllY2xuQ1JpRDVjUkMzZkt0VU5lQnlna2pvVU55dTdqUVU?oc=5
+- Nipah virus: Some Asia airports screen passengers after outbreak in India - BBC
+  Nipah virus: Some Asia airports screen
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Vb0ZjNHN0R01JZDZ0RHBucTIxMVVJQ25PTFdSREhkVzd3RGVidnpQWldHdXlSek5UY0dEWldPM3hvbDdrYlpXQ2x1aGRzU21GT05zM1BrdWk2QQ?oc=5
+
+- US Plans Big India-Focused Meet As Washington Seeks To Counter China - NDTV
+  US Plans Big India-Focused Meet As
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQajZhZk9uSUNVQ0V4TXVzbl9ZVEZ1eDhkcXp2UUtFcllVdE9TZ2dhT1JGS2UySFJqSktKMjhWYWd1bG1yel9FZzJzM1lMY3I0NFQyTjBwUC0wb24wLTRNNUx2bHFWLUI0bmxtcmFkRU5GR3B1TzBSSWR1Z1I2ajdaNUhzR0RmeWNGMDFqVk1hbEhUWGMySkVFVy1XQXh1dG1ubWpJblVwUGZwSjl1RHg0ZmtVdVRoXzBkcHNUaW85ejRJdm5KdWZZZGlTZldZMnFHbWfSAdoBQVVfeXFMTk43dnlFNERuYk9aWERJUXpqcnZwSS1OVWh5eVZETS0wY052b1JTMldIdmw3QUlvTW5SaDFvdDU4WFNvaWVNWUw5N21aT2VGMWlIY0Znb1ZCSHZxVlFibFNwOGlGUWdrSEFzSDJ4RzRVb1JIb2xrLWgzOUJZLW5yeld3ZzlBWi1BZXp1X1RHcGFidjN4TXZvcjdvNWZQd0pyVkpsOGMtV3ZScUJEQnRpSnJWaUNtQUJTWjh2VG1uY1YyRVNMN1JneTRBaTRkRkFIWTNQU205WktBT0E?oc=5
+
+- "Constitutional Coup": India Slams Pakistan Over Lifetime Immunity To Asim Munir - NDTV
+  "Constitutional Coup": India Slams Pakistan
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYzOWpPV2lVYWtIbkYzVElEWlUycjBndFV3LVd2cm03QlRFZ2FlbWdaalV5SWRabVgzZUJmTTFTOEk2TjluaUxOUFZVd2ZpNVVyY3l4UkI1YVVBY211SmVHeDZ5WWpZa0MxS2lVeWYzSEFrUU9vT2hvSHU2SFFmTXU4VTVRRWFXNnpQYk5Kc1FHY29MdTRPaEJhMHpwRnlHcThtYUNoLW0tdGlER21SS1dCT1k5b202ZVHSAcIBQVVfeXFMUHg0aWlteWE0LVRyS0lIN2FXUHo5VmxiSkwyV3Rvcms2djVWUGVzSEx0NFdlb0VVeWplZzFBUXVYN1ZfRU9yZmlwc1FDcXB6REtTeUhoZjJmaE1JNGhoTkJLNllFanpwU3doN1ROX2ZzQ3owLUFKdVRUSjVfN0I5Z0NkYWc2MHhRQkJqN20zNWVycHpyOWRQVmdhbkUyUW5aZjNLOW9nN1V2cmtOSnR6R2ZRSk1jRktadk9ia3NNenRFeGc?oc=5
+
+- SIR logical discrepancy: SC's West Bengal order effective all-India - Times of India
+  SIR logical discrepancy: SC's West Bengal
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2NYclhMaUVHb3N3UnJsYnhRd0c5aXZGTFhaYXhta1hTa25pdkFoVVAxRXR4eXM0cTJ6ak5yTHJ5UTBacUFDTjlOeTQ3OUoxS2xFVTU0Y29lTkRRUkg3Ykg5b2k0WDVuaGxUY0l1MnB2ZmlZUU0wbV9UQmt5MzNJX3o4MldfZFJQTmU0dlpuOTB3emJnX3pyLWVFS2dwaG85UE83YzZPY2dKVFNUb3p4WDBKQnJJdWgzOEdCc2Z2akFIcWVOLU9WdXdQVFBRd9IB0wFBVV95cUxNXzNVZThDVFFmVGlibEpEckh6cW05MHVBTThoY21Rb1JHX3BweTZEUTJDaUxHQWFQYUY2SUdtT0MtS3VmMGlwR29YaVVCaUtaSnEtYkdHLVhuOWlkenBDZlhFY1psdlpCc3ZfSkFSWE1PeklKV1FTaXpXVC1XNS1UV3FYeWlEdzlsLTNXeEc2Q3k5UEZoUWhqaG5UMW52UlBSQk5MNnpBOUNSbjNaMjhSNjN1NHpWVmd6dXUzbzJfOWhtTHp5M0FYTVlwUVVySnFlb0Fj?oc=5
+
+- Why is India’s Nipah virus outbreak spooking the world? - Al Jazeera
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOb1Y0ZVY1OXoyU21hVVdKNFBGQlE5aXcxMlJoVFdWQnFfQndBMWpuYndUUFpWYWlCMW9uNnQ3YjRLLThiNUJRckxqdERsdkl3N0d4ZWZsY3VBVWgyYldnN0RuT2JHbGkyUlA5blh2NTI0TUhkbGpMcUw3Zm9xNGlqUFhleW1YS01PMUFobWtZRV9JWU1aN0U0ckV30gGfAUFVX3lxTE5sRGFxYXhjdzc0UnBlYVRCS1poWXVTVE5oOTFQTmFSSDIwNGRSNEtVeDZJUmNDTXd6TmwxZDl6bnB6TFprN1NXcVI1cUhvLXhGM1Y0NmJpMTRwN1htdEdYX3VpMDA0MXRCOU85dzlhejA5TkY2eTE4Y3BYOG1rcmZFMkZQRFFPRmhxWFVRaU5WYmxfbFZsX29zYjBEMnVJaw?oc=5
+
+- Nipah virus: Some Asia airports screen passengers after outbreak in India - BBC
+  Nipah virus: Some Asia airports screen
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Vb0ZjNHN0R01JZDZ0RHBucTIxMVVJQ25PTFdSREhkVzd3RGVidnpQWldHdXlSek5UY0dEWldPM3hvbDdrYlpXQ2x1aGRzU21GT05zM1BrdWk2QQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-01-30 18:39:36 UTC_
+_Last updated: 2026-01-31 01:30:13 UTC_
