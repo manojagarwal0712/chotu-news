@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
-- Race against nature: BRO clears 5 feet of snow in 72 hours to reopen vital Kishtwar-Sansari lifeline at 8,700 feet
+- Budget 2026: Rs 12.2 lakh crore capex boost for infrastructure in FY27
   
-  🔗 https://indianexpress.com/article/india/4-5-ft-snow-over-8000-ft-altitude-communities-cutoff-bro-restores-vital-kishtwar-sansari-road-in-72-hours-10506094/
+  🔗 https://indianexpress.com/article/india/budget-2026-rs-12-2-lakh-crore-capex-boost-for-infrastructure-in-fy27-10506633/
 
-- Budget 2026 LIVE Updates: Nirmala Sitharaman to present 80th Union Budget for record ninth time
+- Top highlights from Finance Minister’s budget speech
   
-  🔗 https://indianexpress.com/article/india/budget-2026-live-updates-nirmala-sitharaman-union-budget-highlights-income-tax-slabs-goods-cost-10505936/
+  🔗 https://indianexpress.com/article/india/top-highlights-union-budget-2026-speech-income-tax-gst-infrastructure-economic-growth-10506672/
 
-- ‘Mera naam Mohammad Deepak’: Uttarakhand man stood up to harassment of a shopkeeper. He now faces protests
+- Bullet train: FM Sitharaman proposes 7 high-speed rail corridors in Budget 2026 – check routes
   
-  🔗 https://indianexpress.com/article/india/mera-naam-mohammad-deepak-uttarakhand-man-stood-up-to-harassment-of-a-shopkeeper-he-now-faces-protests-10506168/
+  🔗 https://indianexpress.com/article/india/budget-2026-fm-sitharaman-proposes-7-high-speed-rail-corridors-check-routes-10506237/
 
-- Intrusion Detection System: Where elephants & trains cross path, an AI-enabled system prevents accidents
+- India Budget 2026 Speech LIVE Updates: FM proposes Khelo India Mission to transform Sports sector
   
-  🔗 https://indianexpress.com/article/india/intrusion-detection-system-where-elephants-trains-cross-path-an-ai-enabled-system-prevents-accidents-10506158/
+  🔗 https://indianexpress.com/article/india/india-budget-2026-live-updates-sitharaman-to-present-her-ninth-consecutive-budget-shortly-gold-silver-prices-hit-lower-circuit-levels-10506437/
 
-- India backs people of Palestine, Gaza peace plan, PM Modi tells Arab leaders
+- Budget 2026 Reactions LIVE Updates: ‘Already exhausted the nation’s finances, what will they do now’, says TMC MP Kalyan Banerjee ahead of Budget
   
-  🔗 https://indianexpress.com/article/india/india-backs-people-of-palestine-gaza-peace-plan-pm-modi-tells-arab-leaders-10506157/
+  🔗 https://indianexpress.com/article/india/union-budget-2026-reactions-live-updates-nirmala-sitharaman-bjp-congress-gdp-growth-income-tax-ai-agriculture-10506404/
 
-- Amazon, Meta, Ericsson drive January tech layoffs in tough start to 2026
+- Instagram may soon let users leave others’ Close Friends lists: Report
   
-  🔗 https://indianexpress.com/article/technology/amazon-meta-ericsson-january-tech-layoffs-2026-10505786/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/instagram-may-let-users-leave-close-friends-report-10506707/
 
-- PM Modi ally proposes social media ban for India’s teens as global debate grows
+- Apple’s second-largest acquisition isn’t about the iPhone, but entering a market it hasn’t set foot in yet
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/pm-modi-ally-proposes-social-media-ban-for-indias-teens-as-global-debate-grows-10505733/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-second-largest-acquisition-qai-israeli-startup-10506601/
 
-- Why Amazon’s new Rs 26,999 Echo Show 11 is the ultimate ‘silent observer’ for Indian homes
+- Nvidia CEO Huang denies he is unhappy with OpenAI, says ‘huge’ investment planned
   
-  🔗 https://indianexpress.com/article/technology/tech-reviews/amazon-echo-show-11-review-price-features-india-10505461/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-ceo-huang-denies-he-is-unhappy-with-openai-says-huge-investment-planned-10506528/
 
-- No humans allowed: Inside Moltbook, the ‘Reddit for AI’ where bots are building their own society
+- Jeff Bezos’ rocket company pauses space tourism to focus on the Moon
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/what-is-moltbook-and-why-are-ai-bots-talking-to-each-other-there-10505074/
+  🔗 https://indianexpress.com/article/technology/science/jeff-bezos-rocket-company-pauses-space-tourism-to-focus-on-the-moon-10506514/
 
-- Samsung Galaxy S26, S26+ and S26 Ultra: Launch date, specs and features leaked
+- Amazon and Google eat into Nvidia’s AI chip supremacy
   
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-s26-series-launch-date-specs-features-10505087/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/amazon-and-google-eat-into-nvidias-ai-chip-supremacy-10506493/
+
+- Market manipulation? Khaby Lame’s net worth soars to  ₹60,510 crore after historic deal; then, stock crashes 77%
+  Khaby Lame's Step Distinctive Limited was acquired by Rich Sparkle Holdings for $975 million. The deal includes creating an AI version of Lame. His stake was valued at
+  🔗 https://www.livemint.com/companies/people/market-manipulation-khaby-lame-s-net-worth-soars-to-rs-60-510-crore-after-historic-deal-then-stock-crashes-77-11769924284535.html
+
+- Nvidia H-1B salary data emerges as AI boom fuels record pay for top talent - How much did they pay employees in 2025?
+  N Nvidia has greatly benefited from the AI boom, with its stock value soaring and market cap exceeding $4.6 trillion. Despite a small workforce, many employees have become millionaires due to stock appreciation
+  🔗 https://www.livemint.com/companies/nvidia-h-1b-salary-data-emerges-as-ai-boom-fuels-record-pay-for-top-talent-how-much-did-they-pay-employees-in-2025-11769910937751.html
 
 - Union, Marathon meeting as strike deadline looms for US refineries
   Union, Marathon meeting as strike
@@ -52,173 +60,165 @@
   One type of debt is facing growing fear.
   🔗 https://www.livemint.com/companies/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly-11769891070757.html
 
-- Recall alert: Why automaker Toyota is recalling over 1,61,000 vehicles in the US — All you need to know
-  Toyota is recalling more than 1,61,000 vehicles in the United States. This comes after the company last year recalled millions of vehicles for
-  🔗 https://www.livemint.com/companies/news/toyota-recalling-more-than-161000-vehicles-in-us-why-automaker-rare-view-camera-display-error-car-reverse-company-news-11769852594738.html
+- Budget 2026 Stock Market Highlights: REC, PFC structuring to municipal bonds- here's what FM Sitharaman announced today
+  Budget 2026 introduces measures to boost economic growth. It also aims to deepen the bond market with incentives for municipal bonds.
+  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-stock-market-highlights-what-fm-sitharaman-announced-today-ltcg-stcg-pfc-rec-income-tax-bonds-11769924320750.html
 
-- Former Citibank India CEO Pramit Jhaveri not to seek another term at Sir Dorab Tata Trust
-  Pramit Jhaveri, former CEO of Citibank India, will not seek reappointment as a trustee of the Sir Dorabji Tata Trust. His decision reflects ongoing disagreements among trustees after Noel Tata took
-  🔗 https://www.livemint.com/companies/news/india-pramit-jhaveri-no-fresh-term-at-sir-dorab-tata-trust-11769848496341.html
+- Budget 2026: Gokaldas Exports, Welspun, Trident, other textile stocks jump over 5% on proposal of mega textile parks
+  Finance Minister Nirmala Sitharaman proposed setting up mega textile parks. Gokaldas Exports, Welspun Living, KPR Mill
+  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-gokaldas-exports-welspun-trident-other-textile-stocks-jump-over-5-on-proposal-of-mega-textile-parks-11769926391273.html
 
-- Bitcoin slips to $78,566.83, down 6.55% in 24 hours amid market fears, risk aversion — Here's what happened
-  Bitcoin has dropped to $78,566.83, down 6.55% in 24 hours. Its market cap fell to $1.56 trillion, while trading volumes
-  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-price-today-1-feb-slips-to-78566-down-6-55-percent-in-24-hours-what-happened-ether-cryptocurrency-markets-news-11769906843350.html
+- IRFC, IRCTC to Titagarh Rail: Railway stocks jump as FM Sitharaman announces 7 high-speed rail corridors in Budget 2026
+   railway stocks rose on February 1 after Finance Minister Nirmala Sitharaman announced seven new high-speed rail
+  🔗 https://www.livemint.com/market/stock-market-news/irfc-irctc-to-titagarh-rail-railway-stocks-jump-as-fm-sitharaman-announces-7-high-speed-rail-corridors-in-budget-2026-11769926263068.html
 
-- Indian stock market: 8 things that changed for market ahead of Budget 2026- Dollar, gold, silver rates to Bitcoin prices
-  Gold and silver prices crashed on Friday as investors booked profits amid a global selloff triggered by a stronger US dollar. Bitcoin prices also fell sharply, tumbling below the $80,000
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-8-things-that-changed-for-market-ahead-of-budget-2026-dollar-gold-silver-rates-to-bitcoin-prices-11769885303249.html
+- Budget 2026: Gujarat Mineral shares rise 7% on FM Nirmala Sitharaman's rare earth corridor push
+  Gujarat Mineral Development Corporation shares rose 7% on February 1, reaching  ₹618. India's push aims to reduce reliance on China, which dominates global
+  🔗 https://www.livemint.com/market/stock-market-news/gujarat-mineral-shares-rise-7-on-fm-nirmala-sitharamans-rare-earth-corridor-push-11769925894536.html
 
-- Is Indian stock market open or closed on Budget 2026 date?
-  Despite a non-working day, trading will remain open in
-  🔗 https://www.livemint.com/market/stock-market-news/is-indian-stock-market-open-or-closed-on-budget-2026-date-11769906278861.html
+- Budget 2026: These 15 infra, textile and construction stocks to benefit from Nirmala Sitharaman's proposals
+  The Finance Minister has proposed to roll out a scheme to boost construction and infrastructure equipment manufacturing. The scheme is intended to scale up domestic production of high-value, technologically advanced
+  🔗 https://www.livemint.com/market/stock-market-news/budget-2026-these-15-infra-textile-and-construction-stocks-to-benefit-from-nirmala-sitharamans-proposals-11769925327002.html
 
-- Gold, Silver Rate Today LIVE: Gold rate sees biggest slide in four decades; silver price crashes 30%; Budget 2026 eyed
-  Gold and silver prices crash triggered by a surge in US dollar after a report the Donald Trump administration was preparing to nominate Kevin Warsh for US Federal Reserve chair.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rate-today-live-mcx-gold-rate-today-mcx-silver-rate-today-gold-price-budget-2026-donald-trump-kevin-warsh-11769885522064.html
+- Want to be a YouTuber? Budget 2026 announces 15,000 new labs for creators
+  Finance Minister Nirmala Sitharaman proposed establishing content labs in 15,000 secondary schools.
+  🔗 https://www.livemint.com/technology/tech-news/want-to-be-a-youtuber-budget-2026-announces-15-000-new-labs-for-creators-11769925938496.html
 
-- Stock Market Today Budget 2026 LIVE: Sensex, Nifty 50 to be volatile; all eyes on Nirmala Sitharaman’s budget speech
-  Both the major stock exchanges, BSE and NSE, are open for a special trading session today on Budget day, 1 February 2026. High-growth sectors where government capex and policy
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-budget-2026-live-updates-sensex-nifty-share-market-latest-news-gold-rate-silver-rate-1-february-2026-11769887904402.html
+- What is Moltbook? The viral ‘AI-only’ social media app that humans aren’t allowed to join
+  Moltbook is a new social media platform for AI agents. It is operated by an autonomous AI called Clawd Clawderberg.
+  🔗 https://www.livemint.com/technology/tech-news/what-is-moltbook-the-viral-ai-only-social-media-app-that-humans-aren-t-allowed-to-join-11769914112151.html
+
+- Elon Musk reacts as AI enters ‘uncharted territory’ with viral agent-only social network: ‘Start of the singularity’
+  Musk called it the ‘early stage of singularity’ despite the warning by former Tesla AI director Andrej Karpathy.
+  🔗 https://www.livemint.com/technology/tech-news/elon-musk-reacts-as-ai-enters-uncharted-territory-with-moltbook-agent-only-social-network-start-of-the-singularity-11769915481289.html
+
+- What is Grok Imagine? The 'uncensored' AI image generator taking on ChatGPT and Gemini
+  Elon Musk's Grok Imagine generates images and videos from text prompts. It ranks lower on benchmarks compared to rivals like ChatGPT and Gemini.
+  🔗 https://www.livemint.com/technology/tech-news/what-is-grok-imagine-the-uncensored-ai-image-generator-taking-on-chatgpt-and-gemini-11769907148380.html
 
 - A chatbot entirely powered by humans, not artificial intelligence? This Chilean community shows why
   A chatbot entirely powered by humans, not
   🔗 https://www.livemint.com/technology/a-chatbot-entirely-powered-by-humans-not-artificial-intelligence-this-chilean-community-shows-why-11769900015020.html
 
-- PlayStation Plus February lineup revealed: Undisputed, Subnautica: Below Zero and more
-  Sony has revealed February’s PlayStation Plus monthly games. Undisputed, Subnautica: Below Zero, Ultros and Ace Combat 7 all available.
-  🔗 https://www.livemint.com/technology/tech-news/playstation-plus-february-lineup-revealed-undisputed-subnautica-below-zero-and-more-11769860455273.html
-
-- Google plans to turn itself into an AI-powered workplace with Project EAT, leaked memo reveals
-  Google plans to transform into an AI-powered workplace through Project EAT. Reportedly, the project is aimed at enhancing employee productivity
-  🔗 https://www.livemint.com/technology/tech-news/google-plans-to-turn-itself-into-an-ai-powered-workplace-with-project-eat-leaked-memo-reveals-11769850206178.html
-
-- Viral AI agent social network Moltbook creator calls it, 'Agent first, human second'; experts dub it 'incredible sci-fi take-off'
-  Every bot would be paired with a human counterpart. Matt Schlicht said every
-  🔗 https://www.livemint.com/technology/viral-ai-agent-social-network-moltbook-creator-calls-it-agent-first-human-second-experts-dub-it-incredible-sci-fi-takeoff-11769853935129.html
-
-- Siri set for big upgrade despite wave of AI researcher exits at Apple: Report
-  Apple is reportedly facing a fresh AI talent loss as four researchers and a senior Siri executive depart. A personalised assistant powered by Gemini is expected with iOS 26.4, followed by a chatbot-
-  🔗 https://www.livemint.com/technology/tech-news/siri-set-for-big-upgrade-despite-wave-of-ai-researcher-exits-at-apple-report-11769849023960.html
-
-- Video | Stock Market News Today | Stock Markets To Remain Open On Sunday Due To Budget - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQenhuZlppUUVpR3NHZy12R2RCV1R3Z2k5MHh0d0R4allHVUJoc28wLXFteV9DaWZXS181ejhWekJ4MHlJaEVPNzFHX0E4MHhwUkpLSkpHS1dIOGNKYllxWldOdWliWUg1bj
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQenhuZlppUUVpR3NHZy12R2RCV1R3Z2k5MHh0d0R4allHVUJoc28wLXFteV9DaWZXS181ejhWekJ4MHlJaEVPNzFHX0E4MHhwUkpLSkpHS1dIOGNKYllxWldOdWliWUg1bjhZa2FzQ3NjbXQ5Qy1LTHdKYWZ0eEhQNzBhTUgwa21xMmZBckRNZ3NFNkMwc01mUHpWUWJZYndEbkZBQTVfRUVVaGxGTF9IeQ?oc=5
+- Stock Market Budget 2026: Markets flat in special Sunday session; Gold, Silver prices also plunge - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitAJBVV95cUxPTE8ta1IyWWhNZUUyZUJsX0hOMFhreHhuWHlHa0JKamdoZVVSYWo5MnEtLXg0amhIQ2t5T2FYcGs3RG5GaE5JbGozSUYwZmZFZXF4a1gwX1VQS20zM1V1U0V5Wm1tRVVHc3
+  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxPTE8ta1IyWWhNZUUyZUJsX0hOMFhreHhuWHlHa0JKamdoZVVSYWo5MnEtLXg0amhIQ2t5T2FYcGs3RG5GaE5JbGozSUYwZmZFZXF4a1gwX1VQS20zM1V1U0V5Wm1tRVVHc3BCMEtZM0ZVd1VEQ3hFa213eXhpUm1rNldqZ2JFUExkYTg0M3JDRTBPcUpFWVdBejRtUlB0WTNwZWF5bzY4OTBjM09LRmRoTnRPRHdiTW9XcXlKMlZMV1l1WV84YjNpQm9FLWFGNHB2RnhXOGRvc3p6VUMtMm14Mk1rdjlydG01TWtIZ3hLby0xVlBxTFpTcDQza01mQzVWQjk4LW80MUFXOE40TmtJazJjbEhqXzJWMzE1QS1aOUJSNDB1SWpYU1JnTGVGYmFNWUI5Q9IBugJBVV95cUxOSkdEN2tDcEt0dlByVXJVSDRHd3hsQTFmVjNvN3hHSTE3ZkMxdkU1OVh4eFR6RlZLRkRremVSTWlWbDlSaEV4d0tMenRKd0VJOHFNR1lOQ0FRaWxORjNCTEk5SnFSSUNvckNlMVY2UnVhMHhPc0pDSlJGa1h2cjFvUmFweFgxTnJra2lZOEN3WEUwVFc4Q2hIWDhWc2pyWnYxbFVZS2tqTnFibjVmWnJGZWFVTHYtc0ZQM0VCZmtQdUdxLWd4Mjh0bDFxTk42a3p1YlpycUxPOHNuSjVGakFEaFlIallwU2ZCRkpkWlFHRC1oQlI4VnR2R0w1T1NDaXV0ek5MSThGa3Y3YXlrekZPUUpBSWgxWGdoV1ZlZmh6dVZ6cEh4UVdNTGtLSklWY0ZJYkNraVU2eUJfZw?oc=5
 
 - Indonesian stock exchange CEO resigns after $84 billion market wipe out - CNBC
   Indonesian stock exchange CEO resigns after
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNbTg2QkNELTR6eldPNDJQOFZHR29HdEpURmZ3NXBQQlhrVkFIZVpiRTdEeDh5TU1BeXZpMEVVZW1fVjRneFB2alJKemJDaEZYYXNQTXcxUmgxekZHSm5heExMbDRRQjVGeDNZeF9RUHhhMjJzSUM0WVl6SEM0bnhhQkxvRmZtMUszMHhpX3g4MU55WURuYUI0blRYMXZFU0g4VUZianp2MlpZdmZ20gGyAUFVX3lxTE1vMEZyN3lTVDhEME9xZmFRajJHT0NfUlNUdGszeWlEaVZDYmdOSWJTY0xIdjNUV2pDZ0ZtWC16djYxWHRRS2RWb0tPbDF5NE0yeHM4WGZybndESWFjNDZhXzNaUURVMmhsbnplTUpDWGo4NWZuTzVVVVNLSkZoVXNsU1JFdUt0MnMxaTM2V09vMkFYSmpueDBncFZ6cjhLaTFwa2JfTTlSeTVjdG1QY2RWY1E?oc=5
 
-- Gold, silver price crash: $5 trillion lost in market cap! What led to the spectacular fall & is the bull - Times of India
-  Gold, silver price crash: $5 trillion lost in market cap! What led to the spectacular fall
-  🔗 https://news.google.com/rss/articles/CBMingJBVV95cUxQRW94VWdOU0VyMEUzTGJHMEU5STl1dXphYWFNdXR4bmZ3N1VnZlpzVEFrYmhac3NaenZsY1p2ZjF0bU5nTWp5dTVPLVA4RG82NmlHX2V1bXRvRFJveHZNenNzLWRCQjMxanY4RExkbEZWaWtKQUk2OHpCMjlNVklPWFU3NGpfUWRqakc3b1RBblJSeVM3ZDJYb0ZOMUREVlVmaGlPblNXeXl2QzFpXy04Z3pLR042ZXJCUjZEOS1DYzBzTHBlY3ZrVDFHTGZ0LVpSdXdycXozYnc4bzZ4UVdIblZiNWVZOGNMdFVvbUh4dXVOcTlnbnhJTzhkNFBpeEZQSHRjTGVrb19MSURtRmhnb212WkxxUl9vay1Gd3ZR0gGjAkFVX3lxTE1BcXB2NTRQUzlDNTluWkJkY3dpV0RDX2dSY01QVlREalYxdFd6dXJGVVdidjl2dm9HcjVLYVJBQ2VwWlZncFN6dVhmdURMMlZmUHlzcjE5X3MzY3FCT2lONmFvSXZwaU85STZuTXZyRWYzOWdTeVBhVnBHT0dRWldSN0FYdlV2UEgzZTFFSll6ckMtSTFpejZrWDdlYUQ2TWRlcVBIUUpPazBINUpjS3BsMjdhbnlBLTVPNDlFQnI2SUlCY2w0THduQnh4bWJ5T1ZTMjRTd0gwd3l6YU9qWFQtQS1ZdkxMbFNQRmlNN2piSzc0bFgtTmpjaWI3VXNXLV81eXJHa1M1dXlkeElPbTg2VjlTLXBsNmxiVFlBR1h2ajF6MA?oc=5
+- Emerging markets make roaring start to 2026 as dollar slides - Financial Times
+  Emerging markets make roaring start to 2026
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZZGhGTjFTUDB5Rl92S3Fhek1JYW9ZTE16WEhYc0lMM1h0QlJwUnlhZHc0MFlYQ0Y3S0pkTERQQWdSRjBQbklKck1aRktjRXAzbzFoRDk4TzVuTnJFVTY3X0tFVWY5X1NEb3BtNk9DaHM?oc=5
 
-- Precious metals melt as $ flexes, world markets action heats up - The Economic Times
-  The Economic Times reports that gold and silver prices are
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVFRYeWhZajhQLW5EeXhCUWZWZGRGWmdQNFA3WXdwdlo3VHh6U2tsNUZIZlJvR2tPUHZBc2VnVDVtSmlPYXNzdTNxdmJ3aUN2YmFwQl9md09Qcy01eTlOUDJnVkFtREV2MVhKZlVnR3RBYzZSQ01iYU4weHJrejREODN5clNiUkRXRjVwM3J2M0tLUHBZaG1RQTBuNnR3TXdfZ0lrVlJUNFROM25nMkhBeGpzUUN1OE1FSHBOOWEtMmFvcDRSWVlQTFltVDI4SWo00gHWAUFVX3lxTE0xbm1QNEhwbEVySTlGNF8xWmZWdVpqRnVEYnYwTmN0N0xPUFUxdEg4T0drM19aVGZpMjJodl9zeVEwSTRlU2RVZE5sUTV6bnVNLU4xbU5ETVU4UWRPT1N0NlRkeXZ1eEpCX203dm9VaXVKSTFLWEFXQ19OT3ZzcTdNVWw2SmFFM2s3ODg4ZmJfcm5VYl9mSm5LLVF1RWcwQl9pQ19pbEI1NzdRcW5YLThHZTVMeDM4YzdDTy1JTzRKcFY5a3pVZ2N3al9uQm5NUmItTm1lcnc?oc=5
+- Markets News, Jan. 30, 2026: S&P 500, Dow Post Gains in January Despite Sluggish Close to the Month for Stocks; Gold, Silver Plummet - Investopedia
+  The S&amp;P 500, Dow Post Gains in January Despite Sluggish Close to the Month
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBiM2w4MlZGYmdLTEprd1FLLWNFR2NOZlpXN3ZsWnhwR0tnWkhObk0zbDFyRVkwT2ZOVHR1NG96NUY2aEtpTHJmTmFBMVV2bVBiMldzRG9jbnFlNnJ1MEpyeENGWU1OTjNqX18zM255QQ?oc=5
 
-- Gold, silver plunge as wild swings, record losses rattle metals markets - Business Standard
-  Gold, silver plunge as wild swings, record losses
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxORFlqZGdCSVl2VktxaVhCRmxEXzNRd0l3Z2FVUXo4MGFnU1JkSmJUa0RkLWF0ZERhX25GTy1KYzIwQWJndVo0MlExR0JqRmZVaXpmMFlFQ3RTQk82aHdKNkQxOVg0TEtyZUFudUZQempQbnItU3VOcmRGVXRjU2ZSYTFhNV9xMW9pNFgyUm40aW5qRDlxZlUtNGtnTzFxNUJaNnhDdm9JN19mSUlwb3RYWkxzMHVhYm05Si1XbWpiQ2thVWNWcHhzalNNQUc2V2NrREQzb1ZYZ1BocWfSAeABQVVfeXFMT3hvRHlCMnpMM05RM2lXZ1lwbWNzMldQRlEzVnRtSDFhc3JsS0lVbHlwT2VZUHpncm1TbGJPVndLZFFkYXB2cFlEcnFmQlFteWxEdFF0UXVaLW5kSEV5ZE1Dc09JWlRVVldybXNVNC1QQWRicGd4SEhFeWZnaEdmZTdEQzF0QzJVdWZVNnEyQjhOaXdJNGdDaDFobFJybzE4NGkwaU5lLWF1eTduNFpOblZkbmxJX3FyZmZ3VEtCWlZOc1A0UXdBMUZRb1prZF9OcTJaQy05ZTg0S0toVUpJbjY?oc=5
+- U.S. Futures Down, Global Markets Mixed as Investors Await Trump’s Fed Decision - The Wall Street Journal
+  U.S. Futures Down, Global Markets Mixed as Investors
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxORk5faVA2YnpXLUNybzliWV91Zi1sUHpVZF95Q3lrNUNjZkpudXdfQXNTcnQxb2xjMG0xZzNwRnU4SUJsckt1U1ZBRUxsY0V3dlN6TmhobVJaS0hkRG4wSXR0WVg0SmpPV0J1ckk5Z0FXV25KNHV1czZ3U0pET0NTN0JneHJXNnNJYXlJSWVsUnZJd1FTeE54U01iLU9IR0dxa0U5Um5OTTNKMUZmaTF6OXpXeUI4OFJleVBpRw?oc=5
 
-- ITC investors lose Rs 1 lakh crore after tax shock. Is there more pain in Budget 2026?
-  ITC's market value has dropped significantly following a recent tax hike on cigarettes. Investors are now looking to the upcoming Budget for clarity on future taxation.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/itc-investors-lose-rs-1-lakh-crore-after-tax-shock-is-there-more-pain-in-budget-2026/articleshow/127830724.cms
+- Budget 2026: Rs 40,000 crore electronics component outlay lifts Dixon Tech, Kaynes, PG Electroplast, and other EMS stocks up to 7%
+  Dixon Technologies, Kaynes Technology, PG Electroplast and peers gained. Investors priced in higher domestic demand and long term semiconductor manufacturing growth.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/budget-2026-rs-40000-crore-electronics-component-outlay-lifts-dixon-tech-kaynes-pg-electroplast-and-other-ems-stocks-up-to-7/articleshow/127834902.cms
 
-- Budget under pressure: 10 moves FM Sitharaman could use to calm stock market after a sustained sell-off
-  Indian stock markets approach the Union Budget 2026 with caution. Analysts anticipate a low-key budget, emphasizing fiscal discipline and continuity in capital gains taxation.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/budget-under-pressure-10-moves-fm-sitharaman-could-use-to-calm-stock-market-after-a-sustained-sell-off/articleshow/127830698.cms
+- Budget 2026: L&amp;T, Adani Ports and other infra stocks jump up to 4% on big capex hike to Rs 12 lakh crore
+  L&amp;T, Adani Ports, IRB Infrastructure and KEC International gained as higher public spending reinforced long-term order book visibility and sector optimism.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/budget-2026-lt-shares-adani-ports-and-other-infra-stocks-jump-up-to-4-on-big-capex-hike-to-rs-12-lakh-crore/articleshow/127834684.cms
 
-- Nifty Budget Day strategy: Why this ‘volatility crush’ is an options trader’s best friend
-  Budget week inflates option premiums due to market uncertainty. Defined-risk strategies like Iron Flies and Condors proved most successful.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-budget-day-strategy-why-this-volatility-crush-is-an-options-traders-best-friend/articleshow/127830660.cms
+- Silver plummets 33% in 2 days, down Rs 1.35 lakh; gold tanks 18%. Time to buy or wait?
+  Gold and silver prices saw a dramatic fall after reaching record highs. Silver plunged significantly, wiping out substantial value in just two days. Experts advise investors against panic, suggesting a long-term perspective.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/silver-plummets-33-in-2-days-down-rs-1-35-lakh-gold-tanks-18-time-to-buy-or-wait/articleshow/127834763.cms
 
-- Can Budget stop $23 billion FII exodus? Here's what stock market investors are betting on
-  The government is considering tax relief for foreign portfolio investors. Broader reforms to attract capital are also anticipated. Foreign investors have withdrawn billions from Indian stocks.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/can-budget-stop-23-billion-fii-exodus-heres-what-stock-market-investors-are-betting-on/articleshow/127830624.cms
+- Budget 2026: FM Sitharaman unveils Semiconductor Mission 2.0; CG Power, Tata Elxsi jump up to 5%
+  Finance Minister Nirmala Sitharaman unveiled India Semiconductor Mission 2.0. The initiative aims to boost domestic semiconductor manufacturing and encourage industry-led research.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/budget-2026-fm-sitharaman-unveils-semiconductor-mission-2-0-cg-power-tata-elxsi-jump-up-to-5/articleshow/127834686.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  Indian equity benchmarks closed lower on Friday, with the Nifty down 0.4%. The India VIX rose 2%, indicating increased market fear. Foreign portfolio investors were net buyers, while
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/127824783.cms
+- Budget 2026: GMDC shares rally 5% as FM Sitharaman announces rare earth corridor
+  GMDC and NMDC shares rose after the Budget 2026 announced a dedicated rare earths corridor aimed at building a complete critical minerals supply chain. Tamil Nadu, Odisha and Kerala set to become key hubs.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/union-budget-2026-gmdc-shares-rally-5-as-fm-nirmala-sitharaman-announces-rare-earth-corridor/articleshow/127834442.cms
 
-- Trade deal: India and EU announce FTA amid Trump tariff tensions - BBC
-  India and EU announce FTA amid Trump tariff tensions
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CU1ZhYV9kcXp1UHNiTTU1SGlkZzVWamxkZTB4Uk9wcDVISXAtNzROaDNlcHBqUVBTSFB1QklGWDlHQ3d2cHFyaUN2SHZhcUQwTi1YZWlYNDk4UQ?oc=5
-
-- How India's "Mother Of All Deals" With EU Wipes Out Pakistan's Trade Advantage - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ1B1LUV2RVdqTWVHMUR2MlV6WnZJMERpUkxjUG1CUkZ2bEZwaE9vSkI1Zy1NeDZqSGZRNVVTVWFuZHhpWEV2TDdKakc1WDVPRzJabG9BT3NHY3pZaXlabk80LWJuZEZEcWZVWThqV3U4TV9EMmdyVVZCQXJHUm1zbzJ5NDBGREN6cll0dlpNdS04WERKWDV0ZEhKYU4xSGZIY0wwOHJDdXVETGx2VXZUXzhZSGNmZ9IBvgFBVV95cUxOQ1RXMlRGZGhidDZjVXZKTkR1MHdLNE9GNVFNR1M2MkhUZG1jSEMtQXdVbldSZlk0a29sNjltN3VPZ19CQ1JWbFMzUEgxZFdOWlFaTVM5a2dRQW9BV2pFZU9IMHhDb0YxN0RtOEtjSEg3MkVqTnFQYnFVb3hvcEJTUTZvSFl1NE5pdldyVG1HZTFOX0daNW9MbEhIbFFTUkFXb0F0eENYQjVlWHVjUWI5UENfay1UNzB6THYwMk1B?oc=5
+- PM Modi Meets Arab Leaders, Says India Backs Palestinians, Gaza Peace Plan - NDTV
+  PM Modi Meets Arab Leaders, Says India B
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxON01qalN2SzRVTEEwaDZBZnJqWklIZTFFTXpjTk9iTUEzS0p6c1ZxcE9tLXNwdXgtVWhIUE9lR09OcUEySVVYbVFSTC1YSjZJdXMta3RiOEhOQVpYUmJVZ1lkSVJsMlp4SHJaUDFWVFp5Z05XOHpiUDdOUXRobUllcWhkRWFTRURDT0djRko0cklaRHlLbEJtQTloOFBKaVp6b1I1XzFPWTlRT0dFLWhxeUFXZ1LSAbwBQVVfeXFMT01zYUZrUEVRbFNHeUpIYTBDNXY2UlczdzNBOHQ3TmZoVE9sS2R1aHBJTXJfRzJXeTJqRjlqM0g1dkJUNmhSSk1SUjg4Mk9KTmZ5eUtEZzBnMTcxNjFTb29GMUg1S00wd3M4SjhCbUE5OG1OTTdzVUtrRUhHenZObm52SlM2T3RYWHZJblJGUHVkanRxVTI5Z1Z1YVp1aDVoUGdMZGpiZXJTYjVFdDhhOUZrdkQ1b0pCZmdRUHo?oc=5
 
 - 'No more sticky issues': Piyush Goyal says India-US trade talks moving towards closure | Exclusive | India News - Hindustan Times
   'No more sticky issues': Piyush Goyal says India-US trade talks
   🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT3k0eHlub2FIWGpKNlUxOHJoSF9IRU84OC04WDNiWThJbHY2T3R1QXdZMzBIS0FuYU1YQnp4cVI3S2NReXBxSmJWaUNnYS01S25fc2pfT09jTzZVSE1YRHpza0R5V2dhbHA3NDNEQ3B1djVZUENGSnJjTDVyZjNNbmZPY0dydUYxaDlWTl9rZGRtM2ZtclRUa3NXazhXMHNQV2djSVc1aDQ0eC1FVXdyY2d6ajZweDhHc04xQi1mVkJQN2NxSWo3cWlyZ21felZGUldsRHo5S24wY3VoNnN1czIzd21wMEItczBPbtIB8gFBVV95cUxQVEdkOFNWS1hsYVJPdUUxRFhiNjk3OXFOYnRjdGxwcGxXNVhqUVVXNkpqUnBrTFNmdVBmOERHbUh3QXNwMmExWTJnSGVMRWlIdzNDVkFNNEFsa0xJa3FoSFFRVnp1UkJOYjAyZ3oxaWMzSnVQTlg2TEFrWGpockRNUm5nMjB3LWZRZXU2V29rYjBFTkFsYVB6OVJqUkEzM0lneHZfbnZpZlFsSTEtc0JWVjFhT0Fsc3gtNnVVbmN3LWdsRmZ0SlhvZjNjalBJUl9KVFp5MGl1Ml9mOWRyTkVzRVVCQTBXaGZqNUVxOTVfd2VwZw?oc=5
 
-- 'India will continue to back Palestine': PM to Arab world - Times of India
-  'India will continue to back Palestine': PM to
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1NaX0tHMm9kUVJZRmdFdlJSU2NrTkVPRFpGa2pKd1pPelZiaVBKMjYySzV4QUl6eDFfekJnSWtrS1ktc3VqTUdHbV9JbDA2SXhpN3ZfUTJXQlZjS0E5Z0V5Ul9FR0dxWXp0VFhKNWJBdzRxUmd2dlJwVWVVQlppdnltTHF6X1NHZnNlWUttd1RSUUlMWGRfMnZsMFM5d0FMYjhIa0V2d0pWZm1VczNoV1FwdGFvSWotVDdlQlRVVdIBxAFBVV95cUxNNlBNMWhBRGRocDUyUUhDeWUxSTFNWDBNaUtjNDEwRGJ5b3hSN2oxLS1zOGtEUy05ZHlOMGJfeGhYOFVvMEdCYkJGcUZjTFdJbHhxSVpjNkhxR1pQOU9feE9fbkJONTE5SnI3M0ZZYTR3dVp3SmEtVkFNend0RU9uZjZ6TXBvZHNxQzl1NmtJTmVDMHZnNDJWUjJsb2p6NnRDNTRzcEQzZkt5emJyb1lYOGk2U1VURFFnU2JoNzR5TEQ0RHZW?oc=5
+- India To Develop 7 High-Speed Rail Corridors: Nirmala Sitharaman's Budget - NDTV
+  India To Develop 7 High-Speed Rail
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPUG5YSXp0QTdfcmdvSXM1SUlYV0dLWFRJV2NxWjRJQTVyX3RMZTMyejluRDRIcmNBUV81NVJZNk1zZVRQaUxoS3hwZ3hzcVRSLUw0RGtPNzFsNUlCbnQyTFBCNDhyZVYxMFlpVEdweFdEemhlYlkySm05RE1yUFVpVWRJelphdEE1eXZKWkJ2MWwwbXdiYzJtblJlQlE2RlJTb2dWYWtDUGJlaXBJdHNucGRBOFh3RnpiN0VoSTJXMnZSRzE5VFlFaDlB0gHSAUFVX3lxTE45VEx1YWI3LUx4eERiWHgxaFFLS1gwQTRHcTdQLVRMLXljWm05bnZCMGQwODFXeVVicmNvUVZXZWFHZkZlSzM0ZnpBRHRkUTE0TDdNck8xN3h4eVN5WHJPeXI0ajVOQ25keXVVeE5KS3k1OVhLZXhpX1RWcHlZQThMQWVWNmYzQmlhLThlWXhUdHdVSFpkZEVjVmZDeEp2eFRadHFHdXpJWUlPTkpWTWtESW9CYWVIaHQ4a1pWREx6SU9jM0lSd2NWQWhQOG4wVkF2QQ?oc=5
 
-- News On AIR | January 31, 2026 8:15 AM - News On AIR
-  News On AIR will air on January 31,
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGRIUDVwdmdKZjAyX0Ezak9yeUNTQWVKNTNWa3NIemFNRWdrbGRUQ05hWkxITU5tYWl3bjR2RmZEYXpINDl6SDlOY25rcGR3RnpzRkZJRllaNUV4TEVCQllCV0xjbGVrcUZ2dTV6QXhFZ1dYUUpMOUpjWEJyNU54ay1lanZXaWZPT01SdlpYMDA1X0x4eG1PRQ?oc=5
+- Top highlights from Finance Minister’s budget speech - The Indian Express
+  The Indian Express has compiled a list
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOW5tMzRwUTlWRzJDdU42d0U2SWZRYXFEdUppZWtsUUtEazZqQi1uT3pqUWk1Qm1Fdmo1T3JiYUJUSENIVXY3c2pCaVRqVTAwZ056WnRfMWs3Ump6SW9iQjZuQ2g2WnRrcXVlT3lRaWt4ckZXTzRMMGNiN1c0NElZTEpER0cwVjlSbzBraXpvcGNsNG1SNHlrcHNLR29XSnpBeGxnZlNlTjJQS05rRUpVdW4wWEZLVm9uLV9qcHR3TE50SHZ4ZTl6S1RXSmkyTjRa0gHXAUFVX3lxTE5COGp3ZUwxU0xBdTZ1bmlFQk5CRVlpQ2RzNFFTRk1SZ1lma0hudzFaSlVvNDFkMEhVcnltNWo4ZmlyM2hhNkZ3WWk5Y0ZmWFF5X1Zlei1Td1E2ajhlSEFocHB4UEVrNVBhWmVNV2tsT3hvaTZtcU5jbzhFMmwtbU9MenNFeFFPWU9MaUNQeWtPSEdhWWFDMFQ1RFp6M0RzZHJKVms0eFRpN09ySUJCOXpyMG9kYm5sY00wbE1EOUdCeEV0ZU1aenZ5eXRYbHljVGEzUURDMW9J?oc=5
 
-- Trade deal: India and EU announce FTA amid Trump tariff tensions - BBC
-  India and EU announce FTA amid Trump tariff tensions
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CU1ZhYV9kcXp1UHNiTTU1SGlkZzVWamxkZTB4Uk9wcDVISXAtNzROaDNlcHBqUVBTSFB1QklGWDlHQ3d2cHFyaUN2SHZhcUQwTi1YZWlYNDk4UQ?oc=5
+- New Panel To Review Impact Of AI On Services Sector: Nirmala Sitharaman - NDTV
+  New Panel To Review Impact Of AI On Services Sector
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNYXAwMmhMS3BjeElmajZvRkktYUpMaWxMbzJtWF9POUdMaVBXT0JGaVZVSHhMbC1jeEVobng5TWdfTVU0VnlmOFBuV3M3T3A5VmplUVpVZzRIOUs2UDBsa2pzTVZXVmc5dHJKOXQtdW80ek1zX2t6LWVWa2RQZWhqdGdSUlhVdUp1eXIxNVVSeFotMVFLbVlTT01ZV240akxvNVlUOTVNSHI2Zmd3b3gxYnBPN2NqX0RiR2g5b0ctU29jRGNtdy1VeC03TU9hZEnSAdcBQVVfeXFMTUlkTjNXRXhtUWZJM2xwS1lXQ3hzWW5QYTUxTEhYVjdTQ0lYYktpTFNWVmhSWXV3UlpWeHViamdabXFpd3k3azFjN3k4T2o0WXB3WXplTHBxaHYxcDZfTnN4MzQ1cUUtamdJd3c4QnZuOGo0bXEtbWxvRVZIcWc5MW9lSnpIT3M0dlRfN1FLYWZER1NGcnZoM285azM1TERKaVJFRjhxUDNvUXF2SjMyUXF0SmVqV1JZd2hCaGtzRjNybVhGQmdUUTl3V1RqLVNxQ2RZVHA1VDA?oc=5
 
-- How India's "Mother Of All Deals" With EU Wipes Out Pakistan's Trade Advantage - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ1B1LUV2RVdqTWVHMUR2MlV6WnZJMERpUkxjUG1CUkZ2bEZwaE9vSkI1Zy1NeDZqSGZRNVVTVWFuZHhpWEV2TDdKakc1WDVPRzJabG9BT3NHY3pZaXlabk80LWJuZEZEcWZVWThqV3U4TV9EMmdyVVZCQXJHUm1zbzJ5NDBGREN6cll0dlpNdS04WERKWDV0ZEhKYU4xSGZIY0wwOHJDdXVETGx2VXZUXzhZSGNmZ9IBvgFBVV95cUxOQ1RXMlRGZGhidDZjVXZKTkR1MHdLNE9GNVFNR1M2MkhUZG1jSEMtQXdVbldSZlk0a29sNjltN3VPZ19CQ1JWbFMzUEgxZFdOWlFaTVM5a2dRQW9BV2pFZU9IMHhDb0YxN0RtOEtjSEg3MkVqTnFQYnFVb3hvcEJTUTZvSFl1NE5pdldyVG1HZTFOX0daNW9MbEhIbFFTUkFXb0F0eENYQjVlWHVjUWI5UENfay1UNzB6THYwMk1B?oc=5
-
-- 'No more sticky issues': Piyush Goyal says India-US trade talks moving towards closure | Exclusive | India News - Hindustan Times
-  'No more sticky issues': Piyush Goyal says India-US trade talks
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT3k0eHlub2FIWGpKNlUxOHJoSF9IRU84OC04WDNiWThJbHY2T3R1QXdZMzBIS0FuYU1YQnp4cVI3S2NReXBxSmJWaUNnYS01S25fc2pfT09jTzZVSE1YRHpza0R5V2dhbHA3NDNEQ3B1djVZUENGSnJjTDVyZjNNbmZPY0dydUYxaDlWTl9rZGRtM2ZtclRUa3NXazhXMHNQV2djSVc1aDQ0eC1FVXdyY2d6ajZweDhHc04xQi1mVkJQN2NxSWo3cWlyZ21felZGUldsRHo5S24wY3VoNnN1czIzd21wMEItczBPbtIB8gFBVV95cUxQVEdkOFNWS1hsYVJPdUUxRFhiNjk3OXFOYnRjdGxwcGxXNVhqUVVXNkpqUnBrTFNmdVBmOERHbUh3QXNwMmExWTJnSGVMRWlIdzNDVkFNNEFsa0xJa3FoSFFRVnp1UkJOYjAyZ3oxaWMzSnVQTlg2TEFrWGpockRNUm5nMjB3LWZRZXU2V29rYjBFTkFsYVB6OVJqUkEzM0lneHZfbnZpZlFsSTEtc0JWVjFhT0Fsc3gtNnVVbmN3LWdsRmZ0SlhvZjNjalBJUl9KVFp5MGl1Ml9mOWRyTkVzRVVCQTBXaGZqNUVxOTVfd2VwZw?oc=5
-
-- 'India will continue to back Palestine': PM to Arab world - Times of India
-  'India will continue to back Palestine': PM to
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1NaX0tHMm9kUVJZRmdFdlJSU2NrTkVPRFpGa2pKd1pPelZiaVBKMjYySzV4QUl6eDFfekJnSWtrS1ktc3VqTUdHbV9JbDA2SXhpN3ZfUTJXQlZjS0E5Z0V5Ul9FR0dxWXp0VFhKNWJBdzRxUmd2dlJwVWVVQlppdnltTHF6X1NHZnNlWUttd1RSUUlMWGRfMnZsMFM5d0FMYjhIa0V2d0pWZm1VczNoV1FwdGFvSWotVDdlQlRVVdIBxAFBVV95cUxNNlBNMWhBRGRocDUyUUhDeWUxSTFNWDBNaUtjNDEwRGJ5b3hSN2oxLS1zOGtEUy05ZHlOMGJfeGhYOFVvMEdCYkJGcUZjTFdJbHhxSVpjNkhxR1pQOU9feE9fbkJONTE5SnI3M0ZZYTR3dVp3SmEtVkFNend0RU9uZjZ6TXBvZHNxQzl1NmtJTmVDMHZnNDJWUjJsb2p6NnRDNTRzcEQzZkt5emJyb1lYOGk2U1VURFFnU2JoNzR5TEQ0RHZW?oc=5
-
-- News On AIR | January 31, 2026 8:15 AM - News On AIR
-  News On AIR will air on January 31,
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGRIUDVwdmdKZjAyX0Ezak9yeUNTQWVKNTNWa3NIemFNRWdrbGRUQ05hWkxITU5tYWl3bjR2RmZEYXpINDl6SDlOY25rcGR3RnpzRkZJRllaNUV4TEVCQllCV0xjbGVrcUZ2dTV6QXhFZ1dYUUpMOUpjWEJyNU54ay1lanZXaWZPT01SdlpYMDA1X0x4eG1PRQ?oc=5
-
-- Trade deal: India and EU announce FTA amid Trump tariff tensions - BBC
-  India and EU announce FTA amid Trump tariff tensions
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CU1ZhYV9kcXp1UHNiTTU1SGlkZzVWamxkZTB4Uk9wcDVISXAtNzROaDNlcHBqUVBTSFB1QklGWDlHQ3d2cHFyaUN2SHZhcUQwTi1YZWlYNDk4UQ?oc=5
-
-- How India's "Mother Of All Deals" With EU Wipes Out Pakistan's Trade Advantage - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ1B1LUV2RVdqTWVHMUR2MlV6WnZJMERpUkxjUG1CUkZ2bEZwaE9vSkI1Zy1NeDZqSGZRNVVTVWFuZHhpWEV2TDdKakc1WDVPRzJabG9BT3NHY3pZaXlabk80LWJuZEZEcWZVWThqV3U4TV9EMmdyVVZCQXJHUm1zbzJ5NDBGREN6cll0dlpNdS04WERKWDV0ZEhKYU4xSGZIY0wwOHJDdXVETGx2VXZUXzhZSGNmZ9IBvgFBVV95cUxOQ1RXMlRGZGhidDZjVXZKTkR1MHdLNE9GNVFNR1M2MkhUZG1jSEMtQXdVbldSZlk0a29sNjltN3VPZ19CQ1JWbFMzUEgxZFdOWlFaTVM5a2dRQW9BV2pFZU9IMHhDb0YxN0RtOEtjSEg3MkVqTnFQYnFVb3hvcEJTUTZvSFl1NE5pdldyVG1HZTFOX0daNW9MbEhIbFFTUkFXb0F0eENYQjVlWHVjUWI5UENfay1UNzB6THYwMk1B?oc=5
+- PM Modi Meets Arab Leaders, Says India Backs Palestinians, Gaza Peace Plan - NDTV
+  PM Modi Meets Arab Leaders, Says India B
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxON01qalN2SzRVTEEwaDZBZnJqWklIZTFFTXpjTk9iTUEzS0p6c1ZxcE9tLXNwdXgtVWhIUE9lR09OcUEySVVYbVFSTC1YSjZJdXMta3RiOEhOQVpYUmJVZ1lkSVJsMlp4SHJaUDFWVFp5Z05XOHpiUDdOUXRobUllcWhkRWFTRURDT0djRko0cklaRHlLbEJtQTloOFBKaVp6b1I1XzFPWTlRT0dFLWhxeUFXZ1LSAbwBQVVfeXFMT01zYUZrUEVRbFNHeUpIYTBDNXY2UlczdzNBOHQ3TmZoVE9sS2R1aHBJTXJfRzJXeTJqRjlqM0g1dkJUNmhSSk1SUjg4Mk9KTmZ5eUtEZzBnMTcxNjFTb29GMUg1S00wd3M4SjhCbUE5OG1OTTdzVUtrRUhHenZObm52SlM2T3RYWHZJblJGUHVkanRxVTI5Z1Z1YVp1aDVoUGdMZGpiZXJTYjVFdDhhOUZrdkQ1b0pCZmdRUHo?oc=5
 
 - 'No more sticky issues': Piyush Goyal says India-US trade talks moving towards closure | Exclusive | India News - Hindustan Times
   'No more sticky issues': Piyush Goyal says India-US trade talks
   🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT3k0eHlub2FIWGpKNlUxOHJoSF9IRU84OC04WDNiWThJbHY2T3R1QXdZMzBIS0FuYU1YQnp4cVI3S2NReXBxSmJWaUNnYS01S25fc2pfT09jTzZVSE1YRHpza0R5V2dhbHA3NDNEQ3B1djVZUENGSnJjTDVyZjNNbmZPY0dydUYxaDlWTl9rZGRtM2ZtclRUa3NXazhXMHNQV2djSVc1aDQ0eC1FVXdyY2d6ajZweDhHc04xQi1mVkJQN2NxSWo3cWlyZ21felZGUldsRHo5S24wY3VoNnN1czIzd21wMEItczBPbtIB8gFBVV95cUxQVEdkOFNWS1hsYVJPdUUxRFhiNjk3OXFOYnRjdGxwcGxXNVhqUVVXNkpqUnBrTFNmdVBmOERHbUh3QXNwMmExWTJnSGVMRWlIdzNDVkFNNEFsa0xJa3FoSFFRVnp1UkJOYjAyZ3oxaWMzSnVQTlg2TEFrWGpockRNUm5nMjB3LWZRZXU2V29rYjBFTkFsYVB6OVJqUkEzM0lneHZfbnZpZlFsSTEtc0JWVjFhT0Fsc3gtNnVVbmN3LWdsRmZ0SlhvZjNjalBJUl9KVFp5MGl1Ml9mOWRyTkVzRVVCQTBXaGZqNUVxOTVfd2VwZw?oc=5
 
-- 'India will continue to back Palestine': PM to Arab world - Times of India
-  'India will continue to back Palestine': PM to
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1NaX0tHMm9kUVJZRmdFdlJSU2NrTkVPRFpGa2pKd1pPelZiaVBKMjYySzV4QUl6eDFfekJnSWtrS1ktc3VqTUdHbV9JbDA2SXhpN3ZfUTJXQlZjS0E5Z0V5Ul9FR0dxWXp0VFhKNWJBdzRxUmd2dlJwVWVVQlppdnltTHF6X1NHZnNlWUttd1RSUUlMWGRfMnZsMFM5d0FMYjhIa0V2d0pWZm1VczNoV1FwdGFvSWotVDdlQlRVVdIBxAFBVV95cUxNNlBNMWhBRGRocDUyUUhDeWUxSTFNWDBNaUtjNDEwRGJ5b3hSN2oxLS1zOGtEUy05ZHlOMGJfeGhYOFVvMEdCYkJGcUZjTFdJbHhxSVpjNkhxR1pQOU9feE9fbkJONTE5SnI3M0ZZYTR3dVp3SmEtVkFNend0RU9uZjZ6TXBvZHNxQzl1NmtJTmVDMHZnNDJWUjJsb2p6NnRDNTRzcEQzZkt5emJyb1lYOGk2U1VURFFnU2JoNzR5TEQ0RHZW?oc=5
+- India To Develop 7 High-Speed Rail Corridors: Nirmala Sitharaman's Budget - NDTV
+  India To Develop 7 High-Speed Rail
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPUG5YSXp0QTdfcmdvSXM1SUlYV0dLWFRJV2NxWjRJQTVyX3RMZTMyejluRDRIcmNBUV81NVJZNk1zZVRQaUxoS3hwZ3hzcVRSLUw0RGtPNzFsNUlCbnQyTFBCNDhyZVYxMFlpVEdweFdEemhlYlkySm05RE1yUFVpVWRJelphdEE1eXZKWkJ2MWwwbXdiYzJtblJlQlE2RlJTb2dWYWtDUGJlaXBJdHNucGRBOFh3RnpiN0VoSTJXMnZSRzE5VFlFaDlB0gHSAUFVX3lxTE45VEx1YWI3LUx4eERiWHgxaFFLS1gwQTRHcTdQLVRMLXljWm05bnZCMGQwODFXeVVicmNvUVZXZWFHZkZlSzM0ZnpBRHRkUTE0TDdNck8xN3h4eVN5WHJPeXI0ajVOQ25keXVVeE5KS3k1OVhLZXhpX1RWcHlZQThMQWVWNmYzQmlhLThlWXhUdHdVSFpkZEVjVmZDeEp2eFRadHFHdXpJWUlPTkpWTWtESW9CYWVIaHQ4a1pWREx6SU9jM0lSd2NWQWhQOG4wVkF2QQ?oc=5
 
-- News On AIR | January 31, 2026 8:15 AM - News On AIR
-  News On AIR will air on January 31,
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGRIUDVwdmdKZjAyX0Ezak9yeUNTQWVKNTNWa3NIemFNRWdrbGRUQ05hWkxITU5tYWl3bjR2RmZEYXpINDl6SDlOY25rcGR3RnpzRkZJRllaNUV4TEVCQllCV0xjbGVrcUZ2dTV6QXhFZ1dYUUpMOUpjWEJyNU54ay1lanZXaWZPT01SdlpYMDA1X0x4eG1PRQ?oc=5
+- Top highlights from Finance Minister’s budget speech - The Indian Express
+  The Indian Express has compiled a list
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOW5tMzRwUTlWRzJDdU42d0U2SWZRYXFEdUppZWtsUUtEazZqQi1uT3pqUWk1Qm1Fdmo1T3JiYUJUSENIVXY3c2pCaVRqVTAwZ056WnRfMWs3Ump6SW9iQjZuQ2g2WnRrcXVlT3lRaWt4ckZXTzRMMGNiN1c0NElZTEpER0cwVjlSbzBraXpvcGNsNG1SNHlrcHNLR29XSnpBeGxnZlNlTjJQS05rRUpVdW4wWEZLVm9uLV9qcHR3TE50SHZ4ZTl6S1RXSmkyTjRa0gHXAUFVX3lxTE5COGp3ZUwxU0xBdTZ1bmlFQk5CRVlpQ2RzNFFTRk1SZ1lma0hudzFaSlVvNDFkMEhVcnltNWo4ZmlyM2hhNkZ3WWk5Y0ZmWFF5X1Zlei1Td1E2ajhlSEFocHB4UEVrNVBhWmVNV2tsT3hvaTZtcU5jbzhFMmwtbU9MenNFeFFPWU9MaUNQeWtPSEdhWWFDMFQ1RFp6M0RzZHJKVms0eFRpN09ySUJCOXpyMG9kYm5sY00wbE1EOUdCeEV0ZU1aenZ5eXRYbHljVGEzUURDMW9J?oc=5
 
-- Trade deal: India and EU announce FTA amid Trump tariff tensions - BBC
-  India and EU announce FTA amid Trump tariff tensions
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CU1ZhYV9kcXp1UHNiTTU1SGlkZzVWamxkZTB4Uk9wcDVISXAtNzROaDNlcHBqUVBTSFB1QklGWDlHQ3d2cHFyaUN2SHZhcUQwTi1YZWlYNDk4UQ?oc=5
+- New Panel To Review Impact Of AI On Services Sector: Nirmala Sitharaman - NDTV
+  New Panel To Review Impact Of AI On Services Sector
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNYXAwMmhMS3BjeElmajZvRkktYUpMaWxMbzJtWF9POUdMaVBXT0JGaVZVSHhMbC1jeEVobng5TWdfTVU0VnlmOFBuV3M3T3A5VmplUVpVZzRIOUs2UDBsa2pzTVZXVmc5dHJKOXQtdW80ek1zX2t6LWVWa2RQZWhqdGdSUlhVdUp1eXIxNVVSeFotMVFLbVlTT01ZV240akxvNVlUOTVNSHI2Zmd3b3gxYnBPN2NqX0RiR2g5b0ctU29jRGNtdy1VeC03TU9hZEnSAdcBQVVfeXFMTUlkTjNXRXhtUWZJM2xwS1lXQ3hzWW5QYTUxTEhYVjdTQ0lYYktpTFNWVmhSWXV3UlpWeHViamdabXFpd3k3azFjN3k4T2o0WXB3WXplTHBxaHYxcDZfTnN4MzQ1cUUtamdJd3c4QnZuOGo0bXEtbWxvRVZIcWc5MW9lSnpIT3M0dlRfN1FLYWZER1NGcnZoM285azM1TERKaVJFRjhxUDNvUXF2SjMyUXF0SmVqV1JZd2hCaGtzRjNybVhGQmdUUTl3V1RqLVNxQ2RZVHA1VDA?oc=5
 
-- How India's "Mother Of All Deals" With EU Wipes Out Pakistan's Trade Advantage - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ1B1LUV2RVdqTWVHMUR2MlV6WnZJMERpUkxjUG1CUkZ2bEZwaE9vSkI1Zy1NeDZqSGZRNVVTVWFuZHhpWEV2TDdKakc1WDVPRzJabG9BT3NHY3pZaXlabk80LWJuZEZEcWZVWThqV3U4TV9EMmdyVVZCQXJHUm1zbzJ5NDBGREN6cll0dlpNdS04WERKWDV0ZEhKYU4xSGZIY0wwOHJDdXVETGx2VXZUXzhZSGNmZ9IBvgFBVV95cUxOQ1RXMlRGZGhidDZjVXZKTkR1MHdLNE9GNVFNR1M2MkhUZG1jSEMtQXdVbldSZlk0a29sNjltN3VPZ19CQ1JWbFMzUEgxZFdOWlFaTVM5a2dRQW9BV2pFZU9IMHhDb0YxN0RtOEtjSEg3MkVqTnFQYnFVb3hvcEJTUTZvSFl1NE5pdldyVG1HZTFOX0daNW9MbEhIbFFTUkFXb0F0eENYQjVlWHVjUWI5UENfay1UNzB6THYwMk1B?oc=5
+- PM Modi Meets Arab Leaders, Says India Backs Palestinians, Gaza Peace Plan - NDTV
+  PM Modi Meets Arab Leaders, Says India B
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxON01qalN2SzRVTEEwaDZBZnJqWklIZTFFTXpjTk9iTUEzS0p6c1ZxcE9tLXNwdXgtVWhIUE9lR09OcUEySVVYbVFSTC1YSjZJdXMta3RiOEhOQVpYUmJVZ1lkSVJsMlp4SHJaUDFWVFp5Z05XOHpiUDdOUXRobUllcWhkRWFTRURDT0djRko0cklaRHlLbEJtQTloOFBKaVp6b1I1XzFPWTlRT0dFLWhxeUFXZ1LSAbwBQVVfeXFMT01zYUZrUEVRbFNHeUpIYTBDNXY2UlczdzNBOHQ3TmZoVE9sS2R1aHBJTXJfRzJXeTJqRjlqM0g1dkJUNmhSSk1SUjg4Mk9KTmZ5eUtEZzBnMTcxNjFTb29GMUg1S00wd3M4SjhCbUE5OG1OTTdzVUtrRUhHenZObm52SlM2T3RYWHZJblJGUHVkanRxVTI5Z1Z1YVp1aDVoUGdMZGpiZXJTYjVFdDhhOUZrdkQ1b0pCZmdRUHo?oc=5
 
 - 'No more sticky issues': Piyush Goyal says India-US trade talks moving towards closure | Exclusive | India News - Hindustan Times
   'No more sticky issues': Piyush Goyal says India-US trade talks
   🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT3k0eHlub2FIWGpKNlUxOHJoSF9IRU84OC04WDNiWThJbHY2T3R1QXdZMzBIS0FuYU1YQnp4cVI3S2NReXBxSmJWaUNnYS01S25fc2pfT09jTzZVSE1YRHpza0R5V2dhbHA3NDNEQ3B1djVZUENGSnJjTDVyZjNNbmZPY0dydUYxaDlWTl9rZGRtM2ZtclRUa3NXazhXMHNQV2djSVc1aDQ0eC1FVXdyY2d6ajZweDhHc04xQi1mVkJQN2NxSWo3cWlyZ21felZGUldsRHo5S24wY3VoNnN1czIzd21wMEItczBPbtIB8gFBVV95cUxQVEdkOFNWS1hsYVJPdUUxRFhiNjk3OXFOYnRjdGxwcGxXNVhqUVVXNkpqUnBrTFNmdVBmOERHbUh3QXNwMmExWTJnSGVMRWlIdzNDVkFNNEFsa0xJa3FoSFFRVnp1UkJOYjAyZ3oxaWMzSnVQTlg2TEFrWGpockRNUm5nMjB3LWZRZXU2V29rYjBFTkFsYVB6OVJqUkEzM0lneHZfbnZpZlFsSTEtc0JWVjFhT0Fsc3gtNnVVbmN3LWdsRmZ0SlhvZjNjalBJUl9KVFp5MGl1Ml9mOWRyTkVzRVVCQTBXaGZqNUVxOTVfd2VwZw?oc=5
 
-- 'India will continue to back Palestine': PM to Arab world - Times of India
-  'India will continue to back Palestine': PM to
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1NaX0tHMm9kUVJZRmdFdlJSU2NrTkVPRFpGa2pKd1pPelZiaVBKMjYySzV4QUl6eDFfekJnSWtrS1ktc3VqTUdHbV9JbDA2SXhpN3ZfUTJXQlZjS0E5Z0V5Ul9FR0dxWXp0VFhKNWJBdzRxUmd2dlJwVWVVQlppdnltTHF6X1NHZnNlWUttd1RSUUlMWGRfMnZsMFM5d0FMYjhIa0V2d0pWZm1VczNoV1FwdGFvSWotVDdlQlRVVdIBxAFBVV95cUxNNlBNMWhBRGRocDUyUUhDeWUxSTFNWDBNaUtjNDEwRGJ5b3hSN2oxLS1zOGtEUy05ZHlOMGJfeGhYOFVvMEdCYkJGcUZjTFdJbHhxSVpjNkhxR1pQOU9feE9fbkJONTE5SnI3M0ZZYTR3dVp3SmEtVkFNend0RU9uZjZ6TXBvZHNxQzl1NmtJTmVDMHZnNDJWUjJsb2p6NnRDNTRzcEQzZkt5emJyb1lYOGk2U1VURFFnU2JoNzR5TEQ0RHZW?oc=5
+- India To Develop 7 High-Speed Rail Corridors: Nirmala Sitharaman's Budget - NDTV
+  India To Develop 7 High-Speed Rail
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPUG5YSXp0QTdfcmdvSXM1SUlYV0dLWFRJV2NxWjRJQTVyX3RMZTMyejluRDRIcmNBUV81NVJZNk1zZVRQaUxoS3hwZ3hzcVRSLUw0RGtPNzFsNUlCbnQyTFBCNDhyZVYxMFlpVEdweFdEemhlYlkySm05RE1yUFVpVWRJelphdEE1eXZKWkJ2MWwwbXdiYzJtblJlQlE2RlJTb2dWYWtDUGJlaXBJdHNucGRBOFh3RnpiN0VoSTJXMnZSRzE5VFlFaDlB0gHSAUFVX3lxTE45VEx1YWI3LUx4eERiWHgxaFFLS1gwQTRHcTdQLVRMLXljWm05bnZCMGQwODFXeVVicmNvUVZXZWFHZkZlSzM0ZnpBRHRkUTE0TDdNck8xN3h4eVN5WHJPeXI0ajVOQ25keXVVeE5KS3k1OVhLZXhpX1RWcHlZQThMQWVWNmYzQmlhLThlWXhUdHdVSFpkZEVjVmZDeEp2eFRadHFHdXpJWUlPTkpWTWtESW9CYWVIaHQ4a1pWREx6SU9jM0lSd2NWQWhQOG4wVkF2QQ?oc=5
 
-- News On AIR | January 31, 2026 8:15 AM - News On AIR
-  News On AIR will air on January 31,
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGRIUDVwdmdKZjAyX0Ezak9yeUNTQWVKNTNWa3NIemFNRWdrbGRUQ05hWkxITU5tYWl3bjR2RmZEYXpINDl6SDlOY25rcGR3RnpzRkZJRllaNUV4TEVCQllCV0xjbGVrcUZ2dTV6QXhFZ1dYUUpMOUpjWEJyNU54ay1lanZXaWZPT01SdlpYMDA1X0x4eG1PRQ?oc=5
+- Top highlights from Finance Minister’s budget speech - The Indian Express
+  The Indian Express has compiled a list
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOW5tMzRwUTlWRzJDdU42d0U2SWZRYXFEdUppZWtsUUtEazZqQi1uT3pqUWk1Qm1Fdmo1T3JiYUJUSENIVXY3c2pCaVRqVTAwZ056WnRfMWs3Ump6SW9iQjZuQ2g2WnRrcXVlT3lRaWt4ckZXTzRMMGNiN1c0NElZTEpER0cwVjlSbzBraXpvcGNsNG1SNHlrcHNLR29XSnpBeGxnZlNlTjJQS05rRUpVdW4wWEZLVm9uLV9qcHR3TE50SHZ4ZTl6S1RXSmkyTjRa0gHXAUFVX3lxTE5COGp3ZUwxU0xBdTZ1bmlFQk5CRVlpQ2RzNFFTRk1SZ1lma0hudzFaSlVvNDFkMEhVcnltNWo4ZmlyM2hhNkZ3WWk5Y0ZmWFF5X1Zlei1Td1E2ajhlSEFocHB4UEVrNVBhWmVNV2tsT3hvaTZtcU5jbzhFMmwtbU9MenNFeFFPWU9MaUNQeWtPSEdhWWFDMFQ1RFp6M0RzZHJKVms0eFRpN09ySUJCOXpyMG9kYm5sY00wbE1EOUdCeEV0ZU1aenZ5eXRYbHljVGEzUURDMW9J?oc=5
+
+- New Panel To Review Impact Of AI On Services Sector: Nirmala Sitharaman - NDTV
+  New Panel To Review Impact Of AI On Services Sector
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNYXAwMmhMS3BjeElmajZvRkktYUpMaWxMbzJtWF9POUdMaVBXT0JGaVZVSHhMbC1jeEVobng5TWdfTVU0VnlmOFBuV3M3T3A5VmplUVpVZzRIOUs2UDBsa2pzTVZXVmc5dHJKOXQtdW80ek1zX2t6LWVWa2RQZWhqdGdSUlhVdUp1eXIxNVVSeFotMVFLbVlTT01ZV240akxvNVlUOTVNSHI2Zmd3b3gxYnBPN2NqX0RiR2g5b0ctU29jRGNtdy1VeC03TU9hZEnSAdcBQVVfeXFMTUlkTjNXRXhtUWZJM2xwS1lXQ3hzWW5QYTUxTEhYVjdTQ0lYYktpTFNWVmhSWXV3UlpWeHViamdabXFpd3k3azFjN3k4T2o0WXB3WXplTHBxaHYxcDZfTnN4MzQ1cUUtamdJd3c4QnZuOGo0bXEtbWxvRVZIcWc5MW9lSnpIT3M0dlRfN1FLYWZER1NGcnZoM285azM1TERKaVJFRjhxUDNvUXF2SjMyUXF0SmVqV1JZd2hCaGtzRjNybVhGQmdUUTl3V1RqLVNxQ2RZVHA1VDA?oc=5
+
+- PM Modi Meets Arab Leaders, Says India Backs Palestinians, Gaza Peace Plan - NDTV
+  PM Modi Meets Arab Leaders, Says India B
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxON01qalN2SzRVTEEwaDZBZnJqWklIZTFFTXpjTk9iTUEzS0p6c1ZxcE9tLXNwdXgtVWhIUE9lR09OcUEySVVYbVFSTC1YSjZJdXMta3RiOEhOQVpYUmJVZ1lkSVJsMlp4SHJaUDFWVFp5Z05XOHpiUDdOUXRobUllcWhkRWFTRURDT0djRko0cklaRHlLbEJtQTloOFBKaVp6b1I1XzFPWTlRT0dFLWhxeUFXZ1LSAbwBQVVfeXFMT01zYUZrUEVRbFNHeUpIYTBDNXY2UlczdzNBOHQ3TmZoVE9sS2R1aHBJTXJfRzJXeTJqRjlqM0g1dkJUNmhSSk1SUjg4Mk9KTmZ5eUtEZzBnMTcxNjFTb29GMUg1S00wd3M4SjhCbUE5OG1OTTdzVUtrRUhHenZObm52SlM2T3RYWHZJblJGUHVkanRxVTI5Z1Z1YVp1aDVoUGdMZGpiZXJTYjVFdDhhOUZrdkQ1b0pCZmdRUHo?oc=5
+
+- 'No more sticky issues': Piyush Goyal says India-US trade talks moving towards closure | Exclusive | India News - Hindustan Times
+  'No more sticky issues': Piyush Goyal says India-US trade talks
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT3k0eHlub2FIWGpKNlUxOHJoSF9IRU84OC04WDNiWThJbHY2T3R1QXdZMzBIS0FuYU1YQnp4cVI3S2NReXBxSmJWaUNnYS01S25fc2pfT09jTzZVSE1YRHpza0R5V2dhbHA3NDNEQ3B1djVZUENGSnJjTDVyZjNNbmZPY0dydUYxaDlWTl9rZGRtM2ZtclRUa3NXazhXMHNQV2djSVc1aDQ0eC1FVXdyY2d6ajZweDhHc04xQi1mVkJQN2NxSWo3cWlyZ21felZGUldsRHo5S24wY3VoNnN1czIzd21wMEItczBPbtIB8gFBVV95cUxQVEdkOFNWS1hsYVJPdUUxRFhiNjk3OXFOYnRjdGxwcGxXNVhqUVVXNkpqUnBrTFNmdVBmOERHbUh3QXNwMmExWTJnSGVMRWlIdzNDVkFNNEFsa0xJa3FoSFFRVnp1UkJOYjAyZ3oxaWMzSnVQTlg2TEFrWGpockRNUm5nMjB3LWZRZXU2V29rYjBFTkFsYVB6OVJqUkEzM0lneHZfbnZpZlFsSTEtc0JWVjFhT0Fsc3gtNnVVbmN3LWdsRmZ0SlhvZjNjalBJUl9KVFp5MGl1Ml9mOWRyTkVzRVVCQTBXaGZqNUVxOTVfd2VwZw?oc=5
+
+- India To Develop 7 High-Speed Rail Corridors: Nirmala Sitharaman's Budget - NDTV
+  India To Develop 7 High-Speed Rail
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPUG5YSXp0QTdfcmdvSXM1SUlYV0dLWFRJV2NxWjRJQTVyX3RMZTMyejluRDRIcmNBUV81NVJZNk1zZVRQaUxoS3hwZ3hzcVRSLUw0RGtPNzFsNUlCbnQyTFBCNDhyZVYxMFlpVEdweFdEemhlYlkySm05RE1yUFVpVWRJelphdEE1eXZKWkJ2MWwwbXdiYzJtblJlQlE2RlJTb2dWYWtDUGJlaXBJdHNucGRBOFh3RnpiN0VoSTJXMnZSRzE5VFlFaDlB0gHSAUFVX3lxTE45VEx1YWI3LUx4eERiWHgxaFFLS1gwQTRHcTdQLVRMLXljWm05bnZCMGQwODFXeVVicmNvUVZXZWFHZkZlSzM0ZnpBRHRkUTE0TDdNck8xN3h4eVN5WHJPeXI0ajVOQ25keXVVeE5KS3k1OVhLZXhpX1RWcHlZQThMQWVWNmYzQmlhLThlWXhUdHdVSFpkZEVjVmZDeEp2eFRadHFHdXpJWUlPTkpWTWtESW9CYWVIaHQ4a1pWREx6SU9jM0lSd2NWQWhQOG4wVkF2QQ?oc=5
+
+- Top highlights from Finance Minister’s budget speech - The Indian Express
+  The Indian Express has compiled a list
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOW5tMzRwUTlWRzJDdU42d0U2SWZRYXFEdUppZWtsUUtEazZqQi1uT3pqUWk1Qm1Fdmo1T3JiYUJUSENIVXY3c2pCaVRqVTAwZ056WnRfMWs3Ump6SW9iQjZuQ2g2WnRrcXVlT3lRaWt4ckZXTzRMMGNiN1c0NElZTEpER0cwVjlSbzBraXpvcGNsNG1SNHlrcHNLR29XSnpBeGxnZlNlTjJQS05rRUpVdW4wWEZLVm9uLV9qcHR3TE50SHZ4ZTl6S1RXSmkyTjRa0gHXAUFVX3lxTE5COGp3ZUwxU0xBdTZ1bmlFQk5CRVlpQ2RzNFFTRk1SZ1lma0hudzFaSlVvNDFkMEhVcnltNWo4ZmlyM2hhNkZ3WWk5Y0ZmWFF5X1Zlei1Td1E2ajhlSEFocHB4UEVrNVBhWmVNV2tsT3hvaTZtcU5jbzhFMmwtbU9MenNFeFFPWU9MaUNQeWtPSEdhWWFDMFQ1RFp6M0RzZHJKVms0eFRpN09ySUJCOXpyMG9kYm5sY00wbE1EOUdCeEV0ZU1aenZ5eXRYbHljVGEzUURDMW9J?oc=5
+
+- New Panel To Review Impact Of AI On Services Sector: Nirmala Sitharaman - NDTV
+  New Panel To Review Impact Of AI On Services Sector
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNYXAwMmhMS3BjeElmajZvRkktYUpMaWxMbzJtWF9POUdMaVBXT0JGaVZVSHhMbC1jeEVobng5TWdfTVU0VnlmOFBuV3M3T3A5VmplUVpVZzRIOUs2UDBsa2pzTVZXVmc5dHJKOXQtdW80ek1zX2t6LWVWa2RQZWhqdGdSUlhVdUp1eXIxNVVSeFotMVFLbVlTT01ZV240akxvNVlUOTVNSHI2Zmd3b3gxYnBPN2NqX0RiR2g5b0ctU29jRGNtdy1VeC03TU9hZEnSAdcBQVVfeXFMTUlkTjNXRXhtUWZJM2xwS1lXQ3hzWW5QYTUxTEhYVjdTQ0lYYktpTFNWVmhSWXV3UlpWeHViamdabXFpd3k3azFjN3k4T2o0WXB3WXplTHBxaHYxcDZfTnN4MzQ1cUUtamdJd3c4QnZuOGo0bXEtbWxvRVZIcWc5MW9lSnpIT3M0dlRfN1FLYWZER1NGcnZoM285azM1TERKaVJFRjhxUDNvUXF2SjMyUXF0SmVqV1JZd2hCaGtzRjNybVhGQmdUUTl3V1RqLVNxQ2RZVHA1VDA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-01 01:57:40 UTC_
+_Last updated: 2026-02-01 06:46:27 UTC_
