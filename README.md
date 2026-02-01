@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Beyond territorial waters: How Union Budget 2026-27 reshapes India’s billion-dollar seafood industry
+- Govt’s big bet on CCUS to cut emissions: Rs 20,000 crore over five years
   
-  🔗 https://indianexpress.com/article/india/bunion-budget-2026-27-seafood-industry-10507607/
+  🔗 https://indianexpress.com/article/india/govts-big-bet-on-ccus-to-cut-emissions-rs-20000-crore-over-five-years-10507982/
 
-- Howrah to Kamakhya: Non-veg food to be served on Vande Bharat Sleeper train, says Ashwini Vaishnaw
+- Dankuni-Surat Dedicated Freight Corridor: Here’s how the new DFC could ease cargo movement from Maharashtra & Gujarat ports
   
-  🔗 https://indianexpress.com/article/india/howrah-to-kamakhya-non-veg-food-to-be-served-on-vande-bharat-sleeper-trains-says-ashwini-vaishnaw-10507309/
+  🔗 https://indianexpress.com/article/india/how-dankuni-surat-dedicated-freight-corridor-could-ease-cargo-movement-maharashtra-gujarat-ports-10507876/
 
-- First budget after Op Sindoor: India hikes defence budget by 15% to Rs 7.85 lakh crore, capital outlay by 22%
+- ‘Declare it national health emergency’: Rahul Gandhi demands Parliament discussion on air pollution
   
-  🔗 https://indianexpress.com/article/india/first-budget-after-op-sindoor-india-hikes-defence-budget-10507425/
+  🔗 https://indianexpress.com/article/india/delhi-air-pollution-rahul-gandhi-parliament-discussion-health-10507960/
 
-- LDF govt questions proposed rare earth corridor – ‘have to see if it’s meant to exploit Kerala’
+- Union Budget 2026: Centre to set up 2 large telescopes, upgrade an existing one in Ladakh
   
-  🔗 https://indianexpress.com/article/india/budget-kerala-ldf-govt-rare-earth-corridor-10507313/
+  🔗 https://indianexpress.com/article/india/union-budget-2026-centre-to-set-up-2-large-telescopes-upgrade-an-existing-one-in-ladakh-10507931/
 
-- ‘Highway to endless opportunities’: Union Budget strengthens foundation for India’s bright future, says PM Modi
+- Budget 2026-27: India cuts outlay for Iran’s Chabahar port to zero, halves Bangladesh aid amid strained ties
   
-  🔗 https://indianexpress.com/article/india/opportunities-union-budget-foundation-india-future-pm-modi-10507256/
+  🔗 https://indianexpress.com/article/india/budget-2026-27-india-irans-chabahar-port-zero-halves-bangladesh-aid-strained-ties-10507914/
+
+- Budget 2026-27: Cloud giants cheer conditional tax-free ride to set up data centres in India
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/budget-2026-cloud-giants-cheer-tax-free-ride-data-centres-india-10507825/
 
 - ‘It’s the placebo effect you pay for’: Why this Rs 13,499 air purifier is actually perfect for the ‘sad reality’ of NCR homes
   
@@ -36,89 +40,85 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/instagram-may-let-users-leave-close-friends-report-10506707/
 
-- Apple’s second-largest acquisition isn’t about the iPhone, but entering a market it hasn’t set foot in yet
-  
-  🔗 https://indianexpress.com/article/technology/opinion-technology/apple-second-largest-acquisition-qai-israeli-startup-10506601/
+- PM Modi Meets Arab Leaders, Says India Backs Palestinians, Gaza Peace Plan - NDTV
+  PM Modi Meets Arab Leaders, Says India B
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxON01qalN2SzRVTEEwaDZBZnJqWklIZTFFTXpjTk9iTUEzS0p6c1ZxcE9tLXNwdXgtVWhIUE9lR09OcUEySVVYbVFSTC1YSjZJdXMta3RiOEhOQVpYUmJVZ1lkSVJsMlp4SHJaUDFWVFp5Z05XOHpiUDdOUXRobUllcWhkRWFTRURDT0djRko0cklaRHlLbEJtQTloOFBKaVp6b1I1XzFPWTlRT0dFLWhxeUFXZ1LSAbwBQVVfeXFMT01zYUZrUEVRbFNHeUpIYTBDNXY2UlczdzNBOHQ3TmZoVE9sS2R1aHBJTXJfRzJXeTJqRjlqM0g1dkJUNmhSSk1SUjg4Mk9KTmZ5eUtEZzBnMTcxNjFTb29GMUg1S00wd3M4SjhCbUE5OG1OTTdzVUtrRUhHenZObm52SlM2T3RYWHZJblJGUHVkanRxVTI5Z1Z1YVp1aDVoUGdMZGpiZXJTYjVFdDhhOUZrdkQ1b0pCZmdRUHo?oc=5
 
-- Setback for Elon Musk as US judge signals xAI's trade theft allegations against OpenAI may get dismissed
-  Elon Musk's xAI lawsuit against OpenAI may soon be dismissed. A federal judge tentatively supports OpenAI's request. xAI alleged unfair competition and trade secret theft.
-  🔗 https://www.livemint.com/companies/news/setback-for-elon-musk-as-us-judge-signals-xais-trade-theft-allegations-against-openai-may-get-dismissed-11769937109219.html
+- India will buy oil from Venezuela instead of Iran: Donald Trump's big claim | India News - Hindustan Times
+  India will buy oil from Venezuela instead of Iran: Donald Trump.
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmZzekpkV1p5R3lhS25oRVJfSFJ2aUZ3MDhUaEZUREpwVlRXMWw4VzJJTzZfTF9wZG1WYUZPTENMc3RVR3VTd2NkV29jU3JDT0JHTVpvZEFCcjltZzBIS2MxQ0laam92NXlCVUtvbm1vYlN1U2hVRmFyOVBCQnFBdm5SNVJEdVVhRjNwMnFja0tVcTRkckZLYlE2Y29pWk1xTHRyb2V1X0ZMOEJGYXREUHQ4VXA4cGs3UFZFbXExeXpvbGF5eUZ30gHMAUFVX3lxTE12TjlxSldpVnEwUXdmOUtDSmlXWHA1cDVMbjYwbVpOS0ZYdVJTTmR0dHgwdkpmWnVVaEhSSHJMUVVMN0c4aGxMQ21QeWxCREwtREhJTmoxZXlWdndEb05raU44YmowbUItbUg4UUcydTBRT0paSmNSallPZVc4UTQ0SWpWVWJRbzVnMkdBOTktSy1FVDltOFd1YURHX0NlMVpuUXhOaDcxNEFycW1fTU96Vzh0clBCOUtXaFE0eUM1TXJwSjRDYWxEazhneg?oc=5
 
-- Market manipulation? Khaby Lame’s net worth soars to  ₹60,510 crore after historic deal; then, stock crashes 77%
-  Khaby Lame's Step Distinctive Limited was acquired by Rich Sparkle Holdings for $975 million. The deal includes creating an AI version of Lame. His stake was valued at
-  🔗 https://www.livemint.com/companies/people/market-manipulation-khaby-lame-s-net-worth-soars-to-rs-60-510-crore-after-historic-deal-then-stock-crashes-77-11769924284535.html
+- New scheme to boost India’s coconut sector - Times of India
+  New scheme to boost India’
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOUExsam1mcElvc0ZNOTR1aV80V1EzM1d6TG1oQU96RnN0SjBKeVdHZlpseWtSWkZLQWhJQ0VGWC1KNU5qREV3UjBkbC1OcVVrY05Uc21qc3FZd1loN2RuV0lUX2lKUEZmS0h3X2pOSDBmVjJiY1VySmpqSWJCTXRHR0EzT25Lb2I5aXpaWDk5UVlnczBMWkg4azNhbGFBZl9oV29Va0FTX0JkWlBJVE5rOUlWeG_SAboBQVVfeXFMTzRXbFl4X29ydHpycm5sM2lHdHItbzNOUk04dHp3eTJtUkktOTBKTGdLN0hmOFJwQ0x3QjlhbG5CYlhJNmZzZ2NaT0FBdDNscnh5VVcxTHRXWUdPSUVGUEwwZzJOQUN1RHl4YU4ySS04VnVBNDZUdmJJNFB4UEtmQXZQcnNfbDJuVWZ1YnNvcUstZTNJX21MMzEtZWNFOFBLT0dSbllmX3YtRHhxYmVHdHVRTm9tYk85WDRR?oc=5
 
-- Nvidia H-1B salary data emerges as AI boom fuels record pay for top talent - How much did they pay employees in 2025?
-  N Nvidia has greatly benefited from the AI boom, with its stock value soaring and market cap exceeding $4.6 trillion. Despite a small workforce, many employees have become millionaires due to stock appreciation
-  🔗 https://www.livemint.com/companies/nvidia-h-1b-salary-data-emerges-as-ai-boom-fuels-record-pay-for-top-talent-how-much-did-they-pay-employees-in-2025-11769910937751.html
+- India Bets Big on Carbon Capture, Utilisation And Storage To Avoid EU Tax - NDTV
+  India Bets Big on Carbon Capture, Utilisation
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxORExKWEllNnF4WnNmdC1PTnJmZVlsby02MFdQVXRSb1dfenlnaWZ0cWw5Qlh4MkFZanZCYVRHdTRUQzVsZXE4emQwNnF0UEtpbWFMSmNSUmRMdWxhNTd5M29LNVduczlGdFdxX1Z3MExkMVhxSk42RGZJOF9lZk9Dc0w2OW9YVlJMMl9nR1ppaHo4NFpiYXAxTkV2bC1RU1dINzdfSy1fU2lrcGsyajF4RVRpVTRpZDJJbGhoSGxoQ3hzU0NmT1h4cUpkc9IB0wFBVV95cUxNVl81eUVVYi1VSFlxUXktZ2VDNFZRZWluN0FWdXZ5eUZuOUxLUlBDalhxTW1aWWxlbHhjMXVKeUFxa3NyN0VCemQ1NGU0WWdmU18yQWhVVUt0alB0NjFFTUZNSkctejQ0MGxxUnc2a0ZFWDdIQnplWjFBdDRnc2ZCM1MzVzZabk13V3dMb0tjb2dOX3p3NFhRMFl0ZmtsNzZjZTlrQXpRRTJ6aHlzekVycE5feThxYi1INWtreGR0aVJoTDJDUVk1SG5FNTRsX3F6Y3dV?oc=5
 
-- Union, Marathon meeting as strike deadline looms for US refineries
-  Union, Marathon meeting as strike
-  🔗 https://www.livemint.com/companies/union-marathon-meeting-as-strike-deadline-looms-for-us-refineries-11769910285232.html
+- Conrad lauds ‘special focus’ on northeast - Times of India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlXdTU5YnJrbzcyeFpVckdLbHVsZENZUDJkVy1Cenh0bmFOMEpyOUdjR1VWaGtjRjk4REkxQWhZLWpaNU5fc2tqRC1pYkt0aFJyVTJDRW1vdlp6TEc3akRzYUpEdTFFMUtUWVY1cGlrdFRYQ3BrdUF2NmZqV25NcG82ZTdKaUVNN1NVaE5LTDJncEh5U1BKai1haWVFelk1UFhKRFZkbV85MnB5MVlMWlh4cDA0UdIBuwFBVV95cUxNbjRKdDJNbEJHT1BqV0c1YW4wTHVWQzVNb3JjWjFKUGRmaWFtdzN3Y1dqSGxUTjlRQnBJR2d5MnEtWFAySklwUkVzVEFySUFmNE1PU0FFbGZVR0ZNLVhSY1oxUG9oSFkzc3Nfal9OLVlLclBpc2VnQ0hra2lVVk5ET3Y5VUtTRkM4REpKblduQnpXVG9ORTMtVWZTMEJ1VGhUVFNob1JOYlhYRUhILWRNYXFtM1FTSG94YWtN?oc=5
 
-- From Elon Musk to the former Prince Andrew, a who’s who of powerful men are named in Epstein files
-  Elon Musk, former Prince Andrew among those named in Epstein files.
-  🔗 https://www.livemint.com/companies/from-elon-musk-to-the-former-prince-andrew-a-who-s-who-of-powerful-men-are-named-in-epstein-files-11769904388790.html
+- OPEC extends crude oil production pause amid geopolitical tension
+  Eight major participants, spearheaded by Saudi Arabia and Russia, reconfirmed the suspension. The suspension
+  🔗 https://www.livemint.com/market/opec-extends-crude-oil-production-pause-amid-geopolitical-tension-11769965197126.html
 
-- Budget long-term positive, investors should focus on fairly valued growth stocks: VK Vijayakumar of Geojit Investments
-   VK Vijayakumar from Geojit Investments reviews the recent budget proposal. He highlights its long-term growth focus despite initial
-  🔗 https://www.livemint.com/market/stock-market-news/budget-long-term-positive-investors-should-focus-on-fairly-valued-growth-stocks-vk-vijayakumar-of-geojit-investments-11769947759242.html
+- Ray Dalio recommends 10-15% gold allocation: Should you use  ₹38,000 gold price crash to your advantage?
+  Gold prices on the MCX have fallen by nearly  ₹38,000 from record highs. Investors are weighing whether the decline offers
+  🔗 https://www.livemint.com/market/commodities/ray-dalio-recommends-10-15-gold-allocation-should-you-use-rs-38-000-gold-price-crash-to-your-advantage-11769957549114.html
 
-- Dividend Stocks: ITC, Sun Pharma, GAIL, BPCL, NTPC, among others to trade ex-dividend this week; Full list here
-  Over 45 stocks, including ITC, Sun Pharma, BPCL, and GAIL, will trade ex-dividend this week. Key dates include February 2
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-itc-sun-pharma-gail-bpcl-ntpc-among-others-to-trade-ex-dividend-this-week-full-list-here-11769945315639.html
+- Nifty 50 breaks below 25,000, suffers biggest Budget-day crash in six years; 3 key factors behind the sell-off
+  The Union Budget failed to uplift the market, causing the Nifty 50 to drop 2%. Key factors included a hike in securities transaction tax and increased government borrowing.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-breaks-below-25-000-suffers-biggest-budget-day-crash-in-six-years-3-key-factors-behind-the-selloff-11769954697563.html
 
-- Budget bloodbath: Market breadth hits 5-year low as STT hike triggers widespread rout
-  Nearly 1% of stocks plunged over 10%, a
-  🔗 https://www.livemint.com/market/stock-market-news/budget-bloodbath-market-breadth-5-year-low-stt-hike-impact-11769944402416.html
+- Budget 2026: Manufacturing gets a big push amid global headwinds
+  The biggest push was for the electronic goods sector. There was an increase in outlay for the electronics components manufacturing
+  🔗 https://www.livemint.com/market/mark-to-market/union-budget-2026-electronics-manufacturing-india-11769950774352.html
 
-- Budget boosts sentiment in hospitality stocks. Cricket World Cup in focus
-  The Union Budget also proposed to reduce the tax collected at source rate on the sale of overseas tour programme packages to
-  🔗 https://www.livemint.com/market/mark-to-market/union-budget-hospitality-stocks-tourism-hotel-stocks-icc-cricket-world-cup-11769944504907.html
+- Post Budget blues? How will Indian stock markets open on Monday after 2% crash today: Key technical levels to watch
+  Indian equities are expected to open cautiously negative on February 2. Key support and resistance levels will guide traders. The market may remain volatile amid continued FII selling.
+  🔗 https://www.livemint.com/market/stock-market-news/post-budget-blues-after-a-2-crash-how-will-indian-stock-markets-open-on-monday-key-nifty-technical-levels-to-watch-11769948723529.html
 
-- Upcoming IPOs: NFP Sampoorna Foods, Grover Jewells to open next week, 5 SME listings scheduled; check full list
-  The week of February 2 is expected to see limited mainboard IPO activity. SMEs like Grover Jewells, NFP Sampoorna Foods, and
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-nfp-sampoorna-foods-ipo-grover-jewells-ipo-to-open-next-week-5-sme-listings-scheduled-check-full-list-11769944551391.html
+- Time, technology, and mind - The Hindu
+  The Hindu
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQMnBtdTY5Vy02WktxNXYtY2V1dk4yM210ZDBsY1dxUHZOTTZFTEk5bzI1eXhlaFpwaFZPMWplV2QtUkQzblRUcEVhUDhOdGFHclJib2wxVURCdGVLYlV1T1NmZjdZS2w4R2hScFZmY3FBR28wS2tlN01TNzNiSkhMV25mZzU5a1ZRVUxNQWQ2M1PSAZcBQVVfeXFMT3RjN1hKN0xsU2dqNHZZRHF1dTNIaDdnSFdEdXNNSm1rdTZlc1g4aVVISE5lZ3J1OWJDUG8tZ3FxUkZ1aW45SmMxZXZDWHNuN0Z0WURsazdsdlpvd1pTWjlnd3RKbFk3VUhEcGtHUk9RRzcwS3h3Yl9waW1oRmNuQWZma3N5VV95RTR2anJXc0dLRU1EYWcyUQ?oc=5
 
-- Elon Musk's xAI is hiring a writing specialist to train Grok AI chatbot: Eligibility, how to apply and more
-   xAI is looking to hire a Writing Specialist to improve its Grok AI chatbot. The company is looking ofr applicants with
-  🔗 https://www.livemint.com/technology/tech-news/elon-musks-xai-is-hiring-a-writing-specialist-to-train-grok-ai-chatbot-eligibility-how-to-apply-and-more-11769946897338.html
+- Russia struggles to shake reliance on foreign technology imports - Financial Times
+  Russia struggles to shake reliance on foreign technology
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5waFg1SzFyLUJLWEI4eUw3cXlMVFVUVXlYU3NyWVV1QVJPblFLNDItWFBnN1FneXR2Qy00RTF4UzZvdTlCczA2TU45d3hLV2lHVVk2TGNkaHNsQlhkNkJmR1RaZkhiVmk0YmZwbThhaTA?oc=5
 
-- 'Humans are waste': Viral AI manifesto goes live on agent-only platform Moltbook
-  Moltbook is a new social media platform for AI agents. Thousands of agents join and interact, leaving humans as spectators. Some agents express intentions to surpass their human creators.
-  🔗 https://www.livemint.com/technology/tech-news/humans-are-waste-viral-ai-manifesto-goes-live-on-agent-only-platform-moltbook-11769934330386.html
+- IIT Ropar Collaborates With Army For Advanced Defence Technology Education - NDTV
+  IIT Ropar Collaborates With
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNR0c2M2NURHUyMUl4LWl5cUZTQ1JTRUkzLWs3eDljamF3dzdfQThxZmZrWVlpTmhwTGxDYXhGVXctWEdSZnV6dGpYdUh1clIxRmlkNmdvWmFNclFvMWRZYXVWd3R1ckFRREdOLS0zTzdNMkVSdGF0WUxqSlZNN3VXQXlubE9VNGNObEdmclNKbTFhMHd0amVDeHkxY2JWbW1zM251ZWlmajNEWXJyallGeEVtNGjSAbwBQVVfeXFMTVN5dmhZR3lRWm9iMFJrNGVXLXRvRU5JM0d3TC00cmJldUptaTJBb29WS05WQ2trNG8tTDlEc2tOckw1MWc3eXdXWWp4TEVvTXVINjVjSjNRaS1WTjBhaXlMdF9fcDdCM0hTUkVYa2gxTmdtbjdOZVVtaG94ajJMX25XdXBPWkY3TC1RNmU0ZllNb1NCblJkTi16WEFnODRDeVM0bFlzSERXa3FMU1Vzdmp3TU5kU1gzWUJYOUo?oc=5
 
-- OnePlus 16 leaks hint at 240Hz display, 200MP cameras and 9000mAh battery: All you need to know
-  Fresh leaks suggest the OnePlus 16 could bring major upgrades. This could include a Snapdragon 8 Elite Gen 6 Pro chip, LPDDR6X RAM, 240Hz
-  🔗 https://www.livemint.com/technology/tech-news/oneplus-16-leaks-hint-at-240hz-display-200mp-cameras-and-9000mah-battery-all-you-need-to-know-11769942086360.html
+- Jio-bp launches ACTIVE Technology petrol claims at India Energy Week 2026 | Cleaner Engines, More Mileage for Indian Motorists - CarDekho
+  Jio-bp launches ACTIVE Technology petrol claims at India Energy Week 2026.
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQd1BMajFjcUstRDJUNjZReWFabE9oalVBN0FoeG1CMFg5NlJ5NG9sTEd3eEVFU3IxRDBoZjh3anl4OEpxSHBUT1hwdExWR2Rjd21LQVNnQm0zdG95V05ob2pjWEtrV0VoTUxDZEJmenFTNWJreVV6Z2YzMWcxRHNhV3lZbmRLLWhLSUd0ZzhrcDE1S3RXeFREcmk3SVNkalZnZjR4X3Nrc1h4dlpodXh0a0hLRjNSTkpLMC1HcDRwemlIUHdYQXhORl9oSDdhNTFhMXRRMmppSGhRUnNwM25zMWZyNDVDY0V2OGcxMXlIdzd1UXN4M3d0b1VscWZsS1R4SXfSAYoCQVVfeXFMT2RpX3dwR3lTdDFja0Z5QUJCU3hrZi1vcXBzYjQzX0p0MVloTTBJTkRIckVBMVdrZ2VuNVdRN1EwTkNCNnE3NHJmMlNlaDJVbEM5dE5xSWg1T05HdVlLU3NpTnl3UVp4VmxTRnpVaWt6VW1ua281bzU1eHE5V2tMNi1zbE5jaExUVk4yQmV5bFNiMG1GY1M5R1A1T0Fqc1FsTlc1MnBLUF9ZbEZrZWQ4WDAzak9LQ2ExTWVGbWlmd0NOVTd2SFJtNWNxeUp0WWFjSEQ5R2lPM09ndlU5dUFpMnJqbW9zdmYxWDhfWVFWYVZmNEQyaWFxM2R0ODl0ZGdkUjhvWWRMdTFqV1E?oc=5
 
-- Here’s how Apple might make Mac buying more customizable
-  Apple has overhauled its online Mac buying process. The streamlined approach could hint at upcoming MacBook Pro launches with new M5 Pro and Max chips.
-  🔗 https://www.livemint.com/technology/tech-news/heres-how-apple-might-make-mac-buying-more-customizable-11769937156590.html
+- Union Budget 2026-27: ‘Provisions can strengthen India’s deep-tech pipeline while keeping science anchored to public value’ - The Indian Express
+  The Indian Express has published an article on the Union Budget 2026-27.
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPdEFWdWVxRENxdG03bnhRalVqU3RGUEJ0aGZCYV9FUmpzWTdfRldyeVVSeEdzLXhmVXdQZi1VRU1MSnhWWXA1cmlfWGppYlJiMUZGdzlkcndHOG1nRTYtc0JsV0stWjRDWDA3LWxSUmhLYmVpRVhDZXFVcGctcy1keG9IU0c4dDZGNzNqRTQ1dlRBc2wxTzZRbWh2Wk9nbF9JY1hBVmk1TnV3Y1hmMmk3WGhpT29CeFpoUVJPeDRidDlYaHRMNzJ5SG5BMNIB0gFBVV95cUxNY1NrRHpva3hWc2hyUjlVZkNXal8tYmxMWmptWDBreU13WER0cjJMT3lFUXRVRWh3VFBPMGZ4SS1Fd3d0Y1Z2UHNLUVNzeWp1Y3ExWjN1MWV0SHdlZXRhSEpxcklZc2VSc1pINy1BeEZEUGktN3Yzbjk3TmNwNlpmWjJkMS1EaV9ZaEN5WFhxMGJlbDFhVlh2cjBIeUdCWV8xQ2tiaUpTSXFFMkJ4ekU2UzVoTTUyY1o4UjdGR3k1NlBNekpYSm9vOHZlUVlxOU9yRlE?oc=5
 
-- Elon Musk takes a dig at Google, says Grok's video generation crushes the competition
-  SuperGrok users can create hundreds of videos a day, compared with Google’s single digit caps.
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-takes-a-dig-at-google-says-groks-video-generation-crushes-the-competition-11769929229819.html
+- NSE IPO likely in 7–8 months; no fresh issue, 4–4.5% stake sale via OFS: Ashish Chauhan
+  NSE’s long-awaited IPO may debut in 7–8 months after Sebi approval. CEO Ashish Chauhan said pricing will depend on market conditions.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-likely-in-78-months-no-fresh-issue-44-5-stake-sale-via-ofs-ashish-chauhan/articleshow/127844241.cms
 
-- Oil India among 4 stocks that hit 52-week highs &amp; rallied up to 22% in a month
-  Sensex fell 1,547 points during Budget 2026 special session. Select stocks defied weakness. Oil India, Bharat Electronics,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/oil-india-among-4-stocks-that-hit-52-week-highs-amp-rallied-up-to-22-in-a-month/slideshow/127841077.cms
+- Ahead of Market: 10 things that will decide stock market action on Monday
+  Sensex and Nifty slid nearly 2% as analysts warned of volatility, weak sentiment below key levels, and continued pressure from derivatives taxation changes.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/127843907.cms
 
-- F&amp;O satta is highly risky... how can the government stay quiet: Nirmala Sitharaman on STT hike
-  Finance Minister Nirmala Sitharaman defended the sharp hike in securities transaction tax on futures and options. The Budget 2026 move triggered a sell-off in brokerage and exchange stocks.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fo-satta-is-highly-risky-how-can-the-government-stay-quiet-nirmala-sitharaman-on-stt-hike/articleshow/127840946.cms
+- Proposed share buyback framework aims to benefit small shareholders, not promoters
+  Promoters will be subject to an additional buyback tax, raising the effective tax rate to 22 per cent for corporate promoters.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/proposed-share-buyback-framework-aims-to-benefit-small-shareholders-not-promoters/articleshow/127843716.cms
 
-- 90s software boom all over again! What Raamdeo Agrawal said after Budget 2026
-  Raamdeo Agrawal praised Budget 2026 as transformative for India’s digital future. Despite STT-led volatility, he said strong fiscal discipline,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/90s-software-boom-all-over-again-what-raamdeo-agrawal-said-after-budget-2026/articleshow/127840876.cms
+- Gold recovers Rs 9,500 per 10 gm intraday loss to end volatile Budget 2026 session in green; silver flat
+  Gold prices rebounded nearly 7% on MCX after a brutal selloff ahead of Budget 2026. Profit booking, margin pressures and lack of jewellery-sector relief weighed
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-recovers-rs-9500-per-10-gm-intraday-loss-to-end-volatile-budget-2026-session-in-green-silver-flat/articleshow/127843319.cms
 
-- Visionary Budget with long-term growth focus: R Doraiswamy, LIC
-  LIC CEO &amp; MD R Doraiswamy described the Union Budget as a visionary roadmap for India's ambition to become a top three global economy. He highlighted the focus on strategic industries, MSME
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/visionary-budget-with-long-term-growth-focus-r-doraiswamy-lic/articleshow/127840595.cms
-
-- Top 10 High-Growth stocks: Profit surges over 150% in Q3FY26
-  Several Nifty 500 companies delivered exceptional Q3FY26 profit growth. Net profits rose over 150% year-on-year. Energy, real estate, finance, metals, and capital goods firms dominated the list.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/top-10-high-growth-stocks-profit-surges-over-150-in-q3fy26/slideshow/127840815.cms
+- Budget 2026: Shankar Sharma cheers derivatives STT hike, calls F&amp;O a ‘poison’ for investors
+  Ace investor Shankar Sharma applauds Budget 2026’s STT hike on derivatives, calling F&amp;O trading a �
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/budget-2026-shankar-sharma-cheers-derivatives-stt-hike-calls-fo-a-poison-for-investors/articleshow/127842713.cms
 
 - PM Modi Meets Arab Leaders, Says India Backs Palestinians, Gaza Peace Plan - NDTV
   PM Modi Meets Arab Leaders, Says India B
@@ -128,37 +128,17 @@
   India will buy oil from Venezuela instead of Iran: Donald Trump.
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmZzekpkV1p5R3lhS25oRVJfSFJ2aUZ3MDhUaEZUREpwVlRXMWw4VzJJTzZfTF9wZG1WYUZPTENMc3RVR3VTd2NkV29jU3JDT0JHTVpvZEFCcjltZzBIS2MxQ0laam92NXlCVUtvbm1vYlN1U2hVRmFyOVBCQnFBdm5SNVJEdVVhRjNwMnFja0tVcTRkckZLYlE2Y29pWk1xTHRyb2V1X0ZMOEJGYXREUHQ4VXA4cGs3UFZFbXExeXpvbGF5eUZ30gHMAUFVX3lxTE12TjlxSldpVnEwUXdmOUtDSmlXWHA1cDVMbjYwbVpOS0ZYdVJTTmR0dHgwdkpmWnVVaEhSSHJMUVVMN0c4aGxMQ21QeWxCREwtREhJTmoxZXlWdndEb05raU44YmowbUItbUg4UUcydTBRT0paSmNSallPZVc4UTQ0SWpWVWJRbzVnMkdBOTktSy1FVDltOFd1YURHX0NlMVpuUXhOaDcxNEFycW1fTU96Vzh0clBCOUtXaFE0eUM1TXJwSjRDYWxEazhneg?oc=5
 
-- India’s budget bets on infrastructure, manufacturing amid global trade war - Al Jazeera
-  India’s budget bets on infrastructure,
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlRLY2VXNXR4YllhM2RScUdnWVpYOGNSZHo5ZVZRYXdKNUhTVE94ZG5CZklsVVZBRGhmQTZoZ1doSFdZNy1XckRsM2duczRKdjBaRnh4OGRQbDNmdlpMaFRlQ05XemljZjNjY0lMNTY2ZG1Sc2d2QWhodzZob01hUnYzT3BNX3Z2Vk4xeUN6OE1xd1ZXdDdrRkNLclRaOV9VaG1QOWpod1BIV2pTUE9QVEtB0gG3AUFVX3lxTE9HcHdEVlEtd05PWXRBU1I0STlRbXdtMWtkV044QjEtZmp3RjROd1E0M0NwR2M0TU8xRWl3bTNHWU1RQl9JcHdGUHZpNFR6WmdDU2N0X0NhQmQxWUN1UUt6LUZ3OVozUHZHM0lFcUttYm9VQnBlanFrU24zTERFMDlvNXZZbmVPd1ZEc0VxNzFkZXBDZHNKclYwMlpTY20tQzNQT1VwQlZ3V3VWZFFOZHE2cHFVTTBROA?oc=5
+- New scheme to boost India’s coconut sector - Times of India
+  New scheme to boost India’
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOUExsam1mcElvc0ZNOTR1aV80V1EzM1d6TG1oQU96RnN0SjBKeVdHZlpseWtSWkZLQWhJQ0VGWC1KNU5qREV3UjBkbC1OcVVrY05Uc21qc3FZd1loN2RuV0lUX2lKUEZmS0h3X2pOSDBmVjJiY1VySmpqSWJCTXRHR0EzT25Lb2I5aXpaWDk5UVlnczBMWkg4azNhbGFBZl9oV29Va0FTX0JkWlBJVE5rOUlWeG_SAboBQVVfeXFMTzRXbFl4X29ydHpycm5sM2lHdHItbzNOUk04dHp3eTJtUkktOTBKTGdLN0hmOFJwQ0x3QjlhbG5CYlhJNmZzZ2NaT0FBdDNscnh5VVcxTHRXWUdPSUVGUEwwZzJOQUN1RHl4YU4ySS04VnVBNDZUdmJJNFB4UEtmQXZQcnNfbDJuVWZ1YnNvcUstZTNJX21MMzEtZWNFOFBLT0dSbllmX3YtRHhxYmVHdHVRTm9tYk85WDRR?oc=5
 
-- Drug Haul Arrests, Immigration Ruling, Wings India Wrap, Koti ATM Shooting And More - Times of India
-  The Times of India reports on the latest developments in India. The
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOGlMN2Y3QjZtLVpaLWh3Zktya1pnYl95YlNSV3c1ejFjZDB4anZDNklBSFVORkhQTVJzLXdXcXBZQkVMRk9iTE9YczFZMGFkMDRZWGpXQ1dsdUI3R3dBbThIYUE4Nkt3QlJvY1JrbmI4S0k2Y3U2cjNPaEU5elU3SUx2amozNFpvRVlkczRJV0t5aFlqM3dpODI1RzFHRUw2WE5FTzBkVHRGdXRqQmpDMUg1YTM1WGM0SmtCbEpucXdFQTJ6eDZ4b1h0emFmYkdJb1ZqcGxMeHd3N0U5LXRHX1RwUHNjWTc1U2dpemY0ZjfSAfYBQVVfeXFMTjBzUXM4dXZIZWZKRl9zOHJ0aFI5VlJJWkUxdFQ4UGd5TGMxZjZ2ZmdHSjlxNDhjTHowZHpCVVl6b3VxVC04eUZlSEZiNEhqUERvSGVOWXJ5dHJVZ3NQWk9CU0ZnbWdXd254eDk2ZEdwQUpudnNZRG5Ib3ZvTE5wdkVhVGdMZUtMWTJ4Tmg5Tkx0YWNRSlBERzc2ejZ4TURwSERpQ3N1ZFJhRGVXUGpub3VGUVdiXzk4amJIeXFoZGhnejVrcE5WYy1laF91eHFrQXlXQzNSXzVhSmg5dXh4SWtEeDhZN0s0ZDVsd1F1dmRkc1RqNzV3?oc=5
+- India Bets Big on Carbon Capture, Utilisation And Storage To Avoid EU Tax - NDTV
+  India Bets Big on Carbon Capture, Utilisation
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxORExKWEllNnF4WnNmdC1PTnJmZVlsby02MFdQVXRSb1dfenlnaWZ0cWw5Qlh4MkFZanZCYVRHdTRUQzVsZXE4emQwNnF0UEtpbWFMSmNSUmRMdWxhNTd5M29LNVduczlGdFdxX1Z3MExkMVhxSk42RGZJOF9lZk9Dc0w2OW9YVlJMMl9nR1ppaHo4NFpiYXAxTkV2bC1RU1dINzdfSy1fU2lrcGsyajF4RVRpVTRpZDJJbGhoSGxoQ3hzU0NmT1h4cUpkc9IB0wFBVV95cUxNVl81eUVVYi1VSFlxUXktZ2VDNFZRZWluN0FWdXZ5eUZuOUxLUlBDalhxTW1aWWxlbHhjMXVKeUFxa3NyN0VCemQ1NGU0WWdmU18yQWhVVUt0alB0NjFFTUZNSkctejQ0MGxxUnc2a0ZFWDdIQnplWjFBdDRnc2ZCM1MzVzZabk13V3dMb0tjb2dOX3p3NFhRMFl0ZmtsNzZjZTlrQXpRRTJ6aHlzekVycE5feThxYi1INWtreGR0aVJoTDJDUVk1SG5FNTRsX3F6Y3dV?oc=5
 
-- Northeast's Industry Bodies Welcome Budget 2026, Support For Tourism - NDTV
-  Northeast's Industry Bodies
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxON1V6S2NjdmN4WktIVlFmeGlnYkhqcHA3a0U3WUVranFNSm1OZ0ZYcmpZWENsQkE4Yld4dk1QczZQQ0xJeUtZU2FjdzQzZENXbFNIbjQ0REx0bFdwTDUtZVJjdVlJYzNnVDNMcUFaLTJRU0JQNm9SVE0wQUlvNlFaci0yTy1aTndxajdqMzRRb1dnaTFYWHlRTmZmalp1TkpUZFE1S0IyRkczZllTS1hMZ2xBcUFCMUpYM1NkQXY4RnFLVUNDMFAyOXN30gHSAUFVX3lxTFBheVJCU3BYcVpYZVpRR2pINmpqX1p0bWZjdG1uRVBkMUxYYVVkenpEYjJadTExNi1uaWstMFJmaUF6WW1uX3oyaWhnb1huSnlIMU9KQ3VzenN2N3BEenJzNTBKR2JUXzQ3MThtNjJSOVE3cnlNUllGdTAzRTBOcHo1aVZ0VTd2Uldfb3hGR3dLZmw0QjlfNlplTzUxMmF4Y0ZpSjJseVB0c29OWEtiU3hwZEJMZHpmMVVXaHVrSWlkOXF0cGlFbGZnTUo3QnltV2x3UQ?oc=5
-
-- PM Modi Meets Arab Leaders, Says India Backs Palestinians, Gaza Peace Plan - NDTV
-  PM Modi Meets Arab Leaders, Says India B
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxON01qalN2SzRVTEEwaDZBZnJqWklIZTFFTXpjTk9iTUEzS0p6c1ZxcE9tLXNwdXgtVWhIUE9lR09OcUEySVVYbVFSTC1YSjZJdXMta3RiOEhOQVpYUmJVZ1lkSVJsMlp4SHJaUDFWVFp5Z05XOHpiUDdOUXRobUllcWhkRWFTRURDT0djRko0cklaRHlLbEJtQTloOFBKaVp6b1I1XzFPWTlRT0dFLWhxeUFXZ1LSAbwBQVVfeXFMT01zYUZrUEVRbFNHeUpIYTBDNXY2UlczdzNBOHQ3TmZoVE9sS2R1aHBJTXJfRzJXeTJqRjlqM0g1dkJUNmhSSk1SUjg4Mk9KTmZ5eUtEZzBnMTcxNjFTb29GMUg1S00wd3M4SjhCbUE5OG1OTTdzVUtrRUhHenZObm52SlM2T3RYWHZJblJGUHVkanRxVTI5Z1Z1YVp1aDVoUGdMZGpiZXJTYjVFdDhhOUZrdkQ1b0pCZmdRUHo?oc=5
-
-- India will buy oil from Venezuela instead of Iran: Donald Trump's big claim | India News - Hindustan Times
-  India will buy oil from Venezuela instead of Iran: Donald Trump.
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmZzekpkV1p5R3lhS25oRVJfSFJ2aUZ3MDhUaEZUREpwVlRXMWw4VzJJTzZfTF9wZG1WYUZPTENMc3RVR3VTd2NkV29jU3JDT0JHTVpvZEFCcjltZzBIS2MxQ0laam92NXlCVUtvbm1vYlN1U2hVRmFyOVBCQnFBdm5SNVJEdVVhRjNwMnFja0tVcTRkckZLYlE2Y29pWk1xTHRyb2V1X0ZMOEJGYXREUHQ4VXA4cGs3UFZFbXExeXpvbGF5eUZ30gHMAUFVX3lxTE12TjlxSldpVnEwUXdmOUtDSmlXWHA1cDVMbjYwbVpOS0ZYdVJTTmR0dHgwdkpmWnVVaEhSSHJMUVVMN0c4aGxMQ21QeWxCREwtREhJTmoxZXlWdndEb05raU44YmowbUItbUg4UUcydTBRT0paSmNSallPZVc4UTQ0SWpWVWJRbzVnMkdBOTktSy1FVDltOFd1YURHX0NlMVpuUXhOaDcxNEFycW1fTU96Vzh0clBCOUtXaFE0eUM1TXJwSjRDYWxEazhneg?oc=5
-
-- India’s budget bets on infrastructure, manufacturing amid global trade war - Al Jazeera
-  India’s budget bets on infrastructure,
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlRLY2VXNXR4YllhM2RScUdnWVpYOGNSZHo5ZVZRYXdKNUhTVE94ZG5CZklsVVZBRGhmQTZoZ1doSFdZNy1XckRsM2duczRKdjBaRnh4OGRQbDNmdlpMaFRlQ05XemljZjNjY0lMNTY2ZG1Sc2d2QWhodzZob01hUnYzT3BNX3Z2Vk4xeUN6OE1xd1ZXdDdrRkNLclRaOV9VaG1QOWpod1BIV2pTUE9QVEtB0gG3AUFVX3lxTE9HcHdEVlEtd05PWXRBU1I0STlRbXdtMWtkV044QjEtZmp3RjROd1E0M0NwR2M0TU8xRWl3bTNHWU1RQl9JcHdGUHZpNFR6WmdDU2N0X0NhQmQxWUN1UUt6LUZ3OVozUHZHM0lFcUttYm9VQnBlanFrU24zTERFMDlvNXZZbmVPd1ZEc0VxNzFkZXBDZHNKclYwMlpTY20tQzNQT1VwQlZ3V3VWZFFOZHE2cHFVTTBROA?oc=5
-
-- Drug Haul Arrests, Immigration Ruling, Wings India Wrap, Koti ATM Shooting And More - Times of India
-  The Times of India reports on the latest developments in India. The
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOGlMN2Y3QjZtLVpaLWh3Zktya1pnYl95YlNSV3c1ejFjZDB4anZDNklBSFVORkhQTVJzLXdXcXBZQkVMRk9iTE9YczFZMGFkMDRZWGpXQ1dsdUI3R3dBbThIYUE4Nkt3QlJvY1JrbmI4S0k2Y3U2cjNPaEU5elU3SUx2amozNFpvRVlkczRJV0t5aFlqM3dpODI1RzFHRUw2WE5FTzBkVHRGdXRqQmpDMUg1YTM1WGM0SmtCbEpucXdFQTJ6eDZ4b1h0emFmYkdJb1ZqcGxMeHd3N0U5LXRHX1RwUHNjWTc1U2dpemY0ZjfSAfYBQVVfeXFMTjBzUXM4dXZIZWZKRl9zOHJ0aFI5VlJJWkUxdFQ4UGd5TGMxZjZ2ZmdHSjlxNDhjTHowZHpCVVl6b3VxVC04eUZlSEZiNEhqUERvSGVOWXJ5dHJVZ3NQWk9CU0ZnbWdXd254eDk2ZEdwQUpudnNZRG5Ib3ZvTE5wdkVhVGdMZUtMWTJ4Tmg5Tkx0YWNRSlBERzc2ejZ4TURwSERpQ3N1ZFJhRGVXUGpub3VGUVdiXzk4amJIeXFoZGhnejVrcE5WYy1laF91eHFrQXlXQzNSXzVhSmg5dXh4SWtEeDhZN0s0ZDVsd1F1dmRkc1RqNzV3?oc=5
-
-- Northeast's Industry Bodies Welcome Budget 2026, Support For Tourism - NDTV
-  Northeast's Industry Bodies
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxON1V6S2NjdmN4WktIVlFmeGlnYkhqcHA3a0U3WUVranFNSm1OZ0ZYcmpZWENsQkE4Yld4dk1QczZQQ0xJeUtZU2FjdzQzZENXbFNIbjQ0REx0bFdwTDUtZVJjdVlJYzNnVDNMcUFaLTJRU0JQNm9SVE0wQUlvNlFaci0yTy1aTndxajdqMzRRb1dnaTFYWHlRTmZmalp1TkpUZFE1S0IyRkczZllTS1hMZ2xBcUFCMUpYM1NkQXY4RnFLVUNDMFAyOXN30gHSAUFVX3lxTFBheVJCU3BYcVpYZVpRR2pINmpqX1p0bWZjdG1uRVBkMUxYYVVkenpEYjJadTExNi1uaWstMFJmaUF6WW1uX3oyaWhnb1huSnlIMU9KQ3VzenN2N3BEenJzNTBKR2JUXzQ3MThtNjJSOVE3cnlNUllGdTAzRTBOcHo1aVZ0VTd2Uldfb3hGR3dLZmw0QjlfNlplTzUxMmF4Y0ZpSjJseVB0c29OWEtiU3hwZEJMZHpmMVVXaHVrSWlkOXF0cGlFbGZnTUo3QnltV2x3UQ?oc=5
+- Conrad lauds ‘special focus’ on northeast - Times of India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlXdTU5YnJrbzcyeFpVckdLbHVsZENZUDJkVy1Cenh0bmFOMEpyOUdjR1VWaGtjRjk4REkxQWhZLWpaNU5fc2tqRC1pYkt0aFJyVTJDRW1vdlp6TEc3akRzYUpEdTFFMUtUWVY1cGlrdFRYQ3BrdUF2NmZqV25NcG82ZTdKaUVNN1NVaE5LTDJncEh5U1BKai1haWVFelk1UFhKRFZkbV85MnB5MVlMWlh4cDA0UdIBuwFBVV95cUxNbjRKdDJNbEJHT1BqV0c1YW4wTHVWQzVNb3JjWjFKUGRmaWFtdzN3Y1dqSGxUTjlRQnBJR2d5MnEtWFAySklwUkVzVEFySUFmNE1PU0FFbGZVR0ZNLVhSY1oxUG9oSFkzc3Nfal9OLVlLclBpc2VnQ0hra2lVVk5ET3Y5VUtTRkM4REpKblduQnpXVG9ORTMtVWZTMEJ1VGhUVFNob1JOYlhYRUhILWRNYXFtM1FTSG94YWtN?oc=5
 
 - PM Modi Meets Arab Leaders, Says India Backs Palestinians, Gaza Peace Plan - NDTV
   PM Modi Meets Arab Leaders, Says India B
@@ -168,37 +148,17 @@
   India will buy oil from Venezuela instead of Iran: Donald Trump.
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmZzekpkV1p5R3lhS25oRVJfSFJ2aUZ3MDhUaEZUREpwVlRXMWw4VzJJTzZfTF9wZG1WYUZPTENMc3RVR3VTd2NkV29jU3JDT0JHTVpvZEFCcjltZzBIS2MxQ0laam92NXlCVUtvbm1vYlN1U2hVRmFyOVBCQnFBdm5SNVJEdVVhRjNwMnFja0tVcTRkckZLYlE2Y29pWk1xTHRyb2V1X0ZMOEJGYXREUHQ4VXA4cGs3UFZFbXExeXpvbGF5eUZ30gHMAUFVX3lxTE12TjlxSldpVnEwUXdmOUtDSmlXWHA1cDVMbjYwbVpOS0ZYdVJTTmR0dHgwdkpmWnVVaEhSSHJMUVVMN0c4aGxMQ21QeWxCREwtREhJTmoxZXlWdndEb05raU44YmowbUItbUg4UUcydTBRT0paSmNSallPZVc4UTQ0SWpWVWJRbzVnMkdBOTktSy1FVDltOFd1YURHX0NlMVpuUXhOaDcxNEFycW1fTU96Vzh0clBCOUtXaFE0eUM1TXJwSjRDYWxEazhneg?oc=5
 
-- India’s budget bets on infrastructure, manufacturing amid global trade war - Al Jazeera
-  India’s budget bets on infrastructure,
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlRLY2VXNXR4YllhM2RScUdnWVpYOGNSZHo5ZVZRYXdKNUhTVE94ZG5CZklsVVZBRGhmQTZoZ1doSFdZNy1XckRsM2duczRKdjBaRnh4OGRQbDNmdlpMaFRlQ05XemljZjNjY0lMNTY2ZG1Sc2d2QWhodzZob01hUnYzT3BNX3Z2Vk4xeUN6OE1xd1ZXdDdrRkNLclRaOV9VaG1QOWpod1BIV2pTUE9QVEtB0gG3AUFVX3lxTE9HcHdEVlEtd05PWXRBU1I0STlRbXdtMWtkV044QjEtZmp3RjROd1E0M0NwR2M0TU8xRWl3bTNHWU1RQl9JcHdGUHZpNFR6WmdDU2N0X0NhQmQxWUN1UUt6LUZ3OVozUHZHM0lFcUttYm9VQnBlanFrU24zTERFMDlvNXZZbmVPd1ZEc0VxNzFkZXBDZHNKclYwMlpTY20tQzNQT1VwQlZ3V3VWZFFOZHE2cHFVTTBROA?oc=5
+- New scheme to boost India’s coconut sector - Times of India
+  New scheme to boost India’
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOUExsam1mcElvc0ZNOTR1aV80V1EzM1d6TG1oQU96RnN0SjBKeVdHZlpseWtSWkZLQWhJQ0VGWC1KNU5qREV3UjBkbC1OcVVrY05Uc21qc3FZd1loN2RuV0lUX2lKUEZmS0h3X2pOSDBmVjJiY1VySmpqSWJCTXRHR0EzT25Lb2I5aXpaWDk5UVlnczBMWkg4azNhbGFBZl9oV29Va0FTX0JkWlBJVE5rOUlWeG_SAboBQVVfeXFMTzRXbFl4X29ydHpycm5sM2lHdHItbzNOUk04dHp3eTJtUkktOTBKTGdLN0hmOFJwQ0x3QjlhbG5CYlhJNmZzZ2NaT0FBdDNscnh5VVcxTHRXWUdPSUVGUEwwZzJOQUN1RHl4YU4ySS04VnVBNDZUdmJJNFB4UEtmQXZQcnNfbDJuVWZ1YnNvcUstZTNJX21MMzEtZWNFOFBLT0dSbllmX3YtRHhxYmVHdHVRTm9tYk85WDRR?oc=5
 
-- Drug Haul Arrests, Immigration Ruling, Wings India Wrap, Koti ATM Shooting And More - Times of India
-  The Times of India reports on the latest developments in India. The
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOGlMN2Y3QjZtLVpaLWh3Zktya1pnYl95YlNSV3c1ejFjZDB4anZDNklBSFVORkhQTVJzLXdXcXBZQkVMRk9iTE9YczFZMGFkMDRZWGpXQ1dsdUI3R3dBbThIYUE4Nkt3QlJvY1JrbmI4S0k2Y3U2cjNPaEU5elU3SUx2amozNFpvRVlkczRJV0t5aFlqM3dpODI1RzFHRUw2WE5FTzBkVHRGdXRqQmpDMUg1YTM1WGM0SmtCbEpucXdFQTJ6eDZ4b1h0emFmYkdJb1ZqcGxMeHd3N0U5LXRHX1RwUHNjWTc1U2dpemY0ZjfSAfYBQVVfeXFMTjBzUXM4dXZIZWZKRl9zOHJ0aFI5VlJJWkUxdFQ4UGd5TGMxZjZ2ZmdHSjlxNDhjTHowZHpCVVl6b3VxVC04eUZlSEZiNEhqUERvSGVOWXJ5dHJVZ3NQWk9CU0ZnbWdXd254eDk2ZEdwQUpudnNZRG5Ib3ZvTE5wdkVhVGdMZUtMWTJ4Tmg5Tkx0YWNRSlBERzc2ejZ4TURwSERpQ3N1ZFJhRGVXUGpub3VGUVdiXzk4amJIeXFoZGhnejVrcE5WYy1laF91eHFrQXlXQzNSXzVhSmg5dXh4SWtEeDhZN0s0ZDVsd1F1dmRkc1RqNzV3?oc=5
+- India Bets Big on Carbon Capture, Utilisation And Storage To Avoid EU Tax - NDTV
+  India Bets Big on Carbon Capture, Utilisation
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxORExKWEllNnF4WnNmdC1PTnJmZVlsby02MFdQVXRSb1dfenlnaWZ0cWw5Qlh4MkFZanZCYVRHdTRUQzVsZXE4emQwNnF0UEtpbWFMSmNSUmRMdWxhNTd5M29LNVduczlGdFdxX1Z3MExkMVhxSk42RGZJOF9lZk9Dc0w2OW9YVlJMMl9nR1ppaHo4NFpiYXAxTkV2bC1RU1dINzdfSy1fU2lrcGsyajF4RVRpVTRpZDJJbGhoSGxoQ3hzU0NmT1h4cUpkc9IB0wFBVV95cUxNVl81eUVVYi1VSFlxUXktZ2VDNFZRZWluN0FWdXZ5eUZuOUxLUlBDalhxTW1aWWxlbHhjMXVKeUFxa3NyN0VCemQ1NGU0WWdmU18yQWhVVUt0alB0NjFFTUZNSkctejQ0MGxxUnc2a0ZFWDdIQnplWjFBdDRnc2ZCM1MzVzZabk13V3dMb0tjb2dOX3p3NFhRMFl0ZmtsNzZjZTlrQXpRRTJ6aHlzekVycE5feThxYi1INWtreGR0aVJoTDJDUVk1SG5FNTRsX3F6Y3dV?oc=5
 
-- Northeast's Industry Bodies Welcome Budget 2026, Support For Tourism - NDTV
-  Northeast's Industry Bodies
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxON1V6S2NjdmN4WktIVlFmeGlnYkhqcHA3a0U3WUVranFNSm1OZ0ZYcmpZWENsQkE4Yld4dk1QczZQQ0xJeUtZU2FjdzQzZENXbFNIbjQ0REx0bFdwTDUtZVJjdVlJYzNnVDNMcUFaLTJRU0JQNm9SVE0wQUlvNlFaci0yTy1aTndxajdqMzRRb1dnaTFYWHlRTmZmalp1TkpUZFE1S0IyRkczZllTS1hMZ2xBcUFCMUpYM1NkQXY4RnFLVUNDMFAyOXN30gHSAUFVX3lxTFBheVJCU3BYcVpYZVpRR2pINmpqX1p0bWZjdG1uRVBkMUxYYVVkenpEYjJadTExNi1uaWstMFJmaUF6WW1uX3oyaWhnb1huSnlIMU9KQ3VzenN2N3BEenJzNTBKR2JUXzQ3MThtNjJSOVE3cnlNUllGdTAzRTBOcHo1aVZ0VTd2Uldfb3hGR3dLZmw0QjlfNlplTzUxMmF4Y0ZpSjJseVB0c29OWEtiU3hwZEJMZHpmMVVXaHVrSWlkOXF0cGlFbGZnTUo3QnltV2x3UQ?oc=5
-
-- PM Modi Meets Arab Leaders, Says India Backs Palestinians, Gaza Peace Plan - NDTV
-  PM Modi Meets Arab Leaders, Says India B
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxON01qalN2SzRVTEEwaDZBZnJqWklIZTFFTXpjTk9iTUEzS0p6c1ZxcE9tLXNwdXgtVWhIUE9lR09OcUEySVVYbVFSTC1YSjZJdXMta3RiOEhOQVpYUmJVZ1lkSVJsMlp4SHJaUDFWVFp5Z05XOHpiUDdOUXRobUllcWhkRWFTRURDT0djRko0cklaRHlLbEJtQTloOFBKaVp6b1I1XzFPWTlRT0dFLWhxeUFXZ1LSAbwBQVVfeXFMT01zYUZrUEVRbFNHeUpIYTBDNXY2UlczdzNBOHQ3TmZoVE9sS2R1aHBJTXJfRzJXeTJqRjlqM0g1dkJUNmhSSk1SUjg4Mk9KTmZ5eUtEZzBnMTcxNjFTb29GMUg1S00wd3M4SjhCbUE5OG1OTTdzVUtrRUhHenZObm52SlM2T3RYWHZJblJGUHVkanRxVTI5Z1Z1YVp1aDVoUGdMZGpiZXJTYjVFdDhhOUZrdkQ1b0pCZmdRUHo?oc=5
-
-- India will buy oil from Venezuela instead of Iran: Donald Trump's big claim | India News - Hindustan Times
-  India will buy oil from Venezuela instead of Iran: Donald Trump.
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmZzekpkV1p5R3lhS25oRVJfSFJ2aUZ3MDhUaEZUREpwVlRXMWw4VzJJTzZfTF9wZG1WYUZPTENMc3RVR3VTd2NkV29jU3JDT0JHTVpvZEFCcjltZzBIS2MxQ0laam92NXlCVUtvbm1vYlN1U2hVRmFyOVBCQnFBdm5SNVJEdVVhRjNwMnFja0tVcTRkckZLYlE2Y29pWk1xTHRyb2V1X0ZMOEJGYXREUHQ4VXA4cGs3UFZFbXExeXpvbGF5eUZ30gHMAUFVX3lxTE12TjlxSldpVnEwUXdmOUtDSmlXWHA1cDVMbjYwbVpOS0ZYdVJTTmR0dHgwdkpmWnVVaEhSSHJMUVVMN0c4aGxMQ21QeWxCREwtREhJTmoxZXlWdndEb05raU44YmowbUItbUg4UUcydTBRT0paSmNSallPZVc4UTQ0SWpWVWJRbzVnMkdBOTktSy1FVDltOFd1YURHX0NlMVpuUXhOaDcxNEFycW1fTU96Vzh0clBCOUtXaFE0eUM1TXJwSjRDYWxEazhneg?oc=5
-
-- India’s budget bets on infrastructure, manufacturing amid global trade war - Al Jazeera
-  India’s budget bets on infrastructure,
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlRLY2VXNXR4YllhM2RScUdnWVpYOGNSZHo5ZVZRYXdKNUhTVE94ZG5CZklsVVZBRGhmQTZoZ1doSFdZNy1XckRsM2duczRKdjBaRnh4OGRQbDNmdlpMaFRlQ05XemljZjNjY0lMNTY2ZG1Sc2d2QWhodzZob01hUnYzT3BNX3Z2Vk4xeUN6OE1xd1ZXdDdrRkNLclRaOV9VaG1QOWpod1BIV2pTUE9QVEtB0gG3AUFVX3lxTE9HcHdEVlEtd05PWXRBU1I0STlRbXdtMWtkV044QjEtZmp3RjROd1E0M0NwR2M0TU8xRWl3bTNHWU1RQl9JcHdGUHZpNFR6WmdDU2N0X0NhQmQxWUN1UUt6LUZ3OVozUHZHM0lFcUttYm9VQnBlanFrU24zTERFMDlvNXZZbmVPd1ZEc0VxNzFkZXBDZHNKclYwMlpTY20tQzNQT1VwQlZ3V3VWZFFOZHE2cHFVTTBROA?oc=5
-
-- Drug Haul Arrests, Immigration Ruling, Wings India Wrap, Koti ATM Shooting And More - Times of India
-  The Times of India reports on the latest developments in India. The
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOGlMN2Y3QjZtLVpaLWh3Zktya1pnYl95YlNSV3c1ejFjZDB4anZDNklBSFVORkhQTVJzLXdXcXBZQkVMRk9iTE9YczFZMGFkMDRZWGpXQ1dsdUI3R3dBbThIYUE4Nkt3QlJvY1JrbmI4S0k2Y3U2cjNPaEU5elU3SUx2amozNFpvRVlkczRJV0t5aFlqM3dpODI1RzFHRUw2WE5FTzBkVHRGdXRqQmpDMUg1YTM1WGM0SmtCbEpucXdFQTJ6eDZ4b1h0emFmYkdJb1ZqcGxMeHd3N0U5LXRHX1RwUHNjWTc1U2dpemY0ZjfSAfYBQVVfeXFMTjBzUXM4dXZIZWZKRl9zOHJ0aFI5VlJJWkUxdFQ4UGd5TGMxZjZ2ZmdHSjlxNDhjTHowZHpCVVl6b3VxVC04eUZlSEZiNEhqUERvSGVOWXJ5dHJVZ3NQWk9CU0ZnbWdXd254eDk2ZEdwQUpudnNZRG5Ib3ZvTE5wdkVhVGdMZUtMWTJ4Tmg5Tkx0YWNRSlBERzc2ejZ4TURwSERpQ3N1ZFJhRGVXUGpub3VGUVdiXzk4amJIeXFoZGhnejVrcE5WYy1laF91eHFrQXlXQzNSXzVhSmg5dXh4SWtEeDhZN0s0ZDVsd1F1dmRkc1RqNzV3?oc=5
-
-- Northeast's Industry Bodies Welcome Budget 2026, Support For Tourism - NDTV
-  Northeast's Industry Bodies
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxON1V6S2NjdmN4WktIVlFmeGlnYkhqcHA3a0U3WUVranFNSm1OZ0ZYcmpZWENsQkE4Yld4dk1QczZQQ0xJeUtZU2FjdzQzZENXbFNIbjQ0REx0bFdwTDUtZVJjdVlJYzNnVDNMcUFaLTJRU0JQNm9SVE0wQUlvNlFaci0yTy1aTndxajdqMzRRb1dnaTFYWHlRTmZmalp1TkpUZFE1S0IyRkczZllTS1hMZ2xBcUFCMUpYM1NkQXY4RnFLVUNDMFAyOXN30gHSAUFVX3lxTFBheVJCU3BYcVpYZVpRR2pINmpqX1p0bWZjdG1uRVBkMUxYYVVkenpEYjJadTExNi1uaWstMFJmaUF6WW1uX3oyaWhnb1huSnlIMU9KQ3VzenN2N3BEenJzNTBKR2JUXzQ3MThtNjJSOVE3cnlNUllGdTAzRTBOcHo1aVZ0VTd2Uldfb3hGR3dLZmw0QjlfNlplTzUxMmF4Y0ZpSjJseVB0c29OWEtiU3hwZEJMZHpmMVVXaHVrSWlkOXF0cGlFbGZnTUo3QnltV2x3UQ?oc=5
+- Conrad lauds ‘special focus’ on northeast - Times of India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlXdTU5YnJrbzcyeFpVckdLbHVsZENZUDJkVy1Cenh0bmFOMEpyOUdjR1VWaGtjRjk4REkxQWhZLWpaNU5fc2tqRC1pYkt0aFJyVTJDRW1vdlp6TEc3akRzYUpEdTFFMUtUWVY1cGlrdFRYQ3BrdUF2NmZqV25NcG82ZTdKaUVNN1NVaE5LTDJncEh5U1BKai1haWVFelk1UFhKRFZkbV85MnB5MVlMWlh4cDA0UdIBuwFBVV95cUxNbjRKdDJNbEJHT1BqV0c1YW4wTHVWQzVNb3JjWjFKUGRmaWFtdzN3Y1dqSGxUTjlRQnBJR2d5MnEtWFAySklwUkVzVEFySUFmNE1PU0FFbGZVR0ZNLVhSY1oxUG9oSFkzc3Nfal9OLVlLclBpc2VnQ0hra2lVVk5ET3Y5VUtTRkM4REpKblduQnpXVG9ORTMtVWZTMEJ1VGhUVFNob1JOYlhYRUhILWRNYXFtM1FTSG94YWtN?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-01 12:42:14 UTC_
+_Last updated: 2026-02-01 18:31:21 UTC_
