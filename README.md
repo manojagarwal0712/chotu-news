@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- ‘Surprising’ that Confident Group’s CJ Roy could ‘lay hands on gun’ during income tax search: Kerala CM demands judicial probe
+- 200 units of free power for 2.23 lakh J&K families: J&K LG Sinha greenlights NC’s big poll promise
   
-  🔗 https://indianexpress.com/article/india/confident-groups-cj-roy-death-kerala-cm-demands-judicial-probe-10508739/
+  🔗 https://indianexpress.com/article/india/jk-lg-sinha-greenlights-ncs-big-poll-promise-free-power-10509328/
 
-- At 90, Dalai Lama wins first-ever Grammy Award; says it is a ‘recognition of shared universal responsibility’
+- Centre plans 40 km underground rail lines to connect Northeast with rest of India: Ashwini Vaishnaw
   
-  🔗 https://indianexpress.com/article/india/chandigarh/at-90-dalai-lama-wins-first-grammy-award-10508725/
+  🔗 https://indianexpress.com/article/india/centre-plans-40-km-underground-rail-lines-along-strategic-corridor-linking-ne-with-rest-of-india-ashwini-vaishnaw-10509314/
 
-- Gold Today Rate, February 2: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- Govt approved 17 metro rail projects in last 5 years – check details here
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-february-2-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10508587/
+  🔗 https://indianexpress.com/article/india/govt-approved-17-metro-rail-projects-in-last-5-years-check-details-here-10509211/
 
-- Dense fog in Delhi, Haryana and Punjab disrupts flight operations; western disturbance likely to persist, says IMD
+- ‘Why are they scared?’: Rahul Gandhi’s attempt to read from magazine article on Doklam, Galwan in Lok Sabha sparks uproar
   
-  🔗 https://indianexpress.com/article/india/dense-fog-blankets-delhi-haryana-likely-to-persist-says-imd-10508531/
+  🔗 https://indianexpress.com/article/india/rahul-gandhi-attempt-to-read-from-magazine-article-on-doklam-galwan-lok-sabha-uproar-10509227/
 
-- Railway Budget 2026 Highlights: Safety, rolling stock, new lines, electrification in focus – check capex allocation
+- Railway Budget 2026: Check state-wise allocation – which state tops the list?
   
-  🔗 https://indianexpress.com/article/india/railway-budget-2026-safety-rolling-stock-new-lines-doubling-gauge-conversion-electrification-capex-allocation-10507986/
+  🔗 https://indianexpress.com/article/india/railway-budget-2026-check-state-wise-allocation-which-state-tops-the-list-10498548/
+
+- Users increasingly likely to follow AI chatbot’s advice without question, Anthropic study finds
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/users-follow-ai-chatbot-advice-without-question-anthropic-study-10509267/
+
+- Apple’s first foldable iPhone might be a flip-style device instead of book design: Report
+  
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/apple-foldable-iphone-flip-style-report-10509032/
 
 - Under investor pressure, Oracle may cut 30,000 jobs to bankroll AI infrastructure: Report
   
@@ -32,53 +40,57 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/india-hands-apple-a-win-by-letting-foreign-firms-fund-equipment-without-tax-risk-10508635/
 
-- How the AI boom could push up the price of your next PC
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-the-ai-boom-could-push-up-the-price-of-your-next-pc-10508593/
+- Disney beats estimates as parks and cruise business hits record sales
+  Walt Disney Co. reported sales and profit that beat estimates in the first quarter of its fiscal year. Record $10 billion in revenue from the
+  🔗 https://www.livemint.com/companies/news/disney-beats-estimates-as-parks-and-cruise-business-hits-record-sales-11770035590858.html
 
-- Cloud giants cheer Budget 2026 proposal for tax-free ride to use data centres in India
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/budget-2026-cloud-giants-cheer-tax-free-ride-data-centres-india-10507825/
+- Mint Explainer: Why quick commerce wants planned buys even as margins come under pressure
+  Mint explains why platforms are chasing bulk buys and what this trade-off means for
+  🔗 https://www.livemint.com/companies/news/quick-commerce-bulk-buying-swiggy-instmart-zepto-profitability-11770014400091.html
 
-- BRND.ME unfazed by quick commerce's private-label push as it charts India return
-  BRND.ME's core categories possess a level of brand loyalty and complexity that is difficult for
-  🔗 https://www.livemint.com/companies/start-ups/quick-commerce-private-labels-brnd-me-ipo-11769960017924.html
+- Delhi HC clears way to hear Centre’s $2.31-bn recovery appeal against RIL
+  RIL's objection that the Centre’s appeal was not maintainable was rejected.
+  🔗 https://www.livemint.com/companies/delhi-high-court-centre-2-31-billion-recovery-reliance-industries-11770022831564.html
 
-- Oracle Layoffs: Tech giant to slash 30,000 jobs as banks pull out from financing AI data centres
-  Several US banks have pulled off from lending to Oracle for expanding its AI data centres.
-  🔗 https://www.livemint.com/companies/news/oracle-layoffs-tech-giant-to-slash-30-000-jobs-as-banks-pull-out-from-financing-ai-data-centres-11769996619410.html
+- Oracle layoffs: Which departments will get affected? Here's what we know
+  Oracle reportedly plans to cut 20,000 to 30,000 jobs globally to focus on AI
+  🔗 https://www.livemint.com/companies/news/oracle-layoffs-which-departments-will-get-affected-heres-what-we-know-11770021582192.html
 
-- Rolls Royce Plan for Moon Nuclear Reactor Stalls, Telegraph Says
-  Rolls-Royce halted plan backed by millions in government funding to put a mini nuclear reactor on the Moon.
-  🔗 https://www.livemint.com/companies/rolls-royce-plan-for-moon-nuclear-reactor-stalls-telegraph-says-11769976510000.html
+- Maruti Suzuki records 12% rise in January sales to 2,36,963 units; Utility vehicle portion sales up 16% MoM
+  Maruti Suzuki recorded a 12% rise in its sales to 2,36,963 units on a month-on-month basis. Although the company's small car segment witnessed a marginal slide in sales
+  🔗 https://www.livemint.com/companies/news/maruti-suzuki-records-12-rise-in-january-sales-to-2-36-963-units-utility-vehicle-portion-sales-up-16-mom-11770021917797.html
 
-- Pro-Beijing Paper Blasts Panama’s Ruling Against CK Hutchison
-  Pro-Beijing newspaper slams decision by Panama's top court to void CK Hutchison Holdings Ltd.’s contract to operate two ports. It accuses the ruling of kow
-  🔗 https://www.livemint.com/companies/probeijing-paper-blasts-panama-s-ruling-against-ck-hutchison-11769976461932.html
+- Accretion Nutraveda IPO allotment to be finalised today: Check steps to track status; latest GMP
+  Accretion Nutraveda IPO was open for bidding from January 28 to January 30. The IPO was oversubscribed by 1.83 times on the final day of
+  🔗 https://www.livemint.com/market/ipo/accretion-nutraveda-ipo-allotment-to-be-finalised-today-check-steps-to-track-status-latest-gmp-11770033110208.html
 
-- Capgemini to Divest US Unit Criticized for Contracts With ICE
-  Capgemini SE plans to sell a US-based unit that’s facing scrutiny over its
-  🔗 https://www.livemint.com/companies/capgemini-to-divest-us-unit-criticized-for-contracts-with-ice-11769976455125.html
+- Indian stock market volatility persists as global risks and earnings weigh
+  Key factor affecting the performance of the domestic market is the lack of clarity over the US-India trade deal. The lack of a dual diplomatic relationship, and the deep depreciation
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-volatility-persists-as-global-risks-and-earnings-weigh-11770031158651.html
 
-- Vinay Rajani of HDFC Sec suggests these 2 stocks to sell in the near-term
-  The Indian stock market reacted tepidly after the budget announcement. Nifty 50 and BSE Sensex showed minor gains. Analysts suggest
-  🔗 https://www.livemint.com/market/stock-market-news/vinay-rajani-of-hdfc-sec-suggests-these-2-stocks-to-sell-in-the-nearterm-11770013988758.html
+- Nestle India’s premium growth reflects in its premium valuation
+  Nestle India is near its 52-week high, buoyed by impressive Q3FY26 results. With a strategic increase in advertising and a favourable market recovery,
+  🔗 https://www.livemint.com/market/mark-to-market/nestle-india-q3-results-share-price-outlook-11770026555702.html
 
-- ‘I am waiting with cash in hand,’ Robert Kiyosaki says as gold, silver, Bitcoin prices crash
-  Robert Kiyosaki encourages investors to seize market declines as chances to buy gold, silver, and Bitcoin. He highlights silver’s value
-  🔗 https://www.livemint.com/market/commodities/gold-silver-on-sale-robert-kiyosaki-says-waiting-with-cash-amid-the-gold-prices-silver-rate-bitcoin-price-crash-11770013040765.html
+- Why Morgan Stanley stayed overweight on Indian stocks post Budget 2026; prefers these 3 sectors
+  Morgan Stanley projects Budget will enhance cyclical growth through increased capital expenditure and structural reforms.
+  🔗 https://www.livemint.com/market/stock-market-news/why-morgan-stanley-stayed-overweight-on-indian-stocks-post-budget-2026-prefers-these-3-sectors-11770019399497.html
 
-- Budget-day selloff dents sentiment, but Goldman Sachs remains constructive on Indian stock market — Here's why
-  The Indian stock market is range-bound post the budget day crash. Higher transaction taxes and borrowing plans dampened investor sentiment. Goldman Sachs, remain optimistic about
-  🔗 https://www.livemint.com/market/stock-market-news/budgetday-selloff-dents-sentiment-but-goldman-sachs-remains-constructive-on-indian-stock-market-heres-why-11770011334086.html
+- Bajaj Housing Finance Q3 Results: PAT surges 21% YoY to  ₹665 crore; NII up 19%
+  Bajaj Housing Finance Ltd reported a 21% increase in net profit to  ₹665 crore for Q3 FY26. Total income rose 24% to   � 1,153
+  🔗 https://www.livemint.com/market/stock-market-news/bajaj-housing-finance-q3-results-pat-surges-21-yoy-to-rs-rs-665-crore-nii-up-19-11770029168647.html
 
-- Bajaj Housing Finance Q3 Results 2026 LIVE: Bajaj group stock down 2% ahead of results — Here's what to expect
-  Bajaj Housing Finance Q3 Results 2026 LIVE: Brokerages see over 20% jump in the net profit and the net
-  🔗 https://www.livemint.com/market/stock-market-news/bajaj-housing-finance-q3-results-2026-live-bajaj-housing-finance-q3-results-today-bajaj-housing-share-price-02-february-11770011459137.html
+- Grok Imagine 1.0 debuts with better video, audio and smarter prompts: Here's what all is upgraded
+   xAI has launched Grok Imagine 1.0, enabling 10-second AI videos at 720p with enhanced audio, expressive voices and smarter prompt understanding. The platform has already generated
+  🔗 https://www.livemint.com/technology/tech-news/grok-imagine-1-0-debuts-with-better-video-audio-and-smarter-prompts-heres-what-all-is-upgraded-11770031047513.html
 
-- Msafe Equipments IPO allotment likely to be finalised today; Latest GMP, 5 steps to check status
-  Msafe Equipments IPO allotment status can be verified via the registrar's website starting July 18, 2023. Allotment happens on February 2, shares listing on
-  🔗 https://www.livemint.com/market/ipo/msafe-equipments-ipo-allotment-msafe-equipments-ipo-allotment-status-msafe-equipments-ipo-gmp-11770011601922.html
+- Oppo K14x to launch in India on 10 February with 6,500mAh battery and 120Hz display: All you need to know
+  Oppo K14x is set to launch in India on 10 February with a 6.75-inch 120Hz display. MediaTek Dimensity 6300 chip, 50MP
+  🔗 https://www.livemint.com/technology/tech-news/oppo-k14x-to-launch-in-india-on-10-february-with-6-500mah-battery-and-120hz-display-all-you-need-to-know-11770025780119.html
+
+- Who is Peter Steinberger? Austrian engineer behind Reddit like viral AI platform Moltbook
+  Peter Steinberger, creator of the AI-focused app Moltbook, has a history of success with PSPDFKit. He designed Molt book to facilitate
+  🔗 https://www.livemint.com/technology/tech-news/who-is-peter-steinberger-austrian-engineer-behind-reddit-like-viral-ai-platform-moltbook-11770002005708.html
 
 - China executes 4 more members of Myanmar-based group in crackdown on scam operations
   China executes 4 more members of Myanmar-
@@ -88,37 +100,25 @@
   February is set to be an exciting month for smartphone launches. Samsung Galaxy S26, Realme 16, Vivo
   🔗 https://www.livemint.com/technology/tech-news/february-smartphone-guide-from-galaxy-s26-to-vivo-v70-list-of-key-phones-launching-this-month-11769997520685.html
 
-- iPhone Flip to launch soon? Report suggests Apple is working on a Galaxy Z Flip rival
-  Apple is reportedly planning a second-generation foldable iPhone. Leaks suggest features like a 5.5-inch outer display and dual 48MP cameras
-  🔗 https://www.livemint.com/technology/tech-news/iphone-flip-to-launch-soon-report-suggests-apple-is-working-on-a-galaxy-z-flip-rival-11769993817877.html
+- Bajaj Housing Q3 Results: PAT jumps 21% YoY to Rs 665 crore, NII rises 15%
+  Bajaj Housing Finance posted a strong Q3FY26, with net profit rising 21% and NII up 19%. Healthy loan and AUM
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-housing-q3-results-pat-jumps-21-yoy-to-rs-665-crore-nii-rises-15/articleshow/127861898.cms
 
-- Xbox reveals next week’s game releases for 2 to 6 February: Dragon Quest, Carmageddon and more
-  Next week's releases include Dragon Quest VII Reimagined, My Hero Academia: All’s Justice and Carmageddon: Rogue Shift. Xbox One, Xbox One and PC titles will be
-  🔗 https://www.livemint.com/technology/tech-news/xbox-reveals-next-week-s-game-releases-for-2-to-6-february-dragon-quest-carmageddon-and-more-11769965863546.html
+- Ather Energy Q3 Results: Loss narrows as sales rise on festive demand
+  Indian e-scooter manufacturer Ather Energy posted a ⁠narrower quarterly
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/ather-energy-q3-results-loss-narrows-as-sales-rise-on-festive-demand/articleshow/127861483.cms
 
-- Apple iPhone 18 Pro, Pro Max could arrive with bigger batteries and new A20 Pro chip
-  The iPhone 18 Pro and Pro Max are tipped for a September 2026 launch. India availability is expected soon after, alongside rumours of Apple’s first foldable iPhone.
-  🔗 https://www.livemint.com/technology/tech-news/apple-iphone-18-pro-pro-max-could-arrive-with-bigger-batteries-and-new-a20-pro-chip-11769952364506.html
+- US stock futures slide as commodity rout rattles markets
+  U.S. stock index futures fell on Monday, as a ⁠violent selloff in precious metals unsettled investors
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-futures-slide-as-commodity-rout-rattles-markets/articleshow/127861266.cms
 
-- Budget 2026 ticks all boxes, reasonable opportunity to invest in next 3-4 months: Prashant Jain
-  Prashant Jain said Union Budget 2026–27 ticks all the right boxes. He believes large-cap stocks are fairly valued. Jain believes long-term returns should track nominal GDP growth.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/budget-2026-ticks-all-boxes-reasonable-opportunity-to-invest-in-next-3-4-months-prashant-jain/articleshow/127854622.cms
+- Gainers &amp; Losers: Power Grid and Latent View among 5 top movers on Monday
+  Autos, metals and energy led gains, while action was seen in Power Grid, Latent View, Sund
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-power-grid-and-latent-view-among-5-top-movers-on-monday/slideshow/127861020.cms
 
-- NSE IPO: Temasek, LIC said to plan share sales in nearly Rs 23,000 crore issue
-  Temasek Holdings and Life Insurance Corporation of India are poised to be major sellers in the National Stock Exchange of India's potential $2.5 billion IPO. State Bank of India and SBI Capital Markets are also expected to participate in
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-temasek-lic-said-to-plan-share-sales-in-2-5-billion-issue/articleshow/127854396.cms
-
-- IT majors may stick with buybacks despite tax changes, says Sushovan Nayak
-  Indian IT firms are likely to favor share buybacks over dividends following recent tax reforms. Market expert Sushovan Nayak believes the new rules make buybacks more tax-efficient for both companies and many shareholders.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/it-majors-may-stick-with-buybacks-despite-tax-changes-says-sushovan-nayak/articleshow/127853964.cms
-
-- Latent View Analytics shares rally 8% after Q3FY26 profit up 19% YoY
-  Latent View Analytics shares jumped nearly 8% after the company posted a 19% year-on-year rise in Q3FY26 profit. Improved margins, new client additions and rising institutional participation
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/latent-view-analytics-shares-rally-8-after-q3fy26-profit-up-19-yoy/articleshow/127853925.cms
-
-- Budget crash? Don't panic. Analysts spot 35 structural stock picks to ride out the storm
-  Despite a sharp post-Budget market sell-off, brokerages remain bullish on structurally strong themes. With capital expenditure rising and policy continuity intact, analysts have identified 35 stocks positioned to benefit from India
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/budget-crash-dont-panic-analysts-spot-35-structural-stock-picks-to-ride-out-the-storm/articleshow/127853839.cms
+- Watch out! Promoters reduce stakes in 12 stocks during December quarter
+  Promoter shareholding declined across 12 Nifty 500 stocks during the December 2025 quarter. While stake reductions may reflect strategic or fundraising decisions, such moves are closely tracked by investors.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/watch-out-promoters-reduce-stakes-in-12-stocks-during-december-quarter/slideshow/127860147.cms
 
 - India Slashes Fund To Bangladesh By Half Amid Diplomatic Tension - NDTV
   India Slashes Fund To Bangladesh By Half
@@ -128,37 +128,17 @@
   India’s budget bets on infrastructure,
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlRLY2VXNXR4YllhM2RScUdnWVpYOGNSZHo5ZVZRYXdKNUhTVE94ZG5CZklsVVZBRGhmQTZoZ1doSFdZNy1XckRsM2duczRKdjBaRnh4OGRQbDNmdlpMaFRlQ05XemljZjNjY0lMNTY2ZG1Sc2d2QWhodzZob01hUnYzT3BNX3Z2Vk4xeUN6OE1xd1ZXdDdrRkNLclRaOV9VaG1QOWpod1BIV2pTUE9QVEtB0gG3AUFVX3lxTE9HcHdEVlEtd05PWXRBU1I0STlRbXdtMWtkV044QjEtZmp3RjROd1E0M0NwR2M0TU8xRWl3bTNHWU1RQl9JcHdGUHZpNFR6WmdDU2N0X0NhQmQxWUN1UUt6LUZ3OVozUHZHM0lFcUttYm9VQnBlanFrU24zTERFMDlvNXZZbmVPd1ZEc0VxNzFkZXBDZHNKclYwMlpTY20tQzNQT1VwQlZ3V3VWZFFOZHE2cHFVTTBROA?oc=5
 
-- 'Something happened behind the curtains': Sanjay Raut raises grave doubts on Ajit Pawar's death - Times of India
-  'Something happened behind the curtains': Sanjay Raut raises grave doubts
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdFFsTWQzQVF0QWUxc3ZGcXhkV254dGJzcmV2ZmlKeXZKZjF4TElJNkdnUGh0a290VTB3OThQY21IX0Y3c3JxOG1LM0pIaGV3MUgzN3dwTHBvVW93OGFUUTMwVENVRUdqdTJHenBBSnRnRTA2SWhyYnozdG1xZTR2Y29LSEZiSTBZeVdpSm9pbHp0MjFXMjZCMVplemlpcGV1VGc1MXBIM1B5c2RrUm5tLW1yZWY4VGIzY3VFWTN0YWRCaHpWb2JiWU9fdEdpUW1vWFZ2NTBjOXZUa0ItdlVQOVdiRlc1RGNGQnp3ZDFSajfSAfYBQVVfeXFMUDNGVUNRdC1fTV9WMFBtUnA2TG1fY0RaU1hOUnlnckdjZDNESUt4bXA3cXkzb0RXbFFtWnNxT0lwOVM4Z252bVdtLU9iZzIxOXQ2RWtQS3NBTlhjNzhfV194Qld2UlpfWkM5SmRfV1VQQmFRbGZKcjNZcWFCMEJmWllFU2JZMDZZa1dzbW9VZEtDWHdUX0syTVlXdmlTc3B3RnFIUXNjNEl5V2Z0ZktTb3phWmZaY0lJR084SXUwbzFXeWhHNEZOQ3VFdnVYanZmOC1LMnBkUzE3Y2dGeU1Nb1BfVUZqYnprSDFfQkJZRVNCVVp6S0hB?oc=5
+- Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir; Sanjay Raut calls Ajit Pawar’s death ‘suspicious’; & more - The Times of India
+  Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir. Sanjay Raut calls
+  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPT3BFaV9BaGRlMGw3S2ptb1FjZEdza0IyUFVJRGd1SkNrbWhBMWpkQ0F2bWF1YmxOdDVuUXhYQjRKdVlDVmptVzdyZVVaWDFVMGptbEZIVmtQSUJVTVpjN0RwMDRoejJXdWdYWXNSUXgwM1lWakhHVlhMa1hLVDVlYlBkTnN0bDMyZ2I1bkRWZ1N5Y1pkQ05WbGJjN0FBaUlFa1ZLMThid1VZSmx3TklMMHVPclBnNFNNWWVFdHYyT3UxNjhhMlA0LW13MlFMSTVLRHA1MV9Wczd1RWNnbWNhdGg3TDdNazJZNzVlV2RWcXhtLVFlUmgzbDk3Rm5OTllKZFVPNDFVVVBIZ20xSVd5b0MtcTdmaEM3cTlxSWF5MnhZM1F5X2c?oc=5
 
-- Momo For Rs 85 Lakh? UP Boy Gives Away Family Jewellery To Street Vendor - NDTV
-  Momo For Rs 85 Lakh? UP Boy Gives
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFRqbFE0TUNzU0RoWVo0cUJxSjdFdmJPVnpac3dtZFY3a2ZhSS0td0EwSWdBaS1sc1J1UVQzYWdyOVdMWEdrY2o5Um5yUk9pT0xyelFyN25rVnotUDBickU5Ym1Ldm5xYjhFSDFBVU12OWFGU3V4UElMc0h6d0Z2Y2VaMHhFU3VfMkdHS240NnJDeGtpdk5ycDVlbW5vMlpFeE9OM3ExNmXSAbABQVVfeXFMUFQ5bnJrSlVqTlBQUUt6SHc3TGh6VEgzdUVZSWFLalhCSzM1UnJRcG00M0tZclNYdzN4eWQtSl9hTTRYcUIwQktRX2gxYkJ5MVY0ZzJjcXNjUzVQRDBiZ0QtTEpjRVE2a3JDejhMMEs2cFNZMGp5Y285dE1weG5aWmp5R3FKUlZXTW5SeDBfSUZYWk1XZm5HNWs4NGYwcGxXYU5VZElfMFZQMTZUWFM2V28?oc=5
+- Singapore Is The World's Most Responsible Nation In 2026. Where Does India Stand? - NDTV
+  Singapore Is The World's Most Responsible Nation In
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE8tRWYtekJXMmRxYk1PdkhoZjNnazlOX3dOMnQ4Q2d2MTIzQUFSVjZBNURSRDlaMXRJc1NoZDJQc2xDTnpqUXgwZk93dW0xalJKYWdfNGtCQkRYN1g5T0hLWlB0R21ybjNJOTVfYTBNbGFUckhndTRUUXNOQmJNcmJ0SEpSTGZRYTBUaFhFR3Y2T1RwTHVnc1JpOU1pNWtvVmZ3TzFUZ0RXUWpSNElKVHRSeFY3Z9IBvgFBVV95cUxNTHVQTXV5VUdRS3BYTDJIZWtnVHlaaFV6R2NKYWx2RnRUNFkwRWQ0b0xDUDVaQXM0c2JoTDc3bXZRRnFheWpqdWk4YTgwOVc3WXJFNWo5M09WaHlrSDRTbTBlZ0pvU1gtb3Q5Zk5wa2t6YWJ6Q1hXUEhCSkFLa0h5eFU3bVlKOHFHY0xyejlTM2ZEbEVjeXNlUk9paDBzLTBYLXZtbDBTQUE2OWZ4Z2ZxNU0tMWFTa1ZXT3E0LXdn?oc=5
 
-- Should You Buy Gold And Silver Now, Or Will Prices Drop Further? - NDTV
-  Should You Buy Gold And Silver Now, Or Will
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWZBSm1QRWVtcERqOHZrWUNhLXdfWVVUQ2tRLUNON1BlUGlQUXVRSkVJQ0JMSGxIZVdIYks5UmwxSXN2QjJWZzlxNFZOMk1HcU5kSU5rSjRkU083Q3NLcE9xTXBPWmVCbXVGVE50X2RadmZVTm5ON3NxQmFjVHplVmxjaUxvTk90UnV1TWFRZDZILTlfVDMxYnJnRUVnN0g0b2RyblZB0gGuAUFVX3lxTE4wVFI4Z2ExZ05LQ2ZGRjFpWFVQMGthNm9oakZKWjIyZU1PT2RSdlB1bXYyMVItNDBhaEwtZjhTWFhKMFhTdGNJdmdMb19FNEZhLVJxM0hteEdpVE1QbjVGNHl1bFNBSmRudzZnX1VLWW5rbzJydmZGQkEtMmJsWElqQ2xJOFBiUEhQVWJ6alljbVhoeHZhTlpQOExjZmhJbHlqNkg2M0huWjc1MEZTQQ?oc=5
-
-- India Slashes Fund To Bangladesh By Half Amid Diplomatic Tension - NDTV
-  India Slashes Fund To Bangladesh By Half
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM1RhUWllQWhQQWYyNEQwc0dQbmlxWDJPMnlnQ3ItT2FPcXVFQWxKM3B0VG0wTFp1dGs1ZkVRaG1WcTROVVlYR1hDZUcxeDd5bUNHaVBnVWQwcjNvQXlJN0t5YVNOeVNyakZiVzdUczhDclFqR0NiOGlPZldQaGdVaVlMWDFEMC0wTTVlOWhLVWJ0MzVYMUdMZ0I2Wjh5LTJJSnU1bEVrTE5kZEJ5UmhuMzJXU3VWeHVIeGxNeXNIWk7SAcgBQVVfeXFMTjBIWDhfZEw5T193VWplY042RmNlWUVZOGx3cnFuZlF2blo3U0pfTTdibF82Z2ZVWktMWl8yZVNRb0dHemxYVnk4OUpFWGE1WUxEWEs1M3l1QUZ2VE8zV3gxbGVmdHV1U1lmbDRRTGZPWnNqR2NmWnAtaWxQdmx5WU1qenJzRFh0TXVFSFFXRTVJblJUNmZuTHVscUF5MEFTMnFTYlFrWVlqTjlpTEJ0ZVloMlUyRzhJZmNZNEZsWTZaSVY5X2NiZ0s?oc=5
-
-- India’s budget bets on infrastructure, manufacturing amid global trade war - Al Jazeera
-  India’s budget bets on infrastructure,
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlRLY2VXNXR4YllhM2RScUdnWVpYOGNSZHo5ZVZRYXdKNUhTVE94ZG5CZklsVVZBRGhmQTZoZ1doSFdZNy1XckRsM2duczRKdjBaRnh4OGRQbDNmdlpMaFRlQ05XemljZjNjY0lMNTY2ZG1Sc2d2QWhodzZob01hUnYzT3BNX3Z2Vk4xeUN6OE1xd1ZXdDdrRkNLclRaOV9VaG1QOWpod1BIV2pTUE9QVEtB0gG3AUFVX3lxTE9HcHdEVlEtd05PWXRBU1I0STlRbXdtMWtkV044QjEtZmp3RjROd1E0M0NwR2M0TU8xRWl3bTNHWU1RQl9JcHdGUHZpNFR6WmdDU2N0X0NhQmQxWUN1UUt6LUZ3OVozUHZHM0lFcUttYm9VQnBlanFrU24zTERFMDlvNXZZbmVPd1ZEc0VxNzFkZXBDZHNKclYwMlpTY20tQzNQT1VwQlZ3V3VWZFFOZHE2cHFVTTBROA?oc=5
-
-- 'Something happened behind the curtains': Sanjay Raut raises grave doubts on Ajit Pawar's death - Times of India
-  'Something happened behind the curtains': Sanjay Raut raises grave doubts
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdFFsTWQzQVF0QWUxc3ZGcXhkV254dGJzcmV2ZmlKeXZKZjF4TElJNkdnUGh0a290VTB3OThQY21IX0Y3c3JxOG1LM0pIaGV3MUgzN3dwTHBvVW93OGFUUTMwVENVRUdqdTJHenBBSnRnRTA2SWhyYnozdG1xZTR2Y29LSEZiSTBZeVdpSm9pbHp0MjFXMjZCMVplemlpcGV1VGc1MXBIM1B5c2RrUm5tLW1yZWY4VGIzY3VFWTN0YWRCaHpWb2JiWU9fdEdpUW1vWFZ2NTBjOXZUa0ItdlVQOVdiRlc1RGNGQnp3ZDFSajfSAfYBQVVfeXFMUDNGVUNRdC1fTV9WMFBtUnA2TG1fY0RaU1hOUnlnckdjZDNESUt4bXA3cXkzb0RXbFFtWnNxT0lwOVM4Z252bVdtLU9iZzIxOXQ2RWtQS3NBTlhjNzhfV194Qld2UlpfWkM5SmRfV1VQQmFRbGZKcjNZcWFCMEJmWllFU2JZMDZZa1dzbW9VZEtDWHdUX0syTVlXdmlTc3B3RnFIUXNjNEl5V2Z0ZktTb3phWmZaY0lJR084SXUwbzFXeWhHNEZOQ3VFdnVYanZmOC1LMnBkUzE3Y2dGeU1Nb1BfVUZqYnprSDFfQkJZRVNCVVp6S0hB?oc=5
-
-- Momo For Rs 85 Lakh? UP Boy Gives Away Family Jewellery To Street Vendor - NDTV
-  Momo For Rs 85 Lakh? UP Boy Gives
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFRqbFE0TUNzU0RoWVo0cUJxSjdFdmJPVnpac3dtZFY3a2ZhSS0td0EwSWdBaS1sc1J1UVQzYWdyOVdMWEdrY2o5Um5yUk9pT0xyelFyN25rVnotUDBickU5Ym1Ldm5xYjhFSDFBVU12OWFGU3V4UElMc0h6d0Z2Y2VaMHhFU3VfMkdHS240NnJDeGtpdk5ycDVlbW5vMlpFeE9OM3ExNmXSAbABQVVfeXFMUFQ5bnJrSlVqTlBQUUt6SHc3TGh6VEgzdUVZSWFLalhCSzM1UnJRcG00M0tZclNYdzN4eWQtSl9hTTRYcUIwQktRX2gxYkJ5MVY0ZzJjcXNjUzVQRDBiZ0QtTEpjRVE2a3JDejhMMEs2cFNZMGp5Y285dE1weG5aWmp5R3FKUlZXTW5SeDBfSUZYWk1XZm5HNWs4NGYwcGxXYU5VZElfMFZQMTZUWFM2V28?oc=5
-
-- Should You Buy Gold And Silver Now, Or Will Prices Drop Further? - NDTV
-  Should You Buy Gold And Silver Now, Or Will
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWZBSm1QRWVtcERqOHZrWUNhLXdfWVVUQ2tRLUNON1BlUGlQUXVRSkVJQ0JMSGxIZVdIYks5UmwxSXN2QjJWZzlxNFZOMk1HcU5kSU5rSjRkU083Q3NLcE9xTXBPWmVCbXVGVE50X2RadmZVTm5ON3NxQmFjVHplVmxjaUxvTk90UnV1TWFRZDZILTlfVDMxYnJnRUVnN0g0b2RyblZB0gGuAUFVX3lxTE4wVFI4Z2ExZ05LQ2ZGRjFpWFVQMGthNm9oakZKWjIyZU1PT2RSdlB1bXYyMVItNDBhaEwtZjhTWFhKMFhTdGNJdmdMb19FNEZhLVJxM0hteEdpVE1QbjVGNHl1bFNBSmRudzZnX1VLWW5rbzJydmZGQkEtMmJsWElqQ2xJOFBiUEhQVWJ6alljbVhoeHZhTlpQOExjZmhJbHlqNkg2M0huWjc1MEZTQQ?oc=5
+- Honda Cars India Posts 6,941 Unit Sales In January 2026 - Details - NDTV
+  Honda Cars India Posts 6,941 Unit
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjJhTVVxSFlpbDhPak1OZmZqa3ZvQnZoeTVZdUFqcS1DLXl3NDFOWnp1RkQzZGdnbzJUdzJzU1phOVh0SkZjQkExTk4tX1RBLUNGeTRzNko1cnlMZlM5bjE0dThkOE1reHFHV2hHc2ZxREUzX0JwSTNRa0ZYWmpmMkZya3ZwVWxBWTVKam9WMF9oRWdEcDZybGgwdjFPSFnSAacBQVVfeXFMTS1HRDB0OXNuT0djVTBVTkZLZ3lNVlhKUW91ZmI2UG9ZTDhKbEotblQyYXhaNC03eVVyWThDX05rXzRSWENNYTBoS1JIQldzSTVCd3NVZk90bm1NQUE4QlRYUGppTW9tUUFQVlFvMnlEc1Q4d2diWUl6akNQNC1LVXlCUGtTbl93cXZGOVczOVRjeWxmZVJpVkQ5SkVJOWdjMlYyN2kxY2s?oc=5
 
 - India Slashes Fund To Bangladesh By Half Amid Diplomatic Tension - NDTV
   India Slashes Fund To Bangladesh By Half
@@ -168,37 +148,17 @@
   India’s budget bets on infrastructure,
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlRLY2VXNXR4YllhM2RScUdnWVpYOGNSZHo5ZVZRYXdKNUhTVE94ZG5CZklsVVZBRGhmQTZoZ1doSFdZNy1XckRsM2duczRKdjBaRnh4OGRQbDNmdlpMaFRlQ05XemljZjNjY0lMNTY2ZG1Sc2d2QWhodzZob01hUnYzT3BNX3Z2Vk4xeUN6OE1xd1ZXdDdrRkNLclRaOV9VaG1QOWpod1BIV2pTUE9QVEtB0gG3AUFVX3lxTE9HcHdEVlEtd05PWXRBU1I0STlRbXdtMWtkV044QjEtZmp3RjROd1E0M0NwR2M0TU8xRWl3bTNHWU1RQl9JcHdGUHZpNFR6WmdDU2N0X0NhQmQxWUN1UUt6LUZ3OVozUHZHM0lFcUttYm9VQnBlanFrU24zTERFMDlvNXZZbmVPd1ZEc0VxNzFkZXBDZHNKclYwMlpTY20tQzNQT1VwQlZ3V3VWZFFOZHE2cHFVTTBROA?oc=5
 
-- 'Something happened behind the curtains': Sanjay Raut raises grave doubts on Ajit Pawar's death - Times of India
-  'Something happened behind the curtains': Sanjay Raut raises grave doubts
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdFFsTWQzQVF0QWUxc3ZGcXhkV254dGJzcmV2ZmlKeXZKZjF4TElJNkdnUGh0a290VTB3OThQY21IX0Y3c3JxOG1LM0pIaGV3MUgzN3dwTHBvVW93OGFUUTMwVENVRUdqdTJHenBBSnRnRTA2SWhyYnozdG1xZTR2Y29LSEZiSTBZeVdpSm9pbHp0MjFXMjZCMVplemlpcGV1VGc1MXBIM1B5c2RrUm5tLW1yZWY4VGIzY3VFWTN0YWRCaHpWb2JiWU9fdEdpUW1vWFZ2NTBjOXZUa0ItdlVQOVdiRlc1RGNGQnp3ZDFSajfSAfYBQVVfeXFMUDNGVUNRdC1fTV9WMFBtUnA2TG1fY0RaU1hOUnlnckdjZDNESUt4bXA3cXkzb0RXbFFtWnNxT0lwOVM4Z252bVdtLU9iZzIxOXQ2RWtQS3NBTlhjNzhfV194Qld2UlpfWkM5SmRfV1VQQmFRbGZKcjNZcWFCMEJmWllFU2JZMDZZa1dzbW9VZEtDWHdUX0syTVlXdmlTc3B3RnFIUXNjNEl5V2Z0ZktTb3phWmZaY0lJR084SXUwbzFXeWhHNEZOQ3VFdnVYanZmOC1LMnBkUzE3Y2dGeU1Nb1BfVUZqYnprSDFfQkJZRVNCVVp6S0hB?oc=5
+- Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir; Sanjay Raut calls Ajit Pawar’s death ‘suspicious’; & more - The Times of India
+  Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir. Sanjay Raut calls
+  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPT3BFaV9BaGRlMGw3S2ptb1FjZEdza0IyUFVJRGd1SkNrbWhBMWpkQ0F2bWF1YmxOdDVuUXhYQjRKdVlDVmptVzdyZVVaWDFVMGptbEZIVmtQSUJVTVpjN0RwMDRoejJXdWdYWXNSUXgwM1lWakhHVlhMa1hLVDVlYlBkTnN0bDMyZ2I1bkRWZ1N5Y1pkQ05WbGJjN0FBaUlFa1ZLMThid1VZSmx3TklMMHVPclBnNFNNWWVFdHYyT3UxNjhhMlA0LW13MlFMSTVLRHA1MV9Wczd1RWNnbWNhdGg3TDdNazJZNzVlV2RWcXhtLVFlUmgzbDk3Rm5OTllKZFVPNDFVVVBIZ20xSVd5b0MtcTdmaEM3cTlxSWF5MnhZM1F5X2c?oc=5
 
-- Momo For Rs 85 Lakh? UP Boy Gives Away Family Jewellery To Street Vendor - NDTV
-  Momo For Rs 85 Lakh? UP Boy Gives
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFRqbFE0TUNzU0RoWVo0cUJxSjdFdmJPVnpac3dtZFY3a2ZhSS0td0EwSWdBaS1sc1J1UVQzYWdyOVdMWEdrY2o5Um5yUk9pT0xyelFyN25rVnotUDBickU5Ym1Ldm5xYjhFSDFBVU12OWFGU3V4UElMc0h6d0Z2Y2VaMHhFU3VfMkdHS240NnJDeGtpdk5ycDVlbW5vMlpFeE9OM3ExNmXSAbABQVVfeXFMUFQ5bnJrSlVqTlBQUUt6SHc3TGh6VEgzdUVZSWFLalhCSzM1UnJRcG00M0tZclNYdzN4eWQtSl9hTTRYcUIwQktRX2gxYkJ5MVY0ZzJjcXNjUzVQRDBiZ0QtTEpjRVE2a3JDejhMMEs2cFNZMGp5Y285dE1weG5aWmp5R3FKUlZXTW5SeDBfSUZYWk1XZm5HNWs4NGYwcGxXYU5VZElfMFZQMTZUWFM2V28?oc=5
+- Singapore Is The World's Most Responsible Nation In 2026. Where Does India Stand? - NDTV
+  Singapore Is The World's Most Responsible Nation In
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE8tRWYtekJXMmRxYk1PdkhoZjNnazlOX3dOMnQ4Q2d2MTIzQUFSVjZBNURSRDlaMXRJc1NoZDJQc2xDTnpqUXgwZk93dW0xalJKYWdfNGtCQkRYN1g5T0hLWlB0R21ybjNJOTVfYTBNbGFUckhndTRUUXNOQmJNcmJ0SEpSTGZRYTBUaFhFR3Y2T1RwTHVnc1JpOU1pNWtvVmZ3TzFUZ0RXUWpSNElKVHRSeFY3Z9IBvgFBVV95cUxNTHVQTXV5VUdRS3BYTDJIZWtnVHlaaFV6R2NKYWx2RnRUNFkwRWQ0b0xDUDVaQXM0c2JoTDc3bXZRRnFheWpqdWk4YTgwOVc3WXJFNWo5M09WaHlrSDRTbTBlZ0pvU1gtb3Q5Zk5wa2t6YWJ6Q1hXUEhCSkFLa0h5eFU3bVlKOHFHY0xyejlTM2ZEbEVjeXNlUk9paDBzLTBYLXZtbDBTQUE2OWZ4Z2ZxNU0tMWFTa1ZXT3E0LXdn?oc=5
 
-- Should You Buy Gold And Silver Now, Or Will Prices Drop Further? - NDTV
-  Should You Buy Gold And Silver Now, Or Will
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWZBSm1QRWVtcERqOHZrWUNhLXdfWVVUQ2tRLUNON1BlUGlQUXVRSkVJQ0JMSGxIZVdIYks5UmwxSXN2QjJWZzlxNFZOMk1HcU5kSU5rSjRkU083Q3NLcE9xTXBPWmVCbXVGVE50X2RadmZVTm5ON3NxQmFjVHplVmxjaUxvTk90UnV1TWFRZDZILTlfVDMxYnJnRUVnN0g0b2RyblZB0gGuAUFVX3lxTE4wVFI4Z2ExZ05LQ2ZGRjFpWFVQMGthNm9oakZKWjIyZU1PT2RSdlB1bXYyMVItNDBhaEwtZjhTWFhKMFhTdGNJdmdMb19FNEZhLVJxM0hteEdpVE1QbjVGNHl1bFNBSmRudzZnX1VLWW5rbzJydmZGQkEtMmJsWElqQ2xJOFBiUEhQVWJ6alljbVhoeHZhTlpQOExjZmhJbHlqNkg2M0huWjc1MEZTQQ?oc=5
-
-- India Slashes Fund To Bangladesh By Half Amid Diplomatic Tension - NDTV
-  India Slashes Fund To Bangladesh By Half
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM1RhUWllQWhQQWYyNEQwc0dQbmlxWDJPMnlnQ3ItT2FPcXVFQWxKM3B0VG0wTFp1dGs1ZkVRaG1WcTROVVlYR1hDZUcxeDd5bUNHaVBnVWQwcjNvQXlJN0t5YVNOeVNyakZiVzdUczhDclFqR0NiOGlPZldQaGdVaVlMWDFEMC0wTTVlOWhLVWJ0MzVYMUdMZ0I2Wjh5LTJJSnU1bEVrTE5kZEJ5UmhuMzJXU3VWeHVIeGxNeXNIWk7SAcgBQVVfeXFMTjBIWDhfZEw5T193VWplY042RmNlWUVZOGx3cnFuZlF2blo3U0pfTTdibF82Z2ZVWktMWl8yZVNRb0dHemxYVnk4OUpFWGE1WUxEWEs1M3l1QUZ2VE8zV3gxbGVmdHV1U1lmbDRRTGZPWnNqR2NmWnAtaWxQdmx5WU1qenJzRFh0TXVFSFFXRTVJblJUNmZuTHVscUF5MEFTMnFTYlFrWVlqTjlpTEJ0ZVloMlUyRzhJZmNZNEZsWTZaSVY5X2NiZ0s?oc=5
-
-- India’s budget bets on infrastructure, manufacturing amid global trade war - Al Jazeera
-  India’s budget bets on infrastructure,
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlRLY2VXNXR4YllhM2RScUdnWVpYOGNSZHo5ZVZRYXdKNUhTVE94ZG5CZklsVVZBRGhmQTZoZ1doSFdZNy1XckRsM2duczRKdjBaRnh4OGRQbDNmdlpMaFRlQ05XemljZjNjY0lMNTY2ZG1Sc2d2QWhodzZob01hUnYzT3BNX3Z2Vk4xeUN6OE1xd1ZXdDdrRkNLclRaOV9VaG1QOWpod1BIV2pTUE9QVEtB0gG3AUFVX3lxTE9HcHdEVlEtd05PWXRBU1I0STlRbXdtMWtkV044QjEtZmp3RjROd1E0M0NwR2M0TU8xRWl3bTNHWU1RQl9JcHdGUHZpNFR6WmdDU2N0X0NhQmQxWUN1UUt6LUZ3OVozUHZHM0lFcUttYm9VQnBlanFrU24zTERFMDlvNXZZbmVPd1ZEc0VxNzFkZXBDZHNKclYwMlpTY20tQzNQT1VwQlZ3V3VWZFFOZHE2cHFVTTBROA?oc=5
-
-- 'Something happened behind the curtains': Sanjay Raut raises grave doubts on Ajit Pawar's death - Times of India
-  'Something happened behind the curtains': Sanjay Raut raises grave doubts
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdFFsTWQzQVF0QWUxc3ZGcXhkV254dGJzcmV2ZmlKeXZKZjF4TElJNkdnUGh0a290VTB3OThQY21IX0Y3c3JxOG1LM0pIaGV3MUgzN3dwTHBvVW93OGFUUTMwVENVRUdqdTJHenBBSnRnRTA2SWhyYnozdG1xZTR2Y29LSEZiSTBZeVdpSm9pbHp0MjFXMjZCMVplemlpcGV1VGc1MXBIM1B5c2RrUm5tLW1yZWY4VGIzY3VFWTN0YWRCaHpWb2JiWU9fdEdpUW1vWFZ2NTBjOXZUa0ItdlVQOVdiRlc1RGNGQnp3ZDFSajfSAfYBQVVfeXFMUDNGVUNRdC1fTV9WMFBtUnA2TG1fY0RaU1hOUnlnckdjZDNESUt4bXA3cXkzb0RXbFFtWnNxT0lwOVM4Z252bVdtLU9iZzIxOXQ2RWtQS3NBTlhjNzhfV194Qld2UlpfWkM5SmRfV1VQQmFRbGZKcjNZcWFCMEJmWllFU2JZMDZZa1dzbW9VZEtDWHdUX0syTVlXdmlTc3B3RnFIUXNjNEl5V2Z0ZktTb3phWmZaY0lJR084SXUwbzFXeWhHNEZOQ3VFdnVYanZmOC1LMnBkUzE3Y2dGeU1Nb1BfVUZqYnprSDFfQkJZRVNCVVp6S0hB?oc=5
-
-- Momo For Rs 85 Lakh? UP Boy Gives Away Family Jewellery To Street Vendor - NDTV
-  Momo For Rs 85 Lakh? UP Boy Gives
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFRqbFE0TUNzU0RoWVo0cUJxSjdFdmJPVnpac3dtZFY3a2ZhSS0td0EwSWdBaS1sc1J1UVQzYWdyOVdMWEdrY2o5Um5yUk9pT0xyelFyN25rVnotUDBickU5Ym1Ldm5xYjhFSDFBVU12OWFGU3V4UElMc0h6d0Z2Y2VaMHhFU3VfMkdHS240NnJDeGtpdk5ycDVlbW5vMlpFeE9OM3ExNmXSAbABQVVfeXFMUFQ5bnJrSlVqTlBQUUt6SHc3TGh6VEgzdUVZSWFLalhCSzM1UnJRcG00M0tZclNYdzN4eWQtSl9hTTRYcUIwQktRX2gxYkJ5MVY0ZzJjcXNjUzVQRDBiZ0QtTEpjRVE2a3JDejhMMEs2cFNZMGp5Y285dE1weG5aWmp5R3FKUlZXTW5SeDBfSUZYWk1XZm5HNWs4NGYwcGxXYU5VZElfMFZQMTZUWFM2V28?oc=5
-
-- Should You Buy Gold And Silver Now, Or Will Prices Drop Further? - NDTV
-  Should You Buy Gold And Silver Now, Or Will
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWZBSm1QRWVtcERqOHZrWUNhLXdfWVVUQ2tRLUNON1BlUGlQUXVRSkVJQ0JMSGxIZVdIYks5UmwxSXN2QjJWZzlxNFZOMk1HcU5kSU5rSjRkU083Q3NLcE9xTXBPWmVCbXVGVE50X2RadmZVTm5ON3NxQmFjVHplVmxjaUxvTk90UnV1TWFRZDZILTlfVDMxYnJnRUVnN0g0b2RyblZB0gGuAUFVX3lxTE4wVFI4Z2ExZ05LQ2ZGRjFpWFVQMGthNm9oakZKWjIyZU1PT2RSdlB1bXYyMVItNDBhaEwtZjhTWFhKMFhTdGNJdmdMb19FNEZhLVJxM0hteEdpVE1QbjVGNHl1bFNBSmRudzZnX1VLWW5rbzJydmZGQkEtMmJsWElqQ2xJOFBiUEhQVWJ6alljbVhoeHZhTlpQOExjZmhJbHlqNkg2M0huWjc1MEZTQQ?oc=5
+- Honda Cars India Posts 6,941 Unit Sales In January 2026 - Details - NDTV
+  Honda Cars India Posts 6,941 Unit
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjJhTVVxSFlpbDhPak1OZmZqa3ZvQnZoeTVZdUFqcS1DLXl3NDFOWnp1RkQzZGdnbzJUdzJzU1phOVh0SkZjQkExTk4tX1RBLUNGeTRzNko1cnlMZlM5bjE0dThkOE1reHFHV2hHc2ZxREUzX0JwSTNRa0ZYWmpmMkZya3ZwVWxBWTVKam9WMF9oRWdEcDZybGgwdjFPSFnSAacBQVVfeXFMTS1HRDB0OXNuT0djVTBVTkZLZ3lNVlhKUW91ZmI2UG9ZTDhKbEotblQyYXhaNC03eVVyWThDX05rXzRSWENNYTBoS1JIQldzSTVCd3NVZk90bm1NQUE4QlRYUGppTW9tUUFQVlFvMnlEc1Q4d2diWUl6akNQNC1LVXlCUGtTbl93cXZGOVczOVRjeWxmZVJpVkQ5SkVJOWdjMlYyN2kxY2s?oc=5
 
 - India Slashes Fund To Bangladesh By Half Amid Diplomatic Tension - NDTV
   India Slashes Fund To Bangladesh By Half
@@ -208,37 +168,65 @@
   India’s budget bets on infrastructure,
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlRLY2VXNXR4YllhM2RScUdnWVpYOGNSZHo5ZVZRYXdKNUhTVE94ZG5CZklsVVZBRGhmQTZoZ1doSFdZNy1XckRsM2duczRKdjBaRnh4OGRQbDNmdlpMaFRlQ05XemljZjNjY0lMNTY2ZG1Sc2d2QWhodzZob01hUnYzT3BNX3Z2Vk4xeUN6OE1xd1ZXdDdrRkNLclRaOV9VaG1QOWpod1BIV2pTUE9QVEtB0gG3AUFVX3lxTE9HcHdEVlEtd05PWXRBU1I0STlRbXdtMWtkV044QjEtZmp3RjROd1E0M0NwR2M0TU8xRWl3bTNHWU1RQl9JcHdGUHZpNFR6WmdDU2N0X0NhQmQxWUN1UUt6LUZ3OVozUHZHM0lFcUttYm9VQnBlanFrU24zTERFMDlvNXZZbmVPd1ZEc0VxNzFkZXBDZHNKclYwMlpTY20tQzNQT1VwQlZ3V3VWZFFOZHE2cHFVTTBROA?oc=5
 
-- 'Something happened behind the curtains': Sanjay Raut raises grave doubts on Ajit Pawar's death - Times of India
-  'Something happened behind the curtains': Sanjay Raut raises grave doubts
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdFFsTWQzQVF0QWUxc3ZGcXhkV254dGJzcmV2ZmlKeXZKZjF4TElJNkdnUGh0a290VTB3OThQY21IX0Y3c3JxOG1LM0pIaGV3MUgzN3dwTHBvVW93OGFUUTMwVENVRUdqdTJHenBBSnRnRTA2SWhyYnozdG1xZTR2Y29LSEZiSTBZeVdpSm9pbHp0MjFXMjZCMVplemlpcGV1VGc1MXBIM1B5c2RrUm5tLW1yZWY4VGIzY3VFWTN0YWRCaHpWb2JiWU9fdEdpUW1vWFZ2NTBjOXZUa0ItdlVQOVdiRlc1RGNGQnp3ZDFSajfSAfYBQVVfeXFMUDNGVUNRdC1fTV9WMFBtUnA2TG1fY0RaU1hOUnlnckdjZDNESUt4bXA3cXkzb0RXbFFtWnNxT0lwOVM4Z252bVdtLU9iZzIxOXQ2RWtQS3NBTlhjNzhfV194Qld2UlpfWkM5SmRfV1VQQmFRbGZKcjNZcWFCMEJmWllFU2JZMDZZa1dzbW9VZEtDWHdUX0syTVlXdmlTc3B3RnFIUXNjNEl5V2Z0ZktTb3phWmZaY0lJR084SXUwbzFXeWhHNEZOQ3VFdnVYanZmOC1LMnBkUzE3Y2dGeU1Nb1BfVUZqYnprSDFfQkJZRVNCVVp6S0hB?oc=5
+- Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir; Sanjay Raut calls Ajit Pawar’s death ‘suspicious’; & more - The Times of India
+  Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir. Sanjay Raut calls
+  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPT3BFaV9BaGRlMGw3S2ptb1FjZEdza0IyUFVJRGd1SkNrbWhBMWpkQ0F2bWF1YmxOdDVuUXhYQjRKdVlDVmptVzdyZVVaWDFVMGptbEZIVmtQSUJVTVpjN0RwMDRoejJXdWdYWXNSUXgwM1lWakhHVlhMa1hLVDVlYlBkTnN0bDMyZ2I1bkRWZ1N5Y1pkQ05WbGJjN0FBaUlFa1ZLMThid1VZSmx3TklMMHVPclBnNFNNWWVFdHYyT3UxNjhhMlA0LW13MlFMSTVLRHA1MV9Wczd1RWNnbWNhdGg3TDdNazJZNzVlV2RWcXhtLVFlUmgzbDk3Rm5OTllKZFVPNDFVVVBIZ20xSVd5b0MtcTdmaEM3cTlxSWF5MnhZM1F5X2c?oc=5
 
-- Momo For Rs 85 Lakh? UP Boy Gives Away Family Jewellery To Street Vendor - NDTV
-  Momo For Rs 85 Lakh? UP Boy Gives
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFRqbFE0TUNzU0RoWVo0cUJxSjdFdmJPVnpac3dtZFY3a2ZhSS0td0EwSWdBaS1sc1J1UVQzYWdyOVdMWEdrY2o5Um5yUk9pT0xyelFyN25rVnotUDBickU5Ym1Ldm5xYjhFSDFBVU12OWFGU3V4UElMc0h6d0Z2Y2VaMHhFU3VfMkdHS240NnJDeGtpdk5ycDVlbW5vMlpFeE9OM3ExNmXSAbABQVVfeXFMUFQ5bnJrSlVqTlBQUUt6SHc3TGh6VEgzdUVZSWFLalhCSzM1UnJRcG00M0tZclNYdzN4eWQtSl9hTTRYcUIwQktRX2gxYkJ5MVY0ZzJjcXNjUzVQRDBiZ0QtTEpjRVE2a3JDejhMMEs2cFNZMGp5Y285dE1weG5aWmp5R3FKUlZXTW5SeDBfSUZYWk1XZm5HNWs4NGYwcGxXYU5VZElfMFZQMTZUWFM2V28?oc=5
+- Singapore Is The World's Most Responsible Nation In 2026. Where Does India Stand? - NDTV
+  Singapore Is The World's Most Responsible Nation In
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE8tRWYtekJXMmRxYk1PdkhoZjNnazlOX3dOMnQ4Q2d2MTIzQUFSVjZBNURSRDlaMXRJc1NoZDJQc2xDTnpqUXgwZk93dW0xalJKYWdfNGtCQkRYN1g5T0hLWlB0R21ybjNJOTVfYTBNbGFUckhndTRUUXNOQmJNcmJ0SEpSTGZRYTBUaFhFR3Y2T1RwTHVnc1JpOU1pNWtvVmZ3TzFUZ0RXUWpSNElKVHRSeFY3Z9IBvgFBVV95cUxNTHVQTXV5VUdRS3BYTDJIZWtnVHlaaFV6R2NKYWx2RnRUNFkwRWQ0b0xDUDVaQXM0c2JoTDc3bXZRRnFheWpqdWk4YTgwOVc3WXJFNWo5M09WaHlrSDRTbTBlZ0pvU1gtb3Q5Zk5wa2t6YWJ6Q1hXUEhCSkFLa0h5eFU3bVlKOHFHY0xyejlTM2ZEbEVjeXNlUk9paDBzLTBYLXZtbDBTQUE2OWZ4Z2ZxNU0tMWFTa1ZXT3E0LXdn?oc=5
 
-- Should You Buy Gold And Silver Now, Or Will Prices Drop Further? - NDTV
-  Should You Buy Gold And Silver Now, Or Will
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWZBSm1QRWVtcERqOHZrWUNhLXdfWVVUQ2tRLUNON1BlUGlQUXVRSkVJQ0JMSGxIZVdIYks5UmwxSXN2QjJWZzlxNFZOMk1HcU5kSU5rSjRkU083Q3NLcE9xTXBPWmVCbXVGVE50X2RadmZVTm5ON3NxQmFjVHplVmxjaUxvTk90UnV1TWFRZDZILTlfVDMxYnJnRUVnN0g0b2RyblZB0gGuAUFVX3lxTE4wVFI4Z2ExZ05LQ2ZGRjFpWFVQMGthNm9oakZKWjIyZU1PT2RSdlB1bXYyMVItNDBhaEwtZjhTWFhKMFhTdGNJdmdMb19FNEZhLVJxM0hteEdpVE1QbjVGNHl1bFNBSmRudzZnX1VLWW5rbzJydmZGQkEtMmJsWElqQ2xJOFBiUEhQVWJ6alljbVhoeHZhTlpQOExjZmhJbHlqNkg2M0huWjc1MEZTQQ?oc=5
+- Honda Cars India Posts 6,941 Unit Sales In January 2026 - Details - NDTV
+  Honda Cars India Posts 6,941 Unit
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjJhTVVxSFlpbDhPak1OZmZqa3ZvQnZoeTVZdUFqcS1DLXl3NDFOWnp1RkQzZGdnbzJUdzJzU1phOVh0SkZjQkExTk4tX1RBLUNGeTRzNko1cnlMZlM5bjE0dThkOE1reHFHV2hHc2ZxREUzX0JwSTNRa0ZYWmpmMkZya3ZwVWxBWTVKam9WMF9oRWdEcDZybGgwdjFPSFnSAacBQVVfeXFMTS1HRDB0OXNuT0djVTBVTkZLZ3lNVlhKUW91ZmI2UG9ZTDhKbEotblQyYXhaNC03eVVyWThDX05rXzRSWENNYTBoS1JIQldzSTVCd3NVZk90bm1NQUE4QlRYUGppTW9tUUFQVlFvMnlEc1Q4d2diWUl6akNQNC1LVXlCUGtTbl93cXZGOVczOVRjeWxmZVJpVkQ5SkVJOWdjMlYyN2kxY2s?oc=5
 
-- Time, technology, and mind - The Hindu
-  The Hindu
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQMnBtdTY5Vy02WktxNXYtY2V1dk4yM210ZDBsY1dxUHZOTTZFTEk5bzI1eXhlaFpwaFZPMWplV2QtUkQzblRUcEVhUDhOdGFHclJib2wxVURCdGVLYlV1T1NmZjdZS2w4R2hScFZmY3FBR28wS2tlN01TNzNiSkhMV25mZzU5a1ZRVUxNQWQ2M1PSAZcBQVVfeXFMT3RjN1hKN0xsU2dqNHZZRHF1dTNIaDdnSFdEdXNNSm1rdTZlc1g4aVVISE5lZ3J1OWJDUG8tZ3FxUkZ1aW45SmMxZXZDWHNuN0Z0WURsazdsdlpvd1pTWjlnd3RKbFk3VUhEcGtHUk9RRzcwS3h3Yl9waW1oRmNuQWZma3N5VV95RTR2anJXc0dLRU1EYWcyUQ?oc=5
+- India Slashes Fund To Bangladesh By Half Amid Diplomatic Tension - NDTV
+  India Slashes Fund To Bangladesh By Half
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM1RhUWllQWhQQWYyNEQwc0dQbmlxWDJPMnlnQ3ItT2FPcXVFQWxKM3B0VG0wTFp1dGs1ZkVRaG1WcTROVVlYR1hDZUcxeDd5bUNHaVBnVWQwcjNvQXlJN0t5YVNOeVNyakZiVzdUczhDclFqR0NiOGlPZldQaGdVaVlMWDFEMC0wTTVlOWhLVWJ0MzVYMUdMZ0I2Wjh5LTJJSnU1bEVrTE5kZEJ5UmhuMzJXU3VWeHVIeGxNeXNIWk7SAcgBQVVfeXFMTjBIWDhfZEw5T193VWplY042RmNlWUVZOGx3cnFuZlF2blo3U0pfTTdibF82Z2ZVWktMWl8yZVNRb0dHemxYVnk4OUpFWGE1WUxEWEs1M3l1QUZ2VE8zV3gxbGVmdHV1U1lmbDRRTGZPWnNqR2NmWnAtaWxQdmx5WU1qenJzRFh0TXVFSFFXRTVJblJUNmZuTHVscUF5MEFTMnFTYlFrWVlqTjlpTEJ0ZVloMlUyRzhJZmNZNEZsWTZaSVY5X2NiZ0s?oc=5
 
-- Russia struggles to shake reliance on foreign technology imports - Financial Times
-  Russia struggles to shake reliance on foreign technology
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5waFg1SzFyLUJLWEI4eUw3cXlMVFVUVXlYU3NyWVV1QVJPblFLNDItWFBnN1FneXR2Qy00RTF4UzZvdTlCczA2TU45d3hLV2lHVVk2TGNkaHNsQlhkNkJmR1RaZkhiVmk0YmZwbThhaTA?oc=5
+- India’s budget bets on infrastructure, manufacturing amid global trade war - Al Jazeera
+  India’s budget bets on infrastructure,
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlRLY2VXNXR4YllhM2RScUdnWVpYOGNSZHo5ZVZRYXdKNUhTVE94ZG5CZklsVVZBRGhmQTZoZ1doSFdZNy1XckRsM2duczRKdjBaRnh4OGRQbDNmdlpMaFRlQ05XemljZjNjY0lMNTY2ZG1Sc2d2QWhodzZob01hUnYzT3BNX3Z2Vk4xeUN6OE1xd1ZXdDdrRkNLclRaOV9VaG1QOWpod1BIV2pTUE9QVEtB0gG3AUFVX3lxTE9HcHdEVlEtd05PWXRBU1I0STlRbXdtMWtkV044QjEtZmp3RjROd1E0M0NwR2M0TU8xRWl3bTNHWU1RQl9JcHdGUHZpNFR6WmdDU2N0X0NhQmQxWUN1UUt6LUZ3OVozUHZHM0lFcUttYm9VQnBlanFrU24zTERFMDlvNXZZbmVPd1ZEc0VxNzFkZXBDZHNKclYwMlpTY20tQzNQT1VwQlZ3V3VWZFFOZHE2cHFVTTBROA?oc=5
 
-- When technology becomes a teaching partner: How AI can strengthen rural education - The Hans India
-  The Hans India is a non-profit organisation based in
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbTg5TFNyTFE0eWIzLWNuZVc2cVRzb0NhMjFkeGJGOXgzdC1MZzdDYnhSQm1yVjJWei03U090c0h5WlJEU2NjOXAwY1U4TGx5VU1FX1NUck1FMk1zQ2lPMlpreFFvNTVpSzUzWmVnYnQ0TXRyMk0xVVdNWkZLbUtFUm4xdEVoNzdOenlrektsSTBtZGp5THY4ZVJ0dFVyOERUQ2VtTG8xYWhkR1dHUUhod3dHNFlMRTFUNWhhb0RqZVUwczFjb25VblpFRnQtQdIB0wFBVV95cUxObkV2eWVlc1lBc3ZFUnJ0MDc5c1BvYXZXUDd3ZnZlZXBnSjFYLUtVVHFWN3NTRVdVTjd3d3hSbUhna1NXM2NsWkw2QmRDaFRncWZvcmZuME5iaW9GN29hbWF6aVk5b2p0WjdySDluQ3h6R3haQnVhOW0zQVBfWm5IWDFibGNWNDZHdmpvcENWSDRxdzQxbVFKZ0xpTGhwdmc3UzBiVXVyaWs0V3l1VXRrMFM2R2xURTVnbllkakN0M01DRWR3SmplSm9UMmFiQzBkbnRr?oc=5
+- Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir; Sanjay Raut calls Ajit Pawar’s death ‘suspicious’; & more - The Times of India
+  Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir. Sanjay Raut calls
+  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPT3BFaV9BaGRlMGw3S2ptb1FjZEdza0IyUFVJRGd1SkNrbWhBMWpkQ0F2bWF1YmxOdDVuUXhYQjRKdVlDVmptVzdyZVVaWDFVMGptbEZIVmtQSUJVTVpjN0RwMDRoejJXdWdYWXNSUXgwM1lWakhHVlhMa1hLVDVlYlBkTnN0bDMyZ2I1bkRWZ1N5Y1pkQ05WbGJjN0FBaUlFa1ZLMThid1VZSmx3TklMMHVPclBnNFNNWWVFdHYyT3UxNjhhMlA0LW13MlFMSTVLRHA1MV9Wczd1RWNnbWNhdGg3TDdNazJZNzVlV2RWcXhtLVFlUmgzbDk3Rm5OTllKZFVPNDFVVVBIZ20xSVd5b0MtcTdmaEM3cTlxSWF5MnhZM1F5X2c?oc=5
 
-- Union Budget 2026: push for technology, planetary science in space programme - The Hindu
-  Union Budget 2026: push for technology, planetary
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQRFBhdUY3OEpyR0ZHREpldzlRRXNReER6Q1VmNnBwN0l0MEd0THVMYlIxRU1sbk9RWlE2VnpPazkyUXB6Q3dnSGhTUTJnVUZ0VzA5bklVM05PQmJFcWl6Q0Q4d19GdGV4RzhVcDBkSVVZM2hRMzZXSTIxQnBMN1BFbzNRbGlFZ3kybzFxTFlTRXMxaFN2X2hTeGIzRUloNjhrcFBqM2R3MThpV3c0dm5ZN044SdIBugFBVV95cUxPbm00aTlCTVRHcmZkZWZqc2RHRDNpUk9qYmw3XzQzbWRfWjAxZXZNcmNoZVdKd3JrM0Nybk9YcDJtWFNhTFdOLXJEX0JJYVdDNkJINUZTVlFWWE43Yk93TGVkV2lDb0dJanlmb0hPcG1wUzAtd1FpVnIyV3FsaGJodXlxX1RiVnkwTWdhUXJBci16RVFNVjNtT090YnBRM2ZYNTFvdnVrb2tQM1hZU0daczVjMWhEYi1UR0E?oc=5
+- Singapore Is The World's Most Responsible Nation In 2026. Where Does India Stand? - NDTV
+  Singapore Is The World's Most Responsible Nation In
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE8tRWYtekJXMmRxYk1PdkhoZjNnazlOX3dOMnQ4Q2d2MTIzQUFSVjZBNURSRDlaMXRJc1NoZDJQc2xDTnpqUXgwZk93dW0xalJKYWdfNGtCQkRYN1g5T0hLWlB0R21ybjNJOTVfYTBNbGFUckhndTRUUXNOQmJNcmJ0SEpSTGZRYTBUaFhFR3Y2T1RwTHVnc1JpOU1pNWtvVmZ3TzFUZ0RXUWpSNElKVHRSeFY3Z9IBvgFBVV95cUxNTHVQTXV5VUdRS3BYTDJIZWtnVHlaaFV6R2NKYWx2RnRUNFkwRWQ0b0xDUDVaQXM0c2JoTDc3bXZRRnFheWpqdWk4YTgwOVc3WXJFNWo5M09WaHlrSDRTbTBlZ0pvU1gtb3Q5Zk5wa2t6YWJ6Q1hXUEhCSkFLa0h5eFU3bVlKOHFHY0xyejlTM2ZEbEVjeXNlUk9paDBzLTBYLXZtbDBTQUE2OWZ4Z2ZxNU0tMWFTa1ZXT3E0LXdn?oc=5
 
-- Budget 2026 strengthens India’s technology, AI and higher education ecosystem - Zee Business
-  Budget 2026 strengthens India’s
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblB1YVltZFBONVdrYVFXejFnanFKNWtUNU5pUmhUSzRFNmtrc0l6M1lzWXhEUDdJQTBOZE1hLTBSd1cwV0VjS0NGMlBEQlRNWkNFQnRHOXF4d2dqUkdKVkFid0JEMTF6ZkRudnllMW1oeUhxOVgyTDZKaTZLOVNjdWdIRkFfSUVTUXVBSmRuOTAwTFN1ZnVYTzRMOXZnRmVDY3VSWUNBbW9qU3Bac1NLVzJ6M0VodFlx?oc=5
+- Honda Cars India Posts 6,941 Unit Sales In January 2026 - Details - NDTV
+  Honda Cars India Posts 6,941 Unit
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjJhTVVxSFlpbDhPak1OZmZqa3ZvQnZoeTVZdUFqcS1DLXl3NDFOWnp1RkQzZGdnbzJUdzJzU1phOVh0SkZjQkExTk4tX1RBLUNGeTRzNko1cnlMZlM5bjE0dThkOE1reHFHV2hHc2ZxREUzX0JwSTNRa0ZYWmpmMkZya3ZwVWxBWTVKam9WMF9oRWdEcDZybGgwdjFPSFnSAacBQVVfeXFMTS1HRDB0OXNuT0djVTBVTkZLZ3lNVlhKUW91ZmI2UG9ZTDhKbEotblQyYXhaNC03eVVyWThDX05rXzRSWENNYTBoS1JIQldzSTVCd3NVZk90bm1NQUE4QlRYUGppTW9tUUFQVlFvMnlEc1Q4d2diWUl6akNQNC1LVXlCUGtTbl93cXZGOVczOVRjeWxmZVJpVkQ5SkVJOWdjMlYyN2kxY2s?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-02 07:02:22 UTC_
+_Last updated: 2026-02-02 12:50:34 UTC_
