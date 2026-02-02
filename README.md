@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- 200 units of free power for 2.23 lakh J&K families: J&K LG Sinha greenlights NC’s big poll promise
+- Trump tariffs cut to 18%, PM Modi thanks US President on behalf of ‘1.4 billion people’
   
-  🔗 https://indianexpress.com/article/india/jk-lg-sinha-greenlights-ncs-big-poll-promise-free-power-10509328/
+  🔗 https://indianexpress.com/article/india/pm-modi-trump-trade-deal-us-tariffs-india-18-percent-10509886/
 
-- Centre plans 40 km underground rail lines to connect Northeast with rest of India: Ashwini Vaishnaw
+- NIA’s Kashmir crackdown: Govt employee, former militant’s homes raided in fresh terror link probe
   
-  🔗 https://indianexpress.com/article/india/centre-plans-40-km-underground-rail-lines-along-strategic-corridor-linking-ne-with-rest-of-india-ashwini-vaishnaw-10509314/
+  🔗 https://indianexpress.com/article/india/nia-raids-kashmir-srinagar-baramulla-bandipora-red-fort-blast-terror-conspiracy-10509765/
 
-- Govt approved 17 metro rail projects in last 5 years – check details here
+- Forest dept takes drastic action after 10 tigers killed already this year in Madhya Pradesh
   
-  🔗 https://indianexpress.com/article/india/govt-approved-17-metro-rail-projects-in-last-5-years-check-details-here-10509211/
+  🔗 https://indianexpress.com/article/india/forest-dept-takes-action-10-tigers-killed-this-year-madhya-pradesh-10509764/
 
-- ‘Why are they scared?’: Rahul Gandhi’s attempt to read from magazine article on Doklam, Galwan in Lok Sabha sparks uproar
+- Railway Budget 2026 allocation: Uttar Pradesh gets Rs 20,012 crore, two bullet train projects announced
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-attempt-to-read-from-magazine-article-on-doklam-galwan-lok-sabha-uproar-10509227/
+  🔗 https://indianexpress.com/article/india/railway-budget-2026-allocation-uttar-prades-two-bullet-train-projects-announced-10509711/
 
-- Railway Budget 2026: Check state-wise allocation – which state tops the list?
+- Railway Budget 2026 allocation: Rs 10,134 cr push for Andhra Pradesh; DPR for Hyderabad-Chennai bullet train project to start soon
   
-  🔗 https://indianexpress.com/article/india/railway-budget-2026-check-state-wise-allocation-which-state-tops-the-list-10498548/
+  🔗 https://indianexpress.com/article/india/railway-budget-2026-allocation-for-andhra-pradesh-dpr-hyderabad-chennai-bullet-train-project-start-10509615/
 
 - Users increasingly likely to follow AI chatbot’s advice without question, Anthropic study finds
   
@@ -40,165 +40,165 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/india-hands-apple-a-win-by-letting-foreign-firms-fund-equipment-without-tax-risk-10508635/
 
-- Disney beats estimates as parks and cruise business hits record sales
-  Walt Disney Co. reported sales and profit that beat estimates in the first quarter of its fiscal year. Record $10 billion in revenue from the
-  🔗 https://www.livemint.com/companies/news/disney-beats-estimates-as-parks-and-cruise-business-hits-record-sales-11770035590858.html
+- Judge Revives Orsted NY Offshore Wind Project Halted by Trump
+  A US judge ruled that a wind farm being developed by Orsted A/S off New York’s Long Island can resume work halted by the government.
+  🔗 https://www.livemint.com/companies/judge-revives-orsted-ny-offshore-wind-project-halted-by-trump-11770057424276.html
 
-- Mint Explainer: Why quick commerce wants planned buys even as margins come under pressure
-  Mint explains why platforms are chasing bulk buys and what this trade-off means for
-  🔗 https://www.livemint.com/companies/news/quick-commerce-bulk-buying-swiggy-instmart-zepto-profitability-11770014400091.html
+- IndiGo spent over  ₹22 cr towards passenger compensation, facilitation in Dec
+  The amount pertains to denied boarding,
+  🔗 https://www.livemint.com/companies/news/indigo-spent-over-rs-22-cr-towards-passenger-compensation-facilitation-in-dec-11770051991829.html
 
-- Delhi HC clears way to hear Centre’s $2.31-bn recovery appeal against RIL
-  RIL's objection that the Centre’s appeal was not maintainable was rejected.
-  🔗 https://www.livemint.com/companies/delhi-high-court-centre-2-31-billion-recovery-reliance-industries-11770022831564.html
+- Devon-Coterra merger to create $58 billion US shale major in all-stock deal
+  Devon Energy and Coterra Energy are merging in a $58 billion all-stock deal to create a major shale producer in the
+  🔗 https://www.livemint.com/companies/news/devoncoterra-merger-to-create-58-billion-us-shale-major-in-all-stock-deal-11770050584510.html
 
-- Oracle layoffs: Which departments will get affected? Here's what we know
-  Oracle reportedly plans to cut 20,000 to 30,000 jobs globally to focus on AI
-  🔗 https://www.livemint.com/companies/news/oracle-layoffs-which-departments-will-get-affected-heres-what-we-know-11770021582192.html
+- No ICE blues for Ather as it inches closer to profitability
+  Company records record revenue, narrows loss and nears Ebitda breakeven as sales surge. And
+  🔗 https://www.livemint.com/companies/ather-energy-q3-results-sales-gst-cut-ev-market-11770042355836.html
 
-- Maruti Suzuki records 12% rise in January sales to 2,36,963 units; Utility vehicle portion sales up 16% MoM
-  Maruti Suzuki recorded a 12% rise in its sales to 2,36,963 units on a month-on-month basis. Although the company's small car segment witnessed a marginal slide in sales
-  🔗 https://www.livemint.com/companies/news/maruti-suzuki-records-12-rise-in-january-sales-to-2-36-963-units-utility-vehicle-portion-sales-up-16-mom-11770021917797.html
+- The three factors that drove Hyundai's recovery in India
+  Hyundai's profit mantra involves higher exports, increased rural sales, and a rising share of SUVs. After posting profits for two straight quarters
+  🔗 https://www.livemint.com/companies/hyundai-india-profit-auto-market-creta-venue-11770037097364.html
 
-- Accretion Nutraveda IPO allotment to be finalised today: Check steps to track status; latest GMP
-  Accretion Nutraveda IPO was open for bidding from January 28 to January 30. The IPO was oversubscribed by 1.83 times on the final day of
-  🔗 https://www.livemint.com/market/ipo/accretion-nutraveda-ipo-allotment-to-be-finalised-today-check-steps-to-track-status-latest-gmp-11770033110208.html
+- Trump announces trade deal with India: Can it drive Sensex, Nifty 50 to record highs?
+  The recent trade agreement between India and the US signals a reduction in tariffs from 25% to 18%. Analysts believe this deal could enhance market confidence, attract foreign investment
+  🔗 https://www.livemint.com/market/stock-market-news/trump-announces-trade-deal-with-india-can-it-drive-the-indian-stock-market-sensex-nifty-50-to-record-highs-11770055058009.html
 
-- Indian stock market volatility persists as global risks and earnings weigh
-  Key factor affecting the performance of the domestic market is the lack of clarity over the US-India trade deal. The lack of a dual diplomatic relationship, and the deep depreciation
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-volatility-persists-as-global-risks-and-earnings-weigh-11770031158651.html
+- Bitcoin's fall over the week wipes out $200 billion in market value; crypto exchanges feel the pinch
+  Bitcoin dropped to $74,876, losing 12% in a week, erasing over $200
+  🔗 https://www.livemint.com/market/cryptocurrency/bitcoins-fall-over-the-week-wipes-out-200-billion-in-market-value-crypto-exchanges-feel-the-pinch-11770039324611.html
 
-- Nestle India’s premium growth reflects in its premium valuation
-  Nestle India is near its 52-week high, buoyed by impressive Q3FY26 results. With a strategic increase in advertising and a favourable market recovery,
-  🔗 https://www.livemint.com/market/mark-to-market/nestle-india-q3-results-share-price-outlook-11770026555702.html
+- Gold rates today: MCX gold recovers  ₹13,825 per 10g, silver  ₹35,868 per kg amid intraday bounce
+  Gold and silver prices saw volatility, with gold recovering intraday losses while silver remained down. Market pressures include Fed policy expectations and increased CME margins.
+  🔗 https://www.livemint.com/market/gold-rates-today-mcx-gold-recovers-rs-13-825-per-10g-silver-rs-35-868-per-kg-amid-intraday-bounce-11770038281934.html
 
-- Why Morgan Stanley stayed overweight on Indian stocks post Budget 2026; prefers these 3 sectors
-  Morgan Stanley projects Budget will enhance cyclical growth through increased capital expenditure and structural reforms.
-  🔗 https://www.livemint.com/market/stock-market-news/why-morgan-stanley-stayed-overweight-on-indian-stocks-post-budget-2026-prefers-these-3-sectors-11770019399497.html
+- Wall Street rises after selloff in precious metals, Nvidia falls 1%, Tesla drops over 2%, Disney sheds 6%
+  The S&amp;amp;P 500 added 0.6%, the Dow Jones Industrial Average was up
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-opens-lower-after-selloff-in-precious-metals-11770044355568.html
 
-- Bajaj Housing Finance Q3 Results: PAT surges 21% YoY to  ₹665 crore; NII up 19%
-  Bajaj Housing Finance Ltd reported a 21% increase in net profit to  ₹665 crore for Q3 FY26. Total income rose 24% to   � 1,153
-  🔗 https://www.livemint.com/market/stock-market-news/bajaj-housing-finance-q3-results-pat-surges-21-yoy-to-rs-rs-665-crore-nii-up-19-11770029168647.html
+- Why the markets began to party after sinking on budget day
+  After sliding nearly 3% intraday on Sunday and closing nearly 2% down, the Nifty 50 climbed 1.06
+  🔗 https://www.livemint.com/market/stock-market-news/why-the-markets-began-to-party-after-sinking-on-budget-day-11770038168722.html
+
+- Chinese hackers exploit Notepad++ updater to target select users for months: Report
+  Notepad++ says its update system was reportedly hijacked for months in a targeted cyber campaign linked to suspected Chinese state backed hackers.
+  🔗 https://www.livemint.com/technology/tech-news/chinese-hackers-exploit-notepad-updater-to-target-select-users-for-months-report-11770051273593.html
+
+- Samsung Galaxy S26 may get Google’s AI scam call detection feature: Here's how
+  Google’s AI-powered scam call detection could arrive on non-Pixel phones. CallCore offers real-time alerts and on-device
+  🔗 https://www.livemint.com/technology/tech-news/samsung-galaxy-s26-may-get-google-s-ai-scam-call-detection-feature-heres-how-11770050570340.html
+
+- Moltbook social media site for AI agents had big security hole, cyber firm Wiz says
+  'Moltbook' social media site for AI agents
+  🔗 https://www.livemint.com/technology/moltbook-social-media-site-for-ai-agents-had-big-security-hole-cyber-firm-wiz-says-11770044495257.html
+
+- Apple iPhone Air now under  ₹95,000 at Vijay Sales? How to grab the deal
+  Vijay Sales rolls out Valentine’s Day discounts on the iPhone Air (256GB) Price cut to  ₹94,990
+  🔗 https://www.livemint.com/technology/gadgets/apple-iphone-air-now-under-rs-95-000-at-vijay-sales-how-to-grab-the-deal-11770042825634.html
 
 - Grok Imagine 1.0 debuts with better video, audio and smarter prompts: Here's what all is upgraded
    xAI has launched Grok Imagine 1.0, enabling 10-second AI videos at 720p with enhanced audio, expressive voices and smarter prompt understanding. The platform has already generated
   🔗 https://www.livemint.com/technology/tech-news/grok-imagine-1-0-debuts-with-better-video-audio-and-smarter-prompts-heres-what-all-is-upgraded-11770031047513.html
 
-- Oppo K14x to launch in India on 10 February with 6,500mAh battery and 120Hz display: All you need to know
-  Oppo K14x is set to launch in India on 10 February with a 6.75-inch 120Hz display. MediaTek Dimensity 6300 chip, 50MP
-  🔗 https://www.livemint.com/technology/tech-news/oppo-k14x-to-launch-in-india-on-10-february-with-6-500mah-battery-and-120hz-display-all-you-need-to-know-11770025780119.html
+- GIFT Nifty soars nearly 600 points on announcement of India-US trade deal
+  The surge in GIFT Nifty came following the news that India and the US agreed to a trade deal. Donald Trump,  said that he spoke with Prime Minister Modi about trade and ending the war in Ukraine.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-soars-nearly-600-points-on-announcement-of-india-us-trade-deal/articleshow/127867827.cms
 
-- Who is Peter Steinberger? Austrian engineer behind Reddit like viral AI platform Moltbook
-  Peter Steinberger, creator of the AI-focused app Moltbook, has a history of success with PSPDFKit. He designed Molt book to facilitate
-  🔗 https://www.livemint.com/technology/tech-news/who-is-peter-steinberger-austrian-engineer-behind-reddit-like-viral-ai-platform-moltbook-11770002005708.html
+- Tata Chemicals Q3 Results: Consolidated net loss widens to Rs 93 crore
+  Tata Chemicals reported a wider consolidated net loss of Rs 93 crore for the December quarter. The company's standalone performance showed resilience, and it announced the acquisition of Novabay Pte. Limited to bolster its specialty chemicals
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-chemicals-q3-results-consolidated-net-loss-widens-to-rs-93-crore/articleshow/127867185.cms
 
-- China executes 4 more members of Myanmar-based group in crackdown on scam operations
-  China executes 4 more members of Myanmar-
-  🔗 https://www.livemint.com/technology/china-executes-4-more-members-of-myanmar-based-group-in-crackdown-on-scam-operations-11770010445809.html
+- Utkarsh Small Finance Bank Q3 loss widens to Rs 375 crore
+  Utkarsh Small Finance Bank reported a significant widening of its net loss to Rs 375 crore in the third quarter. The bank also experienced an operational loss of Rs 44 crore.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/utkarsh-small-finance-bank-q3-loss-widens-to-rs-375-crore/articleshow/127867065.cms
 
-- February smartphone guide: From Galaxy S26 to Vivo V70, list of key phones launching this month
-  February is set to be an exciting month for smartphone launches. Samsung Galaxy S26, Realme 16, Vivo
-  🔗 https://www.livemint.com/technology/tech-news/february-smartphone-guide-from-galaxy-s26-to-vivo-v70-list-of-key-phones-launching-this-month-11769997520685.html
+- Chalet Hotels Q3 Results: Net profit up 28% at Rs 124 crore
+  Chalet Hotels reported a robust third quarter with a 28.5% year-on-year increase in net profit to Rs 124 crore. The company's EBITDA grew by 29% to Rs 272.6 crore
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/chalet-hotels-q3-results-net-profit-up-28-at-rs-124-crore/articleshow/127866585.cms
 
-- Bajaj Housing Q3 Results: PAT jumps 21% YoY to Rs 665 crore, NII rises 15%
-  Bajaj Housing Finance posted a strong Q3FY26, with net profit rising 21% and NII up 19%. Healthy loan and AUM
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-housing-q3-results-pat-jumps-21-yoy-to-rs-665-crore-nii-rises-15/articleshow/127861898.cms
+- Fed chair nominee Warsh may want smaller Fed holdings, but that's not easy to do
+  Kevin Warsh, tapped to become the ‘next Federal Reserve chair, may want to significantly contract the central bank's multi-trillion-dollar balance sheet. Experts agree that financial realities strongly
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-chair-nominee-warsh-may-want-smaller-fed-holdings-but-thats-not-easy-to-do/articleshow/127866334.cms
 
-- Ather Energy Q3 Results: Loss narrows as sales rise on festive demand
-  Indian e-scooter manufacturer Ather Energy posted a ⁠narrower quarterly
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/ather-energy-q3-results-loss-narrows-as-sales-rise-on-festive-demand/articleshow/127861483.cms
+- India Holds Firm Against International Court Order On Indus Waters Treaty - NDTV
+  India Holds Firm Against International Court Order On
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPR2NhaFgzX1ZJaVMwZE9RYlh1X2VMSzlhWjJiUWt4bXVBUy1rcVN5ZGp0Y3Q3LXUtRTdVNjFPR3A1U0R6cEVnRlgzRmlDeVlFM2Jpc05FcVBTbmhJN0JLaTN2MFh2Wjh1eTNNTVJIQVdtY1JWZEhaaWJGYWtLOHlJZHdrdkFoS3h1WDhyZGh1cllfT053b1FZcGZZWFdJSVQ0dzVReWtaNmRXYlg4TUVhRDZJQlrSAbwBQVVfeXFMT1diYjRxZDlrR3VNdnRxRlVaMWc5amVpS0Z6VGF0Y2s0NHhrOUZLcnRVbnlfbUNQaGFwbmtfa1hDQUdRajhMMFZOOE9Ebko0b0tPUTNWYUhkaUUxdnduSXp0UU5pNU5hUUFsYlhLc2xsUWZkYjlyenFsVnkzUlprOEFzOGJQYnM4YkppTUF4TnpIRHNGQk5jWDhfS1drMXVtNDlWVnVvLURBRTFlUXdscXE3dHRqWF9jT2VaN0w?oc=5
 
-- US stock futures slide as commodity rout rattles markets
-  U.S. stock index futures fell on Monday, as a ⁠violent selloff in precious metals unsettled investors
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-futures-slide-as-commodity-rout-rattles-markets/articleshow/127861266.cms
+- India-US talks LIVE updates: Trump announces India-US trade deal; tariffs lowered to 18% | India News - Hindustan Times
+  India-US talks LIVE updates: Trump announces India-US trade deal;
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdVJoaEc1dHUzYkd2YUJudkU5RzBCQjBicmRjOTc2VE1kR0VUV0ZhcUFvdlotZjJfU3gxSG1HR2ZocWRpVTZsWjYtekZFNTdrSU9Wa3dPRHpfdVJqUWF5TE5XLXZPRDN3MGk2alM5MEMzeXhaMEdfbzVXWlRENTZqdUUzZFJ0c0EtdGxRaHo5MnhjakI5c2JzRlpCYXYzcDF6X0pOUHhuWVVtTm53a0pMemFldWtmb3JpUzhzMWNFTjRUOFRXRGx5TUg5NVU3bkRhVTNtQVVVM1RYRFZsbWhrWUYtZ3ItdWZBMkhhdDdRRjIxSzBqTU530gH8AUFVX3lxTE9iUXgwQlBxblNKZjZadmdBSnF4REs5OExrSU1IQmFOZkVWcDhrT05QaExxQTNiXzVjMDhCcG00QnVsRnQxdG9tZTBLdjMyb2tUUm5ZcVhtTkI4OUpRUVpOZ2lHcUltVlBUd2pCZFNvY3VrSVltLXNIN0JSU2hNRFFwUzhnczB4WGtWQ3BLS1E4TjVQQkxsZmRVaEV4Qy1naTM5a1cwbllQRF9vYXBGaVZRY21YQkxjWkZyZGhEMlREeUQybkRGWlFHa090LUpfN2tiR0RFaFVNbXZKNzh0aWI4Uy1rcThXd2VlLWVIWFlKVHlTR0VvMklxNl9rRw?oc=5
 
-- Gainers &amp; Losers: Power Grid and Latent View among 5 top movers on Monday
-  Autos, metals and energy led gains, while action was seen in Power Grid, Latent View, Sund
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-power-grid-and-latent-view-among-5-top-movers-on-monday/slideshow/127861020.cms
+- India-US trade deal announced by US President Donald Trump; tariff slashed to 18%, claims India will stop - Times of India
+  India-US trade deal announced by US President Donald Trump; tariff slashed to 18%,
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOanF1UGY1SHp4cnRpMlpZQTBIZlVZUl92SjNXNEtkb3YtbEE3cW9LaXJNUWt0QUZ2aEMzSVlaZEdPUjlDYU1fVVJWTG1NZ1A3Z2xyR0hKR2F6alNVSHhwcndDMzlPMU9TNGY0RzMzeEF6c21vbTV6UUp3OWlIWC1UNVl4cEZ0ZFRLc2VBem9jYWtYYl96SzA5N3hrWkg0eERPTEc2UDFnRmVTMjdJNVBvZW5va2pHckJObkJvenRPeEQ0T01tc1JOblRfV09ZYmRhclRGS1NobzFkZmJXTTFsWkZLQm9XUzhmXzlwU2ZPbE5hN3lXdUQyelJTa1o4MmtGVTFSdXAtX01sTmNib0hLS2h4X0ZqaUVSMHI3R3I5QjlMNXPSAagCQVVfeXFMTTdLb3ZnU1RKRHgwVTdmT3F4T2pDdTJUeXhOekNLaVI2ZFZXb1NZYkJuSGo0Um5tTDc3Sjd4RWdhbThzRzFmRVlhU2dvblNNTlRqMWMzMmxnV3dSeldRdHp6QTFaeUdMSlRLejJEek02bGpzMm9CLVN4eW4xdTU3bWJyOFNYTXZ2X1BCbUd4LV81dVNaQjZhU0ptLWxESkNIQjlBUGtfempXUlN1ZWJvcDlVSHlRQmcxd1FkejFGZGl5dk5Cd0xBYW5Ra01BQ1FaVEl2aGN0WkJDWkFFZ0JXSE1XZjNpOGJFZW5iRHA3b0NCak9qY1JyOVJ3N1BvRERUSFpPbVltWUh3ZDZpQS1iYzg5NDJ0Ui1VbU9wOUNsd01fbXFVYWlmZDA?oc=5
 
-- Watch out! Promoters reduce stakes in 12 stocks during December quarter
-  Promoter shareholding declined across 12 Nifty 500 stocks during the December 2025 quarter. While stake reductions may reflect strategic or fundraising decisions, such moves are closely tracked by investors.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/watch-out-promoters-reduce-stakes-in-12-stocks-during-december-quarter/slideshow/127860147.cms
+- Why the big-bang India-EU FTA has rattled both Pakistan and Bangladesh - India Today
+  Why the big-bang India-EU FTA has
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeUxvYS13SnNKMVN4TU84c1oyU09jSHFtVnIxaHRiNnByUTFkZ0I1NEk4c0xqeU9BN25hcEk4WGZhVDhJV29Pd1lNV1dwRjk3ZHdtOW83QnBVSTZCb1plNFZjQWdCM3QxVVlqcWxqNmZtMmgxVWJxbmRCUUh3VXNmbnVXeEFlNGU0bkQySWVKbXhZVmF0TnBiNFNGdU5UempnWkJvTktsOFBWSDZQODEzR21Oc3dGRUktbVphQk1JSHExNzdOMnRRWFdqM2MyeHVma04xclUtLUpNTnpvSF8tNmtpcUpZX1AzblFUOU11aUpQQ2lhd2JseEVHOGQ2WmxhMXA5Z2pBMDTSAY4CQVVfeXFMTVNreVQ5UW5DUU12TGFCX0Y0UDZ4SWthQUNJbm9KZFY2TUJlM1hzWjlWaFl4cXkwTjF4X3V1Z19IeEk2R05TNXNMMXlqZThLYkxTY1Ric01MR0RfMWtvTWpfZzl0TWRIRHJSMVBpLWllTEU1ZVk1bmlFcXNEcWpKcmVLVnIwNU9ORkY1amEyUFp2NHhyZy1vYnMyYWhHbjBnMVVHa04yNFd5Q1g4Z2dCcGVUb2tZcUMtMG10RlZSeXFsVG8wcmg4OTJjYVVCWXFkdU9PWlFxaDRVSlY5Skc1QW5sM0NFOERPSEpNS0E5ZHJibWk0OFZfQUJ6U01hOGNVZks5dC1xdlNsNkpSeGZB?oc=5
 
-- India Slashes Fund To Bangladesh By Half Amid Diplomatic Tension - NDTV
-  India Slashes Fund To Bangladesh By Half
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM1RhUWllQWhQQWYyNEQwc0dQbmlxWDJPMnlnQ3ItT2FPcXVFQWxKM3B0VG0wTFp1dGs1ZkVRaG1WcTROVVlYR1hDZUcxeDd5bUNHaVBnVWQwcjNvQXlJN0t5YVNOeVNyakZiVzdUczhDclFqR0NiOGlPZldQaGdVaVlMWDFEMC0wTTVlOWhLVWJ0MzVYMUdMZ0I2Wjh5LTJJSnU1bEVrTE5kZEJ5UmhuMzJXU3VWeHVIeGxNeXNIWk7SAcgBQVVfeXFMTjBIWDhfZEw5T193VWplY042RmNlWUVZOGx3cnFuZlF2blo3U0pfTTdibF82Z2ZVWktMWl8yZVNRb0dHemxYVnk4OUpFWGE1WUxEWEs1M3l1QUZ2VE8zV3gxbGVmdHV1U1lmbDRRTGZPWnNqR2NmWnAtaWxQdmx5WU1qenJzRFh0TXVFSFFXRTVJblJUNmZuTHVscUF5MEFTMnFTYlFrWVlqTjlpTEJ0ZVloMlUyRzhJZmNZNEZsWTZaSVY5X2NiZ0s?oc=5
+- Trump speaks to PM Modi, says US Ambassador to India - The Indian Express
+  The Indian Express reports that President Trump spoke to Prime
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEN2SHVmTEZPX1pTVUlkMUZ5Rmkwa0xKR1BGOUlQUlJmWEhtZXlXbWFFUGNKYlZXbUxMT1F5THdjUWRZNURzYXhlZ1QteTB2Z1JseWdRNEJ1Y1FMXzg4LVJXbHdTY2NKb0lUMTlZLUdRREhCSkd2VXhZb1JmNmFVWGVMUkpwU196M0V2cmh5MUU1ZDRsUmc40gGeAUFVX3lxTFBYbVlRNmJBZTZHdU1xMEhrUHo5dDZDT0VLUkF3bjZBTzNjVmhCaHVEQXNFMzZVaDVmRzFMd0tVcTBTV3NXMFhxY1lSSHhGZzRDNHg2cjBRUlFBdlJVQTVMOFNqSlRSVnlpcGFEZkd3THBNZm9QRVg4eDA5SFZsNFhRX1I1ZUhsQXZTM2NJQ01WLVBvdGZmZ3Rmb1hlSFhB?oc=5
 
-- India’s budget bets on infrastructure, manufacturing amid global trade war - Al Jazeera
-  India’s budget bets on infrastructure,
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlRLY2VXNXR4YllhM2RScUdnWVpYOGNSZHo5ZVZRYXdKNUhTVE94ZG5CZklsVVZBRGhmQTZoZ1doSFdZNy1XckRsM2duczRKdjBaRnh4OGRQbDNmdlpMaFRlQ05XemljZjNjY0lMNTY2ZG1Sc2d2QWhodzZob01hUnYzT3BNX3Z2Vk4xeUN6OE1xd1ZXdDdrRkNLclRaOV9VaG1QOWpod1BIV2pTUE9QVEtB0gG3AUFVX3lxTE9HcHdEVlEtd05PWXRBU1I0STlRbXdtMWtkV044QjEtZmp3RjROd1E0M0NwR2M0TU8xRWl3bTNHWU1RQl9JcHdGUHZpNFR6WmdDU2N0X0NhQmQxWUN1UUt6LUZ3OVozUHZHM0lFcUttYm9VQnBlanFrU24zTERFMDlvNXZZbmVPd1ZEc0VxNzFkZXBDZHNKclYwMlpTY20tQzNQT1VwQlZ3V3VWZFFOZHE2cHFVTTBROA?oc=5
+- India Holds Firm Against International Court Order On Indus Waters Treaty - NDTV
+  India Holds Firm Against International Court Order On
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPR2NhaFgzX1ZJaVMwZE9RYlh1X2VMSzlhWjJiUWt4bXVBUy1rcVN5ZGp0Y3Q3LXUtRTdVNjFPR3A1U0R6cEVnRlgzRmlDeVlFM2Jpc05FcVBTbmhJN0JLaTN2MFh2Wjh1eTNNTVJIQVdtY1JWZEhaaWJGYWtLOHlJZHdrdkFoS3h1WDhyZGh1cllfT053b1FZcGZZWFdJSVQ0dzVReWtaNmRXYlg4TUVhRDZJQlrSAbwBQVVfeXFMT1diYjRxZDlrR3VNdnRxRlVaMWc5amVpS0Z6VGF0Y2s0NHhrOUZLcnRVbnlfbUNQaGFwbmtfa1hDQUdRajhMMFZOOE9Ebko0b0tPUTNWYUhkaUUxdnduSXp0UU5pNU5hUUFsYlhLc2xsUWZkYjlyenFsVnkzUlprOEFzOGJQYnM4YkppTUF4TnpIRHNGQk5jWDhfS1drMXVtNDlWVnVvLURBRTFlUXdscXE3dHRqWF9jT2VaN0w?oc=5
 
-- Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir; Sanjay Raut calls Ajit Pawar’s death ‘suspicious’; & more - The Times of India
-  Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir. Sanjay Raut calls
-  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPT3BFaV9BaGRlMGw3S2ptb1FjZEdza0IyUFVJRGd1SkNrbWhBMWpkQ0F2bWF1YmxOdDVuUXhYQjRKdVlDVmptVzdyZVVaWDFVMGptbEZIVmtQSUJVTVpjN0RwMDRoejJXdWdYWXNSUXgwM1lWakhHVlhMa1hLVDVlYlBkTnN0bDMyZ2I1bkRWZ1N5Y1pkQ05WbGJjN0FBaUlFa1ZLMThid1VZSmx3TklMMHVPclBnNFNNWWVFdHYyT3UxNjhhMlA0LW13MlFMSTVLRHA1MV9Wczd1RWNnbWNhdGg3TDdNazJZNzVlV2RWcXhtLVFlUmgzbDk3Rm5OTllKZFVPNDFVVVBIZ20xSVd5b0MtcTdmaEM3cTlxSWF5MnhZM1F5X2c?oc=5
+- India-US talks LIVE updates: Trump announces India-US trade deal; tariffs lowered to 18% | India News - Hindustan Times
+  India-US talks LIVE updates: Trump announces India-US trade deal;
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdVJoaEc1dHUzYkd2YUJudkU5RzBCQjBicmRjOTc2VE1kR0VUV0ZhcUFvdlotZjJfU3gxSG1HR2ZocWRpVTZsWjYtekZFNTdrSU9Wa3dPRHpfdVJqUWF5TE5XLXZPRDN3MGk2alM5MEMzeXhaMEdfbzVXWlRENTZqdUUzZFJ0c0EtdGxRaHo5MnhjakI5c2JzRlpCYXYzcDF6X0pOUHhuWVVtTm53a0pMemFldWtmb3JpUzhzMWNFTjRUOFRXRGx5TUg5NVU3bkRhVTNtQVVVM1RYRFZsbWhrWUYtZ3ItdWZBMkhhdDdRRjIxSzBqTU530gH8AUFVX3lxTE9iUXgwQlBxblNKZjZadmdBSnF4REs5OExrSU1IQmFOZkVWcDhrT05QaExxQTNiXzVjMDhCcG00QnVsRnQxdG9tZTBLdjMyb2tUUm5ZcVhtTkI4OUpRUVpOZ2lHcUltVlBUd2pCZFNvY3VrSVltLXNIN0JSU2hNRFFwUzhnczB4WGtWQ3BLS1E4TjVQQkxsZmRVaEV4Qy1naTM5a1cwbllQRF9vYXBGaVZRY21YQkxjWkZyZGhEMlREeUQybkRGWlFHa090LUpfN2tiR0RFaFVNbXZKNzh0aWI4Uy1rcThXd2VlLWVIWFlKVHlTR0VvMklxNl9rRw?oc=5
 
-- Singapore Is The World's Most Responsible Nation In 2026. Where Does India Stand? - NDTV
-  Singapore Is The World's Most Responsible Nation In
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE8tRWYtekJXMmRxYk1PdkhoZjNnazlOX3dOMnQ4Q2d2MTIzQUFSVjZBNURSRDlaMXRJc1NoZDJQc2xDTnpqUXgwZk93dW0xalJKYWdfNGtCQkRYN1g5T0hLWlB0R21ybjNJOTVfYTBNbGFUckhndTRUUXNOQmJNcmJ0SEpSTGZRYTBUaFhFR3Y2T1RwTHVnc1JpOU1pNWtvVmZ3TzFUZ0RXUWpSNElKVHRSeFY3Z9IBvgFBVV95cUxNTHVQTXV5VUdRS3BYTDJIZWtnVHlaaFV6R2NKYWx2RnRUNFkwRWQ0b0xDUDVaQXM0c2JoTDc3bXZRRnFheWpqdWk4YTgwOVc3WXJFNWo5M09WaHlrSDRTbTBlZ0pvU1gtb3Q5Zk5wa2t6YWJ6Q1hXUEhCSkFLa0h5eFU3bVlKOHFHY0xyejlTM2ZEbEVjeXNlUk9paDBzLTBYLXZtbDBTQUE2OWZ4Z2ZxNU0tMWFTa1ZXT3E0LXdn?oc=5
+- India-US trade deal announced by US President Donald Trump; tariff slashed to 18%, claims India will stop - Times of India
+  India-US trade deal announced by US President Donald Trump; tariff slashed to 18%,
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOanF1UGY1SHp4cnRpMlpZQTBIZlVZUl92SjNXNEtkb3YtbEE3cW9LaXJNUWt0QUZ2aEMzSVlaZEdPUjlDYU1fVVJWTG1NZ1A3Z2xyR0hKR2F6alNVSHhwcndDMzlPMU9TNGY0RzMzeEF6c21vbTV6UUp3OWlIWC1UNVl4cEZ0ZFRLc2VBem9jYWtYYl96SzA5N3hrWkg0eERPTEc2UDFnRmVTMjdJNVBvZW5va2pHckJObkJvenRPeEQ0T01tc1JOblRfV09ZYmRhclRGS1NobzFkZmJXTTFsWkZLQm9XUzhmXzlwU2ZPbE5hN3lXdUQyelJTa1o4MmtGVTFSdXAtX01sTmNib0hLS2h4X0ZqaUVSMHI3R3I5QjlMNXPSAagCQVVfeXFMTTdLb3ZnU1RKRHgwVTdmT3F4T2pDdTJUeXhOekNLaVI2ZFZXb1NZYkJuSGo0Um5tTDc3Sjd4RWdhbThzRzFmRVlhU2dvblNNTlRqMWMzMmxnV3dSeldRdHp6QTFaeUdMSlRLejJEek02bGpzMm9CLVN4eW4xdTU3bWJyOFNYTXZ2X1BCbUd4LV81dVNaQjZhU0ptLWxESkNIQjlBUGtfempXUlN1ZWJvcDlVSHlRQmcxd1FkejFGZGl5dk5Cd0xBYW5Ra01BQ1FaVEl2aGN0WkJDWkFFZ0JXSE1XZjNpOGJFZW5iRHA3b0NCak9qY1JyOVJ3N1BvRERUSFpPbVltWUh3ZDZpQS1iYzg5NDJ0Ui1VbU9wOUNsd01fbXFVYWlmZDA?oc=5
 
-- Honda Cars India Posts 6,941 Unit Sales In January 2026 - Details - NDTV
-  Honda Cars India Posts 6,941 Unit
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjJhTVVxSFlpbDhPak1OZmZqa3ZvQnZoeTVZdUFqcS1DLXl3NDFOWnp1RkQzZGdnbzJUdzJzU1phOVh0SkZjQkExTk4tX1RBLUNGeTRzNko1cnlMZlM5bjE0dThkOE1reHFHV2hHc2ZxREUzX0JwSTNRa0ZYWmpmMkZya3ZwVWxBWTVKam9WMF9oRWdEcDZybGgwdjFPSFnSAacBQVVfeXFMTS1HRDB0OXNuT0djVTBVTkZLZ3lNVlhKUW91ZmI2UG9ZTDhKbEotblQyYXhaNC03eVVyWThDX05rXzRSWENNYTBoS1JIQldzSTVCd3NVZk90bm1NQUE4QlRYUGppTW9tUUFQVlFvMnlEc1Q4d2diWUl6akNQNC1LVXlCUGtTbl93cXZGOVczOVRjeWxmZVJpVkQ5SkVJOWdjMlYyN2kxY2s?oc=5
+- Why the big-bang India-EU FTA has rattled both Pakistan and Bangladesh - India Today
+  Why the big-bang India-EU FTA has
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeUxvYS13SnNKMVN4TU84c1oyU09jSHFtVnIxaHRiNnByUTFkZ0I1NEk4c0xqeU9BN25hcEk4WGZhVDhJV29Pd1lNV1dwRjk3ZHdtOW83QnBVSTZCb1plNFZjQWdCM3QxVVlqcWxqNmZtMmgxVWJxbmRCUUh3VXNmbnVXeEFlNGU0bkQySWVKbXhZVmF0TnBiNFNGdU5UempnWkJvTktsOFBWSDZQODEzR21Oc3dGRUktbVphQk1JSHExNzdOMnRRWFdqM2MyeHVma04xclUtLUpNTnpvSF8tNmtpcUpZX1AzblFUOU11aUpQQ2lhd2JseEVHOGQ2WmxhMXA5Z2pBMDTSAY4CQVVfeXFMTVNreVQ5UW5DUU12TGFCX0Y0UDZ4SWthQUNJbm9KZFY2TUJlM1hzWjlWaFl4cXkwTjF4X3V1Z19IeEk2R05TNXNMMXlqZThLYkxTY1Ric01MR0RfMWtvTWpfZzl0TWRIRHJSMVBpLWllTEU1ZVk1bmlFcXNEcWpKcmVLVnIwNU9ORkY1amEyUFp2NHhyZy1vYnMyYWhHbjBnMVVHa04yNFd5Q1g4Z2dCcGVUb2tZcUMtMG10RlZSeXFsVG8wcmg4OTJjYVVCWXFkdU9PWlFxaDRVSlY5Skc1QW5sM0NFOERPSEpNS0E5ZHJibWk0OFZfQUJ6U01hOGNVZks5dC1xdlNsNkpSeGZB?oc=5
 
-- India Slashes Fund To Bangladesh By Half Amid Diplomatic Tension - NDTV
-  India Slashes Fund To Bangladesh By Half
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM1RhUWllQWhQQWYyNEQwc0dQbmlxWDJPMnlnQ3ItT2FPcXVFQWxKM3B0VG0wTFp1dGs1ZkVRaG1WcTROVVlYR1hDZUcxeDd5bUNHaVBnVWQwcjNvQXlJN0t5YVNOeVNyakZiVzdUczhDclFqR0NiOGlPZldQaGdVaVlMWDFEMC0wTTVlOWhLVWJ0MzVYMUdMZ0I2Wjh5LTJJSnU1bEVrTE5kZEJ5UmhuMzJXU3VWeHVIeGxNeXNIWk7SAcgBQVVfeXFMTjBIWDhfZEw5T193VWplY042RmNlWUVZOGx3cnFuZlF2blo3U0pfTTdibF82Z2ZVWktMWl8yZVNRb0dHemxYVnk4OUpFWGE1WUxEWEs1M3l1QUZ2VE8zV3gxbGVmdHV1U1lmbDRRTGZPWnNqR2NmWnAtaWxQdmx5WU1qenJzRFh0TXVFSFFXRTVJblJUNmZuTHVscUF5MEFTMnFTYlFrWVlqTjlpTEJ0ZVloMlUyRzhJZmNZNEZsWTZaSVY5X2NiZ0s?oc=5
+- Trump speaks to PM Modi, says US Ambassador to India - The Indian Express
+  The Indian Express reports that President Trump spoke to Prime
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEN2SHVmTEZPX1pTVUlkMUZ5Rmkwa0xKR1BGOUlQUlJmWEhtZXlXbWFFUGNKYlZXbUxMT1F5THdjUWRZNURzYXhlZ1QteTB2Z1JseWdRNEJ1Y1FMXzg4LVJXbHdTY2NKb0lUMTlZLUdRREhCSkd2VXhZb1JmNmFVWGVMUkpwU196M0V2cmh5MUU1ZDRsUmc40gGeAUFVX3lxTFBYbVlRNmJBZTZHdU1xMEhrUHo5dDZDT0VLUkF3bjZBTzNjVmhCaHVEQXNFMzZVaDVmRzFMd0tVcTBTV3NXMFhxY1lSSHhGZzRDNHg2cjBRUlFBdlJVQTVMOFNqSlRSVnlpcGFEZkd3THBNZm9QRVg4eDA5SFZsNFhRX1I1ZUhsQXZTM2NJQ01WLVBvdGZmZ3Rmb1hlSFhB?oc=5
 
-- India’s budget bets on infrastructure, manufacturing amid global trade war - Al Jazeera
-  India’s budget bets on infrastructure,
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlRLY2VXNXR4YllhM2RScUdnWVpYOGNSZHo5ZVZRYXdKNUhTVE94ZG5CZklsVVZBRGhmQTZoZ1doSFdZNy1XckRsM2duczRKdjBaRnh4OGRQbDNmdlpMaFRlQ05XemljZjNjY0lMNTY2ZG1Sc2d2QWhodzZob01hUnYzT3BNX3Z2Vk4xeUN6OE1xd1ZXdDdrRkNLclRaOV9VaG1QOWpod1BIV2pTUE9QVEtB0gG3AUFVX3lxTE9HcHdEVlEtd05PWXRBU1I0STlRbXdtMWtkV044QjEtZmp3RjROd1E0M0NwR2M0TU8xRWl3bTNHWU1RQl9JcHdGUHZpNFR6WmdDU2N0X0NhQmQxWUN1UUt6LUZ3OVozUHZHM0lFcUttYm9VQnBlanFrU24zTERFMDlvNXZZbmVPd1ZEc0VxNzFkZXBDZHNKclYwMlpTY20tQzNQT1VwQlZ3V3VWZFFOZHE2cHFVTTBROA?oc=5
+- India Holds Firm Against International Court Order On Indus Waters Treaty - NDTV
+  India Holds Firm Against International Court Order On
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPR2NhaFgzX1ZJaVMwZE9RYlh1X2VMSzlhWjJiUWt4bXVBUy1rcVN5ZGp0Y3Q3LXUtRTdVNjFPR3A1U0R6cEVnRlgzRmlDeVlFM2Jpc05FcVBTbmhJN0JLaTN2MFh2Wjh1eTNNTVJIQVdtY1JWZEhaaWJGYWtLOHlJZHdrdkFoS3h1WDhyZGh1cllfT053b1FZcGZZWFdJSVQ0dzVReWtaNmRXYlg4TUVhRDZJQlrSAbwBQVVfeXFMT1diYjRxZDlrR3VNdnRxRlVaMWc5amVpS0Z6VGF0Y2s0NHhrOUZLcnRVbnlfbUNQaGFwbmtfa1hDQUdRajhMMFZOOE9Ebko0b0tPUTNWYUhkaUUxdnduSXp0UU5pNU5hUUFsYlhLc2xsUWZkYjlyenFsVnkzUlprOEFzOGJQYnM4YkppTUF4TnpIRHNGQk5jWDhfS1drMXVtNDlWVnVvLURBRTFlUXdscXE3dHRqWF9jT2VaN0w?oc=5
 
-- Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir; Sanjay Raut calls Ajit Pawar’s death ‘suspicious’; & more - The Times of India
-  Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir. Sanjay Raut calls
-  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPT3BFaV9BaGRlMGw3S2ptb1FjZEdza0IyUFVJRGd1SkNrbWhBMWpkQ0F2bWF1YmxOdDVuUXhYQjRKdVlDVmptVzdyZVVaWDFVMGptbEZIVmtQSUJVTVpjN0RwMDRoejJXdWdYWXNSUXgwM1lWakhHVlhMa1hLVDVlYlBkTnN0bDMyZ2I1bkRWZ1N5Y1pkQ05WbGJjN0FBaUlFa1ZLMThid1VZSmx3TklMMHVPclBnNFNNWWVFdHYyT3UxNjhhMlA0LW13MlFMSTVLRHA1MV9Wczd1RWNnbWNhdGg3TDdNazJZNzVlV2RWcXhtLVFlUmgzbDk3Rm5OTllKZFVPNDFVVVBIZ20xSVd5b0MtcTdmaEM3cTlxSWF5MnhZM1F5X2c?oc=5
+- India-US talks LIVE updates: Trump announces India-US trade deal; tariffs lowered to 18% | India News - Hindustan Times
+  India-US talks LIVE updates: Trump announces India-US trade deal;
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdVJoaEc1dHUzYkd2YUJudkU5RzBCQjBicmRjOTc2VE1kR0VUV0ZhcUFvdlotZjJfU3gxSG1HR2ZocWRpVTZsWjYtekZFNTdrSU9Wa3dPRHpfdVJqUWF5TE5XLXZPRDN3MGk2alM5MEMzeXhaMEdfbzVXWlRENTZqdUUzZFJ0c0EtdGxRaHo5MnhjakI5c2JzRlpCYXYzcDF6X0pOUHhuWVVtTm53a0pMemFldWtmb3JpUzhzMWNFTjRUOFRXRGx5TUg5NVU3bkRhVTNtQVVVM1RYRFZsbWhrWUYtZ3ItdWZBMkhhdDdRRjIxSzBqTU530gH8AUFVX3lxTE9iUXgwQlBxblNKZjZadmdBSnF4REs5OExrSU1IQmFOZkVWcDhrT05QaExxQTNiXzVjMDhCcG00QnVsRnQxdG9tZTBLdjMyb2tUUm5ZcVhtTkI4OUpRUVpOZ2lHcUltVlBUd2pCZFNvY3VrSVltLXNIN0JSU2hNRFFwUzhnczB4WGtWQ3BLS1E4TjVQQkxsZmRVaEV4Qy1naTM5a1cwbllQRF9vYXBGaVZRY21YQkxjWkZyZGhEMlREeUQybkRGWlFHa090LUpfN2tiR0RFaFVNbXZKNzh0aWI4Uy1rcThXd2VlLWVIWFlKVHlTR0VvMklxNl9rRw?oc=5
 
-- Singapore Is The World's Most Responsible Nation In 2026. Where Does India Stand? - NDTV
-  Singapore Is The World's Most Responsible Nation In
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE8tRWYtekJXMmRxYk1PdkhoZjNnazlOX3dOMnQ4Q2d2MTIzQUFSVjZBNURSRDlaMXRJc1NoZDJQc2xDTnpqUXgwZk93dW0xalJKYWdfNGtCQkRYN1g5T0hLWlB0R21ybjNJOTVfYTBNbGFUckhndTRUUXNOQmJNcmJ0SEpSTGZRYTBUaFhFR3Y2T1RwTHVnc1JpOU1pNWtvVmZ3TzFUZ0RXUWpSNElKVHRSeFY3Z9IBvgFBVV95cUxNTHVQTXV5VUdRS3BYTDJIZWtnVHlaaFV6R2NKYWx2RnRUNFkwRWQ0b0xDUDVaQXM0c2JoTDc3bXZRRnFheWpqdWk4YTgwOVc3WXJFNWo5M09WaHlrSDRTbTBlZ0pvU1gtb3Q5Zk5wa2t6YWJ6Q1hXUEhCSkFLa0h5eFU3bVlKOHFHY0xyejlTM2ZEbEVjeXNlUk9paDBzLTBYLXZtbDBTQUE2OWZ4Z2ZxNU0tMWFTa1ZXT3E0LXdn?oc=5
+- India-US trade deal announced by US President Donald Trump; tariff slashed to 18%, claims India will stop - Times of India
+  India-US trade deal announced by US President Donald Trump; tariff slashed to 18%,
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOanF1UGY1SHp4cnRpMlpZQTBIZlVZUl92SjNXNEtkb3YtbEE3cW9LaXJNUWt0QUZ2aEMzSVlaZEdPUjlDYU1fVVJWTG1NZ1A3Z2xyR0hKR2F6alNVSHhwcndDMzlPMU9TNGY0RzMzeEF6c21vbTV6UUp3OWlIWC1UNVl4cEZ0ZFRLc2VBem9jYWtYYl96SzA5N3hrWkg0eERPTEc2UDFnRmVTMjdJNVBvZW5va2pHckJObkJvenRPeEQ0T01tc1JOblRfV09ZYmRhclRGS1NobzFkZmJXTTFsWkZLQm9XUzhmXzlwU2ZPbE5hN3lXdUQyelJTa1o4MmtGVTFSdXAtX01sTmNib0hLS2h4X0ZqaUVSMHI3R3I5QjlMNXPSAagCQVVfeXFMTTdLb3ZnU1RKRHgwVTdmT3F4T2pDdTJUeXhOekNLaVI2ZFZXb1NZYkJuSGo0Um5tTDc3Sjd4RWdhbThzRzFmRVlhU2dvblNNTlRqMWMzMmxnV3dSeldRdHp6QTFaeUdMSlRLejJEek02bGpzMm9CLVN4eW4xdTU3bWJyOFNYTXZ2X1BCbUd4LV81dVNaQjZhU0ptLWxESkNIQjlBUGtfempXUlN1ZWJvcDlVSHlRQmcxd1FkejFGZGl5dk5Cd0xBYW5Ra01BQ1FaVEl2aGN0WkJDWkFFZ0JXSE1XZjNpOGJFZW5iRHA3b0NCak9qY1JyOVJ3N1BvRERUSFpPbVltWUh3ZDZpQS1iYzg5NDJ0Ui1VbU9wOUNsd01fbXFVYWlmZDA?oc=5
 
-- Honda Cars India Posts 6,941 Unit Sales In January 2026 - Details - NDTV
-  Honda Cars India Posts 6,941 Unit
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjJhTVVxSFlpbDhPak1OZmZqa3ZvQnZoeTVZdUFqcS1DLXl3NDFOWnp1RkQzZGdnbzJUdzJzU1phOVh0SkZjQkExTk4tX1RBLUNGeTRzNko1cnlMZlM5bjE0dThkOE1reHFHV2hHc2ZxREUzX0JwSTNRa0ZYWmpmMkZya3ZwVWxBWTVKam9WMF9oRWdEcDZybGgwdjFPSFnSAacBQVVfeXFMTS1HRDB0OXNuT0djVTBVTkZLZ3lNVlhKUW91ZmI2UG9ZTDhKbEotblQyYXhaNC03eVVyWThDX05rXzRSWENNYTBoS1JIQldzSTVCd3NVZk90bm1NQUE4QlRYUGppTW9tUUFQVlFvMnlEc1Q4d2diWUl6akNQNC1LVXlCUGtTbl93cXZGOVczOVRjeWxmZVJpVkQ5SkVJOWdjMlYyN2kxY2s?oc=5
+- Why the big-bang India-EU FTA has rattled both Pakistan and Bangladesh - India Today
+  Why the big-bang India-EU FTA has
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeUxvYS13SnNKMVN4TU84c1oyU09jSHFtVnIxaHRiNnByUTFkZ0I1NEk4c0xqeU9BN25hcEk4WGZhVDhJV29Pd1lNV1dwRjk3ZHdtOW83QnBVSTZCb1plNFZjQWdCM3QxVVlqcWxqNmZtMmgxVWJxbmRCUUh3VXNmbnVXeEFlNGU0bkQySWVKbXhZVmF0TnBiNFNGdU5UempnWkJvTktsOFBWSDZQODEzR21Oc3dGRUktbVphQk1JSHExNzdOMnRRWFdqM2MyeHVma04xclUtLUpNTnpvSF8tNmtpcUpZX1AzblFUOU11aUpQQ2lhd2JseEVHOGQ2WmxhMXA5Z2pBMDTSAY4CQVVfeXFMTVNreVQ5UW5DUU12TGFCX0Y0UDZ4SWthQUNJbm9KZFY2TUJlM1hzWjlWaFl4cXkwTjF4X3V1Z19IeEk2R05TNXNMMXlqZThLYkxTY1Ric01MR0RfMWtvTWpfZzl0TWRIRHJSMVBpLWllTEU1ZVk1bmlFcXNEcWpKcmVLVnIwNU9ORkY1amEyUFp2NHhyZy1vYnMyYWhHbjBnMVVHa04yNFd5Q1g4Z2dCcGVUb2tZcUMtMG10RlZSeXFsVG8wcmg4OTJjYVVCWXFkdU9PWlFxaDRVSlY5Skc1QW5sM0NFOERPSEpNS0E5ZHJibWk0OFZfQUJ6U01hOGNVZks5dC1xdlNsNkpSeGZB?oc=5
 
-- India Slashes Fund To Bangladesh By Half Amid Diplomatic Tension - NDTV
-  India Slashes Fund To Bangladesh By Half
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM1RhUWllQWhQQWYyNEQwc0dQbmlxWDJPMnlnQ3ItT2FPcXVFQWxKM3B0VG0wTFp1dGs1ZkVRaG1WcTROVVlYR1hDZUcxeDd5bUNHaVBnVWQwcjNvQXlJN0t5YVNOeVNyakZiVzdUczhDclFqR0NiOGlPZldQaGdVaVlMWDFEMC0wTTVlOWhLVWJ0MzVYMUdMZ0I2Wjh5LTJJSnU1bEVrTE5kZEJ5UmhuMzJXU3VWeHVIeGxNeXNIWk7SAcgBQVVfeXFMTjBIWDhfZEw5T193VWplY042RmNlWUVZOGx3cnFuZlF2blo3U0pfTTdibF82Z2ZVWktMWl8yZVNRb0dHemxYVnk4OUpFWGE1WUxEWEs1M3l1QUZ2VE8zV3gxbGVmdHV1U1lmbDRRTGZPWnNqR2NmWnAtaWxQdmx5WU1qenJzRFh0TXVFSFFXRTVJblJUNmZuTHVscUF5MEFTMnFTYlFrWVlqTjlpTEJ0ZVloMlUyRzhJZmNZNEZsWTZaSVY5X2NiZ0s?oc=5
+- Trump speaks to PM Modi, says US Ambassador to India - The Indian Express
+  The Indian Express reports that President Trump spoke to Prime
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEN2SHVmTEZPX1pTVUlkMUZ5Rmkwa0xKR1BGOUlQUlJmWEhtZXlXbWFFUGNKYlZXbUxMT1F5THdjUWRZNURzYXhlZ1QteTB2Z1JseWdRNEJ1Y1FMXzg4LVJXbHdTY2NKb0lUMTlZLUdRREhCSkd2VXhZb1JmNmFVWGVMUkpwU196M0V2cmh5MUU1ZDRsUmc40gGeAUFVX3lxTFBYbVlRNmJBZTZHdU1xMEhrUHo5dDZDT0VLUkF3bjZBTzNjVmhCaHVEQXNFMzZVaDVmRzFMd0tVcTBTV3NXMFhxY1lSSHhGZzRDNHg2cjBRUlFBdlJVQTVMOFNqSlRSVnlpcGFEZkd3THBNZm9QRVg4eDA5SFZsNFhRX1I1ZUhsQXZTM2NJQ01WLVBvdGZmZ3Rmb1hlSFhB?oc=5
 
-- India’s budget bets on infrastructure, manufacturing amid global trade war - Al Jazeera
-  India’s budget bets on infrastructure,
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlRLY2VXNXR4YllhM2RScUdnWVpYOGNSZHo5ZVZRYXdKNUhTVE94ZG5CZklsVVZBRGhmQTZoZ1doSFdZNy1XckRsM2duczRKdjBaRnh4OGRQbDNmdlpMaFRlQ05XemljZjNjY0lMNTY2ZG1Sc2d2QWhodzZob01hUnYzT3BNX3Z2Vk4xeUN6OE1xd1ZXdDdrRkNLclRaOV9VaG1QOWpod1BIV2pTUE9QVEtB0gG3AUFVX3lxTE9HcHdEVlEtd05PWXRBU1I0STlRbXdtMWtkV044QjEtZmp3RjROd1E0M0NwR2M0TU8xRWl3bTNHWU1RQl9JcHdGUHZpNFR6WmdDU2N0X0NhQmQxWUN1UUt6LUZ3OVozUHZHM0lFcUttYm9VQnBlanFrU24zTERFMDlvNXZZbmVPd1ZEc0VxNzFkZXBDZHNKclYwMlpTY20tQzNQT1VwQlZ3V3VWZFFOZHE2cHFVTTBROA?oc=5
+- India Holds Firm Against International Court Order On Indus Waters Treaty - NDTV
+  India Holds Firm Against International Court Order On
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPR2NhaFgzX1ZJaVMwZE9RYlh1X2VMSzlhWjJiUWt4bXVBUy1rcVN5ZGp0Y3Q3LXUtRTdVNjFPR3A1U0R6cEVnRlgzRmlDeVlFM2Jpc05FcVBTbmhJN0JLaTN2MFh2Wjh1eTNNTVJIQVdtY1JWZEhaaWJGYWtLOHlJZHdrdkFoS3h1WDhyZGh1cllfT053b1FZcGZZWFdJSVQ0dzVReWtaNmRXYlg4TUVhRDZJQlrSAbwBQVVfeXFMT1diYjRxZDlrR3VNdnRxRlVaMWc5amVpS0Z6VGF0Y2s0NHhrOUZLcnRVbnlfbUNQaGFwbmtfa1hDQUdRajhMMFZOOE9Ebko0b0tPUTNWYUhkaUUxdnduSXp0UU5pNU5hUUFsYlhLc2xsUWZkYjlyenFsVnkzUlprOEFzOGJQYnM4YkppTUF4TnpIRHNGQk5jWDhfS1drMXVtNDlWVnVvLURBRTFlUXdscXE3dHRqWF9jT2VaN0w?oc=5
 
-- Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir; Sanjay Raut calls Ajit Pawar’s death ‘suspicious’; & more - The Times of India
-  Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir. Sanjay Raut calls
-  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPT3BFaV9BaGRlMGw3S2ptb1FjZEdza0IyUFVJRGd1SkNrbWhBMWpkQ0F2bWF1YmxOdDVuUXhYQjRKdVlDVmptVzdyZVVaWDFVMGptbEZIVmtQSUJVTVpjN0RwMDRoejJXdWdYWXNSUXgwM1lWakhHVlhMa1hLVDVlYlBkTnN0bDMyZ2I1bkRWZ1N5Y1pkQ05WbGJjN0FBaUlFa1ZLMThid1VZSmx3TklMMHVPclBnNFNNWWVFdHYyT3UxNjhhMlA0LW13MlFMSTVLRHA1MV9Wczd1RWNnbWNhdGg3TDdNazJZNzVlV2RWcXhtLVFlUmgzbDk3Rm5OTllKZFVPNDFVVVBIZ20xSVd5b0MtcTdmaEM3cTlxSWF5MnhZM1F5X2c?oc=5
+- India-US talks LIVE updates: Trump announces India-US trade deal; tariffs lowered to 18% | India News - Hindustan Times
+  India-US talks LIVE updates: Trump announces India-US trade deal;
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdVJoaEc1dHUzYkd2YUJudkU5RzBCQjBicmRjOTc2VE1kR0VUV0ZhcUFvdlotZjJfU3gxSG1HR2ZocWRpVTZsWjYtekZFNTdrSU9Wa3dPRHpfdVJqUWF5TE5XLXZPRDN3MGk2alM5MEMzeXhaMEdfbzVXWlRENTZqdUUzZFJ0c0EtdGxRaHo5MnhjakI5c2JzRlpCYXYzcDF6X0pOUHhuWVVtTm53a0pMemFldWtmb3JpUzhzMWNFTjRUOFRXRGx5TUg5NVU3bkRhVTNtQVVVM1RYRFZsbWhrWUYtZ3ItdWZBMkhhdDdRRjIxSzBqTU530gH8AUFVX3lxTE9iUXgwQlBxblNKZjZadmdBSnF4REs5OExrSU1IQmFOZkVWcDhrT05QaExxQTNiXzVjMDhCcG00QnVsRnQxdG9tZTBLdjMyb2tUUm5ZcVhtTkI4OUpRUVpOZ2lHcUltVlBUd2pCZFNvY3VrSVltLXNIN0JSU2hNRFFwUzhnczB4WGtWQ3BLS1E4TjVQQkxsZmRVaEV4Qy1naTM5a1cwbllQRF9vYXBGaVZRY21YQkxjWkZyZGhEMlREeUQybkRGWlFHa090LUpfN2tiR0RFaFVNbXZKNzh0aWI4Uy1rcThXd2VlLWVIWFlKVHlTR0VvMklxNl9rRw?oc=5
 
-- Singapore Is The World's Most Responsible Nation In 2026. Where Does India Stand? - NDTV
-  Singapore Is The World's Most Responsible Nation In
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE8tRWYtekJXMmRxYk1PdkhoZjNnazlOX3dOMnQ4Q2d2MTIzQUFSVjZBNURSRDlaMXRJc1NoZDJQc2xDTnpqUXgwZk93dW0xalJKYWdfNGtCQkRYN1g5T0hLWlB0R21ybjNJOTVfYTBNbGFUckhndTRUUXNOQmJNcmJ0SEpSTGZRYTBUaFhFR3Y2T1RwTHVnc1JpOU1pNWtvVmZ3TzFUZ0RXUWpSNElKVHRSeFY3Z9IBvgFBVV95cUxNTHVQTXV5VUdRS3BYTDJIZWtnVHlaaFV6R2NKYWx2RnRUNFkwRWQ0b0xDUDVaQXM0c2JoTDc3bXZRRnFheWpqdWk4YTgwOVc3WXJFNWo5M09WaHlrSDRTbTBlZ0pvU1gtb3Q5Zk5wa2t6YWJ6Q1hXUEhCSkFLa0h5eFU3bVlKOHFHY0xyejlTM2ZEbEVjeXNlUk9paDBzLTBYLXZtbDBTQUE2OWZ4Z2ZxNU0tMWFTa1ZXT3E0LXdn?oc=5
+- India-US trade deal announced by US President Donald Trump; tariff slashed to 18%, claims India will stop - Times of India
+  India-US trade deal announced by US President Donald Trump; tariff slashed to 18%,
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOanF1UGY1SHp4cnRpMlpZQTBIZlVZUl92SjNXNEtkb3YtbEE3cW9LaXJNUWt0QUZ2aEMzSVlaZEdPUjlDYU1fVVJWTG1NZ1A3Z2xyR0hKR2F6alNVSHhwcndDMzlPMU9TNGY0RzMzeEF6c21vbTV6UUp3OWlIWC1UNVl4cEZ0ZFRLc2VBem9jYWtYYl96SzA5N3hrWkg0eERPTEc2UDFnRmVTMjdJNVBvZW5va2pHckJObkJvenRPeEQ0T01tc1JOblRfV09ZYmRhclRGS1NobzFkZmJXTTFsWkZLQm9XUzhmXzlwU2ZPbE5hN3lXdUQyelJTa1o4MmtGVTFSdXAtX01sTmNib0hLS2h4X0ZqaUVSMHI3R3I5QjlMNXPSAagCQVVfeXFMTTdLb3ZnU1RKRHgwVTdmT3F4T2pDdTJUeXhOekNLaVI2ZFZXb1NZYkJuSGo0Um5tTDc3Sjd4RWdhbThzRzFmRVlhU2dvblNNTlRqMWMzMmxnV3dSeldRdHp6QTFaeUdMSlRLejJEek02bGpzMm9CLVN4eW4xdTU3bWJyOFNYTXZ2X1BCbUd4LV81dVNaQjZhU0ptLWxESkNIQjlBUGtfempXUlN1ZWJvcDlVSHlRQmcxd1FkejFGZGl5dk5Cd0xBYW5Ra01BQ1FaVEl2aGN0WkJDWkFFZ0JXSE1XZjNpOGJFZW5iRHA3b0NCak9qY1JyOVJ3N1BvRERUSFpPbVltWUh3ZDZpQS1iYzg5NDJ0Ui1VbU9wOUNsd01fbXFVYWlmZDA?oc=5
 
-- Honda Cars India Posts 6,941 Unit Sales In January 2026 - Details - NDTV
-  Honda Cars India Posts 6,941 Unit
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjJhTVVxSFlpbDhPak1OZmZqa3ZvQnZoeTVZdUFqcS1DLXl3NDFOWnp1RkQzZGdnbzJUdzJzU1phOVh0SkZjQkExTk4tX1RBLUNGeTRzNko1cnlMZlM5bjE0dThkOE1reHFHV2hHc2ZxREUzX0JwSTNRa0ZYWmpmMkZya3ZwVWxBWTVKam9WMF9oRWdEcDZybGgwdjFPSFnSAacBQVVfeXFMTS1HRDB0OXNuT0djVTBVTkZLZ3lNVlhKUW91ZmI2UG9ZTDhKbEotblQyYXhaNC03eVVyWThDX05rXzRSWENNYTBoS1JIQldzSTVCd3NVZk90bm1NQUE4QlRYUGppTW9tUUFQVlFvMnlEc1Q4d2diWUl6akNQNC1LVXlCUGtTbl93cXZGOVczOVRjeWxmZVJpVkQ5SkVJOWdjMlYyN2kxY2s?oc=5
+- Why the big-bang India-EU FTA has rattled both Pakistan and Bangladesh - India Today
+  Why the big-bang India-EU FTA has
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeUxvYS13SnNKMVN4TU84c1oyU09jSHFtVnIxaHRiNnByUTFkZ0I1NEk4c0xqeU9BN25hcEk4WGZhVDhJV29Pd1lNV1dwRjk3ZHdtOW83QnBVSTZCb1plNFZjQWdCM3QxVVlqcWxqNmZtMmgxVWJxbmRCUUh3VXNmbnVXeEFlNGU0bkQySWVKbXhZVmF0TnBiNFNGdU5UempnWkJvTktsOFBWSDZQODEzR21Oc3dGRUktbVphQk1JSHExNzdOMnRRWFdqM2MyeHVma04xclUtLUpNTnpvSF8tNmtpcUpZX1AzblFUOU11aUpQQ2lhd2JseEVHOGQ2WmxhMXA5Z2pBMDTSAY4CQVVfeXFMTVNreVQ5UW5DUU12TGFCX0Y0UDZ4SWthQUNJbm9KZFY2TUJlM1hzWjlWaFl4cXkwTjF4X3V1Z19IeEk2R05TNXNMMXlqZThLYkxTY1Ric01MR0RfMWtvTWpfZzl0TWRIRHJSMVBpLWllTEU1ZVk1bmlFcXNEcWpKcmVLVnIwNU9ORkY1amEyUFp2NHhyZy1vYnMyYWhHbjBnMVVHa04yNFd5Q1g4Z2dCcGVUb2tZcUMtMG10RlZSeXFsVG8wcmg4OTJjYVVCWXFkdU9PWlFxaDRVSlY5Skc1QW5sM0NFOERPSEpNS0E5ZHJibWk0OFZfQUJ6U01hOGNVZks5dC1xdlNsNkpSeGZB?oc=5
 
-- India Slashes Fund To Bangladesh By Half Amid Diplomatic Tension - NDTV
-  India Slashes Fund To Bangladesh By Half
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM1RhUWllQWhQQWYyNEQwc0dQbmlxWDJPMnlnQ3ItT2FPcXVFQWxKM3B0VG0wTFp1dGs1ZkVRaG1WcTROVVlYR1hDZUcxeDd5bUNHaVBnVWQwcjNvQXlJN0t5YVNOeVNyakZiVzdUczhDclFqR0NiOGlPZldQaGdVaVlMWDFEMC0wTTVlOWhLVWJ0MzVYMUdMZ0I2Wjh5LTJJSnU1bEVrTE5kZEJ5UmhuMzJXU3VWeHVIeGxNeXNIWk7SAcgBQVVfeXFMTjBIWDhfZEw5T193VWplY042RmNlWUVZOGx3cnFuZlF2blo3U0pfTTdibF82Z2ZVWktMWl8yZVNRb0dHemxYVnk4OUpFWGE1WUxEWEs1M3l1QUZ2VE8zV3gxbGVmdHV1U1lmbDRRTGZPWnNqR2NmWnAtaWxQdmx5WU1qenJzRFh0TXVFSFFXRTVJblJUNmZuTHVscUF5MEFTMnFTYlFrWVlqTjlpTEJ0ZVloMlUyRzhJZmNZNEZsWTZaSVY5X2NiZ0s?oc=5
-
-- India’s budget bets on infrastructure, manufacturing amid global trade war - Al Jazeera
-  India’s budget bets on infrastructure,
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlRLY2VXNXR4YllhM2RScUdnWVpYOGNSZHo5ZVZRYXdKNUhTVE94ZG5CZklsVVZBRGhmQTZoZ1doSFdZNy1XckRsM2duczRKdjBaRnh4OGRQbDNmdlpMaFRlQ05XemljZjNjY0lMNTY2ZG1Sc2d2QWhodzZob01hUnYzT3BNX3Z2Vk4xeUN6OE1xd1ZXdDdrRkNLclRaOV9VaG1QOWpod1BIV2pTUE9QVEtB0gG3AUFVX3lxTE9HcHdEVlEtd05PWXRBU1I0STlRbXdtMWtkV044QjEtZmp3RjROd1E0M0NwR2M0TU8xRWl3bTNHWU1RQl9JcHdGUHZpNFR6WmdDU2N0X0NhQmQxWUN1UUt6LUZ3OVozUHZHM0lFcUttYm9VQnBlanFrU24zTERFMDlvNXZZbmVPd1ZEc0VxNzFkZXBDZHNKclYwMlpTY20tQzNQT1VwQlZ3V3VWZFFOZHE2cHFVTTBROA?oc=5
-
-- Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir; Sanjay Raut calls Ajit Pawar’s death ‘suspicious’; & more - The Times of India
-  Evening news wrap: Parliament witnesses showdown as Rahul quotes Naravane memoir. Sanjay Raut calls
-  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxPT3BFaV9BaGRlMGw3S2ptb1FjZEdza0IyUFVJRGd1SkNrbWhBMWpkQ0F2bWF1YmxOdDVuUXhYQjRKdVlDVmptVzdyZVVaWDFVMGptbEZIVmtQSUJVTVpjN0RwMDRoejJXdWdYWXNSUXgwM1lWakhHVlhMa1hLVDVlYlBkTnN0bDMyZ2I1bkRWZ1N5Y1pkQ05WbGJjN0FBaUlFa1ZLMThid1VZSmx3TklMMHVPclBnNFNNWWVFdHYyT3UxNjhhMlA0LW13MlFMSTVLRHA1MV9Wczd1RWNnbWNhdGg3TDdNazJZNzVlV2RWcXhtLVFlUmgzbDk3Rm5OTllKZFVPNDFVVVBIZ20xSVd5b0MtcTdmaEM3cTlxSWF5MnhZM1F5X2c?oc=5
-
-- Singapore Is The World's Most Responsible Nation In 2026. Where Does India Stand? - NDTV
-  Singapore Is The World's Most Responsible Nation In
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE8tRWYtekJXMmRxYk1PdkhoZjNnazlOX3dOMnQ4Q2d2MTIzQUFSVjZBNURSRDlaMXRJc1NoZDJQc2xDTnpqUXgwZk93dW0xalJKYWdfNGtCQkRYN1g5T0hLWlB0R21ybjNJOTVfYTBNbGFUckhndTRUUXNOQmJNcmJ0SEpSTGZRYTBUaFhFR3Y2T1RwTHVnc1JpOU1pNWtvVmZ3TzFUZ0RXUWpSNElKVHRSeFY3Z9IBvgFBVV95cUxNTHVQTXV5VUdRS3BYTDJIZWtnVHlaaFV6R2NKYWx2RnRUNFkwRWQ0b0xDUDVaQXM0c2JoTDc3bXZRRnFheWpqdWk4YTgwOVc3WXJFNWo5M09WaHlrSDRTbTBlZ0pvU1gtb3Q5Zk5wa2t6YWJ6Q1hXUEhCSkFLa0h5eFU3bVlKOHFHY0xyejlTM2ZEbEVjeXNlUk9paDBzLTBYLXZtbDBTQUE2OWZ4Z2ZxNU0tMWFTa1ZXT3E0LXdn?oc=5
-
-- Honda Cars India Posts 6,941 Unit Sales In January 2026 - Details - NDTV
-  Honda Cars India Posts 6,941 Unit
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjJhTVVxSFlpbDhPak1OZmZqa3ZvQnZoeTVZdUFqcS1DLXl3NDFOWnp1RkQzZGdnbzJUdzJzU1phOVh0SkZjQkExTk4tX1RBLUNGeTRzNko1cnlMZlM5bjE0dThkOE1reHFHV2hHc2ZxREUzX0JwSTNRa0ZYWmpmMkZya3ZwVWxBWTVKam9WMF9oRWdEcDZybGgwdjFPSFnSAacBQVVfeXFMTS1HRDB0OXNuT0djVTBVTkZLZ3lNVlhKUW91ZmI2UG9ZTDhKbEotblQyYXhaNC03eVVyWThDX05rXzRSWENNYTBoS1JIQldzSTVCd3NVZk90bm1NQUE4QlRYUGppTW9tUUFQVlFvMnlEc1Q4d2diWUl6akNQNC1LVXlCUGtTbl93cXZGOVczOVRjeWxmZVJpVkQ5SkVJOWdjMlYyN2kxY2s?oc=5
+- Trump speaks to PM Modi, says US Ambassador to India - The Indian Express
+  The Indian Express reports that President Trump spoke to Prime
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEN2SHVmTEZPX1pTVUlkMUZ5Rmkwa0xKR1BGOUlQUlJmWEhtZXlXbWFFUGNKYlZXbUxMT1F5THdjUWRZNURzYXhlZ1QteTB2Z1JseWdRNEJ1Y1FMXzg4LVJXbHdTY2NKb0lUMTlZLUdRREhCSkd2VXhZb1JmNmFVWGVMUkpwU196M0V2cmh5MUU1ZDRsUmc40gGeAUFVX3lxTFBYbVlRNmJBZTZHdU1xMEhrUHo5dDZDT0VLUkF3bjZBTzNjVmhCaHVEQXNFMzZVaDVmRzFMd0tVcTBTV3NXMFhxY1lSSHhGZzRDNHg2cjBRUlFBdlJVQTVMOFNqSlRSVnlpcGFEZkd3THBNZm9QRVg4eDA5SFZsNFhRX1I1ZUhsQXZTM2NJQ01WLVBvdGZmZ3Rmb1hlSFhB?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-02 12:50:34 UTC_
+_Last updated: 2026-02-02 18:41:12 UTC_
