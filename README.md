@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Another BITS Pilani Goa student found dead in hostel, panel indicates ‘suicide contagion’
+- ‘World is tilting towards India’: Modi to NDA MPs on India-US tariff deal, FTA with EU
   
-  🔗 https://indianexpress.com/article/india/another-bits-pilani-goa-student-found-dead-in-hostel-panel-indicates-suicide-contagion-10510000/
+  🔗 https://indianexpress.com/article/india/modi-to-nda-mp-us-18-percent-tariff-eu-fta-10510554/
 
-- Bihar outpaces India’s GDP growth: State economy hits record Rs 9.9 lakh crore as manufacturing surges
+- ‘PM Modi has completely surrendered’: Opposition to corner Govt in Parliament over India-US trade deal
   
-  🔗 https://indianexpress.com/article/india/bihar-outpaces-indias-gdp-growth-state-economy-hits-record-rs-9-9-lakh-crore-as-manufacturing-surges-10510007/
+  🔗 https://indianexpress.com/article/india/pm-modi-has-completely-surrendered-opposition-to-corner-govt-in-parliament-over-india-us-trade-deal-10510549/
 
-- FIR against him and protests looming, ‘Mohammad Deepak’ is resolute: ‘Someone has to speak up’
+- Parliament Budget Session 2026 Live Updates: Lok Sabha adjourned till 12 amid Opposition uproar
   
-  🔗 https://indianexpress.com/article/india/fir-against-him-threat-of-protests-looming-mohammad-deepak-is-unfazed-no-regrets-someone-has-to-speak-up-10509997/
+  🔗 https://indianexpress.com/article/india/parliament-budget-session-2026-live-updates-rahul-gandhi-general-naravane-book-row-lok-sabha-10510478/
 
-- Communal flare-up in a Chhattisgarh village: 6 homes torched, cops injured during rescue operation
+- Gold Today Rate, February 3: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/communal-flare-up-in-a-chhattisgarh-village-6-homes-torched-cops-injured-during-rescue-operation-10510004/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-february-3-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10510381/
 
-- Individual taxpayers biggest beneficiary of tax deductions claimed on political donations
+- Shopkeeper at centre of ‘Mohammad Deepak’ row speaks: ‘Why will we change shop’s name? Everyone is with us’
   
-  🔗 https://indianexpress.com/article/india/individual-taxpayers-biggest-beneficiary-of-tax-deductions-claimed-on-political-donations-10509937/
+  🔗 https://indianexpress.com/article/india/heartwarming-son-of-elderly-shopkeeper-defended-by-mohammad-deepak-say-now-they-dont-have-to-change-shop-name-10510006/
+
+- SpaceX acquires xAI in record-setting deal as Musk looks to unify AI and space ambitions
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spacex-acquires-xai-in-record-setting-deal-as-musk-looks-to-unify-ai-and-space-ambitions-10510309/
+
+- OpenAI is unsatisfied with some Nvidia chips and looking for alternatives, sources say
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-is-unsatisfied-with-some-nvidia-chips-and-looking-for-alternatives-sources-say-10510272/
 
 - Users increasingly likely to follow AI chatbot’s advice without question, Anthropic study finds
   
@@ -32,53 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/oracle-may-slash-30000-jobs-ai-infrastructure-report-10508831/
 
-- Video game stocks slide on Google’s AI model that turns prompts into playable worlds
-  
-  🔗 https://indianexpress.com/article/technology/gaming/video-game-stocks-slide-on-googles-ai-model-that-turns-prompts-into-playable-worlds-10508644/
+- Air India begins inspection of fuel control switches in Boeing 787 fleet — Here's all we know
+  Air India has begun inspecting fuel control switches in its Boeing 787 Dreamliner fleet. The airline's engineering team is prioritizing evaluations with Boeing.
+  🔗 https://www.livemint.com/companies/news/air-india-begins-inspection-of-fuel-control-switches-in-boeing-787-fleet-heres-all-we-know-11770097109551.html
 
-- India hands Apple a win by letting foreign firms fund equipment without tax risk
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/india-hands-apple-a-win-by-letting-foreign-firms-fund-equipment-without-tax-risk-10508635/
+- Is Zerodha down? Users flag glitches on app as markets rally after India-US trade deal
+  Zerodha faces significant outages on 3 February, with users reporting issues with sell orders and account visibility. Despite the Indian stock market rally, the company has not yet addressed these
+  🔗 https://www.livemint.com/companies/news/is-zerodha-down-users-flag-glitches-on-app-as-markets-rally-after-india-us-trade-deal-11770092766744.html
+
+- Zensar in talks to acquire promoter stake in Mastek
+  Zensar Technologies' deal for Mastek is expected to be valued at over
+  🔗 https://www.livemint.com/companies/news/zensar-technologies-promoter-stake-mastek-it-sector-chryscapital-persistent-systems-11770086047144.html
+
+- Palantir stock jumps 8% on strong FY26 revenue forecast, CEO Alex Karp praises ‘Stellar, unusual, sublime’ performance
+  Palantir stock rose 8% after exceeding Wall Street analysts' revenue forecasts for FY26 at $7.19 billion. The company reported Q4
+  🔗 https://www.livemint.com/companies/news/palantir-stock-jumps-up-8-pc-strong-fy26-revenue-forecast-ceo-alex-karp-stellar-unusual-sublime-performance-beat-wall-st-11770080800418.html
 
 - IndiGo hires Nik Laming to head loyalty program as its eyes ramp up
   Hiring of Nik Laming signals a shift toward high-value, repeat
   🔗 https://www.livemint.com/companies/news/indigo-hires-nik-laming-to-head-loyalty-program-as-its-eyes-ramp-up-11770031521429.html
 
-- Small budget for a big bottleneck: India’s only rare earth producer gets modest capex hike
-  There are concerns over whether India is investing enough in its sole operational rare earth supplier. With China tightening exports and
-  🔗 https://www.livemint.com/companies/india-rare-earth-magnets-irel-budget-china-11770019468630.html
+- SEBI to cut FPI registration time from 30 days to just 5 days, aiming to boost foreign investment, chief Pandey says
+  The market regulator aims to reduce the registration timeline for foreign portfolio investors from 30 to 5 days. Sebi has also launched initiatives, including webinars and a digital
+  🔗 https://www.livemint.com/market/stock-market-news/sebi-fpi-registration-fpi-entry-foreign-investors-india-market-entry-rules-new-fpi-rules-11770088800645.html
 
-- Elon Musk's SpaceX acquires xAI in record-setting deal ahead of mega IPO
-  Elon Musk's new deal will combine several of his companies. The deal includes his chatbot Grok
-  🔗 https://www.livemint.com/companies/news/elon-musks-spacex-acquires-xai-in-record-setting-deal-ahead-of-mega-ipo-11770076490629.html
+- Small-cap IT stock Blue Cloud jumps over 8% following the Indian stock market rally
+  Blue Cloud Softech Solutions surged 8% on February 3. The stock is still 52% below its peak but has delivered 310% returns over five years. The company is expanding into automotive cybersecurity
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-it-stock-blue-cloud-jumps-8-following-indian-stock-market-rally-multibagger-small-cap-stock-under-rs-50-11770100065363.html
 
-- Vanguard CEO Ramji Calls Trump Accounts a ‘Fabulous Concept’
-  The Trump administration’s plan to give $1,000 in seed funding to millions of US children is
-  🔗 https://www.livemint.com/companies/vanguard-ceo-ramji-calls-trump-accounts-a-fabulous-concept-11770058841616.html
+- Home decor stock jumps 17%, company claims India-US trade deal connection; here's why
+   Responsive Industries share price jumped 17% after a US-India trade deal reduced tariffs on Indian products. The company expects to benefit from increased exports, especially in
+  🔗 https://www.livemint.com/market/stock-market-news/home-decor-stock-jumps-17-company-claims-india-us-trade-deal-connection-heres-why-11770097984189.html
 
-- NYSE Owner Gets SEC Approval for Treasury Clearinghouse
-  Intercontinental Exchange Inc. won approval to operate a clearinghouse for US Treasuries. New regulations for the world
-  🔗 https://www.livemint.com/companies/nyse-owner-gets-sec-approval-for-treasury-clearinghouse-11770058157441.html
+- Rupee finds its footing after India-US trade deal, outlook turns less bearish
+  Trade deal is expected to support capital inflows and improve the balance of payments position. This has come as foreign direct investment slowed as dollar
+  🔗 https://www.livemint.com/market/indian-rupee-us-india-trade-deal-rupee-vs-dollar-us-tariffs-fiis-11770094831164.html
 
-- Nifty 50, Sensex today: What to expect from Indian stock market in trade on February 3 after India-US trade deal
-  Gift Nifty was trading around 25,937 level, a premium of nearly 795 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-february-3-after-india-us-trade-deal-11770054230527.html
-
-- Mint Quick Edit | Government bond yields shot up after India unveiled its budget: How much of a worry is this?
-  India’s bond market reacted to a government borrowing plan that was probably bigger than expected. While upward pressure on the cost of capital is an obvious worry, the appetite
-  🔗 https://www.livemint.com/market/bonds/mint-quick-edit-government-bond-yields-india-unveiled-budget-foreign-investors-debt-11770042635928.html
-
-- Indian stock market: 8 key things that changed for market overnight - Gift Nifty, India-US trade deal to gold prices
-  Gift Nifty was trading around 25,939 level, a premium of nearly 797 points from the Nifty
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-8-key-things-that-changed-for-market-overnight-gift-nifty-india-us-trade-deal-to-gold-prices-11770054623718.html
-
-- Gold, silver rates today: Gold rises 4%, silver surges 8% after falling four straight sessions
-  Spot gold surged as much as 4% to $4,830 an ounce. Spot silver also climbed nearly
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-rises-4-silver-surges-8-after-falling-four-straight-sessions-11770079396933.html
-
-- Foreign outflows show currency concerns, not a negative India fundamentals: Aditya Birla Sun Life AMC's Harish Krishnan
-  About 60% of top-tier companies' revenue linked to the dollar. A weaker rupee provides a natural hedge and a revenue boost.
-  🔗 https://www.livemint.com/market/indian-equities-foreign-outflows-currency-concerns-harish-krishnan-11770025942787.html
+- Reliance share price jumps 7% after this acquisition update, India-US trade deal optimism — Time to buy?
+  Shares of Reliance Industries zoomed up to 7% in intraday trading on Tuesday, February 3, following the announcement
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-share-price-jumps-7-after-this-acquisition-update-by-reliance-jio-11770096779642.html
 
 - Exclusive-OpenAI is unsatisfied with some Nvidia chips and looking for alternatives, sources say
   OpenAI is unsatisfied with some Nvidia
@@ -100,65 +100,105 @@
   'Moltbook' social media site for AI agents
   🔗 https://www.livemint.com/technology/moltbook-social-media-site-for-ai-agents-had-big-security-hole-cyber-firm-wiz-says-11770044495257.html
 
-- BEL trades above key moving averages; technicals signal continuation of uptrend: Rajesh Palviya
+- Power Grid shares rally 13% in two days on higher FY26 capex guidance
+  Power Grid shares rose sharply, extending their two-day rally after the PSU raised its FY26 capex and capitalisation guidance. Strong Q3 results, higher government investment plans, and bullish technical indicators have boosted
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/power-grid-shares-rally-13-in-two-days-on-higher-fy26-capex-guidance/articleshow/127877497.cms
+
+- Manufacturing stuck at 14% for years; P Chidambaram slams Budget 2026, questions Modi govt's economic strategy
+  Former Finance Minister P Chidambaram has strongly criticized the Union Budget 26. He stated the budget lacks a clear economic strategy. Key concerns include India's manufacturing sector remaining stagnant.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/manufacturing-stuck-at-14-for-years-p-chidambaram-slams-budget-2026-questions-modi-govts-economic-strategy/articleshow/127877217.cms
+
+- Zerodha down? Traders flag multiple issues; company responds
+  Zerodha's trading platform Kite experienced significant disruptions on Tuesday. Users reported forced logouts, login failures, and inaccurate portfolio data.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zerodha-down-traders-flag-multiple-issues-company-responds/articleshow/127877293.cms
+
+- Q3 Results Today Live Updates: Adani Enterprises, Adani Ports, Bajaj Finance, and Varun Beverages, BCCL among key companies to announce Dec quarter earnings
   
-  🔗 https://economictimes.indiatimes.com/markets/stocks/bel-trades-above-key-moving-averages-technicals-signal-continuation-of-uptrend-rajesh-palviya/videoshow/127855334.cms
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/q3-results-today-live-updates-adani-enterprises-q3-fy26-adani-ports-varun-bev-bharat-coking-coal-earning-report-net-profit-loss-results-today-03-feb-2026/liveblog/127877146.cms
 
-- SGBs lose tax glitter after Budget 2026, tumble 8-10%
-  Sovereign Gold Bonds (SGBs) experienced a significant drop of 8-10% as investors shied away from the secondary market. The government's withdrawal of tax benefits on capital gains at maturity has prompted wealth
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sgbs-lose-tax-glitter-after-budget-2026-tumble-8-10/articleshow/127873805.cms
+- Bitcoin steadies near $78,900 after liquidity-driven weekend sell-off; experts weigh in
+  Cryptocurrencies are showing signs of recovery after a sharp weekend decline. Bitcoin has stabilized near $78,800, while several major altcoins have seen significant gains. The global cryptocurrency market capitalization has also increased.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/bitcoin-steadies-near-78900-after-liquidity-driven-weekend-sell-off-experts-weigh-in/articleshow/127876967.cms
 
-- Stock markets’ over 1% bounceback reflects clarity on tax
-  Short covering and easing concerns over a securities transaction tax hike supported the market. Auto sales and falling crude oil prices also boosted sentiment. Foreign investors sold shares, while domestic investors bought them.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-markets-over-1-bounceback-reflects-clarity-on-tax/articleshow/127873775.cms
+- India-US Trade Deal LIVE: Centre's Statement On US-India Trade Deal Likely In Parliament, Say Sources - NDTV
+  India-US Trade Deal LIVE: Centre's Statement On US-
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbDYycWVlMlF5X2N1UnlSNEloa0otNXhzUXA1MDFEVmVuSmpIVW9uQ0wwRmZFanZSTEN2R2ZQS192VkxhQlZWRS1KV25TM1RJbkFFbUN2Q1plQ05ZT1BmNTIzdWJzeUpuYnZJS2xkaWlCYXgwWXN4NHFCSk45VnNmZ3A1Vk1JRmhXOGdvRlJyZldvbE5ubTBGUklzS3NpYVVKX1J6SkxJOE1jTWJqZHMtLWdqcDRoOXZoMHY4dldHSVZhcHA0VDNwVC1ITzhIUjQ0c2I0eDlyZkFSd0JyaExvcGRkWdIB6wFBVV95cUxPbVlxMktTTXdlckhsTXBIS1NYbDZqS21vNENodko5QlRDdkVIc2RvampKYnByZ3lFdHRaLXdqSjViNXVwQ0U1dk9aWnJDOTJTWVUwNGtEVk9XUmUzOUxwX1lDSU5jaC1fODhVZTI4RUtBczIyUExFX2JIWTZiT0RpYjZGOHU0TUdvS1loRjV4aGJrMFJoNkFtakFmWTg0SW5UVnNXS2swUHZHMF9OYTN3SnBNTkRoQmJXTVVDWmVqM1F6Qmd0clJPNmh0MkVaanJ1ZU5RTENZS0lpWmdhbnF6a1lKV05ZcWoxcXhB?oc=5
 
-- US trade deal win may spark foreign buying rush in Indian stocks
-  Indian stocks are set to outperform Asian markets. A new trade deal with the US has removed a major concern for investors.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-trade-deal-win-may-spark-foreign-buying-rush-in-indian-stocks/articleshow/127873694.cms
+- India-US Trade Deal News Live Updates: Trump aide claims deal would pump American farm goods in India - Times of India
+  India-US Trade Deal News Live Updates: Trump aide claims deal would pump American farm
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
 
-- Stocks in news: RIL, Adani Enterprises, Bajaj Housing, PB Fintech
-  Bajaj Finance and Adani Enterprises will announce their third-quarter results. RIL faces a legal challenge from the government. Eicher Motors reported strong January sales. Lupin launched a generic cancer drug in the US.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ril-adani-enterprises-bajaj-housing-pb-fintech/articleshow/127873691.cms
+- Won't allow you to play with India's privacy policy: Supreme Court warns Meta - India Today
+  India Today is a news website. It is owned by
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWUZueDE3TjkyeF9fZVdzbFFtVUZRd2RFZXp1TUVtSGNybko5XzJoTDRWemE3UC1DdHpRMGZ5TWU1SFZoTVBBWlRESTJfOEZyZVNqQ2J1UzRXN2JFS05oOEJIX0ZOTzEzdXEzTl9EMmtDbjFQbnEtcFhGWEpMWVB1QWZJbkFWTEc1S0FWbG9La091VWhCZHpTVjVscU11Q3NrV0NHLTlfT0dBQlhfOW1iUWJ3cTE4NGl4TktkSndjUkRQajUwRWZXb0o0Z1FOb2hmaVVZLUxIWVYtSFXSAeABQVVfeXFMUFE4THNWai1YTDJNeG11bDJBNndCTThQZXlFU01waFFJYVJwdXB0M3l5TU9qeHZmY0M3bVJPX1JuWTV3TjFnUW9oUmF6cXdvU1pQY29pQy1MQzVKNk9mU19KZmJiajVMcWZWYmtxMTI2Rm55TEhRZlhfRkg3dndCb1MwbHNoclVfX1A5Nk5tUEVzZE00OXBUcVRocVI1UVRnLUwtV05kdDFERW16SnZNYUdSRWpIdlV3WWFIbXBPT0xZSWJCMG5qalVJRVVjYTc2X2R2OGstRlFmcEZrdUtLR3k?oc=5
 
-- India-US talks LIVE updates: Tariffs on India lowered from 50% to 18% as Trump announces deal | India News - Hindustan Times
-  India-US talks LIVE updates: Tariffs on India lowered from 50% to 18%
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdVJoaEc1dHUzYkd2YUJudkU5RzBCQjBicmRjOTc2VE1kR0VUV0ZhcUFvdlotZjJfU3gxSG1HR2ZocWRpVTZsWjYtekZFNTdrSU9Wa3dPRHpfdVJqUWF5TE5XLXZPRDN3MGk2alM5MEMzeXhaMEdfbzVXWlRENTZqdUUzZFJ0c0EtdGxRaHo5MnhjakI5c2JzRlpCYXYzcDF6X0pOUHhuWVVtTm53a0pMemFldWtmb3JpUzhzMWNFTjRUOFRXRGx5TUg5NVU3bkRhVTNtQVVVM1RYRFZsbWhrWUYtZ3ItdWZBMkhhdDdRRjIxSzBqTU530gH8AUFVX3lxTE9iUXgwQlBxblNKZjZadmdBSnF4REs5OExrSU1IQmFOZkVWcDhrT05QaExxQTNiXzVjMDhCcG00QnVsRnQxdG9tZTBLdjMyb2tUUm5ZcVhtTkI4OUpRUVpOZ2lHcUltVlBUd2pCZFNvY3VrSVltLXNIN0JSU2hNRFFwUzhnczB4WGtWQ3BLS1E4TjVQQkxsZmRVaEV4Qy1naTM5a1cwbllQRF9vYXBGaVZRY21YQkxjWkZyZGhEMlREeUQybkRGWlFHa090LUpfN2tiR0RFaFVNbXZKNzh0aWI4Uy1rcThXd2VlLWVIWFlKVHlTR0VvMklxNl9rRw?oc=5
+- 500% Tariff Threat To Forced Praise: Lindsey Graham Reveals Who Blinked First In India Trade Deal - Times of India
+  The Times of India published an article about the India-U.S
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZXlJS011SWIwbUQyd0VjN19OcEFrVDZLSzVsRDBJM1ZIZGhBZjFHcGc3U0NWYXNuN1lHbFVqek94R25ZQmo3SjAzZU5Eay1qTERQc2ROeTZVRmVqSXR0UmRYOUxES0xWRklIV2xSX3A2LXh1Rkd2QUliOUo5SEhKZTVHSEs0eXJaLUVzX2pIME44bDdSNTNwMlFFNUV5SkphZ3d4VG1aVWxjbjdiZ1NadWVIN28yd3RtaENzcTNXVDBiLXV4aG1CLTZPUjhHb0VkeXJBb2N0NTJmRHFmbzA0VngtdENkMnNlV0d1TEoyUm1ibmY5QWJQeVJWONIBgAJBVV95cUxOTHVGMGh0bkhmY1hzOTBBYzktVTJZT1dUbzM2d2ZPVEk3WG5aMXd5dEw3RFkzYTk0ckF4UFdyQ05abEJrMmgyRXoxTjE0R3FUZlZxZzdnaDNZMk4wZ1BBT2sxTXptVXBJVzRyWmhaYl9LcHFsWEVveF9WY1RyVVlrcDdpa3p3RFZuZlJRc2R4Mm1CVXREenA5RHJ4cE1TLWNmdmZCT3d1T2FLSHFHV2IzYlBYM196blBfY21KeFFIU0VFaXlzQ1Z3NWc5dmVzZ05LWTQycGFrZ2hBRWt4MVA0ei1IaTBqMW9Sc0k1LXpmTUw3QWVvSUxObllSeFlHbk5N?oc=5
 
-- India Holds Firm Against International Court Order On Indus Waters Treaty - NDTV
-  India Holds Firm Against International Court Order On
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPR2NhaFgzX1ZJaVMwZE9RYlh1X2VMSzlhWjJiUWt4bXVBUy1rcVN5ZGp0Y3Q3LXUtRTdVNjFPR3A1U0R6cEVnRlgzRmlDeVlFM2Jpc05FcVBTbmhJN0JLaTN2MFh2Wjh1eTNNTVJIQVdtY1JWZEhaaWJGYWtLOHlJZHdrdkFoS3h1WDhyZGh1cllfT053b1FZcGZZWFdJSVQ0dzVReWtaNmRXYlg4TUVhRDZJQlrSAbwBQVVfeXFMT1diYjRxZDlrR3VNdnRxRlVaMWc5amVpS0Z6VGF0Y2s0NHhrOUZLcnRVbnlfbUNQaGFwbmtfa1hDQUdRajhMMFZOOE9Ebko0b0tPUTNWYUhkaUUxdnduSXp0UU5pNU5hUUFsYlhLc2xsUWZkYjlyenFsVnkzUlprOEFzOGJQYnM4YkppTUF4TnpIRHNGQk5jWDhfS1drMXVtNDlWVnVvLURBRTFlUXdscXE3dHRqWF9jT2VaN0w?oc=5
+- India-US Trade Deal: Ex-US Trade Rep Mark Linscott Hails Pact Linking World’s Top Economies - Times of India
+  India-US Trade Deal: Ex-U.S Trade Rep Mark
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbUxxa0lxT1dQQVpNTHlabEJrOEVLREpVenJtUzYxUlU2T2V5b3h6cnhRUkRNZkkxLXF4TjZobW9PUjVScHgzQlVwdDlBZFh4SS1WZ3JCdlVtdEhjSG8xcDdKTTdQYld6R09xSWI3S013cEFtRjZPcjNUZE5GWFdIdkJ1SG9KSzI5QWRjNVl2OC0tMVFmSTNlVUUxS3g4TW5HdkNkc04wU1FrWTM4R2Z0RXphdVhmM0dTTDRBV080a3dlalNlejlaWHBwUEtMTFpRaDBLYU5iTGVDZndqTmdMSGF6TkR4RDRvbFhhY1RNV3NTUFk?oc=5
 
-- Hyundai bets on India-specific EV as penetration picks up - Times of India
-  Hyundai bets on India-specific EV as
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEJxNVY5MzV6N29RQzhuZFYxMGxEMmMtYjNPS2g5WnNPd0FpTjFUck91Q3BzeUxMcG9DZU5MY2xnclJBd0FuTDBlVjhmak1MOFFNNHFpSVdPTnVoOGtycllYSEFQVzRJaG50YXFRaGZrNHdVZGljVFQ4R1RmemFPUlhodnpuNTU2UXlVdl9IdVZMRlNXRWZ2ZmY5N3NZRkx3VENpaEw5aTNJYlRWY0FJdVhKOVpkVHpwTk9jRGVBbXdyTXJSYlQyYmVYblDSAdIBQVVfeXFMTlQ3aV9zeF9yZ3hRQmJ2RTZHWExYSXlsV2EtaFp6R08xVVZsMTN5YXhTOUl5TnVEcVFYWndJUTBUV281cFhJYTlrbk80ZkJpbjFJbnZaRE04cEhOTUprOUtkclZyRzFYcEZXSm5BbkhUTDlvdGExcUJ2a3V1UWQ0LWxLblVUd3lRMDRXN3hzT1VJajltLVdTUDQxQnBGOGdCeU9aVFViY0F5WnhMa2F5R256aEFkdThQYl9kc1puRV9MVHAxdjlaUktwd0huT1JtdXFR?oc=5
+- India-US Trade Deal LIVE: Centre's Statement On US-India Trade Deal Likely In Parliament, Say Sources - NDTV
+  India-US Trade Deal LIVE: Centre's Statement On US-
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbDYycWVlMlF5X2N1UnlSNEloa0otNXhzUXA1MDFEVmVuSmpIVW9uQ0wwRmZFanZSTEN2R2ZQS192VkxhQlZWRS1KV25TM1RJbkFFbUN2Q1plQ05ZT1BmNTIzdWJzeUpuYnZJS2xkaWlCYXgwWXN4NHFCSk45VnNmZ3A1Vk1JRmhXOGdvRlJyZldvbE5ubTBGUklzS3NpYVVKX1J6SkxJOE1jTWJqZHMtLWdqcDRoOXZoMHY4dldHSVZhcHA0VDNwVC1ITzhIUjQ0c2I0eDlyZkFSd0JyaExvcGRkWdIB6wFBVV95cUxPbVlxMktTTXdlckhsTXBIS1NYbDZqS21vNENodko5QlRDdkVIc2RvampKYnByZ3lFdHRaLXdqSjViNXVwQ0U1dk9aWnJDOTJTWVUwNGtEVk9XUmUzOUxwX1lDSU5jaC1fODhVZTI4RUtBczIyUExFX2JIWTZiT0RpYjZGOHU0TUdvS1loRjV4aGJrMFJoNkFtakFmWTg0SW5UVnNXS2swUHZHMF9OYTN3SnBNTkRoQmJXTVVDWmVqM1F6Qmd0clJPNmh0MkVaanJ1ZU5RTENZS0lpWmdhbnF6a1lKV05ZcWoxcXhB?oc=5
 
-- US, India seal trade deal after PM Modi-Trump call: 5 things that changed overnight - India Today
-  India Today reports that the US and India reached an agreement on a
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOS1RrM1p5OFVjZ3NrOXJIc19RbFlXb0VPNlV2aGt1S19PUzU5RV9QdE1XbHpya3hYS3AzU2pKRVhUNWkwdDNBdzd0QnhjcnZHS2Vma1JUU2M0ZlRGSzFtN2Q1RUlfdjFpNUladHh3Q1NVTkVrYjhjYUM4cGZkUFZ6cmdjUDhqYXVkU2dCTkNGUVJTcDJIM0FlTTZ0c3VwQkotNUJrelBmYzN3aUcwbGNRZURWcWhxeWRFZ0JxZ1ozSGt0dThRVU9ydVZKMNIB0AFBVV95cUxPWWV0aGstMDZybzZSYU1TVE9MTmlka19GLTEyczZScndkZGZ6dGo5dlkyRTV2aUJ5WHZKT2FRenk0VV9MOGQ0Z2dIMjVwdTFCN0dBdzlfQUlLSWc3RjFTZkhramhEX0FkM0dYRzRid19zY3JHV1BsTnczOGJmU0g5Y1hQRVVyU29XUm9fSG1Vb2JadVhvMHVLOFowMnpVTVNBcV9QRU12QXdjZkpEdTM4T2tMYVh3djJHZGFiMk9Fa1lkc3NwbUpGalhxUlZTTXNJ?oc=5
+- India-US Trade Deal News Live Updates: Trump aide claims deal would pump American farm goods in India - Times of India
+  India-US Trade Deal News Live Updates: Trump aide claims deal would pump American farm
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
 
-- Asia-Pacific markets set to climb on U.S.-India trade deal optimism; gold and silver rebound - CNBC
-  Asia-Pacific markets set to climb on U.S.-
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOUE5YOGpSZmNKU1F6WG5RRFpMcTZsUHJkbVUtTVN1X1k2ZDN4bS1lT2VFVDNjUDUtZERVSWhnMl92VVRyVjdGa2JSX25iX05JZGlRTFZVNlZlSG5LazJCZDhTWmFHbXo5ZHZhYmRJdWxkM2tVUkZZNHAtZS1XanJ6TDRJQWJsb2ZxWDFnbUIwajNVM05hSlY1NVd2S05sZlBpQUHSAacBQVVfeXFMTzQtZTY1SE9haDgtV3NKTjExUUw0RXNNVjhBbGw1MXdDcWotZ3BCbXEtQ0gwOE1vN2NyUlZBbXlCT2psMHU3MS1IRUhaSWNXVmlPZWtXb01hczJGVE9KRTN5S05HVU9IRUhsbDlqdDhOVTJISmh1SUliZEhCbTB2SWc4R3BSaE1STzlKXzQ5WmFjRldCYlJxR09VWlRNRjVUdnJCNERWSGc?oc=5
+- Won't allow you to play with India's privacy policy: Supreme Court warns Meta - India Today
+  India Today is a news website. It is owned by
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWUZueDE3TjkyeF9fZVdzbFFtVUZRd2RFZXp1TUVtSGNybko5XzJoTDRWemE3UC1DdHpRMGZ5TWU1SFZoTVBBWlRESTJfOEZyZVNqQ2J1UzRXN2JFS05oOEJIX0ZOTzEzdXEzTl9EMmtDbjFQbnEtcFhGWEpMWVB1QWZJbkFWTEc1S0FWbG9La091VWhCZHpTVjVscU11Q3NrV0NHLTlfT0dBQlhfOW1iUWJ3cTE4NGl4TktkSndjUkRQajUwRWZXb0o0Z1FOb2hmaVVZLUxIWVYtSFXSAeABQVVfeXFMUFE4THNWai1YTDJNeG11bDJBNndCTThQZXlFU01waFFJYVJwdXB0M3l5TU9qeHZmY0M3bVJPX1JuWTV3TjFnUW9oUmF6cXdvU1pQY29pQy1MQzVKNk9mU19KZmJiajVMcWZWYmtxMTI2Rm55TEhRZlhfRkg3dndCb1MwbHNoclVfX1A5Nk5tUEVzZE00OXBUcVRocVI1UVRnLUwtV05kdDFERW16SnZNYUdSRWpIdlV3WWFIbXBPT0xZSWJCMG5qalVJRVVjYTc2X2R2OGstRlFmcEZrdUtLR3k?oc=5
 
-- India-US talks LIVE updates: Tariffs on India lowered from 50% to 18% as Trump announces deal | India News - Hindustan Times
-  India-US talks LIVE updates: Tariffs on India lowered from 50% to 18%
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdVJoaEc1dHUzYkd2YUJudkU5RzBCQjBicmRjOTc2VE1kR0VUV0ZhcUFvdlotZjJfU3gxSG1HR2ZocWRpVTZsWjYtekZFNTdrSU9Wa3dPRHpfdVJqUWF5TE5XLXZPRDN3MGk2alM5MEMzeXhaMEdfbzVXWlRENTZqdUUzZFJ0c0EtdGxRaHo5MnhjakI5c2JzRlpCYXYzcDF6X0pOUHhuWVVtTm53a0pMemFldWtmb3JpUzhzMWNFTjRUOFRXRGx5TUg5NVU3bkRhVTNtQVVVM1RYRFZsbWhrWUYtZ3ItdWZBMkhhdDdRRjIxSzBqTU530gH8AUFVX3lxTE9iUXgwQlBxblNKZjZadmdBSnF4REs5OExrSU1IQmFOZkVWcDhrT05QaExxQTNiXzVjMDhCcG00QnVsRnQxdG9tZTBLdjMyb2tUUm5ZcVhtTkI4OUpRUVpOZ2lHcUltVlBUd2pCZFNvY3VrSVltLXNIN0JSU2hNRFFwUzhnczB4WGtWQ3BLS1E4TjVQQkxsZmRVaEV4Qy1naTM5a1cwbllQRF9vYXBGaVZRY21YQkxjWkZyZGhEMlREeUQybkRGWlFHa090LUpfN2tiR0RFaFVNbXZKNzh0aWI4Uy1rcThXd2VlLWVIWFlKVHlTR0VvMklxNl9rRw?oc=5
+- 500% Tariff Threat To Forced Praise: Lindsey Graham Reveals Who Blinked First In India Trade Deal - Times of India
+  The Times of India published an article about the India-U.S
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZXlJS011SWIwbUQyd0VjN19OcEFrVDZLSzVsRDBJM1ZIZGhBZjFHcGc3U0NWYXNuN1lHbFVqek94R25ZQmo3SjAzZU5Eay1qTERQc2ROeTZVRmVqSXR0UmRYOUxES0xWRklIV2xSX3A2LXh1Rkd2QUliOUo5SEhKZTVHSEs0eXJaLUVzX2pIME44bDdSNTNwMlFFNUV5SkphZ3d4VG1aVWxjbjdiZ1NadWVIN28yd3RtaENzcTNXVDBiLXV4aG1CLTZPUjhHb0VkeXJBb2N0NTJmRHFmbzA0VngtdENkMnNlV0d1TEoyUm1ibmY5QWJQeVJWONIBgAJBVV95cUxOTHVGMGh0bkhmY1hzOTBBYzktVTJZT1dUbzM2d2ZPVEk3WG5aMXd5dEw3RFkzYTk0ckF4UFdyQ05abEJrMmgyRXoxTjE0R3FUZlZxZzdnaDNZMk4wZ1BBT2sxTXptVXBJVzRyWmhaYl9LcHFsWEVveF9WY1RyVVlrcDdpa3p3RFZuZlJRc2R4Mm1CVXREenA5RHJ4cE1TLWNmdmZCT3d1T2FLSHFHV2IzYlBYM196blBfY21KeFFIU0VFaXlzQ1Z3NWc5dmVzZ05LWTQycGFrZ2hBRWt4MVA0ei1IaTBqMW9Sc0k1LXpmTUw3QWVvSUxObllSeFlHbk5N?oc=5
 
-- India Holds Firm Against International Court Order On Indus Waters Treaty - NDTV
-  India Holds Firm Against International Court Order On
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPR2NhaFgzX1ZJaVMwZE9RYlh1X2VMSzlhWjJiUWt4bXVBUy1rcVN5ZGp0Y3Q3LXUtRTdVNjFPR3A1U0R6cEVnRlgzRmlDeVlFM2Jpc05FcVBTbmhJN0JLaTN2MFh2Wjh1eTNNTVJIQVdtY1JWZEhaaWJGYWtLOHlJZHdrdkFoS3h1WDhyZGh1cllfT053b1FZcGZZWFdJSVQ0dzVReWtaNmRXYlg4TUVhRDZJQlrSAbwBQVVfeXFMT1diYjRxZDlrR3VNdnRxRlVaMWc5amVpS0Z6VGF0Y2s0NHhrOUZLcnRVbnlfbUNQaGFwbmtfa1hDQUdRajhMMFZOOE9Ebko0b0tPUTNWYUhkaUUxdnduSXp0UU5pNU5hUUFsYlhLc2xsUWZkYjlyenFsVnkzUlprOEFzOGJQYnM4YkppTUF4TnpIRHNGQk5jWDhfS1drMXVtNDlWVnVvLURBRTFlUXdscXE3dHRqWF9jT2VaN0w?oc=5
+- India-US Trade Deal: Ex-US Trade Rep Mark Linscott Hails Pact Linking World’s Top Economies - Times of India
+  India-US Trade Deal: Ex-U.S Trade Rep Mark
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbUxxa0lxT1dQQVpNTHlabEJrOEVLREpVenJtUzYxUlU2T2V5b3h6cnhRUkRNZkkxLXF4TjZobW9PUjVScHgzQlVwdDlBZFh4SS1WZ3JCdlVtdEhjSG8xcDdKTTdQYld6R09xSWI3S013cEFtRjZPcjNUZE5GWFdIdkJ1SG9KSzI5QWRjNVl2OC0tMVFmSTNlVUUxS3g4TW5HdkNkc04wU1FrWTM4R2Z0RXphdVhmM0dTTDRBV080a3dlalNlejlaWHBwUEtMTFpRaDBLYU5iTGVDZndqTmdMSGF6TkR4RDRvbFhhY1RNV3NTUFk?oc=5
 
-- Hyundai bets on India-specific EV as penetration picks up - Times of India
-  Hyundai bets on India-specific EV as
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEJxNVY5MzV6N29RQzhuZFYxMGxEMmMtYjNPS2g5WnNPd0FpTjFUck91Q3BzeUxMcG9DZU5MY2xnclJBd0FuTDBlVjhmak1MOFFNNHFpSVdPTnVoOGtycllYSEFQVzRJaG50YXFRaGZrNHdVZGljVFQ4R1RmemFPUlhodnpuNTU2UXlVdl9IdVZMRlNXRWZ2ZmY5N3NZRkx3VENpaEw5aTNJYlRWY0FJdVhKOVpkVHpwTk9jRGVBbXdyTXJSYlQyYmVYblDSAdIBQVVfeXFMTlQ3aV9zeF9yZ3hRQmJ2RTZHWExYSXlsV2EtaFp6R08xVVZsMTN5YXhTOUl5TnVEcVFYWndJUTBUV281cFhJYTlrbk80ZkJpbjFJbnZaRE04cEhOTUprOUtkclZyRzFYcEZXSm5BbkhUTDlvdGExcUJ2a3V1UWQ0LWxLblVUd3lRMDRXN3hzT1VJajltLVdTUDQxQnBGOGdCeU9aVFViY0F5WnhMa2F5R256aEFkdThQYl9kc1puRV9MVHAxdjlaUktwd0huT1JtdXFR?oc=5
+- India-US Trade Deal LIVE: Centre's Statement On US-India Trade Deal Likely In Parliament, Say Sources - NDTV
+  India-US Trade Deal LIVE: Centre's Statement On US-
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbDYycWVlMlF5X2N1UnlSNEloa0otNXhzUXA1MDFEVmVuSmpIVW9uQ0wwRmZFanZSTEN2R2ZQS192VkxhQlZWRS1KV25TM1RJbkFFbUN2Q1plQ05ZT1BmNTIzdWJzeUpuYnZJS2xkaWlCYXgwWXN4NHFCSk45VnNmZ3A1Vk1JRmhXOGdvRlJyZldvbE5ubTBGUklzS3NpYVVKX1J6SkxJOE1jTWJqZHMtLWdqcDRoOXZoMHY4dldHSVZhcHA0VDNwVC1ITzhIUjQ0c2I0eDlyZkFSd0JyaExvcGRkWdIB6wFBVV95cUxPbVlxMktTTXdlckhsTXBIS1NYbDZqS21vNENodko5QlRDdkVIc2RvampKYnByZ3lFdHRaLXdqSjViNXVwQ0U1dk9aWnJDOTJTWVUwNGtEVk9XUmUzOUxwX1lDSU5jaC1fODhVZTI4RUtBczIyUExFX2JIWTZiT0RpYjZGOHU0TUdvS1loRjV4aGJrMFJoNkFtakFmWTg0SW5UVnNXS2swUHZHMF9OYTN3SnBNTkRoQmJXTVVDWmVqM1F6Qmd0clJPNmh0MkVaanJ1ZU5RTENZS0lpWmdhbnF6a1lKV05ZcWoxcXhB?oc=5
 
-- US, India seal trade deal after PM Modi-Trump call: 5 things that changed overnight - India Today
-  India Today reports that the US and India reached an agreement on a
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOS1RrM1p5OFVjZ3NrOXJIc19RbFlXb0VPNlV2aGt1S19PUzU5RV9QdE1XbHpya3hYS3AzU2pKRVhUNWkwdDNBdzd0QnhjcnZHS2Vma1JUU2M0ZlRGSzFtN2Q1RUlfdjFpNUladHh3Q1NVTkVrYjhjYUM4cGZkUFZ6cmdjUDhqYXVkU2dCTkNGUVJTcDJIM0FlTTZ0c3VwQkotNUJrelBmYzN3aUcwbGNRZURWcWhxeWRFZ0JxZ1ozSGt0dThRVU9ydVZKMNIB0AFBVV95cUxPWWV0aGstMDZybzZSYU1TVE9MTmlka19GLTEyczZScndkZGZ6dGo5dlkyRTV2aUJ5WHZKT2FRenk0VV9MOGQ0Z2dIMjVwdTFCN0dBdzlfQUlLSWc3RjFTZkhramhEX0FkM0dYRzRid19zY3JHV1BsTnczOGJmU0g5Y1hQRVVyU29XUm9fSG1Vb2JadVhvMHVLOFowMnpVTVNBcV9QRU12QXdjZkpEdTM4T2tMYVh3djJHZGFiMk9Fa1lkc3NwbUpGalhxUlZTTXNJ?oc=5
+- India-US Trade Deal News Live Updates: Trump aide claims deal would pump American farm goods in India - Times of India
+  India-US Trade Deal News Live Updates: Trump aide claims deal would pump American farm
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
 
-- Asia-Pacific markets set to climb on U.S.-India trade deal optimism; gold and silver rebound - CNBC
-  Asia-Pacific markets set to climb on U.S.-
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOUE5YOGpSZmNKU1F6WG5RRFpMcTZsUHJkbVUtTVN1X1k2ZDN4bS1lT2VFVDNjUDUtZERVSWhnMl92VVRyVjdGa2JSX25iX05JZGlRTFZVNlZlSG5LazJCZDhTWmFHbXo5ZHZhYmRJdWxkM2tVUkZZNHAtZS1XanJ6TDRJQWJsb2ZxWDFnbUIwajNVM05hSlY1NVd2S05sZlBpQUHSAacBQVVfeXFMTzQtZTY1SE9haDgtV3NKTjExUUw0RXNNVjhBbGw1MXdDcWotZ3BCbXEtQ0gwOE1vN2NyUlZBbXlCT2psMHU3MS1IRUhaSWNXVmlPZWtXb01hczJGVE9KRTN5S05HVU9IRUhsbDlqdDhOVTJISmh1SUliZEhCbTB2SWc4R3BSaE1STzlKXzQ5WmFjRldCYlJxR09VWlRNRjVUdnJCNERWSGc?oc=5
+- Won't allow you to play with India's privacy policy: Supreme Court warns Meta - India Today
+  India Today is a news website. It is owned by
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWUZueDE3TjkyeF9fZVdzbFFtVUZRd2RFZXp1TUVtSGNybko5XzJoTDRWemE3UC1DdHpRMGZ5TWU1SFZoTVBBWlRESTJfOEZyZVNqQ2J1UzRXN2JFS05oOEJIX0ZOTzEzdXEzTl9EMmtDbjFQbnEtcFhGWEpMWVB1QWZJbkFWTEc1S0FWbG9La091VWhCZHpTVjVscU11Q3NrV0NHLTlfT0dBQlhfOW1iUWJ3cTE4NGl4TktkSndjUkRQajUwRWZXb0o0Z1FOb2hmaVVZLUxIWVYtSFXSAeABQVVfeXFMUFE4THNWai1YTDJNeG11bDJBNndCTThQZXlFU01waFFJYVJwdXB0M3l5TU9qeHZmY0M3bVJPX1JuWTV3TjFnUW9oUmF6cXdvU1pQY29pQy1MQzVKNk9mU19KZmJiajVMcWZWYmtxMTI2Rm55TEhRZlhfRkg3dndCb1MwbHNoclVfX1A5Nk5tUEVzZE00OXBUcVRocVI1UVRnLUwtV05kdDFERW16SnZNYUdSRWpIdlV3WWFIbXBPT0xZSWJCMG5qalVJRVVjYTc2X2R2OGstRlFmcEZrdUtLR3k?oc=5
+
+- 500% Tariff Threat To Forced Praise: Lindsey Graham Reveals Who Blinked First In India Trade Deal - Times of India
+  The Times of India published an article about the India-U.S
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZXlJS011SWIwbUQyd0VjN19OcEFrVDZLSzVsRDBJM1ZIZGhBZjFHcGc3U0NWYXNuN1lHbFVqek94R25ZQmo3SjAzZU5Eay1qTERQc2ROeTZVRmVqSXR0UmRYOUxES0xWRklIV2xSX3A2LXh1Rkd2QUliOUo5SEhKZTVHSEs0eXJaLUVzX2pIME44bDdSNTNwMlFFNUV5SkphZ3d4VG1aVWxjbjdiZ1NadWVIN28yd3RtaENzcTNXVDBiLXV4aG1CLTZPUjhHb0VkeXJBb2N0NTJmRHFmbzA0VngtdENkMnNlV0d1TEoyUm1ibmY5QWJQeVJWONIBgAJBVV95cUxOTHVGMGh0bkhmY1hzOTBBYzktVTJZT1dUbzM2d2ZPVEk3WG5aMXd5dEw3RFkzYTk0ckF4UFdyQ05abEJrMmgyRXoxTjE0R3FUZlZxZzdnaDNZMk4wZ1BBT2sxTXptVXBJVzRyWmhaYl9LcHFsWEVveF9WY1RyVVlrcDdpa3p3RFZuZlJRc2R4Mm1CVXREenA5RHJ4cE1TLWNmdmZCT3d1T2FLSHFHV2IzYlBYM196blBfY21KeFFIU0VFaXlzQ1Z3NWc5dmVzZ05LWTQycGFrZ2hBRWt4MVA0ei1IaTBqMW9Sc0k1LXpmTUw3QWVvSUxObllSeFlHbk5N?oc=5
+
+- India-US Trade Deal: Ex-US Trade Rep Mark Linscott Hails Pact Linking World’s Top Economies - Times of India
+  India-US Trade Deal: Ex-U.S Trade Rep Mark
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbUxxa0lxT1dQQVpNTHlabEJrOEVLREpVenJtUzYxUlU2T2V5b3h6cnhRUkRNZkkxLXF4TjZobW9PUjVScHgzQlVwdDlBZFh4SS1WZ3JCdlVtdEhjSG8xcDdKTTdQYld6R09xSWI3S013cEFtRjZPcjNUZE5GWFdIdkJ1SG9KSzI5QWRjNVl2OC0tMVFmSTNlVUUxS3g4TW5HdkNkc04wU1FrWTM4R2Z0RXphdVhmM0dTTDRBV080a3dlalNlejlaWHBwUEtMTFpRaDBLYU5iTGVDZndqTmdMSGF6TkR4RDRvbFhhY1RNV3NTUFk?oc=5
+
+- India-US Trade Deal LIVE: Centre's Statement On US-India Trade Deal Likely In Parliament, Say Sources - NDTV
+  India-US Trade Deal LIVE: Centre's Statement On US-
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbDYycWVlMlF5X2N1UnlSNEloa0otNXhzUXA1MDFEVmVuSmpIVW9uQ0wwRmZFanZSTEN2R2ZQS192VkxhQlZWRS1KV25TM1RJbkFFbUN2Q1plQ05ZT1BmNTIzdWJzeUpuYnZJS2xkaWlCYXgwWXN4NHFCSk45VnNmZ3A1Vk1JRmhXOGdvRlJyZldvbE5ubTBGUklzS3NpYVVKX1J6SkxJOE1jTWJqZHMtLWdqcDRoOXZoMHY4dldHSVZhcHA0VDNwVC1ITzhIUjQ0c2I0eDlyZkFSd0JyaExvcGRkWdIB6wFBVV95cUxPbVlxMktTTXdlckhsTXBIS1NYbDZqS21vNENodko5QlRDdkVIc2RvampKYnByZ3lFdHRaLXdqSjViNXVwQ0U1dk9aWnJDOTJTWVUwNGtEVk9XUmUzOUxwX1lDSU5jaC1fODhVZTI4RUtBczIyUExFX2JIWTZiT0RpYjZGOHU0TUdvS1loRjV4aGJrMFJoNkFtakFmWTg0SW5UVnNXS2swUHZHMF9OYTN3SnBNTkRoQmJXTVVDWmVqM1F6Qmd0clJPNmh0MkVaanJ1ZU5RTENZS0lpWmdhbnF6a1lKV05ZcWoxcXhB?oc=5
+
+- India-US Trade Deal News Live Updates: Trump aide claims deal would pump American farm goods in India - Times of India
+  India-US Trade Deal News Live Updates: Trump aide claims deal would pump American farm
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
+
+- Won't allow you to play with India's privacy policy: Supreme Court warns Meta - India Today
+  India Today is a news website. It is owned by
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWUZueDE3TjkyeF9fZVdzbFFtVUZRd2RFZXp1TUVtSGNybko5XzJoTDRWemE3UC1DdHpRMGZ5TWU1SFZoTVBBWlRESTJfOEZyZVNqQ2J1UzRXN2JFS05oOEJIX0ZOTzEzdXEzTl9EMmtDbjFQbnEtcFhGWEpMWVB1QWZJbkFWTEc1S0FWbG9La091VWhCZHpTVjVscU11Q3NrV0NHLTlfT0dBQlhfOW1iUWJ3cTE4NGl4TktkSndjUkRQajUwRWZXb0o0Z1FOb2hmaVVZLUxIWVYtSFXSAeABQVVfeXFMUFE4THNWai1YTDJNeG11bDJBNndCTThQZXlFU01waFFJYVJwdXB0M3l5TU9qeHZmY0M3bVJPX1JuWTV3TjFnUW9oUmF6cXdvU1pQY29pQy1MQzVKNk9mU19KZmJiajVMcWZWYmtxMTI2Rm55TEhRZlhfRkg3dndCb1MwbHNoclVfX1A5Nk5tUEVzZE00OXBUcVRocVI1UVRnLUwtV05kdDFERW16SnZNYUdSRWpIdlV3WWFIbXBPT0xZSWJCMG5qalVJRVVjYTc2X2R2OGstRlFmcEZrdUtLR3k?oc=5
+
+- 500% Tariff Threat To Forced Praise: Lindsey Graham Reveals Who Blinked First In India Trade Deal - Times of India
+  The Times of India published an article about the India-U.S
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZXlJS011SWIwbUQyd0VjN19OcEFrVDZLSzVsRDBJM1ZIZGhBZjFHcGc3U0NWYXNuN1lHbFVqek94R25ZQmo3SjAzZU5Eay1qTERQc2ROeTZVRmVqSXR0UmRYOUxES0xWRklIV2xSX3A2LXh1Rkd2QUliOUo5SEhKZTVHSEs0eXJaLUVzX2pIME44bDdSNTNwMlFFNUV5SkphZ3d4VG1aVWxjbjdiZ1NadWVIN28yd3RtaENzcTNXVDBiLXV4aG1CLTZPUjhHb0VkeXJBb2N0NTJmRHFmbzA0VngtdENkMnNlV0d1TEoyUm1ibmY5QWJQeVJWONIBgAJBVV95cUxOTHVGMGh0bkhmY1hzOTBBYzktVTJZT1dUbzM2d2ZPVEk3WG5aMXd5dEw3RFkzYTk0ckF4UFdyQ05abEJrMmgyRXoxTjE0R3FUZlZxZzdnaDNZMk4wZ1BBT2sxTXptVXBJVzRyWmhaYl9LcHFsWEVveF9WY1RyVVlrcDdpa3p3RFZuZlJRc2R4Mm1CVXREenA5RHJ4cE1TLWNmdmZCT3d1T2FLSHFHV2IzYlBYM196blBfY21KeFFIU0VFaXlzQ1Z3NWc5dmVzZ05LWTQycGFrZ2hBRWt4MVA0ei1IaTBqMW9Sc0k1LXpmTUw3QWVvSUxObllSeFlHbk5N?oc=5
+
+- India-US Trade Deal: Ex-US Trade Rep Mark Linscott Hails Pact Linking World’s Top Economies - Times of India
+  India-US Trade Deal: Ex-U.S Trade Rep Mark
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbUxxa0lxT1dQQVpNTHlabEJrOEVLREpVenJtUzYxUlU2T2V5b3h6cnhRUkRNZkkxLXF4TjZobW9PUjVScHgzQlVwdDlBZFh4SS1WZ3JCdlVtdEhjSG8xcDdKTTdQYld6R09xSWI3S013cEFtRjZPcjNUZE5GWFdIdkJ1SG9KSzI5QWRjNVl2OC0tMVFmSTNlVUUxS3g4TW5HdkNkc04wU1FrWTM4R2Z0RXphdVhmM0dTTDRBV080a3dlalNlejlaWHBwUEtMTFpRaDBLYU5iTGVDZndqTmdMSGF6TkR4RDRvbFhhY1RNV3NTUFk?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-03 01:49:09 UTC_
+_Last updated: 2026-02-03 06:48:16 UTC_
