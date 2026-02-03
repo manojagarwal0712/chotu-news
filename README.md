@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- ‘History will read what was said inside’: Sajad Lone slams ‘theatrics’ as J&K Speaker rejects key amendments
+- Chef Gaggan Anand is coming to India: All we know about his first restaurant in Janpath in partnership with Zorawar Kalra
   
-  🔗 https://indianexpress.com/article/india/sajad-lone-slams-theatrics-as-jk-speaker-rejects-key-amendments-10511463/
+  🔗 https://indianexpress.com/article/india/chef-gaggan-anand-is-coming-to-india-all-we-know-about-his-first-restaurant-in-janpath-in-partnership-with-zorawar-kalra-10512080/
 
-- Amid Kishtwar ops and Pak drone intrusions, Home Minister Amit Shah to visit J&K
+- Decision taken on strategic level to balance buying oil from different countries: Ex-foreign secy Shringla
   
-  🔗 https://indianexpress.com/article/india/kishtwar-operations-pak-drone-intrusions-home-minister-amit-shah-jammu-and-kashmir-10511401/
+  🔗 https://indianexpress.com/article/india/harsh-vardhan-shringla-rajya-sabha-speech-india-us-trade-deal-russian-oil-10511966/
 
-- Govt negotiates for FTAs only after safeguarding interests of Indian agriculture: Shivraj Singh Chouhan
+- Between marriage and trafficking: How Palamu police are piecing together a minor’s story
   
-  🔗 https://indianexpress.com/article/india/government-undertakes-negotiations-for-ftas-only-after-carefully-safeguarding-interests-of-indian-agriculture-shivraj-singh-chouhan-10511360/
+  🔗 https://indianexpress.com/article/india/palamu-man-arrested-minor-marriage-mother-selling-allegation-10511958/
 
-- 8 Opposition members suspended from Lok Sabha for ‘shouting slogans and tearing up papers’
+- Mirwaiz slams ‘forced’ shutdown of Jamia Masjid on Shab-e-Barat: ‘Naya Kashmir needs explanation’
   
-  🔗 https://indianexpress.com/article/india/opposition-members-suspended-lok-sabha-shouting-slogans-tearing-up-papers-10511202/
+  🔗 https://indianexpress.com/article/india/mirwaiz-forced-shutdown-jamia-masjid-shab-e-barat-naya-kashmir-needs-explanation-10511826/
 
-- ‘Merely 2-4-5 deaths’: Rajasthan Health Minister downplays cough syrup fatalities, blames ‘careless parents’
+- Trump claims India agreed to stop buying Russian oil, but the Kremlin says it hasn’t heard a word about it
   
-  🔗 https://indianexpress.com/article/india/rajasthan-health-minister-downplays-cough-syrup-fatalities-10511168/
+  🔗 https://indianexpress.com/article/india/trump-india-stop-russian-oil-kremlin-denies-trade-deal-10511800/
 
-- Mahindra XUV 7XO: First Indian car to feature Dolby Vision and Atmos
+- Pen, paper and brain: Why writing by hand still matters in the age of screens
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/mahindra-xuv-7xo-first-indian-car-to-feature-dolby-vision-and-atmos-10511344/
+  🔗 https://indianexpress.com/article/technology/science/pen-paper-and-brain-why-writing-by-hand-still-matters-in-the-age-of-screens-10511731/
 
-- Moltbook proves AI is taking control of words, not sentience: Yuval Noah Harari
+- Adobe’s AI pivot: Animate to be retired next month, here is exactly how long you can continue using it
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/yuval-noah-harari-moltbook-ai-language-10511119/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/adobes-ai-pivot-animate-to-be-retired-next-month-here-is-exactly-how-long-you-can-continue-using-it-10511719/
 
-- Picked up by a teen in 1958, this footprint is now Australia’s oldest dinosaur fossil
+- Despite new curbs, Elon Musk’s Grok AI chatbot at times produces sexualised images
   
-  🔗 https://indianexpress.com/article/technology/science/picked-up-by-a-teen-in-1958-this-footprint-is-now-australias-oldest-dinosaur-fossil-10511008/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/despite-new-curbs-elon-musks-grok-ai-chatbot-at-times-produces-sexualised-images-10511654/
 
-- Meta debuts athletic Oakley Vanguard AI glasses in India: Check price, availability, fitness features
+- Spain to ban social media access for under-16s, PM Sanchez says
   
-  🔗 https://indianexpress.com/article/technology/gadgets/meta-athletic-oakley-vanguard-ai-glasses-india-pricing-details-10510817/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spain-ban-social-media-under-16s-10511642/
 
-- OpenAI rolls out Codex desktop app to tackle long-running AI coding tasks
+- Oracle says it’s ‘highly confident’ in OpenAI funding amid Nvidia ‘rift’ reports
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-rolls-out-codex-desktop-app-to-tackle-long-running-ai-coding-tasks-10510743/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/oracle-highly-confident-openai-nvidia-rift-reports-10511582/
 
-- Who is Stephan Bugaj? JioStar Group appoints Emmy Award winner as Senior VP of GenAI Content &amp; Technology
-  JioStar Group appoints Stephan Bugaj as Senior Vice-President of GenAI Content and Technology. His extensive background in interactive storytelling and AI tools aims to drive
-  🔗 https://www.livemint.com/companies/news/who-is-stephan-bugaj-jiostar-group-appoints-emmy-award-winner-as-senior-vp-of-genai-content-technology-11770117458391.html
+- Deutsche Bank Group Stuck With Software Loans in Rare Hung Deal
+  A group of banks led by Deutsche Bank AG has been unable to sell about $1.2 billion of loans backing the acquisition of a software provider.
+  🔗 https://www.livemint.com/companies/deutsche-bank-group-stuck-with-software-loans-in-rare-hung-deal-11770143978256.html
 
-- Nvidia and OpenAI play down reports of rift. Why they need each other.
-  Nvidia and OpenAI are looking to balance a difficult relationship. Reports of a breach should
-  🔗 https://www.livemint.com/companies/news/nvidia-openai-partnership-openai-chips-11770120486826.html
+- Bankers Prep €2.5 Billion Debt as ContiTech Unit Sale Kicks Off
+  Bankers are working on debt packages of around €2.5 billion ($2.9 billion) to back a potential acquisition
+  🔗 https://www.livemint.com/companies/bankers-prep-2-5-billion-debt-as-contitech-unit-sale-kicks-off-11770143669391.html
 
-- Iran-US tensions: IndiGo cancels flights to and from these cities till 28 February - check details
-  Passengers are advised to check flight statuses and consider alternate options, including refunds, as the situation evolves.
-  🔗 https://www.livemint.com/companies/news/iranus-tensions-indigo-cancels-flights-to-and-from-these-cities-till-28-february-check-details-11770114623732.html
+- Disney taps parks head Josh DAmaro as CEO to lead post-Iger era
+  Disney taps parks head Josh D'Amaro as CEO to
+  🔗 https://www.livemint.com/companies/disney-taps-parks-head-josh-damaro-as-ceo-to-lead-post-iger-era-11770143550272.html
 
-- Three MDs quit Peak XV Partners as senior-level exits continue
-   Peak XV Partners has lost three managing directors. While Peak is refining its investment strategy post-Sequoia split, the three exiting MDs are set to
-  🔗 https://www.livemint.com/companies/news/peak-xv-partners-managing-directors-exit-leadership-reshuffle-investment-strategy-11770112127014.html
+- Walmart joins $1 trillion club: What powered the historic milestone
+  Walmart became the first retailer to hit a $1 trillion market valuation after a 26% stock rally. Walmart is driven by rapid digital expansion,
+  🔗 https://www.livemint.com/companies/news/walmart-hits-1-trillion-market-value-11770141303219.html
 
-- Oracle clarifies ‘zero impact’ from Nvidia-OpenAI deal amid layoff reports, cloud investment plans — Details
-  Oracle clarifies ‘zero impact’ from
-  🔗 https://www.livemint.com/companies/news/oracle-clarifies-zero-impact-from-nvidia-openai-deal-amid-layoff-reports-cloud-investment-plans-details-11770110885654.html
+- Walt Disney theme parks division chief Josh D’Amaro to succeed CEO Bob Iger
+  Josh D'Amaro has been appointed as Disney's new CEO. He will succeed Bob Iger, amid challenges in the theme parks sector.
+  🔗 https://www.livemint.com/companies/news/walt-disney-theme-parks-division-chief-josh-d-amaro-to-succeed-ceo-bob-iger-11770135370627.html
 
-- Bain-backed Dhoot Transmission files confidential draft paper for potential $250 million IPO
-  Shares will have a face value of  ₹2 each and are planned for
-  🔗 https://www.livemint.com/market/ipo/bainbacked-dhoot-transmission-files-confidential-draft-paper-for-potential-250-million-ipo-11770116220694.html
+- Wall St selloff deepens led by software, cloud firms
+  Wall St selloff deepens led
+  🔗 https://www.livemint.com/market/wall-st-selloff-deepens-led-by-software-cloud-firms-11770144716766.html
 
-- Bajaj Finance Q3 Results: Net profit falls 5.6% to  ₹4,066 crore; NII surges to  ₹11,318 crore
-  Bajaj Finance reported a 5.6% decline in consolidated net profit to  ₹4,066 crore for the December quarter. Sequentially, net profit fell 18% from 
-  🔗 https://www.livemint.com/market/stock-market-news/bajaj-finance-q3-results-net-profit-falls-5-6-to-rs-4-066-crore-nii-surges-to-rs-11-318-crore-11770119249432.html
+- Canadian dollar gains in limited move ahead of jobs data
+  Canadian dollar gains in limited move ahead
+  🔗 https://www.livemint.com/market/canadian-dollar-gains-in-limited-move-ahead-of-jobs-data-11770144593598.html
 
-- Mint Explainer: What’s causing gold prices to fall, and what should you do now?
-  After touching an all-time high on 28 January, gold fell 12.2% to $4,923.88 per t
-  🔗 https://www.livemint.com/market/commodities/gold-price-crash-gold-rate-today-11770116653753.html
+- Pfizer shares slump 3.60% on fourth quarter loss, lower 2026 outlook
+  Pfizer highlighted another fall in quarterly revenues tied to Cov
+  🔗 https://www.livemint.com/market/stock-market-news/pfizer-shares-slump-3-60-on-fourth-quarter-loss-lower-2026-outlook-11770137893646.html
 
-- India-US trade deal: Will retail investors' patience pay off in the Indian stock market? Explained
-  India-US trade deal has lifted market sentiment, prompting optimism for foreign investments. Analysts predict that retail investors' patience will pay off, but not immediately.
-  🔗 https://www.livemint.com/market/stock-market-news/indiaus-trade-deal-will-retail-investors-patience-pay-off-in-the-indian-stock-market-explained-11770116448200.html
+- PhonePe IPO: How the company's large user base supports expansion beyond payments
+  PhonePe processed 48% of India’s UPI transactions, underscoring the importance of transaction volume to revenue. Despite a net loss of  ₹1,444
+  🔗 https://www.livemint.com/market/ipo/phonepe-ipo-how-the-companys-large-user-base-supports-expansion-beyond-payments-11770124386666.html
 
-- Amid soaring gold, silver rates today, ICICI Pru AMC's Sankaran Naren thinks differently; here's why
-  Gold prices surged 4.2% as the India-U.S. trade agreement boosted market sentiment. Fund manager Sankaran Naren warns that investing in gold and silver
-  🔗 https://www.livemint.com/market/stock-market-news/amid-soaring-gold-silver-rates-today-icici-pru-amcs-sankaran-naren-thinks-differently-heres-why-11770116452618.html
+- Gold, silver rates today: Comex gold jumps $325/oz, silver rises $12/oz after two-day sell-off
+  Gold and silver have rebounded after a two-day sell-off. Comex gold rising 7% to $4,975 per troy ounce and silver gaining nearly 15%. Recent price drops were
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-325-oz-silver-rises-12-oz-after-two-day-selloff-11770127664644.html
+
+- Oakley Meta Vanguard smart glasses for athletes launched in India: Price, features and more
+  The Oakley Meta Vanguard features fitness tracking, hands-free 3K video capture, open-ear audio, Hindi voice support and IP67 water resistance. The
+  🔗 https://www.livemint.com/technology/gadgets/oakley-meta-vanguard-smart-glasses-for-athletes-launched-in-india-price-features-and-more-11770139828838.html
+
+- New Firefox settings put AI control back in users’ hands: Here's how
+  Mozilla will add a centralised AI control hub to Firefox 148. Users can enable or disable individual features or opt out of generative AI entirely.
+  🔗 https://www.livemint.com/technology/tech-news/new-firefox-settings-put-ai-control-back-in-users-hands-heres-how-11770136055766.html
+
+- Elon Musk calls Spain PM Pedro Sánchez ‘tyrant and traitor’ over under-16 social media ban
+  Spain plans to ban social media access for children under 16 to protect them from harmful online content. The initiative aligns with similar measures in countries like Australia and France.
+  🔗 https://www.livemint.com/technology/spain-considers-social-media-ban-for-under-16s-joining-others-in-europe-11770129867578.html
 
 - X offices in Paris searched by French cybercrime, Elon Musk told to appear before authorities
   French prosecutors raided X’s Paris offices as part of a criminal probe into alleged child abuse content, explicit deepfakes, Holocaust denial and algorithm manipulation. Elon Musk and former
@@ -88,137 +100,125 @@
   The Game Awards 2026 will take place on 10 December in Los Angeles. Major releases, including GTA 6, could compete depending on the eligibility deadline, setting up a fiercely contested year.
   🔗 https://www.livemint.com/technology/tech-news/geoff-keighley-confirms-date-for-the-game-awards-2026-in-los-angeles-all-you-need-to-know-11770112756189.html
 
-- 10 gaming laptops under  ₹80,000 I would trust for smooth and serious gaming
-  These gaming laptops under  ₹80,000 balance strong GPUs, fast processors and cooling
-  🔗 https://www.livemint.com/technology/gadgets/10-gaming-laptops-under-rs-80-000-i-would-trust-for-smooth-and-serious-gaming-11770094243285.html
+- Dow drops 400 points, S&P 500 sheds 1% as investors rotate out of tech: Live updates - CNBC
+  Dow drops 400 points, S&amp;P 500 sheds 1
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE82S1M0OFFxSjNTQnRWT21VRGRUbzUxemRyYXNZdGZqdnF0dTE1bTJZMHZWOWFEZnNfN0VmWEZ0TlhwS09SVGVDRVRzTGhoS3ZfdlF2SnNTVUFxcFFJa1E2QmZERnBkMkg2WTA5SGZoLTMyQ2RJTTQ00gF8QVVfeXFMTm1SS1FGeVk1YmtNNkF2TUxCYk45XzJiYzFYSnN3S1dIZ0Fud3M2OG9uVjlpZzFuVnZrc05pMG9waXJmS1NCQ3VaaHJUSnY1MTFTLTJmNDhkRzV2cXVsQVFsOGR2WjluMHd2UkJ3bTFTdGExY2xNaERIVE1ZZw?oc=5
 
-- Exclusive-OpenAI is unsatisfied with some Nvidia chips and looking for alternatives, sources say
-  OpenAI is unsatisfied with some Nvidia
-  🔗 https://www.livemint.com/technology/exclusiveopenai-is-unsatisfied-with-some-nvidia-chips-and-looking-for-alternatives-sources-say-11770082490262.html
-
-- Robotaxi pioneer Waymo gets $16 billion injection to accelerate its expansion plans
-  Waymo gets $16 billion injection
-  🔗 https://www.livemint.com/technology/robotaxi-pioneer-waymo-gets-16-billion-injection-to-accelerate-its-expansion-plans-11770078761411.html
-
-- Japan stocks jump over 3% to record high as Asia markets rebound - CNBC
-  Japan stocks jump over 3% to record high as
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOUE5YOGpSZmNKU1F6WG5RRFpMcTZsUHJkbVUtTVN1X1k2ZDN4bS1lT2VFVDNjUDUtZERVSWhnMl92VVRyVjdGa2JSX25iX05JZGlRTFZVNlZlSG5LazJCZDhTWmFHbXo5ZHZhYmRJdWxkM2tVUkZZNHAtZS1XanJ6TDRJQWJsb2ZxWDFnbUIwajNVM05hSlY1NVd2S05sZlBpQUHSAacBQVVfeXFMTzQtZTY1SE9haDgtV3NKTjExUUw0RXNNVjhBbGw1MXdDcWotZ3BCbXEtQ0gwOE1vN2NyUlZBbXlCT2psMHU3MS1IRUhaSWNXVmlPZWtXb01hczJGVE9KRTN5S05HVU9IRUhsbDlqdDhOVTJISmh1SUliZEhCbTB2SWc4R3BSaE1STzlKXzQ5WmFjRldCYlJxR09VWlRNRjVUdnJCNERWSGc?oc=5
-
-- Metals, crude oil dive in broad commodities market tumble - Reuters
-  Metals, crude oil dive in
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNbnZxMnYwUE5sWFBjMktQdEh6ZDFKSmEzbHFqYl85ZkRGQUZmWXQwc0FHN1lXaE51OVNyRnlWa3QxSXdZUXA1VldBeG8yQTBJd1RaNzZVZnBJMXEyd0ZIZm0zOHo2RVo0Tlprem1vWjRLQ055bEx5Y1pCbjNmMXZSellXMTU4TVJwNVNRUUN0aXBzU0YyUVE?oc=5
-
-- Ambani Brings Blackrock Into India’s Wealth Advice Market - Bloomberg
-  Ambani Brings Blackrock
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPQU1oQTNPR29GNk5Bdy10VC1MTmdvbFN3Y1VncDNOY2VuU2RFVklUUWVYRTM3VE5LVmFmUllnSGNEb29qOHc1MlMyVW1wRlQ3Y0RpS2RsZlVSQVdGbUZkbzJhTzhzZzF5bWZZbXJ0Q09UN0FoeVN6ajlFYzByel9LWXVFSVdtNUZqWEtVMEFHQTQwaDhLUG1ZQmR0RjFjR08xVnU2cklLcHFwMHBU?oc=5
-
-- Metal Markets Mayhem Sends Africa a Wake-Up Call - Bloomberg
+- Stocks Rise as Palantir Ignites Rally in Tech: Markets Wrap - Bloomberg.com
   &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNV1c5MU91a2VQc1BYaWxzZXAxb2xpeUpkM2ptTTY4R2g4UWFxZWFFZGRtM0JjdmtqNkZHQWRCaHJNSmhlbUJwUmY2UVk5UGVsQUZmYjNDeDJXbnY0ckZieDB6ZjFnSmFsTk85NkxnMXdTa2VyaUpvejFMTEE4eFZjWllXcmF4d0JVaUlOeldjckFQUDVqY2VCXzVPalZhclBrZlNTdEt2U3hIYWxDblp2Y0lON2dxdw?oc=5
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEU0Um12emF6Y1pSLTJmcG02el9hdkpVOEZwMlF5VTRtc25BeFBZbTJUSVFhWHpNbUIta29ZMFl2Qm1UZTJWN0ZvM3R3REZidms5S1NCOW5nekdwcUJIWG5qcUJoc0tWc2tkWVlhaGdnanppd3lVd29YX0g0MkxzWjZWUVJySGYwd3RaNUk3bkFfQkhIRXdNUDNEdnRYaXhhcHpoSTRFcllmYUFvNXIxaFpnNG8?oc=5
 
-- Highlights: Stock Markets Open In Green, Rupee Gains House After India-US Trade Deal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLVBGWGlzRWVnaVdudXU5RmkxYldya1psd09sNENackdIZHlSR21MUzd2NlA1czVNUFBZS09ob3J2eXJJeEhZMXdKam5NRkhacFAyV3hiTHRidnR3REdjUnlKOE5LaGYybX
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLVBGWGlzRWVnaVdudXU5RmkxYldya1psd09sNENackdIZHlSR21MUzd2NlA1czVNUFBZS09ob3J2eXJJeEhZMXdKam5NRkhacFAyV3hiTHRidnR3REdjUnlKOE5LaGYybXhtamFUTkRjSTQ0YVI0d01ZVEs5NjUwQ0JqX1NfbHNYY1lmeDZsUkhRVXJNdENPbHcxb1ZsbDdyQ2Q5OVFVTG1SZDFfVTV5elpMdXFybkVKOHBHTy15aUc5VENHcHBEd21pSlctYm02UzVOQVo5Ym5zc3VjM1Q00gHnAUFVX3lxTFAyd2lvX1lxNWZFUXg1RlBKaXMyaDBYQ2Q1eEFlazEtV3RBY29qZWtxcHk1WE9GMUJpQTJCNlJYR1UwZG1qYjZYZ0xQSjVLcXUzNzdvQ0NhX1g5aVZSNElac2FDVGlpRmlHeGdObHliU1JkcVFWQ2hrQXZqcnpicl9DMTNnM3VvRlprNEx1V2tNbzQ2a2hMTDZRZWhTTGxCa0t0RzdsQ0NDcmNXa0ppVDB1c21uakxZRGVqeVRrWkQ2UXJXZm54UDRON1NrR3Zmd3U0NDV5aVFtMVN6UXZQbmxKMFBsRHJtdw?oc=5
+- Markets News, Feb. 2, 2026: Stock Indexes End Sharply Higher to Begin February; Dow Adds 515 Points, S&P 500 Just Misses Record - Investopedia
+  Markets News, Feb. 2, 2026: Stock Indexes End Sharply Higher to Begin
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE5UU3pkTS15RFppdzBqaG9xRkRVbG9hdHdONlVKdmw1dzNMc1ByN3p6cnBBWHJkNjJhSkJRUVV5MXUxckhsU3h0ekRaTnpXcGRQX3gtZW1scDBrMndoNVhOdGpnZjhzQ2xDTFE1NVFOWQ?oc=5
 
-- TREVOC group, Canonicus Capital to set up Rs 500cr fund for NCR realty projects
-  Realty firm TREVOC Group has partnered with Canonicus Capital to set up a Rs 500 crore last-
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/trevoc-group-canonicus-capital-to-set-up-rs-500cr-fund-for-ncr-realty-projects/articleshow/127885971.cms
+- Season’s first mangoes arrive at local markets - Times of India
+  Season’s first mangoes
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQR1U1MnFINFI1czhRbkk4YVQ0VFRuamhYTjFWa3F0SThLdzQ0dmQ0RGw2SmJJRXBaSENkQ2pwMHlKMjkwVzdTdHdPRXUwMFZYbmJHSTNaN2R0a18zTnkzSF9HQTR1VW96bkRpd1pvN1VXOEUwbFpRNk84LVhqaGc0TGRDdHAwWTIwczFrNTh4WE82T1pEV3BrOHJsSW1zck1DU3V4aVZ0eDBLcnh1ZnRkMUxQNkJRbzTSAbwBQVVfeXFMT04xbUxjblFlZU9aNXZKUGJsbzBob2U1NnktQlYtUmVhRUNZYjdfcXdUZFJEWGJlNUVYcERmSFVhTG5GR1hPbXpjRUFRano2cF8tcjFINTNmQzFzVnVZOUJRV3R0WklDUjNzNkcwemJnUThVTWV6MXZKS0oya1A5d3ZwZzVyZ1EyTU9GeVlmTUx6ekY3d041NXl3aE5DNHIzUjJ1WWFMT2RkWVZCdS05TkhEbUQ4dXp3a0QtSU8?oc=5
 
-- Gainers &amp; Losers: RIL, HDFC Bank and Eternal among 7 top movers on Tuesday
-  Reliance, HDFC Bank, Adani stocks and chemicals led gains. Select stocks like PB Fintech and Bharat Coking Coal lagged despite broader
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-ril-hdfc-bank-and-eternal-among-7-top-movers-on-tuesday/slideshow/127885785.cms
+- FTSE 100 Live: Stock Rally Fades, Metal Prices Rebound - Bloomberg.com
+  The FTSE 100 closed down
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaGFBOTVKTUdZamJLNXhWNHBLT09XRWotbURCSlQ4bV9xeHJqZEVZb2RrRjBzUk5VSnZhZlRuVTFaS2pIUTI0TXQ1YzN0N1NmTlNZR3FzUmd1WWlxcnBKbmNrVTFkaWp5WHpTVGswVHFTcHZ1VHRyOXBwWUhkd0FWUEduMkJhalQ1WFFmRTFGWU1ZRkc1Y3NobGpQN2E2bmI0a0RITmJ3a01CbUtrUHR0VGNSYmpid1A1WGpiRE41X2h0eTE3Nk5UTzdoRUhMcWZzeG1UeDVJMG9NZw?oc=5
 
-- Trump’s trade tweet hands India tariff relief, but at a strategic cost
-  India-US trade truce calms markets with tariff relief, but Trump’s terms suggest steep concessions for India on energy, imports and geopolitics. Un
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/trumps-trade-tweet-hands-india-tariff-relief-but-at-a-strategic-cost/articleshow/127885724.cms
+- Dow drops 400 points, S&P 500 sheds 1% as investors rotate out of tech: Live updates - CNBC
+  Dow drops 400 points, S&amp;P 500 sheds 1
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE82S1M0OFFxSjNTQnRWT21VRGRUbzUxemRyYXNZdGZqdnF0dTE1bTJZMHZWOWFEZnNfN0VmWEZ0TlhwS09SVGVDRVRzTGhoS3ZfdlF2SnNTVUFxcFFJa1E2QmZERnBkMkg2WTA5SGZoLTMyQ2RJTTQ00gF8QVVfeXFMTm1SS1FGeVk1YmtNNkF2TUxCYk45XzJiYzFYSnN3S1dIZ0Fud3M2OG9uVjlpZzFuVnZrc05pMG9waXJmS1NCQ3VaaHJUSnY1MTFTLTJmNDhkRzV2cXVsQVFsOGR2WjluMHd2UkJ3bTFTdGExY2xNaERIVE1ZZw?oc=5
 
-- Bajaj Finance Q3 Results: Profit falls 6% YoY to Rs 4,066 crore on labour code impact, NII jumps 21%
-  Bajaj Finance reported a 6% year-on-year (YoY) decline in its consolidated net profit for the third quarter at Rs 4,066 crore. The drop in bottomline was
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q3-results-profit-falls-6-yoy-to-rs-4066-crore-on-labour-code-impact-nii-jumps-21/articleshow/127885041.cms
+- Stocks Rise as Palantir Ignites Rally in Tech: Markets Wrap - Bloomberg.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEU0Um12emF6Y1pSLTJmcG02el9hdkpVOEZwMlF5VTRtc25BeFBZbTJUSVFhWHpNbUIta29ZMFl2Qm1UZTJWN0ZvM3R3REZidms5S1NCOW5nekdwcUJIWG5qcUJoc0tWc2tkWVlhaGdnanppd3lVd29YX0g0MkxzWjZWUVJySGYwd3RaNUk3bkFfQkhIRXdNUDNEdnRYaXhhcHpoSTRFcllmYUFvNXIxaFpnNG8?oc=5
 
-- US-India trade deal boosts exporters' confidence, but largecap focus remains key: JPMorgan’s Sanjay Mookim
-  The India–US trade deal has restored market confidence, says JPMorgan’s Sanjay Mookim. While the policy shift boosts manufacturing prospects, he cautions that earnings upgrades won’t be automatic.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/trade-clarity-boosts-exporter-confidence-but-large-cap-focus-remains-key-jpmorgans-sanjay-mookim/articleshow/127885124.cms
+- Markets News, Feb. 2, 2026: Stock Indexes End Sharply Higher to Begin February; Dow Adds 515 Points, S&P 500 Just Misses Record - Investopedia
+  Markets News, Feb. 2, 2026: Stock Indexes End Sharply Higher to Begin
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE5UU3pkTS15RFppdzBqaG9xRkRVbG9hdHdONlVKdmw1dzNMc1ByN3p6cnBBWHJkNjJhSkJRUVV5MXUxckhsU3h0ekRaTnpXcGRQX3gtZW1scDBrMndoNVhOdGpnZjhzQ2xDTFE1NVFOWQ?oc=5
 
-- India-US Trade Deal News Live Updates: 'Trade deal in final stages of detailing': Goyal says India-US will issue joint statement on pact soon - Times of India
-  India-US Trade Deal News Live Updates: 'Trade deal in final stages of detailing': Goyal says India-
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
+- Season’s first mangoes arrive at local markets - Times of India
+  Season’s first mangoes
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQR1U1MnFINFI1czhRbkk4YVQ0VFRuamhYTjFWa3F0SThLdzQ0dmQ0RGw2SmJJRXBaSENkQ2pwMHlKMjkwVzdTdHdPRXUwMFZYbmJHSTNaN2R0a18zTnkzSF9HQTR1VW96bkRpd1pvN1VXOEUwbFpRNk84LVhqaGc0TGRDdHAwWTIwczFrNTh4WE82T1pEV3BrOHJsSW1zck1DU3V4aVZ0eDBLcnh1ZnRkMUxQNkJRbzTSAbwBQVVfeXFMT04xbUxjblFlZU9aNXZKUGJsbzBob2U1NnktQlYtUmVhRUNZYjdfcXdUZFJEWGJlNUVYcERmSFVhTG5GR1hPbXpjRUFRano2cF8tcjFINTNmQzFzVnVZOUJRV3R0WklDUjNzNkcwemJnUThVTWV6MXZKS0oya1A5d3ZwZzVyZ1EyTU9GeVlmTUx6ekY3d041NXl3aE5DNHIzUjJ1WWFMT2RkWVZCdS05TkhEbUQ4dXp3a0QtSU8?oc=5
 
-- "Exit India If You Can't": Chief Justice Warns Meta Over WhatsApp Policy - NDTV
-  "Exit India If You Can't": Chief Justice
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0pBMG1fSTFaOFU3Y083LW0zLWd2aDE2amh5Tk9TMGhSWmEzbmxaR0dWcEtMQUl0RzVwckxobHA1UDFRVzktTmRuOXJvemdJUDFNVGpWQURUQjJVVnFtUWYtb0ZvNGE0V1FwSTFTbkVjREhfVXNHTGNBa00zdHB4cVFhRGlmTXRTUm5hZFNYSXp0UkV4eTlLNElZeVB4T0pWR2YtaXhMTkdWbXlrOG1US0F6RklIX3pz0gHAAUFVX3lxTE5tbDRMOVEwN1JWcEFCOE5fVVhpdDdvR0xQT1ltOUNVV1gzZzdfeDZvSUNjQkNNdXFvZDcwSFFucHU2dkVHU0k2anFabmItQ0oxdkRqblFZM1NzSGN6VE40WjU3OHdGQlJHUi1ySVZuZnI2YTJyUGctNlhpUUF1SUh4WDJmdmZqXzBVdmZRaXFnQ29WUkp3UzB3SXBoMjFuMlJTdWlsN3ZPaktRb2M2XzZ2cE02U0tGOFdFSHlvbEQ3Yw?oc=5
+- FTSE 100 Live: Stock Rally Fades, Metal Prices Rebound - Bloomberg.com
+  The FTSE 100 closed down
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaGFBOTVKTUdZamJLNXhWNHBLT09XRWotbURCSlQ4bV9xeHJqZEVZb2RrRjBzUk5VSnZhZlRuVTFaS2pIUTI0TXQ1YzN0N1NmTlNZR3FzUmd1WWlxcnBKbmNrVTFkaWp5WHpTVGswVHFTcHZ1VHRyOXBwWUhkd0FWUEduMkJhalQ1WFFmRTFGWU1ZRkc1Y3NobGpQN2E2bmI0a0RITmJ3a01CbUtrUHR0VGNSYmpid1A1WGpiRE41X2h0eTE3Nk5UTzdoRUhMcWZzeG1UeDVJMG9NZw?oc=5
 
-- Russia speaks on India stopping oil purchases - The Hindu
-  Russia speaks on India stopping oil
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQU5jWlJNZnhmMzJvYUJ0SFdxQWNUbGNsUF9VajB0bGlIVDRnSG9QUXBiT0hfeDUtVDlsYS12MWR5TmlIcTkxSXB4NmdhOEZ5b3BTQ3VEMVlENnhnbmNCeU5jV3luWmwwWWxTZmI0UGVlY0sxN1lfSVNqQi1RVk8tYk5tQkpVamxGa2F5eDZLb1F5aHRTcnR4T2FUQXRZSy0wZ3E1NVBhUUVES042ZTN4bzZDRVRlWGdKaTFlLVFsZlhqcl9KSkIwMUJYcVZKSmFuOUpPRi11NUR1elBkSXZ3NFNrckRVSHdGVEZjcHJ30gH0AUFVX3lxTE9LUmZsdnlxZ0dFbmRQcG04blNHRWJwRFBoOThhLUJVYzcxQUhvUWJ2NEFUcHF3eDdaZmdlRThGTU5ObjZNM0VYdzZKNUtudzlVZVJvZXM5ZE9Ca25TRFhOYnJvVU9sNnZ1UGJzWkFaSDBnUGE5SnFjdlozS3JaazBPa1BjMG5lMkJTdlB3ZHpKMXdCb21Ec2FNX2N1aHhlWTQwZ240d0NMMmJhYzlFTm1MM0FDN1RJOGpldmV5Q0JsOUViNnVab0g0ZEQ5Q2ZPbWdKbURkZ1hOLUVBUEctWlVMOWVSNDZyNTdacHpseVNKdkFrUTg?oc=5
+- India-US Trade Deal LIVE: 'Will Shortly Issue Joint Statement': Piyush Goyal On India-US Trade Deal - NDTV
+  India-US Trade Deal LIVE: 'Will Shortly Issue Joint Statement
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbDYycWVlMlF5X2N1UnlSNEloa0otNXhzUXA1MDFEVmVuSmpIVW9uQ0wwRmZFanZSTEN2R2ZQS192VkxhQlZWRS1KV25TM1RJbkFFbUN2Q1plQ05ZT1BmNTIzdWJzeUpuYnZJS2xkaWlCYXgwWXN4NHFCSk45VnNmZ3A1Vk1JRmhXOGdvRlJyZldvbE5ubTBGUklzS3NpYVVKX1J6SkxJOE1jTWJqZHMtLWdqcDRoOXZoMHY4dldHSVZhcHA0VDNwVC1ITzhIUjQ0c2I0eDlyZkFSd0JyaExvcGRkWdIB6wFBVV95cUxPbVlxMktTTXdlckhsTXBIS1NYbDZqS21vNENodko5QlRDdkVIc2RvampKYnByZ3lFdHRaLXdqSjViNXVwQ0U1dk9aWnJDOTJTWVUwNGtEVk9XUmUzOUxwX1lDSU5jaC1fODhVZTI4RUtBczIyUExFX2JIWTZiT0RpYjZGOHU0TUdvS1loRjV4aGJrMFJoNkFtakFmWTg0SW5UVnNXS2swUHZHMF9OYTN3SnBNTkRoQmJXTVVDWmVqM1F6Qmd0clJPNmh0MkVaanJ1ZU5RTENZS0lpWmdhbnF6a1lKV05ZcWoxcXhB?oc=5
 
-- Piyush Goyal to share key details of India-US deal amid questions over Trump's claims, PM Modi's promises | India News - Hindustan Times
-  Piyush Goyal to share key details of India-US deal amid questions over Trump's
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxORnV2bU9FelA0cmNTVGlJTWUzUWE4M2NWLUlQZDNKWVg3TGdZNVNaSGdnYWxRTXZXc0VkRDhlS1p1c0RyTWtmc2JKT2U4VkRoQ0twMGhnUzNSd2JOVU13T0FXb21tblhRNC1CekZLMkxMZjZvRVFYMHhybmZxanl2d3JmaURWb3NVZ0NqczlxMHFaV1J4MlA4ZWpManBtcjhaVS04LUp5dlRnX1ZGSmVYdU9odVQ0aWxfMDRSX0JrSEhUcTJDV2JHY09XWk9TcXRjVlU3eWNnd3p1bWZEdTdscEdfZTZwS2FXTzQ1S09SbmNkZ9IB9wFBVV95cUxQMzRlelB5U09wcG41OWdYYVpqQVRBMFN4cHRodmxobmlzV084elRuby1BT1NGYm4wemw4VnhFUzd2cTNsYkp0QWFucFFvelQwT2o0NUYxcVQ1czdEZnJPcW0xQ1hnYXpXaUlPU3dSeG52OG1jQm9RSFA1WUYtWnN6ai1VcWtWZk81aHlwV1BUTjVudlhTa3JhenVockp3anZKVlNKU1kyQVVta2Vsd0ZFYXR3b1JSbW1YQVJYN3YxbnFjRGVlWjA2WHZRUzRSVXNYQjlzcERvOFFCVTRlRXdqRE1YU25nVEZBRkpSSjBpQjJpNDJZYlow?oc=5
+- India-U.S. deal: Five unanswered questions - The Hindu
+  India-U.
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNTEIwMkpJanhnOGZyd1UyRGVSb1BZckRoU0lLUTZkaGp6MGNNUEJ4Qm13cVVCc3dWWkJIT1lfSVNRWndocmN0ekRmU01WOGw2LU5pb2FYdDFhREtoZ3FYeHJEY3NyeF8zd20xMS1fQS1RMTN1eERILTdmOVE1a3ctQmx3bUNvVmFRbTBia2lwcTNwRDdDLThuY1ZSbWRXRknSAaYBQVVfeXFMTllYQmM2aWhDTld6RzRqTllwdG1UUHpUa1FDZWo2ZDBIUjRMUURvXzRIa1ZjV0UzeHJ5WF96Mk5ncHJjQk96X1ZWS2lnTHNqcDdtbmxFczZXNEhUTTFaTHdSUDZBVnFuS0FxOTRvd191LUNTemNfZ0o0cFJ4dDh1UGlnV0NicUFJc1J0MFE4R0pLbEhKMk1kZExwRWtyNkl6WUJnYVhjdw?oc=5
 
-- India-US trade deal a major boost to tech-driven growth: Home Minister Amit Shah - News On AIR
-  India-US trade deal a major boost to tech-driven growth
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmd4ZkxMY0phbFJGTFlpaGxNVDVNSG9COHlQZkp3TG9KQWpZUWdYYnkzUl94R09VY2FBVEFEVzg4Y3NFZDd6U1NEYVZZTnN3bzJtRWdoZ3hpSW45aWVXNjZqSEpGOHhkOWdyYVVrSGlnbE1ZV3l4Nk9KeEpBVUxmYWRFOG9kZTJnTVJja3d1dThVMzQ4aTVIMDNTcUVWNW0tRmZrTG5uYkR2bjV4cUE?oc=5
+- Operation Kiya: Encounter erupts in J&K’s Udhampur - Times of India
+  Operation Kiya: Encounter erupts
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXNNTkE3TmVJYzUzWHh4T29xTG95NUxzU3ZFMHV3TGlmLWtxUkIza1VhakRtSm9iRE1jLXZyM25nOEhreDVmTmxzVXBvX2FjS01RM2c1N0dKb1pzbzBvQmFrdjJwLWo0dmlZMFVwWjNXZklZeFZ0QlBtNk14Z05ZRG5vSkVoQW5STVdCNFNuRjk5R0pWWGxmNDd2RUcxcGw3X014T05Wc2swZjVFaWFUTVJSTmlVUdIBuwFBVV95cUxPZ3NLSnBIQU5mbkRMSW1UNjNNSWZPT1A5RnhJYzhMUlJjcmVfdUJsakJBM2kzSWJGWEV3VEs1eG9pM0RGdWpkVUlCcGk1Z3MxUXhVMHFlV0MwQ3VBYWRwbzl4M3lPQks4YzNrakFSQV8tQXNRaFpUT2tXbTlzZE90elNwY3I4WnRfenlXQ1REY1ExekVXcE82TS1xZGpmWEhQMXVhWEdtc2ZLQmh1YkVPMDhjd3VoQjM0ODJn?oc=5
 
-- India-US Trade Deal News Live Updates: 'Trade deal in final stages of detailing': Goyal says India-US will issue joint statement on pact soon - Times of India
-  India-US Trade Deal News Live Updates: 'Trade deal in final stages of detailing': Goyal says India-
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
+- Registrations open for India AI Impact Expo 2026 under India AI Impact Summit - News On AIR
+  Registrations open for India AI Impact Expo 2026 under India
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlZTNmlJU2wtRWItOTVBdXRpU3pxeEl3TnV5ZUd2RUFMWHZiNzBocUVBZ2QyOWs2MnJ1ODZrSXZHUFB5dGhVdmpqSUtZVWl3YVcxUzBCcVlPcmZQZHh4NGtGenY0N0FlQk1PblBVSEFfcmU5VHVHSF9sQ0U0T3VJMXluRzBKY2Nfb0ZpbUVVUEVCb1FXaEZJTk9qbjFJZVgtQmlvNXZpeTMyU2M?oc=5
 
-- "Exit India If You Can't": Chief Justice Warns Meta Over WhatsApp Policy - NDTV
-  "Exit India If You Can't": Chief Justice
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0pBMG1fSTFaOFU3Y083LW0zLWd2aDE2amh5Tk9TMGhSWmEzbmxaR0dWcEtMQUl0RzVwckxobHA1UDFRVzktTmRuOXJvemdJUDFNVGpWQURUQjJVVnFtUWYtb0ZvNGE0V1FwSTFTbkVjREhfVXNHTGNBa00zdHB4cVFhRGlmTXRTUm5hZFNYSXp0UkV4eTlLNElZeVB4T0pWR2YtaXhMTkdWbXlrOG1US0F6RklIX3pz0gHAAUFVX3lxTE5tbDRMOVEwN1JWcEFCOE5fVVhpdDdvR0xQT1ltOUNVV1gzZzdfeDZvSUNjQkNNdXFvZDcwSFFucHU2dkVHU0k2anFabmItQ0oxdkRqblFZM1NzSGN6VE40WjU3OHdGQlJHUi1ySVZuZnI2YTJyUGctNlhpUUF1SUh4WDJmdmZqXzBVdmZRaXFnQ29WUkp3UzB3SXBoMjFuMlJTdWlsN3ZPaktRb2M2XzZ2cE02U0tGOFdFSHlvbEQ3Yw?oc=5
+- 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
+  2 British Tourists Get 'Leave India'
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
 
-- Russia speaks on India stopping oil purchases - The Hindu
-  Russia speaks on India stopping oil
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQU5jWlJNZnhmMzJvYUJ0SFdxQWNUbGNsUF9VajB0bGlIVDRnSG9QUXBiT0hfeDUtVDlsYS12MWR5TmlIcTkxSXB4NmdhOEZ5b3BTQ3VEMVlENnhnbmNCeU5jV3luWmwwWWxTZmI0UGVlY0sxN1lfSVNqQi1RVk8tYk5tQkpVamxGa2F5eDZLb1F5aHRTcnR4T2FUQXRZSy0wZ3E1NVBhUUVES042ZTN4bzZDRVRlWGdKaTFlLVFsZlhqcl9KSkIwMUJYcVZKSmFuOUpPRi11NUR1elBkSXZ3NFNrckRVSHdGVEZjcHJ30gH0AUFVX3lxTE9LUmZsdnlxZ0dFbmRQcG04blNHRWJwRFBoOThhLUJVYzcxQUhvUWJ2NEFUcHF3eDdaZmdlRThGTU5ObjZNM0VYdzZKNUtudzlVZVJvZXM5ZE9Ca25TRFhOYnJvVU9sNnZ1UGJzWkFaSDBnUGE5SnFjdlozS3JaazBPa1BjMG5lMkJTdlB3ZHpKMXdCb21Ec2FNX2N1aHhlWTQwZ240d0NMMmJhYzlFTm1MM0FDN1RJOGpldmV5Q0JsOUViNnVab0g0ZEQ5Q2ZPbWdKbURkZ1hOLUVBUEctWlVMOWVSNDZyNTdacHpseVNKdkFrUTg?oc=5
+- India-US Trade Deal LIVE: 'Will Shortly Issue Joint Statement': Piyush Goyal On India-US Trade Deal - NDTV
+  India-US Trade Deal LIVE: 'Will Shortly Issue Joint Statement
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbDYycWVlMlF5X2N1UnlSNEloa0otNXhzUXA1MDFEVmVuSmpIVW9uQ0wwRmZFanZSTEN2R2ZQS192VkxhQlZWRS1KV25TM1RJbkFFbUN2Q1plQ05ZT1BmNTIzdWJzeUpuYnZJS2xkaWlCYXgwWXN4NHFCSk45VnNmZ3A1Vk1JRmhXOGdvRlJyZldvbE5ubTBGUklzS3NpYVVKX1J6SkxJOE1jTWJqZHMtLWdqcDRoOXZoMHY4dldHSVZhcHA0VDNwVC1ITzhIUjQ0c2I0eDlyZkFSd0JyaExvcGRkWdIB6wFBVV95cUxPbVlxMktTTXdlckhsTXBIS1NYbDZqS21vNENodko5QlRDdkVIc2RvampKYnByZ3lFdHRaLXdqSjViNXVwQ0U1dk9aWnJDOTJTWVUwNGtEVk9XUmUzOUxwX1lDSU5jaC1fODhVZTI4RUtBczIyUExFX2JIWTZiT0RpYjZGOHU0TUdvS1loRjV4aGJrMFJoNkFtakFmWTg0SW5UVnNXS2swUHZHMF9OYTN3SnBNTkRoQmJXTVVDWmVqM1F6Qmd0clJPNmh0MkVaanJ1ZU5RTENZS0lpWmdhbnF6a1lKV05ZcWoxcXhB?oc=5
 
-- Piyush Goyal to share key details of India-US deal amid questions over Trump's claims, PM Modi's promises | India News - Hindustan Times
-  Piyush Goyal to share key details of India-US deal amid questions over Trump's
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxORnV2bU9FelA0cmNTVGlJTWUzUWE4M2NWLUlQZDNKWVg3TGdZNVNaSGdnYWxRTXZXc0VkRDhlS1p1c0RyTWtmc2JKT2U4VkRoQ0twMGhnUzNSd2JOVU13T0FXb21tblhRNC1CekZLMkxMZjZvRVFYMHhybmZxanl2d3JmaURWb3NVZ0NqczlxMHFaV1J4MlA4ZWpManBtcjhaVS04LUp5dlRnX1ZGSmVYdU9odVQ0aWxfMDRSX0JrSEhUcTJDV2JHY09XWk9TcXRjVlU3eWNnd3p1bWZEdTdscEdfZTZwS2FXTzQ1S09SbmNkZ9IB9wFBVV95cUxQMzRlelB5U09wcG41OWdYYVpqQVRBMFN4cHRodmxobmlzV084elRuby1BT1NGYm4wemw4VnhFUzd2cTNsYkp0QWFucFFvelQwT2o0NUYxcVQ1czdEZnJPcW0xQ1hnYXpXaUlPU3dSeG52OG1jQm9RSFA1WUYtWnN6ai1VcWtWZk81aHlwV1BUTjVudlhTa3JhenVockp3anZKVlNKU1kyQVVta2Vsd0ZFYXR3b1JSbW1YQVJYN3YxbnFjRGVlWjA2WHZRUzRSVXNYQjlzcERvOFFCVTRlRXdqRE1YU25nVEZBRkpSSjBpQjJpNDJZYlow?oc=5
+- India-U.S. deal: Five unanswered questions - The Hindu
+  India-U.
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNTEIwMkpJanhnOGZyd1UyRGVSb1BZckRoU0lLUTZkaGp6MGNNUEJ4Qm13cVVCc3dWWkJIT1lfSVNRWndocmN0ekRmU01WOGw2LU5pb2FYdDFhREtoZ3FYeHJEY3NyeF8zd20xMS1fQS1RMTN1eERILTdmOVE1a3ctQmx3bUNvVmFRbTBia2lwcTNwRDdDLThuY1ZSbWRXRknSAaYBQVVfeXFMTllYQmM2aWhDTld6RzRqTllwdG1UUHpUa1FDZWo2ZDBIUjRMUURvXzRIa1ZjV0UzeHJ5WF96Mk5ncHJjQk96X1ZWS2lnTHNqcDdtbmxFczZXNEhUTTFaTHdSUDZBVnFuS0FxOTRvd191LUNTemNfZ0o0cFJ4dDh1UGlnV0NicUFJc1J0MFE4R0pLbEhKMk1kZExwRWtyNkl6WUJnYVhjdw?oc=5
 
-- India-US trade deal a major boost to tech-driven growth: Home Minister Amit Shah - News On AIR
-  India-US trade deal a major boost to tech-driven growth
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmd4ZkxMY0phbFJGTFlpaGxNVDVNSG9COHlQZkp3TG9KQWpZUWdYYnkzUl94R09VY2FBVEFEVzg4Y3NFZDd6U1NEYVZZTnN3bzJtRWdoZ3hpSW45aWVXNjZqSEpGOHhkOWdyYVVrSGlnbE1ZV3l4Nk9KeEpBVUxmYWRFOG9kZTJnTVJja3d1dThVMzQ4aTVIMDNTcUVWNW0tRmZrTG5uYkR2bjV4cUE?oc=5
+- Operation Kiya: Encounter erupts in J&K’s Udhampur - Times of India
+  Operation Kiya: Encounter erupts
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXNNTkE3TmVJYzUzWHh4T29xTG95NUxzU3ZFMHV3TGlmLWtxUkIza1VhakRtSm9iRE1jLXZyM25nOEhreDVmTmxzVXBvX2FjS01RM2c1N0dKb1pzbzBvQmFrdjJwLWo0dmlZMFVwWjNXZklZeFZ0QlBtNk14Z05ZRG5vSkVoQW5STVdCNFNuRjk5R0pWWGxmNDd2RUcxcGw3X014T05Wc2swZjVFaWFUTVJSTmlVUdIBuwFBVV95cUxPZ3NLSnBIQU5mbkRMSW1UNjNNSWZPT1A5RnhJYzhMUlJjcmVfdUJsakJBM2kzSWJGWEV3VEs1eG9pM0RGdWpkVUlCcGk1Z3MxUXhVMHFlV0MwQ3VBYWRwbzl4M3lPQks4YzNrakFSQV8tQXNRaFpUT2tXbTlzZE90elNwY3I4WnRfenlXQ1REY1ExekVXcE82TS1xZGpmWEhQMXVhWEdtc2ZLQmh1YkVPMDhjd3VoQjM0ODJn?oc=5
 
-- India-US Trade Deal News Live Updates: 'Trade deal in final stages of detailing': Goyal says India-US will issue joint statement on pact soon - Times of India
-  India-US Trade Deal News Live Updates: 'Trade deal in final stages of detailing': Goyal says India-
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
+- Registrations open for India AI Impact Expo 2026 under India AI Impact Summit - News On AIR
+  Registrations open for India AI Impact Expo 2026 under India
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlZTNmlJU2wtRWItOTVBdXRpU3pxeEl3TnV5ZUd2RUFMWHZiNzBocUVBZ2QyOWs2MnJ1ODZrSXZHUFB5dGhVdmpqSUtZVWl3YVcxUzBCcVlPcmZQZHh4NGtGenY0N0FlQk1PblBVSEFfcmU5VHVHSF9sQ0U0T3VJMXluRzBKY2Nfb0ZpbUVVUEVCb1FXaEZJTk9qbjFJZVgtQmlvNXZpeTMyU2M?oc=5
 
-- "Exit India If You Can't": Chief Justice Warns Meta Over WhatsApp Policy - NDTV
-  "Exit India If You Can't": Chief Justice
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0pBMG1fSTFaOFU3Y083LW0zLWd2aDE2amh5Tk9TMGhSWmEzbmxaR0dWcEtMQUl0RzVwckxobHA1UDFRVzktTmRuOXJvemdJUDFNVGpWQURUQjJVVnFtUWYtb0ZvNGE0V1FwSTFTbkVjREhfVXNHTGNBa00zdHB4cVFhRGlmTXRTUm5hZFNYSXp0UkV4eTlLNElZeVB4T0pWR2YtaXhMTkdWbXlrOG1US0F6RklIX3pz0gHAAUFVX3lxTE5tbDRMOVEwN1JWcEFCOE5fVVhpdDdvR0xQT1ltOUNVV1gzZzdfeDZvSUNjQkNNdXFvZDcwSFFucHU2dkVHU0k2anFabmItQ0oxdkRqblFZM1NzSGN6VE40WjU3OHdGQlJHUi1ySVZuZnI2YTJyUGctNlhpUUF1SUh4WDJmdmZqXzBVdmZRaXFnQ29WUkp3UzB3SXBoMjFuMlJTdWlsN3ZPaktRb2M2XzZ2cE02U0tGOFdFSHlvbEQ3Yw?oc=5
+- 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
+  2 British Tourists Get 'Leave India'
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
 
-- Russia speaks on India stopping oil purchases - The Hindu
-  Russia speaks on India stopping oil
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQU5jWlJNZnhmMzJvYUJ0SFdxQWNUbGNsUF9VajB0bGlIVDRnSG9QUXBiT0hfeDUtVDlsYS12MWR5TmlIcTkxSXB4NmdhOEZ5b3BTQ3VEMVlENnhnbmNCeU5jV3luWmwwWWxTZmI0UGVlY0sxN1lfSVNqQi1RVk8tYk5tQkpVamxGa2F5eDZLb1F5aHRTcnR4T2FUQXRZSy0wZ3E1NVBhUUVES042ZTN4bzZDRVRlWGdKaTFlLVFsZlhqcl9KSkIwMUJYcVZKSmFuOUpPRi11NUR1elBkSXZ3NFNrckRVSHdGVEZjcHJ30gH0AUFVX3lxTE9LUmZsdnlxZ0dFbmRQcG04blNHRWJwRFBoOThhLUJVYzcxQUhvUWJ2NEFUcHF3eDdaZmdlRThGTU5ObjZNM0VYdzZKNUtudzlVZVJvZXM5ZE9Ca25TRFhOYnJvVU9sNnZ1UGJzWkFaSDBnUGE5SnFjdlozS3JaazBPa1BjMG5lMkJTdlB3ZHpKMXdCb21Ec2FNX2N1aHhlWTQwZ240d0NMMmJhYzlFTm1MM0FDN1RJOGpldmV5Q0JsOUViNnVab0g0ZEQ5Q2ZPbWdKbURkZ1hOLUVBUEctWlVMOWVSNDZyNTdacHpseVNKdkFrUTg?oc=5
+- India-US Trade Deal LIVE: 'Will Shortly Issue Joint Statement': Piyush Goyal On India-US Trade Deal - NDTV
+  India-US Trade Deal LIVE: 'Will Shortly Issue Joint Statement
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbDYycWVlMlF5X2N1UnlSNEloa0otNXhzUXA1MDFEVmVuSmpIVW9uQ0wwRmZFanZSTEN2R2ZQS192VkxhQlZWRS1KV25TM1RJbkFFbUN2Q1plQ05ZT1BmNTIzdWJzeUpuYnZJS2xkaWlCYXgwWXN4NHFCSk45VnNmZ3A1Vk1JRmhXOGdvRlJyZldvbE5ubTBGUklzS3NpYVVKX1J6SkxJOE1jTWJqZHMtLWdqcDRoOXZoMHY4dldHSVZhcHA0VDNwVC1ITzhIUjQ0c2I0eDlyZkFSd0JyaExvcGRkWdIB6wFBVV95cUxPbVlxMktTTXdlckhsTXBIS1NYbDZqS21vNENodko5QlRDdkVIc2RvampKYnByZ3lFdHRaLXdqSjViNXVwQ0U1dk9aWnJDOTJTWVUwNGtEVk9XUmUzOUxwX1lDSU5jaC1fODhVZTI4RUtBczIyUExFX2JIWTZiT0RpYjZGOHU0TUdvS1loRjV4aGJrMFJoNkFtakFmWTg0SW5UVnNXS2swUHZHMF9OYTN3SnBNTkRoQmJXTVVDWmVqM1F6Qmd0clJPNmh0MkVaanJ1ZU5RTENZS0lpWmdhbnF6a1lKV05ZcWoxcXhB?oc=5
 
-- Piyush Goyal to share key details of India-US deal amid questions over Trump's claims, PM Modi's promises | India News - Hindustan Times
-  Piyush Goyal to share key details of India-US deal amid questions over Trump's
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxORnV2bU9FelA0cmNTVGlJTWUzUWE4M2NWLUlQZDNKWVg3TGdZNVNaSGdnYWxRTXZXc0VkRDhlS1p1c0RyTWtmc2JKT2U4VkRoQ0twMGhnUzNSd2JOVU13T0FXb21tblhRNC1CekZLMkxMZjZvRVFYMHhybmZxanl2d3JmaURWb3NVZ0NqczlxMHFaV1J4MlA4ZWpManBtcjhaVS04LUp5dlRnX1ZGSmVYdU9odVQ0aWxfMDRSX0JrSEhUcTJDV2JHY09XWk9TcXRjVlU3eWNnd3p1bWZEdTdscEdfZTZwS2FXTzQ1S09SbmNkZ9IB9wFBVV95cUxQMzRlelB5U09wcG41OWdYYVpqQVRBMFN4cHRodmxobmlzV084elRuby1BT1NGYm4wemw4VnhFUzd2cTNsYkp0QWFucFFvelQwT2o0NUYxcVQ1czdEZnJPcW0xQ1hnYXpXaUlPU3dSeG52OG1jQm9RSFA1WUYtWnN6ai1VcWtWZk81aHlwV1BUTjVudlhTa3JhenVockp3anZKVlNKU1kyQVVta2Vsd0ZFYXR3b1JSbW1YQVJYN3YxbnFjRGVlWjA2WHZRUzRSVXNYQjlzcERvOFFCVTRlRXdqRE1YU25nVEZBRkpSSjBpQjJpNDJZYlow?oc=5
+- India-U.S. deal: Five unanswered questions - The Hindu
+  India-U.
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNTEIwMkpJanhnOGZyd1UyRGVSb1BZckRoU0lLUTZkaGp6MGNNUEJ4Qm13cVVCc3dWWkJIT1lfSVNRWndocmN0ekRmU01WOGw2LU5pb2FYdDFhREtoZ3FYeHJEY3NyeF8zd20xMS1fQS1RMTN1eERILTdmOVE1a3ctQmx3bUNvVmFRbTBia2lwcTNwRDdDLThuY1ZSbWRXRknSAaYBQVVfeXFMTllYQmM2aWhDTld6RzRqTllwdG1UUHpUa1FDZWo2ZDBIUjRMUURvXzRIa1ZjV0UzeHJ5WF96Mk5ncHJjQk96X1ZWS2lnTHNqcDdtbmxFczZXNEhUTTFaTHdSUDZBVnFuS0FxOTRvd191LUNTemNfZ0o0cFJ4dDh1UGlnV0NicUFJc1J0MFE4R0pLbEhKMk1kZExwRWtyNkl6WUJnYVhjdw?oc=5
 
-- India-US trade deal a major boost to tech-driven growth: Home Minister Amit Shah - News On AIR
-  India-US trade deal a major boost to tech-driven growth
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmd4ZkxMY0phbFJGTFlpaGxNVDVNSG9COHlQZkp3TG9KQWpZUWdYYnkzUl94R09VY2FBVEFEVzg4Y3NFZDd6U1NEYVZZTnN3bzJtRWdoZ3hpSW45aWVXNjZqSEpGOHhkOWdyYVVrSGlnbE1ZV3l4Nk9KeEpBVUxmYWRFOG9kZTJnTVJja3d1dThVMzQ4aTVIMDNTcUVWNW0tRmZrTG5uYkR2bjV4cUE?oc=5
+- Operation Kiya: Encounter erupts in J&K’s Udhampur - Times of India
+  Operation Kiya: Encounter erupts
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXNNTkE3TmVJYzUzWHh4T29xTG95NUxzU3ZFMHV3TGlmLWtxUkIza1VhakRtSm9iRE1jLXZyM25nOEhreDVmTmxzVXBvX2FjS01RM2c1N0dKb1pzbzBvQmFrdjJwLWo0dmlZMFVwWjNXZklZeFZ0QlBtNk14Z05ZRG5vSkVoQW5STVdCNFNuRjk5R0pWWGxmNDd2RUcxcGw3X014T05Wc2swZjVFaWFUTVJSTmlVUdIBuwFBVV95cUxPZ3NLSnBIQU5mbkRMSW1UNjNNSWZPT1A5RnhJYzhMUlJjcmVfdUJsakJBM2kzSWJGWEV3VEs1eG9pM0RGdWpkVUlCcGk1Z3MxUXhVMHFlV0MwQ3VBYWRwbzl4M3lPQks4YzNrakFSQV8tQXNRaFpUT2tXbTlzZE90elNwY3I4WnRfenlXQ1REY1ExekVXcE82TS1xZGpmWEhQMXVhWEdtc2ZLQmh1YkVPMDhjd3VoQjM0ODJn?oc=5
 
-- India-US Trade Deal News Live Updates: 'Trade deal in final stages of detailing': Goyal says India-US will issue joint statement on pact soon - Times of India
-  India-US Trade Deal News Live Updates: 'Trade deal in final stages of detailing': Goyal says India-
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
+- Registrations open for India AI Impact Expo 2026 under India AI Impact Summit - News On AIR
+  Registrations open for India AI Impact Expo 2026 under India
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlZTNmlJU2wtRWItOTVBdXRpU3pxeEl3TnV5ZUd2RUFMWHZiNzBocUVBZ2QyOWs2MnJ1ODZrSXZHUFB5dGhVdmpqSUtZVWl3YVcxUzBCcVlPcmZQZHh4NGtGenY0N0FlQk1PblBVSEFfcmU5VHVHSF9sQ0U0T3VJMXluRzBKY2Nfb0ZpbUVVUEVCb1FXaEZJTk9qbjFJZVgtQmlvNXZpeTMyU2M?oc=5
 
-- "Exit India If You Can't": Chief Justice Warns Meta Over WhatsApp Policy - NDTV
-  "Exit India If You Can't": Chief Justice
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0pBMG1fSTFaOFU3Y083LW0zLWd2aDE2amh5Tk9TMGhSWmEzbmxaR0dWcEtMQUl0RzVwckxobHA1UDFRVzktTmRuOXJvemdJUDFNVGpWQURUQjJVVnFtUWYtb0ZvNGE0V1FwSTFTbkVjREhfVXNHTGNBa00zdHB4cVFhRGlmTXRTUm5hZFNYSXp0UkV4eTlLNElZeVB4T0pWR2YtaXhMTkdWbXlrOG1US0F6RklIX3pz0gHAAUFVX3lxTE5tbDRMOVEwN1JWcEFCOE5fVVhpdDdvR0xQT1ltOUNVV1gzZzdfeDZvSUNjQkNNdXFvZDcwSFFucHU2dkVHU0k2anFabmItQ0oxdkRqblFZM1NzSGN6VE40WjU3OHdGQlJHUi1ySVZuZnI2YTJyUGctNlhpUUF1SUh4WDJmdmZqXzBVdmZRaXFnQ29WUkp3UzB3SXBoMjFuMlJTdWlsN3ZPaktRb2M2XzZ2cE02U0tGOFdFSHlvbEQ3Yw?oc=5
+- 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
+  2 British Tourists Get 'Leave India'
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
 
-- Russia speaks on India stopping oil purchases - The Hindu
-  Russia speaks on India stopping oil
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQU5jWlJNZnhmMzJvYUJ0SFdxQWNUbGNsUF9VajB0bGlIVDRnSG9QUXBiT0hfeDUtVDlsYS12MWR5TmlIcTkxSXB4NmdhOEZ5b3BTQ3VEMVlENnhnbmNCeU5jV3luWmwwWWxTZmI0UGVlY0sxN1lfSVNqQi1RVk8tYk5tQkpVamxGa2F5eDZLb1F5aHRTcnR4T2FUQXRZSy0wZ3E1NVBhUUVES042ZTN4bzZDRVRlWGdKaTFlLVFsZlhqcl9KSkIwMUJYcVZKSmFuOUpPRi11NUR1elBkSXZ3NFNrckRVSHdGVEZjcHJ30gH0AUFVX3lxTE9LUmZsdnlxZ0dFbmRQcG04blNHRWJwRFBoOThhLUJVYzcxQUhvUWJ2NEFUcHF3eDdaZmdlRThGTU5ObjZNM0VYdzZKNUtudzlVZVJvZXM5ZE9Ca25TRFhOYnJvVU9sNnZ1UGJzWkFaSDBnUGE5SnFjdlozS3JaazBPa1BjMG5lMkJTdlB3ZHpKMXdCb21Ec2FNX2N1aHhlWTQwZ240d0NMMmJhYzlFTm1MM0FDN1RJOGpldmV5Q0JsOUViNnVab0g0ZEQ5Q2ZPbWdKbURkZ1hOLUVBUEctWlVMOWVSNDZyNTdacHpseVNKdkFrUTg?oc=5
+- India-US Trade Deal LIVE: 'Will Shortly Issue Joint Statement': Piyush Goyal On India-US Trade Deal - NDTV
+  India-US Trade Deal LIVE: 'Will Shortly Issue Joint Statement
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbDYycWVlMlF5X2N1UnlSNEloa0otNXhzUXA1MDFEVmVuSmpIVW9uQ0wwRmZFanZSTEN2R2ZQS192VkxhQlZWRS1KV25TM1RJbkFFbUN2Q1plQ05ZT1BmNTIzdWJzeUpuYnZJS2xkaWlCYXgwWXN4NHFCSk45VnNmZ3A1Vk1JRmhXOGdvRlJyZldvbE5ubTBGUklzS3NpYVVKX1J6SkxJOE1jTWJqZHMtLWdqcDRoOXZoMHY4dldHSVZhcHA0VDNwVC1ITzhIUjQ0c2I0eDlyZkFSd0JyaExvcGRkWdIB6wFBVV95cUxPbVlxMktTTXdlckhsTXBIS1NYbDZqS21vNENodko5QlRDdkVIc2RvampKYnByZ3lFdHRaLXdqSjViNXVwQ0U1dk9aWnJDOTJTWVUwNGtEVk9XUmUzOUxwX1lDSU5jaC1fODhVZTI4RUtBczIyUExFX2JIWTZiT0RpYjZGOHU0TUdvS1loRjV4aGJrMFJoNkFtakFmWTg0SW5UVnNXS2swUHZHMF9OYTN3SnBNTkRoQmJXTVVDWmVqM1F6Qmd0clJPNmh0MkVaanJ1ZU5RTENZS0lpWmdhbnF6a1lKV05ZcWoxcXhB?oc=5
 
-- Piyush Goyal to share key details of India-US deal amid questions over Trump's claims, PM Modi's promises | India News - Hindustan Times
-  Piyush Goyal to share key details of India-US deal amid questions over Trump's
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxORnV2bU9FelA0cmNTVGlJTWUzUWE4M2NWLUlQZDNKWVg3TGdZNVNaSGdnYWxRTXZXc0VkRDhlS1p1c0RyTWtmc2JKT2U4VkRoQ0twMGhnUzNSd2JOVU13T0FXb21tblhRNC1CekZLMkxMZjZvRVFYMHhybmZxanl2d3JmaURWb3NVZ0NqczlxMHFaV1J4MlA4ZWpManBtcjhaVS04LUp5dlRnX1ZGSmVYdU9odVQ0aWxfMDRSX0JrSEhUcTJDV2JHY09XWk9TcXRjVlU3eWNnd3p1bWZEdTdscEdfZTZwS2FXTzQ1S09SbmNkZ9IB9wFBVV95cUxQMzRlelB5U09wcG41OWdYYVpqQVRBMFN4cHRodmxobmlzV084elRuby1BT1NGYm4wemw4VnhFUzd2cTNsYkp0QWFucFFvelQwT2o0NUYxcVQ1czdEZnJPcW0xQ1hnYXpXaUlPU3dSeG52OG1jQm9RSFA1WUYtWnN6ai1VcWtWZk81aHlwV1BUTjVudlhTa3JhenVockp3anZKVlNKU1kyQVVta2Vsd0ZFYXR3b1JSbW1YQVJYN3YxbnFjRGVlWjA2WHZRUzRSVXNYQjlzcERvOFFCVTRlRXdqRE1YU25nVEZBRkpSSjBpQjJpNDJZYlow?oc=5
+- India-U.S. deal: Five unanswered questions - The Hindu
+  India-U.
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNTEIwMkpJanhnOGZyd1UyRGVSb1BZckRoU0lLUTZkaGp6MGNNUEJ4Qm13cVVCc3dWWkJIT1lfSVNRWndocmN0ekRmU01WOGw2LU5pb2FYdDFhREtoZ3FYeHJEY3NyeF8zd20xMS1fQS1RMTN1eERILTdmOVE1a3ctQmx3bUNvVmFRbTBia2lwcTNwRDdDLThuY1ZSbWRXRknSAaYBQVVfeXFMTllYQmM2aWhDTld6RzRqTllwdG1UUHpUa1FDZWo2ZDBIUjRMUURvXzRIa1ZjV0UzeHJ5WF96Mk5ncHJjQk96X1ZWS2lnTHNqcDdtbmxFczZXNEhUTTFaTHdSUDZBVnFuS0FxOTRvd191LUNTemNfZ0o0cFJ4dDh1UGlnV0NicUFJc1J0MFE4R0pLbEhKMk1kZExwRWtyNkl6WUJnYVhjdw?oc=5
 
-- India-US trade deal a major boost to tech-driven growth: Home Minister Amit Shah - News On AIR
-  India-US trade deal a major boost to tech-driven growth
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmd4ZkxMY0phbFJGTFlpaGxNVDVNSG9COHlQZkp3TG9KQWpZUWdYYnkzUl94R09VY2FBVEFEVzg4Y3NFZDd6U1NEYVZZTnN3bzJtRWdoZ3hpSW45aWVXNjZqSEpGOHhkOWdyYVVrSGlnbE1ZV3l4Nk9KeEpBVUxmYWRFOG9kZTJnTVJja3d1dThVMzQ4aTVIMDNTcUVWNW0tRmZrTG5uYkR2bjV4cUE?oc=5
+- Operation Kiya: Encounter erupts in J&K’s Udhampur - Times of India
+  Operation Kiya: Encounter erupts
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXNNTkE3TmVJYzUzWHh4T29xTG95NUxzU3ZFMHV3TGlmLWtxUkIza1VhakRtSm9iRE1jLXZyM25nOEhreDVmTmxzVXBvX2FjS01RM2c1N0dKb1pzbzBvQmFrdjJwLWo0dmlZMFVwWjNXZklZeFZ0QlBtNk14Z05ZRG5vSkVoQW5STVdCNFNuRjk5R0pWWGxmNDd2RUcxcGw3X014T05Wc2swZjVFaWFUTVJSTmlVUdIBuwFBVV95cUxPZ3NLSnBIQU5mbkRMSW1UNjNNSWZPT1A5RnhJYzhMUlJjcmVfdUJsakJBM2kzSWJGWEV3VEs1eG9pM0RGdWpkVUlCcGk1Z3MxUXhVMHFlV0MwQ3VBYWRwbzl4M3lPQks4YzNrakFSQV8tQXNRaFpUT2tXbTlzZE90elNwY3I4WnRfenlXQ1REY1ExekVXcE82TS1xZGpmWEhQMXVhWEdtc2ZLQmh1YkVPMDhjd3VoQjM0ODJn?oc=5
+
+- Registrations open for India AI Impact Expo 2026 under India AI Impact Summit - News On AIR
+  Registrations open for India AI Impact Expo 2026 under India
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlZTNmlJU2wtRWItOTVBdXRpU3pxeEl3TnV5ZUd2RUFMWHZiNzBocUVBZ2QyOWs2MnJ1ODZrSXZHUFB5dGhVdmpqSUtZVWl3YVcxUzBCcVlPcmZQZHh4NGtGenY0N0FlQk1PblBVSEFfcmU5VHVHSF9sQ0U0T3VJMXluRzBKY2Nfb0ZpbUVVUEVCb1FXaEZJTk9qbjFJZVgtQmlvNXZpeTMyU2M?oc=5
+
+- 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
+  2 British Tourists Get 'Leave India'
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-03 12:51:48 UTC_
+_Last updated: 2026-02-03 18:59:40 UTC_
