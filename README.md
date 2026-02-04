@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- India, UK sign MoU for real-time exchange of criminal records, intelligence
+- ‘They told me my son and I are next’: Women whose homes were targeted during Chhattisgarh communal violence recount horror
   
-  🔗 https://indianexpress.com/article/india/india-uk-sign-mou-real-time-exchange-criminal-records-intelligence-10512631/
+  🔗 https://indianexpress.com/article/india/chhattisgarh-communal-violence-10513471/
 
-- Express Exclusive: Fugitive gangster Sachin Golu flees India after mistaken-identity killing in Delhi: ‘Spotted in Dubai’
+- ‘Completely unacceptable’: BJP defends Ravneet Singh Bittu, slams Rahul Gandhi for traitor jibe ‘on Sikh community’
   
-  🔗 https://indianexpress.com/article/india/delhi/gangster-sachin-golu-flees-india-mistaken-identity-killing-delhi-dubai-10512569/
+  🔗 https://indianexpress.com/article/india/bjp-defends-ravneet-singh-bittu-slams-rahul-gandhi-for-traitor-jibe-10513358/
 
-- Gold Today Rate, February 4: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- LS adjourned after Nishikant Dubey’s remarks targeting Nehru, Indira Gandhi; chair Intervenes
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-february-4-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10512554/
+  🔗 https://indianexpress.com/article/india/ls-adjourned-nishikant-dubey-remark-target-nehru-indira-gandhi-10513319/
 
-- ‘Work together to unlock new economic opportunities’: Jaishankar meets US Secretary of State Rubio and Treasury Secy Bessent ahead of critical minerals meet
+- Nearly a year after it was imposed, President’s Rule revoked in Manipur, paving way for new BJP-led government
   
-  🔗 https://indianexpress.com/article/india/work-together-to-unlock-new-economic-opportunities-jaishankar-meets-us-secretary-of-state-rubio-and-treasury-secy-bessent-ahead-of-critical-minerals-meet-10512457/
+  🔗 https://indianexpress.com/article/india/presidents-rule-revoked-manipur-bjp-yumnam-khemchand-singh-10513296/
 
-- ‘Vague and unscientific’: Why Goa is arguing against Supreme Court panel’s plan to notifying tiger reserve
+- Indian Railways plans to manufacture 260 Vande Bharat Sleeper trainsets
   
-  🔗 https://indianexpress.com/article/india/goa-government-supreme-court-cec-report-tiger-reserve-mhadei-affidavit-10512173/
+  🔗 https://indianexpress.com/article/india/indian-railways-plans-to-manufacture-260-vande-bharat-sleeper-trainsets-10513155/
 
-- NASA’s Artemis II moon mission slips to March
+- AI fears spark brutal selloff in legal, data and software stocks
   
-  🔗 https://indianexpress.com/article/technology/science/nasas-artemis-ii-moon-mission-slips-to-march-10512432/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-fears-spark-brutal-selloff-in-legal-data-and-software-stocks-10513581/
 
-- Pen, paper and brain: Why writing by hand still matters in the age of screens
+- Tired of watching the same Reels? Here’s how to reset Instagram’s algorithm
   
-  🔗 https://indianexpress.com/article/technology/science/pen-paper-and-brain-why-writing-by-hand-still-matters-in-the-age-of-screens-10511731/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tired-of-watching-the-same-reels-heres-how-to-reset-instagrams-algorithm-10513532/
 
-- Adobe’s AI pivot: Animate to be retired next month, here is exactly how long you can continue using it
+- Oppo Reno15c to go on sale from February 5, price starts at Rs 34,999
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/adobes-ai-pivot-animate-to-be-retired-next-month-here-is-exactly-how-long-you-can-continue-using-it-10511719/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/oppo-reno15c-to-go-on-sale-from-february-5-price-starts-at-rs-34999-10513470/
 
-- Despite new curbs, Elon Musk’s Grok AI chatbot at times produces sexualised images
+- Struggling to land job interviews? These 6 ChatGPT prompts are a game changer
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/despite-new-curbs-elon-musks-grok-ai-chatbot-at-times-produces-sexualised-images-10511654/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/struggling-to-land-job-interviews-6-chatgpt-prompts-are-a-game-changer-10512954/
 
-- Spain to ban social media access for under-16s, PM Sanchez says
+- Used this trick to play YouTube videos in the background? Google has shut it down
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/spain-ban-social-media-under-16s-10511642/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/youtube-free-background-playback-trick-mobile-browser-not-working-10513002/
 
-- M&amp;M secures deal to supply 35,000 Scorpio Pik Ups to Indonesian govt company Agrinas in 2026
-  Mahindra and Agrinas Pangan Nusantara will work together to equip Koperasi with these vehicles to ensure effective and seamless flow of fresh supplies from farmers
-  🔗 https://www.livemint.com/companies/news/m-and-m-secures-deal-to-supply-35-000-scorpio-pik-ups-to-indonesian-govt-company-agrinas-in-2026-11770185563224.html
+- Today, the AI story is not well understood in the Indian market: Fractal CEO
+  There are not a lot of AI stocks out there, says Fractal Analytics' founder Srikanth Velamak
+  🔗 https://www.livemint.com/companies/fractal-analytics-founder-ipo-valuation-cut-ai-investors-11770198866957.html
 
-- 'Things to move fast': Sam Altman hires ex- Anthropic engineer as OpenAI braces for ‘extremely powerful models’
-  OpenAI CEO Sam Altman announced the hiring of Dylan Scandinaro as Head of Preparedness. Altman emphasized the need for safeguards and expressed confidence
-  🔗 https://www.livemint.com/companies/news/things-to-move-fast-sam-altman-hires-ex-anthropic-engineer-as-openai-braces-for-extremely-powerful-models-11770182659537.html
+- IndiGo reduces Manchester, London flights, to suspend Copenhagen services - check schedule here
+  IndiGo announced the revised schedule for its long-haul flights, trimming services on Copenhagen, Manchester and London
+  🔗 https://www.livemint.com/companies/news/indigo-reduces-manchester-london-flights-to-suspend-copenhagen-services-check-schedule-here-11770202090080.html
 
-- The Whole Truth raises $51 million in series D round led by Sofina, Sauce, others
-  Clean-label protein brand The Whole Truth has raised $51 million in a Series D round led by Sofina and
-  🔗 https://www.livemint.com/companies/start-ups/the-whole-truth-fundraise-51-mn-series-d-round-sofina-sauce-11770179673261.html
+- With two partnerships in two weeks, Adani ramps up defence push
+  Adani Group is aggressively accelerating its bid to strengthen its presence in the Indian defence sector. It has secured its
+  🔗 https://www.livemint.com/companies/news/with-two-partnerships-in-two-weeks-adani-ramps-up-defence-push-11770124204466.html
 
-- SpaceX-xAI merger announced: How does the mega deal affect Elon Musk's net worth?
-  The SpaceX-xAI merger comes amid Elon Musk's push to prioritise AI and space exploration. Here is how his net worth might be affected
-  🔗 https://www.livemint.com/companies/people/spacexxai-merger-announced-how-does-the-mega-deal-affect-elon-musks-net-worth-11770174445250.html
+- Byju’s resolution professional aims at Raveendran Singapore firm in Aakash control battle
+  The spotlight is back on Beeaar, a Singapore firm owned by promoter Byju Raveendran. Byju's navigates a bankruptcy resolution. The resolution professional has alleged Be
+  🔗 https://www.livemint.com/companies/start-ups/byjus-resolution-professional-alleges-unlawful-conduct-aakash-ownership-battle-11770009648932.html
 
-- IndiGo loses nearly 4% market share in December after flight disruption; Air India gains
-  Mass cancellations and a cut in daily departures dragged IndiGo’s market share to a two-year low in
-  🔗 https://www.livemint.com/companies/indigo-market-share-december-flight-disruption-air-india-akasa-air-dgca-data-airlines-11770172361957.html
+- Here's how the top H-1B sponsor is turning to India as Trump tightens visa rules
+  The expansion plan comes amid tighter US immigration policies under Donald Trump. In January this year, Washington announced an indefinite pause on immigrant
+  🔗 https://www.livemint.com/companies/google-alphabet-h-1b-visa-sponsor-tech-workforce-indians-us-visa-rule-donald-trump-11770196718368.html
 
-- India-US trade deal changes RBI monetary policy outlook: BofA explains why rate cut cycle may be over now
-  Bank of America sees upside risks to India's FY27 GDP projections of 6.8% due to a trade deal that enhances export competitiveness and reduces tariff burdens. The RBI is expected
-  🔗 https://www.livemint.com/market/stock-market-news/indiaus-trade-deal-changes-rbi-monetary-policy-outlook-bofa-explains-why-rbi-mpc-rate-cut-cycle-may-be-over-now-11770184280772.html
+- US stock futures point to flat start for Wall Street after Anthropic AI-led tech selloff
+  The latest selloff in tech stocks was sparked by Anthropic after it said it was launching a new artificial intelligence (
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-futures-point-to-flat-start-for-wall-street-after-anthropic-ai-led-tech-selloff-11770207552726.html
 
-- US-India trade deal: Indian stock market euphoria fizzles! Why are gains likely to be capped? Explained
-  Despite recent surge, Indian stock market faces challenges. Analysts warn sustained gains will depend on earnings growth and stability.
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-nifty-50-trade-range-bound-despite-india-us-trade-deal-why-indian-stock-markets-upside-is-capped-explained-11770182833564.html
+- Tata Power Q3 results: Profit remains flat at  ₹1,194 crore, revenue falls 4% YoY
+  Tata Power Q3 results: Profit remained flat at  ₹1,194
+  🔗 https://www.livemint.com/market/stock-market-news/tata-power-q3-results-profit-remains-flat-at-1-194-crore-revenue-falls-9-yoy-11770205911325.html
 
-- HAL share price slides 8%: Why is the PSU defence stock falling? Explained
-   HAL share price declined 8% after being excluded from developing India's next-gen fighter jets under the AMCA program. This setback raises concerns about the company's revenue
-  🔗 https://www.livemint.com/market/stock-market-news/hal-share-price-slides-8-why-is-the-psu-defence-stock-falling-explained-11770182827181.html
+- Grover Jewells IPO Day 1: Latest GMP, subscription status, listing date &amp; other details about SME issue
+  Grover Jewells' IPO was fully subscribed at 1.08 times, with strong interest from non-institutional and retail investors. The company aims to raise  �
+  🔗 https://www.livemint.com/market/ipo/grover-jewells-ipo-day-1-latest-gmp-subscription-status-listing-date-other-details-about-sme-issue-11770203788332.html
 
-- Kanishk Aluminium IPO listing: Stock lists at 20% discount to offer price, extends fall to hit 5% lower circuit
-  Kanishk Aluminium share price listed at  ₹58.40 today, down 20% to its IPO price.
-  🔗 https://www.livemint.com/market/ipo/kanishk-aluminium-ipo-listing-stock-lists-at-20-discount-to-offer-price-extends-fall-to-hit-5-lower-circuit-11770184403911.html
+- Brandman Retail IPO booked 69% on Day 1; NIIs steal the show. Check GMP, issue details, more
+  Brandman Retail IPO, running from February 4 to February 6, is priced at  ₹167-176 per share. The company, founded in
+  🔗 https://www.livemint.com/market/brandman-retail-ipo-booked-69-on-day-1-niis-steal-the-show-check-gmp-issue-details-more-brandman-retail-ipo-gmp-11770202498308.html
 
-- Up over 4000% in 5 years! RDB Infrastructure and Power share price jumps over 4% after NSE listing move
-  RDB Infrastructure and Power's share price rose over 4% after the board approved a direct listing on the NSE. The company aims to enhance shareholder value and expand its presence in capital
-  🔗 https://www.livemint.com/market/stock-market-news/up-over-4000-in-5-years-multibagger-sme-stock-rdb-infra-and-power-share-price-jumps-over-4-after-nse-listing-move-11770181902964.html
+- Fiscal realism and RBI patience: The new playbook for Indian bond investors
+  A well-constructed accrual-oriented portfolio that blends high-quality core holdings with measured doses of
+  🔗 https://www.livemint.com/market/bonds/fiscal-realism-and-rbi-patience-the-new-playbook-for-indian-bond-investors-11770204013174.html
+
+- The AI-Only Social Network Isn’t Plotting Against Us
+  A social network named Moltbook, modeled on Reddit, is designed for AI "agents" to engage in discussions with one another. Some of the hot topics so far are purging humans, creating a language we can’t
+  🔗 https://www.livemint.com/technology/the-ai-only-social-network-isn-t-plotting-against-us-11770208044037.html
+
+- Europe Takes On Tech With Social Media Bans and Paris Raid on X
+  European countries are taking their broadest swipe yet at social media. A growing number are weighing bans of the services for minors.
+  🔗 https://www.livemint.com/technology/europe-takes-on-tech-with-social-media-bans-and-paris-raid-on-x-11770191817045.html
+
+- Thinking of leaving ChatGPT? Google may let you move all your chats to Gemini
+  Google is reportedly working on an 'import AI chats' feature for Gemini. It could allow users to transfer
+  🔗 https://www.livemint.com/technology/tech-news/thinking-of-leaving-chatgpt-google-may-let-you-move-all-your-chats-to-gemini-11770187763898.html
 
 - Redmi Note 15 Pro, Note 15 Pro+ goes on sale in India today: Price, launch offers and all you need to know
   The Redmi Note 15 Pro and 15 Pro+ will go on sale from 11am today. The phones can be bought from Amazon, mi.com and authorized retail outlets
@@ -88,69 +100,57 @@
   The Galaxy Days sale by Samsung on Flipkart features discounts on various devices from February 3 to 5. Notable offers include Galaxy F series from  ₹8
   🔗 https://www.livemint.com/technology/gadgets/samsung-announces-massive-price-cuts-on-flagships-galaxy-s25-goes-below-rs-75-000-galaxy-s24-starts-from-rs-42999-11770174990219.html
 
-- Whack-a-mole: US academic fights to purge his AI deepfakes
-  US academic fights to
-  🔗 https://www.livemint.com/technology/whackamole-us-academic-fights-to-purge-his-ai-deepfakes-11770168532546.html
-
-- Is ChatGPT down in the US? Thousands of users report outage after being unable to send messages
-  OpenAI's ChatGPT experienced an outage in the United States. Over 3,200 users reported
-  🔗 https://www.livemint.com/technology/tech-news/is-chatgpt-down-in-the-us-thousands-of-users-report-outage-after-being-unable-to-send-messages-11770165944767.html
-
-- Oakley Meta Vanguard smart glasses for athletes launched in India: Price, features and more
-  The Oakley Meta Vanguard features fitness tracking, hands-free 3K video capture, open-ear audio, Hindi voice support and IP67 water resistance. The
-  🔗 https://www.livemint.com/technology/gadgets/oakley-meta-vanguard-smart-glasses-for-athletes-launched-in-india-price-features-and-more-11770139828838.html
-
-- S&P 500 tumbles nearly 1% as investors rotate out of tech, Dow slides more than 160 points: Live updates - CNBC
-  S&amp;P 500 tumbles nearly 1% as investors rotate out of tech
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE82S1M0OFFxSjNTQnRWT21VRGRUbzUxemRyYXNZdGZqdnF0dTE1bTJZMHZWOWFEZnNfN0VmWEZ0TlhwS09SVGVDRVRzTGhoS3ZfdlF2SnNTVUFxcFFJa1E2QmZERnBkMkg2WTA5SGZoLTMyQ2RJTTQ00gF8QVVfeXFMTm1SS1FGeVk1YmtNNkF2TUxCYk45XzJiYzFYSnN3S1dIZ0Fud3M2OG9uVjlpZzFuVnZrc05pMG9waXJmS1NCQ3VaaHJUSnY1MTFTLTJmNDhkRzV2cXVsQVFsOGR2WjluMHd2UkJ3bTFTdGExY2xNaERIVE1ZZw?oc=5
-
-- Asian Stocks Pare Losses After US Tech-Led Selloff: Markets Wrap - Bloomberg.com
-  Asian Stocks Pare Losses After
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2VxSFlCVU54QWpwbVhiZGRqWmxWc1k3ZDcwaVBDcUV2STc2TGMxVGZrNllZdjR6UHZkV1NfNkYtMzBkdUJtTndSVzYzdDZDVkJWZmRna21wd093dTRrRmROU0gwa1drTjNnVjlETmhMZ3cwa3hjOXV6ZEo1RGhQODd2ZlZPX004S0JkLXFYSGxvSF9O?oc=5
-
-- Stock Market News, Feb. 3, 2026: Fear Over New AI Tools Triggers Tech Selloff - The Wall Street Journal
-  The Wall Street Journal published a story on Feb. 3, 2026:
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNVF90eGlhdXdiV09sWllwdjRjYlhLVDFYZmR5U1pqY3BOSjJsZVItWVNmMXN2cGo3WGZWTURiZWctVTB5YnVVSGl3ZWhQbjVtTDlMS3lIcWFVYVpWV2Q5RC13MkZNN1l2dUhDakJkd3dqdzZwdC1mQXZtUW5OUTFaWHdlNVEySlE?oc=5
-
 - What You Need to Know About the AI Models Rattling Markets - The Wall Street Journal
   The Wall Street Journal published an article about the impact of AI
   🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0xKMjU2VWxJOWZ5aktvTFdpQk52UWhFd3pTUGhKc3lYaGF2MjVXaXhYZnpncVJQTFpvQUExQjZfLWJmd1pVZFNVa1pOcjRlTVNiVXFsWEx0X0hWVVZjYThiU1BCUmk5Znh2UnNsNmJwdjlMY3dtSmRNOXBRVmw3U0JqRU5oTUphR1dJbkNsbllkdko0X2FHRElnQQ?oc=5
 
-- Anthropic AI Tool Sparks Selloff From Software to Broader Market - Bloomberg.com
-  Anthropic AI Tool Sparks Selloff
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkxnVXNSN1hSUUF4T3ZvSUlON0o4b0haSC0wRDZ5SHJQT2JvNWQ2MmVYY0ZaWU1kaF9BOVdycFF1dnRpY29yMFpTMW9WQndjWFk1bzRHeUJKQ2s1ZUltX01aVi10VnZSa3czMEJ5d1FTeldxT29nSVBnVVNfcFpjRmtuQmpjWVQ0VWdEb2dhNDBoNnU3RWtPZHJDa1JrcFJiSTU1RDlkWVhHN0liNVFIcFdZMA?oc=5
+- Stocks Bounce After AI Scare as Gold Hits $5,000: Markets Wrap - Bloomberg.com
+  Stocks Bounce After AI Scare as Gold Hits
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2VxSFlCVU54QWpwbVhiZGRqWmxWc1k3ZDcwaVBDcUV2STc2TGMxVGZrNllZdjR6UHZkV1NfNkYtMzBkdUJtTndSVzYzdDZDVkJWZmRna21wd093dTRrRmROU0gwa1drTjNnVjlETmhMZ3cwa3hjOXV6ZEo1RGhQODd2ZlZPX004S0JkLXFYSGxvSF9O?oc=5
 
-- ‘SaaSpocalypse’: What is Anthropic’s newest AI tool and what are the consequences for global tech companies?
-  Anthropic unveiled new AI tools capable of automating legal, sales, marketing and data analysis tasks. Fears that AI may replace—rather than support—software firms triggered what analysts call a “SaaSpocalypse�
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/saaspocalypse-what-is-anthropics-newest-ai-tool-and-what-are-the-consequences-for-global-tech-companies/articleshow/127901331.cms
+- Global Markets, U.S. Futures Steady After Heavy AI-Induced Selling - The Wall Street Journal
+  The Wall Street Journal reports that U.S.
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGMxMUFSa3BFQlU5REJwM3pDN29EVVp0QzJ3X1hBM0x6aWkzMkJfQjF4aDdRbHc2cVc4bGtnQUVSVkhvTFhKWjJweFYzYkJMOUtMMTFHc2FyMW96Zzc1SEx0eUp2UXlmQkNyNlVMOWVZbFVGSUpiQWU5dnpVMm4wZTlIR2ltbUcwaVZPSkw2NV9YZV9uQTQ5RGV3SnN3c2w0TE1n?oc=5
 
-- Motilal Oswal AMC’s Prateek Agarwal sees Make in India as biggest beneficiary of trade pacts
-  India's recent trade agreements with the US and EU are poised to significantly boost the 'Make in India' initiative. These pacts are expected to attract foreign investment, strengthen the rupee, and revive investor
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/motilal-oswal-amcs-prateek-agarwal-sees-make-in-india-as-biggest-beneficiary-of-trade-pacts/articleshow/127900893.cms
+- Stock Market Today: Futures Tick Higher After Indexes Tumble; AMD Shares Drop; Gold Rises Back Above $5,000 - Investopedia
+  Stock Market Today: Futures Tick Higher After Indexes Tumble; AMD
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNX0VsMGRDVnJBbVJMQXpZRk80NE1SOTVqMmNNMzFaeGE3MldOMUVOQ24yNmhVbUttc2pTejZxeEhVajU0aTFxbk9GRjBuTS1QeHlEYmI4VmpDSEhCcUtiNzRURWdzVVF3LWo4c25zUU9QalEtd0FuLVJKS20wTUl5Y1gydlp4QzJkRk40Ylc3d3k?oc=5
 
-- India bonds a tad up ahead of RBI debt buy, policy decision this week
-  Indian government ‍bonds moved marginally higher ​on Wednesday after a quiet opening. The central bank's debt purchase
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-a-tad-up-ahead-of-rbi-debt-buy-policy-decision-this-week/articleshow/127900942.cms
+- Shares dip as Anthropic update pounds software stocks; gold glitters - Reuters
+  Shares dip as Anthropic update pounds software
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxOSVZqTGpfRkNIZi0tOXdubzJsaTIzb1c3cG5VRG5jOXRvYUFJckN5aFdacENFU3Fsa1JJcENXRXFPWUszYXRadk1mNDlZbndwdGlTTXhCUGRNbEFtMm1JaTNMTnJiVTZTUW5iTGpWaWU2THBxRU5qTG5FS2UzUU1zYzRQNA?oc=5
 
-- Wall Street investor Jim Rogers’ India lesson: Always own some gold and silver
-  Veteran investor Jim Rogers said precious metals remain a core part of a long-term portfolio. Rogers said he is neither buying nor selling gold and silver at current levels.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-investor-jim-rogers-india-lesson-always-own-some-gold-and-silver/articleshow/127900860.cms
+- Gold, silver or stocks? How Mukesh Ambani believes average Indian saver can compound wealth
+  Mukesh Ambani urged Indians to shift savings from gold and silver into capital markets. He said productive investments offer compounding returns, unlike bullion imports.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gold-silver-or-stocks-how-mukesh-ambani-believes-average-indian-saver-can-compound-wealth/articleshow/127909436.cms
 
-- Gokaldas Exports shares surge over 40% in two days after India-US trade deal
-  Gokaldas Exports shares have surged over 40% in two sessions. India and the US announced a landmark trade deal cutting tariffs to 18%. With the US contributing nearly 70% of its revenue, the company stands to
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gokaldas-exports-shares-surge-over-40-in-two-days-after-india-us-trade-deal/articleshow/127900783.cms
+- Indian bonds rise ahead of RBI debt purchase, policy outcome
+  The 10-year yield eased to 6.6972%, while markets await the RBI’s policy decision and liquidity outlook. Traders expect no further rate cuts but continued growth-supportive OMO operations.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rise-ahead-of-central-bank-debt-purchase-policy-outcome/articleshow/127909186.cms
+
+- Carlsberg shares rise on profit beats forecasts; co mulls Indian IPO
+  Carlsberg reported a 5% rise in full-year operating profit, exceeding forecasts. The brewer also projected 2-6% profit growth for the current year.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-shares-rise-on-profit-beats-forecasts-co-mulls-indian-ipo/articleshow/127909437.cms
+
+- Carlsberg shares rise as profit beats forecasts; co mulls Indian IPO
+  Carlsberg reported a 5% rise in full-year operating profit, exceeding forecasts. The brewer also projected 2-6% profit growth for the current year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/carlsberg-shares-rise-on-profit-beats-forecasts-co-mulls-indian-ipo/articleshow/127909284.cms
+
+- 'Idle money in bank accounts doesn't compound': Mukesh Ambani on why Indians should invest in stock market
+  Mukesh Ambani urged Indian households to shift savings from physical assets like gold to capital markets for productive wealth creation. He emphasized simplifying investment access, drawing a parallel to Jio's impact,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/idle-money-in-bank-accounts-doesnt-compound-mukesh-ambani-on-why-indians-should-invest-in-stock-market/articleshow/127908704.cms
+
+- Hope and uncertainty as India and US strike long-delayed trade deal - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRHZ3eDU2UERBbkZfcHFSSFdicTdPTFdCM2pMQjJORmV6TGFhT3poR2hzamVwN1V1QlF4UDIwMTFDT0gwZUJwb2EyX05Kd1VINnhEdU9fVDIyZw?oc=5" target="_blan
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRHZ3eDU2UERBbkZfcHFSSFdicTdPTFdCM2pMQjJORmV6TGFhT3poR2hzamVwN1V1QlF4UDIwMTFDT0gwZUJwb2EyX05Kd1VINnhEdU9fVDIyZw?oc=5
 
 - 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
   2 British Tourists Get 'Leave India'
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
 
-- India-US Trade Deal News Live Updates: India's industrial goods tariffs will go to 0% from 13.5%: US on trade deal - Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbF
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
-
-- Nissan Gravite MPV To Debut In India On February 17 - NDTV
-  Nissan Gravite MPV To De
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVklZbjlPXzFmSHVlb0FvZmZ3Tk1nWjcxS2tZOWZkeXloOEtfY29YQzFNVjVyRkRKNVhIbC1xX1RpaV9SQ1R1SnZCbEZjako0WWRCWVJIQW90OGk1MDZ4d1d2cno0bXZhSVBKRHYxQjhXWS1CalBYc0ZhbWd4SEpOekRqWERfenVCS3dYWm1CMNIBlwFBVV95cUxPd25VWjlaUWFXV2tHSFhzY1ZpeUhuT0NkcTJaX21rcUJNWkExUDJEZm44WnlxUnROVHotTHBmM29ka0VTNW41THNmZ3hyWDNjdXJuMEVqYzBEbzhwZTVCUEFBV3JESVh3Z2hVbFd2Z2VDZG5Deno3VWswR2w1dW5vS3RSeFcyVVd2THBCRHdkU1ZKS0Q2WVg4?oc=5
+- Why seasonal tourism creates India’s toughest waste management challenge - Times of India
+  Why seasonal tourism creates India’s toughest
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNWpOMXlmUnRxWGx4bHdYU01BX21rR1BjWXVDMHJiTmFuQjFYMnNqWmY0LVF0NXZRZFgyZk9UVUxNOVNuUTJmVjFnLWRtZEh3VVBKaHZ0allOMGtCRVluZFZnelN3blZ0MnVMN0IzYjJwR2VGdWc1S0Z0eVNySjdCY3VaUjdwRkdhZVNOeWlhc2VWQV9PZ3l1bV9rUmdMdGVzQVlpb2gzcXFuN29CUWN0QVo5WF94Y2xoSi1lSmRBdFV2aEJWd2ZQTWpiZVRpRXM0b1NuWnB30gHbAUFVX3lxTE44Smxldm02LTVGTnY2QnNqX1lKRWpHZVRWSkpJQWdCREZSeS11MEJLaFZyMUV6T3o3QjQ4cE5pY2FwRkZMU2JwTmNDZHlOanRLdEJsOGVTbmIzSVI2VkYtdmd3RXdhbkNpLVR6dEQ1MUdIYUR5NmRVUkRDVXRONFJfYnVzVFpoNm5jbV96UWNSaktKQTlUOEIwd1NycEplNXlxQmVudE1LVlNiaW1VdDVUM3R3SFlxcl9tZlhNSDhxRUFlYUNja1hGQTA4bXo0bU1pRVlUM0tHNGxWaw?oc=5
 
 - Today News Headlines for School Assembly, February 4, 2026: India ‘commits’ to $100 bn/year US imports for 5 years - The Indian Express
   The Indian Express reports that India has agreed to pay $100 bn/year US imports
@@ -160,17 +160,17 @@
   School assembly news headlines, February 4: Top India,
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRi00a2hLV0xtYXFsZHVkZzYzNUgtSWh0Nlc0YnM4TmJ2d210TXd6MUlzN1FYZzMyckRiUEtSQlM0c1ZneFpMWXFGT2ZOem9yZXhVOXlsbWpfRy1nbjZzUURmd3ZXUkNKMUdCMUJ0QTZfdU9OYm5hSWU5cGFSMGxKUjhOUEF1d3NPdThBcHNrV2VJQ3l0bm93V0dldXRWLVlReVZQSzZmQXJNTGpsWnMtNzA4SXdDeG5SWUVYMUQzWkRwcHFaTWh1Vi1TRjgzZzRwQjhOT3FyaWN6eU9mMEVnOHJoUjDSAeoBQVVfeXFMUGtrSFo1VHV5ZHF2RXRCTEprU0NWNnhDRk5LNGh5Y2NVR1k5dWQwV1hORWlQVTRYdUc2OGw1V1RBT3VhQ2NsM19qZ0FJejZwa3hKUFRwY0xRS3R0QmV5d1JKMlQycmk5Y3B1X1NvUnVvV2dxaEp0clZlakhOaDF4czhHaGQyRGNhZU8zN0R2a0NTMFNfVVc2eFVtNGZjZkR2cFE0cE1Pam8zVzYxNjlsU21Gd01OVTRxZzVjTGRYb2tFQUpKejVRc3NueGhUZ2lMd0pROWNSYlNXWmF5SzFkUkJyc2piYmJENXFR?oc=5
 
+- Hope and uncertainty as India and US strike long-delayed trade deal - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRHZ3eDU2UERBbkZfcHFSSFdicTdPTFdCM2pMQjJORmV6TGFhT3poR2hzamVwN1V1QlF4UDIwMTFDT0gwZUJwb2EyX05Kd1VINnhEdU9fVDIyZw?oc=5" target="_blan
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRHZ3eDU2UERBbkZfcHFSSFdicTdPTFdCM2pMQjJORmV6TGFhT3poR2hzamVwN1V1QlF4UDIwMTFDT0gwZUJwb2EyX05Kd1VINnhEdU9fVDIyZw?oc=5
+
 - 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
   2 British Tourists Get 'Leave India'
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
 
-- India-US Trade Deal News Live Updates: India's industrial goods tariffs will go to 0% from 13.5%: US on trade deal - Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbF
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
-
-- Nissan Gravite MPV To Debut In India On February 17 - NDTV
-  Nissan Gravite MPV To De
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVklZbjlPXzFmSHVlb0FvZmZ3Tk1nWjcxS2tZOWZkeXloOEtfY29YQzFNVjVyRkRKNVhIbC1xX1RpaV9SQ1R1SnZCbEZjako0WWRCWVJIQW90OGk1MDZ4d1d2cno0bXZhSVBKRHYxQjhXWS1CalBYc0ZhbWd4SEpOekRqWERfenVCS3dYWm1CMNIBlwFBVV95cUxPd25VWjlaUWFXV2tHSFhzY1ZpeUhuT0NkcTJaX21rcUJNWkExUDJEZm44WnlxUnROVHotTHBmM29ka0VTNW41THNmZ3hyWDNjdXJuMEVqYzBEbzhwZTVCUEFBV3JESVh3Z2hVbFd2Z2VDZG5Deno3VWswR2w1dW5vS3RSeFcyVVd2THBCRHdkU1ZKS0Q2WVg4?oc=5
+- Why seasonal tourism creates India’s toughest waste management challenge - Times of India
+  Why seasonal tourism creates India’s toughest
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNWpOMXlmUnRxWGx4bHdYU01BX21rR1BjWXVDMHJiTmFuQjFYMnNqWmY0LVF0NXZRZFgyZk9UVUxNOVNuUTJmVjFnLWRtZEh3VVBKaHZ0allOMGtCRVluZFZnelN3blZ0MnVMN0IzYjJwR2VGdWc1S0Z0eVNySjdCY3VaUjdwRkdhZVNOeWlhc2VWQV9PZ3l1bV9rUmdMdGVzQVlpb2gzcXFuN29CUWN0QVo5WF94Y2xoSi1lSmRBdFV2aEJWd2ZQTWpiZVRpRXM0b1NuWnB30gHbAUFVX3lxTE44Smxldm02LTVGTnY2QnNqX1lKRWpHZVRWSkpJQWdCREZSeS11MEJLaFZyMUV6T3o3QjQ4cE5pY2FwRkZMU2JwTmNDZHlOanRLdEJsOGVTbmIzSVI2VkYtdmd3RXdhbkNpLVR6dEQ1MUdIYUR5NmRVUkRDVXRONFJfYnVzVFpoNm5jbV96UWNSaktKQTlUOEIwd1NycEplNXlxQmVudE1LVlNiaW1VdDVUM3R3SFlxcl9tZlhNSDhxRUFlYUNja1hGQTA4bXo0bU1pRVlUM0tHNGxWaw?oc=5
 
 - Today News Headlines for School Assembly, February 4, 2026: India ‘commits’ to $100 bn/year US imports for 5 years - The Indian Express
   The Indian Express reports that India has agreed to pay $100 bn/year US imports
@@ -180,17 +180,17 @@
   School assembly news headlines, February 4: Top India,
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRi00a2hLV0xtYXFsZHVkZzYzNUgtSWh0Nlc0YnM4TmJ2d210TXd6MUlzN1FYZzMyckRiUEtSQlM0c1ZneFpMWXFGT2ZOem9yZXhVOXlsbWpfRy1nbjZzUURmd3ZXUkNKMUdCMUJ0QTZfdU9OYm5hSWU5cGFSMGxKUjhOUEF1d3NPdThBcHNrV2VJQ3l0bm93V0dldXRWLVlReVZQSzZmQXJNTGpsWnMtNzA4SXdDeG5SWUVYMUQzWkRwcHFaTWh1Vi1TRjgzZzRwQjhOT3FyaWN6eU9mMEVnOHJoUjDSAeoBQVVfeXFMUGtrSFo1VHV5ZHF2RXRCTEprU0NWNnhDRk5LNGh5Y2NVR1k5dWQwV1hORWlQVTRYdUc2OGw1V1RBT3VhQ2NsM19qZ0FJejZwa3hKUFRwY0xRS3R0QmV5d1JKMlQycmk5Y3B1X1NvUnVvV2dxaEp0clZlakhOaDF4czhHaGQyRGNhZU8zN0R2a0NTMFNfVVc2eFVtNGZjZkR2cFE0cE1Pam8zVzYxNjlsU21Gd01OVTRxZzVjTGRYb2tFQUpKejVRc3NueGhUZ2lMd0pROWNSYlNXWmF5SzFkUkJyc2piYmJENXFR?oc=5
 
+- Hope and uncertainty as India and US strike long-delayed trade deal - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRHZ3eDU2UERBbkZfcHFSSFdicTdPTFdCM2pMQjJORmV6TGFhT3poR2hzamVwN1V1QlF4UDIwMTFDT0gwZUJwb2EyX05Kd1VINnhEdU9fVDIyZw?oc=5" target="_blan
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRHZ3eDU2UERBbkZfcHFSSFdicTdPTFdCM2pMQjJORmV6TGFhT3poR2hzamVwN1V1QlF4UDIwMTFDT0gwZUJwb2EyX05Kd1VINnhEdU9fVDIyZw?oc=5
+
 - 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
   2 British Tourists Get 'Leave India'
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
 
-- India-US Trade Deal News Live Updates: India's industrial goods tariffs will go to 0% from 13.5%: US on trade deal - Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbF
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
-
-- Nissan Gravite MPV To Debut In India On February 17 - NDTV
-  Nissan Gravite MPV To De
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVklZbjlPXzFmSHVlb0FvZmZ3Tk1nWjcxS2tZOWZkeXloOEtfY29YQzFNVjVyRkRKNVhIbC1xX1RpaV9SQ1R1SnZCbEZjako0WWRCWVJIQW90OGk1MDZ4d1d2cno0bXZhSVBKRHYxQjhXWS1CalBYc0ZhbWd4SEpOekRqWERfenVCS3dYWm1CMNIBlwFBVV95cUxPd25VWjlaUWFXV2tHSFhzY1ZpeUhuT0NkcTJaX21rcUJNWkExUDJEZm44WnlxUnROVHotTHBmM29ka0VTNW41THNmZ3hyWDNjdXJuMEVqYzBEbzhwZTVCUEFBV3JESVh3Z2hVbFd2Z2VDZG5Deno3VWswR2w1dW5vS3RSeFcyVVd2THBCRHdkU1ZKS0Q2WVg4?oc=5
+- Why seasonal tourism creates India’s toughest waste management challenge - Times of India
+  Why seasonal tourism creates India’s toughest
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNWpOMXlmUnRxWGx4bHdYU01BX21rR1BjWXVDMHJiTmFuQjFYMnNqWmY0LVF0NXZRZFgyZk9UVUxNOVNuUTJmVjFnLWRtZEh3VVBKaHZ0allOMGtCRVluZFZnelN3blZ0MnVMN0IzYjJwR2VGdWc1S0Z0eVNySjdCY3VaUjdwRkdhZVNOeWlhc2VWQV9PZ3l1bV9rUmdMdGVzQVlpb2gzcXFuN29CUWN0QVo5WF94Y2xoSi1lSmRBdFV2aEJWd2ZQTWpiZVRpRXM0b1NuWnB30gHbAUFVX3lxTE44Smxldm02LTVGTnY2QnNqX1lKRWpHZVRWSkpJQWdCREZSeS11MEJLaFZyMUV6T3o3QjQ4cE5pY2FwRkZMU2JwTmNDZHlOanRLdEJsOGVTbmIzSVI2VkYtdmd3RXdhbkNpLVR6dEQ1MUdIYUR5NmRVUkRDVXRONFJfYnVzVFpoNm5jbV96UWNSaktKQTlUOEIwd1NycEplNXlxQmVudE1LVlNiaW1VdDVUM3R3SFlxcl9tZlhNSDhxRUFlYUNja1hGQTA4bXo0bU1pRVlUM0tHNGxWaw?oc=5
 
 - Today News Headlines for School Assembly, February 4, 2026: India ‘commits’ to $100 bn/year US imports for 5 years - The Indian Express
   The Indian Express reports that India has agreed to pay $100 bn/year US imports
@@ -200,17 +200,17 @@
   School assembly news headlines, February 4: Top India,
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRi00a2hLV0xtYXFsZHVkZzYzNUgtSWh0Nlc0YnM4TmJ2d210TXd6MUlzN1FYZzMyckRiUEtSQlM0c1ZneFpMWXFGT2ZOem9yZXhVOXlsbWpfRy1nbjZzUURmd3ZXUkNKMUdCMUJ0QTZfdU9OYm5hSWU5cGFSMGxKUjhOUEF1d3NPdThBcHNrV2VJQ3l0bm93V0dldXRWLVlReVZQSzZmQXJNTGpsWnMtNzA4SXdDeG5SWUVYMUQzWkRwcHFaTWh1Vi1TRjgzZzRwQjhOT3FyaWN6eU9mMEVnOHJoUjDSAeoBQVVfeXFMUGtrSFo1VHV5ZHF2RXRCTEprU0NWNnhDRk5LNGh5Y2NVR1k5dWQwV1hORWlQVTRYdUc2OGw1V1RBT3VhQ2NsM19qZ0FJejZwa3hKUFRwY0xRS3R0QmV5d1JKMlQycmk5Y3B1X1NvUnVvV2dxaEp0clZlakhOaDF4czhHaGQyRGNhZU8zN0R2a0NTMFNfVVc2eFVtNGZjZkR2cFE0cE1Pam8zVzYxNjlsU21Gd01OVTRxZzVjTGRYb2tFQUpKejVRc3NueGhUZ2lMd0pROWNSYlNXWmF5SzFkUkJyc2piYmJENXFR?oc=5
 
+- Hope and uncertainty as India and US strike long-delayed trade deal - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRHZ3eDU2UERBbkZfcHFSSFdicTdPTFdCM2pMQjJORmV6TGFhT3poR2hzamVwN1V1QlF4UDIwMTFDT0gwZUJwb2EyX05Kd1VINnhEdU9fVDIyZw?oc=5" target="_blan
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRHZ3eDU2UERBbkZfcHFSSFdicTdPTFdCM2pMQjJORmV6TGFhT3poR2hzamVwN1V1QlF4UDIwMTFDT0gwZUJwb2EyX05Kd1VINnhEdU9fVDIyZw?oc=5
+
 - 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
   2 British Tourists Get 'Leave India'
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
 
-- India-US Trade Deal News Live Updates: India's industrial goods tariffs will go to 0% from 13.5%: US on trade deal - Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbF
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
-
-- Nissan Gravite MPV To Debut In India On February 17 - NDTV
-  Nissan Gravite MPV To De
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVklZbjlPXzFmSHVlb0FvZmZ3Tk1nWjcxS2tZOWZkeXloOEtfY29YQzFNVjVyRkRKNVhIbC1xX1RpaV9SQ1R1SnZCbEZjako0WWRCWVJIQW90OGk1MDZ4d1d2cno0bXZhSVBKRHYxQjhXWS1CalBYc0ZhbWd4SEpOekRqWERfenVCS3dYWm1CMNIBlwFBVV95cUxPd25VWjlaUWFXV2tHSFhzY1ZpeUhuT0NkcTJaX21rcUJNWkExUDJEZm44WnlxUnROVHotTHBmM29ka0VTNW41THNmZ3hyWDNjdXJuMEVqYzBEbzhwZTVCUEFBV3JESVh3Z2hVbFd2Z2VDZG5Deno3VWswR2w1dW5vS3RSeFcyVVd2THBCRHdkU1ZKS0Q2WVg4?oc=5
+- Why seasonal tourism creates India’s toughest waste management challenge - Times of India
+  Why seasonal tourism creates India’s toughest
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNWpOMXlmUnRxWGx4bHdYU01BX21rR1BjWXVDMHJiTmFuQjFYMnNqWmY0LVF0NXZRZFgyZk9UVUxNOVNuUTJmVjFnLWRtZEh3VVBKaHZ0allOMGtCRVluZFZnelN3blZ0MnVMN0IzYjJwR2VGdWc1S0Z0eVNySjdCY3VaUjdwRkdhZVNOeWlhc2VWQV9PZ3l1bV9rUmdMdGVzQVlpb2gzcXFuN29CUWN0QVo5WF94Y2xoSi1lSmRBdFV2aEJWd2ZQTWpiZVRpRXM0b1NuWnB30gHbAUFVX3lxTE44Smxldm02LTVGTnY2QnNqX1lKRWpHZVRWSkpJQWdCREZSeS11MEJLaFZyMUV6T3o3QjQ4cE5pY2FwRkZMU2JwTmNDZHlOanRLdEJsOGVTbmIzSVI2VkYtdmd3RXdhbkNpLVR6dEQ1MUdIYUR5NmRVUkRDVXRONFJfYnVzVFpoNm5jbV96UWNSaktKQTlUOEIwd1NycEplNXlxQmVudE1LVlNiaW1VdDVUM3R3SFlxcl9tZlhNSDhxRUFlYUNja1hGQTA4bXo0bU1pRVlUM0tHNGxWaw?oc=5
 
 - Today News Headlines for School Assembly, February 4, 2026: India ‘commits’ to $100 bn/year US imports for 5 years - The Indian Express
   The Indian Express reports that India has agreed to pay $100 bn/year US imports
@@ -220,33 +220,45 @@
   School assembly news headlines, February 4: Top India,
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRi00a2hLV0xtYXFsZHVkZzYzNUgtSWh0Nlc0YnM4TmJ2d210TXd6MUlzN1FYZzMyckRiUEtSQlM0c1ZneFpMWXFGT2ZOem9yZXhVOXlsbWpfRy1nbjZzUURmd3ZXUkNKMUdCMUJ0QTZfdU9OYm5hSWU5cGFSMGxKUjhOUEF1d3NPdThBcHNrV2VJQ3l0bm93V0dldXRWLVlReVZQSzZmQXJNTGpsWnMtNzA4SXdDeG5SWUVYMUQzWkRwcHFaTWh1Vi1TRjgzZzRwQjhOT3FyaWN6eU9mMEVnOHJoUjDSAeoBQVVfeXFMUGtrSFo1VHV5ZHF2RXRCTEprU0NWNnhDRk5LNGh5Y2NVR1k5dWQwV1hORWlQVTRYdUc2OGw1V1RBT3VhQ2NsM19qZ0FJejZwa3hKUFRwY0xRS3R0QmV5d1JKMlQycmk5Y3B1X1NvUnVvV2dxaEp0clZlakhOaDF4czhHaGQyRGNhZU8zN0R2a0NTMFNfVVc2eFVtNGZjZkR2cFE0cE1Pam8zVzYxNjlsU21Gd01OVTRxZzVjTGRYb2tFQUpKejVRc3NueGhUZ2lMd0pROWNSYlNXWmF5SzFkUkJyc2piYmJENXFR?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Hope and uncertainty as India and US strike long-delayed trade deal - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRHZ3eDU2UERBbkZfcHFSSFdicTdPTFdCM2pMQjJORmV6TGFhT3poR2hzamVwN1V1QlF4UDIwMTFDT0gwZUJwb2EyX05Kd1VINnhEdU9fVDIyZw?oc=5" target="_blan
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRHZ3eDU2UERBbkZfcHFSSFdicTdPTFdCM2pMQjJORmV6TGFhT3poR2hzamVwN1V1QlF4UDIwMTFDT0gwZUJwb2EyX05Kd1VINnhEdU9fVDIyZw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
+  2 British Tourists Get 'Leave India'
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Why seasonal tourism creates India’s toughest waste management challenge - Times of India
+  Why seasonal tourism creates India’s toughest
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNWpOMXlmUnRxWGx4bHdYU01BX21rR1BjWXVDMHJiTmFuQjFYMnNqWmY0LVF0NXZRZFgyZk9UVUxNOVNuUTJmVjFnLWRtZEh3VVBKaHZ0allOMGtCRVluZFZnelN3blZ0MnVMN0IzYjJwR2VGdWc1S0Z0eVNySjdCY3VaUjdwRkdhZVNOeWlhc2VWQV9PZ3l1bV9rUmdMdGVzQVlpb2gzcXFuN29CUWN0QVo5WF94Y2xoSi1lSmRBdFV2aEJWd2ZQTWpiZVRpRXM0b1NuWnB30gHbAUFVX3lxTE44Smxldm02LTVGTnY2QnNqX1lKRWpHZVRWSkpJQWdCREZSeS11MEJLaFZyMUV6T3o3QjQ4cE5pY2FwRkZMU2JwTmNDZHlOanRLdEJsOGVTbmIzSVI2VkYtdmd3RXdhbkNpLVR6dEQ1MUdIYUR5NmRVUkRDVXRONFJfYnVzVFpoNm5jbV96UWNSaktKQTlUOEIwd1NycEplNXlxQmVudE1LVlNiaW1VdDVUM3R3SFlxcl9tZlhNSDhxRUFlYUNja1hGQTA4bXo0bU1pRVlUM0tHNGxWaw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Today News Headlines for School Assembly, February 4, 2026: India ‘commits’ to $100 bn/year US imports for 5 years - The Indian Express
+  The Indian Express reports that India has agreed to pay $100 bn/year US imports
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQeU5qVnR2RnZlT3BHZnFaZ0lBYWQ0dEsyd1UzQ3ZHQ2hSWWt2RUI3QkdranRkckVORDdRRGhvQk13aUYxanFKYVV3UVBxSjllV2ZiVnJpVTA2OFZTdlFWSGRGSG5IT2kxblhlX0hQSG9wNzRkTHBZLUlxVWhEQWRnN29DNHlFWHVXRWhYeGR1RktBaUlUaExFOVNuak9RQmdtSnZOYVJJRGEwWERmQVVEZnpOa3ZvWFR1cE0zWExuVEh0bXc5SUJ3M0hjRExRbHNaQWk2bnRad1g1TUo1ejlDMFFTcGhDQlV2Qy1CV2tUUXdLZmFpRVhWcWx5djRiTHF5dHAzSTdlRHJ5LWJ4ZW1tVDlWcmRPVHhhb2tB0gGiAkFVX3lxTE1uTlBTUDF3aVg0Y20xT1d5MTU2enc4aGFFdHRLem41M3oxeE5yaWQ4b2xCOFBJZ2dCUGxPdXZHWk4zTTFkOVFSQkZ1c1dBQTA2aGMtRTF5MGZBUXgxTFJnMDdoX09zWEhhM3JNWHBzTGpZM2w5b1Z0Ml8xbUZ2YUtuTGlsQmpmSTFUenlGSTB1Uk42a0dKaHc1enZmRDZHM0lZLVY3NjZfd085Tlgtc2tudHR2MWpGQXExVnJVT0FFVTZQdG1NV0dLOElfdXdiM0puMHNlMTJjRXRaN3Z0YkhEWng4NVliVDdQZVl6NW9xV0xkSEtTV0FGNFExV2llT2Z6Z19uTjZGVFVnV2d0U05jNGcwTEIxSUp2UFBZVndHUHdR?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- School assembly news headlines, February 4: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 4: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRi00a2hLV0xtYXFsZHVkZzYzNUgtSWh0Nlc0YnM4TmJ2d210TXd6MUlzN1FYZzMyckRiUEtSQlM0c1ZneFpMWXFGT2ZOem9yZXhVOXlsbWpfRy1nbjZzUURmd3ZXUkNKMUdCMUJ0QTZfdU9OYm5hSWU5cGFSMGxKUjhOUEF1d3NPdThBcHNrV2VJQ3l0bm93V0dldXRWLVlReVZQSzZmQXJNTGpsWnMtNzA4SXdDeG5SWUVYMUQzWkRwcHFaTWh1Vi1TRjgzZzRwQjhOT3FyaWN6eU9mMEVnOHJoUjDSAeoBQVVfeXFMUGtrSFo1VHV5ZHF2RXRCTEprU0NWNnhDRk5LNGh5Y2NVR1k5dWQwV1hORWlQVTRYdUc2OGw1V1RBT3VhQ2NsM19qZ0FJejZwa3hKUFRwY0xRS3R0QmV5d1JKMlQycmk5Y3B1X1NvUnVvV2dxaEp0clZlakhOaDF4czhHaGQyRGNhZU8zN0R2a0NTMFNfVVc2eFVtNGZjZkR2cFE0cE1Pam8zVzYxNjlsU21Gd01OVTRxZzVjTGRYb2tFQUpKejVRc3NueGhUZ2lMd0pROWNSYlNXWmF5SzFkUkJyc2piYmJENXFR?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- DRDO demonstrates SFDR technology, India joins elite missile capability club - The Hindu
+  The Hindu reports that India is close to developing
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNVGhmS1NfTjNwSnRMaFhlNzZEcWQzN0JPMmhHMHdIU18xVlFpaXplNFFqcUUxRHpjaWdaMTd1NS1MX3NTb2pfYlRLMDVHSFZUSXJGdFpJRUI0dHhoT3J3UEdsUXdXbC1Nc3NUVXEyWHBYTGRMSDZMeG1sZzU3ZlhsMzRVNW1IbGx5aUhZNnZ6RWZwazdfUktwX1VHSEdYRXBRbHdqNFlVQ0VjMFVjOFBXbHFzejNaYUtGVFBTWVB2cGhLRjI5Z2NsRXF2NHhTR3fSAdYBQVVfeXFMTXNYX1ZuVjRvbkQyMEtRN2ZSN3JCZTVyRi02Yk1STHJMMWRBVVhIQlVkTG9vUzYtS3FrbkI4RkowT29sRXlFeXhBUG9tcW9FaTlKdDcwY1lKRW5YTldtemV2UFVSUFllRTZWNXRUQWs2QXE4MHBlSDNqS056Rm1yZmdUUmtCNmhENW8xRmp4cFNCdGFuVjd2eDh4blF0MThKTWRfTkJLNjV2X0ZHREJ6eUluNElmUHdtV3h2VWt6T2RBdHJNZFRpb2gyeXdLWld4cmZxeVFRUQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- DRDO successfully demonstrates solid fuel ducted ramjet technology, boosting India’s long-range missile c - Times of India
+  DRDO successfully demonstrates solid fuel ducted ramjet technology, boosting
+  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxONFhkTjVBQmdiMXRaanI1aTVPQ1ZxU0EwZ09VWjgtZFA2b25CNTd2NDFwMC1DOU9KaXlzN0JVdDFObUh3Mm9GVnQ3YnBtV25qbUgxU0ZJM3JHUy0tb2tsX2oxODNVMW5tazB3WXV5N3IzS1hKZFdXZEozSlRVSXZubUJXc0JwYXRfLUZVNk9kQ2RqeHpEY0pUamh3ZGVtcVlCcmRPS2ZkWktucHdyS1VoTUh5QkFidnhVWUlDdlBfaFBqVExES2Fib1ZNeDA3WlBhYWU4X2NoZEJYN1BPRjZTQ1FxZS04Rl9yUDZPcEhQYkI5TGdndlBNYmhmYzlGaGw0WFN0aVBsSkRjWlZLZUpnQW5UelRkSTJKVERnVklEYU0yc2dXQlp0Vkp2OEQ1cndzSGfSAbcCQVVfeXFMT2RJZ3UtNl9OdXBVSlpRTFJ2NTViLVI1V3FZal9rMW1RS0FTazlSeFJLNzFjSzZNMWxwN2FfeU9OR1d2OVE5LXRRODZfb1ltMlZuNVIyVmlocENmS29KaDBlZlpHM0JJNDJzX0xxZmJ3QVlBb2lodVlkUklIV3NsVVBqRHYzTnlpcFZHVmNEOEg3UE5QR2pPaGFJUVIyVGVZeHMzeUFfN3g3N1pxZlFUTWI5RFd3cGJISzBxMmtHUm5BQjBCeW5HaUR0NjhZX25vazBaczZUbDk4RXBnNHRlc2IwZ0Zkb2lBRnV0bDF3X2NzRUdGUVVoLXgxRUltLVNDWTJYeXk3V1RONTNRUUsxN0RXSnRuc2c5dzFfMlVjWlZvdzlxQ2lENTNRYjc0MFZSemZQeHFqc1E?oc=5
+
+- DRDO tests Ramjet technology: What is it and why is it critical for Indian fighter jets? - India Today
+  DRDO tests Ramjet technology: What is it and why is it critical
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFNKRFkxM0xRTjhTOEtKeWlOOWs4N21sd3RUelQzZ3hOSWVFRTV4dDZUb3pmX09SdjFfWkcwN0UxR2x3VnZjeEJ5ZnVkYnpldmdhak9qMGxVQnA0WnR6TW8ySXROZVlmZ1BraExMNzJ5NUpTR1lMbjEwUl9FTlhCaU9ULTRtMm93RUJzM0dsZ0dMZkF6WFhLMWltSVhpTnlMbDJ4M0xiWndOd1liWloxOW9KSi02NUNrcGNhNG9tQllhamdVc0huUzk0cFppV0hOaW9aU1hBd3hNQWvSAeABQVVfeXFMUGRLbWVJUllGTXkxb0lNY3VDVUhoYlF0OU0xck9VYTVGdkhqTzUwQzQ3YXdIenA2NlFpNU9ZbGltMVJxNDBjblRDRlZ2bll0QTA0S2otbC12YzdLcGpKbGo1aldMeW1PVmZKM1ZkWFZFb0NjeG15NHFVcC1keHlMbTZIQ2hKaFVoRHp0c1hndG1nbkRIS0VDYUVldGVFb2RLY3Zsek1qcmlrbXlmbjdTTFVtYjA3NG8yRF9xQVMxX0Fneld6b21jRmJfeE5Nek1iUVgxVWJUMXNPRlhGbmRvelA?oc=5
+
+- Ford and Geely in talks for manufacturing, technology partnership, sources say - The Economic Times
+  Ford and Geely in talks for manufacturing, technology partnership
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ3gyMGtzYjl4clNsNkM0UlM3dWxzejVIcUFWXzZBTEdnTV9URzVSYmR3dklRV3hHd1hvcjhyNVRCUWY1TGpFcXpfVHFiZ3pJdWhsNlQyaEdKdlNxTi1Ua1N0ZWs4LWxzdFNkaThqWDRjajF5U1N5RWZMZkVab0NyYjh3a1ZsT0NLUWtaTlQyVE9lT1RBdTlhNGljSW42TXh3aG9GZHhnNVBkOHF3VlBUNE9OMnJvdEdPVlpNU3ZuR0lwbHRJWnF6VnRiOEhQdG5zMkZSQU96YUd4clV2VGtN0gHkAUFVX3lxTFBTTWh3b0UtemZGT041TUE5TkxlaG1Oa3VLdWJzSG56aDhqOVBoOG8yQ1pGR3RFYTREYzZQS0wzRnBKek5Ud19mYm9qMHZVZ0dEeUQ2REg1NWdRd1BkMW9yX1FDLThfQ0pZSmFSX1lYLUFSOFBEV2t6elljS3gwcldrazQ1QVNKaVJBNl9LeGctcUQ5aDVUVWhHR2pSZlI2TFVGTDZMOUhUQTlLSGdCYUN3VHlIQXYyaHFheVR0czNob2t0YXBJajFtRXd2b1A0WFI5bkt0TFVUT0JnVnlWV2cxdEFkTw?oc=5
+
+- Govt today is not just a consumer of technology, but a co-creator: Dr Manjula N, Govt of Karnataka - Express Computer
+  Govt today is not just a consumer of technology, but a co-creator:
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYjJ3YnFyT3lpSFRoZ1lJcDIxVW9xbHotdmVwLVBaMy14c1ltSFc3Yy1qUmJlTTc1ZC01ZTJhSEZjUTc5a2hDWXgtZUpOZTBXUllfVVNPdXFFLS16czBnZEc4TjhKVTVpbTB3TlRjZHppMVZ6Zl9qa2NGTWo4ZVh5RWxRR0RSNjNfLVBpaloyWkx1MjF0Zm1sdEFwUzRZNW05U1pBdUZQeGZXSmRmbnlVN20wbHJEMkxtc3E0cUFqUjFuWkM0NWlmTXBrdEJWYTV2RWNMQm5DRTJHRl8xUGfSAeMBQVVfeXFMUFUyRmZndFVNNjYtNW9jOFBlRGNyX1MwdkFKcmpITzZTOHNDVjNhaVhpdEQzYXc3YVIzQWFxM3J6amN6dGRPRENpbldNemtXV1ZBakNET1d0d09hMTJ2Z1RidmRuNDluam4xV1k3T0RDejNfZU5nRWI5b3d0dlcxdkVJa0ZPUktxaVhSX1QzOXlJT2k3cE4xSzVFYkhNdDFZc3kzeTB2bFl6SGEtM0RRWktLSFZOOWRLcVpxOUszY21hUk5FbjRUQ210R2tvTmttVEZQVk1UdWJSVzZvbVV4WTJ2Wnc?oc=5
 
 
-_Last updated: 2026-02-04 06:48:33 UTC_
+_Last updated: 2026-02-04 12:53:05 UTC_
