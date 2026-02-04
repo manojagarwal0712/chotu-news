@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Uttarakhand police step up security in ‘Mohammad Deepak’s’ town as row pits BJP against Congress
+- India, UK sign MoU for real-time exchange of criminal records, intelligence
   
-  🔗 https://indianexpress.com/article/india/uttarakhand-kotdwar-communal-tension-deepak-kumar-security-police-deployment-politics-10512171/
+  🔗 https://indianexpress.com/article/india/india-uk-sign-mou-real-time-exchange-criminal-records-intelligence-10512631/
 
-- Arunachal sits on plantation proposal for Subansiri hydel project
+- Express Exclusive: Fugitive gangster Sachin Golu flees India after mistaken-identity killing in Delhi: ‘Spotted in Dubai’
   
-  🔗 https://indianexpress.com/article/india/arunachal-sits-on-plantation-proposal-for-subansiri-hydel-project-10512253/
+  🔗 https://indianexpress.com/article/india/delhi/gangster-sachin-golu-flees-india-mistaken-identity-killing-delhi-dubai-10512569/
 
-- Prachi Mishra, Professor of Economics at Ashoka University, is guest at Explained.Live today
+- Gold Today Rate, February 4: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/prachi-mishra-professor-of-economics-at-ashoka-university-is-guest-at-explained-live-today-10512294/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-february-4-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10512554/
 
-- Want CEC to be impeached: Mamata says will discuss it with Opp parties
+- ‘Work together to unlock new economic opportunities’: Jaishankar meets US Secretary of State Rubio and Treasury Secy Bessent ahead of critical minerals meet
   
-  🔗 https://indianexpress.com/article/india/want-cec-to-be-impeached-mamata-says-will-discuss-it-with-opp-parties-10512250/
+  🔗 https://indianexpress.com/article/india/work-together-to-unlock-new-economic-opportunities-jaishankar-meets-us-secretary-of-state-rubio-and-treasury-secy-bessent-ahead-of-critical-minerals-meet-10512457/
 
-- ‘Compromised’: Rahul targets PM; Chair suspends 8 Opposition MPs for rest of session
+- ‘Vague and unscientific’: Why Goa is arguing against Supreme Court panel’s plan to notifying tiger reserve
   
-  🔗 https://indianexpress.com/article/india/compromised-rahul-targets-pm-chair-suspends-8-opposition-mps-for-rest-of-session-10512189/
+  🔗 https://indianexpress.com/article/india/goa-government-supreme-court-cec-report-tiger-reserve-mhadei-affidavit-10512173/
+
+- NASA’s Artemis II moon mission slips to March
+  
+  🔗 https://indianexpress.com/article/technology/science/nasas-artemis-ii-moon-mission-slips-to-march-10512432/
 
 - Pen, paper and brain: Why writing by hand still matters in the age of screens
   
@@ -36,49 +40,57 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/spain-ban-social-media-under-16s-10511642/
 
-- Oracle says it’s ‘highly confident’ in OpenAI funding amid Nvidia ‘rift’ reports
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/oracle-highly-confident-openai-nvidia-rift-reports-10511582/
+- M&amp;M secures deal to supply 35,000 Scorpio Pik Ups to Indonesian govt company Agrinas in 2026
+  Mahindra and Agrinas Pangan Nusantara will work together to equip Koperasi with these vehicles to ensure effective and seamless flow of fresh supplies from farmers
+  🔗 https://www.livemint.com/companies/news/m-and-m-secures-deal-to-supply-35-000-scorpio-pik-ups-to-indonesian-govt-company-agrinas-in-2026-11770185563224.html
 
-- ChrysCapital acquires minority stake in Bengaluru-based Nash Industries
-  Nash Industries aims to use ChrysCapital’s backing to transition from a domestic leader to a multi
-  🔗 https://www.livemint.com/companies/news/chryscapital-acquires-minority-stake-in-bengaluru-based-nash-industries-11770119207642.html
+- 'Things to move fast': Sam Altman hires ex- Anthropic engineer as OpenAI braces for ‘extremely powerful models’
+  OpenAI CEO Sam Altman announced the hiring of Dylan Scandinaro as Head of Preparedness. Altman emphasized the need for safeguards and expressed confidence
+  🔗 https://www.livemint.com/companies/news/things-to-move-fast-sam-altman-hires-ex-anthropic-engineer-as-openai-braces-for-extremely-powerful-models-11770182659537.html
 
-- Westbridge makes debut bet in climate tech with carbon removal firm Varaha
-  WestBridge Capital, Omnivore and RTP Global will also pump in another $25 million as part of the second tranche.
-  🔗 https://www.livemint.com/companies/news/westbridge-makes-debut-bet-in-climate-tech-with-carbon-removal-firm-varaha-11770125966145.html
+- The Whole Truth raises $51 million in series D round led by Sofina, Sauce, others
+  Clean-label protein brand The Whole Truth has raised $51 million in a Series D round led by Sofina and
+  🔗 https://www.livemint.com/companies/start-ups/the-whole-truth-fundraise-51-mn-series-d-round-sofina-sauce-11770179673261.html
 
-- Deutsche Bank Group Stuck With Software Loans in Rare Hung Deal
-  A group of banks led by Deutsche Bank AG has been unable to sell about $1.2 billion of loans backing the acquisition of a software provider.
-  🔗 https://www.livemint.com/companies/deutsche-bank-group-stuck-with-software-loans-in-rare-hung-deal-11770143978256.html
+- SpaceX-xAI merger announced: How does the mega deal affect Elon Musk's net worth?
+  The SpaceX-xAI merger comes amid Elon Musk's push to prioritise AI and space exploration. Here is how his net worth might be affected
+  🔗 https://www.livemint.com/companies/people/spacexxai-merger-announced-how-does-the-mega-deal-affect-elon-musks-net-worth-11770174445250.html
 
-- Bankers Prep €2.5 Billion Debt as ContiTech Unit Sale Kicks Off
-  Bankers are working on debt packages of around €2.5 billion ($2.9 billion) to back a potential acquisition
-  🔗 https://www.livemint.com/companies/bankers-prep-2-5-billion-debt-as-contitech-unit-sale-kicks-off-11770143669391.html
+- IndiGo loses nearly 4% market share in December after flight disruption; Air India gains
+  Mass cancellations and a cut in daily departures dragged IndiGo’s market share to a two-year low in
+  🔗 https://www.livemint.com/companies/indigo-market-share-december-flight-disruption-air-india-akasa-air-dgca-data-airlines-11770172361957.html
 
-- Disney taps parks head Josh DAmaro as CEO to lead post-Iger era
-  Disney taps parks head Josh D'Amaro as CEO to
-  🔗 https://www.livemint.com/companies/disney-taps-parks-head-josh-damaro-as-ceo-to-lead-post-iger-era-11770143550272.html
+- India-US trade deal changes RBI monetary policy outlook: BofA explains why rate cut cycle may be over now
+  Bank of America sees upside risks to India's FY27 GDP projections of 6.8% due to a trade deal that enhances export competitiveness and reduces tariff burdens. The RBI is expected
+  🔗 https://www.livemint.com/market/stock-market-news/indiaus-trade-deal-changes-rbi-monetary-policy-outlook-bofa-explains-why-rbi-mpc-rate-cut-cycle-may-be-over-now-11770184280772.html
 
-- Gold, silver rates today: Gold price reclaims $5,000-mark, silver price above $86. Will the rally sustain?
-  Spot gold rose as much as 2%, surging above the $5,000 mark per ounce. Meanwhile, spot silver also gained 4% to $86
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-price-reclaims-5-000-mark-silver-price-above-86-will-the-rally-sustain-11770165973357.html
+- US-India trade deal: Indian stock market euphoria fizzles! Why are gains likely to be capped? Explained
+  Despite recent surge, Indian stock market faces challenges. Analysts warn sustained gains will depend on earnings growth and stability.
+  🔗 https://www.livemint.com/market/stock-market-news/sensex-nifty-50-trade-range-bound-despite-india-us-trade-deal-why-indian-stock-markets-upside-is-capped-explained-11770182833564.html
 
-- Stock recommendations for 4 February from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 4 February. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-4-february-marketsmith-india-sensex-nifty-eclerx-services-s-j-s-enterprises-11770123406767.html
+- HAL share price slides 8%: Why is the PSU defence stock falling? Explained
+   HAL share price declined 8% after being excluded from developing India's next-gen fighter jets under the AMCA program. This setback raises concerns about the company's revenue
+  🔗 https://www.livemint.com/market/stock-market-news/hal-share-price-slides-8-why-is-the-psu-defence-stock-falling-explained-11770182827181.html
 
-- Promoters’ ownership of India Inc slips below 50% for the first time since 2020. What does it mean?
-  A surge in investments by mutual funds, foreign portfolio investors, and individuals has narrowed the gap between promoter and public shareholdings to just 92 basis points.
-  🔗 https://www.livemint.com/market/stock-market-news/promoter-holding-drop-indian-shareholding-data-11770121965465.html
+- Kanishk Aluminium IPO listing: Stock lists at 20% discount to offer price, extends fall to hit 5% lower circuit
+  Kanishk Aluminium share price listed at  ₹58.40 today, down 20% to its IPO price.
+  🔗 https://www.livemint.com/market/ipo/kanishk-aluminium-ipo-listing-stock-lists-at-20-discount-to-offer-price-extends-fall-to-hit-5-lower-circuit-11770184403911.html
 
-- Stocks to buy: Raja Venkatraman's recommends three stocks for 4 February
-  Market expert Raja Venkatraman shares his three top stock picks to buy today, 4 February.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-three-stock-picks-4-february-sensex-nifty-outlook-trade-set-up-11770127260466.html
+- Up over 4000% in 5 years! RDB Infrastructure and Power share price jumps over 4% after NSE listing move
+  RDB Infrastructure and Power's share price rose over 4% after the board approved a direct listing on the NSE. The company aims to enhance shareholder value and expand its presence in capital
+  🔗 https://www.livemint.com/market/stock-market-news/up-over-4000-in-5-years-multibagger-sme-stock-rdb-infra-and-power-share-price-jumps-over-4-after-nse-listing-move-11770181902964.html
 
-- Gold set for biggest daily gain since 2008, silver also rebounds
-  Gold set for biggest daily gain since 2008,
-  🔗 https://www.livemint.com/market/gold-set-for-biggest-daily-gain-since-2008-silver-also-rebounds-11770145090172.html
+- Redmi Note 15 Pro, Note 15 Pro+ goes on sale in India today: Price, launch offers and all you need to know
+  The Redmi Note 15 Pro and 15 Pro+ will go on sale from 11am today. The phones can be bought from Amazon, mi.com and authorized retail outlets
+  🔗 https://www.livemint.com/technology/gadgets/redmi-note-15-pro-note-15-pro-goes-on-sale-in-india-today-price-launch-offers-and-all-you-need-to-know-11770180323346.html
+
+- Samsung announces massive price cuts on flagships: Galaxy S25 goes below  ₹75,000, Galaxy S24 starts from  ₹42,999
+  The Galaxy Days sale by Samsung on Flipkart features discounts on various devices from February 3 to 5. Notable offers include Galaxy F series from  ₹8
+  🔗 https://www.livemint.com/technology/gadgets/samsung-announces-massive-price-cuts-on-flagships-galaxy-s25-goes-below-rs-75-000-galaxy-s24-starts-from-rs-42999-11770174990219.html
+
+- Whack-a-mole: US academic fights to purge his AI deepfakes
+  US academic fights to
+  🔗 https://www.livemint.com/technology/whackamole-us-academic-fights-to-purge-his-ai-deepfakes-11770168532546.html
 
 - Is ChatGPT down in the US? Thousands of users report outage after being unable to send messages
   OpenAI's ChatGPT experienced an outage in the United States. Over 3,200 users reported
@@ -88,77 +100,153 @@
   The Oakley Meta Vanguard features fitness tracking, hands-free 3K video capture, open-ear audio, Hindi voice support and IP67 water resistance. The
   🔗 https://www.livemint.com/technology/gadgets/oakley-meta-vanguard-smart-glasses-for-athletes-launched-in-india-price-features-and-more-11770139828838.html
 
-- New Firefox settings put AI control back in users’ hands: Here's how
-  Mozilla will add a centralised AI control hub to Firefox 148. Users can enable or disable individual features or opt out of generative AI entirely.
-  🔗 https://www.livemint.com/technology/tech-news/new-firefox-settings-put-ai-control-back-in-users-hands-heres-how-11770136055766.html
-
-- Elon Musk calls Spain PM Pedro Sánchez ‘tyrant and traitor’ over under-16 social media ban
-  Spain plans to ban social media access for children under 16 to protect them from harmful online content. The initiative aligns with similar measures in countries like Australia and France.
-  🔗 https://www.livemint.com/technology/spain-considers-social-media-ban-for-under-16s-joining-others-in-europe-11770129867578.html
-
-- X offices in Paris searched by French cybercrime, Elon Musk told to appear before authorities
-  French prosecutors raided X’s Paris offices as part of a criminal probe into alleged child abuse content, explicit deepfakes, Holocaust denial and algorithm manipulation. Elon Musk and former
-  🔗 https://www.livemint.com/technology/tech-news/x-offices-in-paris-searched-by-french-cybercrime-elon-musk-told-to-appear-before-authorities-11770118056709.html
-
 - S&P 500 tumbles nearly 1% as investors rotate out of tech, Dow slides more than 160 points: Live updates - CNBC
   S&amp;P 500 tumbles nearly 1% as investors rotate out of tech
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE82S1M0OFFxSjNTQnRWT21VRGRUbzUxemRyYXNZdGZqdnF0dTE1bTJZMHZWOWFEZnNfN0VmWEZ0TlhwS09SVGVDRVRzTGhoS3ZfdlF2SnNTVUFxcFFJa1E2QmZERnBkMkg2WTA5SGZoLTMyQ2RJTTQ00gF8QVVfeXFMTm1SS1FGeVk1YmtNNkF2TUxCYk45XzJiYzFYSnN3S1dIZ0Fud3M2OG9uVjlpZzFuVnZrc05pMG9waXJmS1NCQ3VaaHJUSnY1MTFTLTJmNDhkRzV2cXVsQVFsOGR2WjluMHd2UkJ3bTFTdGExY2xNaERIVE1ZZw?oc=5
 
-- Stocks Fall From Near-Record Levels as Oil Jumps: Markets Wrap - Bloomberg.com
-  Stocks Fall From Near-Record Levels
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEU0Um12emF6Y1pSLTJmcG02el9hdkpVOEZwMlF5VTRtc25BeFBZbTJUSVFhWHpNbUIta29ZMFl2Qm1UZTJWN0ZvM3R3REZidms5S1NCOW5nekdwcUJIWG5qcUJoc0tWc2tkWVlhaGdnanppd3lVd29YX0g0MkxzWjZWUVJySGYwd3RaNUk3bkFfQkhIRXdNUDNEdnRYaXhhcHpoSTRFcllmYUFvNXIxaFpnNG8?oc=5
+- Asian Stocks Pare Losses After US Tech-Led Selloff: Markets Wrap - Bloomberg.com
+  Asian Stocks Pare Losses After
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2VxSFlCVU54QWpwbVhiZGRqWmxWc1k3ZDcwaVBDcUV2STc2TGMxVGZrNllZdjR6UHZkV1NfNkYtMzBkdUJtTndSVzYzdDZDVkJWZmRna21wd093dTRrRmROU0gwa1drTjNnVjlETmhMZ3cwa3hjOXV6ZEo1RGhQODd2ZlZPX004S0JkLXFYSGxvSF9O?oc=5
 
-- S&P 500 futures are little changed after tech sell-off drags down major averages: Live updates - CNBC
-  S&amp;P 500 futures are little changed after tech sell
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9oU1ZUcmdBanZKQ1BTR2NMSVFUcDZiaEJFUGVDNjdkX2lXbGJsRjJEMXZMU2V1MVUwZ2Jzc0VFbTBsSWVoNzFLSEdhMEVOU1Rad2tmU0x6M0VyYkU2Qm1vLXVYNUpCd3QzU3lqTnprczNtTjdULTFR0gF8QVVfeXFMTXVpVDVfZVN2UHRUNm90X0x0eTZ0Y1VRX1JLWDhLR3M3YzYxWkhVaHgyaTZwUl9ReVpuSzZfZ0g4LXMwMVNJMFY1X1M4TEdYemFvWEhQWkxoMk9KWkdwS0ZHM2l3aHA2YVM1Vy1HczJnSk1vc2pOdDMySHd3ZA?oc=5
+- Stock Market News, Feb. 3, 2026: Fear Over New AI Tools Triggers Tech Selloff - The Wall Street Journal
+  The Wall Street Journal published a story on Feb. 3, 2026:
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNVF90eGlhdXdiV09sWllwdjRjYlhLVDFYZmR5U1pqY3BOSjJsZVItWVNmMXN2cGo3WGZWTURiZWctVTB5YnVVSGl3ZWhQbjVtTDlMS3lIcWFVYVpWV2Q5RC13MkZNN1l2dUhDakJkd3dqdzZwdC1mQXZtUW5OUTFaWHdlNVEySlE?oc=5
 
 - What You Need to Know About the AI Models Rattling Markets - The Wall Street Journal
   The Wall Street Journal published an article about the impact of AI
   🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0xKMjU2VWxJOWZ5aktvTFdpQk52UWhFd3pTUGhKc3lYaGF2MjVXaXhYZnpncVJQTFpvQUExQjZfLWJmd1pVZFNVa1pOcjRlTVNiVXFsWEx0X0hWVVZjYThiU1BCUmk5Znh2UnNsNmJwdjlMY3dtSmRNOXBRVmw3U0JqRU5oTUphR1dJbkNsbllkdko0X2FHRElnQQ?oc=5
 
-- Markets celebrates as signs of clarity emerge from U.S. - The Hindu
-  The Hindu has published an article on the
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQSF9lNk9zeHhURC1iZTEyZTFYbjdORTBPRWw1Y2tWTWhNSkRkT3NSWDZ0ZGhXTVppN3NKdHppR0FFLXZxQTB4OW02TTZwa1dueDBDNUZ1bHNzVEVHc25OUkdWWGlCQ1h4VHhfeUVpZTYwWHMtTFdnV3VhMHRlTmhrWmt1TmdMQkc5Z1NRb3dhY3oyQWM4UGxnQy1NNjBrTjY1aS1rUGJGQjVIcHdkeWJLQ3hrZUJJd9IBvAFBVV95cUxQYzhLaHJOS2FnQVBjQXZNZ3lLN2s4U09TbU40VGh3QThQWk5nOFg5MWJ1ZTI3Mko1UUNyVER0TWhtR0VUOTZFVGVTX09VNjdlbllGNGhsMEVody1nc0U2Tno1TS1oOThRRHlRRU1vRkJLTEVMRHprU1VFd2dzSGxYVlpBdWY3ZHd0UXprMm9pWTVjcXpTR2l6aDQyTEZ0STc2S09EblMxYnloTnlIWF9pSko4d0pHNFRqWC1jRg?oc=5
+- Anthropic AI Tool Sparks Selloff From Software to Broader Market - Bloomberg.com
+  Anthropic AI Tool Sparks Selloff
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkxnVXNSN1hSUUF4T3ZvSUlON0o4b0haSC0wRDZ5SHJQT2JvNWQ2MmVYY0ZaWU1kaF9BOVdycFF1dnRpY29yMFpTMW9WQndjWFk1bzRHeUJKQ2s1ZUltX01aVi10VnZSa3czMEJ5d1FTeldxT29nSVBnVVNfcFpjRmtuQmpjWVQ0VWdEb2dhNDBoNnU3RWtPZHJDa1JrcFJiSTU1RDlkWVhHN0liNVFIcFdZMA?oc=5
 
-- Gift Nifty falls over 80 pts; here's the trading setup for the day
-  Indian equities surged on Tuesday following a significant trade deal announcement with the US. Analysts anticipate continued positive market momentum driven by recent trade agreements, budget announcements, and the Q3 earnings season.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-falls-over-80-pts-heres-the-trading-setup-for-the-day/articleshow/127897479.cms
+- ‘SaaSpocalypse’: What is Anthropic’s newest AI tool and what are the consequences for global tech companies?
+  Anthropic unveiled new AI tools capable of automating legal, sales, marketing and data analysis tasks. Fears that AI may replace—rather than support—software firms triggered what analysts call a “SaaSpocalypse�
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/saaspocalypse-what-is-anthropics-newest-ai-tool-and-what-are-the-consequences-for-global-tech-companies/articleshow/127901331.cms
 
-- Stocks in news: Trent, BPCL, Bajaj Finance, Mankind Pharma, Apollo Tyres
-  Indian markets surged on Tuesday, buoyed by a significant trade pact with the US. The Nifty's strong rebound suggests a potential trend reversal post the Budget sell-off. Several companies like Trent, BPCL, and Baj
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-trent-bpcl-bajaj-finance-mankind-pharma-apollo-tyres/articleshow/127897448.cms
+- Motilal Oswal AMC’s Prateek Agarwal sees Make in India as biggest beneficiary of trade pacts
+  India's recent trade agreements with the US and EU are poised to significantly boost the 'Make in India' initiative. These pacts are expected to attract foreign investment, strengthen the rupee, and revive investor
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/motilal-oswal-amcs-prateek-agarwal-sees-make-in-india-as-biggest-beneficiary-of-trade-pacts/articleshow/127900893.cms
 
-- Asian stocks fall, following US tech-led selloff
-  Asian stocks declined as a tech selloff impacted US benchmarks. Advanced Micro Devices' disappointing forecast contributed to the tech downturn. FedEx and Walmart saw gains. Oil prices climbed following a US Navy
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-fall-following-us-tech-led-selloff/articleshow/127897427.cms
+- India bonds a tad up ahead of RBI debt buy, policy decision this week
+  Indian government ‍bonds moved marginally higher ​on Wednesday after a quiet opening. The central bank's debt purchase
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-a-tad-up-ahead-of-rbi-debt-buy-policy-decision-this-week/articleshow/127900942.cms
 
-- Rupee logs best day in 7 years due to India-US trade deal; further gains depend on RBI intervention
-  The Indian rupee saw a significant jump on Tuesday, gaining 125 paise against the US dollar. This surge followed the announcement of a US-India trade deal, boosting currency sentiment. The rupee closed at 90.26/$1
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-logs-best-day-in-7-years-due-to-india-us-trade-deal-further-gains-depend-on-rbi-intervention/articleshow/127890693.cms
+- Wall Street investor Jim Rogers’ India lesson: Always own some gold and silver
+  Veteran investor Jim Rogers said precious metals remain a core part of a long-term portfolio. Rogers said he is neither buying nor selling gold and silver at current levels.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-investor-jim-rogers-india-lesson-always-own-some-gold-and-silver/articleshow/127900860.cms
 
-- CapitaLand India Trust steps up onshore bond fundraising, targets $1 billion debt shift as divestments fuel expansion
-  CapitaLand India Trust is boosting its India strategy. It plans to raise more onshore debt and sell some assets. This will help fund new acquisitions and development projects.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/capitaland-india-trust-steps-up-onshore-bond-fundraising-targets-1-billion-debt-shift-as-divestments-fuel-expansion/articleshow/127890567.cms
+- Gokaldas Exports shares surge over 40% in two days after India-US trade deal
+  Gokaldas Exports shares have surged over 40% in two sessions. India and the US announced a landmark trade deal cutting tariffs to 18%. With the US contributing nearly 70% of its revenue, the company stands to
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gokaldas-exports-shares-surge-over-40-in-two-days-after-india-us-trade-deal/articleshow/127900783.cms
+
+- 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
+  2 British Tourists Get 'Leave India'
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
 
 - India-US Trade Deal News Live Updates: India's industrial goods tariffs will go to 0% from 13.5%: US on trade deal - Times of India
-  India-US Trade Deal News Live Updates: India's industrial goods tariffs will go to 0% from
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbF
   🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
 
-- "Exit India If You Can't": Chief Justice Warns Meta Over WhatsApp Policy - NDTV
-  "Exit India If You Can't": Chief Justice
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0pBMG1fSTFaOFU3Y083LW0zLWd2aDE2amh5Tk9TMGhSWmEzbmxaR0dWcEtMQUl0RzVwckxobHA1UDFRVzktTmRuOXJvemdJUDFNVGpWQURUQjJVVnFtUWYtb0ZvNGE0V1FwSTFTbkVjREhfVXNHTGNBa00zdHB4cVFhRGlmTXRTUm5hZFNYSXp0UkV4eTlLNElZeVB4T0pWR2YtaXhMTkdWbXlrOG1US0F6RklIX3pz0gHAAUFVX3lxTE5tbDRMOVEwN1JWcEFCOE5fVVhpdDdvR0xQT1ltOUNVV1gzZzdfeDZvSUNjQkNNdXFvZDcwSFFucHU2dkVHU0k2anFabmItQ0oxdkRqblFZM1NzSGN6VE40WjU3OHdGQlJHUi1ySVZuZnI2YTJyUGctNlhpUUF1SUh4WDJmdmZqXzBVdmZRaXFnQ29WUkp3UzB3SXBoMjFuMlJTdWlsN3ZPaktRb2M2XzZ2cE02U0tGOFdFSHlvbEQ3Yw?oc=5
+- Nissan Gravite MPV To Debut In India On February 17 - NDTV
+  Nissan Gravite MPV To De
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVklZbjlPXzFmSHVlb0FvZmZ3Tk1nWjcxS2tZOWZkeXloOEtfY29YQzFNVjVyRkRKNVhIbC1xX1RpaV9SQ1R1SnZCbEZjako0WWRCWVJIQW90OGk1MDZ4d1d2cno0bXZhSVBKRHYxQjhXWS1CalBYc0ZhbWd4SEpOekRqWERfenVCS3dYWm1CMNIBlwFBVV95cUxPd25VWjlaUWFXV2tHSFhzY1ZpeUhuT0NkcTJaX21rcUJNWkExUDJEZm44WnlxUnROVHotTHBmM29ka0VTNW41THNmZ3hyWDNjdXJuMEVqYzBEbzhwZTVCUEFBV3JESVh3Z2hVbFd2Z2VDZG5Deno3VWswR2w1dW5vS3RSeFcyVVd2THBCRHdkU1ZKS0Q2WVg4?oc=5
 
-- Indian scientists make affordable dipstick test to track AMR in sewage - The Hindu
-  Indian scientists make affordable dipstick test to track AM
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSVMzcFRTSGNwWVdGY2tKVXdfOTJVWEF3ZFpPbmtxYzRlazI1eUVWNzlEWjNReEMxNXE1X2pHczdjV20zQzZlUExKd0RJVXlKWFAtaXVJYWVnZVB3bWc5RGRUWmVZVk9nRmZGS2lmMDdtWGs2VUtRTnNIbnVMVUlTX0FaVWFybjEzbUlDWVo1Y0RNM25ydjdMTF92ZmJaSWRubWZ6WGpjNXZjN3pjV1I1aTA4UDJOSUtoblJKSncwLWtzcnkzMGpRdVh2dXhWVEUt0gHXAUFVX3lxTE8xdlJDLVNHRkFXdmhYbEpjUjRHcDZiaVVOeEM0elZUejlSWUxvZkR3NTlVZm0xaHcyQWg5R1lvQ0ZEVFF1YjdsaGZLQzNsMXBxTEZNbWx4VnFuUElIelBHY1VKYzZlYm14Y2JXdnJPRWpISEEtZlhrNWE1ME5BczdFUDJ6bTVxdzBoSWFvZkNBRGNtakVIWHZ2SkFraml2b09oUV9lanV0cDJldm9wZGl2MW1ZbXNrc0Z6MVZvYlhmYnM1XzZYX0lVVS1vZUszNDY3bGNHT21v?oc=5
+- Today News Headlines for School Assembly, February 4, 2026: India ‘commits’ to $100 bn/year US imports for 5 years - The Indian Express
+  The Indian Express reports that India has agreed to pay $100 bn/year US imports
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQeU5qVnR2RnZlT3BHZnFaZ0lBYWQ0dEsyd1UzQ3ZHQ2hSWWt2RUI3QkdranRkckVORDdRRGhvQk13aUYxanFKYVV3UVBxSjllV2ZiVnJpVTA2OFZTdlFWSGRGSG5IT2kxblhlX0hQSG9wNzRkTHBZLUlxVWhEQWRnN29DNHlFWHVXRWhYeGR1RktBaUlUaExFOVNuak9RQmdtSnZOYVJJRGEwWERmQVVEZnpOa3ZvWFR1cE0zWExuVEh0bXc5SUJ3M0hjRExRbHNaQWk2bnRad1g1TUo1ejlDMFFTcGhDQlV2Qy1CV2tUUXdLZmFpRVhWcWx5djRiTHF5dHAzSTdlRHJ5LWJ4ZW1tVDlWcmRPVHhhb2tB0gGiAkFVX3lxTE1uTlBTUDF3aVg0Y20xT1d5MTU2enc4aGFFdHRLem41M3oxeE5yaWQ4b2xCOFBJZ2dCUGxPdXZHWk4zTTFkOVFSQkZ1c1dBQTA2aGMtRTF5MGZBUXgxTFJnMDdoX09zWEhhM3JNWHBzTGpZM2w5b1Z0Ml8xbUZ2YUtuTGlsQmpmSTFUenlGSTB1Uk42a0dKaHc1enZmRDZHM0lZLVY3NjZfd085Tlgtc2tudHR2MWpGQXExVnJVT0FFVTZQdG1NV0dLOElfdXdiM0puMHNlMTJjRXRaN3Z0YkhEWng4NVliVDdQZVl6NW9xV0xkSEtTV0FGNFExV2llT2Z6Z19uTjZGVFVnV2d0U05jNGcwTEIxSUp2UFBZVndHUHdR?oc=5
 
-- Sustained PM2.5 exposure ups depression risk: Study - Times of India
-  PM2.5 exposure ups depression
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWxWVXZoTTJDbUlQM0V5ek9FX2htZ0hJSDB2WnhVeDFqZXE5bXdJZl9IelZOTW5XdUsxdHdjU2ZpT3NmbGV1SWhDRHJTcjhLUUk3cHl1Z0ZaNTBqOWZEaVBWUmtGR3JzWktSY1M0azM4LUpWWmJDcnI4eWNGUHFDdy1GSjFJNmRFQjNaaWZOckJDLXVOeWtUQUJ6N29MOS1yX3BfeThSdHlSQ293ZEhyM21FRndORThISkHSAb8BQVVfeXFMTW50dWU1UVBjazRPNWRkdG5ITkhvbHVaVk53dWQ3amp5RkpJd3JqTzJkTXJzNThCRDVXc0dPSlJpX0JYcGM3UGJnOW9sQlBoSENKcHhpbk8yRUFqdXJQME5IZW9scEZyMkxKV2NLZUs0QjVjV3hNWkxKSmNMWWlwaVMzSVo5SVRhYnNUUjZfQWNyY2tEUTR5RWNsUHRrM21ZalBZYzdKRnl6LUhxNUR0b2JUbEFlSTVqYmZHYVZ6aDA?oc=5
+- School assembly news headlines, February 4: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 4: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRi00a2hLV0xtYXFsZHVkZzYzNUgtSWh0Nlc0YnM4TmJ2d210TXd6MUlzN1FYZzMyckRiUEtSQlM0c1ZneFpMWXFGT2ZOem9yZXhVOXlsbWpfRy1nbjZzUURmd3ZXUkNKMUdCMUJ0QTZfdU9OYm5hSWU5cGFSMGxKUjhOUEF1d3NPdThBcHNrV2VJQ3l0bm93V0dldXRWLVlReVZQSzZmQXJNTGpsWnMtNzA4SXdDeG5SWUVYMUQzWkRwcHFaTWh1Vi1TRjgzZzRwQjhOT3FyaWN6eU9mMEVnOHJoUjDSAeoBQVVfeXFMUGtrSFo1VHV5ZHF2RXRCTEprU0NWNnhDRk5LNGh5Y2NVR1k5dWQwV1hORWlQVTRYdUc2OGw1V1RBT3VhQ2NsM19qZ0FJejZwa3hKUFRwY0xRS3R0QmV5d1JKMlQycmk5Y3B1X1NvUnVvV2dxaEp0clZlakhOaDF4czhHaGQyRGNhZU8zN0R2a0NTMFNfVVc2eFVtNGZjZkR2cFE0cE1Pam8zVzYxNjlsU21Gd01OVTRxZzVjTGRYb2tFQUpKejVRc3NueGhUZ2lMd0pROWNSYlNXWmF5SzFkUkJyc2piYmJENXFR?oc=5
 
-- Taekwondo master to be Manipur CM, may get 2 deputies - Times of India
-  Taekwondo master to be Manipur CM
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxObElKTEhJS3Y4QXo1Y2xYNHZUSS02MTNHRmppbmh3R240Tmp3ZFBMd3U2QTBBX1FvZUhQeER0R0ItcHZ0MWdwM1hURWdBVWw1cUl5c1JsVDB3cUZlM0lzS1JYMTJKa0lucE1ObVhxUDUwUXZCNXFVMHJMSXJKc0FJWlRxQTlzc2tWVnc3U21adlZjR21peWV5NUZ6alpaMi1pVkxkYUZnSTE0Y09MV3lUVkZNT3c4eUljb2lfcdIBwgFBVV95cUxNQ3k4TWE4X1FHdnVUV05XLWxScTYzTUc0RDhGd3hnRzd3MU9ycXY1WGRFTVFGdGx4c3BDMjk1MGNORzFxNWJfS1RCbkNvWk5ZN2VKWGwtSHFQcmNYUWlxUmllbzhxYzVrdXUtdU44N24xVFVWWW5zY1dHWDBUQk91RlVwNmFWMXlQNi0tYTMxSFdUUl9pQS1xeFB1Yl8wX3pXanZ6ajFFMzRWa09JZGI2Ml9iQWtkZWt1aG0wS2ltUThnZw?oc=5
+- 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
+  2 British Tourists Get 'Leave India'
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
+
+- India-US Trade Deal News Live Updates: India's industrial goods tariffs will go to 0% from 13.5%: US on trade deal - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbF
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
+
+- Nissan Gravite MPV To Debut In India On February 17 - NDTV
+  Nissan Gravite MPV To De
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVklZbjlPXzFmSHVlb0FvZmZ3Tk1nWjcxS2tZOWZkeXloOEtfY29YQzFNVjVyRkRKNVhIbC1xX1RpaV9SQ1R1SnZCbEZjako0WWRCWVJIQW90OGk1MDZ4d1d2cno0bXZhSVBKRHYxQjhXWS1CalBYc0ZhbWd4SEpOekRqWERfenVCS3dYWm1CMNIBlwFBVV95cUxPd25VWjlaUWFXV2tHSFhzY1ZpeUhuT0NkcTJaX21rcUJNWkExUDJEZm44WnlxUnROVHotTHBmM29ka0VTNW41THNmZ3hyWDNjdXJuMEVqYzBEbzhwZTVCUEFBV3JESVh3Z2hVbFd2Z2VDZG5Deno3VWswR2w1dW5vS3RSeFcyVVd2THBCRHdkU1ZKS0Q2WVg4?oc=5
+
+- Today News Headlines for School Assembly, February 4, 2026: India ‘commits’ to $100 bn/year US imports for 5 years - The Indian Express
+  The Indian Express reports that India has agreed to pay $100 bn/year US imports
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQeU5qVnR2RnZlT3BHZnFaZ0lBYWQ0dEsyd1UzQ3ZHQ2hSWWt2RUI3QkdranRkckVORDdRRGhvQk13aUYxanFKYVV3UVBxSjllV2ZiVnJpVTA2OFZTdlFWSGRGSG5IT2kxblhlX0hQSG9wNzRkTHBZLUlxVWhEQWRnN29DNHlFWHVXRWhYeGR1RktBaUlUaExFOVNuak9RQmdtSnZOYVJJRGEwWERmQVVEZnpOa3ZvWFR1cE0zWExuVEh0bXc5SUJ3M0hjRExRbHNaQWk2bnRad1g1TUo1ejlDMFFTcGhDQlV2Qy1CV2tUUXdLZmFpRVhWcWx5djRiTHF5dHAzSTdlRHJ5LWJ4ZW1tVDlWcmRPVHhhb2tB0gGiAkFVX3lxTE1uTlBTUDF3aVg0Y20xT1d5MTU2enc4aGFFdHRLem41M3oxeE5yaWQ4b2xCOFBJZ2dCUGxPdXZHWk4zTTFkOVFSQkZ1c1dBQTA2aGMtRTF5MGZBUXgxTFJnMDdoX09zWEhhM3JNWHBzTGpZM2w5b1Z0Ml8xbUZ2YUtuTGlsQmpmSTFUenlGSTB1Uk42a0dKaHc1enZmRDZHM0lZLVY3NjZfd085Tlgtc2tudHR2MWpGQXExVnJVT0FFVTZQdG1NV0dLOElfdXdiM0puMHNlMTJjRXRaN3Z0YkhEWng4NVliVDdQZVl6NW9xV0xkSEtTV0FGNFExV2llT2Z6Z19uTjZGVFVnV2d0U05jNGcwTEIxSUp2UFBZVndHUHdR?oc=5
+
+- School assembly news headlines, February 4: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 4: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRi00a2hLV0xtYXFsZHVkZzYzNUgtSWh0Nlc0YnM4TmJ2d210TXd6MUlzN1FYZzMyckRiUEtSQlM0c1ZneFpMWXFGT2ZOem9yZXhVOXlsbWpfRy1nbjZzUURmd3ZXUkNKMUdCMUJ0QTZfdU9OYm5hSWU5cGFSMGxKUjhOUEF1d3NPdThBcHNrV2VJQ3l0bm93V0dldXRWLVlReVZQSzZmQXJNTGpsWnMtNzA4SXdDeG5SWUVYMUQzWkRwcHFaTWh1Vi1TRjgzZzRwQjhOT3FyaWN6eU9mMEVnOHJoUjDSAeoBQVVfeXFMUGtrSFo1VHV5ZHF2RXRCTEprU0NWNnhDRk5LNGh5Y2NVR1k5dWQwV1hORWlQVTRYdUc2OGw1V1RBT3VhQ2NsM19qZ0FJejZwa3hKUFRwY0xRS3R0QmV5d1JKMlQycmk5Y3B1X1NvUnVvV2dxaEp0clZlakhOaDF4czhHaGQyRGNhZU8zN0R2a0NTMFNfVVc2eFVtNGZjZkR2cFE0cE1Pam8zVzYxNjlsU21Gd01OVTRxZzVjTGRYb2tFQUpKejVRc3NueGhUZ2lMd0pROWNSYlNXWmF5SzFkUkJyc2piYmJENXFR?oc=5
+
+- 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
+  2 British Tourists Get 'Leave India'
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
+
+- India-US Trade Deal News Live Updates: India's industrial goods tariffs will go to 0% from 13.5%: US on trade deal - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbF
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
+
+- Nissan Gravite MPV To Debut In India On February 17 - NDTV
+  Nissan Gravite MPV To De
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVklZbjlPXzFmSHVlb0FvZmZ3Tk1nWjcxS2tZOWZkeXloOEtfY29YQzFNVjVyRkRKNVhIbC1xX1RpaV9SQ1R1SnZCbEZjako0WWRCWVJIQW90OGk1MDZ4d1d2cno0bXZhSVBKRHYxQjhXWS1CalBYc0ZhbWd4SEpOekRqWERfenVCS3dYWm1CMNIBlwFBVV95cUxPd25VWjlaUWFXV2tHSFhzY1ZpeUhuT0NkcTJaX21rcUJNWkExUDJEZm44WnlxUnROVHotTHBmM29ka0VTNW41THNmZ3hyWDNjdXJuMEVqYzBEbzhwZTVCUEFBV3JESVh3Z2hVbFd2Z2VDZG5Deno3VWswR2w1dW5vS3RSeFcyVVd2THBCRHdkU1ZKS0Q2WVg4?oc=5
+
+- Today News Headlines for School Assembly, February 4, 2026: India ‘commits’ to $100 bn/year US imports for 5 years - The Indian Express
+  The Indian Express reports that India has agreed to pay $100 bn/year US imports
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQeU5qVnR2RnZlT3BHZnFaZ0lBYWQ0dEsyd1UzQ3ZHQ2hSWWt2RUI3QkdranRkckVORDdRRGhvQk13aUYxanFKYVV3UVBxSjllV2ZiVnJpVTA2OFZTdlFWSGRGSG5IT2kxblhlX0hQSG9wNzRkTHBZLUlxVWhEQWRnN29DNHlFWHVXRWhYeGR1RktBaUlUaExFOVNuak9RQmdtSnZOYVJJRGEwWERmQVVEZnpOa3ZvWFR1cE0zWExuVEh0bXc5SUJ3M0hjRExRbHNaQWk2bnRad1g1TUo1ejlDMFFTcGhDQlV2Qy1CV2tUUXdLZmFpRVhWcWx5djRiTHF5dHAzSTdlRHJ5LWJ4ZW1tVDlWcmRPVHhhb2tB0gGiAkFVX3lxTE1uTlBTUDF3aVg0Y20xT1d5MTU2enc4aGFFdHRLem41M3oxeE5yaWQ4b2xCOFBJZ2dCUGxPdXZHWk4zTTFkOVFSQkZ1c1dBQTA2aGMtRTF5MGZBUXgxTFJnMDdoX09zWEhhM3JNWHBzTGpZM2w5b1Z0Ml8xbUZ2YUtuTGlsQmpmSTFUenlGSTB1Uk42a0dKaHc1enZmRDZHM0lZLVY3NjZfd085Tlgtc2tudHR2MWpGQXExVnJVT0FFVTZQdG1NV0dLOElfdXdiM0puMHNlMTJjRXRaN3Z0YkhEWng4NVliVDdQZVl6NW9xV0xkSEtTV0FGNFExV2llT2Z6Z19uTjZGVFVnV2d0U05jNGcwTEIxSUp2UFBZVndHUHdR?oc=5
+
+- School assembly news headlines, February 4: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 4: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRi00a2hLV0xtYXFsZHVkZzYzNUgtSWh0Nlc0YnM4TmJ2d210TXd6MUlzN1FYZzMyckRiUEtSQlM0c1ZneFpMWXFGT2ZOem9yZXhVOXlsbWpfRy1nbjZzUURmd3ZXUkNKMUdCMUJ0QTZfdU9OYm5hSWU5cGFSMGxKUjhOUEF1d3NPdThBcHNrV2VJQ3l0bm93V0dldXRWLVlReVZQSzZmQXJNTGpsWnMtNzA4SXdDeG5SWUVYMUQzWkRwcHFaTWh1Vi1TRjgzZzRwQjhOT3FyaWN6eU9mMEVnOHJoUjDSAeoBQVVfeXFMUGtrSFo1VHV5ZHF2RXRCTEprU0NWNnhDRk5LNGh5Y2NVR1k5dWQwV1hORWlQVTRYdUc2OGw1V1RBT3VhQ2NsM19qZ0FJejZwa3hKUFRwY0xRS3R0QmV5d1JKMlQycmk5Y3B1X1NvUnVvV2dxaEp0clZlakhOaDF4czhHaGQyRGNhZU8zN0R2a0NTMFNfVVc2eFVtNGZjZkR2cFE0cE1Pam8zVzYxNjlsU21Gd01OVTRxZzVjTGRYb2tFQUpKejVRc3NueGhUZ2lMd0pROWNSYlNXWmF5SzFkUkJyc2piYmJENXFR?oc=5
+
+- 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
+  2 British Tourists Get 'Leave India'
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
+
+- India-US Trade Deal News Live Updates: India's industrial goods tariffs will go to 0% from 13.5%: US on trade deal - Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbF
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUxiVV9GVmM3S1B2djNjUjJrM0F1YUk2RFVWemZKb3A3WEJMQkc5YVZ2NEI3SjJ0a0VSblhWQms3cEd6eHBKS20tNEhOSWtGRGVENWc5SHlBLW96MldzMVoxVWdjcE5zbFMyY00zWkhRejl1MWdNVXJDSzFQNDBxMUh3Q3BUaTNpVkFfY184eVAwbXJ3WUU3WHMyUVhXVWJJSGwyTG5OazRPQmg2MlZld1M5c0FVaVplbWVpOTNRdVh1SERlajd4djBMdWd1aG5uQ3UtdnU3eFRDc1FXZVZueElkei1CNFpOOERfMm9Rb0JHWmFFdWdBWDJ0MjQ4Rm5FbGJEQXVRV19lOUJsSFRPUENHdW41WnUyZVVR0gGgAkFVX3lxTE96QW5RNE5lT2ljY1AxUGhvTE5NNkVYRFRTWnllcHZlWVlWMlRQTWdMQzMxa0tYOENJb2JDY0pVNXpNSmtBUTd5dFJsNlFQSzhZaHEtSXpYWElGWUVvbVlrUHpkSFEzTU1BZnFHUUEwQ3ZuQk5Vd210cDFucmd1amQ4NWVFMC1SRlZKcTdOWFdjUC03dTgxSDNJVFhtbWl6M2Y1SmV5d2Q2aTAtcndCdGV3Y3MydlZxLU44ODdacDhGdThNX0Z3WXFrNWZ2cmxUMktaYkZxa0hROWN1YzRENWpja3d2c1dSQ3ZMU3k2U29vQkZwNlotY2pEaEE0WURQZG40MEpZbG9QTzFiSUtaMF9waDVLTWJXSE9RSmMxSUpMVQ?oc=5
+
+- Nissan Gravite MPV To Debut In India On February 17 - NDTV
+  Nissan Gravite MPV To De
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVklZbjlPXzFmSHVlb0FvZmZ3Tk1nWjcxS2tZOWZkeXloOEtfY29YQzFNVjVyRkRKNVhIbC1xX1RpaV9SQ1R1SnZCbEZjako0WWRCWVJIQW90OGk1MDZ4d1d2cno0bXZhSVBKRHYxQjhXWS1CalBYc0ZhbWd4SEpOekRqWERfenVCS3dYWm1CMNIBlwFBVV95cUxPd25VWjlaUWFXV2tHSFhzY1ZpeUhuT0NkcTJaX21rcUJNWkExUDJEZm44WnlxUnROVHotTHBmM29ka0VTNW41THNmZ3hyWDNjdXJuMEVqYzBEbzhwZTVCUEFBV3JESVh3Z2hVbFd2Z2VDZG5Deno3VWswR2w1dW5vS3RSeFcyVVd2THBCRHdkU1ZKS0Q2WVg4?oc=5
+
+- Today News Headlines for School Assembly, February 4, 2026: India ‘commits’ to $100 bn/year US imports for 5 years - The Indian Express
+  The Indian Express reports that India has agreed to pay $100 bn/year US imports
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQeU5qVnR2RnZlT3BHZnFaZ0lBYWQ0dEsyd1UzQ3ZHQ2hSWWt2RUI3QkdranRkckVORDdRRGhvQk13aUYxanFKYVV3UVBxSjllV2ZiVnJpVTA2OFZTdlFWSGRGSG5IT2kxblhlX0hQSG9wNzRkTHBZLUlxVWhEQWRnN29DNHlFWHVXRWhYeGR1RktBaUlUaExFOVNuak9RQmdtSnZOYVJJRGEwWERmQVVEZnpOa3ZvWFR1cE0zWExuVEh0bXc5SUJ3M0hjRExRbHNaQWk2bnRad1g1TUo1ejlDMFFTcGhDQlV2Qy1CV2tUUXdLZmFpRVhWcWx5djRiTHF5dHAzSTdlRHJ5LWJ4ZW1tVDlWcmRPVHhhb2tB0gGiAkFVX3lxTE1uTlBTUDF3aVg0Y20xT1d5MTU2enc4aGFFdHRLem41M3oxeE5yaWQ4b2xCOFBJZ2dCUGxPdXZHWk4zTTFkOVFSQkZ1c1dBQTA2aGMtRTF5MGZBUXgxTFJnMDdoX09zWEhhM3JNWHBzTGpZM2w5b1Z0Ml8xbUZ2YUtuTGlsQmpmSTFUenlGSTB1Uk42a0dKaHc1enZmRDZHM0lZLVY3NjZfd085Tlgtc2tudHR2MWpGQXExVnJVT0FFVTZQdG1NV0dLOElfdXdiM0puMHNlMTJjRXRaN3Z0YkhEWng4NVliVDdQZVl6NW9xV0xkSEtTV0FGNFExV2llT2Z6Z19uTjZGVFVnV2d0U05jNGcwTEIxSUp2UFBZVndHUHdR?oc=5
+
+- School assembly news headlines, February 4: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 4: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRi00a2hLV0xtYXFsZHVkZzYzNUgtSWh0Nlc0YnM4TmJ2d210TXd6MUlzN1FYZzMyckRiUEtSQlM0c1ZneFpMWXFGT2ZOem9yZXhVOXlsbWpfRy1nbjZzUURmd3ZXUkNKMUdCMUJ0QTZfdU9OYm5hSWU5cGFSMGxKUjhOUEF1d3NPdThBcHNrV2VJQ3l0bm93V0dldXRWLVlReVZQSzZmQXJNTGpsWnMtNzA4SXdDeG5SWUVYMUQzWkRwcHFaTWh1Vi1TRjgzZzRwQjhOT3FyaWN6eU9mMEVnOHJoUjDSAeoBQVVfeXFMUGtrSFo1VHV5ZHF2RXRCTEprU0NWNnhDRk5LNGh5Y2NVR1k5dWQwV1hORWlQVTRYdUc2OGw1V1RBT3VhQ2NsM19qZ0FJejZwa3hKUFRwY0xRS3R0QmV5d1JKMlQycmk5Y3B1X1NvUnVvV2dxaEp0clZlakhOaDF4czhHaGQyRGNhZU8zN0R2a0NTMFNfVVc2eFVtNGZjZkR2cFE0cE1Pam8zVzYxNjlsU21Gd01OVTRxZzVjTGRYb2tFQUpKejVRc3NueGhUZ2lMd0pROWNSYlNXWmF5SzFkUkJyc2piYmJENXFR?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-04 01:32:40 UTC_
+_Last updated: 2026-02-04 06:48:33 UTC_
