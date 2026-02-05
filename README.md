@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Kerala to invest Rs 1,905 crore in Sabari rail project – check route, station list
+- Not just Naravane: 19-yr-old case shadows ex-officer’s book on R&AW ‘secrets’
   
-  🔗 https://indianexpress.com/article/india/kerala-to-invest-rs-1905-crore-in-sabari-rail-project-check-route-station-list-10514100/
+  🔗 https://indianexpress.com/article/india/not-just-naravane-19-yr-old-case-shadows-ex-officer-v-k-singhs-book-on-raw-secrets-10514279/
 
-- Six minors accused of gangraping classmate in Odisha, detained
+- Energy and critical minerals in focus as Jaishankar holds talks in Washington
   
-  🔗 https://indianexpress.com/article/india/six-minors-accused-of-gangraping-classmate-in-odisha-detained-10514031/
+  🔗 https://indianexpress.com/article/india/energy-and-critical-minerals-in-focus-as-jaishankar-holds-talks-in-washington-10514270/
 
-- Congress protest stalls Lok Sabha proceedings, PM Modi reply deferred
+- PM Modi to visit Malaysia this weekend, give ties a boost
   
-  🔗 https://indianexpress.com/article/india/congress-protest-lok-sabha-pm-modi-reply-10513955/
+  🔗 https://indianexpress.com/article/india/pm-modi-to-visit-malaysia-this-weekend-give-ties-a-boost-10514313/
 
-- Yumnam Khemchand Singh takes oath as Manipur CM; Deputy CMs from Kuki-Zo and Naga communities
+- Opposition to take collective call on impeachment motion on CEC Gyanesh Kumar: Congress
   
-  🔗 https://indianexpress.com/article/india/bjp-y-khemchand-singh-sworn-in-manipur-chief-minister-deputy-cm-10513751/
+  🔗 https://indianexpress.com/article/india/opposition-to-take-collective-call-on-impeachment-motion-on-cec-gyanesh-kumar-congress-10514293/
 
-- ‘We do not step out after dark’: First tiger spotting near Hyderabad in 50 years puts a district on edge
+- 1 crore Tamil Nadu voters could become living dead: Kamal Haasan on SIR
   
-  🔗 https://indianexpress.com/article/india/dark-first-tiger-spotting-hyderabad-district-edge-10513714/
+  🔗 https://indianexpress.com/article/india/1-crore-tamil-nadu-voters-could-become-living-dead-kamal-haasan-on-sir-10514277/
+
+- Google teases Pixel 10a, a new, lower-cost addition to the Pixel 10 series
+  
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/google-teases-pixel-10a-a-new-lower-cost-addition-to-the-pixel-10-series-10514289/
 
 - Can India find its ‘edge’ in edge AI? Experts weigh strategy to compete in global AI race
   
@@ -36,29 +40,37 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-fears-spark-brutal-selloff-in-legal-data-and-software-stocks-10513581/
 
-- Tired of watching the same Reels? Here’s how to reset Instagram’s algorithm
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tired-of-watching-the-same-reels-heres-how-to-reset-instagrams-algorithm-10513532/
+- Chip(per) ambitions: Electronics majors weigh semiconductor leap on policy push
+  Syrma SGS and Dixon Technologies are eyeing semiconductor manufacturing
+  🔗 https://www.livemint.com/companies/news/india-electronics-manufacturer-dixon-syrma-semiconductor-foray-ism-2-11770183422272.html
 
-- AMD Suffers Worst Rout Since 2018 on Disappointing Forecast
-  Advanced Micro Devices Inc. suffered its worst stock decline in more than seven years. The chipmaker’s sales forecast underwhelmed investors
-  🔗 https://www.livemint.com/companies/amd-suffers-worst-rout-since-2018-on-disappointing-forecast-11770229962609.html
+- Tata Motors' $4.4 billion Iveco move faces fresh concerns
+  Iveco has cut its full-year 2025 guidance for its commercial vehicle and defence business to just €
+  🔗 https://www.livemint.com/auto-news/tata-motors-iveco-acquisition-financial-concerns-analyst-warnings-11770190000637.html
 
-- Cigna Settles FTC Lawsuit Alleging It Inflated Insulin Costs
-  Cigna Group’s Express Scripts reached a settlement with federal antitrust enforcers.
-  🔗 https://www.livemint.com/companies/cigna-settles-ftc-lawsuit-alleging-it-inflated-insulin-costs-11770229834139.html
+- How startups are turning India’s home interiors into a DIY marketplace
+  Investors are backing materials-focused platforms like Material Depot, alongside, but separate from, execution-
+  🔗 https://www.livemint.com/companies/start-ups/home-interior-materials-startup-india-funding-11770203232135.html
 
-- CCI orders probe into IndiGo over alleged abuse of dominance after mass flight cancellations
-  The regulator alleges that the airline abused its 60% market share by
-  🔗 https://www.livemint.com/companies/news/cci-orders-probe-into-indigo-over-alleged-abuse-of-dominance-after-mass-flight-cancellations-11770220108034.html
+- Vodafone Idea’s  ₹35,000-crore loan bid faces fresh lender scrutiny
+  Lenders are worried about the spectrum debt and the company's ability to compete with Jio and Airtel. Despite government relief
+  🔗 https://www.livemint.com/companies/news/vodafone-idea-35-000-crore-loan-bid-faces-fresh-lender-scrutiny-agr-5g-11770190163294.html
 
-- Uber gets India-origin CFO bullish on driverless future
-  Uber is preparing for a capital-intensive shift
-  🔗 https://www.livemint.com/companies/news/uber-driverless-cars-ai-investment-stock-market-impact-future-mobility-11770220867639.html
+- Berkshire Utility Presses Wildfire Appeal With Billions at Stake
+  Berkshire Hathaway Inc.’s PacifiCorp is asking an appeals court to throw out a 2023 jury verdict in
+  🔗 https://www.livemint.com/companies/berkshire-utility-presses-wildfire-appeal-with-billions-at-stake-11770230959624.html
 
-- Emcure taps into celebrities for its weight loss drug, as marketing playbooks change
-  Pune-based company is employing a user-first approach, going beyond healthcare providers. Weight-loss drugs continue to attract
-  🔗 https://www.livemint.com/companies/news/emcure-taps-celebrities-weight-loss-drug-marketing-playbooks-change-semaglutide-brand-poviztra-obesity-generics-11770205639760.html
+- Gold, silver rates today: Gold price rises above $5,000 an ounce, silver near $90. Should you buy amid rally?
+  Spot gold rose nearly 2% to $5,039 per ounce, on Thursday. Spot silver surged as much as 6% to
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-price-rises-above-5-000-an-ounce-silver-near-90-should-you-buy-amid-rally-11770251821283.html
+
+- Can emerging markets’ stellar run continue?
+  There is a lot more going
+  🔗 https://www.livemint.com/market/can-emerging-markets-stellar-run-continue-11770253149935.html
+
+- Stocks to buy: Raja Venkatraman's recommends three stocks for 5 February
+  Market expert Raja Venkatraman shares his three top stock picks to buy today, 5 February.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatramans-recommends-three-stocks-5-february-sensex-nifty-outlook-trade-set-up-11770208780384.html
 
 - Gold slips on firmer dollar, focus on geopolitics and US jobs data
   Gold slips on firmer dollar, focus on
@@ -68,17 +80,13 @@
   Novo Nordisk A/S plunged 17% after issuing a shock sales forecast. European stocks were muted, with advances in
   🔗 https://www.livemint.com/market/european-stocks-steady-as-cyclical-sector-gains-offset-tech-drop-11770230213001.html
 
-- Oil prices climb 3% on report US officials reject Irans request to change location of talks
-  
-  🔗 https://www.livemint.com/market/oil-prices-climb-3-on-report-us-officials-reject-irans-request-to-change-location-of-talks-11770229833943.html
+- Australia Blasts Big Tech for Child Sexual Abuse Failings
+  Australia’s online safety regulator blasted major technology companies for failing to stamp out child sexual exploitation and abuse.
+  🔗 https://www.livemint.com/technology/australia-blasts-big-tech-for-child-sexual-abuse-failings-11770243687104.html
 
-- Stocks to buy or sell: Sumeet Bagadia recommends five breakout shares to buy today — 5 February 2026
-  Sumeet Bagadia recommends five shares to buy today — Aarti Industries
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-breakout-shares-to-buy-today-5-february-2026-11770225765134.html
-
-- NSDL glitch stalls trade settlement for several investors
-  Shares or funds for trades ordered on Tuesday were yet to be credited to clients'
-  🔗 https://www.livemint.com/market/nsdl-glitch-trade-settlement-delay-cdsl-11770215879815.html
+- Musk vows to put data centers in space and run them on solar power but experts have their doubts
+  Musk vows to put data centers in space and run them on solar
+  🔗 https://www.livemint.com/technology/musk-vows-to-put-data-centers-in-space-and-run-them-on-solar-power-but-experts-have-their-doubts-11770236975158.html
 
 - OpenClaw User Says AI Went Rogue, Highlighting Risks of Agents
   Chris Boyd created a digital personal assistant called OpenClaw. He used it to create a daily digest of relevant news stories and send them to his inbox.
@@ -92,13 +100,37 @@
   A social network named Moltbook, modeled on Reddit, is designed for AI "agents" to engage in discussions with one another. Some of the hot topics so far are purging humans, creating a language we can’t
   🔗 https://www.livemint.com/technology/the-ai-only-social-network-isn-t-plotting-against-us-11770208044037.html
 
-- Europe Takes On Tech With Social Media Bans and Paris Raid on X
-  European countries are taking their broadest swipe yet at social media. A growing number are weighing bans of the services for minors.
-  🔗 https://www.livemint.com/technology/europe-takes-on-tech-with-social-media-bans-and-paris-raid-on-x-11770191817045.html
+- Stock Market Today: Nasdaq Continues Slide; AI Jitters Rattle Software Stocks — Live Updates - The Wall Street Journal
+  The Wall Street Journal is a leading source of news on the stock market.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPWnpSNURLWnptT0oxZkJKNUQ2TU8zejRxaURabmFzZFpUbGI1djZQNVlxRVoyV0paOXNQQTg3VlE2bnhUc19yNkFjS3RfS2xiTG5zR0l2ZHpIQzRRYUltR3BtUUZJVDBJa1Rpb21ENk5kUVh2cGxSSEFta0hiR1JVaHItU1NKaWc?oc=5
 
-- Thinking of leaving ChatGPT? Google may let you move all your chats to Gemini
-  Google is reportedly working on an 'import AI chats' feature for Gemini. It could allow users to transfer
-  🔗 https://www.livemint.com/technology/tech-news/thinking-of-leaving-chatgpt-google-may-let-you-move-all-your-chats-to-gemini-11770187763898.html
+- Japan stocks jump over 3% to record high as Asia markets rebound - CNBC
+  Japan stocks jump over 3% to record high as
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOUE5YOGpSZmNKU1F6WG5RRFpMcTZsUHJkbVUtTVN1X1k2ZDN4bS1lT2VFVDNjUDUtZERVSWhnMl92VVRyVjdGa2JSX25iX05JZGlRTFZVNlZlSG5LazJCZDhTWmFHbXo5ZHZhYmRJdWxkM2tVUkZZNHAtZS1XanJ6TDRJQWJsb2ZxWDFnbUIwajNVM05hSlY1NVd2S05sZlBpQUHSAacBQVVfeXFMTzQtZTY1SE9haDgtV3NKTjExUUw0RXNNVjhBbGw1MXdDcWotZ3BCbXEtQ0gwOE1vN2NyUlZBbXlCT2psMHU3MS1IRUhaSWNXVmlPZWtXb01hczJGVE9KRTN5S05HVU9IRUhsbDlqdDhOVTJISmh1SUliZEhCbTB2SWc4R3BSaE1STzlKXzQ5WmFjRldCYlJxR09VWlRNRjVUdnJCNERWSGc?oc=5
+
+- Stocks Fall From Near-Record Levels as Oil Jumps: Markets Wrap - Bloomberg.com
+  Stocks Fall From Near-Record Levels
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEU0Um12emF6Y1pSLTJmcG02el9hdkpVOEZwMlF5VTRtc25BeFBZbTJUSVFhWHpNbUIta29ZMFl2Qm1UZTJWN0ZvM3R3REZidms5S1NCOW5nekdwcUJIWG5qcUJoc0tWc2tkWVlhaGdnanppd3lVd29YX0g0MkxzWjZWUVJySGYwd3RaNUk3bkFfQkhIRXdNUDNEdnRYaXhhcHpoSTRFcllmYUFvNXIxaFpnNG8?oc=5
+
+- Stocks Waver After AI Scare as Gold Hits $5,000: Markets Wrap - Bloomberg.com
+  Gold hits $5,000 for the first
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2VxSFlCVU54QWpwbVhiZGRqWmxWc1k3ZDcwaVBDcUV2STc2TGMxVGZrNllZdjR6UHZkV1NfNkYtMzBkdUJtTndSVzYzdDZDVkJWZmRna21wd093dTRrRmROU0gwa1drTjNnVjlETmhMZ3cwa3hjOXV6ZEo1RGhQODd2ZlZPX004S0JkLXFYSGxvSF9O?oc=5
+
+- Asia-Pacific market set to mostly fall as tech sell-off continues - CNBC
+  Asia-Pacific market set to mostly fall
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ3V3SGRuZzMwVnNub0k5NTg5dG5UNlJ3TklEY3BSRUhabm1oT3ZnbjJrLU1zQWtFMHhmZGZ4eGdEMzZoVmQtLU9kZ04xZWdUX3NFR2drSGc3TVptX3pTcDBERjFiX1BuRlA0M0RyVVBMT1ZBbjVhZzhXQjg3aHljSnZqSHp5MnVsendUSjdqa9IBlAFBVV95cUxNOVZDMlloN1lvVW45WWxkRndGcGJkR2szU25mdjZ0b0xtcmpqa08zU1pjMDE5eC0wTzZBRWFab3FndEk0VUEzTXg4TzA0bGpFcTcwZDVJV3JYQXZGTkk4OFgwUnRndWFOZlZUWWJNSkRFc3J6YjhKU3FuNTl4X1psb2kxc1BNR2ZyQWNKYWt1YzlKVFNx?oc=5
+
+- Gift Nifty signals positive start; here's trading setup for the day
+   markets expected to remain firm with a positive bias, driven by trade deals, budget announcements, and Q3 earnings. The India VIX fell, indicating reduced market fear.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-signals-positive-start-heres-trading-setup-for-the-day/articleshow/127921380.cms
+
+- Stocks in news: Infosys, TCS, Airtel, Tata Motors PV, Trent, Marico
+  Indian markets saw range-bound trading on Wednesday. Investors are watching key companies like Infosys, TCS, and Airtel.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-tcs-airtel-tata-motors-pv-trent-marico/articleshow/127921360.cms
+
+- Asian stocks fall after tech selloff, gold gains
+  South Korea's Kospi leads losses amid concerns over high valuations and spending. Gold and silver advanced, continuing their rebound from a recent plunge.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-fall-after-tech-selloff-gold-gains/articleshow/127921310.cms
 
 - Societe Generale enters Gokaldas Exports with Rs 41 cr bulk deal as stock rallies 43%
   Gokaldas Exports saw a significant bulk deal as Societe Generale purchased over 5 lakh shares worth Rs 41 crore. Despite recent gains, the stock remains down 14% year-to-date.
@@ -108,77 +140,113 @@
   Advanced Micro Devices shares plunged 13% after a lackluster sales forecast. The company predicted a slight revenue fall this quarter, despite a boost from China.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/amd-shares-fall-13-as-dour-forecast-shows-tough-competition-in-ai-trade/articleshow/127914354.cms
 
-- US software stocks hit by Anthropic wake-up call on AI disruption
-  U.S. software stocks extended their slide on fears of AI disruption, triggered by Anthropic's new legal tool. Analysts warn of further volatility as investors assess the existential challenge to the sector.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-software-stocks-hit-by-anthropic-wake-up-call-on-ai-disruption/articleshow/127914269.cms
-
-- US Treasury keeps auction sizes unchanged, but dealer minutes reveal surprises
-  The U.S. Treasury will maintain current auction sizes for bonds and notes for several quarters. Treasury Borrowing Advisory Committee minutes revealed dealer estimates of a significant $1.1 trillion shortfall for 2027-2028.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-keeps-auction-sizes-unchanged-but-dealer-minutes-reveal-surprises/articleshow/127914194.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Thursday
-  Nifty and Sensex closed higher, buoyed by optimism around a potential India-US trade deal. Most sectors saw gains, offsetting weakness in IT stocks. Several stocks showed buying interest, while others faced selling pressure.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/127913958.cms
+- Upset Over India-US Trade Deal, Punjab Farmers Plan Mega Protest - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OV
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OVM4UTd6QjZLaE9TcEIwcUJnWUFnRHBVQVpIRGtaUWMyWkFIQU8yNHo5X1ViWW42SHlWUkh4Q0htOGthUGEzONIBrwFBVV95cUxQQnNrcjRuYkRlaHdERmEwbWc4QUhQeUdqV2ZrZ3ljSzNTZWJta19nbWdNT29ETTdYSXJ2VVJCOE4yLWZ2OWZRRjdTSV9rR2gtdG5ST2xjeWR5X3dpWjBtSENya0UzYkdKZm45bFJOWHY2d3RXQUo3NFRNRXlhMUFwWE1vc1hzeE1JVlZNSTRhUlFqTEFjTWFtMWNTbGFIbjJya19xSzVDQTA3c0tnSkNr?oc=5
 
 - 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
   2 British Tourists Get 'Leave India'
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
 
-- India-US Trade Deal LIVE: 'Will Shortly Issue Joint Statement': Piyush Goyal On India-US Trade Deal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbDYycWVlMlF5X2N1UnlSNEloa0otNXhzUXA1MDFEVmVuSmpIVW9uQ0wwRmZFanZSTEN2R2ZQS192VkxhQlZWRS1KV25TM1RJbkFFbUN2Q1plQ05ZT1BmNTIzdWJzeUpuYn
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbDYycWVlMlF5X2N1UnlSNEloa0otNXhzUXA1MDFEVmVuSmpIVW9uQ0wwRmZFanZSTEN2R2ZQS192VkxhQlZWRS1KV25TM1RJbkFFbUN2Q1plQ05ZT1BmNTIzdWJzeUpuYnZJS2xkaWlCYXgwWXN4NHFCSk45VnNmZ3A1Vk1JRmhXOGdvRlJyZldvbE5ubTBGUklzS3NpYVVKX1J6SkxJOE1jTWJqZHMtLWdqcDRoOXZoMHY4dldHSVZhcHA0VDNwVC1ITzhIUjQ0c2I0eDlyZkFSd0JyaExvcGRkWQ?oc=5
+- Social media ban for children: Is it possible in India? - BBC
+  Twitter, Facebook and other social
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KWEpwQzV0akJObmo3WWRnYWJKWmpiWjRQQWplODZsaG9xVXZBYUJlNzlGVlpFVWVvUndCZnNTTHZwdGRSVzhadV91TmpiZm13eE5WUTdyN1pMQQ?oc=5
 
-- Kashmir BEd colleges face large-scale de-affiliation - Times of India
-  Kashmir BEd colleges
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPSXpycjhGM2oxUU5PLTFBQm1EVTdMU2FGc3BiV1ZrS3Nvc0JpY0VDM1daOVd3VEpRNzNoRWtkei1OazBhYnU4Q2gxZWlRalhCUWV5RXVBT1oyaUFGS1R1LXVncFdRZGtaN1lMdTFjaURsenFfWGR2VlpYNHQxWFVTdnVtWUxVYktPbDdjSVJYb0hVYjNmSFV3YVdwd3ZWMUx3MjFKX0ktZ1U4RTRDUDVYXzZEdnppclVMMjVfTA?oc=5
+- Union Minister Amit Shah to Launch Bharat Taxi, India’s First Cooperative-Based Ride-Hailing Platform - News On AIR
+  Union Minister Amit Shah to Launch Bharat Taxi, India’
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDN6TnktQ0M3LWliMXZVQjNwQ3NNMVdwR21zUm1Ed28wV0VPQTRqVzJUTVNnLS1kSlhTcE1yUjlQUDJ6Zl9Mek1DcVZzR3NHM0E3QTdqOGRhaU1KLWtlN0lQVkxsT0h6VENNb3d5RndxTU40bW9yeWFKZzktb1V6TC1jdl9LZmQ5QUVKUlNuekU1U3JBMzFob1JzSTdxNUNSakxCSGNMTzIwVEZwN2hyV2oxZl9mT25ZNi1qVmxjSlJCN3FqQndBcw?oc=5
 
-- Mamata Banerjee In Supreme Court: Political Optics, Implications For Bengal - NDTV
-  Mamata Banerjee's
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmRZTllfbUFXTmNLczc2NU9Ia1hWZW5hWFRQdk9NYk1FYWlRY2VBUml5TEp5dGFyM3R4Y0VzTHVWYzRZT0p2UUNHRmRGWHJYcXE0dkViV1hMSDlHOHI1dGpKR0IwSklwRE9xY2NhWXIwTU93ay1fRENxUmpCSTYyWmRGUU9RbF9wTFJsT3dxY0FFa3lrQ05YNXMybTVvUUhOUXhPbDhrdUp0NWxwNDM1OXZBdTnSAbwBQVVfeXFMUGdLWHV1RjA1ZkhRMVhOLWRveHZYYnZKVHJVY1Q3TmJMUVBLY2dJQkVsdVdhTFZoNWpoX2tqR0ZWNnRtWE9qRzM1ZWdUckhXcWVsWkRLaFUyN2FCY3BDczZGM0pqTGNaNDVYMEY0QkQ3alIyVWJIOWxPR2kzMkt6TjVpOFpaUm9ueURRendQZzJ3M2RDNUo0SWlXMjBXSkZsRUViajBiVkNZVHZQT3R6LThQVVhudFhPY04wMzY?oc=5
+- Where’s your respected dad: SC to Choksi Junior - timesofindia.indiatimes.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0RrTTNmQURlNldJNTJ5MS1acURPVFEwS1F4NHhRLTFJNldPVlJRbkQzellMM3REeWdXWk82Qm5RZkxwZ1JrV25kckVkaTllaEVueWFhZlJEM1ZxcGJJMUFXOWtTT2RlR2lyMGhscWI5ZlBySTI0djZMQWZyNnR3dVd4Y3NDeUNLbERYQkJTNlZHN053cGVmU1lxeDJXenZjYzAwa1FoWG5LNkxUREc1aUczVdIBuAFBVV95cUxPN1lDZUdBbW0zOXNQcjVjcWhfcXQ5aFZfc3Q2c29EWm03R2gtX0JjSlo0LVlLMGYzbHpfQWNQNVJXeks0LVRabkhDMmlnYXIwVGp3VldMd014S3M3T2dCazdNWDR6SzRhVXc0eV9YcU45THhTWDZuUjZXVXExaUZ0d3pLWDE2Z0FsZWZBMmlobUdfU2E1MXI2ZHo1WUFMNXJQV1o5cWJ0aS1ObmZZaHZ3dE9HMlc3UDNK?oc=5
 
-- No breakthrough in crucial talks between Ladakh team, MHA - Times of India
-  No breakthrough in crucial talks between Ladakh team
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYXI2bS1MVjk4dlpQNmVhenJORzRaUjUyVndYRnlaN21ybVE0aTJPdUJtdmRtS2FDNWd6N3pxX2pIamx4SnJPVlN2Unhpekg4Yl9oeW4xcHdGa3RIWURpVXVuYkJNd0tOVGx1X1lhemdKRU8xR05Nc1lCTFI1dTZZbGx3VVMzcFZDVEhLQWlHODA5VzZzYkZXWlNoaUpOTE9HYXJLWm9ncHY4WlNTdjJQbXBwVEhIc1RjSjFJallYVkFad9IBxwFBVV95cUxPR2Y3NFVkcTFIU3pBbGQxczNRYjdweGJRdXE4YUJQc0d2ekg0Qk4zaW0wVktFYjVIcUNKM1BCYWxzZkhOVlFjU0E2YWtrQVVGSTNjSWlvRWp0YWxfWTNxLW1leUlYZXdfejFyMTdvUC1jd2k1N0FSa0VHMldDVWlraTdvazlSWmpISzV4UzFaYVhKVm9SZmtydVZmWHJkQkQ4eDZfZHdjQmhxSndtNjV5ZklKYmc4RFh6bFBkVVktdlI1Um9hbDE4?oc=5
-
-- 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
-  2 British Tourists Get 'Leave India'
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
-
-- India-US Trade Deal LIVE: 'Will Shortly Issue Joint Statement': Piyush Goyal On India-US Trade Deal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbDYycWVlMlF5X2N1UnlSNEloa0otNXhzUXA1MDFEVmVuSmpIVW9uQ0wwRmZFanZSTEN2R2ZQS192VkxhQlZWRS1KV25TM1RJbkFFbUN2Q1plQ05ZT1BmNTIzdWJzeUpuYn
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbDYycWVlMlF5X2N1UnlSNEloa0otNXhzUXA1MDFEVmVuSmpIVW9uQ0wwRmZFanZSTEN2R2ZQS192VkxhQlZWRS1KV25TM1RJbkFFbUN2Q1plQ05ZT1BmNTIzdWJzeUpuYnZJS2xkaWlCYXgwWXN4NHFCSk45VnNmZ3A1Vk1JRmhXOGdvRlJyZldvbE5ubTBGUklzS3NpYVVKX1J6SkxJOE1jTWJqZHMtLWdqcDRoOXZoMHY4dldHSVZhcHA0VDNwVC1ITzhIUjQ0c2I0eDlyZkFSd0JyaExvcGRkWQ?oc=5
-
-- Kashmir BEd colleges face large-scale de-affiliation - Times of India
-  Kashmir BEd colleges
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPSXpycjhGM2oxUU5PLTFBQm1EVTdMU2FGc3BiV1ZrS3Nvc0JpY0VDM1daOVd3VEpRNzNoRWtkei1OazBhYnU4Q2gxZWlRalhCUWV5RXVBT1oyaUFGS1R1LXVncFdRZGtaN1lMdTFjaURsenFfWGR2VlpYNHQxWFVTdnVtWUxVYktPbDdjSVJYb0hVYjNmSFV3YVdwd3ZWMUx3MjFKX0ktZ1U4RTRDUDVYXzZEdnppclVMMjVfTA?oc=5
-
-- Mamata Banerjee In Supreme Court: Political Optics, Implications For Bengal - NDTV
-  Mamata Banerjee's
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmRZTllfbUFXTmNLczc2NU9Ia1hWZW5hWFRQdk9NYk1FYWlRY2VBUml5TEp5dGFyM3R4Y0VzTHVWYzRZT0p2UUNHRmRGWHJYcXE0dkViV1hMSDlHOHI1dGpKR0IwSklwRE9xY2NhWXIwTU93ay1fRENxUmpCSTYyWmRGUU9RbF9wTFJsT3dxY0FFa3lrQ05YNXMybTVvUUhOUXhPbDhrdUp0NWxwNDM1OXZBdTnSAbwBQVVfeXFMUGdLWHV1RjA1ZkhRMVhOLWRveHZYYnZKVHJVY1Q3TmJMUVBLY2dJQkVsdVdhTFZoNWpoX2tqR0ZWNnRtWE9qRzM1ZWdUckhXcWVsWkRLaFUyN2FCY3BDczZGM0pqTGNaNDVYMEY0QkQ3alIyVWJIOWxPR2kzMkt6TjVpOFpaUm9ueURRendQZzJ3M2RDNUo0SWlXMjBXSkZsRUViajBiVkNZVHZQT3R6LThQVVhudFhPY04wMzY?oc=5
-
-- No breakthrough in crucial talks between Ladakh team, MHA - Times of India
-  No breakthrough in crucial talks between Ladakh team
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYXI2bS1MVjk4dlpQNmVhenJORzRaUjUyVndYRnlaN21ybVE0aTJPdUJtdmRtS2FDNWd6N3pxX2pIamx4SnJPVlN2Unhpekg4Yl9oeW4xcHdGa3RIWURpVXVuYkJNd0tOVGx1X1lhemdKRU8xR05Nc1lCTFI1dTZZbGx3VVMzcFZDVEhLQWlHODA5VzZzYkZXWlNoaUpOTE9HYXJLWm9ncHY4WlNTdjJQbXBwVEhIc1RjSjFJallYVkFad9IBxwFBVV95cUxPR2Y3NFVkcTFIU3pBbGQxczNRYjdweGJRdXE4YUJQc0d2ekg0Qk4zaW0wVktFYjVIcUNKM1BCYWxzZkhOVlFjU0E2YWtrQVVGSTNjSWlvRWp0YWxfWTNxLW1leUlYZXdfejFyMTdvUC1jd2k1N0FSa0VHMldDVWlraTdvazlSWmpISzV4UzFaYVhKVm9SZmtydVZmWHJkQkQ4eDZfZHdjQmhxSndtNjV5ZklKYmc4RFh6bFBkVVktdlI1Um9hbDE4?oc=5
+- Upset Over India-US Trade Deal, Punjab Farmers Plan Mega Protest - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OV
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OVM4UTd6QjZLaE9TcEIwcUJnWUFnRHBVQVpIRGtaUWMyWkFIQU8yNHo5X1ViWW42SHlWUkh4Q0htOGthUGEzONIBrwFBVV95cUxQQnNrcjRuYkRlaHdERmEwbWc4QUhQeUdqV2ZrZ3ljSzNTZWJta19nbWdNT29ETTdYSXJ2VVJCOE4yLWZ2OWZRRjdTSV9rR2gtdG5ST2xjeWR5X3dpWjBtSENya0UzYkdKZm45bFJOWHY2d3RXQUo3NFRNRXlhMUFwWE1vc1hzeE1JVlZNSTRhUlFqTEFjTWFtMWNTbGFIbjJya19xSzVDQTA3c0tnSkNr?oc=5
 
 - 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
   2 British Tourists Get 'Leave India'
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
 
-- India-US Trade Deal LIVE: 'Will Shortly Issue Joint Statement': Piyush Goyal On India-US Trade Deal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbDYycWVlMlF5X2N1UnlSNEloa0otNXhzUXA1MDFEVmVuSmpIVW9uQ0wwRmZFanZSTEN2R2ZQS192VkxhQlZWRS1KV25TM1RJbkFFbUN2Q1plQ05ZT1BmNTIzdWJzeUpuYn
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbDYycWVlMlF5X2N1UnlSNEloa0otNXhzUXA1MDFEVmVuSmpIVW9uQ0wwRmZFanZSTEN2R2ZQS192VkxhQlZWRS1KV25TM1RJbkFFbUN2Q1plQ05ZT1BmNTIzdWJzeUpuYnZJS2xkaWlCYXgwWXN4NHFCSk45VnNmZ3A1Vk1JRmhXOGdvRlJyZldvbE5ubTBGUklzS3NpYVVKX1J6SkxJOE1jTWJqZHMtLWdqcDRoOXZoMHY4dldHSVZhcHA0VDNwVC1ITzhIUjQ0c2I0eDlyZkFSd0JyaExvcGRkWQ?oc=5
+- Social media ban for children: Is it possible in India? - BBC
+  Twitter, Facebook and other social
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KWEpwQzV0akJObmo3WWRnYWJKWmpiWjRQQWplODZsaG9xVXZBYUJlNzlGVlpFVWVvUndCZnNTTHZwdGRSVzhadV91TmpiZm13eE5WUTdyN1pMQQ?oc=5
 
-- Kashmir BEd colleges face large-scale de-affiliation - Times of India
-  Kashmir BEd colleges
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPSXpycjhGM2oxUU5PLTFBQm1EVTdMU2FGc3BiV1ZrS3Nvc0JpY0VDM1daOVd3VEpRNzNoRWtkei1OazBhYnU4Q2gxZWlRalhCUWV5RXVBT1oyaUFGS1R1LXVncFdRZGtaN1lMdTFjaURsenFfWGR2VlpYNHQxWFVTdnVtWUxVYktPbDdjSVJYb0hVYjNmSFV3YVdwd3ZWMUx3MjFKX0ktZ1U4RTRDUDVYXzZEdnppclVMMjVfTA?oc=5
+- Union Minister Amit Shah to Launch Bharat Taxi, India’s First Cooperative-Based Ride-Hailing Platform - News On AIR
+  Union Minister Amit Shah to Launch Bharat Taxi, India’
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDN6TnktQ0M3LWliMXZVQjNwQ3NNMVdwR21zUm1Ed28wV0VPQTRqVzJUTVNnLS1kSlhTcE1yUjlQUDJ6Zl9Mek1DcVZzR3NHM0E3QTdqOGRhaU1KLWtlN0lQVkxsT0h6VENNb3d5RndxTU40bW9yeWFKZzktb1V6TC1jdl9LZmQ5QUVKUlNuekU1U3JBMzFob1JzSTdxNUNSakxCSGNMTzIwVEZwN2hyV2oxZl9mT25ZNi1qVmxjSlJCN3FqQndBcw?oc=5
 
-- Mamata Banerjee In Supreme Court: Political Optics, Implications For Bengal - NDTV
-  Mamata Banerjee's
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmRZTllfbUFXTmNLczc2NU9Ia1hWZW5hWFRQdk9NYk1FYWlRY2VBUml5TEp5dGFyM3R4Y0VzTHVWYzRZT0p2UUNHRmRGWHJYcXE0dkViV1hMSDlHOHI1dGpKR0IwSklwRE9xY2NhWXIwTU93ay1fRENxUmpCSTYyWmRGUU9RbF9wTFJsT3dxY0FFa3lrQ05YNXMybTVvUUhOUXhPbDhrdUp0NWxwNDM1OXZBdTnSAbwBQVVfeXFMUGdLWHV1RjA1ZkhRMVhOLWRveHZYYnZKVHJVY1Q3TmJMUVBLY2dJQkVsdVdhTFZoNWpoX2tqR0ZWNnRtWE9qRzM1ZWdUckhXcWVsWkRLaFUyN2FCY3BDczZGM0pqTGNaNDVYMEY0QkQ3alIyVWJIOWxPR2kzMkt6TjVpOFpaUm9ueURRendQZzJ3M2RDNUo0SWlXMjBXSkZsRUViajBiVkNZVHZQT3R6LThQVVhudFhPY04wMzY?oc=5
+- Where’s your respected dad: SC to Choksi Junior - timesofindia.indiatimes.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0RrTTNmQURlNldJNTJ5MS1acURPVFEwS1F4NHhRLTFJNldPVlJRbkQzellMM3REeWdXWk82Qm5RZkxwZ1JrV25kckVkaTllaEVueWFhZlJEM1ZxcGJJMUFXOWtTT2RlR2lyMGhscWI5ZlBySTI0djZMQWZyNnR3dVd4Y3NDeUNLbERYQkJTNlZHN053cGVmU1lxeDJXenZjYzAwa1FoWG5LNkxUREc1aUczVdIBuAFBVV95cUxPN1lDZUdBbW0zOXNQcjVjcWhfcXQ5aFZfc3Q2c29EWm03R2gtX0JjSlo0LVlLMGYzbHpfQWNQNVJXeks0LVRabkhDMmlnYXIwVGp3VldMd014S3M3T2dCazdNWDR6SzRhVXc0eV9YcU45THhTWDZuUjZXVXExaUZ0d3pLWDE2Z0FsZWZBMmlobUdfU2E1MXI2ZHo1WUFMNXJQV1o5cWJ0aS1ObmZZaHZ3dE9HMlc3UDNK?oc=5
 
-- No breakthrough in crucial talks between Ladakh team, MHA - Times of India
-  No breakthrough in crucial talks between Ladakh team
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYXI2bS1MVjk4dlpQNmVhenJORzRaUjUyVndYRnlaN21ybVE0aTJPdUJtdmRtS2FDNWd6N3pxX2pIamx4SnJPVlN2Unhpekg4Yl9oeW4xcHdGa3RIWURpVXVuYkJNd0tOVGx1X1lhemdKRU8xR05Nc1lCTFI1dTZZbGx3VVMzcFZDVEhLQWlHODA5VzZzYkZXWlNoaUpOTE9HYXJLWm9ncHY4WlNTdjJQbXBwVEhIc1RjSjFJallYVkFad9IBxwFBVV95cUxPR2Y3NFVkcTFIU3pBbGQxczNRYjdweGJRdXE4YUJQc0d2ekg0Qk4zaW0wVktFYjVIcUNKM1BCYWxzZkhOVlFjU0E2YWtrQVVGSTNjSWlvRWp0YWxfWTNxLW1leUlYZXdfejFyMTdvUC1jd2k1N0FSa0VHMldDVWlraTdvazlSWmpISzV4UzFaYVhKVm9SZmtydVZmWHJkQkQ4eDZfZHdjQmhxSndtNjV5ZklKYmc4RFh6bFBkVVktdlI1Um9hbDE4?oc=5
+- Upset Over India-US Trade Deal, Punjab Farmers Plan Mega Protest - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OV
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OVM4UTd6QjZLaE9TcEIwcUJnWUFnRHBVQVpIRGtaUWMyWkFIQU8yNHo5X1ViWW42SHlWUkh4Q0htOGthUGEzONIBrwFBVV95cUxQQnNrcjRuYkRlaHdERmEwbWc4QUhQeUdqV2ZrZ3ljSzNTZWJta19nbWdNT29ETTdYSXJ2VVJCOE4yLWZ2OWZRRjdTSV9rR2gtdG5ST2xjeWR5X3dpWjBtSENya0UzYkdKZm45bFJOWHY2d3RXQUo3NFRNRXlhMUFwWE1vc1hzeE1JVlZNSTRhUlFqTEFjTWFtMWNTbGFIbjJya19xSzVDQTA3c0tnSkNr?oc=5
+
+- 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
+  2 British Tourists Get 'Leave India'
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
+
+- Social media ban for children: Is it possible in India? - BBC
+  Twitter, Facebook and other social
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KWEpwQzV0akJObmo3WWRnYWJKWmpiWjRQQWplODZsaG9xVXZBYUJlNzlGVlpFVWVvUndCZnNTTHZwdGRSVzhadV91TmpiZm13eE5WUTdyN1pMQQ?oc=5
+
+- Union Minister Amit Shah to Launch Bharat Taxi, India’s First Cooperative-Based Ride-Hailing Platform - News On AIR
+  Union Minister Amit Shah to Launch Bharat Taxi, India’
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDN6TnktQ0M3LWliMXZVQjNwQ3NNMVdwR21zUm1Ed28wV0VPQTRqVzJUTVNnLS1kSlhTcE1yUjlQUDJ6Zl9Mek1DcVZzR3NHM0E3QTdqOGRhaU1KLWtlN0lQVkxsT0h6VENNb3d5RndxTU40bW9yeWFKZzktb1V6TC1jdl9LZmQ5QUVKUlNuekU1U3JBMzFob1JzSTdxNUNSakxCSGNMTzIwVEZwN2hyV2oxZl9mT25ZNi1qVmxjSlJCN3FqQndBcw?oc=5
+
+- Where’s your respected dad: SC to Choksi Junior - timesofindia.indiatimes.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0RrTTNmQURlNldJNTJ5MS1acURPVFEwS1F4NHhRLTFJNldPVlJRbkQzellMM3REeWdXWk82Qm5RZkxwZ1JrV25kckVkaTllaEVueWFhZlJEM1ZxcGJJMUFXOWtTT2RlR2lyMGhscWI5ZlBySTI0djZMQWZyNnR3dVd4Y3NDeUNLbERYQkJTNlZHN053cGVmU1lxeDJXenZjYzAwa1FoWG5LNkxUREc1aUczVdIBuAFBVV95cUxPN1lDZUdBbW0zOXNQcjVjcWhfcXQ5aFZfc3Q2c29EWm03R2gtX0JjSlo0LVlLMGYzbHpfQWNQNVJXeks0LVRabkhDMmlnYXIwVGp3VldMd014S3M3T2dCazdNWDR6SzRhVXc0eV9YcU45THhTWDZuUjZXVXExaUZ0d3pLWDE2Z0FsZWZBMmlobUdfU2E1MXI2ZHo1WUFMNXJQV1o5cWJ0aS1ObmZZaHZ3dE9HMlc3UDNK?oc=5
+
+- Upset Over India-US Trade Deal, Punjab Farmers Plan Mega Protest - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OV
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OVM4UTd6QjZLaE9TcEIwcUJnWUFnRHBVQVpIRGtaUWMyWkFIQU8yNHo5X1ViWW42SHlWUkh4Q0htOGthUGEzONIBrwFBVV95cUxQQnNrcjRuYkRlaHdERmEwbWc4QUhQeUdqV2ZrZ3ljSzNTZWJta19nbWdNT29ETTdYSXJ2VVJCOE4yLWZ2OWZRRjdTSV9rR2gtdG5ST2xjeWR5X3dpWjBtSENya0UzYkdKZm45bFJOWHY2d3RXQUo3NFRNRXlhMUFwWE1vc1hzeE1JVlZNSTRhUlFqTEFjTWFtMWNTbGFIbjJya19xSzVDQTA3c0tnSkNr?oc=5
+
+- 2 British Tourists Get 'Leave India' Notice Over 'Free Palestine' Stickers - NDTV
+  2 British Tourists Get 'Leave India'
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWUyRDBoVFBHX29DbW5hNm9xeWt5VnEzc3hFRzNtUUpsdjNta2tlUm1kUDJnZG1iVnBycHpqRlRpbmdjbV9GUXBNRW5QVGgxUl9qVHhhNDVZMl9NV0s0ZWFJNm1LTkM0QnlMX0RXdU1CbFZMV2ZQSGs1LUhfb1UxSFlwNFRXWmRjYnh5b2VQTXJleEY1M1F6LUNwX0FHZXp0RXcyb1hvaS1GMUhiQjlhadIBuAFBVV95cUxQSVlNQ2VKUjNZWUV1c3p0UEJzcXFLWUE3d09WbmRNYmZGWlVJZnpGbzVtNFlQc3N0dkoxR005WTdITlc3OVRTUlR0WVBwc094eDlxakFzenpnYnFTeEpqWUp2SnpWb0tpRDlQM3VVY1h3TURyaVFvMnMxd2tMOXJJUk9nZEtrdFR5RW96bm1GbXpGWmpTWncxdXRBNHRYTTVIRFpYQ2ZKbU81bU9xRXgtUVBBcTFWckQy?oc=5
+
+- Social media ban for children: Is it possible in India? - BBC
+  Twitter, Facebook and other social
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KWEpwQzV0akJObmo3WWRnYWJKWmpiWjRQQWplODZsaG9xVXZBYUJlNzlGVlpFVWVvUndCZnNTTHZwdGRSVzhadV91TmpiZm13eE5WUTdyN1pMQQ?oc=5
+
+- Union Minister Amit Shah to Launch Bharat Taxi, India’s First Cooperative-Based Ride-Hailing Platform - News On AIR
+  Union Minister Amit Shah to Launch Bharat Taxi, India’
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDN6TnktQ0M3LWliMXZVQjNwQ3NNMVdwR21zUm1Ed28wV0VPQTRqVzJUTVNnLS1kSlhTcE1yUjlQUDJ6Zl9Mek1DcVZzR3NHM0E3QTdqOGRhaU1KLWtlN0lQVkxsT0h6VENNb3d5RndxTU40bW9yeWFKZzktb1V6TC1jdl9LZmQ5QUVKUlNuekU1U3JBMzFob1JzSTdxNUNSakxCSGNMTzIwVEZwN2hyV2oxZl9mT25ZNi1qVmxjSlJCN3FqQndBcw?oc=5
+
+- Where’s your respected dad: SC to Choksi Junior - timesofindia.indiatimes.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0RrTTNmQURlNldJNTJ5MS1acURPVFEwS1F4NHhRLTFJNldPVlJRbkQzellMM3REeWdXWk82Qm5RZkxwZ1JrV25kckVkaTllaEVueWFhZlJEM1ZxcGJJMUFXOWtTT2RlR2lyMGhscWI5ZlBySTI0djZMQWZyNnR3dVd4Y3NDeUNLbERYQkJTNlZHN053cGVmU1lxeDJXenZjYzAwa1FoWG5LNkxUREc1aUczVdIBuAFBVV95cUxPN1lDZUdBbW0zOXNQcjVjcWhfcXQ5aFZfc3Q2c29EWm03R2gtX0JjSlo0LVlLMGYzbHpfQWNQNVJXeks0LVRabkhDMmlnYXIwVGp3VldMd014S3M3T2dCazdNWDR6SzRhVXc0eV9YcU45THhTWDZuUjZXVXExaUZ0d3pLWDE2Z0FsZWZBMmlobUdfU2E1MXI2ZHo1WUFMNXJQV1o5cWJ0aS1ObmZZaHZ3dE9HMlc3UDNK?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-04 18:44:59 UTC_
+_Last updated: 2026-02-05 01:33:50 UTC_
