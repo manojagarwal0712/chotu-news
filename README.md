@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
-- Train connectivity in Kashmir: Railways prepare DPR for 158 km new lines – check route
+- ‘We must find technological solutions’: Hailing BSF jawans at forward post, Amit Shah cautions about emerging challenges
   
-  🔗 https://indianexpress.com/article/india/train-connectivity-in-kashmir-railways-prepare-dpr-158-km-new-lines-route-10517505/
+  🔗 https://indianexpress.com/article/india/amit-shah-cautions-about-emerging-challenges-hails-bsf-jawans-10518098/
 
-- Parliamentary panel recommends review of ‘Superfast train’ benchmark
+- Tamil Nadu sounds state-wide alert after mass crow deaths: What you need to know about the bird flu scare
   
-  🔗 https://indianexpress.com/article/india/parliamentary-panel-recommends-review-of-superfast-train-benchmark-10517201/
+  🔗 https://indianexpress.com/article/india/tamil-nadu-sounds-state-wide-alert-after-mass-crow-deaths-what-you-need-to-know-about-the-bird-flu-scare-10517389/
 
-- Uttar Pradesh SIR gets fourth extension, final roll to be published in April
+- ‘Stark disappointment’, ‘anti-people’: J&K Opposition slams Omar’s Budget
   
-  🔗 https://indianexpress.com/article/india/up-sir-fourth-extension-final-roll-published-10517239/
+  🔗 https://indianexpress.com/article/india/stark-disappointment-anti-people-jk-opposition-slams-omars-budget-10518003/
 
-- Inside Meghalaya’s rat-hole mines: 18 dead, a race against time, and a disaster long foretold
+- ‘National security not merely safeguarding borders…’: Rajnath Singh on importance of protecting ‘cultural foundations’
   
-  🔗 https://indianexpress.com/article/india/meghalaya-rat-hole-mines-death-disaster-long-foretold-10517147/
+  🔗 https://indianexpress.com/article/india/rajnath-singh-talks-importance-of-protecting-nations-cultural-foundations-10517971/
 
-- 3 year after it was notified to offset Panna deforestation, NBWL panel approves irrigation project on 272 ha in Durgavati tiger reserve
+- Future-ready push: Odisha to skill 7,000 youths in AI-driven finance
   
-  🔗 https://indianexpress.com/article/india/nbwl-panel-approves-irrigation-durgavati-tiger-reserve-10516994/
+  🔗 https://indianexpress.com/article/india/future-ready-push-odisha-to-skill-7000-youths-in-ai-driven-finance-10517940/
 
-- Samsung’s Galaxy A07 5G debuts in India with massive battery and 6-year update promise
+- ‘Built by human hands’: Rockstar rules out generative AI for GTA 6
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsungs-galaxy-a07-5g-debuts-in-india-with-massive-battery-and-6-year-update-promise-10517660/
+  🔗 https://indianexpress.com/article/technology/gaming/built-by-human-hands-rockstar-rules-out-generative-ai-for-gta-6-10517949/
 
-- Fresh leaks outline iPhone 17e, iPad 12 upgrades ahead of possible February reveal
+- ‘Not developing a phone’: Elon Musk shuts down reports of SpaceX Starlink device
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/leaks-outline-iphone-17e-ipad-12-upgrades-ahead-of-february-reveal-10517249/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/elon-musk-not-developing-a-phone-spacex-starlink-10517810/
 
-- One link, total control: How screen-sharing scams are looting Indians
+- Bendable AI chip could transform future wearable technology
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/one-link-total-control-how-screen-sharing-scams-are-looting-indians-10517253/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/bendable-ai-chip-could-transform-future-wearable-technology-10517829/
 
-- Asus announces six new Zenbook and Vivobook laptops, prices start at Rs 62,990
+- Pricier iPhones? Global memory chip crunch puts spotlight on Apple
   
-  🔗 https://indianexpress.com/article/technology/laptops/asus-zenbook-vivobook-laptops-rs-62990-10517084/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/pricier-iphones-global-memory-chip-crunch-puts-spotlight-on-apple-10517706/
 
-- OpenAI counters Anthropic Claude Opus 4.6 with GPT-5.3 Codex, its most advanced coding agent
+- New AI method helps identify which dinosaur made which footprints
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-counters-anthropic-claude-opus-4-6-with-gpt-5-3-codex-its-most-advanced-coding-agent-10516681/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/new-ai-method-helps-identify-which-dinosaur-made-which-footprints-10517705/
 
-- Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
-  Bangladesh Rushes For 'Secret'
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
+- NSE formally approves IPO in first step towards its long-delayed public markets debut
+  NSE formally approved its IPO and cleared the formation of an IPO committee to oversee and execute the listing process. Such a panel is mandatory for
+  🔗 https://www.livemint.com/companies/news/nse-formally-approves-ipo-first-step-towards-its-long-delayed-public-markets-debut-ipo-11770388276771.html
 
-- Upset Over India-US Trade Deal, Punjab Farmers Plan Mega Protest - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OV
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OVM4UTd6QjZLaE9TcEIwcUJnWUFnRHBVQVpIRGtaUWMyWkFIQU8yNHo5X1ViWW42SHlWUkh4Q0htOGthUGEzONIBrwFBVV95cUxQQnNrcjRuYkRlaHdERmEwbWc4QUhQeUdqV2ZrZ3ljSzNTZWJta19nbWdNT29ETTdYSXJ2VVJCOE4yLWZ2OWZRRjdTSV9rR2gtdG5ST2xjeWR5X3dpWjBtSENya0UzYkdKZm45bFJOWHY2d3RXQUo3NFRNRXlhMUFwWE1vc1hzeE1JVlZNSTRhUlFqTEFjTWFtMWNTbGFIbjJya19xSzVDQTA3c0tnSkNr?oc=5
+- Premium, electric, and global: New CEO charts triple-engine drive for Hero Moto
+  CEO Harshavardhan Chitale has listed the areas where he plans to focus to drive growth for
+  🔗 https://www.livemint.com/companies/people/hero-motocorp-new-ceo-harshavardhan-chitale-lays-down-priorities-for-two-wheeler-giant-11770382837298.html
 
-- Capgemini India has 2.3 lakh employees, 55% of global workforce - Times of India
-  Capgemini India has 2.3 lakh employees
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaEFWNV8tajJSOEU0ODkyckdZbTJobzdIYUZkUGJGZmtfUzJLdkprVVZRYzg2dzd3TmtpVU1MZ1l5bmJQX24zNmd1ZjZsN0xxX2M4SXFkVGFiWDdXWS1kLXFLdElORHhYZVVicEJONndfUlBFTDBWX293c2RKbWNPNnMxcUhpU0F3MWcxaHZzV1VqUy1uUlI1TmFVY0JxZTE5azR1MlUtcjBPaFU4Slg0aE1kejEtVktRTTVHZUpraHZoY0pra0s2U3JQWXFMM2tjQTlWZ1JtMm4yY09a0gHiAUFVX3lxTE9aOGdQTVlyRFZ5eU54YjF2OUJOZkVhX2Vud2UxaDRQdGc4dGRzczREcWZCTFlVTm9xNXBsQWZTbVgwcnZaN183QUZDVEFXLVBWME53WVJCRHpxV1U1VElyZUNwRmwwRDI5aXlMSzlIci0xNG0xcWFUekpNNWJKWUZkTkxFOHd6UWtOaVZUbEVnMWMwMTBiM2hrTGstZDFKM0MzUmV2VF9xT1lXemJteVhYaHd3aWRzYlE4VmswRXhWTVZGdDNPSmtNVDVqRmJSR3Q3b05sRzM1Q0ltd1Ytem9SWWc?oc=5
+- Tech giants offer up to $600,000 to promote AI, but many creators are unconvinced — here's why
+  Microsoft and Google are paying influencers to promote their AI products. Some creators refuse deals due to ethical concerns and audience backlash.
+  🔗 https://www.livemint.com/companies/news/tech-giants-offer-as-much-as-600-000-to-promote-ai-but-some-creators-remain-unconvinced-heres-why-11770384060185.html
 
-- India records highest-ever monthly P&K fertilizer output at 15.76 LMT in January - ddnews.gov.in
-  India records highest-ever monthly P&amp;
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUZyUjJnTjZOQjd5cEoyTDFseUJfejBNaEVpdURuTlItQzFQb2pJMHJKTjlYSE8zQndlNlZFQnVhYkxuLU84QkRBTUdkcEJLN3hVQVo5V01na0NYajk1WW1JcEQtMVNPcTdVOWdWa3IzdU5uOE00Yml6SkJHLXpLdlV5S2JkY2N6UDd4OW5tTWNLbXlYN1M5bVdFdU93dGEzWDdJb1RrQWg?oc=5
+- PFC board approves bringing REC into its fold
+  Finance minister Nirmala Sitharaman had said the restructuring of PFC and REC is the initial step towards
+  🔗 https://www.livemint.com/companies/news/pfc-rec-merger-power-finance-india-energy-transition-nbfc-efficiency-11770382836316.html
 
-- 'New Phase In Bilateral Ties': Indian High Commissioner Hails PM Modi's 'Historic' Malaysia Visit - Times of India
-  'New Phase In Bilateral Ties': Indian High Commissioner Hails
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbWdoSmdqdEdEaXYtVnZqLXVuTU1kSjk0OENEcDkwYS14NFoybzNSVVM2bkliNmtTZTZ2STRUOEhTa1BzdU1wUGViUzlCNnY2SEVrbXN1aUZnR2Z4NGhuaEFqLWFDUjJ0NkxsVm9lTUdVX0phc0JZci1ZQmxLbnBfWEZ5QVhGRV90NWtnWFQzbWhkZzZZZzg3Wkp2aU1FVmZnSEZfUXZCaFNwYnpGcHNOU3B2QWF4ZmE0V2I4WDdORmo1bWtLaElJMjIxQTA3bXpkUEVXdEZUWFEtQzRTalFPbUpDZWJlcjdyUW5VNGd0RWZmTWZDdnfSAfsBQVVfeXFMT0RZa2RlR0NJelBsWFp6dUNyOUVRWENGakNtRU1iZ3hUcGg1LVhjdjV5Vmg2TEpFWGNBSW1BS19OSDFRN0c1LUtDX1NIa1ZabVlQaU83VjNnNHE1WkJ4R2FnQnByUVlTZVpERVJablFDSkxKLVRfT2VPSzZjWWtuSGhPWm9XTFlEek1ZUXNBcGI0YVVrSTQweV9QYUVrLU9lX1dEc2o1QlFpX1R0Nm52dV9iS19peVhZRjJWTklqR0EydUNHVHE3S2ozMkpCa1RjcFM0amc2SVYydDc5N2NGMFM4SXFremVyMWV5aVA2QTJQQi1STVBjbWJnM2c?oc=5
+- Why PhysicsWallah is betting on schools to fix what coaching can’t
+   PhysicsWallah is pushing into K–12, arguing that earlier intervention will deliver
+  🔗 https://www.livemint.com/companies/news/why-physicswallah-is-betting-on-schools-to-fix-what-coaching-cant-11770380801152.html
 
-- GMM Pfaudler Q3 Results: Company slips into loss on one-time labour charge, revenue up 10% YoY
-  GermM Pfaudler reported a net loss of  ₹8 crore for the December quarter. Revenue rose 10% to  � ¹883.50 crore
-  🔗 https://www.livemint.com/market/stock-market-news/gmm-pfaudler-q3-results-company-slips-into-loss-on-one-time-labour-charge-revenue-up-10-yoy-11770378643712.html
+- Small-cap stock under  ₹50, Sampre Nutritions jumps 5% after this capex update
+  Sampre Nutritions stock rose by 5% following
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-sampre-nutritions-jumps-5-after-this-capex-update-11770397249677.html
 
-- Fractal Analytics IPO opens on February 9. GMP, issue details, 10 key things to know
-  Fractal Analytics IPO opens for subscription on February 9. The issue, valued at  ₹2,834 crore, aims to support
-  🔗 https://www.livemint.com/market/ipo/fractal-analytics-ipo-fractal-analytics-ipo-gmp-fractal-analytics-ipo-date-fractal-analytics-ipo-details-fractal-ipo-11770372569670.html
+- Boeing shares climb on reports of talks for historic jet deal with Saudi Arabia's Saudia
+  Saudia is in early-stage talks with the two aviation giants
+  🔗 https://www.livemint.com/market/stock-market-news/boeing-shares-climb-on-reports-of-talks-for-historic-jet-deal-with-saudi-arabias-saudia-11770397832494.html
 
-- Tata Steel Q3 Results: Net profit rises over 8x to  ₹2,688.70 crore, revenue up 6%
-  Tata Steel reported a consolidated net profit of  ₹2,688.70 crore for Q3
-  🔗 https://www.livemint.com/market/stock-market-news/tata-steel-q3-results-net-profit-rises-over-8x-to-rs-2-688-70-crore-revenue-also-rises-11770376427328.html
+- Investors turn to ‘AI-resistant’ sectors as disruption fears drag software stocks down
+  As technology stocks decline, investors are shifting focus to AI-resistant sectors.
+  🔗 https://www.livemint.com/market/stock-market-news/investors-turn-to-ai-resistant-sectors-as-disruption-fears-drag-software-stocks-down-11770393685709.html
 
-- PFC announces merger with REC, to acquire 52.63% of government's holding in firm
-  The move aligns with the Union Budget's focus on enhancing credit distribution and technology in NBFCs. Power Finance Corporation Ltd has acquired 52.63% of REC Limited's shares
-  🔗 https://www.livemint.com/market/stock-market-news/power-finance-buys-52-63-government-stake-in-rec-11770376463958.html
+- Fractal Analytics IPO: AI firm raises  ₹1,248 crore ahead of public issue. Check details
+  Fractal Analytics Limited raised  ₹1,248.26
+  🔗 https://www.livemint.com/market/ipo/fractal-analytics-ipo-ai-firm-raises-rs-1-248-crore-ahead-of-public-issue-check-details-11770394951070.html
 
-- Stellantis shares crash 24% after announcement of $26 billion EV-linked charges. Here's what CEO Antonio Filosa said
-  Stellantis NV's shares fell 24% after announcing €22 billion in charges to revise its electric vehicle strategy. CEO Antonio Filosa pointed to
-  🔗 https://www.livemint.com/market/stock-market-news/stellantis-shares-crash-24-after-announcement-of-26-billion-ev-linked-charges-heres-what-ceo-antonio-filosa-said-11770372579208.html
+- Amazon shares crash 10% to 8-month low amid investor concerns over massive AI spending
+  Amazon shares fell sharply on 6 February after mixed Q4 earnings and a $200 billion spending forecast for 2026. The stock hit an intraday low of $200.30,
+  🔗 https://www.livemint.com/market/stock-market-news/amazon-shares-crash-10-to-8-month-low-amid-investor-concerns-over-massive-ai-spending-11770389990224.html
+
+- Big Techs quarter in four charts: AI splurge and cloud growth
+  Big Tech's quarter in four
+  🔗 https://www.livemint.com/technology/big-techs-quarter-in-four-charts-ai-splurge-and-cloud-growth-11770397718159.html
+
+- Security concerns and skepticism are bursting the bubble of Moltbook, the viral AI social forum
+  Security concerns and skepticism are bursting the bubble of M
+  🔗 https://www.livemint.com/technology/security-concerns-and-skepticism-are-bursting-the-bubble-of-moltbook-the-viral-ai-social-forum-11770385661877.html
+
+- EU accuses TikTok of addictive design that harms children, seeks changes to protect users
+  EU accuses TikTok of 'addictive design
+  🔗 https://www.livemint.com/technology/eu-accuses-tiktok-of-addictive-design-that-harms-children-seeks-changes-to-protect-users-11770383596546.html
+
+- iPhone 17 Pro price cut: Vijay Sales announces limited-time deal on Apple flagship
+  Vijay Sales is offering Valentine's Day deals on various Apple products. iPhones starting at  ₹50,390 and iPhone Air at
+  🔗 https://www.livemint.com/technology/gadgets/iphone-17-pro-price-cut-vijay-sales-announces-limited-time-deal-on-apple-flagship-11770357223153.html
 
 - '15-20% probability': Anthropic reveals new Claude model claims it could be conscious
   Anthropic's new AI model, Claude Opus 4.6, claims that there is a 15-20% chance of it being conscious. The revelation came during
   🔗 https://www.livemint.com/technology/tech-news/1520-probability-anthropic-reveals-new-claude-model-claims-it-could-be-conscious-11770368334773.html
 
-- Sridhar Vembu advises coders to find alternative careers amid AI boom: 'I don't say this in panic…'
-  Sridhar Vembu of Zoho advises coders to seek alternative careers as AI technology advances. He was replying to a post by a user on social media who
-  🔗 https://www.livemint.com/technology/tech-news/sridhar-vembu-advises-coders-to-find-alternative-careers-amid-ai-boom-i-dont-say-this-in-panic-11770369948561.html
+- NSE board approves IPO via OFS, reconstitutes committee to oversee listing
+  The National Stock Exchange (NSE) has approved the launch of an offer-for-sale. The decision comes shortly after the regulator granted a no-objection certificate.
+  🔗 https://www.business-standard.com/markets/ipo/nse-board-approves-ipo-via-ofs-reconstitutes-committee-to-oversee-listing-126020601880_1.html
 
-- iPhone 18 Pro Max leak: Apple eyes its biggest-ever battery, but it's half the size of Chinese flagships
-  The upcoming iPhone 18 Pro Max is rumored to come with an over 5,000mAh battery capacity. Meanwhile, Chinese phones have constantly been improving their battery capacities
-  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-max-leak-apple-eyes-its-biggest-ever-battery-but-its-half-the-size-of-chinese-flagships-11770361577787.html
+- Worst week in 4 months: Claude casts a long shadow over Indian IT stocks
+  Indian IT stocks recorded their worst weekly performance in four months, losing over
+  🔗 https://www.business-standard.com/markets/news/it-stocks-worst-week-four-months-anthropic-ai-fears-126020601881_1.html
 
-- Big Tech to Spend $650 Billion This Year as AI Race Intensifies
-  Four of the biggest US technology companies forecast capital expenditures that will reach about $650 billion in 2026. The cash is earmarked for new data centers and the long list of equipment needed to make them tick.
-  🔗 https://www.livemint.com/technology/big-tech-to-spend-650-billion-this-year-as-ai-race-intensifies-11770364786168.html
+- Rupee posts best weekly gain in over three years after US trade deal
+  The rupee recorded its strongest weekly performance in more than three years after the India-US trade deal announcement.
+  🔗 https://www.business-standard.com/markets/news/rupee-best-week-three-years-trade-deal-us-126020601857_1.html
 
-- iPhone 17e leaks: C1x chip and MagSafe support confirmed, February release date tipped
-  Apple is rumored to launch the affordable iPhone 17e on 19 February 2026. The phone may feature support for Magsafe charging while pakcing
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17e-leaks-c1x-chip-and-magsafe-support-confirmed-february-release-expected-11770358586297.html
+- Titan completes acquisition of 67% stake in Damas Jewellery business
+  Titan Company announced that Titan Holdings International FZCO, UAE has completed the acquisition of the Damas Jewellery business in the GCC countries.
+  🔗 https://www.business-standard.com/markets/capital-market-news/titan-completes-acquisition-of-67-stake-in-damas-jewellery-business-126020601798_1.html
 
-- Mercantile Ventures standalone net profit rises 41.18% in the December 2025 quarter
-  Sales rise
-  🔗 https://www.business-standard.com/markets/capital-market-news/mercantile-ventures-standalone-net-profit-rises-41-18-in-the-december-2025-quarter-126020601623_1.html
-
-- Jana Small Finance Bank standalone net profit declines 91.24% in the December 2025 quarter
-  Total Operating Income rise
-  🔗 https://www.business-standard.com/markets/capital-market-news/jana-small-finance-bank-standalone-net-profit-declines-91-24-in-the-december-2025-quarter-126020601620_1.html
-
-- Ravikumar Distilleries reports standalone net profit of Rs 0.02 crore in the December 2025 quarter
-  Sales decline
-  🔗 https://www.business-standard.com/markets/capital-market-news/ravikumar-distilleries-reports-standalone-net-profit-of-rs-0-02-crore-in-the-december-2025-quarter-126020601619_1.html
-
-- Jain Marmo Industries reports standalone nil net profit/loss in the December 2025 quarter
-  Sales decline
-  🔗 https://www.business-standard.com/markets/capital-market-news/jain-marmo-industries-reports-standalone-nil-net-profit-loss-in-the-december-2025-quarter-126020601618_1.html
-
-- Transglobe Foods reports standalone net loss of Rs 0.07 crore in the December 2025 quarter
+- Board of Power Finance Corporation accords in-principle approval for merger with REC
   
-  🔗 https://www.business-standard.com/markets/capital-market-news/transglobe-foods-reports-standalone-net-loss-of-rs-0-07-crore-in-the-december-2025-quarter-126020601617_1.html
+  🔗 https://www.business-standard.com/markets/capital-market-news/board-of-power-finance-corporation-accords-in-principle-approval-for-merger-with-rec-126020601796_1.html
 
-- InCred Holdings, Aarvee Engineering among 8 IPOs approved by Sebi
-  Sebi has approved eight IPOs across financial services, infrastructure, engineering, education and manufacturing. InCred Holdings leads the pipeline, alongside offerings from engineering, IT,
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/incred-holdings-aarvee-engineering-among-8-ipos-approved-by-sebi/articleshow/127989775.cms
+- Dish TV India sinks deeper into losses in Q3 as subscription revenues continue to slide
+  Dish TV reported a net loss of approximately Rs 276 crore for Q3 FY26. This is sharply higher than the loss of around Rs 47 crore reported in the same quarter last year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/dish-tv-india-sinks-deeper-into-losses-in-q3-as-subscription-revenues-continue-to-slide/articleshow/128000534.cms
 
-- NSE Q3 Results: Profit falls 37% YoY to Rs 2,408 crore
-  Leading exchange NSE reported a 37% year-on-year (YoY) slump in its consolidated net profit at Rs 2,408 crore
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/nse-q3-results-profit-falls-37-yoy-to-rs-2408-crore/articleshow/127989825.cms
+- Cboe Q4 Results: Co beats profit estimates on options trading boom
+  Cboe is focusing on growth areas like prediction markets and crypto. The exchange is also streamlining operations by exiting businesses in Australia and Canada.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/cboe-q4-results-co-beats-profit-estimates-on-options-trading-boom/articleshow/127999781.cms
 
-- Gainers &amp; Losers: LIC, Godfrey Phillips among 6 stocks that hogged limelight on Friday
-  Indian markets closed higher as buying in consumer and private banks offset losses in auto, IT and pharma. Stock-specific moves in B
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-lic-godfrey-phillips-among-6-stocks-that-hogged-limelight-on-friday/slideshow/127988527.cms
+- Fractal Analytics raises Rs 1,249 crore from anchor investors ahead of IPO; Morgan Stanley, Goldman Sachs among key backers
+  Fractal Analytics raised Rs 1,249 crore from 52 anchor investors at Rs 900 per share. Strong domestic and global institutional demand signals confidence in the AI analytics firm.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/fractal-analytics-raises-rs-1249-crore-from-anchor-investors-ahead-of-ipo-morgan-stanley-goldman-sachs-among-key-backers/articleshow/127998414.cms
 
-- Anand Rathi reports Rs 13 crore fraud by unknown individuals, group company employees
-  Anand Rathi Share and Stock Brokers on Friday informed the exchanges that its Internal Inquiry Committee has discovered a Rs 13 crore fraud. The brokerage said that the crime has been committed by certain unknown individuals in conniv
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/anand-rathi-reports-rs-13-crore-fraud-by-unknown-individuals-group-company-employees/articleshow/127988192.cms
+- Tata Steel Q3 profit soars 9-fold YoY to Rs 2,730 crore on Dutch unit boost
+  Tata Steel’s consolidated net profit surged more than ninefold from a year earlier in the December quarter. A sharp improvement in profitability at its Dutch unit and steady operations
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-steel-q3-profit-soars-9-fold-yoy-to-rs-2730-crore-on-dutch-unit-boost/articleshow/127998129.cms
 
-- Tata Steel Q3 Results: Cons PAT soars 723% YoY to Rs 2,689 crore, revenue up 6%
-  Tata Steel reported a 723% jump in its December quarter consolidated net profit at Rs 2,689 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-steel-q3-results-cons-pat-soars-723-yoy-to-rs-2689-crore-revenue-up-6/articleshow/127987093.cms
-
-- Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
-  Bangladesh Rushes For 'Secret'
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
-
-- Upset Over India-US Trade Deal, Punjab Farmers Plan Mega Protest - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OV
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OVM4UTd6QjZLaE9TcEIwcUJnWUFnRHBVQVpIRGtaUWMyWkFIQU8yNHo5X1ViWW42SHlWUkh4Q0htOGthUGEzONIBrwFBVV95cUxQQnNrcjRuYkRlaHdERmEwbWc4QUhQeUdqV2ZrZ3ljSzNTZWJta19nbWdNT29ETTdYSXJ2VVJCOE4yLWZ2OWZRRjdTSV9rR2gtdG5ST2xjeWR5X3dpWjBtSENya0UzYkdKZm45bFJOWHY2d3RXQUo3NFRNRXlhMUFwWE1vc1hzeE1JVlZNSTRhUlFqTEFjTWFtMWNTbGFIbjJya19xSzVDQTA3c0tnSkNr?oc=5
-
-- Capgemini India has 2.3 lakh employees, 55% of global workforce - Times of India
-  Capgemini India has 2.3 lakh employees
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaEFWNV8tajJSOEU0ODkyckdZbTJobzdIYUZkUGJGZmtfUzJLdkprVVZRYzg2dzd3TmtpVU1MZ1l5bmJQX24zNmd1ZjZsN0xxX2M4SXFkVGFiWDdXWS1kLXFLdElORHhYZVVicEJONndfUlBFTDBWX293c2RKbWNPNnMxcUhpU0F3MWcxaHZzV1VqUy1uUlI1TmFVY0JxZTE5azR1MlUtcjBPaFU4Slg0aE1kejEtVktRTTVHZUpraHZoY0pra0s2U3JQWXFMM2tjQTlWZ1JtMm4yY09a0gHiAUFVX3lxTE9aOGdQTVlyRFZ5eU54YjF2OUJOZkVhX2Vud2UxaDRQdGc4dGRzczREcWZCTFlVTm9xNXBsQWZTbVgwcnZaN183QUZDVEFXLVBWME53WVJCRHpxV1U1VElyZUNwRmwwRDI5aXlMSzlIci0xNG0xcWFUekpNNWJKWUZkTkxFOHd6UWtOaVZUbEVnMWMwMTBiM2hrTGstZDFKM0MzUmV2VF9xT1lXemJteVhYaHd3aWRzYlE4VmswRXhWTVZGdDNPSmtNVDVqRmJSR3Q3b05sRzM1Q0ltd1Ytem9SWWc?oc=5
-
-- India records highest-ever monthly P&K fertilizer output at 15.76 LMT in January - ddnews.gov.in
-  India records highest-ever monthly P&amp;
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUZyUjJnTjZOQjd5cEoyTDFseUJfejBNaEVpdURuTlItQzFQb2pJMHJKTjlYSE8zQndlNlZFQnVhYkxuLU84QkRBTUdkcEJLN3hVQVo5V01na0NYajk1WW1JcEQtMVNPcTdVOWdWa3IzdU5uOE00Yml6SkJHLXpLdlV5S2JkY2N6UDd4OW5tTWNLbXlYN1M5bVdFdU93dGEzWDdJb1RrQWg?oc=5
-
-- 'New Phase In Bilateral Ties': Indian High Commissioner Hails PM Modi's 'Historic' Malaysia Visit - Times of India
-  'New Phase In Bilateral Ties': Indian High Commissioner Hails
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbWdoSmdqdEdEaXYtVnZqLXVuTU1kSjk0OENEcDkwYS14NFoybzNSVVM2bkliNmtTZTZ2STRUOEhTa1BzdU1wUGViUzlCNnY2SEVrbXN1aUZnR2Z4NGhuaEFqLWFDUjJ0NkxsVm9lTUdVX0phc0JZci1ZQmxLbnBfWEZ5QVhGRV90NWtnWFQzbWhkZzZZZzg3Wkp2aU1FVmZnSEZfUXZCaFNwYnpGcHNOU3B2QWF4ZmE0V2I4WDdORmo1bWtLaElJMjIxQTA3bXpkUEVXdEZUWFEtQzRTalFPbUpDZWJlcjdyUW5VNGd0RWZmTWZDdnfSAfsBQVVfeXFMT0RZa2RlR0NJelBsWFp6dUNyOUVRWENGakNtRU1iZ3hUcGg1LVhjdjV5Vmg2TEpFWGNBSW1BS19OSDFRN0c1LUtDX1NIa1ZabVlQaU83VjNnNHE1WkJ4R2FnQnByUVlTZVpERVJablFDSkxKLVRfT2VPSzZjWWtuSGhPWm9XTFlEek1ZUXNBcGI0YVVrSTQweV9QYUVrLU9lX1dEc2o1QlFpX1R0Nm52dV9iS19peVhZRjJWTklqR0EydUNHVHE3S2ozMkpCa1RjcFM0amc2SVYydDc5N2NGMFM4SXFremVyMWV5aVA2QTJQQi1STVBjbWJnM2c?oc=5
+- Shree Cement Q3 Results: Cons PAT surges 38% YoY  to Rs 268 crore
+  Sales volumes were adversely impacted during the quarter due to loss of production at Baloda Bazar, Chhattisgar
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/shree-cement-q3-results-cons-pat-surges-38-yoy-to-rs-268-crore/articleshow/127997748.cms
 
 - Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
-  Bangladesh Rushes For 'Secret'
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
 
-- Upset Over India-US Trade Deal, Punjab Farmers Plan Mega Protest - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OV
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OVM4UTd6QjZLaE9TcEIwcUJnWUFnRHBVQVpIRGtaUWMyWkFIQU8yNHo5X1ViWW42SHlWUkh4Q0htOGthUGEzONIBrwFBVV95cUxQQnNrcjRuYkRlaHdERmEwbWc4QUhQeUdqV2ZrZ3ljSzNTZWJta19nbWdNT29ETTdYSXJ2VVJCOE4yLWZ2OWZRRjdTSV9rR2gtdG5ST2xjeWR5X3dpWjBtSENya0UzYkdKZm45bFJOWHY2d3RXQUo3NFRNRXlhMUFwWE1vc1hzeE1JVlZNSTRhUlFqTEFjTWFtMWNTbGFIbjJya19xSzVDQTA3c0tnSkNr?oc=5
+- 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - The Times of India
+  'Deluding itself': MEA after Pakistan blames India for blast at Islamabad
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXZ0VUpzdjNjRkQ3SlRoRkZRdGd4OTdFZ3Z0bFFpRlVsWXl1OG1rVWNHc2xxRzNaUVZPMXlUUS1nMlV5c094bk1VVXJ6TXZabGFLLW9tbVg3bG9TeWFCVW9NOFhnaHl5VDBKX2g4RXA0MjBWOFdEVXF6WGhPMDhQNUF6cVF4ZFZYTTFqeS1Ga0h3QTNEQVkxc21EZC1DZDVNWjRQNHRtbDl4ZVAxRnF5MVNCM0Q0YXZwRjRjNXk2aVV2cmtxdW04dFRwNHhOTVNvNkZuVE1lN0hTdGkzRkRvNmRRM29QaUpySjNDbzRR0gHzAUFVX3lxTE9PcmRlTWJlLUQyVmVwS3FJZmMtRVFfXzdNNmFDQmRYT1pUSDRWU1NRZnZxSXVaYW9JS2NqVllqYlc1RUtaUFhMVXpuOTlVMjlERU5FZ1R5c3p5aDFVQ3Q3YlE3bW96cWdlclJSd2JONzZOOTRIdlRzY2I1dURMQThoa1Axb3RHR18zUlctVHQ3NmoyNzg4WURXNzRraHZoVHRlNGlmei1mZllacnJETndrbnRvSkllcTJDZ3prZk1PMmV2VS16UlV2NlBFLWpraFdzQnh4M3dIN055RXNBSjhtdXpGNGtnWWZzbk5HclhHREdpZw?oc=5
 
-- Capgemini India has 2.3 lakh employees, 55% of global workforce - Times of India
-  Capgemini India has 2.3 lakh employees
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaEFWNV8tajJSOEU0ODkyckdZbTJobzdIYUZkUGJGZmtfUzJLdkprVVZRYzg2dzd3TmtpVU1MZ1l5bmJQX24zNmd1ZjZsN0xxX2M4SXFkVGFiWDdXWS1kLXFLdElORHhYZVVicEJONndfUlBFTDBWX293c2RKbWNPNnMxcUhpU0F3MWcxaHZzV1VqUy1uUlI1TmFVY0JxZTE5azR1MlUtcjBPaFU4Slg0aE1kejEtVktRTTVHZUpraHZoY0pra0s2U3JQWXFMM2tjQTlWZ1JtMm4yY09a0gHiAUFVX3lxTE9aOGdQTVlyRFZ5eU54YjF2OUJOZkVhX2Vud2UxaDRQdGc4dGRzczREcWZCTFlVTm9xNXBsQWZTbVgwcnZaN183QUZDVEFXLVBWME53WVJCRHpxV1U1VElyZUNwRmwwRDI5aXlMSzlIci0xNG0xcWFUekpNNWJKWUZkTkxFOHd6UWtOaVZUbEVnMWMwMTBiM2hrTGstZDFKM0MzUmV2VF9xT1lXemJteVhYaHd3aWRzYlE4VmswRXhWTVZGdDNPSmtNVDVqRmJSR3Q3b05sRzM1Q0ltd1Ytem9SWWc?oc=5
+- 'We Were Preparing For War': Former DGMO Reveals Inside Story Of India-China Doklam Stand-Off - The Times of India
+  'We Were Preparing For War': Former DGMO Reveals Inside Story
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxORTlQYm9YVnBFVV80b1NjMWR2YTlkcHExRkRxcFpJZTZUcks4T2FaZVF3WEpkcWlGM0JKUlZwb0JfaWtLUUJyRnZlVEEzYVphcUFsZGRFX3NEZUFvYmVfTllQT2JnNkZCSjVYY3RSOEhNOEJraTZzZmtVNEJLeHl2clNyZU5UUDR4Qm5GZXk1RU9pVE5QUWZuRFAzTVk2V2VjWUYtZnNiOXB2OFFtT1JiZkNmb1hBTkZLei1DMnI0UmZhWnRxakc4dnczWG9lVkI4ZVVjaVBoUWdfR3ZpRTN4ejNBcUs1MFVrRjU0bnltTzVaZGtU0gH6AUFVX3lxTFBTWXZ2LW8tbW5mWU5nU01DR3hTc1cwcXc4Y1MyT09aNFpyTVpZYkQ0bzdXWU82U0xCZ3RKV3JzZDBTNnJ1aXJLeUdUMVpUQTNRSWliM2RqN3ZfSmlocGtSUGt4bGZDOV9sSkFRbmNoZ3Q0YVk5bklrMEZKX2t0cXZ1TjhGU1d0U1RqaTQ0RVBGVlJ1a3E5bFBtVDBQQ1pweHpOeHBkNjBLNUJ6YUdWRE8ySjlJV191OGRMb0wwbFdDaTQwRUZ6UDVZdGlFR213YjNiYjJLNm5CSDB1TWcxOXRxX3FkRFhqV1U1ZGNCNEladDRrRlNuUmlQYVE?oc=5
 
-- India records highest-ever monthly P&K fertilizer output at 15.76 LMT in January - ddnews.gov.in
-  India records highest-ever monthly P&amp;
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUZyUjJnTjZOQjd5cEoyTDFseUJfejBNaEVpdURuTlItQzFQb2pJMHJKTjlYSE8zQndlNlZFQnVhYkxuLU84QkRBTUdkcEJLN3hVQVo5V01na0NYajk1WW1JcEQtMVNPcTdVOWdWa3IzdU5uOE00Yml6SkJHLXpLdlV5S2JkY2N6UDd4OW5tTWNLbXlYN1M5bVdFdU93dGEzWDdJb1RrQWg?oc=5
+- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
+  India coal mine blast leaves 18 dead, others
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
 
-- 'New Phase In Bilateral Ties': Indian High Commissioner Hails PM Modi's 'Historic' Malaysia Visit - Times of India
-  'New Phase In Bilateral Ties': Indian High Commissioner Hails
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbWdoSmdqdEdEaXYtVnZqLXVuTU1kSjk0OENEcDkwYS14NFoybzNSVVM2bkliNmtTZTZ2STRUOEhTa1BzdU1wUGViUzlCNnY2SEVrbXN1aUZnR2Z4NGhuaEFqLWFDUjJ0NkxsVm9lTUdVX0phc0JZci1ZQmxLbnBfWEZ5QVhGRV90NWtnWFQzbWhkZzZZZzg3Wkp2aU1FVmZnSEZfUXZCaFNwYnpGcHNOU3B2QWF4ZmE0V2I4WDdORmo1bWtLaElJMjIxQTA3bXpkUEVXdEZUWFEtQzRTalFPbUpDZWJlcjdyUW5VNGd0RWZmTWZDdnfSAfsBQVVfeXFMT0RZa2RlR0NJelBsWFp6dUNyOUVRWENGakNtRU1iZ3hUcGg1LVhjdjV5Vmg2TEpFWGNBSW1BS19OSDFRN0c1LUtDX1NIa1ZabVlQaU83VjNnNHE1WkJ4R2FnQnByUVlTZVpERVJablFDSkxKLVRfT2VPSzZjWWtuSGhPWm9XTFlEek1ZUXNBcGI0YVVrSTQweV9QYUVrLU9lX1dEc2o1QlFpX1R0Nm52dV9iS19peVhZRjJWTklqR0EydUNHVHE3S2ozMkpCa1RjcFM0amc2SVYydDc5N2NGMFM4SXFremVyMWV5aVA2QTJQQi1STVBjbWJnM2c?oc=5
+- Uber, Ola, Rapido drivers will be on a strike across India on Feb 7. Here's why | India News - Hindustan Times
+  Uber, Ola, Rapido drivers will be on a strike across India on Feb 7
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNci1qUHFwMXZQeGNrYnV2QWdkb2FIWjRKUGhReGs1N1RETjEtME5ES1pJSTVSZV9MTGNHOWlGU3FmZjEtUWpPNl93aDhjTDEtSjRfcUQ3UG1SVml2TklQdXZvY20xRFpOVnZyZHR1LUpPYnYwRllOVkEzdzZMRXRDbENNdzVtZ3ZLaGRHQ2FTNTJ6YU1ybXhWRjJ0a0g0alhMUDJGMnplMmRudl80TG9sT3hJYlc4T29YRXlvUTZUSzNaTVpyelBBcVFPZ1JtUE5SbjhVRzZEalZubEZvUEUxQThkUGszeS0tTnRVMjN4WHJJZWpnOWRuSzZkUjRJZ9IBgwJBVV95cUxQcS1JVTY0SWpkbllENEZvV3Z0ZHZLVG1kSTlRbzV3UFFTcGxxUXk3QWJjY2lhT2pIZ2lqR1dBNktDOEFUY3h3MWJ2dnlneUU0OS11NURvamNrVy1MenA4WWNBS3hjaUU1QWFfNlE4OEhWLVgyMXpfWEpYQmN3NDNTWFRsREZGekJEaWwtcDRINUFLNFpqazZKS0hqZXY1OHg3dUdUSEtueEdUVW5waHZnN0ZsZUNIQnZoTEJlc29TaFQtUW1KTlk4bEhnTjV6R29oSnN5WGVDRVVzZ2doa1I5M1ljaWw2MDRGZnI2d0daWnpWTklGSmNKTjdRUGE2QzlqSWc0?oc=5
 
 - Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
-  Bangladesh Rushes For 'Secret'
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
 
-- Upset Over India-US Trade Deal, Punjab Farmers Plan Mega Protest - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OV
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OVM4UTd6QjZLaE9TcEIwcUJnWUFnRHBVQVpIRGtaUWMyWkFIQU8yNHo5X1ViWW42SHlWUkh4Q0htOGthUGEzONIBrwFBVV95cUxQQnNrcjRuYkRlaHdERmEwbWc4QUhQeUdqV2ZrZ3ljSzNTZWJta19nbWdNT29ETTdYSXJ2VVJCOE4yLWZ2OWZRRjdTSV9rR2gtdG5ST2xjeWR5X3dpWjBtSENya0UzYkdKZm45bFJOWHY2d3RXQUo3NFRNRXlhMUFwWE1vc1hzeE1JVlZNSTRhUlFqTEFjTWFtMWNTbGFIbjJya19xSzVDQTA3c0tnSkNr?oc=5
+- 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - The Times of India
+  'Deluding itself': MEA after Pakistan blames India for blast at Islamabad
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXZ0VUpzdjNjRkQ3SlRoRkZRdGd4OTdFZ3Z0bFFpRlVsWXl1OG1rVWNHc2xxRzNaUVZPMXlUUS1nMlV5c094bk1VVXJ6TXZabGFLLW9tbVg3bG9TeWFCVW9NOFhnaHl5VDBKX2g4RXA0MjBWOFdEVXF6WGhPMDhQNUF6cVF4ZFZYTTFqeS1Ga0h3QTNEQVkxc21EZC1DZDVNWjRQNHRtbDl4ZVAxRnF5MVNCM0Q0YXZwRjRjNXk2aVV2cmtxdW04dFRwNHhOTVNvNkZuVE1lN0hTdGkzRkRvNmRRM29QaUpySjNDbzRR0gHzAUFVX3lxTE9PcmRlTWJlLUQyVmVwS3FJZmMtRVFfXzdNNmFDQmRYT1pUSDRWU1NRZnZxSXVaYW9JS2NqVllqYlc1RUtaUFhMVXpuOTlVMjlERU5FZ1R5c3p5aDFVQ3Q3YlE3bW96cWdlclJSd2JONzZOOTRIdlRzY2I1dURMQThoa1Axb3RHR18zUlctVHQ3NmoyNzg4WURXNzRraHZoVHRlNGlmei1mZllacnJETndrbnRvSkllcTJDZ3prZk1PMmV2VS16UlV2NlBFLWpraFdzQnh4M3dIN055RXNBSjhtdXpGNGtnWWZzbk5HclhHREdpZw?oc=5
 
-- Capgemini India has 2.3 lakh employees, 55% of global workforce - Times of India
-  Capgemini India has 2.3 lakh employees
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaEFWNV8tajJSOEU0ODkyckdZbTJobzdIYUZkUGJGZmtfUzJLdkprVVZRYzg2dzd3TmtpVU1MZ1l5bmJQX24zNmd1ZjZsN0xxX2M4SXFkVGFiWDdXWS1kLXFLdElORHhYZVVicEJONndfUlBFTDBWX293c2RKbWNPNnMxcUhpU0F3MWcxaHZzV1VqUy1uUlI1TmFVY0JxZTE5azR1MlUtcjBPaFU4Slg0aE1kejEtVktRTTVHZUpraHZoY0pra0s2U3JQWXFMM2tjQTlWZ1JtMm4yY09a0gHiAUFVX3lxTE9aOGdQTVlyRFZ5eU54YjF2OUJOZkVhX2Vud2UxaDRQdGc4dGRzczREcWZCTFlVTm9xNXBsQWZTbVgwcnZaN183QUZDVEFXLVBWME53WVJCRHpxV1U1VElyZUNwRmwwRDI5aXlMSzlIci0xNG0xcWFUekpNNWJKWUZkTkxFOHd6UWtOaVZUbEVnMWMwMTBiM2hrTGstZDFKM0MzUmV2VF9xT1lXemJteVhYaHd3aWRzYlE4VmswRXhWTVZGdDNPSmtNVDVqRmJSR3Q3b05sRzM1Q0ltd1Ytem9SWWc?oc=5
+- 'We Were Preparing For War': Former DGMO Reveals Inside Story Of India-China Doklam Stand-Off - The Times of India
+  'We Were Preparing For War': Former DGMO Reveals Inside Story
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxORTlQYm9YVnBFVV80b1NjMWR2YTlkcHExRkRxcFpJZTZUcks4T2FaZVF3WEpkcWlGM0JKUlZwb0JfaWtLUUJyRnZlVEEzYVphcUFsZGRFX3NEZUFvYmVfTllQT2JnNkZCSjVYY3RSOEhNOEJraTZzZmtVNEJLeHl2clNyZU5UUDR4Qm5GZXk1RU9pVE5QUWZuRFAzTVk2V2VjWUYtZnNiOXB2OFFtT1JiZkNmb1hBTkZLei1DMnI0UmZhWnRxakc4dnczWG9lVkI4ZVVjaVBoUWdfR3ZpRTN4ejNBcUs1MFVrRjU0bnltTzVaZGtU0gH6AUFVX3lxTFBTWXZ2LW8tbW5mWU5nU01DR3hTc1cwcXc4Y1MyT09aNFpyTVpZYkQ0bzdXWU82U0xCZ3RKV3JzZDBTNnJ1aXJLeUdUMVpUQTNRSWliM2RqN3ZfSmlocGtSUGt4bGZDOV9sSkFRbmNoZ3Q0YVk5bklrMEZKX2t0cXZ1TjhGU1d0U1RqaTQ0RVBGVlJ1a3E5bFBtVDBQQ1pweHpOeHBkNjBLNUJ6YUdWRE8ySjlJV191OGRMb0wwbFdDaTQwRUZ6UDVZdGlFR213YjNiYjJLNm5CSDB1TWcxOXRxX3FkRFhqV1U1ZGNCNEladDRrRlNuUmlQYVE?oc=5
 
-- India records highest-ever monthly P&K fertilizer output at 15.76 LMT in January - ddnews.gov.in
-  India records highest-ever monthly P&amp;
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUZyUjJnTjZOQjd5cEoyTDFseUJfejBNaEVpdURuTlItQzFQb2pJMHJKTjlYSE8zQndlNlZFQnVhYkxuLU84QkRBTUdkcEJLN3hVQVo5V01na0NYajk1WW1JcEQtMVNPcTdVOWdWa3IzdU5uOE00Yml6SkJHLXpLdlV5S2JkY2N6UDd4OW5tTWNLbXlYN1M5bVdFdU93dGEzWDdJb1RrQWg?oc=5
+- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
+  India coal mine blast leaves 18 dead, others
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
 
-- 'New Phase In Bilateral Ties': Indian High Commissioner Hails PM Modi's 'Historic' Malaysia Visit - Times of India
-  'New Phase In Bilateral Ties': Indian High Commissioner Hails
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbWdoSmdqdEdEaXYtVnZqLXVuTU1kSjk0OENEcDkwYS14NFoybzNSVVM2bkliNmtTZTZ2STRUOEhTa1BzdU1wUGViUzlCNnY2SEVrbXN1aUZnR2Z4NGhuaEFqLWFDUjJ0NkxsVm9lTUdVX0phc0JZci1ZQmxLbnBfWEZ5QVhGRV90NWtnWFQzbWhkZzZZZzg3Wkp2aU1FVmZnSEZfUXZCaFNwYnpGcHNOU3B2QWF4ZmE0V2I4WDdORmo1bWtLaElJMjIxQTA3bXpkUEVXdEZUWFEtQzRTalFPbUpDZWJlcjdyUW5VNGd0RWZmTWZDdnfSAfsBQVVfeXFMT0RZa2RlR0NJelBsWFp6dUNyOUVRWENGakNtRU1iZ3hUcGg1LVhjdjV5Vmg2TEpFWGNBSW1BS19OSDFRN0c1LUtDX1NIa1ZabVlQaU83VjNnNHE1WkJ4R2FnQnByUVlTZVpERVJablFDSkxKLVRfT2VPSzZjWWtuSGhPWm9XTFlEek1ZUXNBcGI0YVVrSTQweV9QYUVrLU9lX1dEc2o1QlFpX1R0Nm52dV9iS19peVhZRjJWTklqR0EydUNHVHE3S2ozMkpCa1RjcFM0amc2SVYydDc5N2NGMFM4SXFremVyMWV5aVA2QTJQQi1STVBjbWJnM2c?oc=5
+- Uber, Ola, Rapido drivers will be on a strike across India on Feb 7. Here's why | India News - Hindustan Times
+  Uber, Ola, Rapido drivers will be on a strike across India on Feb 7
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNci1qUHFwMXZQeGNrYnV2QWdkb2FIWjRKUGhReGs1N1RETjEtME5ES1pJSTVSZV9MTGNHOWlGU3FmZjEtUWpPNl93aDhjTDEtSjRfcUQ3UG1SVml2TklQdXZvY20xRFpOVnZyZHR1LUpPYnYwRllOVkEzdzZMRXRDbENNdzVtZ3ZLaGRHQ2FTNTJ6YU1ybXhWRjJ0a0g0alhMUDJGMnplMmRudl80TG9sT3hJYlc4T29YRXlvUTZUSzNaTVpyelBBcVFPZ1JtUE5SbjhVRzZEalZubEZvUEUxQThkUGszeS0tTnRVMjN4WHJJZWpnOWRuSzZkUjRJZ9IBgwJBVV95cUxQcS1JVTY0SWpkbllENEZvV3Z0ZHZLVG1kSTlRbzV3UFFTcGxxUXk3QWJjY2lhT2pIZ2lqR1dBNktDOEFUY3h3MWJ2dnlneUU0OS11NURvamNrVy1MenA4WWNBS3hjaUU1QWFfNlE4OEhWLVgyMXpfWEpYQmN3NDNTWFRsREZGekJEaWwtcDRINUFLNFpqazZKS0hqZXY1OHg3dUdUSEtueEdUVW5waHZnN0ZsZUNIQnZoTEJlc29TaFQtUW1KTlk4bEhnTjV6R29oSnN5WGVDRVVzZ2doa1I5M1ljaWw2MDRGZnI2d0daWnpWTklGSmNKTjdRUGE2QzlqSWc0?oc=5
 
 - Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
-  Bangladesh Rushes For 'Secret'
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
 
-- Upset Over India-US Trade Deal, Punjab Farmers Plan Mega Protest - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OV
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtBNTdBSG50WmRGZk4ySWJwY05Zcmw5WlNlZWl0ZWtBZGZsbGhVRVFzQ1NINTl4aE9Ya29XWjdBamE2T3JaZUVNRm1TbExibHMzR0ZJTlNaa3d6VjRTTXlWODhNMkN2OVM4UTd6QjZLaE9TcEIwcUJnWUFnRHBVQVpIRGtaUWMyWkFIQU8yNHo5X1ViWW42SHlWUkh4Q0htOGthUGEzONIBrwFBVV95cUxQQnNrcjRuYkRlaHdERmEwbWc4QUhQeUdqV2ZrZ3ljSzNTZWJta19nbWdNT29ETTdYSXJ2VVJCOE4yLWZ2OWZRRjdTSV9rR2gtdG5ST2xjeWR5X3dpWjBtSENya0UzYkdKZm45bFJOWHY2d3RXQUo3NFRNRXlhMUFwWE1vc1hzeE1JVlZNSTRhUlFqTEFjTWFtMWNTbGFIbjJya19xSzVDQTA3c0tnSkNr?oc=5
+- 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - The Times of India
+  'Deluding itself': MEA after Pakistan blames India for blast at Islamabad
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXZ0VUpzdjNjRkQ3SlRoRkZRdGd4OTdFZ3Z0bFFpRlVsWXl1OG1rVWNHc2xxRzNaUVZPMXlUUS1nMlV5c094bk1VVXJ6TXZabGFLLW9tbVg3bG9TeWFCVW9NOFhnaHl5VDBKX2g4RXA0MjBWOFdEVXF6WGhPMDhQNUF6cVF4ZFZYTTFqeS1Ga0h3QTNEQVkxc21EZC1DZDVNWjRQNHRtbDl4ZVAxRnF5MVNCM0Q0YXZwRjRjNXk2aVV2cmtxdW04dFRwNHhOTVNvNkZuVE1lN0hTdGkzRkRvNmRRM29QaUpySjNDbzRR0gHzAUFVX3lxTE9PcmRlTWJlLUQyVmVwS3FJZmMtRVFfXzdNNmFDQmRYT1pUSDRWU1NRZnZxSXVaYW9JS2NqVllqYlc1RUtaUFhMVXpuOTlVMjlERU5FZ1R5c3p5aDFVQ3Q3YlE3bW96cWdlclJSd2JONzZOOTRIdlRzY2I1dURMQThoa1Axb3RHR18zUlctVHQ3NmoyNzg4WURXNzRraHZoVHRlNGlmei1mZllacnJETndrbnRvSkllcTJDZ3prZk1PMmV2VS16UlV2NlBFLWpraFdzQnh4M3dIN055RXNBSjhtdXpGNGtnWWZzbk5HclhHREdpZw?oc=5
 
-- Capgemini India has 2.3 lakh employees, 55% of global workforce - Times of India
-  Capgemini India has 2.3 lakh employees
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaEFWNV8tajJSOEU0ODkyckdZbTJobzdIYUZkUGJGZmtfUzJLdkprVVZRYzg2dzd3TmtpVU1MZ1l5bmJQX24zNmd1ZjZsN0xxX2M4SXFkVGFiWDdXWS1kLXFLdElORHhYZVVicEJONndfUlBFTDBWX293c2RKbWNPNnMxcUhpU0F3MWcxaHZzV1VqUy1uUlI1TmFVY0JxZTE5azR1MlUtcjBPaFU4Slg0aE1kejEtVktRTTVHZUpraHZoY0pra0s2U3JQWXFMM2tjQTlWZ1JtMm4yY09a0gHiAUFVX3lxTE9aOGdQTVlyRFZ5eU54YjF2OUJOZkVhX2Vud2UxaDRQdGc4dGRzczREcWZCTFlVTm9xNXBsQWZTbVgwcnZaN183QUZDVEFXLVBWME53WVJCRHpxV1U1VElyZUNwRmwwRDI5aXlMSzlIci0xNG0xcWFUekpNNWJKWUZkTkxFOHd6UWtOaVZUbEVnMWMwMTBiM2hrTGstZDFKM0MzUmV2VF9xT1lXemJteVhYaHd3aWRzYlE4VmswRXhWTVZGdDNPSmtNVDVqRmJSR3Q3b05sRzM1Q0ltd1Ytem9SWWc?oc=5
+- 'We Were Preparing For War': Former DGMO Reveals Inside Story Of India-China Doklam Stand-Off - The Times of India
+  'We Were Preparing For War': Former DGMO Reveals Inside Story
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxORTlQYm9YVnBFVV80b1NjMWR2YTlkcHExRkRxcFpJZTZUcks4T2FaZVF3WEpkcWlGM0JKUlZwb0JfaWtLUUJyRnZlVEEzYVphcUFsZGRFX3NEZUFvYmVfTllQT2JnNkZCSjVYY3RSOEhNOEJraTZzZmtVNEJLeHl2clNyZU5UUDR4Qm5GZXk1RU9pVE5QUWZuRFAzTVk2V2VjWUYtZnNiOXB2OFFtT1JiZkNmb1hBTkZLei1DMnI0UmZhWnRxakc4dnczWG9lVkI4ZVVjaVBoUWdfR3ZpRTN4ejNBcUs1MFVrRjU0bnltTzVaZGtU0gH6AUFVX3lxTFBTWXZ2LW8tbW5mWU5nU01DR3hTc1cwcXc4Y1MyT09aNFpyTVpZYkQ0bzdXWU82U0xCZ3RKV3JzZDBTNnJ1aXJLeUdUMVpUQTNRSWliM2RqN3ZfSmlocGtSUGt4bGZDOV9sSkFRbmNoZ3Q0YVk5bklrMEZKX2t0cXZ1TjhGU1d0U1RqaTQ0RVBGVlJ1a3E5bFBtVDBQQ1pweHpOeHBkNjBLNUJ6YUdWRE8ySjlJV191OGRMb0wwbFdDaTQwRUZ6UDVZdGlFR213YjNiYjJLNm5CSDB1TWcxOXRxX3FkRFhqV1U1ZGNCNEladDRrRlNuUmlQYVE?oc=5
 
-- India records highest-ever monthly P&K fertilizer output at 15.76 LMT in January - ddnews.gov.in
-  India records highest-ever monthly P&amp;
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUZyUjJnTjZOQjd5cEoyTDFseUJfejBNaEVpdURuTlItQzFQb2pJMHJKTjlYSE8zQndlNlZFQnVhYkxuLU84QkRBTUdkcEJLN3hVQVo5V01na0NYajk1WW1JcEQtMVNPcTdVOWdWa3IzdU5uOE00Yml6SkJHLXpLdlV5S2JkY2N6UDd4OW5tTWNLbXlYN1M5bVdFdU93dGEzWDdJb1RrQWg?oc=5
+- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
+  India coal mine blast leaves 18 dead, others
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
 
-- 'New Phase In Bilateral Ties': Indian High Commissioner Hails PM Modi's 'Historic' Malaysia Visit - Times of India
-  'New Phase In Bilateral Ties': Indian High Commissioner Hails
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbWdoSmdqdEdEaXYtVnZqLXVuTU1kSjk0OENEcDkwYS14NFoybzNSVVM2bkliNmtTZTZ2STRUOEhTa1BzdU1wUGViUzlCNnY2SEVrbXN1aUZnR2Z4NGhuaEFqLWFDUjJ0NkxsVm9lTUdVX0phc0JZci1ZQmxLbnBfWEZ5QVhGRV90NWtnWFQzbWhkZzZZZzg3Wkp2aU1FVmZnSEZfUXZCaFNwYnpGcHNOU3B2QWF4ZmE0V2I4WDdORmo1bWtLaElJMjIxQTA3bXpkUEVXdEZUWFEtQzRTalFPbUpDZWJlcjdyUW5VNGd0RWZmTWZDdnfSAfsBQVVfeXFMT0RZa2RlR0NJelBsWFp6dUNyOUVRWENGakNtRU1iZ3hUcGg1LVhjdjV5Vmg2TEpFWGNBSW1BS19OSDFRN0c1LUtDX1NIa1ZabVlQaU83VjNnNHE1WkJ4R2FnQnByUVlTZVpERVJablFDSkxKLVRfT2VPSzZjWWtuSGhPWm9XTFlEek1ZUXNBcGI0YVVrSTQweV9QYUVrLU9lX1dEc2o1QlFpX1R0Nm52dV9iS19peVhZRjJWTklqR0EydUNHVHE3S2ozMkpCa1RjcFM0amc2SVYydDc5N2NGMFM4SXFremVyMWV5aVA2QTJQQi1STVBjbWJnM2c?oc=5
+- Uber, Ola, Rapido drivers will be on a strike across India on Feb 7. Here's why | India News - Hindustan Times
+  Uber, Ola, Rapido drivers will be on a strike across India on Feb 7
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNci1qUHFwMXZQeGNrYnV2QWdkb2FIWjRKUGhReGs1N1RETjEtME5ES1pJSTVSZV9MTGNHOWlGU3FmZjEtUWpPNl93aDhjTDEtSjRfcUQ3UG1SVml2TklQdXZvY20xRFpOVnZyZHR1LUpPYnYwRllOVkEzdzZMRXRDbENNdzVtZ3ZLaGRHQ2FTNTJ6YU1ybXhWRjJ0a0g0alhMUDJGMnplMmRudl80TG9sT3hJYlc4T29YRXlvUTZUSzNaTVpyelBBcVFPZ1JtUE5SbjhVRzZEalZubEZvUEUxQThkUGszeS0tTnRVMjN4WHJJZWpnOWRuSzZkUjRJZ9IBgwJBVV95cUxQcS1JVTY0SWpkbllENEZvV3Z0ZHZLVG1kSTlRbzV3UFFTcGxxUXk3QWJjY2lhT2pIZ2lqR1dBNktDOEFUY3h3MWJ2dnlneUU0OS11NURvamNrVy1MenA4WWNBS3hjaUU1QWFfNlE4OEhWLVgyMXpfWEpYQmN3NDNTWFRsREZGekJEaWwtcDRINUFLNFpqazZKS0hqZXY1OHg3dUdUSEtueEdUVW5waHZnN0ZsZUNIQnZoTEJlc29TaFQtUW1KTlk4bEhnTjV6R29oSnN5WGVDRVVzZ2doa1I5M1ljaWw2MDRGZnI2d0daWnpWTklGSmNKTjdRUGE2QzlqSWc0?oc=5
+
+- Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
+
+- 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - The Times of India
+  'Deluding itself': MEA after Pakistan blames India for blast at Islamabad
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXZ0VUpzdjNjRkQ3SlRoRkZRdGd4OTdFZ3Z0bFFpRlVsWXl1OG1rVWNHc2xxRzNaUVZPMXlUUS1nMlV5c094bk1VVXJ6TXZabGFLLW9tbVg3bG9TeWFCVW9NOFhnaHl5VDBKX2g4RXA0MjBWOFdEVXF6WGhPMDhQNUF6cVF4ZFZYTTFqeS1Ga0h3QTNEQVkxc21EZC1DZDVNWjRQNHRtbDl4ZVAxRnF5MVNCM0Q0YXZwRjRjNXk2aVV2cmtxdW04dFRwNHhOTVNvNkZuVE1lN0hTdGkzRkRvNmRRM29QaUpySjNDbzRR0gHzAUFVX3lxTE9PcmRlTWJlLUQyVmVwS3FJZmMtRVFfXzdNNmFDQmRYT1pUSDRWU1NRZnZxSXVaYW9JS2NqVllqYlc1RUtaUFhMVXpuOTlVMjlERU5FZ1R5c3p5aDFVQ3Q3YlE3bW96cWdlclJSd2JONzZOOTRIdlRzY2I1dURMQThoa1Axb3RHR18zUlctVHQ3NmoyNzg4WURXNzRraHZoVHRlNGlmei1mZllacnJETndrbnRvSkllcTJDZ3prZk1PMmV2VS16UlV2NlBFLWpraFdzQnh4M3dIN055RXNBSjhtdXpGNGtnWWZzbk5HclhHREdpZw?oc=5
+
+- 'We Were Preparing For War': Former DGMO Reveals Inside Story Of India-China Doklam Stand-Off - The Times of India
+  'We Were Preparing For War': Former DGMO Reveals Inside Story
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxORTlQYm9YVnBFVV80b1NjMWR2YTlkcHExRkRxcFpJZTZUcks4T2FaZVF3WEpkcWlGM0JKUlZwb0JfaWtLUUJyRnZlVEEzYVphcUFsZGRFX3NEZUFvYmVfTllQT2JnNkZCSjVYY3RSOEhNOEJraTZzZmtVNEJLeHl2clNyZU5UUDR4Qm5GZXk1RU9pVE5QUWZuRFAzTVk2V2VjWUYtZnNiOXB2OFFtT1JiZkNmb1hBTkZLei1DMnI0UmZhWnRxakc4dnczWG9lVkI4ZVVjaVBoUWdfR3ZpRTN4ejNBcUs1MFVrRjU0bnltTzVaZGtU0gH6AUFVX3lxTFBTWXZ2LW8tbW5mWU5nU01DR3hTc1cwcXc4Y1MyT09aNFpyTVpZYkQ0bzdXWU82U0xCZ3RKV3JzZDBTNnJ1aXJLeUdUMVpUQTNRSWliM2RqN3ZfSmlocGtSUGt4bGZDOV9sSkFRbmNoZ3Q0YVk5bklrMEZKX2t0cXZ1TjhGU1d0U1RqaTQ0RVBGVlJ1a3E5bFBtVDBQQ1pweHpOeHBkNjBLNUJ6YUdWRE8ySjlJV191OGRMb0wwbFdDaTQwRUZ6UDVZdGlFR213YjNiYjJLNm5CSDB1TWcxOXRxX3FkRFhqV1U1ZGNCNEladDRrRlNuUmlQYVE?oc=5
+
+- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
+  India coal mine blast leaves 18 dead, others
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
+
+- Uber, Ola, Rapido drivers will be on a strike across India on Feb 7. Here's why | India News - Hindustan Times
+  Uber, Ola, Rapido drivers will be on a strike across India on Feb 7
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNci1qUHFwMXZQeGNrYnV2QWdkb2FIWjRKUGhReGs1N1RETjEtME5ES1pJSTVSZV9MTGNHOWlGU3FmZjEtUWpPNl93aDhjTDEtSjRfcUQ3UG1SVml2TklQdXZvY20xRFpOVnZyZHR1LUpPYnYwRllOVkEzdzZMRXRDbENNdzVtZ3ZLaGRHQ2FTNTJ6YU1ybXhWRjJ0a0g0alhMUDJGMnplMmRudl80TG9sT3hJYlc4T29YRXlvUTZUSzNaTVpyelBBcVFPZ1JtUE5SbjhVRzZEalZubEZvUEUxQThkUGszeS0tTnRVMjN4WHJJZWpnOWRuSzZkUjRJZ9IBgwJBVV95cUxQcS1JVTY0SWpkbllENEZvV3Z0ZHZLVG1kSTlRbzV3UFFTcGxxUXk3QWJjY2lhT2pIZ2lqR1dBNktDOEFUY3h3MWJ2dnlneUU0OS11NURvamNrVy1MenA4WWNBS3hjaUU1QWFfNlE4OEhWLVgyMXpfWEpYQmN3NDNTWFRsREZGekJEaWwtcDRINUFLNFpqazZKS0hqZXY1OHg3dUdUSEtueEdUVW5waHZnN0ZsZUNIQnZoTEJlc29TaFQtUW1KTlk4bEhnTjV6R29oSnN5WGVDRVVzZ2doa1I5M1ljaWw2MDRGZnI2d0daWnpWTklGSmNKTjdRUGE2QzlqSWc0?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-06 12:50:32 UTC_
+_Last updated: 2026-02-06 18:46:25 UTC_
