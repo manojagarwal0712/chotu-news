@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- 72% of Air India Group fleet flagged for recurring defects, shows govt data
+- HAL to bid for licence manufacturing of 5th-gen fighter jet
   
-  🔗 https://indianexpress.com/article/india/air-india-group-fleet-recurring-defects-govt-data-10516084/
+  🔗 https://indianexpress.com/article/india/hal-to-bid-for-licence-manufacturing-of-5th-gen-fighter-jet-10516297/
 
-- Ola, Uber, Rapido drivers to go on strike on Feb 7: All you need to know about ‘All India Breakdown’
+- Agreement signed for Frontier Nagaland Territorial Authority
   
-  🔗 https://indianexpress.com/article/india/ola-uber-rapido-drivers-nationwide-strike-feb-7-all-india-breakdown-10516020/
+  🔗 https://indianexpress.com/article/india/agreement-signed-for-frontier-nagaland-territorial-authority-10516280/
 
-- Odisha youth, on a merchant ship as part of an internship, goes missing while at sea
+- Rajasthan: As school where 7 died starts new chapter, many others ‘unsafe’, teachers pitch in
   
-  🔗 https://indianexpress.com/article/india/odisha-youth-goes-missing-while-at-sea-10516004/
+  🔗 https://indianexpress.com/article/india/rajasthan-as-school-where-7-died-starts-new-chapter-many-others-unsafe-teachers-pitch-in-10516229/
 
-- Can’t see me serving, so say Modi teri kabr khudegi: PM slams Congress
+- India has ‘significant potential’ to import more agri products: US
   
-  🔗 https://indianexpress.com/article/india/working-country-modi-teri-kabr-khudegi-pm-attacks-congress-rajya-sabha-10516017/
+  🔗 https://indianexpress.com/article/india/india-u-s-trade-deal-india-has-significant-potential-to-import-more-agri-products-us-10516224/
 
-- US deportation list: Over 3,800 Indians deported from US in 2025. How many from China, Saudi Arabia? Check full list
+- Diversifying energy sourcing: MEA Jaishankar on Trump’s ‘India not to buy Russian oil’ claim
   
-  🔗 https://indianexpress.com/article/india/over-3800-indians-deported-us-2025-how-many-china-saudi-arabia-check-full-list-10515833/
+  🔗 https://indianexpress.com/article/india/diversifying-energy-sourcing-mea-jaishankar-on-trumps-india-not-to-buy-russian-oil-claim-10516287/
 
 - Eating full-fat cheese may be linked to reduced dementia risk: Study
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/spotify-makes-lyrics-smarter-with-translations-offline-access-and-previews-10515590/
 
-- Bob’s Discount Furniture Rises 11% After $331 Million IPO
-  Bob's Discount Furniture Inc. jumped as much as 11% in its trading debut. The company raised $331 million in a US initial public
-  🔗 https://www.livemint.com/companies/bobs-discount-furniture-rises-11-after-331-million-ipo-11770316274856.html
+- Aye Finance to test IPO market even as non-bank peers prefer to wait
+  Aye Finance has trimmed the offer size even as several NBFCs and microlenders
+  🔗 https://www.livemint.com/companies/aye-finance-ipo-bad-loan-nbfc-microfinance-industry-startups-india-11770210760099.html
 
-- Anthropic’s Secret Weapon Is Its Cult of Safety
-  Silicon Valley’s most ideologically
-  🔗 https://www.livemint.com/companies/anthropics-secret-weapon-is-its-cult-of-safety-11770316213828.html
+- AI startups positioned to transform India's IT services, despite SaaS setbacks
+  Indian IT firms face a valuation crisis, prompting venture capital firms to hunt for entrepreneurs who can increase margins through automation.
+  🔗 https://www.livemint.com/companies/india-saas-market-artificial-intelligence-startups-it-services-11770284949337.html
 
-- Hero MotoCorp posts highest-ever quarterly revenue as GST cuts spur demand
-  Hero MotoCorp, India's largest two-wheeler maker, on Thursday said its profit rose 15% year-on-year to 
-  🔗 https://www.livemint.com/companies/company-results/hero-motocorp-continues-tvs-bajaj-record-run-in-q3-as-gst-cuts-deliver-bonanza-for-two-wheeler-makers-11770307726529.html
+- Uber ordered to pay $8.5 million in trial over driver sex assault claims
+  The case was the first trial – known as a 'bellwether' – of more than 3,000 similar lawsuits against Uber. Bellwether trials are used to test legal theories and help gauge the
+  🔗 https://www.livemint.com/companies/news/uber-ordered-to-pay-8-5-million-in-trial-over-driver-sex-assault-claims-11770336132758.html
 
-- LIC takes  ₹1,400 crore hit from loss of GST-linked input tax credit
-  LIC managed to largely offset the loss of input tax credit through an increase in the share of margin-accretive non-participating policies.
-  🔗 https://www.livemint.com/companies/company-results/lic-takes-1-400-crore-hit-from-loss-of-gst-linked-input-tax-credit-doraiswamy-11770305803667.html
+- It's all about hours clocked—Urban Company data punctures work value talk
+  Urban Company's top 5% professionals spent an average of 167 hours a month working for the platform. That's nearly
+  🔗 https://www.livemint.com/companies/news/urban-company-gig-worker-earnings-income-mobility-challenges-india-11770197469198.html
 
-- Nike’s ‘mind-altering’ shoes are now available — what's the hype all about?
-  Nike's latest footwear experiment, the Mind 001 and Mind 002, was launched on 5 February. Combining neuroscience research with
-  🔗 https://www.livemint.com/companies/news/nikes-mind-altering-shoes-are-now-available-whats-the-hype-all-about-11770306333685.html
+- Reddit forecasts strong revenue as AI tools drive ad sales
+  Q4 revenue rose 70% to $726 million, beating estimates of $665.4 million. Its earnings per share of $1.24 also exceeded estimates of 94 cents. Daily active unique visitors rose 19%,
+  🔗 https://www.livemint.com/companies/news/reddit-forecasts-strong-revenue-as-ai-tools-drive-ad-sales-11770335234207.html
 
-- RBI MPC meeting: Date, time, where to watch, what to expect from upcoming announcement
-  According to market expectations, the central bank is unlikely to announce a rate cut. The bank is expected to keep the repo rate unchanged at 5.25
-  🔗 https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-date-time-where-to-watch-what-to-expect-from-upcoming-announcement-11770277568251.html
+- The age of a treacherous, falling dollar
+  Those holding American assets will have
+  🔗 https://www.livemint.com/market/the-age-of-a-treacherous-falling-dollar-11770340323510.html
 
-- Stocks to buy or sell: Sumeet Bagadia recommends five breakout shares to buy today — 6 February 2026
-  Sumeet Bagadia recommends five breakout shares to buy on Friday. APL Apollo, Lupin
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-breakout-shares-to-buy-today-6-february-2026-11770314088546.html
+- RBI MPC Meet 2026 LIVE: RBI Governor Sanjay Malhotra-led MPC to announce repo rate decision today
+  The RBI’s Monetary Policy Committee (MPC) is widely expected to keep repo rates unchanged at 5.25%. Focus likely to remain on liquidity management
+  🔗 https://www.livemint.com/market/stock-market-news/rbi-mpc-policy-meet-2026-live-updates-repo-rates-mpc-rbi-monetary-policy-sanjay-malhotra-gdp-inflation-6-february-2026-11770314292509.html
 
-- Stock market today: Trade setup for Nifty 50, gold, silver rates, US-Iran talks to USD vs INR; 5 stocks to buy or sell
-  GESHIP, IOC, PNB, Poly Medicure, and
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-gold-silver-rates-us-iran-talks-to-usd-vs-inr-5-stocks-to-buy-or-sell-11770308940021.html
+- Stock recommendations for 6 February from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 6 February. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-6-february-marketsmith-india-nifty-sensex-mangalore-refinery-rain-industries-11770299015915.html
 
-- Crypto crash deepens; $1 trillion in market value vanishes in three weeks — what's fuelling the sell-off?
-  The cryptocurrency market has lost over $1 trillion in value within three weeks. Bitcoin dropped below $70
-  🔗 https://www.livemint.com/market/cryptocurrency/crypto-crash-deepens-1-trillion-in-market-value-vanishes-in-three-weeks-whats-fuelling-the-selloff-11770309124468.html
+- Stocks to buy: Raja Venkatraman's recommends three stocks for 6 February
+  Market expert Raja Venkatraman shares his three top stock picks to buy today, 6 February.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-recommends-three-stocks-6-february-sensex-nifty-outlook-trade-set-up-11770298791388.html
 
-- Why did Google's parent Alphabet stock fall even after posting solid Q4 revenue?
-  Alphabet's shares fell 7% after announcing a doubling of capital expenditures
-  🔗 https://www.livemint.com/market/stock-market-news/why-did-googles-parent-alphabet-stock-fall-even-after-posting-solid-q4-revenue-11770309246258.html
+- Anand Rathi Wealth’s Feroze Azeez on what US tariff rollback means for Indian markets
+  With the US easing tariffs on India, markets and the rupee have rallied. Anand Rathi Wealth’s Feroz Azeez explains
+  🔗 https://www.livemint.com/market/feroz-azeez-us-india-trade-deal-markets-indian-investors-11770279508916.html
 
 - Anthropic unveils latest AI model as OpenAI rivalry intensifies
   Anthropic unve
@@ -100,25 +100,37 @@
   Vivo V70 and V70 Elite will debut in India on 19 February. Both phones come with an ultrasonic fingerprint sensor and IP68/IP69 rating.
   🔗 https://www.livemint.com/technology/tech-news/vivo-v70-v70-elite-to-launch-in-india-on-19-february-expected-price-specs-and-more-11770275071741.html
 
-- Stock Market Today: Major Indexes, Bitcoin Drop as Risk-Off Sentiment Grips Markets; Dow Sheds 500 Points - Investopedia
-  Investopedia: Major Indexes, Bitcoin Drop as Risk-Off
+- Markets News, Feb. 5, 2026: Stocks End Sharply Lower for 3rd Straight Day as Risk-Off Sentiment Grips Markets; Dow Sheds 600 Points, Bitcoin Plunges - Investopedia
+  The Nasdaq, Dow and S&P 500 all closed down on Tuesday. The Nasdaq closed down more than 1% for the day. The Dow lost 600 points.
   🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPWVV1QW1RM0FUX2tLRmFtcFpmdEd2ZzdLOE9YQUVIdEhJUWtRTHpHeFlYbi1qTUFzbFpham92Y18zd1VZVWdydTdGdnNlNUtFdEFlYVFmTE04V2o2TGhoZ1k1azBpaGp5dlRaSUswVEJaTGVMbThaZlFtV0NzX3k0WXVrVXA4TmxjUUROdFNlTlU?oc=5
 
-- Stocks Waver After AI Scare as Gold Hits $5,000: Markets Wrap - Bloomberg
-  Gold hits $5,000 for the first
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2VxSFlCVU54QWpwbVhiZGRqWmxWc1k3ZDcwaVBDcUV2STc2TGMxVGZrNllZdjR6UHZkV1NfNkYtMzBkdUJtTndSVzYzdDZDVkJWZmRna21wd093dTRrRmROU0gwa1drTjNnVjlETmhMZ3cwa3hjOXV6ZEo1RGhQODd2ZlZPX004S0JkLXFYSGxvSF9O?oc=5
-
-- Alphabet’s AI spending plans; Amazon to report - what’s moving markets - Investing.com
-  Alphabet’s AI spending plans;
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQRjlaeUpqX3pOakxJb0ZOY1htclcxcDRKbU9MOHI5bEtmUUlwOVR2aUVRWlBiX0tUbWRCdExUVGZYazBGRlRPSlFOazRwQ3Eza2RKcGVSWlBPeG9DYjdNUU8wWlZMdDBEWUZlWmllWUFMRjVJaUt2T1FJR1gwVWRlRHVsQlFMTU5VZ0pxZXE5d2YzZWFTVHZrbTRWOFVJaWFYNFFNX0ZGR2R6U3VyRnBfdi1sWXh5UDE5Znc?oc=5
-
-- Sebi bans 15 individuals from securities markets for 3 years; slaps Rs 3.6 cr penalty - Times of India
-  Sebi bans 15 individuals from securities markets for 3 years; slaps
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOajM1aE5MMFdocnVCQzA2dXNkbG1lRUZFQl9vUlN1Vk1sNkllYkdxUVJFSlBOSzMwdGY2TnNIRWdvV1VzZGI2bF9mVFQ5RkNQOTRxcC1NZ1dPN0tfTlBMVnUzT3hkdDBlN19POHZ6VmZIR05EU2FiRTFydE5yYm42ZWNzUGFnVUk2dmpybTVET053Q1dwa1dzaEI0MVN2Z1dSSmE5Z1JyY2RfdTNaMGhGOXFtRlo5QnRTeHlIa2E1RDFMWGE3aU9XMW91T0dKLWlNeDIxby11NDIwNEVXbEExNjlNd3dfOGZEVWRXcV9PWG5DTFF6cS11VTM3aEJhTXPSAYQCQVVfeXFMUDBhaHYxY0tTdHpLR1JTVGRPQkJsTC16dklwTDh6MThKSWFnYnRxc04zQ3BnYklVNFVIZ2tNbG4yQUNhOWlSR0MzdTFJdW1oU0ZWTVNZXzNVRy00QWE4dUxaQl9pRVFmMTVld3g5S3JWZ01ZbGlnRmRPTTVINE91WDJDYzd3bXRZZFRmS1ZoUGF4eGNpX0JoUzM5NVFsaXVodG90MlRCYW9ObW1fWFJYeHJJanFqSGZmbVU2Y2Z0RkZOeDdMeXpCbEs0UlpfT19zSWhWTndIZkJGV2JIemlRaGtrRkhZYldOaEduRTZRQllsMVdiZ1dubjlyMkNPNHBUUG5uQXk?oc=5
+- Google CEO Sundar Pichai thinks Bloodbath in markets worldwide in reaction to Anthropic’s AI tool is... - Times of India
+  Google CEO Sundar Pichai thinks Bloodbath in markets worldwide in reaction to
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxQZEJuc2pEMjVMMGtvV1ItVFlHQlczb0o3aURfR0lpNWpwejdYbWl4eHAwdGtrWjI0R0NKR1R4aDNVSE5IdFFZbmNoekRvTkNjS2FyTjJFZ1hpNFVJYnpieGYzX3JoY0xZdmRHOVQwSUdJZlU2NG12UnFhV0xocWFWWDZhUURzRlQxNW9DU0JQUFJKV1pfNnhnQ2NWNWVXRHVmVWJ4S1J3LW03VzN1RHhTeGhid2JPdElETTYyTUhZOEwxVzNvbDU5ckl5SFFic2dBOUJRRU5Ea2N6dGNmMk16RzZ3SG9WNk1yZ3hKeWVYWGdCVFFIcFdTa1IzeHZQcWUwQ2ZyczBlcHNWQ0JNQW0yTNIBlgJBVV95cUxPa2dqQjB2bEtFSkhxTjRvcmpPNjVxQ0FXYzdnbktNZU5IU0hhMkViZVNtZDdhT1VCbUlKWHBzd2JtNGdmUzFhclU2ZzRlN05KQWFGTTMxdVdKajhKckE5UWF6MUJoUTJYVzd3SHBjNndpdE5HQ1hwalZGU2x6VnRfeV8taW5JUVlTZ0VHNDIyNFVMOTVDcEZmM2ZPSFFSWFdBN2k2NlZqNm1PZXl6TWhTeE5oZ19kTUl1RmgzM0JpNUFrd0pReURaRlpjOC0zV3B3aEVBSGtIaWFkV2Q0RDBYcTF2QTdtT1BBSDItZUtGTXBId09qaFgxV2tuWVhfNzIyMDg2MUtwbFNqdlE5MTBhRzVsMzVwQQ?oc=5
 
 - Can emerging markets’ stellar run continue? - The Economist
   Can emerging markets’
   🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzNzMGxRVXRDV2ttMURGdXRuQWJaczJ2Nk5KZmJBbVE1RnQ1aGlNTXVkOERmemFvWS14R2oxSlNHWkdPVVNWMkpZaV9RbmVSdkh3Y0JyNGI4NjVNT3gyck1ZQTBETjJESnZzblJ2eks5emFsZC1EYldBR0FaNUV6NXNYUUVpTHNoa2s1eldpaEtQaDBzc3V3cmRhdTdIX3I3blE?oc=5
+
+- Stock markets snap three-day rally; Sensex tumbles 504 points - thehindu.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNkhqTEphQmM5by1VaWgwRUwxMWo3bWN1enVYZUdab1lvc2ZIS1VwY1FkSWNfSzFFZTdXaDI4RlVEZ3ZIT2RNRGFWc1RlV1dXRjEyemo2STRtcGQ4WEppbE53a0lqWkZnWD
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNkhqTEphQmM5by1VaWgwRUwxMWo3bWN1enVYZUdab1lvc2ZIS1VwY1FkSWNfSzFFZTdXaDI4RlVEZ3ZIT2RNRGFWc1RlV1dXRjEyemo2STRtcGQ4WEppbE53a0lqWkZnWDdVcXZ6ZmgzRjN5Skg1M0hDXzliX255ZHJRR2ZrOUpGek5hOHZDLW5sWXRUVzZSWFR2emkxQnlVYXdpQlFmTm5EYlozRTVHdUpWeVlzdVJjR3Ywc0pSb01RR2_SAcoBQVVfeXFMUDlHaEFIbkFyR2pYWHFSRWxFdDNrZTVtMWdnZkRmdy1FRGk2YVFqT2hMR1I3Q01qUV9GYnV6cnVZQlp0S19GN3JyVkEyTU82NUhKbmpBNUVuZ21uYWotazdlRjMxcFRXTml4Wl9ldkJuQTJXa05OSWh5U2ZkTjZxREh6dGljSHJ1TGN2LUpnQVZpNTNFejE5cXlDY1hVeTdtaUxVQlhKVkpIcjJ4S0J3U3dSZW85UDRKSTBmbVdBc2c1ZTlGZ3ZFWFY4QQ?oc=5
+
+- India must boost capital markets so Indians grow with economy: Larry Fink, chief executive, BlackRock - The Economic Times
+  India must boost capital markets so Indians grow with economy, says Larry Fink
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOZnU2NXA3dEl0a19sZ3FBekxSdUtmdlF6T3lKRVB3MWtpNWJ2NUd0aDBvdmExVlVJMEpBVXV1S1dHRG1yX2ZibFVGTFo1c0hudUMtcmhYVzlhbkZfYkUxaUF5cjVFWEpLQWJGaUp3V1JVLTRVSnp1RmFySXJPVF8wSHE1YkZXUFh3SVFXS09QYlB1NFQ2eHFYbjNtanZ6VkpLdl83T1ZORlVRWFp4NTdTYjZuMjZKd0QwV2ZNQmZzRzVZMmxEUThZQlNiUHhNTzVDak5hdlI2WmVjWGgxZk5xTXV1Z0dVeXBWc3lvRGc2UXQ3M2sySW0xa0pUbHVRZUlTejZz0gGIAkFVX3lxTE1WUDU5YTlVa1dHZzdYN1ZaUXFIdFpnV2xGMlVsMnZ3My1yTnVVN2xoY2FCM2lqb2hWeDF6MGNKUk5FcDdYMzdIMTBLcEFQY0RoRkxYTUJHRGZHVVhGWnBEeGthVERzbTBrQ2doV1lwSF81QWtFazY4OHhmV05xYzg2d3dVeFQ3Vm1DaGUxZXdQT1Z2QWF1SlcwTlNBZnVUbzBzbktCVjQ2ejdBeDYzSVhQWVljWm1DUE55OHBBR3ZMc215aGxvYXYzSmNXcmRSejZTdTAzOFRGZkFWbXEzME5Qb2FXZm1TYnJzQzRNc1RxaDZSaEk3dEcySzNacjlhR2JKWk4xN09KeQ?oc=5
+
+- Stocks in news: Tata Steel, Hero MotoCorp, Bharti Airtel, RIL, Nykaa
+   Markets experienced a dip on Thursday, with analysts suggesting a buy-on-dips strategy for the Nifty above 25,400. Several companies like Tata Steel, Hero MotoCorp, Nykaa
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-steel-hero-motocorp-bharti-airtel-ril-nykaa/articleshow/127962909.cms
+
+- Asian stocks tumble as AI rout deepens, silver hammered
+  Asian stocks extended losses for a second day, mirroring a Wall Street selloff driven by concerns over AI's impact on software profits. Precious metals and cryptocurrencies also experienced significant volatility.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-tumble-as-ai-rout-deepens-silver-hammered/articleshow/127962703.cms
+
+- Wall Street ends sharply down as AI worries weigh
+  Wall Street closed sharply lower as tech giants like Microsoft and Amazon saw significant drops. Investors grew wary of hefty AI investments, fearing they may not translate into immediate revenue and profit boosts.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/wall-street-ends-sharply-down-as-ai-worries-weigh/articleshow/127962587.cms
 
 - Hero MotoCorp standalone profit rises 12% to Rs 1,349 crore
   Hero MotoCorp reported a 12% rise in net profit to Rs 1,349 crore for Q3 FY26. Revenues climbed 21% to Rs 12,328 crore. The company saw a 16% increase in sales volume,
@@ -128,97 +140,85 @@
   Sebi has banned 15 individuals for three years and fined them Rs 3.6 crore for manipulating Unison Metals shares via Telegram. Ten others must disgorge over Rs3.87 crore in unlawful gains.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-bans-15-individuals-from-securities-markets-for-3-years-slaps-rs-3-6-cr-penalty/articleshow/127945075.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Friday
-  Nifty and Sensex snapped gains amid broad selling led by financials, autos and IT. Analysts see consolidation, with key supports intact.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/127944298.cms
-
-- Kennametal India revenue climbs on hard metal demand
-  Kennametal India saw revenue climb 16 percent to Rs 334 crore in the December quarter of FY26. Strong demand for hard metal and hard metal products drove these gains. Expenses also increased, reflecting higher material costs and employee benefits
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/kennametal-india-revenue-climbs-on-hard-metal-demand/articleshow/127944204.cms
-
-- Hero MotoCorp Q3 Results: Cons PAT jumps 14% YoY to Rs 1,268 crore, revenue up 22%; Rs 110 per share dividend announced
-  Hero MotoCorp reported a 14% jump in its December quarter consolidated net profit at Rs 1,268 crore. The profit after tax is attributable to the owners of the company.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q3-results-cons-pat-jumps-14-yoy-to-rs-1268-crore-revenue-up-22-rs-110-per-share-dividend-announced/articleshow/127943864.cms
+- 'Energy security supreme priority': MEA replies to Trump's claim on Russian, Venezuelan oil; says decisio - Times of India
+  'Energy security supreme priority': MEA replies to Trump's claim on Russian
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxNQUhMMHBLLWhpejRlY0VXRFNXNGZIc1prOWhnSS05dF8xRllKWW9UZURaUmxITUx3WC1ycDdfcDZELTA5UUdvSmt3UkJQTmp0Um0tVGNmak1LR2h1b0pndjdyVkJWdjhtVjJfY0xyUUR5TXJFTjRLOFdWX3RTUXJjZ2E3Q1ZxTnhzWnhUOTJQMmsxd0cyOTVqa2MtU2RhMnVya2tJSll0TVNkdXhxcE5NX3NBQ19kNnpNZVk3bkQ1dHNWM3pMNmswMC1EZTZfb0RYeTZkTndydUdXdEhjVDMxYUpOY3BBY09iUjFodGgyWVQwYjRYSmlNM0ZCek9LX0RZWHFOY2lreHpBRV8xRm9Keng5OGhuNFBQdmJidUtUeU5OSFHSAagCQVVfeXFMTm5rUHVBRVdWbm9ZakVxMWp5bFg3LUg5Y1lnM2hCVXpUOTdBdGpJUm8yTDg4eFVXYnl2UGlQZm9TejFKb01uVnFWSWtUd25MQ3pRbUtDMDloWWVrRG5SV1QxZFFWdTBsWkRDUElVNzhlVThtMWJtVWViZVRFanoxazh5VzdiT2Y2dTRrMXJlRVR6M2tCRVF0TTc2X0pXLUZpbHlRZDdYSE9jUVRtb0U0Um5ST280S3RWMlRLLWNBZmlHTlBfR3NHN2l5Yl9GTDB4UGV4cndjNFVMYlp1VGwtQ0sxTVJhWi1EanZtRmsyZUV4LXhkRVBfclBRV050SWNXOGI3QkVrVmRxdnAwdjM0MWwyWTBOZ3JNM1FkRlJleXhxeFE1Q3ZnUnU?oc=5
 
 - "New Delhi Is Free...": Moscow On India Stopping Russia Oil Trade Under US Deal - NDTV
   "New Delhi Is Free...": Moscow On India Stopping
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUZxNF9ieFNQaWp2RlhEREZiZ2Z0WUtoMk9YTUhpNldSejZmYWdYSjJrbnhMd2dGOXRwcjhIUmRaVW1GNkFhVXdqSDZVeFh0REVsSk01M0UtZExKMUZHdkpSSUk0MnFGc3cwZDdSUS1YOC1BMVlkWGZ6Z1lPQXRfUXFKM3FHSEtLVlJtbUdTV1NacHhuLWJxcG9aUWVQdWdvTG1PWlIwN1pLUlFt0gG0AUFVX3lxTE9aVjZZS1Y5bW52ZHZFUDFBazJyTXVoS2s4My0wZVVadzNYTUJnbDRJLTIyM1BxalYtWDVBZTFwb3NYWHpRdlFjOHBZc3VobU9tYXc3UVc5VlRhNWVMdW9OWVZEd09ST1dPYllZTWpycDdPTnB1NHVIU3ZUTUxoNENtZjJoNE1CejRRTDFJdnBpLXlxWG1NODh3NXZuYzh2Y2hGeXV5dkF0OFp1TFdKcEhua1hVTg?oc=5
 
-- India-US Trade Deal, With 18% Reciprocal Tariff, To Be Signed By Mid-March - NDTV
-  India-US Trade Deal, With 18% Rec
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQUW9LNEJ3ajFHVFJrZng2ZWpiQ3BMbl9jcm9JckxqaTFJdXJhMUJ4bkhQZjk1WmdSWnRSRzhpV0ZLNlEtVzdNcERCNjJZNEVIcUNONks1Ym1remJucFBQMmNXc2Z4ajlBRXp2V3JtWV9tNlVtSlJVT1ZvQmNFa3BoWTNLT002OEtOUHRjV2xLUkxCTmtfYlktRXBDT3hsNmFwX1JYRjZVeFI5RVN6VXVYYdIBuAFBVV95cUxNbDgycmF5T2dDWU5XS084UG5wNU9ObkVUY1RHZ3M3TF93NHFFUE9JLUg0T0o2cTZHQjNIcC12VVdYSmJMTlB5aG4zX2dURGhPR0NaZ1JHRlF5M25hNmFrTktEZnNBTFZVS3kxN2c1R1NRTXVTVUVPcnFoa2l1aXpRY25LWHUtMF9EMUJhZHNXOU9hTUxOS29wUmdPY3ZFUFdISExwX1NLcWhPWGxsZEtXaFpaRFhwMHhY?oc=5
+- ‘Our top priority is...’: India's first remark on Trump's claim of stopping Russian oil purchase | India News - Hindustan Times
+  ‘Our top priority is...’: India's first remark on Trump's
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNnppV2k0S2dkd2ZxZmZoTUFCM0RKU3VSbkI1SUZXTUt6amkxa0N5d21JYVVicGFIckF1T3pKTEsyTkJvRTZmb3JUb0lNNmI0c3NnTVhoZ1FXbjlKQUNDdWQtM3Ftd2M4RjMyc3AwRVpzQnpnUzlNMW5icldmUjdjMXRPTEcybzEzV0RKVzhReEdZYl9RM09hdW9oM3VzX0syOGRSQ01CcHI2WW1wTkVBMnNFcTRHMkROa0Q2dEkzbHhidHZ6Ukp3MVloS1JzdEVJeXBWeGtuTWw1ZC1tVUNDcVNBalpJd9IB6wFBVV95cUxQSTRjSEdjSnFvTVdKdFhIZm1CSDJiS0NQTDdBeWZLaWFHWThfZDJLbEtxdUpvb0Nwcks2Y092djBpYmJjWEkzR1g0bkRyemluSGQ4QUdPQ3JXQ2gzWm14QzV6NGt0aEJ1dVcycTgtOExmdDN0Qy1rT3ZWWGJsVzJaMG5la0tyRXR3bVAxcFZUZDJHNTVjclpWUElvWUVJTlJZYXhiQTExNDdjS2d2dXM1VExfbUxELUtYdkhPblU0R2NoTm8tamh6NmxraWJBUXVXT2dUV2JOSGNXRXNXRnQ2cF9EQW1sNU5GVnJR?oc=5
 
-- Air India Group Tops List Of Planes With Recurring Technical Issues: Centre - NDTV
-  Air India Group Tops List Of Planes With Rec
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNaQlNITVVHZHMxT1RHRzlOckd2bEh0UXNleURFclNsWno1dFdPdXZ3M1p0bWJOZFdTYWM0SVhHb1R2ZkZBdXNNNDUxX200R1puczYyX21zdEt1SUlrR25WaThYTWpIQXh2RVZaSU5qSHNDT0tMS1Z0Rm4wUl9OMjhYVERYREFrb1ZVNVYxdTNDSzR0amVpbFhtTnpjTHloS3NIc0JqOGthSENaWE43ajlnWkR0d9IBvgFBVV95cUxQMC1KcG13YVhRUnk3THBXcVpYUHNwQkJBcUlPbWtNaEJFN1NtREZOcmVCNGR6OHd0YUhHVnI2X1JYeWJGVUVfalRoZVl5cjVlR1A2a3RXR253WDVDQTVpLW9DckZvN2swMjRLdTZNYjk2dkNxTC1waS11SjFNNGIwTnl4V0tOVnNBQzBDcWZZc1c0MWI5ZHVnVHFVd0NublB5QlBORHczZGhVS1Z5eGh2NGM0VGt5U1lBZ2YzVHV3?oc=5
+- Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
 
-- "Colourful": Jamaat Chief's Response To Question On India-Bangladesh Ties - NDTV
-  "Colourful": Jamaat
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQY05weXYxZzVlVEY0R0h1Wk1DMFVCTm5VN3J3Z0RRY211VURrRklCWVBBV2tkYzJWcWF2eU0yaFROQWloQTBNcF9ONmFMSndHazJfbVhjV29KajNycUdaQ1ZCZmhTRnZSWFlBZ3NLbHA1aERvemNxQ20wY2x6b1dsaTlyNmxRZkpzLVZyUm9HbDc3UHpNSjI3dWZPX1V1V2tqQjZ2THlMekd3VVloaTdV0gG3AUFVX3lxTE1xeGJrVFpVenhQN0hGUGJuWUlVUzIwLXB6OGNEWnpPRFNLeW8tcjIzR1lfVk8walZ6RXdoRXNQVUV2RGItY1RjV29Wb1I2bXpzNVVaaTkzRnV0WmpkZ0NXclRFSFhTcDMzRUFXSmtnWTBuTm5oTWZWb05zemNBWTVLOGZhRVJXaDlZLW0zU2otc2RPQlFyZ0xfRWhNSWRuUjRsTENUa01iRktPYTYxdkYtSzljTjZlVQ?oc=5
+- Infertility in India: bringing mental health to the forefront - thehindu.com
+  Infertility in India: bringing mental
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUERDWWF4Zl9jT29uNFlmdkVoSzNtVmQ1M0hPOEt0aWQ4SjJxMkQ5Vm4ySVVkTU9peXV1NlphSk5TcnNJM0JPM2dMVlp1T3o5UndIV0hqSjFSTlI3dURNay14aElIcTB0RHBFN3VMZkJyNzVrMUExX3FGMU5ocFBHQzU3ZjFWdElFRk95RG5vRTlac1VyemtGZmZORmxXUEdrZHF3cGU4ZHl5ckM2NlFFZDEzaWNsNkUwRGw2RHh30gHEAUFVX3lxTFA4VWlPbGRPcGRTSzB3N0I1dGFtQVZEY3dHMVBVQzRoWDhsejNJRUpZQ3RfMXlvZGZ4VjktSEg4bGhrNUJGYllLR3c1OHZnRGZBVlhaWHEwbmpOQ2ZUOVp6cE5SY1ZRNVZEdURZSzJYc1U3eDBpUzNYNUNRanNuQU16VXplY3lhTkFzcDNRTGxMTGFhakVvSXdZeGVnWXpfalppeVN1VDl4Q1VwNkJtTEk1NGc1dk9iaTQzVmNDamNvVXpMZS0?oc=5
 
-- Political Storm Over Madhya Pradesh Minister's Threat On "Ladli Behna" Scheme - NDTV
-  The Madhya Pradesh government has threatened to impose
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVNHOHdpV0ZGV2RMUGhpNFNNRjdLN3hBZVBzWXJPX1ZRemxEc2hPSWdRWXpGYVFpTXlKR3JMV1FxZV92RVZEUFBhVC0tY05PSTAwNUJuTHRvNTQ2OVNYWjB0TGFpWHdjTlJxVHJTN2hGNnNfVld3am14WnhQSHd5UHBaREtja2swMnRhUWZtMktNUkFwajl2NS0zelNRLVRNeS05WEhLLUhOTVFzN3U4Y2RsUnRMUdIBvgFBVV95cUxQT2hhSTd1WEs3c1dtYlJiWThpRS1mcDNYQmNZOGhXbHZXRm4yWDVqMjRhTWZqcHhXazZZVkU1N1ZlbjBYVzhaLWl2RDdlYnhyRWZpWFg0NS1hZ2ZBcFBCTW5sSkhjOF91NlpBUDEtalU0aWhoUnlzUkZjVG5CMExUWG9TdEJ1QVhEV3JRX3pzTzB1N1BLcmdqd2M0RjRZMU5qdkFWTTJTUjlSYUxVRC1INUVUOXFGYXIzMVZKWG13?oc=5
-
-- "New Delhi Is Free...": Moscow On India Stopping Russia Oil Trade Under US Deal - NDTV
-  "New Delhi Is Free...": Moscow On India Stopping
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUZxNF9ieFNQaWp2RlhEREZiZ2Z0WUtoMk9YTUhpNldSejZmYWdYSjJrbnhMd2dGOXRwcjhIUmRaVW1GNkFhVXdqSDZVeFh0REVsSk01M0UtZExKMUZHdkpSSUk0MnFGc3cwZDdSUS1YOC1BMVlkWGZ6Z1lPQXRfUXFKM3FHSEtLVlJtbUdTV1NacHhuLWJxcG9aUWVQdWdvTG1PWlIwN1pLUlFt0gG0AUFVX3lxTE9aVjZZS1Y5bW52ZHZFUDFBazJyTXVoS2s4My0wZVVadzNYTUJnbDRJLTIyM1BxalYtWDVBZTFwb3NYWHpRdlFjOHBZc3VobU9tYXc3UVc5VlRhNWVMdW9OWVZEd09ST1dPYllZTWpycDdPTnB1NHVIU3ZUTUxoNENtZjJoNE1CejRRTDFJdnBpLXlxWG1NODh3NXZuYzh2Y2hGeXV5dkF0OFp1TFdKcEhua1hVTg?oc=5
-
-- India-US Trade Deal, With 18% Reciprocal Tariff, To Be Signed By Mid-March - NDTV
-  India-US Trade Deal, With 18% Rec
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQUW9LNEJ3ajFHVFJrZng2ZWpiQ3BMbl9jcm9JckxqaTFJdXJhMUJ4bkhQZjk1WmdSWnRSRzhpV0ZLNlEtVzdNcERCNjJZNEVIcUNONks1Ym1remJucFBQMmNXc2Z4ajlBRXp2V3JtWV9tNlVtSlJVT1ZvQmNFa3BoWTNLT002OEtOUHRjV2xLUkxCTmtfYlktRXBDT3hsNmFwX1JYRjZVeFI5RVN6VXVYYdIBuAFBVV95cUxNbDgycmF5T2dDWU5XS084UG5wNU9ObkVUY1RHZ3M3TF93NHFFUE9JLUg0T0o2cTZHQjNIcC12VVdYSmJMTlB5aG4zX2dURGhPR0NaZ1JHRlF5M25hNmFrTktEZnNBTFZVS3kxN2c1R1NRTXVTVUVPcnFoa2l1aXpRY25LWHUtMF9EMUJhZHNXOU9hTUxOS29wUmdPY3ZFUFdISExwX1NLcWhPWGxsZEtXaFpaRFhwMHhY?oc=5
-
-- Air India Group Tops List Of Planes With Recurring Technical Issues: Centre - NDTV
-  Air India Group Tops List Of Planes With Rec
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNaQlNITVVHZHMxT1RHRzlOckd2bEh0UXNleURFclNsWno1dFdPdXZ3M1p0bWJOZFdTYWM0SVhHb1R2ZkZBdXNNNDUxX200R1puczYyX21zdEt1SUlrR25WaThYTWpIQXh2RVZaSU5qSHNDT0tMS1Z0Rm4wUl9OMjhYVERYREFrb1ZVNVYxdTNDSzR0amVpbFhtTnpjTHloS3NIc0JqOGthSENaWE43ajlnWkR0d9IBvgFBVV95cUxQMC1KcG13YVhRUnk3THBXcVpYUHNwQkJBcUlPbWtNaEJFN1NtREZOcmVCNGR6OHd0YUhHVnI2X1JYeWJGVUVfalRoZVl5cjVlR1A2a3RXR253WDVDQTVpLW9DckZvN2swMjRLdTZNYjk2dkNxTC1waS11SjFNNGIwTnl4V0tOVnNBQzBDcWZZc1c0MWI5ZHVnVHFVd0NublB5QlBORHczZGhVS1Z5eGh2NGM0VGt5U1lBZ2YzVHV3?oc=5
-
-- "Colourful": Jamaat Chief's Response To Question On India-Bangladesh Ties - NDTV
-  "Colourful": Jamaat
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQY05weXYxZzVlVEY0R0h1Wk1DMFVCTm5VN3J3Z0RRY211VURrRklCWVBBV2tkYzJWcWF2eU0yaFROQWloQTBNcF9ONmFMSndHazJfbVhjV29KajNycUdaQ1ZCZmhTRnZSWFlBZ3NLbHA1aERvemNxQ20wY2x6b1dsaTlyNmxRZkpzLVZyUm9HbDc3UHpNSjI3dWZPX1V1V2tqQjZ2THlMekd3VVloaTdV0gG3AUFVX3lxTE1xeGJrVFpVenhQN0hGUGJuWUlVUzIwLXB6OGNEWnpPRFNLeW8tcjIzR1lfVk8walZ6RXdoRXNQVUV2RGItY1RjV29Wb1I2bXpzNVVaaTkzRnV0WmpkZ0NXclRFSFhTcDMzRUFXSmtnWTBuTm5oTWZWb05zemNBWTVLOGZhRVJXaDlZLW0zU2otc2RPQlFyZ0xfRWhNSWRuUjRsTENUa01iRktPYTYxdkYtSzljTjZlVQ?oc=5
-
-- Political Storm Over Madhya Pradesh Minister's Threat On "Ladli Behna" Scheme - NDTV
-  The Madhya Pradesh government has threatened to impose
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVNHOHdpV0ZGV2RMUGhpNFNNRjdLN3hBZVBzWXJPX1ZRemxEc2hPSWdRWXpGYVFpTXlKR3JMV1FxZV92RVZEUFBhVC0tY05PSTAwNUJuTHRvNTQ2OVNYWjB0TGFpWHdjTlJxVHJTN2hGNnNfVld3am14WnhQSHd5UHBaREtja2swMnRhUWZtMktNUkFwajl2NS0zelNRLVRNeS05WEhLLUhOTVFzN3U4Y2RsUnRMUdIBvgFBVV95cUxQT2hhSTd1WEs3c1dtYlJiWThpRS1mcDNYQmNZOGhXbHZXRm4yWDVqMjRhTWZqcHhXazZZVkU1N1ZlbjBYVzhaLWl2RDdlYnhyRWZpWFg0NS1hZ2ZBcFBCTW5sSkhjOF91NlpBUDEtalU0aWhoUnlzUkZjVG5CMExUWG9TdEJ1QVhEV3JRX3pzTzB1N1BLcmdqd2M0RjRZMU5qdkFWTTJTUjlSYUxVRC1INUVUOXFGYXIzMVZKWG13?oc=5
+- 'Energy security supreme priority': MEA replies to Trump's claim on Russian, Venezuelan oil; says decisio - Times of India
+  'Energy security supreme priority': MEA replies to Trump's claim on Russian
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxNQUhMMHBLLWhpejRlY0VXRFNXNGZIc1prOWhnSS05dF8xRllKWW9UZURaUmxITUx3WC1ycDdfcDZELTA5UUdvSmt3UkJQTmp0Um0tVGNmak1LR2h1b0pndjdyVkJWdjhtVjJfY0xyUUR5TXJFTjRLOFdWX3RTUXJjZ2E3Q1ZxTnhzWnhUOTJQMmsxd0cyOTVqa2MtU2RhMnVya2tJSll0TVNkdXhxcE5NX3NBQ19kNnpNZVk3bkQ1dHNWM3pMNmswMC1EZTZfb0RYeTZkTndydUdXdEhjVDMxYUpOY3BBY09iUjFodGgyWVQwYjRYSmlNM0ZCek9LX0RZWHFOY2lreHpBRV8xRm9Keng5OGhuNFBQdmJidUtUeU5OSFHSAagCQVVfeXFMTm5rUHVBRVdWbm9ZakVxMWp5bFg3LUg5Y1lnM2hCVXpUOTdBdGpJUm8yTDg4eFVXYnl2UGlQZm9TejFKb01uVnFWSWtUd25MQ3pRbUtDMDloWWVrRG5SV1QxZFFWdTBsWkRDUElVNzhlVThtMWJtVWViZVRFanoxazh5VzdiT2Y2dTRrMXJlRVR6M2tCRVF0TTc2X0pXLUZpbHlRZDdYSE9jUVRtb0U0Um5ST280S3RWMlRLLWNBZmlHTlBfR3NHN2l5Yl9GTDB4UGV4cndjNFVMYlp1VGwtQ0sxTVJhWi1EanZtRmsyZUV4LXhkRVBfclBRV050SWNXOGI3QkVrVmRxdnAwdjM0MWwyWTBOZ3JNM1FkRlJleXhxeFE1Q3ZnUnU?oc=5
 
 - "New Delhi Is Free...": Moscow On India Stopping Russia Oil Trade Under US Deal - NDTV
   "New Delhi Is Free...": Moscow On India Stopping
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUZxNF9ieFNQaWp2RlhEREZiZ2Z0WUtoMk9YTUhpNldSejZmYWdYSjJrbnhMd2dGOXRwcjhIUmRaVW1GNkFhVXdqSDZVeFh0REVsSk01M0UtZExKMUZHdkpSSUk0MnFGc3cwZDdSUS1YOC1BMVlkWGZ6Z1lPQXRfUXFKM3FHSEtLVlJtbUdTV1NacHhuLWJxcG9aUWVQdWdvTG1PWlIwN1pLUlFt0gG0AUFVX3lxTE9aVjZZS1Y5bW52ZHZFUDFBazJyTXVoS2s4My0wZVVadzNYTUJnbDRJLTIyM1BxalYtWDVBZTFwb3NYWHpRdlFjOHBZc3VobU9tYXc3UVc5VlRhNWVMdW9OWVZEd09ST1dPYllZTWpycDdPTnB1NHVIU3ZUTUxoNENtZjJoNE1CejRRTDFJdnBpLXlxWG1NODh3NXZuYzh2Y2hGeXV5dkF0OFp1TFdKcEhua1hVTg?oc=5
 
-- India-US Trade Deal, With 18% Reciprocal Tariff, To Be Signed By Mid-March - NDTV
-  India-US Trade Deal, With 18% Rec
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQUW9LNEJ3ajFHVFJrZng2ZWpiQ3BMbl9jcm9JckxqaTFJdXJhMUJ4bkhQZjk1WmdSWnRSRzhpV0ZLNlEtVzdNcERCNjJZNEVIcUNONks1Ym1remJucFBQMmNXc2Z4ajlBRXp2V3JtWV9tNlVtSlJVT1ZvQmNFa3BoWTNLT002OEtOUHRjV2xLUkxCTmtfYlktRXBDT3hsNmFwX1JYRjZVeFI5RVN6VXVYYdIBuAFBVV95cUxNbDgycmF5T2dDWU5XS084UG5wNU9ObkVUY1RHZ3M3TF93NHFFUE9JLUg0T0o2cTZHQjNIcC12VVdYSmJMTlB5aG4zX2dURGhPR0NaZ1JHRlF5M25hNmFrTktEZnNBTFZVS3kxN2c1R1NRTXVTVUVPcnFoa2l1aXpRY25LWHUtMF9EMUJhZHNXOU9hTUxOS29wUmdPY3ZFUFdISExwX1NLcWhPWGxsZEtXaFpaRFhwMHhY?oc=5
+- ‘Our top priority is...’: India's first remark on Trump's claim of stopping Russian oil purchase | India News - Hindustan Times
+  ‘Our top priority is...’: India's first remark on Trump's
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNnppV2k0S2dkd2ZxZmZoTUFCM0RKU3VSbkI1SUZXTUt6amkxa0N5d21JYVVicGFIckF1T3pKTEsyTkJvRTZmb3JUb0lNNmI0c3NnTVhoZ1FXbjlKQUNDdWQtM3Ftd2M4RjMyc3AwRVpzQnpnUzlNMW5icldmUjdjMXRPTEcybzEzV0RKVzhReEdZYl9RM09hdW9oM3VzX0syOGRSQ01CcHI2WW1wTkVBMnNFcTRHMkROa0Q2dEkzbHhidHZ6Ukp3MVloS1JzdEVJeXBWeGtuTWw1ZC1tVUNDcVNBalpJd9IB6wFBVV95cUxQSTRjSEdjSnFvTVdKdFhIZm1CSDJiS0NQTDdBeWZLaWFHWThfZDJLbEtxdUpvb0Nwcks2Y092djBpYmJjWEkzR1g0bkRyemluSGQ4QUdPQ3JXQ2gzWm14QzV6NGt0aEJ1dVcycTgtOExmdDN0Qy1rT3ZWWGJsVzJaMG5la0tyRXR3bVAxcFZUZDJHNTVjclpWUElvWUVJTlJZYXhiQTExNDdjS2d2dXM1VExfbUxELUtYdkhPblU0R2NoTm8tamh6NmxraWJBUXVXT2dUV2JOSGNXRXNXRnQ2cF9EQW1sNU5GVnJR?oc=5
 
-- Air India Group Tops List Of Planes With Recurring Technical Issues: Centre - NDTV
-  Air India Group Tops List Of Planes With Rec
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNaQlNITVVHZHMxT1RHRzlOckd2bEh0UXNleURFclNsWno1dFdPdXZ3M1p0bWJOZFdTYWM0SVhHb1R2ZkZBdXNNNDUxX200R1puczYyX21zdEt1SUlrR25WaThYTWpIQXh2RVZaSU5qSHNDT0tMS1Z0Rm4wUl9OMjhYVERYREFrb1ZVNVYxdTNDSzR0amVpbFhtTnpjTHloS3NIc0JqOGthSENaWE43ajlnWkR0d9IBvgFBVV95cUxQMC1KcG13YVhRUnk3THBXcVpYUHNwQkJBcUlPbWtNaEJFN1NtREZOcmVCNGR6OHd0YUhHVnI2X1JYeWJGVUVfalRoZVl5cjVlR1A2a3RXR253WDVDQTVpLW9DckZvN2swMjRLdTZNYjk2dkNxTC1waS11SjFNNGIwTnl4V0tOVnNBQzBDcWZZc1c0MWI5ZHVnVHFVd0NublB5QlBORHczZGhVS1Z5eGh2NGM0VGt5U1lBZ2YzVHV3?oc=5
+- Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
 
-- "Colourful": Jamaat Chief's Response To Question On India-Bangladesh Ties - NDTV
-  "Colourful": Jamaat
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQY05weXYxZzVlVEY0R0h1Wk1DMFVCTm5VN3J3Z0RRY211VURrRklCWVBBV2tkYzJWcWF2eU0yaFROQWloQTBNcF9ONmFMSndHazJfbVhjV29KajNycUdaQ1ZCZmhTRnZSWFlBZ3NLbHA1aERvemNxQ20wY2x6b1dsaTlyNmxRZkpzLVZyUm9HbDc3UHpNSjI3dWZPX1V1V2tqQjZ2THlMekd3VVloaTdV0gG3AUFVX3lxTE1xeGJrVFpVenhQN0hGUGJuWUlVUzIwLXB6OGNEWnpPRFNLeW8tcjIzR1lfVk8walZ6RXdoRXNQVUV2RGItY1RjV29Wb1I2bXpzNVVaaTkzRnV0WmpkZ0NXclRFSFhTcDMzRUFXSmtnWTBuTm5oTWZWb05zemNBWTVLOGZhRVJXaDlZLW0zU2otc2RPQlFyZ0xfRWhNSWRuUjRsTENUa01iRktPYTYxdkYtSzljTjZlVQ?oc=5
+- Infertility in India: bringing mental health to the forefront - thehindu.com
+  Infertility in India: bringing mental
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUERDWWF4Zl9jT29uNFlmdkVoSzNtVmQ1M0hPOEt0aWQ4SjJxMkQ5Vm4ySVVkTU9peXV1NlphSk5TcnNJM0JPM2dMVlp1T3o5UndIV0hqSjFSTlI3dURNay14aElIcTB0RHBFN3VMZkJyNzVrMUExX3FGMU5ocFBHQzU3ZjFWdElFRk95RG5vRTlac1VyemtGZmZORmxXUEdrZHF3cGU4ZHl5ckM2NlFFZDEzaWNsNkUwRGw2RHh30gHEAUFVX3lxTFA4VWlPbGRPcGRTSzB3N0I1dGFtQVZEY3dHMVBVQzRoWDhsejNJRUpZQ3RfMXlvZGZ4VjktSEg4bGhrNUJGYllLR3c1OHZnRGZBVlhaWHEwbmpOQ2ZUOVp6cE5SY1ZRNVZEdURZSzJYc1U3eDBpUzNYNUNRanNuQU16VXplY3lhTkFzcDNRTGxMTGFhakVvSXdZeGVnWXpfalppeVN1VDl4Q1VwNkJtTEk1NGc1dk9iaTQzVmNDamNvVXpMZS0?oc=5
 
-- Political Storm Over Madhya Pradesh Minister's Threat On "Ladli Behna" Scheme - NDTV
-  The Madhya Pradesh government has threatened to impose
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVNHOHdpV0ZGV2RMUGhpNFNNRjdLN3hBZVBzWXJPX1ZRemxEc2hPSWdRWXpGYVFpTXlKR3JMV1FxZV92RVZEUFBhVC0tY05PSTAwNUJuTHRvNTQ2OVNYWjB0TGFpWHdjTlJxVHJTN2hGNnNfVld3am14WnhQSHd5UHBaREtja2swMnRhUWZtMktNUkFwajl2NS0zelNRLVRNeS05WEhLLUhOTVFzN3U4Y2RsUnRMUdIBvgFBVV95cUxQT2hhSTd1WEs3c1dtYlJiWThpRS1mcDNYQmNZOGhXbHZXRm4yWDVqMjRhTWZqcHhXazZZVkU1N1ZlbjBYVzhaLWl2RDdlYnhyRWZpWFg0NS1hZ2ZBcFBCTW5sSkhjOF91NlpBUDEtalU0aWhoUnlzUkZjVG5CMExUWG9TdEJ1QVhEV3JRX3pzTzB1N1BLcmdqd2M0RjRZMU5qdkFWTTJTUjlSYUxVRC1INUVUOXFGYXIzMVZKWG13?oc=5
+- 'Energy security supreme priority': MEA replies to Trump's claim on Russian, Venezuelan oil; says decisio - Times of India
+  'Energy security supreme priority': MEA replies to Trump's claim on Russian
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxNQUhMMHBLLWhpejRlY0VXRFNXNGZIc1prOWhnSS05dF8xRllKWW9UZURaUmxITUx3WC1ycDdfcDZELTA5UUdvSmt3UkJQTmp0Um0tVGNmak1LR2h1b0pndjdyVkJWdjhtVjJfY0xyUUR5TXJFTjRLOFdWX3RTUXJjZ2E3Q1ZxTnhzWnhUOTJQMmsxd0cyOTVqa2MtU2RhMnVya2tJSll0TVNkdXhxcE5NX3NBQ19kNnpNZVk3bkQ1dHNWM3pMNmswMC1EZTZfb0RYeTZkTndydUdXdEhjVDMxYUpOY3BBY09iUjFodGgyWVQwYjRYSmlNM0ZCek9LX0RZWHFOY2lreHpBRV8xRm9Keng5OGhuNFBQdmJidUtUeU5OSFHSAagCQVVfeXFMTm5rUHVBRVdWbm9ZakVxMWp5bFg3LUg5Y1lnM2hCVXpUOTdBdGpJUm8yTDg4eFVXYnl2UGlQZm9TejFKb01uVnFWSWtUd25MQ3pRbUtDMDloWWVrRG5SV1QxZFFWdTBsWkRDUElVNzhlVThtMWJtVWViZVRFanoxazh5VzdiT2Y2dTRrMXJlRVR6M2tCRVF0TTc2X0pXLUZpbHlRZDdYSE9jUVRtb0U0Um5ST280S3RWMlRLLWNBZmlHTlBfR3NHN2l5Yl9GTDB4UGV4cndjNFVMYlp1VGwtQ0sxTVJhWi1EanZtRmsyZUV4LXhkRVBfclBRV050SWNXOGI3QkVrVmRxdnAwdjM0MWwyWTBOZ3JNM1FkRlJleXhxeFE1Q3ZnUnU?oc=5
 
 - "New Delhi Is Free...": Moscow On India Stopping Russia Oil Trade Under US Deal - NDTV
   "New Delhi Is Free...": Moscow On India Stopping
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUZxNF9ieFNQaWp2RlhEREZiZ2Z0WUtoMk9YTUhpNldSejZmYWdYSjJrbnhMd2dGOXRwcjhIUmRaVW1GNkFhVXdqSDZVeFh0REVsSk01M0UtZExKMUZHdkpSSUk0MnFGc3cwZDdSUS1YOC1BMVlkWGZ6Z1lPQXRfUXFKM3FHSEtLVlJtbUdTV1NacHhuLWJxcG9aUWVQdWdvTG1PWlIwN1pLUlFt0gG0AUFVX3lxTE9aVjZZS1Y5bW52ZHZFUDFBazJyTXVoS2s4My0wZVVadzNYTUJnbDRJLTIyM1BxalYtWDVBZTFwb3NYWHpRdlFjOHBZc3VobU9tYXc3UVc5VlRhNWVMdW9OWVZEd09ST1dPYllZTWpycDdPTnB1NHVIU3ZUTUxoNENtZjJoNE1CejRRTDFJdnBpLXlxWG1NODh3NXZuYzh2Y2hGeXV5dkF0OFp1TFdKcEhua1hVTg?oc=5
 
-- India-US Trade Deal, With 18% Reciprocal Tariff, To Be Signed By Mid-March - NDTV
-  India-US Trade Deal, With 18% Rec
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQUW9LNEJ3ajFHVFJrZng2ZWpiQ3BMbl9jcm9JckxqaTFJdXJhMUJ4bkhQZjk1WmdSWnRSRzhpV0ZLNlEtVzdNcERCNjJZNEVIcUNONks1Ym1remJucFBQMmNXc2Z4ajlBRXp2V3JtWV9tNlVtSlJVT1ZvQmNFa3BoWTNLT002OEtOUHRjV2xLUkxCTmtfYlktRXBDT3hsNmFwX1JYRjZVeFI5RVN6VXVYYdIBuAFBVV95cUxNbDgycmF5T2dDWU5XS084UG5wNU9ObkVUY1RHZ3M3TF93NHFFUE9JLUg0T0o2cTZHQjNIcC12VVdYSmJMTlB5aG4zX2dURGhPR0NaZ1JHRlF5M25hNmFrTktEZnNBTFZVS3kxN2c1R1NRTXVTVUVPcnFoa2l1aXpRY25LWHUtMF9EMUJhZHNXOU9hTUxOS29wUmdPY3ZFUFdISExwX1NLcWhPWGxsZEtXaFpaRFhwMHhY?oc=5
+- ‘Our top priority is...’: India's first remark on Trump's claim of stopping Russian oil purchase | India News - Hindustan Times
+  ‘Our top priority is...’: India's first remark on Trump's
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNnppV2k0S2dkd2ZxZmZoTUFCM0RKU3VSbkI1SUZXTUt6amkxa0N5d21JYVVicGFIckF1T3pKTEsyTkJvRTZmb3JUb0lNNmI0c3NnTVhoZ1FXbjlKQUNDdWQtM3Ftd2M4RjMyc3AwRVpzQnpnUzlNMW5icldmUjdjMXRPTEcybzEzV0RKVzhReEdZYl9RM09hdW9oM3VzX0syOGRSQ01CcHI2WW1wTkVBMnNFcTRHMkROa0Q2dEkzbHhidHZ6Ukp3MVloS1JzdEVJeXBWeGtuTWw1ZC1tVUNDcVNBalpJd9IB6wFBVV95cUxQSTRjSEdjSnFvTVdKdFhIZm1CSDJiS0NQTDdBeWZLaWFHWThfZDJLbEtxdUpvb0Nwcks2Y092djBpYmJjWEkzR1g0bkRyemluSGQ4QUdPQ3JXQ2gzWm14QzV6NGt0aEJ1dVcycTgtOExmdDN0Qy1rT3ZWWGJsVzJaMG5la0tyRXR3bVAxcFZUZDJHNTVjclpWUElvWUVJTlJZYXhiQTExNDdjS2d2dXM1VExfbUxELUtYdkhPblU0R2NoTm8tamh6NmxraWJBUXVXT2dUV2JOSGNXRXNXRnQ2cF9EQW1sNU5GVnJR?oc=5
 
-- Air India Group Tops List Of Planes With Recurring Technical Issues: Centre - NDTV
-  Air India Group Tops List Of Planes With Rec
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNaQlNITVVHZHMxT1RHRzlOckd2bEh0UXNleURFclNsWno1dFdPdXZ3M1p0bWJOZFdTYWM0SVhHb1R2ZkZBdXNNNDUxX200R1puczYyX21zdEt1SUlrR25WaThYTWpIQXh2RVZaSU5qSHNDT0tMS1Z0Rm4wUl9OMjhYVERYREFrb1ZVNVYxdTNDSzR0amVpbFhtTnpjTHloS3NIc0JqOGthSENaWE43ajlnWkR0d9IBvgFBVV95cUxQMC1KcG13YVhRUnk3THBXcVpYUHNwQkJBcUlPbWtNaEJFN1NtREZOcmVCNGR6OHd0YUhHVnI2X1JYeWJGVUVfalRoZVl5cjVlR1A2a3RXR253WDVDQTVpLW9DckZvN2swMjRLdTZNYjk2dkNxTC1waS11SjFNNGIwTnl4V0tOVnNBQzBDcWZZc1c0MWI5ZHVnVHFVd0NublB5QlBORHczZGhVS1Z5eGh2NGM0VGt5U1lBZ2YzVHV3?oc=5
+- Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
 
-- "Colourful": Jamaat Chief's Response To Question On India-Bangladesh Ties - NDTV
-  "Colourful": Jamaat
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQY05weXYxZzVlVEY0R0h1Wk1DMFVCTm5VN3J3Z0RRY211VURrRklCWVBBV2tkYzJWcWF2eU0yaFROQWloQTBNcF9ONmFMSndHazJfbVhjV29KajNycUdaQ1ZCZmhTRnZSWFlBZ3NLbHA1aERvemNxQ20wY2x6b1dsaTlyNmxRZkpzLVZyUm9HbDc3UHpNSjI3dWZPX1V1V2tqQjZ2THlMekd3VVloaTdV0gG3AUFVX3lxTE1xeGJrVFpVenhQN0hGUGJuWUlVUzIwLXB6OGNEWnpPRFNLeW8tcjIzR1lfVk8walZ6RXdoRXNQVUV2RGItY1RjV29Wb1I2bXpzNVVaaTkzRnV0WmpkZ0NXclRFSFhTcDMzRUFXSmtnWTBuTm5oTWZWb05zemNBWTVLOGZhRVJXaDlZLW0zU2otc2RPQlFyZ0xfRWhNSWRuUjRsTENUa01iRktPYTYxdkYtSzljTjZlVQ?oc=5
+- Infertility in India: bringing mental health to the forefront - thehindu.com
+  Infertility in India: bringing mental
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUERDWWF4Zl9jT29uNFlmdkVoSzNtVmQ1M0hPOEt0aWQ4SjJxMkQ5Vm4ySVVkTU9peXV1NlphSk5TcnNJM0JPM2dMVlp1T3o5UndIV0hqSjFSTlI3dURNay14aElIcTB0RHBFN3VMZkJyNzVrMUExX3FGMU5ocFBHQzU3ZjFWdElFRk95RG5vRTlac1VyemtGZmZORmxXUEdrZHF3cGU4ZHl5ckM2NlFFZDEzaWNsNkUwRGw2RHh30gHEAUFVX3lxTFA4VWlPbGRPcGRTSzB3N0I1dGFtQVZEY3dHMVBVQzRoWDhsejNJRUpZQ3RfMXlvZGZ4VjktSEg4bGhrNUJGYllLR3c1OHZnRGZBVlhaWHEwbmpOQ2ZUOVp6cE5SY1ZRNVZEdURZSzJYc1U3eDBpUzNYNUNRanNuQU16VXplY3lhTkFzcDNRTGxMTGFhakVvSXdZeGVnWXpfalppeVN1VDl4Q1VwNkJtTEk1NGc1dk9iaTQzVmNDamNvVXpMZS0?oc=5
 
-- Political Storm Over Madhya Pradesh Minister's Threat On "Ladli Behna" Scheme - NDTV
-  The Madhya Pradesh government has threatened to impose
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVNHOHdpV0ZGV2RMUGhpNFNNRjdLN3hBZVBzWXJPX1ZRemxEc2hPSWdRWXpGYVFpTXlKR3JMV1FxZV92RVZEUFBhVC0tY05PSTAwNUJuTHRvNTQ2OVNYWjB0TGFpWHdjTlJxVHJTN2hGNnNfVld3am14WnhQSHd5UHBaREtja2swMnRhUWZtMktNUkFwajl2NS0zelNRLVRNeS05WEhLLUhOTVFzN3U4Y2RsUnRMUdIBvgFBVV95cUxQT2hhSTd1WEs3c1dtYlJiWThpRS1mcDNYQmNZOGhXbHZXRm4yWDVqMjRhTWZqcHhXazZZVkU1N1ZlbjBYVzhaLWl2RDdlYnhyRWZpWFg0NS1hZ2ZBcFBCTW5sSkhjOF91NlpBUDEtalU0aWhoUnlzUkZjVG5CMExUWG9TdEJ1QVhEV3JRX3pzTzB1N1BLcmdqd2M0RjRZMU5qdkFWTTJTUjlSYUxVRC1INUVUOXFGYXIzMVZKWG13?oc=5
+- 'Energy security supreme priority': MEA replies to Trump's claim on Russian, Venezuelan oil; says decisio - Times of India
+  'Energy security supreme priority': MEA replies to Trump's claim on Russian
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxNQUhMMHBLLWhpejRlY0VXRFNXNGZIc1prOWhnSS05dF8xRllKWW9UZURaUmxITUx3WC1ycDdfcDZELTA5UUdvSmt3UkJQTmp0Um0tVGNmak1LR2h1b0pndjdyVkJWdjhtVjJfY0xyUUR5TXJFTjRLOFdWX3RTUXJjZ2E3Q1ZxTnhzWnhUOTJQMmsxd0cyOTVqa2MtU2RhMnVya2tJSll0TVNkdXhxcE5NX3NBQ19kNnpNZVk3bkQ1dHNWM3pMNmswMC1EZTZfb0RYeTZkTndydUdXdEhjVDMxYUpOY3BBY09iUjFodGgyWVQwYjRYSmlNM0ZCek9LX0RZWHFOY2lreHpBRV8xRm9Keng5OGhuNFBQdmJidUtUeU5OSFHSAagCQVVfeXFMTm5rUHVBRVdWbm9ZakVxMWp5bFg3LUg5Y1lnM2hCVXpUOTdBdGpJUm8yTDg4eFVXYnl2UGlQZm9TejFKb01uVnFWSWtUd25MQ3pRbUtDMDloWWVrRG5SV1QxZFFWdTBsWkRDUElVNzhlVThtMWJtVWViZVRFanoxazh5VzdiT2Y2dTRrMXJlRVR6M2tCRVF0TTc2X0pXLUZpbHlRZDdYSE9jUVRtb0U0Um5ST280S3RWMlRLLWNBZmlHTlBfR3NHN2l5Yl9GTDB4UGV4cndjNFVMYlp1VGwtQ0sxTVJhWi1EanZtRmsyZUV4LXhkRVBfclBRV050SWNXOGI3QkVrVmRxdnAwdjM0MWwyWTBOZ3JNM1FkRlJleXhxeFE1Q3ZnUnU?oc=5
+
+- "New Delhi Is Free...": Moscow On India Stopping Russia Oil Trade Under US Deal - NDTV
+  "New Delhi Is Free...": Moscow On India Stopping
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUZxNF9ieFNQaWp2RlhEREZiZ2Z0WUtoMk9YTUhpNldSejZmYWdYSjJrbnhMd2dGOXRwcjhIUmRaVW1GNkFhVXdqSDZVeFh0REVsSk01M0UtZExKMUZHdkpSSUk0MnFGc3cwZDdSUS1YOC1BMVlkWGZ6Z1lPQXRfUXFKM3FHSEtLVlJtbUdTV1NacHhuLWJxcG9aUWVQdWdvTG1PWlIwN1pLUlFt0gG0AUFVX3lxTE9aVjZZS1Y5bW52ZHZFUDFBazJyTXVoS2s4My0wZVVadzNYTUJnbDRJLTIyM1BxalYtWDVBZTFwb3NYWHpRdlFjOHBZc3VobU9tYXc3UVc5VlRhNWVMdW9OWVZEd09ST1dPYllZTWpycDdPTnB1NHVIU3ZUTUxoNENtZjJoNE1CejRRTDFJdnBpLXlxWG1NODh3NXZuYzh2Y2hGeXV5dkF0OFp1TFdKcEhua1hVTg?oc=5
+
+- ‘Our top priority is...’: India's first remark on Trump's claim of stopping Russian oil purchase | India News - Hindustan Times
+  ‘Our top priority is...’: India's first remark on Trump's
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNnppV2k0S2dkd2ZxZmZoTUFCM0RKU3VSbkI1SUZXTUt6amkxa0N5d21JYVVicGFIckF1T3pKTEsyTkJvRTZmb3JUb0lNNmI0c3NnTVhoZ1FXbjlKQUNDdWQtM3Ftd2M4RjMyc3AwRVpzQnpnUzlNMW5icldmUjdjMXRPTEcybzEzV0RKVzhReEdZYl9RM09hdW9oM3VzX0syOGRSQ01CcHI2WW1wTkVBMnNFcTRHMkROa0Q2dEkzbHhidHZ6Ukp3MVloS1JzdEVJeXBWeGtuTWw1ZC1tVUNDcVNBalpJd9IB6wFBVV95cUxQSTRjSEdjSnFvTVdKdFhIZm1CSDJiS0NQTDdBeWZLaWFHWThfZDJLbEtxdUpvb0Nwcks2Y092djBpYmJjWEkzR1g0bkRyemluSGQ4QUdPQ3JXQ2gzWm14QzV6NGt0aEJ1dVcycTgtOExmdDN0Qy1rT3ZWWGJsVzJaMG5la0tyRXR3bVAxcFZUZDJHNTVjclpWUElvWUVJTlJZYXhiQTExNDdjS2d2dXM1VExfbUxELUtYdkhPblU0R2NoTm8tamh6NmxraWJBUXVXT2dUV2JOSGNXRXNXRnQ2cF9EQW1sNU5GVnJR?oc=5
+
+- Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
+
+- Infertility in India: bringing mental health to the forefront - thehindu.com
+  Infertility in India: bringing mental
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUERDWWF4Zl9jT29uNFlmdkVoSzNtVmQ1M0hPOEt0aWQ4SjJxMkQ5Vm4ySVVkTU9peXV1NlphSk5TcnNJM0JPM2dMVlp1T3o5UndIV0hqSjFSTlI3dURNay14aElIcTB0RHBFN3VMZkJyNzVrMUExX3FGMU5ocFBHQzU3ZjFWdElFRk95RG5vRTlac1VyemtGZmZORmxXUEdrZHF3cGU4ZHl5ckM2NlFFZDEzaWNsNkUwRGw2RHh30gHEAUFVX3lxTFA4VWlPbGRPcGRTSzB3N0I1dGFtQVZEY3dHMVBVQzRoWDhsejNJRUpZQ3RfMXlvZGZ4VjktSEg4bGhrNUJGYllLR3c1OHZnRGZBVlhaWHEwbmpOQ2ZUOVp6cE5SY1ZRNVZEdURZSzJYc1U3eDBpUzNYNUNRanNuQU16VXplY3lhTkFzcDNRTGxMTGFhakVvSXdZeGVnWXpfalppeVN1VDl4Q1VwNkJtTEk1NGc1dk9iaTQzVmNDamNvVXpMZS0?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-05 18:46:07 UTC_
+_Last updated: 2026-02-06 01:33:25 UTC_
