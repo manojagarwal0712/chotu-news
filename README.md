@@ -1,5 +1,9 @@
 # 📰 Daily News Summaries
 
+- Om Birla: Over 19 hours wasted due to disruptions in Budget Session
+  
+  🔗 https://indianexpress.com/article/india/om-birla-over-19-hours-wasted-due-to-disruptions-in-budget-session-10518280/
+
 - ‘We must find technological solutions’: Hailing BSF jawans at forward post, Amit Shah cautions about emerging challenges
   
   🔗 https://indianexpress.com/article/india/amit-shah-cautions-about-emerging-challenges-hails-bsf-jawans-10518098/
@@ -15,10 +19,6 @@
 - ‘National security not merely safeguarding borders…’: Rajnath Singh on importance of protecting ‘cultural foundations’
   
   🔗 https://indianexpress.com/article/india/rajnath-singh-talks-importance-of-protecting-nations-cultural-foundations-10517971/
-
-- Future-ready push: Odisha to skill 7,000 youths in AI-driven finance
-  
-  🔗 https://indianexpress.com/article/india/future-ready-push-odisha-to-skill-7000-youths-in-ai-driven-finance-10517940/
 
 - ‘Built by human hands’: Rockstar rules out generative AI for GTA 6
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/new-ai-method-helps-identify-which-dinosaur-made-which-footprints-10517705/
 
+- Titan polishes its diamond play as gold stays volatile
+  Only about 12% of the jewellery sold in India is diamond. Majority of the purchases still focus on gold
+  🔗 https://www.livemint.com/companies/news/titan-tanishq-bets-on-natural-lab-grown-diamonds-as-gold-stays-volatile-11770372576853.html
+
+- Valentine flower imports increase at Miami airport, despite tariffs and higher costs, officials say
+  Valentine flower imports increase at Miami airport
+  🔗 https://www.livemint.com/companies/valentine-flower-imports-increase-at-miami-airport-despite-tariffs-and-higher-costs-officials-say-11770407049260.html
+
+- Big Techs $600 billion spending plans exacerbate investors AI headache
+  Big Tech's $600
+  🔗 https://www.livemint.com/companies/big-techs-600-billion-spending-plans-exacerbate-investors-ai-headache-11770403715605.html
+
 - NSE formally approves IPO in first step towards its long-delayed public markets debut
   NSE formally approved its IPO and cleared the formation of an IPO committee to oversee and execute the listing process. Such a panel is mandatory for
   🔗 https://www.livemint.com/companies/news/nse-formally-approves-ipo-first-step-towards-its-long-delayed-public-markets-debut-ipo-11770388276771.html
@@ -48,37 +60,25 @@
   CEO Harshavardhan Chitale has listed the areas where he plans to focus to drive growth for
   🔗 https://www.livemint.com/companies/people/hero-motocorp-new-ceo-harshavardhan-chitale-lays-down-priorities-for-two-wheeler-giant-11770382837298.html
 
-- Tech giants offer up to $600,000 to promote AI, but many creators are unconvinced — here's why
-  Microsoft and Google are paying influencers to promote their AI products. Some creators refuse deals due to ethical concerns and audience backlash.
-  🔗 https://www.livemint.com/companies/news/tech-giants-offer-as-much-as-600-000-to-promote-ai-but-some-creators-remain-unconvinced-heres-why-11770384060185.html
+- Silver rate today: Silver price may correct 75% from peak in two years, say experts
+  Silver rate today on MCX is around 40% &
+  🔗 https://www.livemint.com/market/commodities/silver-rate-today-silver-price-may-correct-75-from-peak-in-two-years-say-experts-11770398870920.html
 
-- PFC board approves bringing REC into its fold
-  Finance minister Nirmala Sitharaman had said the restructuring of PFC and REC is the initial step towards
-  🔗 https://www.livemint.com/companies/news/pfc-rec-merger-power-finance-india-energy-transition-nbfc-efficiency-11770382836316.html
+- Stocks to buy or sell: Sumeet Bagadia recommends three shares to buy on Monday — 9 February 2026
+  Sumeet Bagadia recommends three shares to buy on Monday — Bhart
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-9-february-2026-11770397111352.html
 
-- Why PhysicsWallah is betting on schools to fix what coaching can’t
-   PhysicsWallah is pushing into K–12, arguing that earlier intervention will deliver
-  🔗 https://www.livemint.com/companies/news/why-physicswallah-is-betting-on-schools-to-fix-what-coaching-cant-11770380801152.html
+- Stocks to buy under  ₹100: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
+  Mehul Kothari of Anand Rathi recommends three shares to buy or sell. IR
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-100-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11770395014191.html
 
-- Small-cap stock under  ₹50, Sampre Nutritions jumps 5% after this capex update
-  Sampre Nutritions stock rose by 5% following
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-sampre-nutritions-jumps-5-after-this-capex-update-11770397249677.html
+- Dow hits 50,000, Nvidia soars as traders focus on AI spending
+  Dow hits 50,000, Nvidia soars
+  🔗 https://www.livemint.com/market/dow-hits-50-000-nvidia-soars-as-traders-focus-on-ai-spending-11770406863766.html
 
-- Boeing shares climb on reports of talks for historic jet deal with Saudi Arabia's Saudia
-  Saudia is in early-stage talks with the two aviation giants
-  🔗 https://www.livemint.com/market/stock-market-news/boeing-shares-climb-on-reports-of-talks-for-historic-jet-deal-with-saudi-arabias-saudia-11770397832494.html
-
-- Investors turn to ‘AI-resistant’ sectors as disruption fears drag software stocks down
-  As technology stocks decline, investors are shifting focus to AI-resistant sectors.
-  🔗 https://www.livemint.com/market/stock-market-news/investors-turn-to-ai-resistant-sectors-as-disruption-fears-drag-software-stocks-down-11770393685709.html
-
-- Fractal Analytics IPO: AI firm raises  ₹1,248 crore ahead of public issue. Check details
-  Fractal Analytics Limited raised  ₹1,248.26
-  🔗 https://www.livemint.com/market/ipo/fractal-analytics-ipo-ai-firm-raises-rs-1-248-crore-ahead-of-public-issue-check-details-11770394951070.html
-
-- Amazon shares crash 10% to 8-month low amid investor concerns over massive AI spending
-  Amazon shares fell sharply on 6 February after mixed Q4 earnings and a $200 billion spending forecast for 2026. The stock hit an intraday low of $200.30,
-  🔗 https://www.livemint.com/market/stock-market-news/amazon-shares-crash-10-to-8-month-low-amid-investor-concerns-over-massive-ai-spending-11770389990224.html
+- Oil Climbs as Investors Weigh Status of US-Iran Nuclear Talks
+  Oil edges higher in a choppy session as investors assess the status of nuclear
+  🔗 https://www.livemint.com/market/oil-climbs-as-investors-weigh-status-of-us-iran-nuclear-talks-11770404834597.html
 
 - Big Techs quarter in four charts: AI splurge and cloud growth
   Big Tech's quarter in four
@@ -140,85 +140,85 @@
   Sales volumes were adversely impacted during the quarter due to loss of production at Baloda Bazar, Chhattisgar
   🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/shree-cement-q3-results-cons-pat-surges-38-yoy-to-rs-268-crore/articleshow/127997748.cms
 
-- Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
-
-- 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - The Times of India
-  'Deluding itself': MEA after Pakistan blames India for blast at Islamabad
+- 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - Times of India
+  'Deluding itself': MEA after Pakistan blames India for blast at
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXZ0VUpzdjNjRkQ3SlRoRkZRdGd4OTdFZ3Z0bFFpRlVsWXl1OG1rVWNHc2xxRzNaUVZPMXlUUS1nMlV5c094bk1VVXJ6TXZabGFLLW9tbVg3bG9TeWFCVW9NOFhnaHl5VDBKX2g4RXA0MjBWOFdEVXF6WGhPMDhQNUF6cVF4ZFZYTTFqeS1Ga0h3QTNEQVkxc21EZC1DZDVNWjRQNHRtbDl4ZVAxRnF5MVNCM0Q0YXZwRjRjNXk2aVV2cmtxdW04dFRwNHhOTVNvNkZuVE1lN0hTdGkzRkRvNmRRM29QaUpySjNDbzRR0gHzAUFVX3lxTE9PcmRlTWJlLUQyVmVwS3FJZmMtRVFfXzdNNmFDQmRYT1pUSDRWU1NRZnZxSXVaYW9JS2NqVllqYlc1RUtaUFhMVXpuOTlVMjlERU5FZ1R5c3p5aDFVQ3Q3YlE3bW96cWdlclJSd2JONzZOOTRIdlRzY2I1dURMQThoa1Axb3RHR18zUlctVHQ3NmoyNzg4WURXNzRraHZoVHRlNGlmei1mZllacnJETndrbnRvSkllcTJDZ3prZk1PMmV2VS16UlV2NlBFLWpraFdzQnh4M3dIN055RXNBSjhtdXpGNGtnWWZzbk5HclhHREdpZw?oc=5
 
-- 'We Were Preparing For War': Former DGMO Reveals Inside Story Of India-China Doklam Stand-Off - The Times of India
-  'We Were Preparing For War': Former DGMO Reveals Inside Story
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxORTlQYm9YVnBFVV80b1NjMWR2YTlkcHExRkRxcFpJZTZUcks4T2FaZVF3WEpkcWlGM0JKUlZwb0JfaWtLUUJyRnZlVEEzYVphcUFsZGRFX3NEZUFvYmVfTllQT2JnNkZCSjVYY3RSOEhNOEJraTZzZmtVNEJLeHl2clNyZU5UUDR4Qm5GZXk1RU9pVE5QUWZuRFAzTVk2V2VjWUYtZnNiOXB2OFFtT1JiZkNmb1hBTkZLei1DMnI0UmZhWnRxakc4dnczWG9lVkI4ZVVjaVBoUWdfR3ZpRTN4ejNBcUs1MFVrRjU0bnltTzVaZGtU0gH6AUFVX3lxTFBTWXZ2LW8tbW5mWU5nU01DR3hTc1cwcXc4Y1MyT09aNFpyTVpZYkQ0bzdXWU82U0xCZ3RKV3JzZDBTNnJ1aXJLeUdUMVpUQTNRSWliM2RqN3ZfSmlocGtSUGt4bGZDOV9sSkFRbmNoZ3Q0YVk5bklrMEZKX2t0cXZ1TjhGU1d0U1RqaTQ0RVBGVlJ1a3E5bFBtVDBQQ1pweHpOeHBkNjBLNUJ6YUdWRE8ySjlJV191OGRMb0wwbFdDaTQwRUZ6UDVZdGlFR213YjNiYjJLNm5CSDB1TWcxOXRxX3FkRFhqV1U1ZGNCNEladDRrRlNuUmlQYVE?oc=5
+- India Condemns Islamabad Mosque Blast, Slams Pak For "Blaming Others" - NDTV
+  India Condemns Islamabad Mosque Blast,
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOREJrVWFUQkhWWEhLOE5JQmRydFg1SFpKWmEwbURNbWRLalZ3ZmN4bEtQd0NVWkhzcUJoTGREQm1VR0JyUmFtVFB0bEI2cFBFRTJzamNsa2FYWVJBaHp0WHl5NS1USHBzdmIzLXdubkItVFB0Z3pqNG1TRWljMWNyN3VpcUdvNXN3dHVWbFAxVmtQNGloRldaUGJYVVIzWmpNczAxTjAtaWVMdUJ6UzN1QlFyeG5vUHo3eVMwclRiZXNNLXd6Q2fSAc4BQVVfeXFMTjd0MDB4RkFaOV84a19Lc1RmS0VOa0o2NXJCNEhfV2VVcDVRNU85TXJjU1J3NGVWTTNwZUk3dW1MeDlCVWxVdW83V2UxT3FwdS1wYkhvb3pFXzZxdkJ2bnItWGE3SkRMRk1jRS1CTjZxMnZwbmlZU3p3SFVRMlFSUnQ2RUVVc3BuTktkOVhUaWFkQ1BIbXppSk5lcV9jMHBsYUJFT1JURWJBZmtnSTlhMmFKRGJoRHAzRUNrNEZqYVhST2N6cFBtX2pWMVhpdEE?oc=5
 
-- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
-  India coal mine blast leaves 18 dead, others
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
-
-- Uber, Ola, Rapido drivers will be on a strike across India on Feb 7. Here's why | India News - Hindustan Times
-  Uber, Ola, Rapido drivers will be on a strike across India on Feb 7
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNci1qUHFwMXZQeGNrYnV2QWdkb2FIWjRKUGhReGs1N1RETjEtME5ES1pJSTVSZV9MTGNHOWlGU3FmZjEtUWpPNl93aDhjTDEtSjRfcUQ3UG1SVml2TklQdXZvY20xRFpOVnZyZHR1LUpPYnYwRllOVkEzdzZMRXRDbENNdzVtZ3ZLaGRHQ2FTNTJ6YU1ybXhWRjJ0a0g0alhMUDJGMnplMmRudl80TG9sT3hJYlc4T29YRXlvUTZUSzNaTVpyelBBcVFPZ1JtUE5SbjhVRzZEalZubEZvUEUxQThkUGszeS0tTnRVMjN4WHJJZWpnOWRuSzZkUjRJZ9IBgwJBVV95cUxQcS1JVTY0SWpkbllENEZvV3Z0ZHZLVG1kSTlRbzV3UFFTcGxxUXk3QWJjY2lhT2pIZ2lqR1dBNktDOEFUY3h3MWJ2dnlneUU0OS11NURvamNrVy1MenA4WWNBS3hjaUU1QWFfNlE4OEhWLVgyMXpfWEpYQmN3NDNTWFRsREZGekJEaWwtcDRINUFLNFpqazZKS0hqZXY1OHg3dUdUSEtueEdUVW5waHZnN0ZsZUNIQnZoTEJlc29TaFQtUW1KTlk4bEhnTjV6R29oSnN5WGVDRVVzZ2doa1I5M1ljaWw2MDRGZnI2d0daWnpWTklGSmNKTjdRUGE2QzlqSWc0?oc=5
+- India's "Home-Grown Ills" Jab After Pak Blames Neighbours For Mosque Blast - NDTV
+  India's "Home-Grown Ills
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPNG5ld1BSc1NkSndDOHVOaTlna0M1Q3hDbHVBYzlCN1AyOGpZUWdFWllUdkx6eW9KSFdWZjA1YmpUMnZRRlFLeUxxYUNaRnVoZG5BN1NzTTNqR1RMQjcycjNka1diYXRZMVpKWE53SEhWWUNPUFRiR0RDZV9DRnVmd2NxSXZOMVp0VnZKNk5SbXl5cHFockNybllzSTM2UzJLa1BSUTlxU1p5WHlwSEptMXZETUk1T0tib3ZYUE02Z9IBxwFBVV95cUxNV3pMVC1mZm9qLVgxZ29UVzZyS2hZZ255WXFXaU1oVGNlV1Ewdjd0bTNNV3B0MjM4a3Q3OWFFT2huOVVpV2lYTFFhTnJ2VkJsWnZXWWJha0lHRTNQZ2huUFoxbkJoc3hLU202MmVWQ29Zbllfa2dIeGplRkVGRFBDUlp1bl9FcWZrTTE4bjlMXzhSdk0xbzhfZTZUakRMRGkyX0RiM2JFcnI2SVlONTUyd0tFWlA1T0h3OEhPN2RKZmEwMzJiU0xn?oc=5
 
 - Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
 
-- 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - The Times of India
-  'Deluding itself': MEA after Pakistan blames India for blast at Islamabad
+- India condemns bombing at Islamabad mosque, condoles the loss of life - newsonair.gov.in
+  India condemns bombing at Islamabad mosque, condoles
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWp1a0I0S1F3QkUtYXFZMTEzbUg3M2RlQnNSSGlITmx6SkZNU1Uyd0pKVXVKOXVwVXZtZmNhME5Xd2U4UzdfS2t4clpVVXIycWtBRTQydnh2R1B5Q0N5Q29nUThLczFQVFZwVE9FZktMc3ZtTklXQ1pZa0VrYlZqaVJsN1NzTVprWFRHbVhsSnRWVFNBNXh4T0dDYW5Malk?oc=5
+
+- 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - Times of India
+  'Deluding itself': MEA after Pakistan blames India for blast at
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXZ0VUpzdjNjRkQ3SlRoRkZRdGd4OTdFZ3Z0bFFpRlVsWXl1OG1rVWNHc2xxRzNaUVZPMXlUUS1nMlV5c094bk1VVXJ6TXZabGFLLW9tbVg3bG9TeWFCVW9NOFhnaHl5VDBKX2g4RXA0MjBWOFdEVXF6WGhPMDhQNUF6cVF4ZFZYTTFqeS1Ga0h3QTNEQVkxc21EZC1DZDVNWjRQNHRtbDl4ZVAxRnF5MVNCM0Q0YXZwRjRjNXk2aVV2cmtxdW04dFRwNHhOTVNvNkZuVE1lN0hTdGkzRkRvNmRRM29QaUpySjNDbzRR0gHzAUFVX3lxTE9PcmRlTWJlLUQyVmVwS3FJZmMtRVFfXzdNNmFDQmRYT1pUSDRWU1NRZnZxSXVaYW9JS2NqVllqYlc1RUtaUFhMVXpuOTlVMjlERU5FZ1R5c3p5aDFVQ3Q3YlE3bW96cWdlclJSd2JONzZOOTRIdlRzY2I1dURMQThoa1Axb3RHR18zUlctVHQ3NmoyNzg4WURXNzRraHZoVHRlNGlmei1mZllacnJETndrbnRvSkllcTJDZ3prZk1PMmV2VS16UlV2NlBFLWpraFdzQnh4M3dIN055RXNBSjhtdXpGNGtnWWZzbk5HclhHREdpZw?oc=5
 
-- 'We Were Preparing For War': Former DGMO Reveals Inside Story Of India-China Doklam Stand-Off - The Times of India
-  'We Were Preparing For War': Former DGMO Reveals Inside Story
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxORTlQYm9YVnBFVV80b1NjMWR2YTlkcHExRkRxcFpJZTZUcks4T2FaZVF3WEpkcWlGM0JKUlZwb0JfaWtLUUJyRnZlVEEzYVphcUFsZGRFX3NEZUFvYmVfTllQT2JnNkZCSjVYY3RSOEhNOEJraTZzZmtVNEJLeHl2clNyZU5UUDR4Qm5GZXk1RU9pVE5QUWZuRFAzTVk2V2VjWUYtZnNiOXB2OFFtT1JiZkNmb1hBTkZLei1DMnI0UmZhWnRxakc4dnczWG9lVkI4ZVVjaVBoUWdfR3ZpRTN4ejNBcUs1MFVrRjU0bnltTzVaZGtU0gH6AUFVX3lxTFBTWXZ2LW8tbW5mWU5nU01DR3hTc1cwcXc4Y1MyT09aNFpyTVpZYkQ0bzdXWU82U0xCZ3RKV3JzZDBTNnJ1aXJLeUdUMVpUQTNRSWliM2RqN3ZfSmlocGtSUGt4bGZDOV9sSkFRbmNoZ3Q0YVk5bklrMEZKX2t0cXZ1TjhGU1d0U1RqaTQ0RVBGVlJ1a3E5bFBtVDBQQ1pweHpOeHBkNjBLNUJ6YUdWRE8ySjlJV191OGRMb0wwbFdDaTQwRUZ6UDVZdGlFR213YjNiYjJLNm5CSDB1TWcxOXRxX3FkRFhqV1U1ZGNCNEladDRrRlNuUmlQYVE?oc=5
+- India Condemns Islamabad Mosque Blast, Slams Pak For "Blaming Others" - NDTV
+  India Condemns Islamabad Mosque Blast,
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOREJrVWFUQkhWWEhLOE5JQmRydFg1SFpKWmEwbURNbWRLalZ3ZmN4bEtQd0NVWkhzcUJoTGREQm1VR0JyUmFtVFB0bEI2cFBFRTJzamNsa2FYWVJBaHp0WHl5NS1USHBzdmIzLXdubkItVFB0Z3pqNG1TRWljMWNyN3VpcUdvNXN3dHVWbFAxVmtQNGloRldaUGJYVVIzWmpNczAxTjAtaWVMdUJ6UzN1QlFyeG5vUHo3eVMwclRiZXNNLXd6Q2fSAc4BQVVfeXFMTjd0MDB4RkFaOV84a19Lc1RmS0VOa0o2NXJCNEhfV2VVcDVRNU85TXJjU1J3NGVWTTNwZUk3dW1MeDlCVWxVdW83V2UxT3FwdS1wYkhvb3pFXzZxdkJ2bnItWGE3SkRMRk1jRS1CTjZxMnZwbmlZU3p3SFVRMlFSUnQ2RUVVc3BuTktkOVhUaWFkQ1BIbXppSk5lcV9jMHBsYUJFT1JURWJBZmtnSTlhMmFKRGJoRHAzRUNrNEZqYVhST2N6cFBtX2pWMVhpdEE?oc=5
 
-- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
-  India coal mine blast leaves 18 dead, others
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
-
-- Uber, Ola, Rapido drivers will be on a strike across India on Feb 7. Here's why | India News - Hindustan Times
-  Uber, Ola, Rapido drivers will be on a strike across India on Feb 7
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNci1qUHFwMXZQeGNrYnV2QWdkb2FIWjRKUGhReGs1N1RETjEtME5ES1pJSTVSZV9MTGNHOWlGU3FmZjEtUWpPNl93aDhjTDEtSjRfcUQ3UG1SVml2TklQdXZvY20xRFpOVnZyZHR1LUpPYnYwRllOVkEzdzZMRXRDbENNdzVtZ3ZLaGRHQ2FTNTJ6YU1ybXhWRjJ0a0g0alhMUDJGMnplMmRudl80TG9sT3hJYlc4T29YRXlvUTZUSzNaTVpyelBBcVFPZ1JtUE5SbjhVRzZEalZubEZvUEUxQThkUGszeS0tTnRVMjN4WHJJZWpnOWRuSzZkUjRJZ9IBgwJBVV95cUxQcS1JVTY0SWpkbllENEZvV3Z0ZHZLVG1kSTlRbzV3UFFTcGxxUXk3QWJjY2lhT2pIZ2lqR1dBNktDOEFUY3h3MWJ2dnlneUU0OS11NURvamNrVy1MenA4WWNBS3hjaUU1QWFfNlE4OEhWLVgyMXpfWEpYQmN3NDNTWFRsREZGekJEaWwtcDRINUFLNFpqazZKS0hqZXY1OHg3dUdUSEtueEdUVW5waHZnN0ZsZUNIQnZoTEJlc29TaFQtUW1KTlk4bEhnTjV6R29oSnN5WGVDRVVzZ2doa1I5M1ljaWw2MDRGZnI2d0daWnpWTklGSmNKTjdRUGE2QzlqSWc0?oc=5
+- India's "Home-Grown Ills" Jab After Pak Blames Neighbours For Mosque Blast - NDTV
+  India's "Home-Grown Ills
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPNG5ld1BSc1NkSndDOHVOaTlna0M1Q3hDbHVBYzlCN1AyOGpZUWdFWllUdkx6eW9KSFdWZjA1YmpUMnZRRlFLeUxxYUNaRnVoZG5BN1NzTTNqR1RMQjcycjNka1diYXRZMVpKWE53SEhWWUNPUFRiR0RDZV9DRnVmd2NxSXZOMVp0VnZKNk5SbXl5cHFockNybllzSTM2UzJLa1BSUTlxU1p5WHlwSEptMXZETUk1T0tib3ZYUE02Z9IBxwFBVV95cUxNV3pMVC1mZm9qLVgxZ29UVzZyS2hZZ255WXFXaU1oVGNlV1Ewdjd0bTNNV3B0MjM4a3Q3OWFFT2huOVVpV2lYTFFhTnJ2VkJsWnZXWWJha0lHRTNQZ2huUFoxbkJoc3hLU202MmVWQ29Zbllfa2dIeGplRkVGRFBDUlp1bl9FcWZrTTE4bjlMXzhSdk0xbzhfZTZUakRMRGkyX0RiM2JFcnI2SVlONTUyd0tFWlA1T0h3OEhPN2RKZmEwMzJiU0xn?oc=5
 
 - Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
 
-- 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - The Times of India
-  'Deluding itself': MEA after Pakistan blames India for blast at Islamabad
+- India condemns bombing at Islamabad mosque, condoles the loss of life - newsonair.gov.in
+  India condemns bombing at Islamabad mosque, condoles
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWp1a0I0S1F3QkUtYXFZMTEzbUg3M2RlQnNSSGlITmx6SkZNU1Uyd0pKVXVKOXVwVXZtZmNhME5Xd2U4UzdfS2t4clpVVXIycWtBRTQydnh2R1B5Q0N5Q29nUThLczFQVFZwVE9FZktMc3ZtTklXQ1pZa0VrYlZqaVJsN1NzTVprWFRHbVhsSnRWVFNBNXh4T0dDYW5Malk?oc=5
+
+- 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - Times of India
+  'Deluding itself': MEA after Pakistan blames India for blast at
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXZ0VUpzdjNjRkQ3SlRoRkZRdGd4OTdFZ3Z0bFFpRlVsWXl1OG1rVWNHc2xxRzNaUVZPMXlUUS1nMlV5c094bk1VVXJ6TXZabGFLLW9tbVg3bG9TeWFCVW9NOFhnaHl5VDBKX2g4RXA0MjBWOFdEVXF6WGhPMDhQNUF6cVF4ZFZYTTFqeS1Ga0h3QTNEQVkxc21EZC1DZDVNWjRQNHRtbDl4ZVAxRnF5MVNCM0Q0YXZwRjRjNXk2aVV2cmtxdW04dFRwNHhOTVNvNkZuVE1lN0hTdGkzRkRvNmRRM29QaUpySjNDbzRR0gHzAUFVX3lxTE9PcmRlTWJlLUQyVmVwS3FJZmMtRVFfXzdNNmFDQmRYT1pUSDRWU1NRZnZxSXVaYW9JS2NqVllqYlc1RUtaUFhMVXpuOTlVMjlERU5FZ1R5c3p5aDFVQ3Q3YlE3bW96cWdlclJSd2JONzZOOTRIdlRzY2I1dURMQThoa1Axb3RHR18zUlctVHQ3NmoyNzg4WURXNzRraHZoVHRlNGlmei1mZllacnJETndrbnRvSkllcTJDZ3prZk1PMmV2VS16UlV2NlBFLWpraFdzQnh4M3dIN055RXNBSjhtdXpGNGtnWWZzbk5HclhHREdpZw?oc=5
 
-- 'We Were Preparing For War': Former DGMO Reveals Inside Story Of India-China Doklam Stand-Off - The Times of India
-  'We Were Preparing For War': Former DGMO Reveals Inside Story
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxORTlQYm9YVnBFVV80b1NjMWR2YTlkcHExRkRxcFpJZTZUcks4T2FaZVF3WEpkcWlGM0JKUlZwb0JfaWtLUUJyRnZlVEEzYVphcUFsZGRFX3NEZUFvYmVfTllQT2JnNkZCSjVYY3RSOEhNOEJraTZzZmtVNEJLeHl2clNyZU5UUDR4Qm5GZXk1RU9pVE5QUWZuRFAzTVk2V2VjWUYtZnNiOXB2OFFtT1JiZkNmb1hBTkZLei1DMnI0UmZhWnRxakc4dnczWG9lVkI4ZVVjaVBoUWdfR3ZpRTN4ejNBcUs1MFVrRjU0bnltTzVaZGtU0gH6AUFVX3lxTFBTWXZ2LW8tbW5mWU5nU01DR3hTc1cwcXc4Y1MyT09aNFpyTVpZYkQ0bzdXWU82U0xCZ3RKV3JzZDBTNnJ1aXJLeUdUMVpUQTNRSWliM2RqN3ZfSmlocGtSUGt4bGZDOV9sSkFRbmNoZ3Q0YVk5bklrMEZKX2t0cXZ1TjhGU1d0U1RqaTQ0RVBGVlJ1a3E5bFBtVDBQQ1pweHpOeHBkNjBLNUJ6YUdWRE8ySjlJV191OGRMb0wwbFdDaTQwRUZ6UDVZdGlFR213YjNiYjJLNm5CSDB1TWcxOXRxX3FkRFhqV1U1ZGNCNEladDRrRlNuUmlQYVE?oc=5
+- India Condemns Islamabad Mosque Blast, Slams Pak For "Blaming Others" - NDTV
+  India Condemns Islamabad Mosque Blast,
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOREJrVWFUQkhWWEhLOE5JQmRydFg1SFpKWmEwbURNbWRLalZ3ZmN4bEtQd0NVWkhzcUJoTGREQm1VR0JyUmFtVFB0bEI2cFBFRTJzamNsa2FYWVJBaHp0WHl5NS1USHBzdmIzLXdubkItVFB0Z3pqNG1TRWljMWNyN3VpcUdvNXN3dHVWbFAxVmtQNGloRldaUGJYVVIzWmpNczAxTjAtaWVMdUJ6UzN1QlFyeG5vUHo3eVMwclRiZXNNLXd6Q2fSAc4BQVVfeXFMTjd0MDB4RkFaOV84a19Lc1RmS0VOa0o2NXJCNEhfV2VVcDVRNU85TXJjU1J3NGVWTTNwZUk3dW1MeDlCVWxVdW83V2UxT3FwdS1wYkhvb3pFXzZxdkJ2bnItWGE3SkRMRk1jRS1CTjZxMnZwbmlZU3p3SFVRMlFSUnQ2RUVVc3BuTktkOVhUaWFkQ1BIbXppSk5lcV9jMHBsYUJFT1JURWJBZmtnSTlhMmFKRGJoRHAzRUNrNEZqYVhST2N6cFBtX2pWMVhpdEE?oc=5
 
-- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
-  India coal mine blast leaves 18 dead, others
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
-
-- Uber, Ola, Rapido drivers will be on a strike across India on Feb 7. Here's why | India News - Hindustan Times
-  Uber, Ola, Rapido drivers will be on a strike across India on Feb 7
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNci1qUHFwMXZQeGNrYnV2QWdkb2FIWjRKUGhReGs1N1RETjEtME5ES1pJSTVSZV9MTGNHOWlGU3FmZjEtUWpPNl93aDhjTDEtSjRfcUQ3UG1SVml2TklQdXZvY20xRFpOVnZyZHR1LUpPYnYwRllOVkEzdzZMRXRDbENNdzVtZ3ZLaGRHQ2FTNTJ6YU1ybXhWRjJ0a0g0alhMUDJGMnplMmRudl80TG9sT3hJYlc4T29YRXlvUTZUSzNaTVpyelBBcVFPZ1JtUE5SbjhVRzZEalZubEZvUEUxQThkUGszeS0tTnRVMjN4WHJJZWpnOWRuSzZkUjRJZ9IBgwJBVV95cUxQcS1JVTY0SWpkbllENEZvV3Z0ZHZLVG1kSTlRbzV3UFFTcGxxUXk3QWJjY2lhT2pIZ2lqR1dBNktDOEFUY3h3MWJ2dnlneUU0OS11NURvamNrVy1MenA4WWNBS3hjaUU1QWFfNlE4OEhWLVgyMXpfWEpYQmN3NDNTWFRsREZGekJEaWwtcDRINUFLNFpqazZKS0hqZXY1OHg3dUdUSEtueEdUVW5waHZnN0ZsZUNIQnZoTEJlc29TaFQtUW1KTlk4bEhnTjV6R29oSnN5WGVDRVVzZ2doa1I5M1ljaWw2MDRGZnI2d0daWnpWTklGSmNKTjdRUGE2QzlqSWc0?oc=5
+- India's "Home-Grown Ills" Jab After Pak Blames Neighbours For Mosque Blast - NDTV
+  India's "Home-Grown Ills
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPNG5ld1BSc1NkSndDOHVOaTlna0M1Q3hDbHVBYzlCN1AyOGpZUWdFWllUdkx6eW9KSFdWZjA1YmpUMnZRRlFLeUxxYUNaRnVoZG5BN1NzTTNqR1RMQjcycjNka1diYXRZMVpKWE53SEhWWUNPUFRiR0RDZV9DRnVmd2NxSXZOMVp0VnZKNk5SbXl5cHFockNybllzSTM2UzJLa1BSUTlxU1p5WHlwSEptMXZETUk1T0tib3ZYUE02Z9IBxwFBVV95cUxNV3pMVC1mZm9qLVgxZ29UVzZyS2hZZ255WXFXaU1oVGNlV1Ewdjd0bTNNV3B0MjM4a3Q3OWFFT2huOVVpV2lYTFFhTnJ2VkJsWnZXWWJha0lHRTNQZ2huUFoxbkJoc3hLU202MmVWQ29Zbllfa2dIeGplRkVGRFBDUlp1bl9FcWZrTTE4bjlMXzhSdk0xbzhfZTZUakRMRGkyX0RiM2JFcnI2SVlONTUyd0tFWlA1T0h3OEhPN2RKZmEwMzJiU0xn?oc=5
 
 - Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
 
-- 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - The Times of India
-  'Deluding itself': MEA after Pakistan blames India for blast at Islamabad
+- India condemns bombing at Islamabad mosque, condoles the loss of life - newsonair.gov.in
+  India condemns bombing at Islamabad mosque, condoles
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWp1a0I0S1F3QkUtYXFZMTEzbUg3M2RlQnNSSGlITmx6SkZNU1Uyd0pKVXVKOXVwVXZtZmNhME5Xd2U4UzdfS2t4clpVVXIycWtBRTQydnh2R1B5Q0N5Q29nUThLczFQVFZwVE9FZktMc3ZtTklXQ1pZa0VrYlZqaVJsN1NzTVprWFRHbVhsSnRWVFNBNXh4T0dDYW5Malk?oc=5
+
+- 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - Times of India
+  'Deluding itself': MEA after Pakistan blames India for blast at
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXZ0VUpzdjNjRkQ3SlRoRkZRdGd4OTdFZ3Z0bFFpRlVsWXl1OG1rVWNHc2xxRzNaUVZPMXlUUS1nMlV5c094bk1VVXJ6TXZabGFLLW9tbVg3bG9TeWFCVW9NOFhnaHl5VDBKX2g4RXA0MjBWOFdEVXF6WGhPMDhQNUF6cVF4ZFZYTTFqeS1Ga0h3QTNEQVkxc21EZC1DZDVNWjRQNHRtbDl4ZVAxRnF5MVNCM0Q0YXZwRjRjNXk2aVV2cmtxdW04dFRwNHhOTVNvNkZuVE1lN0hTdGkzRkRvNmRRM29QaUpySjNDbzRR0gHzAUFVX3lxTE9PcmRlTWJlLUQyVmVwS3FJZmMtRVFfXzdNNmFDQmRYT1pUSDRWU1NRZnZxSXVaYW9JS2NqVllqYlc1RUtaUFhMVXpuOTlVMjlERU5FZ1R5c3p5aDFVQ3Q3YlE3bW96cWdlclJSd2JONzZOOTRIdlRzY2I1dURMQThoa1Axb3RHR18zUlctVHQ3NmoyNzg4WURXNzRraHZoVHRlNGlmei1mZllacnJETndrbnRvSkllcTJDZ3prZk1PMmV2VS16UlV2NlBFLWpraFdzQnh4M3dIN055RXNBSjhtdXpGNGtnWWZzbk5HclhHREdpZw?oc=5
 
-- 'We Were Preparing For War': Former DGMO Reveals Inside Story Of India-China Doklam Stand-Off - The Times of India
-  'We Were Preparing For War': Former DGMO Reveals Inside Story
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxORTlQYm9YVnBFVV80b1NjMWR2YTlkcHExRkRxcFpJZTZUcks4T2FaZVF3WEpkcWlGM0JKUlZwb0JfaWtLUUJyRnZlVEEzYVphcUFsZGRFX3NEZUFvYmVfTllQT2JnNkZCSjVYY3RSOEhNOEJraTZzZmtVNEJLeHl2clNyZU5UUDR4Qm5GZXk1RU9pVE5QUWZuRFAzTVk2V2VjWUYtZnNiOXB2OFFtT1JiZkNmb1hBTkZLei1DMnI0UmZhWnRxakc4dnczWG9lVkI4ZVVjaVBoUWdfR3ZpRTN4ejNBcUs1MFVrRjU0bnltTzVaZGtU0gH6AUFVX3lxTFBTWXZ2LW8tbW5mWU5nU01DR3hTc1cwcXc4Y1MyT09aNFpyTVpZYkQ0bzdXWU82U0xCZ3RKV3JzZDBTNnJ1aXJLeUdUMVpUQTNRSWliM2RqN3ZfSmlocGtSUGt4bGZDOV9sSkFRbmNoZ3Q0YVk5bklrMEZKX2t0cXZ1TjhGU1d0U1RqaTQ0RVBGVlJ1a3E5bFBtVDBQQ1pweHpOeHBkNjBLNUJ6YUdWRE8ySjlJV191OGRMb0wwbFdDaTQwRUZ6UDVZdGlFR213YjNiYjJLNm5CSDB1TWcxOXRxX3FkRFhqV1U1ZGNCNEladDRrRlNuUmlQYVE?oc=5
+- India Condemns Islamabad Mosque Blast, Slams Pak For "Blaming Others" - NDTV
+  India Condemns Islamabad Mosque Blast,
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOREJrVWFUQkhWWEhLOE5JQmRydFg1SFpKWmEwbURNbWRLalZ3ZmN4bEtQd0NVWkhzcUJoTGREQm1VR0JyUmFtVFB0bEI2cFBFRTJzamNsa2FYWVJBaHp0WHl5NS1USHBzdmIzLXdubkItVFB0Z3pqNG1TRWljMWNyN3VpcUdvNXN3dHVWbFAxVmtQNGloRldaUGJYVVIzWmpNczAxTjAtaWVMdUJ6UzN1QlFyeG5vUHo3eVMwclRiZXNNLXd6Q2fSAc4BQVVfeXFMTjd0MDB4RkFaOV84a19Lc1RmS0VOa0o2NXJCNEhfV2VVcDVRNU85TXJjU1J3NGVWTTNwZUk3dW1MeDlCVWxVdW83V2UxT3FwdS1wYkhvb3pFXzZxdkJ2bnItWGE3SkRMRk1jRS1CTjZxMnZwbmlZU3p3SFVRMlFSUnQ2RUVVc3BuTktkOVhUaWFkQ1BIbXppSk5lcV9jMHBsYUJFT1JURWJBZmtnSTlhMmFKRGJoRHAzRUNrNEZqYVhST2N6cFBtX2pWMVhpdEE?oc=5
 
-- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
-  India coal mine blast leaves 18 dead, others
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
+- India's "Home-Grown Ills" Jab After Pak Blames Neighbours For Mosque Blast - NDTV
+  India's "Home-Grown Ills
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPNG5ld1BSc1NkSndDOHVOaTlna0M1Q3hDbHVBYzlCN1AyOGpZUWdFWllUdkx6eW9KSFdWZjA1YmpUMnZRRlFLeUxxYUNaRnVoZG5BN1NzTTNqR1RMQjcycjNka1diYXRZMVpKWE53SEhWWUNPUFRiR0RDZV9DRnVmd2NxSXZOMVp0VnZKNk5SbXl5cHFockNybllzSTM2UzJLa1BSUTlxU1p5WHlwSEptMXZETUk1T0tib3ZYUE02Z9IBxwFBVV95cUxNV3pMVC1mZm9qLVgxZ29UVzZyS2hZZ255WXFXaU1oVGNlV1Ewdjd0bTNNV3B0MjM4a3Q3OWFFT2huOVVpV2lYTFFhTnJ2VkJsWnZXWWJha0lHRTNQZ2huUFoxbkJoc3hLU202MmVWQ29Zbllfa2dIeGplRkVGRFBDUlp1bl9FcWZrTTE4bjlMXzhSdk0xbzhfZTZUakRMRGkyX0RiM2JFcnI2SVlONTUyd0tFWlA1T0h3OEhPN2RKZmEwMzJiU0xn?oc=5
 
-- Uber, Ola, Rapido drivers will be on a strike across India on Feb 7. Here's why | India News - Hindustan Times
-  Uber, Ola, Rapido drivers will be on a strike across India on Feb 7
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNci1qUHFwMXZQeGNrYnV2QWdkb2FIWjRKUGhReGs1N1RETjEtME5ES1pJSTVSZV9MTGNHOWlGU3FmZjEtUWpPNl93aDhjTDEtSjRfcUQ3UG1SVml2TklQdXZvY20xRFpOVnZyZHR1LUpPYnYwRllOVkEzdzZMRXRDbENNdzVtZ3ZLaGRHQ2FTNTJ6YU1ybXhWRjJ0a0g0alhMUDJGMnplMmRudl80TG9sT3hJYlc4T29YRXlvUTZUSzNaTVpyelBBcVFPZ1JtUE5SbjhVRzZEalZubEZvUEUxQThkUGszeS0tTnRVMjN4WHJJZWpnOWRuSzZkUjRJZ9IBgwJBVV95cUxQcS1JVTY0SWpkbllENEZvV3Z0ZHZLVG1kSTlRbzV3UFFTcGxxUXk3QWJjY2lhT2pIZ2lqR1dBNktDOEFUY3h3MWJ2dnlneUU0OS11NURvamNrVy1MenA4WWNBS3hjaUU1QWFfNlE4OEhWLVgyMXpfWEpYQmN3NDNTWFRsREZGekJEaWwtcDRINUFLNFpqazZKS0hqZXY1OHg3dUdUSEtueEdUVW5waHZnN0ZsZUNIQnZoTEJlc29TaFQtUW1KTlk4bEhnTjV6R29oSnN5WGVDRVVzZ2doa1I5M1ljaWw2MDRGZnI2d0daWnpWTklGSmNKTjdRUGE2QzlqSWc0?oc=5
+- Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
+
+- India condemns bombing at Islamabad mosque, condoles the loss of life - newsonair.gov.in
+  India condemns bombing at Islamabad mosque, condoles
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWp1a0I0S1F3QkUtYXFZMTEzbUg3M2RlQnNSSGlITmx6SkZNU1Uyd0pKVXVKOXVwVXZtZmNhME5Xd2U4UzdfS2t4clpVVXIycWtBRTQydnh2R1B5Q0N5Q29nUThLczFQVFZwVE9FZktMc3ZtTklXQ1pZa0VrYlZqaVJsN1NzTVprWFRHbVhsSnRWVFNBNXh4T0dDYW5Malk?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-06 18:46:25 UTC_
+_Last updated: 2026-02-07 01:32:16 UTC_
