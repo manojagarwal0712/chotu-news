@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Om Birla: Over 19 hours wasted due to disruptions in Budget Session
+- Bihar revenue officers call off strike after govt restores deputy collector land reforms post
   
-  🔗 https://indianexpress.com/article/india/om-birla-over-19-hours-wasted-due-to-disruptions-in-budget-session-10518280/
+  🔗 https://indianexpress.com/article/india/bihar-revenue-officers-deputy-collector-land-reforms-10518697/
 
-- ‘We must find technological solutions’: Hailing BSF jawans at forward post, Amit Shah cautions about emerging challenges
+- PM Modi embarks on 2-day visit to Malaysia, aims to deepen defence, economic ties
   
-  🔗 https://indianexpress.com/article/india/amit-shah-cautions-about-emerging-challenges-hails-bsf-jawans-10518098/
+  🔗 https://indianexpress.com/article/india/pm-modi-2-day-visit-malaysia-defence-economic-ties-10518663/
 
-- Tamil Nadu sounds state-wide alert after mass crow deaths: What you need to know about the bird flu scare
+- ‘Namaste Trump scores over Howdy Modi’: Congress’s jab at PM over India-US trade framework
   
-  🔗 https://indianexpress.com/article/india/tamil-nadu-sounds-state-wide-alert-after-mass-crow-deaths-what-you-need-to-know-about-the-bird-flu-scare-10517389/
+  🔗 https://indianexpress.com/article/india/namaste-trump-scores-over-howdy-modi-congresss-jab-at-pm-over-india-us-trade-framework-10518605/
 
-- ‘Stark disappointment’, ‘anti-people’: J&K Opposition slams Omar’s Budget
+- Kerala issues order to block National Population Register in state after Union Budget allocation
   
-  🔗 https://indianexpress.com/article/india/stark-disappointment-anti-people-jk-opposition-slams-omars-budget-10518003/
+  🔗 https://indianexpress.com/article/india/kerala-issues-order-to-block-national-population-register-in-state-after-union-budget-allocation-10518213/
 
-- ‘National security not merely safeguarding borders…’: Rajnath Singh on importance of protecting ‘cultural foundations’
+- Trump signs order waiving 25% tariff penalty, says India ‘has committed’ to stop importing Russian oil
   
-  🔗 https://indianexpress.com/article/india/rajnath-singh-talks-importance-of-protecting-nations-cultural-foundations-10517971/
+  🔗 https://indianexpress.com/article/india/trump-order-on-india-russia-stop-buying-oil-10518578/
+
+- Apple plans to allow external voice-controlled AI chatbots in CarPlay: Reports
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-plans-to-allow-external-voice-controlled-ai-chatbots-in-carplay-reports-10518559/
+
+- Big Tech’s $600 billion spending plans exacerbate investors’ AI headache
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/big-techs-600-billion-spending-plans-exacerbate-investors-ai-headache-10518560/
+
+- Don’t drop everything just to do AI: Tech Matters’ CEO Jim Fruchterman warns nonprofits
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/jim-fruchterman-ceo-nonprofits-ai-tech-matters-10517917/
 
 - ‘Built by human hands’: Rockstar rules out generative AI for GTA 6
   
@@ -28,17 +40,9 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/elon-musk-not-developing-a-phone-spacex-starlink-10517810/
 
-- Bendable AI chip could transform future wearable technology
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/bendable-ai-chip-could-transform-future-wearable-technology-10517829/
-
-- Pricier iPhones? Global memory chip crunch puts spotlight on Apple
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/pricier-iphones-global-memory-chip-crunch-puts-spotlight-on-apple-10517706/
-
-- New AI method helps identify which dinosaur made which footprints
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/new-ai-method-helps-identify-which-dinosaur-made-which-footprints-10517705/
+- Air India unveils ‘The Maharaja Lounge’ at Delhi airport's T3: Check eligibility, amenities, First Class section photos
+  Air India opened its first flagship ‘The Maharaja Lounge’ at Delhi airport's Terminal 3. Here's a look at the
+  🔗 https://www.livemint.com/companies/news/air-india-unveils-maharaja-lounge-delhi-airport-t3-check-eligibility-amenities-first-class-guest-business-section-photos-11770440288815.html
 
 - Titan polishes its diamond play as gold stays volatile
   Only about 12% of the jewellery sold in India is diamond. Majority of the purchases still focus on gold
@@ -56,29 +60,29 @@
   NSE formally approved its IPO and cleared the formation of an IPO committee to oversee and execute the listing process. Such a panel is mandatory for
   🔗 https://www.livemint.com/companies/news/nse-formally-approves-ipo-first-step-towards-its-long-delayed-public-markets-debut-ipo-11770388276771.html
 
-- Premium, electric, and global: New CEO charts triple-engine drive for Hero Moto
-  CEO Harshavardhan Chitale has listed the areas where he plans to focus to drive growth for
-  🔗 https://www.livemint.com/companies/people/hero-motocorp-new-ceo-harshavardhan-chitale-lays-down-priorities-for-two-wheeler-giant-11770382837298.html
+- Stocks to buy for long term: From BEL to VBL— Motilal Oswal’s Nandish Shah suggests 5 shares, sees up to 30% upside
+  With a pro-growth Union Budget and positive foreign investor sentiment, Indian stocks show promise. Nandish Shah from Motilal Oswal highlights five key stocks, including Varun
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-long-term-from-bel-to-vbl-motilal-oswal-s-nandish-shah-suggests-5-shares-sees-up-to-30-upside-11770443557563.html
 
-- Silver rate today: Silver price may correct 75% from peak in two years, say experts
-  Silver rate today on MCX is around 40% &
-  🔗 https://www.livemint.com/market/commodities/silver-rate-today-silver-price-may-correct-75-from-peak-in-two-years-say-experts-11770398870920.html
+- Gold rate rebounds: Is it time to buy or should you book profits?
+  Gold prices are experiencing volatility, with experts suggesting that buying on dips is wise. With central bank purchases at record highs and a shift in retail demand, the outlook for gold remains optimistic. Is
+  🔗 https://www.livemint.com/market/commodities/gold-rate-rebounds-silver-prices-jump-is-it-time-to-buy-or-should-you-book-profits-11770435997001.html
 
-- Stocks to buy or sell: Sumeet Bagadia recommends three shares to buy on Monday — 9 February 2026
-  Sumeet Bagadia recommends three shares to buy on Monday — Bhart
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-9-february-2026-11770397111352.html
+- Trump reacts as Dow Jones hits 50,000 for first time, slams Democrats — ‘Driven by our great tariffs’
+  The Dow Jones Industrial Average led the major indices amid Friday's market rally. It gained more than 1,200 points to finish at 50,
+  🔗 https://www.livemint.com/market/stock-market-news/trump-reacts-as-dow-jones-hits-50-000-for-first-time-slams-democrats-driven-by-our-great-tariffs-11770433628677.html
 
-- Stocks to buy under  ₹100: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
-  Mehul Kothari of Anand Rathi recommends three shares to buy or sell. IR
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-100-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11770395014191.html
+- US stock market: Dow Jones hits 50000 for first time— What drove the rally?
+  The Dow Jones Industrial Average has hit the 50,000 milestone for the first time. The milestone was driven by improving
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-dow-jones-hits-50000-for-first-time-what-drove-the-rally-11770434327419.html
 
-- Dow hits 50,000, Nvidia soars as traders focus on AI spending
-  Dow hits 50,000, Nvidia soars
-  🔗 https://www.livemint.com/market/dow-hits-50-000-nvidia-soars-as-traders-focus-on-ai-spending-11770406863766.html
+- A tech bust gave way to a broader rally. What comes next could be ugly.
+  The stock market’s character already had undergone a significant transformation, one that resembled what followed the dot-com boom at the
+  🔗 https://www.livemint.com/market/stock-market-news/a-tech-bust-gave-way-to-a-broader-rally-what-comes-next-could-be-ugly-11770427667666.html
 
-- Oil Climbs as Investors Weigh Status of US-Iran Nuclear Talks
-  Oil edges higher in a choppy session as investors assess the status of nuclear
-  🔗 https://www.livemint.com/market/oil-climbs-as-investors-weigh-status-of-us-iran-nuclear-talks-11770404834597.html
+- No AI used: Rockstar says GTA 6 will be ‘handcrafted’, built ‘street by street’
+  Rockstar Games has confirmed that generative AI will not be used in GTA VI. Take Two interactive CEO confirmed the development in a recent interview.
+  🔗 https://www.livemint.com/technology/tech-news/no-ai-used-rockstar-says-gta-6-will-be-handcrafted-built-street-by-street-11770425238289.html
 
 - Big Techs quarter in four charts: AI splurge and cloud growth
   Big Tech's quarter in four
@@ -96,129 +100,125 @@
   Vijay Sales is offering Valentine's Day deals on various Apple products. iPhones starting at  ₹50,390 and iPhone Air at
   🔗 https://www.livemint.com/technology/gadgets/iphone-17-pro-price-cut-vijay-sales-announces-limited-time-deal-on-apple-flagship-11770357223153.html
 
-- '15-20% probability': Anthropic reveals new Claude model claims it could be conscious
-  Anthropic's new AI model, Claude Opus 4.6, claims that there is a 15-20% chance of it being conscious. The revelation came during
-  🔗 https://www.livemint.com/technology/tech-news/1520-probability-anthropic-reveals-new-claude-model-claims-it-could-be-conscious-11770368334773.html
+- Tamilnad Mercantile Bank revises MCLRs
+  With effect
+  🔗 https://www.business-standard.com/markets/capital-market-news/tamilnad-mercantile-bank-revises-mclrs-126020700440_1.html
 
-- NSE board approves IPO via OFS, reconstitutes committee to oversee listing
-  The National Stock Exchange (NSE) has approved the launch of an offer-for-sale. The decision comes shortly after the regulator granted a no-objection certificate.
-  🔗 https://www.business-standard.com/markets/ipo/nse-board-approves-ipo-via-ofs-reconstitutes-committee-to-oversee-listing-126020601880_1.html
-
-- Worst week in 4 months: Claude casts a long shadow over Indian IT stocks
-  Indian IT stocks recorded their worst weekly performance in four months, losing over
-  🔗 https://www.business-standard.com/markets/news/it-stocks-worst-week-four-months-anthropic-ai-fears-126020601881_1.html
-
-- Rupee posts best weekly gain in over three years after US trade deal
-  The rupee recorded its strongest weekly performance in more than three years after the India-US trade deal announcement.
-  🔗 https://www.business-standard.com/markets/news/rupee-best-week-three-years-trade-deal-us-126020601857_1.html
-
-- Titan completes acquisition of 67% stake in Damas Jewellery business
-  Titan Company announced that Titan Holdings International FZCO, UAE has completed the acquisition of the Damas Jewellery business in the GCC countries.
-  🔗 https://www.business-standard.com/markets/capital-market-news/titan-completes-acquisition-of-67-stake-in-damas-jewellery-business-126020601798_1.html
-
-- Board of Power Finance Corporation accords in-principle approval for merger with REC
+- Tata Chemicals to invest Rs 515 cr in greenfield facility in Tamil Nadu
   
-  🔗 https://www.business-standard.com/markets/capital-market-news/board-of-power-finance-corporation-accords-in-principle-approval-for-merger-with-rec-126020601796_1.html
+  🔗 https://www.business-standard.com/markets/capital-market-news/tata-chemicals-to-invest-rs-515-cr-in-greenfield-facility-in-tamil-nadu-126020700438_1.html
 
-- Dish TV India sinks deeper into losses in Q3 as subscription revenues continue to slide
-  Dish TV reported a net loss of approximately Rs 276 crore for Q3 FY26. This is sharply higher than the loss of around Rs 47 crore reported in the same quarter last year.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/dish-tv-india-sinks-deeper-into-losses-in-q3-as-subscription-revenues-continue-to-slide/articleshow/128000534.cms
+- Bajel Projects secures 765 kV Vindhyachal Pool - Prayagraj transmission line project
+  Bajel Projects announced that it has been awarded an "Ultra Mega" domestic order valued at over Rs 400 crore. The project involves the development of high-capacity transmission
+  🔗 https://www.business-standard.com/markets/capital-market-news/bajel-projects-secures-765-kv-vindhyachal-pool-prayagraj-transmission-line-project-126020700410_1.html
 
-- Cboe Q4 Results: Co beats profit estimates on options trading boom
-  Cboe is focusing on growth areas like prediction markets and crypto. The exchange is also streamlining operations by exiting businesses in Australia and Canada.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/cboe-q4-results-co-beats-profit-estimates-on-options-trading-boom/articleshow/127999781.cms
+- Baazar Style Retail Q3 PAT slips 37% YoY to Rs 19 cr
+  Baazar Style Retail's consolidated net profit declined 37.65% to Rs 18.96 crore in Q3 FY26
+  🔗 https://www.business-standard.com/markets/capital-market-news/baazar-style-retail-q3-pat-slips-37-yoy-to-rs-19-cr-126020700408_1.html
 
-- Fractal Analytics raises Rs 1,249 crore from anchor investors ahead of IPO; Morgan Stanley, Goldman Sachs among key backers
-  Fractal Analytics raised Rs 1,249 crore from 52 anchor investors at Rs 900 per share. Strong domestic and global institutional demand signals confidence in the AI analytics firm.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/fractal-analytics-raises-rs-1249-crore-from-anchor-investors-ahead-of-ipo-morgan-stanley-goldman-sachs-among-key-backers/articleshow/127998414.cms
+- Ashoka Buildcon JV secures project of Rs 474.38 cr
+  From Bihar
+  🔗 https://www.business-standard.com/markets/capital-market-news/ashoka-buildcon-jv-secures-project-of-rs-474-38-cr-126020700393_1.html
 
-- Tata Steel Q3 profit soars 9-fold YoY to Rs 2,730 crore on Dutch unit boost
-  Tata Steel’s consolidated net profit surged more than ninefold from a year earlier in the December quarter. A sharp improvement in profitability at its Dutch unit and steady operations
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-steel-q3-profit-soars-9-fold-yoy-to-rs-2730-crore-on-dutch-unit-boost/articleshow/127998129.cms
+- Investor angst turns to earnings after trade clouds clear
+  Indian stocks are navigating challenges despite trade agreements. Corporate earnings growth is lagging and foreign investors are looking elsewhere. Recent AI advancements also impact tech giants.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/investor-angst-turns-to-earnings-after-trade-clouds-clear/articleshow/128021914.cms
 
-- Shree Cement Q3 Results: Cons PAT surges 38% YoY  to Rs 268 crore
-  Sales volumes were adversely impacted during the quarter due to loss of production at Baloda Bazar, Chhattisgar
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/shree-cement-q3-results-cons-pat-surges-38-yoy-to-rs-268-crore/articleshow/127997748.cms
+- Where does the capex focus lie in Union Budget 2026?
+  Headline capex understates the Union Budget’s infrastructure push. Adjusting for equity infusions, state and private spending, and extra-budgetary resources shows effective
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/where-does-the-capex-focus-lie-in-union-budget-2026/articleshow/128021527.cms
 
-- 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - Times of India
-  'Deluding itself': MEA after Pakistan blames India for blast at
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXZ0VUpzdjNjRkQ3SlRoRkZRdGd4OTdFZ3Z0bFFpRlVsWXl1OG1rVWNHc2xxRzNaUVZPMXlUUS1nMlV5c094bk1VVXJ6TXZabGFLLW9tbVg3bG9TeWFCVW9NOFhnaHl5VDBKX2g4RXA0MjBWOFdEVXF6WGhPMDhQNUF6cVF4ZFZYTTFqeS1Ga0h3QTNEQVkxc21EZC1DZDVNWjRQNHRtbDl4ZVAxRnF5MVNCM0Q0YXZwRjRjNXk2aVV2cmtxdW04dFRwNHhOTVNvNkZuVE1lN0hTdGkzRkRvNmRRM29QaUpySjNDbzRR0gHzAUFVX3lxTE9PcmRlTWJlLUQyVmVwS3FJZmMtRVFfXzdNNmFDQmRYT1pUSDRWU1NRZnZxSXVaYW9JS2NqVllqYlc1RUtaUFhMVXpuOTlVMjlERU5FZ1R5c3p5aDFVQ3Q3YlE3bW96cWdlclJSd2JONzZOOTRIdlRzY2I1dURMQThoa1Axb3RHR18zUlctVHQ3NmoyNzg4WURXNzRraHZoVHRlNGlmei1mZllacnJETndrbnRvSkllcTJDZ3prZk1PMmV2VS16UlV2NlBFLWpraFdzQnh4M3dIN055RXNBSjhtdXpGNGtnWWZzbk5HclhHREdpZw?oc=5
+- 120 smallcaps deliver double-digit returns in a week. Is this the recovery everyone's looking for?
+  Over 120 smallcap stocks posted double-digit gains in a single week. Experts are divided on whether the rally marks a durable recovery or a tactical bounce.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/120-smallcaps-deliver-double-digit-returns-in-a-week-is-this-the-recovery-everyones-looking-for/articleshow/128021468.cms
 
-- India Condemns Islamabad Mosque Blast, Slams Pak For "Blaming Others" - NDTV
-  India Condemns Islamabad Mosque Blast,
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOREJrVWFUQkhWWEhLOE5JQmRydFg1SFpKWmEwbURNbWRLalZ3ZmN4bEtQd0NVWkhzcUJoTGREQm1VR0JyUmFtVFB0bEI2cFBFRTJzamNsa2FYWVJBaHp0WHl5NS1USHBzdmIzLXdubkItVFB0Z3pqNG1TRWljMWNyN3VpcUdvNXN3dHVWbFAxVmtQNGloRldaUGJYVVIzWmpNczAxTjAtaWVMdUJ6UzN1QlFyeG5vUHo3eVMwclRiZXNNLXd6Q2fSAc4BQVVfeXFMTjd0MDB4RkFaOV84a19Lc1RmS0VOa0o2NXJCNEhfV2VVcDVRNU85TXJjU1J3NGVWTTNwZUk3dW1MeDlCVWxVdW83V2UxT3FwdS1wYkhvb3pFXzZxdkJ2bnItWGE3SkRMRk1jRS1CTjZxMnZwbmlZU3p3SFVRMlFSUnQ2RUVVc3BuTktkOVhUaWFkQ1BIbXppSk5lcV9jMHBsYUJFT1JURWJBZmtnSTlhMmFKRGJoRHAzRUNrNEZqYVhST2N6cFBtX2pWMVhpdEE?oc=5
+- ETMarkets Smart Talk | Why the Budget’s 4.3% fiscal deficit target is a positive for markets: Sunil Sanghai
+  NovaaOne Capital’s Sunil Sanghai explains why the 4.3% fiscal deficit target reassures markets. He highlights the importance of capex-led growth,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/etmarkets-smart-talk-why-the-budgets-4-3-fiscal-deficit-target-is-a-positive-for-markets-sunil-sanghai/articleshow/128021337.cms
 
-- India's "Home-Grown Ills" Jab After Pak Blames Neighbours For Mosque Blast - NDTV
-  India's "Home-Grown Ills
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPNG5ld1BSc1NkSndDOHVOaTlna0M1Q3hDbHVBYzlCN1AyOGpZUWdFWllUdkx6eW9KSFdWZjA1YmpUMnZRRlFLeUxxYUNaRnVoZG5BN1NzTTNqR1RMQjcycjNka1diYXRZMVpKWE53SEhWWUNPUFRiR0RDZV9DRnVmd2NxSXZOMVp0VnZKNk5SbXl5cHFockNybllzSTM2UzJLa1BSUTlxU1p5WHlwSEptMXZETUk1T0tib3ZYUE02Z9IBxwFBVV95cUxNV3pMVC1mZm9qLVgxZ29UVzZyS2hZZ255WXFXaU1oVGNlV1Ewdjd0bTNNV3B0MjM4a3Q3OWFFT2huOVVpV2lYTFFhTnJ2VkJsWnZXWWJha0lHRTNQZ2huUFoxbkJoc3hLU202MmVWQ29Zbllfa2dIeGplRkVGRFBDUlp1bl9FcWZrTTE4bjlMXzhSdk0xbzhfZTZUakRMRGkyX0RiM2JFcnI2SVlONTUyd0tFWlA1T0h3OEhPN2RKZmEwMzJiU0xn?oc=5
+- Bullion’s biggest selloff: How macro shocks triggered a healthy correction in gold, silver
+  Gold and silver saw their sharpest selloff in months as macro shocks triggered a technical correction. Experts say the fall reflects a healthy reset rather than weakening fundamentals.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bullions-biggest-selloff-how-macro-shocks-triggered-a-healthy-correction-in-gold-silver/articleshow/128021140.cms
 
-- Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
-
-- India condemns bombing at Islamabad mosque, condoles the loss of life - newsonair.gov.in
-  India condemns bombing at Islamabad mosque, condoles
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWp1a0I0S1F3QkUtYXFZMTEzbUg3M2RlQnNSSGlITmx6SkZNU1Uyd0pKVXVKOXVwVXZtZmNhME5Xd2U4UzdfS2t4clpVVXIycWtBRTQydnh2R1B5Q0N5Q29nUThLczFQVFZwVE9FZktMc3ZtTklXQ1pZa0VrYlZqaVJsN1NzTVprWFRHbVhsSnRWVFNBNXh4T0dDYW5Malk?oc=5
+- Tariffs Cut To 18%, $500 Billion Trade Aim: India-US Framework In 10 Points - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUW
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUWFDUzVYS3JIOFA3UXphNUdxbExEZkFpbFAxb2w4WWxTWjB0OUFsX2VPWXFJVTVHakM0dmhCMWdjSFR4UmZTaERDR080ZXJyYUhjX01BcURYX0xLNzI1aGVOaklkY3pKOWI5ZVNQcXlPQ3ItREp4azdaZDhvZUcwUEtDWFB1djRNMk5Rbkhlal92S0UySXpCc1VLZGhTTEdGUUHSAYoCQVVfeXFMTjl5c2N0bURFTWtQcTcwejhlWl82a3pDRTVPZ1l4U29fSDVPQzBjaHktS1VtOElKNm11NFItWThrZk5URHJxbUpuWW1KUDZFakI5bE45akpfaXhUS0ZIV21vVjk4TDVXMUtPeG5VdUVXaTkzZzNIOVVxbjhjLWxUQzh0OEZhSFg5LVpTTEY1THl3dDFWRVBSSjRpdkhDMlY1V2VWLS05bXdyVFRiSlBJc3dUMHNPTmNpakhtZXhtSmczUVN1UUZUeDhjN2dwUTYtNjVMSGNHekY1Tkc2bWJ6WDJCNy1EQXlkZG9tZHp0cm8wS0Zwc2Q1bnRuaWZCYXphQ2VvWDlUZDd5Snc?oc=5
 
 - 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - Times of India
   'Deluding itself': MEA after Pakistan blames India for blast at
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXZ0VUpzdjNjRkQ3SlRoRkZRdGd4OTdFZ3Z0bFFpRlVsWXl1OG1rVWNHc2xxRzNaUVZPMXlUUS1nMlV5c094bk1VVXJ6TXZabGFLLW9tbVg3bG9TeWFCVW9NOFhnaHl5VDBKX2g4RXA0MjBWOFdEVXF6WGhPMDhQNUF6cVF4ZFZYTTFqeS1Ga0h3QTNEQVkxc21EZC1DZDVNWjRQNHRtbDl4ZVAxRnF5MVNCM0Q0YXZwRjRjNXk2aVV2cmtxdW04dFRwNHhOTVNvNkZuVE1lN0hTdGkzRkRvNmRRM29QaUpySjNDbzRR0gHzAUFVX3lxTE9PcmRlTWJlLUQyVmVwS3FJZmMtRVFfXzdNNmFDQmRYT1pUSDRWU1NRZnZxSXVaYW9JS2NqVllqYlc1RUtaUFhMVXpuOTlVMjlERU5FZ1R5c3p5aDFVQ3Q3YlE3bW96cWdlclJSd2JONzZOOTRIdlRzY2I1dURMQThoa1Axb3RHR18zUlctVHQ3NmoyNzg4WURXNzRraHZoVHRlNGlmei1mZllacnJETndrbnRvSkllcTJDZ3prZk1PMmV2VS16UlV2NlBFLWpraFdzQnh4M3dIN055RXNBSjhtdXpGNGtnWWZzbk5HclhHREdpZw?oc=5
 
-- India Condemns Islamabad Mosque Blast, Slams Pak For "Blaming Others" - NDTV
-  India Condemns Islamabad Mosque Blast,
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOREJrVWFUQkhWWEhLOE5JQmRydFg1SFpKWmEwbURNbWRLalZ3ZmN4bEtQd0NVWkhzcUJoTGREQm1VR0JyUmFtVFB0bEI2cFBFRTJzamNsa2FYWVJBaHp0WHl5NS1USHBzdmIzLXdubkItVFB0Z3pqNG1TRWljMWNyN3VpcUdvNXN3dHVWbFAxVmtQNGloRldaUGJYVVIzWmpNczAxTjAtaWVMdUJ6UzN1QlFyeG5vUHo3eVMwclRiZXNNLXd6Q2fSAc4BQVVfeXFMTjd0MDB4RkFaOV84a19Lc1RmS0VOa0o2NXJCNEhfV2VVcDVRNU85TXJjU1J3NGVWTTNwZUk3dW1MeDlCVWxVdW83V2UxT3FwdS1wYkhvb3pFXzZxdkJ2bnItWGE3SkRMRk1jRS1CTjZxMnZwbmlZU3p3SFVRMlFSUnQ2RUVVc3BuTktkOVhUaWFkQ1BIbXppSk5lcV9jMHBsYUJFT1JURWJBZmtnSTlhMmFKRGJoRHAzRUNrNEZqYVhST2N6cFBtX2pWMVhpdEE?oc=5
-
 - India's "Home-Grown Ills" Jab After Pak Blames Neighbours For Mosque Blast - NDTV
   India's "Home-Grown Ills
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPNG5ld1BSc1NkSndDOHVOaTlna0M1Q3hDbHVBYzlCN1AyOGpZUWdFWllUdkx6eW9KSFdWZjA1YmpUMnZRRlFLeUxxYUNaRnVoZG5BN1NzTTNqR1RMQjcycjNka1diYXRZMVpKWE53SEhWWUNPUFRiR0RDZV9DRnVmd2NxSXZOMVp0VnZKNk5SbXl5cHFockNybllzSTM2UzJLa1BSUTlxU1p5WHlwSEptMXZETUk1T0tib3ZYUE02Z9IBxwFBVV95cUxNV3pMVC1mZm9qLVgxZ29UVzZyS2hZZ255WXFXaU1oVGNlV1Ewdjd0bTNNV3B0MjM4a3Q3OWFFT2huOVVpV2lYTFFhTnJ2VkJsWnZXWWJha0lHRTNQZ2huUFoxbkJoc3hLU202MmVWQ29Zbllfa2dIeGplRkVGRFBDUlp1bl9FcWZrTTE4bjlMXzhSdk0xbzhfZTZUakRMRGkyX0RiM2JFcnI2SVlONTUyd0tFWlA1T0h3OEhPN2RKZmEwMzJiU0xn?oc=5
 
-- Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
-
-- India condemns bombing at Islamabad mosque, condoles the loss of life - newsonair.gov.in
-  India condemns bombing at Islamabad mosque, condoles
+- India condemns bombing at Islamabad mosque - newsonair.gov.in
+  India condemns bombing at
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWp1a0I0S1F3QkUtYXFZMTEzbUg3M2RlQnNSSGlITmx6SkZNU1Uyd0pKVXVKOXVwVXZtZmNhME5Xd2U4UzdfS2t4clpVVXIycWtBRTQydnh2R1B5Q0N5Q29nUThLczFQVFZwVE9FZktMc3ZtTklXQ1pZa0VrYlZqaVJsN1NzTVprWFRHbVhsSnRWVFNBNXh4T0dDYW5Malk?oc=5
+
+- School assembly news headlines, February 7: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 7: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVy1ndW9VdUNqRFZ1eVlqOW1PNFFlYjBibmZPRFcyVHdwelItQ3ZJdWYwMlUwanJaeXRJVkRMeDBUeGpyRlhwT0V1Z1AzRnY4bmN4aDB2Z3ZMZG53NDd1c1NvQThTWkJkRkhESDBBclBxMlR0XzBfVFBxeVdvdl96SzJUTjZmckd2TVR4bm1lMG5JRkVqMlp0UFI4Q1JQUHZid29NN2JSazhlR1NiLXVncHRnLVlWZ05SSDM5cnBnMjFmWkpQT2cwOWhSdlRnajluN2dPNXN0Uzg4V0p3NzI2SUllNmjSAeoBQVVfeXFMTnRLSmlad1IyekstckZRZlNEeUQzWTVFZzJ4LW9QblI1d3Zhd2lSRXhXUFFuYlNTaGdVcGFOZkhWdlpxMXV2SG9wYUFqUVRQVHIxbWJ6c3ZrR21mYXBqV2o3MEVjb2JhMUE0aGliX19mcDZzRXU5cTZpVUgxY0tsa1Qydm4wUl96N28xN3VveExfYnVOTVgwemxaQ0JpNmlaclV5Wm8wUEFKVHdGU29IVThPVFhQR1pSVTF1b0hiY2l6NUxyTGpaR1dVbGJqd3JRV1Z2X2pIWW9pYTVxSmlhLXphTHVRcE92NlBn?oc=5
+
+- Tariffs Cut To 18%, $500 Billion Trade Aim: India-US Framework In 10 Points - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUW
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUWFDUzVYS3JIOFA3UXphNUdxbExEZkFpbFAxb2w4WWxTWjB0OUFsX2VPWXFJVTVHakM0dmhCMWdjSFR4UmZTaERDR080ZXJyYUhjX01BcURYX0xLNzI1aGVOaklkY3pKOWI5ZVNQcXlPQ3ItREp4azdaZDhvZUcwUEtDWFB1djRNMk5Rbkhlal92S0UySXpCc1VLZGhTTEdGUUHSAYoCQVVfeXFMTjl5c2N0bURFTWtQcTcwejhlWl82a3pDRTVPZ1l4U29fSDVPQzBjaHktS1VtOElKNm11NFItWThrZk5URHJxbUpuWW1KUDZFakI5bE45akpfaXhUS0ZIV21vVjk4TDVXMUtPeG5VdUVXaTkzZzNIOVVxbjhjLWxUQzh0OEZhSFg5LVpTTEY1THl3dDFWRVBSSjRpdkhDMlY1V2VWLS05bXdyVFRiSlBJc3dUMHNPTmNpakhtZXhtSmczUVN1UUZUeDhjN2dwUTYtNjVMSGNHekY1Tkc2bWJ6WDJCNy1EQXlkZG9tZHp0cm8wS0Zwc2Q1bnRuaWZCYXphQ2VvWDlUZDd5Snc?oc=5
 
 - 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - Times of India
   'Deluding itself': MEA after Pakistan blames India for blast at
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXZ0VUpzdjNjRkQ3SlRoRkZRdGd4OTdFZ3Z0bFFpRlVsWXl1OG1rVWNHc2xxRzNaUVZPMXlUUS1nMlV5c094bk1VVXJ6TXZabGFLLW9tbVg3bG9TeWFCVW9NOFhnaHl5VDBKX2g4RXA0MjBWOFdEVXF6WGhPMDhQNUF6cVF4ZFZYTTFqeS1Ga0h3QTNEQVkxc21EZC1DZDVNWjRQNHRtbDl4ZVAxRnF5MVNCM0Q0YXZwRjRjNXk2aVV2cmtxdW04dFRwNHhOTVNvNkZuVE1lN0hTdGkzRkRvNmRRM29QaUpySjNDbzRR0gHzAUFVX3lxTE9PcmRlTWJlLUQyVmVwS3FJZmMtRVFfXzdNNmFDQmRYT1pUSDRWU1NRZnZxSXVaYW9JS2NqVllqYlc1RUtaUFhMVXpuOTlVMjlERU5FZ1R5c3p5aDFVQ3Q3YlE3bW96cWdlclJSd2JONzZOOTRIdlRzY2I1dURMQThoa1Axb3RHR18zUlctVHQ3NmoyNzg4WURXNzRraHZoVHRlNGlmei1mZllacnJETndrbnRvSkllcTJDZ3prZk1PMmV2VS16UlV2NlBFLWpraFdzQnh4M3dIN055RXNBSjhtdXpGNGtnWWZzbk5HclhHREdpZw?oc=5
 
-- India Condemns Islamabad Mosque Blast, Slams Pak For "Blaming Others" - NDTV
-  India Condemns Islamabad Mosque Blast,
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOREJrVWFUQkhWWEhLOE5JQmRydFg1SFpKWmEwbURNbWRLalZ3ZmN4bEtQd0NVWkhzcUJoTGREQm1VR0JyUmFtVFB0bEI2cFBFRTJzamNsa2FYWVJBaHp0WHl5NS1USHBzdmIzLXdubkItVFB0Z3pqNG1TRWljMWNyN3VpcUdvNXN3dHVWbFAxVmtQNGloRldaUGJYVVIzWmpNczAxTjAtaWVMdUJ6UzN1QlFyeG5vUHo3eVMwclRiZXNNLXd6Q2fSAc4BQVVfeXFMTjd0MDB4RkFaOV84a19Lc1RmS0VOa0o2NXJCNEhfV2VVcDVRNU85TXJjU1J3NGVWTTNwZUk3dW1MeDlCVWxVdW83V2UxT3FwdS1wYkhvb3pFXzZxdkJ2bnItWGE3SkRMRk1jRS1CTjZxMnZwbmlZU3p3SFVRMlFSUnQ2RUVVc3BuTktkOVhUaWFkQ1BIbXppSk5lcV9jMHBsYUJFT1JURWJBZmtnSTlhMmFKRGJoRHAzRUNrNEZqYVhST2N6cFBtX2pWMVhpdEE?oc=5
-
 - India's "Home-Grown Ills" Jab After Pak Blames Neighbours For Mosque Blast - NDTV
   India's "Home-Grown Ills
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPNG5ld1BSc1NkSndDOHVOaTlna0M1Q3hDbHVBYzlCN1AyOGpZUWdFWllUdkx6eW9KSFdWZjA1YmpUMnZRRlFLeUxxYUNaRnVoZG5BN1NzTTNqR1RMQjcycjNka1diYXRZMVpKWE53SEhWWUNPUFRiR0RDZV9DRnVmd2NxSXZOMVp0VnZKNk5SbXl5cHFockNybllzSTM2UzJLa1BSUTlxU1p5WHlwSEptMXZETUk1T0tib3ZYUE02Z9IBxwFBVV95cUxNV3pMVC1mZm9qLVgxZ29UVzZyS2hZZ255WXFXaU1oVGNlV1Ewdjd0bTNNV3B0MjM4a3Q3OWFFT2huOVVpV2lYTFFhTnJ2VkJsWnZXWWJha0lHRTNQZ2huUFoxbkJoc3hLU202MmVWQ29Zbllfa2dIeGplRkVGRFBDUlp1bl9FcWZrTTE4bjlMXzhSdk0xbzhfZTZUakRMRGkyX0RiM2JFcnI2SVlONTUyd0tFWlA1T0h3OEhPN2RKZmEwMzJiU0xn?oc=5
 
-- Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
-
-- India condemns bombing at Islamabad mosque, condoles the loss of life - newsonair.gov.in
-  India condemns bombing at Islamabad mosque, condoles
+- India condemns bombing at Islamabad mosque - newsonair.gov.in
+  India condemns bombing at
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWp1a0I0S1F3QkUtYXFZMTEzbUg3M2RlQnNSSGlITmx6SkZNU1Uyd0pKVXVKOXVwVXZtZmNhME5Xd2U4UzdfS2t4clpVVXIycWtBRTQydnh2R1B5Q0N5Q29nUThLczFQVFZwVE9FZktMc3ZtTklXQ1pZa0VrYlZqaVJsN1NzTVprWFRHbVhsSnRWVFNBNXh4T0dDYW5Malk?oc=5
+
+- School assembly news headlines, February 7: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 7: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVy1ndW9VdUNqRFZ1eVlqOW1PNFFlYjBibmZPRFcyVHdwelItQ3ZJdWYwMlUwanJaeXRJVkRMeDBUeGpyRlhwT0V1Z1AzRnY4bmN4aDB2Z3ZMZG53NDd1c1NvQThTWkJkRkhESDBBclBxMlR0XzBfVFBxeVdvdl96SzJUTjZmckd2TVR4bm1lMG5JRkVqMlp0UFI4Q1JQUHZid29NN2JSazhlR1NiLXVncHRnLVlWZ05SSDM5cnBnMjFmWkpQT2cwOWhSdlRnajluN2dPNXN0Uzg4V0p3NzI2SUllNmjSAeoBQVVfeXFMTnRLSmlad1IyekstckZRZlNEeUQzWTVFZzJ4LW9QblI1d3Zhd2lSRXhXUFFuYlNTaGdVcGFOZkhWdlpxMXV2SG9wYUFqUVRQVHIxbWJ6c3ZrR21mYXBqV2o3MEVjb2JhMUE0aGliX19mcDZzRXU5cTZpVUgxY0tsa1Qydm4wUl96N28xN3VveExfYnVOTVgwemxaQ0JpNmlaclV5Wm8wUEFKVHdGU29IVThPVFhQR1pSVTF1b0hiY2l6NUxyTGpaR1dVbGJqd3JRV1Z2X2pIWW9pYTVxSmlhLXphTHVRcE92NlBn?oc=5
+
+- Tariffs Cut To 18%, $500 Billion Trade Aim: India-US Framework In 10 Points - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUW
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUWFDUzVYS3JIOFA3UXphNUdxbExEZkFpbFAxb2w4WWxTWjB0OUFsX2VPWXFJVTVHakM0dmhCMWdjSFR4UmZTaERDR080ZXJyYUhjX01BcURYX0xLNzI1aGVOaklkY3pKOWI5ZVNQcXlPQ3ItREp4azdaZDhvZUcwUEtDWFB1djRNMk5Rbkhlal92S0UySXpCc1VLZGhTTEdGUUHSAYoCQVVfeXFMTjl5c2N0bURFTWtQcTcwejhlWl82a3pDRTVPZ1l4U29fSDVPQzBjaHktS1VtOElKNm11NFItWThrZk5URHJxbUpuWW1KUDZFakI5bE45akpfaXhUS0ZIV21vVjk4TDVXMUtPeG5VdUVXaTkzZzNIOVVxbjhjLWxUQzh0OEZhSFg5LVpTTEY1THl3dDFWRVBSSjRpdkhDMlY1V2VWLS05bXdyVFRiSlBJc3dUMHNPTmNpakhtZXhtSmczUVN1UUZUeDhjN2dwUTYtNjVMSGNHekY1Tkc2bWJ6WDJCNy1EQXlkZG9tZHp0cm8wS0Zwc2Q1bnRuaWZCYXphQ2VvWDlUZDd5Snc?oc=5
 
 - 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - Times of India
   'Deluding itself': MEA after Pakistan blames India for blast at
   🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXZ0VUpzdjNjRkQ3SlRoRkZRdGd4OTdFZ3Z0bFFpRlVsWXl1OG1rVWNHc2xxRzNaUVZPMXlUUS1nMlV5c094bk1VVXJ6TXZabGFLLW9tbVg3bG9TeWFCVW9NOFhnaHl5VDBKX2g4RXA0MjBWOFdEVXF6WGhPMDhQNUF6cVF4ZFZYTTFqeS1Ga0h3QTNEQVkxc21EZC1DZDVNWjRQNHRtbDl4ZVAxRnF5MVNCM0Q0YXZwRjRjNXk2aVV2cmtxdW04dFRwNHhOTVNvNkZuVE1lN0hTdGkzRkRvNmRRM29QaUpySjNDbzRR0gHzAUFVX3lxTE9PcmRlTWJlLUQyVmVwS3FJZmMtRVFfXzdNNmFDQmRYT1pUSDRWU1NRZnZxSXVaYW9JS2NqVllqYlc1RUtaUFhMVXpuOTlVMjlERU5FZ1R5c3p5aDFVQ3Q3YlE3bW96cWdlclJSd2JONzZOOTRIdlRzY2I1dURMQThoa1Axb3RHR18zUlctVHQ3NmoyNzg4WURXNzRraHZoVHRlNGlmei1mZllacnJETndrbnRvSkllcTJDZ3prZk1PMmV2VS16UlV2NlBFLWpraFdzQnh4M3dIN055RXNBSjhtdXpGNGtnWWZzbk5HclhHREdpZw?oc=5
 
-- India Condemns Islamabad Mosque Blast, Slams Pak For "Blaming Others" - NDTV
-  India Condemns Islamabad Mosque Blast,
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOREJrVWFUQkhWWEhLOE5JQmRydFg1SFpKWmEwbURNbWRLalZ3ZmN4bEtQd0NVWkhzcUJoTGREQm1VR0JyUmFtVFB0bEI2cFBFRTJzamNsa2FYWVJBaHp0WHl5NS1USHBzdmIzLXdubkItVFB0Z3pqNG1TRWljMWNyN3VpcUdvNXN3dHVWbFAxVmtQNGloRldaUGJYVVIzWmpNczAxTjAtaWVMdUJ6UzN1QlFyeG5vUHo3eVMwclRiZXNNLXd6Q2fSAc4BQVVfeXFMTjd0MDB4RkFaOV84a19Lc1RmS0VOa0o2NXJCNEhfV2VVcDVRNU85TXJjU1J3NGVWTTNwZUk3dW1MeDlCVWxVdW83V2UxT3FwdS1wYkhvb3pFXzZxdkJ2bnItWGE3SkRMRk1jRS1CTjZxMnZwbmlZU3p3SFVRMlFSUnQ2RUVVc3BuTktkOVhUaWFkQ1BIbXppSk5lcV9jMHBsYUJFT1JURWJBZmtnSTlhMmFKRGJoRHAzRUNrNEZqYVhST2N6cFBtX2pWMVhpdEE?oc=5
+- India's "Home-Grown Ills" Jab After Pak Blames Neighbours For Mosque Blast - NDTV
+  India's "Home-Grown Ills
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPNG5ld1BSc1NkSndDOHVOaTlna0M1Q3hDbHVBYzlCN1AyOGpZUWdFWllUdkx6eW9KSFdWZjA1YmpUMnZRRlFLeUxxYUNaRnVoZG5BN1NzTTNqR1RMQjcycjNka1diYXRZMVpKWE53SEhWWUNPUFRiR0RDZV9DRnVmd2NxSXZOMVp0VnZKNk5SbXl5cHFockNybllzSTM2UzJLa1BSUTlxU1p5WHlwSEptMXZETUk1T0tib3ZYUE02Z9IBxwFBVV95cUxNV3pMVC1mZm9qLVgxZ29UVzZyS2hZZ255WXFXaU1oVGNlV1Ewdjd0bTNNV3B0MjM4a3Q3OWFFT2huOVVpV2lYTFFhTnJ2VkJsWnZXWWJha0lHRTNQZ2huUFoxbkJoc3hLU202MmVWQ29Zbllfa2dIeGplRkVGRFBDUlp1bl9FcWZrTTE4bjlMXzhSdk0xbzhfZTZUakRMRGkyX0RiM2JFcnI2SVlONTUyd0tFWlA1T0h3OEhPN2RKZmEwMzJiU0xn?oc=5
+
+- India condemns bombing at Islamabad mosque - newsonair.gov.in
+  India condemns bombing at
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWp1a0I0S1F3QkUtYXFZMTEzbUg3M2RlQnNSSGlITmx6SkZNU1Uyd0pKVXVKOXVwVXZtZmNhME5Xd2U4UzdfS2t4clpVVXIycWtBRTQydnh2R1B5Q0N5Q29nUThLczFQVFZwVE9FZktMc3ZtTklXQ1pZa0VrYlZqaVJsN1NzTVprWFRHbVhsSnRWVFNBNXh4T0dDYW5Malk?oc=5
+
+- School assembly news headlines, February 7: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 7: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVy1ndW9VdUNqRFZ1eVlqOW1PNFFlYjBibmZPRFcyVHdwelItQ3ZJdWYwMlUwanJaeXRJVkRMeDBUeGpyRlhwT0V1Z1AzRnY4bmN4aDB2Z3ZMZG53NDd1c1NvQThTWkJkRkhESDBBclBxMlR0XzBfVFBxeVdvdl96SzJUTjZmckd2TVR4bm1lMG5JRkVqMlp0UFI4Q1JQUHZid29NN2JSazhlR1NiLXVncHRnLVlWZ05SSDM5cnBnMjFmWkpQT2cwOWhSdlRnajluN2dPNXN0Uzg4V0p3NzI2SUllNmjSAeoBQVVfeXFMTnRLSmlad1IyekstckZRZlNEeUQzWTVFZzJ4LW9QblI1d3Zhd2lSRXhXUFFuYlNTaGdVcGFOZkhWdlpxMXV2SG9wYUFqUVRQVHIxbWJ6c3ZrR21mYXBqV2o3MEVjb2JhMUE0aGliX19mcDZzRXU5cTZpVUgxY0tsa1Qydm4wUl96N28xN3VveExfYnVOTVgwemxaQ0JpNmlaclV5Wm8wUEFKVHdGU29IVThPVFhQR1pSVTF1b0hiY2l6NUxyTGpaR1dVbGJqd3JRV1Z2X2pIWW9pYTVxSmlhLXphTHVRcE92NlBn?oc=5
+
+- Tariffs Cut To 18%, $500 Billion Trade Aim: India-US Framework In 10 Points - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUW
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUWFDUzVYS3JIOFA3UXphNUdxbExEZkFpbFAxb2w4WWxTWjB0OUFsX2VPWXFJVTVHakM0dmhCMWdjSFR4UmZTaERDR080ZXJyYUhjX01BcURYX0xLNzI1aGVOaklkY3pKOWI5ZVNQcXlPQ3ItREp4azdaZDhvZUcwUEtDWFB1djRNMk5Rbkhlal92S0UySXpCc1VLZGhTTEdGUUHSAYoCQVVfeXFMTjl5c2N0bURFTWtQcTcwejhlWl82a3pDRTVPZ1l4U29fSDVPQzBjaHktS1VtOElKNm11NFItWThrZk5URHJxbUpuWW1KUDZFakI5bE45akpfaXhUS0ZIV21vVjk4TDVXMUtPeG5VdUVXaTkzZzNIOVVxbjhjLWxUQzh0OEZhSFg5LVpTTEY1THl3dDFWRVBSSjRpdkhDMlY1V2VWLS05bXdyVFRiSlBJc3dUMHNPTmNpakhtZXhtSmczUVN1UUZUeDhjN2dwUTYtNjVMSGNHekY1Tkc2bWJ6WDJCNy1EQXlkZG9tZHp0cm8wS0Zwc2Q1bnRuaWZCYXphQ2VvWDlUZDd5Snc?oc=5
+
+- 'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall - Times of India
+  'Deluding itself': MEA after Pakistan blames India for blast at
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXZ0VUpzdjNjRkQ3SlRoRkZRdGd4OTdFZ3Z0bFFpRlVsWXl1OG1rVWNHc2xxRzNaUVZPMXlUUS1nMlV5c094bk1VVXJ6TXZabGFLLW9tbVg3bG9TeWFCVW9NOFhnaHl5VDBKX2g4RXA0MjBWOFdEVXF6WGhPMDhQNUF6cVF4ZFZYTTFqeS1Ga0h3QTNEQVkxc21EZC1DZDVNWjRQNHRtbDl4ZVAxRnF5MVNCM0Q0YXZwRjRjNXk2aVV2cmtxdW04dFRwNHhOTVNvNkZuVE1lN0hTdGkzRkRvNmRRM29QaUpySjNDbzRR0gHzAUFVX3lxTE9PcmRlTWJlLUQyVmVwS3FJZmMtRVFfXzdNNmFDQmRYT1pUSDRWU1NRZnZxSXVaYW9JS2NqVllqYlc1RUtaUFhMVXpuOTlVMjlERU5FZ1R5c3p5aDFVQ3Q3YlE3bW96cWdlclJSd2JONzZOOTRIdlRzY2I1dURMQThoa1Axb3RHR18zUlctVHQ3NmoyNzg4WURXNzRraHZoVHRlNGlmei1mZllacnJETndrbnRvSkllcTJDZ3prZk1PMmV2VS16UlV2NlBFLWpraFdzQnh4M3dIN055RXNBSjhtdXpGNGtnWWZzbk5HclhHREdpZw?oc=5
 
 - India's "Home-Grown Ills" Jab After Pak Blames Neighbours For Mosque Blast - NDTV
   India's "Home-Grown Ills
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPNG5ld1BSc1NkSndDOHVOaTlna0M1Q3hDbHVBYzlCN1AyOGpZUWdFWllUdkx6eW9KSFdWZjA1YmpUMnZRRlFLeUxxYUNaRnVoZG5BN1NzTTNqR1RMQjcycjNka1diYXRZMVpKWE53SEhWWUNPUFRiR0RDZV9DRnVmd2NxSXZOMVp0VnZKNk5SbXl5cHFockNybllzSTM2UzJLa1BSUTlxU1p5WHlwSEptMXZETUk1T0tib3ZYUE02Z9IBxwFBVV95cUxNV3pMVC1mZm9qLVgxZ29UVzZyS2hZZ255WXFXaU1oVGNlV1Ewdjd0bTNNV3B0MjM4a3Q3OWFFT2huOVVpV2lYTFFhTnJ2VkJsWnZXWWJha0lHRTNQZ2huUFoxbkJoc3hLU202MmVWQ29Zbllfa2dIeGplRkVGRFBDUlp1bl9FcWZrTTE4bjlMXzhSdk0xbzhfZTZUakRMRGkyX0RiM2JFcnI2SVlONTUyd0tFWlA1T0h3OEhPN2RKZmEwMzJiU0xn?oc=5
 
-- Bangladesh Rushes For 'Secret' US Trade Deal After India's Tariff Gains - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTz
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRLTzJHOHFqdlF6WUhVTHVCclFwZEhEOEFZQ3h6bG9MdXNyLUJCdjhsS0VycXhvRWlfMF9VdGY2d1JtNWdxZ09HSlBySW9XSTZidlloMklscVV4Unl1NlI3YWhLZjZtTzZNcDBjQ3huSjVoMGk5clFhUkhVcVNmSDM3MEdQVFBxSFFRN0RDOEk0ZGFYRTBSdjM3Z2FIYzBlcndoRmFJWG1fbjM2bkHSAbYBQVVfeXFMTnlndkhHNWxZUm9Ic21GVldScmxRa01saWRCWU51WWN5dDJwVVBnUzk0bHNBYVdfdUdobGpEYks3YzU5dG1kYTdLbXI3MXloLVRWUzVkcXBoR1l0RmQyV21Md29oNWkwODlpWVMxWExDSUVOb0NuX2pFa3ZNUTdCTFk0ODFQclJMWHNPUmM5UkdOaUpHcG5YUnlaZmg4MkJsUWtMckdaVFNhQmZ2dmRxSlhCUnFCVnc?oc=5
-
-- India condemns bombing at Islamabad mosque, condoles the loss of life - newsonair.gov.in
-  India condemns bombing at Islamabad mosque, condoles
+- India condemns bombing at Islamabad mosque - newsonair.gov.in
+  India condemns bombing at
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWp1a0I0S1F3QkUtYXFZMTEzbUg3M2RlQnNSSGlITmx6SkZNU1Uyd0pKVXVKOXVwVXZtZmNhME5Xd2U4UzdfS2t4clpVVXIycWtBRTQydnh2R1B5Q0N5Q29nUThLczFQVFZwVE9FZktMc3ZtTklXQ1pZa0VrYlZqaVJsN1NzTVprWFRHbVhsSnRWVFNBNXh4T0dDYW5Malk?oc=5
+
+- School assembly news headlines, February 7: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 7: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVy1ndW9VdUNqRFZ1eVlqOW1PNFFlYjBibmZPRFcyVHdwelItQ3ZJdWYwMlUwanJaeXRJVkRMeDBUeGpyRlhwT0V1Z1AzRnY4bmN4aDB2Z3ZMZG53NDd1c1NvQThTWkJkRkhESDBBclBxMlR0XzBfVFBxeVdvdl96SzJUTjZmckd2TVR4bm1lMG5JRkVqMlp0UFI4Q1JQUHZid29NN2JSazhlR1NiLXVncHRnLVlWZ05SSDM5cnBnMjFmWkpQT2cwOWhSdlRnajluN2dPNXN0Uzg4V0p3NzI2SUllNmjSAeoBQVVfeXFMTnRLSmlad1IyekstckZRZlNEeUQzWTVFZzJ4LW9QblI1d3Zhd2lSRXhXUFFuYlNTaGdVcGFOZkhWdlpxMXV2SG9wYUFqUVRQVHIxbWJ6c3ZrR21mYXBqV2o3MEVjb2JhMUE0aGliX19mcDZzRXU5cTZpVUgxY0tsa1Qydm4wUl96N28xN3VveExfYnVOTVgwemxaQ0JpNmlaclV5Wm8wUEFKVHdGU29IVThPVFhQR1pSVTF1b0hiY2l6NUxyTGpaR1dVbGJqd3JRV1Z2X2pIWW9pYTVxSmlhLXphTHVRcE92NlBn?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-07 01:32:16 UTC_
+_Last updated: 2026-02-07 06:39:58 UTC_
