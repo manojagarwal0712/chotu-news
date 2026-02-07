@@ -1,44 +1,48 @@
 # 📰 Daily News Summaries
 
-- ‘Look forward to strengthening friendship’: PM Modi arrives in Kuala Lumpur
+- Elephant attacks claim two more lives in Bokaro; toll reaches eight since January
   
-  🔗 https://indianexpress.com/article/india/pm-narendra-modi-malaysia-visit-kuala-lumpur-anwar-ibrahim-bilateral-talks-10519166/
+  🔗 https://indianexpress.com/article/india/jharkhand-bokaro-elephant-attack-two-dead-mining-corridor-impact-10519730/
 
-- IRCTC releases revised food menu for Vande Bharat Sleeper train; check full veg, non-veg meal options
+- LS Speaker, RS deputy chairman flag concerns on disruption in legislatures – ‘Adversely affect image of democratic institutions’
   
-  🔗 https://indianexpress.com/article/india/irctc-releases-revised-veg-non-veg-food-menu-meals-options-vande-bharat-sleeper-train-10518957/
+  🔗 https://indianexpress.com/article/india/ls-speaker-rs-deputy-chairman-disruption-legislatures-image-democratic-institutions-10519705/
 
-- A burglary, a manhunt and an acquittal: how a high-profile theft case against a lone accused collapsed in Odisha court
+- Months after Pahalgam attack, Amit Shah advocates ‘aggressive marketing’ of J&K tourist places
   
-  🔗 https://indianexpress.com/article/india/how-a-high-profile-theft-case-against-a-lone-accused-collapsed-in-odisha-court-10519024/
+  🔗 https://indianexpress.com/article/india/months-pahalgam-attack-amit-shah-aggressive-marketing-jk-tourist-places-10519595/
 
-- MP’s Kuno national park celebrates five cubs born to Namibian cheetah ‘Aasha’
+- A second-time mom at Kuno: Aasha gives birth to 5 cubs
   
-  🔗 https://indianexpress.com/article/india/five-cubs-born-namibian-cheetah-asha-kuno-10518948/
+  🔗 https://indianexpress.com/article/india/second-time-mom-kuno-aasha-birth-5-cubs-10519570/
 
-- Indian Railways makes ID verification mandatory on reserved trains in Bangladesh, Nepal border areas
+- Meet India’s first Dalit Cardinal Poola Anthony, picked to lead Catholic church in country
   
-  🔗 https://indianexpress.com/article/india/indian-railways-id-verification-compulsory-reserved-trains-nepal-bangladesh-border-area-10518701/
+  🔗 https://indianexpress.com/article/india/cardinal-poola-anthony-elected-cbci-president-first-dalit-leader-catholic-church-india-10519510/
+
+- Qualcomm’s 2nm breakthrough puts India at the centre of global chip design
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/qualcomms-2nm-breakthrough-puts-india-at-the-centre-of-global-chip-design-10519645/
+
+- From years to days: How AI agents are helping predict battery life in just days
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/from-years-to-days-how-ai-agents-are-helping-predict-battery-life-in-just-days-10519494/
+
+- Spotify rolls out a new feature titled ‘About the Song’ for better music discovery
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spotify-rolls-out-a-new-feature-titled-about-the-song-for-better-discovery-10519478/
+
+- ‘India’s semiconductor ecosystem expanding rapidly, talent pipeline to drive growth’: Union Minister Ashwini Vaishnaw
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ashwini-vaishnaw-india-semiconductor-ecosystem-qualcomm-talent-pipeline-10519490/
 
 - WhatsApp is getting an Instagram-inspired ‘Close Friends’ update
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/social-whatsapp-status-update-close-friends-custom-lists-feature-explained-10519028/
 
-- Nasa approves iPhones for Spaceflight after years of tech restrictions
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nasa-approves-iphones-for-spaceflight-after-years-of-tech-restrictions-10519143/
-
-- Gemini gets a cleaner look as Google updates tools and ‘My Stuff’
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/gemini-gets-a-cleaner-look-as-google-updates-tools-and-my-stuff-10518885/
-
-- Apple plans to allow external voice-controlled AI chatbots in CarPlay: Reports
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-plans-to-allow-external-voice-controlled-ai-chatbots-in-carplay-reports-10518559/
-
-- Big Tech’s $600 billion spending plans exacerbate investors’ AI headache
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/big-techs-600-billion-spending-plans-exacerbate-investors-ai-headache-10518560/
+- SBI raises loan growth guidance to 13-15% on trade deals, Budget impetus
+  SBI reported a net profit of  ₹21,028 crore for Q3
+  🔗 https://www.livemint.com/companies/company-results/sbi-q3-earnings-loan-growth-guidance-trade-deals-budget-11770465685979.html
 
 - Nokia unveils world's largest R&amp;D facility for fixed networks in Chennai; expands investment to  ₹270 crore
   Nokia launches R&amp;amp;
@@ -56,9 +60,9 @@
   Air India opened its first flagship ‘The Maharaja Lounge’ at Delhi airport's Terminal 3. Here's a look at the
   🔗 https://www.livemint.com/companies/news/air-india-unveils-maharaja-lounge-delhi-airport-t3-check-eligibility-amenities-first-class-guest-business-section-photos-11770440288815.html
 
-- Titan polishes its diamond play as gold stays volatile
-  Only about 12% of the jewellery sold in India is diamond. Majority of the purchases still focus on gold
-  🔗 https://www.livemint.com/companies/news/titan-tanishq-bets-on-natural-lab-grown-diamonds-as-gold-stays-volatile-11770372576853.html
+- China's central bank continues gold purchases for 15th consecutive month amid market volatility
+  China's central bank has continued gold purchases for 15 months. Despite a recent market sell-off, demand remains
+  🔗 https://www.livemint.com/market/commodities/chinas-central-bank-continues-gold-purchases-for-15th-consecutive-month-amid-market-volatility-11770477793280.html
 
 - 1250% returns in five years! Small-cap multibagger stock to be in focus on Monday; here's why
   The board of GRM Overseas approved a bonus issue and converted 77.18 lakh warrants into equity shares
@@ -76,9 +80,17 @@
   SBI's profit jumped 24.5% YoY to  ₹21,028.15 crore. It was SBI's highest-ever quarterly net profit. Total income rose 9
   🔗 https://www.livemint.com/market/stock-market-news/sbi-q3-results-profit-nii-nim-advances-asset-quality-key-takeaways-highlights-from-december-quarter-earnings-11770446022517.html
 
-- Nifty 50 can head to 19k by the end of this year, says Rohit Srivastava of Indiacharts
-  Rohit Srivastava of Indiacharts shares insights on the Nifty 50's potential trajectory. With interest rates and government spending in play,
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-can-head-to-26k-by-the-end-of-this-year-says-rohit-srivastava-of-indiacharts-bank-nifty-indian-rupee-11770449422646.html
+- Over 2,000 GCCs signal India’s rising clout in AI and technology services: Union Minister Ashwini Vaishnaw
+  Union Minister Ashwini Vaishnaw says India’s IT sector is shifting to an AI-led services model. Government, industry and academia work together to position the country as
+  🔗 https://www.livemint.com/technology/tech-news/over-2-000-gccs-signal-india-s-rising-clout-in-ai-and-technology-services-union-minister-ashwini-vaishnaw-11770485192206.html
+
+- Valentine’s Day gifting guide: Top 5 tech picks you can buy right now
+  From smartphones and smartwatches to speakers and headphones, here are five top tech picks that combine style, usefulness and great value
+  🔗 https://www.livemint.com/technology/gadgets/valentines-day-gifting-guide-top-5-tech-picks-you-can-buy-right-now-11770480727394.html
+
+- OpenAI reportedly planning AI earbuds ahead of more advanced device
+  A new leak suggests OpenAI’s first consumer hardware could be AI-powered earbuds, codenamed Dime. A simpler version may launch
+  🔗 https://www.livemint.com/technology/tech-news/openai-reportedly-planning-ai-earbuds-ahead-of-more-advanced-device-11770469908801.html
 
 - Apple iPhone 17 now at  ₹47,742 in Croma’s Valentine’s Day sale? Here’s how the deal works
   Croma's Valentine's Day sale brings electronics deals starting at  ₹699. The iPhone 17 is available at an effective price below  ⁹50,000 through combined offers
@@ -87,18 +99,6 @@
 - Andhra to set up AI Living Labs Foundation; HQ in Amaravati
   Andhra to set up AI
   🔗 https://www.livemint.com/technology/andhra-to-set-up-ai-living-labs-foundation-hq-in-amaravati-11770460170188.html
-
-- 2-nanometre Qualcomm chip unveiled; Ashwini Vaishnaw sets Semicon 2.0 roadmap
-  Union Minister for Electronics and IT Ashwini Vaishnaw unveiled high-tech 2-nanometer chip manufactured by Qualcomm. Vaish
-  🔗 https://www.livemint.com/technology/2nanometre-qualcomm-chip-unveiled-ashwini-vaishnaw-sets-semicon-2-0-roadmap-11770455632592.html
-
-- No AI used: Rockstar says GTA 6 will be ‘handcrafted’, built ‘street by street’
-  Rockstar Games has confirmed that generative AI will not be used in GTA VI. Take Two interactive CEO confirmed the development in a recent interview.
-  🔗 https://www.livemint.com/technology/tech-news/no-ai-used-rockstar-says-gta-6-will-be-handcrafted-built-street-by-street-11770425238289.html
-
-- Big Techs quarter in four charts: AI splurge and cloud growth
-  Big Tech's quarter in four
-  🔗 https://www.livemint.com/technology/big-techs-quarter-in-four-charts-ai-splurge-and-cloud-growth-11770397718159.html
 
 - Godawari Power & Ispat board approves additional investment in Godawari New Energy
   
@@ -144,81 +144,81 @@
   <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUW
   🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUWFDUzVYS3JIOFA3UXphNUdxbExEZkFpbFAxb2w4WWxTWjB0OUFsX2VPWXFJVTVHakM0dmhCMWdjSFR4UmZTaERDR080ZXJyYUhjX01BcURYX0xLNzI1aGVOaklkY3pKOWI5ZVNQcXlPQ3ItREp4azdaZDhvZUcwUEtDWFB1djRNMk5Rbkhlal92S0UySXpCc1VLZGhTTEdGUUHSAYoCQVVfeXFMTjl5c2N0bURFTWtQcTcwejhlWl82a3pDRTVPZ1l4U29fSDVPQzBjaHktS1VtOElKNm11NFItWThrZk5URHJxbUpuWW1KUDZFakI5bE45akpfaXhUS0ZIV21vVjk4TDVXMUtPeG5VdUVXaTkzZzNIOVVxbjhjLWxUQzh0OEZhSFg5LVpTTEY1THl3dDFWRVBSSjRpdkhDMlY1V2VWLS05bXdyVFRiSlBJc3dUMHNPTmNpakhtZXhtSmczUVN1UUZUeDhjN2dwUTYtNjVMSGNHekY1Tkc2bWJ6WDJCNy1EQXlkZG9tZHp0cm8wS0Zwc2Q1bnRuaWZCYXphQ2VvWDlUZDd5Snc?oc=5
 
-- ‘A leader called me when I turned 75’: PM Modi explains his outlook on age, months after ‘retirement’ talk | India News - Hindustan Times
-  ‘A leader called me when I turned 75’: PM Modi explains his outlook on age.
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPTVcyQ3dNZDB6NEpiVWhFbjN4cUpyUEVJODNLZU5MX1o4UW1OaUM2eUNqZXhRTFRCRmRtczkzQkdlUkZpQTZaMVBTcHZUT2FTTi1CX0trU3pKY3ZyekR3aExaaS16MVNoTUdVQXU5SVczaERVVDA5cnBNQ0pRMEU1ZERPVWw0aDhrWlBfbTlCUGo3S2xhZlNWOGlMMGQyMWdxZVF4TGYtQ1h1blBRSjRpalBiQ1JZMVZDa0Nib3ZzOERjcWZ3aG83VjRBMGI5SUJoVHhOdGdoOUhyRWw4dkJ1cHl3MU5YWmhoZ2tMYTlLWlhnTGZaOXNOUWFMLUlIaEl2cjgw0gGIAkFVX3lxTE5IVkdxb2pCVGVvMThuMXVPQjEzOXlFTWdiQnJSdk5sSjE5ZEdDcktVV0Z1bFBDdGc3OHlPbVo3RWhxNVVMbHhHS0FTQllGMEdJd3IwTDRBaS1OcVh6Y3NVUVhIbExzNXlwT0YwVktMLWIwdHVDck4ydkJrblBZLW4weFI5QmNVcUYzdEU2U3BUUzhpeWtOX2lDTEFaYmt5Yy1yR2ZEbHg0dmtydFRpZ3Rxb1F4UGx0cDJyTmNpTDczcHVCa1dBTDhwU0tsbmx4MGJ0dkNVRTNyU1FUMExRd3ZnR19hSEIxY05INFViSHdEVWFVcWhxcE9uYXpLbHlXa0tpLXp2MWs0Wg?oc=5
+- Three-storeyed building collapses in Rajasthan's Kota; several feared trapped - Times of India
+  Three-storey building collapses in Rajas
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT08wUllyUnVIakNpNi1NbWlHZnQ0ZG9BYXltcHVFc083RXRtdFhONFpTM0M3MFNOWjlPYmpnbzVvVk4wV2I1Q1B4R3doZVhqNXlFNnVmLVlpVE1sRTFtS21mRnJpWDczRkhQZFZyRnU2SmpjY1M3NElQS00xbHo1blY0SzExMTdEYjNuT21ZU1c5eTd1eG1SdE4yYkE2enliSHY5a3QxbndKbTZXZW96SmdQTVh4U0xuMFgyT2FIVl9OU2dXRW9jTk5FZ2N0Yk0tS0lFTzZNbEloQm_SAeABQVVfeXFMTllvXzJna3BwaldXQ0xSYkN4S1VOU05ybjVmSFotRWVaSUNVY3JUcHNEQTNoODYzNDBWOHpUM1U0b3c3Tmh6OFY1S0E3Y2tKckZYdWJlR2JPMW1pbml1ZUJxR3JkTFdydkZLNVYtX3c0RGNZY2JpaG5TZ1g1WG5HX0FZTG1ORG1vVUxXb0ZycVZxZElSMEZvS2VWbWVyeTZLdTdjWnh1VU9UQXU0cHc4Q2F1c0dSR1o1QTk4SHZfbUxwTEJxMXdFQW1IeGpPZ2psY0JHSXpxWF9SZDVldlBrNXY?oc=5
 
-- As PM Modi Begins 2-Day Visit, A Look At India-Malaysia Diplomatic Ties - NDTV
-  PM Modi begins two-day visit to Malaysia.
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRkhoX1NZeXJ2ZkxEYWxoanlHc1JVZFB6NU9yeVRjMzVVZzc1LU5aRW9XSG4tSDJQbDFBWW1naHRxaWNHbkJUVXlrcmxnd1Jya0dqaVRoNl9CUkZtT2dUMlNjQ0UzTEhCMkFWbk9pVEVPMFJPazh4RWR4bXRPRXp0N25leFQwLUMtX2R4UThBMkllWkZPdVlqb2ZCLVNOYWRSamFMRlFwM1pLNXg3ZmtPNVMzaURwc1BKbkdxVXplVkpmcWJVUFVseTNBMlF5dVFSeXVGd3pzb1dpN1HSAeMBQVVfeXFMT3pzNmFaaVVwX3Qtc3dfRXNRZG1Xc0FiLTJCTFF1ZmxWZ0N0eUNPeVg3aG96REhvUlhMb3NFVW9SU0FVR2hzOEZsd0QtUmhBc0VLTTktUkdUd1VwWmdjQm94R1EtSFFFUUtxYkQxRE96RFN6b3VPX2xqZ2wzODgyLWJIZUpzVnFrTGlGRFVEaERBaFNDM2FXUWJrZTA1V0R2U1JBOWl3S0ExSzFDZzlNTnFEZEpwbzNBaXpjV0VzSVJNeERqY2l5dnpDNV8zTlp5QUk1T19neVZ3Zm8ySFJHLTFyMDA?oc=5
+- 4 Indian Students Injured After Knife Attack In Russian College: Embassy - NDTV
+  4 Indian Students Injured After Knife Attack In
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNeFlfU3hJNk5xb0JxMkFMbzZ3bWdpVkJCbmFWdk9vVHY1XzcyRlFSVFl2NDdNYmNJLUIxanNQTGZhWGpuUzVtSG14VXpITkpTOGFCS3c0M29MWVAxcmhCeEZlY3FjeDFubVZjdnlHRVktVXhaSXdFbFU4eVBJdTlyNnlGYVVvZjBCSExJNjZnb21XbXJ0V0RFZm95VWRMRzlpdUpGWUlsSWQ5NEl5U2hwaVNyQjhqQTDSAb8BQVVfeXFMUG1ZSEt5NlVqa0pXWTZLWjJXZm5MbWZQeHR1aEZYaTMtcDJ4M1BJTzFFRVBuN2hpRGhWb1NPV1ZGUU9VQVdtXzZaNkRqUTdVaU9sbUpMSnlMbXByUklsdDNpTkRWdU10eUk3cFRTaFUza1dHMkZPODBMMWNfdDQ0VzVQZDQ1TGk3T3ptci1VZmdDUXBNaGxfTHh4WFJDZnVMR19uM09TekVzSVB4c1pPMjNpS2RxWFZZMzNCb2ZGamc?oc=5
 
-- PM Modi To Begin Two-Day Malaysia Visit Today - NDTV
-  PM Modi To Begin Two-
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNMlJuWDZXdlJaNnNVaGktSTFLa2NQN0VSRG1TcHJtekhudlFpWEg2dEhJN3ZGYnRqX1dpTm9zYmRIOHVPdFo1dVlCdXVoYmZDYUZ4LUw0NGZzS3dDVEtwQmR4dHFiMXptZ0p2bE5XU1VTSmI1cTJmcjdaejhXVGpKSTdZOXlraWlXd1YxX2tmY9IBlwFBVV95cUxQRFUzODVxZVU1SWZmVHp0TU9XM0Q0aXRoNWtCNlN0VEF1b0ZzQTNYdXhBTWxNLS1MdDRfZ0kxQ21UZlphYS05MnRwVnpnalFuRnRpWlAtNDIwZVhNS0YzTWwwRXFicVRTTUNMcGJtVlBjY2lNeHhKUW96QmFsMl9ua0lod2NEOUdnSmNicGQ4T3k0aXQ3aXZF?oc=5
+- Amit Shah Lands In Raipur For Final Push Against Maoists By March 31 - NDTV
+  Amit Shah Lands In Raipur For Final Push
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPblMwMExYT3JWTnF4VE44d0gxNUpfZkJ2M0dkUnYxY1FXY1JUMUdwb0FNQk5talNBS2NqMU5xd0NnQ1dhbndoVVFNZlNYVTVRZzVUanJxR0RlbFlUT0ZtQ0Zmek9jUGNWbTMzZk11d0NHYXlTTkZSNWJOYjVrend6RWEtTzliRFFreThURC0tZFdrbkhldFQ2T2ExTjBPVTFENWUtUXJMYWMwZmFjM0HSAbYBQVVfeXFMT0xoWXNpa2RFOG5JM3Bqc3hGdXhTc1VDX1FFVTFLbklkUVItWDl1YUxCTFNHTXVxSm9tUm4wcHNsUFpyVC1iV3A4NTRfVWhXT2JUYm9UWmF2S2NXcG1qVVlYVFBPSGEtZUpWbER2VGl1Skl5YUZMMnJLYUpaUlAzbDFSNlNzSExpN3dYMHRLNUhCMHlueW9YbGk1S3lpSk5IS0hEY2NDcUZMei1XclVSUWU2azVIR1E?oc=5
 
-- "We Have Not Treated FIIs Well": Top Market Advisor At Profit Conclave - NDTV
-  "We Have Not Treated FIIs Well":
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYXJKME1kXzRNa1BmUkNmMzRlU0tZSkpMSURsbVJxR2dwdVUyNWlaTUxDUl9SMkFvVF9XQ0FyZWZ1Uzc0cHJyV3dIcG5IMG1mazNFaEViX2dITjhGcEppcUNka2lPRWFpWlZFTnI2WXR3NDMyUmc4LXc0elMzM19yT29DN3VxQ0FPX01jSlNMbElGRVNJSVU1aDZxRC1IR0VZcUwyYUh2ZTl1ZDBoV2g5dTFiUktRRVgzUi1SSEtaMWLSAcgBQVVfeXFMTnM3ajhkdTJIRXJIc0Y5STg4LU10Ujg4UXpnc2RQX3RpOTI4RVNwdDhvVGRIeU9tNVk0VHdWbWR2WWJydkhVLUhTYWNqRVNRMkFvWGg2ZnB3VUYzVklsdFJPcW9iSkRxbWR1MkhJaVpvenktbXc5d2J5aTN2RGRBeVY1Q09NdGdaUTVMeDhxT2hXbDAzUFR6TUJCWUpSSndjVkd5TkJET0tlb0pYMlh3N29DYnpYU2hab09sajFidUwxZ2dHNGtDY2Q?oc=5
-
-- Tariffs Cut To 18%, $500 Billion Trade Aim: India-US Framework In 10 Points - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUW
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUWFDUzVYS3JIOFA3UXphNUdxbExEZkFpbFAxb2w4WWxTWjB0OUFsX2VPWXFJVTVHakM0dmhCMWdjSFR4UmZTaERDR080ZXJyYUhjX01BcURYX0xLNzI1aGVOaklkY3pKOWI5ZVNQcXlPQ3ItREp4azdaZDhvZUcwUEtDWFB1djRNMk5Rbkhlal92S0UySXpCc1VLZGhTTEdGUUHSAYoCQVVfeXFMTjl5c2N0bURFTWtQcTcwejhlWl82a3pDRTVPZ1l4U29fSDVPQzBjaHktS1VtOElKNm11NFItWThrZk5URHJxbUpuWW1KUDZFakI5bE45akpfaXhUS0ZIV21vVjk4TDVXMUtPeG5VdUVXaTkzZzNIOVVxbjhjLWxUQzh0OEZhSFg5LVpTTEY1THl3dDFWRVBSSjRpdkhDMlY1V2VWLS05bXdyVFRiSlBJc3dUMHNPTmNpakhtZXhtSmczUVN1UUZUeDhjN2dwUTYtNjVMSGNHekY1Tkc2bWJ6WDJCNy1EQXlkZG9tZHp0cm8wS0Zwc2Q1bnRuaWZCYXphQ2VvWDlUZDd5Snc?oc=5
-
-- ‘A leader called me when I turned 75’: PM Modi explains his outlook on age, months after ‘retirement’ talk | India News - Hindustan Times
-  ‘A leader called me when I turned 75’: PM Modi explains his outlook on age.
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPTVcyQ3dNZDB6NEpiVWhFbjN4cUpyUEVJODNLZU5MX1o4UW1OaUM2eUNqZXhRTFRCRmRtczkzQkdlUkZpQTZaMVBTcHZUT2FTTi1CX0trU3pKY3ZyekR3aExaaS16MVNoTUdVQXU5SVczaERVVDA5cnBNQ0pRMEU1ZERPVWw0aDhrWlBfbTlCUGo3S2xhZlNWOGlMMGQyMWdxZVF4TGYtQ1h1blBRSjRpalBiQ1JZMVZDa0Nib3ZzOERjcWZ3aG83VjRBMGI5SUJoVHhOdGdoOUhyRWw4dkJ1cHl3MU5YWmhoZ2tMYTlLWlhnTGZaOXNOUWFMLUlIaEl2cjgw0gGIAkFVX3lxTE5IVkdxb2pCVGVvMThuMXVPQjEzOXlFTWdiQnJSdk5sSjE5ZEdDcktVV0Z1bFBDdGc3OHlPbVo3RWhxNVVMbHhHS0FTQllGMEdJd3IwTDRBaS1OcVh6Y3NVUVhIbExzNXlwT0YwVktMLWIwdHVDck4ydkJrblBZLW4weFI5QmNVcUYzdEU2U3BUUzhpeWtOX2lDTEFaYmt5Yy1yR2ZEbHg0dmtydFRpZ3Rxb1F4UGx0cDJyTmNpTDczcHVCa1dBTDhwU0tsbmx4MGJ0dkNVRTNyU1FUMExRd3ZnR19hSEIxY05INFViSHdEVWFVcWhxcE9uYXpLbHlXa0tpLXp2MWs0Wg?oc=5
-
-- As PM Modi Begins 2-Day Visit, A Look At India-Malaysia Diplomatic Ties - NDTV
-  PM Modi begins two-day visit to Malaysia.
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRkhoX1NZeXJ2ZkxEYWxoanlHc1JVZFB6NU9yeVRjMzVVZzc1LU5aRW9XSG4tSDJQbDFBWW1naHRxaWNHbkJUVXlrcmxnd1Jya0dqaVRoNl9CUkZtT2dUMlNjQ0UzTEhCMkFWbk9pVEVPMFJPazh4RWR4bXRPRXp0N25leFQwLUMtX2R4UThBMkllWkZPdVlqb2ZCLVNOYWRSamFMRlFwM1pLNXg3ZmtPNVMzaURwc1BKbkdxVXplVkpmcWJVUFVseTNBMlF5dVFSeXVGd3pzb1dpN1HSAeMBQVVfeXFMT3pzNmFaaVVwX3Qtc3dfRXNRZG1Xc0FiLTJCTFF1ZmxWZ0N0eUNPeVg3aG96REhvUlhMb3NFVW9SU0FVR2hzOEZsd0QtUmhBc0VLTTktUkdUd1VwWmdjQm94R1EtSFFFUUtxYkQxRE96RFN6b3VPX2xqZ2wzODgyLWJIZUpzVnFrTGlGRFVEaERBaFNDM2FXUWJrZTA1V0R2U1JBOWl3S0ExSzFDZzlNTnFEZEpwbzNBaXpjV0VzSVJNeERqY2l5dnpDNV8zTlp5QUk1T19neVZ3Zm8ySFJHLTFyMDA?oc=5
-
-- PM Modi To Begin Two-Day Malaysia Visit Today - NDTV
-  PM Modi To Begin Two-
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNMlJuWDZXdlJaNnNVaGktSTFLa2NQN0VSRG1TcHJtekhudlFpWEg2dEhJN3ZGYnRqX1dpTm9zYmRIOHVPdFo1dVlCdXVoYmZDYUZ4LUw0NGZzS3dDVEtwQmR4dHFiMXptZ0p2bE5XU1VTSmI1cTJmcjdaejhXVGpKSTdZOXlraWlXd1YxX2tmY9IBlwFBVV95cUxQRFUzODVxZVU1SWZmVHp0TU9XM0Q0aXRoNWtCNlN0VEF1b0ZzQTNYdXhBTWxNLS1MdDRfZ0kxQ21UZlphYS05MnRwVnpnalFuRnRpWlAtNDIwZVhNS0YzTWwwRXFicVRTTUNMcGJtVlBjY2lNeHhKUW96QmFsMl9ua0lod2NEOUdnSmNicGQ4T3k0aXQ3aXZF?oc=5
-
-- "We Have Not Treated FIIs Well": Top Market Advisor At Profit Conclave - NDTV
-  "We Have Not Treated FIIs Well":
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYXJKME1kXzRNa1BmUkNmMzRlU0tZSkpMSURsbVJxR2dwdVUyNWlaTUxDUl9SMkFvVF9XQ0FyZWZ1Uzc0cHJyV3dIcG5IMG1mazNFaEViX2dITjhGcEppcUNka2lPRWFpWlZFTnI2WXR3NDMyUmc4LXc0elMzM19yT29DN3VxQ0FPX01jSlNMbElGRVNJSVU1aDZxRC1IR0VZcUwyYUh2ZTl1ZDBoV2g5dTFiUktRRVgzUi1SSEtaMWLSAcgBQVVfeXFMTnM3ajhkdTJIRXJIc0Y5STg4LU10Ujg4UXpnc2RQX3RpOTI4RVNwdDhvVGRIeU9tNVk0VHdWbWR2WWJydkhVLUhTYWNqRVNRMkFvWGg2ZnB3VUYzVklsdFJPcW9iSkRxbWR1MkhJaVpvenktbXc5d2J5aTN2RGRBeVY1Q09NdGdaUTVMeDhxT2hXbDAzUFR6TUJCWUpSSndjVkd5TkJET0tlb0pYMlh3N29DYnpYU2hab09sajFidUwxZ2dHNGtDY2Q?oc=5
+- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
+  India coal mine blast leaves 18 dead, others
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
 
 - Tariffs Cut To 18%, $500 Billion Trade Aim: India-US Framework In 10 Points - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUW
   🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUWFDUzVYS3JIOFA3UXphNUdxbExEZkFpbFAxb2w4WWxTWjB0OUFsX2VPWXFJVTVHakM0dmhCMWdjSFR4UmZTaERDR080ZXJyYUhjX01BcURYX0xLNzI1aGVOaklkY3pKOWI5ZVNQcXlPQ3ItREp4azdaZDhvZUcwUEtDWFB1djRNMk5Rbkhlal92S0UySXpCc1VLZGhTTEdGUUHSAYoCQVVfeXFMTjl5c2N0bURFTWtQcTcwejhlWl82a3pDRTVPZ1l4U29fSDVPQzBjaHktS1VtOElKNm11NFItWThrZk5URHJxbUpuWW1KUDZFakI5bE45akpfaXhUS0ZIV21vVjk4TDVXMUtPeG5VdUVXaTkzZzNIOVVxbjhjLWxUQzh0OEZhSFg5LVpTTEY1THl3dDFWRVBSSjRpdkhDMlY1V2VWLS05bXdyVFRiSlBJc3dUMHNPTmNpakhtZXhtSmczUVN1UUZUeDhjN2dwUTYtNjVMSGNHekY1Tkc2bWJ6WDJCNy1EQXlkZG9tZHp0cm8wS0Zwc2Q1bnRuaWZCYXphQ2VvWDlUZDd5Snc?oc=5
 
-- ‘A leader called me when I turned 75’: PM Modi explains his outlook on age, months after ‘retirement’ talk | India News - Hindustan Times
-  ‘A leader called me when I turned 75’: PM Modi explains his outlook on age.
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPTVcyQ3dNZDB6NEpiVWhFbjN4cUpyUEVJODNLZU5MX1o4UW1OaUM2eUNqZXhRTFRCRmRtczkzQkdlUkZpQTZaMVBTcHZUT2FTTi1CX0trU3pKY3ZyekR3aExaaS16MVNoTUdVQXU5SVczaERVVDA5cnBNQ0pRMEU1ZERPVWw0aDhrWlBfbTlCUGo3S2xhZlNWOGlMMGQyMWdxZVF4TGYtQ1h1blBRSjRpalBiQ1JZMVZDa0Nib3ZzOERjcWZ3aG83VjRBMGI5SUJoVHhOdGdoOUhyRWw4dkJ1cHl3MU5YWmhoZ2tMYTlLWlhnTGZaOXNOUWFMLUlIaEl2cjgw0gGIAkFVX3lxTE5IVkdxb2pCVGVvMThuMXVPQjEzOXlFTWdiQnJSdk5sSjE5ZEdDcktVV0Z1bFBDdGc3OHlPbVo3RWhxNVVMbHhHS0FTQllGMEdJd3IwTDRBaS1OcVh6Y3NVUVhIbExzNXlwT0YwVktMLWIwdHVDck4ydkJrblBZLW4weFI5QmNVcUYzdEU2U3BUUzhpeWtOX2lDTEFaYmt5Yy1yR2ZEbHg0dmtydFRpZ3Rxb1F4UGx0cDJyTmNpTDczcHVCa1dBTDhwU0tsbmx4MGJ0dkNVRTNyU1FUMExRd3ZnR19hSEIxY05INFViSHdEVWFVcWhxcE9uYXpLbHlXa0tpLXp2MWs0Wg?oc=5
+- Three-storeyed building collapses in Rajasthan's Kota; several feared trapped - Times of India
+  Three-storey building collapses in Rajas
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT08wUllyUnVIakNpNi1NbWlHZnQ0ZG9BYXltcHVFc083RXRtdFhONFpTM0M3MFNOWjlPYmpnbzVvVk4wV2I1Q1B4R3doZVhqNXlFNnVmLVlpVE1sRTFtS21mRnJpWDczRkhQZFZyRnU2SmpjY1M3NElQS00xbHo1blY0SzExMTdEYjNuT21ZU1c5eTd1eG1SdE4yYkE2enliSHY5a3QxbndKbTZXZW96SmdQTVh4U0xuMFgyT2FIVl9OU2dXRW9jTk5FZ2N0Yk0tS0lFTzZNbEloQm_SAeABQVVfeXFMTllvXzJna3BwaldXQ0xSYkN4S1VOU05ybjVmSFotRWVaSUNVY3JUcHNEQTNoODYzNDBWOHpUM1U0b3c3Tmh6OFY1S0E3Y2tKckZYdWJlR2JPMW1pbml1ZUJxR3JkTFdydkZLNVYtX3c0RGNZY2JpaG5TZ1g1WG5HX0FZTG1ORG1vVUxXb0ZycVZxZElSMEZvS2VWbWVyeTZLdTdjWnh1VU9UQXU0cHc4Q2F1c0dSR1o1QTk4SHZfbUxwTEJxMXdFQW1IeGpPZ2psY0JHSXpxWF9SZDVldlBrNXY?oc=5
 
-- As PM Modi Begins 2-Day Visit, A Look At India-Malaysia Diplomatic Ties - NDTV
-  PM Modi begins two-day visit to Malaysia.
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRkhoX1NZeXJ2ZkxEYWxoanlHc1JVZFB6NU9yeVRjMzVVZzc1LU5aRW9XSG4tSDJQbDFBWW1naHRxaWNHbkJUVXlrcmxnd1Jya0dqaVRoNl9CUkZtT2dUMlNjQ0UzTEhCMkFWbk9pVEVPMFJPazh4RWR4bXRPRXp0N25leFQwLUMtX2R4UThBMkllWkZPdVlqb2ZCLVNOYWRSamFMRlFwM1pLNXg3ZmtPNVMzaURwc1BKbkdxVXplVkpmcWJVUFVseTNBMlF5dVFSeXVGd3pzb1dpN1HSAeMBQVVfeXFMT3pzNmFaaVVwX3Qtc3dfRXNRZG1Xc0FiLTJCTFF1ZmxWZ0N0eUNPeVg3aG96REhvUlhMb3NFVW9SU0FVR2hzOEZsd0QtUmhBc0VLTTktUkdUd1VwWmdjQm94R1EtSFFFUUtxYkQxRE96RFN6b3VPX2xqZ2wzODgyLWJIZUpzVnFrTGlGRFVEaERBaFNDM2FXUWJrZTA1V0R2U1JBOWl3S0ExSzFDZzlNTnFEZEpwbzNBaXpjV0VzSVJNeERqY2l5dnpDNV8zTlp5QUk1T19neVZ3Zm8ySFJHLTFyMDA?oc=5
+- 4 Indian Students Injured After Knife Attack In Russian College: Embassy - NDTV
+  4 Indian Students Injured After Knife Attack In
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNeFlfU3hJNk5xb0JxMkFMbzZ3bWdpVkJCbmFWdk9vVHY1XzcyRlFSVFl2NDdNYmNJLUIxanNQTGZhWGpuUzVtSG14VXpITkpTOGFCS3c0M29MWVAxcmhCeEZlY3FjeDFubVZjdnlHRVktVXhaSXdFbFU4eVBJdTlyNnlGYVVvZjBCSExJNjZnb21XbXJ0V0RFZm95VWRMRzlpdUpGWUlsSWQ5NEl5U2hwaVNyQjhqQTDSAb8BQVVfeXFMUG1ZSEt5NlVqa0pXWTZLWjJXZm5MbWZQeHR1aEZYaTMtcDJ4M1BJTzFFRVBuN2hpRGhWb1NPV1ZGUU9VQVdtXzZaNkRqUTdVaU9sbUpMSnlMbXByUklsdDNpTkRWdU10eUk3cFRTaFUza1dHMkZPODBMMWNfdDQ0VzVQZDQ1TGk3T3ptci1VZmdDUXBNaGxfTHh4WFJDZnVMR19uM09TekVzSVB4c1pPMjNpS2RxWFZZMzNCb2ZGamc?oc=5
 
-- PM Modi To Begin Two-Day Malaysia Visit Today - NDTV
-  PM Modi To Begin Two-
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNMlJuWDZXdlJaNnNVaGktSTFLa2NQN0VSRG1TcHJtekhudlFpWEg2dEhJN3ZGYnRqX1dpTm9zYmRIOHVPdFo1dVlCdXVoYmZDYUZ4LUw0NGZzS3dDVEtwQmR4dHFiMXptZ0p2bE5XU1VTSmI1cTJmcjdaejhXVGpKSTdZOXlraWlXd1YxX2tmY9IBlwFBVV95cUxQRFUzODVxZVU1SWZmVHp0TU9XM0Q0aXRoNWtCNlN0VEF1b0ZzQTNYdXhBTWxNLS1MdDRfZ0kxQ21UZlphYS05MnRwVnpnalFuRnRpWlAtNDIwZVhNS0YzTWwwRXFicVRTTUNMcGJtVlBjY2lNeHhKUW96QmFsMl9ua0lod2NEOUdnSmNicGQ4T3k0aXQ3aXZF?oc=5
+- Amit Shah Lands In Raipur For Final Push Against Maoists By March 31 - NDTV
+  Amit Shah Lands In Raipur For Final Push
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPblMwMExYT3JWTnF4VE44d0gxNUpfZkJ2M0dkUnYxY1FXY1JUMUdwb0FNQk5talNBS2NqMU5xd0NnQ1dhbndoVVFNZlNYVTVRZzVUanJxR0RlbFlUT0ZtQ0Zmek9jUGNWbTMzZk11d0NHYXlTTkZSNWJOYjVrend6RWEtTzliRFFreThURC0tZFdrbkhldFQ2T2ExTjBPVTFENWUtUXJMYWMwZmFjM0HSAbYBQVVfeXFMT0xoWXNpa2RFOG5JM3Bqc3hGdXhTc1VDX1FFVTFLbklkUVItWDl1YUxCTFNHTXVxSm9tUm4wcHNsUFpyVC1iV3A4NTRfVWhXT2JUYm9UWmF2S2NXcG1qVVlYVFBPSGEtZUpWbER2VGl1Skl5YUZMMnJLYUpaUlAzbDFSNlNzSExpN3dYMHRLNUhCMHlueW9YbGk1S3lpSk5IS0hEY2NDcUZMei1XclVSUWU2azVIR1E?oc=5
 
-- "We Have Not Treated FIIs Well": Top Market Advisor At Profit Conclave - NDTV
-  "We Have Not Treated FIIs Well":
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYXJKME1kXzRNa1BmUkNmMzRlU0tZSkpMSURsbVJxR2dwdVUyNWlaTUxDUl9SMkFvVF9XQ0FyZWZ1Uzc0cHJyV3dIcG5IMG1mazNFaEViX2dITjhGcEppcUNka2lPRWFpWlZFTnI2WXR3NDMyUmc4LXc0elMzM19yT29DN3VxQ0FPX01jSlNMbElGRVNJSVU1aDZxRC1IR0VZcUwyYUh2ZTl1ZDBoV2g5dTFiUktRRVgzUi1SSEtaMWLSAcgBQVVfeXFMTnM3ajhkdTJIRXJIc0Y5STg4LU10Ujg4UXpnc2RQX3RpOTI4RVNwdDhvVGRIeU9tNVk0VHdWbWR2WWJydkhVLUhTYWNqRVNRMkFvWGg2ZnB3VUYzVklsdFJPcW9iSkRxbWR1MkhJaVpvenktbXc5d2J5aTN2RGRBeVY1Q09NdGdaUTVMeDhxT2hXbDAzUFR6TUJCWUpSSndjVkd5TkJET0tlb0pYMlh3N29DYnpYU2hab09sajFidUwxZ2dHNGtDY2Q?oc=5
+- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
+  India coal mine blast leaves 18 dead, others
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
 
 - Tariffs Cut To 18%, $500 Billion Trade Aim: India-US Framework In 10 Points - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUW
   🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUWFDUzVYS3JIOFA3UXphNUdxbExEZkFpbFAxb2w4WWxTWjB0OUFsX2VPWXFJVTVHakM0dmhCMWdjSFR4UmZTaERDR080ZXJyYUhjX01BcURYX0xLNzI1aGVOaklkY3pKOWI5ZVNQcXlPQ3ItREp4azdaZDhvZUcwUEtDWFB1djRNMk5Rbkhlal92S0UySXpCc1VLZGhTTEdGUUHSAYoCQVVfeXFMTjl5c2N0bURFTWtQcTcwejhlWl82a3pDRTVPZ1l4U29fSDVPQzBjaHktS1VtOElKNm11NFItWThrZk5URHJxbUpuWW1KUDZFakI5bE45akpfaXhUS0ZIV21vVjk4TDVXMUtPeG5VdUVXaTkzZzNIOVVxbjhjLWxUQzh0OEZhSFg5LVpTTEY1THl3dDFWRVBSSjRpdkhDMlY1V2VWLS05bXdyVFRiSlBJc3dUMHNPTmNpakhtZXhtSmczUVN1UUZUeDhjN2dwUTYtNjVMSGNHekY1Tkc2bWJ6WDJCNy1EQXlkZG9tZHp0cm8wS0Zwc2Q1bnRuaWZCYXphQ2VvWDlUZDd5Snc?oc=5
 
-- ‘A leader called me when I turned 75’: PM Modi explains his outlook on age, months after ‘retirement’ talk | India News - Hindustan Times
-  ‘A leader called me when I turned 75’: PM Modi explains his outlook on age.
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPTVcyQ3dNZDB6NEpiVWhFbjN4cUpyUEVJODNLZU5MX1o4UW1OaUM2eUNqZXhRTFRCRmRtczkzQkdlUkZpQTZaMVBTcHZUT2FTTi1CX0trU3pKY3ZyekR3aExaaS16MVNoTUdVQXU5SVczaERVVDA5cnBNQ0pRMEU1ZERPVWw0aDhrWlBfbTlCUGo3S2xhZlNWOGlMMGQyMWdxZVF4TGYtQ1h1blBRSjRpalBiQ1JZMVZDa0Nib3ZzOERjcWZ3aG83VjRBMGI5SUJoVHhOdGdoOUhyRWw4dkJ1cHl3MU5YWmhoZ2tMYTlLWlhnTGZaOXNOUWFMLUlIaEl2cjgw0gGIAkFVX3lxTE5IVkdxb2pCVGVvMThuMXVPQjEzOXlFTWdiQnJSdk5sSjE5ZEdDcktVV0Z1bFBDdGc3OHlPbVo3RWhxNVVMbHhHS0FTQllGMEdJd3IwTDRBaS1OcVh6Y3NVUVhIbExzNXlwT0YwVktMLWIwdHVDck4ydkJrblBZLW4weFI5QmNVcUYzdEU2U3BUUzhpeWtOX2lDTEFaYmt5Yy1yR2ZEbHg0dmtydFRpZ3Rxb1F4UGx0cDJyTmNpTDczcHVCa1dBTDhwU0tsbmx4MGJ0dkNVRTNyU1FUMExRd3ZnR19hSEIxY05INFViSHdEVWFVcWhxcE9uYXpLbHlXa0tpLXp2MWs0Wg?oc=5
+- Three-storeyed building collapses in Rajasthan's Kota; several feared trapped - Times of India
+  Three-storey building collapses in Rajas
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT08wUllyUnVIakNpNi1NbWlHZnQ0ZG9BYXltcHVFc083RXRtdFhONFpTM0M3MFNOWjlPYmpnbzVvVk4wV2I1Q1B4R3doZVhqNXlFNnVmLVlpVE1sRTFtS21mRnJpWDczRkhQZFZyRnU2SmpjY1M3NElQS00xbHo1blY0SzExMTdEYjNuT21ZU1c5eTd1eG1SdE4yYkE2enliSHY5a3QxbndKbTZXZW96SmdQTVh4U0xuMFgyT2FIVl9OU2dXRW9jTk5FZ2N0Yk0tS0lFTzZNbEloQm_SAeABQVVfeXFMTllvXzJna3BwaldXQ0xSYkN4S1VOU05ybjVmSFotRWVaSUNVY3JUcHNEQTNoODYzNDBWOHpUM1U0b3c3Tmh6OFY1S0E3Y2tKckZYdWJlR2JPMW1pbml1ZUJxR3JkTFdydkZLNVYtX3c0RGNZY2JpaG5TZ1g1WG5HX0FZTG1ORG1vVUxXb0ZycVZxZElSMEZvS2VWbWVyeTZLdTdjWnh1VU9UQXU0cHc4Q2F1c0dSR1o1QTk4SHZfbUxwTEJxMXdFQW1IeGpPZ2psY0JHSXpxWF9SZDVldlBrNXY?oc=5
 
-- As PM Modi Begins 2-Day Visit, A Look At India-Malaysia Diplomatic Ties - NDTV
-  PM Modi begins two-day visit to Malaysia.
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRkhoX1NZeXJ2ZkxEYWxoanlHc1JVZFB6NU9yeVRjMzVVZzc1LU5aRW9XSG4tSDJQbDFBWW1naHRxaWNHbkJUVXlrcmxnd1Jya0dqaVRoNl9CUkZtT2dUMlNjQ0UzTEhCMkFWbk9pVEVPMFJPazh4RWR4bXRPRXp0N25leFQwLUMtX2R4UThBMkllWkZPdVlqb2ZCLVNOYWRSamFMRlFwM1pLNXg3ZmtPNVMzaURwc1BKbkdxVXplVkpmcWJVUFVseTNBMlF5dVFSeXVGd3pzb1dpN1HSAeMBQVVfeXFMT3pzNmFaaVVwX3Qtc3dfRXNRZG1Xc0FiLTJCTFF1ZmxWZ0N0eUNPeVg3aG96REhvUlhMb3NFVW9SU0FVR2hzOEZsd0QtUmhBc0VLTTktUkdUd1VwWmdjQm94R1EtSFFFUUtxYkQxRE96RFN6b3VPX2xqZ2wzODgyLWJIZUpzVnFrTGlGRFVEaERBaFNDM2FXUWJrZTA1V0R2U1JBOWl3S0ExSzFDZzlNTnFEZEpwbzNBaXpjV0VzSVJNeERqY2l5dnpDNV8zTlp5QUk1T19neVZ3Zm8ySFJHLTFyMDA?oc=5
+- 4 Indian Students Injured After Knife Attack In Russian College: Embassy - NDTV
+  4 Indian Students Injured After Knife Attack In
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNeFlfU3hJNk5xb0JxMkFMbzZ3bWdpVkJCbmFWdk9vVHY1XzcyRlFSVFl2NDdNYmNJLUIxanNQTGZhWGpuUzVtSG14VXpITkpTOGFCS3c0M29MWVAxcmhCeEZlY3FjeDFubVZjdnlHRVktVXhaSXdFbFU4eVBJdTlyNnlGYVVvZjBCSExJNjZnb21XbXJ0V0RFZm95VWRMRzlpdUpGWUlsSWQ5NEl5U2hwaVNyQjhqQTDSAb8BQVVfeXFMUG1ZSEt5NlVqa0pXWTZLWjJXZm5MbWZQeHR1aEZYaTMtcDJ4M1BJTzFFRVBuN2hpRGhWb1NPV1ZGUU9VQVdtXzZaNkRqUTdVaU9sbUpMSnlMbXByUklsdDNpTkRWdU10eUk3cFRTaFUza1dHMkZPODBMMWNfdDQ0VzVQZDQ1TGk3T3ptci1VZmdDUXBNaGxfTHh4WFJDZnVMR19uM09TekVzSVB4c1pPMjNpS2RxWFZZMzNCb2ZGamc?oc=5
 
-- PM Modi To Begin Two-Day Malaysia Visit Today - NDTV
-  PM Modi To Begin Two-
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNMlJuWDZXdlJaNnNVaGktSTFLa2NQN0VSRG1TcHJtekhudlFpWEg2dEhJN3ZGYnRqX1dpTm9zYmRIOHVPdFo1dVlCdXVoYmZDYUZ4LUw0NGZzS3dDVEtwQmR4dHFiMXptZ0p2bE5XU1VTSmI1cTJmcjdaejhXVGpKSTdZOXlraWlXd1YxX2tmY9IBlwFBVV95cUxQRFUzODVxZVU1SWZmVHp0TU9XM0Q0aXRoNWtCNlN0VEF1b0ZzQTNYdXhBTWxNLS1MdDRfZ0kxQ21UZlphYS05MnRwVnpnalFuRnRpWlAtNDIwZVhNS0YzTWwwRXFicVRTTUNMcGJtVlBjY2lNeHhKUW96QmFsMl9ua0lod2NEOUdnSmNicGQ4T3k0aXQ3aXZF?oc=5
+- Amit Shah Lands In Raipur For Final Push Against Maoists By March 31 - NDTV
+  Amit Shah Lands In Raipur For Final Push
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPblMwMExYT3JWTnF4VE44d0gxNUpfZkJ2M0dkUnYxY1FXY1JUMUdwb0FNQk5talNBS2NqMU5xd0NnQ1dhbndoVVFNZlNYVTVRZzVUanJxR0RlbFlUT0ZtQ0Zmek9jUGNWbTMzZk11d0NHYXlTTkZSNWJOYjVrend6RWEtTzliRFFreThURC0tZFdrbkhldFQ2T2ExTjBPVTFENWUtUXJMYWMwZmFjM0HSAbYBQVVfeXFMT0xoWXNpa2RFOG5JM3Bqc3hGdXhTc1VDX1FFVTFLbklkUVItWDl1YUxCTFNHTXVxSm9tUm4wcHNsUFpyVC1iV3A4NTRfVWhXT2JUYm9UWmF2S2NXcG1qVVlYVFBPSGEtZUpWbER2VGl1Skl5YUZMMnJLYUpaUlAzbDFSNlNzSExpN3dYMHRLNUhCMHlueW9YbGk1S3lpSk5IS0hEY2NDcUZMei1XclVSUWU2azVIR1E?oc=5
 
-- "We Have Not Treated FIIs Well": Top Market Advisor At Profit Conclave - NDTV
-  "We Have Not Treated FIIs Well":
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYXJKME1kXzRNa1BmUkNmMzRlU0tZSkpMSURsbVJxR2dwdVUyNWlaTUxDUl9SMkFvVF9XQ0FyZWZ1Uzc0cHJyV3dIcG5IMG1mazNFaEViX2dITjhGcEppcUNka2lPRWFpWlZFTnI2WXR3NDMyUmc4LXc0elMzM19yT29DN3VxQ0FPX01jSlNMbElGRVNJSVU1aDZxRC1IR0VZcUwyYUh2ZTl1ZDBoV2g5dTFiUktRRVgzUi1SSEtaMWLSAcgBQVVfeXFMTnM3ajhkdTJIRXJIc0Y5STg4LU10Ujg4UXpnc2RQX3RpOTI4RVNwdDhvVGRIeU9tNVk0VHdWbWR2WWJydkhVLUhTYWNqRVNRMkFvWGg2ZnB3VUYzVklsdFJPcW9iSkRxbWR1MkhJaVpvenktbXc5d2J5aTN2RGRBeVY1Q09NdGdaUTVMeDhxT2hXbDAzUFR6TUJCWUpSSndjVkd5TkJET0tlb0pYMlh3N29DYnpYU2hab09sajFidUwxZ2dHNGtDY2Q?oc=5
+- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
+  India coal mine blast leaves 18 dead, others
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
+
+- Tariffs Cut To 18%, $500 Billion Trade Aim: India-US Framework In 10 Points - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUW
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUWFDUzVYS3JIOFA3UXphNUdxbExEZkFpbFAxb2w4WWxTWjB0OUFsX2VPWXFJVTVHakM0dmhCMWdjSFR4UmZTaERDR080ZXJyYUhjX01BcURYX0xLNzI1aGVOaklkY3pKOWI5ZVNQcXlPQ3ItREp4azdaZDhvZUcwUEtDWFB1djRNMk5Rbkhlal92S0UySXpCc1VLZGhTTEdGUUHSAYoCQVVfeXFMTjl5c2N0bURFTWtQcTcwejhlWl82a3pDRTVPZ1l4U29fSDVPQzBjaHktS1VtOElKNm11NFItWThrZk5URHJxbUpuWW1KUDZFakI5bE45akpfaXhUS0ZIV21vVjk4TDVXMUtPeG5VdUVXaTkzZzNIOVVxbjhjLWxUQzh0OEZhSFg5LVpTTEY1THl3dDFWRVBSSjRpdkhDMlY1V2VWLS05bXdyVFRiSlBJc3dUMHNPTmNpakhtZXhtSmczUVN1UUZUeDhjN2dwUTYtNjVMSGNHekY1Tkc2bWJ6WDJCNy1EQXlkZG9tZHp0cm8wS0Zwc2Q1bnRuaWZCYXphQ2VvWDlUZDd5Snc?oc=5
+
+- Three-storeyed building collapses in Rajasthan's Kota; several feared trapped - Times of India
+  Three-storey building collapses in Rajas
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT08wUllyUnVIakNpNi1NbWlHZnQ0ZG9BYXltcHVFc083RXRtdFhONFpTM0M3MFNOWjlPYmpnbzVvVk4wV2I1Q1B4R3doZVhqNXlFNnVmLVlpVE1sRTFtS21mRnJpWDczRkhQZFZyRnU2SmpjY1M3NElQS00xbHo1blY0SzExMTdEYjNuT21ZU1c5eTd1eG1SdE4yYkE2enliSHY5a3QxbndKbTZXZW96SmdQTVh4U0xuMFgyT2FIVl9OU2dXRW9jTk5FZ2N0Yk0tS0lFTzZNbEloQm_SAeABQVVfeXFMTllvXzJna3BwaldXQ0xSYkN4S1VOU05ybjVmSFotRWVaSUNVY3JUcHNEQTNoODYzNDBWOHpUM1U0b3c3Tmh6OFY1S0E3Y2tKckZYdWJlR2JPMW1pbml1ZUJxR3JkTFdydkZLNVYtX3c0RGNZY2JpaG5TZ1g1WG5HX0FZTG1ORG1vVUxXb0ZycVZxZElSMEZvS2VWbWVyeTZLdTdjWnh1VU9UQXU0cHc4Q2F1c0dSR1o1QTk4SHZfbUxwTEJxMXdFQW1IeGpPZ2psY0JHSXpxWF9SZDVldlBrNXY?oc=5
+
+- 4 Indian Students Injured After Knife Attack In Russian College: Embassy - NDTV
+  4 Indian Students Injured After Knife Attack In
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNeFlfU3hJNk5xb0JxMkFMbzZ3bWdpVkJCbmFWdk9vVHY1XzcyRlFSVFl2NDdNYmNJLUIxanNQTGZhWGpuUzVtSG14VXpITkpTOGFCS3c0M29MWVAxcmhCeEZlY3FjeDFubVZjdnlHRVktVXhaSXdFbFU4eVBJdTlyNnlGYVVvZjBCSExJNjZnb21XbXJ0V0RFZm95VWRMRzlpdUpGWUlsSWQ5NEl5U2hwaVNyQjhqQTDSAb8BQVVfeXFMUG1ZSEt5NlVqa0pXWTZLWjJXZm5MbWZQeHR1aEZYaTMtcDJ4M1BJTzFFRVBuN2hpRGhWb1NPV1ZGUU9VQVdtXzZaNkRqUTdVaU9sbUpMSnlMbXByUklsdDNpTkRWdU10eUk3cFRTaFUza1dHMkZPODBMMWNfdDQ0VzVQZDQ1TGk3T3ptci1VZmdDUXBNaGxfTHh4WFJDZnVMR19uM09TekVzSVB4c1pPMjNpS2RxWFZZMzNCb2ZGamc?oc=5
+
+- Amit Shah Lands In Raipur For Final Push Against Maoists By March 31 - NDTV
+  Amit Shah Lands In Raipur For Final Push
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPblMwMExYT3JWTnF4VE44d0gxNUpfZkJ2M0dkUnYxY1FXY1JUMUdwb0FNQk5talNBS2NqMU5xd0NnQ1dhbndoVVFNZlNYVTVRZzVUanJxR0RlbFlUT0ZtQ0Zmek9jUGNWbTMzZk11d0NHYXlTTkZSNWJOYjVrend6RWEtTzliRFFreThURC0tZFdrbkhldFQ2T2ExTjBPVTFENWUtUXJMYWMwZmFjM0HSAbYBQVVfeXFMT0xoWXNpa2RFOG5JM3Bqc3hGdXhTc1VDX1FFVTFLbklkUVItWDl1YUxCTFNHTXVxSm9tUm4wcHNsUFpyVC1iV3A4NTRfVWhXT2JUYm9UWmF2S2NXcG1qVVlYVFBPSGEtZUpWbER2VGl1Skl5YUZMMnJLYUpaUlAzbDFSNlNzSExpN3dYMHRLNUhCMHlueW9YbGk1S3lpSk5IS0hEY2NDcUZMei1XclVSUWU2azVIR1E?oc=5
+
+- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
+  India coal mine blast leaves 18 dead, others
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-07 12:41:15 UTC_
+_Last updated: 2026-02-07 18:32:09 UTC_
