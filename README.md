@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Elephant attacks claim two more lives in Bokaro; toll reaches eight since January
+- No consent, no selfie: Goa police will detain anyone clicking photos of tourists without permission
   
-  🔗 https://indianexpress.com/article/india/jharkhand-bokaro-elephant-attack-two-dead-mining-corridor-impact-10519730/
+  🔗 https://indianexpress.com/article/india/no-consent-no-selfie-goa-police-will-detain-anyone-clicking-photos-of-tourists-without-permission-10519929/
 
-- LS Speaker, RS deputy chairman flag concerns on disruption in legislatures – ‘Adversely affect image of democratic institutions’
+- Two arrested for gang rape of spa worker in Kerala town
   
-  🔗 https://indianexpress.com/article/india/ls-speaker-rs-deputy-chairman-disruption-legislatures-image-democratic-institutions-10519705/
+  🔗 https://indianexpress.com/article/india/two-arrested-for-gang-rape-of-spa-worker-in-kerala-town-10519940/
 
-- Months after Pahalgam attack, Amit Shah advocates ‘aggressive marketing’ of J&K tourist places
+- March 2026 deadline around the corner, 51 Maoists surrender in Sukma, Bijapur
   
-  🔗 https://indianexpress.com/article/india/months-pahalgam-attack-amit-shah-aggressive-marketing-jk-tourist-places-10519595/
+  🔗 https://indianexpress.com/article/india/march-2026-deadline-around-the-corner-51-maoists-surrender-in-sukma-bijapur-10519933/
 
-- A second-time mom at Kuno: Aasha gives birth to 5 cubs
+- ‘Kerala always felt like home’: Britain-born Pepita Seth is now an Indian citizen
   
-  🔗 https://indianexpress.com/article/india/second-time-mom-kuno-aasha-birth-5-cubs-10519570/
+  🔗 https://indianexpress.com/article/india/kerala-always-felt-like-home-britain-born-pepita-seth-is-now-an-indian-citizen-10519935/
 
-- Meet India’s first Dalit Cardinal Poola Anthony, picked to lead Catholic church in country
+- Trust has become India’s strongest currency: PM Modi in Malaysia
   
-  🔗 https://indianexpress.com/article/india/cardinal-poola-anthony-elected-cbci-president-first-dalit-leader-catholic-church-india-10519510/
+  🔗 https://indianexpress.com/article/india/trust-has-become-indias-strongest-currency-pm-modi-in-malaysia-10519923/
 
 - Qualcomm’s 2nm breakthrough puts India at the centre of global chip design
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/social-whatsapp-status-update-close-friends-custom-lists-feature-explained-10519028/
 
+- American Air CEO Agrees to Meet Pilots Union After Criticism
+  The union threatened to hold a vote of no confidence in management. American Airlines Group Inc. Chief Executive Office Robert Isom responded to a flood of concerns from pilots
+  🔗 https://www.livemint.com/companies/american-air-ceo-agrees-to-meet-pilots-union-after-criticism-11770495281549.html
+
 - SBI raises loan growth guidance to 13-15% on trade deals, Budget impetus
   SBI reported a net profit of  ₹21,028 crore for Q3
   🔗 https://www.livemint.com/companies/company-results/sbi-q3-earnings-loan-growth-guidance-trade-deals-budget-11770465685979.html
@@ -56,9 +60,9 @@
   South Korean cryptocurrency exchange Bithumb apologised. Almost all tokens have been recovered and the platform said it would use its own assets to cover the losses.
   🔗 https://www.livemint.com/companies/news/bithumb-south-korea-crypto-exchange-40-billion-blunder-accident-sent-promotion-customers-users-620000-bitcoins-selloff-11770444084816.html
 
-- Air India unveils ‘The Maharaja Lounge’ at Delhi airport's T3: Check eligibility, amenities, First Class section photos
-  Air India opened its first flagship ‘The Maharaja Lounge’ at Delhi airport's Terminal 3. Here's a look at the
-  🔗 https://www.livemint.com/companies/news/air-india-unveils-maharaja-lounge-delhi-airport-t3-check-eligibility-amenities-first-class-guest-business-section-photos-11770440288815.html
+- Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying BEL shares on 9 February 2026
+  Domestic equity benchmarks ended mostly stable, with the Sensex up 266.47 points. This week, Nifty 50 gained 3.5%. Experts cite a U.S.-India
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-bel-shares-on-9-february-2026-11770482288139.html
 
 - China's central bank continues gold purchases for 15th consecutive month amid market volatility
   China's central bank has continued gold purchases for 15 months. Despite a recent market sell-off, demand remains
@@ -75,10 +79,6 @@
 - India-US trade deal: What does the interim pact mean for the Indian stock market? Explained with 21 stock picks
   India-US interim trade pact has brought clarity among FII, DII
   🔗 https://www.livemint.com/market/stock-market-news/indiaus-trade-deal-what-interim-pact-mean-for-the-indian-stock-market-explained-with-21-stock-picks-11770457768960.html
-
-- SBI Q3 results: Standalone profit jumps 24% YoY; NII increases 9% but NIM slips
-  SBI's profit jumped 24.5% YoY to  ₹21,028.15 crore. It was SBI's highest-ever quarterly net profit. Total income rose 9
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-q3-results-profit-nii-nim-advances-asset-quality-key-takeaways-highlights-from-december-quarter-earnings-11770446022517.html
 
 - Over 2,000 GCCs signal India’s rising clout in AI and technology services: Union Minister Ashwini Vaishnaw
   Union Minister Ashwini Vaishnaw says India’s IT sector is shifting to an AI-led services model. Government, industry and academia work together to position the country as
@@ -144,37 +144,17 @@
   <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUW
   🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUWFDUzVYS3JIOFA3UXphNUdxbExEZkFpbFAxb2w4WWxTWjB0OUFsX2VPWXFJVTVHakM0dmhCMWdjSFR4UmZTaERDR080ZXJyYUhjX01BcURYX0xLNzI1aGVOaklkY3pKOWI5ZVNQcXlPQ3ItREp4azdaZDhvZUcwUEtDWFB1djRNMk5Rbkhlal92S0UySXpCc1VLZGhTTEdGUUHSAYoCQVVfeXFMTjl5c2N0bURFTWtQcTcwejhlWl82a3pDRTVPZ1l4U29fSDVPQzBjaHktS1VtOElKNm11NFItWThrZk5URHJxbUpuWW1KUDZFakI5bE45akpfaXhUS0ZIV21vVjk4TDVXMUtPeG5VdUVXaTkzZzNIOVVxbjhjLWxUQzh0OEZhSFg5LVpTTEY1THl3dDFWRVBSSjRpdkhDMlY1V2VWLS05bXdyVFRiSlBJc3dUMHNPTmNpakhtZXhtSmczUVN1UUZUeDhjN2dwUTYtNjVMSGNHekY1Tkc2bWJ6WDJCNy1EQXlkZG9tZHp0cm8wS0Zwc2Q1bnRuaWZCYXphQ2VvWDlUZDd5Snc?oc=5
 
-- Three-storeyed building collapses in Rajasthan's Kota; several feared trapped - Times of India
-  Three-storey building collapses in Rajas
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT08wUllyUnVIakNpNi1NbWlHZnQ0ZG9BYXltcHVFc083RXRtdFhONFpTM0M3MFNOWjlPYmpnbzVvVk4wV2I1Q1B4R3doZVhqNXlFNnVmLVlpVE1sRTFtS21mRnJpWDczRkhQZFZyRnU2SmpjY1M3NElQS00xbHo1blY0SzExMTdEYjNuT21ZU1c5eTd1eG1SdE4yYkE2enliSHY5a3QxbndKbTZXZW96SmdQTVh4U0xuMFgyT2FIVl9OU2dXRW9jTk5FZ2N0Yk0tS0lFTzZNbEloQm_SAeABQVVfeXFMTllvXzJna3BwaldXQ0xSYkN4S1VOU05ybjVmSFotRWVaSUNVY3JUcHNEQTNoODYzNDBWOHpUM1U0b3c3Tmh6OFY1S0E3Y2tKckZYdWJlR2JPMW1pbml1ZUJxR3JkTFdydkZLNVYtX3c0RGNZY2JpaG5TZ1g1WG5HX0FZTG1ORG1vVUxXb0ZycVZxZElSMEZvS2VWbWVyeTZLdTdjWnh1VU9UQXU0cHc4Q2F1c0dSR1o1QTk4SHZfbUxwTEJxMXdFQW1IeGpPZ2psY0JHSXpxWF9SZDVldlBrNXY?oc=5
+- Minimums drop across state - Times of India
+  &nbsp;
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOMEc2cnd4dlNaN1dfOGNoS3ZZNklaOEx3SzE3cTU0ZFhqODFaZ0V3ZVdyM1BUNDFLaXoxY2hvdDZiSE9lUUowY0oxSDk5dll0d0ZIZjBTU3VyNXFYV3Z1UTJDQ2dENWFkSGQxSFplOFJhX1VGcGg5RjNXNkZfdmM5NmVKRUtBNVhmTmttS1EzdUV2b1JXR2ZCZGlsbmgxQ1XSAaQBQVVfeXFMT3VEdzFjMDM2TVRHZUdlSEluLWp1dU5HNlZlVVdSekZMUGZ6VnBYLXBzS21yODBIR1Z2MjEtMk5UaFhWV2k2S2Z4cmNHUktrOHZiQVRFc0RxUXBvcWFZVFBXQjNWbzFOSV9memlnbnBnRUJtd0djUGRweGZETnZHak5kTmU1ejhBeWhPcGV6Q3ptSXQzYVJzeDMxd3BWMzJVbkN0Nmo?oc=5
 
-- 4 Indian Students Injured After Knife Attack In Russian College: Embassy - NDTV
-  4 Indian Students Injured After Knife Attack In
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNeFlfU3hJNk5xb0JxMkFMbzZ3bWdpVkJCbmFWdk9vVHY1XzcyRlFSVFl2NDdNYmNJLUIxanNQTGZhWGpuUzVtSG14VXpITkpTOGFCS3c0M29MWVAxcmhCeEZlY3FjeDFubVZjdnlHRVktVXhaSXdFbFU4eVBJdTlyNnlGYVVvZjBCSExJNjZnb21XbXJ0V0RFZm95VWRMRzlpdUpGWUlsSWQ5NEl5U2hwaVNyQjhqQTDSAb8BQVVfeXFMUG1ZSEt5NlVqa0pXWTZLWjJXZm5MbWZQeHR1aEZYaTMtcDJ4M1BJTzFFRVBuN2hpRGhWb1NPV1ZGUU9VQVdtXzZaNkRqUTdVaU9sbUpMSnlMbXByUklsdDNpTkRWdU10eUk3cFRTaFUza1dHMkZPODBMMWNfdDQ0VzVQZDQ1TGk3T3ptci1VZmdDUXBNaGxfTHh4WFJDZnVMR19uM09TekVzSVB4c1pPMjNpS2RxWFZZMzNCb2ZGamc?oc=5
+- News On AIR | February 8, 2026 7:21 AM - newsonair.gov.in
+  News On AIR | February 8,
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTFYVmQyRHJnVG51NUx2aWdpY2FRTDRkXzU3ZmI1TldvUUE1b2V3aW5ob0FCeEFQMHd5amVBelplUWdkcDNiZ2NHbG50WU90VjJwWWtUZVNrREVvd2ljMzZHWER6bXV2V0NpS1RMcjI4dUNLRE1NLVg1czlqcVpyZ0xYMVJjMllsOUVfRVBsYU1oanlaOWxsM3Zhb19JN0pobUhVV1h3dVYxaFh2aDJWR0lPQ193d0tuSDB6dUI2MjVoUQ?oc=5
 
-- Amit Shah Lands In Raipur For Final Push Against Maoists By March 31 - NDTV
-  Amit Shah Lands In Raipur For Final Push
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPblMwMExYT3JWTnF4VE44d0gxNUpfZkJ2M0dkUnYxY1FXY1JUMUdwb0FNQk5talNBS2NqMU5xd0NnQ1dhbndoVVFNZlNYVTVRZzVUanJxR0RlbFlUT0ZtQ0Zmek9jUGNWbTMzZk11d0NHYXlTTkZSNWJOYjVrend6RWEtTzliRFFreThURC0tZFdrbkhldFQ2T2ExTjBPVTFENWUtUXJMYWMwZmFjM0HSAbYBQVVfeXFMT0xoWXNpa2RFOG5JM3Bqc3hGdXhTc1VDX1FFVTFLbklkUVItWDl1YUxCTFNHTXVxSm9tUm4wcHNsUFpyVC1iV3A4NTRfVWhXT2JUYm9UWmF2S2NXcG1qVVlYVFBPSGEtZUpWbER2VGl1Skl5YUZMMnJLYUpaUlAzbDFSNlNzSExpN3dYMHRLNUhCMHlueW9YbGk1S3lpSk5IS0hEY2NDcUZMei1XclVSUWU2azVIR1E?oc=5
-
-- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
-  India coal mine blast leaves 18 dead, others
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
-
-- Tariffs Cut To 18%, $500 Billion Trade Aim: India-US Framework In 10 Points - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUW
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUWFDUzVYS3JIOFA3UXphNUdxbExEZkFpbFAxb2w4WWxTWjB0OUFsX2VPWXFJVTVHakM0dmhCMWdjSFR4UmZTaERDR080ZXJyYUhjX01BcURYX0xLNzI1aGVOaklkY3pKOWI5ZVNQcXlPQ3ItREp4azdaZDhvZUcwUEtDWFB1djRNMk5Rbkhlal92S0UySXpCc1VLZGhTTEdGUUHSAYoCQVVfeXFMTjl5c2N0bURFTWtQcTcwejhlWl82a3pDRTVPZ1l4U29fSDVPQzBjaHktS1VtOElKNm11NFItWThrZk5URHJxbUpuWW1KUDZFakI5bE45akpfaXhUS0ZIV21vVjk4TDVXMUtPeG5VdUVXaTkzZzNIOVVxbjhjLWxUQzh0OEZhSFg5LVpTTEY1THl3dDFWRVBSSjRpdkhDMlY1V2VWLS05bXdyVFRiSlBJc3dUMHNPTmNpakhtZXhtSmczUVN1UUZUeDhjN2dwUTYtNjVMSGNHekY1Tkc2bWJ6WDJCNy1EQXlkZG9tZHp0cm8wS0Zwc2Q1bnRuaWZCYXphQ2VvWDlUZDd5Snc?oc=5
-
-- Three-storeyed building collapses in Rajasthan's Kota; several feared trapped - Times of India
-  Three-storey building collapses in Rajas
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT08wUllyUnVIakNpNi1NbWlHZnQ0ZG9BYXltcHVFc083RXRtdFhONFpTM0M3MFNOWjlPYmpnbzVvVk4wV2I1Q1B4R3doZVhqNXlFNnVmLVlpVE1sRTFtS21mRnJpWDczRkhQZFZyRnU2SmpjY1M3NElQS00xbHo1blY0SzExMTdEYjNuT21ZU1c5eTd1eG1SdE4yYkE2enliSHY5a3QxbndKbTZXZW96SmdQTVh4U0xuMFgyT2FIVl9OU2dXRW9jTk5FZ2N0Yk0tS0lFTzZNbEloQm_SAeABQVVfeXFMTllvXzJna3BwaldXQ0xSYkN4S1VOU05ybjVmSFotRWVaSUNVY3JUcHNEQTNoODYzNDBWOHpUM1U0b3c3Tmh6OFY1S0E3Y2tKckZYdWJlR2JPMW1pbml1ZUJxR3JkTFdydkZLNVYtX3c0RGNZY2JpaG5TZ1g1WG5HX0FZTG1ORG1vVUxXb0ZycVZxZElSMEZvS2VWbWVyeTZLdTdjWnh1VU9UQXU0cHc4Q2F1c0dSR1o1QTk4SHZfbUxwTEJxMXdFQW1IeGpPZ2psY0JHSXpxWF9SZDVldlBrNXY?oc=5
-
-- 4 Indian Students Injured After Knife Attack In Russian College: Embassy - NDTV
-  4 Indian Students Injured After Knife Attack In
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNeFlfU3hJNk5xb0JxMkFMbzZ3bWdpVkJCbmFWdk9vVHY1XzcyRlFSVFl2NDdNYmNJLUIxanNQTGZhWGpuUzVtSG14VXpITkpTOGFCS3c0M29MWVAxcmhCeEZlY3FjeDFubVZjdnlHRVktVXhaSXdFbFU4eVBJdTlyNnlGYVVvZjBCSExJNjZnb21XbXJ0V0RFZm95VWRMRzlpdUpGWUlsSWQ5NEl5U2hwaVNyQjhqQTDSAb8BQVVfeXFMUG1ZSEt5NlVqa0pXWTZLWjJXZm5MbWZQeHR1aEZYaTMtcDJ4M1BJTzFFRVBuN2hpRGhWb1NPV1ZGUU9VQVdtXzZaNkRqUTdVaU9sbUpMSnlMbXByUklsdDNpTkRWdU10eUk3cFRTaFUza1dHMkZPODBMMWNfdDQ0VzVQZDQ1TGk3T3ptci1VZmdDUXBNaGxfTHh4WFJDZnVMR19uM09TekVzSVB4c1pPMjNpS2RxWFZZMzNCb2ZGamc?oc=5
-
-- Amit Shah Lands In Raipur For Final Push Against Maoists By March 31 - NDTV
-  Amit Shah Lands In Raipur For Final Push
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPblMwMExYT3JWTnF4VE44d0gxNUpfZkJ2M0dkUnYxY1FXY1JUMUdwb0FNQk5talNBS2NqMU5xd0NnQ1dhbndoVVFNZlNYVTVRZzVUanJxR0RlbFlUT0ZtQ0Zmek9jUGNWbTMzZk11d0NHYXlTTkZSNWJOYjVrend6RWEtTzliRFFreThURC0tZFdrbkhldFQ2T2ExTjBPVTFENWUtUXJMYWMwZmFjM0HSAbYBQVVfeXFMT0xoWXNpa2RFOG5JM3Bqc3hGdXhTc1VDX1FFVTFLbklkUVItWDl1YUxCTFNHTXVxSm9tUm4wcHNsUFpyVC1iV3A4NTRfVWhXT2JUYm9UWmF2S2NXcG1qVVlYVFBPSGEtZUpWbER2VGl1Skl5YUZMMnJLYUpaUlAzbDFSNlNzSExpN3dYMHRLNUhCMHlueW9YbGk1S3lpSk5IS0hEY2NDcUZMei1XclVSUWU2azVIR1E?oc=5
+- India Gains In-Orbit Spying Capability, Can Now Snoop On Enemy Satellites - NDTV
+  India Gains In-Orbit Spying
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQSzgwRklEOVFWVmxjeVVtZ2c5b18tMWo1cFUzamxZZVN5X1k1bW91YU5rREhUM0o2cW5kbVNIenNENWxoV1ZpMmVJZDdWSTRDNGp3R0dLdVFpWmM0Z09McklrMnBTQTFwT011MllaTEViZG4wNGNaRm96VU9sTHRVcjRLNl82TG5hdW43emNZaGdZUHBSZlh3c0xIOVVqakN6VUdPX2hEUzRLLVNjX3ZYWlBoSXZKa3BPVzNTSUhNSGpzWFJOM0h2cWMzU2dJUk1lSXdoOWk3d1UtU1M4bnpBQnV4MVp6Ry1BeDlBUVF5VlZ3RW1WclBnbkVRZWVfcmR2eGc4SHlNNUw4SG1RdHlfWTl6S19pRmRqMXNF0gGjAkFVX3lxTE5wMnlpY2ZUSUh0ZjVUeTF3blh4bEhNQ0FHU1RuQzZEYmFySGJNLVZGZzZLd0V2SDZDT1I3UzZyZVBjTmxEZ0NIb1lOUUxUOWdBdVp4V0hJSG1nZjhBam0ySGRVNUJlaFJpYXExNUlucWxJLXcwYmpnSGY4TzR3eXhDMHc2NUdYeThFSWZSdnA3X2NhMUc5S0ZJcTI5QlhlRzNEVERUQkdxS3JKVzNiRmt3bHFVYmh3b3BaZGVqbS02MUNJQ3paLWZBLTFDUzdPQnpsaTBlT0ZGbzh4VmhGWjFEYUhnbjFOdjFSYXo1VF9hVjF6VGdNM3ZIVXR1eXNTNTBrdDFpVTJMQ0NSTzBWVDZTa2ZobjJlaGlfRldSWXFrVmJzdw?oc=5
 
 - India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
   India coal mine blast leaves 18 dead, others
@@ -184,17 +164,17 @@
   <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUW
   🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUWFDUzVYS3JIOFA3UXphNUdxbExEZkFpbFAxb2w4WWxTWjB0OUFsX2VPWXFJVTVHakM0dmhCMWdjSFR4UmZTaERDR080ZXJyYUhjX01BcURYX0xLNzI1aGVOaklkY3pKOWI5ZVNQcXlPQ3ItREp4azdaZDhvZUcwUEtDWFB1djRNMk5Rbkhlal92S0UySXpCc1VLZGhTTEdGUUHSAYoCQVVfeXFMTjl5c2N0bURFTWtQcTcwejhlWl82a3pDRTVPZ1l4U29fSDVPQzBjaHktS1VtOElKNm11NFItWThrZk5URHJxbUpuWW1KUDZFakI5bE45akpfaXhUS0ZIV21vVjk4TDVXMUtPeG5VdUVXaTkzZzNIOVVxbjhjLWxUQzh0OEZhSFg5LVpTTEY1THl3dDFWRVBSSjRpdkhDMlY1V2VWLS05bXdyVFRiSlBJc3dUMHNPTmNpakhtZXhtSmczUVN1UUZUeDhjN2dwUTYtNjVMSGNHekY1Tkc2bWJ6WDJCNy1EQXlkZG9tZHp0cm8wS0Zwc2Q1bnRuaWZCYXphQ2VvWDlUZDd5Snc?oc=5
 
-- Three-storeyed building collapses in Rajasthan's Kota; several feared trapped - Times of India
-  Three-storey building collapses in Rajas
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT08wUllyUnVIakNpNi1NbWlHZnQ0ZG9BYXltcHVFc083RXRtdFhONFpTM0M3MFNOWjlPYmpnbzVvVk4wV2I1Q1B4R3doZVhqNXlFNnVmLVlpVE1sRTFtS21mRnJpWDczRkhQZFZyRnU2SmpjY1M3NElQS00xbHo1blY0SzExMTdEYjNuT21ZU1c5eTd1eG1SdE4yYkE2enliSHY5a3QxbndKbTZXZW96SmdQTVh4U0xuMFgyT2FIVl9OU2dXRW9jTk5FZ2N0Yk0tS0lFTzZNbEloQm_SAeABQVVfeXFMTllvXzJna3BwaldXQ0xSYkN4S1VOU05ybjVmSFotRWVaSUNVY3JUcHNEQTNoODYzNDBWOHpUM1U0b3c3Tmh6OFY1S0E3Y2tKckZYdWJlR2JPMW1pbml1ZUJxR3JkTFdydkZLNVYtX3c0RGNZY2JpaG5TZ1g1WG5HX0FZTG1ORG1vVUxXb0ZycVZxZElSMEZvS2VWbWVyeTZLdTdjWnh1VU9UQXU0cHc4Q2F1c0dSR1o1QTk4SHZfbUxwTEJxMXdFQW1IeGpPZ2psY0JHSXpxWF9SZDVldlBrNXY?oc=5
+- Minimums drop across state - Times of India
+  &nbsp;
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOMEc2cnd4dlNaN1dfOGNoS3ZZNklaOEx3SzE3cTU0ZFhqODFaZ0V3ZVdyM1BUNDFLaXoxY2hvdDZiSE9lUUowY0oxSDk5dll0d0ZIZjBTU3VyNXFYV3Z1UTJDQ2dENWFkSGQxSFplOFJhX1VGcGg5RjNXNkZfdmM5NmVKRUtBNVhmTmttS1EzdUV2b1JXR2ZCZGlsbmgxQ1XSAaQBQVVfeXFMT3VEdzFjMDM2TVRHZUdlSEluLWp1dU5HNlZlVVdSekZMUGZ6VnBYLXBzS21yODBIR1Z2MjEtMk5UaFhWV2k2S2Z4cmNHUktrOHZiQVRFc0RxUXBvcWFZVFBXQjNWbzFOSV9memlnbnBnRUJtd0djUGRweGZETnZHak5kTmU1ejhBeWhPcGV6Q3ptSXQzYVJzeDMxd3BWMzJVbkN0Nmo?oc=5
 
-- 4 Indian Students Injured After Knife Attack In Russian College: Embassy - NDTV
-  4 Indian Students Injured After Knife Attack In
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNeFlfU3hJNk5xb0JxMkFMbzZ3bWdpVkJCbmFWdk9vVHY1XzcyRlFSVFl2NDdNYmNJLUIxanNQTGZhWGpuUzVtSG14VXpITkpTOGFCS3c0M29MWVAxcmhCeEZlY3FjeDFubVZjdnlHRVktVXhaSXdFbFU4eVBJdTlyNnlGYVVvZjBCSExJNjZnb21XbXJ0V0RFZm95VWRMRzlpdUpGWUlsSWQ5NEl5U2hwaVNyQjhqQTDSAb8BQVVfeXFMUG1ZSEt5NlVqa0pXWTZLWjJXZm5MbWZQeHR1aEZYaTMtcDJ4M1BJTzFFRVBuN2hpRGhWb1NPV1ZGUU9VQVdtXzZaNkRqUTdVaU9sbUpMSnlMbXByUklsdDNpTkRWdU10eUk3cFRTaFUza1dHMkZPODBMMWNfdDQ0VzVQZDQ1TGk3T3ptci1VZmdDUXBNaGxfTHh4WFJDZnVMR19uM09TekVzSVB4c1pPMjNpS2RxWFZZMzNCb2ZGamc?oc=5
+- News On AIR | February 8, 2026 7:21 AM - newsonair.gov.in
+  News On AIR | February 8,
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTFYVmQyRHJnVG51NUx2aWdpY2FRTDRkXzU3ZmI1TldvUUE1b2V3aW5ob0FCeEFQMHd5amVBelplUWdkcDNiZ2NHbG50WU90VjJwWWtUZVNrREVvd2ljMzZHWER6bXV2V0NpS1RMcjI4dUNLRE1NLVg1czlqcVpyZ0xYMVJjMllsOUVfRVBsYU1oanlaOWxsM3Zhb19JN0pobUhVV1h3dVYxaFh2aDJWR0lPQ193d0tuSDB6dUI2MjVoUQ?oc=5
 
-- Amit Shah Lands In Raipur For Final Push Against Maoists By March 31 - NDTV
-  Amit Shah Lands In Raipur For Final Push
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPblMwMExYT3JWTnF4VE44d0gxNUpfZkJ2M0dkUnYxY1FXY1JUMUdwb0FNQk5talNBS2NqMU5xd0NnQ1dhbndoVVFNZlNYVTVRZzVUanJxR0RlbFlUT0ZtQ0Zmek9jUGNWbTMzZk11d0NHYXlTTkZSNWJOYjVrend6RWEtTzliRFFreThURC0tZFdrbkhldFQ2T2ExTjBPVTFENWUtUXJMYWMwZmFjM0HSAbYBQVVfeXFMT0xoWXNpa2RFOG5JM3Bqc3hGdXhTc1VDX1FFVTFLbklkUVItWDl1YUxCTFNHTXVxSm9tUm4wcHNsUFpyVC1iV3A4NTRfVWhXT2JUYm9UWmF2S2NXcG1qVVlYVFBPSGEtZUpWbER2VGl1Skl5YUZMMnJLYUpaUlAzbDFSNlNzSExpN3dYMHRLNUhCMHlueW9YbGk1S3lpSk5IS0hEY2NDcUZMei1XclVSUWU2azVIR1E?oc=5
+- India Gains In-Orbit Spying Capability, Can Now Snoop On Enemy Satellites - NDTV
+  India Gains In-Orbit Spying
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQSzgwRklEOVFWVmxjeVVtZ2c5b18tMWo1cFUzamxZZVN5X1k1bW91YU5rREhUM0o2cW5kbVNIenNENWxoV1ZpMmVJZDdWSTRDNGp3R0dLdVFpWmM0Z09McklrMnBTQTFwT011MllaTEViZG4wNGNaRm96VU9sTHRVcjRLNl82TG5hdW43emNZaGdZUHBSZlh3c0xIOVVqakN6VUdPX2hEUzRLLVNjX3ZYWlBoSXZKa3BPVzNTSUhNSGpzWFJOM0h2cWMzU2dJUk1lSXdoOWk3d1UtU1M4bnpBQnV4MVp6Ry1BeDlBUVF5VlZ3RW1WclBnbkVRZWVfcmR2eGc4SHlNNUw4SG1RdHlfWTl6S19pRmRqMXNF0gGjAkFVX3lxTE5wMnlpY2ZUSUh0ZjVUeTF3blh4bEhNQ0FHU1RuQzZEYmFySGJNLVZGZzZLd0V2SDZDT1I3UzZyZVBjTmxEZ0NIb1lOUUxUOWdBdVp4V0hJSG1nZjhBam0ySGRVNUJlaFJpYXExNUlucWxJLXcwYmpnSGY4TzR3eXhDMHc2NUdYeThFSWZSdnA3X2NhMUc5S0ZJcTI5QlhlRzNEVERUQkdxS3JKVzNiRmt3bHFVYmh3b3BaZGVqbS02MUNJQ3paLWZBLTFDUzdPQnpsaTBlT0ZGbzh4VmhGWjFEYUhnbjFOdjFSYXo1VF9hVjF6VGdNM3ZIVXR1eXNTNTBrdDFpVTJMQ0NSTzBWVDZTa2ZobjJlaGlfRldSWXFrVmJzdw?oc=5
 
 - India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
   India coal mine blast leaves 18 dead, others
@@ -204,49 +184,81 @@
   <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUW
   🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUWFDUzVYS3JIOFA3UXphNUdxbExEZkFpbFAxb2w4WWxTWjB0OUFsX2VPWXFJVTVHakM0dmhCMWdjSFR4UmZTaERDR080ZXJyYUhjX01BcURYX0xLNzI1aGVOaklkY3pKOWI5ZVNQcXlPQ3ItREp4azdaZDhvZUcwUEtDWFB1djRNMk5Rbkhlal92S0UySXpCc1VLZGhTTEdGUUHSAYoCQVVfeXFMTjl5c2N0bURFTWtQcTcwejhlWl82a3pDRTVPZ1l4U29fSDVPQzBjaHktS1VtOElKNm11NFItWThrZk5URHJxbUpuWW1KUDZFakI5bE45akpfaXhUS0ZIV21vVjk4TDVXMUtPeG5VdUVXaTkzZzNIOVVxbjhjLWxUQzh0OEZhSFg5LVpTTEY1THl3dDFWRVBSSjRpdkhDMlY1V2VWLS05bXdyVFRiSlBJc3dUMHNPTmNpakhtZXhtSmczUVN1UUZUeDhjN2dwUTYtNjVMSGNHekY1Tkc2bWJ6WDJCNy1EQXlkZG9tZHp0cm8wS0Zwc2Q1bnRuaWZCYXphQ2VvWDlUZDd5Snc?oc=5
 
-- Three-storeyed building collapses in Rajasthan's Kota; several feared trapped - Times of India
-  Three-storey building collapses in Rajas
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT08wUllyUnVIakNpNi1NbWlHZnQ0ZG9BYXltcHVFc083RXRtdFhONFpTM0M3MFNOWjlPYmpnbzVvVk4wV2I1Q1B4R3doZVhqNXlFNnVmLVlpVE1sRTFtS21mRnJpWDczRkhQZFZyRnU2SmpjY1M3NElQS00xbHo1blY0SzExMTdEYjNuT21ZU1c5eTd1eG1SdE4yYkE2enliSHY5a3QxbndKbTZXZW96SmdQTVh4U0xuMFgyT2FIVl9OU2dXRW9jTk5FZ2N0Yk0tS0lFTzZNbEloQm_SAeABQVVfeXFMTllvXzJna3BwaldXQ0xSYkN4S1VOU05ybjVmSFotRWVaSUNVY3JUcHNEQTNoODYzNDBWOHpUM1U0b3c3Tmh6OFY1S0E3Y2tKckZYdWJlR2JPMW1pbml1ZUJxR3JkTFdydkZLNVYtX3c0RGNZY2JpaG5TZ1g1WG5HX0FZTG1ORG1vVUxXb0ZycVZxZElSMEZvS2VWbWVyeTZLdTdjWnh1VU9UQXU0cHc4Q2F1c0dSR1o1QTk4SHZfbUxwTEJxMXdFQW1IeGpPZ2psY0JHSXpxWF9SZDVldlBrNXY?oc=5
+- Minimums drop across state - Times of India
+  &nbsp;
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOMEc2cnd4dlNaN1dfOGNoS3ZZNklaOEx3SzE3cTU0ZFhqODFaZ0V3ZVdyM1BUNDFLaXoxY2hvdDZiSE9lUUowY0oxSDk5dll0d0ZIZjBTU3VyNXFYV3Z1UTJDQ2dENWFkSGQxSFplOFJhX1VGcGg5RjNXNkZfdmM5NmVKRUtBNVhmTmttS1EzdUV2b1JXR2ZCZGlsbmgxQ1XSAaQBQVVfeXFMT3VEdzFjMDM2TVRHZUdlSEluLWp1dU5HNlZlVVdSekZMUGZ6VnBYLXBzS21yODBIR1Z2MjEtMk5UaFhWV2k2S2Z4cmNHUktrOHZiQVRFc0RxUXBvcWFZVFBXQjNWbzFOSV9memlnbnBnRUJtd0djUGRweGZETnZHak5kTmU1ejhBeWhPcGV6Q3ptSXQzYVJzeDMxd3BWMzJVbkN0Nmo?oc=5
 
-- 4 Indian Students Injured After Knife Attack In Russian College: Embassy - NDTV
-  4 Indian Students Injured After Knife Attack In
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNeFlfU3hJNk5xb0JxMkFMbzZ3bWdpVkJCbmFWdk9vVHY1XzcyRlFSVFl2NDdNYmNJLUIxanNQTGZhWGpuUzVtSG14VXpITkpTOGFCS3c0M29MWVAxcmhCeEZlY3FjeDFubVZjdnlHRVktVXhaSXdFbFU4eVBJdTlyNnlGYVVvZjBCSExJNjZnb21XbXJ0V0RFZm95VWRMRzlpdUpGWUlsSWQ5NEl5U2hwaVNyQjhqQTDSAb8BQVVfeXFMUG1ZSEt5NlVqa0pXWTZLWjJXZm5MbWZQeHR1aEZYaTMtcDJ4M1BJTzFFRVBuN2hpRGhWb1NPV1ZGUU9VQVdtXzZaNkRqUTdVaU9sbUpMSnlMbXByUklsdDNpTkRWdU10eUk3cFRTaFUza1dHMkZPODBMMWNfdDQ0VzVQZDQ1TGk3T3ptci1VZmdDUXBNaGxfTHh4WFJDZnVMR19uM09TekVzSVB4c1pPMjNpS2RxWFZZMzNCb2ZGamc?oc=5
+- News On AIR | February 8, 2026 7:21 AM - newsonair.gov.in
+  News On AIR | February 8,
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTFYVmQyRHJnVG51NUx2aWdpY2FRTDRkXzU3ZmI1TldvUUE1b2V3aW5ob0FCeEFQMHd5amVBelplUWdkcDNiZ2NHbG50WU90VjJwWWtUZVNrREVvd2ljMzZHWER6bXV2V0NpS1RMcjI4dUNLRE1NLVg1czlqcVpyZ0xYMVJjMllsOUVfRVBsYU1oanlaOWxsM3Zhb19JN0pobUhVV1h3dVYxaFh2aDJWR0lPQ193d0tuSDB6dUI2MjVoUQ?oc=5
 
-- Amit Shah Lands In Raipur For Final Push Against Maoists By March 31 - NDTV
-  Amit Shah Lands In Raipur For Final Push
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPblMwMExYT3JWTnF4VE44d0gxNUpfZkJ2M0dkUnYxY1FXY1JUMUdwb0FNQk5talNBS2NqMU5xd0NnQ1dhbndoVVFNZlNYVTVRZzVUanJxR0RlbFlUT0ZtQ0Zmek9jUGNWbTMzZk11d0NHYXlTTkZSNWJOYjVrend6RWEtTzliRFFreThURC0tZFdrbkhldFQ2T2ExTjBPVTFENWUtUXJMYWMwZmFjM0HSAbYBQVVfeXFMT0xoWXNpa2RFOG5JM3Bqc3hGdXhTc1VDX1FFVTFLbklkUVItWDl1YUxCTFNHTXVxSm9tUm4wcHNsUFpyVC1iV3A4NTRfVWhXT2JUYm9UWmF2S2NXcG1qVVlYVFBPSGEtZUpWbER2VGl1Skl5YUZMMnJLYUpaUlAzbDFSNlNzSExpN3dYMHRLNUhCMHlueW9YbGk1S3lpSk5IS0hEY2NDcUZMei1XclVSUWU2azVIR1E?oc=5
+- India Gains In-Orbit Spying Capability, Can Now Snoop On Enemy Satellites - NDTV
+  India Gains In-Orbit Spying
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQSzgwRklEOVFWVmxjeVVtZ2c5b18tMWo1cFUzamxZZVN5X1k1bW91YU5rREhUM0o2cW5kbVNIenNENWxoV1ZpMmVJZDdWSTRDNGp3R0dLdVFpWmM0Z09McklrMnBTQTFwT011MllaTEViZG4wNGNaRm96VU9sTHRVcjRLNl82TG5hdW43emNZaGdZUHBSZlh3c0xIOVVqakN6VUdPX2hEUzRLLVNjX3ZYWlBoSXZKa3BPVzNTSUhNSGpzWFJOM0h2cWMzU2dJUk1lSXdoOWk3d1UtU1M4bnpBQnV4MVp6Ry1BeDlBUVF5VlZ3RW1WclBnbkVRZWVfcmR2eGc4SHlNNUw4SG1RdHlfWTl6S19pRmRqMXNF0gGjAkFVX3lxTE5wMnlpY2ZUSUh0ZjVUeTF3blh4bEhNQ0FHU1RuQzZEYmFySGJNLVZGZzZLd0V2SDZDT1I3UzZyZVBjTmxEZ0NIb1lOUUxUOWdBdVp4V0hJSG1nZjhBam0ySGRVNUJlaFJpYXExNUlucWxJLXcwYmpnSGY4TzR3eXhDMHc2NUdYeThFSWZSdnA3X2NhMUc5S0ZJcTI5QlhlRzNEVERUQkdxS3JKVzNiRmt3bHFVYmh3b3BaZGVqbS02MUNJQ3paLWZBLTFDUzdPQnpsaTBlT0ZGbzh4VmhGWjFEYUhnbjFOdjFSYXo1VF9hVjF6VGdNM3ZIVXR1eXNTNTBrdDFpVTJMQ0NSTzBWVDZTa2ZobjJlaGlfRldSWXFrVmJzdw?oc=5
 
 - India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
   India coal mine blast leaves 18 dead, others
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Tariffs Cut To 18%, $500 Billion Trade Aim: India-US Framework In 10 Points - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUW
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUWFDUzVYS3JIOFA3UXphNUdxbExEZkFpbFAxb2w4WWxTWjB0OUFsX2VPWXFJVTVHakM0dmhCMWdjSFR4UmZTaERDR080ZXJyYUhjX01BcURYX0xLNzI1aGVOaklkY3pKOWI5ZVNQcXlPQ3ItREp4azdaZDhvZUcwUEtDWFB1djRNMk5Rbkhlal92S0UySXpCc1VLZGhTTEdGUUHSAYoCQVVfeXFMTjl5c2N0bURFTWtQcTcwejhlWl82a3pDRTVPZ1l4U29fSDVPQzBjaHktS1VtOElKNm11NFItWThrZk5URHJxbUpuWW1KUDZFakI5bE45akpfaXhUS0ZIV21vVjk4TDVXMUtPeG5VdUVXaTkzZzNIOVVxbjhjLWxUQzh0OEZhSFg5LVpTTEY1THl3dDFWRVBSSjRpdkhDMlY1V2VWLS05bXdyVFRiSlBJc3dUMHNPTmNpakhtZXhtSmczUVN1UUZUeDhjN2dwUTYtNjVMSGNHekY1Tkc2bWJ6WDJCNy1EQXlkZG9tZHp0cm8wS0Zwc2Q1bnRuaWZCYXphQ2VvWDlUZDd5Snc?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Minimums drop across state - Times of India
+  &nbsp;
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOMEc2cnd4dlNaN1dfOGNoS3ZZNklaOEx3SzE3cTU0ZFhqODFaZ0V3ZVdyM1BUNDFLaXoxY2hvdDZiSE9lUUowY0oxSDk5dll0d0ZIZjBTU3VyNXFYV3Z1UTJDQ2dENWFkSGQxSFplOFJhX1VGcGg5RjNXNkZfdmM5NmVKRUtBNVhmTmttS1EzdUV2b1JXR2ZCZGlsbmgxQ1XSAaQBQVVfeXFMT3VEdzFjMDM2TVRHZUdlSEluLWp1dU5HNlZlVVdSekZMUGZ6VnBYLXBzS21yODBIR1Z2MjEtMk5UaFhWV2k2S2Z4cmNHUktrOHZiQVRFc0RxUXBvcWFZVFBXQjNWbzFOSV9memlnbnBnRUJtd0djUGRweGZETnZHak5kTmU1ejhBeWhPcGV6Q3ptSXQzYVJzeDMxd3BWMzJVbkN0Nmo?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- News On AIR | February 8, 2026 7:21 AM - newsonair.gov.in
+  News On AIR | February 8,
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTFYVmQyRHJnVG51NUx2aWdpY2FRTDRkXzU3ZmI1TldvUUE1b2V3aW5ob0FCeEFQMHd5amVBelplUWdkcDNiZ2NHbG50WU90VjJwWWtUZVNrREVvd2ljMzZHWER6bXV2V0NpS1RMcjI4dUNLRE1NLVg1czlqcVpyZ0xYMVJjMllsOUVfRVBsYU1oanlaOWxsM3Zhb19JN0pobUhVV1h3dVYxaFh2aDJWR0lPQ193d0tuSDB6dUI2MjVoUQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- India Gains In-Orbit Spying Capability, Can Now Snoop On Enemy Satellites - NDTV
+  India Gains In-Orbit Spying
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQSzgwRklEOVFWVmxjeVVtZ2c5b18tMWo1cFUzamxZZVN5X1k1bW91YU5rREhUM0o2cW5kbVNIenNENWxoV1ZpMmVJZDdWSTRDNGp3R0dLdVFpWmM0Z09McklrMnBTQTFwT011MllaTEViZG4wNGNaRm96VU9sTHRVcjRLNl82TG5hdW43emNZaGdZUHBSZlh3c0xIOVVqakN6VUdPX2hEUzRLLVNjX3ZYWlBoSXZKa3BPVzNTSUhNSGpzWFJOM0h2cWMzU2dJUk1lSXdoOWk3d1UtU1M4bnpBQnV4MVp6Ry1BeDlBUVF5VlZ3RW1WclBnbkVRZWVfcmR2eGc4SHlNNUw4SG1RdHlfWTl6S19pRmRqMXNF0gGjAkFVX3lxTE5wMnlpY2ZUSUh0ZjVUeTF3blh4bEhNQ0FHU1RuQzZEYmFySGJNLVZGZzZLd0V2SDZDT1I3UzZyZVBjTmxEZ0NIb1lOUUxUOWdBdVp4V0hJSG1nZjhBam0ySGRVNUJlaFJpYXExNUlucWxJLXcwYmpnSGY4TzR3eXhDMHc2NUdYeThFSWZSdnA3X2NhMUc5S0ZJcTI5QlhlRzNEVERUQkdxS3JKVzNiRmt3bHFVYmh3b3BaZGVqbS02MUNJQ3paLWZBLTFDUzdPQnpsaTBlT0ZGbzh4VmhGWjFEYUhnbjFOdjFSYXo1VF9hVjF6VGdNM3ZIVXR1eXNTNTBrdDFpVTJMQ0NSTzBWVDZTa2ZobjJlaGlfRldSWXFrVmJzdw?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
+  India coal mine blast leaves 18 dead, others
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Tariffs Cut To 18%, $500 Billion Trade Aim: India-US Framework In 10 Points - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUW
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNcnlNMmwtaHpVa0RJSDRZQi1lcnRxN0JGaTk0bVMwUVUxYlBYVWFkc1ZLVEMyYTdnQ0pQVXBDbUFsZlU3VHJ1ZDBIcmdhaENlTmNwdnc1blM3VUlWVWI5SXRiYjZCNS1uUWFDUzVYS3JIOFA3UXphNUdxbExEZkFpbFAxb2w4WWxTWjB0OUFsX2VPWXFJVTVHakM0dmhCMWdjSFR4UmZTaERDR080ZXJyYUhjX01BcURYX0xLNzI1aGVOaklkY3pKOWI5ZVNQcXlPQ3ItREp4azdaZDhvZUcwUEtDWFB1djRNMk5Rbkhlal92S0UySXpCc1VLZGhTTEdGUUHSAYoCQVVfeXFMTjl5c2N0bURFTWtQcTcwejhlWl82a3pDRTVPZ1l4U29fSDVPQzBjaHktS1VtOElKNm11NFItWThrZk5URHJxbUpuWW1KUDZFakI5bE45akpfaXhUS0ZIV21vVjk4TDVXMUtPeG5VdUVXaTkzZzNIOVVxbjhjLWxUQzh0OEZhSFg5LVpTTEY1THl3dDFWRVBSSjRpdkhDMlY1V2VWLS05bXdyVFRiSlBJc3dUMHNPTmNpakhtZXhtSmczUVN1UUZUeDhjN2dwUTYtNjVMSGNHekY1Tkc2bWJ6WDJCNy1EQXlkZG9tZHp0cm8wS0Zwc2Q1bnRuaWZCYXphQ2VvWDlUZDd5Snc?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Minimums drop across state - Times of India
+  &nbsp;
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOMEc2cnd4dlNaN1dfOGNoS3ZZNklaOEx3SzE3cTU0ZFhqODFaZ0V3ZVdyM1BUNDFLaXoxY2hvdDZiSE9lUUowY0oxSDk5dll0d0ZIZjBTU3VyNXFYV3Z1UTJDQ2dENWFkSGQxSFplOFJhX1VGcGg5RjNXNkZfdmM5NmVKRUtBNVhmTmttS1EzdUV2b1JXR2ZCZGlsbmgxQ1XSAaQBQVVfeXFMT3VEdzFjMDM2TVRHZUdlSEluLWp1dU5HNlZlVVdSekZMUGZ6VnBYLXBzS21yODBIR1Z2MjEtMk5UaFhWV2k2S2Z4cmNHUktrOHZiQVRFc0RxUXBvcWFZVFBXQjNWbzFOSV9memlnbnBnRUJtd0djUGRweGZETnZHak5kTmU1ejhBeWhPcGV6Q3ptSXQzYVJzeDMxd3BWMzJVbkN0Nmo?oc=5
+
+- News On AIR | February 8, 2026 7:21 AM - newsonair.gov.in
+  News On AIR | February 8,
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTFYVmQyRHJnVG51NUx2aWdpY2FRTDRkXzU3ZmI1TldvUUE1b2V3aW5ob0FCeEFQMHd5amVBelplUWdkcDNiZ2NHbG50WU90VjJwWWtUZVNrREVvd2ljMzZHWER6bXV2V0NpS1RMcjI4dUNLRE1NLVg1czlqcVpyZ0xYMVJjMllsOUVfRVBsYU1oanlaOWxsM3Zhb19JN0pobUhVV1h3dVYxaFh2aDJWR0lPQ193d0tuSDB6dUI2MjVoUQ?oc=5
+
+- India Gains In-Orbit Spying Capability, Can Now Snoop On Enemy Satellites - NDTV
+  India Gains In-Orbit Spying
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQSzgwRklEOVFWVmxjeVVtZ2c5b18tMWo1cFUzamxZZVN5X1k1bW91YU5rREhUM0o2cW5kbVNIenNENWxoV1ZpMmVJZDdWSTRDNGp3R0dLdVFpWmM0Z09McklrMnBTQTFwT011MllaTEViZG4wNGNaRm96VU9sTHRVcjRLNl82TG5hdW43emNZaGdZUHBSZlh3c0xIOVVqakN6VUdPX2hEUzRLLVNjX3ZYWlBoSXZKa3BPVzNTSUhNSGpzWFJOM0h2cWMzU2dJUk1lSXdoOWk3d1UtU1M4bnpBQnV4MVp6Ry1BeDlBUVF5VlZ3RW1WclBnbkVRZWVfcmR2eGc4SHlNNUw4SG1RdHlfWTl6S19pRmRqMXNF0gGjAkFVX3lxTE5wMnlpY2ZUSUh0ZjVUeTF3blh4bEhNQ0FHU1RuQzZEYmFySGJNLVZGZzZLd0V2SDZDT1I3UzZyZVBjTmxEZ0NIb1lOUUxUOWdBdVp4V0hJSG1nZjhBam0ySGRVNUJlaFJpYXExNUlucWxJLXcwYmpnSGY4TzR3eXhDMHc2NUdYeThFSWZSdnA3X2NhMUc5S0ZJcTI5QlhlRzNEVERUQkdxS3JKVzNiRmt3bHFVYmh3b3BaZGVqbS02MUNJQ3paLWZBLTFDUzdPQnpsaTBlT0ZGbzh4VmhGWjFEYUhnbjFOdjFSYXo1VF9hVjF6VGdNM3ZIVXR1eXNTNTBrdDFpVTJMQ0NSTzBWVDZTa2ZobjJlaGlfRldSWXFrVmJzdw?oc=5
+
+- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
+  India coal mine blast leaves 18 dead, others
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
+
+- The AI boom is so huge it’s causing shortages everywhere else - The Washington Post
+  The AI boom is so huge it’s causing
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdExoS2JUREpvN3NXNjQ4bW0ydlBCTGdsYUZlVVJ6d1BjbHRJdHp1QXY5ejhjZHpHcG9EZlZuSlI3anlta2ZxQ042OHNVNFNMaXdYTDJtX2ZuZ2F3dXc0ZWtJemZDSjV1cDcxd1NCdmpWT1U1UTgtd255Sm01NTJDU0tFNEhXN0hoV0dJ?oc=5
+
+- Teachers urged to use technology appropriately in classroom - thehindu.com
+  Teachers urged to use technology
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPbktaSlpDalo4RFZfaTNfTUViMnFHOTE1a3lMcXB4dVRHMGM3dThWa0xfTDNFalRDN0c0djNsT0N2QUFhMVpZOUhoVThSZnhRSnBMZnN0Q2NmemdiRnF2NnlJbFBEcWxURjVTUkljTDFnOHF6NDNYU1dlOXMzSzBMNUVRVzlPdDBnN0hEYkNYX3Zxb195bnBBODVyRzhJSjFMUXVidjJDRW83dllMU01jcmtKYzBROWMxeGFIbE82eTdrNEhzTW9n0gHOAUFVX3lxTE1PNWJBOWNoaTZkMERMYkpnTlZoa2VGQ2IwbnJQSXJnYWN4SEZibDl0UUI2WXc1TDJHX1RuMFZSejg1c0ljcGk4eENOQ2I4RkdUczFjUzl2cDB6dTBpZHdwaWJaWEZHSnlFU3ZEcllGdzcweU9yVFlLLWNQYm9kQkNlYnZFQU5jYTI5Wno1Y2dicHJyMWo0bXdETG9idHd3SVlJdTlNc3JZRTAzNEN1VndJUEwzZ0lpcm1SbktLTUJrcl9BZ3dpLV94emFEZ2Nn?oc=5
+
+- How new AI technology is helping detect and prevent wildfires - Scientific American
+  How new AI technology is helping detect and prevent
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOXVfM05TOW04Ri00S18yTnZXZmlRX21HdGxfNlZNczZBcm9pb1VaamNnUzNSY0ZiV2JuVng4WkRzUmZjdkZUcTRGenB0OXNYOHNVcWFQY2JDY21jSW01ajZhLXFpaVNlQm1meFh6WllIZlk4cnVNeW5XMlBqa1BoQnNvSnJuWm1YdlF3SGV3dk1zSW9KY0psMmttZldHWEJROXE2emxyMXo?oc=5
+
+- Join the Expert Panel of Speakers on Police Technology and Cyber Crime Investigation - The420.in
+  Join the Expert Panel of Speakers on Police Technology and
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxPc08xWDBOb2VKME5lU1FHalZWcm11SEtnY1NhVXVBYmVQOU03UEJRLVg5amNUX01fdHpBRF9GTUtpNGpRdVFsbW1URkI0Rll0bTBBemlLM3daS01EekhlV1p5N28yYXlEMk91NUdidnpqSVdWazRmUDB3QldYcE15NncyRm5fLUtmdjFwUw?oc=5
+
+- Myntra appoints Pramod Adiddam as chief technology officer - ET BrandEquity
+  Myntra appoints Pram
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMHNnMVhBNXdLcnRTcm1uZzVjd2VFWDhJaHRDQ1Y0NWMxcmstdVhqZ3lXSW10d3lBQV9Ha1EwYnBtOWo0S1JUekxxNTBjdTk4RzZlaW9pNE5NeFR2Y2dWZlUxRzNsbnRiX3BObGtyRWZuRndrMW9GQU9VZ0VnTE5jaUs1NzVkYmh4NWVGRlJMNFcwNkVvZmtsZTE0UG9PR0d0dVlTblNOMHVIWmxNRU9WbmxoNDVjRUdxeEM0LW1TZE1pODlvd1hsc0k0WkdtUGJCNlBnY1RLVQ?oc=5
 
 
-_Last updated: 2026-02-07 18:32:09 UTC_
+_Last updated: 2026-02-08 02:09:04 UTC_
