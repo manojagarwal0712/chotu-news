@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
+- IRCTC Divine East Temple Tour: Railways to operate Bharat Gaurav Deluxe Tourist train – check journey date, route, ticket price
+  
+  🔗 https://indianexpress.com/article/india/irctc-divine-east-temple-tour-railways-to-operate-bharat-gaurav-deluxe-tourist-train-check-journey-date-route-ticket-price-10521324/
+
+- Assam BJP posts, then deletes, AI video showing Himanta taking aim at men in skullcaps
+  
+  🔗 https://indianexpress.com/article/india/assam-bjp-posts-then-deletes-ai-video-showing-himanta-taking-aim-at-men-in-skullcaps-10521136/
+
+- Himanta escalates ‘Pakistan links’ claim against Gaurav Gogoi and wife, Congress leader calls it worse than C-grade cinema
+  
+  🔗 https://indianexpress.com/article/india/himanta-pakistan-gaurav-gogoi-wife-congress-c-grade-cinema-10521083/
+
+- MGR song at lunch table: PM Modi lauds ‘shared affection’ for Tamil during Malaysia visit
+  
+  🔗 https://indianexpress.com/article/india/mgr-pm-modi-malaysia-visit-tamil-cinema-cultural-ties-10520838/
+
 - Why Karnataka is demanding a third bullet train corridor
   
   🔗 https://indianexpress.com/article/india/why-karnataka-is-demanding-a-third-bullet-train-corridor-10520621/
-
-- Karnataka set to get another Vande Bharat train; check route
-  
-  🔗 https://indianexpress.com/article/india/indian-railways-karnataka-bengaluru-to-get-vande-bharat-train-check-route-10520557/
-
-- ‘Will step down whenever Sangh asks me to’: Mohan Bhagwat on leading RSS
-  
-  🔗 https://indianexpress.com/article/india/mohan-bhagwat-rss-centenary-ucc-india-us-trade-10520585/
-
-- ‘Gogoi’s wife Elizabeth worked for Pak agent Ali Tauqeer Sheikh’: Assam CM Himanta Biswa Sarma
-  
-  🔗 https://indianexpress.com/article/india/himanta-biswa-sarma-gaurav-gogoi-wife-pakistan-agent-ali-tauqeer-sheikh-10520480/
-
-- On terrorism, no double standards, no compromise: PM Modi in Malaysia
-  
-  🔗 https://indianexpress.com/article/india/on-terrorism-no-double-standards-no-compromise-pm-modi-in-malaysia-10520423/
 
 - Oppo Pad 5 review: The excellent Netflix binge tablet for your next long-haul flight
   
@@ -38,7 +38,15 @@
 
 - Inside Google’s secret Taipei Hub: How the Pixel 10 is finally bridging the gap with Apple’s iPhone
   
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/inside-google-pixel-plan-android-ecosystem-ai-hardware-software-taipei-tpark-1052018-10520181/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/inside-google-pixel-plan-android-ecosystem-ai-hardware-software-taipei-tpark-1052018-10520181/
+
+- Angola seeks 20%-30% stake in De Beers: Report
+   Angola's bid for a majority stake in De Beers had set the country up for a potential bidding war with
+  🔗 https://www.livemint.com/companies/news/angola-seeks-20-30-stake-in-de-beers-report-11770573996476.html
+
+- Ocado layoffs: British tech firm to cut up to 1,000 jobs amid its cost-cutting plans — Details here
+  Ocado to cut up to 1,000 jobs amid its
+  🔗 https://www.livemint.com/companies/news/ocado-layoffs-british-tech-firm-to-cut-up-to-1-000-jobs-amid-its-cost-cutting-plans-details-here-11770570951697.html
 
 - The Lion’s roar: Inside the Tamil show turning startups into household names
   Startup Singam is rewriting the rules of capital and visibility. From palm groves to prime time, the show is changing the way businesses are
@@ -52,33 +60,33 @@
   Piramal Pharma's plea is slated to be heard on 9 February before a bench led by Chief Justice of India Sury
   🔗 https://www.livemint.com/companies/news/piramal-pharma-supreme-court-gujarat-pollution-board-plant-closure-order-11770532295319.html
 
-- Jeffrey Epstein advised Starlink rival OneWeb's founder Greg Wyler on securing funds — What we know
-  Jeffrey Epstein was an adviser in the creation of OneWeb, a satellite network competitor to Starlink. Founder Greg Wyler confirmed Epstein offered guidance but no investments were
-  🔗 https://www.livemint.com/companies/epstein-was-adviser-behind-funding-of-starlink-rival-oneweb-11770520863436.html
+- Markets News, Feb. 6, 2026: Dow Ends Above 50K for First Time as Indexes Soar After 3-Day Sell-Off; Bitcoin Bounces Back Above $70K - Investopedia
+  Markets News, Feb. 6, 2026: Dow Ends Above 50K for First Time as Index
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPdHZCdTRkWVRpNGJCT1B4UUpHMnJiOXJMOGNNNXhUalo3QUkzX2ZIck44MlpYZ3hfYjBUZk5pajI3LXkzaTNJblRQaE5TVml6aWJYbHBqcXc2YXg3alh6V2k0VHpmQTJUeDBJekRBeE50MDZxdXNSZ25SWVdRZllOaHBXd2FGdXdOU3RtbXJSQnc?oc=5
 
-- Layoff news: Jack Dorsey's Block plans 10% job cuts during performance reviews amid ‘business overhaul’
-  Block plans to lay off 10% of its workforce during performance reviews, according to a Bloomberg report.
-  🔗 https://www.livemint.com/companies/news/layoff-news-jack-dorsey-block-plans-10-pc-job-cuts-workforce-employee-performance-reviews-business-overhaul-tech-company-11770517108275.html
+- How Markets Became One Giant Momentum Trade - Bloomberg.com
+  &nbsp;
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPLVVGN045X0tHMTUtRXo3NUtIcFNuYllRSlpnT09nd2MxWjc2UUJhdVMyczRJeUl4bnd2VklzTTQ2eElDWUEzWVczcVdyeGpVQzZvVjFsNU4ybnJjM3BmenZyYS1paU83SEJiNGlxVmpzZzk2TTEwVzhSTk94eG9JeGtxYzNiYi1kOFVvUmtCVm50XzBjZjZUMDlSelZnUQ?oc=5
 
-- SIF rollout narrows to equity and hybrid plays, complex strategies stay off the table
-   complex sector-betting funds are being left on the drawing board due to structural risks and high costs. Hybrid Specialized Investment Funds are
-  🔗 https://www.livemint.com/market/specialized-investment-funds-dominance-equity-hybrid-debt-market-trends-investor-demand-11770535350841.html
+- Foreign investors return to Indian equity markets with Rs 8,129 crore in early February after 3-months of - Times of India
+  Foreign investors return to Indian equity markets with Rs 8,129 crore in early February after
+  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxNOVNfNjdXa3FzM01SbER2RUthaHlod1FHeWVnMFdJXzU1Uk44U0QtMUFKNi1lSmNUaklfWS1CYmpncHpDUnlic2NKQktncDc3eUdRSjVxU1k2VGxWTkVTMUVnMndTY0UtbFQtcGpSRng0X1ZFcGtCMTh6V2U0MGdXQlpRMkNoc3VYZDZrM2VyWXk1Q2tuWlkwOGdPekNid0RsM2JvQW5iSm5Rak9yQ01GNXZwaWpFNDg4dm1vTEsxLVVEYzJQZVd5S3NWUHFKNkRwRGNVRTAyYUlUMzkzODJBQkluMnYyS2ZOR28yeDdUdURWZEZnOUs0VGdtTy1WZmRaenpzSURydWZEcGlaMXdhOGpyR1RnWm1LNVFsTjYtdldrNWY00gGqAkFVX3lxTE1YN2dfQmt3THlKTFdiSjdBeTNycU9lMlhWclhEei1GaG9kUjlTTEFleHdSMGRteUI3QUFHTmlZUmlOZHYteHFWMUpvTzQxRDMza1VrWk9EWVQzVWc3anNHMkFhYWRnS3BJa1BIVTFOY2Fzal9SSmE2SU40S3I1MGFoeTBFd3ppRGJMSkxHUlg3WDVzdi0ta1lZczhtNzk2czRUTy02U0UwV3N6YWZ2OTF2SUp2eFVPRXp5TDd0a256UXhfQmk5eDBYZUFfUTJwV3NHVDd1YVZqWkY0TzVORjkzcnRYZ0F0azZNOWE5aFJkLTlEbVJNS2RSaEFzU3hEMVA1R21vRnBRYUNScXJJck83MWN6MzBaUXMyWUdSVGxNam85eG9UNU9LTXc?oc=5
 
-- Investors chase cheaper, smaller companies as risk aversion hits tech sector
-  Investors chase cheaper, smaller companies as risk
-  🔗 https://www.livemint.com/market/investors-chase-cheaper-smaller-companies-as-risk-aversion-hits-tech-sector-11770548499174.html
+- Why did Anthropic’s Claude Cowork plugins spook markets? | The Hindu Explains - thehindu.com
+  Why did Anthropic’s Claude Cowork
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeTNia3pvTXJ0Zzc2RmRXaktWOU12VXd3aUh5dmpwYjExX2k4bTVlbjlLdVJLd2Y2bWl1S3UzVUN6UzBIdC02R3BtZGo0Uld5WDh1SEZmTFZkUDhIU1o3TnN1UGVqMzFiV3ZGVTZ1UGNMOFg1TnhaWHVpUkdnVDBiamhjUzFqX0hVUENKVUsta1VMcWN5Z2xHb2Jlc21iS1FWeEZUUDdkYU5jcGZFVHN1YW81OVhoMzhFV2s5cnFqd3RTQVpRT002U21zczZfdGtxTUpVU0I5WGdtdzkxV1I3QWJleWZmOE3SAe4BQVVfeXFMT3dBMk1rcXppRFJEaWsxS1gtbmxLTkhSU0RBOEVBUk1uTExZdDRXekNPZk9RaDQ5NEl0Tk54czJIdlY2Q2lKc3FkTmVzSXVkQzZJeDhDN3RnWmlobVE2UllqYkw2aHRzZGs1ODBTenFYLW03ZmVoRWtVeXVMZGhCaGMtanMzTE56bks0c3o0anQxcGlWaEhHRjZabmFQRFFyeGJwUXZaRDRkY2hWcXBxaEx3b1hTNFpORnRSdG90bkJ3d0pWYl83TEktRDZVY0VrZHBnbFh1RmlHRURuZHlBXzNHaGg1STdMMkczUjBoZw?oc=5
 
-- Gold, silver rates today: Gold, silver prices in India drop by up to 40% from record high. Is it right time to buy?
-  MCX gold price is nearly 23% down from the record high price of  ₹1,93,096 touched on January 29.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-silver-price-in-india-retraces-up-to-3-from-record-high-is-it-right-time-to-buy-11770544462444.html
+- Warsh pick jolts markets: Dollar nears 98, gold whipsaws 21% then snaps back, oil rebounds above Rs 5,900 - Moneycontrol
+  "Moneycontrol" is a website that provides analysis of the global financial markets.
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcElKYjhxT2dsQk9pVzN3NDhSMHd0d21LSWljTFFVYmFnRkdrTWVwVU9pWHFydHZmbWNSU0tTbHJGLTVOcWRNWEYycWZhbExIVTg0YkQ0emFyLUFEREVCcU80Tlp4YUd6R2FndXNpTk1KM3ZkQ1hLR1NkbW85NW44QkR3MGg0WVNmTEtLS0lEN0d6a0lub195TkliTDRDSXF5QWJMWDVhNVJKN2lKUFEzZUpQUF9hdFV3b2w0TTdTTGxUYXlpbXhqTmMxakhSbGJYRTR3QlFoRG5JU1FCMnFCUk9URGJlYURGVmMxYmliQ0RVdm41bExSelhxdjRXNnPSAYQCQVVfeXFMT3RPRnZhLXFHR1otYVU3ektEeWZ4ekt2VmtObDlnYjlkSTBLYVMzUTFXbF9SdEZiQUdVXzBLcTRJMjFBLWhRdlZ3NWxpZnlwZjd2NFh6RVJzX04zZFFnMmcyZThaekRGZGdodWVkMjNQY2ZkeExRVG5yYmlKVHpNVDU1MGlGMWpkeHE0Ym9nM25lSUx0aWhFbjlTd29TMmFuTFgwU2VvakJFMENlN0ZTX2hRYnZhVkFTQklvNjhHZUZzRmRQcTliX3lhY3ZYVlloQkhBUUpFRWJCSGw1eEN1ZU01ZEtMQTg0SGU4b0NpU3VucnVkdnNVZ21UTG1xemZTWkMxbDI?oc=5
 
-- Dividend Stocks: Bharat Dynamics, Hero MotoCorp, RVNL, among others to trade ex-dividend next week; Full list here
-  Bharat Dynamics, Hero MotoCorp, RVNL, Container Corp., Power Grid Corp., Emami, NHPC, and Cummins India are among other firms which will
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-bharat-dynamics-hero-motocorp-rvnl-among-others-to-trade-ex-dividend-next-week-full-list-here-11770543499748.html
+- Apple reportedly readies iOS 26.4 with smarter Siri and Intelligence tools: What to expect
+  iOS 26.4 is expected to bring a major Siri overhaul with Apple Intelligence, personal context, on-screen awareness and cross-app actions. The
+  🔗 https://www.livemint.com/technology/tech-news/apple-reportedly-readies-ios-26-4-with-smarter-siri-and-intelligence-tools-what-to-expect-11770571528463.html
 
-- Can Meta stock join $4 trillion club by 2032? Here's what US-based financial advisory firm says
-   Meta Platforms' stock can potentially join the $4 trillion club in the next six years, predicts a US-based financial advisory firm in its recent article.
-  🔗 https://www.livemint.com/market/stock-market-news/can-meta-stock-join-4-trillion-club-by-2032-heres-what-us-based-financial-advisory-firm-says-11770540239584.html
+- Will X get a native AI video editor? Product head Nikita Bier responds
+  Nikita Bier reveals he built a working video editor for X in 15 minutes using AI. He shows how fast AI is resh
+  🔗 https://www.livemint.com/technology/tech-news/will-x-get-a-native-ai-video-editor-product-head-nikita-bier-responds-11770557972721.html
 
 - Avoid costly, large LLM buildouts; focus on smaller models: Sridhar Vembu on India AI strategy
   Sridhar Vembu: Avoid costly,
@@ -92,13 +100,9 @@
   Apple is reportedly testing major camera upgrades for future iPhones. Changes could improve low light shots, depth control and zoom performance.
   🔗 https://www.livemint.com/technology/tech-news/apple-iphone-18-pro-leak-hints-at-big-gains-in-night-photography-what-to-expect-11770548699821.html
 
-- Thinking of upgrading your gaming laptop? These RTX 4050 deals start at  ₹79,990
-  These Intel powered gaming laptops from ASUS, Lenovo, HP and Acer with RTX 4050 GPUs deliver smooth gaming performance
-  🔗 https://www.livemint.com/technology/gadgets/thinking-of-upgrading-your-gaming-laptop-these-rtx-4050-deals-start-at-rs-79990-11770372908958.html
-
-- Over 2,000 GCCs signal India’s rising clout in AI and technology services: Union Minister Ashwini Vaishnaw
-  Union Minister Ashwini Vaishnaw says India’s IT sector is shifting to an AI-led services model. Government, industry and academia work together to position the country as
-  🔗 https://www.livemint.com/technology/tech-news/over-2-000-gccs-signal-india-s-rising-clout-in-ai-and-technology-services-union-minister-ashwini-vaishnaw-11770485192206.html
+- Gold holds the ground as traders track US inflation data: Analysts
+  Traders will look for cues from US GDP, PMI, non-farm payroll and inflation data. Speeches from US Federal Reserve officials will be closely tracked as well for indications on the timing of potential rate cuts.
+  🔗 https://www.business-standard.com/markets/commodities/gold-holds-the-ground-as-traders-track-us-inflation-data-analysts-126020800479_1.html
 
 - Inflation data, Q3 earnings likely to drive stock markets this week
   Inflation data, trading activity of foreign investors and global trends would dictate sentiment in the stock market this week.Besides, geopolitical developments and Q3 earnings will also guide market movement during the week.
@@ -115,10 +119,6 @@
 - Godawari Power & Ispat board approves additional investment in Godawari New Energy
   
   🔗 https://www.business-standard.com/markets/capital-market-news/godawari-power-ispat-board-approves-additional-investment-in-godawari-new-energy-126020700601_1.html
-
-- Board of Godawari Power & Ispat approves disposal of entire stake in Ardent Steel
-  
-  🔗 https://www.business-standard.com/markets/capital-market-news/board-of-godawari-power-ispat-approves-disposal-of-entire-stake-in-ardent-steel-126020700600_1.html
 
 - Ahead of Market: 10 things that will decide stock market action on Monday
   Indian benchmark indices closed higher on the back of buying interest in consumer and private banking stocks. Gains were limited by selling pressure
@@ -140,105 +140,85 @@
   The successful conclusion of an interim trade framework agreement between India and the US will boost investor confidence, says Sundararaman Ramamurthy, MD and CEO, Bombay Stock Exchange.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-trade-deal-framework-to-boost-investor-confidence-strength-capital-flows-deepen-markets-bse-chief/articleshow/128061728.cms
 
-- India-US trade deal LIVE | Goyal on Trump's Russian oil condition: 'Buying from US is in India's own interest' | India News - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRU
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRUtVNXBtOC1PbEZoalZxdFc4LXlpYXNTcXNOc2djWXR4U2lTUXJ5Q1c0clJfbGxSeDFyYVNjSHZXWHpPT0JHVU41U0ppQnlZQVJIa1ZicVFrcTM4N1VlQlU1ZlpGaTFkZEFyaVhZLXJzM29JS2s2LUVKX2RIWkpUMGlzLXVIQjlzeHIxbDNwdFB5WFdnb2hVVXhyVnZEQkw00gGGAkFVX3lxTE9uZEZDRHdVRWlLQkRxTlNfR0xVSnZvTllTaVN5eFB6MmxIYWlqX0pRcVh1S1dnYVFBdWRTT2t1NmtsTEp4c2pmS0VGTGlDZ21PbXVoNG9TaDFGc01KMnBsZGFsTjIybDhaTWQza2xzUDM3MGF0N3o3bUY2YTg3U1lwV0twWE5FRXhocHVPcDVmam5qT1RTeGo2LUhQcVl0cGluQjhqWjhNU2I5aDIzSGNGRVRPUEVZRUlvZGtSQkg5Ul9QaGRJN3I1bGpwYXlHY2xzODhXTWNJSW9seWx6a2luaXZLTHVZZWtfbFlDbUlsdXBsSnZWR2YyeHZqblFHWHdKZFJPVVE?oc=5
+- India-US Trade Deal: Which Food Items Will Get Cheaper In India - NDTV Food
+  <ol><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ1
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ195RUtJOHNlR1JhQU9idVJjenlBQUxkZnRfRjNFWE55T05kXzdQVGFTZDFSbXRZSlhIRjdudlHSAacBQVVfeXFMTWY1TmlpUG9ldS1jcVBiXzUzNUFOZ2dnMG9oQlBMNzVCMXhJblhTcVJSREFtVHlxeVRDWk9pbXdDQThsaTBoREVKYnhKaUFDdURPT2RISEo0ZUs3dVhrRVhHYkhtY1prRi05UG13VFZDMHpSSE1UYXpiQnZVNlVLOFhiLVpiYzU4VzQ4TU1jWUpCM1dnMFJVMmhvWDZ0YUhIOGFOam1nYU0?oc=5
 
-- Top news of the day | February 7, 2026 - thehindu.com
-  The Hindu's top news of
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0txY0dQMlpLRHFnYkdZZ1p1RTBZdUtCRDdncXdnMFBJaHVmTTFhcG5vdkREazFwd3VrVWRUWXE3RXdqY0RQOWRHWnVpZHB6d1JZenlqb3ZZcDdqaF9Pa2FPeTJfWHBqenBDUTZQWEtlME1uV051b1V5OHB1QUFHeWhwcV9lUncwVEZxdDNR0gGUAUFVX3lxTE1FTDVVeU5RUW9JMVIxQzktTngwS3lVbk56NGpIam5jcG5ha3pmOWs4MmNXZ2hWX2dIUjczQlhtYW1iVTZYOE9wZUFuc0tBOFZjSnNzOWdXR1F0a3VqZF85SU40c2FYZHBLRUVZVWxTVkY2LWZXVk5aYmlBZGM1MGdjWFhoTUtvVjJucWhrbXhWd1QwQkQ?oc=5
+- PM Modi in Malaysia highlights: India, Malaysia renew pledges to boost trade, collaboration - thehindu.com
+  PM Modi in Malaysia highlights: India, Malaysia renew pledges
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaE9VMWw4YnlUQVVsd3FRQXBmY1hyNWh2ZjJ0NmJKOVQ4eFkyNUZWS3pJeFk4SjlDZWhBX1paVUVDY1VaR2kyZ3U4THRKMjZjdWhIN21HVVo3UlJOWUdTQjBoWld6Sm1tX0FNWGJDX0ltNVBhbVVmaktqQllmSTZoQUktLXdjaXp4Nkc5ZFVXZHBLbFp6WlVYMDJnWEg5Znl4ZFJfTnl0SGZUSXZneTQwazNvQ0JOWmhXY2lQRTNVSUJoUUExcnlpWnNzU0dueGtnSnQwd2VfcVJUd9IB4AFBVV95cUxNZTJ5MmUtSEV0X3NQZTJzSnR4SHlBOG02M01vbUU1M1FKZXZUWFRaY1I0NmlURGpiQklSdUJOLVdwVjVvOGxiZkJpN2otQjhCeWdNS0JDM3d0N1piNjZTMGljUXJ6VmpvbU5IckEwU0p5bGpib2E5SS1qejQtV3VFeVN1T1YwUGhJQ09nVTBvLWwzNjg4TVpRbHlpYXBMajhxRk1RYmVsdThVa3k4OFBIS0ZMd09Fa01MZlBiS3I1OVNmaVgxVkZ2djdRdUktYzZlTmJZbklPZFdlcEpvbUlsSw?oc=5
 
-- Private Aircraft Crashes In Karnataka, Occupants Eject Out, Suffer Injuries - NDTV
-  Private Aircraft Crashes In Karnataka,
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQTy1xeDFHd1pkY0FoN2dfRXRRTHZ4XzhJaHVFaHBfSlJFTXdSRkJPQ3E4bmZmaFpfc1dXdkp0MGh3WGpWVHAyemJCZVNSbVNlbTE0TzI5S2pIN1lzWG80ZWZaS1BlRDZTX1VCcV9IYlgzM0lLcS1fYzhWQjE5ai0xd1ZiYmVUcElLbmNyaHFZaWtSVHlxVXNLdUJEbkJ5SmQ3T04xT1RzMzd3QWJWME9OR21McjXSAbwBQVVfeXFMTkx0SGNIYUZ0MElENXdVLXZUVW5NaldwcThvcTdsUUFpbko1eEVoQTNMdGpzN0diU2JKZk1tTEtFUUFRNUZvQzBVanRRamE1RkdBeXdtLUNlMHJMOTBZSG1ZS0p0UnpHVzhSSWJFcWM2UDVOVjdYcGZPSklRV1R6b29xaUdDZDBIZDluOTlUTGtuUDd6Z2VSQmVrQllQQzN6bUhWUVhHQV80VEU2NG5BS0xMSVUxeDdtc2ZwX08?oc=5
+- India, Malaysia sign 11 MoUs during Modi's visit - Times of India
+  India, Malaysia sign 11 MoUs during
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnI2dVBxOG45aGVTOFFpSlJ2anNDYUlLRUM2dWhhZUltZlNreml3YTBlSUxGOHJ4RFpqSXhQXzBJXzY1dTVoN3ZrcVpkTWMwNkhoT3ZrLWJVMHhxRXdybW1pVktVRXI5NURia3B3X1hleEt5UDgxZnNWZTJxaUN2WVRxclVVc1gzTHJnSExZS1lGeFJlWHhVSlVXcW1YR3JZTTBkNVBwTG4tcGlRU24zOXpXMmfSAboBQVVfeXFMTXFqREwyd0dOaDAtOTFZQzd2TkRIU281MUhycmJnMEcxYVZFcXZpT2h4MDRhVW4zTi1qQS1UNWU1N0U0TXVQZHd5YS1QRC01a1RMMVcwYzloVmc2WEFmUHVLWDVDNnJzampiak1PZC1aendKeXdoQVA5MVFyVmhkVHBBcThpUlBPRXA5azFsclRpNng2XzlKNDlLV3JKZE91T0hNenZsYV9xOWVFdWVZcjdwWUJOUGhoWUlR?oc=5
 
-- Breaking News Live Updates: A private jet crashes in Karnataka’s Vijayapura; both occupants eject out - The Economic Times
-  A private jet crashes in Karnataka’s Vijayapura;
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUUY3S2pSbFNQbzN3Y252T1A0eE5RMHRYazNINjlMcHZPUTF2RXBqaWl0WHdGMlBTYjRSaTZXbF9xSHY1dFNsWVJTOWxKT093NjRVVWpSM1Z2UHNGZVA1YW96Z1dNYVRfUE5ET0Z3bGdrMUNUWkdlQnJ0VlQ2QnZNMXBMWi1uSVZ1cHRQazRTc0RqU1RVQVh2S1pvVWphTGR5cS12SEU2czZlOHJMN3ozUEFISVlFYVppZnVJS3c2OXZmWjVBQXpQUnFaVS1WY2xvVVd6S0xZaHc3YlB1NlN1V3VkeElOS3N2MXhnN016MnUwOGVaQW5UYmZYZnhILU3SAYQCQVVfeXFMTU1udUg5bDdzZFJTc0RMT0gxWEFyOUc3cTRGMEg3Nk8yN0E1ODZOVmMySkhVM2hwYWtlVm4yRExJWWxTT05vOXQ5WjBaa19mdzgzNG9nbEUxYUZWZC1YV3lUVUllVFNLUU10X1RkaTU3OWVJa29Ucm5QZWdSX09KZE9vYTlKZE9OZG5qa3RCVEhIM0IzSk1YTEhBUk02eVBxN21YYmUtMUVQQ053enA0VWUxZ1RtbThmM1RQY1ppUXE4N1dhbDZtWlFMV01kdE9fQVp3b1M5emVjN2piZXA2NjJBblNNMlEzSXVwUG8tM0dzZ2dUUVJ4NTFoSzVVa0JKSEw1TE8?oc=5
+- India and Malaysia pledge to bolster trade, defence collaborations - Al Jazeera
+  India and Malaysia pledge to bolster trade,
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUFDWHhQbnZkWlhkY1BnWHZ0aFFIM3FBMVFDaV9BR1o5ZWRlbWVsTWJWdjFZUGczNWJ6QnlWVGdmMGdVSVV4cU9Edzk4Mm1kMTkwLTF6Zm1obWJ6ZUxZZTBLT2lGek1oTTNYSFlWMV9rWW1nUkhWT3hoSU5CelZJd0RFLTZSVmZkNkhDZWoxRmpmUjk3NGFZUDd2XzdwYzc5eGkwLXlybm3SAa4BQVVfeXFMUDZ5OFJwc211QkU4MGt4enBPY0Z4QVpnWmQyaC1NajNHc1BDQUxLY0ZOeUVWbmZURm5TUWFYR2NaQXg4aUdUbzhoVmRJS3pzQ1BTMl9Nd1Z5Wkd6R0Ffd0huLVJtSEdDX2hKaWhnbGZZS2l3NjBLUzNsSTk4bTdXb2ptdFVNRXpZb1dBT29ibUczRnRyMFBkNVNSN19ZMkh1WWlfYk0xVU9IS0lYOEJn?oc=5
 
-- T20 World Cup: India vs Pakistan likely to go ahead after ICC, PCB talks - Times of India
-  India vs Pakistan likely to go ahead after ICC, PCB talks.
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxQLXZudGR3MUxyYkhkN20wbFJqVExFSTFLemhBVUMxNU1wYklBTnMtZkNSX2NkbDduQXhKX0RHOFpaX0JzWEZsQ1BtUzRFb0dES0hDNWdzSkhNUEZtNVRVR1NUME1FRExySEE4WGRTYTJ6dkR5ejlYUHEtZE9FVExsTl9NRkxUS3Zod1ZfRjdUek1fX1RpSGNOZnVpYnF1UC1IeE01OEVYVXYzUU5tb0hwdkVmajVLQ3lEZmlZc1VlLVZmTEVnWnRRM3d6ME5BMWo0MGpWOThXTDNyOVNieXMzem5uSlg0X2t2YVlyb0NxdVRsMHVzMVpTX3pGRdIBgAJBVV95cUxQeF9xbnBUYzItTGhFOE1IWUJzdC1CckdvQmU5d1A0amN0OWVhS2RlVmFQNE5jWjJrXzNMRHFLdFRDWXdlOXlkal9Cam1HeWJYblZoemJfaDVKY3RzQWp3MlBndkk0RW1TN0I5QzltRXQtVERnSWNLUzJoZVJQcjc1MFlYdEFIalBFSk9nbmwtZWxnb2xQbEpRTWtCM2ZXd0xSRXJuelN2S01fOHhUank2ZDhRX2dFbnRfRjcwcGRpcERqNDktSXZhYTYtb01ReDhDUGVPanBIVEUwWExUZTNJSWpVVHpiUEZFSEZTazNpX0tSbWJMQ3B2cDYzZTBvNzMz?oc=5
+- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
+  India coal mine blast leaves 18 dead, others
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
 
-- India-US trade deal LIVE | Goyal on Trump's Russian oil condition: 'Buying from US is in India's own interest' | India News - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRU
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRUtVNXBtOC1PbEZoalZxdFc4LXlpYXNTcXNOc2djWXR4U2lTUXJ5Q1c0clJfbGxSeDFyYVNjSHZXWHpPT0JHVU41U0ppQnlZQVJIa1ZicVFrcTM4N1VlQlU1ZlpGaTFkZEFyaVhZLXJzM29JS2s2LUVKX2RIWkpUMGlzLXVIQjlzeHIxbDNwdFB5WFdnb2hVVXhyVnZEQkw00gGGAkFVX3lxTE9uZEZDRHdVRWlLQkRxTlNfR0xVSnZvTllTaVN5eFB6MmxIYWlqX0pRcVh1S1dnYVFBdWRTT2t1NmtsTEp4c2pmS0VGTGlDZ21PbXVoNG9TaDFGc01KMnBsZGFsTjIybDhaTWQza2xzUDM3MGF0N3o3bUY2YTg3U1lwV0twWE5FRXhocHVPcDVmam5qT1RTeGo2LUhQcVl0cGluQjhqWjhNU2I5aDIzSGNGRVRPUEVZRUlvZGtSQkg5Ul9QaGRJN3I1bGpwYXlHY2xzODhXTWNJSW9seWx6a2luaXZLTHVZZWtfbFlDbUlsdXBsSnZWR2YyeHZqblFHWHdKZFJPVVE?oc=5
+- India-US Trade Deal: Which Food Items Will Get Cheaper In India - NDTV Food
+  <ol><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ1
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ195RUtJOHNlR1JhQU9idVJjenlBQUxkZnRfRjNFWE55T05kXzdQVGFTZDFSbXRZSlhIRjdudlHSAacBQVVfeXFMTWY1TmlpUG9ldS1jcVBiXzUzNUFOZ2dnMG9oQlBMNzVCMXhJblhTcVJSREFtVHlxeVRDWk9pbXdDQThsaTBoREVKYnhKaUFDdURPT2RISEo0ZUs3dVhrRVhHYkhtY1prRi05UG13VFZDMHpSSE1UYXpiQnZVNlVLOFhiLVpiYzU4VzQ4TU1jWUpCM1dnMFJVMmhvWDZ0YUhIOGFOam1nYU0?oc=5
 
-- Top news of the day | February 7, 2026 - thehindu.com
-  The Hindu's top news of
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0txY0dQMlpLRHFnYkdZZ1p1RTBZdUtCRDdncXdnMFBJaHVmTTFhcG5vdkREazFwd3VrVWRUWXE3RXdqY0RQOWRHWnVpZHB6d1JZenlqb3ZZcDdqaF9Pa2FPeTJfWHBqenBDUTZQWEtlME1uV051b1V5OHB1QUFHeWhwcV9lUncwVEZxdDNR0gGUAUFVX3lxTE1FTDVVeU5RUW9JMVIxQzktTngwS3lVbk56NGpIam5jcG5ha3pmOWs4MmNXZ2hWX2dIUjczQlhtYW1iVTZYOE9wZUFuc0tBOFZjSnNzOWdXR1F0a3VqZF85SU40c2FYZHBLRUVZVWxTVkY2LWZXVk5aYmlBZGM1MGdjWFhoTUtvVjJucWhrbXhWd1QwQkQ?oc=5
+- PM Modi in Malaysia highlights: India, Malaysia renew pledges to boost trade, collaboration - thehindu.com
+  PM Modi in Malaysia highlights: India, Malaysia renew pledges
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaE9VMWw4YnlUQVVsd3FRQXBmY1hyNWh2ZjJ0NmJKOVQ4eFkyNUZWS3pJeFk4SjlDZWhBX1paVUVDY1VaR2kyZ3U4THRKMjZjdWhIN21HVVo3UlJOWUdTQjBoWld6Sm1tX0FNWGJDX0ltNVBhbVVmaktqQllmSTZoQUktLXdjaXp4Nkc5ZFVXZHBLbFp6WlVYMDJnWEg5Znl4ZFJfTnl0SGZUSXZneTQwazNvQ0JOWmhXY2lQRTNVSUJoUUExcnlpWnNzU0dueGtnSnQwd2VfcVJUd9IB4AFBVV95cUxNZTJ5MmUtSEV0X3NQZTJzSnR4SHlBOG02M01vbUU1M1FKZXZUWFRaY1I0NmlURGpiQklSdUJOLVdwVjVvOGxiZkJpN2otQjhCeWdNS0JDM3d0N1piNjZTMGljUXJ6VmpvbU5IckEwU0p5bGpib2E5SS1qejQtV3VFeVN1T1YwUGhJQ09nVTBvLWwzNjg4TVpRbHlpYXBMajhxRk1RYmVsdThVa3k4OFBIS0ZMd09Fa01MZlBiS3I1OVNmaVgxVkZ2djdRdUktYzZlTmJZbklPZFdlcEpvbUlsSw?oc=5
 
-- Private Aircraft Crashes In Karnataka, Occupants Eject Out, Suffer Injuries - NDTV
-  Private Aircraft Crashes In Karnataka,
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQTy1xeDFHd1pkY0FoN2dfRXRRTHZ4XzhJaHVFaHBfSlJFTXdSRkJPQ3E4bmZmaFpfc1dXdkp0MGh3WGpWVHAyemJCZVNSbVNlbTE0TzI5S2pIN1lzWG80ZWZaS1BlRDZTX1VCcV9IYlgzM0lLcS1fYzhWQjE5ai0xd1ZiYmVUcElLbmNyaHFZaWtSVHlxVXNLdUJEbkJ5SmQ3T04xT1RzMzd3QWJWME9OR21McjXSAbwBQVVfeXFMTkx0SGNIYUZ0MElENXdVLXZUVW5NaldwcThvcTdsUUFpbko1eEVoQTNMdGpzN0diU2JKZk1tTEtFUUFRNUZvQzBVanRRamE1RkdBeXdtLUNlMHJMOTBZSG1ZS0p0UnpHVzhSSWJFcWM2UDVOVjdYcGZPSklRV1R6b29xaUdDZDBIZDluOTlUTGtuUDd6Z2VSQmVrQllQQzN6bUhWUVhHQV80VEU2NG5BS0xMSVUxeDdtc2ZwX08?oc=5
+- India, Malaysia sign 11 MoUs during Modi's visit - Times of India
+  India, Malaysia sign 11 MoUs during
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnI2dVBxOG45aGVTOFFpSlJ2anNDYUlLRUM2dWhhZUltZlNreml3YTBlSUxGOHJ4RFpqSXhQXzBJXzY1dTVoN3ZrcVpkTWMwNkhoT3ZrLWJVMHhxRXdybW1pVktVRXI5NURia3B3X1hleEt5UDgxZnNWZTJxaUN2WVRxclVVc1gzTHJnSExZS1lGeFJlWHhVSlVXcW1YR3JZTTBkNVBwTG4tcGlRU24zOXpXMmfSAboBQVVfeXFMTXFqREwyd0dOaDAtOTFZQzd2TkRIU281MUhycmJnMEcxYVZFcXZpT2h4MDRhVW4zTi1qQS1UNWU1N0U0TXVQZHd5YS1QRC01a1RMMVcwYzloVmc2WEFmUHVLWDVDNnJzampiak1PZC1aendKeXdoQVA5MVFyVmhkVHBBcThpUlBPRXA5azFsclRpNng2XzlKNDlLV3JKZE91T0hNenZsYV9xOWVFdWVZcjdwWUJOUGhoWUlR?oc=5
 
-- Breaking News Live Updates: A private jet crashes in Karnataka’s Vijayapura; both occupants eject out - The Economic Times
-  A private jet crashes in Karnataka’s Vijayapura;
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUUY3S2pSbFNQbzN3Y252T1A0eE5RMHRYazNINjlMcHZPUTF2RXBqaWl0WHdGMlBTYjRSaTZXbF9xSHY1dFNsWVJTOWxKT093NjRVVWpSM1Z2UHNGZVA1YW96Z1dNYVRfUE5ET0Z3bGdrMUNUWkdlQnJ0VlQ2QnZNMXBMWi1uSVZ1cHRQazRTc0RqU1RVQVh2S1pvVWphTGR5cS12SEU2czZlOHJMN3ozUEFISVlFYVppZnVJS3c2OXZmWjVBQXpQUnFaVS1WY2xvVVd6S0xZaHc3YlB1NlN1V3VkeElOS3N2MXhnN016MnUwOGVaQW5UYmZYZnhILU3SAYQCQVVfeXFMTU1udUg5bDdzZFJTc0RMT0gxWEFyOUc3cTRGMEg3Nk8yN0E1ODZOVmMySkhVM2hwYWtlVm4yRExJWWxTT05vOXQ5WjBaa19mdzgzNG9nbEUxYUZWZC1YV3lUVUllVFNLUU10X1RkaTU3OWVJa29Ucm5QZWdSX09KZE9vYTlKZE9OZG5qa3RCVEhIM0IzSk1YTEhBUk02eVBxN21YYmUtMUVQQ053enA0VWUxZ1RtbThmM1RQY1ppUXE4N1dhbDZtWlFMV01kdE9fQVp3b1M5emVjN2piZXA2NjJBblNNMlEzSXVwUG8tM0dzZ2dUUVJ4NTFoSzVVa0JKSEw1TE8?oc=5
+- India and Malaysia pledge to bolster trade, defence collaborations - Al Jazeera
+  India and Malaysia pledge to bolster trade,
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUFDWHhQbnZkWlhkY1BnWHZ0aFFIM3FBMVFDaV9BR1o5ZWRlbWVsTWJWdjFZUGczNWJ6QnlWVGdmMGdVSVV4cU9Edzk4Mm1kMTkwLTF6Zm1obWJ6ZUxZZTBLT2lGek1oTTNYSFlWMV9rWW1nUkhWT3hoSU5CelZJd0RFLTZSVmZkNkhDZWoxRmpmUjk3NGFZUDd2XzdwYzc5eGkwLXlybm3SAa4BQVVfeXFMUDZ5OFJwc211QkU4MGt4enBPY0Z4QVpnWmQyaC1NajNHc1BDQUxLY0ZOeUVWbmZURm5TUWFYR2NaQXg4aUdUbzhoVmRJS3pzQ1BTMl9Nd1Z5Wkd6R0Ffd0huLVJtSEdDX2hKaWhnbGZZS2l3NjBLUzNsSTk4bTdXb2ptdFVNRXpZb1dBT29ibUczRnRyMFBkNVNSN19ZMkh1WWlfYk0xVU9IS0lYOEJn?oc=5
 
-- T20 World Cup: India vs Pakistan likely to go ahead after ICC, PCB talks - Times of India
-  India vs Pakistan likely to go ahead after ICC, PCB talks.
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxQLXZudGR3MUxyYkhkN20wbFJqVExFSTFLemhBVUMxNU1wYklBTnMtZkNSX2NkbDduQXhKX0RHOFpaX0JzWEZsQ1BtUzRFb0dES0hDNWdzSkhNUEZtNVRVR1NUME1FRExySEE4WGRTYTJ6dkR5ejlYUHEtZE9FVExsTl9NRkxUS3Zod1ZfRjdUek1fX1RpSGNOZnVpYnF1UC1IeE01OEVYVXYzUU5tb0hwdkVmajVLQ3lEZmlZc1VlLVZmTEVnWnRRM3d6ME5BMWo0MGpWOThXTDNyOVNieXMzem5uSlg0X2t2YVlyb0NxdVRsMHVzMVpTX3pGRdIBgAJBVV95cUxQeF9xbnBUYzItTGhFOE1IWUJzdC1CckdvQmU5d1A0amN0OWVhS2RlVmFQNE5jWjJrXzNMRHFLdFRDWXdlOXlkal9Cam1HeWJYblZoemJfaDVKY3RzQWp3MlBndkk0RW1TN0I5QzltRXQtVERnSWNLUzJoZVJQcjc1MFlYdEFIalBFSk9nbmwtZWxnb2xQbEpRTWtCM2ZXd0xSRXJuelN2S01fOHhUank2ZDhRX2dFbnRfRjcwcGRpcERqNDktSXZhYTYtb01ReDhDUGVPanBIVEUwWExUZTNJSWpVVHpiUEZFSEZTazNpX0tSbWJMQ3B2cDYzZTBvNzMz?oc=5
+- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
+  India coal mine blast leaves 18 dead, others
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
 
-- India-US trade deal LIVE | Goyal on Trump's Russian oil condition: 'Buying from US is in India's own interest' | India News - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRU
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRUtVNXBtOC1PbEZoalZxdFc4LXlpYXNTcXNOc2djWXR4U2lTUXJ5Q1c0clJfbGxSeDFyYVNjSHZXWHpPT0JHVU41U0ppQnlZQVJIa1ZicVFrcTM4N1VlQlU1ZlpGaTFkZEFyaVhZLXJzM29JS2s2LUVKX2RIWkpUMGlzLXVIQjlzeHIxbDNwdFB5WFdnb2hVVXhyVnZEQkw00gGGAkFVX3lxTE9uZEZDRHdVRWlLQkRxTlNfR0xVSnZvTllTaVN5eFB6MmxIYWlqX0pRcVh1S1dnYVFBdWRTT2t1NmtsTEp4c2pmS0VGTGlDZ21PbXVoNG9TaDFGc01KMnBsZGFsTjIybDhaTWQza2xzUDM3MGF0N3o3bUY2YTg3U1lwV0twWE5FRXhocHVPcDVmam5qT1RTeGo2LUhQcVl0cGluQjhqWjhNU2I5aDIzSGNGRVRPUEVZRUlvZGtSQkg5Ul9QaGRJN3I1bGpwYXlHY2xzODhXTWNJSW9seWx6a2luaXZLTHVZZWtfbFlDbUlsdXBsSnZWR2YyeHZqblFHWHdKZFJPVVE?oc=5
+- India-US Trade Deal: Which Food Items Will Get Cheaper In India - NDTV Food
+  <ol><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ1
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ195RUtJOHNlR1JhQU9idVJjenlBQUxkZnRfRjNFWE55T05kXzdQVGFTZDFSbXRZSlhIRjdudlHSAacBQVVfeXFMTWY1TmlpUG9ldS1jcVBiXzUzNUFOZ2dnMG9oQlBMNzVCMXhJblhTcVJSREFtVHlxeVRDWk9pbXdDQThsaTBoREVKYnhKaUFDdURPT2RISEo0ZUs3dVhrRVhHYkhtY1prRi05UG13VFZDMHpSSE1UYXpiQnZVNlVLOFhiLVpiYzU4VzQ4TU1jWUpCM1dnMFJVMmhvWDZ0YUhIOGFOam1nYU0?oc=5
 
-- Top news of the day | February 7, 2026 - thehindu.com
-  The Hindu's top news of
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0txY0dQMlpLRHFnYkdZZ1p1RTBZdUtCRDdncXdnMFBJaHVmTTFhcG5vdkREazFwd3VrVWRUWXE3RXdqY0RQOWRHWnVpZHB6d1JZenlqb3ZZcDdqaF9Pa2FPeTJfWHBqenBDUTZQWEtlME1uV051b1V5OHB1QUFHeWhwcV9lUncwVEZxdDNR0gGUAUFVX3lxTE1FTDVVeU5RUW9JMVIxQzktTngwS3lVbk56NGpIam5jcG5ha3pmOWs4MmNXZ2hWX2dIUjczQlhtYW1iVTZYOE9wZUFuc0tBOFZjSnNzOWdXR1F0a3VqZF85SU40c2FYZHBLRUVZVWxTVkY2LWZXVk5aYmlBZGM1MGdjWFhoTUtvVjJucWhrbXhWd1QwQkQ?oc=5
+- PM Modi in Malaysia highlights: India, Malaysia renew pledges to boost trade, collaboration - thehindu.com
+  PM Modi in Malaysia highlights: India, Malaysia renew pledges
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaE9VMWw4YnlUQVVsd3FRQXBmY1hyNWh2ZjJ0NmJKOVQ4eFkyNUZWS3pJeFk4SjlDZWhBX1paVUVDY1VaR2kyZ3U4THRKMjZjdWhIN21HVVo3UlJOWUdTQjBoWld6Sm1tX0FNWGJDX0ltNVBhbVVmaktqQllmSTZoQUktLXdjaXp4Nkc5ZFVXZHBLbFp6WlVYMDJnWEg5Znl4ZFJfTnl0SGZUSXZneTQwazNvQ0JOWmhXY2lQRTNVSUJoUUExcnlpWnNzU0dueGtnSnQwd2VfcVJUd9IB4AFBVV95cUxNZTJ5MmUtSEV0X3NQZTJzSnR4SHlBOG02M01vbUU1M1FKZXZUWFRaY1I0NmlURGpiQklSdUJOLVdwVjVvOGxiZkJpN2otQjhCeWdNS0JDM3d0N1piNjZTMGljUXJ6VmpvbU5IckEwU0p5bGpib2E5SS1qejQtV3VFeVN1T1YwUGhJQ09nVTBvLWwzNjg4TVpRbHlpYXBMajhxRk1RYmVsdThVa3k4OFBIS0ZMd09Fa01MZlBiS3I1OVNmaVgxVkZ2djdRdUktYzZlTmJZbklPZFdlcEpvbUlsSw?oc=5
 
-- Private Aircraft Crashes In Karnataka, Occupants Eject Out, Suffer Injuries - NDTV
-  Private Aircraft Crashes In Karnataka,
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQTy1xeDFHd1pkY0FoN2dfRXRRTHZ4XzhJaHVFaHBfSlJFTXdSRkJPQ3E4bmZmaFpfc1dXdkp0MGh3WGpWVHAyemJCZVNSbVNlbTE0TzI5S2pIN1lzWG80ZWZaS1BlRDZTX1VCcV9IYlgzM0lLcS1fYzhWQjE5ai0xd1ZiYmVUcElLbmNyaHFZaWtSVHlxVXNLdUJEbkJ5SmQ3T04xT1RzMzd3QWJWME9OR21McjXSAbwBQVVfeXFMTkx0SGNIYUZ0MElENXdVLXZUVW5NaldwcThvcTdsUUFpbko1eEVoQTNMdGpzN0diU2JKZk1tTEtFUUFRNUZvQzBVanRRamE1RkdBeXdtLUNlMHJMOTBZSG1ZS0p0UnpHVzhSSWJFcWM2UDVOVjdYcGZPSklRV1R6b29xaUdDZDBIZDluOTlUTGtuUDd6Z2VSQmVrQllQQzN6bUhWUVhHQV80VEU2NG5BS0xMSVUxeDdtc2ZwX08?oc=5
+- India, Malaysia sign 11 MoUs during Modi's visit - Times of India
+  India, Malaysia sign 11 MoUs during
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnI2dVBxOG45aGVTOFFpSlJ2anNDYUlLRUM2dWhhZUltZlNreml3YTBlSUxGOHJ4RFpqSXhQXzBJXzY1dTVoN3ZrcVpkTWMwNkhoT3ZrLWJVMHhxRXdybW1pVktVRXI5NURia3B3X1hleEt5UDgxZnNWZTJxaUN2WVRxclVVc1gzTHJnSExZS1lGeFJlWHhVSlVXcW1YR3JZTTBkNVBwTG4tcGlRU24zOXpXMmfSAboBQVVfeXFMTXFqREwyd0dOaDAtOTFZQzd2TkRIU281MUhycmJnMEcxYVZFcXZpT2h4MDRhVW4zTi1qQS1UNWU1N0U0TXVQZHd5YS1QRC01a1RMMVcwYzloVmc2WEFmUHVLWDVDNnJzampiak1PZC1aendKeXdoQVA5MVFyVmhkVHBBcThpUlBPRXA5azFsclRpNng2XzlKNDlLV3JKZE91T0hNenZsYV9xOWVFdWVZcjdwWUJOUGhoWUlR?oc=5
 
-- Breaking News Live Updates: A private jet crashes in Karnataka’s Vijayapura; both occupants eject out - The Economic Times
-  A private jet crashes in Karnataka’s Vijayapura;
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUUY3S2pSbFNQbzN3Y252T1A0eE5RMHRYazNINjlMcHZPUTF2RXBqaWl0WHdGMlBTYjRSaTZXbF9xSHY1dFNsWVJTOWxKT093NjRVVWpSM1Z2UHNGZVA1YW96Z1dNYVRfUE5ET0Z3bGdrMUNUWkdlQnJ0VlQ2QnZNMXBMWi1uSVZ1cHRQazRTc0RqU1RVQVh2S1pvVWphTGR5cS12SEU2czZlOHJMN3ozUEFISVlFYVppZnVJS3c2OXZmWjVBQXpQUnFaVS1WY2xvVVd6S0xZaHc3YlB1NlN1V3VkeElOS3N2MXhnN016MnUwOGVaQW5UYmZYZnhILU3SAYQCQVVfeXFMTU1udUg5bDdzZFJTc0RMT0gxWEFyOUc3cTRGMEg3Nk8yN0E1ODZOVmMySkhVM2hwYWtlVm4yRExJWWxTT05vOXQ5WjBaa19mdzgzNG9nbEUxYUZWZC1YV3lUVUllVFNLUU10X1RkaTU3OWVJa29Ucm5QZWdSX09KZE9vYTlKZE9OZG5qa3RCVEhIM0IzSk1YTEhBUk02eVBxN21YYmUtMUVQQ053enA0VWUxZ1RtbThmM1RQY1ppUXE4N1dhbDZtWlFMV01kdE9fQVp3b1M5emVjN2piZXA2NjJBblNNMlEzSXVwUG8tM0dzZ2dUUVJ4NTFoSzVVa0JKSEw1TE8?oc=5
+- India and Malaysia pledge to bolster trade, defence collaborations - Al Jazeera
+  India and Malaysia pledge to bolster trade,
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUFDWHhQbnZkWlhkY1BnWHZ0aFFIM3FBMVFDaV9BR1o5ZWRlbWVsTWJWdjFZUGczNWJ6QnlWVGdmMGdVSVV4cU9Edzk4Mm1kMTkwLTF6Zm1obWJ6ZUxZZTBLT2lGek1oTTNYSFlWMV9rWW1nUkhWT3hoSU5CelZJd0RFLTZSVmZkNkhDZWoxRmpmUjk3NGFZUDd2XzdwYzc5eGkwLXlybm3SAa4BQVVfeXFMUDZ5OFJwc211QkU4MGt4enBPY0Z4QVpnWmQyaC1NajNHc1BDQUxLY0ZOeUVWbmZURm5TUWFYR2NaQXg4aUdUbzhoVmRJS3pzQ1BTMl9Nd1Z5Wkd6R0Ffd0huLVJtSEdDX2hKaWhnbGZZS2l3NjBLUzNsSTk4bTdXb2ptdFVNRXpZb1dBT29ibUczRnRyMFBkNVNSN19ZMkh1WWlfYk0xVU9IS0lYOEJn?oc=5
 
-- T20 World Cup: India vs Pakistan likely to go ahead after ICC, PCB talks - Times of India
-  India vs Pakistan likely to go ahead after ICC, PCB talks.
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxQLXZudGR3MUxyYkhkN20wbFJqVExFSTFLemhBVUMxNU1wYklBTnMtZkNSX2NkbDduQXhKX0RHOFpaX0JzWEZsQ1BtUzRFb0dES0hDNWdzSkhNUEZtNVRVR1NUME1FRExySEE4WGRTYTJ6dkR5ejlYUHEtZE9FVExsTl9NRkxUS3Zod1ZfRjdUek1fX1RpSGNOZnVpYnF1UC1IeE01OEVYVXYzUU5tb0hwdkVmajVLQ3lEZmlZc1VlLVZmTEVnWnRRM3d6ME5BMWo0MGpWOThXTDNyOVNieXMzem5uSlg0X2t2YVlyb0NxdVRsMHVzMVpTX3pGRdIBgAJBVV95cUxQeF9xbnBUYzItTGhFOE1IWUJzdC1CckdvQmU5d1A0amN0OWVhS2RlVmFQNE5jWjJrXzNMRHFLdFRDWXdlOXlkal9Cam1HeWJYblZoemJfaDVKY3RzQWp3MlBndkk0RW1TN0I5QzltRXQtVERnSWNLUzJoZVJQcjc1MFlYdEFIalBFSk9nbmwtZWxnb2xQbEpRTWtCM2ZXd0xSRXJuelN2S01fOHhUank2ZDhRX2dFbnRfRjcwcGRpcERqNDktSXZhYTYtb01ReDhDUGVPanBIVEUwWExUZTNJSWpVVHpiUEZFSEZTazNpX0tSbWJMQ3B2cDYzZTBvNzMz?oc=5
+- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
+  India coal mine blast leaves 18 dead, others
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
 
-- India-US trade deal LIVE | Goyal on Trump's Russian oil condition: 'Buying from US is in India's own interest' | India News - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRU
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRUtVNXBtOC1PbEZoalZxdFc4LXlpYXNTcXNOc2djWXR4U2lTUXJ5Q1c0clJfbGxSeDFyYVNjSHZXWHpPT0JHVU41U0ppQnlZQVJIa1ZicVFrcTM4N1VlQlU1ZlpGaTFkZEFyaVhZLXJzM29JS2s2LUVKX2RIWkpUMGlzLXVIQjlzeHIxbDNwdFB5WFdnb2hVVXhyVnZEQkw00gGGAkFVX3lxTE9uZEZDRHdVRWlLQkRxTlNfR0xVSnZvTllTaVN5eFB6MmxIYWlqX0pRcVh1S1dnYVFBdWRTT2t1NmtsTEp4c2pmS0VGTGlDZ21PbXVoNG9TaDFGc01KMnBsZGFsTjIybDhaTWQza2xzUDM3MGF0N3o3bUY2YTg3U1lwV0twWE5FRXhocHVPcDVmam5qT1RTeGo2LUhQcVl0cGluQjhqWjhNU2I5aDIzSGNGRVRPUEVZRUlvZGtSQkg5Ul9QaGRJN3I1bGpwYXlHY2xzODhXTWNJSW9seWx6a2luaXZLTHVZZWtfbFlDbUlsdXBsSnZWR2YyeHZqblFHWHdKZFJPVVE?oc=5
+- India-US Trade Deal: Which Food Items Will Get Cheaper In India - NDTV Food
+  <ol><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ1
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ195RUtJOHNlR1JhQU9idVJjenlBQUxkZnRfRjNFWE55T05kXzdQVGFTZDFSbXRZSlhIRjdudlHSAacBQVVfeXFMTWY1TmlpUG9ldS1jcVBiXzUzNUFOZ2dnMG9oQlBMNzVCMXhJblhTcVJSREFtVHlxeVRDWk9pbXdDQThsaTBoREVKYnhKaUFDdURPT2RISEo0ZUs3dVhrRVhHYkhtY1prRi05UG13VFZDMHpSSE1UYXpiQnZVNlVLOFhiLVpiYzU4VzQ4TU1jWUpCM1dnMFJVMmhvWDZ0YUhIOGFOam1nYU0?oc=5
 
-- Top news of the day | February 7, 2026 - thehindu.com
-  The Hindu's top news of
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0txY0dQMlpLRHFnYkdZZ1p1RTBZdUtCRDdncXdnMFBJaHVmTTFhcG5vdkREazFwd3VrVWRUWXE3RXdqY0RQOWRHWnVpZHB6d1JZenlqb3ZZcDdqaF9Pa2FPeTJfWHBqenBDUTZQWEtlME1uV051b1V5OHB1QUFHeWhwcV9lUncwVEZxdDNR0gGUAUFVX3lxTE1FTDVVeU5RUW9JMVIxQzktTngwS3lVbk56NGpIam5jcG5ha3pmOWs4MmNXZ2hWX2dIUjczQlhtYW1iVTZYOE9wZUFuc0tBOFZjSnNzOWdXR1F0a3VqZF85SU40c2FYZHBLRUVZVWxTVkY2LWZXVk5aYmlBZGM1MGdjWFhoTUtvVjJucWhrbXhWd1QwQkQ?oc=5
+- PM Modi in Malaysia highlights: India, Malaysia renew pledges to boost trade, collaboration - thehindu.com
+  PM Modi in Malaysia highlights: India, Malaysia renew pledges
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaE9VMWw4YnlUQVVsd3FRQXBmY1hyNWh2ZjJ0NmJKOVQ4eFkyNUZWS3pJeFk4SjlDZWhBX1paVUVDY1VaR2kyZ3U4THRKMjZjdWhIN21HVVo3UlJOWUdTQjBoWld6Sm1tX0FNWGJDX0ltNVBhbVVmaktqQllmSTZoQUktLXdjaXp4Nkc5ZFVXZHBLbFp6WlVYMDJnWEg5Znl4ZFJfTnl0SGZUSXZneTQwazNvQ0JOWmhXY2lQRTNVSUJoUUExcnlpWnNzU0dueGtnSnQwd2VfcVJUd9IB4AFBVV95cUxNZTJ5MmUtSEV0X3NQZTJzSnR4SHlBOG02M01vbUU1M1FKZXZUWFRaY1I0NmlURGpiQklSdUJOLVdwVjVvOGxiZkJpN2otQjhCeWdNS0JDM3d0N1piNjZTMGljUXJ6VmpvbU5IckEwU0p5bGpib2E5SS1qejQtV3VFeVN1T1YwUGhJQ09nVTBvLWwzNjg4TVpRbHlpYXBMajhxRk1RYmVsdThVa3k4OFBIS0ZMd09Fa01MZlBiS3I1OVNmaVgxVkZ2djdRdUktYzZlTmJZbklPZFdlcEpvbUlsSw?oc=5
 
-- Private Aircraft Crashes In Karnataka, Occupants Eject Out, Suffer Injuries - NDTV
-  Private Aircraft Crashes In Karnataka,
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQTy1xeDFHd1pkY0FoN2dfRXRRTHZ4XzhJaHVFaHBfSlJFTXdSRkJPQ3E4bmZmaFpfc1dXdkp0MGh3WGpWVHAyemJCZVNSbVNlbTE0TzI5S2pIN1lzWG80ZWZaS1BlRDZTX1VCcV9IYlgzM0lLcS1fYzhWQjE5ai0xd1ZiYmVUcElLbmNyaHFZaWtSVHlxVXNLdUJEbkJ5SmQ3T04xT1RzMzd3QWJWME9OR21McjXSAbwBQVVfeXFMTkx0SGNIYUZ0MElENXdVLXZUVW5NaldwcThvcTdsUUFpbko1eEVoQTNMdGpzN0diU2JKZk1tTEtFUUFRNUZvQzBVanRRamE1RkdBeXdtLUNlMHJMOTBZSG1ZS0p0UnpHVzhSSWJFcWM2UDVOVjdYcGZPSklRV1R6b29xaUdDZDBIZDluOTlUTGtuUDd6Z2VSQmVrQllQQzN6bUhWUVhHQV80VEU2NG5BS0xMSVUxeDdtc2ZwX08?oc=5
+- India, Malaysia sign 11 MoUs during Modi's visit - Times of India
+  India, Malaysia sign 11 MoUs during
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnI2dVBxOG45aGVTOFFpSlJ2anNDYUlLRUM2dWhhZUltZlNreml3YTBlSUxGOHJ4RFpqSXhQXzBJXzY1dTVoN3ZrcVpkTWMwNkhoT3ZrLWJVMHhxRXdybW1pVktVRXI5NURia3B3X1hleEt5UDgxZnNWZTJxaUN2WVRxclVVc1gzTHJnSExZS1lGeFJlWHhVSlVXcW1YR3JZTTBkNVBwTG4tcGlRU24zOXpXMmfSAboBQVVfeXFMTXFqREwyd0dOaDAtOTFZQzd2TkRIU281MUhycmJnMEcxYVZFcXZpT2h4MDRhVW4zTi1qQS1UNWU1N0U0TXVQZHd5YS1QRC01a1RMMVcwYzloVmc2WEFmUHVLWDVDNnJzampiak1PZC1aendKeXdoQVA5MVFyVmhkVHBBcThpUlBPRXA5azFsclRpNng2XzlKNDlLV3JKZE91T0hNenZsYV9xOWVFdWVZcjdwWUJOUGhoWUlR?oc=5
 
-- Breaking News Live Updates: A private jet crashes in Karnataka’s Vijayapura; both occupants eject out - The Economic Times
-  A private jet crashes in Karnataka’s Vijayapura;
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUUY3S2pSbFNQbzN3Y252T1A0eE5RMHRYazNINjlMcHZPUTF2RXBqaWl0WHdGMlBTYjRSaTZXbF9xSHY1dFNsWVJTOWxKT093NjRVVWpSM1Z2UHNGZVA1YW96Z1dNYVRfUE5ET0Z3bGdrMUNUWkdlQnJ0VlQ2QnZNMXBMWi1uSVZ1cHRQazRTc0RqU1RVQVh2S1pvVWphTGR5cS12SEU2czZlOHJMN3ozUEFISVlFYVppZnVJS3c2OXZmWjVBQXpQUnFaVS1WY2xvVVd6S0xZaHc3YlB1NlN1V3VkeElOS3N2MXhnN016MnUwOGVaQW5UYmZYZnhILU3SAYQCQVVfeXFMTU1udUg5bDdzZFJTc0RMT0gxWEFyOUc3cTRGMEg3Nk8yN0E1ODZOVmMySkhVM2hwYWtlVm4yRExJWWxTT05vOXQ5WjBaa19mdzgzNG9nbEUxYUZWZC1YV3lUVUllVFNLUU10X1RkaTU3OWVJa29Ucm5QZWdSX09KZE9vYTlKZE9OZG5qa3RCVEhIM0IzSk1YTEhBUk02eVBxN21YYmUtMUVQQ053enA0VWUxZ1RtbThmM1RQY1ppUXE4N1dhbDZtWlFMV01kdE9fQVp3b1M5emVjN2piZXA2NjJBblNNMlEzSXVwUG8tM0dzZ2dUUVJ4NTFoSzVVa0JKSEw1TE8?oc=5
+- India and Malaysia pledge to bolster trade, defence collaborations - Al Jazeera
+  India and Malaysia pledge to bolster trade,
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUFDWHhQbnZkWlhkY1BnWHZ0aFFIM3FBMVFDaV9BR1o5ZWRlbWVsTWJWdjFZUGczNWJ6QnlWVGdmMGdVSVV4cU9Edzk4Mm1kMTkwLTF6Zm1obWJ6ZUxZZTBLT2lGek1oTTNYSFlWMV9rWW1nUkhWT3hoSU5CelZJd0RFLTZSVmZkNkhDZWoxRmpmUjk3NGFZUDd2XzdwYzc5eGkwLXlybm3SAa4BQVVfeXFMUDZ5OFJwc211QkU4MGt4enBPY0Z4QVpnWmQyaC1NajNHc1BDQUxLY0ZOeUVWbmZURm5TUWFYR2NaQXg4aUdUbzhoVmRJS3pzQ1BTMl9Nd1Z5Wkd6R0Ffd0huLVJtSEdDX2hKaWhnbGZZS2l3NjBLUzNsSTk4bTdXb2ptdFVNRXpZb1dBT29ibUczRnRyMFBkNVNSN19ZMkh1WWlfYk0xVU9IS0lYOEJn?oc=5
 
-- T20 World Cup: India vs Pakistan likely to go ahead after ICC, PCB talks - Times of India
-  India vs Pakistan likely to go ahead after ICC, PCB talks.
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxQLXZudGR3MUxyYkhkN20wbFJqVExFSTFLemhBVUMxNU1wYklBTnMtZkNSX2NkbDduQXhKX0RHOFpaX0JzWEZsQ1BtUzRFb0dES0hDNWdzSkhNUEZtNVRVR1NUME1FRExySEE4WGRTYTJ6dkR5ejlYUHEtZE9FVExsTl9NRkxUS3Zod1ZfRjdUek1fX1RpSGNOZnVpYnF1UC1IeE01OEVYVXYzUU5tb0hwdkVmajVLQ3lEZmlZc1VlLVZmTEVnWnRRM3d6ME5BMWo0MGpWOThXTDNyOVNieXMzem5uSlg0X2t2YVlyb0NxdVRsMHVzMVpTX3pGRdIBgAJBVV95cUxQeF9xbnBUYzItTGhFOE1IWUJzdC1CckdvQmU5d1A0amN0OWVhS2RlVmFQNE5jWjJrXzNMRHFLdFRDWXdlOXlkal9Cam1HeWJYblZoemJfaDVKY3RzQWp3MlBndkk0RW1TN0I5QzltRXQtVERnSWNLUzJoZVJQcjc1MFlYdEFIalBFSk9nbmwtZWxnb2xQbEpRTWtCM2ZXd0xSRXJuelN2S01fOHhUank2ZDhRX2dFbnRfRjcwcGRpcERqNDktSXZhYTYtb01ReDhDUGVPanBIVEUwWExUZTNJSWpVVHpiUEZFSEZTazNpX0tSbWJMQ3B2cDYzZTBvNzMz?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
+  India coal mine blast leaves 18 dead, others
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
 
 - Moltbook was peak AI theater - MIT Technology Review
   Moltbook was peak
@@ -248,17 +228,17 @@
   AI technology can 'lighten load on
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iWkxEZTd3VldGeVUyZ1Q1M3VEYm1kZENNNlpyY3p2WTJBeGpFTU03ZE1fNy0yMnBMVmxSa01ZUFY2NHdfNWowaGswdjhYaFFzUXdRLTV0LXRRZw?oc=5
 
-- Starting March 17, America may not allow any of China's … - Times of India
-  Starting March 17, America may not allow any of China
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3RMd1A5YnptalJaNHExcjNGeV95LXBKcUszV3Q5LUljek5TeEZzVzRHaFBET0lvZXdjS08xUl85SnJ6d2htVm5kand4TW5DSkRxV1pmbEZJaEdHSTZwRjlwTGhrcTNnY3NYSkxoZ21hYzFqQnpkRGJKZ2RzTHhadkc4MlZhNmZFQ0RrRmVNRjNXbGVCT0QzOU15cVN3aG5DbUFrcUV0ZS1DdDJkMUJwQmZjNFJuTlRLQ1pNc28ycU9lcjF0MDI2WVA5Q3RrdlljaVlj0gHYAUFVX3lxTE9jRkdXVjR2Y1NQRkJkbGcyUUo3ZTdobnZJdWpDd2tvenIwOGFrMUpodGY2NWxFbDNFZ1dCLXY2NmNrVjIzTGJUWFlYYnA5RGZuN0Zub0ZJTFVrMC14RVF6UU5aeWRRUWU3bS1VY05ubjlSQms2M2NNRTl0ZTFSV0pSTkNtc0U2QnZXWW1jbHYzdmQzaDZUbmRtVDhZd1BxQktRZ2RpNlFJRlhPLXFEWTA4NDdpclIxc1UtdERpVzlRMmJxQndPTFhzdy1oRElaSnFNZktlM0p6Tw?oc=5
-
-- Teachers urged to use technology appropriately in classroom - thehindu.com
-  Teachers urged to use technology
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPbktaSlpDalo4RFZfaTNfTUViMnFHOTE1a3lMcXB4dVRHMGM3dThWa0xfTDNFalRDN0c0djNsT0N2QUFhMVpZOUhoVThSZnhRSnBMZnN0Q2NmemdiRnF2NnlJbFBEcWxURjVTUkljTDFnOHF6NDNYU1dlOXMzSzBMNUVRVzlPdDBnN0hEYkNYX3Zxb195bnBBODVyRzhJSjFMUXVidjJDRW83dllMU01jcmtKYzBROWMxeGFIbE82eTdrNEhzTW9n0gHOAUFVX3lxTE1PNWJBOWNoaTZkMERMYkpnTlZoa2VGQ2IwbnJQSXJnYWN4SEZibDl0UUI2WXc1TDJHX1RuMFZSejg1c0ljcGk4eENOQ2I4RkdUczFjUzl2cDB6dTBpZHdwaWJaWEZHSnlFU3ZEcllGdzcweU9yVFlLLWNQYm9kQkNlYnZFQU5jYTI5Wno1Y2dicHJyMWo0bXdETG9idHd3SVlJdTlNc3JZRTAzNEN1VndJUEwzZ0lpcm1SbktLTUJrcl9BZ3dpLV94emFEZ2Nn?oc=5
-
 - Join the Expert Panel of Speakers on Police Technology and Cyber Crime Investigation - The420.in
   Join the Expert Panel of Speakers on Police Technology and
   🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxPc08xWDBOb2VKME5lU1FHalZWcm11SEtnY1NhVXVBYmVQOU03UEJRLVg5amNUX01fdHpBRF9GTUtpNGpRdVFsbW1URkI0Rll0bTBBemlLM3daS01EekhlV1p5N28yYXlEMk91NUdidnpqSVdWazRmUDB3QldYcE15NncyRm5fLUtmdjFwUw?oc=5
 
+- Adopt advanced technology through ‘Smart policing’: SP - The Hans India
+  Adopt advanced technology through ‘
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTBzLURsMnBtMzc0QUQ3NE9pbzhGYmdIWTFWa1lGQ2hybEZyZkY4VXY2RWFiNV9QRVgwTGZrZS1GVlhjMnJSSHpWN1RoaTZFTDdhNnFRTVlzMXJXYmQ5blVVT0dfeTljMkdJaXZMd1loVEJ3bWlZSkdMSWQza21DY1NDVmhGS09YeU8wVGJBSUlha0tnTFdnOGY2cnhNRDdnY2p6em5R0gGrAUFVX3lxTE05VWxFUE5pNlpGUnJneW1JaDBVVDB6Y2dBWVlmLTNuNTV0dFpVSkJuakN1dXRnVzdZYktaOVJvazIzUURQdmlxZkFaTzFDRjNjdXZrMWRtSmVadzN6NnVNY2tNQnNKaXFBWHZYTVhCeWd0cWxjNkJuYXluOGNMQm9NWW13amJXVUpUZjA5ai1vQzc4VkdWbG5Td3hJQ1d5WXhQQkVEaGZ1SG1icw?oc=5
 
-_Last updated: 2026-02-08 12:42:12 UTC_
+- How new AI technology is helping detect and prevent wildfires - Scientific American
+  How new AI technology is helping detect and prevent
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOXVfM05TOW04Ri00S18yTnZXZmlRX21HdGxfNlZNczZBcm9pb1VaamNnUzNSY0ZiV2JuVng4WkRzUmZjdkZUcTRGenB0OXNYOHNVcWFQY2JDY21jSW01ajZhLXFpaVNlQm1meFh6WllIZlk4cnVNeW5XMlBqa1BoQnNvSnJuWm1YdlF3SGV3dk1zSW9KY0psMmttZldHWEJROXE2emxyMXo?oc=5
+
+
+_Last updated: 2026-02-08 18:33:36 UTC_
