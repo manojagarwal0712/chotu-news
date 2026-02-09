@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- IRCTC Divine East Temple Tour: Railways to operate Bharat Gaurav Deluxe Tourist train – check journey date, route, ticket price
+- 5 girls go out to play in Bihar village, only 1 returns — mystery continues
   
-  🔗 https://indianexpress.com/article/india/irctc-divine-east-temple-tour-railways-to-operate-bharat-gaurav-deluxe-tourist-train-check-journey-date-route-ticket-price-10521324/
+  🔗 https://indianexpress.com/article/india/girls-go-out-to-play-in-bihar-village-returns-mystery-continues-10521452/
 
-- Assam BJP posts, then deletes, AI video showing Himanta taking aim at men in skullcaps
+- Maharashtra Zilla Parishad Election Results 2026 LIVE Updates: Over 68% turnout across 12 districts, vote counting to begin shortly
   
-  🔗 https://indianexpress.com/article/india/assam-bjp-posts-then-deletes-ai-video-showing-himanta-taking-aim-at-men-in-skullcaps-10521136/
+  🔗 https://indianexpress.com/article/india/maharashtra-zilla-parishad-zp-election-results-2026-live-updates-district-wise-zp-panchayat-samiti-counting-10521594/
 
-- Himanta escalates ‘Pakistan links’ claim against Gaurav Gogoi and wife, Congress leader calls it worse than C-grade cinema
+- Citing rules, PMO tells Lok Sabha Secretariat: No questions on PM CARES, relief and defence funds
   
-  🔗 https://indianexpress.com/article/india/himanta-pakistan-gaurav-gogoi-wife-congress-c-grade-cinema-10521083/
+  🔗 https://indianexpress.com/article/india/citing-rules-pmo-tells-lok-sabha-secretariat-no-questions-on-pm-cares-relief-and-defence-funds-10521470/
 
-- MGR song at lunch table: PM Modi lauds ‘shared affection’ for Tamil during Malaysia visit
+- Exclusive: From file disposal to output, Union Secretaries now get a report card each
   
-  🔗 https://indianexpress.com/article/india/mgr-pm-modi-malaysia-visit-tamil-cinema-cultural-ties-10520838/
+  🔗 https://indianexpress.com/article/india/from-file-disposal-to-output-union-secretaries-now-get-a-report-card-each-10521460/
 
-- Why Karnataka is demanding a third bullet train corridor
+- From business to tech, India inks key pacts with Malaysia
   
-  🔗 https://indianexpress.com/article/india/why-karnataka-is-demanding-a-third-bullet-train-corridor-10520621/
+  🔗 https://indianexpress.com/article/india/from-business-to-tech-india-inks-key-pacts-with-malaysia-10521515/
 
 - Oppo Pad 5 review: The excellent Netflix binge tablet for your next long-haul flight
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/inside-google-pixel-plan-android-ecosystem-ai-hardware-software-taipei-tpark-1052018-10520181/
 
+- Mixed summer for hiring: Gig jobs rise as permanent roles stay elusive
+  Banking, consumer durables, and electronics companies with physical stores are largely limiting hiring to replacements.
+  🔗 https://www.livemint.com/companies/news/mixed-summer-for-hiring-gig-jobs-rise-as-permanent-roles-stay-elusive-11770540404761.html
+
+- Upstox looks beyond broking as regulator tames retail mania
+  Upstox, backed by Tiger Global, is diversifying by applying for NBFC and asset management licenses. Despite a stagnant FY25, the company anticipates profit doubling in FY26.
+  🔗 https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html
+
+- Why Hyundai hitched its wagon to the ICC as cricket aims to go global
+  Hyundai Motor has struck a new deal to sponsor all men’s games organised by the ICC this year and next. Despite an India-heavy campaign, Hyundai is looking at
+  🔗 https://www.livemint.com/companies/people/hyundai-cricket-sponsorship-icc-premier-partner-11770281514771.html
+
+- Hudco eyes $2 bn overseas borrowing to complement govt's urban infra blitz
+  The funds are expected to be used through Hudco’s Urban Invest Window to assist urban local bodies in developing bankable, high-impact infrastructure. The funding will complement
+  🔗 https://www.livemint.com/companies/news/hudco-to-raise-1-bn-from-world-bank-adb-1-bn-yen-debt-for-urban-development-11770546961373.html
+
 - Angola seeks 20%-30% stake in De Beers: Report
    Angola's bid for a majority stake in De Beers had set the country up for a potential bidding war with
   🔗 https://www.livemint.com/companies/news/angola-seeks-20-30-stake-in-de-beers-report-11770573996476.html
 
-- Ocado layoffs: British tech firm to cut up to 1,000 jobs amid its cost-cutting plans — Details here
-  Ocado to cut up to 1,000 jobs amid its
-  🔗 https://www.livemint.com/companies/news/ocado-layoffs-british-tech-firm-to-cut-up-to-1-000-jobs-amid-its-cost-cutting-plans-details-here-11770570951697.html
+- Nifty 50, Sensex today: What to expect from Indian stock market in trade on February 9
+  Gift Nifty was trading around 25,926 level, a premium of nearly 191 points from the Nifty futures’ previous close.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-february-9-11770559774144.html
 
-- The Lion’s roar: Inside the Tamil show turning startups into household names
-  Startup Singam is rewriting the rules of capital and visibility. From palm groves to prime time, the show is changing the way businesses are
-  🔗 https://www.livemint.com/companies/start-ups/startup-singam-tamil-nadu-entrepreneurs-palm-era-11770285036149.html
+- Chicago soybeans pull back after four-day rally; traders eye USDA crop report
+  Chicago soy
+  🔗 https://www.livemint.com/market/chicago-soybeans-pull-back-after-four-day-rally-traders-eye-usda-crop-report-11770601083784.html
 
-- From flyers to faithfuls: Why IndiGo and Air India are racing to lock in loyal customers
-  Loyalty in travel grows as a customer retention lever. IndiGo's BluChip and Air India's integration of its Maharaja programme with Air India Express is increasingly seen vital for growth
-  🔗 https://www.livemint.com/companies/news/from-flyers-to-faithfuls-why-indigo-and-air-india-are-racing-to-lock-in-loyal-customers-11770523400209.html
+- Stock market today: Trade setup for Nifty 50, gold, silver rate to India-US deal; five stocks to buy or sell on Monday
+  Torrent Power, Jindal Steel, ITC, Bharti Airtel, and Kot
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-gold-silver-rate-to-india-us-deal-five-stocks-to-buy-or-sell-on-monday-11770553264971.html
 
-- Piramal Pharma moves SC against Gujarat pollution body's plant closure order
-  Piramal Pharma's plea is slated to be heard on 9 February before a bench led by Chief Justice of India Sury
-  🔗 https://www.livemint.com/companies/news/piramal-pharma-supreme-court-gujarat-pollution-board-plant-closure-order-11770532295319.html
+- Three stocks turning around just as the market mood improves
+   profitability has returned in Q3FY26 through genuine operating leverage and cost discipline
+  🔗 https://www.livemint.com/market/stock-market-news/three-indian-companies-profit-turnaround-market-sentiment-improves-investment-11770516470563.html
 
-- Markets News, Feb. 6, 2026: Dow Ends Above 50K for First Time as Indexes Soar After 3-Day Sell-Off; Bitcoin Bounces Back Above $70K - Investopedia
-  Markets News, Feb. 6, 2026: Dow Ends Above 50K for First Time as Index
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPdHZCdTRkWVRpNGJCT1B4UUpHMnJiOXJMOGNNNXhUalo3QUkzX2ZIck44MlpYZ3hfYjBUZk5pajI3LXkzaTNJblRQaE5TVml6aWJYbHBqcXc2YXg3alh6V2k0VHpmQTJUeDBJekRBeE50MDZxdXNSZ25SWVdRZllOaHBXd2FGdXdOU3RtbXJSQnc?oc=5
-
-- How Markets Became One Giant Momentum Trade - Bloomberg.com
-  &nbsp;
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPLVVGN045X0tHMTUtRXo3NUtIcFNuYllRSlpnT09nd2MxWjc2UUJhdVMyczRJeUl4bnd2VklzTTQ2eElDWUEzWVczcVdyeGpVQzZvVjFsNU4ybnJjM3BmenZyYS1paU83SEJiNGlxVmpzZzk2TTEwVzhSTk94eG9JeGtxYzNiYi1kOFVvUmtCVm50XzBjZjZUMDlSelZnUQ?oc=5
-
-- Foreign investors return to Indian equity markets with Rs 8,129 crore in early February after 3-months of - Times of India
-  Foreign investors return to Indian equity markets with Rs 8,129 crore in early February after
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxNOVNfNjdXa3FzM01SbER2RUthaHlod1FHeWVnMFdJXzU1Uk44U0QtMUFKNi1lSmNUaklfWS1CYmpncHpDUnlic2NKQktncDc3eUdRSjVxU1k2VGxWTkVTMUVnMndTY0UtbFQtcGpSRng0X1ZFcGtCMTh6V2U0MGdXQlpRMkNoc3VYZDZrM2VyWXk1Q2tuWlkwOGdPekNid0RsM2JvQW5iSm5Rak9yQ01GNXZwaWpFNDg4dm1vTEsxLVVEYzJQZVd5S3NWUHFKNkRwRGNVRTAyYUlUMzkzODJBQkluMnYyS2ZOR28yeDdUdURWZEZnOUs0VGdtTy1WZmRaenpzSURydWZEcGlaMXdhOGpyR1RnWm1LNVFsTjYtdldrNWY00gGqAkFVX3lxTE1YN2dfQmt3THlKTFdiSjdBeTNycU9lMlhWclhEei1GaG9kUjlTTEFleHdSMGRteUI3QUFHTmlZUmlOZHYteHFWMUpvTzQxRDMza1VrWk9EWVQzVWc3anNHMkFhYWRnS3BJa1BIVTFOY2Fzal9SSmE2SU40S3I1MGFoeTBFd3ppRGJMSkxHUlg3WDVzdi0ta1lZczhtNzk2czRUTy02U0UwV3N6YWZ2OTF2SUp2eFVPRXp5TDd0a256UXhfQmk5eDBYZUFfUTJwV3NHVDd1YVZqWkY0TzVORjkzcnRYZ0F0azZNOWE5aFJkLTlEbVJNS2RSaEFzU3hEMVA1R21vRnBRYUNScXJJck83MWN6MzBaUXMyWUdSVGxNam85eG9UNU9LTXc?oc=5
-
-- Why did Anthropic’s Claude Cowork plugins spook markets? | The Hindu Explains - thehindu.com
-  Why did Anthropic’s Claude Cowork
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeTNia3pvTXJ0Zzc2RmRXaktWOU12VXd3aUh5dmpwYjExX2k4bTVlbjlLdVJLd2Y2bWl1S3UzVUN6UzBIdC02R3BtZGo0Uld5WDh1SEZmTFZkUDhIU1o3TnN1UGVqMzFiV3ZGVTZ1UGNMOFg1TnhaWHVpUkdnVDBiamhjUzFqX0hVUENKVUsta1VMcWN5Z2xHb2Jlc21iS1FWeEZUUDdkYU5jcGZFVHN1YW81OVhoMzhFV2s5cnFqd3RTQVpRT002U21zczZfdGtxTUpVU0I5WGdtdzkxV1I3QWJleWZmOE3SAe4BQVVfeXFMT3dBMk1rcXppRFJEaWsxS1gtbmxLTkhSU0RBOEVBUk1uTExZdDRXekNPZk9RaDQ5NEl0Tk54czJIdlY2Q2lKc3FkTmVzSXVkQzZJeDhDN3RnWmlobVE2UllqYkw2aHRzZGs1ODBTenFYLW03ZmVoRWtVeXVMZGhCaGMtanMzTE56bks0c3o0anQxcGlWaEhHRjZabmFQRFFyeGJwUXZaRDRkY2hWcXBxaEx3b1hTNFpORnRSdG90bkJ3d0pWYl83TEktRDZVY0VrZHBnbFh1RmlHRURuZHlBXzNHaGg1STdMMkczUjBoZw?oc=5
-
-- Warsh pick jolts markets: Dollar nears 98, gold whipsaws 21% then snaps back, oil rebounds above Rs 5,900 - Moneycontrol
-  "Moneycontrol" is a website that provides analysis of the global financial markets.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcElKYjhxT2dsQk9pVzN3NDhSMHd0d21LSWljTFFVYmFnRkdrTWVwVU9pWHFydHZmbWNSU0tTbHJGLTVOcWRNWEYycWZhbExIVTg0YkQ0emFyLUFEREVCcU80Tlp4YUd6R2FndXNpTk1KM3ZkQ1hLR1NkbW85NW44QkR3MGg0WVNmTEtLS0lEN0d6a0lub195TkliTDRDSXF5QWJMWDVhNVJKN2lKUFEzZUpQUF9hdFV3b2w0TTdTTGxUYXlpbXhqTmMxakhSbGJYRTR3QlFoRG5JU1FCMnFCUk9URGJlYURGVmMxYmliQ0RVdm41bExSelhxdjRXNnPSAYQCQVVfeXFMT3RPRnZhLXFHR1otYVU3ektEeWZ4ekt2VmtObDlnYjlkSTBLYVMzUTFXbF9SdEZiQUdVXzBLcTRJMjFBLWhRdlZ3NWxpZnlwZjd2NFh6RVJzX04zZFFnMmcyZThaekRGZGdodWVkMjNQY2ZkeExRVG5yYmlKVHpNVDU1MGlGMWpkeHE0Ym9nM25lSUx0aWhFbjlTd29TMmFuTFgwU2VvakJFMENlN0ZTX2hRYnZhVkFTQklvNjhHZUZzRmRQcTliX3lhY3ZYVlloQkhBUUpFRWJCSGw1eEN1ZU01ZEtMQTg0SGU4b0NpU3VucnVkdnNVZ21UTG1xemZTWkMxbDI?oc=5
+- Indian stock market: 8 key things that changed for market over weekend - Gift Nifty, Nikkei rally to India-US trade deal
+  Gift Nifty was trading around 25,947 level, a premium of nearly 212 points from the Nifty futures
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-8-key-things-that-changed-for-market-over-weekend-gift-nifty-nikkei-rally-to-india-us-trade-deal-11770560375072.html
 
 - Apple reportedly readies iOS 26.4 with smarter Siri and Intelligence tools: What to expect
   iOS 26.4 is expected to bring a major Siri overhaul with Apple Intelligence, personal context, on-screen awareness and cross-app actions. The
@@ -100,6 +100,14 @@
   Apple is reportedly testing major camera upgrades for future iPhones. Changes could improve low light shots, depth control and zoom performance.
   🔗 https://www.livemint.com/technology/tech-news/apple-iphone-18-pro-leak-hints-at-big-gains-in-night-photography-what-to-expect-11770548699821.html
 
+- Hitachi Energy, Nykaa shares turn bullish; analysts see up to 26% upside
+  Navin Fluorine, Hitachi Energy India and Nykaa shares show strong bullish breakouts. Kunal Kamble of
+  🔗 https://www.business-standard.com/markets/news/stocks-stock-picks-navin-fluorine-hitachi-energy-nykaa-share-price-buy-target-126020900044_1.html
+
+- Emcure Pharma, Schaeffler shares look bullish; Osho Krishan suggests 'Buy'
+  Emcure Pharmaceuticals and Schaeffler shares show strong bullish technical setups. Osho
+  🔗 https://www.business-standard.com/markets/news/stocks-stock-picks-emcure-schaeffler-share-price-buy-target-technical-analysis-126020900039_1.html
+
 - Gold holds the ground as traders track US inflation data: Analysts
   Traders will look for cues from US GDP, PMI, non-farm payroll and inflation data. Speeches from US Federal Reserve officials will be closely tracked as well for indications on the timing of potential rate cuts.
   🔗 https://www.business-standard.com/markets/commodities/gold-holds-the-ground-as-traders-track-us-inflation-data-analysts-126020800479_1.html
@@ -112,133 +120,133 @@
   Foreign portfolio investors (FPIs) turned net buyers in the first week of February, infusing more than Rs 8,100  crore in Indian equities. The inflows follow sustained withdrawals in recent months, with FPIs pulling out
   🔗 https://www.business-standard.com/markets/news/fpis-turn-net-buyers-in-feb-invest-8-100-cr-in-a-week-on-us-trade-deal-126020800177_1.html
 
-- Mcap of 8 top valued firms surges by ₹4.55 trn, Reliance biggest winner
-  Last week, the BSE benchmark surged by 2,857.46 points or 3.53 per cent. Reliance Industries, HDFC Bank, Bharti Airtel, ICICI Bank, State Bank of India
-  🔗 https://www.business-standard.com/markets/news/mcap-of-8-top-valued-firms-surges-by-4-55-trn-reliance-biggest-winner-126020800165_1.html
+- Asian stocks rise, Nikkei jumps after Takaichi win
+  Asian markets opened higher, mirroring a Wall Street surge. Investors are showing renewed interest in cyclical stocks.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-rise-nikkei-jumps-after-takaichi-win/articleshow/128091862.cms
 
-- Godawari Power & Ispat board approves additional investment in Godawari New Energy
-  
-  🔗 https://www.business-standard.com/markets/capital-market-news/godawari-power-ispat-board-approves-additional-investment-in-godawari-new-energy-126020700601_1.html
+- Elevate Campuses gets SEBI nod to raise Rs 2,550 crore through IPO
+  Elevate Campuses, backed by Hillhouse Investments, has secured SEBI approval for its IPO. The integrated education infrastructure platform, operating under brands like 'Good Host Spaces' and 'ScholarZ', aims to expand its student
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/elevate-campuses-gets-sebi-nod-to-raise-rs-2550-crore-through-ipo/articleshow/128091770.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  Indian benchmark indices closed higher on the back of buying interest in consumer and private banking stocks. Gains were limited by selling pressure
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/128067643.cms
+- Stake of local institutions in Indian cos hits new high
+  Domestic institutions have reached an all-time high ownership of 18.72% in Indian firms. This shift is driven by steady inflows from systematic investment plans, wealthy individuals and increased equity exposure from pension funds.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stake-of-local-institutions-in-indian-cos-hits-new-high/articleshow/128091568.cms
 
-- Market Trading Guide: Buy HUL and JSW Steel on Monday for up to 8% short term gains. Here’s why
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-hul-and-jsw-steel-on-monday-for-up-to-8-short-term-gains-heres-why/slideshow/128067491.cms
+- Should long term investors bet on Aye Finance IPO?
+  Aye Finance is set to raise ₹710 crore via a fresh issue. This move aims to bolster the company's capital. The micro and small enterprise lender has seen significant growth in its loan
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/should-long-term-investors-bet-on-aye-finance-ipo/articleshow/128091372.cms
 
-- Cement majors post double-digit volume growth in Q3, expect price recovery ahead
-  Leading cement makers reported strong double-digit year-on-year growth in sales volumes
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cement-majors-post-double-digit-volume-growth-in-q3-expect-price-recovery-ahead/articleshow/128064555.cms
+- RBI signals pause after December cut as inflation pressures edge up
+  Economists predict a pause as inflation pressures rise and growth prospects improve. The central bank has kept its policy rate steady.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-signals-pause-after-december-cut-as-inflation-pressures-edge-up/articleshow/128091182.cms
 
-- 11 penny stocks surged up to 300% in 3 months. Do you own any?
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/11-penny-stocks-surged-up-to-300-in-3-months-do-you-own-any/slideshow/128063419.cms
+- India-US trade deal highlights | Buying oil from US in India's interest, says Goyal; Oppn seeks debate on trade deal | India News - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRU
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRUtVNXBtOC1PbEZoalZxdFc4LXlpYXNTcXNOc2djWXR4U2lTUXJ5Q1c0clJfbGxSeDFyYVNjSHZXWHpPT0JHVU41U0ppQnlZQVJIa1ZicVFrcTM4N1VlQlU1ZlpGaTFkZEFyaVhZLXJzM29JS2s2LUVKX2RIWkpUMGlzLXVIQjlzeHIxbDNwdFB5WFdnb2hVVXhyVnZEQkw00gGGAkFVX3lxTE9uZEZDRHdVRWlLQkRxTlNfR0xVSnZvTllTaVN5eFB6MmxIYWlqX0pRcVh1S1dnYVFBdWRTT2t1NmtsTEp4c2pmS0VGTGlDZ21PbXVoNG9TaDFGc01KMnBsZGFsTjIybDhaTWQza2xzUDM3MGF0N3o3bUY2YTg3U1lwV0twWE5FRXhocHVPcDVmam5qT1RTeGo2LUhQcVl0cGluQjhqWjhNU2I5aDIzSGNGRVRPUEVZRUlvZGtSQkg5Ul9QaGRJN3I1bGpwYXlHY2xzODhXTWNJSW9seWx6a2luaXZLTHVZZWtfbFlDbUlsdXBsSnZWR2YyeHZqblFHWHdKZFJPVVE?oc=5
 
-- US trade deal framework to boost investor confidence, strength capital flows, deepen markets: BSE chief
-  The successful conclusion of an interim trade framework agreement between India and the US will boost investor confidence, says Sundararaman Ramamurthy, MD and CEO, Bombay Stock Exchange.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-trade-deal-framework-to-boost-investor-confidence-strength-capital-flows-deepen-markets-bse-chief/articleshow/128061728.cms
+- India's Sarvam AI beats Google Gemini and ChatGPT, the world is impressed - India Today
+  India's Sarvam AI beats Google Gemini and Chat
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEdId2Q1blQzWE91UTdON3VfVFVQaTh6VFF6YVlkY1lRTlpfLXlwdDhHNFlPZF9LYldfSFhPVVV5clo3RVdjQjdfUUhKVUVNeFdjQlJiQTdZaUlTQ3FQdUF0aXZqX3paR3FCcVhTR0dmenFPLTR2MkFoY1E1Nmo5ajh6MXExQVY5QmJLVkFnZFU4LTZoQjd0d3pPT2hFc2hRaHpQT2tJNC11TUVIeGhoaWliMkV1RjRMS1BrLTg2THF0VS1rYUhFeDhfdms1YmFISDVfZNIB2gFBVV95cUxPTjZ0TGF6RkV2ZmYxbUJSbXNoazcwZnd4NTVoeHFhR3VJZ1hoRUFWYjB4dkdZTTFtZDIzVFk0MlRFQm1rY25BZjd5ZUlwdjZjcktyWFg5RlJrYUp2Rlp0MUVhYm9aaThCUkxXZmdDYXh4YzFVWXliWFk4dFJVdExkNDAzSlMyT1ZzdU9vUS1nSHUxTzBXTHFrd3dvM0NEQnBYYWhoUnhuek5paGtFd2JIaFNhLWV3M2phdzZEY2ZyeHE1Ukl2clNTYzhuekIzYnNGWlFITlJtRERndw?oc=5
 
-- India-US Trade Deal: Which Food Items Will Get Cheaper In India - NDTV Food
-  <ol><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ1
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ195RUtJOHNlR1JhQU9idVJjenlBQUxkZnRfRjNFWE55T05kXzdQVGFTZDFSbXRZSlhIRjdudlHSAacBQVVfeXFMTWY1TmlpUG9ldS1jcVBiXzUzNUFOZ2dnMG9oQlBMNzVCMXhJblhTcVJSREFtVHlxeVRDWk9pbXdDQThsaTBoREVKYnhKaUFDdURPT2RISEo0ZUs3dVhrRVhHYkhtY1prRi05UG13VFZDMHpSSE1UYXpiQnZVNlVLOFhiLVpiYzU4VzQ4TU1jWUpCM1dnMFJVMmhvWDZ0YUhIOGFOam1nYU0?oc=5
+- India, Canada step up security cooperation - The Times of India
+  India, Canada step up security cooperation
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFFoQ09jZ2lNUVNwaDdHVU80YldFSUNmMENWZXcwSTlpTkVYSG5XMC1pSzJwUm9jWC1EUmY1Zkpva0VlOUhsVzU2N3Y4cWhuVm1XNlFmYzZMVFd6akY1eFFuWTNsSnhxSDVIZEozU0JkUXNoek16dnZKdW93dG0zVXZtYmVMc0xXaWl2WFlyR3dycXZxT21lQjE1clo5RVhCMmhIVXlvbWc5UEZXSUHSAbMBQVVfeXFMTkNoM24ySzJuTnRhT3lUbV9fc04tS1NlTWtkZVl0d242UEpBSk1yQ3pvN0dNOVpqUUV6NDdweUVxeHJOMlpKU2JRWjB1cHNCTEFJdG1ucHNIZkhyUnh5a2tCekM4MUNlN1poYVo0MTZnc19VX0c2Z2gzWFNNa1RyZjhBeTJOWHM0aDQ5YU9BSTRPemNBU3djOHBtUjhfLXFGZFh4LW5rZk9PU3BNdGxzUGhJSjQ?oc=5
 
-- PM Modi in Malaysia highlights: India, Malaysia renew pledges to boost trade, collaboration - thehindu.com
-  PM Modi in Malaysia highlights: India, Malaysia renew pledges
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaE9VMWw4YnlUQVVsd3FRQXBmY1hyNWh2ZjJ0NmJKOVQ4eFkyNUZWS3pJeFk4SjlDZWhBX1paVUVDY1VaR2kyZ3U4THRKMjZjdWhIN21HVVo3UlJOWUdTQjBoWld6Sm1tX0FNWGJDX0ltNVBhbVVmaktqQllmSTZoQUktLXdjaXp4Nkc5ZFVXZHBLbFp6WlVYMDJnWEg5Znl4ZFJfTnl0SGZUSXZneTQwazNvQ0JOWmhXY2lQRTNVSUJoUUExcnlpWnNzU0dueGtnSnQwd2VfcVJUd9IB4AFBVV95cUxNZTJ5MmUtSEV0X3NQZTJzSnR4SHlBOG02M01vbUU1M1FKZXZUWFRaY1I0NmlURGpiQklSdUJOLVdwVjVvOGxiZkJpN2otQjhCeWdNS0JDM3d0N1piNjZTMGljUXJ6VmpvbU5IckEwU0p5bGpib2E5SS1qejQtV3VFeVN1T1YwUGhJQ09nVTBvLWwzNjg4TVpRbHlpYXBMajhxRk1RYmVsdThVa3k4OFBIS0ZMd09Fa01MZlBiS3I1OVNmaVgxVkZ2djdRdUktYzZlTmJZbklPZFdlcEpvbUlsSw?oc=5
+- India and Canada agree to shared workplan to guide bilateral cooperation on national security - thehindu.com
+  India and Canada agree to shared workplan to guide bilateral cooperation
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUJNckthazBJNnp2T3oyWk9BcGRvX3ppeVdILUFVUWw2MUVpV3VoalhpY1V4anJfcXFwN3BlR245TFpJR2NZWmEyVFQ1XzJBNGdyUEYtbmxoUW5ObDd1V3NIR3YyWGJGdlpWYWFYaWJzN0J1NVJieXQtRm96RW0wbnQxWWlvanJJZGtmVGRYZVFjd2tJejNWV2R6ekhncEVkSG5sODJ6RnbSAa8BQVVfeXFMTUtrZE05VjJseG81TE9HeklObnBzVWtLalYxNFhMVTZyd0JiMjg2eGRuR2RJNzZ0Z0FXOFlId3d5YmxVZnNKMExXb3VLZElmRE5paHVKSWpMOFVvanRRcHFaQldrd3JoQy1vR1pVcExGRGN3cTMyZVAwZ3dpeHZiZXpxWWp3TmhYeE9RTFZEem41WUYwZVNoWWJLbUttbWJiM2daR0RpLTJLRnBYMHV3cw?oc=5
 
-- India, Malaysia sign 11 MoUs during Modi's visit - Times of India
-  India, Malaysia sign 11 MoUs during
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnI2dVBxOG45aGVTOFFpSlJ2anNDYUlLRUM2dWhhZUltZlNreml3YTBlSUxGOHJ4RFpqSXhQXzBJXzY1dTVoN3ZrcVpkTWMwNkhoT3ZrLWJVMHhxRXdybW1pVktVRXI5NURia3B3X1hleEt5UDgxZnNWZTJxaUN2WVRxclVVc1gzTHJnSExZS1lGeFJlWHhVSlVXcW1YR3JZTTBkNVBwTG4tcGlRU24zOXpXMmfSAboBQVVfeXFMTXFqREwyd0dOaDAtOTFZQzd2TkRIU281MUhycmJnMEcxYVZFcXZpT2h4MDRhVW4zTi1qQS1UNWU1N0U0TXVQZHd5YS1QRC01a1RMMVcwYzloVmc2WEFmUHVLWDVDNnJzampiak1PZC1aendKeXdoQVA5MVFyVmhkVHBBcThpUlBPRXA5azFsclRpNng2XzlKNDlLV3JKZE91T0hNenZsYV9xOWVFdWVZcjdwWUJOUGhoWUlR?oc=5
+- Illegal drug flow, cybersecurity: India, Canada agree on security and law enforcement work plan | India News - Hindustan Times
+  The Indian government is cracking down on illegal drug trade. India and Canada have agreed
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUx5MTY2emF4M0dlbkpXYjVOcFl6aHZJUVRabmRRZk9DUXl0dzQyUGdXWktvRnhid25IUWJsV1hTeHMzQWZZWFBiNFd1eTZ1dm03eXZzcFBPTlpDTXVMc0lrVC1oWnNoTXFzeTZZNWJzUkZZYXdVUHN1bVRmZTBCNFFEU09CWmJmdW96SHV6eThWd0FfZ1RsQ2wzX1NYVGlvNmktaERGS3pEUWcxY1VZNkx6NFRnanQ0UDdpd2Ywa9IBxAFBVV95cUxNaGpsdUJfZG1xR19BQWQ3Q0hna3FWWncwZmdjeTRJNHF3cUluZ281RVRrSzRNc3pDaEJlT2tIT0JJbFp5S01lT3F4dGxKVUczUGJnX05nQ19seXVxRWJRVG9YeGsxWDVzM0JRRVpHM0tqclVmMlkwRktaLU1ZV01objJnNzJOMWo5NlBQOGExYUY2OERzVVE0T21Wd2dLdVRQQmp2UEdyRHYzNjBtY3RpMkswOXpQSE9ldjZDZklEU0EtNjM2?oc=5
 
-- India and Malaysia pledge to bolster trade, defence collaborations - Al Jazeera
-  India and Malaysia pledge to bolster trade,
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUFDWHhQbnZkWlhkY1BnWHZ0aFFIM3FBMVFDaV9BR1o5ZWRlbWVsTWJWdjFZUGczNWJ6QnlWVGdmMGdVSVV4cU9Edzk4Mm1kMTkwLTF6Zm1obWJ6ZUxZZTBLT2lGek1oTTNYSFlWMV9rWW1nUkhWT3hoSU5CelZJd0RFLTZSVmZkNkhDZWoxRmpmUjk3NGFZUDd2XzdwYzc5eGkwLXlybm3SAa4BQVVfeXFMUDZ5OFJwc211QkU4MGt4enBPY0Z4QVpnWmQyaC1NajNHc1BDQUxLY0ZOeUVWbmZURm5TUWFYR2NaQXg4aUdUbzhoVmRJS3pzQ1BTMl9Nd1Z5Wkd6R0Ffd0huLVJtSEdDX2hKaWhnbGZZS2l3NjBLUzNsSTk4bTdXb2ptdFVNRXpZb1dBT29ibUczRnRyMFBkNVNSN19ZMkh1WWlfYk0xVU9IS0lYOEJn?oc=5
+- India-US trade deal highlights | Buying oil from US in India's interest, says Goyal; Oppn seeks debate on trade deal | India News - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRU
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRUtVNXBtOC1PbEZoalZxdFc4LXlpYXNTcXNOc2djWXR4U2lTUXJ5Q1c0clJfbGxSeDFyYVNjSHZXWHpPT0JHVU41U0ppQnlZQVJIa1ZicVFrcTM4N1VlQlU1ZlpGaTFkZEFyaVhZLXJzM29JS2s2LUVKX2RIWkpUMGlzLXVIQjlzeHIxbDNwdFB5WFdnb2hVVXhyVnZEQkw00gGGAkFVX3lxTE9uZEZDRHdVRWlLQkRxTlNfR0xVSnZvTllTaVN5eFB6MmxIYWlqX0pRcVh1S1dnYVFBdWRTT2t1NmtsTEp4c2pmS0VGTGlDZ21PbXVoNG9TaDFGc01KMnBsZGFsTjIybDhaTWQza2xzUDM3MGF0N3o3bUY2YTg3U1lwV0twWE5FRXhocHVPcDVmam5qT1RTeGo2LUhQcVl0cGluQjhqWjhNU2I5aDIzSGNGRVRPUEVZRUlvZGtSQkg5Ul9QaGRJN3I1bGpwYXlHY2xzODhXTWNJSW9seWx6a2luaXZLTHVZZWtfbFlDbUlsdXBsSnZWR2YyeHZqblFHWHdKZFJPVVE?oc=5
 
-- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
-  India coal mine blast leaves 18 dead, others
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
+- India's Sarvam AI beats Google Gemini and ChatGPT, the world is impressed - India Today
+  India's Sarvam AI beats Google Gemini and Chat
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEdId2Q1blQzWE91UTdON3VfVFVQaTh6VFF6YVlkY1lRTlpfLXlwdDhHNFlPZF9LYldfSFhPVVV5clo3RVdjQjdfUUhKVUVNeFdjQlJiQTdZaUlTQ3FQdUF0aXZqX3paR3FCcVhTR0dmenFPLTR2MkFoY1E1Nmo5ajh6MXExQVY5QmJLVkFnZFU4LTZoQjd0d3pPT2hFc2hRaHpQT2tJNC11TUVIeGhoaWliMkV1RjRMS1BrLTg2THF0VS1rYUhFeDhfdms1YmFISDVfZNIB2gFBVV95cUxPTjZ0TGF6RkV2ZmYxbUJSbXNoazcwZnd4NTVoeHFhR3VJZ1hoRUFWYjB4dkdZTTFtZDIzVFk0MlRFQm1rY25BZjd5ZUlwdjZjcktyWFg5RlJrYUp2Rlp0MUVhYm9aaThCUkxXZmdDYXh4YzFVWXliWFk4dFJVdExkNDAzSlMyT1ZzdU9vUS1nSHUxTzBXTHFrd3dvM0NEQnBYYWhoUnhuek5paGtFd2JIaFNhLWV3M2phdzZEY2ZyeHE1Ukl2clNTYzhuekIzYnNGWlFITlJtRERndw?oc=5
 
-- India-US Trade Deal: Which Food Items Will Get Cheaper In India - NDTV Food
-  <ol><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ1
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ195RUtJOHNlR1JhQU9idVJjenlBQUxkZnRfRjNFWE55T05kXzdQVGFTZDFSbXRZSlhIRjdudlHSAacBQVVfeXFMTWY1TmlpUG9ldS1jcVBiXzUzNUFOZ2dnMG9oQlBMNzVCMXhJblhTcVJSREFtVHlxeVRDWk9pbXdDQThsaTBoREVKYnhKaUFDdURPT2RISEo0ZUs3dVhrRVhHYkhtY1prRi05UG13VFZDMHpSSE1UYXpiQnZVNlVLOFhiLVpiYzU4VzQ4TU1jWUpCM1dnMFJVMmhvWDZ0YUhIOGFOam1nYU0?oc=5
+- India, Canada step up security cooperation - The Times of India
+  India, Canada step up security cooperation
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFFoQ09jZ2lNUVNwaDdHVU80YldFSUNmMENWZXcwSTlpTkVYSG5XMC1pSzJwUm9jWC1EUmY1Zkpva0VlOUhsVzU2N3Y4cWhuVm1XNlFmYzZMVFd6akY1eFFuWTNsSnhxSDVIZEozU0JkUXNoek16dnZKdW93dG0zVXZtYmVMc0xXaWl2WFlyR3dycXZxT21lQjE1clo5RVhCMmhIVXlvbWc5UEZXSUHSAbMBQVVfeXFMTkNoM24ySzJuTnRhT3lUbV9fc04tS1NlTWtkZVl0d242UEpBSk1yQ3pvN0dNOVpqUUV6NDdweUVxeHJOMlpKU2JRWjB1cHNCTEFJdG1ucHNIZkhyUnh5a2tCekM4MUNlN1poYVo0MTZnc19VX0c2Z2gzWFNNa1RyZjhBeTJOWHM0aDQ5YU9BSTRPemNBU3djOHBtUjhfLXFGZFh4LW5rZk9PU3BNdGxzUGhJSjQ?oc=5
 
-- PM Modi in Malaysia highlights: India, Malaysia renew pledges to boost trade, collaboration - thehindu.com
-  PM Modi in Malaysia highlights: India, Malaysia renew pledges
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaE9VMWw4YnlUQVVsd3FRQXBmY1hyNWh2ZjJ0NmJKOVQ4eFkyNUZWS3pJeFk4SjlDZWhBX1paVUVDY1VaR2kyZ3U4THRKMjZjdWhIN21HVVo3UlJOWUdTQjBoWld6Sm1tX0FNWGJDX0ltNVBhbVVmaktqQllmSTZoQUktLXdjaXp4Nkc5ZFVXZHBLbFp6WlVYMDJnWEg5Znl4ZFJfTnl0SGZUSXZneTQwazNvQ0JOWmhXY2lQRTNVSUJoUUExcnlpWnNzU0dueGtnSnQwd2VfcVJUd9IB4AFBVV95cUxNZTJ5MmUtSEV0X3NQZTJzSnR4SHlBOG02M01vbUU1M1FKZXZUWFRaY1I0NmlURGpiQklSdUJOLVdwVjVvOGxiZkJpN2otQjhCeWdNS0JDM3d0N1piNjZTMGljUXJ6VmpvbU5IckEwU0p5bGpib2E5SS1qejQtV3VFeVN1T1YwUGhJQ09nVTBvLWwzNjg4TVpRbHlpYXBMajhxRk1RYmVsdThVa3k4OFBIS0ZMd09Fa01MZlBiS3I1OVNmaVgxVkZ2djdRdUktYzZlTmJZbklPZFdlcEpvbUlsSw?oc=5
+- India and Canada agree to shared workplan to guide bilateral cooperation on national security - thehindu.com
+  India and Canada agree to shared workplan to guide bilateral cooperation
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUJNckthazBJNnp2T3oyWk9BcGRvX3ppeVdILUFVUWw2MUVpV3VoalhpY1V4anJfcXFwN3BlR245TFpJR2NZWmEyVFQ1XzJBNGdyUEYtbmxoUW5ObDd1V3NIR3YyWGJGdlpWYWFYaWJzN0J1NVJieXQtRm96RW0wbnQxWWlvanJJZGtmVGRYZVFjd2tJejNWV2R6ekhncEVkSG5sODJ6RnbSAa8BQVVfeXFMTUtrZE05VjJseG81TE9HeklObnBzVWtLalYxNFhMVTZyd0JiMjg2eGRuR2RJNzZ0Z0FXOFlId3d5YmxVZnNKMExXb3VLZElmRE5paHVKSWpMOFVvanRRcHFaQldrd3JoQy1vR1pVcExGRGN3cTMyZVAwZ3dpeHZiZXpxWWp3TmhYeE9RTFZEem41WUYwZVNoWWJLbUttbWJiM2daR0RpLTJLRnBYMHV3cw?oc=5
 
-- India, Malaysia sign 11 MoUs during Modi's visit - Times of India
-  India, Malaysia sign 11 MoUs during
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnI2dVBxOG45aGVTOFFpSlJ2anNDYUlLRUM2dWhhZUltZlNreml3YTBlSUxGOHJ4RFpqSXhQXzBJXzY1dTVoN3ZrcVpkTWMwNkhoT3ZrLWJVMHhxRXdybW1pVktVRXI5NURia3B3X1hleEt5UDgxZnNWZTJxaUN2WVRxclVVc1gzTHJnSExZS1lGeFJlWHhVSlVXcW1YR3JZTTBkNVBwTG4tcGlRU24zOXpXMmfSAboBQVVfeXFMTXFqREwyd0dOaDAtOTFZQzd2TkRIU281MUhycmJnMEcxYVZFcXZpT2h4MDRhVW4zTi1qQS1UNWU1N0U0TXVQZHd5YS1QRC01a1RMMVcwYzloVmc2WEFmUHVLWDVDNnJzampiak1PZC1aendKeXdoQVA5MVFyVmhkVHBBcThpUlBPRXA5azFsclRpNng2XzlKNDlLV3JKZE91T0hNenZsYV9xOWVFdWVZcjdwWUJOUGhoWUlR?oc=5
+- Illegal drug flow, cybersecurity: India, Canada agree on security and law enforcement work plan | India News - Hindustan Times
+  The Indian government is cracking down on illegal drug trade. India and Canada have agreed
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUx5MTY2emF4M0dlbkpXYjVOcFl6aHZJUVRabmRRZk9DUXl0dzQyUGdXWktvRnhid25IUWJsV1hTeHMzQWZZWFBiNFd1eTZ1dm03eXZzcFBPTlpDTXVMc0lrVC1oWnNoTXFzeTZZNWJzUkZZYXdVUHN1bVRmZTBCNFFEU09CWmJmdW96SHV6eThWd0FfZ1RsQ2wzX1NYVGlvNmktaERGS3pEUWcxY1VZNkx6NFRnanQ0UDdpd2Ywa9IBxAFBVV95cUxNaGpsdUJfZG1xR19BQWQ3Q0hna3FWWncwZmdjeTRJNHF3cUluZ281RVRrSzRNc3pDaEJlT2tIT0JJbFp5S01lT3F4dGxKVUczUGJnX05nQ19seXVxRWJRVG9YeGsxWDVzM0JRRVpHM0tqclVmMlkwRktaLU1ZV01objJnNzJOMWo5NlBQOGExYUY2OERzVVE0T21Wd2dLdVRQQmp2UEdyRHYzNjBtY3RpMkswOXpQSE9ldjZDZklEU0EtNjM2?oc=5
 
-- India and Malaysia pledge to bolster trade, defence collaborations - Al Jazeera
-  India and Malaysia pledge to bolster trade,
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUFDWHhQbnZkWlhkY1BnWHZ0aFFIM3FBMVFDaV9BR1o5ZWRlbWVsTWJWdjFZUGczNWJ6QnlWVGdmMGdVSVV4cU9Edzk4Mm1kMTkwLTF6Zm1obWJ6ZUxZZTBLT2lGek1oTTNYSFlWMV9rWW1nUkhWT3hoSU5CelZJd0RFLTZSVmZkNkhDZWoxRmpmUjk3NGFZUDd2XzdwYzc5eGkwLXlybm3SAa4BQVVfeXFMUDZ5OFJwc211QkU4MGt4enBPY0Z4QVpnWmQyaC1NajNHc1BDQUxLY0ZOeUVWbmZURm5TUWFYR2NaQXg4aUdUbzhoVmRJS3pzQ1BTMl9Nd1Z5Wkd6R0Ffd0huLVJtSEdDX2hKaWhnbGZZS2l3NjBLUzNsSTk4bTdXb2ptdFVNRXpZb1dBT29ibUczRnRyMFBkNVNSN19ZMkh1WWlfYk0xVU9IS0lYOEJn?oc=5
+- India-US trade deal highlights | Buying oil from US in India's interest, says Goyal; Oppn seeks debate on trade deal | India News - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRU
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRUtVNXBtOC1PbEZoalZxdFc4LXlpYXNTcXNOc2djWXR4U2lTUXJ5Q1c0clJfbGxSeDFyYVNjSHZXWHpPT0JHVU41U0ppQnlZQVJIa1ZicVFrcTM4N1VlQlU1ZlpGaTFkZEFyaVhZLXJzM29JS2s2LUVKX2RIWkpUMGlzLXVIQjlzeHIxbDNwdFB5WFdnb2hVVXhyVnZEQkw00gGGAkFVX3lxTE9uZEZDRHdVRWlLQkRxTlNfR0xVSnZvTllTaVN5eFB6MmxIYWlqX0pRcVh1S1dnYVFBdWRTT2t1NmtsTEp4c2pmS0VGTGlDZ21PbXVoNG9TaDFGc01KMnBsZGFsTjIybDhaTWQza2xzUDM3MGF0N3o3bUY2YTg3U1lwV0twWE5FRXhocHVPcDVmam5qT1RTeGo2LUhQcVl0cGluQjhqWjhNU2I5aDIzSGNGRVRPUEVZRUlvZGtSQkg5Ul9QaGRJN3I1bGpwYXlHY2xzODhXTWNJSW9seWx6a2luaXZLTHVZZWtfbFlDbUlsdXBsSnZWR2YyeHZqblFHWHdKZFJPVVE?oc=5
 
-- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
-  India coal mine blast leaves 18 dead, others
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
+- India's Sarvam AI beats Google Gemini and ChatGPT, the world is impressed - India Today
+  India's Sarvam AI beats Google Gemini and Chat
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEdId2Q1blQzWE91UTdON3VfVFVQaTh6VFF6YVlkY1lRTlpfLXlwdDhHNFlPZF9LYldfSFhPVVV5clo3RVdjQjdfUUhKVUVNeFdjQlJiQTdZaUlTQ3FQdUF0aXZqX3paR3FCcVhTR0dmenFPLTR2MkFoY1E1Nmo5ajh6MXExQVY5QmJLVkFnZFU4LTZoQjd0d3pPT2hFc2hRaHpQT2tJNC11TUVIeGhoaWliMkV1RjRMS1BrLTg2THF0VS1rYUhFeDhfdms1YmFISDVfZNIB2gFBVV95cUxPTjZ0TGF6RkV2ZmYxbUJSbXNoazcwZnd4NTVoeHFhR3VJZ1hoRUFWYjB4dkdZTTFtZDIzVFk0MlRFQm1rY25BZjd5ZUlwdjZjcktyWFg5RlJrYUp2Rlp0MUVhYm9aaThCUkxXZmdDYXh4YzFVWXliWFk4dFJVdExkNDAzSlMyT1ZzdU9vUS1nSHUxTzBXTHFrd3dvM0NEQnBYYWhoUnhuek5paGtFd2JIaFNhLWV3M2phdzZEY2ZyeHE1Ukl2clNTYzhuekIzYnNGWlFITlJtRERndw?oc=5
 
-- India-US Trade Deal: Which Food Items Will Get Cheaper In India - NDTV Food
-  <ol><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ1
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ195RUtJOHNlR1JhQU9idVJjenlBQUxkZnRfRjNFWE55T05kXzdQVGFTZDFSbXRZSlhIRjdudlHSAacBQVVfeXFMTWY1TmlpUG9ldS1jcVBiXzUzNUFOZ2dnMG9oQlBMNzVCMXhJblhTcVJSREFtVHlxeVRDWk9pbXdDQThsaTBoREVKYnhKaUFDdURPT2RISEo0ZUs3dVhrRVhHYkhtY1prRi05UG13VFZDMHpSSE1UYXpiQnZVNlVLOFhiLVpiYzU4VzQ4TU1jWUpCM1dnMFJVMmhvWDZ0YUhIOGFOam1nYU0?oc=5
+- India, Canada step up security cooperation - The Times of India
+  India, Canada step up security cooperation
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFFoQ09jZ2lNUVNwaDdHVU80YldFSUNmMENWZXcwSTlpTkVYSG5XMC1pSzJwUm9jWC1EUmY1Zkpva0VlOUhsVzU2N3Y4cWhuVm1XNlFmYzZMVFd6akY1eFFuWTNsSnhxSDVIZEozU0JkUXNoek16dnZKdW93dG0zVXZtYmVMc0xXaWl2WFlyR3dycXZxT21lQjE1clo5RVhCMmhIVXlvbWc5UEZXSUHSAbMBQVVfeXFMTkNoM24ySzJuTnRhT3lUbV9fc04tS1NlTWtkZVl0d242UEpBSk1yQ3pvN0dNOVpqUUV6NDdweUVxeHJOMlpKU2JRWjB1cHNCTEFJdG1ucHNIZkhyUnh5a2tCekM4MUNlN1poYVo0MTZnc19VX0c2Z2gzWFNNa1RyZjhBeTJOWHM0aDQ5YU9BSTRPemNBU3djOHBtUjhfLXFGZFh4LW5rZk9PU3BNdGxzUGhJSjQ?oc=5
 
-- PM Modi in Malaysia highlights: India, Malaysia renew pledges to boost trade, collaboration - thehindu.com
-  PM Modi in Malaysia highlights: India, Malaysia renew pledges
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaE9VMWw4YnlUQVVsd3FRQXBmY1hyNWh2ZjJ0NmJKOVQ4eFkyNUZWS3pJeFk4SjlDZWhBX1paVUVDY1VaR2kyZ3U4THRKMjZjdWhIN21HVVo3UlJOWUdTQjBoWld6Sm1tX0FNWGJDX0ltNVBhbVVmaktqQllmSTZoQUktLXdjaXp4Nkc5ZFVXZHBLbFp6WlVYMDJnWEg5Znl4ZFJfTnl0SGZUSXZneTQwazNvQ0JOWmhXY2lQRTNVSUJoUUExcnlpWnNzU0dueGtnSnQwd2VfcVJUd9IB4AFBVV95cUxNZTJ5MmUtSEV0X3NQZTJzSnR4SHlBOG02M01vbUU1M1FKZXZUWFRaY1I0NmlURGpiQklSdUJOLVdwVjVvOGxiZkJpN2otQjhCeWdNS0JDM3d0N1piNjZTMGljUXJ6VmpvbU5IckEwU0p5bGpib2E5SS1qejQtV3VFeVN1T1YwUGhJQ09nVTBvLWwzNjg4TVpRbHlpYXBMajhxRk1RYmVsdThVa3k4OFBIS0ZMd09Fa01MZlBiS3I1OVNmaVgxVkZ2djdRdUktYzZlTmJZbklPZFdlcEpvbUlsSw?oc=5
+- India and Canada agree to shared workplan to guide bilateral cooperation on national security - thehindu.com
+  India and Canada agree to shared workplan to guide bilateral cooperation
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUJNckthazBJNnp2T3oyWk9BcGRvX3ppeVdILUFVUWw2MUVpV3VoalhpY1V4anJfcXFwN3BlR245TFpJR2NZWmEyVFQ1XzJBNGdyUEYtbmxoUW5ObDd1V3NIR3YyWGJGdlpWYWFYaWJzN0J1NVJieXQtRm96RW0wbnQxWWlvanJJZGtmVGRYZVFjd2tJejNWV2R6ekhncEVkSG5sODJ6RnbSAa8BQVVfeXFMTUtrZE05VjJseG81TE9HeklObnBzVWtLalYxNFhMVTZyd0JiMjg2eGRuR2RJNzZ0Z0FXOFlId3d5YmxVZnNKMExXb3VLZElmRE5paHVKSWpMOFVvanRRcHFaQldrd3JoQy1vR1pVcExGRGN3cTMyZVAwZ3dpeHZiZXpxWWp3TmhYeE9RTFZEem41WUYwZVNoWWJLbUttbWJiM2daR0RpLTJLRnBYMHV3cw?oc=5
 
-- India, Malaysia sign 11 MoUs during Modi's visit - Times of India
-  India, Malaysia sign 11 MoUs during
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnI2dVBxOG45aGVTOFFpSlJ2anNDYUlLRUM2dWhhZUltZlNreml3YTBlSUxGOHJ4RFpqSXhQXzBJXzY1dTVoN3ZrcVpkTWMwNkhoT3ZrLWJVMHhxRXdybW1pVktVRXI5NURia3B3X1hleEt5UDgxZnNWZTJxaUN2WVRxclVVc1gzTHJnSExZS1lGeFJlWHhVSlVXcW1YR3JZTTBkNVBwTG4tcGlRU24zOXpXMmfSAboBQVVfeXFMTXFqREwyd0dOaDAtOTFZQzd2TkRIU281MUhycmJnMEcxYVZFcXZpT2h4MDRhVW4zTi1qQS1UNWU1N0U0TXVQZHd5YS1QRC01a1RMMVcwYzloVmc2WEFmUHVLWDVDNnJzampiak1PZC1aendKeXdoQVA5MVFyVmhkVHBBcThpUlBPRXA5azFsclRpNng2XzlKNDlLV3JKZE91T0hNenZsYV9xOWVFdWVZcjdwWUJOUGhoWUlR?oc=5
+- Illegal drug flow, cybersecurity: India, Canada agree on security and law enforcement work plan | India News - Hindustan Times
+  The Indian government is cracking down on illegal drug trade. India and Canada have agreed
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUx5MTY2emF4M0dlbkpXYjVOcFl6aHZJUVRabmRRZk9DUXl0dzQyUGdXWktvRnhid25IUWJsV1hTeHMzQWZZWFBiNFd1eTZ1dm03eXZzcFBPTlpDTXVMc0lrVC1oWnNoTXFzeTZZNWJzUkZZYXdVUHN1bVRmZTBCNFFEU09CWmJmdW96SHV6eThWd0FfZ1RsQ2wzX1NYVGlvNmktaERGS3pEUWcxY1VZNkx6NFRnanQ0UDdpd2Ywa9IBxAFBVV95cUxNaGpsdUJfZG1xR19BQWQ3Q0hna3FWWncwZmdjeTRJNHF3cUluZ281RVRrSzRNc3pDaEJlT2tIT0JJbFp5S01lT3F4dGxKVUczUGJnX05nQ19seXVxRWJRVG9YeGsxWDVzM0JRRVpHM0tqclVmMlkwRktaLU1ZV01objJnNzJOMWo5NlBQOGExYUY2OERzVVE0T21Wd2dLdVRQQmp2UEdyRHYzNjBtY3RpMkswOXpQSE9ldjZDZklEU0EtNjM2?oc=5
 
-- India and Malaysia pledge to bolster trade, defence collaborations - Al Jazeera
-  India and Malaysia pledge to bolster trade,
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUFDWHhQbnZkWlhkY1BnWHZ0aFFIM3FBMVFDaV9BR1o5ZWRlbWVsTWJWdjFZUGczNWJ6QnlWVGdmMGdVSVV4cU9Edzk4Mm1kMTkwLTF6Zm1obWJ6ZUxZZTBLT2lGek1oTTNYSFlWMV9rWW1nUkhWT3hoSU5CelZJd0RFLTZSVmZkNkhDZWoxRmpmUjk3NGFZUDd2XzdwYzc5eGkwLXlybm3SAa4BQVVfeXFMUDZ5OFJwc211QkU4MGt4enBPY0Z4QVpnWmQyaC1NajNHc1BDQUxLY0ZOeUVWbmZURm5TUWFYR2NaQXg4aUdUbzhoVmRJS3pzQ1BTMl9Nd1Z5Wkd6R0Ffd0huLVJtSEdDX2hKaWhnbGZZS2l3NjBLUzNsSTk4bTdXb2ptdFVNRXpZb1dBT29ibUczRnRyMFBkNVNSN19ZMkh1WWlfYk0xVU9IS0lYOEJn?oc=5
+- India-US trade deal highlights | Buying oil from US in India's interest, says Goyal; Oppn seeks debate on trade deal | India News - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRU
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRUtVNXBtOC1PbEZoalZxdFc4LXlpYXNTcXNOc2djWXR4U2lTUXJ5Q1c0clJfbGxSeDFyYVNjSHZXWHpPT0JHVU41U0ppQnlZQVJIa1ZicVFrcTM4N1VlQlU1ZlpGaTFkZEFyaVhZLXJzM29JS2s2LUVKX2RIWkpUMGlzLXVIQjlzeHIxbDNwdFB5WFdnb2hVVXhyVnZEQkw00gGGAkFVX3lxTE9uZEZDRHdVRWlLQkRxTlNfR0xVSnZvTllTaVN5eFB6MmxIYWlqX0pRcVh1S1dnYVFBdWRTT2t1NmtsTEp4c2pmS0VGTGlDZ21PbXVoNG9TaDFGc01KMnBsZGFsTjIybDhaTWQza2xzUDM3MGF0N3o3bUY2YTg3U1lwV0twWE5FRXhocHVPcDVmam5qT1RTeGo2LUhQcVl0cGluQjhqWjhNU2I5aDIzSGNGRVRPUEVZRUlvZGtSQkg5Ul9QaGRJN3I1bGpwYXlHY2xzODhXTWNJSW9seWx6a2luaXZLTHVZZWtfbFlDbUlsdXBsSnZWR2YyeHZqblFHWHdKZFJPVVE?oc=5
 
-- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
-  India coal mine blast leaves 18 dead, others
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
+- India's Sarvam AI beats Google Gemini and ChatGPT, the world is impressed - India Today
+  India's Sarvam AI beats Google Gemini and Chat
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEdId2Q1blQzWE91UTdON3VfVFVQaTh6VFF6YVlkY1lRTlpfLXlwdDhHNFlPZF9LYldfSFhPVVV5clo3RVdjQjdfUUhKVUVNeFdjQlJiQTdZaUlTQ3FQdUF0aXZqX3paR3FCcVhTR0dmenFPLTR2MkFoY1E1Nmo5ajh6MXExQVY5QmJLVkFnZFU4LTZoQjd0d3pPT2hFc2hRaHpQT2tJNC11TUVIeGhoaWliMkV1RjRMS1BrLTg2THF0VS1rYUhFeDhfdms1YmFISDVfZNIB2gFBVV95cUxPTjZ0TGF6RkV2ZmYxbUJSbXNoazcwZnd4NTVoeHFhR3VJZ1hoRUFWYjB4dkdZTTFtZDIzVFk0MlRFQm1rY25BZjd5ZUlwdjZjcktyWFg5RlJrYUp2Rlp0MUVhYm9aaThCUkxXZmdDYXh4YzFVWXliWFk4dFJVdExkNDAzSlMyT1ZzdU9vUS1nSHUxTzBXTHFrd3dvM0NEQnBYYWhoUnhuek5paGtFd2JIaFNhLWV3M2phdzZEY2ZyeHE1Ukl2clNTYzhuekIzYnNGWlFITlJtRERndw?oc=5
 
-- India-US Trade Deal: Which Food Items Will Get Cheaper In India - NDTV Food
-  <ol><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ1
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHIzMnBfNUVpZTJxVVJ0elBlMTZxWE9yTFNqR25ISjlCRWt3RDljX0pwYU4tcEJmLVkydzVSemlsakV1dlZVMU1SMVZHUGV0cm5TRmpEWFBCTkd4a3FRSnY5akFiSnhCZ195RUtJOHNlR1JhQU9idVJjenlBQUxkZnRfRjNFWE55T05kXzdQVGFTZDFSbXRZSlhIRjdudlHSAacBQVVfeXFMTWY1TmlpUG9ldS1jcVBiXzUzNUFOZ2dnMG9oQlBMNzVCMXhJblhTcVJSREFtVHlxeVRDWk9pbXdDQThsaTBoREVKYnhKaUFDdURPT2RISEo0ZUs3dVhrRVhHYkhtY1prRi05UG13VFZDMHpSSE1UYXpiQnZVNlVLOFhiLVpiYzU4VzQ4TU1jWUpCM1dnMFJVMmhvWDZ0YUhIOGFOam1nYU0?oc=5
+- India, Canada step up security cooperation - The Times of India
+  India, Canada step up security cooperation
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFFoQ09jZ2lNUVNwaDdHVU80YldFSUNmMENWZXcwSTlpTkVYSG5XMC1pSzJwUm9jWC1EUmY1Zkpva0VlOUhsVzU2N3Y4cWhuVm1XNlFmYzZMVFd6akY1eFFuWTNsSnhxSDVIZEozU0JkUXNoek16dnZKdW93dG0zVXZtYmVMc0xXaWl2WFlyR3dycXZxT21lQjE1clo5RVhCMmhIVXlvbWc5UEZXSUHSAbMBQVVfeXFMTkNoM24ySzJuTnRhT3lUbV9fc04tS1NlTWtkZVl0d242UEpBSk1yQ3pvN0dNOVpqUUV6NDdweUVxeHJOMlpKU2JRWjB1cHNCTEFJdG1ucHNIZkhyUnh5a2tCekM4MUNlN1poYVo0MTZnc19VX0c2Z2gzWFNNa1RyZjhBeTJOWHM0aDQ5YU9BSTRPemNBU3djOHBtUjhfLXFGZFh4LW5rZk9PU3BNdGxzUGhJSjQ?oc=5
 
-- PM Modi in Malaysia highlights: India, Malaysia renew pledges to boost trade, collaboration - thehindu.com
-  PM Modi in Malaysia highlights: India, Malaysia renew pledges
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaE9VMWw4YnlUQVVsd3FRQXBmY1hyNWh2ZjJ0NmJKOVQ4eFkyNUZWS3pJeFk4SjlDZWhBX1paVUVDY1VaR2kyZ3U4THRKMjZjdWhIN21HVVo3UlJOWUdTQjBoWld6Sm1tX0FNWGJDX0ltNVBhbVVmaktqQllmSTZoQUktLXdjaXp4Nkc5ZFVXZHBLbFp6WlVYMDJnWEg5Znl4ZFJfTnl0SGZUSXZneTQwazNvQ0JOWmhXY2lQRTNVSUJoUUExcnlpWnNzU0dueGtnSnQwd2VfcVJUd9IB4AFBVV95cUxNZTJ5MmUtSEV0X3NQZTJzSnR4SHlBOG02M01vbUU1M1FKZXZUWFRaY1I0NmlURGpiQklSdUJOLVdwVjVvOGxiZkJpN2otQjhCeWdNS0JDM3d0N1piNjZTMGljUXJ6VmpvbU5IckEwU0p5bGpib2E5SS1qejQtV3VFeVN1T1YwUGhJQ09nVTBvLWwzNjg4TVpRbHlpYXBMajhxRk1RYmVsdThVa3k4OFBIS0ZMd09Fa01MZlBiS3I1OVNmaVgxVkZ2djdRdUktYzZlTmJZbklPZFdlcEpvbUlsSw?oc=5
+- India and Canada agree to shared workplan to guide bilateral cooperation on national security - thehindu.com
+  India and Canada agree to shared workplan to guide bilateral cooperation
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUJNckthazBJNnp2T3oyWk9BcGRvX3ppeVdILUFVUWw2MUVpV3VoalhpY1V4anJfcXFwN3BlR245TFpJR2NZWmEyVFQ1XzJBNGdyUEYtbmxoUW5ObDd1V3NIR3YyWGJGdlpWYWFYaWJzN0J1NVJieXQtRm96RW0wbnQxWWlvanJJZGtmVGRYZVFjd2tJejNWV2R6ekhncEVkSG5sODJ6RnbSAa8BQVVfeXFMTUtrZE05VjJseG81TE9HeklObnBzVWtLalYxNFhMVTZyd0JiMjg2eGRuR2RJNzZ0Z0FXOFlId3d5YmxVZnNKMExXb3VLZElmRE5paHVKSWpMOFVvanRRcHFaQldrd3JoQy1vR1pVcExGRGN3cTMyZVAwZ3dpeHZiZXpxWWp3TmhYeE9RTFZEem41WUYwZVNoWWJLbUttbWJiM2daR0RpLTJLRnBYMHV3cw?oc=5
 
-- India, Malaysia sign 11 MoUs during Modi's visit - Times of India
-  India, Malaysia sign 11 MoUs during
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnI2dVBxOG45aGVTOFFpSlJ2anNDYUlLRUM2dWhhZUltZlNreml3YTBlSUxGOHJ4RFpqSXhQXzBJXzY1dTVoN3ZrcVpkTWMwNkhoT3ZrLWJVMHhxRXdybW1pVktVRXI5NURia3B3X1hleEt5UDgxZnNWZTJxaUN2WVRxclVVc1gzTHJnSExZS1lGeFJlWHhVSlVXcW1YR3JZTTBkNVBwTG4tcGlRU24zOXpXMmfSAboBQVVfeXFMTXFqREwyd0dOaDAtOTFZQzd2TkRIU281MUhycmJnMEcxYVZFcXZpT2h4MDRhVW4zTi1qQS1UNWU1N0U0TXVQZHd5YS1QRC01a1RMMVcwYzloVmc2WEFmUHVLWDVDNnJzampiak1PZC1aendKeXdoQVA5MVFyVmhkVHBBcThpUlBPRXA5azFsclRpNng2XzlKNDlLV3JKZE91T0hNenZsYV9xOWVFdWVZcjdwWUJOUGhoWUlR?oc=5
+- Illegal drug flow, cybersecurity: India, Canada agree on security and law enforcement work plan | India News - Hindustan Times
+  The Indian government is cracking down on illegal drug trade. India and Canada have agreed
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUx5MTY2emF4M0dlbkpXYjVOcFl6aHZJUVRabmRRZk9DUXl0dzQyUGdXWktvRnhid25IUWJsV1hTeHMzQWZZWFBiNFd1eTZ1dm03eXZzcFBPTlpDTXVMc0lrVC1oWnNoTXFzeTZZNWJzUkZZYXdVUHN1bVRmZTBCNFFEU09CWmJmdW96SHV6eThWd0FfZ1RsQ2wzX1NYVGlvNmktaERGS3pEUWcxY1VZNkx6NFRnanQ0UDdpd2Ywa9IBxAFBVV95cUxNaGpsdUJfZG1xR19BQWQ3Q0hna3FWWncwZmdjeTRJNHF3cUluZ281RVRrSzRNc3pDaEJlT2tIT0JJbFp5S01lT3F4dGxKVUczUGJnX05nQ19seXVxRWJRVG9YeGsxWDVzM0JRRVpHM0tqclVmMlkwRktaLU1ZV01objJnNzJOMWo5NlBQOGExYUY2OERzVVE0T21Wd2dLdVRQQmp2UEdyRHYzNjBtY3RpMkswOXpQSE9ldjZDZklEU0EtNjM2?oc=5
 
-- India and Malaysia pledge to bolster trade, defence collaborations - Al Jazeera
-  India and Malaysia pledge to bolster trade,
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUFDWHhQbnZkWlhkY1BnWHZ0aFFIM3FBMVFDaV9BR1o5ZWRlbWVsTWJWdjFZUGczNWJ6QnlWVGdmMGdVSVV4cU9Edzk4Mm1kMTkwLTF6Zm1obWJ6ZUxZZTBLT2lGek1oTTNYSFlWMV9rWW1nUkhWT3hoSU5CelZJd0RFLTZSVmZkNkhDZWoxRmpmUjk3NGFZUDd2XzdwYzc5eGkwLXlybm3SAa4BQVVfeXFMUDZ5OFJwc211QkU4MGt4enBPY0Z4QVpnWmQyaC1NajNHc1BDQUxLY0ZOeUVWbmZURm5TUWFYR2NaQXg4aUdUbzhoVmRJS3pzQ1BTMl9Nd1Z5Wkd6R0Ffd0huLVJtSEdDX2hKaWhnbGZZS2l3NjBLUzNsSTk4bTdXb2ptdFVNRXpZb1dBT29ibUczRnRyMFBkNVNSN19ZMkh1WWlfYk0xVU9IS0lYOEJn?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- India coal mine blast leaves 18 dead, others feared trapped - Al Jazeera
-  India coal mine blast leaves 18 dead, others
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFpybEF6MXFMNnpyWUlOMVl0ei1wcjhvN0lkYjE0MENFMm9Cc0lCNGQzcWJPX21tWkptZWtGZ29aT2FkdERMQmlvdFhjMjRJYWUtNkk1QWlfSms5MlJKcTRuamVFVGVEQkhvemdDOVREa0U3ejBnUF9EWEJ3RG5xR1VQZ1N5R1c5ak9aTGR1cHExckF3alIyek1jWkZERFnSAaQBQVVfeXFMTjFJbmZ6UktYbnlEZTFNQ0hiLUhJUmJnUFZXNTVBNndBX1dRd1BSMUNQS0doY1dqTlRjdlJkaWdfQ3hpaGNuRG5qa1FhZVB5YXlLc0F4eGNUV3JNdkVSOWdNWld0X1hhV3cyellRSjhxeXo0eWhXN2RqZWJJbU1hWjBoUjh5SFN0cXd6bW1sVzJoYjJYaFBzMWNRaXBDSHJJbzY2NEg?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Moltbook was peak AI theater - MIT Technology Review
-  Moltbook was peak
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcEFnX255VWhJTmQxZ1RUdjdNUDlLVm5YT3JVUTRkd1J1UkJPVG5qUzJCQnRIMlcxalc0MV9oWVpxb1pYMlYzOEVxQXNYSHVfWnN4NHNmeGJxZHQzZ3h4R2FVdXktbUtxcDhZdG00OVdEY2JfNGtjd3dZdVJhQkdwN0lJbEwxV0540gGOAUFVX3lxTE1TWDVqSVBrNkVoTEd0V0M1NDBWODZiZHhGMmNWaGhXS3N4OVpjTTZfcTEzM1cwQW1kN2FrUDBDc01iVEVqSFRpS2NiRlRMRVo2M3Z6c1RYekxjOXF2WmhsT0JQeUg1QTJUNGRtcVV3WlU1WGw4VGtpY2U3ME9RZl8zdmpYNkxCZWVvLW9GQmc?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- AI technology can 'lighten load on Manx speakers,' student says - BBC
-  AI technology can 'lighten load on
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iWkxEZTd3VldGeVUyZ1Q1M3VEYm1kZENNNlpyY3p2WTJBeGpFTU03ZE1fNy0yMnBMVmxSa01ZUFY2NHdfNWowaGswdjhYaFFzUXdRLTV0LXRRZw?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Join the Expert Panel of Speakers on Police Technology and Cyber Crime Investigation - The420.in
-  Join the Expert Panel of Speakers on Police Technology and
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxPc08xWDBOb2VKME5lU1FHalZWcm11SEtnY1NhVXVBYmVQOU03UEJRLVg5amNUX01fdHpBRF9GTUtpNGpRdVFsbW1URkI0Rll0bTBBemlLM3daS01EekhlV1p5N28yYXlEMk91NUdidnpqSVdWazRmUDB3QldYcE15NncyRm5fLUtmdjFwUw?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Adopt advanced technology through ‘Smart policing’: SP - The Hans India
-  Adopt advanced technology through ‘
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTBzLURsMnBtMzc0QUQ3NE9pbzhGYmdIWTFWa1lGQ2hybEZyZkY4VXY2RWFiNV9QRVgwTGZrZS1GVlhjMnJSSHpWN1RoaTZFTDdhNnFRTVlzMXJXYmQ5blVVT0dfeTljMkdJaXZMd1loVEJ3bWlZSkdMSWQza21DY1NDVmhGS09YeU8wVGJBSUlha0tnTFdnOGY2cnhNRDdnY2p6em5R0gGrAUFVX3lxTE05VWxFUE5pNlpGUnJneW1JaDBVVDB6Y2dBWVlmLTNuNTV0dFpVSkJuakN1dXRnVzdZYktaOVJvazIzUURQdmlxZkFaTzFDRjNjdXZrMWRtSmVadzN6NnVNY2tNQnNKaXFBWHZYTVhCeWd0cWxjNkJuYXluOGNMQm9NWW13amJXVUpUZjA5ai1vQzc4VkdWbG5Td3hJQ1d5WXhQQkVEaGZ1SG1icw?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- How new AI technology is helping detect and prevent wildfires - Scientific American
-  How new AI technology is helping detect and prevent
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOXVfM05TOW04Ri00S18yTnZXZmlRX21HdGxfNlZNczZBcm9pb1VaamNnUzNSY0ZiV2JuVng4WkRzUmZjdkZUcTRGenB0OXNYOHNVcWFQY2JDY21jSW01ajZhLXFpaVNlQm1meFh6WllIZlk4cnVNeW5XMlBqa1BoQnNvSnJuWm1YdlF3SGV3dk1zSW9KY0psMmttZldHWEJROXE2emxyMXo?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-08 18:33:36 UTC_
+_Last updated: 2026-02-09 01:52:55 UTC_
