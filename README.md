@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- 5 girls go out to play in Bihar village, only 1 returns — mystery continues
+- Opposition to move no confidence motion against Lok Sabha Speaker Birla
   
-  🔗 https://indianexpress.com/article/india/girls-go-out-to-play-in-bihar-village-returns-mystery-continues-10521452/
+  🔗 https://indianexpress.com/article/india/opposition-to-move-no-confidence-motion-against-lok-sabha-speaker-birla-10522027/
 
-- Maharashtra Zilla Parishad Election Results 2026 LIVE Updates: Over 68% turnout across 12 districts, vote counting to begin shortly
+- Indian Railways: Luggage theft in train? Whom should passengers contact for help
   
-  🔗 https://indianexpress.com/article/india/maharashtra-zilla-parishad-zp-election-results-2026-live-updates-district-wise-zp-panchayat-samiti-counting-10521594/
+  🔗 https://indianexpress.com/article/india/indian-railways-luggage-theft-in-train-whom-should-passengers-contact-for-help-10521112/
 
-- Citing rules, PMO tells Lok Sabha Secretariat: No questions on PM CARES, relief and defence funds
+- Parliament Budget Session 2026 Live Updates: Opposition planning no confidence motion against Lok Sabha Speaker Om Birla
   
-  🔗 https://indianexpress.com/article/india/citing-rules-pmo-tells-lok-sabha-secretariat-no-questions-on-pm-cares-relief-and-defence-funds-10521470/
+  🔗 https://indianexpress.com/article/india/parliament-budget-session-2026-live-updates-union-budget-2026-27-lok-sabha-rajya-sabha-february-9-10521944/
 
-- Exclusive: From file disposal to output, Union Secretaries now get a report card each
+- Gold Today Rate, February 9: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/from-file-disposal-to-output-union-secretaries-now-get-a-report-card-each-10521460/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-february-9-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10521878/
 
-- From business to tech, India inks key pacts with Malaysia
+- INCOIS to launch mobile apps that track jellyfish, issue storm surge alerts today
   
-  🔗 https://indianexpress.com/article/india/from-business-to-tech-india-inks-key-pacts-with-malaysia-10521515/
+  🔗 https://indianexpress.com/article/cities/bangalore/incois-to-launch-mobile-apps-that-track-jellyfish-issue-storm-surge-alerts-today-10521828/
+
+- ‘Claude writing Claude’: Nearly 100% of Anthropic’s code is AI-generated, says Mike Krieger
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-100-percent-code-ai-generated-claude-10522033/
+
+- Jack Dorsey’s Block cutting up to 10% of staff: Report
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/jack-dorseys-block-cutting-up-to-10-of-staff-report-10521702/
+
+- SpaceX to prioritise building self-growing city on moon, Musk says
+  
+  🔗 https://indianexpress.com/article/technology/science/spacex-to-prioritise-building-self-growing-city-on-moon-musk-says-10521680/
 
 - Oppo Pad 5 review: The excellent Netflix binge tablet for your next long-haul flight
   
@@ -28,57 +40,57 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/security-flaws-google-looker-report-10520671/
 
-- Valentine’s Day sale: iPhone 17 under Rs 50K at Croma; deals on tablets, personal care products
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/valentines-day-sale-iphone-17-croma-deals-10520540/
+- Supreme Court adjourns hearing in Meta, WhatsApp pleas challenging CCI fine to 23 February
+  The case relates to WhatsApp’s controversial 2021 privacy policy update. It allowed the sharing of user data, including phone numbers, device information and
+  🔗 https://www.livemint.com/companies/news/whatsapp-meta-cci-penalty-supreme-court-whatsapp-privacy-case-data-sharing-11770616571369.html
 
-- Sarvam rolls out new AI voice model, Bulbul V3, as part of 14-day launch blitz
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/sarvam-new-ai-voice-model-bulbul-v3-10520390/
+- Akasa Air sees light at end of delivery tunnel as aircraft flows steady, pilot hiring restarts
+  After nearly two years of delivery disruptions, steadier aircraft flows are allowing the airline to restart hiring
+  🔗 https://www.livemint.com/companies/news/akasa-air-aircraft-delivery-ramp-up-pilot-hiring-growth-11770606817381.html
 
-- Inside Google’s secret Taipei Hub: How the Pixel 10 is finally bridging the gap with Apple’s iPhone
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/inside-google-pixel-plan-android-ecosystem-ai-hardware-software-taipei-tpark-1052018-10520181/
+- China Digital Exports Surge As Alibaba, Tencent Lead Global Push
+  Chinese revenue from digital services sold abroad is soaring. Tech champions from ByteDance to Tencent ramp up overseas push.
+  🔗 https://www.livemint.com/companies/china-digital-exports-surge-as-alibaba-tencent-lead-global-push-11770604320723.html
 
-- Mixed summer for hiring: Gig jobs rise as permanent roles stay elusive
-  Banking, consumer durables, and electronics companies with physical stores are largely limiting hiring to replacements.
-  🔗 https://www.livemint.com/companies/news/mixed-summer-for-hiring-gig-jobs-rise-as-permanent-roles-stay-elusive-11770540404761.html
+- Australia AI Boom May Revive Productivity, CBA Says, Shares Gain
+  Australia has become the world’s third-largest AI investment destination behind the US and China. The result is set to spur productivity in an economy currently struggling with a low
+  🔗 https://www.livemint.com/companies/australia-ai-boom-may-revive-productivity-cba-says-shares-gain-11770604192370.html
 
-- Upstox looks beyond broking as regulator tames retail mania
-  Upstox, backed by Tiger Global, is diversifying by applying for NBFC and asset management licenses. Despite a stagnant FY25, the company anticipates profit doubling in FY26.
-  🔗 https://www.livemint.com/companies/news/as-regulators-squeeze-trading-led-growth-upstox-looks-beyond-broking-for-growth-11770536721353.html
+- EQT Life Sciences-Backed AgomAb Falls After $200 Million IPO
+  AgomAb Therapeutics NV, a clinical-stage biopharmaceutical company backed by EQT Life Sciences, closed 8.
+  🔗 https://www.livemint.com/companies/eqt-life-sciences-backed-agomab-falls-after-200-million-ipo-11770602060711.html
 
-- Why Hyundai hitched its wagon to the ICC as cricket aims to go global
-  Hyundai Motor has struck a new deal to sponsor all men’s games organised by the ICC this year and next. Despite an India-heavy campaign, Hyundai is looking at
-  🔗 https://www.livemint.com/companies/people/hyundai-cricket-sponsorship-icc-premier-partner-11770281514771.html
+- Gokaldas Exports to KPR Mills — Textile stocks rise up to 6% on interim India-US trade deal
+   textile stocks have zoomed up to 40% amid trade deal optimism. Gokaldas Exports' stock has emerged as the biggest gainer, as it soared 42%. Welspun Living, KPR
+  🔗 https://www.livemint.com/market/stock-market-news/gokaldas-exports-to-kpr-mills-textile-stocks-rise-up-to-6-on-interim-india-us-trade-deal-11770616162565.html
 
-- Hudco eyes $2 bn overseas borrowing to complement govt's urban infra blitz
-  The funds are expected to be used through Hudco’s Urban Invest Window to assist urban local bodies in developing bankable, high-impact infrastructure. The funding will complement
-  🔗 https://www.livemint.com/companies/news/hudco-to-raise-1-bn-from-world-bank-adb-1-bn-yen-debt-for-urban-development-11770546961373.html
+- 1450% rally in 12 years! Multibagger stock jumps after strong Q3 results 2026
+  Captain Polyplast's stock surged 8% on February 9 following strong Q3 FY26 results. Despite a 25% decline over the past year, the stock has
+  🔗 https://www.livemint.com/market/stock-market-news/1450-rally-in-12-years-multibagger-sme-stock-captain-polyplast-share-price-jumps-after-strong-q3-results-2026-11770618932886.html
 
-- Angola seeks 20%-30% stake in De Beers: Report
-   Angola's bid for a majority stake in De Beers had set the country up for a potential bidding war with
-  🔗 https://www.livemint.com/companies/news/angola-seeks-20-30-stake-in-de-beers-report-11770573996476.html
+- Experts turn bullish on small-cap stock Ugro Capital, see scope for a multiple re‑rating
+  Brokerage firm Elara Capital rates the stock a buy, anticipating a 54% upside. Ugro Capital's focus on profitability over
+  🔗 https://www.livemint.com/market/stock-market-news/experts-turn-bullish-on-small-cap-stock-ugro-capital-see-scope-for-a-multiple-rerating-11770618746566.html
 
-- Nifty 50, Sensex today: What to expect from Indian stock market in trade on February 9
-  Gift Nifty was trading around 25,926 level, a premium of nearly 191 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-february-9-11770559774144.html
+- Small-cap defence stock Axiscades Technologies hits 5% upper circuit on bagging order from HAL for LCA Mk1A
+  Axiscades Technologies shares surged to the 5% upper circuit limit after its subsidiary Mistral Solutions secured an order for HAL's LCA Mk1
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-defence-stock-axiscades-technologies-hits-5-upper-circuit-on-bagging-order-from-hal-for-lca-mk1a-11770616885905.html
 
-- Chicago soybeans pull back after four-day rally; traders eye USDA crop report
-  Chicago soy
-  🔗 https://www.livemint.com/market/chicago-soybeans-pull-back-after-four-day-rally-traders-eye-usda-crop-report-11770601083784.html
+- Gold, Silver ETFs jump up to 12% as precious metals rebound - Is the worst over?
+  Silver ETFs surged up to 12%, leading gains over gold ETFs. A weaker US dollar and improved risk sentiment boosted precious metal prices. Market participants are monitoring
+  🔗 https://www.livemint.com/market/stock-market-news/gold-etfs-silver-etfs-jump-up-to-12-as-silver-rate-gold-prices-rebound-is-the-worst-over-11770617285031.html
 
-- Stock market today: Trade setup for Nifty 50, gold, silver rate to India-US deal; five stocks to buy or sell on Monday
-  Torrent Power, Jindal Steel, ITC, Bharti Airtel, and Kot
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-gold-silver-rate-to-india-us-deal-five-stocks-to-buy-or-sell-on-monday-11770553264971.html
+- What is AI.com? Meet the new AI agent platform that 'crashed' the Super Bowl
+  AI.com launched on 8 Feburary with a 30 second Super Bowl ad. The company gained massive traffic after the ad and crashed briefly. It is owned by Crypto.
+  🔗 https://www.livemint.com/technology/tech-news/what-is-ai-com-meet-the-new-ai-agent-platform-that-crashed-the-super-bowl-11770614270986.html
 
-- Three stocks turning around just as the market mood improves
-   profitability has returned in Q3FY26 through genuine operating leverage and cost discipline
-  🔗 https://www.livemint.com/market/stock-market-news/three-indian-companies-profit-turnaround-market-sentiment-improves-investment-11770516470563.html
+- AI.com website crashes during Super Bowl, netizens quip — ‘how to burn $10M’
+   AI.com's website crashed after a 30-second Super Bowl 60 ad drove massive traffic
+  🔗 https://www.livemint.com/technology/aicom-website-crashes-super-bowl-netizens-quip-kris-marszalek-how-to-burn-us-news-latest-11770616017975.html
 
-- Indian stock market: 8 key things that changed for market over weekend - Gift Nifty, Nikkei rally to India-US trade deal
-  Gift Nifty was trading around 25,947 level, a premium of nearly 212 points from the Nifty futures
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-8-key-things-that-changed-for-market-over-weekend-gift-nifty-nikkei-rally-to-india-us-trade-deal-11770560375072.html
+- Taiwan says 40% shift of chip capacity to US is impossible
+  Taiwan says 40% shift
+  🔗 https://www.livemint.com/technology/taiwan-says-40-shift-of-chip-capacity-to-us-is-impossible-11770605005179.html
 
 - Apple reportedly readies iOS 26.4 with smarter Siri and Intelligence tools: What to expect
   iOS 26.4 is expected to bring a major Siri overhaul with Apple Intelligence, personal context, on-screen awareness and cross-app actions. The
@@ -88,137 +100,105 @@
   Nikita Bier reveals he built a working video editor for X in 15 minutes using AI. He shows how fast AI is resh
   🔗 https://www.livemint.com/technology/tech-news/will-x-get-a-native-ai-video-editor-product-head-nikita-bier-responds-11770557972721.html
 
-- Avoid costly, large LLM buildouts; focus on smaller models: Sridhar Vembu on India AI strategy
-  Sridhar Vembu: Avoid costly,
-  🔗 https://www.livemint.com/technology/avoid-costly-large-llm-buildouts-focus-on-smaller-models-sridhar-vembu-on-india-ai-strategy-11770550784923.html
+- Down up to 43% in 7 months, analyst turns bullish on these 3 stocks
+  Om Mehra of SAMCO Securities has turned bullish on these 3 stocks across market capitalisation. Gail, Balaji
+  🔗 https://www.business-standard.com/markets/news/gail-schneider-balaji-amines-down-up-to-43-in-7-months-analyst-turns-bullish-on-these-3-stocks-126020900382_1.html
 
-- Quantum computing Indias ticket to leading role in global tech space: Chandrababu Naidu
-   Quantum computing India's ticket to leading role
-  🔗 https://www.livemint.com/technology/quantum-computing-indias-ticket-to-leading-role-in-global-tech-space-chandrababu-naidu-11770549845510.html
+- Axiscades Technologies hit 5% upper circuit as arm wins ₹80-crore order
+  Axiscades Technologies announced that its subsidiary Mistral Solutions has received an order worth
+  🔗 https://www.business-standard.com/markets/news/axiscades-technologies-hit-5-percent-upper-circuit-as-arm-wins-80-crore-order-126020900350_1.html
 
-- Apple iPhone 18 Pro leak hints at big gains in night photography: What to expect
-  Apple is reportedly testing major camera upgrades for future iPhones. Changes could improve low light shots, depth control and zoom performance.
-  🔗 https://www.livemint.com/technology/tech-news/apple-iphone-18-pro-leak-hints-at-big-gains-in-night-photography-what-to-expect-11770548699821.html
+- Gold, silver extend gains as dollar dips; investors eye US economic data
+  The US dollar was at its lowest level since February 4. The
+  🔗 https://www.business-standard.com/markets/commodities/gold-silver-extend-gains-as-dollar-dips-investors-eye-us-economic-data-126020900297_1.html
 
-- Hitachi Energy, Nykaa shares turn bullish; analysts see up to 26% upside
-  Navin Fluorine, Hitachi Energy India and Nykaa shares show strong bullish breakouts. Kunal Kamble of
-  🔗 https://www.business-standard.com/markets/news/stocks-stock-picks-navin-fluorine-hitachi-energy-nykaa-share-price-buy-target-126020900044_1.html
+- Claude AI could worsen analyst groupthink in already volatile markets
+  As AI tools like Anthropic's Claude gain traction on Wall Street, analysts risk converging on the same data,
+  🔗 https://www.business-standard.com/technology/tech-news/claude-ai-could-worsen-analyst-groupthink-in-already-volatile-markets-126020900334_1.html
 
-- Emcure Pharma, Schaeffler shares look bullish; Osho Krishan suggests 'Buy'
-  Emcure Pharmaceuticals and Schaeffler shares show strong bullish technical setups. Osho
-  🔗 https://www.business-standard.com/markets/news/stocks-stock-picks-emcure-schaeffler-share-price-buy-target-technical-analysis-126020900039_1.html
+- Gems & Jewellery stocks: Goldiam, Kalyan, Senco, Thangamayil zoom up to 18%
+  India counts the US as its largest export market. If tariff rates on gems and jewellery are reduced to zero, it will bring major relief to
+  🔗 https://www.business-standard.com/markets/news/gems-jewellery-stocks-goldiam-kalyan-senco-thangamayil-zoom-up-to-18-126020900309_1.html
 
-- Gold holds the ground as traders track US inflation data: Analysts
-  Traders will look for cues from US GDP, PMI, non-farm payroll and inflation data. Speeches from US Federal Reserve officials will be closely tracked as well for indications on the timing of potential rate cuts.
-  🔗 https://www.business-standard.com/markets/commodities/gold-holds-the-ground-as-traders-track-us-inflation-data-analysts-126020800479_1.html
-
-- Inflation data, Q3 earnings likely to drive stock markets this week
-  Inflation data, trading activity of foreign investors and global trends would dictate sentiment in the stock market this week.Besides, geopolitical developments and Q3 earnings will also guide market movement during the week.
-  🔗 https://www.business-standard.com/markets/news/inflation-data-q3-earnings-likely-to-drive-stock-markets-this-week-126020800188_1.html
-
-- FPIs turn net buyers in Feb, invest ₹8,100 cr in a week on US trade deal
-  Foreign portfolio investors (FPIs) turned net buyers in the first week of February, infusing more than Rs 8,100  crore in Indian equities. The inflows follow sustained withdrawals in recent months, with FPIs pulling out
-  🔗 https://www.business-standard.com/markets/news/fpis-turn-net-buyers-in-feb-invest-8-100-cr-in-a-week-on-us-trade-deal-126020800177_1.html
-
-- Asian stocks rise, Nikkei jumps after Takaichi win
-  Asian markets opened higher, mirroring a Wall Street surge. Investors are showing renewed interest in cyclical stocks.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-rise-nikkei-jumps-after-takaichi-win/articleshow/128091862.cms
-
-- Elevate Campuses gets SEBI nod to raise Rs 2,550 crore through IPO
-  Elevate Campuses, backed by Hillhouse Investments, has secured SEBI approval for its IPO. The integrated education infrastructure platform, operating under brands like 'Good Host Spaces' and 'ScholarZ', aims to expand its student
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/elevate-campuses-gets-sebi-nod-to-raise-rs-2550-crore-through-ipo/articleshow/128091770.cms
-
-- Stake of local institutions in Indian cos hits new high
-  Domestic institutions have reached an all-time high ownership of 18.72% in Indian firms. This shift is driven by steady inflows from systematic investment plans, wealthy individuals and increased equity exposure from pension funds.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stake-of-local-institutions-in-indian-cos-hits-new-high/articleshow/128091568.cms
-
-- Should long term investors bet on Aye Finance IPO?
-  Aye Finance is set to raise ₹710 crore via a fresh issue. This move aims to bolster the company's capital. The micro and small enterprise lender has seen significant growth in its loan
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/should-long-term-investors-bet-on-aye-finance-ipo/articleshow/128091372.cms
-
-- RBI signals pause after December cut as inflation pressures edge up
-  Economists predict a pause as inflation pressures rise and growth prospects improve. The central bank has kept its policy rate steady.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-signals-pause-after-december-cut-as-inflation-pressures-edge-up/articleshow/128091182.cms
-
-- India-US trade deal highlights | Buying oil from US in India's interest, says Goyal; Oppn seeks debate on trade deal | India News - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRU
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRUtVNXBtOC1PbEZoalZxdFc4LXlpYXNTcXNOc2djWXR4U2lTUXJ5Q1c0clJfbGxSeDFyYVNjSHZXWHpPT0JHVU41U0ppQnlZQVJIa1ZicVFrcTM4N1VlQlU1ZlpGaTFkZEFyaVhZLXJzM29JS2s2LUVKX2RIWkpUMGlzLXVIQjlzeHIxbDNwdFB5WFdnb2hVVXhyVnZEQkw00gGGAkFVX3lxTE9uZEZDRHdVRWlLQkRxTlNfR0xVSnZvTllTaVN5eFB6MmxIYWlqX0pRcVh1S1dnYVFBdWRTT2t1NmtsTEp4c2pmS0VGTGlDZ21PbXVoNG9TaDFGc01KMnBsZGFsTjIybDhaTWQza2xzUDM3MGF0N3o3bUY2YTg3U1lwV0twWE5FRXhocHVPcDVmam5qT1RTeGo2LUhQcVl0cGluQjhqWjhNU2I5aDIzSGNGRVRPUEVZRUlvZGtSQkg5Ul9QaGRJN3I1bGpwYXlHY2xzODhXTWNJSW9seWx6a2luaXZLTHVZZWtfbFlDbUlsdXBsSnZWR2YyeHZqblFHWHdKZFJPVVE?oc=5
+- Russia oil trade in focus after India-US trade deal: What we know so far| India News - Hindustan Times
+  US agrees to drop tariffs after India stops Russian oil purchases. India-US Trade Deal: Which Food Items Will Get Cheaper In India.
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUFRcU1Vd0x6SUlqbjdaVHQ2eU41TEo1ZGUtVVF5RW8yOEJlNWxsNHFSdFNtOEw3WHRJd2VxZFRBWFQxNEQzZkYwQ2t5YjRCaFBHZ0VIT2dPelZqcURjejE5R2pBa1NlZGhKYzFraFAxOHJjdGhwbVMzb21pM0toMDZTZ3dST0ZHQ1NsLW45bzVOd3RLdThRVU94TnhEdktoTVJvc1RtWjZmTmtQeERsTEdLS2VaZkFhamt6ZlpuTEQ2WUtQQ2ZUTW1TajdTRkxxNk5BRk1sWDA3LVV4SklFUWNZclpGMS1NMm90RllORXM2QQ?oc=5
 
 - India's Sarvam AI beats Google Gemini and ChatGPT, the world is impressed - India Today
   India's Sarvam AI beats Google Gemini and Chat
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEdId2Q1blQzWE91UTdON3VfVFVQaTh6VFF6YVlkY1lRTlpfLXlwdDhHNFlPZF9LYldfSFhPVVV5clo3RVdjQjdfUUhKVUVNeFdjQlJiQTdZaUlTQ3FQdUF0aXZqX3paR3FCcVhTR0dmenFPLTR2MkFoY1E1Nmo5ajh6MXExQVY5QmJLVkFnZFU4LTZoQjd0d3pPT2hFc2hRaHpQT2tJNC11TUVIeGhoaWliMkV1RjRMS1BrLTg2THF0VS1rYUhFeDhfdms1YmFISDVfZNIB2gFBVV95cUxPTjZ0TGF6RkV2ZmYxbUJSbXNoazcwZnd4NTVoeHFhR3VJZ1hoRUFWYjB4dkdZTTFtZDIzVFk0MlRFQm1rY25BZjd5ZUlwdjZjcktyWFg5RlJrYUp2Rlp0MUVhYm9aaThCUkxXZmdDYXh4YzFVWXliWFk4dFJVdExkNDAzSlMyT1ZzdU9vUS1nSHUxTzBXTHFrd3dvM0NEQnBYYWhoUnhuek5paGtFd2JIaFNhLWV3M2phdzZEY2ZyeHE1Ukl2clNTYzhuekIzYnNGWlFITlJtRERndw?oc=5
 
-- India, Canada step up security cooperation - The Times of India
-  India, Canada step up security cooperation
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFFoQ09jZ2lNUVNwaDdHVU80YldFSUNmMENWZXcwSTlpTkVYSG5XMC1pSzJwUm9jWC1EUmY1Zkpva0VlOUhsVzU2N3Y4cWhuVm1XNlFmYzZMVFd6akY1eFFuWTNsSnhxSDVIZEozU0JkUXNoek16dnZKdW93dG0zVXZtYmVMc0xXaWl2WFlyR3dycXZxT21lQjE1clo5RVhCMmhIVXlvbWc5UEZXSUHSAbMBQVVfeXFMTkNoM24ySzJuTnRhT3lUbV9fc04tS1NlTWtkZVl0d242UEpBSk1yQ3pvN0dNOVpqUUV6NDdweUVxeHJOMlpKU2JRWjB1cHNCTEFJdG1ucHNIZkhyUnh5a2tCekM4MUNlN1poYVo0MTZnc19VX0c2Z2gzWFNNa1RyZjhBeTJOWHM0aDQ5YU9BSTRPemNBU3djOHBtUjhfLXFGZFh4LW5rZk9PU3BNdGxzUGhJSjQ?oc=5
+- In message to India, Jamaat chief says election will show ‘red card’ to forces of ‘hegemony’ - thehindu.com
+  In message to India, Jamaat chief says election will show ‘
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamlzc3A3aE12SVB1OEVYRnVGMmg3dXFkVk5nSjhUYlV4d211OXFyeDVLVHBwYVIwWVFaSzNrOWs5MmdxakFyLU9XbTZGTXZrNV9NUURCYVpDQ245ekhieFpsM0tFaTZYSHVfbEpTQkNpSHdaUXNEY0xVZHBXR0xKODNIc0FaT1l5NU1WX2FTRm1ZMEJkd2tEWTQ4N3RXaEdxTE83MFloMWNDUWJOT3RLaU56ZG5lYVhHVHpNblQ5bGREZE1nME1MbERocXBsZmFxZGlpRzVoUHhaQzE2NEHSAeQBQVVfeXFMUGpIdUJ0cXpHSC1NVFBWRjVla3VPR054N0Y1OUhuZ05TTXpqaHdtQk1UOTQ4SXJiRnE5a0hKR19pUVJsSVJfaDJDVzJyTG5WOTlyQ3RBM0NFNU11TGgzOG1vY0NrQjVZVFVLdDRLekdEUXBOdUJ6MDhSNjBUaGdDYTFMYlJmRTJFcHVTUFJNVm4yN1kwc3R2bnIwNk5IMVNxMVlwSzh0dERreHo1OTJUZ1owWGJFdEN6UkZ3WGJvaWV6RmhfS2V1ZF9jTFZYaVAzOThrdV9IWXExeFB6LUlZV2Nrcm82?oc=5
 
-- India and Canada agree to shared workplan to guide bilateral cooperation on national security - thehindu.com
-  India and Canada agree to shared workplan to guide bilateral cooperation
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUJNckthazBJNnp2T3oyWk9BcGRvX3ppeVdILUFVUWw2MUVpV3VoalhpY1V4anJfcXFwN3BlR245TFpJR2NZWmEyVFQ1XzJBNGdyUEYtbmxoUW5ObDd1V3NIR3YyWGJGdlpWYWFYaWJzN0J1NVJieXQtRm96RW0wbnQxWWlvanJJZGtmVGRYZVFjd2tJejNWV2R6ekhncEVkSG5sODJ6RnbSAa8BQVVfeXFMTUtrZE05VjJseG81TE9HeklObnBzVWtLalYxNFhMVTZyd0JiMjg2eGRuR2RJNzZ0Z0FXOFlId3d5YmxVZnNKMExXb3VLZElmRE5paHVKSWpMOFVvanRRcHFaQldrd3JoQy1vR1pVcExGRGN3cTMyZVAwZ3dpeHZiZXpxWWp3TmhYeE9RTFZEem41WUYwZVNoWWJLbUttbWJiM2daR0RpLTJLRnBYMHV3cw?oc=5
+- Andhra Techie, 27, Wanted "Lavish Lifestyle". So He Carried Out 60 Burglaries - NDTV
+  Andhra Techie, 27, Wanted "L
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFpkRTl1azhqeklMQWU2MFBOWkpMcGxtQVFjNk1FTUNMaFU5eGV3OUs3dHZBT0dyNGpLYzNiaXM3UVFjdGlqXzVUMFBBZVhJRE9TOGdCN0hsbVRFZmVFeThEcmxpTmtRUjc0YVR6V1BaOWwtQjUzN0k2TmcyYXB5LTczS3N2SWVzMnFQZW1pX0VXWW1zWEhUMmx6T2U0VmdzdFNVd1VaNHQwWk11QmhTSTF6UdIBuwFBVV95cUxQd3dfV0xqT0lBbjhkclZEYzltckNOQTZQWHFwdW5DQlhQZ3B1SEVqQmdkcWFNUHVnQmwzb2hHdXljSjdmNEU3blBsWVhOdEVoYXBVcTJpZHhnLUtuTlRXOVpMRUJRak4wM1VIVjVHWWRCWEVZUGNHbFBQYjk0eUctQ0tZUEpvUVluaElWbUFPTFlJS2szVllnY3hKS1ZQODZLUVB6elZybkNUcmhaMVlnQ28xN1F0VUV2alcw?oc=5
 
-- Illegal drug flow, cybersecurity: India, Canada agree on security and law enforcement work plan | India News - Hindustan Times
-  The Indian government is cracking down on illegal drug trade. India and Canada have agreed
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUx5MTY2emF4M0dlbkpXYjVOcFl6aHZJUVRabmRRZk9DUXl0dzQyUGdXWktvRnhid25IUWJsV1hTeHMzQWZZWFBiNFd1eTZ1dm03eXZzcFBPTlpDTXVMc0lrVC1oWnNoTXFzeTZZNWJzUkZZYXdVUHN1bVRmZTBCNFFEU09CWmJmdW96SHV6eThWd0FfZ1RsQ2wzX1NYVGlvNmktaERGS3pEUWcxY1VZNkx6NFRnanQ0UDdpd2Ywa9IBxAFBVV95cUxNaGpsdUJfZG1xR19BQWQ3Q0hna3FWWncwZmdjeTRJNHF3cUluZ281RVRrSzRNc3pDaEJlT2tIT0JJbFp5S01lT3F4dGxKVUczUGJnX05nQ19seXVxRWJRVG9YeGsxWDVzM0JRRVpHM0tqclVmMlkwRktaLU1ZV01objJnNzJOMWo5NlBQOGExYUY2OERzVVE0T21Wd2dLdVRQQmp2UEdyRHYzNjBtY3RpMkswOXpQSE9ldjZDZklEU0EtNjM2?oc=5
+- Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,56,870 for 10 gm; Check MCX prices | India News - Hindustan Times
+  Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0U1UC14R2Y0c1EzT2dDOGtvcThjOEhBeTdFcFdfeDFJWk5fZHJ0cWhUVlBjdXl3NmpUUnhOc1B1LVlsN05xVm9DQUdlcFJzSGZ1ckM5d1NGSDhhSkRzbjFFdzlzQUNlMnVVRlNiTU9wdEF1UWwyRkUteF9BUUlCQ1V6Q0RXUEFhbmNWMXNUSDA2Y3hMZThQdndzQWpkMk1IQ3RrcnI1SE03YlZIeWV4eTJtZ1pDSHlEN3g5UGxPd0wzTEJWcndDZ3BGUkhVbnN3VGoyc3I4cnlkUGFiM2w0MjNKcHlrUGtmT3dJdWR2Mi1JUkXSAfgBQVVfeXFMTkhyNDhmQ1ptUnQ0OVczSTNPaXZuU3gzbU0ydzkzYll5cmtJWmRBaHM2cEVnZ1MxbE5NR0hlSTV4eFRibG0zTDhPUFd2dmE1ZTdLSmxPb0JyU0Nxa3oyZnRDS2g1R0Z4TzR5dV9BR3diTjZaWHFfUG5TUVRHQjY1SzAxdWVWeVR6ZllGM0xVcFo2ZVdpb1BQTXNqenljcVFjdXRyaFdFVnFNWmpZcW9vV2dwVXRBeWp3TkVxTVFwdFIyRV9iVXhkaHVYSTFnSm5VUnNmeXRwbklzSG9EZWdkY3hTWVluQlBxRHlnYUJtY1NpQzI5cmczMHM?oc=5
 
-- India-US trade deal highlights | Buying oil from US in India's interest, says Goyal; Oppn seeks debate on trade deal | India News - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRU
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRUtVNXBtOC1PbEZoalZxdFc4LXlpYXNTcXNOc2djWXR4U2lTUXJ5Q1c0clJfbGxSeDFyYVNjSHZXWHpPT0JHVU41U0ppQnlZQVJIa1ZicVFrcTM4N1VlQlU1ZlpGaTFkZEFyaVhZLXJzM29JS2s2LUVKX2RIWkpUMGlzLXVIQjlzeHIxbDNwdFB5WFdnb2hVVXhyVnZEQkw00gGGAkFVX3lxTE9uZEZDRHdVRWlLQkRxTlNfR0xVSnZvTllTaVN5eFB6MmxIYWlqX0pRcVh1S1dnYVFBdWRTT2t1NmtsTEp4c2pmS0VGTGlDZ21PbXVoNG9TaDFGc01KMnBsZGFsTjIybDhaTWQza2xzUDM3MGF0N3o3bUY2YTg3U1lwV0twWE5FRXhocHVPcDVmam5qT1RTeGo2LUhQcVl0cGluQjhqWjhNU2I5aDIzSGNGRVRPUEVZRUlvZGtSQkg5Ul9QaGRJN3I1bGpwYXlHY2xzODhXTWNJSW9seWx6a2luaXZLTHVZZWtfbFlDbUlsdXBsSnZWR2YyeHZqblFHWHdKZFJPVVE?oc=5
-
-- India's Sarvam AI beats Google Gemini and ChatGPT, the world is impressed - India Today
-  India's Sarvam AI beats Google Gemini and Chat
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEdId2Q1blQzWE91UTdON3VfVFVQaTh6VFF6YVlkY1lRTlpfLXlwdDhHNFlPZF9LYldfSFhPVVV5clo3RVdjQjdfUUhKVUVNeFdjQlJiQTdZaUlTQ3FQdUF0aXZqX3paR3FCcVhTR0dmenFPLTR2MkFoY1E1Nmo5ajh6MXExQVY5QmJLVkFnZFU4LTZoQjd0d3pPT2hFc2hRaHpQT2tJNC11TUVIeGhoaWliMkV1RjRMS1BrLTg2THF0VS1rYUhFeDhfdms1YmFISDVfZNIB2gFBVV95cUxPTjZ0TGF6RkV2ZmYxbUJSbXNoazcwZnd4NTVoeHFhR3VJZ1hoRUFWYjB4dkdZTTFtZDIzVFk0MlRFQm1rY25BZjd5ZUlwdjZjcktyWFg5RlJrYUp2Rlp0MUVhYm9aaThCUkxXZmdDYXh4YzFVWXliWFk4dFJVdExkNDAzSlMyT1ZzdU9vUS1nSHUxTzBXTHFrd3dvM0NEQnBYYWhoUnhuek5paGtFd2JIaFNhLWV3M2phdzZEY2ZyeHE1Ukl2clNTYzhuekIzYnNGWlFITlJtRERndw?oc=5
-
-- India, Canada step up security cooperation - The Times of India
-  India, Canada step up security cooperation
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFFoQ09jZ2lNUVNwaDdHVU80YldFSUNmMENWZXcwSTlpTkVYSG5XMC1pSzJwUm9jWC1EUmY1Zkpva0VlOUhsVzU2N3Y4cWhuVm1XNlFmYzZMVFd6akY1eFFuWTNsSnhxSDVIZEozU0JkUXNoek16dnZKdW93dG0zVXZtYmVMc0xXaWl2WFlyR3dycXZxT21lQjE1clo5RVhCMmhIVXlvbWc5UEZXSUHSAbMBQVVfeXFMTkNoM24ySzJuTnRhT3lUbV9fc04tS1NlTWtkZVl0d242UEpBSk1yQ3pvN0dNOVpqUUV6NDdweUVxeHJOMlpKU2JRWjB1cHNCTEFJdG1ucHNIZkhyUnh5a2tCekM4MUNlN1poYVo0MTZnc19VX0c2Z2gzWFNNa1RyZjhBeTJOWHM0aDQ5YU9BSTRPemNBU3djOHBtUjhfLXFGZFh4LW5rZk9PU3BNdGxzUGhJSjQ?oc=5
-
-- India and Canada agree to shared workplan to guide bilateral cooperation on national security - thehindu.com
-  India and Canada agree to shared workplan to guide bilateral cooperation
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUJNckthazBJNnp2T3oyWk9BcGRvX3ppeVdILUFVUWw2MUVpV3VoalhpY1V4anJfcXFwN3BlR245TFpJR2NZWmEyVFQ1XzJBNGdyUEYtbmxoUW5ObDd1V3NIR3YyWGJGdlpWYWFYaWJzN0J1NVJieXQtRm96RW0wbnQxWWlvanJJZGtmVGRYZVFjd2tJejNWV2R6ekhncEVkSG5sODJ6RnbSAa8BQVVfeXFMTUtrZE05VjJseG81TE9HeklObnBzVWtLalYxNFhMVTZyd0JiMjg2eGRuR2RJNzZ0Z0FXOFlId3d5YmxVZnNKMExXb3VLZElmRE5paHVKSWpMOFVvanRRcHFaQldrd3JoQy1vR1pVcExGRGN3cTMyZVAwZ3dpeHZiZXpxWWp3TmhYeE9RTFZEem41WUYwZVNoWWJLbUttbWJiM2daR0RpLTJLRnBYMHV3cw?oc=5
-
-- Illegal drug flow, cybersecurity: India, Canada agree on security and law enforcement work plan | India News - Hindustan Times
-  The Indian government is cracking down on illegal drug trade. India and Canada have agreed
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUx5MTY2emF4M0dlbkpXYjVOcFl6aHZJUVRabmRRZk9DUXl0dzQyUGdXWktvRnhid25IUWJsV1hTeHMzQWZZWFBiNFd1eTZ1dm03eXZzcFBPTlpDTXVMc0lrVC1oWnNoTXFzeTZZNWJzUkZZYXdVUHN1bVRmZTBCNFFEU09CWmJmdW96SHV6eThWd0FfZ1RsQ2wzX1NYVGlvNmktaERGS3pEUWcxY1VZNkx6NFRnanQ0UDdpd2Ywa9IBxAFBVV95cUxNaGpsdUJfZG1xR19BQWQ3Q0hna3FWWncwZmdjeTRJNHF3cUluZ281RVRrSzRNc3pDaEJlT2tIT0JJbFp5S01lT3F4dGxKVUczUGJnX05nQ19seXVxRWJRVG9YeGsxWDVzM0JRRVpHM0tqclVmMlkwRktaLU1ZV01objJnNzJOMWo5NlBQOGExYUY2OERzVVE0T21Wd2dLdVRQQmp2UEdyRHYzNjBtY3RpMkswOXpQSE9ldjZDZklEU0EtNjM2?oc=5
-
-- India-US trade deal highlights | Buying oil from US in India's interest, says Goyal; Oppn seeks debate on trade deal | India News - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRU
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRUtVNXBtOC1PbEZoalZxdFc4LXlpYXNTcXNOc2djWXR4U2lTUXJ5Q1c0clJfbGxSeDFyYVNjSHZXWHpPT0JHVU41U0ppQnlZQVJIa1ZicVFrcTM4N1VlQlU1ZlpGaTFkZEFyaVhZLXJzM29JS2s2LUVKX2RIWkpUMGlzLXVIQjlzeHIxbDNwdFB5WFdnb2hVVXhyVnZEQkw00gGGAkFVX3lxTE9uZEZDRHdVRWlLQkRxTlNfR0xVSnZvTllTaVN5eFB6MmxIYWlqX0pRcVh1S1dnYVFBdWRTT2t1NmtsTEp4c2pmS0VGTGlDZ21PbXVoNG9TaDFGc01KMnBsZGFsTjIybDhaTWQza2xzUDM3MGF0N3o3bUY2YTg3U1lwV0twWE5FRXhocHVPcDVmam5qT1RTeGo2LUhQcVl0cGluQjhqWjhNU2I5aDIzSGNGRVRPUEVZRUlvZGtSQkg5Ul9QaGRJN3I1bGpwYXlHY2xzODhXTWNJSW9seWx6a2luaXZLTHVZZWtfbFlDbUlsdXBsSnZWR2YyeHZqblFHWHdKZFJPVVE?oc=5
+- Russia oil trade in focus after India-US trade deal: What we know so far| India News - Hindustan Times
+  US agrees to drop tariffs after India stops Russian oil purchases. India-US Trade Deal: Which Food Items Will Get Cheaper In India.
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUFRcU1Vd0x6SUlqbjdaVHQ2eU41TEo1ZGUtVVF5RW8yOEJlNWxsNHFSdFNtOEw3WHRJd2VxZFRBWFQxNEQzZkYwQ2t5YjRCaFBHZ0VIT2dPelZqcURjejE5R2pBa1NlZGhKYzFraFAxOHJjdGhwbVMzb21pM0toMDZTZ3dST0ZHQ1NsLW45bzVOd3RLdThRVU94TnhEdktoTVJvc1RtWjZmTmtQeERsTEdLS2VaZkFhamt6ZlpuTEQ2WUtQQ2ZUTW1TajdTRkxxNk5BRk1sWDA3LVV4SklFUWNZclpGMS1NMm90RllORXM2QQ?oc=5
 
 - India's Sarvam AI beats Google Gemini and ChatGPT, the world is impressed - India Today
   India's Sarvam AI beats Google Gemini and Chat
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEdId2Q1blQzWE91UTdON3VfVFVQaTh6VFF6YVlkY1lRTlpfLXlwdDhHNFlPZF9LYldfSFhPVVV5clo3RVdjQjdfUUhKVUVNeFdjQlJiQTdZaUlTQ3FQdUF0aXZqX3paR3FCcVhTR0dmenFPLTR2MkFoY1E1Nmo5ajh6MXExQVY5QmJLVkFnZFU4LTZoQjd0d3pPT2hFc2hRaHpQT2tJNC11TUVIeGhoaWliMkV1RjRMS1BrLTg2THF0VS1rYUhFeDhfdms1YmFISDVfZNIB2gFBVV95cUxPTjZ0TGF6RkV2ZmYxbUJSbXNoazcwZnd4NTVoeHFhR3VJZ1hoRUFWYjB4dkdZTTFtZDIzVFk0MlRFQm1rY25BZjd5ZUlwdjZjcktyWFg5RlJrYUp2Rlp0MUVhYm9aaThCUkxXZmdDYXh4YzFVWXliWFk4dFJVdExkNDAzSlMyT1ZzdU9vUS1nSHUxTzBXTHFrd3dvM0NEQnBYYWhoUnhuek5paGtFd2JIaFNhLWV3M2phdzZEY2ZyeHE1Ukl2clNTYzhuekIzYnNGWlFITlJtRERndw?oc=5
 
-- India, Canada step up security cooperation - The Times of India
-  India, Canada step up security cooperation
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFFoQ09jZ2lNUVNwaDdHVU80YldFSUNmMENWZXcwSTlpTkVYSG5XMC1pSzJwUm9jWC1EUmY1Zkpva0VlOUhsVzU2N3Y4cWhuVm1XNlFmYzZMVFd6akY1eFFuWTNsSnhxSDVIZEozU0JkUXNoek16dnZKdW93dG0zVXZtYmVMc0xXaWl2WFlyR3dycXZxT21lQjE1clo5RVhCMmhIVXlvbWc5UEZXSUHSAbMBQVVfeXFMTkNoM24ySzJuTnRhT3lUbV9fc04tS1NlTWtkZVl0d242UEpBSk1yQ3pvN0dNOVpqUUV6NDdweUVxeHJOMlpKU2JRWjB1cHNCTEFJdG1ucHNIZkhyUnh5a2tCekM4MUNlN1poYVo0MTZnc19VX0c2Z2gzWFNNa1RyZjhBeTJOWHM0aDQ5YU9BSTRPemNBU3djOHBtUjhfLXFGZFh4LW5rZk9PU3BNdGxzUGhJSjQ?oc=5
+- In message to India, Jamaat chief says election will show ‘red card’ to forces of ‘hegemony’ - thehindu.com
+  In message to India, Jamaat chief says election will show ‘
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamlzc3A3aE12SVB1OEVYRnVGMmg3dXFkVk5nSjhUYlV4d211OXFyeDVLVHBwYVIwWVFaSzNrOWs5MmdxakFyLU9XbTZGTXZrNV9NUURCYVpDQ245ekhieFpsM0tFaTZYSHVfbEpTQkNpSHdaUXNEY0xVZHBXR0xKODNIc0FaT1l5NU1WX2FTRm1ZMEJkd2tEWTQ4N3RXaEdxTE83MFloMWNDUWJOT3RLaU56ZG5lYVhHVHpNblQ5bGREZE1nME1MbERocXBsZmFxZGlpRzVoUHhaQzE2NEHSAeQBQVVfeXFMUGpIdUJ0cXpHSC1NVFBWRjVla3VPR054N0Y1OUhuZ05TTXpqaHdtQk1UOTQ4SXJiRnE5a0hKR19pUVJsSVJfaDJDVzJyTG5WOTlyQ3RBM0NFNU11TGgzOG1vY0NrQjVZVFVLdDRLekdEUXBOdUJ6MDhSNjBUaGdDYTFMYlJmRTJFcHVTUFJNVm4yN1kwc3R2bnIwNk5IMVNxMVlwSzh0dERreHo1OTJUZ1owWGJFdEN6UkZ3WGJvaWV6RmhfS2V1ZF9jTFZYaVAzOThrdV9IWXExeFB6LUlZV2Nrcm82?oc=5
 
-- India and Canada agree to shared workplan to guide bilateral cooperation on national security - thehindu.com
-  India and Canada agree to shared workplan to guide bilateral cooperation
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUJNckthazBJNnp2T3oyWk9BcGRvX3ppeVdILUFVUWw2MUVpV3VoalhpY1V4anJfcXFwN3BlR245TFpJR2NZWmEyVFQ1XzJBNGdyUEYtbmxoUW5ObDd1V3NIR3YyWGJGdlpWYWFYaWJzN0J1NVJieXQtRm96RW0wbnQxWWlvanJJZGtmVGRYZVFjd2tJejNWV2R6ekhncEVkSG5sODJ6RnbSAa8BQVVfeXFMTUtrZE05VjJseG81TE9HeklObnBzVWtLalYxNFhMVTZyd0JiMjg2eGRuR2RJNzZ0Z0FXOFlId3d5YmxVZnNKMExXb3VLZElmRE5paHVKSWpMOFVvanRRcHFaQldrd3JoQy1vR1pVcExGRGN3cTMyZVAwZ3dpeHZiZXpxWWp3TmhYeE9RTFZEem41WUYwZVNoWWJLbUttbWJiM2daR0RpLTJLRnBYMHV3cw?oc=5
+- Andhra Techie, 27, Wanted "Lavish Lifestyle". So He Carried Out 60 Burglaries - NDTV
+  Andhra Techie, 27, Wanted "L
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFpkRTl1azhqeklMQWU2MFBOWkpMcGxtQVFjNk1FTUNMaFU5eGV3OUs3dHZBT0dyNGpLYzNiaXM3UVFjdGlqXzVUMFBBZVhJRE9TOGdCN0hsbVRFZmVFeThEcmxpTmtRUjc0YVR6V1BaOWwtQjUzN0k2TmcyYXB5LTczS3N2SWVzMnFQZW1pX0VXWW1zWEhUMmx6T2U0VmdzdFNVd1VaNHQwWk11QmhTSTF6UdIBuwFBVV95cUxQd3dfV0xqT0lBbjhkclZEYzltckNOQTZQWHFwdW5DQlhQZ3B1SEVqQmdkcWFNUHVnQmwzb2hHdXljSjdmNEU3blBsWVhOdEVoYXBVcTJpZHhnLUtuTlRXOVpMRUJRak4wM1VIVjVHWWRCWEVZUGNHbFBQYjk0eUctQ0tZUEpvUVluaElWbUFPTFlJS2szVllnY3hKS1ZQODZLUVB6elZybkNUcmhaMVlnQ28xN1F0VUV2alcw?oc=5
 
-- Illegal drug flow, cybersecurity: India, Canada agree on security and law enforcement work plan | India News - Hindustan Times
-  The Indian government is cracking down on illegal drug trade. India and Canada have agreed
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUx5MTY2emF4M0dlbkpXYjVOcFl6aHZJUVRabmRRZk9DUXl0dzQyUGdXWktvRnhid25IUWJsV1hTeHMzQWZZWFBiNFd1eTZ1dm03eXZzcFBPTlpDTXVMc0lrVC1oWnNoTXFzeTZZNWJzUkZZYXdVUHN1bVRmZTBCNFFEU09CWmJmdW96SHV6eThWd0FfZ1RsQ2wzX1NYVGlvNmktaERGS3pEUWcxY1VZNkx6NFRnanQ0UDdpd2Ywa9IBxAFBVV95cUxNaGpsdUJfZG1xR19BQWQ3Q0hna3FWWncwZmdjeTRJNHF3cUluZ281RVRrSzRNc3pDaEJlT2tIT0JJbFp5S01lT3F4dGxKVUczUGJnX05nQ19seXVxRWJRVG9YeGsxWDVzM0JRRVpHM0tqclVmMlkwRktaLU1ZV01objJnNzJOMWo5NlBQOGExYUY2OERzVVE0T21Wd2dLdVRQQmp2UEdyRHYzNjBtY3RpMkswOXpQSE9ldjZDZklEU0EtNjM2?oc=5
+- Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,56,870 for 10 gm; Check MCX prices | India News - Hindustan Times
+  Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0U1UC14R2Y0c1EzT2dDOGtvcThjOEhBeTdFcFdfeDFJWk5fZHJ0cWhUVlBjdXl3NmpUUnhOc1B1LVlsN05xVm9DQUdlcFJzSGZ1ckM5d1NGSDhhSkRzbjFFdzlzQUNlMnVVRlNiTU9wdEF1UWwyRkUteF9BUUlCQ1V6Q0RXUEFhbmNWMXNUSDA2Y3hMZThQdndzQWpkMk1IQ3RrcnI1SE03YlZIeWV4eTJtZ1pDSHlEN3g5UGxPd0wzTEJWcndDZ3BGUkhVbnN3VGoyc3I4cnlkUGFiM2w0MjNKcHlrUGtmT3dJdWR2Mi1JUkXSAfgBQVVfeXFMTkhyNDhmQ1ptUnQ0OVczSTNPaXZuU3gzbU0ydzkzYll5cmtJWmRBaHM2cEVnZ1MxbE5NR0hlSTV4eFRibG0zTDhPUFd2dmE1ZTdLSmxPb0JyU0Nxa3oyZnRDS2g1R0Z4TzR5dV9BR3diTjZaWHFfUG5TUVRHQjY1SzAxdWVWeVR6ZllGM0xVcFo2ZVdpb1BQTXNqenljcVFjdXRyaFdFVnFNWmpZcW9vV2dwVXRBeWp3TkVxTVFwdFIyRV9iVXhkaHVYSTFnSm5VUnNmeXRwbklzSG9EZWdkY3hTWVluQlBxRHlnYUJtY1NpQzI5cmczMHM?oc=5
 
-- India-US trade deal highlights | Buying oil from US in India's interest, says Goyal; Oppn seeks debate on trade deal | India News - Hindustan Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRU
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQQUtnc3BzZ0JHdGVOZ0NEMHlsaEdiWmt3RDdaZ3JHWVQ2d1hWRXlNTndTUzctSDd6dk9CaEJYVlR4d0xVQzhJeUZlTjRfaEtuSS15U3ZYa2xrV3dVajQwWk5ncS03UGpqRUtVNXBtOC1PbEZoalZxdFc4LXlpYXNTcXNOc2djWXR4U2lTUXJ5Q1c0clJfbGxSeDFyYVNjSHZXWHpPT0JHVU41U0ppQnlZQVJIa1ZicVFrcTM4N1VlQlU1ZlpGaTFkZEFyaVhZLXJzM29JS2s2LUVKX2RIWkpUMGlzLXVIQjlzeHIxbDNwdFB5WFdnb2hVVXhyVnZEQkw00gGGAkFVX3lxTE9uZEZDRHdVRWlLQkRxTlNfR0xVSnZvTllTaVN5eFB6MmxIYWlqX0pRcVh1S1dnYVFBdWRTT2t1NmtsTEp4c2pmS0VGTGlDZ21PbXVoNG9TaDFGc01KMnBsZGFsTjIybDhaTWQza2xzUDM3MGF0N3o3bUY2YTg3U1lwV0twWE5FRXhocHVPcDVmam5qT1RTeGo2LUhQcVl0cGluQjhqWjhNU2I5aDIzSGNGRVRPUEVZRUlvZGtSQkg5Ul9QaGRJN3I1bGpwYXlHY2xzODhXTWNJSW9seWx6a2luaXZLTHVZZWtfbFlDbUlsdXBsSnZWR2YyeHZqblFHWHdKZFJPVVE?oc=5
+- Russia oil trade in focus after India-US trade deal: What we know so far| India News - Hindustan Times
+  US agrees to drop tariffs after India stops Russian oil purchases. India-US Trade Deal: Which Food Items Will Get Cheaper In India.
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUFRcU1Vd0x6SUlqbjdaVHQ2eU41TEo1ZGUtVVF5RW8yOEJlNWxsNHFSdFNtOEw3WHRJd2VxZFRBWFQxNEQzZkYwQ2t5YjRCaFBHZ0VIT2dPelZqcURjejE5R2pBa1NlZGhKYzFraFAxOHJjdGhwbVMzb21pM0toMDZTZ3dST0ZHQ1NsLW45bzVOd3RLdThRVU94TnhEdktoTVJvc1RtWjZmTmtQeERsTEdLS2VaZkFhamt6ZlpuTEQ2WUtQQ2ZUTW1TajdTRkxxNk5BRk1sWDA3LVV4SklFUWNZclpGMS1NMm90RllORXM2QQ?oc=5
 
 - India's Sarvam AI beats Google Gemini and ChatGPT, the world is impressed - India Today
   India's Sarvam AI beats Google Gemini and Chat
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEdId2Q1blQzWE91UTdON3VfVFVQaTh6VFF6YVlkY1lRTlpfLXlwdDhHNFlPZF9LYldfSFhPVVV5clo3RVdjQjdfUUhKVUVNeFdjQlJiQTdZaUlTQ3FQdUF0aXZqX3paR3FCcVhTR0dmenFPLTR2MkFoY1E1Nmo5ajh6MXExQVY5QmJLVkFnZFU4LTZoQjd0d3pPT2hFc2hRaHpQT2tJNC11TUVIeGhoaWliMkV1RjRMS1BrLTg2THF0VS1rYUhFeDhfdms1YmFISDVfZNIB2gFBVV95cUxPTjZ0TGF6RkV2ZmYxbUJSbXNoazcwZnd4NTVoeHFhR3VJZ1hoRUFWYjB4dkdZTTFtZDIzVFk0MlRFQm1rY25BZjd5ZUlwdjZjcktyWFg5RlJrYUp2Rlp0MUVhYm9aaThCUkxXZmdDYXh4YzFVWXliWFk4dFJVdExkNDAzSlMyT1ZzdU9vUS1nSHUxTzBXTHFrd3dvM0NEQnBYYWhoUnhuek5paGtFd2JIaFNhLWV3M2phdzZEY2ZyeHE1Ukl2clNTYzhuekIzYnNGWlFITlJtRERndw?oc=5
 
-- India, Canada step up security cooperation - The Times of India
-  India, Canada step up security cooperation
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFFoQ09jZ2lNUVNwaDdHVU80YldFSUNmMENWZXcwSTlpTkVYSG5XMC1pSzJwUm9jWC1EUmY1Zkpva0VlOUhsVzU2N3Y4cWhuVm1XNlFmYzZMVFd6akY1eFFuWTNsSnhxSDVIZEozU0JkUXNoek16dnZKdW93dG0zVXZtYmVMc0xXaWl2WFlyR3dycXZxT21lQjE1clo5RVhCMmhIVXlvbWc5UEZXSUHSAbMBQVVfeXFMTkNoM24ySzJuTnRhT3lUbV9fc04tS1NlTWtkZVl0d242UEpBSk1yQ3pvN0dNOVpqUUV6NDdweUVxeHJOMlpKU2JRWjB1cHNCTEFJdG1ucHNIZkhyUnh5a2tCekM4MUNlN1poYVo0MTZnc19VX0c2Z2gzWFNNa1RyZjhBeTJOWHM0aDQ5YU9BSTRPemNBU3djOHBtUjhfLXFGZFh4LW5rZk9PU3BNdGxzUGhJSjQ?oc=5
+- In message to India, Jamaat chief says election will show ‘red card’ to forces of ‘hegemony’ - thehindu.com
+  In message to India, Jamaat chief says election will show ‘
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamlzc3A3aE12SVB1OEVYRnVGMmg3dXFkVk5nSjhUYlV4d211OXFyeDVLVHBwYVIwWVFaSzNrOWs5MmdxakFyLU9XbTZGTXZrNV9NUURCYVpDQ245ekhieFpsM0tFaTZYSHVfbEpTQkNpSHdaUXNEY0xVZHBXR0xKODNIc0FaT1l5NU1WX2FTRm1ZMEJkd2tEWTQ4N3RXaEdxTE83MFloMWNDUWJOT3RLaU56ZG5lYVhHVHpNblQ5bGREZE1nME1MbERocXBsZmFxZGlpRzVoUHhaQzE2NEHSAeQBQVVfeXFMUGpIdUJ0cXpHSC1NVFBWRjVla3VPR054N0Y1OUhuZ05TTXpqaHdtQk1UOTQ4SXJiRnE5a0hKR19pUVJsSVJfaDJDVzJyTG5WOTlyQ3RBM0NFNU11TGgzOG1vY0NrQjVZVFVLdDRLekdEUXBOdUJ6MDhSNjBUaGdDYTFMYlJmRTJFcHVTUFJNVm4yN1kwc3R2bnIwNk5IMVNxMVlwSzh0dERreHo1OTJUZ1owWGJFdEN6UkZ3WGJvaWV6RmhfS2V1ZF9jTFZYaVAzOThrdV9IWXExeFB6LUlZV2Nrcm82?oc=5
 
-- India and Canada agree to shared workplan to guide bilateral cooperation on national security - thehindu.com
-  India and Canada agree to shared workplan to guide bilateral cooperation
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUJNckthazBJNnp2T3oyWk9BcGRvX3ppeVdILUFVUWw2MUVpV3VoalhpY1V4anJfcXFwN3BlR245TFpJR2NZWmEyVFQ1XzJBNGdyUEYtbmxoUW5ObDd1V3NIR3YyWGJGdlpWYWFYaWJzN0J1NVJieXQtRm96RW0wbnQxWWlvanJJZGtmVGRYZVFjd2tJejNWV2R6ekhncEVkSG5sODJ6RnbSAa8BQVVfeXFMTUtrZE05VjJseG81TE9HeklObnBzVWtLalYxNFhMVTZyd0JiMjg2eGRuR2RJNzZ0Z0FXOFlId3d5YmxVZnNKMExXb3VLZElmRE5paHVKSWpMOFVvanRRcHFaQldrd3JoQy1vR1pVcExGRGN3cTMyZVAwZ3dpeHZiZXpxWWp3TmhYeE9RTFZEem41WUYwZVNoWWJLbUttbWJiM2daR0RpLTJLRnBYMHV3cw?oc=5
+- Andhra Techie, 27, Wanted "Lavish Lifestyle". So He Carried Out 60 Burglaries - NDTV
+  Andhra Techie, 27, Wanted "L
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFpkRTl1azhqeklMQWU2MFBOWkpMcGxtQVFjNk1FTUNMaFU5eGV3OUs3dHZBT0dyNGpLYzNiaXM3UVFjdGlqXzVUMFBBZVhJRE9TOGdCN0hsbVRFZmVFeThEcmxpTmtRUjc0YVR6V1BaOWwtQjUzN0k2TmcyYXB5LTczS3N2SWVzMnFQZW1pX0VXWW1zWEhUMmx6T2U0VmdzdFNVd1VaNHQwWk11QmhTSTF6UdIBuwFBVV95cUxQd3dfV0xqT0lBbjhkclZEYzltckNOQTZQWHFwdW5DQlhQZ3B1SEVqQmdkcWFNUHVnQmwzb2hHdXljSjdmNEU3blBsWVhOdEVoYXBVcTJpZHhnLUtuTlRXOVpMRUJRak4wM1VIVjVHWWRCWEVZUGNHbFBQYjk0eUctQ0tZUEpvUVluaElWbUFPTFlJS2szVllnY3hKS1ZQODZLUVB6elZybkNUcmhaMVlnQ28xN1F0VUV2alcw?oc=5
 
-- Illegal drug flow, cybersecurity: India, Canada agree on security and law enforcement work plan | India News - Hindustan Times
-  The Indian government is cracking down on illegal drug trade. India and Canada have agreed
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUx5MTY2emF4M0dlbkpXYjVOcFl6aHZJUVRabmRRZk9DUXl0dzQyUGdXWktvRnhid25IUWJsV1hTeHMzQWZZWFBiNFd1eTZ1dm03eXZzcFBPTlpDTXVMc0lrVC1oWnNoTXFzeTZZNWJzUkZZYXdVUHN1bVRmZTBCNFFEU09CWmJmdW96SHV6eThWd0FfZ1RsQ2wzX1NYVGlvNmktaERGS3pEUWcxY1VZNkx6NFRnanQ0UDdpd2Ywa9IBxAFBVV95cUxNaGpsdUJfZG1xR19BQWQ3Q0hna3FWWncwZmdjeTRJNHF3cUluZ281RVRrSzRNc3pDaEJlT2tIT0JJbFp5S01lT3F4dGxKVUczUGJnX05nQ19seXVxRWJRVG9YeGsxWDVzM0JRRVpHM0tqclVmMlkwRktaLU1ZV01objJnNzJOMWo5NlBQOGExYUY2OERzVVE0T21Wd2dLdVRQQmp2UEdyRHYzNjBtY3RpMkswOXpQSE9ldjZDZklEU0EtNjM2?oc=5
+- Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,56,870 for 10 gm; Check MCX prices | India News - Hindustan Times
+  Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0U1UC14R2Y0c1EzT2dDOGtvcThjOEhBeTdFcFdfeDFJWk5fZHJ0cWhUVlBjdXl3NmpUUnhOc1B1LVlsN05xVm9DQUdlcFJzSGZ1ckM5d1NGSDhhSkRzbjFFdzlzQUNlMnVVRlNiTU9wdEF1UWwyRkUteF9BUUlCQ1V6Q0RXUEFhbmNWMXNUSDA2Y3hMZThQdndzQWpkMk1IQ3RrcnI1SE03YlZIeWV4eTJtZ1pDSHlEN3g5UGxPd0wzTEJWcndDZ3BGUkhVbnN3VGoyc3I4cnlkUGFiM2w0MjNKcHlrUGtmT3dJdWR2Mi1JUkXSAfgBQVVfeXFMTkhyNDhmQ1ptUnQ0OVczSTNPaXZuU3gzbU0ydzkzYll5cmtJWmRBaHM2cEVnZ1MxbE5NR0hlSTV4eFRibG0zTDhPUFd2dmE1ZTdLSmxPb0JyU0Nxa3oyZnRDS2g1R0Z4TzR5dV9BR3diTjZaWHFfUG5TUVRHQjY1SzAxdWVWeVR6ZllGM0xVcFo2ZVdpb1BQTXNqenljcVFjdXRyaFdFVnFNWmpZcW9vV2dwVXRBeWp3TkVxTVFwdFIyRV9iVXhkaHVYSTFnSm5VUnNmeXRwbklzSG9EZWdkY3hTWVluQlBxRHlnYUJtY1NpQzI5cmczMHM?oc=5
+
+- Russia oil trade in focus after India-US trade deal: What we know so far| India News - Hindustan Times
+  US agrees to drop tariffs after India stops Russian oil purchases. India-US Trade Deal: Which Food Items Will Get Cheaper In India.
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUFRcU1Vd0x6SUlqbjdaVHQ2eU41TEo1ZGUtVVF5RW8yOEJlNWxsNHFSdFNtOEw3WHRJd2VxZFRBWFQxNEQzZkYwQ2t5YjRCaFBHZ0VIT2dPelZqcURjejE5R2pBa1NlZGhKYzFraFAxOHJjdGhwbVMzb21pM0toMDZTZ3dST0ZHQ1NsLW45bzVOd3RLdThRVU94TnhEdktoTVJvc1RtWjZmTmtQeERsTEdLS2VaZkFhamt6ZlpuTEQ2WUtQQ2ZUTW1TajdTRkxxNk5BRk1sWDA3LVV4SklFUWNZclpGMS1NMm90RllORXM2QQ?oc=5
+
+- India's Sarvam AI beats Google Gemini and ChatGPT, the world is impressed - India Today
+  India's Sarvam AI beats Google Gemini and Chat
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEdId2Q1blQzWE91UTdON3VfVFVQaTh6VFF6YVlkY1lRTlpfLXlwdDhHNFlPZF9LYldfSFhPVVV5clo3RVdjQjdfUUhKVUVNeFdjQlJiQTdZaUlTQ3FQdUF0aXZqX3paR3FCcVhTR0dmenFPLTR2MkFoY1E1Nmo5ajh6MXExQVY5QmJLVkFnZFU4LTZoQjd0d3pPT2hFc2hRaHpQT2tJNC11TUVIeGhoaWliMkV1RjRMS1BrLTg2THF0VS1rYUhFeDhfdms1YmFISDVfZNIB2gFBVV95cUxPTjZ0TGF6RkV2ZmYxbUJSbXNoazcwZnd4NTVoeHFhR3VJZ1hoRUFWYjB4dkdZTTFtZDIzVFk0MlRFQm1rY25BZjd5ZUlwdjZjcktyWFg5RlJrYUp2Rlp0MUVhYm9aaThCUkxXZmdDYXh4YzFVWXliWFk4dFJVdExkNDAzSlMyT1ZzdU9vUS1nSHUxTzBXTHFrd3dvM0NEQnBYYWhoUnhuek5paGtFd2JIaFNhLWV3M2phdzZEY2ZyeHE1Ukl2clNTYzhuekIzYnNGWlFITlJtRERndw?oc=5
+
+- In message to India, Jamaat chief says election will show ‘red card’ to forces of ‘hegemony’ - thehindu.com
+  In message to India, Jamaat chief says election will show ‘
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamlzc3A3aE12SVB1OEVYRnVGMmg3dXFkVk5nSjhUYlV4d211OXFyeDVLVHBwYVIwWVFaSzNrOWs5MmdxakFyLU9XbTZGTXZrNV9NUURCYVpDQ245ekhieFpsM0tFaTZYSHVfbEpTQkNpSHdaUXNEY0xVZHBXR0xKODNIc0FaT1l5NU1WX2FTRm1ZMEJkd2tEWTQ4N3RXaEdxTE83MFloMWNDUWJOT3RLaU56ZG5lYVhHVHpNblQ5bGREZE1nME1MbERocXBsZmFxZGlpRzVoUHhaQzE2NEHSAeQBQVVfeXFMUGpIdUJ0cXpHSC1NVFBWRjVla3VPR054N0Y1OUhuZ05TTXpqaHdtQk1UOTQ4SXJiRnE5a0hKR19pUVJsSVJfaDJDVzJyTG5WOTlyQ3RBM0NFNU11TGgzOG1vY0NrQjVZVFVLdDRLekdEUXBOdUJ6MDhSNjBUaGdDYTFMYlJmRTJFcHVTUFJNVm4yN1kwc3R2bnIwNk5IMVNxMVlwSzh0dERreHo1OTJUZ1owWGJFdEN6UkZ3WGJvaWV6RmhfS2V1ZF9jTFZYaVAzOThrdV9IWXExeFB6LUlZV2Nrcm82?oc=5
+
+- Andhra Techie, 27, Wanted "Lavish Lifestyle". So He Carried Out 60 Burglaries - NDTV
+  Andhra Techie, 27, Wanted "L
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFpkRTl1azhqeklMQWU2MFBOWkpMcGxtQVFjNk1FTUNMaFU5eGV3OUs3dHZBT0dyNGpLYzNiaXM3UVFjdGlqXzVUMFBBZVhJRE9TOGdCN0hsbVRFZmVFeThEcmxpTmtRUjc0YVR6V1BaOWwtQjUzN0k2TmcyYXB5LTczS3N2SWVzMnFQZW1pX0VXWW1zWEhUMmx6T2U0VmdzdFNVd1VaNHQwWk11QmhTSTF6UdIBuwFBVV95cUxQd3dfV0xqT0lBbjhkclZEYzltckNOQTZQWHFwdW5DQlhQZ3B1SEVqQmdkcWFNUHVnQmwzb2hHdXljSjdmNEU3blBsWVhOdEVoYXBVcTJpZHhnLUtuTlRXOVpMRUJRak4wM1VIVjVHWWRCWEVZUGNHbFBQYjk0eUctQ0tZUEpvUVluaElWbUFPTFlJS2szVllnY3hKS1ZQODZLUVB6elZybkNUcmhaMVlnQ28xN1F0VUV2alcw?oc=5
+
+- Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,56,870 for 10 gm; Check MCX prices | India News - Hindustan Times
+  Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0U1UC14R2Y0c1EzT2dDOGtvcThjOEhBeTdFcFdfeDFJWk5fZHJ0cWhUVlBjdXl3NmpUUnhOc1B1LVlsN05xVm9DQUdlcFJzSGZ1ckM5d1NGSDhhSkRzbjFFdzlzQUNlMnVVRlNiTU9wdEF1UWwyRkUteF9BUUlCQ1V6Q0RXUEFhbmNWMXNUSDA2Y3hMZThQdndzQWpkMk1IQ3RrcnI1SE03YlZIeWV4eTJtZ1pDSHlEN3g5UGxPd0wzTEJWcndDZ3BGUkhVbnN3VGoyc3I4cnlkUGFiM2w0MjNKcHlrUGtmT3dJdWR2Mi1JUkXSAfgBQVVfeXFMTkhyNDhmQ1ptUnQ0OVczSTNPaXZuU3gzbU0ydzkzYll5cmtJWmRBaHM2cEVnZ1MxbE5NR0hlSTV4eFRibG0zTDhPUFd2dmE1ZTdLSmxPb0JyU0Nxa3oyZnRDS2g1R0Z4TzR5dV9BR3diTjZaWHFfUG5TUVRHQjY1SzAxdWVWeVR6ZllGM0xVcFo2ZVdpb1BQTXNqenljcVFjdXRyaFdFVnFNWmpZcW9vV2dwVXRBeWp3TkVxTVFwdFIyRV9iVXhkaHVYSTFnSm5VUnNmeXRwbklzSG9EZWdkY3hTWVluQlBxRHlnYUJtY1NpQzI5cmczMHM?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-09 01:52:55 UTC_
+_Last updated: 2026-02-09 07:03:55 UTC_
