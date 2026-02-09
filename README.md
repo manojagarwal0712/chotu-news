@@ -1,204 +1,224 @@
 # 📰 Daily News Summaries
 
-- Opposition to move no confidence motion against Lok Sabha Speaker Birla
+- ‘Thought of himself as Chanakya, exposed his weakness’: Gaurav Gogoi takes the fight to Himanta
   
-  🔗 https://indianexpress.com/article/india/opposition-to-move-no-confidence-motion-against-lok-sabha-speaker-birla-10522027/
+  🔗 https://indianexpress.com/article/india/gaurav-gogoi-himanta-chanakya-10522860/
 
-- Indian Railways: Luggage theft in train? Whom should passengers contact for help
+- Railway Board directs NHSRCL to revise Detailed Project Reports for new bullet train corridors
   
-  🔗 https://indianexpress.com/article/india/indian-railways-luggage-theft-in-train-whom-should-passengers-contact-for-help-10521112/
+  🔗 https://indianexpress.com/article/india/railway-board-directs-nhsrcl-to-revise-detailed-project-reports-for-new-bullet-train-corridors-10522767/
 
-- Parliament Budget Session 2026 Live Updates: Opposition planning no confidence motion against Lok Sabha Speaker Om Birla
+- Kerala BJP, Pinarayi on same page over paddy bonus cut
   
-  🔗 https://indianexpress.com/article/india/parliament-budget-session-2026-live-updates-union-budget-2026-27-lok-sabha-rajya-sabha-february-9-10521944/
+  🔗 https://indianexpress.com/article/india/kerala-polls-bjp-pinarayi-vijayan-paddy-bonus-cut-10522501/
 
-- Gold Today Rate, February 9: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- INDIA bloc united on no-confidence motion against Speaker over his remark on Oppn MPs: Congress’s Jothimani
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-february-9-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10521878/
+  🔗 https://indianexpress.com/article/india/india-bloc-united-on-no-confidence-motion-against-speaker-over-his-remark-on-oppn-mps-congresss-jothimani-10522547/
 
-- INCOIS to launch mobile apps that track jellyfish, issue storm surge alerts today
+- IRCTC launches E-Pantry service on 25 trains: Here’s how railway passengers can book online meal
   
-  🔗 https://indianexpress.com/article/cities/bangalore/incois-to-launch-mobile-apps-that-track-jellyfish-issue-storm-surge-alerts-today-10521828/
+  🔗 https://indianexpress.com/article/india/irctc-e-pantry-service-25-trains-railway-passengersbook-online-meal-10522383/
 
-- ‘Claude writing Claude’: Nearly 100% of Anthropic’s code is AI-generated, says Mike Krieger
+- Annular solar eclipse on February 17: Will ‘ring of fire’ be visible in India? Check exact time, location
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-100-percent-code-ai-generated-claude-10522033/
+  🔗 https://indianexpress.com/article/technology/science/annular-solar-eclipse-ring-of-fire-india-time-date-10522609/
 
-- Jack Dorsey’s Block cutting up to 10% of staff: Report
+- Alibaba’s overloaded AI chatbot stops issuing coupons, asks shoppers for patience
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/jack-dorseys-block-cutting-up-to-10-of-staff-report-10521702/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/alibabas-overloaded-ai-chatbot-stops-issuing-coupons-asks-shoppers-for-patience-10522531/
 
-- SpaceX to prioritise building self-growing city on moon, Musk says
+- Roblox says over 45% daily users have completed mandatory age-checks for chat
   
-  🔗 https://indianexpress.com/article/technology/science/spacex-to-prioritise-building-self-growing-city-on-moon-musk-says-10521680/
+  🔗 https://indianexpress.com/article/technology/gaming/roblox-users-completed-age-checks-child-safety-lawsuits-10522442/
 
-- Oppo Pad 5 review: The excellent Netflix binge tablet for your next long-haul flight
+- iPhone 17e: What to expect from Apple’s next ‘affordable’ iPhone
   
-  🔗 https://indianexpress.com/article/technology/tech-reviews/oppo-pad-5-tablet-review-10520650/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/iphone-17e-release-date-price-in-india-features-10522287/
 
-- Security flaws in Google’s Looker expose firms to data theft, system takeover: Report
+- These AI dreamers don’t fit the stereotype
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/security-flaws-google-looker-report-10520671/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/these-ai-dreamers-dont-fit-the-stereotype-10522268/
 
-- Supreme Court adjourns hearing in Meta, WhatsApp pleas challenging CCI fine to 23 February
-  The case relates to WhatsApp’s controversial 2021 privacy policy update. It allowed the sharing of user data, including phone numbers, device information and
-  🔗 https://www.livemint.com/companies/news/whatsapp-meta-cci-penalty-supreme-court-whatsapp-privacy-case-data-sharing-11770616571369.html
+- Adani-owned Ambuja Cements receives NCLT nod for Sanghi Industries merger — Details here
+  Adani-owned Ambuja C
+  🔗 https://www.livemint.com/companies/news/adaniowned-ambuja-cements-receives-nclt-nod-for-sanghi-industries-merger-details-here-11770641108625.html
 
-- Akasa Air sees light at end of delivery tunnel as aircraft flows steady, pilot hiring restarts
-  After nearly two years of delivery disruptions, steadier aircraft flows are allowing the airline to restart hiring
-  🔗 https://www.livemint.com/companies/news/akasa-air-aircraft-delivery-ramp-up-pilot-hiring-growth-11770606817381.html
+- CVC, Advent, Carlyle, Blackstone circle Citius as EQT weighs billion-dollar exit
+  The development comes against the backdrop of a consolidation in the broader IT services space.
+  🔗 https://www.livemint.com/companies/start-ups/citius-tech-healthtech-private-equity-pe-deals-carlyle-temasek-jp-morgan-11770624167145.html
 
-- China Digital Exports Surge As Alibaba, Tencent Lead Global Push
-  Chinese revenue from digital services sold abroad is soaring. Tech champions from ByteDance to Tencent ramp up overseas push.
-  🔗 https://www.livemint.com/companies/china-digital-exports-surge-as-alibaba-tencent-lead-global-push-11770604320723.html
+- Hero Realty charts ambitious growth plan: Launch 6 projects, enter new cities in next 12 months
+  Hero Realty intends to expand into new markets, including Lucknow and Vrindavan. The company has formed a partnership
+  🔗 https://www.livemint.com/companies/hero-realty-expansion-new-cities-luxury-homes-north-india-property-development-11770515804608.html
 
-- Australia AI Boom May Revive Productivity, CBA Says, Shares Gain
-  Australia has become the world’s third-largest AI investment destination behind the US and China. The result is set to spur productivity in an economy currently struggling with a low
-  🔗 https://www.livemint.com/companies/australia-ai-boom-may-revive-productivity-cba-says-shares-gain-11770604192370.html
+- France's Vinci eyes India return with $2 billion Macquarie deal
+  The deal is likely to see the transfer of Macquarie's nine toll road projects spanning 681 kilometres
+  🔗 https://www.livemint.com/companies/vinci-macquarie-india-road-assets-acquisition-french-giant-return-11770619468473.html
 
-- EQT Life Sciences-Backed AgomAb Falls After $200 Million IPO
-  AgomAb Therapeutics NV, a clinical-stage biopharmaceutical company backed by EQT Life Sciences, closed 8.
-  🔗 https://www.livemint.com/companies/eqt-life-sciences-backed-agomab-falls-after-200-million-ipo-11770602060711.html
+- ‘Keep it simple’: Warren Buffett and Albert Einstein believe this mantra. Here's why your investments should too
+  Warren Buffett advocates for simplicity in investing. He recommends low-cost index funds and the 90/10 rule. Here's a
+  🔗 https://www.livemint.com/companies/people/warren-buffett-albert-einstein-believe-mantra-keep-it-simple-why-your-investments-should-too-no-panic-hold-stocks-market-11770624642757.html
 
-- Gokaldas Exports to KPR Mills — Textile stocks rise up to 6% on interim India-US trade deal
-   textile stocks have zoomed up to 40% amid trade deal optimism. Gokaldas Exports' stock has emerged as the biggest gainer, as it soared 42%. Welspun Living, KPR
-  🔗 https://www.livemint.com/market/stock-market-news/gokaldas-exports-to-kpr-mills-textile-stocks-rise-up-to-6-on-interim-india-us-trade-deal-11770616162565.html
+- Fractal Analytics IPO: Issue receives tepid response on Day 01, subscribed 0.09 times. GMP signals flat listing
+  The IPO for Fractal Analytics was subscribed just 0.03 times. Listing on NSE and BSE is expected on February 16, with a slight anticipated price increase.
+  🔗 https://www.livemint.com/market/stock-market-news/fractal-analytics-ipo-issue-receives-tepid-response-on-day-01-subscribed-0-09-times-gmp-signals-flat-listing-11770639795290.html
 
-- 1450% rally in 12 years! Multibagger stock jumps after strong Q3 results 2026
-  Captain Polyplast's stock surged 8% on February 9 following strong Q3 FY26 results. Despite a 25% decline over the past year, the stock has
-  🔗 https://www.livemint.com/market/stock-market-news/1450-rally-in-12-years-multibagger-sme-stock-captain-polyplast-share-price-jumps-after-strong-q3-results-2026-11770618932886.html
+- Brandman Retail IPO allotment to be finalised today: Check steps to track status online — GMP signals 11% listing pop
+  The Brandman Retail IPO allotment is expected to be finalised today. Investors can track the status online by
+  🔗 https://www.livemint.com/market/ipo/brandman-retail-ipo-allotment-to-be-finalised-today-check-steps-to-track-status-online-gmp-signals-11-listing-pop-11770636821268.html
 
-- Experts turn bullish on small-cap stock Ugro Capital, see scope for a multiple re‑rating
-  Brokerage firm Elara Capital rates the stock a buy, anticipating a 54% upside. Ugro Capital's focus on profitability over
-  🔗 https://www.livemint.com/market/stock-market-news/experts-turn-bullish-on-small-cap-stock-ugro-capital-see-scope-for-a-multiple-rerating-11770618746566.html
+- Reforms and returns: Stage set for bull run 2.0?
+  India’s markets may have found cover under a fiscally prudent budget and a landmark US trade deal. While volatility persists, infrastructure bets and strategic pivots offer a path
+  🔗 https://www.livemint.com/market/india-budget-2026-us-trade-deal-market-impact-11770632611134.html
 
-- Small-cap defence stock Axiscades Technologies hits 5% upper circuit on bagging order from HAL for LCA Mk1A
-  Axiscades Technologies shares surged to the 5% upper circuit limit after its subsidiary Mistral Solutions secured an order for HAL's LCA Mk1
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-defence-stock-axiscades-technologies-hits-5-upper-circuit-on-bagging-order-from-hal-for-lca-mk1a-11770616885905.html
+- Navin Fluorine Q3 Results: Net profit more than doubles to  ₹185 crore, interim dividend of  ₹6.5 declared
+  Navin Fluorine International reported strong Q3FY26 results with net profit soaring to  ₹185.4 crore, up 122% YoY.
+  🔗 https://www.livemint.com/market/stock-market-news/navin-fluorine-q3-results-net-profit-more-than-doubles-to-rs-185-crore-interim-dividend-of-rs-6-5-declared-11770635716724.html
 
-- Gold, Silver ETFs jump up to 12% as precious metals rebound - Is the worst over?
-  Silver ETFs surged up to 12%, leading gains over gold ETFs. A weaker US dollar and improved risk sentiment boosted precious metal prices. Market participants are monitoring
-  🔗 https://www.livemint.com/market/stock-market-news/gold-etfs-silver-etfs-jump-up-to-12-as-silver-rate-gold-prices-rebound-is-the-worst-over-11770617285031.html
+- KPR Mill declares second interim dividend in FY26. Check record date, other details
+  KPR Mill declared a  ₹2.50 interim dividend, with Q3 FY26 net profit at  ⁹208.6 crore. The textile
+  🔗 https://www.livemint.com/market/kpr-mill-declares-second-interim-dividend-in-fy26-check-record-date-other-details-11770634195558.html
+
+- Samsung Galaxy F70e 5G launched in India with 6,000mAh battery: Price, specs and more
+  Samsung unveils the Galaxy F70e 5G in India, featuring a 6,000mAh battery
+  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-f70e-5g-launched-in-india-with-6-000mah-battery-price-specs-and-more-11770639732858.html
+
+- ChatGPT caricature trend: Check out step-by-step guide to recreate viral Instagram trend
+  A new trend involves using ChatGPT to create personalized caricatures based on users' chat history. The AI generates humorous images by capturing
+  🔗 https://www.livemint.com/technology/chatgpt-caricature-trend-check-out-step-by-step-guide-to-recreate-viral-instagram-trend-11770635525080.html
+
+- Gujarat partners SpaceX’s Starlink to boost digital connectivity statewide: CM Bhupendra Patel
+  The plan aims to improve digital access for schools, health centres, e-governance services and disaster management.
+  🔗 https://www.livemint.com/technology/tech-news/gujarat-partners-spacex-s-starlink-to-boost-digital-connectivity-statewide-cm-bhupendra-patel-11770636595618.html
+
+- EU warns Meta WhatsApp policy could cause serious harm to rival AI chatbots: All you need to know
+  European Commission warns the move could sideline rivals, distort competition.
+  🔗 https://www.livemint.com/technology/tech-news/eu-warns-meta-whatsapp-policy-could-cause-serious-harm-to-rival-ai-chatbots-all-you-need-to-know-11770628381270.html
 
 - What is AI.com? Meet the new AI agent platform that 'crashed' the Super Bowl
   AI.com launched on 8 Feburary with a 30 second Super Bowl ad. The company gained massive traffic after the ad and crashed briefly. It is owned by Crypto.
   🔗 https://www.livemint.com/technology/tech-news/what-is-ai-com-meet-the-new-ai-agent-platform-that-crashed-the-super-bowl-11770614270986.html
 
-- AI.com website crashes during Super Bowl, netizens quip — ‘how to burn $10M’
-   AI.com's website crashed after a 30-second Super Bowl 60 ad drove massive traffic
-  🔗 https://www.livemint.com/technology/aicom-website-crashes-super-bowl-netizens-quip-kris-marszalek-how-to-burn-us-news-latest-11770616017975.html
+- Jubilant Agri & Consumer Products consolidated net profit rises 0.84% in the December 2025 quarter
+  Sales rise
+  🔗 https://www.business-standard.com/markets/capital-market-news/jubilant-agri-consumer-products-consolidated-net-profit-rises-0-84-in-the-december-2025-quarter-126020901187_1.html
 
-- Taiwan says 40% shift of chip capacity to US is impossible
-  Taiwan says 40% shift
-  🔗 https://www.livemint.com/technology/taiwan-says-40-shift-of-chip-capacity-to-us-is-impossible-11770605005179.html
+- Navin Fluorine International consolidated net profit rises 121.77% in the December 2025 quarter
+  Sales rise
+  🔗 https://www.business-standard.com/markets/capital-market-news/navin-fluorine-international-consolidated-net-profit-rises-121-77-in-the-december-2025-quarter-126020901186_1.html
 
-- Apple reportedly readies iOS 26.4 with smarter Siri and Intelligence tools: What to expect
-  iOS 26.4 is expected to bring a major Siri overhaul with Apple Intelligence, personal context, on-screen awareness and cross-app actions. The
-  🔗 https://www.livemint.com/technology/tech-news/apple-reportedly-readies-ios-26-4-with-smarter-siri-and-intelligence-tools-what-to-expect-11770571528463.html
+- Genpharmasec reports consolidated net loss of Rs 0.83 crore in the December 2025 quarter
+  Sales rise
+  🔗 https://www.business-standard.com/markets/capital-market-news/genpharmasec-reports-consolidated-net-loss-of-rs-0-83-crore-in-the-december-2025-quarter-126020901185_1.html
 
-- Will X get a native AI video editor? Product head Nikita Bier responds
-  Nikita Bier reveals he built a working video editor for X in 15 minutes using AI. He shows how fast AI is resh
-  🔗 https://www.livemint.com/technology/tech-news/will-x-get-a-native-ai-video-editor-product-head-nikita-bier-responds-11770557972721.html
+- DCM Financial Services reports consolidated net loss of Rs 0.26 crore in the December 2025 quarter
+  
+  🔗 https://www.business-standard.com/markets/capital-market-news/dcm-financial-services-reports-consolidated-net-loss-of-rs-0-26-crore-in-the-december-2025-quarter-126020901184_1.html
 
-- Down up to 43% in 7 months, analyst turns bullish on these 3 stocks
-  Om Mehra of SAMCO Securities has turned bullish on these 3 stocks across market capitalisation. Gail, Balaji
-  🔗 https://www.business-standard.com/markets/news/gail-schneider-balaji-amines-down-up-to-43-in-7-months-analyst-turns-bullish-on-these-3-stocks-126020900382_1.html
+- ITL Industries consolidated net profit rises 17.83% in the December 2025 quarter
+  Sales rise
+  🔗 https://www.business-standard.com/markets/capital-market-news/itl-industries-consolidated-net-profit-rises-17-83-in-the-december-2025-quarter-126020901181_1.html
 
-- Axiscades Technologies hit 5% upper circuit as arm wins ₹80-crore order
-  Axiscades Technologies announced that its subsidiary Mistral Solutions has received an order worth
-  🔗 https://www.business-standard.com/markets/news/axiscades-technologies-hit-5-percent-upper-circuit-as-arm-wins-80-crore-order-126020900350_1.html
+- SBI, Tata Steel among 6 stocks that hit 52-week highs &amp; rallied up to 15% in a month
+  Sensex surged 485 points to 84,065, lifting market sentiment. Six BSE 100 stocks touched fresh 52-week highs. Strong earnings
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sbi-tata-steel-among-6-stocks-that-hit-52-week-highs-amp-rallied-up-to-15-in-a-month/slideshow/128114468.cms
 
-- Gold, silver extend gains as dollar dips; investors eye US economic data
-  The US dollar was at its lowest level since February 4. The
-  🔗 https://www.business-standard.com/markets/commodities/gold-silver-extend-gains-as-dollar-dips-investors-eye-us-economic-data-126020900297_1.html
+- Bajaj Electricals Q3 Results: Co reports loss of Rs 34 crore, revenue slumps 18% at Rs 1,050.9 crore
+  Bajaj Electricals Ltd on Monday reported a consolidated net loss of Rs 34.10 crore for the September quarter of FY26.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-electricals-q3-loss-at-rs-34-1-cr-revenue-down-18-5-pc-at-rs-1050-9-cr/articleshow/128113182.cms
 
-- Claude AI could worsen analyst groupthink in already volatile markets
-  As AI tools like Anthropic's Claude gain traction on Wall Street, analysts risk converging on the same data,
-  🔗 https://www.business-standard.com/technology/tech-news/claude-ai-could-worsen-analyst-groupthink-in-already-volatile-markets-126020900334_1.html
+- Gainers &amp; Losers: SBI, Shipping Corporation and PFC among 6 big movers on Monday
+   Benchmark indices closed higher for a second session as broad-based buying lifted financials. Stocks like SBI,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-sbi-shipping-corporation-and-pfc-among-6-big-movers-on-monday/slideshow/128111856.cms
 
-- Gems & Jewellery stocks: Goldiam, Kalyan, Senco, Thangamayil zoom up to 18%
-  India counts the US as its largest export market. If tariff rates on gems and jewellery are reduced to zero, it will bring major relief to
-  🔗 https://www.business-standard.com/markets/news/gems-jewellery-stocks-goldiam-kalyan-senco-thangamayil-zoom-up-to-18-126020900309_1.html
+- Yarn maker Trident posts quarterly profit slump as exports soften
+  Trident reported a 44% profit fall in the third quarter due to a U.S. tariff-induced export slowdown. Revenue dropped 6%, with bedsheet sales declining by a third.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/yarn-maker-trident-posts-quarterly-profit-slump-as-exports-soften/articleshow/128111504.cms
 
-- Russia oil trade in focus after India-US trade deal: What we know so far| India News - Hindustan Times
-  US agrees to drop tariffs after India stops Russian oil purchases. India-US Trade Deal: Which Food Items Will Get Cheaper In India.
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUFRcU1Vd0x6SUlqbjdaVHQ2eU41TEo1ZGUtVVF5RW8yOEJlNWxsNHFSdFNtOEw3WHRJd2VxZFRBWFQxNEQzZkYwQ2t5YjRCaFBHZ0VIT2dPelZqcURjejE5R2pBa1NlZGhKYzFraFAxOHJjdGhwbVMzb21pM0toMDZTZ3dST0ZHQ1NsLW45bzVOd3RLdThRVU94TnhEdktoTVJvc1RtWjZmTmtQeERsTEdLS2VaZkFhamt6ZlpuTEQ2WUtQQ2ZUTW1TajdTRkxxNk5BRk1sWDA3LVV4SklFUWNZclpGMS1NMm90RllORXM2QQ?oc=5
+- 9 Nifty500 stocks with rising Promoter pledges in Q3FY26
+  This can indicate financial stress or the need for liquidity. It suggests the promoters are using
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/9-nifty500-stocks-with-rising-promoter-pledges-in-q3fy26/slideshow/128111746.cms
 
-- India's Sarvam AI beats Google Gemini and ChatGPT, the world is impressed - India Today
-  India's Sarvam AI beats Google Gemini and Chat
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEdId2Q1blQzWE91UTdON3VfVFVQaTh6VFF6YVlkY1lRTlpfLXlwdDhHNFlPZF9LYldfSFhPVVV5clo3RVdjQjdfUUhKVUVNeFdjQlJiQTdZaUlTQ3FQdUF0aXZqX3paR3FCcVhTR0dmenFPLTR2MkFoY1E1Nmo5ajh6MXExQVY5QmJLVkFnZFU4LTZoQjd0d3pPT2hFc2hRaHpQT2tJNC11TUVIeGhoaWliMkV1RjRMS1BrLTg2THF0VS1rYUhFeDhfdms1YmFISDVfZNIB2gFBVV95cUxPTjZ0TGF6RkV2ZmYxbUJSbXNoazcwZnd4NTVoeHFhR3VJZ1hoRUFWYjB4dkdZTTFtZDIzVFk0MlRFQm1rY25BZjd5ZUlwdjZjcktyWFg5RlJrYUp2Rlp0MUVhYm9aaThCUkxXZmdDYXh4YzFVWXliWFk4dFJVdExkNDAzSlMyT1ZzdU9vUS1nSHUxTzBXTHFrd3dvM0NEQnBYYWhoUnhuek5paGtFd2JIaFNhLWV3M2phdzZEY2ZyeHE1Ukl2clNTYzhuekIzYnNGWlFITlJtRERndw?oc=5
+- Bangladesh: Why young people are turning against India - BBC
+  Bangladesh: Why young
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE91bmZyWXBmOGRtcFdOZ0ZMY0pycl9LS3ZyeVMxS0l3YzJRb3puend4NGM1SS0wWUkyWGRsd3M1V0RYTE5VeG05Tlg0WFh0SWhUOTFYbE5yS01yQdIBX0FVX3lxTE5KLXNtR0Rfa1RuYW16X2R1ZmVjNE1NcHkzTDhBVmp1Wl9vbVFIMkwyY1FWRUdPNW5fSHEzWTUzeU91R3RMa3kzbXJwakN6cHpCVDk5Vmh5SjBuLVBCeE1z?oc=5
 
-- In message to India, Jamaat chief says election will show ‘red card’ to forces of ‘hegemony’ - thehindu.com
-  In message to India, Jamaat chief says election will show ‘
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamlzc3A3aE12SVB1OEVYRnVGMmg3dXFkVk5nSjhUYlV4d211OXFyeDVLVHBwYVIwWVFaSzNrOWs5MmdxakFyLU9XbTZGTXZrNV9NUURCYVpDQ245ekhieFpsM0tFaTZYSHVfbEpTQkNpSHdaUXNEY0xVZHBXR0xKODNIc0FaT1l5NU1WX2FTRm1ZMEJkd2tEWTQ4N3RXaEdxTE83MFloMWNDUWJOT3RLaU56ZG5lYVhHVHpNblQ5bGREZE1nME1MbERocXBsZmFxZGlpRzVoUHhaQzE2NEHSAeQBQVVfeXFMUGpIdUJ0cXpHSC1NVFBWRjVla3VPR054N0Y1OUhuZ05TTXpqaHdtQk1UOTQ4SXJiRnE5a0hKR19pUVJsSVJfaDJDVzJyTG5WOTlyQ3RBM0NFNU11TGgzOG1vY0NrQjVZVFVLdDRLekdEUXBOdUJ6MDhSNjBUaGdDYTFMYlJmRTJFcHVTUFJNVm4yN1kwc3R2bnIwNk5IMVNxMVlwSzh0dERreHo1OTJUZ1owWGJFdEN6UkZ3WGJvaWV6RmhfS2V1ZF9jTFZYaVAzOThrdV9IWXExeFB6LUlZV2Nrcm82?oc=5
+- Tarique Rahman's BNP's Manifesto: The India Angle Explained - NDTV
+  Tarique Rahman's BNP
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOeE1aZU0yenBMOVNUNVpSbkFCcmVVSERzYWpHbDhSYk5ZWG0xSDJ4V085dGNmS2ZBUzktXzdJdnE3Njd0QjBnYVFfdlFYQllaS0N5VzdjTUtPRWVWRmpkc3pid2k1RDA5RVFqaU5rNk5EQl9oQXZWaWtfS0hvMEo2X1ExWFRSMXJZZ1dnUi1CbHVhX19SQXZkWmtIdGV2UdIBpgFBVV95cUxOLVRwZTFpOGt1Y3pRQjNVaDdJbzVkWmdoSmJTeGx1b2ZyRkxoLVQtOFNPV0UwdEdIak1zVGluNlBDUDI0d3kwbjAtdmlKdEhnRlNWZW4yNUxscS13ZUlGdUlpd25BVTE3RzdsNlFGSkNtcFFfclFtOUxfOVJ1bjdIUm5JUTVZdGZtRmsyVDQtRE5fUGRfLVdJU3VFaWM1WWY4SS15UVFn?oc=5
 
-- Andhra Techie, 27, Wanted "Lavish Lifestyle". So He Carried Out 60 Burglaries - NDTV
-  Andhra Techie, 27, Wanted "L
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFpkRTl1azhqeklMQWU2MFBOWkpMcGxtQVFjNk1FTUNMaFU5eGV3OUs3dHZBT0dyNGpLYzNiaXM3UVFjdGlqXzVUMFBBZVhJRE9TOGdCN0hsbVRFZmVFeThEcmxpTmtRUjc0YVR6V1BaOWwtQjUzN0k2TmcyYXB5LTczS3N2SWVzMnFQZW1pX0VXWW1zWEhUMmx6T2U0VmdzdFNVd1VaNHQwWk11QmhTSTF6UdIBuwFBVV95cUxQd3dfV0xqT0lBbjhkclZEYzltckNOQTZQWHFwdW5DQlhQZ3B1SEVqQmdkcWFNUHVnQmwzb2hHdXljSjdmNEU3blBsWVhOdEVoYXBVcTJpZHhnLUtuTlRXOVpMRUJRak4wM1VIVjVHWWRCWEVZUGNHbFBQYjk0eUctQ0tZUEpvUVluaElWbUFPTFlJS2szVllnY3hKS1ZQODZLUVB6elZybkNUcmhaMVlnQ28xN1F0VUV2alcw?oc=5
+- AI video of Assam CM Sarma shooting Muslims causes outrage in India - Al Jazeera
+  AI video of Assam CM Sarma shooting Muslims causes
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWhvemxKcE83dFRkNGloWjN2UFlqZDhjdWVrT3pZYWhybHVER1ZTMUVncVBfc1ZaNVBTRjVVal9sblVnVDZHMjRxRDI5OHVtLTBwZmRsZndSeXBIV3JMNHE2RDZ6ZjBmQXJDd1lMYS1VbGp6OHBUQU15eEk2cEpVYmRUVWtlWGxMbWZfc25fWVJjLTcwWTVGMlFmWmFGNm9zR0o4cGk3ZElORlXSAbABQVVfeXFMTWJ3MERlQVJveTdvSWZuaGRIYWVrQ2prYjg1M0JiSEZmZmtIeVB4LWtXVXBFaW9MN2hKX0x2bmpmV0J2XzA4Vjd4eTVJQXpvejBwSE9XVVBrS3Q1d0QxdkdjX1dpYk9MdkthaU9BYkgwcHc4QlhrdVp0Tl84dG9YOEFOanBfZnBYeUpjYXpVdXBrekMzUV8yWE5Ma0Y0SDBvSkFpSl9RcE5YU090SU8weGk?oc=5
 
-- Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,56,870 for 10 gm; Check MCX prices | India News - Hindustan Times
-  Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0U1UC14R2Y0c1EzT2dDOGtvcThjOEhBeTdFcFdfeDFJWk5fZHJ0cWhUVlBjdXl3NmpUUnhOc1B1LVlsN05xVm9DQUdlcFJzSGZ1ckM5d1NGSDhhSkRzbjFFdzlzQUNlMnVVRlNiTU9wdEF1UWwyRkUteF9BUUlCQ1V6Q0RXUEFhbmNWMXNUSDA2Y3hMZThQdndzQWpkMk1IQ3RrcnI1SE03YlZIeWV4eTJtZ1pDSHlEN3g5UGxPd0wzTEJWcndDZ3BGUkhVbnN3VGoyc3I4cnlkUGFiM2w0MjNKcHlrUGtmT3dJdWR2Mi1JUkXSAfgBQVVfeXFMTkhyNDhmQ1ptUnQ0OVczSTNPaXZuU3gzbU0ydzkzYll5cmtJWmRBaHM2cEVnZ1MxbE5NR0hlSTV4eFRibG0zTDhPUFd2dmE1ZTdLSmxPb0JyU0Nxa3oyZnRDS2g1R0Z4TzR5dV9BR3diTjZaWHFfUG5TUVRHQjY1SzAxdWVWeVR6ZllGM0xVcFo2ZVdpb1BQTXNqenljcVFjdXRyaFdFVnFNWmpZcW9vV2dwVXRBeWp3TkVxTVFwdFIyRV9iVXhkaHVYSTFnSm5VUnNmeXRwbklzSG9EZWdkY3hTWVluQlBxRHlnYUJtY1NpQzI5cmczMHM?oc=5
+- Evening news wrap: Owaisi files complaint over Assam CM's 'point-blank' video; Kanpur bizman's son mows d - Times of India
+  Evening news wrap: Owaisi files complaint over Assam CM's '
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQN2hYUkJMOURxcnBfNzQ4bDlWS2tnRWdRZXBVa2o2QUJ2djJvdUF3NTI1d09mdXhPa1RGM0Voa3F6b2l1anc3MzVnYXI5Q1hUSV9EMVRkTkVoUDlTeGdfRXhpSTY4SW84YkRJY3lBOGhHLTRjMlBSYlBrU29pazhRd3RDb3pvbm04djE5cVF2M05oR2s0ZlFGcVh5X2N0dEp3bC01R094eHNNV1dhMlRQRnNoZFJrV1VITHFRVmlDSng1SllaUnJ6RTdYclN0ZEdaUkhvem9PMGpKUzRZUGlFd3hEOFZxa1ZWeDBhYmxhLTgwUlRCMGRCQS1XOUVRVFQtNTBqajdVWXE2c3N3Y2ZpbEk5TDZHS3RvNF9R0gGgAkFVX3lxTE1KT25fU0ZNeXFOSzFxcHZPaUFuTnRSNkNuN2ZCdnBHcjhfWE5OV1VMLVIxUWpmcUU1aGdPaURlRFlqSTB4MGtSSFZoMnhqNk4tV3dlZ21QX0xzNktMdUtZSUpUVDRIN0d6bFF0dTJ3bGllOEpJSlJZRV9qcnlPM1NYYVU2dkU0bGRQejJ6ckFPQVEtN01falVJYTRCbmF1RWRMR3d6bm5TLVJ2OXA4bkwxMl9qOHhHc1Nua3hqdldTUWZiWmtSM2R3TEJwUWZzQ3VCVDkzNEpDX3Rkelh3dVZjY1JqWlZUU0QyUGRkRnNDeldiSHJlcHhnRFN0b1hFaEdFenhlbXVMc2lab1BiWmdQZGtwaTFsdFV1M2M3bk1QMw?oc=5
 
-- Russia oil trade in focus after India-US trade deal: What we know so far| India News - Hindustan Times
-  US agrees to drop tariffs after India stops Russian oil purchases. India-US Trade Deal: Which Food Items Will Get Cheaper In India.
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUFRcU1Vd0x6SUlqbjdaVHQ2eU41TEo1ZGUtVVF5RW8yOEJlNWxsNHFSdFNtOEw3WHRJd2VxZFRBWFQxNEQzZkYwQ2t5YjRCaFBHZ0VIT2dPelZqcURjejE5R2pBa1NlZGhKYzFraFAxOHJjdGhwbVMzb21pM0toMDZTZ3dST0ZHQ1NsLW45bzVOd3RLdThRVU94TnhEdktoTVJvc1RtWjZmTmtQeERsTEdLS2VaZkFhamt6ZlpuTEQ2WUtQQ2ZUTW1TajdTRkxxNk5BRk1sWDA3LVV4SklFUWNZclpGMS1NMm90RllORXM2QQ?oc=5
+- Big Update For Salaried Class In India: Subscribers Can Soon Withdraw PF Money Through UPI - NDTV
+  Big Update For Salaried Class In India: Subscribers
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdDZpQUdPSGNtUm0zc3RSTVdXQVNVNkp6OUU4eFBZcER6bDhjTTZ6b1lwd2xtbjM4TGZ6YVUtNVE1S2x0emxiY0t3YlZzRFVfWXBqYmxBbjhCaElLc0MyWXQxYTY3ZVpFU3hpVzFEeC1mck00N2xpVXI3WUxjUF9RUWRFX2gwUG9PZGVBWXJmaTQwUXdaQVFRY1pkRWQ3YUhXRGcwaVdQVnJsX2lqNTdrc1FVeTlLME83VURjODF3aDNNYU56aFNGNjQxbDgycExENy1NWndn0gHeAUFVX3lxTFAtc3l3cTIwbjlvbUZ1YTZaX2tZR0J1amQybXhURVdUZzYwZkNqbldxTENSa2F3Vko0bnpESEZ4Znl2Mkg5S2w4VHl3V1ZsLXp5dDVOX1ZKQnBVSjFaQTJHOFV1TkkwVTNxZjFfMEtlbjUxeUhVb2F6cFBod1I5VzlQZnROdFprV2R4ejlKYjZ6Z0NQeTZKam8xVkdTbVRVZk8tbVhjU0oza2NiRFRZZXdvbFhINV9sQy15ZnpBdHhPbnZyZy1id1UwbWFTanhQSVVzeG43STZIR1Q4T3lvQQ?oc=5
 
-- India's Sarvam AI beats Google Gemini and ChatGPT, the world is impressed - India Today
-  India's Sarvam AI beats Google Gemini and Chat
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEdId2Q1blQzWE91UTdON3VfVFVQaTh6VFF6YVlkY1lRTlpfLXlwdDhHNFlPZF9LYldfSFhPVVV5clo3RVdjQjdfUUhKVUVNeFdjQlJiQTdZaUlTQ3FQdUF0aXZqX3paR3FCcVhTR0dmenFPLTR2MkFoY1E1Nmo5ajh6MXExQVY5QmJLVkFnZFU4LTZoQjd0d3pPT2hFc2hRaHpQT2tJNC11TUVIeGhoaWliMkV1RjRMS1BrLTg2THF0VS1rYUhFeDhfdms1YmFISDVfZNIB2gFBVV95cUxPTjZ0TGF6RkV2ZmYxbUJSbXNoazcwZnd4NTVoeHFhR3VJZ1hoRUFWYjB4dkdZTTFtZDIzVFk0MlRFQm1rY25BZjd5ZUlwdjZjcktyWFg5RlJrYUp2Rlp0MUVhYm9aaThCUkxXZmdDYXh4YzFVWXliWFk4dFJVdExkNDAzSlMyT1ZzdU9vUS1nSHUxTzBXTHFrd3dvM0NEQnBYYWhoUnhuek5paGtFd2JIaFNhLWV3M2phdzZEY2ZyeHE1Ukl2clNTYzhuekIzYnNGWlFITlJtRERndw?oc=5
+- Bangladesh: Why young people are turning against India - BBC
+  Bangladesh: Why young
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE91bmZyWXBmOGRtcFdOZ0ZMY0pycl9LS3ZyeVMxS0l3YzJRb3puend4NGM1SS0wWUkyWGRsd3M1V0RYTE5VeG05Tlg0WFh0SWhUOTFYbE5yS01yQdIBX0FVX3lxTE5KLXNtR0Rfa1RuYW16X2R1ZmVjNE1NcHkzTDhBVmp1Wl9vbVFIMkwyY1FWRUdPNW5fSHEzWTUzeU91R3RMa3kzbXJwakN6cHpCVDk5Vmh5SjBuLVBCeE1z?oc=5
 
-- In message to India, Jamaat chief says election will show ‘red card’ to forces of ‘hegemony’ - thehindu.com
-  In message to India, Jamaat chief says election will show ‘
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamlzc3A3aE12SVB1OEVYRnVGMmg3dXFkVk5nSjhUYlV4d211OXFyeDVLVHBwYVIwWVFaSzNrOWs5MmdxakFyLU9XbTZGTXZrNV9NUURCYVpDQ245ekhieFpsM0tFaTZYSHVfbEpTQkNpSHdaUXNEY0xVZHBXR0xKODNIc0FaT1l5NU1WX2FTRm1ZMEJkd2tEWTQ4N3RXaEdxTE83MFloMWNDUWJOT3RLaU56ZG5lYVhHVHpNblQ5bGREZE1nME1MbERocXBsZmFxZGlpRzVoUHhaQzE2NEHSAeQBQVVfeXFMUGpIdUJ0cXpHSC1NVFBWRjVla3VPR054N0Y1OUhuZ05TTXpqaHdtQk1UOTQ4SXJiRnE5a0hKR19pUVJsSVJfaDJDVzJyTG5WOTlyQ3RBM0NFNU11TGgzOG1vY0NrQjVZVFVLdDRLekdEUXBOdUJ6MDhSNjBUaGdDYTFMYlJmRTJFcHVTUFJNVm4yN1kwc3R2bnIwNk5IMVNxMVlwSzh0dERreHo1OTJUZ1owWGJFdEN6UkZ3WGJvaWV6RmhfS2V1ZF9jTFZYaVAzOThrdV9IWXExeFB6LUlZV2Nrcm82?oc=5
+- Tarique Rahman's BNP's Manifesto: The India Angle Explained - NDTV
+  Tarique Rahman's BNP
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOeE1aZU0yenBMOVNUNVpSbkFCcmVVSERzYWpHbDhSYk5ZWG0xSDJ4V085dGNmS2ZBUzktXzdJdnE3Njd0QjBnYVFfdlFYQllaS0N5VzdjTUtPRWVWRmpkc3pid2k1RDA5RVFqaU5rNk5EQl9oQXZWaWtfS0hvMEo2X1ExWFRSMXJZZ1dnUi1CbHVhX19SQXZkWmtIdGV2UdIBpgFBVV95cUxOLVRwZTFpOGt1Y3pRQjNVaDdJbzVkWmdoSmJTeGx1b2ZyRkxoLVQtOFNPV0UwdEdIak1zVGluNlBDUDI0d3kwbjAtdmlKdEhnRlNWZW4yNUxscS13ZUlGdUlpd25BVTE3RzdsNlFGSkNtcFFfclFtOUxfOVJ1bjdIUm5JUTVZdGZtRmsyVDQtRE5fUGRfLVdJU3VFaWM1WWY4SS15UVFn?oc=5
 
-- Andhra Techie, 27, Wanted "Lavish Lifestyle". So He Carried Out 60 Burglaries - NDTV
-  Andhra Techie, 27, Wanted "L
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFpkRTl1azhqeklMQWU2MFBOWkpMcGxtQVFjNk1FTUNMaFU5eGV3OUs3dHZBT0dyNGpLYzNiaXM3UVFjdGlqXzVUMFBBZVhJRE9TOGdCN0hsbVRFZmVFeThEcmxpTmtRUjc0YVR6V1BaOWwtQjUzN0k2TmcyYXB5LTczS3N2SWVzMnFQZW1pX0VXWW1zWEhUMmx6T2U0VmdzdFNVd1VaNHQwWk11QmhTSTF6UdIBuwFBVV95cUxQd3dfV0xqT0lBbjhkclZEYzltckNOQTZQWHFwdW5DQlhQZ3B1SEVqQmdkcWFNUHVnQmwzb2hHdXljSjdmNEU3blBsWVhOdEVoYXBVcTJpZHhnLUtuTlRXOVpMRUJRak4wM1VIVjVHWWRCWEVZUGNHbFBQYjk0eUctQ0tZUEpvUVluaElWbUFPTFlJS2szVllnY3hKS1ZQODZLUVB6elZybkNUcmhaMVlnQ28xN1F0VUV2alcw?oc=5
+- AI video of Assam CM Sarma shooting Muslims causes outrage in India - Al Jazeera
+  AI video of Assam CM Sarma shooting Muslims causes
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWhvemxKcE83dFRkNGloWjN2UFlqZDhjdWVrT3pZYWhybHVER1ZTMUVncVBfc1ZaNVBTRjVVal9sblVnVDZHMjRxRDI5OHVtLTBwZmRsZndSeXBIV3JMNHE2RDZ6ZjBmQXJDd1lMYS1VbGp6OHBUQU15eEk2cEpVYmRUVWtlWGxMbWZfc25fWVJjLTcwWTVGMlFmWmFGNm9zR0o4cGk3ZElORlXSAbABQVVfeXFMTWJ3MERlQVJveTdvSWZuaGRIYWVrQ2prYjg1M0JiSEZmZmtIeVB4LWtXVXBFaW9MN2hKX0x2bmpmV0J2XzA4Vjd4eTVJQXpvejBwSE9XVVBrS3Q1d0QxdkdjX1dpYk9MdkthaU9BYkgwcHc4QlhrdVp0Tl84dG9YOEFOanBfZnBYeUpjYXpVdXBrekMzUV8yWE5Ma0Y0SDBvSkFpSl9RcE5YU090SU8weGk?oc=5
 
-- Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,56,870 for 10 gm; Check MCX prices | India News - Hindustan Times
-  Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0U1UC14R2Y0c1EzT2dDOGtvcThjOEhBeTdFcFdfeDFJWk5fZHJ0cWhUVlBjdXl3NmpUUnhOc1B1LVlsN05xVm9DQUdlcFJzSGZ1ckM5d1NGSDhhSkRzbjFFdzlzQUNlMnVVRlNiTU9wdEF1UWwyRkUteF9BUUlCQ1V6Q0RXUEFhbmNWMXNUSDA2Y3hMZThQdndzQWpkMk1IQ3RrcnI1SE03YlZIeWV4eTJtZ1pDSHlEN3g5UGxPd0wzTEJWcndDZ3BGUkhVbnN3VGoyc3I4cnlkUGFiM2w0MjNKcHlrUGtmT3dJdWR2Mi1JUkXSAfgBQVVfeXFMTkhyNDhmQ1ptUnQ0OVczSTNPaXZuU3gzbU0ydzkzYll5cmtJWmRBaHM2cEVnZ1MxbE5NR0hlSTV4eFRibG0zTDhPUFd2dmE1ZTdLSmxPb0JyU0Nxa3oyZnRDS2g1R0Z4TzR5dV9BR3diTjZaWHFfUG5TUVRHQjY1SzAxdWVWeVR6ZllGM0xVcFo2ZVdpb1BQTXNqenljcVFjdXRyaFdFVnFNWmpZcW9vV2dwVXRBeWp3TkVxTVFwdFIyRV9iVXhkaHVYSTFnSm5VUnNmeXRwbklzSG9EZWdkY3hTWVluQlBxRHlnYUJtY1NpQzI5cmczMHM?oc=5
+- Evening news wrap: Owaisi files complaint over Assam CM's 'point-blank' video; Kanpur bizman's son mows d - Times of India
+  Evening news wrap: Owaisi files complaint over Assam CM's '
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQN2hYUkJMOURxcnBfNzQ4bDlWS2tnRWdRZXBVa2o2QUJ2djJvdUF3NTI1d09mdXhPa1RGM0Voa3F6b2l1anc3MzVnYXI5Q1hUSV9EMVRkTkVoUDlTeGdfRXhpSTY4SW84YkRJY3lBOGhHLTRjMlBSYlBrU29pazhRd3RDb3pvbm04djE5cVF2M05oR2s0ZlFGcVh5X2N0dEp3bC01R094eHNNV1dhMlRQRnNoZFJrV1VITHFRVmlDSng1SllaUnJ6RTdYclN0ZEdaUkhvem9PMGpKUzRZUGlFd3hEOFZxa1ZWeDBhYmxhLTgwUlRCMGRCQS1XOUVRVFQtNTBqajdVWXE2c3N3Y2ZpbEk5TDZHS3RvNF9R0gGgAkFVX3lxTE1KT25fU0ZNeXFOSzFxcHZPaUFuTnRSNkNuN2ZCdnBHcjhfWE5OV1VMLVIxUWpmcUU1aGdPaURlRFlqSTB4MGtSSFZoMnhqNk4tV3dlZ21QX0xzNktMdUtZSUpUVDRIN0d6bFF0dTJ3bGllOEpJSlJZRV9qcnlPM1NYYVU2dkU0bGRQejJ6ckFPQVEtN01falVJYTRCbmF1RWRMR3d6bm5TLVJ2OXA4bkwxMl9qOHhHc1Nua3hqdldTUWZiWmtSM2R3TEJwUWZzQ3VCVDkzNEpDX3Rkelh3dVZjY1JqWlZUU0QyUGRkRnNDeldiSHJlcHhnRFN0b1hFaEdFenhlbXVMc2lab1BiWmdQZGtwaTFsdFV1M2M3bk1QMw?oc=5
 
-- Russia oil trade in focus after India-US trade deal: What we know so far| India News - Hindustan Times
-  US agrees to drop tariffs after India stops Russian oil purchases. India-US Trade Deal: Which Food Items Will Get Cheaper In India.
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUFRcU1Vd0x6SUlqbjdaVHQ2eU41TEo1ZGUtVVF5RW8yOEJlNWxsNHFSdFNtOEw3WHRJd2VxZFRBWFQxNEQzZkYwQ2t5YjRCaFBHZ0VIT2dPelZqcURjejE5R2pBa1NlZGhKYzFraFAxOHJjdGhwbVMzb21pM0toMDZTZ3dST0ZHQ1NsLW45bzVOd3RLdThRVU94TnhEdktoTVJvc1RtWjZmTmtQeERsTEdLS2VaZkFhamt6ZlpuTEQ2WUtQQ2ZUTW1TajdTRkxxNk5BRk1sWDA3LVV4SklFUWNZclpGMS1NMm90RllORXM2QQ?oc=5
+- Big Update For Salaried Class In India: Subscribers Can Soon Withdraw PF Money Through UPI - NDTV
+  Big Update For Salaried Class In India: Subscribers
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdDZpQUdPSGNtUm0zc3RSTVdXQVNVNkp6OUU4eFBZcER6bDhjTTZ6b1lwd2xtbjM4TGZ6YVUtNVE1S2x0emxiY0t3YlZzRFVfWXBqYmxBbjhCaElLc0MyWXQxYTY3ZVpFU3hpVzFEeC1mck00N2xpVXI3WUxjUF9RUWRFX2gwUG9PZGVBWXJmaTQwUXdaQVFRY1pkRWQ3YUhXRGcwaVdQVnJsX2lqNTdrc1FVeTlLME83VURjODF3aDNNYU56aFNGNjQxbDgycExENy1NWndn0gHeAUFVX3lxTFAtc3l3cTIwbjlvbUZ1YTZaX2tZR0J1amQybXhURVdUZzYwZkNqbldxTENSa2F3Vko0bnpESEZ4Znl2Mkg5S2w4VHl3V1ZsLXp5dDVOX1ZKQnBVSjFaQTJHOFV1TkkwVTNxZjFfMEtlbjUxeUhVb2F6cFBod1I5VzlQZnROdFprV2R4ejlKYjZ6Z0NQeTZKam8xVkdTbVRVZk8tbVhjU0oza2NiRFRZZXdvbFhINV9sQy15ZnpBdHhPbnZyZy1id1UwbWFTanhQSVVzeG43STZIR1Q4T3lvQQ?oc=5
 
-- India's Sarvam AI beats Google Gemini and ChatGPT, the world is impressed - India Today
-  India's Sarvam AI beats Google Gemini and Chat
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEdId2Q1blQzWE91UTdON3VfVFVQaTh6VFF6YVlkY1lRTlpfLXlwdDhHNFlPZF9LYldfSFhPVVV5clo3RVdjQjdfUUhKVUVNeFdjQlJiQTdZaUlTQ3FQdUF0aXZqX3paR3FCcVhTR0dmenFPLTR2MkFoY1E1Nmo5ajh6MXExQVY5QmJLVkFnZFU4LTZoQjd0d3pPT2hFc2hRaHpQT2tJNC11TUVIeGhoaWliMkV1RjRMS1BrLTg2THF0VS1rYUhFeDhfdms1YmFISDVfZNIB2gFBVV95cUxPTjZ0TGF6RkV2ZmYxbUJSbXNoazcwZnd4NTVoeHFhR3VJZ1hoRUFWYjB4dkdZTTFtZDIzVFk0MlRFQm1rY25BZjd5ZUlwdjZjcktyWFg5RlJrYUp2Rlp0MUVhYm9aaThCUkxXZmdDYXh4YzFVWXliWFk4dFJVdExkNDAzSlMyT1ZzdU9vUS1nSHUxTzBXTHFrd3dvM0NEQnBYYWhoUnhuek5paGtFd2JIaFNhLWV3M2phdzZEY2ZyeHE1Ukl2clNTYzhuekIzYnNGWlFITlJtRERndw?oc=5
+- Bangladesh: Why young people are turning against India - BBC
+  Bangladesh: Why young
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE91bmZyWXBmOGRtcFdOZ0ZMY0pycl9LS3ZyeVMxS0l3YzJRb3puend4NGM1SS0wWUkyWGRsd3M1V0RYTE5VeG05Tlg0WFh0SWhUOTFYbE5yS01yQdIBX0FVX3lxTE5KLXNtR0Rfa1RuYW16X2R1ZmVjNE1NcHkzTDhBVmp1Wl9vbVFIMkwyY1FWRUdPNW5fSHEzWTUzeU91R3RMa3kzbXJwakN6cHpCVDk5Vmh5SjBuLVBCeE1z?oc=5
 
-- In message to India, Jamaat chief says election will show ‘red card’ to forces of ‘hegemony’ - thehindu.com
-  In message to India, Jamaat chief says election will show ‘
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamlzc3A3aE12SVB1OEVYRnVGMmg3dXFkVk5nSjhUYlV4d211OXFyeDVLVHBwYVIwWVFaSzNrOWs5MmdxakFyLU9XbTZGTXZrNV9NUURCYVpDQ245ekhieFpsM0tFaTZYSHVfbEpTQkNpSHdaUXNEY0xVZHBXR0xKODNIc0FaT1l5NU1WX2FTRm1ZMEJkd2tEWTQ4N3RXaEdxTE83MFloMWNDUWJOT3RLaU56ZG5lYVhHVHpNblQ5bGREZE1nME1MbERocXBsZmFxZGlpRzVoUHhaQzE2NEHSAeQBQVVfeXFMUGpIdUJ0cXpHSC1NVFBWRjVla3VPR054N0Y1OUhuZ05TTXpqaHdtQk1UOTQ4SXJiRnE5a0hKR19pUVJsSVJfaDJDVzJyTG5WOTlyQ3RBM0NFNU11TGgzOG1vY0NrQjVZVFVLdDRLekdEUXBOdUJ6MDhSNjBUaGdDYTFMYlJmRTJFcHVTUFJNVm4yN1kwc3R2bnIwNk5IMVNxMVlwSzh0dERreHo1OTJUZ1owWGJFdEN6UkZ3WGJvaWV6RmhfS2V1ZF9jTFZYaVAzOThrdV9IWXExeFB6LUlZV2Nrcm82?oc=5
+- Tarique Rahman's BNP's Manifesto: The India Angle Explained - NDTV
+  Tarique Rahman's BNP
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOeE1aZU0yenBMOVNUNVpSbkFCcmVVSERzYWpHbDhSYk5ZWG0xSDJ4V085dGNmS2ZBUzktXzdJdnE3Njd0QjBnYVFfdlFYQllaS0N5VzdjTUtPRWVWRmpkc3pid2k1RDA5RVFqaU5rNk5EQl9oQXZWaWtfS0hvMEo2X1ExWFRSMXJZZ1dnUi1CbHVhX19SQXZkWmtIdGV2UdIBpgFBVV95cUxOLVRwZTFpOGt1Y3pRQjNVaDdJbzVkWmdoSmJTeGx1b2ZyRkxoLVQtOFNPV0UwdEdIak1zVGluNlBDUDI0d3kwbjAtdmlKdEhnRlNWZW4yNUxscS13ZUlGdUlpd25BVTE3RzdsNlFGSkNtcFFfclFtOUxfOVJ1bjdIUm5JUTVZdGZtRmsyVDQtRE5fUGRfLVdJU3VFaWM1WWY4SS15UVFn?oc=5
 
-- Andhra Techie, 27, Wanted "Lavish Lifestyle". So He Carried Out 60 Burglaries - NDTV
-  Andhra Techie, 27, Wanted "L
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFpkRTl1azhqeklMQWU2MFBOWkpMcGxtQVFjNk1FTUNMaFU5eGV3OUs3dHZBT0dyNGpLYzNiaXM3UVFjdGlqXzVUMFBBZVhJRE9TOGdCN0hsbVRFZmVFeThEcmxpTmtRUjc0YVR6V1BaOWwtQjUzN0k2TmcyYXB5LTczS3N2SWVzMnFQZW1pX0VXWW1zWEhUMmx6T2U0VmdzdFNVd1VaNHQwWk11QmhTSTF6UdIBuwFBVV95cUxQd3dfV0xqT0lBbjhkclZEYzltckNOQTZQWHFwdW5DQlhQZ3B1SEVqQmdkcWFNUHVnQmwzb2hHdXljSjdmNEU3blBsWVhOdEVoYXBVcTJpZHhnLUtuTlRXOVpMRUJRak4wM1VIVjVHWWRCWEVZUGNHbFBQYjk0eUctQ0tZUEpvUVluaElWbUFPTFlJS2szVllnY3hKS1ZQODZLUVB6elZybkNUcmhaMVlnQ28xN1F0VUV2alcw?oc=5
+- AI video of Assam CM Sarma shooting Muslims causes outrage in India - Al Jazeera
+  AI video of Assam CM Sarma shooting Muslims causes
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWhvemxKcE83dFRkNGloWjN2UFlqZDhjdWVrT3pZYWhybHVER1ZTMUVncVBfc1ZaNVBTRjVVal9sblVnVDZHMjRxRDI5OHVtLTBwZmRsZndSeXBIV3JMNHE2RDZ6ZjBmQXJDd1lMYS1VbGp6OHBUQU15eEk2cEpVYmRUVWtlWGxMbWZfc25fWVJjLTcwWTVGMlFmWmFGNm9zR0o4cGk3ZElORlXSAbABQVVfeXFMTWJ3MERlQVJveTdvSWZuaGRIYWVrQ2prYjg1M0JiSEZmZmtIeVB4LWtXVXBFaW9MN2hKX0x2bmpmV0J2XzA4Vjd4eTVJQXpvejBwSE9XVVBrS3Q1d0QxdkdjX1dpYk9MdkthaU9BYkgwcHc4QlhrdVp0Tl84dG9YOEFOanBfZnBYeUpjYXpVdXBrekMzUV8yWE5Ma0Y0SDBvSkFpSl9RcE5YU090SU8weGk?oc=5
 
-- Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,56,870 for 10 gm; Check MCX prices | India News - Hindustan Times
-  Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0U1UC14R2Y0c1EzT2dDOGtvcThjOEhBeTdFcFdfeDFJWk5fZHJ0cWhUVlBjdXl3NmpUUnhOc1B1LVlsN05xVm9DQUdlcFJzSGZ1ckM5d1NGSDhhSkRzbjFFdzlzQUNlMnVVRlNiTU9wdEF1UWwyRkUteF9BUUlCQ1V6Q0RXUEFhbmNWMXNUSDA2Y3hMZThQdndzQWpkMk1IQ3RrcnI1SE03YlZIeWV4eTJtZ1pDSHlEN3g5UGxPd0wzTEJWcndDZ3BGUkhVbnN3VGoyc3I4cnlkUGFiM2w0MjNKcHlrUGtmT3dJdWR2Mi1JUkXSAfgBQVVfeXFMTkhyNDhmQ1ptUnQ0OVczSTNPaXZuU3gzbU0ydzkzYll5cmtJWmRBaHM2cEVnZ1MxbE5NR0hlSTV4eFRibG0zTDhPUFd2dmE1ZTdLSmxPb0JyU0Nxa3oyZnRDS2g1R0Z4TzR5dV9BR3diTjZaWHFfUG5TUVRHQjY1SzAxdWVWeVR6ZllGM0xVcFo2ZVdpb1BQTXNqenljcVFjdXRyaFdFVnFNWmpZcW9vV2dwVXRBeWp3TkVxTVFwdFIyRV9iVXhkaHVYSTFnSm5VUnNmeXRwbklzSG9EZWdkY3hTWVluQlBxRHlnYUJtY1NpQzI5cmczMHM?oc=5
+- Evening news wrap: Owaisi files complaint over Assam CM's 'point-blank' video; Kanpur bizman's son mows d - Times of India
+  Evening news wrap: Owaisi files complaint over Assam CM's '
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQN2hYUkJMOURxcnBfNzQ4bDlWS2tnRWdRZXBVa2o2QUJ2djJvdUF3NTI1d09mdXhPa1RGM0Voa3F6b2l1anc3MzVnYXI5Q1hUSV9EMVRkTkVoUDlTeGdfRXhpSTY4SW84YkRJY3lBOGhHLTRjMlBSYlBrU29pazhRd3RDb3pvbm04djE5cVF2M05oR2s0ZlFGcVh5X2N0dEp3bC01R094eHNNV1dhMlRQRnNoZFJrV1VITHFRVmlDSng1SllaUnJ6RTdYclN0ZEdaUkhvem9PMGpKUzRZUGlFd3hEOFZxa1ZWeDBhYmxhLTgwUlRCMGRCQS1XOUVRVFQtNTBqajdVWXE2c3N3Y2ZpbEk5TDZHS3RvNF9R0gGgAkFVX3lxTE1KT25fU0ZNeXFOSzFxcHZPaUFuTnRSNkNuN2ZCdnBHcjhfWE5OV1VMLVIxUWpmcUU1aGdPaURlRFlqSTB4MGtSSFZoMnhqNk4tV3dlZ21QX0xzNktMdUtZSUpUVDRIN0d6bFF0dTJ3bGllOEpJSlJZRV9qcnlPM1NYYVU2dkU0bGRQejJ6ckFPQVEtN01falVJYTRCbmF1RWRMR3d6bm5TLVJ2OXA4bkwxMl9qOHhHc1Nua3hqdldTUWZiWmtSM2R3TEJwUWZzQ3VCVDkzNEpDX3Rkelh3dVZjY1JqWlZUU0QyUGRkRnNDeldiSHJlcHhnRFN0b1hFaEdFenhlbXVMc2lab1BiWmdQZGtwaTFsdFV1M2M3bk1QMw?oc=5
 
-- Russia oil trade in focus after India-US trade deal: What we know so far| India News - Hindustan Times
-  US agrees to drop tariffs after India stops Russian oil purchases. India-US Trade Deal: Which Food Items Will Get Cheaper In India.
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUFRcU1Vd0x6SUlqbjdaVHQ2eU41TEo1ZGUtVVF5RW8yOEJlNWxsNHFSdFNtOEw3WHRJd2VxZFRBWFQxNEQzZkYwQ2t5YjRCaFBHZ0VIT2dPelZqcURjejE5R2pBa1NlZGhKYzFraFAxOHJjdGhwbVMzb21pM0toMDZTZ3dST0ZHQ1NsLW45bzVOd3RLdThRVU94TnhEdktoTVJvc1RtWjZmTmtQeERsTEdLS2VaZkFhamt6ZlpuTEQ2WUtQQ2ZUTW1TajdTRkxxNk5BRk1sWDA3LVV4SklFUWNZclpGMS1NMm90RllORXM2QQ?oc=5
+- Big Update For Salaried Class In India: Subscribers Can Soon Withdraw PF Money Through UPI - NDTV
+  Big Update For Salaried Class In India: Subscribers
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdDZpQUdPSGNtUm0zc3RSTVdXQVNVNkp6OUU4eFBZcER6bDhjTTZ6b1lwd2xtbjM4TGZ6YVUtNVE1S2x0emxiY0t3YlZzRFVfWXBqYmxBbjhCaElLc0MyWXQxYTY3ZVpFU3hpVzFEeC1mck00N2xpVXI3WUxjUF9RUWRFX2gwUG9PZGVBWXJmaTQwUXdaQVFRY1pkRWQ3YUhXRGcwaVdQVnJsX2lqNTdrc1FVeTlLME83VURjODF3aDNNYU56aFNGNjQxbDgycExENy1NWndn0gHeAUFVX3lxTFAtc3l3cTIwbjlvbUZ1YTZaX2tZR0J1amQybXhURVdUZzYwZkNqbldxTENSa2F3Vko0bnpESEZ4Znl2Mkg5S2w4VHl3V1ZsLXp5dDVOX1ZKQnBVSjFaQTJHOFV1TkkwVTNxZjFfMEtlbjUxeUhVb2F6cFBod1I5VzlQZnROdFprV2R4ejlKYjZ6Z0NQeTZKam8xVkdTbVRVZk8tbVhjU0oza2NiRFRZZXdvbFhINV9sQy15ZnpBdHhPbnZyZy1id1UwbWFTanhQSVVzeG43STZIR1Q4T3lvQQ?oc=5
 
-- India's Sarvam AI beats Google Gemini and ChatGPT, the world is impressed - India Today
-  India's Sarvam AI beats Google Gemini and Chat
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEdId2Q1blQzWE91UTdON3VfVFVQaTh6VFF6YVlkY1lRTlpfLXlwdDhHNFlPZF9LYldfSFhPVVV5clo3RVdjQjdfUUhKVUVNeFdjQlJiQTdZaUlTQ3FQdUF0aXZqX3paR3FCcVhTR0dmenFPLTR2MkFoY1E1Nmo5ajh6MXExQVY5QmJLVkFnZFU4LTZoQjd0d3pPT2hFc2hRaHpQT2tJNC11TUVIeGhoaWliMkV1RjRMS1BrLTg2THF0VS1rYUhFeDhfdms1YmFISDVfZNIB2gFBVV95cUxPTjZ0TGF6RkV2ZmYxbUJSbXNoazcwZnd4NTVoeHFhR3VJZ1hoRUFWYjB4dkdZTTFtZDIzVFk0MlRFQm1rY25BZjd5ZUlwdjZjcktyWFg5RlJrYUp2Rlp0MUVhYm9aaThCUkxXZmdDYXh4YzFVWXliWFk4dFJVdExkNDAzSlMyT1ZzdU9vUS1nSHUxTzBXTHFrd3dvM0NEQnBYYWhoUnhuek5paGtFd2JIaFNhLWV3M2phdzZEY2ZyeHE1Ukl2clNTYzhuekIzYnNGWlFITlJtRERndw?oc=5
+- Bangladesh: Why young people are turning against India - BBC
+  Bangladesh: Why young
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE91bmZyWXBmOGRtcFdOZ0ZMY0pycl9LS3ZyeVMxS0l3YzJRb3puend4NGM1SS0wWUkyWGRsd3M1V0RYTE5VeG05Tlg0WFh0SWhUOTFYbE5yS01yQdIBX0FVX3lxTE5KLXNtR0Rfa1RuYW16X2R1ZmVjNE1NcHkzTDhBVmp1Wl9vbVFIMkwyY1FWRUdPNW5fSHEzWTUzeU91R3RMa3kzbXJwakN6cHpCVDk5Vmh5SjBuLVBCeE1z?oc=5
 
-- In message to India, Jamaat chief says election will show ‘red card’ to forces of ‘hegemony’ - thehindu.com
-  In message to India, Jamaat chief says election will show ‘
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamlzc3A3aE12SVB1OEVYRnVGMmg3dXFkVk5nSjhUYlV4d211OXFyeDVLVHBwYVIwWVFaSzNrOWs5MmdxakFyLU9XbTZGTXZrNV9NUURCYVpDQ245ekhieFpsM0tFaTZYSHVfbEpTQkNpSHdaUXNEY0xVZHBXR0xKODNIc0FaT1l5NU1WX2FTRm1ZMEJkd2tEWTQ4N3RXaEdxTE83MFloMWNDUWJOT3RLaU56ZG5lYVhHVHpNblQ5bGREZE1nME1MbERocXBsZmFxZGlpRzVoUHhaQzE2NEHSAeQBQVVfeXFMUGpIdUJ0cXpHSC1NVFBWRjVla3VPR054N0Y1OUhuZ05TTXpqaHdtQk1UOTQ4SXJiRnE5a0hKR19pUVJsSVJfaDJDVzJyTG5WOTlyQ3RBM0NFNU11TGgzOG1vY0NrQjVZVFVLdDRLekdEUXBOdUJ6MDhSNjBUaGdDYTFMYlJmRTJFcHVTUFJNVm4yN1kwc3R2bnIwNk5IMVNxMVlwSzh0dERreHo1OTJUZ1owWGJFdEN6UkZ3WGJvaWV6RmhfS2V1ZF9jTFZYaVAzOThrdV9IWXExeFB6LUlZV2Nrcm82?oc=5
+- Tarique Rahman's BNP's Manifesto: The India Angle Explained - NDTV
+  Tarique Rahman's BNP
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOeE1aZU0yenBMOVNUNVpSbkFCcmVVSERzYWpHbDhSYk5ZWG0xSDJ4V085dGNmS2ZBUzktXzdJdnE3Njd0QjBnYVFfdlFYQllaS0N5VzdjTUtPRWVWRmpkc3pid2k1RDA5RVFqaU5rNk5EQl9oQXZWaWtfS0hvMEo2X1ExWFRSMXJZZ1dnUi1CbHVhX19SQXZkWmtIdGV2UdIBpgFBVV95cUxOLVRwZTFpOGt1Y3pRQjNVaDdJbzVkWmdoSmJTeGx1b2ZyRkxoLVQtOFNPV0UwdEdIak1zVGluNlBDUDI0d3kwbjAtdmlKdEhnRlNWZW4yNUxscS13ZUlGdUlpd25BVTE3RzdsNlFGSkNtcFFfclFtOUxfOVJ1bjdIUm5JUTVZdGZtRmsyVDQtRE5fUGRfLVdJU3VFaWM1WWY4SS15UVFn?oc=5
 
-- Andhra Techie, 27, Wanted "Lavish Lifestyle". So He Carried Out 60 Burglaries - NDTV
-  Andhra Techie, 27, Wanted "L
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFpkRTl1azhqeklMQWU2MFBOWkpMcGxtQVFjNk1FTUNMaFU5eGV3OUs3dHZBT0dyNGpLYzNiaXM3UVFjdGlqXzVUMFBBZVhJRE9TOGdCN0hsbVRFZmVFeThEcmxpTmtRUjc0YVR6V1BaOWwtQjUzN0k2TmcyYXB5LTczS3N2SWVzMnFQZW1pX0VXWW1zWEhUMmx6T2U0VmdzdFNVd1VaNHQwWk11QmhTSTF6UdIBuwFBVV95cUxQd3dfV0xqT0lBbjhkclZEYzltckNOQTZQWHFwdW5DQlhQZ3B1SEVqQmdkcWFNUHVnQmwzb2hHdXljSjdmNEU3blBsWVhOdEVoYXBVcTJpZHhnLUtuTlRXOVpMRUJRak4wM1VIVjVHWWRCWEVZUGNHbFBQYjk0eUctQ0tZUEpvUVluaElWbUFPTFlJS2szVllnY3hKS1ZQODZLUVB6elZybkNUcmhaMVlnQ28xN1F0VUV2alcw?oc=5
+- AI video of Assam CM Sarma shooting Muslims causes outrage in India - Al Jazeera
+  AI video of Assam CM Sarma shooting Muslims causes
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWhvemxKcE83dFRkNGloWjN2UFlqZDhjdWVrT3pZYWhybHVER1ZTMUVncVBfc1ZaNVBTRjVVal9sblVnVDZHMjRxRDI5OHVtLTBwZmRsZndSeXBIV3JMNHE2RDZ6ZjBmQXJDd1lMYS1VbGp6OHBUQU15eEk2cEpVYmRUVWtlWGxMbWZfc25fWVJjLTcwWTVGMlFmWmFGNm9zR0o4cGk3ZElORlXSAbABQVVfeXFMTWJ3MERlQVJveTdvSWZuaGRIYWVrQ2prYjg1M0JiSEZmZmtIeVB4LWtXVXBFaW9MN2hKX0x2bmpmV0J2XzA4Vjd4eTVJQXpvejBwSE9XVVBrS3Q1d0QxdkdjX1dpYk9MdkthaU9BYkgwcHc4QlhrdVp0Tl84dG9YOEFOanBfZnBYeUpjYXpVdXBrekMzUV8yWE5Ma0Y0SDBvSkFpSl9RcE5YU090SU8weGk?oc=5
 
-- Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,56,870 for 10 gm; Check MCX prices | India News - Hindustan Times
-  Gold, silver rates today LIVE updates: 24-k gold in India priced at ₹1,
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0U1UC14R2Y0c1EzT2dDOGtvcThjOEhBeTdFcFdfeDFJWk5fZHJ0cWhUVlBjdXl3NmpUUnhOc1B1LVlsN05xVm9DQUdlcFJzSGZ1ckM5d1NGSDhhSkRzbjFFdzlzQUNlMnVVRlNiTU9wdEF1UWwyRkUteF9BUUlCQ1V6Q0RXUEFhbmNWMXNUSDA2Y3hMZThQdndzQWpkMk1IQ3RrcnI1SE03YlZIeWV4eTJtZ1pDSHlEN3g5UGxPd0wzTEJWcndDZ3BGUkhVbnN3VGoyc3I4cnlkUGFiM2w0MjNKcHlrUGtmT3dJdWR2Mi1JUkXSAfgBQVVfeXFMTkhyNDhmQ1ptUnQ0OVczSTNPaXZuU3gzbU0ydzkzYll5cmtJWmRBaHM2cEVnZ1MxbE5NR0hlSTV4eFRibG0zTDhPUFd2dmE1ZTdLSmxPb0JyU0Nxa3oyZnRDS2g1R0Z4TzR5dV9BR3diTjZaWHFfUG5TUVRHQjY1SzAxdWVWeVR6ZllGM0xVcFo2ZVdpb1BQTXNqenljcVFjdXRyaFdFVnFNWmpZcW9vV2dwVXRBeWp3TkVxTVFwdFIyRV9iVXhkaHVYSTFnSm5VUnNmeXRwbklzSG9EZWdkY3hTWVluQlBxRHlnYUJtY1NpQzI5cmczMHM?oc=5
+- Evening news wrap: Owaisi files complaint over Assam CM's 'point-blank' video; Kanpur bizman's son mows d - Times of India
+  Evening news wrap: Owaisi files complaint over Assam CM's '
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQN2hYUkJMOURxcnBfNzQ4bDlWS2tnRWdRZXBVa2o2QUJ2djJvdUF3NTI1d09mdXhPa1RGM0Voa3F6b2l1anc3MzVnYXI5Q1hUSV9EMVRkTkVoUDlTeGdfRXhpSTY4SW84YkRJY3lBOGhHLTRjMlBSYlBrU29pazhRd3RDb3pvbm04djE5cVF2M05oR2s0ZlFGcVh5X2N0dEp3bC01R094eHNNV1dhMlRQRnNoZFJrV1VITHFRVmlDSng1SllaUnJ6RTdYclN0ZEdaUkhvem9PMGpKUzRZUGlFd3hEOFZxa1ZWeDBhYmxhLTgwUlRCMGRCQS1XOUVRVFQtNTBqajdVWXE2c3N3Y2ZpbEk5TDZHS3RvNF9R0gGgAkFVX3lxTE1KT25fU0ZNeXFOSzFxcHZPaUFuTnRSNkNuN2ZCdnBHcjhfWE5OV1VMLVIxUWpmcUU1aGdPaURlRFlqSTB4MGtSSFZoMnhqNk4tV3dlZ21QX0xzNktMdUtZSUpUVDRIN0d6bFF0dTJ3bGllOEpJSlJZRV9qcnlPM1NYYVU2dkU0bGRQejJ6ckFPQVEtN01falVJYTRCbmF1RWRMR3d6bm5TLVJ2OXA4bkwxMl9qOHhHc1Nua3hqdldTUWZiWmtSM2R3TEJwUWZzQ3VCVDkzNEpDX3Rkelh3dVZjY1JqWlZUU0QyUGRkRnNDeldiSHJlcHhnRFN0b1hFaEdFenhlbXVMc2lab1BiWmdQZGtwaTFsdFV1M2M3bk1QMw?oc=5
+
+- Big Update For Salaried Class In India: Subscribers Can Soon Withdraw PF Money Through UPI - NDTV
+  Big Update For Salaried Class In India: Subscribers
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdDZpQUdPSGNtUm0zc3RSTVdXQVNVNkp6OUU4eFBZcER6bDhjTTZ6b1lwd2xtbjM4TGZ6YVUtNVE1S2x0emxiY0t3YlZzRFVfWXBqYmxBbjhCaElLc0MyWXQxYTY3ZVpFU3hpVzFEeC1mck00N2xpVXI3WUxjUF9RUWRFX2gwUG9PZGVBWXJmaTQwUXdaQVFRY1pkRWQ3YUhXRGcwaVdQVnJsX2lqNTdrc1FVeTlLME83VURjODF3aDNNYU56aFNGNjQxbDgycExENy1NWndn0gHeAUFVX3lxTFAtc3l3cTIwbjlvbUZ1YTZaX2tZR0J1amQybXhURVdUZzYwZkNqbldxTENSa2F3Vko0bnpESEZ4Znl2Mkg5S2w4VHl3V1ZsLXp5dDVOX1ZKQnBVSjFaQTJHOFV1TkkwVTNxZjFfMEtlbjUxeUhVb2F6cFBod1I5VzlQZnROdFprV2R4ejlKYjZ6Z0NQeTZKam8xVkdTbVRVZk8tbVhjU0oza2NiRFRZZXdvbFhINV9sQy15ZnpBdHhPbnZyZy1id1UwbWFTanhQSVVzeG43STZIR1Q4T3lvQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-09 07:03:55 UTC_
+_Last updated: 2026-02-09 13:02:08 UTC_
