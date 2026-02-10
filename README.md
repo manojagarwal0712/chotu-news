@@ -1,224 +1,144 @@
 # 📰 Daily News Summaries
 
+- Assam SR Electoral Roll LIVE Updates: Final voter list to be published today after special revision; SIR after Assembly polls
+  
+  🔗 https://indianexpress.com/article/india/assam-sr-electoral-roll-live-updates-final-voter-list-published-today-sir-assembly-polls-10523702/
+
+- Gold Today Rate, February 10: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+  
+  🔗 https://indianexpress.com/article/india/gold-today-rate-february-10-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10523803/
+
+- US releases fact sheet on trade deal, mentions ‘certain pulses’ among agricultural products to see tariffs cut
+  
+  🔗 https://indianexpress.com/article/india/us-fact-sheet-trade-deal-certain-pulses-agricultural-products-tariffs-cut-10523778/
+
+- Birla urged PM not to come to LS due to unprecedented disorder: Officials
+  
+  🔗 https://indianexpress.com/article/india/birla-urged-pm-not-to-come-to-ls-due-to-unprecedented-disorder-officials-10523636/
+
 - From Chhattisgarh stage, Shah’s warning to Naxals in Telangana, and a plea to women cadre
   
   🔗 https://indianexpress.com/article/india/from-chhattisgarh-stage-shahs-warning-to-naxals-in-telangana-and-a-plea-to-women-cadre-10523365/
 
-- Congress leader’s request to Amartya Sen, Romila Thapar: Don’t attend Kerala conference ‘aimed at legitimising authoritarian govt’
+- Over a billion Android phones are at risk as Google sounds a security alarm
   
-  🔗 https://indianexpress.com/article/india/congress-leaders-request-to-amartya-sen-romila-thapar-dont-attend-kerala-conference-aimed-at-legitimising-authoritarian-govt-10523368/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/over-a-billion-android-phones-are-at-risk-as-google-sounds-a-security-alarm-10523875/
 
-- J&K unemployment hits 6.7%, nearly double the national average – and job seekers have paid ₹48 crore in application fees
+- Nvidia showcases GeForce Now servers in India, full launch of cloud gaming service expected soon
   
-  🔗 https://indianexpress.com/article/india/indianexpress-com-article-india-jammu-and-kashmir-unemployment-rate-mission-yuva-jkpsc-jkssb-fees-10521490/
+  🔗 https://indianexpress.com/article/technology/gaming/nvidia-cloud-gaming-service-geforce-now-india-launch-10523722/
 
-- Cocaine seller flew under the radar till fake currency he deposited at PNB branch gave him away
+- UK tells parents to quiz their children about toxic online content
   
-  🔗 https://indianexpress.com/article/india/cocaine-seller-flew-under-the-radar-till-fake-currency-he-deposited-at-pnb-branch-gave-him-away-10523373/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/uk-tells-parents-to-quiz-their-children-about-toxic-online-content-10523712/
 
-- Kashmir defies nature: Tulips bloom in December for first time, months ahead of spring
+- OpenAI CEO says ChatGPT back to over 10% monthly growth: Reports
   
-  🔗 https://indianexpress.com/article/india/kashmir-tulip-winter-bloom-skuast-floral-tourism-10523369/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-ceo-says-chatgpt-back-to-over-10-monthly-growth-reports-10523632/
 
 - EU warns Meta over blocking rival AI chatbots on WhatsApp
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/eu-warns-meta-blocking-ai-chatbots-whatsapp-10523036/
 
-- Annular solar eclipse on February 17: Will ‘ring of fire’ be visible in India? Check exact time, location
-  
-  🔗 https://indianexpress.com/article/technology/science/annular-solar-eclipse-ring-of-fire-india-time-date-10522609/
+- Stocks to buy for short term: From Shriram Finance to Titan— Experts recommend 6 shares for next 1-2 weeks
+  Experts recommend six shares to consider for the next 1-2 weeks. Discover which stocks could potentially boost your portfolio in the short term.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-from-shriram-finance-to-titan-experts-recommend-6-shares-for-next-1-2-weeks-11770702696152.html
 
-- Alibaba’s overloaded AI chatbot stops issuing coupons, asks shoppers for patience
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/alibabas-overloaded-ai-chatbot-stops-issuing-coupons-asks-shoppers-for-patience-10522531/
+- Bata India share price climbs over 8% after Q3 results, hits four-week high
+  Bata India shares rose 8.4% to  ₹958.55 following a healthy Q3 performance with a 3% YoY revenue increase. The company reported a
+  🔗 https://www.livemint.com/market/stock-market-news/bata-india-share-price-climbs-over-8-after-q3-results-hits-four-week-high-11770703162094.html
 
-- Roblox says over 45% daily users have completed mandatory age-checks for chat
-  
-  🔗 https://indianexpress.com/article/technology/gaming/roblox-users-completed-age-checks-child-safety-lawsuits-10522442/
+- Abolish LTCG tax on equities for individual investors, demands Rajya Sabha MP Raghav Chadha amid STT hike
+  Aam Aadmi Party MP welcomed the STT hike on F&amp;amp;O trading, but urged the Finance Minister to make LTCG on equities nil for individual investors.
+  🔗 https://www.livemint.com/market/stock-market-news/stt-hike-on-f-o-abolish-ltcg-on-equities-for-individual-investors-demands-rajya-sabha-mp-raghav-chadha-11770701800985.html
 
-- iPhone 17e: What to expect from Apple’s next ‘affordable’ iPhone
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/iphone-17e-release-date-price-in-india-features-10522287/
+- Aye Finance IPO Day 2: Issue bid just 14% till now; check latest GMP, review, and other details - Apply or not?
+  Aye Finance IPO opened for subscription on February 9. The initial response has been muted. Analysts recommend monitoring the company's performance.
+  🔗 https://www.livemint.com/market/ipo/aye-finance-ipo-day-2-alphabet-backed-issue-bid-just-14-till-now-check-ipo-gmp-ipo-review-apply-or-not-11770701439189.html
 
-- Amazon, Google and Microsoft to get tariff relief from Trump admin on chips for data centres, says report — What we know
-  The Trump administration may give big tech players in the US, such as Microsoft, Google and Amazon tariff exemption on chips used for artificial intelligence data
-  🔗 https://www.livemint.com/companies/news/amazon-google-microsoft-tariff-relief-chips-ai-data-centres-donald-trump-administration-tech-players-report-what-why-how-11770684752203.html
+- Small-cap stock Kellton Tech Solutions rises 7% after it announces Q3 results 2026 date
+  Kellton Tech shares rose over 7% recently, but have fallen 32.5% in six months and 40% in a
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-kellton-tech-solutions-rise-5-after-it-announces-q3-results-2026-date-11770699285236.html
 
-- Bertelsmann Next enters India with acquisition of Let's Transport
-  Germany's Bertelsmann Next has acquired an 80% stake in Let's Transport. The investment platform aims to consolidate logistics through multiple
-  🔗 https://www.livemint.com/companies/news/bertelsmann-next-enters-india-with-acquisition-of-lets-transport-11770632391500.html
+- Signpost India gallops after Q3 PAT soars 215.3% YoY
+  Signpost India surged 15.45% to Rs 243.25 after the company
+  🔗 https://www.business-standard.com/markets/capital-market-news/signpost-india-gallops-after-q3-pat-soars-215-3-yoy-126021000553_1.html
 
-- Samara Capital closes second fund with SMS Facility's sale to Norwest-backed SILA Solutions
-  Private equity firm’s final exit from its 2014-vintage fund delivers a 25% gross IRR and comes as
-  🔗 https://www.livemint.com/companies/news/samara-capital-private-equity-sila-solutions-acquisition-11770614410952.html
+- Gravita India rises after inking deal to acquire Rasthriya Metal Industries
+  Gravita India advanced 2.31% to Rs 1712.65 after the company announced the signing of a binding term sheet for the proposed acquisition of equity stake upto
+  🔗 https://www.business-standard.com/markets/capital-market-news/gravita-india-rises-after-inking-deal-to-acquire-rasthriya-metal-industries-126021000552_1.html
 
-- From Canada to Gadchiroli: Inside Tata Steel’s race to secure raw material after it loses legacy mines
-  Tata Steel meets 100% of its iron ore requirements in India through six legacy mines allotted before the Mines and
-  🔗 https://www.livemint.com/companies/news/canada-gadchiroli-tata-steel-raw-material-iron-ore-ebitda-uk-11770642788644.html
+- ISGEC Heavy Engineering  Ltd leads gainers in 'A' group
+  Praj Industries Ltd, Jyoti Structures Ltd, Sterlite Technologies Ltd and Vesuvius India
+  🔗 https://www.business-standard.com/markets/capital-market-news/isgec-heavy-engineering-ltd-leads-gainers-in-a-group-126021000551_1.html
 
-- JK Lakshmi Cement bets on capacity expansion to protect, grow market share amid industry-wide additions
-  Despite a 23% drop in Q3 profit, JK Lakshmi is aggressively expanding its footprint in North, West and East India.
-  🔗 https://www.livemint.com/companies/news/jk-lakshmi-cement-bets-on-capacity-expansion-to-protect-grow-market-share-amid-industry-wide-additions-11770648891983.html
+- Reserve Bank of India raises collateral-free MSME loan limit to Rs 20 lakh
+  The Reserve Bank of India (RBI) has revised its lending norms for the micro, small and medium enterprises (MSME) sector. It has raised the ceiling for collateral-free loans to micro and small enterprises (MSEs
+  🔗 https://www.business-standard.com/markets/capital-market-news/reserve-bank-of-india-raises-collateral-free-msme-loan-limit-to-rs-20-lakh-126021000512_1.html
 
-- Nifty 50, Sensex today: What to expect from Indian stock market in trade on February 10
-  Gift Nifty was trading around 25,990 level, a premium of nearly 75 points from Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-february-10-11770658612860.html
+- Equity MF inflows slide 14% on month, Gold ETF inflows see sharp bounce
+   actively managed equity mutual funds recorded a Rs 24,028.59 crore inflow during January. On net basis, overall mutual fund industry marked a strong inflow of Rs 1.56 lakh crore. The total mutual fund AUM rose
+  🔗 https://www.business-standard.com/markets/capital-market-news/equity-mf-inflows-slide-14-on-month-gold-etf-inflows-see-sharp-bounce-126021000509_1.html
 
-- Indian stock market: 6 key things that changed for market overnight - Gift Nifty, Nikkei, Nasdaq rally to gold prices
-  Gift Nifty was trading around 25,987 level, a premium of nearly 72 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-6-key-things-that-changed-for-market-overnight-gift-nifty-nikkei-nasdaq-rally-to-gold-prices-11770658947337.html
+- Gold and silver rally set to continue as dollar weakness looms: Peter Schiff
+  Renowned investor Peter Schiff predicts continued gains for gold and silver. Schiff cites a loss of confidence in U.S. fiscal policy and central bank independence as key factors.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/gold-and-silver-rally-set-to-continue-as-dollar-weakness-looms-peter-schiff/articleshow/128145086.cms
 
-- Five blue-chip auto stocks to add to your watchlist
-  These auto blue chips quietly compound as the cycle unfolds. Market
-  🔗 https://www.livemint.com/market/stock-market-news/blue-chip-auto-stocks-to-watch-tata-motors-bajaj-auto-hero-moto-maruti-11770633660984.html
+- Bitcoin hovers near $69,700 as market volume shrinks to $111 billion. What experts say
+  Major cryptocurrencies like Bitcoin and Ethereum fell up to 2 percent. Other altcoins experienced over 6 percent declines. Experts note Bitcoin is consolidating around $70,000.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hovers-near-69700-as-market-volume-shrinks-to-111-billion-what-experts-say/articleshow/128144413.cms
 
-- Gold, silver rates today: Gold and silver prices fall up to 2% after gaining for two days. What should investors do?
-  Spot gold was down 0.70% to $5,040 per ounce, during the Asian trading hours on Tuesday.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-and-silver-prices-fall-up-to-2-after-gaining-for-two-days-what-should-investors-do-11770684363573.html
+- Gokaldas Exports, KPR Mill, other textile stocks drop up to 6%. What is triggering the fall?
+  Indian textile shares dropped significantly on Tuesday. This followed Bangladesh signing a trade deal with the U.S. The agreement grants Bangladesh reduced tariffs and exemptions.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gokaldas-exports-kpr-mill-other-textile-stocks-tumble-up-to-6-what-is-triggering-the-fall/articleshow/128143893.cms
 
-- Stocks to buy: Raja Venkatraman's recommends three stocks for 10 February
-  Market expert Raja Venkatraman shares his three top stock picks to buy today, 10 February.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-10-february-nifty-sensex-avanti-feeds-jamna-auto-industries-inox-wind-11770645599312.html
+- Pfizer shares gain 9% after Q3FY26 profit up 11%, revenue grows 20%
+  Pfizer India's shares surged after reporting strong Q3FY26 results, with net profit up 11% and revenue by 20%. The company also recorded exceptional items related to a strategic partnership with Cipla and the
+  🔗 https://economictimes.indiatimes.com/markets/stocks/pfizer-shares-gain-9-after-q3fy26-profit-up-11-revenue-grows-20/articleshow/128143523.cms
 
-- Google Pixel 10a pre-orders in India begin 18 February via Flipkart: What to expect
-  Google’s Pixel 10a will be available for pre-order in India from 18 February. The mid-range phone is expected to feature a 120Hz AMOLED display, Tensor G4 chip,
-  🔗 https://www.livemint.com/technology/gadgets/google-pixel-10a-pre-orders-in-india-begin-18-february-via-flipkart-what-to-expect-11770657050308.html
+- India bonds tread water before large state debt sale
+  Indian sovereign bonds remained steady early Tuesday. Value buying emerged after a recent selloff. However, caution prevailed due to a large state debt auction scheduled for later today.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-tread-water-before-large-state-debt-sale/articleshow/128143130.cms
 
-- Apple opens Swift Student Challenge 2026 applications for young developers: Who can apply and the last date
-  Apple has opened applications for the Swift Student Challenge 2026. Winners can earn recognition and a chance to visit Apple Park in Cupertino
-  🔗 https://www.livemint.com/technology/tech-news/apple-opens-swift-student-challenge-2026-applications-for-young-developers-who-can-apply-and-the-last-date-11770654321528.html
+- Amid India, Pak World Cup match cliffhanger, Asim Munir makes a guest appearance | India News - Hindustan Times
+  Asim Munir makes guest appearance in India News.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQnF6TEdHLUIxQ3VIeVBDWFhqUDNYQzNuejJEaWthbzZGY0ZqbTZoaFhsWHRlbk4ycER6ampoTXV4UkZQMHpPbDBpOGVmd2RBSklGejRrUDc1azdCUFJ3UDlSamZ2MUh3SnBqQ1NESVc5WGZQZ1RJLVBnczgyRmNIWkZrWUFiY0VYcmZzTlNOcDdreFUtMEFlbnpPNHlIbW1NTjBHY0FLcXoyWEhDQV8weXVadzNGbDAySENVeS1GTGtJN3Vjb1NDS2M2M1hjWEJ4bnY2dEFnOUPSAd4BQVVfeXFMT2lOSTctVDBDaTUxbkN0VnhPQ1ZzODNDMUkzWjNGVHNhOV9LVVFhdzJkZW9XYXJPUHJhZS1HTkdIbnpXbEotWUhpT0QtMEt5RjlhY3hnSHlKaV9QRVNHREg3LUM2MkRwUnZSSzRGT0ZvQk9RUkU3Ulk4bUsyc3V3bzM3d2xjb04tcWdmOFVnZ0xLUXMtemJsSktPQ2dfekczaW9rR0NYa2ViNUU4V2t2ekQycklRV1RmMTBiWi16VlRzR184S2ZNcmw5c2lBMlN2d0Y3SndWUm1rdXBWZ0ZB?oc=5
 
-- Perplexity unveils Model Council to compare answers across AI models: How it works
-  Perplexity has launched Model Council, a new AI feature that runs queries across three models at once. Model Council compares their responses and highlights key insights
-  🔗 https://www.livemint.com/technology/tech-news/perplexity-unveils-model-council-to-compare-answers-across-ai-models-how-it-works-11770651545326.html
+- 'We didn't keep Sachin Tendulkar waiting': Growing calls for Vaibhav Sooryavanshi's early India call-up - Times of India
+  'We didn't keep Sachin Tendulkar waiting': Growing calls
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxONHJkNW5BZDlQOXhnUGJTZ1haZ0NTQ205dXpfMTRWNFBWeTdxVS1oM0NoandxYVhYbTBwWG5DdU83NUdzNU9ZUk85VE1sSV9KYXJFTXEyOHpfaU1VUDdzMlhBb3hvSjVLUWl3NmxKNjdyZDF2TlFFaGpZR0pZZ1F5clpURWhnM1NSTHUtMWw2dTA5UEZrQm5RNklFbjNPRkZrUGsxUG90VmFtRENaMXFCT2hmcWpZLWJkYl9kTWZLRG01SXY1cVVRUHFhcm9Fa05lU1A4U0lKNFdZT3JDRWNxRjNLeDdoMUY3dGtPOHRLWm55dWhpUHhLbEtLZVVlOThNTG9nU0wwZTdEQWPSAZACQVVfeXFMTVJEcmNlUlFVazMxS21pZDdVcDdCMnY0a0poRG82V09NNmhiSFFEQW53QkZnREFqM0hFNUV4T3FNY0VMZjB5T3gxQWktNU4tQVFjdmJQcUVKUDUzTm55N1NidTNyZWJfZ1pDX2pYdXp2czh6b0tfamJyR21JclpMTkhxZFMxWXZkZllUYlN6N3NNbGpYeU96a0RsTW5VT0FTLWtvcWRzWGFaRmpHSFI0aWVzVjZ3dWpWM3BtQ0xQZFFOMEhnNzdDNlpJaXdnQWdUcUpjWkUwdnJfV3pkVUoyVHVSa29iTGNOTkwtbVdyZ2lVVG9feGhBN0hQb3FsYmVHWGU4Sk5ETUhsbjdGc2VtM3A?oc=5
 
-- Samsung Galaxy F70e 5G launched in India with 6,000mAh battery: Price, specs and more
-  Samsung unveils the Galaxy F70e 5G in India, featuring a 6,000mAh battery
-  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-f70e-5g-launched-in-india-with-6-000mah-battery-price-specs-and-more-11770639732858.html
+- India Pakistan Match News Live Updates: Pakistan agree to play India after hectic negotiations - The Indian Express
+  India Pakistan Match News Live Updates: Pakistan agree to play India after he
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWXlhQW1ETXNMNk82ZHVsRmhuT1Z6OGYydUt2R1QwMjVEaFNmbzNrR1hqTG1aZG96UVV4Q2I3OG5ael93NGgzTFpSSWEtcXljbmYySGd3OEdYY0htZW1vTHhRenRnRTB6QkNCY1BzQ3dKdlplNGFfdl84SUZtdEtpN2VrT0tfd1RmN1ZqV204RlQzZExwenNiRkN2c3ZMWl9uQUJTdXRRVlljcXhIb3NUdFAxWkQxSlFfVkl4WGc1NGvSAccBQVVfeXFMUEIyU2gyeGFRbHlSaHMtTnE2dk43SEIzV3BodDRkcW9jaFJoeTlvRllrRkIzMjZoQkxNZnRrZTdPa01YMWZ5c2V6NTI4dEg3bWpGeVFpM1E3cTN3SmNkenl2NmVIOHpMdE83eVRsZ1U2MUxjNGl3eFZoVnZLX1pob1VWYUg2a1pCamZHOUl6U1BnNUtpUmtmclR5TGYyRVNoRXdMLUR0bUZaekxIazFTM1FYanQ2dTN4RGFkcWpMcUF1Y1AwX0JYYw?oc=5
 
-- ChatGPT caricature trend: Check out step-by-step guide to recreate viral Instagram trend
-  A new trend involves using ChatGPT to create personalized caricatures based on users' chat history. The AI generates humorous images by capturing
-  🔗 https://www.livemint.com/technology/chatgpt-caricature-trend-check-out-step-by-step-guide-to-recreate-viral-instagram-trend-11770635525080.html
+- After Trump's "Zero Tariff" Claim, A White House Factsheet On India-US Deal - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SV
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SVhXZmFQaTVjX0pYbkduVElRQ21yT1N4VWV1UWgycnk1U2oyNWIzTDRqSDR4bjNxbDA5LWRtZXVCTnh6dzI0YjJyVnVHV01ZcXNMZHrSAbwBQVVfeXFMTk55UC1sV01UcWdlWEtuOVI0Y0Rqd2EzSlFXSUk1MGdYSmtkSk9JN1Z5N1B4ZE1COFhKNXc1Z3o3WWd4Qy12ZTZIak12X0VmMVB3ZUxBQXpmY1JCOEJXYlBEVl93MkFnQmctMzFZOUFlVjRpZjJQUm12M1l3ZFVGMWRLckUxWnVtOEhaZDM1ZE9KSEp1bEhaWEpZUm41LVc0R2pZYzJsa1E3OGJ3ZnFqS2gwbXhxd25OYXBYdEc?oc=5
 
-- Gold price climbs ₹10 to ₹1,57,920; silver up ₹100, trading at ₹3,00,100
-  The price of 22-carat gold decreased by ₹
-  🔗 https://www.business-standard.com/markets/commodities/gold-price-climbs-10-to-1-57-920-silver-up-100-trading-at-3-00-100-126021000087_1.html
+- India okays $175m package for Seychelles, inks 7 agreements - Times of India
+  India okays $175m package for Se
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObHJzM2hJNjBXNC02Zk1DY2NxRXFTTmQ4THNjZldEVldkVXBfNmZxSmxheEl3YkJSRmIyN0ZUckptVThRX0k1YmlLV1h1dzczTTI1SmFHeXhVMGRLdDE1TlU0YVFOMjA3bW85Z3FKU2lzeTRxNnlNQXBTSm4tVVFWcWpkTzkxcDZiWmdEbEV3WUcxcl9ITmhRVElIb0sxRXFqcXZVSVJhS3NETDNnck1ORnFXNXd6X3d1X0c5YzlaaVdBSWPSAcgBQVVfeXFMTlV0elYtbnUwU2ZzU1pyazUtSV93Qks2WEFOOXdEOG0zYktDSUhiOFZUbDZXeVJ2aHotT01GSHl5OUtMWkhWTkFJWWJsYVZVaGNDU1ZLTERPS2NTSDBNZmNHOTZrLWhCbzZVRkdXYXViOUZOYnJ5Rmk4Y0lLMHJzTldrMGxqTTluZnk3eEhKS0FYUFJWeEYxeW1zZnRUTmNLZk1PdkpuZlpWbF9WNm9WaXk3NVpKeHZNQ19nRldfRWxHUDJ4RTNWOHk?oc=5
 
-- Auto sector momentum builds; MOFSL prefers TVS, Maruti Suzuki as top stocks
-  MOFSL prefers TVS Motor and Maruti Suzuki. India's auto sector
-  🔗 https://www.business-standard.com/markets/news/stocks-auto-sector-2026-outlook-tvs-motor-maruti-suzuki-share-price-stock-picks-126021000083_1.html
+- Amid India, Pak World Cup match cliffhanger, Asim Munir makes a guest appearance | India News - Hindustan Times
+  Asim Munir makes guest appearance in India News.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQnF6TEdHLUIxQ3VIeVBDWFhqUDNYQzNuejJEaWthbzZGY0ZqbTZoaFhsWHRlbk4ycER6ampoTXV4UkZQMHpPbDBpOGVmd2RBSklGejRrUDc1azdCUFJ3UDlSamZ2MUh3SnBqQ1NESVc5WGZQZ1RJLVBnczgyRmNIWkZrWUFiY0VYcmZzTlNOcDdreFUtMEFlbnpPNHlIbW1NTjBHY0FLcXoyWEhDQV8weXVadzNGbDAySENVeS1GTGtJN3Vjb1NDS2M2M1hjWEJ4bnY2dEFnOUPSAd4BQVVfeXFMT2lOSTctVDBDaTUxbkN0VnhPQ1ZzODNDMUkzWjNGVHNhOV9LVVFhdzJkZW9XYXJPUHJhZS1HTkdIbnpXbEotWUhpT0QtMEt5RjlhY3hnSHlKaV9QRVNHREg3LUM2MkRwUnZSSzRGT0ZvQk9RUkU3Ulk4bUsyc3V3bzM3d2xjb04tcWdmOFVnZ0xLUXMtemJsSktPQ2dfekczaW9rR0NYa2ViNUU4V2t2ekQycklRV1RmMTBiWi16VlRzR184S2ZNcmw5c2lBMlN2d0Y3SndWUm1rdXBWZ0ZB?oc=5
 
-- Stocks picks, Feb 10: Kotak Sec recommends JSW Steel, Acutaas Chemicals
-  JSW Steel offers strong volume growth and margin recovery potential. Acutaas Chemicals benefits from robust CDMO-led earnings
-  🔗 https://www.business-standard.com/markets/news/stocks-jsw-steel-acutaas-chemicals-stocks-to-buy-today-add-growth-outlook-126021000075_1.html
+- 'We didn't keep Sachin Tendulkar waiting': Growing calls for Vaibhav Sooryavanshi's early India call-up - Times of India
+  'We didn't keep Sachin Tendulkar waiting': Growing calls
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxONHJkNW5BZDlQOXhnUGJTZ1haZ0NTQ205dXpfMTRWNFBWeTdxVS1oM0NoandxYVhYbTBwWG5DdU83NUdzNU9ZUk85VE1sSV9KYXJFTXEyOHpfaU1VUDdzMlhBb3hvSjVLUWl3NmxKNjdyZDF2TlFFaGpZR0pZZ1F5clpURWhnM1NSTHUtMWw2dTA5UEZrQm5RNklFbjNPRkZrUGsxUG90VmFtRENaMXFCT2hmcWpZLWJkYl9kTWZLRG01SXY1cVVRUHFhcm9Fa05lU1A4U0lKNFdZT3JDRWNxRjNLeDdoMUY3dGtPOHRLWm55dWhpUHhLbEtLZVVlOThNTG9nU0wwZTdEQWPSAZACQVVfeXFMTVJEcmNlUlFVazMxS21pZDdVcDdCMnY0a0poRG82V09NNmhiSFFEQW53QkZnREFqM0hFNUV4T3FNY0VMZjB5T3gxQWktNU4tQVFjdmJQcUVKUDUzTm55N1NidTNyZWJfZ1pDX2pYdXp2czh6b0tfamJyR21JclpMTkhxZFMxWXZkZllUYlN6N3NNbGpYeU96a0RsTW5VT0FTLWtvcWRzWGFaRmpHSFI0aWVzVjZ3dWpWM3BtQ0xQZFFOMEhnNzdDNlpJaXdnQWdUcUpjWkUwdnJfV3pkVUoyVHVSa29iTGNOTkwtbVdyZ2lVVG9feGhBN0hQb3FsYmVHWGU4Sk5ETUhsbjdGc2VtM3A?oc=5
 
-- BSE PAT zooms 2.74x; Sebi seeks to cut minimum investment for social funds
-  The exchange's revenue from operations also soared by 62
-  🔗 https://www.business-standard.com/markets/news/bse-pat-zooms-2-74x-sebi-seeks-to-cut-minimum-investment-for-social-funds-126020901622_1.html
+- India Pakistan Match News Live Updates: Pakistan agree to play India after hectic negotiations - The Indian Express
+  India Pakistan Match News Live Updates: Pakistan agree to play India after he
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWXlhQW1ETXNMNk82ZHVsRmhuT1Z6OGYydUt2R1QwMjVEaFNmbzNrR1hqTG1aZG96UVV4Q2I3OG5ael93NGgzTFpSSWEtcXljbmYySGd3OEdYY0htZW1vTHhRenRnRTB6QkNCY1BzQ3dKdlplNGFfdl84SUZtdEtpN2VrT0tfd1RmN1ZqV204RlQzZExwenNiRkN2c3ZMWl9uQUJTdXRRVlljcXhIb3NUdFAxWkQxSlFfVkl4WGc1NGvSAccBQVVfeXFMUEIyU2gyeGFRbHlSaHMtTnE2dk43SEIzV3BodDRkcW9jaFJoeTlvRllrRkIzMjZoQkxNZnRrZTdPa01YMWZ5c2V6NTI4dEg3bWpGeVFpM1E3cTN3SmNkenl2NmVIOHpMdE83eVRsZ1U2MUxjNGl3eFZoVnZLX1pob1VWYUg2a1pCamZHOUl6U1BnNUtpUmtmclR5TGYyRVNoRXdMLUR0bUZaekxIazFTM1FYanQ2dTN4RGFkcWpMcUF1Y1AwX0JYYw?oc=5
 
-- Board of Privi Speciality Chemicals approves additional investment in Prigiv Specialties
-  
-  🔗 https://www.business-standard.com/markets/capital-market-news/board-of-privi-speciality-chemicals-approves-additional-investment-in-prigiv-specialties-126020901392_1.html
+- After Trump's "Zero Tariff" Claim, A White House Factsheet On India-US Deal - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SV
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SVhXZmFQaTVjX0pYbkduVElRQ21yT1N4VWV1UWgycnk1U2oyNWIzTDRqSDR4bjNxbDA5LWRtZXVCTnh6dzI0YjJyVnVHV01ZcXNMZHrSAbwBQVVfeXFMTk55UC1sV01UcWdlWEtuOVI0Y0Rqd2EzSlFXSUk1MGdYSmtkSk9JN1Z5N1B4ZE1COFhKNXc1Z3o3WWd4Qy12ZTZIak12X0VmMVB3ZUxBQXpmY1JCOEJXYlBEVl93MkFnQmctMzFZOUFlVjRpZjJQUm12M1l3ZFVGMWRLckUxWnVtOEhaZDM1ZE9KSEp1bEhaWEpZUm41LVc0R2pZYzJsa1E3OGJ3ZnFqS2gwbXhxd25OYXBYdEc?oc=5
 
-- Dollar soft ahead of US data, yen holds onto its gains after election
-  The Japanese yen maintains its strength following Prime Minister Sanae Takaichi's recent electoral success. Meanwhile, the British pound remains resilient despite facing political headwinds.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-soft-ahead-of-us-data-yen-holds-onto-its-gains-after-election/articleshow/128137065.cms
-
-- Oil drifts lower as traders weigh supply risks amid U.S.-Iran tensions
-  Oil prices experienced a minor downturn as traders weigh the impact of potential supply disruptions. Tensions in the Strait of Hormuz contribute to market uncertainty with Iran.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-drifts-lower-as-traders-weigh-supply-risks-amid-u-s-iran-tensions/articleshow/128137022.cms
-
-- Gold, silver retreat as dollar ticks up
-  On Tuesday, both gold and silver experienced a pullback after a recent upward trend. The strengthening U.S. dollar has made these precious metals more expensive for international buyers.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-retreat-as-dollar-ticks-up/articleshow/128136977.cms
-
-- US Stocks Today | Wall Street advances as tech bounces further off of recent losses
-  Indian markets kicked off on a high note, with technology stocks rebounding from last week's AI-related downturn. Investors are cautiously eyeing the upcoming economic data that may shed light on the Federal Reserve's future interest rate stance.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-wall-street-advances-as-tech-bounces-further-off-of-recent-losses/articleshow/128136910.cms
-
-- Volume-backed breakout puts Syrma SGS in focus; Rajesh Palviya sees upside ahead
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/volume-backed-breakout-puts-syrma-sgs-in-focus-rajesh-palviya-sees-upside-ahead/videoshow/128102583.cms
-
-- Oil, tariffs and farming: What we still don't know about US-India trade deal - BBC
-  The US and India have reached an agreement on a
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE40MzNfeTZiTi1pV1FnajBXc2RwZ0RtNlNKWWlXUDBtOVhCa3dFNi1PRUVPc0dIVktDZ0FvbDBGYVdBVUJDLUItWFFuMG8zeDhFU0lYaXNnRU9sdw?oc=5
-
-- Sergio Gor Credits PM Modi-Trump Friendship For India-US Trade Deal - ndtv.com
-  Sergio Gor credits PM Modi-
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1RxdHJUTDZUY1NBVVE4ck9vekpyRVVHbm52NVJyTDlTWEhRLU1ET1dxQTdHMUdGS1lsaFdOVXhpZ3lobWkyRUo2RzEtS3Q2eW56Q3IxVUhyTFNwWE5TRTNVeUNDTmxoYnVzcVllWWdxUHpPUTBIcXNHVEpEVDd1WklMbWJXaVYzMERpaFpucUlqYW1SWVNqek1VdFNablhkdUU1eEJvYTRWS19T0gG0AUFVX3lxTE9ZbXJpUVBzREtDSWR4QTZhQ1VUV2tUWWdtczJmZFlPdzdtbDBjWDBVbWcwZkgxTWNJdGI2cGFMcmxmS3Ayb0xkNnZ5Y3N3bEtlX004VGR5aUtQWks1Q0Y3amxhbUprcFpZamNCRkFZX1JLWHZHcVoycWZEdElETGluRGtZUmtsR3ZvNWg0ay1ROFZpYWNRSF9LQXczVEtIdVpVZHZpS0pBdUpWRUI0bW85ZjhKRQ?oc=5
-
-- Trade deal a threat to India's interests: CPM - Times of India
-  The deal is a threat to India's
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQc25ITTNValIyUWhNcFY2dnZzX0M3a2d4eFRxWXI4NWlHanBFaDJEQ0g4NTgwY2llQ0hsSnNLOEVvYVI2VnN3UTI5MTdRLUNrMWJCcG55TzZrZ1oxUXlyTHB6Ylk4ZkM2bW85d3cyM0hfSHN4NThYamYyWTN5TnhlT1JDRHlNRldMaWVJQ2NyYk94a2xuZzA4a1JTLWxuYUxPV1VscXprSnBNY0dtbjlwddIBtgFBVV95cUxOc3NpTnphZjJzdVVWZlQ4S1dtV1k3NldGcHJfcmdiajFibWVOSnFjR1JiU3pwOFg1aG10WnlSWVQxV2lKS3BGTW12bEE4blp3NElMSHYtZnBUeVFUdFRXX1BFTElkTE9UM1VJN1NTQ2Y0M040NHBsWDNoWklhamZnQ3lvcFpDX2s5ZXJhWUJmUUVoekVrTXBHVGFyWm84eE1ESkozM01WdDltVzFXbExGbk9xbVdZUQ?oc=5
-
-- Agriculture Minister Shivraj Singh Chauhan calls India-US trade deal best in national interest - newsonair.gov.in
-  Agriculture Minister Shivraj Singh Chauhan calls
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFpaLTNyWjBCd2lmdnVDWlhQR0JlbzE3QmhJaWQ1NXFYZ3NYaHJHR0JLSS1DSnd1VG5jdmRVbW04SDZsQXdGMFdrVC04TXUxOFdtMjRoNUFSMzVWSTMyQ0gtNUg3T01EZ2toSzJEU2pwX3pETFRvMnM5aUw5S19udk5oVDdYT09NRFhDNDdhVGEzcmJvUGk1WEdGWklZVHN6X1JPVkd6LXk1YkZCMnhnWHBxbGpxQUtKdHVvWGtScVh1Zw?oc=5
-
-- President Droupadi Murmu hosts banquet for Seychelles President Patrick Herminie at Rashtrapati Bhavan - newsonair.gov.in
-  President Droupadi Murmu hosts banquet for Sey
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNblpqa1FMb0syUkRqeGVEdUIzbENIQWhSV0tTUVNjbDltQzYtSU9Ta3NfbmMxWjNWazZfR0lJZ1ZSQU5iYU1OQW5vcnZqbkNUekhvcUhiQXpBWm5xZW5tRS1tQXF3WlZqTDZmdHlwTkxoZFltS3IwR3JTYm4tR2JRTWVSN1AyWjlDckJ0T3VJeHc1dmhkWk1NNkx6MUZSbnI0ZWRxNV9STy1IT2Z2elRGNFctalZLNnc0a2Yxd2MtQlJLdzh6N19oNGFMLXg?oc=5
-
-- Oil, tariffs and farming: What we still don't know about US-India trade deal - BBC
-  The US and India have reached an agreement on a
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE40MzNfeTZiTi1pV1FnajBXc2RwZ0RtNlNKWWlXUDBtOVhCa3dFNi1PRUVPc0dIVktDZ0FvbDBGYVdBVUJDLUItWFFuMG8zeDhFU0lYaXNnRU9sdw?oc=5
-
-- Sergio Gor Credits PM Modi-Trump Friendship For India-US Trade Deal - ndtv.com
-  Sergio Gor credits PM Modi-
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1RxdHJUTDZUY1NBVVE4ck9vekpyRVVHbm52NVJyTDlTWEhRLU1ET1dxQTdHMUdGS1lsaFdOVXhpZ3lobWkyRUo2RzEtS3Q2eW56Q3IxVUhyTFNwWE5TRTNVeUNDTmxoYnVzcVllWWdxUHpPUTBIcXNHVEpEVDd1WklMbWJXaVYzMERpaFpucUlqYW1SWVNqek1VdFNablhkdUU1eEJvYTRWS19T0gG0AUFVX3lxTE9ZbXJpUVBzREtDSWR4QTZhQ1VUV2tUWWdtczJmZFlPdzdtbDBjWDBVbWcwZkgxTWNJdGI2cGFMcmxmS3Ayb0xkNnZ5Y3N3bEtlX004VGR5aUtQWks1Q0Y3amxhbUprcFpZamNCRkFZX1JLWHZHcVoycWZEdElETGluRGtZUmtsR3ZvNWg0ay1ROFZpYWNRSF9LQXczVEtIdVpVZHZpS0pBdUpWRUI0bW85ZjhKRQ?oc=5
-
-- Trade deal a threat to India's interests: CPM - Times of India
-  The deal is a threat to India's
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQc25ITTNValIyUWhNcFY2dnZzX0M3a2d4eFRxWXI4NWlHanBFaDJEQ0g4NTgwY2llQ0hsSnNLOEVvYVI2VnN3UTI5MTdRLUNrMWJCcG55TzZrZ1oxUXlyTHB6Ylk4ZkM2bW85d3cyM0hfSHN4NThYamYyWTN5TnhlT1JDRHlNRldMaWVJQ2NyYk94a2xuZzA4a1JTLWxuYUxPV1VscXprSnBNY0dtbjlwddIBtgFBVV95cUxOc3NpTnphZjJzdVVWZlQ4S1dtV1k3NldGcHJfcmdiajFibWVOSnFjR1JiU3pwOFg1aG10WnlSWVQxV2lKS3BGTW12bEE4blp3NElMSHYtZnBUeVFUdFRXX1BFTElkTE9UM1VJN1NTQ2Y0M040NHBsWDNoWklhamZnQ3lvcFpDX2s5ZXJhWUJmUUVoekVrTXBHVGFyWm84eE1ESkozM01WdDltVzFXbExGbk9xbVdZUQ?oc=5
-
-- Agriculture Minister Shivraj Singh Chauhan calls India-US trade deal best in national interest - newsonair.gov.in
-  Agriculture Minister Shivraj Singh Chauhan calls
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFpaLTNyWjBCd2lmdnVDWlhQR0JlbzE3QmhJaWQ1NXFYZ3NYaHJHR0JLSS1DSnd1VG5jdmRVbW04SDZsQXdGMFdrVC04TXUxOFdtMjRoNUFSMzVWSTMyQ0gtNUg3T01EZ2toSzJEU2pwX3pETFRvMnM5aUw5S19udk5oVDdYT09NRFhDNDdhVGEzcmJvUGk1WEdGWklZVHN6X1JPVkd6LXk1YkZCMnhnWHBxbGpxQUtKdHVvWGtScVh1Zw?oc=5
-
-- President Droupadi Murmu hosts banquet for Seychelles President Patrick Herminie at Rashtrapati Bhavan - newsonair.gov.in
-  President Droupadi Murmu hosts banquet for Sey
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNblpqa1FMb0syUkRqeGVEdUIzbENIQWhSV0tTUVNjbDltQzYtSU9Ta3NfbmMxWjNWazZfR0lJZ1ZSQU5iYU1OQW5vcnZqbkNUekhvcUhiQXpBWm5xZW5tRS1tQXF3WlZqTDZmdHlwTkxoZFltS3IwR3JTYm4tR2JRTWVSN1AyWjlDckJ0T3VJeHc1dmhkWk1NNkx6MUZSbnI0ZWRxNV9STy1IT2Z2elRGNFctalZLNnc0a2Yxd2MtQlJLdzh6N19oNGFMLXg?oc=5
-
-- Oil, tariffs and farming: What we still don't know about US-India trade deal - BBC
-  The US and India have reached an agreement on a
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE40MzNfeTZiTi1pV1FnajBXc2RwZ0RtNlNKWWlXUDBtOVhCa3dFNi1PRUVPc0dIVktDZ0FvbDBGYVdBVUJDLUItWFFuMG8zeDhFU0lYaXNnRU9sdw?oc=5
-
-- Sergio Gor Credits PM Modi-Trump Friendship For India-US Trade Deal - ndtv.com
-  Sergio Gor credits PM Modi-
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1RxdHJUTDZUY1NBVVE4ck9vekpyRVVHbm52NVJyTDlTWEhRLU1ET1dxQTdHMUdGS1lsaFdOVXhpZ3lobWkyRUo2RzEtS3Q2eW56Q3IxVUhyTFNwWE5TRTNVeUNDTmxoYnVzcVllWWdxUHpPUTBIcXNHVEpEVDd1WklMbWJXaVYzMERpaFpucUlqYW1SWVNqek1VdFNablhkdUU1eEJvYTRWS19T0gG0AUFVX3lxTE9ZbXJpUVBzREtDSWR4QTZhQ1VUV2tUWWdtczJmZFlPdzdtbDBjWDBVbWcwZkgxTWNJdGI2cGFMcmxmS3Ayb0xkNnZ5Y3N3bEtlX004VGR5aUtQWks1Q0Y3amxhbUprcFpZamNCRkFZX1JLWHZHcVoycWZEdElETGluRGtZUmtsR3ZvNWg0ay1ROFZpYWNRSF9LQXczVEtIdVpVZHZpS0pBdUpWRUI0bW85ZjhKRQ?oc=5
-
-- Trade deal a threat to India's interests: CPM - Times of India
-  The deal is a threat to India's
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQc25ITTNValIyUWhNcFY2dnZzX0M3a2d4eFRxWXI4NWlHanBFaDJEQ0g4NTgwY2llQ0hsSnNLOEVvYVI2VnN3UTI5MTdRLUNrMWJCcG55TzZrZ1oxUXlyTHB6Ylk4ZkM2bW85d3cyM0hfSHN4NThYamYyWTN5TnhlT1JDRHlNRldMaWVJQ2NyYk94a2xuZzA4a1JTLWxuYUxPV1VscXprSnBNY0dtbjlwddIBtgFBVV95cUxOc3NpTnphZjJzdVVWZlQ4S1dtV1k3NldGcHJfcmdiajFibWVOSnFjR1JiU3pwOFg1aG10WnlSWVQxV2lKS3BGTW12bEE4blp3NElMSHYtZnBUeVFUdFRXX1BFTElkTE9UM1VJN1NTQ2Y0M040NHBsWDNoWklhamZnQ3lvcFpDX2s5ZXJhWUJmUUVoekVrTXBHVGFyWm84eE1ESkozM01WdDltVzFXbExGbk9xbVdZUQ?oc=5
-
-- Agriculture Minister Shivraj Singh Chauhan calls India-US trade deal best in national interest - newsonair.gov.in
-  Agriculture Minister Shivraj Singh Chauhan calls
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFpaLTNyWjBCd2lmdnVDWlhQR0JlbzE3QmhJaWQ1NXFYZ3NYaHJHR0JLSS1DSnd1VG5jdmRVbW04SDZsQXdGMFdrVC04TXUxOFdtMjRoNUFSMzVWSTMyQ0gtNUg3T01EZ2toSzJEU2pwX3pETFRvMnM5aUw5S19udk5oVDdYT09NRFhDNDdhVGEzcmJvUGk1WEdGWklZVHN6X1JPVkd6LXk1YkZCMnhnWHBxbGpxQUtKdHVvWGtScVh1Zw?oc=5
-
-- President Droupadi Murmu hosts banquet for Seychelles President Patrick Herminie at Rashtrapati Bhavan - newsonair.gov.in
-  President Droupadi Murmu hosts banquet for Sey
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNblpqa1FMb0syUkRqeGVEdUIzbENIQWhSV0tTUVNjbDltQzYtSU9Ta3NfbmMxWjNWazZfR0lJZ1ZSQU5iYU1OQW5vcnZqbkNUekhvcUhiQXpBWm5xZW5tRS1tQXF3WlZqTDZmdHlwTkxoZFltS3IwR3JTYm4tR2JRTWVSN1AyWjlDckJ0T3VJeHc1dmhkWk1NNkx6MUZSbnI0ZWRxNV9STy1IT2Z2elRGNFctalZLNnc0a2Yxd2MtQlJLdzh6N19oNGFMLXg?oc=5
-
-- Oil, tariffs and farming: What we still don't know about US-India trade deal - BBC
-  The US and India have reached an agreement on a
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE40MzNfeTZiTi1pV1FnajBXc2RwZ0RtNlNKWWlXUDBtOVhCa3dFNi1PRUVPc0dIVktDZ0FvbDBGYVdBVUJDLUItWFFuMG8zeDhFU0lYaXNnRU9sdw?oc=5
-
-- Sergio Gor Credits PM Modi-Trump Friendship For India-US Trade Deal - ndtv.com
-  Sergio Gor credits PM Modi-
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1RxdHJUTDZUY1NBVVE4ck9vekpyRVVHbm52NVJyTDlTWEhRLU1ET1dxQTdHMUdGS1lsaFdOVXhpZ3lobWkyRUo2RzEtS3Q2eW56Q3IxVUhyTFNwWE5TRTNVeUNDTmxoYnVzcVllWWdxUHpPUTBIcXNHVEpEVDd1WklMbWJXaVYzMERpaFpucUlqYW1SWVNqek1VdFNablhkdUU1eEJvYTRWS19T0gG0AUFVX3lxTE9ZbXJpUVBzREtDSWR4QTZhQ1VUV2tUWWdtczJmZFlPdzdtbDBjWDBVbWcwZkgxTWNJdGI2cGFMcmxmS3Ayb0xkNnZ5Y3N3bEtlX004VGR5aUtQWks1Q0Y3amxhbUprcFpZamNCRkFZX1JLWHZHcVoycWZEdElETGluRGtZUmtsR3ZvNWg0ay1ROFZpYWNRSF9LQXczVEtIdVpVZHZpS0pBdUpWRUI0bW85ZjhKRQ?oc=5
-
-- Trade deal a threat to India's interests: CPM - Times of India
-  The deal is a threat to India's
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQc25ITTNValIyUWhNcFY2dnZzX0M3a2d4eFRxWXI4NWlHanBFaDJEQ0g4NTgwY2llQ0hsSnNLOEVvYVI2VnN3UTI5MTdRLUNrMWJCcG55TzZrZ1oxUXlyTHB6Ylk4ZkM2bW85d3cyM0hfSHN4NThYamYyWTN5TnhlT1JDRHlNRldMaWVJQ2NyYk94a2xuZzA4a1JTLWxuYUxPV1VscXprSnBNY0dtbjlwddIBtgFBVV95cUxOc3NpTnphZjJzdVVWZlQ4S1dtV1k3NldGcHJfcmdiajFibWVOSnFjR1JiU3pwOFg1aG10WnlSWVQxV2lKS3BGTW12bEE4blp3NElMSHYtZnBUeVFUdFRXX1BFTElkTE9UM1VJN1NTQ2Y0M040NHBsWDNoWklhamZnQ3lvcFpDX2s5ZXJhWUJmUUVoekVrTXBHVGFyWm84eE1ESkozM01WdDltVzFXbExGbk9xbVdZUQ?oc=5
-
-- Agriculture Minister Shivraj Singh Chauhan calls India-US trade deal best in national interest - newsonair.gov.in
-  Agriculture Minister Shivraj Singh Chauhan calls
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFpaLTNyWjBCd2lmdnVDWlhQR0JlbzE3QmhJaWQ1NXFYZ3NYaHJHR0JLSS1DSnd1VG5jdmRVbW04SDZsQXdGMFdrVC04TXUxOFdtMjRoNUFSMzVWSTMyQ0gtNUg3T01EZ2toSzJEU2pwX3pETFRvMnM5aUw5S19udk5oVDdYT09NRFhDNDdhVGEzcmJvUGk1WEdGWklZVHN6X1JPVkd6LXk1YkZCMnhnWHBxbGpxQUtKdHVvWGtScVh1Zw?oc=5
-
-- President Droupadi Murmu hosts banquet for Seychelles President Patrick Herminie at Rashtrapati Bhavan - newsonair.gov.in
-  President Droupadi Murmu hosts banquet for Sey
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNblpqa1FMb0syUkRqeGVEdUIzbENIQWhSV0tTUVNjbDltQzYtSU9Ta3NfbmMxWjNWazZfR0lJZ1ZSQU5iYU1OQW5vcnZqbkNUekhvcUhiQXpBWm5xZW5tRS1tQXF3WlZqTDZmdHlwTkxoZFltS3IwR3JTYm4tR2JRTWVSN1AyWjlDckJ0T3VJeHc1dmhkWk1NNkx6MUZSbnI0ZWRxNV9STy1IT2Z2elRGNFctalZLNnc0a2Yxd2MtQlJLdzh6N19oNGFMLXg?oc=5
+- India okays $175m package for Seychelles, inks 7 agreements - Times of India
+  India okays $175m package for Se
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObHJzM2hJNjBXNC02Zk1DY2NxRXFTTmQ4THNjZldEVldkVXBfNmZxSmxheEl3YkJSRmIyN0ZUckptVThRX0k1YmlLV1h1dzczTTI1SmFHeXhVMGRLdDE1TlU0YVFOMjA3bW85Z3FKU2lzeTRxNnlNQXBTSm4tVVFWcWpkTzkxcDZiWmdEbEV3WUcxcl9ITmhRVElIb0sxRXFqcXZVSVJhS3NETDNnck1ORnFXNXd6X3d1X0c5YzlaaVdBSWPSAcgBQVVfeXFMTlV0elYtbnUwU2ZzU1pyazUtSV93Qks2WEFOOXdEOG0zYktDSUhiOFZUbDZXeVJ2aHotT01GSHl5OUtMWkhWTkFJWWJsYVZVaGNDU1ZLTERPS2NTSDBNZmNHOTZrLWhCbzZVRkdXYXViOUZOYnJ5Rmk4Y0lLMHJzTldrMGxqTTluZnk3eEhKS0FYUFJWeEYxeW1zZnRUTmNLZk1PdkpuZlpWbF9WNm9WaXk3NVpKeHZNQ19nRldfRWxHUDJ4RTNWOHk?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,13 +160,5 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
-
-
-_Last updated: 2026-02-10 02:03:24 UTC_
+_Last updated: 2026-02-10 07:02:12 UTC_
