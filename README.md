@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- Rajnath-led council to discuss procurement of French Rafale jets this week, key nod likely
+- TMC opts out of motion: ‘Believe in being tolerant, don’t want to flex muscle’
   
-  🔗 https://indianexpress.com/article/india/rajnath-led-council-to-discuss-procurement-of-french-rafale-jets-this-week-key-nod-likely-10525470/
+  🔗 https://indianexpress.com/article/india/tmc-opts-out-of-motion-believe-in-being-tolerant-dont-want-to-flex-muscle-10525978/
 
-- Hope US deal won’t mean Delhi-Moscow ties suffer: Russia
+- All 6 stanzas of National Song must before National Anthem when played together: Here are MHA guidelines on Vande Mataram
   
-  🔗 https://indianexpress.com/article/india/hope-us-deal-wont-mean-delhi-moscow-ties-suffer-russia-10525447/
+  🔗 https://indianexpress.com/article/india/national-song-vande-matharam-national-anthem-mha-guidelines-10525894/
 
-- Vikram Misri meets China’s vice-minister; talks focus on border peace, trade
+- 100 victims every hour: Amit Shah warns of ‘national crisis’, says cybercrime has become an industry
   
-  🔗 https://indianexpress.com/article/india/vikram-misri-meets-chinas-vice-minister-talks-focus-on-border-peace-trade-10525493/
+  🔗 https://indianexpress.com/article/india/100-victims-every-hour-amit-shah-warns-of-national-crisis-says-cybercrime-has-become-an-industry-10525831/
 
-- Move to procure six more P-8I submarine hunters before DAC this week
+- Parliament Budget Session 2026 Live Updates: Congress stages walkout in Lok Sabha, protests suspension of MPs
   
-  🔗 https://indianexpress.com/article/india/move-to-procure-six-more-p-8i-submarine-hunters-before-dac-this-week-10525471/
+  🔗 https://indianexpress.com/article/india/parliament-budget-session-2026-live-updates-lok-sabha-rajya-sabha-rahul-gandhi-narendra-modi-10525795/
 
-- ‘Cannot be insulated from Parliamentary scrutiny’: Brittas writes to Birla, Radhakrishnan on PM CARES fund
+- White House quietly revises India-US trade deal fact sheet, drops ‘certain pulses’; tones down statement on purchase of US products worth $500 billion from India ‘commits’ to ‘intends’
   
-  🔗 https://indianexpress.com/article/india/cannot-be-insulated-brittas-writes-on-pm-cares-fund-10525506/
+  🔗 https://indianexpress.com/article/india/white-house-quietly-revises-india-us-trade-deal-fact-sheet-drops-certain-pulses-10525826/
+
+- After Microsoft, Amazon plans to launch new content marketplace for AI training: Report
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/amazon-content-marketplace-ai-training-report-10526012/
+
+- Cloudflare forecasts annual sales above estimates as AI drives cloud demand
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/cloudflare-forecasts-annual-sales-above-estimates-as-ai-drives-cloud-demand-10525768/
+
+- Alphabet sells rare 100-year bond to fund AI expansion as spending surges
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/alphabet-sells-rare-100-year-bond-to-fund-ai-expansion-as-spending-surges-10525729/
+
+- Samsung to launch AI-supercharged Galaxy S26 lineup on February 25
+  
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-to-launch-ai-supercharged-galaxy-s26-lineup-on-february-25-2026-10525605/
 
 - Telegram faces further restrictions, possible fines as Russian authorities clamp down
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/telegram-faces-restrictions-possible-fines-russian-authorities-clamp-down-10525327/
 
-- Why scientists say jupiter may be slightly smaller than earlier estimates
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/why-scientists-say-jupiter-may-be-slightly-smaller-than-earlier-estimates-10525081/
+- Rapido founders shed 'promoter' tags for IPO, joining a growing trend among new-age firms
+  The ride-hailing platform's co-founders are now non-promoter shareholders
+  🔗 https://www.livemint.com/companies/start-ups/rapido-founders-promoters-ipo-process-public-market-debut-11770783740891.html
 
-- ‘India’s bet on smaller AI models may overlook CPUs’: Ziroh Labs CEO Hrishikesh Dewan
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/india-smaller-ai-models-cpus-ziroh-labs-ceo-10524956/
+- Moderna shares fall after FDA refuses to review influenza vaccine application
+  The FDA said in its refusal letter that the company's approach to compare mRNA-1010 to an already licensed standard-dose seasonal influenza was the only
+  🔗 https://www.livemint.com/companies/news/moderna-shares-fall-after-fda-refuses-to-review-influenza-vaccine-application-11770778778673.html
 
-- Former Apple designer Jony Ive designs Ferrari’s upcoming electric car
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/former-apple-designer-jony-ive-designs-ferraris-upcoming-electric-car-10524802/
-
-- The making of MX Master 4: How Logitech designed a premium wireless mouse with haptic vibrations
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/the-making-of-mx-master-4-how-logitech-designed-a-premium-wireless-mouse-with-haptic-vibrations-10524437/
+- What's in a name? Here's why an Indian startup is fighting for ‘Anthropic’
+  Anthropic Software, a startup from Karnataka, has taken legal measures against AI research firm Anthropic over its name. The tech major seeks to
+  🔗 https://www.livemint.com/companies/news/belagavi-startup-anthropic-software-legal-notice-anthropic-ai-over-name-loss-of-business-search-impact-expansion-plans-11770775270716.html
 
 - Google parent Alphabet sells $32 billion in bonds in 24 hours showing credit market appetite for tech, AI players
-  Alphabet Inc. raised nearly $32 billion in debt to support its AI initiatives. There are concerns over big tech's borrowing impacts on bond valuations
+  Alphabet Inc. raised nearly $32 billion in debt to support its AI initiatives. There are concerns about big tech's borrowing affecting bond valuations
   🔗 https://www.livemint.com/companies/news/google-parent-alphabet-sells-32-billion-bonds-24-hours-shows-credit-market-appetite-tech-ai-players-concerns-valuations-11770771831784.html
 
 - Sam Bankman-Fried Asks for New Trial on FTX Fraud Charges
   FTX co-founder Sam Bankman-Fried filed a long-shot request for a new trial on the charges for which he’s currently serving a 25-
   🔗 https://www.livemint.com/companies/sam-bankman-fried-asks-for-new-trial-on-ftx-fraud-charges-11770750546015.html
 
-- Musk’s Starlink in Crosshairs of Iran, Russia at UN Space Confab
-  Iran and Russia say the Starlink satellite constellation violates international law. They say it blurs the line between commercial
-  🔗 https://www.livemint.com/companies/musks-starlink-in-crosshairs-of-iran-russia-at-un-space-confab-11770750048043.html
+- Excise hike lights up margin, illicit trade risks for cigarette stocks
+  Analysts warn that higher taxes could squeeze margins, dent volumes and fuel
+  🔗 https://www.livemint.com/market/stock-market-news/cigarette-prices-excise-duty-hike-tobacco-stocks-11770783181323.html
 
-- European Stocks Hold Steady as Kering Shares Surge and BP Slides
-  Kering SA rallied on better-than-expected results. BP Plc dropped after halting share buy
-  🔗 https://www.livemint.com/companies/european-stocks-hold-steady-as-kering-shares-surge-and-bp-slides-11770748370214.html
+- India–US trade deal explained: Tariffs, oil, GDP growth — What changes now? BofA answers key FAQs
+  The India-US trade deal reduces tariffs, benefiting sectors like textiles and jewellery. BofA Global Research notes improved export competitiveness
+  🔗 https://www.livemint.com/market/stock-market-news/indiaus-trade-deal-explained-tariffs-oil-gdp-growth-what-changes-now-bofa-answers-key-faqs-11770788677436.html
 
-- Who is Pankaj Chaturvedi? Shoppers Stop names new company CFO — All about him
-  Shoppers Stop appoints Pankaj Ch
-  🔗 https://www.livemint.com/companies/news/who-is-pankaj-chaturvedi-shoppers-stop-names-new-company-cfo-all-about-him-11770744034242.html
+- M&amp;M Q3 results: Consolidated profit jumps 47% YoY; auto segment's quarterly volumes up 23%
+  M&amp;amp
+  🔗 https://www.livemint.com/market/stock-market-news/mm-q3-results-profit-jumps-47-yoy-revenue-climbs-24-volume-key-takeaways-from-earnings-11770791390603.html
 
-- Nifty 50, Sensex today: What to expect from Indian stock market in trade on February 11
-  Gift Nifty was trading around 26,058 level, a premium of nearly 72 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-february-11-11770737342635.html
+- PAN HR Solutions IPO allotment likely to be finalised today; Latest GMP, 5 steps to check status
+  PAN HR Solutions IPO allotment is on February 11, with shares listed on BSE SME by February 13. Investors can check their
+  🔗 https://www.livemint.com/market/ipo/pan-hr-solutions-ipo-allotment-to-be-finalised-today-pan-hr-solutions-ipo-gmp-pan-hr-solutions-ipo-subscription-status-11770789977452.html
 
-- Stocks to watch: M&amp;M, Titan, Eicher Motors, BHEL, Grasim among 10 shares in focus today; full list here
-  Sensex and Nifty 50 extended their rally for a third straight session. On Tuesday, the Indian benchmark
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-m-m-titan-eicher-motors-bhel-grasim-among-10-shares-in-focus-today-full-list-here-11770767984143.html
-
-- Indian stock market: 7 key things that changed for market overnight - Gift Nifty, Dow Jones’ record close to MSCI rejig
-  Gift Nifty was trading around 26,056 level, a premium of nearly 70 points from the Nifty futures
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-7-key-things-that-changed-for-market-overnight-gift-nifty-dow-jones-record-close-to-msci-rejig-11770737573217.html
-
-- MSCI Rejig: Aditya Birla Capital, L&amp;T Finance included in Global Standard Index; IRCTC removed
-  India’s weight in the MSCI Standard Index remains unchanged at 14.1%. The weight of AU Small Finance Bank shares will increase in
-  🔗 https://www.livemint.com/market/stock-market-news/msci-rejig-aditya-birla-capital-landt-finance-included-in-global-standard-index-irctc-removed-11770772142666.html
-
-- Why this is the coldest crypto winter yet
-  An asset class that is all about
-  🔗 https://www.livemint.com/market/why-this-is-the-coldest-crypto-winter-yet-11770771954862.html
+- Multibagger Torrent Power share price plunges 6% despite 34% YoY rise in Q3 net profit
+  Torrent Power shares fell 6% to  ₹1,397.70 after disappointing December quarter performance. Despite a 34% YoY profit rise to     $655
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-torrent-power-share-price-plunges-6-despite-34-yoy-rise-in-q3-net-profit-11770789133892.html
 
 - Chile launches open-source AI model designed for Latin America
   Chile launches open
@@ -100,85 +100,165 @@
   Apple’s next AirPods Pro could feature infrared sensors to detect surroundings and enhance spatial audio. Leaks also hint at a new H3 chip and health tracking, while
   🔗 https://www.livemint.com/technology/tech-news/apple-airpods-pro-3-could-see-your-surroundings-with-new-infrared-tech-heres-how-11770725097604.html
 
-- Stock Market LIVE: GIFT Nifty hints at positive start amid mixed cues; Asian markets extend gains
-  Nifty was trading at 26,050.5 levels, up by 89 points, indicating a positive start for Indian markets
-  🔗 https://www.business-standard.com/markets/news/stock-market-live-february-11-nse-bse-sensex-today-gift-nifty-q3-results-ipo-share-market-today-126021100081_1.html
+- Torrent Power stock falls 6% after Q3 results; announces dividend, NCD plan
+  Torrent Power reported a consolidated net profit of ₹655 crore, up 34 per
+  🔗 https://www.business-standard.com/markets/news/torrent-power-stock-falls-6-after-q3-results-announces-dividend-ncd-plan-126021100655_1.html
 
-- Buy NTPC, CPSE ETF; Nifty resistance seen at 26,000, says HDFC Securities
-  Technical analyst Vinay Rajani of HDFC Securities expects NTPC and CPSE
-  🔗 https://www.business-standard.com/markets/news/buy-ntpc-cpseetf-nifty-resistance-seen-at-26-000-says-hdfc-securities-126021100091_1.html
+- RIL's consumer division acquires Southern Health Foods
+  Reliance Industries said that its FMCG arm Reliance Consumer Products (
+  🔗 https://www.business-standard.com/markets/capital-market-news/ril-s-consumer-division-acquires-southern-health-foods-126021100601_1.html
 
-- Gold price rises ₹10 to ₹1,58,790, silver falls ₹100 to ₹2,89,900
-  The price of 22-carat gold rose by ₹
-  🔗 https://www.business-standard.com/markets/commodities/gold-price-rises-10-to-1-58-790-silver-falls-100-to-2-89-900-126021100080_1.html
+- Indices trade near opening levels; auto shares gear up
+  Auto shares rallied for
+  🔗 https://www.business-standard.com/markets/capital-market-news/indices-trade-near-opening-levels-auto-shares-gear-up-126021100598_1.html
 
-- Nifty, Bank Nifty strategy; 3 stocks recommendations today by Motilal Oswal
-  Chandan Taparia of Motilal Oswal Financial Services recommends to buy Tata
-  🔗 https://www.business-standard.com/markets/news/nifty-bank-nifty-strategy-3-stocks-recommendations-today-by-motilal-oswal-126021100083_1.html
+- Som Distilleries & Breweries tanks 11% on posting weak Q3 results
+  In the December quarter, Som Distilleries reported a 27.5 per cent decline in consolidated net profit
+  🔗 https://www.business-standard.com/markets/news/som-distilleries-breweries-tanks-11-percent-on-posting-weak-q3-results-126021100593_1.html
 
-- 'Surprised by market reaction to Kevin Warsh's nomination to the US Fed'
-  The dollar will most likely remain the world's reserve currency, BofA
-  🔗 https://www.business-standard.com/markets/news/surprised-by-market-reaction-to-kevin-warsh-s-nomination-to-the-us-fed-126021000404_1.html
+- Auto shares in fast lane; Eicher, Lumax, Pricol rally up to 7%; here's why
+  The BSE Auto index was the top gainer among sectoral indices, up 2 per cent, as compared to 0
+  🔗 https://www.business-standard.com/markets/news/auto-shares-in-fast-lane-eicher-lumax-pricol-rally-up-to-7-here-s-why-126021100568_1.html
 
-- Yen perky as Japan fiscal fears dissipate, dollar shaky ahead of payrolls
-  The Japanese yen soared on Wednesday, propelled by a vibrant uptick in Japan's stock market. On the flip side, the US dollar wobbled amid market uncertainty, with traders keeping a close eye on the approaching non-farm payroll
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/yen-perky-as-japan-fiscal-fears-dissipate-dollar-shaky-ahead-of-payrolls/articleshow/128183999.cms
+- Tata Consumer Share Price Live Updates: Tata Consumer's Daily Price Movement
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-live-updates-11-feb-2026/liveblog/128192870.cms
 
-- Oil holds steady as US-Iran tensions provide support
-  The backdrop of geopolitical strife continues to lend support to prices. In addition, traders are eager for the upcoming U.S. midterm elections.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-holds-steady-as-us-iran-tensions-provide-support/articleshow/128183946.cms
+- HCL Tech Share Price Live Updates: HCL Tech's Market Update
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-live-updates-11-feb-2026/liveblog/128192707.cms
 
-- S&amp;P 500, Nasdaq dip with economic data, earnings in focus
-  The Dow Jones celebrated a new peak, yet the S&amp;P 500 and Nasdaq ended on a down note. Attention turns towards forthcoming labor statistics, as heavy tech spending on artificial intelligence weighs on market psychology.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/sp-500-nasdaq-dip-with-economic-data-earnings-in-focus/articleshow/128183803.cms
+- Cipla Share Price Live Updates: Cipla's Closing Figures
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-today-live-11-feb-2026/liveblog/128192674.cms
 
-- Market quote of the Day by Warren Buffett: ‘Stock market is designed to transfer money from the active to the patient’
-  Warren Buffett's wisdom emphasizes that long-term investing success hinges on sticking to a strategy. This patient approach allows compounding to work, enabling quality companies to grow.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-warren-buffett-stock-market-is-designed-to-transfer-money-from-the-active-to-the-patient/articleshow/128154455.cms
+- M&amp;M Q3 Results: Standalone profit surges 33% YoY to Rs 3,931 crore; revenue rises 26%
+  The company’s revenue from operations stood at Rs 38,942 crore, marking a 26% increase from Rs 30,964 crore reported in the
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/mm-q3-results-standalone-profit-surges-33-yoy-to-rs-3931-crore-revenue-rises-26/articleshow/128192345.cms
 
-- GIFT Nifty up 90 points; here's the trading setup for today's session
-  Indian equity markets closed Tuesday on a cautious, range-bound note. Profit booking in banking, IT, and healthcare stocks acted as a drag. Analysts anticipate a mildly positive near-term outlook with a
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128183003.cms
+- Eicher Motors' target price raised up to Rs 8,800. What Jefferies, CLSA, other brokerages say
+  Eicher Motors shares jumped after the company reported strong Q3 results. Net profit rose 21% year-on-year to Rs 1,420 crore
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/eicher-motor-target-price-raised-up-to-rs-8800-what-jefferies-clsa-other-brokerages-say/articleshow/128192305.cms
 
-- After Trump's "Zero Tariff" Claim, A White House Factsheet On India-US Deal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SV
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SVhXZmFQaTVjX0pYbkduVElRQ21yT1N4VWV1UWgycnk1U2oyNWIzTDRqSDR4bjNxbDA5LWRtZXVCTnh6dzI0YjJyVnVHV01ZcXNMZHrSAbwBQVVfeXFMTk55UC1sV01UcWdlWEtuOVI0Y0Rqd2EzSlFXSUk1MGdYSmtkSk9JN1Z5N1B4ZE1COFhKNXc1Z3o3WWd4Qy12ZTZIak12X0VmMVB3ZUxBQXpmY1JCOEJXYlBEVl93MkFnQmctMzFZOUFlVjRpZjJQUm12M1l3ZFVGMWRLckUxWnVtOEhaZDM1ZE9KSEp1bEhaWEpZUm41LVc0R2pZYzJsa1E3OGJ3ZnFqS2gwbXhxd25OYXBYdEc?oc=5
+- India Climbs 5 Places To 91st On Global Corruption Index 2025 - NDTV
+  India Climbs 5 Places To 91st On
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVE0SW9NOVRIZklPdmVIb0RTejFwWVAzWlhzRTJKdFFfMlkwUEMxM3IxSTU2LTBIVUJPYk1OSWpLMHd2d05ZblY0a25GY0pvbFdCTkRFeXVNYm9yY2NucEFQREJTS2RYWndtbzRKenc0WGlsWnZKMGkxR0NwR2RPUHREdlk3U0ZJYzhqU1hZc1pEOU1TdURmN3U0aUQyWklrUnd0etIBrAFBVV95cUxQblJWVlJVUlpzUlpTcnJqazFNT2dEdXBKZGduUzUxZHdnY1lFUkVJb1pVdXBKOUNfWlFsNG9ud1BMcmhaM2RyUU9Dd0w1YW15LW1XNWJuTXliVWw4V0d5WmhEdC13SHI4T3drNktISkE4TFp0Mjg5ZEF4QlBWQ1h4XzFaX25BUlF4aTMtYzFvcThOams0NmZtODJkN1RmVXJkaFB1endzN2NxR3Bh?oc=5
 
-- Amid India, Pak World Cup match cliffhanger, Asim Munir makes a guest appearance | India News - Hindustan Times
-  Asim Munir makes guest appearance in India News.
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQnF6TEdHLUIxQ3VIeVBDWFhqUDNYQzNuejJEaWthbzZGY0ZqbTZoaFhsWHRlbk4ycER6ampoTXV4UkZQMHpPbDBpOGVmd2RBSklGejRrUDc1azdCUFJ3UDlSamZ2MUh3SnBqQ1NESVc5WGZQZ1RJLVBnczgyRmNIWkZrWUFiY0VYcmZzTlNOcDdreFUtMEFlbnpPNHlIbW1NTjBHY0FLcXoyWEhDQV8weXVadzNGbDAySENVeS1GTGtJN3Vjb1NDS2M2M1hjWEJ4bnY2dEFnOUPSAd4BQVVfeXFMT2lOSTctVDBDaTUxbkN0VnhPQ1ZzODNDMUkzWjNGVHNhOV9LVVFhdzJkZW9XYXJPUHJhZS1HTkdIbnpXbEotWUhpT0QtMEt5RjlhY3hnSHlKaV9QRVNHREg3LUM2MkRwUnZSSzRGT0ZvQk9RUkU3Ulk4bUsyc3V3bzM3d2xjb04tcWdmOFVnZ0xLUXMtemJsSktPQ2dfekczaW9rR0NYa2ViNUU4V2t2ekQycklRV1RmMTBiWi16VlRzR184S2ZNcmw5c2lBMlN2d0Y3SndWUm1rdXBWZ0ZB?oc=5
+- Within hours, White House revises India-US trade deal fact sheet. See changes | India News - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMHlWcmItLTJBaHdDMVRjWlpUOXNWQmRqYW1zdTAzcTdZSHJUVkZ4VXlvem9xSG9ERzl4TFNLekEtR3RQdlB0Skt4UDRUS3F1U0Z3ektfZm9pMmNLQlh0d3RLUTFhWHAwTS
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMHlWcmItLTJBaHdDMVRjWlpUOXNWQmRqYW1zdTAzcTdZSHJUVkZ4VXlvem9xSG9ERzl4TFNLekEtR3RQdlB0Skt4UDRUS3F1U0Z3ektfZm9pMmNLQlh0d3RLUTFhWHAwTS1pMHRoaklrcVJwRnhTSHBfZnJnbmFScWs1Ykx6UGJseDRsX0l6MEZmVm5JM1lOZVNzRU1JTzFGTk5YS2hQb3RDQlhFSkdzNHF5UGlMS0NzWHBaNURLemh2eWl0eVhfNnpZWTdFSGxNZ0cxS3dPamFyaDc3c0x6WEZ3NkhFVE5Vbm5yUlVibm8tQUR0d1NURzdxV0XSAYICQVVfeXFMTnA4d2JacjNxdkU0SEU4TVc3ZGNlWF9YOE9CaDItVlBQOTdrbU5QLTd5MGZ6eDlfVE42SGdhQzBOUmVYVGl6VlVBdm9LaDFueV8xV2k0cHQ5d0M0REd0LTJCNUxEbFI4eTM1cjhDVFJNdE5HOFo3OUVLZFlRcjE3NGZfUm4tdC1WcU5pUF9lRmYxTThWZ3VrZEY0VHRHcUlzdF9pdWlNSUFKb183STRXYUo2aDNmUnFIUVhHcjJCbEY5M2pkNVppWkdQOFBDRUxXcklZVnVqb1JkV0pad2lXZHhDaFhnVFNZQWw0bjZmYTRUV3RUMWctakRWbHVzYmNxd0R3?oc=5
 
-- Rahul says no to debate on Budget, wins allies’ praise - The Times of India
-  The Times of India published a front-page story
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPRExVMFNUSENjZi1ibUxSakprMlBfZ0EwM0xuTllmRnhwYU9tS2JRazVsQ0NKSzlOeG94WjlVTVNUQmROTkJSc0pyUnVMNldabDM1T2E1aHhraGVLdnU2cTV6MFZrZkFheXBFeE9HZXN0bERud29YN1BLR1NJX0h3bTlmNklnbGxjZ29NUGZfaDV6VzJkV3QyNHF6RjBKa1RpSVgycjl1ZVRWaDFZZjRBeTBQSzVzVkNzcERtS9IBwgFBVV95cUxOZ0xOc1JSanFadXRqWlVxUGhTOGJwMGVYRHNtNXptMVpjbDJjSjAyWFp4V2J0OUNGXzZ6RktPMnVUUTF6ZURnX3dJRy1WWWxpbHFCUFhPZkI1YkZFaVBhdi1USW9seFB3SG1JZzhKbjR6cW1lTzVWN3F0aUYtQkJteFBpNXZhTmJNZ1JFQlhkcU9HcW9XUXJVYnB4cloxTHhkNDNUc1VPN3RZVy0zNXpqbTEtWUY4cHB2ekQtRUNlQW9WQQ?oc=5
+- Understand & respect India's UNSC 'membership aspirations': China - The Times of India
+  Understand & respect India's UNSC '
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNbl9KWFg5dlFGQTZ0VnY1V1l0UmUwc0I0RS1YemZFaXVSamE0UjFONi15TTA2VnVCYTFpWFUya2MwT3RTdzRlRmM5MzEyWUhHZHRNSkNoTk12amVvVGlDRi0ycDhmQ3JyNlJPYUYyU29SZGVYUERmcnQ3TzItMXZ1SnZrVTE1a016U3pLYnVXaHZZM2tiNXhPZTNGODZRTTh1eEExcUpHMGlEeDI4eDNDd0cyMXlrM2JkUDFlQm41TUxHMXVzQWfSAcsBQVVfeXFMT0w2OHlYcDlNd3p4NjJiNktUV1JSN1NtXzRzTkpDNEhFa2pZU3FIMnJzVmF3ZElXXzFLYXpMNXdpdDZLR0ZOTnFWdGdSc3hvXy1yMHBSSE5oTEg0bl9YLWpheFhkNHBMUzRZb0RIdFI3Ulhud2lrbGE0UENlRDBxZVg3QU02SXBFeVp5RU5DTHNJRGttd2FjdEJ3T3ljQXlzU2RRWjhBWWpONl9IYVpSTmpuOEFuYmZSNGR0UzF5YjlkTlJyUTBPSmNwUjA?oc=5
 
-- India signs agreement with UK & Northern Ireland on Social Security relating to Social Security Contributions - News On AIR
-  India signs agreement with UK & Northern Ireland on Social Security relating to Social Security Contributions
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX052YVJCXzNQckpqcXVfRnlpNmppdzR4a00zcm9vU3JjZmNHV3hiblR3UGpPVHVGZExXVDF5RXBlVkdDN2RuaXRCdzJBd0xPb2wwaFZzdHRzYXh3VGFBeWZqanJkZzlkYml6QlM2Umg3OEFrRHpseWJUM09CalVncW1zZEtzNy1Scm9uMzhPVVhqVkhLczdqVkRnSVNORWtMb1plYTk2MUNndG52ZVVmV2lBcHRwbEF1ZlpqRU9nUjdXcEpvZzE4NWcxRzRVam80WnE0?oc=5
+- School assembly news headlines, February 11: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 11: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQmZhdWVWUFp4azNlZmxVV3Z4ek0tQzhhclBRYnN3d3NwV0lMQ09MMFdoVGlZWjJ4ZTg3Q05kemR1cWRza1pacVhySHA0eEROb3hWQ05zT0ExRGVCNU1MclllRWl2WThkY05sZm1SeFRtRnBFMTg1eFotWlNhNE1MR0U0ZGhfYWhLYkZUc0VMMENXTlphOUdQS0Y1UUd6TzZDNFN6QnphSVBReGFHazhRTVNhR0xpUGJxZndfNGN1MmppYmJxbWY3eWE0TGJUemdsaEhpRTc0YW5WUENpNWpKdjhsWlQ1UdIB6wFBVV95cUxPS0pBY05WelRoRlA4SV9va0FZX1dqX2xsT053c3AtRGhTZWw1OEM1Y2M2U3JTWEF6SF9oeXdJSU9ycEVlNFVQektwdkNkR0pJUVBxcVdCWUJ1a3VOS21LcmQ5Z3JUSVpMQW9fczJqWEE1cVV6WE9LWjBSQnVEMllPVXhIc3RRYmExS21pd2ZBcDNybUxneWpuWkxHaDQzWUhleGhTWUFzQ1dyZklKTTJTOUhTa3hLdnFnQks3MDdfdGNSU2pFTzBHbU95X0I5eTNCU3FOZ09SVnNBNGkyZEJoRmVqV2wzSGUxR0Y0?oc=5
 
-- Mohammed Deepak gets wave of support across India after news of his gym membership decline goes viral - The Hindu
-  Mohammed Deepak gets wave of support across India after news of his gym membership
+- ‘Mohammed’ Deepak gets wave of support across India after news of his gym membership decline goes viral - The Hindu
+  ‘Mohammed’ Deepak gets wave of support across India after news
   🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPY1hHb3FTVUs2eFdwSDdEelhRb1ItLVRSMmM3bmtHOElUYzVqQ2xqczJaMmd3UzEtaU9Nd2lyZTJGVDNvbUlfdEgyQ2MxWWNmTUpKZGRSREpkVUt4VzlvamZfdkxpNVBJcE1JUGFzMGx4YjlNRTZBVkcyMXBTdVhyZDlJdlJ3NFA4WDVVRURac3U3M3VaVWx1WTJEdm03bFhKMUFGa2dudFhlQ19nelZRTmxHRnZGYmRQcndpb3hQbnc3amU3NnVybk1RUC1taXM2S1I0ajdBTFJvTnZHYnZaZ1BuQlFha2x2SXVJOEctU21Db2RaaEV6cEluaGFsODJwREHSAYgCQVVfeXFMTzh1OEZFbF9yQmdSQmtOU2ROMDFua2lMVTdRb2ZfOWRQVFpiRThTM3d5aXdkWVRNTS1uVmlhZzRnMmtEZmFGZkxMRFlHSHUtUHl2Q2JQWEliZkdubWd3Y1Y5RGpaeXc4ZnVzZFA4aDROYWc3QmZiQ2dJeGk5YVk5SDVSNWJiV2xlNjc0UHZiMnlFUmdvbEJQTjByTnJNUHpobXFkUnJzRHh5b2FaSzlMNWVSUzBjNU0taHhYVk1xQVhaUHpDN05FQ2I3UnBiVi1vQTBaQnZuZkRmU202bWpTaXBoeUN5ZTVNNjRna3NtdW5DVzNFdDk4LXk4aGhtVV9iVTJLUWdldFJD?oc=5
 
-- After Trump's "Zero Tariff" Claim, A White House Factsheet On India-US Deal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SV
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SVhXZmFQaTVjX0pYbkduVElRQ21yT1N4VWV1UWgycnk1U2oyNWIzTDRqSDR4bjNxbDA5LWRtZXVCTnh6dzI0YjJyVnVHV01ZcXNMZHrSAbwBQVVfeXFMTk55UC1sV01UcWdlWEtuOVI0Y0Rqd2EzSlFXSUk1MGdYSmtkSk9JN1Z5N1B4ZE1COFhKNXc1Z3o3WWd4Qy12ZTZIak12X0VmMVB3ZUxBQXpmY1JCOEJXYlBEVl93MkFnQmctMzFZOUFlVjRpZjJQUm12M1l3ZFVGMWRLckUxWnVtOEhaZDM1ZE9KSEp1bEhaWEpZUm41LVc0R2pZYzJsa1E3OGJ3ZnFqS2gwbXhxd25OYXBYdEc?oc=5
+- India Climbs 5 Places To 91st On Global Corruption Index 2025 - NDTV
+  India Climbs 5 Places To 91st On
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVE0SW9NOVRIZklPdmVIb0RTejFwWVAzWlhzRTJKdFFfMlkwUEMxM3IxSTU2LTBIVUJPYk1OSWpLMHd2d05ZblY0a25GY0pvbFdCTkRFeXVNYm9yY2NucEFQREJTS2RYWndtbzRKenc0WGlsWnZKMGkxR0NwR2RPUHREdlk3U0ZJYzhqU1hZc1pEOU1TdURmN3U0aUQyWklrUnd0etIBrAFBVV95cUxQblJWVlJVUlpzUlpTcnJqazFNT2dEdXBKZGduUzUxZHdnY1lFUkVJb1pVdXBKOUNfWlFsNG9ud1BMcmhaM2RyUU9Dd0w1YW15LW1XNWJuTXliVWw4V0d5WmhEdC13SHI4T3drNktISkE4TFp0Mjg5ZEF4QlBWQ1h4XzFaX25BUlF4aTMtYzFvcThOams0NmZtODJkN1RmVXJkaFB1endzN2NxR3Bh?oc=5
 
-- Amid India, Pak World Cup match cliffhanger, Asim Munir makes a guest appearance | India News - Hindustan Times
-  Asim Munir makes guest appearance in India News.
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQnF6TEdHLUIxQ3VIeVBDWFhqUDNYQzNuejJEaWthbzZGY0ZqbTZoaFhsWHRlbk4ycER6ampoTXV4UkZQMHpPbDBpOGVmd2RBSklGejRrUDc1azdCUFJ3UDlSamZ2MUh3SnBqQ1NESVc5WGZQZ1RJLVBnczgyRmNIWkZrWUFiY0VYcmZzTlNOcDdreFUtMEFlbnpPNHlIbW1NTjBHY0FLcXoyWEhDQV8weXVadzNGbDAySENVeS1GTGtJN3Vjb1NDS2M2M1hjWEJ4bnY2dEFnOUPSAd4BQVVfeXFMT2lOSTctVDBDaTUxbkN0VnhPQ1ZzODNDMUkzWjNGVHNhOV9LVVFhdzJkZW9XYXJPUHJhZS1HTkdIbnpXbEotWUhpT0QtMEt5RjlhY3hnSHlKaV9QRVNHREg3LUM2MkRwUnZSSzRGT0ZvQk9RUkU3Ulk4bUsyc3V3bzM3d2xjb04tcWdmOFVnZ0xLUXMtemJsSktPQ2dfekczaW9rR0NYa2ViNUU4V2t2ekQycklRV1RmMTBiWi16VlRzR184S2ZNcmw5c2lBMlN2d0Y3SndWUm1rdXBWZ0ZB?oc=5
+- Within hours, White House revises India-US trade deal fact sheet. See changes | India News - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMHlWcmItLTJBaHdDMVRjWlpUOXNWQmRqYW1zdTAzcTdZSHJUVkZ4VXlvem9xSG9ERzl4TFNLekEtR3RQdlB0Skt4UDRUS3F1U0Z3ektfZm9pMmNLQlh0d3RLUTFhWHAwTS
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMHlWcmItLTJBaHdDMVRjWlpUOXNWQmRqYW1zdTAzcTdZSHJUVkZ4VXlvem9xSG9ERzl4TFNLekEtR3RQdlB0Skt4UDRUS3F1U0Z3ektfZm9pMmNLQlh0d3RLUTFhWHAwTS1pMHRoaklrcVJwRnhTSHBfZnJnbmFScWs1Ykx6UGJseDRsX0l6MEZmVm5JM1lOZVNzRU1JTzFGTk5YS2hQb3RDQlhFSkdzNHF5UGlMS0NzWHBaNURLemh2eWl0eVhfNnpZWTdFSGxNZ0cxS3dPamFyaDc3c0x6WEZ3NkhFVE5Vbm5yUlVibm8tQUR0d1NURzdxV0XSAYICQVVfeXFMTnA4d2JacjNxdkU0SEU4TVc3ZGNlWF9YOE9CaDItVlBQOTdrbU5QLTd5MGZ6eDlfVE42SGdhQzBOUmVYVGl6VlVBdm9LaDFueV8xV2k0cHQ5d0M0REd0LTJCNUxEbFI4eTM1cjhDVFJNdE5HOFo3OUVLZFlRcjE3NGZfUm4tdC1WcU5pUF9lRmYxTThWZ3VrZEY0VHRHcUlzdF9pdWlNSUFKb183STRXYUo2aDNmUnFIUVhHcjJCbEY5M2pkNVppWkdQOFBDRUxXcklZVnVqb1JkV0pad2lXZHhDaFhnVFNZQWw0bjZmYTRUV3RUMWctakRWbHVzYmNxd0R3?oc=5
 
-- Rahul says no to debate on Budget, wins allies’ praise - The Times of India
-  The Times of India published a front-page story
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPRExVMFNUSENjZi1ibUxSakprMlBfZ0EwM0xuTllmRnhwYU9tS2JRazVsQ0NKSzlOeG94WjlVTVNUQmROTkJSc0pyUnVMNldabDM1T2E1aHhraGVLdnU2cTV6MFZrZkFheXBFeE9HZXN0bERud29YN1BLR1NJX0h3bTlmNklnbGxjZ29NUGZfaDV6VzJkV3QyNHF6RjBKa1RpSVgycjl1ZVRWaDFZZjRBeTBQSzVzVkNzcERtS9IBwgFBVV95cUxOZ0xOc1JSanFadXRqWlVxUGhTOGJwMGVYRHNtNXptMVpjbDJjSjAyWFp4V2J0OUNGXzZ6RktPMnVUUTF6ZURnX3dJRy1WWWxpbHFCUFhPZkI1YkZFaVBhdi1USW9seFB3SG1JZzhKbjR6cW1lTzVWN3F0aUYtQkJteFBpNXZhTmJNZ1JFQlhkcU9HcW9XUXJVYnB4cloxTHhkNDNUc1VPN3RZVy0zNXpqbTEtWUY4cHB2ekQtRUNlQW9WQQ?oc=5
+- Understand & respect India's UNSC 'membership aspirations': China - The Times of India
+  Understand & respect India's UNSC '
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNbl9KWFg5dlFGQTZ0VnY1V1l0UmUwc0I0RS1YemZFaXVSamE0UjFONi15TTA2VnVCYTFpWFUya2MwT3RTdzRlRmM5MzEyWUhHZHRNSkNoTk12amVvVGlDRi0ycDhmQ3JyNlJPYUYyU29SZGVYUERmcnQ3TzItMXZ1SnZrVTE1a016U3pLYnVXaHZZM2tiNXhPZTNGODZRTTh1eEExcUpHMGlEeDI4eDNDd0cyMXlrM2JkUDFlQm41TUxHMXVzQWfSAcsBQVVfeXFMT0w2OHlYcDlNd3p4NjJiNktUV1JSN1NtXzRzTkpDNEhFa2pZU3FIMnJzVmF3ZElXXzFLYXpMNXdpdDZLR0ZOTnFWdGdSc3hvXy1yMHBSSE5oTEg0bl9YLWpheFhkNHBMUzRZb0RIdFI3Ulhud2lrbGE0UENlRDBxZVg3QU02SXBFeVp5RU5DTHNJRGttd2FjdEJ3T3ljQXlzU2RRWjhBWWpONl9IYVpSTmpuOEFuYmZSNGR0UzF5YjlkTlJyUTBPSmNwUjA?oc=5
 
-- India signs agreement with UK & Northern Ireland on Social Security relating to Social Security Contributions - News On AIR
-  India signs agreement with UK & Northern Ireland on Social Security relating to Social Security Contributions
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX052YVJCXzNQckpqcXVfRnlpNmppdzR4a00zcm9vU3JjZmNHV3hiblR3UGpPVHVGZExXVDF5RXBlVkdDN2RuaXRCdzJBd0xPb2wwaFZzdHRzYXh3VGFBeWZqanJkZzlkYml6QlM2Umg3OEFrRHpseWJUM09CalVncW1zZEtzNy1Scm9uMzhPVVhqVkhLczdqVkRnSVNORWtMb1plYTk2MUNndG52ZVVmV2lBcHRwbEF1ZlpqRU9nUjdXcEpvZzE4NWcxRzRVam80WnE0?oc=5
+- School assembly news headlines, February 11: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 11: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQmZhdWVWUFp4azNlZmxVV3Z4ek0tQzhhclBRYnN3d3NwV0lMQ09MMFdoVGlZWjJ4ZTg3Q05kemR1cWRza1pacVhySHA0eEROb3hWQ05zT0ExRGVCNU1MclllRWl2WThkY05sZm1SeFRtRnBFMTg1eFotWlNhNE1MR0U0ZGhfYWhLYkZUc0VMMENXTlphOUdQS0Y1UUd6TzZDNFN6QnphSVBReGFHazhRTVNhR0xpUGJxZndfNGN1MmppYmJxbWY3eWE0TGJUemdsaEhpRTc0YW5WUENpNWpKdjhsWlQ1UdIB6wFBVV95cUxPS0pBY05WelRoRlA4SV9va0FZX1dqX2xsT053c3AtRGhTZWw1OEM1Y2M2U3JTWEF6SF9oeXdJSU9ycEVlNFVQektwdkNkR0pJUVBxcVdCWUJ1a3VOS21LcmQ5Z3JUSVpMQW9fczJqWEE1cVV6WE9LWjBSQnVEMllPVXhIc3RRYmExS21pd2ZBcDNybUxneWpuWkxHaDQzWUhleGhTWUFzQ1dyZklKTTJTOUhTa3hLdnFnQks3MDdfdGNSU2pFTzBHbU95X0I5eTNCU3FOZ09SVnNBNGkyZEJoRmVqV2wzSGUxR0Y0?oc=5
 
-- Mohammed Deepak gets wave of support across India after news of his gym membership decline goes viral - The Hindu
-  Mohammed Deepak gets wave of support across India after news of his gym membership
+- ‘Mohammed’ Deepak gets wave of support across India after news of his gym membership decline goes viral - The Hindu
+  ‘Mohammed’ Deepak gets wave of support across India after news
   🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPY1hHb3FTVUs2eFdwSDdEelhRb1ItLVRSMmM3bmtHOElUYzVqQ2xqczJaMmd3UzEtaU9Nd2lyZTJGVDNvbUlfdEgyQ2MxWWNmTUpKZGRSREpkVUt4VzlvamZfdkxpNVBJcE1JUGFzMGx4YjlNRTZBVkcyMXBTdVhyZDlJdlJ3NFA4WDVVRURac3U3M3VaVWx1WTJEdm03bFhKMUFGa2dudFhlQ19nelZRTmxHRnZGYmRQcndpb3hQbnc3amU3NnVybk1RUC1taXM2S1I0ajdBTFJvTnZHYnZaZ1BuQlFha2x2SXVJOEctU21Db2RaaEV6cEluaGFsODJwREHSAYgCQVVfeXFMTzh1OEZFbF9yQmdSQmtOU2ROMDFua2lMVTdRb2ZfOWRQVFpiRThTM3d5aXdkWVRNTS1uVmlhZzRnMmtEZmFGZkxMRFlHSHUtUHl2Q2JQWEliZkdubWd3Y1Y5RGpaeXc4ZnVzZFA4aDROYWc3QmZiQ2dJeGk5YVk5SDVSNWJiV2xlNjc0UHZiMnlFUmdvbEJQTjByTnJNUHpobXFkUnJzRHh5b2FaSzlMNWVSUzBjNU0taHhYVk1xQVhaUHpDN05FQ2I3UnBiVi1vQTBaQnZuZkRmU202bWpTaXBoeUN5ZTVNNjRna3NtdW5DVzNFdDk4LXk4aGhtVV9iVTJLUWdldFJD?oc=5
 
+- India Climbs 5 Places To 91st On Global Corruption Index 2025 - NDTV
+  India Climbs 5 Places To 91st On
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVE0SW9NOVRIZklPdmVIb0RTejFwWVAzWlhzRTJKdFFfMlkwUEMxM3IxSTU2LTBIVUJPYk1OSWpLMHd2d05ZblY0a25GY0pvbFdCTkRFeXVNYm9yY2NucEFQREJTS2RYWndtbzRKenc0WGlsWnZKMGkxR0NwR2RPUHREdlk3U0ZJYzhqU1hZc1pEOU1TdURmN3U0aUQyWklrUnd0etIBrAFBVV95cUxQblJWVlJVUlpzUlpTcnJqazFNT2dEdXBKZGduUzUxZHdnY1lFUkVJb1pVdXBKOUNfWlFsNG9ud1BMcmhaM2RyUU9Dd0w1YW15LW1XNWJuTXliVWw4V0d5WmhEdC13SHI4T3drNktISkE4TFp0Mjg5ZEF4QlBWQ1h4XzFaX25BUlF4aTMtYzFvcThOams0NmZtODJkN1RmVXJkaFB1endzN2NxR3Bh?oc=5
 
-_Last updated: 2026-02-11 01:58:34 UTC_
+- Within hours, White House revises India-US trade deal fact sheet. See changes | India News - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMHlWcmItLTJBaHdDMVRjWlpUOXNWQmRqYW1zdTAzcTdZSHJUVkZ4VXlvem9xSG9ERzl4TFNLekEtR3RQdlB0Skt4UDRUS3F1U0Z3ektfZm9pMmNLQlh0d3RLUTFhWHAwTS
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMHlWcmItLTJBaHdDMVRjWlpUOXNWQmRqYW1zdTAzcTdZSHJUVkZ4VXlvem9xSG9ERzl4TFNLekEtR3RQdlB0Skt4UDRUS3F1U0Z3ektfZm9pMmNLQlh0d3RLUTFhWHAwTS1pMHRoaklrcVJwRnhTSHBfZnJnbmFScWs1Ykx6UGJseDRsX0l6MEZmVm5JM1lOZVNzRU1JTzFGTk5YS2hQb3RDQlhFSkdzNHF5UGlMS0NzWHBaNURLemh2eWl0eVhfNnpZWTdFSGxNZ0cxS3dPamFyaDc3c0x6WEZ3NkhFVE5Vbm5yUlVibm8tQUR0d1NURzdxV0XSAYICQVVfeXFMTnA4d2JacjNxdkU0SEU4TVc3ZGNlWF9YOE9CaDItVlBQOTdrbU5QLTd5MGZ6eDlfVE42SGdhQzBOUmVYVGl6VlVBdm9LaDFueV8xV2k0cHQ5d0M0REd0LTJCNUxEbFI4eTM1cjhDVFJNdE5HOFo3OUVLZFlRcjE3NGZfUm4tdC1WcU5pUF9lRmYxTThWZ3VrZEY0VHRHcUlzdF9pdWlNSUFKb183STRXYUo2aDNmUnFIUVhHcjJCbEY5M2pkNVppWkdQOFBDRUxXcklZVnVqb1JkV0pad2lXZHhDaFhnVFNZQWw0bjZmYTRUV3RUMWctakRWbHVzYmNxd0R3?oc=5
+
+- Understand & respect India's UNSC 'membership aspirations': China - The Times of India
+  Understand & respect India's UNSC '
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNbl9KWFg5dlFGQTZ0VnY1V1l0UmUwc0I0RS1YemZFaXVSamE0UjFONi15TTA2VnVCYTFpWFUya2MwT3RTdzRlRmM5MzEyWUhHZHRNSkNoTk12amVvVGlDRi0ycDhmQ3JyNlJPYUYyU29SZGVYUERmcnQ3TzItMXZ1SnZrVTE1a016U3pLYnVXaHZZM2tiNXhPZTNGODZRTTh1eEExcUpHMGlEeDI4eDNDd0cyMXlrM2JkUDFlQm41TUxHMXVzQWfSAcsBQVVfeXFMT0w2OHlYcDlNd3p4NjJiNktUV1JSN1NtXzRzTkpDNEhFa2pZU3FIMnJzVmF3ZElXXzFLYXpMNXdpdDZLR0ZOTnFWdGdSc3hvXy1yMHBSSE5oTEg0bl9YLWpheFhkNHBMUzRZb0RIdFI3Ulhud2lrbGE0UENlRDBxZVg3QU02SXBFeVp5RU5DTHNJRGttd2FjdEJ3T3ljQXlzU2RRWjhBWWpONl9IYVpSTmpuOEFuYmZSNGR0UzF5YjlkTlJyUTBPSmNwUjA?oc=5
+
+- School assembly news headlines, February 11: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 11: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQmZhdWVWUFp4azNlZmxVV3Z4ek0tQzhhclBRYnN3d3NwV0lMQ09MMFdoVGlZWjJ4ZTg3Q05kemR1cWRza1pacVhySHA0eEROb3hWQ05zT0ExRGVCNU1MclllRWl2WThkY05sZm1SeFRtRnBFMTg1eFotWlNhNE1MR0U0ZGhfYWhLYkZUc0VMMENXTlphOUdQS0Y1UUd6TzZDNFN6QnphSVBReGFHazhRTVNhR0xpUGJxZndfNGN1MmppYmJxbWY3eWE0TGJUemdsaEhpRTc0YW5WUENpNWpKdjhsWlQ1UdIB6wFBVV95cUxPS0pBY05WelRoRlA4SV9va0FZX1dqX2xsT053c3AtRGhTZWw1OEM1Y2M2U3JTWEF6SF9oeXdJSU9ycEVlNFVQektwdkNkR0pJUVBxcVdCWUJ1a3VOS21LcmQ5Z3JUSVpMQW9fczJqWEE1cVV6WE9LWjBSQnVEMllPVXhIc3RRYmExS21pd2ZBcDNybUxneWpuWkxHaDQzWUhleGhTWUFzQ1dyZklKTTJTOUhTa3hLdnFnQks3MDdfdGNSU2pFTzBHbU95X0I5eTNCU3FOZ09SVnNBNGkyZEJoRmVqV2wzSGUxR0Y0?oc=5
+
+- ‘Mohammed’ Deepak gets wave of support across India after news of his gym membership decline goes viral - The Hindu
+  ‘Mohammed’ Deepak gets wave of support across India after news
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPY1hHb3FTVUs2eFdwSDdEelhRb1ItLVRSMmM3bmtHOElUYzVqQ2xqczJaMmd3UzEtaU9Nd2lyZTJGVDNvbUlfdEgyQ2MxWWNmTUpKZGRSREpkVUt4VzlvamZfdkxpNVBJcE1JUGFzMGx4YjlNRTZBVkcyMXBTdVhyZDlJdlJ3NFA4WDVVRURac3U3M3VaVWx1WTJEdm03bFhKMUFGa2dudFhlQ19nelZRTmxHRnZGYmRQcndpb3hQbnc3amU3NnVybk1RUC1taXM2S1I0ajdBTFJvTnZHYnZaZ1BuQlFha2x2SXVJOEctU21Db2RaaEV6cEluaGFsODJwREHSAYgCQVVfeXFMTzh1OEZFbF9yQmdSQmtOU2ROMDFua2lMVTdRb2ZfOWRQVFpiRThTM3d5aXdkWVRNTS1uVmlhZzRnMmtEZmFGZkxMRFlHSHUtUHl2Q2JQWEliZkdubWd3Y1Y5RGpaeXc4ZnVzZFA4aDROYWc3QmZiQ2dJeGk5YVk5SDVSNWJiV2xlNjc0UHZiMnlFUmdvbEJQTjByTnJNUHpobXFkUnJzRHh5b2FaSzlMNWVSUzBjNU0taHhYVk1xQVhaUHpDN05FQ2I3UnBiVi1vQTBaQnZuZkRmU202bWpTaXBoeUN5ZTVNNjRna3NtdW5DVzNFdDk4LXk4aGhtVV9iVTJLUWdldFJD?oc=5
+
+- India Climbs 5 Places To 91st On Global Corruption Index 2025 - NDTV
+  India Climbs 5 Places To 91st On
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVE0SW9NOVRIZklPdmVIb0RTejFwWVAzWlhzRTJKdFFfMlkwUEMxM3IxSTU2LTBIVUJPYk1OSWpLMHd2d05ZblY0a25GY0pvbFdCTkRFeXVNYm9yY2NucEFQREJTS2RYWndtbzRKenc0WGlsWnZKMGkxR0NwR2RPUHREdlk3U0ZJYzhqU1hZc1pEOU1TdURmN3U0aUQyWklrUnd0etIBrAFBVV95cUxQblJWVlJVUlpzUlpTcnJqazFNT2dEdXBKZGduUzUxZHdnY1lFUkVJb1pVdXBKOUNfWlFsNG9ud1BMcmhaM2RyUU9Dd0w1YW15LW1XNWJuTXliVWw4V0d5WmhEdC13SHI4T3drNktISkE4TFp0Mjg5ZEF4QlBWQ1h4XzFaX25BUlF4aTMtYzFvcThOams0NmZtODJkN1RmVXJkaFB1endzN2NxR3Bh?oc=5
+
+- Within hours, White House revises India-US trade deal fact sheet. See changes | India News - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMHlWcmItLTJBaHdDMVRjWlpUOXNWQmRqYW1zdTAzcTdZSHJUVkZ4VXlvem9xSG9ERzl4TFNLekEtR3RQdlB0Skt4UDRUS3F1U0Z3ektfZm9pMmNLQlh0d3RLUTFhWHAwTS
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMHlWcmItLTJBaHdDMVRjWlpUOXNWQmRqYW1zdTAzcTdZSHJUVkZ4VXlvem9xSG9ERzl4TFNLekEtR3RQdlB0Skt4UDRUS3F1U0Z3ektfZm9pMmNLQlh0d3RLUTFhWHAwTS1pMHRoaklrcVJwRnhTSHBfZnJnbmFScWs1Ykx6UGJseDRsX0l6MEZmVm5JM1lOZVNzRU1JTzFGTk5YS2hQb3RDQlhFSkdzNHF5UGlMS0NzWHBaNURLemh2eWl0eVhfNnpZWTdFSGxNZ0cxS3dPamFyaDc3c0x6WEZ3NkhFVE5Vbm5yUlVibm8tQUR0d1NURzdxV0XSAYICQVVfeXFMTnA4d2JacjNxdkU0SEU4TVc3ZGNlWF9YOE9CaDItVlBQOTdrbU5QLTd5MGZ6eDlfVE42SGdhQzBOUmVYVGl6VlVBdm9LaDFueV8xV2k0cHQ5d0M0REd0LTJCNUxEbFI4eTM1cjhDVFJNdE5HOFo3OUVLZFlRcjE3NGZfUm4tdC1WcU5pUF9lRmYxTThWZ3VrZEY0VHRHcUlzdF9pdWlNSUFKb183STRXYUo2aDNmUnFIUVhHcjJCbEY5M2pkNVppWkdQOFBDRUxXcklZVnVqb1JkV0pad2lXZHhDaFhnVFNZQWw0bjZmYTRUV3RUMWctakRWbHVzYmNxd0R3?oc=5
+
+- Understand & respect India's UNSC 'membership aspirations': China - The Times of India
+  Understand & respect India's UNSC '
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNbl9KWFg5dlFGQTZ0VnY1V1l0UmUwc0I0RS1YemZFaXVSamE0UjFONi15TTA2VnVCYTFpWFUya2MwT3RTdzRlRmM5MzEyWUhHZHRNSkNoTk12amVvVGlDRi0ycDhmQ3JyNlJPYUYyU29SZGVYUERmcnQ3TzItMXZ1SnZrVTE1a016U3pLYnVXaHZZM2tiNXhPZTNGODZRTTh1eEExcUpHMGlEeDI4eDNDd0cyMXlrM2JkUDFlQm41TUxHMXVzQWfSAcsBQVVfeXFMT0w2OHlYcDlNd3p4NjJiNktUV1JSN1NtXzRzTkpDNEhFa2pZU3FIMnJzVmF3ZElXXzFLYXpMNXdpdDZLR0ZOTnFWdGdSc3hvXy1yMHBSSE5oTEg0bl9YLWpheFhkNHBMUzRZb0RIdFI3Ulhud2lrbGE0UENlRDBxZVg3QU02SXBFeVp5RU5DTHNJRGttd2FjdEJ3T3ljQXlzU2RRWjhBWWpONl9IYVpSTmpuOEFuYmZSNGR0UzF5YjlkTlJyUTBPSmNwUjA?oc=5
+
+- School assembly news headlines, February 11: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 11: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQmZhdWVWUFp4azNlZmxVV3Z4ek0tQzhhclBRYnN3d3NwV0lMQ09MMFdoVGlZWjJ4ZTg3Q05kemR1cWRza1pacVhySHA0eEROb3hWQ05zT0ExRGVCNU1MclllRWl2WThkY05sZm1SeFRtRnBFMTg1eFotWlNhNE1MR0U0ZGhfYWhLYkZUc0VMMENXTlphOUdQS0Y1UUd6TzZDNFN6QnphSVBReGFHazhRTVNhR0xpUGJxZndfNGN1MmppYmJxbWY3eWE0TGJUemdsaEhpRTc0YW5WUENpNWpKdjhsWlQ1UdIB6wFBVV95cUxPS0pBY05WelRoRlA4SV9va0FZX1dqX2xsT053c3AtRGhTZWw1OEM1Y2M2U3JTWEF6SF9oeXdJSU9ycEVlNFVQektwdkNkR0pJUVBxcVdCWUJ1a3VOS21LcmQ5Z3JUSVpMQW9fczJqWEE1cVV6WE9LWjBSQnVEMllPVXhIc3RRYmExS21pd2ZBcDNybUxneWpuWkxHaDQzWUhleGhTWUFzQ1dyZklKTTJTOUhTa3hLdnFnQks3MDdfdGNSU2pFTzBHbU95X0I5eTNCU3FOZ09SVnNBNGkyZEJoRmVqV2wzSGUxR0Y0?oc=5
+
+- ‘Mohammed’ Deepak gets wave of support across India after news of his gym membership decline goes viral - The Hindu
+  ‘Mohammed’ Deepak gets wave of support across India after news
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPY1hHb3FTVUs2eFdwSDdEelhRb1ItLVRSMmM3bmtHOElUYzVqQ2xqczJaMmd3UzEtaU9Nd2lyZTJGVDNvbUlfdEgyQ2MxWWNmTUpKZGRSREpkVUt4VzlvamZfdkxpNVBJcE1JUGFzMGx4YjlNRTZBVkcyMXBTdVhyZDlJdlJ3NFA4WDVVRURac3U3M3VaVWx1WTJEdm03bFhKMUFGa2dudFhlQ19nelZRTmxHRnZGYmRQcndpb3hQbnc3amU3NnVybk1RUC1taXM2S1I0ajdBTFJvTnZHYnZaZ1BuQlFha2x2SXVJOEctU21Db2RaaEV6cEluaGFsODJwREHSAYgCQVVfeXFMTzh1OEZFbF9yQmdSQmtOU2ROMDFua2lMVTdRb2ZfOWRQVFpiRThTM3d5aXdkWVRNTS1uVmlhZzRnMmtEZmFGZkxMRFlHSHUtUHl2Q2JQWEliZkdubWd3Y1Y5RGpaeXc4ZnVzZFA4aDROYWc3QmZiQ2dJeGk5YVk5SDVSNWJiV2xlNjc0UHZiMnlFUmdvbEJQTjByTnJNUHpobXFkUnJzRHh5b2FaSzlMNWVSUzBjNU0taHhYVk1xQVhaUHpDN05FQ2I3UnBiVi1vQTBaQnZuZkRmU202bWpTaXBoeUN5ZTVNNjRna3NtdW5DVzNFdDk4LXk4aGhtVV9iVTJLUWdldFJD?oc=5
+
+- India Climbs 5 Places To 91st On Global Corruption Index 2025 - NDTV
+  India Climbs 5 Places To 91st On
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVE0SW9NOVRIZklPdmVIb0RTejFwWVAzWlhzRTJKdFFfMlkwUEMxM3IxSTU2LTBIVUJPYk1OSWpLMHd2d05ZblY0a25GY0pvbFdCTkRFeXVNYm9yY2NucEFQREJTS2RYWndtbzRKenc0WGlsWnZKMGkxR0NwR2RPUHREdlk3U0ZJYzhqU1hZc1pEOU1TdURmN3U0aUQyWklrUnd0etIBrAFBVV95cUxQblJWVlJVUlpzUlpTcnJqazFNT2dEdXBKZGduUzUxZHdnY1lFUkVJb1pVdXBKOUNfWlFsNG9ud1BMcmhaM2RyUU9Dd0w1YW15LW1XNWJuTXliVWw4V0d5WmhEdC13SHI4T3drNktISkE4TFp0Mjg5ZEF4QlBWQ1h4XzFaX25BUlF4aTMtYzFvcThOams0NmZtODJkN1RmVXJkaFB1endzN2NxR3Bh?oc=5
+
+- Within hours, White House revises India-US trade deal fact sheet. See changes | India News - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMHlWcmItLTJBaHdDMVRjWlpUOXNWQmRqYW1zdTAzcTdZSHJUVkZ4VXlvem9xSG9ERzl4TFNLekEtR3RQdlB0Skt4UDRUS3F1U0Z3ektfZm9pMmNLQlh0d3RLUTFhWHAwTS
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMHlWcmItLTJBaHdDMVRjWlpUOXNWQmRqYW1zdTAzcTdZSHJUVkZ4VXlvem9xSG9ERzl4TFNLekEtR3RQdlB0Skt4UDRUS3F1U0Z3ektfZm9pMmNLQlh0d3RLUTFhWHAwTS1pMHRoaklrcVJwRnhTSHBfZnJnbmFScWs1Ykx6UGJseDRsX0l6MEZmVm5JM1lOZVNzRU1JTzFGTk5YS2hQb3RDQlhFSkdzNHF5UGlMS0NzWHBaNURLemh2eWl0eVhfNnpZWTdFSGxNZ0cxS3dPamFyaDc3c0x6WEZ3NkhFVE5Vbm5yUlVibm8tQUR0d1NURzdxV0XSAYICQVVfeXFMTnA4d2JacjNxdkU0SEU4TVc3ZGNlWF9YOE9CaDItVlBQOTdrbU5QLTd5MGZ6eDlfVE42SGdhQzBOUmVYVGl6VlVBdm9LaDFueV8xV2k0cHQ5d0M0REd0LTJCNUxEbFI4eTM1cjhDVFJNdE5HOFo3OUVLZFlRcjE3NGZfUm4tdC1WcU5pUF9lRmYxTThWZ3VrZEY0VHRHcUlzdF9pdWlNSUFKb183STRXYUo2aDNmUnFIUVhHcjJCbEY5M2pkNVppWkdQOFBDRUxXcklZVnVqb1JkV0pad2lXZHhDaFhnVFNZQWw0bjZmYTRUV3RUMWctakRWbHVzYmNxd0R3?oc=5
+
+- Understand & respect India's UNSC 'membership aspirations': China - The Times of India
+  Understand & respect India's UNSC '
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNbl9KWFg5dlFGQTZ0VnY1V1l0UmUwc0I0RS1YemZFaXVSamE0UjFONi15TTA2VnVCYTFpWFUya2MwT3RTdzRlRmM5MzEyWUhHZHRNSkNoTk12amVvVGlDRi0ycDhmQ3JyNlJPYUYyU29SZGVYUERmcnQ3TzItMXZ1SnZrVTE1a016U3pLYnVXaHZZM2tiNXhPZTNGODZRTTh1eEExcUpHMGlEeDI4eDNDd0cyMXlrM2JkUDFlQm41TUxHMXVzQWfSAcsBQVVfeXFMT0w2OHlYcDlNd3p4NjJiNktUV1JSN1NtXzRzTkpDNEhFa2pZU3FIMnJzVmF3ZElXXzFLYXpMNXdpdDZLR0ZOTnFWdGdSc3hvXy1yMHBSSE5oTEg0bl9YLWpheFhkNHBMUzRZb0RIdFI3Ulhud2lrbGE0UENlRDBxZVg3QU02SXBFeVp5RU5DTHNJRGttd2FjdEJ3T3ljQXlzU2RRWjhBWWpONl9IYVpSTmpuOEFuYmZSNGR0UzF5YjlkTlJyUTBPSmNwUjA?oc=5
+
+- School assembly news headlines, February 11: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 11: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQmZhdWVWUFp4azNlZmxVV3Z4ek0tQzhhclBRYnN3d3NwV0lMQ09MMFdoVGlZWjJ4ZTg3Q05kemR1cWRza1pacVhySHA0eEROb3hWQ05zT0ExRGVCNU1MclllRWl2WThkY05sZm1SeFRtRnBFMTg1eFotWlNhNE1MR0U0ZGhfYWhLYkZUc0VMMENXTlphOUdQS0Y1UUd6TzZDNFN6QnphSVBReGFHazhRTVNhR0xpUGJxZndfNGN1MmppYmJxbWY3eWE0TGJUemdsaEhpRTc0YW5WUENpNWpKdjhsWlQ1UdIB6wFBVV95cUxPS0pBY05WelRoRlA4SV9va0FZX1dqX2xsT053c3AtRGhTZWw1OEM1Y2M2U3JTWEF6SF9oeXdJSU9ycEVlNFVQektwdkNkR0pJUVBxcVdCWUJ1a3VOS21LcmQ5Z3JUSVpMQW9fczJqWEE1cVV6WE9LWjBSQnVEMllPVXhIc3RRYmExS21pd2ZBcDNybUxneWpuWkxHaDQzWUhleGhTWUFzQ1dyZklKTTJTOUhTa3hLdnFnQks3MDdfdGNSU2pFTzBHbU95X0I5eTNCU3FOZ09SVnNBNGkyZEJoRmVqV2wzSGUxR0Y0?oc=5
+
+- ‘Mohammed’ Deepak gets wave of support across India after news of his gym membership decline goes viral - The Hindu
+  ‘Mohammed’ Deepak gets wave of support across India after news
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPY1hHb3FTVUs2eFdwSDdEelhRb1ItLVRSMmM3bmtHOElUYzVqQ2xqczJaMmd3UzEtaU9Nd2lyZTJGVDNvbUlfdEgyQ2MxWWNmTUpKZGRSREpkVUt4VzlvamZfdkxpNVBJcE1JUGFzMGx4YjlNRTZBVkcyMXBTdVhyZDlJdlJ3NFA4WDVVRURac3U3M3VaVWx1WTJEdm03bFhKMUFGa2dudFhlQ19nelZRTmxHRnZGYmRQcndpb3hQbnc3amU3NnVybk1RUC1taXM2S1I0ajdBTFJvTnZHYnZaZ1BuQlFha2x2SXVJOEctU21Db2RaaEV6cEluaGFsODJwREHSAYgCQVVfeXFMTzh1OEZFbF9yQmdSQmtOU2ROMDFua2lMVTdRb2ZfOWRQVFpiRThTM3d5aXdkWVRNTS1uVmlhZzRnMmtEZmFGZkxMRFlHSHUtUHl2Q2JQWEliZkdubWd3Y1Y5RGpaeXc4ZnVzZFA4aDROYWc3QmZiQ2dJeGk5YVk5SDVSNWJiV2xlNjc0UHZiMnlFUmdvbEJQTjByTnJNUHpobXFkUnJzRHh5b2FaSzlMNWVSUzBjNU0taHhYVk1xQVhaUHpDN05FQ2I3UnBiVi1vQTBaQnZuZkRmU202bWpTaXBoeUN5ZTVNNjRna3NtdW5DVzNFdDk4LXk4aGhtVV9iVTJLUWdldFJD?oc=5
+
+- The World Needs China's Climate Tech. That's the Dilemma - Time Magazine
+  The World Needs China's Climate Tech.
+  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE1ycnRQWTNpTFZqYThZNy04cHctRzZVVk83dGRneUp6dVVWR1RlWDJFZTNWN0JYc1pxd2JLX3YwRlhyenk0ams2ZnBnTjBXVzA0R05sRG5SWUU2eUd6akhXdG91ZGd4cXUwM09XY1FkaHdHZlNFMk50YmJB?oc=5
+
+- Chinese technology underpins Iran’s internet control, report finds - The Guardian
+  Chinese technology underpins Iran’
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOOFpVWncwVFZGTjhmcTlnZVJWd1RteWlOYUpxQklSTEo1ZERfaXVMcS1PX3Q0TF9NN2htajVQU3J0Y0xBRm9WM19ORVIxTHl5VGl5bnB1NXV4NnVoMzNFaFVwc1p1Wld6dml4Mk5hZGJRckFYZGtVNnBjYnB3Uk9UZm9UWFA3eGRKZndMNg?oc=5
+
+- Five ways quantum technology could shape everyday life - Phys.org
+   quantum technology could shape everyday life
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE91dTI4ZTB4YTY2aTlwUXY1U3ZYcWItcHJLSVd4cG1UVzFFSjRDVzBNa0dhRkdUS3ZVYVdxYkE4ajBfZ3huRGRDbHkwZjJpNnFrR2NyZnRHUDhTVlVGUGt2ZFR2d2JrTUFTaTh6ZDZNeWw2TDZ5N0JRU05RTnM?oc=5
+
+- Call for Proposals: Small Grants Programme for World Day for Assistive Technology - fundsforNGOs
+  The World Day for Assistive Technology is held every
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPQXhKZVhiZElZWE9TZTc5NXZkbDJzaGR4TXRieW1xRDUwZmhIZG9BT01ieEpXX1oxZnNzanZvdncwLXJHejZsSHRPcjUwd2pGbEpudERDLWFtNnRoSXZRSjJZbDBQVGtaVTZkOHkxQW84QVlCakxLTTJMOVZmZHBUQmhHTTlIRGt3TmxqaGc0aDJ2MzQ2cnp1SG1BU25vZTNXSUkwNkRZcTlQeDVPVDZYTTFCNVM3WTA5QjBIZHZR0gHDAUFVX3lxTE5HMVNhVkNrdkhUVjhrSmk0Y2JadDh1dlhnVnk5NHBTc0lkRDRFanNOTzhTUnhWWTRSS3hfTHJaZnl0R20yMDhNTEtFT3NWUVd2cm5sMFJRWVdQR1RoSENmSkNBa2xPQkhsV1VRaXE2dzhWSGM0SnRoZ2w4dG5uWnpTeGxHeFgzT3FBYlVxUGVVUDN5UUN4ZHVwNWdyREViblk1b1gxd2dsRWI5MUtIVU9DdFNsZFc2VzlPWExGRTFaX2xoWQ?oc=5
+
+- Making AI Work, MIT Technology Review’s new AI newsletter, is here - MIT Technology Review
+  Making AI Work, MIT Technology Review’s new
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXV1NTdKa0RyR2RKZ0Q5VTY4ZkdBRm12R1A3MWlsVVVUX2ZFQkpKaEsxbk9nWXh1LUNvWTdfb2NUZjZDY1NrN0hmWnU2SEt6cEZObVk2a3dTVXVWNDZPUVJ0Mzc5SV9vSnpLOXFFNk5HdnhwcW5iUXBzdFhYNTR1Znh3YlplVmRtdmUycmZCZEtIaFhoTlJZ0gGcAUFVX3lxTFBkM0pnMGRvWkRSOXpYa3VEZHFzMnlwMFFiX01paG90WjJiNF92ZGJfVGJaUWUwRUlkNUczRTNOOHhYbmg3bGFkeHlkSUR0b0Z4WVAzMGZNQVZqcnFaNXRrb3Nzc29IblhrLXZEb0RmdmRpWlJta21SdkpDdHlmcmJMdnVaOXZSa2tvNWs5UU4tbzMyMG90SEMteE1NbQ?oc=5
+
+
+_Last updated: 2026-02-11 07:00:33 UTC_
