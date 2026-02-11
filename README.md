@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Assam final voter list 2026: Is your name missing after Special Revision? Here’s what you can do
+- Rajnath-led council to discuss procurement of French Rafale jets this week, key nod likely
   
-  🔗 https://indianexpress.com/article/india/assam-voter-list-2026-special-revision-name-missing-final-list-10525263/
+  🔗 https://indianexpress.com/article/india/rajnath-led-council-to-discuss-procurement-of-french-rafale-jets-this-week-key-nod-likely-10525470/
 
-- Railway Board approves new Vande Bharat train, discontinues two existing services – check routes
+- Hope US deal won’t mean Delhi-Moscow ties suffer: Russia
   
-  🔗 https://indianexpress.com/article/india/railway-board-approves-new-vande-bharat-train-discontinues-two-existing-services-routes-10525172/
+  🔗 https://indianexpress.com/article/india/hope-us-deal-wont-mean-delhi-moscow-ties-suffer-russia-10525447/
 
-- Women collecting firewood trampled by wild elephant in Odisha, 3 killed
+- Vikram Misri meets China’s vice-minister; talks focus on border peace, trade
   
-  🔗 https://indianexpress.com/article/india/women-collecting-firewood-trampled-by-wild-elephant-in-odisha-10525251/
+  🔗 https://indianexpress.com/article/india/vikram-misri-meets-chinas-vice-minister-talks-focus-on-border-peace-trade-10525493/
 
-- Crowd surge at temple inauguration event in Madhya Pradesh leaves 70-year-old woman dead
+- Move to procure six more P-8I submarine hunters before DAC this week
   
-  🔗 https://indianexpress.com/article/india/crowd-surge-temple-inauguration-event-madhya-pradesh-70-year-old-woman-10525212/
+  🔗 https://indianexpress.com/article/india/move-to-procure-six-more-p-8i-submarine-hunters-before-dac-this-week-10525471/
 
-- Final note alleges corruption, Madhya Pradesh cop dies after ‘consuming poison’ at police control room
+- ‘Cannot be insulated from Parliamentary scrutiny’: Brittas writes to Birla, Radhakrishnan on PM CARES fund
   
-  🔗 https://indianexpress.com/article/india/final-note-corruption-madhya-pradesh-cop-dies-poison-police-control-room-10525192/
+  🔗 https://indianexpress.com/article/india/cannot-be-insulated-brittas-writes-on-pm-cares-fund-10525506/
 
 - Telegram faces further restrictions, possible fines as Russian authorities clamp down
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/the-making-of-mx-master-4-how-logitech-designed-a-premium-wireless-mouse-with-haptic-vibrations-10524437/
 
+- Google parent Alphabet sells $32 billion in bonds in 24 hours showing credit market appetite for tech, AI players
+  Alphabet Inc. raised nearly $32 billion in debt to support its AI initiatives. There are concerns over big tech's borrowing impacts on bond valuations
+  🔗 https://www.livemint.com/companies/news/google-parent-alphabet-sells-32-billion-bonds-24-hours-shows-credit-market-appetite-tech-ai-players-concerns-valuations-11770771831784.html
+
+- Sam Bankman-Fried Asks for New Trial on FTX Fraud Charges
+  FTX co-founder Sam Bankman-Fried filed a long-shot request for a new trial on the charges for which he’s currently serving a 25-
+  🔗 https://www.livemint.com/companies/sam-bankman-fried-asks-for-new-trial-on-ftx-fraud-charges-11770750546015.html
+
 - Musk’s Starlink in Crosshairs of Iran, Russia at UN Space Confab
   Iran and Russia say the Starlink satellite constellation violates international law. They say it blurs the line between commercial
   🔗 https://www.livemint.com/companies/musks-starlink-in-crosshairs-of-iran-russia-at-un-space-confab-11770750048043.html
@@ -52,33 +60,29 @@
   Shoppers Stop appoints Pankaj Ch
   🔗 https://www.livemint.com/companies/news/who-is-pankaj-chaturvedi-shoppers-stop-names-new-company-cfo-all-about-him-11770744034242.html
 
-- BHEL stake sale opens on Wednesday, govt may offload up to 5%
-  The government aims to sell 3% in BHEL, with a green shoe option to divest an additional 2%. The
-  🔗 https://www.livemint.com/companies/bhel-ofs-wednesday-government-sell-stake-grenshoe-divestment-11770742735521.html
+- Nifty 50, Sensex today: What to expect from Indian stock market in trade on February 11
+  Gift Nifty was trading around 26,058 level, a premium of nearly 72 points from the Nifty futures’ previous close.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-february-11-11770737342635.html
 
-- Apollo Hospitals beats estimates in Q3, as specialty care continues to drive growth
-  The corporate hospital chain reported a revenue of  ₹6,477 crore, up 17% year-on-year. Its profit after tax grew 35% to  �
-  🔗 https://www.livemint.com/companies/news/apollo-hospitals-beats-estimates-in-q3-as-specialty-care-continues-to-drive-growth-11770736072658.html
+- Stocks to watch: M&amp;M, Titan, Eicher Motors, BHEL, Grasim among 10 shares in focus today; full list here
+  Sensex and Nifty 50 extended their rally for a third straight session. On Tuesday, the Indian benchmark
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-m-m-titan-eicher-motors-bhel-grasim-among-10-shares-in-focus-today-full-list-here-11770767984143.html
 
-- Oil Fluctuates as Traders Focus on Supply Risks in Middle East
-  Traders assess the risks of supply disruptions in the Middle East ahead of a meeting between Israeli Prime Minister Benjamin Netanyahu and US President Donald
-  🔗 https://www.livemint.com/market/oil-fluctuates-as-traders-focus-on-supply-risks-in-middle-east-11770749243858.html
+- Indian stock market: 7 key things that changed for market overnight - Gift Nifty, Dow Jones’ record close to MSCI rejig
+  Gift Nifty was trading around 26,056 level, a premium of nearly 70 points from the Nifty futures
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-7-key-things-that-changed-for-market-overnight-gift-nifty-dow-jones-record-close-to-msci-rejig-11770737573217.html
 
-- Alphabet's 100-year bond: Google parent to raise funds via rare debt route to fund AI expansion plans — Details
-  Google parent Alphabet is looking to raise funds from the bond market via a rare debt route of 100-year bonds. The company is raising money to fund the
-  🔗 https://www.livemint.com/market/bonds/alphabets-100-year-bond-google-parent-to-raise-funds-via-rare-debt-route-to-fund-ai-expansion-plans-details-11770738250250.html
+- MSCI Rejig: Aditya Birla Capital, L&amp;T Finance included in Global Standard Index; IRCTC removed
+  India’s weight in the MSCI Standard Index remains unchanged at 14.1%. The weight of AU Small Finance Bank shares will increase in
+  🔗 https://www.livemint.com/market/stock-market-news/msci-rejig-aditya-birla-capital-landt-finance-included-in-global-standard-index-irctc-removed-11770772142666.html
 
-- ‘You can bet on literally anything’: Zerodha's Nithin Kamath on US markets as India hikes tax on F&amp;O trading
-  Nithin Kamath spoke about the government's move to raise the STT on F&amp
-  🔗 https://www.livemint.com/market/you-can-bet-on-literally-anything-zerodhas-nithin-kamath-on-us-markets-as-india-hikes-tax-on-f-o-trading-11770730166806.html
+- Why this is the coldest crypto winter yet
+  An asset class that is all about
+  🔗 https://www.livemint.com/market/why-this-is-the-coldest-crypto-winter-yet-11770771954862.html
 
-- Wall Street gains as weak retail sales data boosts hopes for Fed rate cut
-  The Dow Jones Industrial Average rose 0.11%, the S
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-gains-as-weak-retail-sales-data-boosts-hopes-for-fed-rate-cut-11770733824824.html
-
-- Gold, silver rates today: Comex gold slips $68/oz; silver down $2/oz ahead of key US economic data
-  Safe-haven assets experienced volatility as investors await key US economic data that could influence Fed policy. Analysts predict steady interest rates in March, with potential cuts later this year.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-slips-68-oz-silver-down-2-oz-ahead-of-key-us-economic-data-11770731563881.html
+- Chile launches open-source AI model designed for Latin America
+  Chile launches open
+  🔗 https://www.livemint.com/technology/chile-launches-open-source-ai-model-designed-for-latin-america-11770751049907.html
 
 - Nothing Phone 4a, 4a Pro tipped for March launch with bigger batteries and 120Hz displays
   Nothing could unveil the Phone 4a and 4a Pro at MWC 2026 as its main smartphones for the year. New colours, upgraded batteries, Snapdragon 7s Gen 4 chips and
@@ -96,157 +100,85 @@
   Apple’s next AirPods Pro could feature infrared sensors to detect surroundings and enhance spatial audio. Leaks also hint at a new H3 chip and health tracking, while
   🔗 https://www.livemint.com/technology/tech-news/apple-airpods-pro-3-could-see-your-surroundings-with-new-infrared-tech-heres-how-11770725097604.html
 
-- GoBoult expands Mustang lineup with 3 new watches and transparent TWS earbuds, price starts at  ₹1,499
-  GoBoult has launched three new smartwatches in India. Stallion, Racer, and Muscle are priced at  ₹3,999,   �
-  🔗 https://www.livemint.com/technology/gadgets/goboult-expands-mustang-lineup-with-3-new-watches-and-transparent-tws-earbuds-price-starts-at-rs-1499-11770722816417.html
+- Stock Market LIVE: GIFT Nifty hints at positive start amid mixed cues; Asian markets extend gains
+  Nifty was trading at 26,050.5 levels, up by 89 points, indicating a positive start for Indian markets
+  🔗 https://www.business-standard.com/markets/news/stock-market-live-february-11-nse-bse-sensex-today-gift-nifty-q3-results-ipo-share-market-today-126021100081_1.html
 
-- Bharat Heavy Electricals secures work order of Rs 2,800 cr
-  
-  🔗 https://www.business-standard.com/markets/capital-market-news/bharat-heavy-electricals-secures-work-order-of-rs-2-800-cr-126021001722_1.html
+- Buy NTPC, CPSE ETF; Nifty resistance seen at 26,000, says HDFC Securities
+  Technical analyst Vinay Rajani of HDFC Securities expects NTPC and CPSE
+  🔗 https://www.business-standard.com/markets/news/buy-ntpc-cpseetf-nifty-resistance-seen-at-26-000-says-hdfc-securities-126021100091_1.html
 
-- Ion Exchange secures work order worth Rs 1,730 cr
-  
-  🔗 https://www.business-standard.com/markets/capital-market-news/ion-exchange-secures-work-order-worth-rs-1-730-cr-126021001681_1.html
+- Gold price rises ₹10 to ₹1,58,790, silver falls ₹100 to ₹2,89,900
+  The price of 22-carat gold rose by ₹
+  🔗 https://www.business-standard.com/markets/commodities/gold-price-rises-10-to-1-58-790-silver-falls-100-to-2-89-900-126021100080_1.html
 
-- GHV Infra Projects secures work order of Rs 135 cr
-  
-  🔗 https://www.business-standard.com/markets/capital-market-news/ghv-infra-projects-secures-work-order-of-rs-135-cr-126021001662_1.html
+- Nifty, Bank Nifty strategy; 3 stocks recommendations today by Motilal Oswal
+  Chandan Taparia of Motilal Oswal Financial Services recommends to buy Tata
+  🔗 https://www.business-standard.com/markets/news/nifty-bank-nifty-strategy-3-stocks-recommendations-today-by-motilal-oswal-126021100083_1.html
 
-- Rupee gains tracking Asian peers, corporate dollar demand caps rise
-  The rupee strengthened against the dollar tracking gains in Asian currencies. But upside was capped by strong
-  🔗 https://www.business-standard.com/markets/news/rupee-appreciates-tracking-asian-peers-corporate-dollar-demand-caps-gains-126021001527_1.html
+- 'Surprised by market reaction to Kevin Warsh's nomination to the US Fed'
+  The dollar will most likely remain the world's reserve currency, BofA
+  🔗 https://www.business-standard.com/markets/news/surprised-by-market-reaction-to-kevin-warsh-s-nomination-to-the-us-fed-126021000404_1.html
 
-- A first: Gold ETFs knocked equity funds off the flow podium in January
-  Gold, silver ETF inflows hit ₹33
-  🔗 https://www.business-standard.com/markets/news/gold-etf-flows-outpace-equity-funds-first-time-126021001405_1.html
+- Yen perky as Japan fiscal fears dissipate, dollar shaky ahead of payrolls
+  The Japanese yen soared on Wednesday, propelled by a vibrant uptick in Japan's stock market. On the flip side, the US dollar wobbled amid market uncertainty, with traders keeping a close eye on the approaching non-farm payroll
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/yen-perky-as-japan-fiscal-fears-dissipate-dollar-shaky-ahead-of-payrolls/articleshow/128183999.cms
 
-- S&amp;P Global shares slide on weak 2026 forecast, AI concerns
-  S&amp;P Global forecast 2026 profit below Wall Street expectations on Tuesday. Growing investor unease over AI-driven disruption pushing its shares to
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/sp-global-shares-slide-on-weak-2026-forecast-ai-concerns/articleshow/128166876.cms
+- Oil holds steady as US-Iran tensions provide support
+  The backdrop of geopolitical strife continues to lend support to prices. In addition, traders are eager for the upcoming U.S. midterm elections.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-holds-steady-as-us-iran-tensions-provide-support/articleshow/128183946.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-   Markets ended marginally higher on weekly expiry, extending the rally. Analysts remain bullish, advise buy-on-dips, note improving momentum.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/128166603.cms
+- S&amp;P 500, Nasdaq dip with economic data, earnings in focus
+  The Dow Jones celebrated a new peak, yet the S&amp;P 500 and Nasdaq ended on a down note. Attention turns towards forthcoming labor statistics, as heavy tech spending on artificial intelligence weighs on market psychology.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/sp-500-nasdaq-dip-with-economic-data-earnings-in-focus/articleshow/128183803.cms
 
-- Apollo Hospitals reports 35% YoY jump in Q3 profit, revenue grows 17%
-  India’s leading hospital chain Apollo Hospitals reported a 35% increase in third quarter net profit to Rs 502 crore compared to the same period last year. Its EBITDA grew 27% to Rs 965 crore, the company
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/apollo-hospitals-reports-35-yoy-jump-in-q3-profit-revenue-grows-17/articleshow/128166419.cms
+- Market quote of the Day by Warren Buffett: ‘Stock market is designed to transfer money from the active to the patient’
+  Warren Buffett's wisdom emphasizes that long-term investing success hinges on sticking to a strategy. This patient approach allows compounding to work, enabling quality companies to grow.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-warren-buffett-stock-market-is-designed-to-transfer-money-from-the-active-to-the-patient/articleshow/128154455.cms
 
-- IndiQube Q3 profit soars 214% YoY to Rs 40 crore; revenue surge 45% to Rs 395 crore
-  Managed workspace solutions provider IndiQube Spaces Ltd reported a sharp rise in profitability in the December quarter. Profit after tax (PAT) surging 214% year-on
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/indiqube-q3-profit-soars-214-yoy-to-rs-40-crore-revenue-surge-45-to-rs-395-crore/articleshow/128166218.cms
-
-- IIFL Finance plans Rs 2000 crore retail bond sale next week
-  IIFL Finance plans a retail bond issuance of Rs 2,000 crore next week to support its business growth that more than doubled in a year.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/iifl-finance-plans-rs-2000-crore-retail-bond-sale-next-week/articleshow/128166072.cms
+- GIFT Nifty up 90 points; here's the trading setup for today's session
+  Indian equity markets closed Tuesday on a cautious, range-bound note. Profit booking in banking, IT, and healthcare stocks acted as a drag. Analysts anticipate a mildly positive near-term outlook with a
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128183003.cms
 
 - After Trump's "Zero Tariff" Claim, A White House Factsheet On India-US Deal - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SV
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SVhXZmFQaTVjX0pYbkduVElRQ21yT1N4VWV1UWgycnk1U2oyNWIzTDRqSDR4bjNxbDA5LWRtZXVCTnh6dzI0YjJyVnVHV01ZcXNMZHrSAbwBQVVfeXFMTk55UC1sV01UcWdlWEtuOVI0Y0Rqd2EzSlFXSUk1MGdYSmtkSk9JN1Z5N1B4ZE1COFhKNXc1Z3o3WWd4Qy12ZTZIak12X0VmMVB3ZUxBQXpmY1JCOEJXYlBEVl93MkFnQmctMzFZOUFlVjRpZjJQUm12M1l3ZFVGMWRLckUxWnVtOEhaZDM1ZE9KSEp1bEhaWEpZUm41LVc0R2pZYzJsa1E3OGJ3ZnFqS2gwbXhxd25OYXBYdEc?oc=5
 
-- Russia accounts for over 50% plaints by Indian students abroad: MEA - The Times of India
-  Russia accounts for over 50% plaints by Indian students abroad
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPczNmNl91eTBSWEhublp4Z2JNUUJZZGd1eDlfeU4zUkFwVUYxdkMwdFhoWnVOVDdKeFlHQlFfeC1NOEU4aTN6amtEMjZEREJtYUdZbWhDbU9NX2NPQkhmMmV3U2FReGFLUm5NRWE0cnNOMnBNLU5TVG5TeW52TnJUeDgzY01xMU9lWDZqTzVHWkhpSDdZVmMxb0NDeGNrX0xtUGdlX3E0SHl5dkpvS2hLZ2FLb25EUE1WMkpFbVVSU3U5Y05JSVMzOHRMNlFsd9IB0wFBVV95cUxPbklfNFdHeU1yU3FWTmNCY3N6YndwcTduSGt1Wi1XRzNDNmhaNWlIMElpNVJJZ1U4U0lfMlJmYU5sNmNRVjJiYzlvYndOWHZxSkN2VWd0eVlJMmwxWWpvZzdyUHhodDN0MndpMFpUdGZXeXBKUjgwY1NtN2w4U1MxdWMzR1hWaExHUlVyM1dVbVpXT3BsSWVaZ29wOTh5b25WTkN3bm1td3pUUHJlczVfYm5pWDJSdkpDczNNakw1VWo3NF8zTnVLdlYtRy0yblN4ZlF3?oc=5
+- Amid India, Pak World Cup match cliffhanger, Asim Munir makes a guest appearance | India News - Hindustan Times
+  Asim Munir makes guest appearance in India News.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQnF6TEdHLUIxQ3VIeVBDWFhqUDNYQzNuejJEaWthbzZGY0ZqbTZoaFhsWHRlbk4ycER6ampoTXV4UkZQMHpPbDBpOGVmd2RBSklGejRrUDc1azdCUFJ3UDlSamZ2MUh3SnBqQ1NESVc5WGZQZ1RJLVBnczgyRmNIWkZrWUFiY0VYcmZzTlNOcDdreFUtMEFlbnpPNHlIbW1NTjBHY0FLcXoyWEhDQV8weXVadzNGbDAySENVeS1GTGtJN3Vjb1NDS2M2M1hjWEJ4bnY2dEFnOUPSAd4BQVVfeXFMT2lOSTctVDBDaTUxbkN0VnhPQ1ZzODNDMUkzWjNGVHNhOV9LVVFhdzJkZW9XYXJPUHJhZS1HTkdIbnpXbEotWUhpT0QtMEt5RjlhY3hnSHlKaV9QRVNHREg3LUM2MkRwUnZSSzRGT0ZvQk9RUkU3Ulk4bUsyc3V3bzM3d2xjb04tcWdmOFVnZ0xLUXMtemJsSktPQ2dfekczaW9rR0NYa2ViNUU4V2t2ekQycklRV1RmMTBiWi16VlRzR184S2ZNcmw5c2lBMlN2d0Y3SndWUm1rdXBWZ0ZB?oc=5
 
-- Mohammed Deepak gets wave of support across India after news of his gym membership decline goes viral - thehindu.com
-  Mohammed Deepak gets wave of support across India after news of his gym
+- Rahul says no to debate on Budget, wins allies’ praise - The Times of India
+  The Times of India published a front-page story
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPRExVMFNUSENjZi1ibUxSakprMlBfZ0EwM0xuTllmRnhwYU9tS2JRazVsQ0NKSzlOeG94WjlVTVNUQmROTkJSc0pyUnVMNldabDM1T2E1aHhraGVLdnU2cTV6MFZrZkFheXBFeE9HZXN0bERud29YN1BLR1NJX0h3bTlmNklnbGxjZ29NUGZfaDV6VzJkV3QyNHF6RjBKa1RpSVgycjl1ZVRWaDFZZjRBeTBQSzVzVkNzcERtS9IBwgFBVV95cUxOZ0xOc1JSanFadXRqWlVxUGhTOGJwMGVYRHNtNXptMVpjbDJjSjAyWFp4V2J0OUNGXzZ6RktPMnVUUTF6ZURnX3dJRy1WWWxpbHFCUFhPZkI1YkZFaVBhdi1USW9seFB3SG1JZzhKbjR6cW1lTzVWN3F0aUYtQkJteFBpNXZhTmJNZ1JFQlhkcU9HcW9XUXJVYnB4cloxTHhkNDNUc1VPN3RZVy0zNXpqbTEtWUY4cHB2ekQtRUNlQW9WQQ?oc=5
+
+- India signs agreement with UK & Northern Ireland on Social Security relating to Social Security Contributions - News On AIR
+  India signs agreement with UK & Northern Ireland on Social Security relating to Social Security Contributions
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX052YVJCXzNQckpqcXVfRnlpNmppdzR4a00zcm9vU3JjZmNHV3hiblR3UGpPVHVGZExXVDF5RXBlVkdDN2RuaXRCdzJBd0xPb2wwaFZzdHRzYXh3VGFBeWZqanJkZzlkYml6QlM2Umg3OEFrRHpseWJUM09CalVncW1zZEtzNy1Scm9uMzhPVVhqVkhLczdqVkRnSVNORWtMb1plYTk2MUNndG52ZVVmV2lBcHRwbEF1ZlpqRU9nUjdXcEpvZzE4NWcxRzRVam80WnE0?oc=5
+
+- Mohammed Deepak gets wave of support across India after news of his gym membership decline goes viral - The Hindu
+  Mohammed Deepak gets wave of support across India after news of his gym membership
   🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPY1hHb3FTVUs2eFdwSDdEelhRb1ItLVRSMmM3bmtHOElUYzVqQ2xqczJaMmd3UzEtaU9Nd2lyZTJGVDNvbUlfdEgyQ2MxWWNmTUpKZGRSREpkVUt4VzlvamZfdkxpNVBJcE1JUGFzMGx4YjlNRTZBVkcyMXBTdVhyZDlJdlJ3NFA4WDVVRURac3U3M3VaVWx1WTJEdm03bFhKMUFGa2dudFhlQ19nelZRTmxHRnZGYmRQcndpb3hQbnc3amU3NnVybk1RUC1taXM2S1I0ajdBTFJvTnZHYnZaZ1BuQlFha2x2SXVJOEctU21Db2RaaEV6cEluaGFsODJwREHSAYgCQVVfeXFMTzh1OEZFbF9yQmdSQmtOU2ROMDFua2lMVTdRb2ZfOWRQVFpiRThTM3d5aXdkWVRNTS1uVmlhZzRnMmtEZmFGZkxMRFlHSHUtUHl2Q2JQWEliZkdubWd3Y1Y5RGpaeXc4ZnVzZFA4aDROYWc3QmZiQ2dJeGk5YVk5SDVSNWJiV2xlNjc0UHZiMnlFUmdvbEJQTjByTnJNUHpobXFkUnJzRHh5b2FaSzlMNWVSUzBjNU0taHhYVk1xQVhaUHpDN05FQ2I3UnBiVi1vQTBaQnZuZkRmU202bWpTaXBoeUN5ZTVNNjRna3NtdW5DVzNFdDk4LXk4aGhtVV9iVTJLUWdldFJD?oc=5
-
-- China Joins India's AI Impact Summit, Signalling Thaw In Tech Diplomacy - NDTV
-  China Joins India's AI Impact Summit,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXVQV3N6ZDhkMHlwZThfaWxGT3ppYlNFdXJXNENiWVg2TEF5bHpULTU1NkhBQ1dWeENyU3FkTlV6TjlfalhMOEdWYWMxZXZIamZOQ3ZGbkdoT1kzQWpzTjhqOUp3VDJwM0VLRllJWGVydTdhUDc4UjMxXzZQcm5VUXc2TTR5d1JlYnhzVzBfcWlieU9MZERacDBNMmE4bkoxQ19pekJHejlRdElxWkxn0gG3AUFVX3lxTFBxWVpLdW9zc1RxVWRrMC1STkJySGVkSmE1UC0wY2JQaVRmSTZaQ3RRZ3FGZEp1U2NZYjFfczFpZ0RDV0tXTGc3bktlZGNHV2hXUkllbXhoZGdHZlpEekMxMXUwd25mbUlDczBZb2tnMGpoRUQ3SEFzak52a3N3bVhiZFk1UEw0ZGN3VU1wcFdVNXdzd3FPUFc3SFZHb2dSZ1VjQVZuY1NzTU5vQ3BWOFpJdWJGREFIUQ?oc=5
-
-- India-US trade pact best realistic deal, Parliamentary panel told - The Economic Times
-  India-US trade pact best realistic deal,
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEFOSUsta05mckxLWWpCaXBFblRGNUJZaU5xRWtGMlBKcmd6U2MzX0R5d3hseVdDT2YwS05XTm9jaWxyaGlpdHdlSldFUzZiUy1OTUtzZlRHcTY0YWhjSm5IY3h5cmp6cG5tblMwb3Y4LTYzazE5LUo3SVpUcm5peDJiUXc1dnFZU2hJSFQtdHJ3U0paMVRGRVQ4WWY4VHczUWJKSDZwNVk1TXVWV1pfYkxxTFVGeHV3ZUlyTFpFeFpPRm5tNTE0dNIBzgFBVV95cUxOREJHLWpSN0dtZnFwdUdDUjJ3X3RHajBzaVpRckJUempPdHF3M1RubUx5ZjV2aU5nSmh4NWtWTV9iOFhzcDNmTWI5N1ZDU1RDbEljeDVyUk9NX1VhbGI0Q1NodkFjZXN1N3hXLWlOLWtFYTJsLUw5bk9XUER3SVFSb0tKNWdZQTZXMXpsTi1YMDBBYl9rVkFOY0x1NUJGOThsOGxBS0llZ0ZZT0lnTWw3ZU10bmhwcl85eWlIdXRWaUhwOWI1ZmkzbFJkd3B6QQ?oc=5
 
 - After Trump's "Zero Tariff" Claim, A White House Factsheet On India-US Deal - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SV
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SVhXZmFQaTVjX0pYbkduVElRQ21yT1N4VWV1UWgycnk1U2oyNWIzTDRqSDR4bjNxbDA5LWRtZXVCTnh6dzI0YjJyVnVHV01ZcXNMZHrSAbwBQVVfeXFMTk55UC1sV01UcWdlWEtuOVI0Y0Rqd2EzSlFXSUk1MGdYSmtkSk9JN1Z5N1B4ZE1COFhKNXc1Z3o3WWd4Qy12ZTZIak12X0VmMVB3ZUxBQXpmY1JCOEJXYlBEVl93MkFnQmctMzFZOUFlVjRpZjJQUm12M1l3ZFVGMWRLckUxWnVtOEhaZDM1ZE9KSEp1bEhaWEpZUm41LVc0R2pZYzJsa1E3OGJ3ZnFqS2gwbXhxd25OYXBYdEc?oc=5
 
-- Russia accounts for over 50% plaints by Indian students abroad: MEA - The Times of India
-  Russia accounts for over 50% plaints by Indian students abroad
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPczNmNl91eTBSWEhublp4Z2JNUUJZZGd1eDlfeU4zUkFwVUYxdkMwdFhoWnVOVDdKeFlHQlFfeC1NOEU4aTN6amtEMjZEREJtYUdZbWhDbU9NX2NPQkhmMmV3U2FReGFLUm5NRWE0cnNOMnBNLU5TVG5TeW52TnJUeDgzY01xMU9lWDZqTzVHWkhpSDdZVmMxb0NDeGNrX0xtUGdlX3E0SHl5dkpvS2hLZ2FLb25EUE1WMkpFbVVSU3U5Y05JSVMzOHRMNlFsd9IB0wFBVV95cUxPbklfNFdHeU1yU3FWTmNCY3N6YndwcTduSGt1Wi1XRzNDNmhaNWlIMElpNVJJZ1U4U0lfMlJmYU5sNmNRVjJiYzlvYndOWHZxSkN2VWd0eVlJMmwxWWpvZzdyUHhodDN0MndpMFpUdGZXeXBKUjgwY1NtN2w4U1MxdWMzR1hWaExHUlVyM1dVbVpXT3BsSWVaZ29wOTh5b25WTkN3bm1td3pUUHJlczVfYm5pWDJSdkpDczNNakw1VWo3NF8zTnVLdlYtRy0yblN4ZlF3?oc=5
+- Amid India, Pak World Cup match cliffhanger, Asim Munir makes a guest appearance | India News - Hindustan Times
+  Asim Munir makes guest appearance in India News.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQnF6TEdHLUIxQ3VIeVBDWFhqUDNYQzNuejJEaWthbzZGY0ZqbTZoaFhsWHRlbk4ycER6ampoTXV4UkZQMHpPbDBpOGVmd2RBSklGejRrUDc1azdCUFJ3UDlSamZ2MUh3SnBqQ1NESVc5WGZQZ1RJLVBnczgyRmNIWkZrWUFiY0VYcmZzTlNOcDdreFUtMEFlbnpPNHlIbW1NTjBHY0FLcXoyWEhDQV8weXVadzNGbDAySENVeS1GTGtJN3Vjb1NDS2M2M1hjWEJ4bnY2dEFnOUPSAd4BQVVfeXFMT2lOSTctVDBDaTUxbkN0VnhPQ1ZzODNDMUkzWjNGVHNhOV9LVVFhdzJkZW9XYXJPUHJhZS1HTkdIbnpXbEotWUhpT0QtMEt5RjlhY3hnSHlKaV9QRVNHREg3LUM2MkRwUnZSSzRGT0ZvQk9RUkU3Ulk4bUsyc3V3bzM3d2xjb04tcWdmOFVnZ0xLUXMtemJsSktPQ2dfekczaW9rR0NYa2ViNUU4V2t2ekQycklRV1RmMTBiWi16VlRzR184S2ZNcmw5c2lBMlN2d0Y3SndWUm1rdXBWZ0ZB?oc=5
 
-- Mohammed Deepak gets wave of support across India after news of his gym membership decline goes viral - thehindu.com
-  Mohammed Deepak gets wave of support across India after news of his gym
+- Rahul says no to debate on Budget, wins allies’ praise - The Times of India
+  The Times of India published a front-page story
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPRExVMFNUSENjZi1ibUxSakprMlBfZ0EwM0xuTllmRnhwYU9tS2JRazVsQ0NKSzlOeG94WjlVTVNUQmROTkJSc0pyUnVMNldabDM1T2E1aHhraGVLdnU2cTV6MFZrZkFheXBFeE9HZXN0bERud29YN1BLR1NJX0h3bTlmNklnbGxjZ29NUGZfaDV6VzJkV3QyNHF6RjBKa1RpSVgycjl1ZVRWaDFZZjRBeTBQSzVzVkNzcERtS9IBwgFBVV95cUxOZ0xOc1JSanFadXRqWlVxUGhTOGJwMGVYRHNtNXptMVpjbDJjSjAyWFp4V2J0OUNGXzZ6RktPMnVUUTF6ZURnX3dJRy1WWWxpbHFCUFhPZkI1YkZFaVBhdi1USW9seFB3SG1JZzhKbjR6cW1lTzVWN3F0aUYtQkJteFBpNXZhTmJNZ1JFQlhkcU9HcW9XUXJVYnB4cloxTHhkNDNUc1VPN3RZVy0zNXpqbTEtWUY4cHB2ekQtRUNlQW9WQQ?oc=5
+
+- India signs agreement with UK & Northern Ireland on Social Security relating to Social Security Contributions - News On AIR
+  India signs agreement with UK & Northern Ireland on Social Security relating to Social Security Contributions
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX052YVJCXzNQckpqcXVfRnlpNmppdzR4a00zcm9vU3JjZmNHV3hiblR3UGpPVHVGZExXVDF5RXBlVkdDN2RuaXRCdzJBd0xPb2wwaFZzdHRzYXh3VGFBeWZqanJkZzlkYml6QlM2Umg3OEFrRHpseWJUM09CalVncW1zZEtzNy1Scm9uMzhPVVhqVkhLczdqVkRnSVNORWtMb1plYTk2MUNndG52ZVVmV2lBcHRwbEF1ZlpqRU9nUjdXcEpvZzE4NWcxRzRVam80WnE0?oc=5
+
+- Mohammed Deepak gets wave of support across India after news of his gym membership decline goes viral - The Hindu
+  Mohammed Deepak gets wave of support across India after news of his gym membership
   🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPY1hHb3FTVUs2eFdwSDdEelhRb1ItLVRSMmM3bmtHOElUYzVqQ2xqczJaMmd3UzEtaU9Nd2lyZTJGVDNvbUlfdEgyQ2MxWWNmTUpKZGRSREpkVUt4VzlvamZfdkxpNVBJcE1JUGFzMGx4YjlNRTZBVkcyMXBTdVhyZDlJdlJ3NFA4WDVVRURac3U3M3VaVWx1WTJEdm03bFhKMUFGa2dudFhlQ19nelZRTmxHRnZGYmRQcndpb3hQbnc3amU3NnVybk1RUC1taXM2S1I0ajdBTFJvTnZHYnZaZ1BuQlFha2x2SXVJOEctU21Db2RaaEV6cEluaGFsODJwREHSAYgCQVVfeXFMTzh1OEZFbF9yQmdSQmtOU2ROMDFua2lMVTdRb2ZfOWRQVFpiRThTM3d5aXdkWVRNTS1uVmlhZzRnMmtEZmFGZkxMRFlHSHUtUHl2Q2JQWEliZkdubWd3Y1Y5RGpaeXc4ZnVzZFA4aDROYWc3QmZiQ2dJeGk5YVk5SDVSNWJiV2xlNjc0UHZiMnlFUmdvbEJQTjByTnJNUHpobXFkUnJzRHh5b2FaSzlMNWVSUzBjNU0taHhYVk1xQVhaUHpDN05FQ2I3UnBiVi1vQTBaQnZuZkRmU202bWpTaXBoeUN5ZTVNNjRna3NtdW5DVzNFdDk4LXk4aGhtVV9iVTJLUWdldFJD?oc=5
 
-- China Joins India's AI Impact Summit, Signalling Thaw In Tech Diplomacy - NDTV
-  China Joins India's AI Impact Summit,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXVQV3N6ZDhkMHlwZThfaWxGT3ppYlNFdXJXNENiWVg2TEF5bHpULTU1NkhBQ1dWeENyU3FkTlV6TjlfalhMOEdWYWMxZXZIamZOQ3ZGbkdoT1kzQWpzTjhqOUp3VDJwM0VLRllJWGVydTdhUDc4UjMxXzZQcm5VUXc2TTR5d1JlYnhzVzBfcWlieU9MZERacDBNMmE4bkoxQ19pekJHejlRdElxWkxn0gG3AUFVX3lxTFBxWVpLdW9zc1RxVWRrMC1STkJySGVkSmE1UC0wY2JQaVRmSTZaQ3RRZ3FGZEp1U2NZYjFfczFpZ0RDV0tXTGc3bktlZGNHV2hXUkllbXhoZGdHZlpEekMxMXUwd25mbUlDczBZb2tnMGpoRUQ3SEFzak52a3N3bVhiZFk1UEw0ZGN3VU1wcFdVNXdzd3FPUFc3SFZHb2dSZ1VjQVZuY1NzTU5vQ3BWOFpJdWJGREFIUQ?oc=5
 
-- India-US trade pact best realistic deal, Parliamentary panel told - The Economic Times
-  India-US trade pact best realistic deal,
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEFOSUsta05mckxLWWpCaXBFblRGNUJZaU5xRWtGMlBKcmd6U2MzX0R5d3hseVdDT2YwS05XTm9jaWxyaGlpdHdlSldFUzZiUy1OTUtzZlRHcTY0YWhjSm5IY3h5cmp6cG5tblMwb3Y4LTYzazE5LUo3SVpUcm5peDJiUXc1dnFZU2hJSFQtdHJ3U0paMVRGRVQ4WWY4VHczUWJKSDZwNVk1TXVWV1pfYkxxTFVGeHV3ZUlyTFpFeFpPRm5tNTE0dNIBzgFBVV95cUxOREJHLWpSN0dtZnFwdUdDUjJ3X3RHajBzaVpRckJUempPdHF3M1RubUx5ZjV2aU5nSmh4NWtWTV9iOFhzcDNmTWI5N1ZDU1RDbEljeDVyUk9NX1VhbGI0Q1NodkFjZXN1N3hXLWlOLWtFYTJsLUw5bk9XUER3SVFSb0tKNWdZQTZXMXpsTi1YMDBBYl9rVkFOY0x1NUJGOThsOGxBS0llZ0ZZT0lnTWw3ZU10bmhwcl85eWlIdXRWaUhwOWI1ZmkzbFJkd3B6QQ?oc=5
-
-- After Trump's "Zero Tariff" Claim, A White House Factsheet On India-US Deal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SV
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SVhXZmFQaTVjX0pYbkduVElRQ21yT1N4VWV1UWgycnk1U2oyNWIzTDRqSDR4bjNxbDA5LWRtZXVCTnh6dzI0YjJyVnVHV01ZcXNMZHrSAbwBQVVfeXFMTk55UC1sV01UcWdlWEtuOVI0Y0Rqd2EzSlFXSUk1MGdYSmtkSk9JN1Z5N1B4ZE1COFhKNXc1Z3o3WWd4Qy12ZTZIak12X0VmMVB3ZUxBQXpmY1JCOEJXYlBEVl93MkFnQmctMzFZOUFlVjRpZjJQUm12M1l3ZFVGMWRLckUxWnVtOEhaZDM1ZE9KSEp1bEhaWEpZUm41LVc0R2pZYzJsa1E3OGJ3ZnFqS2gwbXhxd25OYXBYdEc?oc=5
-
-- Russia accounts for over 50% plaints by Indian students abroad: MEA - The Times of India
-  Russia accounts for over 50% plaints by Indian students abroad
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPczNmNl91eTBSWEhublp4Z2JNUUJZZGd1eDlfeU4zUkFwVUYxdkMwdFhoWnVOVDdKeFlHQlFfeC1NOEU4aTN6amtEMjZEREJtYUdZbWhDbU9NX2NPQkhmMmV3U2FReGFLUm5NRWE0cnNOMnBNLU5TVG5TeW52TnJUeDgzY01xMU9lWDZqTzVHWkhpSDdZVmMxb0NDeGNrX0xtUGdlX3E0SHl5dkpvS2hLZ2FLb25EUE1WMkpFbVVSU3U5Y05JSVMzOHRMNlFsd9IB0wFBVV95cUxPbklfNFdHeU1yU3FWTmNCY3N6YndwcTduSGt1Wi1XRzNDNmhaNWlIMElpNVJJZ1U4U0lfMlJmYU5sNmNRVjJiYzlvYndOWHZxSkN2VWd0eVlJMmwxWWpvZzdyUHhodDN0MndpMFpUdGZXeXBKUjgwY1NtN2w4U1MxdWMzR1hWaExHUlVyM1dVbVpXT3BsSWVaZ29wOTh5b25WTkN3bm1td3pUUHJlczVfYm5pWDJSdkpDczNNakw1VWo3NF8zTnVLdlYtRy0yblN4ZlF3?oc=5
-
-- Mohammed Deepak gets wave of support across India after news of his gym membership decline goes viral - thehindu.com
-  Mohammed Deepak gets wave of support across India after news of his gym
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPY1hHb3FTVUs2eFdwSDdEelhRb1ItLVRSMmM3bmtHOElUYzVqQ2xqczJaMmd3UzEtaU9Nd2lyZTJGVDNvbUlfdEgyQ2MxWWNmTUpKZGRSREpkVUt4VzlvamZfdkxpNVBJcE1JUGFzMGx4YjlNRTZBVkcyMXBTdVhyZDlJdlJ3NFA4WDVVRURac3U3M3VaVWx1WTJEdm03bFhKMUFGa2dudFhlQ19nelZRTmxHRnZGYmRQcndpb3hQbnc3amU3NnVybk1RUC1taXM2S1I0ajdBTFJvTnZHYnZaZ1BuQlFha2x2SXVJOEctU21Db2RaaEV6cEluaGFsODJwREHSAYgCQVVfeXFMTzh1OEZFbF9yQmdSQmtOU2ROMDFua2lMVTdRb2ZfOWRQVFpiRThTM3d5aXdkWVRNTS1uVmlhZzRnMmtEZmFGZkxMRFlHSHUtUHl2Q2JQWEliZkdubWd3Y1Y5RGpaeXc4ZnVzZFA4aDROYWc3QmZiQ2dJeGk5YVk5SDVSNWJiV2xlNjc0UHZiMnlFUmdvbEJQTjByTnJNUHpobXFkUnJzRHh5b2FaSzlMNWVSUzBjNU0taHhYVk1xQVhaUHpDN05FQ2I3UnBiVi1vQTBaQnZuZkRmU202bWpTaXBoeUN5ZTVNNjRna3NtdW5DVzNFdDk4LXk4aGhtVV9iVTJLUWdldFJD?oc=5
-
-- China Joins India's AI Impact Summit, Signalling Thaw In Tech Diplomacy - NDTV
-  China Joins India's AI Impact Summit,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXVQV3N6ZDhkMHlwZThfaWxGT3ppYlNFdXJXNENiWVg2TEF5bHpULTU1NkhBQ1dWeENyU3FkTlV6TjlfalhMOEdWYWMxZXZIamZOQ3ZGbkdoT1kzQWpzTjhqOUp3VDJwM0VLRllJWGVydTdhUDc4UjMxXzZQcm5VUXc2TTR5d1JlYnhzVzBfcWlieU9MZERacDBNMmE4bkoxQ19pekJHejlRdElxWkxn0gG3AUFVX3lxTFBxWVpLdW9zc1RxVWRrMC1STkJySGVkSmE1UC0wY2JQaVRmSTZaQ3RRZ3FGZEp1U2NZYjFfczFpZ0RDV0tXTGc3bktlZGNHV2hXUkllbXhoZGdHZlpEekMxMXUwd25mbUlDczBZb2tnMGpoRUQ3SEFzak52a3N3bVhiZFk1UEw0ZGN3VU1wcFdVNXdzd3FPUFc3SFZHb2dSZ1VjQVZuY1NzTU5vQ3BWOFpJdWJGREFIUQ?oc=5
-
-- India-US trade pact best realistic deal, Parliamentary panel told - The Economic Times
-  India-US trade pact best realistic deal,
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEFOSUsta05mckxLWWpCaXBFblRGNUJZaU5xRWtGMlBKcmd6U2MzX0R5d3hseVdDT2YwS05XTm9jaWxyaGlpdHdlSldFUzZiUy1OTUtzZlRHcTY0YWhjSm5IY3h5cmp6cG5tblMwb3Y4LTYzazE5LUo3SVpUcm5peDJiUXc1dnFZU2hJSFQtdHJ3U0paMVRGRVQ4WWY4VHczUWJKSDZwNVk1TXVWV1pfYkxxTFVGeHV3ZUlyTFpFeFpPRm5tNTE0dNIBzgFBVV95cUxOREJHLWpSN0dtZnFwdUdDUjJ3X3RHajBzaVpRckJUempPdHF3M1RubUx5ZjV2aU5nSmh4NWtWTV9iOFhzcDNmTWI5N1ZDU1RDbEljeDVyUk9NX1VhbGI0Q1NodkFjZXN1N3hXLWlOLWtFYTJsLUw5bk9XUER3SVFSb0tKNWdZQTZXMXpsTi1YMDBBYl9rVkFOY0x1NUJGOThsOGxBS0llZ0ZZT0lnTWw3ZU10bmhwcl85eWlIdXRWaUhwOWI1ZmkzbFJkd3B6QQ?oc=5
-
-- After Trump's "Zero Tariff" Claim, A White House Factsheet On India-US Deal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SV
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVhmUWtrX0d0WHoxM1Fwa1Y4RkdsOHZaLVZFZDhXQzFhRkdZVzRUbHlUVThtY1dsMjFQMmpQMVFvNXNudHBHamtQeEJ5RmdaVjBnbUdESWk5SGt6alhaYk12SnhYY0x0SVhXZmFQaTVjX0pYbkduVElRQ21yT1N4VWV1UWgycnk1U2oyNWIzTDRqSDR4bjNxbDA5LWRtZXVCTnh6dzI0YjJyVnVHV01ZcXNMZHrSAbwBQVVfeXFMTk55UC1sV01UcWdlWEtuOVI0Y0Rqd2EzSlFXSUk1MGdYSmtkSk9JN1Z5N1B4ZE1COFhKNXc1Z3o3WWd4Qy12ZTZIak12X0VmMVB3ZUxBQXpmY1JCOEJXYlBEVl93MkFnQmctMzFZOUFlVjRpZjJQUm12M1l3ZFVGMWRLckUxWnVtOEhaZDM1ZE9KSEp1bEhaWEpZUm41LVc0R2pZYzJsa1E3OGJ3ZnFqS2gwbXhxd25OYXBYdEc?oc=5
-
-- Russia accounts for over 50% plaints by Indian students abroad: MEA - The Times of India
-  Russia accounts for over 50% plaints by Indian students abroad
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPczNmNl91eTBSWEhublp4Z2JNUUJZZGd1eDlfeU4zUkFwVUYxdkMwdFhoWnVOVDdKeFlHQlFfeC1NOEU4aTN6amtEMjZEREJtYUdZbWhDbU9NX2NPQkhmMmV3U2FReGFLUm5NRWE0cnNOMnBNLU5TVG5TeW52TnJUeDgzY01xMU9lWDZqTzVHWkhpSDdZVmMxb0NDeGNrX0xtUGdlX3E0SHl5dkpvS2hLZ2FLb25EUE1WMkpFbVVSU3U5Y05JSVMzOHRMNlFsd9IB0wFBVV95cUxPbklfNFdHeU1yU3FWTmNCY3N6YndwcTduSGt1Wi1XRzNDNmhaNWlIMElpNVJJZ1U4U0lfMlJmYU5sNmNRVjJiYzlvYndOWHZxSkN2VWd0eVlJMmwxWWpvZzdyUHhodDN0MndpMFpUdGZXeXBKUjgwY1NtN2w4U1MxdWMzR1hWaExHUlVyM1dVbVpXT3BsSWVaZ29wOTh5b25WTkN3bm1td3pUUHJlczVfYm5pWDJSdkpDczNNakw1VWo3NF8zTnVLdlYtRy0yblN4ZlF3?oc=5
-
-- Mohammed Deepak gets wave of support across India after news of his gym membership decline goes viral - thehindu.com
-  Mohammed Deepak gets wave of support across India after news of his gym
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPY1hHb3FTVUs2eFdwSDdEelhRb1ItLVRSMmM3bmtHOElUYzVqQ2xqczJaMmd3UzEtaU9Nd2lyZTJGVDNvbUlfdEgyQ2MxWWNmTUpKZGRSREpkVUt4VzlvamZfdkxpNVBJcE1JUGFzMGx4YjlNRTZBVkcyMXBTdVhyZDlJdlJ3NFA4WDVVRURac3U3M3VaVWx1WTJEdm03bFhKMUFGa2dudFhlQ19nelZRTmxHRnZGYmRQcndpb3hQbnc3amU3NnVybk1RUC1taXM2S1I0ajdBTFJvTnZHYnZaZ1BuQlFha2x2SXVJOEctU21Db2RaaEV6cEluaGFsODJwREHSAYgCQVVfeXFMTzh1OEZFbF9yQmdSQmtOU2ROMDFua2lMVTdRb2ZfOWRQVFpiRThTM3d5aXdkWVRNTS1uVmlhZzRnMmtEZmFGZkxMRFlHSHUtUHl2Q2JQWEliZkdubWd3Y1Y5RGpaeXc4ZnVzZFA4aDROYWc3QmZiQ2dJeGk5YVk5SDVSNWJiV2xlNjc0UHZiMnlFUmdvbEJQTjByTnJNUHpobXFkUnJzRHh5b2FaSzlMNWVSUzBjNU0taHhYVk1xQVhaUHpDN05FQ2I3UnBiVi1vQTBaQnZuZkRmU202bWpTaXBoeUN5ZTVNNjRna3NtdW5DVzNFdDk4LXk4aGhtVV9iVTJLUWdldFJD?oc=5
-
-- China Joins India's AI Impact Summit, Signalling Thaw In Tech Diplomacy - NDTV
-  China Joins India's AI Impact Summit,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXVQV3N6ZDhkMHlwZThfaWxGT3ppYlNFdXJXNENiWVg2TEF5bHpULTU1NkhBQ1dWeENyU3FkTlV6TjlfalhMOEdWYWMxZXZIamZOQ3ZGbkdoT1kzQWpzTjhqOUp3VDJwM0VLRllJWGVydTdhUDc4UjMxXzZQcm5VUXc2TTR5d1JlYnhzVzBfcWlieU9MZERacDBNMmE4bkoxQ19pekJHejlRdElxWkxn0gG3AUFVX3lxTFBxWVpLdW9zc1RxVWRrMC1STkJySGVkSmE1UC0wY2JQaVRmSTZaQ3RRZ3FGZEp1U2NZYjFfczFpZ0RDV0tXTGc3bktlZGNHV2hXUkllbXhoZGdHZlpEekMxMXUwd25mbUlDczBZb2tnMGpoRUQ3SEFzak52a3N3bVhiZFk1UEw0ZGN3VU1wcFdVNXdzd3FPUFc3SFZHb2dSZ1VjQVZuY1NzTU5vQ3BWOFpJdWJGREFIUQ?oc=5
-
-- India-US trade pact best realistic deal, Parliamentary panel told - The Economic Times
-  India-US trade pact best realistic deal,
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEFOSUsta05mckxLWWpCaXBFblRGNUJZaU5xRWtGMlBKcmd6U2MzX0R5d3hseVdDT2YwS05XTm9jaWxyaGlpdHdlSldFUzZiUy1OTUtzZlRHcTY0YWhjSm5IY3h5cmp6cG5tblMwb3Y4LTYzazE5LUo3SVpUcm5peDJiUXc1dnFZU2hJSFQtdHJ3U0paMVRGRVQ4WWY4VHczUWJKSDZwNVk1TXVWV1pfYkxxTFVGeHV3ZUlyTFpFeFpPRm5tNTE0dNIBzgFBVV95cUxOREJHLWpSN0dtZnFwdUdDUjJ3X3RHajBzaVpRckJUempPdHF3M1RubUx5ZjV2aU5nSmh4NWtWTV9iOFhzcDNmTWI5N1ZDU1RDbEljeDVyUk9NX1VhbGI0Q1NodkFjZXN1N3hXLWlOLWtFYTJsLUw5bk9XUER3SVFSb0tKNWdZQTZXMXpsTi1YMDBBYl9rVkFOY0x1NUJGOThsOGxBS0llZ0ZZT0lnTWw3ZU10bmhwcl85eWlIdXRWaUhwOWI1ZmkzbFJkd3B6QQ?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
-
-
-_Last updated: 2026-02-10 19:04:08 UTC_
+_Last updated: 2026-02-11 01:58:34 UTC_
