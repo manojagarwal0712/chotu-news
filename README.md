@@ -1,252 +1,264 @@
 # 📰 Daily News Summaries
 
-- ‘I want to clarify’: Hardeep Puri fires back after Rahul Gandhi’s Epstein files charge in Lok Sabha
+- ‘Let us consider the last two years a nightmare’: New Manipur CM visits relief camp in Jiribam district
   
-  🔗 https://indianexpress.com/article/india/hardeep-puri-epstein-allegations-rahul-gandhi-lok-sabha-10526721/
+  🔗 https://indianexpress.com/article/india/last-two-years-a-nightmare-manipur-cm-visits-relief-camp-in-jiribam-district-10527316/
 
-- Allow Indians to ‘fire a neta’: Raghav Chadha demands ‘Right to Recall’ law
+- ‘Bijli, sadak, paani’: Key takeaways from Rajasthan’s Rs 6 lakh crore budget
   
-  🔗 https://indianexpress.com/article/india/raghav-chadha-right-to-recall-aap-mp-parliament-budget-voters-10526736/
+  🔗 https://indianexpress.com/article/india/key-takeaways-from-rajasthan-rs-6-lakh-crore-budget-10527249/
 
-- News Today Live Updates, 11 February | Saudi Arabia lifts 73-year alcohol ban, opens sales to select foreign residents
+- A family feud, a court plea and a daylight shooting: The chilling murder of Dehradun businessman
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-02-11-2026-news-headlines-10525592/
+  🔗 https://indianexpress.com/article/india/family-feud-court-plea-daylight-shooting-chilling-murder-dehradun-businessman-10527231/
 
-- Suvendu Adhikari convoy attack: Supreme Court asks Calcutta HC to decide if NIA invoking UAPA is justified
+- 28 years after nod, Kerala’s Sabari Rail project gains momentum as state govt begins land acquisition process
   
-  🔗 https://indianexpress.com/article/india/suvendu-adhikari-convoy-attack-supreme-court-calcutta-hc-nia-uapa-10526751/
+  🔗 https://indianexpress.com/article/india/28-years-nod-kerala-sabari-rail-project-momentum-state-govt-land-acquisition-10527181/
 
-- Railway Board revises quota rules: Emergency Quota added in Vande Bharat Sleeper, Amrit Bharat-II trains
+- Red-faced over shooting video, Assam BJP now claims post was ‘unauthorised’, sacks social media man
   
-  🔗 https://indianexpress.com/article/india/railway-board-revises-emergency-quota-rules-added-in-vande-bharat-sleeper-amrit-bharat-ii-trains-10526205/
+  🔗 https://indianexpress.com/article/india/red-faced-shooting-video-assam-bjp-post-unauthorised-sacks-social-media-man-10527084/
+
+- Ultra-thin kagome metal films could power next-generation electronics
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ultra-thin-kagome-metal-films-could-power-next-generation-electronics-10527112/
+
+- How did supermassive black holes become such monsters? New study shows it may have been ‘feeding frenzy’
+  
+  🔗 https://indianexpress.com/article/technology/science/supermassive-black-holes-light-seeds-research-10527024/
+
+- Samsung Galaxy S26 series launch on Feb 25: Design changes, specs and pre-order details
+  
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-s26-ultra-launch-date-pre-order-india-benefits-10526845/
+
+- ‘Ethics precedes regulation’: Hugging Face’s Margaret Mitchell on why tech needs AI ethicists now
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ethics-precedes-regulation-hugging-faces-margaret-mitchell-10526945/
 
 - Nasa’s Perseverance rover drives on Mars using AI-planned routes
   
   🔗 https://indianexpress.com/article/technology/science/nasas-perseverance-rover-drives-on-mars-using-ai-planned-routes-10526908/
 
-- Facebook launches AI tools to animate profile photos and restyle posts
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/facebook-launches-ai-tools-to-animate-profile-photos-and-restyle-posts-10526775/
+- Federal Reserve to Drop Some Prior Demands on Banks to Fix Flaws
+  The Federal Reserve has signaled to lenders it plans to abandon some of the confidential warnings it previously sent them to improve operations. Vice Chair Michelle Bowman continues to relax the central bank
+  🔗 https://www.livemint.com/companies/federal-reserve-to-drop-some-prior-demands-on-banks-to-fix-flaws-11770835579308.html
 
-- Google makes it easier to report non-consensual images as India tightens online rules
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-easier-to-report-non-consensual-explicit-images-10526710/
+- Buoyed by profit surge, Lenskart to go big on AI investments
+  Lenskart said the December quarter reflected strong momentum in the vision correction category.
+  🔗 https://www.livemint.com/companies/lenskart-ai-technology-investments-propel-profit-surge-premiumization-strategy-11770817011271.html
 
-- Nothing Phone (3) gets Essential Apps Builder, an AI tool that builds custom widgets with a single prompt
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nothing-phone-3-essential-apps-builder-beta-available-10526392/
+- M&amp;M Q3 revenue inches past  ₹50,000 crore as all businesses fire
+  M&amp;amp;M plans a European SUV push and a revival of tractor
+  🔗 https://www.livemint.com/companies/mm-q3-revenue-inches-past-50-000-crore-as-all-businesses-fire-11770816358785.html
 
-- Airtel’s new AI tool against OTP frauds alerts users when bank messages are delivered during phone calls
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/airtels-new-ai-tool-against-otp-frauds-alerts-users-when-bank-messages-are-delivered-during-phone-calls-10526348/
+- Binance founder Changpeng Zhao says he sold his Shanghai home to buy Bitcoin at $600 while job hunting
+  Changpeng Zhao sold his apartment to buy Bitcoin early in his career. He later founded the crypto platform
+  🔗 https://www.livemint.com/companies/people/binance-founder-changpeng-zhao-says-he-sold-his-shanghai-home-to-buy-bitcoin-at-600-while-job-hunting-11770819390340.html
 
-- OneSource Pharma-Hikma get regulatory approval to sell generic Ozempic in Saudi Arabia
-  The approval from the Saudi Food and Drug Authority allows the company to enter Saudi Arabia. Saudi Arabia is one of the
-  🔗 https://www.livemint.com/companies/onesource-hikma-approval-generics-ozempic-semaglutide-saudi-arabia-patents-novo-nordisk-11770809378529.html
+- Kraft Heinz shelves split plans after missing growth expectations, CEO Cahillane says challenges ‘within our control’
+  Kraft Heinz paused its split plans, sending shares down 6%. CEO Cahillane plans to enhance profitability through a $600 million investment in marketing and R
+  🔗 https://www.livemint.com/companies/news/kraft-heinz-shelves-split-plans-after-missing-growth-expectations-ceo-cahillane-says-challenges-within-our-control-11770821172144.html
 
-- Velumani’s second coming: Why the Thyrocare founder wants a bite of the crowded dental market
-  A. Velumani, the man who built Thyrocare into one of India's most efficient diagnostic chains and exited at close to a billion-dollar valuation, is back in founder mode. This time he wants
-  🔗 https://www.livemint.com/companies/a-velumani-avm-smiles-dental-disruption-11770808920692.html
+- European Stocks Inch Higher as Siemens Energy Hits All-Time Peak
+  Software firm Dassault Systemes SE tumbled 20% as its outlook disappointed. Siemens Energy AG and
+  🔗 https://www.livemint.com/market/european-stocks-inch-higher-as-siemens-energy-hits-all-time-peak-11770834713780.html
 
-- Ford says tariffs put $900 million dent in earnings: How Trump govt's last-minute rule change hit automaker
-  US automaker Ford said that it took a $900 million tariff hit last year due to
-  🔗 https://www.livemint.com/companies/news/ford-us-automaker-trump-tariffs-ev-plans-quarterly-earnings-11770808553722.html
+- European Stocks Gain as Siemens Energy Hits Record on Earnings
+  Software firm Dassault Systemes SE tumbled 20% as its outlook disappointed.
+  🔗 https://www.livemint.com/market/european-stocks-gain-as-siemens-energy-hits-record-on-earnings-11770834713276.html
 
-- ‘Stakes are high…’: Google offers exit packages to certain employees — Here's what report says
-  This comes amid the company's plans to move towards a stronger position as part of its long-term strategy and AI push. Here's what you need to know.
-  🔗 https://www.livemint.com/companies/news/stakes-are-high-google-offers-exit-packages-to-certain-employees-heres-what-report-says-11770806372630.html
+- Bond yield spike won’t shake PSU banks' fundamentals; core growth remains key, says Anil Rego of Right Horizons PMS
+   PSU banks are better positioned to handle volatility due to stronger balance sheets and credit growth. Higher-than-expected government borrowing may keep bond yields firm.
+  🔗 https://www.livemint.com/market/stock-market-news/bond-yield-spike-won-t-shake-psu-banks-fundamentals-core-growth-remains-key-says-anil-rego-of-right-horizons-pms-11770823683627.html
 
-- UBS expands presence in India with new GCC in Hyderabad, to hire 3,000 professionals in two years
-  UBS opens new GCC in Hyderabad
-  🔗 https://www.livemint.com/companies/news/ubs-expands-presence-in-india-with-new-gcc-in-hyderabad-to-hire-3-000-professionals-in-two-years-11770809114751.html
+- Dow Jones, S&amp;P 500, Nasdaq rally as investors focus on January payroll data, 4.3% unemployment — Details here
+  Dow Jones, S&amp;amp;P 500, and Nasdaq rallied in the early market session on Wednesday. Investors focused on January payroll data and 4.3%
+  🔗 https://www.livemint.com/market/stock-market-news/dow-jones-s-p-500-nasdaq-rally-as-investors-focus-on-january-payroll-data-4-3-unemployment-details-here-11770821323576.html
 
-- Fractal Analytics IPO sails through on Day on QIB-led buying, ends with 2.66x bids. Check GMP and other details
-  Fractal Analytics' IPO was 2.66 times oversubscribed, but grey market trends suggest shares may list below the offer price
-  🔗 https://www.livemint.com/market/ipo/fractal-analytics-ipo-sails-through-on-day-on-qib-led-buying-ends-with-2-66x-bids-check-gmp-and-other-details-11770813965102.html
+- Gold, silver rates today: Comex gold jumps $113/oz; silver gains $6/oz after strong US jobs data
+  Gold and silver prices remained stable despite a positive US jobs report. January saw 130,000
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-113-oz-silver-gains-6-oz-after-strong-us-jobs-data-11770819336748.html
 
-- Gold rate crashes 18% from record high on MCX. Can it fall more? Is it the right time to buy?
-  Gold rates have seen an 18% drop from record highs, sparking debate among experts about future trends. The yellow metal looks poised for a bull run over the long term but
-  🔗 https://www.livemint.com/market/commodities/gold-rate-crashes-18-from-record-high-on-mcx-can-it-crash-more-is-it-the-right-time-to-buy-11770807792532.html
+- Who is Amanda Askell? The philosopher Anthropic trusts to teach Claude AI morals and ‘how to be good’
+  Amanda Askell is a key architect of ‘Constitutional AI’ Her role blends philosophy, AI safety and
+  🔗 https://www.livemint.com/technology/who-is-amanda-askell-the-philosopher-anthropic-trusts-to-teach-claude-ai-morals-and-how-to-be-good-11770834572409.html
 
-- 'The sucker's going up is not a good reason...' Peter Lynch shares tips on how to pick the right stock
-  Peter Lynch is well known for propagating investing in what you know.
-  🔗 https://www.livemint.com/market/stock-market-news/the-suckers-going-up-is-not-a-good-reason-peter-lynch-shares-tips-on-how-to-pick-the-right-stock-11770811996401.html
+- Google prepares Android 17 Beta as Android 16 QPR3 testing wraps up: What to expect
+  Google has begun rolling out Android 16 QPR3 Beta 2.1 to testers. The company also confirmed Android 17 Beta 1 is arriving soon for enrolled Pixel devices.
+  🔗 https://www.livemint.com/technology/tech-news/google-prepares-android-17-beta-as-android-16-qpr3-testing-wraps-up-what-to-expect-11770829556415.html
 
-- Premier Energies share price may rally 28%, says Motilal Oswal as it initiates coverage with 'Buy'
-  Motilal Oswal initiates coverage on Premier Energies with a 'buy' rating. The outlook is based on strong capacity growth, industry-leading margins
-  🔗 https://www.livemint.com/market/stock-market-news/premier-energies-share-price-may-rally-28-says-motilal-oswal-as-it-initiates-coverage-with-buy-11770796665515.html
+- AI-generated reels? Instagram reportedly tests personal likeness feature: What to expect
+  Instagram is reportedly developing an AI powered “Create my likeness” tool. The feature may also allow permission based use of others’ likenesses, positioning the platform as a potential
+  🔗 https://www.livemint.com/technology/tech-news/aigenerated-reels-instagram-reportedly-tests-personal-likeness-feature-what-to-expect-11770821163851.html
 
-- Quote of the day: We don’t have to be smarter than the rest. We have to be more disciplined — Warren Buffett
-  Long-term success is more about behaviour than brilliance. Stock market investing has often been glorifying intelligence.
-  🔗 https://www.livemint.com/market/stock-market-news/quote-of-the-day-we-don-t-have-to-be-smarter-than-the-rest-we-have-to-be-more-disciplined-warren-buffett-11770803088897.html
+- Google rolls out easier way to request removal of explicit images from Search: How it works
+  Google has launched new tools that allow users to request the removal of sensitive and non-consensual explicit content from Search. The update simplifies reporting, supports multiple submissions, offers proactive filtering and lets
+  🔗 https://www.livemint.com/technology/tech-news/google-rolls-out-easier-way-to-request-removal-of-explicit-images-from-search-how-it-works-11770815246295.html
 
 - Battlefield 6 Season 2 drops new map, modes and major fixes: Launch date and all you need to know
   Battlefield 6 Season 2 launches on 17 February with a new Contaminated map, limited-time narrative modes and major gameplay upgrades. EA is also improving progression, Battle
   🔗 https://www.livemint.com/technology/tech-news/battlefield-6-season-2-drops-new-map-modes-and-major-fixes-launch-date-and-all-you-need-to-know-11770811181199.html
 
-- AI rules: 2-hour deepfake takedown timeline lands Big Tech in compliance furore
-  Meity notified AI deepfake takedown and labelling rules. While the industry welcomed its labelling relaxation and image editing exemption, heavily compressed takedown windows may land social media firms in a
-  🔗 https://www.livemint.com/technology/india-new-ai-law-deepfake-content-moderation-social-media-impact-tech-11770797478850.html
-
-- iPhone 18 Pro leak suggests same price, faster chip and larger battery: All you need to know
-  Analysts say Apple may keep iPhone 18 Pro and 18 Pro Max prices unchanged. Supply chain savings, new memory deals and upgrades such as a 2nm A20 Pro chip expected.
-  🔗 https://www.livemint.com/technology/tech-news/iphone-18-pro-leak-suggests-same-price-faster-chip-and-larger-battery-all-you-need-to-know-11770803690596.html
-
-- Chile launches open-source AI model designed for Latin America
-  Chile launches open
-  🔗 https://www.livemint.com/technology/chile-launches-open-source-ai-model-designed-for-latin-america-11770751049907.html
-
-- Nothing Phone 4a, 4a Pro tipped for March launch with bigger batteries and 120Hz displays
-  Nothing could unveil the Phone 4a and 4a Pro at MWC 2026 as its main smartphones for the year. New colours, upgraded batteries, Snapdragon 7s Gen 4 chips and
-  🔗 https://www.livemint.com/technology/tech-news/nothing-phone-4a-4a-pro-tipped-for-march-launch-with-bigger-batteries-and-120hz-displays-11770743846019.html
-
-- Fractal Analytics IPO subscribed 2.66 times
-  The offer received bids for 4.94 crore shares
-  🔗 https://www.business-standard.com/markets/capital-market-news/fractal-analytics-ipo-subscribed-2-66-times-126021101194_1.html
-
-- Aye Finance IPO subscribed 97%
-  The offer received bids 4.42 crore shares
-  🔗 https://www.business-standard.com/markets/capital-market-news/aye-finance-ipo-subscribed-97-126021101183_1.html
-
-- Sebi flags misuse of SME platform, plans simpler rules to deepen mkt access
-  Sebi chairman Tuhin Kanta Pandey flagged misuse of SME platforms. Sebi chairman T
-  🔗 https://www.business-standard.com/markets/news/sebi-flags-misuse-of-sme-platform-plans-simpler-rules-126021101158_1.html
-
-- INR ends on muted note amid choppy equities; Dollar demand from importers
-  The Indian rupee depreciated 14 paise to close at 90.70 (provisional) against the US dollar on Wednesday, on dollar demand from importers and geopolitical tensions. Local shares also ended on a muted note tracking
-  🔗 https://www.business-standard.com/markets/capital-market-news/inr-ends-on-muted-note-amid-choppy-equities-dollar-demand-from-importers-126021101148_1.html
-
-- Benchmarks end flat; Nifty above 25,950 amid caution before US jobs data
-  The key domestic indices ended almost flat on Wednesday. The market opened on a positive note, with the Nifty reclaiming the 26,000 mark in early trade.
-  🔗 https://www.business-standard.com/markets/capital-market-news/benchmarks-end-flat-nifty-above-25-950-amid-caution-before-us-jobs-data-126021101147_1.html
-
-- 10 Nifty500 stocks crash 50–75% from 52-week highs. Is your portfolio Hht?
+- IndoStar Capital Finance allots 798 equity shares under ESOP
   
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-nifty500-stocks-crash-5075-from-52-week-highs-is-your-portfolio-hht/slideshow/128207969.cms
+  🔗 https://www.business-standard.com/markets/capital-market-news/indostar-capital-finance-allots-798-equity-shares-under-esop-126021101615_1.html
 
-- SBI overtakes TCS to become India's fourth largest company as Q3 rally triggers market cap leap
-  State Bank of India has surpassed TCS to become the fourth-largest listed firm by market capitalisation. Robust profit growth, stable margins, improving asset quality and bullish brokerage
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sbi-overtakes-tcs-to-become-indias-fourth-largest-company-as-q3-rally-triggers-market-cap-leap/articleshow/128207023.cms
+- Kernex Microsystems wins order of Rs 411 cr from Banaras Locomotive Works
+  
+  🔗 https://www.business-standard.com/markets/capital-market-news/kernex-microsystems-wins-order-of-rs-411-cr-from-banaras-locomotive-works-126021101562_1.html
 
-- India state-run firms tap bond market for $2 billion before funding costs rise
-  The pickup in issuance suggests companies have stopped waiting for borrowing costs to decline. They are choosing to access the market despite high rates, experts say.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-state-run-firms-tap-bond-market-for-2-billion-before-funding-costs-rise/articleshow/128206672.cms
+- Ganges Securities consolidated net profit rises 82.50% in the December 2025 quarter
+  Sales decline
+  🔗 https://www.business-standard.com/markets/capital-market-news/ganges-securities-consolidated-net-profit-rises-82-50-in-the-december-2025-quarter-126021101446_1.html
 
-- Indian rupee pinched by foreign banks' dollar bids; softer dollar cushions
-  The Indian rupee closed down 0.1% at 90.70 due to increased dollar bids from foreign banks. Despite a quiet trading session and mixed corporate interest, overseas demand for dollars pressured the currency.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-pinched-by-foreign-banks-dollar-bids-softer-dollar-cushions/articleshow/128206326.cms
+- Megri Soft consolidated net profit declines 25.00% in the December 2025 quarter
+  Sales decline
+  🔗 https://www.business-standard.com/markets/capital-market-news/megri-soft-consolidated-net-profit-declines-25-00-in-the-december-2025-quarter-126021101445_1.html
 
-- US stocks today: Futures pause ahead of January employment data
-  U.S. stock futures traded subdued as investors awaited crucial jobs data. Markets are closely watching for any surprises in labor and inflation data that could influence the Federal Reserve's rate cut decisions.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-futures-pause-ahead-of-january-employment-data/articleshow/128202829.cms
+- Ircon International consolidated net profit rises 16.25% in the December 2025 quarter
+  Sales decline
+  🔗 https://www.business-standard.com/markets/capital-market-news/ircon-international-consolidated-net-profit-rises-16-25-in-the-december-2025-quarter-126021101444_1.html
 
-- US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
-  US Walks Back On Pulses, Agri Sector
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
+- Patanjali Foods Q3 Results: PAT surges 60% YoY to Rs 594 crore, sees strong FY26 on GST tailwinds
+  Patanjali Foods witnessed a robust 60% surge in net profit to Rs 594 crore for the December quarter, with revenue climbing 17% to Rs 10,484 crore. This marks their highest Q3 revenue ever.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/patanjali-foods-q3-results-pat-surges-60-yoy-to-rs-594-crore-sees-strong-fy26-on-gst-tailwinds/articleshow/128215653.cms
 
-- India committed to stopping Russian oil buys, says US fact sheet | India News - Hindustan Times
-  India committed to stopping Russian oil buys, says US fact sheet.
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPWW5zcVVFUl8tUGdGT1dfOHZoV1NXSVdmRXI1anNlb1JqcTI5dkFoYzU2SnNCZjRyN0M5SnQzSlpaWkFjcWRsTEdvUVM0aHpnelVuV25FRnpQTk14dzl5QVdteFg5RXJoUVRGcXZUQnBnVmplcHpLcGlGQmRfQVlJWjJJQno0UWNTOFhYdmJmeUY4cWxKdmtxWlV4MENfeDUtNWU3Z21RSFFpR0h4cUFYNDR4dHFWVlpwYnBqbXRJdGNXRUNk0gHKAUFVX3lxTFBwOEg4c2dFczdOZ0RhLU14UmNLSGFkZHlFS1FBcW9fMVpiSEthakd6S3R3d1I5RWVieHpJeWIyUjZvdEhEbGdLaENNeHV4Sk5zRzZYUTREaW91MDdpSDAxMzRRRmdscVg0Y3RmdDcwMjdRMnFRUmp3SjFPb1ZzbzQzTWtvWGNkTjIwWU1UV21SQmgxXzQtbVcyalN0RGNxeW1CZW8yUkhoSncwcDZLdHBmRnlYZVNWcGRlQ1BuRGREWGZLdXF4dUg0Ync?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Thursday
+  Nifty extends gains for a fourth day while Sensex edged lower. Analysts see bullish momentum above key support levels. Global cues were mixed, with US optimism and subdued European trends.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/128214605.cms
 
-- Evening news wrap: Hardeep Singh Puri responds to Rahul Gandhi's claim on 'Epstein meetings' & more - Times of India
-  Hardeep Singh Puri responds to Rahul Gandhi's claim on 'Epstein
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOM3IxUVdZOTNmYWVKcUJlX1NpTEEwcVc0b3F5RWJUeFpfMHpBWm1Wb3drbVUzWTRYWkpoZGVkMzhpaE1zLVpNLVVIT01VX1FrRXhqdTBLY3hzeGRfdENHTTlvRUZieWM1YU1ON0IwWXd4eTI1ZWVpMUp6cG9nLVd2RUgzb0RmazlQVERLZ1FiYjVDWkx4YjlLTlh3YmlYdExKOWpoM0RZWUtJRUpQaXUyVmhMeWw3aDRaTm9qeFJ2M3lscTJXWUt4ZjhPUHVyUzFENzVuNHE3RHhRblo4VVk3LWpjU2NfMGJwV0RKaF9BOGlMNlnSAfgBQVVfeXFMTVAwXzBTRUZBNDlWRkdEbUQxMmJBS1NJMTdLM3pXMDVYenlaQ3hFZ1NFdU5tVzZGdVJ6OTdiT0JSUDh1VnVrcWdlUkd5dUFiXzBibGxZdjNxM3VyQ1prSDdlWll5Nlc1QjdFbXczOEd0X3QzX3FXMkc5aDZLS2xoYUtvMHVHSklHeDBQaU5jUHhwSnluWDdNTGJOclZ0d2pDaXRCU2JtRkhtN013N0g4T3FTeXZBeTJmOUk1RGJmQW1kRzJkeVV2N2VBQXpiOEdCQmV2cFoyWmU3RjFSWnNOWjhGaUdpYzA3aERiRlp1anI1ZWNzNVlKWC0?oc=5
+- Morgan Stanley, Goldman Sachs pick multibagger Ather Energy via block deals; NIIF sells Rs 233 cr stake
+  Morgan Stanley and Goldman Sachs acquired shares in Ather Energy through block deals worth Rs 233 crore. NIIF sold over 33.78 lakh shares. Several mutual funds also bought stakes.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/morgan-stanley-goldman-sachs-pick-multibagger-ather-energy-via-block-deals-niif-sells-rs-233-cr-stake/articleshow/128214121.cms
 
-- Canada school shooting: ‘India stands in solidarity,’ PM Modi says - The Hindu
-  The Hindu reports that India's prime minister has
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOXzFsZTd3T281QkJlRXl1UFZhaWJOVnhrQXlXdThOV0tXQzRxWmFBVTRFQ0NEMlNaajZUMDU2QVlwYVhzeWNqN1VEM3NfRUQ0SUNCaVZ2YklnVmowa2laRGcwUDd6aWw2UVBSWWdWTS1YNmRfcE80TXk0akRqUFFDTDJiamRxRUd0UDExeDhSWk1tbWJmc1d2RWhTWWh3NmFGeEl0bl9lc2FMaEVDZVBtatIBtwFBVV95cUxORnJobENMaXEyX1RuczBTQ3VRLXlwT2VkRE5NZnJpR1JUMHIxMWlFSlJzWV9EQ1djLTFoSXNDeDM3LUZaUnhBQ0R4SnY1LVZnRUZaR1daN19KZERtcmdtbTgyMXlEcjc4T3J0dHBlUGxBUkpTa2NSajRJS0JJUWtLS3cyZ3llc0ZvT0pUNnloS2RtQUE5M3dwWWRVczlOMnVaTG5ZaHliMG84aHptajhTeXcxclRpWWc?oc=5
+- US stocks wobble after feeling both the upside and downside of a strong jobs report
+  U.S. stocks neared a record high Wednesday after a jobs report showed unexpected improvement. Treasury yields climbed as traders adjusted expectations for Federal Reserve interest rate cuts.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stocks-gain-after-stronger-than-expected-jobs-report/articleshow/128212392.cms
 
-- India AI Impact Summit 2026: What it is, who's coming, and why it matters - Times of India
-  India AI Impact Summit 2026: What it is, who's coming
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRU11OV95QldaRE82dnFiSi00UEhBLXowYzJxcDNnRTNBSWN4OG13blYxellSckhaM0pnTjR4djNfRktIeWRRTTdLUFdYMl9iNHFQWnIzOHVZaWM5S3NnTERaUUtQM1JWd2Zqc21JZ3FuRTNLZzRLVlNKM1VvOEppT3BoTmlzMmRVSTRhX0lEMDMtRGlJYUxYYkdjMFJnUHpzQThlMEhPUG1yVEc4SmxJMUJWR19xRTBVZ0EzNG9FallsWnhqMGlHaXlQNWdubVJpalZTSFUwRWhkMHFoSTF4WWt2N0ZiYlnSAewBQVVfeXFMUFBXcEM3X29DajdXZXlvZ1hSUjRuekoxcTIzam1rX3lqXzBraXo0ckluY0diVU92ZS1sckoyRlp1TDNST3dvM1NjTUY2X19JaW0tTjFhU05CT3ZBOC1haU01SHEyLXNBR3NCRlpXN1hDV3h3dklKNWRzM0pLYnZ3dU1xcGJoakF1Nk0zMFVvUEVTMkF6MHhsaWlubHY4SDNJZk9yNjlMdHZzVy1YbWJTUDRIckZlOWxleEpLRmttb3ZWSzdmTTczV1VoLWNBRVQ0VjNzUFZ4NU5SWVVHbkJibVRiVlk5MFhRQWFia0Q?oc=5
-
-- US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
-  US Walks Back On Pulses, Agri Sector
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
-
-- India committed to stopping Russian oil buys, says US fact sheet | India News - Hindustan Times
-  India committed to stopping Russian oil buys, says US fact sheet.
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPWW5zcVVFUl8tUGdGT1dfOHZoV1NXSVdmRXI1anNlb1JqcTI5dkFoYzU2SnNCZjRyN0M5SnQzSlpaWkFjcWRsTEdvUVM0aHpnelVuV25FRnpQTk14dzl5QVdteFg5RXJoUVRGcXZUQnBnVmplcHpLcGlGQmRfQVlJWjJJQno0UWNTOFhYdmJmeUY4cWxKdmtxWlV4MENfeDUtNWU3Z21RSFFpR0h4cUFYNDR4dHFWVlpwYnBqbXRJdGNXRUNk0gHKAUFVX3lxTFBwOEg4c2dFczdOZ0RhLU14UmNLSGFkZHlFS1FBcW9fMVpiSEthakd6S3R3d1I5RWVieHpJeWIyUjZvdEhEbGdLaENNeHV4Sk5zRzZYUTREaW91MDdpSDAxMzRRRmdscVg0Y3RmdDcwMjdRMnFRUmp3SjFPb1ZzbzQzTWtvWGNkTjIwWU1UV21SQmgxXzQtbVcyalN0RGNxeW1CZW8yUkhoSncwcDZLdHBmRnlYZVNWcGRlQ1BuRGREWGZLdXF4dUg0Ync?oc=5
-
-- Evening news wrap: Hardeep Singh Puri responds to Rahul Gandhi's claim on 'Epstein meetings' & more - Times of India
-  Hardeep Singh Puri responds to Rahul Gandhi's claim on 'Epstein
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOM3IxUVdZOTNmYWVKcUJlX1NpTEEwcVc0b3F5RWJUeFpfMHpBWm1Wb3drbVUzWTRYWkpoZGVkMzhpaE1zLVpNLVVIT01VX1FrRXhqdTBLY3hzeGRfdENHTTlvRUZieWM1YU1ON0IwWXd4eTI1ZWVpMUp6cG9nLVd2RUgzb0RmazlQVERLZ1FiYjVDWkx4YjlLTlh3YmlYdExKOWpoM0RZWUtJRUpQaXUyVmhMeWw3aDRaTm9qeFJ2M3lscTJXWUt4ZjhPUHVyUzFENzVuNHE3RHhRblo4VVk3LWpjU2NfMGJwV0RKaF9BOGlMNlnSAfgBQVVfeXFMTVAwXzBTRUZBNDlWRkdEbUQxMmJBS1NJMTdLM3pXMDVYenlaQ3hFZ1NFdU5tVzZGdVJ6OTdiT0JSUDh1VnVrcWdlUkd5dUFiXzBibGxZdjNxM3VyQ1prSDdlWll5Nlc1QjdFbXczOEd0X3QzX3FXMkc5aDZLS2xoYUtvMHVHSklHeDBQaU5jUHhwSnluWDdNTGJOclZ0d2pDaXRCU2JtRkhtN013N0g4T3FTeXZBeTJmOUk1RGJmQW1kRzJkeVV2N2VBQXpiOEdCQmV2cFoyWmU3RjFSWnNOWjhGaUdpYzA3aERiRlp1anI1ZWNzNVlKWC0?oc=5
-
-- Canada school shooting: ‘India stands in solidarity,’ PM Modi says - The Hindu
-  The Hindu reports that India's prime minister has
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOXzFsZTd3T281QkJlRXl1UFZhaWJOVnhrQXlXdThOV0tXQzRxWmFBVTRFQ0NEMlNaajZUMDU2QVlwYVhzeWNqN1VEM3NfRUQ0SUNCaVZ2YklnVmowa2laRGcwUDd6aWw2UVBSWWdWTS1YNmRfcE80TXk0akRqUFFDTDJiamRxRUd0UDExeDhSWk1tbWJmc1d2RWhTWWh3NmFGeEl0bl9lc2FMaEVDZVBtatIBtwFBVV95cUxORnJobENMaXEyX1RuczBTQ3VRLXlwT2VkRE5NZnJpR1JUMHIxMWlFSlJzWV9EQ1djLTFoSXNDeDM3LUZaUnhBQ0R4SnY1LVZnRUZaR1daN19KZERtcmdtbTgyMXlEcjc4T3J0dHBlUGxBUkpTa2NSajRJS0JJUWtLS3cyZ3llc0ZvT0pUNnloS2RtQUE5M3dwWWRVczlOMnVaTG5ZaHliMG84aHptajhTeXcxclRpWWc?oc=5
-
-- India AI Impact Summit 2026: What it is, who's coming, and why it matters - Times of India
-  India AI Impact Summit 2026: What it is, who's coming
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRU11OV95QldaRE82dnFiSi00UEhBLXowYzJxcDNnRTNBSWN4OG13blYxellSckhaM0pnTjR4djNfRktIeWRRTTdLUFdYMl9iNHFQWnIzOHVZaWM5S3NnTERaUUtQM1JWd2Zqc21JZ3FuRTNLZzRLVlNKM1VvOEppT3BoTmlzMmRVSTRhX0lEMDMtRGlJYUxYYkdjMFJnUHpzQThlMEhPUG1yVEc4SmxJMUJWR19xRTBVZ0EzNG9FallsWnhqMGlHaXlQNWdubVJpalZTSFUwRWhkMHFoSTF4WWt2N0ZiYlnSAewBQVVfeXFMUFBXcEM3X29DajdXZXlvZ1hSUjRuekoxcTIzam1rX3lqXzBraXo0ckluY0diVU92ZS1sckoyRlp1TDNST3dvM1NjTUY2X19JaW0tTjFhU05CT3ZBOC1haU01SHEyLXNBR3NCRlpXN1hDV3h3dklKNWRzM0pLYnZ3dU1xcGJoakF1Nk0zMFVvUEVTMkF6MHhsaWlubHY4SDNJZk9yNjlMdHZzVy1YbWJTUDRIckZlOWxleEpLRmttb3ZWSzdmTTczV1VoLWNBRVQ0VjNzUFZ4NU5SWVVHbkJibVRiVlk5MFhRQWFia0Q?oc=5
+- Market Trading Guide: Craftsman Automation and Laurus Labs offer up to 12% upside
+  Nifty ended flat but extended gains, with technical indicators signaling a bullish bias above key support. Analysts highlight Craftsman Automation and Laurus Labs as buy ideas
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-craftsman-automation-and-laurus-labs-offer-up-to-12-upside/articleshow/128212324.cms
 
 - US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
-  US Walks Back On Pulses, Agri Sector
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYn
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
 
-- India committed to stopping Russian oil buys, says US fact sheet | India News - Hindustan Times
-  India committed to stopping Russian oil buys, says US fact sheet.
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPWW5zcVVFUl8tUGdGT1dfOHZoV1NXSVdmRXI1anNlb1JqcTI5dkFoYzU2SnNCZjRyN0M5SnQzSlpaWkFjcWRsTEdvUVM0aHpnelVuV25FRnpQTk14dzl5QVdteFg5RXJoUVRGcXZUQnBnVmplcHpLcGlGQmRfQVlJWjJJQno0UWNTOFhYdmJmeUY4cWxKdmtxWlV4MENfeDUtNWU3Z21RSFFpR0h4cUFYNDR4dHFWVlpwYnBqbXRJdGNXRUNk0gHKAUFVX3lxTFBwOEg4c2dFczdOZ0RhLU14UmNLSGFkZHlFS1FBcW9fMVpiSEthakd6S3R3d1I5RWVieHpJeWIyUjZvdEhEbGdLaENNeHV4Sk5zRzZYUTREaW91MDdpSDAxMzRRRmdscVg0Y3RmdDcwMjdRMnFRUmp3SjFPb1ZzbzQzTWtvWGNkTjIwWU1UV21SQmgxXzQtbVcyalN0RGNxeW1CZW8yUkhoSncwcDZLdHBmRnlYZVNWcGRlQ1BuRGREWGZLdXF4dUg0Ync?oc=5
+- ChatGPT-maker OpenAI launches Teen Safety Blueprint for India, focuses on 'safety' over 'privacy' - Times of India
+  ChatGPT-maker OpenAI launches Teen Safety Blueprint for India
+  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPaTh0VEhySVpfY2Yxb1FjTy1KM19tN3ppcGZ2SEo4OFRTMFNobF8xb1VDTm95eEhhSE1NdG9qd3FIMXF4T2RYVktvVTNwSnVoVDBpZkd1RGNNV3ZmSjM0YnhKaktyTFpfS0VfU0pGZjdTbnZRU0xXTTU0MVd1RWVYSDBVT1JJYlhwOGxpTy1oWkNKNWsyVVhYRGRsVE1tMVlMMmNWMFRIQkJEWGFtMVJUMzJDM2dvSno1M204NFVIYVB1WFNweEw1VGdyNmpFdkFOTWJZc1NXa2U5Q09IM0JzRVJld0d4SWVzUWdIT3ZWZmxsX2p3c1VFNGVxTnAzM05wa2Y5bkprUEtqOUg0VGc4b3dHV3BDdFhMb2hibmo3WHNLN3FQU0hrc9IBrgJBVV95cUxNN1pnT2VvZGlPMHFCN3VwS2E1dUt6Z3FZSDlSdzBDQTdlR2hKMkRCQ3N4VWszdVN5QkNyRHlZWDEyOWdBTUUzZXlNbFlOZVlDdnVlemRERWxtMmdhcUFfNGxwY2dQZkJpSXJwRDZMT0g2Ykt4ZHNLWHNvaTUyRVRLLWFHWDlQZE5wT3ItZF9ERThQOFF0bURPVkNoLUFTNHBGWEZLYWo1dWdmRkpGWTViSFNaX25aODhBbXp6bjFTcVZqaGRYckpYUmphdUhfV1gzM2xvQ1NNdVJBaEl3aEpZdTJzRldLZzNqLXhXd25TT25lbURIZy1nelk0UmFSM185UXAwbVZoaTFxVnBtd2ZKQUFnYUtST3d2bkozaFB0bkpfNmlON0pZb2d3Y3Qydw?oc=5
 
-- Evening news wrap: Hardeep Singh Puri responds to Rahul Gandhi's claim on 'Epstein meetings' & more - Times of India
-  Hardeep Singh Puri responds to Rahul Gandhi's claim on 'Epstein
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOM3IxUVdZOTNmYWVKcUJlX1NpTEEwcVc0b3F5RWJUeFpfMHpBWm1Wb3drbVUzWTRYWkpoZGVkMzhpaE1zLVpNLVVIT01VX1FrRXhqdTBLY3hzeGRfdENHTTlvRUZieWM1YU1ON0IwWXd4eTI1ZWVpMUp6cG9nLVd2RUgzb0RmazlQVERLZ1FiYjVDWkx4YjlLTlh3YmlYdExKOWpoM0RZWUtJRUpQaXUyVmhMeWw3aDRaTm9qeFJ2M3lscTJXWUt4ZjhPUHVyUzFENzVuNHE3RHhRblo4VVk3LWpjU2NfMGJwV0RKaF9BOGlMNlnSAfgBQVVfeXFMTVAwXzBTRUZBNDlWRkdEbUQxMmJBS1NJMTdLM3pXMDVYenlaQ3hFZ1NFdU5tVzZGdVJ6OTdiT0JSUDh1VnVrcWdlUkd5dUFiXzBibGxZdjNxM3VyQ1prSDdlWll5Nlc1QjdFbXczOEd0X3QzX3FXMkc5aDZLS2xoYUtvMHVHSklHeDBQaU5jUHhwSnluWDdNTGJOclZ0d2pDaXRCU2JtRkhtN013N0g4T3FTeXZBeTJmOUk1RGJmQW1kRzJkeVV2N2VBQXpiOEdCQmV2cFoyWmU3RjFSWnNOWjhGaUdpYzA3aERiRlp1anI1ZWNzNVlKWC0?oc=5
+- 39 Lakh Kg Cannabis Based Drugs Seized Across India Since 2020: Centre - NDTV
+  39 Lakh Kg Cannabis Based Drugs Seized
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3hFNFpIczJGX0Nac0RjUk5VMEhkVlBRQlExd3oyRTZHQW90VTg1ZjFHWEUwdXpnaWdkZFlOblI4RnlnVzlSbEdYbUdQV3UxSWV2MHZIMnp4QXpjTlhQZVpadXRMNGRXUHNUTW5qR3I2RVlHU3JxUVh2Ym1TWGtoZ21pYUNvVDl5dWk1aERMMExiUXJudnRJbjNwYkVkMi03TTRMOV9pUkhwWVhSdHRYSXNuVG5PcktqX041OWh6dkZnc0lRRnl1UGFQQl82QdIB1gFBVV95cUxNN3lJV1Q3c2ZCR3VzeTNqb1cyR1pSbWdiQVdweGFZNmJEOWppUTRXNU5wcWJhREZiOXp4ejFKbFNvS3ROUVktRHE5RW8zOXpDWHM0T0xhOXBCdFhpV3VjMEdmMlBuWFlka2liNDdhM0xBZVVNc3gxTno1NWVUSWVjbmFadmR3LXRQWjU1U3BuSG0yOGxVWUZNUFpjX19TYnRQdlQwNWUxalFVU2J4VVQ3WG5lSU8ycVVRdldkUUR2NmhkOHNteGtoa0VqeDc2ZmhRU096VE1n?oc=5
 
-- Canada school shooting: ‘India stands in solidarity,’ PM Modi says - The Hindu
-  The Hindu reports that India's prime minister has
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOXzFsZTd3T281QkJlRXl1UFZhaWJOVnhrQXlXdThOV0tXQzRxWmFBVTRFQ0NEMlNaajZUMDU2QVlwYVhzeWNqN1VEM3NfRUQ0SUNCaVZ2YklnVmowa2laRGcwUDd6aWw2UVBSWWdWTS1YNmRfcE80TXk0akRqUFFDTDJiamRxRUd0UDExeDhSWk1tbWJmc1d2RWhTWWh3NmFGeEl0bl9lc2FMaEVDZVBtatIBtwFBVV95cUxORnJobENMaXEyX1RuczBTQ3VRLXlwT2VkRE5NZnJpR1JUMHIxMWlFSlJzWV9EQ1djLTFoSXNDeDM3LUZaUnhBQ0R4SnY1LVZnRUZaR1daN19KZERtcmdtbTgyMXlEcjc4T3J0dHBlUGxBUkpTa2NSajRJS0JJUWtLS3cyZ3llc0ZvT0pUNnloS2RtQUE5M3dwWWRVczlOMnVaTG5ZaHliMG84aHptajhTeXcxclRpWWc?oc=5
+- Maharashtra Cop Kills Wife's Lover, Drives 191 Km To Dispose Body, Arrested - NDTV
+  Maharashtra Cop Kills Wife's Lover, Dri
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2Ixa1hGaGVFZ1V3SmlDUjhFNXk0SmdPYnBKRUtWSFZzbDE5YjVzZTU5dUJqSExqdTZFMnh2Q2d2Wl94eXJieWExQ0V5cnZIYktCaW45eEVhU0N0T0xfMHlfQVJqYWxVbkFENGNlV3ZxSVZvVGxCLTRqcHNneU9yRzVrckRTb0pwZk9la1RPc2tNMVRXa1RCT3llTlVkMTdQMVctMC1DdVI2TUVjSDJJcnJvc9IBuwFBVV95cUxNcUlRTTZmbHdEZmloN1N5dHBZb3ZlT1REQ2luRlJZaUZ6VHFUYm5BRGhlMGJRMm5kZDh6YXBKNnBoY21MYmlrN0JMTlJpYk95VXFXcEJGSHQxZXJjV0p4Q3d2RGdITjhycGRCdlI4RzIwdUh2TFlKWjI0b2NwUndlYkczdm5sN0xiLXFST003c2dfRTdmdW5iSGRmUDhtVjdiLV9nY2J5WXZiQjVDMU1oVW9raE9XcW91RDFv?oc=5
 
-- India AI Impact Summit 2026: What it is, who's coming, and why it matters - Times of India
-  India AI Impact Summit 2026: What it is, who's coming
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRU11OV95QldaRE82dnFiSi00UEhBLXowYzJxcDNnRTNBSWN4OG13blYxellSckhaM0pnTjR4djNfRktIeWRRTTdLUFdYMl9iNHFQWnIzOHVZaWM5S3NnTERaUUtQM1JWd2Zqc21JZ3FuRTNLZzRLVlNKM1VvOEppT3BoTmlzMmRVSTRhX0lEMDMtRGlJYUxYYkdjMFJnUHpzQThlMEhPUG1yVEc4SmxJMUJWR19xRTBVZ0EzNG9FallsWnhqMGlHaXlQNWdubVJpalZTSFUwRWhkMHFoSTF4WWt2N0ZiYlnSAewBQVVfeXFMUFBXcEM3X29DajdXZXlvZ1hSUjRuekoxcTIzam1rX3lqXzBraXo0ckluY0diVU92ZS1sckoyRlp1TDNST3dvM1NjTUY2X19JaW0tTjFhU05CT3ZBOC1haU01SHEyLXNBR3NCRlpXN1hDV3h3dklKNWRzM0pLYnZ3dU1xcGJoakF1Nk0zMFVvUEVTMkF6MHhsaWlubHY4SDNJZk9yNjlMdHZzVy1YbWJTUDRIckZlOWxleEpLRmttb3ZWSzdmTTczV1VoLWNBRVQ0VjNzUFZ4NU5SWVVHbkJibVRiVlk5MFhRQWFia0Q?oc=5
+- Bharat Bandh on February 12: What’s open, what’s closed, and full list of affected services - The Hindu
+  Bharat Bandh on February 12: What’s open
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOandkd1RNMUxic0VER0VrWGo2U2FPU3JLanFzbGItTnFWZmZEZzd3eFdXR2hkNm5xeXJqUWx3LXFWaFR5NV96WFRRWnRaVWMzNFczV3J1UlZBcWdHTm9pU3B4QUhLSDN1VWluWkUwajB2QUcyUm5PYmFOSDVZb0lZWFZqZFVmcXRpSDdnVjlNek56b1N2VzFLYjFpeGFlT3Z3NGtzYTRpYmtGLW52RVlZRUhYOFVKM2VwWkpDZG5ucHRJdlZxLVNBRVdxSXdCMlU0bUJQWnpDbDVIUdIB4AFBVV95cUxNbEpkMGRyajVjcEhzbVh6X2hlMm95Sk9pd09JbmQwd25ublJUODR4UUZLcXM0RkJrM2V3UldSUzlzQ2hHZnZNWHNBNTV6OFVnMGI3eTRoQjdmMFhVRUtWMV9CTlQ2TWhKaVBZZUhPb1VtT09yd0JrVzNqazd6SzV6SGZibEtxRk1qR3ZBaXlrZF8zbzJCbGZHNVVsb21kLUhSY3hlYnduRFQ1UHRQRXN0dkJpaGtOZUFfdkJIZ2IyeG14bGp4TVY5bUl4NVM1eU5SOHhaX3d6Q3lLNmU3blVicQ?oc=5
 
 - US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
-  US Walks Back On Pulses, Agri Sector
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYn
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
 
-- India committed to stopping Russian oil buys, says US fact sheet | India News - Hindustan Times
-  India committed to stopping Russian oil buys, says US fact sheet.
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPWW5zcVVFUl8tUGdGT1dfOHZoV1NXSVdmRXI1anNlb1JqcTI5dkFoYzU2SnNCZjRyN0M5SnQzSlpaWkFjcWRsTEdvUVM0aHpnelVuV25FRnpQTk14dzl5QVdteFg5RXJoUVRGcXZUQnBnVmplcHpLcGlGQmRfQVlJWjJJQno0UWNTOFhYdmJmeUY4cWxKdmtxWlV4MENfeDUtNWU3Z21RSFFpR0h4cUFYNDR4dHFWVlpwYnBqbXRJdGNXRUNk0gHKAUFVX3lxTFBwOEg4c2dFczdOZ0RhLU14UmNLSGFkZHlFS1FBcW9fMVpiSEthakd6S3R3d1I5RWVieHpJeWIyUjZvdEhEbGdLaENNeHV4Sk5zRzZYUTREaW91MDdpSDAxMzRRRmdscVg0Y3RmdDcwMjdRMnFRUmp3SjFPb1ZzbzQzTWtvWGNkTjIwWU1UV21SQmgxXzQtbVcyalN0RGNxeW1CZW8yUkhoSncwcDZLdHBmRnlYZVNWcGRlQ1BuRGREWGZLdXF4dUg0Ync?oc=5
+- ChatGPT-maker OpenAI launches Teen Safety Blueprint for India, focuses on 'safety' over 'privacy' - Times of India
+  ChatGPT-maker OpenAI launches Teen Safety Blueprint for India
+  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPaTh0VEhySVpfY2Yxb1FjTy1KM19tN3ppcGZ2SEo4OFRTMFNobF8xb1VDTm95eEhhSE1NdG9qd3FIMXF4T2RYVktvVTNwSnVoVDBpZkd1RGNNV3ZmSjM0YnhKaktyTFpfS0VfU0pGZjdTbnZRU0xXTTU0MVd1RWVYSDBVT1JJYlhwOGxpTy1oWkNKNWsyVVhYRGRsVE1tMVlMMmNWMFRIQkJEWGFtMVJUMzJDM2dvSno1M204NFVIYVB1WFNweEw1VGdyNmpFdkFOTWJZc1NXa2U5Q09IM0JzRVJld0d4SWVzUWdIT3ZWZmxsX2p3c1VFNGVxTnAzM05wa2Y5bkprUEtqOUg0VGc4b3dHV3BDdFhMb2hibmo3WHNLN3FQU0hrc9IBrgJBVV95cUxNN1pnT2VvZGlPMHFCN3VwS2E1dUt6Z3FZSDlSdzBDQTdlR2hKMkRCQ3N4VWszdVN5QkNyRHlZWDEyOWdBTUUzZXlNbFlOZVlDdnVlemRERWxtMmdhcUFfNGxwY2dQZkJpSXJwRDZMT0g2Ykt4ZHNLWHNvaTUyRVRLLWFHWDlQZE5wT3ItZF9ERThQOFF0bURPVkNoLUFTNHBGWEZLYWo1dWdmRkpGWTViSFNaX25aODhBbXp6bjFTcVZqaGRYckpYUmphdUhfV1gzM2xvQ1NNdVJBaEl3aEpZdTJzRldLZzNqLXhXd25TT25lbURIZy1nelk0UmFSM185UXAwbVZoaTFxVnBtd2ZKQUFnYUtST3d2bkozaFB0bkpfNmlON0pZb2d3Y3Qydw?oc=5
 
-- Evening news wrap: Hardeep Singh Puri responds to Rahul Gandhi's claim on 'Epstein meetings' & more - Times of India
-  Hardeep Singh Puri responds to Rahul Gandhi's claim on 'Epstein
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOM3IxUVdZOTNmYWVKcUJlX1NpTEEwcVc0b3F5RWJUeFpfMHpBWm1Wb3drbVUzWTRYWkpoZGVkMzhpaE1zLVpNLVVIT01VX1FrRXhqdTBLY3hzeGRfdENHTTlvRUZieWM1YU1ON0IwWXd4eTI1ZWVpMUp6cG9nLVd2RUgzb0RmazlQVERLZ1FiYjVDWkx4YjlLTlh3YmlYdExKOWpoM0RZWUtJRUpQaXUyVmhMeWw3aDRaTm9qeFJ2M3lscTJXWUt4ZjhPUHVyUzFENzVuNHE3RHhRblo4VVk3LWpjU2NfMGJwV0RKaF9BOGlMNlnSAfgBQVVfeXFMTVAwXzBTRUZBNDlWRkdEbUQxMmJBS1NJMTdLM3pXMDVYenlaQ3hFZ1NFdU5tVzZGdVJ6OTdiT0JSUDh1VnVrcWdlUkd5dUFiXzBibGxZdjNxM3VyQ1prSDdlWll5Nlc1QjdFbXczOEd0X3QzX3FXMkc5aDZLS2xoYUtvMHVHSklHeDBQaU5jUHhwSnluWDdNTGJOclZ0d2pDaXRCU2JtRkhtN013N0g4T3FTeXZBeTJmOUk1RGJmQW1kRzJkeVV2N2VBQXpiOEdCQmV2cFoyWmU3RjFSWnNOWjhGaUdpYzA3aERiRlp1anI1ZWNzNVlKWC0?oc=5
+- 39 Lakh Kg Cannabis Based Drugs Seized Across India Since 2020: Centre - NDTV
+  39 Lakh Kg Cannabis Based Drugs Seized
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3hFNFpIczJGX0Nac0RjUk5VMEhkVlBRQlExd3oyRTZHQW90VTg1ZjFHWEUwdXpnaWdkZFlOblI4RnlnVzlSbEdYbUdQV3UxSWV2MHZIMnp4QXpjTlhQZVpadXRMNGRXUHNUTW5qR3I2RVlHU3JxUVh2Ym1TWGtoZ21pYUNvVDl5dWk1aERMMExiUXJudnRJbjNwYkVkMi03TTRMOV9pUkhwWVhSdHRYSXNuVG5PcktqX041OWh6dkZnc0lRRnl1UGFQQl82QdIB1gFBVV95cUxNN3lJV1Q3c2ZCR3VzeTNqb1cyR1pSbWdiQVdweGFZNmJEOWppUTRXNU5wcWJhREZiOXp4ejFKbFNvS3ROUVktRHE5RW8zOXpDWHM0T0xhOXBCdFhpV3VjMEdmMlBuWFlka2liNDdhM0xBZVVNc3gxTno1NWVUSWVjbmFadmR3LXRQWjU1U3BuSG0yOGxVWUZNUFpjX19TYnRQdlQwNWUxalFVU2J4VVQ3WG5lSU8ycVVRdldkUUR2NmhkOHNteGtoa0VqeDc2ZmhRU096VE1n?oc=5
 
-- Canada school shooting: ‘India stands in solidarity,’ PM Modi says - The Hindu
-  The Hindu reports that India's prime minister has
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOXzFsZTd3T281QkJlRXl1UFZhaWJOVnhrQXlXdThOV0tXQzRxWmFBVTRFQ0NEMlNaajZUMDU2QVlwYVhzeWNqN1VEM3NfRUQ0SUNCaVZ2YklnVmowa2laRGcwUDd6aWw2UVBSWWdWTS1YNmRfcE80TXk0akRqUFFDTDJiamRxRUd0UDExeDhSWk1tbWJmc1d2RWhTWWh3NmFGeEl0bl9lc2FMaEVDZVBtatIBtwFBVV95cUxORnJobENMaXEyX1RuczBTQ3VRLXlwT2VkRE5NZnJpR1JUMHIxMWlFSlJzWV9EQ1djLTFoSXNDeDM3LUZaUnhBQ0R4SnY1LVZnRUZaR1daN19KZERtcmdtbTgyMXlEcjc4T3J0dHBlUGxBUkpTa2NSajRJS0JJUWtLS3cyZ3llc0ZvT0pUNnloS2RtQUE5M3dwWWRVczlOMnVaTG5ZaHliMG84aHptajhTeXcxclRpWWc?oc=5
+- Maharashtra Cop Kills Wife's Lover, Drives 191 Km To Dispose Body, Arrested - NDTV
+  Maharashtra Cop Kills Wife's Lover, Dri
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2Ixa1hGaGVFZ1V3SmlDUjhFNXk0SmdPYnBKRUtWSFZzbDE5YjVzZTU5dUJqSExqdTZFMnh2Q2d2Wl94eXJieWExQ0V5cnZIYktCaW45eEVhU0N0T0xfMHlfQVJqYWxVbkFENGNlV3ZxSVZvVGxCLTRqcHNneU9yRzVrckRTb0pwZk9la1RPc2tNMVRXa1RCT3llTlVkMTdQMVctMC1DdVI2TUVjSDJJcnJvc9IBuwFBVV95cUxNcUlRTTZmbHdEZmloN1N5dHBZb3ZlT1REQ2luRlJZaUZ6VHFUYm5BRGhlMGJRMm5kZDh6YXBKNnBoY21MYmlrN0JMTlJpYk95VXFXcEJGSHQxZXJjV0p4Q3d2RGdITjhycGRCdlI4RzIwdUh2TFlKWjI0b2NwUndlYkczdm5sN0xiLXFST003c2dfRTdmdW5iSGRmUDhtVjdiLV9nY2J5WXZiQjVDMU1oVW9raE9XcW91RDFv?oc=5
 
-- India AI Impact Summit 2026: What it is, who's coming, and why it matters - Times of India
-  India AI Impact Summit 2026: What it is, who's coming
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRU11OV95QldaRE82dnFiSi00UEhBLXowYzJxcDNnRTNBSWN4OG13blYxellSckhaM0pnTjR4djNfRktIeWRRTTdLUFdYMl9iNHFQWnIzOHVZaWM5S3NnTERaUUtQM1JWd2Zqc21JZ3FuRTNLZzRLVlNKM1VvOEppT3BoTmlzMmRVSTRhX0lEMDMtRGlJYUxYYkdjMFJnUHpzQThlMEhPUG1yVEc4SmxJMUJWR19xRTBVZ0EzNG9FallsWnhqMGlHaXlQNWdubVJpalZTSFUwRWhkMHFoSTF4WWt2N0ZiYlnSAewBQVVfeXFMUFBXcEM3X29DajdXZXlvZ1hSUjRuekoxcTIzam1rX3lqXzBraXo0ckluY0diVU92ZS1sckoyRlp1TDNST3dvM1NjTUY2X19JaW0tTjFhU05CT3ZBOC1haU01SHEyLXNBR3NCRlpXN1hDV3h3dklKNWRzM0pLYnZ3dU1xcGJoakF1Nk0zMFVvUEVTMkF6MHhsaWlubHY4SDNJZk9yNjlMdHZzVy1YbWJTUDRIckZlOWxleEpLRmttb3ZWSzdmTTczV1VoLWNBRVQ0VjNzUFZ4NU5SWVVHbkJibVRiVlk5MFhRQWFia0Q?oc=5
+- Bharat Bandh on February 12: What’s open, what’s closed, and full list of affected services - The Hindu
+  Bharat Bandh on February 12: What’s open
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOandkd1RNMUxic0VER0VrWGo2U2FPU3JLanFzbGItTnFWZmZEZzd3eFdXR2hkNm5xeXJqUWx3LXFWaFR5NV96WFRRWnRaVWMzNFczV3J1UlZBcWdHTm9pU3B4QUhLSDN1VWluWkUwajB2QUcyUm5PYmFOSDVZb0lZWFZqZFVmcXRpSDdnVjlNek56b1N2VzFLYjFpeGFlT3Z3NGtzYTRpYmtGLW52RVlZRUhYOFVKM2VwWkpDZG5ucHRJdlZxLVNBRVdxSXdCMlU0bUJQWnpDbDVIUdIB4AFBVV95cUxNbEpkMGRyajVjcEhzbVh6X2hlMm95Sk9pd09JbmQwd25ublJUODR4UUZLcXM0RkJrM2V3UldSUzlzQ2hHZnZNWHNBNTV6OFVnMGI3eTRoQjdmMFhVRUtWMV9CTlQ2TWhKaVBZZUhPb1VtT09yd0JrVzNqazd6SzV6SGZibEtxRk1qR3ZBaXlrZF8zbzJCbGZHNVVsb21kLUhSY3hlYnduRFQ1UHRQRXN0dkJpaGtOZUFfdkJIZ2IyeG14bGp4TVY5bUl4NVM1eU5SOHhaX3d6Q3lLNmU3blVicQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYn
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- ChatGPT-maker OpenAI launches Teen Safety Blueprint for India, focuses on 'safety' over 'privacy' - Times of India
+  ChatGPT-maker OpenAI launches Teen Safety Blueprint for India
+  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPaTh0VEhySVpfY2Yxb1FjTy1KM19tN3ppcGZ2SEo4OFRTMFNobF8xb1VDTm95eEhhSE1NdG9qd3FIMXF4T2RYVktvVTNwSnVoVDBpZkd1RGNNV3ZmSjM0YnhKaktyTFpfS0VfU0pGZjdTbnZRU0xXTTU0MVd1RWVYSDBVT1JJYlhwOGxpTy1oWkNKNWsyVVhYRGRsVE1tMVlMMmNWMFRIQkJEWGFtMVJUMzJDM2dvSno1M204NFVIYVB1WFNweEw1VGdyNmpFdkFOTWJZc1NXa2U5Q09IM0JzRVJld0d4SWVzUWdIT3ZWZmxsX2p3c1VFNGVxTnAzM05wa2Y5bkprUEtqOUg0VGc4b3dHV3BDdFhMb2hibmo3WHNLN3FQU0hrc9IBrgJBVV95cUxNN1pnT2VvZGlPMHFCN3VwS2E1dUt6Z3FZSDlSdzBDQTdlR2hKMkRCQ3N4VWszdVN5QkNyRHlZWDEyOWdBTUUzZXlNbFlOZVlDdnVlemRERWxtMmdhcUFfNGxwY2dQZkJpSXJwRDZMT0g2Ykt4ZHNLWHNvaTUyRVRLLWFHWDlQZE5wT3ItZF9ERThQOFF0bURPVkNoLUFTNHBGWEZLYWo1dWdmRkpGWTViSFNaX25aODhBbXp6bjFTcVZqaGRYckpYUmphdUhfV1gzM2xvQ1NNdVJBaEl3aEpZdTJzRldLZzNqLXhXd25TT25lbURIZy1nelk0UmFSM185UXAwbVZoaTFxVnBtd2ZKQUFnYUtST3d2bkozaFB0bkpfNmlON0pZb2d3Y3Qydw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- 39 Lakh Kg Cannabis Based Drugs Seized Across India Since 2020: Centre - NDTV
+  39 Lakh Kg Cannabis Based Drugs Seized
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3hFNFpIczJGX0Nac0RjUk5VMEhkVlBRQlExd3oyRTZHQW90VTg1ZjFHWEUwdXpnaWdkZFlOblI4RnlnVzlSbEdYbUdQV3UxSWV2MHZIMnp4QXpjTlhQZVpadXRMNGRXUHNUTW5qR3I2RVlHU3JxUVh2Ym1TWGtoZ21pYUNvVDl5dWk1aERMMExiUXJudnRJbjNwYkVkMi03TTRMOV9pUkhwWVhSdHRYSXNuVG5PcktqX041OWh6dkZnc0lRRnl1UGFQQl82QdIB1gFBVV95cUxNN3lJV1Q3c2ZCR3VzeTNqb1cyR1pSbWdiQVdweGFZNmJEOWppUTRXNU5wcWJhREZiOXp4ejFKbFNvS3ROUVktRHE5RW8zOXpDWHM0T0xhOXBCdFhpV3VjMEdmMlBuWFlka2liNDdhM0xBZVVNc3gxTno1NWVUSWVjbmFadmR3LXRQWjU1U3BuSG0yOGxVWUZNUFpjX19TYnRQdlQwNWUxalFVU2J4VVQ3WG5lSU8ycVVRdldkUUR2NmhkOHNteGtoa0VqeDc2ZmhRU096VE1n?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Maharashtra Cop Kills Wife's Lover, Drives 191 Km To Dispose Body, Arrested - NDTV
+  Maharashtra Cop Kills Wife's Lover, Dri
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2Ixa1hGaGVFZ1V3SmlDUjhFNXk0SmdPYnBKRUtWSFZzbDE5YjVzZTU5dUJqSExqdTZFMnh2Q2d2Wl94eXJieWExQ0V5cnZIYktCaW45eEVhU0N0T0xfMHlfQVJqYWxVbkFENGNlV3ZxSVZvVGxCLTRqcHNneU9yRzVrckRTb0pwZk9la1RPc2tNMVRXa1RCT3llTlVkMTdQMVctMC1DdVI2TUVjSDJJcnJvc9IBuwFBVV95cUxNcUlRTTZmbHdEZmloN1N5dHBZb3ZlT1REQ2luRlJZaUZ6VHFUYm5BRGhlMGJRMm5kZDh6YXBKNnBoY21MYmlrN0JMTlJpYk95VXFXcEJGSHQxZXJjV0p4Q3d2RGdITjhycGRCdlI4RzIwdUh2TFlKWjI0b2NwUndlYkczdm5sN0xiLXFST003c2dfRTdmdW5iSGRmUDhtVjdiLV9nY2J5WXZiQjVDMU1oVW9raE9XcW91RDFv?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Bharat Bandh on February 12: What’s open, what’s closed, and full list of affected services - The Hindu
+  Bharat Bandh on February 12: What’s open
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOandkd1RNMUxic0VER0VrWGo2U2FPU3JLanFzbGItTnFWZmZEZzd3eFdXR2hkNm5xeXJqUWx3LXFWaFR5NV96WFRRWnRaVWMzNFczV3J1UlZBcWdHTm9pU3B4QUhLSDN1VWluWkUwajB2QUcyUm5PYmFOSDVZb0lZWFZqZFVmcXRpSDdnVjlNek56b1N2VzFLYjFpeGFlT3Z3NGtzYTRpYmtGLW52RVlZRUhYOFVKM2VwWkpDZG5ucHRJdlZxLVNBRVdxSXdCMlU0bUJQWnpDbDVIUdIB4AFBVV95cUxNbEpkMGRyajVjcEhzbVh6X2hlMm95Sk9pd09JbmQwd25ublJUODR4UUZLcXM0RkJrM2V3UldSUzlzQ2hHZnZNWHNBNTV6OFVnMGI3eTRoQjdmMFhVRUtWMV9CTlQ2TWhKaVBZZUhPb1VtT09yd0JrVzNqazd6SzV6SGZibEtxRk1qR3ZBaXlrZF8zbzJCbGZHNVVsb21kLUhSY3hlYnduRFQ1UHRQRXN0dkJpaGtOZUFfdkJIZ2IyeG14bGp4TVY5bUl4NVM1eU5SOHhaX3d6Q3lLNmU3blVicQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYn
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- ChatGPT-maker OpenAI launches Teen Safety Blueprint for India, focuses on 'safety' over 'privacy' - Times of India
+  ChatGPT-maker OpenAI launches Teen Safety Blueprint for India
+  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPaTh0VEhySVpfY2Yxb1FjTy1KM19tN3ppcGZ2SEo4OFRTMFNobF8xb1VDTm95eEhhSE1NdG9qd3FIMXF4T2RYVktvVTNwSnVoVDBpZkd1RGNNV3ZmSjM0YnhKaktyTFpfS0VfU0pGZjdTbnZRU0xXTTU0MVd1RWVYSDBVT1JJYlhwOGxpTy1oWkNKNWsyVVhYRGRsVE1tMVlMMmNWMFRIQkJEWGFtMVJUMzJDM2dvSno1M204NFVIYVB1WFNweEw1VGdyNmpFdkFOTWJZc1NXa2U5Q09IM0JzRVJld0d4SWVzUWdIT3ZWZmxsX2p3c1VFNGVxTnAzM05wa2Y5bkprUEtqOUg0VGc4b3dHV3BDdFhMb2hibmo3WHNLN3FQU0hrc9IBrgJBVV95cUxNN1pnT2VvZGlPMHFCN3VwS2E1dUt6Z3FZSDlSdzBDQTdlR2hKMkRCQ3N4VWszdVN5QkNyRHlZWDEyOWdBTUUzZXlNbFlOZVlDdnVlemRERWxtMmdhcUFfNGxwY2dQZkJpSXJwRDZMT0g2Ykt4ZHNLWHNvaTUyRVRLLWFHWDlQZE5wT3ItZF9ERThQOFF0bURPVkNoLUFTNHBGWEZLYWo1dWdmRkpGWTViSFNaX25aODhBbXp6bjFTcVZqaGRYckpYUmphdUhfV1gzM2xvQ1NNdVJBaEl3aEpZdTJzRldLZzNqLXhXd25TT25lbURIZy1nelk0UmFSM185UXAwbVZoaTFxVnBtd2ZKQUFnYUtST3d2bkozaFB0bkpfNmlON0pZb2d3Y3Qydw?oc=5
+
+- 39 Lakh Kg Cannabis Based Drugs Seized Across India Since 2020: Centre - NDTV
+  39 Lakh Kg Cannabis Based Drugs Seized
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3hFNFpIczJGX0Nac0RjUk5VMEhkVlBRQlExd3oyRTZHQW90VTg1ZjFHWEUwdXpnaWdkZFlOblI4RnlnVzlSbEdYbUdQV3UxSWV2MHZIMnp4QXpjTlhQZVpadXRMNGRXUHNUTW5qR3I2RVlHU3JxUVh2Ym1TWGtoZ21pYUNvVDl5dWk1aERMMExiUXJudnRJbjNwYkVkMi03TTRMOV9pUkhwWVhSdHRYSXNuVG5PcktqX041OWh6dkZnc0lRRnl1UGFQQl82QdIB1gFBVV95cUxNN3lJV1Q3c2ZCR3VzeTNqb1cyR1pSbWdiQVdweGFZNmJEOWppUTRXNU5wcWJhREZiOXp4ejFKbFNvS3ROUVktRHE5RW8zOXpDWHM0T0xhOXBCdFhpV3VjMEdmMlBuWFlka2liNDdhM0xBZVVNc3gxTno1NWVUSWVjbmFadmR3LXRQWjU1U3BuSG0yOGxVWUZNUFpjX19TYnRQdlQwNWUxalFVU2J4VVQ3WG5lSU8ycVVRdldkUUR2NmhkOHNteGtoa0VqeDc2ZmhRU096VE1n?oc=5
+
+- Maharashtra Cop Kills Wife's Lover, Drives 191 Km To Dispose Body, Arrested - NDTV
+  Maharashtra Cop Kills Wife's Lover, Dri
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2Ixa1hGaGVFZ1V3SmlDUjhFNXk0SmdPYnBKRUtWSFZzbDE5YjVzZTU5dUJqSExqdTZFMnh2Q2d2Wl94eXJieWExQ0V5cnZIYktCaW45eEVhU0N0T0xfMHlfQVJqYWxVbkFENGNlV3ZxSVZvVGxCLTRqcHNneU9yRzVrckRTb0pwZk9la1RPc2tNMVRXa1RCT3llTlVkMTdQMVctMC1DdVI2TUVjSDJJcnJvc9IBuwFBVV95cUxNcUlRTTZmbHdEZmloN1N5dHBZb3ZlT1REQ2luRlJZaUZ6VHFUYm5BRGhlMGJRMm5kZDh6YXBKNnBoY21MYmlrN0JMTlJpYk95VXFXcEJGSHQxZXJjV0p4Q3d2RGdITjhycGRCdlI4RzIwdUh2TFlKWjI0b2NwUndlYkczdm5sN0xiLXFST003c2dfRTdmdW5iSGRmUDhtVjdiLV9nY2J5WXZiQjVDMU1oVW9raE9XcW91RDFv?oc=5
+
+- Bharat Bandh on February 12: What’s open, what’s closed, and full list of affected services - The Hindu
+  Bharat Bandh on February 12: What’s open
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOandkd1RNMUxic0VER0VrWGo2U2FPU3JLanFzbGItTnFWZmZEZzd3eFdXR2hkNm5xeXJqUWx3LXFWaFR5NV96WFRRWnRaVWMzNFczV3J1UlZBcWdHTm9pU3B4QUhLSDN1VWluWkUwajB2QUcyUm5PYmFOSDVZb0lZWFZqZFVmcXRpSDdnVjlNek56b1N2VzFLYjFpeGFlT3Z3NGtzYTRpYmtGLW52RVlZRUhYOFVKM2VwWkpDZG5ucHRJdlZxLVNBRVdxSXdCMlU0bUJQWnpDbDVIUdIB4AFBVV95cUxNbEpkMGRyajVjcEhzbVh6X2hlMm95Sk9pd09JbmQwd25ublJUODR4UUZLcXM0RkJrM2V3UldSUzlzQ2hHZnZNWHNBNTV6OFVnMGI3eTRoQjdmMFhVRUtWMV9CTlQ2TWhKaVBZZUhPb1VtT09yd0JrVzNqazd6SzV6SGZibEtxRk1qR3ZBaXlrZF8zbzJCbGZHNVVsb21kLUhSY3hlYnduRFQ1UHRQRXN0dkJpaGtOZUFfdkJIZ2IyeG14bGp4TVY5bUl4NVM1eU5SOHhaX3d6Q3lLNmU3blVicQ?oc=5
+
+- US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYn
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
+
+- ChatGPT-maker OpenAI launches Teen Safety Blueprint for India, focuses on 'safety' over 'privacy' - Times of India
+  ChatGPT-maker OpenAI launches Teen Safety Blueprint for India
+  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPaTh0VEhySVpfY2Yxb1FjTy1KM19tN3ppcGZ2SEo4OFRTMFNobF8xb1VDTm95eEhhSE1NdG9qd3FIMXF4T2RYVktvVTNwSnVoVDBpZkd1RGNNV3ZmSjM0YnhKaktyTFpfS0VfU0pGZjdTbnZRU0xXTTU0MVd1RWVYSDBVT1JJYlhwOGxpTy1oWkNKNWsyVVhYRGRsVE1tMVlMMmNWMFRIQkJEWGFtMVJUMzJDM2dvSno1M204NFVIYVB1WFNweEw1VGdyNmpFdkFOTWJZc1NXa2U5Q09IM0JzRVJld0d4SWVzUWdIT3ZWZmxsX2p3c1VFNGVxTnAzM05wa2Y5bkprUEtqOUg0VGc4b3dHV3BDdFhMb2hibmo3WHNLN3FQU0hrc9IBrgJBVV95cUxNN1pnT2VvZGlPMHFCN3VwS2E1dUt6Z3FZSDlSdzBDQTdlR2hKMkRCQ3N4VWszdVN5QkNyRHlZWDEyOWdBTUUzZXlNbFlOZVlDdnVlemRERWxtMmdhcUFfNGxwY2dQZkJpSXJwRDZMT0g2Ykt4ZHNLWHNvaTUyRVRLLWFHWDlQZE5wT3ItZF9ERThQOFF0bURPVkNoLUFTNHBGWEZLYWo1dWdmRkpGWTViSFNaX25aODhBbXp6bjFTcVZqaGRYckpYUmphdUhfV1gzM2xvQ1NNdVJBaEl3aEpZdTJzRldLZzNqLXhXd25TT25lbURIZy1nelk0UmFSM185UXAwbVZoaTFxVnBtd2ZKQUFnYUtST3d2bkozaFB0bkpfNmlON0pZb2d3Y3Qydw?oc=5
+
+- 39 Lakh Kg Cannabis Based Drugs Seized Across India Since 2020: Centre - NDTV
+  39 Lakh Kg Cannabis Based Drugs Seized
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3hFNFpIczJGX0Nac0RjUk5VMEhkVlBRQlExd3oyRTZHQW90VTg1ZjFHWEUwdXpnaWdkZFlOblI4RnlnVzlSbEdYbUdQV3UxSWV2MHZIMnp4QXpjTlhQZVpadXRMNGRXUHNUTW5qR3I2RVlHU3JxUVh2Ym1TWGtoZ21pYUNvVDl5dWk1aERMMExiUXJudnRJbjNwYkVkMi03TTRMOV9pUkhwWVhSdHRYSXNuVG5PcktqX041OWh6dkZnc0lRRnl1UGFQQl82QdIB1gFBVV95cUxNN3lJV1Q3c2ZCR3VzeTNqb1cyR1pSbWdiQVdweGFZNmJEOWppUTRXNU5wcWJhREZiOXp4ejFKbFNvS3ROUVktRHE5RW8zOXpDWHM0T0xhOXBCdFhpV3VjMEdmMlBuWFlka2liNDdhM0xBZVVNc3gxTno1NWVUSWVjbmFadmR3LXRQWjU1U3BuSG0yOGxVWUZNUFpjX19TYnRQdlQwNWUxalFVU2J4VVQ3WG5lSU8ycVVRdldkUUR2NmhkOHNteGtoa0VqeDc2ZmhRU096VE1n?oc=5
+
+- Maharashtra Cop Kills Wife's Lover, Drives 191 Km To Dispose Body, Arrested - NDTV
+  Maharashtra Cop Kills Wife's Lover, Dri
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2Ixa1hGaGVFZ1V3SmlDUjhFNXk0SmdPYnBKRUtWSFZzbDE5YjVzZTU5dUJqSExqdTZFMnh2Q2d2Wl94eXJieWExQ0V5cnZIYktCaW45eEVhU0N0T0xfMHlfQVJqYWxVbkFENGNlV3ZxSVZvVGxCLTRqcHNneU9yRzVrckRTb0pwZk9la1RPc2tNMVRXa1RCT3llTlVkMTdQMVctMC1DdVI2TUVjSDJJcnJvc9IBuwFBVV95cUxNcUlRTTZmbHdEZmloN1N5dHBZb3ZlT1REQ2luRlJZaUZ6VHFUYm5BRGhlMGJRMm5kZDh6YXBKNnBoY21MYmlrN0JMTlJpYk95VXFXcEJGSHQxZXJjV0p4Q3d2RGdITjhycGRCdlI4RzIwdUh2TFlKWjI0b2NwUndlYkczdm5sN0xiLXFST003c2dfRTdmdW5iSGRmUDhtVjdiLV9nY2J5WXZiQjVDMU1oVW9raE9XcW91RDFv?oc=5
+
+- Bharat Bandh on February 12: What’s open, what’s closed, and full list of affected services - The Hindu
+  Bharat Bandh on February 12: What’s open
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOandkd1RNMUxic0VER0VrWGo2U2FPU3JLanFzbGItTnFWZmZEZzd3eFdXR2hkNm5xeXJqUWx3LXFWaFR5NV96WFRRWnRaVWMzNFczV3J1UlZBcWdHTm9pU3B4QUhLSDN1VWluWkUwajB2QUcyUm5PYmFOSDVZb0lZWFZqZFVmcXRpSDdnVjlNek56b1N2VzFLYjFpeGFlT3Z3NGtzYTRpYmtGLW52RVlZRUhYOFVKM2VwWkpDZG5ucHRJdlZxLVNBRVdxSXdCMlU0bUJQWnpDbDVIUdIB4AFBVV95cUxNbEpkMGRyajVjcEhzbVh6X2hlMm95Sk9pd09JbmQwd25ublJUODR4UUZLcXM0RkJrM2V3UldSUzlzQ2hHZnZNWHNBNTV6OFVnMGI3eTRoQjdmMFhVRUtWMV9CTlQ2TWhKaVBZZUhPb1VtT09yd0JrVzNqazd6SzV6SGZibEtxRk1qR3ZBaXlrZF8zbzJCbGZHNVVsb21kLUhSY3hlYnduRFQ1UHRQRXN0dkJpaGtOZUFfdkJIZ2IyeG14bGp4TVY5bUl4NVM1eU5SOHhaX3d6Q3lLNmU3blVicQ?oc=5
+
+- Five ways quantum technology could shape everyday life - Phys.org
+   quantum technology could shape everyday life
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE91dTI4ZTB4YTY2aTlwUXY1U3ZYcWItcHJLSVd4cG1UVzFFSjRDVzBNa0dhRkdUS3ZVYVdxYkE4ajBfZ3huRGRDbHkwZjJpNnFrR2NyZnRHUDhTVlVGUGt2ZFR2d2JrTUFTaTh6ZDZNeWw2TDZ5N0JRU05RTnM?oc=5
+
+- The Hindu Group to host two-day Tech Summit on Feb 12, 13 - The Hindu
+  The Hindu Group to host two-day Tech Summit on
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOV1NqSXJfOFI0cFlDV1J4SjY5bzJ0bF9paWNtbktzZlBMWTJ5Q2ZvVllIeW5WWDRNYW9KdFRad2pWSHRlbWJfY2JLMW9Pa2h2NTM0V0tQTXVmQXNneEtsaDJLcnFkX1RRSVgtSDE5cm5yTnV2NFN3QTJ5REZvOFdINjlwME9SNk82UDlVZWwxNklUMWkwb2l2ZzlBZFRNcExKWFJCaVE1X2twSnhXXzN3WjF5YkhJYXQwUF9PTHRR0gHEAUFVX3lxTE1DSDdoRm94eFZhNjhxd3pJVjJSR3g0ZkxURk54RGw5ZElMbzAwdTZoTlBBMUduQ0JVcHRHYm1NQVA5VVM3dDhhMUJJRFpWVlowUUNKYnRHcXBmSUVBUmZrTDhzcllfakRIZWFWY19jcVNNLXFvNmlyMmFNbFoxdEhtRDlwRTZRRVdCTS1xT2tJNzZDUzlhMjZ5S1hfNDl1NlRsZE50aXpoZTFfOHZtWVlZOHQzUWhvN0ZiLUZZckZRV1JQbVY?oc=5
+
+- Aatmanirbhar Push: India Becomes 7th Nation to Crack Gallium Nitride Chip Technology - sify.com
+  Aatmanirbhar Push: India Bec
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPR3ZzcGlnQlQ0VDd4UFBIckgta2lGVFFwY2lHOFJfNkgxeXFOa1dIdUYyNzBsM0ROVFM3bDJnbVZnUXU3Qkpyb0ZOai1tb2JwMlYtOFJ2WV9pSjlHTkRKNGgtLWY1RWo3VXVTMU1lV1o1d203b3hia0NkaG85bUNWYTVQaUVfcjg5R08wcjFuV1dnM242U2wwMEhxc0psaWhRMUNRcVFWdExNUFItYk5ndkRTZXEtQUk?oc=5
+
+- Daily: Downgrading US information technology - UBS
+  &nbsp
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQSlc0bXB5dFk2eVZVcVFEYUFhelNzdE9NVV8tenNWdDBENEZmekJ2dVg4TGVsOXVmTFZubU5ybDI0NU0tei1ld0l3Wm1HNUljRVEwbDFNSUZieU1hYm42UUd0VnQyNzRnUEFVTEduWU9Gbm4wOF9HaFRxd2ZCNnZYeDl1LWZIU2drc0VCNWxIaUdQSEE0bzVsYXZUMHZfVE42RVhicDdodTVBV0lPREIzNDJGLVZIYWkyRWlPZzVIZw?oc=5
+
+- Making AI Work, MIT Technology Review’s new AI newsletter, is here - MIT Technology Review
+  Making AI Work, MIT Technology Review’s new
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXV1NTdKa0RyR2RKZ0Q5VTY4ZkdBRm12R1A3MWlsVVVUX2ZFQkpKaEsxbk9nWXh1LUNvWTdfb2NUZjZDY1NrN0hmWnU2SEt6cEZObVk2a3dTVXVWNDZPUVJ0Mzc5SV9vSnpLOXFFNk5HdnhwcW5iUXBzdFhYNTR1Znh3YlplVmRtdmUycmZCZEtIaFhoTlJZ0gGcAUFVX3lxTFBkM0pnMGRvWkRSOXpYa3VEZHFzMnlwMFFiX01paG90WjJiNF92ZGJfVGJaUWUwRUlkNUczRTNOOHhYbmg3bGFkeHlkSUR0b0Z4WVAzMGZNQVZqcnFaNXRrb3Nzc29IblhrLXZEb0RmdmRpWlJta21SdkpDdHlmcmJMdnVaOXZSa2tvNWs5UU4tbzMyMG90SEMteE1NbQ?oc=5
 
 
-_Last updated: 2026-02-11 13:01:52 UTC_
+_Last updated: 2026-02-11 19:00:44 UTC_
