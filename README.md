@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- ‘Let us consider the last two years a nightmare’: New Manipur CM visits relief camp in Jiribam district
+- Behind Madhya Pradesh cough syrup deaths: Bad batch, compromised system, a phone call
   
-  🔗 https://indianexpress.com/article/india/last-two-years-a-nightmare-manipur-cm-visits-relief-camp-in-jiribam-district-10527316/
+  🔗 https://indianexpress.com/article/india/behind-madhya-pradesh-cough-syrup-deaths-bad-batch-compromised-system-a-phone-call-10527528/
 
-- ‘Bijli, sadak, paani’: Key takeaways from Rajasthan’s Rs 6 lakh crore budget
+- Buffoonery, smear campaign: Puri hits out at Rahul’s Epstein remark
   
-  🔗 https://indianexpress.com/article/india/key-takeaways-from-rajasthan-rs-6-lakh-crore-budget-10527249/
+  🔗 https://indianexpress.com/article/india/buffoonery-smear-campaign-hardeep-singh-puri-hits-out-at-rahul-gandhis-epstein-remark-10527509/
 
-- A family feud, a court plea and a daylight shooting: The chilling murder of Dehradun businessman
+- Rahul slams Govt over US deal; He is misleading House, will file privilege notice, says Rijiju
   
-  🔗 https://indianexpress.com/article/india/family-feud-court-plea-daylight-shooting-chilling-murder-dehradun-businessman-10527231/
+  🔗 https://indianexpress.com/article/india/rahul-slams-govt-over-us-deal-he-is-misleading-house-will-file-privilege-notice-says-rijiju-10527500/
 
-- 28 years after nod, Kerala’s Sabari Rail project gains momentum as state govt begins land acquisition process
+- Sitharaman counters LoP on farmers, food security & data
   
-  🔗 https://indianexpress.com/article/india/28-years-nod-kerala-sabari-rail-project-momentum-state-govt-land-acquisition-10527181/
+  🔗 https://indianexpress.com/article/india/sitharaman-counters-lop-rahul-gandhi-on-farmers-food-security-data-10527492/
 
-- Red-faced over shooting video, Assam BJP now claims post was ‘unauthorised’, sacks social media man
+- Decline in number of Indians going abroad for studies, says Govt
   
-  🔗 https://indianexpress.com/article/india/red-faced-shooting-video-assam-bjp-post-unauthorised-sacks-social-media-man-10527084/
+  🔗 https://indianexpress.com/article/india/decline-in-number-of-indians-going-abroad-for-studies-says-govt-10527590/
+
+- Elon Musk wants to build an AI satellite factory on the Moon
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/elon-musk-wants-to-build-an-ai-satellite-factory-on-the-moon-10527450/
 
 - Ultra-thin kagome metal films could power next-generation electronics
   
@@ -36,49 +40,57 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/ethics-precedes-regulation-hugging-faces-margaret-mitchell-10526945/
 
-- Nasa’s Perseverance rover drives on Mars using AI-planned routes
-  
-  🔗 https://indianexpress.com/article/technology/science/nasas-perseverance-rover-drives-on-mars-using-ai-planned-routes-10526908/
+- Toyota issues another recall in US for over 141,000 vehicles affected by door defect — Here's all we know
+  Toyota has recalled more than 141,000 vehicles due to a door defect. The National Highway Traffic Safety Administration notified of an issue with
+  🔗 https://www.livemint.com/companies/news/toyota-motor-issues-another-recall-us-more-than-141000-vehicles-affected-door-defect-injury-risk-short-circuit-details-11770858518215.html
 
-- Federal Reserve to Drop Some Prior Demands on Banks to Fix Flaws
-  The Federal Reserve has signaled to lenders it plans to abandon some of the confidential warnings it previously sent them to improve operations. Vice Chair Michelle Bowman continues to relax the central bank
-  🔗 https://www.livemint.com/companies/federal-reserve-to-drop-some-prior-demands-on-banks-to-fix-flaws-11770835579308.html
+- W Health Ventures to take bigger, bolder bets in healthcare: Pankaj Jethwani
+  The fund is about 87% subscribed, and the firm hopes to announce the final close shortly. The firm on Thursday announced the initial close of Fund II
+  🔗 https://www.livemint.com/companies/news/w-health-ventures-to-take-bigger-bolder-bets-in-healthcare-pankaj-jethwani-11770819132854.html
 
-- Buoyed by profit surge, Lenskart to go big on AI investments
-  Lenskart said the December quarter reflected strong momentum in the vision correction category.
-  🔗 https://www.livemint.com/companies/lenskart-ai-technology-investments-propel-profit-surge-premiumization-strategy-11770817011271.html
+- Nandan Nilekani's Fundamentum targets more fintech investments as ecosystem matures
+  Fundamentum is increasing its fintech exposure in its upcoming third fund.
+  🔗 https://www.livemint.com/companies/news/nandan-nilekanis-fundamentum-targets-more-fintech-investments-as-market-matures-11770800958954.html
 
-- M&amp;M Q3 revenue inches past  ₹50,000 crore as all businesses fire
-  M&amp;amp;M plans a European SUV push and a revival of tractor
-  🔗 https://www.livemint.com/companies/mm-q3-revenue-inches-past-50-000-crore-as-all-businesses-fire-11770816358785.html
+- Thoma Bravo Seeks Software Bargains in Ongoing SaaSpocalypse
+  Thoma Bravo is ready to take advantage of the panic in the software selloff.
+  🔗 https://www.livemint.com/companies/thoma-bravo-seeks-software-bargains-in-ongoing-saaspocalypse-11770836925811.html
 
-- Binance founder Changpeng Zhao says he sold his Shanghai home to buy Bitcoin at $600 while job hunting
-  Changpeng Zhao sold his apartment to buy Bitcoin early in his career. He later founded the crypto platform
-  🔗 https://www.livemint.com/companies/people/binance-founder-changpeng-zhao-says-he-sold-his-shanghai-home-to-buy-bitcoin-at-600-while-job-hunting-11770819390340.html
+- Private Companies Are Deferring Loan Payments at a Higher Rate
+  The share of private equity-backed companies that deferred cash interest payments ticked higher for a third consecutive quarter.
+  🔗 https://www.livemint.com/companies/private-companies-are-deferring-loan-payments-at-a-higher-rate-11770836372497.html
 
-- Kraft Heinz shelves split plans after missing growth expectations, CEO Cahillane says challenges ‘within our control’
-  Kraft Heinz paused its split plans, sending shares down 6%. CEO Cahillane plans to enhance profitability through a $600 million investment in marketing and R
-  🔗 https://www.livemint.com/companies/news/kraft-heinz-shelves-split-plans-after-missing-growth-expectations-ceo-cahillane-says-challenges-within-our-control-11770821172144.html
+- Indian stock market: 10 key things that changed for market overnight - Gift Nifty, US nonfarm payrolls to gold prices
+  Gift Nifty was trading around 25,995 level, a premium of nearly 1 point from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-10-key-things-that-changed-for-market-overnight-gift-nifty-us-nonfarm-payrolls-to-gold-prices-11770825986981.html
 
-- European Stocks Inch Higher as Siemens Energy Hits All-Time Peak
-  Software firm Dassault Systemes SE tumbled 20% as its outlook disappointed. Siemens Energy AG and
-  🔗 https://www.livemint.com/market/european-stocks-inch-higher-as-siemens-energy-hits-all-time-peak-11770834713780.html
+- Global markets today: Japan's Nikkei 225 tops 58,000 mark for the first time ever
+  Japan's Nikkei surged to new record high of 58,000 for the first time.
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-japans-nikkei-225-tops-58-000-mark-for-the-first-time-ever-11770859714510.html
 
-- European Stocks Gain as Siemens Energy Hits Record on Earnings
-  Software firm Dassault Systemes SE tumbled 20% as its outlook disappointed.
-  🔗 https://www.livemint.com/market/european-stocks-gain-as-siemens-energy-hits-record-on-earnings-11770834713276.html
+- Mahindra bets on an integrated mega-hub to unlock Toyota-style economics. Will it pay off?
+  By abandoning its legacy of fragmented plants for a single multi-energy hub in Maharashtra, Mahindra is betting  ₹15,000 crore on the ability
+  🔗 https://www.livemint.com/market/stock-market-news/mahindra-maharashtra-investment-mahindra-nagpur-plant-11770815069557.html
 
-- Bond yield spike won’t shake PSU banks' fundamentals; core growth remains key, says Anil Rego of Right Horizons PMS
-   PSU banks are better positioned to handle volatility due to stronger balance sheets and credit growth. Higher-than-expected government borrowing may keep bond yields firm.
-  🔗 https://www.livemint.com/market/stock-market-news/bond-yield-spike-won-t-shake-psu-banks-fundamentals-core-growth-remains-key-says-anil-rego-of-right-horizons-pms-11770823683627.html
+- Gold, silver rates today: Gold prices retreat to $5,000, silver prices fall 2% to $82. What should investors do?
+  Spot gold prices fell marginally to $5,080 per ounce; meanwhile, spot silver prices plunged 2% to $
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-prices-retreat-to-5-000-silver-prices-fall-2-to-82-what-should-investors-do-11770857408986.html
 
-- Dow Jones, S&amp;P 500, Nasdaq rally as investors focus on January payroll data, 4.3% unemployment — Details here
-  Dow Jones, S&amp;amp;P 500, and Nasdaq rallied in the early market session on Wednesday. Investors focused on January payroll data and 4.3%
-  🔗 https://www.livemint.com/market/stock-market-news/dow-jones-s-p-500-nasdaq-rally-as-investors-focus-on-january-payroll-data-4-3-unemployment-details-here-11770821323576.html
+- ICICI Prudential AMC gets RBI nod buy 9.95% stake each in Federal Bank, IDFC First Bank, RBL Bank, four other lenders
+  ICICI Prudential Asset Management Company, along with group entities of ICICI Bank, received RBI nod to acquire an aggregate holding of up to 9.95% of the paid-up share capital or
+  🔗 https://www.livemint.com/market/stock-market-news/icici-prudential-amc-gets-rbi-nod-buy-9-95-stake-each-in-federal-bank-idfc-first-bank-rbl-bank-four-other-lenders-11770858508577.html
 
-- Gold, silver rates today: Comex gold jumps $113/oz; silver gains $6/oz after strong US jobs data
-  Gold and silver prices remained stable despite a positive US jobs report. January saw 130,000
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-113-oz-silver-gains-6-oz-after-strong-us-jobs-data-11770819336748.html
+- Big Tech’s spending spree is about far more than capex
+  Big Tech companies have long been cash-generating behemoths. The latest
+  🔗 https://www.livemint.com/technology/big-tech-s-spending-spree-is-about-far-more-than-capex-11770859895234.html
+
+- Instagram chief says he does not believe people can get clinically addicted to social media
+   Instagram chief says he does not believe people can get
+  🔗 https://www.livemint.com/technology/instagram-chief-says-he-does-not-believe-people-can-get-clinically-addicted-to-social-media-11770844591304.html
+
+- What is ByteDance’s Seedance 2.0? The cinematic AI video generator powered by text, image and audio inputs
+  Seedance 2.0’s beta launch suggests a shift from simple text-generated clips toward
+  🔗 https://www.livemint.com/technology/tech-news/what-is-bytedance-s-seedance-2-0-the-cinematic-ai-video-generator-powered-by-text-image-and-audio-inputs-11770841790004.html
 
 - Who is Amanda Askell? The philosopher Anthropic trusts to teach Claude AI morals and ‘how to be good’
   Amanda Askell is a key architect of ‘Constitutional AI’ Her role blends philosophy, AI safety and
@@ -88,177 +100,153 @@
   Google has begun rolling out Android 16 QPR3 Beta 2.1 to testers. The company also confirmed Android 17 Beta 1 is arriving soon for enrolled Pixel devices.
   🔗 https://www.livemint.com/technology/tech-news/google-prepares-android-17-beta-as-android-16-qpr3-testing-wraps-up-what-to-expect-11770829556415.html
 
-- AI-generated reels? Instagram reportedly tests personal likeness feature: What to expect
-  Instagram is reportedly developing an AI powered “Create my likeness” tool. The feature may also allow permission based use of others’ likenesses, positioning the platform as a potential
-  🔗 https://www.livemint.com/technology/tech-news/aigenerated-reels-instagram-reportedly-tests-personal-likeness-feature-what-to-expect-11770821163851.html
+- AIIL a bounce play; Coforge, Jubilant Food in downtrend, show tech charts
+  AIIL shows rebound potential near key support with 5 per cent upside target. Coforge and Jubilant Foodworks remain in
+  🔗 https://www.business-standard.com/markets/news/aiil-buy-call-coforge-jubilant-foodworks-stocks-to-sell-outlook-126021200078_1.html
 
-- Google rolls out easier way to request removal of explicit images from Search: How it works
-  Google has launched new tools that allow users to request the removal of sensitive and non-consensual explicit content from Search. The update simplifies reporting, supports multiple submissions, offers proactive filtering and lets
-  🔗 https://www.livemint.com/technology/tech-news/google-rolls-out-easier-way-to-request-removal-of-explicit-images-from-search-how-it-works-11770815246295.html
-
-- Battlefield 6 Season 2 drops new map, modes and major fixes: Launch date and all you need to know
-  Battlefield 6 Season 2 launches on 17 February with a new Contaminated map, limited-time narrative modes and major gameplay upgrades. EA is also improving progression, Battle
-  🔗 https://www.livemint.com/technology/tech-news/battlefield-6-season-2-drops-new-map-modes-and-major-fixes-launch-date-and-all-you-need-to-know-11770811181199.html
+- Nifty outlook: Index to consolidate; Ajit Mishra suggests 3 stocks to buy
+  Ajit Mishra recommends Glenmark Pharma, Nippon Life and TVS Motor as stocks to buy today.
+  🔗 https://www.business-standard.com/markets/news/nifty-outlook-feb-12-glenmark-nippon-life-tvs-buy-recommendations-126021200071_1.html
 
 - IndoStar Capital Finance allots 798 equity shares under ESOP
   
   🔗 https://www.business-standard.com/markets/capital-market-news/indostar-capital-finance-allots-798-equity-shares-under-esop-126021101615_1.html
 
+- Linde seeks shareholder approval for ₹417 cr RPTs with Praxair India
+  Linde India schedules March 5 EGM to seek shareholder approval for Rs 417.
+  🔗 https://www.business-standard.com/companies/news/linde-seeks-shareholder-approval-for-rpt-with-praxair-126021101576_1.html
+
 - Kernex Microsystems wins order of Rs 411 cr from Banaras Locomotive Works
   
   🔗 https://www.business-standard.com/markets/capital-market-news/kernex-microsystems-wins-order-of-rs-411-cr-from-banaras-locomotive-works-126021101562_1.html
 
-- Ganges Securities consolidated net profit rises 82.50% in the December 2025 quarter
-  Sales decline
-  🔗 https://www.business-standard.com/markets/capital-market-news/ganges-securities-consolidated-net-profit-rises-82-50-in-the-december-2025-quarter-126021101446_1.html
+- Oil prices rise on concerns about US-Iran tensions
+  Both Brent crude and U.S. West Texas Intermediate futures climbed in response, following a positive close the previous day. Investor anxiety surrounding geopolitical tensions is dominating the market sentiment.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-on-concerns-about-us-iran-tensions/articleshow/128232854.cms
 
-- Megri Soft consolidated net profit declines 25.00% in the December 2025 quarter
-  Sales decline
-  🔗 https://www.business-standard.com/markets/capital-market-news/megri-soft-consolidated-net-profit-declines-25-00-in-the-december-2025-quarter-126021101445_1.html
+- Market quote of the day by Peter Lynch | “More money has been lost preparing for corrections than in corrections themselves.”
+  Peter Lynch's wisdom suggests that excessive preparation for market corrections can be more detrimental than the corrections themselves. Investors often lose more by prematurely selling or holding too much cash, missing out on subsequent market recoveries and long-term growth.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-peter-lynch-more-money-has-been-lost-preparing-for-corrections-than-in-corrections-themselves-/articleshow/128232899.cms
 
-- Ircon International consolidated net profit rises 16.25% in the December 2025 quarter
-  Sales decline
-  🔗 https://www.business-standard.com/markets/capital-market-news/ircon-international-consolidated-net-profit-rises-16-25-in-the-december-2025-quarter-126021101444_1.html
+- GIFT Nifty up 25 points; here's the trading setup for today's session
+  Indian benchmark indices ended the February 11 session nearly flat, trading in a narrow range. Analysts noted a bearish candle with a positive bias near the 26,000 mark, suggesting consolidation. The technical setup remains bullish
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128232286.cms
 
-- Patanjali Foods Q3 Results: PAT surges 60% YoY to Rs 594 crore, sees strong FY26 on GST tailwinds
-  Patanjali Foods witnessed a robust 60% surge in net profit to Rs 594 crore for the December quarter, with revenue climbing 17% to Rs 10,484 crore. This marks their highest Q3 revenue ever.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/patanjali-foods-q3-results-pat-surges-60-yoy-to-rs-594-crore-sees-strong-fy26-on-gst-tailwinds/articleshow/128215653.cms
+- Stocks in news: HUL, HAL, Lenskart, BHEL, Ather Energy, Bharti Airtel
+   Markets traded lacklustre, ending almost unchanged after a recent surge. Several companies like HUL, HAL, and Bharti Airtel were in focus due to Q3 results and news developments.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hul-hal-lenskart-bhel-ather-energy-bharti-airtel/articleshow/128232178.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Thursday
-  Nifty extends gains for a fourth day while Sensex edged lower. Analysts see bullish momentum above key support levels. Global cues were mixed, with US optimism and subdued European trends.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/128214605.cms
-
-- Morgan Stanley, Goldman Sachs pick multibagger Ather Energy via block deals; NIIF sells Rs 233 cr stake
-  Morgan Stanley and Goldman Sachs acquired shares in Ather Energy through block deals worth Rs 233 crore. NIIF sold over 33.78 lakh shares. Several mutual funds also bought stakes.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/morgan-stanley-goldman-sachs-pick-multibagger-ather-energy-via-block-deals-niif-sells-rs-233-cr-stake/articleshow/128214121.cms
-
-- US stocks wobble after feeling both the upside and downside of a strong jobs report
-  U.S. stocks neared a record high Wednesday after a jobs report showed unexpected improvement. Treasury yields climbed as traders adjusted expectations for Federal Reserve interest rate cuts.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stocks-gain-after-stronger-than-expected-jobs-report/articleshow/128212392.cms
-
-- Market Trading Guide: Craftsman Automation and Laurus Labs offer up to 12% upside
-  Nifty ended flat but extended gains, with technical indicators signaling a bullish bias above key support. Analysts highlight Craftsman Automation and Laurus Labs as buy ideas
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-craftsman-automation-and-laurus-labs-offer-up-to-12-upside/articleshow/128212324.cms
+- Global Market Today: Asian stocks rise, Treasuries fall after strong US jobs data
+  Asian equities reached a record high, outperforming US markets due to attractive valuations and robust growth prospects. This surge occurred as Treasuries declined following stronger-than-expected US jobs data.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-treasuries-fall-after-strong-us-jobs-data/articleshow/128232064.cms
 
 - US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYn
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
 
-- ChatGPT-maker OpenAI launches Teen Safety Blueprint for India, focuses on 'safety' over 'privacy' - Times of India
-  ChatGPT-maker OpenAI launches Teen Safety Blueprint for India
-  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPaTh0VEhySVpfY2Yxb1FjTy1KM19tN3ppcGZ2SEo4OFRTMFNobF8xb1VDTm95eEhhSE1NdG9qd3FIMXF4T2RYVktvVTNwSnVoVDBpZkd1RGNNV3ZmSjM0YnhKaktyTFpfS0VfU0pGZjdTbnZRU0xXTTU0MVd1RWVYSDBVT1JJYlhwOGxpTy1oWkNKNWsyVVhYRGRsVE1tMVlMMmNWMFRIQkJEWGFtMVJUMzJDM2dvSno1M204NFVIYVB1WFNweEw1VGdyNmpFdkFOTWJZc1NXa2U5Q09IM0JzRVJld0d4SWVzUWdIT3ZWZmxsX2p3c1VFNGVxTnAzM05wa2Y5bkprUEtqOUg0VGc4b3dHV3BDdFhMb2hibmo3WHNLN3FQU0hrc9IBrgJBVV95cUxNN1pnT2VvZGlPMHFCN3VwS2E1dUt6Z3FZSDlSdzBDQTdlR2hKMkRCQ3N4VWszdVN5QkNyRHlZWDEyOWdBTUUzZXlNbFlOZVlDdnVlemRERWxtMmdhcUFfNGxwY2dQZkJpSXJwRDZMT0g2Ykt4ZHNLWHNvaTUyRVRLLWFHWDlQZE5wT3ItZF9ERThQOFF0bURPVkNoLUFTNHBGWEZLYWo1dWdmRkpGWTViSFNaX25aODhBbXp6bjFTcVZqaGRYckpYUmphdUhfV1gzM2xvQ1NNdVJBaEl3aEpZdTJzRldLZzNqLXhXd25TT25lbURIZy1nelk0UmFSM185UXAwbVZoaTFxVnBtd2ZKQUFnYUtST3d2bkozaFB0bkpfNmlON0pZb2d3Y3Qydw?oc=5
+- Antimicrobial resistance: Charles Darwin was right; India’s drug policy isn’t - The Hindu
+  The Hindu has published a series of articles on
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNZGlzcl9vMG1Wbmk1Z2lsOVloM3J2RWtoVGVwZjFsYkg2TThRQmQ3UWF4bFhHUTZkMGo3VEUycnB0S3lNWmZPWFd5ZUZvNEpDZUozN1FzdlYzcGVjcXZPeG5wSUx5SjY1c01vdEl3eHBKcU50dEg1S0RMVUVsUzdBTVBLMHFCdzduemxoOEJoaW5DYlJOMWJRem5EaVNiM0FrZDFjRU51bFdESk5kNWRBRkRKS2VGdzFqemttSXR4X3VPX1ZC0gHLAUFVX3lxTE9wY2N2SkF5Uy1mbktYLXY2WEdvbUFaQW1mWkpmTVdQazByUXNCekNQTXB2N2lZM2dCSklCYUlzRWNwdUV2S1pldjRRLXc0Qlc4bV9Hck5OOTVLeDQ4eEdZemk2QnRvSi1yT0dIZmVieDBPUVVWOXlhNHRfelJFY3Q4OVd5MjJPeDZNdUtLWTkzRTJYOVBJZ1pFZnM0blI4ZHBxRUplb1NiN3hUSHhDaG5vZHBLRlZ3dGx2dnkzYUNCbUo4MVJGUmwtZXhj?oc=5
 
-- 39 Lakh Kg Cannabis Based Drugs Seized Across India Since 2020: Centre - NDTV
-  39 Lakh Kg Cannabis Based Drugs Seized
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3hFNFpIczJGX0Nac0RjUk5VMEhkVlBRQlExd3oyRTZHQW90VTg1ZjFHWEUwdXpnaWdkZFlOblI4RnlnVzlSbEdYbUdQV3UxSWV2MHZIMnp4QXpjTlhQZVpadXRMNGRXUHNUTW5qR3I2RVlHU3JxUVh2Ym1TWGtoZ21pYUNvVDl5dWk1aERMMExiUXJudnRJbjNwYkVkMi03TTRMOV9pUkhwWVhSdHRYSXNuVG5PcktqX041OWh6dkZnc0lRRnl1UGFQQl82QdIB1gFBVV95cUxNN3lJV1Q3c2ZCR3VzeTNqb1cyR1pSbWdiQVdweGFZNmJEOWppUTRXNU5wcWJhREZiOXp4ejFKbFNvS3ROUVktRHE5RW8zOXpDWHM0T0xhOXBCdFhpV3VjMEdmMlBuWFlka2liNDdhM0xBZVVNc3gxTno1NWVUSWVjbmFadmR3LXRQWjU1U3BuSG0yOGxVWUZNUFpjX19TYnRQdlQwNWUxalFVU2J4VVQ3WG5lSU8ycVVRdldkUUR2NmhkOHNteGtoa0VqeDc2ZmhRU096VE1n?oc=5
+- Jasprit Bumrah yorker hits Ishan Kishan, Sanju Samson on standby for Abhishek Sharma - Times of India
+  Jasprit Bumrah yorker hits Ishan K
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVElpWWNISVVoQW5Mc3R2YllHOTFOMC1KNHBDSVdfS2gwYS1WaDJvNGpHakExWkFXcHNTNm5KcFZSSDJ2RzhIQkNqN1pBdGprUFJqSGVVUEd3aDFXTlpPZkRCZWdFdUg4V3dMdGhwM2NUM3Q0QUZvd2FxaGJRMmd2VzZ3RGFpWFdYRC1hTUdQRDFHRUltczR1WUpURjdEY1FGMFlMa2ZoSXlXdHNxbUdOUGctQ2RoOVV1WDhsWGlNNmpnbUJsamwxang3Q2Fic2xXSjlvMlMzRzgyR2tUVVo2b1diWTduWFV3WGpCU1lIdmhpUGNISi1Uaw?oc=5
 
-- Maharashtra Cop Kills Wife's Lover, Drives 191 Km To Dispose Body, Arrested - NDTV
-  Maharashtra Cop Kills Wife's Lover, Dri
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2Ixa1hGaGVFZ1V3SmlDUjhFNXk0SmdPYnBKRUtWSFZzbDE5YjVzZTU5dUJqSExqdTZFMnh2Q2d2Wl94eXJieWExQ0V5cnZIYktCaW45eEVhU0N0T0xfMHlfQVJqYWxVbkFENGNlV3ZxSVZvVGxCLTRqcHNneU9yRzVrckRTb0pwZk9la1RPc2tNMVRXa1RCT3llTlVkMTdQMVctMC1DdVI2TUVjSDJJcnJvc9IBuwFBVV95cUxNcUlRTTZmbHdEZmloN1N5dHBZb3ZlT1REQ2luRlJZaUZ6VHFUYm5BRGhlMGJRMm5kZDh6YXBKNnBoY21MYmlrN0JMTlJpYk95VXFXcEJGSHQxZXJjV0p4Q3d2RGdITjhycGRCdlI4RzIwdUh2TFlKWjI0b2NwUndlYkczdm5sN0xiLXFST003c2dfRTdmdW5iSGRmUDhtVjdiLV9nY2J5WXZiQjVDMU1oVW9raE9XcW91RDFv?oc=5
+- SC puts on hold advocate's 2 talaq-e-hasan attempts - Times of India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNZzAzWl94VTRISFNlTnVuT1FGeWhWaDI0cFJhVEE3MTk1U2IxMk04S0I5eDFRa1Q5Yng2WnVza2lUZm1zVjdwUDhpdnZwQ3FqU2tqVWdrTG5SQnlYWFhSUFBfMW5wTk5QVWx4OVRqREZNQlRTMzliTjA2dW1JRG51WldIdG5SVlc2dy1vaGktYkVYVEhHazM4cWotM3U1aGt1UE9LSFFpZEUwMHJjQWFsaEUxNWdJckJjc1HSAb8BQVVfeXFMTjFTYzhwOXhiNlh2d1NzVGFsQk9pMEFkbHhUdGJCcnZmSnp2Z0VLOWU1cHdEMDRaN3FybzR1ZF82bUtwaS0wRzlpZzFWVkVCUU0yNDhTdUFzSlVFamQyWmRwNENjb3NXLUZYTjdiSWlaRllkdlFjX1ZvSlgybVJLMl9jSlVzclhNQ1ZNMzVmZEQybzJEVGFTcnNDc3BjSl9DU1NSRjV4OWlnQU1JUVlYZmQ1dXNYSkdzdzVHRmdKdFU?oc=5
 
-- Bharat Bandh on February 12: What’s open, what’s closed, and full list of affected services - The Hindu
-  Bharat Bandh on February 12: What’s open
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOandkd1RNMUxic0VER0VrWGo2U2FPU3JLanFzbGItTnFWZmZEZzd3eFdXR2hkNm5xeXJqUWx3LXFWaFR5NV96WFRRWnRaVWMzNFczV3J1UlZBcWdHTm9pU3B4QUhLSDN1VWluWkUwajB2QUcyUm5PYmFOSDVZb0lZWFZqZFVmcXRpSDdnVjlNek56b1N2VzFLYjFpeGFlT3Z3NGtzYTRpYmtGLW52RVlZRUhYOFVKM2VwWkpDZG5ucHRJdlZxLVNBRVdxSXdCMlU0bUJQWnpDbDVIUdIB4AFBVV95cUxNbEpkMGRyajVjcEhzbVh6X2hlMm95Sk9pd09JbmQwd25ublJUODR4UUZLcXM0RkJrM2V3UldSUzlzQ2hHZnZNWHNBNTV6OFVnMGI3eTRoQjdmMFhVRUtWMV9CTlQ2TWhKaVBZZUhPb1VtT09yd0JrVzNqazd6SzV6SGZibEtxRk1qR3ZBaXlrZF8zbzJCbGZHNVVsb21kLUhSY3hlYnduRFQ1UHRQRXN0dkJpaGtOZUFfdkJIZ2IyeG14bGp4TVY5bUl4NVM1eU5SOHhaX3d6Q3lLNmU3blVicQ?oc=5
-
-- US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYn
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
-
-- ChatGPT-maker OpenAI launches Teen Safety Blueprint for India, focuses on 'safety' over 'privacy' - Times of India
-  ChatGPT-maker OpenAI launches Teen Safety Blueprint for India
-  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPaTh0VEhySVpfY2Yxb1FjTy1KM19tN3ppcGZ2SEo4OFRTMFNobF8xb1VDTm95eEhhSE1NdG9qd3FIMXF4T2RYVktvVTNwSnVoVDBpZkd1RGNNV3ZmSjM0YnhKaktyTFpfS0VfU0pGZjdTbnZRU0xXTTU0MVd1RWVYSDBVT1JJYlhwOGxpTy1oWkNKNWsyVVhYRGRsVE1tMVlMMmNWMFRIQkJEWGFtMVJUMzJDM2dvSno1M204NFVIYVB1WFNweEw1VGdyNmpFdkFOTWJZc1NXa2U5Q09IM0JzRVJld0d4SWVzUWdIT3ZWZmxsX2p3c1VFNGVxTnAzM05wa2Y5bkprUEtqOUg0VGc4b3dHV3BDdFhMb2hibmo3WHNLN3FQU0hrc9IBrgJBVV95cUxNN1pnT2VvZGlPMHFCN3VwS2E1dUt6Z3FZSDlSdzBDQTdlR2hKMkRCQ3N4VWszdVN5QkNyRHlZWDEyOWdBTUUzZXlNbFlOZVlDdnVlemRERWxtMmdhcUFfNGxwY2dQZkJpSXJwRDZMT0g2Ykt4ZHNLWHNvaTUyRVRLLWFHWDlQZE5wT3ItZF9ERThQOFF0bURPVkNoLUFTNHBGWEZLYWo1dWdmRkpGWTViSFNaX25aODhBbXp6bjFTcVZqaGRYckpYUmphdUhfV1gzM2xvQ1NNdVJBaEl3aEpZdTJzRldLZzNqLXhXd25TT25lbURIZy1nelk0UmFSM185UXAwbVZoaTFxVnBtd2ZKQUFnYUtST3d2bkozaFB0bkpfNmlON0pZb2d3Y3Qydw?oc=5
-
-- 39 Lakh Kg Cannabis Based Drugs Seized Across India Since 2020: Centre - NDTV
-  39 Lakh Kg Cannabis Based Drugs Seized
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3hFNFpIczJGX0Nac0RjUk5VMEhkVlBRQlExd3oyRTZHQW90VTg1ZjFHWEUwdXpnaWdkZFlOblI4RnlnVzlSbEdYbUdQV3UxSWV2MHZIMnp4QXpjTlhQZVpadXRMNGRXUHNUTW5qR3I2RVlHU3JxUVh2Ym1TWGtoZ21pYUNvVDl5dWk1aERMMExiUXJudnRJbjNwYkVkMi03TTRMOV9pUkhwWVhSdHRYSXNuVG5PcktqX041OWh6dkZnc0lRRnl1UGFQQl82QdIB1gFBVV95cUxNN3lJV1Q3c2ZCR3VzeTNqb1cyR1pSbWdiQVdweGFZNmJEOWppUTRXNU5wcWJhREZiOXp4ejFKbFNvS3ROUVktRHE5RW8zOXpDWHM0T0xhOXBCdFhpV3VjMEdmMlBuWFlka2liNDdhM0xBZVVNc3gxTno1NWVUSWVjbmFadmR3LXRQWjU1U3BuSG0yOGxVWUZNUFpjX19TYnRQdlQwNWUxalFVU2J4VVQ3WG5lSU8ycVVRdldkUUR2NmhkOHNteGtoa0VqeDc2ZmhRU096VE1n?oc=5
-
-- Maharashtra Cop Kills Wife's Lover, Drives 191 Km To Dispose Body, Arrested - NDTV
-  Maharashtra Cop Kills Wife's Lover, Dri
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2Ixa1hGaGVFZ1V3SmlDUjhFNXk0SmdPYnBKRUtWSFZzbDE5YjVzZTU5dUJqSExqdTZFMnh2Q2d2Wl94eXJieWExQ0V5cnZIYktCaW45eEVhU0N0T0xfMHlfQVJqYWxVbkFENGNlV3ZxSVZvVGxCLTRqcHNneU9yRzVrckRTb0pwZk9la1RPc2tNMVRXa1RCT3llTlVkMTdQMVctMC1DdVI2TUVjSDJJcnJvc9IBuwFBVV95cUxNcUlRTTZmbHdEZmloN1N5dHBZb3ZlT1REQ2luRlJZaUZ6VHFUYm5BRGhlMGJRMm5kZDh6YXBKNnBoY21MYmlrN0JMTlJpYk95VXFXcEJGSHQxZXJjV0p4Q3d2RGdITjhycGRCdlI4RzIwdUh2TFlKWjI0b2NwUndlYkczdm5sN0xiLXFST003c2dfRTdmdW5iSGRmUDhtVjdiLV9nY2J5WXZiQjVDMU1oVW9raE9XcW91RDFv?oc=5
-
-- Bharat Bandh on February 12: What’s open, what’s closed, and full list of affected services - The Hindu
-  Bharat Bandh on February 12: What’s open
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOandkd1RNMUxic0VER0VrWGo2U2FPU3JLanFzbGItTnFWZmZEZzd3eFdXR2hkNm5xeXJqUWx3LXFWaFR5NV96WFRRWnRaVWMzNFczV3J1UlZBcWdHTm9pU3B4QUhLSDN1VWluWkUwajB2QUcyUm5PYmFOSDVZb0lZWFZqZFVmcXRpSDdnVjlNek56b1N2VzFLYjFpeGFlT3Z3NGtzYTRpYmtGLW52RVlZRUhYOFVKM2VwWkpDZG5ucHRJdlZxLVNBRVdxSXdCMlU0bUJQWnpDbDVIUdIB4AFBVV95cUxNbEpkMGRyajVjcEhzbVh6X2hlMm95Sk9pd09JbmQwd25ublJUODR4UUZLcXM0RkJrM2V3UldSUzlzQ2hHZnZNWHNBNTV6OFVnMGI3eTRoQjdmMFhVRUtWMV9CTlQ2TWhKaVBZZUhPb1VtT09yd0JrVzNqazd6SzV6SGZibEtxRk1qR3ZBaXlrZF8zbzJCbGZHNVVsb21kLUhSY3hlYnduRFQ1UHRQRXN0dkJpaGtOZUFfdkJIZ2IyeG14bGp4TVY5bUl4NVM1eU5SOHhaX3d6Q3lLNmU3blVicQ?oc=5
+- Today News Headlines for School Assembly, February 12, 2026: French Prez India visit on Feb 17, ‘Right to Recall’ Neta law, Int’l Chess schedule - The Indian Express
+  The Indian Express is a leading newspaper in India. It is based in New Delhi and is published in English.
+  🔗 https://news.google.com/rss/articles/CBMiqwJBVV95cUxPdklRd3NDbHd1cWRvUEJOWHdJUHZ3cV9NNHV6dGdOU19ieW5MVDN6NUtodDRpRE5YOXZCckRGTG5kcnlSZGtzUkdEbzRublBUOUJfZE11UlNOWENtNFI4VXh5b25yNzZlNEpYTkNRYkFWdlQ2Mlo2ejV4TzRUUndBWlRvMVlTWjJ6UWNycDhGRWVRUHFub0xPeW1hOUdqUTZIcVhDUHJPdjVwZnJQamVMUHExYmtCYnY1bXd0VExKY1hhMUY0UjhseUlFcU1wUTIwUzhtcHRLc1hySHdWRWdJNkdMaXRhbDlDYmNpR1c0dGxQVmIzNE9DVVltdW1mZVJ0LU5pbm91bXhseDNlbFlyV1BTNW1femR1NWlad1l4blRUbWF2M05xSHdLZ9IBsgJBVV95cUxPNHEwUEtPd2JzZWh0MTdxa0ZQb1QzeUtyYXJOLTNDVXMtRmRiQzF1Y0FsYklodHlYQjhfSmVoV2J3R1pVNmJQa0h3SVBuNkNNUlBnZE9NZnNReGp2dkg2aEFVcDltRGp1dzJ0ZU11TDcwMTllTEQzT2lTc0VlREl0SzNmOUoxT1ZXVW5rc1FpcklybVRCaE9nMWRsRlNQUWRyNXEtd1JTWHctTlJicmF1eVRieDRlM0JobU1qdXlNOGs2Vy1hTV9PVEx1N1pnZkxqWU1rS3hydlptVXUzZmphRWU5S3Z4ZlVXZzB5R2x5WndrZFlmdWYzcUtzSkYtaTJoZGJfU1JIOUVxemRHUHhfY3pjVmdNSmhJZ3FTRUxFbERZNktLZy1veW9FcG91YXdJS2c?oc=5
 
 - US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYn
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
 
-- ChatGPT-maker OpenAI launches Teen Safety Blueprint for India, focuses on 'safety' over 'privacy' - Times of India
-  ChatGPT-maker OpenAI launches Teen Safety Blueprint for India
-  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPaTh0VEhySVpfY2Yxb1FjTy1KM19tN3ppcGZ2SEo4OFRTMFNobF8xb1VDTm95eEhhSE1NdG9qd3FIMXF4T2RYVktvVTNwSnVoVDBpZkd1RGNNV3ZmSjM0YnhKaktyTFpfS0VfU0pGZjdTbnZRU0xXTTU0MVd1RWVYSDBVT1JJYlhwOGxpTy1oWkNKNWsyVVhYRGRsVE1tMVlMMmNWMFRIQkJEWGFtMVJUMzJDM2dvSno1M204NFVIYVB1WFNweEw1VGdyNmpFdkFOTWJZc1NXa2U5Q09IM0JzRVJld0d4SWVzUWdIT3ZWZmxsX2p3c1VFNGVxTnAzM05wa2Y5bkprUEtqOUg0VGc4b3dHV3BDdFhMb2hibmo3WHNLN3FQU0hrc9IBrgJBVV95cUxNN1pnT2VvZGlPMHFCN3VwS2E1dUt6Z3FZSDlSdzBDQTdlR2hKMkRCQ3N4VWszdVN5QkNyRHlZWDEyOWdBTUUzZXlNbFlOZVlDdnVlemRERWxtMmdhcUFfNGxwY2dQZkJpSXJwRDZMT0g2Ykt4ZHNLWHNvaTUyRVRLLWFHWDlQZE5wT3ItZF9ERThQOFF0bURPVkNoLUFTNHBGWEZLYWo1dWdmRkpGWTViSFNaX25aODhBbXp6bjFTcVZqaGRYckpYUmphdUhfV1gzM2xvQ1NNdVJBaEl3aEpZdTJzRldLZzNqLXhXd25TT25lbURIZy1nelk0UmFSM185UXAwbVZoaTFxVnBtd2ZKQUFnYUtST3d2bkozaFB0bkpfNmlON0pZb2d3Y3Qydw?oc=5
+- Antimicrobial resistance: Charles Darwin was right; India’s drug policy isn’t - The Hindu
+  The Hindu has published a series of articles on
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNZGlzcl9vMG1Wbmk1Z2lsOVloM3J2RWtoVGVwZjFsYkg2TThRQmQ3UWF4bFhHUTZkMGo3VEUycnB0S3lNWmZPWFd5ZUZvNEpDZUozN1FzdlYzcGVjcXZPeG5wSUx5SjY1c01vdEl3eHBKcU50dEg1S0RMVUVsUzdBTVBLMHFCdzduemxoOEJoaW5DYlJOMWJRem5EaVNiM0FrZDFjRU51bFdESk5kNWRBRkRKS2VGdzFqemttSXR4X3VPX1ZC0gHLAUFVX3lxTE9wY2N2SkF5Uy1mbktYLXY2WEdvbUFaQW1mWkpmTVdQazByUXNCekNQTXB2N2lZM2dCSklCYUlzRWNwdUV2S1pldjRRLXc0Qlc4bV9Hck5OOTVLeDQ4eEdZemk2QnRvSi1yT0dIZmVieDBPUVVWOXlhNHRfelJFY3Q4OVd5MjJPeDZNdUtLWTkzRTJYOVBJZ1pFZnM0blI4ZHBxRUplb1NiN3hUSHhDaG5vZHBLRlZ3dGx2dnkzYUNCbUo4MVJGUmwtZXhj?oc=5
 
-- 39 Lakh Kg Cannabis Based Drugs Seized Across India Since 2020: Centre - NDTV
-  39 Lakh Kg Cannabis Based Drugs Seized
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3hFNFpIczJGX0Nac0RjUk5VMEhkVlBRQlExd3oyRTZHQW90VTg1ZjFHWEUwdXpnaWdkZFlOblI4RnlnVzlSbEdYbUdQV3UxSWV2MHZIMnp4QXpjTlhQZVpadXRMNGRXUHNUTW5qR3I2RVlHU3JxUVh2Ym1TWGtoZ21pYUNvVDl5dWk1aERMMExiUXJudnRJbjNwYkVkMi03TTRMOV9pUkhwWVhSdHRYSXNuVG5PcktqX041OWh6dkZnc0lRRnl1UGFQQl82QdIB1gFBVV95cUxNN3lJV1Q3c2ZCR3VzeTNqb1cyR1pSbWdiQVdweGFZNmJEOWppUTRXNU5wcWJhREZiOXp4ejFKbFNvS3ROUVktRHE5RW8zOXpDWHM0T0xhOXBCdFhpV3VjMEdmMlBuWFlka2liNDdhM0xBZVVNc3gxTno1NWVUSWVjbmFadmR3LXRQWjU1U3BuSG0yOGxVWUZNUFpjX19TYnRQdlQwNWUxalFVU2J4VVQ3WG5lSU8ycVVRdldkUUR2NmhkOHNteGtoa0VqeDc2ZmhRU096VE1n?oc=5
+- Jasprit Bumrah yorker hits Ishan Kishan, Sanju Samson on standby for Abhishek Sharma - Times of India
+  Jasprit Bumrah yorker hits Ishan K
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVElpWWNISVVoQW5Mc3R2YllHOTFOMC1KNHBDSVdfS2gwYS1WaDJvNGpHakExWkFXcHNTNm5KcFZSSDJ2RzhIQkNqN1pBdGprUFJqSGVVUEd3aDFXTlpPZkRCZWdFdUg4V3dMdGhwM2NUM3Q0QUZvd2FxaGJRMmd2VzZ3RGFpWFdYRC1hTUdQRDFHRUltczR1WUpURjdEY1FGMFlMa2ZoSXlXdHNxbUdOUGctQ2RoOVV1WDhsWGlNNmpnbUJsamwxang3Q2Fic2xXSjlvMlMzRzgyR2tUVVo2b1diWTduWFV3WGpCU1lIdmhpUGNISi1Uaw?oc=5
 
-- Maharashtra Cop Kills Wife's Lover, Drives 191 Km To Dispose Body, Arrested - NDTV
-  Maharashtra Cop Kills Wife's Lover, Dri
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2Ixa1hGaGVFZ1V3SmlDUjhFNXk0SmdPYnBKRUtWSFZzbDE5YjVzZTU5dUJqSExqdTZFMnh2Q2d2Wl94eXJieWExQ0V5cnZIYktCaW45eEVhU0N0T0xfMHlfQVJqYWxVbkFENGNlV3ZxSVZvVGxCLTRqcHNneU9yRzVrckRTb0pwZk9la1RPc2tNMVRXa1RCT3llTlVkMTdQMVctMC1DdVI2TUVjSDJJcnJvc9IBuwFBVV95cUxNcUlRTTZmbHdEZmloN1N5dHBZb3ZlT1REQ2luRlJZaUZ6VHFUYm5BRGhlMGJRMm5kZDh6YXBKNnBoY21MYmlrN0JMTlJpYk95VXFXcEJGSHQxZXJjV0p4Q3d2RGdITjhycGRCdlI4RzIwdUh2TFlKWjI0b2NwUndlYkczdm5sN0xiLXFST003c2dfRTdmdW5iSGRmUDhtVjdiLV9nY2J5WXZiQjVDMU1oVW9raE9XcW91RDFv?oc=5
+- SC puts on hold advocate's 2 talaq-e-hasan attempts - Times of India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNZzAzWl94VTRISFNlTnVuT1FGeWhWaDI0cFJhVEE3MTk1U2IxMk04S0I5eDFRa1Q5Yng2WnVza2lUZm1zVjdwUDhpdnZwQ3FqU2tqVWdrTG5SQnlYWFhSUFBfMW5wTk5QVWx4OVRqREZNQlRTMzliTjA2dW1JRG51WldIdG5SVlc2dy1vaGktYkVYVEhHazM4cWotM3U1aGt1UE9LSFFpZEUwMHJjQWFsaEUxNWdJckJjc1HSAb8BQVVfeXFMTjFTYzhwOXhiNlh2d1NzVGFsQk9pMEFkbHhUdGJCcnZmSnp2Z0VLOWU1cHdEMDRaN3FybzR1ZF82bUtwaS0wRzlpZzFWVkVCUU0yNDhTdUFzSlVFamQyWmRwNENjb3NXLUZYTjdiSWlaRllkdlFjX1ZvSlgybVJLMl9jSlVzclhNQ1ZNMzVmZEQybzJEVGFTcnNDc3BjSl9DU1NSRjV4OWlnQU1JUVlYZmQ1dXNYSkdzdzVHRmdKdFU?oc=5
 
-- Bharat Bandh on February 12: What’s open, what’s closed, and full list of affected services - The Hindu
-  Bharat Bandh on February 12: What’s open
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOandkd1RNMUxic0VER0VrWGo2U2FPU3JLanFzbGItTnFWZmZEZzd3eFdXR2hkNm5xeXJqUWx3LXFWaFR5NV96WFRRWnRaVWMzNFczV3J1UlZBcWdHTm9pU3B4QUhLSDN1VWluWkUwajB2QUcyUm5PYmFOSDVZb0lZWFZqZFVmcXRpSDdnVjlNek56b1N2VzFLYjFpeGFlT3Z3NGtzYTRpYmtGLW52RVlZRUhYOFVKM2VwWkpDZG5ucHRJdlZxLVNBRVdxSXdCMlU0bUJQWnpDbDVIUdIB4AFBVV95cUxNbEpkMGRyajVjcEhzbVh6X2hlMm95Sk9pd09JbmQwd25ublJUODR4UUZLcXM0RkJrM2V3UldSUzlzQ2hHZnZNWHNBNTV6OFVnMGI3eTRoQjdmMFhVRUtWMV9CTlQ2TWhKaVBZZUhPb1VtT09yd0JrVzNqazd6SzV6SGZibEtxRk1qR3ZBaXlrZF8zbzJCbGZHNVVsb21kLUhSY3hlYnduRFQ1UHRQRXN0dkJpaGtOZUFfdkJIZ2IyeG14bGp4TVY5bUl4NVM1eU5SOHhaX3d6Q3lLNmU3blVicQ?oc=5
-
-- US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYn
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
-
-- ChatGPT-maker OpenAI launches Teen Safety Blueprint for India, focuses on 'safety' over 'privacy' - Times of India
-  ChatGPT-maker OpenAI launches Teen Safety Blueprint for India
-  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPaTh0VEhySVpfY2Yxb1FjTy1KM19tN3ppcGZ2SEo4OFRTMFNobF8xb1VDTm95eEhhSE1NdG9qd3FIMXF4T2RYVktvVTNwSnVoVDBpZkd1RGNNV3ZmSjM0YnhKaktyTFpfS0VfU0pGZjdTbnZRU0xXTTU0MVd1RWVYSDBVT1JJYlhwOGxpTy1oWkNKNWsyVVhYRGRsVE1tMVlMMmNWMFRIQkJEWGFtMVJUMzJDM2dvSno1M204NFVIYVB1WFNweEw1VGdyNmpFdkFOTWJZc1NXa2U5Q09IM0JzRVJld0d4SWVzUWdIT3ZWZmxsX2p3c1VFNGVxTnAzM05wa2Y5bkprUEtqOUg0VGc4b3dHV3BDdFhMb2hibmo3WHNLN3FQU0hrc9IBrgJBVV95cUxNN1pnT2VvZGlPMHFCN3VwS2E1dUt6Z3FZSDlSdzBDQTdlR2hKMkRCQ3N4VWszdVN5QkNyRHlZWDEyOWdBTUUzZXlNbFlOZVlDdnVlemRERWxtMmdhcUFfNGxwY2dQZkJpSXJwRDZMT0g2Ykt4ZHNLWHNvaTUyRVRLLWFHWDlQZE5wT3ItZF9ERThQOFF0bURPVkNoLUFTNHBGWEZLYWo1dWdmRkpGWTViSFNaX25aODhBbXp6bjFTcVZqaGRYckpYUmphdUhfV1gzM2xvQ1NNdVJBaEl3aEpZdTJzRldLZzNqLXhXd25TT25lbURIZy1nelk0UmFSM185UXAwbVZoaTFxVnBtd2ZKQUFnYUtST3d2bkozaFB0bkpfNmlON0pZb2d3Y3Qydw?oc=5
-
-- 39 Lakh Kg Cannabis Based Drugs Seized Across India Since 2020: Centre - NDTV
-  39 Lakh Kg Cannabis Based Drugs Seized
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3hFNFpIczJGX0Nac0RjUk5VMEhkVlBRQlExd3oyRTZHQW90VTg1ZjFHWEUwdXpnaWdkZFlOblI4RnlnVzlSbEdYbUdQV3UxSWV2MHZIMnp4QXpjTlhQZVpadXRMNGRXUHNUTW5qR3I2RVlHU3JxUVh2Ym1TWGtoZ21pYUNvVDl5dWk1aERMMExiUXJudnRJbjNwYkVkMi03TTRMOV9pUkhwWVhSdHRYSXNuVG5PcktqX041OWh6dkZnc0lRRnl1UGFQQl82QdIB1gFBVV95cUxNN3lJV1Q3c2ZCR3VzeTNqb1cyR1pSbWdiQVdweGFZNmJEOWppUTRXNU5wcWJhREZiOXp4ejFKbFNvS3ROUVktRHE5RW8zOXpDWHM0T0xhOXBCdFhpV3VjMEdmMlBuWFlka2liNDdhM0xBZVVNc3gxTno1NWVUSWVjbmFadmR3LXRQWjU1U3BuSG0yOGxVWUZNUFpjX19TYnRQdlQwNWUxalFVU2J4VVQ3WG5lSU8ycVVRdldkUUR2NmhkOHNteGtoa0VqeDc2ZmhRU096VE1n?oc=5
-
-- Maharashtra Cop Kills Wife's Lover, Drives 191 Km To Dispose Body, Arrested - NDTV
-  Maharashtra Cop Kills Wife's Lover, Dri
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2Ixa1hGaGVFZ1V3SmlDUjhFNXk0SmdPYnBKRUtWSFZzbDE5YjVzZTU5dUJqSExqdTZFMnh2Q2d2Wl94eXJieWExQ0V5cnZIYktCaW45eEVhU0N0T0xfMHlfQVJqYWxVbkFENGNlV3ZxSVZvVGxCLTRqcHNneU9yRzVrckRTb0pwZk9la1RPc2tNMVRXa1RCT3llTlVkMTdQMVctMC1DdVI2TUVjSDJJcnJvc9IBuwFBVV95cUxNcUlRTTZmbHdEZmloN1N5dHBZb3ZlT1REQ2luRlJZaUZ6VHFUYm5BRGhlMGJRMm5kZDh6YXBKNnBoY21MYmlrN0JMTlJpYk95VXFXcEJGSHQxZXJjV0p4Q3d2RGdITjhycGRCdlI4RzIwdUh2TFlKWjI0b2NwUndlYkczdm5sN0xiLXFST003c2dfRTdmdW5iSGRmUDhtVjdiLV9nY2J5WXZiQjVDMU1oVW9raE9XcW91RDFv?oc=5
-
-- Bharat Bandh on February 12: What’s open, what’s closed, and full list of affected services - The Hindu
-  Bharat Bandh on February 12: What’s open
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOandkd1RNMUxic0VER0VrWGo2U2FPU3JLanFzbGItTnFWZmZEZzd3eFdXR2hkNm5xeXJqUWx3LXFWaFR5NV96WFRRWnRaVWMzNFczV3J1UlZBcWdHTm9pU3B4QUhLSDN1VWluWkUwajB2QUcyUm5PYmFOSDVZb0lZWFZqZFVmcXRpSDdnVjlNek56b1N2VzFLYjFpeGFlT3Z3NGtzYTRpYmtGLW52RVlZRUhYOFVKM2VwWkpDZG5ucHRJdlZxLVNBRVdxSXdCMlU0bUJQWnpDbDVIUdIB4AFBVV95cUxNbEpkMGRyajVjcEhzbVh6X2hlMm95Sk9pd09JbmQwd25ublJUODR4UUZLcXM0RkJrM2V3UldSUzlzQ2hHZnZNWHNBNTV6OFVnMGI3eTRoQjdmMFhVRUtWMV9CTlQ2TWhKaVBZZUhPb1VtT09yd0JrVzNqazd6SzV6SGZibEtxRk1qR3ZBaXlrZF8zbzJCbGZHNVVsb21kLUhSY3hlYnduRFQ1UHRQRXN0dkJpaGtOZUFfdkJIZ2IyeG14bGp4TVY5bUl4NVM1eU5SOHhaX3d6Q3lLNmU3blVicQ?oc=5
+- Today News Headlines for School Assembly, February 12, 2026: French Prez India visit on Feb 17, ‘Right to Recall’ Neta law, Int’l Chess schedule - The Indian Express
+  The Indian Express is a leading newspaper in India. It is based in New Delhi and is published in English.
+  🔗 https://news.google.com/rss/articles/CBMiqwJBVV95cUxPdklRd3NDbHd1cWRvUEJOWHdJUHZ3cV9NNHV6dGdOU19ieW5MVDN6NUtodDRpRE5YOXZCckRGTG5kcnlSZGtzUkdEbzRublBUOUJfZE11UlNOWENtNFI4VXh5b25yNzZlNEpYTkNRYkFWdlQ2Mlo2ejV4TzRUUndBWlRvMVlTWjJ6UWNycDhGRWVRUHFub0xPeW1hOUdqUTZIcVhDUHJPdjVwZnJQamVMUHExYmtCYnY1bXd0VExKY1hhMUY0UjhseUlFcU1wUTIwUzhtcHRLc1hySHdWRWdJNkdMaXRhbDlDYmNpR1c0dGxQVmIzNE9DVVltdW1mZVJ0LU5pbm91bXhseDNlbFlyV1BTNW1femR1NWlad1l4blRUbWF2M05xSHdLZ9IBsgJBVV95cUxPNHEwUEtPd2JzZWh0MTdxa0ZQb1QzeUtyYXJOLTNDVXMtRmRiQzF1Y0FsYklodHlYQjhfSmVoV2J3R1pVNmJQa0h3SVBuNkNNUlBnZE9NZnNReGp2dkg2aEFVcDltRGp1dzJ0ZU11TDcwMTllTEQzT2lTc0VlREl0SzNmOUoxT1ZXVW5rc1FpcklybVRCaE9nMWRsRlNQUWRyNXEtd1JTWHctTlJicmF1eVRieDRlM0JobU1qdXlNOGs2Vy1hTV9PVEx1N1pnZkxqWU1rS3hydlptVXUzZmphRWU5S3Z4ZlVXZzB5R2x5WndrZFlmdWYzcUtzSkYtaTJoZGJfU1JIOUVxemRHUHhfY3pjVmdNSmhJZ3FTRUxFbERZNktLZy1veW9FcG91YXdJS2c?oc=5
 
 - US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYn
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
 
-- ChatGPT-maker OpenAI launches Teen Safety Blueprint for India, focuses on 'safety' over 'privacy' - Times of India
-  ChatGPT-maker OpenAI launches Teen Safety Blueprint for India
-  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPaTh0VEhySVpfY2Yxb1FjTy1KM19tN3ppcGZ2SEo4OFRTMFNobF8xb1VDTm95eEhhSE1NdG9qd3FIMXF4T2RYVktvVTNwSnVoVDBpZkd1RGNNV3ZmSjM0YnhKaktyTFpfS0VfU0pGZjdTbnZRU0xXTTU0MVd1RWVYSDBVT1JJYlhwOGxpTy1oWkNKNWsyVVhYRGRsVE1tMVlMMmNWMFRIQkJEWGFtMVJUMzJDM2dvSno1M204NFVIYVB1WFNweEw1VGdyNmpFdkFOTWJZc1NXa2U5Q09IM0JzRVJld0d4SWVzUWdIT3ZWZmxsX2p3c1VFNGVxTnAzM05wa2Y5bkprUEtqOUg0VGc4b3dHV3BDdFhMb2hibmo3WHNLN3FQU0hrc9IBrgJBVV95cUxNN1pnT2VvZGlPMHFCN3VwS2E1dUt6Z3FZSDlSdzBDQTdlR2hKMkRCQ3N4VWszdVN5QkNyRHlZWDEyOWdBTUUzZXlNbFlOZVlDdnVlemRERWxtMmdhcUFfNGxwY2dQZkJpSXJwRDZMT0g2Ykt4ZHNLWHNvaTUyRVRLLWFHWDlQZE5wT3ItZF9ERThQOFF0bURPVkNoLUFTNHBGWEZLYWo1dWdmRkpGWTViSFNaX25aODhBbXp6bjFTcVZqaGRYckpYUmphdUhfV1gzM2xvQ1NNdVJBaEl3aEpZdTJzRldLZzNqLXhXd25TT25lbURIZy1nelk0UmFSM185UXAwbVZoaTFxVnBtd2ZKQUFnYUtST3d2bkozaFB0bkpfNmlON0pZb2d3Y3Qydw?oc=5
+- Antimicrobial resistance: Charles Darwin was right; India’s drug policy isn’t - The Hindu
+  The Hindu has published a series of articles on
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNZGlzcl9vMG1Wbmk1Z2lsOVloM3J2RWtoVGVwZjFsYkg2TThRQmQ3UWF4bFhHUTZkMGo3VEUycnB0S3lNWmZPWFd5ZUZvNEpDZUozN1FzdlYzcGVjcXZPeG5wSUx5SjY1c01vdEl3eHBKcU50dEg1S0RMVUVsUzdBTVBLMHFCdzduemxoOEJoaW5DYlJOMWJRem5EaVNiM0FrZDFjRU51bFdESk5kNWRBRkRKS2VGdzFqemttSXR4X3VPX1ZC0gHLAUFVX3lxTE9wY2N2SkF5Uy1mbktYLXY2WEdvbUFaQW1mWkpmTVdQazByUXNCekNQTXB2N2lZM2dCSklCYUlzRWNwdUV2S1pldjRRLXc0Qlc4bV9Hck5OOTVLeDQ4eEdZemk2QnRvSi1yT0dIZmVieDBPUVVWOXlhNHRfelJFY3Q4OVd5MjJPeDZNdUtLWTkzRTJYOVBJZ1pFZnM0blI4ZHBxRUplb1NiN3hUSHhDaG5vZHBLRlZ3dGx2dnkzYUNCbUo4MVJGUmwtZXhj?oc=5
 
-- 39 Lakh Kg Cannabis Based Drugs Seized Across India Since 2020: Centre - NDTV
-  39 Lakh Kg Cannabis Based Drugs Seized
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3hFNFpIczJGX0Nac0RjUk5VMEhkVlBRQlExd3oyRTZHQW90VTg1ZjFHWEUwdXpnaWdkZFlOblI4RnlnVzlSbEdYbUdQV3UxSWV2MHZIMnp4QXpjTlhQZVpadXRMNGRXUHNUTW5qR3I2RVlHU3JxUVh2Ym1TWGtoZ21pYUNvVDl5dWk1aERMMExiUXJudnRJbjNwYkVkMi03TTRMOV9pUkhwWVhSdHRYSXNuVG5PcktqX041OWh6dkZnc0lRRnl1UGFQQl82QdIB1gFBVV95cUxNN3lJV1Q3c2ZCR3VzeTNqb1cyR1pSbWdiQVdweGFZNmJEOWppUTRXNU5wcWJhREZiOXp4ejFKbFNvS3ROUVktRHE5RW8zOXpDWHM0T0xhOXBCdFhpV3VjMEdmMlBuWFlka2liNDdhM0xBZVVNc3gxTno1NWVUSWVjbmFadmR3LXRQWjU1U3BuSG0yOGxVWUZNUFpjX19TYnRQdlQwNWUxalFVU2J4VVQ3WG5lSU8ycVVRdldkUUR2NmhkOHNteGtoa0VqeDc2ZmhRU096VE1n?oc=5
+- Jasprit Bumrah yorker hits Ishan Kishan, Sanju Samson on standby for Abhishek Sharma - Times of India
+  Jasprit Bumrah yorker hits Ishan K
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVElpWWNISVVoQW5Mc3R2YllHOTFOMC1KNHBDSVdfS2gwYS1WaDJvNGpHakExWkFXcHNTNm5KcFZSSDJ2RzhIQkNqN1pBdGprUFJqSGVVUEd3aDFXTlpPZkRCZWdFdUg4V3dMdGhwM2NUM3Q0QUZvd2FxaGJRMmd2VzZ3RGFpWFdYRC1hTUdQRDFHRUltczR1WUpURjdEY1FGMFlMa2ZoSXlXdHNxbUdOUGctQ2RoOVV1WDhsWGlNNmpnbUJsamwxang3Q2Fic2xXSjlvMlMzRzgyR2tUVVo2b1diWTduWFV3WGpCU1lIdmhpUGNISi1Uaw?oc=5
 
-- Maharashtra Cop Kills Wife's Lover, Drives 191 Km To Dispose Body, Arrested - NDTV
-  Maharashtra Cop Kills Wife's Lover, Dri
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2Ixa1hGaGVFZ1V3SmlDUjhFNXk0SmdPYnBKRUtWSFZzbDE5YjVzZTU5dUJqSExqdTZFMnh2Q2d2Wl94eXJieWExQ0V5cnZIYktCaW45eEVhU0N0T0xfMHlfQVJqYWxVbkFENGNlV3ZxSVZvVGxCLTRqcHNneU9yRzVrckRTb0pwZk9la1RPc2tNMVRXa1RCT3llTlVkMTdQMVctMC1DdVI2TUVjSDJJcnJvc9IBuwFBVV95cUxNcUlRTTZmbHdEZmloN1N5dHBZb3ZlT1REQ2luRlJZaUZ6VHFUYm5BRGhlMGJRMm5kZDh6YXBKNnBoY21MYmlrN0JMTlJpYk95VXFXcEJGSHQxZXJjV0p4Q3d2RGdITjhycGRCdlI4RzIwdUh2TFlKWjI0b2NwUndlYkczdm5sN0xiLXFST003c2dfRTdmdW5iSGRmUDhtVjdiLV9nY2J5WXZiQjVDMU1oVW9raE9XcW91RDFv?oc=5
+- SC puts on hold advocate's 2 talaq-e-hasan attempts - Times of India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNZzAzWl94VTRISFNlTnVuT1FGeWhWaDI0cFJhVEE3MTk1U2IxMk04S0I5eDFRa1Q5Yng2WnVza2lUZm1zVjdwUDhpdnZwQ3FqU2tqVWdrTG5SQnlYWFhSUFBfMW5wTk5QVWx4OVRqREZNQlRTMzliTjA2dW1JRG51WldIdG5SVlc2dy1vaGktYkVYVEhHazM4cWotM3U1aGt1UE9LSFFpZEUwMHJjQWFsaEUxNWdJckJjc1HSAb8BQVVfeXFMTjFTYzhwOXhiNlh2d1NzVGFsQk9pMEFkbHhUdGJCcnZmSnp2Z0VLOWU1cHdEMDRaN3FybzR1ZF82bUtwaS0wRzlpZzFWVkVCUU0yNDhTdUFzSlVFamQyWmRwNENjb3NXLUZYTjdiSWlaRllkdlFjX1ZvSlgybVJLMl9jSlVzclhNQ1ZNMzVmZEQybzJEVGFTcnNDc3BjSl9DU1NSRjV4OWlnQU1JUVlYZmQ1dXNYSkdzdzVHRmdKdFU?oc=5
 
-- Bharat Bandh on February 12: What’s open, what’s closed, and full list of affected services - The Hindu
-  Bharat Bandh on February 12: What’s open
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOandkd1RNMUxic0VER0VrWGo2U2FPU3JLanFzbGItTnFWZmZEZzd3eFdXR2hkNm5xeXJqUWx3LXFWaFR5NV96WFRRWnRaVWMzNFczV3J1UlZBcWdHTm9pU3B4QUhLSDN1VWluWkUwajB2QUcyUm5PYmFOSDVZb0lZWFZqZFVmcXRpSDdnVjlNek56b1N2VzFLYjFpeGFlT3Z3NGtzYTRpYmtGLW52RVlZRUhYOFVKM2VwWkpDZG5ucHRJdlZxLVNBRVdxSXdCMlU0bUJQWnpDbDVIUdIB4AFBVV95cUxNbEpkMGRyajVjcEhzbVh6X2hlMm95Sk9pd09JbmQwd25ublJUODR4UUZLcXM0RkJrM2V3UldSUzlzQ2hHZnZNWHNBNTV6OFVnMGI3eTRoQjdmMFhVRUtWMV9CTlQ2TWhKaVBZZUhPb1VtT09yd0JrVzNqazd6SzV6SGZibEtxRk1qR3ZBaXlrZF8zbzJCbGZHNVVsb21kLUhSY3hlYnduRFQ1UHRQRXN0dkJpaGtOZUFfdkJIZ2IyeG14bGp4TVY5bUl4NVM1eU5SOHhaX3d6Q3lLNmU3blVicQ?oc=5
+- Today News Headlines for School Assembly, February 12, 2026: French Prez India visit on Feb 17, ‘Right to Recall’ Neta law, Int’l Chess schedule - The Indian Express
+  The Indian Express is a leading newspaper in India. It is based in New Delhi and is published in English.
+  🔗 https://news.google.com/rss/articles/CBMiqwJBVV95cUxPdklRd3NDbHd1cWRvUEJOWHdJUHZ3cV9NNHV6dGdOU19ieW5MVDN6NUtodDRpRE5YOXZCckRGTG5kcnlSZGtzUkdEbzRublBUOUJfZE11UlNOWENtNFI4VXh5b25yNzZlNEpYTkNRYkFWdlQ2Mlo2ejV4TzRUUndBWlRvMVlTWjJ6UWNycDhGRWVRUHFub0xPeW1hOUdqUTZIcVhDUHJPdjVwZnJQamVMUHExYmtCYnY1bXd0VExKY1hhMUY0UjhseUlFcU1wUTIwUzhtcHRLc1hySHdWRWdJNkdMaXRhbDlDYmNpR1c0dGxQVmIzNE9DVVltdW1mZVJ0LU5pbm91bXhseDNlbFlyV1BTNW1femR1NWlad1l4blRUbWF2M05xSHdLZ9IBsgJBVV95cUxPNHEwUEtPd2JzZWh0MTdxa0ZQb1QzeUtyYXJOLTNDVXMtRmRiQzF1Y0FsYklodHlYQjhfSmVoV2J3R1pVNmJQa0h3SVBuNkNNUlBnZE9NZnNReGp2dkg2aEFVcDltRGp1dzJ0ZU11TDcwMTllTEQzT2lTc0VlREl0SzNmOUoxT1ZXVW5rc1FpcklybVRCaE9nMWRsRlNQUWRyNXEtd1JTWHctTlJicmF1eVRieDRlM0JobU1qdXlNOGs2Vy1hTV9PVEx1N1pnZkxqWU1rS3hydlptVXUzZmphRWU5S3Z4ZlVXZzB5R2x5WndrZFlmdWYzcUtzSkYtaTJoZGJfU1JIOUVxemRHUHhfY3pjVmdNSmhJZ3FTRUxFbERZNktLZy1veW9FcG91YXdJS2c?oc=5
 
-- Five ways quantum technology could shape everyday life - Phys.org
-   quantum technology could shape everyday life
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE91dTI4ZTB4YTY2aTlwUXY1U3ZYcWItcHJLSVd4cG1UVzFFSjRDVzBNa0dhRkdUS3ZVYVdxYkE4ajBfZ3huRGRDbHkwZjJpNnFrR2NyZnRHUDhTVlVGUGt2ZFR2d2JrTUFTaTh6ZDZNeWw2TDZ5N0JRU05RTnM?oc=5
+- US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYn
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
 
-- The Hindu Group to host two-day Tech Summit on Feb 12, 13 - The Hindu
-  The Hindu Group to host two-day Tech Summit on
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOV1NqSXJfOFI0cFlDV1J4SjY5bzJ0bF9paWNtbktzZlBMWTJ5Q2ZvVllIeW5WWDRNYW9KdFRad2pWSHRlbWJfY2JLMW9Pa2h2NTM0V0tQTXVmQXNneEtsaDJLcnFkX1RRSVgtSDE5cm5yTnV2NFN3QTJ5REZvOFdINjlwME9SNk82UDlVZWwxNklUMWkwb2l2ZzlBZFRNcExKWFJCaVE1X2twSnhXXzN3WjF5YkhJYXQwUF9PTHRR0gHEAUFVX3lxTE1DSDdoRm94eFZhNjhxd3pJVjJSR3g0ZkxURk54RGw5ZElMbzAwdTZoTlBBMUduQ0JVcHRHYm1NQVA5VVM3dDhhMUJJRFpWVlowUUNKYnRHcXBmSUVBUmZrTDhzcllfakRIZWFWY19jcVNNLXFvNmlyMmFNbFoxdEhtRDlwRTZRRVdCTS1xT2tJNzZDUzlhMjZ5S1hfNDl1NlRsZE50aXpoZTFfOHZtWVlZOHQzUWhvN0ZiLUZZckZRV1JQbVY?oc=5
+- Antimicrobial resistance: Charles Darwin was right; India’s drug policy isn’t - The Hindu
+  The Hindu has published a series of articles on
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNZGlzcl9vMG1Wbmk1Z2lsOVloM3J2RWtoVGVwZjFsYkg2TThRQmQ3UWF4bFhHUTZkMGo3VEUycnB0S3lNWmZPWFd5ZUZvNEpDZUozN1FzdlYzcGVjcXZPeG5wSUx5SjY1c01vdEl3eHBKcU50dEg1S0RMVUVsUzdBTVBLMHFCdzduemxoOEJoaW5DYlJOMWJRem5EaVNiM0FrZDFjRU51bFdESk5kNWRBRkRKS2VGdzFqemttSXR4X3VPX1ZC0gHLAUFVX3lxTE9wY2N2SkF5Uy1mbktYLXY2WEdvbUFaQW1mWkpmTVdQazByUXNCekNQTXB2N2lZM2dCSklCYUlzRWNwdUV2S1pldjRRLXc0Qlc4bV9Hck5OOTVLeDQ4eEdZemk2QnRvSi1yT0dIZmVieDBPUVVWOXlhNHRfelJFY3Q4OVd5MjJPeDZNdUtLWTkzRTJYOVBJZ1pFZnM0blI4ZHBxRUplb1NiN3hUSHhDaG5vZHBLRlZ3dGx2dnkzYUNCbUo4MVJGUmwtZXhj?oc=5
 
-- Aatmanirbhar Push: India Becomes 7th Nation to Crack Gallium Nitride Chip Technology - sify.com
-  Aatmanirbhar Push: India Bec
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPR3ZzcGlnQlQ0VDd4UFBIckgta2lGVFFwY2lHOFJfNkgxeXFOa1dIdUYyNzBsM0ROVFM3bDJnbVZnUXU3Qkpyb0ZOai1tb2JwMlYtOFJ2WV9pSjlHTkRKNGgtLWY1RWo3VXVTMU1lV1o1d203b3hia0NkaG85bUNWYTVQaUVfcjg5R08wcjFuV1dnM242U2wwMEhxc0psaWhRMUNRcVFWdExNUFItYk5ndkRTZXEtQUk?oc=5
+- Jasprit Bumrah yorker hits Ishan Kishan, Sanju Samson on standby for Abhishek Sharma - Times of India
+  Jasprit Bumrah yorker hits Ishan K
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVElpWWNISVVoQW5Mc3R2YllHOTFOMC1KNHBDSVdfS2gwYS1WaDJvNGpHakExWkFXcHNTNm5KcFZSSDJ2RzhIQkNqN1pBdGprUFJqSGVVUEd3aDFXTlpPZkRCZWdFdUg4V3dMdGhwM2NUM3Q0QUZvd2FxaGJRMmd2VzZ3RGFpWFdYRC1hTUdQRDFHRUltczR1WUpURjdEY1FGMFlMa2ZoSXlXdHNxbUdOUGctQ2RoOVV1WDhsWGlNNmpnbUJsamwxang3Q2Fic2xXSjlvMlMzRzgyR2tUVVo2b1diWTduWFV3WGpCU1lIdmhpUGNISi1Uaw?oc=5
 
-- Daily: Downgrading US information technology - UBS
-  &nbsp
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQSlc0bXB5dFk2eVZVcVFEYUFhelNzdE9NVV8tenNWdDBENEZmekJ2dVg4TGVsOXVmTFZubU5ybDI0NU0tei1ld0l3Wm1HNUljRVEwbDFNSUZieU1hYm42UUd0VnQyNzRnUEFVTEduWU9Gbm4wOF9HaFRxd2ZCNnZYeDl1LWZIU2drc0VCNWxIaUdQSEE0bzVsYXZUMHZfVE42RVhicDdodTVBV0lPREIzNDJGLVZIYWkyRWlPZzVIZw?oc=5
+- SC puts on hold advocate's 2 talaq-e-hasan attempts - Times of India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNZzAzWl94VTRISFNlTnVuT1FGeWhWaDI0cFJhVEE3MTk1U2IxMk04S0I5eDFRa1Q5Yng2WnVza2lUZm1zVjdwUDhpdnZwQ3FqU2tqVWdrTG5SQnlYWFhSUFBfMW5wTk5QVWx4OVRqREZNQlRTMzliTjA2dW1JRG51WldIdG5SVlc2dy1vaGktYkVYVEhHazM4cWotM3U1aGt1UE9LSFFpZEUwMHJjQWFsaEUxNWdJckJjc1HSAb8BQVVfeXFMTjFTYzhwOXhiNlh2d1NzVGFsQk9pMEFkbHhUdGJCcnZmSnp2Z0VLOWU1cHdEMDRaN3FybzR1ZF82bUtwaS0wRzlpZzFWVkVCUU0yNDhTdUFzSlVFamQyWmRwNENjb3NXLUZYTjdiSWlaRllkdlFjX1ZvSlgybVJLMl9jSlVzclhNQ1ZNMzVmZEQybzJEVGFTcnNDc3BjSl9DU1NSRjV4OWlnQU1JUVlYZmQ1dXNYSkdzdzVHRmdKdFU?oc=5
 
-- Making AI Work, MIT Technology Review’s new AI newsletter, is here - MIT Technology Review
-  Making AI Work, MIT Technology Review’s new
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXV1NTdKa0RyR2RKZ0Q5VTY4ZkdBRm12R1A3MWlsVVVUX2ZFQkpKaEsxbk9nWXh1LUNvWTdfb2NUZjZDY1NrN0hmWnU2SEt6cEZObVk2a3dTVXVWNDZPUVJ0Mzc5SV9vSnpLOXFFNk5HdnhwcW5iUXBzdFhYNTR1Znh3YlplVmRtdmUycmZCZEtIaFhoTlJZ0gGcAUFVX3lxTFBkM0pnMGRvWkRSOXpYa3VEZHFzMnlwMFFiX01paG90WjJiNF92ZGJfVGJaUWUwRUlkNUczRTNOOHhYbmg3bGFkeHlkSUR0b0Z4WVAzMGZNQVZqcnFaNXRrb3Nzc29IblhrLXZEb0RmdmRpWlJta21SdkpDdHlmcmJMdnVaOXZSa2tvNWs5UU4tbzMyMG90SEMteE1NbQ?oc=5
+- Today News Headlines for School Assembly, February 12, 2026: French Prez India visit on Feb 17, ‘Right to Recall’ Neta law, Int’l Chess schedule - The Indian Express
+  The Indian Express is a leading newspaper in India. It is based in New Delhi and is published in English.
+  🔗 https://news.google.com/rss/articles/CBMiqwJBVV95cUxPdklRd3NDbHd1cWRvUEJOWHdJUHZ3cV9NNHV6dGdOU19ieW5MVDN6NUtodDRpRE5YOXZCckRGTG5kcnlSZGtzUkdEbzRublBUOUJfZE11UlNOWENtNFI4VXh5b25yNzZlNEpYTkNRYkFWdlQ2Mlo2ejV4TzRUUndBWlRvMVlTWjJ6UWNycDhGRWVRUHFub0xPeW1hOUdqUTZIcVhDUHJPdjVwZnJQamVMUHExYmtCYnY1bXd0VExKY1hhMUY0UjhseUlFcU1wUTIwUzhtcHRLc1hySHdWRWdJNkdMaXRhbDlDYmNpR1c0dGxQVmIzNE9DVVltdW1mZVJ0LU5pbm91bXhseDNlbFlyV1BTNW1femR1NWlad1l4blRUbWF2M05xSHdLZ9IBsgJBVV95cUxPNHEwUEtPd2JzZWh0MTdxa0ZQb1QzeUtyYXJOLTNDVXMtRmRiQzF1Y0FsYklodHlYQjhfSmVoV2J3R1pVNmJQa0h3SVBuNkNNUlBnZE9NZnNReGp2dkg2aEFVcDltRGp1dzJ0ZU11TDcwMTllTEQzT2lTc0VlREl0SzNmOUoxT1ZXVW5rc1FpcklybVRCaE9nMWRsRlNQUWRyNXEtd1JTWHctTlJicmF1eVRieDRlM0JobU1qdXlNOGs2Vy1hTV9PVEx1N1pnZkxqWU1rS3hydlptVXUzZmphRWU5S3Z4ZlVXZzB5R2x5WndrZFlmdWYzcUtzSkYtaTJoZGJfU1JIOUVxemRHUHhfY3pjVmdNSmhJZ3FTRUxFbERZNktLZy1veW9FcG91YXdJS2c?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-11 19:00:44 UTC_
+_Last updated: 2026-02-12 01:52:24 UTC_
