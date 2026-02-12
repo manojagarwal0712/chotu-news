@@ -1,264 +1,184 @@
 # 📰 Daily News Summaries
 
-- In Rajya Sabha, Opposition says nothing in Budget for farmers, BJP calls it roadmap for the future
+- Telangana Municipal Election Results 2026: When, where and how to check ward-wise vote counting
   
-  🔗 https://indianexpress.com/article/india/rajya-sabha-opposition-budget-farmers-bjp-roadmap-future-10528088/
+  🔗 https://indianexpress.com/article/india/telangana-municipal-election-results-2026-when-where-how-check-ward-wise-vote-counting-municipalities-10528563/
 
-- AI in every classroom: BodhanAI will develop modules for teachers’ capacity building, says Dharmendra Pradhan
+- His gym membership plummeted for taking a stand. Now, ‘Mohammad’ Deepak gets some help from 15 Supreme Court Senior Advocates
   
-  🔗 https://indianexpress.com/article/india/ai-in-every-classroom-bodhanai-will-develop-modules-for-teachers-capacity-building-says-dharmendra-pradhan-10528085/
+  🔗 https://indianexpress.com/article/india/gym-membership-plummeted-stand-mohammad-deepak-help-supreme-court-senior-advocates-10528697/
 
-- In RS, Opp says nothing in Budget for farmers, BJP calls it roadmap for future
+- Railway Board asks DFCCIL to fast-track Dankuni–Surat Dedicated Freight Corridor, revise DPR
   
-  🔗 https://indianexpress.com/article/india/in-rs-opp-says-nothing-in-budget-for-farmers-bjp-calls-it-roadmap-for-future-10528009/
+  🔗 https://indianexpress.com/article/india/railway-board-asks-dfccil-to-fast-track-dankuni-surat-dedicated-freight-corridor-revise-dpr-10528603/
 
-- Epstein emails show Puri meetings, visa help for aide
+- From South Block to Seva Teerth: PM Modi to inaugurate new PMO complex, office buildings tomorrow
   
-  🔗 https://indianexpress.com/article/india/epstein-emails-hardeep-singh-puri-meetings-visa-help-for-aide-10528012/
+  🔗 https://indianexpress.com/article/india/pm-modi-to-inaugurate-new-pmo-office-buildings-10528601/
 
-- From Braille to Bench: Meet 24-year-old lawyer Thanya, set to become Kerala’s first visually-impaired judge
+- ‘Unilateral and coercive decision’: Jamiat Ulama-i-Hind slams MHA for making all 6 stanzas of Vande Mataram mandatory
   
-  🔗 https://indianexpress.com/article/india/from-braille-to-bench-meet-24-year-old-lawyer-thanya-set-to-become-keralas-first-visually-impaired-judge-10527535/
+  🔗 https://indianexpress.com/article/india/unilateral-and-coercive-decision-jamiat-ulama-i-hind-slams-mha-for-making-all-6-stanzas-of-vande-mataram-mandatory-10528500/
 
-- Apple’s Siri AI Upgrade may be launched later than the expected timeline
+- Big-screen foldables may grab 65% market share in 2026, flip phones to decline: Report
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apples-siri-ai-upgrade-may-be-launched-later-than-the-expected-timeline-10528108/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/big-screen-book-style-foldable-65-market-share-10528748/
 
-- Why do sovereign AI projects fail? IBM’s chief scientist Ruchir Puri on the pitfalls governments face
+- Instagram tests ‘Instants’ app to rival Snapchat’s disappearing messages
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/why-do-sovereign-ai-projects-fail-ibms-chief-scientist-ruchir-puri-10527836/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/instagram-tests-instants-app-to-rival-snapchats-disappearing-messages-10528721/
 
-- Musk reorganizes xAI after SpaceX merger and ahead of blockbuster IPO
+- Microsoft fixes Notepad flaw that could allow attackers hijack your Windows PC
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/musk-reorganizes-xai-after-spacex-merger-and-ahead-of-blockbuster-ipo-10527826/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-notepad-security-flaw-markdown-fixed-10528542/
 
-- WhatsApp says Russia tried to fully block service to push state app
+- ASUS Zenbook S16, Zenbook 14 and new Vivobook lineup go on sale in India
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-says-russia-tried-to-fully-block-service-to-push-state-app-10527825/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/asus-zenbook-s16-zenbook-14-and-new-vivobook-lineup-go-on-sale-in-india-10528567/
 
-- Elon Musk wants to build an AI satellite factory on the Moon
+- The end of an era: Sony stops making Blu-ray recorders as streaming wins the war
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/elon-musk-wants-to-build-an-ai-satellite-factory-on-the-moon-10527450/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-blu-ray-disc-recorder-manufacturing-stopped-feb-2026-10528145/
 
-- As EU wines get cheaper, Fratelli braces for a tougher fight on Indian shelves
-  The company will focus on premium products, with a notable growth in its luxury portfolio. Fratelli Vineyards also plans for a vineyard hospitality venture.
-  🔗 https://www.livemint.com/companies/india-wine-market-fratelli-vineyards-european-union-trade-deal-11770868771314.html
+- Fidelity-backed Eight Roads finds India ‘exciting’, eyes 5-6 deals
+  Eight Roads Ventures' president Alex Emery emphasized that India is the single
+  🔗 https://www.livemint.com/companies/news/eight-roads-ventures-india-investment-funding-startups-growth-11770892180951.html
 
-- Zomato founder Deepinder Goyal overwhelmed by 8,000 emails 'full of emotions' — ‘Find my number, WhatsApp me’
-  Deepinder Goyal says he received about 8,000 emails in just a few days. Half of the emails are from former employees, and the rest from people who haven't worked at Zomato's parent company
-  🔗 https://www.livemint.com/companies/people/zomato-founder-deepinder-goyal-overwhelmed-by-8-000-emails-full-of-emotions-find-my-number-whatsapp-me-11770866306355.html
+- Vedanta moves NCLT against lender's nod to Adani’s plan for Jaiprakash Associates
+  Vedanta challenged the November 2025 decision of the committee of creditors. Terming the approval a ‘commercial conspiracy’,
+  🔗 https://www.livemint.com/companies/news/vedanta-nclt-adani-enterprises-jaiprakash-associates-resolution-plan-ibc-11770888090562.html
 
-- WhatsApp ban in Russia? Messaging app says Moscow tried to 'fully block' app — Here's what happens next
-  Millions lost access to WhatsApp overnight as the Kremlin moves to restrict foreign messaging platforms. Moscow has tried to block WhatsApp in Russia to push
-  🔗 https://www.livemint.com/companies/news/whatsapp-russia-ban-messaging-fully-block-govt-promote-local-super-app-service-max-100-million-users-what-happens-next-11770863767692.html
+- Airport shopping spree: High-spending passengers are making Adani's airports richer than ever
+  Luxury spending on duty-free goods, food, and perfumes by affluent passengers now
+  🔗 https://www.livemint.com/companies/adani-airports-non-aero-revenue-surpasses-air-traffic-income-luxury-spending-11770882154245.html
 
-- Elon Musk restructures xAI after resignation of co-founders — Here's what has changed
-  Elon Musk has restructured xAI after the recent exit of co-founders Jimmy Ba and Tony Wu. xAI will focus on four key areas,
-  🔗 https://www.livemint.com/companies/news/elon-musk-restructures-xai-cofounders-jimmy-ba-tonu-wu-resign-spacex-what-changes-chatbot-coding-imagine-video-macrohard-11770856824162.html
+- Who is Belén Garijo? Paul Hudson replaced, former researcher returns as CEO of Sanofi in sudden leadership change
+  Sanofi names Belén Garijo as its new CEO to replace incumbent Paul Hudson. French pharmaceutical major announced the surprise
+  🔗 https://www.livemint.com/companies/people/belen-garijo-who-former-researcher-returns-ceo-sanofi-why-replace-paul-hudson-sudden-leadership-change-what-productivity-11770882586623.html
 
-- Toyota issues another recall in US for over 141,000 vehicles affected by door defect — Here's all we know
-  Toyota has recalled more than 141,000 vehicles due to a door defect. The National Highway Traffic Safety Administration notified of an issue with
-  🔗 https://www.livemint.com/companies/news/toyota-motor-issues-another-recall-us-more-than-141000-vehicles-affected-door-defect-injury-risk-short-circuit-details-11770858518215.html
+- USV acquires around 79% stake in Wellbeing Nutrition at  ₹1,583 crore valuation
+  USV's stake buy marks the exit of early backers Fireside Ventures and Hindust
+  🔗 https://www.livemint.com/companies/start-ups/usv-wellbeing-nutrition-acquisition-nutraceutical-11770878133651.html
 
-- Fractal Analytics IPO Allotment LIVE: Latest GMP, steps to check allotment status online on BSE, NSE, MUFG Intime
-  Investors can check Fractal Analytics IPO allotment status online through the websites of BSE, NSE and MUFG Intime India. The IPO listing date is February 16.
-  🔗 https://www.livemint.com/market/ipo/fractal-analytics-ipo-allotment-live-fractal-analytics-ipo-gmp-today-allotment-status-subscription-12-february-2026-11770879008783.html
+- Rothschild to advise NSE on initial public offer, investment bank pitches likely after three weeks
+  NSE has appointed Rothschild to advise its IPO committee to ensure parity
+  🔗 https://www.livemint.com/market/rothschild-advise-nse-ipo-investment-bank-pitches-11770893130936.html
 
-- Aye Finance IPO allotment LIVE: Aye Finance IPO GMP rises marginally but stays muted — Check steps to track status
-  Aye Finance IPO was booked 97% thanks to hefty bidding of 1.5 times from QIBs. Meanwhile, the retail investor portion was booked 77% and
-  🔗 https://www.livemint.com/market/ipo/aye-finance-ipo-allotment-live-aye-finance-ipo-gmp-rises-marginally-but-stays-muted-check-steps-to-track-status-11770877345383.html
+- IRCTC Q3 results: Navratna PSU's net profit jumps 15% YoY to  ₹395 crore;  ₹3.50/share dividend declared — Details
+  IRCTC Q3 results: Navratna PSU's net
+  🔗 https://www.livemint.com/market/stock-market-news/irctc-q3-results-navratna-psus-net-profit-jumps-15-yoy-to-rs-395-crore-rs-3-50-share-dividend-declared-details-11770899409262.html
 
-- Stocks to buy: Nagaraj Shetti recommends Finolex Industries, Electrosteel Castings shares to buy
-  Sensex dropped 421.66 points to 83,811.98, while Nifty 50 decreased by 121.10 points to 25,832.75.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-finolex-industries-electrosteel-castings-shares-to-buy-11770877542086.html
+- Avanti Feeds to Sterlite Tech: These 5 India-US trade deal beneficiaries rise up to 19% despite stock market crash
+  Last week, India and the US reached an interim trade agreement. The US will reduce tariffs on select Indian goods to 18% from 50%.
+  🔗 https://www.livemint.com/market/stock-market-news/avanti-feeds-to-sterlite-technologies-these-5-india-us-trade-deal-gainers-rise-up-to-19-despite-stock-market-crash-11770899173754.html
 
-- HAL Q3 Results 2026 LIVE: Defence PSU’s net profit likely to jump 30%, revenue growth seen at 13% YoY
-  HAL’s net profit in Q3FY26 is expected to jump nearly 30% year-on-year (YoY) While the company’'s revenue is estimated to grow 13% YoY. EBITDA
-  🔗 https://www.livemint.com/market/stock-market-news/hal-q3-results-2026-live-hindustan-aeronautics-q3-results-hal-share-price-psu-defence-stock-tejas-mk1a-12-february-2026-11770878204345.html
+- ₹1.38 to  ₹67: Multibagger penny stock turns  ₹1 lakh into  ₹48.5 lakh in 5 years
+  An investor who had invested  ₹1 lakh in the stock five years ago and held on to it would have seen the
+  🔗 https://www.livemint.com/market/stock-market-news/rs-1-38-to-rs-67-multibagger-penny-stock-turns-rs-1-lakh-into-rs-48-5-lakh-in-5-years-11770897315050.html
 
-- Silver inventories edge up from 10-year low on Shanghai exchange; deficit seen for sixth year
-  Silver inventories on SHFE remain deeply depressed compared with historical levels. Current silver inventories are nearly 89% lower than the all-time high of 3,091.112 tonnes
-  🔗 https://www.livemint.com/market/commodities/silver-inventories-edge-up-from-10-year-low-on-shanghai-exchange-deficit-seen-for-sixth-year-11770876754159.html
+- Small-cap stock under  ₹50 jumps 3% despite sell-off pressure on Dalal Street
+  HMA Agro Industries shares rose 5% to  ₹30.98 on February 12, despite a broader market decline. The stock ended 2.5% higher
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-hma-agro-industries-share-price-jumps-3-despite-sell-off-pressure-on-dalal-street-11770894584551.html
 
-- Meta-owned WhatsApp says ‘Today the Russian government attempted to …’ - Times of India
-  The Indian government is believed to be behind the
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2JqTmg4aWdKelF6NUNlUEtLZU9obEpUaXdhVjVNUlpNLUNfNFlBSnZLd3A4aEQ3M05vZXlFTFRIblhJR0x6MFBRUHBaLXRwMWgxYzNIQk94NkRlM2ZQSnhUSVhwUUM4a043dFV2czJSVGhBU3FiLWpKbDhFc0ZFT1BLanN2NjZvdWpERXd4QjU0VmNpWUJBWlVvMGQyVE9RS3pSZFhJMGJrWDNkUUZHMXNzdGdfVVZiTUc5eWx1LWhDeEN4MjBUSndoSElCbThzMXZoMURhb2dxZEtkNkxFelN0VmTSAeoBQVVfeXFMTlgxeTlJaDdtYzB2dUU3cjR5Zm5ldm9UNFVTdWg0R0lIMGo5dVk1eWxlUlQwM1FGbnJqTU1KMmpmY3JxU1RwYWcyZXppRHUtdldzdnRmaVY2NlNOSXlTRmt0VHNyQTYxZ19HRnBuS2sxYTdac0RrOTVhcFE1b0dBZC1uZlZxZGdxdDFIeHQtc0FMNkFSTER6RjhIam1SQWtUSWRYZ2tvZDR5NTBoMFJTX1J0b0NGWEVfZVBCd1BrQjczRWdVWnBORjYzY0xfVHVvMTBJREZ5OUZETXJEY092WllDd1g1ZmJSV3Jn?oc=5
+- Infinix Note Edge to launch in India on 18 February: Check expected price, specs and more
+  The Note Edge has a 1.5K curved AMOLED display, MediaTek Dimensity 7100 processor, and up to 8GB RAM
+  🔗 https://www.livemint.com/technology/tech-news/infinix-note-edge-to-launch-in-india-on-18-february-check-expected-price-specs-and-more-11770894813281.html
 
-- Daily: Downgrading US information technology - UBS
-  &nbsp
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQSlc0bXB5dFk2eVZVcVFEYUFhelNzdE9NVV8tenNWdDBENEZmekJ2dVg4TGVsOXVmTFZubU5ybDI0NU0tei1ld0l3Wm1HNUljRVEwbDFNSUZieU1hYm42UUd0VnQyNzRnUEFVTEduWU9Gbm4wOF9HaFRxd2ZCNnZYeDl1LWZIU2drc0VCNWxIaUdQSEE0bzVsYXZUMHZfVE42RVhicDdodTVBV0lPREIzNDJGLVZIYWkyRWlPZzVIZw?oc=5
+- I found some seriously good deals on Intel-powered Motorola Motobook laptops
+  Motorola Motobook laptops are currently available at attractive prices. From powerful processors to sleek designs and solid battery life, here's a quick look at the deals
+  🔗 https://www.livemint.com/technology/gadgets/i-found-some-seriously-good-deals-on-intel-powered-motorola-motobook-laptops-11770888060280.html
 
-- The Hindu Tech Summit 2026 LIVE: 'Need to ship intelligence out of India in the second phase of AI,' says Sify's Raju Vegesna - The Hindu
-  The Hindu Tech Summit 2026 LIVE: 'Need to ship intelligence out of India in the second phase of AI
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTXdDOFhJZ0RCc01jYlpLb0hraUpHN05vbWFKeDUxSkJjVkthMEhGdHBDeUI5UDYweWwybEJvdFVYN3Jkb3lqTi1kX2dnb200a09rUVdkNEhzSk1MWDdKWjBxaDhZRDhHd1BxM2NyeHI1ODZHRXF0Mm1TQWgyWGdoTFMwZEdBWjI0WkVGVEVJbXhobEJ3OXkwYUUxUy03S1V2Qy0teU1DN1BLNmkxRlRXTGdyZHM3NlpzWjRQa0FrY2hVVGVGRUlLSk55M2E5anlraXhIQWlsaV9wZWFILUxFS241T05Dd9IB7AFBVV95cUxOYUw5NTZLQ2ZCaVQwOGczeGZwNWhJZ2RFY0wwbHU0Z0hPVXM3cVlsXzkybU1wUEU5c05zSDVjbDk1LUVPS3JCVkxwTWpKck8zdlZ1Q29ZZzdkRjZEQ0p5bE5uQTBGa0hlbTE5WnRMVXc1Q20zZ21VQVNvQWdjc0oyVHFEZ0JWTk02R3dlWjdHQ1ltMnM3UDNMcTRmMlRIYXY0ZmRZX0t3RjRJam9MN05ScmJsSmpUQXhaQnVod1k4N2VIdnRXMktnNUxidWpfMks4UHZ0YUNIbmR5OWhpUjRMVjloOHI4TDIyRGpjaQ?oc=5
+- AI Impact Summit 2026: Full schedule, dates, agenda, list of global CEOs attending, and more
+  The AI Impact Summit 2026 is scheduled for February 16-20 in New Delhi. The summit focuses on inclusive AI development and features over 700 sessions.
+  🔗 https://www.livemint.com/technology/tech-news/ai-impact-summit-2026-full-schedule-dates-agenda-list-of-global-ceos-attending-and-more-11770887674654.html
 
-- Border Officials Are Said to Have Caused El Paso Closure by Firing Anti-Drone Laser - The New York Times
-  Border Officials Are Said to Have Caused El Paso Closure by Firing
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmlVY2wxNXppRTVFTnNmR0RRa1FEUnJwMTFDVWpZMG54NXdSYnZ6ZC0wUGlRV0p6UHZXa2UzYjRnQjhhM2dPQy1TWXc1V1pUMTlhbjRzRTBzcUNVRkZnZHY0QlJlNlFQSnNHNUN0TF9Jc3Y5VHlsZTB0aWh4TS1IOU00SnpBQUMxc29YcVFEM0dxRl9jZ0dnR2xoM0U4ZGM?oc=5
+- X Product Head says AI agents will make phone calls and email ‘unusable’ in 3 months: here's why
+  X Product Head Nikita Bier predicts that there will be a surge in spam calls and messages within 90 days. He attributes this to the ease of creating sophisticated scam bots using tools like
+  🔗 https://www.livemint.com/technology/tech-news/x-product-head-says-ai-agents-will-make-phone-calls-and-email-unusable-in-3-months-heres-why-11770877838337.html
 
-- Oracle plans $50 billion raise to build AI cloud infrastructure that will also power HR tech growth - People Matters - HR News
-  Oracle plans $50 billion raise to build AI cloud infrastructure that will also power HR tech growth.
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZkNZT204NXExUVhSSEFpRHVyU3ZLRFNERUJCT2F3N0FXZkR0SlFDd3ZVV2RYa2VSTWNMVDd4UkFPUU1XSlpicjRyQkRqX2pFZjY0OVBSNWdlRWRoaWhsVkY2RTBDZld4MnZPd3NuQ3JNS1RyMFZIb0F0d1R4c2pkS3ZiU0FQa19NZWtaLTlFQVItUjRmU1VCa3dvQzgxZXlvb0x6MHczQnBzVjQ3SExCRER4RmFRRTNZSG1OS3JmM2ZHaE5GQV9vYXNQQkV5Y285c3EzemlOZjdlUHNPTnJjN09MNFZta0NUOGlwM2VYZw?oc=5
+- A year on from DeepSeek shock, get set for flurry of low-cost Chinese AI models
+  A year on from DeepSeek shock, get set
+  🔗 https://www.livemint.com/technology/a-year-on-from-deepseek-shock-get-set-for-flurry-of-low-cost-chinese-ai-models-11770877534317.html
 
-- Garuda Construction Q3 PAT spurts 156% YoY to Rs 33 cr
-  Garuda Construction and Engineering reported a 156.02% jump in consolidated net profit to Rs 32.95 crore on a 125.04% rise in
-  🔗 https://www.business-standard.com/markets/capital-market-news/garuda-construction-q3-pat-spurts-156-yoy-to-rs-33-cr-126021200517_1.html
+- INR settles higher as foreign fund investments lift investor sentiments
+  The Indian rupee appreciated 17 paise to settle for the day at 90.61 (provisional) against the US dollar on Thursday. The benchmark BSE Sensex dropped 558.72 points, or 0.66 percent
+  🔗 https://www.business-standard.com/markets/capital-market-news/inr-settles-higher-as-foreign-fund-investments-lift-investor-sentiments-126021201291_1.html
 
-- Hindustan Unilever Q3 PAT skyrockets 121% YoY to Rs 6,603 cr
-  HUL's consolidated net profit zoomed 120.91% to Rs 6,603 crore on 5.74% jump
-  🔗 https://www.business-standard.com/markets/capital-market-news/hindustan-unilever-q3-pat-skyrockets-121-yoy-to-rs-6-603-cr-126021200516_1.html
+- Consumer price inflation stood at 2.75% in Jan-26 under new series
+  Year-on-year inflation rate based on All India Consumer Price Index (CPI) with base year 2024 for the month of January, 2026 over January, 2025 is 2.75%. Corresponding inflation rates for rural and urban
+  🔗 https://www.business-standard.com/markets/capital-market-news/consumer-price-inflation-stood-at-2-75-in-jan-26-under-new-series-126021201290_1.html
 
-- Volumes spurt at Indegene Ltd counter
-  Indegene Ltd registered volume of 5.38 lakh shares by 10:45 IST on BSE
-  🔗 https://www.business-standard.com/markets/capital-market-news/volumes-spurt-at-indegene-ltd-counter-126021200515_1.html
+- Midwest consolidated net profit rises 29.40% in the December 2025 quarter
+  Sales rise
+  🔗 https://www.business-standard.com/markets/capital-market-news/midwest-consolidated-net-profit-rises-29-40-in-the-december-2025-quarter-126021201289_1.html
 
-- Kirloskar Oil Engines jumps 8% to over 1-year high on strong Q3 results
-  Kirloskar Oil Engines share price touched the highest level since July, 2024 after the company
-  🔗 https://www.business-standard.com/markets/news/kirloskar-oil-engines-jumps-8-to-over-1-year-high-on-strong-q3-results-126021200465_1.html
+- Zaggle Prepaid Ocean Services consolidated net profit rises 84.25% in the December 2025 quarter
+  Sales rise
+  🔗 https://www.business-standard.com/markets/capital-market-news/zaggle-prepaid-ocean-services-consolidated-net-profit-rises-84-25-in-the-december-2025-quarter-126021201288_1.html
 
-- SJVN share price rises 5% to over 1-month high following Q3 results
-  SJVN share price rose as much as 5.3 per cent to ₹81
-  🔗 https://www.business-standard.com/markets/news/sjvn-share-price-rises-5-to-over-1-month-high-following-q3-results-126021200333_1.html
+- Honasa Consumer consolidated net profit rises 92.93% in the December 2025 quarter
+  Sales rise
+  🔗 https://www.business-standard.com/markets/capital-market-news/honasa-consumer-consolidated-net-profit-rises-92-93-in-the-december-2025-quarter-126021201287_1.html
 
-- Rs 3 lakh crore selloff! Sensex tumbles over 500 pts, Nifty below 25,850. What spooked the Indian stock market today?
-  Indian benchmark indices fell sharply as stronger U.S. jobs data dampened hopes of near-term Fed rate cuts. The Nifty IT index plunged nearly 4%, wiping out Rs 1.3 lakh crore in market value.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rs-3-lakh-crore-selloff-sensex-tumbles-over-500-pts-nifty-below-25850-why-is-the-indian-stock-market-down-today/articleshow/128242084.cms
+- India's NSE appoints Rothschild as independent advisor for IPO
+  National Stock Exchange of India appoints Rothschild &amp; Co as independent advisor to oversee its long-awaited initial
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/indias-nse-appoints-rothschild-as-independent-advisor-for-ipo/articleshow/128258099.cms
 
-- Sushovan Nayak sees short-term AI jitters, long-term opportunities for IT giants
-  Indian IT stocks face pressure from global AI advancements and China's innovation. While short-term pain is expected, experts believe the sector's long-term fundamentals remain strong.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/sushovan-nayak-sees-short-term-ai-jitters-long-term-opportunities-for-it-giants/articleshow/128242051.cms
+- UK picks HSBC as platform provider for its digital bond pilot issuance
+  The UK has chosen HSBC's ​blockchain platform to run the country's pilot issuance of digital government bonds. The move puts Britain ahead of its ‌G7 peers
+  🔗 https://economictimes.indiatimes.com/markets/bonds/uk-picks-hsbc-as-platform-provider-for-its-digital-bond-pilot-issuance/articleshow/128257926.cms
 
-- TCS m-cap falls below Rs 10 lakh crore as stock hits 52-week low amid Anthropic AI shock
-  Fears of artificial intelligence disrupting the IT sector are growing. Stronger-than-expected US jobs data also dampened investor sentiment. This has led to a broad sell-off in the Nifty IT index.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tcs-m-cap-falls-below-rs-10-lakh-crore-as-stock-hits-52-week-low-amid-anthropic-ai-shock/articleshow/128242115.cms
+- India bonds rise on short covering after inflation data
+  The 10-year 6.48% 2035 bond yield settled at 6.6833%, compared with 6.7088% on Wednesday. The January inflation reading was
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-on-short-covering-after-inflation-data/articleshow/128257808.cms
 
-- Global Markets: Japan's Nikkei hits 58,000 as yen, JGBs rally on election fallout
-  Japan's Nikkei share average surpassed 58,000 for the first time. Government bonds and the yen also saw gains. Rally follows Prime Minister Sanae Takaichi's election victory.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-hits-58000-as-yen-jgbs-rally-on-election-fallout/articleshow/128241055.cms
+- Housing sales flat at Rs 1.48 lakh cr last yr in 15 tier-II cities, 10pc dip in volumes: PropEquity
+  Housing sales fell 10 per cent last year across 15 tier-II cities to 1.56 lakh units. remained flat in
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/housing-sales-flat-at-rs-1-48-lakh-cr-last-yr-in-15-tier-ii-cities-10pc-dip-in-volumes-propequity/articleshow/128257592.cms
 
-- US-India trade deal revives FII interest, but AI threat clouds earnings and jobs: Saurabh Mukherjea
-  Artificial intelligence is emerging as a significant risk, impacting jobs and business models. Foreign institutional investors are returning to India following the US-India trade agreement.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/us-india-trade-deal-revives-fii-interest-but-ai-threat-clouds-earnings-and-jobs-saurabh-mukherjea/articleshow/128240810.cms
+- Hindalco Industries Q3 Results: Cons PAT slumps 45% YoY to Rs 2,049 crore despite 14% revenue uptick
+  Aditya Birla Group's flagship metal company Hindalco reported a 45% decline in its December quarter consolidated net profit at Rs 2,0
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hindalco-industries-q3-results-cons-pat-slumps-45-yoy-to-rs-2049-crore-despite-14-revenue-uptick/articleshow/128257506.cms
 
-- India cuts takedown window to three hours for YouTube, Meta, X and others - BBC
-  India cuts takedown window to three hours for YouTube, Meta
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE0weDE0TEpaX0tjLThEa0tRbHFBT09ocllubDNSaVpXTElUYWk1YjgzU1dNOHQtNlR2X2czNHN4UWhhbF8wdVhQc3JVWXZvOHRBa25GenZTV1JXUQ?oc=5
+- US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
+  US Walks Back On Pulses, Agri Sector
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
 
-- US Removes Post On India Trade Deal With Map Including PoK, Aksai Chin - NDTV
-  US Removes Post On India Trade Deal With Map Including
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3lybk5xMGVyT1lIMU8yb0xLX0VSZXVTY2Z2NlhWaUxVOU5KTldOTHhkNllfUGg1S0N6Vl8xYjBIMWRySmlJdlI0UDYtRjFCNnZNT29kWTBIUFdXODhCSjBpWG0xbE9WUzJjeGo5REtaalBINHpTdnNNMXNwRWxiOFU2blBYUllMUi1IeFg3ZjVOUTd2Q1d6SHhEcU1PRUdLcnZRUS130gGuAUFVX3lxTE5ybHZGUnVFdnUtRkN5MU5qYWpPMnQ3R2hoRUROVmMwQ3lkSVMzU2Z1eXlCTlUxV19kS3lDdTduWWZkSXlXaWo5NVFVd2JodlMzVEp3UWJ6MXg4M081SzBlcnlIdUpIT19RZlZTSW5kYk5xbHJtWENQTVJ2RnNJWm9tWUlfYnMxWGRPcC10cFBBX0pqWGdmeUNmQUdLUmZGNFNiQjNqd1ZuM2l6TTNnZw?oc=5
+- U.S. President Donald Trump calls India trade deal 'historic' - The Hindu
+  U.S. President Donald Trump calls
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWtVMkRVRWlhVEVsUmV6ck00MHdFOVZyNURaWGtJYThEX0FneUJuRjMzalRTby1lMzN4c1d5ZjVSdzJMY0xDc3h3NDhOa1duczVmcXNsTFI0S0NCOXRYX0cxMkhmY1JPd0JGZ0VzVlVNb1B3SGJQa1picTdGWjhxNEU0UGpDWUduYXJvUXhxUVdnQUF5a2tGMkJ4QnhOaVV2ZXlUQTQ0Y1AtWUtxSi1XWi1mZDZfZzc5WTNReEs3c9IBxgFBVV95cUxOYTZMREhJS1RmTWF1Yi13eEdmVmd0TmlSSXdiNXQxRlVVSlZLUVRDc09vTlpPcnl6SEVLc3RXRzkxTHYtTEN6RHh5TF9Fb3pFWFhhbXZzSVlrUlUyVFZwQ0s2cWRERGtsbXRBMHY5NnItek9fVzRpbFQwVkF6VnRBempBX1k1R2NtVmM5b21xUDdQY3RHMUwtaEtKN21sbGtRM1NZVHhqQi1RTWZSaWprbWhBUUhXNUJHY0x5UUFoUENNbktDSkE?oc=5
 
-- Bharat Bandh Today Live Updates: Nation-wide strike fails to evoke response in West Bengal, Tripura; Tamil Nadu-Kerala bus services suspended - Times of India
-  Nation-wide strike fails to evoke response in West Bengal, Tripura; Tamil Nadu-Kerala
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQNXc5eTNqSk0zN1J6QzFfUW5ZMmowYjZTcTlzMGFvOVdRdW5ZNWo3bms1MWtBS3NIVndIYkN4V0l3RW5CTkFyOWk2Rk01dXJNckxyeDRBa3htS0ZxbF8tUmlUMjlUMmp1eC1VVjdpZm10Wm5DVjQxTG52b0JWZ0NFWG1PM1ZoYW0yVzB5UDlXT3RSRmZzTEJFWlZkMkZHenE1UjlkZTBXeE5yUlQxd1dDWEJHUzR0QlFzTy1VVHdSLWJaaFN4Z193alR6OGdPX2JlYzhSeTdRWFFab2ZhNmFYWEhGRG5BVlNCOEVaM2RhZFo4RHpwMFdkVFRFdUlVOHN0RzU1OExoclTSAY4CQVVfeXFMTnlNYkcxVU0wblhJNEJjeEh6NHpWVndCMHJGejF3UUdhdHRjRFFYRzNZTllHTU5vdXJVQ0dXVGIyeDNfNjQ1eGpaS1JTR2lvZ05XVW9WcWt1WDhPa0dlcHN4dmZnUnNIZURMZUg0bUxyQTlQNk5INXZoS2dBNnFpOGR6OXRyZnlvLUlKZEZnVmdITVdNVFp3NXI3ejlpVXBEQUhDQllKcEJoWC1QdDRTeWpXbktKWUZJVWR6RDZ6UzBkcnFqWkxsZFA1QzV4bHY2YXNMWFdlYXJQMy12TW1mZW9DRW5HTVdVZElIazcxMHNfUDZIZWp6a004VE5EZTJKSFVCRTRQNGhsSUJ3Wkp3?oc=5
+- Why 1,342 athletes exited Khelo India programme in three years - Times of India
+  Why 1,342 athletes exited Khelo India
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYmcyMHJVQWJSaFVHSHNzclR4X2JfRExlQXZaTG02cGpFTHhLOFF0UlM2Z0FtdktCeTdOQlc2OTU0V3NYOURwd2lyNnhMVnBqN29yS2RVdnNleUVZRGg3M1VlQ1FKazZpdERZaHV0cHU4VjNtcDc0X043Qm9zT1AwNk5tVnIzTHQtQ0FHNUhVb3NnclMwOTRSR2NBaGhwZjRhRFJEY2NxVEFZUUV2a1hNNnBud0xjRWs2WTg0Z2U3RGRBSlk5eFVBamhlaGl2ZjdCZW50VTNHZlFTdllIMFQ2T25jcFYwN0RWM2czWEV2d0hpYTDSAfgBQVVfeXFMTTA2bnRlTVl6X29KUmJkaDJnWGt4blBKRHUzRXJuQ256eVJndU1wZHVDYlc4a2k5ZDZUN2d1WXdyTTR0dUlKejVWTUJQUjNncTRMME1od0N1M0ZNNFU5bVB5aHBlMFBzNFptazlUeDA5TXhMWWk4b21Da05YblpWUk9mUkdIbHF6LTBFNzU4ZlpmTXZ6UzFndzFpajkybUtQUTVmSlJTSV9vNHdoeXp1eENZYzVUbDRhZkxFT1B5Sl9KR1R5ZTItaDJZemFaS0hjU0p5YmlzRTh3aUVBYWg0eDhwUjdmMTd6SUhNSEwxZjlWak9UUERwSWo?oc=5
 
-- Sunil Jakhar Invites Punjab Farmers for Dialogue on India-US Trade Agreement - News On AIR
-  Sunil Jakhar Invites Punjab Farmers for Dialogue on
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXU0X0xJUFNodWp2SDJpRnhaaGJYNldDX0ZpYWJDTFJFdXVkNnJRa1hfekthVVNXMVRFNXhSVS1HMUpzVnoyS1hSenM1WkVMU2FOTm0tWXg3RERfc3ZGS0t1QUkxSVcwRjZTcS0zdWRjbk1WQXhOV0J1cDZGSXZkZHhjOFp4WFlvWldTWFRRVzdkblp1cHRDUFIteUc5Vk5zUF80R0RQQ3hNdw?oc=5
+- Amid turbulent global economy, India sustains robust growth: Standing Committee on Finance to LS - News On AIR
+  &nbsp;&ngt;<font color="#6
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNVZKV3lkYVAzckRnbXFaT0hwOHh1YkV0bTFvUElDenR0QUtWSjF2ZHR4aG5YRXVKOXpqQzhRd2N1NWJKNWVrQmlVdl9oT2xlZDZITGRnTVRZb1NHTXVFX1pjVFdlV2tWb1pCODdQS19iRnFxM2s4VVhWaU9kMmRLQk82enRjRzJ4UURTVmFhYUNfdnZEbW1sZmlrekZfbmUxR2pseW8tbHVpRk5YMmNuZ25JZlZ1SGZQdERqQ3FpZlNtdw?oc=5
 
-- Rusty India go down to Belgium in Pro League opener - Times of India
-  Rusty India go down to Belgium in Pro League
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVUxbUNxcTBOZkRMTzIyUnZ6Vm5IYWVuSDE1ejgyQkc5Z0xMV1Q0QWZ2THlGeE1rNDhQRXQxVGJsM2VhbWtUUm1JQWhvOGhjc3pPVVFNaDV5R0IwUERsSS04SnB3NTVJZzR0VEJ2X3ZZdW9odmdvYjVYQlZxVG80aDg3dWU5UmFzWlNoSzI2UURCWWxLYWJxT3pUQWJncHZSUjNsUzN5dGFUX1hXX2M2WURrc2xEQWtsQmUzMEQybHBsYW_SAcgBQVVfeXFMTXMyUkFSSm5fYzRWSE9ITW5US2xPcmZwU3dOYXVESmJZUUVSZHRPLWFOTEZMLWIwSVlMYW56SlZMTUxKdGZxbXh4NUptbVJJTGdYSzgyVkl5Mi1yUzB3cGlhRDRkYnQ4TWFsc1VxQ3NaaVh5MG1tNU5hVTJBMDg4c2VMdWxrWjI5NjNFekstSkEtSFR5NVBJR3M0QldrNGFJV2VCamg3THpBaHZkZlBEMHllRk4tYnRyYXFlTlRramRDM3QwRkxDLVM?oc=5
+- 'Baba' Accused In Triple Murder Case In Delhi Shows "No Remorse": Cops - NDTV
+  'Baba' Accused In Triple Murder Case
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlhZaTNHNlYxU3l2R3Y4Z1pTS3YxeUF3WmNueHBob3cydWdUaC1NUFBKTDIzcGx0ZnVtRHpkSUw3OXZpRHA0RkRPZHhWS2hSQVdXX1hvdzNiRm80VVhZcTlJcU82R2xWU3hkVHMtZUhWejktcV8yVXM2S2hsU0wxYXFXVjJwUlRGN3FsQjgtN05PYVVFdW9EemEzdlZMZHJaQ2JsbzcyUWppd9IBsgFBVV95cUxPQzJIYjFpTk4wMFd6VEFSUXZnSEQ4ZnVCWmhmN2NLVmNzR2tpT1dveDdRdTY3bU13dGNCMWRFTjB3R3dwbnFkRGU1QWdDOXdKTWdXZTlORnF3YklZUGd4RUtzMXlWOVc3a19nVnd3bkp2S0dmZG9fT3YwbGg1RXZfY3BvN29lUTlQNTJObXhxS21qMVNYd1d6QTJxdUoxWWdrdXFZdnpXWFg5VXJiNWI0N3hR?oc=5
 
-- India cuts takedown window to three hours for YouTube, Meta, X and others - BBC
-  India cuts takedown window to three hours for YouTube, Meta
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE0weDE0TEpaX0tjLThEa0tRbHFBT09ocllubDNSaVpXTElUYWk1YjgzU1dNOHQtNlR2X2czNHN4UWhhbF8wdVhQc3JVWXZvOHRBa25GenZTV1JXUQ?oc=5
+- US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
+  US Walks Back On Pulses, Agri Sector
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
 
-- US Removes Post On India Trade Deal With Map Including PoK, Aksai Chin - NDTV
-  US Removes Post On India Trade Deal With Map Including
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3lybk5xMGVyT1lIMU8yb0xLX0VSZXVTY2Z2NlhWaUxVOU5KTldOTHhkNllfUGg1S0N6Vl8xYjBIMWRySmlJdlI0UDYtRjFCNnZNT29kWTBIUFdXODhCSjBpWG0xbE9WUzJjeGo5REtaalBINHpTdnNNMXNwRWxiOFU2blBYUllMUi1IeFg3ZjVOUTd2Q1d6SHhEcU1PRUdLcnZRUS130gGuAUFVX3lxTE5ybHZGUnVFdnUtRkN5MU5qYWpPMnQ3R2hoRUROVmMwQ3lkSVMzU2Z1eXlCTlUxV19kS3lDdTduWWZkSXlXaWo5NVFVd2JodlMzVEp3UWJ6MXg4M081SzBlcnlIdUpIT19RZlZTSW5kYk5xbHJtWENQTVJ2RnNJWm9tWUlfYnMxWGRPcC10cFBBX0pqWGdmeUNmQUdLUmZGNFNiQjNqd1ZuM2l6TTNnZw?oc=5
+- U.S. President Donald Trump calls India trade deal 'historic' - The Hindu
+  U.S. President Donald Trump calls
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWtVMkRVRWlhVEVsUmV6ck00MHdFOVZyNURaWGtJYThEX0FneUJuRjMzalRTby1lMzN4c1d5ZjVSdzJMY0xDc3h3NDhOa1duczVmcXNsTFI0S0NCOXRYX0cxMkhmY1JPd0JGZ0VzVlVNb1B3SGJQa1picTdGWjhxNEU0UGpDWUduYXJvUXhxUVdnQUF5a2tGMkJ4QnhOaVV2ZXlUQTQ0Y1AtWUtxSi1XWi1mZDZfZzc5WTNReEs3c9IBxgFBVV95cUxOYTZMREhJS1RmTWF1Yi13eEdmVmd0TmlSSXdiNXQxRlVVSlZLUVRDc09vTlpPcnl6SEVLc3RXRzkxTHYtTEN6RHh5TF9Fb3pFWFhhbXZzSVlrUlUyVFZwQ0s2cWRERGtsbXRBMHY5NnItek9fVzRpbFQwVkF6VnRBempBX1k1R2NtVmM5b21xUDdQY3RHMUwtaEtKN21sbGtRM1NZVHhqQi1RTWZSaWprbWhBUUhXNUJHY0x5UUFoUENNbktDSkE?oc=5
 
-- Bharat Bandh Today Live Updates: Nation-wide strike fails to evoke response in West Bengal, Tripura; Tamil Nadu-Kerala bus services suspended - Times of India
-  Nation-wide strike fails to evoke response in West Bengal, Tripura; Tamil Nadu-Kerala
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQNXc5eTNqSk0zN1J6QzFfUW5ZMmowYjZTcTlzMGFvOVdRdW5ZNWo3bms1MWtBS3NIVndIYkN4V0l3RW5CTkFyOWk2Rk01dXJNckxyeDRBa3htS0ZxbF8tUmlUMjlUMmp1eC1VVjdpZm10Wm5DVjQxTG52b0JWZ0NFWG1PM1ZoYW0yVzB5UDlXT3RSRmZzTEJFWlZkMkZHenE1UjlkZTBXeE5yUlQxd1dDWEJHUzR0QlFzTy1VVHdSLWJaaFN4Z193alR6OGdPX2JlYzhSeTdRWFFab2ZhNmFYWEhGRG5BVlNCOEVaM2RhZFo4RHpwMFdkVFRFdUlVOHN0RzU1OExoclTSAY4CQVVfeXFMTnlNYkcxVU0wblhJNEJjeEh6NHpWVndCMHJGejF3UUdhdHRjRFFYRzNZTllHTU5vdXJVQ0dXVGIyeDNfNjQ1eGpaS1JTR2lvZ05XVW9WcWt1WDhPa0dlcHN4dmZnUnNIZURMZUg0bUxyQTlQNk5INXZoS2dBNnFpOGR6OXRyZnlvLUlKZEZnVmdITVdNVFp3NXI3ejlpVXBEQUhDQllKcEJoWC1QdDRTeWpXbktKWUZJVWR6RDZ6UzBkcnFqWkxsZFA1QzV4bHY2YXNMWFdlYXJQMy12TW1mZW9DRW5HTVdVZElIazcxMHNfUDZIZWp6a004VE5EZTJKSFVCRTRQNGhsSUJ3Wkp3?oc=5
+- Why 1,342 athletes exited Khelo India programme in three years - Times of India
+  Why 1,342 athletes exited Khelo India
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYmcyMHJVQWJSaFVHSHNzclR4X2JfRExlQXZaTG02cGpFTHhLOFF0UlM2Z0FtdktCeTdOQlc2OTU0V3NYOURwd2lyNnhMVnBqN29yS2RVdnNleUVZRGg3M1VlQ1FKazZpdERZaHV0cHU4VjNtcDc0X043Qm9zT1AwNk5tVnIzTHQtQ0FHNUhVb3NnclMwOTRSR2NBaGhwZjRhRFJEY2NxVEFZUUV2a1hNNnBud0xjRWs2WTg0Z2U3RGRBSlk5eFVBamhlaGl2ZjdCZW50VTNHZlFTdllIMFQ2T25jcFYwN0RWM2czWEV2d0hpYTDSAfgBQVVfeXFMTTA2bnRlTVl6X29KUmJkaDJnWGt4blBKRHUzRXJuQ256eVJndU1wZHVDYlc4a2k5ZDZUN2d1WXdyTTR0dUlKejVWTUJQUjNncTRMME1od0N1M0ZNNFU5bVB5aHBlMFBzNFptazlUeDA5TXhMWWk4b21Da05YblpWUk9mUkdIbHF6LTBFNzU4ZlpmTXZ6UzFndzFpajkybUtQUTVmSlJTSV9vNHdoeXp1eENZYzVUbDRhZkxFT1B5Sl9KR1R5ZTItaDJZemFaS0hjU0p5YmlzRTh3aUVBYWg0eDhwUjdmMTd6SUhNSEwxZjlWak9UUERwSWo?oc=5
 
-- Sunil Jakhar Invites Punjab Farmers for Dialogue on India-US Trade Agreement - News On AIR
-  Sunil Jakhar Invites Punjab Farmers for Dialogue on
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXU0X0xJUFNodWp2SDJpRnhaaGJYNldDX0ZpYWJDTFJFdXVkNnJRa1hfekthVVNXMVRFNXhSVS1HMUpzVnoyS1hSenM1WkVMU2FOTm0tWXg3RERfc3ZGS0t1QUkxSVcwRjZTcS0zdWRjbk1WQXhOV0J1cDZGSXZkZHhjOFp4WFlvWldTWFRRVzdkblp1cHRDUFIteUc5Vk5zUF80R0RQQ3hNdw?oc=5
+- Amid turbulent global economy, India sustains robust growth: Standing Committee on Finance to LS - News On AIR
+  &nbsp;&ngt;<font color="#6
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNVZKV3lkYVAzckRnbXFaT0hwOHh1YkV0bTFvUElDenR0QUtWSjF2ZHR4aG5YRXVKOXpqQzhRd2N1NWJKNWVrQmlVdl9oT2xlZDZITGRnTVRZb1NHTXVFX1pjVFdlV2tWb1pCODdQS19iRnFxM2s4VVhWaU9kMmRLQk82enRjRzJ4UURTVmFhYUNfdnZEbW1sZmlrekZfbmUxR2pseW8tbHVpRk5YMmNuZ25JZlZ1SGZQdERqQ3FpZlNtdw?oc=5
 
-- Rusty India go down to Belgium in Pro League opener - Times of India
-  Rusty India go down to Belgium in Pro League
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVUxbUNxcTBOZkRMTzIyUnZ6Vm5IYWVuSDE1ejgyQkc5Z0xMV1Q0QWZ2THlGeE1rNDhQRXQxVGJsM2VhbWtUUm1JQWhvOGhjc3pPVVFNaDV5R0IwUERsSS04SnB3NTVJZzR0VEJ2X3ZZdW9odmdvYjVYQlZxVG80aDg3dWU5UmFzWlNoSzI2UURCWWxLYWJxT3pUQWJncHZSUjNsUzN5dGFUX1hXX2M2WURrc2xEQWtsQmUzMEQybHBsYW_SAcgBQVVfeXFMTXMyUkFSSm5fYzRWSE9ITW5US2xPcmZwU3dOYXVESmJZUUVSZHRPLWFOTEZMLWIwSVlMYW56SlZMTUxKdGZxbXh4NUptbVJJTGdYSzgyVkl5Mi1yUzB3cGlhRDRkYnQ4TWFsc1VxQ3NaaVh5MG1tNU5hVTJBMDg4c2VMdWxrWjI5NjNFekstSkEtSFR5NVBJR3M0QldrNGFJV2VCamg3THpBaHZkZlBEMHllRk4tYnRyYXFlTlRramRDM3QwRkxDLVM?oc=5
-
-- India cuts takedown window to three hours for YouTube, Meta, X and others - BBC
-  India cuts takedown window to three hours for YouTube, Meta
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE0weDE0TEpaX0tjLThEa0tRbHFBT09ocllubDNSaVpXTElUYWk1YjgzU1dNOHQtNlR2X2czNHN4UWhhbF8wdVhQc3JVWXZvOHRBa25GenZTV1JXUQ?oc=5
-
-- US Removes Post On India Trade Deal With Map Including PoK, Aksai Chin - NDTV
-  US Removes Post On India Trade Deal With Map Including
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3lybk5xMGVyT1lIMU8yb0xLX0VSZXVTY2Z2NlhWaUxVOU5KTldOTHhkNllfUGg1S0N6Vl8xYjBIMWRySmlJdlI0UDYtRjFCNnZNT29kWTBIUFdXODhCSjBpWG0xbE9WUzJjeGo5REtaalBINHpTdnNNMXNwRWxiOFU2blBYUllMUi1IeFg3ZjVOUTd2Q1d6SHhEcU1PRUdLcnZRUS130gGuAUFVX3lxTE5ybHZGUnVFdnUtRkN5MU5qYWpPMnQ3R2hoRUROVmMwQ3lkSVMzU2Z1eXlCTlUxV19kS3lDdTduWWZkSXlXaWo5NVFVd2JodlMzVEp3UWJ6MXg4M081SzBlcnlIdUpIT19RZlZTSW5kYk5xbHJtWENQTVJ2RnNJWm9tWUlfYnMxWGRPcC10cFBBX0pqWGdmeUNmQUdLUmZGNFNiQjNqd1ZuM2l6TTNnZw?oc=5
-
-- Bharat Bandh Today Live Updates: Nation-wide strike fails to evoke response in West Bengal, Tripura; Tamil Nadu-Kerala bus services suspended - Times of India
-  Nation-wide strike fails to evoke response in West Bengal, Tripura; Tamil Nadu-Kerala
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQNXc5eTNqSk0zN1J6QzFfUW5ZMmowYjZTcTlzMGFvOVdRdW5ZNWo3bms1MWtBS3NIVndIYkN4V0l3RW5CTkFyOWk2Rk01dXJNckxyeDRBa3htS0ZxbF8tUmlUMjlUMmp1eC1VVjdpZm10Wm5DVjQxTG52b0JWZ0NFWG1PM1ZoYW0yVzB5UDlXT3RSRmZzTEJFWlZkMkZHenE1UjlkZTBXeE5yUlQxd1dDWEJHUzR0QlFzTy1VVHdSLWJaaFN4Z193alR6OGdPX2JlYzhSeTdRWFFab2ZhNmFYWEhGRG5BVlNCOEVaM2RhZFo4RHpwMFdkVFRFdUlVOHN0RzU1OExoclTSAY4CQVVfeXFMTnlNYkcxVU0wblhJNEJjeEh6NHpWVndCMHJGejF3UUdhdHRjRFFYRzNZTllHTU5vdXJVQ0dXVGIyeDNfNjQ1eGpaS1JTR2lvZ05XVW9WcWt1WDhPa0dlcHN4dmZnUnNIZURMZUg0bUxyQTlQNk5INXZoS2dBNnFpOGR6OXRyZnlvLUlKZEZnVmdITVdNVFp3NXI3ejlpVXBEQUhDQllKcEJoWC1QdDRTeWpXbktKWUZJVWR6RDZ6UzBkcnFqWkxsZFA1QzV4bHY2YXNMWFdlYXJQMy12TW1mZW9DRW5HTVdVZElIazcxMHNfUDZIZWp6a004VE5EZTJKSFVCRTRQNGhsSUJ3Wkp3?oc=5
-
-- Sunil Jakhar Invites Punjab Farmers for Dialogue on India-US Trade Agreement - News On AIR
-  Sunil Jakhar Invites Punjab Farmers for Dialogue on
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXU0X0xJUFNodWp2SDJpRnhaaGJYNldDX0ZpYWJDTFJFdXVkNnJRa1hfekthVVNXMVRFNXhSVS1HMUpzVnoyS1hSenM1WkVMU2FOTm0tWXg3RERfc3ZGS0t1QUkxSVcwRjZTcS0zdWRjbk1WQXhOV0J1cDZGSXZkZHhjOFp4WFlvWldTWFRRVzdkblp1cHRDUFIteUc5Vk5zUF80R0RQQ3hNdw?oc=5
-
-- Rusty India go down to Belgium in Pro League opener - Times of India
-  Rusty India go down to Belgium in Pro League
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVUxbUNxcTBOZkRMTzIyUnZ6Vm5IYWVuSDE1ejgyQkc5Z0xMV1Q0QWZ2THlGeE1rNDhQRXQxVGJsM2VhbWtUUm1JQWhvOGhjc3pPVVFNaDV5R0IwUERsSS04SnB3NTVJZzR0VEJ2X3ZZdW9odmdvYjVYQlZxVG80aDg3dWU5UmFzWlNoSzI2UURCWWxLYWJxT3pUQWJncHZSUjNsUzN5dGFUX1hXX2M2WURrc2xEQWtsQmUzMEQybHBsYW_SAcgBQVVfeXFMTXMyUkFSSm5fYzRWSE9ITW5US2xPcmZwU3dOYXVESmJZUUVSZHRPLWFOTEZMLWIwSVlMYW56SlZMTUxKdGZxbXh4NUptbVJJTGdYSzgyVkl5Mi1yUzB3cGlhRDRkYnQ4TWFsc1VxQ3NaaVh5MG1tNU5hVTJBMDg4c2VMdWxrWjI5NjNFekstSkEtSFR5NVBJR3M0QldrNGFJV2VCamg3THpBaHZkZlBEMHllRk4tYnRyYXFlTlRramRDM3QwRkxDLVM?oc=5
-
-- India cuts takedown window to three hours for YouTube, Meta, X and others - BBC
-  India cuts takedown window to three hours for YouTube, Meta
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE0weDE0TEpaX0tjLThEa0tRbHFBT09ocllubDNSaVpXTElUYWk1YjgzU1dNOHQtNlR2X2czNHN4UWhhbF8wdVhQc3JVWXZvOHRBa25GenZTV1JXUQ?oc=5
-
-- US Removes Post On India Trade Deal With Map Including PoK, Aksai Chin - NDTV
-  US Removes Post On India Trade Deal With Map Including
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3lybk5xMGVyT1lIMU8yb0xLX0VSZXVTY2Z2NlhWaUxVOU5KTldOTHhkNllfUGg1S0N6Vl8xYjBIMWRySmlJdlI0UDYtRjFCNnZNT29kWTBIUFdXODhCSjBpWG0xbE9WUzJjeGo5REtaalBINHpTdnNNMXNwRWxiOFU2blBYUllMUi1IeFg3ZjVOUTd2Q1d6SHhEcU1PRUdLcnZRUS130gGuAUFVX3lxTE5ybHZGUnVFdnUtRkN5MU5qYWpPMnQ3R2hoRUROVmMwQ3lkSVMzU2Z1eXlCTlUxV19kS3lDdTduWWZkSXlXaWo5NVFVd2JodlMzVEp3UWJ6MXg4M081SzBlcnlIdUpIT19RZlZTSW5kYk5xbHJtWENQTVJ2RnNJWm9tWUlfYnMxWGRPcC10cFBBX0pqWGdmeUNmQUdLUmZGNFNiQjNqd1ZuM2l6TTNnZw?oc=5
-
-- Bharat Bandh Today Live Updates: Nation-wide strike fails to evoke response in West Bengal, Tripura; Tamil Nadu-Kerala bus services suspended - Times of India
-  Nation-wide strike fails to evoke response in West Bengal, Tripura; Tamil Nadu-Kerala
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQNXc5eTNqSk0zN1J6QzFfUW5ZMmowYjZTcTlzMGFvOVdRdW5ZNWo3bms1MWtBS3NIVndIYkN4V0l3RW5CTkFyOWk2Rk01dXJNckxyeDRBa3htS0ZxbF8tUmlUMjlUMmp1eC1VVjdpZm10Wm5DVjQxTG52b0JWZ0NFWG1PM1ZoYW0yVzB5UDlXT3RSRmZzTEJFWlZkMkZHenE1UjlkZTBXeE5yUlQxd1dDWEJHUzR0QlFzTy1VVHdSLWJaaFN4Z193alR6OGdPX2JlYzhSeTdRWFFab2ZhNmFYWEhGRG5BVlNCOEVaM2RhZFo4RHpwMFdkVFRFdUlVOHN0RzU1OExoclTSAY4CQVVfeXFMTnlNYkcxVU0wblhJNEJjeEh6NHpWVndCMHJGejF3UUdhdHRjRFFYRzNZTllHTU5vdXJVQ0dXVGIyeDNfNjQ1eGpaS1JTR2lvZ05XVW9WcWt1WDhPa0dlcHN4dmZnUnNIZURMZUg0bUxyQTlQNk5INXZoS2dBNnFpOGR6OXRyZnlvLUlKZEZnVmdITVdNVFp3NXI3ejlpVXBEQUhDQllKcEJoWC1QdDRTeWpXbktKWUZJVWR6RDZ6UzBkcnFqWkxsZFA1QzV4bHY2YXNMWFdlYXJQMy12TW1mZW9DRW5HTVdVZElIazcxMHNfUDZIZWp6a004VE5EZTJKSFVCRTRQNGhsSUJ3Wkp3?oc=5
-
-- Sunil Jakhar Invites Punjab Farmers for Dialogue on India-US Trade Agreement - News On AIR
-  Sunil Jakhar Invites Punjab Farmers for Dialogue on
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXU0X0xJUFNodWp2SDJpRnhaaGJYNldDX0ZpYWJDTFJFdXVkNnJRa1hfekthVVNXMVRFNXhSVS1HMUpzVnoyS1hSenM1WkVMU2FOTm0tWXg3RERfc3ZGS0t1QUkxSVcwRjZTcS0zdWRjbk1WQXhOV0J1cDZGSXZkZHhjOFp4WFlvWldTWFRRVzdkblp1cHRDUFIteUc5Vk5zUF80R0RQQ3hNdw?oc=5
-
-- Rusty India go down to Belgium in Pro League opener - Times of India
-  Rusty India go down to Belgium in Pro League
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVUxbUNxcTBOZkRMTzIyUnZ6Vm5IYWVuSDE1ejgyQkc5Z0xMV1Q0QWZ2THlGeE1rNDhQRXQxVGJsM2VhbWtUUm1JQWhvOGhjc3pPVVFNaDV5R0IwUERsSS04SnB3NTVJZzR0VEJ2X3ZZdW9odmdvYjVYQlZxVG80aDg3dWU5UmFzWlNoSzI2UURCWWxLYWJxT3pUQWJncHZSUjNsUzN5dGFUX1hXX2M2WURrc2xEQWtsQmUzMEQybHBsYW_SAcgBQVVfeXFMTXMyUkFSSm5fYzRWSE9ITW5US2xPcmZwU3dOYXVESmJZUUVSZHRPLWFOTEZMLWIwSVlMYW56SlZMTUxKdGZxbXh4NUptbVJJTGdYSzgyVkl5Mi1yUzB3cGlhRDRkYnQ4TWFsc1VxQ3NaaVh5MG1tNU5hVTJBMDg4c2VMdWxrWjI5NjNFekstSkEtSFR5NVBJR3M0QldrNGFJV2VCamg3THpBaHZkZlBEMHllRk4tYnRyYXFlTlRramRDM3QwRkxDLVM?oc=5
-
-- India cuts takedown window to three hours for YouTube, Meta, X and others - BBC
-  India cuts takedown window to three hours for YouTube, Meta
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE0weDE0TEpaX0tjLThEa0tRbHFBT09ocllubDNSaVpXTElUYWk1YjgzU1dNOHQtNlR2X2czNHN4UWhhbF8wdVhQc3JVWXZvOHRBa25GenZTV1JXUQ?oc=5
-
-- US Removes Post On India Trade Deal With Map Including PoK, Aksai Chin - NDTV
-  US Removes Post On India Trade Deal With Map Including
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3lybk5xMGVyT1lIMU8yb0xLX0VSZXVTY2Z2NlhWaUxVOU5KTldOTHhkNllfUGg1S0N6Vl8xYjBIMWRySmlJdlI0UDYtRjFCNnZNT29kWTBIUFdXODhCSjBpWG0xbE9WUzJjeGo5REtaalBINHpTdnNNMXNwRWxiOFU2blBYUllMUi1IeFg3ZjVOUTd2Q1d6SHhEcU1PRUdLcnZRUS130gGuAUFVX3lxTE5ybHZGUnVFdnUtRkN5MU5qYWpPMnQ3R2hoRUROVmMwQ3lkSVMzU2Z1eXlCTlUxV19kS3lDdTduWWZkSXlXaWo5NVFVd2JodlMzVEp3UWJ6MXg4M081SzBlcnlIdUpIT19RZlZTSW5kYk5xbHJtWENQTVJ2RnNJWm9tWUlfYnMxWGRPcC10cFBBX0pqWGdmeUNmQUdLUmZGNFNiQjNqd1ZuM2l6TTNnZw?oc=5
-
-- Bharat Bandh Today Live Updates: Nation-wide strike fails to evoke response in West Bengal, Tripura; Tamil Nadu-Kerala bus services suspended - Times of India
-  Nation-wide strike fails to evoke response in West Bengal, Tripura; Tamil Nadu-Kerala
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQNXc5eTNqSk0zN1J6QzFfUW5ZMmowYjZTcTlzMGFvOVdRdW5ZNWo3bms1MWtBS3NIVndIYkN4V0l3RW5CTkFyOWk2Rk01dXJNckxyeDRBa3htS0ZxbF8tUmlUMjlUMmp1eC1VVjdpZm10Wm5DVjQxTG52b0JWZ0NFWG1PM1ZoYW0yVzB5UDlXT3RSRmZzTEJFWlZkMkZHenE1UjlkZTBXeE5yUlQxd1dDWEJHUzR0QlFzTy1VVHdSLWJaaFN4Z193alR6OGdPX2JlYzhSeTdRWFFab2ZhNmFYWEhGRG5BVlNCOEVaM2RhZFo4RHpwMFdkVFRFdUlVOHN0RzU1OExoclTSAY4CQVVfeXFMTnlNYkcxVU0wblhJNEJjeEh6NHpWVndCMHJGejF3UUdhdHRjRFFYRzNZTllHTU5vdXJVQ0dXVGIyeDNfNjQ1eGpaS1JTR2lvZ05XVW9WcWt1WDhPa0dlcHN4dmZnUnNIZURMZUg0bUxyQTlQNk5INXZoS2dBNnFpOGR6OXRyZnlvLUlKZEZnVmdITVdNVFp3NXI3ejlpVXBEQUhDQllKcEJoWC1QdDRTeWpXbktKWUZJVWR6RDZ6UzBkcnFqWkxsZFA1QzV4bHY2YXNMWFdlYXJQMy12TW1mZW9DRW5HTVdVZElIazcxMHNfUDZIZWp6a004VE5EZTJKSFVCRTRQNGhsSUJ3Wkp3?oc=5
-
-- Sunil Jakhar Invites Punjab Farmers for Dialogue on India-US Trade Agreement - News On AIR
-  Sunil Jakhar Invites Punjab Farmers for Dialogue on
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXU0X0xJUFNodWp2SDJpRnhaaGJYNldDX0ZpYWJDTFJFdXVkNnJRa1hfekthVVNXMVRFNXhSVS1HMUpzVnoyS1hSenM1WkVMU2FOTm0tWXg3RERfc3ZGS0t1QUkxSVcwRjZTcS0zdWRjbk1WQXhOV0J1cDZGSXZkZHhjOFp4WFlvWldTWFRRVzdkblp1cHRDUFIteUc5Vk5zUF80R0RQQ3hNdw?oc=5
-
-- Rusty India go down to Belgium in Pro League opener - Times of India
-  Rusty India go down to Belgium in Pro League
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVUxbUNxcTBOZkRMTzIyUnZ6Vm5IYWVuSDE1ejgyQkc5Z0xMV1Q0QWZ2THlGeE1rNDhQRXQxVGJsM2VhbWtUUm1JQWhvOGhjc3pPVVFNaDV5R0IwUERsSS04SnB3NTVJZzR0VEJ2X3ZZdW9odmdvYjVYQlZxVG80aDg3dWU5UmFzWlNoSzI2UURCWWxLYWJxT3pUQWJncHZSUjNsUzN5dGFUX1hXX2M2WURrc2xEQWtsQmUzMEQybHBsYW_SAcgBQVVfeXFMTXMyUkFSSm5fYzRWSE9ITW5US2xPcmZwU3dOYXVESmJZUUVSZHRPLWFOTEZMLWIwSVlMYW56SlZMTUxKdGZxbXh4NUptbVJJTGdYSzgyVkl5Mi1yUzB3cGlhRDRkYnQ4TWFsc1VxQ3NaaVh5MG1tNU5hVTJBMDg4c2VMdWxrWjI5NjNFekstSkEtSFR5NVBJR3M0QldrNGFJV2VCamg3THpBaHZkZlBEMHllRk4tYnRyYXFlTlRramRDM3QwRkxDLVM?oc=5
-
-- Meta-owned WhatsApp says ‘Today the Russian government attempted to …’ - Times of India
-  The Indian government is believed to be behind the
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2JqTmg4aWdKelF6NUNlUEtLZU9obEpUaXdhVjVNUlpNLUNfNFlBSnZLd3A4aEQ3M05vZXlFTFRIblhJR0x6MFBRUHBaLXRwMWgxYzNIQk94NkRlM2ZQSnhUSVhwUUM4a043dFV2czJSVGhBU3FiLWpKbDhFc0ZFT1BLanN2NjZvdWpERXd4QjU0VmNpWUJBWlVvMGQyVE9RS3pSZFhJMGJrWDNkUUZHMXNzdGdfVVZiTUc5eWx1LWhDeEN4MjBUSndoSElCbThzMXZoMURhb2dxZEtkNkxFelN0VmTSAeoBQVVfeXFMTlgxeTlJaDdtYzB2dUU3cjR5Zm5ldm9UNFVTdWg0R0lIMGo5dVk1eWxlUlQwM1FGbnJqTU1KMmpmY3JxU1RwYWcyZXppRHUtdldzdnRmaVY2NlNOSXlTRmt0VHNyQTYxZ19HRnBuS2sxYTdac0RrOTVhcFE1b0dBZC1uZlZxZGdxdDFIeHQtc0FMNkFSTER6RjhIam1SQWtUSWRYZ2tvZDR5NTBoMFJTX1J0b0NGWEVfZVBCd1BrQjczRWdVWnBORjYzY0xfVHVvMTBJREZ5OUZETXJEY092WllDd1g1ZmJSV3Jn?oc=5
-
-- Daily: Downgrading US information technology - UBS
-  &nbsp
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQSlc0bXB5dFk2eVZVcVFEYUFhelNzdE9NVV8tenNWdDBENEZmekJ2dVg4TGVsOXVmTFZubU5ybDI0NU0tei1ld0l3Wm1HNUljRVEwbDFNSUZieU1hYm42UUd0VnQyNzRnUEFVTEduWU9Gbm4wOF9HaFRxd2ZCNnZYeDl1LWZIU2drc0VCNWxIaUdQSEE0bzVsYXZUMHZfVE42RVhicDdodTVBV0lPREIzNDJGLVZIYWkyRWlPZzVIZw?oc=5
-
-- The Hindu Tech Summit 2026 LIVE: 'Need to ship intelligence out of India in the second phase of AI,' says Sify's Raju Vegesna - The Hindu
-  The Hindu Tech Summit 2026 LIVE: 'Need to ship intelligence out of India in the second phase of AI
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTXdDOFhJZ0RCc01jYlpLb0hraUpHN05vbWFKeDUxSkJjVkthMEhGdHBDeUI5UDYweWwybEJvdFVYN3Jkb3lqTi1kX2dnb200a09rUVdkNEhzSk1MWDdKWjBxaDhZRDhHd1BxM2NyeHI1ODZHRXF0Mm1TQWgyWGdoTFMwZEdBWjI0WkVGVEVJbXhobEJ3OXkwYUUxUy03S1V2Qy0teU1DN1BLNmkxRlRXTGdyZHM3NlpzWjRQa0FrY2hVVGVGRUlLSk55M2E5anlraXhIQWlsaV9wZWFILUxFS241T05Dd9IB7AFBVV95cUxOYUw5NTZLQ2ZCaVQwOGczeGZwNWhJZ2RFY0wwbHU0Z0hPVXM3cVlsXzkybU1wUEU5c05zSDVjbDk1LUVPS3JCVkxwTWpKck8zdlZ1Q29ZZzdkRjZEQ0p5bE5uQTBGa0hlbTE5WnRMVXc1Q20zZ21VQVNvQWdjc0oyVHFEZ0JWTk02R3dlWjdHQ1ltMnM3UDNMcTRmMlRIYXY0ZmRZX0t3RjRJam9MN05ScmJsSmpUQXhaQnVod1k4N2VIdnRXMktnNUxidWpfMks4UHZ0YUNIbmR5OWhpUjRMVjloOHI4TDIyRGpjaQ?oc=5
-
-- Border Officials Are Said to Have Caused El Paso Closure by Firing Anti-Drone Laser - The New York Times
-  Border Officials Are Said to Have Caused El Paso Closure by Firing
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmlVY2wxNXppRTVFTnNmR0RRa1FEUnJwMTFDVWpZMG54NXdSYnZ6ZC0wUGlRV0p6UHZXa2UzYjRnQjhhM2dPQy1TWXc1V1pUMTlhbjRzRTBzcUNVRkZnZHY0QlJlNlFQSnNHNUN0TF9Jc3Y5VHlsZTB0aWh4TS1IOU00SnpBQUMxc29YcVFEM0dxRl9jZ0dnR2xoM0U4ZGM?oc=5
-
-- Oracle plans $50 billion raise to build AI cloud infrastructure that will also power HR tech growth - People Matters - HR News
-  Oracle plans $50 billion raise to build AI cloud infrastructure that will also power HR tech growth.
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZkNZT204NXExUVhSSEFpRHVyU3ZLRFNERUJCT2F3N0FXZkR0SlFDd3ZVV2RYa2VSTWNMVDd4UkFPUU1XSlpicjRyQkRqX2pFZjY0OVBSNWdlRWRoaWhsVkY2RTBDZld4MnZPd3NuQ3JNS1RyMFZIb0F0d1R4c2pkS3ZiU0FQa19NZWtaLTlFQVItUjRmU1VCa3dvQzgxZXlvb0x6MHczQnBzVjQ3SExCRER4RmFRRTNZSG1OS3JmM2ZHaE5GQV9vYXNQQkV5Y285c3EzemlOZjdlUHNPTnJjN09MNFZta0NUOGlwM2VYZw?oc=5
+- 'Baba' Accused In Triple Murder Case In Delhi Shows "No Remorse": Cops - NDTV
+  'Baba' Accused In Triple Murder Case
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlhZaTNHNlYxU3l2R3Y4Z1pTS3YxeUF3WmNueHBob3cydWdUaC1NUFBKTDIzcGx0ZnVtRHpkSUw3OXZpRHA0RkRPZHhWS2hSQVdXX1hvdzNiRm80VVhZcTlJcU82R2xWU3hkVHMtZUhWejktcV8yVXM2S2hsU0wxYXFXVjJwUlRGN3FsQjgtN05PYVVFdW9EemEzdlZMZHJaQ2JsbzcyUWppd9IBsgFBVV95cUxPQzJIYjFpTk4wMFd6VEFSUXZnSEQ4ZnVCWmhmN2NLVmNzR2tpT1dveDdRdTY3bU13dGNCMWRFTjB3R3dwbnFkRGU1QWdDOXdKTWdXZTlORnF3YklZUGd4RUtzMXlWOVc3a19nVnd3bkp2S0dmZG9fT3YwbGg1RXZfY3BvN29lUTlQNTJObXhxS21qMVNYd1d6QTJxdUoxWWdrdXFZdnpXWFg5VXJiNWI0N3hR?oc=5
 
 
-_Last updated: 2026-02-12 07:01:38 UTC_
+_Last updated: 2026-02-12 13:00:07 UTC_
