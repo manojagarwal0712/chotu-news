@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- In a first, IAF instructors to train British pilots at Royal Air Force Valley
+- Group disrupts Valentine’s Day ‘pre-event’ at Indore college, gets into heated argument with students
   
-  🔗 https://indianexpress.com/article/india/in-a-first-iaf-instructors-to-train-british-pilots-at-royal-air-force-valley-10529300/
+  🔗 https://indianexpress.com/article/india/group-valentines-day-pre-event-indore-college-heated-argument-students-10529401/
 
-- ‘Reflects commitment to collaborative maritime security’: India assumes command of multinational training task force CTF 154
+- Epstein files fallout: Priyanka Gandhi Vadra demands Hardeep Puri’s resignation
   
-  🔗 https://indianexpress.com/article/india/reflects-commitment-to-collaborative-maritime-security-india-assumes-command-of-multinational-training-task-force-ctf-154-10529277/
+  🔗 https://indianexpress.com/article/india/epstein-files-fallout-priyanka-gandhi-vadra-demands-hardeep-puris-resignation-10529470/
 
-- Dankuni-Surat freight corridor: Railway Board asks agency to update DPR, formalise optimum tech standards
+- Telangana Municipal Election Results 2026 Live Updates: Counting of votes for 116 municipalities, 7 corporations to begin shortly
   
-  🔗 https://indianexpress.com/article/india/dankuni-surat-freight-corridor-railway-board-dpr-optimum-tech-standards-10529202/
+  🔗 https://indianexpress.com/article/india/telangana-municipal-election-results-2026-live-updates-municipal-corporations-municipalities-election-result-counting-10528940/
 
-- ‘Every day, someone’s dignity is tarnished’ — J&K Assembly erupts over ‘fake news and doctored videos’
+- Vikram Misri meets Sergio Gor as India says joint statement is bedrock of US trade deal
   
-  🔗 https://indianexpress.com/article/india/jk-assembly-erupts-fake-news-doctored-videos-10529166/
+  🔗 https://indianexpress.com/article/india/vikram-misri-meets-sergio-gor-as-india-says-joint-statement-is-bedrock-of-us-trade-deal-10529450/
 
-- ‘We don’t need this’: Rajasthan Health Minister remark over Right to Health law sparks outrage in Assembly
+- Education Minister Dharmendra Pradhan is guest at Adda today
   
-  🔗 https://indianexpress.com/article/india/rajasthan-health-minister-right-health-law-sparks-outrage-assembly-10529119/
+  🔗 https://indianexpress.com/article/india/education-minister-dharmendra-pradhan-is-guest-at-adda-today-10529368/
 
 - Google Photos may finally fix its most annoying sharing hurdle with a new ‘Copy’ button
   
@@ -60,25 +60,33 @@
   The two fires at the Novelis plant in Oswego occurred on 16 September, 2025, and 20 November
   🔗 https://www.livemint.com/companies/company-results/fires-at-novelis-singe-hindalco-profit-by-45-11770906298428.html
 
-- IGL Q3 results: Net profits rise 11% YoY to  ₹392 crore;  ₹3.25/share dividend declared — Check record date here
-  Indraprastha Gas recorded an 11% rise in its consolidated net profit to  ₹391 crore in the October to December
-  🔗 https://www.livemint.com/market/stock-market-news/igl-q3-results-net-profits-rise-11-yoy-to-rs-391-crore-rs-3-25-share-dividend-declared-check-record-date-here-11770909022707.html
+- Indian stock market: 8 key things that changed for market overnight - Gift Nifty, US tech stocks sell-off to gold prices
+  Gift Nifty was trading around 25,716 level, a discount of nearly 142 points from the Nifty futures
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-8-key-things-that-changed-for-market-overnight-gift-nifty-us-tech-stocks-selloff-to-gold-prices-11770915139295.html
 
-- Gold, silver rates today: Comex gold slips $33/oz; silver down $3/oz as strong US jobs data lowers Fed rate cut bets
-   COMEX gold fell to $5,065, while silver slipped to $81.25. Domestic gold and silver also saw significant drops.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-slips-33-oz-silver-down-3-oz-as-strong-us-jobs-data-lowers-fed-rate-cut-bets-11770902077185.html
+- Gold and silver rate today LIVE: Gold, silver prices remain lower — More pain ahead?
+  Currently, gold prices on the MCX hover in a tight range of around  ₹155,000 to  ⁹158
+  🔗 https://www.livemint.com/market/commodities/gold-and-silver-rate-today-live-gold-silver-prices-remain-lower-more-pain-ahead-11770900951169.html
 
-- Dow Jones, S&amp;P 500, Nasdaq surge as investors focus on easing US unemployment data — Details
-  Dow Jones, S&amp;amp;P 500, and Nasdaq surged at the US stock market open on 12 February 2026. Investors focused on easing unemployment concerns in
-  🔗 https://www.livemint.com/market/stock-market-news/dow-jones-s-p-500-nasdaq-surge-at-us-stock-market-open-as-investors-focus-on-easing-unemployment-concerns-detail-11770907464444.html
+- Capex boom, stock price gloom: Three speciality chemical stocks to watch
+  Three speciality chemical stocks to watch with heavy capex and no returns in the last
+  🔗 https://www.livemint.com/market/stock-market-news/speciality-chemical-stocks-aarti-industries-vinati-organics-clean-science-outlook-11770894609442.html
 
-- Why does Google need to borrow money for 100 years?
-  The last time a technology company issued a 100-year bond was in 1997, when Motorola did it
-  🔗 https://www.livemint.com/market/stock-market-news/google-alphabet-century-bond-ai-infrastructure-investment-strategy-11770902135707.html
+- Can the proposed PFC-REC merger revive their stocks?
+  Despite their improved asset quality and undeniable industry tailwinds,uncertainty looms over the potential
+  🔗 https://www.livemint.com/market/stock-market-news/pfc-rec-merger-pfc-share-price-rec-share-price-11770884382004.html
 
-- Coal India Q3 Results: Net profit down 16% YoY to  ₹7,166 crore; declares interim dividend of  ₹5.5 per share
-  Coal India reported a consolidated net profit of  ₹7,165 crore for the December quarter. Revenue fell 4.7% to  ⁹30
-  🔗 https://www.livemint.com/market/stock-market-news/coal-india-q3-results-net-profit-down-16-yoy-to-rs-7-166-crore-declares-interim-dividend-of-rs-5-5-per-share-11770904292263.html
+- Stocks to buy: Raja Venkatraman's recommends three stocks for 13 February
+  Market expert Raja Venkatraman shares his three top stock picks to buy today, 13 February.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-three-stocks-13-february-sensex-nifty-11770902865538.html
+
+- Mint Explainer | India’s AI rules and the elusive quest for online safety
+  The AI rules should make internet platforms better monitored for deepfake content. However, the implementation remains to be seen.
+  🔗 https://www.livemint.com/technology/india-new-ai-rules-content-takedown-social-media-safety-deepfakes-watermarks-11770904152225.html
+
+- Anthropic hits a $380B valuation as it heightens competition with OpenAI
+  Anthropic hits a $
+  🔗 https://www.livemint.com/technology/anthropic-hits-a-380b-valuation-as-it-heightens-competition-with-openai-11770936406906.html
 
 - International bodies endorse core principles for future 6G networks under New Delhi declaration: MoS Communications
   Pemmasani Chandra Sekhar said that through the joint statement titled the New Delhi Declaration at the Bharat 6G Symposium 2025, international bodies endorsed the core principles for future 6G networks.
@@ -92,13 +100,13 @@
   The Note Edge has a 1.5K curved AMOLED display, MediaTek Dimensity 7100 processor, and up to 8GB RAM
   🔗 https://www.livemint.com/technology/tech-news/infinix-note-edge-to-launch-in-india-on-18-february-check-expected-price-specs-and-more-11770894813281.html
 
-- I found some seriously good deals on Intel-powered Motorola Motobook laptops
-  Motorola Motobook laptops are currently available at attractive prices. From powerful processors to sleek designs and solid battery life, here's a quick look at the deals
-  🔗 https://www.livemint.com/technology/gadgets/i-found-some-seriously-good-deals-on-intel-powered-motorola-motobook-laptops-11770888060280.html
+- Technical stock picks by Bonanza: Max Financial, Muthoot, Bharat Forge
+  Max Financial, Muthoot Finance and Bharat Forge show strong
+  🔗 https://www.business-standard.com/markets/news/technical-stock-picks-by-bonanza-max-financial-muthoot-bharat-forge-target-price-126021300069_1.html
 
-- AI Impact Summit 2026: Full schedule, dates, agenda, list of global CEOs attending, and more
-  The AI Impact Summit 2026 is scheduled for February 16-20 in New Delhi. The summit focuses on inclusive AI development and features over 700 sessions.
-  🔗 https://www.livemint.com/technology/tech-news/ai-impact-summit-2026-full-schedule-dates-agenda-list-of-global-ceos-attending-and-more-11770887674654.html
+- Bajaj Finance Options strategy: HDFC Securities suggests Bull Call Spread
+  Nandish Shah of HDFC Securities suggests Bajaj Finance bull call spread for 24 Feb
+  🔗 https://www.business-standard.com/markets/news/bajaj-finance-options-strategy-hdfc-securities-suggests-bull-call-spread-for-feb-24-expiry-126021300068_1.html
 
 - Dynamic Cables forays into building wires segment
   With launch of its FR
@@ -112,113 +120,105 @@
   The court also disposed of the accompanying interim application seeking amendment of the writ petition
   🔗 https://www.business-standard.com/markets/ipo/bombay-hc-disposes-final-writ-against-wework-india-ipo-126021201656_1.html
 
-- J Kumar Infraprojects receives project of Rs 615.53 cr
-  
-  🔗 https://www.business-standard.com/markets/capital-market-news/j-kumar-infraprojects-receives-project-of-rs-615-53-cr-126021201651_1.html
+- Market quote of the day by Philip Fisher | “The stock market is filled with individuals who know the price of everything, but the value of nothing”
+  In volatile times, understanding a business's fundamentals is crucial. Philip Fisher's timeless advice highlights the market's tendency to prioritize stock prices over intrinsic value. This disciplined approach, focusing on value rather than fleeting
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-philip-fisher-the-stock-market-is-filled-with-individuals-who-know-the-price-of-everything-but-the-value-of-nothing/articleshow/128257513.cms
 
-- Prostarm Info Systems emerges lowest bidder by West Bengal Medical Services Corporation
-  
-  🔗 https://www.business-standard.com/markets/capital-market-news/prostarm-info-systems-emerges-lowest-bidder-by-west-bengal-medical-services-corporation-126021201649_1.html
+- GIFT Nifty down 130 points; here's the trading setup for today's session
+  The Nifty traded within a narrow range, and the India VIX saw a slight increase. Investors will monitor global and domestic inflation, trade developments, and FII flows.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128282847.cms
 
-- Infosys ADRs plunge over 7%, Wipro down 5% as tech turbulence deepens on Wall Street
-  Infosys’ American Depositary Receipts (ADRs) slumped more than 7% on Thursday, touching an intraday low of $14.59. Wipro’s AD
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/infosys-adrs-plunge-over-7-wipro-down-5-as-tech-turbulence-deepens-on-wall-street/articleshow/128267209.cms
+- Stocks in news: SpiceJet, TCS, Infosys, Coal India, Hindalco
+  Indian markets closed lower on Thursday due to a sharp correction in IT stocks. Despite supportive global and domestic factors, the IT pack's weakness temporarily impacted investor sentiment. Analysts suggest limited downside potential due to strength in other sectors.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-spicejet-tcs-infosys-coal-india-hindalco/articleshow/128282709.cms
 
-- Infosys ADRs plunge over 7%, Wipro down 5% as tech turbulence deepens on Wall Street
-  Infosys’ American Depositary Receipts (ADRs) slumped more than 7% on Thursday, touching an intraday low of $14.59. Wipro’s AD
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/infosys-adrs-plunge-over-7-wipro-down-5-as-tech-turbulence-deepens-on-wall-street/articleshow/128267167.cms
+- Global Market Today: Asian stocks drop after AI jitters hit Wall Street
+  Asian markets saw a dip from record highs. Concerns over artificial intelligence's impact on technology sectors caused a sell-off. Investors sought safety in US Treasuries.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/asian-stocks-drop-after-ai-jitters-hit-wall-street/articleshow/128282536.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Friday
-  Market sentiment weakened amid heavy IT selling and strong US jobs data dampening rate-cut hopes. Nifty struggled near 26,000 and may consolidate between 25,500 and 26
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/128267003.cms
+- Unilever profit rises, but warns of 'slowing markets'
+  Net profit from retained brands rose 4.6% to $6.8 billion last year. Despite anticipating slower market conditions for 2026, Unilever expressed confidence in its focused strategy.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/unilever-profit-rises-but-warns-of-slowing-markets/articleshow/128282405.cms
 
-- US Stocks: Burger King-parent beats sales estimates on international demand, value push
-  Restaurant Brands International reported fourth-quarter sales above estimates. Strength in international Burger King outlets, even as it faces stiff competition for its value menus.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-burger-king-parent-beats-sales-estimates-on-international-demand-value-push/articleshow/128266676.cms
-
-- US Stocks: AI cloud firm Nebius posts surge in capex on GPU, data center expenses
-   AI cloud firm rushes to secure capacity to meet soaring demand. Nebius Group reported a sharp rise in quarterly capital spending on Thursday.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-ai-cloud-firm-nebius-posts-surge-in-capex-on-gpu-data-center-expenses/articleshow/128266491.cms
+- US Removes Post On India Trade Deal With Map Including PoK, Aksai Chin - NDTV
+  US Removes Post On India Trade Deal With Map Including
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3lybk5xMGVyT1lIMU8yb0xLX0VSZXVTY2Z2NlhWaUxVOU5KTldOTHhkNllfUGg1S0N6Vl8xYjBIMWRySmlJdlI0UDYtRjFCNnZNT29kWTBIUFdXODhCSjBpWG0xbE9WUzJjeGo5REtaalBINHpTdnNNMXNwRWxiOFU2blBYUllMUi1IeFg3ZjVOUTd2Q1d6SHhEcU1PRUdLcnZRUS130gGuAUFVX3lxTE5ybHZGUnVFdnUtRkN5MU5qYWpPMnQ3R2hoRUROVmMwQ3lkSVMzU2Z1eXlCTlUxV19kS3lDdTduWWZkSXlXaWo5NVFVd2JodlMzVEp3UWJ6MXg4M081SzBlcnlIdUpIT19RZlZTSW5kYk5xbHJtWENQTVJ2RnNJWm9tWUlfYnMxWGRPcC10cFBBX0pqWGdmeUNmQUdLUmZGNFNiQjNqd1ZuM2l6TTNnZw?oc=5
 
 - U.S. President Donald Trump calls India trade deal 'historic' - The Hindu
   U.S. President Donald Trump calls
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWtVMkRVRWlhVEVsUmV6ck00MHdFOVZyNURaWGtJYThEX0FneUJuRjMzalRTby1lMzN4c1d5ZjVSdzJMY0xDc3h3NDhOa1duczVmcXNsTFI0S0NCOXRYX0cxMkhmY1JPd0JGZ0VzVlVNb1B3SGJQa1picTdGWjhxNEU0UGpDWUduYXJvUXhxUVdnQUF5a2tGMkJ4QnhOaVV2ZXlUQTQ0Y1AtWUtxSi1XWi1mZDZfZzc5WTNReEs3c9IBxgFBVV95cUxOYTZMREhJS1RmTWF1Yi13eEdmVmd0TmlSSXdiNXQxRlVVSlZLUVRDc09vTlpPcnl6SEVLc3RXRzkxTHYtTEN6RHh5TF9Fb3pFWFhhbXZzSVlrUlUyVFZwQ0s2cWRERGtsbXRBMHY5NnItek9fVzRpbFQwVkF6VnRBempBX1k1R2NtVmM5b21xUDdQY3RHMUwtaEtKN21sbGtRM1NZVHhqQi1RTWZSaWprbWhBUUhXNUJHY0x5UUFoUENNbktDSkE?oc=5
 
-- US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
-  US Walks Back On Pulses, Agri Sector
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
+- India didn't send observers for Bangladesh polls: MEA - Times of India
+  India didn't send observers for Bangladesh polls
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlBxM0JxSHJHTzZPaEs1MVBTWFNOeE5xYVFibXVnb0ZSSVVlY3RRT2dsOS1yeFZYckNXSjRIYUtvRU94MVZBSmV1Z2hmN1dQdGtCNDUwNExwSU9ndUlOTjBzSVk0Q3lIaXJkTGljRnR3NnJ1SGY5SG52Qnpfa1lVTXNNb0FnRmlvWHA2V096TEJ4YllMaWZmNFZ3YjBJRjJ6Tjh5SExiOGRqdl9BdHhSM0lQS3dhbkU0OHVJ0gHAAUFVX3lxTE1aSUN3ZEFhZzhxcUFsaTFiSHN2NjdtajRfdUtTZWNOWFhZNWV0dTVfQWFEUkI2aGlhcmNFMFBSLVlEXy1JdTNOREJxeVp6QlM1U3Q0TE5mUkx3aWpCdHROWllMc0tyMVhRLUd4aUlzZzJtZFNQR1lWZmQ5Y09mQ3pNbmFRRXVyZ2U2X1Y5SlFhdTdIZ0stdGd6T2FKazF3MFB6aW5DaEJlZXpYSjlJS1Uyb3NWT0VvRTZ1Vk1ZdS0yNA?oc=5
 
-- Textile Industry Hails India-US Interim Trade Agreement - News On AIR
-  Textile Industry Hails India-
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkgyNFVRWWpSZE9iY1BqclhoTTh1QVhDMVZadmZoTGxBdXVNaERzZ1huY2dtM2F0cUNqMDhXUkRMYVVqQjVGRDNRd3B3bUlndHlMVXE1NTM1VUlyajdacENyeHF6Z2dfWldyaGw0SjZZWm80a3I3WkR5OGREWkRSU3dvNjBxZnpYVnJUbGhB?oc=5
+- BNP Wants Best Of Both Worlds - Hasina's Return And Good Ties With India - NDTV
+  " target="_blank">BNP Wants Best
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYVZBZ29MUXVGYzR2TmV1YVQ1ZEY3X1ZZYXBGcktpNVRfek5QVklpSE5pNmowMzdhZXNZcUQza0d1a1N6QmMtLTJpdXRyNTlSa0pKbDFfcE92aFRwQW1SYzhzUWlIN1hVdlMxeHB1RU05SmhSLUdzVnZiN0lpSlVRclhaRzkwZ3NmXzZjYUNzeGFwRDlLRHY4UDQ4dGVMcWFiRlZaRERPQnUwVy1mUzhOTnFqYzRkeFNJUm9OTGF1UTBLcVNXbVU2NEItS1RjeThV0gHYAUFVX3lxTE94Wm5GbkpDNFNuSmpSWk0tNFVTNF9yVG9Ob0ZEV3BXRnJtOUFNd1VSdElGY1AyMmdMcnV0THNqTlBOM1NGcGxBWHotMnN5cEJIaHpjLXN4alFDRkRVcmtVZ1l5dnQxa2QyWEp1ZnVCZUp1amFsMFo1ZDdoNThud1RvcDV3WXp2bVMxbUE2R25ZNE1jUmNucG13ajZ3cEhPbWZjZDV5M2FBd0lVS3lQS1BXN1UxaXdHd1F2aDlpNWRTWkJ4VHNBTkkwWXJyUXZlS0MwYmhWQnhFQQ?oc=5
 
-- Over 3,200 people arrested during Operation Prahar-2: Punjab Police - Times of India
-  Over 3,200 people arrested during Operation Pra
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPTTRxTXFZaU5zQlNWZ1RyNnlIUldKZE5xODU3Sk8wU3NaaG9xXzRkeHIwOGp6VFF0cE9oS2YwWWNGanJtSEpBeFhQMGdxQldJTWllNTNFVjdIcHlXU1V1VVlzc3MtcDl5Qm1NQ2ZlRU9uRWVjUDd1OEZzc3FaTDJ1YmpZWTFyaEMyaG4tX1FwTWhyVE9oOFhuaC0wY0l1czljRmFFX09PTjJyT2RrdEUtR1Q3dlZkN2xzNmhUdi1BdnVrelBnWGlRc0QwR0VEZ9IB0wFBVV95cUxON2JOMVdOSm83SXlZSzlRTXdmWXc4Ml9VZHR4WUdKS0IyYnJ6T1NfSzdHckZyaGZmWElqSV9KcjA3cVUxU25JNnhRZmdnX1l3VjhtSGR0M0J2Y3pKMmt3S2xyZHpZTUJVQkgtTXlCaXY3YU45b2NlX1hLUEtnWUhzSE9Ib244RG1xd3htSjhZUGdjdVZNZ3RGb2Fpam9MUU1VenF3NnhnLVRQRldOOUNERkgzdjJXbVNON0hZV1lTazBEOTBuQzI5dDlTeGdvYVA5a09R?oc=5
+- The Hindu Morning Digest: February 13, 2026 - The Hindu
+  The Hindu Morning Digest: February
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOERjY0RiUHE2VUh2M3V6Z1VDYlAtamxGdVVpNHdnV19BYVNOdUJYRzFrdk95NnFKUGJXQ0phMU9oQUoxRkppUG5udzdaekUxNVFvaUp1cjBuTlZHWUNJdmktS3lDWTg5cFpPZWI2dE9GSnFQYkdhd3l5azRkc1pwYTBsY0lTZEZC0gGPAUFVX3lxTE9rZTR2VjI1bHROV0JKTUpfa1Q5SlppNEhKMEhoRzVDY1o1amYtMjA5eTlfVzBzZDRfb05IWUtDZHFLSTd5dGRJNm10WUdvQW1VeldoWlRxUlNHMEYydVRTVUdvVmdjYjI4MXBTSnpBS3l2Tmpya0RXQ0ZjLXdDSU5pU1RwUEg0c0pJbGVwbnlV?oc=5
 
-- 2,661 Indian Fishermen Repatriated From Pakistan Since 2014: Centre - NDTV
-  2,661 Indian Fishermen Rep
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa3AwUUtfRWlhQWM2R3QwUWVfNElPY3BlN2djMy1pSUpiVTJnbkRTVEV6eXE5TWZScDIzeldhOE82d1NjMk1xTklZSEJ6a0dxbTloOEFKdzVHSkh4T1VUc2J4eVMydF9hSHM5OHk4OXdVTGI3U2ttTl8wekxYNi10QnRVTUc4RVBfYTdmMTMzVk83ZVQ2eWZkZUhWM2Qtazc4QzhtanhHd0xDbkk?oc=5
-
-- U.S. President Donald Trump calls India trade deal 'historic' - The Hindu
-  U.S. President Donald Trump calls
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWtVMkRVRWlhVEVsUmV6ck00MHdFOVZyNURaWGtJYThEX0FneUJuRjMzalRTby1lMzN4c1d5ZjVSdzJMY0xDc3h3NDhOa1duczVmcXNsTFI0S0NCOXRYX0cxMkhmY1JPd0JGZ0VzVlVNb1B3SGJQa1picTdGWjhxNEU0UGpDWUduYXJvUXhxUVdnQUF5a2tGMkJ4QnhOaVV2ZXlUQTQ0Y1AtWUtxSi1XWi1mZDZfZzc5WTNReEs3c9IBxgFBVV95cUxOYTZMREhJS1RmTWF1Yi13eEdmVmd0TmlSSXdiNXQxRlVVSlZLUVRDc09vTlpPcnl6SEVLc3RXRzkxTHYtTEN6RHh5TF9Fb3pFWFhhbXZzSVlrUlUyVFZwQ0s2cWRERGtsbXRBMHY5NnItek9fVzRpbFQwVkF6VnRBempBX1k1R2NtVmM5b21xUDdQY3RHMUwtaEtKN21sbGtRM1NZVHhqQi1RTWZSaWprbWhBUUhXNUJHY0x5UUFoUENNbktDSkE?oc=5
-
-- US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
-  US Walks Back On Pulses, Agri Sector
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
-
-- Textile Industry Hails India-US Interim Trade Agreement - News On AIR
-  Textile Industry Hails India-
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkgyNFVRWWpSZE9iY1BqclhoTTh1QVhDMVZadmZoTGxBdXVNaERzZ1huY2dtM2F0cUNqMDhXUkRMYVVqQjVGRDNRd3B3bUlndHlMVXE1NTM1VUlyajdacENyeHF6Z2dfWldyaGw0SjZZWm80a3I3WkR5OGREWkRSU3dvNjBxZnpYVnJUbGhB?oc=5
-
-- Over 3,200 people arrested during Operation Prahar-2: Punjab Police - Times of India
-  Over 3,200 people arrested during Operation Pra
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPTTRxTXFZaU5zQlNWZ1RyNnlIUldKZE5xODU3Sk8wU3NaaG9xXzRkeHIwOGp6VFF0cE9oS2YwWWNGanJtSEpBeFhQMGdxQldJTWllNTNFVjdIcHlXU1V1VVlzc3MtcDl5Qm1NQ2ZlRU9uRWVjUDd1OEZzc3FaTDJ1YmpZWTFyaEMyaG4tX1FwTWhyVE9oOFhuaC0wY0l1czljRmFFX09PTjJyT2RrdEUtR1Q3dlZkN2xzNmhUdi1BdnVrelBnWGlRc0QwR0VEZ9IB0wFBVV95cUxON2JOMVdOSm83SXlZSzlRTXdmWXc4Ml9VZHR4WUdKS0IyYnJ6T1NfSzdHckZyaGZmWElqSV9KcjA3cVUxU25JNnhRZmdnX1l3VjhtSGR0M0J2Y3pKMmt3S2xyZHpZTUJVQkgtTXlCaXY3YU45b2NlX1hLUEtnWUhzSE9Ib244RG1xd3htSjhZUGdjdVZNZ3RGb2Fpam9MUU1VenF3NnhnLVRQRldOOUNERkgzdjJXbVNON0hZV1lTazBEOTBuQzI5dDlTeGdvYVA5a09R?oc=5
-
-- 2,661 Indian Fishermen Repatriated From Pakistan Since 2014: Centre - NDTV
-  2,661 Indian Fishermen Rep
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa3AwUUtfRWlhQWM2R3QwUWVfNElPY3BlN2djMy1pSUpiVTJnbkRTVEV6eXE5TWZScDIzeldhOE82d1NjMk1xTklZSEJ6a0dxbTloOEFKdzVHSkh4T1VUc2J4eVMydF9hSHM5OHk4OXdVTGI3U2ttTl8wekxYNi10QnRVTUc4RVBfYTdmMTMzVk83ZVQ2eWZkZUhWM2Qtazc4QzhtanhHd0xDbkk?oc=5
+- US Removes Post On India Trade Deal With Map Including PoK, Aksai Chin - NDTV
+  US Removes Post On India Trade Deal With Map Including
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3lybk5xMGVyT1lIMU8yb0xLX0VSZXVTY2Z2NlhWaUxVOU5KTldOTHhkNllfUGg1S0N6Vl8xYjBIMWRySmlJdlI0UDYtRjFCNnZNT29kWTBIUFdXODhCSjBpWG0xbE9WUzJjeGo5REtaalBINHpTdnNNMXNwRWxiOFU2blBYUllMUi1IeFg3ZjVOUTd2Q1d6SHhEcU1PRUdLcnZRUS130gGuAUFVX3lxTE5ybHZGUnVFdnUtRkN5MU5qYWpPMnQ3R2hoRUROVmMwQ3lkSVMzU2Z1eXlCTlUxV19kS3lDdTduWWZkSXlXaWo5NVFVd2JodlMzVEp3UWJ6MXg4M081SzBlcnlIdUpIT19RZlZTSW5kYk5xbHJtWENQTVJ2RnNJWm9tWUlfYnMxWGRPcC10cFBBX0pqWGdmeUNmQUdLUmZGNFNiQjNqd1ZuM2l6TTNnZw?oc=5
 
 - U.S. President Donald Trump calls India trade deal 'historic' - The Hindu
   U.S. President Donald Trump calls
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWtVMkRVRWlhVEVsUmV6ck00MHdFOVZyNURaWGtJYThEX0FneUJuRjMzalRTby1lMzN4c1d5ZjVSdzJMY0xDc3h3NDhOa1duczVmcXNsTFI0S0NCOXRYX0cxMkhmY1JPd0JGZ0VzVlVNb1B3SGJQa1picTdGWjhxNEU0UGpDWUduYXJvUXhxUVdnQUF5a2tGMkJ4QnhOaVV2ZXlUQTQ0Y1AtWUtxSi1XWi1mZDZfZzc5WTNReEs3c9IBxgFBVV95cUxOYTZMREhJS1RmTWF1Yi13eEdmVmd0TmlSSXdiNXQxRlVVSlZLUVRDc09vTlpPcnl6SEVLc3RXRzkxTHYtTEN6RHh5TF9Fb3pFWFhhbXZzSVlrUlUyVFZwQ0s2cWRERGtsbXRBMHY5NnItek9fVzRpbFQwVkF6VnRBempBX1k1R2NtVmM5b21xUDdQY3RHMUwtaEtKN21sbGtRM1NZVHhqQi1RTWZSaWprbWhBUUhXNUJHY0x5UUFoUENNbktDSkE?oc=5
 
-- US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
-  US Walks Back On Pulses, Agri Sector
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
+- India didn't send observers for Bangladesh polls: MEA - Times of India
+  India didn't send observers for Bangladesh polls
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlBxM0JxSHJHTzZPaEs1MVBTWFNOeE5xYVFibXVnb0ZSSVVlY3RRT2dsOS1yeFZYckNXSjRIYUtvRU94MVZBSmV1Z2hmN1dQdGtCNDUwNExwSU9ndUlOTjBzSVk0Q3lIaXJkTGljRnR3NnJ1SGY5SG52Qnpfa1lVTXNNb0FnRmlvWHA2V096TEJ4YllMaWZmNFZ3YjBJRjJ6Tjh5SExiOGRqdl9BdHhSM0lQS3dhbkU0OHVJ0gHAAUFVX3lxTE1aSUN3ZEFhZzhxcUFsaTFiSHN2NjdtajRfdUtTZWNOWFhZNWV0dTVfQWFEUkI2aGlhcmNFMFBSLVlEXy1JdTNOREJxeVp6QlM1U3Q0TE5mUkx3aWpCdHROWllMc0tyMVhRLUd4aUlzZzJtZFNQR1lWZmQ5Y09mQ3pNbmFRRXVyZ2U2X1Y5SlFhdTdIZ0stdGd6T2FKazF3MFB6aW5DaEJlZXpYSjlJS1Uyb3NWT0VvRTZ1Vk1ZdS0yNA?oc=5
 
-- Textile Industry Hails India-US Interim Trade Agreement - News On AIR
-  Textile Industry Hails India-
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkgyNFVRWWpSZE9iY1BqclhoTTh1QVhDMVZadmZoTGxBdXVNaERzZ1huY2dtM2F0cUNqMDhXUkRMYVVqQjVGRDNRd3B3bUlndHlMVXE1NTM1VUlyajdacENyeHF6Z2dfWldyaGw0SjZZWm80a3I3WkR5OGREWkRSU3dvNjBxZnpYVnJUbGhB?oc=5
+- BNP Wants Best Of Both Worlds - Hasina's Return And Good Ties With India - NDTV
+  " target="_blank">BNP Wants Best
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYVZBZ29MUXVGYzR2TmV1YVQ1ZEY3X1ZZYXBGcktpNVRfek5QVklpSE5pNmowMzdhZXNZcUQza0d1a1N6QmMtLTJpdXRyNTlSa0pKbDFfcE92aFRwQW1SYzhzUWlIN1hVdlMxeHB1RU05SmhSLUdzVnZiN0lpSlVRclhaRzkwZ3NmXzZjYUNzeGFwRDlLRHY4UDQ4dGVMcWFiRlZaRERPQnUwVy1mUzhOTnFqYzRkeFNJUm9OTGF1UTBLcVNXbVU2NEItS1RjeThV0gHYAUFVX3lxTE94Wm5GbkpDNFNuSmpSWk0tNFVTNF9yVG9Ob0ZEV3BXRnJtOUFNd1VSdElGY1AyMmdMcnV0THNqTlBOM1NGcGxBWHotMnN5cEJIaHpjLXN4alFDRkRVcmtVZ1l5dnQxa2QyWEp1ZnVCZUp1amFsMFo1ZDdoNThud1RvcDV3WXp2bVMxbUE2R25ZNE1jUmNucG13ajZ3cEhPbWZjZDV5M2FBd0lVS3lQS1BXN1UxaXdHd1F2aDlpNWRTWkJ4VHNBTkkwWXJyUXZlS0MwYmhWQnhFQQ?oc=5
 
-- Over 3,200 people arrested during Operation Prahar-2: Punjab Police - Times of India
-  Over 3,200 people arrested during Operation Pra
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPTTRxTXFZaU5zQlNWZ1RyNnlIUldKZE5xODU3Sk8wU3NaaG9xXzRkeHIwOGp6VFF0cE9oS2YwWWNGanJtSEpBeFhQMGdxQldJTWllNTNFVjdIcHlXU1V1VVlzc3MtcDl5Qm1NQ2ZlRU9uRWVjUDd1OEZzc3FaTDJ1YmpZWTFyaEMyaG4tX1FwTWhyVE9oOFhuaC0wY0l1czljRmFFX09PTjJyT2RrdEUtR1Q3dlZkN2xzNmhUdi1BdnVrelBnWGlRc0QwR0VEZ9IB0wFBVV95cUxON2JOMVdOSm83SXlZSzlRTXdmWXc4Ml9VZHR4WUdKS0IyYnJ6T1NfSzdHckZyaGZmWElqSV9KcjA3cVUxU25JNnhRZmdnX1l3VjhtSGR0M0J2Y3pKMmt3S2xyZHpZTUJVQkgtTXlCaXY3YU45b2NlX1hLUEtnWUhzSE9Ib244RG1xd3htSjhZUGdjdVZNZ3RGb2Fpam9MUU1VenF3NnhnLVRQRldOOUNERkgzdjJXbVNON0hZV1lTazBEOTBuQzI5dDlTeGdvYVA5a09R?oc=5
+- The Hindu Morning Digest: February 13, 2026 - The Hindu
+  The Hindu Morning Digest: February
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOERjY0RiUHE2VUh2M3V6Z1VDYlAtamxGdVVpNHdnV19BYVNOdUJYRzFrdk95NnFKUGJXQ0phMU9oQUoxRkppUG5udzdaekUxNVFvaUp1cjBuTlZHWUNJdmktS3lDWTg5cFpPZWI2dE9GSnFQYkdhd3l5azRkc1pwYTBsY0lTZEZC0gGPAUFVX3lxTE9rZTR2VjI1bHROV0JKTUpfa1Q5SlppNEhKMEhoRzVDY1o1amYtMjA5eTlfVzBzZDRfb05IWUtDZHFLSTd5dGRJNm10WUdvQW1VeldoWlRxUlNHMEYydVRTVUdvVmdjYjI4MXBTSnpBS3l2Tmpya0RXQ0ZjLXdDSU5pU1RwUEg0c0pJbGVwbnlV?oc=5
 
-- 2,661 Indian Fishermen Repatriated From Pakistan Since 2014: Centre - NDTV
-  2,661 Indian Fishermen Rep
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa3AwUUtfRWlhQWM2R3QwUWVfNElPY3BlN2djMy1pSUpiVTJnbkRTVEV6eXE5TWZScDIzeldhOE82d1NjMk1xTklZSEJ6a0dxbTloOEFKdzVHSkh4T1VUc2J4eVMydF9hSHM5OHk4OXdVTGI3U2ttTl8wekxYNi10QnRVTUc4RVBfYTdmMTMzVk83ZVQ2eWZkZUhWM2Qtazc4QzhtanhHd0xDbkk?oc=5
+- US Removes Post On India Trade Deal With Map Including PoK, Aksai Chin - NDTV
+  US Removes Post On India Trade Deal With Map Including
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3lybk5xMGVyT1lIMU8yb0xLX0VSZXVTY2Z2NlhWaUxVOU5KTldOTHhkNllfUGg1S0N6Vl8xYjBIMWRySmlJdlI0UDYtRjFCNnZNT29kWTBIUFdXODhCSjBpWG0xbE9WUzJjeGo5REtaalBINHpTdnNNMXNwRWxiOFU2blBYUllMUi1IeFg3ZjVOUTd2Q1d6SHhEcU1PRUdLcnZRUS130gGuAUFVX3lxTE5ybHZGUnVFdnUtRkN5MU5qYWpPMnQ3R2hoRUROVmMwQ3lkSVMzU2Z1eXlCTlUxV19kS3lDdTduWWZkSXlXaWo5NVFVd2JodlMzVEp3UWJ6MXg4M081SzBlcnlIdUpIT19RZlZTSW5kYk5xbHJtWENQTVJ2RnNJWm9tWUlfYnMxWGRPcC10cFBBX0pqWGdmeUNmQUdLUmZGNFNiQjNqd1ZuM2l6TTNnZw?oc=5
 
 - U.S. President Donald Trump calls India trade deal 'historic' - The Hindu
   U.S. President Donald Trump calls
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWtVMkRVRWlhVEVsUmV6ck00MHdFOVZyNURaWGtJYThEX0FneUJuRjMzalRTby1lMzN4c1d5ZjVSdzJMY0xDc3h3NDhOa1duczVmcXNsTFI0S0NCOXRYX0cxMkhmY1JPd0JGZ0VzVlVNb1B3SGJQa1picTdGWjhxNEU0UGpDWUduYXJvUXhxUVdnQUF5a2tGMkJ4QnhOaVV2ZXlUQTQ0Y1AtWUtxSi1XWi1mZDZfZzc5WTNReEs3c9IBxgFBVV95cUxOYTZMREhJS1RmTWF1Yi13eEdmVmd0TmlSSXdiNXQxRlVVSlZLUVRDc09vTlpPcnl6SEVLc3RXRzkxTHYtTEN6RHh5TF9Fb3pFWFhhbXZzSVlrUlUyVFZwQ0s2cWRERGtsbXRBMHY5NnItek9fVzRpbFQwVkF6VnRBempBX1k1R2NtVmM5b21xUDdQY3RHMUwtaEtKN21sbGtRM1NZVHhqQi1RTWZSaWprbWhBUUhXNUJHY0x5UUFoUENNbktDSkE?oc=5
 
-- US Walks Back On Pulses, Agri Sector Claims In Factsheet On India Trade Deal - NDTV
-  US Walks Back On Pulses, Agri Sector
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2QtQUMtWGlMU3JUUWtRczJIWGhHcFd0VGhIZlRUQ28xeWJrRUZoUHFodG1XdnVaMk9vRlRMVmhvN0hVeTFPeEFhblU1R1ZHU2E1UzRXb0dIM05aOGJZOGFIa0RKb2RjYnE0cFlNZVBhMjlEV3VUQ25oVXRfazdMbE9rNmlINWxSUmRQOXFLVUhoTTNPcVItYmhyZEpTSzhuNk5HLVdOR1ZmTzDSAbMBQVVfeXFMUG53WTZBcGtqNGtpU0YtUXFsV2k1UTNncFVURHhpT3ZleGFtMUZQcnM3bzhkVFBaVm1FMWt6UVE0QlFTVHRweDBxVnR3V2FQQUxHQkxPTUhWeUNLbEpMNEFDYUtVQkZIUGlmWGJMUF85eENueUpOdkdYUVZjdGtTMFg0cHcwSFFvd2pqdFlzM2EwTU5sRGlGcEVZbDBoN2ZvNV9rS2hMV3dLUzZ2SjhLVGJiWjQ?oc=5
+- India didn't send observers for Bangladesh polls: MEA - Times of India
+  India didn't send observers for Bangladesh polls
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlBxM0JxSHJHTzZPaEs1MVBTWFNOeE5xYVFibXVnb0ZSSVVlY3RRT2dsOS1yeFZYckNXSjRIYUtvRU94MVZBSmV1Z2hmN1dQdGtCNDUwNExwSU9ndUlOTjBzSVk0Q3lIaXJkTGljRnR3NnJ1SGY5SG52Qnpfa1lVTXNNb0FnRmlvWHA2V096TEJ4YllMaWZmNFZ3YjBJRjJ6Tjh5SExiOGRqdl9BdHhSM0lQS3dhbkU0OHVJ0gHAAUFVX3lxTE1aSUN3ZEFhZzhxcUFsaTFiSHN2NjdtajRfdUtTZWNOWFhZNWV0dTVfQWFEUkI2aGlhcmNFMFBSLVlEXy1JdTNOREJxeVp6QlM1U3Q0TE5mUkx3aWpCdHROWllMc0tyMVhRLUd4aUlzZzJtZFNQR1lWZmQ5Y09mQ3pNbmFRRXVyZ2U2X1Y5SlFhdTdIZ0stdGd6T2FKazF3MFB6aW5DaEJlZXpYSjlJS1Uyb3NWT0VvRTZ1Vk1ZdS0yNA?oc=5
 
-- Textile Industry Hails India-US Interim Trade Agreement - News On AIR
-  Textile Industry Hails India-
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkgyNFVRWWpSZE9iY1BqclhoTTh1QVhDMVZadmZoTGxBdXVNaERzZ1huY2dtM2F0cUNqMDhXUkRMYVVqQjVGRDNRd3B3bUlndHlMVXE1NTM1VUlyajdacENyeHF6Z2dfWldyaGw0SjZZWm80a3I3WkR5OGREWkRSU3dvNjBxZnpYVnJUbGhB?oc=5
+- BNP Wants Best Of Both Worlds - Hasina's Return And Good Ties With India - NDTV
+  " target="_blank">BNP Wants Best
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYVZBZ29MUXVGYzR2TmV1YVQ1ZEY3X1ZZYXBGcktpNVRfek5QVklpSE5pNmowMzdhZXNZcUQza0d1a1N6QmMtLTJpdXRyNTlSa0pKbDFfcE92aFRwQW1SYzhzUWlIN1hVdlMxeHB1RU05SmhSLUdzVnZiN0lpSlVRclhaRzkwZ3NmXzZjYUNzeGFwRDlLRHY4UDQ4dGVMcWFiRlZaRERPQnUwVy1mUzhOTnFqYzRkeFNJUm9OTGF1UTBLcVNXbVU2NEItS1RjeThV0gHYAUFVX3lxTE94Wm5GbkpDNFNuSmpSWk0tNFVTNF9yVG9Ob0ZEV3BXRnJtOUFNd1VSdElGY1AyMmdMcnV0THNqTlBOM1NGcGxBWHotMnN5cEJIaHpjLXN4alFDRkRVcmtVZ1l5dnQxa2QyWEp1ZnVCZUp1amFsMFo1ZDdoNThud1RvcDV3WXp2bVMxbUE2R25ZNE1jUmNucG13ajZ3cEhPbWZjZDV5M2FBd0lVS3lQS1BXN1UxaXdHd1F2aDlpNWRTWkJ4VHNBTkkwWXJyUXZlS0MwYmhWQnhFQQ?oc=5
 
-- Over 3,200 people arrested during Operation Prahar-2: Punjab Police - Times of India
-  Over 3,200 people arrested during Operation Pra
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPTTRxTXFZaU5zQlNWZ1RyNnlIUldKZE5xODU3Sk8wU3NaaG9xXzRkeHIwOGp6VFF0cE9oS2YwWWNGanJtSEpBeFhQMGdxQldJTWllNTNFVjdIcHlXU1V1VVlzc3MtcDl5Qm1NQ2ZlRU9uRWVjUDd1OEZzc3FaTDJ1YmpZWTFyaEMyaG4tX1FwTWhyVE9oOFhuaC0wY0l1czljRmFFX09PTjJyT2RrdEUtR1Q3dlZkN2xzNmhUdi1BdnVrelBnWGlRc0QwR0VEZ9IB0wFBVV95cUxON2JOMVdOSm83SXlZSzlRTXdmWXc4Ml9VZHR4WUdKS0IyYnJ6T1NfSzdHckZyaGZmWElqSV9KcjA3cVUxU25JNnhRZmdnX1l3VjhtSGR0M0J2Y3pKMmt3S2xyZHpZTUJVQkgtTXlCaXY3YU45b2NlX1hLUEtnWUhzSE9Ib244RG1xd3htSjhZUGdjdVZNZ3RGb2Fpam9MUU1VenF3NnhnLVRQRldOOUNERkgzdjJXbVNON0hZV1lTazBEOTBuQzI5dDlTeGdvYVA5a09R?oc=5
+- The Hindu Morning Digest: February 13, 2026 - The Hindu
+  The Hindu Morning Digest: February
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOERjY0RiUHE2VUh2M3V6Z1VDYlAtamxGdVVpNHdnV19BYVNOdUJYRzFrdk95NnFKUGJXQ0phMU9oQUoxRkppUG5udzdaekUxNVFvaUp1cjBuTlZHWUNJdmktS3lDWTg5cFpPZWI2dE9GSnFQYkdhd3l5azRkc1pwYTBsY0lTZEZC0gGPAUFVX3lxTE9rZTR2VjI1bHROV0JKTUpfa1Q5SlppNEhKMEhoRzVDY1o1amYtMjA5eTlfVzBzZDRfb05IWUtDZHFLSTd5dGRJNm10WUdvQW1VeldoWlRxUlNHMEYydVRTVUdvVmdjYjI4MXBTSnpBS3l2Tmpya0RXQ0ZjLXdDSU5pU1RwUEg0c0pJbGVwbnlV?oc=5
 
-- 2,661 Indian Fishermen Repatriated From Pakistan Since 2014: Centre - NDTV
-  2,661 Indian Fishermen Rep
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa3AwUUtfRWlhQWM2R3QwUWVfNElPY3BlN2djMy1pSUpiVTJnbkRTVEV6eXE5TWZScDIzeldhOE82d1NjMk1xTklZSEJ6a0dxbTloOEFKdzVHSkh4T1VUc2J4eVMydF9hSHM5OHk4OXdVTGI3U2ttTl8wekxYNi10QnRVTUc4RVBfYTdmMTMzVk83ZVQ2eWZkZUhWM2Qtazc4QzhtanhHd0xDbkk?oc=5
+- US Removes Post On India Trade Deal With Map Including PoK, Aksai Chin - NDTV
+  US Removes Post On India Trade Deal With Map Including
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3lybk5xMGVyT1lIMU8yb0xLX0VSZXVTY2Z2NlhWaUxVOU5KTldOTHhkNllfUGg1S0N6Vl8xYjBIMWRySmlJdlI0UDYtRjFCNnZNT29kWTBIUFdXODhCSjBpWG0xbE9WUzJjeGo5REtaalBINHpTdnNNMXNwRWxiOFU2blBYUllMUi1IeFg3ZjVOUTd2Q1d6SHhEcU1PRUdLcnZRUS130gGuAUFVX3lxTE5ybHZGUnVFdnUtRkN5MU5qYWpPMnQ3R2hoRUROVmMwQ3lkSVMzU2Z1eXlCTlUxV19kS3lDdTduWWZkSXlXaWo5NVFVd2JodlMzVEp3UWJ6MXg4M081SzBlcnlIdUpIT19RZlZTSW5kYk5xbHJtWENQTVJ2RnNJWm9tWUlfYnMxWGRPcC10cFBBX0pqWGdmeUNmQUdLUmZGNFNiQjNqd1ZuM2l6TTNnZw?oc=5
+
+- U.S. President Donald Trump calls India trade deal 'historic' - The Hindu
+  U.S. President Donald Trump calls
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWtVMkRVRWlhVEVsUmV6ck00MHdFOVZyNURaWGtJYThEX0FneUJuRjMzalRTby1lMzN4c1d5ZjVSdzJMY0xDc3h3NDhOa1duczVmcXNsTFI0S0NCOXRYX0cxMkhmY1JPd0JGZ0VzVlVNb1B3SGJQa1picTdGWjhxNEU0UGpDWUduYXJvUXhxUVdnQUF5a2tGMkJ4QnhOaVV2ZXlUQTQ0Y1AtWUtxSi1XWi1mZDZfZzc5WTNReEs3c9IBxgFBVV95cUxOYTZMREhJS1RmTWF1Yi13eEdmVmd0TmlSSXdiNXQxRlVVSlZLUVRDc09vTlpPcnl6SEVLc3RXRzkxTHYtTEN6RHh5TF9Fb3pFWFhhbXZzSVlrUlUyVFZwQ0s2cWRERGtsbXRBMHY5NnItek9fVzRpbFQwVkF6VnRBempBX1k1R2NtVmM5b21xUDdQY3RHMUwtaEtKN21sbGtRM1NZVHhqQi1RTWZSaWprbWhBUUhXNUJHY0x5UUFoUENNbktDSkE?oc=5
+
+- India didn't send observers for Bangladesh polls: MEA - Times of India
+  India didn't send observers for Bangladesh polls
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlBxM0JxSHJHTzZPaEs1MVBTWFNOeE5xYVFibXVnb0ZSSVVlY3RRT2dsOS1yeFZYckNXSjRIYUtvRU94MVZBSmV1Z2hmN1dQdGtCNDUwNExwSU9ndUlOTjBzSVk0Q3lIaXJkTGljRnR3NnJ1SGY5SG52Qnpfa1lVTXNNb0FnRmlvWHA2V096TEJ4YllMaWZmNFZ3YjBJRjJ6Tjh5SExiOGRqdl9BdHhSM0lQS3dhbkU0OHVJ0gHAAUFVX3lxTE1aSUN3ZEFhZzhxcUFsaTFiSHN2NjdtajRfdUtTZWNOWFhZNWV0dTVfQWFEUkI2aGlhcmNFMFBSLVlEXy1JdTNOREJxeVp6QlM1U3Q0TE5mUkx3aWpCdHROWllMc0tyMVhRLUd4aUlzZzJtZFNQR1lWZmQ5Y09mQ3pNbmFRRXVyZ2U2X1Y5SlFhdTdIZ0stdGd6T2FKazF3MFB6aW5DaEJlZXpYSjlJS1Uyb3NWT0VvRTZ1Vk1ZdS0yNA?oc=5
+
+- BNP Wants Best Of Both Worlds - Hasina's Return And Good Ties With India - NDTV
+  " target="_blank">BNP Wants Best
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYVZBZ29MUXVGYzR2TmV1YVQ1ZEY3X1ZZYXBGcktpNVRfek5QVklpSE5pNmowMzdhZXNZcUQza0d1a1N6QmMtLTJpdXRyNTlSa0pKbDFfcE92aFRwQW1SYzhzUWlIN1hVdlMxeHB1RU05SmhSLUdzVnZiN0lpSlVRclhaRzkwZ3NmXzZjYUNzeGFwRDlLRHY4UDQ4dGVMcWFiRlZaRERPQnUwVy1mUzhOTnFqYzRkeFNJUm9OTGF1UTBLcVNXbVU2NEItS1RjeThV0gHYAUFVX3lxTE94Wm5GbkpDNFNuSmpSWk0tNFVTNF9yVG9Ob0ZEV3BXRnJtOUFNd1VSdElGY1AyMmdMcnV0THNqTlBOM1NGcGxBWHotMnN5cEJIaHpjLXN4alFDRkRVcmtVZ1l5dnQxa2QyWEp1ZnVCZUp1amFsMFo1ZDdoNThud1RvcDV3WXp2bVMxbUE2R25ZNE1jUmNucG13ajZ3cEhPbWZjZDV5M2FBd0lVS3lQS1BXN1UxaXdHd1F2aDlpNWRTWkJ4VHNBTkkwWXJyUXZlS0MwYmhWQnhFQQ?oc=5
+
+- The Hindu Morning Digest: February 13, 2026 - The Hindu
+  The Hindu Morning Digest: February
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOERjY0RiUHE2VUh2M3V6Z1VDYlAtamxGdVVpNHdnV19BYVNOdUJYRzFrdk95NnFKUGJXQ0phMU9oQUoxRkppUG5udzdaekUxNVFvaUp1cjBuTlZHWUNJdmktS3lDWTg5cFpPZWI2dE9GSnFQYkdhd3l5azRkc1pwYTBsY0lTZEZC0gGPAUFVX3lxTE9rZTR2VjI1bHROV0JKTUpfa1Q5SlppNEhKMEhoRzVDY1o1amYtMjA5eTlfVzBzZDRfb05IWUtDZHFLSTd5dGRJNm10WUdvQW1VeldoWlRxUlNHMEYydVRTVUdvVmdjYjI4MXBTSnpBS3l2Tmpya0RXQ0ZjLXdDSU5pU1RwUEg0c0pJbGVwbnlV?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-12 19:03:58 UTC_
+_Last updated: 2026-02-13 01:53:53 UTC_
