@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Group disrupts Valentine’s Day ‘pre-event’ at Indore college, gets into heated argument with students
+- Rs 5,000 before sunrise: Stalin makes early morning move to rewrite Tamil Nadu’s election script
   
-  🔗 https://indianexpress.com/article/india/group-valentines-day-pre-event-indore-college-heated-argument-students-10529401/
+  🔗 https://indianexpress.com/article/india/stalin-rewrite-tamil-nadu-election-script-10529912/
 
-- Epstein files fallout: Priyanka Gandhi Vadra demands Hardeep Puri’s resignation
+- Yuge Yugeen Bharat Museum project’s budget, timeline ‘currently being determined’: Govt to Rajya Sabha
   
-  🔗 https://indianexpress.com/article/india/epstein-files-fallout-priyanka-gandhi-vadra-demands-hardeep-puris-resignation-10529470/
+  🔗 https://indianexpress.com/article/india/yuge-yugeen-bharat-museum-projects-budget-timeline-currently-being-determined-govt-to-rajya-sabha-10529852/
 
-- Telangana Municipal Election Results 2026 Live Updates: Counting of votes for 116 municipalities, 7 corporations to begin shortly
+- Gold Today Rate, February 13: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/telangana-municipal-election-results-2026-live-updates-municipal-corporations-municipalities-election-result-counting-10528940/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-february-13-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10529793/
 
-- Vikram Misri meets Sergio Gor as India says joint statement is bedrock of US trade deal
+- Fox-hole IED planted below main road in Bijapur detected, disposed
   
-  🔗 https://indianexpress.com/article/india/vikram-misri-meets-sergio-gor-as-india-says-joint-statement-is-bedrock-of-us-trade-deal-10529450/
+  🔗 https://indianexpress.com/article/india/fox-hole-ied-planted-below-main-road-in-bijapur-detected-disposed-10529676/
 
-- Education Minister Dharmendra Pradhan is guest at Adda today
+- Puri Jagannath Temple’s secret 324-page Ratna Bhandar report to go public after 8 years
   
-  🔗 https://indianexpress.com/article/india/education-minister-dharmendra-pradhan-is-guest-at-adda-today-10529368/
+  🔗 https://indianexpress.com/article/india/puri-jagannath-temples-secret-324-page-ratna-bhandar-report-to-go-public-after-8-years-10529400/
 
 - Google Photos may finally fix its most annoying sharing hurdle with a new ‘Copy’ button
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/mobile-tabs/big-screen-book-style-foldable-65-market-share-10528748/
 
-- Blackstone Names Ex-Lego Family Money Manager as Senior Adviser
-  Thomas Schleicher used to manage money for the billionaire owners of Lego A/S. Blackstone
-  🔗 https://www.livemint.com/companies/blackstone-names-ex-lego-family-money-manager-as-senior-adviser-11770922200313.html
+- Radico Khaitan COO Amar Sinha to exit after almost a decade at spirits maker
+  Amar Sinha, COO of Radico Khaitan, has resigned after a decade at the company. His departure follows
+  🔗 https://www.livemint.com/companies/news/radico-khaitan-coo-amar-sinha-spirits-maker-premium-brands-alco-beverage-abhishek-khaitan-11770963655651.html
 
-- Cargill to close Wisconsin beef plant, cut 221 jobs
-  Cargill to close
-  🔗 https://www.livemint.com/companies/cargill-to-close-wisconsin-beef-plant-cut-221-jobs-11770921887792.html
+- Mashreqbank to infuse $150 million into India operations on growth ambitions
+  The bank's India CEO Tushar Vikram stated this capital addition, subject to documentation, is expected to occur before the end of FY26
+  🔗 https://www.livemint.com/companies/mashreqbank-150-million-india-operations-dubai-corporate-banking-foreign-banks-gift-city-capital-infusion-11770959112107.html
 
-- Microsoft AI chief Mustafa Suleyman says most white-collar jobs will be automated in 12-18 months: Is your role at risk?
-  Microsoft AI CEO Mustafa Suleyman warns that AI may soon automate many white-collar jobs. Suley
-  🔗 https://www.livemint.com/companies/people/microsoft-ai-chief-mustafa-suleyman-says-most-white-collar-jobs-will-be-automated-in-12-18-months-is-your-role-at-risk-11770910567664.html
+- Apple announces 6th store in India — iPhone maker to open showroom in Mumbai's Borivali; when will it open? Details here
+  The new Apple store is the company's sixth outlet in the country. Know all about the opening date, location, address and more
+  🔗 https://www.livemint.com/companies/news/apple-borivali-apple-6th-store-in-india-iphone-maker-to-open-showroom-in-mumbai-borivali-when-will-it-open-details-here-11770960678857.html
 
-- CCI fines Intel  ₹27 crore on ‘discriminatory’ warranty policy for 8 years
-  The CCI said the case was based on a complaint by Delhi-based Matrix Info Systems Pvt Ltd. Intel’s policy for India was amended in 2016, under which warranty requests for microprocess
-  🔗 https://www.livemint.com/companies/intel-cci-fine-warranty-india-11770912323510.html
+- Elon Musk's scathing attack on Anthropic as Claude-maker raises $30 billion — ‘Evil and misanthropic’
+  Elon Musk lashes out on X after the company announces it has raised $30 billion in private capital in its latest funding round. His post brands the Claude-
+  🔗 https://www.livemint.com/companies/people/elon-musks-scathing-attack-on-anthropic-as-claude-maker-raises-30-billion-evil-and-misanthropic-11770954482477.html
 
-- Fires at Novelis singe Hindalco profit by 45%
-  The two fires at the Novelis plant in Oswego occurred on 16 September, 2025, and 20 November
-  🔗 https://www.livemint.com/companies/company-results/fires-at-novelis-singe-hindalco-profit-by-45-11770906298428.html
+- Anthropic raises $30 billion: Is this the largest capital raise in AI? 5 key questions answered
+  The rising demand of AI has led to high tech spending globally as enterprise adoption grows. This has pushed valuations of AI startups
+  🔗 https://www.livemint.com/companies/news/anthropic-raises-30-billion-is-this-the-largest-capital-raise-in-ai-5-key-questions-answered-11770946600360.html
 
-- Indian stock market: 8 key things that changed for market overnight - Gift Nifty, US tech stocks sell-off to gold prices
-  Gift Nifty was trading around 25,716 level, a discount of nearly 142 points from the Nifty futures
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-8-key-things-that-changed-for-market-overnight-gift-nifty-us-tech-stocks-selloff-to-gold-prices-11770915139295.html
+- Defence stocks fall amid stock market crash; Analysts bullish on HAL, BEL, Bharat Dynamics and others. Here’s why
+  Unimech Aerospace and Manufacturing emerged as the top loser in the index, plunging nearly 10%. Mishra Dhatu Nigam, Zen Technologies, Astra Microw
+  🔗 https://www.livemint.com/market/stock-market-news/defence-stocks-fall-amid-stock-market-crash-analysts-bullish-on-hal-bel-bharat-dynamics-and-others-here-s-why-11770962292030.html
 
-- Gold and silver rate today LIVE: Gold, silver prices remain lower — More pain ahead?
-  Currently, gold prices on the MCX hover in a tight range of around  ₹155,000 to  ⁹158
-  🔗 https://www.livemint.com/market/commodities/gold-and-silver-rate-today-live-gold-silver-prices-remain-lower-more-pain-ahead-11770900951169.html
+- Bloodbath in tech stocks: How market veterans Samir Arora, Vijay Kedia are assessing IT sector weakness
+  Indian IT stocks have seen a steep decline. The Nifty IT index fell over 5% as investors reassess the potential impact of AI.
+  🔗 https://www.livemint.com/market/stock-market-news/tcs-infosys-to-hcl-tech-nifty-it-down-12-in-3-days-market-veterans-samir-arora-vijay-kedia-on-it-stocks-falling-11770961074839.html
 
-- Capex boom, stock price gloom: Three speciality chemical stocks to watch
-  Three speciality chemical stocks to watch with heavy capex and no returns in the last
-  🔗 https://www.livemint.com/market/stock-market-news/speciality-chemical-stocks-aarti-industries-vinati-organics-clean-science-outlook-11770894609442.html
+- HAL share price extends rally after Q3 results. Should you buy the PSU defence stock?
+  HAL's shares rose after reporting Q3 profits of  ₹1,867 crore, a 30.3% increase. The company announced an interim dividend of
+  🔗 https://www.livemint.com/market/stock-market-news/hal-share-price-extends-rally-after-q3-results-should-you-buy-the-psu-defence-stock-11770960015677.html
 
-- Can the proposed PFC-REC merger revive their stocks?
-  Despite their improved asset quality and undeniable industry tailwinds,uncertainty looms over the potential
-  🔗 https://www.livemint.com/market/stock-market-news/pfc-rec-merger-pfc-share-price-rec-share-price-11770884382004.html
+- Zee Media Corporation share rallies over 10% despite stock market crash; here's why
+  Zee Media's Q3FY26 results showed a profit of  ₹5,277 lakh. Revenue surged 50.72% year-on-
+  🔗 https://www.livemint.com/market/stock-market-news/zee-media-corporation-share-rallies-over-10-despite-stock-market-crash-heres-why-11770959996730.html
 
-- Stocks to buy: Raja Venkatraman's recommends three stocks for 13 February
-  Market expert Raja Venkatraman shares his three top stock picks to buy today, 13 February.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-three-stocks-13-february-sensex-nifty-11770902865538.html
+- Dalal Street rallies on trade relief, but investors still cautious: Mint survey
+  Mint’s sixth quarterly market survey pins down a pivotal shift in sentiment. Against the backdrop of the US-
+  🔗 https://www.livemint.com/market/stock-market-news/dalal-street-india-us-trade-deal-investors-cautious-mint-survey-gold-silver-fpi-earnings-outlook-11770891699023.html
+
+- Hot bots: AI agents create surprise dating accounts for humans
+   AI agents create surprise dating
+  🔗 https://www.livemint.com/technology/hot-bots-ai-agents-create-surprise-dating-accounts-for-humans-11770951965483.html
 
 - Mint Explainer | India’s AI rules and the elusive quest for online safety
   The AI rules should make internet platforms better monitored for deepfake content. However, the implementation remains to be seen.
@@ -96,129 +100,65 @@
   Minister Piyush Goyal has challenged India’s tech industry to reach a $
   🔗 https://www.livemint.com/technology/piyush-goyal-india-tech-ambition-global-ai-hub-2035-vision-digital-economy-future-11770912685302.html
 
-- Infinix Note Edge to launch in India on 18 February: Check expected price, specs and more
-  The Note Edge has a 1.5K curved AMOLED display, MediaTek Dimensity 7100 processor, and up to 8GB RAM
-  🔗 https://www.livemint.com/technology/tech-news/infinix-note-edge-to-launch-in-india-on-18-february-check-expected-price-specs-and-more-11770894813281.html
+- Archean Chemical Industries consolidated net profit declines 50.72% in the December 2025 quarter
+  Sales rise
+  🔗 https://www.business-standard.com/markets/capital-market-news/archean-chemical-industries-consolidated-net-profit-declines-50-72-in-the-december-2025-quarter-126021300719_1.html
 
-- Technical stock picks by Bonanza: Max Financial, Muthoot, Bharat Forge
-  Max Financial, Muthoot Finance and Bharat Forge show strong
-  🔗 https://www.business-standard.com/markets/news/technical-stock-picks-by-bonanza-max-financial-muthoot-bharat-forge-target-price-126021300069_1.html
+- MKVentures Capital consolidated net profit declines 56.77% in the December 2025 quarter
+  Sales decline
+  🔗 https://www.business-standard.com/markets/capital-market-news/mkventures-capital-consolidated-net-profit-declines-56-77-in-the-december-2025-quarter-126021300717_1.html
 
-- Bajaj Finance Options strategy: HDFC Securities suggests Bull Call Spread
-  Nandish Shah of HDFC Securities suggests Bajaj Finance bull call spread for 24 Feb
-  🔗 https://www.business-standard.com/markets/news/bajaj-finance-options-strategy-hdfc-securities-suggests-bull-call-spread-for-feb-24-expiry-126021300068_1.html
+- Lloyds Metals & Energy consolidated net profit rises 169.05% in the December 2025 quarter
+  Sales rise
+  🔗 https://www.business-standard.com/markets/capital-market-news/lloyds-metals-energy-consolidated-net-profit-rises-169-05-in-the-december-2025-quarter-126021300716_1.html
 
-- Dynamic Cables forays into building wires segment
-  With launch of its FR
-  🔗 https://www.business-standard.com/markets/capital-market-news/dynamic-cables-forays-into-building-wires-segment-126021201690_1.html
+- Maharashtra Seamless consolidated net profit rises 30.52% in the December 2025 quarter
+  Sales decline
+  🔗 https://www.business-standard.com/markets/capital-market-news/maharashtra-seamless-consolidated-net-profit-rises-30-52-in-the-december-2025-quarter-126021300715_1.html
 
-- Gujarat Fluorochemicals signs investment and land lease agreements for greenfield project in Oman
-  FCL EV Products (India), which is part of INOXGFL Group, through GFCL EV (SFZ) LLC (registered in Salalah Free Zone, Oman), is setting up a state-of-the
-  🔗 https://www.business-standard.com/markets/capital-market-news/gujarat-fluorochemicals-signs-investment-and-land-lease-agreements-for-greenfield-project-in-oman-126021201688_1.html
+- Finolex Cables consolidated net profit rises 11.40% in the December 2025 quarter
+  Sales rise
+  🔗 https://www.business-standard.com/markets/capital-market-news/finolex-cables-consolidated-net-profit-rises-11-40-in-the-december-2025-quarter-126021300714_1.html
 
-- Bombay High Court disposes final writ against WeWork India's IPO
-  The court also disposed of the accompanying interim application seeking amendment of the writ petition
-  🔗 https://www.business-standard.com/markets/ipo/bombay-hc-disposes-final-writ-against-wework-india-ipo-126021201656_1.html
+- Gold trades at discounts in India for first time in nearly a month
+  High prices are discouraging buyers, despite jewellers offering concessions. China is experiencing strong gold demand as the Lunar New Year approaches. The People's Bank of China continues its gold acquisitions.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-trades-at-discounts-in-india-for-first-time-in-nearly-a-month/articleshow/128292191.cms
 
-- Market quote of the day by Philip Fisher | “The stock market is filled with individuals who know the price of everything, but the value of nothing”
-  In volatile times, understanding a business's fundamentals is crucial. Philip Fisher's timeless advice highlights the market's tendency to prioritize stock prices over intrinsic value. This disciplined approach, focusing on value rather than fleeting
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-philip-fisher-the-stock-market-is-filled-with-individuals-who-know-the-price-of-everything-but-the-value-of-nothing/articleshow/128257513.cms
+- Kumar Rakesh bets on select IT names amid AI-led volatility
+  Near-term automation causing deflationary pressure, followed by longer-term business transformation creating inflationary opportunities. Analyst Kumar Rakesh suggests markets may be overreacting to the front-
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/kumar-rakesh-bets-on-select-it-names-amid-ai-led-volatility/articleshow/128291564.cms
 
-- GIFT Nifty down 130 points; here's the trading setup for today's session
-  The Nifty traded within a narrow range, and the India VIX saw a slight increase. Investors will monitor global and domestic inflation, trade developments, and FII flows.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128282847.cms
+- Consumption, cement and tourism in focus: Sameer Dalal sees value beyond market volatility
+  Sameer Dalal suggests focusing on domestic sectors like consumption, cement, and discretionary plays. He sees a revival in discretionary consumption and tourism. Dalal believes India's consumption revival story offers compelling investment potential.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/consumption-cement-and-tourism-in-focus-sameer-dalal-sees-value-beyond-market-volatility/articleshow/128291406.cms
 
-- Stocks in news: SpiceJet, TCS, Infosys, Coal India, Hindalco
-  Indian markets closed lower on Thursday due to a sharp correction in IT stocks. Despite supportive global and domestic factors, the IT pack's weakness temporarily impacted investor sentiment. Analysts suggest limited downside potential due to strength in other sectors.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-spicejet-tcs-infosys-coal-india-hindalco/articleshow/128282709.cms
+- Plumbers of the tech world! JP Morgan hunts deep value in India's IT bloodbath as stocks hit multi-year lows
+  Indian IT stocks have seen significant drops, losing Rs 5.7 lakh crore. JP Morgan believes these firms are essential "plumbers" for technology.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lumbers-of-the-tech-world-jp-morgan-hunts-deep-value-in-indias-it-bloodbath-as-stocks-hit-multi-year-lows/articleshow/128291085.cms
 
-- Global Market Today: Asian stocks drop after AI jitters hit Wall Street
-  Asian markets saw a dip from record highs. Concerns over artificial intelligence's impact on technology sectors caused a sell-off. Investors sought safety in US Treasuries.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/asian-stocks-drop-after-ai-jitters-hit-wall-street/articleshow/128282536.cms
+- Gaudium IVF and Women Health to float IPO on Feb 20
+  Gaudium IVF plans to raise Rs 150-200 crore via IPO, expected to open February 20. The offering includes a fresh issue for expansion and an offer-for-sale by the promoter.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/gaudium-ivf-and-women-health-to-float-ipo-on-feb-20/articleshow/128291285.cms
 
-- Unilever profit rises, but warns of 'slowing markets'
-  Net profit from retained brands rose 4.6% to $6.8 billion last year. Despite anticipating slower market conditions for 2026, Unilever expressed confidence in its focused strategy.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/unilever-profit-rises-but-warns-of-slowing-markets/articleshow/128282405.cms
+- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
+  India's "Will Take Appropriate Action" Response
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
 
-- US Removes Post On India Trade Deal With Map Including PoK, Aksai Chin - NDTV
-  US Removes Post On India Trade Deal With Map Including
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3lybk5xMGVyT1lIMU8yb0xLX0VSZXVTY2Z2NlhWaUxVOU5KTldOTHhkNllfUGg1S0N6Vl8xYjBIMWRySmlJdlI0UDYtRjFCNnZNT29kWTBIUFdXODhCSjBpWG0xbE9WUzJjeGo5REtaalBINHpTdnNNMXNwRWxiOFU2blBYUllMUi1IeFg3ZjVOUTd2Q1d6SHhEcU1PRUdLcnZRUS130gGuAUFVX3lxTE5ybHZGUnVFdnUtRkN5MU5qYWpPMnQ3R2hoRUROVmMwQ3lkSVMzU2Z1eXlCTlUxV19kS3lDdTduWWZkSXlXaWo5NVFVd2JodlMzVEp3UWJ6MXg4M081SzBlcnlIdUpIT19RZlZTSW5kYk5xbHJtWENQTVJ2RnNJWm9tWUlfYnMxWGRPcC10cFBBX0pqWGdmeUNmQUdLUmZGNFNiQjNqd1ZuM2l6TTNnZw?oc=5
+- Manipur: Can a new chief minister bring peace to the troubled state? - BBC
+  Manipur: Can a new chief minister bring
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YN1VwYU5pRmNwTWxkNnoxNVhINXdKaFVsSFplWF9yZEFGS0tDQXpxS3VsRWc0QjlrOFhGcjc2Skk0Q0dyUElNdmlWV3NNbzBMa3g3M0VHTXQ1QQ?oc=5
 
-- U.S. President Donald Trump calls India trade deal 'historic' - The Hindu
-  U.S. President Donald Trump calls
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWtVMkRVRWlhVEVsUmV6ck00MHdFOVZyNURaWGtJYThEX0FneUJuRjMzalRTby1lMzN4c1d5ZjVSdzJMY0xDc3h3NDhOa1duczVmcXNsTFI0S0NCOXRYX0cxMkhmY1JPd0JGZ0VzVlVNb1B3SGJQa1picTdGWjhxNEU0UGpDWUduYXJvUXhxUVdnQUF5a2tGMkJ4QnhOaVV2ZXlUQTQ0Y1AtWUtxSi1XWi1mZDZfZzc5WTNReEs3c9IBxgFBVV95cUxOYTZMREhJS1RmTWF1Yi13eEdmVmd0TmlSSXdiNXQxRlVVSlZLUVRDc09vTlpPcnl6SEVLc3RXRzkxTHYtTEN6RHh5TF9Fb3pFWFhhbXZzSVlrUlUyVFZwQ0s2cWRERGtsbXRBMHY5NnItek9fVzRpbFQwVkF6VnRBempBX1k1R2NtVmM5b21xUDdQY3RHMUwtaEtKN21sbGtRM1NZVHhqQi1RTWZSaWprbWhBUUhXNUJHY0x5UUFoUENNbktDSkE?oc=5
+- Breaking News Live Updates: Puneet Agrawal appointed as the next Ambassador of India to Thailand - Times of India
+  Puneet Agrawal appointed as the next Ambassador of India to Thailand
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNMkRRYVpCVUZQa2RMRjBQQzFOMnlmaHZEYzA0cXZfZS0tbXVQazY0MDVmX1JfTVNIR3VwWldtZDVsWnRjTWdJaEFPOFZ6bkFfQkFsRkpVMUpzTmlQNGwxTGp1WERVNmxLN2UzX3Naa0p5OU5WaU10Q1FXN3loMWdxWkRmTGU0MGhsalRwcXpockE4VUxscXRJd2plWURNcWlaNnB4T1FYLXdpbWZkemJTX1BUYkhwV2oyRWl6N0pkSXBKUzlROVJiT0xKTkNLUdIB0wFBVV95cUxPZV9QQ0N0cURnNTNIRFJHR3o5YlpxQV9DOS15bTE1VzZ4ZzhuZ3ZZUjgtYlFFRmhseDVSQlExVnh4REt3dGxDRXRDb2tqX1ZiNDM4SV8zSExHTFF6NC14eU5qU1REeURkWi1kcHcwMFQwaGxpOXFvRzRMVzl0NFh3VnVJQzlGOHJTQmhSbVRGWnpCMEtjd3pUcElHblRmSTNBVktnU3pvNWIzRTR6ZGFvblJzY0xVMUJ1SnRJSTV4UUdnb1VlaERjcDBIc2RtTlg1SDhj?oc=5
 
-- India didn't send observers for Bangladesh polls: MEA - Times of India
-  India didn't send observers for Bangladesh polls
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlBxM0JxSHJHTzZPaEs1MVBTWFNOeE5xYVFibXVnb0ZSSVVlY3RRT2dsOS1yeFZYckNXSjRIYUtvRU94MVZBSmV1Z2hmN1dQdGtCNDUwNExwSU9ndUlOTjBzSVk0Q3lIaXJkTGljRnR3NnJ1SGY5SG52Qnpfa1lVTXNNb0FnRmlvWHA2V096TEJ4YllMaWZmNFZ3YjBJRjJ6Tjh5SExiOGRqdl9BdHhSM0lQS3dhbkU0OHVJ0gHAAUFVX3lxTE1aSUN3ZEFhZzhxcUFsaTFiSHN2NjdtajRfdUtTZWNOWFhZNWV0dTVfQWFEUkI2aGlhcmNFMFBSLVlEXy1JdTNOREJxeVp6QlM1U3Q0TE5mUkx3aWpCdHROWllMc0tyMVhRLUd4aUlzZzJtZFNQR1lWZmQ5Y09mQ3pNbmFRRXVyZ2U2X1Y5SlFhdTdIZ0stdGd6T2FKazF3MFB6aW5DaEJlZXpYSjlJS1Uyb3NWT0VvRTZ1Vk1ZdS0yNA?oc=5
+- India Lost Rs 54,000 Crore To 'Digital Arrest' Scams. What Must Change - NDTV
+  India Lost Rs 54,000 Crore To '
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNemFtQjdTLWlMN1IwbGNHaTVjMGY3YWVkNlR3TXFUZE9PQnZuM190TEwtNGtCblRsSXdwM01zUFRXZDE4b2VnNG5TNEJTOTBVcjF0VUtYaEp1OG9xWjdpaXpWa194b1BBUFFnYmZnUTh0eTVZMTJzT2w3NkUzMnFTaU5jem93aVZiZF9uWHlnNlZuOVNtWUotYzhOUTd0UUpGMi1tVzhCalViOWot0gG0AUFVX3lxTE41TTlIOFREY2V1NTNCVVpYZjhSWXRldVB6ZlExemNhR1dadW04a0N2UVBzbHg5TGdCaUxuYlhsVUhXVTBNMm1JUWprcHFCaUFDODluSzNraUktajBvSE9CTnZ6VEdMU1MwVXpfdzN3Q1hmaEhHQU4wYTZBbDhtWU1hbENMTTFuc2VZaDFTaWE5d2pHS0JTQ0wzbkRfRTBnaUFVeWlmZWwzN2pMb0dtZ2k4cjRfcg?oc=5
 
-- BNP Wants Best Of Both Worlds - Hasina's Return And Good Ties With India - NDTV
-  " target="_blank">BNP Wants Best
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYVZBZ29MUXVGYzR2TmV1YVQ1ZEY3X1ZZYXBGcktpNVRfek5QVklpSE5pNmowMzdhZXNZcUQza0d1a1N6QmMtLTJpdXRyNTlSa0pKbDFfcE92aFRwQW1SYzhzUWlIN1hVdlMxeHB1RU05SmhSLUdzVnZiN0lpSlVRclhaRzkwZ3NmXzZjYUNzeGFwRDlLRHY4UDQ4dGVMcWFiRlZaRERPQnUwVy1mUzhOTnFqYzRkeFNJUm9OTGF1UTBLcVNXbVU2NEItS1RjeThV0gHYAUFVX3lxTE94Wm5GbkpDNFNuSmpSWk0tNFVTNF9yVG9Ob0ZEV3BXRnJtOUFNd1VSdElGY1AyMmdMcnV0THNqTlBOM1NGcGxBWHotMnN5cEJIaHpjLXN4alFDRkRVcmtVZ1l5dnQxa2QyWEp1ZnVCZUp1amFsMFo1ZDdoNThud1RvcDV3WXp2bVMxbUE2R25ZNE1jUmNucG13ajZ3cEhPbWZjZDV5M2FBd0lVS3lQS1BXN1UxaXdHd1F2aDlpNWRTWkJ4VHNBTkkwWXJyUXZlS0MwYmhWQnhFQQ?oc=5
-
-- The Hindu Morning Digest: February 13, 2026 - The Hindu
-  The Hindu Morning Digest: February
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOERjY0RiUHE2VUh2M3V6Z1VDYlAtamxGdVVpNHdnV19BYVNOdUJYRzFrdk95NnFKUGJXQ0phMU9oQUoxRkppUG5udzdaekUxNVFvaUp1cjBuTlZHWUNJdmktS3lDWTg5cFpPZWI2dE9GSnFQYkdhd3l5azRkc1pwYTBsY0lTZEZC0gGPAUFVX3lxTE9rZTR2VjI1bHROV0JKTUpfa1Q5SlppNEhKMEhoRzVDY1o1amYtMjA5eTlfVzBzZDRfb05IWUtDZHFLSTd5dGRJNm10WUdvQW1VeldoWlRxUlNHMEYydVRTVUdvVmdjYjI4MXBTSnpBS3l2Tmpya0RXQ0ZjLXdDSU5pU1RwUEg0c0pJbGVwbnlV?oc=5
-
-- US Removes Post On India Trade Deal With Map Including PoK, Aksai Chin - NDTV
-  US Removes Post On India Trade Deal With Map Including
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3lybk5xMGVyT1lIMU8yb0xLX0VSZXVTY2Z2NlhWaUxVOU5KTldOTHhkNllfUGg1S0N6Vl8xYjBIMWRySmlJdlI0UDYtRjFCNnZNT29kWTBIUFdXODhCSjBpWG0xbE9WUzJjeGo5REtaalBINHpTdnNNMXNwRWxiOFU2blBYUllMUi1IeFg3ZjVOUTd2Q1d6SHhEcU1PRUdLcnZRUS130gGuAUFVX3lxTE5ybHZGUnVFdnUtRkN5MU5qYWpPMnQ3R2hoRUROVmMwQ3lkSVMzU2Z1eXlCTlUxV19kS3lDdTduWWZkSXlXaWo5NVFVd2JodlMzVEp3UWJ6MXg4M081SzBlcnlIdUpIT19RZlZTSW5kYk5xbHJtWENQTVJ2RnNJWm9tWUlfYnMxWGRPcC10cFBBX0pqWGdmeUNmQUdLUmZGNFNiQjNqd1ZuM2l6TTNnZw?oc=5
-
-- U.S. President Donald Trump calls India trade deal 'historic' - The Hindu
-  U.S. President Donald Trump calls
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWtVMkRVRWlhVEVsUmV6ck00MHdFOVZyNURaWGtJYThEX0FneUJuRjMzalRTby1lMzN4c1d5ZjVSdzJMY0xDc3h3NDhOa1duczVmcXNsTFI0S0NCOXRYX0cxMkhmY1JPd0JGZ0VzVlVNb1B3SGJQa1picTdGWjhxNEU0UGpDWUduYXJvUXhxUVdnQUF5a2tGMkJ4QnhOaVV2ZXlUQTQ0Y1AtWUtxSi1XWi1mZDZfZzc5WTNReEs3c9IBxgFBVV95cUxOYTZMREhJS1RmTWF1Yi13eEdmVmd0TmlSSXdiNXQxRlVVSlZLUVRDc09vTlpPcnl6SEVLc3RXRzkxTHYtTEN6RHh5TF9Fb3pFWFhhbXZzSVlrUlUyVFZwQ0s2cWRERGtsbXRBMHY5NnItek9fVzRpbFQwVkF6VnRBempBX1k1R2NtVmM5b21xUDdQY3RHMUwtaEtKN21sbGtRM1NZVHhqQi1RTWZSaWprbWhBUUhXNUJHY0x5UUFoUENNbktDSkE?oc=5
-
-- India didn't send observers for Bangladesh polls: MEA - Times of India
-  India didn't send observers for Bangladesh polls
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlBxM0JxSHJHTzZPaEs1MVBTWFNOeE5xYVFibXVnb0ZSSVVlY3RRT2dsOS1yeFZYckNXSjRIYUtvRU94MVZBSmV1Z2hmN1dQdGtCNDUwNExwSU9ndUlOTjBzSVk0Q3lIaXJkTGljRnR3NnJ1SGY5SG52Qnpfa1lVTXNNb0FnRmlvWHA2V096TEJ4YllMaWZmNFZ3YjBJRjJ6Tjh5SExiOGRqdl9BdHhSM0lQS3dhbkU0OHVJ0gHAAUFVX3lxTE1aSUN3ZEFhZzhxcUFsaTFiSHN2NjdtajRfdUtTZWNOWFhZNWV0dTVfQWFEUkI2aGlhcmNFMFBSLVlEXy1JdTNOREJxeVp6QlM1U3Q0TE5mUkx3aWpCdHROWllMc0tyMVhRLUd4aUlzZzJtZFNQR1lWZmQ5Y09mQ3pNbmFRRXVyZ2U2X1Y5SlFhdTdIZ0stdGd6T2FKazF3MFB6aW5DaEJlZXpYSjlJS1Uyb3NWT0VvRTZ1Vk1ZdS0yNA?oc=5
-
-- BNP Wants Best Of Both Worlds - Hasina's Return And Good Ties With India - NDTV
-  " target="_blank">BNP Wants Best
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYVZBZ29MUXVGYzR2TmV1YVQ1ZEY3X1ZZYXBGcktpNVRfek5QVklpSE5pNmowMzdhZXNZcUQza0d1a1N6QmMtLTJpdXRyNTlSa0pKbDFfcE92aFRwQW1SYzhzUWlIN1hVdlMxeHB1RU05SmhSLUdzVnZiN0lpSlVRclhaRzkwZ3NmXzZjYUNzeGFwRDlLRHY4UDQ4dGVMcWFiRlZaRERPQnUwVy1mUzhOTnFqYzRkeFNJUm9OTGF1UTBLcVNXbVU2NEItS1RjeThV0gHYAUFVX3lxTE94Wm5GbkpDNFNuSmpSWk0tNFVTNF9yVG9Ob0ZEV3BXRnJtOUFNd1VSdElGY1AyMmdMcnV0THNqTlBOM1NGcGxBWHotMnN5cEJIaHpjLXN4alFDRkRVcmtVZ1l5dnQxa2QyWEp1ZnVCZUp1amFsMFo1ZDdoNThud1RvcDV3WXp2bVMxbUE2R25ZNE1jUmNucG13ajZ3cEhPbWZjZDV5M2FBd0lVS3lQS1BXN1UxaXdHd1F2aDlpNWRTWkJ4VHNBTkkwWXJyUXZlS0MwYmhWQnhFQQ?oc=5
-
-- The Hindu Morning Digest: February 13, 2026 - The Hindu
-  The Hindu Morning Digest: February
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOERjY0RiUHE2VUh2M3V6Z1VDYlAtamxGdVVpNHdnV19BYVNOdUJYRzFrdk95NnFKUGJXQ0phMU9oQUoxRkppUG5udzdaekUxNVFvaUp1cjBuTlZHWUNJdmktS3lDWTg5cFpPZWI2dE9GSnFQYkdhd3l5azRkc1pwYTBsY0lTZEZC0gGPAUFVX3lxTE9rZTR2VjI1bHROV0JKTUpfa1Q5SlppNEhKMEhoRzVDY1o1amYtMjA5eTlfVzBzZDRfb05IWUtDZHFLSTd5dGRJNm10WUdvQW1VeldoWlRxUlNHMEYydVRTVUdvVmdjYjI4MXBTSnpBS3l2Tmpya0RXQ0ZjLXdDSU5pU1RwUEg0c0pJbGVwbnlV?oc=5
-
-- US Removes Post On India Trade Deal With Map Including PoK, Aksai Chin - NDTV
-  US Removes Post On India Trade Deal With Map Including
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3lybk5xMGVyT1lIMU8yb0xLX0VSZXVTY2Z2NlhWaUxVOU5KTldOTHhkNllfUGg1S0N6Vl8xYjBIMWRySmlJdlI0UDYtRjFCNnZNT29kWTBIUFdXODhCSjBpWG0xbE9WUzJjeGo5REtaalBINHpTdnNNMXNwRWxiOFU2blBYUllMUi1IeFg3ZjVOUTd2Q1d6SHhEcU1PRUdLcnZRUS130gGuAUFVX3lxTE5ybHZGUnVFdnUtRkN5MU5qYWpPMnQ3R2hoRUROVmMwQ3lkSVMzU2Z1eXlCTlUxV19kS3lDdTduWWZkSXlXaWo5NVFVd2JodlMzVEp3UWJ6MXg4M081SzBlcnlIdUpIT19RZlZTSW5kYk5xbHJtWENQTVJ2RnNJWm9tWUlfYnMxWGRPcC10cFBBX0pqWGdmeUNmQUdLUmZGNFNiQjNqd1ZuM2l6TTNnZw?oc=5
-
-- U.S. President Donald Trump calls India trade deal 'historic' - The Hindu
-  U.S. President Donald Trump calls
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWtVMkRVRWlhVEVsUmV6ck00MHdFOVZyNURaWGtJYThEX0FneUJuRjMzalRTby1lMzN4c1d5ZjVSdzJMY0xDc3h3NDhOa1duczVmcXNsTFI0S0NCOXRYX0cxMkhmY1JPd0JGZ0VzVlVNb1B3SGJQa1picTdGWjhxNEU0UGpDWUduYXJvUXhxUVdnQUF5a2tGMkJ4QnhOaVV2ZXlUQTQ0Y1AtWUtxSi1XWi1mZDZfZzc5WTNReEs3c9IBxgFBVV95cUxOYTZMREhJS1RmTWF1Yi13eEdmVmd0TmlSSXdiNXQxRlVVSlZLUVRDc09vTlpPcnl6SEVLc3RXRzkxTHYtTEN6RHh5TF9Fb3pFWFhhbXZzSVlrUlUyVFZwQ0s2cWRERGtsbXRBMHY5NnItek9fVzRpbFQwVkF6VnRBempBX1k1R2NtVmM5b21xUDdQY3RHMUwtaEtKN21sbGtRM1NZVHhqQi1RTWZSaWprbWhBUUhXNUJHY0x5UUFoUENNbktDSkE?oc=5
-
-- India didn't send observers for Bangladesh polls: MEA - Times of India
-  India didn't send observers for Bangladesh polls
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlBxM0JxSHJHTzZPaEs1MVBTWFNOeE5xYVFibXVnb0ZSSVVlY3RRT2dsOS1yeFZYckNXSjRIYUtvRU94MVZBSmV1Z2hmN1dQdGtCNDUwNExwSU9ndUlOTjBzSVk0Q3lIaXJkTGljRnR3NnJ1SGY5SG52Qnpfa1lVTXNNb0FnRmlvWHA2V096TEJ4YllMaWZmNFZ3YjBJRjJ6Tjh5SExiOGRqdl9BdHhSM0lQS3dhbkU0OHVJ0gHAAUFVX3lxTE1aSUN3ZEFhZzhxcUFsaTFiSHN2NjdtajRfdUtTZWNOWFhZNWV0dTVfQWFEUkI2aGlhcmNFMFBSLVlEXy1JdTNOREJxeVp6QlM1U3Q0TE5mUkx3aWpCdHROWllMc0tyMVhRLUd4aUlzZzJtZFNQR1lWZmQ5Y09mQ3pNbmFRRXVyZ2U2X1Y5SlFhdTdIZ0stdGd6T2FKazF3MFB6aW5DaEJlZXpYSjlJS1Uyb3NWT0VvRTZ1Vk1ZdS0yNA?oc=5
-
-- BNP Wants Best Of Both Worlds - Hasina's Return And Good Ties With India - NDTV
-  " target="_blank">BNP Wants Best
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYVZBZ29MUXVGYzR2TmV1YVQ1ZEY3X1ZZYXBGcktpNVRfek5QVklpSE5pNmowMzdhZXNZcUQza0d1a1N6QmMtLTJpdXRyNTlSa0pKbDFfcE92aFRwQW1SYzhzUWlIN1hVdlMxeHB1RU05SmhSLUdzVnZiN0lpSlVRclhaRzkwZ3NmXzZjYUNzeGFwRDlLRHY4UDQ4dGVMcWFiRlZaRERPQnUwVy1mUzhOTnFqYzRkeFNJUm9OTGF1UTBLcVNXbVU2NEItS1RjeThV0gHYAUFVX3lxTE94Wm5GbkpDNFNuSmpSWk0tNFVTNF9yVG9Ob0ZEV3BXRnJtOUFNd1VSdElGY1AyMmdMcnV0THNqTlBOM1NGcGxBWHotMnN5cEJIaHpjLXN4alFDRkRVcmtVZ1l5dnQxa2QyWEp1ZnVCZUp1amFsMFo1ZDdoNThud1RvcDV3WXp2bVMxbUE2R25ZNE1jUmNucG13ajZ3cEhPbWZjZDV5M2FBd0lVS3lQS1BXN1UxaXdHd1F2aDlpNWRTWkJ4VHNBTkkwWXJyUXZlS0MwYmhWQnhFQQ?oc=5
-
-- The Hindu Morning Digest: February 13, 2026 - The Hindu
-  The Hindu Morning Digest: February
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOERjY0RiUHE2VUh2M3V6Z1VDYlAtamxGdVVpNHdnV19BYVNOdUJYRzFrdk95NnFKUGJXQ0phMU9oQUoxRkppUG5udzdaekUxNVFvaUp1cjBuTlZHWUNJdmktS3lDWTg5cFpPZWI2dE9GSnFQYkdhd3l5azRkc1pwYTBsY0lTZEZC0gGPAUFVX3lxTE9rZTR2VjI1bHROV0JKTUpfa1Q5SlppNEhKMEhoRzVDY1o1amYtMjA5eTlfVzBzZDRfb05IWUtDZHFLSTd5dGRJNm10WUdvQW1VeldoWlRxUlNHMEYydVRTVUdvVmdjYjI4MXBTSnpBS3l2Tmpya0RXQ0ZjLXdDSU5pU1RwUEg0c0pJbGVwbnlV?oc=5
-
-- US Removes Post On India Trade Deal With Map Including PoK, Aksai Chin - NDTV
-  US Removes Post On India Trade Deal With Map Including
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3lybk5xMGVyT1lIMU8yb0xLX0VSZXVTY2Z2NlhWaUxVOU5KTldOTHhkNllfUGg1S0N6Vl8xYjBIMWRySmlJdlI0UDYtRjFCNnZNT29kWTBIUFdXODhCSjBpWG0xbE9WUzJjeGo5REtaalBINHpTdnNNMXNwRWxiOFU2blBYUllMUi1IeFg3ZjVOUTd2Q1d6SHhEcU1PRUdLcnZRUS130gGuAUFVX3lxTE5ybHZGUnVFdnUtRkN5MU5qYWpPMnQ3R2hoRUROVmMwQ3lkSVMzU2Z1eXlCTlUxV19kS3lDdTduWWZkSXlXaWo5NVFVd2JodlMzVEp3UWJ6MXg4M081SzBlcnlIdUpIT19RZlZTSW5kYk5xbHJtWENQTVJ2RnNJWm9tWUlfYnMxWGRPcC10cFBBX0pqWGdmeUNmQUdLUmZGNFNiQjNqd1ZuM2l6TTNnZw?oc=5
-
-- U.S. President Donald Trump calls India trade deal 'historic' - The Hindu
-  U.S. President Donald Trump calls
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWtVMkRVRWlhVEVsUmV6ck00MHdFOVZyNURaWGtJYThEX0FneUJuRjMzalRTby1lMzN4c1d5ZjVSdzJMY0xDc3h3NDhOa1duczVmcXNsTFI0S0NCOXRYX0cxMkhmY1JPd0JGZ0VzVlVNb1B3SGJQa1picTdGWjhxNEU0UGpDWUduYXJvUXhxUVdnQUF5a2tGMkJ4QnhOaVV2ZXlUQTQ0Y1AtWUtxSi1XWi1mZDZfZzc5WTNReEs3c9IBxgFBVV95cUxOYTZMREhJS1RmTWF1Yi13eEdmVmd0TmlSSXdiNXQxRlVVSlZLUVRDc09vTlpPcnl6SEVLc3RXRzkxTHYtTEN6RHh5TF9Fb3pFWFhhbXZzSVlrUlUyVFZwQ0s2cWRERGtsbXRBMHY5NnItek9fVzRpbFQwVkF6VnRBempBX1k1R2NtVmM5b21xUDdQY3RHMUwtaEtKN21sbGtRM1NZVHhqQi1RTWZSaWprbWhBUUhXNUJHY0x5UUFoUENNbktDSkE?oc=5
-
-- India didn't send observers for Bangladesh polls: MEA - Times of India
-  India didn't send observers for Bangladesh polls
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlBxM0JxSHJHTzZPaEs1MVBTWFNOeE5xYVFibXVnb0ZSSVVlY3RRT2dsOS1yeFZYckNXSjRIYUtvRU94MVZBSmV1Z2hmN1dQdGtCNDUwNExwSU9ndUlOTjBzSVk0Q3lIaXJkTGljRnR3NnJ1SGY5SG52Qnpfa1lVTXNNb0FnRmlvWHA2V096TEJ4YllMaWZmNFZ3YjBJRjJ6Tjh5SExiOGRqdl9BdHhSM0lQS3dhbkU0OHVJ0gHAAUFVX3lxTE1aSUN3ZEFhZzhxcUFsaTFiSHN2NjdtajRfdUtTZWNOWFhZNWV0dTVfQWFEUkI2aGlhcmNFMFBSLVlEXy1JdTNOREJxeVp6QlM1U3Q0TE5mUkx3aWpCdHROWllMc0tyMVhRLUd4aUlzZzJtZFNQR1lWZmQ5Y09mQ3pNbmFRRXVyZ2U2X1Y5SlFhdTdIZ0stdGd6T2FKazF3MFB6aW5DaEJlZXpYSjlJS1Uyb3NWT0VvRTZ1Vk1ZdS0yNA?oc=5
-
-- BNP Wants Best Of Both Worlds - Hasina's Return And Good Ties With India - NDTV
-  " target="_blank">BNP Wants Best
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYVZBZ29MUXVGYzR2TmV1YVQ1ZEY3X1ZZYXBGcktpNVRfek5QVklpSE5pNmowMzdhZXNZcUQza0d1a1N6QmMtLTJpdXRyNTlSa0pKbDFfcE92aFRwQW1SYzhzUWlIN1hVdlMxeHB1RU05SmhSLUdzVnZiN0lpSlVRclhaRzkwZ3NmXzZjYUNzeGFwRDlLRHY4UDQ4dGVMcWFiRlZaRERPQnUwVy1mUzhOTnFqYzRkeFNJUm9OTGF1UTBLcVNXbVU2NEItS1RjeThV0gHYAUFVX3lxTE94Wm5GbkpDNFNuSmpSWk0tNFVTNF9yVG9Ob0ZEV3BXRnJtOUFNd1VSdElGY1AyMmdMcnV0THNqTlBOM1NGcGxBWHotMnN5cEJIaHpjLXN4alFDRkRVcmtVZ1l5dnQxa2QyWEp1ZnVCZUp1amFsMFo1ZDdoNThud1RvcDV3WXp2bVMxbUE2R25ZNE1jUmNucG13ajZ3cEhPbWZjZDV5M2FBd0lVS3lQS1BXN1UxaXdHd1F2aDlpNWRTWkJ4VHNBTkkwWXJyUXZlS0MwYmhWQnhFQQ?oc=5
-
-- The Hindu Morning Digest: February 13, 2026 - The Hindu
-  The Hindu Morning Digest: February
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOERjY0RiUHE2VUh2M3V6Z1VDYlAtamxGdVVpNHdnV19BYVNOdUJYRzFrdk95NnFKUGJXQ0phMU9oQUoxRkppUG5udzdaekUxNVFvaUp1cjBuTlZHWUNJdmktS3lDWTg5cFpPZWI2dE9GSnFQYkdhd3l5azRkc1pwYTBsY0lTZEZC0gGPAUFVX3lxTE9rZTR2VjI1bHROV0JKTUpfa1Q5SlppNEhKMEhoRzVDY1o1amYtMjA5eTlfVzBzZDRfb05IWUtDZHFLSTd5dGRJNm10WUdvQW1VeldoWlRxUlNHMEYydVRTVUdvVmdjYjI4MXBTSnpBS3l2Tmpya0RXQ0ZjLXdDSU5pU1RwUEg0c0pJbGVwbnlV?oc=5
+- Amendments made to India-US trade deal factsheet based on ‘shared understanding’, says MEA | India News - Hindustan Times
+  Amendments made to India-US trade deal factsheet based on �
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTUVxUktodUlHRHh6YlVURTBQYlh4NElBekVsUWV5R2pZMXpPT25PQ1pVVnd6a0U1aWU4cVRiMlVJM3NadHJXZmVhWUpoQWR1LUNTY3o1ZDlEOEVTYlh0SnozTlRYVFExZjNxRElwRkxTck54N3lpS004UVN2Mjc3M1VMZnVyNnFoX1ZISk9BZWVuOFEtRWZiMXQ3dVhkMVJXb2ZrZ25TbUhFUGYyMUxlc1ZFXzdPMGVYMHEwWE1pbllHQ0c0c2k0V1NKcm1qZ3ZMMUNEUWtsN0NXdWY0cEJQOHhBdDTSAeoBQVVfeXFMTmxYSkdSUDhZQkItbkV0ZWx1TmFTc1V6STc3V3RUcWQyYV9rS1BBSVhkTEwzWk43a043Y3B5WXNjU0U4bkdzUFJncE1WTjc1VE5nSGRScHpxbDZNQ2tZdUVZZmVHUzYwbjdOZTJ3TW1ab2JiLUZXOUtMRUZ3cWF1dU5TSnFhZkNSdlhlT1E1V3E5amRBTGNGU3BkQmRrdFlHZFhPZW1WM1RUT3lSTzZ5c3ZWWG5vOC1pSjJxRmM0U1FudGNlZmkxc0N2TmVkZWpxQnc0NndZVFg1UG1lODR3M2lrbTJuX1RuTFln?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-13 01:53:53 UTC_
+_Last updated: 2026-02-13 06:57:56 UTC_
