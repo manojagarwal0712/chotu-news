@@ -1,44 +1,28 @@
 # 📰 Daily News Summaries
 
-- Indian man Nikhil Gupta pleads guilty in New York over alleged plot against Gurpatwant Singh Pannun: Report
-  
-  🔗 https://indianexpress.com/article/india/nikhil-gupta-guilty-new-york-plot-gurpatwant-singh-pannun-10531058/
+- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
+  India's "Will Take Appropriate Action" Response
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
 
-- Modi first to reach out to Rahman, but mending ties easier said than done
-  
-  🔗 https://indianexpress.com/article/india/modi-first-reach-out-rahman-but-mending-ties-easier-said-than-done-10530988/
+- Pakistan ‘contacted’ US over now-deleted trade deal post showing India map with PoK: ‘Map was illegal’ | World News - Hindustan Times
+  Pakistan ‘contacted’ US over now-deleted trade deal post showing India
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSVgzRi1uR01IbmI4amVCMzRYREdBZUZQRVpqN09vMW1rTUIwMFVFQkRtamkwTVl0LUdJU3k0ajVOajJuTFRHX2NHT0s0cGxSOC11dWpyV2FNcnMyVXhVZVNhM04zakZhLXZxdHp1ei1jMjBIY3VNQ0xfRFNXcVB1NFoxVnBtRV9sc3dER3lmWW94bjA5STNXZENUMEs3TUVpb3ZyQkQ5cm15dk80ckZ1Qm8zdkVJMXZGTW5Pc3JLZXBOYnV1MGdTb09LallQOXpUVXlVQ2loWU1iaWpEQ2J5T01yRDFqT3NlSGhvZFZtaExDbknSAfgBQVVfeXFMUHlxYWNid2FibmxBOG5qT0hOeVdTQUZqdzBTMjZicEZqNVlDbWxlNTJHZkhmeXoxNlJoS09KRzlzeGxuZS0wV2VXVzBiUzR6dWlHaEc3QWpOMzQ5bnIyeW5yS1JsYlp6WG80NGdCTlh5WW5XdVlwaFE5bXJkTG1MSXp6SkNmZmZSc0Rwc19zbmxNRnIwenlJczFXaDV0MmFSQ29ZeUREby1NckJFcXUzekFYMmJyOVgyTjd2amxnX1MtNVVoNkJTNF9pX2toeU1ZZE4tMFlYeXExWDNneF91YmtrVXpaei0xbS02R2JxZGpWaGI4ZGFLOHU?oc=5
 
-- K-Rail in limbo: Railways seeks DPR revision, state presses for standalone project
-  
-  🔗 https://indianexpress.com/article/india/railways-seeks-dpr-revision-state-presses-standalone-project-10530887/
+- Pakistan Went On Damage-Control Overdrive After Washington's India Map Post - NDTV
+  Pakistan Went On Damage-Control Overdrive
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHE0Q1BXOEdKdC0tNDRWczJyQkpFQWNNRmJ6bHd6TUI3ZjNoZlJFUlRsYlZoZGxpVjAySU9aX05CVGdGTmRFQ3dkN1hDdVdpaE1NdzVVWHVJb2ozWDFJTjFKWmxhVWhZLWZ5Ti04dGg1ZmwwcUJYMklqSk11a2JUNnFsYlRJeW1BSFpWTFJQNDJsdFhocUVyWGNzVDRqdjMyZ1loVDJXU0hZSWRjVnFTZkl2eE9sQdIBvgFBVV95cUxOWXlTY1g3dEgxQXNoV2NQbUJpQzBQSTJwdmc2endPRDVQZWtUYjNCS3M3cXE0UjNEaGVHVlMtQVhVZWFuYkhzNjczVm10RGltNXA3aVc5VmFOQlpNWlJ0RDRtUzFnVHBHWjdKMmVBb0NaRzVyUEFQaWFWckxLZFV0NnJIUU8wTWRTUmlOb1d5R2RJdThJS0JoakFNVlpOYU5PcXhFZWNBT2RPWjJNMEhHLWFnUFdaLUljMFBqcGRn?oc=5
 
-- J&K Assembly Speaker demands law change as Minister admits Food Safety Act ‘deficiencies’
-  
-  🔗 https://indianexpress.com/article/india/jk-assembly-speaker-law-change-minister-food-safety-act-deficiencies-10530836/
+- Did Pakistan force US to delete India map? Congress shares video, targets MEA - Times of India
+  The Times of India reported that Pakistan had asked the US to
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeG5QSTd1TkNPcXkwMERFR3I2NTZPdXlHZ19ESXZwb25uMUVRb1VBZjNJTVc3RktvcVY1SE5YZEtLeXJLOHNMV2hrQUVCZWNWUlhYUE5kQ2k2VXZCb0RZRzZxSkVYMmg1S3B6SUptNm00Q2JRQWpLRlFmZTl6N0xlZm05X2phR09OZG9Yd2VVeFFqQV9uQWt3ZkJUY3JMS0xyaXlqdm9HdjJIVERCVzV0ZmxWMF9EVGxoNEJTSXRCcTN4RWs1akdXSG5WU1VXRDM0N1oyWnYzZnZ5TVXSAeABQVVfeXFMTmRhY0xIemhveVplU3VodENpTTkzVy1Vb0JERkRQZDNsT21WOGRIRzlVckZhZlZZcFR1eE1FeVdDTTB2MldfT1c0aDl4eHB4b05kYlJuRERXN0ZyUFZVdWxSN0JoZmNRZ3RtSXZNTkxWNmFzNmdsTFBrWHUyZkk1Nm53WGVXdmhCaGtIeUJPMEhFd29hVEdkR0VaNEUyNlNhVWJud0xlYnE4VVpkU3dZdXdxbFAtcVYyZ2c2Y090NkRVQW5UYTNKUk5MV2pQTGJ5MnVrNzhSUkRSS1d6WEZPTDg?oc=5
 
-- This 73-year-old Kerala woman just taught a viral lesson in civic sense—and authorities are taking notes
-  
-  🔗 https://indianexpress.com/article/india/73-year-old-kerala-woman-taught-civic-sense-lesson-10530704/
+- India approves Rafale jet purchase in $40 billion defense package ahead of Macron visit - CNBC
+  India approves Rafale jet purchase in $40 billion defense package
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOZklQX3dlSUpQVlg3dnpUWWIzV1oxbS1LRDMxOUVvT0pncHRVb0NqbEZrcFFTdEhaZEgzMURDVG1hNWxrSjEzX0VabE9QdWtjUV93VkxNWV80WW56UlRMTkhvbU1KVHNTcE94UEFJeUJNZUt5SkhKX0hGWjhCc0NRLXk4LWJYWTNSdTVRdkN3Q3pTUEw4Mm1NTHQxaHN0ZmwyZlBuSlBlRjFndWZIb1Jn0gG0AUFVX3lxTE1LU3NKVEN1UC1xVXNDMWdOM2E2SFBBczdaRXpaVlFrN0lCZHdzeFlWUFF5ekZzZllqMzBxbXRFN0hyZUtwMDR3Uy02Y3ZnTWloaGFMTEo3bkk5ZTdFYVVwVVNWOXBHbU43TFZ5Z1Z1eG9JVWFnUnlRekdlQWM3VjA4cFNmMmJ5bzY4LXdKLVUxZ2VSSEVqaWVaYXN2X2NJOVk0QzlDakpibzU0R053Ym5RY0U1aQ?oc=5
 
-- To stay in her home, she let in an AI robot
-  
-  🔗 https://indianexpress.com/article/technology/science/to-stay-in-her-home-she-let-in-an-ai-robot-10530915/
-
-- Meta plans to add facial recognition technology to its smart glasses
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-add-facial-recognition-technology-smart-glasses-10530784/
-
-- Sony State of Play February 2026: every game announced and revealed
-  
-  🔗 https://indianexpress.com/article/technology/gaming/sony-state-of-play-february-2026-every-game-announced-and-revealed-10530716/
-
-- Spotify CEO: AI now writes and deploys code, engineers only review
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/sporify-ai-vibe-coding-developers-review-10530446/
-
-- India’s computer vision health startup Krigat wins Supernova AI MEA in Cairo
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/indias-computer-vision-health-startup-krigat-wins-supernova-ai-mea-in-cairo-10530532/
+- Biocon nears full integration of biologics business after Mylan buyback
+  The Bengaluru-based company on 14 January said it raised $460 million via a QIP of shares to buy out Mylan Inc’s stake in its arm Biocon Biolog
+  🔗 https://www.livemint.com/companies/news/biocon-to-complete-biologics-arm-integration-by-end-of-fy26-says-shreehas-tambe-11770985044677.html
 
 - OpenAI Tapped for Voice Control Tech in US Drone Swarm Challenge
   OpenAI has partnered with two defense technology companies that the Pentagon has selected to compete to develop voice-controlled, drone swarming software.
@@ -56,49 +40,25 @@
   The RBI has allowed MUFG to invest in Shriram Finance's 20% stake sale without prior permission. This deal marks a significant FDI and has garnered shareholder
   🔗 https://www.livemint.com/companies/news/rbis-prior-approval-not-needed-for-japans-mufg-to-acquire-20-stake-in-shriram-finance-11770994731952.html
 
-- Ola Electric reports record-low quarterly revenue amid store closures, layoffs
-  The company saw its losses narrow slightly to  ₹487 crore in the third quarter of the financial year 2026. Its revenue fell 57% to 
-  🔗 https://www.livemint.com/companies/company-results/ola-electric-s-income-hits-new-low-as-it-closes-stores-lays-off-employees-in-bid-to-find-a-way-back-11770990055562.html
+- Stocks to buy under  ₹200: Mehul Kothari recommends three shares to buy or sell
+  Mehul Kothari recommends GMR Airports, Edelweiss Financial Services, and Mother
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-recommends-three-shares-to-buy-or-sell-11770997899787.html
 
-- Alibaba, Baidu stocks dive after US briefly lists them as companies aiding Chinese military
-  The Pentagon included major Chinese companies such as Alibaba and Baidu in a military support list, prompting a stock sell-off
-  🔗 https://www.livemint.com/market/alibaba-baidu-stocks-dive-after-us-briefly-lists-them-as-companies-aiding-chinese-military-11770999789844.html
+- Stock to buy: Sumeet Bagadia of Choice Broking has recommended this IT stock as his Valentine Day Pick 2026
+  Tech Mahindra is 17% below its 652-week high of  ₹1,850. Sumeet Bagadia recommends buying Tech Mahind
+  🔗 https://www.livemint.com/market/stock-market-news/stock-to-buy-sumeet-bagadia-of-choice-broking-has-recommended-it-stock-tech-mahindra-as-his-valentine-day-pick-2026-11770914319355.html
 
-- Pulse of the Street: Tech rout, muted earnings singe Indian markets
-  Indian equities snapped their winning streak as a global technology sell-off, mixed earnings commentary and profit booking weighed on benchmarks. Sectoral rotation intensified, with
-  🔗 https://www.livemint.com/market/pulse-of-the-street-tech-rout-muted-earnings-singe-nifty-sensex-11770987190033.html
+- European Stocks Steady With Earnings in Focus; L’Oreal Slumps
+  European stocks were steady Friday as corporate earnings remained center stage. A selloff eased in sectors that are deemed at
+  🔗 https://www.livemint.com/market/european-stocks-steady-with-earnings-in-focus-l-oreal-slumps-11771008140134.html
 
-- Gold, silver rates today: Comex gold gains $81/oz; silver rebounds $3.6/oz on softer US inflation
-  The April futures contract on Comex rebounded $81 per troy ounce to reach the day's high of $5,029. Precious
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-gains-81-oz-silver-rebounds-3-6-oz-on-softer-us-inflation-11770989346005.html
+- European Stocks Muted on Pressure From Banks, L’Oreal Earnings
+  European stocks were subdued on Friday, weighed down by a broad retreat across banking shares.
+  🔗 https://www.livemint.com/market/european-stocks-muted-on-pressure-from-banks-l-oreal-earnings-11771008081090.html
 
-- Sebi proposes using T-1 NAV as base price for ETFs
-  The Sebi move seeks to remove the one-day lag that can misalign price bands
-  🔗 https://www.livemint.com/market/sebi-exchange-traded-funds-t-1-nav-market-regulator-proposal-india-11770986295466.html
-
-- Bhatia Communications sets record date for third interim dividend payable in FY26
-  Bhatia Communications &amp;amp; Retail has set February 20 as the record date for a third interim dividend of Re 0.01 per equity share for FY 2025–26. Investors must own shares before
-  🔗 https://www.livemint.com/market/stock-market-news/bhatia-communications-sets-record-date-for-third-interim-dividend-payable-in-fy26-11770987098381.html
-
-- Sony confirms John Wick game for PlayStation 5: Storyline, expected release date and all we know so far
-  Sony has revealed a AAA John Wick game for PlayStation 5. The title will feature an original story, cinematic action, and the series’ signature gun-fu combat.
-  🔗 https://www.livemint.com/technology/tech-news/sony-confirms-john-wick-game-for-playstation-5-storyline-expected-release-date-and-all-we-know-so-far-11771003541015.html
-
-- End of the road for GPT-4o and GPT-5? OpenAI set to retire legacy GPT models today: Here's why
-  OpenAI is retiring GPT-4o and several older models from ChatGPT. The change affects ChatG PT only, while API
-  🔗 https://www.livemint.com/technology/tech-news/end-of-the-road-for-gpt-4o-and-gpt-5-openai-set-to-retire-legacy-gpt-models-today-heres-why-11771002559821.html
-
-- OpenAI accuses DeepSeek of bypassing safeguards to replicate American AI models: Report
-  OpenAI has warned US lawmakers that DeepSeek may be using distillation tactics to copy American AI models. It raises fresh concerns over security
-  🔗 https://www.livemint.com/technology/openai-accuses-deepseek-of-bypassing-safeguards-to-replicate-american-ai-models-report-11770998946779.html
-
-- India–AI Impact Summit 2026: Macron, Lula, Al Nahyan, among 20 global leaders to attend the mega event – full list
-  India is set to host the inaugural India–AI Impact Summit 2026 from February 16-20 in New Delhi. This landmark event emphasizes inclusive growth under the theme 'Welfare for All, Happiness of
-  🔗 https://www.livemint.com/technology/tech-news/indiaai-impact-summit-2026-macron-lula-al-nahyan-among-20-global-leaders-to-attend-the-mega-event-full-list-11770994894160.html
-
-- Buzz of the Olympics: How drone cams deliver high-pace visuals and add a new dynamic for TV viewers
-  Drone cams have been used in the Olympics for the first
-  🔗 https://www.livemint.com/technology/buzz-of-the-olympics-how-drone-cams-deliver-high-pace-visuals-and-add-a-new-dynamic-for-tv-viewers-11770992884944.html
+- European Stocks Slip on Pressure From Banks, L’Oreal Sales
+  European stocks slipped Friday, dragged down by a broad retreat across banking shares.
+  🔗 https://www.livemint.com/market/european-stocks-slip-on-pressure-from-banks-l-oreal-sales-11771008081099.html
 
 - Wall Street heads for weekly losses as tech jitters offset inflation relief
   S&amp;P 500, Dow head for worst weekly drop since November. Cooling
@@ -144,109 +104,81 @@
   India's "Will Take Appropriate Action" Response
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
 
-- PM Modi Congratulates BNP's Tarique Rahman: "India Will Support Democratic, Inclusive Bangladesh" - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdjNlNWhlSjEtdjJWc0FWc0V2VXdxVVZOX1hIenQxN296d3F2bXR5WkFsbVJvM2ZPcXQ5ejhPSzg0bWhORnhGMU9OY0hsZHBGcEM3QTB1Vl9fUTVPM2tFNnpCaTFYRXQyMU
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdjNlNWhlSjEtdjJWc0FWc0V2VXdxVVZOX1hIenQxN296d3F2bXR5WkFsbVJvM2ZPcXQ5ejhPSzg0bWhORnhGMU9OY0hsZHBGcEM3QTB1Vl9fUTVPM2tFNnpCaTFYRXQyMUxoR2V5bjBhQ21KSTdRR29rdXhUVmtZbHVIVDlrSmRvV0ZFNF9WMWxFTDZjWno3dk1DRFNWNXFtbHRlNmpBRDdQRXNmOW1ZLTdIRU9FcHE5SmZVX1JqVjVRQ1VONm54QkhiSEJiSnMwemx6TEdwTmNrRWFRRHRNb05HLWdhbU53dGQwcEFwYjlSeHVlZW5aUGVn0gGCAkFVX3lxTFA0TXlkbGV6YTZYNFVaUnFUQkh0N3Z3cGRLaGx0NDJPTldhUzBjZm5GUU8wZEZDSURvNWh5WVI3U3dEUHFzWWNlWEwxanBweFozYkdJOGtldDJuaFF3T2FEOEZnVG1kdFFQa0lfRXBvLTgyaWNBc0h1bGxMMG5rcTZwOTJmbmgwb1EzakI4cU9KWjhoaklneXM3R0ZaU1ZJN2JGVjJfckdhRHJPdENNb2pMRDRRV1N6Sm9VOUZyalZ4M2FKSm5SWG9pSUVYWTZZM0JINDBsdFFORTdaRWFTX3BrS2stc1NDbTBnd09XbTZmVHpoWmZ1SEZLZllhVTJ6YmkyUQ?oc=5
+- Pakistan ‘contacted’ US over now-deleted trade deal post showing India map with PoK: ‘Map was illegal’ | World News - Hindustan Times
+  Pakistan ‘contacted’ US over now-deleted trade deal post showing India
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSVgzRi1uR01IbmI4amVCMzRYREdBZUZQRVpqN09vMW1rTUIwMFVFQkRtamkwTVl0LUdJU3k0ajVOajJuTFRHX2NHT0s0cGxSOC11dWpyV2FNcnMyVXhVZVNhM04zakZhLXZxdHp1ei1jMjBIY3VNQ0xfRFNXcVB1NFoxVnBtRV9sc3dER3lmWW94bjA5STNXZENUMEs3TUVpb3ZyQkQ5cm15dk80ckZ1Qm8zdkVJMXZGTW5Pc3JLZXBOYnV1MGdTb09LallQOXpUVXlVQ2loWU1iaWpEQ2J5T01yRDFqT3NlSGhvZFZtaExDbknSAfgBQVVfeXFMUHlxYWNid2FibmxBOG5qT0hOeVdTQUZqdzBTMjZicEZqNVlDbWxlNTJHZkhmeXoxNlJoS09KRzlzeGxuZS0wV2VXVzBiUzR6dWlHaEc3QWpOMzQ5bnIyeW5yS1JsYlp6WG80NGdCTlh5WW5XdVlwaFE5bXJkTG1MSXp6SkNmZmZSc0Rwc19zbmxNRnIwenlJczFXaDV0MmFSQ29ZeUREby1NckJFcXUzekFYMmJyOVgyTjd2amxnX1MtNVVoNkJTNF9pX2toeU1ZZE4tMFlYeXExWDNneF91YmtrVXpaei0xbS02R2JxZGpWaGI4ZGFLOHU?oc=5
 
-- How Artificial Intelligence Is Powering India's Cultural Renaissance - NDTV
-  How Artificial Intelligence Is Powering
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQThkNUh2dWhwQ1BtY1plZ2lmNGNPZ2pvd05SOG1jaEFSLVUyU2JGSmNJSGZNQW1jNXZVLVNQbEh1N3U1dDYzeTE5TXF1cWVndm01TkNjd1hkQUhTbFRUVjRjZVhvbUhWS3lvR3prUmdJN29SNnplUWRPYWRsc1JQSDVWbERKZVpXZl9WZlE1aFF5MVNrSU1ha0RkYmJhbGluQVpZVmpZWlAzVUhsU2ZwYkVZb0RuUHJsTC1KbzAtT0ljd9IBygFBVV95cUxNdTJHcUllc0xtOFVuRnlUWTlmZU1wcjNGYUN2TVRBb0FWclNvRDBUN3VjOTVxRnhlUHpTT1ZDZlUyLTVsM1p3MGZLeXhLbFpXR1Z4eFB2Z0hSc3hJbjBLaTlFVWRGcXk3VC04S0hpcEtLVTBLX094N0lWTGpDRThNWUFEN1lGZjcwamhYQzJoY3pqUTU4R0ZtV1dUaWE1bEphVDNucFlOV3FIRVVsNllCVHVBMElyQ3N1SmJ4TjA1MF8yS1pmQWRjRFN3?oc=5
+- Pakistan Went On Damage-Control Overdrive After Washington's India Map Post - NDTV
+  Pakistan Went On Damage-Control Overdrive
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHE0Q1BXOEdKdC0tNDRWczJyQkpFQWNNRmJ6bHd6TUI3ZjNoZlJFUlRsYlZoZGxpVjAySU9aX05CVGdGTmRFQ3dkN1hDdVdpaE1NdzVVWHVJb2ozWDFJTjFKWmxhVWhZLWZ5Ti04dGg1ZmwwcUJYMklqSk11a2JUNnFsYlRJeW1BSFpWTFJQNDJsdFhocUVyWGNzVDRqdjMyZ1loVDJXU0hZSWRjVnFTZkl2eE9sQdIBvgFBVV95cUxOWXlTY1g3dEgxQXNoV2NQbUJpQzBQSTJwdmc2endPRDVQZWtUYjNCS3M3cXE0UjNEaGVHVlMtQVhVZWFuYkhzNjczVm10RGltNXA3aVc5VmFOQlpNWlJ0RDRtUzFnVHBHWjdKMmVBb0NaRzVyUEFQaWFWckxLZFV0NnJIUU8wTWRTUmlOb1d5R2RJdThJS0JoakFNVlpOYU5PcXhFZWNBT2RPWjJNMEhHLWFnUFdaLUljMFBqcGRn?oc=5
 
-- Indian Pleads Guilty To Failed Assassination Plot Against Khalistani Terrorist Pannun - NDTV
-  Indian Pleads Guilty To Failed Assassination Plot
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPN3ZyMUloQ2F0cFRaWkhEOW1YZTFOeWlYYUpZazBheHF0RkZiSFR5QWRJaGV4dTdpOUNscjY4ODJ4c2N1MFF4aXhtdTkzOFFGck5aaFE1aS15dU1aWnZIdDdocXl6eWduck5EbFFJbDRHeW8xRDZYbDBzcXp2ZlIzMk9LQWtOTWF0bXVRX1dhdVY2bGdEYlkxeWl3STZ3QWI5SzBCVHBmTlVJSGdzN3lBMFJnZlNCMXdId0xSVzZ6bUJMckVpcmFkZVl3R0pTc3JxUDQ3RUhrc0lBMGRDZ21qSDdhd1NMYTBXTzhvM3QxLWs4VF9t0gH8AUFVX3lxTFBic3FjbVZCeEhMQlk0LXdQMHV1WnloV2JDSUlrX1BZajJRTDJTX09WWGZCZGZNbUJCZW9yNTNCTkFCZDVnb0x2WC1veXVEc3MxYTlBN2U1ZnhlS3pBR1dZeGtxOE1qTVUzOUhSTVZQajVibFIxVkttTWIyMEF3elJYbmVGV2R4RU5jSG12LVhyZ2JQNC1CT1pTSktUb0R1ZTRVMDlTTlJkbTZiYmlvTWFGcGVwUVo3V2ZlVUZhUVU2b0UxaXFoMnZ5N2M4VF9LN0lUcFV4VkNLRFNhZWl1M1NTc25ZWUhWYl9QdVIzUWJReEtKMTNDeEhDOHd3eA?oc=5
+- Did Pakistan force US to delete India map? Congress shares video, targets MEA - Times of India
+  The Times of India reported that Pakistan had asked the US to
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeG5QSTd1TkNPcXkwMERFR3I2NTZPdXlHZ19ESXZwb25uMUVRb1VBZjNJTVc3RktvcVY1SE5YZEtLeXJLOHNMV2hrQUVCZWNWUlhYUE5kQ2k2VXZCb0RZRzZxSkVYMmg1S3B6SUptNm00Q2JRQWpLRlFmZTl6N0xlZm05X2phR09OZG9Yd2VVeFFqQV9uQWt3ZkJUY3JMS0xyaXlqdm9HdjJIVERCVzV0ZmxWMF9EVGxoNEJTSXRCcTN4RWs1akdXSG5WU1VXRDM0N1oyWnYzZnZ5TVXSAeABQVVfeXFMTmRhY0xIemhveVplU3VodENpTTkzVy1Vb0JERkRQZDNsT21WOGRIRzlVckZhZlZZcFR1eE1FeVdDTTB2MldfT1c0aDl4eHB4b05kYlJuRERXN0ZyUFZVdWxSN0JoZmNRZ3RtSXZNTkxWNmFzNmdsTFBrWHUyZkk1Nm53WGVXdmhCaGtIeUJPMEhFd29hVEdkR0VaNEUyNlNhVWJud0xlYnE4VVpkU3dZdXdxbFAtcVYyZ2c2Y090NkRVQW5UYTNKUk5MV2pQTGJ5MnVrNzhSUkRSS1d6WEZPTDg?oc=5
 
-- Norms being drafted to implement SHANTI Act, House told - Times of India
-  House of Representatives is drafting a bill to
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNSFR5M01jaWlPQnU4OGlGa3dDbGVHSnhfbDZ1R201cDMyZFhhOHlzQW1aZ3BrMm51ZXdZa3BWaURnT2syZUpPRkV3eWZxV2NSMjlfZ0VDMEx1eGgzSGNuSW9fajBLVzU2NW9YTWdlaHhtSDlybTZ4MHQ3Zmxqc3p2OXhjNEtDbko5WHdQaUFGLVpfdk9vR01iYlh2VzRHVU8tR2FwYXJkSWR0eGhBOC0ya2hURUY0QkNGYVpXMFliRdIBxAFBVV95cUxQR2kzR08xdWRVbVEzYVdxQmg2dHR5dlZFVThEcGF0X2R2NXVITHpkMkFBTGI4X2ZKU2h0ajBCWjhmdzlJcHo5WEZnT2ZVMEZhY0ozTGVxQldWM2hxZ05MTEJUQm91TF9XbUdFdm4wQmlyME9KaFRLek5sMEFmTENYVjBCRzFFOEpJa2ZjNFJEd3BsZlh0bVMxUlZSQjdaVlZDZVRqc1RoY25fT2JRczRvYmxaWjVmUzN5SmxNcEFCWWp5YWhJ?oc=5
-
-- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
-  India's "Will Take Appropriate Action" Response
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
-
-- PM Modi Congratulates BNP's Tarique Rahman: "India Will Support Democratic, Inclusive Bangladesh" - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdjNlNWhlSjEtdjJWc0FWc0V2VXdxVVZOX1hIenQxN296d3F2bXR5WkFsbVJvM2ZPcXQ5ejhPSzg0bWhORnhGMU9OY0hsZHBGcEM3QTB1Vl9fUTVPM2tFNnpCaTFYRXQyMU
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdjNlNWhlSjEtdjJWc0FWc0V2VXdxVVZOX1hIenQxN296d3F2bXR5WkFsbVJvM2ZPcXQ5ejhPSzg0bWhORnhGMU9OY0hsZHBGcEM3QTB1Vl9fUTVPM2tFNnpCaTFYRXQyMUxoR2V5bjBhQ21KSTdRR29rdXhUVmtZbHVIVDlrSmRvV0ZFNF9WMWxFTDZjWno3dk1DRFNWNXFtbHRlNmpBRDdQRXNmOW1ZLTdIRU9FcHE5SmZVX1JqVjVRQ1VONm54QkhiSEJiSnMwemx6TEdwTmNrRWFRRHRNb05HLWdhbU53dGQwcEFwYjlSeHVlZW5aUGVn0gGCAkFVX3lxTFA0TXlkbGV6YTZYNFVaUnFUQkh0N3Z3cGRLaGx0NDJPTldhUzBjZm5GUU8wZEZDSURvNWh5WVI3U3dEUHFzWWNlWEwxanBweFozYkdJOGtldDJuaFF3T2FEOEZnVG1kdFFQa0lfRXBvLTgyaWNBc0h1bGxMMG5rcTZwOTJmbmgwb1EzakI4cU9KWjhoaklneXM3R0ZaU1ZJN2JGVjJfckdhRHJPdENNb2pMRDRRV1N6Sm9VOUZyalZ4M2FKSm5SWG9pSUVYWTZZM0JINDBsdFFORTdaRWFTX3BrS2stc1NDbTBnd09XbTZmVHpoWmZ1SEZLZllhVTJ6YmkyUQ?oc=5
-
-- How Artificial Intelligence Is Powering India's Cultural Renaissance - NDTV
-  How Artificial Intelligence Is Powering
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQThkNUh2dWhwQ1BtY1plZ2lmNGNPZ2pvd05SOG1jaEFSLVUyU2JGSmNJSGZNQW1jNXZVLVNQbEh1N3U1dDYzeTE5TXF1cWVndm01TkNjd1hkQUhTbFRUVjRjZVhvbUhWS3lvR3prUmdJN29SNnplUWRPYWRsc1JQSDVWbERKZVpXZl9WZlE1aFF5MVNrSU1ha0RkYmJhbGluQVpZVmpZWlAzVUhsU2ZwYkVZb0RuUHJsTC1KbzAtT0ljd9IBygFBVV95cUxNdTJHcUllc0xtOFVuRnlUWTlmZU1wcjNGYUN2TVRBb0FWclNvRDBUN3VjOTVxRnhlUHpTT1ZDZlUyLTVsM1p3MGZLeXhLbFpXR1Z4eFB2Z0hSc3hJbjBLaTlFVWRGcXk3VC04S0hpcEtLVTBLX094N0lWTGpDRThNWUFEN1lGZjcwamhYQzJoY3pqUTU4R0ZtV1dUaWE1bEphVDNucFlOV3FIRVVsNllCVHVBMElyQ3N1SmJ4TjA1MF8yS1pmQWRjRFN3?oc=5
-
-- Indian Pleads Guilty To Failed Assassination Plot Against Khalistani Terrorist Pannun - NDTV
-  Indian Pleads Guilty To Failed Assassination Plot
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPN3ZyMUloQ2F0cFRaWkhEOW1YZTFOeWlYYUpZazBheHF0RkZiSFR5QWRJaGV4dTdpOUNscjY4ODJ4c2N1MFF4aXhtdTkzOFFGck5aaFE1aS15dU1aWnZIdDdocXl6eWduck5EbFFJbDRHeW8xRDZYbDBzcXp2ZlIzMk9LQWtOTWF0bXVRX1dhdVY2bGdEYlkxeWl3STZ3QWI5SzBCVHBmTlVJSGdzN3lBMFJnZlNCMXdId0xSVzZ6bUJMckVpcmFkZVl3R0pTc3JxUDQ3RUhrc0lBMGRDZ21qSDdhd1NMYTBXTzhvM3QxLWs4VF9t0gH8AUFVX3lxTFBic3FjbVZCeEhMQlk0LXdQMHV1WnloV2JDSUlrX1BZajJRTDJTX09WWGZCZGZNbUJCZW9yNTNCTkFCZDVnb0x2WC1veXVEc3MxYTlBN2U1ZnhlS3pBR1dZeGtxOE1qTVUzOUhSTVZQajVibFIxVkttTWIyMEF3elJYbmVGV2R4RU5jSG12LVhyZ2JQNC1CT1pTSktUb0R1ZTRVMDlTTlJkbTZiYmlvTWFGcGVwUVo3V2ZlVUZhUVU2b0UxaXFoMnZ5N2M4VF9LN0lUcFV4VkNLRFNhZWl1M1NTc25ZWUhWYl9QdVIzUWJReEtKMTNDeEhDOHd3eA?oc=5
-
-- Norms being drafted to implement SHANTI Act, House told - Times of India
-  House of Representatives is drafting a bill to
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNSFR5M01jaWlPQnU4OGlGa3dDbGVHSnhfbDZ1R201cDMyZFhhOHlzQW1aZ3BrMm51ZXdZa3BWaURnT2syZUpPRkV3eWZxV2NSMjlfZ0VDMEx1eGgzSGNuSW9fajBLVzU2NW9YTWdlaHhtSDlybTZ4MHQ3Zmxqc3p2OXhjNEtDbko5WHdQaUFGLVpfdk9vR01iYlh2VzRHVU8tR2FwYXJkSWR0eGhBOC0ya2hURUY0QkNGYVpXMFliRdIBxAFBVV95cUxQR2kzR08xdWRVbVEzYVdxQmg2dHR5dlZFVThEcGF0X2R2NXVITHpkMkFBTGI4X2ZKU2h0ajBCWjhmdzlJcHo5WEZnT2ZVMEZhY0ozTGVxQldWM2hxZ05MTEJUQm91TF9XbUdFdm4wQmlyME9KaFRLek5sMEFmTENYVjBCRzFFOEpJa2ZjNFJEd3BsZlh0bVMxUlZSQjdaVlZDZVRqc1RoY25fT2JRczRvYmxaWjVmUzN5SmxNcEFCWWp5YWhJ?oc=5
+- India approves Rafale jet purchase in $40 billion defense package ahead of Macron visit - CNBC
+  India approves Rafale jet purchase in $40 billion defense package
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOZklQX3dlSUpQVlg3dnpUWWIzV1oxbS1LRDMxOUVvT0pncHRVb0NqbEZrcFFTdEhaZEgzMURDVG1hNWxrSjEzX0VabE9QdWtjUV93VkxNWV80WW56UlRMTkhvbU1KVHNTcE94UEFJeUJNZUt5SkhKX0hGWjhCc0NRLXk4LWJYWTNSdTVRdkN3Q3pTUEw4Mm1NTHQxaHN0ZmwyZlBuSlBlRjFndWZIb1Jn0gG0AUFVX3lxTE1LU3NKVEN1UC1xVXNDMWdOM2E2SFBBczdaRXpaVlFrN0lCZHdzeFlWUFF5ekZzZllqMzBxbXRFN0hyZUtwMDR3Uy02Y3ZnTWloaGFMTEo3bkk5ZTdFYVVwVVNWOXBHbU43TFZ5Z1Z1eG9JVWFnUnlRekdlQWM3VjA4cFNmMmJ5bzY4LXdKLVUxZ2VSSEVqaWVaYXN2X2NJOVk0QzlDakpibzU0R053Ym5RY0U1aQ?oc=5
 
 - India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
   India's "Will Take Appropriate Action" Response
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
 
-- PM Modi Congratulates BNP's Tarique Rahman: "India Will Support Democratic, Inclusive Bangladesh" - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdjNlNWhlSjEtdjJWc0FWc0V2VXdxVVZOX1hIenQxN296d3F2bXR5WkFsbVJvM2ZPcXQ5ejhPSzg0bWhORnhGMU9OY0hsZHBGcEM3QTB1Vl9fUTVPM2tFNnpCaTFYRXQyMU
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdjNlNWhlSjEtdjJWc0FWc0V2VXdxVVZOX1hIenQxN296d3F2bXR5WkFsbVJvM2ZPcXQ5ejhPSzg0bWhORnhGMU9OY0hsZHBGcEM3QTB1Vl9fUTVPM2tFNnpCaTFYRXQyMUxoR2V5bjBhQ21KSTdRR29rdXhUVmtZbHVIVDlrSmRvV0ZFNF9WMWxFTDZjWno3dk1DRFNWNXFtbHRlNmpBRDdQRXNmOW1ZLTdIRU9FcHE5SmZVX1JqVjVRQ1VONm54QkhiSEJiSnMwemx6TEdwTmNrRWFRRHRNb05HLWdhbU53dGQwcEFwYjlSeHVlZW5aUGVn0gGCAkFVX3lxTFA0TXlkbGV6YTZYNFVaUnFUQkh0N3Z3cGRLaGx0NDJPTldhUzBjZm5GUU8wZEZDSURvNWh5WVI3U3dEUHFzWWNlWEwxanBweFozYkdJOGtldDJuaFF3T2FEOEZnVG1kdFFQa0lfRXBvLTgyaWNBc0h1bGxMMG5rcTZwOTJmbmgwb1EzakI4cU9KWjhoaklneXM3R0ZaU1ZJN2JGVjJfckdhRHJPdENNb2pMRDRRV1N6Sm9VOUZyalZ4M2FKSm5SWG9pSUVYWTZZM0JINDBsdFFORTdaRWFTX3BrS2stc1NDbTBnd09XbTZmVHpoWmZ1SEZLZllhVTJ6YmkyUQ?oc=5
+- Pakistan ‘contacted’ US over now-deleted trade deal post showing India map with PoK: ‘Map was illegal’ | World News - Hindustan Times
+  Pakistan ‘contacted’ US over now-deleted trade deal post showing India
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSVgzRi1uR01IbmI4amVCMzRYREdBZUZQRVpqN09vMW1rTUIwMFVFQkRtamkwTVl0LUdJU3k0ajVOajJuTFRHX2NHT0s0cGxSOC11dWpyV2FNcnMyVXhVZVNhM04zakZhLXZxdHp1ei1jMjBIY3VNQ0xfRFNXcVB1NFoxVnBtRV9sc3dER3lmWW94bjA5STNXZENUMEs3TUVpb3ZyQkQ5cm15dk80ckZ1Qm8zdkVJMXZGTW5Pc3JLZXBOYnV1MGdTb09LallQOXpUVXlVQ2loWU1iaWpEQ2J5T01yRDFqT3NlSGhvZFZtaExDbknSAfgBQVVfeXFMUHlxYWNid2FibmxBOG5qT0hOeVdTQUZqdzBTMjZicEZqNVlDbWxlNTJHZkhmeXoxNlJoS09KRzlzeGxuZS0wV2VXVzBiUzR6dWlHaEc3QWpOMzQ5bnIyeW5yS1JsYlp6WG80NGdCTlh5WW5XdVlwaFE5bXJkTG1MSXp6SkNmZmZSc0Rwc19zbmxNRnIwenlJczFXaDV0MmFSQ29ZeUREby1NckJFcXUzekFYMmJyOVgyTjd2amxnX1MtNVVoNkJTNF9pX2toeU1ZZE4tMFlYeXExWDNneF91YmtrVXpaei0xbS02R2JxZGpWaGI4ZGFLOHU?oc=5
 
-- How Artificial Intelligence Is Powering India's Cultural Renaissance - NDTV
-  How Artificial Intelligence Is Powering
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQThkNUh2dWhwQ1BtY1plZ2lmNGNPZ2pvd05SOG1jaEFSLVUyU2JGSmNJSGZNQW1jNXZVLVNQbEh1N3U1dDYzeTE5TXF1cWVndm01TkNjd1hkQUhTbFRUVjRjZVhvbUhWS3lvR3prUmdJN29SNnplUWRPYWRsc1JQSDVWbERKZVpXZl9WZlE1aFF5MVNrSU1ha0RkYmJhbGluQVpZVmpZWlAzVUhsU2ZwYkVZb0RuUHJsTC1KbzAtT0ljd9IBygFBVV95cUxNdTJHcUllc0xtOFVuRnlUWTlmZU1wcjNGYUN2TVRBb0FWclNvRDBUN3VjOTVxRnhlUHpTT1ZDZlUyLTVsM1p3MGZLeXhLbFpXR1Z4eFB2Z0hSc3hJbjBLaTlFVWRGcXk3VC04S0hpcEtLVTBLX094N0lWTGpDRThNWUFEN1lGZjcwamhYQzJoY3pqUTU4R0ZtV1dUaWE1bEphVDNucFlOV3FIRVVsNllCVHVBMElyQ3N1SmJ4TjA1MF8yS1pmQWRjRFN3?oc=5
+- Pakistan Went On Damage-Control Overdrive After Washington's India Map Post - NDTV
+  Pakistan Went On Damage-Control Overdrive
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHE0Q1BXOEdKdC0tNDRWczJyQkpFQWNNRmJ6bHd6TUI3ZjNoZlJFUlRsYlZoZGxpVjAySU9aX05CVGdGTmRFQ3dkN1hDdVdpaE1NdzVVWHVJb2ozWDFJTjFKWmxhVWhZLWZ5Ti04dGg1ZmwwcUJYMklqSk11a2JUNnFsYlRJeW1BSFpWTFJQNDJsdFhocUVyWGNzVDRqdjMyZ1loVDJXU0hZSWRjVnFTZkl2eE9sQdIBvgFBVV95cUxOWXlTY1g3dEgxQXNoV2NQbUJpQzBQSTJwdmc2endPRDVQZWtUYjNCS3M3cXE0UjNEaGVHVlMtQVhVZWFuYkhzNjczVm10RGltNXA3aVc5VmFOQlpNWlJ0RDRtUzFnVHBHWjdKMmVBb0NaRzVyUEFQaWFWckxLZFV0NnJIUU8wTWRTUmlOb1d5R2RJdThJS0JoakFNVlpOYU5PcXhFZWNBT2RPWjJNMEhHLWFnUFdaLUljMFBqcGRn?oc=5
 
-- Indian Pleads Guilty To Failed Assassination Plot Against Khalistani Terrorist Pannun - NDTV
-  Indian Pleads Guilty To Failed Assassination Plot
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPN3ZyMUloQ2F0cFRaWkhEOW1YZTFOeWlYYUpZazBheHF0RkZiSFR5QWRJaGV4dTdpOUNscjY4ODJ4c2N1MFF4aXhtdTkzOFFGck5aaFE1aS15dU1aWnZIdDdocXl6eWduck5EbFFJbDRHeW8xRDZYbDBzcXp2ZlIzMk9LQWtOTWF0bXVRX1dhdVY2bGdEYlkxeWl3STZ3QWI5SzBCVHBmTlVJSGdzN3lBMFJnZlNCMXdId0xSVzZ6bUJMckVpcmFkZVl3R0pTc3JxUDQ3RUhrc0lBMGRDZ21qSDdhd1NMYTBXTzhvM3QxLWs4VF9t0gH8AUFVX3lxTFBic3FjbVZCeEhMQlk0LXdQMHV1WnloV2JDSUlrX1BZajJRTDJTX09WWGZCZGZNbUJCZW9yNTNCTkFCZDVnb0x2WC1veXVEc3MxYTlBN2U1ZnhlS3pBR1dZeGtxOE1qTVUzOUhSTVZQajVibFIxVkttTWIyMEF3elJYbmVGV2R4RU5jSG12LVhyZ2JQNC1CT1pTSktUb0R1ZTRVMDlTTlJkbTZiYmlvTWFGcGVwUVo3V2ZlVUZhUVU2b0UxaXFoMnZ5N2M4VF9LN0lUcFV4VkNLRFNhZWl1M1NTc25ZWUhWYl9QdVIzUWJReEtKMTNDeEhDOHd3eA?oc=5
+- Did Pakistan force US to delete India map? Congress shares video, targets MEA - Times of India
+  The Times of India reported that Pakistan had asked the US to
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeG5QSTd1TkNPcXkwMERFR3I2NTZPdXlHZ19ESXZwb25uMUVRb1VBZjNJTVc3RktvcVY1SE5YZEtLeXJLOHNMV2hrQUVCZWNWUlhYUE5kQ2k2VXZCb0RZRzZxSkVYMmg1S3B6SUptNm00Q2JRQWpLRlFmZTl6N0xlZm05X2phR09OZG9Yd2VVeFFqQV9uQWt3ZkJUY3JMS0xyaXlqdm9HdjJIVERCVzV0ZmxWMF9EVGxoNEJTSXRCcTN4RWs1akdXSG5WU1VXRDM0N1oyWnYzZnZ5TVXSAeABQVVfeXFMTmRhY0xIemhveVplU3VodENpTTkzVy1Vb0JERkRQZDNsT21WOGRIRzlVckZhZlZZcFR1eE1FeVdDTTB2MldfT1c0aDl4eHB4b05kYlJuRERXN0ZyUFZVdWxSN0JoZmNRZ3RtSXZNTkxWNmFzNmdsTFBrWHUyZkk1Nm53WGVXdmhCaGtIeUJPMEhFd29hVEdkR0VaNEUyNlNhVWJud0xlYnE4VVpkU3dZdXdxbFAtcVYyZ2c2Y090NkRVQW5UYTNKUk5MV2pQTGJ5MnVrNzhSUkRSS1d6WEZPTDg?oc=5
 
-- Norms being drafted to implement SHANTI Act, House told - Times of India
-  House of Representatives is drafting a bill to
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNSFR5M01jaWlPQnU4OGlGa3dDbGVHSnhfbDZ1R201cDMyZFhhOHlzQW1aZ3BrMm51ZXdZa3BWaURnT2syZUpPRkV3eWZxV2NSMjlfZ0VDMEx1eGgzSGNuSW9fajBLVzU2NW9YTWdlaHhtSDlybTZ4MHQ3Zmxqc3p2OXhjNEtDbko5WHdQaUFGLVpfdk9vR01iYlh2VzRHVU8tR2FwYXJkSWR0eGhBOC0ya2hURUY0QkNGYVpXMFliRdIBxAFBVV95cUxQR2kzR08xdWRVbVEzYVdxQmg2dHR5dlZFVThEcGF0X2R2NXVITHpkMkFBTGI4X2ZKU2h0ajBCWjhmdzlJcHo5WEZnT2ZVMEZhY0ozTGVxQldWM2hxZ05MTEJUQm91TF9XbUdFdm4wQmlyME9KaFRLek5sMEFmTENYVjBCRzFFOEpJa2ZjNFJEd3BsZlh0bVMxUlZSQjdaVlZDZVRqc1RoY25fT2JRczRvYmxaWjVmUzN5SmxNcEFCWWp5YWhJ?oc=5
+- India approves Rafale jet purchase in $40 billion defense package ahead of Macron visit - CNBC
+  India approves Rafale jet purchase in $40 billion defense package
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOZklQX3dlSUpQVlg3dnpUWWIzV1oxbS1LRDMxOUVvT0pncHRVb0NqbEZrcFFTdEhaZEgzMURDVG1hNWxrSjEzX0VabE9QdWtjUV93VkxNWV80WW56UlRMTkhvbU1KVHNTcE94UEFJeUJNZUt5SkhKX0hGWjhCc0NRLXk4LWJYWTNSdTVRdkN3Q3pTUEw4Mm1NTHQxaHN0ZmwyZlBuSlBlRjFndWZIb1Jn0gG0AUFVX3lxTE1LU3NKVEN1UC1xVXNDMWdOM2E2SFBBczdaRXpaVlFrN0lCZHdzeFlWUFF5ekZzZllqMzBxbXRFN0hyZUtwMDR3Uy02Y3ZnTWloaGFMTEo3bkk5ZTdFYVVwVVNWOXBHbU43TFZ5Z1Z1eG9JVWFnUnlRekdlQWM3VjA4cFNmMmJ5bzY4LXdKLVUxZ2VSSEVqaWVaYXN2X2NJOVk0QzlDakpibzU0R053Ym5RY0U1aQ?oc=5
 
 - India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
   India's "Will Take Appropriate Action" Response
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
 
-- PM Modi Congratulates BNP's Tarique Rahman: "India Will Support Democratic, Inclusive Bangladesh" - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdjNlNWhlSjEtdjJWc0FWc0V2VXdxVVZOX1hIenQxN296d3F2bXR5WkFsbVJvM2ZPcXQ5ejhPSzg0bWhORnhGMU9OY0hsZHBGcEM3QTB1Vl9fUTVPM2tFNnpCaTFYRXQyMU
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdjNlNWhlSjEtdjJWc0FWc0V2VXdxVVZOX1hIenQxN296d3F2bXR5WkFsbVJvM2ZPcXQ5ejhPSzg0bWhORnhGMU9OY0hsZHBGcEM3QTB1Vl9fUTVPM2tFNnpCaTFYRXQyMUxoR2V5bjBhQ21KSTdRR29rdXhUVmtZbHVIVDlrSmRvV0ZFNF9WMWxFTDZjWno3dk1DRFNWNXFtbHRlNmpBRDdQRXNmOW1ZLTdIRU9FcHE5SmZVX1JqVjVRQ1VONm54QkhiSEJiSnMwemx6TEdwTmNrRWFRRHRNb05HLWdhbU53dGQwcEFwYjlSeHVlZW5aUGVn0gGCAkFVX3lxTFA0TXlkbGV6YTZYNFVaUnFUQkh0N3Z3cGRLaGx0NDJPTldhUzBjZm5GUU8wZEZDSURvNWh5WVI3U3dEUHFzWWNlWEwxanBweFozYkdJOGtldDJuaFF3T2FEOEZnVG1kdFFQa0lfRXBvLTgyaWNBc0h1bGxMMG5rcTZwOTJmbmgwb1EzakI4cU9KWjhoaklneXM3R0ZaU1ZJN2JGVjJfckdhRHJPdENNb2pMRDRRV1N6Sm9VOUZyalZ4M2FKSm5SWG9pSUVYWTZZM0JINDBsdFFORTdaRWFTX3BrS2stc1NDbTBnd09XbTZmVHpoWmZ1SEZLZllhVTJ6YmkyUQ?oc=5
+- Pakistan ‘contacted’ US over now-deleted trade deal post showing India map with PoK: ‘Map was illegal’ | World News - Hindustan Times
+  Pakistan ‘contacted’ US over now-deleted trade deal post showing India
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSVgzRi1uR01IbmI4amVCMzRYREdBZUZQRVpqN09vMW1rTUIwMFVFQkRtamkwTVl0LUdJU3k0ajVOajJuTFRHX2NHT0s0cGxSOC11dWpyV2FNcnMyVXhVZVNhM04zakZhLXZxdHp1ei1jMjBIY3VNQ0xfRFNXcVB1NFoxVnBtRV9sc3dER3lmWW94bjA5STNXZENUMEs3TUVpb3ZyQkQ5cm15dk80ckZ1Qm8zdkVJMXZGTW5Pc3JLZXBOYnV1MGdTb09LallQOXpUVXlVQ2loWU1iaWpEQ2J5T01yRDFqT3NlSGhvZFZtaExDbknSAfgBQVVfeXFMUHlxYWNid2FibmxBOG5qT0hOeVdTQUZqdzBTMjZicEZqNVlDbWxlNTJHZkhmeXoxNlJoS09KRzlzeGxuZS0wV2VXVzBiUzR6dWlHaEc3QWpOMzQ5bnIyeW5yS1JsYlp6WG80NGdCTlh5WW5XdVlwaFE5bXJkTG1MSXp6SkNmZmZSc0Rwc19zbmxNRnIwenlJczFXaDV0MmFSQ29ZeUREby1NckJFcXUzekFYMmJyOVgyTjd2amxnX1MtNVVoNkJTNF9pX2toeU1ZZE4tMFlYeXExWDNneF91YmtrVXpaei0xbS02R2JxZGpWaGI4ZGFLOHU?oc=5
 
-- How Artificial Intelligence Is Powering India's Cultural Renaissance - NDTV
-  How Artificial Intelligence Is Powering
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQThkNUh2dWhwQ1BtY1plZ2lmNGNPZ2pvd05SOG1jaEFSLVUyU2JGSmNJSGZNQW1jNXZVLVNQbEh1N3U1dDYzeTE5TXF1cWVndm01TkNjd1hkQUhTbFRUVjRjZVhvbUhWS3lvR3prUmdJN29SNnplUWRPYWRsc1JQSDVWbERKZVpXZl9WZlE1aFF5MVNrSU1ha0RkYmJhbGluQVpZVmpZWlAzVUhsU2ZwYkVZb0RuUHJsTC1KbzAtT0ljd9IBygFBVV95cUxNdTJHcUllc0xtOFVuRnlUWTlmZU1wcjNGYUN2TVRBb0FWclNvRDBUN3VjOTVxRnhlUHpTT1ZDZlUyLTVsM1p3MGZLeXhLbFpXR1Z4eFB2Z0hSc3hJbjBLaTlFVWRGcXk3VC04S0hpcEtLVTBLX094N0lWTGpDRThNWUFEN1lGZjcwamhYQzJoY3pqUTU4R0ZtV1dUaWE1bEphVDNucFlOV3FIRVVsNllCVHVBMElyQ3N1SmJ4TjA1MF8yS1pmQWRjRFN3?oc=5
+- Pakistan Went On Damage-Control Overdrive After Washington's India Map Post - NDTV
+  Pakistan Went On Damage-Control Overdrive
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHE0Q1BXOEdKdC0tNDRWczJyQkpFQWNNRmJ6bHd6TUI3ZjNoZlJFUlRsYlZoZGxpVjAySU9aX05CVGdGTmRFQ3dkN1hDdVdpaE1NdzVVWHVJb2ozWDFJTjFKWmxhVWhZLWZ5Ti04dGg1ZmwwcUJYMklqSk11a2JUNnFsYlRJeW1BSFpWTFJQNDJsdFhocUVyWGNzVDRqdjMyZ1loVDJXU0hZSWRjVnFTZkl2eE9sQdIBvgFBVV95cUxOWXlTY1g3dEgxQXNoV2NQbUJpQzBQSTJwdmc2endPRDVQZWtUYjNCS3M3cXE0UjNEaGVHVlMtQVhVZWFuYkhzNjczVm10RGltNXA3aVc5VmFOQlpNWlJ0RDRtUzFnVHBHWjdKMmVBb0NaRzVyUEFQaWFWckxLZFV0NnJIUU8wTWRTUmlOb1d5R2RJdThJS0JoakFNVlpOYU5PcXhFZWNBT2RPWjJNMEhHLWFnUFdaLUljMFBqcGRn?oc=5
 
-- Indian Pleads Guilty To Failed Assassination Plot Against Khalistani Terrorist Pannun - NDTV
-  Indian Pleads Guilty To Failed Assassination Plot
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPN3ZyMUloQ2F0cFRaWkhEOW1YZTFOeWlYYUpZazBheHF0RkZiSFR5QWRJaGV4dTdpOUNscjY4ODJ4c2N1MFF4aXhtdTkzOFFGck5aaFE1aS15dU1aWnZIdDdocXl6eWduck5EbFFJbDRHeW8xRDZYbDBzcXp2ZlIzMk9LQWtOTWF0bXVRX1dhdVY2bGdEYlkxeWl3STZ3QWI5SzBCVHBmTlVJSGdzN3lBMFJnZlNCMXdId0xSVzZ6bUJMckVpcmFkZVl3R0pTc3JxUDQ3RUhrc0lBMGRDZ21qSDdhd1NMYTBXTzhvM3QxLWs4VF9t0gH8AUFVX3lxTFBic3FjbVZCeEhMQlk0LXdQMHV1WnloV2JDSUlrX1BZajJRTDJTX09WWGZCZGZNbUJCZW9yNTNCTkFCZDVnb0x2WC1veXVEc3MxYTlBN2U1ZnhlS3pBR1dZeGtxOE1qTVUzOUhSTVZQajVibFIxVkttTWIyMEF3elJYbmVGV2R4RU5jSG12LVhyZ2JQNC1CT1pTSktUb0R1ZTRVMDlTTlJkbTZiYmlvTWFGcGVwUVo3V2ZlVUZhUVU2b0UxaXFoMnZ5N2M4VF9LN0lUcFV4VkNLRFNhZWl1M1NTc25ZWUhWYl9QdVIzUWJReEtKMTNDeEhDOHd3eA?oc=5
+- Did Pakistan force US to delete India map? Congress shares video, targets MEA - Times of India
+  The Times of India reported that Pakistan had asked the US to
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeG5QSTd1TkNPcXkwMERFR3I2NTZPdXlHZ19ESXZwb25uMUVRb1VBZjNJTVc3RktvcVY1SE5YZEtLeXJLOHNMV2hrQUVCZWNWUlhYUE5kQ2k2VXZCb0RZRzZxSkVYMmg1S3B6SUptNm00Q2JRQWpLRlFmZTl6N0xlZm05X2phR09OZG9Yd2VVeFFqQV9uQWt3ZkJUY3JMS0xyaXlqdm9HdjJIVERCVzV0ZmxWMF9EVGxoNEJTSXRCcTN4RWs1akdXSG5WU1VXRDM0N1oyWnYzZnZ5TVXSAeABQVVfeXFMTmRhY0xIemhveVplU3VodENpTTkzVy1Vb0JERkRQZDNsT21WOGRIRzlVckZhZlZZcFR1eE1FeVdDTTB2MldfT1c0aDl4eHB4b05kYlJuRERXN0ZyUFZVdWxSN0JoZmNRZ3RtSXZNTkxWNmFzNmdsTFBrWHUyZkk1Nm53WGVXdmhCaGtIeUJPMEhFd29hVEdkR0VaNEUyNlNhVWJud0xlYnE4VVpkU3dZdXdxbFAtcVYyZ2c2Y090NkRVQW5UYTNKUk5MV2pQTGJ5MnVrNzhSUkRSS1d6WEZPTDg?oc=5
 
-- Norms being drafted to implement SHANTI Act, House told - Times of India
-  House of Representatives is drafting a bill to
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNSFR5M01jaWlPQnU4OGlGa3dDbGVHSnhfbDZ1R201cDMyZFhhOHlzQW1aZ3BrMm51ZXdZa3BWaURnT2syZUpPRkV3eWZxV2NSMjlfZ0VDMEx1eGgzSGNuSW9fajBLVzU2NW9YTWdlaHhtSDlybTZ4MHQ3Zmxqc3p2OXhjNEtDbko5WHdQaUFGLVpfdk9vR01iYlh2VzRHVU8tR2FwYXJkSWR0eGhBOC0ya2hURUY0QkNGYVpXMFliRdIBxAFBVV95cUxQR2kzR08xdWRVbVEzYVdxQmg2dHR5dlZFVThEcGF0X2R2NXVITHpkMkFBTGI4X2ZKU2h0ajBCWjhmdzlJcHo5WEZnT2ZVMEZhY0ozTGVxQldWM2hxZ05MTEJUQm91TF9XbUdFdm4wQmlyME9KaFRLek5sMEFmTENYVjBCRzFFOEpJa2ZjNFJEd3BsZlh0bVMxUlZSQjdaVlZDZVRqc1RoY25fT2JRczRvYmxaWjVmUzN5SmxNcEFCWWp5YWhJ?oc=5
+- India approves Rafale jet purchase in $40 billion defense package ahead of Macron visit - CNBC
+  India approves Rafale jet purchase in $40 billion defense package
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOZklQX3dlSUpQVlg3dnpUWWIzV1oxbS1LRDMxOUVvT0pncHRVb0NqbEZrcFFTdEhaZEgzMURDVG1hNWxrSjEzX0VabE9QdWtjUV93VkxNWV80WW56UlRMTkhvbU1KVHNTcE94UEFJeUJNZUt5SkhKX0hGWjhCc0NRLXk4LWJYWTNSdTVRdkN3Q3pTUEw4Mm1NTHQxaHN0ZmwyZlBuSlBlRjFndWZIb1Jn0gG0AUFVX3lxTE1LU3NKVEN1UC1xVXNDMWdOM2E2SFBBczdaRXpaVlFrN0lCZHdzeFlWUFF5ekZzZllqMzBxbXRFN0hyZUtwMDR3Uy02Y3ZnTWloaGFMTEo3bkk5ZTdFYVVwVVNWOXBHbU43TFZ5Z1Z1eG9JVWFnUnlRekdlQWM3VjA4cFNmMmJ5bzY4LXdKLVUxZ2VSSEVqaWVaYXN2X2NJOVk0QzlDakpibzU0R053Ym5RY0U1aQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
+  India's "Will Take Appropriate Action" Response
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Pakistan ‘contacted’ US over now-deleted trade deal post showing India map with PoK: ‘Map was illegal’ | World News - Hindustan Times
+  Pakistan ‘contacted’ US over now-deleted trade deal post showing India
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSVgzRi1uR01IbmI4amVCMzRYREdBZUZQRVpqN09vMW1rTUIwMFVFQkRtamkwTVl0LUdJU3k0ajVOajJuTFRHX2NHT0s0cGxSOC11dWpyV2FNcnMyVXhVZVNhM04zakZhLXZxdHp1ei1jMjBIY3VNQ0xfRFNXcVB1NFoxVnBtRV9sc3dER3lmWW94bjA5STNXZENUMEs3TUVpb3ZyQkQ5cm15dk80ckZ1Qm8zdkVJMXZGTW5Pc3JLZXBOYnV1MGdTb09LallQOXpUVXlVQ2loWU1iaWpEQ2J5T01yRDFqT3NlSGhvZFZtaExDbknSAfgBQVVfeXFMUHlxYWNid2FibmxBOG5qT0hOeVdTQUZqdzBTMjZicEZqNVlDbWxlNTJHZkhmeXoxNlJoS09KRzlzeGxuZS0wV2VXVzBiUzR6dWlHaEc3QWpOMzQ5bnIyeW5yS1JsYlp6WG80NGdCTlh5WW5XdVlwaFE5bXJkTG1MSXp6SkNmZmZSc0Rwc19zbmxNRnIwenlJczFXaDV0MmFSQ29ZeUREby1NckJFcXUzekFYMmJyOVgyTjd2amxnX1MtNVVoNkJTNF9pX2toeU1ZZE4tMFlYeXExWDNneF91YmtrVXpaei0xbS02R2JxZGpWaGI4ZGFLOHU?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Pakistan Went On Damage-Control Overdrive After Washington's India Map Post - NDTV
+  Pakistan Went On Damage-Control Overdrive
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHE0Q1BXOEdKdC0tNDRWczJyQkpFQWNNRmJ6bHd6TUI3ZjNoZlJFUlRsYlZoZGxpVjAySU9aX05CVGdGTmRFQ3dkN1hDdVdpaE1NdzVVWHVJb2ozWDFJTjFKWmxhVWhZLWZ5Ti04dGg1ZmwwcUJYMklqSk11a2JUNnFsYlRJeW1BSFpWTFJQNDJsdFhocUVyWGNzVDRqdjMyZ1loVDJXU0hZSWRjVnFTZkl2eE9sQdIBvgFBVV95cUxOWXlTY1g3dEgxQXNoV2NQbUJpQzBQSTJwdmc2endPRDVQZWtUYjNCS3M3cXE0UjNEaGVHVlMtQVhVZWFuYkhzNjczVm10RGltNXA3aVc5VmFOQlpNWlJ0RDRtUzFnVHBHWjdKMmVBb0NaRzVyUEFQaWFWckxLZFV0NnJIUU8wTWRTUmlOb1d5R2RJdThJS0JoakFNVlpOYU5PcXhFZWNBT2RPWjJNMEhHLWFnUFdaLUljMFBqcGRn?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Did Pakistan force US to delete India map? Congress shares video, targets MEA - Times of India
+  The Times of India reported that Pakistan had asked the US to
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeG5QSTd1TkNPcXkwMERFR3I2NTZPdXlHZ19ESXZwb25uMUVRb1VBZjNJTVc3RktvcVY1SE5YZEtLeXJLOHNMV2hrQUVCZWNWUlhYUE5kQ2k2VXZCb0RZRzZxSkVYMmg1S3B6SUptNm00Q2JRQWpLRlFmZTl6N0xlZm05X2phR09OZG9Yd2VVeFFqQV9uQWt3ZkJUY3JMS0xyaXlqdm9HdjJIVERCVzV0ZmxWMF9EVGxoNEJTSXRCcTN4RWs1akdXSG5WU1VXRDM0N1oyWnYzZnZ5TVXSAeABQVVfeXFMTmRhY0xIemhveVplU3VodENpTTkzVy1Vb0JERkRQZDNsT21WOGRIRzlVckZhZlZZcFR1eE1FeVdDTTB2MldfT1c0aDl4eHB4b05kYlJuRERXN0ZyUFZVdWxSN0JoZmNRZ3RtSXZNTkxWNmFzNmdsTFBrWHUyZkk1Nm53WGVXdmhCaGtIeUJPMEhFd29hVEdkR0VaNEUyNlNhVWJud0xlYnE4VVpkU3dZdXdxbFAtcVYyZ2c2Y090NkRVQW5UYTNKUk5MV2pQTGJ5MnVrNzhSUkRSS1d6WEZPTDg?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- India approves Rafale jet purchase in $40 billion defense package ahead of Macron visit - CNBC
+  India approves Rafale jet purchase in $40 billion defense package
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOZklQX3dlSUpQVlg3dnpUWWIzV1oxbS1LRDMxOUVvT0pncHRVb0NqbEZrcFFTdEhaZEgzMURDVG1hNWxrSjEzX0VabE9QdWtjUV93VkxNWV80WW56UlRMTkhvbU1KVHNTcE94UEFJeUJNZUt5SkhKX0hGWjhCc0NRLXk4LWJYWTNSdTVRdkN3Q3pTUEw4Mm1NTHQxaHN0ZmwyZlBuSlBlRjFndWZIb1Jn0gG0AUFVX3lxTE1LU3NKVEN1UC1xVXNDMWdOM2E2SFBBczdaRXpaVlFrN0lCZHdzeFlWUFF5ekZzZllqMzBxbXRFN0hyZUtwMDR3Uy02Y3ZnTWloaGFMTEo3bkk5ZTdFYVVwVVNWOXBHbU43TFZ5Z1Z1eG9JVWFnUnlRekdlQWM3VjA4cFNmMmJ5bzY4LXdKLVUxZ2VSSEVqaWVaYXN2X2NJOVk0QzlDakpibzU0R053Ym5RY0U1aQ?oc=5
 
 
-_Last updated: 2026-02-13 18:44:08 UTC_
+_Last updated: 2026-02-14 01:34:16 UTC_
