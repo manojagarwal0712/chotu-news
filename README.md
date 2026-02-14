@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
-- ‘Malicious investigation’: Madhya Pradesh HC overturns life sentence in Panna murder case over ‘fabricated’ evidence
-  
-  🔗 https://indianexpress.com/article/india/malicious-investigation-madhya-pradesh-hc-overturns-life-sentence-in-panna-murder-case-over-fabricated-evidence-10531162/
+- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
+  India's "Will Take Appropriate Action" Response
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
 
-- ‘Highly unjust’: Chhattisgarh High Court after mother of constable killed in Maoist encounter denied pension
-  
-  🔗 https://indianexpress.com/article/india/highly-unjust-chhattisgarh-high-court-after-mother-of-constable-killed-in-maoist-encounter-denied-pension-10531151/
+- Pakistan Went On Damage-Control Overdrive After Washington's India Map Post - NDTV
+  Pakistan Went On Damage-Control Overdrive
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHE0Q1BXOEdKdC0tNDRWczJyQkpFQWNNRmJ6bHd6TUI3ZjNoZlJFUlRsYlZoZGxpVjAySU9aX05CVGdGTmRFQ3dkN1hDdVdpaE1NdzVVWHVJb2ozWDFJTjFKWmxhVWhZLWZ5Ti04dGg1ZmwwcUJYMklqSk11a2JUNnFsYlRJeW1BSFpWTFJQNDJsdFhocUVyWGNzVDRqdjMyZ1loVDJXU0hZSWRjVnFTZkl2eE9sQdIBvgFBVV95cUxOWXlTY1g3dEgxQXNoV2NQbUJpQzBQSTJwdmc2endPRDVQZWtUYjNCS3M3cXE0UjNEaGVHVlMtQVhVZWFuYkhzNjczVm10RGltNXA3aVc5VmFOQlpNWlJ0RDRtUzFnVHBHWjdKMmVBb0NaRzVyUEFQaWFWckxLZFV0NnJIUU8wTWRTUmlOb1d5R2RJdThJS0JoakFNVlpOYU5PcXhFZWNBT2RPWjJNMEhHLWFnUFdaLUljMFBqcGRn?oc=5
 
-- BJP leader arrested after roadside argument with judge, property demolished in Madhya Pradesh
-  
-  🔗 https://indianexpress.com/article/india/bjp-leader-arrested-after-roadside-argument-with-judge-property-demolished-10531156/
+- Eye on China, PM's historic landing on highway-cum-runway in Assam: Here's why the Emergency Landing Facility matters | India News - Hindustan Times
+  The Emergency Landing Facility is a runway-cum-runway in Assam, India.
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR01JYTlVb2VjMmlaSEpQbXh6QXQxQXZNMVJxUVNkUDhiSm9XSHd4SC1DN2VvYXVEc0RzZ0xZV2dIWUpoNUtFa0ZvbEtUT0ZhZnE1WDZYRjdabjNUMjZUNFhLV0xxS1Yxajd3NUV6X0VWWmZWVkpxMkQtbmJmX0VDcHpMelNZbHpZd3ZuQXRPS19TcThFV2kxUU9nc3IyTUtCNjc4VmFoeV84VlY1MEhOV25ETmYtLVIwdXRuenZick5RWnFvaDlnS0JlLVgtOUZDWWJ2T2NPSzVBSl9waTczS1VTVE5xTnlJakHSAe8BQVVfeXFMT3BZc0ZOQjhzNkhVMUdMaW4xWmkzNnpWTEQ0RW9EdDdYXzgtM080R2NjMm9jM1JFSFEySlotM2pLaDF3ZUl5dmVTbEU0Nkw2YzJvRldYd1FzVjFaQWlvS3Jzek5BZk8zSFQ1dDVyT1plQktYcWJfdkNfUlJsMExpUnh1b25icDE4a2hzTDZHLUxvMmdxeDM0d0xhZzVCWkZUU3Y0VE1zNmJXeERGN213RHlRc2YzdThQMVg4QlZjNUY5YzRfVnpaLUNHYU5jazYzYmdIVlZCcHVKZENTNFJBa3daMG5qRGlZc2R4QW84UlU?oc=5
 
-- Ola two-wheeler given for repair not returned: Goa consumer forum issues bailable warrant against Bhavish Aggarwal
-  
-  🔗 https://indianexpress.com/article/india/ola-two-wheeler-given-for-repair-not-returned-goa-consumer-forum-issues-bailable-warrant-against-bhavish-aggarwal-10531161/
+- The China Factor Behind Northeast's First Emergency Runway On Highway - NDTV
+  The China Factor Behind Northeast's First Emergency
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWtMSHVzeExmb091Mk9LLWc2V2pNYUdvVTYzY1hVLWlPcXVnWGZrV1ZpbFJDam9mWFZ4ZjJ6cWpGZkZEVjN4N2RuVHBLT0RNUi1rM1NFY3VkYXBBNW94WjFkVGRTUDFzbXE2N1JWN1ZDa0thS2dEZXpSWEsycjNqZEx4V0xDZ1E2S3YzSldFS0o2bmhpVWJ4M2VQVzA3clREUVpiY2dpMm10em9YQWfSAbYBQVVfeXFMTlRFeTNBdDRKRmZzSWpvNF9NdTMzS2QzVGU1NEdvU0cwa1RjMkhZa0d2V19GQTNHcDJpenpTaVlBbmVJUk10N1ZPUFRtUF8zTVZfMnpNQUpDdmhiWFd1VWpvcURVTEdzWl9rU0VtclFrR3E4YmxKYjRlMmxqTzBUNE40U2d6ejIzVDNadHU4NFlzXzVxYXI3Z2dJVlZ6Z3B1QTIwMFFxdVcza2ZpMlFWaTBVM0JBR2c?oc=5
 
-- In Jammu, no salary for govt officials who haven’t paid their water bills
+- Breaking News Live Updates: Bahrain, Egypt mediating UAE-Saudi rift - Times of India
+  The UAE and Saudi Arabia are at odds
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOLU1DUWU3d1d2S2JlSjNwazhoNTVnQ1VmZzRQU0NNR3RwaXJpQVptTjZTYlpYekR6VHVIQlBmY3o5cE1TTlNFYl9MbHE2QmZ2alJYLW5oTjRNMGRJYnBHRGttTUcwYjVsbmFQcG42RGdXRmJ5SU5ZSGhmbFF1dG1EX2E4bjd3Y0xaSll1R2xhTDl6QXFHb3lWSVlKN0ZEUElad0Y4Y05IM3pWNEM1U1BQSE9vdjBJZGx1S1d4NmplUmE1RVotcF85TnNIUnZRdw?oc=5
+
+- Why AI chatbots change their answers when you ask ‘Are you sure?’
   
-  🔗 https://indianexpress.com/article/india/in-jammu-no-salary-for-govt-officials-who-havent-paid-their-water-bills-10531149/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/why-ai-chatbots-change-their-answers-when-you-ask-are-you-sure-10532115/
+
+- Inspired by the human brain, this chip helps robots see motion 4x faster than humans
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/human-brain-inspired-chip-motion-improvement-10531829/
+
+- India’s IT sector is adapting to generative AI without mass job losses, new study finds
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/indias-it-sector-is-adapting-to-generative-ai-without-mass-job-losses-10531863/
+
+- Samsung Wide Fold spotted in One UI 9 leak ahead of expected launch
+  
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-wide-fold-spotted-in-one-ui-9-leak-ahead-of-expected-launch-10531655/
 
 - Nothing CEO Carl Pei on the flagship store in India, foldables, and the phone of the future in the AI era
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/nothing-ceo-carl-pei-interview-bengaluru-store-phone-4a-2026-plans-10531449/
 
-- After superalignment and AGI Readiness, OpenAI shutters the mission alignment team
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-mission-alignment-team-disbanded-chief-futurist-10531464/
+- Can AI outperform humans? Airbnb chief Brian Chesky bets on bots, replaces one-third of customer service staff
+  Airbnb is leveraging AI for customer support, handling a third of requests in North America. Here's what the company's chief has to say about
+  🔗 https://www.livemint.com/companies/news/can-ai-outperform-humans-airbnb-chief-brian-chesky-bets-on-bots-replaces-one-third-of-customer-service-staff-11771061235926.html
 
-- NASA’s Artemis moon mission faces new ‘issue’, test reveals reduced hydrogen flow after seal replacement
-  
-  🔗 https://indianexpress.com/article/technology/science/artemis-2-nasa-moon-mission-humans-in-space-10531357/
-
-- Most mobile apps claiming to help Indian farmers die a natural death: Prof. Yadati Narahari, IISc
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/mobile-apps-farmers-die-death-prof-yadati-narahari-iisc-10531405/
-
-- To stay in her home, she let in an AI robot
-  
-  🔗 https://indianexpress.com/article/technology/science/to-stay-in-her-home-she-let-in-an-ai-robot-10530915/
+- Ixigo to acquire majority stake in Spanish train booking platform Trenes for  ₹125 crore
+  The acquisition of Trenes paves the way for ixigo's strategic entry
+  🔗 https://www.livemint.com/companies/news/ixigo-to-acquire-majority-stake-in-spanish-train-booking-platform-trenes-for-rs-125-crore-11771055765130.html
 
 - Who is Casey Wasserman? Mogul, LA 2028 Olympics chair to sell talent agency after Epstein files controversy
   Casey Wasserman announced on Friday that he was selling the company as he had become a “distraction” to
@@ -52,173 +60,165 @@
   OpenAI has partnered with two defense technology companies that the Pentagon has selected to compete to develop voice-controlled, drone swarming software.
   🔗 https://www.livemint.com/companies/openai-tapped-for-voice-control-tech-in-us-drone-swarm-challenge-11771007515124.html
 
-- Singapore’s GIC Pulls $250 Million From Hedge Fund Jain Global
-  Singapore’s sovereign wealth fund GIC Pte has pulled cash from Jain Global. The
-  🔗 https://www.livemint.com/companies/singapores-gic-pulls-250-million-from-hedge-fund-jain-global-11771007514317.html
+- 450% rally in one year! BSE-listed small-cap multibagger stock to watch on Monday; here's why
+  Telecanor Global Limited announces its financial results for the third quarter of FY26.
+  🔗 https://www.livemint.com/market/450-rally-in-one-year-bse-listed-small-cap-multibagger-stock-to-watch-on-monday-heres-why-11771064092404.html
 
-- Apple fends off 4G wireless patent lawsuit at third trial
-  Apple fends off 4
-  🔗 https://www.livemint.com/companies/apple-fends-off-4g-wireless-patent-lawsuit-at-third-trial-11771007449648.html
+- TCS, Infosys to Wipro: Should you buy the dip after AI-driven sell-off?
+  Indian IT majors such as TCS and Infosys recorded significant losses, raising concerns about potential layoffs and weakened balance sheets.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-crash-stock-market-today-tcs-infosys-to-wipro-should-you-buy-the-dip-after-ai-driven-selloff-11771064932810.html
+
+- Ashish Kacholia portfolio: Forbes EMF-owned stock to be in focus on Monday; here's why
+  Fineotex Chemical shares are expected to be in focus on 16 February 2026 after reporting an 8.23% net profit growth
+  🔗 https://www.livemint.com/market/stock-market-news/ashish-kacholia-portfolio-forbes-emf-owned-stock-to-be-in-focus-on-monday-heres-why-11771059312809.html
+
+- Alphabet 100-year bond: Why did Google's parent issue a rare century bond?
+  Alphabet Inc. has issued a rare 100-year bond with a 6.125% yield to fund
+  🔗 https://www.livemint.com/market/bonds/google-100-year-bond-yield-alphabet-100-year-bond-yield-why-did-googles-parent-issue-a-rare-century-bond-11771055120845.html
 
 - HAL vs BDL vs BEL vs Mazagon Dock: Which defence stock to buy after Q3 results 2026?
   Analysts recommend HAL and BEL shares as good
   🔗 https://www.livemint.com/market/stock-market-news/hal-vs-bdl-vs-bel-vs-mazagon-dock-which-defence-stock-to-buy-after-q3-results-2026-11771047509559.html
 
-- Stock market crash: Sensex may touch 60,000 by the end of FY27 if....say experts
-  Indian stock markets experienced significant declines amid fears of AI disruption and a global economic slowdown. Nifty 50 and B
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-crash-sensex-may-touch-60-000-by-the-end-of-fy27-if-say-experts-11771040273689.html
+- Future of AI is a governance question, not a technology race: Vilas Dhar of Patrick J McGovern Foundation | Interview
+  Vilas Dhar is the CEO of the Patrick J McGovern Foundation. The foundation invests in public AI initiatives. Dhar highlights India's unique position to leverage AI for societal benefit.
+  🔗 https://www.livemint.com/technology/future-of-ai-is-a-governance-question-not-a-technology-race-vilas-dhar-of-patrick-j-mcgovern-foundation-india-summit-11771069614699.html
 
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 16 February 2026
-  Sumeed Bagadia recommends three stocks to buy on Monday. Bajaj Finance
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeed-bagadia-recommends-three-stocks-to-buy-on-monday-16-february-2026-11771001447838.html
+- OpenAI accused of ‘betrayal’, sent ChatGPT cancellation warnings after GPT-4o shutdown
+  OpenAI has faced backlash after shutting down its GPT-4o model. Many users express frustration and threaten
+  🔗 https://www.livemint.com/technology/tech-news/openai-accused-of-betrayal-sent-chatgpt-cancellation-warnings-after-gpt-4o-shutdown-11771038851367.html
 
-- NTPC shares rise 17% in a year. Can India’s power giant sustain the momentum?
-  Strong capacity expansion, rising power demand and renewable ambitions support the outlook. Execution risks and
-  🔗 https://www.livemint.com/market/stock-market-news/ntpc-shares-rise-17-in-a-year-can-india-s-power-giant-sustain-the-momentum-11770979991856.html
+- AI film school trains next generation of Hollywood moviemakers
+  FOCUS-AI film school
+  🔗 https://www.livemint.com/technology/ai-film-school-trains-next-generation-of-hollywood-moviemakers-11771066888310.html
 
-- Stocks to buy under  ₹200: Mehul Kothari recommends three shares to buy or sell
-  Mehul Kothari recommends GMR Airports, Edelweiss Financial Services, and Mother
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-recommends-three-shares-to-buy-or-sell-11770997899787.html
+- iPhone 17e could launch next week: India price, display, processor and everything expected
+  Apple is expected to launch the iPhone 17e next week with a few big upgrades. It is likely to feature a 6.1 inch OLED display, A
+  🔗 https://www.livemint.com/technology/gadgets/iphone-17e-could-launch-next-week-india-price-display-processor-and-everything-expected-11771052241758.html
 
-- Chinese AI models festoon Spring Festival a year after DeepSeek shock
-  Chinese AI models festoon Spring Festival a
-  🔗 https://www.livemint.com/technology/chinese-ai-models-festoon-spring-festival-a-year-after-deepseek-shock-11771049559498.html
+- Days after AI Spam warning, X rolls out automation detection measures: ‘If a human is not tapping on the screen…’
+  Elon Musk's platform X is implementing new spam and automation detection measures. X Product Head Nikita Bier said that accounts without human interaction will likely be suspended.
+  🔗 https://www.livemint.com/technology/tech-news/days-after-ai-spam-warning-x-rolls-out-automation-detection-measures-if-a-human-is-not-tapping-on-the-screen-11771052475202.html
 
-- Are iPhone users flocking to iOS 26 ahead of big AI update? Apple shares official data
-  Despite difficulties with iOS 26, 74% of recent iPhones have adopted the update. Adoption rates for the new udpate lower than
-  🔗 https://www.livemint.com/technology/tech-news/are-iphone-users-flocking-to-ios-26-ahead-of-big-ai-update-apple-shares-official-data-11771043401138.html
+- IDFC First Bank allots 14.47 lakh equity shares under ESOS
+  
+  🔗 https://www.business-standard.com/markets/capital-market-news/idfc-first-bank-allots-14-47-lakh-equity-shares-under-esos-126021401164_1.html
 
-- Anthropic's military test? Claude AI reportedly used by US during Venezuela operation
-  US used Anthropic's Claude AI during a mission to capture former Venezuelan President Nicolas Maduro. Anthropic CEO Dario Amode
-  🔗 https://www.livemint.com/technology/tech-news/anthropics-military-test-claude-ai-reportedly-used-by-us-during-venezuela-operation-11771040514212.html
+- Time Technoplast wins first trial order worth Rs 2.30 cr
+  For supply of Type
+  🔗 https://www.business-standard.com/markets/capital-market-news/time-technoplast-wins-first-trial-order-worth-rs-2-30-cr-126021401163_1.html
 
-- Sony confirms John Wick game for PlayStation 5: Storyline, expected release date and all we know so far
-  Sony has revealed a AAA John Wick game for PlayStation 5. The title will feature an original story, cinematic action, and the series’ signature gun-fu combat.
-  🔗 https://www.livemint.com/technology/tech-news/sony-confirms-john-wick-game-for-playstation-5-storyline-expected-release-date-and-all-we-know-so-far-11771003541015.html
-
-- End of the road for GPT-4o and GPT-5? OpenAI set to retire legacy GPT models today: Here's why
-  OpenAI is retiring GPT-4o and several older models from ChatGPT. The change affects ChatG PT only, while API
-  🔗 https://www.livemint.com/technology/tech-news/end-of-the-road-for-gpt-4o-and-gpt-5-openai-set-to-retire-legacy-gpt-models-today-heres-why-11771002559821.html
-
-- Shradha Infraprojects consolidated net profit rises 29.61% in the December 2025 quarter
+- Azad Engineering consolidated net profit rises 44.27% in the December 2025 quarter
   Sales rise
-  🔗 https://www.business-standard.com/markets/capital-market-news/shradha-infraprojects-consolidated-net-profit-rises-29-61-in-the-december-2025-quarter-126021400656_1.html
+  🔗 https://www.business-standard.com/markets/capital-market-news/azad-engineering-consolidated-net-profit-rises-44-27-in-the-december-2025-quarter-126021401146_1.html
 
-- KNR Constructions consolidated net profit declines 58.65% in the December 2025 quarter
-  Sales decline
-  🔗 https://www.business-standard.com/markets/capital-market-news/knr-constructions-consolidated-net-profit-declines-58-65-in-the-december-2025-quarter-126021400655_1.html
-
-- Transworld Shipping Lines reports consolidated net loss of Rs 25.30 crore in the December 2025 quarter
-  Sales decline
-  🔗 https://www.business-standard.com/markets/capital-market-news/transworld-shipping-lines-reports-consolidated-net-loss-of-rs-25-30-crore-in-the-december-2025-quarter-126021400654_1.html
-
-- Heritage Foods consolidated net profit declines 19.63% in the December 2025 quarter
+- JNK India consolidated net profit rises 540.14% in the December 2025 quarter
   Sales rise
-  🔗 https://www.business-standard.com/markets/capital-market-news/heritage-foods-consolidated-net-profit-declines-19-63-in-the-december-2025-quarter-126021400653_1.html
+  🔗 https://www.business-standard.com/markets/capital-market-news/jnk-india-consolidated-net-profit-rises-540-14-in-the-december-2025-quarter-126021401145_1.html
 
-- Jindal Poly Films reports consolidated net loss of Rs 96.41 crore in the December 2025 quarter
-  Sales decline
-  🔗 https://www.business-standard.com/markets/capital-market-news/jindal-poly-films-reports-consolidated-net-loss-of-rs-96-41-crore-in-the-december-2025-quarter-126021400652_1.html
+- Basilic Fly Studio consolidated net profit rises 19.82% in the December 2025 quarter
+  Sales rise
+  🔗 https://www.business-standard.com/markets/capital-market-news/basilic-fly-studio-consolidated-net-profit-rises-19-82-in-the-december-2025-quarter-126021401144_1.html
 
-- US Markets | Mastering the Market Cycle: Why Howard Marks’ advice matters more in 2026
-  Veteran investor Howard Marks emphasizes understanding market cycles over predicting turning points. For Indian investors, this means focusing on selective stock picking and valuation discipline amidst strong structural growth.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-markets-mastering-the-market-cycle-why-howard-marks-advice-matters-more-in-2026/articleshow/128336053.cms
+- Next Crypto to Explode: DeepSnitch AI Might Be the #1 Opportunity as Aster and Layer Zero Consolidate
+  DeepSnitch AI is gaining significant traction with its Web3-native Bloomberg Terminal. OKX Ventures is backing a new RWA-backed stablecoin, signaling a move towards tokenized private
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/next-crypto-to-explode-deepsnitch-ai-might-be-the-1-opportunity-as-aster-and-layer-zero-consolidate/articleshow/128344449.cms
 
-- AI adoption, external threats and India’s moment: Sir Martin Sorrell on how the global playbook is changing
-  Sir Martin Sorrell highlights that external threats, particularly from competitors and CFOs focused on efficiency, are driving rapid AI adoption in industries like autos and financial services. He advises young professionals to be adaptable.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/ai-adoption-external-threats-and-indias-moment-sir-martin-sorrell-on-how-the-global-playbook-is-changing/articleshow/128335415.cms
+- Anupam Rasayan Q3 net profit rises 12% on higher revenue
+  Anupam Rasayan India reported a 12% increase in net profit to Rs 61 crore for Q3 FY26. The company also announced a significant strategic development with the agreement to acquire US-based Jayhawk Fine Chemicals Corporation.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/anupam-rasayan-q3-net-profit-rises-12-pc-on-higher-revenue/articleshow/128344274.cms
 
-- Bitcoin and Ethereum near $68,000 and $2,054; experts flag caution from on-chain data
-  In the past 24 hours, Bitcoin and Ethereum went up 3.73% and 5.51% respectively. Among the major altcoins, XRP, BNB, Solana, Tr
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-and-ethereum-near-68000-and-2054-experts-flag-caution-from-on-chain-data/articleshow/128335387.cms
+- SEBI, NSDL launch auto rickshaw awareness drive to promote investor verification
+  SEBI and NSDL are using auto-rickshaws across India for a public outreach campaign. This initiative aims to boost investor awareness and combat digital payment fraud. The campaign encourages investors to perform a 'SEBI Check'
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-nsdl-launch-auto-rickshaw-awareness-drive-to-promote-investor-verification/articleshow/128344144.cms
 
-- Silver surges Rs 8,500, inches near Rs 2.50 lakh. Here are key levels for Monday’s trade
-  MCX silver futures for March 5, 2026 rose 3.62%, up Rs 8,564 to Rs 2,44,999 per kg. Gold
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/silver-surges-rs-8500-inches-near-rs-2-50-lakh-here-are-key-levels-for-mondays-trade/articleshow/128335190.cms
+- GMR Airports Q3 net profit falls to Rs 174 crore
+  GMR Airports Ltd. reported a 14% decline in consolidated profit after tax to Rs 173.96 crore for the December 2025 quarter. Despite this, total income surged to Rs 4,082.77 crore.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/gmr-airports-q3-net-profit-falls-to-rs-174-crore/articleshow/128343141.cms
 
-- Infosys, Wipro ADRs rebound 4% after 14% rout in two days. Time to rally on Monday?
-  The selloff wasn't restricted to the two, IT bellwether plunged to its over 5-year low on Friday. Coforge, LTIMindtree, HCL Tech, and Mphasis also slipped up to 4%.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/infosys-wipro-adrs-rebound-4-after-14-rout-in-two-days-time-to-rally-on-monday/articleshow/128335024.cms
+- Southern Petrochemicals clock Q3 consolidated PAT at Rs 54.07 cr
+  Southern Petrochemicals Industries Corporation Ltd announced a net profit of Rs 54.07 crore for the October-December 2025 quarter. This marks an increase from the previous year's Rs 38.50 crore. For the nine months ending December 31
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/southern-petrochemicals-clock-q3-consolidated-pat-at-rs-54-07-cr/articleshow/128342963.cms
 
-- FTAs show increased global confidence in India: PM Modi - Times of India
-  FTAs show increased global confidence in India:
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmhZXzR6SUFJb0MxZW5idmhjcWFweFViT2o4MFlIcWxjOXlxeHhRdGdsRnFZWFVMY0FIV0hCcmNaMHpfamRhbWJNb3lXRWFSalF1VlQxbnhvTk9KUUdGMnJqdzFXLWhyWXNHWHF2M05YdDM5Y3FMamhxLTNCcmFmb0hKMUhGbENlU1VkSmREQ3dlQVVWTXR3bGlmNmltMmo5MEQ2d3YwYlVuY1BVZnZFejhHckNISlhhLTFUTDJjONIBxAFBVV95cUxQMEZieG9qbFpjZnhDcHNuYjVBSEViem5yNDBvMmJ5TkNIV2VELU94V0NvTGoxUXh1ZFVwZ2g0WDhHVlRCOC1rT0RSckkybjZBMm9aSmktV0pEY3phbUJBS0NlVnk5aFdJME5QdHhJVWxEOWRjeWwyeUo4dzd5aTR4dlhTMHprdDh0MkRNeWd4TnN3Uml6eGRzWnAxRWV4VGR2TjQxTnZTZWQ3ek91NzJLWDRDcTVzSHg4OUtvSnByYmwxWThM?oc=5
+- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
+  India's "Will Take Appropriate Action" Response
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
 
-- Seva Teerth Mark Key Milestone In India's Journey To Viksit Bharat': PM - NDTV
-  Seva Teerth Mark Key Milestone In
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkpyZlZ3dXl5SmViYkU4TVdlUHFvLTd1cm9WSzZaWVhhVGhNNEo3SzJyTE04RXY1eEZEWDM1ZHVYd0daaklRUGlLUXRjTFdQN0pIYTRSQVRTaldVeTdaeEpmb3VuUHMwZ1NITlpYcDJYUFlpeGVfWlk2WnNpYW5IdnA5cVZYX3l1R1ZnNlI5Rm5qaTBkY29vbjhvNHRZcUQwMEg0cklGdnpSbEhWMkZTNGhuUkFyZnR2U21RRXlHRzhiSlJFTVFYWTRHMi1lS3d50gHYAUFVX3lxTFBSb2dWc21yODFVTC12ZjhoNk5qRG91NEFiSDhlYkM4bmNIa25jMkxJeHBlWjVXS2dxY2tUZjV3d3RWN0tNalBMZ2JZTWhjbjhQdXVkTnZZbENON0k3NWx5Sjc1U29Zam1SaU9VVGY5WVNHNk1mR1ZsUkxpZUNkNXE3eWowNUlJXy16VHZleXlaRUppVUVQc1VrcUVjVV93V19yVVJWX3M0NnZRc3Y1RDg1cDdicEdjV0w4X3g0SE5tdzJIUUdRZHdEWnpxYWdFTDk4c0xNYXJWcw?oc=5
+- Pakistan Went On Damage-Control Overdrive After Washington's India Map Post - NDTV
+  Pakistan Went On Damage-Control Overdrive
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHE0Q1BXOEdKdC0tNDRWczJyQkpFQWNNRmJ6bHd6TUI3ZjNoZlJFUlRsYlZoZGxpVjAySU9aX05CVGdGTmRFQ3dkN1hDdVdpaE1NdzVVWHVJb2ozWDFJTjFKWmxhVWhZLWZ5Ti04dGg1ZmwwcUJYMklqSk11a2JUNnFsYlRJeW1BSFpWTFJQNDJsdFhocUVyWGNzVDRqdjMyZ1loVDJXU0hZSWRjVnFTZkl2eE9sQdIBvgFBVV95cUxOWXlTY1g3dEgxQXNoV2NQbUJpQzBQSTJwdmc2endPRDVQZWtUYjNCS3M3cXE0UjNEaGVHVlMtQVhVZWFuYkhzNjczVm10RGltNXA3aVc5VmFOQlpNWlJ0RDRtUzFnVHBHWjdKMmVBb0NaRzVyUEFQaWFWckxLZFV0NnJIUU8wTWRTUmlOb1d5R2RJdThJS0JoakFNVlpOYU5PcXhFZWNBT2RPWjJNMEhHLWFnUFdaLUljMFBqcGRn?oc=5
 
-- Breaking News Live Updates: PM Modi lands at the Emergency Landing Facility (ELF) on Moran Bypass in Dibrugarh - Times of India
-  PM Modi lands at the Emergency Landing Facility (ELF) on Moran Bypass in Dib
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOLU1DUWU3d1d2S2JlSjNwazhoNTVnQ1VmZzRQU0NNR3RwaXJpQVptTjZTYlpYekR6VHVIQlBmY3o5cE1TTlNFYl9MbHE2QmZ2alJYLW5oTjRNMGRJYnBHRGttTUcwYjVsbmFQcG42RGdXRmJ5SU5ZSGhmbFF1dG1EX2E4bjd3Y0xaSll1R2xhTDl6QXFHb3lWSVlKN0ZEUElad0Y4Y05IM3pWNEM1U1BQSE9vdjBJZGx1S1d4NmplUmE1RVotcF85TnNIUnZRd9IB0wFBVV95cUxPUTRjRWI2OUY2dnVtSnRmLXRoWnczTHM4bnVJcWZmMjU2ZWFvMU1DaFhMdWtwT1pFMUhrU0pMbC1qYkMyYzF3bE5USFJ1MHNnbk4wTTU5ZmhWSWtMd24yTzhlbTRxMXVyVURyVmkyRllWOEhkWUQ4Vzd1dWJVVW5CUWNLMTFzckhsb24tZmxaU2VzWVNsSzdrTWJRRGJCLS1WS3lPdFpMb2VwRXMyTkxNZXctd1J3Rzl4bXRreGtGamJtUlY1ZTVoZ0Jvc1MtcVYtY0I4?oc=5
+- Eye on China, PM's historic landing on highway-cum-runway in Assam: Here's why the Emergency Landing Facility matters | India News - Hindustan Times
+  The Emergency Landing Facility is a runway-cum-runway in Assam, India.
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR01JYTlVb2VjMmlaSEpQbXh6QXQxQXZNMVJxUVNkUDhiSm9XSHd4SC1DN2VvYXVEc0RzZ0xZV2dIWUpoNUtFa0ZvbEtUT0ZhZnE1WDZYRjdabjNUMjZUNFhLV0xxS1Yxajd3NUV6X0VWWmZWVkpxMkQtbmJmX0VDcHpMelNZbHpZd3ZuQXRPS19TcThFV2kxUU9nc3IyTUtCNjc4VmFoeV84VlY1MEhOV25ETmYtLVIwdXRuenZick5RWnFvaDlnS0JlLVgtOUZDWWJ2T2NPSzVBSl9waTczS1VTVE5xTnlJakHSAe8BQVVfeXFMT3BZc0ZOQjhzNkhVMUdMaW4xWmkzNnpWTEQ0RW9EdDdYXzgtM080R2NjMm9jM1JFSFEySlotM2pLaDF3ZUl5dmVTbEU0Nkw2YzJvRldYd1FzVjFaQWlvS3Jzek5BZk8zSFQ1dDVyT1plQktYcWJfdkNfUlJsMExpUnh1b25icDE4a2hzTDZHLUxvMmdxeDM0d0xhZzVCWkZUU3Y0VE1zNmJXeERGN213RHlRc2YzdThQMVg4QlZjNUY5YzRfVnpaLUNHYU5jazYzYmdIVlZCcHVKZENTNFJBa3daMG5qRGlZc2R4QW84UlU?oc=5
 
-- "Like Bangladesh": India To Get '0% Tariff' Deal From US On Textiles - NDTV
-  "Like Bangladesh": India To Get '0%
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNYWVVMUxrb19Nei15Yk9aSm5kSDZoZHVXNHl3VTNyejJ3S1ppdDg1em5RWm5TYjBEVTRFdEpZY2JPS21SR3EyUnEtcDl6c29WLUE1OTdRRlZKSFVoemxMYVVvSFh4Z0hibGQ3ZmpnbG1uZ3Y4NTJTTlhsSHVNWkp2a1NTX05iTDh2V09zcUhOWGt6Y0lfWllYZks5cVM2eUZhTzA4c1FlWVlvNjd3Y04yVEFMQzFEU1HSAb8BQVVfeXFMTVVoOHl4ZHNXbk95WWdIVmZJeVBySk1XeEd4c3k1R0hmMjd0eWJWd3ozUmMyb0p5LVhQaHlmbW84anp0Q3MzbjhZd01aLXJaTUkwVkRXLWlRUHNYYjNCNFN5cnF0WVF3M21vMEdKeXFrdUlqRmdtRjN6WFZSYklCNXFITkdPM3VVSnZlUzV5ZWNTTnVwNUxQOE1IXzBOcFRHNmpyM1FmYjhRcERnTVpJNGwzdHVTOGUySW94NTlzbFE?oc=5
+- The China Factor Behind Northeast's First Emergency Runway On Highway - NDTV
+  The China Factor Behind Northeast's First Emergency
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWtMSHVzeExmb091Mk9LLWc2V2pNYUdvVTYzY1hVLWlPcXVnWGZrV1ZpbFJDam9mWFZ4ZjJ6cWpGZkZEVjN4N2RuVHBLT0RNUi1rM1NFY3VkYXBBNW94WjFkVGRTUDFzbXE2N1JWN1ZDa0thS2dEZXpSWEsycjNqZEx4V0xDZ1E2S3YzSldFS0o2bmhpVWJ4M2VQVzA3clREUVpiY2dpMm10em9YQWfSAbYBQVVfeXFMTlRFeTNBdDRKRmZzSWpvNF9NdTMzS2QzVGU1NEdvU0cwa1RjMkhZa0d2V19GQTNHcDJpenpTaVlBbmVJUk10N1ZPUFRtUF8zTVZfMnpNQUpDdmhiWFd1VWpvcURVTEdzWl9rU0VtclFrR3E4YmxKYjRlMmxqTzBUNE40U2d6ejIzVDNadHU4NFlzXzVxYXI3Z2dJVlZ6Z3B1QTIwMFFxdVcza2ZpMlFWaTBVM0JBR2c?oc=5
 
-- India vs Pakistan: T20 World Cup – teams, start time, lineups - Al Jazeera
-  India vs Pakistan: T20 World Cup – teams
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPcERGOTNwZGhCeF9lRTVrMkd4SkdYWlNOMU51Qi1BandzajZidkkzUm83U01GYmNGamtlYl92RmdLbEtGQjZXdGhLWkNjeFh5aGJrU2tNZ2loTzZSMjhsSWU5OXlQN0xKNXZmcjJRYmEzaWZ4UDFfU09uWmtxa3V5SFhBeDBCeUQ0OE9zNnltV1E3Yk5ZekFaZnpzSl9xRmpP0gGmAUFVX3lxTFB5ZUROTVZaVGVWSmtSQ1ZQS0RCam0wZjdOdms0SkQ3bFNBMGNSMDJVMmZBME1meU85ei1tQTJHcUdaRXBIdjU5MWQwMUthSXNWeVpqVEdFWWV3SjUxNXFRMXc5VnpxQ0YwOWlKZlZOa1NCOGEyWGxYZEIxZU1rRGtNdFZRTm9aWVE0MjFpX3kzUnVHendqaUxJOHpiRUt5UU5hUWQyZ3c?oc=5
+- Breaking News Live Updates: Bahrain, Egypt mediating UAE-Saudi rift - Times of India
+  The UAE and Saudi Arabia are at odds
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOLU1DUWU3d1d2S2JlSjNwazhoNTVnQ1VmZzRQU0NNR3RwaXJpQVptTjZTYlpYekR6VHVIQlBmY3o5cE1TTlNFYl9MbHE2QmZ2alJYLW5oTjRNMGRJYnBHRGttTUcwYjVsbmFQcG42RGdXRmJ5SU5ZSGhmbFF1dG1EX2E4bjd3Y0xaSll1R2xhTDl6QXFHb3lWSVlKN0ZEUElad0Y4Y05IM3pWNEM1U1BQSE9vdjBJZGx1S1d4NmplUmE1RVotcF85TnNIUnZRdw?oc=5
 
-- FTAs show increased global confidence in India: PM Modi - Times of India
-  FTAs show increased global confidence in India:
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmhZXzR6SUFJb0MxZW5idmhjcWFweFViT2o4MFlIcWxjOXlxeHhRdGdsRnFZWFVMY0FIV0hCcmNaMHpfamRhbWJNb3lXRWFSalF1VlQxbnhvTk9KUUdGMnJqdzFXLWhyWXNHWHF2M05YdDM5Y3FMamhxLTNCcmFmb0hKMUhGbENlU1VkSmREQ3dlQVVWTXR3bGlmNmltMmo5MEQ2d3YwYlVuY1BVZnZFejhHckNISlhhLTFUTDJjONIBxAFBVV95cUxQMEZieG9qbFpjZnhDcHNuYjVBSEViem5yNDBvMmJ5TkNIV2VELU94V0NvTGoxUXh1ZFVwZ2g0WDhHVlRCOC1rT0RSckkybjZBMm9aSmktV0pEY3phbUJBS0NlVnk5aFdJME5QdHhJVWxEOWRjeWwyeUo4dzd5aTR4dlhTMHprdDh0MkRNeWd4TnN3Uml6eGRzWnAxRWV4VGR2TjQxTnZTZWQ3ek91NzJLWDRDcTVzSHg4OUtvSnByYmwxWThM?oc=5
+- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
+  India's "Will Take Appropriate Action" Response
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
 
-- Seva Teerth Mark Key Milestone In India's Journey To Viksit Bharat': PM - NDTV
-  Seva Teerth Mark Key Milestone In
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkpyZlZ3dXl5SmViYkU4TVdlUHFvLTd1cm9WSzZaWVhhVGhNNEo3SzJyTE04RXY1eEZEWDM1ZHVYd0daaklRUGlLUXRjTFdQN0pIYTRSQVRTaldVeTdaeEpmb3VuUHMwZ1NITlpYcDJYUFlpeGVfWlk2WnNpYW5IdnA5cVZYX3l1R1ZnNlI5Rm5qaTBkY29vbjhvNHRZcUQwMEg0cklGdnpSbEhWMkZTNGhuUkFyZnR2U21RRXlHRzhiSlJFTVFYWTRHMi1lS3d50gHYAUFVX3lxTFBSb2dWc21yODFVTC12ZjhoNk5qRG91NEFiSDhlYkM4bmNIa25jMkxJeHBlWjVXS2dxY2tUZjV3d3RWN0tNalBMZ2JZTWhjbjhQdXVkTnZZbENON0k3NWx5Sjc1U29Zam1SaU9VVGY5WVNHNk1mR1ZsUkxpZUNkNXE3eWowNUlJXy16VHZleXlaRUppVUVQc1VrcUVjVV93V19yVVJWX3M0NnZRc3Y1RDg1cDdicEdjV0w4X3g0SE5tdzJIUUdRZHdEWnpxYWdFTDk4c0xNYXJWcw?oc=5
+- Pakistan Went On Damage-Control Overdrive After Washington's India Map Post - NDTV
+  Pakistan Went On Damage-Control Overdrive
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHE0Q1BXOEdKdC0tNDRWczJyQkpFQWNNRmJ6bHd6TUI3ZjNoZlJFUlRsYlZoZGxpVjAySU9aX05CVGdGTmRFQ3dkN1hDdVdpaE1NdzVVWHVJb2ozWDFJTjFKWmxhVWhZLWZ5Ti04dGg1ZmwwcUJYMklqSk11a2JUNnFsYlRJeW1BSFpWTFJQNDJsdFhocUVyWGNzVDRqdjMyZ1loVDJXU0hZSWRjVnFTZkl2eE9sQdIBvgFBVV95cUxOWXlTY1g3dEgxQXNoV2NQbUJpQzBQSTJwdmc2endPRDVQZWtUYjNCS3M3cXE0UjNEaGVHVlMtQVhVZWFuYkhzNjczVm10RGltNXA3aVc5VmFOQlpNWlJ0RDRtUzFnVHBHWjdKMmVBb0NaRzVyUEFQaWFWckxLZFV0NnJIUU8wTWRTUmlOb1d5R2RJdThJS0JoakFNVlpOYU5PcXhFZWNBT2RPWjJNMEhHLWFnUFdaLUljMFBqcGRn?oc=5
 
-- Breaking News Live Updates: PM Modi lands at the Emergency Landing Facility (ELF) on Moran Bypass in Dibrugarh - Times of India
-  PM Modi lands at the Emergency Landing Facility (ELF) on Moran Bypass in Dib
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOLU1DUWU3d1d2S2JlSjNwazhoNTVnQ1VmZzRQU0NNR3RwaXJpQVptTjZTYlpYekR6VHVIQlBmY3o5cE1TTlNFYl9MbHE2QmZ2alJYLW5oTjRNMGRJYnBHRGttTUcwYjVsbmFQcG42RGdXRmJ5SU5ZSGhmbFF1dG1EX2E4bjd3Y0xaSll1R2xhTDl6QXFHb3lWSVlKN0ZEUElad0Y4Y05IM3pWNEM1U1BQSE9vdjBJZGx1S1d4NmplUmE1RVotcF85TnNIUnZRd9IB0wFBVV95cUxPUTRjRWI2OUY2dnVtSnRmLXRoWnczTHM4bnVJcWZmMjU2ZWFvMU1DaFhMdWtwT1pFMUhrU0pMbC1qYkMyYzF3bE5USFJ1MHNnbk4wTTU5ZmhWSWtMd24yTzhlbTRxMXVyVURyVmkyRllWOEhkWUQ4Vzd1dWJVVW5CUWNLMTFzckhsb24tZmxaU2VzWVNsSzdrTWJRRGJCLS1WS3lPdFpMb2VwRXMyTkxNZXctd1J3Rzl4bXRreGtGamJtUlY1ZTVoZ0Jvc1MtcVYtY0I4?oc=5
+- Eye on China, PM's historic landing on highway-cum-runway in Assam: Here's why the Emergency Landing Facility matters | India News - Hindustan Times
+  The Emergency Landing Facility is a runway-cum-runway in Assam, India.
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR01JYTlVb2VjMmlaSEpQbXh6QXQxQXZNMVJxUVNkUDhiSm9XSHd4SC1DN2VvYXVEc0RzZ0xZV2dIWUpoNUtFa0ZvbEtUT0ZhZnE1WDZYRjdabjNUMjZUNFhLV0xxS1Yxajd3NUV6X0VWWmZWVkpxMkQtbmJmX0VDcHpMelNZbHpZd3ZuQXRPS19TcThFV2kxUU9nc3IyTUtCNjc4VmFoeV84VlY1MEhOV25ETmYtLVIwdXRuenZick5RWnFvaDlnS0JlLVgtOUZDWWJ2T2NPSzVBSl9waTczS1VTVE5xTnlJakHSAe8BQVVfeXFMT3BZc0ZOQjhzNkhVMUdMaW4xWmkzNnpWTEQ0RW9EdDdYXzgtM080R2NjMm9jM1JFSFEySlotM2pLaDF3ZUl5dmVTbEU0Nkw2YzJvRldYd1FzVjFaQWlvS3Jzek5BZk8zSFQ1dDVyT1plQktYcWJfdkNfUlJsMExpUnh1b25icDE4a2hzTDZHLUxvMmdxeDM0d0xhZzVCWkZUU3Y0VE1zNmJXeERGN213RHlRc2YzdThQMVg4QlZjNUY5YzRfVnpaLUNHYU5jazYzYmdIVlZCcHVKZENTNFJBa3daMG5qRGlZc2R4QW84UlU?oc=5
 
-- "Like Bangladesh": India To Get '0% Tariff' Deal From US On Textiles - NDTV
-  "Like Bangladesh": India To Get '0%
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNYWVVMUxrb19Nei15Yk9aSm5kSDZoZHVXNHl3VTNyejJ3S1ppdDg1em5RWm5TYjBEVTRFdEpZY2JPS21SR3EyUnEtcDl6c29WLUE1OTdRRlZKSFVoemxMYVVvSFh4Z0hibGQ3ZmpnbG1uZ3Y4NTJTTlhsSHVNWkp2a1NTX05iTDh2V09zcUhOWGt6Y0lfWllYZks5cVM2eUZhTzA4c1FlWVlvNjd3Y04yVEFMQzFEU1HSAb8BQVVfeXFMTVVoOHl4ZHNXbk95WWdIVmZJeVBySk1XeEd4c3k1R0hmMjd0eWJWd3ozUmMyb0p5LVhQaHlmbW84anp0Q3MzbjhZd01aLXJaTUkwVkRXLWlRUHNYYjNCNFN5cnF0WVF3M21vMEdKeXFrdUlqRmdtRjN6WFZSYklCNXFITkdPM3VVSnZlUzV5ZWNTTnVwNUxQOE1IXzBOcFRHNmpyM1FmYjhRcERnTVpJNGwzdHVTOGUySW94NTlzbFE?oc=5
+- The China Factor Behind Northeast's First Emergency Runway On Highway - NDTV
+  The China Factor Behind Northeast's First Emergency
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWtMSHVzeExmb091Mk9LLWc2V2pNYUdvVTYzY1hVLWlPcXVnWGZrV1ZpbFJDam9mWFZ4ZjJ6cWpGZkZEVjN4N2RuVHBLT0RNUi1rM1NFY3VkYXBBNW94WjFkVGRTUDFzbXE2N1JWN1ZDa0thS2dEZXpSWEsycjNqZEx4V0xDZ1E2S3YzSldFS0o2bmhpVWJ4M2VQVzA3clREUVpiY2dpMm10em9YQWfSAbYBQVVfeXFMTlRFeTNBdDRKRmZzSWpvNF9NdTMzS2QzVGU1NEdvU0cwa1RjMkhZa0d2V19GQTNHcDJpenpTaVlBbmVJUk10N1ZPUFRtUF8zTVZfMnpNQUpDdmhiWFd1VWpvcURVTEdzWl9rU0VtclFrR3E4YmxKYjRlMmxqTzBUNE40U2d6ejIzVDNadHU4NFlzXzVxYXI3Z2dJVlZ6Z3B1QTIwMFFxdVcza2ZpMlFWaTBVM0JBR2c?oc=5
 
-- India vs Pakistan: T20 World Cup – teams, start time, lineups - Al Jazeera
-  India vs Pakistan: T20 World Cup – teams
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPcERGOTNwZGhCeF9lRTVrMkd4SkdYWlNOMU51Qi1BandzajZidkkzUm83U01GYmNGamtlYl92RmdLbEtGQjZXdGhLWkNjeFh5aGJrU2tNZ2loTzZSMjhsSWU5OXlQN0xKNXZmcjJRYmEzaWZ4UDFfU09uWmtxa3V5SFhBeDBCeUQ0OE9zNnltV1E3Yk5ZekFaZnpzSl9xRmpP0gGmAUFVX3lxTFB5ZUROTVZaVGVWSmtSQ1ZQS0RCam0wZjdOdms0SkQ3bFNBMGNSMDJVMmZBME1meU85ei1tQTJHcUdaRXBIdjU5MWQwMUthSXNWeVpqVEdFWWV3SjUxNXFRMXc5VnpxQ0YwOWlKZlZOa1NCOGEyWGxYZEIxZU1rRGtNdFZRTm9aWVE0MjFpX3kzUnVHendqaUxJOHpiRUt5UU5hUWQyZ3c?oc=5
+- Breaking News Live Updates: Bahrain, Egypt mediating UAE-Saudi rift - Times of India
+  The UAE and Saudi Arabia are at odds
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOLU1DUWU3d1d2S2JlSjNwazhoNTVnQ1VmZzRQU0NNR3RwaXJpQVptTjZTYlpYekR6VHVIQlBmY3o5cE1TTlNFYl9MbHE2QmZ2alJYLW5oTjRNMGRJYnBHRGttTUcwYjVsbmFQcG42RGdXRmJ5SU5ZSGhmbFF1dG1EX2E4bjd3Y0xaSll1R2xhTDl6QXFHb3lWSVlKN0ZEUElad0Y4Y05IM3pWNEM1U1BQSE9vdjBJZGx1S1d4NmplUmE1RVotcF85TnNIUnZRdw?oc=5
 
-- FTAs show increased global confidence in India: PM Modi - Times of India
-  FTAs show increased global confidence in India:
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmhZXzR6SUFJb0MxZW5idmhjcWFweFViT2o4MFlIcWxjOXlxeHhRdGdsRnFZWFVMY0FIV0hCcmNaMHpfamRhbWJNb3lXRWFSalF1VlQxbnhvTk9KUUdGMnJqdzFXLWhyWXNHWHF2M05YdDM5Y3FMamhxLTNCcmFmb0hKMUhGbENlU1VkSmREQ3dlQVVWTXR3bGlmNmltMmo5MEQ2d3YwYlVuY1BVZnZFejhHckNISlhhLTFUTDJjONIBxAFBVV95cUxQMEZieG9qbFpjZnhDcHNuYjVBSEViem5yNDBvMmJ5TkNIV2VELU94V0NvTGoxUXh1ZFVwZ2g0WDhHVlRCOC1rT0RSckkybjZBMm9aSmktV0pEY3phbUJBS0NlVnk5aFdJME5QdHhJVWxEOWRjeWwyeUo4dzd5aTR4dlhTMHprdDh0MkRNeWd4TnN3Uml6eGRzWnAxRWV4VGR2TjQxTnZTZWQ3ek91NzJLWDRDcTVzSHg4OUtvSnByYmwxWThM?oc=5
+- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
+  India's "Will Take Appropriate Action" Response
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
 
-- Seva Teerth Mark Key Milestone In India's Journey To Viksit Bharat': PM - NDTV
-  Seva Teerth Mark Key Milestone In
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkpyZlZ3dXl5SmViYkU4TVdlUHFvLTd1cm9WSzZaWVhhVGhNNEo3SzJyTE04RXY1eEZEWDM1ZHVYd0daaklRUGlLUXRjTFdQN0pIYTRSQVRTaldVeTdaeEpmb3VuUHMwZ1NITlpYcDJYUFlpeGVfWlk2WnNpYW5IdnA5cVZYX3l1R1ZnNlI5Rm5qaTBkY29vbjhvNHRZcUQwMEg0cklGdnpSbEhWMkZTNGhuUkFyZnR2U21RRXlHRzhiSlJFTVFYWTRHMi1lS3d50gHYAUFVX3lxTFBSb2dWc21yODFVTC12ZjhoNk5qRG91NEFiSDhlYkM4bmNIa25jMkxJeHBlWjVXS2dxY2tUZjV3d3RWN0tNalBMZ2JZTWhjbjhQdXVkTnZZbENON0k3NWx5Sjc1U29Zam1SaU9VVGY5WVNHNk1mR1ZsUkxpZUNkNXE3eWowNUlJXy16VHZleXlaRUppVUVQc1VrcUVjVV93V19yVVJWX3M0NnZRc3Y1RDg1cDdicEdjV0w4X3g0SE5tdzJIUUdRZHdEWnpxYWdFTDk4c0xNYXJWcw?oc=5
+- Pakistan Went On Damage-Control Overdrive After Washington's India Map Post - NDTV
+  Pakistan Went On Damage-Control Overdrive
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHE0Q1BXOEdKdC0tNDRWczJyQkpFQWNNRmJ6bHd6TUI3ZjNoZlJFUlRsYlZoZGxpVjAySU9aX05CVGdGTmRFQ3dkN1hDdVdpaE1NdzVVWHVJb2ozWDFJTjFKWmxhVWhZLWZ5Ti04dGg1ZmwwcUJYMklqSk11a2JUNnFsYlRJeW1BSFpWTFJQNDJsdFhocUVyWGNzVDRqdjMyZ1loVDJXU0hZSWRjVnFTZkl2eE9sQdIBvgFBVV95cUxOWXlTY1g3dEgxQXNoV2NQbUJpQzBQSTJwdmc2endPRDVQZWtUYjNCS3M3cXE0UjNEaGVHVlMtQVhVZWFuYkhzNjczVm10RGltNXA3aVc5VmFOQlpNWlJ0RDRtUzFnVHBHWjdKMmVBb0NaRzVyUEFQaWFWckxLZFV0NnJIUU8wTWRTUmlOb1d5R2RJdThJS0JoakFNVlpOYU5PcXhFZWNBT2RPWjJNMEhHLWFnUFdaLUljMFBqcGRn?oc=5
 
-- Breaking News Live Updates: PM Modi lands at the Emergency Landing Facility (ELF) on Moran Bypass in Dibrugarh - Times of India
-  PM Modi lands at the Emergency Landing Facility (ELF) on Moran Bypass in Dib
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOLU1DUWU3d1d2S2JlSjNwazhoNTVnQ1VmZzRQU0NNR3RwaXJpQVptTjZTYlpYekR6VHVIQlBmY3o5cE1TTlNFYl9MbHE2QmZ2alJYLW5oTjRNMGRJYnBHRGttTUcwYjVsbmFQcG42RGdXRmJ5SU5ZSGhmbFF1dG1EX2E4bjd3Y0xaSll1R2xhTDl6QXFHb3lWSVlKN0ZEUElad0Y4Y05IM3pWNEM1U1BQSE9vdjBJZGx1S1d4NmplUmE1RVotcF85TnNIUnZRd9IB0wFBVV95cUxPUTRjRWI2OUY2dnVtSnRmLXRoWnczTHM4bnVJcWZmMjU2ZWFvMU1DaFhMdWtwT1pFMUhrU0pMbC1qYkMyYzF3bE5USFJ1MHNnbk4wTTU5ZmhWSWtMd24yTzhlbTRxMXVyVURyVmkyRllWOEhkWUQ4Vzd1dWJVVW5CUWNLMTFzckhsb24tZmxaU2VzWVNsSzdrTWJRRGJCLS1WS3lPdFpMb2VwRXMyTkxNZXctd1J3Rzl4bXRreGtGamJtUlY1ZTVoZ0Jvc1MtcVYtY0I4?oc=5
+- Eye on China, PM's historic landing on highway-cum-runway in Assam: Here's why the Emergency Landing Facility matters | India News - Hindustan Times
+  The Emergency Landing Facility is a runway-cum-runway in Assam, India.
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR01JYTlVb2VjMmlaSEpQbXh6QXQxQXZNMVJxUVNkUDhiSm9XSHd4SC1DN2VvYXVEc0RzZ0xZV2dIWUpoNUtFa0ZvbEtUT0ZhZnE1WDZYRjdabjNUMjZUNFhLV0xxS1Yxajd3NUV6X0VWWmZWVkpxMkQtbmJmX0VDcHpMelNZbHpZd3ZuQXRPS19TcThFV2kxUU9nc3IyTUtCNjc4VmFoeV84VlY1MEhOV25ETmYtLVIwdXRuenZick5RWnFvaDlnS0JlLVgtOUZDWWJ2T2NPSzVBSl9waTczS1VTVE5xTnlJakHSAe8BQVVfeXFMT3BZc0ZOQjhzNkhVMUdMaW4xWmkzNnpWTEQ0RW9EdDdYXzgtM080R2NjMm9jM1JFSFEySlotM2pLaDF3ZUl5dmVTbEU0Nkw2YzJvRldYd1FzVjFaQWlvS3Jzek5BZk8zSFQ1dDVyT1plQktYcWJfdkNfUlJsMExpUnh1b25icDE4a2hzTDZHLUxvMmdxeDM0d0xhZzVCWkZUU3Y0VE1zNmJXeERGN213RHlRc2YzdThQMVg4QlZjNUY5YzRfVnpaLUNHYU5jazYzYmdIVlZCcHVKZENTNFJBa3daMG5qRGlZc2R4QW84UlU?oc=5
 
-- "Like Bangladesh": India To Get '0% Tariff' Deal From US On Textiles - NDTV
-  "Like Bangladesh": India To Get '0%
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNYWVVMUxrb19Nei15Yk9aSm5kSDZoZHVXNHl3VTNyejJ3S1ppdDg1em5RWm5TYjBEVTRFdEpZY2JPS21SR3EyUnEtcDl6c29WLUE1OTdRRlZKSFVoemxMYVVvSFh4Z0hibGQ3ZmpnbG1uZ3Y4NTJTTlhsSHVNWkp2a1NTX05iTDh2V09zcUhOWGt6Y0lfWllYZks5cVM2eUZhTzA4c1FlWVlvNjd3Y04yVEFMQzFEU1HSAb8BQVVfeXFMTVVoOHl4ZHNXbk95WWdIVmZJeVBySk1XeEd4c3k1R0hmMjd0eWJWd3ozUmMyb0p5LVhQaHlmbW84anp0Q3MzbjhZd01aLXJaTUkwVkRXLWlRUHNYYjNCNFN5cnF0WVF3M21vMEdKeXFrdUlqRmdtRjN6WFZSYklCNXFITkdPM3VVSnZlUzV5ZWNTTnVwNUxQOE1IXzBOcFRHNmpyM1FmYjhRcERnTVpJNGwzdHVTOGUySW94NTlzbFE?oc=5
+- The China Factor Behind Northeast's First Emergency Runway On Highway - NDTV
+  The China Factor Behind Northeast's First Emergency
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWtMSHVzeExmb091Mk9LLWc2V2pNYUdvVTYzY1hVLWlPcXVnWGZrV1ZpbFJDam9mWFZ4ZjJ6cWpGZkZEVjN4N2RuVHBLT0RNUi1rM1NFY3VkYXBBNW94WjFkVGRTUDFzbXE2N1JWN1ZDa0thS2dEZXpSWEsycjNqZEx4V0xDZ1E2S3YzSldFS0o2bmhpVWJ4M2VQVzA3clREUVpiY2dpMm10em9YQWfSAbYBQVVfeXFMTlRFeTNBdDRKRmZzSWpvNF9NdTMzS2QzVGU1NEdvU0cwa1RjMkhZa0d2V19GQTNHcDJpenpTaVlBbmVJUk10N1ZPUFRtUF8zTVZfMnpNQUpDdmhiWFd1VWpvcURVTEdzWl9rU0VtclFrR3E4YmxKYjRlMmxqTzBUNE40U2d6ejIzVDNadHU4NFlzXzVxYXI3Z2dJVlZ6Z3B1QTIwMFFxdVcza2ZpMlFWaTBVM0JBR2c?oc=5
 
-- India vs Pakistan: T20 World Cup – teams, start time, lineups - Al Jazeera
-  India vs Pakistan: T20 World Cup – teams
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPcERGOTNwZGhCeF9lRTVrMkd4SkdYWlNOMU51Qi1BandzajZidkkzUm83U01GYmNGamtlYl92RmdLbEtGQjZXdGhLWkNjeFh5aGJrU2tNZ2loTzZSMjhsSWU5OXlQN0xKNXZmcjJRYmEzaWZ4UDFfU09uWmtxa3V5SFhBeDBCeUQ0OE9zNnltV1E3Yk5ZekFaZnpzSl9xRmpP0gGmAUFVX3lxTFB5ZUROTVZaVGVWSmtSQ1ZQS0RCam0wZjdOdms0SkQ3bFNBMGNSMDJVMmZBME1meU85ei1tQTJHcUdaRXBIdjU5MWQwMUthSXNWeVpqVEdFWWV3SjUxNXFRMXc5VnpxQ0YwOWlKZlZOa1NCOGEyWGxYZEIxZU1rRGtNdFZRTm9aWVE0MjFpX3kzUnVHendqaUxJOHpiRUt5UU5hUWQyZ3c?oc=5
+- Breaking News Live Updates: Bahrain, Egypt mediating UAE-Saudi rift - Times of India
+  The UAE and Saudi Arabia are at odds
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOLU1DUWU3d1d2S2JlSjNwazhoNTVnQ1VmZzRQU0NNR3RwaXJpQVptTjZTYlpYekR6VHVIQlBmY3o5cE1TTlNFYl9MbHE2QmZ2alJYLW5oTjRNMGRJYnBHRGttTUcwYjVsbmFQcG42RGdXRmJ5SU5ZSGhmbFF1dG1EX2E4bjd3Y0xaSll1R2xhTDl6QXFHb3lWSVlKN0ZEUElad0Y4Y05IM3pWNEM1U1BQSE9vdjBJZGx1S1d4NmplUmE1RVotcF85TnNIUnZRdw?oc=5
 
-- FTAs show increased global confidence in India: PM Modi - Times of India
-  FTAs show increased global confidence in India:
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmhZXzR6SUFJb0MxZW5idmhjcWFweFViT2o4MFlIcWxjOXlxeHhRdGdsRnFZWFVMY0FIV0hCcmNaMHpfamRhbWJNb3lXRWFSalF1VlQxbnhvTk9KUUdGMnJqdzFXLWhyWXNHWHF2M05YdDM5Y3FMamhxLTNCcmFmb0hKMUhGbENlU1VkSmREQ3dlQVVWTXR3bGlmNmltMmo5MEQ2d3YwYlVuY1BVZnZFejhHckNISlhhLTFUTDJjONIBxAFBVV95cUxQMEZieG9qbFpjZnhDcHNuYjVBSEViem5yNDBvMmJ5TkNIV2VELU94V0NvTGoxUXh1ZFVwZ2g0WDhHVlRCOC1rT0RSckkybjZBMm9aSmktV0pEY3phbUJBS0NlVnk5aFdJME5QdHhJVWxEOWRjeWwyeUo4dzd5aTR4dlhTMHprdDh0MkRNeWd4TnN3Uml6eGRzWnAxRWV4VGR2TjQxTnZTZWQ3ek91NzJLWDRDcTVzSHg4OUtvSnByYmwxWThM?oc=5
+- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
+  India's "Will Take Appropriate Action" Response
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
 
-- Seva Teerth Mark Key Milestone In India's Journey To Viksit Bharat': PM - NDTV
-  Seva Teerth Mark Key Milestone In
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkpyZlZ3dXl5SmViYkU4TVdlUHFvLTd1cm9WSzZaWVhhVGhNNEo3SzJyTE04RXY1eEZEWDM1ZHVYd0daaklRUGlLUXRjTFdQN0pIYTRSQVRTaldVeTdaeEpmb3VuUHMwZ1NITlpYcDJYUFlpeGVfWlk2WnNpYW5IdnA5cVZYX3l1R1ZnNlI5Rm5qaTBkY29vbjhvNHRZcUQwMEg0cklGdnpSbEhWMkZTNGhuUkFyZnR2U21RRXlHRzhiSlJFTVFYWTRHMi1lS3d50gHYAUFVX3lxTFBSb2dWc21yODFVTC12ZjhoNk5qRG91NEFiSDhlYkM4bmNIa25jMkxJeHBlWjVXS2dxY2tUZjV3d3RWN0tNalBMZ2JZTWhjbjhQdXVkTnZZbENON0k3NWx5Sjc1U29Zam1SaU9VVGY5WVNHNk1mR1ZsUkxpZUNkNXE3eWowNUlJXy16VHZleXlaRUppVUVQc1VrcUVjVV93V19yVVJWX3M0NnZRc3Y1RDg1cDdicEdjV0w4X3g0SE5tdzJIUUdRZHdEWnpxYWdFTDk4c0xNYXJWcw?oc=5
+- Pakistan Went On Damage-Control Overdrive After Washington's India Map Post - NDTV
+  Pakistan Went On Damage-Control Overdrive
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHE0Q1BXOEdKdC0tNDRWczJyQkpFQWNNRmJ6bHd6TUI3ZjNoZlJFUlRsYlZoZGxpVjAySU9aX05CVGdGTmRFQ3dkN1hDdVdpaE1NdzVVWHVJb2ozWDFJTjFKWmxhVWhZLWZ5Ti04dGg1ZmwwcUJYMklqSk11a2JUNnFsYlRJeW1BSFpWTFJQNDJsdFhocUVyWGNzVDRqdjMyZ1loVDJXU0hZSWRjVnFTZkl2eE9sQdIBvgFBVV95cUxOWXlTY1g3dEgxQXNoV2NQbUJpQzBQSTJwdmc2endPRDVQZWtUYjNCS3M3cXE0UjNEaGVHVlMtQVhVZWFuYkhzNjczVm10RGltNXA3aVc5VmFOQlpNWlJ0RDRtUzFnVHBHWjdKMmVBb0NaRzVyUEFQaWFWckxLZFV0NnJIUU8wTWRTUmlOb1d5R2RJdThJS0JoakFNVlpOYU5PcXhFZWNBT2RPWjJNMEhHLWFnUFdaLUljMFBqcGRn?oc=5
 
-- Breaking News Live Updates: PM Modi lands at the Emergency Landing Facility (ELF) on Moran Bypass in Dibrugarh - Times of India
-  PM Modi lands at the Emergency Landing Facility (ELF) on Moran Bypass in Dib
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOLU1DUWU3d1d2S2JlSjNwazhoNTVnQ1VmZzRQU0NNR3RwaXJpQVptTjZTYlpYekR6VHVIQlBmY3o5cE1TTlNFYl9MbHE2QmZ2alJYLW5oTjRNMGRJYnBHRGttTUcwYjVsbmFQcG42RGdXRmJ5SU5ZSGhmbFF1dG1EX2E4bjd3Y0xaSll1R2xhTDl6QXFHb3lWSVlKN0ZEUElad0Y4Y05IM3pWNEM1U1BQSE9vdjBJZGx1S1d4NmplUmE1RVotcF85TnNIUnZRd9IB0wFBVV95cUxPUTRjRWI2OUY2dnVtSnRmLXRoWnczTHM4bnVJcWZmMjU2ZWFvMU1DaFhMdWtwT1pFMUhrU0pMbC1qYkMyYzF3bE5USFJ1MHNnbk4wTTU5ZmhWSWtMd24yTzhlbTRxMXVyVURyVmkyRllWOEhkWUQ4Vzd1dWJVVW5CUWNLMTFzckhsb24tZmxaU2VzWVNsSzdrTWJRRGJCLS1WS3lPdFpMb2VwRXMyTkxNZXctd1J3Rzl4bXRreGtGamJtUlY1ZTVoZ0Jvc1MtcVYtY0I4?oc=5
+- Eye on China, PM's historic landing on highway-cum-runway in Assam: Here's why the Emergency Landing Facility matters | India News - Hindustan Times
+  The Emergency Landing Facility is a runway-cum-runway in Assam, India.
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR01JYTlVb2VjMmlaSEpQbXh6QXQxQXZNMVJxUVNkUDhiSm9XSHd4SC1DN2VvYXVEc0RzZ0xZV2dIWUpoNUtFa0ZvbEtUT0ZhZnE1WDZYRjdabjNUMjZUNFhLV0xxS1Yxajd3NUV6X0VWWmZWVkpxMkQtbmJmX0VDcHpMelNZbHpZd3ZuQXRPS19TcThFV2kxUU9nc3IyTUtCNjc4VmFoeV84VlY1MEhOV25ETmYtLVIwdXRuenZick5RWnFvaDlnS0JlLVgtOUZDWWJ2T2NPSzVBSl9waTczS1VTVE5xTnlJakHSAe8BQVVfeXFMT3BZc0ZOQjhzNkhVMUdMaW4xWmkzNnpWTEQ0RW9EdDdYXzgtM080R2NjMm9jM1JFSFEySlotM2pLaDF3ZUl5dmVTbEU0Nkw2YzJvRldYd1FzVjFaQWlvS3Jzek5BZk8zSFQ1dDVyT1plQktYcWJfdkNfUlJsMExpUnh1b25icDE4a2hzTDZHLUxvMmdxeDM0d0xhZzVCWkZUU3Y0VE1zNmJXeERGN213RHlRc2YzdThQMVg4QlZjNUY5YzRfVnpaLUNHYU5jazYzYmdIVlZCcHVKZENTNFJBa3daMG5qRGlZc2R4QW84UlU?oc=5
 
-- "Like Bangladesh": India To Get '0% Tariff' Deal From US On Textiles - NDTV
-  "Like Bangladesh": India To Get '0%
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNYWVVMUxrb19Nei15Yk9aSm5kSDZoZHVXNHl3VTNyejJ3S1ppdDg1em5RWm5TYjBEVTRFdEpZY2JPS21SR3EyUnEtcDl6c29WLUE1OTdRRlZKSFVoemxMYVVvSFh4Z0hibGQ3ZmpnbG1uZ3Y4NTJTTlhsSHVNWkp2a1NTX05iTDh2V09zcUhOWGt6Y0lfWllYZks5cVM2eUZhTzA4c1FlWVlvNjd3Y04yVEFMQzFEU1HSAb8BQVVfeXFMTVVoOHl4ZHNXbk95WWdIVmZJeVBySk1XeEd4c3k1R0hmMjd0eWJWd3ozUmMyb0p5LVhQaHlmbW84anp0Q3MzbjhZd01aLXJaTUkwVkRXLWlRUHNYYjNCNFN5cnF0WVF3M21vMEdKeXFrdUlqRmdtRjN6WFZSYklCNXFITkdPM3VVSnZlUzV5ZWNTTnVwNUxQOE1IXzBOcFRHNmpyM1FmYjhRcERnTVpJNGwzdHVTOGUySW94NTlzbFE?oc=5
+- The China Factor Behind Northeast's First Emergency Runway On Highway - NDTV
+  The China Factor Behind Northeast's First Emergency
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWtMSHVzeExmb091Mk9LLWc2V2pNYUdvVTYzY1hVLWlPcXVnWGZrV1ZpbFJDam9mWFZ4ZjJ6cWpGZkZEVjN4N2RuVHBLT0RNUi1rM1NFY3VkYXBBNW94WjFkVGRTUDFzbXE2N1JWN1ZDa0thS2dEZXpSWEsycjNqZEx4V0xDZ1E2S3YzSldFS0o2bmhpVWJ4M2VQVzA3clREUVpiY2dpMm10em9YQWfSAbYBQVVfeXFMTlRFeTNBdDRKRmZzSWpvNF9NdTMzS2QzVGU1NEdvU0cwa1RjMkhZa0d2V19GQTNHcDJpenpTaVlBbmVJUk10N1ZPUFRtUF8zTVZfMnpNQUpDdmhiWFd1VWpvcURVTEdzWl9rU0VtclFrR3E4YmxKYjRlMmxqTzBUNE40U2d6ejIzVDNadHU4NFlzXzVxYXI3Z2dJVlZ6Z3B1QTIwMFFxdVcza2ZpMlFWaTBVM0JBR2c?oc=5
 
-- India vs Pakistan: T20 World Cup – teams, start time, lineups - Al Jazeera
-  India vs Pakistan: T20 World Cup – teams
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPcERGOTNwZGhCeF9lRTVrMkd4SkdYWlNOMU51Qi1BandzajZidkkzUm83U01GYmNGamtlYl92RmdLbEtGQjZXdGhLWkNjeFh5aGJrU2tNZ2loTzZSMjhsSWU5OXlQN0xKNXZmcjJRYmEzaWZ4UDFfU09uWmtxa3V5SFhBeDBCeUQ0OE9zNnltV1E3Yk5ZekFaZnpzSl9xRmpP0gGmAUFVX3lxTFB5ZUROTVZaVGVWSmtSQ1ZQS0RCam0wZjdOdms0SkQ3bFNBMGNSMDJVMmZBME1meU85ei1tQTJHcUdaRXBIdjU5MWQwMUthSXNWeVpqVEdFWWV3SjUxNXFRMXc5VnpxQ0YwOWlKZlZOa1NCOGEyWGxYZEIxZU1rRGtNdFZRTm9aWVE0MjFpX3kzUnVHendqaUxJOHpiRUt5UU5hUWQyZ3c?oc=5
+- Breaking News Live Updates: Bahrain, Egypt mediating UAE-Saudi rift - Times of India
+  The UAE and Saudi Arabia are at odds
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOLU1DUWU3d1d2S2JlSjNwazhoNTVnQ1VmZzRQU0NNR3RwaXJpQVptTjZTYlpYekR6VHVIQlBmY3o5cE1TTlNFYl9MbHE2QmZ2alJYLW5oTjRNMGRJYnBHRGttTUcwYjVsbmFQcG42RGdXRmJ5SU5ZSGhmbFF1dG1EX2E4bjd3Y0xaSll1R2xhTDl6QXFHb3lWSVlKN0ZEUElad0Y4Y05IM3pWNEM1U1BQSE9vdjBJZGx1S1d4NmplUmE1RVotcF85TnNIUnZRdw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-14 06:42:40 UTC_
+_Last updated: 2026-02-14 12:41:24 UTC_
