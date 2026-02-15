@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- After outrage over Sadhvi’s death, Rajasthan Police report rules out foul play
+- Madhya Pradesh vegetable vendor ‘burgled’ several police houses. Then, law caught up with him
   
-  🔗 https://indianexpress.com/article/india/sadhvi-prem-baisa-death-case-police-report-medical-board-heart-attack-negligence-10532624/
+  🔗 https://indianexpress.com/article/india/this-mp-vegetable-vendor-burgled-several-police-houses-then-it-caught-up-with-him-10532696/
 
-- Panic in Jharkhand’s Hazaribagh as deaths caused by elephant herd mount
+- Four-month boycott of an anganwadi cook in an Odisha village: Every day she cycles to work, waits for kids who never show up — because she is Dalit
   
-  🔗 https://indianexpress.com/article/india/panic-in-jharkhands-hazaribagh-as-deaths-caused-by-elephant-herd-mount-10532569/
+  🔗 https://indianexpress.com/article/india/four-month-boycott-of-an-anganwadi-cook-in-an-odisha-village-every-day-she-cycles-to-work-waits-for-kids-who-never-show-up-because-she-is-dalit-10532736/
 
-- In Assam, Modi questions Congress on national security: ‘Kept the country in danger’
+- Pannun plot: In Nikhil Gupta’s guilty plea, US Justice Dept names R&AW
   
-  🔗 https://indianexpress.com/article/india/assam-modi-congress-national-security-country-danger-10532604/
+  🔗 https://indianexpress.com/article/india/pannun-plot-in-nikhil-guptas-guilty-plea-us-justice-dept-names-raw-10532739/
 
-- ‘Need modern office as nation moves ahead’: Cabinet resolution on PMO shift to Seva Teerth
+- He took blame on himself… wanted to end it: Nikhil Gupta’s family on Pannun murder plot
   
-  🔗 https://indianexpress.com/article/india/need-modern-office-nation-moves-ahead-cabinet-resolution-pmo-seva-teerth-10532464/
+  🔗 https://indianexpress.com/article/india/he-took-blame-on-himself-wanted-to-end-it-nikhil-guptas-family-on-pannun-murder-plot-10532740/
 
-- India’s first road-cum-rail tunnel under Brahmaputra gets Cabinet nod
+- Puducherry final SIR roll shows 7.5% drop in voters
   
-  🔗 https://indianexpress.com/article/india/indias-first-road-cum-rail-tunnel-under-brahmaputra-gets-cabinet-nod-10532433/
+  🔗 https://indianexpress.com/article/india/puducherry-final-sir-roll-shows-7-5-drop-in-voters-10532755/
 
 - Why AI chatbots change their answers when you ask ‘Are you sure?’
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/nothing-ceo-carl-pei-interview-bengaluru-store-phone-4a-2026-plans-10531449/
 
+- Epstein Files Prompt France to Open New Probes, Revisit Brunel
+  French authorities opened new probes into possible sexual and financial crimes linked to Jeffrey Epstein. They are revisiting the file on modeling agent Jean-Luc
+  🔗 https://www.livemint.com/companies/epstein-files-prompt-france-to-open-new-probes-revisit-brunel-11771109881582.html
+
+- Cuba postpones its annual cigar fair as a US oil siege causes severe fuel shortages and blackouts
+  Cuba postpones its annual cigar fair as a US oil
+  🔗 https://www.livemint.com/companies/cuba-postpones-its-annual-cigar-fair-as-a-us-oil-siege-causes-severe-fuel-shortages-and-blackouts-11771101540052.html
+
 - Zoho's Sridhar Vembu praises Sarvam AI for using low energy and costs, calls it ‘world class’
   Zoho co-founder Sridhar Vembu has lauded Sarvam AI for proving
   🔗 https://www.livemint.com/companies/people/zohos-sridhar-vembu-praises-sarvam-ai-for-using-low-energy-and-costs-calls-it-world-class-11771080413799.html
@@ -52,13 +60,9 @@
   The company’s filing
   🔗 https://www.livemint.com/companies/news/berkshire-hathaway-might-have-sold-more-apple-bank-of-america-stock-in-fourth-quarter-11771074950244.html
 
-- Can AI outperform humans? Airbnb chief Brian Chesky bets on bots, replaces one-third of customer service staff
-  Airbnb is leveraging AI for customer support, handling a third of requests in North America. Here's what the company's chief has to say about
-  🔗 https://www.livemint.com/companies/news/can-ai-outperform-humans-airbnb-chief-brian-chesky-bets-on-bots-replaces-one-third-of-customer-service-staff-11771061235926.html
-
-- Ixigo to acquire majority stake in Spanish train booking platform Trenes for  ₹125 crore
-  The acquisition of Trenes paves the way for ixigo's strategic entry
-  🔗 https://www.livemint.com/companies/news/ixigo-to-acquire-majority-stake-in-spanish-train-booking-platform-trenes-for-rs-125-crore-11771055765130.html
+- Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying BEL shares on February 16
+   Benchmark indices Sensex and Nifty 50 dropped over 1% due to a selloff in metal, IT, and commodity sectors. Disappointing earnings and AI disruption fears added to the negative sentiment
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-bel-shares-on-february-16-11771091470231.html
 
 - White House adviser flags ‘rapidly closing’ window for Clarity Act as midterms loom amid crypto uncertainty, volatility
   The lack of clear guidelines is causing market volatility and hindering adoption. With midterm elections nearing, a White House adviser stressed the need for the Clarity Act.
@@ -75,10 +79,6 @@
 - TCS, Infosys to Wipro: Should you buy the dip after AI-driven sell-off?
   Indian IT majors such as TCS and Infosys recorded significant losses, raising concerns about potential layoffs and weakened balance sheets.
   🔗 https://www.livemint.com/market/stock-market-news/stock-market-crash-stock-market-today-tcs-infosys-to-wipro-should-you-buy-the-dip-after-ai-driven-selloff-11771064932810.html
-
-- Ashish Kacholia portfolio: Forbes EMF-owned stock to be in focus on Monday; here's why
-  Fineotex Chemical shares are expected to be in focus on 16 February 2026 after reporting an 8.23% net profit growth
-  🔗 https://www.livemint.com/market/stock-market-news/ashish-kacholia-portfolio-forbes-emf-owned-stock-to-be-in-focus-on-monday-heres-why-11771059312809.html
 
 - Future of AI is a governance question, not a technology race: Vilas Dhar of Patrick J McGovern Foundation | Interview
   Vilas Dhar is the CEO of the Patrick J McGovern Foundation. The foundation invests in public AI initiatives. Dhar highlights India's unique position to leverage AI for societal benefit.
@@ -100,6 +100,10 @@
   Elon Musk's platform X is implementing new spam and automation detection measures. X Product Head Nikita Bier said that accounts without human interaction will likely be suspended.
   🔗 https://www.livemint.com/technology/tech-news/days-after-ai-spam-warning-x-rolls-out-automation-detection-measures-if-a-human-is-not-tapping-on-the-screen-11771052475202.html
 
+- China's stock bull run falters with corporate earnings set to underwhelm
+  Fourth-quarter pre-announcements from more than 2,000 mainland-listed A-share
+  🔗 https://www.business-standard.com/markets/news/china-s-stock-bull-run-falters-with-corporate-earnings-set-to-underwhelm-126021500034_1.html
+
 - IDFC First Bank allots 14.47 lakh equity shares under ESOS
   
   🔗 https://www.business-standard.com/markets/capital-market-news/idfc-first-bank-allots-14-47-lakh-equity-shares-under-esos-126021401164_1.html
@@ -115,10 +119,6 @@
 - JNK India consolidated net profit rises 540.14% in the December 2025 quarter
   Sales rise
   🔗 https://www.business-standard.com/markets/capital-market-news/jnk-india-consolidated-net-profit-rises-540-14-in-the-december-2025-quarter-126021401145_1.html
-
-- Basilic Fly Studio consolidated net profit rises 19.82% in the December 2025 quarter
-  Sales rise
-  🔗 https://www.business-standard.com/markets/capital-market-news/basilic-fly-studio-consolidated-net-profit-rises-19-82-in-the-december-2025-quarter-126021401144_1.html
 
 - Dalal Street Week Ahead: Protect gains, avoid fresh longs until key levels hold
   Indian markets experienced a negative week, with Nifty closing lower after failing to sustain early gains. While the medium-term uptrend remains, a corrective phase is evident. Investors are advised a cautious, stock-specific approach
@@ -140,85 +140,65 @@
   GMR Airports Ltd. reported a 14% decline in consolidated profit after tax to Rs 173.96 crore for the December 2025 quarter. Despite this, total income surged to Rs 4,082.77 crore.
   🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/gmr-airports-q3-net-profit-falls-to-rs-174-crore/articleshow/128343141.cms
 
-- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
-  India's "Will Take Appropriate Action" Response
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
+- 'Bangladesh 1st': Tarique Rahman's Reply To Query On Ties With India - NDTV
+  'Bangladesh 1st': Tarique
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
 
-- Pakistan Went On Damage-Control Overdrive After Washington's India Map Post - NDTV
-  Pakistan Went On Damage-Control Overdrive
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHE0Q1BXOEdKdC0tNDRWczJyQkpFQWNNRmJ6bHd6TUI3ZjNoZlJFUlRsYlZoZGxpVjAySU9aX05CVGdGTmRFQ3dkN1hDdVdpaE1NdzVVWHVJb2ozWDFJTjFKWmxhVWhZLWZ5Ti04dGg1ZmwwcUJYMklqSk11a2JUNnFsYlRJeW1BSFpWTFJQNDJsdFhocUVyWGNzVDRqdjMyZ1loVDJXU0hZSWRjVnFTZkl2eE9sQdIBvgFBVV95cUxOWXlTY1g3dEgxQXNoV2NQbUJpQzBQSTJwdmc2endPRDVQZWtUYjNCS3M3cXE0UjNEaGVHVlMtQVhVZWFuYkhzNjczVm10RGltNXA3aVc5VmFOQlpNWlJ0RDRtUzFnVHBHWjdKMmVBb0NaRzVyUEFQaWFWckxLZFV0NnJIUU8wTWRTUmlOb1d5R2RJdThJS0JoakFNVlpOYU5PcXhFZWNBT2RPWjJNMEhHLWFnUFdaLUljMFBqcGRn?oc=5
+- 'Interest of our people come first': What BNP chief Tarique Rahman said on Bangladesh's foreign policy on - Times of India
+  'Interest of our people come first': What BNP chief Tarique Rahman said on
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZEh0d3hWNU1qOGdnRUd4ZzVMNk9vRTJSTjFrUHpIeWhFczZPVmVfOVFyOW1kS3NSVloxYWhiaGJzWXVrRWJvZ0xEYm1sSnhyV0Z3UGs3VURzdmRhUkF2c041dXBMYzdUX05hUFcyVE14SmtpS2xHaDhsbDZDWmdqa1RYSnM3aDhfTmxFTnBfZjNkN1NwQnBNMkxpZ1NiODFmNWhrU19Vd2V2MFg5a0g4YjhNZWdoS0xOT0Z3U05nbUFDeDB3cTVwYmZ3bmRnRkRtYVBwa3ByVzhmTHRQWjlaempkR2Q3aEVRbEwyTkZJTVc5YW9ieEI5VUxqTnpiLUHSAYQCQVVfeXFMTVM0UU84ZHFPMjN3ZTBvSXJUSEN0dnl5QTVkQXc1aTZoNGQ2N0ZJbWZuRGVxYWxobmpvUTRrOHEyVGQ3a1VMRmpUU3Q3ZGVNZDlxN3ZzMm5HT19OLVlNYVJzU2tsMTJfaVZ3b3k1RHVLNUJTemR0TjFmVTJJLTFvdFpnWV9GMWd5NUR2dzd0cTNsOENWWlNVTlZaUWxNTDl6Sm83ZlFIZ3hqWW9KTXEtbDBFd0pEZHYzeFQyUGR6MFZRVWRTNHlHRndIc3hmWS1penYzdkExYk5kc3FmTm45ajdlNGlzNm9mTlUyZFZuMFVkd0tDYUpka3pHX0w5TVZBVGd2azc?oc=5
 
-- Rekha Gupta inaugurates 120 mist spray systems at Delhi airport - Times of India
-  Rekha Gupta inaugurates 120 mist spray
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOeTlSdDBZUnFBSmdwMkM0a2xSaXcyREFHT2lOTDloeTZSVWlST3g0MWdVN2RkSTBXVDNJNU0xVjRJX3VDbmxwVEgtN3BEYmNsX3pDZEhzZERIQzk1bm84Rm0yLW1YaS12RVhBX1R5VmRFdllUVDRhcEdBTlY3OXlUdVh3RnBrRzhkaUVWT3YwOVNkN29JSkdORGQ1YXBROHVBSnNFS3dsY01PVGtGcjY0Z19YQl9Pam9Fa0FDejRlYkVfNnFmQ21LNGN1UdIB0AFBVV95cUxOaGd6NU5IZ29BWnRzRFRFQ2E3eDFCb20tbUJ0RjcyVXdFV1dPcHJnR3hwN1BQemtnY2ZKOXRGRllrMk55dzN5TG5oZGxyemhIdTRGblk5TDYtU1ZxU2N0eENYYlFPMHIxUDR1TkM3cXNtUG1tanlCZG1UUDNtdGp2M2YwUkplX0dPdFNHNW9DdzFLamE3LV90cDhUU1BoQlZHY29tRTFrSXczTnZaV2NZeDFXVl9IZGd6M1JadEJRLXMxLXl3dnRrS21pRHZDMWFE?oc=5
+- Bangladesh invites Modi to attend Tarique Rahman’s swearing-in ceremony | India News - Hindustan Times
+  Bangladesh invites Modi to attend Tarique Rahman�
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPVUhKZGpScE9PVXY5QjJEZkZHLUtLdXRncEswbW1zWUVzQ29IS0lEMDJGYVBWTlpNd2xLci1LdUhvOTFYUzM1LUNOZmM4UXVkd2tYc09IUjhqQ1JBYk42RVZlQkhiUk0ydC12OWkxb0QtVkw5UkxwOEVPOVhmWmVoRWV6dWhTZGdsTXRyRTY2bVBURXc4eU1IbzlTSWR0Sm5lYkhoMWM2X0szQlpkVlJCS2VrMWN2WjVrWkpiZ3pfbDc3VzgzVjlGMHY4d0l1d3fSAdQBQVVfeXFMTzNxdFgtbkFaZWoxQlgwUy1Ec2FjV2JBWC1Pazh4aUJ4dHJwbm5zOGVMSGNaSFo5eE8xR1BNN19UVGtCcElFbGVtYVNyWUpsanAybGpIRGMyblBIVENnMWZjYVJ4c241NmRoVnUzNkE1eGcyVTZ6T2NXX0xfallFeDlMaXZhNVcwWTFtU3FJYUZSUkdlUjI4TENGMmNXaDZzOGF6MGVOdjVFalVpUFd1ZFlqc3h4VmxaVzc1QXNfU3IxRWMzY3huUmk5RkVjd1VsVGZoU1c?oc=5
 
-- How India Plans To Rebuild Bangladesh Ties After BNP's Landslide Victory - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmNjbl9UblI0MV85MENXVmozVjZRZmtHb1h3NVBhNEtjM1puaklxdWQ4LUtXMUtGZU8xSVpvZW9MaUVMZG1UQV9hbzRJVjFSMlM1RWtacmZ3MXBRUk1EMkxwZUVCc2x0TE
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmNjbl9UblI0MV85MENXVmozVjZRZmtHb1h3NVBhNEtjM1puaklxdWQ4LUtXMUtGZU8xSVpvZW9MaUVMZG1UQV9hbzRJVjFSMlM1RWtacmZ3MXBRUk1EMkxwZUVCc2x0TEFFbm5UcWRhWXFsRTV3a1h5Sl9vRXpNUHdmNHR6eXJTdXZQMDgzUmNRREgtYlU2SkQ3SzVMRDlJRHBRNmppZDNYWEtmUXhLWUQzclhaRFZVMUpxanZTWVBsTGk10gHMAUFVX3lxTE0xY2diY3M5QUtEUGJsRkktbF9RUVhMcmVyVFBaWFZ6Wm1Cczl5VTZySkFCWFFLUWQyZndDTjlmdXBYTjRPMEpTTC1RMHdDTW1SY3hIbmV4VGxJeVBHbm1oZktmN3NpN0dScGREVDdSWnhicnJBS0RiYXl6R3pVOWpfdWROYnpKWGtSM3VnX3Voa0ZLU09wMzdQYnJPbzAyejd5ZlJ2RDNBTURhcjFXRGY2WWROTUNBMHhnWFdhdzlTSG9kSFFsalZGdkp4OA?oc=5
+- No annual Rera reports in 75% of states: Forum - Times of India
+  No annual Rera reports in 75% of
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNQzRQY3gtQjFjOVNnSTRSQU04VFUwYWZoWGJlcW5hckVqTGhxTGwwSUpIZ0RzVUVhcTczTk0yR0NVQkl1Z1c5U29MamlCU01DSkQ2c29VTVJBZHB2azZJaUdZeHd5WXNOUkNDekptSnpGTXE1Ui1wb0tkTmFHTzZIR0I1bVpUZHFtQ1FMX2xrdGltZ3A4ckpJRXRBUTVaY3g1VW15X25weXd6ZWtpbXFlVDZB0gG3AUFVX3lxTE9CcjA3Z21TS3h0bXV1M2FQOW1qaUdTUDdWaDFPWjdyQ29iWXpQV3o2SVpDelF0ZERSTXhET3dlaHQ1ZnNhMnMwMUVwMk5UbEFHX21seWk4S0VQbkFHZzN2RnZCRENYWGkwdy1UdGpIMW1rUTlNRjNISi1rZGJwUnJXYTFRZEZDblNueVkxZXN4ZldFVXQ2bG9XVXpsVUhnQVpxa0pRREp0eWlKSHVJTmlqZGtWQkJEaw?oc=5
 
-- India Boosts Climate Action Outlay, Says FM Sitharaman in Munich - News on Air
-  India Boosts Climate Action Outlay, Says FM
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOYUhlcXRwTnU5b1JxRmRWRGp4Y2hOXzhfMXBZS29qNUZOdW1oeFZDOEZORmF3RzBPTXUtbVE5Y1gzb1JmU3NKNGd0ZjBGcEVGaFFxWU5XQm8wZkROMURta0RsUTBicE93bU9aMGNVc3BxOERGNldQeUUyZEVFTllpYXV1V0EydlAzZi1wQ1RNTHUydF9BVW1scQ?oc=5
+- ICC Men’s T-20 Cricket World Cup 2026: India to take on arch-rivals Pakistan today - News on Air
+  ICC Men's T-20 Cricket World Cup 2026: India
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEd3bE9wOEc4YnJXSk5TR2RmUTV6RjdoRXVmVHJPOUlvV0xIa2N5TUR3dVZZaGsyMnQ3blQ0MGZCOVBkanQ3cVNCdTNiZnNKa3lrVzM3azJqZE82VV9LYjRJTFJKWGVWVXJDbUFzSzlQUUhhdVpxQkxZTTRrejVMSGY3NG9PMTk4b2ZIY2docXZuODhFekwwd3hZYWQwME96dXJaTnBDZENpdXVLQjFz?oc=5
 
-- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
-  India's "Will Take Appropriate Action" Response
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
+- 'Bangladesh 1st': Tarique Rahman's Reply To Query On Ties With India - NDTV
+  'Bangladesh 1st': Tarique
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
 
-- Pakistan Went On Damage-Control Overdrive After Washington's India Map Post - NDTV
-  Pakistan Went On Damage-Control Overdrive
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHE0Q1BXOEdKdC0tNDRWczJyQkpFQWNNRmJ6bHd6TUI3ZjNoZlJFUlRsYlZoZGxpVjAySU9aX05CVGdGTmRFQ3dkN1hDdVdpaE1NdzVVWHVJb2ozWDFJTjFKWmxhVWhZLWZ5Ti04dGg1ZmwwcUJYMklqSk11a2JUNnFsYlRJeW1BSFpWTFJQNDJsdFhocUVyWGNzVDRqdjMyZ1loVDJXU0hZSWRjVnFTZkl2eE9sQdIBvgFBVV95cUxOWXlTY1g3dEgxQXNoV2NQbUJpQzBQSTJwdmc2endPRDVQZWtUYjNCS3M3cXE0UjNEaGVHVlMtQVhVZWFuYkhzNjczVm10RGltNXA3aVc5VmFOQlpNWlJ0RDRtUzFnVHBHWjdKMmVBb0NaRzVyUEFQaWFWckxLZFV0NnJIUU8wTWRTUmlOb1d5R2RJdThJS0JoakFNVlpOYU5PcXhFZWNBT2RPWjJNMEhHLWFnUFdaLUljMFBqcGRn?oc=5
+- 'Interest of our people come first': What BNP chief Tarique Rahman said on Bangladesh's foreign policy on - Times of India
+  'Interest of our people come first': What BNP chief Tarique Rahman said on
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZEh0d3hWNU1qOGdnRUd4ZzVMNk9vRTJSTjFrUHpIeWhFczZPVmVfOVFyOW1kS3NSVloxYWhiaGJzWXVrRWJvZ0xEYm1sSnhyV0Z3UGs3VURzdmRhUkF2c041dXBMYzdUX05hUFcyVE14SmtpS2xHaDhsbDZDWmdqa1RYSnM3aDhfTmxFTnBfZjNkN1NwQnBNMkxpZ1NiODFmNWhrU19Vd2V2MFg5a0g4YjhNZWdoS0xOT0Z3U05nbUFDeDB3cTVwYmZ3bmRnRkRtYVBwa3ByVzhmTHRQWjlaempkR2Q3aEVRbEwyTkZJTVc5YW9ieEI5VUxqTnpiLUHSAYQCQVVfeXFMTVM0UU84ZHFPMjN3ZTBvSXJUSEN0dnl5QTVkQXc1aTZoNGQ2N0ZJbWZuRGVxYWxobmpvUTRrOHEyVGQ3a1VMRmpUU3Q3ZGVNZDlxN3ZzMm5HT19OLVlNYVJzU2tsMTJfaVZ3b3k1RHVLNUJTemR0TjFmVTJJLTFvdFpnWV9GMWd5NUR2dzd0cTNsOENWWlNVTlZaUWxNTDl6Sm83ZlFIZ3hqWW9KTXEtbDBFd0pEZHYzeFQyUGR6MFZRVWRTNHlHRndIc3hmWS1penYzdkExYk5kc3FmTm45ajdlNGlzNm9mTlUyZFZuMFVkd0tDYUpka3pHX0w5TVZBVGd2azc?oc=5
 
-- Rekha Gupta inaugurates 120 mist spray systems at Delhi airport - Times of India
-  Rekha Gupta inaugurates 120 mist spray
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOeTlSdDBZUnFBSmdwMkM0a2xSaXcyREFHT2lOTDloeTZSVWlST3g0MWdVN2RkSTBXVDNJNU0xVjRJX3VDbmxwVEgtN3BEYmNsX3pDZEhzZERIQzk1bm84Rm0yLW1YaS12RVhBX1R5VmRFdllUVDRhcEdBTlY3OXlUdVh3RnBrRzhkaUVWT3YwOVNkN29JSkdORGQ1YXBROHVBSnNFS3dsY01PVGtGcjY0Z19YQl9Pam9Fa0FDejRlYkVfNnFmQ21LNGN1UdIB0AFBVV95cUxOaGd6NU5IZ29BWnRzRFRFQ2E3eDFCb20tbUJ0RjcyVXdFV1dPcHJnR3hwN1BQemtnY2ZKOXRGRllrMk55dzN5TG5oZGxyemhIdTRGblk5TDYtU1ZxU2N0eENYYlFPMHIxUDR1TkM3cXNtUG1tanlCZG1UUDNtdGp2M2YwUkplX0dPdFNHNW9DdzFLamE3LV90cDhUU1BoQlZHY29tRTFrSXczTnZaV2NZeDFXVl9IZGd6M1JadEJRLXMxLXl3dnRrS21pRHZDMWFE?oc=5
+- Bangladesh invites Modi to attend Tarique Rahman’s swearing-in ceremony | India News - Hindustan Times
+  Bangladesh invites Modi to attend Tarique Rahman�
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPVUhKZGpScE9PVXY5QjJEZkZHLUtLdXRncEswbW1zWUVzQ29IS0lEMDJGYVBWTlpNd2xLci1LdUhvOTFYUzM1LUNOZmM4UXVkd2tYc09IUjhqQ1JBYk42RVZlQkhiUk0ydC12OWkxb0QtVkw5UkxwOEVPOVhmWmVoRWV6dWhTZGdsTXRyRTY2bVBURXc4eU1IbzlTSWR0Sm5lYkhoMWM2X0szQlpkVlJCS2VrMWN2WjVrWkpiZ3pfbDc3VzgzVjlGMHY4d0l1d3fSAdQBQVVfeXFMTzNxdFgtbkFaZWoxQlgwUy1Ec2FjV2JBWC1Pazh4aUJ4dHJwbm5zOGVMSGNaSFo5eE8xR1BNN19UVGtCcElFbGVtYVNyWUpsanAybGpIRGMyblBIVENnMWZjYVJ4c241NmRoVnUzNkE1eGcyVTZ6T2NXX0xfallFeDlMaXZhNVcwWTFtU3FJYUZSUkdlUjI4TENGMmNXaDZzOGF6MGVOdjVFalVpUFd1ZFlqc3h4VmxaVzc1QXNfU3IxRWMzY3huUmk5RkVjd1VsVGZoU1c?oc=5
 
-- How India Plans To Rebuild Bangladesh Ties After BNP's Landslide Victory - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmNjbl9UblI0MV85MENXVmozVjZRZmtHb1h3NVBhNEtjM1puaklxdWQ4LUtXMUtGZU8xSVpvZW9MaUVMZG1UQV9hbzRJVjFSMlM1RWtacmZ3MXBRUk1EMkxwZUVCc2x0TE
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmNjbl9UblI0MV85MENXVmozVjZRZmtHb1h3NVBhNEtjM1puaklxdWQ4LUtXMUtGZU8xSVpvZW9MaUVMZG1UQV9hbzRJVjFSMlM1RWtacmZ3MXBRUk1EMkxwZUVCc2x0TEFFbm5UcWRhWXFsRTV3a1h5Sl9vRXpNUHdmNHR6eXJTdXZQMDgzUmNRREgtYlU2SkQ3SzVMRDlJRHBRNmppZDNYWEtmUXhLWUQzclhaRFZVMUpxanZTWVBsTGk10gHMAUFVX3lxTE0xY2diY3M5QUtEUGJsRkktbF9RUVhMcmVyVFBaWFZ6Wm1Cczl5VTZySkFCWFFLUWQyZndDTjlmdXBYTjRPMEpTTC1RMHdDTW1SY3hIbmV4VGxJeVBHbm1oZktmN3NpN0dScGREVDdSWnhicnJBS0RiYXl6R3pVOWpfdWROYnpKWGtSM3VnX3Voa0ZLU09wMzdQYnJPbzAyejd5ZlJ2RDNBTURhcjFXRGY2WWROTUNBMHhnWFdhdzlTSG9kSFFsalZGdkp4OA?oc=5
+- No annual Rera reports in 75% of states: Forum - Times of India
+  No annual Rera reports in 75% of
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNQzRQY3gtQjFjOVNnSTRSQU04VFUwYWZoWGJlcW5hckVqTGhxTGwwSUpIZ0RzVUVhcTczTk0yR0NVQkl1Z1c5U29MamlCU01DSkQ2c29VTVJBZHB2azZJaUdZeHd5WXNOUkNDekptSnpGTXE1Ui1wb0tkTmFHTzZIR0I1bVpUZHFtQ1FMX2xrdGltZ3A4ckpJRXRBUTVaY3g1VW15X25weXd6ZWtpbXFlVDZB0gG3AUFVX3lxTE9CcjA3Z21TS3h0bXV1M2FQOW1qaUdTUDdWaDFPWjdyQ29iWXpQV3o2SVpDelF0ZERSTXhET3dlaHQ1ZnNhMnMwMUVwMk5UbEFHX21seWk4S0VQbkFHZzN2RnZCRENYWGkwdy1UdGpIMW1rUTlNRjNISi1rZGJwUnJXYTFRZEZDblNueVkxZXN4ZldFVXQ2bG9XVXpsVUhnQVpxa0pRREp0eWlKSHVJTmlqZGtWQkJEaw?oc=5
 
-- India Boosts Climate Action Outlay, Says FM Sitharaman in Munich - News on Air
-  India Boosts Climate Action Outlay, Says FM
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOYUhlcXRwTnU5b1JxRmRWRGp4Y2hOXzhfMXBZS29qNUZOdW1oeFZDOEZORmF3RzBPTXUtbVE5Y1gzb1JmU3NKNGd0ZjBGcEVGaFFxWU5XQm8wZkROMURta0RsUTBicE93bU9aMGNVc3BxOERGNldQeUUyZEVFTllpYXV1V0EydlAzZi1wQ1RNTHUydF9BVW1scQ?oc=5
+- ICC Men’s T-20 Cricket World Cup 2026: India to take on arch-rivals Pakistan today - News on Air
+  ICC Men's T-20 Cricket World Cup 2026: India
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEd3bE9wOEc4YnJXSk5TR2RmUTV6RjdoRXVmVHJPOUlvV0xIa2N5TUR3dVZZaGsyMnQ3blQ0MGZCOVBkanQ3cVNCdTNiZnNKa3lrVzM3azJqZE82VV9LYjRJTFJKWGVWVXJDbUFzSzlQUUhhdVpxQkxZTTRrejVMSGY3NG9PMTk4b2ZIY2docXZuODhFekwwd3hZYWQwME96dXJaTnBDZENpdXVLQjFz?oc=5
 
-- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
-  India's "Will Take Appropriate Action" Response
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
+- 'Bangladesh 1st': Tarique Rahman's Reply To Query On Ties With India - NDTV
+  'Bangladesh 1st': Tarique
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
 
-- Pakistan Went On Damage-Control Overdrive After Washington's India Map Post - NDTV
-  Pakistan Went On Damage-Control Overdrive
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHE0Q1BXOEdKdC0tNDRWczJyQkpFQWNNRmJ6bHd6TUI3ZjNoZlJFUlRsYlZoZGxpVjAySU9aX05CVGdGTmRFQ3dkN1hDdVdpaE1NdzVVWHVJb2ozWDFJTjFKWmxhVWhZLWZ5Ti04dGg1ZmwwcUJYMklqSk11a2JUNnFsYlRJeW1BSFpWTFJQNDJsdFhocUVyWGNzVDRqdjMyZ1loVDJXU0hZSWRjVnFTZkl2eE9sQdIBvgFBVV95cUxOWXlTY1g3dEgxQXNoV2NQbUJpQzBQSTJwdmc2endPRDVQZWtUYjNCS3M3cXE0UjNEaGVHVlMtQVhVZWFuYkhzNjczVm10RGltNXA3aVc5VmFOQlpNWlJ0RDRtUzFnVHBHWjdKMmVBb0NaRzVyUEFQaWFWckxLZFV0NnJIUU8wTWRTUmlOb1d5R2RJdThJS0JoakFNVlpOYU5PcXhFZWNBT2RPWjJNMEhHLWFnUFdaLUljMFBqcGRn?oc=5
+- 'Interest of our people come first': What BNP chief Tarique Rahman said on Bangladesh's foreign policy on - Times of India
+  'Interest of our people come first': What BNP chief Tarique Rahman said on
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZEh0d3hWNU1qOGdnRUd4ZzVMNk9vRTJSTjFrUHpIeWhFczZPVmVfOVFyOW1kS3NSVloxYWhiaGJzWXVrRWJvZ0xEYm1sSnhyV0Z3UGs3VURzdmRhUkF2c041dXBMYzdUX05hUFcyVE14SmtpS2xHaDhsbDZDWmdqa1RYSnM3aDhfTmxFTnBfZjNkN1NwQnBNMkxpZ1NiODFmNWhrU19Vd2V2MFg5a0g4YjhNZWdoS0xOT0Z3U05nbUFDeDB3cTVwYmZ3bmRnRkRtYVBwa3ByVzhmTHRQWjlaempkR2Q3aEVRbEwyTkZJTVc5YW9ieEI5VUxqTnpiLUHSAYQCQVVfeXFMTVM0UU84ZHFPMjN3ZTBvSXJUSEN0dnl5QTVkQXc1aTZoNGQ2N0ZJbWZuRGVxYWxobmpvUTRrOHEyVGQ3a1VMRmpUU3Q3ZGVNZDlxN3ZzMm5HT19OLVlNYVJzU2tsMTJfaVZ3b3k1RHVLNUJTemR0TjFmVTJJLTFvdFpnWV9GMWd5NUR2dzd0cTNsOENWWlNVTlZaUWxNTDl6Sm83ZlFIZ3hqWW9KTXEtbDBFd0pEZHYzeFQyUGR6MFZRVWRTNHlHRndIc3hmWS1penYzdkExYk5kc3FmTm45ajdlNGlzNm9mTlUyZFZuMFVkd0tDYUpka3pHX0w5TVZBVGd2azc?oc=5
 
-- Rekha Gupta inaugurates 120 mist spray systems at Delhi airport - Times of India
-  Rekha Gupta inaugurates 120 mist spray
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOeTlSdDBZUnFBSmdwMkM0a2xSaXcyREFHT2lOTDloeTZSVWlST3g0MWdVN2RkSTBXVDNJNU0xVjRJX3VDbmxwVEgtN3BEYmNsX3pDZEhzZERIQzk1bm84Rm0yLW1YaS12RVhBX1R5VmRFdllUVDRhcEdBTlY3OXlUdVh3RnBrRzhkaUVWT3YwOVNkN29JSkdORGQ1YXBROHVBSnNFS3dsY01PVGtGcjY0Z19YQl9Pam9Fa0FDejRlYkVfNnFmQ21LNGN1UdIB0AFBVV95cUxOaGd6NU5IZ29BWnRzRFRFQ2E3eDFCb20tbUJ0RjcyVXdFV1dPcHJnR3hwN1BQemtnY2ZKOXRGRllrMk55dzN5TG5oZGxyemhIdTRGblk5TDYtU1ZxU2N0eENYYlFPMHIxUDR1TkM3cXNtUG1tanlCZG1UUDNtdGp2M2YwUkplX0dPdFNHNW9DdzFLamE3LV90cDhUU1BoQlZHY29tRTFrSXczTnZaV2NZeDFXVl9IZGd6M1JadEJRLXMxLXl3dnRrS21pRHZDMWFE?oc=5
+- Bangladesh invites Modi to attend Tarique Rahman’s swearing-in ceremony | India News - Hindustan Times
+  Bangladesh invites Modi to attend Tarique Rahman�
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPVUhKZGpScE9PVXY5QjJEZkZHLUtLdXRncEswbW1zWUVzQ29IS0lEMDJGYVBWTlpNd2xLci1LdUhvOTFYUzM1LUNOZmM4UXVkd2tYc09IUjhqQ1JBYk42RVZlQkhiUk0ydC12OWkxb0QtVkw5UkxwOEVPOVhmWmVoRWV6dWhTZGdsTXRyRTY2bVBURXc4eU1IbzlTSWR0Sm5lYkhoMWM2X0szQlpkVlJCS2VrMWN2WjVrWkpiZ3pfbDc3VzgzVjlGMHY4d0l1d3fSAdQBQVVfeXFMTzNxdFgtbkFaZWoxQlgwUy1Ec2FjV2JBWC1Pazh4aUJ4dHJwbm5zOGVMSGNaSFo5eE8xR1BNN19UVGtCcElFbGVtYVNyWUpsanAybGpIRGMyblBIVENnMWZjYVJ4c241NmRoVnUzNkE1eGcyVTZ6T2NXX0xfallFeDlMaXZhNVcwWTFtU3FJYUZSUkdlUjI4TENGMmNXaDZzOGF6MGVOdjVFalVpUFd1ZFlqc3h4VmxaVzc1QXNfU3IxRWMzY3huUmk5RkVjd1VsVGZoU1c?oc=5
 
-- How India Plans To Rebuild Bangladesh Ties After BNP's Landslide Victory - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmNjbl9UblI0MV85MENXVmozVjZRZmtHb1h3NVBhNEtjM1puaklxdWQ4LUtXMUtGZU8xSVpvZW9MaUVMZG1UQV9hbzRJVjFSMlM1RWtacmZ3MXBRUk1EMkxwZUVCc2x0TE
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmNjbl9UblI0MV85MENXVmozVjZRZmtHb1h3NVBhNEtjM1puaklxdWQ4LUtXMUtGZU8xSVpvZW9MaUVMZG1UQV9hbzRJVjFSMlM1RWtacmZ3MXBRUk1EMkxwZUVCc2x0TEFFbm5UcWRhWXFsRTV3a1h5Sl9vRXpNUHdmNHR6eXJTdXZQMDgzUmNRREgtYlU2SkQ3SzVMRDlJRHBRNmppZDNYWEtmUXhLWUQzclhaRFZVMUpxanZTWVBsTGk10gHMAUFVX3lxTE0xY2diY3M5QUtEUGJsRkktbF9RUVhMcmVyVFBaWFZ6Wm1Cczl5VTZySkFCWFFLUWQyZndDTjlmdXBYTjRPMEpTTC1RMHdDTW1SY3hIbmV4VGxJeVBHbm1oZktmN3NpN0dScGREVDdSWnhicnJBS0RiYXl6R3pVOWpfdWROYnpKWGtSM3VnX3Voa0ZLU09wMzdQYnJPbzAyejd5ZlJ2RDNBTURhcjFXRGY2WWROTUNBMHhnWFdhdzlTSG9kSFFsalZGdkp4OA?oc=5
+- No annual Rera reports in 75% of states: Forum - Times of India
+  No annual Rera reports in 75% of
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNQzRQY3gtQjFjOVNnSTRSQU04VFUwYWZoWGJlcW5hckVqTGhxTGwwSUpIZ0RzVUVhcTczTk0yR0NVQkl1Z1c5U29MamlCU01DSkQ2c29VTVJBZHB2azZJaUdZeHd5WXNOUkNDekptSnpGTXE1Ui1wb0tkTmFHTzZIR0I1bVpUZHFtQ1FMX2xrdGltZ3A4ckpJRXRBUTVaY3g1VW15X25weXd6ZWtpbXFlVDZB0gG3AUFVX3lxTE9CcjA3Z21TS3h0bXV1M2FQOW1qaUdTUDdWaDFPWjdyQ29iWXpQV3o2SVpDelF0ZERSTXhET3dlaHQ1ZnNhMnMwMUVwMk5UbEFHX21seWk4S0VQbkFHZzN2RnZCRENYWGkwdy1UdGpIMW1rUTlNRjNISi1rZGJwUnJXYTFRZEZDblNueVkxZXN4ZldFVXQ2bG9XVXpsVUhnQVpxa0pRREp0eWlKSHVJTmlqZGtWQkJEaw?oc=5
 
-- India Boosts Climate Action Outlay, Says FM Sitharaman in Munich - News on Air
-  India Boosts Climate Action Outlay, Says FM
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOYUhlcXRwTnU5b1JxRmRWRGp4Y2hOXzhfMXBZS29qNUZOdW1oeFZDOEZORmF3RzBPTXUtbVE5Y1gzb1JmU3NKNGd0ZjBGcEVGaFFxWU5XQm8wZkROMURta0RsUTBicE93bU9aMGNVc3BxOERGNldQeUUyZEVFTllpYXV1V0EydlAzZi1wQ1RNTHUydF9BVW1scQ?oc=5
-
-- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
-  India's "Will Take Appropriate Action" Response
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
-
-- Pakistan Went On Damage-Control Overdrive After Washington's India Map Post - NDTV
-  Pakistan Went On Damage-Control Overdrive
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHE0Q1BXOEdKdC0tNDRWczJyQkpFQWNNRmJ6bHd6TUI3ZjNoZlJFUlRsYlZoZGxpVjAySU9aX05CVGdGTmRFQ3dkN1hDdVdpaE1NdzVVWHVJb2ozWDFJTjFKWmxhVWhZLWZ5Ti04dGg1ZmwwcUJYMklqSk11a2JUNnFsYlRJeW1BSFpWTFJQNDJsdFhocUVyWGNzVDRqdjMyZ1loVDJXU0hZSWRjVnFTZkl2eE9sQdIBvgFBVV95cUxOWXlTY1g3dEgxQXNoV2NQbUJpQzBQSTJwdmc2endPRDVQZWtUYjNCS3M3cXE0UjNEaGVHVlMtQVhVZWFuYkhzNjczVm10RGltNXA3aVc5VmFOQlpNWlJ0RDRtUzFnVHBHWjdKMmVBb0NaRzVyUEFQaWFWckxLZFV0NnJIUU8wTWRTUmlOb1d5R2RJdThJS0JoakFNVlpOYU5PcXhFZWNBT2RPWjJNMEhHLWFnUFdaLUljMFBqcGRn?oc=5
-
-- Rekha Gupta inaugurates 120 mist spray systems at Delhi airport - Times of India
-  Rekha Gupta inaugurates 120 mist spray
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOeTlSdDBZUnFBSmdwMkM0a2xSaXcyREFHT2lOTDloeTZSVWlST3g0MWdVN2RkSTBXVDNJNU0xVjRJX3VDbmxwVEgtN3BEYmNsX3pDZEhzZERIQzk1bm84Rm0yLW1YaS12RVhBX1R5VmRFdllUVDRhcEdBTlY3OXlUdVh3RnBrRzhkaUVWT3YwOVNkN29JSkdORGQ1YXBROHVBSnNFS3dsY01PVGtGcjY0Z19YQl9Pam9Fa0FDejRlYkVfNnFmQ21LNGN1UdIB0AFBVV95cUxOaGd6NU5IZ29BWnRzRFRFQ2E3eDFCb20tbUJ0RjcyVXdFV1dPcHJnR3hwN1BQemtnY2ZKOXRGRllrMk55dzN5TG5oZGxyemhIdTRGblk5TDYtU1ZxU2N0eENYYlFPMHIxUDR1TkM3cXNtUG1tanlCZG1UUDNtdGp2M2YwUkplX0dPdFNHNW9DdzFLamE3LV90cDhUU1BoQlZHY29tRTFrSXczTnZaV2NZeDFXVl9IZGd6M1JadEJRLXMxLXl3dnRrS21pRHZDMWFE?oc=5
-
-- How India Plans To Rebuild Bangladesh Ties After BNP's Landslide Victory - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmNjbl9UblI0MV85MENXVmozVjZRZmtHb1h3NVBhNEtjM1puaklxdWQ4LUtXMUtGZU8xSVpvZW9MaUVMZG1UQV9hbzRJVjFSMlM1RWtacmZ3MXBRUk1EMkxwZUVCc2x0TE
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmNjbl9UblI0MV85MENXVmozVjZRZmtHb1h3NVBhNEtjM1puaklxdWQ4LUtXMUtGZU8xSVpvZW9MaUVMZG1UQV9hbzRJVjFSMlM1RWtacmZ3MXBRUk1EMkxwZUVCc2x0TEFFbm5UcWRhWXFsRTV3a1h5Sl9vRXpNUHdmNHR6eXJTdXZQMDgzUmNRREgtYlU2SkQ3SzVMRDlJRHBRNmppZDNYWEtmUXhLWUQzclhaRFZVMUpxanZTWVBsTGk10gHMAUFVX3lxTE0xY2diY3M5QUtEUGJsRkktbF9RUVhMcmVyVFBaWFZ6Wm1Cczl5VTZySkFCWFFLUWQyZndDTjlmdXBYTjRPMEpTTC1RMHdDTW1SY3hIbmV4VGxJeVBHbm1oZktmN3NpN0dScGREVDdSWnhicnJBS0RiYXl6R3pVOWpfdWROYnpKWGtSM3VnX3Voa0ZLU09wMzdQYnJPbzAyejd5ZlJ2RDNBTURhcjFXRGY2WWROTUNBMHhnWFdhdzlTSG9kSFFsalZGdkp4OA?oc=5
-
-- India Boosts Climate Action Outlay, Says FM Sitharaman in Munich - News on Air
-  India Boosts Climate Action Outlay, Says FM
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOYUhlcXRwTnU5b1JxRmRWRGp4Y2hOXzhfMXBZS29qNUZOdW1oeFZDOEZORmF3RzBPTXUtbVE5Y1gzb1JmU3NKNGd0ZjBGcEVGaFFxWU5XQm8wZkROMURta0RsUTBicE93bU9aMGNVc3BxOERGNldQeUUyZEVFTllpYXV1V0EydlAzZi1wQ1RNTHUydF9BVW1scQ?oc=5
+- ICC Men’s T-20 Cricket World Cup 2026: India to take on arch-rivals Pakistan today - News on Air
+  ICC Men's T-20 Cricket World Cup 2026: India
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEd3bE9wOEc4YnJXSk5TR2RmUTV6RjdoRXVmVHJPOUlvV0xIa2N5TUR3dVZZaGsyMnQ3blQ0MGZCOVBkanQ3cVNCdTNiZnNKa3lrVzM3azJqZE82VV9LYjRJTFJKWGVWVXJDbUFzSzlQUUhhdVpxQkxZTTRrejVMSGY3NG9PMTk4b2ZIY2docXZuODhFekwwd3hZYWQwME96dXJaTnBDZENpdXVLQjFz?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-14 18:32:01 UTC_
+_Last updated: 2026-02-15 01:53:59 UTC_
