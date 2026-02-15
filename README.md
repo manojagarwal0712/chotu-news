@@ -1,26 +1,26 @@
 # 📰 Daily News Summaries
 
+- Pinarayi Vijayan will be CM again, predicts Congress’s Mani Shankar Aiyar as he hails Kerala’s CPM govt
+  
+  🔗 https://indianexpress.com/article/india/mani-shankar-aiyar-kerala-pinarayi-vijayan-cm-prediction-panchayati-raj-congress-furore-10533938/
+
+- Mumbai-Ahmedabad bullet train fares proposed to be competitive with existing Rail, Air travel: Ashwini Vaishnaw
+  
+  🔗 https://indianexpress.com/article/india/mumbai-ahmedabad-bullet-train-fares-to-be-competitive-with-existing-rail-air-travel-ashwini-vaishnaw-10533807/
+
+- Betrayal of farmers, trade deal gives US long-term grip on our agri system: Rahul Gandhi
+  
+  🔗 https://indianexpress.com/article/india/rahul-gandhi-us-trade-deal-farmers-agri-system-10533853/
+
+- Udaipur-Asarva Vande Bharat train: IRCTC opens ticket booking – check fare, stops and speed
+  
+  🔗 https://indianexpress.com/article/india/udaipur-asarva-vande-bharat-train-irctc-opens-ticket-booking-fare-stops-speed-10533715/
+
 - Lok Sabha Speaker Om Birla to represent India as Tarique Rahman takes oath as Bangladesh PM
   
   🔗 https://indianexpress.com/article/india/om-birla-india-tarique-rahman-swearing-in-ceremony-bangladesh-bnp-modi-10533577/
 
-- 120 days after he died in Saudi shootout, migrant worker’s body back in India; but his family is not yet ready to accept the remains
-  
-  🔗 https://indianexpress.com/article/india/saudi-shootout-migrant-worker-body-family-remains-10533501/
-
-- Vande Bharat Express: A timeline of the train service as it turns 7 today
-  
-  🔗 https://indianexpress.com/article/india/vande-bharat-express-a-timeline-of-the-train-service-as-it-turns-7-today-10533332/
-
-- Railways conducts 160 kmph Kavach trial on Dadri-Tundla section using Vande Bharat rake
-  
-  🔗 https://indianexpress.com/article/india/railways-conducts-160-kmph-kavach-trial-dadri-tundla-section-using-vande-bharat-rake-10532703/
-
-- ‘I only see losses’: Omar warns of threat to Kashmir’s fruit growers from new Indo-US trade deal
-  
-  🔗 https://indianexpress.com/article/india/i-only-see-losses-omar-warns-of-threat-to-kashmirs-fruit-growers-from-new-indo-us-trade-deal-10532697/
-
-- AI Impact Summit 2026: Full guide to dates, venue, and agenda; How to register
+- AI Impact Summit 2026: Full guide to dates, time, venue, and agenda; How to register
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-impact-summit-2026-dates-venue-how-to-attend-10533465/
 
@@ -60,6 +60,18 @@
   The Pentagon is considering cutting ties with AI firm Anthropic due to disagreements over military use limitations of its models. Anthropic's $200 million contract could be
   🔗 https://www.livemint.com/companies/news/anthropic-pentagon-may-cut-contract-oppose-all-lawful-purposes-claude-ai-model-military-autonomous-weapons-surveillance-11771124122716.html
 
+- Wall Street Week Ahead: Market braces for Fed minutes, PCE inflation, Q4 GDP, personal income &amp; spending data
+   Walmart, Alibaba and Palo Alto Networks are among the major companies to report fourth
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-market-braces-for-fed-minutes-pce-inflation-q4-gdp-personal-income-spending-data-11771170861984.html
+
+- Dividend Stocks: HAL, IRCTC, Torrent Power, Coal India, among others to trade ex-dividend next week; Full list here
+  HAL, IRCTC, Torrent Power, Coal India, ONGC, Torrent Pharma, Escorts Kubota, and Shipping Corporation of India are among other firms which will trade ex
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-hal-irctc-torrent-power-coal-india-among-others-to-trade-ex-dividend-next-week-full-list-here-11771172267930.html
+
+- Walmart, economic data await investors confronting AI whack-a-mole
+  Walmart,
+  🔗 https://www.livemint.com/market/walmart-economic-data-await-investors-confronting-ai-whackamole-11771164126515.html
+
 - M-Cap of India's most-valued firms drop by over  ₹3 trillion — TCS, Infosys, Reliance, among other key drivers
   Market capitalisation of six of the top 10 most-valued firms on Indian stock market recorded a more than  ₹3 trillion drop last week.
   🔗 https://www.livemint.com/market/stock-market-news/mcap-of-indias-most-valued-firms-drop-by-over-rs-3-trillion-tcs-infosys-reliance-among-other-key-drivers-11771155050690.html
@@ -68,57 +80,45 @@
   Despite management's AI-first rhetoric, a lack of large-scale AI contract values and the threat of short project
   🔗 https://www.livemint.com/market/mark-to-market/indian-it-stocks-artificial-intelligence-information-technology-firms-11771141294929.html
 
-- Growth in IT sector stocks likely to remain muted in the near-term, says analyst
-  Muted IT stock performance is likely to persist in the near term. Industry valuations remain elevated at one-year forward P
-  🔗 https://www.livemint.com/market/stock-market-news/growth-in-it-sector-stocks-likely-to-remain-muted-in-the-near-term-says-analyst-11771151652383.html
+- India set to host AI Impact Summit 2026 at Bharat Mandapam tomorrow: When and where to watch live
+  India will host the AI Impact Summit 2026 at Bharat Mandapam from February 16 to 20. Here is when and how to watch
+  🔗 https://www.livemint.com/technology/tech-news/india-set-to-host-ai-impact-summit-2026-at-bharat-mandapam-tomorrow-when-and-where-to-watch-live-11771176159697.html
 
-- Here's how Indian investors can tap global markets | Expert weigh in
-  One of the best ways to tap into global growth and innovation is via
-  🔗 https://www.livemint.com/market/stock-market-news/heres-how-indian-investors-can-tap-global-markets-expert-weigh-in-11771150969636.html
+- Sony State of Play: God of War, John Wick and Ghost of Yōtei Legends take centre stage
+  Sony’s latest State of Play delivered major PS5 announcements. A God of War trilogy remake, a surprise Sons of Sparta launch, a new James Bond game reveal, PlayStation
+  🔗 https://www.livemint.com/technology/tech-news/sony-state-of-play-god-of-war-john-wick-and-ghost-of-y-tei-legends-take-centre-stage-11771170665943.html
 
-- Upcoming IPOs: Fractal Analytics IPO, Aye Finance IPO listing, Gaudium IVF IPO to open next week; check list here
-  Gaudium IVF &amp;amp; Women Health IPO will open for subscription. Fractal Industries IPO and Yashhtej Industries
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-fractal-analytics-ipo-aye-finance-ipo-listing-gaudium-ivf-ipo-to-open-next-week-check-list-here-11771147412908.html
+- Apple iPhone 18 Pro could bring new colours, A20 Pro chip and camera upgrades: Report
+  Apple’s iPhone 18 Pro range could bring new colour options, a smaller Dynamic Island, upgraded cameras, the A20 Pro 2nm chip, Apple’
+  🔗 https://www.livemint.com/technology/tech-news/apple-iphone-18-pro-could-bring-new-colours-a20-pro-chip-and-camera-upgrades-report-11771164050683.html
+
+- Grok drops big take ahead of India vs Pakistan T20 World Cup match: Here's what the AI predicted
+  Groot AI has predicted a narrow win for India ahead of the high-voltage T20 World Cup 2026 clash against Pakistan in Colombo. They cite India’s
+  🔗 https://www.livemint.com/technology/tech-news/grok-drops-big-take-ahead-of-india-vs-pakistan-t20-world-cup-match-heres-what-the-ai-predicted-11771161673842.html
 
 - ‘AI's next chapter will be…’: What Accenture, OpenAI, Qualcomm, other CEO's say ahead of India AI Impact Summit 2026
    AI Impact Summit 2026 is scheduled to be hosted at Bharat Mandapam, New Delhi, between 16 to 20 February 2026. Here's what top tech CEO from
   🔗 https://www.livemint.com/technology/tech-news/ais-next-chapter-will-be-what-accenture-openai-qualcomm-other-ceos-say-ahead-of-india-ai-impact-summit-2026-11771145368667.html
 
-- What is YUVAi Global Youth Challenge? Inside India’s flagship youth AI contest at India AI Impact Summit 2026
-  The YUVAi Global Youth Challenge will spotlight 20 young AI innovators at the India AI Impact Summit 2026. With over 2,500 entries from 38 countries
-  🔗 https://www.livemint.com/technology/tech-news/what-is-yuvai-global-youth-challenge-inside-india-s-flagship-youth-ai-contest-at-india-ai-impact-summit-2026-11771153167603.html
+- Silver, gold braces for another jittery week on US inflation data: Analysts
+  Silver futures on the Multi Commodity Exchange (MCX) declined Rs 5,532, or 2.2 per cent. Gold rose Rs 444, or 0.3 per cent, over the past week.
+  🔗 https://www.business-standard.com/markets/news/silver-gold-braces-for-another-jittery-week-on-us-inflation-data-analysts-126021500513_1.html
 
-- Apple’s 2026 roadmap may include home hub, cameras and refreshed HomePod mini
-  Apple is reportedly planning a major smart home push in 2026. HomePod mini, a new home hub with Face ID and Apple Intelligence, plus possible security and doorbell cameras.
-  🔗 https://www.livemint.com/technology/tech-news/apples-2026-roadmap-may-include-home-hub-cameras-and-refreshed-homepod-mini-11771149729510.html
+- Volatility in gold prices has not deterred buyers, says Titan MD Chawla
+  Titan's jewellery division, which includes the flagship Tanishq brand, has benefitted from this trend, supported by product innovation and festive demand in the Decembe.
+  🔗 https://www.business-standard.com/markets/commodities/volatility-in-gold-prices-has-not-deterred-buyers-says-titan-md-chawla-126021500331_1.html
 
-- Roblox down? Hundreds of users report issues with server connection and gameplay
-  Roblox is experiencing reported accessibility problems. Over 300 user complaints on Downdet
-  🔗 https://www.livemint.com/technology/tech-news/roblox-down-hundreds-of-users-report-issues-with-server-connection-and-gameplay-11771150120078.html
+- Macroeconomic data, global events to steer markets next week: Analysts
+   Macroeconomic data, global geopolitical developments and rising concerns over AI-related disruptions are likely to dictate sentiment.Besides, the trading activity of foreign investors and domestic currency movements will also guide market movement.
+  🔗 https://www.business-standard.com/markets/news/macroeconomic-data-global-events-to-steer-markets-next-week-analysts-126021500317_1.html
 
-- Decoded: AI buzzwords everyone talks about
-  
-  🔗 https://www.livemint.com/technology/decoded-ai-buzzwords-everyone-talks-about-11771141476002.html
+- FPI inflows rebound to ₹19,675 cr in early Feb on India-US trade deal
+  In the last three months, foreign investors have pulled out of Indian equities. The pull-out was driven by concerns over potential US tariffs. In the first two months of this year, the number of foreign investors in India was up
+  🔗 https://www.business-standard.com/markets/news/fpi-inflows-rebound-to-19-675-cr-in-early-feb-on-india-us-trade-deal-126021500251_1.html
 
-- Dow slides 600 points, S&P 500 falls for a third day as AI disruption fears rattle markets: Live updates - CNBC
-  Dow slides 600 points, S&amp;P 500 falls for a third day
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9FN2VlMkQwUUxVWHdDU0E4SU41bmdRTXliZFdLc2RTZVJGeU93RVd0WVJtcmJQcWFuUXZIcXJCU2RyaEFmOUJvTGF4ck5IXzJEMTBqMWdNSGZybDAzdnQyZlpIZVRoVVJIVXB4ZkdvTjVGX3VLYnM00gF8QVVfeXFMTUJFYjdqZHI4dXI5WUdRVWpOWVlYcUc0WWRQVUF3RVlBWVBKS3ZYZjJpMktKbE9pZWV4X3BLT180ZFBsanpaWF9vTTI2QV9xcTk5VC1fR0dpb3hXbVdoNWJkZXNQT1ZnZ0hnN3pBaHdwQTVnazFXZjJWY1BkSQ?oc=5
-
-- Dow Jones Futures: What To With This Dangerous Market; Apple, Google, Amazon, Nvidia In Focus - Investor's Business Daily
-  &nbsp;&ngt;<font color="#6f
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUVBpX18tdkg0dVlvVHJFZmxGZjBYT2h4MnhnX0pQalMwR01lTXlDdWJCNWFESmtWaTZUUExFb0l5Njl5dG94MXJBWDRWYURlQTJDTlFmV3hEcjU3NlQxVHlWbkJDaWM0bzBNYzJMQWZOaGpVQURQaDBmN2NUdU9OYnhPSmxnUC1LdGFPSS1VbVNMcWVhOGhVQ3hmNnB1dHBSb2RpVG9pR1p6VFMyNDdRZEVpTkhjdlVrekdZTmtYbnFWNTVTYjhLZ3BjTTlSMDQ2?oc=5
-
-- Global cues, AI disruption fears to steer markets this week: Analysts - Times of India
-  Global cues, AI disruption fears to steer markets this week
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdVdKbUpKaVZQd0U2bDhQWlIwU3hYUGVRSWdUWE1HNlVMV2JkU0xMMkk3dEZVbXZMdGNUTVlITjVCcTd1Z1dXRk0welFOaXdYSGhLOW90WVZfZ0tWdXpENWc0cW9aT3ZiUFprYzVfaXE3U190Ym00TVNDN1NkNDFvdjNaQmdXNjBZUWR1aVpVd2RDMC1lbGt4aFhOSUg2MXpTMXVpdHRGR3o4ckQ1dkRkVTV4VzQ2UXJKd0JKaGVGU1ZHX2VOZkVSQmZ5QVRTV0xkb3RrcDU4OFNSbEtTUGtYb19IWTVUQ2tk?oc=5
-
-- Dalal Street week ahead: AI jitters, global trends and key data to shape market mood - Moneycontrol
-  " target="_blank">Dalal Street week ahead
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeHlRcUFJd3UtV0E5TkJtcFJ5clZta21ldU1nZnRrSFBUdHZjRUlZbjB1M0t2SXJWYWtYWWRldTJadkZrTHI3VVlxVWFDaW80d1YxSjlyc2lzb19vNFZlVnhFSHNER3ZObXVibklrQVlrQ1UwWVZwVmY1WWNXaUtHVXE2c2wyVDdDQnNuNWFGUDJuZWZUa0Q2Wnl5aWFWcVBySEg2NzFIM01nU1BDSFpJXzNyZ0pnakx2UGVuNmFWOGYza3M3YTlQWVZJaDVmWUJXamxtbUl2WHkxQUNKaTlSMNIB5gFBVV95cUxPTDk5M0ZmeUV4bVI4amlvUTVBV3JJYWZPTlotd3V6eFJ4UVZuYlNudVBBNm8wMWFFcnF6VkFfYkZxNkRxbWkxQUFKeGdBbTdYQjBOS3JCNEdlNGR1djJGWkk0MVhETWg1bGkxX0EtTFM4d1JyOUZ4eXVfTkxHMVBqa2t4bDhxNnMyZHE5MVRPTjNXZm1yc05pSGR5dTZOb3hoMG1DYW9VcnBwOEVHaVJzYjdtMG5Jb2hEY2NMcDRNYXR0bm83ZmRtbzkycDZzYmp6dTRIVzBZUUxUcWRuVkhCQzBIWTBkdw?oc=5
-
-- Stock Market Outlook Next Week (Feb 16-20, 2026): Sensex, Nifty May Remain Volatile Amid IT Weakness, FII Sell - Goodreturns
-  Stock Market Outlook Next Week (Feb 16-20, 2026): Sensex
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM3VHSkxycmV2WjhFaG5aaDlJMGQ2MVJhbzFZejNFM3NTcHB0bml5Um53NGR0S05BT0JsdkhjS3hGODRvckItU0dPQnRoT1EzN1BmbDJEbnoyQWpOYy1ZM0JGZzQ3TmZDTEhLYlJIeXB3ZUd5TWt3Ql9NNXRmUHJuaGJTR0VVZENWdC05Q3pxaFZwRF9RbW5Cb1ZBUFZWUGlMVWxlZXNxd3RieTRLaUxCbnJzV29fMFJnTXhPazRNY0pvbkhJUlFZTllHYjRLV1R3OXk0SFRubVhIREJP?oc=5
+- Mcap of 6 top valued firms erodes by ₹3 trn; TCS, Infosys biggest laggards
+  TCS, Infosys, HDFC Bank, Reliance Industries, Life Insurance Corporation of India (LIC), and Bharti Airtel faced erosion from their valuation. State Bank of India, Bajaj Finance,
+  🔗 https://www.business-standard.com/markets/news/mcap-of-6-top-valued-firms-erodes-by-3-trn-tcs-infosys-biggest-laggards-126021500175_1.html
 
 - FPI inflows rebound to Rs 19,675 cr in first fortnight of Feb on US-India trade deal
   FPIs staged a sharp turnaround in early February, pumping Rs 19,675 crore into Indian equities in the first fortnight.
@@ -140,113 +140,45 @@
   Nifty ended sharply lower as broad-based selling pushed the index below key technical levels. Rupak De of LKP Securities warned of near-term weakness toward 25,000 unless resistance is
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-bajaj-finance-and-a-smallcap-stock-offer-up-to-5-upside-in-near-term-heres-why/articleshow/128374079.cms
 
-- 'Bangladesh First': Tarique Rahman's Reply To Query On Ties With India - NDTV
-  'Bangladesh First': Tarique Rahman
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
-
-- After the landslide: Can India reset ties with a BNP-led Bangladesh? - BBC
-  After the landslide: Can India reset ties with
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE83eUhGWmZhcVZRWTBrNDV4SGl0WHBxMHUwdnlWMlFmcHRwNWV0b3NyOW5hdGl0VnY5cG1TSzVnUWpNdHkwWk5rLTRPTDBHUW8yZ2tTcDF3M0xkdw?oc=5
-
-- Om Birla To Represent India At Tarique Rahman's Oath Ceremony In Bangladesh - NDTV
-  Om Birla To Represent India At Tar
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPTFpiNmswMUxYVXpWSlZfQmQ5bjRSakpZMmt1dkJlTkdGU3dNRDN1S19LWUxrUGxpbHpNNmhJUTJtYm9LYlpteUFkUmk3UU5OcF9HTWhBUW92M3FSYklYeEZqOTJNd1Y0OGtvZ0FWNkE0eGpYYXNNTXFQN0w3Y0J3dlpFYzI2MVdjWk9qcjFrQVFhSkd0SGM4WF82OGFOQklQcU1YRVRlQ2FoZjBCNVFCRDNwYzhKTklFQ3J4UWVDcjdPcjQ2OVhQS1k0VXM3d9IB1gFBVV95cUxPenV3TWtCUlN4RDcxSDBUUVhRdlpfV0FnOGZfZEhaY1RTOVI0TXBVcGdUaXBlX2JyMDJVaWgyOFZtWXd6TGhCR3BQZzFobUQ3RFNoaDFraElLU0ZrWE1ENEZCdW5kTllyamw0cnRoOEhlbHZCUTF0dk92MG9McTVfS05iQmJSSGgyZXV4RW1iMUx2NFhJVGpsY01BMkNxLUFBTEJXaVhOblVCRm1yTkRtN01TbDBVOF9nZU9uMFJXaUl1NFhQNUdTOThVaWhjU3dObjdReW5n?oc=5
-
-- 'Budget 2026 Reflects India's Aspiration To Become A Developed Nation': PM Modi - News18
-  'Budget 2026 Reflects India's As
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWZ0dmtnejgyeHJMeHZkX2NqMUFhVl9lMEhuazV5NmRKZUlya1pNWFRqZGZsVFpGT19pQmhFQnFsUzduUHhSSExpbUdjcUdxU3loOGxpUEp6LWlORmpPUnBFRmh1Y0VFUHNaZ1FjbXZxcXpfNWJxZVVDcTRMWEhmZklnVDRMX05ORkhkb05OSUh1T0lxTE9RX1ZBcFZWUXk1UlFyUW93ZGZfcG1KcDQ5QktkS0NHckNV0gG-AUFVX3lxTE8zY1lxTnl2MGdjTkcwbWN5R1FqVmJ6cWFxdlhEdjNPSkxsN1RBRG54b1R3LU9UaDZmcUdIbTZBNmo4MnpOU0hKUFV0M2ktb0M2UzQ4ZWQ3NEdFU1VZSTNxd1B6UlZFZ3BMdDUwVG9lLXhKaEdvbjZScWNTUHRnejRLbW5LU3VNeDRxYTdGY1RpYVprNTE5SmxhTGtTUmRoTVhDQTM1dkNsZ1NvcThUWGl1TUNSQVZreWVCelF2Qmc?oc=5
-
-- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
-  India's "Will Take Appropriate Action" Response
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
+- Bangladesh election results: What BNP’s win means for India - Times of India
+  Bangladesh election results: What BNP
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFl1c09hNUg4YXc2azcwSFFPR0dKOTcyYUdsdzBIcnlId0NLSmN6MUJBUW9GMnhQZVFxTURjWFpGTV9LZVBjODVibGVpNk5Lc2Jlb2RMcEl4TUszMWhtUUJ3TVFIeGdzUy1XMV82S2NkbW9yVEltNUNlcjlkZmJ6TzFIdWdrZGxWR3N2bW9EaE8wOGRYYmVvMUV0SGR1emVGT0RoMG44engxSEZvTEpDVzhMenBtQ095aUxVa2VHS09XSU3SAcgBQVVfeXFMTnFZYVIwYXdKUFJSUHpURGRIRkplLXJfNlV0Sy1fVTRaQ0xPOUV3aVdZUEFVM3hmejlXeEFxbHNaN01raHM2UTdqcmx0eEs1REl1bXVEQUlRd1J2YlVucHh1UzdLTktJSGdoems0cXo4TmVrZDNBejlEYnozbmozZkg4cU1VV1dMVDlSUmoxcndQby1NTzRmM2tDUWN5VG9SX1dHaC1velgwWmlCcnFCWHZrVTFDaHQtVEthQXhYN2pXOFk2VHN0SXQ?oc=5
 
 - 'Bangladesh First': Tarique Rahman's Reply To Query On Ties With India - NDTV
   'Bangladesh First': Tarique Rahman
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
 
-- After the landslide: Can India reset ties with a BNP-led Bangladesh? - BBC
-  After the landslide: Can India reset ties with
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE83eUhGWmZhcVZRWTBrNDV4SGl0WHBxMHUwdnlWMlFmcHRwNWV0b3NyOW5hdGl0VnY5cG1TSzVnUWpNdHkwWk5rLTRPTDBHUW8yZ2tTcDF3M0xkdw?oc=5
+- 'Want Ties With India Based On Mutual Respect': Tarique Rahman's Top Aide To NDTV - NDTV
+  'Want Ties With India Based On Mutual Respect': Tar
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQMldGLUszWl9QSFlWTTJLZWw5QXpOUXJiLUJvMDN4b2xxZnVObjB1WktmN3l3QUpLSUtSQWpEUzQwZnlOdndGTGF3T1lNMVBoYUJkOUNkRlZTT3d4ZGxablJvQnNub2NrY3RYMlFrOVZIOHdxd0RBUGZHWTJySkljQzlPblRWNlZvR2k2YnpRclpiRFh1RVk5NDladm5wSzdjMDhaN1EyU1ZzZlRQZlZLQ3RB0gG6AUFVX3lxTE9ZLXdsSTk0cVRYbU5ORWFpOU5zdl9GY3VkN0hjdGVIYjJDYnR0MXRnQ3BqVmNQQkE2ZGgxQklPb19fN0RFN2E3NF9EcE1fOF9BM2pGbzMzUWNuQnNNbHllcXFxS1F5VzFQVThBX1Q3MUU3T202Y18xVUc4R2RIeWw3STJVUU02TDZkZHllSUhlaGF4NTQxWUw2clVKQXV3azFYTk9jZGNpSkJQUkF5RzZIRUxDaklHVlBTUQ?oc=5
 
-- Om Birla To Represent India At Tarique Rahman's Oath Ceremony In Bangladesh - NDTV
-  Om Birla To Represent India At Tar
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPTFpiNmswMUxYVXpWSlZfQmQ5bjRSakpZMmt1dkJlTkdGU3dNRDN1S19LWUxrUGxpbHpNNmhJUTJtYm9LYlpteUFkUmk3UU5OcF9HTWhBUW92M3FSYklYeEZqOTJNd1Y0OGtvZ0FWNkE0eGpYYXNNTXFQN0w3Y0J3dlpFYzI2MVdjWk9qcjFrQVFhSkd0SGM4WF82OGFOQklQcU1YRVRlQ2FoZjBCNVFCRDNwYzhKTklFQ3J4UWVDcjdPcjQ2OVhQS1k0VXM3d9IB1gFBVV95cUxPenV3TWtCUlN4RDcxSDBUUVhRdlpfV0FnOGZfZEhaY1RTOVI0TXBVcGdUaXBlX2JyMDJVaWgyOFZtWXd6TGhCR3BQZzFobUQ3RFNoaDFraElLU0ZrWE1ENEZCdW5kTllyamw0cnRoOEhlbHZCUTF0dk92MG9McTVfS05iQmJSSGgyZXV4RW1iMUx2NFhJVGpsY01BMkNxLUFBTEJXaVhOblVCRm1yTkRtN01TbDBVOF9nZU9uMFJXaUl1NFhQNUdTOThVaWhjU3dObjdReW5n?oc=5
+- How a '7-hour sleepless' train ride in India became memorable experience for Canadian tourists | India News - Hindustan Times
+  .com: How a '7-hour sleepless' train ride
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeW5FLVNiakpSYW9iWi1vandlc2g4MFNsVGlGQlRXcEhjNmtfNmFzZmN3ZEZfVGVNaVMzMk9vMjRIX09qOVgtaUlqdFB1Z3ZMRFZrcTRaSVRjN3U3T0EwM2xxRGZ6STdqWkI3LU15ZHJOc2NTeG00T2pyMHZNSTk4YXVqVWtyV1NWWDhvVlhiTzBUYWZkMFY5YlNTd2t2c3hfbV9oMlIxcmtDVG1MMUl1akJWSzFrZERjZU9IVHo0TEN2aHlPamxpU2oxS2FOYUpRa2hNcXN4N0NKWTRFX1U5emwxTzJoR2xPRm5FLUJsNkVWTVU5LURSYzNSaHFvd9IBgwJBVV95cUxPdG5NSnBHUHJ5aXowdDY1VWhDaVd4cG5QbmZSZlE5S1RPcmt2QWJBOGZrdXFWcUgtVXVOZGd6RGVkUzdOdHFWUEhicGhJakRUT2hiaWl0NGpnT0k2WlZDS0I0eUUyTHpKNkU1RXpQYllJR1pHRUNJcmt5b1ZzeFZieEN0SGpaaWZPQW04MmNDYV9wMnp1YWZmNzdtdGdab2xqQ3RvSkdZTG9hd0FTdk5jaTZrdnRLeDNYODZFNG1nWmxIRkhGdW5CM1RnU2sxY2JMVGZIVXBmaGxrM2t2WjRqUWdNczVsS3BjRUlhTUwtcFU3M0tiZ2dQXzdoeFhJM0pXU1Nr?oc=5
 
-- 'Budget 2026 Reflects India's Aspiration To Become A Developed Nation': PM Modi - News18
-  'Budget 2026 Reflects India's As
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWZ0dmtnejgyeHJMeHZkX2NqMUFhVl9lMEhuazV5NmRKZUlya1pNWFRqZGZsVFpGT19pQmhFQnFsUzduUHhSSExpbUdjcUdxU3loOGxpUEp6LWlORmpPUnBFRmh1Y0VFUHNaZ1FjbXZxcXpfNWJxZVVDcTRMWEhmZklnVDRMX05ORkhkb05OSUh1T0lxTE9RX1ZBcFZWUXk1UlFyUW93ZGZfcG1KcDQ5QktkS0NHckNV0gG-AUFVX3lxTE8zY1lxTnl2MGdjTkcwbWN5R1FqVmJ6cWFxdlhEdjNPSkxsN1RBRG54b1R3LU9UaDZmcUdIbTZBNmo4MnpOU0hKUFV0M2ktb0M2UzQ4ZWQ3NEdFU1VZSTNxd1B6UlZFZ3BMdDUwVG9lLXhKaEdvbjZScWNTUHRnejRLbW5LU3VNeDRxYTdGY1RpYVprNTE5SmxhTGtTUmRoTVhDQTM1dkNsZ1NvcThUWGl1TUNSQVZreWVCelF2Qmc?oc=5
+- Witnessing betrayal of Indian farmers in name of US trade deal: Rahul Gandhi - BusinessLine
+  The Indian government has agreed to a deal with the United
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQmJBN015OFZfM2Qzb0xPeXpQanRoT0xLYjhTYms1Z1RpR3dBcldWRGVSblF0aVM1ZVZ5eHhRZkVSQ0ZmVzVlalNOX3NMN1p4QnFLWHF0QkFwc29KSWZJSGQtdjhiUmZKREk4OHprNjRjU2RCMFJwZGR1MWtDRkpJVl92SlJaS1lid0lWUVI1TnV6dHV4UkIzdngtTGdFbGoyQjN5QWUxeFc5cnlsdE1ya0NOZC0wRHpacU5xVGQzR0ZrYXNOa0lFeEFOWkxVRUZ3TE1B0gHaAUFVX3lxTE9ZaTBJZGNCa01PYlBmd2pKbndqM1d6SU1OTkpkY0VEN1FuVXNxUWJ1cGZJTGpHR1dBVWJPVms1UlBQSWcxWTdGOXFuX3VmRHpwTHVGX1BIOTMteVhleFZlSk5yYmVkUEpjNHA5R1Jra3B1Zk9BeXQ2Wm5FMTZtb2NVektzVFBtNk9UYTRXSFlPdnRzUUdFZzhWWEJjcGx3Y2h6SVRUOWp2RDFBUHVZMHJRalVxSHVwUFlMemNyYjB4NUwxUVM3a0tYUmdSalRVal9GX1VpN0FDelZR?oc=5
 
-- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
-  India's "Will Take Appropriate Action" Response
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
-
-- 'Bangladesh First': Tarique Rahman's Reply To Query On Ties With India - NDTV
-  'Bangladesh First': Tarique Rahman
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
-
-- After the landslide: Can India reset ties with a BNP-led Bangladesh? - BBC
-  After the landslide: Can India reset ties with
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE83eUhGWmZhcVZRWTBrNDV4SGl0WHBxMHUwdnlWMlFmcHRwNWV0b3NyOW5hdGl0VnY5cG1TSzVnUWpNdHkwWk5rLTRPTDBHUW8yZ2tTcDF3M0xkdw?oc=5
-
-- Om Birla To Represent India At Tarique Rahman's Oath Ceremony In Bangladesh - NDTV
-  Om Birla To Represent India At Tar
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPTFpiNmswMUxYVXpWSlZfQmQ5bjRSakpZMmt1dkJlTkdGU3dNRDN1S19LWUxrUGxpbHpNNmhJUTJtYm9LYlpteUFkUmk3UU5OcF9HTWhBUW92M3FSYklYeEZqOTJNd1Y0OGtvZ0FWNkE0eGpYYXNNTXFQN0w3Y0J3dlpFYzI2MVdjWk9qcjFrQVFhSkd0SGM4WF82OGFOQklQcU1YRVRlQ2FoZjBCNVFCRDNwYzhKTklFQ3J4UWVDcjdPcjQ2OVhQS1k0VXM3d9IB1gFBVV95cUxPenV3TWtCUlN4RDcxSDBUUVhRdlpfV0FnOGZfZEhaY1RTOVI0TXBVcGdUaXBlX2JyMDJVaWgyOFZtWXd6TGhCR3BQZzFobUQ3RFNoaDFraElLU0ZrWE1ENEZCdW5kTllyamw0cnRoOEhlbHZCUTF0dk92MG9McTVfS05iQmJSSGgyZXV4RW1iMUx2NFhJVGpsY01BMkNxLUFBTEJXaVhOblVCRm1yTkRtN01TbDBVOF9nZU9uMFJXaUl1NFhQNUdTOThVaWhjU3dObjdReW5n?oc=5
-
-- 'Budget 2026 Reflects India's Aspiration To Become A Developed Nation': PM Modi - News18
-  'Budget 2026 Reflects India's As
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWZ0dmtnejgyeHJMeHZkX2NqMUFhVl9lMEhuazV5NmRKZUlya1pNWFRqZGZsVFpGT19pQmhFQnFsUzduUHhSSExpbUdjcUdxU3loOGxpUEp6LWlORmpPUnBFRmh1Y0VFUHNaZ1FjbXZxcXpfNWJxZVVDcTRMWEhmZklnVDRMX05ORkhkb05OSUh1T0lxTE9RX1ZBcFZWUXk1UlFyUW93ZGZfcG1KcDQ5QktkS0NHckNV0gG-AUFVX3lxTE8zY1lxTnl2MGdjTkcwbWN5R1FqVmJ6cWFxdlhEdjNPSkxsN1RBRG54b1R3LU9UaDZmcUdIbTZBNmo4MnpOU0hKUFV0M2ktb0M2UzQ4ZWQ3NEdFU1VZSTNxd1B6UlZFZ3BMdDUwVG9lLXhKaEdvbjZScWNTUHRnejRLbW5LU3VNeDRxYTdGY1RpYVprNTE5SmxhTGtTUmRoTVhDQTM1dkNsZ1NvcThUWGl1TUNSQVZreWVCelF2Qmc?oc=5
-
-- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
-  India's "Will Take Appropriate Action" Response
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
+- Bangladesh election results: What BNP’s win means for India - Times of India
+  Bangladesh election results: What BNP
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFl1c09hNUg4YXc2azcwSFFPR0dKOTcyYUdsdzBIcnlId0NLSmN6MUJBUW9GMnhQZVFxTURjWFpGTV9LZVBjODVibGVpNk5Lc2Jlb2RMcEl4TUszMWhtUUJ3TVFIeGdzUy1XMV82S2NkbW9yVEltNUNlcjlkZmJ6TzFIdWdrZGxWR3N2bW9EaE8wOGRYYmVvMUV0SGR1emVGT0RoMG44engxSEZvTEpDVzhMenBtQ095aUxVa2VHS09XSU3SAcgBQVVfeXFMTnFZYVIwYXdKUFJSUHpURGRIRkplLXJfNlV0Sy1fVTRaQ0xPOUV3aVdZUEFVM3hmejlXeEFxbHNaN01raHM2UTdqcmx0eEs1REl1bXVEQUlRd1J2YlVucHh1UzdLTktJSGdoems0cXo4TmVrZDNBejlEYnozbmozZkg4cU1VV1dMVDlSUmoxcndQby1NTzRmM2tDUWN5VG9SX1dHaC1velgwWmlCcnFCWHZrVTFDaHQtVEthQXhYN2pXOFk2VHN0SXQ?oc=5
 
 - 'Bangladesh First': Tarique Rahman's Reply To Query On Ties With India - NDTV
   'Bangladesh First': Tarique Rahman
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
 
-- After the landslide: Can India reset ties with a BNP-led Bangladesh? - BBC
-  After the landslide: Can India reset ties with
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE83eUhGWmZhcVZRWTBrNDV4SGl0WHBxMHUwdnlWMlFmcHRwNWV0b3NyOW5hdGl0VnY5cG1TSzVnUWpNdHkwWk5rLTRPTDBHUW8yZ2tTcDF3M0xkdw?oc=5
+- 'Want Ties With India Based On Mutual Respect': Tarique Rahman's Top Aide To NDTV - NDTV
+  'Want Ties With India Based On Mutual Respect': Tar
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQMldGLUszWl9QSFlWTTJLZWw5QXpOUXJiLUJvMDN4b2xxZnVObjB1WktmN3l3QUpLSUtSQWpEUzQwZnlOdndGTGF3T1lNMVBoYUJkOUNkRlZTT3d4ZGxablJvQnNub2NrY3RYMlFrOVZIOHdxd0RBUGZHWTJySkljQzlPblRWNlZvR2k2YnpRclpiRFh1RVk5NDladm5wSzdjMDhaN1EyU1ZzZlRQZlZLQ3RB0gG6AUFVX3lxTE9ZLXdsSTk0cVRYbU5ORWFpOU5zdl9GY3VkN0hjdGVIYjJDYnR0MXRnQ3BqVmNQQkE2ZGgxQklPb19fN0RFN2E3NF9EcE1fOF9BM2pGbzMzUWNuQnNNbHllcXFxS1F5VzFQVThBX1Q3MUU3T202Y18xVUc4R2RIeWw3STJVUU02TDZkZHllSUhlaGF4NTQxWUw2clVKQXV3azFYTk9jZGNpSkJQUkF5RzZIRUxDaklHVlBTUQ?oc=5
 
-- Om Birla To Represent India At Tarique Rahman's Oath Ceremony In Bangladesh - NDTV
-  Om Birla To Represent India At Tar
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPTFpiNmswMUxYVXpWSlZfQmQ5bjRSakpZMmt1dkJlTkdGU3dNRDN1S19LWUxrUGxpbHpNNmhJUTJtYm9LYlpteUFkUmk3UU5OcF9HTWhBUW92M3FSYklYeEZqOTJNd1Y0OGtvZ0FWNkE0eGpYYXNNTXFQN0w3Y0J3dlpFYzI2MVdjWk9qcjFrQVFhSkd0SGM4WF82OGFOQklQcU1YRVRlQ2FoZjBCNVFCRDNwYzhKTklFQ3J4UWVDcjdPcjQ2OVhQS1k0VXM3d9IB1gFBVV95cUxPenV3TWtCUlN4RDcxSDBUUVhRdlpfV0FnOGZfZEhaY1RTOVI0TXBVcGdUaXBlX2JyMDJVaWgyOFZtWXd6TGhCR3BQZzFobUQ3RFNoaDFraElLU0ZrWE1ENEZCdW5kTllyamw0cnRoOEhlbHZCUTF0dk92MG9McTVfS05iQmJSSGgyZXV4RW1iMUx2NFhJVGpsY01BMkNxLUFBTEJXaVhOblVCRm1yTkRtN01TbDBVOF9nZU9uMFJXaUl1NFhQNUdTOThVaWhjU3dObjdReW5n?oc=5
+- How a '7-hour sleepless' train ride in India became memorable experience for Canadian tourists | India News - Hindustan Times
+  .com: How a '7-hour sleepless' train ride
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeW5FLVNiakpSYW9iWi1vandlc2g4MFNsVGlGQlRXcEhjNmtfNmFzZmN3ZEZfVGVNaVMzMk9vMjRIX09qOVgtaUlqdFB1Z3ZMRFZrcTRaSVRjN3U3T0EwM2xxRGZ6STdqWkI3LU15ZHJOc2NTeG00T2pyMHZNSTk4YXVqVWtyV1NWWDhvVlhiTzBUYWZkMFY5YlNTd2t2c3hfbV9oMlIxcmtDVG1MMUl1akJWSzFrZERjZU9IVHo0TEN2aHlPamxpU2oxS2FOYUpRa2hNcXN4N0NKWTRFX1U5emwxTzJoR2xPRm5FLUJsNkVWTVU5LURSYzNSaHFvd9IBgwJBVV95cUxPdG5NSnBHUHJ5aXowdDY1VWhDaVd4cG5QbmZSZlE5S1RPcmt2QWJBOGZrdXFWcUgtVXVOZGd6RGVkUzdOdHFWUEhicGhJakRUT2hiaWl0NGpnT0k2WlZDS0I0eUUyTHpKNkU1RXpQYllJR1pHRUNJcmt5b1ZzeFZieEN0SGpaaWZPQW04MmNDYV9wMnp1YWZmNzdtdGdab2xqQ3RvSkdZTG9hd0FTdk5jaTZrdnRLeDNYODZFNG1nWmxIRkhGdW5CM1RnU2sxY2JMVGZIVXBmaGxrM2t2WjRqUWdNczVsS3BjRUlhTUwtcFU3M0tiZ2dQXzdoeFhJM0pXU1Nr?oc=5
 
-- 'Budget 2026 Reflects India's Aspiration To Become A Developed Nation': PM Modi - News18
-  'Budget 2026 Reflects India's As
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWZ0dmtnejgyeHJMeHZkX2NqMUFhVl9lMEhuazV5NmRKZUlya1pNWFRqZGZsVFpGT19pQmhFQnFsUzduUHhSSExpbUdjcUdxU3loOGxpUEp6LWlORmpPUnBFRmh1Y0VFUHNaZ1FjbXZxcXpfNWJxZVVDcTRMWEhmZklnVDRMX05ORkhkb05OSUh1T0lxTE9RX1ZBcFZWUXk1UlFyUW93ZGZfcG1KcDQ5QktkS0NHckNV0gG-AUFVX3lxTE8zY1lxTnl2MGdjTkcwbWN5R1FqVmJ6cWFxdlhEdjNPSkxsN1RBRG54b1R3LU9UaDZmcUdIbTZBNmo4MnpOU0hKUFV0M2ktb0M2UzQ4ZWQ3NEdFU1VZSTNxd1B6UlZFZ3BMdDUwVG9lLXhKaEdvbjZScWNTUHRnejRLbW5LU3VNeDRxYTdGY1RpYVprNTE5SmxhTGtTUmRoTVhDQTM1dkNsZ1NvcThUWGl1TUNSQVZreWVCelF2Qmc?oc=5
-
-- India's "Will Take Appropriate Action" Response To Trump Remarks On PM Modi - NDTV
-  India's "Will Take Appropriate Action" Response
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjZPRnUxNDFPUXByeFNHaTdlOG1ZNUxRTzZ3S3lOdjYyOGYyWlhGUjRESTlidTF5Uy15dG9ZQ1RVUjh0YW8zdmtNZXNlLVVhNDVuaDA3Ui10MlFkMW5kdTd4VDJQX1BURTdFT1RJUkpjVEdfdkcwZkVodk5HN0pKZXJYcVd6NDh0RWliNzdSWUZXdklZUWxBQ25aYjN2LVFCeFZfWDM5NUgzWk5xczdaUjUxREdKVkE0NlhnVNIBxAFBVV95cUxQZEhzdDBYNWRrV3UwM2wyTVVCdkZmX3FLRXZacjhHQkhKcFU1LWZvSW8weGxLRWN0S1BQOVhRcGFydHdMRFJka0NPMXVhSFkwSi1qb1lycC0yWmoxeXo4elg5cG1NcUVrVUt4YVFCVzV5a2tLbHEyYzRtSFFZZlNrSUVIVEpEYVZYZG5vVjhDMld0MTBnTjdZN2d4aVpvM0xJT3RscnAzZzU5ZkxRX3NhV2luSjZCRmdaQlpwYktjbUxCcnJU?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Witnessing betrayal of Indian farmers in name of US trade deal: Rahul Gandhi - BusinessLine
+  The Indian government has agreed to a deal with the United
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQmJBN015OFZfM2Qzb0xPeXpQanRoT0xLYjhTYms1Z1RpR3dBcldWRGVSblF0aVM1ZVZ5eHhRZkVSQ0ZmVzVlalNOX3NMN1p4QnFLWHF0QkFwc29KSWZJSGQtdjhiUmZKREk4OHprNjRjU2RCMFJwZGR1MWtDRkpJVl92SlJaS1lid0lWUVI1TnV6dHV4UkIzdngtTGdFbGoyQjN5QWUxeFc5cnlsdE1ya0NOZC0wRHpacU5xVGQzR0ZrYXNOa0lFeEFOWkxVRUZ3TE1B0gHaAUFVX3lxTE9ZaTBJZGNCa01PYlBmd2pKbndqM1d6SU1OTkpkY0VEN1FuVXNxUWJ1cGZJTGpHR1dBVWJPVms1UlBQSWcxWTdGOXFuX3VmRHpwTHVGX1BIOTMteVhleFZlSk5yYmVkUEpjNHA5R1Jra3B1Zk9BeXQ2Wm5FMTZtb2NVektzVFBtNk9UYTRXSFlPdnRzUUdFZzhWWEJjcGx3Y2h6SVRUOWp2RDFBUHVZMHJRalVxSHVwUFlMemNyYjB4NUwxUVM3a0tYUmdSalRVal9GX1VpN0FDelZR?oc=5
 
 
-_Last updated: 2026-02-15 12:43:11 UTC_
+_Last updated: 2026-02-15 18:33:00 UTC_
