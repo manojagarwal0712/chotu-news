@@ -1,124 +1,252 @@
 # 📰 Daily News Summaries
 
-- Europe seen as key market for data sovereignty technology - Euronews.com
-  Europe seen as key market for data
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPdnQ0TG5QOUotVjh5a3BkN2kzRmhkeVhwaWNkdFh0VjhvRGlSMHZNbVVXLUZBXzZvU1EtN0VOdkNJX3lybHJKbHZsQlcxWDBSbmJ1WUU2d2g3LXRlWVFnajl5d0VCbzRjZ3N4ME1SZlpSRFhjbU9sNlktcDJZX19MU2pPaEs0LVA4UzBZUlVyYmhpWVlOaDZoUFozOVhURWs?oc=5
+- Tripura student murder case: Prime accused ‘still in Nepal’, Dehradun police file chargesheet against 6
+  
+  🔗 https://indianexpress.com/article/india/tripura-student-murder-prime-accused-nepal-dehradun-police-chargesheet-10535508/
 
-- India hosts AI Impact Summit, drawing world leaders, tech giants - Al Jazeera
-  India hosts AI Impact Summit, drawing world leaders
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOQlZBdmR2a2RBM1FGaWpuS2kxMENjYlBuNXpDdHRUVmlCYU1tNWlmUEVBQUlHUDJEa1J3TW5INldHY0YwUFFBcXVGZldpaE1jei1iOE9PNHNNNExJVGtCSExqYXl2MXJ6aDVIR1R4ZEdka3JUT2RzZllFVVZwbU96UjNOY1pOMUluai1teEFQbXFWemc3SGwwSlFvRENyVHVva3Vzczdn0gGrAUFVX3lxTE9sRHhEek8yVnU3dEw5T3V0bndfQmltdENibUNHLVpDZ0JkdVJEakxaRHE3Y0NUQVhudjRpVFJXeW12anRuZzRYalBtNXBvOXJING45ZExTZXloY2xxYmtNMTF0ZDhZdWE3NXFZSTdkY3diOUJrdTktR29fMS1TQmdQX2JfQ0p3MmRCMFk0SjdBeGZBVVl1RTVodzNJWGxHX05jS2Qxc2VMT09LSQ?oc=5
+- Terrorist posters in Kathua and new 5 km border restrictions: Why security forces are on high alert in Jammu
+  
+  🔗 https://indianexpress.com/article/india/terrorist-posters-kathua-border-restrictions-security-forces-high-alert-jammu-10535483/
 
-- India AI Summit 2026 LIVE: In talks with over 30 countries on technical and legal solutions for deepfakes: Ashwini Vaishnaw - The Hindu
-  India AI Summit 2026 LIVE: In talks with over 30 countries on technical and legal solutions for
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkR4V1RwYkFDVnlPVU1xTGlOTHJPSWd1d2JlLW9RMWtlUENWX3FOYlVabnBlZnladnMyLU0tSXFRUTdtcnEyRG1OcWRGekJLUzFDbWlWdUJFY3NHMkVlY3FJTk9DYUN1VnljRk5IR0tSN1I2NERNMnozbzlpcjZhS3JZR1JsMmdWdVI2dkNUbzc3THk1MFBadkhvMW1fVmZvZUlMcW9iSGluRDd4MkZpdHMtaVd3VkZ3akx5Y1k2d0dLSXlld2JZY3RsbmY4NFJmcU9qM2xsbnXSAd8BQVVfeXFMTVREaFp6UGdNQjNkcHdLcUVnd0VPeU03clhybkZCWXA4Ykd3MUpBWkhmOURuUW1NT1lJd0FTRWxkdnNBWmtGd0FXRlZYLTlWQmhBZU9fOWd4dWo2a2ZaNTlkeGtrQjl5LVltcFNkQ1ZoRGpjVzRGS3E3RXd0cXpLakloamVZcW5zM0pzdVk3ZlZxb1dlWjZXeW1JWUhjcEQ2SHd5d2czT1dOT1ZBWGkycEwxSjR0SU1LQTIwREVlR2xzUHoxSkVpR3hJT1dHd1U4Z3FVTkI2eFdOY2pyWU5aRQ?oc=5
+- Nitish govt transfers Rs 10,000 each to 25 lakh women; total number of beneficiaries now 1.81 crore
+  
+  🔗 https://indianexpress.com/article/india/nitish-govt-transfers-10000-25-lakh-women-total-beneficiaries-10535442/
 
-- AI Summit India 2026 Live Updates: PM Modi to inaugurate event shortly - Times of India
-  AI Summit India 2026 Live Updates: PM Modi to inaug
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcEpvRTA0OTlFQ1pmTnNsMnBVYTFEQk03Z3VGVUdpSkMxcDJWQzZaeWdWYl83MzBiMms1bnYzVDVWRkZkMVZHdlVUWlQtNXN1YUc5dDM2cG5xY1dGMElDN3hRQXV3azlmaTIxNmoyX2pnckY2OTRQamt5WDRrbTJ6eFdhTGtlZnhUMm1uUnI4ZHM4R01vSUFGam81NWRiV3ZkTkpmYjRVcktDUVVNY09DUld4cTRzNDZnNGc0VFZubzdtaWdrUFVXd2IzRzdyMW5ncmpQOVdabUtSYmZWMFlqdHVIUnFYTm9sb2RqclVnQ0YwRW53UnQzRlNVV2VpNmI0WFAycGJRNHnSAY4CQVVfeXFMUEVpaktuOS1MamRmLVdacU8yaE9MUUtUSm9rejhrSG1IOTBZUW5lZ3kwR2RnZTNvWm1LTm5aSE4zOWkxVW1VVk5CWS0tdHJMLVhjc2lsZ2hjSjZBdWUxVmVqRjVrbjllZXVNMHA4RmYwbnppbkJoWkRJc0hhQ2ZHLXNxMHpacS1uR1M4Sy05akZqMElURXlSdDBEQXZOa3dTNS1tbGdhWk45SUxzc2ROaXlXTTVWVFluRnpqcngzUVZJV2htLXlnNU5HeDJOeDdhLXhURE5DOTB3aXNYQ0dKTFpsQ2hMRXRvODVFQ1M2OUZ2Wml4ZHJhMG0ySXhpb2c1Wk9ZMjdwWVNXQVdaWkRR?oc=5
+- PM Modi likely to visit Israel on Feb 25, hold talks with Netanyahu
+  
+  🔗 https://indianexpress.com/article/india/pm-modi-likely-to-visit-israel-on-feb-25-hold-talks-with-netanyahu-10535445/
 
-- Bill Gates discusses technology in governance and public health in Andhra Pradesh - News On AIR
-  Bill Gates discusses technology in governance and public health in Andhra
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVIya2JIMmN0MWZDdWRKcUtjU09zcFdyd0U3emh5RW00WDE2dS1KNmgxcF95eVBlbFppWExfMjBSRGQ4QkY5ek5KRXlrQnRKTEtOMDJheVdVQ2JST3FUZVZyQzEtSXNpa0dPeW1vYUNwZ2p5Nm9Wbk96VXZlc0doUm5rME9XSzZVZVE0cERWZC1jMEdzUUI0TmMzc0Q3TC1YUTZXRkwydEFSNG4tcEVWTA?oc=5
+- From Yousmarg to Peer Ki Gali: Shut after Pahalgam attack, 14 tourists spots in J-K reopened to public
+  
+  🔗 https://indianexpress.com/article/india/yousmarg-peer-ki-gali-shut-pahalgam-attack-14-tourists-spots-in-j-k-reopened-10535403/
+
+- AMD, Tata Consultancy Services to bring ‘Helios’ rack-scale AI architecture in India
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/amd-tata-consultancy-services-to-bring-helios-rack-scale-ai-architecture-in-india-10535379/
+
+- New Macs, iPads and iPhone 17e: Apple plans multiple launches in coming weeks
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/new-macs-ipads-and-iphone-17e-apple-plans-multiple-launches-in-coming-weeks-10535371/
+
+- Acer, ASUS suspend PC sales in Germany after Nokia patent win
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/acer-asus-suspend-pc-sales-in-germany-after-nokia-patent-win-10535248/
+
+- India becomes ChatGPT’s second-biggest market with 100 million weekly users
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/india-becomes-chatgpts-second-biggest-market-with-100-million-weekly-users-10535027/
+
+- Pichai, Altman among tech CEOs attending the world’s largest AI summit in India
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/pichai-altman-among-tech-ceos-attending-the-worlds-largest-ai-summit-in-india-10534966/
+
+- AM/NS India targets import substitution with new value-added steel for appliances
+  The launch aligns with the company’s growing focus on value-
+  🔗 https://www.livemint.com/companies/news/amns-india-targets-import-substitution-with-new-value-added-steel-for-appliances-11771251594288.html
+
+- Netflix’s Warner Bros. deal us under fire. Why the odds are shifting in Paramount’s favor.
+  Polymarket users see this as a neck-and-neck race.
+  🔗 https://www.livemint.com/companies/netflixs-warner-bros-deal-us-under-fire-why-the-odds-are-shifting-in-paramount-s-favor-11771254030190.html
+
+- Motilal Oswal Alternates raises  ₹8,500 crore private equity fund
+  The fund witnessed strong participation from both global and domestic investors. The fund surpassed its initial target of  ₹6,500 crore
+  🔗 https://www.livemint.com/companies/news/motilal-oswal-alternates-raises-rs-8-500-crore-private-equity-fund-11771249201119.html
+
+- Slice posts first net profit, appoints founder Rajan Bajaj CEO after RBI approval
+  Slice has raised more than $250 million from investors including Tiger Global, Insight Partners and Advent International. Slice serves
+  🔗 https://www.livemint.com/companies/slice-posts-first-net-profit-appoints-founder-rajan-bajaj-ceo-after-rbi-approval-11771246279503.html
 
 - Zoho's Sridhar Vembu dismisses Microsoft AI chief's warning on white-collar roles; shares his take on job loss fears
   Zoho co-founder Sridhar Vembu says white-collar jobs will persist. His comments contrast with Microsoft AI's CEO, who warned of
   🔗 https://www.livemint.com/companies/people/zohos-sridhar-vembu-dismisses-microsoft-ai-chiefs-warning-on-white-collar-job-loss-shares-ai-survival-kit-11771233866282.html
 
-- Anthropic opens Bengaluru office; partners with Air India, edu-nonprofit Pratham, others in AI push — Details here
-  Anthropic, on 16 February 2026, announced that it is opening an office in Bengaluru, Karnataka. The company is focused on its partnerships across several sectors and with multiple
-  🔗 https://www.livemint.com/companies/news/anthropic-opens-bengaluru-office-partners-with-air-india-edu-nonprofit-pratham-others-in-ai-push-details-here-11771237403974.html
+- Quote of the day by George Soros: ‘It's not whether you're right or wrong, but how much money you make…’
+  Success in financial markets is not about being right or wrong, but about profits earned when correct and losses faced when
+  🔗 https://www.livemint.com/market/quote-of-the-day-by-george-soros-its-not-whether-youre-right-or-wrong-but-how-much-money-you-make-11771259728101.html
 
-- Torrent Power to acquire Nabha Power from L&amp;T for  ₹6,889 crore
-  The acquisition comes as India’s power
-  🔗 https://www.livemint.com/companies/news/torrent-power-to-acquire-nabha-power-ltd-from-l-t-for-rs-6-889-crore-11771230553580.html
+- Zerodha CEO Nithin Kamath explains how RBI's new lending norms for brokers impact stock market investors
+   Reserve Bank of India's new lending norms for brokers are set to impact stock market investors. Here's what you need to know about the update effective from 1 April 2026
+  🔗 https://www.livemint.com/market/stock-market-news/zerodha-ceo-nithin-kamath-explains-how-rbis-new-lending-norms-for-brokers-impact-stock-market-investors-11771254906507.html
 
-- Steve Jobs felt hiring professional management for Apple ‘didn’t work at all, most of them bozos’ — Here's what he did
-  Steve Jobs felt hiring professional management for Apple “didn’t work at all” Jobs said “most of them were bozos” who
-  🔗 https://www.livemint.com/companies/people/steve-jobs-felt-hiring-professional-management-for-apple-didn-t-work-at-all-most-of-them-bozos-heres-what-he-did-11771222434950.html
+- Gold, silver rates today: Comex gold slips $65/oz; silver down $3.40/oz on profit booking, firm US dollar
+  April gold futures dropped to $4,981, while silver fell to $74.57. Investors are awaiting key economic data for further direction.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-slips-65-oz-silver-down-3-40-oz-on-profit-booking-firm-us-dollar-11771250364814.html
 
-- Fear job loss due to AI? Devina Mehra says history shows humans can't predict eventual impact of any new technology
-  Ace investor Devina Mehra feels that job losses due to AI may not be too dire. She points out that human beings have never been able to predict
-  🔗 https://www.livemint.com/companies/people/ai-job-loss-fears-devina-mehra-investor-first-global-humans-never-able-predict-eventual-impact-new-technology-employment-11771227134391.html
+- Q3 earnings review: Nifty 50 logs seventh straight quarter of single-digit PAT growth, shows report
+  The December quarter saw Nifty 50 companies achieve a 7% profit growth. However, the trend of single-digit PAT
+  🔗 https://www.livemint.com/market/stock-market-news/q3-earnings-review-nifty-50-logs-seventh-straight-quarter-of-single-digit-pat-growth-shows-report-11771248001129.html
 
 - Want to invest  ₹1 lakh now? Experts suggest how to split it between stocks, gold and silver
   Experts share insights on strategically allocating  ₹1 lakh across stocks, gold, and silver. Discover the recommended percentages and the rationale behind
   🔗 https://www.livemint.com/market/stock-market-news/want-to-invest-1-lakh-now-experts-suggest-how-to-split-it-between-stocks-gold-and-silver-11771243346841.html
 
-- Infosys share price slides 27% from 1-year high. Here’s how much domestic funds have lost
-  45 mutual funds collectively owned a 22.12% stake in Infosys. Some of the key mutual funds holding stakes in the company include SBI Mutual Fund with a 4.66% stake.
-  🔗 https://www.livemint.com/market/stock-market-news/infosys-share-price-slides-27-from-1-year-high-here-s-how-much-domestic-funds-have-lost-11771241851121.html
-
-- Stocks to buy for short term: Astral among three shares that Axis Securities recommends for up to 20% upside
-   Axis Securities recommends Kirloskar Oil Engines, Blue Star and Astral. The stocks are expected to reach their targets
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-astral-among-three-shares-that-axis-securities-recommends-for-up-to-20-upside-11771241294164.html
-
-- Delhi HC dismisses plea challenging Sebi approval for NSE’s long-awaited IPO on jurisdictional grounds
-  A former judicial officer had sought to restrain Sebi from allowing the IPO. He cited alleged violations in N
-  🔗 https://www.livemint.com/market/delhi-high-court-dismisses-petition-nse-ipo-clears-legal-hurdle-listing-11771235862090.html
-
-- Gaudium IVF &amp; Women Health IPO: 10 key things to know from the RHP
-  Gaudium IVF &amp;amp; Women Health's IPO opens for subscription on February 20, 2026. It includes a fresh issue of 1.13 crore shares and an OFS of 94.93 lakh shares
-  🔗 https://www.livemint.com/market/ipo/gaudium-ivf-women-health-ipo-10-key-things-to-know-from-the-rhp-11771237596562.html
-
 - Europe seen as key market for data sovereignty technology - Euronews.com
   Europe seen as key market for data
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPdnQ0TG5QOUotVjh5a3BkN2kzRmhkeVhwaWNkdFh0VjhvRGlSMHZNbVVXLUZBXzZvU1EtN0VOdkNJX3lybHJKbHZsQlcxWDBSbmJ1WUU2d2g3LXRlWVFnajl5d0VCbzRjZ3N4ME1SZlpSRFhjbU9sNlktcDJZX19MU2pPaEs0LVA4UzBZUlVyYmhpWVlOaDZoUFozOVhURWs?oc=5
 
-- India hosts AI Impact Summit, drawing world leaders, tech giants - Al Jazeera
-  India hosts AI Impact Summit, drawing world leaders
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOQlZBdmR2a2RBM1FGaWpuS2kxMENjYlBuNXpDdHRUVmlCYU1tNWlmUEVBQUlHUDJEa1J3TW5INldHY0YwUFFBcXVGZldpaE1jei1iOE9PNHNNNExJVGtCSExqYXl2MXJ6aDVIR1R4ZEdka3JUT2RzZllFVVZwbU96UjNOY1pOMUluai1teEFQbXFWemc3SGwwSlFvRENyVHVva3Vzczdn0gGrAUFVX3lxTE9sRHhEek8yVnU3dEw5T3V0bndfQmltdENibUNHLVpDZ0JkdVJEakxaRHE3Y0NUQVhudjRpVFJXeW12anRuZzRYalBtNXBvOXJING45ZExTZXloY2xxYmtNMTF0ZDhZdWE3NXFZSTdkY3diOUJrdTktR29fMS1TQmdQX2JfQ0p3MmRCMFk0SjdBeGZBVVl1RTVodzNJWGxHX05jS2Qxc2VMT09LSQ?oc=5
-
-- India AI Summit 2026 LIVE: In talks with over 30 countries on technical and legal solutions for deepfakes: Ashwini Vaishnaw - The Hindu
-  India AI Summit 2026 LIVE: In talks with over 30 countries on technical and legal solutions for
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkR4V1RwYkFDVnlPVU1xTGlOTHJPSWd1d2JlLW9RMWtlUENWX3FOYlVabnBlZnladnMyLU0tSXFRUTdtcnEyRG1OcWRGekJLUzFDbWlWdUJFY3NHMkVlY3FJTk9DYUN1VnljRk5IR0tSN1I2NERNMnozbzlpcjZhS3JZR1JsMmdWdVI2dkNUbzc3THk1MFBadkhvMW1fVmZvZUlMcW9iSGluRDd4MkZpdHMtaVd3VkZ3akx5Y1k2d0dLSXlld2JZY3RsbmY4NFJmcU9qM2xsbnXSAd8BQVVfeXFMTVREaFp6UGdNQjNkcHdLcUVnd0VPeU03clhybkZCWXA4Ykd3MUpBWkhmOURuUW1NT1lJd0FTRWxkdnNBWmtGd0FXRlZYLTlWQmhBZU9fOWd4dWo2a2ZaNTlkeGtrQjl5LVltcFNkQ1ZoRGpjVzRGS3E3RXd0cXpLakloamVZcW5zM0pzdVk3ZlZxb1dlWjZXeW1JWUhjcEQ2SHd5d2czT1dOT1ZBWGkycEwxSjR0SU1LQTIwREVlR2xzUHoxSkVpR3hJT1dHd1U4Z3FVTkI2eFdOY2pyWU5aRQ?oc=5
-
-- AI Summit India 2026 Live Updates: PM Modi to inaugurate event shortly - Times of India
-  AI Summit India 2026 Live Updates: PM Modi to inaug
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcEpvRTA0OTlFQ1pmTnNsMnBVYTFEQk03Z3VGVUdpSkMxcDJWQzZaeWdWYl83MzBiMms1bnYzVDVWRkZkMVZHdlVUWlQtNXN1YUc5dDM2cG5xY1dGMElDN3hRQXV3azlmaTIxNmoyX2pnckY2OTRQamt5WDRrbTJ6eFdhTGtlZnhUMm1uUnI4ZHM4R01vSUFGam81NWRiV3ZkTkpmYjRVcktDUVVNY09DUld4cTRzNDZnNGc0VFZubzdtaWdrUFVXd2IzRzdyMW5ncmpQOVdabUtSYmZWMFlqdHVIUnFYTm9sb2RqclVnQ0YwRW53UnQzRlNVV2VpNmI0WFAycGJRNHnSAY4CQVVfeXFMUEVpaktuOS1MamRmLVdacU8yaE9MUUtUSm9rejhrSG1IOTBZUW5lZ3kwR2RnZTNvWm1LTm5aSE4zOWkxVW1VVk5CWS0tdHJMLVhjc2lsZ2hjSjZBdWUxVmVqRjVrbjllZXVNMHA4RmYwbnppbkJoWkRJc0hhQ2ZHLXNxMHpacS1uR1M4Sy05akZqMElURXlSdDBEQXZOa3dTNS1tbGdhWk45SUxzc2ROaXlXTTVWVFluRnpqcngzUVZJV2htLXlnNU5HeDJOeDdhLXhURE5DOTB3aXNYQ0dKTFpsQ2hMRXRvODVFQ1M2OUZ2Wml4ZHJhMG0ySXhpb2c1Wk9ZMjdwWVNXQVdaWkRR?oc=5
+- Autonomous technology | Inside the driverless age - The Hindu
+  The Hindu is a leading
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXdIVjFIRWpiQlVBSmNGRjIta00wdG9JTDYxeFc4UXZUbklQSVNPemtiNGpNbExjQ2xRVmVUNFJsMURSWlVHejRsTHpjMEhWaTFoUE5FZEhSWENsNFBsdmZGS0JVeUM1QWNBS3VaOUV6dzhzVVhIbGhZVG9TNzVuVnotWHhxMmVPRE5tN1IwN3lXZlZ3akZNbGVfdVVqdWxLdnR5TnpLVDM0dnlHQXR0ckQxaGxKb3ZZYm9RbGt6bmXSAccBQVVfeXFMUG5sLXNQRFpyY0p5OTE3Zm9DT1pXSkRjZm1HQW1ZU3NValo5TWVhSzJ2UE1iUFA0eHQxWF9OZGRTQ2FOTWVXeWtwMl9xQjVwQk8yZzJVNnBDVFc1QW5FNGdyNkpJeVJGZWwzYldWN3hNbGtaQ0VHMjBEWVhUbWhQdjlTVUZoMGFEZmVWeU9ycUFQdEFDdXZta082dXNxVjJTeGZ4Tlg4SlFWSV9BVGJMcUowU2xJUnhhU1FPTWU0cW8wYnhqeVIxdw?oc=5
 
 - Bill Gates discusses technology in governance and public health in Andhra Pradesh - News On AIR
   Bill Gates discusses technology in governance and public health in Andhra
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVIya2JIMmN0MWZDdWRKcUtjU09zcFdyd0U3emh5RW00WDE2dS1KNmgxcF95eVBlbFppWExfMjBSRGQ4QkY5ek5KRXlrQnRKTEtOMDJheVdVQ2JST3FUZVZyQzEtSXNpa0dPeW1vYUNwZ2p5Nm9Wbk96VXZlc0doUm5rME9XSzZVZVE0cERWZC1jMEdzUUI0TmMzc0Q3TC1YUTZXRkwydEFSNG4tcEVWTA?oc=5
 
-- Bargain buying lifts markets as Sensex, Nifty rebound 0.8% after sharp fall
-   Benchmark indices rebounded 0.8% after a two-session slide, driven by bargain buying in HDFC
-  🔗 https://www.business-standard.com/markets/news/bargain-buying-lifts-markets-as-sensex-nifty-rebound-0-8-after-sharp-fall-126021600940_1.html
+- Findability Sciences, Nath School of Business & Technology, and Kamalnayan Bajaj Hospital sign MoU to adv - Times of India
+  Findability Sciences, Nath School of Business & Technology, and Kamalnayan
+  🔗 https://news.google.com/rss/articles/CBMiswJBVV95cUxQNWZvek45V0pRMUdJb0s2Y2NuUlI3SDNsckdGT3p6X05IMUJjang0UmpmZlZiOHVOcW5tVFFvc01ncDBURWJQcUE1d1ZoTWRvM2RJVGVmRWRpNWx3N0k5RkNHX2Uzb0JpMENvUjhtbEY4YkwwOVY3Y2c4bkpWUFRydDh6UzlBb0xSSnd4bFFzZ3JSeHNWYVJreTNJSnhkaVl6MFNXYUJQeDM3R0JkOGJQRms2dlJhVDJiSEZaaXY1YUNWUU05MkdNbERHRmwxNUJyWG1TUTRBczc1cHAxaEVDNm9aS0FVOEI4RGZocm8tUm5Eb0JXUUwtRFJVYm1oVE5mVy1wdFV2eF9hOElxc3Y4NmMwVW1CZGNWdmtjeUVzVC1CMnFTQnY3cHk3OEU2Z2R3TWww0gG4AkFVX3lxTFB0d2tHdDhXbzAzaVpYZ0owY002cDMxdDVPWlVQaklnYlBsY2dXZHJBOWpiRy1QRkoxejBEb2daNUwzdjlpdHJGNVZZcS1ORTlId1FzVGRMTUFtdzhMbi1yNmtQV3FES0hsOU0zYWlfMU9rcWtKZmp2cnBlejl5aXhlNlEtM0ttMkg4akE4OWk2cFI3dmtYOWZHUnpMbm5EaUFlQjc1VjRoSHozQ3FwcWhNNncwdXNMOGROT0xwdnZlaFFpdXhCRUx1TjlaRGNzdUVneEVsVWJ3SUx5a2ZZb21VTTZSMmNIcXBGMzJMLWwxM3h1UkNWNDh2THFhd1d2M0RYRW5hTFhPU3J1MlJjeTQyUkZyYUU0QlRPYVdKQjNfUkVxb2tYOThlYm8ybHoyQmVlSkgzeE5nRA?oc=5
 
-- India's unemployment rate rises slightly to 5% in Jan-26
-  India's Labour Force Participation Rate (LFPR) shows steady trend. Overall LFPR among persons of age 15 years and above reported as 55.9% in January, 2026. Rural LFPR was 58.7% in
-  🔗 https://www.business-standard.com/markets/capital-market-news/india-s-unemployment-rate-rises-slightly-to-5-in-jan-26-126021600855_1.html
+- The new technology shaping the vehicles of tomorrow - BBC
+  The new technology shaping the vehicles
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPaVdBeHNWOTVmb2ZDUlk0b2pmOXU0cEVQdldIQ0g3SHFwMmtwODVjX3dtRlFnakFxWmM3cWFoa000blhabnNXUndScFMyRThsa2VxcDg3M0czZy03MmRhWlZxQ3ZhSjNlZEVWcWZMSVBnQVJjeHVaSDhBVmJDNnVyUkJXVzJpeGFyNWdKZVpOMDhxMnhub3c?oc=5
 
-- INR settles flat in range-bound trades
-  The Indian rupee settled flat at 90.66 (provisional) against the US dollar in a range-bound trade on Monday. Lower crude oil prices supported the local unit, while foreign fund outflows limited its movement.
-  🔗 https://www.business-standard.com/markets/capital-market-news/inr-settles-flat-in-range-bound-trades-126021600831_1.html
+- A Stock Market Doom Loop Is Hitting Everything That Touches AI - Bloomberg.com
+  A Stock Market Doom Loop Is Hitting Everything
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPcW9VVS1JV29FazRmcHFhdFJJWU92eE5RQmJ5YjRhQVB5bE5NTS1ZSGxWWVdreUZLaFI5bHNYNlNGMkRBZXJFS0tfZFA3c1ZvaTB2bnp1TE9vWC0xdFNpd0hOUnJURGtxMEd3eTNrSkhhRGZWMThMYlpEc2FwOVBqWk5KMEsyZC15WFY2TmJDUkMyMkRWZkd0Y3hhYmFlalhyMzA1Q25FSG52LUcxN082QnU5cw?oc=5
 
-- Benchmark indices rebound sharply; Nifty climbs past 25,650
-  The Nifty reversed its two-day slide and settled above the 25,650 mark. Benchmark equity indices finished firmly higher on Monday.
-  🔗 https://www.business-standard.com/markets/capital-market-news/benchmark-indices-rebound-sharply-nifty-climbs-past-25-650-126021600830_1.html
+- Global week ahead: Markets brace for more AI noise and 'scare trading' - CNBC
+  The markets are bracing for more AI noise
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTZGMG16cmRaQzNLT0Z1ZktudTl2cTZYMUhVRXEweEh6MkpOQ0ZIcFQzaHFvZ2VwdUZzMzd6Mk05ZDdRLTAwVGQxU2N6a1ljWExuYVVRRm1FeGZzcTVtTW1lZEstSXJKSFpoWmI2b1EtSWtVd3dJcmZycXhrM1d1SkY2NXVJdnAtd1gyVlJtb21uekV3RGxzdWpIVHZBY0d6cUhhZzQ0ONIBrAFBVV95cUxQcHJhc25KQmwySFp2aHRGOTdqejNxY2RtTTRxcWZJekNWeW05UTZ4aFNSRGhNN21uYVFqcWFZMmJRSFdHNGNwYVJ0MG9KVDlpcmFlS1hvbElpWXBFamZqRnM3LWctYVVERFJrelRRSUIxR09OVWZCWXBWVFYyUVJXZE1PTlV1ZjBvSXBSQzBFSVgyVmxfTDBSbVJIbm9SREd4OUVLb3dFeWhpM2p3?oc=5
 
-- Religare Ent slips after Q3 net loss widens to Rs 45 cr; board OKs demerger plan
-  Religare Enterprises dropped 5.03% to Rs 232 after the company's consolidated net loss widened to Rs 45.30 crore in
-  🔗 https://www.business-standard.com/markets/capital-market-news/religare-ent-slips-after-q3-net-loss-widens-to-rs-45-cr-board-oks-demerger-plan-126021600803_1.html
+- Stock market volatility: Why you need a financial planner - Times of India
+  A financial planner can help you deal with stock
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMUF1bjFyQzluQVRQZUFQVXVmcWR6Snl0RFlxRkhzVmJxcUZHaVh3Q0ZEMEtZNWxPSzBvUVRjVm5UYmFuaUdmMElXV0FOMDVrTE95VzlQZl9wbFVTVHB5bkRFOEtHQkEySzRrMWFWaXJZWmFQb0N3a2M0R0lMeU5pTzFaTl9Pc2s4Z29YbmJYRUtoa3RqZkl5U1N5cThNTGl0eTJpeGU4and6LWNFM2o0S0pQUFc2SFhITkZLZjRZTXRiT01MRlpkMGcxTWdxUFlwUzhoc0FqRDhFbm1aOElMcDVlYmpjX0xnSUxjcdIB8gFBVV95cUxNREpmeGNOaW5qck43c25LWWsxZ2RJOU1SLUVvZWh1U3hvUHQ0dTFkTVpCc3E4Wk1EYV9vd2lJOGJOTU5sU2hPSnkyb1Z2djU0Sm9PSWp1YklTWUFaZmdocURES2t1SHZMTTFZYW8xRmppQk51eVk4R3RNT2xaYTRmbkhCeGFtTVoyOHBmcC1MM2xteUxEZmhrd1hkUG0wUjVmYVFwZnN6cWpROVNVMUJFMkVLakZOZWFzZ2ZUUWxXWTEtSTVOZWQ3a2RsRjI3SmRqcG11UzJsWGxvX0MxMG13VkNpV1BwWVRDWENOVUdGX2lQQQ?oc=5
 
-- Europe seen as key market for data sovereignty technology - Euronews.com
-  Europe seen as key market for data
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPdnQ0TG5QOUotVjh5a3BkN2kzRmhkeVhwaWNkdFh0VjhvRGlSMHZNbVVXLUZBXzZvU1EtN0VOdkNJX3lybHJKbHZsQlcxWDBSbmJ1WUU2d2g3LXRlWVFnajl5d0VCbzRjZ3N4ME1SZlpSRFhjbU9sNlktcDJZX19MU2pPaEs0LVA4UzBZUlVyYmhpWVlOaDZoUFozOVhURWs?oc=5
+- Bitcoin weekly RSI echoes mid-2022 bear market as BTC plays liquidity games - TradingView
+  Bitcoin weekly RSI echoes mid-2022 bear
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdnV6T1NGbDVERGhLQWx2bGtORG94V1QyekMtM19BTXFYVEFMQnNGTWJuQ2d5Tm1mMTdZRFlsdnBkVmdwQ3BQY3c1ZVRrNXlqSEo3Y0VRODlPbFZVMnBwOTRfMFhjQmRrV2dTdnlFUG9RaENaTnpycHRHTUh0d2hWaHVPYVc0dHBnenlBMGZ2bWJMb0cxdF84WGYyd1VybzFrUmJoNjNvRndpOFdrdXRfVVZKSTRNUFRPVlN2aUc0QTY0NTN2VEp4aFkySEZ5Y09JRm1yWmdB?oc=5
 
-- India hosts AI Impact Summit, drawing world leaders, tech giants - Al Jazeera
-  India hosts AI Impact Summit, drawing world leaders
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOQlZBdmR2a2RBM1FGaWpuS2kxMENjYlBuNXpDdHRUVmlCYU1tNWlmUEVBQUlHUDJEa1J3TW5INldHY0YwUFFBcXVGZldpaE1jei1iOE9PNHNNNExJVGtCSExqYXl2MXJ6aDVIR1R4ZEdka3JUT2RzZllFVVZwbU96UjNOY1pOMUluai1teEFQbXFWemc3SGwwSlFvRENyVHVva3Vzczdn0gGrAUFVX3lxTE9sRHhEek8yVnU3dEw5T3V0bndfQmltdENibUNHLVpDZ0JkdVJEakxaRHE3Y0NUQVhudjRpVFJXeW12anRuZzRYalBtNXBvOXJING45ZExTZXloY2xxYmtNMTF0ZDhZdWE3NXFZSTdkY3diOUJrdTktR29fMS1TQmdQX2JfQ0p3MmRCMFk0SjdBeGZBVVl1RTVodzNJWGxHX05jS2Qxc2VMT09LSQ?oc=5
+- Market Highlights: Sensex settles 650 pts higher, Nifty above 25,650; Power Grid rises 4%, HDFC Bank 2% - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxPV0JlRzJrT21ja1NneFduclY4WkE2OW1VYTdZTGtGS09mY2ptbmhSNDNndzlTUm5Wb2h5eVpkNlBZaXIwYlRZLTdadDZDOWtZSDhlRk5mdFQ5NFhQbERsLWV1NE5SWDNpdm
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPV0JlRzJrT21ja1NneFduclY4WkE2OW1VYTdZTGtGS09mY2ptbmhSNDNndzlTUm5Wb2h5eVpkNlBZaXIwYlRZLTdadDZDOWtZSDhlRk5mdFQ5NFhQbERsLWV1NE5SWDNpdmJZRkZnRVd2VnpuS1BwanAtcEtmemk4a3JyNlVNaVd0TmNSZ2V2eGZCem8tX0ZvR1JFeFZrdnRCeXY2OTloOGd5S1Z6bGYxMWVyVjR0Umk3ZXVsTnBPOTdRc0s2anVwTDRyR25JVGNQYlJWNnN3cE1RMlBVSGtMcWUzcTF3Q25zdWEybDlTVWxEQmZDU2xLYnlMcm8zX1R0Y29rdNIBigJBVV95cUxPY2VKbEUxWC1lcWJQZUJVWHN3Zl8tc1Q5d2FUd2pSQ0lTSGpzTXp6clktT1kwMHNrcVpMbzAyZjZWZmh1dndTMnAyTE0tRnJPZ0FOVmM2UzlPS0dOYmJVTUh4VWUxVDJPMGIwV01fVU1DM1M5SVVCM2ZQemo2MzNZTkJkWFpCRWpIUE9UNTd2YW1tMzlud2FXb2VIcWIzUGprLTR0VUNWREdyZWhIb01zM2FRdEQ5RGh6T3dJVmJJdU9CRG53TFhxZG5MX1YyYjUzLTk5eXhETE1EaF9HWVkzNlZWUlNwSDNyb3h1MWZfUVZSOTRNX1RTaFVsQTNwYWUxZ1Y5U05za2xLdw?oc=5
 
-- India AI Summit 2026 LIVE: In talks with over 30 countries on technical and legal solutions for deepfakes: Ashwini Vaishnaw - The Hindu
-  India AI Summit 2026 LIVE: In talks with over 30 countries on technical and legal solutions for
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkR4V1RwYkFDVnlPVU1xTGlOTHJPSWd1d2JlLW9RMWtlUENWX3FOYlVabnBlZnladnMyLU0tSXFRUTdtcnEyRG1OcWRGekJLUzFDbWlWdUJFY3NHMkVlY3FJTk9DYUN1VnljRk5IR0tSN1I2NERNMnozbzlpcjZhS3JZR1JsMmdWdVI2dkNUbzc3THk1MFBadkhvMW1fVmZvZUlMcW9iSGluRDd4MkZpdHMtaVd3VkZ3akx5Y1k2d0dLSXlld2JZY3RsbmY4NFJmcU9qM2xsbnXSAd8BQVVfeXFMTVREaFp6UGdNQjNkcHdLcUVnd0VPeU03clhybkZCWXA4Ykd3MUpBWkhmOURuUW1NT1lJd0FTRWxkdnNBWmtGd0FXRlZYLTlWQmhBZU9fOWd4dWo2a2ZaNTlkeGtrQjl5LVltcFNkQ1ZoRGpjVzRGS3E3RXd0cXpLakloamVZcW5zM0pzdVk3ZlZxb1dlWjZXeW1JWUhjcEQ2SHd5d2czT1dOT1ZBWGkycEwxSjR0SU1LQTIwREVlR2xzUHoxSkVpR3hJT1dHd1U4Z3FVTkI2eFdOY2pyWU5aRQ?oc=5
+- RBI issues draft norms for reporting on forex derivative transactions involving rupee
+  RBI issues draft norms for banks to report foreign exchange derivative transactions involving rupee undertaken by their related parties globally. Move aimed at enabling better pricing
+  🔗 https://economictimes.indiatimes.com/markets/forex/rbi-issues-draft-norms-for-reporting-on-forex-derivative-transactions-involving-rupee/articleshow/128429483.cms
 
-- AI Summit India 2026 Live Updates: PM Modi to inaugurate event shortly - Times of India
-  AI Summit India 2026 Live Updates: PM Modi to inaug
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcEpvRTA0OTlFQ1pmTnNsMnBVYTFEQk03Z3VGVUdpSkMxcDJWQzZaeWdWYl83MzBiMms1bnYzVDVWRkZkMVZHdlVUWlQtNXN1YUc5dDM2cG5xY1dGMElDN3hRQXV3azlmaTIxNmoyX2pnckY2OTRQamt5WDRrbTJ6eFdhTGtlZnhUMm1uUnI4ZHM4R01vSUFGam81NWRiV3ZkTkpmYjRVcktDUVVNY09DUld4cTRzNDZnNGc0VFZubzdtaWdrUFVXd2IzRzdyMW5ncmpQOVdabUtSYmZWMFlqdHVIUnFYTm9sb2RqclVnQ0YwRW53UnQzRlNVV2VpNmI0WFAycGJRNHnSAY4CQVVfeXFMUEVpaktuOS1MamRmLVdacU8yaE9MUUtUSm9rejhrSG1IOTBZUW5lZ3kwR2RnZTNvWm1LTm5aSE4zOWkxVW1VVk5CWS0tdHJMLVhjc2lsZ2hjSjZBdWUxVmVqRjVrbjllZXVNMHA4RmYwbnppbkJoWkRJc0hhQ2ZHLXNxMHpacS1uR1M4Sy05akZqMElURXlSdDBEQXZOa3dTNS1tbGdhWk45SUxzc2ROaXlXTTVWVFluRnpqcngzUVZJV2htLXlnNU5HeDJOeDdhLXhURE5DOTB3aXNYQ0dKTFpsQ2hMRXRvODVFQ1M2OUZ2Wml4ZHJhMG0ySXhpb2c1Wk9ZMjdwWVNXQVdaWkRR?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Tuesday
+  Indian benchmarks rebounded, snapping recent losses as financial, energy and pharma stocks advanced. BSE Sensex and Nifty 50 gained strongly, though broader
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/128428860.cms
 
-- Bill Gates discusses technology in governance and public health in Andhra Pradesh - News On AIR
-  Bill Gates discusses technology in governance and public health in Andhra
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVIya2JIMmN0MWZDdWRKcUtjU09zcFdyd0U3emh5RW00WDE2dS1KNmgxcF95eVBlbFppWExfMjBSRGQ4QkY5ek5KRXlrQnRKTEtOMDJheVdVQ2JST3FUZVZyQzEtSXNpa0dPeW1vYUNwZ2p5Nm9Wbk96VXZlc0doUm5rME9XSzZVZVE0cERWZC1jMEdzUUI0TmMzc0Q3TC1YUTZXRkwydEFSNG4tcEVWTA?oc=5
+- Goldman Sachs doubles down on Aye Finance despite muted debut; BofA picks up stake in EIL in Rs 100 crore bulk deal
+  Goldman Sachs bought shares worth Rs 22 crore in Aye Finance. BofA Securities acquired a Rs 100 crore stake in Engineers India Ltd
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-doubles-down-on-aye-finance-despite-muted-debut-bofa-picks-up-stake-in-eil-in-rs-100-crore-bulk-deal/articleshow/128428556.cms
+
+- RBI's new lending rules: Nithin Kamath explains what changes for brokers and traders
+  The Reserve Bank of India tightened lending norms for capital market entities. Nithin Kamath said costs will rise for brokers, though Zerodha clients
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbis-new-lending-rules-nithin-kamath-explains-what-changes-for-brokers-and-traders/articleshow/128427812.cms
+
+- Prabhudas Lilladhar initiates coverage on Fractal Analytics with 50% upside call despite weak listing
+  Fractal Analytics debuted below its IPO price, reflecting valuation concerns and cautious sentiment. Prabhudas Lilladhar maintained a positive long
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/prabhudas-lilladhar-initiates-coverage-on-fractal-analytics-with-50-upside-call-despite-weak-listing/articleshow/128425343.cms
+
+- 'Bangladesh First': Tarique Rahman's Reply To Query On Ties With India - NDTV
+  'Bangladesh First': Tarique Rahman
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
+
+- School assembly news headlines, February 16: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 16: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVklBWGtwOUdxejVtclN5dmhqQWpDVmJFOC1CWU5nUjhEWU1jaXFSbTdCQzJJeXFtUG9nSWdOcVl1MWhxWFI1VWlKMlIzaFJ4TGViVTRYMDdHRmZlQ0hHOS00Z05DY054TWRiX3dLZzYtdGtkNjZ2OWFnbmJYWk1DX040U2JOMkJlUUdmeE1WNGVHTmgtT2dtaGNqQWFXZ3k4b3VQS25DRF9yM3BJQVF1ejJpNHdfc1hIT1NJT01YMGtPRjB3ZFJaVDdfWW4xMDF5a2dNYVFfRnUxYklORjc2NDhfYUJCZ9IB6wFBVV95cUxPenBqUzBlTFYzMFVhQklrOFh4ZFBXSUc1bnV0ODhqc1VCTlVyNkR4dndpRGlXc3ZWUDA0OUZhZHB3Y3FCRXNBUmFsbUtBVEJFN0xOVk5CS0NHZTVodnROZlFnRUNkVWlXOURLVXVnRF9WVXBIa21RbWhZN21QeHh2aVBCOHgxWnhKTFJOa0JYN0puQ1l6VVFfWE10ZV9hT0o3THgtSmxuOE8xSFJpMi1ERFA0Y0lHeVIyTzJzcnE0TDExSzcyYjRqODA3SWhKaWxoWU43U3R1SFdSNFY2MXlvT3VxVnZIaTEtTmRz?oc=5
+
+- TCS and AMD to bring ‘Helios’ rack-scale AI architecture to India - Times of India
+  TCS and AMD to bring ‘Helios�
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd1dNRTRqMzJ4M0ROY3J5ZFpweHY1MWNHbGh0VExZRVFNQTZqR1ZUZEhTQ3ZXa213dnNDNGhtYU82SmMxRldMc2RyN3p0aHU5ZlFERnJYc2dndUVScXlHa0JyYlJoTjFqM0h6SFhWaWZVclcwZER3R1dKZVhwRGRmSGZCbEV3ajRuTWxDUkZJbEJYWk1QVXdTS3dTV0Q5cXE5bW5OUGpTeGlRdkYxbzlnNkZWUUl0aW1xNW93cmhBaTJKdV91ZndXb2ZYVDhLaEZrVXE0eHNCSmVLX0FJNHJJ0gHkAUFVX3lxTE5RR0RreGFuYmVOeVVZV21JbjhTMGk0RWtSTmdMUzg1ck14N1NPeUxZY3pZYVozQkN4Q1FNcHB4SFZlUG8yWU96ck5YMXRTN0pDbkU0d21TaHJKa1hGNWZaem9ZcE1VajJ1R01QSlFPODI1a1dvdGhlN2poY0IwaXBjeFFCVjRPdnRUZXdwQlN6RHNjY19TaHZkZlpuTUdvTnVvWTV3dVFzSmpZbk9CRkJtNkw3Vzl0cmhKRW84OXh1ZTk1eFdDblIzZHlVcHpkVHMzRTRjUnYxVTRBOGJDUFBmd1ZVZQ?oc=5
+
+- Efforts on to operationalise India, UK FTA in April - Daily Pioneer
+  Efforts on to operationalise India
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNTGMwNzFsZnpTNzFEMG5aWnd6MnhOZm9JTWotcWNydndwdERXNk9NT29XcjQ0dGdsSXoyck0ycWxVbHd1UmhqTVo4Y3dPbEZoTFQxXzZSamtyWmE5Snk2LWZ2VFZXZXhHaVVXbnE0OUlVZ0V3YWpHZ1oyOGM5NHprVUM1b1VQNTg?oc=5
+
+- India Seizes 3 US-Sanctioned Tankers Linked To Iran: Report - NDTV
+  India Seizes 3 US-San
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFBkRk5qTTJSdU1LRmF3bEdUNnFnSUJDdVJfanBNVFk0Z2pwRU05UldKNGYwZVkyRFFFSUQwOG1jdUpPdzhoWUg1dXNiclhzWTFwVmF4RER2R3RiQ080MXA2WmpvRWVoX2NQR1lxdXNiOXJuUERLRjF4OVVGWXJjT2ZRMHJraE9iRHpzUGJVWjVoNllDZ194dDRRVmNOZ1V20gGoAUFVX3lxTE93U2J4ZnZUbnI0WFM1UDR4Z2hmZktDLWZLeWxfd0M2LWRKQXI3eE1KdlFSUEU0UXFQV3Y3em8tQnp1UHlnZzJxNWkxX041Vmo2MC1pVVRxVG5GRmp3Zkx1Z1lhalBaWkFqOEZfZE5UWmZDNHJ5d00zd0dxX1MwdjdHWWxBMEhZTUZ5TFRIUVVzZGRTZ1ZLdTZCYkRMbzhlZmhZR3ZWekl5cA?oc=5
+
+- 'Bangladesh First': Tarique Rahman's Reply To Query On Ties With India - NDTV
+  'Bangladesh First': Tarique Rahman
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
+
+- School assembly news headlines, February 16: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 16: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVklBWGtwOUdxejVtclN5dmhqQWpDVmJFOC1CWU5nUjhEWU1jaXFSbTdCQzJJeXFtUG9nSWdOcVl1MWhxWFI1VWlKMlIzaFJ4TGViVTRYMDdHRmZlQ0hHOS00Z05DY054TWRiX3dLZzYtdGtkNjZ2OWFnbmJYWk1DX040U2JOMkJlUUdmeE1WNGVHTmgtT2dtaGNqQWFXZ3k4b3VQS25DRF9yM3BJQVF1ejJpNHdfc1hIT1NJT01YMGtPRjB3ZFJaVDdfWW4xMDF5a2dNYVFfRnUxYklORjc2NDhfYUJCZ9IB6wFBVV95cUxPenBqUzBlTFYzMFVhQklrOFh4ZFBXSUc1bnV0ODhqc1VCTlVyNkR4dndpRGlXc3ZWUDA0OUZhZHB3Y3FCRXNBUmFsbUtBVEJFN0xOVk5CS0NHZTVodnROZlFnRUNkVWlXOURLVXVnRF9WVXBIa21RbWhZN21QeHh2aVBCOHgxWnhKTFJOa0JYN0puQ1l6VVFfWE10ZV9hT0o3THgtSmxuOE8xSFJpMi1ERFA0Y0lHeVIyTzJzcnE0TDExSzcyYjRqODA3SWhKaWxoWU43U3R1SFdSNFY2MXlvT3VxVnZIaTEtTmRz?oc=5
+
+- TCS and AMD to bring ‘Helios’ rack-scale AI architecture to India - Times of India
+  TCS and AMD to bring ‘Helios�
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd1dNRTRqMzJ4M0ROY3J5ZFpweHY1MWNHbGh0VExZRVFNQTZqR1ZUZEhTQ3ZXa213dnNDNGhtYU82SmMxRldMc2RyN3p0aHU5ZlFERnJYc2dndUVScXlHa0JyYlJoTjFqM0h6SFhWaWZVclcwZER3R1dKZVhwRGRmSGZCbEV3ajRuTWxDUkZJbEJYWk1QVXdTS3dTV0Q5cXE5bW5OUGpTeGlRdkYxbzlnNkZWUUl0aW1xNW93cmhBaTJKdV91ZndXb2ZYVDhLaEZrVXE0eHNCSmVLX0FJNHJJ0gHkAUFVX3lxTE5RR0RreGFuYmVOeVVZV21JbjhTMGk0RWtSTmdMUzg1ck14N1NPeUxZY3pZYVozQkN4Q1FNcHB4SFZlUG8yWU96ck5YMXRTN0pDbkU0d21TaHJKa1hGNWZaem9ZcE1VajJ1R01QSlFPODI1a1dvdGhlN2poY0IwaXBjeFFCVjRPdnRUZXdwQlN6RHNjY19TaHZkZlpuTUdvTnVvWTV3dVFzSmpZbk9CRkJtNkw3Vzl0cmhKRW84OXh1ZTk1eFdDblIzZHlVcHpkVHMzRTRjUnYxVTRBOGJDUFBmd1ZVZQ?oc=5
+
+- Efforts on to operationalise India, UK FTA in April - Daily Pioneer
+  Efforts on to operationalise India
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNTGMwNzFsZnpTNzFEMG5aWnd6MnhOZm9JTWotcWNydndwdERXNk9NT29XcjQ0dGdsSXoyck0ycWxVbHd1UmhqTVo4Y3dPbEZoTFQxXzZSamtyWmE5Snk2LWZ2VFZXZXhHaVVXbnE0OUlVZ0V3YWpHZ1oyOGM5NHprVUM1b1VQNTg?oc=5
+
+- India Seizes 3 US-Sanctioned Tankers Linked To Iran: Report - NDTV
+  India Seizes 3 US-San
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFBkRk5qTTJSdU1LRmF3bEdUNnFnSUJDdVJfanBNVFk0Z2pwRU05UldKNGYwZVkyRFFFSUQwOG1jdUpPdzhoWUg1dXNiclhzWTFwVmF4RER2R3RiQ080MXA2WmpvRWVoX2NQR1lxdXNiOXJuUERLRjF4OVVGWXJjT2ZRMHJraE9iRHpzUGJVWjVoNllDZ194dDRRVmNOZ1V20gGoAUFVX3lxTE93U2J4ZnZUbnI0WFM1UDR4Z2hmZktDLWZLeWxfd0M2LWRKQXI3eE1KdlFSUEU0UXFQV3Y3em8tQnp1UHlnZzJxNWkxX041Vmo2MC1pVVRxVG5GRmp3Zkx1Z1lhalBaWkFqOEZfZE5UWmZDNHJ5d00zd0dxX1MwdjdHWWxBMEhZTUZ5TFRIUVVzZGRTZ1ZLdTZCYkRMbzhlZmhZR3ZWekl5cA?oc=5
+
+- 'Bangladesh First': Tarique Rahman's Reply To Query On Ties With India - NDTV
+  'Bangladesh First': Tarique Rahman
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
+
+- School assembly news headlines, February 16: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 16: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVklBWGtwOUdxejVtclN5dmhqQWpDVmJFOC1CWU5nUjhEWU1jaXFSbTdCQzJJeXFtUG9nSWdOcVl1MWhxWFI1VWlKMlIzaFJ4TGViVTRYMDdHRmZlQ0hHOS00Z05DY054TWRiX3dLZzYtdGtkNjZ2OWFnbmJYWk1DX040U2JOMkJlUUdmeE1WNGVHTmgtT2dtaGNqQWFXZ3k4b3VQS25DRF9yM3BJQVF1ejJpNHdfc1hIT1NJT01YMGtPRjB3ZFJaVDdfWW4xMDF5a2dNYVFfRnUxYklORjc2NDhfYUJCZ9IB6wFBVV95cUxPenBqUzBlTFYzMFVhQklrOFh4ZFBXSUc1bnV0ODhqc1VCTlVyNkR4dndpRGlXc3ZWUDA0OUZhZHB3Y3FCRXNBUmFsbUtBVEJFN0xOVk5CS0NHZTVodnROZlFnRUNkVWlXOURLVXVnRF9WVXBIa21RbWhZN21QeHh2aVBCOHgxWnhKTFJOa0JYN0puQ1l6VVFfWE10ZV9hT0o3THgtSmxuOE8xSFJpMi1ERFA0Y0lHeVIyTzJzcnE0TDExSzcyYjRqODA3SWhKaWxoWU43U3R1SFdSNFY2MXlvT3VxVnZIaTEtTmRz?oc=5
+
+- TCS and AMD to bring ‘Helios’ rack-scale AI architecture to India - Times of India
+  TCS and AMD to bring ‘Helios�
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd1dNRTRqMzJ4M0ROY3J5ZFpweHY1MWNHbGh0VExZRVFNQTZqR1ZUZEhTQ3ZXa213dnNDNGhtYU82SmMxRldMc2RyN3p0aHU5ZlFERnJYc2dndUVScXlHa0JyYlJoTjFqM0h6SFhWaWZVclcwZER3R1dKZVhwRGRmSGZCbEV3ajRuTWxDUkZJbEJYWk1QVXdTS3dTV0Q5cXE5bW5OUGpTeGlRdkYxbzlnNkZWUUl0aW1xNW93cmhBaTJKdV91ZndXb2ZYVDhLaEZrVXE0eHNCSmVLX0FJNHJJ0gHkAUFVX3lxTE5RR0RreGFuYmVOeVVZV21JbjhTMGk0RWtSTmdMUzg1ck14N1NPeUxZY3pZYVozQkN4Q1FNcHB4SFZlUG8yWU96ck5YMXRTN0pDbkU0d21TaHJKa1hGNWZaem9ZcE1VajJ1R01QSlFPODI1a1dvdGhlN2poY0IwaXBjeFFCVjRPdnRUZXdwQlN6RHNjY19TaHZkZlpuTUdvTnVvWTV3dVFzSmpZbk9CRkJtNkw3Vzl0cmhKRW84OXh1ZTk1eFdDblIzZHlVcHpkVHMzRTRjUnYxVTRBOGJDUFBmd1ZVZQ?oc=5
+
+- Efforts on to operationalise India, UK FTA in April - Daily Pioneer
+  Efforts on to operationalise India
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNTGMwNzFsZnpTNzFEMG5aWnd6MnhOZm9JTWotcWNydndwdERXNk9NT29XcjQ0dGdsSXoyck0ycWxVbHd1UmhqTVo4Y3dPbEZoTFQxXzZSamtyWmE5Snk2LWZ2VFZXZXhHaVVXbnE0OUlVZ0V3YWpHZ1oyOGM5NHprVUM1b1VQNTg?oc=5
+
+- India Seizes 3 US-Sanctioned Tankers Linked To Iran: Report - NDTV
+  India Seizes 3 US-San
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFBkRk5qTTJSdU1LRmF3bEdUNnFnSUJDdVJfanBNVFk0Z2pwRU05UldKNGYwZVkyRFFFSUQwOG1jdUpPdzhoWUg1dXNiclhzWTFwVmF4RER2R3RiQ080MXA2WmpvRWVoX2NQR1lxdXNiOXJuUERLRjF4OVVGWXJjT2ZRMHJraE9iRHpzUGJVWjVoNllDZ194dDRRVmNOZ1V20gGoAUFVX3lxTE93U2J4ZnZUbnI0WFM1UDR4Z2hmZktDLWZLeWxfd0M2LWRKQXI3eE1KdlFSUEU0UXFQV3Y3em8tQnp1UHlnZzJxNWkxX041Vmo2MC1pVVRxVG5GRmp3Zkx1Z1lhalBaWkFqOEZfZE5UWmZDNHJ5d00zd0dxX1MwdjdHWWxBMEhZTUZ5TFRIUVVzZGRTZ1ZLdTZCYkRMbzhlZmhZR3ZWekl5cA?oc=5
+
+- 'Bangladesh First': Tarique Rahman's Reply To Query On Ties With India - NDTV
+  'Bangladesh First': Tarique Rahman
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
+
+- School assembly news headlines, February 16: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 16: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVklBWGtwOUdxejVtclN5dmhqQWpDVmJFOC1CWU5nUjhEWU1jaXFSbTdCQzJJeXFtUG9nSWdOcVl1MWhxWFI1VWlKMlIzaFJ4TGViVTRYMDdHRmZlQ0hHOS00Z05DY054TWRiX3dLZzYtdGtkNjZ2OWFnbmJYWk1DX040U2JOMkJlUUdmeE1WNGVHTmgtT2dtaGNqQWFXZ3k4b3VQS25DRF9yM3BJQVF1ejJpNHdfc1hIT1NJT01YMGtPRjB3ZFJaVDdfWW4xMDF5a2dNYVFfRnUxYklORjc2NDhfYUJCZ9IB6wFBVV95cUxPenBqUzBlTFYzMFVhQklrOFh4ZFBXSUc1bnV0ODhqc1VCTlVyNkR4dndpRGlXc3ZWUDA0OUZhZHB3Y3FCRXNBUmFsbUtBVEJFN0xOVk5CS0NHZTVodnROZlFnRUNkVWlXOURLVXVnRF9WVXBIa21RbWhZN21QeHh2aVBCOHgxWnhKTFJOa0JYN0puQ1l6VVFfWE10ZV9hT0o3THgtSmxuOE8xSFJpMi1ERFA0Y0lHeVIyTzJzcnE0TDExSzcyYjRqODA3SWhKaWxoWU43U3R1SFdSNFY2MXlvT3VxVnZIaTEtTmRz?oc=5
+
+- TCS and AMD to bring ‘Helios’ rack-scale AI architecture to India - Times of India
+  TCS and AMD to bring ‘Helios�
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd1dNRTRqMzJ4M0ROY3J5ZFpweHY1MWNHbGh0VExZRVFNQTZqR1ZUZEhTQ3ZXa213dnNDNGhtYU82SmMxRldMc2RyN3p0aHU5ZlFERnJYc2dndUVScXlHa0JyYlJoTjFqM0h6SFhWaWZVclcwZER3R1dKZVhwRGRmSGZCbEV3ajRuTWxDUkZJbEJYWk1QVXdTS3dTV0Q5cXE5bW5OUGpTeGlRdkYxbzlnNkZWUUl0aW1xNW93cmhBaTJKdV91ZndXb2ZYVDhLaEZrVXE0eHNCSmVLX0FJNHJJ0gHkAUFVX3lxTE5RR0RreGFuYmVOeVVZV21JbjhTMGk0RWtSTmdMUzg1ck14N1NPeUxZY3pZYVozQkN4Q1FNcHB4SFZlUG8yWU96ck5YMXRTN0pDbkU0d21TaHJKa1hGNWZaem9ZcE1VajJ1R01QSlFPODI1a1dvdGhlN2poY0IwaXBjeFFCVjRPdnRUZXdwQlN6RHNjY19TaHZkZlpuTUdvTnVvWTV3dVFzSmpZbk9CRkJtNkw3Vzl0cmhKRW84OXh1ZTk1eFdDblIzZHlVcHpkVHMzRTRjUnYxVTRBOGJDUFBmd1ZVZQ?oc=5
+
+- Efforts on to operationalise India, UK FTA in April - Daily Pioneer
+  Efforts on to operationalise India
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNTGMwNzFsZnpTNzFEMG5aWnd6MnhOZm9JTWotcWNydndwdERXNk9NT29XcjQ0dGdsSXoyck0ycWxVbHd1UmhqTVo4Y3dPbEZoTFQxXzZSamtyWmE5Snk2LWZ2VFZXZXhHaVVXbnE0OUlVZ0V3YWpHZ1oyOGM5NHprVUM1b1VQNTg?oc=5
+
+- India Seizes 3 US-Sanctioned Tankers Linked To Iran: Report - NDTV
+  India Seizes 3 US-San
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFBkRk5qTTJSdU1LRmF3bEdUNnFnSUJDdVJfanBNVFk0Z2pwRU05UldKNGYwZVkyRFFFSUQwOG1jdUpPdzhoWUg1dXNiclhzWTFwVmF4RER2R3RiQ080MXA2WmpvRWVoX2NQR1lxdXNiOXJuUERLRjF4OVVGWXJjT2ZRMHJraE9iRHpzUGJVWjVoNllDZ194dDRRVmNOZ1V20gGoAUFVX3lxTE93U2J4ZnZUbnI0WFM1UDR4Z2hmZktDLWZLeWxfd0M2LWRKQXI3eE1KdlFSUEU0UXFQV3Y3em8tQnp1UHlnZzJxNWkxX041Vmo2MC1pVVRxVG5GRmp3Zkx1Z1lhalBaWkFqOEZfZE5UWmZDNHJ5d00zd0dxX1MwdjdHWWxBMEhZTUZ5TFRIUVVzZGRTZ1ZLdTZCYkRMbzhlZmhZR3ZWekl5cA?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-16 12:56:13 UTC_
+_Last updated: 2026-02-16 18:41:01 UTC_
