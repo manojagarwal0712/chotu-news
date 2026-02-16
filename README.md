@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
+- News Today Live Updates, 16 February | Six anti-drone systems, four air defence guns: How 15,000 security personnel will secure AI Summit in Delhi
+  
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-02-16-2026-news-headlines-10534320/
+
+- NGT clears Rs 80,000-crore Great Nicobar project, takes note of its ‘strategic importance’
+  
+  🔗 https://indianexpress.com/article/india/ngt-clears-nicobar-mega-project-cites-adequate-safeguards-in-environmental-nod-10534574/
+
+- Bill Gates arrives in Andhra Pradesh, to hold talks with CM Naidu on health and AI
+  
+  🔗 https://indianexpress.com/article/india/bill-gates-arrives-in-andhra-pradesh-to-hold-talks-with-cm-naidu-on-health-and-ai-10534474/
+
+- Udaipur-Asarva Vande Bharat train to commence inaugural run today: check stoppages, timings
+  
+  🔗 https://indianexpress.com/article/india/udaipur-asarva-vande-bharat-train-to-commence-inaugural-run-today-check-stoppages-timings-10533894/
+
 - ‘Organised thrusting of smallness’: Amartya Sen warns of ‘weakening secularism’ in India
   
   🔗 https://indianexpress.com/article/india/organised-thrusting-of-smallness-amartya-sen-warns-of-weakening-secularism-in-india-10534098/
 
-- 13-year-old Christian boy denied burial in Odisha village over church relocation row
+- OpenClaw founder Steinberger joins OpenAI, open-source bot becomes foundation
   
-  🔗 https://indianexpress.com/article/india/13-year-old-christian-boy-denied-burial-in-odisha-village-over-church-relocation-row-10534062/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openclaw-founder-steinberger-joins-openai-open-source-bot-becomes-foundation-10534470/
 
-- MBA student said she’ll return home after birthday party. 4 days later, her father identified body by her socks in a locked flat
+- UK’s Starmer seeks greater powers to regulate online access
   
-  🔗 https://indianexpress.com/article/india/mba-student-said-shell-return-home-after-birthday-party-4-days-later-her-father-identified-her-body-by-her-socks-in-a-locked-flat-10534117/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/uks-starmer-seeks-greater-powers-to-regulate-online-access-10534465/
 
-- What are ‘hornbill restaurants’? Behind Chhattisgarh’s plan to make tiger reserve a haven for rare bird
+- India AI Impact Summit 2026 LIVE Updates: PM Modi to inaugurate AI Impact Expo today at 5pm
   
-  🔗 https://indianexpress.com/article/india/what-are-hornbill-restaurants-behind-chhattisgarhs-plan-to-make-tiger-reserve-a-haven-for-rare-bird-10534116/
-
-- Filmmaker who accused ex-Kerala MLA and director of sexual assault speaks: ‘When survivor remains anonymous, accused gets all the space’
-  
-  🔗 https://indianexpress.com/article/india/filmmaker-who-accused-ex-kerala-mla-and-director-of-sexual-assault-speaks-when-survivor-remains-anonymous-accused-gets-all-the-space-10534114/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/india-ai-impact-summit-2026-live-updates-major-announcements-key-speakers-10534350/
 
 - AI Impact Summit 2026: Full guide to dates, time, venue, and agenda; How to register
   
@@ -28,59 +40,59 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-ai-glasses-facial-recognition-report-10533136/
 
-- David J. Farber, ‘Grandfather of the Internet,’ dies at 91
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/david-j-farber-grandfather-of-the-internet-dies-at-91-10532979/
+- Post-HUL demerger, Kwality Wall's aims to become a ‘snacking’ firm
+  Kwality Walls eyes
+  🔗 https://www.livemint.com/companies/kwality-walls-hindustan-unilever-snacks-ice-cream-fmcg-demerger-magnum-india-11771212560412.html
 
-- China’s ByteDance releases Doubao 2.0 AI model for ‘agent era’
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/chinas-bytedance-releases-doubao-2-0-ai-model-for-agent-era-10532975/
+- Fast&amp;Up attracts interest from VC firms for its ongoing $70 mn round
+  Venturi Partners and Elev8 Venture Partners are in the final round of bids for sports nutrition brand Fast&amp
+  🔗 https://www.livemint.com/companies/start-ups/fastup-venture-capital-sports-nutrition-protein-supplements-11771210831330.html
 
-- AI film school trains next generation of Hollywood moviemakers
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-film-school-trains-next-generation-of-hollywood-moviemakers-10532971/
+- ‘Low pay for exposure, be grateful…’ Ankur Warikoo lists 5 green flags, one red to consider while staying at your job
+  Ankur Warikoo lists five green flags and one red to consider when assessing whether staying at your job is worth it. From pressure to accept low pay for “exposure and learning�
+  🔗 https://www.livemint.com/companies/people/ankur-warikoo-5-green-flags-one-red-consider-stay-your-job-toxic-stress-low-pay-exposure-dread-appreciate-growth-respect-11771212676121.html
 
 - OpenClaw creator Peter Steinberger joins OpenAI, Sam Altman says will drive next-gen AI personal agents
-  Peter Steinberger, creator of OpenClaw, will join Open
+  Peter Steinberger has joins OpenAI to advance personal agents. The ChatGPT maker's CEO Sam Altman called the creator of OpenCl
   🔗 https://www.livemint.com/companies/people/openclaw-creator-peter-steinberger-join-openai-will-drive-next-gen-ai-development-personal-agents-chatgpt-ceo-sam-altman-11771202615277.html
 
 - Mubadala Capital Chases ‘Complexity’ Post Clear Channel Deal
   Mubadala Capital is embracing a more aggressive stance on dealmaking. It is wading into complicated transactions shunned by the titans
   🔗 https://www.livemint.com/companies/mubadala-capital-chases-complexity-post-clear-channel-deal-11771204758735.html
 
-- Olympus Drops After Full-Year Operating Income Forecast Cut
-  Olympus Corp. fell the most in nearly eight months after the company cut its operating income guidance for the
-  🔗 https://www.livemint.com/companies/olympus-drops-after-full-year-operating-income-forecast-cut-11771202679133.html
+- TCS vs Infosys vs Wipro: Nifty IT index sees worst fall since 2008 financial crisis, drops 32% from peak
+  IT stocks, including Infosys and TCS, continued to decline on February 16. The Nifty IT index fell 1.1%, down 32% from
+  🔗 https://www.livemint.com/market/stock-market-news/tcs-vs-infosys-vs-wipro-nifty-it-index-sees-worst-fall-since-2008-financial-crisis-drops-32-from-peak-11771224123314.html
 
-- Twist in tale? Warner Bros weigh Paramount offer that covers $2.8bn Netflix break fee, says report
-  Warner Bros is weighing renewed talks with Paramount after an amended offer that would cover a $2.8bn Netflix break fee
-  🔗 https://www.livemint.com/companies/news/warner-bros-board-reconsiders-paramount-talks-raising-stakes-for-netflix-deal-report-11771201321339.html
+- HAL, BEL, Mazagon Dock, and more: A look at top defence stocks for buy for long term - check full list
+  The Indian defence sector is set for expansion, supported by a record budget allocation. Companies such as HAL, BEL, and Mazagon Dock are highlighted as key beneficiaries
+  🔗 https://www.livemint.com/market/stock-market-news/hal-bel-mazagon-dock-and-more-a-look-at-top-defence-stocks-for-buy-for-long-term-check-full-list-11771173229599.html
 
-- AI firm Neysa to raise $1.2 billion from Blackstone, others in debt-equity mix
-  Neysa plans to raise $1.2 billion in a Blackstone-led deal to scale India’
-  🔗 https://www.livemint.com/companies/news/ai-firm-neysa-to-raise-1-2-bn-from-blackstone-others-in-debt-equity-mix-11771151902418.html
+- Max Financial Services shares hit a record high, jump 14% in February so far— Time to buy more or book profits?
+  Max Financial Services share price has been on a roll this month, rising about 14%. It hit a 52-week low of  ₹972.55 on March 4 last year.
+  🔗 https://www.livemint.com/market/stock-market-news/max-financial-services-shares-hit-a-record-high-jump-14-in-february-so-far-time-to-buy-more-or-book-profits-11771222720273.html
 
-- Gold prices dip on firmer U.S. dollar
-  Gold prices
-  🔗 https://www.livemint.com/market/gold-prices-dip-on-firmer-u-s-dollar-11771205676643.html
+- Small-cap multibagger stock declares 1:2 stock split, 1:2 bonus shares. Details here
+  R&amp;amp;B Denims share price has gained 27% in one month and has rallied 51% in three months. The smallcap stock has jumped 93% in six months and has delivered multibagger
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-multibagger-stock-r-b-denims-share-price-declares-1-2-stock-split-1-2-bonus-shares-details-here-11771223624471.html
 
-- Indian stock market: 8 key things that changed for market over weekend- Gift Nifty, US inflation, Japan GDP to gold rate
-  Gift Nifty was trading around 25,465 level, a discount of nearly 54 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-8-key-things-that-changed-for-market-over-weekend-gift-nifty-us-inflation-japan-gdp-to-gold-rate-11771172532645.html
+- How will silver price fare in 2026?
+  Silver price experienced the sharpest crash in its history in just one week. After stunning gains seen in 2025
+  🔗 https://www.livemint.com/market/commodities/silver-price-india-silver-rate-today-silver-price-in-2026-silver-price-outlook-11771220396315.html
 
-- Gold, silver rates today: Gold and silver prices fall up to 2% after disappointing US CPI data. Should you buy or sell?
-  Spot gold prices were down nearly 0.27% at $5,033 per ounce. Spot silver prices fell over 2.08% to
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-and-silver-prices-fall-up-to-2-after-disappointing-us-cpi-data-should-you-buy-or-sell-11771202260308.html
+- Who is Peter Steinberger? OpenAI hires ‘AI only’ social media platform Moltbook founder
+  OpenAI has appointed Peter Steinberger, founder of OpenClaw, to lead its next generation of personal agents. Sam Altman confirmed this
+  🔗 https://www.livemint.com/technology/tech-news/openai-hires-creator-of-ai-only-social-media-platform-moltbook-sam-altman-says-future-is-extremely-multiagent-11771219873895.html
 
-- Aye Finance IPO listing date today. GMP, experts signal muted debut of shares in stock market today
-  Aye Finance IPO listing date is today, 16 February 2026. Equity shares will be listed on both the stock exchanges, BSE and NSE.
-  🔗 https://www.livemint.com/market/ipo/aye-finance-ipo-listing-date-today-gmp-experts-signal-muted-debut-of-shares-in-stock-market-today-11771173274445.html
+- India AI Impact Summit 2026: Direct link, fees, how to register online and more
+  The India AI Impact Summit 2026 starts today, expecting over 200,000 visitors. The event runs from February 16 to 20 at Bharat Mandapam.
+  🔗 https://www.livemint.com/technology/tech-news/india-ai-impact-summit-2026-direct-link-fees-how-to-register-online-and-more-11771212733204.html
 
-- Stocks to buy: Raja Venkatraman recommends real estate stocks for 16 February
-  Market expert Raja Venkatraman shares his top real estate stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-real-estate-stocks-16-february-stock-recommendations-phoenix-mills-prestige-estates-11771142420894.html
+- Strong ties between US and India in AI has tremendous potential for healthcare, education:Rubrik CEO
+  Strong ties between US and India in AI has tremendous
+  🔗 https://www.livemint.com/technology/strong-ties-between-us-and-india-in-ai-has-tremendous-potential-for-healthcare-education-rubrik-ceo-11771212594648.html
 
-- AI Summit LIVE Updates: PM Modi to inaugurate Expo 2026 at Bharat Mandapam — what to expect today?
+- AI Summit LIVE Updates: Bill Gates arrives in India, set to attend AI Impact Summit
   India is positioning itself as a key voice in shaping the next phase of AI development. The event is expected to bring together leaders from across spheres.
   🔗 https://www.livemint.com/technology/ai-impact-summit-live-updates-pm-modi-expo-2026-bharat-mandapam-february-16-devglobal-gate-foundation-niti-aayog-11771203540520.html
 
@@ -88,137 +100,125 @@
   India will host the AI Impact Summit 2026 at Bharat Mandapam from February 16 to 20. Here is when and how to watch
   🔗 https://www.livemint.com/technology/tech-news/india-set-to-host-ai-impact-summit-2026-at-bharat-mandapam-tomorrow-when-and-where-to-watch-live-11771176159697.html
 
-- Sony State of Play: God of War, John Wick and Ghost of Yōtei Legends take centre stage
-  Sony’s latest State of Play delivered major PS5 announcements. A God of War trilogy remake, a surprise Sons of Sparta launch, a new James Bond game reveal, PlayStation
-  🔗 https://www.livemint.com/technology/tech-news/sony-state-of-play-god-of-war-john-wick-and-ghost-of-y-tei-legends-take-centre-stage-11771170665943.html
+- KFin Tech climbs after Q3 PAT rises 2% YoY to Rs 92 cr
+  KFin Technologies rallied 5.53% to Rs 1,021.60 after the company's consolidated net profit increased 2.02% toRs 91.
+  🔗 https://www.business-standard.com/markets/capital-market-news/kfin-tech-climbs-after-q3-pat-rises-2-yoy-to-rs-92-cr-126021600361_1.html
 
-- Apple iPhone 18 Pro could bring new colours, A20 Pro chip and camera upgrades: Report
-  Apple’s iPhone 18 Pro range could bring new colour options, a smaller Dynamic Island, upgraded cameras, the A20 Pro 2nm chip, Apple’
-  🔗 https://www.livemint.com/technology/tech-news/apple-iphone-18-pro-could-bring-new-colours-a20-pro-chip-and-camera-upgrades-report-11771164050683.html
+- Earkart bags Rs 4-cr government order via GeM
+  Earkart has announced that it has been awarded a government order worth Rs 4.12 crore through the Government e-
+  🔗 https://www.business-standard.com/markets/capital-market-news/earkart-bags-rs-4-cr-government-order-via-gem-126021600360_1.html
 
-- Grok drops big take ahead of India vs Pakistan T20 World Cup match: Here's what the AI predicted
-  Groot AI has predicted a narrow win for India ahead of the high-voltage T20 World Cup 2026 clash against Pakistan in Colombo. They cite India’s
-  🔗 https://www.livemint.com/technology/tech-news/grok-drops-big-take-ahead-of-india-vs-pakistan-t20-world-cup-match-heres-what-the-ai-predicted-11771161673842.html
+- Easy Trip Planners Ltd leads gainers in 'A' group
+  Natco Pharma Ltd, Cartrade Tech Ltd, KFin Technologies Ltd and Engineers India Ltd are among the other
+  🔗 https://www.business-standard.com/markets/capital-market-news/easy-trip-planners-ltd-leads-gainers-in-a-group-126021600359_1.html
 
-- Asian shares steady in holiday-thinned trade; weak Japan GDP cools rally
-  Japan on Monday reported its economy grew a miserly 0.1 per cent annualised in the December quarter.
-  🔗 https://www.business-standard.com/markets/news/asian-shares-steady-in-holiday-thinned-trade-weak-japan-gdp-cools-rally-126021600036_1.html
+- Aequs to invest Rs 1900 cr for setting up manufacturing unit in Tamil Nadu
+  Under this non-binding MoU, Company has proposed to set up unit for manufacturing components for Aircraft Engines, Landing Gear and systems. Company has
+  🔗 https://www.business-standard.com/markets/capital-market-news/aequs-to-invest-rs-1900-cr-for-setting-up-manufacturing-unit-in-tamil-nadu-126021600358_1.html
 
-- Silver, gold braces for another jittery week on US inflation data: Analysts
-  Silver futures on the Multi Commodity Exchange (MCX) declined Rs 5,532, or 2.2 per cent. Gold rose Rs 444, or 0.3 per cent, over the past week.
-  🔗 https://www.business-standard.com/markets/news/silver-gold-braces-for-another-jittery-week-on-us-inflation-data-analysts-126021500513_1.html
+- Religare Enterprises shares drop 5% after announcing demerger plan
+  Religare Finvest will issue fully paid-up equity shares to Religare Enterprises shareholders
+  🔗 https://www.business-standard.com/markets/news/religare-enterprises-shares-drop-5-after-announcing-demerger-plan-126021600347_1.html
 
-- Volatility in gold prices has not deterred buyers, says Titan MD Chawla
-  Titan's jewellery division, which includes the flagship Tanishq brand, has benefitted from this trend, supported by product innovation and festive demand in the Decembe.
-  🔗 https://www.business-standard.com/markets/commodities/volatility-in-gold-prices-has-not-deterred-buyers-says-titan-md-chawla-126021500331_1.html
+- $53 billion! Dalal Street braces for 85 IPO lock-in expiries in next 3 months. Check details
+  Dalal Street is set for a wave of IPO lock-in expiries, with about 85 companies seeing restrictions lifted between February and May 2026.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/53-billion-dalal-street-braces-for-85-ipo-lock-in-expiries-in-next-3-months-check-details/articleshow/128409942.cms
 
-- Macroeconomic data, global events to steer markets next week: Analysts
-   Macroeconomic data, global geopolitical developments and rising concerns over AI-related disruptions are likely to dictate sentiment.Besides, the trading activity of foreign investors and domestic currency movements will also guide market movement.
-  🔗 https://www.business-standard.com/markets/news/macroeconomic-data-global-events-to-steer-markets-next-week-analysts-126021500317_1.html
+- Midcaps offer attractive opportunities amid volatility:  Gautam Duggad
+  Metals and oil &amp; gas sectors are leading the charge. Auto, capital goods, NBFCs, and PSU banks are showing healthy gains. Smallcaps are also recovering.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/midcaps-offer-attractive-opportunities-amid-volatility-gautam-duggad/articleshow/128409869.cms
 
-- FPI inflows rebound to ₹19,675 cr in early Feb on India-US trade deal
-  In the last three months, foreign investors have pulled out of Indian equities. The pull-out was driven by concerns over potential US tariffs. In the first two months of this year, the number of foreign investors in India was up
-  🔗 https://www.business-standard.com/markets/news/fpi-inflows-rebound-to-19-675-cr-in-early-feb-on-india-us-trade-deal-126021500251_1.html
+- Global Markets | Australian shares tick higher in earnings rush; tech stocks shine
+  Australian shares made modest gains with technology, gold, and healthcare sectors leading the charge. While the mining and financial markets struggled, the S&amp;P/ASX 200 index finished on a positive note.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-tick-higher-in-earnings-rush-tech-stocks-shine/articleshow/128409464.cms
 
-- Kwality Wall's shares to list today after demerger with HUL. Here’s everything you need to know
-  Kwality Wall’s India shares are set to list today following their demerger from Hindustan Unilever Ltd (HUL) This marks the creation of India's first pure-play listed ice-cream company
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/kwality-walls-shares-to-list-today-after-demerger-with-hul-heres-everything-you-need-to-know/articleshow/128382845.cms
+- Inox Wind shares fall over 8%. What brokerages didn't like in Q3 results
+  Inox Wind shares fell to their 52-week low on Monday after a weak Q3 marked by slow execution, missed revenue estimates, and higher interest costs. Brokerages, including Nomura and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/inox-wind-shares-fall-over-8-what-brokerages-didnt-like-in-q3-results/articleshow/128409412.cms
 
-- Market quote of the day by Benjamin Graham | “In the short run, the market is a voting machine. In the long run, it is a weighing machine.”
-  Benjamin Graham's insight explains market behaviour. In the short term, stock prices reflect popularity and sentiment, like a voting machine. Over time, fundamental business performance dictates value.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-benjamin-graham-in-the-short-run-the-market-is-a-voting-machine-in-the-long-run-it-is-a-weighing-machine-/articleshow/128374789.cms
-
-- Global Market Today | Asian stocks tepid, Yen weakens after GDP data
-  Asian markets traded mixed as subdued US inflation data bolstered expectations of Federal Reserve interest rate cuts this year. Markets saw fluctuations in Japan, with the yen weakening, while Australian shares remained flat. This comes as the region braces for Lunar
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-tepid-yen-weakens-after-gdp-data/articleshow/128402062.cms
-
-- Fresh legal snag may delay NSE’s long-awaited public debut
-  A petition in Delhi High Court questions Sebi's approval for the listing. The case centers on alleged violations of rules for adjusting derivative trades during corporate actions.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/fresh-legal-snag-may-delay-nses-long-awaited-public-debut/articleshow/128401836.cms
-
-- Corporate revenues jump most in six quarters on GST push
-  Corporate revenues and profits surged in India during the December quarter. Analysts anticipate continued double-digit earnings growth in FY27, supported by favorable trade deals.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/corporate-revenues-jump-most-in-six-quarters-on-gst-push/articleshow/128401737.cms
-
-- 'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi At ET Summit - Times of India
-  'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWFJlZzFSLXVRbGRLVEpiSzFpTmt5VnZ6bUlYTDBQT08wV2lIUDR0TV8xMlFYbXpQRlcyM0VCbVRVS1B2c1c5TmRacGIyTVJkaTJWWENoN3dXU2xxTUF3SEEzb3JwZkJ5a2x5S09lNVV1dlpvUnNISlFHU0dSbVd5dlBvODVTYkd5NHRyZzZqeE95MHgxWllnNmJ5LXhBemstazVJVHVSOHhGRGJCMFJFWWVlbzMxai1WSE1fX2huRFhycjhUaG04R0xPMGRpRFhiZUU2UXljVURJX1ZIYXpuLWhvc3pyN185aVZYMUFteTJsUS1lVHpSbVpB0gH_AUFVX3lxTE5oSm94bkVHMUdiUHFtRHZ4bGZubGdJTlBxNEk5RkhzSmx1QUFOWVEzU2JOU3BwNHVvX1JvWEV5a05Qc3Z4c1lhRFZMSDZQMWlBRW1fZDNHdVFzUGE5RFpUZ3k3SF84SW5XdXZ4Q2tKR3VES2x2Z2lfYjIxYUF2MHJTa1RXQnNBc293dEhyTENMT0VHaEs4SmMxVTJIZ2hQNE1Wc1paR2hCSzdIcDUxdmxQZFg3b0huQW50QlJaR3hraVk5SUc2UXh1RGlBV25KN2FZVzE0VmNfeFJNQnN4azBOU0hZaWs2dzFuRGYxYml2TmRTWm5tVnhQdngzQUxyVQ?oc=5
+- Bitcoin hovers near $68,700 as ETF inflows decline; caution rises
+  Bitcoin hovers near $68,700 after failing to break the $70,000 resistance. Analysts note a cautious market sentiment, influenced by declining ETF inflows.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hovers-near-68700-as-etf-inflows-decline-caution-rises/articleshow/128408647.cms
 
 - PM On How India Settled Recent Trade Deals, Then A Jab At Congress-Led UPA - NDTV
   PM On How India Settled Recent Trade Deals, Then A
   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVkyN2JqUERwUUFHYUx1TUlydzV0djlqVTdRWkdJMU5wTmpjMWhKT3lFZS1qeXZwVmRyS1hyUnZzWEpjTGNiaTVlZWsxN1NYV0Y1cGxQV29RZWJZLThmVkFKUFMyWWFwbWxSWjRlb21GSHFUbUtGTWJVQXVIdUJDWklWNXhHeU9oOG9tcUtIZnY0M2F6ZDlpa3NFRzRPX3UzNFkxR2ZPT1BmZ2c4Q3AtQlE3OTM1VFZWZEdWM0FTWmh6YTk2a3JXTkVR0gHSAUFVX3lxTE9mVmdjR0xiaTh6WlhMZTRzbTdtQXZDaVZYVmV5WWlBUDJYM3ZqRGRDZVVCQ3NoZnlHVXlLdkZVN2hKRXJjMVRMUVYxWUYxVlFleHV5ZWZBR01lbHA4eE5MQWdlQWkwNkgxYWRTLURtODdELXRuMl95YXJKZ1prOXVQa2tOSFRUdk9yMThJQVczQWFYUmJ3emJ5MDVObGNpeHZMN1JBMnFDaU1QcUExZFJ0U1hHMFcwTkl4cmcxbXNrV1pSTmtBQWN2eklUcm0xbmdYdw?oc=5
 
-- Stalin urges PM Modi to give legal status to Lankan Tamils in India | India News - Hindustan Times
-  Stalin urges PM Modi to give legal status to Lankan Tamils in
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQUzB6UExBUk1yeXc4WWdwZTkxRnlsVlVaNExGUmJqWXNhOWt2Mk9YSXhKZEdxbEhJYmozcGdOZG1pZ2RscGJ2RC1yelBOSHdPdjNWVjNRZEZSTlJIekpIeGZ3dUh6MW83UV93UExYbnl6UHpuZmJaM29ETHh2Nk84cVdvUFpmeFRGOXFHYWRlSVYwVndVcXk5QkhScG9pUUVUNDl5UnhwaXluUUJWSnA3UVRDXzM0QTBJMFluUTJuN0FtcWNyWFFGV2Vn0gHPAUFVX3lxTE92cnIyTWEyeFdsdEpobGVEQldqMC0tT1Z4RTFSYUtNU0cxMmczX2lJWjVUWWdfSkdOY2FCWlJZY1dZbF9hWElkS1UybFpWYlczRlgxa3RzZWVaSGh6MFFVWWR3OFBmYm1uLTlETlBCLUI5ZEpDY0RDSzZJdlZnV05iSk9GRlF1MDV0Nmp5dUoxaThWYnhvNVVnbDdNMVR4TWpUREg0YXd3MzRKZFlvd0J6R2pEblVkQUlaczdpcVFOSWZFNlRtN2VVR09PY1ZSdw?oc=5
-
 - How a '7-hour sleepless' train ride in India became memorable experience for Canadian tourists | India News - Hindustan Times
   .com: How a '7-hour sleepless' train ride
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeW5FLVNiakpSYW9iWi1vandlc2g4MFNsVGlGQlRXcEhjNmtfNmFzZmN3ZEZfVGVNaVMzMk9vMjRIX09qOVgtaUlqdFB1Z3ZMRFZrcTRaSVRjN3U3T0EwM2xxRGZ6STdqWkI3LU15ZHJOc2NTeG00T2pyMHZNSTk4YXVqVWtyV1NWWDhvVlhiTzBUYWZkMFY5YlNTd2t2c3hfbV9oMlIxcmtDVG1MMUl1akJWSzFrZERjZU9IVHo0TEN2aHlPamxpU2oxS2FOYUpRa2hNcXN4N0NKWTRFX1U5emwxTzJoR2xPRm5FLUJsNkVWTVU5LURSYzNSaHFvd9IBgwJBVV95cUxPdG5NSnBHUHJ5aXowdDY1VWhDaVd4cG5QbmZSZlE5S1RPcmt2QWJBOGZrdXFWcUgtVXVOZGd6RGVkUzdOdHFWUEhicGhJakRUT2hiaWl0NGpnT0k2WlZDS0I0eUUyTHpKNkU1RXpQYllJR1pHRUNJcmt5b1ZzeFZieEN0SGpaaWZPQW04MmNDYV9wMnp1YWZmNzdtdGdab2xqQ3RvSkdZTG9hd0FTdk5jaTZrdnRLeDNYODZFNG1nWmxIRkhGdW5CM1RnU2sxY2JMVGZIVXBmaGxrM2t2WjRqUWdNczVsS3BjRUlhTUwtcFU3M0tiZ2dQXzdoeFhJM0pXU1Nr?oc=5
 
-- Special prayers held at Mahakaleshwar Temple for Team India - Times of India
-  Special prayers held at Mahakaleshwar
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2FleEdaTFhWNE0tMzBNamRBMkFsN3ZZS3BfN2M1WWlrTDBCVEk0d1F1WGdmYjA1aU5KRlFoSGVoMmJoYTN5dnRGcE9MX1M0Ri1WM0tfcy1xUDBTSUpVOXRRd1loVmxJV3RqczkyRGVKRk5UZXgzOElYUWFROXREMFVHVGFTNEdSNF9UNXBUZENjeUlzbUNQMDhXaWJ2VzlpZXd6b3A2azhyR3pZMHBHLU4tU2lETWtfWE5zSF9tMUEwd1Z3bFd0NENMX0hHZ9IB0wFBVV95cUxQWFNGTHhCOVdfbERMeFFsVlg4WGpmSzJ1dlRPUndmZWZMcTM4a191X2J0cmtRUTFkWFF5Vkt2bjNONU13LTdyLVRrVHFzMF9KV25OZ0p6ZlFfaHE0ZXltS2Y0Um9vM21sUUlKbTh0N282ckRuRUd2Wm5QY3k5SXA1U19Cc2k4ZTVzaGpkWEwzdXNneXFKZkZjTHhPRXAtQ1RWa21jbHlIZmlwcHRnNEJnWE00RXhCb1ZScDhxQzBwSHdZUGlneHhqbnFha3lrakRFV1NF?oc=5
+- AI Summit India 2026 Live Updates: ‘Bringing the world together,’ PM Modi welcomes leaders as India hosts AI summit - Times of India
+  AI Summit India 2026 Live Updates: ‘Bringing the world together,’ PM
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcEpvRTA0OTlFQ1pmTnNsMnBVYTFEQk03Z3VGVUdpSkMxcDJWQzZaeWdWYl83MzBiMms1bnYzVDVWRkZkMVZHdlVUWlQtNXN1YUc5dDM2cG5xY1dGMElDN3hRQXV3azlmaTIxNmoyX2pnckY2OTRQamt5WDRrbTJ6eFdhTGtlZnhUMm1uUnI4ZHM4R01vSUFGam81NWRiV3ZkTkpmYjRVcktDUVVNY09DUld4cTRzNDZnNGc0VFZubzdtaWdrUFVXd2IzRzdyMW5ncmpQOVdabUtSYmZWMFlqdHVIUnFYTm9sb2RqclVnQ0YwRW53UnQzRlNVV2VpNmI0WFAycGJRNHnSAY4CQVVfeXFMUEVpaktuOS1MamRmLVdacU8yaE9MUUtUSm9rejhrSG1IOTBZUW5lZ3kwR2RnZTNvWm1LTm5aSE4zOWkxVW1VVk5CWS0tdHJMLVhjc2lsZ2hjSjZBdWUxVmVqRjVrbjllZXVNMHA4RmYwbnppbkJoWkRJc0hhQ2ZHLXNxMHpacS1uR1M4Sy05akZqMElURXlSdDBEQXZOa3dTNS1tbGdhWk45SUxzc2ROaXlXTTVWVFluRnpqcngzUVZJV2htLXlnNU5HeDJOeDdhLXhURE5DOTB3aXNYQ0dKTFpsQ2hMRXRvODVFQ1M2OUZ2Wml4ZHJhMG0ySXhpb2c1Wk9ZMjdwWVNXQVdaWkRR?oc=5
 
-- 'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi At ET Summit - Times of India
-  'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWFJlZzFSLXVRbGRLVEpiSzFpTmt5VnZ6bUlYTDBQT08wV2lIUDR0TV8xMlFYbXpQRlcyM0VCbVRVS1B2c1c5TmRacGIyTVJkaTJWWENoN3dXU2xxTUF3SEEzb3JwZkJ5a2x5S09lNVV1dlpvUnNISlFHU0dSbVd5dlBvODVTYkd5NHRyZzZqeE95MHgxWllnNmJ5LXhBemstazVJVHVSOHhGRGJCMFJFWWVlbzMxai1WSE1fX2huRFhycjhUaG04R0xPMGRpRFhiZUU2UXljVURJX1ZIYXpuLWhvc3pyN185aVZYMUFteTJsUS1lVHpSbVpB0gH_AUFVX3lxTE5oSm94bkVHMUdiUHFtRHZ4bGZubGdJTlBxNEk5RkhzSmx1QUFOWVEzU2JOU3BwNHVvX1JvWEV5a05Qc3Z4c1lhRFZMSDZQMWlBRW1fZDNHdVFzUGE5RFpUZ3k3SF84SW5XdXZ4Q2tKR3VES2x2Z2lfYjIxYUF2MHJTa1RXQnNBc293dEhyTENMT0VHaEs4SmMxVTJIZ2hQNE1Wc1paR2hCSzdIcDUxdmxQZFg3b0huQW50QlJaR3hraVk5SUc2UXh1RGlBV25KN2FZVzE0VmNfeFJNQnN4azBOU0hZaWs2dzFuRGYxYml2TmRTWm5tVnhQdngzQUxyVQ?oc=5
+- India AI Impact Summit 2026 LIVE Updates: PM Modi to inaugurate AI Impact Expo today at 5pm - The Indian Express
+  India AI Impact Summit 2026 LIVE Updates: PM Modi to inaugurate AI Impact Expo
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFZWTWhSSTlFcldSN0p0Z0VPTzAtV3QydmgwLUdKTW8xNDhTQUpqZFZ5dVpKc01QOEFVZU84b0V0clI3RmN4ZmlXVVZteWdqZUxPa2xkREQ0ck1URUxkblpjZnZ3Y1pyWDlQb1NGSGg4ZHVtR21jN005SHdZVFFTaWxUSVRKSHZsT281TGNUVVh4NjV6Q3d1QmhCMFBlREF4WWJ5ekpPUkswMjJtOUVGYXNmWS1SMWhmYll5WDI0dm1zQUtMVXBfdWxiV1RhYWktaFN2NWMzZ19hZklQN0lhREpxONIB6gFBVV95cUxNUDY2S0NldHNNQkkxYWZWZ011dHNqdGMxTC1lUTl2X3pfMFA2UUNBZFE3NlhmWnVPVVJEcEJmNFdtMnNmZ2E3TmlHeHgxdXRnV25tM3lGWXhoVncxNV9lYy1ZaE8yRW05NFBCeTB1NUluWTFfb2oydHlBbktUNzJoTFR6Q3pWWGRuU0ZiYUd5MkItLVA5YkdkZlppeEY2bFpJZWNuVlVucUYtYmV2cXh4TGNwY1kzVDVsdXRsZHZxd05lNGJSUDJVSnN5UVY2MjlFV21HWjBLUTR5aTRLbldudHE5MlozS3M2Z3c?oc=5
+
+- Over 600 startups, 70,000 sq-m area, 2.5 lakh visitors: Mega scale of global AI summit in Delhi | India News - Hindustan Times
+  The summit is expected to attract 2.5 lakh visitors.
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVkdGMHBsYnJYMU5ZTzMtMENsZnVidDg1QTk5RnY1dlJNQUtpSWVLMXpsTmZ4bjlJZ2tOQTJzOWZYX0xrcTlFb1h3NGNpcnBzcF9IV21JXy02LWdFZ1Z0MU5Ja3ZVUzl3M3ZOR0t1d3JuV0JPdzEzazVXaVVLS1phSmJkWFRBZEhJckFWdU9kcV95ZHh5T2VPZTZxenF3TWNjR0hqbFRpdDU5dU0waU9tOXZoaFpwbjBTYmVVOU0zRW9lYXQxS1lzd3NWS3NiMmtfc2lmbThZbWgwVkRjTEQ4RU14S0Z3cXdIZlRZ0gHwAUFVX3lxTFBRbEktX3dzRjFxUGJxOXNITzZwekFtY0E3Ty16SXFtdDJYa3lTSFJQdlZUNEM2cDFITkpOZkt4WUkzcEtNSGpwdHNZYmNUOWhLbWZXV2JZWUs2QWVkcTR4WmlDV2huWXhnT0VHdm92d01yVVIxQnhaMGZ1ZWNmV3RqdXk4ajNDZ0tnODRDeDVIajd2bUo2TTV5d1BVUnpUYm9KcVZJR0xCOUFILVFzR0JVbVJ0V0VBTTRPcjg2cDdzYVhkejk5THc1RWRFRGVkTkRkSHFOTlJwWDdhdURVbEh5SFhaQ0V6YnJqRGh5TGtydg?oc=5
 
 - PM On How India Settled Recent Trade Deals, Then A Jab At Congress-Led UPA - NDTV
   PM On How India Settled Recent Trade Deals, Then A
   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVkyN2JqUERwUUFHYUx1TUlydzV0djlqVTdRWkdJMU5wTmpjMWhKT3lFZS1qeXZwVmRyS1hyUnZzWEpjTGNiaTVlZWsxN1NYV0Y1cGxQV29RZWJZLThmVkFKUFMyWWFwbWxSWjRlb21GSHFUbUtGTWJVQXVIdUJDWklWNXhHeU9oOG9tcUtIZnY0M2F6ZDlpa3NFRzRPX3UzNFkxR2ZPT1BmZ2c4Q3AtQlE3OTM1VFZWZEdWM0FTWmh6YTk2a3JXTkVR0gHSAUFVX3lxTE9mVmdjR0xiaTh6WlhMZTRzbTdtQXZDaVZYVmV5WWlBUDJYM3ZqRGRDZVVCQ3NoZnlHVXlLdkZVN2hKRXJjMVRMUVYxWUYxVlFleHV5ZWZBR01lbHA4eE5MQWdlQWkwNkgxYWRTLURtODdELXRuMl95YXJKZ1prOXVQa2tOSFRUdk9yMThJQVczQWFYUmJ3emJ5MDVObGNpeHZMN1JBMnFDaU1QcUExZFJ0U1hHMFcwTkl4cmcxbXNrV1pSTmtBQWN2eklUcm0xbmdYdw?oc=5
 
-- Stalin urges PM Modi to give legal status to Lankan Tamils in India | India News - Hindustan Times
-  Stalin urges PM Modi to give legal status to Lankan Tamils in
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQUzB6UExBUk1yeXc4WWdwZTkxRnlsVlVaNExGUmJqWXNhOWt2Mk9YSXhKZEdxbEhJYmozcGdOZG1pZ2RscGJ2RC1yelBOSHdPdjNWVjNRZEZSTlJIekpIeGZ3dUh6MW83UV93UExYbnl6UHpuZmJaM29ETHh2Nk84cVdvUFpmeFRGOXFHYWRlSVYwVndVcXk5QkhScG9pUUVUNDl5UnhwaXluUUJWSnA3UVRDXzM0QTBJMFluUTJuN0FtcWNyWFFGV2Vn0gHPAUFVX3lxTE92cnIyTWEyeFdsdEpobGVEQldqMC0tT1Z4RTFSYUtNU0cxMmczX2lJWjVUWWdfSkdOY2FCWlJZY1dZbF9hWElkS1UybFpWYlczRlgxa3RzZWVaSGh6MFFVWWR3OFBmYm1uLTlETlBCLUI5ZEpDY0RDSzZJdlZnV05iSk9GRlF1MDV0Nmp5dUoxaThWYnhvNVVnbDdNMVR4TWpUREg0YXd3MzRKZFlvd0J6R2pEblVkQUlaczdpcVFOSWZFNlRtN2VVR09PY1ZSdw?oc=5
-
 - How a '7-hour sleepless' train ride in India became memorable experience for Canadian tourists | India News - Hindustan Times
   .com: How a '7-hour sleepless' train ride
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeW5FLVNiakpSYW9iWi1vandlc2g4MFNsVGlGQlRXcEhjNmtfNmFzZmN3ZEZfVGVNaVMzMk9vMjRIX09qOVgtaUlqdFB1Z3ZMRFZrcTRaSVRjN3U3T0EwM2xxRGZ6STdqWkI3LU15ZHJOc2NTeG00T2pyMHZNSTk4YXVqVWtyV1NWWDhvVlhiTzBUYWZkMFY5YlNTd2t2c3hfbV9oMlIxcmtDVG1MMUl1akJWSzFrZERjZU9IVHo0TEN2aHlPamxpU2oxS2FOYUpRa2hNcXN4N0NKWTRFX1U5emwxTzJoR2xPRm5FLUJsNkVWTVU5LURSYzNSaHFvd9IBgwJBVV95cUxPdG5NSnBHUHJ5aXowdDY1VWhDaVd4cG5QbmZSZlE5S1RPcmt2QWJBOGZrdXFWcUgtVXVOZGd6RGVkUzdOdHFWUEhicGhJakRUT2hiaWl0NGpnT0k2WlZDS0I0eUUyTHpKNkU1RXpQYllJR1pHRUNJcmt5b1ZzeFZieEN0SGpaaWZPQW04MmNDYV9wMnp1YWZmNzdtdGdab2xqQ3RvSkdZTG9hd0FTdk5jaTZrdnRLeDNYODZFNG1nWmxIRkhGdW5CM1RnU2sxY2JMVGZIVXBmaGxrM2t2WjRqUWdNczVsS3BjRUlhTUwtcFU3M0tiZ2dQXzdoeFhJM0pXU1Nr?oc=5
 
-- Special prayers held at Mahakaleshwar Temple for Team India - Times of India
-  Special prayers held at Mahakaleshwar
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2FleEdaTFhWNE0tMzBNamRBMkFsN3ZZS3BfN2M1WWlrTDBCVEk0d1F1WGdmYjA1aU5KRlFoSGVoMmJoYTN5dnRGcE9MX1M0Ri1WM0tfcy1xUDBTSUpVOXRRd1loVmxJV3RqczkyRGVKRk5UZXgzOElYUWFROXREMFVHVGFTNEdSNF9UNXBUZENjeUlzbUNQMDhXaWJ2VzlpZXd6b3A2azhyR3pZMHBHLU4tU2lETWtfWE5zSF9tMUEwd1Z3bFd0NENMX0hHZ9IB0wFBVV95cUxQWFNGTHhCOVdfbERMeFFsVlg4WGpmSzJ1dlRPUndmZWZMcTM4a191X2J0cmtRUTFkWFF5Vkt2bjNONU13LTdyLVRrVHFzMF9KV25OZ0p6ZlFfaHE0ZXltS2Y0Um9vM21sUUlKbTh0N282ckRuRUd2Wm5QY3k5SXA1U19Cc2k4ZTVzaGpkWEwzdXNneXFKZkZjTHhPRXAtQ1RWa21jbHlIZmlwcHRnNEJnWE00RXhCb1ZScDhxQzBwSHdZUGlneHhqbnFha3lrakRFV1NF?oc=5
+- AI Summit India 2026 Live Updates: ‘Bringing the world together,’ PM Modi welcomes leaders as India hosts AI summit - Times of India
+  AI Summit India 2026 Live Updates: ‘Bringing the world together,’ PM
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcEpvRTA0OTlFQ1pmTnNsMnBVYTFEQk03Z3VGVUdpSkMxcDJWQzZaeWdWYl83MzBiMms1bnYzVDVWRkZkMVZHdlVUWlQtNXN1YUc5dDM2cG5xY1dGMElDN3hRQXV3azlmaTIxNmoyX2pnckY2OTRQamt5WDRrbTJ6eFdhTGtlZnhUMm1uUnI4ZHM4R01vSUFGam81NWRiV3ZkTkpmYjRVcktDUVVNY09DUld4cTRzNDZnNGc0VFZubzdtaWdrUFVXd2IzRzdyMW5ncmpQOVdabUtSYmZWMFlqdHVIUnFYTm9sb2RqclVnQ0YwRW53UnQzRlNVV2VpNmI0WFAycGJRNHnSAY4CQVVfeXFMUEVpaktuOS1MamRmLVdacU8yaE9MUUtUSm9rejhrSG1IOTBZUW5lZ3kwR2RnZTNvWm1LTm5aSE4zOWkxVW1VVk5CWS0tdHJMLVhjc2lsZ2hjSjZBdWUxVmVqRjVrbjllZXVNMHA4RmYwbnppbkJoWkRJc0hhQ2ZHLXNxMHpacS1uR1M4Sy05akZqMElURXlSdDBEQXZOa3dTNS1tbGdhWk45SUxzc2ROaXlXTTVWVFluRnpqcngzUVZJV2htLXlnNU5HeDJOeDdhLXhURE5DOTB3aXNYQ0dKTFpsQ2hMRXRvODVFQ1M2OUZ2Wml4ZHJhMG0ySXhpb2c1Wk9ZMjdwWVNXQVdaWkRR?oc=5
 
-- 'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi At ET Summit - Times of India
-  'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWFJlZzFSLXVRbGRLVEpiSzFpTmt5VnZ6bUlYTDBQT08wV2lIUDR0TV8xMlFYbXpQRlcyM0VCbVRVS1B2c1c5TmRacGIyTVJkaTJWWENoN3dXU2xxTUF3SEEzb3JwZkJ5a2x5S09lNVV1dlpvUnNISlFHU0dSbVd5dlBvODVTYkd5NHRyZzZqeE95MHgxWllnNmJ5LXhBemstazVJVHVSOHhGRGJCMFJFWWVlbzMxai1WSE1fX2huRFhycjhUaG04R0xPMGRpRFhiZUU2UXljVURJX1ZIYXpuLWhvc3pyN185aVZYMUFteTJsUS1lVHpSbVpB0gH_AUFVX3lxTE5oSm94bkVHMUdiUHFtRHZ4bGZubGdJTlBxNEk5RkhzSmx1QUFOWVEzU2JOU3BwNHVvX1JvWEV5a05Qc3Z4c1lhRFZMSDZQMWlBRW1fZDNHdVFzUGE5RFpUZ3k3SF84SW5XdXZ4Q2tKR3VES2x2Z2lfYjIxYUF2MHJTa1RXQnNBc293dEhyTENMT0VHaEs4SmMxVTJIZ2hQNE1Wc1paR2hCSzdIcDUxdmxQZFg3b0huQW50QlJaR3hraVk5SUc2UXh1RGlBV25KN2FZVzE0VmNfeFJNQnN4azBOU0hZaWs2dzFuRGYxYml2TmRTWm5tVnhQdngzQUxyVQ?oc=5
+- India AI Impact Summit 2026 LIVE Updates: PM Modi to inaugurate AI Impact Expo today at 5pm - The Indian Express
+  India AI Impact Summit 2026 LIVE Updates: PM Modi to inaugurate AI Impact Expo
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFZWTWhSSTlFcldSN0p0Z0VPTzAtV3QydmgwLUdKTW8xNDhTQUpqZFZ5dVpKc01QOEFVZU84b0V0clI3RmN4ZmlXVVZteWdqZUxPa2xkREQ0ck1URUxkblpjZnZ3Y1pyWDlQb1NGSGg4ZHVtR21jN005SHdZVFFTaWxUSVRKSHZsT281TGNUVVh4NjV6Q3d1QmhCMFBlREF4WWJ5ekpPUkswMjJtOUVGYXNmWS1SMWhmYll5WDI0dm1zQUtMVXBfdWxiV1RhYWktaFN2NWMzZ19hZklQN0lhREpxONIB6gFBVV95cUxNUDY2S0NldHNNQkkxYWZWZ011dHNqdGMxTC1lUTl2X3pfMFA2UUNBZFE3NlhmWnVPVVJEcEJmNFdtMnNmZ2E3TmlHeHgxdXRnV25tM3lGWXhoVncxNV9lYy1ZaE8yRW05NFBCeTB1NUluWTFfb2oydHlBbktUNzJoTFR6Q3pWWGRuU0ZiYUd5MkItLVA5YkdkZlppeEY2bFpJZWNuVlVucUYtYmV2cXh4TGNwY1kzVDVsdXRsZHZxd05lNGJSUDJVSnN5UVY2MjlFV21HWjBLUTR5aTRLbldudHE5MlozS3M2Z3c?oc=5
+
+- Over 600 startups, 70,000 sq-m area, 2.5 lakh visitors: Mega scale of global AI summit in Delhi | India News - Hindustan Times
+  The summit is expected to attract 2.5 lakh visitors.
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVkdGMHBsYnJYMU5ZTzMtMENsZnVidDg1QTk5RnY1dlJNQUtpSWVLMXpsTmZ4bjlJZ2tOQTJzOWZYX0xrcTlFb1h3NGNpcnBzcF9IV21JXy02LWdFZ1Z0MU5Ja3ZVUzl3M3ZOR0t1d3JuV0JPdzEzazVXaVVLS1phSmJkWFRBZEhJckFWdU9kcV95ZHh5T2VPZTZxenF3TWNjR0hqbFRpdDU5dU0waU9tOXZoaFpwbjBTYmVVOU0zRW9lYXQxS1lzd3NWS3NiMmtfc2lmbThZbWgwVkRjTEQ4RU14S0Z3cXdIZlRZ0gHwAUFVX3lxTFBRbEktX3dzRjFxUGJxOXNITzZwekFtY0E3Ty16SXFtdDJYa3lTSFJQdlZUNEM2cDFITkpOZkt4WUkzcEtNSGpwdHNZYmNUOWhLbWZXV2JZWUs2QWVkcTR4WmlDV2huWXhnT0VHdm92d01yVVIxQnhaMGZ1ZWNmV3RqdXk4ajNDZ0tnODRDeDVIajd2bUo2TTV5d1BVUnpUYm9KcVZJR0xCOUFILVFzR0JVbVJ0V0VBTTRPcjg2cDdzYVhkejk5THc1RWRFRGVkTkRkSHFOTlJwWDdhdURVbEh5SFhaQ0V6YnJqRGh5TGtydg?oc=5
 
 - PM On How India Settled Recent Trade Deals, Then A Jab At Congress-Led UPA - NDTV
   PM On How India Settled Recent Trade Deals, Then A
   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVkyN2JqUERwUUFHYUx1TUlydzV0djlqVTdRWkdJMU5wTmpjMWhKT3lFZS1qeXZwVmRyS1hyUnZzWEpjTGNiaTVlZWsxN1NYV0Y1cGxQV29RZWJZLThmVkFKUFMyWWFwbWxSWjRlb21GSHFUbUtGTWJVQXVIdUJDWklWNXhHeU9oOG9tcUtIZnY0M2F6ZDlpa3NFRzRPX3UzNFkxR2ZPT1BmZ2c4Q3AtQlE3OTM1VFZWZEdWM0FTWmh6YTk2a3JXTkVR0gHSAUFVX3lxTE9mVmdjR0xiaTh6WlhMZTRzbTdtQXZDaVZYVmV5WWlBUDJYM3ZqRGRDZVVCQ3NoZnlHVXlLdkZVN2hKRXJjMVRMUVYxWUYxVlFleHV5ZWZBR01lbHA4eE5MQWdlQWkwNkgxYWRTLURtODdELXRuMl95YXJKZ1prOXVQa2tOSFRUdk9yMThJQVczQWFYUmJ3emJ5MDVObGNpeHZMN1JBMnFDaU1QcUExZFJ0U1hHMFcwTkl4cmcxbXNrV1pSTmtBQWN2eklUcm0xbmdYdw?oc=5
 
-- Stalin urges PM Modi to give legal status to Lankan Tamils in India | India News - Hindustan Times
-  Stalin urges PM Modi to give legal status to Lankan Tamils in
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQUzB6UExBUk1yeXc4WWdwZTkxRnlsVlVaNExGUmJqWXNhOWt2Mk9YSXhKZEdxbEhJYmozcGdOZG1pZ2RscGJ2RC1yelBOSHdPdjNWVjNRZEZSTlJIekpIeGZ3dUh6MW83UV93UExYbnl6UHpuZmJaM29ETHh2Nk84cVdvUFpmeFRGOXFHYWRlSVYwVndVcXk5QkhScG9pUUVUNDl5UnhwaXluUUJWSnA3UVRDXzM0QTBJMFluUTJuN0FtcWNyWFFGV2Vn0gHPAUFVX3lxTE92cnIyTWEyeFdsdEpobGVEQldqMC0tT1Z4RTFSYUtNU0cxMmczX2lJWjVUWWdfSkdOY2FCWlJZY1dZbF9hWElkS1UybFpWYlczRlgxa3RzZWVaSGh6MFFVWWR3OFBmYm1uLTlETlBCLUI5ZEpDY0RDSzZJdlZnV05iSk9GRlF1MDV0Nmp5dUoxaThWYnhvNVVnbDdNMVR4TWpUREg0YXd3MzRKZFlvd0J6R2pEblVkQUlaczdpcVFOSWZFNlRtN2VVR09PY1ZSdw?oc=5
-
 - How a '7-hour sleepless' train ride in India became memorable experience for Canadian tourists | India News - Hindustan Times
   .com: How a '7-hour sleepless' train ride
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeW5FLVNiakpSYW9iWi1vandlc2g4MFNsVGlGQlRXcEhjNmtfNmFzZmN3ZEZfVGVNaVMzMk9vMjRIX09qOVgtaUlqdFB1Z3ZMRFZrcTRaSVRjN3U3T0EwM2xxRGZ6STdqWkI3LU15ZHJOc2NTeG00T2pyMHZNSTk4YXVqVWtyV1NWWDhvVlhiTzBUYWZkMFY5YlNTd2t2c3hfbV9oMlIxcmtDVG1MMUl1akJWSzFrZERjZU9IVHo0TEN2aHlPamxpU2oxS2FOYUpRa2hNcXN4N0NKWTRFX1U5emwxTzJoR2xPRm5FLUJsNkVWTVU5LURSYzNSaHFvd9IBgwJBVV95cUxPdG5NSnBHUHJ5aXowdDY1VWhDaVd4cG5QbmZSZlE5S1RPcmt2QWJBOGZrdXFWcUgtVXVOZGd6RGVkUzdOdHFWUEhicGhJakRUT2hiaWl0NGpnT0k2WlZDS0I0eUUyTHpKNkU1RXpQYllJR1pHRUNJcmt5b1ZzeFZieEN0SGpaaWZPQW04MmNDYV9wMnp1YWZmNzdtdGdab2xqQ3RvSkdZTG9hd0FTdk5jaTZrdnRLeDNYODZFNG1nWmxIRkhGdW5CM1RnU2sxY2JMVGZIVXBmaGxrM2t2WjRqUWdNczVsS3BjRUlhTUwtcFU3M0tiZ2dQXzdoeFhJM0pXU1Nr?oc=5
 
-- Special prayers held at Mahakaleshwar Temple for Team India - Times of India
-  Special prayers held at Mahakaleshwar
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2FleEdaTFhWNE0tMzBNamRBMkFsN3ZZS3BfN2M1WWlrTDBCVEk0d1F1WGdmYjA1aU5KRlFoSGVoMmJoYTN5dnRGcE9MX1M0Ri1WM0tfcy1xUDBTSUpVOXRRd1loVmxJV3RqczkyRGVKRk5UZXgzOElYUWFROXREMFVHVGFTNEdSNF9UNXBUZENjeUlzbUNQMDhXaWJ2VzlpZXd6b3A2azhyR3pZMHBHLU4tU2lETWtfWE5zSF9tMUEwd1Z3bFd0NENMX0hHZ9IB0wFBVV95cUxQWFNGTHhCOVdfbERMeFFsVlg4WGpmSzJ1dlRPUndmZWZMcTM4a191X2J0cmtRUTFkWFF5Vkt2bjNONU13LTdyLVRrVHFzMF9KV25OZ0p6ZlFfaHE0ZXltS2Y0Um9vM21sUUlKbTh0N282ckRuRUd2Wm5QY3k5SXA1U19Cc2k4ZTVzaGpkWEwzdXNneXFKZkZjTHhPRXAtQ1RWa21jbHlIZmlwcHRnNEJnWE00RXhCb1ZScDhxQzBwSHdZUGlneHhqbnFha3lrakRFV1NF?oc=5
+- AI Summit India 2026 Live Updates: ‘Bringing the world together,’ PM Modi welcomes leaders as India hosts AI summit - Times of India
+  AI Summit India 2026 Live Updates: ‘Bringing the world together,’ PM
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcEpvRTA0OTlFQ1pmTnNsMnBVYTFEQk03Z3VGVUdpSkMxcDJWQzZaeWdWYl83MzBiMms1bnYzVDVWRkZkMVZHdlVUWlQtNXN1YUc5dDM2cG5xY1dGMElDN3hRQXV3azlmaTIxNmoyX2pnckY2OTRQamt5WDRrbTJ6eFdhTGtlZnhUMm1uUnI4ZHM4R01vSUFGam81NWRiV3ZkTkpmYjRVcktDUVVNY09DUld4cTRzNDZnNGc0VFZubzdtaWdrUFVXd2IzRzdyMW5ncmpQOVdabUtSYmZWMFlqdHVIUnFYTm9sb2RqclVnQ0YwRW53UnQzRlNVV2VpNmI0WFAycGJRNHnSAY4CQVVfeXFMUEVpaktuOS1MamRmLVdacU8yaE9MUUtUSm9rejhrSG1IOTBZUW5lZ3kwR2RnZTNvWm1LTm5aSE4zOWkxVW1VVk5CWS0tdHJMLVhjc2lsZ2hjSjZBdWUxVmVqRjVrbjllZXVNMHA4RmYwbnppbkJoWkRJc0hhQ2ZHLXNxMHpacS1uR1M4Sy05akZqMElURXlSdDBEQXZOa3dTNS1tbGdhWk45SUxzc2ROaXlXTTVWVFluRnpqcngzUVZJV2htLXlnNU5HeDJOeDdhLXhURE5DOTB3aXNYQ0dKTFpsQ2hMRXRvODVFQ1M2OUZ2Wml4ZHJhMG0ySXhpb2c1Wk9ZMjdwWVNXQVdaWkRR?oc=5
 
-- 'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi At ET Summit - Times of India
-  'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWFJlZzFSLXVRbGRLVEpiSzFpTmt5VnZ6bUlYTDBQT08wV2lIUDR0TV8xMlFYbXpQRlcyM0VCbVRVS1B2c1c5TmRacGIyTVJkaTJWWENoN3dXU2xxTUF3SEEzb3JwZkJ5a2x5S09lNVV1dlpvUnNISlFHU0dSbVd5dlBvODVTYkd5NHRyZzZqeE95MHgxWllnNmJ5LXhBemstazVJVHVSOHhGRGJCMFJFWWVlbzMxai1WSE1fX2huRFhycjhUaG04R0xPMGRpRFhiZUU2UXljVURJX1ZIYXpuLWhvc3pyN185aVZYMUFteTJsUS1lVHpSbVpB0gH_AUFVX3lxTE5oSm94bkVHMUdiUHFtRHZ4bGZubGdJTlBxNEk5RkhzSmx1QUFOWVEzU2JOU3BwNHVvX1JvWEV5a05Qc3Z4c1lhRFZMSDZQMWlBRW1fZDNHdVFzUGE5RFpUZ3k3SF84SW5XdXZ4Q2tKR3VES2x2Z2lfYjIxYUF2MHJTa1RXQnNBc293dEhyTENMT0VHaEs4SmMxVTJIZ2hQNE1Wc1paR2hCSzdIcDUxdmxQZFg3b0huQW50QlJaR3hraVk5SUc2UXh1RGlBV25KN2FZVzE0VmNfeFJNQnN4azBOU0hZaWs2dzFuRGYxYml2TmRTWm5tVnhQdngzQUxyVQ?oc=5
+- India AI Impact Summit 2026 LIVE Updates: PM Modi to inaugurate AI Impact Expo today at 5pm - The Indian Express
+  India AI Impact Summit 2026 LIVE Updates: PM Modi to inaugurate AI Impact Expo
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFZWTWhSSTlFcldSN0p0Z0VPTzAtV3QydmgwLUdKTW8xNDhTQUpqZFZ5dVpKc01QOEFVZU84b0V0clI3RmN4ZmlXVVZteWdqZUxPa2xkREQ0ck1URUxkblpjZnZ3Y1pyWDlQb1NGSGg4ZHVtR21jN005SHdZVFFTaWxUSVRKSHZsT281TGNUVVh4NjV6Q3d1QmhCMFBlREF4WWJ5ekpPUkswMjJtOUVGYXNmWS1SMWhmYll5WDI0dm1zQUtMVXBfdWxiV1RhYWktaFN2NWMzZ19hZklQN0lhREpxONIB6gFBVV95cUxNUDY2S0NldHNNQkkxYWZWZ011dHNqdGMxTC1lUTl2X3pfMFA2UUNBZFE3NlhmWnVPVVJEcEJmNFdtMnNmZ2E3TmlHeHgxdXRnV25tM3lGWXhoVncxNV9lYy1ZaE8yRW05NFBCeTB1NUluWTFfb2oydHlBbktUNzJoTFR6Q3pWWGRuU0ZiYUd5MkItLVA5YkdkZlppeEY2bFpJZWNuVlVucUYtYmV2cXh4TGNwY1kzVDVsdXRsZHZxd05lNGJSUDJVSnN5UVY2MjlFV21HWjBLUTR5aTRLbldudHE5MlozS3M2Z3c?oc=5
+
+- Over 600 startups, 70,000 sq-m area, 2.5 lakh visitors: Mega scale of global AI summit in Delhi | India News - Hindustan Times
+  The summit is expected to attract 2.5 lakh visitors.
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVkdGMHBsYnJYMU5ZTzMtMENsZnVidDg1QTk5RnY1dlJNQUtpSWVLMXpsTmZ4bjlJZ2tOQTJzOWZYX0xrcTlFb1h3NGNpcnBzcF9IV21JXy02LWdFZ1Z0MU5Ja3ZVUzl3M3ZOR0t1d3JuV0JPdzEzazVXaVVLS1phSmJkWFRBZEhJckFWdU9kcV95ZHh5T2VPZTZxenF3TWNjR0hqbFRpdDU5dU0waU9tOXZoaFpwbjBTYmVVOU0zRW9lYXQxS1lzd3NWS3NiMmtfc2lmbThZbWgwVkRjTEQ4RU14S0Z3cXdIZlRZ0gHwAUFVX3lxTFBRbEktX3dzRjFxUGJxOXNITzZwekFtY0E3Ty16SXFtdDJYa3lTSFJQdlZUNEM2cDFITkpOZkt4WUkzcEtNSGpwdHNZYmNUOWhLbWZXV2JZWUs2QWVkcTR4WmlDV2huWXhnT0VHdm92d01yVVIxQnhaMGZ1ZWNmV3RqdXk4ajNDZ0tnODRDeDVIajd2bUo2TTV5d1BVUnpUYm9KcVZJR0xCOUFILVFzR0JVbVJ0V0VBTTRPcjg2cDdzYVhkejk5THc1RWRFRGVkTkRkSHFOTlJwWDdhdURVbEh5SFhaQ0V6YnJqRGh5TGtydg?oc=5
 
 - PM On How India Settled Recent Trade Deals, Then A Jab At Congress-Led UPA - NDTV
   PM On How India Settled Recent Trade Deals, Then A
   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVkyN2JqUERwUUFHYUx1TUlydzV0djlqVTdRWkdJMU5wTmpjMWhKT3lFZS1qeXZwVmRyS1hyUnZzWEpjTGNiaTVlZWsxN1NYV0Y1cGxQV29RZWJZLThmVkFKUFMyWWFwbWxSWjRlb21GSHFUbUtGTWJVQXVIdUJDWklWNXhHeU9oOG9tcUtIZnY0M2F6ZDlpa3NFRzRPX3UzNFkxR2ZPT1BmZ2c4Q3AtQlE3OTM1VFZWZEdWM0FTWmh6YTk2a3JXTkVR0gHSAUFVX3lxTE9mVmdjR0xiaTh6WlhMZTRzbTdtQXZDaVZYVmV5WWlBUDJYM3ZqRGRDZVVCQ3NoZnlHVXlLdkZVN2hKRXJjMVRMUVYxWUYxVlFleHV5ZWZBR01lbHA4eE5MQWdlQWkwNkgxYWRTLURtODdELXRuMl95YXJKZ1prOXVQa2tOSFRUdk9yMThJQVczQWFYUmJ3emJ5MDVObGNpeHZMN1JBMnFDaU1QcUExZFJ0U1hHMFcwTkl4cmcxbXNrV1pSTmtBQWN2eklUcm0xbmdYdw?oc=5
 
-- Stalin urges PM Modi to give legal status to Lankan Tamils in India | India News - Hindustan Times
-  Stalin urges PM Modi to give legal status to Lankan Tamils in
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQUzB6UExBUk1yeXc4WWdwZTkxRnlsVlVaNExGUmJqWXNhOWt2Mk9YSXhKZEdxbEhJYmozcGdOZG1pZ2RscGJ2RC1yelBOSHdPdjNWVjNRZEZSTlJIekpIeGZ3dUh6MW83UV93UExYbnl6UHpuZmJaM29ETHh2Nk84cVdvUFpmeFRGOXFHYWRlSVYwVndVcXk5QkhScG9pUUVUNDl5UnhwaXluUUJWSnA3UVRDXzM0QTBJMFluUTJuN0FtcWNyWFFGV2Vn0gHPAUFVX3lxTE92cnIyTWEyeFdsdEpobGVEQldqMC0tT1Z4RTFSYUtNU0cxMmczX2lJWjVUWWdfSkdOY2FCWlJZY1dZbF9hWElkS1UybFpWYlczRlgxa3RzZWVaSGh6MFFVWWR3OFBmYm1uLTlETlBCLUI5ZEpDY0RDSzZJdlZnV05iSk9GRlF1MDV0Nmp5dUoxaThWYnhvNVVnbDdNMVR4TWpUREg0YXd3MzRKZFlvd0J6R2pEblVkQUlaczdpcVFOSWZFNlRtN2VVR09PY1ZSdw?oc=5
-
 - How a '7-hour sleepless' train ride in India became memorable experience for Canadian tourists | India News - Hindustan Times
   .com: How a '7-hour sleepless' train ride
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeW5FLVNiakpSYW9iWi1vandlc2g4MFNsVGlGQlRXcEhjNmtfNmFzZmN3ZEZfVGVNaVMzMk9vMjRIX09qOVgtaUlqdFB1Z3ZMRFZrcTRaSVRjN3U3T0EwM2xxRGZ6STdqWkI3LU15ZHJOc2NTeG00T2pyMHZNSTk4YXVqVWtyV1NWWDhvVlhiTzBUYWZkMFY5YlNTd2t2c3hfbV9oMlIxcmtDVG1MMUl1akJWSzFrZERjZU9IVHo0TEN2aHlPamxpU2oxS2FOYUpRa2hNcXN4N0NKWTRFX1U5emwxTzJoR2xPRm5FLUJsNkVWTVU5LURSYzNSaHFvd9IBgwJBVV95cUxPdG5NSnBHUHJ5aXowdDY1VWhDaVd4cG5QbmZSZlE5S1RPcmt2QWJBOGZrdXFWcUgtVXVOZGd6RGVkUzdOdHFWUEhicGhJakRUT2hiaWl0NGpnT0k2WlZDS0I0eUUyTHpKNkU1RXpQYllJR1pHRUNJcmt5b1ZzeFZieEN0SGpaaWZPQW04MmNDYV9wMnp1YWZmNzdtdGdab2xqQ3RvSkdZTG9hd0FTdk5jaTZrdnRLeDNYODZFNG1nWmxIRkhGdW5CM1RnU2sxY2JMVGZIVXBmaGxrM2t2WjRqUWdNczVsS3BjRUlhTUwtcFU3M0tiZ2dQXzdoeFhJM0pXU1Nr?oc=5
 
-- Special prayers held at Mahakaleshwar Temple for Team India - Times of India
-  Special prayers held at Mahakaleshwar
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2FleEdaTFhWNE0tMzBNamRBMkFsN3ZZS3BfN2M1WWlrTDBCVEk0d1F1WGdmYjA1aU5KRlFoSGVoMmJoYTN5dnRGcE9MX1M0Ri1WM0tfcy1xUDBTSUpVOXRRd1loVmxJV3RqczkyRGVKRk5UZXgzOElYUWFROXREMFVHVGFTNEdSNF9UNXBUZENjeUlzbUNQMDhXaWJ2VzlpZXd6b3A2azhyR3pZMHBHLU4tU2lETWtfWE5zSF9tMUEwd1Z3bFd0NENMX0hHZ9IB0wFBVV95cUxQWFNGTHhCOVdfbERMeFFsVlg4WGpmSzJ1dlRPUndmZWZMcTM4a191X2J0cmtRUTFkWFF5Vkt2bjNONU13LTdyLVRrVHFzMF9KV25OZ0p6ZlFfaHE0ZXltS2Y0Um9vM21sUUlKbTh0N282ckRuRUd2Wm5QY3k5SXA1U19Cc2k4ZTVzaGpkWEwzdXNneXFKZkZjTHhPRXAtQ1RWa21jbHlIZmlwcHRnNEJnWE00RXhCb1ZScDhxQzBwSHdZUGlneHhqbnFha3lrakRFV1NF?oc=5
+- AI Summit India 2026 Live Updates: ‘Bringing the world together,’ PM Modi welcomes leaders as India hosts AI summit - Times of India
+  AI Summit India 2026 Live Updates: ‘Bringing the world together,’ PM
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcEpvRTA0OTlFQ1pmTnNsMnBVYTFEQk03Z3VGVUdpSkMxcDJWQzZaeWdWYl83MzBiMms1bnYzVDVWRkZkMVZHdlVUWlQtNXN1YUc5dDM2cG5xY1dGMElDN3hRQXV3azlmaTIxNmoyX2pnckY2OTRQamt5WDRrbTJ6eFdhTGtlZnhUMm1uUnI4ZHM4R01vSUFGam81NWRiV3ZkTkpmYjRVcktDUVVNY09DUld4cTRzNDZnNGc0VFZubzdtaWdrUFVXd2IzRzdyMW5ncmpQOVdabUtSYmZWMFlqdHVIUnFYTm9sb2RqclVnQ0YwRW53UnQzRlNVV2VpNmI0WFAycGJRNHnSAY4CQVVfeXFMUEVpaktuOS1MamRmLVdacU8yaE9MUUtUSm9rejhrSG1IOTBZUW5lZ3kwR2RnZTNvWm1LTm5aSE4zOWkxVW1VVk5CWS0tdHJMLVhjc2lsZ2hjSjZBdWUxVmVqRjVrbjllZXVNMHA4RmYwbnppbkJoWkRJc0hhQ2ZHLXNxMHpacS1uR1M4Sy05akZqMElURXlSdDBEQXZOa3dTNS1tbGdhWk45SUxzc2ROaXlXTTVWVFluRnpqcngzUVZJV2htLXlnNU5HeDJOeDdhLXhURE5DOTB3aXNYQ0dKTFpsQ2hMRXRvODVFQ1M2OUZ2Wml4ZHJhMG0ySXhpb2c1Wk9ZMjdwWVNXQVdaWkRR?oc=5
+
+- India AI Impact Summit 2026 LIVE Updates: PM Modi to inaugurate AI Impact Expo today at 5pm - The Indian Express
+  India AI Impact Summit 2026 LIVE Updates: PM Modi to inaugurate AI Impact Expo
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFZWTWhSSTlFcldSN0p0Z0VPTzAtV3QydmgwLUdKTW8xNDhTQUpqZFZ5dVpKc01QOEFVZU84b0V0clI3RmN4ZmlXVVZteWdqZUxPa2xkREQ0ck1URUxkblpjZnZ3Y1pyWDlQb1NGSGg4ZHVtR21jN005SHdZVFFTaWxUSVRKSHZsT281TGNUVVh4NjV6Q3d1QmhCMFBlREF4WWJ5ekpPUkswMjJtOUVGYXNmWS1SMWhmYll5WDI0dm1zQUtMVXBfdWxiV1RhYWktaFN2NWMzZ19hZklQN0lhREpxONIB6gFBVV95cUxNUDY2S0NldHNNQkkxYWZWZ011dHNqdGMxTC1lUTl2X3pfMFA2UUNBZFE3NlhmWnVPVVJEcEJmNFdtMnNmZ2E3TmlHeHgxdXRnV25tM3lGWXhoVncxNV9lYy1ZaE8yRW05NFBCeTB1NUluWTFfb2oydHlBbktUNzJoTFR6Q3pWWGRuU0ZiYUd5MkItLVA5YkdkZlppeEY2bFpJZWNuVlVucUYtYmV2cXh4TGNwY1kzVDVsdXRsZHZxd05lNGJSUDJVSnN5UVY2MjlFV21HWjBLUTR5aTRLbldudHE5MlozS3M2Z3c?oc=5
+
+- Over 600 startups, 70,000 sq-m area, 2.5 lakh visitors: Mega scale of global AI summit in Delhi | India News - Hindustan Times
+  The summit is expected to attract 2.5 lakh visitors.
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVkdGMHBsYnJYMU5ZTzMtMENsZnVidDg1QTk5RnY1dlJNQUtpSWVLMXpsTmZ4bjlJZ2tOQTJzOWZYX0xrcTlFb1h3NGNpcnBzcF9IV21JXy02LWdFZ1Z0MU5Ja3ZVUzl3M3ZOR0t1d3JuV0JPdzEzazVXaVVLS1phSmJkWFRBZEhJckFWdU9kcV95ZHh5T2VPZTZxenF3TWNjR0hqbFRpdDU5dU0waU9tOXZoaFpwbjBTYmVVOU0zRW9lYXQxS1lzd3NWS3NiMmtfc2lmbThZbWgwVkRjTEQ4RU14S0Z3cXdIZlRZ0gHwAUFVX3lxTFBRbEktX3dzRjFxUGJxOXNITzZwekFtY0E3Ty16SXFtdDJYa3lTSFJQdlZUNEM2cDFITkpOZkt4WUkzcEtNSGpwdHNZYmNUOWhLbWZXV2JZWUs2QWVkcTR4WmlDV2huWXhnT0VHdm92d01yVVIxQnhaMGZ1ZWNmV3RqdXk4ajNDZ0tnODRDeDVIajd2bUo2TTV5d1BVUnpUYm9KcVZJR0xCOUFILVFzR0JVbVJ0V0VBTTRPcjg2cDdzYVhkejk5THc1RWRFRGVkTkRkSHFOTlJwWDdhdURVbEh5SFhaQ0V6YnJqRGh5TGtydg?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-16 01:50:56 UTC_
+_Last updated: 2026-02-16 07:02:59 UTC_
