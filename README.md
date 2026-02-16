@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Pinarayi Vijayan will be CM again, predicts Congress’s Mani Shankar Aiyar as he hails Kerala’s CPM govt
+- ‘Organised thrusting of smallness’: Amartya Sen warns of ‘weakening secularism’ in India
   
-  🔗 https://indianexpress.com/article/india/mani-shankar-aiyar-kerala-pinarayi-vijayan-cm-prediction-panchayati-raj-congress-furore-10533938/
+  🔗 https://indianexpress.com/article/india/organised-thrusting-of-smallness-amartya-sen-warns-of-weakening-secularism-in-india-10534098/
 
-- Mumbai-Ahmedabad bullet train fares proposed to be competitive with existing Rail, Air travel: Ashwini Vaishnaw
+- 13-year-old Christian boy denied burial in Odisha village over church relocation row
   
-  🔗 https://indianexpress.com/article/india/mumbai-ahmedabad-bullet-train-fares-to-be-competitive-with-existing-rail-air-travel-ashwini-vaishnaw-10533807/
+  🔗 https://indianexpress.com/article/india/13-year-old-christian-boy-denied-burial-in-odisha-village-over-church-relocation-row-10534062/
 
-- Betrayal of farmers, trade deal gives US long-term grip on our agri system: Rahul Gandhi
+- MBA student said she’ll return home after birthday party. 4 days later, her father identified body by her socks in a locked flat
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-us-trade-deal-farmers-agri-system-10533853/
+  🔗 https://indianexpress.com/article/india/mba-student-said-shell-return-home-after-birthday-party-4-days-later-her-father-identified-her-body-by-her-socks-in-a-locked-flat-10534117/
 
-- Udaipur-Asarva Vande Bharat train: IRCTC opens ticket booking – check fare, stops and speed
+- What are ‘hornbill restaurants’? Behind Chhattisgarh’s plan to make tiger reserve a haven for rare bird
   
-  🔗 https://indianexpress.com/article/india/udaipur-asarva-vande-bharat-train-irctc-opens-ticket-booking-fare-stops-speed-10533715/
+  🔗 https://indianexpress.com/article/india/what-are-hornbill-restaurants-behind-chhattisgarhs-plan-to-make-tiger-reserve-a-haven-for-rare-bird-10534116/
 
-- Lok Sabha Speaker Om Birla to represent India as Tarique Rahman takes oath as Bangladesh PM
+- Filmmaker who accused ex-Kerala MLA and director of sexual assault speaks: ‘When survivor remains anonymous, accused gets all the space’
   
-  🔗 https://indianexpress.com/article/india/om-birla-india-tarique-rahman-swearing-in-ceremony-bangladesh-bnp-modi-10533577/
+  🔗 https://indianexpress.com/article/india/filmmaker-who-accused-ex-kerala-mla-and-director-of-sexual-assault-speaks-when-survivor-remains-anonymous-accused-gets-all-the-space-10534114/
 
 - AI Impact Summit 2026: Full guide to dates, time, venue, and agenda; How to register
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-film-school-trains-next-generation-of-hollywood-moviemakers-10532971/
 
-- Lodha Developers acquires 80% stake in Pune-based Solidrise Realty for  ₹294 crore
-  Mumbai-based company said it has entered into a share purchase pact to acquire 80% stake in Solidrise Realty.
-  🔗 https://www.livemint.com/companies/news/lodha-developers-acquires-80-per-cent-stake-in-pune-based-solidrise-realty-for-rs-294-crore-11771150287341.html
+- OpenClaw creator Peter Steinberger joins OpenAI, Sam Altman says will drive next-gen AI personal agents
+  Peter Steinberger, creator of OpenClaw, will join Open
+  🔗 https://www.livemint.com/companies/people/openclaw-creator-peter-steinberger-join-openai-will-drive-next-gen-ai-development-personal-agents-chatgpt-ceo-sam-altman-11771202615277.html
 
-- Quote of the day by Charlie Munger: ‘Good investment opportunities don't come often… you’ve got to be prepared to act’
-  Berkshire Hathaway's Charlier Munger believed patience and preparedness were important qualities for an investor. He noted that it is harder to do nothing with cash in hand since
-  🔗 https://www.livemint.com/companies/people/quote-of-the-day-charlie-munger-advice-good-investment-opportunities-not-often-be-prepared-act-patience-warren-buffett-11771145699138.html
+- Mubadala Capital Chases ‘Complexity’ Post Clear Channel Deal
+  Mubadala Capital is embracing a more aggressive stance on dealmaking. It is wading into complicated transactions shunned by the titans
+  🔗 https://www.livemint.com/companies/mubadala-capital-chases-complexity-post-clear-channel-deal-11771204758735.html
 
-- Saudi Arabia Names PIF Head as Minister Overseeing FDI Push
-  Fahad Al-Saif is an official from the kingdom's sovereign wealth fund. Saudi Arabia has appointed him as its new investment minister.
-  🔗 https://www.livemint.com/companies/saudi-arabia-names-pif-head-as-minister-overseeing-fdi-push-11771140430977.html
+- Olympus Drops After Full-Year Operating Income Forecast Cut
+  Olympus Corp. fell the most in nearly eight months after the company cut its operating income guidance for the
+  🔗 https://www.livemint.com/companies/olympus-drops-after-full-year-operating-income-forecast-cut-11771202679133.html
 
-- Q3 results: Jewellery firm RGL profit jumps 36% to  ₹33 crore
-  Renaissance Global said its consolidated net profit rose 36% to  �
-  🔗 https://www.livemint.com/companies/news/jewellery-firm-rgl-profit-jumps-36-to-33-crore-in-december-quarter-11771138286068.html
+- Twist in tale? Warner Bros weigh Paramount offer that covers $2.8bn Netflix break fee, says report
+  Warner Bros is weighing renewed talks with Paramount after an amended offer that would cover a $2.8bn Netflix break fee
+  🔗 https://www.livemint.com/companies/news/warner-bros-board-reconsiders-paramount-talks-raising-stakes-for-netflix-deal-report-11771201321339.html
 
-- Pentagon ‘fed up’ with Anthropic pushback over Claude AI model use by military, may cut ties, says report
-  The Pentagon is considering cutting ties with AI firm Anthropic due to disagreements over military use limitations of its models. Anthropic's $200 million contract could be
-  🔗 https://www.livemint.com/companies/news/anthropic-pentagon-may-cut-contract-oppose-all-lawful-purposes-claude-ai-model-military-autonomous-weapons-surveillance-11771124122716.html
+- AI firm Neysa to raise $1.2 billion from Blackstone, others in debt-equity mix
+  Neysa plans to raise $1.2 billion in a Blackstone-led deal to scale India’
+  🔗 https://www.livemint.com/companies/news/ai-firm-neysa-to-raise-1-2-bn-from-blackstone-others-in-debt-equity-mix-11771151902418.html
 
-- Wall Street Week Ahead: Market braces for Fed minutes, PCE inflation, Q4 GDP, personal income &amp; spending data
-   Walmart, Alibaba and Palo Alto Networks are among the major companies to report fourth
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-market-braces-for-fed-minutes-pce-inflation-q4-gdp-personal-income-spending-data-11771170861984.html
+- Gold prices dip on firmer U.S. dollar
+  Gold prices
+  🔗 https://www.livemint.com/market/gold-prices-dip-on-firmer-u-s-dollar-11771205676643.html
 
-- Dividend Stocks: HAL, IRCTC, Torrent Power, Coal India, among others to trade ex-dividend next week; Full list here
-  HAL, IRCTC, Torrent Power, Coal India, ONGC, Torrent Pharma, Escorts Kubota, and Shipping Corporation of India are among other firms which will trade ex
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-stocks-hal-irctc-torrent-power-coal-india-among-others-to-trade-ex-dividend-next-week-full-list-here-11771172267930.html
+- Indian stock market: 8 key things that changed for market over weekend- Gift Nifty, US inflation, Japan GDP to gold rate
+  Gift Nifty was trading around 25,465 level, a discount of nearly 54 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-8-key-things-that-changed-for-market-over-weekend-gift-nifty-us-inflation-japan-gdp-to-gold-rate-11771172532645.html
 
-- Walmart, economic data await investors confronting AI whack-a-mole
-  Walmart,
-  🔗 https://www.livemint.com/market/walmart-economic-data-await-investors-confronting-ai-whackamole-11771164126515.html
+- Gold, silver rates today: Gold and silver prices fall up to 2% after disappointing US CPI data. Should you buy or sell?
+  Spot gold prices were down nearly 0.27% at $5,033 per ounce. Spot silver prices fell over 2.08% to
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-and-silver-prices-fall-up-to-2-after-disappointing-us-cpi-data-should-you-buy-or-sell-11771202260308.html
 
-- M-Cap of India's most-valued firms drop by over  ₹3 trillion — TCS, Infosys, Reliance, among other key drivers
-  Market capitalisation of six of the top 10 most-valued firms on Indian stock market recorded a more than  ₹3 trillion drop last week.
-  🔗 https://www.livemint.com/market/stock-market-news/mcap-of-indias-most-valued-firms-drop-by-over-rs-3-trillion-tcs-infosys-reliance-among-other-key-drivers-11771155050690.html
+- Aye Finance IPO listing date today. GMP, experts signal muted debut of shares in stock market today
+  Aye Finance IPO listing date is today, 16 February 2026. Equity shares will be listed on both the stock exchanges, BSE and NSE.
+  🔗 https://www.livemint.com/market/ipo/aye-finance-ipo-listing-date-today-gmp-experts-signal-muted-debut-of-shares-in-stock-market-today-11771173274445.html
 
-- AI-led meltdown raises IT investors’ struggle to crack revenue revival code
-  Despite management's AI-first rhetoric, a lack of large-scale AI contract values and the threat of short project
-  🔗 https://www.livemint.com/market/mark-to-market/indian-it-stocks-artificial-intelligence-information-technology-firms-11771141294929.html
+- Stocks to buy: Raja Venkatraman recommends real estate stocks for 16 February
+  Market expert Raja Venkatraman shares his top real estate stock picks for
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-real-estate-stocks-16-february-stock-recommendations-phoenix-mills-prestige-estates-11771142420894.html
+
+- AI Summit LIVE Updates: PM Modi to inaugurate Expo 2026 at Bharat Mandapam — what to expect today?
+  India is positioning itself as a key voice in shaping the next phase of AI development. The event is expected to bring together leaders from across spheres.
+  🔗 https://www.livemint.com/technology/ai-impact-summit-live-updates-pm-modi-expo-2026-bharat-mandapam-february-16-devglobal-gate-foundation-niti-aayog-11771203540520.html
 
 - India set to host AI Impact Summit 2026 at Bharat Mandapam tomorrow: When and where to watch live
   India will host the AI Impact Summit 2026 at Bharat Mandapam from February 16 to 20. Here is when and how to watch
@@ -96,9 +100,9 @@
   Groot AI has predicted a narrow win for India ahead of the high-voltage T20 World Cup 2026 clash against Pakistan in Colombo. They cite India’s
   🔗 https://www.livemint.com/technology/tech-news/grok-drops-big-take-ahead-of-india-vs-pakistan-t20-world-cup-match-heres-what-the-ai-predicted-11771161673842.html
 
-- ‘AI's next chapter will be…’: What Accenture, OpenAI, Qualcomm, other CEO's say ahead of India AI Impact Summit 2026
-   AI Impact Summit 2026 is scheduled to be hosted at Bharat Mandapam, New Delhi, between 16 to 20 February 2026. Here's what top tech CEO from
-  🔗 https://www.livemint.com/technology/tech-news/ais-next-chapter-will-be-what-accenture-openai-qualcomm-other-ceos-say-ahead-of-india-ai-impact-summit-2026-11771145368667.html
+- Asian shares steady in holiday-thinned trade; weak Japan GDP cools rally
+  Japan on Monday reported its economy grew a miserly 0.1 per cent annualised in the December quarter.
+  🔗 https://www.business-standard.com/markets/news/asian-shares-steady-in-holiday-thinned-trade-weak-japan-gdp-cools-rally-126021600036_1.html
 
 - Silver, gold braces for another jittery week on US inflation data: Analysts
   Silver futures on the Multi Commodity Exchange (MCX) declined Rs 5,532, or 2.2 per cent. Gold rose Rs 444, or 0.3 per cent, over the past week.
@@ -116,69 +120,133 @@
   In the last three months, foreign investors have pulled out of Indian equities. The pull-out was driven by concerns over potential US tariffs. In the first two months of this year, the number of foreign investors in India was up
   🔗 https://www.business-standard.com/markets/news/fpi-inflows-rebound-to-19-675-cr-in-early-feb-on-india-us-trade-deal-126021500251_1.html
 
-- Mcap of 6 top valued firms erodes by ₹3 trn; TCS, Infosys biggest laggards
-  TCS, Infosys, HDFC Bank, Reliance Industries, Life Insurance Corporation of India (LIC), and Bharti Airtel faced erosion from their valuation. State Bank of India, Bajaj Finance,
-  🔗 https://www.business-standard.com/markets/news/mcap-of-6-top-valued-firms-erodes-by-3-trn-tcs-infosys-biggest-laggards-126021500175_1.html
+- Kwality Wall's shares to list today after demerger with HUL. Here’s everything you need to know
+  Kwality Wall’s India shares are set to list today following their demerger from Hindustan Unilever Ltd (HUL) This marks the creation of India's first pure-play listed ice-cream company
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/kwality-walls-shares-to-list-today-after-demerger-with-hul-heres-everything-you-need-to-know/articleshow/128382845.cms
 
-- FPI inflows rebound to Rs 19,675 cr in first fortnight of Feb on US-India trade deal
-  FPIs staged a sharp turnaround in early February, pumping Rs 19,675 crore into Indian equities in the first fortnight.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpi-inflows-rebound-to-rs-19675-cr-in-first-fortnight-of-feb-on-us-india-trade-deal/articleshow/128377385.cms
+- Market quote of the day by Benjamin Graham | “In the short run, the market is a voting machine. In the long run, it is a weighing machine.”
+  Benjamin Graham's insight explains market behaviour. In the short term, stock prices reflect popularity and sentiment, like a voting machine. Over time, fundamental business performance dictates value.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-benjamin-graham-in-the-short-run-the-market-is-a-voting-machine-in-the-long-run-it-is-a-weighing-machine-/articleshow/128374789.cms
 
-- Competing on equal terms: How trade agreements can reshape India’s growth model
-  India's recent trade agreements signal a strategic shift toward competitiveness-led global integration. By improving tariff parity and market access with major economies, India is strengthening export visibility, funding its current account deficit sustainably.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/competing-on-equal-terms-how-trade-agreements-can-reshape-indias-growth-model/articleshow/128375278.cms
+- Global Market Today | Asian stocks tepid, Yen weakens after GDP data
+  Asian markets traded mixed as subdued US inflation data bolstered expectations of Federal Reserve interest rate cuts this year. Markets saw fluctuations in Japan, with the yen weakening, while Australian shares remained flat. This comes as the region braces for Lunar
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-tepid-yen-weakens-after-gdp-data/articleshow/128402062.cms
 
-- Commodities enter a corrective phase: Will it last or is it just a pause?
-   geopolitical risks are still high. Global risk indicators continue to show heightened concerns around interstate tensions and geoeconomic confrontation through 2026. Such uncertainty can keep volatility high in commodity markets.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/commodities-enter-a-corrective-phase-will-it-last-or-is-it-just-a-pause/articleshow/128375091.cms
+- Fresh legal snag may delay NSE’s long-awaited public debut
+  A petition in Delhi High Court questions Sebi's approval for the listing. The case centers on alleged violations of rules for adjusting derivative trades during corporate actions.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/fresh-legal-snag-may-delay-nses-long-awaited-public-debut/articleshow/128401836.cms
 
-- Ahead of Market: 10 key factors that will decide stock market action on Monday
-  Both the Nifty and BSE Sensex closed sharply lower on Friday. Broad-based selling impacted various sectors, with consumer, IT, and energy stocks among the biggest laggards.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-key-factors-to-steer-markets-on-monday/articleshow/128374172.cms
+- Corporate revenues jump most in six quarters on GST push
+  Corporate revenues and profits surged in India during the December quarter. Analysts anticipate continued double-digit earnings growth in FY27, supported by favorable trade deals.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/corporate-revenues-jump-most-in-six-quarters-on-gst-push/articleshow/128401737.cms
 
-- Market Trading Guide: Bajaj Finance and a smallcap stock offer up to 5% upside in near term. Here’s why
-  Nifty ended sharply lower as broad-based selling pushed the index below key technical levels. Rupak De of LKP Securities warned of near-term weakness toward 25,000 unless resistance is
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-bajaj-finance-and-a-smallcap-stock-offer-up-to-5-upside-in-near-term-heres-why/articleshow/128374079.cms
+- 'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi At ET Summit - Times of India
+  'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWFJlZzFSLXVRbGRLVEpiSzFpTmt5VnZ6bUlYTDBQT08wV2lIUDR0TV8xMlFYbXpQRlcyM0VCbVRVS1B2c1c5TmRacGIyTVJkaTJWWENoN3dXU2xxTUF3SEEzb3JwZkJ5a2x5S09lNVV1dlpvUnNISlFHU0dSbVd5dlBvODVTYkd5NHRyZzZqeE95MHgxWllnNmJ5LXhBemstazVJVHVSOHhGRGJCMFJFWWVlbzMxai1WSE1fX2huRFhycjhUaG04R0xPMGRpRFhiZUU2UXljVURJX1ZIYXpuLWhvc3pyN185aVZYMUFteTJsUS1lVHpSbVpB0gH_AUFVX3lxTE5oSm94bkVHMUdiUHFtRHZ4bGZubGdJTlBxNEk5RkhzSmx1QUFOWVEzU2JOU3BwNHVvX1JvWEV5a05Qc3Z4c1lhRFZMSDZQMWlBRW1fZDNHdVFzUGE5RFpUZ3k3SF84SW5XdXZ4Q2tKR3VES2x2Z2lfYjIxYUF2MHJTa1RXQnNBc293dEhyTENMT0VHaEs4SmMxVTJIZ2hQNE1Wc1paR2hCSzdIcDUxdmxQZFg3b0huQW50QlJaR3hraVk5SUc2UXh1RGlBV25KN2FZVzE0VmNfeFJNQnN4azBOU0hZaWs2dzFuRGYxYml2TmRTWm5tVnhQdngzQUxyVQ?oc=5
 
-- Bangladesh election results: What BNP’s win means for India - Times of India
-  Bangladesh election results: What BNP
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFl1c09hNUg4YXc2azcwSFFPR0dKOTcyYUdsdzBIcnlId0NLSmN6MUJBUW9GMnhQZVFxTURjWFpGTV9LZVBjODVibGVpNk5Lc2Jlb2RMcEl4TUszMWhtUUJ3TVFIeGdzUy1XMV82S2NkbW9yVEltNUNlcjlkZmJ6TzFIdWdrZGxWR3N2bW9EaE8wOGRYYmVvMUV0SGR1emVGT0RoMG44engxSEZvTEpDVzhMenBtQ095aUxVa2VHS09XSU3SAcgBQVVfeXFMTnFZYVIwYXdKUFJSUHpURGRIRkplLXJfNlV0Sy1fVTRaQ0xPOUV3aVdZUEFVM3hmejlXeEFxbHNaN01raHM2UTdqcmx0eEs1REl1bXVEQUlRd1J2YlVucHh1UzdLTktJSGdoems0cXo4TmVrZDNBejlEYnozbmozZkg4cU1VV1dMVDlSUmoxcndQby1NTzRmM2tDUWN5VG9SX1dHaC1velgwWmlCcnFCWHZrVTFDaHQtVEthQXhYN2pXOFk2VHN0SXQ?oc=5
+- PM On How India Settled Recent Trade Deals, Then A Jab At Congress-Led UPA - NDTV
+  PM On How India Settled Recent Trade Deals, Then A
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVkyN2JqUERwUUFHYUx1TUlydzV0djlqVTdRWkdJMU5wTmpjMWhKT3lFZS1qeXZwVmRyS1hyUnZzWEpjTGNiaTVlZWsxN1NYV0Y1cGxQV29RZWJZLThmVkFKUFMyWWFwbWxSWjRlb21GSHFUbUtGTWJVQXVIdUJDWklWNXhHeU9oOG9tcUtIZnY0M2F6ZDlpa3NFRzRPX3UzNFkxR2ZPT1BmZ2c4Q3AtQlE3OTM1VFZWZEdWM0FTWmh6YTk2a3JXTkVR0gHSAUFVX3lxTE9mVmdjR0xiaTh6WlhMZTRzbTdtQXZDaVZYVmV5WWlBUDJYM3ZqRGRDZVVCQ3NoZnlHVXlLdkZVN2hKRXJjMVRMUVYxWUYxVlFleHV5ZWZBR01lbHA4eE5MQWdlQWkwNkgxYWRTLURtODdELXRuMl95YXJKZ1prOXVQa2tOSFRUdk9yMThJQVczQWFYUmJ3emJ5MDVObGNpeHZMN1JBMnFDaU1QcUExZFJ0U1hHMFcwTkl4cmcxbXNrV1pSTmtBQWN2eklUcm0xbmdYdw?oc=5
 
-- 'Bangladesh First': Tarique Rahman's Reply To Query On Ties With India - NDTV
-  'Bangladesh First': Tarique Rahman
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
-
-- 'Want Ties With India Based On Mutual Respect': Tarique Rahman's Top Aide To NDTV - NDTV
-  'Want Ties With India Based On Mutual Respect': Tar
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQMldGLUszWl9QSFlWTTJLZWw5QXpOUXJiLUJvMDN4b2xxZnVObjB1WktmN3l3QUpLSUtSQWpEUzQwZnlOdndGTGF3T1lNMVBoYUJkOUNkRlZTT3d4ZGxablJvQnNub2NrY3RYMlFrOVZIOHdxd0RBUGZHWTJySkljQzlPblRWNlZvR2k2YnpRclpiRFh1RVk5NDladm5wSzdjMDhaN1EyU1ZzZlRQZlZLQ3RB0gG6AUFVX3lxTE9ZLXdsSTk0cVRYbU5ORWFpOU5zdl9GY3VkN0hjdGVIYjJDYnR0MXRnQ3BqVmNQQkE2ZGgxQklPb19fN0RFN2E3NF9EcE1fOF9BM2pGbzMzUWNuQnNNbHllcXFxS1F5VzFQVThBX1Q3MUU3T202Y18xVUc4R2RIeWw3STJVUU02TDZkZHllSUhlaGF4NTQxWUw2clVKQXV3azFYTk9jZGNpSkJQUkF5RzZIRUxDaklHVlBTUQ?oc=5
+- Stalin urges PM Modi to give legal status to Lankan Tamils in India | India News - Hindustan Times
+  Stalin urges PM Modi to give legal status to Lankan Tamils in
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQUzB6UExBUk1yeXc4WWdwZTkxRnlsVlVaNExGUmJqWXNhOWt2Mk9YSXhKZEdxbEhJYmozcGdOZG1pZ2RscGJ2RC1yelBOSHdPdjNWVjNRZEZSTlJIekpIeGZ3dUh6MW83UV93UExYbnl6UHpuZmJaM29ETHh2Nk84cVdvUFpmeFRGOXFHYWRlSVYwVndVcXk5QkhScG9pUUVUNDl5UnhwaXluUUJWSnA3UVRDXzM0QTBJMFluUTJuN0FtcWNyWFFGV2Vn0gHPAUFVX3lxTE92cnIyTWEyeFdsdEpobGVEQldqMC0tT1Z4RTFSYUtNU0cxMmczX2lJWjVUWWdfSkdOY2FCWlJZY1dZbF9hWElkS1UybFpWYlczRlgxa3RzZWVaSGh6MFFVWWR3OFBmYm1uLTlETlBCLUI5ZEpDY0RDSzZJdlZnV05iSk9GRlF1MDV0Nmp5dUoxaThWYnhvNVVnbDdNMVR4TWpUREg0YXd3MzRKZFlvd0J6R2pEblVkQUlaczdpcVFOSWZFNlRtN2VVR09PY1ZSdw?oc=5
 
 - How a '7-hour sleepless' train ride in India became memorable experience for Canadian tourists | India News - Hindustan Times
   .com: How a '7-hour sleepless' train ride
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeW5FLVNiakpSYW9iWi1vandlc2g4MFNsVGlGQlRXcEhjNmtfNmFzZmN3ZEZfVGVNaVMzMk9vMjRIX09qOVgtaUlqdFB1Z3ZMRFZrcTRaSVRjN3U3T0EwM2xxRGZ6STdqWkI3LU15ZHJOc2NTeG00T2pyMHZNSTk4YXVqVWtyV1NWWDhvVlhiTzBUYWZkMFY5YlNTd2t2c3hfbV9oMlIxcmtDVG1MMUl1akJWSzFrZERjZU9IVHo0TEN2aHlPamxpU2oxS2FOYUpRa2hNcXN4N0NKWTRFX1U5emwxTzJoR2xPRm5FLUJsNkVWTVU5LURSYzNSaHFvd9IBgwJBVV95cUxPdG5NSnBHUHJ5aXowdDY1VWhDaVd4cG5QbmZSZlE5S1RPcmt2QWJBOGZrdXFWcUgtVXVOZGd6RGVkUzdOdHFWUEhicGhJakRUT2hiaWl0NGpnT0k2WlZDS0I0eUUyTHpKNkU1RXpQYllJR1pHRUNJcmt5b1ZzeFZieEN0SGpaaWZPQW04MmNDYV9wMnp1YWZmNzdtdGdab2xqQ3RvSkdZTG9hd0FTdk5jaTZrdnRLeDNYODZFNG1nWmxIRkhGdW5CM1RnU2sxY2JMVGZIVXBmaGxrM2t2WjRqUWdNczVsS3BjRUlhTUwtcFU3M0tiZ2dQXzdoeFhJM0pXU1Nr?oc=5
 
-- Witnessing betrayal of Indian farmers in name of US trade deal: Rahul Gandhi - BusinessLine
-  The Indian government has agreed to a deal with the United
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQmJBN015OFZfM2Qzb0xPeXpQanRoT0xLYjhTYms1Z1RpR3dBcldWRGVSblF0aVM1ZVZ5eHhRZkVSQ0ZmVzVlalNOX3NMN1p4QnFLWHF0QkFwc29KSWZJSGQtdjhiUmZKREk4OHprNjRjU2RCMFJwZGR1MWtDRkpJVl92SlJaS1lid0lWUVI1TnV6dHV4UkIzdngtTGdFbGoyQjN5QWUxeFc5cnlsdE1ya0NOZC0wRHpacU5xVGQzR0ZrYXNOa0lFeEFOWkxVRUZ3TE1B0gHaAUFVX3lxTE9ZaTBJZGNCa01PYlBmd2pKbndqM1d6SU1OTkpkY0VEN1FuVXNxUWJ1cGZJTGpHR1dBVWJPVms1UlBQSWcxWTdGOXFuX3VmRHpwTHVGX1BIOTMteVhleFZlSk5yYmVkUEpjNHA5R1Jra3B1Zk9BeXQ2Wm5FMTZtb2NVektzVFBtNk9UYTRXSFlPdnRzUUdFZzhWWEJjcGx3Y2h6SVRUOWp2RDFBUHVZMHJRalVxSHVwUFlMemNyYjB4NUwxUVM3a0tYUmdSalRVal9GX1VpN0FDelZR?oc=5
+- Special prayers held at Mahakaleshwar Temple for Team India - Times of India
+  Special prayers held at Mahakaleshwar
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2FleEdaTFhWNE0tMzBNamRBMkFsN3ZZS3BfN2M1WWlrTDBCVEk0d1F1WGdmYjA1aU5KRlFoSGVoMmJoYTN5dnRGcE9MX1M0Ri1WM0tfcy1xUDBTSUpVOXRRd1loVmxJV3RqczkyRGVKRk5UZXgzOElYUWFROXREMFVHVGFTNEdSNF9UNXBUZENjeUlzbUNQMDhXaWJ2VzlpZXd6b3A2azhyR3pZMHBHLU4tU2lETWtfWE5zSF9tMUEwd1Z3bFd0NENMX0hHZ9IB0wFBVV95cUxQWFNGTHhCOVdfbERMeFFsVlg4WGpmSzJ1dlRPUndmZWZMcTM4a191X2J0cmtRUTFkWFF5Vkt2bjNONU13LTdyLVRrVHFzMF9KV25OZ0p6ZlFfaHE0ZXltS2Y0Um9vM21sUUlKbTh0N282ckRuRUd2Wm5QY3k5SXA1U19Cc2k4ZTVzaGpkWEwzdXNneXFKZkZjTHhPRXAtQ1RWa21jbHlIZmlwcHRnNEJnWE00RXhCb1ZScDhxQzBwSHdZUGlneHhqbnFha3lrakRFV1NF?oc=5
 
-- Bangladesh election results: What BNP’s win means for India - Times of India
-  Bangladesh election results: What BNP
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFl1c09hNUg4YXc2azcwSFFPR0dKOTcyYUdsdzBIcnlId0NLSmN6MUJBUW9GMnhQZVFxTURjWFpGTV9LZVBjODVibGVpNk5Lc2Jlb2RMcEl4TUszMWhtUUJ3TVFIeGdzUy1XMV82S2NkbW9yVEltNUNlcjlkZmJ6TzFIdWdrZGxWR3N2bW9EaE8wOGRYYmVvMUV0SGR1emVGT0RoMG44engxSEZvTEpDVzhMenBtQ095aUxVa2VHS09XSU3SAcgBQVVfeXFMTnFZYVIwYXdKUFJSUHpURGRIRkplLXJfNlV0Sy1fVTRaQ0xPOUV3aVdZUEFVM3hmejlXeEFxbHNaN01raHM2UTdqcmx0eEs1REl1bXVEQUlRd1J2YlVucHh1UzdLTktJSGdoems0cXo4TmVrZDNBejlEYnozbmozZkg4cU1VV1dMVDlSUmoxcndQby1NTzRmM2tDUWN5VG9SX1dHaC1velgwWmlCcnFCWHZrVTFDaHQtVEthQXhYN2pXOFk2VHN0SXQ?oc=5
+- 'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi At ET Summit - Times of India
+  'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWFJlZzFSLXVRbGRLVEpiSzFpTmt5VnZ6bUlYTDBQT08wV2lIUDR0TV8xMlFYbXpQRlcyM0VCbVRVS1B2c1c5TmRacGIyTVJkaTJWWENoN3dXU2xxTUF3SEEzb3JwZkJ5a2x5S09lNVV1dlpvUnNISlFHU0dSbVd5dlBvODVTYkd5NHRyZzZqeE95MHgxWllnNmJ5LXhBemstazVJVHVSOHhGRGJCMFJFWWVlbzMxai1WSE1fX2huRFhycjhUaG04R0xPMGRpRFhiZUU2UXljVURJX1ZIYXpuLWhvc3pyN185aVZYMUFteTJsUS1lVHpSbVpB0gH_AUFVX3lxTE5oSm94bkVHMUdiUHFtRHZ4bGZubGdJTlBxNEk5RkhzSmx1QUFOWVEzU2JOU3BwNHVvX1JvWEV5a05Qc3Z4c1lhRFZMSDZQMWlBRW1fZDNHdVFzUGE5RFpUZ3k3SF84SW5XdXZ4Q2tKR3VES2x2Z2lfYjIxYUF2MHJTa1RXQnNBc293dEhyTENMT0VHaEs4SmMxVTJIZ2hQNE1Wc1paR2hCSzdIcDUxdmxQZFg3b0huQW50QlJaR3hraVk5SUc2UXh1RGlBV25KN2FZVzE0VmNfeFJNQnN4azBOU0hZaWs2dzFuRGYxYml2TmRTWm5tVnhQdngzQUxyVQ?oc=5
 
-- 'Bangladesh First': Tarique Rahman's Reply To Query On Ties With India - NDTV
-  'Bangladesh First': Tarique Rahman
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
+- PM On How India Settled Recent Trade Deals, Then A Jab At Congress-Led UPA - NDTV
+  PM On How India Settled Recent Trade Deals, Then A
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVkyN2JqUERwUUFHYUx1TUlydzV0djlqVTdRWkdJMU5wTmpjMWhKT3lFZS1qeXZwVmRyS1hyUnZzWEpjTGNiaTVlZWsxN1NYV0Y1cGxQV29RZWJZLThmVkFKUFMyWWFwbWxSWjRlb21GSHFUbUtGTWJVQXVIdUJDWklWNXhHeU9oOG9tcUtIZnY0M2F6ZDlpa3NFRzRPX3UzNFkxR2ZPT1BmZ2c4Q3AtQlE3OTM1VFZWZEdWM0FTWmh6YTk2a3JXTkVR0gHSAUFVX3lxTE9mVmdjR0xiaTh6WlhMZTRzbTdtQXZDaVZYVmV5WWlBUDJYM3ZqRGRDZVVCQ3NoZnlHVXlLdkZVN2hKRXJjMVRMUVYxWUYxVlFleHV5ZWZBR01lbHA4eE5MQWdlQWkwNkgxYWRTLURtODdELXRuMl95YXJKZ1prOXVQa2tOSFRUdk9yMThJQVczQWFYUmJ3emJ5MDVObGNpeHZMN1JBMnFDaU1QcUExZFJ0U1hHMFcwTkl4cmcxbXNrV1pSTmtBQWN2eklUcm0xbmdYdw?oc=5
 
-- 'Want Ties With India Based On Mutual Respect': Tarique Rahman's Top Aide To NDTV - NDTV
-  'Want Ties With India Based On Mutual Respect': Tar
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQMldGLUszWl9QSFlWTTJLZWw5QXpOUXJiLUJvMDN4b2xxZnVObjB1WktmN3l3QUpLSUtSQWpEUzQwZnlOdndGTGF3T1lNMVBoYUJkOUNkRlZTT3d4ZGxablJvQnNub2NrY3RYMlFrOVZIOHdxd0RBUGZHWTJySkljQzlPblRWNlZvR2k2YnpRclpiRFh1RVk5NDladm5wSzdjMDhaN1EyU1ZzZlRQZlZLQ3RB0gG6AUFVX3lxTE9ZLXdsSTk0cVRYbU5ORWFpOU5zdl9GY3VkN0hjdGVIYjJDYnR0MXRnQ3BqVmNQQkE2ZGgxQklPb19fN0RFN2E3NF9EcE1fOF9BM2pGbzMzUWNuQnNNbHllcXFxS1F5VzFQVThBX1Q3MUU3T202Y18xVUc4R2RIeWw3STJVUU02TDZkZHllSUhlaGF4NTQxWUw2clVKQXV3azFYTk9jZGNpSkJQUkF5RzZIRUxDaklHVlBTUQ?oc=5
+- Stalin urges PM Modi to give legal status to Lankan Tamils in India | India News - Hindustan Times
+  Stalin urges PM Modi to give legal status to Lankan Tamils in
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQUzB6UExBUk1yeXc4WWdwZTkxRnlsVlVaNExGUmJqWXNhOWt2Mk9YSXhKZEdxbEhJYmozcGdOZG1pZ2RscGJ2RC1yelBOSHdPdjNWVjNRZEZSTlJIekpIeGZ3dUh6MW83UV93UExYbnl6UHpuZmJaM29ETHh2Nk84cVdvUFpmeFRGOXFHYWRlSVYwVndVcXk5QkhScG9pUUVUNDl5UnhwaXluUUJWSnA3UVRDXzM0QTBJMFluUTJuN0FtcWNyWFFGV2Vn0gHPAUFVX3lxTE92cnIyTWEyeFdsdEpobGVEQldqMC0tT1Z4RTFSYUtNU0cxMmczX2lJWjVUWWdfSkdOY2FCWlJZY1dZbF9hWElkS1UybFpWYlczRlgxa3RzZWVaSGh6MFFVWWR3OFBmYm1uLTlETlBCLUI5ZEpDY0RDSzZJdlZnV05iSk9GRlF1MDV0Nmp5dUoxaThWYnhvNVVnbDdNMVR4TWpUREg0YXd3MzRKZFlvd0J6R2pEblVkQUlaczdpcVFOSWZFNlRtN2VVR09PY1ZSdw?oc=5
 
 - How a '7-hour sleepless' train ride in India became memorable experience for Canadian tourists | India News - Hindustan Times
   .com: How a '7-hour sleepless' train ride
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeW5FLVNiakpSYW9iWi1vandlc2g4MFNsVGlGQlRXcEhjNmtfNmFzZmN3ZEZfVGVNaVMzMk9vMjRIX09qOVgtaUlqdFB1Z3ZMRFZrcTRaSVRjN3U3T0EwM2xxRGZ6STdqWkI3LU15ZHJOc2NTeG00T2pyMHZNSTk4YXVqVWtyV1NWWDhvVlhiTzBUYWZkMFY5YlNTd2t2c3hfbV9oMlIxcmtDVG1MMUl1akJWSzFrZERjZU9IVHo0TEN2aHlPamxpU2oxS2FOYUpRa2hNcXN4N0NKWTRFX1U5emwxTzJoR2xPRm5FLUJsNkVWTVU5LURSYzNSaHFvd9IBgwJBVV95cUxPdG5NSnBHUHJ5aXowdDY1VWhDaVd4cG5QbmZSZlE5S1RPcmt2QWJBOGZrdXFWcUgtVXVOZGd6RGVkUzdOdHFWUEhicGhJakRUT2hiaWl0NGpnT0k2WlZDS0I0eUUyTHpKNkU1RXpQYllJR1pHRUNJcmt5b1ZzeFZieEN0SGpaaWZPQW04MmNDYV9wMnp1YWZmNzdtdGdab2xqQ3RvSkdZTG9hd0FTdk5jaTZrdnRLeDNYODZFNG1nWmxIRkhGdW5CM1RnU2sxY2JMVGZIVXBmaGxrM2t2WjRqUWdNczVsS3BjRUlhTUwtcFU3M0tiZ2dQXzdoeFhJM0pXU1Nr?oc=5
 
-- Witnessing betrayal of Indian farmers in name of US trade deal: Rahul Gandhi - BusinessLine
-  The Indian government has agreed to a deal with the United
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQmJBN015OFZfM2Qzb0xPeXpQanRoT0xLYjhTYms1Z1RpR3dBcldWRGVSblF0aVM1ZVZ5eHhRZkVSQ0ZmVzVlalNOX3NMN1p4QnFLWHF0QkFwc29KSWZJSGQtdjhiUmZKREk4OHprNjRjU2RCMFJwZGR1MWtDRkpJVl92SlJaS1lid0lWUVI1TnV6dHV4UkIzdngtTGdFbGoyQjN5QWUxeFc5cnlsdE1ya0NOZC0wRHpacU5xVGQzR0ZrYXNOa0lFeEFOWkxVRUZ3TE1B0gHaAUFVX3lxTE9ZaTBJZGNCa01PYlBmd2pKbndqM1d6SU1OTkpkY0VEN1FuVXNxUWJ1cGZJTGpHR1dBVWJPVms1UlBQSWcxWTdGOXFuX3VmRHpwTHVGX1BIOTMteVhleFZlSk5yYmVkUEpjNHA5R1Jra3B1Zk9BeXQ2Wm5FMTZtb2NVektzVFBtNk9UYTRXSFlPdnRzUUdFZzhWWEJjcGx3Y2h6SVRUOWp2RDFBUHVZMHJRalVxSHVwUFlMemNyYjB4NUwxUVM3a0tYUmdSalRVal9GX1VpN0FDelZR?oc=5
+- Special prayers held at Mahakaleshwar Temple for Team India - Times of India
+  Special prayers held at Mahakaleshwar
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2FleEdaTFhWNE0tMzBNamRBMkFsN3ZZS3BfN2M1WWlrTDBCVEk0d1F1WGdmYjA1aU5KRlFoSGVoMmJoYTN5dnRGcE9MX1M0Ri1WM0tfcy1xUDBTSUpVOXRRd1loVmxJV3RqczkyRGVKRk5UZXgzOElYUWFROXREMFVHVGFTNEdSNF9UNXBUZENjeUlzbUNQMDhXaWJ2VzlpZXd6b3A2azhyR3pZMHBHLU4tU2lETWtfWE5zSF9tMUEwd1Z3bFd0NENMX0hHZ9IB0wFBVV95cUxQWFNGTHhCOVdfbERMeFFsVlg4WGpmSzJ1dlRPUndmZWZMcTM4a191X2J0cmtRUTFkWFF5Vkt2bjNONU13LTdyLVRrVHFzMF9KV25OZ0p6ZlFfaHE0ZXltS2Y0Um9vM21sUUlKbTh0N282ckRuRUd2Wm5QY3k5SXA1U19Cc2k4ZTVzaGpkWEwzdXNneXFKZkZjTHhPRXAtQ1RWa21jbHlIZmlwcHRnNEJnWE00RXhCb1ZScDhxQzBwSHdZUGlneHhqbnFha3lrakRFV1NF?oc=5
+
+- 'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi At ET Summit - Times of India
+  'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWFJlZzFSLXVRbGRLVEpiSzFpTmt5VnZ6bUlYTDBQT08wV2lIUDR0TV8xMlFYbXpQRlcyM0VCbVRVS1B2c1c5TmRacGIyTVJkaTJWWENoN3dXU2xxTUF3SEEzb3JwZkJ5a2x5S09lNVV1dlpvUnNISlFHU0dSbVd5dlBvODVTYkd5NHRyZzZqeE95MHgxWllnNmJ5LXhBemstazVJVHVSOHhGRGJCMFJFWWVlbzMxai1WSE1fX2huRFhycjhUaG04R0xPMGRpRFhiZUU2UXljVURJX1ZIYXpuLWhvc3pyN185aVZYMUFteTJsUS1lVHpSbVpB0gH_AUFVX3lxTE5oSm94bkVHMUdiUHFtRHZ4bGZubGdJTlBxNEk5RkhzSmx1QUFOWVEzU2JOU3BwNHVvX1JvWEV5a05Qc3Z4c1lhRFZMSDZQMWlBRW1fZDNHdVFzUGE5RFpUZ3k3SF84SW5XdXZ4Q2tKR3VES2x2Z2lfYjIxYUF2MHJTa1RXQnNBc293dEhyTENMT0VHaEs4SmMxVTJIZ2hQNE1Wc1paR2hCSzdIcDUxdmxQZFg3b0huQW50QlJaR3hraVk5SUc2UXh1RGlBV25KN2FZVzE0VmNfeFJNQnN4azBOU0hZaWs2dzFuRGYxYml2TmRTWm5tVnhQdngzQUxyVQ?oc=5
+
+- PM On How India Settled Recent Trade Deals, Then A Jab At Congress-Led UPA - NDTV
+  PM On How India Settled Recent Trade Deals, Then A
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVkyN2JqUERwUUFHYUx1TUlydzV0djlqVTdRWkdJMU5wTmpjMWhKT3lFZS1qeXZwVmRyS1hyUnZzWEpjTGNiaTVlZWsxN1NYV0Y1cGxQV29RZWJZLThmVkFKUFMyWWFwbWxSWjRlb21GSHFUbUtGTWJVQXVIdUJDWklWNXhHeU9oOG9tcUtIZnY0M2F6ZDlpa3NFRzRPX3UzNFkxR2ZPT1BmZ2c4Q3AtQlE3OTM1VFZWZEdWM0FTWmh6YTk2a3JXTkVR0gHSAUFVX3lxTE9mVmdjR0xiaTh6WlhMZTRzbTdtQXZDaVZYVmV5WWlBUDJYM3ZqRGRDZVVCQ3NoZnlHVXlLdkZVN2hKRXJjMVRMUVYxWUYxVlFleHV5ZWZBR01lbHA4eE5MQWdlQWkwNkgxYWRTLURtODdELXRuMl95YXJKZ1prOXVQa2tOSFRUdk9yMThJQVczQWFYUmJ3emJ5MDVObGNpeHZMN1JBMnFDaU1QcUExZFJ0U1hHMFcwTkl4cmcxbXNrV1pSTmtBQWN2eklUcm0xbmdYdw?oc=5
+
+- Stalin urges PM Modi to give legal status to Lankan Tamils in India | India News - Hindustan Times
+  Stalin urges PM Modi to give legal status to Lankan Tamils in
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQUzB6UExBUk1yeXc4WWdwZTkxRnlsVlVaNExGUmJqWXNhOWt2Mk9YSXhKZEdxbEhJYmozcGdOZG1pZ2RscGJ2RC1yelBOSHdPdjNWVjNRZEZSTlJIekpIeGZ3dUh6MW83UV93UExYbnl6UHpuZmJaM29ETHh2Nk84cVdvUFpmeFRGOXFHYWRlSVYwVndVcXk5QkhScG9pUUVUNDl5UnhwaXluUUJWSnA3UVRDXzM0QTBJMFluUTJuN0FtcWNyWFFGV2Vn0gHPAUFVX3lxTE92cnIyTWEyeFdsdEpobGVEQldqMC0tT1Z4RTFSYUtNU0cxMmczX2lJWjVUWWdfSkdOY2FCWlJZY1dZbF9hWElkS1UybFpWYlczRlgxa3RzZWVaSGh6MFFVWWR3OFBmYm1uLTlETlBCLUI5ZEpDY0RDSzZJdlZnV05iSk9GRlF1MDV0Nmp5dUoxaThWYnhvNVVnbDdNMVR4TWpUREg0YXd3MzRKZFlvd0J6R2pEblVkQUlaczdpcVFOSWZFNlRtN2VVR09PY1ZSdw?oc=5
+
+- How a '7-hour sleepless' train ride in India became memorable experience for Canadian tourists | India News - Hindustan Times
+  .com: How a '7-hour sleepless' train ride
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeW5FLVNiakpSYW9iWi1vandlc2g4MFNsVGlGQlRXcEhjNmtfNmFzZmN3ZEZfVGVNaVMzMk9vMjRIX09qOVgtaUlqdFB1Z3ZMRFZrcTRaSVRjN3U3T0EwM2xxRGZ6STdqWkI3LU15ZHJOc2NTeG00T2pyMHZNSTk4YXVqVWtyV1NWWDhvVlhiTzBUYWZkMFY5YlNTd2t2c3hfbV9oMlIxcmtDVG1MMUl1akJWSzFrZERjZU9IVHo0TEN2aHlPamxpU2oxS2FOYUpRa2hNcXN4N0NKWTRFX1U5emwxTzJoR2xPRm5FLUJsNkVWTVU5LURSYzNSaHFvd9IBgwJBVV95cUxPdG5NSnBHUHJ5aXowdDY1VWhDaVd4cG5QbmZSZlE5S1RPcmt2QWJBOGZrdXFWcUgtVXVOZGd6RGVkUzdOdHFWUEhicGhJakRUT2hiaWl0NGpnT0k2WlZDS0I0eUUyTHpKNkU1RXpQYllJR1pHRUNJcmt5b1ZzeFZieEN0SGpaaWZPQW04MmNDYV9wMnp1YWZmNzdtdGdab2xqQ3RvSkdZTG9hd0FTdk5jaTZrdnRLeDNYODZFNG1nWmxIRkhGdW5CM1RnU2sxY2JMVGZIVXBmaGxrM2t2WjRqUWdNczVsS3BjRUlhTUwtcFU3M0tiZ2dQXzdoeFhJM0pXU1Nr?oc=5
+
+- Special prayers held at Mahakaleshwar Temple for Team India - Times of India
+  Special prayers held at Mahakaleshwar
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2FleEdaTFhWNE0tMzBNamRBMkFsN3ZZS3BfN2M1WWlrTDBCVEk0d1F1WGdmYjA1aU5KRlFoSGVoMmJoYTN5dnRGcE9MX1M0Ri1WM0tfcy1xUDBTSUpVOXRRd1loVmxJV3RqczkyRGVKRk5UZXgzOElYUWFROXREMFVHVGFTNEdSNF9UNXBUZENjeUlzbUNQMDhXaWJ2VzlpZXd6b3A2azhyR3pZMHBHLU4tU2lETWtfWE5zSF9tMUEwd1Z3bFd0NENMX0hHZ9IB0wFBVV95cUxQWFNGTHhCOVdfbERMeFFsVlg4WGpmSzJ1dlRPUndmZWZMcTM4a191X2J0cmtRUTFkWFF5Vkt2bjNONU13LTdyLVRrVHFzMF9KV25OZ0p6ZlFfaHE0ZXltS2Y0Um9vM21sUUlKbTh0N282ckRuRUd2Wm5QY3k5SXA1U19Cc2k4ZTVzaGpkWEwzdXNneXFKZkZjTHhPRXAtQ1RWa21jbHlIZmlwcHRnNEJnWE00RXhCb1ZScDhxQzBwSHdZUGlneHhqbnFha3lrakRFV1NF?oc=5
+
+- 'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi At ET Summit - Times of India
+  'New World Order Emerging, India Ready To Lead As Global Growth Engine', Says PM Modi
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWFJlZzFSLXVRbGRLVEpiSzFpTmt5VnZ6bUlYTDBQT08wV2lIUDR0TV8xMlFYbXpQRlcyM0VCbVRVS1B2c1c5TmRacGIyTVJkaTJWWENoN3dXU2xxTUF3SEEzb3JwZkJ5a2x5S09lNVV1dlpvUnNISlFHU0dSbVd5dlBvODVTYkd5NHRyZzZqeE95MHgxWllnNmJ5LXhBemstazVJVHVSOHhGRGJCMFJFWWVlbzMxai1WSE1fX2huRFhycjhUaG04R0xPMGRpRFhiZUU2UXljVURJX1ZIYXpuLWhvc3pyN185aVZYMUFteTJsUS1lVHpSbVpB0gH_AUFVX3lxTE5oSm94bkVHMUdiUHFtRHZ4bGZubGdJTlBxNEk5RkhzSmx1QUFOWVEzU2JOU3BwNHVvX1JvWEV5a05Qc3Z4c1lhRFZMSDZQMWlBRW1fZDNHdVFzUGE5RFpUZ3k3SF84SW5XdXZ4Q2tKR3VES2x2Z2lfYjIxYUF2MHJTa1RXQnNBc293dEhyTENMT0VHaEs4SmMxVTJIZ2hQNE1Wc1paR2hCSzdIcDUxdmxQZFg3b0huQW50QlJaR3hraVk5SUc2UXh1RGlBV25KN2FZVzE0VmNfeFJNQnN4azBOU0hZaWs2dzFuRGYxYml2TmRTWm5tVnhQdngzQUxyVQ?oc=5
+
+- PM On How India Settled Recent Trade Deals, Then A Jab At Congress-Led UPA - NDTV
+  PM On How India Settled Recent Trade Deals, Then A
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVkyN2JqUERwUUFHYUx1TUlydzV0djlqVTdRWkdJMU5wTmpjMWhKT3lFZS1qeXZwVmRyS1hyUnZzWEpjTGNiaTVlZWsxN1NYV0Y1cGxQV29RZWJZLThmVkFKUFMyWWFwbWxSWjRlb21GSHFUbUtGTWJVQXVIdUJDWklWNXhHeU9oOG9tcUtIZnY0M2F6ZDlpa3NFRzRPX3UzNFkxR2ZPT1BmZ2c4Q3AtQlE3OTM1VFZWZEdWM0FTWmh6YTk2a3JXTkVR0gHSAUFVX3lxTE9mVmdjR0xiaTh6WlhMZTRzbTdtQXZDaVZYVmV5WWlBUDJYM3ZqRGRDZVVCQ3NoZnlHVXlLdkZVN2hKRXJjMVRMUVYxWUYxVlFleHV5ZWZBR01lbHA4eE5MQWdlQWkwNkgxYWRTLURtODdELXRuMl95YXJKZ1prOXVQa2tOSFRUdk9yMThJQVczQWFYUmJ3emJ5MDVObGNpeHZMN1JBMnFDaU1QcUExZFJ0U1hHMFcwTkl4cmcxbXNrV1pSTmtBQWN2eklUcm0xbmdYdw?oc=5
+
+- Stalin urges PM Modi to give legal status to Lankan Tamils in India | India News - Hindustan Times
+  Stalin urges PM Modi to give legal status to Lankan Tamils in
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQUzB6UExBUk1yeXc4WWdwZTkxRnlsVlVaNExGUmJqWXNhOWt2Mk9YSXhKZEdxbEhJYmozcGdOZG1pZ2RscGJ2RC1yelBOSHdPdjNWVjNRZEZSTlJIekpIeGZ3dUh6MW83UV93UExYbnl6UHpuZmJaM29ETHh2Nk84cVdvUFpmeFRGOXFHYWRlSVYwVndVcXk5QkhScG9pUUVUNDl5UnhwaXluUUJWSnA3UVRDXzM0QTBJMFluUTJuN0FtcWNyWFFGV2Vn0gHPAUFVX3lxTE92cnIyTWEyeFdsdEpobGVEQldqMC0tT1Z4RTFSYUtNU0cxMmczX2lJWjVUWWdfSkdOY2FCWlJZY1dZbF9hWElkS1UybFpWYlczRlgxa3RzZWVaSGh6MFFVWWR3OFBmYm1uLTlETlBCLUI5ZEpDY0RDSzZJdlZnV05iSk9GRlF1MDV0Nmp5dUoxaThWYnhvNVVnbDdNMVR4TWpUREg0YXd3MzRKZFlvd0J6R2pEblVkQUlaczdpcVFOSWZFNlRtN2VVR09PY1ZSdw?oc=5
+
+- How a '7-hour sleepless' train ride in India became memorable experience for Canadian tourists | India News - Hindustan Times
+  .com: How a '7-hour sleepless' train ride
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeW5FLVNiakpSYW9iWi1vandlc2g4MFNsVGlGQlRXcEhjNmtfNmFzZmN3ZEZfVGVNaVMzMk9vMjRIX09qOVgtaUlqdFB1Z3ZMRFZrcTRaSVRjN3U3T0EwM2xxRGZ6STdqWkI3LU15ZHJOc2NTeG00T2pyMHZNSTk4YXVqVWtyV1NWWDhvVlhiTzBUYWZkMFY5YlNTd2t2c3hfbV9oMlIxcmtDVG1MMUl1akJWSzFrZERjZU9IVHo0TEN2aHlPamxpU2oxS2FOYUpRa2hNcXN4N0NKWTRFX1U5emwxTzJoR2xPRm5FLUJsNkVWTVU5LURSYzNSaHFvd9IBgwJBVV95cUxPdG5NSnBHUHJ5aXowdDY1VWhDaVd4cG5QbmZSZlE5S1RPcmt2QWJBOGZrdXFWcUgtVXVOZGd6RGVkUzdOdHFWUEhicGhJakRUT2hiaWl0NGpnT0k2WlZDS0I0eUUyTHpKNkU1RXpQYllJR1pHRUNJcmt5b1ZzeFZieEN0SGpaaWZPQW04MmNDYV9wMnp1YWZmNzdtdGdab2xqQ3RvSkdZTG9hd0FTdk5jaTZrdnRLeDNYODZFNG1nWmxIRkhGdW5CM1RnU2sxY2JMVGZIVXBmaGxrM2t2WjRqUWdNczVsS3BjRUlhTUwtcFU3M0tiZ2dQXzdoeFhJM0pXU1Nr?oc=5
+
+- Special prayers held at Mahakaleshwar Temple for Team India - Times of India
+  Special prayers held at Mahakaleshwar
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2FleEdaTFhWNE0tMzBNamRBMkFsN3ZZS3BfN2M1WWlrTDBCVEk0d1F1WGdmYjA1aU5KRlFoSGVoMmJoYTN5dnRGcE9MX1M0Ri1WM0tfcy1xUDBTSUpVOXRRd1loVmxJV3RqczkyRGVKRk5UZXgzOElYUWFROXREMFVHVGFTNEdSNF9UNXBUZENjeUlzbUNQMDhXaWJ2VzlpZXd6b3A2azhyR3pZMHBHLU4tU2lETWtfWE5zSF9tMUEwd1Z3bFd0NENMX0hHZ9IB0wFBVV95cUxQWFNGTHhCOVdfbERMeFFsVlg4WGpmSzJ1dlRPUndmZWZMcTM4a191X2J0cmtRUTFkWFF5Vkt2bjNONU13LTdyLVRrVHFzMF9KV25OZ0p6ZlFfaHE0ZXltS2Y0Um9vM21sUUlKbTh0N282ckRuRUd2Wm5QY3k5SXA1U19Cc2k4ZTVzaGpkWEwzdXNneXFKZkZjTHhPRXAtQ1RWa21jbHlIZmlwcHRnNEJnWE00RXhCb1ZScDhxQzBwSHdZUGlneHhqbnFha3lrakRFV1NF?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-15 18:33:00 UTC_
+_Last updated: 2026-02-16 01:50:56 UTC_
