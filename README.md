@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- From German Shepherds to local canines: Madhya Pradesh considers introducing Indian breeds into forest dog squads
+- From ‘Tiger School’ to tragic end: Rewilded cub N7 dies weeks after release into the wild
   
-  🔗 https://indianexpress.com/article/india/from-german-shepherds-to-local-canines-madhya-pradesh-considers-introducing-indian-breeds-into-forest-dog-squads-10535680/
+  🔗 https://indianexpress.com/article/india/from-tiger-school-to-tragic-end-rewilded-cub-n7-dies-weeks-after-release-into-the-wild-10535673/
 
-- Kova bun seller was harassed by YouTubers over ‘food jihad’ claims. Then, Andhra Deputy CM rallied behind him
+- News Today Live Updates, 17 February | Mundhwa land deal: Bombay HC issues notice, seeks Pune Police response to bail plea by Tejwani
   
-  🔗 https://indianexpress.com/article/india/kova-bun-vendor-harassed-youtubers-life-fear-food-jihad-10535672/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-02-17-2026-news-headlines-10535869/
 
-- United Goa firm on Dabolim airport’s fate: ‘Touching it will kill economy’
+- Emmanuel Macron India Visit Live Updates: French President Emmanuel Macron arrives in India, to discuss Indo-Pacific cooperation with PM Modi
   
-  🔗 https://indianexpress.com/article/india/united-goa-firm-on-dabolim-airports-fate-touching-it-will-kill-economy-10535725/
+  🔗 https://indianexpress.com/article/india/france-president-emmanuel-macron-india-visit-live-updates-ai-summit-pm-modi-meeting-10535994/
 
-- ED slaps Rs 184-cr FEMA penalty on NewsClick, editor
+- Gold Today Rate, February 17: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/ed-slaps-rs-184-cr-fema-penalty-on-newsclick-editor-10535815/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-february-17-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10536032/
 
-- Domestic newsprint production meeting only 40% of demand: INS
+- At India AI Impact Summit, media leaders stress upon structured dialogue between technology and journalism
   
-  🔗 https://indianexpress.com/article/india/domestic-newsprint-production-meeting-only-40-of-demand-ins-10535774/
+  🔗 https://indianexpress.com/article/india/artificial-intelligence-india-summit-technology-journalism-publishing-house-10535913/
+
+- Apple sets surprise March 4 event; entry-level MacBook and iPhone 17e in focus
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-surprise-march-4-event-entry-level-macbook-and-iphone-17e-in-focus-10536135/
+
+- AI Impact Summit 2026: Publishers seek fair compensation for use of news content in AI training
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-impact-summit-2026-publishers-news-content-ai-training-10535923/
+
+- India will shape global AI governance, says ElevenLabs’ head of global affairs Alex Haskell
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/india-global-ai-governance-elevenlabs-alex-haskell-10535867/
 
 - AMD, Tata Consultancy Services to bring ‘Helios’ rack-scale AI architecture in India
   
@@ -28,57 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/new-macs-ipads-and-iphone-17e-apple-plans-multiple-launches-in-coming-weeks-10535371/
 
-- Acer, ASUS suspend PC sales in Germany after Nokia patent win
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/acer-asus-suspend-pc-sales-in-germany-after-nokia-patent-win-10535248/
+- Elon Musk says he has less than 0.1% of his net worth as cash; that's still nearly $850 million!
+  Most of Musk's net worth is tied to his stakes in Tesla and SpaceX, which are largely there in form of stocks.
+  🔗 https://www.livemint.com/companies/people/elon-musk-says-he-has-less-than-0-1-percent-of-his-net-worth-as-cash-thats-still-nearly-850-million-11771306213782.html
 
-- India becomes ChatGPT’s second-biggest market with 100 million weekly users
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/india-becomes-chatgpts-second-biggest-market-with-100-million-weekly-users-10535027/
+- Goldman Sachs plans to soften diversity commitments in its board amid Trump's efforts to ban DEI: Report
+  Goldman Sachs plans to cross off the ‘other demographics’ including race
+  🔗 https://www.livemint.com/companies/news/goldman-sachs-plans-to-soften-diversity-commitments-in-its-board-amid-trumps-efforts-to-ban-dei-report-11771306031575.html
 
-- Pichai, Altman among tech CEOs attending the world’s largest AI summit in India
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/pichai-altman-among-tech-ceos-attending-the-worlds-largest-ai-summit-in-india-10534966/
+- Exponent Energy's battery data intelligence will power its new EV financing push in India
+  The tech company believes real-time energy usage and financial data can help underwrite loans more precisely, mitigating
+  🔗 https://www.livemint.com/companies/exponent-energy-exponent-one-ev-finance-subsidiary-battery-autorickshaw-loans-ev-adoption-india-11771217024436.html
+
+- Amazon layoffs: Indian-origin software developer cut after 11 years, stays positive, says ‘how you react very important’
+  Laid off from Amazon, Hemant Virmani is using the opportunity to enhance his AI skills and focus on his health. He says that
+  🔗 https://www.livemint.com/companies/news/amazon-layoffs-indian-origin-software-developer-11-years-job-cut-positive-how-you-react-important-learn-ai-skills-career-11771289995995.html
 
 - Amazon lauds new labour codes, says to scale up India e-commerce exports
   The company pledged to help create 1 million jobs in India by 2030. It welcomed the budget move to scrap the  ₹10 lakh courier export
   🔗 https://www.livemint.com/companies/news/amazon-labour-code-e-commerce-export-jobs-india-11771238390945.html
 
-- Who is Tom Pritzker? Hyatt Hotels heir steps down citing Epstein connection
-  Tom Pritzker stepped down as executive chairman of Hyatt Hotels, citing regret over his association with Jeffrey Epstein and Ghislaine Maxwell.
-  🔗 https://www.livemint.com/companies/people/who-is-tom-pritzker-hyatt-hotels-heir-steps-down-citing-epstein-connection-11771286468535.html
+- Mint Explainer: Can commercial papers rescue brokers from RBI’s latest leverage squeeze?
+  Stricter collateral rules and limits on bank funding threaten to raise leverage costs. Experts believe commercial papers could emerge as a key funding alternative.
+  🔗 https://www.livemint.com/market/stock-market-news/india-mint-explainer-brokers-commercial-paper-rbi-leverage-squeeze-stt-11771295090636.html
 
-- It's raining rewards points as e-retailers chase loyalty
-  Rise in reward-point redemption frequency suggests points are being used for regular expenses rather than saved for indulg
-  🔗 https://www.livemint.com/companies/news/eretailers-loyalty-programmes-everyday-spending-groceries-essentials-rewards-points-india-11771226239235.html
+- Small-cap IT stock Kellton Tech Solutions rises 18%. Do you own?
+  Kellton Tech Solutions shares surged 19% on February 17 after reporting strong Q3FY26 results. The company is focusing on AI-driven digital transformation and expects continued profitable growth.
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-it-stock-kellton-tech-share-price-rises-18-do-you-own-11771307032353.html
 
-- Landmark Greenwashing Case Against Gas Producer Santos Dismissed
-  Santos Ltd. was accused of misleading investors over its climate strategy. A judge dismissed a long-
-  🔗 https://www.livemint.com/companies/landmark-greenwashing-case-against-gas-producer-santos-dismissed-11771285946876.html
+- Multibagger HFCL share price jumps 5% after securing  ₹61 crore optical fibre cable order
+  HFCL's stock rose 5% to  ₹72.4 after securing orders for optical fiber cables. This follows another order win, reflecting strong order inflows
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-hfcl-share-price-jumps-5-after-securing-rs-61-crore-optical-fibre-cable-order-11771307769396.html
 
-- BHP Profit Climbs as Copper Offsets China Drag on Iron Ore
-  BHP Group’s earnings for the six months to the end of December rose by more than a fifth thanks to a surge in copper prices. plateauing demand in China
-  🔗 https://www.livemint.com/companies/bhp-profit-climbs-as-copper-offsets-china-drag-on-iron-ore-11771282405154.html
+- Nifty 50 Trading Strategy: Analysts recommend Bear Put Spread options strategy for 24 February expiry
+   Axis Securities has suggested a Bear Put Spread strategy for Nifty options contracts expiring on 24 February 2025.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-trading-strategy-analysts-recommend-bear-put-spread-options-strategy-for-24-february-expiry-11771307196375.html
 
-- Indian stock market: 10 key things that changed for market overnight - Gift Nifty, Iran-US talks to gold prices
-  Gift Nifty was trading around 25,636 level, a discount of nearly 81 points from the Nifty futures
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-10-key-things-that-changed-for-market-overnight-gift-nifty-iran-us-talks-to-gold-prices-11771258881516.html
+- Is the world entering a new order? Ray Dalio explains that we are at a stage of weakening rules, great powers clash
+  Ray Dalio, billionaire investor and founder of Bridgewater Associates, believes the world is in stage 6 of the big cycle. He says rules weaken, great powers clash, global cooperation declines, and might
+  🔗 https://www.livemint.com/market/stock-market-news/is-the-world-entering-a-new-order-ray-dalio-explains-that-we-are-at-a-stage-of-weakening-rules-great-powers-clash-11771306206602.html
 
-- Stocks to watch: Cochin Shipyard, Lupin, JSW Infra among 10 shares in focus today; full list here
-  The Indian stock market is likely to open on a subdued note on Tuesday, February 17, tracking weak
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-cochin-shipyard-lupin-jsw-infra-among-10-shares-in-focus-today-full-list-here-11771286770115.html
+- Apple's first event of 2026: iPhone 17e, colourful budget MacBook and new iPads tipped — when and where to watch
+  Apple's first launch event for the year is all set to be held on March 4, 2026, at 9am ET. Among the aniticipated announcements include a low
+  🔗 https://www.livemint.com/technology/tech-news/apple-announces-first-event-of-2026-iphone-17e-low-cost-macbook-and-more-expected-11771299359190.html
 
-- Gold, silver rates today: Gold prices slip below $5,000, silver prices fall 3% to $74/oz. Is it right time to buy?
-  Spot gold prices slipped below the $5,000 mark, fell 0.43% to $4,992 per ounce. Meanwhile, spot silver fell
-  🔗 https://www.livemint.com/market/stock-market-news/gold-silver-rates-today-gold-prices-slip-below-5-000-silver-prices-fall-3-to-74-oz-is-it-right-time-to-buy-11771288502977.html
-
-- Mint Explainer: How Sebi’s ETF proposals aim to tackle pricing lags and protect investors
-  The regulator has suggested shifting the base price calculation for ETFs from a two-day-old value to the previous day’s
-  🔗 https://www.livemint.com/market/sebi-etf-pricing-lag-investor-protection-market-volatility-changes-11771228280884.html
-
-- Stock recommendations for 17 February from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 17 February. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-17-february-top-stock-picks-marketsmith-india-11771244857423.html
+- AI Summit 2026 LIVE Updates: Over 700 sessions planned on AI safety, governance, ethics, data protection over 5 days
+  Five-day event scheduled till 20 February. With 13 country pavilions the event will see participation of Heads of states and governments.
+  🔗 https://www.livemint.com/technology/ai-summit-delhi-2026-live-updates-ai-impact-summit-day-2-bharat-mandapam-narendra-modi-delhi-expo-17-february-2026-india-11771296847222.html
 
 - Will AI eat into your jobs? The sharp divide between layoffs and evolution at India AI impact Summit
   Several experts argue that AI could drive significant benefits, such as boosting productivity. However, they also stress
@@ -92,133 +100,125 @@
   India, Britain can become world's
   🔗 https://www.livemint.com/technology/india-britain-can-become-worlds-best-places-for-ai-adoption-uk-minister-11771249170729.html
 
-- Elon Musk and Tim Cook warn of growing memory chip shortage amid AI boom. Who will bear the brunt?
-  A deepening global memory chip shortage, driven by AI data centre demand, is sending DRAM prices soaring. Tech leaders such as Elon Musk and Tim Cook warn that a deepening global
-  🔗 https://www.livemint.com/technology/artificial-intelligence-chip-shortage-semiconductor-industry-elon-musk-tim-cook-samsung-micron-11771240405329.html
+- Asia markets cautious ahead of US-Iran nuclear talks - Reuters
+  Asia markets cautious ahead of US
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxOMS0xZ0haNEhUYVBET2tzcjg0ZkVoOW1TNk9TU0hQbTdUdUZuNmR4dmZrenZYUjJrQWpJUXBWd25KVWtKQVh6Zm1IUS01UHA4LXMzcUFMUlNRSzE5LW8tVHM2a3FxYkhLWW1nM00wbTNCRGsydTg5eWp5aURvU0lXb3J2RQ?oc=5
 
-- AI Summit 2026: Vinod Khosla warns of job market shake-up, says IT and BPO roles will vanish in 5 years
-  Vinod Khosla predicts that IT services and BPOs may vanish in five years. He emphasises AI's potential to disrupt
-  🔗 https://www.livemint.com/technology/tech-news/ai-summit-2026-vinod-khosla-warns-of-job-market-shake-up-says-it-and-bpo-roles-will-vanish-in-5-years-11771236699676.html
+- Asian Stocks Set for Muted Start in Holiday Trade: Markets Wrap - Bloomberg.com
+  Asian Stocks Set for Muted Start in
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGNMd19mVHpma1pEcHRyeUw3VTdQcktsaG04RGRfSFVNUHdTV3FsajNEMUlhbHQ1VXhqOXJBNTdiOG9uS0xlS0lEYlBwZko5QXVoc1h5TDZBdXV0UnlXMXBUWXdYaXY5dDV5TWpzcVpEazZVSm5tdjBjcVNnWVFCeUNxajlGT2EyamFwd2c4bm53NHhyMV91dS1JUFRjMFdRT3BTMlNudmFFa0lRSW9NbFBoVQ?oc=5
 
-- Futures Rise After Market Holiday; Five Titans In Focus - Investor's Business Daily
-  Futures Rise After Market Holiday; Five
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1duSGh3YUJ5Zms2X0FNby1IWmM0RjRudDZ2by1oVFE5R1d0YkxqU2toNVNZREpuRnNtbWtyb01VWTJUUXFMSjdQeHh4MGNSX2REeUxLQ0ZYUUFUMVV5d3ZEdnJqcFFCQmprQy0xbzdQRi1fVGZCenpYWGpCeEZYNWdtSHdXSDc0bVVvOXlRSkRWcnB4NFhSRklzQU9xYXhQNU9weUlWc3ZmRnRU?oc=5
-
-- S&P 500 futures are little changed after back-to-back losing weeks: Live updates - CNBC
-  P 500 futures are little changed after back-to
+- S&P 500 futures are trade lower after back-to-back losing weeks: Live updates - CNBC
+  P 500 futures are trade lower after back-to
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB0SlkwNmpSdnJmcEVtQVdMN1psajlqLWNUNDRDVnlQeE1vSVMweW1rMFNnQXZYb044MnBUX1NFX045VFBtNjhPanJUNFFPM194MnFSV3RoQ0lrY0FETktZQ2tyUndBT2hpc0ZkQUVXTkZFZWx1NjVz0gF8QVVfeXFMT2wwYTR1MEg1ZXRldWNnMk9hZTZVRVRfT1lFWWVzUkI5dGVWaVFiM2hLaGxydGs0N1BaZnJWMl8xV0dDYUJFQm1iV2t6UU1Ud3pvOVlvMklEem45Vml6b0hJbVd1WmtjTU9UVGExVm1aa2c3bms0aGQ4MjBqag?oc=5
 
-- Data, earnings ahead this week; U.S.-Iran talks - what’s moving markets - Investing.com India
-  Data, earnings ahead this week; U.S
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ1RZaEJzbjZrUG4zTzREX3hzalNVY2ZEU3U0QXZJZlRYclQxODFKTk5rbENIVl8zUjF2cFFEeHdyckh1NkJZMkRqLVJ1YVlXY3dYcVR2alY3eUhEV3lIZDY1TmxZbDlscHRmWEUtZTVjZGQwUWFXMnBOQ2haT3hsN3lrTHItNDdyVEJnbURlXzhfRk03aU1PU0EwNzNjRW5oZUJlTnBIYWNaTG9TaG1xbVNmc1RPUQ?oc=5
+- Futures Fall In Dangerous Market; Five Titans In Focus - Investor's Business Daily
+  Futures Fall In Dangerous Market; Five
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1duSGh3YUJ5Zms2X0FNby1IWmM0RjRudDZ2by1oVFE5R1d0YkxqU2toNVNZREpuRnNtbWtyb01VWTJUUXFMSjdQeHh4MGNSX2REeUxLQ0ZYUUFUMVV5d3ZEdnJqcFFCQmprQy0xbzdQRi1fVGZCenpYWGpCeEZYNWdtSHdXSDc0bVVvOXlRSkRWcnB4NFhSRklzQU9xYXhQNU9weUlWc3ZmRnRU?oc=5
 
-- Kwality Wall's eyes bigger scoop of ice cream market after HUL demerger - Times of India
-  Kwality Wall's eyes bigger scoop of ice cream market
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVU5jTjVsUzRQMFJsS191cWlWR3V5RWRKZFZwVjF5UXRHSEwtZkVKUld4aUtMSTJMS0ZHRlk4S1ZmVzNjenc0bWZZTmpsY2VPb1dKU1FtenV3NmdBX3RFNGpzWnNZcERzaElkT3dac0pVT2VVeGt2b3hrVlNvaHlCeTg1cTBtN0FUcGtZWXhfQnN0RG9XNkkxT2Jid3FNM2RYUDN2SVBfY1g2WlJvbDY1LTc1djZ2VmFmeTlKalQxQXVOWHNYNURnWlVmYTZOQW8tek0xcndTQi3SAd4BQVVfeXFMTnduNElTdURQQnVFMHl0cmNCZVlscVh0VC1oaTVCZDdvUHhtWWpqenlRZGRpR1hyYm9RLW1HaXNVRVdqLWQ5U2w3TFVvR1NWQm54d1NhcTh5YlB5cm9lQUZUOTJuNERuT3Rtc0JKZU1QWGZCcHNZRFJPb09qZUZjVkU5VU13cDJ3Z1pxN29YUkhNN2dOSGNNU2VVVjdLc3N2SkMyN3lkSmR1d0pDQURidnJjLVU0WVNhV3M1OFdFeS11b3FZeTBnYkFKV2xFZFJTRXNSaDhxS0xPUjZ3VWJB?oc=5
+- Stock Market Live Updates: Sensex gains 240 pts, Nifty above 25,700; Infosys, HCL Tech, ITC top gainers - Moneycontrol
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNmdWbXNxVXBjS1JqWVYxNnZ1NU5KS2hoWjR3aXNWQ3BoWnNtSXhNdnlXaEMwT0JWZnVVUmlEelFqNU9aTmZJVXVWM0o1dFN2ZXhhODBqYkx1c3JSZDRXekN0cVlMOEtZZW
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNmdWbXNxVXBjS1JqWVYxNnZ1NU5KS2hoWjR3aXNWQ3BoWnNtSXhNdnlXaEMwT0JWZnVVUmlEelFqNU9aTmZJVXVWM0o1dFN2ZXhhODBqYkx1c3JSZDRXekN0cVlMOEtZZWpfRWwwb2M1T211ckV1MzhzUUd4dm1NQ2lBMkktdFotcDlqYzhZaWx2SGRoWkhYZ2s3VFplam5xU01oNmFhNTBhNUFTakZuNHVsMHRsODd2ZlY5bEh5ekpqNUg4Y0dkTkZ6SVZQUmp4M1Y5SGg1cVgtZ2RTYUc3RGg3UDVaQ3FuY3fSAe8BQVVfeXFMTUVBdkZnd3pBOTFxWHkyUjVIYmtreDNaQVdjMURSQnhpTmY5a1I3LTkyUlNnaVd2bG14MFdhMFhmYkxaZVdSR2g3a2MyVzhmXzQyMk1VenJ0cTQ5T2dNN3haZjhGZVkyMXJmSUJOUjR2aXFWVWdHQm5abnVNUUhESlZ1VUhxYjdsZ2pKQTlsTTlhVklUVmhJcmRVWDQtNGNpcUtHMWJQeE5DRjgydE1YRk01eGlPQjlFUldSbnpwNHlnXzJ5REhQQnpSTXFucEcxSTRmcVRVRUVyTkJLcmhXTmpvT3A1XzVjcmpOeW5vWVU?oc=5
 
-- Asia markets make cautious start, oil rises on US-Iran talks - TradingView
-  Asia markets make cautious start, oil rises
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0tmSkNfaC02RDg0cmw4eVBJdHNYa0JuaVpFTXVpR3lJQmx3YTBORlhNUHNDVTBmeGt2U0dvU1ZSQ0kxeFpLNzExQkFlVzRQbHFXRFoxLUxHLXdvRFhrRmVOYWJUbHpVU3J6cFlMa2JoYlMxN0w5aEF0QmRPblBuYkd3b0pHU0ZWeGhqdVVqTl9kYld2alpad096a3VKMDhjSDd6MURjVGFjbm1wa0dZcWhfRjlHU29nT05vdzk1UDF3bjdiVmswTg?oc=5
+- Gaudium IVF and Women Health's Rs 165 cr public issue to open on Feb 20; 1st IPO in fertility care sector
+  Gaudium IVF has set its IPO price band at Rs 75-79 per share. The fertility services provider's public offering opens February 20. The funds earmarked for expanding its IVF centre network and debt repayment.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/gaudium-ivf-and-women-healths-rs-165-cr-public-issue-to-open-on-feb-20-1st-ipo-in-fertility-care-sector/articleshow/128451923.cms
 
-- Technical breakout in Blue Star suggests fresh bullish leg: Kkunal V. Parar
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/technical-breakout-in-blue-star-suggests-fresh-bullish-leg-kkunal-v-parar/videoshow/128420624.cms
+- PSU rally shows momentum, but strategic picks remain in defence and power: Dharmesh Kant
+  Public sector stocks are experiencing a surge, with defence and power sectors showing promise. Experts express caution on oil and gas due to structural headwinds and see only tactical opportunities in IT.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/psu-rally-shows-momentum-but-strategic-picks-remain-in-defence-and-power-dharmesh-kant/articleshow/128451374.cms
 
-- Market quote of the day by Sir John Templeton | “The time of maximum pessimism is the best time to buy”
-  John Templeton's advice to invest during peak pessimism remains relevant. Markets are cyclical, and rebounds often precede positive data. Disciplined analysis is crucial to distinguish true value from traps.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-sir-john-templeton-the-time-of-maximum-pessimism-is-the-best-time-to-buy/articleshow/128443988.cms
+- Bitcoin trades near $68,400, Ethereum below $2,000 as mild profit-taking follows weekend rally
+  Bitcoin trades around $68,355 after touching $70,000. Major altcoins like XRP and BNB showed gains, while Dogecoin fell.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-trades-near-68400-ethereum-below-2000-as-mild-profit-taking-follows-weekend-rally/articleshow/128450717.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  Indian benchmarks ended their losing streak on Monday, driven by banking stocks. Analysts anticipate a sideways market with a slight positive bias. The Nifty's movement around 25,600 will be key for the near-term uptrend.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128443841.cms
+- Ola Electric shares plunge another 5% to hit all-time low after Citi slashes target price by 51%
+  Shares of Ola Electric Mobility hit a fresh 52-week low after Citi downgraded the stock to Sell. The brokerage flagged weak EV penetration, market-share losses and concerns over
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-shares-crash-another-5-after-citi-slashes-target-price-by-51-downgrades-to-sell/articleshow/128450752.cms
 
-- Stocks in news: Fractal Analytics, RIL, Cochin Shipyard, Trent, Britannia
-   Markets saw volatility but recovered modestly on Monday, with analysts maintaining a cautious outlook. Several stocks like Fractal Analytics, RIL, and Cochin Shipyard are in focus due to significant news.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-fractal-analytics-ril-cochin-shipyard-trent-britannia/articleshow/128443764.cms
+- Clean Max Enviro Energy Solutions IPO: Price band fixed at Rs 1,000–Rs 1,053; all you need to know
+  CleanMax Enviro Energy Solutions is set to launch its Rs 3,100 crore IPO. The subscription period will be from February 23 to February 25. The company plans to raise funds for growth and debt repayment.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/clean-max-enviro-energy-solutions-ipo-price-band-fixed-at-rs-1000rs-1053-all-you-need-to-know/articleshow/128450644.cms
 
-- Global Market Today: Asian stocks edge higher in thin holiday trading
-  Asian stocks saw modest gains with light trading volumes. Crude oil prices rose amid heightened geopolitical risk. Iran conducted naval exercises near a key shipping corridor.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-edge-higher-in-thin-holiday-trading/articleshow/128443673.cms
+- In farewell note, Muhammad Yunus leaves message on India's '7 sisters' for new Bangladesh govt | India News - Hindustan Times
+  Muhammad Yunus leaves message on India's '7 sisters' for new Bangladesh go
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNS2ZNRk80TnJ5a0NmdFJOSE5yWTZndmZrN3lUN3FuU0U5N090SG8wVlZBVmVXMkhUVGoyNG4xR2xCd1IwZ3NFTFhPcUVvR0hrcFYxWTJWN0VLdDBYeHFLbHpTNnhGQVY5cTd5dEpYUjNDcFdTbWUycW83YlJaeGozTWZkWW1rLTMxaldnbnNZU2JTMDNBN1o3bnI0UFgyMWlIWGpYel9kWlUycEdIZVp6TWJGeEZsVVB4OUZzV09Qb0ZOdnRfQXVGamxfbUdnMkpMTG5PdGhVR01kNnVfU3ozaGFOZS14bXliaU5vaFJlbXVSYjhXTU1MX2NUd0_SAYICQVVfeXFMUEItNGV4SHota2xESDJsa2VxSFJTRkZ6Z0ZHVGl5M1RSNjkxdFVGaU1pZk5sdm9mMTRzZjIwVlMzM0pkUjRHNWdXLVJuaURoUXkxVm9NUVhEakFFYVd4aFRUbHNnMGgxWm5uRFBtemNzbjgzWU41NGJNOFJWWGNhZ2I0Zkt3N0t2OHpOek9lNXB4ZGxxTnVCWjlWbHprS3lUQkVmU2prY0o4REhORURoa0pJdjZsdGtTTWtNclJrcHhZSlJfdzRKbjFQZ2NfMWNiRWZ0cldSSHFBTk5IYVlqNzh3cjBxM29kOUtBa1VtaW5nZ3JoWk5pYlBRS1cyU29LaENB?oc=5
 
-- School assembly news headlines, February 16: Top India, world, sports, business news - India Today
-  School assembly news headlines, February 16: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVklBWGtwOUdxejVtclN5dmhqQWpDVmJFOC1CWU5nUjhEWU1jaXFSbTdCQzJJeXFtUG9nSWdOcVl1MWhxWFI1VWlKMlIzaFJ4TGViVTRYMDdHRmZlQ0hHOS00Z05DY054TWRiX3dLZzYtdGtkNjZ2OWFnbmJYWk1DX040U2JOMkJlUUdmeE1WNGVHTmgtT2dtaGNqQWFXZ3k4b3VQS25DRF9yM3BJQVF1ejJpNHdfc1hIT1NJT01YMGtPRjB3ZFJaVDdfWW4xMDF5a2dNYVFfRnUxYklORjc2NDhfYUJCZ9IB6wFBVV95cUxPenBqUzBlTFYzMFVhQklrOFh4ZFBXSUc1bnV0ODhqc1VCTlVyNkR4dndpRGlXc3ZWUDA0OUZhZHB3Y3FCRXNBUmFsbUtBVEJFN0xOVk5CS0NHZTVodnROZlFnRUNkVWlXOURLVXVnRF9WVXBIa21RbWhZN21QeHh2aVBCOHgxWnhKTFJOa0JYN0puQ1l6VVFfWE10ZV9hT0o3THgtSmxuOE8xSFJpMi1ERFA0Y0lHeVIyTzJzcnE0TDExSzcyYjRqODA3SWhKaWxoWU43U3R1SFdSNFY2MXlvT3VxVnZIaTEtTmRz?oc=5
+- Under Fire At Home, Muhammad Yunus Brings Up China, India's '7 Sisters' In Exit Speech - NDTV
+  " target="_blank">Under Fire At Home, Muhammad
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTktMjJzZkowOGQtVm1mZ0UwaWZ5LTZWVmF6R1dWTU1pdlp5ZEVxZnZ4NmZpVFhDd1p4S051Yl90YXFWdk9ncWZIdGNCbnM4T2R4X0gwNkFpS3l1bTJiYmJ1eHNvRzh1Qk0xUHdKdUQ5TTRaeV9ORUszbU5lU2I0cFVnV1B4cTNJZERqd09Wcy11cEtjeUYtQTRicVQ2a1FPa1cxRlNYSnRab3Iwd2lqNjhtblpaWVlXTU9mbFFWNVEtck5YUE95M3NLTlFOdTQtTmxZ0gHbAUFVX3lxTE9jSEE0dFR1TV9MUFRPbzQ0Mkw1emo2aUQtLXhfN0xkQ18wLWJKWmN5VE50eERHdHBGenNCNVlyYUgyM1pubGpTbDBKS0pTQllvSGR1NzVhVzZmUW5zZGNkN0RuRGYxcjJ3ZjhXeGREOEpxTnJzc3QxT3lab29laEd5VEExUHA4dVlydDUyVm9lLXRPS2NNdFpsd0NIWUFvYjJObFNNUl9PZFlWM29lMUFQYjlrRG5faHVNdEFsakxzRGp1WFdkbDBlWEpoR3d2cTk0MS05SEkxaWsycw?oc=5
 
-- US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific commander | India News - Hindustan Times
-  US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOGZYVUVmbFI2eGFUa0J0c0pyTHA4eU1LRE5VLUdlSE1FQ3EwZUduNEZnVHYzeU81VkxQam5KUzJCS3RnZ2VERkh6eVpZZ3BZc1laY1Y5QkhEM0FmRVRNbEtnR1NJTGlvV282dzZCTHVCWlRPMy1YR2FpWUxPRG5DT2Q3Y2l0Y3Fsd19FQWY2YklxTkpqSFMyc1Z2MGNrT1VUejhJVE5TRkljZjBybm13SFFsQjYzOEUxM2lFY3dOdTRJQ2xVaW9qdW4yS3JBaGR4cGlYdE9zVFRiVjRjaU5wcXhiM2lvYUptQ2fSAe8BQVVfeXFMUExONlVyNVc3el9kcXQtTmxLM2tHbVJoWm1yM0FUWG5Cay1OZUs4N2hBVENHU2hOX0lycFZYZ3k2UDVOZnJsWTh2MThrZDVNcy1iZnR0dlkwWUxjYjlLb2VyWGxpSVo3WlVnQlNnZUc1Rk9ubmhWUV80dmVNRVhfOGs2Qk9ETnYyOUEwVlB6dldpQzlsd0VOUWFER2xORXFKWVZKLTYwQzJ1T2ozU1Nfd1lBRlBIdEJDSDZFdE5MeW1xRW1md2RTaldGeEwtbmFKZ2dEd3pkc3V6VVhfdlFUa1FlcmcyRWpuelg1dm41bVE?oc=5
+- Yunus aides looking for a safe exit from Bangladesh? Here's the truth - India Today
+  Yunus aides looking for a safe exit from Bangladesh
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNDFvbElCOEZ6UlUyQ1ktdDhDVng2RjRJT1JITW82QXFScC16SHVMQ0QtMC03aURnZFJCWGhkcXh4aVpwZS1ob3pZWkt5cjB1QnZkTmlpQ1VLanZhVzRrUGEzTC1aTzAyR2I3UENTWU5sLV9Ua3RHRWJXTmh2Wl9kTmhCaERmYVNnaEU1REtwQXB2X0h0X1NQVlM1R0ZSN0RZZzVDV1p2WXlRdklfcURTYWFHSUltNEhCck9hVVZ6dUZBSkVrdDN5QUJoVU5GLUlHUm9GR0NMS3B5dW1saWtuLS10LV9HMDRKcmZz0gHwAUFVX3lxTFAtb3ZRN1hMc0lzMjBCbjRXbTAxQkdubXRBZWczLW9BdFNsdWQ5NXlzWlJWX05ZUmJsNHkyT1kyY1FDT1F1RFpPVWN6alJuUGE0a3JqS2ZKdXNHM3VneHJpdmYyclBpeGFPclVDLWE4Uk8zbkRLTExjR0RKX2JHQXVhcDdOYTJHaUdaRW51SElnZ29WejJscHR3alVEWm1seGt5aGJFMjhpa1d4Rjl1LWhrVVE3NkdISzlreWV3LXVLSExtekQwSTNYYnlrMFJ4M1JTTDlNSEplOExmYzJBWjdfNTQ0SzlrbGVmcWYxQktPUQ?oc=5
 
-- Indo-US Defence Ties Continues To Grow Stronger: US Ambassador Sergio Gor - NDTV
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDdKQ1ZhblpHaEo0eUU5YUlpTkE1TUx4MnllZVNKNFg3dWZiNk1DTkNPcHZ3TkR5akF5N1JmMlhKaERQM1hDcDE3TjVpN003cEg0QnFGSlRSWk9XcnQ1eVhvUElFaWt2Y2YtM0hnUWhsanE4cVBoVlFXN2tackx3WTJjaHgwY2hUWUt4bE83UlNlc2lkSk4xOThjQzhBUkVldDI2MmE4WHhfYmFDZmdMempfMNIBuwFBVV95cUxOYkpqdF9QdmFlYlE4Vkp3WG9COC02VEpDa25Qb3VTb3ozek81OTRUQnRhaGVJZF9wVGp4Z1QxOUxXNE9rSE9ZTTAxMHV6dHhrdlFnaDNWeXZ0LURkRU9OUHBPM3BqOXR2a2owLS01QUdFMVIzSFVVR2ZkRm9PMlhjQmNHQkw1d0RDc3Z4a05Od3NISTJCUW13TDFNSkJKUEJnNmNGSnRqYVpMcTBzajF5SDdPVkFIMUF6bzh3?oc=5
+- AI Impact Summit 2026 Live Updates: PM Modi Inaugurates Mega Summit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVp6RGY5N05VSFpOME9XckNYaVlnUENEdlV5SUZ6OUtFLVBaanVzNzd2aVpPMnM3ZWRlZkwzcGtydjJtS2pwSVplNzFkdTlsSVZRaXVnV0dPcDBOM3NoTEZyYTI5QmN5dH
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVp6RGY5N05VSFpOME9XckNYaVlnUENEdlV5SUZ6OUtFLVBaanVzNzd2aVpPMnM3ZWRlZkwzcGtydjJtS2pwSVplNzFkdTlsSVZRaXVnV0dPcDBOM3NoTEZyYTI5QmN5dHk4TVl4QUR2VG5SYnBVeWJ3WVRyOUFRaDFHb3dkSTd6WmRxQlJ6aWxYQkJVR3pIVEhvZC1tbWZHSHV4RWRsbDJneEY2eUU1ZFRqVHhHekloUjFWcEhFTVpqa1JmMy1Gd1VDMkgxUWVsaUotTXdYOHA2SlpBanluZTNnSms5M3pZU3ZJVVlycGXSAfgBQVVfeXFMTnRDODdQNzdTUUcwblBBekxjLVhUdFJ5RlFadFpvT05PMGxnQnBVYXpHbGpDc0hqRlY4UHJCTEZfUlRoTENUcHE2S2FYUV9mRUNoY0lLakdnS1JsLVBKZUN0b2hwc3h3X21tSUVGTVA4Z0pPRS1Eck9SY0c4aGdjRmtXa2piTGxuZTdnbW94elRtRGZybUVqMmFuTG9VWEZCNjRVNTFjak5iVEFIYjRlRnNNeVpsSzZYWkhVd1lYVTZQSmNZbVlHenlvOVUxNUI5bDB0SGVhLXRUNGFPZEU2YnFOWFNBVkRxUnhlMko3N0FVN0w0WWl1TWk?oc=5
 
-- 'Key To A Safe Indo-Pacific': Ambassador Sergio Gor Says India-US Defence Ties Growing Stronger - News18
-  'Key To A Safe Indo-Pacific': Ambassador Sergio Gor
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0Zaei1CR1pfdlUwQlBUU0tpRlkyQ0FyZUo1TF9pWUZ0OUVOZWtLc3NiWjhYTFgtaVM5MXp6eTE5d3dVa09udE9EQld1cHNLSGE4aWNXRjVoTnpLYm1oTGJGV2lucVdCU2JWbU1IZ1VaX2pydVowRWFLVGJUQjJpNjdmZkhRTVhvYkQ1TzBYY3ZSQVd5MnRfYWdCMTdLX3RWdHNxa3BtMWFpYk1mY3FKeE9zdHVrTEZvcDNKcG9ZZ2pFTXo3SVhzSzg3ZlJTSVVFRXhPWEhR0gHbAUFVX3lxTE9wLWNNd2tZOGIzUHRydFdjOGlHNWZzMXhRU291aURKNk04dExyQmNoXzBiX1AxMWVGUGItbXNSQks2QUV5c0ZTTFpyNzdYNEVXalp6MmJfVUZjX013Y1lLUFcwaXl5OWQ3SWhxWDBwa2MyOHByZHVvd1ZVRGJfV0RNejJ6WEdkV0hyRHIyU0tGQ19xYnZnLTdfQldlSUtoSVNxWFpXRkdnYnUwc0ZfSzl2RGNlUi1oM3Z2X3V6NGRvOXg1RzZpSjRrN1NTdjlmME5UZVpJNW1wNi1qYw?oc=5
+- Anthropic opens Bengaluru office and announces new partnerships across India - Anthropic
+  Anthropic opens Bengaluru office and
+  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE0wckxXSHp1UXlwOGhNNVM5eXhzWEQyaTFMUzJZZDNPOU1fSDA2RlpzcFpEMXVXQW5kTjNGZzZOZG5ySWE0dko5X3lUVzdJems2S29BZlJrN1pwelFBVzJGWFgyWFRaYXJqTUQzUVhTaERVckZTSjBDRlhjLXNRUQ?oc=5
 
-- SC 9-judge bench to revisit definition of 'industry' - Times of India
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSVVNcmlOZmNfWF96QnZuWVgzaUZhN2dWOTF2ZmRkUWRMQTBFLTd0MVdOWnlJSm15anZHdjhLdG9mdTFLZ29La2M0Q29LeW1NNEhPOUpHdUg5M0dlVlBmSXV2am02Qi04WVZFWFVpM19kYnhLUmJ1ZWprUE5IR2c0WlZObTJLMHJteW9rcWVEMnpIMEtzUExPOVBlTkxNdEExTjZyZHdWYzNyQ1VIN1VWakNQZHcwOU410gG-AUFVX3lxTE55c2dSYlV5ZFlJMHhiTDdOQzZadTRwMXpPdy1oU3ZLVUE1MnZGckh4aHFwRE03ZTMzRzF0UU1vSXRYcnpGbkMxTnpacnFVR0ppdDh2UzZxMXlPMGh1NGl2R0VUcmpMTHdMRXl5OEk2bkZnbzBsSkFpOFphQ3dzQS1nY0k3SmdxZXlBTDh0ZWV0a2VyRG9wNkZxTDE5Q25YWlpxbnNhQ0VINTNfRzZsY19OSmY1U0VKMnlQdkozZlE?oc=5
+- In farewell note, Muhammad Yunus leaves message on India's '7 sisters' for new Bangladesh govt | India News - Hindustan Times
+  Muhammad Yunus leaves message on India's '7 sisters' for new Bangladesh go
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNS2ZNRk80TnJ5a0NmdFJOSE5yWTZndmZrN3lUN3FuU0U5N090SG8wVlZBVmVXMkhUVGoyNG4xR2xCd1IwZ3NFTFhPcUVvR0hrcFYxWTJWN0VLdDBYeHFLbHpTNnhGQVY5cTd5dEpYUjNDcFdTbWUycW83YlJaeGozTWZkWW1rLTMxaldnbnNZU2JTMDNBN1o3bnI0UFgyMWlIWGpYel9kWlUycEdIZVp6TWJGeEZsVVB4OUZzV09Qb0ZOdnRfQXVGamxfbUdnMkpMTG5PdGhVR01kNnVfU3ozaGFOZS14bXliaU5vaFJlbXVSYjhXTU1MX2NUd0_SAYICQVVfeXFMUEItNGV4SHota2xESDJsa2VxSFJTRkZ6Z0ZHVGl5M1RSNjkxdFVGaU1pZk5sdm9mMTRzZjIwVlMzM0pkUjRHNWdXLVJuaURoUXkxVm9NUVhEakFFYVd4aFRUbHNnMGgxWm5uRFBtemNzbjgzWU41NGJNOFJWWGNhZ2I0Zkt3N0t2OHpOek9lNXB4ZGxxTnVCWjlWbHprS3lUQkVmU2prY0o4REhORURoa0pJdjZsdGtTTWtNclJrcHhZSlJfdzRKbjFQZ2NfMWNiRWZ0cldSSHFBTk5IYVlqNzh3cjBxM29kOUtBa1VtaW5nZ3JoWk5pYlBRS1cyU29LaENB?oc=5
 
-- School assembly news headlines, February 16: Top India, world, sports, business news - India Today
-  School assembly news headlines, February 16: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVklBWGtwOUdxejVtclN5dmhqQWpDVmJFOC1CWU5nUjhEWU1jaXFSbTdCQzJJeXFtUG9nSWdOcVl1MWhxWFI1VWlKMlIzaFJ4TGViVTRYMDdHRmZlQ0hHOS00Z05DY054TWRiX3dLZzYtdGtkNjZ2OWFnbmJYWk1DX040U2JOMkJlUUdmeE1WNGVHTmgtT2dtaGNqQWFXZ3k4b3VQS25DRF9yM3BJQVF1ejJpNHdfc1hIT1NJT01YMGtPRjB3ZFJaVDdfWW4xMDF5a2dNYVFfRnUxYklORjc2NDhfYUJCZ9IB6wFBVV95cUxPenBqUzBlTFYzMFVhQklrOFh4ZFBXSUc1bnV0ODhqc1VCTlVyNkR4dndpRGlXc3ZWUDA0OUZhZHB3Y3FCRXNBUmFsbUtBVEJFN0xOVk5CS0NHZTVodnROZlFnRUNkVWlXOURLVXVnRF9WVXBIa21RbWhZN21QeHh2aVBCOHgxWnhKTFJOa0JYN0puQ1l6VVFfWE10ZV9hT0o3THgtSmxuOE8xSFJpMi1ERFA0Y0lHeVIyTzJzcnE0TDExSzcyYjRqODA3SWhKaWxoWU43U3R1SFdSNFY2MXlvT3VxVnZIaTEtTmRz?oc=5
+- Under Fire At Home, Muhammad Yunus Brings Up China, India's '7 Sisters' In Exit Speech - NDTV
+  " target="_blank">Under Fire At Home, Muhammad
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTktMjJzZkowOGQtVm1mZ0UwaWZ5LTZWVmF6R1dWTU1pdlp5ZEVxZnZ4NmZpVFhDd1p4S051Yl90YXFWdk9ncWZIdGNCbnM4T2R4X0gwNkFpS3l1bTJiYmJ1eHNvRzh1Qk0xUHdKdUQ5TTRaeV9ORUszbU5lU2I0cFVnV1B4cTNJZERqd09Wcy11cEtjeUYtQTRicVQ2a1FPa1cxRlNYSnRab3Iwd2lqNjhtblpaWVlXTU9mbFFWNVEtck5YUE95M3NLTlFOdTQtTmxZ0gHbAUFVX3lxTE9jSEE0dFR1TV9MUFRPbzQ0Mkw1emo2aUQtLXhfN0xkQ18wLWJKWmN5VE50eERHdHBGenNCNVlyYUgyM1pubGpTbDBKS0pTQllvSGR1NzVhVzZmUW5zZGNkN0RuRGYxcjJ3ZjhXeGREOEpxTnJzc3QxT3lab29laEd5VEExUHA4dVlydDUyVm9lLXRPS2NNdFpsd0NIWUFvYjJObFNNUl9PZFlWM29lMUFQYjlrRG5faHVNdEFsakxzRGp1WFdkbDBlWEpoR3d2cTk0MS05SEkxaWsycw?oc=5
 
-- US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific commander | India News - Hindustan Times
-  US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOGZYVUVmbFI2eGFUa0J0c0pyTHA4eU1LRE5VLUdlSE1FQ3EwZUduNEZnVHYzeU81VkxQam5KUzJCS3RnZ2VERkh6eVpZZ3BZc1laY1Y5QkhEM0FmRVRNbEtnR1NJTGlvV282dzZCTHVCWlRPMy1YR2FpWUxPRG5DT2Q3Y2l0Y3Fsd19FQWY2YklxTkpqSFMyc1Z2MGNrT1VUejhJVE5TRkljZjBybm13SFFsQjYzOEUxM2lFY3dOdTRJQ2xVaW9qdW4yS3JBaGR4cGlYdE9zVFRiVjRjaU5wcXhiM2lvYUptQ2fSAe8BQVVfeXFMUExONlVyNVc3el9kcXQtTmxLM2tHbVJoWm1yM0FUWG5Cay1OZUs4N2hBVENHU2hOX0lycFZYZ3k2UDVOZnJsWTh2MThrZDVNcy1iZnR0dlkwWUxjYjlLb2VyWGxpSVo3WlVnQlNnZUc1Rk9ubmhWUV80dmVNRVhfOGs2Qk9ETnYyOUEwVlB6dldpQzlsd0VOUWFER2xORXFKWVZKLTYwQzJ1T2ozU1Nfd1lBRlBIdEJDSDZFdE5MeW1xRW1md2RTaldGeEwtbmFKZ2dEd3pkc3V6VVhfdlFUa1FlcmcyRWpuelg1dm41bVE?oc=5
+- Yunus aides looking for a safe exit from Bangladesh? Here's the truth - India Today
+  Yunus aides looking for a safe exit from Bangladesh
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNDFvbElCOEZ6UlUyQ1ktdDhDVng2RjRJT1JITW82QXFScC16SHVMQ0QtMC03aURnZFJCWGhkcXh4aVpwZS1ob3pZWkt5cjB1QnZkTmlpQ1VLanZhVzRrUGEzTC1aTzAyR2I3UENTWU5sLV9Ua3RHRWJXTmh2Wl9kTmhCaERmYVNnaEU1REtwQXB2X0h0X1NQVlM1R0ZSN0RZZzVDV1p2WXlRdklfcURTYWFHSUltNEhCck9hVVZ6dUZBSkVrdDN5QUJoVU5GLUlHUm9GR0NMS3B5dW1saWtuLS10LV9HMDRKcmZz0gHwAUFVX3lxTFAtb3ZRN1hMc0lzMjBCbjRXbTAxQkdubXRBZWczLW9BdFNsdWQ5NXlzWlJWX05ZUmJsNHkyT1kyY1FDT1F1RFpPVWN6alJuUGE0a3JqS2ZKdXNHM3VneHJpdmYyclBpeGFPclVDLWE4Uk8zbkRLTExjR0RKX2JHQXVhcDdOYTJHaUdaRW51SElnZ29WejJscHR3alVEWm1seGt5aGJFMjhpa1d4Rjl1LWhrVVE3NkdISzlreWV3LXVLSExtekQwSTNYYnlrMFJ4M1JTTDlNSEplOExmYzJBWjdfNTQ0SzlrbGVmcWYxQktPUQ?oc=5
 
-- Indo-US Defence Ties Continues To Grow Stronger: US Ambassador Sergio Gor - NDTV
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDdKQ1ZhblpHaEo0eUU5YUlpTkE1TUx4MnllZVNKNFg3dWZiNk1DTkNPcHZ3TkR5akF5N1JmMlhKaERQM1hDcDE3TjVpN003cEg0QnFGSlRSWk9XcnQ1eVhvUElFaWt2Y2YtM0hnUWhsanE4cVBoVlFXN2tackx3WTJjaHgwY2hUWUt4bE83UlNlc2lkSk4xOThjQzhBUkVldDI2MmE4WHhfYmFDZmdMempfMNIBuwFBVV95cUxOYkpqdF9QdmFlYlE4Vkp3WG9COC02VEpDa25Qb3VTb3ozek81OTRUQnRhaGVJZF9wVGp4Z1QxOUxXNE9rSE9ZTTAxMHV6dHhrdlFnaDNWeXZ0LURkRU9OUHBPM3BqOXR2a2owLS01QUdFMVIzSFVVR2ZkRm9PMlhjQmNHQkw1d0RDc3Z4a05Od3NISTJCUW13TDFNSkJKUEJnNmNGSnRqYVpMcTBzajF5SDdPVkFIMUF6bzh3?oc=5
+- AI Impact Summit 2026 Live Updates: PM Modi Inaugurates Mega Summit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVp6RGY5N05VSFpOME9XckNYaVlnUENEdlV5SUZ6OUtFLVBaanVzNzd2aVpPMnM3ZWRlZkwzcGtydjJtS2pwSVplNzFkdTlsSVZRaXVnV0dPcDBOM3NoTEZyYTI5QmN5dH
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVp6RGY5N05VSFpOME9XckNYaVlnUENEdlV5SUZ6OUtFLVBaanVzNzd2aVpPMnM3ZWRlZkwzcGtydjJtS2pwSVplNzFkdTlsSVZRaXVnV0dPcDBOM3NoTEZyYTI5QmN5dHk4TVl4QUR2VG5SYnBVeWJ3WVRyOUFRaDFHb3dkSTd6WmRxQlJ6aWxYQkJVR3pIVEhvZC1tbWZHSHV4RWRsbDJneEY2eUU1ZFRqVHhHekloUjFWcEhFTVpqa1JmMy1Gd1VDMkgxUWVsaUotTXdYOHA2SlpBanluZTNnSms5M3pZU3ZJVVlycGXSAfgBQVVfeXFMTnRDODdQNzdTUUcwblBBekxjLVhUdFJ5RlFadFpvT05PMGxnQnBVYXpHbGpDc0hqRlY4UHJCTEZfUlRoTENUcHE2S2FYUV9mRUNoY0lLakdnS1JsLVBKZUN0b2hwc3h3X21tSUVGTVA4Z0pPRS1Eck9SY0c4aGdjRmtXa2piTGxuZTdnbW94elRtRGZybUVqMmFuTG9VWEZCNjRVNTFjak5iVEFIYjRlRnNNeVpsSzZYWkhVd1lYVTZQSmNZbVlHenlvOVUxNUI5bDB0SGVhLXRUNGFPZEU2YnFOWFNBVkRxUnhlMko3N0FVN0w0WWl1TWk?oc=5
 
-- 'Key To A Safe Indo-Pacific': Ambassador Sergio Gor Says India-US Defence Ties Growing Stronger - News18
-  'Key To A Safe Indo-Pacific': Ambassador Sergio Gor
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0Zaei1CR1pfdlUwQlBUU0tpRlkyQ0FyZUo1TF9pWUZ0OUVOZWtLc3NiWjhYTFgtaVM5MXp6eTE5d3dVa09udE9EQld1cHNLSGE4aWNXRjVoTnpLYm1oTGJGV2lucVdCU2JWbU1IZ1VaX2pydVowRWFLVGJUQjJpNjdmZkhRTVhvYkQ1TzBYY3ZSQVd5MnRfYWdCMTdLX3RWdHNxa3BtMWFpYk1mY3FKeE9zdHVrTEZvcDNKcG9ZZ2pFTXo3SVhzSzg3ZlJTSVVFRXhPWEhR0gHbAUFVX3lxTE9wLWNNd2tZOGIzUHRydFdjOGlHNWZzMXhRU291aURKNk04dExyQmNoXzBiX1AxMWVGUGItbXNSQks2QUV5c0ZTTFpyNzdYNEVXalp6MmJfVUZjX013Y1lLUFcwaXl5OWQ3SWhxWDBwa2MyOHByZHVvd1ZVRGJfV0RNejJ6WEdkV0hyRHIyU0tGQ19xYnZnLTdfQldlSUtoSVNxWFpXRkdnYnUwc0ZfSzl2RGNlUi1oM3Z2X3V6NGRvOXg1RzZpSjRrN1NTdjlmME5UZVpJNW1wNi1qYw?oc=5
+- Anthropic opens Bengaluru office and announces new partnerships across India - Anthropic
+  Anthropic opens Bengaluru office and
+  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE0wckxXSHp1UXlwOGhNNVM5eXhzWEQyaTFMUzJZZDNPOU1fSDA2RlpzcFpEMXVXQW5kTjNGZzZOZG5ySWE0dko5X3lUVzdJems2S29BZlJrN1pwelFBVzJGWFgyWFRaYXJqTUQzUVhTaERVckZTSjBDRlhjLXNRUQ?oc=5
 
-- SC 9-judge bench to revisit definition of 'industry' - Times of India
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSVVNcmlOZmNfWF96QnZuWVgzaUZhN2dWOTF2ZmRkUWRMQTBFLTd0MVdOWnlJSm15anZHdjhLdG9mdTFLZ29La2M0Q29LeW1NNEhPOUpHdUg5M0dlVlBmSXV2am02Qi04WVZFWFVpM19kYnhLUmJ1ZWprUE5IR2c0WlZObTJLMHJteW9rcWVEMnpIMEtzUExPOVBlTkxNdEExTjZyZHdWYzNyQ1VIN1VWakNQZHcwOU410gG-AUFVX3lxTE55c2dSYlV5ZFlJMHhiTDdOQzZadTRwMXpPdy1oU3ZLVUE1MnZGckh4aHFwRE03ZTMzRzF0UU1vSXRYcnpGbkMxTnpacnFVR0ppdDh2UzZxMXlPMGh1NGl2R0VUcmpMTHdMRXl5OEk2bkZnbzBsSkFpOFphQ3dzQS1nY0k3SmdxZXlBTDh0ZWV0a2VyRG9wNkZxTDE5Q25YWlpxbnNhQ0VINTNfRzZsY19OSmY1U0VKMnlQdkozZlE?oc=5
+- In farewell note, Muhammad Yunus leaves message on India's '7 sisters' for new Bangladesh govt | India News - Hindustan Times
+  Muhammad Yunus leaves message on India's '7 sisters' for new Bangladesh go
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNS2ZNRk80TnJ5a0NmdFJOSE5yWTZndmZrN3lUN3FuU0U5N090SG8wVlZBVmVXMkhUVGoyNG4xR2xCd1IwZ3NFTFhPcUVvR0hrcFYxWTJWN0VLdDBYeHFLbHpTNnhGQVY5cTd5dEpYUjNDcFdTbWUycW83YlJaeGozTWZkWW1rLTMxaldnbnNZU2JTMDNBN1o3bnI0UFgyMWlIWGpYel9kWlUycEdIZVp6TWJGeEZsVVB4OUZzV09Qb0ZOdnRfQXVGamxfbUdnMkpMTG5PdGhVR01kNnVfU3ozaGFOZS14bXliaU5vaFJlbXVSYjhXTU1MX2NUd0_SAYICQVVfeXFMUEItNGV4SHota2xESDJsa2VxSFJTRkZ6Z0ZHVGl5M1RSNjkxdFVGaU1pZk5sdm9mMTRzZjIwVlMzM0pkUjRHNWdXLVJuaURoUXkxVm9NUVhEakFFYVd4aFRUbHNnMGgxWm5uRFBtemNzbjgzWU41NGJNOFJWWGNhZ2I0Zkt3N0t2OHpOek9lNXB4ZGxxTnVCWjlWbHprS3lUQkVmU2prY0o4REhORURoa0pJdjZsdGtTTWtNclJrcHhZSlJfdzRKbjFQZ2NfMWNiRWZ0cldSSHFBTk5IYVlqNzh3cjBxM29kOUtBa1VtaW5nZ3JoWk5pYlBRS1cyU29LaENB?oc=5
 
-- School assembly news headlines, February 16: Top India, world, sports, business news - India Today
-  School assembly news headlines, February 16: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVklBWGtwOUdxejVtclN5dmhqQWpDVmJFOC1CWU5nUjhEWU1jaXFSbTdCQzJJeXFtUG9nSWdOcVl1MWhxWFI1VWlKMlIzaFJ4TGViVTRYMDdHRmZlQ0hHOS00Z05DY054TWRiX3dLZzYtdGtkNjZ2OWFnbmJYWk1DX040U2JOMkJlUUdmeE1WNGVHTmgtT2dtaGNqQWFXZ3k4b3VQS25DRF9yM3BJQVF1ejJpNHdfc1hIT1NJT01YMGtPRjB3ZFJaVDdfWW4xMDF5a2dNYVFfRnUxYklORjc2NDhfYUJCZ9IB6wFBVV95cUxPenBqUzBlTFYzMFVhQklrOFh4ZFBXSUc1bnV0ODhqc1VCTlVyNkR4dndpRGlXc3ZWUDA0OUZhZHB3Y3FCRXNBUmFsbUtBVEJFN0xOVk5CS0NHZTVodnROZlFnRUNkVWlXOURLVXVnRF9WVXBIa21RbWhZN21QeHh2aVBCOHgxWnhKTFJOa0JYN0puQ1l6VVFfWE10ZV9hT0o3THgtSmxuOE8xSFJpMi1ERFA0Y0lHeVIyTzJzcnE0TDExSzcyYjRqODA3SWhKaWxoWU43U3R1SFdSNFY2MXlvT3VxVnZIaTEtTmRz?oc=5
+- Under Fire At Home, Muhammad Yunus Brings Up China, India's '7 Sisters' In Exit Speech - NDTV
+  " target="_blank">Under Fire At Home, Muhammad
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTktMjJzZkowOGQtVm1mZ0UwaWZ5LTZWVmF6R1dWTU1pdlp5ZEVxZnZ4NmZpVFhDd1p4S051Yl90YXFWdk9ncWZIdGNCbnM4T2R4X0gwNkFpS3l1bTJiYmJ1eHNvRzh1Qk0xUHdKdUQ5TTRaeV9ORUszbU5lU2I0cFVnV1B4cTNJZERqd09Wcy11cEtjeUYtQTRicVQ2a1FPa1cxRlNYSnRab3Iwd2lqNjhtblpaWVlXTU9mbFFWNVEtck5YUE95M3NLTlFOdTQtTmxZ0gHbAUFVX3lxTE9jSEE0dFR1TV9MUFRPbzQ0Mkw1emo2aUQtLXhfN0xkQ18wLWJKWmN5VE50eERHdHBGenNCNVlyYUgyM1pubGpTbDBKS0pTQllvSGR1NzVhVzZmUW5zZGNkN0RuRGYxcjJ3ZjhXeGREOEpxTnJzc3QxT3lab29laEd5VEExUHA4dVlydDUyVm9lLXRPS2NNdFpsd0NIWUFvYjJObFNNUl9PZFlWM29lMUFQYjlrRG5faHVNdEFsakxzRGp1WFdkbDBlWEpoR3d2cTk0MS05SEkxaWsycw?oc=5
 
-- US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific commander | India News - Hindustan Times
-  US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOGZYVUVmbFI2eGFUa0J0c0pyTHA4eU1LRE5VLUdlSE1FQ3EwZUduNEZnVHYzeU81VkxQam5KUzJCS3RnZ2VERkh6eVpZZ3BZc1laY1Y5QkhEM0FmRVRNbEtnR1NJTGlvV282dzZCTHVCWlRPMy1YR2FpWUxPRG5DT2Q3Y2l0Y3Fsd19FQWY2YklxTkpqSFMyc1Z2MGNrT1VUejhJVE5TRkljZjBybm13SFFsQjYzOEUxM2lFY3dOdTRJQ2xVaW9qdW4yS3JBaGR4cGlYdE9zVFRiVjRjaU5wcXhiM2lvYUptQ2fSAe8BQVVfeXFMUExONlVyNVc3el9kcXQtTmxLM2tHbVJoWm1yM0FUWG5Cay1OZUs4N2hBVENHU2hOX0lycFZYZ3k2UDVOZnJsWTh2MThrZDVNcy1iZnR0dlkwWUxjYjlLb2VyWGxpSVo3WlVnQlNnZUc1Rk9ubmhWUV80dmVNRVhfOGs2Qk9ETnYyOUEwVlB6dldpQzlsd0VOUWFER2xORXFKWVZKLTYwQzJ1T2ozU1Nfd1lBRlBIdEJDSDZFdE5MeW1xRW1md2RTaldGeEwtbmFKZ2dEd3pkc3V6VVhfdlFUa1FlcmcyRWpuelg1dm41bVE?oc=5
+- Yunus aides looking for a safe exit from Bangladesh? Here's the truth - India Today
+  Yunus aides looking for a safe exit from Bangladesh
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNDFvbElCOEZ6UlUyQ1ktdDhDVng2RjRJT1JITW82QXFScC16SHVMQ0QtMC03aURnZFJCWGhkcXh4aVpwZS1ob3pZWkt5cjB1QnZkTmlpQ1VLanZhVzRrUGEzTC1aTzAyR2I3UENTWU5sLV9Ua3RHRWJXTmh2Wl9kTmhCaERmYVNnaEU1REtwQXB2X0h0X1NQVlM1R0ZSN0RZZzVDV1p2WXlRdklfcURTYWFHSUltNEhCck9hVVZ6dUZBSkVrdDN5QUJoVU5GLUlHUm9GR0NMS3B5dW1saWtuLS10LV9HMDRKcmZz0gHwAUFVX3lxTFAtb3ZRN1hMc0lzMjBCbjRXbTAxQkdubXRBZWczLW9BdFNsdWQ5NXlzWlJWX05ZUmJsNHkyT1kyY1FDT1F1RFpPVWN6alJuUGE0a3JqS2ZKdXNHM3VneHJpdmYyclBpeGFPclVDLWE4Uk8zbkRLTExjR0RKX2JHQXVhcDdOYTJHaUdaRW51SElnZ29WejJscHR3alVEWm1seGt5aGJFMjhpa1d4Rjl1LWhrVVE3NkdISzlreWV3LXVLSExtekQwSTNYYnlrMFJ4M1JTTDlNSEplOExmYzJBWjdfNTQ0SzlrbGVmcWYxQktPUQ?oc=5
 
-- Indo-US Defence Ties Continues To Grow Stronger: US Ambassador Sergio Gor - NDTV
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDdKQ1ZhblpHaEo0eUU5YUlpTkE1TUx4MnllZVNKNFg3dWZiNk1DTkNPcHZ3TkR5akF5N1JmMlhKaERQM1hDcDE3TjVpN003cEg0QnFGSlRSWk9XcnQ1eVhvUElFaWt2Y2YtM0hnUWhsanE4cVBoVlFXN2tackx3WTJjaHgwY2hUWUt4bE83UlNlc2lkSk4xOThjQzhBUkVldDI2MmE4WHhfYmFDZmdMempfMNIBuwFBVV95cUxOYkpqdF9QdmFlYlE4Vkp3WG9COC02VEpDa25Qb3VTb3ozek81OTRUQnRhaGVJZF9wVGp4Z1QxOUxXNE9rSE9ZTTAxMHV6dHhrdlFnaDNWeXZ0LURkRU9OUHBPM3BqOXR2a2owLS01QUdFMVIzSFVVR2ZkRm9PMlhjQmNHQkw1d0RDc3Z4a05Od3NISTJCUW13TDFNSkJKUEJnNmNGSnRqYVpMcTBzajF5SDdPVkFIMUF6bzh3?oc=5
+- AI Impact Summit 2026 Live Updates: PM Modi Inaugurates Mega Summit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVp6RGY5N05VSFpOME9XckNYaVlnUENEdlV5SUZ6OUtFLVBaanVzNzd2aVpPMnM3ZWRlZkwzcGtydjJtS2pwSVplNzFkdTlsSVZRaXVnV0dPcDBOM3NoTEZyYTI5QmN5dH
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVp6RGY5N05VSFpOME9XckNYaVlnUENEdlV5SUZ6OUtFLVBaanVzNzd2aVpPMnM3ZWRlZkwzcGtydjJtS2pwSVplNzFkdTlsSVZRaXVnV0dPcDBOM3NoTEZyYTI5QmN5dHk4TVl4QUR2VG5SYnBVeWJ3WVRyOUFRaDFHb3dkSTd6WmRxQlJ6aWxYQkJVR3pIVEhvZC1tbWZHSHV4RWRsbDJneEY2eUU1ZFRqVHhHekloUjFWcEhFTVpqa1JmMy1Gd1VDMkgxUWVsaUotTXdYOHA2SlpBanluZTNnSms5M3pZU3ZJVVlycGXSAfgBQVVfeXFMTnRDODdQNzdTUUcwblBBekxjLVhUdFJ5RlFadFpvT05PMGxnQnBVYXpHbGpDc0hqRlY4UHJCTEZfUlRoTENUcHE2S2FYUV9mRUNoY0lLakdnS1JsLVBKZUN0b2hwc3h3X21tSUVGTVA4Z0pPRS1Eck9SY0c4aGdjRmtXa2piTGxuZTdnbW94elRtRGZybUVqMmFuTG9VWEZCNjRVNTFjak5iVEFIYjRlRnNNeVpsSzZYWkhVd1lYVTZQSmNZbVlHenlvOVUxNUI5bDB0SGVhLXRUNGFPZEU2YnFOWFNBVkRxUnhlMko3N0FVN0w0WWl1TWk?oc=5
 
-- 'Key To A Safe Indo-Pacific': Ambassador Sergio Gor Says India-US Defence Ties Growing Stronger - News18
-  'Key To A Safe Indo-Pacific': Ambassador Sergio Gor
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0Zaei1CR1pfdlUwQlBUU0tpRlkyQ0FyZUo1TF9pWUZ0OUVOZWtLc3NiWjhYTFgtaVM5MXp6eTE5d3dVa09udE9EQld1cHNLSGE4aWNXRjVoTnpLYm1oTGJGV2lucVdCU2JWbU1IZ1VaX2pydVowRWFLVGJUQjJpNjdmZkhRTVhvYkQ1TzBYY3ZSQVd5MnRfYWdCMTdLX3RWdHNxa3BtMWFpYk1mY3FKeE9zdHVrTEZvcDNKcG9ZZ2pFTXo3SVhzSzg3ZlJTSVVFRXhPWEhR0gHbAUFVX3lxTE9wLWNNd2tZOGIzUHRydFdjOGlHNWZzMXhRU291aURKNk04dExyQmNoXzBiX1AxMWVGUGItbXNSQks2QUV5c0ZTTFpyNzdYNEVXalp6MmJfVUZjX013Y1lLUFcwaXl5OWQ3SWhxWDBwa2MyOHByZHVvd1ZVRGJfV0RNejJ6WEdkV0hyRHIyU0tGQ19xYnZnLTdfQldlSUtoSVNxWFpXRkdnYnUwc0ZfSzl2RGNlUi1oM3Z2X3V6NGRvOXg1RzZpSjRrN1NTdjlmME5UZVpJNW1wNi1qYw?oc=5
+- Anthropic opens Bengaluru office and announces new partnerships across India - Anthropic
+  Anthropic opens Bengaluru office and
+  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE0wckxXSHp1UXlwOGhNNVM5eXhzWEQyaTFMUzJZZDNPOU1fSDA2RlpzcFpEMXVXQW5kTjNGZzZOZG5ySWE0dko5X3lUVzdJems2S29BZlJrN1pwelFBVzJGWFgyWFRaYXJqTUQzUVhTaERVckZTSjBDRlhjLXNRUQ?oc=5
 
-- SC 9-judge bench to revisit definition of 'industry' - Times of India
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSVVNcmlOZmNfWF96QnZuWVgzaUZhN2dWOTF2ZmRkUWRMQTBFLTd0MVdOWnlJSm15anZHdjhLdG9mdTFLZ29La2M0Q29LeW1NNEhPOUpHdUg5M0dlVlBmSXV2am02Qi04WVZFWFVpM19kYnhLUmJ1ZWprUE5IR2c0WlZObTJLMHJteW9rcWVEMnpIMEtzUExPOVBlTkxNdEExTjZyZHdWYzNyQ1VIN1VWakNQZHcwOU410gG-AUFVX3lxTE55c2dSYlV5ZFlJMHhiTDdOQzZadTRwMXpPdy1oU3ZLVUE1MnZGckh4aHFwRE03ZTMzRzF0UU1vSXRYcnpGbkMxTnpacnFVR0ppdDh2UzZxMXlPMGh1NGl2R0VUcmpMTHdMRXl5OEk2bkZnbzBsSkFpOFphQ3dzQS1nY0k3SmdxZXlBTDh0ZWV0a2VyRG9wNkZxTDE5Q25YWlpxbnNhQ0VINTNfRzZsY19OSmY1U0VKMnlQdkozZlE?oc=5
+- In farewell note, Muhammad Yunus leaves message on India's '7 sisters' for new Bangladesh govt | India News - Hindustan Times
+  Muhammad Yunus leaves message on India's '7 sisters' for new Bangladesh go
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNS2ZNRk80TnJ5a0NmdFJOSE5yWTZndmZrN3lUN3FuU0U5N090SG8wVlZBVmVXMkhUVGoyNG4xR2xCd1IwZ3NFTFhPcUVvR0hrcFYxWTJWN0VLdDBYeHFLbHpTNnhGQVY5cTd5dEpYUjNDcFdTbWUycW83YlJaeGozTWZkWW1rLTMxaldnbnNZU2JTMDNBN1o3bnI0UFgyMWlIWGpYel9kWlUycEdIZVp6TWJGeEZsVVB4OUZzV09Qb0ZOdnRfQXVGamxfbUdnMkpMTG5PdGhVR01kNnVfU3ozaGFOZS14bXliaU5vaFJlbXVSYjhXTU1MX2NUd0_SAYICQVVfeXFMUEItNGV4SHota2xESDJsa2VxSFJTRkZ6Z0ZHVGl5M1RSNjkxdFVGaU1pZk5sdm9mMTRzZjIwVlMzM0pkUjRHNWdXLVJuaURoUXkxVm9NUVhEakFFYVd4aFRUbHNnMGgxWm5uRFBtemNzbjgzWU41NGJNOFJWWGNhZ2I0Zkt3N0t2OHpOek9lNXB4ZGxxTnVCWjlWbHprS3lUQkVmU2prY0o4REhORURoa0pJdjZsdGtTTWtNclJrcHhZSlJfdzRKbjFQZ2NfMWNiRWZ0cldSSHFBTk5IYVlqNzh3cjBxM29kOUtBa1VtaW5nZ3JoWk5pYlBRS1cyU29LaENB?oc=5
 
-- School assembly news headlines, February 16: Top India, world, sports, business news - India Today
-  School assembly news headlines, February 16: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVklBWGtwOUdxejVtclN5dmhqQWpDVmJFOC1CWU5nUjhEWU1jaXFSbTdCQzJJeXFtUG9nSWdOcVl1MWhxWFI1VWlKMlIzaFJ4TGViVTRYMDdHRmZlQ0hHOS00Z05DY054TWRiX3dLZzYtdGtkNjZ2OWFnbmJYWk1DX040U2JOMkJlUUdmeE1WNGVHTmgtT2dtaGNqQWFXZ3k4b3VQS25DRF9yM3BJQVF1ejJpNHdfc1hIT1NJT01YMGtPRjB3ZFJaVDdfWW4xMDF5a2dNYVFfRnUxYklORjc2NDhfYUJCZ9IB6wFBVV95cUxPenBqUzBlTFYzMFVhQklrOFh4ZFBXSUc1bnV0ODhqc1VCTlVyNkR4dndpRGlXc3ZWUDA0OUZhZHB3Y3FCRXNBUmFsbUtBVEJFN0xOVk5CS0NHZTVodnROZlFnRUNkVWlXOURLVXVnRF9WVXBIa21RbWhZN21QeHh2aVBCOHgxWnhKTFJOa0JYN0puQ1l6VVFfWE10ZV9hT0o3THgtSmxuOE8xSFJpMi1ERFA0Y0lHeVIyTzJzcnE0TDExSzcyYjRqODA3SWhKaWxoWU43U3R1SFdSNFY2MXlvT3VxVnZIaTEtTmRz?oc=5
+- Under Fire At Home, Muhammad Yunus Brings Up China, India's '7 Sisters' In Exit Speech - NDTV
+  " target="_blank">Under Fire At Home, Muhammad
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTktMjJzZkowOGQtVm1mZ0UwaWZ5LTZWVmF6R1dWTU1pdlp5ZEVxZnZ4NmZpVFhDd1p4S051Yl90YXFWdk9ncWZIdGNCbnM4T2R4X0gwNkFpS3l1bTJiYmJ1eHNvRzh1Qk0xUHdKdUQ5TTRaeV9ORUszbU5lU2I0cFVnV1B4cTNJZERqd09Wcy11cEtjeUYtQTRicVQ2a1FPa1cxRlNYSnRab3Iwd2lqNjhtblpaWVlXTU9mbFFWNVEtck5YUE95M3NLTlFOdTQtTmxZ0gHbAUFVX3lxTE9jSEE0dFR1TV9MUFRPbzQ0Mkw1emo2aUQtLXhfN0xkQ18wLWJKWmN5VE50eERHdHBGenNCNVlyYUgyM1pubGpTbDBKS0pTQllvSGR1NzVhVzZmUW5zZGNkN0RuRGYxcjJ3ZjhXeGREOEpxTnJzc3QxT3lab29laEd5VEExUHA4dVlydDUyVm9lLXRPS2NNdFpsd0NIWUFvYjJObFNNUl9PZFlWM29lMUFQYjlrRG5faHVNdEFsakxzRGp1WFdkbDBlWEpoR3d2cTk0MS05SEkxaWsycw?oc=5
 
-- US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific commander | India News - Hindustan Times
-  US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOGZYVUVmbFI2eGFUa0J0c0pyTHA4eU1LRE5VLUdlSE1FQ3EwZUduNEZnVHYzeU81VkxQam5KUzJCS3RnZ2VERkh6eVpZZ3BZc1laY1Y5QkhEM0FmRVRNbEtnR1NJTGlvV282dzZCTHVCWlRPMy1YR2FpWUxPRG5DT2Q3Y2l0Y3Fsd19FQWY2YklxTkpqSFMyc1Z2MGNrT1VUejhJVE5TRkljZjBybm13SFFsQjYzOEUxM2lFY3dOdTRJQ2xVaW9qdW4yS3JBaGR4cGlYdE9zVFRiVjRjaU5wcXhiM2lvYUptQ2fSAe8BQVVfeXFMUExONlVyNVc3el9kcXQtTmxLM2tHbVJoWm1yM0FUWG5Cay1OZUs4N2hBVENHU2hOX0lycFZYZ3k2UDVOZnJsWTh2MThrZDVNcy1iZnR0dlkwWUxjYjlLb2VyWGxpSVo3WlVnQlNnZUc1Rk9ubmhWUV80dmVNRVhfOGs2Qk9ETnYyOUEwVlB6dldpQzlsd0VOUWFER2xORXFKWVZKLTYwQzJ1T2ozU1Nfd1lBRlBIdEJDSDZFdE5MeW1xRW1md2RTaldGeEwtbmFKZ2dEd3pkc3V6VVhfdlFUa1FlcmcyRWpuelg1dm41bVE?oc=5
+- Yunus aides looking for a safe exit from Bangladesh? Here's the truth - India Today
+  Yunus aides looking for a safe exit from Bangladesh
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNDFvbElCOEZ6UlUyQ1ktdDhDVng2RjRJT1JITW82QXFScC16SHVMQ0QtMC03aURnZFJCWGhkcXh4aVpwZS1ob3pZWkt5cjB1QnZkTmlpQ1VLanZhVzRrUGEzTC1aTzAyR2I3UENTWU5sLV9Ua3RHRWJXTmh2Wl9kTmhCaERmYVNnaEU1REtwQXB2X0h0X1NQVlM1R0ZSN0RZZzVDV1p2WXlRdklfcURTYWFHSUltNEhCck9hVVZ6dUZBSkVrdDN5QUJoVU5GLUlHUm9GR0NMS3B5dW1saWtuLS10LV9HMDRKcmZz0gHwAUFVX3lxTFAtb3ZRN1hMc0lzMjBCbjRXbTAxQkdubXRBZWczLW9BdFNsdWQ5NXlzWlJWX05ZUmJsNHkyT1kyY1FDT1F1RFpPVWN6alJuUGE0a3JqS2ZKdXNHM3VneHJpdmYyclBpeGFPclVDLWE4Uk8zbkRLTExjR0RKX2JHQXVhcDdOYTJHaUdaRW51SElnZ29WejJscHR3alVEWm1seGt5aGJFMjhpa1d4Rjl1LWhrVVE3NkdISzlreWV3LXVLSExtekQwSTNYYnlrMFJ4M1JTTDlNSEplOExmYzJBWjdfNTQ0SzlrbGVmcWYxQktPUQ?oc=5
 
-- Indo-US Defence Ties Continues To Grow Stronger: US Ambassador Sergio Gor - NDTV
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDdKQ1ZhblpHaEo0eUU5YUlpTkE1TUx4MnllZVNKNFg3dWZiNk1DTkNPcHZ3TkR5akF5N1JmMlhKaERQM1hDcDE3TjVpN003cEg0QnFGSlRSWk9XcnQ1eVhvUElFaWt2Y2YtM0hnUWhsanE4cVBoVlFXN2tackx3WTJjaHgwY2hUWUt4bE83UlNlc2lkSk4xOThjQzhBUkVldDI2MmE4WHhfYmFDZmdMempfMNIBuwFBVV95cUxOYkpqdF9QdmFlYlE4Vkp3WG9COC02VEpDa25Qb3VTb3ozek81OTRUQnRhaGVJZF9wVGp4Z1QxOUxXNE9rSE9ZTTAxMHV6dHhrdlFnaDNWeXZ0LURkRU9OUHBPM3BqOXR2a2owLS01QUdFMVIzSFVVR2ZkRm9PMlhjQmNHQkw1d0RDc3Z4a05Od3NISTJCUW13TDFNSkJKUEJnNmNGSnRqYVpMcTBzajF5SDdPVkFIMUF6bzh3?oc=5
+- AI Impact Summit 2026 Live Updates: PM Modi Inaugurates Mega Summit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVp6RGY5N05VSFpOME9XckNYaVlnUENEdlV5SUZ6OUtFLVBaanVzNzd2aVpPMnM3ZWRlZkwzcGtydjJtS2pwSVplNzFkdTlsSVZRaXVnV0dPcDBOM3NoTEZyYTI5QmN5dH
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxObVp6RGY5N05VSFpOME9XckNYaVlnUENEdlV5SUZ6OUtFLVBaanVzNzd2aVpPMnM3ZWRlZkwzcGtydjJtS2pwSVplNzFkdTlsSVZRaXVnV0dPcDBOM3NoTEZyYTI5QmN5dHk4TVl4QUR2VG5SYnBVeWJ3WVRyOUFRaDFHb3dkSTd6WmRxQlJ6aWxYQkJVR3pIVEhvZC1tbWZHSHV4RWRsbDJneEY2eUU1ZFRqVHhHekloUjFWcEhFTVpqa1JmMy1Gd1VDMkgxUWVsaUotTXdYOHA2SlpBanluZTNnSms5M3pZU3ZJVVlycGXSAfgBQVVfeXFMTnRDODdQNzdTUUcwblBBekxjLVhUdFJ5RlFadFpvT05PMGxnQnBVYXpHbGpDc0hqRlY4UHJCTEZfUlRoTENUcHE2S2FYUV9mRUNoY0lLakdnS1JsLVBKZUN0b2hwc3h3X21tSUVGTVA4Z0pPRS1Eck9SY0c4aGdjRmtXa2piTGxuZTdnbW94elRtRGZybUVqMmFuTG9VWEZCNjRVNTFjak5iVEFIYjRlRnNNeVpsSzZYWkhVd1lYVTZQSmNZbVlHenlvOVUxNUI5bDB0SGVhLXRUNGFPZEU2YnFOWFNBVkRxUnhlMko3N0FVN0w0WWl1TWk?oc=5
 
-- 'Key To A Safe Indo-Pacific': Ambassador Sergio Gor Says India-US Defence Ties Growing Stronger - News18
-  'Key To A Safe Indo-Pacific': Ambassador Sergio Gor
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0Zaei1CR1pfdlUwQlBUU0tpRlkyQ0FyZUo1TF9pWUZ0OUVOZWtLc3NiWjhYTFgtaVM5MXp6eTE5d3dVa09udE9EQld1cHNLSGE4aWNXRjVoTnpLYm1oTGJGV2lucVdCU2JWbU1IZ1VaX2pydVowRWFLVGJUQjJpNjdmZkhRTVhvYkQ1TzBYY3ZSQVd5MnRfYWdCMTdLX3RWdHNxa3BtMWFpYk1mY3FKeE9zdHVrTEZvcDNKcG9ZZ2pFTXo3SVhzSzg3ZlJTSVVFRXhPWEhR0gHbAUFVX3lxTE9wLWNNd2tZOGIzUHRydFdjOGlHNWZzMXhRU291aURKNk04dExyQmNoXzBiX1AxMWVGUGItbXNSQks2QUV5c0ZTTFpyNzdYNEVXalp6MmJfVUZjX013Y1lLUFcwaXl5OWQ3SWhxWDBwa2MyOHByZHVvd1ZVRGJfV0RNejJ6WEdkV0hyRHIyU0tGQ19xYnZnLTdfQldlSUtoSVNxWFpXRkdnYnUwc0ZfSzl2RGNlUi1oM3Z2X3V6NGRvOXg1RzZpSjRrN1NTdjlmME5UZVpJNW1wNi1qYw?oc=5
-
-- SC 9-judge bench to revisit definition of 'industry' - Times of India
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSVVNcmlOZmNfWF96QnZuWVgzaUZhN2dWOTF2ZmRkUWRMQTBFLTd0MVdOWnlJSm15anZHdjhLdG9mdTFLZ29La2M0Q29LeW1NNEhPOUpHdUg5M0dlVlBmSXV2am02Qi04WVZFWFVpM19kYnhLUmJ1ZWprUE5IR2c0WlZObTJLMHJteW9rcWVEMnpIMEtzUExPOVBlTkxNdEExTjZyZHdWYzNyQ1VIN1VWakNQZHcwOU410gG-AUFVX3lxTE55c2dSYlV5ZFlJMHhiTDdOQzZadTRwMXpPdy1oU3ZLVUE1MnZGckh4aHFwRE03ZTMzRzF0UU1vSXRYcnpGbkMxTnpacnFVR0ppdDh2UzZxMXlPMGh1NGl2R0VUcmpMTHdMRXl5OEk2bkZnbzBsSkFpOFphQ3dzQS1nY0k3SmdxZXlBTDh0ZWV0a2VyRG9wNkZxTDE5Q25YWlpxbnNhQ0VINTNfRzZsY19OSmY1U0VKMnlQdkozZlE?oc=5
+- Anthropic opens Bengaluru office and announces new partnerships across India - Anthropic
+  Anthropic opens Bengaluru office and
+  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE0wckxXSHp1UXlwOGhNNVM5eXhzWEQyaTFMUzJZZDNPOU1fSDA2RlpzcFpEMXVXQW5kTjNGZzZOZG5ySWE0dko5X3lUVzdJems2S29BZlJrN1pwelFBVzJGWFgyWFRaYXJqTUQzUVhTaERVckZTSjBDRlhjLXNRUQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-17 01:49:08 UTC_
+_Last updated: 2026-02-17 06:57:30 UTC_
