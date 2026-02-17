@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Tripura student murder case: Prime accused ‘still in Nepal’, Dehradun police file chargesheet against 6
+- From German Shepherds to local canines: Madhya Pradesh considers introducing Indian breeds into forest dog squads
   
-  🔗 https://indianexpress.com/article/india/tripura-student-murder-prime-accused-nepal-dehradun-police-chargesheet-10535508/
+  🔗 https://indianexpress.com/article/india/from-german-shepherds-to-local-canines-madhya-pradesh-considers-introducing-indian-breeds-into-forest-dog-squads-10535680/
 
-- Terrorist posters in Kathua and new 5 km border restrictions: Why security forces are on high alert in Jammu
+- Kova bun seller was harassed by YouTubers over ‘food jihad’ claims. Then, Andhra Deputy CM rallied behind him
   
-  🔗 https://indianexpress.com/article/india/terrorist-posters-kathua-border-restrictions-security-forces-high-alert-jammu-10535483/
+  🔗 https://indianexpress.com/article/india/kova-bun-vendor-harassed-youtubers-life-fear-food-jihad-10535672/
 
-- Nitish govt transfers Rs 10,000 each to 25 lakh women; total number of beneficiaries now 1.81 crore
+- United Goa firm on Dabolim airport’s fate: ‘Touching it will kill economy’
   
-  🔗 https://indianexpress.com/article/india/nitish-govt-transfers-10000-25-lakh-women-total-beneficiaries-10535442/
+  🔗 https://indianexpress.com/article/india/united-goa-firm-on-dabolim-airports-fate-touching-it-will-kill-economy-10535725/
 
-- PM Modi likely to visit Israel on Feb 25, hold talks with Netanyahu
+- ED slaps Rs 184-cr FEMA penalty on NewsClick, editor
   
-  🔗 https://indianexpress.com/article/india/pm-modi-likely-to-visit-israel-on-feb-25-hold-talks-with-netanyahu-10535445/
+  🔗 https://indianexpress.com/article/india/ed-slaps-rs-184-cr-fema-penalty-on-newsclick-editor-10535815/
 
-- From Yousmarg to Peer Ki Gali: Shut after Pahalgam attack, 14 tourists spots in J-K reopened to public
+- Domestic newsprint production meeting only 40% of demand: INS
   
-  🔗 https://indianexpress.com/article/india/yousmarg-peer-ki-gali-shut-pahalgam-attack-14-tourists-spots-in-j-k-reopened-10535403/
+  🔗 https://indianexpress.com/article/india/domestic-newsprint-production-meeting-only-40-of-demand-ins-10535774/
 
 - AMD, Tata Consultancy Services to bring ‘Helios’ rack-scale AI architecture in India
   
@@ -40,185 +40,185 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/pichai-altman-among-tech-ceos-attending-the-worlds-largest-ai-summit-in-india-10534966/
 
-- AM/NS India targets import substitution with new value-added steel for appliances
-  The launch aligns with the company’s growing focus on value-
-  🔗 https://www.livemint.com/companies/news/amns-india-targets-import-substitution-with-new-value-added-steel-for-appliances-11771251594288.html
+- Amazon lauds new labour codes, says to scale up India e-commerce exports
+  The company pledged to help create 1 million jobs in India by 2030. It welcomed the budget move to scrap the  ₹10 lakh courier export
+  🔗 https://www.livemint.com/companies/news/amazon-labour-code-e-commerce-export-jobs-india-11771238390945.html
 
-- Netflix’s Warner Bros. deal us under fire. Why the odds are shifting in Paramount’s favor.
-  Polymarket users see this as a neck-and-neck race.
-  🔗 https://www.livemint.com/companies/netflixs-warner-bros-deal-us-under-fire-why-the-odds-are-shifting-in-paramount-s-favor-11771254030190.html
+- Who is Tom Pritzker? Hyatt Hotels heir steps down citing Epstein connection
+  Tom Pritzker stepped down as executive chairman of Hyatt Hotels, citing regret over his association with Jeffrey Epstein and Ghislaine Maxwell.
+  🔗 https://www.livemint.com/companies/people/who-is-tom-pritzker-hyatt-hotels-heir-steps-down-citing-epstein-connection-11771286468535.html
 
-- Motilal Oswal Alternates raises  ₹8,500 crore private equity fund
-  The fund witnessed strong participation from both global and domestic investors. The fund surpassed its initial target of  ₹6,500 crore
-  🔗 https://www.livemint.com/companies/news/motilal-oswal-alternates-raises-rs-8-500-crore-private-equity-fund-11771249201119.html
+- It's raining rewards points as e-retailers chase loyalty
+  Rise in reward-point redemption frequency suggests points are being used for regular expenses rather than saved for indulg
+  🔗 https://www.livemint.com/companies/news/eretailers-loyalty-programmes-everyday-spending-groceries-essentials-rewards-points-india-11771226239235.html
 
-- Slice posts first net profit, appoints founder Rajan Bajaj CEO after RBI approval
-  Slice has raised more than $250 million from investors including Tiger Global, Insight Partners and Advent International. Slice serves
-  🔗 https://www.livemint.com/companies/slice-posts-first-net-profit-appoints-founder-rajan-bajaj-ceo-after-rbi-approval-11771246279503.html
+- Landmark Greenwashing Case Against Gas Producer Santos Dismissed
+  Santos Ltd. was accused of misleading investors over its climate strategy. A judge dismissed a long-
+  🔗 https://www.livemint.com/companies/landmark-greenwashing-case-against-gas-producer-santos-dismissed-11771285946876.html
 
-- Zoho's Sridhar Vembu dismisses Microsoft AI chief's warning on white-collar roles; shares his take on job loss fears
-  Zoho co-founder Sridhar Vembu says white-collar jobs will persist. His comments contrast with Microsoft AI's CEO, who warned of
-  🔗 https://www.livemint.com/companies/people/zohos-sridhar-vembu-dismisses-microsoft-ai-chiefs-warning-on-white-collar-job-loss-shares-ai-survival-kit-11771233866282.html
+- BHP Profit Climbs as Copper Offsets China Drag on Iron Ore
+  BHP Group’s earnings for the six months to the end of December rose by more than a fifth thanks to a surge in copper prices. plateauing demand in China
+  🔗 https://www.livemint.com/companies/bhp-profit-climbs-as-copper-offsets-china-drag-on-iron-ore-11771282405154.html
 
-- Quote of the day by George Soros: ‘It's not whether you're right or wrong, but how much money you make…’
-  Success in financial markets is not about being right or wrong, but about profits earned when correct and losses faced when
-  🔗 https://www.livemint.com/market/quote-of-the-day-by-george-soros-its-not-whether-youre-right-or-wrong-but-how-much-money-you-make-11771259728101.html
+- Indian stock market: 10 key things that changed for market overnight - Gift Nifty, Iran-US talks to gold prices
+  Gift Nifty was trading around 25,636 level, a discount of nearly 81 points from the Nifty futures
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-10-key-things-that-changed-for-market-overnight-gift-nifty-iran-us-talks-to-gold-prices-11771258881516.html
 
-- Zerodha CEO Nithin Kamath explains how RBI's new lending norms for brokers impact stock market investors
-   Reserve Bank of India's new lending norms for brokers are set to impact stock market investors. Here's what you need to know about the update effective from 1 April 2026
-  🔗 https://www.livemint.com/market/stock-market-news/zerodha-ceo-nithin-kamath-explains-how-rbis-new-lending-norms-for-brokers-impact-stock-market-investors-11771254906507.html
+- Stocks to watch: Cochin Shipyard, Lupin, JSW Infra among 10 shares in focus today; full list here
+  The Indian stock market is likely to open on a subdued note on Tuesday, February 17, tracking weak
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-cochin-shipyard-lupin-jsw-infra-among-10-shares-in-focus-today-full-list-here-11771286770115.html
 
-- Gold, silver rates today: Comex gold slips $65/oz; silver down $3.40/oz on profit booking, firm US dollar
-  April gold futures dropped to $4,981, while silver fell to $74.57. Investors are awaiting key economic data for further direction.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-slips-65-oz-silver-down-3-40-oz-on-profit-booking-firm-us-dollar-11771250364814.html
+- Gold, silver rates today: Gold prices slip below $5,000, silver prices fall 3% to $74/oz. Is it right time to buy?
+  Spot gold prices slipped below the $5,000 mark, fell 0.43% to $4,992 per ounce. Meanwhile, spot silver fell
+  🔗 https://www.livemint.com/market/stock-market-news/gold-silver-rates-today-gold-prices-slip-below-5-000-silver-prices-fall-3-to-74-oz-is-it-right-time-to-buy-11771288502977.html
 
-- Q3 earnings review: Nifty 50 logs seventh straight quarter of single-digit PAT growth, shows report
-  The December quarter saw Nifty 50 companies achieve a 7% profit growth. However, the trend of single-digit PAT
-  🔗 https://www.livemint.com/market/stock-market-news/q3-earnings-review-nifty-50-logs-seventh-straight-quarter-of-single-digit-pat-growth-shows-report-11771248001129.html
+- Mint Explainer: How Sebi’s ETF proposals aim to tackle pricing lags and protect investors
+  The regulator has suggested shifting the base price calculation for ETFs from a two-day-old value to the previous day’s
+  🔗 https://www.livemint.com/market/sebi-etf-pricing-lag-investor-protection-market-volatility-changes-11771228280884.html
 
-- Want to invest  ₹1 lakh now? Experts suggest how to split it between stocks, gold and silver
-  Experts share insights on strategically allocating  ₹1 lakh across stocks, gold, and silver. Discover the recommended percentages and the rationale behind
-  🔗 https://www.livemint.com/market/stock-market-news/want-to-invest-1-lakh-now-experts-suggest-how-to-split-it-between-stocks-gold-and-silver-11771243346841.html
+- Stock recommendations for 17 February from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 17 February. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-17-february-top-stock-picks-marketsmith-india-11771244857423.html
 
-- Europe seen as key market for data sovereignty technology - Euronews.com
-  Europe seen as key market for data
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPdnQ0TG5QOUotVjh5a3BkN2kzRmhkeVhwaWNkdFh0VjhvRGlSMHZNbVVXLUZBXzZvU1EtN0VOdkNJX3lybHJKbHZsQlcxWDBSbmJ1WUU2d2g3LXRlWVFnajl5d0VCbzRjZ3N4ME1SZlpSRFhjbU9sNlktcDJZX19MU2pPaEs0LVA4UzBZUlVyYmhpWVlOaDZoUFozOVhURWs?oc=5
+- Will AI eat into your jobs? The sharp divide between layoffs and evolution at India AI impact Summit
+  Several experts argue that AI could drive significant benefits, such as boosting productivity. However, they also stress
+  🔗 https://www.livemint.com/technology/will-ai-eat-into-your-jobs-the-sharp-divide-between-layoffs-and-evolution-at-india-ai-impact-summit-11771259961977.html
 
-- Autonomous technology | Inside the driverless age - The Hindu
-  The Hindu is a leading
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXdIVjFIRWpiQlVBSmNGRjIta00wdG9JTDYxeFc4UXZUbklQSVNPemtiNGpNbExjQ2xRVmVUNFJsMURSWlVHejRsTHpjMEhWaTFoUE5FZEhSWENsNFBsdmZGS0JVeUM1QWNBS3VaOUV6dzhzVVhIbGhZVG9TNzVuVnotWHhxMmVPRE5tN1IwN3lXZlZ3akZNbGVfdVVqdWxLdnR5TnpLVDM0dnlHQXR0ckQxaGxKb3ZZYm9RbGt6bmXSAccBQVVfeXFMUG5sLXNQRFpyY0p5OTE3Zm9DT1pXSkRjZm1HQW1ZU3NValo5TWVhSzJ2UE1iUFA0eHQxWF9OZGRTQ2FOTWVXeWtwMl9xQjVwQk8yZzJVNnBDVFc1QW5FNGdyNkpJeVJGZWwzYldWN3hNbGtaQ0VHMjBEWVhUbWhQdjlTVUZoMGFEZmVWeU9ycUFQdEFDdXZta082dXNxVjJTeGZ4Tlg4SlFWSV9BVGJMcUowU2xJUnhhU1FPTWU0cW8wYnhqeVIxdw?oc=5
+- Developers key architect of AI; India stands at the centre: OpenUK CEO Brock
+  India is key architect of AI; India
+  🔗 https://www.livemint.com/technology/developers-key-architect-of-ai-india-stands-at-the-centre-openuk-ceo-brock-11771255222625.html
 
-- Bill Gates discusses technology in governance and public health in Andhra Pradesh - News On AIR
-  Bill Gates discusses technology in governance and public health in Andhra
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVIya2JIMmN0MWZDdWRKcUtjU09zcFdyd0U3emh5RW00WDE2dS1KNmgxcF95eVBlbFppWExfMjBSRGQ4QkY5ek5KRXlrQnRKTEtOMDJheVdVQ2JST3FUZVZyQzEtSXNpa0dPeW1vYUNwZ2p5Nm9Wbk96VXZlc0doUm5rME9XSzZVZVE0cERWZC1jMEdzUUI0TmMzc0Q3TC1YUTZXRkwydEFSNG4tcEVWTA?oc=5
+- India, Britain can become worlds best places for AI adoption: UK minister
+  India, Britain can become world's
+  🔗 https://www.livemint.com/technology/india-britain-can-become-worlds-best-places-for-ai-adoption-uk-minister-11771249170729.html
 
-- Findability Sciences, Nath School of Business & Technology, and Kamalnayan Bajaj Hospital sign MoU to adv - Times of India
-  Findability Sciences, Nath School of Business & Technology, and Kamalnayan
-  🔗 https://news.google.com/rss/articles/CBMiswJBVV95cUxQNWZvek45V0pRMUdJb0s2Y2NuUlI3SDNsckdGT3p6X05IMUJjang0UmpmZlZiOHVOcW5tVFFvc01ncDBURWJQcUE1d1ZoTWRvM2RJVGVmRWRpNWx3N0k5RkNHX2Uzb0JpMENvUjhtbEY4YkwwOVY3Y2c4bkpWUFRydDh6UzlBb0xSSnd4bFFzZ3JSeHNWYVJreTNJSnhkaVl6MFNXYUJQeDM3R0JkOGJQRms2dlJhVDJiSEZaaXY1YUNWUU05MkdNbERHRmwxNUJyWG1TUTRBczc1cHAxaEVDNm9aS0FVOEI4RGZocm8tUm5Eb0JXUUwtRFJVYm1oVE5mVy1wdFV2eF9hOElxc3Y4NmMwVW1CZGNWdmtjeUVzVC1CMnFTQnY3cHk3OEU2Z2R3TWww0gG4AkFVX3lxTFB0d2tHdDhXbzAzaVpYZ0owY002cDMxdDVPWlVQaklnYlBsY2dXZHJBOWpiRy1QRkoxejBEb2daNUwzdjlpdHJGNVZZcS1ORTlId1FzVGRMTUFtdzhMbi1yNmtQV3FES0hsOU0zYWlfMU9rcWtKZmp2cnBlejl5aXhlNlEtM0ttMkg4akE4OWk2cFI3dmtYOWZHUnpMbm5EaUFlQjc1VjRoSHozQ3FwcWhNNncwdXNMOGROT0xwdnZlaFFpdXhCRUx1TjlaRGNzdUVneEVsVWJ3SUx5a2ZZb21VTTZSMmNIcXBGMzJMLWwxM3h1UkNWNDh2THFhd1d2M0RYRW5hTFhPU3J1MlJjeTQyUkZyYUU0QlRPYVdKQjNfUkVxb2tYOThlYm8ybHoyQmVlSkgzeE5nRA?oc=5
+- Elon Musk and Tim Cook warn of growing memory chip shortage amid AI boom. Who will bear the brunt?
+  A deepening global memory chip shortage, driven by AI data centre demand, is sending DRAM prices soaring. Tech leaders such as Elon Musk and Tim Cook warn that a deepening global
+  🔗 https://www.livemint.com/technology/artificial-intelligence-chip-shortage-semiconductor-industry-elon-musk-tim-cook-samsung-micron-11771240405329.html
 
-- The new technology shaping the vehicles of tomorrow - BBC
-  The new technology shaping the vehicles
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPaVdBeHNWOTVmb2ZDUlk0b2pmOXU0cEVQdldIQ0g3SHFwMmtwODVjX3dtRlFnakFxWmM3cWFoa000blhabnNXUndScFMyRThsa2VxcDg3M0czZy03MmRhWlZxQ3ZhSjNlZEVWcWZMSVBnQVJjeHVaSDhBVmJDNnVyUkJXVzJpeGFyNWdKZVpOMDhxMnhub3c?oc=5
+- AI Summit 2026: Vinod Khosla warns of job market shake-up, says IT and BPO roles will vanish in 5 years
+  Vinod Khosla predicts that IT services and BPOs may vanish in five years. He emphasises AI's potential to disrupt
+  🔗 https://www.livemint.com/technology/tech-news/ai-summit-2026-vinod-khosla-warns-of-job-market-shake-up-says-it-and-bpo-roles-will-vanish-in-5-years-11771236699676.html
 
-- A Stock Market Doom Loop Is Hitting Everything That Touches AI - Bloomberg.com
-  A Stock Market Doom Loop Is Hitting Everything
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPcW9VVS1JV29FazRmcHFhdFJJWU92eE5RQmJ5YjRhQVB5bE5NTS1ZSGxWWVdreUZLaFI5bHNYNlNGMkRBZXJFS0tfZFA3c1ZvaTB2bnp1TE9vWC0xdFNpd0hOUnJURGtxMEd3eTNrSkhhRGZWMThMYlpEc2FwOVBqWk5KMEsyZC15WFY2TmJDUkMyMkRWZkd0Y3hhYmFlalhyMzA1Q25FSG52LUcxN082QnU5cw?oc=5
+- Futures Rise After Market Holiday; Five Titans In Focus - Investor's Business Daily
+  Futures Rise After Market Holiday; Five
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1duSGh3YUJ5Zms2X0FNby1IWmM0RjRudDZ2by1oVFE5R1d0YkxqU2toNVNZREpuRnNtbWtyb01VWTJUUXFMSjdQeHh4MGNSX2REeUxLQ0ZYUUFUMVV5d3ZEdnJqcFFCQmprQy0xbzdQRi1fVGZCenpYWGpCeEZYNWdtSHdXSDc0bVVvOXlRSkRWcnB4NFhSRklzQU9xYXhQNU9weUlWc3ZmRnRU?oc=5
 
-- Global week ahead: Markets brace for more AI noise and 'scare trading' - CNBC
-  The markets are bracing for more AI noise
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTZGMG16cmRaQzNLT0Z1ZktudTl2cTZYMUhVRXEweEh6MkpOQ0ZIcFQzaHFvZ2VwdUZzMzd6Mk05ZDdRLTAwVGQxU2N6a1ljWExuYVVRRm1FeGZzcTVtTW1lZEstSXJKSFpoWmI2b1EtSWtVd3dJcmZycXhrM1d1SkY2NXVJdnAtd1gyVlJtb21uekV3RGxzdWpIVHZBY0d6cUhhZzQ0ONIBrAFBVV95cUxQcHJhc25KQmwySFp2aHRGOTdqejNxY2RtTTRxcWZJekNWeW05UTZ4aFNSRGhNN21uYVFqcWFZMmJRSFdHNGNwYVJ0MG9KVDlpcmFlS1hvbElpWXBFamZqRnM3LWctYVVERFJrelRRSUIxR09OVWZCWXBWVFYyUVJXZE1PTlV1ZjBvSXBSQzBFSVgyVmxfTDBSbVJIbm9SREd4OUVLb3dFeWhpM2p3?oc=5
+- S&P 500 futures are little changed after back-to-back losing weeks: Live updates - CNBC
+  P 500 futures are little changed after back-to
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB0SlkwNmpSdnJmcEVtQVdMN1psajlqLWNUNDRDVnlQeE1vSVMweW1rMFNnQXZYb044MnBUX1NFX045VFBtNjhPanJUNFFPM194MnFSV3RoQ0lrY0FETktZQ2tyUndBT2hpc0ZkQUVXTkZFZWx1NjVz0gF8QVVfeXFMT2wwYTR1MEg1ZXRldWNnMk9hZTZVRVRfT1lFWWVzUkI5dGVWaVFiM2hLaGxydGs0N1BaZnJWMl8xV0dDYUJFQm1iV2t6UU1Ud3pvOVlvMklEem45Vml6b0hJbVd1WmtjTU9UVGExVm1aa2c3bms0aGQ4MjBqag?oc=5
 
-- Stock market volatility: Why you need a financial planner - Times of India
-  A financial planner can help you deal with stock
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMUF1bjFyQzluQVRQZUFQVXVmcWR6Snl0RFlxRkhzVmJxcUZHaVh3Q0ZEMEtZNWxPSzBvUVRjVm5UYmFuaUdmMElXV0FOMDVrTE95VzlQZl9wbFVTVHB5bkRFOEtHQkEySzRrMWFWaXJZWmFQb0N3a2M0R0lMeU5pTzFaTl9Pc2s4Z29YbmJYRUtoa3RqZkl5U1N5cThNTGl0eTJpeGU4and6LWNFM2o0S0pQUFc2SFhITkZLZjRZTXRiT01MRlpkMGcxTWdxUFlwUzhoc0FqRDhFbm1aOElMcDVlYmpjX0xnSUxjcdIB8gFBVV95cUxNREpmeGNOaW5qck43c25LWWsxZ2RJOU1SLUVvZWh1U3hvUHQ0dTFkTVpCc3E4Wk1EYV9vd2lJOGJOTU5sU2hPSnkyb1Z2djU0Sm9PSWp1YklTWUFaZmdocURES2t1SHZMTTFZYW8xRmppQk51eVk4R3RNT2xaYTRmbkhCeGFtTVoyOHBmcC1MM2xteUxEZmhrd1hkUG0wUjVmYVFwZnN6cWpROVNVMUJFMkVLakZOZWFzZ2ZUUWxXWTEtSTVOZWQ3a2RsRjI3SmRqcG11UzJsWGxvX0MxMG13VkNpV1BwWVRDWENOVUdGX2lQQQ?oc=5
+- Data, earnings ahead this week; U.S.-Iran talks - what’s moving markets - Investing.com India
+  Data, earnings ahead this week; U.S
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ1RZaEJzbjZrUG4zTzREX3hzalNVY2ZEU3U0QXZJZlRYclQxODFKTk5rbENIVl8zUjF2cFFEeHdyckh1NkJZMkRqLVJ1YVlXY3dYcVR2alY3eUhEV3lIZDY1TmxZbDlscHRmWEUtZTVjZGQwUWFXMnBOQ2haT3hsN3lrTHItNDdyVEJnbURlXzhfRk03aU1PU0EwNzNjRW5oZUJlTnBIYWNaTG9TaG1xbVNmc1RPUQ?oc=5
 
-- Bitcoin weekly RSI echoes mid-2022 bear market as BTC plays liquidity games - TradingView
-  Bitcoin weekly RSI echoes mid-2022 bear
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdnV6T1NGbDVERGhLQWx2bGtORG94V1QyekMtM19BTXFYVEFMQnNGTWJuQ2d5Tm1mMTdZRFlsdnBkVmdwQ3BQY3c1ZVRrNXlqSEo3Y0VRODlPbFZVMnBwOTRfMFhjQmRrV2dTdnlFUG9RaENaTnpycHRHTUh0d2hWaHVPYVc0dHBnenlBMGZ2bWJMb0cxdF84WGYyd1VybzFrUmJoNjNvRndpOFdrdXRfVVZKSTRNUFRPVlN2aUc0QTY0NTN2VEp4aFkySEZ5Y09JRm1yWmdB?oc=5
+- Kwality Wall's eyes bigger scoop of ice cream market after HUL demerger - Times of India
+  Kwality Wall's eyes bigger scoop of ice cream market
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVU5jTjVsUzRQMFJsS191cWlWR3V5RWRKZFZwVjF5UXRHSEwtZkVKUld4aUtMSTJMS0ZHRlk4S1ZmVzNjenc0bWZZTmpsY2VPb1dKU1FtenV3NmdBX3RFNGpzWnNZcERzaElkT3dac0pVT2VVeGt2b3hrVlNvaHlCeTg1cTBtN0FUcGtZWXhfQnN0RG9XNkkxT2Jid3FNM2RYUDN2SVBfY1g2WlJvbDY1LTc1djZ2VmFmeTlKalQxQXVOWHNYNURnWlVmYTZOQW8tek0xcndTQi3SAd4BQVVfeXFMTnduNElTdURQQnVFMHl0cmNCZVlscVh0VC1oaTVCZDdvUHhtWWpqenlRZGRpR1hyYm9RLW1HaXNVRVdqLWQ5U2w3TFVvR1NWQm54d1NhcTh5YlB5cm9lQUZUOTJuNERuT3Rtc0JKZU1QWGZCcHNZRFJPb09qZUZjVkU5VU13cDJ3Z1pxN29YUkhNN2dOSGNNU2VVVjdLc3N2SkMyN3lkSmR1d0pDQURidnJjLVU0WVNhV3M1OFdFeS11b3FZeTBnYkFKV2xFZFJTRXNSaDhxS0xPUjZ3VWJB?oc=5
 
-- Market Highlights: Sensex settles 650 pts higher, Nifty above 25,650; Power Grid rises 4%, HDFC Bank 2% - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxPV0JlRzJrT21ja1NneFduclY4WkE2OW1VYTdZTGtGS09mY2ptbmhSNDNndzlTUm5Wb2h5eVpkNlBZaXIwYlRZLTdadDZDOWtZSDhlRk5mdFQ5NFhQbERsLWV1NE5SWDNpdm
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPV0JlRzJrT21ja1NneFduclY4WkE2OW1VYTdZTGtGS09mY2ptbmhSNDNndzlTUm5Wb2h5eVpkNlBZaXIwYlRZLTdadDZDOWtZSDhlRk5mdFQ5NFhQbERsLWV1NE5SWDNpdmJZRkZnRVd2VnpuS1BwanAtcEtmemk4a3JyNlVNaVd0TmNSZ2V2eGZCem8tX0ZvR1JFeFZrdnRCeXY2OTloOGd5S1Z6bGYxMWVyVjR0Umk3ZXVsTnBPOTdRc0s2anVwTDRyR25JVGNQYlJWNnN3cE1RMlBVSGtMcWUzcTF3Q25zdWEybDlTVWxEQmZDU2xLYnlMcm8zX1R0Y29rdNIBigJBVV95cUxPY2VKbEUxWC1lcWJQZUJVWHN3Zl8tc1Q5d2FUd2pSQ0lTSGpzTXp6clktT1kwMHNrcVpMbzAyZjZWZmh1dndTMnAyTE0tRnJPZ0FOVmM2UzlPS0dOYmJVTUh4VWUxVDJPMGIwV01fVU1DM1M5SVVCM2ZQemo2MzNZTkJkWFpCRWpIUE9UNTd2YW1tMzlud2FXb2VIcWIzUGprLTR0VUNWREdyZWhIb01zM2FRdEQ5RGh6T3dJVmJJdU9CRG53TFhxZG5MX1YyYjUzLTk5eXhETE1EaF9HWVkzNlZWUlNwSDNyb3h1MWZfUVZSOTRNX1RTaFVsQTNwYWUxZ1Y5U05za2xLdw?oc=5
+- Asia markets make cautious start, oil rises on US-Iran talks - TradingView
+  Asia markets make cautious start, oil rises
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0tmSkNfaC02RDg0cmw4eVBJdHNYa0JuaVpFTXVpR3lJQmx3YTBORlhNUHNDVTBmeGt2U0dvU1ZSQ0kxeFpLNzExQkFlVzRQbHFXRFoxLUxHLXdvRFhrRmVOYWJUbHpVU3J6cFlMa2JoYlMxN0w5aEF0QmRPblBuYkd3b0pHU0ZWeGhqdVVqTl9kYld2alpad096a3VKMDhjSDd6MURjVGFjbm1wa0dZcWhfRjlHU29nT05vdzk1UDF3bjdiVmswTg?oc=5
 
-- RBI issues draft norms for reporting on forex derivative transactions involving rupee
-  RBI issues draft norms for banks to report foreign exchange derivative transactions involving rupee undertaken by their related parties globally. Move aimed at enabling better pricing
-  🔗 https://economictimes.indiatimes.com/markets/forex/rbi-issues-draft-norms-for-reporting-on-forex-derivative-transactions-involving-rupee/articleshow/128429483.cms
+- Technical breakout in Blue Star suggests fresh bullish leg: Kkunal V. Parar
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/technical-breakout-in-blue-star-suggests-fresh-bullish-leg-kkunal-v-parar/videoshow/128420624.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Indian benchmarks rebounded, snapping recent losses as financial, energy and pharma stocks advanced. BSE Sensex and Nifty 50 gained strongly, though broader
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/128428860.cms
+- Market quote of the day by Sir John Templeton | “The time of maximum pessimism is the best time to buy”
+  John Templeton's advice to invest during peak pessimism remains relevant. Markets are cyclical, and rebounds often precede positive data. Disciplined analysis is crucial to distinguish true value from traps.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-sir-john-templeton-the-time-of-maximum-pessimism-is-the-best-time-to-buy/articleshow/128443988.cms
 
-- Goldman Sachs doubles down on Aye Finance despite muted debut; BofA picks up stake in EIL in Rs 100 crore bulk deal
-  Goldman Sachs bought shares worth Rs 22 crore in Aye Finance. BofA Securities acquired a Rs 100 crore stake in Engineers India Ltd
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-doubles-down-on-aye-finance-despite-muted-debut-bofa-picks-up-stake-in-eil-in-rs-100-crore-bulk-deal/articleshow/128428556.cms
+- Pre-market action: Here's the trade setup for today's session
+  Indian benchmarks ended their losing streak on Monday, driven by banking stocks. Analysts anticipate a sideways market with a slight positive bias. The Nifty's movement around 25,600 will be key for the near-term uptrend.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128443841.cms
 
-- RBI's new lending rules: Nithin Kamath explains what changes for brokers and traders
-  The Reserve Bank of India tightened lending norms for capital market entities. Nithin Kamath said costs will rise for brokers, though Zerodha clients
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbis-new-lending-rules-nithin-kamath-explains-what-changes-for-brokers-and-traders/articleshow/128427812.cms
+- Stocks in news: Fractal Analytics, RIL, Cochin Shipyard, Trent, Britannia
+   Markets saw volatility but recovered modestly on Monday, with analysts maintaining a cautious outlook. Several stocks like Fractal Analytics, RIL, and Cochin Shipyard are in focus due to significant news.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-fractal-analytics-ril-cochin-shipyard-trent-britannia/articleshow/128443764.cms
 
-- Prabhudas Lilladhar initiates coverage on Fractal Analytics with 50% upside call despite weak listing
-  Fractal Analytics debuted below its IPO price, reflecting valuation concerns and cautious sentiment. Prabhudas Lilladhar maintained a positive long
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/prabhudas-lilladhar-initiates-coverage-on-fractal-analytics-with-50-upside-call-despite-weak-listing/articleshow/128425343.cms
-
-- 'Bangladesh First': Tarique Rahman's Reply To Query On Ties With India - NDTV
-  'Bangladesh First': Tarique Rahman
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
+- Global Market Today: Asian stocks edge higher in thin holiday trading
+  Asian stocks saw modest gains with light trading volumes. Crude oil prices rose amid heightened geopolitical risk. Iran conducted naval exercises near a key shipping corridor.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-edge-higher-in-thin-holiday-trading/articleshow/128443673.cms
 
 - School assembly news headlines, February 16: Top India, world, sports, business news - India Today
   School assembly news headlines, February 16: Top India,
   🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVklBWGtwOUdxejVtclN5dmhqQWpDVmJFOC1CWU5nUjhEWU1jaXFSbTdCQzJJeXFtUG9nSWdOcVl1MWhxWFI1VWlKMlIzaFJ4TGViVTRYMDdHRmZlQ0hHOS00Z05DY054TWRiX3dLZzYtdGtkNjZ2OWFnbmJYWk1DX040U2JOMkJlUUdmeE1WNGVHTmgtT2dtaGNqQWFXZ3k4b3VQS25DRF9yM3BJQVF1ejJpNHdfc1hIT1NJT01YMGtPRjB3ZFJaVDdfWW4xMDF5a2dNYVFfRnUxYklORjc2NDhfYUJCZ9IB6wFBVV95cUxPenBqUzBlTFYzMFVhQklrOFh4ZFBXSUc1bnV0ODhqc1VCTlVyNkR4dndpRGlXc3ZWUDA0OUZhZHB3Y3FCRXNBUmFsbUtBVEJFN0xOVk5CS0NHZTVodnROZlFnRUNkVWlXOURLVXVnRF9WVXBIa21RbWhZN21QeHh2aVBCOHgxWnhKTFJOa0JYN0puQ1l6VVFfWE10ZV9hT0o3THgtSmxuOE8xSFJpMi1ERFA0Y0lHeVIyTzJzcnE0TDExSzcyYjRqODA3SWhKaWxoWU43U3R1SFdSNFY2MXlvT3VxVnZIaTEtTmRz?oc=5
 
-- TCS and AMD to bring ‘Helios’ rack-scale AI architecture to India - Times of India
-  TCS and AMD to bring ‘Helios�
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd1dNRTRqMzJ4M0ROY3J5ZFpweHY1MWNHbGh0VExZRVFNQTZqR1ZUZEhTQ3ZXa213dnNDNGhtYU82SmMxRldMc2RyN3p0aHU5ZlFERnJYc2dndUVScXlHa0JyYlJoTjFqM0h6SFhWaWZVclcwZER3R1dKZVhwRGRmSGZCbEV3ajRuTWxDUkZJbEJYWk1QVXdTS3dTV0Q5cXE5bW5OUGpTeGlRdkYxbzlnNkZWUUl0aW1xNW93cmhBaTJKdV91ZndXb2ZYVDhLaEZrVXE0eHNCSmVLX0FJNHJJ0gHkAUFVX3lxTE5RR0RreGFuYmVOeVVZV21JbjhTMGk0RWtSTmdMUzg1ck14N1NPeUxZY3pZYVozQkN4Q1FNcHB4SFZlUG8yWU96ck5YMXRTN0pDbkU0d21TaHJKa1hGNWZaem9ZcE1VajJ1R01QSlFPODI1a1dvdGhlN2poY0IwaXBjeFFCVjRPdnRUZXdwQlN6RHNjY19TaHZkZlpuTUdvTnVvWTV3dVFzSmpZbk9CRkJtNkw3Vzl0cmhKRW84OXh1ZTk1eFdDblIzZHlVcHpkVHMzRTRjUnYxVTRBOGJDUFBmd1ZVZQ?oc=5
+- US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific commander | India News - Hindustan Times
+  US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOGZYVUVmbFI2eGFUa0J0c0pyTHA4eU1LRE5VLUdlSE1FQ3EwZUduNEZnVHYzeU81VkxQam5KUzJCS3RnZ2VERkh6eVpZZ3BZc1laY1Y5QkhEM0FmRVRNbEtnR1NJTGlvV282dzZCTHVCWlRPMy1YR2FpWUxPRG5DT2Q3Y2l0Y3Fsd19FQWY2YklxTkpqSFMyc1Z2MGNrT1VUejhJVE5TRkljZjBybm13SFFsQjYzOEUxM2lFY3dOdTRJQ2xVaW9qdW4yS3JBaGR4cGlYdE9zVFRiVjRjaU5wcXhiM2lvYUptQ2fSAe8BQVVfeXFMUExONlVyNVc3el9kcXQtTmxLM2tHbVJoWm1yM0FUWG5Cay1OZUs4N2hBVENHU2hOX0lycFZYZ3k2UDVOZnJsWTh2MThrZDVNcy1iZnR0dlkwWUxjYjlLb2VyWGxpSVo3WlVnQlNnZUc1Rk9ubmhWUV80dmVNRVhfOGs2Qk9ETnYyOUEwVlB6dldpQzlsd0VOUWFER2xORXFKWVZKLTYwQzJ1T2ozU1Nfd1lBRlBIdEJDSDZFdE5MeW1xRW1md2RTaldGeEwtbmFKZ2dEd3pkc3V6VVhfdlFUa1FlcmcyRWpuelg1dm41bVE?oc=5
 
-- Efforts on to operationalise India, UK FTA in April - Daily Pioneer
-  Efforts on to operationalise India
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNTGMwNzFsZnpTNzFEMG5aWnd6MnhOZm9JTWotcWNydndwdERXNk9NT29XcjQ0dGdsSXoyck0ycWxVbHd1UmhqTVo4Y3dPbEZoTFQxXzZSamtyWmE5Snk2LWZ2VFZXZXhHaVVXbnE0OUlVZ0V3YWpHZ1oyOGM5NHprVUM1b1VQNTg?oc=5
+- Indo-US Defence Ties Continues To Grow Stronger: US Ambassador Sergio Gor - NDTV
+  &nbsp;<font color="#6
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDdKQ1ZhblpHaEo0eUU5YUlpTkE1TUx4MnllZVNKNFg3dWZiNk1DTkNPcHZ3TkR5akF5N1JmMlhKaERQM1hDcDE3TjVpN003cEg0QnFGSlRSWk9XcnQ1eVhvUElFaWt2Y2YtM0hnUWhsanE4cVBoVlFXN2tackx3WTJjaHgwY2hUWUt4bE83UlNlc2lkSk4xOThjQzhBUkVldDI2MmE4WHhfYmFDZmdMempfMNIBuwFBVV95cUxOYkpqdF9QdmFlYlE4Vkp3WG9COC02VEpDa25Qb3VTb3ozek81OTRUQnRhaGVJZF9wVGp4Z1QxOUxXNE9rSE9ZTTAxMHV6dHhrdlFnaDNWeXZ0LURkRU9OUHBPM3BqOXR2a2owLS01QUdFMVIzSFVVR2ZkRm9PMlhjQmNHQkw1d0RDc3Z4a05Od3NISTJCUW13TDFNSkJKUEJnNmNGSnRqYVpMcTBzajF5SDdPVkFIMUF6bzh3?oc=5
 
-- India Seizes 3 US-Sanctioned Tankers Linked To Iran: Report - NDTV
-  India Seizes 3 US-San
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFBkRk5qTTJSdU1LRmF3bEdUNnFnSUJDdVJfanBNVFk0Z2pwRU05UldKNGYwZVkyRFFFSUQwOG1jdUpPdzhoWUg1dXNiclhzWTFwVmF4RER2R3RiQ080MXA2WmpvRWVoX2NQR1lxdXNiOXJuUERLRjF4OVVGWXJjT2ZRMHJraE9iRHpzUGJVWjVoNllDZ194dDRRVmNOZ1V20gGoAUFVX3lxTE93U2J4ZnZUbnI0WFM1UDR4Z2hmZktDLWZLeWxfd0M2LWRKQXI3eE1KdlFSUEU0UXFQV3Y3em8tQnp1UHlnZzJxNWkxX041Vmo2MC1pVVRxVG5GRmp3Zkx1Z1lhalBaWkFqOEZfZE5UWmZDNHJ5d00zd0dxX1MwdjdHWWxBMEhZTUZ5TFRIUVVzZGRTZ1ZLdTZCYkRMbzhlZmhZR3ZWekl5cA?oc=5
+- 'Key To A Safe Indo-Pacific': Ambassador Sergio Gor Says India-US Defence Ties Growing Stronger - News18
+  'Key To A Safe Indo-Pacific': Ambassador Sergio Gor
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0Zaei1CR1pfdlUwQlBUU0tpRlkyQ0FyZUo1TF9pWUZ0OUVOZWtLc3NiWjhYTFgtaVM5MXp6eTE5d3dVa09udE9EQld1cHNLSGE4aWNXRjVoTnpLYm1oTGJGV2lucVdCU2JWbU1IZ1VaX2pydVowRWFLVGJUQjJpNjdmZkhRTVhvYkQ1TzBYY3ZSQVd5MnRfYWdCMTdLX3RWdHNxa3BtMWFpYk1mY3FKeE9zdHVrTEZvcDNKcG9ZZ2pFTXo3SVhzSzg3ZlJTSVVFRXhPWEhR0gHbAUFVX3lxTE9wLWNNd2tZOGIzUHRydFdjOGlHNWZzMXhRU291aURKNk04dExyQmNoXzBiX1AxMWVGUGItbXNSQks2QUV5c0ZTTFpyNzdYNEVXalp6MmJfVUZjX013Y1lLUFcwaXl5OWQ3SWhxWDBwa2MyOHByZHVvd1ZVRGJfV0RNejJ6WEdkV0hyRHIyU0tGQ19xYnZnLTdfQldlSUtoSVNxWFpXRkdnYnUwc0ZfSzl2RGNlUi1oM3Z2X3V6NGRvOXg1RzZpSjRrN1NTdjlmME5UZVpJNW1wNi1qYw?oc=5
 
-- 'Bangladesh First': Tarique Rahman's Reply To Query On Ties With India - NDTV
-  'Bangladesh First': Tarique Rahman
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
-
-- School assembly news headlines, February 16: Top India, world, sports, business news - India Today
-  School assembly news headlines, February 16: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVklBWGtwOUdxejVtclN5dmhqQWpDVmJFOC1CWU5nUjhEWU1jaXFSbTdCQzJJeXFtUG9nSWdOcVl1MWhxWFI1VWlKMlIzaFJ4TGViVTRYMDdHRmZlQ0hHOS00Z05DY054TWRiX3dLZzYtdGtkNjZ2OWFnbmJYWk1DX040U2JOMkJlUUdmeE1WNGVHTmgtT2dtaGNqQWFXZ3k4b3VQS25DRF9yM3BJQVF1ejJpNHdfc1hIT1NJT01YMGtPRjB3ZFJaVDdfWW4xMDF5a2dNYVFfRnUxYklORjc2NDhfYUJCZ9IB6wFBVV95cUxPenBqUzBlTFYzMFVhQklrOFh4ZFBXSUc1bnV0ODhqc1VCTlVyNkR4dndpRGlXc3ZWUDA0OUZhZHB3Y3FCRXNBUmFsbUtBVEJFN0xOVk5CS0NHZTVodnROZlFnRUNkVWlXOURLVXVnRF9WVXBIa21RbWhZN21QeHh2aVBCOHgxWnhKTFJOa0JYN0puQ1l6VVFfWE10ZV9hT0o3THgtSmxuOE8xSFJpMi1ERFA0Y0lHeVIyTzJzcnE0TDExSzcyYjRqODA3SWhKaWxoWU43U3R1SFdSNFY2MXlvT3VxVnZIaTEtTmRz?oc=5
-
-- TCS and AMD to bring ‘Helios’ rack-scale AI architecture to India - Times of India
-  TCS and AMD to bring ‘Helios�
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd1dNRTRqMzJ4M0ROY3J5ZFpweHY1MWNHbGh0VExZRVFNQTZqR1ZUZEhTQ3ZXa213dnNDNGhtYU82SmMxRldMc2RyN3p0aHU5ZlFERnJYc2dndUVScXlHa0JyYlJoTjFqM0h6SFhWaWZVclcwZER3R1dKZVhwRGRmSGZCbEV3ajRuTWxDUkZJbEJYWk1QVXdTS3dTV0Q5cXE5bW5OUGpTeGlRdkYxbzlnNkZWUUl0aW1xNW93cmhBaTJKdV91ZndXb2ZYVDhLaEZrVXE0eHNCSmVLX0FJNHJJ0gHkAUFVX3lxTE5RR0RreGFuYmVOeVVZV21JbjhTMGk0RWtSTmdMUzg1ck14N1NPeUxZY3pZYVozQkN4Q1FNcHB4SFZlUG8yWU96ck5YMXRTN0pDbkU0d21TaHJKa1hGNWZaem9ZcE1VajJ1R01QSlFPODI1a1dvdGhlN2poY0IwaXBjeFFCVjRPdnRUZXdwQlN6RHNjY19TaHZkZlpuTUdvTnVvWTV3dVFzSmpZbk9CRkJtNkw3Vzl0cmhKRW84OXh1ZTk1eFdDblIzZHlVcHpkVHMzRTRjUnYxVTRBOGJDUFBmd1ZVZQ?oc=5
-
-- Efforts on to operationalise India, UK FTA in April - Daily Pioneer
-  Efforts on to operationalise India
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNTGMwNzFsZnpTNzFEMG5aWnd6MnhOZm9JTWotcWNydndwdERXNk9NT29XcjQ0dGdsSXoyck0ycWxVbHd1UmhqTVo4Y3dPbEZoTFQxXzZSamtyWmE5Snk2LWZ2VFZXZXhHaVVXbnE0OUlVZ0V3YWpHZ1oyOGM5NHprVUM1b1VQNTg?oc=5
-
-- India Seizes 3 US-Sanctioned Tankers Linked To Iran: Report - NDTV
-  India Seizes 3 US-San
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFBkRk5qTTJSdU1LRmF3bEdUNnFnSUJDdVJfanBNVFk0Z2pwRU05UldKNGYwZVkyRFFFSUQwOG1jdUpPdzhoWUg1dXNiclhzWTFwVmF4RER2R3RiQ080MXA2WmpvRWVoX2NQR1lxdXNiOXJuUERLRjF4OVVGWXJjT2ZRMHJraE9iRHpzUGJVWjVoNllDZ194dDRRVmNOZ1V20gGoAUFVX3lxTE93U2J4ZnZUbnI0WFM1UDR4Z2hmZktDLWZLeWxfd0M2LWRKQXI3eE1KdlFSUEU0UXFQV3Y3em8tQnp1UHlnZzJxNWkxX041Vmo2MC1pVVRxVG5GRmp3Zkx1Z1lhalBaWkFqOEZfZE5UWmZDNHJ5d00zd0dxX1MwdjdHWWxBMEhZTUZ5TFRIUVVzZGRTZ1ZLdTZCYkRMbzhlZmhZR3ZWekl5cA?oc=5
-
-- 'Bangladesh First': Tarique Rahman's Reply To Query On Ties With India - NDTV
-  'Bangladesh First': Tarique Rahman
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
+- SC 9-judge bench to revisit definition of 'industry' - Times of India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSVVNcmlOZmNfWF96QnZuWVgzaUZhN2dWOTF2ZmRkUWRMQTBFLTd0MVdOWnlJSm15anZHdjhLdG9mdTFLZ29La2M0Q29LeW1NNEhPOUpHdUg5M0dlVlBmSXV2am02Qi04WVZFWFVpM19kYnhLUmJ1ZWprUE5IR2c0WlZObTJLMHJteW9rcWVEMnpIMEtzUExPOVBlTkxNdEExTjZyZHdWYzNyQ1VIN1VWakNQZHcwOU410gG-AUFVX3lxTE55c2dSYlV5ZFlJMHhiTDdOQzZadTRwMXpPdy1oU3ZLVUE1MnZGckh4aHFwRE03ZTMzRzF0UU1vSXRYcnpGbkMxTnpacnFVR0ppdDh2UzZxMXlPMGh1NGl2R0VUcmpMTHdMRXl5OEk2bkZnbzBsSkFpOFphQ3dzQS1nY0k3SmdxZXlBTDh0ZWV0a2VyRG9wNkZxTDE5Q25YWlpxbnNhQ0VINTNfRzZsY19OSmY1U0VKMnlQdkozZlE?oc=5
 
 - School assembly news headlines, February 16: Top India, world, sports, business news - India Today
   School assembly news headlines, February 16: Top India,
   🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVklBWGtwOUdxejVtclN5dmhqQWpDVmJFOC1CWU5nUjhEWU1jaXFSbTdCQzJJeXFtUG9nSWdOcVl1MWhxWFI1VWlKMlIzaFJ4TGViVTRYMDdHRmZlQ0hHOS00Z05DY054TWRiX3dLZzYtdGtkNjZ2OWFnbmJYWk1DX040U2JOMkJlUUdmeE1WNGVHTmgtT2dtaGNqQWFXZ3k4b3VQS25DRF9yM3BJQVF1ejJpNHdfc1hIT1NJT01YMGtPRjB3ZFJaVDdfWW4xMDF5a2dNYVFfRnUxYklORjc2NDhfYUJCZ9IB6wFBVV95cUxPenBqUzBlTFYzMFVhQklrOFh4ZFBXSUc1bnV0ODhqc1VCTlVyNkR4dndpRGlXc3ZWUDA0OUZhZHB3Y3FCRXNBUmFsbUtBVEJFN0xOVk5CS0NHZTVodnROZlFnRUNkVWlXOURLVXVnRF9WVXBIa21RbWhZN21QeHh2aVBCOHgxWnhKTFJOa0JYN0puQ1l6VVFfWE10ZV9hT0o3THgtSmxuOE8xSFJpMi1ERFA0Y0lHeVIyTzJzcnE0TDExSzcyYjRqODA3SWhKaWxoWU43U3R1SFdSNFY2MXlvT3VxVnZIaTEtTmRz?oc=5
 
-- TCS and AMD to bring ‘Helios’ rack-scale AI architecture to India - Times of India
-  TCS and AMD to bring ‘Helios�
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd1dNRTRqMzJ4M0ROY3J5ZFpweHY1MWNHbGh0VExZRVFNQTZqR1ZUZEhTQ3ZXa213dnNDNGhtYU82SmMxRldMc2RyN3p0aHU5ZlFERnJYc2dndUVScXlHa0JyYlJoTjFqM0h6SFhWaWZVclcwZER3R1dKZVhwRGRmSGZCbEV3ajRuTWxDUkZJbEJYWk1QVXdTS3dTV0Q5cXE5bW5OUGpTeGlRdkYxbzlnNkZWUUl0aW1xNW93cmhBaTJKdV91ZndXb2ZYVDhLaEZrVXE0eHNCSmVLX0FJNHJJ0gHkAUFVX3lxTE5RR0RreGFuYmVOeVVZV21JbjhTMGk0RWtSTmdMUzg1ck14N1NPeUxZY3pZYVozQkN4Q1FNcHB4SFZlUG8yWU96ck5YMXRTN0pDbkU0d21TaHJKa1hGNWZaem9ZcE1VajJ1R01QSlFPODI1a1dvdGhlN2poY0IwaXBjeFFCVjRPdnRUZXdwQlN6RHNjY19TaHZkZlpuTUdvTnVvWTV3dVFzSmpZbk9CRkJtNkw3Vzl0cmhKRW84OXh1ZTk1eFdDblIzZHlVcHpkVHMzRTRjUnYxVTRBOGJDUFBmd1ZVZQ?oc=5
+- US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific commander | India News - Hindustan Times
+  US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOGZYVUVmbFI2eGFUa0J0c0pyTHA4eU1LRE5VLUdlSE1FQ3EwZUduNEZnVHYzeU81VkxQam5KUzJCS3RnZ2VERkh6eVpZZ3BZc1laY1Y5QkhEM0FmRVRNbEtnR1NJTGlvV282dzZCTHVCWlRPMy1YR2FpWUxPRG5DT2Q3Y2l0Y3Fsd19FQWY2YklxTkpqSFMyc1Z2MGNrT1VUejhJVE5TRkljZjBybm13SFFsQjYzOEUxM2lFY3dOdTRJQ2xVaW9qdW4yS3JBaGR4cGlYdE9zVFRiVjRjaU5wcXhiM2lvYUptQ2fSAe8BQVVfeXFMUExONlVyNVc3el9kcXQtTmxLM2tHbVJoWm1yM0FUWG5Cay1OZUs4N2hBVENHU2hOX0lycFZYZ3k2UDVOZnJsWTh2MThrZDVNcy1iZnR0dlkwWUxjYjlLb2VyWGxpSVo3WlVnQlNnZUc1Rk9ubmhWUV80dmVNRVhfOGs2Qk9ETnYyOUEwVlB6dldpQzlsd0VOUWFER2xORXFKWVZKLTYwQzJ1T2ozU1Nfd1lBRlBIdEJDSDZFdE5MeW1xRW1md2RTaldGeEwtbmFKZ2dEd3pkc3V6VVhfdlFUa1FlcmcyRWpuelg1dm41bVE?oc=5
 
-- Efforts on to operationalise India, UK FTA in April - Daily Pioneer
-  Efforts on to operationalise India
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNTGMwNzFsZnpTNzFEMG5aWnd6MnhOZm9JTWotcWNydndwdERXNk9NT29XcjQ0dGdsSXoyck0ycWxVbHd1UmhqTVo4Y3dPbEZoTFQxXzZSamtyWmE5Snk2LWZ2VFZXZXhHaVVXbnE0OUlVZ0V3YWpHZ1oyOGM5NHprVUM1b1VQNTg?oc=5
+- Indo-US Defence Ties Continues To Grow Stronger: US Ambassador Sergio Gor - NDTV
+  &nbsp;<font color="#6
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDdKQ1ZhblpHaEo0eUU5YUlpTkE1TUx4MnllZVNKNFg3dWZiNk1DTkNPcHZ3TkR5akF5N1JmMlhKaERQM1hDcDE3TjVpN003cEg0QnFGSlRSWk9XcnQ1eVhvUElFaWt2Y2YtM0hnUWhsanE4cVBoVlFXN2tackx3WTJjaHgwY2hUWUt4bE83UlNlc2lkSk4xOThjQzhBUkVldDI2MmE4WHhfYmFDZmdMempfMNIBuwFBVV95cUxOYkpqdF9QdmFlYlE4Vkp3WG9COC02VEpDa25Qb3VTb3ozek81OTRUQnRhaGVJZF9wVGp4Z1QxOUxXNE9rSE9ZTTAxMHV6dHhrdlFnaDNWeXZ0LURkRU9OUHBPM3BqOXR2a2owLS01QUdFMVIzSFVVR2ZkRm9PMlhjQmNHQkw1d0RDc3Z4a05Od3NISTJCUW13TDFNSkJKUEJnNmNGSnRqYVpMcTBzajF5SDdPVkFIMUF6bzh3?oc=5
 
-- India Seizes 3 US-Sanctioned Tankers Linked To Iran: Report - NDTV
-  India Seizes 3 US-San
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFBkRk5qTTJSdU1LRmF3bEdUNnFnSUJDdVJfanBNVFk0Z2pwRU05UldKNGYwZVkyRFFFSUQwOG1jdUpPdzhoWUg1dXNiclhzWTFwVmF4RER2R3RiQ080MXA2WmpvRWVoX2NQR1lxdXNiOXJuUERLRjF4OVVGWXJjT2ZRMHJraE9iRHpzUGJVWjVoNllDZ194dDRRVmNOZ1V20gGoAUFVX3lxTE93U2J4ZnZUbnI0WFM1UDR4Z2hmZktDLWZLeWxfd0M2LWRKQXI3eE1KdlFSUEU0UXFQV3Y3em8tQnp1UHlnZzJxNWkxX041Vmo2MC1pVVRxVG5GRmp3Zkx1Z1lhalBaWkFqOEZfZE5UWmZDNHJ5d00zd0dxX1MwdjdHWWxBMEhZTUZ5TFRIUVVzZGRTZ1ZLdTZCYkRMbzhlZmhZR3ZWekl5cA?oc=5
+- 'Key To A Safe Indo-Pacific': Ambassador Sergio Gor Says India-US Defence Ties Growing Stronger - News18
+  'Key To A Safe Indo-Pacific': Ambassador Sergio Gor
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0Zaei1CR1pfdlUwQlBUU0tpRlkyQ0FyZUo1TF9pWUZ0OUVOZWtLc3NiWjhYTFgtaVM5MXp6eTE5d3dVa09udE9EQld1cHNLSGE4aWNXRjVoTnpLYm1oTGJGV2lucVdCU2JWbU1IZ1VaX2pydVowRWFLVGJUQjJpNjdmZkhRTVhvYkQ1TzBYY3ZSQVd5MnRfYWdCMTdLX3RWdHNxa3BtMWFpYk1mY3FKeE9zdHVrTEZvcDNKcG9ZZ2pFTXo3SVhzSzg3ZlJTSVVFRXhPWEhR0gHbAUFVX3lxTE9wLWNNd2tZOGIzUHRydFdjOGlHNWZzMXhRU291aURKNk04dExyQmNoXzBiX1AxMWVGUGItbXNSQks2QUV5c0ZTTFpyNzdYNEVXalp6MmJfVUZjX013Y1lLUFcwaXl5OWQ3SWhxWDBwa2MyOHByZHVvd1ZVRGJfV0RNejJ6WEdkV0hyRHIyU0tGQ19xYnZnLTdfQldlSUtoSVNxWFpXRkdnYnUwc0ZfSzl2RGNlUi1oM3Z2X3V6NGRvOXg1RzZpSjRrN1NTdjlmME5UZVpJNW1wNi1qYw?oc=5
 
-- 'Bangladesh First': Tarique Rahman's Reply To Query On Ties With India - NDTV
-  'Bangladesh First': Tarique Rahman
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEJKYnQ3R3B2bkR6RUwxNlVpblBERmRJUnRXQ2wtWmZUM0x1ajBkeEQ5NkNpM0FfNm1WOUg0Q1I5UnFJSHNiOENfaldjQm5DYlkwRDBQczFnWWJpUkE3SXFBSDRnNjR3NGVJZXFhODExVUM0b2VlNktDblRmQVE3czZfUnpEQm9pcTluazRhaFFYN1Z0NWxGVzc4T0FYVmwxN1k1R2JkRFl5TVYxeDhj0gG3AUFVX3lxTE5raDZTYW5DZklsbmFSY2Q4T3BaRjBGRkYyUlJSU1M4SGZtc1prQ1RMOGVpXy13SUtqN1ZDTkdYUV9Qb1gzMVR4Z2NuTjJyRFBaTV8zem83OWkzaDRFUlhacnlnWHR5WUVydHJOQnhIRzc3U3pHeE1Va2JlMUk4Z3BzaFdSQmhTZkE1cVd6NDQzc2FBUTBRRGl4WnVkWGIzX0t3VThCYUlpMkIwOE5JRWNmZ1NSUnZjZw?oc=5
+- SC 9-judge bench to revisit definition of 'industry' - Times of India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSVVNcmlOZmNfWF96QnZuWVgzaUZhN2dWOTF2ZmRkUWRMQTBFLTd0MVdOWnlJSm15anZHdjhLdG9mdTFLZ29La2M0Q29LeW1NNEhPOUpHdUg5M0dlVlBmSXV2am02Qi04WVZFWFVpM19kYnhLUmJ1ZWprUE5IR2c0WlZObTJLMHJteW9rcWVEMnpIMEtzUExPOVBlTkxNdEExTjZyZHdWYzNyQ1VIN1VWakNQZHcwOU410gG-AUFVX3lxTE55c2dSYlV5ZFlJMHhiTDdOQzZadTRwMXpPdy1oU3ZLVUE1MnZGckh4aHFwRE03ZTMzRzF0UU1vSXRYcnpGbkMxTnpacnFVR0ppdDh2UzZxMXlPMGh1NGl2R0VUcmpMTHdMRXl5OEk2bkZnbzBsSkFpOFphQ3dzQS1nY0k3SmdxZXlBTDh0ZWV0a2VyRG9wNkZxTDE5Q25YWlpxbnNhQ0VINTNfRzZsY19OSmY1U0VKMnlQdkozZlE?oc=5
 
 - School assembly news headlines, February 16: Top India, world, sports, business news - India Today
   School assembly news headlines, February 16: Top India,
   🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVklBWGtwOUdxejVtclN5dmhqQWpDVmJFOC1CWU5nUjhEWU1jaXFSbTdCQzJJeXFtUG9nSWdOcVl1MWhxWFI1VWlKMlIzaFJ4TGViVTRYMDdHRmZlQ0hHOS00Z05DY054TWRiX3dLZzYtdGtkNjZ2OWFnbmJYWk1DX040U2JOMkJlUUdmeE1WNGVHTmgtT2dtaGNqQWFXZ3k4b3VQS25DRF9yM3BJQVF1ejJpNHdfc1hIT1NJT01YMGtPRjB3ZFJaVDdfWW4xMDF5a2dNYVFfRnUxYklORjc2NDhfYUJCZ9IB6wFBVV95cUxPenBqUzBlTFYzMFVhQklrOFh4ZFBXSUc1bnV0ODhqc1VCTlVyNkR4dndpRGlXc3ZWUDA0OUZhZHB3Y3FCRXNBUmFsbUtBVEJFN0xOVk5CS0NHZTVodnROZlFnRUNkVWlXOURLVXVnRF9WVXBIa21RbWhZN21QeHh2aVBCOHgxWnhKTFJOa0JYN0puQ1l6VVFfWE10ZV9hT0o3THgtSmxuOE8xSFJpMi1ERFA0Y0lHeVIyTzJzcnE0TDExSzcyYjRqODA3SWhKaWxoWU43U3R1SFdSNFY2MXlvT3VxVnZIaTEtTmRz?oc=5
 
-- TCS and AMD to bring ‘Helios’ rack-scale AI architecture to India - Times of India
-  TCS and AMD to bring ‘Helios�
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd1dNRTRqMzJ4M0ROY3J5ZFpweHY1MWNHbGh0VExZRVFNQTZqR1ZUZEhTQ3ZXa213dnNDNGhtYU82SmMxRldMc2RyN3p0aHU5ZlFERnJYc2dndUVScXlHa0JyYlJoTjFqM0h6SFhWaWZVclcwZER3R1dKZVhwRGRmSGZCbEV3ajRuTWxDUkZJbEJYWk1QVXdTS3dTV0Q5cXE5bW5OUGpTeGlRdkYxbzlnNkZWUUl0aW1xNW93cmhBaTJKdV91ZndXb2ZYVDhLaEZrVXE0eHNCSmVLX0FJNHJJ0gHkAUFVX3lxTE5RR0RreGFuYmVOeVVZV21JbjhTMGk0RWtSTmdMUzg1ck14N1NPeUxZY3pZYVozQkN4Q1FNcHB4SFZlUG8yWU96ck5YMXRTN0pDbkU0d21TaHJKa1hGNWZaem9ZcE1VajJ1R01QSlFPODI1a1dvdGhlN2poY0IwaXBjeFFCVjRPdnRUZXdwQlN6RHNjY19TaHZkZlpuTUdvTnVvWTV3dVFzSmpZbk9CRkJtNkw3Vzl0cmhKRW84OXh1ZTk1eFdDblIzZHlVcHpkVHMzRTRjUnYxVTRBOGJDUFBmd1ZVZQ?oc=5
+- US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific commander | India News - Hindustan Times
+  US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOGZYVUVmbFI2eGFUa0J0c0pyTHA4eU1LRE5VLUdlSE1FQ3EwZUduNEZnVHYzeU81VkxQam5KUzJCS3RnZ2VERkh6eVpZZ3BZc1laY1Y5QkhEM0FmRVRNbEtnR1NJTGlvV282dzZCTHVCWlRPMy1YR2FpWUxPRG5DT2Q3Y2l0Y3Fsd19FQWY2YklxTkpqSFMyc1Z2MGNrT1VUejhJVE5TRkljZjBybm13SFFsQjYzOEUxM2lFY3dOdTRJQ2xVaW9qdW4yS3JBaGR4cGlYdE9zVFRiVjRjaU5wcXhiM2lvYUptQ2fSAe8BQVVfeXFMUExONlVyNVc3el9kcXQtTmxLM2tHbVJoWm1yM0FUWG5Cay1OZUs4N2hBVENHU2hOX0lycFZYZ3k2UDVOZnJsWTh2MThrZDVNcy1iZnR0dlkwWUxjYjlLb2VyWGxpSVo3WlVnQlNnZUc1Rk9ubmhWUV80dmVNRVhfOGs2Qk9ETnYyOUEwVlB6dldpQzlsd0VOUWFER2xORXFKWVZKLTYwQzJ1T2ozU1Nfd1lBRlBIdEJDSDZFdE5MeW1xRW1md2RTaldGeEwtbmFKZ2dEd3pkc3V6VVhfdlFUa1FlcmcyRWpuelg1dm41bVE?oc=5
 
-- Efforts on to operationalise India, UK FTA in April - Daily Pioneer
-  Efforts on to operationalise India
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNTGMwNzFsZnpTNzFEMG5aWnd6MnhOZm9JTWotcWNydndwdERXNk9NT29XcjQ0dGdsSXoyck0ycWxVbHd1UmhqTVo4Y3dPbEZoTFQxXzZSamtyWmE5Snk2LWZ2VFZXZXhHaVVXbnE0OUlVZ0V3YWpHZ1oyOGM5NHprVUM1b1VQNTg?oc=5
+- Indo-US Defence Ties Continues To Grow Stronger: US Ambassador Sergio Gor - NDTV
+  &nbsp;<font color="#6
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDdKQ1ZhblpHaEo0eUU5YUlpTkE1TUx4MnllZVNKNFg3dWZiNk1DTkNPcHZ3TkR5akF5N1JmMlhKaERQM1hDcDE3TjVpN003cEg0QnFGSlRSWk9XcnQ1eVhvUElFaWt2Y2YtM0hnUWhsanE4cVBoVlFXN2tackx3WTJjaHgwY2hUWUt4bE83UlNlc2lkSk4xOThjQzhBUkVldDI2MmE4WHhfYmFDZmdMempfMNIBuwFBVV95cUxOYkpqdF9QdmFlYlE4Vkp3WG9COC02VEpDa25Qb3VTb3ozek81OTRUQnRhaGVJZF9wVGp4Z1QxOUxXNE9rSE9ZTTAxMHV6dHhrdlFnaDNWeXZ0LURkRU9OUHBPM3BqOXR2a2owLS01QUdFMVIzSFVVR2ZkRm9PMlhjQmNHQkw1d0RDc3Z4a05Od3NISTJCUW13TDFNSkJKUEJnNmNGSnRqYVpMcTBzajF5SDdPVkFIMUF6bzh3?oc=5
 
-- India Seizes 3 US-Sanctioned Tankers Linked To Iran: Report - NDTV
-  India Seizes 3 US-San
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFBkRk5qTTJSdU1LRmF3bEdUNnFnSUJDdVJfanBNVFk0Z2pwRU05UldKNGYwZVkyRFFFSUQwOG1jdUpPdzhoWUg1dXNiclhzWTFwVmF4RER2R3RiQ080MXA2WmpvRWVoX2NQR1lxdXNiOXJuUERLRjF4OVVGWXJjT2ZRMHJraE9iRHpzUGJVWjVoNllDZ194dDRRVmNOZ1V20gGoAUFVX3lxTE93U2J4ZnZUbnI0WFM1UDR4Z2hmZktDLWZLeWxfd0M2LWRKQXI3eE1KdlFSUEU0UXFQV3Y3em8tQnp1UHlnZzJxNWkxX041Vmo2MC1pVVRxVG5GRmp3Zkx1Z1lhalBaWkFqOEZfZE5UWmZDNHJ5d00zd0dxX1MwdjdHWWxBMEhZTUZ5TFRIUVVzZGRTZ1ZLdTZCYkRMbzhlZmhZR3ZWekl5cA?oc=5
+- 'Key To A Safe Indo-Pacific': Ambassador Sergio Gor Says India-US Defence Ties Growing Stronger - News18
+  'Key To A Safe Indo-Pacific': Ambassador Sergio Gor
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0Zaei1CR1pfdlUwQlBUU0tpRlkyQ0FyZUo1TF9pWUZ0OUVOZWtLc3NiWjhYTFgtaVM5MXp6eTE5d3dVa09udE9EQld1cHNLSGE4aWNXRjVoTnpLYm1oTGJGV2lucVdCU2JWbU1IZ1VaX2pydVowRWFLVGJUQjJpNjdmZkhRTVhvYkQ1TzBYY3ZSQVd5MnRfYWdCMTdLX3RWdHNxa3BtMWFpYk1mY3FKeE9zdHVrTEZvcDNKcG9ZZ2pFTXo3SVhzSzg3ZlJTSVVFRXhPWEhR0gHbAUFVX3lxTE9wLWNNd2tZOGIzUHRydFdjOGlHNWZzMXhRU291aURKNk04dExyQmNoXzBiX1AxMWVGUGItbXNSQks2QUV5c0ZTTFpyNzdYNEVXalp6MmJfVUZjX013Y1lLUFcwaXl5OWQ3SWhxWDBwa2MyOHByZHVvd1ZVRGJfV0RNejJ6WEdkV0hyRHIyU0tGQ19xYnZnLTdfQldlSUtoSVNxWFpXRkdnYnUwc0ZfSzl2RGNlUi1oM3Z2X3V6NGRvOXg1RzZpSjRrN1NTdjlmME5UZVpJNW1wNi1qYw?oc=5
+
+- SC 9-judge bench to revisit definition of 'industry' - Times of India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSVVNcmlOZmNfWF96QnZuWVgzaUZhN2dWOTF2ZmRkUWRMQTBFLTd0MVdOWnlJSm15anZHdjhLdG9mdTFLZ29La2M0Q29LeW1NNEhPOUpHdUg5M0dlVlBmSXV2am02Qi04WVZFWFVpM19kYnhLUmJ1ZWprUE5IR2c0WlZObTJLMHJteW9rcWVEMnpIMEtzUExPOVBlTkxNdEExTjZyZHdWYzNyQ1VIN1VWakNQZHcwOU410gG-AUFVX3lxTE55c2dSYlV5ZFlJMHhiTDdOQzZadTRwMXpPdy1oU3ZLVUE1MnZGckh4aHFwRE03ZTMzRzF0UU1vSXRYcnpGbkMxTnpacnFVR0ppdDh2UzZxMXlPMGh1NGl2R0VUcmpMTHdMRXl5OEk2bkZnbzBsSkFpOFphQ3dzQS1nY0k3SmdxZXlBTDh0ZWV0a2VyRG9wNkZxTDE5Q25YWlpxbnNhQ0VINTNfRzZsY19OSmY1U0VKMnlQdkozZlE?oc=5
+
+- School assembly news headlines, February 16: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 16: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVklBWGtwOUdxejVtclN5dmhqQWpDVmJFOC1CWU5nUjhEWU1jaXFSbTdCQzJJeXFtUG9nSWdOcVl1MWhxWFI1VWlKMlIzaFJ4TGViVTRYMDdHRmZlQ0hHOS00Z05DY054TWRiX3dLZzYtdGtkNjZ2OWFnbmJYWk1DX040U2JOMkJlUUdmeE1WNGVHTmgtT2dtaGNqQWFXZ3k4b3VQS25DRF9yM3BJQVF1ejJpNHdfc1hIT1NJT01YMGtPRjB3ZFJaVDdfWW4xMDF5a2dNYVFfRnUxYklORjc2NDhfYUJCZ9IB6wFBVV95cUxPenBqUzBlTFYzMFVhQklrOFh4ZFBXSUc1bnV0ODhqc1VCTlVyNkR4dndpRGlXc3ZWUDA0OUZhZHB3Y3FCRXNBUmFsbUtBVEJFN0xOVk5CS0NHZTVodnROZlFnRUNkVWlXOURLVXVnRF9WVXBIa21RbWhZN21QeHh2aVBCOHgxWnhKTFJOa0JYN0puQ1l6VVFfWE10ZV9hT0o3THgtSmxuOE8xSFJpMi1ERFA0Y0lHeVIyTzJzcnE0TDExSzcyYjRqODA3SWhKaWxoWU43U3R1SFdSNFY2MXlvT3VxVnZIaTEtTmRz?oc=5
+
+- US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific commander | India News - Hindustan Times
+  US ambassador Sergio Gor visits Indian Army's Western Command HQ with Indo-Pacific
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOGZYVUVmbFI2eGFUa0J0c0pyTHA4eU1LRE5VLUdlSE1FQ3EwZUduNEZnVHYzeU81VkxQam5KUzJCS3RnZ2VERkh6eVpZZ3BZc1laY1Y5QkhEM0FmRVRNbEtnR1NJTGlvV282dzZCTHVCWlRPMy1YR2FpWUxPRG5DT2Q3Y2l0Y3Fsd19FQWY2YklxTkpqSFMyc1Z2MGNrT1VUejhJVE5TRkljZjBybm13SFFsQjYzOEUxM2lFY3dOdTRJQ2xVaW9qdW4yS3JBaGR4cGlYdE9zVFRiVjRjaU5wcXhiM2lvYUptQ2fSAe8BQVVfeXFMUExONlVyNVc3el9kcXQtTmxLM2tHbVJoWm1yM0FUWG5Cay1OZUs4N2hBVENHU2hOX0lycFZYZ3k2UDVOZnJsWTh2MThrZDVNcy1iZnR0dlkwWUxjYjlLb2VyWGxpSVo3WlVnQlNnZUc1Rk9ubmhWUV80dmVNRVhfOGs2Qk9ETnYyOUEwVlB6dldpQzlsd0VOUWFER2xORXFKWVZKLTYwQzJ1T2ozU1Nfd1lBRlBIdEJDSDZFdE5MeW1xRW1md2RTaldGeEwtbmFKZ2dEd3pkc3V6VVhfdlFUa1FlcmcyRWpuelg1dm41bVE?oc=5
+
+- Indo-US Defence Ties Continues To Grow Stronger: US Ambassador Sergio Gor - NDTV
+  &nbsp;<font color="#6
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDdKQ1ZhblpHaEo0eUU5YUlpTkE1TUx4MnllZVNKNFg3dWZiNk1DTkNPcHZ3TkR5akF5N1JmMlhKaERQM1hDcDE3TjVpN003cEg0QnFGSlRSWk9XcnQ1eVhvUElFaWt2Y2YtM0hnUWhsanE4cVBoVlFXN2tackx3WTJjaHgwY2hUWUt4bE83UlNlc2lkSk4xOThjQzhBUkVldDI2MmE4WHhfYmFDZmdMempfMNIBuwFBVV95cUxOYkpqdF9QdmFlYlE4Vkp3WG9COC02VEpDa25Qb3VTb3ozek81OTRUQnRhaGVJZF9wVGp4Z1QxOUxXNE9rSE9ZTTAxMHV6dHhrdlFnaDNWeXZ0LURkRU9OUHBPM3BqOXR2a2owLS01QUdFMVIzSFVVR2ZkRm9PMlhjQmNHQkw1d0RDc3Z4a05Od3NISTJCUW13TDFNSkJKUEJnNmNGSnRqYVpMcTBzajF5SDdPVkFIMUF6bzh3?oc=5
+
+- 'Key To A Safe Indo-Pacific': Ambassador Sergio Gor Says India-US Defence Ties Growing Stronger - News18
+  'Key To A Safe Indo-Pacific': Ambassador Sergio Gor
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0Zaei1CR1pfdlUwQlBUU0tpRlkyQ0FyZUo1TF9pWUZ0OUVOZWtLc3NiWjhYTFgtaVM5MXp6eTE5d3dVa09udE9EQld1cHNLSGE4aWNXRjVoTnpLYm1oTGJGV2lucVdCU2JWbU1IZ1VaX2pydVowRWFLVGJUQjJpNjdmZkhRTVhvYkQ1TzBYY3ZSQVd5MnRfYWdCMTdLX3RWdHNxa3BtMWFpYk1mY3FKeE9zdHVrTEZvcDNKcG9ZZ2pFTXo3SVhzSzg3ZlJTSVVFRXhPWEhR0gHbAUFVX3lxTE9wLWNNd2tZOGIzUHRydFdjOGlHNWZzMXhRU291aURKNk04dExyQmNoXzBiX1AxMWVGUGItbXNSQks2QUV5c0ZTTFpyNzdYNEVXalp6MmJfVUZjX013Y1lLUFcwaXl5OWQ3SWhxWDBwa2MyOHByZHVvd1ZVRGJfV0RNejJ6WEdkV0hyRHIyU0tGQ19xYnZnLTdfQldlSUtoSVNxWFpXRkdnYnUwc0ZfSzl2RGNlUi1oM3Z2X3V6NGRvOXg1RzZpSjRrN1NTdjlmME5UZVpJNW1wNi1qYw?oc=5
+
+- SC 9-judge bench to revisit definition of 'industry' - Times of India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSVVNcmlOZmNfWF96QnZuWVgzaUZhN2dWOTF2ZmRkUWRMQTBFLTd0MVdOWnlJSm15anZHdjhLdG9mdTFLZ29La2M0Q29LeW1NNEhPOUpHdUg5M0dlVlBmSXV2am02Qi04WVZFWFVpM19kYnhLUmJ1ZWprUE5IR2c0WlZObTJLMHJteW9rcWVEMnpIMEtzUExPOVBlTkxNdEExTjZyZHdWYzNyQ1VIN1VWakNQZHcwOU410gG-AUFVX3lxTE55c2dSYlV5ZFlJMHhiTDdOQzZadTRwMXpPdy1oU3ZLVUE1MnZGckh4aHFwRE03ZTMzRzF0UU1vSXRYcnpGbkMxTnpacnFVR0ppdDh2UzZxMXlPMGh1NGl2R0VUcmpMTHdMRXl5OEk2bkZnbzBsSkFpOFphQ3dzQS1nY0k3SmdxZXlBTDh0ZWV0a2VyRG9wNkZxTDE5Q25YWlpxbnNhQ0VINTNfRzZsY19OSmY1U0VKMnlQdkozZlE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-16 18:41:01 UTC_
+_Last updated: 2026-02-17 01:49:08 UTC_
