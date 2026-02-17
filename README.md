@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Another death in a pit: Kerala biker falls to his death, days before leaving for job abroad
+- Congress insisted they had convinced him to stay. Day later, party’s ex-Assam chief confirms switch to BJP
   
-  🔗 https://indianexpress.com/article/india/kerala-biker-falls-death-job-abroad-10537061/
+  🔗 https://indianexpress.com/article/india/congress-insisted-they-had-convinced-him-to-stay-day-later-partys-ex-assam-chief-confirms-switch-to-bjp-10537539/
 
-- Decision on J&K statehood soon, says Union Minister; Omar cautions: ‘Been waiting for a year and a half’
+- Two from Kashmir charged for ‘anti-national, secessionist, and pro-terrorist content’ on social media
   
-  🔗 https://indianexpress.com/article/india/jammu-and-kashmir-statehood-union-minister-omar-abdullah-10536840/
+  🔗 https://indianexpress.com/article/india/sia-kashmir-chargesheet-hizbul-mujahideen-social-media-uapa-shopian-kulgam-10537571/
 
-- In numbers: How wildlife conflict has dropped across J&K
+- Bihar’s Rs 468 crore AI leap: 10,000 new tech jobs and a landmark research park at IIT Patna
   
-  🔗 https://indianexpress.com/article/india/jammu-kashmir-wildlife-conflict-data-2024-25-deaths-injuries-mitigation-10536837/
+  🔗 https://indianexpress.com/article/india/bihars-rs-468-crore-ai-leap-10000-new-tech-jobs-landmark-research-park-iit-patna-10537556/
 
-- Senior Bihar bureaucrat in eye of storm for taking chartered plane with family
+- A mammoth cover-up: Odisha issues notice to divisional forest officer as dead elephant is ‘cut into 32 pieces, buried’
   
-  🔗 https://indianexpress.com/article/india/bihar-bureaucrat-eye-of-storm-chartered-plane-family-10536687/
+  🔗 https://indianexpress.com/article/india/elephant-death-odisha-notice-divisional-forest-officer-10537450/
 
-- ‘BJP budget like birth of a boy, Congress budget a girl child’: Rajasthan BJP MLA
+- ‘World’s only helicopter to fly at Everest heights will be made in India’: Modi on India-France H125 project
   
-  🔗 https://indianexpress.com/article/india/bjp-budget-like-birth-of-a-boy-congress-budget-a-girl-child-rajasthan-bjp-mla-10536577/
+  🔗 https://indianexpress.com/article/india/modi-macron-mumbai-meeting-india-france-special-global-strategic-partnership-21-deals-10537352/
+
+- Elon Musk, Tim Cook flag looming ‘global crisis’ amid AI-driven chip surge
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/elon-musk-tim-cook-flag-looming-global-crisis-amid-ai-driven-chip-surge-10537331/
+
+- AWS, Yotta to support govt apps and services during peak demand with hybrid ‘Outposts’
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/aws-yotta-hybrid-outposts-nic-data-centres-workloads-10537317/
+
+- Nothing Phone (4a) series coming to India on March 5: Price, specs and other details
+  
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/nothing-phone-4a-pro-series-india-launch-march-5-price-specs-10536983/
 
 - iQOO 15R to launch on 24 February with 7600mAh battery and AI boost
   
@@ -28,57 +40,57 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/qualcomm-showcases-dragonwing-iq-10-chip-for-humanoid-robots-at-ai-summit-10536967/
 
-- Apple begins testing end-to-end encrypted messages to secure iPhone-Android texting
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-begins-testing-end-to-end-encrypted-messages-to-secure-iphone-android-texting-10536812/
+- KKR, Blackstone, other global private equity firms now eye investment in cricket league IPL — Details here
+  The Indian Premier League (IPL) is now the world's second-most valuable sports league after the NFL. KKR, Blackstone, and other global private equity firms are now eyeing
+  🔗 https://www.livemint.com/companies/news/kkr-blackstone-other-global-private-equity-firms-now-eye-investment-in-cricket-league-ipl-details-here-11771345516240.html
 
-- Adani to invest $100 billion in AI-ready data centres by 2035
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/indias-adani-to-invest-100-billion-in-ai-ready-data-centres-by-2035-10536814/
+- Bayer plans $10.5 billion settlement to address Roundup cancer cases
+  Bayer AG is preparing to announce a $10.5 billion settlement push to resolve current and future cancer lawsuits over its top
+  🔗 https://www.livemint.com/companies/news/bayer-plans-10-5-billion-settlement-to-address-roundup-cancer-cases-11771344870135.html
 
-- Fake customer care numbers may appear in Google AI Overviews, warns report
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/fake-customer-care-numbers-may-appear-in-google-ai-overviews-warns-report-10536620/
+- Air India and Lufthansa Group sign joint business agreement, focus on route planning and flight schedules
+  Air India and Lufthansa Group have signed a joint business agreement. The partnership aims to improve customer experiences and increase passenger traffic.
+  🔗 https://www.livemint.com/companies/news/air-india-and-lufthansa-group-sign-joint-business-agreement-focus-on-route-planning-and-flight-schedules-11771340431462.html
 
-- India's bankruptcy process set for major revamp: IBBI wants commercial prudence, more transparency
-  The IBBI's draft regulations aim to streamline the IBC, reduce disputes, and ensure value maximization for all stakeholders.
-  🔗 https://www.livemint.com/companies/news/ibbi-insolvency-bankruptcy-rules-india-corporate-debt-resolution-changes-11771319603757.html
+- Powering the chips: Why Adani, Reliance are building a $125 bn moat around AI
+  India’s top conglomerates have committed $125 billion toward AI-ready data
+  🔗 https://www.livemint.com/companies/adani-group-relinace-industries-tata-group-artificial-intelligence-data-centres-11771332320671.html
 
-- Hefty cost! KMPG partner hit with $7,000 penalty for using AI to take test on AI
-  The recent incident is the latest example of a professional company battling with its employees using AI. These incidents have led to growing concerns about using
-  🔗 https://www.livemint.com/companies/news/hefty-cost-kmpg-partner-hit-with-7-000-penalty-for-using-ai-to-take-test-on-ai-11771316077001.html
+- Eternal-OpenAI deal: Zomato parent partners with US tech giant to boost AI integration — Details here
+  Eternal has expanded its partnership with OpenAI to enhance AI capabilities across its businesses. This collaboration aims to integrate AI tools into
+  🔗 https://www.livemint.com/companies/news/eternalopenai-deal-zomato-blinkit-district-parent-partners-with-us-tech-giant-to-boost-ai-integration-details-here-11771336510103.html
 
-- Pocket FM's creator economy reaches  ₹300 crore, targets 3X growth to  ₹1,000 crore in 2026
-  Pocket FM is leveraging AI to empower a new wave of creators. With 90% of users first-timers, the platform aims to expand its creator base from 300
-  🔗 https://www.livemint.com/companies/news/pocket-fms-creator-economy-reaches-300-crore-targets-3x-growth-to-1-000-crore-in-2026-11771320781319.html
+- Bharti Airtel share price to be in focus after subsidiary Airtel Money receives RBI's NBFC license — Details here
+  Airtel Money received a non-banking financial company (NBFC) license to operate its financial business without accepting deposits from the public.
+  🔗 https://www.livemint.com/market/stock-market-news/bharti-airtel-share-price-to-be-in-focus-after-subsidiary-airtel-money-receives-rbis-nbfc-license-details-here-11771345428920.html
 
-- Meta is the winner in smart glasses. How big the business can get.
-   Meta Platforms and its manufacturing partner sold more seven million pairs of smart glasses in 2025.
-  🔗 https://www.livemint.com/companies/news/meta-is-the-winner-in-smart-glasses-how-big-the-business-can-get-11771320271038.html
+- Amazon shares fall for 10th straight day, down over 1% at 9-month low; shed 18% in February
+  The Nasdaq-listed company last week announced its financial performance for the December-ending quarter.
+  🔗 https://www.livemint.com/market/stock-market-news/amazon-shares-fall-for-10th-straight-day-down-over-1-at-9-month-low-shed-18-in-february-11771340932487.html
 
-- IndiGo eyes 275 daily additional flights this summer, but growth still capped by crew and compliance constraints
-  India’s largest airline seeks up to 2,310 daily flights for April–October. revised FDTL norms
-  🔗 https://www.livemint.com/companies/indigo-interglobe-aviation-dgca-fdtl-norms-pilot-hiring-11771257016309.html
+- Wall Street: S&amp;P 500, Dow Jones erase losses, banks shine despite AI uncertainty
+  The Dow Jones Industrial Average rose 0.07%, the S&amp;amp
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-mixed-on-worries-about-ai-triggered-disruptions-11771339743036.html
+
+- Gold, silver rates today: Comex gold falls $171/oz below $5,000; silver drops $5.50/oz on stronger US dollar
+  Major markets in Asia were closed for the Lunar New Year, impacting liquidity. Investors now await key US economic data and Federal Reserve meeting minutes.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-falls-171-oz-below-5-000-silver-drops-5-50-oz-on-stronger-us-dollar-11771334221670.html
 
 - Gold, silver prices crash up to 4%: What is driving this selloff? Should you buy?
   Gold has been hovering around its 20-DEMA after failing to hold key support last week. Gold and silver prices are volatile, driven by a strong
   🔗 https://www.livemint.com/market/gold-silver-prices-crash-up-to-4-what-is-driving-this-selloff-should-you-buy-11771330239006.html
 
-- ₹2.2 to  ₹138: Multibagger penny stock turns  ₹1 lakh into  ₹62 lakh in nearly three years
-  An investor who had invested  ₹1 lakh in Diamond Power Infrastructure stock in September 2023 and held onto it would have seen its value grow to  ⁹62,16
-  🔗 https://www.livemint.com/market/stock-market-news/rs-2-2-to-rs-138-multibagger-penny-stock-turns-rs-1-lakh-into-rs-62-lakh-in-nearly-three-years-11771328808870.html
+- Quote of the day by Stephen Hawking: ‘The rise of powerful AI will be....'
+  Stephen Hawking's warning on AI’s promise and peril resonated at the India AI Impact Summit 2026. Leaders highlighted connectivity, governance and responsible innovation
+  🔗 https://www.livemint.com/technology/tech-news/quote-of-the-day-by-stephen-hawking-the-rise-of-powerful-ai-will-be-either-the-best-or-the-worst-thing-ever-to-happe-11771348973865.html
 
-- TCS, Wipro to HCL Tech: Why are experts bullish on IT stocks after AI Summit 2026, Infosys collaboration with Anthropic?
-  Indian IT firms are poised for growth through AI integration, according to experts. Infosys' collaboration with Anthropic
-  🔗 https://www.livemint.com/market/stock-market-news/tcs-wipro-to-hcl-tech-why-are-experts-bullish-on-it-stocks-after-ai-summit-2026-infosys-collaboration-with-anthropic-11771330625896.html
+- AI will drive down filmmaking costs and usher in new talent, says filmmaker Shekhar Kapur
+  Shekhar Kapur says artificial intelligence will slash filmmaking costs and empower a new generation of storytellers. He called AI a democratic force that can boost creativity, widen access and drive economic
+  🔗 https://www.livemint.com/technology/tech-news/ai-will-drive-down-filmmaking-costs-and-usher-in-new-talent-says-filmmaker-shekhar-kapur-11771343164920.html
 
-- US stock market: Wall Street set to open lower after stock market holiday — What's hitting the sentiment?
-  Futures of tech-heavy Nasdaq 100 index retreated 0.80%. S&amp;amp;P 500
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-wall-street-set-to-open-lower-after-stock-market-holiday-whats-hitting-the-sentiment-11771329048378.html
-
-- Prop brokers' index options market share surges in FY26
-  Prop traders accounted for almost half of the popular index options' gross turnover on NSE during April
-  🔗 https://www.livemint.com/market/stock-market-news/prop-traders-index-options-market-share-surges-rbi-rules-impact-11771318336100.html
+- When is Bill Gates speaking at the AI Impact Summit 2026 in New Delhi? All you need to know
+  Confusion erupted over Bill Gates’ participation at the AI Impact Summit in New Delhi. Nvidia CEO Jensen Huang also pulled out, while Gates continued his India visit in Andhra Pradesh.
+  🔗 https://www.livemint.com/technology/tech-news/when-is-bill-gates-speaking-at-the-ai-impact-summit-2026-in-new-delhi-all-you-need-to-know-11771337371505.html
 
 - India has to translate research into products to build deep tech ecosystem: Kris Gopalakrishnan
   Kris Gopalakrishnan, Chairman of Axilor Ventures and Co-Founder of Infosys, said India needs to translate its research into tangible products and technology. He was speaking at the India AI Impact
@@ -88,117 +100,65 @@
   Early screenshots of Google’s Android XR hint at a clean, minimalist interface built for spatial computing. With floating windows, Glimmer design effects and deep AI integration, the
   🔗 https://www.livemint.com/technology/tech-news/android-xr-screenshots-leak-hinting-at-google-s-vision-for-spatial-computing-what-to-expect-11771327808700.html
 
-- Govt invested in indigenous AI models to tackle bias: MeitY Secy
-  Govt invested in indigenous AI
-  🔗 https://www.livemint.com/technology/govt-invested-in-indigenous-ai-models-to-tackle-bias-meity-secy-11771328457276.html
+- US Futures Drop as AI Worries Linger; Gold Slides: Markets Wrap - Bloomberg.com
+  US Futures Drop as AI Worries L
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGNMd19mVHpma1pEcHRyeUw3VTdQcktsaG04RGRfSFVNUHdTV3FsajNEMUlhbHQ1VXhqOXJBNTdiOG9uS0xlS0lEYlBwZko5QXVoc1h5TDZBdXV0UnlXMXBUWXdYaXY5dDV5TWpzcVpEazZVSm5tdjBjcVNnWVFCeUNxajlGT2EyamFwd2c4bm53NHhyMV91dS1JUFRjMFdRT3BTMlNudmFFa0lRSW9NbFBoVQ?oc=5
 
-- Ashwini Vaishnaw apologises for chaos at Day 1 of AI Impact Summit: ‘We will take efforts to…’
-  Union IT Minister Ashwini Vaishnaw apologized for issues on Day 1 of the India AI Impact Summit. He encouraged feedback and emphasized the team's commitment to organizing a successful
-  🔗 https://www.livemint.com/technology/tech-news/ashwini-vaishnaw-apologises-for-chaos-at-day-1-of-ai-impact-summit-we-will-take-efforts-to-11771326831582.html
+- European markets close higher as investors digest key points from Munich Security Conference - CNBC
+  European markets close higher as investors digest key points from Munich
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQbjU5SVJGaWkyeTBBOTdrZVZrWGVYZmx5V3o5dGJxZW5lNmNweWtUVU9GX0lkNDh3T2liMFpma3B4NGpkbGxYaUpaREM0bHBvR3kzNUtJQ2V1eEFLYUJucTlDam9YZkNNRGFYYW9uM2pINDl4ZU4xR2djR2RTWWdSbmQxTXdub2pqYnfSAY8BQVVfeXFMUDhtd0J5RlVtZDN5SEdaM0pmX0dyaVVnWmRIVzZmcHlaTkV5ZGZqSDlZSXNzMV84SDBnY1VWUl9JSi0zYVhHbnRjVlFJcGM0UU94QklIRGVqQ0RHdXNudmt0cHVwaFJYNHJvSmFESDZqX2NnYXMzalU1MXNoNmtIV1lnNllIU29mZXpqa3NwMkE?oc=5
 
-- India aims to build consensus to harness AI for public good, contain harms: Vaishnaw
-  India aims to build consensus to harness AI for
-  🔗 https://www.livemint.com/technology/india-aims-to-build-consensus-to-harness-ai-for-public-good-contain-harms-vaishnaw-11771326700962.html
+- RBI drafts new norms to ease forex hedging, market-making rules - Times of India
+  RBI drafts new norms to ease forex hed
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVS10QUhBLXMxN2FieWxDdjlBOEdpWERrYnZFaXUzMG4wQTl4bElzOXN1SGNjTlV1OTRRQU81RVhET1J0YVRfOGZxbGNyZk5RVFJlc1VJRVQ3WTZhU3dnWUJOaEJHbHJGaHRmZ1c2UUtiS0FsVlJ1ZTI2SnloZWs4bGVSY3hZbUVHa0JWc1NWM2o4T1Bnc0NiNklGT2pKTDBUWjRPMWZGeEg2alRZUG8yVTdzYWhCTVlLT1UyeXUtUkxfbzMwNU1mdjZMZVdYVkRIeFgycTJDeW9Zajl4RkstVXJR0gHnAUFVX3lxTFB0OXMzOXZORDRsaTJ4clBpRUU1RUpWQ2hBNzQ0Vk04eDVESUNiSmp4VGw3RTJ5RnBVbGJsMlRVTHJQYm1oZkVGaVdEaG1yODd0OExQcDN4Y1o1cUEwNnpyU25HRXlSeFc4REQ5Uno1eDhHaHhtNGdVUExOX1RDWGlQRnlHMXFaNldtSEQ1MmVkTEY0UU5pLXV5M1hZNUZSbkNSR0dQRkxQQXlmQmhlbGFnT2FVdjRZb01ONS1iTWF0RUZHRjV6VzY5Q2NzQ0wtb3JaOEcxSk9kLWtybDBXR0tjQmFtenF0OA?oc=5
 
-- US markets and the economy are heading into uncharted territory - Financial Times
-  US markets and the economy are heading into unch
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5pZ3hEeVZVdFdHTWhGQWU3c0JuaWUtakFQR1gzVnhSdVVNdGR3SnRfcDY5elp1bjk5TmZOTmFNck9VMjdmVHJ1VHFTandJSWFzSWFEMGxWTlNiY25aMWpXbUt1c3FrRzJodDEtcjlNQ0E?oc=5
+- Stock Market Today: Stocks Pare Early Losses in Volatile Session To Start Week of Inflation, GDP Data - Investopedia
+  Stock Market Today: Stocks Pare Early Losses in Volatile Session
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNRllkUW9ZVy1GdWoxdGRxaHRIcUNHN2ZvMG1NdkdmSFRSYnBPTlVmU2hRV3hoUmNESmNaX3BYZUNnU2VYSWE0dzRjYU1jQlp0UGdKV1M2V0JwcHdpanlpb3NhdzlnRVRaQzBfRW0tV1BpRVZNNTdVN2ZpdUxKQUtCUUU1N2RTeWhhak4yUFZmN0o?oc=5
 
-- Asia markets cautious ahead of US-Iran nuclear talks - Reuters
-  Asia markets cautious ahead of US
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxOMS0xZ0haNEhUYVBET2tzcjg0ZkVoOW1TNk9TU0hQbTdUdUZuNmR4dmZrenZYUjJrQWpJUXBWd25KVWtKQVh6Zm1IUS01UHA4LXMzcUFMUlNRSzE5LW8tVHM2a3FxYkhLWW1nM00wbTNCRGsydTg5eWp5aURvU0lXb3J2RQ?oc=5
+- US stocks today: Wall Street swings as AI jitters, weak consumer sentiment weigh on markets - Times of India
+  US stocks today: Wall Street swings as AI jitters, weak consumer sentiment
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNcWxnMzRveWRBeW9fcDVSTnd5dTAwSzd2RTRtZ09ENlV1XzVybUFsMXFDcXoxWGM0cmxhT2hXcnF4UTA3YU9hX05LME5qcGwySFlYRVJwWXhjSmJvMnQwNjdIeDFya3gwOUYwa19RYWFYV2UyREM2S1VFbVZMaW93a1F4TXk4X0Z3bUVIQW9oUTVnUDRVam1JRTlqT3diVnVISEVLOUVxTHgwYWdSNzR0R1hjakxBeUZDZW9wNGJ0OFFCRTRSMWh1ZVFqMUJWNEpwaExBQlhtVVNENmhiRkd0SURyU21TM2JTZGR3YUxKSUNTWlBMWUxabjRSRkQ1ZHo5Q3BfVXo4b2dqRGVKd0h1T9IBlgJBVV95cUxNWnVabmtkZ0VPZGFqN2E1QmVqQWNkcEEtcks4RE5sellpR1Z1TWVJNW51SjQyVmxIazU1VjJJSE5vWVotZnBGSWVWWVAxaWdzTU5nS1lhRFF2a2FpWktGa3FFZU1oM3VqNnlnZWpvZGdxZ2ZBTm8xemk0U3NoRnBoV0gzSEEzRzRkd1VsVGE0S1VKaGtGOUl0OGZkVDcxN2F6Si0xY2d1QTRxaEVfRWFnUE1QQXRoRXVqLVd0RmI1QzZFLXFvNmlUcm9ZODNLV0YxSzhTQTFfLWpSaGFNRUJYYVloOXRLNTdUbF9laXljOEMtS2N4cl81b2N1R3JoNERBeWRpQ2l3ZEFTUmd3TmFEcVROSG1LUQ?oc=5
 
-- Market Highlights: Sensex settles 173 pts higher, Nifty above 25,700; ITC, BEL rise 2% each - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxQbTI5cEJTa2NLVmVwNjBSWUxpYzdYQUk5Y2VFSkJSN0R0VnVDMk05UkpqaDFRWVFMdnJoN09PbnZmMXNPTVNyRzY5a2YwSTNtLTNRS19pa2t6VnJ3dF9MVVRSV0hLYnU2Zk
-  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxQbTI5cEJTa2NLVmVwNjBSWUxpYzdYQUk5Y2VFSkJSN0R0VnVDMk05UkpqaDFRWVFMdnJoN09PbnZmMXNPTVNyRzY5a2YwSTNtLTNRS19pa2t6VnJ3dF9MVVRSV0hLYnU2Zk9TcW1iNjhycDRGRHhkdmRKN0JzNVRsNk5nRnk5dWNwMjhFeUVZbktkRUNKLVNzY25ZNi1XSUtvS3hDRTBmbGtwRWM5a1Jad0I0U1pYNkpLckFrT2hqVS1DdUdQdk1rTVBkVURwX05LY24xcnAyTG5LaEJ2YUJ6cGgtblBJY1Fpa2VGMkdHUGkyd3lBNk5oSTdlRjYyZVgxc3ZYcmtpX051dGFrYXBfamZCNE1YQ2PSAZwCQVVfeXFMT0s1NnNMaGpyZHJKd3J3NlR3Xy1hRFdRTTBSdjVyTmVRLVdiT3NJLUhhMkhkR1lOdTNuTUw3UnU5Q2pTYWxCSUhiSDB3RGZCVloyZjFLQVZBd1RlLU9XRXdJYWR4MzdXRVl0Vm8ydGczT1VfUHlJVml3ZTFtaFVMSVBVeEMtVnEwUllZMlBUd1lIa2MtclhUTnNkTTJIaTBfd3AtQWtUVUVkMEVOZURDTl9hbWNKYzdoSUVxUHVzSi1KTUQwWnQ0cDh1MF9RVjdpTmxULXF6aE1MRFlJQTBkbXlhNEZyc05oeFdtNXpUXzJ1UGRZOTNCd2gxSkVNZ2ZHbURCMXNWcXVkVmRxZFFzZDFualFmYk5kWXczWjQ?oc=5
+- US Stocks | Wall Street regulator calls for shrinking exec pay disclosure
+  Fewer top corporate executives could be subject to extensive investor disclosures. Wall Street's top regulator says
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-wall-street-regulator-calls-for-shrinking-exec-pay-disclosure/articleshow/128472260.cms
 
-- Britain Is No Country For Young Men (or Women) - Bloomberg.com
-  Britain Is No Country For Young Men
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVdtM25Gdng5VEs2SW5ZLXlDSHFLOTJBbFdVRmlKR3MwTjZQdlhKcUFrVzZTcHBZUERHb3B1TU4za25fdURGeEJVeUU3X1VnVHlnU1NJV1NkTDY2ZG1wSFBMb1JrYVo2ZGpOZ1h0QllKS0FhQmRrRjJtQmJBbG0xak9OX2pHRUNiWDMtQ1dqODNkd29oNXFpVE9qTFhFSzV6Q1djMGlhdzJMWmM?oc=5
+- US Stocks | US Fed's Goolsbee: 'Several' rate cuts possible this year if inflation gets on track to 2%
+  The U.S. Federal Reserve could approve "several more" interest rate cuts this year if inflation resumes a decline to the central bank's 2% target. Chicago Fed President Austan Gools
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-feds-goolsbee-several-rate-cuts-possible-this-year-if-inflation-gets-on-track-to-2/articleshow/128471979.cms
 
-- Sterling falls as UK unemployment hits highest rate in five years - CNBC
-  Sterling falls as UK unemployment hits highest
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0tKR2gzN0xqX1pnOEZhRkZLb0E1ak1JV1U0OU1adWFpNE1Bd25MNFhHQTQwOHhVN3UteTg0RUczb0ZER0hieWVUekRQcndUd2UtbE8wVHNRdjJnVXNyUFREYS0xVHJaV09Ga0JVM1dBbkI4V2JxSkQySWdkazMwMnVFOXJWb0hDVXpudVM4NG5XM0VLb2t5QmtLa2XSAaIBQVVfeXFMTWFJV1NQRC1NRmdlbklYdnJFTTF4QTI5NHpRUERXaVEzajJYOWVfS3lwUmREMDNxd1pJa2lHVXAyV1NXVk9WVUZEUGR6U2JRS29vLVlkSmF2TS1GcmlwWFdwUWk2Y0I1cUlGM1lGOUhtcVg0OS1PcjkyX3R6bHNLLVptYW9RTjdtYlJsN0ZadkI0dkI0WkRBRGdLOFRqNlVlMFp3?oc=5
+- US stocks | Trading platform eToro beats profit estimates on robust market activity
+   eToro surpassed fourth-quarter profit expectations. Platform saw a notable shift as crypto-native customers began trading commodities. Despite a dip in net contribution, the company's assets under administration grew significantly.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-trading-platform-etoro-beats-profit-estimates-on-robust-market-activity/articleshow/128471976.cms
 
-- SBI, L&amp;T among 4 stocks that hit 52-week highs &amp; rallied up to 16% in a month
-  State Bank of India, Larsen &amp; Toubro, Indus Towers, and Lupin reached 52-week highs.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sbi-lampt-among-4-stocks-that-hit-52-week-highs-amp-rallied-up-to-16-in-a-month/slideshow/128465103.cms
+- Ahead of Market: 10 things that will decide stock market action on Wednesday
+  Indian benchmarks extended gains for a second session, led by IT, consumer and financial stocks. Nifty faced resistance near its 50DMA, while easing volatility
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/128471072.cms
 
-- Turnaround Story: 7 stocks shift from loss to profit in December '25 quarter
-  Seven large-cap companies recorded a “Turnaround Story YoY,” moving from net losses to profits in December ’
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/turnaround-story-7-stocks-shift-from-loss-to-profit-in-december-25-quarter/slideshow/128465172.cms
-
-- First GIFT City IPO set to open in March as XED files RHP to raise $12 million
-  XED Executive Development is set to launch GIFT City’s first-ever IPO, aiming to raise $12 million through a dollar-denominated listing. The offering marks a key milestone for IFSC�
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/first-gift-city-ipo-set-to-open-in-march-as-xed-files-rhp-to-raise-12-million/articleshow/128464699.cms
-
-- Fractal Analytics rebounds from weak debut; shares jump 4% as brokerage initiates coverage with 40% upside call
-  Prabhudas Lilladher initiated coverage with a 40% upside target. The brokerage cited strong account mining, steady growth across tiers, deep AI capabilities, and improving prospects for Fractal Alpha as
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fractal-analytics-rebounds-from-weak-debut-shares-jump-4-as-brokerage-initiates-coverage-with-40-upside-call/articleshow/128464636.cms
-
-- ​Gainers &amp; Losers: Fractal Analytics, Infosys among 6 stocks in limelight on Tuesday​
-  The BSE Sensex and Nifty 50 edged higher as select counters like Infosys and Fractal Analytics saw strong action. Indian benchmarks
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-fractal-analytics-infosys-among-6-stocks-that-stole-limelight-on-tuesday/slideshow/128463653.cms
-
-- In farewell note, Muhammad Yunus leaves message on India's '7 sisters' for new Bangladesh govt | India News - Hindustan Times
-  Muhammad Yunus leaves message on India's '7 sisters' for new Bangladesh go
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNS2ZNRk80TnJ5a0NmdFJOSE5yWTZndmZrN3lUN3FuU0U5N090SG8wVlZBVmVXMkhUVGoyNG4xR2xCd1IwZ3NFTFhPcUVvR0hrcFYxWTJWN0VLdDBYeHFLbHpTNnhGQVY5cTd5dEpYUjNDcFdTbWUycW83YlJaeGozTWZkWW1rLTMxaldnbnNZU2JTMDNBN1o3bnI0UFgyMWlIWGpYel9kWlUycEdIZVp6TWJGeEZsVVB4OUZzV09Qb0ZOdnRfQXVGamxfbUdnMkpMTG5PdGhVR01kNnVfU3ozaGFOZS14bXliaU5vaFJlbXVSYjhXTU1MX2NUd0_SAYICQVVfeXFMUEItNGV4SHota2xESDJsa2VxSFJTRkZ6Z0ZHVGl5M1RSNjkxdFVGaU1pZk5sdm9mMTRzZjIwVlMzM0pkUjRHNWdXLVJuaURoUXkxVm9NUVhEakFFYVd4aFRUbHNnMGgxWm5uRFBtemNzbjgzWU41NGJNOFJWWGNhZ2I0Zkt3N0t2OHpOek9lNXB4ZGxxTnVCWjlWbHprS3lUQkVmU2prY0o4REhORURoa0pJdjZsdGtTTWtNclJrcHhZSlJfdzRKbjFQZ2NfMWNiRWZ0cldSSHFBTk5IYVlqNzh3cjBxM29kOUtBa1VtaW5nZ3JoWk5pYlBRS1cyU29LaENB?oc=5
+- US Stocks | Raspberry Pi shares soar 40% as CEO buys stock, AI chatter builds
+  Shares in Raspberry Pi rose as much as ​42% on Tuesday in a record two-day rally. CEO Eben Upton bought stock in the beaten-down UK computer hardware firm.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/raspberry-pi-soars-40-as-ceo-buys-stock-ai-chatter-builds/articleshow/128470430.cms
 
 - Under Fire At Home, Muhammad Yunus Brings Up China, India's '7 Sisters' In Exit Speech - NDTV
   " target="_blank">Under Fire At Home, Muhammad
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTktMjJzZkowOGQtVm1mZ0UwaWZ5LTZWVmF6R1dWTU1pdlp5ZEVxZnZ4NmZpVFhDd1p4S051Yl90YXFWdk9ncWZIdGNCbnM4T2R4X0gwNkFpS3l1bTJiYmJ1eHNvRzh1Qk0xUHdKdUQ5TTRaeV9ORUszbU5lU2I0cFVnV1B4cTNJZERqd09Wcy11cEtjeUYtQTRicVQ2a1FPa1cxRlNYSnRab3Iwd2lqNjhtblpaWVlXTU9mbFFWNVEtck5YUE95M3NLTlFOdTQtTmxZ0gHbAUFVX3lxTE9jSEE0dFR1TV9MUFRPbzQ0Mkw1emo2aUQtLXhfN0xkQ18wLWJKWmN5VE50eERHdHBGenNCNVlyYUgyM1pubGpTbDBKS0pTQllvSGR1NzVhVzZmUW5zZGNkN0RuRGYxcjJ3ZjhXeGREOEpxTnJzc3QxT3lab29laEd5VEExUHA4dVlydDUyVm9lLXRPS2NNdFpsd0NIWUFvYjJObFNNUl9PZFlWM29lMUFQYjlrRG5faHVNdEFsakxzRGp1WFdkbDBlWEpoR3d2cTk0MS05SEkxaWsycw?oc=5
 
-- Yunus Rakes Up India's 'Seven Sisters' In Exit Speech, Hails Bangladesh's Ties With China - Times of India
-  " target="_blank">Yunus Rakes Up India
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZFloVWFPWllmZjdaOTRPRjVWRnU1VWpYLWRGRUxOMkRSMnlYenlKTFJnRnVHdnE2U0V1TkxYSUkzV3BSUDIxTjFWZHdHWE9LUXpQbHlmdEI1bE16MmRvbVlJU0s3RHNWbDFsbHNRNERTaGMyU1NCMFlSRThzd0hQVkUwY3JPbDZxVzdlRXhzLXp6QTh6WVNXQi1VNVhKbXpURk1vdGw2eFJnZHlueC0wdWRXaEtfRDYxTEp2dDRDSWFRa3E1bGdoVC1odUVTaE5fTHc0c0FYc2VWQnFpaVg0M2VrRG1majQ4azhmSNIB8gFBVV95cUxQQVZzNGVwYnA4WXBGcTlYRDBjYW1wWUx5ak01bzBOVTJIOFBOY2NvLXB3d1g1TkoyNHpNV1NVbml4SGJJNk9VcmxzSGgtcUp2OTY4S0FlZkttZG1vZmtTQUpOeDVIY0ZnVlR3dEp3XzdSa1FmQWtmTG1rS3hrOTZQRDZGUmVrNlk2MzNDVHpHZHUtdUdWVTJqZzJSb2dqUFdnRERDbnNNT0ZtU3RnX2tpSXpRbG9GZWRtdWd6MEtkNjQ1US0ycWwwWFBwR281eEhtWExvWHhyV3JyMnVZNjFpWkhqNkQ3NEFoNTVyTmIzUlR1QQ?oc=5
+- School assembly news headlines, February 16: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 16: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVklBWGtwOUdxejVtclN5dmhqQWpDVmJFOC1CWU5nUjhEWU1jaXFSbTdCQzJJeXFtUG9nSWdOcVl1MWhxWFI1VWlKMlIzaFJ4TGViVTRYMDdHRmZlQ0hHOS00Z05DY054TWRiX3dLZzYtdGtkNjZ2OWFnbmJYWk1DX040U2JOMkJlUUdmeE1WNGVHTmgtT2dtaGNqQWFXZ3k4b3VQS25DRF9yM3BJQVF1ejJpNHdfc1hIT1NJT01YMGtPRjB3ZFJaVDdfWW4xMDF5a2dNYVFfRnUxYklORjc2NDhfYUJCZ9IB6wFBVV95cUxPenBqUzBlTFYzMFVhQklrOFh4ZFBXSUc1bnV0ODhqc1VCTlVyNkR4dndpRGlXc3ZWUDA0OUZhZHB3Y3FCRXNBUmFsbUtBVEJFN0xOVk5CS0NHZTVodnROZlFnRUNkVWlXOURLVXVnRF9WVXBIa21RbWhZN21QeHh2aVBCOHgxWnhKTFJOa0JYN0puQ1l6VVFfWE10ZV9hT0o3THgtSmxuOE8xSFJpMi1ERFA0Y0lHeVIyTzJzcnE0TDExSzcyYjRqODA3SWhKaWxoWU43U3R1SFdSNFY2MXlvT3VxVnZIaTEtTmRz?oc=5
 
-- AI Summit Asserts India's Global Ambitions After Tough Year - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOOVo4WFVYaUhXQ3JUWU9nUElWY0V4U3Q2OHJ4Z2VRaWtLRkQ4VnJJazN5QUdFSWNHakVESGpKLXdCQVVTV0JqWGQxU0VYNy1PanhIRUcyYVBOcFdQR1FKMHVFZmNoZVFfZn
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOOVo4WFVYaUhXQ3JUWU9nUElWY0V4U3Q2OHJ4Z2VRaWtLRkQ4VnJJazN5QUdFSWNHakVESGpKLXdCQVVTV0JqWGQxU0VYNy1PanhIRUcyYVBOcFdQR1FKMHVFZmNoZVFfZndTUHNfRzVsZkhCb0k5UFJMc1EwRFlSMS1QNHBGRlQ3NzhHNWgxMVdkaXBMTHVTUDg2YjFTU21vY2RsMV9WOGw5VURFUEFIa3dybFFhc3ptdXJsYUNvNHN1SDhEN1HSAc4BQVVfeXFMTUNzRWNIZVdiV2wzdlNGQ2xDNFZDbXBDOFNtWUFXYlZPY05hbXZYaE1MVjBYT1FhRC1KV1ZwTWxONWlCMGF2SGJ5M1NnOW5NMnlFWVQ5VURYSTM1bGZLeC1keml4OWViVW91RmE1clZQYlQ1YmtaUU8yV0FRbUQ0MzdOSm9lckNnZFh1Skh4VERSbDJaNEZjTGNRYkZnQ3g0VXZfQXJ2RlRaMmNTU01SMXdXcFItVlM0X0t6LXMxT21wMnMzNFJMNU5kcEQ5bGc?oc=5
+- Indian-origin USA cricketers worship at Tirumala - Times of India
+  Indian-origin USA crick
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOYzdGLXBYN2k2dE00b0dZOEZteTlaQkZaaVNtQWd6MW5NSjdyLXRsZFdFN1hLcHNQOUhXdlN6cWIya0hLYjFmcTVaUTRSUDlGQXVBQ2ZwYmRhQzZKNUFaV0l5SHFZcGF0eHZySUhhYnIyUmNCNURkc1c0R3Bob29lMkdKNE5Wb2RONmFuUmhtOXdMeE8yd3lWdnEzSUEzQWk2RnJYRjBSRTlhYXZOV1A3Ykl0N2V3cExKUlMzQ3AyNHJTaXFm0gHKAUFVX3lxTE53S2tKa05rYmNuYVVkMGZfaUdqWVdPcFVRM19EVkJoV2tBTkNGRWdhV2t1VnpyZ1A2OUVidmp1UlFNLURGMnRFZUZBN3cwZ0Z5d243MEZsRFg0cWpxckhOQkxURmtkUWtjTGVURDhaYlRIZmNkSHcxVkViUE5yRnRRLVA4X0tFZ3dYamo4dEkxNHM2YjhERGh4U3lJek5CRDJERGo4VzZxOFNPZEY3dUVTSmIzNHBhNXFHVjg5ZWhPYW5xYTRuUTBtQ2c?oc=5
 
-- Anthropic opens Bengaluru office and announces new partnerships across India - Anthropic
-  Anthropic opens Bengaluru office and
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE0wckxXSHp1UXlwOGhNNVM5eXhzWEQyaTFMUzJZZDNPOU1fSDA2RlpzcFpEMXVXQW5kTjNGZzZOZG5ySWE0dko5X3lUVzdJems2S29BZlJrN1pwelFBVzJGWFgyWFRaYXJqTUQzUVhTaERVckZTSjBDRlhjLXNRUQ?oc=5
+- India's AI summit: Delegates complain of long queues and confusion on opening day - BBC
+  India’s AI Impact Summit, hosts leaders, tech giants, tech. leaders, delegates complain of long queues and confusion on opening day.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NUpwWEZHM2k0bkNzd2hUbDVDRzRTa0JjRThCNWpBSlBwM1ZheEs0NmNVVXNkdmQ4OGdRa01fY0NXUmJUSG5aLUk1R2pPY0VGeFhXR2dka2xrdw?oc=5
 
-- In farewell note, Muhammad Yunus leaves message on India's '7 sisters' for new Bangladesh govt | India News - Hindustan Times
-  Muhammad Yunus leaves message on India's '7 sisters' for new Bangladesh go
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNS2ZNRk80TnJ5a0NmdFJOSE5yWTZndmZrN3lUN3FuU0U5N090SG8wVlZBVmVXMkhUVGoyNG4xR2xCd1IwZ3NFTFhPcUVvR0hrcFYxWTJWN0VLdDBYeHFLbHpTNnhGQVY5cTd5dEpYUjNDcFdTbWUycW83YlJaeGozTWZkWW1rLTMxaldnbnNZU2JTMDNBN1o3bnI0UFgyMWlIWGpYel9kWlUycEdIZVp6TWJGeEZsVVB4OUZzV09Qb0ZOdnRfQXVGamxfbUdnMkpMTG5PdGhVR01kNnVfU3ozaGFOZS14bXliaU5vaFJlbXVSYjhXTU1MX2NUd0_SAYICQVVfeXFMUEItNGV4SHota2xESDJsa2VxSFJTRkZ6Z0ZHVGl5M1RSNjkxdFVGaU1pZk5sdm9mMTRzZjIwVlMzM0pkUjRHNWdXLVJuaURoUXkxVm9NUVhEakFFYVd4aFRUbHNnMGgxWm5uRFBtemNzbjgzWU41NGJNOFJWWGNhZ2I0Zkt3N0t2OHpOek9lNXB4ZGxxTnVCWjlWbHprS3lUQkVmU2prY0o4REhORURoa0pJdjZsdGtTTWtNclJrcHhZSlJfdzRKbjFQZ2NfMWNiRWZ0cldSSHFBTk5IYVlqNzh3cjBxM29kOUtBa1VtaW5nZ3JoWk5pYlBRS1cyU29LaENB?oc=5
-
-- Under Fire At Home, Muhammad Yunus Brings Up China, India's '7 Sisters' In Exit Speech - NDTV
-  " target="_blank">Under Fire At Home, Muhammad
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTktMjJzZkowOGQtVm1mZ0UwaWZ5LTZWVmF6R1dWTU1pdlp5ZEVxZnZ4NmZpVFhDd1p4S051Yl90YXFWdk9ncWZIdGNCbnM4T2R4X0gwNkFpS3l1bTJiYmJ1eHNvRzh1Qk0xUHdKdUQ5TTRaeV9ORUszbU5lU2I0cFVnV1B4cTNJZERqd09Wcy11cEtjeUYtQTRicVQ2a1FPa1cxRlNYSnRab3Iwd2lqNjhtblpaWVlXTU9mbFFWNVEtck5YUE95M3NLTlFOdTQtTmxZ0gHbAUFVX3lxTE9jSEE0dFR1TV9MUFRPbzQ0Mkw1emo2aUQtLXhfN0xkQ18wLWJKWmN5VE50eERHdHBGenNCNVlyYUgyM1pubGpTbDBKS0pTQllvSGR1NzVhVzZmUW5zZGNkN0RuRGYxcjJ3ZjhXeGREOEpxTnJzc3QxT3lab29laEd5VEExUHA4dVlydDUyVm9lLXRPS2NNdFpsd0NIWUFvYjJObFNNUl9PZFlWM29lMUFQYjlrRG5faHVNdEFsakxzRGp1WFdkbDBlWEpoR3d2cTk0MS05SEkxaWsycw?oc=5
-
-- Yunus Rakes Up India's 'Seven Sisters' In Exit Speech, Hails Bangladesh's Ties With China - Times of India
-  " target="_blank">Yunus Rakes Up India
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZFloVWFPWllmZjdaOTRPRjVWRnU1VWpYLWRGRUxOMkRSMnlYenlKTFJnRnVHdnE2U0V1TkxYSUkzV3BSUDIxTjFWZHdHWE9LUXpQbHlmdEI1bE16MmRvbVlJU0s3RHNWbDFsbHNRNERTaGMyU1NCMFlSRThzd0hQVkUwY3JPbDZxVzdlRXhzLXp6QTh6WVNXQi1VNVhKbXpURk1vdGw2eFJnZHlueC0wdWRXaEtfRDYxTEp2dDRDSWFRa3E1bGdoVC1odUVTaE5fTHc0c0FYc2VWQnFpaVg0M2VrRG1majQ4azhmSNIB8gFBVV95cUxQQVZzNGVwYnA4WXBGcTlYRDBjYW1wWUx5ak01bzBOVTJIOFBOY2NvLXB3d1g1TkoyNHpNV1NVbml4SGJJNk9VcmxzSGgtcUp2OTY4S0FlZkttZG1vZmtTQUpOeDVIY0ZnVlR3dEp3XzdSa1FmQWtmTG1rS3hrOTZQRDZGUmVrNlk2MzNDVHpHZHUtdUdWVTJqZzJSb2dqUFdnRERDbnNNT0ZtU3RnX2tpSXpRbG9GZWRtdWd6MEtkNjQ1US0ycWwwWFBwR281eEhtWExvWHhyV3JyMnVZNjFpWkhqNkQ3NEFoNTVyTmIzUlR1QQ?oc=5
-
-- AI Summit Asserts India's Global Ambitions After Tough Year - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOOVo4WFVYaUhXQ3JUWU9nUElWY0V4U3Q2OHJ4Z2VRaWtLRkQ4VnJJazN5QUdFSWNHakVESGpKLXdCQVVTV0JqWGQxU0VYNy1PanhIRUcyYVBOcFdQR1FKMHVFZmNoZVFfZn
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOOVo4WFVYaUhXQ3JUWU9nUElWY0V4U3Q2OHJ4Z2VRaWtLRkQ4VnJJazN5QUdFSWNHakVESGpKLXdCQVVTV0JqWGQxU0VYNy1PanhIRUcyYVBOcFdQR1FKMHVFZmNoZVFfZndTUHNfRzVsZkhCb0k5UFJMc1EwRFlSMS1QNHBGRlQ3NzhHNWgxMVdkaXBMTHVTUDg2YjFTU21vY2RsMV9WOGw5VURFUEFIa3dybFFhc3ptdXJsYUNvNHN1SDhEN1HSAc4BQVVfeXFMTUNzRWNIZVdiV2wzdlNGQ2xDNFZDbXBDOFNtWUFXYlZPY05hbXZYaE1MVjBYT1FhRC1KV1ZwTWxONWlCMGF2SGJ5M1NnOW5NMnlFWVQ5VURYSTM1bGZLeC1keml4OWViVW91RmE1clZQYlQ1YmtaUU8yV0FRbUQ0MzdOSm9lckNnZFh1Skh4VERSbDJaNEZjTGNRYkZnQ3g0VXZfQXJ2RlRaMmNTU01SMXdXcFItVlM0X0t6LXMxT21wMnMzNFJMNU5kcEQ5bGc?oc=5
-
-- Anthropic opens Bengaluru office and announces new partnerships across India - Anthropic
-  Anthropic opens Bengaluru office and
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE0wckxXSHp1UXlwOGhNNVM5eXhzWEQyaTFMUzJZZDNPOU1fSDA2RlpzcFpEMXVXQW5kTjNGZzZOZG5ySWE0dko5X3lUVzdJems2S29BZlJrN1pwelFBVzJGWFgyWFRaYXJqTUQzUVhTaERVckZTSjBDRlhjLXNRUQ?oc=5
-
-- In farewell note, Muhammad Yunus leaves message on India's '7 sisters' for new Bangladesh govt | India News - Hindustan Times
-  Muhammad Yunus leaves message on India's '7 sisters' for new Bangladesh go
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNS2ZNRk80TnJ5a0NmdFJOSE5yWTZndmZrN3lUN3FuU0U5N090SG8wVlZBVmVXMkhUVGoyNG4xR2xCd1IwZ3NFTFhPcUVvR0hrcFYxWTJWN0VLdDBYeHFLbHpTNnhGQVY5cTd5dEpYUjNDcFdTbWUycW83YlJaeGozTWZkWW1rLTMxaldnbnNZU2JTMDNBN1o3bnI0UFgyMWlIWGpYel9kWlUycEdIZVp6TWJGeEZsVVB4OUZzV09Qb0ZOdnRfQXVGamxfbUdnMkpMTG5PdGhVR01kNnVfU3ozaGFOZS14bXliaU5vaFJlbXVSYjhXTU1MX2NUd0_SAYICQVVfeXFMUEItNGV4SHota2xESDJsa2VxSFJTRkZ6Z0ZHVGl5M1RSNjkxdFVGaU1pZk5sdm9mMTRzZjIwVlMzM0pkUjRHNWdXLVJuaURoUXkxVm9NUVhEakFFYVd4aFRUbHNnMGgxWm5uRFBtemNzbjgzWU41NGJNOFJWWGNhZ2I0Zkt3N0t2OHpOek9lNXB4ZGxxTnVCWjlWbHprS3lUQkVmU2prY0o4REhORURoa0pJdjZsdGtTTWtNclJrcHhZSlJfdzRKbjFQZ2NfMWNiRWZ0cldSSHFBTk5IYVlqNzh3cjBxM29kOUtBa1VtaW5nZ3JoWk5pYlBRS1cyU29LaENB?oc=5
-
-- Under Fire At Home, Muhammad Yunus Brings Up China, India's '7 Sisters' In Exit Speech - NDTV
-  " target="_blank">Under Fire At Home, Muhammad
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTktMjJzZkowOGQtVm1mZ0UwaWZ5LTZWVmF6R1dWTU1pdlp5ZEVxZnZ4NmZpVFhDd1p4S051Yl90YXFWdk9ncWZIdGNCbnM4T2R4X0gwNkFpS3l1bTJiYmJ1eHNvRzh1Qk0xUHdKdUQ5TTRaeV9ORUszbU5lU2I0cFVnV1B4cTNJZERqd09Wcy11cEtjeUYtQTRicVQ2a1FPa1cxRlNYSnRab3Iwd2lqNjhtblpaWVlXTU9mbFFWNVEtck5YUE95M3NLTlFOdTQtTmxZ0gHbAUFVX3lxTE9jSEE0dFR1TV9MUFRPbzQ0Mkw1emo2aUQtLXhfN0xkQ18wLWJKWmN5VE50eERHdHBGenNCNVlyYUgyM1pubGpTbDBKS0pTQllvSGR1NzVhVzZmUW5zZGNkN0RuRGYxcjJ3ZjhXeGREOEpxTnJzc3QxT3lab29laEd5VEExUHA4dVlydDUyVm9lLXRPS2NNdFpsd0NIWUFvYjJObFNNUl9PZFlWM29lMUFQYjlrRG5faHVNdEFsakxzRGp1WFdkbDBlWEpoR3d2cTk0MS05SEkxaWsycw?oc=5
-
-- Yunus Rakes Up India's 'Seven Sisters' In Exit Speech, Hails Bangladesh's Ties With China - Times of India
-  " target="_blank">Yunus Rakes Up India
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZFloVWFPWllmZjdaOTRPRjVWRnU1VWpYLWRGRUxOMkRSMnlYenlKTFJnRnVHdnE2U0V1TkxYSUkzV3BSUDIxTjFWZHdHWE9LUXpQbHlmdEI1bE16MmRvbVlJU0s3RHNWbDFsbHNRNERTaGMyU1NCMFlSRThzd0hQVkUwY3JPbDZxVzdlRXhzLXp6QTh6WVNXQi1VNVhKbXpURk1vdGw2eFJnZHlueC0wdWRXaEtfRDYxTEp2dDRDSWFRa3E1bGdoVC1odUVTaE5fTHc0c0FYc2VWQnFpaVg0M2VrRG1majQ4azhmSNIB8gFBVV95cUxQQVZzNGVwYnA4WXBGcTlYRDBjYW1wWUx5ak01bzBOVTJIOFBOY2NvLXB3d1g1TkoyNHpNV1NVbml4SGJJNk9VcmxzSGgtcUp2OTY4S0FlZkttZG1vZmtTQUpOeDVIY0ZnVlR3dEp3XzdSa1FmQWtmTG1rS3hrOTZQRDZGUmVrNlk2MzNDVHpHZHUtdUdWVTJqZzJSb2dqUFdnRERDbnNNT0ZtU3RnX2tpSXpRbG9GZWRtdWd6MEtkNjQ1US0ycWwwWFBwR281eEhtWExvWHhyV3JyMnVZNjFpWkhqNkQ3NEFoNTVyTmIzUlR1QQ?oc=5
-
-- AI Summit Asserts India's Global Ambitions After Tough Year - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOOVo4WFVYaUhXQ3JUWU9nUElWY0V4U3Q2OHJ4Z2VRaWtLRkQ4VnJJazN5QUdFSWNHakVESGpKLXdCQVVTV0JqWGQxU0VYNy1PanhIRUcyYVBOcFdQR1FKMHVFZmNoZVFfZn
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOOVo4WFVYaUhXQ3JUWU9nUElWY0V4U3Q2OHJ4Z2VRaWtLRkQ4VnJJazN5QUdFSWNHakVESGpKLXdCQVVTV0JqWGQxU0VYNy1PanhIRUcyYVBOcFdQR1FKMHVFZmNoZVFfZndTUHNfRzVsZkhCb0k5UFJMc1EwRFlSMS1QNHBGRlQ3NzhHNWgxMVdkaXBMTHVTUDg2YjFTU21vY2RsMV9WOGw5VURFUEFIa3dybFFhc3ptdXJsYUNvNHN1SDhEN1HSAc4BQVVfeXFMTUNzRWNIZVdiV2wzdlNGQ2xDNFZDbXBDOFNtWUFXYlZPY05hbXZYaE1MVjBYT1FhRC1KV1ZwTWxONWlCMGF2SGJ5M1NnOW5NMnlFWVQ5VURYSTM1bGZLeC1keml4OWViVW91RmE1clZQYlQ1YmtaUU8yV0FRbUQ0MzdOSm9lckNnZFh1Skh4VERSbDJaNEZjTGNRYkZnQ3g0VXZfQXJ2RlRaMmNTU01SMXdXcFItVlM0X0t6LXMxT21wMnMzNFJMNU5kcEQ5bGc?oc=5
-
-- Anthropic opens Bengaluru office and announces new partnerships across India - Anthropic
-  Anthropic opens Bengaluru office and
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE0wckxXSHp1UXlwOGhNNVM5eXhzWEQyaTFMUzJZZDNPOU1fSDA2RlpzcFpEMXVXQW5kTjNGZzZOZG5ySWE0dko5X3lUVzdJems2S29BZlJrN1pwelFBVzJGWFgyWFRaYXJqTUQzUVhTaERVckZTSjBDRlhjLXNRUQ?oc=5
+- PM Modi says India has evolved into confident and credible voice of Global South - News On AIR
+  PM Modi says India has evolved into confident and credible voice of Global South
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNZVpMTWZOUDJVSFlaQ0VPYWVhc040bDhIVl9CeTlhbTllVHJPcEFjU0lsOTVodkFJT1BDQXl0S2M3Ym9aX2dkN2E3bUxVcjR1WVZhMXhxeGpDRnZ4c2RRUFRveEhURjBnTUxxSS02QWljTE0zclZlRTlOOGtLNkNSMVBSZlRyWEtIdjkzbW9vTnk5U2ZPci1uMTFSWF94cmtkNGt6Q240QnhXNDE0US1N?oc=5
 
 
-_Last updated: 2026-02-17 12:56:40 UTC_
+_Last updated: 2026-02-17 18:55:15 UTC_
