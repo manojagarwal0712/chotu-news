@@ -1,224 +1,184 @@
 # 📰 Daily News Summaries
 
-- Tarique Rahman takes charge in Dhaka, PM sends India invitation
+- Why a massive Arunachal power project got an 11-year green nod extension
   
-  🔗 https://indianexpress.com/article/india/tarique-rahman-takes-charge-in-dhaka-pm-sends-india-invitation-10537817/
+  🔗 https://indianexpress.com/article/india/why-massive-arunachal-power-project-green-nod-extension-10538269/
 
-- In India-French defence dialogue, push for Rafale indigenous content, MRO facilities for aero engines
+- WATCH: Cheetah Gamini delivers 3 cubs at Kuno National Park, India’s count rises to 38
   
-  🔗 https://indianexpress.com/article/india/push-for-rafale-indigenous-content-mro-facilities-for-aero-engines-10537818/
+  🔗 https://indianexpress.com/article/india/video-cheetah-gamini-new-cubs-at-kuno-national-park-india-count-rises-to-38-10538216/
 
-- India and France upgrade ties to strategic partnership
+- After Chinese robot debacle, govt asks Galgotias University to vacate India AI Expo
   
-  🔗 https://indianexpress.com/article/india/india-and-france-upgrade-ties-to-strategic-partnership-10537816/
+  🔗 https://indianexpress.com/article/india/chinese-robot-galgotias-university-ai-expo-controversy-10538237/
 
-- ‘Not party stand’: Venugopal clears air over chatter in Congress over power sharing in Tamil Nadu
+- Gold Today Rate, February 18: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/not-party-stand-venugopal-clears-air-over-chatter-in-congress-over-power-sharing-in-tamil-nadu-10537833/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-february-18-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10538210/
 
-- ‘We are working on safe and trusted AI for the people’: IIT Madras Director Veezhinathan Kamakoti
+- Rajya Sabha elections on March 16: From Sharad Pawar to Priyanka Chaturvedi, here are the MPs whose terms end in April
   
-  🔗 https://indianexpress.com/article/india/we-are-working-on-safe-and-trusted-ai-for-the-people-veezhinathan-kamakoti-director-iit-madras-10537770/
+  🔗 https://indianexpress.com/article/india/elections-rajya-sabha-vacant-10-states-date-ec-10538145/
+
+- ‘Low latency critical for enterprise-grade voice AI assistants’: Gnani.ai CEO Ganesh Gopalan
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/low-latency-critical-enterprise-voice-gnani-ai-impact-summit-10538285/
+
+- Anthropic launches Claude Sonnet 4.6, brings frontier-grade AI to free users
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-launches-claude-sonnet-4-6-brings-frontier-grade-ai-to-free-users-10538104/
+
+- YouTube restores service after brief streaming disruption
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/youtube-restores-service-after-brief-streaming-disruption-10538037/
+
+- Warner Bros rejects revised Paramount bid, but remains open to a final offer
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/warner-bros-rejects-revised-paramount-bid-but-remains-open-to-a-final-offer-10538036/
 
 - Elon Musk, Tim Cook flag looming ‘global crisis’ amid AI-driven chip surge
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/elon-musk-tim-cook-flag-looming-global-crisis-amid-ai-driven-chip-surge-10537331/
 
-- AWS, Yotta to support govt apps and services during peak demand with hybrid ‘Outposts’
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/aws-yotta-hybrid-outposts-nic-data-centres-workloads-10537317/
+- Indian firm Yotta to build $2 billion data centre with Nvidia's Blackwell chips — one of Asia's largest AI hubs
+  The AI supercluster by Yotta and Nvidia is expected to go live by August. It will be deployed at the Indian firm's data centre campus near capital New Delhi
+  🔗 https://www.livemint.com/companies/news/indian-firm-yotta-to-build-2-billion-data-centre-with-nvidias-blackwell-chips-one-of-asias-largest-ai-hubs-11771389615200.html
 
-- Nothing Phone (4a) series coming to India on March 5: Price, specs and other details
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/nothing-phone-4a-pro-series-india-launch-march-5-price-specs-10536983/
+- Palantir joins growing list of companies relocating to Florida. Could Miami be next Silicon Valley?
+  Palantir Technologies is relocating its headquarters from Denver to Miami. The move follows billionaire migration and ongoing protests in Colorado over Palantir’s
+  🔗 https://www.livemint.com/companies/news/palantir-joins-growing-list-of-companies-relocating-to-florida-is-miami-becoming-next-silicon-valley-11771384333022.html
 
-- iQOO 15R to launch on 24 February with 7600mAh battery and AI boost
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/iqoo-15r-to-launch-on-24-february-with-7600mah-battery-and-ai-boost-10536968/
+- THIS fund's listing can give retail investors access to SpaceX, OpenAI, Anthropic and Anduril — Check details
+  Powerlaw Corp. owns stakes in some of the biggest private AI, defense and space companies. Retail investors have a chance to gain access to SpaceX,
+  🔗 https://www.livemint.com/companies/news/powerlaw-corp-fund-ny-stock-listing-give-retail-investors-access-to-shares-spacex-openai-anthropic-anduril-check-details-11771382104253.html
 
-- Qualcomm showcases Dragonwing IQ-10 chip for humanoid robots at AI summit
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/qualcomm-showcases-dragonwing-iq-10-chip-for-humanoid-robots-at-ai-summit-10536967/
+- Warren Buffett's Berkshire cuts Amazon stake by 75%, bets $351.7 million on New York Times — Check what was adjusted
+   Berkshire Hathaway has reduced its Amazon stake by over 75% and invested $351.7 million in the New York Times Co. The company also adjusted its positions in Bank of America and Apple
+  🔗 https://www.livemint.com/companies/news/warren-buffett-berkshire-hathaway-amazon-stake-cut-75-pc-new-york-times-adjusts-apple-bank-of-america-more-chevron-chubb-11771378250293.html
 
 - Bhavish Aggarwal’s flip-flops raise questions about Ola Electric’s future
   Since April last year, founder Bhavish Aggarwal and Ola Electric have changed their stance on the capacity of the company’s gigafactory. The number of
   🔗 https://www.livemint.com/companies/bhavish-aggarwal-ola-electric-mobility-future-gigafactory-turnaround-11771316690178.html
 
-- Stable Money raises $25 million led by Peak XV, targets tier-2 expansion
-  The Bengaluru-based fixed-income investment platform plans offline expansion in smaller cities.
-  🔗 https://www.livemint.com/companies/start-ups/stable-money-funding-expansion-fixed-income-peak-xv-ipo-11771315413304.html
+- Small-cap IT stock jumps over 6% after these AI data centre and acquisition updates
+  Blue Cloud Softech Solutions share price has rallied 23% in one month, and has fallen 29% in six months. The small-cap stock has
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-it-stock-jumps-over-6-after-these-ai-data-centre-and-acquisition-updates-11771396214175.html
 
-- Netflix grants Warner Bros seven-day waiver to reopen Paramount Skydance deal talks
-  Warner Bros. Discovery granted seven-day waiver to negotiate with Paramount Skydance. WBD sets a March 20 shareholder vote and
-  🔗 https://www.livemint.com/companies/news/netflix-grants-warner-bros-discovery-seven-day-waiver-to-reopen-paramount-skydance-deal-talks-11771373275233.html
+- Indian stock market: Is Dalal Street on the cusp of a trend reversal? Explained with 5 factors
+  Experts suggest that a trend reversal may be on the horizon. With fair valuations in large caps, improving earnings, and strong domestic growth projections, the outlook for Indian equities
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-is-dalal-street-on-the-cusp-of-a-trend-reversal-explained-with-5-factors-sensex-today-nifty-50-11771390297261.html
 
-- SBI mulls raising stake in investment banking JV to 51% amid capital market boom
-  SBI’s 20% stake in Investec Capital Services (India) Pvt Ltd is
-  🔗 https://www.livemint.com/companies/sbi-mulls-raising-stake-in-investment-banking-jv-to-51-amid-capital-market-boom-11771324605790.html
+- IT stock Ramco Systems rises after the launch of conversational AI agent platform
+  Ramco Systems share price surged 4.3% to  ₹540.50 following the launch of Chia, an AI agent platform. The IT stock has staged a strong comeback this month
+  🔗 https://www.livemint.com/market/stock-market-news/it-stock-ramco-systems-rise-after-the-launch-of-conversational-ai-agent-platform-11771394837273.html
 
-- Meta-NVIDIA ink massive multiyear deal for next-gen GPUs, standalone CPUs, and AI for WhatsApp
-   Meta and Nvidia have announced a multiyear partnership to expand AI infrastructure. Meta will use Nvidia Grace CPUs,
-  🔗 https://www.livemint.com/companies/news/meta-expands-nvidia-deal-to-use-millions-of-ai-chips-in-data-center-build-out-including-standalone-cpus-whatsapp-ai-11771371973111.html
+- Rising US debt could test dollar’s reserve currency status, warns Ray Dalio
+  Dalio: Debt problems are not merely accounting issues — they are confidence issues. When debt expands rapidly and governments resort to monetary financing, investors begin to question the long
+  🔗 https://www.livemint.com/market/stock-market-news/rising-us-debt-could-test-dollar-s-reserve-currency-status-warns-ray-dalio-11771393653775.html
 
-- Stocks to watch: Bharti Airtel, Eternal, BHEL, Adani Enterprises among 10 shares in focus today; full list here
-  On Tuesday, Sensex closed at 83,450.96, up 174 points, or 0.21
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-bharti-airtel-eternal-bhel-adani-enterprises-among-10-shares-in-focus-today-full-list-here-11771373145091.html
+- Ola Electric share price rebounds 5% on Bombay HC relief for CEO Bhavish Aggarwal, low-level buying
+  Ola Electric share price rebounded 5% to  ₹
+  🔗 https://www.livemint.com/market/stock-market-news/ola-electric-share-price-rebounds-5-on-bombay-hc-relief-for-ceo-bhavish-aggarwal-low-level-buying-11771391937328.html
 
-- Gold, silver rates today: Gold prices trade at $4,900/oz, silver prices near $72. Where are metals headed?
-  Spot gold prices were trading at $4,901 per ounce during Asian trading hours on Wednesday. Spot silver prices fell over 1
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-prices-trade-at-4-900-oz-silver-prices-near-72-where-are-metals-headed-11771374898282.html
+- JGB yields edge up amid divided view on fiscal expansion, BOJ rate hike
+  Super-long bond yields had previously surged due to spending concerns. Recent weak outcomes in bond-buying operations also impacted sentiment in shorter-term maturities.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/jgb-yields-edge-up-amid-divided-view-on-fiscal-expansion-boj-rate-hike/articleshow/128495624.cms
 
-- Indian stock market: 8 key things that changed for market overnight- Gift Nifty, Iran-US talks, oil prices to gold rates
-  Gift Nifty was trading around 25,762 level, a premium of nearly 23 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-8-key-things-that-changed-for-market-overnight-gift-nifty-iran-us-talks-oil-prices-to-gold-rates-11771347157557.html
+- Global Markets | Australian shares rise as NAB hits record, NZ equities jump
+  The ASX 200 reclaimed the 9,000 mark, buoyed by strong bank earnings. New Zealand's market experienced its best day in over nine months.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-rise-as-nab-hits-record-nz-equities-jump/articleshow/128495559.cms
 
-- Stocks to buy: Raja Venkatraman's recommends three stocks for 18 February
-  Market expert Raja Venkatraman shares his three top stock picks to buy today, 18 February.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-three-stocks-recommendations-18-february-sensex-nifty-outlook-trade-set-up-11771328104318.html
+- PSU banks and capex stocks leading market gains: Dipan Mehta
+  Indian markets show strong performance in PSU banks, capital goods, and infrastructure. Dipan Mehta highlights PSU banks closing valuation gaps with private peers. FMCG stocks face caution due to slow growth.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/psu-banks-and-capex-stocks-leading-market-gains-dipan-mehta/articleshow/128495180.cms
 
-- Co-founder Gubbi leads Marcellus foray into MFs as it looks beyond ultra HNIs
-  The move signals a strategic shift to a sales-first approach for the high-profile portfolio management
-  🔗 https://www.livemint.com/market/stock-market-news/marcellus-investment-managers-mutual-fund-entry-pramod-gubbi-retail-investors-11771136531452.html
+- ONGC, Oil India, other upstream oil stocks fall up to 4%. What’s triggering the decline?
+  Lower oil prices hit producers’ realisations and margins, triggering broad declines across upstream names. ONGC, Oil India and Seamec among those
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ongc-oil-india-other-upstream-oil-stocks-fall-up-to-4-whats-triggering-the-decline/articleshow/128494961.cms
 
-- YouTube down? Users report disruptions on video platform; netizens ask ‘how am i supposed to have dinner’
-  It was immediately not clear why the YouTube outage had occurred. YouTube has not yet issued a statement
-  🔗 https://www.livemint.com/technology/tech-news/youtube-down-users-report-disruptions-on-video-platform-netizens-ask-how-am-i-supposed-to-have-dinner-11771377482595.html
+- Ola’s 63% IPO crash isn’t the whole story, as 9 have fared worse; 100+ stocks are wealth destroyers
+  Over 115 NSE-listed IPOs from 2025–26 now trade below issue price, with several SME listings plunging 70–80%. The broad-based correction underscores deep wealth erosion across sectors
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/olas-63-ipo-crash-isnt-the-whole-story-as-9-have-fared-worse-100-stocks-are-wealth-destroyers/articleshow/128494317.cms
 
-- AI Summit 2026 LIVE Updates: Day 3 of expo to begin today amid focus on innovation and AI applications
-  The five-day event will see participation of Heads of states and governments, Ministers, foreign delegates, and international organisation representatives. With 13 country pavilions the event will
-  🔗 https://www.livemint.com/technology/ai-summit-delhi-2026-live-updates-ai-impact-summit-day-3-bharat-mandapam-india-narendra-modi-delhi-expo-18-february-2026-11771376974825.html
-
-- Nvidia partners Reliance, L&amp;T, TCS, others for GPU infra at AI Summit
-  India’s $283-billion IT services industry is under pressure from foundational AI companies such
-  🔗 https://www.livemint.com/technology/nvidia-india-ai-partnerships-reliance-tata-hero-motocorp-manufacturing-future-11771346828154.html
-
-- Quote of the day by Stephen Hawking: ‘The rise of powerful AI will be....'
-  Stephen Hawking's warning on AI’s promise and peril resonated at the India AI Impact Summit 2026. Leaders highlighted connectivity, governance and responsible innovation
-  🔗 https://www.livemint.com/technology/tech-news/quote-of-the-day-by-stephen-hawking-the-rise-of-powerful-ai-will-be-either-the-best-or-the-worst-thing-ever-to-happe-11771348973865.html
-
-- AI will drive down filmmaking costs and usher in new talent, says filmmaker Shekhar Kapur
-  Shekhar Kapur says artificial intelligence will slash filmmaking costs and empower a new generation of storytellers. He called AI a democratic force that can boost creativity, widen access and drive economic
-  🔗 https://www.livemint.com/technology/tech-news/ai-will-drive-down-filmmaking-costs-and-usher-in-new-talent-says-filmmaker-shekhar-kapur-11771343164920.html
-
-- Market quote of the day by Paul Samuelson | “Investing should be more like watching paint dry or watching grass grow"
-  Successful investing is a patient, disciplined process akin to watching paint dry or grass grow. Modern markets' constant stimulation can lead to emotional, detrimental decisions. True wealth creation stems from rationality, diversification, and allowing compounding to work
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-paul-samuelson-investing-should-be-more-like-watching-paint-dry-or-watching-grass-grow/articleshow/128456100.cms
-
-- Global Market Today: Asian shares advance at open, gold edges lower
-  Asian stocks saw a modest rise in thin holiday trading. Investors are closely watching the Federal Reserve's interest rate path. Attention also turns to the Reserve Bank of New Zealand's policy decision.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/asian-shares-advance-at-open-gold-edges-lower/articleshow/128487054.cms
-
-- SC allows Aakash Educational Services to go ahead with rights issue
-  The Supreme Court has allowed Aakash Educational Services to proceed with its rights issue. This fundraising move was challenged by Byju's bankrupt parent company, Think &amp; Learn.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sc-allows-aakash-educational-services-to-go-ahead-with-rights-issue/articleshow/128486896.cms
-
-- Asian Paints faces near-term headwinds as weak Q3 dampens sentiment
-  Asian Paints stock dropped after a weak December quarter. Softening demand, extended monsoon, and competition impacted sentiment. Brokerages have trimmed earnings estimates.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-paints-faces-near-term-headwinds-as-weak-q3-dampens-sentiment/articleshow/128486537.cms
-
-- Pre-market action: Here's the trade setup for today's session
-  Nifty gained almost 200 points from its low to close at 25,725. Analysts anticipate continued market strength with a positive outlook. India VIX fell, indicating reduced market fear.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128471890.cms
-
-- Under Fire At Home, Muhammad Yunus Brings Up China, India's '7 Sisters' In Exit Speech - NDTV
-  " target="_blank">Under Fire At Home, Muhammad
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTktMjJzZkowOGQtVm1mZ0UwaWZ5LTZWVmF6R1dWTU1pdlp5ZEVxZnZ4NmZpVFhDd1p4S051Yl90YXFWdk9ncWZIdGNCbnM4T2R4X0gwNkFpS3l1bTJiYmJ1eHNvRzh1Qk0xUHdKdUQ5TTRaeV9ORUszbU5lU2I0cFVnV1B4cTNJZERqd09Wcy11cEtjeUYtQTRicVQ2a1FPa1cxRlNYSnRab3Iwd2lqNjhtblpaWVlXTU9mbFFWNVEtck5YUE95M3NLTlFOdTQtTmxZ0gHbAUFVX3lxTE9jSEE0dFR1TV9MUFRPbzQ0Mkw1emo2aUQtLXhfN0xkQ18wLWJKWmN5VE50eERHdHBGenNCNVlyYUgyM1pubGpTbDBKS0pTQllvSGR1NzVhVzZmUW5zZGNkN0RuRGYxcjJ3ZjhXeGREOEpxTnJzc3QxT3lab29laEd5VEExUHA4dVlydDUyVm9lLXRPS2NNdFpsd0NIWUFvYjJObFNNUl9PZFlWM29lMUFQYjlrRG5faHVNdEFsakxzRGp1WFdkbDBlWEpoR3d2cTk0MS05SEkxaWsycw?oc=5
+- Can't Be Clearer: Expert On India Hitting Pak's Nuclear Site During Op Sindoor - NDTV
+  "Can't Be Clearer: Expert On India H
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUUJWTFkzbGh0aHExbjdWZFktWFJCZUYxYjYta3NPZzRqZDZIZzBFYkYteGZnWHhIUmFRU3hEcWJsSEpLSmdBbDE0Vi1WUFROeGR2c2VUU0w3M0lLcjZvMmVjd3VXSUZiTmp2UEk2c2RYYm9jdi0yWkl3U2VQNmNvWlRFSTVKa294eXdBeXdZS0JidE15eU9KdlBhQ2I1TTVxVk1ZMXJnVElZakR6Y0tJcE9JekpvLUV0b1lveldoUjZrdWEtVWktUzYzN2FFV2tCMFpJQ0loMjV3bWEtS2VEOGFR0gHqAUFVX3lxTE5vUG1weHROVjMzYTlnT2RrZVFvUXZ1YnFRVjZsUVU0OEYxemVVS09qRGU3dTAwQWNLdTV6SHowOTRONi1naEF6YkR3V2FhbFJjZlFSTmJTTEs5SjFTOW1acFhjM1QzaTU5MExraEVWR2FhMHoyN3Zrc0ptR2d3c1UxZ2JVcnNnWVpINm5aU3ZTbkRFdHNpOVg4ZXV0LWdELUN6OHZFZGxOcXN0dW5GZ2tMX1haMG5sRmV0NG9NekZkc0VrNGRTU2Rzd05DUTNzdGZSVjVlSEozZE1qWXFtYUoxOUtfZlNrejNjdw?oc=5
 
 - Defence spend, upgrade in line with current realities: PM Modi - Times of India
   The defence spending is in line with current realities,
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWVUZFdrUmd0QmxzYkdpcFlHUXdOamJubnpYdlZDQjhtN1hMZ2hDelhjTkh6TVpnOGZEVEd4YUZGWkR2MlBsdEc0M1BKaUtiR1MweEpXSjlGa21HajZJb21uR1dHYWNBaXdQWkgtV2h4ZmVvTzByV2ZWWThuM1Z2VHZlZ2ZfalBSVGV3M2dTNzVtWGtqQ055cklMS0s0Q1dtazMzaTBjU3hDTVZYdE8xR2NUZnFaSHpKWUN1VkYxYWhudFptd3JN0gHMAUFVX3lxTE9EQVdySEEwQTJmZVlEeEduaDNrc3o0b3lkUUhRYjU4a1NSLTBqVnl4SFRVd1N1UjhfZ2ZNS0ZfVksyTm9WN1pfTUNILWVDckFvaWp2OGpSY25MMGI5VzFGSkdaTTVzeXFGLXFMcklPbVF6Q2RrTkN0V1JwTllHUm5kZ0xobXRxZWJIWmlTU19odlJnY200OGhOaFA2ZFA3SWFJZWNrQUFlM3NmaHU5Q1ozYWJHdW5BcFlScEdvTDFQd1p0bUhrclRLci02dQ?oc=5
 
-- Historic trade deals put India on global stage - but challenges remain - BBC
-  Historic trade deals put India on global stage -
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
+- India AI Summit 2026 Day 3 LIVE: Galgotias University ousted from venue over Chinese robotic dog controversy - The Hindu
+  India AI Summit 2026 Day 3 LIVE: Galgotias University ousted from venue
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQVdxbUFlTjJ5RkxSamdqQnJzdzI5SkVlUmUyMHhFcUdEdjhyMkFjaElBdFlNaUtYc2JULWdEbk12ZHdUNDF0amNhaFlQSE9hZXVCbDJ1aldDbnpsLU1Ia1BPdjJVYnhqMjFCanV5eDJnTVROdUxOeTFYRzV1VXhSUV85VXNBeTlrblNWWWFTcmFKSTlUd1hkRlNFWjMzYm9BR2JuVVNlWFV3dTNzTFpaNXRaa3duTWZ5b3N2YkFUZFFIbktRRkRoeFBDUVdxNHV6Y05GV3VYWGJxVnfSAeIBQVVfeXFMTV9IYlBJelFPOU5ISDhPMDN5dzRfYTZuVGVEdDNCODRHTTVGVFNZWDdPVTkwOXozU2o3dEQ3eklYTmRpSDVOSlNmazE1TUpxbUs2cmhNT0dQcTlBYUFPVEJLeXkwV0pZLXFHelo2bFNhaUtUQ0ptNWI3OVA3VjkwcGltN1pRaEhGZHNiazBzbUJjWk91MXA5TXlZUW1FUFNjc09Ta0dhTnA5RjJvckVsWmhnTHZkcl81Y0JycG5vSnBXSWt1VlFNSmROVV9BYjdlcTNHNkt4WUlobi1IUlZGUktVZw?oc=5
 
-- Hate speech PIL 'targets' BJP CMs: Supreme Court - Times of India
-  Hate speech PIL 'targ
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNajZna1JGRE9LUXAxRFhmZm94VDNTRkJ5TWkxOVNKVERla0tDaXlWeU41ZVFVRjhPT0dsMVVjQkZqRVNtMFpNQXE0b29abmJrRXJlQWMtNEtqaTFkd1g5X3haWGFzWmdjdkVjU3JIbV9FOEc0M1JDT3hkLVdRUkt5ak1vbktDeDBWVGhDOXViOVhydVl5cG96NVFlWTNWSkVOWXRhcDVEcDl5NjU2dVZOeGVqNNIBuAFBVV95cUxOZGtUZ3BKZEl6eUlQby1lUzNEMWx0ZzA2ajJ2WldwY0xlb3JGOGIyVnBDUmpLcGVxTDNkZWpId3RBXzNzVEFTUFNMbEhlakdiUkwzUG9Ic2FBZUtCNmVGYmhoUGVPRjB2MzljYm5COFlaUWQxLS1nSW9rYU5aMTBIQUxBbzNsS003dHhhYjBGaXZHeTJtaVVLVU5SUFU4SE1hbEIzd2l4SGNjbUJfN08ybk9ld09uWWV2?oc=5
+- AI Impact Summit 2026 Day 3 Live Updates: 'Galgotias University has been asked to vacate the AI Summit Expo immediately' - Times of India
+  AI Impact Summit 2026 Day 3 Live Updates: 'Galgotias University has been asked to
+  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxPbW1pMDRraWZKMVQwQVZZRUEtWHMyLW5obnd0RXVSdkF0TFR3Nm9yTS14R0I2OW5xVENITVRkbGpNZTN4U0NxYTROR0pja19NYjNYSUxveEpkNDBZOXlqalBkaDgxWG9fU2h6YUJCTnZnaWpuUHJ4LVQxcWJnRnNidTNrdUNqcEhrS0oyemFMV0l3dENiUEpTc00yck96bWRCbEVkdmpDTlRPYkRQRV9DSWJPVkVJZ3RXVW5xeHJKSlR4V3NRX2kyX1p0YlQxN1Eta1RUeXpoUTE0X3p2NTNBaGVUTDZ3N0ZjVDlsalFwTjZ6d0xfTTJGbzduUkMzMU02alNSdTZQZFVZbUhiNldNTmlBOVljaG1UVi1NYnNCd9IBpAJBVV95cUxPRWxfN1lyNXVxbUpBNUk4bEZqbFZnYzV3a1h1Sks5XzVielRqRmYyVTJlTXNWc19pdTdWdEk2dURqUU9qX3o4S2RiUlZaZXhTSkQtRUt2bjVaQVVXYkdDald6RUdQWHdSZVhDdFdQalM3UDk3Q0g3cEhUalZRemZxc1JVbVh0cl9mRENCT2hUQ0xyTXZTLXRudHVvVnJaMTBCdGQ3VW9Fbk1sZHlNYU45SG9LeEJJQWx3a2dZUDZIQlc0WUhpTDFJUFhCS2F3NEdreUE1ajRlYTJGRlh5NWxrQTNLVGF0QlNRNlRsdHJEc3c2MDFacTlQdEF3U1pTYkpMbnFzc1hSZ3pfV3huVzd1STZaNFJyT09NdHpDelVGTFd3ZXd0?oc=5
 
-- 'He must be looked after and respected': Sourav Ganguly backs appeal for Imran Khan - Times of India
-  'He must be looked after and respected': Sourav Ganguly backs
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNb0pUR3FOdTJ0TTM0Wmxiakp6NFBYU3RwWXpXR0hMUk5mNjBMSU4zNzlER2RsYlNiVHozRXRGMHYtZkdQeE5wQ2FnX2p1TThLUkMydndCM2xIY0lrQklOMTRLUVpZZ2NDazZZdnY5QnhEczAzZDR0dUF0T0ZMS0VLYTRNTEVuUHRsVmo0Ty1ObHNCNU1mVm04Wk9SLTNPQ2hPVnhHWHZFTHAzeENBU29VNHVZME1EeFJUZEZkZjJqYk52TjdRZlo0R29UbC1KcmRhNW10SGlEWXJySXR2Z1VwVTNlOTFXTzRCQWQxT1plelZ2Q0dI0gH6AUFVX3lxTE5vYS14ZHhMS1lRSFZsT0R1aUdPSmFYS0ZmWURxeVMzM2JTYUJNT2MwdVYyaFU2UFdmaGlVRnNVOVdpWnhvYlpmRDFXaEd3V0JOMFR1WEx1Q2Nodkt6cUZvemV5Q1dWVDlNN01TX1JEYkFfaGJwY3BiZWlGN0lfclZ3c1NqU3lNNlBWR1pZcjFCektYOFpCeWJ4UzlFdEJuSDQ2TUNJZlV4TVhpUjJ5VDd6bjM5RW9wRXU5SDJVUDMyOWZXMDFSRlotQUFRSWhrSGRHQTA0NndhS1F6UU9SejdLd0g4WjZyM0R0NWpVVnd0MGlQZkQ0LXB4U2c?oc=5
+- More capable frontier AI models will substitute engineers: Yoshua Bengio | India News - Hindustan Times
+  More capable frontier AI models will substitute engineers: Yoshua Beng
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWYxX3prLXlZckFBdE1fV1ZCekUyZzVzdkdlQ1JoeWZ2a3o5QjkybW9QMnJtUGkyS011U2JjVDdRODhDMG1PVGdYRXlUUE1OY2ZaQ2xDSEJ1TjNFOXZtakVTVnotVnd2eVRUeldMSHd6a0lDR3NHa1N5OHUyN25jallKMXY2VVFFbHNnWGZzTEZlVjR3QjlhLUlKTU0xMDZLT1g1R1FiSHA2YUdtNEpkR2tnanRaTEU0djhlYU9B0gHDAUFVX3lxTE12Z2pDWHJnNkl2aF9QS1VkSm14ay13UFZFclFCUUJNYmRtc3NzNE5fRUFmVVhGZDg4ZEdhbGlXLVhYYldMTVZxalBldWw4NHczNUZONEpSWGdIRDVMY3lmdndRblBUNXRmZlJzMENxOWJXYVJzVUxSN1VVTHQzWUZjdUtkSC1iZlc2eTZSRzg1Ty11eVhzLTlqaFFjTmJBa0dGVlZad204Z1A2eTRnYTAxM2U0cktrWkVsbVdMOV9GOHUtNA?oc=5
 
-- Under Fire At Home, Muhammad Yunus Brings Up China, India's '7 Sisters' In Exit Speech - NDTV
-  " target="_blank">Under Fire At Home, Muhammad
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTktMjJzZkowOGQtVm1mZ0UwaWZ5LTZWVmF6R1dWTU1pdlp5ZEVxZnZ4NmZpVFhDd1p4S051Yl90YXFWdk9ncWZIdGNCbnM4T2R4X0gwNkFpS3l1bTJiYmJ1eHNvRzh1Qk0xUHdKdUQ5TTRaeV9ORUszbU5lU2I0cFVnV1B4cTNJZERqd09Wcy11cEtjeUYtQTRicVQ2a1FPa1cxRlNYSnRab3Iwd2lqNjhtblpaWVlXTU9mbFFWNVEtck5YUE95M3NLTlFOdTQtTmxZ0gHbAUFVX3lxTE9jSEE0dFR1TV9MUFRPbzQ0Mkw1emo2aUQtLXhfN0xkQ18wLWJKWmN5VE50eERHdHBGenNCNVlyYUgyM1pubGpTbDBKS0pTQllvSGR1NzVhVzZmUW5zZGNkN0RuRGYxcjJ3ZjhXeGREOEpxTnJzc3QxT3lab29laEd5VEExUHA4dVlydDUyVm9lLXRPS2NNdFpsd0NIWUFvYjJObFNNUl9PZFlWM29lMUFQYjlrRG5faHVNdEFsakxzRGp1WFdkbDBlWEpoR3d2cTk0MS05SEkxaWsycw?oc=5
-
-- Defence spend, upgrade in line with current realities: PM Modi - Times of India
-  The defence spending is in line with current realities,
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWVUZFdrUmd0QmxzYkdpcFlHUXdOamJubnpYdlZDQjhtN1hMZ2hDelhjTkh6TVpnOGZEVEd4YUZGWkR2MlBsdEc0M1BKaUtiR1MweEpXSjlGa21HajZJb21uR1dHYWNBaXdQWkgtV2h4ZmVvTzByV2ZWWThuM1Z2VHZlZ2ZfalBSVGV3M2dTNzVtWGtqQ055cklMS0s0Q1dtazMzaTBjU3hDTVZYdE8xR2NUZnFaSHpKWUN1VkYxYWhudFptd3JN0gHMAUFVX3lxTE9EQVdySEEwQTJmZVlEeEduaDNrc3o0b3lkUUhRYjU4a1NSLTBqVnl4SFRVd1N1UjhfZ2ZNS0ZfVksyTm9WN1pfTUNILWVDckFvaWp2OGpSY25MMGI5VzFGSkdaTTVzeXFGLXFMcklPbVF6Q2RrTkN0V1JwTllHUm5kZ0xobXRxZWJIWmlTU19odlJnY200OGhOaFA2ZFA3SWFJZWNrQUFlM3NmaHU5Q1ozYWJHdW5BcFlScEdvTDFQd1p0bUhrclRLci02dQ?oc=5
-
-- Historic trade deals put India on global stage - but challenges remain - BBC
-  Historic trade deals put India on global stage -
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
-
-- Hate speech PIL 'targets' BJP CMs: Supreme Court - Times of India
-  Hate speech PIL 'targ
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNajZna1JGRE9LUXAxRFhmZm94VDNTRkJ5TWkxOVNKVERla0tDaXlWeU41ZVFVRjhPT0dsMVVjQkZqRVNtMFpNQXE0b29abmJrRXJlQWMtNEtqaTFkd1g5X3haWGFzWmdjdkVjU3JIbV9FOEc0M1JDT3hkLVdRUkt5ak1vbktDeDBWVGhDOXViOVhydVl5cG96NVFlWTNWSkVOWXRhcDVEcDl5NjU2dVZOeGVqNNIBuAFBVV95cUxOZGtUZ3BKZEl6eUlQby1lUzNEMWx0ZzA2ajJ2WldwY0xlb3JGOGIyVnBDUmpLcGVxTDNkZWpId3RBXzNzVEFTUFNMbEhlakdiUkwzUG9Ic2FBZUtCNmVGYmhoUGVPRjB2MzljYm5COFlaUWQxLS1nSW9rYU5aMTBIQUxBbzNsS003dHhhYjBGaXZHeTJtaVVLVU5SUFU4SE1hbEIzd2l4SGNjbUJfN08ybk9ld09uWWV2?oc=5
-
-- 'He must be looked after and respected': Sourav Ganguly backs appeal for Imran Khan - Times of India
-  'He must be looked after and respected': Sourav Ganguly backs
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNb0pUR3FOdTJ0TTM0Wmxiakp6NFBYU3RwWXpXR0hMUk5mNjBMSU4zNzlER2RsYlNiVHozRXRGMHYtZkdQeE5wQ2FnX2p1TThLUkMydndCM2xIY0lrQklOMTRLUVpZZ2NDazZZdnY5QnhEczAzZDR0dUF0T0ZMS0VLYTRNTEVuUHRsVmo0Ty1ObHNCNU1mVm04Wk9SLTNPQ2hPVnhHWHZFTHAzeENBU29VNHVZME1EeFJUZEZkZjJqYk52TjdRZlo0R29UbC1KcmRhNW10SGlEWXJySXR2Z1VwVTNlOTFXTzRCQWQxT1plelZ2Q0dI0gH6AUFVX3lxTE5vYS14ZHhMS1lRSFZsT0R1aUdPSmFYS0ZmWURxeVMzM2JTYUJNT2MwdVYyaFU2UFdmaGlVRnNVOVdpWnhvYlpmRDFXaEd3V0JOMFR1WEx1Q2Nodkt6cUZvemV5Q1dWVDlNN01TX1JEYkFfaGJwY3BiZWlGN0lfclZ3c1NqU3lNNlBWR1pZcjFCektYOFpCeWJ4UzlFdEJuSDQ2TUNJZlV4TVhpUjJ5VDd6bjM5RW9wRXU5SDJVUDMyOWZXMDFSRlotQUFRSWhrSGRHQTA0NndhS1F6UU9SejdLd0g4WjZyM0R0NWpVVnd0MGlQZkQ0LXB4U2c?oc=5
-
-- Under Fire At Home, Muhammad Yunus Brings Up China, India's '7 Sisters' In Exit Speech - NDTV
-  " target="_blank">Under Fire At Home, Muhammad
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTktMjJzZkowOGQtVm1mZ0UwaWZ5LTZWVmF6R1dWTU1pdlp5ZEVxZnZ4NmZpVFhDd1p4S051Yl90YXFWdk9ncWZIdGNCbnM4T2R4X0gwNkFpS3l1bTJiYmJ1eHNvRzh1Qk0xUHdKdUQ5TTRaeV9ORUszbU5lU2I0cFVnV1B4cTNJZERqd09Wcy11cEtjeUYtQTRicVQ2a1FPa1cxRlNYSnRab3Iwd2lqNjhtblpaWVlXTU9mbFFWNVEtck5YUE95M3NLTlFOdTQtTmxZ0gHbAUFVX3lxTE9jSEE0dFR1TV9MUFRPbzQ0Mkw1emo2aUQtLXhfN0xkQ18wLWJKWmN5VE50eERHdHBGenNCNVlyYUgyM1pubGpTbDBKS0pTQllvSGR1NzVhVzZmUW5zZGNkN0RuRGYxcjJ3ZjhXeGREOEpxTnJzc3QxT3lab29laEd5VEExUHA4dVlydDUyVm9lLXRPS2NNdFpsd0NIWUFvYjJObFNNUl9PZFlWM29lMUFQYjlrRG5faHVNdEFsakxzRGp1WFdkbDBlWEpoR3d2cTk0MS05SEkxaWsycw?oc=5
+- Can't Be Clearer: Expert On India Hitting Pak's Nuclear Site During Op Sindoor - NDTV
+  "Can't Be Clearer: Expert On India H
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUUJWTFkzbGh0aHExbjdWZFktWFJCZUYxYjYta3NPZzRqZDZIZzBFYkYteGZnWHhIUmFRU3hEcWJsSEpLSmdBbDE0Vi1WUFROeGR2c2VUU0w3M0lLcjZvMmVjd3VXSUZiTmp2UEk2c2RYYm9jdi0yWkl3U2VQNmNvWlRFSTVKa294eXdBeXdZS0JidE15eU9KdlBhQ2I1TTVxVk1ZMXJnVElZakR6Y0tJcE9JekpvLUV0b1lveldoUjZrdWEtVWktUzYzN2FFV2tCMFpJQ0loMjV3bWEtS2VEOGFR0gHqAUFVX3lxTE5vUG1weHROVjMzYTlnT2RrZVFvUXZ1YnFRVjZsUVU0OEYxemVVS09qRGU3dTAwQWNLdTV6SHowOTRONi1naEF6YkR3V2FhbFJjZlFSTmJTTEs5SjFTOW1acFhjM1QzaTU5MExraEVWR2FhMHoyN3Zrc0ptR2d3c1UxZ2JVcnNnWVpINm5aU3ZTbkRFdHNpOVg4ZXV0LWdELUN6OHZFZGxOcXN0dW5GZ2tMX1haMG5sRmV0NG9NekZkc0VrNGRTU2Rzd05DUTNzdGZSVjVlSEozZE1qWXFtYUoxOUtfZlNrejNjdw?oc=5
 
 - Defence spend, upgrade in line with current realities: PM Modi - Times of India
   The defence spending is in line with current realities,
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWVUZFdrUmd0QmxzYkdpcFlHUXdOamJubnpYdlZDQjhtN1hMZ2hDelhjTkh6TVpnOGZEVEd4YUZGWkR2MlBsdEc0M1BKaUtiR1MweEpXSjlGa21HajZJb21uR1dHYWNBaXdQWkgtV2h4ZmVvTzByV2ZWWThuM1Z2VHZlZ2ZfalBSVGV3M2dTNzVtWGtqQ055cklMS0s0Q1dtazMzaTBjU3hDTVZYdE8xR2NUZnFaSHpKWUN1VkYxYWhudFptd3JN0gHMAUFVX3lxTE9EQVdySEEwQTJmZVlEeEduaDNrc3o0b3lkUUhRYjU4a1NSLTBqVnl4SFRVd1N1UjhfZ2ZNS0ZfVksyTm9WN1pfTUNILWVDckFvaWp2OGpSY25MMGI5VzFGSkdaTTVzeXFGLXFMcklPbVF6Q2RrTkN0V1JwTllHUm5kZ0xobXRxZWJIWmlTU19odlJnY200OGhOaFA2ZFA3SWFJZWNrQUFlM3NmaHU5Q1ozYWJHdW5BcFlScEdvTDFQd1p0bUhrclRLci02dQ?oc=5
 
-- Historic trade deals put India on global stage - but challenges remain - BBC
-  Historic trade deals put India on global stage -
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
+- India AI Summit 2026 Day 3 LIVE: Galgotias University ousted from venue over Chinese robotic dog controversy - The Hindu
+  India AI Summit 2026 Day 3 LIVE: Galgotias University ousted from venue
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQVdxbUFlTjJ5RkxSamdqQnJzdzI5SkVlUmUyMHhFcUdEdjhyMkFjaElBdFlNaUtYc2JULWdEbk12ZHdUNDF0amNhaFlQSE9hZXVCbDJ1aldDbnpsLU1Ia1BPdjJVYnhqMjFCanV5eDJnTVROdUxOeTFYRzV1VXhSUV85VXNBeTlrblNWWWFTcmFKSTlUd1hkRlNFWjMzYm9BR2JuVVNlWFV3dTNzTFpaNXRaa3duTWZ5b3N2YkFUZFFIbktRRkRoeFBDUVdxNHV6Y05GV3VYWGJxVnfSAeIBQVVfeXFMTV9IYlBJelFPOU5ISDhPMDN5dzRfYTZuVGVEdDNCODRHTTVGVFNZWDdPVTkwOXozU2o3dEQ3eklYTmRpSDVOSlNmazE1TUpxbUs2cmhNT0dQcTlBYUFPVEJLeXkwV0pZLXFHelo2bFNhaUtUQ0ptNWI3OVA3VjkwcGltN1pRaEhGZHNiazBzbUJjWk91MXA5TXlZUW1FUFNjc09Ta0dhTnA5RjJvckVsWmhnTHZkcl81Y0JycG5vSnBXSWt1VlFNSmROVV9BYjdlcTNHNkt4WUlobi1IUlZGUktVZw?oc=5
 
-- Hate speech PIL 'targets' BJP CMs: Supreme Court - Times of India
-  Hate speech PIL 'targ
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNajZna1JGRE9LUXAxRFhmZm94VDNTRkJ5TWkxOVNKVERla0tDaXlWeU41ZVFVRjhPT0dsMVVjQkZqRVNtMFpNQXE0b29abmJrRXJlQWMtNEtqaTFkd1g5X3haWGFzWmdjdkVjU3JIbV9FOEc0M1JDT3hkLVdRUkt5ak1vbktDeDBWVGhDOXViOVhydVl5cG96NVFlWTNWSkVOWXRhcDVEcDl5NjU2dVZOeGVqNNIBuAFBVV95cUxOZGtUZ3BKZEl6eUlQby1lUzNEMWx0ZzA2ajJ2WldwY0xlb3JGOGIyVnBDUmpLcGVxTDNkZWpId3RBXzNzVEFTUFNMbEhlakdiUkwzUG9Ic2FBZUtCNmVGYmhoUGVPRjB2MzljYm5COFlaUWQxLS1nSW9rYU5aMTBIQUxBbzNsS003dHhhYjBGaXZHeTJtaVVLVU5SUFU4SE1hbEIzd2l4SGNjbUJfN08ybk9ld09uWWV2?oc=5
+- AI Impact Summit 2026 Day 3 Live Updates: 'Galgotias University has been asked to vacate the AI Summit Expo immediately' - Times of India
+  AI Impact Summit 2026 Day 3 Live Updates: 'Galgotias University has been asked to
+  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxPbW1pMDRraWZKMVQwQVZZRUEtWHMyLW5obnd0RXVSdkF0TFR3Nm9yTS14R0I2OW5xVENITVRkbGpNZTN4U0NxYTROR0pja19NYjNYSUxveEpkNDBZOXlqalBkaDgxWG9fU2h6YUJCTnZnaWpuUHJ4LVQxcWJnRnNidTNrdUNqcEhrS0oyemFMV0l3dENiUEpTc00yck96bWRCbEVkdmpDTlRPYkRQRV9DSWJPVkVJZ3RXVW5xeHJKSlR4V3NRX2kyX1p0YlQxN1Eta1RUeXpoUTE0X3p2NTNBaGVUTDZ3N0ZjVDlsalFwTjZ6d0xfTTJGbzduUkMzMU02alNSdTZQZFVZbUhiNldNTmlBOVljaG1UVi1NYnNCd9IBpAJBVV95cUxPRWxfN1lyNXVxbUpBNUk4bEZqbFZnYzV3a1h1Sks5XzVielRqRmYyVTJlTXNWc19pdTdWdEk2dURqUU9qX3o4S2RiUlZaZXhTSkQtRUt2bjVaQVVXYkdDald6RUdQWHdSZVhDdFdQalM3UDk3Q0g3cEhUalZRemZxc1JVbVh0cl9mRENCT2hUQ0xyTXZTLXRudHVvVnJaMTBCdGQ3VW9Fbk1sZHlNYU45SG9LeEJJQWx3a2dZUDZIQlc0WUhpTDFJUFhCS2F3NEdreUE1ajRlYTJGRlh5NWxrQTNLVGF0QlNRNlRsdHJEc3c2MDFacTlQdEF3U1pTYkpMbnFzc1hSZ3pfV3huVzd1STZaNFJyT09NdHpDelVGTFd3ZXd0?oc=5
 
-- 'He must be looked after and respected': Sourav Ganguly backs appeal for Imran Khan - Times of India
-  'He must be looked after and respected': Sourav Ganguly backs
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNb0pUR3FOdTJ0TTM0Wmxiakp6NFBYU3RwWXpXR0hMUk5mNjBMSU4zNzlER2RsYlNiVHozRXRGMHYtZkdQeE5wQ2FnX2p1TThLUkMydndCM2xIY0lrQklOMTRLUVpZZ2NDazZZdnY5QnhEczAzZDR0dUF0T0ZMS0VLYTRNTEVuUHRsVmo0Ty1ObHNCNU1mVm04Wk9SLTNPQ2hPVnhHWHZFTHAzeENBU29VNHVZME1EeFJUZEZkZjJqYk52TjdRZlo0R29UbC1KcmRhNW10SGlEWXJySXR2Z1VwVTNlOTFXTzRCQWQxT1plelZ2Q0dI0gH6AUFVX3lxTE5vYS14ZHhMS1lRSFZsT0R1aUdPSmFYS0ZmWURxeVMzM2JTYUJNT2MwdVYyaFU2UFdmaGlVRnNVOVdpWnhvYlpmRDFXaEd3V0JOMFR1WEx1Q2Nodkt6cUZvemV5Q1dWVDlNN01TX1JEYkFfaGJwY3BiZWlGN0lfclZ3c1NqU3lNNlBWR1pZcjFCektYOFpCeWJ4UzlFdEJuSDQ2TUNJZlV4TVhpUjJ5VDd6bjM5RW9wRXU5SDJVUDMyOWZXMDFSRlotQUFRSWhrSGRHQTA0NndhS1F6UU9SejdLd0g4WjZyM0R0NWpVVnd0MGlQZkQ0LXB4U2c?oc=5
+- More capable frontier AI models will substitute engineers: Yoshua Bengio | India News - Hindustan Times
+  More capable frontier AI models will substitute engineers: Yoshua Beng
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWYxX3prLXlZckFBdE1fV1ZCekUyZzVzdkdlQ1JoeWZ2a3o5QjkybW9QMnJtUGkyS011U2JjVDdRODhDMG1PVGdYRXlUUE1OY2ZaQ2xDSEJ1TjNFOXZtakVTVnotVnd2eVRUeldMSHd6a0lDR3NHa1N5OHUyN25jallKMXY2VVFFbHNnWGZzTEZlVjR3QjlhLUlKTU0xMDZLT1g1R1FiSHA2YUdtNEpkR2tnanRaTEU0djhlYU9B0gHDAUFVX3lxTE12Z2pDWHJnNkl2aF9QS1VkSm14ay13UFZFclFCUUJNYmRtc3NzNE5fRUFmVVhGZDg4ZEdhbGlXLVhYYldMTVZxalBldWw4NHczNUZONEpSWGdIRDVMY3lmdndRblBUNXRmZlJzMENxOWJXYVJzVUxSN1VVTHQzWUZjdUtkSC1iZlc2eTZSRzg1Ty11eVhzLTlqaFFjTmJBa0dGVlZad204Z1A2eTRnYTAxM2U0cktrWkVsbVdMOV9GOHUtNA?oc=5
 
-- Under Fire At Home, Muhammad Yunus Brings Up China, India's '7 Sisters' In Exit Speech - NDTV
-  " target="_blank">Under Fire At Home, Muhammad
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTktMjJzZkowOGQtVm1mZ0UwaWZ5LTZWVmF6R1dWTU1pdlp5ZEVxZnZ4NmZpVFhDd1p4S051Yl90YXFWdk9ncWZIdGNCbnM4T2R4X0gwNkFpS3l1bTJiYmJ1eHNvRzh1Qk0xUHdKdUQ5TTRaeV9ORUszbU5lU2I0cFVnV1B4cTNJZERqd09Wcy11cEtjeUYtQTRicVQ2a1FPa1cxRlNYSnRab3Iwd2lqNjhtblpaWVlXTU9mbFFWNVEtck5YUE95M3NLTlFOdTQtTmxZ0gHbAUFVX3lxTE9jSEE0dFR1TV9MUFRPbzQ0Mkw1emo2aUQtLXhfN0xkQ18wLWJKWmN5VE50eERHdHBGenNCNVlyYUgyM1pubGpTbDBKS0pTQllvSGR1NzVhVzZmUW5zZGNkN0RuRGYxcjJ3ZjhXeGREOEpxTnJzc3QxT3lab29laEd5VEExUHA4dVlydDUyVm9lLXRPS2NNdFpsd0NIWUFvYjJObFNNUl9PZFlWM29lMUFQYjlrRG5faHVNdEFsakxzRGp1WFdkbDBlWEpoR3d2cTk0MS05SEkxaWsycw?oc=5
+- Can't Be Clearer: Expert On India Hitting Pak's Nuclear Site During Op Sindoor - NDTV
+  "Can't Be Clearer: Expert On India H
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUUJWTFkzbGh0aHExbjdWZFktWFJCZUYxYjYta3NPZzRqZDZIZzBFYkYteGZnWHhIUmFRU3hEcWJsSEpLSmdBbDE0Vi1WUFROeGR2c2VUU0w3M0lLcjZvMmVjd3VXSUZiTmp2UEk2c2RYYm9jdi0yWkl3U2VQNmNvWlRFSTVKa294eXdBeXdZS0JidE15eU9KdlBhQ2I1TTVxVk1ZMXJnVElZakR6Y0tJcE9JekpvLUV0b1lveldoUjZrdWEtVWktUzYzN2FFV2tCMFpJQ0loMjV3bWEtS2VEOGFR0gHqAUFVX3lxTE5vUG1weHROVjMzYTlnT2RrZVFvUXZ1YnFRVjZsUVU0OEYxemVVS09qRGU3dTAwQWNLdTV6SHowOTRONi1naEF6YkR3V2FhbFJjZlFSTmJTTEs5SjFTOW1acFhjM1QzaTU5MExraEVWR2FhMHoyN3Zrc0ptR2d3c1UxZ2JVcnNnWVpINm5aU3ZTbkRFdHNpOVg4ZXV0LWdELUN6OHZFZGxOcXN0dW5GZ2tMX1haMG5sRmV0NG9NekZkc0VrNGRTU2Rzd05DUTNzdGZSVjVlSEozZE1qWXFtYUoxOUtfZlNrejNjdw?oc=5
 
 - Defence spend, upgrade in line with current realities: PM Modi - Times of India
   The defence spending is in line with current realities,
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWVUZFdrUmd0QmxzYkdpcFlHUXdOamJubnpYdlZDQjhtN1hMZ2hDelhjTkh6TVpnOGZEVEd4YUZGWkR2MlBsdEc0M1BKaUtiR1MweEpXSjlGa21HajZJb21uR1dHYWNBaXdQWkgtV2h4ZmVvTzByV2ZWWThuM1Z2VHZlZ2ZfalBSVGV3M2dTNzVtWGtqQ055cklMS0s0Q1dtazMzaTBjU3hDTVZYdE8xR2NUZnFaSHpKWUN1VkYxYWhudFptd3JN0gHMAUFVX3lxTE9EQVdySEEwQTJmZVlEeEduaDNrc3o0b3lkUUhRYjU4a1NSLTBqVnl4SFRVd1N1UjhfZ2ZNS0ZfVksyTm9WN1pfTUNILWVDckFvaWp2OGpSY25MMGI5VzFGSkdaTTVzeXFGLXFMcklPbVF6Q2RrTkN0V1JwTllHUm5kZ0xobXRxZWJIWmlTU19odlJnY200OGhOaFA2ZFA3SWFJZWNrQUFlM3NmaHU5Q1ozYWJHdW5BcFlScEdvTDFQd1p0bUhrclRLci02dQ?oc=5
 
-- Historic trade deals put India on global stage - but challenges remain - BBC
-  Historic trade deals put India on global stage -
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
+- India AI Summit 2026 Day 3 LIVE: Galgotias University ousted from venue over Chinese robotic dog controversy - The Hindu
+  India AI Summit 2026 Day 3 LIVE: Galgotias University ousted from venue
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQVdxbUFlTjJ5RkxSamdqQnJzdzI5SkVlUmUyMHhFcUdEdjhyMkFjaElBdFlNaUtYc2JULWdEbk12ZHdUNDF0amNhaFlQSE9hZXVCbDJ1aldDbnpsLU1Ia1BPdjJVYnhqMjFCanV5eDJnTVROdUxOeTFYRzV1VXhSUV85VXNBeTlrblNWWWFTcmFKSTlUd1hkRlNFWjMzYm9BR2JuVVNlWFV3dTNzTFpaNXRaa3duTWZ5b3N2YkFUZFFIbktRRkRoeFBDUVdxNHV6Y05GV3VYWGJxVnfSAeIBQVVfeXFMTV9IYlBJelFPOU5ISDhPMDN5dzRfYTZuVGVEdDNCODRHTTVGVFNZWDdPVTkwOXozU2o3dEQ3eklYTmRpSDVOSlNmazE1TUpxbUs2cmhNT0dQcTlBYUFPVEJLeXkwV0pZLXFHelo2bFNhaUtUQ0ptNWI3OVA3VjkwcGltN1pRaEhGZHNiazBzbUJjWk91MXA5TXlZUW1FUFNjc09Ta0dhTnA5RjJvckVsWmhnTHZkcl81Y0JycG5vSnBXSWt1VlFNSmROVV9BYjdlcTNHNkt4WUlobi1IUlZGUktVZw?oc=5
 
-- Hate speech PIL 'targets' BJP CMs: Supreme Court - Times of India
-  Hate speech PIL 'targ
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNajZna1JGRE9LUXAxRFhmZm94VDNTRkJ5TWkxOVNKVERla0tDaXlWeU41ZVFVRjhPT0dsMVVjQkZqRVNtMFpNQXE0b29abmJrRXJlQWMtNEtqaTFkd1g5X3haWGFzWmdjdkVjU3JIbV9FOEc0M1JDT3hkLVdRUkt5ak1vbktDeDBWVGhDOXViOVhydVl5cG96NVFlWTNWSkVOWXRhcDVEcDl5NjU2dVZOeGVqNNIBuAFBVV95cUxOZGtUZ3BKZEl6eUlQby1lUzNEMWx0ZzA2ajJ2WldwY0xlb3JGOGIyVnBDUmpLcGVxTDNkZWpId3RBXzNzVEFTUFNMbEhlakdiUkwzUG9Ic2FBZUtCNmVGYmhoUGVPRjB2MzljYm5COFlaUWQxLS1nSW9rYU5aMTBIQUxBbzNsS003dHhhYjBGaXZHeTJtaVVLVU5SUFU4SE1hbEIzd2l4SGNjbUJfN08ybk9ld09uWWV2?oc=5
+- AI Impact Summit 2026 Day 3 Live Updates: 'Galgotias University has been asked to vacate the AI Summit Expo immediately' - Times of India
+  AI Impact Summit 2026 Day 3 Live Updates: 'Galgotias University has been asked to
+  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxPbW1pMDRraWZKMVQwQVZZRUEtWHMyLW5obnd0RXVSdkF0TFR3Nm9yTS14R0I2OW5xVENITVRkbGpNZTN4U0NxYTROR0pja19NYjNYSUxveEpkNDBZOXlqalBkaDgxWG9fU2h6YUJCTnZnaWpuUHJ4LVQxcWJnRnNidTNrdUNqcEhrS0oyemFMV0l3dENiUEpTc00yck96bWRCbEVkdmpDTlRPYkRQRV9DSWJPVkVJZ3RXVW5xeHJKSlR4V3NRX2kyX1p0YlQxN1Eta1RUeXpoUTE0X3p2NTNBaGVUTDZ3N0ZjVDlsalFwTjZ6d0xfTTJGbzduUkMzMU02alNSdTZQZFVZbUhiNldNTmlBOVljaG1UVi1NYnNCd9IBpAJBVV95cUxPRWxfN1lyNXVxbUpBNUk4bEZqbFZnYzV3a1h1Sks5XzVielRqRmYyVTJlTXNWc19pdTdWdEk2dURqUU9qX3o4S2RiUlZaZXhTSkQtRUt2bjVaQVVXYkdDald6RUdQWHdSZVhDdFdQalM3UDk3Q0g3cEhUalZRemZxc1JVbVh0cl9mRENCT2hUQ0xyTXZTLXRudHVvVnJaMTBCdGQ3VW9Fbk1sZHlNYU45SG9LeEJJQWx3a2dZUDZIQlc0WUhpTDFJUFhCS2F3NEdreUE1ajRlYTJGRlh5NWxrQTNLVGF0QlNRNlRsdHJEc3c2MDFacTlQdEF3U1pTYkpMbnFzc1hSZ3pfV3huVzd1STZaNFJyT09NdHpDelVGTFd3ZXd0?oc=5
 
-- 'He must be looked after and respected': Sourav Ganguly backs appeal for Imran Khan - Times of India
-  'He must be looked after and respected': Sourav Ganguly backs
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNb0pUR3FOdTJ0TTM0Wmxiakp6NFBYU3RwWXpXR0hMUk5mNjBMSU4zNzlER2RsYlNiVHozRXRGMHYtZkdQeE5wQ2FnX2p1TThLUkMydndCM2xIY0lrQklOMTRLUVpZZ2NDazZZdnY5QnhEczAzZDR0dUF0T0ZMS0VLYTRNTEVuUHRsVmo0Ty1ObHNCNU1mVm04Wk9SLTNPQ2hPVnhHWHZFTHAzeENBU29VNHVZME1EeFJUZEZkZjJqYk52TjdRZlo0R29UbC1KcmRhNW10SGlEWXJySXR2Z1VwVTNlOTFXTzRCQWQxT1plelZ2Q0dI0gH6AUFVX3lxTE5vYS14ZHhMS1lRSFZsT0R1aUdPSmFYS0ZmWURxeVMzM2JTYUJNT2MwdVYyaFU2UFdmaGlVRnNVOVdpWnhvYlpmRDFXaEd3V0JOMFR1WEx1Q2Nodkt6cUZvemV5Q1dWVDlNN01TX1JEYkFfaGJwY3BiZWlGN0lfclZ3c1NqU3lNNlBWR1pZcjFCektYOFpCeWJ4UzlFdEJuSDQ2TUNJZlV4TVhpUjJ5VDd6bjM5RW9wRXU5SDJVUDMyOWZXMDFSRlotQUFRSWhrSGRHQTA0NndhS1F6UU9SejdLd0g4WjZyM0R0NWpVVnd0MGlQZkQ0LXB4U2c?oc=5
+- More capable frontier AI models will substitute engineers: Yoshua Bengio | India News - Hindustan Times
+  More capable frontier AI models will substitute engineers: Yoshua Beng
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWYxX3prLXlZckFBdE1fV1ZCekUyZzVzdkdlQ1JoeWZ2a3o5QjkybW9QMnJtUGkyS011U2JjVDdRODhDMG1PVGdYRXlUUE1OY2ZaQ2xDSEJ1TjNFOXZtakVTVnotVnd2eVRUeldMSHd6a0lDR3NHa1N5OHUyN25jallKMXY2VVFFbHNnWGZzTEZlVjR3QjlhLUlKTU0xMDZLT1g1R1FiSHA2YUdtNEpkR2tnanRaTEU0djhlYU9B0gHDAUFVX3lxTE12Z2pDWHJnNkl2aF9QS1VkSm14ay13UFZFclFCUUJNYmRtc3NzNE5fRUFmVVhGZDg4ZEdhbGlXLVhYYldMTVZxalBldWw4NHczNUZONEpSWGdIRDVMY3lmdndRblBUNXRmZlJzMENxOWJXYVJzVUxSN1VVTHQzWUZjdUtkSC1iZlc2eTZSRzg1Ty11eVhzLTlqaFFjTmJBa0dGVlZad204Z1A2eTRnYTAxM2U0cktrWkVsbVdMOV9GOHUtNA?oc=5
 
-- India AI Summit 2026 Day 2 Highlights: India should be among the top three AI superpowers globally, says PM Modi, sets 2047 vision - The Hindu
-  India AI Summit 2026 Day 2 Highlights: India should be among the top three AI superpowers globally, says
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTDNLZVRaWGwyOUpFTnJNZUNmZXpLUTgtdm53ZWRTRVNibjcxVnFpd2JjNF93cXNINkZhMVBCZ0gwcktPODEwVk1SSVVlWjhKT1ZEMk92ZUNrTmYwYWpfUzdicm1HdjQwZ2doc0lIUFUwS1dDdEsxdUxBWl9jY01RWnhKc2psQnRRTjVldG51UXhucmxFeFN3a2taNE1Tc2lubExFUTJUR0szb2xPakpxS0JrU01icmUwV24wM0Y5c2lrcGpDdlVOeW1NX2NRak1jeDZWTURmTzE3bW_SAeIBQVVfeXFMTnk0UEx4NDJRSjVuWW1nNXoyYUZnczlrMzNrVWs0V3NnU1dUZEp5R2liMDcxS3dqVldCbEdoYWcxRTlkWUdRcUlFdUZncmp4Qmp2UjdNaE1EdGhuSDM5WDJXN1NIdUVrUmZRU2RETzhiWHBhY0NoYUMtcWluREVNaTBrSTF2aGFSZUVLZ2cwd2RSeUppZ1J5X1VRb25xNnE3Sll5ZXRJZXhRSGZKLXJJQW9QRmNTTEpUY0NjdTNmSXNBNERkQjlFLTFLQjBVcEhkVHhadkhJaFI5TlZucWZoNWc5QQ?oc=5
+- Can't Be Clearer: Expert On India Hitting Pak's Nuclear Site During Op Sindoor - NDTV
+  "Can't Be Clearer: Expert On India H
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUUJWTFkzbGh0aHExbjdWZFktWFJCZUYxYjYta3NPZzRqZDZIZzBFYkYteGZnWHhIUmFRU3hEcWJsSEpLSmdBbDE0Vi1WUFROeGR2c2VUU0w3M0lLcjZvMmVjd3VXSUZiTmp2UEk2c2RYYm9jdi0yWkl3U2VQNmNvWlRFSTVKa294eXdBeXdZS0JidE15eU9KdlBhQ2I1TTVxVk1ZMXJnVElZakR6Y0tJcE9JekpvLUV0b1lveldoUjZrdWEtVWktUzYzN2FFV2tCMFpJQ0loMjV3bWEtS2VEOGFR0gHqAUFVX3lxTE5vUG1weHROVjMzYTlnT2RrZVFvUXZ1YnFRVjZsUVU0OEYxemVVS09qRGU3dTAwQWNLdTV6SHowOTRONi1naEF6YkR3V2FhbFJjZlFSTmJTTEs5SjFTOW1acFhjM1QzaTU5MExraEVWR2FhMHoyN3Zrc0ptR2d3c1UxZ2JVcnNnWVpINm5aU3ZTbkRFdHNpOVg4ZXV0LWdELUN6OHZFZGxOcXN0dW5GZ2tMX1haMG5sRmV0NG9NekZkc0VrNGRTU2Rzd05DUTNzdGZSVjVlSEozZE1qWXFtYUoxOUtfZlNrejNjdw?oc=5
 
-- Assistant Registrar Vacancy At National Institute Of Technology, Rourkela - Live Law
-  Assistant Registrar Vacancy At National Institute Of
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPeVIwRTNWTklXUTkyZGZsdXdncV9SMnNMRUZ4Z3VzNERYel9hdXFIUktVcDRIMDlIQ28waUN5a1dxVndVMU1nSlA5MjlhZGs5SzZ5LVhlXzg2VzFMQjFRZ2FlNWYxb3RnQmNPS1NLSGxCUWNrWHJLVVhEeC1JMmNLT3UyRjgwNFM4QklLYWE1TmUzU1RFYzNQYXNTNU1VNXoxSWZiZk5sWENXb3hNT3Jxa1R1c2fSAboBQVVfeXFMUDlpUVh0U29xOVpHSEgwRDVIejVGTEF2ZlJCVkFvYlo1VzVJUW1jS3BOWWZkMGRVbndJRGhBX3RmVFdLR0ZVcVROUFMzZmhtNmJXRjRZcHJoMlFyRjBFbmVEMlpXUVhvLWRCVWY4TDY0N2M3NjFvWWt6ckZGVk5nZ2lBVV9aYkloMWJ1YnJJLVV5eHNSMWd3bm5idm9VNGhCeDk3Ty1MLUN0WkJ2ck1oN1VqM00tSzFWT19B?oc=5
+- Defence spend, upgrade in line with current realities: PM Modi - Times of India
+  The defence spending is in line with current realities,
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWVUZFdrUmd0QmxzYkdpcFlHUXdOamJubnpYdlZDQjhtN1hMZ2hDelhjTkh6TVpnOGZEVEd4YUZGWkR2MlBsdEc0M1BKaUtiR1MweEpXSjlGa21HajZJb21uR1dHYWNBaXdQWkgtV2h4ZmVvTzByV2ZWWThuM1Z2VHZlZ2ZfalBSVGV3M2dTNzVtWGtqQ055cklMS0s0Q1dtazMzaTBjU3hDTVZYdE8xR2NUZnFaSHpKWUN1VkYxYWhudFptd3JN0gHMAUFVX3lxTE9EQVdySEEwQTJmZVlEeEduaDNrc3o0b3lkUUhRYjU4a1NSLTBqVnl4SFRVd1N1UjhfZ2ZNS0ZfVksyTm9WN1pfTUNILWVDckFvaWp2OGpSY25MMGI5VzFGSkdaTTVzeXFGLXFMcklPbVF6Q2RrTkN0V1JwTllHUm5kZ0xobXRxZWJIWmlTU19odlJnY200OGhOaFA2ZFA3SWFJZWNrQUFlM3NmaHU5Q1ozYWJHdW5BcFlScEdvTDFQd1p0bUhrclRLci02dQ?oc=5
 
-- ICE reliance on Microsoft technology surged amid immigration crackdown, documents show - The Guardian
-  ICE reliance on Microsoft technology surged amid immigration crackdown,
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPRXB5ZnBJUUhPUFpmVkh2V3lvUm4tWTlQcUdBTXp1WnhnMG5qX2Z5d3Vwa0dtb2NXOFlUV1N0LUFES3l3c0xpNk51TWtWd01nM2p3VktZdTRLVlVYakM4LW41YUk4M3liNDhTeHo2YWxlTDZYc0l0d0pndzZNaHpaWk0zZ2l5Vi1EV2tWemZPdFE2ckIyc0NfU1lB?oc=5
+- India AI Summit 2026 Day 3 LIVE: Galgotias University ousted from venue over Chinese robotic dog controversy - The Hindu
+  India AI Summit 2026 Day 3 LIVE: Galgotias University ousted from venue
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQVdxbUFlTjJ5RkxSamdqQnJzdzI5SkVlUmUyMHhFcUdEdjhyMkFjaElBdFlNaUtYc2JULWdEbk12ZHdUNDF0amNhaFlQSE9hZXVCbDJ1aldDbnpsLU1Ia1BPdjJVYnhqMjFCanV5eDJnTVROdUxOeTFYRzV1VXhSUV85VXNBeTlrblNWWWFTcmFKSTlUd1hkRlNFWjMzYm9BR2JuVVNlWFV3dTNzTFpaNXRaa3duTWZ5b3N2YkFUZFFIbktRRkRoeFBDUVdxNHV6Y05GV3VYWGJxVnfSAeIBQVVfeXFMTV9IYlBJelFPOU5ISDhPMDN5dzRfYTZuVGVEdDNCODRHTTVGVFNZWDdPVTkwOXozU2o3dEQ3eklYTmRpSDVOSlNmazE1TUpxbUs2cmhNT0dQcTlBYUFPVEJLeXkwV0pZLXFHelo2bFNhaUtUQ0ptNWI3OVA3VjkwcGltN1pRaEhGZHNiazBzbUJjWk91MXA5TXlZUW1FUFNjc09Ta0dhTnA5RjJvckVsWmhnTHZkcl81Y0JycG5vSnBXSWt1VlFNSmROVV9BYjdlcTNHNkt4WUlobi1IUlZGUktVZw?oc=5
 
-- Cognizant to provide strategic technology services for Wallenius Wilhelmsen - Cognizant Press Releases
-  Cognizant provides strategic technology services for
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXFGSjVTVkQ4Y2hOZmszTkFUTVhvNzFkTVFXQ3RGSTZrT1VmSm1MNjNYTTUwMmdpOGNHSVdSRW5oTzdoN1FqUldhb2hwOEp2d1VrTVlXZ2ZzcVBlbGFZTzV0czZyODgweGpnRWxCQ29fUWV0MW12b1RMaEF1NUp2WHFBR09BOGNhUTJLNDRKZmFnRTUwbTYxc0xEUExORkthYnlDbzRxZzBNSnZoR1E1Vl9CNA?oc=5
+- AI Impact Summit 2026 Day 3 Live Updates: 'Galgotias University has been asked to vacate the AI Summit Expo immediately' - Times of India
+  AI Impact Summit 2026 Day 3 Live Updates: 'Galgotias University has been asked to
+  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxPbW1pMDRraWZKMVQwQVZZRUEtWHMyLW5obnd0RXVSdkF0TFR3Nm9yTS14R0I2OW5xVENITVRkbGpNZTN4U0NxYTROR0pja19NYjNYSUxveEpkNDBZOXlqalBkaDgxWG9fU2h6YUJCTnZnaWpuUHJ4LVQxcWJnRnNidTNrdUNqcEhrS0oyemFMV0l3dENiUEpTc00yck96bWRCbEVkdmpDTlRPYkRQRV9DSWJPVkVJZ3RXVW5xeHJKSlR4V3NRX2kyX1p0YlQxN1Eta1RUeXpoUTE0X3p2NTNBaGVUTDZ3N0ZjVDlsalFwTjZ6d0xfTTJGbzduUkMzMU02alNSdTZQZFVZbUhiNldNTmlBOVljaG1UVi1NYnNCd9IBpAJBVV95cUxPRWxfN1lyNXVxbUpBNUk4bEZqbFZnYzV3a1h1Sks5XzVielRqRmYyVTJlTXNWc19pdTdWdEk2dURqUU9qX3o4S2RiUlZaZXhTSkQtRUt2bjVaQVVXYkdDald6RUdQWHdSZVhDdFdQalM3UDk3Q0g3cEhUalZRemZxc1JVbVh0cl9mRENCT2hUQ0xyTXZTLXRudHVvVnJaMTBCdGQ3VW9Fbk1sZHlNYU45SG9LeEJJQWx3a2dZUDZIQlc0WUhpTDFJUFhCS2F3NEdreUE1ajRlYTJGRlh5NWxrQTNLVGF0QlNRNlRsdHJEc3c2MDFacTlQdEF3U1pTYkpMbnFzc1hSZ3pfV3huVzd1STZaNFJyT09NdHpDelVGTFd3ZXd0?oc=5
 
-- Bill Gates discusses technology in governance and public health in Andhra Pradesh - News On AIR
-  Bill Gates discusses technology in governance and public health in Andhra
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVIya2JIMmN0MWZDdWRKcUtjU09zcFdyd0U3emh5RW00WDE2dS1KNmgxcF95eVBlbFppWExfMjBSRGQ4QkY5ek5KRXlrQnRKTEtOMDJheVdVQ2JST3FUZVZyQzEtSXNpa0dPeW1vYUNwZ2p5Nm9Wbk96VXZlc0doUm5rME9XSzZVZVE0cERWZC1jMEdzUUI0TmMzc0Q3TC1YUTZXRkwydEFSNG4tcEVWTA?oc=5
+- More capable frontier AI models will substitute engineers: Yoshua Bengio | India News - Hindustan Times
+  More capable frontier AI models will substitute engineers: Yoshua Beng
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWYxX3prLXlZckFBdE1fV1ZCekUyZzVzdkdlQ1JoeWZ2a3o5QjkybW9QMnJtUGkyS011U2JjVDdRODhDMG1PVGdYRXlUUE1OY2ZaQ2xDSEJ1TjNFOXZtakVTVnotVnd2eVRUeldMSHd6a0lDR3NHa1N5OHUyN25jallKMXY2VVFFbHNnWGZzTEZlVjR3QjlhLUlKTU0xMDZLT1g1R1FiSHA2YUdtNEpkR2tnanRaTEU0djhlYU9B0gHDAUFVX3lxTE12Z2pDWHJnNkl2aF9QS1VkSm14ay13UFZFclFCUUJNYmRtc3NzNE5fRUFmVVhGZDg4ZEdhbGlXLVhYYldMTVZxalBldWw4NHczNUZONEpSWGdIRDVMY3lmdndRblBUNXRmZlJzMENxOWJXYVJzVUxSN1VVTHQzWUZjdUtkSC1iZlc2eTZSRzg1Ty11eVhzLTlqaFFjTmJBa0dGVlZad204Z1A2eTRnYTAxM2U0cktrWkVsbVdMOV9GOHUtNA?oc=5
 
 
-_Last updated: 2026-02-18 01:52:04 UTC_
+_Last updated: 2026-02-18 07:00:31 UTC_
