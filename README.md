@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
-- At Delhi AI Impact Summit 2026, PM Modi unveils ‘MANAV’ vision for artificial intelligence
+- Indian Railways revises schedule of Firozpur Cantt-Delhi Vande Bharat Express train
   
-  🔗 https://indianexpress.com/article/india/at-delhi-ai-impact-summit-2026-pm-modi-unveils-manav-vision-10540242/
+  🔗 https://indianexpress.com/article/india/indian-railways-revises-schedule-of-firozpur-cantt-delhi-vande-bharat-express-train-10540900/
 
-- Bihar’s ‘last Naxal’: Surrender that ‘brought Maoist activity to end’ in the stats
+- ‘Are they not Indians?’: Sajad Lone slams police verification of J&K residents
   
-  🔗 https://indianexpress.com/article/india/bihars-last-naxal-surrender-that-brought-maoist-activity-to-end-in-the-stats-10539801/
+  🔗 https://indianexpress.com/article/india/indians-sajad-lone-slams-police-verification-jk-residents-10540971/
 
-- Kerala Story 2 trailer: CM Pinarayi Vijayan urges people to reject ‘hate campaign’, says ‘truth must prevail over lies’
+- ‘I am not a flight risk’: Anil Ambani files undertaking in Supreme Court amid Rs 40,000 crore fraud probe
   
-  🔗 https://indianexpress.com/article/india/kerala-story-2-trailer-cm-pinarayi-vijayan-urges-people-to-reject-hate-campaign-says-truth-must-prevail-over-lies-10539800/
+  🔗 https://indianexpress.com/article/india/anil-ambani-supreme-court-rs-40000-crore-fraud-probe-10540880/
 
-- ‘Right-sizing’ federalism: Tamil Nadu panel headed by Justice Kurian Joseph calls for changes in language policy, Governor post
+- IRCTC tightens rules: Aadhaar verification must for advance and Tatkal bookings
   
-  🔗 https://indianexpress.com/article/india/right-sizing-federalism-tamil-nadu-panel-headed-by-justice-kurian-joseph-calls-for-changes-in-language-policy-governor-post-10539799/
+  🔗 https://indianexpress.com/article/india/irctc-tightens-rules-aadhaar-verification-must-for-advance-and-tatkal-bookings-10540786/
 
-- On the wrong train at age 6, home at 22: The 14-year journey of a lost boy from Jharkhand
+- As terrorists shift base to mountains and dense forests, a weekly security review to bring Jammu and Kashmir closer
   
-  🔗 https://indianexpress.com/article/india/wrong-train-home-lost-boy-jharkhand-10539794/
+  🔗 https://indianexpress.com/article/india/terrorists-mountain-dense-forest-security-review-jammu-and-kashmir-10540674/
 
-- Meta reboots smartwatch plan, aims debut in 2026, the Information reports
+- Adobe offers Photoshop and 20 plus Creative Cloud apps free for Indian students
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-reboots-smartwatch-plan-aims-debut-in-2026-the-information-reports-10540075/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/adobe-creative-cloud-free-indian-students-10540962/
 
-- UK to impose 48-hour online takedown rule for nonconsensual intimate images
+- JioHotstar partners with OpenAI: Now use ChatGPT to find your next favourite movie, webseries
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/uk-to-impose-48-hour-online-takedown-rule-for-nonconsensual-intimate-images-10540074/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/jiohotstar-partners-with-openai-now-use-chatgpt-to-find-your-next-favourite-movie-webseries-10540933/
 
-- Bill Gates pulls out of India AI Impact Summit hours before scheduled attendance
+- Apple may be making wearables with ‘eyes and ears’ for iPhone
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/bill-gates-a-no-show-at-india-ai-summit-event-marred-by-organisational-chaos-10540152/
+  🔗 https://indianexpress.com/article/technology/gadgets/apple-wearables-pendant-airpods-smart-glasses-10540504/
 
-- Meta’s Zuckerberg denies at LA trial that Instagram targets kids
+- ‘Knowledge is human’: Co-founder Jimmy Wales on why Wikipedia still matters in an AI world
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/metas-zuckerberg-denies-at-la-trial-that-instagram-targets-kids-10540073/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/jimmy-wales-wikipedia-ai-knowledge-is-human-10540648/
 
-- US plans online portal to bypass content bans in Europe and elsewhere
+- This Rs 1,600 ‘Apple Pencil’ alternative works with any smartphone or tablet, even my decade-old iPad Air
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/us-plans-online-portal-to-bypass-content-bans-in-europe-and-elsewhere-10540070/
+  🔗 https://indianexpress.com/article/technology/opinion-technology/this-rs-1600-apple-pencil-alternative-works-with-any-smartphone-or-tablet-even-my-decade-old-ipad-air-10540611/
 
-- India has ‘central role’ in managing AI risks and opportunities, says Anthropic CEO Dario Amodei
-  Dario Amodei, CEO of Anthropic, emphasized India's crucial role in AI development. He noted its historical influence on the Global South and the
-  🔗 https://www.livemint.com/companies/news/india-has-central-role-in-managing-ai-risks-and-opportunities-says-anthropic-ceo-dario-amodeianthropic-ceo-dario-amod-11771480673371.html
+- Crypto firm CoinDCX announces  ₹111 crore ESOP buyback for employees — full details here
+  CoinDCX has launched an ESOP buyback worth  ₹111 crore for over 500 employees
+  🔗 https://www.livemint.com/companies/news/crypto-firm-coindcx-announces-rs-111-crore-esop-buyback-for-employees-full-details-here-11771494206585.html
 
-- European Union Aviation Safety Agency suspends TCO authorisation for VSR Ventures after crash
-  Ajit Pawar and four others died on the morning of January 28 after the VSR Ventures-operated Learjet 45 aircraft crashed.
-  🔗 https://www.livemint.com/companies/news/european-union-aviation-safety-agency-suspends-tco-authorisation-for-vsr-ventures-after-crash-11771470236607.html
+- AI to replace half of Mistral AI's software? Here's what CEO Arthur Mensch said as tech stocks face headwinds
+  Mistral AI CEO Arthur Mensch said over half of current SaaS software could shift to AI. Mistral plans its India debut, targeting public and private sector clients.
+  🔗 https://www.livemint.com/companies/people/ai-to-replace-half-of-mistral-ais-software-heres-what-ceo-arthur-mensch-said-as-tech-stocks-face-headwinds-11771489811712.html
 
-- OpenAI to open new offices in Mumbai and Bengaluru as Sam Altman attends AI Impact Summit
-  OpenAI is set to expand its presence in India with new offices in Mumbai and Bengaluru later this year.
-  🔗 https://www.livemint.com/companies/news/openai-to-open-new-offices-in-mumbai-and-bengaluru-as-sam-altman-attends-ai-impact-summit-11771471821695.html
+- JioHotstar teams up with OpenAI to bring ChatGPT-driven content discovery in India
+  Hotstar has partnered with OpenAI to introduce ChatGPT-powered voice discovery on its platform. The new multilingual feature will let users find content
+  🔗 https://www.livemint.com/companies/news/jiohotstar-teams-up-with-openai-to-bring-chatgpt-driven-content-discovery-in-india-11771487034949.html
 
-- Epstein files fallout? Bill Gates to skip keynote address at India AI Summit today
-  Gates Foundation has not provided any specific reason behind the cancellation. Bill Gates recently became the centre of controversy after fresh details about his association with convicted child sex offender Jeffrey Epstein emerged.
-  🔗 https://www.livemint.com/companies/people/microsoft-founder-bill-gates-to-skip-keynote-address-at-ai-summit-today-announces-gates-foundation-epstein-files-11771470947532.html
+- Tech Turbulence: Navitaire outage briefly jolts IndiGo, Akasa, AIX check-ins
+  A worldwide technology snag at Navitaire, an airline reservation platform, caused temporary disruption for some Indian carriers on Thursday morning.
+  🔗 https://www.livemint.com/companies/navitaire-outage-indigo-akasa-aix-check-ins-amadeus-11771482200906.html
 
-- Tata Group to roll out ChatGPT Enterprise across companies, ‘accelerate AI-native transformation’
-  Tata Group teams up with OpenAI to deploy ChatGPT Enterprise and expand data center capabilities. TCS will utilize OpenAI’s Codex
-  🔗 https://www.livemint.com/companies/news/tata-group-to-roll-out-chatgpt-enterprise-across-companies-accelerate-ai-native-transformation-11771470415354.html
+- Mint Explainer | Can Ola Electric recharge its fading spark?
+  With more than one million scooters running on the road, the fate of Ola Electric matters for consumers and investors
+  🔗 https://www.livemint.com/companies/news/ola-electric-sales-bhavish-aggarwal-ola-service-complaints-ola-share-price-11771479798047.html
 
-- Sensex crashes over 650 points, investors lose  ₹4 lakh crore— Why is stock market falling? Explained with 5 key factors
-  Sensex crashed over 650 points, while the Nifty 50 dropped to an
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-crashes-over-650-points-investors-lose-4-lakh-crore-why-is-stock-market-down-explained-with-5-key-factors-11771483412885.html
+- Macquarie flags ESOP costs, revenue concentration concerns over PhonePe IPO
+  Macquarie raises concerns about PhonePe's ESOP costs and revenue concentration ahead of its IPO. High ESOP expenses impact EBITDA margins, and
+  🔗 https://www.livemint.com/market/ipo/macquarie-flags-esop-costs-revenue-concentration-concerns-over-phonepe-ipo-11771503269397.html
 
-- Stocks to buy: Nagaraj Shetti recommends Cochin Shipyard, Hemisphere Properties shares to buy
-  On Thursday, Nifty 50 and Sensex declined due to profit booking. Most sectors traded in the red, with banking and financials contributing to the downward trend. IT and pharma showed some strength.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-cochin-shipyard-hemisphere-properties-shares-to-buy-11771481876564.html
+- LIC Mutual Fund NFO opens tomorrow: Price, date, review, and other details in 10 points
+  LIC MF Technology Fund aims to allocate capital across a wide spectrum of technology-driven sectors.
+  🔗 https://www.livemint.com/market/stock-market-news/lic-mutual-fund-nfo-opens-tomorrow-price-date-review-and-other-details-in-10-points-11771501756883.html
 
-- BPCL, HPCL to IOC: OMC stocks fall up to 3% on sharp rebound in crude oil prices
-  Oil marketing companies, including BPCL, HPCL, and IOC, saw share price declines of up to 3% due to rising global crude prices
-  🔗 https://www.livemint.com/market/stock-market-news/bpcl-hpcl-to-ioc-omc-stocks-fall-up-to-3-on-sharp-rebound-in-crude-oil-prices-11771481144159.html
+- Markets signalling a broader base for upside; positive on financials, says Devarsh Vakil of HDFC Securities
+  Devarsh Vakil of HDFC Securities emphasises the importance of asset allocation and a long-term focus in investing. With the Indian market showing signs of recovery and sectors poised for growth
+  🔗 https://www.livemint.com/market/stock-market-news/markets-signalling-a-broader-base-for-upside-positive-on-financials-says-devarsh-vakil-of-hdfc-securities-11771499685940.html
 
-- ITC, Godfrey Phillips shares rebound up to 25% in February: Are cigarette stocks a good buy amid price hike buzz?
-  Cigarette stocks have rebounded up to 26% from their February lows. Reports of price hikes by the companies to mitigate the impact of
-  🔗 https://www.livemint.com/market/stock-market-news/itc-godfrey-phillips-shares-rebound-up-to-25-in-february-are-cigarette-stocks-a-good-buy-amid-price-hike-buzz-11771481814981.html
+- Lunar New Year 2026: Why does China market shutdown hurt silver prices more than gold? Explained
+  Silver prices have seen volatility this week as key Asian markets close for the Lunar New Year. Lack of trading liquidity, especially from China, has intensified price swings, highlighting silver's vulnerability as
+  🔗 https://www.livemint.com/market/commodities/lunar-new-year-2026-why-does-china-market-shudown-hurt-silver-prices-more-than-gold-prices-explained-11771485215893.html
 
-- From Radico Khaitan, Arvind Fashions, to Aditya Vision— Systematix lists 9 consumer discretionary stocks to buy
-  Systematix lists 9 stocks poised for growth, highlighting trends in premiumization and strategic shifts. The Indian consumer discretionary sector shows resilience in Q
-  🔗 https://www.livemint.com/market/stock-market-news/from-radico-khaitan-arvind-fashions-to-aditya-vision-systematix-lists-9-consumer-discretionary-stocks-to-buy-11771479149011.html
+- FPI ownership in NSE-listed firms shrinks to 15.5-year low after record $18.9 billion outflow
+  Domestic institutional investors' share rose to 19%, surpassing FPIs. Mutual funds' holdings reached an all-time high
+  🔗 https://www.livemint.com/market/indian-equity-market-fpi-outflows-dii-inflows-retail-participation-growth-11771485607370.html
 
-- India has central role to play amid challenges around AIs potential misuse: Anthropic CEO
-  India has central role to play amid challenges around
-  🔗 https://www.livemint.com/technology/india-has-central-role-to-play-amid-challenges-around-ais-potential-misuse-anthropic-ceo-11771478772387.html
+- Google and Apple turn to AI music tools to deepen consumer engagement: Here's how
+  Google and Apple are adding AI-powered music tools to their core apps. Users can generate songs, cover art and playlists from simple text prompts.
+  🔗 https://www.livemint.com/technology/tech-news/google-and-apple-turn-to-ai-music-tools-to-deepen-consumer-engagement-heres-how-11771505080923.html
 
-- AI Impact Summit 2026 LIVE: Google DeepMind CEO Demis Hassabis says AGI ‘on the horizon’ within five years
-  Google DeepMind CEO Demis Hassabis has predicted that AGI could arrive in the next five years. Hassabis further stated thatAGI
-  🔗 https://www.livemint.com/technology/tech-news/ai-impact-summit-2026-live-sundar-pichai-dario-amodei-sam-altman-ashwini-vaishnaw-19th-february-11771474964686.html
+- AI tutors, doctors and farm experts for all: Vinod Khosla suggests Aadhaar-linked AI public services
+  Vinod Khosla has proposed a
+  🔗 https://www.livemint.com/technology/ai-tutors-doctors-and-farm-experts-for-all-vinod-khosla-suggests-aadhaar-linked-ai-public-services-11771500218760.html
 
-- AI Summit 2026 LIVE Updates: PM Modi announces MANAV Vision for AI, Mukesh Ambani says Jio to invest  ₹10 lakh crore
-  Prime Minister Narendra Modi spoke at the opening ceremony of India AI Impact Summit on 19 February, Thursday. During his speech, he announced the MAN
-  🔗 https://www.livemint.com/technology/ai-summit-delhi-2026-live-updates-ai-impact-summit-day-4-bharat-mandapam-india-narendra-modi-delhi-expo-19-february-2026-11771467770165.html
+- GalaxEye’s OptoSAR satellite will use AI to interpret, process Earth observation data
+  GalaxEye’s Opt
+  🔗 https://www.livemint.com/technology/galaxeyes-optosar-satellite-will-use-ai-to-interpret-process-earth-observation-data-11771495884743.html
 
-- Software firms won’t die, AI models can’t work independently: ServiceNow COO
-   Enterprises will never simply go and adopt a barebones model for the work they do. They want trust, compliance, a team to fall back on, security, and compatibility
-  🔗 https://www.livemint.com/technology/servicenow-amit-zavery-coo-ai-impact-software-jobs-india-tech-hub-11771428159981.html
+- Gemini can now create music: Check features, supported languages, and how to use Lyria 3
+  Google launches Lyria 3, an AI model that generates 30-second music tracks from text or media. Key features include automatic lyrics, control over musical elements,
+  🔗 https://www.livemint.com/technology/tech-news/gemini-can-now-create-music-check-features-supported-languages-and-how-to-use-lyria-3-11771471048420.html
 
-- 'Misinformation cannot be encouraged, essential that a code is followed':  MeitY Secy on Galgotia Universitys robodog controversy
-  The Ministry of Electronics and Information Technology (MeitY) has addressed the removal of the Galgotias University stall from a recent expo
-  🔗 https://www.livemint.com/technology/misinformation-cannot-be-encouraged-essential-that-a-code-is-followed-meity-secy-on-galgotia-universitys-robodog-controversy-11771453913781.html
+- AI Impact Summit 2026: OpenAI chief Sam Altman calls for ‘urgent’ global AI regulation
+  Sam Altman proposes an IAEA-style body to manage risks. He warned of biosecurity threats, backed democratised access with safeguards.
+  🔗 https://www.livemint.com/technology/tech-news/ai-impact-summit-2026-openai-chief-sam-altman-calls-for-urgent-global-ai-regulation-11771493496276.html
 
-- Asian Stocks to Climb as Tech Lifts US Equities: Markets Wrap - Bloomberg.com
-  Asian Stocks to Climb as Tech L
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVNrV2g5Qng5NU9Ud0Rlc1hRS2FyMjJLWF9CUkFRWnRaVDZDcG9ucE5qYzE3SnJEem1jUUlhZUtsTm9DQ3JZQ2gzVzZsTC1TcTdudHd2YlpxRTVWV2lvZHM1Y3ZRYmZzdGpISXFKcXVxZ1AySGstVUlKRTFXdVFNcmo0TXNRVXdZSzJrVkxuRUZKaWU0WTNxaEVxZ0V4UGwxQm1qMm5YYnJlZ1o1Y2hmTw?oc=5
-
-- Volatility Grips Wall Street as AI Anxiety Lingers: Markets Wrap - Bloomberg.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGNMd19mVHpma1pEcHRyeUw3VTdQcktsaG04RGRfSFVNUHdTV3FsajNEMUlhbHQ1VXhqOXJBNTdiOG9uS0xlS0lEYlBwZko5QXVoc1h5TDZBdXV0UnlXMXBUWXdYaXY5dDV5TWpzcVpEazZVSm5tdjBjcVNnWVFCeUNxajlGT2EyamFwd2c4bm53NHhyMV91dS1JUFRjMFdRT3BTMlNudmFFa0lRSW9NbFBoVQ?oc=5
-
-- Markets News, Feb. 18, 2025: Tech Stocks Lead Markets Higher; Fed Minutes Reveal Deep Divisions Over Future Rate Cuts - Investopedia
-  &nbsp;&ngt;<font color="#6f6f
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPc0NzcFl0MzF3VWp4cWJlOGZBN1ZrVzVHd0NfLWctVFFfM3lvNHg3SDdwSnJJd25obG93bU53ZFJ4T251YnVoZHR1V3NuM1ZUTjRQM20ydXJlNFo3RUZGODhKWnlTb1Y2dUJDLWhsR0xiaWR0YzJyZFE4bDNrajlEYUFsaW1XNnNtLVYybllNNjM?oc=5
-
-- S&P 500 rises, led by Nvidia, even with Fed rate outlook uncertain: Live updates - CNBC
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBuZmJtOEdLVG11bmRRaUdKSlQyN3ZxU080SjBPME9YR1h1akl1MWRSN3ZfVm9TOWRsNnZkaTd5bE9zU202UVlrcHpNRTlqMDltQ0RsRE9mU0JTNU9TRWlQNU9vbHluQ1NGMk90b3Rxb2xhOGFKMy1F0gF8QVVfeXFMT1M3VmlvNmhmMk5JTTBhMnhuWUVHMWRjZk12NTRzbG9OUk53LXNQUkh1WS1sc3FXWnJPMkIwREp1N1lwLUlnZV9CMFU5QUp0ZWVRYW5KZXAxdVE3OXkzMFBsaVF3dkNPT0RQUlp3WTNhSERyMEx5WVlSeDh6Sg?oc=5
-
-- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex sinks over 700 points, Nifty below 25,600; In... - The Economic Times
-  Sensex sinks over 700 points, Nifty below 25,600; In...
+- Market Highlights: Sensex plummets 1,236 pts, Nifty below 25,500; Indigo, M&M drop 3% each - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMigwJBVV95cUxNUXZOVjZNU0FDVDV5UWVxSlpLSVhXSFJuZm40Si1YUmwxdWZ5dnRrM250eEw1LVFmVGFKZ0NrRURHRGVvRDVpelUwSWxrWldqS1U1bkYxMXhPWXJ5SU13SUZWYXluZEdlSn
   🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxNUXZOVjZNU0FDVDV5UWVxSlpLSVhXSFJuZm40Si1YUmwxdWZ5dnRrM250eEw1LVFmVGFKZ0NrRURHRGVvRDVpelUwSWxrWldqS1U1bkYxMXhPWXJ5SU13SUZWYXluZEdlSnloYlIwbTllMmg3eUEzNEJ1WE40dkMtcFl2U1AyZk5sbDlXUlliSWxhTzlOd1pPV0xsQnlzZDJBMGFBX0ltSFpvS0tncEp6Zk93UjF2TVhMYkp6ZW5LeVZMb2xkOXBjNXhwNWo5dGcyRnNLT3oxMmV3U3A4LTV4cFNCUDRzT3ExT2pncUN2Ujg2ZUM2UHF5bDZrRFhCbnY1blRB0gGIAkFVX3lxTFAwbVBaM1lhR3dERDhLZVVfSG5tSVJEelIxVGtYSFJWWmRGNU9RQXdUUkRiZTAzOGZuUlg2R1Uyb2c1VUhZR2NNQmZ3elNBc2ducm9RRHNwVHFqUnlRM2tZQU03OHFsM2laY3NGMzFTR0d1Z1NHaFl6RzhicTBORk5hR2JkdFJwOTJqbl9qelFjeUZNdmVQRVB3MUV2WUI1bVl5aVRUNXNOVVZ6VGpvVEVsSFI3UFBRTHhoUlJQNlhDY01tOVFwSlpSdFdoVmMwVU1aYzc1ZGhDcEg3TXVrTTFPd3hfcnA3dlVhVkJVNEo3MEdiOE45dEVGWS1ObTdaQjFnS1Y4cFQ2RQ?oc=5
 
-- Indonesia bond auction weak but not distressing, central bank policy decision awaited
-  Indonesia's recent bond auction saw softer demand, attributed to Lunar New Year holidays, despite market jitters. Authorities raised more than targeted, but bid-to-cover ratios dipped.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/indonesia-bond-auction-weak-but-not-distressing-central-bank-policy-decision-awaited/articleshow/128543388.cms
+- Stocks Extend Rally as AI Fears Ease, Oil Rises: Markets Wrap - Bloomberg.com
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVNrV2g5Qng5NU9Ud0Rlc1hRS2FyMjJLWF9CUkFRWnRaVDZDcG9ucE5qYzE3SnJEem1jUUlhZUtsTm9DQ3JZQ2gzVzZsTC1TcTdudHd2YlpxRTVWV2lvZHM1Y3ZRYmZzdGpISXFKcXVxZ1AySGstVUlKRTFXdVFNcmo0TXNRVXdZSzJrVkxuRUZKaWU0WTNxaEVxZ0V4UGwxQm1qMm5YYnJlZ1o1Y2hmTw?oc=5
 
-- Godfrey Phillips India shares rocket 31% in just 3 sessions! Here’s what’s fuelling the rally
-  Godfrey Phillips India shares are surging. Companies are raising cigarette prices to cover higher costs. New tobacco tax regime.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/godfrey-phillips-india-shares-rocket-31-in-just-3-sessions-heres-whats-fuelling-the-rally/articleshow/128541984.cms
+- Evening news wrap: Former UK prince Andrew arrested amid Epstein row; Bloodbath on D-Street as markets cr - Times of India
+  The Times of India reports on the arrest of former UK prince Andrew. The prince
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelVqTFRGNTdWWnFCVkhLRE5SQU9LMFdRNldVa00zVFVDM05DTjViSnFPYUpQRnV0bHd4RUVVazNSc3owRWZSNjhMWHlFd1hkUGhRTWYzUnRkLXNoTkhlb2k3RFJ0alFVLWZFUjhiUGpkU1FwYTZwWWlQakhzaENMZUhWZXQ3NkN5T0hPeTluVUVuYXotWUNvWHJCc1o2dzk0Y2pOTXRVS3NYY2dKdTl1c0hIakZXX250cnNfSUcwNU9aREc2WjR2blBFR0JyenRiVlR2QXBhMlZhTVBiejd5WWlydEluT0FhdmhjajhrWXVrR2JoQjRYY25mNG5GclRkbjBzakJhMDRNODjSAZACQVVfeXFMTWVTWXU4OS1HMFhLbThxVHo3Zm9TbkNDMHVVUFpJaHdvbDBzU2ttLWVfejVUTlU0NWJTYWNGcUJEVkhRMGRGWVpPcDhkalZxUjZYb09CZFA5Q2czcElfQVQxV19hOWRybm9vV0E0VmZZOWdHQ1BUOGFHcG5HeVlLY3VxNGt6dGVkdHBBME5OSnlRTGFoNnZKOHZ3NVpfLXI2MlRRWnU2ejUtQWVqT1JNa2JJVXYxZy1rSS16a3labnk2bHVFaEEzeS1fYklPSzc1QmhrWlVCRjdPelNtMDZOb0NPMW00ZVdWMmpEakloaXM0UWswRUFzSXk1RXN1Yk9vMmFGVlZqSC1EUVJoSUN2dDY?oc=5
 
-- TCS shares rise 2% after Tata Group and OpenAI announce strategic partnership
-  Tata Consultancy Services (TCS) shares surged after announcing a strategic partnership with OpenAI to build AI infrastructure in India. This collaboration aims to boost productivity, enhance software engineering, and position India as a
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-rise-2-after-tata-group-and-openai-announce-strategic-partnership/articleshow/128542438.cms
+- Delta Resources Solidifies Financing, Capital Markets and Project Development Strength with the Appointment of Ron Kopas as CEO and Technical Depth with Daniel Boudreau to Vice President of Exploration - TradingView
+  Delta Resources Solidifies Financing, Capital Markets and Project Development Strength. Appointment of Ron Kopas as CEO and Technical Depth with Daniel
+  🔗 https://news.google.com/rss/articles/CBMijANBVV95cUxNLTBCYWRRb0hfS3VQS1VTejgwMjlCRGpTZk9GQ09CcEFqRlBPeXNxbE9HT0U0Z2tzUHNSQUhfa1FOd3pYNk1Ra1k3ZnZxZXdRYWNMaVlGV0xnV1h3a2ZRU25LTGhfYlc5OGUxWDVWZEtWUzRQekl5S2dxTEtHdFdWUXJ0VlZ4TnFNc1ZpSzVDTERCYWhOOXl6MVhWMVREcDZFRGFBTlVXX01HYTh1ejFZd2lJWDlWZU5kazRtM3RVUF9wQ0pPX0FmZkNRLTNTODg5Zkw0M0FLZDN4TGpET3N0eGRwZ0gyVS1KRk13WnJmV0RPcTQ4aUY2aUkzc2xCVFhEWV8xdlNFM0Z2ZmFGbm05NTkwZU01bzNYTzhROHBLSzBFdFRnT1pkQkNnQWhCVU9LWWdPNG9VU1d4blRfdHpTZFNFZ2VkSGMzSy1MVkN4NTFmVVdVQTI0M2J1RVUta2oxbkhpVmxzYUxGNkZOMFMxUWlCLURLeS1vZzJxQXRvRHNpRGhNWGM3MnNVZVo?oc=5
 
-- Stock picking key as markets navigate AI uncertainty: Amit Khurana
-  India Inc.'s third-quarter earnings show a steady performance with easing operating pressures. While domestic consumption remains a preferred theme, caution persists regarding AI cycle uncertainty and valuation dispersion. Infrastructure and
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/stock-picking-key-amid-ai-and-valuation-concerns-amit-khurana/articleshow/128542285.cms
+- South Korea's Kospi jumps to record high as regional rally tracks Wall Street gains - CNBC
+  South Korea's Kospi jumps to record high as regional
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVPM19QdlhLVHZXUEVzYmZ6QUlpdldtQkRGbmVEWERCVHRJNElqMjJUZmloVmVBSmUzV2xCTndMNXNWMDNSYllRcDZwYkxPY29Qc1lhR0lGMnNGTk0yenZXX1c5MnRSZHZPOTNQYWZXNXNNbFozLXctcUtoT2tOYWdiY0lnaGVBa0VV0gGQAUFVX3lxTE9qeVREU1l0LUVzcjBzcElRcWIzQ0tGYnUycW9POFdnZ2JZSm9XaEVqZFZvR3hfOUhDTDJEZkFuaTYzSFRreVE3VXVka0JPc1lnU3VBYVRFZVl4QkRCLTUtbE1ZZEEwYjV0c2l0NlU2NzZqNTFadHMtNDFVM2dOQm5DcUlnektFYmVBTE1sZXZ4eg?oc=5
 
-- Indian brokers' lobby seeks 6-month freeze on new RBI rules: Report
-  India’s brokers’ lobby has urged the Reserve Bank of India to defer its
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-brokers-lobby-seeks-6-month-freeze-on-new-rbi-rules-report/articleshow/128541503.cms
+- Stock market quote of the day by Jim Rogers | “Bottoms in the investment world don't end with four-year lows; they end with 10 or 15-year lows.”
+  True market bottoms are long cycles, not short corrections. Investors need a broad time horizon to find value. History shows major bottoms form after prolonged pessimism.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-jim-rogers-bottoms-in-the-investment-world-dont-end-with-four-year-lows-they-end-with-10-or-15-year-lows-/articleshow/128548596.cms
 
-- After Indus Water Move, India Plans To Cut Pakistan's Access To Ravi Waters - NDTV
-  After Indus Water Move, India Plans To Cut Pakistan
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEwyUlhrcDRPY3lNLTVNbVl1UllXUFF3ZW5BNlZjcEpobWdqTjVnNFIzNjRKMG81eXFQMHhhbFFvaUlialc3X2Z5Sm9kMTdqYWoyUk94T0s3WWsyMlNEZEFkVDZEY3h4ek15UWFzc1VUc20yZ1FQUFBHdGxBYjRFQlNTdjUwRlkxcld4cjNyQ0s5X1c1RkM4ZWtSb3Jvc2o3b3VKVDc0TE1pRGdScTQ0aFV1S1JCTkx3S2fSAcIBQVVfeXFMTXJBb05jUFNRd2FMUkdQNVRoQlJZb2ZCZVlsZjN5QnBxRFZXd2l5SVlBZFB6QU9TcVktQkxpMEl5a3FGSjE1Q1ZfN0JlMnJnMEpMVjdhTkhQZXByZWZHelBfZlpZWC1OOTVIUWhNVEhrU3FVYTJic3FLdTNFeGZQclkwQ0NSRlJtOHpwNnpzYUl2TlZ6N21YSVptQVBkTmJKVXVyVldzZ295LVFTby1iMW1yaVFpbHZRNzgtam1ENmhCRVE?oc=5
+- Euro zone yields rise, await US data, Middle East tensions in focus
+  Euro ​zone government bond yields rose on Thursday, staying close to their multi-month lows. Markets continued to price less than a 50% chance of a European Central Bank
+  🔗 https://economictimes.indiatimes.com/markets/bonds/euro-zone-yields-rise-await-us-data-middle-east-tensions-in-focus/articleshow/128557531.cms
 
-- Can't Be Clearer: Expert On India Hitting Pak's Nuclear Site During Op Sindoor - NDTV
-  "Can't Be Clearer: Expert On India H
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUUJWTFkzbGh0aHExbjdWZFktWFJCZUYxYjYta3NPZzRqZDZIZzBFYkYteGZnWHhIUmFRU3hEcWJsSEpLSmdBbDE0Vi1WUFROeGR2c2VUU0w3M0lLcjZvMmVjd3VXSUZiTmp2UEk2c2RYYm9jdi0yWkl3U2VQNmNvWlRFSTVKa294eXdBeXdZS0JidE15eU9KdlBhQ2I1TTVxVk1ZMXJnVElZakR6Y0tJcE9JekpvLUV0b1lveldoUjZrdWEtVWktUzYzN2FFV2tCMFpJQ0loMjV3bWEtS2VEOGFR0gHqAUFVX3lxTE5vUG1weHROVjMzYTlnT2RrZVFvUXZ1YnFRVjZsUVU0OEYxemVVS09qRGU3dTAwQWNLdTV6SHowOTRONi1naEF6YkR3V2FhbFJjZlFSTmJTTEs5SjFTOW1acFhjM1QzaTU5MExraEVWR2FhMHoyN3Zrc0ptR2d3c1UxZ2JVcnNnWVpINm5aU3ZTbkRFdHNpOVg4ZXV0LWdELUN6OHZFZGxOcXN0dW5GZ2tMX1haMG5sRmV0NG9NekZkc0VrNGRTU2Rzd05DUTNzdGZSVjVlSEozZE1qWXFtYUoxOUtfZlNrejNjdw?oc=5
+- Tata Steel among 5 stocks that hit 52-week highs and rallied up to 10% in a month
+  Despite Sensex plunging 1,236 points to 82,498, five BSE 100 stocks touched fresh 52-week highs. Indus Towers, Tata Steel, Eicher
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-among-5-stocks-that-hit-52-week-highs-and-rallied-up-to-10-in-a-month/slideshow/128557397.cms
 
-- World leaders discuss AI future at India’s global summit in New Delhi - Al Jazeera
-  World leaders discuss AI future at India’s global
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmY4WXJFNzR5WVBCTlhmX2NVZ2Z6Mkhyc3lfV0ItZDFmaGpPb1dFLVhjbjdxWlFRdnBDODdvZ0stNzV2eDV2S1FCWXZDWjFkQjdJdjRtZExfMlMwZHZSNkEtT2NJdHhxN2E1NmNUVXQwN2RpX204YnhkZ0ZkMmVtUnVSV2tmU2NnRlFzVEdSWExUdTVmcm1malVGcE42ZEw0TkpOT0xqRVVsWllRblHSAbMBQVVfeXFMTi13aEdzMnY1Z21XQ3BoSGxmNGJTVW1vdmR3SnhOY1MwR1B6YXpUSmZJdzRUUkVXMTctQUxyTmt2STNIX2dzZmdMV1E2QXJEaEVyVy1lazNuOHlPSFNneG5PSDFTbGl0bEdWaHV0cE1QZ1l3ckx6bmQ3RGxaSFZhOWtQQU5NQlVCVlpHUi00emFQTkNWZDZNbG8ydkZOc19mNUkxcnh4aDVsM29vRXIyZnFXb28?oc=5
+- Gainers &amp; Losers: Tata Investment, Newgen among 8 stocks that moved most on Thursday
+  Indian equity markets tumbled as US-Iran tensions triggered broad-based
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-tata-investment-newgen-among-8-stocks-that-moved-most-on-thursday/slideshow/128556586.cms
 
-- 'India Built What No Other Country Could': Macron Praises India's Digital Rise At AI Summit - Times of India
-  'India Built What No Other Country Could': Macron Praises India's Digital
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZFUzMGpvV05lZDVlNUdPaERLTnpjZGFNTVZORWVmYmpJcXJUTklmM0JFd20xQWpXYmZ1Y2djeFBBTm1KVlRTVkFjZG9xYnh0ZXlzZWd1LS1uS04zZkhlNWUwcmw3cXdUS3g2OTN4VnJrYUZDYzZNYkNKRG5nUHVtZTNhQUttTFViVV9nNGs4bkNkMy1xUThwNEtGVmVXU1FSVTRDNWlJMUhsQVlwQ3FLdEl1SzFKUXY2QmExcDYyVlBjX3dJOEdydFZZRkwxWHB1OU9pU0ljSmlBMFMzRFRLMndCaWtXV2MtaFdmZVpndVjSAfYBQVVfeXFMT1d1TjJsOFRUMTZfeVlvT1hEeXpKSWJhaGc3VlJHMVA5QWhtN0NVTFRQUDc0YlpuYzJCUTF5VkhFdmFxYktTNFo2RURSaGhLTk4yVlAtT2VkY0VITkRSZFFSLUU3QW5PUjJpTHZGYjczVzVmY1dvZXRjNzdkWkRBUTh3eHA1VHBHM01XeXk1OXpmTlRFWHlVNVhUcmhhOGV2dnJFU2dScGYyckZfUXVNaDJhbXlLdEZqMlFGUWZuR19qU05xN0ZkcnFKclFNckRhTTJKUTA1RkdoY0xnaDRyZE9MTHJ6d3BqRWM4NEkyVE5ZX2NlNUFn?oc=5
+- Valuation Alert: 10 largecap stocks trading well above Industry PE
+  Top 10 large-cap stocks are trading well above their industry P/E, signaling high investor confidence, growth expectations, or potential overvaluation across sectors including power, finance, insurance and consumer goods.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/valuation-alert-10-largecap-stocks-trading-well-above-industry-pe/slideshow/128555262.cms
 
-- Macron calls on India to join France in making the internet safer for children - Mint
-  Macron calls on India to join France in making the internet
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZTFKYzJhVTlJd3ZpamdHYWZmbkpZLU1IN0VGZ0VTTTNCNkhvUE9fRC0zMUlaREFjdlJQLVdlaWlTRlRXUkRGTEphbEMtN0JiTHVxWDI2b1ZvYVVYTVAzN3lzR05QMHJYYngzV05yUzJENm1zQ3EtMllzOFlBUENwM1lqR1pJSHlHRmh1QWpBbEl1Nmd4U25FZmxWUDdoVlFUWk9ocmdLZmJObUhaWE1UTtIBtgFBVV95cUxPNHI0eDJpXzkwX3Bjcmh4OTQ3Y2NRcmZfaU8xMTlzUGJyTXRjZV9xcFgtN3FZRVl5ajd1WEdmNjZyOXNSdGlqblBxd29MTGpFRE9fVjhjTkcwRjI2RFNjZl9CNWxfYm5KakNndExSSnJUdEJfck1lQTRIT2NzVDZDY0pfekpVUVhUZU5Oa1BLc3YwWEg2Ymw3SlB6ZFF5UGhfWmhtNzVzMjhGSEpOd2puc1VEUlJTZw?oc=5
-
-- After Indus Water Move, India Plans To Cut Pakistan's Access To Ravi Waters - NDTV
-  After Indus Water Move, India Plans To Cut Pakistan
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEwyUlhrcDRPY3lNLTVNbVl1UllXUFF3ZW5BNlZjcEpobWdqTjVnNFIzNjRKMG81eXFQMHhhbFFvaUlialc3X2Z5Sm9kMTdqYWoyUk94T0s3WWsyMlNEZEFkVDZEY3h4ek15UWFzc1VUc20yZ1FQUFBHdGxBYjRFQlNTdjUwRlkxcld4cjNyQ0s5X1c1RkM4ZWtSb3Jvc2o3b3VKVDc0TE1pRGdScTQ0aFV1S1JCTkx3S2fSAcIBQVVfeXFMTXJBb05jUFNRd2FMUkdQNVRoQlJZb2ZCZVlsZjN5QnBxRFZXd2l5SVlBZFB6QU9TcVktQkxpMEl5a3FGSjE1Q1ZfN0JlMnJnMEpMVjdhTkhQZXByZWZHelBfZlpZWC1OOTVIUWhNVEhrU3FVYTJic3FLdTNFeGZQclkwQ0NSRlJtOHpwNnpzYUl2TlZ6N21YSVptQVBkTmJKVXVyVldzZ295LVFTby1iMW1yaVFpbHZRNzgtam1ENmhCRVE?oc=5
-
-- Can't Be Clearer: Expert On India Hitting Pak's Nuclear Site During Op Sindoor - NDTV
-  "Can't Be Clearer: Expert On India H
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUUJWTFkzbGh0aHExbjdWZFktWFJCZUYxYjYta3NPZzRqZDZIZzBFYkYteGZnWHhIUmFRU3hEcWJsSEpLSmdBbDE0Vi1WUFROeGR2c2VUU0w3M0lLcjZvMmVjd3VXSUZiTmp2UEk2c2RYYm9jdi0yWkl3U2VQNmNvWlRFSTVKa294eXdBeXdZS0JidE15eU9KdlBhQ2I1TTVxVk1ZMXJnVElZakR6Y0tJcE9JekpvLUV0b1lveldoUjZrdWEtVWktUzYzN2FFV2tCMFpJQ0loMjV3bWEtS2VEOGFR0gHqAUFVX3lxTE5vUG1weHROVjMzYTlnT2RrZVFvUXZ1YnFRVjZsUVU0OEYxemVVS09qRGU3dTAwQWNLdTV6SHowOTRONi1naEF6YkR3V2FhbFJjZlFSTmJTTEs5SjFTOW1acFhjM1QzaTU5MExraEVWR2FhMHoyN3Zrc0ptR2d3c1UxZ2JVcnNnWVpINm5aU3ZTbkRFdHNpOVg4ZXV0LWdELUN6OHZFZGxOcXN0dW5GZ2tMX1haMG5sRmV0NG9NekZkc0VrNGRTU2Rzd05DUTNzdGZSVjVlSEozZE1qWXFtYUoxOUtfZlNrejNjdw?oc=5
-
-- World leaders discuss AI future at India’s global summit in New Delhi - Al Jazeera
-  World leaders discuss AI future at India’s global
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmY4WXJFNzR5WVBCTlhmX2NVZ2Z6Mkhyc3lfV0ItZDFmaGpPb1dFLVhjbjdxWlFRdnBDODdvZ0stNzV2eDV2S1FCWXZDWjFkQjdJdjRtZExfMlMwZHZSNkEtT2NJdHhxN2E1NmNUVXQwN2RpX204YnhkZ0ZkMmVtUnVSV2tmU2NnRlFzVEdSWExUdTVmcm1malVGcE42ZEw0TkpOT0xqRVVsWllRblHSAbMBQVVfeXFMTi13aEdzMnY1Z21XQ3BoSGxmNGJTVW1vdmR3SnhOY1MwR1B6YXpUSmZJdzRUUkVXMTctQUxyTmt2STNIX2dzZmdMV1E2QXJEaEVyVy1lazNuOHlPSFNneG5PSDFTbGl0bEdWaHV0cE1QZ1l3ckx6bmQ3RGxaSFZhOWtQQU5NQlVCVlpHUi00emFQTkNWZDZNbG8ydkZOc19mNUkxcnh4aDVsM29vRXIyZnFXb28?oc=5
-
-- 'India Built What No Other Country Could': Macron Praises India's Digital Rise At AI Summit - Times of India
-  'India Built What No Other Country Could': Macron Praises India's Digital
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZFUzMGpvV05lZDVlNUdPaERLTnpjZGFNTVZORWVmYmpJcXJUTklmM0JFd20xQWpXYmZ1Y2djeFBBTm1KVlRTVkFjZG9xYnh0ZXlzZWd1LS1uS04zZkhlNWUwcmw3cXdUS3g2OTN4VnJrYUZDYzZNYkNKRG5nUHVtZTNhQUttTFViVV9nNGs4bkNkMy1xUThwNEtGVmVXU1FSVTRDNWlJMUhsQVlwQ3FLdEl1SzFKUXY2QmExcDYyVlBjX3dJOEdydFZZRkwxWHB1OU9pU0ljSmlBMFMzRFRLMndCaWtXV2MtaFdmZVpndVjSAfYBQVVfeXFMT1d1TjJsOFRUMTZfeVlvT1hEeXpKSWJhaGc3VlJHMVA5QWhtN0NVTFRQUDc0YlpuYzJCUTF5VkhFdmFxYktTNFo2RURSaGhLTk4yVlAtT2VkY0VITkRSZFFSLUU3QW5PUjJpTHZGYjczVzVmY1dvZXRjNzdkWkRBUTh3eHA1VHBHM01XeXk1OXpmTlRFWHlVNVhUcmhhOGV2dnJFU2dScGYyckZfUXVNaDJhbXlLdEZqMlFGUWZuR19qU05xN0ZkcnFKclFNckRhTTJKUTA1RkdoY0xnaDRyZE9MTHJ6d3BqRWM4NEkyVE5ZX2NlNUFn?oc=5
-
-- Macron calls on India to join France in making the internet safer for children - Mint
-  Macron calls on India to join France in making the internet
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZTFKYzJhVTlJd3ZpamdHYWZmbkpZLU1IN0VGZ0VTTTNCNkhvUE9fRC0zMUlaREFjdlJQLVdlaWlTRlRXUkRGTEphbEMtN0JiTHVxWDI2b1ZvYVVYTVAzN3lzR05QMHJYYngzV05yUzJENm1zQ3EtMllzOFlBUENwM1lqR1pJSHlHRmh1QWpBbEl1Nmd4U25FZmxWUDdoVlFUWk9ocmdLZmJObUhaWE1UTtIBtgFBVV95cUxPNHI0eDJpXzkwX3Bjcmh4OTQ3Y2NRcmZfaU8xMTlzUGJyTXRjZV9xcFgtN3FZRVl5ajd1WEdmNjZyOXNSdGlqblBxd29MTGpFRE9fVjhjTkcwRjI2RFNjZl9CNWxfYm5KakNndExSSnJUdEJfck1lQTRIT2NzVDZDY0pfekpVUVhUZU5Oa1BLc3YwWEg2Ymw3SlB6ZFF5UGhfWmhtNzVzMjhGSEpOd2puc1VEUlJTZw?oc=5
+- Historic trade deals put India on global stage - but challenges remain - BBC
+  Historic trade deals put India on global stage -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
 
 - After Indus Water Move, India Plans To Cut Pakistan's Access To Ravi Waters - NDTV
   After Indus Water Move, India Plans To Cut Pakistan
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEwyUlhrcDRPY3lNLTVNbVl1UllXUFF3ZW5BNlZjcEpobWdqTjVnNFIzNjRKMG81eXFQMHhhbFFvaUlialc3X2Z5Sm9kMTdqYWoyUk94T0s3WWsyMlNEZEFkVDZEY3h4ek15UWFzc1VUc20yZ1FQUFBHdGxBYjRFQlNTdjUwRlkxcld4cjNyQ0s5X1c1RkM4ZWtSb3Jvc2o3b3VKVDc0TE1pRGdScTQ0aFV1S1JCTkx3S2fSAcIBQVVfeXFMTXJBb05jUFNRd2FMUkdQNVRoQlJZb2ZCZVlsZjN5QnBxRFZXd2l5SVlBZFB6QU9TcVktQkxpMEl5a3FGSjE1Q1ZfN0JlMnJnMEpMVjdhTkhQZXByZWZHelBfZlpZWC1OOTVIUWhNVEhrU3FVYTJic3FLdTNFeGZQclkwQ0NSRlJtOHpwNnpzYUl2TlZ6N21YSVptQVBkTmJKVXVyVldzZ295LVFTby1iMW1yaVFpbHZRNzgtam1ENmhCRVE?oc=5
 
-- Can't Be Clearer: Expert On India Hitting Pak's Nuclear Site During Op Sindoor - NDTV
-  "Can't Be Clearer: Expert On India H
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUUJWTFkzbGh0aHExbjdWZFktWFJCZUYxYjYta3NPZzRqZDZIZzBFYkYteGZnWHhIUmFRU3hEcWJsSEpLSmdBbDE0Vi1WUFROeGR2c2VUU0w3M0lLcjZvMmVjd3VXSUZiTmp2UEk2c2RYYm9jdi0yWkl3U2VQNmNvWlRFSTVKa294eXdBeXdZS0JidE15eU9KdlBhQ2I1TTVxVk1ZMXJnVElZakR6Y0tJcE9JekpvLUV0b1lveldoUjZrdWEtVWktUzYzN2FFV2tCMFpJQ0loMjV3bWEtS2VEOGFR0gHqAUFVX3lxTE5vUG1weHROVjMzYTlnT2RrZVFvUXZ1YnFRVjZsUVU0OEYxemVVS09qRGU3dTAwQWNLdTV6SHowOTRONi1naEF6YkR3V2FhbFJjZlFSTmJTTEs5SjFTOW1acFhjM1QzaTU5MExraEVWR2FhMHoyN3Zrc0ptR2d3c1UxZ2JVcnNnWVpINm5aU3ZTbkRFdHNpOVg4ZXV0LWdELUN6OHZFZGxOcXN0dW5GZ2tMX1haMG5sRmV0NG9NekZkc0VrNGRTU2Rzd05DUTNzdGZSVjVlSEozZE1qWXFtYUoxOUtfZlNrejNjdw?oc=5
+- PM Modi Highlights India's 'MANAV' Vision At Mega AI Impact Summit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGVudnBBZ01xd0pKb1AzaHJNY2FfZ0F4cmRxQXE4WjJ3bmExMmFsTUhtYzhJVEwyMjJCR19YeFp3ZTJBWEdEYzBFb2hDdk5EMWhVdHFYajJhckNGVGFuZ2FTOFFHVWNKUD
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGVudnBBZ01xd0pKb1AzaHJNY2FfZ0F4cmRxQXE4WjJ3bmExMmFsTUhtYzhJVEwyMjJCR19YeFp3ZTJBWEdEYzBFb2hDdk5EMWhVdHFYajJhckNGVGFuZ2FTOFFHVWNKUDFWZUFBSWlWeFduMEdrWkdFU2J0VmFSSE5SdUJZNUVvZHlOajNXeTFEaXdJa2ItRVpTZzFmVi1iRDdvdGFPUdIBrwFBVV95cUxQcTFlc29CUE11aWN6cUpOVmdBc1ltemR3VDJlRUotcTJNaWRpRExnSUUtbnQtNWdHMy1kdkt5N1lrZzFscjdLbUlRcW5wX2tLWVRfaEtILS1JZEFuck9qdWMxbHloZEZjcVBaaWFUS19HeTc1U283RGVFS3JiZFBrdDRZRWJ2RVpKYmJCUHo1bUFncjVOWUhLaVNPSmhpR2FNRk9PNW5KRW9mTGJxalhV?oc=5
 
-- World leaders discuss AI future at India’s global summit in New Delhi - Al Jazeera
-  World leaders discuss AI future at India’s global
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmY4WXJFNzR5WVBCTlhmX2NVZ2Z6Mkhyc3lfV0ItZDFmaGpPb1dFLVhjbjdxWlFRdnBDODdvZ0stNzV2eDV2S1FCWXZDWjFkQjdJdjRtZExfMlMwZHZSNkEtT2NJdHhxN2E1NmNUVXQwN2RpX204YnhkZ0ZkMmVtUnVSV2tmU2NnRlFzVEdSWExUdTVmcm1malVGcE42ZEw0TkpOT0xqRVVsWllRblHSAbMBQVVfeXFMTi13aEdzMnY1Z21XQ3BoSGxmNGJTVW1vdmR3SnhOY1MwR1B6YXpUSmZJdzRUUkVXMTctQUxyTmt2STNIX2dzZmdMV1E2QXJEaEVyVy1lazNuOHlPSFNneG5PSDFTbGl0bEdWaHV0cE1QZ1l3ckx6bmQ3RGxaSFZhOWtQQU5NQlVCVlpHUi00emFQTkNWZDZNbG8ydkZOc19mNUkxcnh4aDVsM29vRXIyZnFXb28?oc=5
+- Evening news wrap: Former UK prince Andrew arrested amid Epstein row; Bloodbath on D-Street as markets cr - Times of India
+  The Times of India reports on the arrest of former UK prince Andrew. The prince
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelVqTFRGNTdWWnFCVkhLRE5SQU9LMFdRNldVa00zVFVDM05DTjViSnFPYUpQRnV0bHd4RUVVazNSc3owRWZSNjhMWHlFd1hkUGhRTWYzUnRkLXNoTkhlb2k3RFJ0alFVLWZFUjhiUGpkU1FwYTZwWWlQakhzaENMZUhWZXQ3NkN5T0hPeTluVUVuYXotWUNvWHJCc1o2dzk0Y2pOTXRVS3NYY2dKdTl1c0hIakZXX250cnNfSUcwNU9aREc2WjR2blBFR0JyenRiVlR2QXBhMlZhTVBiejd5WWlydEluT0FhdmhjajhrWXVrR2JoQjRYY25mNG5GclRkbjBzakJhMDRNODjSAZACQVVfeXFMTWVTWXU4OS1HMFhLbThxVHo3Zm9TbkNDMHVVUFpJaHdvbDBzU2ttLWVfejVUTlU0NWJTYWNGcUJEVkhRMGRGWVpPcDhkalZxUjZYb09CZFA5Q2czcElfQVQxV19hOWRybm9vV0E0VmZZOWdHQ1BUOGFHcG5HeVlLY3VxNGt6dGVkdHBBME5OSnlRTGFoNnZKOHZ3NVpfLXI2MlRRWnU2ejUtQWVqT1JNa2JJVXYxZy1rSS16a3labnk2bHVFaEEzeS1fYklPSzc1QmhrWlVCRjdPelNtMDZOb0NPMW00ZVdWMmpEakloaXM0UWswRUFzSXk1RXN1Yk9vMmFGVlZqSC1EUVJoSUN2dDY?oc=5
 
-- 'India Built What No Other Country Could': Macron Praises India's Digital Rise At AI Summit - Times of India
-  'India Built What No Other Country Could': Macron Praises India's Digital
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZFUzMGpvV05lZDVlNUdPaERLTnpjZGFNTVZORWVmYmpJcXJUTklmM0JFd20xQWpXYmZ1Y2djeFBBTm1KVlRTVkFjZG9xYnh0ZXlzZWd1LS1uS04zZkhlNWUwcmw3cXdUS3g2OTN4VnJrYUZDYzZNYkNKRG5nUHVtZTNhQUttTFViVV9nNGs4bkNkMy1xUThwNEtGVmVXU1FSVTRDNWlJMUhsQVlwQ3FLdEl1SzFKUXY2QmExcDYyVlBjX3dJOEdydFZZRkwxWHB1OU9pU0ljSmlBMFMzRFRLMndCaWtXV2MtaFdmZVpndVjSAfYBQVVfeXFMT1d1TjJsOFRUMTZfeVlvT1hEeXpKSWJhaGc3VlJHMVA5QWhtN0NVTFRQUDc0YlpuYzJCUTF5VkhFdmFxYktTNFo2RURSaGhLTk4yVlAtT2VkY0VITkRSZFFSLUU3QW5PUjJpTHZGYjczVzVmY1dvZXRjNzdkWkRBUTh3eHA1VHBHM01XeXk1OXpmTlRFWHlVNVhUcmhhOGV2dnJFU2dScGYyckZfUXVNaDJhbXlLdEZqMlFGUWZuR19qU05xN0ZkcnFKclFNckRhTTJKUTA1RkdoY0xnaDRyZE9MTHJ6d3BqRWM4NEkyVE5ZX2NlNUFn?oc=5
+- OpenAI CEO Says AI Regulation 'Urgently' Needed At India Summit - NDTV
+  OpenAI CEO Says AI Regulation 'Ur
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVo0OXhLcjlWUjFPcVhXc1lXaVduOTkxeWxCMk9SQm9xMjZwaVJwam9HcEpEbnhYLUx2Y0pCOWtJeHotSEpNVTFNdGVHenIwa1dzRzdVYUhmWHVvV3cwY0d6bm93V2R6dGZhVjl6Ml9Ga0JMYUVFa3FZQlA4QU4tUTdPS1RObFp3QlpYakxGaUR4S2dfSUt6empPdDBWeDE2UmV2bNIBrAFBVV95cUxOTWNmOWxPUmJMOHBVWUlsazJMTHZmZjhfZFB0TGZ1R25UYU5vbVU2SkJXV0tMY1B5MjZSakZta0o5MEE0ZnNZaENvUU5JX0tqdXdCMmowcF93dmhHbjVrVjZic25LRkthUy03UHRjT0tfamx5eVVrSGlvQXBBYmpCbkI4alBYcjFIV29hYlIybkhuQXpOalV0ZHVuYV9BSm5WWlQ0cy0ycjZkVy1k?oc=5
 
-- Macron calls on India to join France in making the internet safer for children - Mint
-  Macron calls on India to join France in making the internet
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZTFKYzJhVTlJd3ZpamdHYWZmbkpZLU1IN0VGZ0VTTTNCNkhvUE9fRC0zMUlaREFjdlJQLVdlaWlTRlRXUkRGTEphbEMtN0JiTHVxWDI2b1ZvYVVYTVAzN3lzR05QMHJYYngzV05yUzJENm1zQ3EtMllzOFlBUENwM1lqR1pJSHlHRmh1QWpBbEl1Nmd4U25FZmxWUDdoVlFUWk9ocmdLZmJObUhaWE1UTtIBtgFBVV95cUxPNHI0eDJpXzkwX3Bjcmh4OTQ3Y2NRcmZfaU8xMTlzUGJyTXRjZV9xcFgtN3FZRVl5ajd1WEdmNjZyOXNSdGlqblBxd29MTGpFRE9fVjhjTkcwRjI2RFNjZl9CNWxfYm5KakNndExSSnJUdEJfck1lQTRIT2NzVDZDY0pfekpVUVhUZU5Oa1BLc3YwWEg2Ymw3SlB6ZFF5UGhfWmhtNzVzMjhGSEpOd2puc1VEUlJTZw?oc=5
+- Historic trade deals put India on global stage - but challenges remain - BBC
+  Historic trade deals put India on global stage -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
 
 - After Indus Water Move, India Plans To Cut Pakistan's Access To Ravi Waters - NDTV
   After Indus Water Move, India Plans To Cut Pakistan
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEwyUlhrcDRPY3lNLTVNbVl1UllXUFF3ZW5BNlZjcEpobWdqTjVnNFIzNjRKMG81eXFQMHhhbFFvaUlialc3X2Z5Sm9kMTdqYWoyUk94T0s3WWsyMlNEZEFkVDZEY3h4ek15UWFzc1VUc20yZ1FQUFBHdGxBYjRFQlNTdjUwRlkxcld4cjNyQ0s5X1c1RkM4ZWtSb3Jvc2o3b3VKVDc0TE1pRGdScTQ0aFV1S1JCTkx3S2fSAcIBQVVfeXFMTXJBb05jUFNRd2FMUkdQNVRoQlJZb2ZCZVlsZjN5QnBxRFZXd2l5SVlBZFB6QU9TcVktQkxpMEl5a3FGSjE1Q1ZfN0JlMnJnMEpMVjdhTkhQZXByZWZHelBfZlpZWC1OOTVIUWhNVEhrU3FVYTJic3FLdTNFeGZQclkwQ0NSRlJtOHpwNnpzYUl2TlZ6N21YSVptQVBkTmJKVXVyVldzZ295LVFTby1iMW1yaVFpbHZRNzgtam1ENmhCRVE?oc=5
 
-- Can't Be Clearer: Expert On India Hitting Pak's Nuclear Site During Op Sindoor - NDTV
-  "Can't Be Clearer: Expert On India H
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUUJWTFkzbGh0aHExbjdWZFktWFJCZUYxYjYta3NPZzRqZDZIZzBFYkYteGZnWHhIUmFRU3hEcWJsSEpLSmdBbDE0Vi1WUFROeGR2c2VUU0w3M0lLcjZvMmVjd3VXSUZiTmp2UEk2c2RYYm9jdi0yWkl3U2VQNmNvWlRFSTVKa294eXdBeXdZS0JidE15eU9KdlBhQ2I1TTVxVk1ZMXJnVElZakR6Y0tJcE9JekpvLUV0b1lveldoUjZrdWEtVWktUzYzN2FFV2tCMFpJQ0loMjV3bWEtS2VEOGFR0gHqAUFVX3lxTE5vUG1weHROVjMzYTlnT2RrZVFvUXZ1YnFRVjZsUVU0OEYxemVVS09qRGU3dTAwQWNLdTV6SHowOTRONi1naEF6YkR3V2FhbFJjZlFSTmJTTEs5SjFTOW1acFhjM1QzaTU5MExraEVWR2FhMHoyN3Zrc0ptR2d3c1UxZ2JVcnNnWVpINm5aU3ZTbkRFdHNpOVg4ZXV0LWdELUN6OHZFZGxOcXN0dW5GZ2tMX1haMG5sRmV0NG9NekZkc0VrNGRTU2Rzd05DUTNzdGZSVjVlSEozZE1qWXFtYUoxOUtfZlNrejNjdw?oc=5
+- PM Modi Highlights India's 'MANAV' Vision At Mega AI Impact Summit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGVudnBBZ01xd0pKb1AzaHJNY2FfZ0F4cmRxQXE4WjJ3bmExMmFsTUhtYzhJVEwyMjJCR19YeFp3ZTJBWEdEYzBFb2hDdk5EMWhVdHFYajJhckNGVGFuZ2FTOFFHVWNKUD
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGVudnBBZ01xd0pKb1AzaHJNY2FfZ0F4cmRxQXE4WjJ3bmExMmFsTUhtYzhJVEwyMjJCR19YeFp3ZTJBWEdEYzBFb2hDdk5EMWhVdHFYajJhckNGVGFuZ2FTOFFHVWNKUDFWZUFBSWlWeFduMEdrWkdFU2J0VmFSSE5SdUJZNUVvZHlOajNXeTFEaXdJa2ItRVpTZzFmVi1iRDdvdGFPUdIBrwFBVV95cUxQcTFlc29CUE11aWN6cUpOVmdBc1ltemR3VDJlRUotcTJNaWRpRExnSUUtbnQtNWdHMy1kdkt5N1lrZzFscjdLbUlRcW5wX2tLWVRfaEtILS1JZEFuck9qdWMxbHloZEZjcVBaaWFUS19HeTc1U283RGVFS3JiZFBrdDRZRWJ2RVpKYmJCUHo1bUFncjVOWUhLaVNPSmhpR2FNRk9PNW5KRW9mTGJxalhV?oc=5
 
-- World leaders discuss AI future at India’s global summit in New Delhi - Al Jazeera
-  World leaders discuss AI future at India’s global
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmY4WXJFNzR5WVBCTlhmX2NVZ2Z6Mkhyc3lfV0ItZDFmaGpPb1dFLVhjbjdxWlFRdnBDODdvZ0stNzV2eDV2S1FCWXZDWjFkQjdJdjRtZExfMlMwZHZSNkEtT2NJdHhxN2E1NmNUVXQwN2RpX204YnhkZ0ZkMmVtUnVSV2tmU2NnRlFzVEdSWExUdTVmcm1malVGcE42ZEw0TkpOT0xqRVVsWllRblHSAbMBQVVfeXFMTi13aEdzMnY1Z21XQ3BoSGxmNGJTVW1vdmR3SnhOY1MwR1B6YXpUSmZJdzRUUkVXMTctQUxyTmt2STNIX2dzZmdMV1E2QXJEaEVyVy1lazNuOHlPSFNneG5PSDFTbGl0bEdWaHV0cE1QZ1l3ckx6bmQ3RGxaSFZhOWtQQU5NQlVCVlpHUi00emFQTkNWZDZNbG8ydkZOc19mNUkxcnh4aDVsM29vRXIyZnFXb28?oc=5
+- Evening news wrap: Former UK prince Andrew arrested amid Epstein row; Bloodbath on D-Street as markets cr - Times of India
+  The Times of India reports on the arrest of former UK prince Andrew. The prince
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelVqTFRGNTdWWnFCVkhLRE5SQU9LMFdRNldVa00zVFVDM05DTjViSnFPYUpQRnV0bHd4RUVVazNSc3owRWZSNjhMWHlFd1hkUGhRTWYzUnRkLXNoTkhlb2k3RFJ0alFVLWZFUjhiUGpkU1FwYTZwWWlQakhzaENMZUhWZXQ3NkN5T0hPeTluVUVuYXotWUNvWHJCc1o2dzk0Y2pOTXRVS3NYY2dKdTl1c0hIakZXX250cnNfSUcwNU9aREc2WjR2blBFR0JyenRiVlR2QXBhMlZhTVBiejd5WWlydEluT0FhdmhjajhrWXVrR2JoQjRYY25mNG5GclRkbjBzakJhMDRNODjSAZACQVVfeXFMTWVTWXU4OS1HMFhLbThxVHo3Zm9TbkNDMHVVUFpJaHdvbDBzU2ttLWVfejVUTlU0NWJTYWNGcUJEVkhRMGRGWVpPcDhkalZxUjZYb09CZFA5Q2czcElfQVQxV19hOWRybm9vV0E0VmZZOWdHQ1BUOGFHcG5HeVlLY3VxNGt6dGVkdHBBME5OSnlRTGFoNnZKOHZ3NVpfLXI2MlRRWnU2ejUtQWVqT1JNa2JJVXYxZy1rSS16a3labnk2bHVFaEEzeS1fYklPSzc1QmhrWlVCRjdPelNtMDZOb0NPMW00ZVdWMmpEakloaXM0UWswRUFzSXk1RXN1Yk9vMmFGVlZqSC1EUVJoSUN2dDY?oc=5
 
-- 'India Built What No Other Country Could': Macron Praises India's Digital Rise At AI Summit - Times of India
-  'India Built What No Other Country Could': Macron Praises India's Digital
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZFUzMGpvV05lZDVlNUdPaERLTnpjZGFNTVZORWVmYmpJcXJUTklmM0JFd20xQWpXYmZ1Y2djeFBBTm1KVlRTVkFjZG9xYnh0ZXlzZWd1LS1uS04zZkhlNWUwcmw3cXdUS3g2OTN4VnJrYUZDYzZNYkNKRG5nUHVtZTNhQUttTFViVV9nNGs4bkNkMy1xUThwNEtGVmVXU1FSVTRDNWlJMUhsQVlwQ3FLdEl1SzFKUXY2QmExcDYyVlBjX3dJOEdydFZZRkwxWHB1OU9pU0ljSmlBMFMzRFRLMndCaWtXV2MtaFdmZVpndVjSAfYBQVVfeXFMT1d1TjJsOFRUMTZfeVlvT1hEeXpKSWJhaGc3VlJHMVA5QWhtN0NVTFRQUDc0YlpuYzJCUTF5VkhFdmFxYktTNFo2RURSaGhLTk4yVlAtT2VkY0VITkRSZFFSLUU3QW5PUjJpTHZGYjczVzVmY1dvZXRjNzdkWkRBUTh3eHA1VHBHM01XeXk1OXpmTlRFWHlVNVhUcmhhOGV2dnJFU2dScGYyckZfUXVNaDJhbXlLdEZqMlFGUWZuR19qU05xN0ZkcnFKclFNckRhTTJKUTA1RkdoY0xnaDRyZE9MTHJ6d3BqRWM4NEkyVE5ZX2NlNUFn?oc=5
+- OpenAI CEO Says AI Regulation 'Urgently' Needed At India Summit - NDTV
+  OpenAI CEO Says AI Regulation 'Ur
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVo0OXhLcjlWUjFPcVhXc1lXaVduOTkxeWxCMk9SQm9xMjZwaVJwam9HcEpEbnhYLUx2Y0pCOWtJeHotSEpNVTFNdGVHenIwa1dzRzdVYUhmWHVvV3cwY0d6bm93V2R6dGZhVjl6Ml9Ga0JMYUVFa3FZQlA4QU4tUTdPS1RObFp3QlpYakxGaUR4S2dfSUt6empPdDBWeDE2UmV2bNIBrAFBVV95cUxOTWNmOWxPUmJMOHBVWUlsazJMTHZmZjhfZFB0TGZ1R25UYU5vbVU2SkJXV0tMY1B5MjZSakZta0o5MEE0ZnNZaENvUU5JX0tqdXdCMmowcF93dmhHbjVrVjZic25LRkthUy03UHRjT0tfamx5eVVrSGlvQXBBYmpCbkI4alBYcjFIV29hYlIybkhuQXpOalV0ZHVuYV9BSm5WWlQ0cy0ycjZkVy1k?oc=5
 
-- Macron calls on India to join France in making the internet safer for children - Mint
-  Macron calls on India to join France in making the internet
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZTFKYzJhVTlJd3ZpamdHYWZmbkpZLU1IN0VGZ0VTTTNCNkhvUE9fRC0zMUlaREFjdlJQLVdlaWlTRlRXUkRGTEphbEMtN0JiTHVxWDI2b1ZvYVVYTVAzN3lzR05QMHJYYngzV05yUzJENm1zQ3EtMllzOFlBUENwM1lqR1pJSHlHRmh1QWpBbEl1Nmd4U25FZmxWUDdoVlFUWk9ocmdLZmJObUhaWE1UTtIBtgFBVV95cUxPNHI0eDJpXzkwX3Bjcmh4OTQ3Y2NRcmZfaU8xMTlzUGJyTXRjZV9xcFgtN3FZRVl5ajd1WEdmNjZyOXNSdGlqblBxd29MTGpFRE9fVjhjTkcwRjI2RFNjZl9CNWxfYm5KakNndExSSnJUdEJfck1lQTRIT2NzVDZDY0pfekpVUVhUZU5Oa1BLc3YwWEg2Ymw3SlB6ZFF5UGhfWmhtNzVzMjhGSEpOd2puc1VEUlJTZw?oc=5
+- Historic trade deals put India on global stage - but challenges remain - BBC
+  Historic trade deals put India on global stage -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
+
+- After Indus Water Move, India Plans To Cut Pakistan's Access To Ravi Waters - NDTV
+  After Indus Water Move, India Plans To Cut Pakistan
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEwyUlhrcDRPY3lNLTVNbVl1UllXUFF3ZW5BNlZjcEpobWdqTjVnNFIzNjRKMG81eXFQMHhhbFFvaUlialc3X2Z5Sm9kMTdqYWoyUk94T0s3WWsyMlNEZEFkVDZEY3h4ek15UWFzc1VUc20yZ1FQUFBHdGxBYjRFQlNTdjUwRlkxcld4cjNyQ0s5X1c1RkM4ZWtSb3Jvc2o3b3VKVDc0TE1pRGdScTQ0aFV1S1JCTkx3S2fSAcIBQVVfeXFMTXJBb05jUFNRd2FMUkdQNVRoQlJZb2ZCZVlsZjN5QnBxRFZXd2l5SVlBZFB6QU9TcVktQkxpMEl5a3FGSjE1Q1ZfN0JlMnJnMEpMVjdhTkhQZXByZWZHelBfZlpZWC1OOTVIUWhNVEhrU3FVYTJic3FLdTNFeGZQclkwQ0NSRlJtOHpwNnpzYUl2TlZ6N21YSVptQVBkTmJKVXVyVldzZ295LVFTby1iMW1yaVFpbHZRNzgtam1ENmhCRVE?oc=5
+
+- PM Modi Highlights India's 'MANAV' Vision At Mega AI Impact Summit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGVudnBBZ01xd0pKb1AzaHJNY2FfZ0F4cmRxQXE4WjJ3bmExMmFsTUhtYzhJVEwyMjJCR19YeFp3ZTJBWEdEYzBFb2hDdk5EMWhVdHFYajJhckNGVGFuZ2FTOFFHVWNKUD
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGVudnBBZ01xd0pKb1AzaHJNY2FfZ0F4cmRxQXE4WjJ3bmExMmFsTUhtYzhJVEwyMjJCR19YeFp3ZTJBWEdEYzBFb2hDdk5EMWhVdHFYajJhckNGVGFuZ2FTOFFHVWNKUDFWZUFBSWlWeFduMEdrWkdFU2J0VmFSSE5SdUJZNUVvZHlOajNXeTFEaXdJa2ItRVpTZzFmVi1iRDdvdGFPUdIBrwFBVV95cUxQcTFlc29CUE11aWN6cUpOVmdBc1ltemR3VDJlRUotcTJNaWRpRExnSUUtbnQtNWdHMy1kdkt5N1lrZzFscjdLbUlRcW5wX2tLWVRfaEtILS1JZEFuck9qdWMxbHloZEZjcVBaaWFUS19HeTc1U283RGVFS3JiZFBrdDRZRWJ2RVpKYmJCUHo1bUFncjVOWUhLaVNPSmhpR2FNRk9PNW5KRW9mTGJxalhV?oc=5
+
+- Evening news wrap: Former UK prince Andrew arrested amid Epstein row; Bloodbath on D-Street as markets cr - Times of India
+  The Times of India reports on the arrest of former UK prince Andrew. The prince
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelVqTFRGNTdWWnFCVkhLRE5SQU9LMFdRNldVa00zVFVDM05DTjViSnFPYUpQRnV0bHd4RUVVazNSc3owRWZSNjhMWHlFd1hkUGhRTWYzUnRkLXNoTkhlb2k3RFJ0alFVLWZFUjhiUGpkU1FwYTZwWWlQakhzaENMZUhWZXQ3NkN5T0hPeTluVUVuYXotWUNvWHJCc1o2dzk0Y2pOTXRVS3NYY2dKdTl1c0hIakZXX250cnNfSUcwNU9aREc2WjR2blBFR0JyenRiVlR2QXBhMlZhTVBiejd5WWlydEluT0FhdmhjajhrWXVrR2JoQjRYY25mNG5GclRkbjBzakJhMDRNODjSAZACQVVfeXFMTWVTWXU4OS1HMFhLbThxVHo3Zm9TbkNDMHVVUFpJaHdvbDBzU2ttLWVfejVUTlU0NWJTYWNGcUJEVkhRMGRGWVpPcDhkalZxUjZYb09CZFA5Q2czcElfQVQxV19hOWRybm9vV0E0VmZZOWdHQ1BUOGFHcG5HeVlLY3VxNGt6dGVkdHBBME5OSnlRTGFoNnZKOHZ3NVpfLXI2MlRRWnU2ejUtQWVqT1JNa2JJVXYxZy1rSS16a3labnk2bHVFaEEzeS1fYklPSzc1QmhrWlVCRjdPelNtMDZOb0NPMW00ZVdWMmpEakloaXM0UWswRUFzSXk1RXN1Yk9vMmFGVlZqSC1EUVJoSUN2dDY?oc=5
+
+- OpenAI CEO Says AI Regulation 'Urgently' Needed At India Summit - NDTV
+  OpenAI CEO Says AI Regulation 'Ur
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVo0OXhLcjlWUjFPcVhXc1lXaVduOTkxeWxCMk9SQm9xMjZwaVJwam9HcEpEbnhYLUx2Y0pCOWtJeHotSEpNVTFNdGVHenIwa1dzRzdVYUhmWHVvV3cwY0d6bm93V2R6dGZhVjl6Ml9Ga0JMYUVFa3FZQlA4QU4tUTdPS1RObFp3QlpYakxGaUR4S2dfSUt6empPdDBWeDE2UmV2bNIBrAFBVV95cUxOTWNmOWxPUmJMOHBVWUlsazJMTHZmZjhfZFB0TGZ1R25UYU5vbVU2SkJXV0tMY1B5MjZSakZta0o5MEE0ZnNZaENvUU5JX0tqdXdCMmowcF93dmhHbjVrVjZic25LRkthUy03UHRjT0tfamx5eVVrSGlvQXBBYmpCbkI4alBYcjFIV29hYlIybkhuQXpOalV0ZHVuYV9BSm5WWlQ0cy0ycjZkVy1k?oc=5
+
+- Historic trade deals put India on global stage - but challenges remain - BBC
+  Historic trade deals put India on global stage -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
+
+- After Indus Water Move, India Plans To Cut Pakistan's Access To Ravi Waters - NDTV
+  After Indus Water Move, India Plans To Cut Pakistan
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEwyUlhrcDRPY3lNLTVNbVl1UllXUFF3ZW5BNlZjcEpobWdqTjVnNFIzNjRKMG81eXFQMHhhbFFvaUlialc3X2Z5Sm9kMTdqYWoyUk94T0s3WWsyMlNEZEFkVDZEY3h4ek15UWFzc1VUc20yZ1FQUFBHdGxBYjRFQlNTdjUwRlkxcld4cjNyQ0s5X1c1RkM4ZWtSb3Jvc2o3b3VKVDc0TE1pRGdScTQ0aFV1S1JCTkx3S2fSAcIBQVVfeXFMTXJBb05jUFNRd2FMUkdQNVRoQlJZb2ZCZVlsZjN5QnBxRFZXd2l5SVlBZFB6QU9TcVktQkxpMEl5a3FGSjE1Q1ZfN0JlMnJnMEpMVjdhTkhQZXByZWZHelBfZlpZWC1OOTVIUWhNVEhrU3FVYTJic3FLdTNFeGZQclkwQ0NSRlJtOHpwNnpzYUl2TlZ6N21YSVptQVBkTmJKVXVyVldzZ295LVFTby1iMW1yaVFpbHZRNzgtam1ENmhCRVE?oc=5
+
+- PM Modi Highlights India's 'MANAV' Vision At Mega AI Impact Summit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGVudnBBZ01xd0pKb1AzaHJNY2FfZ0F4cmRxQXE4WjJ3bmExMmFsTUhtYzhJVEwyMjJCR19YeFp3ZTJBWEdEYzBFb2hDdk5EMWhVdHFYajJhckNGVGFuZ2FTOFFHVWNKUD
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGVudnBBZ01xd0pKb1AzaHJNY2FfZ0F4cmRxQXE4WjJ3bmExMmFsTUhtYzhJVEwyMjJCR19YeFp3ZTJBWEdEYzBFb2hDdk5EMWhVdHFYajJhckNGVGFuZ2FTOFFHVWNKUDFWZUFBSWlWeFduMEdrWkdFU2J0VmFSSE5SdUJZNUVvZHlOajNXeTFEaXdJa2ItRVpTZzFmVi1iRDdvdGFPUdIBrwFBVV95cUxQcTFlc29CUE11aWN6cUpOVmdBc1ltemR3VDJlRUotcTJNaWRpRExnSUUtbnQtNWdHMy1kdkt5N1lrZzFscjdLbUlRcW5wX2tLWVRfaEtILS1JZEFuck9qdWMxbHloZEZjcVBaaWFUS19HeTc1U283RGVFS3JiZFBrdDRZRWJ2RVpKYmJCUHo1bUFncjVOWUhLaVNPSmhpR2FNRk9PNW5KRW9mTGJxalhV?oc=5
+
+- Evening news wrap: Former UK prince Andrew arrested amid Epstein row; Bloodbath on D-Street as markets cr - Times of India
+  The Times of India reports on the arrest of former UK prince Andrew. The prince
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelVqTFRGNTdWWnFCVkhLRE5SQU9LMFdRNldVa00zVFVDM05DTjViSnFPYUpQRnV0bHd4RUVVazNSc3owRWZSNjhMWHlFd1hkUGhRTWYzUnRkLXNoTkhlb2k3RFJ0alFVLWZFUjhiUGpkU1FwYTZwWWlQakhzaENMZUhWZXQ3NkN5T0hPeTluVUVuYXotWUNvWHJCc1o2dzk0Y2pOTXRVS3NYY2dKdTl1c0hIakZXX250cnNfSUcwNU9aREc2WjR2blBFR0JyenRiVlR2QXBhMlZhTVBiejd5WWlydEluT0FhdmhjajhrWXVrR2JoQjRYY25mNG5GclRkbjBzakJhMDRNODjSAZACQVVfeXFMTWVTWXU4OS1HMFhLbThxVHo3Zm9TbkNDMHVVUFpJaHdvbDBzU2ttLWVfejVUTlU0NWJTYWNGcUJEVkhRMGRGWVpPcDhkalZxUjZYb09CZFA5Q2czcElfQVQxV19hOWRybm9vV0E0VmZZOWdHQ1BUOGFHcG5HeVlLY3VxNGt6dGVkdHBBME5OSnlRTGFoNnZKOHZ3NVpfLXI2MlRRWnU2ejUtQWVqT1JNa2JJVXYxZy1rSS16a3labnk2bHVFaEEzeS1fYklPSzc1QmhrWlVCRjdPelNtMDZOb0NPMW00ZVdWMmpEakloaXM0UWswRUFzSXk1RXN1Yk9vMmFGVlZqSC1EUVJoSUN2dDY?oc=5
+
+- OpenAI CEO Says AI Regulation 'Urgently' Needed At India Summit - NDTV
+  OpenAI CEO Says AI Regulation 'Ur
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVo0OXhLcjlWUjFPcVhXc1lXaVduOTkxeWxCMk9SQm9xMjZwaVJwam9HcEpEbnhYLUx2Y0pCOWtJeHotSEpNVTFNdGVHenIwa1dzRzdVYUhmWHVvV3cwY0d6bm93V2R6dGZhVjl6Ml9Ga0JMYUVFa3FZQlA4QU4tUTdPS1RObFp3QlpYakxGaUR4S2dfSUt6empPdDBWeDE2UmV2bNIBrAFBVV95cUxOTWNmOWxPUmJMOHBVWUlsazJMTHZmZjhfZFB0TGZ1R25UYU5vbVU2SkJXV0tMY1B5MjZSakZta0o5MEE0ZnNZaENvUU5JX0tqdXdCMmowcF93dmhHbjVrVjZic25LRkthUy03UHRjT0tfamx5eVVrSGlvQXBBYmpCbkI4alBYcjFIV29hYlIybkhuQXpOalV0ZHVuYV9BSm5WWlQ0cy0ycjZkVy1k?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-19 06:58:40 UTC_
+_Last updated: 2026-02-19 13:00:02 UTC_
