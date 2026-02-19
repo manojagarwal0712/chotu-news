@@ -1,30 +1,34 @@
 # 📰 Daily News Summaries
 
-- International Fleet Review at Visakhapatnam: Indian Navy vigilant in safeguarding country’s maritime interests, promoting goodwill around globe, says Murmu
+- On the wrong train at age 6, home at 22: The 14-year journey of a lost boy from Jharkhand
   
-  🔗 https://indianexpress.com/article/india/international-fleet-review-visakhapatnam-indian-navy-droupadi-murmu-10539594/
+  🔗 https://indianexpress.com/article/india/wrong-train-home-lost-boy-jharkhand-10539794/
 
-- RLM MLA calls for review of Bihar’s prohibition – ‘Time for review’
+- India AI Impact Summit: Flood alerts, speech synthesis to waste segregation, IITs focus wide and deep
   
-  🔗 https://indianexpress.com/article/india/rlm-mla-calls-for-review-of-bihars-prohibition-time-for-review-10539591/
+  🔗 https://indianexpress.com/article/india/india-ai-impact-summit-flood-alerts-speech-synthesis-to-waste-segregation-iits-focus-wide-and-deep-10539855/
 
-- Emphasis on school children’s nutrition, Simhastha Mahaparv prep: What Madhya Pradesh’s record Budget has in store
+- Indore MBA student’s gruesome murder: ‘Whatever happened, happened,’ says accused as police reveal circumstances that led to killing
   
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-budget-children-nutrition-simhastha-allocations-10539557/
+  🔗 https://indianexpress.com/article/india/indore-mba-students-gruesome-murder-whatever-happened-accused-as-police-circumstances-killing-10539797/
 
-- Jal Jeevan Mission ‘scam’: Look Out Circular sought for retired Rajasthan IAS Subodh Agarwal after morning raid
+- With its strong presence, Europe gives India a vote of ‘AI confidence’
   
-  🔗 https://indianexpress.com/article/india/jal-jeevan-mission-scam-look-out-circular-retired-rajasthan-ias-subodh-agarwal-10539490/
+  🔗 https://indianexpress.com/article/india/india-ai-impact-summit-with-its-strong-presence-europe-gives-india-a-vote-of-ai-confidence-10539898/
 
-- Bars to be open till midnight in Kerala: Govt cites complaints over restrictions despite heavy licensing fee
+- Coming to New York’s iconic Carnegie Hall: Annual festival dedicated to Indian music
   
-  🔗 https://indianexpress.com/article/india/kerala-bars-open-midnight-govt-restrictions-heavy-licensing-fee-10539484/
+  🔗 https://indianexpress.com/article/india/coming-to-new-yorks-iconic-carnegie-hall-annual-festival-dedicated-to-indian-music-10539854/
+
+- AI-related stocks surge on Nvidia tie-ups, but IT companies in red
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-related-stocks-surge-on-nvidia-tie-ups-but-it-companies-in-red-10539932/
 
 - Google debuts mid-range Pixel 10a but keeps the price steady amid the global RAM shortage
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/google-debuts-mid-range-pixel-10a-but-keeps-the-price-steady-amid-the-global-ram-shortage-10539154/
 
-- Google unveils America–India Connect subsea cable, expands AI partnerships
+- Google subsea cables to link India-US, Govt bodies to get frontier AI
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-unveils-america-india-connect-subsea-cable-expands-ai-partnerships-10539371/
 
@@ -36,49 +40,57 @@
   
   🔗 https://indianexpress.com/article/technology/science/why-am-i-here-science-can-explain-why-walking-through-doorway-makes-you-forget-things-10539189/
 
-- AI Impact Summit: Nvidia highlights strategic collaborations with Indian cloud providers, startups
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-impact-summit-nvidia-partnerships-cloud-infrastructure-10539159/
+- From Sam Altman to Mukesh Ambani: List of key speakers on Day 4 of India AI Impact Summit 2026
+  India is hosting the AI Impact Summit 2026 at Bharat Mandapam from Feb 16–20, with participation from 100 countries and over 3,250 speakers. The summit focuses on shaping an inclusive and
+  🔗 https://www.livemint.com/companies/people/india-ai-impact-summit-2026-key-speakers-on-19-feb-mukesh-ambani-sam-altman-11771461858218.html
 
-- European Stocks Advance After Upbeat BAE Systems, Puig Earnings
-  European stocks rose following a slate of positive results, including from B
-  🔗 https://www.livemint.com/companies/european-stocks-advance-after-upbeat-bae-systems-puig-earnings-11771440063457.html
+- Macquarie, Blackstone among bidders for Welspun’s green arm
+  The deal comes close to a decade after BK Goenka’s Welspun Group sold its renewables portfolio to Tata Power. The company
+  🔗 https://www.livemint.com/companies/macquarie-blackstone-among-bidders-for-welspun-s-green-arm-11771415293086.html
 
-- Meta AI chief Alexandr Wang praises India's AI startup ecosystem, credits country's ‘talent pool’
-  Alexandr Wang of Meta highlighted India's rapid emergence in AI. He said India has surpassed traditional tech hubs in specific AI sectors.
-  🔗 https://www.livemint.com/companies/people/meta-ai-chief-alexandr-wang-praises-indias-ai-startup-ecosystem-credits-countrys-talent-pool-11771411745562.html
+- Medikabazaar back in the market for a fundraise three years after scandal
+  Medikabazaar plans to raise  ₹450 crore from existing and new investors. The company claims it has turned Ebitda positive and is targeting  �
+  🔗 https://www.livemint.com/companies/medikabazaar-funding-recovery-governance-scandal-india-medical-supplies-11771411711925.html
 
-- HUL announces  ₹2,000 crore investment to expand manufacturing capacity
-  HUL plans to invest  ₹2,000 crore over two years
-  🔗 https://www.livemint.com/companies/news/hul-announces-rs-2-000-crore-investment-to-expand-manufacturing-capacity-11771426401490.html
+- Mark Zuckerberg grilled in ‘Big Tobacco’ social media trial in Los Angeles – What did Meta chief say? What to know
+   Meta CEO Mark Zuckerberg testified in a landmark Los Angeles trial. He said the company consulted stakeholders on Instagram beauty filters.
+  🔗 https://www.livemint.com/companies/news/mark-zuckerberg-defends-meta-instagram-whatsapp-facebook-in-landmark-social-media-addiction-trial-in-los-angeles-11771456830458.html
 
-- Cochin Shipyard secures $360 mn deal from French firm for first India-made LNG container ships
-  The six-vessel order is CMA CGM’s first with an Indian shipyard. It marks a
-  🔗 https://www.livemint.com/companies/cochin-shipyard-secures-360-mn-deal-from-french-firm-for-first-india-made-lng-container-ships-11771422112819.html
+- Palantir Decamps to Miami Co-Working Space in Surprise Move
+  Palantir Technologies Inc. surprised everyone on Tuesday by announcing it had relocated its headquarters from Denver
+  🔗 https://www.livemint.com/companies/palantir-decamps-to-miami-co-working-space-in-surprise-move-11771444393625.html
 
-- Steel, paint, power and cars: Inside JSW’s ‘Chaebol-style’ strategy to disrupt the auto market
-  JSW Group is planning to drive into a market dominated by Maruti Suzuki. The top four companies make four out of five vehicles.
-  🔗 https://www.livemint.com/companies/mobility-sajjan-jindal-automotive-gambit-11771413671333.html
+- US Fed meeting minutes: 5 key takeaways from Jerome Powell-led FOMC’s decision to hold interest rate steady in January
+  The FOMC voted 10–2 to maintain the federal funds rate in the 3.50%–3.75%
+  🔗 https://www.livemint.com/market/stock-market-news/us-fed-meeting-minutes-5-key-takeaways-from-jerome-powell-led-fomc-s-decision-to-hold-interest-rate-steady-in-january-11771463970585.html
 
-- Palantir stock jumps 5% on AI tie-up with Rackspace, HQ shift: Why investors are upbeat about the pact
-  Palantir Technologies' stock rose over 5% after partnering with Rackspace Technology to enhance AI deployment.
-  🔗 https://www.livemint.com/market/stock-market-news/palantir-stock-jumps-5-on-ai-tie-up-with-rackspace-hq-shift-why-investors-are-upbeat-about-the-pact-11771427964125.html
+- Gold, silver rates today: Gold prices near $4,980, silver prices rebound to $76/oz. Key levels to watch out
+  Spot gold prices were trading marginally lower, hovering around the $4,980 level. Spot silver prices bounced back to the $76 per ounce level during Asian market
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-prices-near-4-980-silver-prices-rebound-to-76-oz-key-levels-to-watch-out-11771461660423.html
 
-- Gold, silver rates today: Comex gold jumps $84/oz; silver gains $3.4/oz ahead of US Fed minutes
-  Gold prices rose to $4,989, while silver also gained. Analysts note strong buying interest and potential for renewed momentum.
-  🔗 https://www.livemint.com/market/stock-market-news/gold-silver-rates-today-comex-gold-jumps-84-oz-silver-gains-3-4-oz-ahead-of-us-fed-minutes-11771419983172.html
+- Stock recommendations for 19 February from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 19 February. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-marketsmith-india-nifty-sensex-hitachi-energy-india-laurus-labs-11771419480953.html
 
-- Dow Jones, S&amp;P 500, Nasdaq open higher amid easing investor concerns over AI; US Fed's minutes release in focus
-  The investors now are set to focus their attention on the upcoming US Fed's minutes release. Dow Jones, S&amp;amp;P 500, and Nasdaq open higher.
-  🔗 https://www.livemint.com/market/stock-market-news/dow-jones-s-p-500-nasdaq-open-higher-amid-easing-investor-concerns-over-ai-us-feds-minutes-release-in-focus-11771425110202.html
+- Stocks to buy: Raja Venkatraman's recommends three stocks for 19 February
+  Market expert Raja Venkatraman shares his three top stock picks to buy today, 19 February.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-stock-recommendations-19-february-sensex-nifty-outlook-trade-set-up-11771427792341.html
 
-- Brainbees Solutions stock crashes 20% in three sessions post Q3 numbers; down 70% from peak. Is the worst over?
-  Shares of Brainbees Solutions, operator of FirstCry, fell 6% to a record low of  ₹216. The crash has brought the company’s market
-  🔗 https://www.livemint.com/market/stock-market-news/brainbees-solutions-stock-crashes-20-in-three-sessions-post-q3-numbers-down-70-from-peak-is-the-worst-over-11771417717104.html
+- New  ₹1,500 crore fund by JM Financial targets pre-IPO investments
+  The fund will back companies expected to go public within 18 months. Individual investments will be capped at 10%
+  🔗 https://www.livemint.com/market/jm-financial-pre-ipo-aif-india-ipo-boom-11771409151389.html
 
-- Gold vs equities vs bonds: How to allocate your money amid stock market volatility? Experts explain
-  In uncertain markets, a diversified portfolio is crucial. Experts recommend 60% equities, 25% bonds, and 15% gold. Gold serves as a hedge, while bonds can meet specific needs
-  🔗 https://www.livemint.com/market/stock-market-news/gold-vs-equities-vs-bonds-how-to-allocate-your-money-amid-stock-market-volatility-experts-explain-11771413174559.html
+- Software firms won’t die, AI models can’t work independently: ServiceNow COO
+   Enterprises will never simply go and adopt a barebones model for the work they do. They want trust, compliance, a team to fall back on, security, and compatibility
+  🔗 https://www.livemint.com/technology/servicenow-amit-zavery-coo-ai-impact-software-jobs-india-tech-hub-11771428159981.html
+
+- 'Misinformation cannot be encouraged, essential that a code is followed':  MeitY Secy on Galgotia Universitys robodog controversy
+  The Ministry of Electronics and Information Technology (MeitY) has addressed the removal of the Galgotias University stall from a recent expo
+  🔗 https://www.livemint.com/technology/misinformation-cannot-be-encouraged-essential-that-a-code-is-followed-meity-secy-on-galgotia-universitys-robodog-controversy-11771453913781.html
+
+- AI pioneer Stuart Russell warns of catastrophic risks at New Delhi summit: ‘Off by a factor of 10 to 50 million’
+   AI Pioneer Stuart Russell highlighted the existential threats posed by advanced AI systems. Russell urged for stricter regulations.
+  🔗 https://www.livemint.com/technology/tech-news/ai-pioneer-stuart-russell-warns-of-catastrophic-risks-at-new-delhi-summit-off-by-a-factor-of-10-to-50-million-11771405172216.html
 
 - ‘Misinformation cannot be encouraged’: IT Secretary S. Krishnan on RoboDog controversy
   Galgotias University was asked to vacate its stall at the India AI Impact Summit 2026 over a viral video showing a RoboDog misrepresented as the university’s own
@@ -88,137 +100,125 @@
   DeepMind's leadership highlighted the potential for AI to revolutionize Indian agriculture and climate science. They warned of the dual
   🔗 https://www.livemint.com/technology/google-ai-india-government-public-services-deepmind-partnerships-11771424438473.html
 
-- Google Pixel 10a launched in India at  ₹49,999 with 120Hz display and Tensor G4: Specifications and features
-  Google Pixel 10a launches in India at  ₹49,999 with a 6.3-inch 120Hz display, Tensor G4 chip, 48MP dual cameras and a 5,100
-  🔗 https://www.livemint.com/technology/gadgets/google-pixel-10a-launched-in-india-at-rs-49-999-with-120hz-display-and-tensor-g4-specifications-and-features-11771427613271.html
-
-- Google Pixel 10a India launch live: Expected price, specs, offers, availability and more
-  Google Pixel 10a debuts in India today, with pre-orders opening on Flipkart and the Google Store. Expected to feature Tensor G4, Android 16, 45
-  🔗 https://www.livemint.com/technology/gadgets/google-pixel-10a-india-launch-live-expected-price-specs-offers-availability-and-more-11771426050330.html
-
-- Explained| India sets Guinness World Record with 2.5 lakh AI responsibility pledges in 24 hours - What it means
-  India sets a Guinness World Record with 250,946 pledges in 24 hours under the IndiaAI Mission’s AI Responsibility campaign.
-  🔗 https://www.livemint.com/technology/tech-news/ai-impact-summit-2026-india-sets-guinness-world-record-with-2-5-lakh-ai-responsibility-pledges-in-24-hours-11771423390795.html
+- Markets News, Feb. 18, 2025: Tech Stocks Lead Markets Higher; Fed Minutes Reveal Deep Divisions Over Future Rate Cuts - Investopedia
+  &nbsp;&ngt;<font color="#6f6f
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPc0NzcFl0MzF3VWp4cWJlOGZBN1ZrVzVHd0NfLWctVFFfM3lvNHg3SDdwSnJJd25obG93bU53ZFJ4T251YnVoZHR1V3NuM1ZUTjRQM20ydXJlNFo3RUZGODhKWnlTb1Y2dUJDLWhsR0xiaWR0YzJyZFE4bDNrajlEYUFsaW1XNnNtLVYybllNNjM?oc=5
 
 - Stocks Get Tech Boost Amid Strong Economic Reports: Markets Wrap - Bloomberg.com
   Stocks Get Tech Boost Amid Strong Economic
   🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPWnBZdm8yaFdMLVNRQXNyakRzbUNxRFNmbFBFWTEwb2s3YTJGWGZMLTJlbl9ZSGpiaVlFanE4YmwwMzhqSGFYeDU5N1hmRElaY05JUHJlVVlBaExKVFNEQmhQTFMwNlAyUGF3bW1EWDJWUGI5V2dqSEQ1Sy1NMmR6X1pyUmVSM3k1cDhNZTVMTzVVTDJCWUE?oc=5
 
-- Software market selloff: AI invstors banked every company would win, says Deutsche - Fortune
-  Software market selloff: AI invstors bank
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPeUdWYjV4Q1NjaHJsbndsd0JJbU9FTndKSWx5SHhZXzZJbFlqeWI0OEVqUkg3czBHZ1JMZ192MDJhNGN4cEVBT3VNRjl6Qmk2aFllb0hKNDMyekktVHMwTEs2dWZva0FoWUVXMTAxQVFqdXowS05KSjBtX2wwc1YyeGJGUXJMQmVqcFM3cHNTMA?oc=5
-
-- Stocks rise ahead of Fed minutes as Nvidia shares gain: Live updates - CNBC
-  Nvidia shares rise ahead of Fed minutes as Nvidia
+- S&P 500 rises, led by Nvidia, even with Fed rate outlook uncertain: Live updates - CNBC
+  &nbsp;&ngt;<font color
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBuZmJtOEdLVG11bmRRaUdKSlQyN3ZxU080SjBPME9YR1h1akl1MWRSN3ZfVm9TOWRsNnZkaTd5bE9zU202UVlrcHpNRTlqMDltQ0RsRE9mU0JTNU9TRWlQNU9vbHluQ1NGMk90b3Rxb2xhOGFKMy1F0gF8QVVfeXFMT1M3VmlvNmhmMk5JTTBhMnhuWUVHMWRjZk12NTRzbG9OUk53LXNQUkh1WS1sc3FXWnJPMkIwREp1N1lwLUlnZV9CMFU5QUp0ZWVRYW5KZXAxdVE3OXkzMFBsaVF3dkNPT0RQUlp3WTNhSERyMEx5WVlSeDh6Sg?oc=5
 
-- Fed minutes ahead; Palo Alto Networks slips - what’s moving markets By Investing.com - Investing.com India
-  Palo Alto Networks slips - what’s moving markets
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1E5U1ItLXBoX0s0bUhJRlNVcGI3bWsxNzFwR204WG9QNlY4ZW9VcXEtT1Y4VDAyS1JQeXowdjc5U3hkN25DQ2NlekZZQll6YVZ6WkRZakc0MS1EbE9oM0VuVUhMQkNlM0E0MGdVTmgtWUMyLU5rMTBnX09KcFExN0tQS3lWUXFndjVoajQwYlV6WFF1V1R1U1NRdnNGSElsdjV6b0V2Ty1lQWhnQ2FKcjE0X3VuZw?oc=5
+- Trillion-dollar AI market wipeout happened because investors banked that 'almost every tech company would come out a winner' - Fortune
+  Trillion-dollar AI market wipeout happened because investors banked that 'almost
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPeUdWYjV4Q1NjaHJsbndsd0JJbU9FTndKSWx5SHhZXzZJbFlqeWI0OEVqUkg3czBHZ1JMZ192MDJhNGN4cEVBT3VNRjl6Qmk2aFllb0hKNDMyekktVHMwTEs2dWZva0FoWUVXMTAxQVFqdXowS05KSjBtX2wwc1YyeGJGUXJMQmVqcFM3cHNTMA?oc=5
 
-- Markets News, Feb. 17, 2026: Stocks Eke Out Gains in Volatile Session To Start Week of Inflation, GDP Data - Investopedia
+- South Korea's Kospi jumps to record high as regional rally tracks Wall Street gains - CNBC
+  South Korea's Kospi jumps to record high as regional
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVPM19QdlhLVHZXUEVzYmZ6QUlpdldtQkRGbmVEWERCVHRJNElqMjJUZmloVmVBSmUzV2xCTndMNXNWMDNSYllRcDZwYkxPY29Qc1lhR0lGMnNGTk0yenZXX1c5MnRSZHZPOTNQYWZXNXNNbFozLXctcUtoT2tOYWdiY0lnaGVBa0VV0gGQAUFVX3lxTE9qeVREU1l0LUVzcjBzcElRcWIzQ0tGYnUycW9POFdnZ2JZSm9XaEVqZFZvR3hfOUhDTDJEZkFuaTYzSFRreVE3VXVka0JPc1lnU3VBYVRFZVl4QkRCLTUtbE1ZZEEwYjV0c2l0NlU2NzZqNTFadHMtNDFVM2dOQm5DcUlnektFYmVBTE1sZXZ4eg?oc=5
+
+- Markets News, Feb. 18, 2025: Tech Stocks Lead Markets Higher; Fed Minutes Reveal Deep Divisions Over Future Rate Cuts - Investopedia
   &nbsp;&ngt;<font color="#6f6f
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNRllkUW9ZVy1GdWoxdGRxaHRIcUNHN2ZvMG1NdkdmSFRSYnBPTlVmU2hRV3hoUmNESmNaX3BYZUNnU2VYSWE0dzRjYU1jQlp0UGdKV1M2V0JwcHdpanlpb3NhdzlnRVRaQzBfRW0tV1BpRVZNNTdVN2ZpdUxKQUtCUUU1N2RTeWhhak4yUFZmN0o?oc=5
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPc0NzcFl0MzF3VWp4cWJlOGZBN1ZrVzVHd0NfLWctVFFfM3lvNHg3SDdwSnJJd25obG93bU53ZFJ4T251YnVoZHR1V3NuM1ZUTjRQM20ydXJlNFo3RUZGODhKWnlTb1Y2dUJDLWhsR0xiaWR0YzJyZFE4bDNrajlEYUFsaW1XNnNtLVYybllNNjM?oc=5
 
-- US stocks: Starbucks' investor group urges shareholders to replace directors over labor row
-  Investors want shareholders to vote against two directors. This is due to ongoing labor disputes with baristas. A long strike occurred last year.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-starbucks-investor-group-urges-shareholders-to-replace-directors-over-labor-row/articleshow/128516692.cms
+- Stocks Get Tech Boost Amid Strong Economic Reports: Markets Wrap - Bloomberg.com
+  Stocks Get Tech Boost Amid Strong Economic
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPWnBZdm8yaFdMLVNRQXNyakRzbUNxRFNmbFBFWTEwb2s3YTJGWGZMLTJlbl9ZSGpiaVlFanE4YmwwMzhqSGFYeDU5N1hmRElaY05JUHJlVVlBaExKVFNEQmhQTFMwNlAyUGF3bW1EWDJWUGI5V2dqSEQ1Sy1NMmR6X1pyUmVSM3k1cDhNZTVMTzVVTDJCWUE?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Thursday
-  Nifty 50 and BSE Sensex gained on consumer and financial strength. Analysts see consolidation ahead, with 26,000 as resistance and 25,400 as support.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/128513501.cms
+- S&P 500 rises, led by Nvidia, even with Fed rate outlook uncertain: Live updates - CNBC
+  &nbsp;&ngt;<font color
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBuZmJtOEdLVG11bmRRaUdKSlQyN3ZxU080SjBPME9YR1h1akl1MWRSN3ZfVm9TOWRsNnZkaTd5bE9zU202UVlrcHpNRTlqMDltQ0RsRE9mU0JTNU9TRWlQNU9vbHluQ1NGMk90b3Rxb2xhOGFKMy1F0gF8QVVfeXFMT1M3VmlvNmhmMk5JTTBhMnhuWUVHMWRjZk12NTRzbG9OUk53LXNQUkh1WS1sc3FXWnJPMkIwREp1N1lwLUlnZV9CMFU5QUp0ZWVRYW5KZXAxdVE3OXkzMFBsaVF3dkNPT0RQUlp3WTNhSERyMEx5WVlSeDh6Sg?oc=5
 
-- US Stocks: Pinterest raises quarterly revenue forecast, boosted by tvScientific deal, shares rise 3%
-  The acquisition of tvScientific, announced in December 2025, is Pinterest's first major deal since 2022. It
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-pinterest-raises-quarterly-revenue-forecast-boosted-by-tvscientific-deal-shares-rise-3/articleshow/128514384.cms
+- Trillion-dollar AI market wipeout happened because investors banked that 'almost every tech company would come out a winner' - Fortune
+  Trillion-dollar AI market wipeout happened because investors banked that 'almost
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPeUdWYjV4Q1NjaHJsbndsd0JJbU9FTndKSWx5SHhZXzZJbFlqeWI0OEVqUkg3czBHZ1JMZ192MDJhNGN4cEVBT3VNRjl6Qmk2aFllb0hKNDMyekktVHMwTEs2dWZva0FoWUVXMTAxQVFqdXowS05KSjBtX2wwc1YyeGJGUXJMQmVqcFM3cHNTMA?oc=5
 
-- US Stocks: Trump adviser Hassett suggests New York Fed researchers be punished for tariffs argument
-  The findings in the New York Fed paper have been echoed ‌elsewhere. The paper argued that Trump's large ​import tax increases are borne by those in the
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-trump-adviser-hassett-suggests-new-york-fed-researchers-be-punished-for-tariffs-argument/articleshow/128514236.cms
+- South Korea's Kospi jumps to record high as regional rally tracks Wall Street gains - CNBC
+  South Korea's Kospi jumps to record high as regional
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVPM19QdlhLVHZXUEVzYmZ6QUlpdldtQkRGbmVEWERCVHRJNElqMjJUZmloVmVBSmUzV2xCTndMNXNWMDNSYllRcDZwYkxPY29Qc1lhR0lGMnNGTk0yenZXX1c5MnRSZHZPOTNQYWZXNXNNbFozLXctcUtoT2tOYWdiY0lnaGVBa0VV0gGQAUFVX3lxTE9qeVREU1l0LUVzcjBzcElRcWIzQ0tGYnUycW9POFdnZ2JZSm9XaEVqZFZvR3hfOUhDTDJEZkFuaTYzSFRreVE3VXVka0JPc1lnU3VBYVRFZVl4QkRCLTUtbE1ZZEEwYjV0c2l0NlU2NzZqNTFadHMtNDFVM2dOQm5DcUlnektFYmVBTE1sZXZ4eg?oc=5
 
-- Market Trading Guide: Bank of India among 2 PSU bank stocks offering up to 8% upside
-  The Nifty 50 logged a third straight gain, reclaiming key support and breaking resistance. Analysts see strength continuing toward 26,000. Breakouts in Bank of India
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-bank-of-india-among-2-psu-bank-stocks-offering-up-to-8-upside/articleshow/128513227.cms
-
-- After Indus Water Move, India Plans To Cut Pakistan's Access To Ravi Waters - NDTV
-  After Indus Water Move, India Plans To Cut Pakistan
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEwyUlhrcDRPY3lNLTVNbVl1UllXUFF3ZW5BNlZjcEpobWdqTjVnNFIzNjRKMG81eXFQMHhhbFFvaUlialc3X2Z5Sm9kMTdqYWoyUk94T0s3WWsyMlNEZEFkVDZEY3h4ek15UWFzc1VUc20yZ1FQUFBHdGxBYjRFQlNTdjUwRlkxcld4cjNyQ0s5X1c1RkM4ZWtSb3Jvc2o3b3VKVDc0TE1pRGdScTQ0aFV1S1JCTkx3S2fSAcIBQVVfeXFMTXJBb05jUFNRd2FMUkdQNVRoQlJZb2ZCZVlsZjN5QnBxRFZXd2l5SVlBZFB6QU9TcVktQkxpMEl5a3FGSjE1Q1ZfN0JlMnJnMEpMVjdhTkhQZXByZWZHelBfZlpZWC1OOTVIUWhNVEhrU3FVYTJic3FLdTNFeGZQclkwQ0NSRlJtOHpwNnpzYUl2TlZ6N21YSVptQVBkTmJKVXVyVldzZ295LVFTby1iMW1yaVFpbHZRNzgtam1ENmhCRVE?oc=5
-
-- Can't Be Clearer: Expert On India Hitting Pak's Nuclear Site During Op Sindoor - NDTV
-  "Can't Be Clearer: Expert On India H
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUUJWTFkzbGh0aHExbjdWZFktWFJCZUYxYjYta3NPZzRqZDZIZzBFYkYteGZnWHhIUmFRU3hEcWJsSEpLSmdBbDE0Vi1WUFROeGR2c2VUU0w3M0lLcjZvMmVjd3VXSUZiTmp2UEk2c2RYYm9jdi0yWkl3U2VQNmNvWlRFSTVKa294eXdBeXdZS0JidE15eU9KdlBhQ2I1TTVxVk1ZMXJnVElZakR6Y0tJcE9JekpvLUV0b1lveldoUjZrdWEtVWktUzYzN2FFV2tCMFpJQ0loMjV3bWEtS2VEOGFR0gHqAUFVX3lxTE5vUG1weHROVjMzYTlnT2RrZVFvUXZ1YnFRVjZsUVU0OEYxemVVS09qRGU3dTAwQWNLdTV6SHowOTRONi1naEF6YkR3V2FhbFJjZlFSTmJTTEs5SjFTOW1acFhjM1QzaTU5MExraEVWR2FhMHoyN3Zrc0ptR2d3c1UxZ2JVcnNnWVpINm5aU3ZTbkRFdHNpOVg4ZXV0LWdELUN6OHZFZGxOcXN0dW5GZ2tMX1haMG5sRmV0NG9NekZkc0VrNGRTU2Rzd05DUTNzdGZSVjVlSEozZE1qWXFtYUoxOUtfZlNrejNjdw?oc=5
-
-- Kashmir division has more voters than Jammu, new data shows - Times of India
-  Kashmir division has more voters than Jammu
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM0Y5VERDN1hnaHJJa3htU1JVcWRrQ1Y2MVZFT1FUaHAxSXRTOWNndFFVSUFxeFc3eUZwMlZsRzczWEN3RnVjQ1NiTGs5ei12SlhkWVZOd3cwWjhjdkZySHdEYlEwQi1nTVJTME1GRGJhMmdfbi1NVy0zU1hreG82R3hnNUFSR0FsOEJQRGRPWjNaNnp5Wi1TVXdyRzVTd29oSVRSWjFiUWE2b21LM2ktdkdiT2pZbnNFQTVvaDBVQW8wZGc?oc=5
-
-- India stays out of joint statement criticising Israel’s West Bank plans - The Hindu
-  India stays out of joint statement criticising Israel�
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcXl1Z05XWnM0RmNpeDY4ZmV4WkhhSW9ad05wc2tqbUlaVEdIbEE0OXpqVE54bWdVOGVwaDdUTzRoU1dYMTNURWYtZlA3UlpIdGdCN01VWi1YMElIWld0RTc2V3QtTGhGY3FmRUR5NlFlQ19BVTg5NmZQdUpBdklrLTN0cHFtMzMxZjdDSUtPaHdXa3F5Nk94SVZOVDZFQmxjeVJNYkRhTWRhaHJGRE9QSENnRUJhUVEzcnAyYVdNd1dYdlA0aVhTctIBzwFBVV95cUxNY1ctUzR5dmJOaXdfMkI5OUJBaHllMVJub3l0dzhzLUtVTFJmZzFJZlkxLXozUHFoendELV8yWE5sekVRSHhNRnZfYU9VSlFGU1ltbU43MU5OS2Jwa2pMb3E0SXpjOVRvcDAwY0djc3ZUVms4U01fZVFIeFBVNGN1eXlWbzBuYXlEUXp1ejJVaVVZTmR3M3dmRG1wRUJvQUh6Snpvbk5rY3dQTmNzN3ZOX0VhX1BFRDRNMlNwRWMwR1RUUk5WQmJ6bmNEUXNKdnM?oc=5
-
-- J&K's Doodhpathri Reopens For Tourists, Livelihood Restored After 10 Months - NDTV
-  K's Doodhpathri Re
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWTQyS2JfUlpscHozM1VFXzFaV1hudnhLRFE5TU1scWNDZkdpdnA3ejB2eU5mUkdncVNuZWFkRHNUYVBfSFhDY3FaN2lfYzJkVGhHRUtMSWRTVkJaQlF0cWJHQzBhMHpLZlAyYmpmRFNzUW1LSDVhbWxLQmJzeURmSzVJQlVVbmFZNDFPVFA2RHZrb3ZNUVVQVEpuUE01VzNzVjZGV3Y2Q3A2UFRYWXZNeE8xVGzSAbwBQVVfeXFMTUhYaGlrMkdQaEkwRjItVmZDUnV0VVpWSlBUOU1rN1RVNExZby1nenZLNnN1LXVFOVF2Wlp3b0VKNG0yWnA5ZzlpQ1hTSXdtSk55LVJERl96UE1QWklZb2lkLWhKcjVTUlJJZWltb2swRmFERm00TWpNdkRTWVM5ZFBtQjJ2dmROc3RWOFluZVp6N3J6aDFZZXZ6WFF2Q1FzYngxY2lTTEtERGRTOXpLX2s5Y0JCdFJkZEMza2U?oc=5
+- Historic trade deals put India on global stage - but challenges remain - BBC
+  Historic trade deals put India on global stage -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
 
 - After Indus Water Move, India Plans To Cut Pakistan's Access To Ravi Waters - NDTV
   After Indus Water Move, India Plans To Cut Pakistan
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEwyUlhrcDRPY3lNLTVNbVl1UllXUFF3ZW5BNlZjcEpobWdqTjVnNFIzNjRKMG81eXFQMHhhbFFvaUlialc3X2Z5Sm9kMTdqYWoyUk94T0s3WWsyMlNEZEFkVDZEY3h4ek15UWFzc1VUc20yZ1FQUFBHdGxBYjRFQlNTdjUwRlkxcld4cjNyQ0s5X1c1RkM4ZWtSb3Jvc2o3b3VKVDc0TE1pRGdScTQ0aFV1S1JCTkx3S2fSAcIBQVVfeXFMTXJBb05jUFNRd2FMUkdQNVRoQlJZb2ZCZVlsZjN5QnBxRFZXd2l5SVlBZFB6QU9TcVktQkxpMEl5a3FGSjE1Q1ZfN0JlMnJnMEpMVjdhTkhQZXByZWZHelBfZlpZWC1OOTVIUWhNVEhrU3FVYTJic3FLdTNFeGZQclkwQ0NSRlJtOHpwNnpzYUl2TlZ6N21YSVptQVBkTmJKVXVyVldzZ295LVFTby1iMW1yaVFpbHZRNzgtam1ENmhCRVE?oc=5
 
-- Can't Be Clearer: Expert On India Hitting Pak's Nuclear Site During Op Sindoor - NDTV
-  "Can't Be Clearer: Expert On India H
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUUJWTFkzbGh0aHExbjdWZFktWFJCZUYxYjYta3NPZzRqZDZIZzBFYkYteGZnWHhIUmFRU3hEcWJsSEpLSmdBbDE0Vi1WUFROeGR2c2VUU0w3M0lLcjZvMmVjd3VXSUZiTmp2UEk2c2RYYm9jdi0yWkl3U2VQNmNvWlRFSTVKa294eXdBeXdZS0JidE15eU9KdlBhQ2I1TTVxVk1ZMXJnVElZakR6Y0tJcE9JekpvLUV0b1lveldoUjZrdWEtVWktUzYzN2FFV2tCMFpJQ0loMjV3bWEtS2VEOGFR0gHqAUFVX3lxTE5vUG1weHROVjMzYTlnT2RrZVFvUXZ1YnFRVjZsUVU0OEYxemVVS09qRGU3dTAwQWNLdTV6SHowOTRONi1naEF6YkR3V2FhbFJjZlFSTmJTTEs5SjFTOW1acFhjM1QzaTU5MExraEVWR2FhMHoyN3Zrc0ptR2d3c1UxZ2JVcnNnWVpINm5aU3ZTbkRFdHNpOVg4ZXV0LWdELUN6OHZFZGxOcXN0dW5GZ2tMX1haMG5sRmV0NG9NekZkc0VrNGRTU2Rzd05DUTNzdGZSVjVlSEozZE1qWXFtYUoxOUtfZlNrejNjdw?oc=5
+- Need to maintain balance between innovation and regulation: Vaishnaw - Times of India
+  Need to maintain balance between innovation and regulation:
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHRUdTFSLVNsUm9pcm44YV9WNzdvMjB0N3hTdUdPSTl3cUhzZDNMcGRWN1hodHdqRWpOWGxZc2xkYWlaYkROOUxnZEhmWmVMTEFGT0JQazl2c2JFdTlpbzZvZ0ZESU5qbGRMMmV5SjlKZmFCeUQ3M3ZaSmF5eThKUjBXQ0tTSm1FbnFPNklDbkxtWEJxVmVGWHJmTTFkNHRHMHlETlZFcENXTFYxaGlsQWhad0sycl91REdFRnJqOU9KeVctT1g5emdaNVVaZ3Bq0gHWAUFVX3lxTE1pUmtiRGYzUzRmQWlmZklpQXZjd1NwbE0xaWo3NWppRWx6a0xwMC1UcGpERFQtQVdSS25IY19SVlh0c2dtdy1ROFFsTGlQUjlEcGFyZVVqOWZaZTlBSGlGdUQ5UGJiOVNVWklaZ19DT0FPa09iRVFpS0I0QjBmb3JxZGZrb2tFaUs1bjBpaXdJWk5rNUdheWlNRnVndFFkZWhoNjF4aXBtbEhJVUEzaUMteDU1NDRiejVtb2NoUXZTNktZUUtzSE03ZW5JeUM4QmJBQ0FLS1E?oc=5
 
-- Kashmir division has more voters than Jammu, new data shows - Times of India
-  Kashmir division has more voters than Jammu
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM0Y5VERDN1hnaHJJa3htU1JVcWRrQ1Y2MVZFT1FUaHAxSXRTOWNndFFVSUFxeFc3eUZwMlZsRzczWEN3RnVjQ1NiTGs5ei12SlhkWVZOd3cwWjhjdkZySHdEYlEwQi1nTVJTME1GRGJhMmdfbi1NVy0zU1hreG82R3hnNUFSR0FsOEJQRGRPWjNaNnp5Wi1TVXdyRzVTd29oSVRSWjFiUWE2b21LM2ktdkdiT2pZbnNFQTVvaDBVQW8wZGc?oc=5
+- "Misinformation Can't Be Encouraged": Centre On Galgotias Row - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxNamp1MlpGcmg3Q0JlVEtlaGRyVHZDWkV3MkM3Tm1XTXBOUnZzeXNqZkt4ZFNuRndRS1NYSkpjUXpiYlh0Z1kyX25RbXY2UHZ1WFVSZHZ6V21pejFDczkxSElhOUwyRkRVXz
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNamp1MlpGcmg3Q0JlVEtlaGRyVHZDWkV3MkM3Tm1XTXBOUnZzeXNqZkt4ZFNuRndRS1NYSkpjUXpiYlh0Z1kyX25RbXY2UHZ1WFVSZHZ6V21pejFDczkxSElhOUwyRkRVXzVzUWtzOXZtNnZaSFhQbTFkSnRkVnFOT1ZIVEZNVjJmT1hfZ3NFaWRnTkdvZjEyZWdXTHowTzZwaVZxbjJoaUJUN2JmU2FDZVhlbE1JRWduMDJQdzZoN21ybG91emVxVWtlVnRvX3Y4M0ZRYTlpclFxeXpOSURUcFEtaHU5dUdpSGhCVWJyLUpnaEnSAfsBQVVfeXFMTldGdU9lZEJEZjNiU05GNjZwREpRSDRjNGpEa2V0dHN2WFo3NGZyeWx4Z0p3V1A0VXNFYXdSV3EtV2xRNUFWQWkyMGdhVE9SX0hFbG85VjFHaDFDSVF3NW9FbXZSVzZMeE1kb1dXbkNnaU5IRWw4R3k3Zzd4WkswY3Vfc2pOdEZOQTN3Xzc4MUxUY2htekRiWDg2d1JJR19MMU8wRVlWUURzYVlTWERWZjhsaDVqbklmZ0duRHBYaENHbXlGYXZPRnphYjRwR0k3NGJUcFM1Q2xUUjZ4cm9GWmczUVlsVFVDRVdyTnZET3FqazZZWXh6WkYyalk?oc=5
 
-- India stays out of joint statement criticising Israel’s West Bank plans - The Hindu
-  India stays out of joint statement criticising Israel�
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcXl1Z05XWnM0RmNpeDY4ZmV4WkhhSW9ad05wc2tqbUlaVEdIbEE0OXpqVE54bWdVOGVwaDdUTzRoU1dYMTNURWYtZlA3UlpIdGdCN01VWi1YMElIWld0RTc2V3QtTGhGY3FmRUR5NlFlQ19BVTg5NmZQdUpBdklrLTN0cHFtMzMxZjdDSUtPaHdXa3F5Nk94SVZOVDZFQmxjeVJNYkRhTWRhaHJGRE9QSENnRUJhUVEzcnAyYVdNd1dYdlA0aVhTctIBzwFBVV95cUxNY1ctUzR5dmJOaXdfMkI5OUJBaHllMVJub3l0dzhzLUtVTFJmZzFJZlkxLXozUHFoendELV8yWE5sekVRSHhNRnZfYU9VSlFGU1ltbU43MU5OS2Jwa2pMb3E0SXpjOVRvcDAwY0djc3ZUVms4U01fZVFIeFBVNGN1eXlWbzBuYXlEUXp1ejJVaVVZTmR3M3dmRG1wRUJvQUh6Snpvbk5rY3dQTmNzN3ZOX0VhX1BFRDRNMlNwRWMwR1RUUk5WQmJ6bmNEUXNKdnM?oc=5
+- No reason to believe India halted Russian oil imports, says Moscow | World News - Hindustan Times
+  No reason to believe India halted Russian oil imports, says Moscow.
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPbllscU1lV21qVDk4cVB2VDFLUlVONE1ObzYybk1FZEV3TVdFU2RRejFWUXE1b0Fpbk0tQUwxeC05WWFET2UyZ0xESUpJSFpZYmNCRWZ6QlpMQXVZMmJUNDNFaVktcGJLZXhmODN3QWZkbUpzZWV1RlJzd0FnTUhPRFZzRjNDQnFoaXVYcGNOdTNCUzZHTHA3R2lvcDNXSjRBVm1CMlJKWTdTZ0JTUF83cHlTbWxhbjFrdEV5UnRuZ2xYdThiYVkw0gHMAUFVX3lxTE1Ta2pRT05FcEFxYThrN0pFX0Zqc1Q4emxGbWEzLXVZa3JkM2xVZUY3Q0pkeTRzbVA1N1RaX0g3c1d2VjlleE84REo1TUhlcndWWE44NGl1NDlvcDM1S1hLY1lZeHFmLTN2NmYyb216clVObEstWExTTmMzNHIxVlRxcnUxUHJZYnJDR1VIZm1pcG9IdEVGdGh2Z1psbFRoZlZDNVhYSTRKd2JyODQ5N0FWOGZDcDB0b25Wd0s1RklUOWZRdzZYUV9IMEdSLQ?oc=5
 
-- J&K's Doodhpathri Reopens For Tourists, Livelihood Restored After 10 Months - NDTV
-  K's Doodhpathri Re
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWTQyS2JfUlpscHozM1VFXzFaV1hudnhLRFE5TU1scWNDZkdpdnA3ejB2eU5mUkdncVNuZWFkRHNUYVBfSFhDY3FaN2lfYzJkVGhHRUtMSWRTVkJaQlF0cWJHQzBhMHpLZlAyYmpmRFNzUW1LSDVhbWxLQmJzeURmSzVJQlVVbmFZNDFPVFA2RHZrb3ZNUVVQVEpuUE01VzNzVjZGV3Y2Q3A2UFRYWXZNeE8xVGzSAbwBQVVfeXFMTUhYaGlrMkdQaEkwRjItVmZDUnV0VVpWSlBUOU1rN1RVNExZby1nenZLNnN1LXVFOVF2Wlp3b0VKNG0yWnA5ZzlpQ1hTSXdtSk55LVJERl96UE1QWklZb2lkLWhKcjVTUlJJZWltb2swRmFERm00TWpNdkRTWVM5ZFBtQjJ2dmROc3RWOFluZVp6N3J6aDFZZXZ6WFF2Q1FzYngxY2lTTEtERGRTOXpLX2s5Y0JCdFJkZEMza2U?oc=5
-
-- After Indus Water Move, India Plans To Cut Pakistan's Access To Ravi Waters - NDTV
-  After Indus Water Move, India Plans To Cut Pakistan
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEwyUlhrcDRPY3lNLTVNbVl1UllXUFF3ZW5BNlZjcEpobWdqTjVnNFIzNjRKMG81eXFQMHhhbFFvaUlialc3X2Z5Sm9kMTdqYWoyUk94T0s3WWsyMlNEZEFkVDZEY3h4ek15UWFzc1VUc20yZ1FQUFBHdGxBYjRFQlNTdjUwRlkxcld4cjNyQ0s5X1c1RkM4ZWtSb3Jvc2o3b3VKVDc0TE1pRGdScTQ0aFV1S1JCTkx3S2fSAcIBQVVfeXFMTXJBb05jUFNRd2FMUkdQNVRoQlJZb2ZCZVlsZjN5QnBxRFZXd2l5SVlBZFB6QU9TcVktQkxpMEl5a3FGSjE1Q1ZfN0JlMnJnMEpMVjdhTkhQZXByZWZHelBfZlpZWC1OOTVIUWhNVEhrU3FVYTJic3FLdTNFeGZQclkwQ0NSRlJtOHpwNnpzYUl2TlZ6N21YSVptQVBkTmJKVXVyVldzZ295LVFTby1iMW1yaVFpbHZRNzgtam1ENmhCRVE?oc=5
-
-- Can't Be Clearer: Expert On India Hitting Pak's Nuclear Site During Op Sindoor - NDTV
-  "Can't Be Clearer: Expert On India H
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUUJWTFkzbGh0aHExbjdWZFktWFJCZUYxYjYta3NPZzRqZDZIZzBFYkYteGZnWHhIUmFRU3hEcWJsSEpLSmdBbDE0Vi1WUFROeGR2c2VUU0w3M0lLcjZvMmVjd3VXSUZiTmp2UEk2c2RYYm9jdi0yWkl3U2VQNmNvWlRFSTVKa294eXdBeXdZS0JidE15eU9KdlBhQ2I1TTVxVk1ZMXJnVElZakR6Y0tJcE9JekpvLUV0b1lveldoUjZrdWEtVWktUzYzN2FFV2tCMFpJQ0loMjV3bWEtS2VEOGFR0gHqAUFVX3lxTE5vUG1weHROVjMzYTlnT2RrZVFvUXZ1YnFRVjZsUVU0OEYxemVVS09qRGU3dTAwQWNLdTV6SHowOTRONi1naEF6YkR3V2FhbFJjZlFSTmJTTEs5SjFTOW1acFhjM1QzaTU5MExraEVWR2FhMHoyN3Zrc0ptR2d3c1UxZ2JVcnNnWVpINm5aU3ZTbkRFdHNpOVg4ZXV0LWdELUN6OHZFZGxOcXN0dW5GZ2tMX1haMG5sRmV0NG9NekZkc0VrNGRTU2Rzd05DUTNzdGZSVjVlSEozZE1qWXFtYUoxOUtfZlNrejNjdw?oc=5
-
-- Kashmir division has more voters than Jammu, new data shows - Times of India
-  Kashmir division has more voters than Jammu
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM0Y5VERDN1hnaHJJa3htU1JVcWRrQ1Y2MVZFT1FUaHAxSXRTOWNndFFVSUFxeFc3eUZwMlZsRzczWEN3RnVjQ1NiTGs5ei12SlhkWVZOd3cwWjhjdkZySHdEYlEwQi1nTVJTME1GRGJhMmdfbi1NVy0zU1hreG82R3hnNUFSR0FsOEJQRGRPWjNaNnp5Wi1TVXdyRzVTd29oSVRSWjFiUWE2b21LM2ktdkdiT2pZbnNFQTVvaDBVQW8wZGc?oc=5
-
-- India stays out of joint statement criticising Israel’s West Bank plans - The Hindu
-  India stays out of joint statement criticising Israel�
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcXl1Z05XWnM0RmNpeDY4ZmV4WkhhSW9ad05wc2tqbUlaVEdIbEE0OXpqVE54bWdVOGVwaDdUTzRoU1dYMTNURWYtZlA3UlpIdGdCN01VWi1YMElIWld0RTc2V3QtTGhGY3FmRUR5NlFlQ19BVTg5NmZQdUpBdklrLTN0cHFtMzMxZjdDSUtPaHdXa3F5Nk94SVZOVDZFQmxjeVJNYkRhTWRhaHJGRE9QSENnRUJhUVEzcnAyYVdNd1dYdlA0aVhTctIBzwFBVV95cUxNY1ctUzR5dmJOaXdfMkI5OUJBaHllMVJub3l0dzhzLUtVTFJmZzFJZlkxLXozUHFoendELV8yWE5sekVRSHhNRnZfYU9VSlFGU1ltbU43MU5OS2Jwa2pMb3E0SXpjOVRvcDAwY0djc3ZUVms4U01fZVFIeFBVNGN1eXlWbzBuYXlEUXp1ejJVaVVZTmR3M3dmRG1wRUJvQUh6Snpvbk5rY3dQTmNzN3ZOX0VhX1BFRDRNMlNwRWMwR1RUUk5WQmJ6bmNEUXNKdnM?oc=5
-
-- J&K's Doodhpathri Reopens For Tourists, Livelihood Restored After 10 Months - NDTV
-  K's Doodhpathri Re
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWTQyS2JfUlpscHozM1VFXzFaV1hudnhLRFE5TU1scWNDZkdpdnA3ejB2eU5mUkdncVNuZWFkRHNUYVBfSFhDY3FaN2lfYzJkVGhHRUtMSWRTVkJaQlF0cWJHQzBhMHpLZlAyYmpmRFNzUW1LSDVhbWxLQmJzeURmSzVJQlVVbmFZNDFPVFA2RHZrb3ZNUVVQVEpuUE01VzNzVjZGV3Y2Q3A2UFRYWXZNeE8xVGzSAbwBQVVfeXFMTUhYaGlrMkdQaEkwRjItVmZDUnV0VVpWSlBUOU1rN1RVNExZby1nenZLNnN1LXVFOVF2Wlp3b0VKNG0yWnA5ZzlpQ1hTSXdtSk55LVJERl96UE1QWklZb2lkLWhKcjVTUlJJZWltb2swRmFERm00TWpNdkRTWVM5ZFBtQjJ2dmROc3RWOFluZVp6N3J6aDFZZXZ6WFF2Q1FzYngxY2lTTEtERGRTOXpLX2s5Y0JCdFJkZEMza2U?oc=5
+- Historic trade deals put India on global stage - but challenges remain - BBC
+  Historic trade deals put India on global stage -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
 
 - After Indus Water Move, India Plans To Cut Pakistan's Access To Ravi Waters - NDTV
   After Indus Water Move, India Plans To Cut Pakistan
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEwyUlhrcDRPY3lNLTVNbVl1UllXUFF3ZW5BNlZjcEpobWdqTjVnNFIzNjRKMG81eXFQMHhhbFFvaUlialc3X2Z5Sm9kMTdqYWoyUk94T0s3WWsyMlNEZEFkVDZEY3h4ek15UWFzc1VUc20yZ1FQUFBHdGxBYjRFQlNTdjUwRlkxcld4cjNyQ0s5X1c1RkM4ZWtSb3Jvc2o3b3VKVDc0TE1pRGdScTQ0aFV1S1JCTkx3S2fSAcIBQVVfeXFMTXJBb05jUFNRd2FMUkdQNVRoQlJZb2ZCZVlsZjN5QnBxRFZXd2l5SVlBZFB6QU9TcVktQkxpMEl5a3FGSjE1Q1ZfN0JlMnJnMEpMVjdhTkhQZXByZWZHelBfZlpZWC1OOTVIUWhNVEhrU3FVYTJic3FLdTNFeGZQclkwQ0NSRlJtOHpwNnpzYUl2TlZ6N21YSVptQVBkTmJKVXVyVldzZ295LVFTby1iMW1yaVFpbHZRNzgtam1ENmhCRVE?oc=5
 
-- Can't Be Clearer: Expert On India Hitting Pak's Nuclear Site During Op Sindoor - NDTV
-  "Can't Be Clearer: Expert On India H
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUUJWTFkzbGh0aHExbjdWZFktWFJCZUYxYjYta3NPZzRqZDZIZzBFYkYteGZnWHhIUmFRU3hEcWJsSEpLSmdBbDE0Vi1WUFROeGR2c2VUU0w3M0lLcjZvMmVjd3VXSUZiTmp2UEk2c2RYYm9jdi0yWkl3U2VQNmNvWlRFSTVKa294eXdBeXdZS0JidE15eU9KdlBhQ2I1TTVxVk1ZMXJnVElZakR6Y0tJcE9JekpvLUV0b1lveldoUjZrdWEtVWktUzYzN2FFV2tCMFpJQ0loMjV3bWEtS2VEOGFR0gHqAUFVX3lxTE5vUG1weHROVjMzYTlnT2RrZVFvUXZ1YnFRVjZsUVU0OEYxemVVS09qRGU3dTAwQWNLdTV6SHowOTRONi1naEF6YkR3V2FhbFJjZlFSTmJTTEs5SjFTOW1acFhjM1QzaTU5MExraEVWR2FhMHoyN3Zrc0ptR2d3c1UxZ2JVcnNnWVpINm5aU3ZTbkRFdHNpOVg4ZXV0LWdELUN6OHZFZGxOcXN0dW5GZ2tMX1haMG5sRmV0NG9NekZkc0VrNGRTU2Rzd05DUTNzdGZSVjVlSEozZE1qWXFtYUoxOUtfZlNrejNjdw?oc=5
+- Need to maintain balance between innovation and regulation: Vaishnaw - Times of India
+  Need to maintain balance between innovation and regulation:
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHRUdTFSLVNsUm9pcm44YV9WNzdvMjB0N3hTdUdPSTl3cUhzZDNMcGRWN1hodHdqRWpOWGxZc2xkYWlaYkROOUxnZEhmWmVMTEFGT0JQazl2c2JFdTlpbzZvZ0ZESU5qbGRMMmV5SjlKZmFCeUQ3M3ZaSmF5eThKUjBXQ0tTSm1FbnFPNklDbkxtWEJxVmVGWHJmTTFkNHRHMHlETlZFcENXTFYxaGlsQWhad0sycl91REdFRnJqOU9KeVctT1g5emdaNVVaZ3Bq0gHWAUFVX3lxTE1pUmtiRGYzUzRmQWlmZklpQXZjd1NwbE0xaWo3NWppRWx6a0xwMC1UcGpERFQtQVdSS25IY19SVlh0c2dtdy1ROFFsTGlQUjlEcGFyZVVqOWZaZTlBSGlGdUQ5UGJiOVNVWklaZ19DT0FPa09iRVFpS0I0QjBmb3JxZGZrb2tFaUs1bjBpaXdJWk5rNUdheWlNRnVndFFkZWhoNjF4aXBtbEhJVUEzaUMteDU1NDRiejVtb2NoUXZTNktZUUtzSE03ZW5JeUM4QmJBQ0FLS1E?oc=5
 
-- Kashmir division has more voters than Jammu, new data shows - Times of India
-  Kashmir division has more voters than Jammu
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM0Y5VERDN1hnaHJJa3htU1JVcWRrQ1Y2MVZFT1FUaHAxSXRTOWNndFFVSUFxeFc3eUZwMlZsRzczWEN3RnVjQ1NiTGs5ei12SlhkWVZOd3cwWjhjdkZySHdEYlEwQi1nTVJTME1GRGJhMmdfbi1NVy0zU1hreG82R3hnNUFSR0FsOEJQRGRPWjNaNnp5Wi1TVXdyRzVTd29oSVRSWjFiUWE2b21LM2ktdkdiT2pZbnNFQTVvaDBVQW8wZGc?oc=5
+- "Misinformation Can't Be Encouraged": Centre On Galgotias Row - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxNamp1MlpGcmg3Q0JlVEtlaGRyVHZDWkV3MkM3Tm1XTXBOUnZzeXNqZkt4ZFNuRndRS1NYSkpjUXpiYlh0Z1kyX25RbXY2UHZ1WFVSZHZ6V21pejFDczkxSElhOUwyRkRVXz
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNamp1MlpGcmg3Q0JlVEtlaGRyVHZDWkV3MkM3Tm1XTXBOUnZzeXNqZkt4ZFNuRndRS1NYSkpjUXpiYlh0Z1kyX25RbXY2UHZ1WFVSZHZ6V21pejFDczkxSElhOUwyRkRVXzVzUWtzOXZtNnZaSFhQbTFkSnRkVnFOT1ZIVEZNVjJmT1hfZ3NFaWRnTkdvZjEyZWdXTHowTzZwaVZxbjJoaUJUN2JmU2FDZVhlbE1JRWduMDJQdzZoN21ybG91emVxVWtlVnRvX3Y4M0ZRYTlpclFxeXpOSURUcFEtaHU5dUdpSGhCVWJyLUpnaEnSAfsBQVVfeXFMTldGdU9lZEJEZjNiU05GNjZwREpRSDRjNGpEa2V0dHN2WFo3NGZyeWx4Z0p3V1A0VXNFYXdSV3EtV2xRNUFWQWkyMGdhVE9SX0hFbG85VjFHaDFDSVF3NW9FbXZSVzZMeE1kb1dXbkNnaU5IRWw4R3k3Zzd4WkswY3Vfc2pOdEZOQTN3Xzc4MUxUY2htekRiWDg2d1JJR19MMU8wRVlWUURzYVlTWERWZjhsaDVqbklmZ0duRHBYaENHbXlGYXZPRnphYjRwR0k3NGJUcFM1Q2xUUjZ4cm9GWmczUVlsVFVDRVdyTnZET3FqazZZWXh6WkYyalk?oc=5
 
-- India stays out of joint statement criticising Israel’s West Bank plans - The Hindu
-  India stays out of joint statement criticising Israel�
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcXl1Z05XWnM0RmNpeDY4ZmV4WkhhSW9ad05wc2tqbUlaVEdIbEE0OXpqVE54bWdVOGVwaDdUTzRoU1dYMTNURWYtZlA3UlpIdGdCN01VWi1YMElIWld0RTc2V3QtTGhGY3FmRUR5NlFlQ19BVTg5NmZQdUpBdklrLTN0cHFtMzMxZjdDSUtPaHdXa3F5Nk94SVZOVDZFQmxjeVJNYkRhTWRhaHJGRE9QSENnRUJhUVEzcnAyYVdNd1dYdlA0aVhTctIBzwFBVV95cUxNY1ctUzR5dmJOaXdfMkI5OUJBaHllMVJub3l0dzhzLUtVTFJmZzFJZlkxLXozUHFoendELV8yWE5sekVRSHhNRnZfYU9VSlFGU1ltbU43MU5OS2Jwa2pMb3E0SXpjOVRvcDAwY0djc3ZUVms4U01fZVFIeFBVNGN1eXlWbzBuYXlEUXp1ejJVaVVZTmR3M3dmRG1wRUJvQUh6Snpvbk5rY3dQTmNzN3ZOX0VhX1BFRDRNMlNwRWMwR1RUUk5WQmJ6bmNEUXNKdnM?oc=5
+- No reason to believe India halted Russian oil imports, says Moscow | World News - Hindustan Times
+  No reason to believe India halted Russian oil imports, says Moscow.
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPbllscU1lV21qVDk4cVB2VDFLUlVONE1ObzYybk1FZEV3TVdFU2RRejFWUXE1b0Fpbk0tQUwxeC05WWFET2UyZ0xESUpJSFpZYmNCRWZ6QlpMQXVZMmJUNDNFaVktcGJLZXhmODN3QWZkbUpzZWV1RlJzd0FnTUhPRFZzRjNDQnFoaXVYcGNOdTNCUzZHTHA3R2lvcDNXSjRBVm1CMlJKWTdTZ0JTUF83cHlTbWxhbjFrdEV5UnRuZ2xYdThiYVkw0gHMAUFVX3lxTE1Ta2pRT05FcEFxYThrN0pFX0Zqc1Q4emxGbWEzLXVZa3JkM2xVZUY3Q0pkeTRzbVA1N1RaX0g3c1d2VjlleE84REo1TUhlcndWWE44NGl1NDlvcDM1S1hLY1lZeHFmLTN2NmYyb216clVObEstWExTTmMzNHIxVlRxcnUxUHJZYnJDR1VIZm1pcG9IdEVGdGh2Z1psbFRoZlZDNVhYSTRKd2JyODQ5N0FWOGZDcDB0b25Wd0s1RklUOWZRdzZYUV9IMEdSLQ?oc=5
 
-- J&K's Doodhpathri Reopens For Tourists, Livelihood Restored After 10 Months - NDTV
-  K's Doodhpathri Re
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWTQyS2JfUlpscHozM1VFXzFaV1hudnhLRFE5TU1scWNDZkdpdnA3ejB2eU5mUkdncVNuZWFkRHNUYVBfSFhDY3FaN2lfYzJkVGhHRUtMSWRTVkJaQlF0cWJHQzBhMHpLZlAyYmpmRFNzUW1LSDVhbWxLQmJzeURmSzVJQlVVbmFZNDFPVFA2RHZrb3ZNUVVQVEpuUE01VzNzVjZGV3Y2Q3A2UFRYWXZNeE8xVGzSAbwBQVVfeXFMTUhYaGlrMkdQaEkwRjItVmZDUnV0VVpWSlBUOU1rN1RVNExZby1nenZLNnN1LXVFOVF2Wlp3b0VKNG0yWnA5ZzlpQ1hTSXdtSk55LVJERl96UE1QWklZb2lkLWhKcjVTUlJJZWltb2swRmFERm00TWpNdkRTWVM5ZFBtQjJ2dmROc3RWOFluZVp6N3J6aDFZZXZ6WFF2Q1FzYngxY2lTTEtERGRTOXpLX2s5Y0JCdFJkZEMza2U?oc=5
+- Historic trade deals put India on global stage - but challenges remain - BBC
+  Historic trade deals put India on global stage -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
+
+- After Indus Water Move, India Plans To Cut Pakistan's Access To Ravi Waters - NDTV
+  After Indus Water Move, India Plans To Cut Pakistan
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEwyUlhrcDRPY3lNLTVNbVl1UllXUFF3ZW5BNlZjcEpobWdqTjVnNFIzNjRKMG81eXFQMHhhbFFvaUlialc3X2Z5Sm9kMTdqYWoyUk94T0s3WWsyMlNEZEFkVDZEY3h4ek15UWFzc1VUc20yZ1FQUFBHdGxBYjRFQlNTdjUwRlkxcld4cjNyQ0s5X1c1RkM4ZWtSb3Jvc2o3b3VKVDc0TE1pRGdScTQ0aFV1S1JCTkx3S2fSAcIBQVVfeXFMTXJBb05jUFNRd2FMUkdQNVRoQlJZb2ZCZVlsZjN5QnBxRFZXd2l5SVlBZFB6QU9TcVktQkxpMEl5a3FGSjE1Q1ZfN0JlMnJnMEpMVjdhTkhQZXByZWZHelBfZlpZWC1OOTVIUWhNVEhrU3FVYTJic3FLdTNFeGZQclkwQ0NSRlJtOHpwNnpzYUl2TlZ6N21YSVptQVBkTmJKVXVyVldzZ295LVFTby1iMW1yaVFpbHZRNzgtam1ENmhCRVE?oc=5
+
+- Need to maintain balance between innovation and regulation: Vaishnaw - Times of India
+  Need to maintain balance between innovation and regulation:
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHRUdTFSLVNsUm9pcm44YV9WNzdvMjB0N3hTdUdPSTl3cUhzZDNMcGRWN1hodHdqRWpOWGxZc2xkYWlaYkROOUxnZEhmWmVMTEFGT0JQazl2c2JFdTlpbzZvZ0ZESU5qbGRMMmV5SjlKZmFCeUQ3M3ZaSmF5eThKUjBXQ0tTSm1FbnFPNklDbkxtWEJxVmVGWHJmTTFkNHRHMHlETlZFcENXTFYxaGlsQWhad0sycl91REdFRnJqOU9KeVctT1g5emdaNVVaZ3Bq0gHWAUFVX3lxTE1pUmtiRGYzUzRmQWlmZklpQXZjd1NwbE0xaWo3NWppRWx6a0xwMC1UcGpERFQtQVdSS25IY19SVlh0c2dtdy1ROFFsTGlQUjlEcGFyZVVqOWZaZTlBSGlGdUQ5UGJiOVNVWklaZ19DT0FPa09iRVFpS0I0QjBmb3JxZGZrb2tFaUs1bjBpaXdJWk5rNUdheWlNRnVndFFkZWhoNjF4aXBtbEhJVUEzaUMteDU1NDRiejVtb2NoUXZTNktZUUtzSE03ZW5JeUM4QmJBQ0FLS1E?oc=5
+
+- "Misinformation Can't Be Encouraged": Centre On Galgotias Row - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxNamp1MlpGcmg3Q0JlVEtlaGRyVHZDWkV3MkM3Tm1XTXBOUnZzeXNqZkt4ZFNuRndRS1NYSkpjUXpiYlh0Z1kyX25RbXY2UHZ1WFVSZHZ6V21pejFDczkxSElhOUwyRkRVXz
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNamp1MlpGcmg3Q0JlVEtlaGRyVHZDWkV3MkM3Tm1XTXBOUnZzeXNqZkt4ZFNuRndRS1NYSkpjUXpiYlh0Z1kyX25RbXY2UHZ1WFVSZHZ6V21pejFDczkxSElhOUwyRkRVXzVzUWtzOXZtNnZaSFhQbTFkSnRkVnFOT1ZIVEZNVjJmT1hfZ3NFaWRnTkdvZjEyZWdXTHowTzZwaVZxbjJoaUJUN2JmU2FDZVhlbE1JRWduMDJQdzZoN21ybG91emVxVWtlVnRvX3Y4M0ZRYTlpclFxeXpOSURUcFEtaHU5dUdpSGhCVWJyLUpnaEnSAfsBQVVfeXFMTldGdU9lZEJEZjNiU05GNjZwREpRSDRjNGpEa2V0dHN2WFo3NGZyeWx4Z0p3V1A0VXNFYXdSV3EtV2xRNUFWQWkyMGdhVE9SX0hFbG85VjFHaDFDSVF3NW9FbXZSVzZMeE1kb1dXbkNnaU5IRWw4R3k3Zzd4WkswY3Vfc2pOdEZOQTN3Xzc4MUxUY2htekRiWDg2d1JJR19MMU8wRVlWUURzYVlTWERWZjhsaDVqbklmZ0duRHBYaENHbXlGYXZPRnphYjRwR0k3NGJUcFM1Q2xUUjZ4cm9GWmczUVlsVFVDRVdyTnZET3FqazZZWXh6WkYyalk?oc=5
+
+- No reason to believe India halted Russian oil imports, says Moscow | World News - Hindustan Times
+  No reason to believe India halted Russian oil imports, says Moscow.
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPbllscU1lV21qVDk4cVB2VDFLUlVONE1ObzYybk1FZEV3TVdFU2RRejFWUXE1b0Fpbk0tQUwxeC05WWFET2UyZ0xESUpJSFpZYmNCRWZ6QlpMQXVZMmJUNDNFaVktcGJLZXhmODN3QWZkbUpzZWV1RlJzd0FnTUhPRFZzRjNDQnFoaXVYcGNOdTNCUzZHTHA3R2lvcDNXSjRBVm1CMlJKWTdTZ0JTUF83cHlTbWxhbjFrdEV5UnRuZ2xYdThiYVkw0gHMAUFVX3lxTE1Ta2pRT05FcEFxYThrN0pFX0Zqc1Q4emxGbWEzLXVZa3JkM2xVZUY3Q0pkeTRzbVA1N1RaX0g3c1d2VjlleE84REo1TUhlcndWWE44NGl1NDlvcDM1S1hLY1lZeHFmLTN2NmYyb216clVObEstWExTTmMzNHIxVlRxcnUxUHJZYnJDR1VIZm1pcG9IdEVGdGh2Z1psbFRoZlZDNVhYSTRKd2JyODQ5N0FWOGZDcDB0b25Wd0s1RklUOWZRdzZYUV9IMEdSLQ?oc=5
+
+- Historic trade deals put India on global stage - but challenges remain - BBC
+  Historic trade deals put India on global stage -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
+
+- After Indus Water Move, India Plans To Cut Pakistan's Access To Ravi Waters - NDTV
+  After Indus Water Move, India Plans To Cut Pakistan
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEwyUlhrcDRPY3lNLTVNbVl1UllXUFF3ZW5BNlZjcEpobWdqTjVnNFIzNjRKMG81eXFQMHhhbFFvaUlialc3X2Z5Sm9kMTdqYWoyUk94T0s3WWsyMlNEZEFkVDZEY3h4ek15UWFzc1VUc20yZ1FQUFBHdGxBYjRFQlNTdjUwRlkxcld4cjNyQ0s5X1c1RkM4ZWtSb3Jvc2o3b3VKVDc0TE1pRGdScTQ0aFV1S1JCTkx3S2fSAcIBQVVfeXFMTXJBb05jUFNRd2FMUkdQNVRoQlJZb2ZCZVlsZjN5QnBxRFZXd2l5SVlBZFB6QU9TcVktQkxpMEl5a3FGSjE1Q1ZfN0JlMnJnMEpMVjdhTkhQZXByZWZHelBfZlpZWC1OOTVIUWhNVEhrU3FVYTJic3FLdTNFeGZQclkwQ0NSRlJtOHpwNnpzYUl2TlZ6N21YSVptQVBkTmJKVXVyVldzZ295LVFTby1iMW1yaVFpbHZRNzgtam1ENmhCRVE?oc=5
+
+- Need to maintain balance between innovation and regulation: Vaishnaw - Times of India
+  Need to maintain balance between innovation and regulation:
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHRUdTFSLVNsUm9pcm44YV9WNzdvMjB0N3hTdUdPSTl3cUhzZDNMcGRWN1hodHdqRWpOWGxZc2xkYWlaYkROOUxnZEhmWmVMTEFGT0JQazl2c2JFdTlpbzZvZ0ZESU5qbGRMMmV5SjlKZmFCeUQ3M3ZaSmF5eThKUjBXQ0tTSm1FbnFPNklDbkxtWEJxVmVGWHJmTTFkNHRHMHlETlZFcENXTFYxaGlsQWhad0sycl91REdFRnJqOU9KeVctT1g5emdaNVVaZ3Bq0gHWAUFVX3lxTE1pUmtiRGYzUzRmQWlmZklpQXZjd1NwbE0xaWo3NWppRWx6a0xwMC1UcGpERFQtQVdSS25IY19SVlh0c2dtdy1ROFFsTGlQUjlEcGFyZVVqOWZaZTlBSGlGdUQ5UGJiOVNVWklaZ19DT0FPa09iRVFpS0I0QjBmb3JxZGZrb2tFaUs1bjBpaXdJWk5rNUdheWlNRnVndFFkZWhoNjF4aXBtbEhJVUEzaUMteDU1NDRiejVtb2NoUXZTNktZUUtzSE03ZW5JeUM4QmJBQ0FLS1E?oc=5
+
+- "Misinformation Can't Be Encouraged": Centre On Galgotias Row - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxNamp1MlpGcmg3Q0JlVEtlaGRyVHZDWkV3MkM3Tm1XTXBOUnZzeXNqZkt4ZFNuRndRS1NYSkpjUXpiYlh0Z1kyX25RbXY2UHZ1WFVSZHZ6V21pejFDczkxSElhOUwyRkRVXz
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNamp1MlpGcmg3Q0JlVEtlaGRyVHZDWkV3MkM3Tm1XTXBOUnZzeXNqZkt4ZFNuRndRS1NYSkpjUXpiYlh0Z1kyX25RbXY2UHZ1WFVSZHZ6V21pejFDczkxSElhOUwyRkRVXzVzUWtzOXZtNnZaSFhQbTFkSnRkVnFOT1ZIVEZNVjJmT1hfZ3NFaWRnTkdvZjEyZWdXTHowTzZwaVZxbjJoaUJUN2JmU2FDZVhlbE1JRWduMDJQdzZoN21ybG91emVxVWtlVnRvX3Y4M0ZRYTlpclFxeXpOSURUcFEtaHU5dUdpSGhCVWJyLUpnaEnSAfsBQVVfeXFMTldGdU9lZEJEZjNiU05GNjZwREpRSDRjNGpEa2V0dHN2WFo3NGZyeWx4Z0p3V1A0VXNFYXdSV3EtV2xRNUFWQWkyMGdhVE9SX0hFbG85VjFHaDFDSVF3NW9FbXZSVzZMeE1kb1dXbkNnaU5IRWw4R3k3Zzd4WkswY3Vfc2pOdEZOQTN3Xzc4MUxUY2htekRiWDg2d1JJR19MMU8wRVlWUURzYVlTWERWZjhsaDVqbklmZ0duRHBYaENHbXlGYXZPRnphYjRwR0k3NGJUcFM1Q2xUUjZ4cm9GWmczUVlsVFVDRVdyTnZET3FqazZZWXh6WkYyalk?oc=5
+
+- No reason to believe India halted Russian oil imports, says Moscow | World News - Hindustan Times
+  No reason to believe India halted Russian oil imports, says Moscow.
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPbllscU1lV21qVDk4cVB2VDFLUlVONE1ObzYybk1FZEV3TVdFU2RRejFWUXE1b0Fpbk0tQUwxeC05WWFET2UyZ0xESUpJSFpZYmNCRWZ6QlpMQXVZMmJUNDNFaVktcGJLZXhmODN3QWZkbUpzZWV1RlJzd0FnTUhPRFZzRjNDQnFoaXVYcGNOdTNCUzZHTHA3R2lvcDNXSjRBVm1CMlJKWTdTZ0JTUF83cHlTbWxhbjFrdEV5UnRuZ2xYdThiYVkw0gHMAUFVX3lxTE1Ta2pRT05FcEFxYThrN0pFX0Zqc1Q4emxGbWEzLXVZa3JkM2xVZUY3Q0pkeTRzbVA1N1RaX0g3c1d2VjlleE84REo1TUhlcndWWE44NGl1NDlvcDM1S1hLY1lZeHFmLTN2NmYyb216clVObEstWExTTmMzNHIxVlRxcnUxUHJZYnJDR1VIZm1pcG9IdEVGdGh2Z1psbFRoZlZDNVhYSTRKd2JyODQ5N0FWOGZDcDB0b25Wd0s1RklUOWZRdzZYUV9IMEdSLQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-18 18:49:07 UTC_
+_Last updated: 2026-02-19 01:50:50 UTC_
