@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
-- Indian Railways boarding point rules may ease: Railway Board sends proposal to CRIS
-  
-  🔗 https://indianexpress.com/article/india/indian-railways-boarding-point-rules-may-ease-railway-board-sends-proposal-to-cris-10541268/
+- Trump repeats claim of 'stopping' India-Pak war with new twist: '11 expensive jets shot down' | India News - Hindustan Times
+  '11 expensive jets shot down' is a new claim made by President Trump.
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNnBFcXlkN1VhaHJ2d0tRQ0hacGs0T1Azb1ZhM3Nzejh4cERFbXVqUTVEdWw3d0lQWVBQSS1ULUJld1pFTVZLZFJFbVlpVGdoUDVkM0RLcWsyd0ZQcHFtR0FQZlY5R2cxWU4tZzVocWY3bE0yQ2lGU3M4WkpidmxLWk1uYVdaZ3pzSEVOWUJuZWNsbEpXVWdfcWJwcUhlMTJmYUJiZ0JRUU4ya3BxZEt4aF96OWh3bS1HcDFVWkhrMW9NNW5LTHgtaUIwOXJ5eDc0QmNqTWltSnUyOVpsZ3JBTDNORUdvbXRwQ2lCR21USEdFcmvSAfgBQVVfeXFMUE51c1BwalZxZUpQU2xxd0xzOFpTb0FXR3FndGJ3Y2hxM1BON01hVGhmZS1UVC1UaVlaSFQtM0dnS1dlbnlxR2R4Nl81ZnNzenBJWGRfTjlUYVJ6eTExVjNMRzVTMExwS2FYeW1kZURnNkJXVmY3MzQ4RkRLYXYxRXpLUFRsakVmaXVpeGxEX2RrWG9UUElUUHlVY1FaY1c1MUVrdUZqQm4zUlRBQTZfRmZFZVdfNmRUY1ViWHpHTWdvVFRNVFNCUGR3TGxzcTh3X3JoTm5aQUxmcldmNGhsT0tsaTY4a192dHo5LTJEdHlDd0JZUDFXd2w?oc=5
 
-- Gold Today Rate, February 20: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
-  
-  🔗 https://indianexpress.com/article/india/gold-today-rate-february-20-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10541728/
+- '200% Tariff, 11 Jets Down': Trump's Latest On India-Pak Ceasefire - NDTV
+  '200% Tariff, 11 Jets
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjVPOXhxWE1ObDRNcnlyZmcxLUpDS09uc05sd2pEcURWY3Y2TXo0Z0JhMXd3SWVENXN6UF9Xb3kxdDZ5QjBYOGxOMHhSMWxhRVozUS1IblAwUDRqemQ4MGVES1Z0cnZLVkx1Sm43cDFoTk8xNVNhSWo2ZGZMam1wNWhEQnIxVW5qM1JpSEVNRzZELVUtZG56V3d6Y1laaVgtR25iNkFreVBOcXIwOEt4ZTV4b3JIWVFhMFVr0gHDAUFVX3lxTE5NVnV2ZjdWQ1ZIOXNuZ2o0cHJ3a0JSb2Y0OWFOdVlwd3BzQXpxTXkydEdyX3lQbTgtM3FfdDN0UllhdWlyaWNoRno2ZWpsYXVjdXpxRE9mRndXQlFRdzZ1WS04SkNKQnc2SkhacWxDMGJRMXJzQThmT3NPaU5sLUN2ZEtTbDlMYU1LZmpQZ0JBdWtCNjF1SHFZcHI1dnpUXzVBTnprVnJ5dnd5SDVHZU9fWG9yakhqWERlQU8zOGxEZjl2bw?oc=5
 
-- ‘Will not let your tears go in vain’: Manipur CM Yumnam Khemchand Singh holds outreach with displaced Kuki-Zo, Meitei communities
-  
-  🔗 https://indianexpress.com/article/india/manipur-cm-yumnam-khemchand-singh-displaced-kuki-zo-meitei-communities-10541934/
+- India Attends 1st Meet Of Trump's Board Of Peace In Washington As Observer - NDTV
+  India Attends 1st Meet Of Trump's Board Of
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0pjNWZ6UUwtMXA2eGhpNTlhVTd2Z2syQ0hMTFg4QTB4MDY2dmRJQTFFdUFkQW0xc0N2TXpKUDJFMVpZdDJVZWh1RHhIQ1l0c3B3cGtnNlJrTlBYNG5EOHR2UVB3WnFxdmV5a1Bnc2w2ZjR1cTZBVllZbzI3Zk0ydEszX19PSXVsaFI0SmhGSW5fMURVNWtwaDB5UUNkeHBYRlI1cjB6RGw3N3RlYXl5WlByQUXSAbwBQVVfeXFMTmRNNE9uZDRqd0FBdXVxWWNMdXI2ZS1iRE5uVW1PMnNhVzhiWWZBc0hfWHExMC1OM2E3bFNoRnJHczR4cWZvQ09oVnVIS1NPVERseHJvMUFDU045SjFMMmkzSmctMEtvbE9FX0ZhMXB5UHJnQ0MxbUswTG9HUXJpVEY2MEcyUmZXSDdUTTZ3clczYkFiX0JmV2dJNnBIZ2ZFSlJwUWE4MGdmWUpMdmkzTHp1S2JqcnhUalQtUmc?oc=5
 
-- SIR of electoral rolls in the remaining 22 states, Union Territories to start in April, says EC
-  
-  🔗 https://indianexpress.com/article/india/sir-of-electoral-rolls22-states-union-territories-to-start-in-april-says-ec-10541855/
+- India AI Impact Summit 2026 Day 5 Live Updates: "AI Means Anti-India For Them," Says BJP On Congress Workers' Protest At AI Summit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxPUVVBcGk2RUpBR1JTQjdGOWFwSWtOQmE4VjJkSmdRSTNyYzh4dmJTRWJNUmgyM1BZVWZZSTVrMjZ2WEtpaG5QTWdlWE9aMTBsMW9PZm9semhGRk9hcTZia2FWVjdQbmVQOE
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPUVVBcGk2RUpBR1JTQjdGOWFwSWtOQmE4VjJkSmdRSTNyYzh4dmJTRWJNUmgyM1BZVWZZSTVrMjZ2WEtpaG5QTWdlWE9aMTBsMW9PZm9semhGRk9hcTZia2FWVjdQbmVQOEhwb2ZzMUtUSGxjU18zYlVnTVFNSlF0bm45cXNYbWRXUXZPTUdUcTFrZTExY1NDZ0dqc2gxMlJMdVREMlFLay13cEVEek1wVFBxZ3B1SXlLYXNaQzdkTnZhUGw0OFlObGhaNXR2SWpWNWk1NzRydTFCMFdTR0JVaGFzTk1WNWFiZktQZW9ibjlfdEhMUTFFTF91Z2luSVhvNEo2M3o0ZTZrZjZVRUxtejdXcWx0bHIxOGfSAaICQVVfeXFMTU8wNWt3QVlZN1lxR09FZ2NfZXlPNERzbDgxRVlzWXNOc2dFR2Z2LUc2dVdjeTRXeVlkZlJtakp2d3BqQ2xVOXFUeXNabDdFNUFhNXRpRUM0cXJVNEZ1bzViNk83WHpWbi1sbUVRdFJ1TWVYUUU1TDVaTUc2N3BJU1d0U2U5Q1NhZ3k4OHpiSlBNajFyaXpBUEJWS293V2xkQWRrWjBYU19xa0t2S2NWQmJBdjF5bmVuUjBxRnc2UTE5dTR3VFI5cjZ1MkJ5RzQ1Ykd0UDFHalVFbERGOTZkbjdsLVU3akxZQ1dWRkhfdi1abll5SmJpOG8yNE9GeDUxdmRWMkxGNnlHNkZRLUFoWUh2T1N6cHJvZzkyVlVDaGpWYmc?oc=5
 
-- Shillong MP Ricky Andrew J Syngkon dies at 54
-  
-  🔗 https://indianexpress.com/article/india/shillong-mp-ricky-andrew-j-syngkon-dies-at-54-10541504/
+- Abu Dhabi to deploy exaflop-scale AI infrastructure to India - News On AIR
+  Abu Dhabi to deploy exaflop
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVV4c2UwYlRiY3liSjd3UUNXdjI4VGJtZVN3SVVWUFlSX2VQcC1ZNnFjZldVY2l0MjdmQU1iV3hsd3hjMnlVQ2xMWXl0QjU5X0JUWFc2MkY3bldUeGE3Wmx0bi1TVUFQU0x1WG5tdmRESFY0T3FuVGFHbk15XzR4clpiZktXWEgzMGhpSEtaMkJaU1pt?oc=5
 
-- No more screenshots: WhatsApp’s new Group Message History lets new members catch up instantly
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/no-more-screenshots-whatsapps-new-group-message-history-lets-new-members-catch-up-instantly-10542070/
+- AI Impact Summit 2026 Day 4 Live Updates: 'Inclusive technology for everyone our goal,' PM Modi says during leader's plenary session - The Times of India
+  AI Impact Summit 2026 Day 4 Live Updates: 'Inclusive technology for everyone our goal'
+  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxPbW1pMDRraWZKMVQwQVZZRUEtWHMyLW5obnd0RXVSdkF0TFR3Nm9yTS14R0I2OW5xVENITVRkbGpNZTN4U0NxYTROR0pja19NYjNYSUxveEpkNDBZOXlqalBkaDgxWG9fU2h6YUJCTnZnaWpuUHJ4LVQxcWJnRnNidTNrdUNqcEhrS0oyemFMV0l3dENiUEpTc00yck96bWRCbEVkdmpDTlRPYkRQRV9DSWJPVkVJZ3RXVW5xeHJKSlR4V3NRX2kyX1p0YlQxN1Eta1RUeXpoUTE0X3p2NTNBaGVUTDZ3N0ZjVDlsalFwTjZ6d0xfTTJGbzduUkMzMU02alNSdTZQZFVZbUhiNldNTmlBOVljaG1UVi1NYnNCd9IBpAJBVV95cUxPRWxfN1lyNXVxbUpBNUk4bEZqbFZnYzV3a1h1Sks5XzVielRqRmYyVTJlTXNWc19pdTdWdEk2dURqUU9qX3o4S2RiUlZaZXhTSkQtRUt2bjVaQVVXYkdDald6RUdQWHdSZVhDdFdQalM3UDk3Q0g3cEhUalZRemZxc1JVbVh0cl9mRENCT2hUQ0xyTXZTLXRudHVvVnJaMTBCdGQ3VW9Fbk1sZHlNYU45SG9LeEJJQWx3a2dZUDZIQlc0WUhpTDFJUFhCS2F3NEdreUE1ajRlYTJGRlh5NWxrQTNLVGF0QlNRNlRsdHJEc3c2MDFacTlQdEF3U1pTYkpMbnFzc1hSZ3pfV3huVzd1STZaNFJyT09NdHpDelVGTFd3ZXd0?oc=5
 
-- Amazon can be sued over suicides linked to sodium nitrite, Washington Supreme Court rules
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-can-be-sued-over-suicides-linked-to-sodium-nitrite-washington-supreme-court-rules-10541853/
+- AI for people, applying technology for social good - The Hindu
+  The Hindu is a news
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPSTVwVDZJcnFRc1RxU0oyMk43VFdPekgyeFNMYUtTbHJzQXoxZlBlcFEtMHVEeE1lb0lpVVZ0T0FMQ28xRHgtZWE0OFlraFFrOHpwX3VWS1dfbGhlRXBvUEZISmVRMlhvZ1dkNjg0M19vUVdJVDhYNkNvdWVPdDNPMnQwOG1fOVJSUnNJcjBma0o1Q0k4Yi10dkRzYkhCVVE0bkVQMzREWl9yZDZn0gGzAUFVX3lxTE8tMHNuWUh0ZDBlU0c2N1RjVVBVM2dGbGVnR2h2aHVGY3N2ckFILU5JVWVuclM2bnV2bmVSaUYxc1YxUlpvR25EM2tvSzV0cHpra2c4dmZiMVFPemJOcl84cFJYMUkzUWRtSHZlV3RDcks2RUdCY3FJY25xVGZIdlBDdnFicHJvXzBaUzlpaExQeEduM3A0bTJUaW5LdkFkVEdLSnJLak85TEY3RlMyZDlzYjM0?oc=5
 
-- Netflix has ample room to increase its offer in battle for Warner Bros, sources say
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/netflix-has-ample-room-to-increase-its-offer-in-battle-for-warner-bros-sources-say-10541851/
+- Union Minister Shri Ashwini Vaishnaw Outlines India’s AI Priorities for Manufacturing Engineering Technology (MET) at Strategic Convening of Industry and Academia - TheWire.in
+  Union Minister Shri Ashwini Vaishnaw Outlines India’s AI Prior
+  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxOdWdCb0hTOU5hMjhnUlFiSWJIdlF0RVVCd2VsZHVoUHJpb1ZnQjNrYmtOTE9WSUE1ZkJ0bnF5UlA5MDlfVUVkUnBMOXlFYTlSM2hVdWJ5V2swWk1LR2ZxdE1TRTdjZ1hRTDA4SU5sWFRpbktldFpKRlE0MlVmbFRobFRkRlJ6eEJmTkE0ZGg4a1AyS012clpCRTA1VXkzMm1URjZXbGlaaWJhTXZwQ1E3N19FTm9aREJWbkxGZXEyaGVmWWEyaUV6UUw3M3EyMGtsYzhmSVZ6ai1UdFNyOVN5dVF0QWJFTVJSTlBLa0d0TlY3clF6RlR3S0c3M3JjRXpUUFFhQzFaVHVXLU5WUUZ3djNLR0V5bXNrVVYza1l0amRKYS1Y0gGqAkFVX3lxTE82bGkzZFQzaUpLSXllZ1ZjeWRqQWtDb2Vrem45aXdWR2dIazVIQU9zSUdsakstRnBJV05ZbkM2VUhEcUpadGhwVTNXczZBZDNZZDItZ20xNDg2aGhUNll1ZmlSWE05aGNRdFMzSnJLV2g4dDFEeWdyQnRWRV9CR1EwU0FZZmJkRlBSSGstcG5sQmlTcmhhd1NmeGNCZV9Uc0tUdTEzQ2VMVWJZdWYzR1ZjUlFRYmZWY083a2huM01GbTl5aVhSeHFjc3ZHeW5PbFRFV2VpckVYWFY3UnNYZTRreXFaX1JQX3lhb0xWTXJ5WnBjd1U4OFNXbUl1N2l4WGVOZFFONVhmdW1iU3JTbjEyM1haV20yaVdyU1JZc0NQRzZUdVRJLV9iT0E?oc=5
 
-- ‘Making models bigger won’t get us far, AI must adapt like humans’: Adaption Labs CEO Sara Hooker
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/sara-hooker-ai-scaling-laws-adaptive-learning-interview-10541784/
+- How global technology change is driving Net Positive business - Economist Impact
+  How global technology change is driving Net Positive
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxON2FUZXdreGZGQ1BRbF84ZndUMEZ6b3lxdE1QZm8zclMyT21PdHExeEhUblQ0dWV2LVJDdzd5SmFjbm0tRGRBdnZYR2MxcUJVVm1iamxKZ1ppc3lYbU1UV0ZNTU02TXpxdHVTTi05T3hUOHNqWG42OGtBWklCUEJyV19GeW5selNHN1VaRkxIa1JDc21xZTJ3?oc=5
 
-- ‘Scale, speed, and the entire stack’: Sam Altman on why India matters to OpenAI
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-on-why-india-matters-to-openai-10541382/
+- Daily Quiz: On Artificial Intelligence - The Hindu
+  The Hindu is a
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPM1EwME5jaU5zdkFwLUFFcFRXU0lwdnJYOHlEYl9PUEhYZmg1X3pKWjhaWXRfbzItdHZLaEpCVFhqSVZGN1pkSnpCVTg1MmJzSFdvZXBPQ3d0WU01TE82Y3k3UzU0ZThBY3dVQ04wM0dYZlVQbG9kZlFzeWxaWWlRR0NPQ2pRUE5TYTBtZVh2WEE2MlhmZExzZ1V5anZHeTJVeVh3aQ?oc=5
 
-- India Inc Q3 earnings wrap: Demand engine restarts, but margin tailwinds fade
-  India Inc’s Q3FY26 earnings benefited from strong festive demand, but margin-led profit expansion also lost steam. With costs rising and profits lagging revenues
-  🔗 https://www.livemint.com/companies/company-results/india-inc-q3-earnings-q3fy26-results-revenue-growth-gst-tax-cuts-11771519567317.html
+- NCLAT reserves order on Jindal Poly's plea against admission of class action suit
+  Jindal Poly has sought an urgent stay, arguing that unless the order is paused, it would be required to issue notices to nearly 40,
+  🔗 https://www.livemint.com/companies/news/nclat-jindal-poly-plea-class-action-suit-minority-shareholders-11771585230445.html
 
-- Xponentia-backed Zype eyes fresh capital of upto  ₹200 crore, appoints banker
-  The fundraise comes amid a more cautious operating environment for NBFCs. The sector has posted rapid growth driven by demand for
-  🔗 https://www.livemint.com/companies/start-ups/xponentiabacked-zype-eyes-fresh-capital-of-upto-rs-200-cr-appoints-banker-11771555216263.html
+- Brazilian aircraft maker Embraer ties up with Hindalco to secure aerospace-grade aluminium
+  Embraer SA has signed a MoU with Hindalco Industries to identify local partners for aerospace-grade aluminum manufacturing. This follows a previous MoUs with Adani Defence &amp;
+  🔗 https://www.livemint.com/companies/news/embraer-hindalco-mou-aerospace-grade-aluminium-in-india-adani-deal-aircraft-manufacturing-india-11771581246378.html
 
-- Nvidia, OpenAI make U-turn on $100 billion deal; Huang-led company to invest $30 billion in ChatGPT maker — Key details
-  The deal could be finalised as early as this weekend, according to a report. It would be part of a new funding round for
-  🔗 https://www.livemint.com/companies/news/nvidia-openai-make-u-turn-on-100-billion-deal-huang-led-company-to-invest-30-billion-in-chatgpt-maker-key-details-11771552013100.html
+- Germany's talent deficit pushes Siemens to make India a key global capability hub, says board member Judith Wiese
+  Siemens aims to export capabilities from India to meet global talent demands. The firm is emphasizing skill-based hiring and AI integration.
+  🔗 https://www.livemint.com/companies/siemens-jobs-ai-germany-hiring-workforce-india-skills-judith-wiese-data-centres-11771563750721.html
 
-- Vedanta’s race against time to stabilize oil and gas output ahead of its mega demerger
-  Vedanta is focused on boosting its oil and gas output ahead of its upcoming demerger into five independent companies. The business has faced declining production levels.
-  🔗 https://www.livemint.com/companies/news/vedanta-oil-gas-demerger-production-decline-future-challenges-11771481645975.html
+- Swiggy’s Snacc shutdown lays bare the brutal economics of ultra-fast food delivery
+  The company’s retreat from its standalone instant food delivery experiment marks a strategic pivot toward sustainable growth. The high fixed costs of owning the
+  🔗 https://www.livemint.com/companies/news/swiggy-snacc-shut-quick-commerce-india-11771570953750.html
 
-- YPF Chief Readies War Chest for Shale Push as Milei Bolsters Oil
-  YPF SA is setting aside funds to keep spending in the fast-growing Vaca Muerta basin. Management handpicked by libertarian President Javier Milei looks to build the state
-  🔗 https://www.livemint.com/companies/ypf-chief-readies-war-chest-for-shale-push-as-milei-bolsters-oil-11771528624277.html
-
-- Up 2,900% in 6 years! Multibagger stock Titan Biotech trades ex-split in 1:5 ratio, jumps 20%
-  Titan Biotech shares surged 20% to  ₹312 after a 1:5 stock split. The small-cap stock has delivered massive returns to its shareholders.
-  🔗 https://www.livemint.com/market/stock-market-news/up-2-900-in-6-years-multibagger-stock-titan-biotech-trades-ex-split-in-1-5-ratio-jumps-20-11771567345808.html
-
-- 'Both buckets matter': DSP MF's Kalpen Parekh explains why equity portfolio needs support from gold &amp; bonds
-  Kalpen Parekh stresses the need for a balanced portfolio including equities, gold, and bonds. Ignoring either can lead to panic selling and lost comp
-  🔗 https://www.livemint.com/market/stock-market-news/both-buckets-matter-dsp-mfs-kalpen-parekh-explains-why-equity-portfolio-needs-support-from-gold-bonds-11771568680942.html
-
-- Multibagger small-cap stock under  ₹50 jumps following stock market rebound
-  VMS TMT shares in focus as they fluctuate in the Indian market, experiencing a 4.35% decline over the past week and a 50.29% drop yearly. Despite
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-under-rs-50-jumps-following-stock-market-rebound-11771564760595.html
-
-- Indian equities near inflection point? PL Capital sees recovery brewing after recent volatility
-  The Nifty 50 and Sensex have been volatile in February. PL Capital suggests Indian equities are poised for recovery.
-  🔗 https://www.livemint.com/market/stock-market-news/indian-equities-near-inflection-point-pl-capital-sees-recovery-brewing-after-recent-volatility-stock-market-strategy-11771563727797.html
-
-- Lenskart share price rallies over 3% as Motilal Oswal assigns ‘Buy’ call, sees 25% upside potential
-  Lenskart share price gained 8% in one month, and has rallied 15% in three months. The stock is up over 27
-  🔗 https://www.livemint.com/market/stock-market-news/lenskart-share-price-rallies-over-3-as-motilal-oswal-assigns-buy-call-sees-25-upside-potential-11771566322269.html
-
-- Antonio Guterres at AI Impact Summit: ‘Less hype, less fear' – IPCC-style UN panel aims for ‘human control’ of AI
-  At the India AI Impact Summit 2026, UN chief Antonio Guterres emphasised the need for a balanced approach to AI
-  🔗 https://www.livemint.com/technology/tech-news/antonio-guterres-at-ai-impact-summit-less-hype-less-fear-says-ipcc-style-un-panel-aims-for-human-control-of-ai-11771566064031.html
-
-- AWS suffered outages after engineers used internal AI tools, employees raise concerns: Report
-  Amazon Web Services has faced two outages recently linked to its AI coding
-  🔗 https://www.livemint.com/technology/tech-news/aws-suffered-outages-after-engineers-used-internal-ai-tools-employees-raise-concerns-report-11771565404797.html
-
-- AI Impact Summit 2026: US-India tech partnership critical to make AI benefits available to everyone, says Sundar Pichai
-  Google CEO hailed the US-India tech partnership at the India AI Impact Summit 2026. New Delhi joined Pax Silica on the day
-  🔗 https://www.livemint.com/technology/ai-impact-summit-2026-us-india-tech-partnership-critical-to-make-ai-benefits-available-to-everyone-says-sundar-pichai-11771564512842.html
-
-- ChatGPT takes a swipe at viral Dario Amodei - Sam Altman handshake row with ‘OpenClaw’ picture, netizens react
-  OpenAI's Sam Altman and Anthropic's Dario Amodei created an awkward moment by raising clenched fists instead of holding hands. ChatGPT
-  🔗 https://www.livemint.com/technology/tech-news/chatgpt-takes-a-swipe-at-viral-dario-amodei-sam-altman-handshake-row-with-openclaw-picture-netizens-react-11771558435066.html
-
-- What is Pax Silica, the US-led AI, supply chain bloc India formally joined today in New Delhi? Why does it matter?
-  India formally joins Pax Silica, a US-led initiative to enhance AI and supply chain security. US Ambassador Sergio Gor and Under Secretary of State for Economic Affairs Jacob Helberg
-  🔗 https://www.livemint.com/technology/tech-news/what-is-pax-silica-us-led-effort-on-ai-supply-chain-security-that-india-joined-today-formally-ai-impact-summit-sergio-11771559773591.html
-
-- Stock market today: Nifty50 opens flat; BSE Sensex near 82,500 - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMixAJBVV95cUxPSTdsVWtPZ2wyWHdwWEVoMzhHRm1tWmp3RlZ6NFBXUXNNM0FJNVFsRnpVaG1hdjVjWFluRnMzWVF6VXVQOWc5clZSdVF0cEt4clpBY3lzektTLXRXV2JNWnBjMzc2cElPbE
-  🔗 https://news.google.com/rss/articles/CBMixAJBVV95cUxPSTdsVWtPZ2wyWHdwWEVoMzhHRm1tWmp3RlZ6NFBXUXNNM0FJNVFsRnpVaG1hdjVjWFluRnMzWVF6VXVQOWc5clZSdVF0cEt4clpBY3lzektTLXRXV2JNWnBjMzc2cElPbExHUDVMa0pobGxrYlhZZEFNY3kxYjliYmthUmlMVjNQZmFNc21oeWo3dDBHWVFFSFQtcFYtLVJWaG9zeUNiX1R6UDlURzVzeHRoRkxOTnJZMkZyakxOTThpaFpXVF9YdkpCLU1KYmVDeFNxMDNpbU8yT1hkbDViNERibmhKQXpNU19RMUpfSy03UW5nRjdKUjY1Y0FYa0hhNTBiWmFSUkYyajVmaEtBMnRVc2Q5MVNoSy0wYkktc2llOWxybDJzZlpMcXozV1VwaThyQTFVTUoyUnRBay1pVmhYcVnSAcoCQVVfeXFMTjhzYzZnX1RDVTd6X21ZcDNvSXhodG1RaE5tVVZXcUJtZUZZOThVRXJwR2gtTm5mZzRVMlIzYjBTYU1feFViaTJldmY0TkdNQVVycXRONDdtTjIzbERCbVFObmlHZldZcVlxNkJ3LVNNOC02bkFYNFRhRUh3RnM5cEltekVWVlZvY1cwZ3JvUUdReXZDWjJrSDc5UExvT3hqeEZHRE1FVC1uVkFEZkZ4N19VdW45Vm1WV3NMRzFLcnczUmxmaW5fOTdjeVdEbXFoV3BRMGFRSm1SbFk5TVR0TjhDdm1XcnJSMDItRUhXaXBLNTdjMkd6cTAtcThfWm0wUTZXa1ZsT295Y1dnbk9nWURzT0x3ZFpXMnVXU0FoTmtxR1U0ZHgxTVYwOElSR0Vtbi1ZMi12d0RLODRLbUFrOExjR2E4dnlfaTZB?oc=5
+- At Accenture, if you want promotions, you must use AI tools, says the company: Here's why
+  Accenture is tracking employees’ AI tool usage and linking “regular adoption’ to promotions. The firm has trained 550,000 staff in
+  🔗 https://www.livemint.com/companies/news/at-accenture-if-you-want-promotions-you-must-use-ai-tools-says-the-company-heres-why-11771573073837.html
 
 - Stocks Fall, Oil Climbs with Geopolitics in Focus: Markets Wrap - Bloomberg.com
   The markets are taking a turn for the
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXkyWDJESk9JX0tNNVhBX2hHNWZ1TmhzQlR3UG1FZHdkQjl2M0hUODdHcGhVeDVweXRWa1EtYVFGUzdxbmxKUEpRbzB1ZEl4ZGVyUmlXdjhsNjJvQi1iZ1k1U3BVd1otX3JCS3ZMZExOalQ0cTFkM3NrWUJ5V1dqcS16Q3lIQzhEZDN2U2hyajlleEFx?oc=5
 
-- South Korea's Kospi hits fresh record high for second straight session amid regional declines as U.S.-Iran tensions take hold - CNBC
-  South Korea's Kospi hits fresh record high for second straight session amid regional declines
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQajV3cTdpT19vZHRocjQ4MExVWldtVXNrcmlVZ21uUWE3U0FkUy1ickpvSTd4Z3NJYng5eDlSWF9yTWhaZVp3N0tyUVBseVplTnNSVnEtWGMyODl5R1pSb3BpT2FyYkd2eUFoczBrdmtFaGVrUnFISzlHdWV4TmdZMG9YelRTSVJSN09MRllKNkxkbmVwRnE1ZHhn0gGfAUFVX3lxTE5ISDNlTTZVQTNGY3NlZnZFNUNDNjJLUVhLN2kweHZaUkpfTEo2UzhWWW54U2dZc0QtMjJhTGg0eUVhSTJyQnVjZUhuLWV0UVZPeXgxTEVYQWNaWmcxLW51R0paLUF3NGlVMjVVUlp5d3VMdFVpX21weFBzeUNpNmNqQVE4NjBIYjZ2cU1IRk1QV1ZvWFREX0sycU9RamdSQQ?oc=5
+- Key factors behind the Sensex, Nifty fall on Thursday - CNBC TV18
+  Key factors behind the Sensex, N
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQX0ZyUW9fMFhjZjRmWGhoT3FFU3R3aldGM2xGX0ZVbWRQeUpqT3M5WXhvbzVxSWc0NzlubjBSdzh4c2VseDduV3ViRm12ZFlISnZ1RTlxR0JzRXVDZzdYZGN0cTF6eS1oZkgtV3ZIZ3Y2UzNTMTFnUEJ3eTJaTktFdUJ4MWtrN25pbmFJX1g3QVBsb0p5aEtUeG5UekhqQ1Q2bjJaNjVfeHJwbFBGN1FRMVRYeDJfeFNQRkU2bWpwdWJWWnNSc2x4alNyM0gtaW1OZjFuRmN1Wmx2TXhDOEJ5U3ZiS2lmZDc5UG5yemQyd3RfX2VCM2fSAfsBQVVfeXFMT1VWX0FHVGNTQUlfbzQxSHhFWVZkdXBpcDhWdU5ORE01N2xuUzQzU0tIRTMzTENHbV9maFM3TkFzQVlDWEw5aGZFTVAxMVRBUVBHLUsweGNuLXFyRmRrS0dvbmFzOWZQelMxOHNwRWpIU0JSeWlvSldmOWpJZXY1UDlTRlhGczViNzkydXRLOHJDRWpONkhwYmRsV0JpWmtrQ0haVXpUV2xzQ24tOVpDams0eE92VzJuV1RhMnZhbnd6bkEwRkpaUUVvZlczbm9Da0lHS28zLW5jX2dGcFNLVEo1b0EtMFJTY2gzQjdUU0w5YVVPQUUtMGNWSUE?oc=5
 
-- Stock markets bounce back after falling in early trade - The Hindu
-  Stock markets bounce back after falling in early
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPU0VKNnZTNFBEY2tqQzlPQXNaZW5kVjJXdm1SbjFuRnRBakYxSTBVbHI5bGxsQ2NZY0lESVhxRFN5RkI2LVdPamFiWVc0bkRxMVBUQ1VONTRSRmhEaVJaYnZXQXVaY3UxUTVjMkRPRzN1RENZVGt4ck9Od0ZvT0R4M1B6RnQ5bnVBNWI3MUc0WEpQRTRqNzNqVlVwR3kxZEJDWWJuSFpzLXlFWEhUeEl0Y2NFRFpSVG_SAb4BQVVfeXFMUENXRlpRRndOUnUzRmhDbkR0ZGpFc2puaDU0SzkwcGtIY3lGRXJfMlZxSnJaaFNwdEdlZXRZRlZSYms1M0dRcEdLdmY5SUtUYmJSamstTk1PYkdfTm5TeF9pODZFckRRVk5TOWg4UFFfZ0ZWQk1vQmpoLTFMVDd1Mlh2UXF1aXpkdDRyZ0ZvVDhrSm5XNC1NdURhdHUyRExKcUZzODN4NUNrelY4TThGSzJYVmJQX0NCdjhvY01UUQ?oc=5
+- Excess supply triggers crash in prices of shallot in Tiruchi market - The Hindu
+  Excess supply triggers crash in prices of shallot
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUWxjc0NaeWJ5cWxlYW1FVksyVmRTcFBHREJ4eER5RW1uWW1PR0dYZnBZZE81eGFIZHA5bWVhS0FFVXZpcHpKNktkZ2lqTkZ4TkhOX0R2d0RtbEl1Tm9xUW80eEhMZUJFWmJkVVFnMXo0YXhuQWJXcHVUSDhvbVVvOWJsblRUMTVKRmtZZnVMbEZyU1lHeWp2bTlTVXB4SzRNcWo1Q3c5T1MyRFhvRkh5ZzRFWUpJUzZYdUgwV3lHM0VaV3pHU202d2tVMFFnWVNVWng00gHaAUFVX3lxTFAwSVZOV1hSRFFDODZZOEhIZlRCYVd3V1hXQzMtU2lzaDJsbHBuUkswem1SMksxZGRuRGRscWc3dHk3LUVSc1FWN1dNdHZmbDR5dkY5X2hCTXZvUnlVNlJKZ0k4MjROWmNnWnhPei1GaVFYYW5DbUlZUUxlZXdyRFhkTUJfQkRwQUgtVi1jN2dGRVZuWW85Z3IwdXIwb3p0ejhrVktiZjhZMXBXMlNWcnllMldlYlU3S1M2T1dCdmpfeDFhZnE4T1JJZnpNU2RJeTdXcnRGUFdUSzFn?oc=5
 
-- Stock Market Live Updates: Sensex jumps over 400 pts, Nifty above 25,600; metals, power lead rebound - Moneycontrol
-  Stock Market Live Updates: Sensex jumps over 400 pts, Nifty
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVXgwNEFhblF4RDFrS042VEl5djlLZFFFNFJfdUt0WW45Qk54cFhtcHphcF9EZ0J2LVBPeEZjdjZpSzFhRGx4ZWFXd3hYZzBxRTNSSnZ5QnRHOUZMaGdEQzZyRjF0R3pzWFpaT21fcy1SYzFfQXJBSjd4ZTdnZFRFek1ETi13a0RCVmdGdUZEb3pEQWVCSUthZVR5R2RYQS1NMlRBYzdPMlAzUDBlSXVmZzRCNG1rczBlYjhobndFZWo0R2M4WWM4amMwaGVxaHpVZnJya3FndEtTNTJnRmFhOTg0d1FncS1iYWR5SdIB8gFBVV95cUxQazd4a2JyUzZzQjk3THlpUlVhTk5mQ3F1eGdKc1gwamZYQzY4dFVHOVBhSkpOT3Q4S3piMEFrdTI4ZzdKendOc0Rxa1VEb2VRREVSTm5vUjRqQjFSTHRfdXBXOHpQYW9OLXdfM2JMajdacHJxMERBWlhPbktTY0d3bWxoREdvanVDdnk1OFBPenRwOTNidHFhUk1XbzBGRnd6bTRJQUpOeFVLTnMtMkJicmg0aVhaT3ZlcWxnakR3NGhveXFBVXY3VzVVbHU2eEs0UjViV1Z4cEMxXzlfWjNOdS1PWEhoZUtnMVlMeG94dTJvZw?oc=5
+- In a market starved of AI bets, how one stock tied to India's AI mission tripled investor wealth - The Economic Times
+  In a market starved of AI bets, how one stock tied to India's AI mission tripled
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR2Y4TGNENzcyLV9KS2pwYmZuU19xTW5BVWxsV0JGTEluZlh1ZEJvZU1HU1pJeWhmSHBMbU9tYjlBa2VTYjNnbFh5REZyZjE0RERoR2M1Yjc5dXFOcmVnV3NyaTdnaUJwUEZaUGwwNWV2bEMyN3MxQm5MR2NHVl9zWG1lSDZISVpFa0w5bTNKRHFndV84eWNwRlZEQ1Zyc2RucnB4TW5HaUJhWkZVZGZCUnNoWlR1d2FkMHEzcWZCNUFQMzQzMmRwZi14TmltTVliYjliTWt0aWlJd2hqNmtrdC1udDZlVUk2M0dzZE1MU28zZ0tUbVQyWE9pcmTSAYICQVVfeXFMTzRMT2k1T0lNeE1KZ1ZMYjlMNFFmSldJY2Fmbm1SWlJsbnJIRXNOVWtOMjVUTnRycGUxTlhsdEo0QWVKSUlaUUllUnRDeS1iN2IxMDlaSm1maHZ1ZXN2TERac0hhamlqcWFSRGhHX1JtTTFkRTh2eWYwaHZxVmRyeS1nNDA4c0VRZW00MjZVVnVkMU9tOC0zNUp1TVZzNHgxeDJVeXdZQlBZUGhyWkhLZDl5T1ZIN3M1amRHOFEyOEZPcTRzT3dLSXJlUThmREV1Nnp2dWphZUJtYVRSbWM3Z2dTMlE4bW5YTk0xTkhyRV8ya3A5d0JXWl8tb3l6TU9CQ1ZR?oc=5
 
-- Godfrey Phillips shares fall 5% as investors sell on rise after 26% three-day rally
-  The cigarette maker eased to Rs 2,400 even as peers raised prices following the excise duty hike. Godfrey Phillips fell sharply on Friday as investors booked profits after its sharp three-day rally.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/godfrey-phillips-shares-fall-5-as-investors-sell-on-rise-after-26-three-day-rally/articleshow/128595141.cms
+- Closing Bell: Market recovers; Nifty above 25,550, Sensex up 317 pts, IT lags - Moneycontrol
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVXgwNEFhblF4RDFrS042VEl5djlLZFFFNFJfdUt0WW45Qk54cFhtcHphcF9EZ0J2LVBPeEZjdjZpSzFhRGx4ZWFXd3hYZzBxRTNSSnZ5QnRHOUZMaGdEQzZyRjF0R3pzWF
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVXgwNEFhblF4RDFrS042VEl5djlLZFFFNFJfdUt0WW45Qk54cFhtcHphcF9EZ0J2LVBPeEZjdjZpSzFhRGx4ZWFXd3hYZzBxRTNSSnZ5QnRHOUZMaGdEQzZyRjF0R3pzWFpaT21fcy1SYzFfQXJBSjd4ZTdnZFRFek1ETi13a0RCVmdGdUZEb3pEQWVCSUthZVR5R2RYQS1NMlRBYzdPMlAzUDBlSXVmZzRCNG1rczBlYjhobndFZWo0R2M4WWM4amMwaGVxaHpVZnJya3FndEtTNTJnRmFhOTg0d1FncS1iYWR5SQ?oc=5
 
-- NSE levies extra 15% margin on Vodafone Idea, SAIL, 16 other F&amp;O stocks; effective from March
-  The NSE will impose an additional 15% margin on 18 stocks in the F&amp;O segment from March 2026. This measure aims to mitigate risks associated with highly leveraged derivatives.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-levies-extra-15-margin-on-vodafone-idea-sail-16-other-fo-stocks-effective-from-march/articleshow/128594670.cms
+- ChatGPT crosses 100 million weekly users in India; 18–24-year-olds send half the messages: OpenAI
+  50% of ChatGPT messages in India come from users aged 18-24. The country has surpassed 100 million weekly active users, with 35%
+  🔗 https://www.livemint.com/technology/tech-news/chatgpt-now-has-over-100-million-weekly-users-from-india-18-24-year-olds-send-half-the-messages-openai-11771581433489.html
 
-- Markets likely to look past geopolitics as oil risks remain contained, says Andrew Freris
-   Markets are increasingly accustomed to geopolitical shocks. Investors likely to overlook conflicts unless they significantly impact growth or inflation. Strong US production and OPEC decisions are balancing supply.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/markets-likely-to-look-past-geopolitics-as-oil-risks-remain-contained-says-andrew-freris/articleshow/128593485.cms
+- Are DeepSeek Moments Now the New Normal?
+  A little-known Chinese AI company recently released an open-source reasoning model. It challenged Western dominance and was developed at
+  🔗 https://www.livemint.com/technology/are-deepseek-moments-now-the-new-normal-11771585662215.html
 
-- ABB India shares jump 7% on record orders, strong Q4 demand
-   ABB India shares saw a significant jump following the announcement of its financial results. The company reported its highest-ever orders and revenue for the full financial year 2025. Order inflows
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/abb-india-shares-jump-7-on-record-orders-strong-q4-demand/articleshow/128593040.cms
+- iPhone 17 available for  ₹44,768 during Croma Everything Apple Sale: here's how the deal works
+  Apple's iPhone 17 is now available for under  ₹50,000 during Croma's Everything Apple Sale. The phone was launched by Apple
+  🔗 https://www.livemint.com/technology/gadgets/iphone-17-available-for-rs-44-768-during-croma-everything-apple-sale-heres-how-the-deal-works-11771577749328.html
 
-- FirstCry operator Brainbees Solutions shares surge 13% after 4-day slide
-  Brainbees Solutions shares jumped after a four-day decline post-Q3 earnings. The rebound follows a 52-week low a day earlier. The stock remains down 40%
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/firstcry-operator-brainbees-solutions-shares-surge-13-after-4-day-slide/articleshow/128592851.cms
+- India must develop sovereign AI to avoid digital colony risk, says Sarvam AI Co-founder Vivek Raghavan
+  Building foundational AI technology is a necessity rather than an option for India to maintain its digital independence, said Sarvam co-founder, Vivek Raghavan. He noted that AI impacts every aspect of human life, making it a
+  🔗 https://www.livemint.com/technology/india-must-develop-sovereign-ai-to-avoid-digital-colony-risk-says-sarvam-ai-co-founder-vivek-raghavan-11771579139613.html
 
-- Trump Claims 11 Jets Downed During Op Sindoor. A Hint At Major Pak Losses? - NDTV
-  Trump Claims 11 Jets Downed During Op Sindoor. A
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjVPOXhxWE1ObDRNcnlyZmcxLUpDS09uc05sd2pEcURWY3Y2TXo0Z0JhMXd3SWVENXN6UF9Xb3kxdDZ5QjBYOGxOMHhSMWxhRVozUS1IblAwUDRqemQ4MGVES1Z0cnZLVkx1Sm43cDFoTk8xNVNhSWo2ZGZMam1wNWhEQnIxVW5qM1JpSEVNRzZELVUtZG56V3d6Y1laaVgtR25iNkFreVBOcXIwOEt4ZTV4b3JIWVFhMFVr0gHDAUFVX3lxTE5NVnV2ZjdWQ1ZIOXNuZ2o0cHJ3a0JSb2Y0OWFOdVlwd3BzQXpxTXkydEdyX3lQbTgtM3FfdDN0UllhdWlyaWNoRno2ZWpsYXVjdXpxRE9mRndXQlFRdzZ1WS04SkNKQnc2SkhacWxDMGJRMXJzQThmT3NPaU5sLUN2ZEtTbDlMYU1LZmpQZ0JBdWtCNjF1SHFZcHI1dnpUXzVBTnprVnJ5dnd5SDVHZU9fWG9yakhqWERlQU8zOGxEZjl2bw?oc=5
+- Cheaper AI inference and open architectures essential for mass adoption: Nandan Nilekani
+  Nandan Nilekani, Co-founder and Patron of Networks for Humanity, emphasised that the convergence of AI agents and open architectures is the fastest way to diffuse technology productively to improve lives. Artificial Intelligence serves as a fundamental construct
+  🔗 https://www.livemint.com/technology/cheaper-ai-inference-and-open-architectures-essential-for-mass-adoption-nandan-nilekani-11771575680262.html
 
-- Trump repeats claim of 'stopping' India-Pak war with new twist: '11 expensive jets shot down' | India News - Hindustan Times
-  '11 expensive jets shot down' is a new claim made by President Trump.
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNnBFcXlkN1VhaHJ2d0tRQ0hacGs0T1Azb1ZhM3Nzejh4cERFbXVqUTVEdWw3d0lQWVBQSS1ULUJld1pFTVZLZFJFbVlpVGdoUDVkM0RLcWsyd0ZQcHFtR0FQZlY5R2cxWU4tZzVocWY3bE0yQ2lGU3M4WkpidmxLWk1uYVdaZ3pzSEVOWUJuZWNsbEpXVWdfcWJwcUhlMTJmYUJiZ0JRUU4ya3BxZEt4aF96OWh3bS1HcDFVWkhrMW9NNW5LTHgtaUIwOXJ5eDc0QmNqTWltSnUyOVpsZ3JBTDNORUdvbXRwQ2lCR21USEdFcmvSAfgBQVVfeXFMUE51c1BwalZxZUpQU2xxd0xzOFpTb0FXR3FndGJ3Y2hxM1BON01hVGhmZS1UVC1UaVlaSFQtM0dnS1dlbnlxR2R4Nl81ZnNzenBJWGRfTjlUYVJ6eTExVjNMRzVTMExwS2FYeW1kZURnNkJXVmY3MzQ4RkRLYXYxRXpLUFRsakVmaXVpeGxEX2RrWG9UUElUUHlVY1FaY1c1MUVrdUZqQm4zUlRBQTZfRmZFZVdfNmRUY1ViWHpHTWdvVFRNVFNCUGR3TGxzcTh3X3JoTm5aQUxmcldmNGhsT0tsaTY4a192dHo5LTJEdHlDd0JZUDFXd2w?oc=5
+- Stocks Fall, Oil Climbs with Geopolitics in Focus: Markets Wrap - Bloomberg.com
+  The markets are taking a turn for the
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXkyWDJESk9JX0tNNVhBX2hHNWZ1TmhzQlR3UG1FZHdkQjl2M0hUODdHcGhVeDVweXRWa1EtYVFGUzdxbmxKUEpRbzB1ZEl4ZGVyUmlXdjhsNjJvQi1iZ1k1U3BVd1otX3JCS3ZMZExOalQ0cTFkM3NrWUJ5V1dqcS16Q3lIQzhEZDN2U2hyajlleEFx?oc=5
 
-- India attends Donald Trump's inaugural Gaza Peace Board meeting as observer - The Times of India
-  India attends Donald Trump's inaugural Gaza Peace Board meeting as observer
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa0lMVXRKMXp0RW5NQ3c5VkJZUG03RTZmVmdTVk1jd0szT2dDZ21pZUJqSFVVSng2d19NeUZjNFFXX3JySVhOTFZyTXc5NG80YkdnYTVPVE8xZXpCWDhUNjdLSnY2aG95ZHRvU2tBTFBUYmV5RkRoZHlWS3MySjdCOWVjZHc3aGl3a1hMa3J1WE1JRUozck9wRWc0OV95UmJJWTBPVVdrdDB3LVA1Nmd4QXc0YWVTSFMyeGh5d1dTbkRYOXJMOGM2Rzc1LTZQNmdDdVBHVElQUWdLd9IB3wFBVV95cUxPdThnd0dGdlR0cHozaVFpV25rSWFSNjJYWVNHeHlYUkFLNVlFdk9haGxaQ2N2ZU9RdG9VRURwb1NRcmtTMHN5Z2hEcFZEUlJGM1N1OXVUcDFMWUZnMGkzMlp3Tm01ZW1WLVZyYW12eklxd2F6b2QzSFotcGRibkJwZkcwbmM0c2RmbTBkMnhYbTc1RDM5QVd5c2ZVWTFGTGFVaGc2SzYzbkdGelIwQ2s1UXVZdlhhNkZJMjdTQ0psSnZkVUVWMTZDNjN4WkpJM2Z6VjAzZXVUSjhpelp1MVNn?oc=5
+- Key factors behind the Sensex, Nifty fall on Thursday - CNBC TV18
+  Key factors behind the Sensex, N
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQX0ZyUW9fMFhjZjRmWGhoT3FFU3R3aldGM2xGX0ZVbWRQeUpqT3M5WXhvbzVxSWc0NzlubjBSdzh4c2VseDduV3ViRm12ZFlISnZ1RTlxR0JzRXVDZzdYZGN0cTF6eS1oZkgtV3ZIZ3Y2UzNTMTFnUEJ3eTJaTktFdUJ4MWtrN25pbmFJX1g3QVBsb0p5aEtUeG5UekhqQ1Q2bjJaNjVfeHJwbFBGN1FRMVRYeDJfeFNQRkU2bWpwdWJWWnNSc2x4alNyM0gtaW1OZjFuRmN1Wmx2TXhDOEJ5U3ZiS2lmZDc5UG5yemQyd3RfX2VCM2fSAfsBQVVfeXFMT1VWX0FHVGNTQUlfbzQxSHhFWVZkdXBpcDhWdU5ORE01N2xuUzQzU0tIRTMzTENHbV9maFM3TkFzQVlDWEw5aGZFTVAxMVRBUVBHLUsweGNuLXFyRmRrS0dvbmFzOWZQelMxOHNwRWpIU0JSeWlvSldmOWpJZXY1UDlTRlhGczViNzkydXRLOHJDRWpONkhwYmRsV0JpWmtrQ0haVXpUV2xzQ24tOVpDams0eE92VzJuV1RhMnZhbnd6bkEwRkpaUUVvZlczbm9Da0lHS28zLW5jX2dGcFNLVEo1b0EtMFJTY2gzQjdUU0w5YVVPQUUtMGNWSUE?oc=5
 
-- 'Thank You, India!’: Macron signs off AI Summit visit with a warm note and video - Mint
-  'Thank You, India!’: Macron signs off AI
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNRy03SXdDQWxMNjZhaERfakQ0N3JGSXZfdWM1UUJvY09YLVN2RGF5Nm5HSlQ4aTNISXdVNnNVU09nSmpJNW83X0NCcjlsRkdrb191RXRsa3ZPZ3ZiRXFhTGpScjFwSm1FOWE2Q0tEaTMwUVZFcnJWRE9HMC15ak0weXg4T3I5SHM5T3k2bkd2X25WbE1NZHlZeU9KU3F3dGE2VFVEWmFBS2xXTUU4c1J6T0JxcnA2UTBQV1RuT2ZnZ3d0bUJsb2liMVdnb9IB0AFBVV95cUxPZkh4Zzh0QzQxakNIQVI5cVBFYWlRNDNIblBGaXdBNlFPOHlXMzRxbnlVODJGb18wWFd1cDNGSVRXaG1Md014QmVlZjllYXBTZ3NGWkhhTV96TWVpVzFFOURuTjN0d095alY1Y1J0czFFUmtnczdabmNlMkR5RUVwLUI1cjN6MU5sMldsZHBEMHZRUzJud1hqTldldUt6MEpWWDJTdkl0aDRSWW9ZRld4bi13X0Nsb3hvZHlxZUhHTlZKdjJSNFMyNDBfazdKYUVU?oc=5
+- Excess supply triggers crash in prices of shallot in Tiruchi market - The Hindu
+  Excess supply triggers crash in prices of shallot
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUWxjc0NaeWJ5cWxlYW1FVksyVmRTcFBHREJ4eER5RW1uWW1PR0dYZnBZZE81eGFIZHA5bWVhS0FFVXZpcHpKNktkZ2lqTkZ4TkhOX0R2d0RtbEl1Tm9xUW80eEhMZUJFWmJkVVFnMXo0YXhuQWJXcHVUSDhvbVVvOWJsblRUMTVKRmtZZnVMbEZyU1lHeWp2bTlTVXB4SzRNcWo1Q3c5T1MyRFhvRkh5ZzRFWUpJUzZYdUgwV3lHM0VaV3pHU202d2tVMFFnWVNVWng00gHaAUFVX3lxTFAwSVZOV1hSRFFDODZZOEhIZlRCYVd3V1hXQzMtU2lzaDJsbHBuUkswem1SMksxZGRuRGRscWc3dHk3LUVSc1FWN1dNdHZmbDR5dkY5X2hCTXZvUnlVNlJKZ0k4MjROWmNnWnhPei1GaVFYYW5DbUlZUUxlZXdyRFhkTUJfQkRwQUgtVi1jN2dGRVZuWW85Z3IwdXIwb3p0ejhrVktiZjhZMXBXMlNWcnllMldlYlU3S1M2T1dCdmpfeDFhZnE4T1JJZnpNU2RJeTdXcnRGUFdUSzFn?oc=5
 
-- "India Built What No Other Country Can": France's Macron At AI Impact Summit - NDTV
-  "India Built What No Other Country Can": France's
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOZjlITm5Pek1CajJMVEdIWTJUdDJhX2JRa0Y3SDhRbUFNNmxhZEZQR2tTMjNueDBLVzNyZVBGVkZzTTNJTTA2M2ktcHZscjJHOXo4dDl5R1A2SVBPS1hDNHRESTBCZFVVc0U4ck1zSnRCOHhNdnpsQVJQd3VzdTVDZm9yNnJ6bl9oT2d1MkVZRHRmc0U5TU5VdTYwb1RoQnlzeXpHcXljQ3lYQVlvcW9ob3Jmc9IBuwFBVV95cUxNSFRuekxJYUZPSmNhdVp0bFp5c2dES1hQSFBHUzJ4NVU4NzZsUzFfT1FhMFloXzBNMEFFMktDV3h2bUlzWXJTNC1WOEIyVkhqbGg0eTAtWGxMeUhoREFTV04yS2QxdHBNOXlPNkFpdHI3bnVQbU0xMGxpOUQwMkJXaEVRYXVCMzl0dW43RGx4UTUwbVhtQ04taklaMVJydTVmc1NZaUs1a0JkTEVMNkxpVXVUaFB6a2wxVi1N?oc=5
+- In a market starved of AI bets, how one stock tied to India's AI mission tripled investor wealth - The Economic Times
+  In a market starved of AI bets, how one stock tied to India's AI mission tripled
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR2Y4TGNENzcyLV9KS2pwYmZuU19xTW5BVWxsV0JGTEluZlh1ZEJvZU1HU1pJeWhmSHBMbU9tYjlBa2VTYjNnbFh5REZyZjE0RERoR2M1Yjc5dXFOcmVnV3NyaTdnaUJwUEZaUGwwNWV2bEMyN3MxQm5MR2NHVl9zWG1lSDZISVpFa0w5bTNKRHFndV84eWNwRlZEQ1Zyc2RucnB4TW5HaUJhWkZVZGZCUnNoWlR1d2FkMHEzcWZCNUFQMzQzMmRwZi14TmltTVliYjliTWt0aWlJd2hqNmtrdC1udDZlVUk2M0dzZE1MU28zZ0tUbVQyWE9pcmTSAYICQVVfeXFMTzRMT2k1T0lNeE1KZ1ZMYjlMNFFmSldJY2Fmbm1SWlJsbnJIRXNOVWtOMjVUTnRycGUxTlhsdEo0QWVKSUlaUUllUnRDeS1iN2IxMDlaSm1maHZ1ZXN2TERac0hhamlqcWFSRGhHX1JtTTFkRTh2eWYwaHZxVmRyeS1nNDA4c0VRZW00MjZVVnVkMU9tOC0zNUp1TVZzNHgxeDJVeXdZQlBZUGhyWkhLZDl5T1ZIN3M1amRHOFEyOEZPcTRzT3dLSXJlUThmREV1Nnp2dWphZUJtYVRSbWM3Z2dTMlE4bW5YTk0xTkhyRV8ya3A5d0JXWl8tb3l6TU9CQ1ZR?oc=5
 
-- Trump Claims 11 Jets Downed During Op Sindoor. A Hint At Major Pak Losses? - NDTV
-  Trump Claims 11 Jets Downed During Op Sindoor. A
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjVPOXhxWE1ObDRNcnlyZmcxLUpDS09uc05sd2pEcURWY3Y2TXo0Z0JhMXd3SWVENXN6UF9Xb3kxdDZ5QjBYOGxOMHhSMWxhRVozUS1IblAwUDRqemQ4MGVES1Z0cnZLVkx1Sm43cDFoTk8xNVNhSWo2ZGZMam1wNWhEQnIxVW5qM1JpSEVNRzZELVUtZG56V3d6Y1laaVgtR25iNkFreVBOcXIwOEt4ZTV4b3JIWVFhMFVr0gHDAUFVX3lxTE5NVnV2ZjdWQ1ZIOXNuZ2o0cHJ3a0JSb2Y0OWFOdVlwd3BzQXpxTXkydEdyX3lQbTgtM3FfdDN0UllhdWlyaWNoRno2ZWpsYXVjdXpxRE9mRndXQlFRdzZ1WS04SkNKQnc2SkhacWxDMGJRMXJzQThmT3NPaU5sLUN2ZEtTbDlMYU1LZmpQZ0JBdWtCNjF1SHFZcHI1dnpUXzVBTnprVnJ5dnd5SDVHZU9fWG9yakhqWERlQU8zOGxEZjl2bw?oc=5
+- Closing Bell: Market recovers; Nifty above 25,550, Sensex up 317 pts, IT lags - Moneycontrol
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVXgwNEFhblF4RDFrS042VEl5djlLZFFFNFJfdUt0WW45Qk54cFhtcHphcF9EZ0J2LVBPeEZjdjZpSzFhRGx4ZWFXd3hYZzBxRTNSSnZ5QnRHOUZMaGdEQzZyRjF0R3pzWF
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVXgwNEFhblF4RDFrS042VEl5djlLZFFFNFJfdUt0WW45Qk54cFhtcHphcF9EZ0J2LVBPeEZjdjZpSzFhRGx4ZWFXd3hYZzBxRTNSSnZ5QnRHOUZMaGdEQzZyRjF0R3pzWFpaT21fcy1SYzFfQXJBSjd4ZTdnZFRFek1ETi13a0RCVmdGdUZEb3pEQWVCSUthZVR5R2RYQS1NMlRBYzdPMlAzUDBlSXVmZzRCNG1rczBlYjhobndFZWo0R2M4WWM4amMwaGVxaHpVZnJya3FndEtTNTJnRmFhOTg0d1FncS1iYWR5SQ?oc=5
 
-- Trump repeats claim of 'stopping' India-Pak war with new twist: '11 expensive jets shot down' | India News - Hindustan Times
-  '11 expensive jets shot down' is a new claim made by President Trump.
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNnBFcXlkN1VhaHJ2d0tRQ0hacGs0T1Azb1ZhM3Nzejh4cERFbXVqUTVEdWw3d0lQWVBQSS1ULUJld1pFTVZLZFJFbVlpVGdoUDVkM0RLcWsyd0ZQcHFtR0FQZlY5R2cxWU4tZzVocWY3bE0yQ2lGU3M4WkpidmxLWk1uYVdaZ3pzSEVOWUJuZWNsbEpXVWdfcWJwcUhlMTJmYUJiZ0JRUU4ya3BxZEt4aF96OWh3bS1HcDFVWkhrMW9NNW5LTHgtaUIwOXJ5eDc0QmNqTWltSnUyOVpsZ3JBTDNORUdvbXRwQ2lCR21USEdFcmvSAfgBQVVfeXFMUE51c1BwalZxZUpQU2xxd0xzOFpTb0FXR3FndGJ3Y2hxM1BON01hVGhmZS1UVC1UaVlaSFQtM0dnS1dlbnlxR2R4Nl81ZnNzenBJWGRfTjlUYVJ6eTExVjNMRzVTMExwS2FYeW1kZURnNkJXVmY3MzQ4RkRLYXYxRXpLUFRsakVmaXVpeGxEX2RrWG9UUElUUHlVY1FaY1c1MUVrdUZqQm4zUlRBQTZfRmZFZVdfNmRUY1ViWHpHTWdvVFRNVFNCUGR3TGxzcTh3X3JoTm5aQUxmcldmNGhsT0tsaTY4a192dHo5LTJEdHlDd0JZUDFXd2w?oc=5
+- Stock market quote of the day by Benjamin Franklin | “An investment in knowledge pays the best interest.”
+   knowledge is the most valuable asset in stock markets. Continuous learning compounds insights, sharpens judgment, and builds confidence to navigate market uncertainty.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/stock-market-quote-of-the-day-by-benjamin-franklin-an-investment-in-knowledge-pays-the-best-interest-/articleshow/128600536.cms
 
-- India attends Donald Trump's inaugural Gaza Peace Board meeting as observer - The Times of India
-  India attends Donald Trump's inaugural Gaza Peace Board meeting as observer
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa0lMVXRKMXp0RW5NQ3c5VkJZUG03RTZmVmdTVk1jd0szT2dDZ21pZUJqSFVVSng2d19NeUZjNFFXX3JySVhOTFZyTXc5NG80YkdnYTVPVE8xZXpCWDhUNjdLSnY2aG95ZHRvU2tBTFBUYmV5RkRoZHlWS3MySjdCOWVjZHc3aGl3a1hMa3J1WE1JRUozck9wRWc0OV95UmJJWTBPVVdrdDB3LVA1Nmd4QXc0YWVTSFMyeGh5d1dTbkRYOXJMOGM2Rzc1LTZQNmdDdVBHVElQUWdLd9IB3wFBVV95cUxPdThnd0dGdlR0cHozaVFpV25rSWFSNjJYWVNHeHlYUkFLNVlFdk9haGxaQ2N2ZU9RdG9VRURwb1NRcmtTMHN5Z2hEcFZEUlJGM1N1OXVUcDFMWUZnMGkzMlp3Tm01ZW1WLVZyYW12eklxd2F6b2QzSFotcGRibkJwZkcwbmM0c2RmbTBkMnhYbTc1RDM5QVd5c2ZVWTFGTGFVaGc2SzYzbkdGelIwQ2s1UXVZdlhhNkZJMjdTQ0psSnZkVUVWMTZDNjN4WkpJM2Z6VjAzZXVUSjhpelp1MVNn?oc=5
+- US Stocks Today | US stock futures muted ahead of economic data
+  U.S. stock index futures were flat on Friday. Investors awaited key economic data to gauge the path of monetary policy easing.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stock-futures-muted-ahead-of-economic-data/articleshow/128607530.cms
 
-- 'Thank You, India!’: Macron signs off AI Summit visit with a warm note and video - Mint
-  'Thank You, India!’: Macron signs off AI
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNRy03SXdDQWxMNjZhaERfakQ0N3JGSXZfdWM1UUJvY09YLVN2RGF5Nm5HSlQ4aTNISXdVNnNVU09nSmpJNW83X0NCcjlsRkdrb191RXRsa3ZPZ3ZiRXFhTGpScjFwSm1FOWE2Q0tEaTMwUVZFcnJWRE9HMC15ak0weXg4T3I5SHM5T3k2bkd2X25WbE1NZHlZeU9KU3F3dGE2VFVEWmFBS2xXTUU4c1J6T0JxcnA2UTBQV1RuT2ZnZ3d0bUJsb2liMVdnb9IB0AFBVV95cUxPZkh4Zzh0QzQxakNIQVI5cVBFYWlRNDNIblBGaXdBNlFPOHlXMzRxbnlVODJGb18wWFd1cDNGSVRXaG1Md014QmVlZjllYXBTZ3NGWkhhTV96TWVpVzFFOURuTjN0d095alY1Y1J0czFFUmtnczdabmNlMkR5RUVwLUI1cjN6MU5sMldsZHBEMHZRUzJud1hqTldldUt6MEpWWDJTdkl0aDRSWW9ZRld4bi13X0Nsb3hvZHlxZUhHTlZKdjJSNFMyNDBfazdKYUVU?oc=5
+- Average US long-term mortgage rate dips to 6.01%, lowest level in more than 3 years
+  The average long-term U.S. mortgage rate slipped this week to its lowest level in more than three years. The rate remains around
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/average-us-long-term-mortgage-rate-dips-to-6-01-lowest-level-in-more-than-3-years/articleshow/128607411.cms
 
-- "India Built What No Other Country Can": France's Macron At AI Impact Summit - NDTV
-  "India Built What No Other Country Can": France's
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOZjlITm5Pek1CajJMVEdIWTJUdDJhX2JRa0Y3SDhRbUFNNmxhZEZQR2tTMjNueDBLVzNyZVBGVkZzTTNJTTA2M2ktcHZscjJHOXo4dDl5R1A2SVBPS1hDNHRESTBCZFVVc0U4ck1zSnRCOHhNdnpsQVJQd3VzdTVDZm9yNnJ6bl9oT2d1MkVZRHRmc0U5TU5VdTYwb1RoQnlzeXpHcXljQ3lYQVlvcW9ob3Jmc9IBuwFBVV95cUxNSFRuekxJYUZPSmNhdVp0bFp5c2dES1hQSFBHUzJ4NVU4NzZsUzFfT1FhMFloXzBNMEFFMktDV3h2bUlzWXJTNC1WOEIyVkhqbGg0eTAtWGxMeUhoREFTV04yS2QxdHBNOXlPNkFpdHI3bnVQbU0xMGxpOUQwMkJXaEVRYXVCMzl0dW43RGx4UTUwbVhtQ04taklaMVJydTVmc1NZaUs1a0JkTEVMNkxpVXVUaFB6a2wxVi1N?oc=5
+- Indian 10-year bond yield surges most in two weeks on US–Iran jitters
+  India's benchmark 10-year government bond yield spiked on Friday. Concerns about a potential military confrontation between the U.S. and Iran has bid crude
+  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-10-year-bond-yield-surges-most-in-two-weeks-on-usiran-jitters/articleshow/128607285.cms
 
-- Trump Claims 11 Jets Downed During Op Sindoor. A Hint At Major Pak Losses? - NDTV
-  Trump Claims 11 Jets Downed During Op Sindoor. A
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjVPOXhxWE1ObDRNcnlyZmcxLUpDS09uc05sd2pEcURWY3Y2TXo0Z0JhMXd3SWVENXN6UF9Xb3kxdDZ5QjBYOGxOMHhSMWxhRVozUS1IblAwUDRqemQ4MGVES1Z0cnZLVkx1Sm43cDFoTk8xNVNhSWo2ZGZMam1wNWhEQnIxVW5qM1JpSEVNRzZELVUtZG56V3d6Y1laaVgtR25iNkFreVBOcXIwOEt4ZTV4b3JIWVFhMFVr0gHDAUFVX3lxTE5NVnV2ZjdWQ1ZIOXNuZ2o0cHJ3a0JSb2Y0OWFOdVlwd3BzQXpxTXkydEdyX3lQbTgtM3FfdDN0UllhdWlyaWNoRno2ZWpsYXVjdXpxRE9mRndXQlFRdzZ1WS04SkNKQnc2SkhacWxDMGJRMXJzQThmT3NPaU5sLUN2ZEtTbDlMYU1LZmpQZ0JBdWtCNjF1SHFZcHI1dnpUXzVBTnprVnJ5dnd5SDVHZU9fWG9yakhqWERlQU8zOGxEZjl2bw?oc=5
-
-- Trump repeats claim of 'stopping' India-Pak war with new twist: '11 expensive jets shot down' | India News - Hindustan Times
-  '11 expensive jets shot down' is a new claim made by President Trump.
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNnBFcXlkN1VhaHJ2d0tRQ0hacGs0T1Azb1ZhM3Nzejh4cERFbXVqUTVEdWw3d0lQWVBQSS1ULUJld1pFTVZLZFJFbVlpVGdoUDVkM0RLcWsyd0ZQcHFtR0FQZlY5R2cxWU4tZzVocWY3bE0yQ2lGU3M4WkpidmxLWk1uYVdaZ3pzSEVOWUJuZWNsbEpXVWdfcWJwcUhlMTJmYUJiZ0JRUU4ya3BxZEt4aF96OWh3bS1HcDFVWkhrMW9NNW5LTHgtaUIwOXJ5eDc0QmNqTWltSnUyOVpsZ3JBTDNORUdvbXRwQ2lCR21USEdFcmvSAfgBQVVfeXFMUE51c1BwalZxZUpQU2xxd0xzOFpTb0FXR3FndGJ3Y2hxM1BON01hVGhmZS1UVC1UaVlaSFQtM0dnS1dlbnlxR2R4Nl81ZnNzenBJWGRfTjlUYVJ6eTExVjNMRzVTMExwS2FYeW1kZURnNkJXVmY3MzQ4RkRLYXYxRXpLUFRsakVmaXVpeGxEX2RrWG9UUElUUHlVY1FaY1c1MUVrdUZqQm4zUlRBQTZfRmZFZVdfNmRUY1ViWHpHTWdvVFRNVFNCUGR3TGxzcTh3X3JoTm5aQUxmcldmNGhsT0tsaTY4a192dHo5LTJEdHlDd0JZUDFXd2w?oc=5
-
-- India attends Donald Trump's inaugural Gaza Peace Board meeting as observer - The Times of India
-  India attends Donald Trump's inaugural Gaza Peace Board meeting as observer
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa0lMVXRKMXp0RW5NQ3c5VkJZUG03RTZmVmdTVk1jd0szT2dDZ21pZUJqSFVVSng2d19NeUZjNFFXX3JySVhOTFZyTXc5NG80YkdnYTVPVE8xZXpCWDhUNjdLSnY2aG95ZHRvU2tBTFBUYmV5RkRoZHlWS3MySjdCOWVjZHc3aGl3a1hMa3J1WE1JRUozck9wRWc0OV95UmJJWTBPVVdrdDB3LVA1Nmd4QXc0YWVTSFMyeGh5d1dTbkRYOXJMOGM2Rzc1LTZQNmdDdVBHVElQUWdLd9IB3wFBVV95cUxPdThnd0dGdlR0cHozaVFpV25rSWFSNjJYWVNHeHlYUkFLNVlFdk9haGxaQ2N2ZU9RdG9VRURwb1NRcmtTMHN5Z2hEcFZEUlJGM1N1OXVUcDFMWUZnMGkzMlp3Tm01ZW1WLVZyYW12eklxd2F6b2QzSFotcGRibkJwZkcwbmM0c2RmbTBkMnhYbTc1RDM5QVd5c2ZVWTFGTGFVaGc2SzYzbkdGelIwQ2s1UXVZdlhhNkZJMjdTQ0psSnZkVUVWMTZDNjN4WkpJM2Z6VjAzZXVUSjhpelp1MVNn?oc=5
-
-- 'Thank You, India!’: Macron signs off AI Summit visit with a warm note and video - Mint
-  'Thank You, India!’: Macron signs off AI
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNRy03SXdDQWxMNjZhaERfakQ0N3JGSXZfdWM1UUJvY09YLVN2RGF5Nm5HSlQ4aTNISXdVNnNVU09nSmpJNW83X0NCcjlsRkdrb191RXRsa3ZPZ3ZiRXFhTGpScjFwSm1FOWE2Q0tEaTMwUVZFcnJWRE9HMC15ak0weXg4T3I5SHM5T3k2bkd2X25WbE1NZHlZeU9KU3F3dGE2VFVEWmFBS2xXTUU4c1J6T0JxcnA2UTBQV1RuT2ZnZ3d0bUJsb2liMVdnb9IB0AFBVV95cUxPZkh4Zzh0QzQxakNIQVI5cVBFYWlRNDNIblBGaXdBNlFPOHlXMzRxbnlVODJGb18wWFd1cDNGSVRXaG1Md014QmVlZjllYXBTZ3NGWkhhTV96TWVpVzFFOURuTjN0d095alY1Y1J0czFFUmtnczdabmNlMkR5RUVwLUI1cjN6MU5sMldsZHBEMHZRUzJud1hqTldldUt6MEpWWDJTdkl0aDRSWW9ZRld4bi13X0Nsb3hvZHlxZUhHTlZKdjJSNFMyNDBfazdKYUVU?oc=5
-
-- "India Built What No Other Country Can": France's Macron At AI Impact Summit - NDTV
-  "India Built What No Other Country Can": France's
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOZjlITm5Pek1CajJMVEdIWTJUdDJhX2JRa0Y3SDhRbUFNNmxhZEZQR2tTMjNueDBLVzNyZVBGVkZzTTNJTTA2M2ktcHZscjJHOXo4dDl5R1A2SVBPS1hDNHRESTBCZFVVc0U4ck1zSnRCOHhNdnpsQVJQd3VzdTVDZm9yNnJ6bl9oT2d1MkVZRHRmc0U5TU5VdTYwb1RoQnlzeXpHcXljQ3lYQVlvcW9ob3Jmc9IBuwFBVV95cUxNSFRuekxJYUZPSmNhdVp0bFp5c2dES1hQSFBHUzJ4NVU4NzZsUzFfT1FhMFloXzBNMEFFMktDV3h2bUlzWXJTNC1WOEIyVkhqbGg0eTAtWGxMeUhoREFTV04yS2QxdHBNOXlPNkFpdHI3bnVQbU0xMGxpOUQwMkJXaEVRYXVCMzl0dW43RGx4UTUwbVhtQ04taklaMVJydTVmc1NZaUs1a0JkTEVMNkxpVXVUaFB6a2wxVi1N?oc=5
-
-- Trump Claims 11 Jets Downed During Op Sindoor. A Hint At Major Pak Losses? - NDTV
-  Trump Claims 11 Jets Downed During Op Sindoor. A
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjVPOXhxWE1ObDRNcnlyZmcxLUpDS09uc05sd2pEcURWY3Y2TXo0Z0JhMXd3SWVENXN6UF9Xb3kxdDZ5QjBYOGxOMHhSMWxhRVozUS1IblAwUDRqemQ4MGVES1Z0cnZLVkx1Sm43cDFoTk8xNVNhSWo2ZGZMam1wNWhEQnIxVW5qM1JpSEVNRzZELVUtZG56V3d6Y1laaVgtR25iNkFreVBOcXIwOEt4ZTV4b3JIWVFhMFVr0gHDAUFVX3lxTE5NVnV2ZjdWQ1ZIOXNuZ2o0cHJ3a0JSb2Y0OWFOdVlwd3BzQXpxTXkydEdyX3lQbTgtM3FfdDN0UllhdWlyaWNoRno2ZWpsYXVjdXpxRE9mRndXQlFRdzZ1WS04SkNKQnc2SkhacWxDMGJRMXJzQThmT3NPaU5sLUN2ZEtTbDlMYU1LZmpQZ0JBdWtCNjF1SHFZcHI1dnpUXzVBTnprVnJ5dnd5SDVHZU9fWG9yakhqWERlQU8zOGxEZjl2bw?oc=5
+- RBI net sold $10 billion in December to curb rupee volatility
+  The Reserve Bank of India sold a net of $10.02 billion in the foreign exchange market in December. The move reflects the central bank's efforts to support the currency. The
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/updated-hl-rbi-net-sold-10-billion-in-december-to-curb-rupee-volatility/articleshow/128607042.cms
 
 - Trump repeats claim of 'stopping' India-Pak war with new twist: '11 expensive jets shot down' | India News - Hindustan Times
   '11 expensive jets shot down' is a new claim made by President Trump.
   🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNnBFcXlkN1VhaHJ2d0tRQ0hacGs0T1Azb1ZhM3Nzejh4cERFbXVqUTVEdWw3d0lQWVBQSS1ULUJld1pFTVZLZFJFbVlpVGdoUDVkM0RLcWsyd0ZQcHFtR0FQZlY5R2cxWU4tZzVocWY3bE0yQ2lGU3M4WkpidmxLWk1uYVdaZ3pzSEVOWUJuZWNsbEpXVWdfcWJwcUhlMTJmYUJiZ0JRUU4ya3BxZEt4aF96OWh3bS1HcDFVWkhrMW9NNW5LTHgtaUIwOXJ5eDc0QmNqTWltSnUyOVpsZ3JBTDNORUdvbXRwQ2lCR21USEdFcmvSAfgBQVVfeXFMUE51c1BwalZxZUpQU2xxd0xzOFpTb0FXR3FndGJ3Y2hxM1BON01hVGhmZS1UVC1UaVlaSFQtM0dnS1dlbnlxR2R4Nl81ZnNzenBJWGRfTjlUYVJ6eTExVjNMRzVTMExwS2FYeW1kZURnNkJXVmY3MzQ4RkRLYXYxRXpLUFRsakVmaXVpeGxEX2RrWG9UUElUUHlVY1FaY1c1MUVrdUZqQm4zUlRBQTZfRmZFZVdfNmRUY1ViWHpHTWdvVFRNVFNCUGR3TGxzcTh3X3JoTm5aQUxmcldmNGhsT0tsaTY4a192dHo5LTJEdHlDd0JZUDFXd2w?oc=5
 
-- India attends Donald Trump's inaugural Gaza Peace Board meeting as observer - The Times of India
-  India attends Donald Trump's inaugural Gaza Peace Board meeting as observer
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa0lMVXRKMXp0RW5NQ3c5VkJZUG03RTZmVmdTVk1jd0szT2dDZ21pZUJqSFVVSng2d19NeUZjNFFXX3JySVhOTFZyTXc5NG80YkdnYTVPVE8xZXpCWDhUNjdLSnY2aG95ZHRvU2tBTFBUYmV5RkRoZHlWS3MySjdCOWVjZHc3aGl3a1hMa3J1WE1JRUozck9wRWc0OV95UmJJWTBPVVdrdDB3LVA1Nmd4QXc0YWVTSFMyeGh5d1dTbkRYOXJMOGM2Rzc1LTZQNmdDdVBHVElQUWdLd9IB3wFBVV95cUxPdThnd0dGdlR0cHozaVFpV25rSWFSNjJYWVNHeHlYUkFLNVlFdk9haGxaQ2N2ZU9RdG9VRURwb1NRcmtTMHN5Z2hEcFZEUlJGM1N1OXVUcDFMWUZnMGkzMlp3Tm01ZW1WLVZyYW12eklxd2F6b2QzSFotcGRibkJwZkcwbmM0c2RmbTBkMnhYbTc1RDM5QVd5c2ZVWTFGTGFVaGc2SzYzbkdGelIwQ2s1UXVZdlhhNkZJMjdTQ0psSnZkVUVWMTZDNjN4WkpJM2Z6VjAzZXVUSjhpelp1MVNn?oc=5
+- '200% Tariff, 11 Jets Down': Trump's Latest On India-Pak Ceasefire - NDTV
+  '200% Tariff, 11 Jets
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjVPOXhxWE1ObDRNcnlyZmcxLUpDS09uc05sd2pEcURWY3Y2TXo0Z0JhMXd3SWVENXN6UF9Xb3kxdDZ5QjBYOGxOMHhSMWxhRVozUS1IblAwUDRqemQ4MGVES1Z0cnZLVkx1Sm43cDFoTk8xNVNhSWo2ZGZMam1wNWhEQnIxVW5qM1JpSEVNRzZELVUtZG56V3d6Y1laaVgtR25iNkFreVBOcXIwOEt4ZTV4b3JIWVFhMFVr0gHDAUFVX3lxTE5NVnV2ZjdWQ1ZIOXNuZ2o0cHJ3a0JSb2Y0OWFOdVlwd3BzQXpxTXkydEdyX3lQbTgtM3FfdDN0UllhdWlyaWNoRno2ZWpsYXVjdXpxRE9mRndXQlFRdzZ1WS04SkNKQnc2SkhacWxDMGJRMXJzQThmT3NPaU5sLUN2ZEtTbDlMYU1LZmpQZ0JBdWtCNjF1SHFZcHI1dnpUXzVBTnprVnJ5dnd5SDVHZU9fWG9yakhqWERlQU8zOGxEZjl2bw?oc=5
 
-- 'Thank You, India!’: Macron signs off AI Summit visit with a warm note and video - Mint
-  'Thank You, India!’: Macron signs off AI
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNRy03SXdDQWxMNjZhaERfakQ0N3JGSXZfdWM1UUJvY09YLVN2RGF5Nm5HSlQ4aTNISXdVNnNVU09nSmpJNW83X0NCcjlsRkdrb191RXRsa3ZPZ3ZiRXFhTGpScjFwSm1FOWE2Q0tEaTMwUVZFcnJWRE9HMC15ak0weXg4T3I5SHM5T3k2bkd2X25WbE1NZHlZeU9KU3F3dGE2VFVEWmFBS2xXTUU4c1J6T0JxcnA2UTBQV1RuT2ZnZ3d0bUJsb2liMVdnb9IB0AFBVV95cUxPZkh4Zzh0QzQxakNIQVI5cVBFYWlRNDNIblBGaXdBNlFPOHlXMzRxbnlVODJGb18wWFd1cDNGSVRXaG1Md014QmVlZjllYXBTZ3NGWkhhTV96TWVpVzFFOURuTjN0d095alY1Y1J0czFFUmtnczdabmNlMkR5RUVwLUI1cjN6MU5sMldsZHBEMHZRUzJud1hqTldldUt6MEpWWDJTdkl0aDRSWW9ZRld4bi13X0Nsb3hvZHlxZUhHTlZKdjJSNFMyNDBfazdKYUVU?oc=5
+- India Attends 1st Meet Of Trump's Board Of Peace In Washington As Observer - NDTV
+  India Attends 1st Meet Of Trump's Board Of
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0pjNWZ6UUwtMXA2eGhpNTlhVTd2Z2syQ0hMTFg4QTB4MDY2dmRJQTFFdUFkQW0xc0N2TXpKUDJFMVpZdDJVZWh1RHhIQ1l0c3B3cGtnNlJrTlBYNG5EOHR2UVB3WnFxdmV5a1Bnc2w2ZjR1cTZBVllZbzI3Zk0ydEszX19PSXVsaFI0SmhGSW5fMURVNWtwaDB5UUNkeHBYRlI1cjB6RGw3N3RlYXl5WlByQUXSAbwBQVVfeXFMTmRNNE9uZDRqd0FBdXVxWWNMdXI2ZS1iRE5uVW1PMnNhVzhiWWZBc0hfWHExMC1OM2E3bFNoRnJHczR4cWZvQ09oVnVIS1NPVERseHJvMUFDU045SjFMMmkzSmctMEtvbE9FX0ZhMXB5UHJnQ0MxbUswTG9HUXJpVEY2MEcyUmZXSDdUTTZ3clczYkFiX0JmV2dJNnBIZ2ZFSlJwUWE4MGdmWUpMdmkzTHp1S2JqcnhUalQtUmc?oc=5
 
-- "India Built What No Other Country Can": France's Macron At AI Impact Summit - NDTV
-  "India Built What No Other Country Can": France's
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOZjlITm5Pek1CajJMVEdIWTJUdDJhX2JRa0Y3SDhRbUFNNmxhZEZQR2tTMjNueDBLVzNyZVBGVkZzTTNJTTA2M2ktcHZscjJHOXo4dDl5R1A2SVBPS1hDNHRESTBCZFVVc0U4ck1zSnRCOHhNdnpsQVJQd3VzdTVDZm9yNnJ6bl9oT2d1MkVZRHRmc0U5TU5VdTYwb1RoQnlzeXpHcXljQ3lYQVlvcW9ob3Jmc9IBuwFBVV95cUxNSFRuekxJYUZPSmNhdVp0bFp5c2dES1hQSFBHUzJ4NVU4NzZsUzFfT1FhMFloXzBNMEFFMktDV3h2bUlzWXJTNC1WOEIyVkhqbGg0eTAtWGxMeUhoREFTV04yS2QxdHBNOXlPNkFpdHI3bnVQbU0xMGxpOUQwMkJXaEVRYXVCMzl0dW43RGx4UTUwbVhtQ04taklaMVJydTVmc1NZaUs1a0JkTEVMNkxpVXVUaFB6a2wxVi1N?oc=5
+- India AI Impact Summit 2026 Day 5 Live Updates: "AI Means Anti-India For Them," Says BJP On Congress Workers' Protest At AI Summit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxPUVVBcGk2RUpBR1JTQjdGOWFwSWtOQmE4VjJkSmdRSTNyYzh4dmJTRWJNUmgyM1BZVWZZSTVrMjZ2WEtpaG5QTWdlWE9aMTBsMW9PZm9semhGRk9hcTZia2FWVjdQbmVQOE
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPUVVBcGk2RUpBR1JTQjdGOWFwSWtOQmE4VjJkSmdRSTNyYzh4dmJTRWJNUmgyM1BZVWZZSTVrMjZ2WEtpaG5QTWdlWE9aMTBsMW9PZm9semhGRk9hcTZia2FWVjdQbmVQOEhwb2ZzMUtUSGxjU18zYlVnTVFNSlF0bm45cXNYbWRXUXZPTUdUcTFrZTExY1NDZ0dqc2gxMlJMdVREMlFLay13cEVEek1wVFBxZ3B1SXlLYXNaQzdkTnZhUGw0OFlObGhaNXR2SWpWNWk1NzRydTFCMFdTR0JVaGFzTk1WNWFiZktQZW9ibjlfdEhMUTFFTF91Z2luSVhvNEo2M3o0ZTZrZjZVRUxtejdXcWx0bHIxOGfSAaICQVVfeXFMTU8wNWt3QVlZN1lxR09FZ2NfZXlPNERzbDgxRVlzWXNOc2dFR2Z2LUc2dVdjeTRXeVlkZlJtakp2d3BqQ2xVOXFUeXNabDdFNUFhNXRpRUM0cXJVNEZ1bzViNk83WHpWbi1sbUVRdFJ1TWVYUUU1TDVaTUc2N3BJU1d0U2U5Q1NhZ3k4OHpiSlBNajFyaXpBUEJWS293V2xkQWRrWjBYU19xa0t2S2NWQmJBdjF5bmVuUjBxRnc2UTE5dTR3VFI5cjZ1MkJ5RzQ1Ykd0UDFHalVFbERGOTZkbjdsLVU3akxZQ1dWRkhfdi1abll5SmJpOG8yNE9GeDUxdmRWMkxGNnlHNkZRLUFoWUh2T1N6cHJvZzkyVlVDaGpWYmc?oc=5
+
+- Abu Dhabi to deploy exaflop-scale AI infrastructure to India - News On AIR
+  Abu Dhabi to deploy exaflop
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVV4c2UwYlRiY3liSjd3UUNXdjI4VGJtZVN3SVVWUFlSX2VQcC1ZNnFjZldVY2l0MjdmQU1iV3hsd3hjMnlVQ2xMWXl0QjU5X0JUWFc2MkY3bldUeGE3Wmx0bi1TVUFQU0x1WG5tdmRESFY0T3FuVGFHbk15XzR4clpiZktXWEgzMGhpSEtaMkJaU1pt?oc=5
+
+- Trump repeats claim of 'stopping' India-Pak war with new twist: '11 expensive jets shot down' | India News - Hindustan Times
+  '11 expensive jets shot down' is a new claim made by President Trump.
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNnBFcXlkN1VhaHJ2d0tRQ0hacGs0T1Azb1ZhM3Nzejh4cERFbXVqUTVEdWw3d0lQWVBQSS1ULUJld1pFTVZLZFJFbVlpVGdoUDVkM0RLcWsyd0ZQcHFtR0FQZlY5R2cxWU4tZzVocWY3bE0yQ2lGU3M4WkpidmxLWk1uYVdaZ3pzSEVOWUJuZWNsbEpXVWdfcWJwcUhlMTJmYUJiZ0JRUU4ya3BxZEt4aF96OWh3bS1HcDFVWkhrMW9NNW5LTHgtaUIwOXJ5eDc0QmNqTWltSnUyOVpsZ3JBTDNORUdvbXRwQ2lCR21USEdFcmvSAfgBQVVfeXFMUE51c1BwalZxZUpQU2xxd0xzOFpTb0FXR3FndGJ3Y2hxM1BON01hVGhmZS1UVC1UaVlaSFQtM0dnS1dlbnlxR2R4Nl81ZnNzenBJWGRfTjlUYVJ6eTExVjNMRzVTMExwS2FYeW1kZURnNkJXVmY3MzQ4RkRLYXYxRXpLUFRsakVmaXVpeGxEX2RrWG9UUElUUHlVY1FaY1c1MUVrdUZqQm4zUlRBQTZfRmZFZVdfNmRUY1ViWHpHTWdvVFRNVFNCUGR3TGxzcTh3X3JoTm5aQUxmcldmNGhsT0tsaTY4a192dHo5LTJEdHlDd0JZUDFXd2w?oc=5
+
+- '200% Tariff, 11 Jets Down': Trump's Latest On India-Pak Ceasefire - NDTV
+  '200% Tariff, 11 Jets
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjVPOXhxWE1ObDRNcnlyZmcxLUpDS09uc05sd2pEcURWY3Y2TXo0Z0JhMXd3SWVENXN6UF9Xb3kxdDZ5QjBYOGxOMHhSMWxhRVozUS1IblAwUDRqemQ4MGVES1Z0cnZLVkx1Sm43cDFoTk8xNVNhSWo2ZGZMam1wNWhEQnIxVW5qM1JpSEVNRzZELVUtZG56V3d6Y1laaVgtR25iNkFreVBOcXIwOEt4ZTV4b3JIWVFhMFVr0gHDAUFVX3lxTE5NVnV2ZjdWQ1ZIOXNuZ2o0cHJ3a0JSb2Y0OWFOdVlwd3BzQXpxTXkydEdyX3lQbTgtM3FfdDN0UllhdWlyaWNoRno2ZWpsYXVjdXpxRE9mRndXQlFRdzZ1WS04SkNKQnc2SkhacWxDMGJRMXJzQThmT3NPaU5sLUN2ZEtTbDlMYU1LZmpQZ0JBdWtCNjF1SHFZcHI1dnpUXzVBTnprVnJ5dnd5SDVHZU9fWG9yakhqWERlQU8zOGxEZjl2bw?oc=5
+
+- India Attends 1st Meet Of Trump's Board Of Peace In Washington As Observer - NDTV
+  India Attends 1st Meet Of Trump's Board Of
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0pjNWZ6UUwtMXA2eGhpNTlhVTd2Z2syQ0hMTFg4QTB4MDY2dmRJQTFFdUFkQW0xc0N2TXpKUDJFMVpZdDJVZWh1RHhIQ1l0c3B3cGtnNlJrTlBYNG5EOHR2UVB3WnFxdmV5a1Bnc2w2ZjR1cTZBVllZbzI3Zk0ydEszX19PSXVsaFI0SmhGSW5fMURVNWtwaDB5UUNkeHBYRlI1cjB6RGw3N3RlYXl5WlByQUXSAbwBQVVfeXFMTmRNNE9uZDRqd0FBdXVxWWNMdXI2ZS1iRE5uVW1PMnNhVzhiWWZBc0hfWHExMC1OM2E3bFNoRnJHczR4cWZvQ09oVnVIS1NPVERseHJvMUFDU045SjFMMmkzSmctMEtvbE9FX0ZhMXB5UHJnQ0MxbUswTG9HUXJpVEY2MEcyUmZXSDdUTTZ3clczYkFiX0JmV2dJNnBIZ2ZFSlJwUWE4MGdmWUpMdmkzTHp1S2JqcnhUalQtUmc?oc=5
+
+- India AI Impact Summit 2026 Day 5 Live Updates: "AI Means Anti-India For Them," Says BJP On Congress Workers' Protest At AI Summit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxPUVVBcGk2RUpBR1JTQjdGOWFwSWtOQmE4VjJkSmdRSTNyYzh4dmJTRWJNUmgyM1BZVWZZSTVrMjZ2WEtpaG5QTWdlWE9aMTBsMW9PZm9semhGRk9hcTZia2FWVjdQbmVQOE
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPUVVBcGk2RUpBR1JTQjdGOWFwSWtOQmE4VjJkSmdRSTNyYzh4dmJTRWJNUmgyM1BZVWZZSTVrMjZ2WEtpaG5QTWdlWE9aMTBsMW9PZm9semhGRk9hcTZia2FWVjdQbmVQOEhwb2ZzMUtUSGxjU18zYlVnTVFNSlF0bm45cXNYbWRXUXZPTUdUcTFrZTExY1NDZ0dqc2gxMlJMdVREMlFLay13cEVEek1wVFBxZ3B1SXlLYXNaQzdkTnZhUGw0OFlObGhaNXR2SWpWNWk1NzRydTFCMFdTR0JVaGFzTk1WNWFiZktQZW9ibjlfdEhMUTFFTF91Z2luSVhvNEo2M3o0ZTZrZjZVRUxtejdXcWx0bHIxOGfSAaICQVVfeXFMTU8wNWt3QVlZN1lxR09FZ2NfZXlPNERzbDgxRVlzWXNOc2dFR2Z2LUc2dVdjeTRXeVlkZlJtakp2d3BqQ2xVOXFUeXNabDdFNUFhNXRpRUM0cXJVNEZ1bzViNk83WHpWbi1sbUVRdFJ1TWVYUUU1TDVaTUc2N3BJU1d0U2U5Q1NhZ3k4OHpiSlBNajFyaXpBUEJWS293V2xkQWRrWjBYU19xa0t2S2NWQmJBdjF5bmVuUjBxRnc2UTE5dTR3VFI5cjZ1MkJ5RzQ1Ykd0UDFHalVFbERGOTZkbjdsLVU3akxZQ1dWRkhfdi1abll5SmJpOG8yNE9GeDUxdmRWMkxGNnlHNkZRLUFoWUh2T1N6cHJvZzkyVlVDaGpWYmc?oc=5
+
+- Abu Dhabi to deploy exaflop-scale AI infrastructure to India - News On AIR
+  Abu Dhabi to deploy exaflop
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVV4c2UwYlRiY3liSjd3UUNXdjI4VGJtZVN3SVVWUFlSX2VQcC1ZNnFjZldVY2l0MjdmQU1iV3hsd3hjMnlVQ2xMWXl0QjU5X0JUWFc2MkY3bldUeGE3Wmx0bi1TVUFQU0x1WG5tdmRESFY0T3FuVGFHbk15XzR4clpiZktXWEgzMGhpSEtaMkJaU1pt?oc=5
+
+- Trump repeats claim of 'stopping' India-Pak war with new twist: '11 expensive jets shot down' | India News - Hindustan Times
+  '11 expensive jets shot down' is a new claim made by President Trump.
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNnBFcXlkN1VhaHJ2d0tRQ0hacGs0T1Azb1ZhM3Nzejh4cERFbXVqUTVEdWw3d0lQWVBQSS1ULUJld1pFTVZLZFJFbVlpVGdoUDVkM0RLcWsyd0ZQcHFtR0FQZlY5R2cxWU4tZzVocWY3bE0yQ2lGU3M4WkpidmxLWk1uYVdaZ3pzSEVOWUJuZWNsbEpXVWdfcWJwcUhlMTJmYUJiZ0JRUU4ya3BxZEt4aF96OWh3bS1HcDFVWkhrMW9NNW5LTHgtaUIwOXJ5eDc0QmNqTWltSnUyOVpsZ3JBTDNORUdvbXRwQ2lCR21USEdFcmvSAfgBQVVfeXFMUE51c1BwalZxZUpQU2xxd0xzOFpTb0FXR3FndGJ3Y2hxM1BON01hVGhmZS1UVC1UaVlaSFQtM0dnS1dlbnlxR2R4Nl81ZnNzenBJWGRfTjlUYVJ6eTExVjNMRzVTMExwS2FYeW1kZURnNkJXVmY3MzQ4RkRLYXYxRXpLUFRsakVmaXVpeGxEX2RrWG9UUElUUHlVY1FaY1c1MUVrdUZqQm4zUlRBQTZfRmZFZVdfNmRUY1ViWHpHTWdvVFRNVFNCUGR3TGxzcTh3X3JoTm5aQUxmcldmNGhsT0tsaTY4a192dHo5LTJEdHlDd0JZUDFXd2w?oc=5
+
+- '200% Tariff, 11 Jets Down': Trump's Latest On India-Pak Ceasefire - NDTV
+  '200% Tariff, 11 Jets
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjVPOXhxWE1ObDRNcnlyZmcxLUpDS09uc05sd2pEcURWY3Y2TXo0Z0JhMXd3SWVENXN6UF9Xb3kxdDZ5QjBYOGxOMHhSMWxhRVozUS1IblAwUDRqemQ4MGVES1Z0cnZLVkx1Sm43cDFoTk8xNVNhSWo2ZGZMam1wNWhEQnIxVW5qM1JpSEVNRzZELVUtZG56V3d6Y1laaVgtR25iNkFreVBOcXIwOEt4ZTV4b3JIWVFhMFVr0gHDAUFVX3lxTE5NVnV2ZjdWQ1ZIOXNuZ2o0cHJ3a0JSb2Y0OWFOdVlwd3BzQXpxTXkydEdyX3lQbTgtM3FfdDN0UllhdWlyaWNoRno2ZWpsYXVjdXpxRE9mRndXQlFRdzZ1WS04SkNKQnc2SkhacWxDMGJRMXJzQThmT3NPaU5sLUN2ZEtTbDlMYU1LZmpQZ0JBdWtCNjF1SHFZcHI1dnpUXzVBTnprVnJ5dnd5SDVHZU9fWG9yakhqWERlQU8zOGxEZjl2bw?oc=5
+
+- India Attends 1st Meet Of Trump's Board Of Peace In Washington As Observer - NDTV
+  India Attends 1st Meet Of Trump's Board Of
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0pjNWZ6UUwtMXA2eGhpNTlhVTd2Z2syQ0hMTFg4QTB4MDY2dmRJQTFFdUFkQW0xc0N2TXpKUDJFMVpZdDJVZWh1RHhIQ1l0c3B3cGtnNlJrTlBYNG5EOHR2UVB3WnFxdmV5a1Bnc2w2ZjR1cTZBVllZbzI3Zk0ydEszX19PSXVsaFI0SmhGSW5fMURVNWtwaDB5UUNkeHBYRlI1cjB6RGw3N3RlYXl5WlByQUXSAbwBQVVfeXFMTmRNNE9uZDRqd0FBdXVxWWNMdXI2ZS1iRE5uVW1PMnNhVzhiWWZBc0hfWHExMC1OM2E3bFNoRnJHczR4cWZvQ09oVnVIS1NPVERseHJvMUFDU045SjFMMmkzSmctMEtvbE9FX0ZhMXB5UHJnQ0MxbUswTG9HUXJpVEY2MEcyUmZXSDdUTTZ3clczYkFiX0JmV2dJNnBIZ2ZFSlJwUWE4MGdmWUpMdmkzTHp1S2JqcnhUalQtUmc?oc=5
+
+- India AI Impact Summit 2026 Day 5 Live Updates: "AI Means Anti-India For Them," Says BJP On Congress Workers' Protest At AI Summit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxPUVVBcGk2RUpBR1JTQjdGOWFwSWtOQmE4VjJkSmdRSTNyYzh4dmJTRWJNUmgyM1BZVWZZSTVrMjZ2WEtpaG5QTWdlWE9aMTBsMW9PZm9semhGRk9hcTZia2FWVjdQbmVQOE
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPUVVBcGk2RUpBR1JTQjdGOWFwSWtOQmE4VjJkSmdRSTNyYzh4dmJTRWJNUmgyM1BZVWZZSTVrMjZ2WEtpaG5QTWdlWE9aMTBsMW9PZm9semhGRk9hcTZia2FWVjdQbmVQOEhwb2ZzMUtUSGxjU18zYlVnTVFNSlF0bm45cXNYbWRXUXZPTUdUcTFrZTExY1NDZ0dqc2gxMlJMdVREMlFLay13cEVEek1wVFBxZ3B1SXlLYXNaQzdkTnZhUGw0OFlObGhaNXR2SWpWNWk1NzRydTFCMFdTR0JVaGFzTk1WNWFiZktQZW9ibjlfdEhMUTFFTF91Z2luSVhvNEo2M3o0ZTZrZjZVRUxtejdXcWx0bHIxOGfSAaICQVVfeXFMTU8wNWt3QVlZN1lxR09FZ2NfZXlPNERzbDgxRVlzWXNOc2dFR2Z2LUc2dVdjeTRXeVlkZlJtakp2d3BqQ2xVOXFUeXNabDdFNUFhNXRpRUM0cXJVNEZ1bzViNk83WHpWbi1sbUVRdFJ1TWVYUUU1TDVaTUc2N3BJU1d0U2U5Q1NhZ3k4OHpiSlBNajFyaXpBUEJWS293V2xkQWRrWjBYU19xa0t2S2NWQmJBdjF5bmVuUjBxRnc2UTE5dTR3VFI5cjZ1MkJ5RzQ1Ykd0UDFHalVFbERGOTZkbjdsLVU3akxZQ1dWRkhfdi1abll5SmJpOG8yNE9GeDUxdmRWMkxGNnlHNkZRLUFoWUh2T1N6cHJvZzkyVlVDaGpWYmc?oc=5
+
+- Abu Dhabi to deploy exaflop-scale AI infrastructure to India - News On AIR
+  Abu Dhabi to deploy exaflop
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVV4c2UwYlRiY3liSjd3UUNXdjI4VGJtZVN3SVVWUFlSX2VQcC1ZNnFjZldVY2l0MjdmQU1iV3hsd3hjMnlVQ2xMWXl0QjU5X0JUWFc2MkY3bldUeGE3Wmx0bi1TVUFQU0x1WG5tdmRESFY0T3FuVGFHbk15XzR4clpiZktXWEgzMGhpSEtaMkJaU1pt?oc=5
+
+- Trump repeats claim of 'stopping' India-Pak war with new twist: '11 expensive jets shot down' | India News - Hindustan Times
+  '11 expensive jets shot down' is a new claim made by President Trump.
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNnBFcXlkN1VhaHJ2d0tRQ0hacGs0T1Azb1ZhM3Nzejh4cERFbXVqUTVEdWw3d0lQWVBQSS1ULUJld1pFTVZLZFJFbVlpVGdoUDVkM0RLcWsyd0ZQcHFtR0FQZlY5R2cxWU4tZzVocWY3bE0yQ2lGU3M4WkpidmxLWk1uYVdaZ3pzSEVOWUJuZWNsbEpXVWdfcWJwcUhlMTJmYUJiZ0JRUU4ya3BxZEt4aF96OWh3bS1HcDFVWkhrMW9NNW5LTHgtaUIwOXJ5eDc0QmNqTWltSnUyOVpsZ3JBTDNORUdvbXRwQ2lCR21USEdFcmvSAfgBQVVfeXFMUE51c1BwalZxZUpQU2xxd0xzOFpTb0FXR3FndGJ3Y2hxM1BON01hVGhmZS1UVC1UaVlaSFQtM0dnS1dlbnlxR2R4Nl81ZnNzenBJWGRfTjlUYVJ6eTExVjNMRzVTMExwS2FYeW1kZURnNkJXVmY3MzQ4RkRLYXYxRXpLUFRsakVmaXVpeGxEX2RrWG9UUElUUHlVY1FaY1c1MUVrdUZqQm4zUlRBQTZfRmZFZVdfNmRUY1ViWHpHTWdvVFRNVFNCUGR3TGxzcTh3X3JoTm5aQUxmcldmNGhsT0tsaTY4a192dHo5LTJEdHlDd0JZUDFXd2w?oc=5
+
+- '200% Tariff, 11 Jets Down': Trump's Latest On India-Pak Ceasefire - NDTV
+  '200% Tariff, 11 Jets
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjVPOXhxWE1ObDRNcnlyZmcxLUpDS09uc05sd2pEcURWY3Y2TXo0Z0JhMXd3SWVENXN6UF9Xb3kxdDZ5QjBYOGxOMHhSMWxhRVozUS1IblAwUDRqemQ4MGVES1Z0cnZLVkx1Sm43cDFoTk8xNVNhSWo2ZGZMam1wNWhEQnIxVW5qM1JpSEVNRzZELVUtZG56V3d6Y1laaVgtR25iNkFreVBOcXIwOEt4ZTV4b3JIWVFhMFVr0gHDAUFVX3lxTE5NVnV2ZjdWQ1ZIOXNuZ2o0cHJ3a0JSb2Y0OWFOdVlwd3BzQXpxTXkydEdyX3lQbTgtM3FfdDN0UllhdWlyaWNoRno2ZWpsYXVjdXpxRE9mRndXQlFRdzZ1WS04SkNKQnc2SkhacWxDMGJRMXJzQThmT3NPaU5sLUN2ZEtTbDlMYU1LZmpQZ0JBdWtCNjF1SHFZcHI1dnpUXzVBTnprVnJ5dnd5SDVHZU9fWG9yakhqWERlQU8zOGxEZjl2bw?oc=5
+
+- India Attends 1st Meet Of Trump's Board Of Peace In Washington As Observer - NDTV
+  India Attends 1st Meet Of Trump's Board Of
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0pjNWZ6UUwtMXA2eGhpNTlhVTd2Z2syQ0hMTFg4QTB4MDY2dmRJQTFFdUFkQW0xc0N2TXpKUDJFMVpZdDJVZWh1RHhIQ1l0c3B3cGtnNlJrTlBYNG5EOHR2UVB3WnFxdmV5a1Bnc2w2ZjR1cTZBVllZbzI3Zk0ydEszX19PSXVsaFI0SmhGSW5fMURVNWtwaDB5UUNkeHBYRlI1cjB6RGw3N3RlYXl5WlByQUXSAbwBQVVfeXFMTmRNNE9uZDRqd0FBdXVxWWNMdXI2ZS1iRE5uVW1PMnNhVzhiWWZBc0hfWHExMC1OM2E3bFNoRnJHczR4cWZvQ09oVnVIS1NPVERseHJvMUFDU045SjFMMmkzSmctMEtvbE9FX0ZhMXB5UHJnQ0MxbUswTG9HUXJpVEY2MEcyUmZXSDdUTTZ3clczYkFiX0JmV2dJNnBIZ2ZFSlJwUWE4MGdmWUpMdmkzTHp1S2JqcnhUalQtUmc?oc=5
+
+- India AI Impact Summit 2026 Day 5 Live Updates: "AI Means Anti-India For Them," Says BJP On Congress Workers' Protest At AI Summit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimgJBVV95cUxPUVVBcGk2RUpBR1JTQjdGOWFwSWtOQmE4VjJkSmdRSTNyYzh4dmJTRWJNUmgyM1BZVWZZSTVrMjZ2WEtpaG5QTWdlWE9aMTBsMW9PZm9semhGRk9hcTZia2FWVjdQbmVQOE
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPUVVBcGk2RUpBR1JTQjdGOWFwSWtOQmE4VjJkSmdRSTNyYzh4dmJTRWJNUmgyM1BZVWZZSTVrMjZ2WEtpaG5QTWdlWE9aMTBsMW9PZm9semhGRk9hcTZia2FWVjdQbmVQOEhwb2ZzMUtUSGxjU18zYlVnTVFNSlF0bm45cXNYbWRXUXZPTUdUcTFrZTExY1NDZ0dqc2gxMlJMdVREMlFLay13cEVEek1wVFBxZ3B1SXlLYXNaQzdkTnZhUGw0OFlObGhaNXR2SWpWNWk1NzRydTFCMFdTR0JVaGFzTk1WNWFiZktQZW9ibjlfdEhMUTFFTF91Z2luSVhvNEo2M3o0ZTZrZjZVRUxtejdXcWx0bHIxOGfSAaICQVVfeXFMTU8wNWt3QVlZN1lxR09FZ2NfZXlPNERzbDgxRVlzWXNOc2dFR2Z2LUc2dVdjeTRXeVlkZlJtakp2d3BqQ2xVOXFUeXNabDdFNUFhNXRpRUM0cXJVNEZ1bzViNk83WHpWbi1sbUVRdFJ1TWVYUUU1TDVaTUc2N3BJU1d0U2U5Q1NhZ3k4OHpiSlBNajFyaXpBUEJWS293V2xkQWRrWjBYU19xa0t2S2NWQmJBdjF5bmVuUjBxRnc2UTE5dTR3VFI5cjZ1MkJ5RzQ1Ykd0UDFHalVFbERGOTZkbjdsLVU3akxZQ1dWRkhfdi1abll5SmJpOG8yNE9GeDUxdmRWMkxGNnlHNkZRLUFoWUh2T1N6cHJvZzkyVlVDaGpWYmc?oc=5
+
+- Abu Dhabi to deploy exaflop-scale AI infrastructure to India - News On AIR
+  Abu Dhabi to deploy exaflop
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVV4c2UwYlRiY3liSjd3UUNXdjI4VGJtZVN3SVVWUFlSX2VQcC1ZNnFjZldVY2l0MjdmQU1iV3hsd3hjMnlVQ2xMWXl0QjU5X0JUWFc2MkY3bldUeGE3Wmx0bi1TVUFQU0x1WG5tdmRESFY0T3FuVGFHbk15XzR4clpiZktXWEgzMGhpSEtaMkJaU1pt?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-20 06:53:07 UTC_
+_Last updated: 2026-02-20 12:50:31 UTC_
