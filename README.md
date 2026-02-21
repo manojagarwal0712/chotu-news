@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Amit Shah at Assam border village: Will send back every infiltrator
+  
+  🔗 https://indianexpress.com/article/india/amit-shah-at-assam-border-village-will-send-back-every-infiltrator-10543516/
+
+- Centre forms Empowered Committee for CAA implementation in West Bengal
+  
+  🔗 https://indianexpress.com/article/india/centre-forms-empowered-committee-for-caa-implementation-in-west-bengal-10543517/
+
+- Trade, defence on table as PM Modi meets Lula today
+  
+  🔗 https://indianexpress.com/article/india/trade-defence-on-table-as-pm-modi-meets-lula-today-10543438/
+
 - PM condoles Manipur BJP MLA Valte’s demise
   
   🔗 https://indianexpress.com/article/india/pm-condoles-manipur-bjp-mla-valtes-demise-10543294/
@@ -8,77 +20,65 @@
   
   🔗 https://indianexpress.com/article/india/mani-shankar-mukherjee-novelist-passed-away-kolkata-10543283/
 
-- Rishab Rikhiram, Anoushka Shankar and the question of lineage
+- From apes to wolves, we are changing the face of conservation tech: Rushikesh Chavan, Director, The Habitats Trust
   
-  🔗 https://indianexpress.com/article/india/rishab-rikhiram-anoushka-shankar-and-the-question-of-lineage-10543248/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-conservation-rushikesh-chavan-the-habitats-trust-10542679/
 
-- Congress to hold ‘kisan sammelans’ against US trade deal, first in Bhopal on Feb 24
+- Microsoft to train 20 lakh teachers in AI by 2030, launches initiative in Delhi
   
-  🔗 https://indianexpress.com/article/india/congress-to-hold-kisan-sammelans-against-us-trade-deal-first-in-bhopal-on-feb-24-10543240/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-to-train-20-lakh-teachers-in-ai-by-2030-launches-initiative-in-delhi-10543524/
 
-- ‘I take responsibility’: Kailash Vijayvargiya says water contamination incident a ‘stain’ on Indore, but it ‘will be washed away’
+- From mental health issues to cancer care: AI startups reimagine healthcare access with smart diagnostics, digital tools, tele-doctors
   
-  🔗 https://indianexpress.com/article/india/i-take-responsibility-kailash-vijayvargiya-says-water-contamination-incident-a-stain-on-indore-but-it-will-be-washed-away-10543184/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/from-mental-health-issues-to-cancer-care-ai-startups-reimagine-healthcare-access-with-smart-diagnostics-digital-tools-tele-doctors-10543492/
+
+- ‘India is building AI, not just using it’: Sam Altman at Express Adda, key takeaways
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-at-express-adda-key-takeaways-10543447/
 
 - ChatGPT ads go live: OpenAI tests sponsored responses with select brands
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-ads-go-llve-openai-tests-sponsored-responses-with-select-brands-10542982/
 
-- ‘India must become the global hotbed for AI-native creative talent’: Vice chairman of JioStar Uday Shankar
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/india-must-become-the-global-hotbed-for-ai-native-creative-talent-vice-chairman-of-jiostar-uday-shankar-10542995/
+- ‘Pursuing three-year plan for India as top growth market for IBM’
+  IBM is focusing on middleware solutions and sector-specific AI models. The firm is avoiding consumer applications and foundational AI development.
+  🔗 https://www.livemint.com/companies/news/pursuing-three-year-plan-for-india-as-top-growth-market-for-ibm-11771599379774.html
 
-- POVA Curve 2 debuts in India as ‘world’s slimmest’ 8000mAh smartphone
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/pova-curve-2-debuts-in-india-as-worlds-slimmest-8000mah-smartphone-10542978/
+- Zscaler partners with Bharti Airtel to launch AI &amp; cyber threat research center
+  The AI &amp;amp; Cyber Threat Research Centre – India is a collaboration between Zscaler and Airtel.
+  🔗 https://www.livemint.com/news/us-news/zscaler-partners-with-bharti-airtel-to-launch-ai-cyber-threat-research-center-11771604261643.html
 
-- Tech Mahindra, NVIDIA expand Project Indus with education-focused LLM
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/tech-mahindra-nvidia-expand-project-indus-with-education-focused-llm-10542608/
+- South Africa Cattle Virus Response in ‘Shambles’ Says Dairy Firm
+  South Africa's dairy industry is at serious risk, says one of the country's leading dairy companies. Restrictions placed on the dairy
+  🔗 https://www.livemint.com/companies/south-africa-cattle-virus-response-in-shambles-says-dairy-firm-11771613842743.html
 
-- OpenAI data shows India among the most advanced ChatGPT users globally
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-data-shows-india-among-the-most-advanced-chatgpt-users-globally-10542613/
+- Brazil’s Top Court Allows Police to Deepen Master Probe
+  A Brazilian Supreme Court justice broadened police access to a fraud investigation into Banco Master SA. The move allows authorities to deepen the probe
+  🔗 https://www.livemint.com/companies/brazils-top-court-allows-police-to-deepen-master-probe-11771612985874.html
 
 - Distributors, retailers risk missing out on Trump tariff refunds
   Distributors, retailers
   🔗 https://www.livemint.com/companies/distributors-retailers-risk-missing-out-on-trump-tariff-refunds-11771612678715.html
 
-- Peak XV raises $1.3 billion to invest in India, APAC, other regions
-  The new fundraise comes at the back of several top leadership exits at the venture capital firm.
-  🔗 https://www.livemint.com/companies/news/peak-xv-raises-1-3-billion-to-invest-in-india-apac-other-regions-11771598151848.html
+- Silver rate outlook: White metal historically consolidates 3–8 years — Are we on the cusp of next such phase?
+  Silver is notorious for entering long periods of consolidation. History suggests sharp moves have been followed by cooling periods that have lasted from months to years.
+  🔗 https://www.livemint.com/market/commodities/silver-rate-outlook-silver-price-historically-consolidates-3-8-years-are-we-on-the-cusp-of-next-such-phase-11771590200822.html
 
-- Blow to Elon Musk as US court refuses to scrap $243 million payout ruling in Tesla autopilot crash case
-  A federal judge denied Tesla's request to scrap $243 million payout to victims of a 2019 crash involving an Autopilot Model S. The judge said the trial evidence
-  🔗 https://www.livemint.com/companies/news/blow-to-elon-musk-as-us-court-refuses-to-scrap-243-million-payout-ruling-in-tesla-autopilot-crash-case-11771598808629.html
+- Pulse of the Street: Oil jitters cap gains; markets end the week flat
+  Higher crude oil prices, sectoral churn
+  🔗 https://www.livemint.com/market/market-stats/pulse-of-the-street-oil-jitters-cap-gains-markets-end-the-week-flat-11771595904879.html
 
-- Livspace trims workforce by 1,000 in AI transition, co-founder exits
-  The move follows an internal reorganization as Livspace
-  🔗 https://www.livemint.com/companies/start-ups/livspace-1000-jobs-cut-ai-transition-cofounder-exits-home-interior-platform-11771595831125.html
+- Canadian dollar posts weekly decline as investors weigh US tariff ruling
+  Canadian dollar posts weekly decline as investors weigh
+  🔗 https://www.livemint.com/market/canadian-dollar-posts-weekly-decline-as-investors-weigh-us-tariff-ruling-11771619539915.html
 
-- XED appoints money maker Evermore to address liquidity for a year after GIFT City listing
-  XED plans to raise additional capital in the future and aims to list on multiple exchanges in India and
-  🔗 https://www.livemint.com/companies/xed-money-maker-evermore-liquidity-gift-city-listing-ipo-11771587805007.html
+- European Stocks Head for Fourth Weekly Gain on Positive Earnings
+  European shares set to advance for a fourth week in a row. Strong earnings draw more
+  🔗 https://www.livemint.com/market/european-stocks-head-for-fourth-weekly-gain-on-positive-earnings-11771614160590.html
 
-- Gift Nifty surges over 300 points after US Supreme Court axes Trump's tariffs. Details here
-  Gift Nifty surged over 300 points on February 20 after the US Supreme Court rejected Trump's
-  🔗 https://www.livemint.com/market/stock-market-news/gift-nifty-surges-over-300-points-after-us-supreme-court-axes-trumps-tariffs-details-here-11771608671133.html
-
-- Gold, silver rates today: Comex gold jumps $71/oz; silver gains $3.5/oz on US-Iran tensions
-  Gold and silver prices surged on 20 February due to rising US-Iran tensions. Gold futures at $5,068 and silver at $81.1. In the domestic market, April
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-71-oz-silver-gains-3-5-oz-on-us-iran-tensions-11771596647963.html
-
-- Wall Street rebounds after Supreme Court's decision against Trump tariffs
-  At 10:23 a.m. the Dow Jones Industrial Average rose 0
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-slips-after-gdp-and-pce-data-11771597155068.html
-
-- PSU banks shine in volatile market; Nifty PSU Bank jumps 5.4%, logs third straight weekly gain
-  Nifty PSU Bank index rose 5.45% this week, reaching record highs. This growth reflects strong investor confidence, driven
-  🔗 https://www.livemint.com/market/stock-market-news/psu-banks-shine-in-volatile-market-nifty-psu-bank-jumps-5-4-logs-third-straight-weekly-gain-11771593817884.html
-
-- 9,900% returns in five years! Multibagger stock to be in focus on Monday; here's why
-  Hazoor Multi Projects, has received a  ₹182 crore order from Tata Steel for residential units. Between April 2021 and September 2024, the small-cap stock received strong interest from
-  🔗 https://www.livemint.com/market/stock-market-news/9900-returns-in-five-years-multibagger-stock-to-be-in-focus-on-monday-heres-why-11771588032771.html
+- European Stocks Head for Fourth Weekly Rise on Positive Earnings
+  European shares set to advance for a fourth week in a row. Strong earnings draw more
+  🔗 https://www.livemint.com/market/european-stocks-head-for-fourth-weekly-rise-on-positive-earnings-11771614160846.html
 
 - IT leaders discuss AIs impact on SaaS at India AI Impact Summit
   IT leaders discuss AI's impact on
@@ -100,125 +100,125 @@
   A little-known Chinese AI company recently released an open-source reasoning model. It challenged Western dominance and was developed at
   🔗 https://www.livemint.com/technology/are-deepseek-moments-now-the-new-normal-11771585662215.html
 
-- European stocks close higher after U.S. Supreme Court strikes down Trump's tariffs - CNBC
-  European stocks close higher after U.S. Supreme
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUdha0tXTjN5MGM0Uld6b29Ydjg0WTQzVElUUW44UmxrLVBBaXBJWXVyWnFlQ0toZFV0MzJiV29hX0M4RUd1b1RSalR6clM2VGU5eVNvNUt3aW1hMzhRbFQ2ZnMxYlMwajV4ZWZZQXpVMGV6bzRjVjd0M2tRdDV5OW5tVmtYTXlZeUNfedIBkgFBVV95cUxOQ2ZBYThXa05tYXNsTmtPb2dmLWcxMzlLa1hlNW9lTUhQV2JaMDdSZHJhbnVubWgyczlNUkhqbE9YMERpSUhVQm5TYUJmc0dQdjVLZWtXWGhGZGZaRnhVUEliRWVZV1kxb2taUXNmMUo3NFpxaTg1bXZkdVJFcGVVa3pCeXJ6dVNLQTd0Y2Q4bmxjZw?oc=5
-
-- Stock Market Today: Stocks Pare Gains After Supreme Court Strikes Down Tariffs; GDP Data Disappoints - Investopedia
-  Stock Market Today: Stocks Pare Gains After Supreme Court
+- Markets News, Feb. 20, 2026: Stocks Rise After Supreme Court Strikes Down Tariffs; Nasdaq Snaps 5-Week Losing Streak - Investopedia
+  European stocks close higher after U.S. Supreme Court strikes down Trump's tariffs. Nasdaq Snaps 5-Week Losing Streak.
   🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQTXBmWTNpVzRBeFpsVWUyeEJHbm9oNjJjUk1Ed2FLVkFnakxFXzJtZm80bW1nVXhNT1FZYmVSelp0Vy1qUVJBVGZFR2dyUjZFeU4tcGlCdlRXd3ZsTWl1VzRrUS1pNzJoN3VYcmU0cUMtSFJ0aFgxTmt1OHJNaVlHV3d2ZmxIYmJoUGZUZHg0Tzg?oc=5
 
-- US stocks today: Markets jump after Supreme Court strikes down Trump tariffs; investors weigh weak data - The Times of India
-  The Times of India is a leading English-language newspaper based in India.
-  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxQQklmZmxkalQtU3V5SS0tYmh5Y2NIWjBLcUhaN2FmZlZNTmhDSnlBT0RfMHd6YXAtRDhFcFA1aFJUVFlsY2RvOWFfVmRSNUlIMXA3X1lxTjFEQVliUjlFQVFNcjZjcXVNN2MxQXVZZWVEU3NjRFMyOVBQMHhuMEgwdFFNTU9uNzd3bVFUUHQxLUVleWxKQ1B1WUk4QXNxQmZmOW5kQ3ozTlFSU0tQNV9NNkVGUU9lMHBIVjZvSy1yc3ktWHZmb2ZlY2V5NnRIMUN6VEtrMVVGdW1tM25QTEt6NllhRzNWd1RMU2FFQmRveUVySHRkQy1lT01uZDdYZXlqbnBydHpMY0JtcUphalRzNnZmc215dTRJNjVidW44TURtRFQ1bS1nNWNn0gGvAkFVX3lxTFBNcVNmWHpFLTIzLWdLbEtUR0VRY3hDVlh1YzNKbGw0dzZPNGtSSmxvanNfZGlBUzFQdzA1NmJUV2xCaFlHa0tseVBxV0hsYUtDUTRjUlpRdmNoQVNhSVV3T0JfY214QlpSRm1oWTFIcW14YmRVQ1ZNbmNaQVZZSG1nU0RPcGtfcjdXalNrN0J1QXVGRUNvTUZsLWEwSWxTVFdTaC0tWXVKZ0RDTUdKb2RPSDkyeEc1WDI0bmQ3RERDSWdRaFg5NnFSVTZSS3BEbTgtQVdaMklUR2dKTjNWak9zajRQTkFkSjlIWmRtT1BvUGhmUU9CTk9qanNDTHhzb3hqWlJOZUlySlhEN2p0bjAwS3ozUWQ5YlByWGZ5THVTdkd6TFFnMVFRXzVEc005NA?oc=5
+- Impact of AI on labour market will be like 'tsunami': IMF chief - The Times of India
+  Impact of AI on labour market will be like 'tsun
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLVYxUlhsU0dETjFnQWNkU1lRMk1JMW9OUmJEOE5zLWx4R2dKakVzektIaEV6ZWI5ZjlWM0pQUmljZlF2NGs1dVRCSExKSzFRRmxGSTBlRmJPdEFlbjlfNWc2OXBPQnRVVnUyTTFKU0NXUjZIUnFTVzdJb0g3blotMFJLeGJtWFd2OHdLamUyemFJNFBiTnFkZHZMV056QTl6ZDNSZm56d05ta0RBXy1tdF9sbHhRU3dpZ0lYWklXRktwUHJkRjFQZUJCTEVtcVlsYURxYWNHM09NbUNlU3pJ0gHkAUFVX3lxTE1oaHdsTnpaeXltVVNlRFBUQmVXUEVuNHRnU1dhUG5tZ3RyVGVIc3p6OGlJaklWNFBSX3A0VWpCUU1TcnBCQTJqWnpuRDl3U0FfeTJ6YnlydjRFM2NCZC1zODduVUthSk1SQXF0dFB3Q1hoUWVYbFJ5X3ZaSjB4LUwxc2JtX1FUaTdyeHZidzNLQW9sY0FzQ1RhUnJ6OF94VzZKdlN0TzVMRGxFZ2hUZFRHcF95WFVfWGVXOEc4ZTVseFZDWnRvNjVaby0yeVZyTVd4MzhDeGdMOXFCYThXQkptS0tDMA?oc=5
 
-- Stocks Fall, Oil Climbs with Geopolitics in Focus: Markets Wrap - Bloomberg.com
-  The markets are taking a turn for the
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXkyWDJESk9JX0tNNVhBX2hHNWZ1TmhzQlR3UG1FZHdkQjl2M0hUODdHcGhVeDVweXRWa1EtYVFGUzdxbmxKUEpRbzB1ZEl4ZGVyUmlXdjhsNjJvQi1iZ1k1U3BVd1otX3JCS3ZMZExOalQ0cTFkM3NrWUJ5V1dqcS16Q3lIQzhEZDN2U2hyajlleEFx?oc=5
+- Closing Bell: Market recovers; Nifty above 25,550, Sensex up 317 pts, IT lags - Moneycontrol
+  Nifty above 25,550, Sensex up 317
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVXgwNEFhblF4RDFrS042VEl5djlLZFFFNFJfdUt0WW45Qk54cFhtcHphcF9EZ0J2LVBPeEZjdjZpSzFhRGx4ZWFXd3hYZzBxRTNSSnZ5QnRHOUZMaGdEQzZyRjF0R3pzWFpaT21fcy1SYzFfQXJBSjd4ZTdnZFRFek1ETi13a0RCVmdGdUZEb3pEQWVCSUthZVR5R2RYQS1NMlRBYzdPMlAzUDBlSXVmZzRCNG1rczBlYjhobndFZWo0R2M4WWM4amMwaGVxaHpVZnJya3FndEtTNTJnRmFhOTg0d1FncS1iYWR5SQ?oc=5
 
-- Markets News, Feb. 19, 2026: S&P 500, Dow Snap Winning Streak as U.S.-Iran Tensions Drive Oil Prices to 6-Month High - Investopedia
-  The U.S.-Iran Tensions Drive Oil Prices to 6-Month High.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNMWV1SWhqeG5rUmRoT056RWRwS3FRTE04YTBYTnBCeFFuUnRhLXlaZ290anRqWFhqNEVkQTRENkhqUDJQa0Vvc0ozSDNZLU9ZTkVJc1dqQ19RQUxOQkxPWjBZY2VKTzdrbVNtWldyVDBiQmRKMWdZaWlVWkpPNXpmRURndEFTcHA4d2F1emRNaVY?oc=5
+- Stock Market Highlights Feb 20: Bank-led rally lifts markets as Sensex closes 316 pts higher, Nifty ends at 25,571 - BusinessLine
+  The Sensex closes 316 pts higher, Nifty ends at 25,571.
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOaFBhUE9acUVidDJzeTdTWFZVaENVTDVUMXdNbWpNMy0yZ0ViOW42TGh4LXJocU1mNk9wMEVUOWtQQTVEdmd1XzloYy11eXNKMkJFRF93TE9hLUI5WHYyNkI2X0M0U0laQlluRWZmSi1sX25nbi01LXVyZW5zUlZRZUpwVl8zbExZODdpSEFfMndTWXh1aTRhQUtnX3A5NFNZRHI3eG9uV1QySVMxLWJQMGh4MjhXQVJZSDJVakpFMNIBxgFBVV95cUxNTXA0UlBZaWVIblVrYjZjbHJ6Z2dXdFBjOEk5SGlJUktiUkoxdmE4QnItZWVUbDVmY3RWazdJRGRPdjFZb1lHYTE3Y3NlNGxnTVBuZGtyNnhveGdUd3lmM1ZXbjc5WVJTRVRHaEhXclQwaW43OG1hZWdheTNURkhNV0Z1OTI2R0hNUUtZY3pzd09jWFVQTmQzV2d3Zm9LdDFkU0w4cnkyT21lNER2Mi05SHFOcTdiWFBjVk1MUGhIQ0VTQVRKS2c?oc=5
 
-- European stocks close higher after U.S. Supreme Court strikes down Trump's tariffs - CNBC
-  European stocks close higher after U.S. Supreme
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUdha0tXTjN5MGM0Uld6b29Ydjg0WTQzVElUUW44UmxrLVBBaXBJWXVyWnFlQ0toZFV0MzJiV29hX0M4RUd1b1RSalR6clM2VGU5eVNvNUt3aW1hMzhRbFQ2ZnMxYlMwajV4ZWZZQXpVMGV6bzRjVjd0M2tRdDV5OW5tVmtYTXlZeUNfedIBkgFBVV95cUxOQ2ZBYThXa05tYXNsTmtPb2dmLWcxMzlLa1hlNW9lTUhQV2JaMDdSZHJhbnVubWgyczlNUkhqbE9YMERpSUhVQm5TYUJmc0dQdjVLZWtXWGhGZGZaRnhVUEliRWVZV1kxb2taUXNmMUo3NFpxaTg1bXZkdVJFcGVVa3pCeXJ6dVNLQTd0Y2Q4bmxjZw?oc=5
+- Market Highlights: Sensex settles 316 pts higher, Nifty above 25,550; NTPC rises 3%, L&T 2% - The Economic Times
+  Market Highlights: Sensex settles 316 pts higher, Nifty above 25,
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxQbVVodUJOak1KdV9OUVlaMmdBaEF5S0ZPTDZRYUlxb3hyVU5EOVg3blFPNkR0cGUwdktQWDNMcEFkNDNWTUJkemprM2N6Z1pabnJaaDRHVjBQN2xnZVI1QjlwNWU2QUt4ODFpWE9lcEpZYVpGOFJ3QmVIckFQSEdQWkI0WWFTY2lsWlVOZF8zUHlWVG5HTEZPU3JNZVNLaUl0WWFGYzVmaDc2SVdQV2lIdjVQZE5jUXM3LVhIaURyVEt0TFN0YW1iYTJmMVA1ZEM2aXR2dE9Gdml0THBCTllDdW14YmZtQzE4ZVhVcS01Nk8yRGpQU3dVd3A4RENHcnRxTjBxSlVBWUlYbHdXcGwzN9IBlgJBVV95cUxOUkFrN1BDSXEyclZOT3FQRVAtSkg5NFpGZDVnT1BqWTZ5b0x5OEY1NnVXWDNoSXZvSmRxRHo0UFJmTlUxQmNzMU5lYUlELWp3Y2hGYXYwMVN5c3YzRXhRZ0ZKdnA0UUYwLUZFbUpqT1dIYVV3UkRCb0VydWVtb2JrMkdIOHAxdEZGU1lpV3pMWlYyQmVvMGZzNlE3eXJleDYwTG9jbG9HTGw3OUZzeGhfR1F3a0ZQd1N5TTVkRWZTaXdwX0oteGxNaXVhdURiRjJDS2tkaHNHWDAzbU5OUmswNVNQOUh3UE5xWXcyR21HdnpIQTczb1ZHT0NYVDVGdDhOMEpubWdiR1ZTZm5QclIyUTY5d0ItQQ?oc=5
 
-- Stock Market Today: Stocks Pare Gains After Supreme Court Strikes Down Tariffs; GDP Data Disappoints - Investopedia
-  Stock Market Today: Stocks Pare Gains After Supreme Court
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQTXBmWTNpVzRBeFpsVWUyeEJHbm9oNjJjUk1Ed2FLVkFnakxFXzJtZm80bW1nVXhNT1FZYmVSelp0Vy1qUVJBVGZFR2dyUjZFeU4tcGlCdlRXd3ZsTWl1VzRrUS1pNzJoN3VYcmU0cUMtSFJ0aFgxTmt1OHJNaVlHV3d2ZmxIYmJoUGZUZHg0Tzg?oc=5
+- Trump made tariffs central to his presidency. Chaos may come next
+  The Supreme Court delivered a rare rebuke to President Trump, ruling he lacked the power to declare an economic emergency and impose sweeping tariffs. Democrats seized on the ruling, stating Trump "is not a king"
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/trump-made-tariffs-central-to-his-presidency-chaos-may-come-next/articleshow/128617402.cms
 
-- US stocks today: Markets jump after Supreme Court strikes down Trump tariffs; investors weigh weak data - The Times of India
-  The Times of India is a leading English-language newspaper based in India.
-  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxQQklmZmxkalQtU3V5SS0tYmh5Y2NIWjBLcUhaN2FmZlZNTmhDSnlBT0RfMHd6YXAtRDhFcFA1aFJUVFlsY2RvOWFfVmRSNUlIMXA3X1lxTjFEQVliUjlFQVFNcjZjcXVNN2MxQXVZZWVEU3NjRFMyOVBQMHhuMEgwdFFNTU9uNzd3bVFUUHQxLUVleWxKQ1B1WUk4QXNxQmZmOW5kQ3ozTlFSU0tQNV9NNkVGUU9lMHBIVjZvSy1yc3ktWHZmb2ZlY2V5NnRIMUN6VEtrMVVGdW1tM25QTEt6NllhRzNWd1RMU2FFQmRveUVySHRkQy1lT01uZDdYZXlqbnBydHpMY0JtcUphalRzNnZmc215dTRJNjVidW44TURtRFQ1bS1nNWNn0gGvAkFVX3lxTFBNcVNmWHpFLTIzLWdLbEtUR0VRY3hDVlh1YzNKbGw0dzZPNGtSSmxvanNfZGlBUzFQdzA1NmJUV2xCaFlHa0tseVBxV0hsYUtDUTRjUlpRdmNoQVNhSVV3T0JfY214QlpSRm1oWTFIcW14YmRVQ1ZNbmNaQVZZSG1nU0RPcGtfcjdXalNrN0J1QXVGRUNvTUZsLWEwSWxTVFdTaC0tWXVKZ0RDTUdKb2RPSDkyeEc1WDI0bmQ3RERDSWdRaFg5NnFSVTZSS3BEbTgtQVdaMklUR2dKTjNWak9zajRQTkFkSjlIWmRtT1BvUGhmUU9CTk9qanNDTHhzb3hqWlJOZUlySlhEN2p0bjAwS3ozUWQ5YlByWGZ5THVTdkd6TFFnMVFRXzVEc005NA?oc=5
+- ​Gift Nifty jumps 400 points from lows after US Supreme Court strikes down Trump tariffs
+  US Supreme Court ruling has dismantled former President Trump's broad tariffs. This decision, rejecting the use of emergency powers for trade policy, offers a potential reset for international trade tensions.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-jumps-400-points-from-lows-after-us-supreme-court-strikes-down-trump-tariffs/articleshow/128616502.cms
 
-- Stocks Fall, Oil Climbs with Geopolitics in Focus: Markets Wrap - Bloomberg.com
-  The markets are taking a turn for the
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXkyWDJESk9JX0tNNVhBX2hHNWZ1TmhzQlR3UG1FZHdkQjl2M0hUODdHcGhVeDVweXRWa1EtYVFGUzdxbmxKUEpRbzB1ZEl4ZGVyUmlXdjhsNjJvQi1iZ1k1U3BVd1otX3JCS3ZMZExOalQ0cTFkM3NrWUJ5V1dqcS16Q3lIQzhEZDN2U2hyajlleEFx?oc=5
+- Gold pares gains after U.S. Supreme Court strikes down Trump tariffs
+  Gold prices trimmed some gains on Friday as investors assessed the U.S. Supreme Court ruling striking down President Donald Trump's broad tariff plan. The
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/precious-gold-pares-gains-after-u-s-supreme-court-strikes-down-trump-tariffs/articleshow/128615552.cms
 
-- Markets News, Feb. 19, 2026: S&P 500, Dow Snap Winning Streak as U.S.-Iran Tensions Drive Oil Prices to 6-Month High - Investopedia
-  The U.S.-Iran Tensions Drive Oil Prices to 6-Month High.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNMWV1SWhqeG5rUmRoT056RWRwS3FRTE04YTBYTnBCeFFuUnRhLXlaZ290anRqWFhqNEVkQTRENkhqUDJQa0Vvc0ozSDNZLU9ZTkVJc1dqQ19RQUxOQkxPWjBZY2VKTzdrbVNtWldyVDBiQmRKMWdZaWlVWkpPNXpmRURndEFTcHA4d2F1emRNaVY?oc=5
+- US stocks: US stock indexes rise after Supreme Court rules against Trump's tariffs
+  The Dow Jones Industrial Average, S&amp;P 500, and Nasdaq Composite all saw significant gains. Thousands of companies had challenged these levies.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stock-indexes-rise-after-supreme-court-rules-against-trumps-tariffs/articleshow/128614359.cms
 
-- Trump's tariffs struck down by US top court: Does it mean zero tariff on India? | India News - Hindustan Times
-  The Indian government has imposed a 25 per cent tariff on imports from India. The move
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMW40SERmRnVWOVJibWVFZmNiU2x5SldHdDZ2aEJZV2dlRVpKVnZzbU1SUXJXOGpyUmM5YTdfUUJBR0MtcUdKYjFYcFB0Y2NTcmI4T1VQaHdabmxWMHpQR3pHZE4xY1FkU2hqcjhyeUs3TG1Ga1UzVWIxQU1mQ3hBNU1QQlVRNDMzclctaTYxT2NrYkZhMHZPeTM0dExqN0oxeVRiQnlsdFFGdFhkaE9DTXFEZ2JnckJzcDFvaGRsMFkxWDRBbXhhN19HZml4YzRnb2R0RNIB2gFBVV95cUxNT0pIVXM2N0szWklRN3Zsc0hCUGtsME01U0dESWdOcGZlOWhfUE9SZ0VpVUMxSEExN1lTenFZb3ZrMW83bnpLRHpvNXVrc3RjSC1xVThhbHkxQjM0eG5zVEhqZ1gwbHZZT2lfeml1SXZ3eDI3dnczQUdwSmNHUGxiZGs2bGNzcU9JSVFxWV9BMHV0MUF3Nk1USmdhMEtSNXREZlFFWGJFV01BQklEb3dySEF6RGozdE9VQjFERDAyMkZSQVc2b2JjRDBIbkNWVUdCc2dvLTMxeUdOUQ?oc=5
-
-- Trump's Loss, India's Gain? How Tariff Order Could Affect Trade Talks - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SEEtMTlqOU1CSHZPeEVjOUV4dl92X09Sc3VVemE0Qm1YYXYxUEJ0UXNycmw4a1FtdDhPZ2J0eGNncTVGV3dtam1FWUNsSUdBUjY2Y2loUDhhLVNtbENnU2lfMklKV3JtN0dCTzVzSnFFMTRr0gHbAUFVX3lxTE1RRndhc2ZmaElpay1sU01FaHdqd0ExWkZsWEFidXczVy1vUTctSW1tMVhzWWJVS3JoR01QZTFidGJrMGNZVTMyUlVLaWg4QnY1SG5NS3IybXdRemRWLTZ2WW1QU3hhSjNrRlViTVYxVnlER3F0Y3FmV1daMXZkQ0Y2MjdRaGdkWVdRNEJmQVU5bXZwN05WNUo4WEVYQjlBcG1XWHI5eHRXM2tCOVhpVlI2NEo4Q2taaUpVNmhyTU5VRlBmV1B4V2ZGZXN4Sm1XSlY1S3VjUmJsVkdJTQ?oc=5
-
-- Historic trade deals put India on global stage - but challenges remain - BBC
-  Historic trade deals put India on global stage -
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
-
-- Trump repeats claim of 'stopping' India-Pak war with new twist: '11 expensive jets shot down' | India News - Hindustan Times
-  '11 expensive jets shot down' is a new claim made by President Trump.
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNnBFcXlkN1VhaHJ2d0tRQ0hacGs0T1Azb1ZhM3Nzejh4cERFbXVqUTVEdWw3d0lQWVBQSS1ULUJld1pFTVZLZFJFbVlpVGdoUDVkM0RLcWsyd0ZQcHFtR0FQZlY5R2cxWU4tZzVocWY3bE0yQ2lGU3M4WkpidmxLWk1uYVdaZ3pzSEVOWUJuZWNsbEpXVWdfcWJwcUhlMTJmYUJiZ0JRUU4ya3BxZEt4aF96OWh3bS1HcDFVWkhrMW9NNW5LTHgtaUIwOXJ5eDc0QmNqTWltSnUyOVpsZ3JBTDNORUdvbXRwQ2lCR21USEdFcmvSAfgBQVVfeXFMUE51c1BwalZxZUpQU2xxd0xzOFpTb0FXR3FndGJ3Y2hxM1BON01hVGhmZS1UVC1UaVlaSFQtM0dnS1dlbnlxR2R4Nl81ZnNzenBJWGRfTjlUYVJ6eTExVjNMRzVTMExwS2FYeW1kZURnNkJXVmY3MzQ4RkRLYXYxRXpLUFRsakVmaXVpeGxEX2RrWG9UUElUUHlVY1FaY1c1MUVrdUZqQm4zUlRBQTZfRmZFZVdfNmRUY1ViWHpHTWdvVFRNVFNCUGR3TGxzcTh3X3JoTm5aQUxmcldmNGhsT0tsaTY4a192dHo5LTJEdHlDd0JZUDFXd2w?oc=5
-
-- BRO clears snow, NH-701A thrown open before time - The Times of India
-  The Times of India reported that the incident occurred
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ25nOERiVzRJbmx5aE1tUTEybDJRWUNVelVnQ2E4VS1vOFFKal9tY1hLYmNrNmNnWDVObkJFUEJTeHBHZ3JNUVo4dlZMX1VBZ3JJZWVXanhEVDU1djV0c3VfNVVTbXU1QzFnaEtGTUVOc29kMUNCUTFnaW1lUHlHYkI0ZG5uajIyZDk2a2xtUURJZ09EaS1ENHBCY1JOU0FHaGMyejFuSC1wRzRQbEVGcURQZHRmUdIBuwFBVV95cUxNVE1vUGJSWjVpeV9ZU3o3Z0ZGRVozZjUxYlNkVUtSMXhadTc0am9adzVnQURXMnpZNURqcjRkbDJOd3U3c0dyTnljZFJnUk5LNWlwLVpLaV8wNVpMc25LTDBya0JVdFJmcDRCeDgydGNOM1ZzREJCZmpWYmlpRnEzd1hJSFh2amFpRk0yOTBtUmlQYW05NHZaQ2hWYzdrMEMxMkhYNV9fdWdHZ19FRFVlZ1NCT0E2Ul9FYzVR?oc=5
-
-- Trump's tariffs struck down by US top court: Does it mean zero tariff on India? | India News - Hindustan Times
-  The Indian government has imposed a 25 per cent tariff on imports from India. The move
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMW40SERmRnVWOVJibWVFZmNiU2x5SldHdDZ2aEJZV2dlRVpKVnZzbU1SUXJXOGpyUmM5YTdfUUJBR0MtcUdKYjFYcFB0Y2NTcmI4T1VQaHdabmxWMHpQR3pHZE4xY1FkU2hqcjhyeUs3TG1Ga1UzVWIxQU1mQ3hBNU1QQlVRNDMzclctaTYxT2NrYkZhMHZPeTM0dExqN0oxeVRiQnlsdFFGdFhkaE9DTXFEZ2JnckJzcDFvaGRsMFkxWDRBbXhhN19HZml4YzRnb2R0RNIB2gFBVV95cUxNT0pIVXM2N0szWklRN3Zsc0hCUGtsME01U0dESWdOcGZlOWhfUE9SZ0VpVUMxSEExN1lTenFZb3ZrMW83bnpLRHpvNXVrc3RjSC1xVThhbHkxQjM0eG5zVEhqZ1gwbHZZT2lfeml1SXZ3eDI3dnczQUdwSmNHUGxiZGs2bGNzcU9JSVFxWV9BMHV0MUF3Nk1USmdhMEtSNXREZlFFWGJFV01BQklEb3dySEF6RGozdE9VQjFERDAyMkZSQVc2b2JjRDBIbkNWVUdCc2dvLTMxeUdOUQ?oc=5
+- NSE to launch Gold 10 grams futures from March 16 after Sebi approval. Check expiry and other details
+  National Stock Exchange will launch Gold 10 grams futures from March 16. The monthly, delivery-based contract aims to boost retail participation.
+  🔗 https://economictimes.indiatimes.com/markets/options/nse-to-launch-gold-10-grams-futures-from-march-16-after-sebi-approval-check-expiry-and-other-details/articleshow/128614104.cms
 
 - Trump's Loss, India's Gain? How Tariff Order Could Affect Trade Talks - NDTV
-  " target="_blank" target
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SE
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SEEtMTlqOU1CSHZPeEVjOUV4dl92X09Sc3VVemE0Qm1YYXYxUEJ0UXNycmw4a1FtdDhPZ2J0eGNncTVGV3dtam1FWUNsSUdBUjY2Y2loUDhhLVNtbENnU2lfMklKV3JtN0dCTzVzSnFFMTRr0gHbAUFVX3lxTE1RRndhc2ZmaElpay1sU01FaHdqd0ExWkZsWEFidXczVy1vUTctSW1tMVhzWWJVS3JoR01QZTFidGJrMGNZVTMyUlVLaWg4QnY1SG5NS3IybXdRemRWLTZ2WW1QU3hhSjNrRlViTVYxVnlER3F0Y3FmV1daMXZkQ0Y2MjdRaGdkWVdRNEJmQVU5bXZwN05WNUo4WEVYQjlBcG1XWHI5eHRXM2tCOVhpVlI2NEo4Q2taaUpVNmhyTU5VRlBmV1B4V2ZGZXN4Sm1XSlY1S3VjUmJsVkdJTQ?oc=5
 
-- Historic trade deals put India on global stage - but challenges remain - BBC
-  Historic trade deals put India on global stage -
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
+- 'Inform parents': Gujarat may tweak marriage norms - The Times of India
+  'Inform parents': Gujarat may tweak
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGljejk1RTItRFczazM4b0wxWG80RWlIcFZHX3lDMk9BYmFFaUk3cjdvV0IzdkxYcXl4aVQxVzB6UTZXQnI1VHdSdEJGaFhXazFFenhDa1JHcDlReWdyMEZETUFSd1dZYWp5NVhJQW5lbzEtcHJ3UkhjV3J6MkZNalRIdDFtY2p6UUtsdnJfVlV6TGRMVG9ZSlZlNzc1MGctNHRadkVna0x3MTFKb3lZa1JuT2w0d9IBuwFBVV95cUxQSHBRZUhXM1kwa2ZwWlU5SlNOaWNkOVdtVmpPMWprQXVMTm9MSzE5TTdkOWJFN21JdnQyVFdrSnJIVXROelhSa3RMX2F5Q0JsTTJhUHdTWXY0LU5IMWJhWlNUU0c2cWNkYmR5eHptSEZsN0JZSjJhMW5XVWtYeWdULXhpMWcyS1hnanVfQmVyOWJwSTdwVW00VjEzTXdTeUNwbmZicUhoM0ppVnl6enlOZmpjWEZGZnZQN2NF?oc=5
 
-- Trump repeats claim of 'stopping' India-Pak war with new twist: '11 expensive jets shot down' | India News - Hindustan Times
-  '11 expensive jets shot down' is a new claim made by President Trump.
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNnBFcXlkN1VhaHJ2d0tRQ0hacGs0T1Azb1ZhM3Nzejh4cERFbXVqUTVEdWw3d0lQWVBQSS1ULUJld1pFTVZLZFJFbVlpVGdoUDVkM0RLcWsyd0ZQcHFtR0FQZlY5R2cxWU4tZzVocWY3bE0yQ2lGU3M4WkpidmxLWk1uYVdaZ3pzSEVOWUJuZWNsbEpXVWdfcWJwcUhlMTJmYUJiZ0JRUU4ya3BxZEt4aF96OWh3bS1HcDFVWkhrMW9NNW5LTHgtaUIwOXJ5eDc0QmNqTWltSnUyOVpsZ3JBTDNORUdvbXRwQ2lCR21USEdFcmvSAfgBQVVfeXFMUE51c1BwalZxZUpQU2xxd0xzOFpTb0FXR3FndGJ3Y2hxM1BON01hVGhmZS1UVC1UaVlaSFQtM0dnS1dlbnlxR2R4Nl81ZnNzenBJWGRfTjlUYVJ6eTExVjNMRzVTMExwS2FYeW1kZURnNkJXVmY3MzQ4RkRLYXYxRXpLUFRsakVmaXVpeGxEX2RrWG9UUElUUHlVY1FaY1c1MUVrdUZqQm4zUlRBQTZfRmZFZVdfNmRUY1ViWHpHTWdvVFRNVFNCUGR3TGxzcTh3X3JoTm5aQUxmcldmNGhsT0tsaTY4a192dHo5LTJEdHlDd0JZUDFXd2w?oc=5
+- India bleeding talent to US: Mistral CEO - The Times of India
+  India bleeding talent to US: Mistral
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRDQ1d1pTb2dNR2FEcjR1clBhWW10TW1RdGpTWlcwbXI1TWMtOHdDZHltSWRndVZrWi1GaWxZTVlLOTVGTVpEaUE0OFFWU04zYjEwMlVycHB1NlRqMVlYR2VkRXRXaXRTbUxGTzEwX2pwQUllU0wyNzNaQi1BSXN1S0hJd3FjVzhEdDZQdHBEU042VkhjNmNmclpvM0U4NUd2akdBVmdHVm10MlnSAbABQVVfeXFMTWwzWkN5eFRhOVN2NXVOYWVNRTc4MFFFcGtuVy0yQjV0R0dKN0xsUzlVdDZrMFc2Z0h0RlVXNVhXZEZkcVRBa2FPMU1CSmpJOUV2Y3I4bTdEN083QnJyUHYzRjBfNlEtb3RrQlNzd3VuWm10OFFxSzdvUW9iNFhEV0J0QUU0c0s3bkpxNHFHRXF0RjlVdHU3SGtTdDVadmx4YzRTSWJHTGFZd1lodXRqWXo?oc=5
 
-- BRO clears snow, NH-701A thrown open before time - The Times of India
-  The Times of India reported that the incident occurred
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ25nOERiVzRJbmx5aE1tUTEybDJRWUNVelVnQ2E4VS1vOFFKal9tY1hLYmNrNmNnWDVObkJFUEJTeHBHZ3JNUVo4dlZMX1VBZ3JJZWVXanhEVDU1djV0c3VfNVVTbXU1QzFnaEtGTUVOc29kMUNCUTFnaW1lUHlHYkI0ZG5uajIyZDk2a2xtUURJZ09EaS1ENHBCY1JOU0FHaGMyejFuSC1wRzRQbEVGcURQZHRmUdIBuwFBVV95cUxNVE1vUGJSWjVpeV9ZU3o3Z0ZGRVozZjUxYlNkVUtSMXhadTc0am9adzVnQURXMnpZNURqcjRkbDJOd3U3c0dyTnljZFJnUk5LNWlwLVpLaV8wNVpMc25LTDBya0JVdFJmcDRCeDgydGNOM1ZzREJCZmpWYmlpRnEzd1hJSFh2amFpRk0yOTBtUmlQYW05NHZaQ2hWYzdrMEMxMkhYNV9fdWdHZ19FRFVlZ1NCT0E2Ul9FYzVR?oc=5
+- India AI Summit 2026 Day 5 highlights: All major countries signed AI Impact Summit declaration, says Vaishnaw - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTVUxelBZYWJjZlQ0Yy0yRjVEV0ZFeDVxcTkySTdReHRSTm5nNVFmME9idG13c0xtZURDR3Q3QkJPbUVubmdHUzJBUTZNSFc5WFFqcGplSVo3TlFtZmRvUURubUNLNzVRQl
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTVUxelBZYWJjZlQ0Yy0yRjVEV0ZFeDVxcTkySTdReHRSTm5nNVFmME9idG13c0xtZURDR3Q3QkJPbUVubmdHUzJBUTZNSFc5WFFqcGplSVo3TlFtZmRvUURubUNLNzVRQlNBWTJUV2ZkYXNHWFJMRlRmTHAyQmNuaEg1VkI4WVJsSHN4YnhEN29mWjV0UXI0NzE3RTBHUldoUVdtRzlFQ3BpQTl6d1FYc2lONERmZDhGLVQzWmFldzZmWF9PR2oxWFNOVXJNOUxTM05hdktCd3E2aUx3WDJGUEpJNNIB6gFBVV95cUxOUXJ5bVFsY3BVY2VJV0ZZNEJpSGNkcFg2ei1MYzYzR1VRS3dmaEptN2ZoTWcyN0FlN3Rpa2RzMFpzRVFuMkMwa2NIMlhQc2pGN1pOdEROT1lob0RXLTBhaEVkRzVtNDV4M3lhOW5BZThRbDVUMzl4a1I4aEtWdFo0SUptRW50X2VLeGUtd1pNbVN6eWQybnU3ZmFqeFQzUG1ZNy04TG12c21xRGRvdW1mMGVIbG1sdHdTamRkMlkyUU5yeUJpMnhHRDkwNEZ0TmxNSHFJWG9JcmowSGpxR1IwVTdvMXhvWWJ2YVE?oc=5
 
-- Trump's tariffs struck down by US top court: Does it mean zero tariff on India? | India News - Hindustan Times
-  The Indian government has imposed a 25 per cent tariff on imports from India. The move
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMW40SERmRnVWOVJibWVFZmNiU2x5SldHdDZ2aEJZV2dlRVpKVnZzbU1SUXJXOGpyUmM5YTdfUUJBR0MtcUdKYjFYcFB0Y2NTcmI4T1VQaHdabmxWMHpQR3pHZE4xY1FkU2hqcjhyeUs3TG1Ga1UzVWIxQU1mQ3hBNU1QQlVRNDMzclctaTYxT2NrYkZhMHZPeTM0dExqN0oxeVRiQnlsdFFGdFhkaE9DTXFEZ2JnckJzcDFvaGRsMFkxWDRBbXhhN19HZml4YzRnb2R0RNIB2gFBVV95cUxNT0pIVXM2N0szWklRN3Zsc0hCUGtsME01U0dESWdOcGZlOWhfUE9SZ0VpVUMxSEExN1lTenFZb3ZrMW83bnpLRHpvNXVrc3RjSC1xVThhbHkxQjM0eG5zVEhqZ1gwbHZZT2lfeml1SXZ3eDI3dnczQUdwSmNHUGxiZGs2bGNzcU9JSVFxWV9BMHV0MUF3Nk1USmdhMEtSNXREZlFFWGJFV01BQklEb3dySEF6RGozdE9VQjFERDAyMkZSQVc2b2JjRDBIbkNWVUdCc2dvLTMxeUdOUQ?oc=5
+- Aaj Ki Baat: Full episode, February 20, 2026 - India TV News
+  Aaj Ki Baat: Full episode
+  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxQVEhnakpkSjlVQ3c3QzV6NnNiS3p2bl83ZW5PNm1jRkh6QjVPZzU3NG5jdUFqdjMyWWpHNG9vV0NsalVDRmFlcDFzZHlCY21EV3ZobkNTY1BMZFcxaVVNM2N0XzBNRDY3NThvRWVYcDVNcjdzb2ZYS2JYSG5uSkZGN1lfNDJLREp3VFNxejhhR19lUUNHVTBieHlOOTlkVHN2Q3Y1UnlWc0I3MV91UlExN2haMWlnZGd4cGcyWERnX0M4UjNYbnA4d3F6X2xrc1JXMFRsTmFiRGJJZVFsLVVyQ3FaTXhFUVhEazE2bUNldmJBNlJVcjc5SzlQTlltMENRU0Y3OW13UzhxMVF0VnA3X0VBLThxY1Y5NlBWNHg4b9IBpAJBVV95cUxObHozWk8ydjlOSmxrb09PNXJGVkR2UFVKU3JyMVpUS0J5X3RWN1U2a00tMkxaV1Vja05yeUZ1UUZIRXJUdC1MbE5aQWJPamlxRGVwclZQc2JmM08yTGctREVlLWpNWThCV291RlZPOGZhM0o1R1UwZXBDS2dWN0ZxdS1NNHZWeXczLWI5Rk40ZVJlUnI1MzVHNUJMT0x6b25NVzVnbWlNVVRWYTVwT3AwVk1QY21PT0V2dGxwRFZBNHY4RzkycEthd2dadmgzNm45WnRVbmxlUlB1VjVIaVN5YUowd1poOXRONHN5bFotVE05QkN0LTRYbW8wQXk4dGliNzV2Uy10VDlHUVhTVmN1aFdUNlNsa2N1SC11NHZNWC1UT2tl?oc=5
 
 - Trump's Loss, India's Gain? How Tariff Order Could Affect Trade Talks - NDTV
-  " target="_blank" target
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SE
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SEEtMTlqOU1CSHZPeEVjOUV4dl92X09Sc3VVemE0Qm1YYXYxUEJ0UXNycmw4a1FtdDhPZ2J0eGNncTVGV3dtam1FWUNsSUdBUjY2Y2loUDhhLVNtbENnU2lfMklKV3JtN0dCTzVzSnFFMTRr0gHbAUFVX3lxTE1RRndhc2ZmaElpay1sU01FaHdqd0ExWkZsWEFidXczVy1vUTctSW1tMVhzWWJVS3JoR01QZTFidGJrMGNZVTMyUlVLaWg4QnY1SG5NS3IybXdRemRWLTZ2WW1QU3hhSjNrRlViTVYxVnlER3F0Y3FmV1daMXZkQ0Y2MjdRaGdkWVdRNEJmQVU5bXZwN05WNUo4WEVYQjlBcG1XWHI5eHRXM2tCOVhpVlI2NEo4Q2taaUpVNmhyTU5VRlBmV1B4V2ZGZXN4Sm1XSlY1S3VjUmJsVkdJTQ?oc=5
 
-- Historic trade deals put India on global stage - but challenges remain - BBC
-  Historic trade deals put India on global stage -
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
+- 'Inform parents': Gujarat may tweak marriage norms - The Times of India
+  'Inform parents': Gujarat may tweak
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGljejk1RTItRFczazM4b0wxWG80RWlIcFZHX3lDMk9BYmFFaUk3cjdvV0IzdkxYcXl4aVQxVzB6UTZXQnI1VHdSdEJGaFhXazFFenhDa1JHcDlReWdyMEZETUFSd1dZYWp5NVhJQW5lbzEtcHJ3UkhjV3J6MkZNalRIdDFtY2p6UUtsdnJfVlV6TGRMVG9ZSlZlNzc1MGctNHRadkVna0x3MTFKb3lZa1JuT2w0d9IBuwFBVV95cUxQSHBRZUhXM1kwa2ZwWlU5SlNOaWNkOVdtVmpPMWprQXVMTm9MSzE5TTdkOWJFN21JdnQyVFdrSnJIVXROelhSa3RMX2F5Q0JsTTJhUHdTWXY0LU5IMWJhWlNUU0c2cWNkYmR5eHptSEZsN0JZSjJhMW5XVWtYeWdULXhpMWcyS1hnanVfQmVyOWJwSTdwVW00VjEzTXdTeUNwbmZicUhoM0ppVnl6enlOZmpjWEZGZnZQN2NF?oc=5
 
-- Trump repeats claim of 'stopping' India-Pak war with new twist: '11 expensive jets shot down' | India News - Hindustan Times
-  '11 expensive jets shot down' is a new claim made by President Trump.
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNnBFcXlkN1VhaHJ2d0tRQ0hacGs0T1Azb1ZhM3Nzejh4cERFbXVqUTVEdWw3d0lQWVBQSS1ULUJld1pFTVZLZFJFbVlpVGdoUDVkM0RLcWsyd0ZQcHFtR0FQZlY5R2cxWU4tZzVocWY3bE0yQ2lGU3M4WkpidmxLWk1uYVdaZ3pzSEVOWUJuZWNsbEpXVWdfcWJwcUhlMTJmYUJiZ0JRUU4ya3BxZEt4aF96OWh3bS1HcDFVWkhrMW9NNW5LTHgtaUIwOXJ5eDc0QmNqTWltSnUyOVpsZ3JBTDNORUdvbXRwQ2lCR21USEdFcmvSAfgBQVVfeXFMUE51c1BwalZxZUpQU2xxd0xzOFpTb0FXR3FndGJ3Y2hxM1BON01hVGhmZS1UVC1UaVlaSFQtM0dnS1dlbnlxR2R4Nl81ZnNzenBJWGRfTjlUYVJ6eTExVjNMRzVTMExwS2FYeW1kZURnNkJXVmY3MzQ4RkRLYXYxRXpLUFRsakVmaXVpeGxEX2RrWG9UUElUUHlVY1FaY1c1MUVrdUZqQm4zUlRBQTZfRmZFZVdfNmRUY1ViWHpHTWdvVFRNVFNCUGR3TGxzcTh3X3JoTm5aQUxmcldmNGhsT0tsaTY4a192dHo5LTJEdHlDd0JZUDFXd2w?oc=5
+- India bleeding talent to US: Mistral CEO - The Times of India
+  India bleeding talent to US: Mistral
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRDQ1d1pTb2dNR2FEcjR1clBhWW10TW1RdGpTWlcwbXI1TWMtOHdDZHltSWRndVZrWi1GaWxZTVlLOTVGTVpEaUE0OFFWU04zYjEwMlVycHB1NlRqMVlYR2VkRXRXaXRTbUxGTzEwX2pwQUllU0wyNzNaQi1BSXN1S0hJd3FjVzhEdDZQdHBEU042VkhjNmNmclpvM0U4NUd2akdBVmdHVm10MlnSAbABQVVfeXFMTWwzWkN5eFRhOVN2NXVOYWVNRTc4MFFFcGtuVy0yQjV0R0dKN0xsUzlVdDZrMFc2Z0h0RlVXNVhXZEZkcVRBa2FPMU1CSmpJOUV2Y3I4bTdEN083QnJyUHYzRjBfNlEtb3RrQlNzd3VuWm10OFFxSzdvUW9iNFhEV0J0QUU0c0s3bkpxNHFHRXF0RjlVdHU3SGtTdDVadmx4YzRTSWJHTGFZd1lodXRqWXo?oc=5
 
-- BRO clears snow, NH-701A thrown open before time - The Times of India
-  The Times of India reported that the incident occurred
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ25nOERiVzRJbmx5aE1tUTEybDJRWUNVelVnQ2E4VS1vOFFKal9tY1hLYmNrNmNnWDVObkJFUEJTeHBHZ3JNUVo4dlZMX1VBZ3JJZWVXanhEVDU1djV0c3VfNVVTbXU1QzFnaEtGTUVOc29kMUNCUTFnaW1lUHlHYkI0ZG5uajIyZDk2a2xtUURJZ09EaS1ENHBCY1JOU0FHaGMyejFuSC1wRzRQbEVGcURQZHRmUdIBuwFBVV95cUxNVE1vUGJSWjVpeV9ZU3o3Z0ZGRVozZjUxYlNkVUtSMXhadTc0am9adzVnQURXMnpZNURqcjRkbDJOd3U3c0dyTnljZFJnUk5LNWlwLVpLaV8wNVpMc25LTDBya0JVdFJmcDRCeDgydGNOM1ZzREJCZmpWYmlpRnEzd1hJSFh2amFpRk0yOTBtUmlQYW05NHZaQ2hWYzdrMEMxMkhYNV9fdWdHZ19FRFVlZ1NCT0E2Ul9FYzVR?oc=5
+- India AI Summit 2026 Day 5 highlights: All major countries signed AI Impact Summit declaration, says Vaishnaw - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTVUxelBZYWJjZlQ0Yy0yRjVEV0ZFeDVxcTkySTdReHRSTm5nNVFmME9idG13c0xtZURDR3Q3QkJPbUVubmdHUzJBUTZNSFc5WFFqcGplSVo3TlFtZmRvUURubUNLNzVRQl
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTVUxelBZYWJjZlQ0Yy0yRjVEV0ZFeDVxcTkySTdReHRSTm5nNVFmME9idG13c0xtZURDR3Q3QkJPbUVubmdHUzJBUTZNSFc5WFFqcGplSVo3TlFtZmRvUURubUNLNzVRQlNBWTJUV2ZkYXNHWFJMRlRmTHAyQmNuaEg1VkI4WVJsSHN4YnhEN29mWjV0UXI0NzE3RTBHUldoUVdtRzlFQ3BpQTl6d1FYc2lONERmZDhGLVQzWmFldzZmWF9PR2oxWFNOVXJNOUxTM05hdktCd3E2aUx3WDJGUEpJNNIB6gFBVV95cUxOUXJ5bVFsY3BVY2VJV0ZZNEJpSGNkcFg2ei1MYzYzR1VRS3dmaEptN2ZoTWcyN0FlN3Rpa2RzMFpzRVFuMkMwa2NIMlhQc2pGN1pOdEROT1lob0RXLTBhaEVkRzVtNDV4M3lhOW5BZThRbDVUMzl4a1I4aEtWdFo0SUptRW50X2VLeGUtd1pNbVN6eWQybnU3ZmFqeFQzUG1ZNy04TG12c21xRGRvdW1mMGVIbG1sdHdTamRkMlkyUU5yeUJpMnhHRDkwNEZ0TmxNSHFJWG9JcmowSGpxR1IwVTdvMXhvWWJ2YVE?oc=5
 
-- Trump's tariffs struck down by US top court: Does it mean zero tariff on India? | India News - Hindustan Times
-  The Indian government has imposed a 25 per cent tariff on imports from India. The move
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMW40SERmRnVWOVJibWVFZmNiU2x5SldHdDZ2aEJZV2dlRVpKVnZzbU1SUXJXOGpyUmM5YTdfUUJBR0MtcUdKYjFYcFB0Y2NTcmI4T1VQaHdabmxWMHpQR3pHZE4xY1FkU2hqcjhyeUs3TG1Ga1UzVWIxQU1mQ3hBNU1QQlVRNDMzclctaTYxT2NrYkZhMHZPeTM0dExqN0oxeVRiQnlsdFFGdFhkaE9DTXFEZ2JnckJzcDFvaGRsMFkxWDRBbXhhN19HZml4YzRnb2R0RNIB2gFBVV95cUxNT0pIVXM2N0szWklRN3Zsc0hCUGtsME01U0dESWdOcGZlOWhfUE9SZ0VpVUMxSEExN1lTenFZb3ZrMW83bnpLRHpvNXVrc3RjSC1xVThhbHkxQjM0eG5zVEhqZ1gwbHZZT2lfeml1SXZ3eDI3dnczQUdwSmNHUGxiZGs2bGNzcU9JSVFxWV9BMHV0MUF3Nk1USmdhMEtSNXREZlFFWGJFV01BQklEb3dySEF6RGozdE9VQjFERDAyMkZSQVc2b2JjRDBIbkNWVUdCc2dvLTMxeUdOUQ?oc=5
+- Aaj Ki Baat: Full episode, February 20, 2026 - India TV News
+  Aaj Ki Baat: Full episode
+  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxQVEhnakpkSjlVQ3c3QzV6NnNiS3p2bl83ZW5PNm1jRkh6QjVPZzU3NG5jdUFqdjMyWWpHNG9vV0NsalVDRmFlcDFzZHlCY21EV3ZobkNTY1BMZFcxaVVNM2N0XzBNRDY3NThvRWVYcDVNcjdzb2ZYS2JYSG5uSkZGN1lfNDJLREp3VFNxejhhR19lUUNHVTBieHlOOTlkVHN2Q3Y1UnlWc0I3MV91UlExN2haMWlnZGd4cGcyWERnX0M4UjNYbnA4d3F6X2xrc1JXMFRsTmFiRGJJZVFsLVVyQ3FaTXhFUVhEazE2bUNldmJBNlJVcjc5SzlQTlltMENRU0Y3OW13UzhxMVF0VnA3X0VBLThxY1Y5NlBWNHg4b9IBpAJBVV95cUxObHozWk8ydjlOSmxrb09PNXJGVkR2UFVKU3JyMVpUS0J5X3RWN1U2a00tMkxaV1Vja05yeUZ1UUZIRXJUdC1MbE5aQWJPamlxRGVwclZQc2JmM08yTGctREVlLWpNWThCV291RlZPOGZhM0o1R1UwZXBDS2dWN0ZxdS1NNHZWeXczLWI5Rk40ZVJlUnI1MzVHNUJMT0x6b25NVzVnbWlNVVRWYTVwT3AwVk1QY21PT0V2dGxwRFZBNHY4RzkycEthd2dadmgzNm45WnRVbmxlUlB1VjVIaVN5YUowd1poOXRONHN5bFotVE05QkN0LTRYbW8wQXk4dGliNzV2Uy10VDlHUVhTVmN1aFdUNlNsa2N1SC11NHZNWC1UT2tl?oc=5
 
 - Trump's Loss, India's Gain? How Tariff Order Could Affect Trade Talks - NDTV
-  " target="_blank" target
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SE
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SEEtMTlqOU1CSHZPeEVjOUV4dl92X09Sc3VVemE0Qm1YYXYxUEJ0UXNycmw4a1FtdDhPZ2J0eGNncTVGV3dtam1FWUNsSUdBUjY2Y2loUDhhLVNtbENnU2lfMklKV3JtN0dCTzVzSnFFMTRr0gHbAUFVX3lxTE1RRndhc2ZmaElpay1sU01FaHdqd0ExWkZsWEFidXczVy1vUTctSW1tMVhzWWJVS3JoR01QZTFidGJrMGNZVTMyUlVLaWg4QnY1SG5NS3IybXdRemRWLTZ2WW1QU3hhSjNrRlViTVYxVnlER3F0Y3FmV1daMXZkQ0Y2MjdRaGdkWVdRNEJmQVU5bXZwN05WNUo4WEVYQjlBcG1XWHI5eHRXM2tCOVhpVlI2NEo4Q2taaUpVNmhyTU5VRlBmV1B4V2ZGZXN4Sm1XSlY1S3VjUmJsVkdJTQ?oc=5
 
-- Historic trade deals put India on global stage - but challenges remain - BBC
-  Historic trade deals put India on global stage -
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UTRzcTBSM0NQSlBVTXlPZ1BjYWhmaF9ick5Rd3dJbnVfUkdCc0lMS2p1UXQ0T1QxMXZZQklzQ0xPWFdzTnd1UXdQSmZXZ3huTUtzUDdOdzBLUQ?oc=5
+- 'Inform parents': Gujarat may tweak marriage norms - The Times of India
+  'Inform parents': Gujarat may tweak
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGljejk1RTItRFczazM4b0wxWG80RWlIcFZHX3lDMk9BYmFFaUk3cjdvV0IzdkxYcXl4aVQxVzB6UTZXQnI1VHdSdEJGaFhXazFFenhDa1JHcDlReWdyMEZETUFSd1dZYWp5NVhJQW5lbzEtcHJ3UkhjV3J6MkZNalRIdDFtY2p6UUtsdnJfVlV6TGRMVG9ZSlZlNzc1MGctNHRadkVna0x3MTFKb3lZa1JuT2w0d9IBuwFBVV95cUxQSHBRZUhXM1kwa2ZwWlU5SlNOaWNkOVdtVmpPMWprQXVMTm9MSzE5TTdkOWJFN21JdnQyVFdrSnJIVXROelhSa3RMX2F5Q0JsTTJhUHdTWXY0LU5IMWJhWlNUU0c2cWNkYmR5eHptSEZsN0JZSjJhMW5XVWtYeWdULXhpMWcyS1hnanVfQmVyOWJwSTdwVW00VjEzTXdTeUNwbmZicUhoM0ppVnl6enlOZmpjWEZGZnZQN2NF?oc=5
 
-- Trump repeats claim of 'stopping' India-Pak war with new twist: '11 expensive jets shot down' | India News - Hindustan Times
-  '11 expensive jets shot down' is a new claim made by President Trump.
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNnBFcXlkN1VhaHJ2d0tRQ0hacGs0T1Azb1ZhM3Nzejh4cERFbXVqUTVEdWw3d0lQWVBQSS1ULUJld1pFTVZLZFJFbVlpVGdoUDVkM0RLcWsyd0ZQcHFtR0FQZlY5R2cxWU4tZzVocWY3bE0yQ2lGU3M4WkpidmxLWk1uYVdaZ3pzSEVOWUJuZWNsbEpXVWdfcWJwcUhlMTJmYUJiZ0JRUU4ya3BxZEt4aF96OWh3bS1HcDFVWkhrMW9NNW5LTHgtaUIwOXJ5eDc0QmNqTWltSnUyOVpsZ3JBTDNORUdvbXRwQ2lCR21USEdFcmvSAfgBQVVfeXFMUE51c1BwalZxZUpQU2xxd0xzOFpTb0FXR3FndGJ3Y2hxM1BON01hVGhmZS1UVC1UaVlaSFQtM0dnS1dlbnlxR2R4Nl81ZnNzenBJWGRfTjlUYVJ6eTExVjNMRzVTMExwS2FYeW1kZURnNkJXVmY3MzQ4RkRLYXYxRXpLUFRsakVmaXVpeGxEX2RrWG9UUElUUHlVY1FaY1c1MUVrdUZqQm4zUlRBQTZfRmZFZVdfNmRUY1ViWHpHTWdvVFRNVFNCUGR3TGxzcTh3X3JoTm5aQUxmcldmNGhsT0tsaTY4a192dHo5LTJEdHlDd0JZUDFXd2w?oc=5
+- India bleeding talent to US: Mistral CEO - The Times of India
+  India bleeding talent to US: Mistral
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRDQ1d1pTb2dNR2FEcjR1clBhWW10TW1RdGpTWlcwbXI1TWMtOHdDZHltSWRndVZrWi1GaWxZTVlLOTVGTVpEaUE0OFFWU04zYjEwMlVycHB1NlRqMVlYR2VkRXRXaXRTbUxGTzEwX2pwQUllU0wyNzNaQi1BSXN1S0hJd3FjVzhEdDZQdHBEU042VkhjNmNmclpvM0U4NUd2akdBVmdHVm10MlnSAbABQVVfeXFMTWwzWkN5eFRhOVN2NXVOYWVNRTc4MFFFcGtuVy0yQjV0R0dKN0xsUzlVdDZrMFc2Z0h0RlVXNVhXZEZkcVRBa2FPMU1CSmpJOUV2Y3I4bTdEN083QnJyUHYzRjBfNlEtb3RrQlNzd3VuWm10OFFxSzdvUW9iNFhEV0J0QUU0c0s3bkpxNHFHRXF0RjlVdHU3SGtTdDVadmx4YzRTSWJHTGFZd1lodXRqWXo?oc=5
 
-- BRO clears snow, NH-701A thrown open before time - The Times of India
-  The Times of India reported that the incident occurred
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ25nOERiVzRJbmx5aE1tUTEybDJRWUNVelVnQ2E4VS1vOFFKal9tY1hLYmNrNmNnWDVObkJFUEJTeHBHZ3JNUVo4dlZMX1VBZ3JJZWVXanhEVDU1djV0c3VfNVVTbXU1QzFnaEtGTUVOc29kMUNCUTFnaW1lUHlHYkI0ZG5uajIyZDk2a2xtUURJZ09EaS1ENHBCY1JOU0FHaGMyejFuSC1wRzRQbEVGcURQZHRmUdIBuwFBVV95cUxNVE1vUGJSWjVpeV9ZU3o3Z0ZGRVozZjUxYlNkVUtSMXhadTc0am9adzVnQURXMnpZNURqcjRkbDJOd3U3c0dyTnljZFJnUk5LNWlwLVpLaV8wNVpMc25LTDBya0JVdFJmcDRCeDgydGNOM1ZzREJCZmpWYmlpRnEzd1hJSFh2amFpRk0yOTBtUmlQYW05NHZaQ2hWYzdrMEMxMkhYNV9fdWdHZ19FRFVlZ1NCT0E2Ul9FYzVR?oc=5
+- India AI Summit 2026 Day 5 highlights: All major countries signed AI Impact Summit declaration, says Vaishnaw - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTVUxelBZYWJjZlQ0Yy0yRjVEV0ZFeDVxcTkySTdReHRSTm5nNVFmME9idG13c0xtZURDR3Q3QkJPbUVubmdHUzJBUTZNSFc5WFFqcGplSVo3TlFtZmRvUURubUNLNzVRQl
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTVUxelBZYWJjZlQ0Yy0yRjVEV0ZFeDVxcTkySTdReHRSTm5nNVFmME9idG13c0xtZURDR3Q3QkJPbUVubmdHUzJBUTZNSFc5WFFqcGplSVo3TlFtZmRvUURubUNLNzVRQlNBWTJUV2ZkYXNHWFJMRlRmTHAyQmNuaEg1VkI4WVJsSHN4YnhEN29mWjV0UXI0NzE3RTBHUldoUVdtRzlFQ3BpQTl6d1FYc2lONERmZDhGLVQzWmFldzZmWF9PR2oxWFNOVXJNOUxTM05hdktCd3E2aUx3WDJGUEpJNNIB6gFBVV95cUxOUXJ5bVFsY3BVY2VJV0ZZNEJpSGNkcFg2ei1MYzYzR1VRS3dmaEptN2ZoTWcyN0FlN3Rpa2RzMFpzRVFuMkMwa2NIMlhQc2pGN1pOdEROT1lob0RXLTBhaEVkRzVtNDV4M3lhOW5BZThRbDVUMzl4a1I4aEtWdFo0SUptRW50X2VLeGUtd1pNbVN6eWQybnU3ZmFqeFQzUG1ZNy04TG12c21xRGRvdW1mMGVIbG1sdHdTamRkMlkyUU5yeUJpMnhHRDkwNEZ0TmxNSHFJWG9JcmowSGpxR1IwVTdvMXhvWWJ2YVE?oc=5
+
+- Aaj Ki Baat: Full episode, February 20, 2026 - India TV News
+  Aaj Ki Baat: Full episode
+  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxQVEhnakpkSjlVQ3c3QzV6NnNiS3p2bl83ZW5PNm1jRkh6QjVPZzU3NG5jdUFqdjMyWWpHNG9vV0NsalVDRmFlcDFzZHlCY21EV3ZobkNTY1BMZFcxaVVNM2N0XzBNRDY3NThvRWVYcDVNcjdzb2ZYS2JYSG5uSkZGN1lfNDJLREp3VFNxejhhR19lUUNHVTBieHlOOTlkVHN2Q3Y1UnlWc0I3MV91UlExN2haMWlnZGd4cGcyWERnX0M4UjNYbnA4d3F6X2xrc1JXMFRsTmFiRGJJZVFsLVVyQ3FaTXhFUVhEazE2bUNldmJBNlJVcjc5SzlQTlltMENRU0Y3OW13UzhxMVF0VnA3X0VBLThxY1Y5NlBWNHg4b9IBpAJBVV95cUxObHozWk8ydjlOSmxrb09PNXJGVkR2UFVKU3JyMVpUS0J5X3RWN1U2a00tMkxaV1Vja05yeUZ1UUZIRXJUdC1MbE5aQWJPamlxRGVwclZQc2JmM08yTGctREVlLWpNWThCV291RlZPOGZhM0o1R1UwZXBDS2dWN0ZxdS1NNHZWeXczLWI5Rk40ZVJlUnI1MzVHNUJMT0x6b25NVzVnbWlNVVRWYTVwT3AwVk1QY21PT0V2dGxwRFZBNHY4RzkycEthd2dadmgzNm45WnRVbmxlUlB1VjVIaVN5YUowd1poOXRONHN5bFotVE05QkN0LTRYbW8wQXk4dGliNzV2Uy10VDlHUVhTVmN1aFdUNlNsa2N1SC11NHZNWC1UT2tl?oc=5
+
+- Trump's Loss, India's Gain? How Tariff Order Could Affect Trade Talks - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SE
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SEEtMTlqOU1CSHZPeEVjOUV4dl92X09Sc3VVemE0Qm1YYXYxUEJ0UXNycmw4a1FtdDhPZ2J0eGNncTVGV3dtam1FWUNsSUdBUjY2Y2loUDhhLVNtbENnU2lfMklKV3JtN0dCTzVzSnFFMTRr0gHbAUFVX3lxTE1RRndhc2ZmaElpay1sU01FaHdqd0ExWkZsWEFidXczVy1vUTctSW1tMVhzWWJVS3JoR01QZTFidGJrMGNZVTMyUlVLaWg4QnY1SG5NS3IybXdRemRWLTZ2WW1QU3hhSjNrRlViTVYxVnlER3F0Y3FmV1daMXZkQ0Y2MjdRaGdkWVdRNEJmQVU5bXZwN05WNUo4WEVYQjlBcG1XWHI5eHRXM2tCOVhpVlI2NEo4Q2taaUpVNmhyTU5VRlBmV1B4V2ZGZXN4Sm1XSlY1S3VjUmJsVkdJTQ?oc=5
+
+- 'Inform parents': Gujarat may tweak marriage norms - The Times of India
+  'Inform parents': Gujarat may tweak
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGljejk1RTItRFczazM4b0wxWG80RWlIcFZHX3lDMk9BYmFFaUk3cjdvV0IzdkxYcXl4aVQxVzB6UTZXQnI1VHdSdEJGaFhXazFFenhDa1JHcDlReWdyMEZETUFSd1dZYWp5NVhJQW5lbzEtcHJ3UkhjV3J6MkZNalRIdDFtY2p6UUtsdnJfVlV6TGRMVG9ZSlZlNzc1MGctNHRadkVna0x3MTFKb3lZa1JuT2w0d9IBuwFBVV95cUxQSHBRZUhXM1kwa2ZwWlU5SlNOaWNkOVdtVmpPMWprQXVMTm9MSzE5TTdkOWJFN21JdnQyVFdrSnJIVXROelhSa3RMX2F5Q0JsTTJhUHdTWXY0LU5IMWJhWlNUU0c2cWNkYmR5eHptSEZsN0JZSjJhMW5XVWtYeWdULXhpMWcyS1hnanVfQmVyOWJwSTdwVW00VjEzTXdTeUNwbmZicUhoM0ppVnl6enlOZmpjWEZGZnZQN2NF?oc=5
+
+- India bleeding talent to US: Mistral CEO - The Times of India
+  India bleeding talent to US: Mistral
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRDQ1d1pTb2dNR2FEcjR1clBhWW10TW1RdGpTWlcwbXI1TWMtOHdDZHltSWRndVZrWi1GaWxZTVlLOTVGTVpEaUE0OFFWU04zYjEwMlVycHB1NlRqMVlYR2VkRXRXaXRTbUxGTzEwX2pwQUllU0wyNzNaQi1BSXN1S0hJd3FjVzhEdDZQdHBEU042VkhjNmNmclpvM0U4NUd2akdBVmdHVm10MlnSAbABQVVfeXFMTWwzWkN5eFRhOVN2NXVOYWVNRTc4MFFFcGtuVy0yQjV0R0dKN0xsUzlVdDZrMFc2Z0h0RlVXNVhXZEZkcVRBa2FPMU1CSmpJOUV2Y3I4bTdEN083QnJyUHYzRjBfNlEtb3RrQlNzd3VuWm10OFFxSzdvUW9iNFhEV0J0QUU0c0s3bkpxNHFHRXF0RjlVdHU3SGtTdDVadmx4YzRTSWJHTGFZd1lodXRqWXo?oc=5
+
+- India AI Summit 2026 Day 5 highlights: All major countries signed AI Impact Summit declaration, says Vaishnaw - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTVUxelBZYWJjZlQ0Yy0yRjVEV0ZFeDVxcTkySTdReHRSTm5nNVFmME9idG13c0xtZURDR3Q3QkJPbUVubmdHUzJBUTZNSFc5WFFqcGplSVo3TlFtZmRvUURubUNLNzVRQl
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTVUxelBZYWJjZlQ0Yy0yRjVEV0ZFeDVxcTkySTdReHRSTm5nNVFmME9idG13c0xtZURDR3Q3QkJPbUVubmdHUzJBUTZNSFc5WFFqcGplSVo3TlFtZmRvUURubUNLNzVRQlNBWTJUV2ZkYXNHWFJMRlRmTHAyQmNuaEg1VkI4WVJsSHN4YnhEN29mWjV0UXI0NzE3RTBHUldoUVdtRzlFQ3BpQTl6d1FYc2lONERmZDhGLVQzWmFldzZmWF9PR2oxWFNOVXJNOUxTM05hdktCd3E2aUx3WDJGUEpJNNIB6gFBVV95cUxOUXJ5bVFsY3BVY2VJV0ZZNEJpSGNkcFg2ei1MYzYzR1VRS3dmaEptN2ZoTWcyN0FlN3Rpa2RzMFpzRVFuMkMwa2NIMlhQc2pGN1pOdEROT1lob0RXLTBhaEVkRzVtNDV4M3lhOW5BZThRbDVUMzl4a1I4aEtWdFo0SUptRW50X2VLeGUtd1pNbVN6eWQybnU3ZmFqeFQzUG1ZNy04TG12c21xRGRvdW1mMGVIbG1sdHdTamRkMlkyUU5yeUJpMnhHRDkwNEZ0TmxNSHFJWG9JcmowSGpxR1IwVTdvMXhvWWJ2YVE?oc=5
+
+- Aaj Ki Baat: Full episode, February 20, 2026 - India TV News
+  Aaj Ki Baat: Full episode
+  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxQVEhnakpkSjlVQ3c3QzV6NnNiS3p2bl83ZW5PNm1jRkh6QjVPZzU3NG5jdUFqdjMyWWpHNG9vV0NsalVDRmFlcDFzZHlCY21EV3ZobkNTY1BMZFcxaVVNM2N0XzBNRDY3NThvRWVYcDVNcjdzb2ZYS2JYSG5uSkZGN1lfNDJLREp3VFNxejhhR19lUUNHVTBieHlOOTlkVHN2Q3Y1UnlWc0I3MV91UlExN2haMWlnZGd4cGcyWERnX0M4UjNYbnA4d3F6X2xrc1JXMFRsTmFiRGJJZVFsLVVyQ3FaTXhFUVhEazE2bUNldmJBNlJVcjc5SzlQTlltMENRU0Y3OW13UzhxMVF0VnA3X0VBLThxY1Y5NlBWNHg4b9IBpAJBVV95cUxObHozWk8ydjlOSmxrb09PNXJGVkR2UFVKU3JyMVpUS0J5X3RWN1U2a00tMkxaV1Vja05yeUZ1UUZIRXJUdC1MbE5aQWJPamlxRGVwclZQc2JmM08yTGctREVlLWpNWThCV291RlZPOGZhM0o1R1UwZXBDS2dWN0ZxdS1NNHZWeXczLWI5Rk40ZVJlUnI1MzVHNUJMT0x6b25NVzVnbWlNVVRWYTVwT3AwVk1QY21PT0V2dGxwRFZBNHY4RzkycEthd2dadmgzNm45WnRVbmxlUlB1VjVIaVN5YUowd1poOXRONHN5bFotVE05QkN0LTRYbW8wQXk4dGliNzV2Uy10VDlHUVhTVmN1aFdUNlNsa2N1SC11NHZNWC1UT2tl?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-20 18:43:08 UTC_
+_Last updated: 2026-02-21 01:34:29 UTC_
