@@ -1,44 +1,44 @@
 # 📰 Daily News Summaries
 
-- ‘No one came to share our pain’: A Chhattisgarh family seeks justice after all accused in murder of father, son acquitted
+- SIR: Goa’s final list with 10.57 lakh voters published
   
-  🔗 https://indianexpress.com/article/india/no-one-came-to-share-our-pain-a-chhattisgarh-family-seeks-justice-after-all-accused-in-murder-of-father-son-acquitted-10543961/
+  🔗 https://indianexpress.com/article/india/goa-final-electoral-roll-2026-published-how-to-check-voter-list-10544688/
 
-- Focus on faith, infra, women empowerment: CM Majhi presents Odisha Budget
+- Vungzagin Valte, Manipur MLA who never fully recovered from 2023 mob attack, dies
   
-  🔗 https://indianexpress.com/article/india/focus-on-faith-infra-women-empowerment-cm-majhi-presents-odisha-budget-10543932/
+  🔗 https://indianexpress.com/article/india/manipur-bjp-mla-vungzagin-valte-dies-after-battling-injuries-from-2023-attack-10544679/
 
-- Gold Rate Today, February 21: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- IRCTC announces 20% discount on Buddhist Circuit Tourist train package
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-february-21-24k-22k-price-india-10543814/
+  🔗 https://indianexpress.com/article/india/irctc-announces-20-discount-on-buddhist-circuit-tourist-train-package-10544419/
 
-- Heavy police deployment, dozens of arrests after communal tensions flare up in Jabalpur
+- India’s first private train Tejas Express: Latest passenger occupancy, revenue performance
   
-  🔗 https://indianexpress.com/article/india/heavy-police-deployment-dozens-of-arrests-after-communal-tensions-flare-up-in-jabalpur-10543472/
+  🔗 https://indianexpress.com/article/india/indias-first-private-train-tejas-express-latest-passenger-occupancy-revenue-performance-10544259/
 
-- One dead, witnesses say SDM, men attacked them for no reason, officials admit conduct ‘suspicious’
+- Maharajas’ Express revenue jumps 39% in Q3FY26: Check earnings of India’s luxury train
   
-  🔗 https://indianexpress.com/article/india/one-dead-witnesses-say-sdm-men-attacked-them-for-no-reason-officials-admit-conduct-suspicious-10543470/
+  🔗 https://indianexpress.com/article/india/maharajas-express-revenue-jumps-39-in-q3fy26-check-earnings-of-indias-luxury-train-10544148/
 
-- OpenAI expects compute spend of around $600 billion through 2030: Reports
+- Nothing Phone (4a) series to get redesigned Glyph Bar with mini-LED lights
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-expects-compute-spend-of-around-600-billion-through-2030-source-says-10543794/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/nothing-phone-4a-series-glyph-bar-mini-led-lights-10544373/
 
-- Sam Altman vs Elon Musk: Why OpenAI’s CEO says space-based data centres won’t matter this decade
+- Digital arrest scams: Why are they still so rampant despite awareness?
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-elon-musk-space-data-centres-10543749/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/digital-arrest-scams-why-are-they-still-so-rampant-despite-awareness-10544334/
 
-- From apes to wolves, we are changing the face of conservation tech: Rushikesh Chavan, Director, The Habitats Trust
+- ‘SaaS is dead’ is counterfactual, ask us again in 10 years: Salesforce execs amid AI Summit 2026
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-conservation-rushikesh-chavan-the-habitats-trust-10542679/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/saas-is-dead-counterfactual-salesforce-ai-summit-10544286/
 
-- Microsoft to train 20 lakh teachers in AI by 2030, launches initiative in Delhi
+- OpenAI may launch a ChatGPT-powered smart speaker that watches and advises users
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-to-train-20-lakh-teachers-in-ai-by-2030-launches-initiative-in-delhi-10543524/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-chatgpt-smart-speaker-camera-10544243/
 
-- From mental health issues to cancer care: AI startups reimagine healthcare access with smart diagnostics, digital tools, tele-doctors
+- iOS 26.4 expands CarPlay with smarter AI and enhanced in-car entertainment
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/from-mental-health-issues-to-cancer-care-ai-startups-reimagine-healthcare-access-with-smart-diagnostics-digital-tools-tele-doctors-10543492/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ios-26-4-expands-carplay-with-smarter-ai-and-enhanced-in-car-entertainment-10544255/
 
 - Indian-origin executive Asha Sharma named Microsoft Gaming CEO; all you need to know about her
   Microsoft Gaming has been grappling with tariff-induced cost pressures, strong competition and uncertain consumer spending. Asha Sharma's appointment
@@ -60,25 +60,33 @@
   South Africa's dairy industry is at serious risk, says one of the country's leading dairy companies. Restrictions placed on the dairy
   🔗 https://www.livemint.com/companies/south-africa-cattle-virus-response-in-shambles-says-dairy-firm-11771613842743.html
 
-- Monthly equity savings you need to accumulate  ₹10 crore in 15 years
-  To accumulate  ₹10 crore in 15 years, an investor needs to follow the 15 x 15 x15 rule
-  🔗 https://www.livemint.com/market/stock-market-news/mutual-fund-sip-calculator-monthly-equity-savings-you-need-to-accumulate-rs-10-crore-in-15-years-how-to-become-rich-11771653526222.html
+- Small-cap IT stock sets new board meeting date for proposed 100% acquisition via share swap
+  Blue Cloud Softech Solutions announced a board meeting on 23 February 2026 to consider a 100
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-it-stock-sets-new-board-meeting-date-for-proposed-100-acquisition-via-share-swap-11771668669195.html
 
-- Engaging with Centre, states to scale up Reit and InvIT market: Sebi chairman Tuhin Kanta Pandey
-  Sebi chairman Tuhin Kanta Pandey says focus should now be
-  🔗 https://www.livemint.com/market/sebi-plans-accelerate-real-estate-infrastructure-investment-trusts-growth-11771600640339.html
+- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 23 February 2026
+  Sumeet Bagadia recommends three stocks to buy on Monday — Coal
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-23-february-2026-11771672895125.html
 
-- Gold vs silver vs Nifty 50: Which asset to prefer in your portfolio? Explained
-  Gold-silver ratio today is around 62 as the COMEX silver rate finished at $82.343/
-  🔗 https://www.livemint.com/market/stock-market-news/gold-vs-silver-vs-nifty-50-chart-which-asset-to-prefer-in-your-portfolio-explaine-11771645953547.html
+- 5100% rally in five years! Multibagger stock reverses acquisition of Sunbridge Agro. Details here
+  Elitecon International Ltd. will hold a board meeting on February 27, 2026, to discuss reversing its acquisition of
+  🔗 https://www.livemint.com/market/stock-market-news/5100-rally-in-five-years-multibagger-stock-reverses-acquisition-of-sunbridge-agro-details-here-11771669487127.html
 
-- What does the US Supreme Court decision on Trump's tariffs mean for the Indian stock market, gold, and silver rates?
-  The BSE Sensex may open over 500 points higher. Experts believe the Indian exporters are likely to
-  🔗 https://www.livemint.com/market/stock-market-news/what-us-supreme-court-decision-on-trumps-tariffs-mean-for-indian-stock-market-gold-silver-rates-11771638629751.html
+- Stocks to buy under  ₹50: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
+  Mehul Kothari of Anand Rathi recommends these three shares to buy or sell. Mother
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-50-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11771669744129.html
 
-- These three AI stocks are down big from their 52-week highs. Are they worth a bet?
-  Businesses incorporating AI are increasingly grabbing attention. Here are three that have fallen significantly from their 52-week highs
-  🔗 https://www.livemint.com/market/stock-market-news/best-ai-stocks-india-nifty-it-index-11771596448965.html
+- Can the US-Iran war buzz fuel gold price to a new peak after the US Supreme Court decision on Trump's tariffs?
+  The MCX gold rate finished marginally higher this week at  ₹1
+  🔗 https://www.livemint.com/market/commodities/can-the-us-iran-war-buzz-fuel-gold-price-to-a-new-peak-after-the-us-supreme-court-decision-on-trumps-tariffs-11771666487390.html
+
+- New Delhi Declaration on AI Impact adopted; US, UK, China among nations to endorse vision for collaborative AI
+  New Delhi Declaration on AI Impact adopted; US, UK, China
+  🔗 https://www.livemint.com/technology/new-delhi-declaration-on-ai-impact-adopted-us-uk-china-among-nations-to-endorse-vision-for-collaborative-ai-11771675183323.html
+
+- iPhone 17 resale numbers are high just a few months after launch — Here's why Americans are selling the Apple smartphone
+  Apple's iPhone 17 Pro Max logged 11.5% of the top 20 trade-ins in the United States. Study found owners are capitalising on strong market prices
+  🔗 https://www.livemint.com/technology/iphone-17-resale-numbers-high-soon-after-launch-why-americans-sell-apple-strong-market-prices-tradein-depreciation-value-11771658099532.html
 
 - IT leaders discuss AIs impact on SaaS at India AI Impact Summit
   IT leaders discuss AI's impact on
@@ -92,113 +100,125 @@
   US leads AI brain race followed by China,
   🔗 https://www.livemint.com/technology/us-leads-ai-brain-race-followed-by-china-singapore-india-at-6th-spot-report-11771602606918.html
 
-- ChatGPT crosses 100 million weekly users in India; 18–24-year-olds send half the messages: OpenAI
-  50% of ChatGPT messages in India come from users aged 18-24. The country has surpassed 100 million weekly active users, with 35%
-  🔗 https://www.livemint.com/technology/tech-news/chatgpt-now-has-over-100-million-weekly-users-from-india-18-24-year-olds-send-half-the-messages-openai-11771581433489.html
+- Stocks Fall, Oil Climbs with Geopolitics in Focus: Markets Wrap - Bloomberg.com
+  The markets are taking a turn for the
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXkyWDJESk9JX0tNNVhBX2hHNWZ1TmhzQlR3UG1FZHdkQjl2M0hUODdHcGhVeDVweXRWa1EtYVFGUzdxbmxKUEpRbzB1ZEl4ZGVyUmlXdjhsNjJvQi1iZ1k1U3BVd1otX3JCS3ZMZExOalQ0cTFkM3NrWUJ5V1dqcS16Q3lIQzhEZDN2U2hyajlleEFx?oc=5
 
-- Are DeepSeek Moments Now the New Normal?
-  A little-known Chinese AI company recently released an open-source reasoning model. It challenged Western dominance and was developed at
-  🔗 https://www.livemint.com/technology/are-deepseek-moments-now-the-new-normal-11771585662215.html
+- Sweeping tariffs gone but Trump's 10% global tariffs on. What to expect from markets on Monday? - The Economic Times
+  The Economic Times asks what to expect from markets on Monday.
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTVN6bUVWek5rQ0ZoSVFJdk1kM09GUFJQRGdqTE91XzdsaFVrNHFlRXNHT3JDQkZkUXlQVUgxWEUxbGRJemNPUUtkbnFKTE5IYVc5TE1ZT1Z4di1jVFhQODN1ZmNwT09ZZFBGdFlsTmFSc0E5WnlQSjRQcG5LZjZIRXJiUGxoRlVhczBnMHR6RXVibHJXY0NzRkxFRlVSek9Rd2JXV2ozTElVTHJsczlrNEtuTXFKOTU0T0cxamlXelBjRC1vQXAxVFNJYlZLUU8wYkZSb0Y5RHFXRVFqVWxRRXJXSjRIbmVXMjI1Sm1RODhhSU1WdVJacdIB_gFBVV95cUxPUlgxcEZTSFlfaDhHNWl4eU9pS0xkaGU4TjBKMnFQQmZJUUZEdmktU2dBeVVVUDZ0cENUeTVQRG1zemV4cmJpRTdpZm9QWnoyYWtsMjFqdF9lcG5TTHF4bkJpb3pCNlViN011M0tKOFc3eG5EU3FZUWxkVUk1TnhicU82OHY5NG10eGRwU3YwdXU5dmRkMU1LaTJsblBCdFRqTzkwUEtQYTR1OExvUFRUUVFobHlCbmdpeW5CRmNyVkU3Skd4UkhhRXhTdTRBWHNkTjhRSnVfNV9TRF9LS01aTkIwbFY2LVhuaTM4d1R5dHotNmdFUlRYYTE2ZnJLQQ?oc=5
 
-- US-Iran conflict may spike India’s crude prices and fuel inflation
-  Rising tensions between the United States and Iran risk disrupting crude flows through the strategic Strait of Hormuz. Even limited disruption could widen volatility as import-dependent economies brace for higher energy costs
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/us-iran-conflict-may-spike-indias-crude-prices-and-fuel-inflation/articleshow/128636049.cms
+- Traders brace for Trump's new tariff plan, possible Iran attack and Nvidia earnings - CNBC
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHpoVzR1aEVhYU9vM0h2SEhHc3JpVjdpbUl0bi1JWW9meWdNU2owSG1TT3FvUlpNU1R3U3duYWo4WjBqQnhuQ29ONGRxa3pDZjFSQWNndEdGdkI5ckhhOEgyTE1ESTRUWjlVMml5LXdIZXJKMkdiT3J2MW4tZEMwcUFyUW56MDdQdHV5dUdOejc?oc=5
 
-- F&amp;O Talk | What the current long-short ratio tells about FII positioning? Sudeep Shah on Ola, Newgen, 4 more top weekly movers
-  Nifty consolidates in a narrow range. FII positioning shows gradual short covering but remains cautious. IT stocks stay under pressure, while banking and PSU sectors show strength.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-what-the-current-long-short-ratio-tells-about-fii-positioning-sudeep-shah-on-ola-newgen-4-more-top-weekly-movers/articleshow/128635975.cms
+- Markets News, Feb. 20, 2026: Stocks Rise After Supreme Court Strikes Down Tariffs; Nasdaq Snaps 5-Week Losing Streak - Investopedia
+  The Nasdaq snapped a five-week losing streak on Monday.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQTXBmWTNpVzRBeFpsVWUyeEJHbm9oNjJjUk1Ed2FLVkFnakxFXzJtZm80bW1nVXhNT1FZYmVSelp0Vy1qUVJBVGZFR2dyUjZFeU4tcGlCdlRXd3ZsTWl1VzRrUS1pNzJoN3VYcmU0cUMtSFJ0aFgxTmt1OHJNaVlHV3d2ZmxIYmJoUGZUZHg0Tzg?oc=5
 
-- Fund Manager Talk | Multi-asset funds are about balance, not chasing gold: DSP MF’s Aparna Karnik
-  Multi-asset funds focus on balance, not chasing short-term gains in gold or equities. Disciplined diversification, calibrated equity exposure, systematic rebalancing, and selective allocations to RE
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/fund-manager-talk-multi-asset-funds-are-about-balance-not-chasing-gold-dsp-mfs-aparna-karnik/articleshow/128635697.cms
+- US stocks today: Markets jump after Supreme Court strikes down Trump tariffs; investors weigh weak data - The Times of India
+  The Times of India is a leading English-language newspaper based in India.
+  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxQQklmZmxkalQtU3V5SS0tYmh5Y2NIWjBLcUhaN2FmZlZNTmhDSnlBT0RfMHd6YXAtRDhFcFA1aFJUVFlsY2RvOWFfVmRSNUlIMXA3X1lxTjFEQVliUjlFQVFNcjZjcXVNN2MxQXVZZWVEU3NjRFMyOVBQMHhuMEgwdFFNTU9uNzd3bVFUUHQxLUVleWxKQ1B1WUk4QXNxQmZmOW5kQ3ozTlFSU0tQNV9NNkVGUU9lMHBIVjZvSy1yc3ktWHZmb2ZlY2V5NnRIMUN6VEtrMVVGdW1tM25QTEt6NllhRzNWd1RMU2FFQmRveUVySHRkQy1lT01uZDdYZXlqbnBydHpMY0JtcUphalRzNnZmc215dTRJNjVidW44TURtRFQ1bS1nNWNn0gGvAkFVX3lxTFBNcVNmWHpFLTIzLWdLbEtUR0VRY3hDVlh1YzNKbGw0dzZPNGtSSmxvanNfZGlBUzFQdzA1NmJUV2xCaFlHa0tseVBxV0hsYUtDUTRjUlpRdmNoQVNhSVV3T0JfY214QlpSRm1oWTFIcW14YmRVQ1ZNbmNaQVZZSG1nU0RPcGtfcjdXalNrN0J1QXVGRUNvTUZsLWEwSWxTVFdTaC0tWXVKZ0RDTUdKb2RPSDkyeEc1WDI0bmQ3RERDSWdRaFg5NnFSVTZSS3BEbTgtQVdaMklUR2dKTjNWak9zajRQTkFkSjlIWmRtT1BvUGhmUU9CTk9qanNDTHhzb3hqWlJOZUlySlhEN2p0bjAwS3ozUWQ5YlByWGZ5THVTdkd6TFFnMVFRXzVEc005NA?oc=5
 
-- Bitcoin won over Wall Street and now it’s paying the price
-  Institutional investors expected Bitcoin to hedge against inflation and market stress. This has led to reduced demand and a market that struggles to react to positive news.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-won-over-wall-street-and-now-its-paying-the-price/articleshow/128635136.cms
+- FIIs turn buyers in February with Rs 16,912 crore worth of equity inflows. Is this a sign of trend reversal?
+  FIIs turned net buyers in February, investing Rs 16,912 crore amid improved Q3 corporate earnings. Analysts see this as a potential trend reversal, with continued FPI inflows expected through FY26.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-turn-buyers-in-february-with-rs-16912-crore-worth-of-equity-inflows-is-this-a-sign-of-trend-reversal/articleshow/128641902.cms
 
-- CleanMax IPO: Temasek, Tata Investment among others invest in Rs 921 crore anchor round
-  CleanMax raised Rs 921 crore from anchor investors ahead of its Rs 3,100 crore IPO. The robust anchor response underscores rising investor interest in commercial and industrial clean-energy platforms
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/cleanmax-ipo-temasek-tata-investment-among-others-invest-in-rs-921-crore-anchor-round/articleshow/128634771.cms
+- US new home sales fall in December; inventory declines
+  New U.S. single-family home sales dipped 1.7% in December. Supply of homes under construction reached a nearly 4-1/2 year low.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-new-home-sales-fall-in-december-inventory-declines/articleshow/128639985.cms
 
-- Nothing changes for India: Donald Trump's big statement on trade deal after US Supreme Court strikes down - The Times of India
-  The Times of India reported that the US Supreme Court struck down a key part of the
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMlI2N1J3aUpBQ29MZjlTQzByZlFwVk1VLTZGTnZMS1ZmNFdMcXRmVmlrTFI5SGJ3UHVrR2I5aUFwaElCMXVuZjFLZmQ1b2dubEl5RWtxVFlPRDdUQjIxM0hHZE5lcEtLSGQwN2Z1cDhJT0k0YXRMbUZMcG1yUmJMb05IYUVrVXJPNVJIT05vaDFVbDI3V2M2YTJJUWgzNTI3RnFxdEtza3B5ZzlMTjZDOXlKRFVJYmFweGlTRkpVOVhNWkVIdC1XSmt6RFlOcHZqajlFYmJ4NlJuV0VWVDZURmFkdkRzVHlLZkgwTFl4WEtkb1p2OUdka9IB_gFBVV95cUxPVGhTNjdiYlo1Y052QTN0aTlQeko3RUNhQVJPbTZqaG5YOHEtVkQ1cEFSZzFLYUpHTFVTVy05a0w0ZlZuc1U0OWc1TnZKdzZKbVJtNEdwRzFwWXkwZWRnYS1ZY0FVeVBOVkZsUXJHVzZiei0xU3hxSDlZXy1qaXZ4NXZxZlItcnhLUXdCZ3NybDRTWlhGcmNuU01OQUVXaDNsSV9iTzNsa3hObTJRUmlqQzlCSkJyb1ZqdnFOU3FvRWxmdTVQbVJRSXdvNFpaZlZEZl85QUJYOFF3TkZ1WHExd19kMUVQRGtoZXVzakp4QmZqcFNlOWxod3FBUG1oZw?oc=5
+- Sweeping tariffs gone but Trump's 10% global tariffs on. What to expect from markets on Monday?
+   Markets may open strong after the US Supreme Court struck down Trump’s tariffs. However, a new 10% global tariff introduces uncertainty. Export sectors, metals and pharma remain in focus.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sweeping-tariffs-gone-but-trumps-10-global-tariffs-on-what-to-expect-from-markets-on-monday/articleshow/128638352.cms
 
-- '200% Tariff, 11 Jets Down': Trump's Latest On India-Pak Ceasefire - NDTV
-  '200% Tariff, 11 Jets
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjVPOXhxWE1ObDRNcnlyZmcxLUpDS09uc05sd2pEcURWY3Y2TXo0Z0JhMXd3SWVENXN6UF9Xb3kxdDZ5QjBYOGxOMHhSMWxhRVozUS1IblAwUDRqemQ4MGVES1Z0cnZLVkx1Sm43cDFoTk8xNVNhSWo2ZGZMam1wNWhEQnIxVW5qM1JpSEVNRzZELVUtZG56V3d6Y1laaVgtR25iNkFreVBOcXIwOEt4ZTV4b3JIWVFhMFVr0gHDAUFVX3lxTE5NVnV2ZjdWQ1ZIOXNuZ2o0cHJ3a0JSb2Y0OWFOdVlwd3BzQXpxTXkydEdyX3lQbTgtM3FfdDN0UllhdWlyaWNoRno2ZWpsYXVjdXpxRE9mRndXQlFRdzZ1WS04SkNKQnc2SkhacWxDMGJRMXJzQThmT3NPaU5sLUN2ZEtTbDlMYU1LZmpQZ0JBdWtCNjF1SHFZcHI1dnpUXzVBTnprVnJ5dnd5SDVHZU9fWG9yakhqWERlQU8zOGxEZjl2bw?oc=5
+- Bitcoin trades around $68,000, shows resilience despite new US tariff developments
+  Bitcoin held steady near $68,000 on Saturday, showing resilience despite new U.S. tariff developments. Major altcoins also posted gains as market sentiment improved. Analysts note strengthening technical structure, with Bitcoin testing key resistance
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-around-68000-shows-resilience-despite-new-us-tariff-developments/articleshow/128637813.cms
 
-- Trump tariffs live updates: US tariffs for India slashed to 10% after Trump's proclamation over SC ruling | World News - Hindustan Times
-  Hindustan Times: US tariffs for India slashed to 10% after Trump's proclamation over SC
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxONmJLOGtUMVZkZTlVUmNRbEhqOTBUR3RDRml4WUtmeUs4VS1oZ1pMMUlQc09SMW9GcWIxOFlUWjhaNF90QXdMMU4xemswVFB4bEh5V3VzdE5Gdnp2TTRIMjdUaGVCOENtaVhUXzAxMUt0QklrTFJmN0h4c1R6TDVTdy1iVFltYjd3eG11dW52YWtHdFF3UU5nN2JKX2oyYi1BNjc5MUhBRjYxRHJtUlJJcDRnRncwNTN5dGRsTlFBb0k3WndlXy1wY1lhQUc5eUFwdWZ2c183NnRTTWtNNDZzZGRLUTJ2b3E2ZVpLRmpQMNIB9AFBVV95cUxNNTlQalUyNE9vWHJTM0ExblExeExMTzByMlJHVVZLZC03YXZGTExZLUwxektTSmFWVnV0cTgxdDdlNkZUU0tXaXZoNjZpVDlPb0M0NXFpaGwxa01PSGlHUVdsTVphV0c4dzFNSUpsbG1DRGVXN3c0NHhBT0VaWnFaS253eFhiUmRjUEhqWm0xU0xmM193eGVOb3plS1pKaE1xdFoxaDloTUFmNGJYa1BCbzBWZE9BRkRnU0hvUDllTG9kTERaNnVHWGZSSEUzakVXVnROeWZIRFBIamF0d3UxSXRvc3pHMzNiVFRaeDJ2MmxLMF9v?oc=5
-
-- India sharpens demand for United Nations Security Council reform - News On AIR
-  India sharpens demand for United Nations Security Council
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPQl9DSFhTYTFubWdwNHpOc01pSFdFWjR5bFhxYXZ2d0pMWEhLWkNlYnU4US01MGl4b1FhRnlMdUpkNW44cnJWcjhBZTNlYTV3Q3NsbmdxcHFrXzVTUWtWcjhkcU1VMFV5enQzVFNDRkx3OHU2Ym5PM0otdi1ONGlBMHl4UVlVdXRsT3VqYks1TGdubk1GbnVRUHZ3?oc=5
-
-- BJP Workers Wave Black Flags At Rahul Gandhi Day After Congress's "Shirtless" Protest - NDTV
-  BJP Workers Wave Black Flags At Rahul Gandhi Day After
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjhSYXVQV0lHTUNCTGpHdGRTR2dxM3ZOc004RWY0UkhjaWpWamR0ZTZ6S1phQ29TSEdhMm8wbFpoVlRjOXY4U3Z1WVlkd21pOEQwQjhob2pwaHlZTXNqZVI1eFpKYkh4a0RBMWkzcDJObHdPVE9jcFVPRnk4cThmTlZaRXFLelVfendnbm5qZDFaYTJLeTJJTU9MV0o0SXp0dDZIOU9UMThaa0hPYVlvZ1VuZjRsVGVOXzN6NWpqeTLSAcgBQVVfeXFMT3RKTUwxUXFQa1BESXVnREItNERaVFRkMXIyVzZxNEZKV0pObi1JRWdjTmNsSEl3dllFX1RfVXFXN1gzRWhQVzhhbUY3dC05a2JWaF9QM01XNUlNOTVqelNxY0xxNVpfdXlMQVNFRTJFdlA5OG9QTUd5WnVaNWlUY3FyVFdGUlBzcVoyc3NGWGQySWEwRmJ1akxxNkhhRUQ5a3R0aGVRY2hBVkp4OEV4aGNCU2Y4cjVxS2V6U3d1ZUp6TUUzS0JWdGo?oc=5
+- Powering the AI revolution: A Rs 200 lakh crore opportunity for capital markets
+  India’s maturing capital markets, REITs, InvITs and global investor appetite position the country to finance this next big private-sector-led buildout.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/powering-the-ai-revolution-a-rs-200-lakh-crore-opportunity-for-capital-markets/articleshow/128637716.cms
 
 - Nothing changes for India: Donald Trump's big statement on trade deal after US Supreme Court strikes down - The Times of India
   The Times of India reported that the US Supreme Court struck down a key part of the
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMlI2N1J3aUpBQ29MZjlTQzByZlFwVk1VLTZGTnZMS1ZmNFdMcXRmVmlrTFI5SGJ3UHVrR2I5aUFwaElCMXVuZjFLZmQ1b2dubEl5RWtxVFlPRDdUQjIxM0hHZE5lcEtLSGQwN2Z1cDhJT0k0YXRMbUZMcG1yUmJMb05IYUVrVXJPNVJIT05vaDFVbDI3V2M2YTJJUWgzNTI3RnFxdEtza3B5ZzlMTjZDOXlKRFVJYmFweGlTRkpVOVhNWkVIdC1XSmt6RFlOcHZqajlFYmJ4NlJuV0VWVDZURmFkdkRzVHlLZkgwTFl4WEtkb1p2OUdka9IB_gFBVV95cUxPVGhTNjdiYlo1Y052QTN0aTlQeko3RUNhQVJPbTZqaG5YOHEtVkQ1cEFSZzFLYUpHTFVTVy05a0w0ZlZuc1U0OWc1TnZKdzZKbVJtNEdwRzFwWXkwZWRnYS1ZY0FVeVBOVkZsUXJHVzZiei0xU3hxSDlZXy1qaXZ4NXZxZlItcnhLUXdCZ3NybDRTWlhGcmNuU01OQUVXaDNsSV9iTzNsa3hObTJRUmlqQzlCSkJyb1ZqdnFOU3FvRWxmdTVQbVJRSXdvNFpaZlZEZl85QUJYOFF3TkZ1WHExd19kMUVQRGtoZXVzakp4QmZqcFNlOWxod3FBUG1oZw?oc=5
 
-- '200% Tariff, 11 Jets Down': Trump's Latest On India-Pak Ceasefire - NDTV
-  '200% Tariff, 11 Jets
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjVPOXhxWE1ObDRNcnlyZmcxLUpDS09uc05sd2pEcURWY3Y2TXo0Z0JhMXd3SWVENXN6UF9Xb3kxdDZ5QjBYOGxOMHhSMWxhRVozUS1IblAwUDRqemQ4MGVES1Z0cnZLVkx1Sm43cDFoTk8xNVNhSWo2ZGZMam1wNWhEQnIxVW5qM1JpSEVNRzZELVUtZG56V3d6Y1laaVgtR25iNkFreVBOcXIwOEt4ZTV4b3JIWVFhMFVr0gHDAUFVX3lxTE5NVnV2ZjdWQ1ZIOXNuZ2o0cHJ3a0JSb2Y0OWFOdVlwd3BzQXpxTXkydEdyX3lQbTgtM3FfdDN0UllhdWlyaWNoRno2ZWpsYXVjdXpxRE9mRndXQlFRdzZ1WS04SkNKQnc2SkhacWxDMGJRMXJzQThmT3NPaU5sLUN2ZEtTbDlMYU1LZmpQZ0JBdWtCNjF1SHFZcHI1dnpUXzVBTnprVnJ5dnd5SDVHZU9fWG9yakhqWERlQU8zOGxEZjl2bw?oc=5
+- Trump's Loss, India's Gain? How Tariff Order Could Affect Trade Talks - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SEEtMTlqOU1CSHZPeEVjOUV4dl92X09Sc3VVemE0Qm1YYXYxUEJ0UXNycmw4a1FtdDhPZ2J0eGNncTVGV3dtam1FWUNsSUdBUjY2Y2loUDhhLVNtbENnU2lfMklKV3JtN0dCTzVzSnFFMTRr0gHbAUFVX3lxTE1RRndhc2ZmaElpay1sU01FaHdqd0ExWkZsWEFidXczVy1vUTctSW1tMVhzWWJVS3JoR01QZTFidGJrMGNZVTMyUlVLaWg4QnY1SG5NS3IybXdRemRWLTZ2WW1QU3hhSjNrRlViTVYxVnlER3F0Y3FmV1daMXZkQ0Y2MjdRaGdkWVdRNEJmQVU5bXZwN05WNUo4WEVYQjlBcG1XWHI5eHRXM2tCOVhpVlI2NEo4Q2taaUpVNmhyTU5VRlBmV1B4V2ZGZXN4Sm1XSlY1S3VjUmJsVkdJTQ?oc=5
 
-- Trump tariffs live updates: US tariffs for India slashed to 10% after Trump's proclamation over SC ruling | World News - Hindustan Times
-  Hindustan Times: US tariffs for India slashed to 10% after Trump's proclamation over SC
+- Trump tariffs live: India says ‘studying’ US Supreme Court ruling; France says ‘good to have rule of law’ | World News - Hindustan Times
+  " target="_blank">Trump tariffs live: India says ‘studying’ US
   🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxONmJLOGtUMVZkZTlVUmNRbEhqOTBUR3RDRml4WUtmeUs4VS1oZ1pMMUlQc09SMW9GcWIxOFlUWjhaNF90QXdMMU4xemswVFB4bEh5V3VzdE5Gdnp2TTRIMjdUaGVCOENtaVhUXzAxMUt0QklrTFJmN0h4c1R6TDVTdy1iVFltYjd3eG11dW52YWtHdFF3UU5nN2JKX2oyYi1BNjc5MUhBRjYxRHJtUlJJcDRnRncwNTN5dGRsTlFBb0k3WndlXy1wY1lhQUc5eUFwdWZ2c183NnRTTWtNNDZzZGRLUTJ2b3E2ZVpLRmpQMNIB9AFBVV95cUxNNTlQalUyNE9vWHJTM0ExblExeExMTzByMlJHVVZLZC03YXZGTExZLUwxektTSmFWVnV0cTgxdDdlNkZUU0tXaXZoNjZpVDlPb0M0NXFpaGwxa01PSGlHUVdsTVphV0c4dzFNSUpsbG1DRGVXN3c0NHhBT0VaWnFaS253eFhiUmRjUEhqWm0xU0xmM193eGVOb3plS1pKaE1xdFoxaDloTUFmNGJYa1BCbzBWZE9BRkRnU0hvUDllTG9kTERaNnVHWGZSSEUzakVXVnROeWZIRFBIamF0d3UxSXRvc3pHMzNiVFRaeDJ2MmxLMF9v?oc=5
 
-- India sharpens demand for United Nations Security Council reform - News On AIR
-  India sharpens demand for United Nations Security Council
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPQl9DSFhTYTFubWdwNHpOc01pSFdFWjR5bFhxYXZ2d0pMWEhLWkNlYnU4US01MGl4b1FhRnlMdUpkNW44cnJWcjhBZTNlYTV3Q3NsbmdxcHFrXzVTUWtWcjhkcU1VMFV5enQzVFNDRkx3OHU2Ym5PM0otdi1ONGlBMHl4UVlVdXRsT3VqYks1TGdubk1GbnVRUHZ3?oc=5
+- Over 5 Lakh Visitors attend India AI Impact Expo - News On AIR
+  Over 5 Lakh Visitors attend India AI Impact
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxORXBSeEtRMmM3ZjNIWl8zSDkzX2NQelVtam81Q1NDa01SODdoaW10d0hGOGpFRmprdFlXbUVtQ01Cb1ZRR2RiSF9HMDEyNXFna1Jyellva3R3d0Rzcl9aNE9LbHJWMWtOU3MxRDVwUUIwdGdpeUxnZUJta1VlSzB0a2tsN1g?oc=5
 
-- BJP Workers Wave Black Flags At Rahul Gandhi Day After Congress's "Shirtless" Protest - NDTV
-  BJP Workers Wave Black Flags At Rahul Gandhi Day After
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjhSYXVQV0lHTUNCTGpHdGRTR2dxM3ZOc004RWY0UkhjaWpWamR0ZTZ6S1phQ29TSEdhMm8wbFpoVlRjOXY4U3Z1WVlkd21pOEQwQjhob2pwaHlZTXNqZVI1eFpKYkh4a0RBMWkzcDJObHdPVE9jcFVPRnk4cThmTlZaRXFLelVfendnbm5qZDFaYTJLeTJJTU9MV0o0SXp0dDZIOU9UMThaa0hPYVlvZ1VuZjRsVGVOXzN6NWpqeTLSAcgBQVVfeXFMT3RKTUwxUXFQa1BESXVnREItNERaVFRkMXIyVzZxNEZKV0pObi1JRWdjTmNsSEl3dllFX1RfVXFXN1gzRWhQVzhhbUY3dC05a2JWaF9QM01XNUlNOTVqelNxY0xxNVpfdXlMQVNFRTJFdlA5OG9QTUd5WnVaNWlUY3FyVFdGUlBzcVoyc3NGWGQySWEwRmJ1akxxNkhhRUQ5a3R0aGVRY2hBVkp4OEV4aGNCU2Y4cjVxS2V6U3d1ZUp6TUUzS0JWdGo?oc=5
+- 88 Nations Adopt New Delhi Declaration, Back India's "AI For All" Vision - NDTV
+  88 Nations Adopt New Delhi Declaration, Back India
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXk4NmExQzRqMDZfUmJxX3dHSFhTbkJkZnNVbTVrbVl6OG9MSHJpMWRodFRZSm1WOVlLSVVHdTFlMzdjOWNfZmEwYkRLc1duZmFaUTdiWmtoTW1YODZYVVg5eVVFcm94bmpPLUNrQ0Z6WHBFV2ZzRmJPbU1NaUQzUUtXUUtvSFBGZDVtQ3ZNeEt2cE9wUjdPbVlVSGNjU2VqcW8wbFI2b0hxWWxfSGfSAbYBQVVfeXFMTlNFYnh2M1IyY3BZbWduM1hvZ2x2RU9DVHJwOWNkYUtUZER3MEJ3U3o2QWtKYURWVnRsUzlkRTJleVFiU0hfci01QkNWU3FpSzZNR0t4aUF1XzJ3MDg3TFJMcDFrTTd6ZEwzUUYxUmFwX09RTVpiQkJuRWhqcnlCRWNpYi1VZjZTNkxsTmZ2QThKUkRqbGlDUmdhdGt3WHpNSkdUWEVYUS00SlZYRmVpNzkwS01pTHc?oc=5
 
 - Nothing changes for India: Donald Trump's big statement on trade deal after US Supreme Court strikes down - The Times of India
   The Times of India reported that the US Supreme Court struck down a key part of the
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMlI2N1J3aUpBQ29MZjlTQzByZlFwVk1VLTZGTnZMS1ZmNFdMcXRmVmlrTFI5SGJ3UHVrR2I5aUFwaElCMXVuZjFLZmQ1b2dubEl5RWtxVFlPRDdUQjIxM0hHZE5lcEtLSGQwN2Z1cDhJT0k0YXRMbUZMcG1yUmJMb05IYUVrVXJPNVJIT05vaDFVbDI3V2M2YTJJUWgzNTI3RnFxdEtza3B5ZzlMTjZDOXlKRFVJYmFweGlTRkpVOVhNWkVIdC1XSmt6RFlOcHZqajlFYmJ4NlJuV0VWVDZURmFkdkRzVHlLZkgwTFl4WEtkb1p2OUdka9IB_gFBVV95cUxPVGhTNjdiYlo1Y052QTN0aTlQeko3RUNhQVJPbTZqaG5YOHEtVkQ1cEFSZzFLYUpHTFVTVy05a0w0ZlZuc1U0OWc1TnZKdzZKbVJtNEdwRzFwWXkwZWRnYS1ZY0FVeVBOVkZsUXJHVzZiei0xU3hxSDlZXy1qaXZ4NXZxZlItcnhLUXdCZ3NybDRTWlhGcmNuU01OQUVXaDNsSV9iTzNsa3hObTJRUmlqQzlCSkJyb1ZqdnFOU3FvRWxmdTVQbVJRSXdvNFpaZlZEZl85QUJYOFF3TkZ1WHExd19kMUVQRGtoZXVzakp4QmZqcFNlOWxod3FBUG1oZw?oc=5
 
-- '200% Tariff, 11 Jets Down': Trump's Latest On India-Pak Ceasefire - NDTV
-  '200% Tariff, 11 Jets
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjVPOXhxWE1ObDRNcnlyZmcxLUpDS09uc05sd2pEcURWY3Y2TXo0Z0JhMXd3SWVENXN6UF9Xb3kxdDZ5QjBYOGxOMHhSMWxhRVozUS1IblAwUDRqemQ4MGVES1Z0cnZLVkx1Sm43cDFoTk8xNVNhSWo2ZGZMam1wNWhEQnIxVW5qM1JpSEVNRzZELVUtZG56V3d6Y1laaVgtR25iNkFreVBOcXIwOEt4ZTV4b3JIWVFhMFVr0gHDAUFVX3lxTE5NVnV2ZjdWQ1ZIOXNuZ2o0cHJ3a0JSb2Y0OWFOdVlwd3BzQXpxTXkydEdyX3lQbTgtM3FfdDN0UllhdWlyaWNoRno2ZWpsYXVjdXpxRE9mRndXQlFRdzZ1WS04SkNKQnc2SkhacWxDMGJRMXJzQThmT3NPaU5sLUN2ZEtTbDlMYU1LZmpQZ0JBdWtCNjF1SHFZcHI1dnpUXzVBTnprVnJ5dnd5SDVHZU9fWG9yakhqWERlQU8zOGxEZjl2bw?oc=5
+- Trump's Loss, India's Gain? How Tariff Order Could Affect Trade Talks - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SEEtMTlqOU1CSHZPeEVjOUV4dl92X09Sc3VVemE0Qm1YYXYxUEJ0UXNycmw4a1FtdDhPZ2J0eGNncTVGV3dtam1FWUNsSUdBUjY2Y2loUDhhLVNtbENnU2lfMklKV3JtN0dCTzVzSnFFMTRr0gHbAUFVX3lxTE1RRndhc2ZmaElpay1sU01FaHdqd0ExWkZsWEFidXczVy1vUTctSW1tMVhzWWJVS3JoR01QZTFidGJrMGNZVTMyUlVLaWg4QnY1SG5NS3IybXdRemRWLTZ2WW1QU3hhSjNrRlViTVYxVnlER3F0Y3FmV1daMXZkQ0Y2MjdRaGdkWVdRNEJmQVU5bXZwN05WNUo4WEVYQjlBcG1XWHI5eHRXM2tCOVhpVlI2NEo4Q2taaUpVNmhyTU5VRlBmV1B4V2ZGZXN4Sm1XSlY1S3VjUmJsVkdJTQ?oc=5
 
-- Trump tariffs live updates: US tariffs for India slashed to 10% after Trump's proclamation over SC ruling | World News - Hindustan Times
-  Hindustan Times: US tariffs for India slashed to 10% after Trump's proclamation over SC
+- Trump tariffs live: India says ‘studying’ US Supreme Court ruling; France says ‘good to have rule of law’ | World News - Hindustan Times
+  " target="_blank">Trump tariffs live: India says ‘studying’ US
   🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxONmJLOGtUMVZkZTlVUmNRbEhqOTBUR3RDRml4WUtmeUs4VS1oZ1pMMUlQc09SMW9GcWIxOFlUWjhaNF90QXdMMU4xemswVFB4bEh5V3VzdE5Gdnp2TTRIMjdUaGVCOENtaVhUXzAxMUt0QklrTFJmN0h4c1R6TDVTdy1iVFltYjd3eG11dW52YWtHdFF3UU5nN2JKX2oyYi1BNjc5MUhBRjYxRHJtUlJJcDRnRncwNTN5dGRsTlFBb0k3WndlXy1wY1lhQUc5eUFwdWZ2c183NnRTTWtNNDZzZGRLUTJ2b3E2ZVpLRmpQMNIB9AFBVV95cUxNNTlQalUyNE9vWHJTM0ExblExeExMTzByMlJHVVZLZC03YXZGTExZLUwxektTSmFWVnV0cTgxdDdlNkZUU0tXaXZoNjZpVDlPb0M0NXFpaGwxa01PSGlHUVdsTVphV0c4dzFNSUpsbG1DRGVXN3c0NHhBT0VaWnFaS253eFhiUmRjUEhqWm0xU0xmM193eGVOb3plS1pKaE1xdFoxaDloTUFmNGJYa1BCbzBWZE9BRkRnU0hvUDllTG9kTERaNnVHWGZSSEUzakVXVnROeWZIRFBIamF0d3UxSXRvc3pHMzNiVFRaeDJ2MmxLMF9v?oc=5
 
-- India sharpens demand for United Nations Security Council reform - News On AIR
-  India sharpens demand for United Nations Security Council
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPQl9DSFhTYTFubWdwNHpOc01pSFdFWjR5bFhxYXZ2d0pMWEhLWkNlYnU4US01MGl4b1FhRnlMdUpkNW44cnJWcjhBZTNlYTV3Q3NsbmdxcHFrXzVTUWtWcjhkcU1VMFV5enQzVFNDRkx3OHU2Ym5PM0otdi1ONGlBMHl4UVlVdXRsT3VqYks1TGdubk1GbnVRUHZ3?oc=5
+- Over 5 Lakh Visitors attend India AI Impact Expo - News On AIR
+  Over 5 Lakh Visitors attend India AI Impact
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxORXBSeEtRMmM3ZjNIWl8zSDkzX2NQelVtam81Q1NDa01SODdoaW10d0hGOGpFRmprdFlXbUVtQ01Cb1ZRR2RiSF9HMDEyNXFna1Jyellva3R3d0Rzcl9aNE9LbHJWMWtOU3MxRDVwUUIwdGdpeUxnZUJta1VlSzB0a2tsN1g?oc=5
 
-- BJP Workers Wave Black Flags At Rahul Gandhi Day After Congress's "Shirtless" Protest - NDTV
-  BJP Workers Wave Black Flags At Rahul Gandhi Day After
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjhSYXVQV0lHTUNCTGpHdGRTR2dxM3ZOc004RWY0UkhjaWpWamR0ZTZ6S1phQ29TSEdhMm8wbFpoVlRjOXY4U3Z1WVlkd21pOEQwQjhob2pwaHlZTXNqZVI1eFpKYkh4a0RBMWkzcDJObHdPVE9jcFVPRnk4cThmTlZaRXFLelVfendnbm5qZDFaYTJLeTJJTU9MV0o0SXp0dDZIOU9UMThaa0hPYVlvZ1VuZjRsVGVOXzN6NWpqeTLSAcgBQVVfeXFMT3RKTUwxUXFQa1BESXVnREItNERaVFRkMXIyVzZxNEZKV0pObi1JRWdjTmNsSEl3dllFX1RfVXFXN1gzRWhQVzhhbUY3dC05a2JWaF9QM01XNUlNOTVqelNxY0xxNVpfdXlMQVNFRTJFdlA5OG9QTUd5WnVaNWlUY3FyVFdGUlBzcVoyc3NGWGQySWEwRmJ1akxxNkhhRUQ5a3R0aGVRY2hBVkp4OEV4aGNCU2Y4cjVxS2V6U3d1ZUp6TUUzS0JWdGo?oc=5
+- 88 Nations Adopt New Delhi Declaration, Back India's "AI For All" Vision - NDTV
+  88 Nations Adopt New Delhi Declaration, Back India
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXk4NmExQzRqMDZfUmJxX3dHSFhTbkJkZnNVbTVrbVl6OG9MSHJpMWRodFRZSm1WOVlLSVVHdTFlMzdjOWNfZmEwYkRLc1duZmFaUTdiWmtoTW1YODZYVVg5eVVFcm94bmpPLUNrQ0Z6WHBFV2ZzRmJPbU1NaUQzUUtXUUtvSFBGZDVtQ3ZNeEt2cE9wUjdPbVlVSGNjU2VqcW8wbFI2b0hxWWxfSGfSAbYBQVVfeXFMTlNFYnh2M1IyY3BZbWduM1hvZ2x2RU9DVHJwOWNkYUtUZER3MEJ3U3o2QWtKYURWVnRsUzlkRTJleVFiU0hfci01QkNWU3FpSzZNR0t4aUF1XzJ3MDg3TFJMcDFrTTd6ZEwzUUYxUmFwX09RTVpiQkJuRWhqcnlCRWNpYi1VZjZTNkxsTmZ2QThKUkRqbGlDUmdhdGt3WHpNSkdUWEVYUS00SlZYRmVpNzkwS01pTHc?oc=5
 
 - Nothing changes for India: Donald Trump's big statement on trade deal after US Supreme Court strikes down - The Times of India
   The Times of India reported that the US Supreme Court struck down a key part of the
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMlI2N1J3aUpBQ29MZjlTQzByZlFwVk1VLTZGTnZMS1ZmNFdMcXRmVmlrTFI5SGJ3UHVrR2I5aUFwaElCMXVuZjFLZmQ1b2dubEl5RWtxVFlPRDdUQjIxM0hHZE5lcEtLSGQwN2Z1cDhJT0k0YXRMbUZMcG1yUmJMb05IYUVrVXJPNVJIT05vaDFVbDI3V2M2YTJJUWgzNTI3RnFxdEtza3B5ZzlMTjZDOXlKRFVJYmFweGlTRkpVOVhNWkVIdC1XSmt6RFlOcHZqajlFYmJ4NlJuV0VWVDZURmFkdkRzVHlLZkgwTFl4WEtkb1p2OUdka9IB_gFBVV95cUxPVGhTNjdiYlo1Y052QTN0aTlQeko3RUNhQVJPbTZqaG5YOHEtVkQ1cEFSZzFLYUpHTFVTVy05a0w0ZlZuc1U0OWc1TnZKdzZKbVJtNEdwRzFwWXkwZWRnYS1ZY0FVeVBOVkZsUXJHVzZiei0xU3hxSDlZXy1qaXZ4NXZxZlItcnhLUXdCZ3NybDRTWlhGcmNuU01OQUVXaDNsSV9iTzNsa3hObTJRUmlqQzlCSkJyb1ZqdnFOU3FvRWxmdTVQbVJRSXdvNFpaZlZEZl85QUJYOFF3TkZ1WHExd19kMUVQRGtoZXVzakp4QmZqcFNlOWxod3FBUG1oZw?oc=5
 
-- '200% Tariff, 11 Jets Down': Trump's Latest On India-Pak Ceasefire - NDTV
-  '200% Tariff, 11 Jets
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjVPOXhxWE1ObDRNcnlyZmcxLUpDS09uc05sd2pEcURWY3Y2TXo0Z0JhMXd3SWVENXN6UF9Xb3kxdDZ5QjBYOGxOMHhSMWxhRVozUS1IblAwUDRqemQ4MGVES1Z0cnZLVkx1Sm43cDFoTk8xNVNhSWo2ZGZMam1wNWhEQnIxVW5qM1JpSEVNRzZELVUtZG56V3d6Y1laaVgtR25iNkFreVBOcXIwOEt4ZTV4b3JIWVFhMFVr0gHDAUFVX3lxTE5NVnV2ZjdWQ1ZIOXNuZ2o0cHJ3a0JSb2Y0OWFOdVlwd3BzQXpxTXkydEdyX3lQbTgtM3FfdDN0UllhdWlyaWNoRno2ZWpsYXVjdXpxRE9mRndXQlFRdzZ1WS04SkNKQnc2SkhacWxDMGJRMXJzQThmT3NPaU5sLUN2ZEtTbDlMYU1LZmpQZ0JBdWtCNjF1SHFZcHI1dnpUXzVBTnprVnJ5dnd5SDVHZU9fWG9yakhqWERlQU8zOGxEZjl2bw?oc=5
+- Trump's Loss, India's Gain? How Tariff Order Could Affect Trade Talks - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SEEtMTlqOU1CSHZPeEVjOUV4dl92X09Sc3VVemE0Qm1YYXYxUEJ0UXNycmw4a1FtdDhPZ2J0eGNncTVGV3dtam1FWUNsSUdBUjY2Y2loUDhhLVNtbENnU2lfMklKV3JtN0dCTzVzSnFFMTRr0gHbAUFVX3lxTE1RRndhc2ZmaElpay1sU01FaHdqd0ExWkZsWEFidXczVy1vUTctSW1tMVhzWWJVS3JoR01QZTFidGJrMGNZVTMyUlVLaWg4QnY1SG5NS3IybXdRemRWLTZ2WW1QU3hhSjNrRlViTVYxVnlER3F0Y3FmV1daMXZkQ0Y2MjdRaGdkWVdRNEJmQVU5bXZwN05WNUo4WEVYQjlBcG1XWHI5eHRXM2tCOVhpVlI2NEo4Q2taaUpVNmhyTU5VRlBmV1B4V2ZGZXN4Sm1XSlY1S3VjUmJsVkdJTQ?oc=5
 
-- Trump tariffs live updates: US tariffs for India slashed to 10% after Trump's proclamation over SC ruling | World News - Hindustan Times
-  Hindustan Times: US tariffs for India slashed to 10% after Trump's proclamation over SC
+- Trump tariffs live: India says ‘studying’ US Supreme Court ruling; France says ‘good to have rule of law’ | World News - Hindustan Times
+  " target="_blank">Trump tariffs live: India says ‘studying’ US
   🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxONmJLOGtUMVZkZTlVUmNRbEhqOTBUR3RDRml4WUtmeUs4VS1oZ1pMMUlQc09SMW9GcWIxOFlUWjhaNF90QXdMMU4xemswVFB4bEh5V3VzdE5Gdnp2TTRIMjdUaGVCOENtaVhUXzAxMUt0QklrTFJmN0h4c1R6TDVTdy1iVFltYjd3eG11dW52YWtHdFF3UU5nN2JKX2oyYi1BNjc5MUhBRjYxRHJtUlJJcDRnRncwNTN5dGRsTlFBb0k3WndlXy1wY1lhQUc5eUFwdWZ2c183NnRTTWtNNDZzZGRLUTJ2b3E2ZVpLRmpQMNIB9AFBVV95cUxNNTlQalUyNE9vWHJTM0ExblExeExMTzByMlJHVVZLZC03YXZGTExZLUwxektTSmFWVnV0cTgxdDdlNkZUU0tXaXZoNjZpVDlPb0M0NXFpaGwxa01PSGlHUVdsTVphV0c4dzFNSUpsbG1DRGVXN3c0NHhBT0VaWnFaS253eFhiUmRjUEhqWm0xU0xmM193eGVOb3plS1pKaE1xdFoxaDloTUFmNGJYa1BCbzBWZE9BRkRnU0hvUDllTG9kTERaNnVHWGZSSEUzakVXVnROeWZIRFBIamF0d3UxSXRvc3pHMzNiVFRaeDJ2MmxLMF9v?oc=5
 
-- India sharpens demand for United Nations Security Council reform - News On AIR
-  India sharpens demand for United Nations Security Council
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPQl9DSFhTYTFubWdwNHpOc01pSFdFWjR5bFhxYXZ2d0pMWEhLWkNlYnU4US01MGl4b1FhRnlMdUpkNW44cnJWcjhBZTNlYTV3Q3NsbmdxcHFrXzVTUWtWcjhkcU1VMFV5enQzVFNDRkx3OHU2Ym5PM0otdi1ONGlBMHl4UVlVdXRsT3VqYks1TGdubk1GbnVRUHZ3?oc=5
+- Over 5 Lakh Visitors attend India AI Impact Expo - News On AIR
+  Over 5 Lakh Visitors attend India AI Impact
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxORXBSeEtRMmM3ZjNIWl8zSDkzX2NQelVtam81Q1NDa01SODdoaW10d0hGOGpFRmprdFlXbUVtQ01Cb1ZRR2RiSF9HMDEyNXFna1Jyellva3R3d0Rzcl9aNE9LbHJWMWtOU3MxRDVwUUIwdGdpeUxnZUJta1VlSzB0a2tsN1g?oc=5
 
-- BJP Workers Wave Black Flags At Rahul Gandhi Day After Congress's "Shirtless" Protest - NDTV
-  BJP Workers Wave Black Flags At Rahul Gandhi Day After
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjhSYXVQV0lHTUNCTGpHdGRTR2dxM3ZOc004RWY0UkhjaWpWamR0ZTZ6S1phQ29TSEdhMm8wbFpoVlRjOXY4U3Z1WVlkd21pOEQwQjhob2pwaHlZTXNqZVI1eFpKYkh4a0RBMWkzcDJObHdPVE9jcFVPRnk4cThmTlZaRXFLelVfendnbm5qZDFaYTJLeTJJTU9MV0o0SXp0dDZIOU9UMThaa0hPYVlvZ1VuZjRsVGVOXzN6NWpqeTLSAcgBQVVfeXFMT3RKTUwxUXFQa1BESXVnREItNERaVFRkMXIyVzZxNEZKV0pObi1JRWdjTmNsSEl3dllFX1RfVXFXN1gzRWhQVzhhbUY3dC05a2JWaF9QM01XNUlNOTVqelNxY0xxNVpfdXlMQVNFRTJFdlA5OG9QTUd5WnVaNWlUY3FyVFdGUlBzcVoyc3NGWGQySWEwRmJ1akxxNkhhRUQ5a3R0aGVRY2hBVkp4OEV4aGNCU2Y4cjVxS2V6U3d1ZUp6TUUzS0JWdGo?oc=5
+- 88 Nations Adopt New Delhi Declaration, Back India's "AI For All" Vision - NDTV
+  88 Nations Adopt New Delhi Declaration, Back India
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXk4NmExQzRqMDZfUmJxX3dHSFhTbkJkZnNVbTVrbVl6OG9MSHJpMWRodFRZSm1WOVlLSVVHdTFlMzdjOWNfZmEwYkRLc1duZmFaUTdiWmtoTW1YODZYVVg5eVVFcm94bmpPLUNrQ0Z6WHBFV2ZzRmJPbU1NaUQzUUtXUUtvSFBGZDVtQ3ZNeEt2cE9wUjdPbVlVSGNjU2VqcW8wbFI2b0hxWWxfSGfSAbYBQVVfeXFMTlNFYnh2M1IyY3BZbWduM1hvZ2x2RU9DVHJwOWNkYUtUZER3MEJ3U3o2QWtKYURWVnRsUzlkRTJleVFiU0hfci01QkNWU3FpSzZNR0t4aUF1XzJ3MDg3TFJMcDFrTTd6ZEwzUUYxUmFwX09RTVpiQkJuRWhqcnlCRWNpYi1VZjZTNkxsTmZ2QThKUkRqbGlDUmdhdGt3WHpNSkdUWEVYUS00SlZYRmVpNzkwS01pTHc?oc=5
+
+- Nothing changes for India: Donald Trump's big statement on trade deal after US Supreme Court strikes down - The Times of India
+  The Times of India reported that the US Supreme Court struck down a key part of the
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMlI2N1J3aUpBQ29MZjlTQzByZlFwVk1VLTZGTnZMS1ZmNFdMcXRmVmlrTFI5SGJ3UHVrR2I5aUFwaElCMXVuZjFLZmQ1b2dubEl5RWtxVFlPRDdUQjIxM0hHZE5lcEtLSGQwN2Z1cDhJT0k0YXRMbUZMcG1yUmJMb05IYUVrVXJPNVJIT05vaDFVbDI3V2M2YTJJUWgzNTI3RnFxdEtza3B5ZzlMTjZDOXlKRFVJYmFweGlTRkpVOVhNWkVIdC1XSmt6RFlOcHZqajlFYmJ4NlJuV0VWVDZURmFkdkRzVHlLZkgwTFl4WEtkb1p2OUdka9IB_gFBVV95cUxPVGhTNjdiYlo1Y052QTN0aTlQeko3RUNhQVJPbTZqaG5YOHEtVkQ1cEFSZzFLYUpHTFVTVy05a0w0ZlZuc1U0OWc1TnZKdzZKbVJtNEdwRzFwWXkwZWRnYS1ZY0FVeVBOVkZsUXJHVzZiei0xU3hxSDlZXy1qaXZ4NXZxZlItcnhLUXdCZ3NybDRTWlhGcmNuU01OQUVXaDNsSV9iTzNsa3hObTJRUmlqQzlCSkJyb1ZqdnFOU3FvRWxmdTVQbVJRSXdvNFpaZlZEZl85QUJYOFF3TkZ1WHExd19kMUVQRGtoZXVzakp4QmZqcFNlOWxod3FBUG1oZw?oc=5
+
+- Trump's Loss, India's Gain? How Tariff Order Could Affect Trade Talks - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SEEtMTlqOU1CSHZPeEVjOUV4dl92X09Sc3VVemE0Qm1YYXYxUEJ0UXNycmw4a1FtdDhPZ2J0eGNncTVGV3dtam1FWUNsSUdBUjY2Y2loUDhhLVNtbENnU2lfMklKV3JtN0dCTzVzSnFFMTRr0gHbAUFVX3lxTE1RRndhc2ZmaElpay1sU01FaHdqd0ExWkZsWEFidXczVy1vUTctSW1tMVhzWWJVS3JoR01QZTFidGJrMGNZVTMyUlVLaWg4QnY1SG5NS3IybXdRemRWLTZ2WW1QU3hhSjNrRlViTVYxVnlER3F0Y3FmV1daMXZkQ0Y2MjdRaGdkWVdRNEJmQVU5bXZwN05WNUo4WEVYQjlBcG1XWHI5eHRXM2tCOVhpVlI2NEo4Q2taaUpVNmhyTU5VRlBmV1B4V2ZGZXN4Sm1XSlY1S3VjUmJsVkdJTQ?oc=5
+
+- Trump tariffs live: India says ‘studying’ US Supreme Court ruling; France says ‘good to have rule of law’ | World News - Hindustan Times
+  " target="_blank">Trump tariffs live: India says ‘studying’ US
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxONmJLOGtUMVZkZTlVUmNRbEhqOTBUR3RDRml4WUtmeUs4VS1oZ1pMMUlQc09SMW9GcWIxOFlUWjhaNF90QXdMMU4xemswVFB4bEh5V3VzdE5Gdnp2TTRIMjdUaGVCOENtaVhUXzAxMUt0QklrTFJmN0h4c1R6TDVTdy1iVFltYjd3eG11dW52YWtHdFF3UU5nN2JKX2oyYi1BNjc5MUhBRjYxRHJtUlJJcDRnRncwNTN5dGRsTlFBb0k3WndlXy1wY1lhQUc5eUFwdWZ2c183NnRTTWtNNDZzZGRLUTJ2b3E2ZVpLRmpQMNIB9AFBVV95cUxNNTlQalUyNE9vWHJTM0ExblExeExMTzByMlJHVVZLZC03YXZGTExZLUwxektTSmFWVnV0cTgxdDdlNkZUU0tXaXZoNjZpVDlPb0M0NXFpaGwxa01PSGlHUVdsTVphV0c4dzFNSUpsbG1DRGVXN3c0NHhBT0VaWnFaS253eFhiUmRjUEhqWm0xU0xmM193eGVOb3plS1pKaE1xdFoxaDloTUFmNGJYa1BCbzBWZE9BRkRnU0hvUDllTG9kTERaNnVHWGZSSEUzakVXVnROeWZIRFBIamF0d3UxSXRvc3pHMzNiVFRaeDJ2MmxLMF9v?oc=5
+
+- Over 5 Lakh Visitors attend India AI Impact Expo - News On AIR
+  Over 5 Lakh Visitors attend India AI Impact
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxORXBSeEtRMmM3ZjNIWl8zSDkzX2NQelVtam81Q1NDa01SODdoaW10d0hGOGpFRmprdFlXbUVtQ01Cb1ZRR2RiSF9HMDEyNXFna1Jyellva3R3d0Rzcl9aNE9LbHJWMWtOU3MxRDVwUUIwdGdpeUxnZUJta1VlSzB0a2tsN1g?oc=5
+
+- 88 Nations Adopt New Delhi Declaration, Back India's "AI For All" Vision - NDTV
+  88 Nations Adopt New Delhi Declaration, Back India
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXk4NmExQzRqMDZfUmJxX3dHSFhTbkJkZnNVbTVrbVl6OG9MSHJpMWRodFRZSm1WOVlLSVVHdTFlMzdjOWNfZmEwYkRLc1duZmFaUTdiWmtoTW1YODZYVVg5eVVFcm94bmpPLUNrQ0Z6WHBFV2ZzRmJPbU1NaUQzUUtXUUtvSFBGZDVtQ3ZNeEt2cE9wUjdPbVlVSGNjU2VqcW8wbFI2b0hxWWxfSGfSAbYBQVVfeXFMTlNFYnh2M1IyY3BZbWduM1hvZ2x2RU9DVHJwOWNkYUtUZER3MEJ3U3o2QWtKYURWVnRsUzlkRTJleVFiU0hfci01QkNWU3FpSzZNR0t4aUF1XzJ3MDg3TFJMcDFrTTd6ZEwzUUYxUmFwX09RTVpiQkJuRWhqcnlCRWNpYi1VZjZTNkxsTmZ2QThKUkRqbGlDUmdhdGt3WHpNSkdUWEVYUS00SlZYRmVpNzkwS01pTHc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-21 06:40:05 UTC_
+_Last updated: 2026-02-21 12:40:51 UTC_
