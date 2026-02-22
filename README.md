@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- CBSE exams in winter behind drop in Ladakh Class 10, 12 pass percentages, say officials
+  
+  🔗 https://indianexpress.com/article/india/cbse-exams-in-winter-behind-drop-in-ladakh-class-10-12-pass-percentages-say-officials-10545046/
+
+- Centre asks states to wrap up household survey by April-end
+  
+  🔗 https://indianexpress.com/article/india/centre-asks-states-to-wrap-up-household-survey-by-april-end-10545082/
+
+- Developed India will be built only when nation is self-reliant, says PM Modi
+  
+  🔗 https://indianexpress.com/article/india/developed-india-will-be-built-only-when-nation-is-self-reliant-says-pm-modi-10545118/
+
 - SIR: 8.57 lakh deletions in Kerala as EC releases final voters list
   
   🔗 https://indianexpress.com/article/india/kerala-final-electoral-roll-2026-sir-process-explained-10544998/
@@ -7,18 +19,6 @@
 - Rajasthan: 31.36 lakh names removed in final rolls under SIR 2026
   
   🔗 https://indianexpress.com/article/india/rajasthan-31-36-lakh-names-removed-in-final-rolls-under-sir-2026-10544966/
-
-- ‘Presence of infiltrators was a big security threat’: Shah lays foundation stone of Assam Police campus at 2024 eviction site
-  
-  🔗 https://indianexpress.com/article/india/infiltrators-big-security-threat-shah-foundation-stone-assam-police-campus-2024-eviction-site-10544967/
-
-- Commercial insurance rates fall by up to 25% in India
-  
-  🔗 https://indianexpress.com/article/india/commercial-insurance-rates-25-india-10544934/
-
-- ‘Sustained injuries to eye, face’: Uttarakhand official accuses BJP MLA, supporters of assaulting him in his office
-  
-  🔗 https://indianexpress.com/article/india/uttarakhand-education-official-bjp-mla-umesh-sharma-assault-10544879/
 
 - ‘Astonishing’ new dinosaur species discovered in the Sahara
   
@@ -40,25 +40,29 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/saas-is-dead-counterfactual-salesforce-ai-summit-10544286/
 
+- Netflix-Warner Bros deal: Trump's DOJ to probe streaming platform's power over filmmakers — what we know
+  The DOJ probe is reportedly seeking to determine whether the proposed Netflix-Warner Bros deal 'may substantially lessen competition or tend to create a monopoly'
+  🔗 https://www.livemint.com/companies/news/netflixwarner-bros-deal-trumps-doj-to-probe-streaming-platforms-power-over-filmmakers-what-we-know-11771719673695.html
+
+- NYC nursing walkout ends as last striking nurses approve new contract
+  NYC nursing walkout ends
+  🔗 https://www.livemint.com/companies/nyc-nursing-walkout-ends-as-last-striking-nurses-approve-new-contract-11771719548234.html
+
+- DOJ Probes Netflix’s Power Over Filmmakers in Warner Deal Review
+  The Justice Department is investigating Netflix’s proposed $72 billion takeover of Warner Bros. Discovery.
+  🔗 https://www.livemint.com/companies/doj-probes-netflix-s-power-over-filmmakers-in-warner-deal-review-11771718940439.html
+
+- Paramount Says Regulatory Waiting Period for Warner Bid Ends
+  Paramount Skydance Corp. said it has ‘no statutory impediment’ in the US to closing its proposed
+  🔗 https://www.livemint.com/companies/paramount-says-regulatory-waiting-period-for-warner-bid-ends-11771705260553.html
+
 - Indigo reshuffles operations leadership, appoints Rohit Rikhye as OCC head after December flight disruptions
   IndiGo appoints Rohit Rikhye as Head of Operations Control
   🔗 https://www.livemint.com/companies/news/indigo-reshuffles-operations-leadership-appoints-rohit-rikhye-as-occ-head-after-december-flight-disruptions-11771692943801.html
 
-- Indian-origin executive Asha Sharma named Microsoft Gaming CEO; all you need to know about her
-  Microsoft Gaming has been grappling with tariff-induced cost pressures, strong competition and uncertain consumer spending. Asha Sharma's appointment
-  🔗 https://www.livemint.com/companies/people/indianorigin-executive-asha-sharma-named-microsoft-gaming-ceo-all-you-need-to-know-about-her-11771638895117.html
-
-- UPL to list a second company housing its crop protection business
-  A merger and demerger process will combine UPL Ltd’s Indian and
-  🔗 https://www.livemint.com/companies/news/upl-to-list-a-second-company-housing-its-crop-protection-business-11771585735228.html
-
-- ‘Pursuing three-year plan for India as top growth market for IBM’
-  IBM is focusing on middleware solutions and sector-specific AI models. The firm is avoiding consumer applications and foundational AI development.
-  🔗 https://www.livemint.com/companies/news/pursuing-three-year-plan-for-india-as-top-growth-market-for-ibm-11771599379774.html
-
-- Zscaler partners with Bharti Airtel to launch AI &amp; cyber threat research center
-  The AI &amp;amp; Cyber Threat Research Centre – India is a collaboration between Zscaler and Airtel.
-  🔗 https://www.livemint.com/news/us-news/zscaler-partners-with-bharti-airtel-to-launch-ai-cyber-threat-research-center-11771604261643.html
+- China Defies Global ‘AI Scare Trade’ as Investors Chase Winners
+  US markets are gripped by the ‘AI scare trade,’ with investors selling software firms and wealth managers.
+  🔗 https://www.livemint.com/market/china-defies-global-ai-scare-trade-as-investors-chase-winners-11771720102085.html
 
 - What’s behind the sell-off in cybersecurity stocks? Anthropic's new launch explained
   Anthropic has launched a new security feature in its Claude AI model. It raises concerns among investors about the
@@ -75,10 +79,6 @@
 - 5100% rally in five years! Multibagger stock reverses acquisition of Sunbridge Agro. Details here
   Elitecon International Ltd. will hold a board meeting on February 27, 2026, to discuss reversing its acquisition of
   🔗 https://www.livemint.com/market/stock-market-news/5100-rally-in-five-years-multibagger-stock-reverses-acquisition-of-sunbridge-agro-details-here-11771669487127.html
-
-- Stocks to buy under  ₹50: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
-  Mehul Kothari of Anand Rathi recommends these three shares to buy or sell. Mother
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-50-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11771669744129.html
 
 - New Delhi Declaration on AI Impact adopted; US, UK, China among nations to endorse vision for collaborative AI
   New Delhi Declaration on AI Impact adopted; US, UK, China
@@ -100,21 +100,21 @@
   US leads AI brain race followed by China,
   🔗 https://www.livemint.com/technology/us-leads-ai-brain-race-followed-by-china-singapore-india-at-6th-spot-report-11771602606918.html
 
-- Dow Jones Futures: All Eyes On Nvidia After Stock Market's Trump Tariff Rally - Investor's Business Daily
-  Dow Jones Futures: All Eyes On Nvidia After Stock Market
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNOGI4OE9oTExGRzJsdS1mZUFWV1Zjc0J2Mk9jeHZpckFyMk1BSktUanlMUHJYaWVoVWZiTGdhTTRTWW9Ga0czWEpVNzJlTV9vSWVUUzFhV2VCQ0NMZndvVy16NXlyTGpGZTdsR000Nm9MdDUxNWRORE5IdUgwLVpqTE8wVUR5SVk3X3pjeHM1OHRhWXBwY09xUUVFOWpRaUxCUnV0bGdSQV92NzNKZng5VV9MZDZrWWtvZWNLWFBZWQ?oc=5
+- European stocks close higher after U.S. Supreme Court strikes down Trump's tariffs - CNBC
+  European stocks close higher after U.S. Supreme Court strikes down Trump's tariffs.
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUdha0tXTjN5MGM0Uld6b29Ydjg0WTQzVElUUW44UmxrLVBBaXBJWXVyWnFlQ0toZFV0MzJiV29hX0M4RUd1b1RSalR6clM2VGU5eVNvNUt3aW1hMzhRbFQ2ZnMxYlMwajV4ZWZZQXpVMGV6bzRjVjd0M2tRdDV5OW5tVmtYTXlZeUNfedIBkgFBVV95cUxOQ2ZBYThXa05tYXNsTmtPb2dmLWcxMzlLa1hlNW9lTUhQV2JaMDdSZHJhbnVubWgyczlNUkhqbE9YMERpSUhVQm5TYUJmc0dQdjVLZWtXWGhGZGZaRnhVUEliRWVZV1kxb2taUXNmMUo3NFpxaTg1bXZkdVJFcGVVa3pCeXJ6dVNLQTd0Y2Q4bmxjZw?oc=5
 
-- Markets News, Feb. 20, 2026: Stocks Rise After Supreme Court Strikes Down Tariffs; Nasdaq Snaps 5-Week Losing Streak - Investopedia
-  European stocks close higher after U.S. Supreme Court strikes down Trump's tariffs. Nasdaq Snaps 5-Week Losing Streak.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQTXBmWTNpVzRBeFpsVWUyeEJHbm9oNjJjUk1Ed2FLVkFnakxFXzJtZm80bW1nVXhNT1FZYmVSelp0Vy1qUVJBVGZFR2dyUjZFeU4tcGlCdlRXd3ZsTWl1VzRrUS1pNzJoN3VYcmU0cUMtSFJ0aFgxTmt1OHJNaVlHV3d2ZmxIYmJoUGZUZHg0Tzg?oc=5
+- Online betting firms eye overseas markets - The Economic Times
+  Online betting firms eye overseas markets
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzZaYjF1cnZlZTM3SGZIaEMyajRJQmFjZEhZV2RlUDZBOGdPMWxselVXVXFnaDZPOGNrakFuMEprMW5IM1p6M0g4dGg0bW01ZC1mYjZGcmx1X0JjVHA5TndyTGZaM21tYW1wZ1dENHdYZDU0czNxSDN1dFV0VWluLTgxTXM5ODdVcjAzS1B4LXo4Yl80VHNvVWJXV0haMWZwUUFPUTNHM25wd9IBrwFBVV95cUxNYnlmbEkwN1FBcS1rZnZKMzZZYUtHRks1Uk9mczBMcWRLblJfSGN4UzAxellOMFFiZWc5Wi03TUUwcHdaU1d1S0xKLS1BN2lBdzFzV1diVzJnMUlfSkN4WW11NnhsMkp6VFFabXA0QVoyeUN6dmYxX0wzcnVBZ0VFbkNzbmlGOHRFWS1fMl80WlIwQlBTd2w0eEhVVFgwUmhBbDU3cUgzSlY4MGNLbnFF?oc=5
 
 - India eyes expansion of Mercosur trade pact to boost market access, investments: Piyush Goyal - The Times of India
   India eyes expansion of Mercosur trade pact to boost market access, investments
   🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNaGxRaExURjR3R3RseWdvZDdEN1JKRWZDTERJSnh1alFZTEdBZ1pfWWMySU5KZHIyajJlN0ZKRGV3Ni1xTmxvUURpYmo3SWNOaHdmM1JMOWFWOHJYbTVDX1oyU2JzM0l3TXlMbnFoNmVXc1BMaVdqLWQxOWhZWUVWRGJSemtfbUFIVkFGbWNXT2ZBY2l0Y3dWVzFYeEgyZFk1NmNacjRNcWctNjFmUl81TzJDWnVKSlNBWVZZU3IzZGQ2SlF6QVdrbEpWQm9LQm8ySmxTLXZfSUQ2eHZGVkNfTVgwSWh4ZEh1RkU5Z25GenIxNjdtTUVmSkxDdHRVSmt5NUQ3LTJoYUXSAY4CQVVfeXFMTlJjYjlxckFSMWdLb1BPeTZ0NTNTY2gyeVg5dThJUXRraW41RFdWRUdpTTllbkh3Ynl3UmxEY2dLME9zbEMzSEhVYzR0YlZTYU84VDNybjd5ZzZYVkVubFRlNzBmUy1qZmpxbWpfU0dfbHpqclBaS2RrNTVGMjZDN05OdTNxR2ItQm96TWo3UmFmMzladGt0WGV5dG9JZzl3cjk5WllIMnVUcmtlaGEtR1Y4UFVZd053a3lhbW5DS0lTX0FXa2FSOW1hS0hSMlo3Q0xFNGVDWmN4RTdYNFZseTU4RjgxWXpaZVh1Zk40SVlCa1J1d2NtbmxCa1ZuWWNTM2ZSZjB4QjhtUGNPSXdn?oc=5
 
-- Online betting firms eye overseas markets - The Economic Times
-  Online betting firms eye overseas markets
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzZaYjF1cnZlZTM3SGZIaEMyajRJQmFjZEhZV2RlUDZBOGdPMWxselVXVXFnaDZPOGNrakFuMEprMW5IM1p6M0g4dGg0bW01ZC1mYjZGcmx1X0JjVHA5TndyTGZaM21tYW1wZ1dENHdYZDU0czNxSDN1dFV0VWluLTgxTXM5ODdVcjAzS1B4LXo4Yl80VHNvVWJXV0haMWZwUUFPUTNHM25wd9IBrwFBVV95cUxNYnlmbEkwN1FBcS1rZnZKMzZZYUtHRks1Uk9mczBMcWRLblJfSGN4UzAxellOMFFiZWc5Wi03TUUwcHdaU1d1S0xKLS1BN2lBdzFzV1diVzJnMUlfSkN4WW11NnhsMkp6VFFabXA0QVoyeUN6dmYxX0wzcnVBZ0VFbkNzbmlGOHRFWS1fMl80WlIwQlBTd2w0eEhVVFgwUmhBbDU3cUgzSlY4MGNLbnFF?oc=5
+- 10% market drop could meaningfully dent U.S. consumption, BCA says - Investing.com
+  10% market drop could meaningfully dent
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnh4MUQyMVRfWWZVY0hXR29mUHdDV0VmWWFZRlBhSVB3VDBDSWdJem9TNmFncnU3LU1OWTlrM1dFSElYTVJrTmQzOFUyX3B2Y3h3MHAwOW5lbEUyenEzWGgzZ250elYxZUZBV3BfVkhNM2dNalg2M1JHMWo4cklkSzdXa2IzV0hqVmNqVUlDcHhkUFZnUDdOaEw5cTVSSXlvQjNXdXpuOFljM1FITFAyVE1Ka2s?oc=5
 
 - Tech Comeback Ahead? - Goldman Sachs
   Goldman
@@ -144,81 +144,81 @@
   India Tariffs Cut To 10% As Donald Trump Faces
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlE1anFUMXNuZlI3RHUwc2xZbzB0QnpUeEhCSmh1TEtNZy1tbnJVSWNFYnlzNE5Va0xnTmtTRDNGT0s0d01CX0xkLXIyT2ZhQkJFa21xZVBmczNXUmRzb3VDaHBVRklsTEsyN1liTUpjT182YWxHMloyUFJXQ0VzNTgzTDRCa3NfYTRNX0xUZ25SeS1fX0l4cUpvVXZSYnBoOG9oSDFDbXJQQnZTU29KdHowcy00WjE5RjB3cHprRE92bEsxakNPX1lSZkbSAdQBQVVfeXFMTTl3ei1wRk1RSkd2OFVrRkFhSXpOcko1MGoxanZXeVFKMUN1dGxkMG5GN1hJNW9SdHlJMFhxcThvM1VxdUgzaHIxeGU3YUU1VDhveERic29rck02aVgwV2tlNkpCOHRpeVFWLXFpcURYazl2N0FDaXRSWjlkdWpyc2NFZmhqdC1fY3RqcHh1SE9pRS0wT2Z2U1VvZkt3VUNzOVVyRWxvbnVKN21YclVuSzduYi0wWlBKYV9ub3BYMndBSi04WHQ0NmtMZzdiRjlSQlNFdEk?oc=5
 
-- Trump's Loss, India's Gain? How Tariff Order Could Affect Trade Talks - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SEEtMTlqOU1CSHZPeEVjOUV4dl92X09Sc3VVemE0Qm1YYXYxUEJ0UXNycmw4a1FtdDhPZ2J0eGNncTVGV3dtam1FWUNsSUdBUjY2Y2loUDhhLVNtbENnU2lfMklKV3JtN0dCTzVzSnFFMTRr0gHbAUFVX3lxTE1RRndhc2ZmaElpay1sU01FaHdqd0ExWkZsWEFidXczVy1vUTctSW1tMVhzWWJVS3JoR01QZTFidGJrMGNZVTMyUlVLaWg4QnY1SG5NS3IybXdRemRWLTZ2WW1QU3hhSjNrRlViTVYxVnlER3F0Y3FmV1daMXZkQ0Y2MjdRaGdkWVdRNEJmQVU5bXZwN05WNUo4WEVYQjlBcG1XWHI5eHRXM2tCOVhpVlI2NEo4Q2taaUpVNmhyTU5VRlBmV1B4V2ZGZXN4Sm1XSlY1S3VjUmJsVkdJTQ?oc=5
+- India chip to set up first display driver chip unit - The Times of India
+  India chip to set up first display driver chip unit.
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNYnEyLTgxMjVYbk5TMVlGV3ktbU5lelRMaW52WjRKcnN4SWR1a0M5cUNLQmU2NDNsR01YdWZDMnNDWGRLWUx6WTNYOHlfMWFUTG1MUkxRRlh2ZlMwNFo3V3BoSm1xQ1JXb3lLelRqYzJXT3lkcFU2VXUzNTQwUDByYnJKQlZOQ0Z0M3BHS1p1SV84ZGRXYTQtcGltVXRINXN1U3Eyclowc09femMxeW15T1RXdldpYTZrUkJ4c1M3OV9ZRHdI0gHKAUFVX3lxTE5KWjl5UzJJSFBLN2thSlNRWk85d05oam1GdHE4eGxSLVAzWHF5UEVLUjF0QU4ydjlPX255ZkJvb29xak5mQjRIMGJDaGdvaE1OR1RTTDd6aEdNM1dYOWpyOWYzSk1DTmlhVEtPbFE0eEVpT1lwbVZOaDJWbmN4OHRIYjdXWXpxT2VrUDVuUHNlbzB5czRKa0U5SHFrdXFiSEVmZ1NKZ2ZDcEVWQ0xmakF2Y3diZFBVXy1STmYtNElhelRHVFFESmxocUE?oc=5
 
-- Glimpses of colonial India at Alipore Museum artwork show - The Times of India
-  The Times of India is a leading English-language
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXhUVUxmRjROMjc2Z212b0ZxcTVZR1hRZGJUNFd3a29CN2w1WkhubFRpUnN2dWlySVF0ZURyUDJjRmRyQmN1M2tDNG5veFVTVWxDVHpFNGV0MHdUZ0V6RE1RcDZkM0hkdjlFSjRROU93WXB6aW9WcHFhcmJEc013TS1hRlE1UmtLSHVOMVJOVVZTbHJKSjg0Z2tydWtHUGdaVGJnLUJCeTBBU01YZVoxc0Y4bWlJbk5KdTIwSGZtalRFM0Z0YUJZUzJhWEHSAdIBQVVfeXFMTTc0aUsxdnlvVVpmVkJiaGJFRWNoTzNUS0k3bmZlaXI4MENSUFJ5MXFLUmVJVkVHb0VLbk5sZUZJV284TGgzUUtVMVFxelc4a1MtS2pvY2g2TWdQcTg1RDJSRGo2N2NiS3Q2cEFvRmdLTFBlNFFMR2N2dF9SMWF2M014d0tXNF9FUnpkSEN5eTNSb2t3anVoQVhtQS1JNndNeUxYa0VZUklTVldXR1VxMUhMMWRqanR5Q1Joc3lTVjZZWGxDeTRUM1R3QjRfYU1KcXdn?oc=5
+- India, Brazil sign MoU on MSME cooperation - News On AIR
+  India, Brazil sign MoU on
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5NM01Ta0xLY2dsOGJVYWowUGN5QU1VdFNUejc4ZjhaTV9tRERuek5QOTRUWGwwVVFPMHFEUWlvUFZuY2lsMFBEdTlzX01hUEdOSUdrWWZXZFdiRzVzbDlNdjFHOG5PcVd6Q1hCblpIT1VicDAxMWdjb2hqaw?oc=5
 
-- India AI Impact Summit and Expo provided platform to showcase AI-driven solutions - News On AIR
-  India AI Impact Summit and Expo provided platform to showcase AI-
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlZ3OWJHRk1fZU9GRmJmcEx5Vk52NERmX3ktZ3FnSl9qRjlucjI2S1B1Q3FiZ01tbW5QMDltX0o0SVdtc29aYnVxVURldVVJdk9vYXdyUXZ6MDYxR2xLVnFNVVpBN1NsMGlYTUYyaG9BWUQzZmxYZ1U2aTMzczhNdXVyWjk3RFBOSEdJRzYwcGJaYTlzVVRMbWhjS0k5cDZOYlFheWtMXzV6UjNiTnB6Ng?oc=5
+- India, Brazil exchange MoU on regulation of pharmaceutical and medical products - News On AIR
+  India, Brazil exchange MoU on regulation of pharmaceutical and
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGU2bUdtQk9oc3VfU2oySjU3eWxBZDEwOFBtN2cxN0FESUo2NFJucmRpS0VOYUVyZ09lV0x4aVJPSXNVV2hzS2cwYVBLd0tERVRvYk01c3k2Tmt4OWhuN2drVEVLdjFsWHlKQnRRczRnZllwQkhkVkJfVjVrbk9FUlEyR25aNDk5b3RQN2p2WUswdkNkUWNJRjJUVGt4akx2Y2pNMHd3R09qd2pG?oc=5
 
-- India-Nepal border vigil to be intensified - The Times of India
-  India-Nepal border vigil
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPa00walVwTmpjMTZkb3VRb1VKUHNrNGVybElHZEJXdmxrcXNycEdmWW1EUFFaY0t1S0Qxb3pmUy1Dbi1tNE1aQ1h2Q2ctXzZwTTN6TVJMRnFUdkxEM1lpWVJQaTlrN2ZrYlROM0RQUlZPSER2Wk90VVFnNWJoSkdWTlBpR182eUY5MWdNQ3BvbV9mUmxyZDI4Zy16UnZMS25kX0FPMUxRaUZSaVdxckN3YVZ2ckxud9IBuwFBVV95cUxQS2xTZkdMTGZVSk1Bdksta3VFU21QVHFPcU5la1lybkxPYVRXclVtMDBiMGM5Y29VeWpQekk0Q0xEMzJ6cnNCNV9OTHVSRkgwVmNScUEySUNCVFBiQ2dQeFhEQ0NJYXg2RVZmZVhPUmJHdkxSb0p3aWVHaWxUSDQ5TzhZczdHLVJMaFZhd05ad2FMRWI5ejFPemZqeTNsN0VKdE96Q3o5bDREMEd0UkdKeEI5LUVuc0MtS3lJ?oc=5
-
-- India Tariffs Cut To 10% As Donald Trump Faces US Supreme Court Setback - NDTV
-  India Tariffs Cut To 10% As Donald Trump Faces
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlE1anFUMXNuZlI3RHUwc2xZbzB0QnpUeEhCSmh1TEtNZy1tbnJVSWNFYnlzNE5Va0xnTmtTRDNGT0s0d01CX0xkLXIyT2ZhQkJFa21xZVBmczNXUmRzb3VDaHBVRklsTEsyN1liTUpjT182YWxHMloyUFJXQ0VzNTgzTDRCa3NfYTRNX0xUZ25SeS1fX0l4cUpvVXZSYnBoOG9oSDFDbXJQQnZTU29KdHowcy00WjE5RjB3cHprRE92bEsxakNPX1lSZkbSAdQBQVVfeXFMTTl3ei1wRk1RSkd2OFVrRkFhSXpOcko1MGoxanZXeVFKMUN1dGxkMG5GN1hJNW9SdHlJMFhxcThvM1VxdUgzaHIxeGU3YUU1VDhveERic29rck02aVgwV2tlNkpCOHRpeVFWLXFpcURYazl2N0FDaXRSWjlkdWpyc2NFZmhqdC1fY3RqcHh1SE9pRS0wT2Z2U1VvZkt3VUNzOVVyRWxvbnVKN21YclVuSzduYi0wWlBKYV9ub3BYMndBSi04WHQ0NmtMZzdiRjlSQlNFdEk?oc=5
-
-- Trump's Loss, India's Gain? How Tariff Order Could Affect Trade Talks - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SEEtMTlqOU1CSHZPeEVjOUV4dl92X09Sc3VVemE0Qm1YYXYxUEJ0UXNycmw4a1FtdDhPZ2J0eGNncTVGV3dtam1FWUNsSUdBUjY2Y2loUDhhLVNtbENnU2lfMklKV3JtN0dCTzVzSnFFMTRr0gHbAUFVX3lxTE1RRndhc2ZmaElpay1sU01FaHdqd0ExWkZsWEFidXczVy1vUTctSW1tMVhzWWJVS3JoR01QZTFidGJrMGNZVTMyUlVLaWg4QnY1SG5NS3IybXdRemRWLTZ2WW1QU3hhSjNrRlViTVYxVnlER3F0Y3FmV1daMXZkQ0Y2MjdRaGdkWVdRNEJmQVU5bXZwN05WNUo4WEVYQjlBcG1XWHI5eHRXM2tCOVhpVlI2NEo4Q2taaUpVNmhyTU5VRlBmV1B4V2ZGZXN4Sm1XSlY1S3VjUmJsVkdJTQ?oc=5
-
-- Glimpses of colonial India at Alipore Museum artwork show - The Times of India
-  The Times of India is a leading English-language
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXhUVUxmRjROMjc2Z212b0ZxcTVZR1hRZGJUNFd3a29CN2w1WkhubFRpUnN2dWlySVF0ZURyUDJjRmRyQmN1M2tDNG5veFVTVWxDVHpFNGV0MHdUZ0V6RE1RcDZkM0hkdjlFSjRROU93WXB6aW9WcHFhcmJEc013TS1hRlE1UmtLSHVOMVJOVVZTbHJKSjg0Z2tydWtHUGdaVGJnLUJCeTBBU01YZVoxc0Y4bWlJbk5KdTIwSGZtalRFM0Z0YUJZUzJhWEHSAdIBQVVfeXFMTTc0aUsxdnlvVVpmVkJiaGJFRWNoTzNUS0k3bmZlaXI4MENSUFJ5MXFLUmVJVkVHb0VLbk5sZUZJV284TGgzUUtVMVFxelc4a1MtS2pvY2g2TWdQcTg1RDJSRGo2N2NiS3Q2cEFvRmdLTFBlNFFMR2N2dF9SMWF2M014d0tXNF9FUnpkSEN5eTNSb2t3anVoQVhtQS1JNndNeUxYa0VZUklTVldXR1VxMUhMMWRqanR5Q1Joc3lTVjZZWGxDeTRUM1R3QjRfYU1KcXdn?oc=5
-
-- India AI Impact Summit and Expo provided platform to showcase AI-driven solutions - News On AIR
-  India AI Impact Summit and Expo provided platform to showcase AI-
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlZ3OWJHRk1fZU9GRmJmcEx5Vk52NERmX3ktZ3FnSl9qRjlucjI2S1B1Q3FiZ01tbW5QMDltX0o0SVdtc29aYnVxVURldVVJdk9vYXdyUXZ6MDYxR2xLVnFNVVpBN1NsMGlYTUYyaG9BWUQzZmxYZ1U2aTMzczhNdXVyWjk3RFBOSEdJRzYwcGJaYTlzVVRMbWhjS0k5cDZOYlFheWtMXzV6UjNiTnB6Ng?oc=5
-
-- India-Nepal border vigil to be intensified - The Times of India
-  India-Nepal border vigil
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPa00walVwTmpjMTZkb3VRb1VKUHNrNGVybElHZEJXdmxrcXNycEdmWW1EUFFaY0t1S0Qxb3pmUy1Dbi1tNE1aQ1h2Q2ctXzZwTTN6TVJMRnFUdkxEM1lpWVJQaTlrN2ZrYlROM0RQUlZPSER2Wk90VVFnNWJoSkdWTlBpR182eUY5MWdNQ3BvbV9mUmxyZDI4Zy16UnZMS25kX0FPMUxRaUZSaVdxckN3YVZ2ckxud9IBuwFBVV95cUxQS2xTZkdMTGZVSk1Bdksta3VFU21QVHFPcU5la1lybkxPYVRXclVtMDBiMGM5Y29VeWpQekk0Q0xEMzJ6cnNCNV9OTHVSRkgwVmNScUEySUNCVFBiQ2dQeFhEQ0NJYXg2RVZmZVhPUmJHdkxSb0p3aWVHaWxUSDQ5TzhZczdHLVJMaFZhd05ad2FMRWI5ejFPemZqeTNsN0VKdE96Q3o5bDREMEd0UkdKeEI5LUVuc0MtS3lJ?oc=5
+- India signs critical minerals deal with Brazil to curb dependance on China - Al Jazeera
+  India signs critical minerals deal with Brazil to curb dependance
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQbWcxRFFOWUJvOE80Q3d3cS1NZzNBb2lwMUY5MTlKZFo3MmlvTEdXeUpWb3BtMUNPWFJvMHFCdlpBNFJzLVFvTGJrcW5lZkg2Z3VpZnJPT2pBakkxT2VsTlFvcUNfYklTYjdjUzdweS1oWEpSNzc1YURXczU4bWRWTjh3VVhIOWcybjNRbmoyRDNuX05uNndhMnIxTnNuaFI4MGZVZktaa0xNNmRmb1dGUNIBtgFBVV95cUxOQ0NXSVg3V2VWSVBNOHlIb3BfTDNmME0xWWpyNS1vNlFqLXpKVnZYY3BtNm1xWE5HcmxXbG1ZbEJfaUJwRVNHUjVSTFdSYXg3WWJMZ05uNGJTcHBsSXFsbElaWjhmTExtMDBRTlN3dVplOFg2Y0lFcWZEbm45SjktckxaLTVJZ3FpMzQxNzY1WDNvOS1wd044LXVzUjRpcV9TYnBoTFR1YndFcHZhSk14UDF5ajdMdw?oc=5
 
 - India Tariffs Cut To 10% As Donald Trump Faces US Supreme Court Setback - NDTV
   India Tariffs Cut To 10% As Donald Trump Faces
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlE1anFUMXNuZlI3RHUwc2xZbzB0QnpUeEhCSmh1TEtNZy1tbnJVSWNFYnlzNE5Va0xnTmtTRDNGT0s0d01CX0xkLXIyT2ZhQkJFa21xZVBmczNXUmRzb3VDaHBVRklsTEsyN1liTUpjT182YWxHMloyUFJXQ0VzNTgzTDRCa3NfYTRNX0xUZ25SeS1fX0l4cUpvVXZSYnBoOG9oSDFDbXJQQnZTU29KdHowcy00WjE5RjB3cHprRE92bEsxakNPX1lSZkbSAdQBQVVfeXFMTTl3ei1wRk1RSkd2OFVrRkFhSXpOcko1MGoxanZXeVFKMUN1dGxkMG5GN1hJNW9SdHlJMFhxcThvM1VxdUgzaHIxeGU3YUU1VDhveERic29rck02aVgwV2tlNkpCOHRpeVFWLXFpcURYazl2N0FDaXRSWjlkdWpyc2NFZmhqdC1fY3RqcHh1SE9pRS0wT2Z2U1VvZkt3VUNzOVVyRWxvbnVKN21YclVuSzduYi0wWlBKYV9ub3BYMndBSi04WHQ0NmtMZzdiRjlSQlNFdEk?oc=5
 
-- Trump's Loss, India's Gain? How Tariff Order Could Affect Trade Talks - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SEEtMTlqOU1CSHZPeEVjOUV4dl92X09Sc3VVemE0Qm1YYXYxUEJ0UXNycmw4a1FtdDhPZ2J0eGNncTVGV3dtam1FWUNsSUdBUjY2Y2loUDhhLVNtbENnU2lfMklKV3JtN0dCTzVzSnFFMTRr0gHbAUFVX3lxTE1RRndhc2ZmaElpay1sU01FaHdqd0ExWkZsWEFidXczVy1vUTctSW1tMVhzWWJVS3JoR01QZTFidGJrMGNZVTMyUlVLaWg4QnY1SG5NS3IybXdRemRWLTZ2WW1QU3hhSjNrRlViTVYxVnlER3F0Y3FmV1daMXZkQ0Y2MjdRaGdkWVdRNEJmQVU5bXZwN05WNUo4WEVYQjlBcG1XWHI5eHRXM2tCOVhpVlI2NEo4Q2taaUpVNmhyTU5VRlBmV1B4V2ZGZXN4Sm1XSlY1S3VjUmJsVkdJTQ?oc=5
+- India chip to set up first display driver chip unit - The Times of India
+  India chip to set up first display driver chip unit.
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNYnEyLTgxMjVYbk5TMVlGV3ktbU5lelRMaW52WjRKcnN4SWR1a0M5cUNLQmU2NDNsR01YdWZDMnNDWGRLWUx6WTNYOHlfMWFUTG1MUkxRRlh2ZlMwNFo3V3BoSm1xQ1JXb3lLelRqYzJXT3lkcFU2VXUzNTQwUDByYnJKQlZOQ0Z0M3BHS1p1SV84ZGRXYTQtcGltVXRINXN1U3Eyclowc09femMxeW15T1RXdldpYTZrUkJ4c1M3OV9ZRHdI0gHKAUFVX3lxTE5KWjl5UzJJSFBLN2thSlNRWk85d05oam1GdHE4eGxSLVAzWHF5UEVLUjF0QU4ydjlPX255ZkJvb29xak5mQjRIMGJDaGdvaE1OR1RTTDd6aEdNM1dYOWpyOWYzSk1DTmlhVEtPbFE0eEVpT1lwbVZOaDJWbmN4OHRIYjdXWXpxT2VrUDVuUHNlbzB5czRKa0U5SHFrdXFiSEVmZ1NKZ2ZDcEVWQ0xmakF2Y3diZFBVXy1STmYtNElhelRHVFFESmxocUE?oc=5
 
-- Glimpses of colonial India at Alipore Museum artwork show - The Times of India
-  The Times of India is a leading English-language
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXhUVUxmRjROMjc2Z212b0ZxcTVZR1hRZGJUNFd3a29CN2w1WkhubFRpUnN2dWlySVF0ZURyUDJjRmRyQmN1M2tDNG5veFVTVWxDVHpFNGV0MHdUZ0V6RE1RcDZkM0hkdjlFSjRROU93WXB6aW9WcHFhcmJEc013TS1hRlE1UmtLSHVOMVJOVVZTbHJKSjg0Z2tydWtHUGdaVGJnLUJCeTBBU01YZVoxc0Y4bWlJbk5KdTIwSGZtalRFM0Z0YUJZUzJhWEHSAdIBQVVfeXFMTTc0aUsxdnlvVVpmVkJiaGJFRWNoTzNUS0k3bmZlaXI4MENSUFJ5MXFLUmVJVkVHb0VLbk5sZUZJV284TGgzUUtVMVFxelc4a1MtS2pvY2g2TWdQcTg1RDJSRGo2N2NiS3Q2cEFvRmdLTFBlNFFMR2N2dF9SMWF2M014d0tXNF9FUnpkSEN5eTNSb2t3anVoQVhtQS1JNndNeUxYa0VZUklTVldXR1VxMUhMMWRqanR5Q1Joc3lTVjZZWGxDeTRUM1R3QjRfYU1KcXdn?oc=5
+- India, Brazil sign MoU on MSME cooperation - News On AIR
+  India, Brazil sign MoU on
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5NM01Ta0xLY2dsOGJVYWowUGN5QU1VdFNUejc4ZjhaTV9tRERuek5QOTRUWGwwVVFPMHFEUWlvUFZuY2lsMFBEdTlzX01hUEdOSUdrWWZXZFdiRzVzbDlNdjFHOG5PcVd6Q1hCblpIT1VicDAxMWdjb2hqaw?oc=5
 
-- India AI Impact Summit and Expo provided platform to showcase AI-driven solutions - News On AIR
-  India AI Impact Summit and Expo provided platform to showcase AI-
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlZ3OWJHRk1fZU9GRmJmcEx5Vk52NERmX3ktZ3FnSl9qRjlucjI2S1B1Q3FiZ01tbW5QMDltX0o0SVdtc29aYnVxVURldVVJdk9vYXdyUXZ6MDYxR2xLVnFNVVpBN1NsMGlYTUYyaG9BWUQzZmxYZ1U2aTMzczhNdXVyWjk3RFBOSEdJRzYwcGJaYTlzVVRMbWhjS0k5cDZOYlFheWtMXzV6UjNiTnB6Ng?oc=5
+- India, Brazil exchange MoU on regulation of pharmaceutical and medical products - News On AIR
+  India, Brazil exchange MoU on regulation of pharmaceutical and
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGU2bUdtQk9oc3VfU2oySjU3eWxBZDEwOFBtN2cxN0FESUo2NFJucmRpS0VOYUVyZ09lV0x4aVJPSXNVV2hzS2cwYVBLd0tERVRvYk01c3k2Tmt4OWhuN2drVEVLdjFsWHlKQnRRczRnZllwQkhkVkJfVjVrbk9FUlEyR25aNDk5b3RQN2p2WUswdkNkUWNJRjJUVGt4akx2Y2pNMHd3R09qd2pG?oc=5
 
-- India-Nepal border vigil to be intensified - The Times of India
-  India-Nepal border vigil
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPa00walVwTmpjMTZkb3VRb1VKUHNrNGVybElHZEJXdmxrcXNycEdmWW1EUFFaY0t1S0Qxb3pmUy1Dbi1tNE1aQ1h2Q2ctXzZwTTN6TVJMRnFUdkxEM1lpWVJQaTlrN2ZrYlROM0RQUlZPSER2Wk90VVFnNWJoSkdWTlBpR182eUY5MWdNQ3BvbV9mUmxyZDI4Zy16UnZMS25kX0FPMUxRaUZSaVdxckN3YVZ2ckxud9IBuwFBVV95cUxQS2xTZkdMTGZVSk1Bdksta3VFU21QVHFPcU5la1lybkxPYVRXclVtMDBiMGM5Y29VeWpQekk0Q0xEMzJ6cnNCNV9OTHVSRkgwVmNScUEySUNCVFBiQ2dQeFhEQ0NJYXg2RVZmZVhPUmJHdkxSb0p3aWVHaWxUSDQ5TzhZczdHLVJMaFZhd05ad2FMRWI5ejFPemZqeTNsN0VKdE96Q3o5bDREMEd0UkdKeEI5LUVuc0MtS3lJ?oc=5
+- India signs critical minerals deal with Brazil to curb dependance on China - Al Jazeera
+  India signs critical minerals deal with Brazil to curb dependance
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQbWcxRFFOWUJvOE80Q3d3cS1NZzNBb2lwMUY5MTlKZFo3MmlvTEdXeUpWb3BtMUNPWFJvMHFCdlpBNFJzLVFvTGJrcW5lZkg2Z3VpZnJPT2pBakkxT2VsTlFvcUNfYklTYjdjUzdweS1oWEpSNzc1YURXczU4bWRWTjh3VVhIOWcybjNRbmoyRDNuX05uNndhMnIxTnNuaFI4MGZVZktaa0xNNmRmb1dGUNIBtgFBVV95cUxOQ0NXSVg3V2VWSVBNOHlIb3BfTDNmME0xWWpyNS1vNlFqLXpKVnZYY3BtNm1xWE5HcmxXbG1ZbEJfaUJwRVNHUjVSTFdSYXg3WWJMZ05uNGJTcHBsSXFsbElaWjhmTExtMDBRTlN3dVplOFg2Y0lFcWZEbm45SjktckxaLTVJZ3FpMzQxNzY1WDNvOS1wd044LXVzUjRpcV9TYnBoTFR1YndFcHZhSk14UDF5ajdMdw?oc=5
 
 - India Tariffs Cut To 10% As Donald Trump Faces US Supreme Court Setback - NDTV
   India Tariffs Cut To 10% As Donald Trump Faces
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlE1anFUMXNuZlI3RHUwc2xZbzB0QnpUeEhCSmh1TEtNZy1tbnJVSWNFYnlzNE5Va0xnTmtTRDNGT0s0d01CX0xkLXIyT2ZhQkJFa21xZVBmczNXUmRzb3VDaHBVRklsTEsyN1liTUpjT182YWxHMloyUFJXQ0VzNTgzTDRCa3NfYTRNX0xUZ25SeS1fX0l4cUpvVXZSYnBoOG9oSDFDbXJQQnZTU29KdHowcy00WjE5RjB3cHprRE92bEsxakNPX1lSZkbSAdQBQVVfeXFMTTl3ei1wRk1RSkd2OFVrRkFhSXpOcko1MGoxanZXeVFKMUN1dGxkMG5GN1hJNW9SdHlJMFhxcThvM1VxdUgzaHIxeGU3YUU1VDhveERic29rck02aVgwV2tlNkpCOHRpeVFWLXFpcURYazl2N0FDaXRSWjlkdWpyc2NFZmhqdC1fY3RqcHh1SE9pRS0wT2Z2U1VvZkt3VUNzOVVyRWxvbnVKN21YclVuSzduYi0wWlBKYV9ub3BYMndBSi04WHQ0NmtMZzdiRjlSQlNFdEk?oc=5
 
-- Trump's Loss, India's Gain? How Tariff Order Could Affect Trade Talks - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVU5JYWs4Q1hWdFFnUzd6cGdvZWhLUzE1LXJXMlRUNERndjVGeXhyUXk2alN0dVV5ejhWV1RpSXRkVnMxeWxoN1NNZFAxX2d1akxnV0t4cGVjNXJSeEZ0RUxjV1VJU244SEEtMTlqOU1CSHZPeEVjOUV4dl92X09Sc3VVemE0Qm1YYXYxUEJ0UXNycmw4a1FtdDhPZ2J0eGNncTVGV3dtam1FWUNsSUdBUjY2Y2loUDhhLVNtbENnU2lfMklKV3JtN0dCTzVzSnFFMTRr0gHbAUFVX3lxTE1RRndhc2ZmaElpay1sU01FaHdqd0ExWkZsWEFidXczVy1vUTctSW1tMVhzWWJVS3JoR01QZTFidGJrMGNZVTMyUlVLaWg4QnY1SG5NS3IybXdRemRWLTZ2WW1QU3hhSjNrRlViTVYxVnlER3F0Y3FmV1daMXZkQ0Y2MjdRaGdkWVdRNEJmQVU5bXZwN05WNUo4WEVYQjlBcG1XWHI5eHRXM2tCOVhpVlI2NEo4Q2taaUpVNmhyTU5VRlBmV1B4V2ZGZXN4Sm1XSlY1S3VjUmJsVkdJTQ?oc=5
+- India chip to set up first display driver chip unit - The Times of India
+  India chip to set up first display driver chip unit.
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNYnEyLTgxMjVYbk5TMVlGV3ktbU5lelRMaW52WjRKcnN4SWR1a0M5cUNLQmU2NDNsR01YdWZDMnNDWGRLWUx6WTNYOHlfMWFUTG1MUkxRRlh2ZlMwNFo3V3BoSm1xQ1JXb3lLelRqYzJXT3lkcFU2VXUzNTQwUDByYnJKQlZOQ0Z0M3BHS1p1SV84ZGRXYTQtcGltVXRINXN1U3Eyclowc09femMxeW15T1RXdldpYTZrUkJ4c1M3OV9ZRHdI0gHKAUFVX3lxTE5KWjl5UzJJSFBLN2thSlNRWk85d05oam1GdHE4eGxSLVAzWHF5UEVLUjF0QU4ydjlPX255ZkJvb29xak5mQjRIMGJDaGdvaE1OR1RTTDd6aEdNM1dYOWpyOWYzSk1DTmlhVEtPbFE0eEVpT1lwbVZOaDJWbmN4OHRIYjdXWXpxT2VrUDVuUHNlbzB5czRKa0U5SHFrdXFiSEVmZ1NKZ2ZDcEVWQ0xmakF2Y3diZFBVXy1STmYtNElhelRHVFFESmxocUE?oc=5
 
-- Glimpses of colonial India at Alipore Museum artwork show - The Times of India
-  The Times of India is a leading English-language
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXhUVUxmRjROMjc2Z212b0ZxcTVZR1hRZGJUNFd3a29CN2w1WkhubFRpUnN2dWlySVF0ZURyUDJjRmRyQmN1M2tDNG5veFVTVWxDVHpFNGV0MHdUZ0V6RE1RcDZkM0hkdjlFSjRROU93WXB6aW9WcHFhcmJEc013TS1hRlE1UmtLSHVOMVJOVVZTbHJKSjg0Z2tydWtHUGdaVGJnLUJCeTBBU01YZVoxc0Y4bWlJbk5KdTIwSGZtalRFM0Z0YUJZUzJhWEHSAdIBQVVfeXFMTTc0aUsxdnlvVVpmVkJiaGJFRWNoTzNUS0k3bmZlaXI4MENSUFJ5MXFLUmVJVkVHb0VLbk5sZUZJV284TGgzUUtVMVFxelc4a1MtS2pvY2g2TWdQcTg1RDJSRGo2N2NiS3Q2cEFvRmdLTFBlNFFMR2N2dF9SMWF2M014d0tXNF9FUnpkSEN5eTNSb2t3anVoQVhtQS1JNndNeUxYa0VZUklTVldXR1VxMUhMMWRqanR5Q1Joc3lTVjZZWGxDeTRUM1R3QjRfYU1KcXdn?oc=5
+- India, Brazil sign MoU on MSME cooperation - News On AIR
+  India, Brazil sign MoU on
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5NM01Ta0xLY2dsOGJVYWowUGN5QU1VdFNUejc4ZjhaTV9tRERuek5QOTRUWGwwVVFPMHFEUWlvUFZuY2lsMFBEdTlzX01hUEdOSUdrWWZXZFdiRzVzbDlNdjFHOG5PcVd6Q1hCblpIT1VicDAxMWdjb2hqaw?oc=5
 
-- India AI Impact Summit and Expo provided platform to showcase AI-driven solutions - News On AIR
-  India AI Impact Summit and Expo provided platform to showcase AI-
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlZ3OWJHRk1fZU9GRmJmcEx5Vk52NERmX3ktZ3FnSl9qRjlucjI2S1B1Q3FiZ01tbW5QMDltX0o0SVdtc29aYnVxVURldVVJdk9vYXdyUXZ6MDYxR2xLVnFNVVpBN1NsMGlYTUYyaG9BWUQzZmxYZ1U2aTMzczhNdXVyWjk3RFBOSEdJRzYwcGJaYTlzVVRMbWhjS0k5cDZOYlFheWtMXzV6UjNiTnB6Ng?oc=5
+- India, Brazil exchange MoU on regulation of pharmaceutical and medical products - News On AIR
+  India, Brazil exchange MoU on regulation of pharmaceutical and
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGU2bUdtQk9oc3VfU2oySjU3eWxBZDEwOFBtN2cxN0FESUo2NFJucmRpS0VOYUVyZ09lV0x4aVJPSXNVV2hzS2cwYVBLd0tERVRvYk01c3k2Tmt4OWhuN2drVEVLdjFsWHlKQnRRczRnZllwQkhkVkJfVjVrbk9FUlEyR25aNDk5b3RQN2p2WUswdkNkUWNJRjJUVGt4akx2Y2pNMHd3R09qd2pG?oc=5
 
-- India-Nepal border vigil to be intensified - The Times of India
-  India-Nepal border vigil
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPa00walVwTmpjMTZkb3VRb1VKUHNrNGVybElHZEJXdmxrcXNycEdmWW1EUFFaY0t1S0Qxb3pmUy1Dbi1tNE1aQ1h2Q2ctXzZwTTN6TVJMRnFUdkxEM1lpWVJQaTlrN2ZrYlROM0RQUlZPSER2Wk90VVFnNWJoSkdWTlBpR182eUY5MWdNQ3BvbV9mUmxyZDI4Zy16UnZMS25kX0FPMUxRaUZSaVdxckN3YVZ2ckxud9IBuwFBVV95cUxQS2xTZkdMTGZVSk1Bdksta3VFU21QVHFPcU5la1lybkxPYVRXclVtMDBiMGM5Y29VeWpQekk0Q0xEMzJ6cnNCNV9OTHVSRkgwVmNScUEySUNCVFBiQ2dQeFhEQ0NJYXg2RVZmZVhPUmJHdkxSb0p3aWVHaWxUSDQ5TzhZczdHLVJMaFZhd05ad2FMRWI5ejFPemZqeTNsN0VKdE96Q3o5bDREMEd0UkdKeEI5LUVuc0MtS3lJ?oc=5
+- India signs critical minerals deal with Brazil to curb dependance on China - Al Jazeera
+  India signs critical minerals deal with Brazil to curb dependance
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQbWcxRFFOWUJvOE80Q3d3cS1NZzNBb2lwMUY5MTlKZFo3MmlvTEdXeUpWb3BtMUNPWFJvMHFCdlpBNFJzLVFvTGJrcW5lZkg2Z3VpZnJPT2pBakkxT2VsTlFvcUNfYklTYjdjUzdweS1oWEpSNzc1YURXczU4bWRWTjh3VVhIOWcybjNRbmoyRDNuX05uNndhMnIxTnNuaFI4MGZVZktaa0xNNmRmb1dGUNIBtgFBVV95cUxOQ0NXSVg3V2VWSVBNOHlIb3BfTDNmME0xWWpyNS1vNlFqLXpKVnZYY3BtNm1xWE5HcmxXbG1ZbEJfaUJwRVNHUjVSTFdSYXg3WWJMZ05uNGJTcHBsSXFsbElaWjhmTExtMDBRTlN3dVplOFg2Y0lFcWZEbm45SjktckxaLTVJZ3FpMzQxNzY1WDNvOS1wd044LXVzUjRpcV9TYnBoTFR1YndFcHZhSk14UDF5ajdMdw?oc=5
+
+- India Tariffs Cut To 10% As Donald Trump Faces US Supreme Court Setback - NDTV
+  India Tariffs Cut To 10% As Donald Trump Faces
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlE1anFUMXNuZlI3RHUwc2xZbzB0QnpUeEhCSmh1TEtNZy1tbnJVSWNFYnlzNE5Va0xnTmtTRDNGT0s0d01CX0xkLXIyT2ZhQkJFa21xZVBmczNXUmRzb3VDaHBVRklsTEsyN1liTUpjT182YWxHMloyUFJXQ0VzNTgzTDRCa3NfYTRNX0xUZ25SeS1fX0l4cUpvVXZSYnBoOG9oSDFDbXJQQnZTU29KdHowcy00WjE5RjB3cHprRE92bEsxakNPX1lSZkbSAdQBQVVfeXFMTTl3ei1wRk1RSkd2OFVrRkFhSXpOcko1MGoxanZXeVFKMUN1dGxkMG5GN1hJNW9SdHlJMFhxcThvM1VxdUgzaHIxeGU3YUU1VDhveERic29rck02aVgwV2tlNkpCOHRpeVFWLXFpcURYazl2N0FDaXRSWjlkdWpyc2NFZmhqdC1fY3RqcHh1SE9pRS0wT2Z2U1VvZkt3VUNzOVVyRWxvbnVKN21YclVuSzduYi0wWlBKYV9ub3BYMndBSi04WHQ0NmtMZzdiRjlSQlNFdEk?oc=5
+
+- India chip to set up first display driver chip unit - The Times of India
+  India chip to set up first display driver chip unit.
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNYnEyLTgxMjVYbk5TMVlGV3ktbU5lelRMaW52WjRKcnN4SWR1a0M5cUNLQmU2NDNsR01YdWZDMnNDWGRLWUx6WTNYOHlfMWFUTG1MUkxRRlh2ZlMwNFo3V3BoSm1xQ1JXb3lLelRqYzJXT3lkcFU2VXUzNTQwUDByYnJKQlZOQ0Z0M3BHS1p1SV84ZGRXYTQtcGltVXRINXN1U3Eyclowc09femMxeW15T1RXdldpYTZrUkJ4c1M3OV9ZRHdI0gHKAUFVX3lxTE5KWjl5UzJJSFBLN2thSlNRWk85d05oam1GdHE4eGxSLVAzWHF5UEVLUjF0QU4ydjlPX255ZkJvb29xak5mQjRIMGJDaGdvaE1OR1RTTDd6aEdNM1dYOWpyOWYzSk1DTmlhVEtPbFE0eEVpT1lwbVZOaDJWbmN4OHRIYjdXWXpxT2VrUDVuUHNlbzB5czRKa0U5SHFrdXFiSEVmZ1NKZ2ZDcEVWQ0xmakF2Y3diZFBVXy1STmYtNElhelRHVFFESmxocUE?oc=5
+
+- India, Brazil sign MoU on MSME cooperation - News On AIR
+  India, Brazil sign MoU on
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5NM01Ta0xLY2dsOGJVYWowUGN5QU1VdFNUejc4ZjhaTV9tRERuek5QOTRUWGwwVVFPMHFEUWlvUFZuY2lsMFBEdTlzX01hUEdOSUdrWWZXZFdiRzVzbDlNdjFHOG5PcVd6Q1hCblpIT1VicDAxMWdjb2hqaw?oc=5
+
+- India, Brazil exchange MoU on regulation of pharmaceutical and medical products - News On AIR
+  India, Brazil exchange MoU on regulation of pharmaceutical and
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGU2bUdtQk9oc3VfU2oySjU3eWxBZDEwOFBtN2cxN0FESUo2NFJucmRpS0VOYUVyZ09lV0x4aVJPSXNVV2hzS2cwYVBLd0tERVRvYk01c3k2Tmt4OWhuN2drVEVLdjFsWHlKQnRRczRnZllwQkhkVkJfVjVrbk9FUlEyR25aNDk5b3RQN2p2WUswdkNkUWNJRjJUVGt4akx2Y2pNMHd3R09qd2pG?oc=5
+
+- India signs critical minerals deal with Brazil to curb dependance on China - Al Jazeera
+  India signs critical minerals deal with Brazil to curb dependance
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQbWcxRFFOWUJvOE80Q3d3cS1NZzNBb2lwMUY5MTlKZFo3MmlvTEdXeUpWb3BtMUNPWFJvMHFCdlpBNFJzLVFvTGJrcW5lZkg2Z3VpZnJPT2pBakkxT2VsTlFvcUNfYklTYjdjUzdweS1oWEpSNzc1YURXczU4bWRWTjh3VVhIOWcybjNRbmoyRDNuX05uNndhMnIxTnNuaFI4MGZVZktaa0xNNmRmb1dGUNIBtgFBVV95cUxOQ0NXSVg3V2VWSVBNOHlIb3BfTDNmME0xWWpyNS1vNlFqLXpKVnZYY3BtNm1xWE5HcmxXbG1ZbEJfaUJwRVNHUjVSTFdSYXg3WWJMZ05uNGJTcHBsSXFsbElaWjhmTExtMDBRTlN3dVplOFg2Y0lFcWZEbm45SjktckxaLTVJZ3FpMzQxNzY1WDNvOS1wd044LXVzUjRpcV9TYnBoTFR1YndFcHZhSk14UDF5ajdMdw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-21 18:32:12 UTC_
+_Last updated: 2026-02-22 01:49:45 UTC_
