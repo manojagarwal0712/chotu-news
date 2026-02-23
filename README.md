@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Lanterns, legends and lost souls: Unearthing Fort Kochi’s haunted histories
+- Ranchi-Delhi air ambulance with 7 on board crashes in Jharkhand’s Chatra
   
-  🔗 https://indianexpress.com/article/india/oneal-sabu-phantasma-walks-fort-kochi-haunted-tours-10547530/
+  🔗 https://indianexpress.com/article/india/jharkhand-plane-crash-ranchi-7-onboard-air-ambulance-10548181/
 
-- Meerut Metro inauguration: Uttar Pradesh’s operational metro rail network crosses 170 km – Check routes
+- SIR: Nearly 70 lakh deletions from electoral roll as Tamil Nadu releases final voter list
   
-  🔗 https://indianexpress.com/article/india/meerut-metro-inauguration-uttar-pradesh-metro-network-170-km-routes-10547315/
+  🔗 https://indianexpress.com/article/india/tamil-nadu-final-electoral-roll-2026-sir-voter-list-10548165/
 
-- Two dead, several hospitalised in Andhra Pradesh’s Rajahmundry after suspected milk contamination
+- Kishtwar encounter ends 2-year pursuit of 7 Jaish infiltrators from Pakistan: Officers
   
-  🔗 https://indianexpress.com/article/india/two-dead-several-hospitalised-in-andhra-pradeshs-rajahmundry-after-suspected-milk-contamination-10547281/
+  🔗 https://indianexpress.com/article/india/operation-trashi-kishtwar-jem-terrorists-killed-saifullah-10548065/
 
-- After lynching Dalit man for ‘trying to meet woman’, villagers try to frame him for stealing tractor battery: Jharkhand Police
+- ‘Jailed a tantri for revenge’: BJP, Congress launch fresh offensive against Pinarayi Vijayan govt over Sabarimala
   
-  🔗 https://indianexpress.com/article/india/jharkhand-dalit-man-lynched-10547297/
+  🔗 https://indianexpress.com/article/india/kerala-sabarimala-tantri-bail-political-controversy-analysis-10548043/
 
-- Vande Bharat Sleeper train production: Titagarh Rail Systems eyes car body completion of 1st rake by March 31 – check rollout plan
+- President unveils Rajaji’s bust: ‘Set example of mental decolonisation’
   
-  🔗 https://indianexpress.com/article/india/vande-bharat-sleeper-train-production-titagarh-rollout-2026-10547190/
+  🔗 https://indianexpress.com/article/india/president-droupadi-murmu-rajaji-mental-decolonisation-10547946/
 
 - Amazon’s Panos Panay on ‘unlearning’ Alexa speak: Why your next Echo won’t just wait for commands
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/decoding-the-ai-beliefs-of-anthropic-and-its-ceo-dario-amodei-10546985/
 
+- C.H. Robinson CEO says AI will drive freight brokerage consolidation
+  C.H. Robinson CEO
+  🔗 https://www.livemint.com/companies/ch-robinson-ceo-says-ai-will-drive-freight-brokerage-consolidation-11771871619898.html
+
+- Airtel Money fires a  ₹20,000-cr warning shot at Jio Financial
+  Airtel Money is its new non-bank arm, competing with Jio Financial Services. The move allows Airtel to enter the lending market, aiming for a diversified
+  🔗 https://www.livemint.com/companies/news/airtels-20-000-cr-nbfc-shot-sets-up-clash-with-jio-financial-11771856888406.html
+
+- Who is Kangwook Lee? KRAFTON appoints Chief AI Officer to boost game innovation and AI research
+  Kangwook Lee has been appointed as Chief AI Officer of KRAFTON to lead AI research.
+  🔗 https://www.livemint.com/companies/people/who-is-kangwook-lee-krafton-appoints-chief-ai-officer-to-boost-game-innovation-and-ai-research-11771854375716.html
+
 - WhatsApp tells Supreme Court it will comply with CCI directions on user consent by 16 March
   NCLAT in its December 2025 ruling, in which it directed Meta to implement the regulator’s safeguards within three months. Senior advocate Kapil Sibal, appearing for WhatsApp
   🔗 https://www.livemint.com/companies/news/whatsapp-data-sharing-whatsapp-data-privacy-11771843476034.html
@@ -48,37 +60,29 @@
   There was no crash of the LCA Tejas, only a minor technical incident. Maharatna PSU assures that the aircraft maintains a strong safety record.
   🔗 https://www.livemint.com/companies/news/hal-addresses-lca-tejas-accident-works-with-air-force-for-resolution-heres-what-the-psu-said-11771838191405.html
 
-- Hillhouse Investment acquires minority stake in Singapore-based Quest Global
-  The deal aims to enhance Quest's growth strategy and engineering capabilities
-  🔗 https://www.livemint.com/companies/hillhouse-investment-minority-stake-singapore-quest-global-engineering-services-ajit-prabhu-jefferies-11771836529540.html
+- European Stocks Fall as Tariff Confusion Returns; Novo Slumps
+  Shares in Novo Nordisk A/S slumped after its next-generation obesity shot drug fell short of Eli Lilly &amp; Co.’s rival blockbuster in a trial.
+  🔗 https://www.livemint.com/market/european-stocks-fall-as-tariff-confusion-returns-novo-slumps-11771871433754.html
 
-- Vertis InvIT plans to double AUM to  ₹52,000 crore in two years; eyes  ₹5,000–6,000 crore acquisitions annually
-  PNC Infratech completes takeover of nine PNC
-  🔗 https://www.livemint.com/companies/vertis-infrastructure-trust-kkr-ontario-teachers-highway-acquisitions-11771330521662.html
+- PNGS Reva IPO: Diamond jewellery firm raises  ₹171 crore from anchor investors ahead of public issue
+  PMS Reva collects nearly  �
+  🔗 https://www.livemint.com/market/ipo/pngs-reva-ipo-diamond-jewellery-firm-raises-rs-171-crore-from-anchor-investors-ahead-of-public-issue-11771867728827.html
 
-- Mint Explainer: What’s driving VCs to launch deeptech accelerators?
-  The India Deeptech Alliance has partnered with the University of Chicago. Accel and Lightspeed Venture Partners have launched deeptech programmes in India in the last
-  🔗 https://www.livemint.com/companies/whats-driving-vcs-to-launch-deeptech-accelerators-startups-funding-skyroot-accel-11771826885899.html
+- Zerodha's Nithin Kamath explains how depository participant fees affect stock market investors — What you need to know
+  Zerodha CEO Nithin Kamath explains what depository participant (DP) charges are and how broking firms impose the fee on stock market investors.
+  🔗 https://www.livemint.com/market/stock-market-news/zerodhas-nithin-kamath-explains-how-depository-participant-fees-affect-stock-market-investors-what-you-need-to-know-11771852804930.html
 
-- Clean Max Enviro Energy Solutions IPO Day 1: Issue booked 34% amid strong QIB buying; check GMP and other details
-  Clean Max Enviro Energy Solutions IPO was booked 34% on the first day of bidding. The  ₹3,100-crore IPO will remain open till February 25
-  🔗 https://www.livemint.com/market/ipo/clean-max-enviro-energy-solutions-ipo-day-1-issue-booked-34-amid-strong-qib-buying-check-gmp-and-other-details-11771848746103.html
+- Gold, silver rates today: Comex gold jumps $140/oz; silver gains $5.5/oz on weak dollar, tariff uncertainty
+  Gold and silver prices surged on 23 February following a US Supreme Court ruling against Trump's tariffs. Gold futures reached $5,198, while silver prices rose significantly.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-140-oz-silver-gains-5-5-oz-on-weak-dollar-tariff-uncertainty-11771857492836.html
 
-- Omnitech Engineering IPO: 10 key things to know from the RHP ahead of offer launch on Wednesday
-  Omnitech Engineering is preparing for its IPO launch. Investors are keen to understand the company's financial health and market position.
-  🔗 https://www.livemint.com/market/ipo/omnitech-engineering-ipo-10-key-things-to-know-from-the-rhp-ahead-of-offer-launch-on-wednesday-11771845094708.html
+- Dow Jones, S&amp;P 500, Nasdaq drop after Donald Trump's new 15% US tariff update — Here's what investors need to know
+  Dow Jones, S&amp;amp;P 500, and Nasdaq dropped during the trading session on 23 February 2026.
+  🔗 https://www.livemint.com/market/stock-market-news/dow-jones-s-p-500-nasdaq-drop-after-donald-trumps-new-15-us-tariff-update-heres-what-investors-need-to-know-11771857490154.html
 
-- Shree Ram Twistex IPO: Issue receives tepid response on Day 01, subscribed 0.11 times; GMP indicates muted listing
-  Shree Ram Twistex IPO has seen a poor response, with a subscription of 0.11 times. The offering, which closes on February 25, aims to raise  ₹110.24 crore for corporate purposes.
-  🔗 https://www.livemint.com/market/ipo/shree-ram-twistex-ipo-issue-receives-tepid-response-on-day-01-subscribed-0-11-times-gmp-indicates-muted-listing-11771846731017.html
-
-- Yashhtej Industries IPO allotment finalised: Latest GMP, steps to check allotment status online for the SME IPO
-  Investors can check Yashhtej Industries IPO allotment status online on BSE and the IPO registrar - MAS
-  🔗 https://www.livemint.com/market/ipo/yashhtej-industries-ipo-allotment-finalised-latest-ipo-gmp-steps-to-check-allotment-status-online-for-the-sme-ipo-11771840581116.html
-
-- Gold rate today jumps 2%! SIP vs lumpsum: How to make the most of the rise in yellow metal prices? Explained
-  MCX gold prices reclaimed  ₹160,000 per 10-gram mark after consolidating for nearly three weeks. The latest trigger in the gold price rise is the US SC decision on Trump tariffs.
-  🔗 https://www.livemint.com/market/commodities/gold-rate-today-jumps-2-sip-vs-lumpsum-how-to-make-the-most-of-the-rise-in-mcx-gold-prices-explained-11771846277246.html
+- Sam Altman says AI will ‘automate the whole economy’, shares message for students at IIT Delhi
+  OpenAI CEO Sam Altman warned that AI will automate scientific progress and the economy. He advised students to stay up to date with AI tools and focus on understanding human needs.
+  🔗 https://www.livemint.com/technology/tech-news/sam-altman-says-ai-will-automate-the-whole-economy-shares-message-for-students-at-iit-delhi-11771849044415.html
 
 - Samsung Galaxy Unpacked 2026: Launch date, live-stream details, and what to expect from the new Galaxy S26 lineup
   Samsung Galaxy Unpacked 2026 will showcase the S26 series with the Snapdragon 8 Elite Gen 5 processor. The event will also likely introduce Galaxy
@@ -96,97 +100,65 @@
   Two major data leaks linked to AI apps have exposed sensitive information of millions globally. The first, from IDMerit, compromised 1 billion records, while the second, from the Video AI Art Generator
   🔗 https://www.livemint.com/technology/tech-news/twin-ai-data-leaks-expose-over-a-billion-personal-kyc-records-and-private-media-files-11771825019131.html
 
-- Robotaxis are coming to London. The citys famed black cab drivers are skeptical
-  Robotaxis are coming to London.
-  🔗 https://www.livemint.com/technology/robotaxis-are-coming-to-london-the-citys-famed-black-cab-drivers-are-skeptical-11771822901637.html
+- PNGS Reva IPO: Citigroup, Societe Generale back jeweller in Rs 170 crore anchor round
+  PGS Reva Diamond Jewellery raised Rs 170.58 crore from anchor investors ahead of its IPO opening on February 24. Citigroup Global Markets Mauritius and Société Générale, along with domestic
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/pngs-reva-ipo-citigroup-societe-generale-back-jeweller-in-rs-170-crore-anchor-round/articleshow/128721145.cms
 
-- Market quote of the day by George Soros | “It’s not whether you’re right or wrong that’s important, but how much money you make when you’re right and how much you lose when you’re wrong.”
-  George Soros’ philosophy emphasises that investing success isn’t about being right every time but about managing outcomes so gains outweigh losses. By focusing on asymmetric payoffs, disciplined risk management, and emotional
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-george-soros-its-not-whether-youre-right-or-wrong-thats-important-but-how-much-money-you-make-when-youre-right-and-how-much-you-lose-when-youre-wrong-/articleshow/128704156.cms
+- US Markets | Domino's shares jump 5% as US sales beat estimates
+  Domino's Pizza beat Wall Street estimates for fourth-quarter U.S. same-store sales. Value-driven promotions and new menu
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-markets-dominos-shares-jump-5-as-us-sales-beat-estimates/articleshow/128720888.cms
 
-- Indian bonds tick higher as US-Iran jitters ease, but hefty debt sales loom
-  Heavy debt supply due this week capped gains. Indian government bonds edged higher on Monday.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tick-higher-as-us-iran-jitters-ease-but-hefty-debt-sales-loom/articleshow/128713782.cms
+- Ahead of Market: 10 things that will decide stock market action on Tuesday
+  Indian markets enter Tuesday’s session with momentum after gains in the Sensex and Nifty. Analysts say direction will hinge on key resistance levels, volatility trends in India VIX and cues
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/128720333.cms
 
-- IDFC First Bank shares record worst crash since March 2020, end 16% lower
-   IDFC First Bank ended 16% lower on Monday. The lender uncovered a Rs 590-crore fraud at its Chandigarh branch involving Haryana government-linked accounts.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/idfc-first-bank-shares-record-worst-crash-since-march-2020-end-16-lower/articleshow/128713582.cms
+- Precious Metal Prices | FM Sitharaman downplays gold surge as central bank buying spree continues
+  
+  🔗 https://economictimes.indiatimes.com/markets/commodities/precious-metal-prices-fm-sitharaman-downplays-gold-surge-as-central-bank-buying-spree-continues/videoshow/128720048.cms
 
-- Gainers &amp; Losers: IDFC First Bank, Adani Ports among 6 stocks that were in focus on Monday
-  Indian markets rallied on Monday even as stocks like IDFC First Bank, AU SFB, UPL and HAL saw sharp moves
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-idfc-first-bank-adani-ports-among-6-stocks-that-were-in-focus-on-monday/slideshow/128712231.cms
+- European oil and gas stocks hit record high, surpassing 2007 level
+  European oil and gas stocks index hit a record high on Monday. Previous record hit in 2007.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/european-oil-and-gas-stocks-hit-record-high-surpassing-2007-level/articleshow/128719828.cms
 
-- Nithin Kamath says these hidden charges in trading can wipe out low brokerage advantage
-  Nithin Kamath, co-founder of Zerodha, has urged investors to pay closer attention to Depository Participant (DP) charges.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-says-these-hidden-charges-in-trading-can-wipe-out-low-brokerage-advantage/articleshow/128711447.cms
+- India's New Policy 'Prahaar' To Bring Down The Hammer On Terror - NDTV
+  India's New Policy 'Prahaar'
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOODhOLXI2UkhTTDJVajJPbFgzNGstWUF4ZVBjcXZHNGZRNW1pMm5pVUdZUVBiRlR0VUJ4LUxfdG1FT3hWSkxjdEw0UEpYbmwyaEJ2a0ctZmt6bmkwbWw2d3lmVVIwdTdLZDV2Q2RtdktXYzVwcWpQa3RnSE1PcXIzV3hLOEY5TExhbExLWUVreGl5djlDdVBjM2N5bXFVNk15Z2tmcjZDalNKLVJ0NXQxUjY1RXVQZmJtRmVR0gHDAUFVX3lxTE5kUHFrQUlNY254YTJPM0c2MnUtTGo2RlFoTk9OLW1aS3RpeXFSNzhBb2VPOVpEOXNQQ094WkR6aFR0dEJYN0lUMkF2ZERXWVdqN1RkMVRZekNVa0lXXzh2aDJXWkFkMzZuWURxVC01RlE4RU45NHI0Y0w3bENKQkVwMG5pc0Uxeng4RzBJaTJENHp4TC1uSGF5OUpLczZIeWI5QTFIa3pkQnY2NTJlVEg1Qi1MTnNEcm16Snl2UEVudm1MVQ?oc=5
 
-- India releases first anti-terror policy PRAHAAR - The Hindu
-  India releases first anti-
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQU5kemFnS0c1ZGo3a1Z1WUVUOTA1WmVQRUlMa0huMWFIVVdFUXh0MndFSjhMdmtEZWdzLUpYQUgxd0JiY0VCOEZjR21PMl9QQ1JDVHpobF9jb3RzYUJtbURoc25ncUdyR0dwRVp2eFk2cnhGa1BqS3lJbDZjck9UM0s3UUh1WHJCeTdHbjRremNmSnB4SVJ2TmFkMlE4Sm42RklIdk44czB3d9IBsAFBVV95cUxPb3FxOUJrLVdZMzNTT2xYX2JmWEVITkNidEtGZ0ZmRDNhdmRuNG1MZDRvb2Y5c2lnVElraFp2V1I4NW9HTjhrMXhGbWZxd0lmZ3NPVUtFYmx4blJYT3BjWTJjcHJZSklDZk9SdEYyOXNYQlp0amhZV01FMGR6NVFWN2djaFYyYkZfdVhTQklaTDdDa3F4eGVxNVVSam55Ulk3TkdOVGhrejdOZjhzVk54UA?oc=5
+- Attacked in India, Kashmiri shawl sellers choose between safety, livelihood - Al Jazeera
+  Al Jazeera: Kashmiri shawl sellers
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVRtMkl6MVN2aDV1aUdyVVFGSFhwbFdpclREZzZDZTJjTzIyYTBRZUlFNmY2Smo2TXpJa0VRTWRtUDFndTBlUW1PRnpRM2drUTR4UC1GR3Y1T2VWVlViY2g2cnFCMTFoN0lsWjMwWlZzWjdaT1gxZ0RmNTdEXzBoWkhwaGE4dW5mMnZESTR1VXJ5Y0JxUDNmZVgyWXA3Z19Bc0ptWjRycHI2bXNwRWVoVWFmeTHSAboBQVVfeXFMTk8wSW9Eckg2di1nMHZKMElpVnJ3bjJkUlFsY19rMW55YjdWcmEzV0UtYURuVWM4UXFIVmVyT2NPS2lMSi1QNE5YeXo1Mmo4Q0dUSjg0Z0RVRk5yeHRTWmVsdkswRjJpSkJPX3lmaGpQSFE4a2dmR3pfbWk5Z3RwQXdCUGd0cnhLS1FxUDJHWVhLM3JDNTFKaXVfbnhYT3N6azR6dnRkVEtzbG5EWkNPSk9WV0NSLVF2eWZ3?oc=5
 
-- Modi’s Israel visit: Timeline of India’s relations with Israel, Palestine - Al Jazeera
-  Modi’s Israel visit: Timeline
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWxLaWxkd0ZWODl4Z3pBbVYzeDQ3eUNIZFpkSGtXX3UwdW5hQk9IaGYzbnljQjdfLS1CN0VuRmVzdFduWk9LOHZmZVBfOFp5UWtOLWVUekdPc05BMFNvRGFpdm1nWTRDdDFCdzVCSm1wZmdzNC1BTlAtVkVyRWQ3anlKbXUzcVJmZThfZERWZ0p0ZGZOUXNhUkFZWXlMR1RzbTFmTktLSEJTek9DZzhj0gG0AUFVX3lxTFBnRGp5S21NSW54S3poeGxEWkNmSFJSQVhMVkcxNGtWWV8wWFlQbmpUWGNYaFZxR3BJY1VSRWJkTzg3Vkc5RmpPS2wtdjgyTVZRcFA5cDg3ajNmZnpGNzZVOXBzVkVWZi1YZ1VIa0JzbUFkY1N5ZzNEZ2pMT0huYUloeXEzend5ek5BaUl4akVXX0RHMU4wdnJDMy1WcEZ0SGZNUlNTOGpZQ0NIbk9RcFB3QjdpQQ?oc=5
+- All 7 passengers dead after Ranchi-Delhi air ambulance crashes in Jharkhand's Chatra | India News - Hindustan Times
+  All 7 passengers dead after Ranchi-Delhi air ambulance crashes in
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTQ5T09lVC1BMnlvUWRQR1VfR2doNXdvYlFZNmtfVFlPaVRXVjZNbWVOS2t2X05ua2FIMFpjSTA3WEZJQVdSWUpxUDhyU2Mzd29oOE4yTXpkYnlHS0w4djVLTlhzSlVMaW5TSHVkUnptLXdYVkRCeE1RdHk3YWwtWHRXR1VLT2NHVDRhbFRlV0E4MEZyYUNtMWMxVElfcFdjZmFLcTVUNEltTEd4MmNIWmo5S3ZDd9IBuwFBVV95cUxQVDlvV0d4c21xVjFxamtTampjY3cxellYQkdaaW1CUVptczVUTlIxZHdlM2dSSFU4X2I2VlBGV2dtTzhScXplMGtLWkhyMXBfeUdoNzE3elpFMlFBUjdkc0x4eTBQMWpTU2dDRDdMaHRxc0M5eU04dVJ3R1diWWxVMzNoaDA4OGxGX2ZIeG5rMEFRd3hOcHNiVk94S0xxY3poY05iZVJPMC1YZ1p1NWRTeHluY0ExdWw2dko4?oc=5
 
-- "Pandora's Box": Top Court Refuses To Hear SIR Plea By 91 Lucknow Residents - NDTV
-  "Pandora's Box": Top Court Refuses To
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnNwOElqbzFMLU5XYXpVYkVyUWNPdEtFbmVmdHd2Z01LV1VQMWR1U0M1ZmlNTEI3bzdqWlVQOThQcGU0SEhLTlZZWVZuaTdJWEx6S2F4YWhkVUFpTGVKeVV1MUZWQkZVLXdqMXcxTEdMSDFiaXFRT3AwNWQtMUVJY0U3RnlOa0w4MFFwcjFlaXV5X2N5M19WR0ZDMWE5LXFtNlhSaGJzaGRKcVA3SDRqZE530gG6AUFVX3lxTE83SVhSclJaOGg1SmJ3cFNPN0hhMEhIbzd0dFRheHZwWTBBX0xmWjZzYUpkX3V0ZUtrTEM4b2dma0I5anp2NXo5RlRIR3pycjQ3akVvZ3FVRU0zQkNKYjBxVzdyTzZZbkVQejVLUkVmUEMzUGM2aXB5dEtFSlpvY2JNLUtWLWpsb2JjUkhZZ2M0NExBbFRNb3VadTBwejctOHdQOFZHVjJ3ekRBTzhXNF9tN3BMYm5BV3lTZw?oc=5
+- Political messaging behind timing of installation of Rajaji’s bust? - The Times of India
+  The Times of India reported that Rajaji was arrested
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQbmMzaVU0QjBFSGJ6cHNkV2l6WTFYOXVVS3Jzek5jdk9rT3RfT00xdENZamRnVXlpQ3ZWenhxWTgtUDBvUlNselpZTl9PaHlCOHdpVHlnaWV5YTRwQmxXLUxhNTZNWnRIV1pBcU1vYmQ2NDdTNmxvMzd4LTVGMTEybTRWT3puVFl4OEpUN3pvN1p0UVlvV0FqRzJMT1preUtZVUhMZVhFS25RbjI3MGpzVmVuUk55LUo0VkFjU0VZWTZuSmVpOXh5NU1JVUVfd9IB0wFBVV95cUxQM2hnX1lzaXZtazNxZEdNcnpybDFsZXk3ZTJxSE5GSldHUElEMDE3bUUyTGgxNWpDZENCSGp2Nk9NclVaak5wTktIYU9vNXRfbVhrVEwxNW5PWHJITkhGLWJ0NURvZDlNeE04OHN6cm1XcjRNTGlxRUF2aGE1cDh3QkxYQWd1ZmlmYmdhRnZVel9VU251bUZZMHFncHRoSFAwUHZRRlpOOEM1enBFYnVwRUFQa0x0SGZwVXZVdTQzbWNsZWRvYU4ydXlpRE4td0doTXBn?oc=5
 
-- Evening news wrap: India urges its nationals to leave Iran; HAL dismisses Tejas 'crash' reports & more - The Times of India
-  Evening news wrap: India urges its nationals to leave Iran; HAL dismisses Tejas
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTkZCa0RMcWVEMWxXeXBLeHo3X3pzcHItSGRjRzlZUWp5ZU1Ob0RaeENnS0ZoTkVZMjlyeUljbVp2Wk9KSGZ5ZW9ncFlvcXMtbDVQNXJFc2Q3RWJwZFp0Q1V4RHJRSjhVU29uYUxjQXNsYjFSajlHRkNzek5zNEYxeWFrUzJHSjFreXBFLUJWUEMwcXE2S3Y0MERvMUVJUHpkSXY2T3B4UFktcHpaUTF6dDlvSHo3czVVM1V4ajRsWTZRWDZqaTR5VTc1ZXdPUTRIZ1VlS1A4dGlEeEpTeGhCSm51ei1WSExVTTJraEx2LUdNOFVSTFVz0gH8AUFVX3lxTFB4X3lhRlJNazFXb2JBbUtMeXRBTzR4bXFtbEx3c3lHT29JZVBSWUpPS1V4NVFNMmRCOWc2UktXY0VXUE9mazMwX2pwMloyMTc1UVhLNVRYcnl0TnJzdDVPcVBLLVYwWTg5Z1FoZWlmMWQyR0I1ekNvUXB3Q1FmSXprMXJHamJyVm9HSTN2bVUwMkdRTTFlVWMzc3d3eVBGM3BCMV9TTFhnTjJfU21JaVpKQmFSbTd0bzdtMEpBTGdKeW13TWxBakRzeF9ZeUF0Z1JkbF9EeVB1ZE91N1ozZXJ2MU4xemQ3cjR3S0NFa3UtZENtejRKRzlvTGpUcQ?oc=5
+- Canada PM Mark Carney to visit India on February 26; trade deal, defence pact in focus - The Times of India
+  Canada PM Mark Carney to visit India on February 26; trade deal, defence pact in
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTWJ5ZE40eHF3WUtFNEhkMFEzZnE4YnZNRkg3YjE5WDc1QlNESjVUZnhtNHYxb2REVHRvZHNJanZFRGdrdFVOcmllOVE0dXhjS0p0UnBEQndmMUFMbGJlb0dJcWFGX2kzSEtRSkU2V3NTZUFYUGxuemN6b3JyNGFYX1RQSnhpRmZzOVdRTkJHbmtMaTJOVDZHeDhJSkdGWHZhbkFhU1JJMUxLd2ppVnNOYzFZSU4zcE1HRjRBVjA5cTRYSTJ2Wl96U2ZoamFjQ1ZDWlpobzU1RTY0UlBadXREX0xaV1RPazjSAewBQVVfeXFMTWZYVzJNYi1KX1h1MjVtU29yTkZPdjVhR2MxTUdOMVFOdlp6a0ljQUtqLTlCVWRNTk5nUk1VLUhTaG8waUxicmlEelBXb2hjcDRzQk1Vbkpac1dsQVpsWDJEdlRJYWxyVDRyTUVDVTNYNDdKRElObEpiakNvNWU2TlVQa3d1amFaTElOc0hZanJSaXZvMGJsWmlPc0pGbjVCdHh3M052T2YweTFaeFd5b3V0TllRMU43Q2ZGWUJZOVNieWZxX3ZobGV5dC1LTWRTRF9WLVFieTM3ZFZqVlB4dDdMNDdmNWVhekRXS1o?oc=5
 
-- Ministry of Home Affairs unveils India’s new national counter-terrorism policy & strategy titled PRAHAR - News On AIR
-  Ministry of Home Affairs unveils India’s new national counter
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZi0tTl9fZzFIZ2ZHVTJ1S1pDUDhWc2FPQWxzN2l3SVpZWlJGeUFRcjBCTnMtaGlvbG1LaW8waTVZTTBhRVptR2VXRGRLWjdiZC1KQVdWSkMydl9TRHQ0elZhcGZTYjJkWWhtUWktUW4taERlbjcyYURGd25sS3lDdkdpTEVpV2kxRHhjS1dIRWZEWXppUVZiSmRGeHZ4NHA2ZHY1Y0NTekdJR1ZnVVItV2plVmRMSGh3MW16Q1I4bl9DVm0tQ0ZpdHVR?oc=5
+- India's New Policy 'Prahaar' To Bring Down The Hammer On Terror - NDTV
+  India's New Policy 'Prahaar'
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOODhOLXI2UkhTTDJVajJPbFgzNGstWUF4ZVBjcXZHNGZRNW1pMm5pVUdZUVBiRlR0VUJ4LUxfdG1FT3hWSkxjdEw0UEpYbmwyaEJ2a0ctZmt6bmkwbWw2d3lmVVIwdTdLZDV2Q2RtdktXYzVwcWpQa3RnSE1PcXIzV3hLOEY5TExhbExLWUVreGl5djlDdVBjM2N5bXFVNk15Z2tmcjZDalNKLVJ0NXQxUjY1RXVQZmJtRmVR0gHDAUFVX3lxTE5kUHFrQUlNY254YTJPM0c2MnUtTGo2RlFoTk9OLW1aS3RpeXFSNzhBb2VPOVpEOXNQQ094WkR6aFR0dEJYN0lUMkF2ZERXWVdqN1RkMVRZekNVa0lXXzh2aDJXWkFkMzZuWURxVC01RlE4RU45NHI0Y0w3bENKQkVwMG5pc0Uxeng4RzBJaTJENHp4TC1uSGF5OUpLczZIeWI5QTFIa3pkQnY2NTJlVEg1Qi1MTnNEcm16Snl2UEVudm1MVQ?oc=5
 
-- India releases first anti-terror policy PRAHAAR - The Hindu
-  India releases first anti-
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQU5kemFnS0c1ZGo3a1Z1WUVUOTA1WmVQRUlMa0huMWFIVVdFUXh0MndFSjhMdmtEZWdzLUpYQUgxd0JiY0VCOEZjR21PMl9QQ1JDVHpobF9jb3RzYUJtbURoc25ncUdyR0dwRVp2eFk2cnhGa1BqS3lJbDZjck9UM0s3UUh1WHJCeTdHbjRremNmSnB4SVJ2TmFkMlE4Sm42RklIdk44czB3d9IBsAFBVV95cUxPb3FxOUJrLVdZMzNTT2xYX2JmWEVITkNidEtGZ0ZmRDNhdmRuNG1MZDRvb2Y5c2lnVElraFp2V1I4NW9HTjhrMXhGbWZxd0lmZ3NPVUtFYmx4blJYT3BjWTJjcHJZSklDZk9SdEYyOXNYQlp0amhZV01FMGR6NVFWN2djaFYyYkZfdVhTQklaTDdDa3F4eGVxNVVSam55Ulk3TkdOVGhrejdOZjhzVk54UA?oc=5
+- Attacked in India, Kashmiri shawl sellers choose between safety, livelihood - Al Jazeera
+  Al Jazeera: Kashmiri shawl sellers
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVRtMkl6MVN2aDV1aUdyVVFGSFhwbFdpclREZzZDZTJjTzIyYTBRZUlFNmY2Smo2TXpJa0VRTWRtUDFndTBlUW1PRnpRM2drUTR4UC1GR3Y1T2VWVlViY2g2cnFCMTFoN0lsWjMwWlZzWjdaT1gxZ0RmNTdEXzBoWkhwaGE4dW5mMnZESTR1VXJ5Y0JxUDNmZVgyWXA3Z19Bc0ptWjRycHI2bXNwRWVoVWFmeTHSAboBQVVfeXFMTk8wSW9Eckg2di1nMHZKMElpVnJ3bjJkUlFsY19rMW55YjdWcmEzV0UtYURuVWM4UXFIVmVyT2NPS2lMSi1QNE5YeXo1Mmo4Q0dUSjg0Z0RVRk5yeHRTWmVsdkswRjJpSkJPX3lmaGpQSFE4a2dmR3pfbWk5Z3RwQXdCUGd0cnhLS1FxUDJHWVhLM3JDNTFKaXVfbnhYT3N6azR6dnRkVEtzbG5EWkNPSk9WV0NSLVF2eWZ3?oc=5
 
-- Modi’s Israel visit: Timeline of India’s relations with Israel, Palestine - Al Jazeera
-  Modi’s Israel visit: Timeline
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWxLaWxkd0ZWODl4Z3pBbVYzeDQ3eUNIZFpkSGtXX3UwdW5hQk9IaGYzbnljQjdfLS1CN0VuRmVzdFduWk9LOHZmZVBfOFp5UWtOLWVUekdPc05BMFNvRGFpdm1nWTRDdDFCdzVCSm1wZmdzNC1BTlAtVkVyRWQ3anlKbXUzcVJmZThfZERWZ0p0ZGZOUXNhUkFZWXlMR1RzbTFmTktLSEJTek9DZzhj0gG0AUFVX3lxTFBnRGp5S21NSW54S3poeGxEWkNmSFJSQVhMVkcxNGtWWV8wWFlQbmpUWGNYaFZxR3BJY1VSRWJkTzg3Vkc5RmpPS2wtdjgyTVZRcFA5cDg3ajNmZnpGNzZVOXBzVkVWZi1YZ1VIa0JzbUFkY1N5ZzNEZ2pMT0huYUloeXEzend5ek5BaUl4akVXX0RHMU4wdnJDMy1WcEZ0SGZNUlNTOGpZQ0NIbk9RcFB3QjdpQQ?oc=5
+- All 7 passengers dead after Ranchi-Delhi air ambulance crashes in Jharkhand's Chatra | India News - Hindustan Times
+  All 7 passengers dead after Ranchi-Delhi air ambulance crashes in
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTQ5T09lVC1BMnlvUWRQR1VfR2doNXdvYlFZNmtfVFlPaVRXVjZNbWVOS2t2X05ua2FIMFpjSTA3WEZJQVdSWUpxUDhyU2Mzd29oOE4yTXpkYnlHS0w4djVLTlhzSlVMaW5TSHVkUnptLXdYVkRCeE1RdHk3YWwtWHRXR1VLT2NHVDRhbFRlV0E4MEZyYUNtMWMxVElfcFdjZmFLcTVUNEltTEd4MmNIWmo5S3ZDd9IBuwFBVV95cUxQVDlvV0d4c21xVjFxamtTampjY3cxellYQkdaaW1CUVptczVUTlIxZHdlM2dSSFU4X2I2VlBGV2dtTzhScXplMGtLWkhyMXBfeUdoNzE3elpFMlFBUjdkc0x4eTBQMWpTU2dDRDdMaHRxc0M5eU04dVJ3R1diWWxVMzNoaDA4OGxGX2ZIeG5rMEFRd3hOcHNiVk94S0xxY3poY05iZVJPMC1YZ1p1NWRTeHluY0ExdWw2dko4?oc=5
 
-- "Pandora's Box": Top Court Refuses To Hear SIR Plea By 91 Lucknow Residents - NDTV
-  "Pandora's Box": Top Court Refuses To
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnNwOElqbzFMLU5XYXpVYkVyUWNPdEtFbmVmdHd2Z01LV1VQMWR1U0M1ZmlNTEI3bzdqWlVQOThQcGU0SEhLTlZZWVZuaTdJWEx6S2F4YWhkVUFpTGVKeVV1MUZWQkZVLXdqMXcxTEdMSDFiaXFRT3AwNWQtMUVJY0U3RnlOa0w4MFFwcjFlaXV5X2N5M19WR0ZDMWE5LXFtNlhSaGJzaGRKcVA3SDRqZE530gG6AUFVX3lxTE83SVhSclJaOGg1SmJ3cFNPN0hhMEhIbzd0dFRheHZwWTBBX0xmWjZzYUpkX3V0ZUtrTEM4b2dma0I5anp2NXo5RlRIR3pycjQ3akVvZ3FVRU0zQkNKYjBxVzdyTzZZbkVQejVLUkVmUEMzUGM2aXB5dEtFSlpvY2JNLUtWLWpsb2JjUkhZZ2M0NExBbFRNb3VadTBwejctOHdQOFZHVjJ3ekRBTzhXNF9tN3BMYm5BV3lTZw?oc=5
+- Political messaging behind timing of installation of Rajaji’s bust? - The Times of India
+  The Times of India reported that Rajaji was arrested
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQbmMzaVU0QjBFSGJ6cHNkV2l6WTFYOXVVS3Jzek5jdk9rT3RfT00xdENZamRnVXlpQ3ZWenhxWTgtUDBvUlNselpZTl9PaHlCOHdpVHlnaWV5YTRwQmxXLUxhNTZNWnRIV1pBcU1vYmQ2NDdTNmxvMzd4LTVGMTEybTRWT3puVFl4OEpUN3pvN1p0UVlvV0FqRzJMT1preUtZVUhMZVhFS25RbjI3MGpzVmVuUk55LUo0VkFjU0VZWTZuSmVpOXh5NU1JVUVfd9IB0wFBVV95cUxQM2hnX1lzaXZtazNxZEdNcnpybDFsZXk3ZTJxSE5GSldHUElEMDE3bUUyTGgxNWpDZENCSGp2Nk9NclVaak5wTktIYU9vNXRfbVhrVEwxNW5PWHJITkhGLWJ0NURvZDlNeE04OHN6cm1XcjRNTGlxRUF2aGE1cDh3QkxYQWd1ZmlmYmdhRnZVel9VU251bUZZMHFncHRoSFAwUHZRRlpOOEM1enBFYnVwRUFQa0x0SGZwVXZVdTQzbWNsZWRvYU4ydXlpRE4td0doTXBn?oc=5
 
-- Evening news wrap: India urges its nationals to leave Iran; HAL dismisses Tejas 'crash' reports & more - The Times of India
-  Evening news wrap: India urges its nationals to leave Iran; HAL dismisses Tejas
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTkZCa0RMcWVEMWxXeXBLeHo3X3pzcHItSGRjRzlZUWp5ZU1Ob0RaeENnS0ZoTkVZMjlyeUljbVp2Wk9KSGZ5ZW9ncFlvcXMtbDVQNXJFc2Q3RWJwZFp0Q1V4RHJRSjhVU29uYUxjQXNsYjFSajlHRkNzek5zNEYxeWFrUzJHSjFreXBFLUJWUEMwcXE2S3Y0MERvMUVJUHpkSXY2T3B4UFktcHpaUTF6dDlvSHo3czVVM1V4ajRsWTZRWDZqaTR5VTc1ZXdPUTRIZ1VlS1A4dGlEeEpTeGhCSm51ei1WSExVTTJraEx2LUdNOFVSTFVz0gH8AUFVX3lxTFB4X3lhRlJNazFXb2JBbUtMeXRBTzR4bXFtbEx3c3lHT29JZVBSWUpPS1V4NVFNMmRCOWc2UktXY0VXUE9mazMwX2pwMloyMTc1UVhLNVRYcnl0TnJzdDVPcVBLLVYwWTg5Z1FoZWlmMWQyR0I1ekNvUXB3Q1FmSXprMXJHamJyVm9HSTN2bVUwMkdRTTFlVWMzc3d3eVBGM3BCMV9TTFhnTjJfU21JaVpKQmFSbTd0bzdtMEpBTGdKeW13TWxBakRzeF9ZeUF0Z1JkbF9EeVB1ZE91N1ozZXJ2MU4xemQ3cjR3S0NFa3UtZENtejRKRzlvTGpUcQ?oc=5
-
-- Ministry of Home Affairs unveils India’s new national counter-terrorism policy & strategy titled PRAHAR - News On AIR
-  Ministry of Home Affairs unveils India’s new national counter
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZi0tTl9fZzFIZ2ZHVTJ1S1pDUDhWc2FPQWxzN2l3SVpZWlJGeUFRcjBCTnMtaGlvbG1LaW8waTVZTTBhRVptR2VXRGRLWjdiZC1KQVdWSkMydl9TRHQ0elZhcGZTYjJkWWhtUWktUW4taERlbjcyYURGd25sS3lDdkdpTEVpV2kxRHhjS1dIRWZEWXppUVZiSmRGeHZ4NHA2ZHY1Y0NTekdJR1ZnVVItV2plVmRMSGh3MW16Q1I4bl9DVm0tQ0ZpdHVR?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Canada PM Mark Carney to visit India on February 26; trade deal, defence pact in focus - The Times of India
+  Canada PM Mark Carney to visit India on February 26; trade deal, defence pact in
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTWJ5ZE40eHF3WUtFNEhkMFEzZnE4YnZNRkg3YjE5WDc1QlNESjVUZnhtNHYxb2REVHRvZHNJanZFRGdrdFVOcmllOVE0dXhjS0p0UnBEQndmMUFMbGJlb0dJcWFGX2kzSEtRSkU2V3NTZUFYUGxuemN6b3JyNGFYX1RQSnhpRmZzOVdRTkJHbmtMaTJOVDZHeDhJSkdGWHZhbkFhU1JJMUxLd2ppVnNOYzFZSU4zcE1HRjRBVjA5cTRYSTJ2Wl96U2ZoamFjQ1ZDWlpobzU1RTY0UlBadXREX0xaV1RPazjSAewBQVVfeXFMTWZYVzJNYi1KX1h1MjVtU29yTkZPdjVhR2MxTUdOMVFOdlp6a0ljQUtqLTlCVWRNTk5nUk1VLUhTaG8waUxicmlEelBXb2hjcDRzQk1Vbkpac1dsQVpsWDJEdlRJYWxyVDRyTUVDVTNYNDdKRElObEpiakNvNWU2TlVQa3d1amFaTElOc0hZanJSaXZvMGJsWmlPc0pGbjVCdHh3M052T2YweTFaeFd5b3V0TllRMU43Q2ZGWUJZOVNieWZxX3ZobGV5dC1LTWRTRF9WLVFieTM3ZFZqVlB4dDdMNDdmNWVhekRXS1o?oc=5
 
 
-_Last updated: 2026-02-23 12:57:33 UTC_
+_Last updated: 2026-02-23 19:00:31 UTC_
