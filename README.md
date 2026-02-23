@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- IRS officer booked on charges of rape in Odisha
+- Denied Rs 100 to buy liquor, man kills his mother in Bihar’s Gopalganj
   
-  🔗 https://indianexpress.com/article/india/irs-officer-booked-on-charges-of-rape-in-odisha-10546552/
+  🔗 https://indianexpress.com/article/india/denied-rs-100-to-buy-liquor-man-kills-his-mother-in-bihars-gopalganj-10547040/
 
-- ED chief asks officers to expedite probe, use summons judiciously
+- Amit Shah’s ‘Devnagari’ push for Kokborok triggers fresh storm in Tripura
   
-  🔗 https://indianexpress.com/article/india/ed-chief-asks-officers-to-expedite-probe-use-summons-judiciously-10546594/
+  🔗 https://indianexpress.com/article/india/amit-shahs-devnagari-push-for-kokborok-triggers-fresh-storm-in-tripura-10547029/
 
-- PM Modi to travel to Israel on Feb 25; my dear friend’s historic visit, says Netanyahu
+- Besides Lutyen’s statue, what else has changed at Rashtrapati Bhavan lately
   
-  🔗 https://indianexpress.com/article/india/pm-modi-to-travel-to-israel-on-feb-25-my-dear-friends-historic-visit-says-netanyahu-10546610/
+  🔗 https://indianexpress.com/article/india/besides-lutyens-statue-what-else-has-changed-at-rashtrapati-bhavan-lately-10546924/
 
-- Brazil President Lula: India does not have the mindset of a coloniser
+- News Today Live Updates, 23 February | After Supreme Court ruling, US to stop collecting Trump’s emergency tariffs from tomorrow
   
-  🔗 https://indianexpress.com/article/india/brazil-president-lula-india-does-not-have-the-mindset-of-a-coloniser-10546603/
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-02-23-2026-news-headlines-10546724/
 
-- After 32 years with Congress, former Assam party chief Bhupen Borah joins BJP
+- From Basavaraju to Hidma, Sonu to Devuji: Who are the top Maoist leaders killed or surrendered since last year?
   
-  🔗 https://indianexpress.com/article/india/former-congress-chief-bhupen-borah-joins-bjp-ahead-of-assam-assembly-elections-10546411/
+  🔗 https://indianexpress.com/article/india/from-basavaraju-to-hidma-sonu-to-devuji-who-are-the-top-maoist-leaders-killed-or-surrendered-since-last-year-10546550/
+
+- Decoding the AI beliefs of Anthropic and its CEO, Dario Amodei
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/decoding-the-ai-beliefs-of-anthropic-and-its-ceo-dario-amodei-10546985/
+
+- Social media can be addictive even for adults, but there are ways to cut back
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/social-media-can-be-addictive-even-for-adults-but-there-are-ways-to-cut-back-10546972/
+
+- Amazon’s cloud unit hit by outage involving AI tools in December
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazons-cloud-unit-hit-by-outage-involving-ai-tools-in-december-10546961/
 
 - ‘Humans use lot of energy too’: OpenAI’s Sam Altman on resources consumed by AI, data centres
   
@@ -28,57 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-unveils-claude-code-security-vulnerabilities-ai-10545661/
 
-- Motorola Moto Watch review: This ‘accessible’ smartwatch offers long battery life and better fitness metrics
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/motorola-moto-watch-review-10544857/
+- Mint Explainer | What is peer-to-peer power trading? How will it help Indian power consumers?
+  India is set to revolutionize energy consumption by allowing households and businesses to sell surplus renewable energy to each other. This innovative system, powered by the India Energy Stack and blockchain
+  🔗 https://www.livemint.com/companies/peertopeer-trading-consumers-surplus-power-digital-public-infrastructure-solar-energy-11771822731366.html
 
-- Tech leaders are all in on AI. The public, not so much.
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/tech-leaders-are-all-in-on-ai-the-public-not-so-much-10545346/
+- Anthropic engineer who created Claude Code says AI will take over most internet-based jobs — ‘It will be painful’
+  Anthropic is selling AI systems that can take action across workplace computer tools. They could soon take over multiple roles.
+  🔗 https://www.livemint.com/companies/people/anthropic-engineer-who-created-claude-code-says-ai-will-take-over-most-internet-based-jobs-it-will-be-painful-11771822295988.html
 
-- OpenAI expects compute spend of around $600 billion through 2030
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-expects-compute-spend-of-around-600-billion-through-2030-10545342/
+- How the Ola empire is fueling Bhavish’s personal AI business, Krutrim
+  Bhavish Aggarwal's AI venture, Krutrim, heavily relies on revenue from Ola companies. Experts urge transparency and flag director responsibilities to minority shareholders.
+  🔗 https://www.livemint.com/companies/india-ola-empire-fueling-bhavish-aggarwal-ai-business-krutrim-governance-concerns-11771744693911.html
 
-- PE-VC backed Indian companies see their median IPO timelines shrink to a decade-low in 2025
-  Indian companies are hitting the stock market at a decade-high speed as regulations ease and domestic cash flows surge. The median age for PE-VC backed IP
-  🔗 https://www.livemint.com/companies/news/pevc-backed-indian-companies-see-their-median-ipo-timelines-shrink-to-a-decade-low-in-2025-11771746989163.html
+- HSBC, StanChart Earnings to Show Effects of Strategy Shifts
+  Standard Chartered Plc’s finance chief and the implications of HSBC Holdings’ purchase of a bank stake will lo
+  🔗 https://www.livemint.com/companies/hsbc-stanchart-earnings-to-show-effects-of-strategy-shifts-11771815217229.html
 
-- The rise of India's consultant CEO: From advisor to executor
-  India Inc is increasingly hiring strategic consultants from firms like McKinsey, Bain, Kearney and BCG. Consultants bring a global perspective and strong problem-solving skills
-  🔗 https://www.livemint.com/companies/india-inc-hiring-strategic-consultants-top-executive-roles-11771743801368.html
+- AU Small Finance Bank de-empanelment: What we know about  ₹47 crore funds transfer, timeline, internal review details
+  AU Small Finance Bank has initiated an internal review after being de-empanelled by the Haryana government. Here's what the
+  🔗 https://www.livemint.com/companies/news/au-small-finance-bank-clarify-de-empanelment-haryana-govt-account-transactions-internal-review-assess-reasons-idfc-first-11771811075341.html
 
-- Tata Steel to source at least half its ore from captive mines after leases end 2030: CEO T.V. Narendran
-  Tata Steel aims to source half of its iron ore from captive mines after 2030. The company is also working on overseas sourcing and recycling operations.
-  🔗 https://www.livemint.com/companies/india-tata-steel-captive-iron-ore-mines-sourcing-after-2030-ceo-tv-narendran-11771729254959.html
+- Vinay Rajani of HDFC Sec suggests these 2 stocks to buy in the near-term
+  Nifty 50 gained 107.15 points and BSE Sensex rose by 92.12 points. Experts caution that volatility may persist amidst ongoing tariff and geopolitical
+  🔗 https://www.livemint.com/market/stock-market-news/vinay-rajani-of-hdfc-sec-suggests-these-2-stocks-to-buy-in-the-nearterm-11771824153988.html
 
-- HCL to supply 25% of India’s display chips in two years: Roshni Nadar
-  The move seeks to capitalize on India’s growing demand for locally made electronics components. HCL Group is investing  
-  🔗 https://www.livemint.com/companies/news/hcl-to-supply-25-of-india-s-display-chips-in-two-years-roshni-nadar-11771756378132.html
+- Accord Transformer and Switchgear IPO day 1: GMP, subscription status, price, other key details of SME IPO in 10 points
+  Am Accord Transformer IPO is a fresh issue of 55.62 lakh shares to raise  ₹25.59 crore. Retail investors can bid for 6,000 shares
+  🔗 https://www.livemint.com/market/ipo/accord-transformer-and-switchgear-ipo-day-1-gmp-subscription-status-price-other-key-details-of-sme-ipo-in-10-point-11771827426824.html
 
-- IT honchos dismiss AI fears ahead of annual industry gala
-  Homegrown IT majors TCS, Infosys and HCLTech will be in the spotlight at Nasscom’s
-  🔗 https://www.livemint.com/companies/news/it-ai-nasscom-tcs-infosys-hcltech-11771753080769.html
+- Canara Bank share price extends gains to second day, rises 2%; turns positive for 2026
+  Canara Bank share price gained 2% on February 23, 2026, contributing to a 6.3% gain this month. Canara Bank shares have remained
+  🔗 https://www.livemint.com/market/stock-market-news/canara-bank-share-price-extends-gains-to-second-day-rises-2-turns-positive-for-2026-11771827233001.html
 
-- Indian stock market: 10 key things that changed for market over weekend - Gift Nifty, Trump tariffs to US-Iran talks
-  Gift Nifty was trading around 25,750 level, a premium of nearly 167 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-10-key-things-that-changed-for-market-over-weekend-gift-nifty-trump-tariffs-to-us-iran-talks-11771788096801.html
+- Govt of India loses  ₹1100 crore, LIC  ₹340 crore as fraud-hit IDFC First Bank shares crash 20% in a day
+  IDFC First Bank share price crashed 20% following a reported  ₹590 crore fraud. Major shareholders, including the government and LIC, have seen significant losses. Analysts indicate
+  🔗 https://www.livemint.com/market/stock-market-news/idfc-first-bank-share-price-crash-wipes-out-rs-1100-crore-from-govt-of-india-rs-340-crore-from-lic-portfolios-11771827502608.html
 
-- Oil slides on Iran nuclear talks, fresh US tariff uncertainty
-  Oil slides on Iran nuclear
-  🔗 https://www.livemint.com/market/oil-slides-on-iran-nuclear-talks-fresh-us-tariff-uncertainty-11771809828517.html
+- IPO GMPs: Shree Ram Twistex IPO vs Gaudium IVF IPO vs Clean Max Enviro IPO — what grey market premium signals
+  Investor focus is on three IPOs this week: Gaudium IVF, Shree Ram Twistex, and Clean Max Enviro Energy Solutions. Each IPO presents unique risk
+  🔗 https://www.livemint.com/market/ipo/ipo-gmps-shree-ram-twistex-ipo-vs-gaudium-ivf-ipo-vs-clean-max-enviro-ipo-what-grey-market-premium-signal-11771825969095.html
 
-- Australian stocks fall as US tariff move sours risk appetite
-  Australian stocks fall as US tariff
-  🔗 https://www.livemint.com/market/australian-stocks-fall-as-us-tariff-move-sours-risk-appetite-11771809588795.html
-
-- Gold, silver rates today: COMEX gold price near $5,200/oz, silver price surges 5%. Should you buy in this rally?
-  Spot gold prices were up 1.61% to $5,160 per ounce, during the Asian trading hours on Monday.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-price-near-5-200-oz-silver-price-surges-5-should-you-buy-in-this-rally-11771807146827.html
-
-- Markets are churning furiously beneath a calm surface
-   AI is prompting investors to reassess
-  🔗 https://www.livemint.com/market/markets-are-churning-furiously-beneath-a-calm-surface-11771808595177.html
+- Robotaxis are coming to London. The citys famed black cab drivers are skeptical
+  Robotaxis are coming to London.
+  🔗 https://www.livemint.com/technology/robotaxis-are-coming-to-london-the-citys-famed-black-cab-drivers-are-skeptical-11771822901637.html
 
 - Is advanced tech enough to boost HR services? Here's what study reveals amid push to digitise human resources
   Tailored technology and strategic decisions informed by social context are essential for enhancing customer engagement and operational efficiency. A study reveals that in retail, technology alone doesn
@@ -96,157 +100,125 @@
   New Delhi Declaration on AI Impact adopted; US, UK, China
   🔗 https://www.livemint.com/technology/new-delhi-declaration-on-ai-impact-adopted-us-uk-china-among-nations-to-endorse-vision-for-collaborative-ai-11771675183323.html
 
-- iPhone 17 resale numbers are high just a few months after launch — Here's why Americans are selling the Apple smartphone
-  Apple's iPhone 17 Pro Max logged 11.5% of the top 20 trade-ins in the United States. Study found owners are capitalising on strong market prices
-  🔗 https://www.livemint.com/technology/iphone-17-resale-numbers-high-soon-after-launch-why-americans-sell-apple-strong-market-prices-tradein-depreciation-value-11771658099532.html
-
-- Bond Market Momentum Shifts Bears’ Way as Sell Signals Flash - Bloomberg
-  Bond Market Momentum Shifts Bears
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0tnYzJJVHFlSWdLWlFObkZaTlRBRUlUeFV3SjRvVVV1UWxMT3BEbHp0c0MtZVlvS3NUM2NUNXQ5YXMwYTlDOGxSdHBkb1A5YnBtN2RUN1VRMnVXWXIwQ3pILVA1WHNYM0Yzelo0M0Exc0tUaWFMV2VmMTVRc1laYXROMzlsc3lJczFYQkZCanUzWGZDa2doRnJEc2ktUVJISmZjTkF0aVczTERKT1Rj?oc=5
-
 - Markets are churning furiously beneath a calm surface - The Economist
   Markets are churning furiously beneath
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVZ2RHNPZTBRQlFhYThLMkR1S3IxTV9IZUo5U3l4a05uQ3ZuSU5EWlVXaE9LdnVSeFUyVWRmbzZpQmd0U1NtVDZtQVUtczU3YnY0el9RZGQ2YVhDS284Q0trZG5fT3N2UlFFYTNOSmxka2RGYjZJVklTb1NZQTgzc0w1RWZpcU9RbDlOZE1sQl90Tm12bzJfaXFJY3l2ODVRQmNLMUczOS02MVN6cmlYcmd3?oc=5
-
-- Asia-Pacific markets set to open higher as investors brush off Trump's tariff hike to 15% - CNBC
-  Asia-Pacific markets set to open higher as investors brush off Trump
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNRzVSSlBZV19JVUE3ZWdpYUNRM0VweUNqUjhtTVFYdlpaZkNDS1pSczNyY0gzZ283akMyVFcyN1luQ0NVRDN6NHBqcTNKWTN0QjdpUVZ5NGF5S1lZcE5GbUJmLWpjSEh5MERRTnhrU2tEVHptTWJtbV9GaXh4Z1VHNFhGRGdLX3BLTXowSm5yMUJickpKcl9HMEstVXFESTExRmE2RzZ0SHgyaFJHRzZZdkZTR2VGR1JsUnd2MWJZQkpvajZyeGfSAcsBQVVfeXFMTXdKTXVEY2ExRERINDk2NzdEcWNuRDBHNmQtemItd0hnYUxJQXg1eEl1cWpDMW41dGg4OW95SXBCZzFab3RxUXNKaUUtUi02Mkd5X0hvQXplMHlDUUR2WEpPUVNMNDNUNW5kZzcxYmhKSlMxcXhFMzZjM2J6VVdnRWdRMldOUm1HX1RfOU1kdVUxYmNZLXcxTkZDVGUwNV81VWlKRzJPaXF1TnBwNjJZaG5qeDFJYVM5dlF4empxb0hjaUw1WElhWnlSVnM?oc=5
 
 - What to Expect in Markets This Week: Earnings From Nvidia, Home Depot, Banks, and Berkshire; Trump Speech - Investopedia
   What to Expect in Markets This Week: Earnings From Nvidia, Home Depot
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbWk3bTB0OUNsamVHZkk4MXBOOWlHNkF3elk0TGRmS2xqaldWNDl5X1l2WnBKTGV6Q0lDeHMwTWs0cGVpVXY1OFNnaUFrOVB1clQ3QlAzaGo2cFc4XzhUWVdGa19uTXZmaXd0amNTOUhpQ1p3c3VMTEhZZWhTRDVYbEFhNVJ4ZkdVYTdTS1p0Vks0V0Z4UE4wNTFkUEdxMnRMNXk5Z0tPeGNpQzJJdkRyWm5uUm9hTFYxWmVWMUZmdnJ2TVU0c05IUHh6bW1ZVVBwdTA2bUI1VmtpTFRfekpfOFRGN0Rwc2k0?oc=5
 
-- Markets to stay volatile next week on F&O expiry, Trump tariff decision: Analysts - Telegraph India
-  Markets to stay volatile next week on F&amp;
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNWl9CRjV5ekFiNEl2U1pjX2VRY051eXVDZHV4XzE0Q0ZuNXFVR1BjVXJVRUZva2xzcFltam1CVllCcldXaVdPRzRza1pHNzBiVWJTSjFsTmVFZGFjQ1lvTXZENF9pVE9UTzR3Zmtqd2tBbnBuVV9NQlJnQWV5ZFUxeXlENUNWTTNab1pWM2pMQVFYX0lPNGhFODktdXBPNDR0cXNUZmx2MmhiRmlyd3RyM2xHQjA4Rzd4ZFQ5MUlfMG40RkZmNGprb2x30gHPAUFVX3lxTE9TUVgxUEtQTjc0X2RuSVpZUm5WbmI4SW9nNnRDbTU5bEUwa2UtUzMwN0lfVktUT3E4SG54WnJJRDZJMjgzdXBXVFB1d2ZzWXNNeU43T19nekZWbkt2b0puS1oyZHBhMVRoTUpzZE9zR3lHcXYxSWxtWFhoMkE4NVQtQTkxdU84WXNyV3RKOU8wQ1JxNTM1eXpnLVlYNkx2VEhqU2lQMTgtbDlzcmdmNVNCX0hrd3BGSUxkV2w1OUstRXBWazJHclRaV25LWTB4VQ?oc=5
+- U.S. futures, bitcoin fall, Asian markets mixed after Supreme Court nixes Trump's tariffs - The Hindu
+  U.S. futures, bitcoin fall, Asian markets mixed
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYktuRlNrQ1l6Z0xQLUhyNW5rS1ZMVk9iRE9zSm93QUF0NDZNMW44VkJNUmVLZS1rVkdKaVZSMGdsT2JuTjkyYzd2S1lHZERkT1ctOVROcWJYSkJUcl81bHJCUDJpVjJLeEY5UWd3U1A0aTJMWG9Fd1ZxNTNKMnN4X3hndzBuX3FHY2Zua3ZlOVBWelRSeUdOTUtRQVdBRmZWajVsVWRQYXBNRVE2MmlCODFiYjB3Z1hlVjBaODZPbGVDMVpFR3cwOWVyQjFFWHRfci1wN1hrSWVDeC1EU1J30gHmAUFVX3lxTE1aTUljV09DbF8xQ3ZJbi05Y2dTMjc3VlJsWEpOdmh3VkhJUG10U2E4UVp0U3ZHOEoyTDc0U1RQUW0xNnZCWmVQdEhUZ1d2OEFESUhRNTNqZjBCYWV4TkJ0NE84Y2dlcEdFZGdmQ3NsMXNXSEJINEZySjBldjk3VDVwNktabDk1eHE3a2U5WV9sSFp2dFo3eTdlTWI5bEtDUGlZWGJPcUtuTnpVN3JzQ09GdTVIdGJTdHRpWWhaWHl2TGZCNXJ2VzlfNGt2SXFQV1ZBdm01V2VyNEVsUHZKUzhmSnA4SzZn?oc=5
 
-- Oil slides on Iran nuclear talks, fresh US tariff uncertainty
-  Oil prices dropped as the United States and Iran prepared for nuclear discussions. This eased worries about a potential conflict. President Donald Trump's new tariff increases introduced uncertainty for global growth.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-slides-on-iran-nuclear-talks-fresh-us-tariff-uncertainty/articleshow/128695062.cms
+- European stocks to start the week lower as markets react to new Trump tariffs - CNBC
+  European stocks to start the week lower as markets react to new
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNcTdGc1NkeVBySXVqXy10VXpCMk1ha1gtY21oaF9rYUtpcDdOQW1qMlpVSXNnX2VQY1hxVkc4d3g1LTVxZzJCSHJnX20tM0JIbDc4dUxwbElkM3JwWlB6RDFMaHQ3U09iNnUxTHZYSWd1S0tienlYREN5OUxwSk8tdFZETUlUQzNoZnZrT0hPTFk0aU1vRzd6MzV0TjE3aHhR0gGmAUFVX3lxTE55RE1mREJJTUlnbjR0a0lGMVBmMzdZNHlfemUxT3N4eUhfNWthemtCVkFfcG03ZTE3X2x6bC05MkdEc2FyZk9ZaHZjdk9fazA3LWw1Ykg4UjBZSldLSmpkTFZfVDBEeVFoMjRGTk9zbkpiZjVHR2N5ZXBsT1ZXbkhxbnV6WjFKOFQycjVJY1BEMXk5RDEyMXR5MWJXcVZHSUhuaXRCeWc?oc=5
 
-- Global Market Today: Asian shares hesitant, dollar slips amid tariff confusion
-  Asian markets and the dollar showed hesitation as investors awaited clarity on U.S. tariffs. Tech stocks face scrutiny with Nvidia's earnings this week. Oil prices eased ahead of U
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-asian-shares-hesitant-dollar-slips-amid-tariff-confusion/articleshow/128694314.cms
+- Dollar, US Futures Decline on Tariff Uncertainty: Markets Wrap - Bloomberg
+  Dollar, US Futures Decl
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnU3SHM1ZFEzYWdoQm5CYTl6bVQxT1V0LU9ZUVZ2UUNIRHdsekloQVRFYVNxUWREekV5TC1pX1JXUjJBNFVoN2NSdG9YUVhsM0FmaGtSZFdJOFN0Tm5PZjJORUFsdUNBQTRjTFJPNTJkdEtkMjlCQmJYVVFYM0lxMjg1dE1pTEx4bzFqbEJpUzJ4Z0lsSGZoQUhtaFhseXVBaVF0am96UFN5S0RndWZlczY0Ty0?oc=5
 
-- Can Clean Max IPO deliver long-term growth for high risk investors?
-  Clean Max Enviro Energy Solutions, India's top renewable energy provider for businesses, is set to raise funds through an IPO. The company aims to repay debt and expand its operations.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/can-clean-max-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/128694168.cms
+- Global Markets | Australian shares dip on U.S. tariff jitters; miners buck the trend
+  Australian shares dipped as US tariff policy uncertainty resurfaced. Miners, however, saw gains due to safe-haven demand, with gold stocks also rising. Despite the pullback, strong corporate earnings are expected to limit further declines.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-dip-on-u-s-tariff-jitters-miners-buck-the-trend/articleshow/128702172.cms
 
-- GIFT Nifty up 190 points; here's the trading setup for today's session
-  Asian markets show mixed movements, with Japan's Nikkei dropping and Australia's ASX 200 gaining. Indian rupee weakened against the dollar, nearing the 91 mark.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128683641.cms
+- Bitcoin slides 5%, slips below $65,000 after Trump’s 15% tariff move
+  Bitcoin and Ether experienced significant drops, trading below $65,000 and $2,000 respectively. The announcement of a 15% global tariff by President Trump led to a risk-off sentiment across markets. Analysts suggest Bitcoin may test
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-slides-5-slips-below-65000-after-trumps-15-tariff-move/articleshow/128701377.cms
 
-- RBI likely to infuse Rs 5 lakh crore into market in FY27
-  Economists anticipate the Reserve Bank of India will inject at least ₹5 lakh crore through liquidity operations next fiscal year. This move aims to balance a significant supply-demand imbalance in the bond market.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-likely-to-infuse-rs-5-lakh-crore-into-market-in-fy27/articleshow/128694096.cms
+- Global Markets | Tariffs, trade realignment and the new global playbook: What lies ahead for global investors
+  India must adapt to redrawn supply chains and renegotiated trade relationships. Expect widespread trade realignment and diversified supply chains by 2026.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/global-markets-tariffs-trade-realignment-and-the-new-global-playbook-what-lies-ahead-for-global-investors/articleshow/128701084.cms
 
-- 8 held for plotting terror attack in India, had put up ‘Free Kashmir’ posters | India News - Hindustan Times
-  8 held for plotting terror attack in India, had put up ‘Free Kashmir
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQM2d6MEc3NXlKRXp6QTZvMF91Q19faWZQdFBlOWpQZWZlRU9mMmtwSXh1MUFoVnZyOGZDY3VPZjUtd0FRdFpmbDdXU1hUMExDZ0JNOVNMMUZXX3RvcEVLZ25VLVBpcjVuTklkRG5LT0hZMk95LXVoTFFPNHNMdURTa3J3d2pFOXJGSlBGVWRoejg2VldHZWtaLWw2NkNPQ0trSy00aG9SVjNUaWdhQWhEbUFCVm5hZ3hOQkVFU1ROUzA4RWlwbWU3M1A0bEsybnFIX192WG8zd0FReVNlV2RWcFk2alBrZ0E4QUZPX0t4VTBSaUFLeUs3M2tER2tSaHJpRTZwMlpQRDRMVFNw0gGSAkFVX3lxTE44TEx6NzBSQ2w0V2ZWY1NKV2Q2LVBBUUFPdVhGbVhhdmdKR3dKc2FLSnN5a2lPU1BsMG1XcHE5YzBBT0pzaHVRdlNTb0JNTUdnS1VORXFnbUpxWkpTVmltY25lYVY2Z0Nrek9aTEZWYlVrT3RXcVdoRTRpNUZaS0NrRXljcTVTcUxsY3MzNG85YlJGaVkyaXRKVDlLNHBYQUpHb0l4X3labHJZZFRpYmNkRk92WG1OLWNvT2xPQmQxV0cxNF9BQUpVd09uMFlpR3J5VVZZY2JndGFNNkZWZEZheUZRckU3Z04xZ0xnbWVPVTlnaFUwS09vdWF2THBESTdiLTBadm13VXJaMnhvXzVoT3c?oc=5
+- Bharat Dynamics shares fall 3% amid selling pressure in defence PSUs
+  Bharat Dynamics shares fell over 3% amid profit booking and broader weakness in defence PSU stocks. Several peers also declined, while select counters saw buying interest.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bharat-dynamics-shares-fall-3-amid-selling-pressure-in-defence-psus/articleshow/128701323.cms
 
-- Lashkar-Linked Terror Module Busted, 8 Arrested For Plotting Attack In India - NDTV
-  A terror module linked to the Indian government has
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQWNPNFQ1TFFDWWh0ODlBejhEZXAzODZyamsySVpXa0tacFdINUZRLWwwcm53WWZtcWxOX2c5QzFMVDI0elBPclV0UWJaUk5iY18zazBuVWtRTXBablFrTW5xQURtNk5zNzhUYmNFeGk5YkJqc1lOdjFoS0N4UW1CRVY3dUVsWVdmUkpHOHZkb016T2V0dV9FdXdkS1d0ZGRVRW5qM2RmdXpQdS1BcEo1d280Y3lFdHpBbTE2ekVvdFZDXzZ5ZlJQd2NmeEwwVUdf0gHYAUFVX3lxTFB5dzRoRVE2Vy1XZ19YZHNYbGZHUXlQenZoUGlJMW4wYWVQVVp6MTF1T2d1ZzZQUWQxTkI1NFVPUlZKM05ldzJGY19HUkg2Z0xLMzlpQ1N3MmhMMm40X1ByRkt6Y3U0WHlSSHplckZNdFo2dUotSFJieU5CQjVFdWVheTFTOXZWRF82UnBlSDFvTHYxVDlpUWtKSXZLZHFZaE9tVnM3aXpfWTBKcEJLblp1UDlwcXZCQmhtcXVFSThmSXZ4WHZzckpndjFXQ2E4dFJmV0RnZ0EwbA?oc=5
-
-- Red Fort, temples on radar? Eight suspects with Bangladesh, Pak ISI links held for plotting terror attack - The Times of India
-  The Times of India reported that eight suspects with Bangladesh, Pak ISI links held for plotting terror
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZWRIWmFFQi1jdVIza2NBOWNLb1UyZngzb1dLZ0ZhalN6QjdNSmlBSlp4bWtkdXRhbklOT3J5WUpFTEpPSkVOcWl1YXBfSTczU1Q2SHV4NVluclllZHdJZWZVVTJyU3VEcnNQR2NzVWt1MTVqUDBVcHFXWjhGN1J3ZlN6Vy1mU0RsbXg0bXNhU0NtU05hMmgwQlptU2VfU1FoaGRpTVpYeklRUVFhUlJrR3k4c0NwVUQ0aWVqdzFGOEotbl9FTWlMUE1yY2VSSjhrMkExUFFod3Mzb1dhdjVsb3F5X2N3cGZ6UWtxaFhMZTJxT1Q4blpF0gH8AUFVX3lxTE4zWmF1X3RLa1oxV0o2NUoxdGdITkUtcy1Ed3V3ZzczN3YzZFFTMFhUZms2T3RvU01UeUNqZEdFeVZUbzR4Y1JsQkRZUFQ0Z0h0NURYNUtWeFJzS3VDWk5YUFFZNmpndURvc3o1R1YyZjQ2SXdzY01mMnlkZl84c29pcllWWEV4TE5memQyMjhSX3VTdlMzbXNyNDNnMnZLenlMR0ZYUFdOQkJYUERJMmF3XzF5VmhVQ0xmMFlDR1EzaFFLRDNGVV91bXdRSTc3cFYzVDQ5TFBMbW9xS1dETXZVQjZ5elhkbV9nZGNRSnZMcmItdEdGdXFaYmJMdA?oc=5
+- Up to 65% derating possible! Jefferies downgrades Infosys, TCS, 4 other IT stocks
+  Jefferies downgrades major Indian IT stocks, including Infosys and TCS. Warns of up to 65% valuation downside in a worst-case AI disruption scenario.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/up-to-65-derating-possible-jefferies-downgrades-infosys-tcs-4-other-it-stocks/articleshow/128700934.cms
 
 - Zudio, Trends: Budget fast fashion is taking small-town India by storm - BBC
   Zudio, Trends: Budget fast fashion
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWa0pZSktyYWRVNWhicDhxSWg4UHpGLXBBeXF4ekVZWXo4cldjVWR0VE9NM0p4UEFwR0RoZGZMT2J2SzFwMlFaYjA3NlZ6V1ZMdEotMm12Tmt2Zw?oc=5
 
-- Friendship withTel Aviv built on trust, says Modi - The Times of India
-  Friendship withTel Aviv built on trust,
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOOWZDSWJnazZBNmlNT0lKYzNZT0dZdXNMQjRFS3JCOGhlWkk3c3Jrd3V2bGZxVmQ1eGNXbFMtOGQycWxXVUktREE3WG9ueC1rV1hWOEdLNnhMWFZnN2otUEpxSnlRS0VobnVPX0EtdElIQnpDZ3MwWkcwZl9KRDZ2WklPb3NLZ3ZnMl9VNld3dVFQMENfVXlqN0JiQnZ6VlVZb1dwTnZaa0Vha1NRYm1IQ3BST28xbGc?oc=5
+- Modi’s Israel visit: Timeline of India’s relations with Israel, Palestine - Al Jazeera
+  Modi’s Israel visit: Timeline
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWxLaWxkd0ZWODl4Z3pBbVYzeDQ3eUNIZFpkSGtXX3UwdW5hQk9IaGYzbnljQjdfLS1CN0VuRmVzdFduWk9LOHZmZVBfOFp5UWtOLWVUekdPc05BMFNvRGFpdm1nWTRDdDFCdzVCSm1wZmdzNC1BTlAtVkVyRWQ3anlKbXUzcVJmZThfZERWZ0p0ZGZOUXNhUkFZWXlMR1RzbTFmTktLSEJTek9DZzhj0gG0AUFVX3lxTFBnRGp5S21NSW54S3poeGxEWkNmSFJSQVhMVkcxNGtWWV8wWFlQbmpUWGNYaFZxR3BJY1VSRWJkTzg3Vkc5RmpPS2wtdjgyTVZRcFA5cDg3ajNmZnpGNzZVOXBzVkVWZi1YZ1VIa0JzbUFkY1N5ZzNEZ2pMT0huYUloeXEzend5ek5BaUl4akVXX0RHMU4wdnJDMy1WcEZ0SGZNUlNTOGpZQ0NIbk9RcFB3QjdpQQ?oc=5
 
-- 8 held for plotting terror attack in India, had put up ‘Free Kashmir’ posters | India News - Hindustan Times
-  8 held for plotting terror attack in India, had put up ‘Free Kashmir
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQM2d6MEc3NXlKRXp6QTZvMF91Q19faWZQdFBlOWpQZWZlRU9mMmtwSXh1MUFoVnZyOGZDY3VPZjUtd0FRdFpmbDdXU1hUMExDZ0JNOVNMMUZXX3RvcEVLZ25VLVBpcjVuTklkRG5LT0hZMk95LXVoTFFPNHNMdURTa3J3d2pFOXJGSlBGVWRoejg2VldHZWtaLWw2NkNPQ0trSy00aG9SVjNUaWdhQWhEbUFCVm5hZ3hOQkVFU1ROUzA4RWlwbWU3M1A0bEsybnFIX192WG8zd0FReVNlV2RWcFk2alBrZ0E4QUZPX0t4VTBSaUFLeUs3M2tER2tSaHJpRTZwMlpQRDRMVFNw0gGSAkFVX3lxTE44TEx6NzBSQ2w0V2ZWY1NKV2Q2LVBBUUFPdVhGbVhhdmdKR3dKc2FLSnN5a2lPU1BsMG1XcHE5YzBBT0pzaHVRdlNTb0JNTUdnS1VORXFnbUpxWkpTVmltY25lYVY2Z0Nrek9aTEZWYlVrT3RXcVdoRTRpNUZaS0NrRXljcTVTcUxsY3MzNG85YlJGaVkyaXRKVDlLNHBYQUpHb0l4X3labHJZZFRpYmNkRk92WG1OLWNvT2xPQmQxV0cxNF9BQUpVd09uMFlpR3J5VVZZY2JndGFNNkZWZEZheUZRckU3Z04xZ0xnbWVPVTlnaFUwS09vdWF2THBESTdiLTBadm13VXJaMnhvXzVoT3c?oc=5
+- India qualification scenario: How can Team India reach T20 World Cup 2026 semi-final? - The Times of India
+  The Times of India: How can Team India reach T20 World Cup
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNZldnY1lMNzJjekdkWVFvUWd2cTVYLWh2N2lILXBGVTFIaW1hNnVnZE1ZZmFhcmsxbFcxOWlxbEhkMGxuc04yTm9pMlB2Z25iLWJUdFgxWGp3ckhuYTR5MktMSXBJLV8xQzRWM3hSeGJsODEteGxWVmZaSmYzQkptWkdVQVJoMUE1S19memhTcjJDLWY1cDZPZ0pvS3kzc2VLbHNrSUR1Y0N5YU0zX0NBb0Vwa2lDazludDhpbVpiUDZvWnpWWDMtQlJiNFdrbXBIaEl2c1M1bnk3UFBmU3pHSUdVbTRkMi0wMWFpYThTNWZtNDlXWUlBa2JneXZNQ1dtV3g5Z3MyOWRqaTJhRG5yWNIBlgJBVV95cUxPTFE4amI4ZDZSZEt2VFJRN2gwYnlsWVVORkRPUjhlbHh4R2NvUTVRSk52czFkTDNMMzNNaFZqcFk3ZE5QTlZiaktqYmZUNEhOY3RBZHRQaHVzX0FDNnNKYmg1dl9yVzVXZkRVcUZLeUNOZkE1ZDEzaTFvZ3BLTlRPSFF1ODE3Ty1ySms0M1JUd2ktZEtYWlg4eWtkSWZyRjVSeWdpTFVQX0RyVzZPVFktZk9PLVB5WC13SkZETFdwY3JRWE1femdrWmFXVm9kSWVDLVNETGZqYmEtdzJISWpLZVhiQ2FVTTl2R2xHdXVNaUV6OG9OejQzcmFFdVpScmVRY1lRVzJKeTBiVVRhTkNSbGxiSjltZw?oc=5
 
-- Lashkar-Linked Terror Module Busted, 8 Arrested For Plotting Attack In India - NDTV
-  A terror module linked to the Indian government has
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQWNPNFQ1TFFDWWh0ODlBejhEZXAzODZyamsySVpXa0tacFdINUZRLWwwcm53WWZtcWxOX2c5QzFMVDI0elBPclV0UWJaUk5iY18zazBuVWtRTXBablFrTW5xQURtNk5zNzhUYmNFeGk5YkJqc1lOdjFoS0N4UW1CRVY3dUVsWVdmUkpHOHZkb016T2V0dV9FdXdkS1d0ZGRVRW5qM2RmdXpQdS1BcEo1d280Y3lFdHpBbTE2ekVvdFZDXzZ5ZlJQd2NmeEwwVUdf0gHYAUFVX3lxTFB5dzRoRVE2Vy1XZ19YZHNYbGZHUXlQenZoUGlJMW4wYWVQVVp6MTF1T2d1ZzZQUWQxTkI1NFVPUlZKM05ldzJGY19HUkg2Z0xLMzlpQ1N3MmhMMm40X1ByRkt6Y3U0WHlSSHplckZNdFo2dUotSFJieU5CQjVFdWVheTFTOXZWRF82UnBlSDFvTHYxVDlpUWtKSXZLZHFZaE9tVnM3aXpfWTBKcEJLblp1UDlwcXZCQmhtcXVFSThmSXZ4WHZzckpndjFXQ2E4dFJmV0RnZ0EwbA?oc=5
+- "Why Are You Protecting The Congress?" PM Modi Asks Media - NDTV
+  "Why Are You Protecting The Congress
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXdDOC1hdFdmeE90bi02aFlURjk5NGRxZ0FUekRaR3JwdVpubC00elVHYWM5WXB0TE1JdXoyVXpjSlVqemV0MUNJLWhRYllKZlJNSmdVTkxPckRfakc4cGFGeXBmU2hUbTgyWlhlOFZaWTZQYklmNFVJcWNpS2h4YnBZZGltTG1BaHE5Z0FiWF9wcUlPc3luWVA1c9IBowFBVV95cUxQVEJudmpFZERTZmdZMmlEWThQeG5Bb2hWdVhoQy0tLVNPU1JYVWx1SHlheGZHS3NteUIzU3otQzE3UTVzMlZXVEM5R0pUY2hVdHE2WEYtS0U4QjF0Q0x5bkttT0hnTkVJUmNjVUFhS3BaamdxQ2NTNlF6RGZiYXlBcmlfS29yMUZMdWNBZnZpZjRRaTM1Rlltbm5ZZ28ycGk4dDJR?oc=5
 
-- Red Fort, temples on radar? Eight suspects with Bangladesh, Pak ISI links held for plotting terror attack - The Times of India
-  The Times of India reported that eight suspects with Bangladesh, Pak ISI links held for plotting terror
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZWRIWmFFQi1jdVIza2NBOWNLb1UyZngzb1dLZ0ZhalN6QjdNSmlBSlp4bWtkdXRhbklOT3J5WUpFTEpPSkVOcWl1YXBfSTczU1Q2SHV4NVluclllZHdJZWZVVTJyU3VEcnNQR2NzVWt1MTVqUDBVcHFXWjhGN1J3ZlN6Vy1mU0RsbXg0bXNhU0NtU05hMmgwQlptU2VfU1FoaGRpTVpYeklRUVFhUlJrR3k4c0NwVUQ0aWVqdzFGOEotbl9FTWlMUE1yY2VSSjhrMkExUFFod3Mzb1dhdjVsb3F5X2N3cGZ6UWtxaFhMZTJxT1Q4blpF0gH8AUFVX3lxTE4zWmF1X3RLa1oxV0o2NUoxdGdITkUtcy1Ed3V3ZzczN3YzZFFTMFhUZms2T3RvU01UeUNqZEdFeVZUbzR4Y1JsQkRZUFQ0Z0h0NURYNUtWeFJzS3VDWk5YUFFZNmpndURvc3o1R1YyZjQ2SXdzY01mMnlkZl84c29pcllWWEV4TE5memQyMjhSX3VTdlMzbXNyNDNnMnZLenlMR0ZYUFdOQkJYUERJMmF3XzF5VmhVQ0xmMFlDR1EzaFFLRDNGVV91bXdRSTc3cFYzVDQ5TFBMbW9xS1dETXZVQjZ5elhkbV9nZGNRSnZMcmItdEdGdXFaYmJMdA?oc=5
-
-- Zudio, Trends: Budget fast fashion is taking small-town India by storm - BBC
-  Zudio, Trends: Budget fast fashion
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWa0pZSktyYWRVNWhicDhxSWg4UHpGLXBBeXF4ekVZWXo4cldjVWR0VE9NM0p4UEFwR0RoZGZMT2J2SzFwMlFaYjA3NlZ6V1ZMdEotMm12Tmt2Zw?oc=5
-
-- Friendship withTel Aviv built on trust, says Modi - The Times of India
-  Friendship withTel Aviv built on trust,
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOOWZDSWJnazZBNmlNT0lKYzNZT0dZdXNMQjRFS3JCOGhlWkk3c3Jrd3V2bGZxVmQ1eGNXbFMtOGQycWxXVUktREE3WG9ueC1rV1hWOEdLNnhMWFZnN2otUEpxSnlRS0VobnVPX0EtdElIQnpDZ3MwWkcwZl9KRDZ2WklPb3NLZ3ZnMl9VNld3dVFQMENfVXlqN0JiQnZ6VlVZb1dwTnZaa0Vha1NRYm1IQ3BST28xbGc?oc=5
-
-- 8 held for plotting terror attack in India, had put up ‘Free Kashmir’ posters | India News - Hindustan Times
-  8 held for plotting terror attack in India, had put up ‘Free Kashmir
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQM2d6MEc3NXlKRXp6QTZvMF91Q19faWZQdFBlOWpQZWZlRU9mMmtwSXh1MUFoVnZyOGZDY3VPZjUtd0FRdFpmbDdXU1hUMExDZ0JNOVNMMUZXX3RvcEVLZ25VLVBpcjVuTklkRG5LT0hZMk95LXVoTFFPNHNMdURTa3J3d2pFOXJGSlBGVWRoejg2VldHZWtaLWw2NkNPQ0trSy00aG9SVjNUaWdhQWhEbUFCVm5hZ3hOQkVFU1ROUzA4RWlwbWU3M1A0bEsybnFIX192WG8zd0FReVNlV2RWcFk2alBrZ0E4QUZPX0t4VTBSaUFLeUs3M2tER2tSaHJpRTZwMlpQRDRMVFNw0gGSAkFVX3lxTE44TEx6NzBSQ2w0V2ZWY1NKV2Q2LVBBUUFPdVhGbVhhdmdKR3dKc2FLSnN5a2lPU1BsMG1XcHE5YzBBT0pzaHVRdlNTb0JNTUdnS1VORXFnbUpxWkpTVmltY25lYVY2Z0Nrek9aTEZWYlVrT3RXcVdoRTRpNUZaS0NrRXljcTVTcUxsY3MzNG85YlJGaVkyaXRKVDlLNHBYQUpHb0l4X3labHJZZFRpYmNkRk92WG1OLWNvT2xPQmQxV0cxNF9BQUpVd09uMFlpR3J5VVZZY2JndGFNNkZWZEZheUZRckU3Z04xZ0xnbWVPVTlnaFUwS09vdWF2THBESTdiLTBadm13VXJaMnhvXzVoT3c?oc=5
-
-- Lashkar-Linked Terror Module Busted, 8 Arrested For Plotting Attack In India - NDTV
-  A terror module linked to the Indian government has
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQWNPNFQ1TFFDWWh0ODlBejhEZXAzODZyamsySVpXa0tacFdINUZRLWwwcm53WWZtcWxOX2c5QzFMVDI0elBPclV0UWJaUk5iY18zazBuVWtRTXBablFrTW5xQURtNk5zNzhUYmNFeGk5YkJqc1lOdjFoS0N4UW1CRVY3dUVsWVdmUkpHOHZkb016T2V0dV9FdXdkS1d0ZGRVRW5qM2RmdXpQdS1BcEo1d280Y3lFdHpBbTE2ekVvdFZDXzZ5ZlJQd2NmeEwwVUdf0gHYAUFVX3lxTFB5dzRoRVE2Vy1XZ19YZHNYbGZHUXlQenZoUGlJMW4wYWVQVVp6MTF1T2d1ZzZQUWQxTkI1NFVPUlZKM05ldzJGY19HUkg2Z0xLMzlpQ1N3MmhMMm40X1ByRkt6Y3U0WHlSSHplckZNdFo2dUotSFJieU5CQjVFdWVheTFTOXZWRF82UnBlSDFvTHYxVDlpUWtKSXZLZHFZaE9tVnM3aXpfWTBKcEJLblp1UDlwcXZCQmhtcXVFSThmSXZ4WHZzckpndjFXQ2E4dFJmV0RnZ0EwbA?oc=5
-
-- Red Fort, temples on radar? Eight suspects with Bangladesh, Pak ISI links held for plotting terror attack - The Times of India
-  The Times of India reported that eight suspects with Bangladesh, Pak ISI links held for plotting terror
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZWRIWmFFQi1jdVIza2NBOWNLb1UyZngzb1dLZ0ZhalN6QjdNSmlBSlp4bWtkdXRhbklOT3J5WUpFTEpPSkVOcWl1YXBfSTczU1Q2SHV4NVluclllZHdJZWZVVTJyU3VEcnNQR2NzVWt1MTVqUDBVcHFXWjhGN1J3ZlN6Vy1mU0RsbXg0bXNhU0NtU05hMmgwQlptU2VfU1FoaGRpTVpYeklRUVFhUlJrR3k4c0NwVUQ0aWVqdzFGOEotbl9FTWlMUE1yY2VSSjhrMkExUFFod3Mzb1dhdjVsb3F5X2N3cGZ6UWtxaFhMZTJxT1Q4blpF0gH8AUFVX3lxTE4zWmF1X3RLa1oxV0o2NUoxdGdITkUtcy1Ed3V3ZzczN3YzZFFTMFhUZms2T3RvU01UeUNqZEdFeVZUbzR4Y1JsQkRZUFQ0Z0h0NURYNUtWeFJzS3VDWk5YUFFZNmpndURvc3o1R1YyZjQ2SXdzY01mMnlkZl84c29pcllWWEV4TE5memQyMjhSX3VTdlMzbXNyNDNnMnZLenlMR0ZYUFdOQkJYUERJMmF3XzF5VmhVQ0xmMFlDR1EzaFFLRDNGVV91bXdRSTc3cFYzVDQ5TFBMbW9xS1dETXZVQjZ5elhkbV9nZGNRSnZMcmItdEdGdXFaYmJMdA?oc=5
+- India strongly condemn Pakistan’s airstrikes on Afghan territory - News On AIR
+  India strongly condemn Pakistan’s airstrikes
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUdYSDRWN3M4LXNhRElMMjRvbHhGZ2xtN2VncEg0LXJDS0hEM2QtdWFkTEpUa1hNWlpLUFg0ZVRpamhRa0Jzcm42aTlDYjRpQVFMSE9meHlicFp2SUYzb2RnS24yTW44cUJEc2dVOURRWjU0YWlUR3JVbzVkX1JrN09jdU1vNVV6dW9VNUNWNlZJejJNU3BwYg?oc=5
 
 - Zudio, Trends: Budget fast fashion is taking small-town India by storm - BBC
   Zudio, Trends: Budget fast fashion
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWa0pZSktyYWRVNWhicDhxSWg4UHpGLXBBeXF4ekVZWXo4cldjVWR0VE9NM0p4UEFwR0RoZGZMT2J2SzFwMlFaYjA3NlZ6V1ZMdEotMm12Tmt2Zw?oc=5
 
-- Friendship withTel Aviv built on trust, says Modi - The Times of India
-  Friendship withTel Aviv built on trust,
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOOWZDSWJnazZBNmlNT0lKYzNZT0dZdXNMQjRFS3JCOGhlWkk3c3Jrd3V2bGZxVmQ1eGNXbFMtOGQycWxXVUktREE3WG9ueC1rV1hWOEdLNnhMWFZnN2otUEpxSnlRS0VobnVPX0EtdElIQnpDZ3MwWkcwZl9KRDZ2WklPb3NLZ3ZnMl9VNld3dVFQMENfVXlqN0JiQnZ6VlVZb1dwTnZaa0Vha1NRYm1IQ3BST28xbGc?oc=5
+- Modi’s Israel visit: Timeline of India’s relations with Israel, Palestine - Al Jazeera
+  Modi’s Israel visit: Timeline
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWxLaWxkd0ZWODl4Z3pBbVYzeDQ3eUNIZFpkSGtXX3UwdW5hQk9IaGYzbnljQjdfLS1CN0VuRmVzdFduWk9LOHZmZVBfOFp5UWtOLWVUekdPc05BMFNvRGFpdm1nWTRDdDFCdzVCSm1wZmdzNC1BTlAtVkVyRWQ3anlKbXUzcVJmZThfZERWZ0p0ZGZOUXNhUkFZWXlMR1RzbTFmTktLSEJTek9DZzhj0gG0AUFVX3lxTFBnRGp5S21NSW54S3poeGxEWkNmSFJSQVhMVkcxNGtWWV8wWFlQbmpUWGNYaFZxR3BJY1VSRWJkTzg3Vkc5RmpPS2wtdjgyTVZRcFA5cDg3ajNmZnpGNzZVOXBzVkVWZi1YZ1VIa0JzbUFkY1N5ZzNEZ2pMT0huYUloeXEzend5ek5BaUl4akVXX0RHMU4wdnJDMy1WcEZ0SGZNUlNTOGpZQ0NIbk9RcFB3QjdpQQ?oc=5
 
-- 8 held for plotting terror attack in India, had put up ‘Free Kashmir’ posters | India News - Hindustan Times
-  8 held for plotting terror attack in India, had put up ‘Free Kashmir
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQM2d6MEc3NXlKRXp6QTZvMF91Q19faWZQdFBlOWpQZWZlRU9mMmtwSXh1MUFoVnZyOGZDY3VPZjUtd0FRdFpmbDdXU1hUMExDZ0JNOVNMMUZXX3RvcEVLZ25VLVBpcjVuTklkRG5LT0hZMk95LXVoTFFPNHNMdURTa3J3d2pFOXJGSlBGVWRoejg2VldHZWtaLWw2NkNPQ0trSy00aG9SVjNUaWdhQWhEbUFCVm5hZ3hOQkVFU1ROUzA4RWlwbWU3M1A0bEsybnFIX192WG8zd0FReVNlV2RWcFk2alBrZ0E4QUZPX0t4VTBSaUFLeUs3M2tER2tSaHJpRTZwMlpQRDRMVFNw0gGSAkFVX3lxTE44TEx6NzBSQ2w0V2ZWY1NKV2Q2LVBBUUFPdVhGbVhhdmdKR3dKc2FLSnN5a2lPU1BsMG1XcHE5YzBBT0pzaHVRdlNTb0JNTUdnS1VORXFnbUpxWkpTVmltY25lYVY2Z0Nrek9aTEZWYlVrT3RXcVdoRTRpNUZaS0NrRXljcTVTcUxsY3MzNG85YlJGaVkyaXRKVDlLNHBYQUpHb0l4X3labHJZZFRpYmNkRk92WG1OLWNvT2xPQmQxV0cxNF9BQUpVd09uMFlpR3J5VVZZY2JndGFNNkZWZEZheUZRckU3Z04xZ0xnbWVPVTlnaFUwS09vdWF2THBESTdiLTBadm13VXJaMnhvXzVoT3c?oc=5
+- India qualification scenario: How can Team India reach T20 World Cup 2026 semi-final? - The Times of India
+  The Times of India: How can Team India reach T20 World Cup
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNZldnY1lMNzJjekdkWVFvUWd2cTVYLWh2N2lILXBGVTFIaW1hNnVnZE1ZZmFhcmsxbFcxOWlxbEhkMGxuc04yTm9pMlB2Z25iLWJUdFgxWGp3ckhuYTR5MktMSXBJLV8xQzRWM3hSeGJsODEteGxWVmZaSmYzQkptWkdVQVJoMUE1S19memhTcjJDLWY1cDZPZ0pvS3kzc2VLbHNrSUR1Y0N5YU0zX0NBb0Vwa2lDazludDhpbVpiUDZvWnpWWDMtQlJiNFdrbXBIaEl2c1M1bnk3UFBmU3pHSUdVbTRkMi0wMWFpYThTNWZtNDlXWUlBa2JneXZNQ1dtV3g5Z3MyOWRqaTJhRG5yWNIBlgJBVV95cUxPTFE4amI4ZDZSZEt2VFJRN2gwYnlsWVVORkRPUjhlbHh4R2NvUTVRSk52czFkTDNMMzNNaFZqcFk3ZE5QTlZiaktqYmZUNEhOY3RBZHRQaHVzX0FDNnNKYmg1dl9yVzVXZkRVcUZLeUNOZkE1ZDEzaTFvZ3BLTlRPSFF1ODE3Ty1ySms0M1JUd2ktZEtYWlg4eWtkSWZyRjVSeWdpTFVQX0RyVzZPVFktZk9PLVB5WC13SkZETFdwY3JRWE1femdrWmFXVm9kSWVDLVNETGZqYmEtdzJISWpLZVhiQ2FVTTl2R2xHdXVNaUV6OG9OejQzcmFFdVpScmVRY1lRVzJKeTBiVVRhTkNSbGxiSjltZw?oc=5
 
-- Lashkar-Linked Terror Module Busted, 8 Arrested For Plotting Attack In India - NDTV
-  A terror module linked to the Indian government has
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQWNPNFQ1TFFDWWh0ODlBejhEZXAzODZyamsySVpXa0tacFdINUZRLWwwcm53WWZtcWxOX2c5QzFMVDI0elBPclV0UWJaUk5iY18zazBuVWtRTXBablFrTW5xQURtNk5zNzhUYmNFeGk5YkJqc1lOdjFoS0N4UW1CRVY3dUVsWVdmUkpHOHZkb016T2V0dV9FdXdkS1d0ZGRVRW5qM2RmdXpQdS1BcEo1d280Y3lFdHpBbTE2ekVvdFZDXzZ5ZlJQd2NmeEwwVUdf0gHYAUFVX3lxTFB5dzRoRVE2Vy1XZ19YZHNYbGZHUXlQenZoUGlJMW4wYWVQVVp6MTF1T2d1ZzZQUWQxTkI1NFVPUlZKM05ldzJGY19HUkg2Z0xLMzlpQ1N3MmhMMm40X1ByRkt6Y3U0WHlSSHplckZNdFo2dUotSFJieU5CQjVFdWVheTFTOXZWRF82UnBlSDFvTHYxVDlpUWtKSXZLZHFZaE9tVnM3aXpfWTBKcEJLblp1UDlwcXZCQmhtcXVFSThmSXZ4WHZzckpndjFXQ2E4dFJmV0RnZ0EwbA?oc=5
+- "Why Are You Protecting The Congress?" PM Modi Asks Media - NDTV
+  "Why Are You Protecting The Congress
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXdDOC1hdFdmeE90bi02aFlURjk5NGRxZ0FUekRaR3JwdVpubC00elVHYWM5WXB0TE1JdXoyVXpjSlVqemV0MUNJLWhRYllKZlJNSmdVTkxPckRfakc4cGFGeXBmU2hUbTgyWlhlOFZaWTZQYklmNFVJcWNpS2h4YnBZZGltTG1BaHE5Z0FiWF9wcUlPc3luWVA1c9IBowFBVV95cUxQVEJudmpFZERTZmdZMmlEWThQeG5Bb2hWdVhoQy0tLVNPU1JYVWx1SHlheGZHS3NteUIzU3otQzE3UTVzMlZXVEM5R0pUY2hVdHE2WEYtS0U4QjF0Q0x5bkttT0hnTkVJUmNjVUFhS3BaamdxQ2NTNlF6RGZiYXlBcmlfS29yMUZMdWNBZnZpZjRRaTM1Rlltbm5ZZ28ycGk4dDJR?oc=5
 
-- Red Fort, temples on radar? Eight suspects with Bangladesh, Pak ISI links held for plotting terror attack - The Times of India
-  The Times of India reported that eight suspects with Bangladesh, Pak ISI links held for plotting terror
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZWRIWmFFQi1jdVIza2NBOWNLb1UyZngzb1dLZ0ZhalN6QjdNSmlBSlp4bWtkdXRhbklOT3J5WUpFTEpPSkVOcWl1YXBfSTczU1Q2SHV4NVluclllZHdJZWZVVTJyU3VEcnNQR2NzVWt1MTVqUDBVcHFXWjhGN1J3ZlN6Vy1mU0RsbXg0bXNhU0NtU05hMmgwQlptU2VfU1FoaGRpTVpYeklRUVFhUlJrR3k4c0NwVUQ0aWVqdzFGOEotbl9FTWlMUE1yY2VSSjhrMkExUFFod3Mzb1dhdjVsb3F5X2N3cGZ6UWtxaFhMZTJxT1Q4blpF0gH8AUFVX3lxTE4zWmF1X3RLa1oxV0o2NUoxdGdITkUtcy1Ed3V3ZzczN3YzZFFTMFhUZms2T3RvU01UeUNqZEdFeVZUbzR4Y1JsQkRZUFQ0Z0h0NURYNUtWeFJzS3VDWk5YUFFZNmpndURvc3o1R1YyZjQ2SXdzY01mMnlkZl84c29pcllWWEV4TE5memQyMjhSX3VTdlMzbXNyNDNnMnZLenlMR0ZYUFdOQkJYUERJMmF3XzF5VmhVQ0xmMFlDR1EzaFFLRDNGVV91bXdRSTc3cFYzVDQ5TFBMbW9xS1dETXZVQjZ5elhkbV9nZGNRSnZMcmItdEdGdXFaYmJMdA?oc=5
+- India strongly condemn Pakistan’s airstrikes on Afghan territory - News On AIR
+  India strongly condemn Pakistan’s airstrikes
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUdYSDRWN3M4LXNhRElMMjRvbHhGZ2xtN2VncEg0LXJDS0hEM2QtdWFkTEpUa1hNWlpLUFg0ZVRpamhRa0Jzcm42aTlDYjRpQVFMSE9meHlicFp2SUYzb2RnS24yTW44cUJEc2dVOURRWjU0YWlUR3JVbzVkX1JrN09jdU1vNVV6dW9VNUNWNlZJejJNU3BwYg?oc=5
 
 - Zudio, Trends: Budget fast fashion is taking small-town India by storm - BBC
   Zudio, Trends: Budget fast fashion
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWa0pZSktyYWRVNWhicDhxSWg4UHpGLXBBeXF4ekVZWXo4cldjVWR0VE9NM0p4UEFwR0RoZGZMT2J2SzFwMlFaYjA3NlZ6V1ZMdEotMm12Tmt2Zw?oc=5
 
-- Friendship withTel Aviv built on trust, says Modi - The Times of India
-  Friendship withTel Aviv built on trust,
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOOWZDSWJnazZBNmlNT0lKYzNZT0dZdXNMQjRFS3JCOGhlWkk3c3Jrd3V2bGZxVmQ1eGNXbFMtOGQycWxXVUktREE3WG9ueC1rV1hWOEdLNnhMWFZnN2otUEpxSnlRS0VobnVPX0EtdElIQnpDZ3MwWkcwZl9KRDZ2WklPb3NLZ3ZnMl9VNld3dVFQMENfVXlqN0JiQnZ6VlVZb1dwTnZaa0Vha1NRYm1IQ3BST28xbGc?oc=5
+- Modi’s Israel visit: Timeline of India’s relations with Israel, Palestine - Al Jazeera
+  Modi’s Israel visit: Timeline
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWxLaWxkd0ZWODl4Z3pBbVYzeDQ3eUNIZFpkSGtXX3UwdW5hQk9IaGYzbnljQjdfLS1CN0VuRmVzdFduWk9LOHZmZVBfOFp5UWtOLWVUekdPc05BMFNvRGFpdm1nWTRDdDFCdzVCSm1wZmdzNC1BTlAtVkVyRWQ3anlKbXUzcVJmZThfZERWZ0p0ZGZOUXNhUkFZWXlMR1RzbTFmTktLSEJTek9DZzhj0gG0AUFVX3lxTFBnRGp5S21NSW54S3poeGxEWkNmSFJSQVhMVkcxNGtWWV8wWFlQbmpUWGNYaFZxR3BJY1VSRWJkTzg3Vkc5RmpPS2wtdjgyTVZRcFA5cDg3ajNmZnpGNzZVOXBzVkVWZi1YZ1VIa0JzbUFkY1N5ZzNEZ2pMT0huYUloeXEzend5ek5BaUl4akVXX0RHMU4wdnJDMy1WcEZ0SGZNUlNTOGpZQ0NIbk9RcFB3QjdpQQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- India qualification scenario: How can Team India reach T20 World Cup 2026 semi-final? - The Times of India
+  The Times of India: How can Team India reach T20 World Cup
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNZldnY1lMNzJjekdkWVFvUWd2cTVYLWh2N2lILXBGVTFIaW1hNnVnZE1ZZmFhcmsxbFcxOWlxbEhkMGxuc04yTm9pMlB2Z25iLWJUdFgxWGp3ckhuYTR5MktMSXBJLV8xQzRWM3hSeGJsODEteGxWVmZaSmYzQkptWkdVQVJoMUE1S19memhTcjJDLWY1cDZPZ0pvS3kzc2VLbHNrSUR1Y0N5YU0zX0NBb0Vwa2lDazludDhpbVpiUDZvWnpWWDMtQlJiNFdrbXBIaEl2c1M1bnk3UFBmU3pHSUdVbTRkMi0wMWFpYThTNWZtNDlXWUlBa2JneXZNQ1dtV3g5Z3MyOWRqaTJhRG5yWNIBlgJBVV95cUxPTFE4amI4ZDZSZEt2VFJRN2gwYnlsWVVORkRPUjhlbHh4R2NvUTVRSk52czFkTDNMMzNNaFZqcFk3ZE5QTlZiaktqYmZUNEhOY3RBZHRQaHVzX0FDNnNKYmg1dl9yVzVXZkRVcUZLeUNOZkE1ZDEzaTFvZ3BLTlRPSFF1ODE3Ty1ySms0M1JUd2ktZEtYWlg4eWtkSWZyRjVSeWdpTFVQX0RyVzZPVFktZk9PLVB5WC13SkZETFdwY3JRWE1femdrWmFXVm9kSWVDLVNETGZqYmEtdzJISWpLZVhiQ2FVTTl2R2xHdXVNaUV6OG9OejQzcmFFdVpScmVRY1lRVzJKeTBiVVRhTkNSbGxiSjltZw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- "Why Are You Protecting The Congress?" PM Modi Asks Media - NDTV
+  "Why Are You Protecting The Congress
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXdDOC1hdFdmeE90bi02aFlURjk5NGRxZ0FUekRaR3JwdVpubC00elVHYWM5WXB0TE1JdXoyVXpjSlVqemV0MUNJLWhRYllKZlJNSmdVTkxPckRfakc4cGFGeXBmU2hUbTgyWlhlOFZaWTZQYklmNFVJcWNpS2h4YnBZZGltTG1BaHE5Z0FiWF9wcUlPc3luWVA1c9IBowFBVV95cUxQVEJudmpFZERTZmdZMmlEWThQeG5Bb2hWdVhoQy0tLVNPU1JYVWx1SHlheGZHS3NteUIzU3otQzE3UTVzMlZXVEM5R0pUY2hVdHE2WEYtS0U4QjF0Q0x5bkttT0hnTkVJUmNjVUFhS3BaamdxQ2NTNlF6RGZiYXlBcmlfS29yMUZMdWNBZnZpZjRRaTM1Rlltbm5ZZ28ycGk4dDJR?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- India strongly condemn Pakistan’s airstrikes on Afghan territory - News On AIR
+  India strongly condemn Pakistan’s airstrikes
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUdYSDRWN3M4LXNhRElMMjRvbHhGZ2xtN2VncEg0LXJDS0hEM2QtdWFkTEpUa1hNWlpLUFg0ZVRpamhRa0Jzcm42aTlDYjRpQVFMSE9meHlicFp2SUYzb2RnS24yTW44cUJEc2dVOURRWjU0YWlUR3JVbzVkX1JrN09jdU1vNVV6dW9VNUNWNlZJejJNU3BwYg?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Zudio, Trends: Budget fast fashion is taking small-town India by storm - BBC
+  Zudio, Trends: Budget fast fashion
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWa0pZSktyYWRVNWhicDhxSWg4UHpGLXBBeXF4ekVZWXo4cldjVWR0VE9NM0p4UEFwR0RoZGZMT2J2SzFwMlFaYjA3NlZ6V1ZMdEotMm12Tmt2Zw?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Modi’s Israel visit: Timeline of India’s relations with Israel, Palestine - Al Jazeera
+  Modi’s Israel visit: Timeline
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWxLaWxkd0ZWODl4Z3pBbVYzeDQ3eUNIZFpkSGtXX3UwdW5hQk9IaGYzbnljQjdfLS1CN0VuRmVzdFduWk9LOHZmZVBfOFp5UWtOLWVUekdPc05BMFNvRGFpdm1nWTRDdDFCdzVCSm1wZmdzNC1BTlAtVkVyRWQ3anlKbXUzcVJmZThfZERWZ0p0ZGZOUXNhUkFZWXlMR1RzbTFmTktLSEJTek9DZzhj0gG0AUFVX3lxTFBnRGp5S21NSW54S3poeGxEWkNmSFJSQVhMVkcxNGtWWV8wWFlQbmpUWGNYaFZxR3BJY1VSRWJkTzg3Vkc5RmpPS2wtdjgyTVZRcFA5cDg3ajNmZnpGNzZVOXBzVkVWZi1YZ1VIa0JzbUFkY1N5ZzNEZ2pMT0huYUloeXEzend5ek5BaUl4akVXX0RHMU4wdnJDMy1WcEZ0SGZNUlNTOGpZQ0NIbk9RcFB3QjdpQQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- India qualification scenario: How can Team India reach T20 World Cup 2026 semi-final? - The Times of India
+  The Times of India: How can Team India reach T20 World Cup
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNZldnY1lMNzJjekdkWVFvUWd2cTVYLWh2N2lILXBGVTFIaW1hNnVnZE1ZZmFhcmsxbFcxOWlxbEhkMGxuc04yTm9pMlB2Z25iLWJUdFgxWGp3ckhuYTR5MktMSXBJLV8xQzRWM3hSeGJsODEteGxWVmZaSmYzQkptWkdVQVJoMUE1S19memhTcjJDLWY1cDZPZ0pvS3kzc2VLbHNrSUR1Y0N5YU0zX0NBb0Vwa2lDazludDhpbVpiUDZvWnpWWDMtQlJiNFdrbXBIaEl2c1M1bnk3UFBmU3pHSUdVbTRkMi0wMWFpYThTNWZtNDlXWUlBa2JneXZNQ1dtV3g5Z3MyOWRqaTJhRG5yWNIBlgJBVV95cUxPTFE4amI4ZDZSZEt2VFJRN2gwYnlsWVVORkRPUjhlbHh4R2NvUTVRSk52czFkTDNMMzNNaFZqcFk3ZE5QTlZiaktqYmZUNEhOY3RBZHRQaHVzX0FDNnNKYmg1dl9yVzVXZkRVcUZLeUNOZkE1ZDEzaTFvZ3BLTlRPSFF1ODE3Ty1ySms0M1JUd2ktZEtYWlg4eWtkSWZyRjVSeWdpTFVQX0RyVzZPVFktZk9PLVB5WC13SkZETFdwY3JRWE1femdrWmFXVm9kSWVDLVNETGZqYmEtdzJISWpLZVhiQ2FVTTl2R2xHdXVNaUV6OG9OejQzcmFFdVpScmVRY1lRVzJKeTBiVVRhTkNSbGxiSjltZw?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- "Why Are You Protecting The Congress?" PM Modi Asks Media - NDTV
+  "Why Are You Protecting The Congress
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXdDOC1hdFdmeE90bi02aFlURjk5NGRxZ0FUekRaR3JwdVpubC00elVHYWM5WXB0TE1JdXoyVXpjSlVqemV0MUNJLWhRYllKZlJNSmdVTkxPckRfakc4cGFGeXBmU2hUbTgyWlhlOFZaWTZQYklmNFVJcWNpS2h4YnBZZGltTG1BaHE5Z0FiWF9wcUlPc3luWVA1c9IBowFBVV95cUxQVEJudmpFZERTZmdZMmlEWThQeG5Bb2hWdVhoQy0tLVNPU1JYVWx1SHlheGZHS3NteUIzU3otQzE3UTVzMlZXVEM5R0pUY2hVdHE2WEYtS0U4QjF0Q0x5bkttT0hnTkVJUmNjVUFhS3BaamdxQ2NTNlF6RGZiYXlBcmlfS29yMUZMdWNBZnZpZjRRaTM1Rlltbm5ZZ28ycGk4dDJR?oc=5
+
+- India strongly condemn Pakistan’s airstrikes on Afghan territory - News On AIR
+  India strongly condemn Pakistan’s airstrikes
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUdYSDRWN3M4LXNhRElMMjRvbHhGZ2xtN2VncEg0LXJDS0hEM2QtdWFkTEpUa1hNWlpLUFg0ZVRpamhRa0Jzcm42aTlDYjRpQVFMSE9meHlicFp2SUYzb2RnS24yTW44cUJEc2dVOURRWjU0YWlUR3JVbzVkX1JrN09jdU1vNVV6dW9VNUNWNlZJejJNU3BwYg?oc=5
 
 
-_Last updated: 2026-02-23 01:50:36 UTC_
+_Last updated: 2026-02-23 07:02:57 UTC_
