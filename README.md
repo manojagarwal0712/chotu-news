@@ -1,224 +1,192 @@
 # 📰 Daily News Summaries
 
-- Denied Rs 100 to buy liquor, man kills his mother in Bihar’s Gopalganj
+- Lanterns, legends and lost souls: Unearthing Fort Kochi’s haunted histories
   
-  🔗 https://indianexpress.com/article/india/denied-rs-100-to-buy-liquor-man-kills-his-mother-in-bihars-gopalganj-10547040/
+  🔗 https://indianexpress.com/article/india/oneal-sabu-phantasma-walks-fort-kochi-haunted-tours-10547530/
 
-- Amit Shah’s ‘Devnagari’ push for Kokborok triggers fresh storm in Tripura
+- Meerut Metro inauguration: Uttar Pradesh’s operational metro rail network crosses 170 km – Check routes
   
-  🔗 https://indianexpress.com/article/india/amit-shahs-devnagari-push-for-kokborok-triggers-fresh-storm-in-tripura-10547029/
+  🔗 https://indianexpress.com/article/india/meerut-metro-inauguration-uttar-pradesh-metro-network-170-km-routes-10547315/
 
-- Besides Lutyen’s statue, what else has changed at Rashtrapati Bhavan lately
+- Two dead, several hospitalised in Andhra Pradesh’s Rajahmundry after suspected milk contamination
   
-  🔗 https://indianexpress.com/article/india/besides-lutyens-statue-what-else-has-changed-at-rashtrapati-bhavan-lately-10546924/
+  🔗 https://indianexpress.com/article/india/two-dead-several-hospitalised-in-andhra-pradeshs-rajahmundry-after-suspected-milk-contamination-10547281/
 
-- News Today Live Updates, 23 February | After Supreme Court ruling, US to stop collecting Trump’s emergency tariffs from tomorrow
+- After lynching Dalit man for ‘trying to meet woman’, villagers try to frame him for stealing tractor battery: Jharkhand Police
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-02-23-2026-news-headlines-10546724/
+  🔗 https://indianexpress.com/article/india/jharkhand-dalit-man-lynched-10547297/
 
-- From Basavaraju to Hidma, Sonu to Devuji: Who are the top Maoist leaders killed or surrendered since last year?
+- Vande Bharat Sleeper train production: Titagarh Rail Systems eyes car body completion of 1st rake by March 31 – check rollout plan
   
-  🔗 https://indianexpress.com/article/india/from-basavaraju-to-hidma-sonu-to-devuji-who-are-the-top-maoist-leaders-killed-or-surrendered-since-last-year-10546550/
+  🔗 https://indianexpress.com/article/india/vande-bharat-sleeper-train-production-titagarh-rollout-2026-10547190/
+
+- Amazon’s Panos Panay on ‘unlearning’ Alexa speak: Why your next Echo won’t just wait for commands
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/panos-panay-amazon-alexa-ai-future-devices-interview-10547715/
+
+- Apple to bet on AI wearable devices built around visual intelligence: Report
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/apple-ai-wearables-visual-intelligence-report-10547505/
+
+- Why Apple was missing from the world’s largest AI summit in India
+  
+  🔗 https://indianexpress.com/article/technology/opinion-technology/why-apple-missing-ai-summit-in-india-10547359/
+
+- Google bans Antigravity users over OpenClaw activity, cites surge in ‘malicious usage’
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-bans-antigravity-users-openclaw-10547187/
 
 - Decoding the AI beliefs of Anthropic and its CEO, Dario Amodei
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/decoding-the-ai-beliefs-of-anthropic-and-its-ceo-dario-amodei-10546985/
 
-- Social media can be addictive even for adults, but there are ways to cut back
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/social-media-can-be-addictive-even-for-adults-but-there-are-ways-to-cut-back-10546972/
+- WhatsApp tells Supreme Court it will comply with CCI directions on user consent by 16 March
+  NCLAT in its December 2025 ruling, in which it directed Meta to implement the regulator’s safeguards within three months. Senior advocate Kapil Sibal, appearing for WhatsApp
+  🔗 https://www.livemint.com/companies/news/whatsapp-data-sharing-whatsapp-data-privacy-11771843476034.html
 
-- Amazon’s cloud unit hit by outage involving AI tools in December
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazons-cloud-unit-hit-by-outage-involving-ai-tools-in-december-10546961/
+- HAL addresses LCA Tejas ‘accident’, works with Air Force for resolution – Here's what the PSU said
+  There was no crash of the LCA Tejas, only a minor technical incident. Maharatna PSU assures that the aircraft maintains a strong safety record.
+  🔗 https://www.livemint.com/companies/news/hal-addresses-lca-tejas-accident-works-with-air-force-for-resolution-heres-what-the-psu-said-11771838191405.html
 
-- ‘Humans use lot of energy too’: OpenAI’s Sam Altman on resources consumed by AI, data centres
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-energy-water-usage-sam-altman-openai-express-adda-10546154/
+- Hillhouse Investment acquires minority stake in Singapore-based Quest Global
+  The deal aims to enhance Quest's growth strategy and engineering capabilities
+  🔗 https://www.livemint.com/companies/hillhouse-investment-minority-stake-singapore-quest-global-engineering-services-ajit-prabhu-jefferies-11771836529540.html
 
-- Anthropic unveils new AI feature to scan codebases, suggest patches within Claude Code
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-unveils-claude-code-security-vulnerabilities-ai-10545661/
+- Vertis InvIT plans to double AUM to  ₹52,000 crore in two years; eyes  ₹5,000–6,000 crore acquisitions annually
+  PNC Infratech completes takeover of nine PNC
+  🔗 https://www.livemint.com/companies/vertis-infrastructure-trust-kkr-ontario-teachers-highway-acquisitions-11771330521662.html
 
-- Mint Explainer | What is peer-to-peer power trading? How will it help Indian power consumers?
-  India is set to revolutionize energy consumption by allowing households and businesses to sell surplus renewable energy to each other. This innovative system, powered by the India Energy Stack and blockchain
-  🔗 https://www.livemint.com/companies/peertopeer-trading-consumers-surplus-power-digital-public-infrastructure-solar-energy-11771822731366.html
+- Mint Explainer: What’s driving VCs to launch deeptech accelerators?
+  The India Deeptech Alliance has partnered with the University of Chicago. Accel and Lightspeed Venture Partners have launched deeptech programmes in India in the last
+  🔗 https://www.livemint.com/companies/whats-driving-vcs-to-launch-deeptech-accelerators-startups-funding-skyroot-accel-11771826885899.html
 
-- Anthropic engineer who created Claude Code says AI will take over most internet-based jobs — ‘It will be painful’
-  Anthropic is selling AI systems that can take action across workplace computer tools. They could soon take over multiple roles.
-  🔗 https://www.livemint.com/companies/people/anthropic-engineer-who-created-claude-code-says-ai-will-take-over-most-internet-based-jobs-it-will-be-painful-11771822295988.html
+- Clean Max Enviro Energy Solutions IPO Day 1: Issue booked 34% amid strong QIB buying; check GMP and other details
+  Clean Max Enviro Energy Solutions IPO was booked 34% on the first day of bidding. The  ₹3,100-crore IPO will remain open till February 25
+  🔗 https://www.livemint.com/market/ipo/clean-max-enviro-energy-solutions-ipo-day-1-issue-booked-34-amid-strong-qib-buying-check-gmp-and-other-details-11771848746103.html
 
-- How the Ola empire is fueling Bhavish’s personal AI business, Krutrim
-  Bhavish Aggarwal's AI venture, Krutrim, heavily relies on revenue from Ola companies. Experts urge transparency and flag director responsibilities to minority shareholders.
-  🔗 https://www.livemint.com/companies/india-ola-empire-fueling-bhavish-aggarwal-ai-business-krutrim-governance-concerns-11771744693911.html
+- Omnitech Engineering IPO: 10 key things to know from the RHP ahead of offer launch on Wednesday
+  Omnitech Engineering is preparing for its IPO launch. Investors are keen to understand the company's financial health and market position.
+  🔗 https://www.livemint.com/market/ipo/omnitech-engineering-ipo-10-key-things-to-know-from-the-rhp-ahead-of-offer-launch-on-wednesday-11771845094708.html
 
-- HSBC, StanChart Earnings to Show Effects of Strategy Shifts
-  Standard Chartered Plc’s finance chief and the implications of HSBC Holdings’ purchase of a bank stake will lo
-  🔗 https://www.livemint.com/companies/hsbc-stanchart-earnings-to-show-effects-of-strategy-shifts-11771815217229.html
+- Shree Ram Twistex IPO: Issue receives tepid response on Day 01, subscribed 0.11 times; GMP indicates muted listing
+  Shree Ram Twistex IPO has seen a poor response, with a subscription of 0.11 times. The offering, which closes on February 25, aims to raise  ₹110.24 crore for corporate purposes.
+  🔗 https://www.livemint.com/market/ipo/shree-ram-twistex-ipo-issue-receives-tepid-response-on-day-01-subscribed-0-11-times-gmp-indicates-muted-listing-11771846731017.html
 
-- AU Small Finance Bank de-empanelment: What we know about  ₹47 crore funds transfer, timeline, internal review details
-  AU Small Finance Bank has initiated an internal review after being de-empanelled by the Haryana government. Here's what the
-  🔗 https://www.livemint.com/companies/news/au-small-finance-bank-clarify-de-empanelment-haryana-govt-account-transactions-internal-review-assess-reasons-idfc-first-11771811075341.html
+- Yashhtej Industries IPO allotment finalised: Latest GMP, steps to check allotment status online for the SME IPO
+  Investors can check Yashhtej Industries IPO allotment status online on BSE and the IPO registrar - MAS
+  🔗 https://www.livemint.com/market/ipo/yashhtej-industries-ipo-allotment-finalised-latest-ipo-gmp-steps-to-check-allotment-status-online-for-the-sme-ipo-11771840581116.html
 
-- Vinay Rajani of HDFC Sec suggests these 2 stocks to buy in the near-term
-  Nifty 50 gained 107.15 points and BSE Sensex rose by 92.12 points. Experts caution that volatility may persist amidst ongoing tariff and geopolitical
-  🔗 https://www.livemint.com/market/stock-market-news/vinay-rajani-of-hdfc-sec-suggests-these-2-stocks-to-buy-in-the-nearterm-11771824153988.html
+- Gold rate today jumps 2%! SIP vs lumpsum: How to make the most of the rise in yellow metal prices? Explained
+  MCX gold prices reclaimed  ₹160,000 per 10-gram mark after consolidating for nearly three weeks. The latest trigger in the gold price rise is the US SC decision on Trump tariffs.
+  🔗 https://www.livemint.com/market/commodities/gold-rate-today-jumps-2-sip-vs-lumpsum-how-to-make-the-most-of-the-rise-in-mcx-gold-prices-explained-11771846277246.html
 
-- Accord Transformer and Switchgear IPO day 1: GMP, subscription status, price, other key details of SME IPO in 10 points
-  Am Accord Transformer IPO is a fresh issue of 55.62 lakh shares to raise  ₹25.59 crore. Retail investors can bid for 6,000 shares
-  🔗 https://www.livemint.com/market/ipo/accord-transformer-and-switchgear-ipo-day-1-gmp-subscription-status-price-other-key-details-of-sme-ipo-in-10-point-11771827426824.html
+- Samsung Galaxy Unpacked 2026: Launch date, live-stream details, and what to expect from the new Galaxy S26 lineup
+  Samsung Galaxy Unpacked 2026 will showcase the S26 series with the Snapdragon 8 Elite Gen 5 processor. The event will also likely introduce Galaxy
+  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-unpacked-2026-launch-date-live-stream-details-and-what-to-expect-from-the-new-galaxy-s26-lineup-11771843227336.html
 
-- Canara Bank share price extends gains to second day, rises 2%; turns positive for 2026
-  Canara Bank share price gained 2% on February 23, 2026, contributing to a 6.3% gain this month. Canara Bank shares have remained
-  🔗 https://www.livemint.com/market/stock-market-news/canara-bank-share-price-extends-gains-to-second-day-rises-2-turns-positive-for-2026-11771827233001.html
+- Low-cost MacBook, iPhone 17e? Apple could launch 'at least' five products during 4 March event
+  The event will feature hands-on experiences in New York, London, and Shanghai. The company could unveil the products during a three day spree starting from 2 March.
+  🔗 https://www.livemint.com/technology/tech-news/lowcost-macbook-iphone-17e-apple-could-launch-at-least-five-products-during-4-march-event-11771837509096.html
 
-- Govt of India loses  ₹1100 crore, LIC  ₹340 crore as fraud-hit IDFC First Bank shares crash 20% in a day
-  IDFC First Bank share price crashed 20% following a reported  ₹590 crore fraud. Major shareholders, including the government and LIC, have seen significant losses. Analysts indicate
-  🔗 https://www.livemint.com/market/stock-market-news/idfc-first-bank-share-price-crash-wipes-out-rs-1100-crore-from-govt-of-india-rs-340-crore-from-lic-portfolios-11771827502608.html
+- Galaxy S26 Ultra leaks in full hands-on video: Live images, benchmark scores, and new Privacy Display revealed
+  Samsung's Galaxy S26 Ultra is set to launch soon. However, ahead of the launch, a user shared that he has purchased the phone in Dubai.
+  🔗 https://www.livemint.com/technology/gadgets/galaxy-s26-ultra-leaks-in-full-hands-on-video-live-images-benchmark-scores-and-new-privacy-display-11771832433218.html
 
-- IPO GMPs: Shree Ram Twistex IPO vs Gaudium IVF IPO vs Clean Max Enviro IPO — what grey market premium signals
-  Investor focus is on three IPOs this week: Gaudium IVF, Shree Ram Twistex, and Clean Max Enviro Energy Solutions. Each IPO presents unique risk
-  🔗 https://www.livemint.com/market/ipo/ipo-gmps-shree-ram-twistex-ipo-vs-gaudium-ivf-ipo-vs-clean-max-enviro-ipo-what-grey-market-premium-signal-11771825969095.html
+- Twin AI data leaks expose over a billion personal KYC records and private media files
+  Two major data leaks linked to AI apps have exposed sensitive information of millions globally. The first, from IDMerit, compromised 1 billion records, while the second, from the Video AI Art Generator
+  🔗 https://www.livemint.com/technology/tech-news/twin-ai-data-leaks-expose-over-a-billion-personal-kyc-records-and-private-media-files-11771825019131.html
 
 - Robotaxis are coming to London. The citys famed black cab drivers are skeptical
   Robotaxis are coming to London.
   🔗 https://www.livemint.com/technology/robotaxis-are-coming-to-london-the-citys-famed-black-cab-drivers-are-skeptical-11771822901637.html
 
-- Is advanced tech enough to boost HR services? Here's what study reveals amid push to digitise human resources
-  Tailored technology and strategic decisions informed by social context are essential for enhancing customer engagement and operational efficiency. A study reveals that in retail, technology alone doesn
-  🔗 https://www.livemint.com/technology/is-advanced-tech-enough-to-boost-hr-services-heres-what-study-reveals-amid-push-to-digitise-human-resources-11771751163750.html
+- Market quote of the day by George Soros | “It’s not whether you’re right or wrong that’s important, but how much money you make when you’re right and how much you lose when you’re wrong.”
+  George Soros’ philosophy emphasises that investing success isn’t about being right every time but about managing outcomes so gains outweigh losses. By focusing on asymmetric payoffs, disciplined risk management, and emotional
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-george-soros-its-not-whether-youre-right-or-wrong-thats-important-but-how-much-money-you-make-when-youre-right-and-how-much-you-lose-when-youre-wrong-/articleshow/128704156.cms
 
-- Indias AI ambition spans full tech stack; combines domestic impact, global outlook: Ericsson CTO
-  India's AI ambition spans full tech stack,
-  🔗 https://www.livemint.com/technology/indias-ai-ambition-spans-full-tech-stack-combines-domestic-impact-global-outlook-ericsson-cto-11771751146955.html
+- Indian bonds tick higher as US-Iran jitters ease, but hefty debt sales loom
+  Heavy debt supply due this week capped gains. Indian government bonds edged higher on Monday.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tick-higher-as-us-iran-jitters-ease-but-hefty-debt-sales-loom/articleshow/128713782.cms
 
-- AI agent invasion has people trying to pick winners
-   AI agent invasion has
-  🔗 https://www.livemint.com/technology/ai-agent-invasion-has-people-trying-to-pick-winners-11771728616577.html
+- IDFC First Bank shares record worst crash since March 2020, end 16% lower
+   IDFC First Bank ended 16% lower on Monday. The lender uncovered a Rs 590-crore fraud at its Chandigarh branch involving Haryana government-linked accounts.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/idfc-first-bank-shares-record-worst-crash-since-march-2020-end-16-lower/articleshow/128713582.cms
 
-- New Delhi Declaration on AI Impact adopted; US, UK, China among nations to endorse vision for collaborative AI
-  New Delhi Declaration on AI Impact adopted; US, UK, China
-  🔗 https://www.livemint.com/technology/new-delhi-declaration-on-ai-impact-adopted-us-uk-china-among-nations-to-endorse-vision-for-collaborative-ai-11771675183323.html
+- Gainers &amp; Losers: IDFC First Bank, Adani Ports among 6 stocks that were in focus on Monday
+  Indian markets rallied on Monday even as stocks like IDFC First Bank, AU SFB, UPL and HAL saw sharp moves
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-idfc-first-bank-adani-ports-among-6-stocks-that-were-in-focus-on-monday/slideshow/128712231.cms
 
-- Markets are churning furiously beneath a calm surface - The Economist
-  Markets are churning furiously beneath
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVZ2RHNPZTBRQlFhYThLMkR1S3IxTV9IZUo5U3l4a05uQ3ZuSU5EWlVXaE9LdnVSeFUyVWRmbzZpQmd0U1NtVDZtQVUtczU3YnY0el9RZGQ2YVhDS284Q0trZG5fT3N2UlFFYTNOSmxka2RGYjZJVklTb1NZQTgzc0w1RWZpcU9RbDlOZE1sQl90Tm12bzJfaXFJY3l2ODVRQmNLMUczOS02MVN6cmlYcmd3?oc=5
+- Nithin Kamath says these hidden charges in trading can wipe out low brokerage advantage
+  Nithin Kamath, co-founder of Zerodha, has urged investors to pay closer attention to Depository Participant (DP) charges.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-says-these-hidden-charges-in-trading-can-wipe-out-low-brokerage-advantage/articleshow/128711447.cms
 
-- What to Expect in Markets This Week: Earnings From Nvidia, Home Depot, Banks, and Berkshire; Trump Speech - Investopedia
-  What to Expect in Markets This Week: Earnings From Nvidia, Home Depot
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbWk3bTB0OUNsamVHZkk4MXBOOWlHNkF3elk0TGRmS2xqaldWNDl5X1l2WnBKTGV6Q0lDeHMwTWs0cGVpVXY1OFNnaUFrOVB1clQ3QlAzaGo2cFc4XzhUWVdGa19uTXZmaXd0amNTOUhpQ1p3c3VMTEhZZWhTRDVYbEFhNVJ4ZkdVYTdTS1p0Vks0V0Z4UE4wNTFkUEdxMnRMNXk5Z0tPeGNpQzJJdkRyWm5uUm9hTFYxWmVWMUZmdnJ2TVU0c05IUHh6bW1ZVVBwdTA2bUI1VmtpTFRfekpfOFRGN0Rwc2k0?oc=5
-
-- U.S. futures, bitcoin fall, Asian markets mixed after Supreme Court nixes Trump's tariffs - The Hindu
-  U.S. futures, bitcoin fall, Asian markets mixed
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYktuRlNrQ1l6Z0xQLUhyNW5rS1ZMVk9iRE9zSm93QUF0NDZNMW44VkJNUmVLZS1rVkdKaVZSMGdsT2JuTjkyYzd2S1lHZERkT1ctOVROcWJYSkJUcl81bHJCUDJpVjJLeEY5UWd3U1A0aTJMWG9Fd1ZxNTNKMnN4X3hndzBuX3FHY2Zua3ZlOVBWelRSeUdOTUtRQVdBRmZWajVsVWRQYXBNRVE2MmlCODFiYjB3Z1hlVjBaODZPbGVDMVpFR3cwOWVyQjFFWHRfci1wN1hrSWVDeC1EU1J30gHmAUFVX3lxTE1aTUljV09DbF8xQ3ZJbi05Y2dTMjc3VlJsWEpOdmh3VkhJUG10U2E4UVp0U3ZHOEoyTDc0U1RQUW0xNnZCWmVQdEhUZ1d2OEFESUhRNTNqZjBCYWV4TkJ0NE84Y2dlcEdFZGdmQ3NsMXNXSEJINEZySjBldjk3VDVwNktabDk1eHE3a2U5WV9sSFp2dFo3eTdlTWI5bEtDUGlZWGJPcUtuTnpVN3JzQ09GdTVIdGJTdHRpWWhaWHl2TGZCNXJ2VzlfNGt2SXFQV1ZBdm01V2VyNEVsUHZKUzhmSnA4SzZn?oc=5
-
-- European stocks to start the week lower as markets react to new Trump tariffs - CNBC
-  European stocks to start the week lower as markets react to new
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNcTdGc1NkeVBySXVqXy10VXpCMk1ha1gtY21oaF9rYUtpcDdOQW1qMlpVSXNnX2VQY1hxVkc4d3g1LTVxZzJCSHJnX20tM0JIbDc4dUxwbElkM3JwWlB6RDFMaHQ3U09iNnUxTHZYSWd1S0tienlYREN5OUxwSk8tdFZETUlUQzNoZnZrT0hPTFk0aU1vRzd6MzV0TjE3aHhR0gGmAUFVX3lxTE55RE1mREJJTUlnbjR0a0lGMVBmMzdZNHlfemUxT3N4eUhfNWthemtCVkFfcG03ZTE3X2x6bC05MkdEc2FyZk9ZaHZjdk9fazA3LWw1Ykg4UjBZSldLSmpkTFZfVDBEeVFoMjRGTk9zbkpiZjVHR2N5ZXBsT1ZXbkhxbnV6WjFKOFQycjVJY1BEMXk5RDEyMXR5MWJXcVZHSUhuaXRCeWc?oc=5
-
-- Dollar, US Futures Decline on Tariff Uncertainty: Markets Wrap - Bloomberg
-  Dollar, US Futures Decl
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnU3SHM1ZFEzYWdoQm5CYTl6bVQxT1V0LU9ZUVZ2UUNIRHdsekloQVRFYVNxUWREekV5TC1pX1JXUjJBNFVoN2NSdG9YUVhsM0FmaGtSZFdJOFN0Tm5PZjJORUFsdUNBQTRjTFJPNTJkdEtkMjlCQmJYVVFYM0lxMjg1dE1pTEx4bzFqbEJpUzJ4Z0lsSGZoQUhtaFhseXVBaVF0am96UFN5S0RndWZlczY0Ty0?oc=5
-
-- Global Markets | Australian shares dip on U.S. tariff jitters; miners buck the trend
-  Australian shares dipped as US tariff policy uncertainty resurfaced. Miners, however, saw gains due to safe-haven demand, with gold stocks also rising. Despite the pullback, strong corporate earnings are expected to limit further declines.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-dip-on-u-s-tariff-jitters-miners-buck-the-trend/articleshow/128702172.cms
-
-- Bitcoin slides 5%, slips below $65,000 after Trump’s 15% tariff move
-  Bitcoin and Ether experienced significant drops, trading below $65,000 and $2,000 respectively. The announcement of a 15% global tariff by President Trump led to a risk-off sentiment across markets. Analysts suggest Bitcoin may test
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-slides-5-slips-below-65000-after-trumps-15-tariff-move/articleshow/128701377.cms
-
-- Global Markets | Tariffs, trade realignment and the new global playbook: What lies ahead for global investors
-  India must adapt to redrawn supply chains and renegotiated trade relationships. Expect widespread trade realignment and diversified supply chains by 2026.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/global-markets-tariffs-trade-realignment-and-the-new-global-playbook-what-lies-ahead-for-global-investors/articleshow/128701084.cms
-
-- Bharat Dynamics shares fall 3% amid selling pressure in defence PSUs
-  Bharat Dynamics shares fell over 3% amid profit booking and broader weakness in defence PSU stocks. Several peers also declined, while select counters saw buying interest.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bharat-dynamics-shares-fall-3-amid-selling-pressure-in-defence-psus/articleshow/128701323.cms
-
-- Up to 65% derating possible! Jefferies downgrades Infosys, TCS, 4 other IT stocks
-  Jefferies downgrades major Indian IT stocks, including Infosys and TCS. Warns of up to 65% valuation downside in a worst-case AI disruption scenario.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/up-to-65-derating-possible-jefferies-downgrades-infosys-tcs-4-other-it-stocks/articleshow/128700934.cms
-
-- Zudio, Trends: Budget fast fashion is taking small-town India by storm - BBC
-  Zudio, Trends: Budget fast fashion
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWa0pZSktyYWRVNWhicDhxSWg4UHpGLXBBeXF4ekVZWXo4cldjVWR0VE9NM0p4UEFwR0RoZGZMT2J2SzFwMlFaYjA3NlZ6V1ZMdEotMm12Tmt2Zw?oc=5
+- India releases first anti-terror policy PRAHAAR - The Hindu
+  India releases first anti-
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQU5kemFnS0c1ZGo3a1Z1WUVUOTA1WmVQRUlMa0huMWFIVVdFUXh0MndFSjhMdmtEZWdzLUpYQUgxd0JiY0VCOEZjR21PMl9QQ1JDVHpobF9jb3RzYUJtbURoc25ncUdyR0dwRVp2eFk2cnhGa1BqS3lJbDZjck9UM0s3UUh1WHJCeTdHbjRremNmSnB4SVJ2TmFkMlE4Sm42RklIdk44czB3d9IBsAFBVV95cUxPb3FxOUJrLVdZMzNTT2xYX2JmWEVITkNidEtGZ0ZmRDNhdmRuNG1MZDRvb2Y5c2lnVElraFp2V1I4NW9HTjhrMXhGbWZxd0lmZ3NPVUtFYmx4blJYT3BjWTJjcHJZSklDZk9SdEYyOXNYQlp0amhZV01FMGR6NVFWN2djaFYyYkZfdVhTQklaTDdDa3F4eGVxNVVSam55Ulk3TkdOVGhrejdOZjhzVk54UA?oc=5
 
 - Modi’s Israel visit: Timeline of India’s relations with Israel, Palestine - Al Jazeera
   Modi’s Israel visit: Timeline
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWxLaWxkd0ZWODl4Z3pBbVYzeDQ3eUNIZFpkSGtXX3UwdW5hQk9IaGYzbnljQjdfLS1CN0VuRmVzdFduWk9LOHZmZVBfOFp5UWtOLWVUekdPc05BMFNvRGFpdm1nWTRDdDFCdzVCSm1wZmdzNC1BTlAtVkVyRWQ3anlKbXUzcVJmZThfZERWZ0p0ZGZOUXNhUkFZWXlMR1RzbTFmTktLSEJTek9DZzhj0gG0AUFVX3lxTFBnRGp5S21NSW54S3poeGxEWkNmSFJSQVhMVkcxNGtWWV8wWFlQbmpUWGNYaFZxR3BJY1VSRWJkTzg3Vkc5RmpPS2wtdjgyTVZRcFA5cDg3ajNmZnpGNzZVOXBzVkVWZi1YZ1VIa0JzbUFkY1N5ZzNEZ2pMT0huYUloeXEzend5ek5BaUl4akVXX0RHMU4wdnJDMy1WcEZ0SGZNUlNTOGpZQ0NIbk9RcFB3QjdpQQ?oc=5
 
-- India qualification scenario: How can Team India reach T20 World Cup 2026 semi-final? - The Times of India
-  The Times of India: How can Team India reach T20 World Cup
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNZldnY1lMNzJjekdkWVFvUWd2cTVYLWh2N2lILXBGVTFIaW1hNnVnZE1ZZmFhcmsxbFcxOWlxbEhkMGxuc04yTm9pMlB2Z25iLWJUdFgxWGp3ckhuYTR5MktMSXBJLV8xQzRWM3hSeGJsODEteGxWVmZaSmYzQkptWkdVQVJoMUE1S19memhTcjJDLWY1cDZPZ0pvS3kzc2VLbHNrSUR1Y0N5YU0zX0NBb0Vwa2lDazludDhpbVpiUDZvWnpWWDMtQlJiNFdrbXBIaEl2c1M1bnk3UFBmU3pHSUdVbTRkMi0wMWFpYThTNWZtNDlXWUlBa2JneXZNQ1dtV3g5Z3MyOWRqaTJhRG5yWNIBlgJBVV95cUxPTFE4amI4ZDZSZEt2VFJRN2gwYnlsWVVORkRPUjhlbHh4R2NvUTVRSk52czFkTDNMMzNNaFZqcFk3ZE5QTlZiaktqYmZUNEhOY3RBZHRQaHVzX0FDNnNKYmg1dl9yVzVXZkRVcUZLeUNOZkE1ZDEzaTFvZ3BLTlRPSFF1ODE3Ty1ySms0M1JUd2ktZEtYWlg4eWtkSWZyRjVSeWdpTFVQX0RyVzZPVFktZk9PLVB5WC13SkZETFdwY3JRWE1femdrWmFXVm9kSWVDLVNETGZqYmEtdzJISWpLZVhiQ2FVTTl2R2xHdXVNaUV6OG9OejQzcmFFdVpScmVRY1lRVzJKeTBiVVRhTkNSbGxiSjltZw?oc=5
+- "Pandora's Box": Top Court Refuses To Hear SIR Plea By 91 Lucknow Residents - NDTV
+  "Pandora's Box": Top Court Refuses To
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnNwOElqbzFMLU5XYXpVYkVyUWNPdEtFbmVmdHd2Z01LV1VQMWR1U0M1ZmlNTEI3bzdqWlVQOThQcGU0SEhLTlZZWVZuaTdJWEx6S2F4YWhkVUFpTGVKeVV1MUZWQkZVLXdqMXcxTEdMSDFiaXFRT3AwNWQtMUVJY0U3RnlOa0w4MFFwcjFlaXV5X2N5M19WR0ZDMWE5LXFtNlhSaGJzaGRKcVA3SDRqZE530gG6AUFVX3lxTE83SVhSclJaOGg1SmJ3cFNPN0hhMEhIbzd0dFRheHZwWTBBX0xmWjZzYUpkX3V0ZUtrTEM4b2dma0I5anp2NXo5RlRIR3pycjQ3akVvZ3FVRU0zQkNKYjBxVzdyTzZZbkVQejVLUkVmUEMzUGM2aXB5dEtFSlpvY2JNLUtWLWpsb2JjUkhZZ2M0NExBbFRNb3VadTBwejctOHdQOFZHVjJ3ekRBTzhXNF9tN3BMYm5BV3lTZw?oc=5
 
-- "Why Are You Protecting The Congress?" PM Modi Asks Media - NDTV
-  "Why Are You Protecting The Congress
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXdDOC1hdFdmeE90bi02aFlURjk5NGRxZ0FUekRaR3JwdVpubC00elVHYWM5WXB0TE1JdXoyVXpjSlVqemV0MUNJLWhRYllKZlJNSmdVTkxPckRfakc4cGFGeXBmU2hUbTgyWlhlOFZaWTZQYklmNFVJcWNpS2h4YnBZZGltTG1BaHE5Z0FiWF9wcUlPc3luWVA1c9IBowFBVV95cUxQVEJudmpFZERTZmdZMmlEWThQeG5Bb2hWdVhoQy0tLVNPU1JYVWx1SHlheGZHS3NteUIzU3otQzE3UTVzMlZXVEM5R0pUY2hVdHE2WEYtS0U4QjF0Q0x5bkttT0hnTkVJUmNjVUFhS3BaamdxQ2NTNlF6RGZiYXlBcmlfS29yMUZMdWNBZnZpZjRRaTM1Rlltbm5ZZ28ycGk4dDJR?oc=5
+- Evening news wrap: India urges its nationals to leave Iran; HAL dismisses Tejas 'crash' reports & more - The Times of India
+  Evening news wrap: India urges its nationals to leave Iran; HAL dismisses Tejas
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTkZCa0RMcWVEMWxXeXBLeHo3X3pzcHItSGRjRzlZUWp5ZU1Ob0RaeENnS0ZoTkVZMjlyeUljbVp2Wk9KSGZ5ZW9ncFlvcXMtbDVQNXJFc2Q3RWJwZFp0Q1V4RHJRSjhVU29uYUxjQXNsYjFSajlHRkNzek5zNEYxeWFrUzJHSjFreXBFLUJWUEMwcXE2S3Y0MERvMUVJUHpkSXY2T3B4UFktcHpaUTF6dDlvSHo3czVVM1V4ajRsWTZRWDZqaTR5VTc1ZXdPUTRIZ1VlS1A4dGlEeEpTeGhCSm51ei1WSExVTTJraEx2LUdNOFVSTFVz0gH8AUFVX3lxTFB4X3lhRlJNazFXb2JBbUtMeXRBTzR4bXFtbEx3c3lHT29JZVBSWUpPS1V4NVFNMmRCOWc2UktXY0VXUE9mazMwX2pwMloyMTc1UVhLNVRYcnl0TnJzdDVPcVBLLVYwWTg5Z1FoZWlmMWQyR0I1ekNvUXB3Q1FmSXprMXJHamJyVm9HSTN2bVUwMkdRTTFlVWMzc3d3eVBGM3BCMV9TTFhnTjJfU21JaVpKQmFSbTd0bzdtMEpBTGdKeW13TWxBakRzeF9ZeUF0Z1JkbF9EeVB1ZE91N1ozZXJ2MU4xemQ3cjR3S0NFa3UtZENtejRKRzlvTGpUcQ?oc=5
 
-- India strongly condemn Pakistan’s airstrikes on Afghan territory - News On AIR
-  India strongly condemn Pakistan’s airstrikes
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUdYSDRWN3M4LXNhRElMMjRvbHhGZ2xtN2VncEg0LXJDS0hEM2QtdWFkTEpUa1hNWlpLUFg0ZVRpamhRa0Jzcm42aTlDYjRpQVFMSE9meHlicFp2SUYzb2RnS24yTW44cUJEc2dVOURRWjU0YWlUR3JVbzVkX1JrN09jdU1vNVV6dW9VNUNWNlZJejJNU3BwYg?oc=5
+- Ministry of Home Affairs unveils India’s new national counter-terrorism policy & strategy titled PRAHAR - News On AIR
+  Ministry of Home Affairs unveils India’s new national counter
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZi0tTl9fZzFIZ2ZHVTJ1S1pDUDhWc2FPQWxzN2l3SVpZWlJGeUFRcjBCTnMtaGlvbG1LaW8waTVZTTBhRVptR2VXRGRLWjdiZC1KQVdWSkMydl9TRHQ0elZhcGZTYjJkWWhtUWktUW4taERlbjcyYURGd25sS3lDdkdpTEVpV2kxRHhjS1dIRWZEWXppUVZiSmRGeHZ4NHA2ZHY1Y0NTekdJR1ZnVVItV2plVmRMSGh3MW16Q1I4bl9DVm0tQ0ZpdHVR?oc=5
 
-- Zudio, Trends: Budget fast fashion is taking small-town India by storm - BBC
-  Zudio, Trends: Budget fast fashion
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWa0pZSktyYWRVNWhicDhxSWg4UHpGLXBBeXF4ekVZWXo4cldjVWR0VE9NM0p4UEFwR0RoZGZMT2J2SzFwMlFaYjA3NlZ6V1ZMdEotMm12Tmt2Zw?oc=5
-
-- Modi’s Israel visit: Timeline of India’s relations with Israel, Palestine - Al Jazeera
-  Modi’s Israel visit: Timeline
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWxLaWxkd0ZWODl4Z3pBbVYzeDQ3eUNIZFpkSGtXX3UwdW5hQk9IaGYzbnljQjdfLS1CN0VuRmVzdFduWk9LOHZmZVBfOFp5UWtOLWVUekdPc05BMFNvRGFpdm1nWTRDdDFCdzVCSm1wZmdzNC1BTlAtVkVyRWQ3anlKbXUzcVJmZThfZERWZ0p0ZGZOUXNhUkFZWXlMR1RzbTFmTktLSEJTek9DZzhj0gG0AUFVX3lxTFBnRGp5S21NSW54S3poeGxEWkNmSFJSQVhMVkcxNGtWWV8wWFlQbmpUWGNYaFZxR3BJY1VSRWJkTzg3Vkc5RmpPS2wtdjgyTVZRcFA5cDg3ajNmZnpGNzZVOXBzVkVWZi1YZ1VIa0JzbUFkY1N5ZzNEZ2pMT0huYUloeXEzend5ek5BaUl4akVXX0RHMU4wdnJDMy1WcEZ0SGZNUlNTOGpZQ0NIbk9RcFB3QjdpQQ?oc=5
-
-- India qualification scenario: How can Team India reach T20 World Cup 2026 semi-final? - The Times of India
-  The Times of India: How can Team India reach T20 World Cup
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNZldnY1lMNzJjekdkWVFvUWd2cTVYLWh2N2lILXBGVTFIaW1hNnVnZE1ZZmFhcmsxbFcxOWlxbEhkMGxuc04yTm9pMlB2Z25iLWJUdFgxWGp3ckhuYTR5MktMSXBJLV8xQzRWM3hSeGJsODEteGxWVmZaSmYzQkptWkdVQVJoMUE1S19memhTcjJDLWY1cDZPZ0pvS3kzc2VLbHNrSUR1Y0N5YU0zX0NBb0Vwa2lDazludDhpbVpiUDZvWnpWWDMtQlJiNFdrbXBIaEl2c1M1bnk3UFBmU3pHSUdVbTRkMi0wMWFpYThTNWZtNDlXWUlBa2JneXZNQ1dtV3g5Z3MyOWRqaTJhRG5yWNIBlgJBVV95cUxPTFE4amI4ZDZSZEt2VFJRN2gwYnlsWVVORkRPUjhlbHh4R2NvUTVRSk52czFkTDNMMzNNaFZqcFk3ZE5QTlZiaktqYmZUNEhOY3RBZHRQaHVzX0FDNnNKYmg1dl9yVzVXZkRVcUZLeUNOZkE1ZDEzaTFvZ3BLTlRPSFF1ODE3Ty1ySms0M1JUd2ktZEtYWlg4eWtkSWZyRjVSeWdpTFVQX0RyVzZPVFktZk9PLVB5WC13SkZETFdwY3JRWE1femdrWmFXVm9kSWVDLVNETGZqYmEtdzJISWpLZVhiQ2FVTTl2R2xHdXVNaUV6OG9OejQzcmFFdVpScmVRY1lRVzJKeTBiVVRhTkNSbGxiSjltZw?oc=5
-
-- "Why Are You Protecting The Congress?" PM Modi Asks Media - NDTV
-  "Why Are You Protecting The Congress
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXdDOC1hdFdmeE90bi02aFlURjk5NGRxZ0FUekRaR3JwdVpubC00elVHYWM5WXB0TE1JdXoyVXpjSlVqemV0MUNJLWhRYllKZlJNSmdVTkxPckRfakc4cGFGeXBmU2hUbTgyWlhlOFZaWTZQYklmNFVJcWNpS2h4YnBZZGltTG1BaHE5Z0FiWF9wcUlPc3luWVA1c9IBowFBVV95cUxQVEJudmpFZERTZmdZMmlEWThQeG5Bb2hWdVhoQy0tLVNPU1JYVWx1SHlheGZHS3NteUIzU3otQzE3UTVzMlZXVEM5R0pUY2hVdHE2WEYtS0U4QjF0Q0x5bkttT0hnTkVJUmNjVUFhS3BaamdxQ2NTNlF6RGZiYXlBcmlfS29yMUZMdWNBZnZpZjRRaTM1Rlltbm5ZZ28ycGk4dDJR?oc=5
-
-- India strongly condemn Pakistan’s airstrikes on Afghan territory - News On AIR
-  India strongly condemn Pakistan’s airstrikes
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUdYSDRWN3M4LXNhRElMMjRvbHhGZ2xtN2VncEg0LXJDS0hEM2QtdWFkTEpUa1hNWlpLUFg0ZVRpamhRa0Jzcm42aTlDYjRpQVFMSE9meHlicFp2SUYzb2RnS24yTW44cUJEc2dVOURRWjU0YWlUR3JVbzVkX1JrN09jdU1vNVV6dW9VNUNWNlZJejJNU3BwYg?oc=5
-
-- Zudio, Trends: Budget fast fashion is taking small-town India by storm - BBC
-  Zudio, Trends: Budget fast fashion
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWa0pZSktyYWRVNWhicDhxSWg4UHpGLXBBeXF4ekVZWXo4cldjVWR0VE9NM0p4UEFwR0RoZGZMT2J2SzFwMlFaYjA3NlZ6V1ZMdEotMm12Tmt2Zw?oc=5
+- India releases first anti-terror policy PRAHAAR - The Hindu
+  India releases first anti-
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQU5kemFnS0c1ZGo3a1Z1WUVUOTA1WmVQRUlMa0huMWFIVVdFUXh0MndFSjhMdmtEZWdzLUpYQUgxd0JiY0VCOEZjR21PMl9QQ1JDVHpobF9jb3RzYUJtbURoc25ncUdyR0dwRVp2eFk2cnhGa1BqS3lJbDZjck9UM0s3UUh1WHJCeTdHbjRremNmSnB4SVJ2TmFkMlE4Sm42RklIdk44czB3d9IBsAFBVV95cUxPb3FxOUJrLVdZMzNTT2xYX2JmWEVITkNidEtGZ0ZmRDNhdmRuNG1MZDRvb2Y5c2lnVElraFp2V1I4NW9HTjhrMXhGbWZxd0lmZ3NPVUtFYmx4blJYT3BjWTJjcHJZSklDZk9SdEYyOXNYQlp0amhZV01FMGR6NVFWN2djaFYyYkZfdVhTQklaTDdDa3F4eGVxNVVSam55Ulk3TkdOVGhrejdOZjhzVk54UA?oc=5
 
 - Modi’s Israel visit: Timeline of India’s relations with Israel, Palestine - Al Jazeera
   Modi’s Israel visit: Timeline
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWxLaWxkd0ZWODl4Z3pBbVYzeDQ3eUNIZFpkSGtXX3UwdW5hQk9IaGYzbnljQjdfLS1CN0VuRmVzdFduWk9LOHZmZVBfOFp5UWtOLWVUekdPc05BMFNvRGFpdm1nWTRDdDFCdzVCSm1wZmdzNC1BTlAtVkVyRWQ3anlKbXUzcVJmZThfZERWZ0p0ZGZOUXNhUkFZWXlMR1RzbTFmTktLSEJTek9DZzhj0gG0AUFVX3lxTFBnRGp5S21NSW54S3poeGxEWkNmSFJSQVhMVkcxNGtWWV8wWFlQbmpUWGNYaFZxR3BJY1VSRWJkTzg3Vkc5RmpPS2wtdjgyTVZRcFA5cDg3ajNmZnpGNzZVOXBzVkVWZi1YZ1VIa0JzbUFkY1N5ZzNEZ2pMT0huYUloeXEzend5ek5BaUl4akVXX0RHMU4wdnJDMy1WcEZ0SGZNUlNTOGpZQ0NIbk9RcFB3QjdpQQ?oc=5
 
-- India qualification scenario: How can Team India reach T20 World Cup 2026 semi-final? - The Times of India
-  The Times of India: How can Team India reach T20 World Cup
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNZldnY1lMNzJjekdkWVFvUWd2cTVYLWh2N2lILXBGVTFIaW1hNnVnZE1ZZmFhcmsxbFcxOWlxbEhkMGxuc04yTm9pMlB2Z25iLWJUdFgxWGp3ckhuYTR5MktMSXBJLV8xQzRWM3hSeGJsODEteGxWVmZaSmYzQkptWkdVQVJoMUE1S19memhTcjJDLWY1cDZPZ0pvS3kzc2VLbHNrSUR1Y0N5YU0zX0NBb0Vwa2lDazludDhpbVpiUDZvWnpWWDMtQlJiNFdrbXBIaEl2c1M1bnk3UFBmU3pHSUdVbTRkMi0wMWFpYThTNWZtNDlXWUlBa2JneXZNQ1dtV3g5Z3MyOWRqaTJhRG5yWNIBlgJBVV95cUxPTFE4amI4ZDZSZEt2VFJRN2gwYnlsWVVORkRPUjhlbHh4R2NvUTVRSk52czFkTDNMMzNNaFZqcFk3ZE5QTlZiaktqYmZUNEhOY3RBZHRQaHVzX0FDNnNKYmg1dl9yVzVXZkRVcUZLeUNOZkE1ZDEzaTFvZ3BLTlRPSFF1ODE3Ty1ySms0M1JUd2ktZEtYWlg4eWtkSWZyRjVSeWdpTFVQX0RyVzZPVFktZk9PLVB5WC13SkZETFdwY3JRWE1femdrWmFXVm9kSWVDLVNETGZqYmEtdzJISWpLZVhiQ2FVTTl2R2xHdXVNaUV6OG9OejQzcmFFdVpScmVRY1lRVzJKeTBiVVRhTkNSbGxiSjltZw?oc=5
+- "Pandora's Box": Top Court Refuses To Hear SIR Plea By 91 Lucknow Residents - NDTV
+  "Pandora's Box": Top Court Refuses To
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnNwOElqbzFMLU5XYXpVYkVyUWNPdEtFbmVmdHd2Z01LV1VQMWR1U0M1ZmlNTEI3bzdqWlVQOThQcGU0SEhLTlZZWVZuaTdJWEx6S2F4YWhkVUFpTGVKeVV1MUZWQkZVLXdqMXcxTEdMSDFiaXFRT3AwNWQtMUVJY0U3RnlOa0w4MFFwcjFlaXV5X2N5M19WR0ZDMWE5LXFtNlhSaGJzaGRKcVA3SDRqZE530gG6AUFVX3lxTE83SVhSclJaOGg1SmJ3cFNPN0hhMEhIbzd0dFRheHZwWTBBX0xmWjZzYUpkX3V0ZUtrTEM4b2dma0I5anp2NXo5RlRIR3pycjQ3akVvZ3FVRU0zQkNKYjBxVzdyTzZZbkVQejVLUkVmUEMzUGM2aXB5dEtFSlpvY2JNLUtWLWpsb2JjUkhZZ2M0NExBbFRNb3VadTBwejctOHdQOFZHVjJ3ekRBTzhXNF9tN3BMYm5BV3lTZw?oc=5
 
-- "Why Are You Protecting The Congress?" PM Modi Asks Media - NDTV
-  "Why Are You Protecting The Congress
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXdDOC1hdFdmeE90bi02aFlURjk5NGRxZ0FUekRaR3JwdVpubC00elVHYWM5WXB0TE1JdXoyVXpjSlVqemV0MUNJLWhRYllKZlJNSmdVTkxPckRfakc4cGFGeXBmU2hUbTgyWlhlOFZaWTZQYklmNFVJcWNpS2h4YnBZZGltTG1BaHE5Z0FiWF9wcUlPc3luWVA1c9IBowFBVV95cUxQVEJudmpFZERTZmdZMmlEWThQeG5Bb2hWdVhoQy0tLVNPU1JYVWx1SHlheGZHS3NteUIzU3otQzE3UTVzMlZXVEM5R0pUY2hVdHE2WEYtS0U4QjF0Q0x5bkttT0hnTkVJUmNjVUFhS3BaamdxQ2NTNlF6RGZiYXlBcmlfS29yMUZMdWNBZnZpZjRRaTM1Rlltbm5ZZ28ycGk4dDJR?oc=5
+- Evening news wrap: India urges its nationals to leave Iran; HAL dismisses Tejas 'crash' reports & more - The Times of India
+  Evening news wrap: India urges its nationals to leave Iran; HAL dismisses Tejas
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTkZCa0RMcWVEMWxXeXBLeHo3X3pzcHItSGRjRzlZUWp5ZU1Ob0RaeENnS0ZoTkVZMjlyeUljbVp2Wk9KSGZ5ZW9ncFlvcXMtbDVQNXJFc2Q3RWJwZFp0Q1V4RHJRSjhVU29uYUxjQXNsYjFSajlHRkNzek5zNEYxeWFrUzJHSjFreXBFLUJWUEMwcXE2S3Y0MERvMUVJUHpkSXY2T3B4UFktcHpaUTF6dDlvSHo3czVVM1V4ajRsWTZRWDZqaTR5VTc1ZXdPUTRIZ1VlS1A4dGlEeEpTeGhCSm51ei1WSExVTTJraEx2LUdNOFVSTFVz0gH8AUFVX3lxTFB4X3lhRlJNazFXb2JBbUtMeXRBTzR4bXFtbEx3c3lHT29JZVBSWUpPS1V4NVFNMmRCOWc2UktXY0VXUE9mazMwX2pwMloyMTc1UVhLNVRYcnl0TnJzdDVPcVBLLVYwWTg5Z1FoZWlmMWQyR0I1ekNvUXB3Q1FmSXprMXJHamJyVm9HSTN2bVUwMkdRTTFlVWMzc3d3eVBGM3BCMV9TTFhnTjJfU21JaVpKQmFSbTd0bzdtMEpBTGdKeW13TWxBakRzeF9ZeUF0Z1JkbF9EeVB1ZE91N1ozZXJ2MU4xemQ3cjR3S0NFa3UtZENtejRKRzlvTGpUcQ?oc=5
 
-- India strongly condemn Pakistan’s airstrikes on Afghan territory - News On AIR
-  India strongly condemn Pakistan’s airstrikes
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUdYSDRWN3M4LXNhRElMMjRvbHhGZ2xtN2VncEg0LXJDS0hEM2QtdWFkTEpUa1hNWlpLUFg0ZVRpamhRa0Jzcm42aTlDYjRpQVFMSE9meHlicFp2SUYzb2RnS24yTW44cUJEc2dVOURRWjU0YWlUR3JVbzVkX1JrN09jdU1vNVV6dW9VNUNWNlZJejJNU3BwYg?oc=5
+- Ministry of Home Affairs unveils India’s new national counter-terrorism policy & strategy titled PRAHAR - News On AIR
+  Ministry of Home Affairs unveils India’s new national counter
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZi0tTl9fZzFIZ2ZHVTJ1S1pDUDhWc2FPQWxzN2l3SVpZWlJGeUFRcjBCTnMtaGlvbG1LaW8waTVZTTBhRVptR2VXRGRLWjdiZC1KQVdWSkMydl9TRHQ0elZhcGZTYjJkWWhtUWktUW4taERlbjcyYURGd25sS3lDdkdpTEVpV2kxRHhjS1dIRWZEWXppUVZiSmRGeHZ4NHA2ZHY1Y0NTekdJR1ZnVVItV2plVmRMSGh3MW16Q1I4bl9DVm0tQ0ZpdHVR?oc=5
 
-- Zudio, Trends: Budget fast fashion is taking small-town India by storm - BBC
-  Zudio, Trends: Budget fast fashion
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWa0pZSktyYWRVNWhicDhxSWg4UHpGLXBBeXF4ekVZWXo4cldjVWR0VE9NM0p4UEFwR0RoZGZMT2J2SzFwMlFaYjA3NlZ6V1ZMdEotMm12Tmt2Zw?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Modi’s Israel visit: Timeline of India’s relations with Israel, Palestine - Al Jazeera
-  Modi’s Israel visit: Timeline
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWxLaWxkd0ZWODl4Z3pBbVYzeDQ3eUNIZFpkSGtXX3UwdW5hQk9IaGYzbnljQjdfLS1CN0VuRmVzdFduWk9LOHZmZVBfOFp5UWtOLWVUekdPc05BMFNvRGFpdm1nWTRDdDFCdzVCSm1wZmdzNC1BTlAtVkVyRWQ3anlKbXUzcVJmZThfZERWZ0p0ZGZOUXNhUkFZWXlMR1RzbTFmTktLSEJTek9DZzhj0gG0AUFVX3lxTFBnRGp5S21NSW54S3poeGxEWkNmSFJSQVhMVkcxNGtWWV8wWFlQbmpUWGNYaFZxR3BJY1VSRWJkTzg3Vkc5RmpPS2wtdjgyTVZRcFA5cDg3ajNmZnpGNzZVOXBzVkVWZi1YZ1VIa0JzbUFkY1N5ZzNEZ2pMT0huYUloeXEzend5ek5BaUl4akVXX0RHMU4wdnJDMy1WcEZ0SGZNUlNTOGpZQ0NIbk9RcFB3QjdpQQ?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- India qualification scenario: How can Team India reach T20 World Cup 2026 semi-final? - The Times of India
-  The Times of India: How can Team India reach T20 World Cup
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNZldnY1lMNzJjekdkWVFvUWd2cTVYLWh2N2lILXBGVTFIaW1hNnVnZE1ZZmFhcmsxbFcxOWlxbEhkMGxuc04yTm9pMlB2Z25iLWJUdFgxWGp3ckhuYTR5MktMSXBJLV8xQzRWM3hSeGJsODEteGxWVmZaSmYzQkptWkdVQVJoMUE1S19memhTcjJDLWY1cDZPZ0pvS3kzc2VLbHNrSUR1Y0N5YU0zX0NBb0Vwa2lDazludDhpbVpiUDZvWnpWWDMtQlJiNFdrbXBIaEl2c1M1bnk3UFBmU3pHSUdVbTRkMi0wMWFpYThTNWZtNDlXWUlBa2JneXZNQ1dtV3g5Z3MyOWRqaTJhRG5yWNIBlgJBVV95cUxPTFE4amI4ZDZSZEt2VFJRN2gwYnlsWVVORkRPUjhlbHh4R2NvUTVRSk52czFkTDNMMzNNaFZqcFk3ZE5QTlZiaktqYmZUNEhOY3RBZHRQaHVzX0FDNnNKYmg1dl9yVzVXZkRVcUZLeUNOZkE1ZDEzaTFvZ3BLTlRPSFF1ODE3Ty1ySms0M1JUd2ktZEtYWlg4eWtkSWZyRjVSeWdpTFVQX0RyVzZPVFktZk9PLVB5WC13SkZETFdwY3JRWE1femdrWmFXVm9kSWVDLVNETGZqYmEtdzJISWpLZVhiQ2FVTTl2R2xHdXVNaUV6OG9OejQzcmFFdVpScmVRY1lRVzJKeTBiVVRhTkNSbGxiSjltZw?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- "Why Are You Protecting The Congress?" PM Modi Asks Media - NDTV
-  "Why Are You Protecting The Congress
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXdDOC1hdFdmeE90bi02aFlURjk5NGRxZ0FUekRaR3JwdVpubC00elVHYWM5WXB0TE1JdXoyVXpjSlVqemV0MUNJLWhRYllKZlJNSmdVTkxPckRfakc4cGFGeXBmU2hUbTgyWlhlOFZaWTZQYklmNFVJcWNpS2h4YnBZZGltTG1BaHE5Z0FiWF9wcUlPc3luWVA1c9IBowFBVV95cUxQVEJudmpFZERTZmdZMmlEWThQeG5Bb2hWdVhoQy0tLVNPU1JYVWx1SHlheGZHS3NteUIzU3otQzE3UTVzMlZXVEM5R0pUY2hVdHE2WEYtS0U4QjF0Q0x5bkttT0hnTkVJUmNjVUFhS3BaamdxQ2NTNlF6RGZiYXlBcmlfS29yMUZMdWNBZnZpZjRRaTM1Rlltbm5ZZ28ycGk4dDJR?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- India strongly condemn Pakistan’s airstrikes on Afghan territory - News On AIR
-  India strongly condemn Pakistan’s airstrikes
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUdYSDRWN3M4LXNhRElMMjRvbHhGZ2xtN2VncEg0LXJDS0hEM2QtdWFkTEpUa1hNWlpLUFg0ZVRpamhRa0Jzcm42aTlDYjRpQVFMSE9meHlicFp2SUYzb2RnS24yTW44cUJEc2dVOURRWjU0YWlUR3JVbzVkX1JrN09jdU1vNVV6dW9VNUNWNlZJejJNU3BwYg?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-23 07:02:57 UTC_
+_Last updated: 2026-02-23 12:57:33 UTC_
