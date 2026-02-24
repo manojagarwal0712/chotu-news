@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- BJP leader distributes blankets in Rajasthan, then takes them back from Muslim women, later says: ‘Thought they were party workers’
+- After 27 years, EC to host meet with state election commissioners today: Here is what’s on agenda
   
-  🔗 https://indianexpress.com/article/india/bjp-leader-distributes-blankets-in-rajasthan-then-takes-them-back-from-muslim-women-later-says-thought-they-were-party-workers-10548304/
+  🔗 https://indianexpress.com/article/india/election-commission-national-round-table-conference-electoral-management-today-10548791/
 
-- I-T brings Rs 14,601-crore undisclosed offshore investments to tax
+- NCRTC announces fresh parking fees at stations as 82-km Namo Bharat corridor fully opens
   
-  🔗 https://indianexpress.com/article/india/i-t-brings-rs-14601-crore-undisclosed-offshore-investments-to-tax-10548319/
+  🔗 https://indianexpress.com/article/india/namo-bharat-station-parking-charges-cars-bikes-delhi-meerut-corridor-10548587/
 
-- Govt unveils country’s first counter-terrorism policy — Prahaar
+- Gold Today Rate, February 24: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/govt-unveils-countrys-first-counter-terrorism-policy-prahaar-10548369/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-february-24-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10548687/
 
-- IAF’s Tejas fleet undergoes extensive checks after ground incident
+- Centre to fast-track deportation of foreign drug peddlers: Why MHA wants courts to drop ‘petty’ cases
   
-  🔗 https://indianexpress.com/article/india/iafs-tejas-fleet-undergoes-extensive-checks-after-ground-incident-10548374/
+  🔗 https://indianexpress.com/article/india/centre-to-fast-track-deportation-of-foreign-drug-peddlers-why-mha-wants-courts-to-drop-petty-cases-10548583/
 
-- Leave Iran by all means available: India’s new advisory to its nationals
+- Drama in Patna as Andhra police arrive to arrest Bihar IG, denied transit remand by local court
   
-  🔗 https://indianexpress.com/article/india/leave-iran-by-all-means-available-indias-new-advisory-to-its-nationals-10548392/
+  🔗 https://indianexpress.com/article/india/drama-in-patna-as-andhra-police-arrive-to-arrest-bihar-ig-denied-transit-remand-by-local-court-10548307/
+
+- Meta users survey found 19% of young teens on Instagram report seeing unwanted nude images
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-users-survey-found-19-of-young-teens-on-instagram-report-seeing-unwanted-nude-images-10548613/
+
+- Apple to shift some Mac Mini production to Houston from Asia: Report
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-to-shift-some-mac-mini-production-to-houston-from-asia-report-10548611/
+
+- IBM posts steepest daily drop since 2000 after Anthropic says AI can modernize COBOL
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ibm-posts-steepest-daily-drop-since-2000-after-anthropic-10548553/
+
+- Anthropic accuses Chinese AI labs of distilling Claude; Elon Musk calls it ‘guilty’
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-accuses-chinese-ai-labs-claude-distillation-10548537/
 
 - Amazon’s Panos Panay on ‘unlearning’ Alexa speak: Why your next Echo won’t just wait for commands
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/panos-panay-amazon-alexa-ai-future-devices-interview-10547715/
 
-- Apple to bet on AI wearable devices built around visual intelligence: Report
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/apple-ai-wearables-visual-intelligence-report-10547505/
+- JSW to put  ₹65 crore Dulux royalty savings back into India's competitive paints business to widen market share
+  Akzo Nobel India, now part of the JSW Group, ends brand fees for Dulux, freeing up substantial funds. This capital will fuel growth and challenge rivals
+  🔗 https://www.livemint.com/companies/jsw-65-crore-dulux-royalty-paints-market-share-akzo-nobel-decorative-paints-11771906941753.html
 
-- Why Apple was missing from the world’s largest AI summit in India
-  
-  🔗 https://indianexpress.com/article/technology/opinion-technology/why-apple-missing-ai-summit-in-india-10547359/
+- Who is Dario Amodei? Did you know Anthropic CEO was a former OpenAI employee?
+  Dario Amodei, the CEO and co-founder of Anthropic, can be credited with the companies
+  🔗 https://www.livemint.com/companies/people/who-is-dario-amodei-did-you-know-anthropic-ceo-was-a-former-openai-employee-11771910772079.html
 
-- Google bans Antigravity users over OpenClaw activity, cites surge in ‘malicious usage’
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-bans-antigravity-users-openclaw-10547187/
+- Cipla Health targets 3x growth in 5 years, bets big on beauty and wellness
+  Cipla plans to leverage its blockbuster brands and strong tier-II to tier-VI presence to scale up as competition intensifies.
+  🔗 https://www.livemint.com/companies/cipla-health-3x-growth-5-years-beauty-wellness-personal-care-startups-brands-11771855222179.html
 
-- Decoding the AI beliefs of Anthropic and its CEO, Dario Amodei
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/decoding-the-ai-beliefs-of-anthropic-and-its-ceo-dario-amodei-10546985/
+- Gaudium IPO: Related party deals, tax demands at fast-growing IVF chain raise governance questions
+  Gaudium IVF is set to launch its IPO but governance experts are flagging intra-group financial transactions and tax investigations. A promoter's substantial share sale and
+  🔗 https://www.livemint.com/companies/news/india-gaudiam-ipo-related-party-transactions-tax-demands-11771732924114.html
 
-- Anthropic's latest Claude Code update triggers massive IBM stock selloff, shares down 13.2% in a day
-  IBM shares fell 13.2%, suffering their worst day since 2000, at $223.35 per share.
-  🔗 https://www.livemint.com/companies/news/anthropic-latest-claude-code-update-triggers-massive-ibm-stock-selloff-shares-down-13-2-per-cent-in-a-day-11771892133869.html
+- Anthropic allows some employees to participate in  ₹54,577 crore share sale — Here's all you need to know
+  Anthropic is offering some current and former employees the ability to sell shares in the company at a valuation of about $350 billion.
+  🔗 https://www.livemint.com/companies/news/anthropic-6-billion-rs-54577-crore-share-sale-ex-current-employees-participate-350-billion-valuation-claude-ai-fundraise-11771901969958.html
 
-- Ambani's Jio set to take on Ray-Ban Meta with affordable AI smart glasses
-  JioFrames AI smart glasses are expected to hit the market in the next 2-3 months. Analysts expect Jio Platforms to price its smart glasses below  ₹10,000.
-  🔗 https://www.livemint.com/companies/jio-platforms-smart-glasses-disrupt-india-eyewear-market-aggressive-pricing-11771838246486.html
+- Jewellery stock edges higher despite the stock market crash. Do you own?
+  PC Jeweller's share price rose 1.2% to  ₹10.12 despite a market downturn. The subsidiary will focus on precious metal extraction and related activities.
+  🔗 https://www.livemint.com/market/stock-market-news/jewellery-stock-pc-jeweller-share-price-edges-higher-despite-the-stock-market-crash-do-you-own-11771914372953.html
 
-- India eyes shipbuilding big league as Cochin Shipyard, HD Hyundai near $500 million JV
-  State-run Cochin Shipyard Limited and South Korea’s HD Hyundai Group are in final stages of forming a joint venture for a $500-million facility in Kochi.
-  🔗 https://www.livemint.com/companies/news/india-eyes-shipbuilding-big-league-as-cochin-shipyard-csl-hd-hyundai-near-500-million-jv-11771842275507.html
+- Pace Digitek shares soar over 4%. Why is this newly-listed stock rising despite the market crash?
+  Pace Digitek share gained 4% to  ₹189.55. The company shares made their debut on Dalal Street in early October.
+  🔗 https://www.livemint.com/market/pace-digitek-shares-soar-over-4-on-order-from-reliance-why-is-this-newly-listed-stock-rising-stock-market-crash-11771911829631.html
 
-- FedEx sues US seeking ‘full refund’ of Trump Tariffs after Supreme Court declares them illegal
-  FedEx sues US seeking ‘full refund
-  🔗 https://www.livemint.com/companies/news/fedex-sues-us-seeking-full-refund-of-trump-tariffs-after-supreme-court-declares-them-illegal-11771892057685.html
+- From Filatex Fashions to IDFC First Bank— These are the top most traded stocks on the NSE today
+  Filatex Fashions, Vodafone Idea, and IDFC First Bank were among the most actively traded
+  🔗 https://www.livemint.com/market/stock-market-news/from-filatex-fashions-to-idfc-first-bank-these-are-the-top-most-traded-stocks-on-the-nse-today-11771911466699.html
 
-- Jio BlackRock changes tack, reaches out to mutual fund distributors
-  The Reliance Industries- Jio BlackRock Asset Management has reached out to select
-  🔗 https://www.livemint.com/companies/news/jio-blackrock-mutual-fund-distribution-strategy-direct-model-rethink-11771818773596.html
+- Stocks to buy for short term: From HDFC Life to Kalpataru Projects— Experts recommend these 6 shares
+  Experts recommend six shares poised for growth in the short term. From HDFC Life to Kalpataru Projects, discover the stocks backed by strong technical indicators and bullish trends.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-from-hdfc-life-to-kalpataru-projects-experts-recommend-6-shares-amid-stock-market-crash-11771910187196.html
 
-- Indian stock market: 8 key things that changed for market overnight- Gift Nifty, Dow Jones, Nasdaq sell-off to China LPR
-  Gift Nifty was trading around 25,622 level, a discount of nearly 83 points from the Nifty futures
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-8-key-things-that-changed-for-market-overnight-gift-nifty-dow-jones-nasdaq-selloff-to-china-lpr-11771865014272.html
+- PNGS Reva Diamond Jewellery IPO Day 1 LIVE: Issue booked 5% so far — Check GMP, review and other details
+  The IPO is entirely a fresh issue of equity shares with no offer-for-sale component. The price band has been set at  ⁹367 to  ₹
+  🔗 https://www.livemint.com/market/stock-market-news/pngs-reva-diamond-jewellery-ipo-gmp-today-pngs-reva-diamond-jewellery-subscription-status-price-band-24-february-2026-11771909751026.html
 
-- Gold, silver rates today: Gold price above $5,200/oz, silver trades flat — how to trade as the China market opens today?
-  Spot gold was marginally up on Tuesday, rising nearly 0.45% to $5,249 per ounce. Spot silver surges 1.
-  🔗 https://www.livemint.com/market/stock-market-news/gold-silver-rates-today-gold-rate-above-5-200-silver-prices-near-88-per-ounce-where-are-precious-metals-headed-11771893751871.html
+- New Delhi declaration on AI Impact signatories reach 91 as three more nations join
+  The global consensus on artificial intelligence governance expanded as three additional nations joined the New Delhi Declaration on AI Impact. The total number of signatories
+  🔗 https://www.livemint.com/technology/new-delhi-declaration-on-ai-impact-signatories-reach-91-as-three-more-nations-join-11771915996652.html
 
-- Stock recommendations for 24 February from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 24 February. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-marketsmith-india-best-stocks-sensex-nifty-11771851388547.html
+- What is Claude Code Security? The new Anthropic AI tool that wiped billions off cybersecurity stocks
+  Anthropic has launched Claude Code Security, an AI tool that scans code for vulnerabilities and suggests patches. The new tool led
+  🔗 https://www.livemint.com/technology/tech-news/what-is-claude-code-security-the-new-anthropic-ai-tool-that-wiped-billions-off-cybersecurity-stocks-11771906327079.html
 
-- Stocks to buy: Raja Venkatraman recommends two high-yield dividend stocks for 24 February
-  Market expert Raja Venkatraman shares his top dividend stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-recommends-two-high-yield-dividend-stocks-for-24-february-11771853224337.html
-
-- RBI 1, ESMA 0: India protects domestic clearing house from EU interference
-  Esma has dropped its demand to supervise Clearing Corp. of India
-  🔗 https://www.livemint.com/market/stock-market-news/rbi-1-esma-0-india-protects-domestic-clearing-house-from-eu-interference-ccil-ifsca-11771840902759.html
+- Months ahead of launch, Apple reportedly begins iPhone 18 Pro mass production testing: Here's what to expect
+  The iPhone 18 Pro and 18 Pro Max have entered mass production. The new phones are expected to feature a brand new red colour option, improved camera and processor.
+  🔗 https://www.livemint.com/technology/gadgets/months-ahead-of-launch-apple-reportedly-begins-iphone-18-pro-mass-production-testing-heres-what-to-expect-11771902535122.html
 
 - US AI giants accuse Chinese rivals of mass data theft
   US AI giants accuse Chinese
@@ -88,57 +100,45 @@
   OpenAI CEO Sam Altman warned that AI will automate scientific progress and the economy. He advised students to stay up to date with AI tools and focus on understanding human needs.
   🔗 https://www.livemint.com/technology/tech-news/sam-altman-says-ai-will-automate-the-whole-economy-shares-message-for-students-at-iit-delhi-11771849044415.html
 
-- Samsung Galaxy Unpacked 2026: Launch date, live-stream details, and what to expect from the new Galaxy S26 lineup
-  Samsung Galaxy Unpacked 2026 will showcase the S26 series with the Snapdragon 8 Elite Gen 5 processor. The event will also likely introduce Galaxy
-  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-unpacked-2026-launch-date-live-stream-details-and-what-to-expect-from-the-new-galaxy-s26-lineup-11771843227336.html
+- Bitcoin hovers near $63,000 as global risk-off sentiment weighs on crypto markets
+  Global risk aversion impacted crypto markets, with Bitcoin and Ethereum seeing declines. Major altcoins also slipped, contributing to a 2% drop in the global crypto market cap.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hovers-near-63000-as-global-risk-off-sentiment-weighs-on-crypto-markets/articleshow/128742210.cms
 
-- Low-cost MacBook, iPhone 17e? Apple could launch 'at least' five products during 4 March event
-  The event will feature hands-on experiences in New York, London, and Shanghai. The company could unveil the products during a three day spree starting from 2 March.
-  🔗 https://www.livemint.com/technology/tech-news/lowcost-macbook-iphone-17e-apple-could-launch-at-least-five-products-during-4-march-event-11771837509096.html
+- AI coming for cybersecurity too? Anthropic fear hits another corner of Indian stock market
+  Cybersecurity stocks in India and the US fell sharply after Anthropic launched Claude Code Security. Indian counters dropped up to 20%, while global peers also declined.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ai-coming-for-cybersecurity-too-anthropic-fear-hits-another-corner-of-indian-stock-market/articleshow/128742419.cms
 
-- Galaxy S26 Ultra leaks in full hands-on video: Live images, benchmark scores, and new Privacy Display revealed
-  Samsung's Galaxy S26 Ultra is set to launch soon. However, ahead of the launch, a user shared that he has purchased the phone in Dubai.
-  🔗 https://www.livemint.com/technology/gadgets/galaxy-s26-ultra-leaks-in-full-hands-on-video-live-images-benchmark-scores-and-new-privacy-display-11771832433218.html
+- 4 Vijay Kedia stocks crash up to 20% on fears of AI-led disruption
+  Shares of four companies backed by ace investor Vijay Kedia tumbled up to 20% on Tuesday. Investors reacted to AI startup Anthropic’s new security tool.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/4-vijay-kedia-stocks-crash-up-to-20-on-fears-of-ai-led-disruption/articleshow/128742349.cms
 
-- Gaudium IVF IPO Live Updates: Should Retail Investors Apply? Expert-Backed Analysis Inside
-  
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/gaudium-ivf-women-health-ipo-gmp-live-updates-subscription-status-price-band-gaudium-ivf-share-price-news/liveblog/128736054.cms
+- Market volatility to persist amid geopolitical and tariff uncertainty: Amnish Aggarwal
+  Indian markets face uncertainty driven by US tariff concerns and geopolitical factors, leading to cautious sentiment. AI's impact on IT services remains unclear, while digital lending platforms show potential for financial services.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/market-volatility-to-persist-amid-geopolitical-and-tariff-uncertainty-amnish-aggarwal/articleshow/128741881.cms
 
-- PNGS Reva Diamond Jewellery IPO Live Updates: What the RHP Discloses About Growth Drivers &amp; Red Flags
-  
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/pngs-reva-diamond-jewellery-ipo-gmp-live-updates-subscription-price-band-pngs-reva-share-price-listing-date-time-ipo-news/liveblog/128736052.cms
+- IBM shares sink 13%, record steepest drop in 25 years after Anthropic says AI can modernise COBOL
+  IBM shares plunged 13.2% Monday, marking their steepest single-day drop in over 25 years. AI startup Anthropic said its Claude Code tool can modernise COBOL, the
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ibm-shares-sink-13-record-steepest-drop-in-25-years-after-anthropic-says-ai-can-modernise-cobol/articleshow/128741710.cms
 
-- Technical Call| Marico shows strength amid market volatility – time to buy?
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/technical-call-marico-shows-strength-amid-market-volatility-time-to-buy/videoshow/128702882.cms
+- India unveils first anti-terror policy PRAHAAR, addressing cyber threats - The Hindu
+  India unveils first anti-terror policy
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQU5kemFnS0c1ZGo3a1Z1WUVUOTA1WmVQRUlMa0huMWFIVVdFUXh0MndFSjhMdmtEZWdzLUpYQUgxd0JiY0VCOEZjR21PMl9QQ1JDVHpobF9jb3RzYUJtbURoc25ncUdyR0dwRVp2eFk2cnhGa1BqS3lJbDZjck9UM0s3UUh1WHJCeTdHbjRremNmSnB4SVJ2TmFkMlE4Sm42RklIdk44czB3d9IBsAFBVV95cUxPb3FxOUJrLVdZMzNTT2xYX2JmWEVITkNidEtGZ0ZmRDNhdmRuNG1MZDRvb2Y5c2lnVElraFp2V1I4NW9HTjhrMXhGbWZxd0lmZ3NPVUtFYmx4blJYT3BjWTJjcHJZSklDZk9SdEYyOXNYQlp0amhZV01FMGR6NVFWN2djaFYyYkZfdVhTQklaTDdDa3F4eGVxNVVSam55Ulk3TkdOVGhrejdOZjhzVk54UA?oc=5
 
-- Global Market Today | Asian stocks follow US lower on tariff uncertainty
-  Asian shares declined as AI's impact on profits and tariff uncertainty worried investors. Wall Street saw a significant drop, with tech stocks particularly affected by AI disruption fears.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-follow-us-lower-on-tariff-uncertainty/articleshow/128735707.cms
+- Rain Or Snow, Inside India's 326-Day Mountain Op To Hunt 7 Pak Terrorists - NDTV
+  'Rain Or Snow' Inside India's 326-Day
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmJ1YlI1MzVPRVdaeTBjMTFwM2ZtSHFSSExuSGIzNS1vWDJQMHhrWDdVdmxOWlJ6emNMc3BpZ3FqX09EejV5cHhtTzNmSjB2cVM0dGFkQ093VFBPMWwtNHdZM25HbjYwRk80WExGSEtRa2ZKNmNuQTFSaVFwV09ORTlSeEJxTUI0MVh4WTlhTFZBS2JwN1dZN3E5TVN6bTR1SVJmMmdPSENEVU5aLWtBZE9zUzhaaExCQjZ5UXdHMHBJRUIxWkJXc2JVbTRmUdIB1gFBVV95cUxQbEJDU1BPRXZuMjRvSTJnSkZ1aU9qMm93TmRROV83YnM2LUg2NmNDS3g4OGdwbFRRbXJ2WWFCOGVQQk01dXFxZFp0eTVqNWxJdkRjLTBrZC1Rck1QeVM0TllUdEU2WFJMNTQzMUlKRElOVDVzN1NJWG1UNFZtUXVvbFJOM2ZTX3RKSHE4RnQ4cW40T1JISTNpREVaQjRPZS0tSkN0ZTAxUlRPOVVYMWVQT0tqcUxSR29iOUVRb3FQLWNpMEZkWmFvMXVTVE0teFZRRjJJRUNR?oc=5
 
-- US Stocks | Wall Street ends sharply lower amid AI displacement fears and revived tariff angst
-  All three major U.S. stock indexes more than 1% lower by the closing bell. Fears over potential disruption due to emergent artificial intelligence technology and Trump's erratic statements on trade ‌policy.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-wall-street-ends-sharply-lower-amid-ai-displacement-fears-and-revived-tariff-angst/articleshow/128735345.cms
-
-- India's New Policy 'Prahaar' To Bring Down The Hammer On Terror - NDTV
-  India's New Policy 'Prahaar'
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOODhOLXI2UkhTTDJVajJPbFgzNGstWUF4ZVBjcXZHNGZRNW1pMm5pVUdZUVBiRlR0VUJ4LUxfdG1FT3hWSkxjdEw0UEpYbmwyaEJ2a0ctZmt6bmkwbWw2d3lmVVIwdTdLZDV2Q2RtdktXYzVwcWpQa3RnSE1PcXIzV3hLOEY5TExhbExLWUVreGl5djlDdVBjM2N5bXFVNk15Z2tmcjZDalNKLVJ0NXQxUjY1RXVQZmJtRmVR0gHDAUFVX3lxTE5kUHFrQUlNY254YTJPM0c2MnUtTGo2RlFoTk9OLW1aS3RpeXFSNzhBb2VPOVpEOXNQQ094WkR6aFR0dEJYN0lUMkF2ZERXWVdqN1RkMVRZekNVa0lXXzh2aDJXWkFkMzZuWURxVC01RlE4RU45NHI0Y0w3bENKQkVwMG5pc0Uxeng4RzBJaTJENHp4TC1uSGF5OUpLczZIeWI5QTFIa3pkQnY2NTJlVEg1Qi1MTnNEcm16Snl2UEVudm1MVQ?oc=5
+- India rolls out first anti-terror doctrine ‘PRAHAAR’; cross-border terror, cyber and drone threat in focu - The Times of India
+  India rolls out first anti-terror doctrine ‘PRAHAAR’
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMFBoaV8zSkJEVDRjcGtlVUc5b0x4M2pnRVRzTXpWZkRSeHRCZlVzelhKZFhPeC1oOG5jMU9VTFdPWWljWlFBLXQ1Qk9HWlVFZ1oxb1p4TlRCZG53eFVKVUwzTHJYWm56TkFUZzRKa0tUVzV3M2w3VTRsQl90VEVJQVR6NWdnRWVHUHdLeVJvdzBWSUx4Y0Z5UHFZaUlCM1FtLWs0V1g1UXlpUG5iX05mZHp4YzQzV3RUX2pzd3VlaTVmOENDZUp4elEza1VkS1VBdjctZGstcWxZLUp0TWkzaVlUYlowOGEyVFdNZVZITV95Y0RLdWltNmFRTExmcDjSAYQCQVVfeXFMTm5lczFITVZnZENwTXNZVFhvNEkxX2Z3Wm52N0ZsWXdSOXBoYnY2SUdyNWpkZXJ2TWJJVDZsTkU3cWREdldWVUJ6MnlDZFE3LS1BZ2lDVUhaMjQxNzFxaTNFV0c2emVNUlV1THJ5SkNZMWhxSS1SdGx5OTd1Mm1kNXFxcnlCekxmdUFUTndvMjdOU25FWTBXZWJpSUNxTzRzSm16bmNpc3JTUTJnbEZ2ZDM4akxtcWhLUy1GYy0zcEluYjRiakdSWUZXeEZJQW1YOENvaGhPeFhSUkZHbVJyMGJKcE1ucC0xUkM1Q1I2ZzQ0UmZ1ZnNJYXFEZmNpZkZOaHRqSHg?oc=5
 
 - Attacked in India, Kashmiri shawl sellers choose between safety, livelihood - Al Jazeera
   Al Jazeera: Kashmiri shawl sellers
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVRtMkl6MVN2aDV1aUdyVVFGSFhwbFdpclREZzZDZTJjTzIyYTBRZUlFNmY2Smo2TXpJa0VRTWRtUDFndTBlUW1PRnpRM2drUTR4UC1GR3Y1T2VWVlViY2g2cnFCMTFoN0lsWjMwWlZzWjdaT1gxZ0RmNTdEXzBoWkhwaGE4dW5mMnZESTR1VXJ5Y0JxUDNmZVgyWXA3Z19Bc0ptWjRycHI2bXNwRWVoVWFmeTHSAboBQVVfeXFMTk8wSW9Eckg2di1nMHZKMElpVnJ3bjJkUlFsY19rMW55YjdWcmEzV0UtYURuVWM4UXFIVmVyT2NPS2lMSi1QNE5YeXo1Mmo4Q0dUSjg0Z0RVRk5yeHRTWmVsdkswRjJpSkJPX3lmaGpQSFE4a2dmR3pfbWk5Z3RwQXdCUGd0cnhLS1FxUDJHWVhLM3JDNTFKaXVfbnhYT3N6azR6dnRkVEtzbG5EWkNPSk9WV0NSLVF2eWZ3?oc=5
 
-- India qualification scenario: How can Team India reach T20 World Cup 2026 semi-final after West Indies wi - The Times of India
-  The Times of India: How can Team India reach T20 World Cup 2026 semi-
-  🔗 https://news.google.com/rss/articles/CBMirgJBVV95cUxQUGFjU0xEVXFjRGZ1VlNQeC04LXhFV29WZXRlNDJrdFkyYkczZlNmQ2o4dUF6dEhVZWwzZ1NRZmRTcGxtUHo5ZFVRZnNwOXJFeENfNjQ0eXZJZFFSSGtYVTExd1FtWUlTaXBwQ1VJRzBXYjNDcEc1bjkzekYyRlotcjZoLUVkQ0Y4dTRNT2R5bVgtcV9uU0RuNzhsOUo4MGhNRFp5c0s3ZWY3Qy1OcDY1aGcyZkd3V3UyLUVHakk5bkhJQTctQlh4aGNoY2NZWElEbm1RZl9laDlmQ2xlTS1vRlpjd3lRUVV3bzJtZnZPZUVHUDdrUl8yUC1LblE0S2E4NGZ3WkZiMVBIUVFOTTVfeTk4V1JRX1piLV9OTFhCMDBPTGo5VWsxY3RCRTB1Z9IBswJBVV95cUxPdHlGMGJBMzFQeVhwSmJEWGJVSjAwbEF4WFk2MHZnRWszNUo0RXhHcy1jSmRaZnBja2k2ajZwSzV3ZnZFc1dKckhsUkJLRm5XbldnblhpS1h6RzdpaWhnbXVWa2I1QVNFdDZsMmdDb01UMUhnem9nbnR3MGFtNEJGTWVrRnRaTm96a0xvOXRtV2wtSVNqbWJUQ0RfSEREWUJMeXNydHVwZUdPLThFTzlpdXhQUmtlN0sycDl6XzRwUjd5Yk83Mm04Z1FMUVFKMFNsY2hhZWZjRTZBSjZral96MlNOel9iSlZLckxhT01zd3RJLW5HMkJlTkxEaVN6RTh5cFJ5dDh5d1A4Vm81Wm1UanlULXU0YjRyQllkbll2ZEJxYUZ0SHNOVmhSY0RodG9SdFl3?oc=5
-
-- Olympian Arif Khan mentoring India’s rising stars - The Times of India
-  Olympian Arif Khan mentoring
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVlxbU9HS1NDVW11c2NMWDlDb0EtNEJ6dW9PWFA4V1NHaDVuemhWXzBWa21OdDVKT1hpakJVVmVVMGNyT2NvT2pKUkR6ckg3TUtBTXE2LVlBMU5xay1KbWVtUFRjeDhmZGd4bEtEY2Y2MTRvMXBfZngxcWlWU1Y2ZkZ6RENLb0x6c0dsUFA4ZVNCdkJqLVl1bzh2Wm9xUUxrVkRiR3J2aXlnbmNtbjF4bGN3WUNTNU9KNVFOaldTONIBxAFBVV95cUxOZXVXNWhhbTg1LWx4YlhQc05uV21CMERnNGN5Mml0RjJMMXlndlRKcUFlNGJEZ3FydXdKQnpocXVvbXpHdFdUUjRaUVBzRUNVNkhBZlI2WW5SN3NHMFI4QUVTQVJPZXRrXzVfU3ZLOFZhNmtIVGNjMndXeEhHWk8zZXhHSGdKSnZzNWNIQUYwdHU4OXJLcVlIVlgtcFdtRlR3VmJNZjdEYTJfRGVRNERTRXlWWGJycm44Z2Z2UU9WbTY0YWpV?oc=5
-
-- India’s spice exports breached 1.8m tonnes last year - The Times of India
-  India’s spice exports breached 1.
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMXF1UGlmdDZyZkNCZXJ1RVEyeWF2S0RoNTVtME1Nd1FYYmFtVkJpYzVzUTY1TVlXQzVVeGEwUVhXYU5RaVBPeU1PZks0RElvUVFZUXhKdVRnei0zUXFqYUFCaFhpdjF1V08xZTFLLW9jR0RpaHNtajNMUUhYU1F5Qm9MM1c0dHpsZWJtSXJCYVQ4eDBka2JKcC00SjJKVWtINDRweWtVeHZuWXhhSHFQYzB3YmxXaGVTck5ncjFhZk12QdIBxwFBVV95cUxOVWNtTHlUZHB2aWd5eWgtVVVIVTQ0eFB4RzI3YmdkaDBxRVhLMTlmT1MyQm9vVXhuVkxyanl4UXBWNmRzUUxLX051SkRudDVMUklqT3ZGd01XZ3hIVHJ4MVRrdWxNc2dBaDZnRzRwTlVOaEV4TUs0Nm9GODRUbjljM3lhQzhTdjh2RS11eFJ5SU80MVNuUmdvSmhOVG9qTUV5TDAzVWJTVW5yN0RYVVY5Mi1wUEhJMzNpR1pieElsOFlrdjJDSjdn?oc=5
+- India tells citizens to leave Iran by all available means - The Times of India
+  India tells citizens to leave Iran by all available means.
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObzBUSXQ2R1dfLVloSWJUZUVodVdORjlfSG92VkV6bHJ2dU1Dd2xuTWtWRlBKR3B1bW0zYjd3RXUtSWNCQnZHdUJqRTVVMDFrUENRRnppMDRac1lOR1pWc0xOaTcxS0pCRUtYcVRnSmprbW1kelUzZUZaZ09SOGdjSl9GaG40cVFDNFkxOWlDXzNDWFBXZTlpRE5CYW9lZi0wVW81NVRnWDZCdzBrTklDYWpNQk1MYWg0ZkpxSU51Z3Rpb0nSAcgBQVVfeXFMTmVzTi1FbzZRdXpEWFkwSTFGNmtHUzN0VzFEOWhFSVN0SGl1dnZjM29rZjBEZFRweHZIcWJ1dEE4N0dyUUFDZU9pSHVLbUM3WEJLM2k5SW9vN0FtVUlsLUNlSVJ4SE44elc3b0NnZ0xsclVQYXFtMVoyY3cySUpYLVNfc1VRRGlobWlWdWk1c1k2T2VpRzBranBMRUtPazJpcFQ4aVJzajBlZU1CZU1ONDAySWlhRG5UVHphdHlBVzRCUlVJdXdqQkg?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-24 01:47:47 UTC_
+_Last updated: 2026-02-24 06:58:34 UTC_
