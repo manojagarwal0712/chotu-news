@@ -1,144 +1,184 @@
 # 📰 Daily News Summaries
 
-- After 27 years, EC to host meet with state election commissioners today: Here is what’s on agenda
+- Brother-in-law’s ‘friends’ gangrape woman at gunpoint in Uttarakhand: Police
   
-  🔗 https://indianexpress.com/article/india/election-commission-national-round-table-conference-electoral-management-today-10548791/
+  🔗 https://indianexpress.com/article/india/uttarakhand-gangrape-udham-singh-nagar-woman-assaulted-10549822/
 
-- NCRTC announces fresh parking fees at stations as 82-km Namo Bharat corridor fully opens
+- No further extension to NITI CEO BVR Subrahmanyam, IAS officer Nidhi Chhibber assigned additional charge
   
-  🔗 https://indianexpress.com/article/india/namo-bharat-station-parking-charges-cars-bikes-delhi-meerut-corridor-10548587/
+  🔗 https://indianexpress.com/article/india/niti-ceo-bvr-subrahmanyam-ias-officer-nidhi-chhibber-10549614/
 
-- Gold Today Rate, February 24: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- Rise in online searches for mental health support, Kolkata tops counselling and therapy centre category: Report
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-february-24-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10548687/
+  🔗 https://indianexpress.com/article/india/mental-health-support-online-search-kolkata-counselling-therapy-centre-category-report-10549612/
 
-- Centre to fast-track deportation of foreign drug peddlers: Why MHA wants courts to drop ‘petty’ cases
+- AIADMK’s Palaniswami promises Rs 10,000 for every household if voted back to power
   
-  🔗 https://indianexpress.com/article/india/centre-to-fast-track-deportation-of-foreign-drug-peddlers-why-mha-wants-courts-to-drop-petty-cases-10548583/
+  🔗 https://indianexpress.com/article/india/aiadmk-rs-10000-household-relief-palaniswami-2026-poll-promises-10549487/
 
-- Drama in Patna as Andhra police arrive to arrest Bihar IG, denied transit remand by local court
+- The Kerala Story 2: Filmmakers present 33 alleged conversion survivors at Delhi event, say ‘our job is to show the problem’
   
-  🔗 https://indianexpress.com/article/india/drama-in-patna-as-andhra-police-arrive-to-arrest-bihar-ig-denied-transit-remand-by-local-court-10548307/
+  🔗 https://indianexpress.com/article/india/kerala-story-2-conversion-survivors-delhi-event-10549411/
 
-- Meta users survey found 19% of young teens on Instagram report seeing unwanted nude images
+- Galaxy S26, S26 Plus, S26 Ultra to debut tomorrow: What to expect from Samsung’s 2026 flagship lineup
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-users-survey-found-19-of-young-teens-on-instagram-report-seeing-unwanted-nude-images-10548613/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-s26-series-specs-price-design-launch-date-india-10549401/
 
-- Apple to shift some Mac Mini production to Houston from Asia: Report
+- Lunar Eclipse 2026 Date and Time in India: When and where to watch in India
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-to-shift-some-mac-mini-production-to-houston-from-asia-report-10548611/
+  🔗 https://indianexpress.com/article/technology/science/lunar-eclipse-2026-date-and-time-in-india-when-and-where-to-watch-in-india-10549777/
 
-- IBM posts steepest daily drop since 2000 after Anthropic says AI can modernize COBOL
+- India IT industry surpasses $300 billion amid AI‑driven challenges, openings
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/ibm-posts-steepest-daily-drop-since-2000-after-anthropic-10548553/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/india-it-industry-surpasses-300-billion-amid-ai%e2%80%91driven-challenges-openings-10549689/
 
-- Anthropic accuses Chinese AI labs of distilling Claude; Elon Musk calls it ‘guilty’
+- Nothing Phone (4a) first look: New phone flaunts a subtle, more refined design
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-accuses-chinese-ai-labs-claude-distillation-10548537/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/nothing-phone-4a-first-look-new-phone-flaunts-a-subtle-more-refined-design-10549369/
 
-- Amazon’s Panos Panay on ‘unlearning’ Alexa speak: Why your next Echo won’t just wait for commands
+- After 17 years, WhatsApp may finally let you schedule messages
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/panos-panay-amazon-alexa-ai-future-devices-interview-10547715/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-message-schedule-feature-10549009/
 
-- JSW to put  ₹65 crore Dulux royalty savings back into India's competitive paints business to widen market share
-  Akzo Nobel India, now part of the JSW Group, ends brand fees for Dulux, freeing up substantial funds. This capital will fuel growth and challenge rivals
-  🔗 https://www.livemint.com/companies/jsw-65-crore-dulux-royalty-paints-market-share-akzo-nobel-decorative-paints-11771906941753.html
+- Apple rents more premium office space in Bengaluru
+  With this additional lease, Apple's total area in Embassy Zenith is now 389,
+  🔗 https://www.livemint.com/companies/apple-office-space-bengaluru-embassy-zenith-embassy-office-parks-reit-11771927370405.html
 
-- Who is Dario Amodei? Did you know Anthropic CEO was a former OpenAI employee?
-  Dario Amodei, the CEO and co-founder of Anthropic, can be credited with the companies
-  🔗 https://www.livemint.com/companies/people/who-is-dario-amodei-did-you-know-anthropic-ceo-was-a-former-openai-employee-11771910772079.html
+- Tata Group defers N Chandrasekaran's re-appointment as Chairman: Report
+  Tata Group has reportedly deferred its decision on Chairman N Chandrasekaran's reappointment to his role for another five years. Several board members back the executive, putting forth their arguments.
+  🔗 https://www.livemint.com/companies/news/tata-group-defers-n-chandrasekarans-re-appointment-as-chairman-report-11771933002742.html
 
-- Cipla Health targets 3x growth in 5 years, bets big on beauty and wellness
-  Cipla plans to leverage its blockbuster brands and strong tier-II to tier-VI presence to scale up as competition intensifies.
-  🔗 https://www.livemint.com/companies/cipla-health-3x-growth-5-years-beauty-wellness-personal-care-startups-brands-11771855222179.html
+- Deepinder Goyal's LAT Aerospace acquires Gurugram-based startup Sharang Shakti to boost in-house defence capabilities
+  LAT Aerospace has acquired Gurugram-based early-stage defence robotic startup named Sharang Shakti. The company plans to boost its in-
+  🔗 https://www.livemint.com/companies/news/deepinder-goyals-lat-aerospace-acquires-gurugram-based-startup-sharang-shakti-to-boost-in-house-defence-capabilities-11771922675118.html
 
-- Gaudium IPO: Related party deals, tax demands at fast-growing IVF chain raise governance questions
-  Gaudium IVF is set to launch its IPO but governance experts are flagging intra-group financial transactions and tax investigations. A promoter's substantial share sale and
-  🔗 https://www.livemint.com/companies/news/india-gaudiam-ipo-related-party-transactions-tax-demands-11771732924114.html
+- Why Warren Buffett thinks companies do not need economists | Watch
+  Warren Buffett believes you do not need an economist to make decisions on buying stocks or companies. He views short-term economic outlook and predictions as superfluous
+  🔗 https://www.livemint.com/companies/people/why-warren-buffett-thinks-companies-do-not-need-economists-watch-11771922737741.html
 
-- Anthropic allows some employees to participate in  ₹54,577 crore share sale — Here's all you need to know
-  Anthropic is offering some current and former employees the ability to sell shares in the company at a valuation of about $350 billion.
-  🔗 https://www.livemint.com/companies/news/anthropic-6-billion-rs-54577-crore-share-sale-ex-current-employees-participate-350-billion-valuation-claude-ai-fundraise-11771901969958.html
+- Mint Explainer: Is this the right time for Carlsberg to list in India?
+  Chief executive Jacob Aarup-Andersen said in a February earnings call that the company is assessing an initial public offering in India. If it goes through, it will make Carls
+  🔗 https://www.livemint.com/companies/mint-explainer-is-this-the-right-time-for-carlsberg-to-list-in-india-11771907706705.html
 
-- Jewellery stock edges higher despite the stock market crash. Do you own?
-  PC Jeweller's share price rose 1.2% to  ₹10.12 despite a market downturn. The subsidiary will focus on precious metal extraction and related activities.
-  🔗 https://www.livemint.com/market/stock-market-news/jewellery-stock-pc-jeweller-share-price-edges-higher-despite-the-stock-market-crash-do-you-own-11771914372953.html
+- Gaudium IVF IPO Day 3: Issue closes with over 7x bids on strong NII, retail demand. Check latest GMP and other details
+  Gaudium IVF IPO, which opened last week, closed with strong investor interest, being oversubscribed 7.27 times. The company's FY25
+  🔗 https://www.livemint.com/market/ipo/gaudium-ivf-ipo-day-3-issue-closes-with-over-7x-bids-on-strong-nii-retail-demand-check-latest-gmp-and-other-details-11771935414267.html
 
-- Pace Digitek shares soar over 4%. Why is this newly-listed stock rising despite the market crash?
-  Pace Digitek share gained 4% to  ₹189.55. The company shares made their debut on Dalal Street in early October.
-  🔗 https://www.livemint.com/market/pace-digitek-shares-soar-over-4-on-order-from-reliance-why-is-this-newly-listed-stock-rising-stock-market-crash-11771911829631.html
+- Software will eat AI! HSBC argues AI can't threaten enterprise software
+  HSBC believes software vendors will lead the charge in leveraging AI for value creation. The financial giant believes demand for such solutions will surge.
+  🔗 https://www.livemint.com/market/stock-market-news/software-will-eat-ai-hsbc-argues-ai-cant-threaten-enterprise-software-11771934159008.html
 
-- From Filatex Fashions to IDFC First Bank— These are the top most traded stocks on the NSE today
-  Filatex Fashions, Vodafone Idea, and IDFC First Bank were among the most actively traded
-  🔗 https://www.livemint.com/market/stock-market-news/from-filatex-fashions-to-idfc-first-bank-these-are-the-top-most-traded-stocks-on-the-nse-today-11771911466699.html
+- PNGS Reva Diamond Jewellery IPO: Issue receives healthy response on Day 01, booked 0.59 times; GMP signals muted debut
+  PNGS Reva Diamond Jewellery's IPO, which opened on February 24, was subscribed 0.59 times by day's end. IPO GMP today is  �
+  🔗 https://www.livemint.com/market/ipo/pngs-reva-diamond-jewellery-ipo-issue-receives-healthy-response-on-day-01-booked-0-63-times-gmp-signals-muted-debut-11771930746506.html
 
-- Stocks to buy for short term: From HDFC Life to Kalpataru Projects— Experts recommend these 6 shares
-  Experts recommend six shares poised for growth in the short term. From HDFC Life to Kalpataru Projects, discover the stocks backed by strong technical indicators and bullish trends.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-from-hdfc-life-to-kalpataru-projects-experts-recommend-6-shares-amid-stock-market-crash-11771910187196.html
+- US stock futures recover after Monday's drubbing on tariff, AI-led jitters; IBM shares in focus
+  US stock futures pointed at a positive opening on Tuesday following a massive selloff seen in the last session. The selloff was driven by
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-markets-today-us-stock-futures-recover-after-mondays-drubbing-on-tariff-ai-led-jitters-ibm-shares-in-focus-11771934766149.html
 
-- PNGS Reva Diamond Jewellery IPO Day 1 LIVE: Issue booked 5% so far — Check GMP, review and other details
-  The IPO is entirely a fresh issue of equity shares with no offer-for-sale component. The price band has been set at  ⁹367 to  ₹
-  🔗 https://www.livemint.com/market/stock-market-news/pngs-reva-diamond-jewellery-ipo-gmp-today-pngs-reva-diamond-jewellery-subscription-status-price-band-24-february-2026-11771909751026.html
+- Clean Max Enviro Energy Solutions IPO Day 2: Issue sees weak demand, booked 45%; GMP signals flat listing
+  The IPO of Clean Max Enviro Energy Solutions, valued at  ₹3,100 crore, opened on February 23 but has only garnered 45% subscriptions
+  🔗 https://www.livemint.com/market/ipo/clean-max-enviro-energy-solutions-ipo-day-2-issue-sees-weak-demand-booked-45-gmp-signals-flat-listing-11771928400113.html
 
-- New Delhi declaration on AI Impact signatories reach 91 as three more nations join
-  The global consensus on artificial intelligence governance expanded as three additional nations joined the New Delhi Declaration on AI Impact. The total number of signatories
-  🔗 https://www.livemint.com/technology/new-delhi-declaration-on-ai-impact-signatories-reach-91-as-three-more-nations-join-11771915996652.html
+- How technology is reshaping our minds - Financial Times
+  How technology is reshaping
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1ERHFmZ3g4WWFTSlV3ekFORjdaYjBfT1ViR0ZlTkxXdHlMYVZ2TWEwLVVoVm9ZUDVBZXQyTHRPanpDdEdBVlFFNWRDN3BjWnpobHE5THFzX0hYWXhHSEV2UHFlalhoLVhWS2dHUnJ4aHQ?oc=5
 
-- What is Claude Code Security? The new Anthropic AI tool that wiped billions off cybersecurity stocks
-  Anthropic has launched Claude Code Security, an AI tool that scans code for vulnerabilities and suggests patches. The new tool led
-  🔗 https://www.livemint.com/technology/tech-news/what-is-claude-code-security-the-new-anthropic-ai-tool-that-wiped-billions-off-cybersecurity-stocks-11771906327079.html
+- As technology changes jobs, LinkedIn identifies the skills that will keep professionals employable - People Matters - HR News
+  As technology changes jobs, LinkedIn identifies the skills that will keep professionals employable
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSmNrNDFVVHYzOWJnQUNKeVd1a3Awd0h3WEF6RDNPNV82V0hOMDZ1cWxla0lYeFZzaFhKZGdqaGFOVWdSUFRNdlVEMUZZdDdTOEpYanFRRVlJQWNsS3lrSXpVeGlseTB3dVkxNExQMUJ1ZmJGTWhJTFUyaEt0bENtOUZYM3IxTm5DalNUM0pnbXF6MzJKcTBUM2dsLXFvcjk0NjRHdlQ3el8xUlV4NUI0NjBlaDFMTmV6a21pZXF3SjVQOFFUTXZkUVhvazdzQy1hTklVc0pxa1ZUQ3BjLVQ2U3dMamJfRlJsZTAxRDhkOA?oc=5
 
-- Months ahead of launch, Apple reportedly begins iPhone 18 Pro mass production testing: Here's what to expect
-  The iPhone 18 Pro and 18 Pro Max have entered mass production. The new phones are expected to feature a brand new red colour option, improved camera and processor.
-  🔗 https://www.livemint.com/technology/gadgets/months-ahead-of-launch-apple-reportedly-begins-iphone-18-pro-mass-production-testing-heres-what-to-expect-11771902535122.html
+- North Eastern Science & Technology Cluster (NEST), About, Components - Vajiram & Ravi
+  Vajiram & Ravi are
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxPWm5XTjQ2R1IxWnNjWlJFSXpmVGRocEZCSGh0dGhGaVpaTHhrUXBpQkdVR1VhNmRZRmR6dUh4UzAyNnFLUlRQdVpUY3ptLXVGVHZaNFZuVm5DcnBLT3ZEUVNWRUxldTl2NjAxNjY3QjF2NVlrbnBCU0tfdC1vV0RhN3MxTEdFQkVoVy01dA?oc=5
 
-- US AI giants accuse Chinese rivals of mass data theft
-  US AI giants accuse Chinese
-  🔗 https://www.livemint.com/technology/us-ai-giants-accuse-chinese-rivals-of-mass-data-theft-11771875011912.html
+- India IT industry surpasses $300 billion amid AI‑driven challenges, openings - Reuters
+  India IT industry surpasses $300 billion
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmU0ZjRELXZKLS1YZFlnOHZiTUsySjEwZ19KeEhITmxPa0JuZy11Rk01S2FWa3R4bGlJbTJ3SWplbHB6eFRKVkxJdnpsaktlSEJwc29uVmVrNjVfejJuMEN3WkF4ZEllTVdqT2todDRVRTdMMW5pVWFQOWNHTV9LVFNZaGd3QTFJbVk2WjBGazZ1NERDNlg3S1lZZy01R2xFTVFzS1lzWFhlTXF6OHpVNw?oc=5
 
-- Sam Altman says AI will ‘automate the whole economy’, shares message for students at IIT Delhi
-  OpenAI CEO Sam Altman warned that AI will automate scientific progress and the economy. He advised students to stay up to date with AI tools and focus on understanding human needs.
-  🔗 https://www.livemint.com/technology/tech-news/sam-altman-says-ai-will-automate-the-whole-economy-shares-message-for-students-at-iit-delhi-11771849044415.html
+- Built to scale: How CEOs must align people, technology and capital for sustainable growth - ETHRWorld.com
+  "Built to scale: How CEOs must align people, technology
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZUVLYkFXQVowMGFpTVJQRnZqbWNnTVM0SXVBa0hnYXloNDFOQk1wMDRBY09tQmxKdnZKaTlTRjluTWxqcmJ0X2kxQ3dRSi1kc3d2am9MQ3pEUGs4NE1tazdocFlDcEdRSjk1WmhqOFprUWJIdGNoQUh2UGlfcUFrX3VOY1UtVUJ2am4wTmhzckNwdVdNZWUxQkRzRC1FdjBPdldZWHZxYVRHUlRPZjJFT1JkTjJVZUNlTmIxWDlTcmhfWEZFN1BuR3o1a1dBeE02OG5oWnYwcDZNQkZoZE9aN1hiWEtQUdIB6wFBVV95cUxPZFpNejdvZVRyRDE3VTNlMG1pdnJEa0RhaVBBVzVacU5YNDhyUEp4V3VSVlVaRDktUEV1bDZmYmVjOVFpd001OGJNNXdNWTlRSTdMMVg0WkNZSTJaMkwxX085QWdCaGdSYmh1MTVmZnFCbmRDMXVaWEZPdHdtWGhkU1U0QzBMbGVhaHo5NDVadFk2cUJadDk4YUZhLTZVY1hzNHFwZUY4UmhsMExQVFRaRUdvT2pic0tGSlFuZkdBeFJFaDktU1J1dzFacGpFTXA0aEdFYjRqdkVOdGxSLS1fRlFzeWltbWVsSHZj?oc=5
 
-- Bitcoin hovers near $63,000 as global risk-off sentiment weighs on crypto markets
-  Global risk aversion impacted crypto markets, with Bitcoin and Ethereum seeing declines. Major altcoins also slipped, contributing to a 2% drop in the global crypto market cap.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hovers-near-63000-as-global-risk-off-sentiment-weighs-on-crypto-markets/articleshow/128742210.cms
+- European stocks fall as Trump's tariffs take effect at lower than expected 10% - CNBC
+  European stocks fall as Trump's tariffs take effect at lower
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOMXlDVXBvYmFHcVo2WjBfdkNXTEtDTVoxcUF4bDVnaFVmMUgzdHNaa0tqVHJwdFlqN1JDQVd4NDR1cnM3YmdzMVRKUU1lYUt1ZXBwSzltYndXeGhiQ19NcDdxUWppRThTVXlXajd4RHpvaVRtZWhNX0JHdUYtc2NTNUgwZFlvRHpQZy1VaEd3V2puYmRpUTlkc2IwOWsyZ9IBowFBVV95cUxPclFGdVBXVl9sV2JNOEh1Y3FuakNKS2Ezc3RIXzhHTHlvMU1kNWpOaUMwV2pHMmxmQTdObG9IY3hkemNHSVFfck4xblQ0Z1IyanVGN1VhQWIwYmQ5cmNMLXoyX1Bna21OM2hBUEJ4b3haY0dWYlZreEhpYlVQVUtNSmljbERfRHRQRzNfR1dEWnkzMzRsNTRrcVBWakZhU0Yzb0dZ?oc=5
 
-- AI coming for cybersecurity too? Anthropic fear hits another corner of Indian stock market
-  Cybersecurity stocks in India and the US fell sharply after Anthropic launched Claude Code Security. Indian counters dropped up to 20%, while global peers also declined.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ai-coming-for-cybersecurity-too-anthropic-fear-hits-another-corner-of-indian-stock-market/articleshow/128742419.cms
+- Asia markets trade mixed after Trump revives tariff threat and AI fears hit tech - CNBC
+  " target="_blank">Asia markets trade mixed after
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQTTYyRzB4ajFiOUdIQ2UxSjJrNVVHR2ZDTVJfX1F6UDVwbnZ2RjFfN1dUcVM4SnRkM0w2S3poQ0tEYk5GZUd0bEFlSjFEUXRhd2hBQmRmako0eXVsb0xEWU1NUGZxRXA2bWVaeGlPYm9udEhtM1lfUlFuUW5VV0dYMV9LT1pjTHYxRk5XV2VuWm1uV0UzV0NpMHk1b1IxU28waE9CYlVvejA2Ui01aVhvS1l4N2ZEWkZLR1pDSFNwdUJucHV0MmfSAcsBQVVfeXFMTTVFWjRLOU11TUl3cml6a0FHZjREVks2RnlXYzgtRS1uWW55NnBvZUNnMHlNcGlfVk1UOTF2dW12SW1GWjR0dExvZ0RQRkstUk51ak45b1FHeE9UdU5id3JENTZ3a3BONnRIajVmN0VtdnZ5eHdtZFJreVl4M1JicHFyWUZOSUloRlcwWUl1VV9nSzl1S3NYck5nYlkzSDRVQ2FVc1FsMnRRZjdNYXVtQ2czQWJuSWdncUs3bDNMU09NaFJ6ZGV0Y1N2LWc?oc=5
 
-- 4 Vijay Kedia stocks crash up to 20% on fears of AI-led disruption
-  Shares of four companies backed by ace investor Vijay Kedia tumbled up to 20% on Tuesday. Investors reacted to AI startup Anthropic’s new security tool.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/4-vijay-kedia-stocks-crash-up-to-20-on-fears-of-ai-led-disruption/articleshow/128742349.cms
+- Stock Market News, Feb. 23, 2026: Dow Falls More Than 800 Points on AI, Trade Uncertainty - WSJ
+  The Dow fell more than 800 points on Feb. 23.
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVFjQjNkT0hhLVFtc0pVWlVLOFZKSW9FbU1qRXJaMDFqSUV1VWtnUDByS2Uxd0RLTkdPY3JEV2tTbG0xaDFJN0JZNmdBMWZ6eE85bEFnRzgzay1CZVhWaDFZNmlLWW0ybFV0S2V1ZHJLay1XN0ZvRTFrdkNMNTdqb0FZN3Zpb3NEa2pPNnlrT2lYQQ?oc=5
 
-- Market volatility to persist amid geopolitical and tariff uncertainty: Amnish Aggarwal
-  Indian markets face uncertainty driven by US tariff concerns and geopolitical factors, leading to cautious sentiment. AI's impact on IT services remains unclear, while digital lending platforms show potential for financial services.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/market-volatility-to-persist-amid-geopolitical-and-tariff-uncertainty-amnish-aggarwal/articleshow/128741881.cms
+- Market Highlights: Sensex plummets 1,069 pts, Nifty below 25,450; TechM, HCL Tech drop 6% each - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMilgJBVV95cUxOYzVRMXVuTzRoMjh0V3BXb2MweXlmNUhqMmx6TF9oOHRBa2IwQVdYQWtQMjgyWW1nbFhLZm5FNkxMMGdxZzI3X0c4Vncyb3ltWkJpNHlWcURic1FXUlZ1TVlobHZzVHI5Uj
+  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxOYzVRMXVuTzRoMjh0V3BXb2MweXlmNUhqMmx6TF9oOHRBa2IwQVdYQWtQMjgyWW1nbFhLZm5FNkxMMGdxZzI3X0c4Vncyb3ltWkJpNHlWcURic1FXUlZ1TVlobHZzVHI5UjRsTG5wMkZRbW56TlBPM1YwM0lNa2ZUUko4TzdhLW5RNDVZMmh3cTlZUVU4bnY3aEMyZTY4eHFydVctc0F4RjY2SHVUSl84TG1FSEpsVGdNVUdpUWduLVVyRXhzd3FXZDc1R01MMVQ5d1hHNW0wdXA3cjV1dk04TWNZV2cyWWZjRnY5RlFzeFQ4TEVfeWMwbmFZYUwtZUpTQ1JSYXpTaHJ3cGREOVptdmpnazNsUdIBmwJBVV95cUxQZnl1NWlNTnBMZ0cwY1lqVGtFRkIwZVZUdlpIS2NsYmZCZEpuZzhOVWkwVnFxNmtBR1BaZjZhSE42czlsRV9tVVhqT2NJb0FPZzVfY2tTLTBkb0hoVEtCZ0E1elJEUzRsN1NzN3QtanVmcU5GVlFabjBDdU82TG10TGFfRHd3emVuN2Y5QzhKclAwVE5naGtDN2JjUkRLdG51ZGtJbGFfTHN0bVFVSUFxcGZhT3NSRFdFYjRfbXZfcFlCZDQtUEc1bDljNGpNVXFUNXRzc1V3M29TRzVicFZaMFlPcnRwZjRoejVYRWVhU3pmV3Q5R0VaVkxiQmE5U2d3ank1V3o0Ml9tWF8wNlRlbW9oa0ROSktJeGpR?oc=5
 
-- IBM shares sink 13%, record steepest drop in 25 years after Anthropic says AI can modernise COBOL
-  IBM shares plunged 13.2% Monday, marking their steepest single-day drop in over 25 years. AI startup Anthropic said its Claude Code tool can modernise COBOL, the
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ibm-shares-sink-13-record-steepest-drop-in-25-years-after-anthropic-says-ai-can-modernise-cobol/articleshow/128741710.cms
+- Weekly Markets Monitor: A silver lining playbook? - World Gold Council
+  The World Gold Council is the world
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOV0RuVC1qLTdUQnpRSlBrbXQxaDIybzgzbnVkYXNNbjFSUEdETENxMFZTNnJzaERSN2FsdzRNX0Vla0J5V0gxTW9JSzNaVmdsSzJQdGIzRU5ST1h4bVpsV2tRbzFjRkNsbUQzcW9CRXRIUTFxeEtRaThNbUNxdFZRTHR2VjhQd1NVVFc2R25Zem5KX042OTB1TA?oc=5
 
-- India unveils first anti-terror policy PRAHAAR, addressing cyber threats - The Hindu
-  India unveils first anti-terror policy
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQU5kemFnS0c1ZGo3a1Z1WUVUOTA1WmVQRUlMa0huMWFIVVdFUXh0MndFSjhMdmtEZWdzLUpYQUgxd0JiY0VCOEZjR21PMl9QQ1JDVHpobF9jb3RzYUJtbURoc25ncUdyR0dwRVp2eFk2cnhGa1BqS3lJbDZjck9UM0s3UUh1WHJCeTdHbjRremNmSnB4SVJ2TmFkMlE4Sm42RklIdk44czB3d9IBsAFBVV95cUxPb3FxOUJrLVdZMzNTT2xYX2JmWEVITkNidEtGZ0ZmRDNhdmRuNG1MZDRvb2Y5c2lnVElraFp2V1I4NW9HTjhrMXhGbWZxd0lmZ3NPVUtFYmx4blJYT3BjWTJjcHJZSklDZk9SdEYyOXNYQlp0amhZV01FMGR6NVFWN2djaFYyYkZfdVhTQklaTDdDa3F4eGVxNVVSam55Ulk3TkdOVGhrejdOZjhzVk54UA?oc=5
+- Kashmir, spying, demolitions: How Modi’s India embraced ‘Israel model’ - Al Jazeera
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmZmc0pZUGZiSHFzZ0RtSk9iTnVURDNrZTczdDdDMjNpM2wyYWp1cnVvQTduNjRhZnZQcC1IX0w2MVczV2tUMlJkSGxOdEszSXB0VTdudU1ZYVAyTFVMTXVtQzYtaHB6QVlDdmJxQkM0MG9DYkdRMkdSLWVCc3lKUUtKd3RWOTlEaWxQQ3pTMmluTDJSTEZGOTQ0cjUzODRGa2FlLVpvZkoxaFhKSmfSAbMBQVVfeXFMT3dhdlVoSGVKMkVSbUc0MTNTNzRIOWVaVks5NFF4QTU2eTd6Nm5qZVlsdTdVSkVmYjZmekNzYlhPU2lwQUdzS05tNnZIeENrSGstODhZdVUyOXo3N2h3NEdVM1Y0Tmt4dmtEcndiZ2VTbHctWWxqQUh3c3FCN1VTTDRDNFNydzFlQW1zTVFLUEgtaU9YbS1rX2FFOTJRT3B5Q1NaOHg1WXMtRFhBRFJXYkVhWlk?oc=5
 
-- Rain Or Snow, Inside India's 326-Day Mountain Op To Hunt 7 Pak Terrorists - NDTV
-  'Rain Or Snow' Inside India's 326-Day
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmJ1YlI1MzVPRVdaeTBjMTFwM2ZtSHFSSExuSGIzNS1vWDJQMHhrWDdVdmxOWlJ6emNMc3BpZ3FqX09EejV5cHhtTzNmSjB2cVM0dGFkQ093VFBPMWwtNHdZM25HbjYwRk80WExGSEtRa2ZKNmNuQTFSaVFwV09ORTlSeEJxTUI0MVh4WTlhTFZBS2JwN1dZN3E5TVN6bTR1SVJmMmdPSENEVU5aLWtBZE9zUzhaaExCQjZ5UXdHMHBJRUIxWkJXc2JVbTRmUdIB1gFBVV95cUxQbEJDU1BPRXZuMjRvSTJnSkZ1aU9qMm93TmRROV83YnM2LUg2NmNDS3g4OGdwbFRRbXJ2WWFCOGVQQk01dXFxZFp0eTVqNWxJdkRjLTBrZC1Rck1QeVM0TllUdEU2WFJMNTQzMUlKRElOVDVzN1NJWG1UNFZtUXVvbFJOM2ZTX3RKSHE4RnQ4cW40T1JISTNpREVaQjRPZS0tSkN0ZTAxUlRPOVVYMWVQT0tqcUxSR29iOUVRb3FQLWNpMEZkWmFvMXVTVE0teFZRRjJJRUNR?oc=5
+- India's New Policy 'Prahaar' To Bring Down The Hammer On Terror - NDTV
+  India's New Policy 'Prahaar'
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOODhOLXI2UkhTTDJVajJPbFgzNGstWUF4ZVBjcXZHNGZRNW1pMm5pVUdZUVBiRlR0VUJ4LUxfdG1FT3hWSkxjdEw0UEpYbmwyaEJ2a0ctZmt6bmkwbWw2d3lmVVIwdTdLZDV2Q2RtdktXYzVwcWpQa3RnSE1PcXIzV3hLOEY5TExhbExLWUVreGl5djlDdVBjM2N5bXFVNk15Z2tmcjZDalNKLVJ0NXQxUjY1RXVQZmJtRmVR0gHDAUFVX3lxTE5kUHFrQUlNY254YTJPM0c2MnUtTGo2RlFoTk9OLW1aS3RpeXFSNzhBb2VPOVpEOXNQQ094WkR6aFR0dEJYN0lUMkF2ZERXWVdqN1RkMVRZekNVa0lXXzh2aDJXWkFkMzZuWURxVC01RlE4RU45NHI0Y0w3bENKQkVwMG5pc0Uxeng4RzBJaTJENHp4TC1uSGF5OUpLczZIeWI5QTFIa3pkQnY2NTJlVEg1Qi1MTnNEcm16Snl2UEVudm1MVQ?oc=5
 
-- India rolls out first anti-terror doctrine ‘PRAHAAR’; cross-border terror, cyber and drone threat in focu - The Times of India
-  India rolls out first anti-terror doctrine ‘PRAHAAR’
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMFBoaV8zSkJEVDRjcGtlVUc5b0x4M2pnRVRzTXpWZkRSeHRCZlVzelhKZFhPeC1oOG5jMU9VTFdPWWljWlFBLXQ1Qk9HWlVFZ1oxb1p4TlRCZG53eFVKVUwzTHJYWm56TkFUZzRKa0tUVzV3M2w3VTRsQl90VEVJQVR6NWdnRWVHUHdLeVJvdzBWSUx4Y0Z5UHFZaUlCM1FtLWs0V1g1UXlpUG5iX05mZHp4YzQzV3RUX2pzd3VlaTVmOENDZUp4elEza1VkS1VBdjctZGstcWxZLUp0TWkzaVlUYlowOGEyVFdNZVZITV95Y0RLdWltNmFRTExmcDjSAYQCQVVfeXFMTm5lczFITVZnZENwTXNZVFhvNEkxX2Z3Wm52N0ZsWXdSOXBoYnY2SUdyNWpkZXJ2TWJJVDZsTkU3cWREdldWVUJ6MnlDZFE3LS1BZ2lDVUhaMjQxNzFxaTNFV0c2emVNUlV1THJ5SkNZMWhxSS1SdGx5OTd1Mm1kNXFxcnlCekxmdUFUTndvMjdOU25FWTBXZWJpSUNxTzRzSm16bmNpc3JTUTJnbEZ2ZDM4akxtcWhLUy1GYy0zcEluYjRiakdSWUZXeEZJQW1YOENvaGhPeFhSUkZHbVJyMGJKcE1ucC0xUkM1Q1I2ZzQ0UmZ1ZnNJYXFEZmNpZkZOaHRqSHg?oc=5
+- Major blow for India! Captain skips fielding after knee injury, doubt over next match - The Times of India
+  The Times of India reported that India captain Mahendra Singh Dhoni
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLUllX0Nub3dPLW9mdnM5Skt1MGhzMTNrV1Yzel84S3Z4UzlKVWNmOVFCQ3dvRWczTmk3SkdDc2h6MlBfNWlXc2hxRUo0ZTZadUtVSWViQ0h2YWNrWUxtRFRCczVEUlI3TE1DV25sRWVQaVI1SHJOTm0ySHZIZklzakp1VE1Vd1RwSktqUVRNazhlcFF2R25MMlAyNnJKMXZPb0swNDE2cEpEWFlPWmlzQ1E0bHk2NWhrd3pNck1NZDR0T2FzRE5lOUljZGtuX3d5QTlDRDFoRmlzT0VtQ3lsMDlqTXFWT05LZENuTDNBeXpCckpqRkg5NNIB_gFBVV95cUxPcmZUZ2RsTlVXaWdDb3IzNU43M1pkNUtoaHNYVXJxVFdLWnZibWM1Wm12cFBobXNDNHRRaWVWOU9uZ1h3V2ZsVW1FZVM3Z3ExVDVPRkpNa0hWbjN2QkwzX1N4SzNUVmFnYUFUYjlMdHRYM2FvNkdpaW9rLWJJclhVY1NQN3BFd3JqNDVzSTJXNWNVUlNBMXhES1BPNUVtUkpIaGY3RHNLWmZhLVNvaUlxak9fMFZ2a0xJWk5ZaGItNkVNaE5NWHlzdkVXLVQyRzc1eHJtaEgzejg5dGlCTkxwMjc5NlVJZzUwNjFJblAyWWduMWczZUwyUXFNcjdHUQ?oc=5
 
-- Attacked in India, Kashmiri shawl sellers choose between safety, livelihood - Al Jazeera
-  Al Jazeera: Kashmiri shawl sellers
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVRtMkl6MVN2aDV1aUdyVVFGSFhwbFdpclREZzZDZTJjTzIyYTBRZUlFNmY2Smo2TXpJa0VRTWRtUDFndTBlUW1PRnpRM2drUTR4UC1GR3Y1T2VWVlViY2g2cnFCMTFoN0lsWjMwWlZzWjdaT1gxZ0RmNTdEXzBoWkhwaGE4dW5mMnZESTR1VXJ5Y0JxUDNmZVgyWXA3Z19Bc0ptWjRycHI2bXNwRWVoVWFmeTHSAboBQVVfeXFMTk8wSW9Eckg2di1nMHZKMElpVnJ3bjJkUlFsY19rMW55YjdWcmEzV0UtYURuVWM4UXFIVmVyT2NPS2lMSi1QNE5YeXo1Mmo4Q0dUSjg0Z0RVRk5yeHRTWmVsdkswRjJpSkJPX3lmaGpQSFE4a2dmR3pfbWk5Z3RwQXdCUGd0cnhLS1FxUDJHWVhLM3JDNTFKaXVfbnhYT3N6azR6dnRkVEtzbG5EWkNPSk9WV0NSLVF2eWZ3?oc=5
+- Evening news wrap: Kerala renamed Keralam; rioting charges added against 'shirtless' IYC protestors & mor - The Times of India
+  The Times of India reports on the violence in the state.
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNNVdhWHdGU1c3QmpkMVBCYTBCdWJJcHRIX3ZKUjloZ1ZySGprcVR3TzdtLUNoZWw5dGVObkxjNW0xc0ppc2JFclZXV29GSVJ1ekNFMGpjQ1NxUzdSM3g0NTJVUUdFbHhHVEd5SlFOZkxvcVB0WlZOUUNheTFsbXJLUW13UnJxMHZJVFNkU2t6MDUtSVBBOU5sQkZMU1JSSW5PWTJramg5MDYwczNBUk5rU0pHdWdvMmNfZUVIbjJudE5VWjFkTGtFYVNJSDhLdE1tZG5obmNsdEZyUWY4Qnd3VWdaRnlCSmlXX0U4WWRlUTV3T3ZReHU4M3Q4YzQ3UVV50gGGAkFVX3lxTE5ZcjlUMjJNSnFOQ1JiYjF1LXdzYTRxS0VtWVRDTmczb3hDbmRIRUJoYjkxand3SG1MNkhDd0ZmOFQ2cGdQM0pFUTVpYUVxOGhIX2NlZURLWUpiNDIwaUZrNG1UbWVVVFFjQmt0N1dHWlFCbXNhbDN3Uk5lLUE1VDdUd01RVm56OWozanR5TmlmTXVveGp3eTNQUVIwalpZVTh5RWtHZzVmMHhVU1ZNSzY2dmFFQS1obHAyUGwyWGNLVUFFTUNtTzFIa0k2WktBTEZPZE1BSFdLa2R0X0pzeGhfMUxVellXQmlLNm43UVVRMkt4ZktPVGRRUWh6bEd6dGVmeTRPdHc?oc=5
 
-- India tells citizens to leave Iran by all available means - The Times of India
-  India tells citizens to leave Iran by all available means.
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObzBUSXQ2R1dfLVloSWJUZUVodVdORjlfSG92VkV6bHJ2dU1Dd2xuTWtWRlBKR3B1bW0zYjd3RXUtSWNCQnZHdUJqRTVVMDFrUENRRnppMDRac1lOR1pWc0xOaTcxS0pCRUtYcVRnSmprbW1kelUzZUZaZ09SOGdjSl9GaG40cVFDNFkxOWlDXzNDWFBXZTlpRE5CYW9lZi0wVW81NVRnWDZCdzBrTklDYWpNQk1MYWg0ZkpxSU51Z3Rpb0nSAcgBQVVfeXFMTmVzTi1FbzZRdXpEWFkwSTFGNmtHUzN0VzFEOWhFSVN0SGl1dnZjM29rZjBEZFRweHZIcWJ1dEE4N0dyUUFDZU9pSHVLbUM3WEJLM2k5SW9vN0FtVUlsLUNlSVJ4SE44elc3b0NnZ0xsclVQYXFtMVoyY3cySUpYLVNfc1VRRGlobWlWdWk1c1k2T2VpRzBranBMRUtPazJpcFQ4aVJzajBlZU1CZU1ONDAySWlhRG5UVHphdHlBVzRCUlVJdXdqQkg?oc=5
+- 'Scrap the deal': Rahul Gandhi dares PM Modi to abandon trade pact, repeats 'sold India' claim - The Times of India
+  'Scrap the deal': Rahul Gandhi dares PM Modi to abandon trade pact.
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZzBpY1otQ1ZSN1BLSlM0SC0xX3hRZGloVkFoYlJPaW5mSUVMVjlHREZhVnBQb3ZaZmZDSXoyeXVnTjduOWZwdkRNR0RoZ3FzZVdKeHhod09WUWdJR044V0htM0w3S2lNNlZYTzY5WFVCQTh4ZUd6WTRwcUNjSzdGZXlJMkJRNjh6SEllZENZTmhNOVB5Q0JaZGVNaXJ4Y1pocjg4bDdwZXVoNkQ0SWZpRWVkdE5hcUJxaUdieEtpdlBNV0x0a0JrQVNhclktNEdsak1PTmlKdk1wbUhhUGc3NzVQTdIB6AFBVV95cUxNTU41bVhkOE5CdXBfb0E5eEE5V0xjVHRZOHk4ZVpZQXhuMlZoUUQ0MDR0MjFuV1hLSDU1WEU2RGlaTkRGUVJIZHdIaFdZaFV1VFUyb0JPQmlpX0VUbF9Cb2Z4Q3p4U0FMRFdocXJuWUh0ZGtCT0JBSHNJckdhV0NjLUhtNk9fRm1PM0ZCakFTOG9SbUhxV3JjYlN3aE9iTGxYTDBZUGg5a1VYWTBrVUEtdllIRlJYUkMtNlBieGtPYnUwdW1rTEpMdWc2UWpPSGJ3WWZudnYycElLa2pCYzRzZXhYT2JLTDJL?oc=5
+
+- Kashmir, spying, demolitions: How Modi’s India embraced ‘Israel model’ - Al Jazeera
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmZmc0pZUGZiSHFzZ0RtSk9iTnVURDNrZTczdDdDMjNpM2wyYWp1cnVvQTduNjRhZnZQcC1IX0w2MVczV2tUMlJkSGxOdEszSXB0VTdudU1ZYVAyTFVMTXVtQzYtaHB6QVlDdmJxQkM0MG9DYkdRMkdSLWVCc3lKUUtKd3RWOTlEaWxQQ3pTMmluTDJSTEZGOTQ0cjUzODRGa2FlLVpvZkoxaFhKSmfSAbMBQVVfeXFMT3dhdlVoSGVKMkVSbUc0MTNTNzRIOWVaVks5NFF4QTU2eTd6Nm5qZVlsdTdVSkVmYjZmekNzYlhPU2lwQUdzS05tNnZIeENrSGstODhZdVUyOXo3N2h3NEdVM1Y0Tmt4dmtEcndiZ2VTbHctWWxqQUh3c3FCN1VTTDRDNFNydzFlQW1zTVFLUEgtaU9YbS1rX2FFOTJRT3B5Q1NaOHg1WXMtRFhBRFJXYkVhWlk?oc=5
+
+- India's New Policy 'Prahaar' To Bring Down The Hammer On Terror - NDTV
+  India's New Policy 'Prahaar'
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOODhOLXI2UkhTTDJVajJPbFgzNGstWUF4ZVBjcXZHNGZRNW1pMm5pVUdZUVBiRlR0VUJ4LUxfdG1FT3hWSkxjdEw0UEpYbmwyaEJ2a0ctZmt6bmkwbWw2d3lmVVIwdTdLZDV2Q2RtdktXYzVwcWpQa3RnSE1PcXIzV3hLOEY5TExhbExLWUVreGl5djlDdVBjM2N5bXFVNk15Z2tmcjZDalNKLVJ0NXQxUjY1RXVQZmJtRmVR0gHDAUFVX3lxTE5kUHFrQUlNY254YTJPM0c2MnUtTGo2RlFoTk9OLW1aS3RpeXFSNzhBb2VPOVpEOXNQQ094WkR6aFR0dEJYN0lUMkF2ZERXWVdqN1RkMVRZekNVa0lXXzh2aDJXWkFkMzZuWURxVC01RlE4RU45NHI0Y0w3bENKQkVwMG5pc0Uxeng4RzBJaTJENHp4TC1uSGF5OUpLczZIeWI5QTFIa3pkQnY2NTJlVEg1Qi1MTnNEcm16Snl2UEVudm1MVQ?oc=5
+
+- Major blow for India! Captain skips fielding after knee injury, doubt over next match - The Times of India
+  The Times of India reported that India captain Mahendra Singh Dhoni
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLUllX0Nub3dPLW9mdnM5Skt1MGhzMTNrV1Yzel84S3Z4UzlKVWNmOVFCQ3dvRWczTmk3SkdDc2h6MlBfNWlXc2hxRUo0ZTZadUtVSWViQ0h2YWNrWUxtRFRCczVEUlI3TE1DV25sRWVQaVI1SHJOTm0ySHZIZklzakp1VE1Vd1RwSktqUVRNazhlcFF2R25MMlAyNnJKMXZPb0swNDE2cEpEWFlPWmlzQ1E0bHk2NWhrd3pNck1NZDR0T2FzRE5lOUljZGtuX3d5QTlDRDFoRmlzT0VtQ3lsMDlqTXFWT05LZENuTDNBeXpCckpqRkg5NNIB_gFBVV95cUxPcmZUZ2RsTlVXaWdDb3IzNU43M1pkNUtoaHNYVXJxVFdLWnZibWM1Wm12cFBobXNDNHRRaWVWOU9uZ1h3V2ZsVW1FZVM3Z3ExVDVPRkpNa0hWbjN2QkwzX1N4SzNUVmFnYUFUYjlMdHRYM2FvNkdpaW9rLWJJclhVY1NQN3BFd3JqNDVzSTJXNWNVUlNBMXhES1BPNUVtUkpIaGY3RHNLWmZhLVNvaUlxak9fMFZ2a0xJWk5ZaGItNkVNaE5NWHlzdkVXLVQyRzc1eHJtaEgzejg5dGlCTkxwMjc5NlVJZzUwNjFJblAyWWduMWczZUwyUXFNcjdHUQ?oc=5
+
+- Evening news wrap: Kerala renamed Keralam; rioting charges added against 'shirtless' IYC protestors & mor - The Times of India
+  The Times of India reports on the violence in the state.
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNNVdhWHdGU1c3QmpkMVBCYTBCdWJJcHRIX3ZKUjloZ1ZySGprcVR3TzdtLUNoZWw5dGVObkxjNW0xc0ppc2JFclZXV29GSVJ1ekNFMGpjQ1NxUzdSM3g0NTJVUUdFbHhHVEd5SlFOZkxvcVB0WlZOUUNheTFsbXJLUW13UnJxMHZJVFNkU2t6MDUtSVBBOU5sQkZMU1JSSW5PWTJramg5MDYwczNBUk5rU0pHdWdvMmNfZUVIbjJudE5VWjFkTGtFYVNJSDhLdE1tZG5obmNsdEZyUWY4Qnd3VWdaRnlCSmlXX0U4WWRlUTV3T3ZReHU4M3Q4YzQ3UVV50gGGAkFVX3lxTE5ZcjlUMjJNSnFOQ1JiYjF1LXdzYTRxS0VtWVRDTmczb3hDbmRIRUJoYjkxand3SG1MNkhDd0ZmOFQ2cGdQM0pFUTVpYUVxOGhIX2NlZURLWUpiNDIwaUZrNG1UbWVVVFFjQmt0N1dHWlFCbXNhbDN3Uk5lLUE1VDdUd01RVm56OWozanR5TmlmTXVveGp3eTNQUVIwalpZVTh5RWtHZzVmMHhVU1ZNSzY2dmFFQS1obHAyUGwyWGNLVUFFTUNtTzFIa0k2WktBTEZPZE1BSFdLa2R0X0pzeGhfMUxVellXQmlLNm43UVVRMkt4ZktPVGRRUWh6bEd6dGVmeTRPdHc?oc=5
+
+- 'Scrap the deal': Rahul Gandhi dares PM Modi to abandon trade pact, repeats 'sold India' claim - The Times of India
+  'Scrap the deal': Rahul Gandhi dares PM Modi to abandon trade pact.
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZzBpY1otQ1ZSN1BLSlM0SC0xX3hRZGloVkFoYlJPaW5mSUVMVjlHREZhVnBQb3ZaZmZDSXoyeXVnTjduOWZwdkRNR0RoZ3FzZVdKeHhod09WUWdJR044V0htM0w3S2lNNlZYTzY5WFVCQTh4ZUd6WTRwcUNjSzdGZXlJMkJRNjh6SEllZENZTmhNOVB5Q0JaZGVNaXJ4Y1pocjg4bDdwZXVoNkQ0SWZpRWVkdE5hcUJxaUdieEtpdlBNV0x0a0JrQVNhclktNEdsak1PTmlKdk1wbUhhUGc3NzVQTdIB6AFBVV95cUxNTU41bVhkOE5CdXBfb0E5eEE5V0xjVHRZOHk4ZVpZQXhuMlZoUUQ0MDR0MjFuV1hLSDU1WEU2RGlaTkRGUVJIZHdIaFdZaFV1VFUyb0JPQmlpX0VUbF9Cb2Z4Q3p4U0FMRFdocXJuWUh0ZGtCT0JBSHNJckdhV0NjLUhtNk9fRm1PM0ZCakFTOG9SbUhxV3JjYlN3aE9iTGxYTDBZUGg5a1VYWTBrVUEtdllIRlJYUkMtNlBieGtPYnUwdW1rTEpMdWc2UWpPSGJ3WWZudnYycElLa2pCYzRzZXhYT2JLTDJL?oc=5
+
+- Kashmir, spying, demolitions: How Modi’s India embraced ‘Israel model’ - Al Jazeera
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmZmc0pZUGZiSHFzZ0RtSk9iTnVURDNrZTczdDdDMjNpM2wyYWp1cnVvQTduNjRhZnZQcC1IX0w2MVczV2tUMlJkSGxOdEszSXB0VTdudU1ZYVAyTFVMTXVtQzYtaHB6QVlDdmJxQkM0MG9DYkdRMkdSLWVCc3lKUUtKd3RWOTlEaWxQQ3pTMmluTDJSTEZGOTQ0cjUzODRGa2FlLVpvZkoxaFhKSmfSAbMBQVVfeXFMT3dhdlVoSGVKMkVSbUc0MTNTNzRIOWVaVks5NFF4QTU2eTd6Nm5qZVlsdTdVSkVmYjZmekNzYlhPU2lwQUdzS05tNnZIeENrSGstODhZdVUyOXo3N2h3NEdVM1Y0Tmt4dmtEcndiZ2VTbHctWWxqQUh3c3FCN1VTTDRDNFNydzFlQW1zTVFLUEgtaU9YbS1rX2FFOTJRT3B5Q1NaOHg1WXMtRFhBRFJXYkVhWlk?oc=5
+
+- India's New Policy 'Prahaar' To Bring Down The Hammer On Terror - NDTV
+  India's New Policy 'Prahaar'
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOODhOLXI2UkhTTDJVajJPbFgzNGstWUF4ZVBjcXZHNGZRNW1pMm5pVUdZUVBiRlR0VUJ4LUxfdG1FT3hWSkxjdEw0UEpYbmwyaEJ2a0ctZmt6bmkwbWw2d3lmVVIwdTdLZDV2Q2RtdktXYzVwcWpQa3RnSE1PcXIzV3hLOEY5TExhbExLWUVreGl5djlDdVBjM2N5bXFVNk15Z2tmcjZDalNKLVJ0NXQxUjY1RXVQZmJtRmVR0gHDAUFVX3lxTE5kUHFrQUlNY254YTJPM0c2MnUtTGo2RlFoTk9OLW1aS3RpeXFSNzhBb2VPOVpEOXNQQ094WkR6aFR0dEJYN0lUMkF2ZERXWVdqN1RkMVRZekNVa0lXXzh2aDJXWkFkMzZuWURxVC01RlE4RU45NHI0Y0w3bENKQkVwMG5pc0Uxeng4RzBJaTJENHp4TC1uSGF5OUpLczZIeWI5QTFIa3pkQnY2NTJlVEg1Qi1MTnNEcm16Snl2UEVudm1MVQ?oc=5
+
+- Major blow for India! Captain skips fielding after knee injury, doubt over next match - The Times of India
+  The Times of India reported that India captain Mahendra Singh Dhoni
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLUllX0Nub3dPLW9mdnM5Skt1MGhzMTNrV1Yzel84S3Z4UzlKVWNmOVFCQ3dvRWczTmk3SkdDc2h6MlBfNWlXc2hxRUo0ZTZadUtVSWViQ0h2YWNrWUxtRFRCczVEUlI3TE1DV25sRWVQaVI1SHJOTm0ySHZIZklzakp1VE1Vd1RwSktqUVRNazhlcFF2R25MMlAyNnJKMXZPb0swNDE2cEpEWFlPWmlzQ1E0bHk2NWhrd3pNck1NZDR0T2FzRE5lOUljZGtuX3d5QTlDRDFoRmlzT0VtQ3lsMDlqTXFWT05LZENuTDNBeXpCckpqRkg5NNIB_gFBVV95cUxPcmZUZ2RsTlVXaWdDb3IzNU43M1pkNUtoaHNYVXJxVFdLWnZibWM1Wm12cFBobXNDNHRRaWVWOU9uZ1h3V2ZsVW1FZVM3Z3ExVDVPRkpNa0hWbjN2QkwzX1N4SzNUVmFnYUFUYjlMdHRYM2FvNkdpaW9rLWJJclhVY1NQN3BFd3JqNDVzSTJXNWNVUlNBMXhES1BPNUVtUkpIaGY3RHNLWmZhLVNvaUlxak9fMFZ2a0xJWk5ZaGItNkVNaE5NWHlzdkVXLVQyRzc1eHJtaEgzejg5dGlCTkxwMjc5NlVJZzUwNjFJblAyWWduMWczZUwyUXFNcjdHUQ?oc=5
+
+- Evening news wrap: Kerala renamed Keralam; rioting charges added against 'shirtless' IYC protestors & mor - The Times of India
+  The Times of India reports on the violence in the state.
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNNVdhWHdGU1c3QmpkMVBCYTBCdWJJcHRIX3ZKUjloZ1ZySGprcVR3TzdtLUNoZWw5dGVObkxjNW0xc0ppc2JFclZXV29GSVJ1ekNFMGpjQ1NxUzdSM3g0NTJVUUdFbHhHVEd5SlFOZkxvcVB0WlZOUUNheTFsbXJLUW13UnJxMHZJVFNkU2t6MDUtSVBBOU5sQkZMU1JSSW5PWTJramg5MDYwczNBUk5rU0pHdWdvMmNfZUVIbjJudE5VWjFkTGtFYVNJSDhLdE1tZG5obmNsdEZyUWY4Qnd3VWdaRnlCSmlXX0U4WWRlUTV3T3ZReHU4M3Q4YzQ3UVV50gGGAkFVX3lxTE5ZcjlUMjJNSnFOQ1JiYjF1LXdzYTRxS0VtWVRDTmczb3hDbmRIRUJoYjkxand3SG1MNkhDd0ZmOFQ2cGdQM0pFUTVpYUVxOGhIX2NlZURLWUpiNDIwaUZrNG1UbWVVVFFjQmt0N1dHWlFCbXNhbDN3Uk5lLUE1VDdUd01RVm56OWozanR5TmlmTXVveGp3eTNQUVIwalpZVTh5RWtHZzVmMHhVU1ZNSzY2dmFFQS1obHAyUGwyWGNLVUFFTUNtTzFIa0k2WktBTEZPZE1BSFdLa2R0X0pzeGhfMUxVellXQmlLNm43UVVRMkt4ZktPVGRRUWh6bEd6dGVmeTRPdHc?oc=5
+
+- 'Scrap the deal': Rahul Gandhi dares PM Modi to abandon trade pact, repeats 'sold India' claim - The Times of India
+  'Scrap the deal': Rahul Gandhi dares PM Modi to abandon trade pact.
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZzBpY1otQ1ZSN1BLSlM0SC0xX3hRZGloVkFoYlJPaW5mSUVMVjlHREZhVnBQb3ZaZmZDSXoyeXVnTjduOWZwdkRNR0RoZ3FzZVdKeHhod09WUWdJR044V0htM0w3S2lNNlZYTzY5WFVCQTh4ZUd6WTRwcUNjSzdGZXlJMkJRNjh6SEllZENZTmhNOVB5Q0JaZGVNaXJ4Y1pocjg4bDdwZXVoNkQ0SWZpRWVkdE5hcUJxaUdieEtpdlBNV0x0a0JrQVNhclktNEdsak1PTmlKdk1wbUhhUGc3NzVQTdIB6AFBVV95cUxNTU41bVhkOE5CdXBfb0E5eEE5V0xjVHRZOHk4ZVpZQXhuMlZoUUQ0MDR0MjFuV1hLSDU1WEU2RGlaTkRGUVJIZHdIaFdZaFV1VFUyb0JPQmlpX0VUbF9Cb2Z4Q3p4U0FMRFdocXJuWUh0ZGtCT0JBSHNJckdhV0NjLUhtNk9fRm1PM0ZCakFTOG9SbUhxV3JjYlN3aE9iTGxYTDBZUGg5a1VYWTBrVUEtdllIRlJYUkMtNlBieGtPYnUwdW1rTEpMdWc2UWpPSGJ3WWZudnYycElLa2pCYzRzZXhYT2JLTDJL?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-24 06:58:34 UTC_
+_Last updated: 2026-02-24 12:59:23 UTC_
