@@ -1,46 +1,18 @@
 # 📰 Daily News Summaries
 
-- Lives lost in Jharkhand plane crash: 2 young pilots, a family that scrambled to arrange air ambulance
-  
-  🔗 https://indianexpress.com/article/india/lives-lost-in-jharkhand-plane-crash-2-young-pilots-a-family-that-scrambled-to-arrange-air-ambulance-10550446/
+- Mindspace REIT pre-leases Hyderabad building to Chalet Hotels for  ₹350 crore luxury hotel
+  The 330-room hotel at Mindspace Madhapur will
+  🔗 https://www.livemint.com/companies/news/mindspace-reit-pre-leases-hyderabad-building-to-chalet-hotels-for-350-crore-luxury-hotel-11771993219019.html
 
-- House panel condemns ‘unfortunate incident’ at AI Impact Summit
-  
-  🔗 https://indianexpress.com/article/india/house-panel-condemns-unfortunate-incident-at-ai-impact-summit-10550555/
+- BookMyForex denies data leak claims, says customer funds are safe
+  A report on Wednesday flagged allegedly unauthorised transactions in US dollars and Brazilian reals. This suggests that hackers may have gained access to sensitive card details.
+  🔗 https://www.livemint.com/companies/news/bookmyforex-yes-bank-prepaid-forex-cards-11771995565127.html
 
-- Govt blocks five OTT platforms for streaming obscene content
-  
-  🔗 https://indianexpress.com/article/india/govt-blocks-five-ott-platforms-for-streaming-obscene-content-10550501/
+- Who is David Luan — Amazon’s AI Lab lead who joined after startup Adept was acquired by retail giant, is now leaving?
+  David Luan, Amazon’s AI Lab lead, is leaving the company. He joined after his co-founded startup Adept was acquired by the retail giant.
+  🔗 https://www.livemint.com/companies/people/david-luan-who-amazon-ai-lab-lead-joined-after-startup-adept-acquired-retail-giant-resigned-why-artificial-intelligence-11771985324444.html
 
-- PM Modi on Israel visit from today, strategic ties upgrade on table
-  
-  🔗 https://indianexpress.com/article/india/pm-modi-on-israel-visit-from-today-strategic-ties-upgrade-on-table-10550526/
-
-- ECI, SECs adopt declaration to synergise poll processes
-  
-  🔗 https://indianexpress.com/article/india/eci-secs-adopt-declaration-to-synergise-poll-processes-10550497/
-
-- The 10,000-year hard drive: Microsoft’s new breakthrough uses glass to store data forever
-  
-  🔗 https://indianexpress.com/article/technology/science/microsofts-new-breakthrough-uses-glass-to-store-data-forever-10550000/
-
-- iQOO 15R with Snapdragon 8 Gen 5, 7,600mAh battery launched in India starting at Rs 44,999
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/iqoo-15r-specs-design-camera-battery-price-india-launch-rs-44999-10549924/
-
-- Galaxy S26, S26 Plus, S26 Ultra to debut tomorrow: What to expect from Samsung’s 2026 flagship lineup
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-s26-series-specs-price-design-launch-date-india-10549401/
-
-- Lunar Eclipse 2026 Date and Time in India: When and where to watch in India
-  
-  🔗 https://indianexpress.com/article/technology/science/lunar-eclipse-2026-date-and-time-in-india-when-and-where-to-watch-in-india-10549777/
-
-- India IT industry surpasses $300 billion amid AI‑driven challenges, openings
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/india-it-industry-surpasses-300-billion-amid-ai%e2%80%91driven-challenges-openings-10549689/
-
-- Can Paramount's $31-a-share offer sparks new bidding war for Warner Bros. amid Netflix deal?
+- Can Paramount's $31-a-share offer spark new bidding war for Warner Bros amid Netflix deal?
   Warner Bros. Discovery Inc. said a new $31-a-share buyout offer from Paramount Skydance Corp. could lead to a better deal than its
   🔗 https://www.livemint.com/companies/news/paramount-skydance-31-share-offer-bidding-war-warner-bros-discovery-investors-netflix-deal-hollywood-studio-hbo-ellison-11771980059738.html
 
@@ -48,37 +20,25 @@
   New CEO Ajay Kapur has taken charge at Suzlon as the company reshuffles leadership. Long-time chief J.P. Chalasani moving to steer diversification.
   🔗 https://www.livemint.com/companies/news/suzlon-energy-rejigs-leadership-growth-diversification-renewable-wind-energy-11771933759092.html
 
-- Gen Z and millennials power India's rapid upgrade cycle, making old brand loyalty a thing of the past
-  Long-term ownership is now shifting to a 2-3-year upgrade cycle. Indian consumers, especially young urban professionals,
-  🔗 https://www.livemint.com/companies/india-consumers-rapidly-upgrade-appliances-furniture-pepperfry-kitchenware-11771923219574.html
+- SpiceJet share price hits 10% lower circuit after block deal reports. Do you own?
+   SpiceJet share price slid 10%, hitting the lower circuit in Wednesday's trading session. Reports revealed that 8.4
+  🔗 https://www.livemint.com/market/stock-market-news/spicejet-share-price-hits-10-lower-circuit-after-block-deal-reports-do-you-own-11771998030423.html
 
-- Why BWH Hotels is betting on tier 2 India to hit  ₹500 crore revenue
-  BWH Hotels expects its revenue in India to grow to  ₹300 crore by FY27. The company is set to open more hotels, expanding its portfolio to 100 by FY
-  🔗 https://www.livemint.com/companies/news/bwh-hotels-india-expansion-best-western-india-growth-plans-worldhotels-india-11771931975004.html
+- Avoid IT stocks amid AI scare, current valuations; banks set for strong growth over 3-5 years: Vikas Gupta, OmniScience
+  Any selection process should not focus only on the near term revenue and earnings growth, says Vikas Gupta.
+  🔗 https://www.livemint.com/market/stock-market-news/avoid-it-stocks-amid-ai-scare-current-valuations-banks-set-for-strong-growth-over-3-5-years-vikas-gupta-omniscience-11772000771951.html
 
-- Saks Global CEO Says Top Brands Are Shipping Despite Bankruptcy
-  Hundreds of brands, including Burberry and those owned by luxury powerhouses LVMH and Kering, have resumed or continued shipping to the troubled retailer
-  🔗 https://www.livemint.com/companies/saks-global-ceo-says-top-brands-are-shipping-despite-bankruptcy-11771965411718.html
+- Bandhan Bank shares extend bull run to fourth day, hit 7-month high. What’s driving the rally?
+  Bandhan Bank stock climbed 1.3% to  ₹182.60, continuing its bull run and achieving a 17% gain in February. Despite a
+  🔗 https://www.livemint.com/market/stock-market-news/bandhan-bank-shares-extend-bull-run-to-fourth-day-hit-7-month-high-what-s-driving-the-rally-11771999485913.html
 
-- Indian stock market: 8 key things that changed for market overnight - Gift Nifty, US-Iran tensions to Nasdaq rally
-  Gift Nifty was trading around 25,672 level, a premium of nearly 72 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-8-key-things-that-changed-for-market-overnight-gift-nifty-us-iran-tensions-to-nasdaq-rally-11771957659449.html
+- Multibagger IPO: NSE SME-listed cybersecurity stock doubles allottees' money in five months
+  TechD Cybersecurity doubled investors' funds in five months post-IPO, but shares fell over 12% amid AI replacement concerns. CEO Sunny Vaghela emphasized
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-ipo-nse-sme-listed-cybersecurity-stock-doubles-allottees-money-in-five-months-11771997877404.html
 
-- Gold, silver rates today: Gold prices climb to $5,200/oz, silver prices trade at $88. What's next for precious metals?
-  Spot gold prices was up 0.48% to $5,202 per ounce, while spot silver prices rose nearly
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-prices-climbs-to-5-200-oz-silver-prices-trade-at-88-whats-next-for-precious-metals-11771980303120.html
-
-- LIC holds these three penny stocks. Should you?
-  LIC is famous for its blue-chip holdings, but maintains a long tail of low-priced stocks. These are sometimes not active buys but holdings that have
-  🔗 https://www.livemint.com/market/stock-market-news/lic-penny-stocks-lic-stock-holdings-11771933301760.html
-
-- Stock recommendations for 25 February from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 25 February. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-25-february-marketsmith-india-sensex-nifty-11771936028138.html
-
-- Tug of war: can banks save the Nifty from IT’s AI blues?
-  IT's share of India Inc.'s profit pool has slipped to at least a three-year low. BFSI's contribution climbed to a 3-year high in the December-
-  🔗 https://www.livemint.com/market/stock-market-news/india-market-it-bfsi-profit-share-ai-disruption-nifty-analysis-11771930864374.html
+- 4650% surge in five years! Multibagger EV stock jumps 8.5% following relief rally on Dalal Street
+  Mercury Ev-Tech's stock surged 8.5% on February 25, reaching  ₹35.55. The company reported Q3 net sales of  �
+  🔗 https://www.livemint.com/market/stock-market-news/4650-surge-in-5-years-multibagger-ev-stock-mercury-ev-tech-share-price-up-4-on-dalal-street-rally-fiis-raise-stake-11771999424381.html
 
 - Russia opens criminal investigation against Telegram app founder Pavel Durov
   Russia opens criminal investigation against
@@ -104,149 +64,81 @@
   &nbsp;&ngt;<font color="#6
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOam1VaUUycHM3Nlllakd2ZFo0MDZOaUJGNndoNE1jNGFRM0hRNWdTVEJTd0ZGUnlNblBzQWNHSnZ4ODJOek5oR0NrVmtCdjVLVzBMQXRSSWhPUmREZEJDaXdlMEhFZHNEYUtBZUNRTF9ZMHN4WDg4QjE1Ymp5WHkxUHRoTXNQXzNVR1I3aFpVaEtJajlqM0JQMUlTSml2LXE0NTZLbzhFLVV2Ujk3bTNrRVhn?oc=5
 
-- Why did stock market crash today? Nifty50 ends below 25,450; BSE Sensex over 1,000 points down - top rea - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirgJBVV95cUxOVFk4eEkwT3BUaUVBQ2p1NW9fenpZR1FzU19PWWRjMDdCZXJueU5lR1pPUV9JMHc3b2dsT2liZnF6UUNQWEU2MkVUUmFOcXVlRVhLLVotZVEyX2RqWHR0bVdScTNOVUEwbS
-  🔗 https://news.google.com/rss/articles/CBMirgJBVV95cUxOVFk4eEkwT3BUaUVBQ2p1NW9fenpZR1FzU19PWWRjMDdCZXJueU5lR1pPUV9JMHc3b2dsT2liZnF6UUNQWEU2MkVUUmFOcXVlRVhLLVotZVEyX2RqWHR0bVdScTNOVUEwbS1OeGIyZXhucHBZMjFDdC1JblJ5U3RlclF2cWpXXzVGRHF6VGEtRmdqSnAxejdfMVFlTExzSEhsdnJEc2tqc2haZGZSeEVfelF4bU4wQkJEMTlBT0JrTC1kSFhIS0Z5NGp5dG41ekJOWUlZODFYVkFYeDVHblNXeHJSTUFubDVyVEp0UU9NQkozelppMWI4VkcxU055bVdUUFVJZG13ZHFMaldxODNYSHdkdkQyWmVZUmFheGhnMmQwMF9BckdpQ1IyRTdQZ9IBswJBVV95cUxOVGEwVFZ3ek5RREFWaEtjNVdPRldyU084YUppMDR2dm5VX2pLcG1jVndrNW1YSnR6dHRpeWoySHRzRjR0UXhyU1JESUV1Mk9fdmg1cmNaVlVlVUlqaUxtbGhLYjg3aU0xWTU2VGQtX3N5RUlZZWMyMlVtdnQxMFR0NjFLU3Fldm5uN181eGtFM2hPZUJ5WVNRNTN2bUMzUnBSMHp6Y0hGc3AwWWRQdlFCSGJWdVJYOXRsQks1TGlZNW9leE1xTWxhUGxWSU1WalFjMUhUM0ZQNk0xT2ZPRVhQSlVXTEtXZ3pZWGZVNVZIVnlyYUsxX3IyZzlWc3VROUpxNWt4Smk0MFp3OGxoLThvT2dLRGx1dUE4bkw0aUtaZmdremlJcEpDUXBMemhwV1N5VVYw?oc=5
+- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex rallies over 500 pts, Nifty above 25,600; IT ... - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxNYUdzWjd1ek9HbTFkM20zMHdKNTY2TV9VMF9vRmtlQzdzZ1daN0k5OHI2bzRYRjA1dDVsRmk4WXFHUkY0TXRhZ2ZuUmpuWEdkUkV2SlFIT3FpYmlwcUxzbGw1R0tMWkxwMm
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNYUdzWjd1ek9HbTFkM20zMHdKNTY2TV9VMF9vRmtlQzdzZ1daN0k5OHI2bzRYRjA1dDVsRmk4WXFHUkY0TXRhZ2ZuUmpuWEdkUkV2SlFIT3FpYmlwcUxzbGw1R0tMWkxwMm1UcDkzOGc3V0hycV9vSHlvT3R2eGtpMTB6bzN6UFNJZm1zMFBkVXhuaE1sS2J0aGxrNzFWN2xPUlJDVHk0YTlJcWhBTjM3UWxpc2tYeGxTZmpHWlMyVnk0MXhNU0ZlQ2xucFc0NV8yRlhlVUVTX0Y5SEp1a01OZURLV2YzZFVqSHJoTm1JWnpVNkxqVnNCUWU0NHQ3M3RGUWpzXzE0TG9hUdIBjwJBVV95cUxNVEpabV9NMGdnOTNZVlJaNkpyVkpMVHJ6N19lbUw5ZXk1MThhdm9LaGVCRnNuT2EzakttbklDTDljTlZBSTNVamxCWUpFcW9ldU9CbFQ3WGhTLXBjVzU3YWdjdUJNRE85WWhZOThSVVFNLW1LaWduV1Q5ZEZrMk9tUXRjbjFodV82dnVEQmNPaFhPNG5VSlAxWlVJUHVDcURhclZpSk12a1dpTHJsOVNsNWh3Q2NPMWNTTjVIbDFoWi1tcnJfWi1wS0x2S1FrUTQtY1pBMTZ3SmZNeVlJVENkQ3BDM2xPNjFuZWNsSUI4V3pKbEdETE1NTGFDWGtzLWtZNjRmOHE5dXh0dlZMSWY4?oc=5
 
-- Stock Market News, Feb. 23, 2026: Dow Falls More Than 800 Points on AI, Trade Uncertainty - WSJ
-  The Dow fell more than 800 points on Feb. 23.
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVFjQjNkT0hhLVFtc0pVWlVLOFZKSW9FbU1qRXJaMDFqSUV1VWtnUDByS2Uxd0RLTkdPY3JEV2tTbG0xaDFJN0JZNmdBMWZ6eE85bEFnRzgzay1CZVhWaDFZNmlLWW0ybFV0S2V1ZHJLay1XN0ZvRTFrdkNMNTdqb0FZN3Zpb3NEa2pPNnlrT2lYQQ?oc=5
+- European stocks set for higher open as market nerves ease - CNBC
+  European stocks set for higher open as market
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQYUZVWDlVbTRMd3BtbUhvLUxUbXRJeUxPOHZ4N0E2R1ZzQWxwb09MVzA5SXR4NnVVMkt6MFd5aVVHZXhKNkg4b3d2eHViUnlhNW8xelhBLTk5azhHRDN0VWtUSHRncFgyT1hNV1lodDhLdzdOanZzRzhoTG9od3lPblNCZVBuWFYxNDdnMEphTFVNLUUydWJ4ZHRrem1yWjEyUmfSAacBQVVfeXFMUHhRT0NNMW93eUdGNUpGcHRITjBKMk8zcllPT3J5dVByY0F0emt0ZWpCZTVXYlc5LVZRZWREM0JMVURMWlVTcU82SG43el96VFhYLU1sNjE0VjVwV0U3MzFWYlVEWnpBQ0taS09ZRU5IV1FEMGRrTWJfZW9NM0pEdi1jdERTTXh6Nm9SRlZBSkxpQ3lzRXFFYm1sSzRvNXVoajdZdWVqTkU?oc=5
 
-- European stocks finish higher as Trump's tariffs take effect at lower than expected 10% - CNBC
-  European stocks finish higher as Trump's tariffs take effect at lower
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOMXlDVXBvYmFHcVo2WjBfdkNXTEtDTVoxcUF4bDVnaFVmMUgzdHNaa0tqVHJwdFlqN1JDQVd4NDR1cnM3YmdzMVRKUU1lYUt1ZXBwSzltYndXeGhiQ19NcDdxUWppRThTVXlXajd4RHpvaVRtZWhNX0JHdUYtc2NTNUgwZFlvRHpQZy1VaEd3V2puYmRpUTlkc2IwOWsyZ9IBowFBVV95cUxPclFGdVBXVl9sV2JNOEh1Y3FuakNKS2Ezc3RIXzhHTHlvMU1kNWpOaUMwV2pHMmxmQTdObG9IY3hkemNHSVFfck4xblQ0Z1IyanVGN1VhQWIwYmQ5cmNMLXoyX1Bna21OM2hBUEJ4b3haY0dWYlZreEhpYlVQVUtNSmljbERfRHRQRzNfR1dEWnkzMzRsNTRrcVBWakZhU0Yzb0dZ?oc=5
+- Stocks Mount Tentative Recovery After AI Scare: Markets Wrap - Bloomberg.com
+  Stocks Mount Tentative Recovery After
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2JFNU80TWpmOXVaRXA5M3h2MEZyUjYzOUx3YkdCbng1N1QwaFA2cXZMek5MWGxaV1c3eTFNT3V4Q1JZcWpKekVxZURjUV81YXZBTUdnMU1zTlZNSW9xOEJ4ZURhUE0tTF9SWXdGLXZWSWM1eWNYQXY2OVhocWtnN3EtTEw5LUNUaG1LUDBXWDg0Mjhw?oc=5
 
 - Stock futures inch higher ahead of key earnings results from Nvidia: Live updates - CNBC
   Stock futures inch higher ahead of key earnings results from Nvidia
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5ieXZxVk1RWW52MThkTlJiaUROa1JQajh2Z3lxVmtjcW5ZMDNHNnluMjRraFZVTnpaRGhBa2ZBckpWdW05YkpYZEtLY1Jjd3BTM2lud194YUxYaV9TS0IzaVFOT3ZYcU1yZGdsekE4M1F1Ymg2Y29R?oc=5
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5ieXZxVk1RWW52MThkTlJiaUROa1JQajh2Z3lxVmtjcW5ZMDNHNnluMjRraFZVTnpaRGhBa2ZBckpWdW05YkpYZEtLY1Jjd3BTM2lud194YUxYaV9TS0IzaVFOT3ZYcU1yZGdsekE4M1F1Ymg2Y29R0gF8QVVfeXFMUGJBVi1KMVlUd0dqQ1pfXy0zNmZaZ1VSUGtITGFEcTdKWmpIYzF0UWljRXFhS0FXMV9HelptOUI5RzI1OXpZQm1LdUtBQndCRF9rYUpTRVRJQmZ5SGVMenQ2R184TzFFNGlHcW9JTzM1SVRRSkRFUV9kUkhvWQ?oc=5
 
-- Global Market Today: Asian stocks rise after tech-led rebound in US
-  Asian markets opened higher today. Technology shares led the gains, boosting Wall Street. Investors are now looking ahead to Nvidia's earnings report.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-after-tech-led-rebound-in-us/articleshow/128767053.cms
+- Piyush Pandey sees buying opportunity in IT stocks despite AI fears
+  Piyush Pandey believes AI disruption fears for Indian IT stocks are overblown. He sees long-term opportunities outweighing short-term volatility. Pandey predicts improved performance in FY27
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/piyush-pandey-sees-buying-opportunity-in-it-stocks-despite-ai-fears/articleshow/128772344.cms
 
-- Markets tumble with IT shares hit by renewed anxiety over AI impact
-  The Nifty IT index plunged 4.7%, reflecting investor anxiety over AI's potential to automate legacy system maintenance. Analysts anticipate further downside for the IT sector.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/markets-tumble-with-it-shares-hit-by-renewed-anxiety-over-ai-impact/articleshow/128766987.cms
+- Softer dollar, modest inflows offer breathing room to Indian rupee
+  The Indian rupee held steady near 90.92 against the dollar, supported by a weaker greenback and foreign bank sales. Local stocks, particularly IT shares, rebounded, contributing to modest dollar inflows.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/softer-dollar-modest-inflows-offer-breathing-room-to-indian-rupee/articleshow/128771610.cms
 
-- Flexible workspace sector sees steady growth on multi-city deals, rising demand
-  Indian flexible workspace companies are seeing robust revenue growth and better profits. This is due to strong demand from large businesses and global centers. Companies are shifting to flexible office spaces across multiple cities.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/flex-workspace-sector-sees-steady-growth-on-multi-city-deals-rising-demand/articleshow/128766829.cms
+- Indian bonds rise after strong buying sparks RBI participation bets
+  Indian government bonds saw a rise today. Strong buying from the 'others' investor category boosted prices. This group includes insurers, pension funds, and potentially the Reserve Bank of India.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rise-after-strong-buying-sparks-rbi-participation-bets/articleshow/128771362.cms
 
-- Can Omnitech IPO deliver long-term growth for investors?
-  Omnitech Engineering plans to raise ₹418 crore via a fresh issue. The company faces geographical and tariff risks, a longer working capital cycle, and negative operating cash flow in FY25.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/can-omnitech-ipo-deliver-long-term-growth-for-investors/articleshow/128766788.cms
+- Rs 3 lakh crore added! 5 key factors behind 700-point Sensex surge, Nifty above 25,600
+  Sensex and Nifty 50 indices surged, recovering from a previous day's sharp decline. Key sectors like IT and Metal led the gains. Several major companies contributed to the upward movement.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/why-stock-market-is-rising-today-rs-3-lakh-crore-added-key-factors-behind-700-point-sensex-surge-nifty-above-25600/articleshow/128771120.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  Analysts observe Nifty consolidating within a specific range, with a breakout or breakdown expected to signal the next directional trend. Volatility is anticipated to persist amidst global uncertainties.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128757056.cms
+- Chakri Lokapriya sees value in cyclical and PSU stocks despite market volatility
+  Market strategist Chakri Lokapriya identifies selective opportunities in cyclical sectors, railways, defence, and PSU banks. While near-term capex may be subdued due to US Supreme Court ruling
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/chakri-lokapriya-sees-value-in-cyclical-and-psu-stocks-despite-market-volatility/articleshow/128771257.cms
 
-- Inside Netanyahu's 'Hexagon' Of Alliances And Why He Wants India In It - NDTV
-  The Israeli Prime Minister wants India to be part of
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeHRiNUlDZVFLd1FOZXVMWTE4N1JxSDE3WEpfUG9rQVR6UjFja2FXS2dncjUwMTBVcUxzNEFFWm9tWVJnYnpmTEZwRUZoNU1rQ1BxdndKdGdiMEpJcUxqeHZ5UU5qTElCd25KQVk4TTFHaEpNM1FmaDNfWk5YVENTU18wTlJmenV0TDl6SHZscUNNR21qUWJwbnllOWRwNnpfUHVNT2JmOVNsUWxtQ21HazRZLW1QQWtC0gHAAUFVX3lxTFBUMWRHQjdFWHVyUFhHbHl6SUZCVm9NWEVXNWhDM1ZjSnRReXpBOGQ3SlM3YU1JdFpfS2d1Q1NESERsUEV2Vld2bHVkT19BUjlqMWtrUm80WmtpVUVrQjNzNVJBWG9XQm9CbkpTOV84ODV6TWV3SDJyQzNUV2c3VG1WZm5KM004bDIyVjA2RlFLZ21QMnhWQW9MbzExSHNLUjRhM185UHptUFBaVU4yYVd3RVBWRXNHZ2F2SDU4VWxJMA?oc=5
+- Modi in Israel live: India’s PM to meet Netanyahu, address Knesset - Al Jazeera
+  Modi in Israel live: India’s
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
 
-- Kashmir, spying, demolitions: How Modi’s India embraced ‘Israel model’ - Al Jazeera
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmZmc0pZUGZiSHFzZ0RtSk9iTnVURDNrZTczdDdDMjNpM2wyYWp1cnVvQTduNjRhZnZQcC1IX0w2MVczV2tUMlJkSGxOdEszSXB0VTdudU1ZYVAyTFVMTXVtQzYtaHB6QVlDdmJxQkM0MG9DYkdRMkdSLWVCc3lKUUtKd3RWOTlEaWxQQ3pTMmluTDJSTEZGOTQ0cjUzODRGa2FlLVpvZkoxaFhKSmfSAbMBQVVfeXFMT3dhdlVoSGVKMkVSbUc0MTNTNzRIOWVaVks5NFF4QTU2eTd6Nm5qZVlsdTdVSkVmYjZmekNzYlhPU2lwQUdzS05tNnZIeENrSGstODhZdVUyOXo3N2h3NEdVM1Y0Tmt4dmtEcndiZ2VTbHctWWxqQUh3c3FCN1VTTDRDNFNydzFlQW1zTVFLUEgtaU9YbS1rX2FFOTJRT3B5Q1NaOHg1WXMtRFhBRFJXYkVhWlk?oc=5
+- PM Modi Departs For Israel, Says Visit Will "Set New Goals For Strategic Ties" - NDTV
+  PM Modi Departs For Israel, Says Visit Will "Set
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQODB0Q3oxUWhCaDN3cUc2dkdfLTJuWTh2UWVmNjZ0ak1BdG82YWJ1bG1JTmxPcHI2Y2ZpaVc2b010ZENSa21YVnNwZnVfYnJPbjZiOGh2RHh2bXFRX1NGR1RDeVBDbVpfRGV1Q1hncmdhLVM4TnJBS0xKQ1UwTlBIdV9IaFJZN1VsclVQOXpvMjFINXN1MWhmbjdSTGNuVmVFczFoZnZzczhwdXNXQ1d3c0FBUG1XX1HSAb8BQVVfeXFMT2dKOXRMVWt1R0s2NkJ1MDBnUHF4OFhoTWZpZEpQaE0zUTZqSWpVd2ZLc3NLZUtFcFpBSE91OUJtMmI5S2h1QzlNWWszUGcwM0lOMGJHZmhIWEliOTdMdVE2blJVMVA3OHNGQ1hTZFkwejFsdU43TVd3Q1Q3c1NKV3I4bmVNSzZGN2Vaa0VFdzdBWC0yaGQ5Q0d6ZFIteFZxWkxybEZpUlQ3c3h2OTl0STk5M2JwbGJ4NnNqRkFfREE?oc=5
 
-- Make reforms’ list, give details, PM Modi tells mantris - The Times of India
-  The Times of India reported that PM Modi has
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFVpV0ZocGl6U0M3X3hNM3VJUC1BTm9vT3BYZFg5Vm14c1BRTlE2SFppSWh4U09OY1g0T2dXUjgwNURoRGV3LUpscVpVX3JVME1IS3g4NG5IWTR2UUlEZFNGclNRbzVtaE9obUlDdjlnYTNPemdoNDNETk1OWXZLNE5nWlo0SWNndi12TjdyQThTVWoxU2E5UnBGSVlOOUJXZXpKbjJOMnRaOUlvQjVEbmhtOG5LbjV3RlNQUNIBwgFBVV95cUxORzd1bzE2SGpvVFhvUF93VWRscExuVy1lTHI4SUZrOUZtV3l3RXg3U0tRYXVmYkpXUFZ0ZzNIeG5yN0lTMlNORTRMZmI5MEZYMFh5NDhfd3JvR1ppM0FzWlNtbkFHbnRNUGRUQkFFWWg0U2lmTzBmQVBWQ2Z1Uy1pVGp0TXp5endmTU9zLW50ak5CajdLdDUtcG5zcjQ1QVJ1VzZ1Q3MzWTlmSGdleHE3cm02VTBhRC0wT1d2N3ZZVFdmQQ?oc=5
+- Indian PM Modi to visit Israel February 25-26 - Reuters
+  Indian PM Modi to visit Israel
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0t5RUhEZS1MUWhIV1ZMY05PZW1pcGFUdVEyeGhYMElheXg2TXJzZHBtdk84dlM3b1d2SWtlVWsyYnR3S2pVekNzVjhZSndPMG5PSFhVcjh1em1WU1JTTzdHZUdObDRpdTFfUkE5LWRTa0V6cXdYMlNPQnNsamx3QXpGanE5aUF6MW9RdEstZG5BRG00?oc=5
 
-- School assembly news headlines, February 24: Top India, world, sports, business news - India Today
-  School assembly news headlines, February 24: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTTNqUzIxUkh3Wk1VM1YtaVhuTlBfcWRmWk50cDdRc3N1MHlQcjFZUm9XUGVfdENsMUd0TWpaRGQxSS1iczdwTXFmRmNUd0h4V0Z6Yi1EbGtqUjhDa0ZCNkVBWmttaU9BaUF2Y3ZxVlhscHRrdGxYQWhFd3h5Zl9Oa1JIcVZnck1PeDN5d3UtSUVhZHRQUGZrc2swTWRrS3BXcWtsb0ktXzQwQ3RNVG8wY2Rfend5Ul94SGdkM3ZTRy1Mcl9FT1JGaXFWZzdiUjlUdHNoQURtVGRsVWZwRVRlX05ZS0wzZ9IB6wFBVV95cUxNWGpTbkJHQlhiYWpTLVpfdWEtMGx4YkI3bnZhYU5DdHl2ejBVZmZwTzFuNU9aekwzQ0pjc21tWUhIc0REaGR5OTAxdVVYRTRYTG9IM3JJanNhZmY2RmNaUGtmdWJaMXVoSmNGblEyQWFpQTFJQjdHN2dnbDZYZS15YmxTSmRFdDVwbDA5Q2loYkpsRmhsdEpjbFBGZklBNFJOZGVnZHpXQTJPbHZTM1B1YThuVzA5d2hCR255eFgzMnNQczJla0l2Sk05bFJaT3NzZHJiZy1kb0d1cnFTWF9KNUMyQ25yQWpmX1kw?oc=5
+- Good news! MotoGP set to return to India as UP Govt signs MoU - The Times of India
+  MotoGP set to return to India as UP Govt signs Mo
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY0l6WHEwdlJXaG96LXlham1aR2VYSDJETEVPMnVONkh4emc2MlcwdnBGZ2JQRU03T0l6WWxxZzBFTk8yQl9WMUwxV1M4Sko0WF9OZVJkVHdHcHE4OUxFLXZ3d21COEN5QVNUcjNvOVNCR200QnA2anZKUy1VTjZmQ3ZCZEw0M0FWYnB1ZTB5b1NsakJ5SGdxZFpWazdNMk01bU9xQ0hZYkdGN0ZtV1lQUW05ZzBaeWUzZHE3ZnJmbE9VZVFMd1BLbkNodFZ1WXdZZHdpT2xR0gHbAUFVX3lxTE1QMG5NNXJnX2FDV0FpNFBBTVhobTJtZDVXc2xvOXpVbjB3ZjZIV0Q5czRvSmpGbWtJdnpaRFJPWUFtZzRjYkxUSlNIZ0E1S1RJTUlwWGNObHh6d1hLcGlta0pFanRqQ1BkcENEdTRPT3A4bktvVjVIcGluell1b0QycjBkTHNQRUN6VF9WNzhkUTlQaDdYeHlPalFzRnhYbmc0Ym42ZGt5SWJuZy13TkVOc21XTXVoVURZTFdMcHRzX0ZxQnkxb2h6d0g4RDZtTGI1UzZOUFNrSDhJbw?oc=5
 
-- Need mechanism to make voting mandatory: Supreme Court - The Times of India
-  Need mechanism to make voting mandatory: Supreme Court
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPV1BRMXBZd0hNWm41RE52RW1Cb21ReXAtbFVEdHYtTnU4TnZ6SjgxVWY4d2Qta2UzclpRYmVSQWdWVmNPMVd2TzhLSjZtV1ZSajdzYVR2X2c0MndQYzBBUGJwU0tGRkppUW5iM01HaHBvYTZWTEFaQmRXdEU5S25KaTVwbGdXSjRmcEZlTUJ2d3dhWHhQWENQcVIwajBOaFJXNjY3NnZ0Uy01Zkd0TW1GTnBuV01QVUhMM1JsZGx30gHDAUFVX3lxTE51MWpFZFN4VHo0TGhxeElCT1RyZVRLNWt4ZUJiejVnajlyS2plV3lSNG9OTG10U0pCM2FLUENwQm1hRmZZSzByWnBSSUxpazJTczlWMmEtdkdYNlVKV3dGTmJIcTBHbWpxQVdXa0QtbE1sV3ROcFI1NjJXdFRHaHlIZ1ByQVRxSXFzYzNRcUVCczkwbUdZODZEWTk2ZHRGdzB3YWxBanNWd0NQLVBQRXFKVWlTMmRtbnpiSHpKNEt3bHpDbw?oc=5
+- Indian Army–Indian Railways launch Framework for post-retirement jobs - News On AIR
+  Indian Army–Indian Railways launch Framework
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmkzbHFFSG02U1laTEx4elpXMkZkQzMyMWZOQWJfbVl6bWdGREs4R2J2ZU42OEs3MUZKejVTWjREUWR1UzRFSFFtY2ozNTVkV0hmOXNFel8tLUtIdkF1bV9sT1pKZ21rOEdMNERCV3Zac0RsbGVwTWRDMU1Vdi1JWXJBN0Mybmh6UHA4UDNoTE0tZm42c1M5MTUxVFRkUF8z?oc=5
 
-- Inside Netanyahu's 'Hexagon' Of Alliances And Why He Wants India In It - NDTV
-  The Israeli Prime Minister wants India to be part of
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeHRiNUlDZVFLd1FOZXVMWTE4N1JxSDE3WEpfUG9rQVR6UjFja2FXS2dncjUwMTBVcUxzNEFFWm9tWVJnYnpmTEZwRUZoNU1rQ1BxdndKdGdiMEpJcUxqeHZ5UU5qTElCd25KQVk4TTFHaEpNM1FmaDNfWk5YVENTU18wTlJmenV0TDl6SHZscUNNR21qUWJwbnllOWRwNnpfUHVNT2JmOVNsUWxtQ21HazRZLW1QQWtC0gHAAUFVX3lxTFBUMWRHQjdFWHVyUFhHbHl6SUZCVm9NWEVXNWhDM1ZjSnRReXpBOGQ3SlM3YU1JdFpfS2d1Q1NESERsUEV2Vld2bHVkT19BUjlqMWtrUm80WmtpVUVrQjNzNVJBWG9XQm9CbkpTOV84ODV6TWV3SDJyQzNUV2c3VG1WZm5KM004bDIyVjA2RlFLZ21QMnhWQW9MbzExSHNLUjRhM185UHptUFBaVU4yYVd3RVBWRXNHZ2F2SDU4VWxJMA?oc=5
+- Modi in Israel live: India’s PM to meet Netanyahu, address Knesset - Al Jazeera
+  Modi in Israel live: India’s
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
 
-- Kashmir, spying, demolitions: How Modi’s India embraced ‘Israel model’ - Al Jazeera
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmZmc0pZUGZiSHFzZ0RtSk9iTnVURDNrZTczdDdDMjNpM2wyYWp1cnVvQTduNjRhZnZQcC1IX0w2MVczV2tUMlJkSGxOdEszSXB0VTdudU1ZYVAyTFVMTXVtQzYtaHB6QVlDdmJxQkM0MG9DYkdRMkdSLWVCc3lKUUtKd3RWOTlEaWxQQ3pTMmluTDJSTEZGOTQ0cjUzODRGa2FlLVpvZkoxaFhKSmfSAbMBQVVfeXFMT3dhdlVoSGVKMkVSbUc0MTNTNzRIOWVaVks5NFF4QTU2eTd6Nm5qZVlsdTdVSkVmYjZmekNzYlhPU2lwQUdzS05tNnZIeENrSGstODhZdVUyOXo3N2h3NEdVM1Y0Tmt4dmtEcndiZ2VTbHctWWxqQUh3c3FCN1VTTDRDNFNydzFlQW1zTVFLUEgtaU9YbS1rX2FFOTJRT3B5Q1NaOHg1WXMtRFhBRFJXYkVhWlk?oc=5
+- PM Modi Departs For Israel, Says Visit Will "Set New Goals For Strategic Ties" - NDTV
+  PM Modi Departs For Israel, Says Visit Will "Set
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQODB0Q3oxUWhCaDN3cUc2dkdfLTJuWTh2UWVmNjZ0ak1BdG82YWJ1bG1JTmxPcHI2Y2ZpaVc2b010ZENSa21YVnNwZnVfYnJPbjZiOGh2RHh2bXFRX1NGR1RDeVBDbVpfRGV1Q1hncmdhLVM4TnJBS0xKQ1UwTlBIdV9IaFJZN1VsclVQOXpvMjFINXN1MWhmbjdSTGNuVmVFczFoZnZzczhwdXNXQ1d3c0FBUG1XX1HSAb8BQVVfeXFMT2dKOXRMVWt1R0s2NkJ1MDBnUHF4OFhoTWZpZEpQaE0zUTZqSWpVd2ZLc3NLZUtFcFpBSE91OUJtMmI5S2h1QzlNWWszUGcwM0lOMGJHZmhIWEliOTdMdVE2blJVMVA3OHNGQ1hTZFkwejFsdU43TVd3Q1Q3c1NKV3I4bmVNSzZGN2Vaa0VFdzdBWC0yaGQ5Q0d6ZFIteFZxWkxybEZpUlQ3c3h2OTl0STk5M2JwbGJ4NnNqRkFfREE?oc=5
 
-- Make reforms’ list, give details, PM Modi tells mantris - The Times of India
-  The Times of India reported that PM Modi has
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFVpV0ZocGl6U0M3X3hNM3VJUC1BTm9vT3BYZFg5Vm14c1BRTlE2SFppSWh4U09OY1g0T2dXUjgwNURoRGV3LUpscVpVX3JVME1IS3g4NG5IWTR2UUlEZFNGclNRbzVtaE9obUlDdjlnYTNPemdoNDNETk1OWXZLNE5nWlo0SWNndi12TjdyQThTVWoxU2E5UnBGSVlOOUJXZXpKbjJOMnRaOUlvQjVEbmhtOG5LbjV3RlNQUNIBwgFBVV95cUxORzd1bzE2SGpvVFhvUF93VWRscExuVy1lTHI4SUZrOUZtV3l3RXg3U0tRYXVmYkpXUFZ0ZzNIeG5yN0lTMlNORTRMZmI5MEZYMFh5NDhfd3JvR1ppM0FzWlNtbkFHbnRNUGRUQkFFWWg0U2lmTzBmQVBWQ2Z1Uy1pVGp0TXp5endmTU9zLW50ak5CajdLdDUtcG5zcjQ1QVJ1VzZ1Q3MzWTlmSGdleHE3cm02VTBhRC0wT1d2N3ZZVFdmQQ?oc=5
+- Indian PM Modi to visit Israel February 25-26 - Reuters
+  Indian PM Modi to visit Israel
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0t5RUhEZS1MUWhIV1ZMY05PZW1pcGFUdVEyeGhYMElheXg2TXJzZHBtdk84dlM3b1d2SWtlVWsyYnR3S2pVekNzVjhZSndPMG5PSFhVcjh1em1WU1JTTzdHZUdObDRpdTFfUkE5LWRTa0V6cXdYMlNPQnNsamx3QXpGanE5aUF6MW9RdEstZG5BRG00?oc=5
 
-- School assembly news headlines, February 24: Top India, world, sports, business news - India Today
-  School assembly news headlines, February 24: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTTNqUzIxUkh3Wk1VM1YtaVhuTlBfcWRmWk50cDdRc3N1MHlQcjFZUm9XUGVfdENsMUd0TWpaRGQxSS1iczdwTXFmRmNUd0h4V0Z6Yi1EbGtqUjhDa0ZCNkVBWmttaU9BaUF2Y3ZxVlhscHRrdGxYQWhFd3h5Zl9Oa1JIcVZnck1PeDN5d3UtSUVhZHRQUGZrc2swTWRrS3BXcWtsb0ktXzQwQ3RNVG8wY2Rfend5Ul94SGdkM3ZTRy1Mcl9FT1JGaXFWZzdiUjlUdHNoQURtVGRsVWZwRVRlX05ZS0wzZ9IB6wFBVV95cUxNWGpTbkJHQlhiYWpTLVpfdWEtMGx4YkI3bnZhYU5DdHl2ejBVZmZwTzFuNU9aekwzQ0pjc21tWUhIc0REaGR5OTAxdVVYRTRYTG9IM3JJanNhZmY2RmNaUGtmdWJaMXVoSmNGblEyQWFpQTFJQjdHN2dnbDZYZS15YmxTSmRFdDVwbDA5Q2loYkpsRmhsdEpjbFBGZklBNFJOZGVnZHpXQTJPbHZTM1B1YThuVzA5d2hCR255eFgzMnNQczJla0l2Sk05bFJaT3NzZHJiZy1kb0d1cnFTWF9KNUMyQ25yQWpmX1kw?oc=5
+- Good news! MotoGP set to return to India as UP Govt signs MoU - The Times of India
+  MotoGP set to return to India as UP Govt signs Mo
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY0l6WHEwdlJXaG96LXlham1aR2VYSDJETEVPMnVONkh4emc2MlcwdnBGZ2JQRU03T0l6WWxxZzBFTk8yQl9WMUwxV1M4Sko0WF9OZVJkVHdHcHE4OUxFLXZ3d21COEN5QVNUcjNvOVNCR200QnA2anZKUy1VTjZmQ3ZCZEw0M0FWYnB1ZTB5b1NsakJ5SGdxZFpWazdNMk01bU9xQ0hZYkdGN0ZtV1lQUW05ZzBaeWUzZHE3ZnJmbE9VZVFMd1BLbkNodFZ1WXdZZHdpT2xR0gHbAUFVX3lxTE1QMG5NNXJnX2FDV0FpNFBBTVhobTJtZDVXc2xvOXpVbjB3ZjZIV0Q5czRvSmpGbWtJdnpaRFJPWUFtZzRjYkxUSlNIZ0E1S1RJTUlwWGNObHh6d1hLcGlta0pFanRqQ1BkcENEdTRPT3A4bktvVjVIcGluell1b0QycjBkTHNQRUN6VF9WNzhkUTlQaDdYeHlPalFzRnhYbmc0Ym42ZGt5SWJuZy13TkVOc21XTXVoVURZTFdMcHRzX0ZxQnkxb2h6d0g4RDZtTGI1UzZOUFNrSDhJbw?oc=5
 
-- Need mechanism to make voting mandatory: Supreme Court - The Times of India
-  Need mechanism to make voting mandatory: Supreme Court
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPV1BRMXBZd0hNWm41RE52RW1Cb21ReXAtbFVEdHYtTnU4TnZ6SjgxVWY4d2Qta2UzclpRYmVSQWdWVmNPMVd2TzhLSjZtV1ZSajdzYVR2X2c0MndQYzBBUGJwU0tGRkppUW5iM01HaHBvYTZWTEFaQmRXdEU5S25KaTVwbGdXSjRmcEZlTUJ2d3dhWHhQWENQcVIwajBOaFJXNjY3NnZ0Uy01Zkd0TW1GTnBuV01QVUhMM1JsZGx30gHDAUFVX3lxTE51MWpFZFN4VHo0TGhxeElCT1RyZVRLNWt4ZUJiejVnajlyS2plV3lSNG9OTG10U0pCM2FLUENwQm1hRmZZSzByWnBSSUxpazJTczlWMmEtdkdYNlVKV3dGTmJIcTBHbWpxQVdXa0QtbE1sV3ROcFI1NjJXdFRHaHlIZ1ByQVRxSXFzYzNRcUVCczkwbUdZODZEWTk2ZHRGdzB3YWxBanNWd0NQLVBQRXFKVWlTMmRtbnpiSHpKNEt3bHpDbw?oc=5
-
-- Inside Netanyahu's 'Hexagon' Of Alliances And Why He Wants India In It - NDTV
-  The Israeli Prime Minister wants India to be part of
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeHRiNUlDZVFLd1FOZXVMWTE4N1JxSDE3WEpfUG9rQVR6UjFja2FXS2dncjUwMTBVcUxzNEFFWm9tWVJnYnpmTEZwRUZoNU1rQ1BxdndKdGdiMEpJcUxqeHZ5UU5qTElCd25KQVk4TTFHaEpNM1FmaDNfWk5YVENTU18wTlJmenV0TDl6SHZscUNNR21qUWJwbnllOWRwNnpfUHVNT2JmOVNsUWxtQ21HazRZLW1QQWtC0gHAAUFVX3lxTFBUMWRHQjdFWHVyUFhHbHl6SUZCVm9NWEVXNWhDM1ZjSnRReXpBOGQ3SlM3YU1JdFpfS2d1Q1NESERsUEV2Vld2bHVkT19BUjlqMWtrUm80WmtpVUVrQjNzNVJBWG9XQm9CbkpTOV84ODV6TWV3SDJyQzNUV2c3VG1WZm5KM004bDIyVjA2RlFLZ21QMnhWQW9MbzExSHNLUjRhM185UHptUFBaVU4yYVd3RVBWRXNHZ2F2SDU4VWxJMA?oc=5
-
-- Kashmir, spying, demolitions: How Modi’s India embraced ‘Israel model’ - Al Jazeera
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmZmc0pZUGZiSHFzZ0RtSk9iTnVURDNrZTczdDdDMjNpM2wyYWp1cnVvQTduNjRhZnZQcC1IX0w2MVczV2tUMlJkSGxOdEszSXB0VTdudU1ZYVAyTFVMTXVtQzYtaHB6QVlDdmJxQkM0MG9DYkdRMkdSLWVCc3lKUUtKd3RWOTlEaWxQQ3pTMmluTDJSTEZGOTQ0cjUzODRGa2FlLVpvZkoxaFhKSmfSAbMBQVVfeXFMT3dhdlVoSGVKMkVSbUc0MTNTNzRIOWVaVks5NFF4QTU2eTd6Nm5qZVlsdTdVSkVmYjZmekNzYlhPU2lwQUdzS05tNnZIeENrSGstODhZdVUyOXo3N2h3NEdVM1Y0Tmt4dmtEcndiZ2VTbHctWWxqQUh3c3FCN1VTTDRDNFNydzFlQW1zTVFLUEgtaU9YbS1rX2FFOTJRT3B5Q1NaOHg1WXMtRFhBRFJXYkVhWlk?oc=5
-
-- Make reforms’ list, give details, PM Modi tells mantris - The Times of India
-  The Times of India reported that PM Modi has
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFVpV0ZocGl6U0M3X3hNM3VJUC1BTm9vT3BYZFg5Vm14c1BRTlE2SFppSWh4U09OY1g0T2dXUjgwNURoRGV3LUpscVpVX3JVME1IS3g4NG5IWTR2UUlEZFNGclNRbzVtaE9obUlDdjlnYTNPemdoNDNETk1OWXZLNE5nWlo0SWNndi12TjdyQThTVWoxU2E5UnBGSVlOOUJXZXpKbjJOMnRaOUlvQjVEbmhtOG5LbjV3RlNQUNIBwgFBVV95cUxORzd1bzE2SGpvVFhvUF93VWRscExuVy1lTHI4SUZrOUZtV3l3RXg3U0tRYXVmYkpXUFZ0ZzNIeG5yN0lTMlNORTRMZmI5MEZYMFh5NDhfd3JvR1ppM0FzWlNtbkFHbnRNUGRUQkFFWWg0U2lmTzBmQVBWQ2Z1Uy1pVGp0TXp5endmTU9zLW50ak5CajdLdDUtcG5zcjQ1QVJ1VzZ1Q3MzWTlmSGdleHE3cm02VTBhRC0wT1d2N3ZZVFdmQQ?oc=5
-
-- School assembly news headlines, February 24: Top India, world, sports, business news - India Today
-  School assembly news headlines, February 24: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTTNqUzIxUkh3Wk1VM1YtaVhuTlBfcWRmWk50cDdRc3N1MHlQcjFZUm9XUGVfdENsMUd0TWpaRGQxSS1iczdwTXFmRmNUd0h4V0Z6Yi1EbGtqUjhDa0ZCNkVBWmttaU9BaUF2Y3ZxVlhscHRrdGxYQWhFd3h5Zl9Oa1JIcVZnck1PeDN5d3UtSUVhZHRQUGZrc2swTWRrS3BXcWtsb0ktXzQwQ3RNVG8wY2Rfend5Ul94SGdkM3ZTRy1Mcl9FT1JGaXFWZzdiUjlUdHNoQURtVGRsVWZwRVRlX05ZS0wzZ9IB6wFBVV95cUxNWGpTbkJHQlhiYWpTLVpfdWEtMGx4YkI3bnZhYU5DdHl2ejBVZmZwTzFuNU9aekwzQ0pjc21tWUhIc0REaGR5OTAxdVVYRTRYTG9IM3JJanNhZmY2RmNaUGtmdWJaMXVoSmNGblEyQWFpQTFJQjdHN2dnbDZYZS15YmxTSmRFdDVwbDA5Q2loYkpsRmhsdEpjbFBGZklBNFJOZGVnZHpXQTJPbHZTM1B1YThuVzA5d2hCR255eFgzMnNQczJla0l2Sk05bFJaT3NzZHJiZy1kb0d1cnFTWF9KNUMyQ25yQWpmX1kw?oc=5
-
-- Need mechanism to make voting mandatory: Supreme Court - The Times of India
-  Need mechanism to make voting mandatory: Supreme Court
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPV1BRMXBZd0hNWm41RE52RW1Cb21ReXAtbFVEdHYtTnU4TnZ6SjgxVWY4d2Qta2UzclpRYmVSQWdWVmNPMVd2TzhLSjZtV1ZSajdzYVR2X2c0MndQYzBBUGJwU0tGRkppUW5iM01HaHBvYTZWTEFaQmRXdEU5S25KaTVwbGdXSjRmcEZlTUJ2d3dhWHhQWENQcVIwajBOaFJXNjY3NnZ0Uy01Zkd0TW1GTnBuV01QVUhMM1JsZGx30gHDAUFVX3lxTE51MWpFZFN4VHo0TGhxeElCT1RyZVRLNWt4ZUJiejVnajlyS2plV3lSNG9OTG10U0pCM2FLUENwQm1hRmZZSzByWnBSSUxpazJTczlWMmEtdkdYNlVKV3dGTmJIcTBHbWpxQVdXa0QtbE1sV3ROcFI1NjJXdFRHaHlIZ1ByQVRxSXFzYzNRcUVCczkwbUdZODZEWTk2ZHRGdzB3YWxBanNWd0NQLVBQRXFKVWlTMmRtbnpiSHpKNEt3bHpDbw?oc=5
-
-- Inside Netanyahu's 'Hexagon' Of Alliances And Why He Wants India In It - NDTV
-  The Israeli Prime Minister wants India to be part of
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeHRiNUlDZVFLd1FOZXVMWTE4N1JxSDE3WEpfUG9rQVR6UjFja2FXS2dncjUwMTBVcUxzNEFFWm9tWVJnYnpmTEZwRUZoNU1rQ1BxdndKdGdiMEpJcUxqeHZ5UU5qTElCd25KQVk4TTFHaEpNM1FmaDNfWk5YVENTU18wTlJmenV0TDl6SHZscUNNR21qUWJwbnllOWRwNnpfUHVNT2JmOVNsUWxtQ21HazRZLW1QQWtC0gHAAUFVX3lxTFBUMWRHQjdFWHVyUFhHbHl6SUZCVm9NWEVXNWhDM1ZjSnRReXpBOGQ3SlM3YU1JdFpfS2d1Q1NESERsUEV2Vld2bHVkT19BUjlqMWtrUm80WmtpVUVrQjNzNVJBWG9XQm9CbkpTOV84ODV6TWV3SDJyQzNUV2c3VG1WZm5KM004bDIyVjA2RlFLZ21QMnhWQW9MbzExSHNLUjRhM185UHptUFBaVU4yYVd3RVBWRXNHZ2F2SDU4VWxJMA?oc=5
-
-- Kashmir, spying, demolitions: How Modi’s India embraced ‘Israel model’ - Al Jazeera
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmZmc0pZUGZiSHFzZ0RtSk9iTnVURDNrZTczdDdDMjNpM2wyYWp1cnVvQTduNjRhZnZQcC1IX0w2MVczV2tUMlJkSGxOdEszSXB0VTdudU1ZYVAyTFVMTXVtQzYtaHB6QVlDdmJxQkM0MG9DYkdRMkdSLWVCc3lKUUtKd3RWOTlEaWxQQ3pTMmluTDJSTEZGOTQ0cjUzODRGa2FlLVpvZkoxaFhKSmfSAbMBQVVfeXFMT3dhdlVoSGVKMkVSbUc0MTNTNzRIOWVaVks5NFF4QTU2eTd6Nm5qZVlsdTdVSkVmYjZmekNzYlhPU2lwQUdzS05tNnZIeENrSGstODhZdVUyOXo3N2h3NEdVM1Y0Tmt4dmtEcndiZ2VTbHctWWxqQUh3c3FCN1VTTDRDNFNydzFlQW1zTVFLUEgtaU9YbS1rX2FFOTJRT3B5Q1NaOHg1WXMtRFhBRFJXYkVhWlk?oc=5
-
-- Make reforms’ list, give details, PM Modi tells mantris - The Times of India
-  The Times of India reported that PM Modi has
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFVpV0ZocGl6U0M3X3hNM3VJUC1BTm9vT3BYZFg5Vm14c1BRTlE2SFppSWh4U09OY1g0T2dXUjgwNURoRGV3LUpscVpVX3JVME1IS3g4NG5IWTR2UUlEZFNGclNRbzVtaE9obUlDdjlnYTNPemdoNDNETk1OWXZLNE5nWlo0SWNndi12TjdyQThTVWoxU2E5UnBGSVlOOUJXZXpKbjJOMnRaOUlvQjVEbmhtOG5LbjV3RlNQUNIBwgFBVV95cUxORzd1bzE2SGpvVFhvUF93VWRscExuVy1lTHI4SUZrOUZtV3l3RXg3U0tRYXVmYkpXUFZ0ZzNIeG5yN0lTMlNORTRMZmI5MEZYMFh5NDhfd3JvR1ppM0FzWlNtbkFHbnRNUGRUQkFFWWg0U2lmTzBmQVBWQ2Z1Uy1pVGp0TXp5endmTU9zLW50ak5CajdLdDUtcG5zcjQ1QVJ1VzZ1Q3MzWTlmSGdleHE3cm02VTBhRC0wT1d2N3ZZVFdmQQ?oc=5
-
-- School assembly news headlines, February 24: Top India, world, sports, business news - India Today
-  School assembly news headlines, February 24: Top India,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTTNqUzIxUkh3Wk1VM1YtaVhuTlBfcWRmWk50cDdRc3N1MHlQcjFZUm9XUGVfdENsMUd0TWpaRGQxSS1iczdwTXFmRmNUd0h4V0Z6Yi1EbGtqUjhDa0ZCNkVBWmttaU9BaUF2Y3ZxVlhscHRrdGxYQWhFd3h5Zl9Oa1JIcVZnck1PeDN5d3UtSUVhZHRQUGZrc2swTWRrS3BXcWtsb0ktXzQwQ3RNVG8wY2Rfend5Ul94SGdkM3ZTRy1Mcl9FT1JGaXFWZzdiUjlUdHNoQURtVGRsVWZwRVRlX05ZS0wzZ9IB6wFBVV95cUxNWGpTbkJHQlhiYWpTLVpfdWEtMGx4YkI3bnZhYU5DdHl2ejBVZmZwTzFuNU9aekwzQ0pjc21tWUhIc0REaGR5OTAxdVVYRTRYTG9IM3JJanNhZmY2RmNaUGtmdWJaMXVoSmNGblEyQWFpQTFJQjdHN2dnbDZYZS15YmxTSmRFdDVwbDA5Q2loYkpsRmhsdEpjbFBGZklBNFJOZGVnZHpXQTJPbHZTM1B1YThuVzA5d2hCR255eFgzMnNQczJla0l2Sk05bFJaT3NzZHJiZy1kb0d1cnFTWF9KNUMyQ25yQWpmX1kw?oc=5
-
-- Need mechanism to make voting mandatory: Supreme Court - The Times of India
-  Need mechanism to make voting mandatory: Supreme Court
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPV1BRMXBZd0hNWm41RE52RW1Cb21ReXAtbFVEdHYtTnU4TnZ6SjgxVWY4d2Qta2UzclpRYmVSQWdWVmNPMVd2TzhLSjZtV1ZSajdzYVR2X2c0MndQYzBBUGJwU0tGRkppUW5iM01HaHBvYTZWTEFaQmRXdEU5S25KaTVwbGdXSjRmcEZlTUJ2d3dhWHhQWENQcVIwajBOaFJXNjY3NnZ0Uy01Zkd0TW1GTnBuV01QVUhMM1JsZGx30gHDAUFVX3lxTE51MWpFZFN4VHo0TGhxeElCT1RyZVRLNWt4ZUJiejVnajlyS2plV3lSNG9OTG10U0pCM2FLUENwQm1hRmZZSzByWnBSSUxpazJTczlWMmEtdkdYNlVKV3dGTmJIcTBHbWpxQVdXa0QtbE1sV3ROcFI1NjJXdFRHaHlIZ1ByQVRxSXFzYzNRcUVCczkwbUdZODZEWTk2ZHRGdzB3YWxBanNWd0NQLVBQRXFKVWlTMmRtbnpiSHpKNEt3bHpDbw?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Indian Army–Indian Railways launch Framework for post-retirement jobs - News On AIR
+  Indian Army–Indian Railways launch Framework
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmkzbHFFSG02U1laTEx4elpXMkZkQzMyMWZOQWJfbVl6bWdGREs4R2J2ZU42OEs3MUZKejVTWjREUWR1UzRFSFFtY2ozNTVkV0hmOXNFel8tLUtIdkF1bV9sT1pKZ21rOEdMNERCV3Zac0RsbGVwTWRDMU1Vdi1JWXJBN0Mybmh6UHA4UDNoTE0tZm42c1M5MTUxVFRkUF8z?oc=5
 
 
-_Last updated: 2026-02-25 01:49:40 UTC_
+_Last updated: 2026-02-25 07:00:37 UTC_
